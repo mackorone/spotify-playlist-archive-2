@@ -4,7 +4,7 @@
 
 > de skarpeste knive i dansk musik  📸    Cover: A Good Year
 
-424 songs - 21 hr 46 min
+425 songs - 21 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -227,13 +227,14 @@
 | [Kærligheden Vinder](https://open.spotify.com/track/277dNnpdaPceOiB6lVP8qF) | [Kind mod Kind](https://open.spotify.com/artist/0cc3y7owJCbx8MuYJZI6As) | [Kærligheden Vinder](https://open.spotify.com/album/0lUs9h00R4XAeT2c4Gtjjt) | 3:32 | 2024-06-27 | 2025-02-25 |
 | [Lad Dig Gå](https://open.spotify.com/track/5aLQybTzAGTgbY9QFkMzMH) | [ozzy](https://open.spotify.com/artist/1RJznM4DOSV69NWbkq3RA9), [Thor Farlov](https://open.spotify.com/artist/0YF2oUwHHPo0VTGuqgYG0X) | [Lad Dig Gå](https://open.spotify.com/album/2e4MVybCUxC94Ic5obJPvA) | 2:57 | 2025-04-17 | 2025-08-01 |
 | [Lander Et Sted](https://open.spotify.com/track/1dO1mdz4CTpn2ep7kMYaqY) | [LUCY](https://open.spotify.com/artist/3YYCYfeypDt0g0kwgNYIWw) | [Lander Et Sted](https://open.spotify.com/album/053hmh2lhKniUcNLL8NkKF) | 2:53 | 2024-06-27 | 2025-02-23 |
+| [lao shi](https://open.spotify.com/track/6Z3mpXWlxpH91pkxtvhfYK) | [Helena Gao](https://open.spotify.com/artist/2s2ztYpVGqV3BWDbAcd35h) | [lao shi](https://open.spotify.com/album/2QAToXwax3o7UkhpMZSsW3) | 2:11 | 2026-05-21 |  |
 | [Last Time](https://open.spotify.com/track/7MvfWJfnXqdYZFrkslgEW3) | [Emily Bowen](https://open.spotify.com/artist/4IcbSUnp61Iqco9c8OsTUc) | [Last Time](https://open.spotify.com/album/76zoFSv7yICfy6aHAqw3a5) | 2:42 | 2025-06-05 | 2025-06-13 |
 | [Let It Ripe](https://open.spotify.com/track/0xE6EgmDrk46jpPvUwzTY1) | [The Bird](https://open.spotify.com/artist/0VToPtDRTYvKFpUYh1IIOn) | [Let It Ripe](https://open.spotify.com/album/3WnOw1wygEU7BRmG9trnRC) | 2:22 | 2026-04-16 | 2026-04-24 |
 | [Let Love In](https://open.spotify.com/track/2l6KDYpelKHRRRJDI575rR) | [Jaleesa](https://open.spotify.com/artist/6vITjiBPBg3AzBES4OM7h4) | [Sodalite](https://open.spotify.com/album/3zI4SVPWaD16mLD9MTuS1S) | 4:08 | 2025-10-09 | 2025-10-30 |
 | [Levende Billeder](https://open.spotify.com/track/586R54PZL7ylXFu9UIiPTx) | [Carl Emil Petersen](https://open.spotify.com/artist/110Rr0Zj9wSL6vOlh9DEyW) | [Amager Forbrænding](https://open.spotify.com/album/4Bkf4gR14UujSaNy6WlX8H) | 3:04 | 2024-07-11 | 2024-08-18 |
 | [Life Witness](https://open.spotify.com/track/1wN0cNovbqCI9W4qW8mxyF) | [ORA](https://open.spotify.com/artist/0OwTvInKzIsGDpf2WAKBkA) | [Life Witness](https://open.spotify.com/album/0CB8vDMfO66UUAIaOskgUm) | 2:25 | 2025-01-30 | 2025-07-24 |
 | [Lige Meget Hvor Langt Du Er](https://open.spotify.com/track/1vqPaiBCEjsSmmRRSggJ23) | [KALASET](https://open.spotify.com/artist/2Wqxw6V3d9ZzAf32jTjwW7) | [Lige Meget Hvor Langt Du Er](https://open.spotify.com/album/6fYQkMjQHM0fNCLi92JJrA) | 4:18 | 2025-04-03 | 2026-05-22 |
-| [Lige så fucked som mig](https://open.spotify.com/track/4UFwMCiQUEgF9JgKSsa0Mu) | [Marcus.wav](https://open.spotify.com/artist/2IwoU1JvxmNCdD1i69FmKr) | [Lige så fucked som mig](https://open.spotify.com/album/6hVpbms2YycDjkvHTSagOk) | 2:30 | 2024-09-19 |  |
+| [Lige så fucked som mig](https://open.spotify.com/track/4UFwMCiQUEgF9JgKSsa0Mu) | [Marcus.wav](https://open.spotify.com/artist/2IwoU1JvxmNCdD1i69FmKr) | [Lige så fucked som mig](https://open.spotify.com/album/6hVpbms2YycDjkvHTSagOk) | 2:30 | 2024-09-19 | 2026-05-24 |
 | [Like That](https://open.spotify.com/track/6gLqJMFHxveWZzHKmCbzv1) | [EMMA SEE](https://open.spotify.com/artist/6V1tC04lPs8becylbJk8KM) | [Like That](https://open.spotify.com/album/4jnfnJOU8HwBkc6y63d38h) | 3:16 | 2025-08-14 | 2025-08-22 |
 | [LIMBO](https://open.spotify.com/track/0LEqNH9R8kQxI094YhHBpe) | [ORA](https://open.spotify.com/artist/0OwTvInKzIsGDpf2WAKBkA) | [: \(:](https://open.spotify.com/album/4HN7xWLgsSVl6CdpbNPGRa) | 2:32 | 2025-09-11 | 2025-09-19 |
 | [Livet Er For Kort](https://open.spotify.com/track/6QynJvly6ZcSpcEweJwQEt) | [Kind mod Kind](https://open.spotify.com/artist/0cc3y7owJCbx8MuYJZI6As) | [Livet Er For Kort](https://open.spotify.com/album/2yxKdiluzCssx2saJ4h3NF) | 2:50 | 2026-03-27 |  |

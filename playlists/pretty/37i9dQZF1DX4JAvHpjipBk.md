@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Olivia Rodrigo, Lola Young, Charli xcx, Bleachers, 6LACK & Leon Thomas, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,575,690 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,576,307 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

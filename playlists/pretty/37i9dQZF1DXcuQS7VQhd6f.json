@@ -1,6 +1,6 @@
 {
   "description": "All the Gospel classics you, your mama, and your mama's mama love, in one encouraging playlist!  Cover: Mary Mary",
-  "num_followers": 56172,
+  "num_followers": 56252,
   "original_name": "Gospel Classics",
   "owner": {
     "name": "Spotify",
@@ -531,22 +531,6 @@
     {
       "added_at": "2026-05-14 06:06:40",
       "album": {
-        "name": "Nothing But The Hits: Fred Hammond",
-        "url": "https://open.spotify.com/album/0BrE1eS3LplGo2OnLPa2j4"
-      },
-      "artists": [
-        {
-          "name": "Fred Hammond",
-          "url": "https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484"
-        }
-      ],
-      "duration_ms": 342466,
-      "name": "We're Blessed",
-      "url": "https://open.spotify.com/track/0ZD5LFsk2PMHicGH8MWRN8"
-    },
-    {
-      "added_at": "2026-05-14 06:06:40",
-      "album": {
         "name": "Here I Am",
         "url": "https://open.spotify.com/album/2IIxW2mUKDpa3X6YC0NPlf"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 514306,
       "name": "The Best In Me",
       "url": "https://open.spotify.com/track/1B5NWdLAt8GC4WKTPUCrLM"
+    },
+    {
+      "added_at": "2026-05-14 06:06:40",
+      "album": {
+        "name": "Nothing But The Hits: Fred Hammond",
+        "url": "https://open.spotify.com/album/0BrE1eS3LplGo2OnLPa2j4"
+      },
+      "artists": [
+        {
+          "name": "Fred Hammond",
+          "url": "https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484"
+        }
+      ],
+      "duration_ms": 342466,
+      "name": "We're Blessed",
+      "url": "https://open.spotify.com/track/0ZD5LFsk2PMHicGH8MWRN8"
     },
     {
       "added_at": "2026-05-14 06:06:40",
@@ -611,22 +611,6 @@
     {
       "added_at": "2026-05-14 06:06:40",
       "album": {
-        "name": "God's Property from Kirk Franklin's Nu Nation",
-        "url": "https://open.spotify.com/album/2MCmQvsAE0S5UYI413OC1E"
-      },
-      "artists": [
-        {
-          "name": "Gods Property",
-          "url": "https://open.spotify.com/artist/3xtft29VZ2knyu7dEC9N7X"
-        }
-      ],
-      "duration_ms": 335000,
-      "name": "My Life Is In Your Hands",
-      "url": "https://open.spotify.com/track/58b4jrSFpBMXdNFZFGPbrj"
-    },
-    {
-      "added_at": "2026-05-14 06:06:40",
-      "album": {
         "name": "Introducing DeWayne Woods & When Singers Meet",
         "url": "https://open.spotify.com/album/4WfsQFwx7hSNltRPEoUPbB"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 295746,
       "name": "Let Go",
       "url": "https://open.spotify.com/track/3tQHbcDuZC0Zy323aODWPI"
+    },
+    {
+      "added_at": "2026-05-14 06:06:40",
+      "album": {
+        "name": "God's Property from Kirk Franklin's Nu Nation",
+        "url": "https://open.spotify.com/album/2MCmQvsAE0S5UYI413OC1E"
+      },
+      "artists": [
+        {
+          "name": "Gods Property",
+          "url": "https://open.spotify.com/artist/3xtft29VZ2knyu7dEC9N7X"
+        }
+      ],
+      "duration_ms": 335000,
+      "name": "My Life Is In Your Hands",
+      "url": "https://open.spotify.com/track/58b4jrSFpBMXdNFZFGPbrj"
     },
     {
       "added_at": "2026-05-14 06:06:40",
@@ -891,22 +891,6 @@
     {
       "added_at": "2026-05-14 06:06:40",
       "album": {
-        "name": "The Best Is Yet to Come",
-        "url": "https://open.spotify.com/album/1pmsh7eYdBHknQcNrBFHb7"
-      },
-      "artists": [
-        {
-          "name": "Martha Munizzi",
-          "url": "https://open.spotify.com/artist/0wiD0pcfAS8545DNHBcriR"
-        }
-      ],
-      "duration_ms": 358800,
-      "name": "Glorious",
-      "url": "https://open.spotify.com/track/6vl7yccowSiasnVM2NJZrr"
-    },
-    {
-      "added_at": "2026-05-14 06:06:40",
-      "album": {
         "name": "Go Get It",
         "url": "https://open.spotify.com/album/20bME4IGNpUBm1Rk3TzuP9"
       },
@@ -923,18 +907,34 @@
     {
       "added_at": "2026-05-14 06:06:40",
       "album": {
-        "name": "Bishop Paul Morton - Let It Rain",
-        "url": "https://open.spotify.com/album/1qsnkRCuP9AQD4tKHordO0"
+        "name": "The Best Is Yet to Come",
+        "url": "https://open.spotify.com/album/1pmsh7eYdBHknQcNrBFHb7"
       },
       "artists": [
         {
-          "name": "Bishop Paul S. Morton, Sr.",
-          "url": "https://open.spotify.com/artist/5ktiG2i4Gv54oDKNMJvgmk"
+          "name": "Martha Munizzi",
+          "url": "https://open.spotify.com/artist/0wiD0pcfAS8545DNHBcriR"
         }
       ],
-      "duration_ms": 509466,
-      "name": "Let It Rain",
-      "url": "https://open.spotify.com/track/6L3o6xf3aR5rF1WKN46IuG"
+      "duration_ms": 358800,
+      "name": "Glorious",
+      "url": "https://open.spotify.com/track/6vl7yccowSiasnVM2NJZrr"
+    },
+    {
+      "added_at": "2026-05-14 06:06:40",
+      "album": {
+        "name": "Everyday Jesus",
+        "url": "https://open.spotify.com/album/2Au0g4g40OKq5LJCQluApV"
+      },
+      "artists": [
+        {
+          "name": "Anthony Brown & group therAPy",
+          "url": "https://open.spotify.com/artist/4sgW8IRub0jAU29ecct87w"
+        }
+      ],
+      "duration_ms": 346154,
+      "name": "Worth - Full Version",
+      "url": "https://open.spotify.com/track/6gsTSmu6V9XO7INh2YRa4w"
     },
     {
       "added_at": "2026-05-14 06:06:40",
@@ -955,18 +955,18 @@
     {
       "added_at": "2026-05-14 06:06:40",
       "album": {
-        "name": "Everyday Jesus",
-        "url": "https://open.spotify.com/album/2Au0g4g40OKq5LJCQluApV"
+        "name": "Bishop Paul Morton - Let It Rain",
+        "url": "https://open.spotify.com/album/1qsnkRCuP9AQD4tKHordO0"
       },
       "artists": [
         {
-          "name": "Anthony Brown & group therAPy",
-          "url": "https://open.spotify.com/artist/4sgW8IRub0jAU29ecct87w"
+          "name": "Bishop Paul S. Morton, Sr.",
+          "url": "https://open.spotify.com/artist/5ktiG2i4Gv54oDKNMJvgmk"
         }
       ],
-      "duration_ms": 346154,
-      "name": "Worth - Full Version",
-      "url": "https://open.spotify.com/track/6gsTSmu6V9XO7INh2YRa4w"
+      "duration_ms": 509466,
+      "name": "Let It Rain",
+      "url": "https://open.spotify.com/track/6L3o6xf3aR5rF1WKN46IuG"
     },
     {
       "added_at": "2026-05-14 06:06:40",
@@ -1063,8 +1063,8 @@
     {
       "added_at": "2026-05-14 06:06:40",
       "album": {
-        "name": "Mountain High Valley Low",
-        "url": "https://open.spotify.com/album/6i3sZ5fdBwlPD9b1LVRD6M"
+        "name": "Save The World",
+        "url": "https://open.spotify.com/album/2id38Vd87tLJiKOHfWRqLH"
       },
       "artists": [
         {
@@ -1072,9 +1072,9 @@
           "url": "https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11"
         }
       ],
-      "duration_ms": 417706,
-      "name": "In the Midst of It All",
-      "url": "https://open.spotify.com/track/1Pd0T4S4Ey5BChcU5rEAfn"
+      "duration_ms": 264693,
+      "name": "The Battle Is the Lord's",
+      "url": "https://open.spotify.com/track/2XVRlYilsT0FEMetvDI0UA"
     },
     {
       "added_at": "2026-05-14 06:06:40",
@@ -1147,8 +1147,8 @@
     {
       "added_at": "2026-05-14 06:06:40",
       "album": {
-        "name": "Save The World",
-        "url": "https://open.spotify.com/album/2id38Vd87tLJiKOHfWRqLH"
+        "name": "Mountain High Valley Low",
+        "url": "https://open.spotify.com/album/6i3sZ5fdBwlPD9b1LVRD6M"
       },
       "artists": [
         {
@@ -1156,9 +1156,9 @@
           "url": "https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11"
         }
       ],
-      "duration_ms": 264693,
-      "name": "The Battle Is the Lord's",
-      "url": "https://open.spotify.com/track/2XVRlYilsT0FEMetvDI0UA"
+      "duration_ms": 417706,
+      "name": "In the Midst of It All",
+      "url": "https://open.spotify.com/track/1Pd0T4S4Ey5BChcU5rEAfn"
     },
     {
       "added_at": "2026-05-14 06:06:40",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2026-05-14 06:06:40",
       "album": {
+        "name": "I Win",
+        "url": "https://open.spotify.com/album/0dUwwydEAKBx0aF0tXK2Fu"
+      },
+      "artists": [
+        {
+          "name": "Marvin Sapp",
+          "url": "https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo"
+        }
+      ],
+      "duration_ms": 625293,
+      "name": "My Testimony",
+      "url": "https://open.spotify.com/track/196FnomJI3OvKmLy6PyFWk"
+    },
+    {
+      "added_at": "2026-05-14 06:06:40",
+      "album": {
         "name": "Adoration",
         "url": "https://open.spotify.com/album/1wsXZGszbQUTJnfuJABlZp"
       },
@@ -1227,22 +1243,6 @@
       "duration_ms": 299600,
       "name": "Total Praise (with Vision) - Live",
       "url": "https://open.spotify.com/track/3eGrTHQnpSE0LRrNrMxMRr"
-    },
-    {
-      "added_at": "2026-05-14 06:06:40",
-      "album": {
-        "name": "I Win",
-        "url": "https://open.spotify.com/album/0dUwwydEAKBx0aF0tXK2Fu"
-      },
-      "artists": [
-        {
-          "name": "Marvin Sapp",
-          "url": "https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo"
-        }
-      ],
-      "duration_ms": 625293,
-      "name": "My Testimony",
-      "url": "https://open.spotify.com/track/196FnomJI3OvKmLy6PyFWk"
     },
     {
       "added_at": "2026-05-14 06:06:40",
@@ -1419,26 +1419,6 @@
     {
       "added_at": "2026-05-14 06:06:40",
       "album": {
-        "name": "Let The Church Say Amen (Radio Edit)",
-        "url": "https://open.spotify.com/album/7in33XBpTwwyVMMHGJKZT3"
-      },
-      "artists": [
-        {
-          "name": "Andrae Crouch",
-          "url": "https://open.spotify.com/artist/3pxLSxg8klHu1L9d93cpq7"
-        },
-        {
-          "name": "Marvin Winans",
-          "url": "https://open.spotify.com/artist/2QuleHm5yBUYv3vjqWTM79"
-        }
-      ],
-      "duration_ms": 294813,
-      "name": "Let The Church Say Amen - Radio Edit",
-      "url": "https://open.spotify.com/track/66mi3OKkrYHZkV9T62Ytyy"
-    },
-    {
-      "added_at": "2026-05-14 06:06:40",
-      "album": {
         "name": "The Essential Hezekiah Walker",
         "url": "https://open.spotify.com/album/2JiAo61bWiLtsaeQY7YPEg"
       },
@@ -1455,6 +1435,26 @@
       "duration_ms": 451080,
       "name": "I Need You To Survive",
       "url": "https://open.spotify.com/track/1S3YUQ2QayTWO78iY3farE"
+    },
+    {
+      "added_at": "2026-05-14 06:06:40",
+      "album": {
+        "name": "Let The Church Say Amen (Radio Edit)",
+        "url": "https://open.spotify.com/album/7in33XBpTwwyVMMHGJKZT3"
+      },
+      "artists": [
+        {
+          "name": "Andrae Crouch",
+          "url": "https://open.spotify.com/artist/3pxLSxg8klHu1L9d93cpq7"
+        },
+        {
+          "name": "Marvin Winans",
+          "url": "https://open.spotify.com/artist/2QuleHm5yBUYv3vjqWTM79"
+        }
+      ],
+      "duration_ms": 294813,
+      "name": "Let The Church Say Amen - Radio Edit",
+      "url": "https://open.spotify.com/track/66mi3OKkrYHZkV9T62Ytyy"
     },
     {
       "added_at": "2026-05-14 06:06:40",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2026-05-14 06:06:40",
       "album": {
-        "name": "Live: One Last Time",
-        "url": "https://open.spotify.com/album/4q02ycz7FsngzsYDtjaIMc"
-      },
-      "artists": [
-        {
-          "name": "The Clark Sisters",
-          "url": "https://open.spotify.com/artist/6VUdDU44uo3KwSHc9lAEFE"
-        }
-      ],
-      "duration_ms": 258373,
-      "name": "You Brought The Sunshine - Live",
-      "url": "https://open.spotify.com/track/2yK4879j9Q1XnJio6ETqJV"
-    },
-    {
-      "added_at": "2026-05-14 06:06:40",
-      "album": {
         "name": "Worth Fighting For (Deluxe Edition/Live)",
         "url": "https://open.spotify.com/album/2k0sC10qtMISosAn9xgvNe"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 406480,
       "name": "Worth Fighting For - Live",
       "url": "https://open.spotify.com/track/51fegUPIH02heRh9fkkLwE"
+    },
+    {
+      "added_at": "2026-05-14 06:06:40",
+      "album": {
+        "name": "Live: One Last Time",
+        "url": "https://open.spotify.com/album/4q02ycz7FsngzsYDtjaIMc"
+      },
+      "artists": [
+        {
+          "name": "The Clark Sisters",
+          "url": "https://open.spotify.com/artist/6VUdDU44uo3KwSHc9lAEFE"
+        }
+      ],
+      "duration_ms": 258373,
+      "name": "You Brought The Sunshine - Live",
+      "url": "https://open.spotify.com/track/2yK4879j9Q1XnJio6ETqJV"
     },
     {
       "added_at": "2026-05-14 06:06:40",
@@ -2003,6 +2003,22 @@
     {
       "added_at": "2026-05-14 06:06:40",
       "album": {
+        "name": "At The Cross",
+        "url": "https://open.spotify.com/album/6NtgqCI8NjtEVO9BXR61ZE"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 219729,
+      "name": "At The Cross",
+      "url": "https://open.spotify.com/track/2I7FJ9UTsIQebKUOSDM2AN"
+    },
+    {
+      "added_at": "2026-05-14 06:06:40",
+      "album": {
         "name": "Live in London and More ..",
         "url": "https://open.spotify.com/album/6A55aHMWgoZgzjLfsTJU6v"
       },
@@ -2035,22 +2051,6 @@
       "duration_ms": 262079,
       "name": "I Belong To You",
       "url": "https://open.spotify.com/track/5jhFCeJJ1bKZW0UunvVBgM"
-    },
-    {
-      "added_at": "2026-05-14 06:06:40",
-      "album": {
-        "name": "At The Cross",
-        "url": "https://open.spotify.com/album/6NtgqCI8NjtEVO9BXR61ZE"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 219729,
-      "name": "At The Cross",
-      "url": "https://open.spotify.com/track/2I7FJ9UTsIQebKUOSDM2AN"
     },
     {
       "added_at": "2026-05-14 06:06:40",
@@ -2255,6 +2255,22 @@
     {
       "added_at": "2026-05-14 06:06:40",
       "album": {
+        "name": "Right Now Praise",
+        "url": "https://open.spotify.com/album/5bXz7wIK9dCdP5Ua5WxSox"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Nelson",
+          "url": "https://open.spotify.com/artist/4oI0W9neUi7nvxcQKDY5Xa"
+        }
+      ],
+      "duration_ms": 392173,
+      "name": "My Name is Victory",
+      "url": "https://open.spotify.com/track/5SDnSsuRRQXmIIU75neTAG"
+    },
+    {
+      "added_at": "2026-05-14 06:06:40",
+      "album": {
         "name": "Shout It Loud",
         "url": "https://open.spotify.com/album/4g8iTahsd8a7fVTSCSxHBq"
       },
@@ -2283,22 +2299,6 @@
       "duration_ms": 260431,
       "name": "I See Miracles",
       "url": "https://open.spotify.com/track/4c11HmomjkYU2wf9maxf17"
-    },
-    {
-      "added_at": "2026-05-14 06:06:40",
-      "album": {
-        "name": "A Worshipper's Heart",
-        "url": "https://open.spotify.com/album/5xaGK6HOJPPpRlcQEDVBfJ"
-      },
-      "artists": [
-        {
-          "name": "Todd Dulaney",
-          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
-        }
-      ],
-      "duration_ms": 344019,
-      "name": "Victory Belongs To Jesus",
-      "url": "https://open.spotify.com/track/4bJM66nNeI2TZ1cSRKpLfm"
     },
     {
       "added_at": "2026-05-14 06:06:40",
@@ -2335,6 +2335,22 @@
     {
       "added_at": "2026-05-14 06:06:40",
       "album": {
+        "name": "A Worshipper's Heart",
+        "url": "https://open.spotify.com/album/5xaGK6HOJPPpRlcQEDVBfJ"
+      },
+      "artists": [
+        {
+          "name": "Todd Dulaney",
+          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
+        }
+      ],
+      "duration_ms": 344019,
+      "name": "Victory Belongs To Jesus",
+      "url": "https://open.spotify.com/track/4bJM66nNeI2TZ1cSRKpLfm"
+    },
+    {
+      "added_at": "2026-05-14 06:06:40",
+      "album": {
         "name": "The Message",
         "url": "https://open.spotify.com/album/3riCApH5rikK2q1GXHxpss"
       },
@@ -2363,22 +2379,6 @@
       "duration_ms": 349146,
       "name": "Awesome",
       "url": "https://open.spotify.com/track/0oA7qqMEL8R044XA699F00"
-    },
-    {
-      "added_at": "2026-05-14 06:06:40",
-      "album": {
-        "name": "More Than Anything (Radio Edit)",
-        "url": "https://open.spotify.com/album/2Mk07z67gI2kAyGCg4HHNk"
-      },
-      "artists": [
-        {
-          "name": "Anita Wilson",
-          "url": "https://open.spotify.com/artist/4rEGEwaOU6Mtdj4ylW0fjS"
-        }
-      ],
-      "duration_ms": 260120,
-      "name": "More Than Anything (Radio Edit)",
-      "url": "https://open.spotify.com/track/6DcJwlUVG4U9mF0IfQJzMK"
     },
     {
       "added_at": "2026-05-14 06:06:40",
@@ -2415,18 +2415,18 @@
     {
       "added_at": "2026-05-14 06:06:40",
       "album": {
-        "name": "Right Now Praise",
-        "url": "https://open.spotify.com/album/5bXz7wIK9dCdP5Ua5WxSox"
+        "name": "More Than Anything (Radio Edit)",
+        "url": "https://open.spotify.com/album/2Mk07z67gI2kAyGCg4HHNk"
       },
       "artists": [
         {
-          "name": "Jonathan Nelson",
-          "url": "https://open.spotify.com/artist/4oI0W9neUi7nvxcQKDY5Xa"
+          "name": "Anita Wilson",
+          "url": "https://open.spotify.com/artist/4rEGEwaOU6Mtdj4ylW0fjS"
         }
       ],
-      "duration_ms": 392173,
-      "name": "My Name is Victory",
-      "url": "https://open.spotify.com/track/5SDnSsuRRQXmIIU75neTAG"
+      "duration_ms": 260120,
+      "name": "More Than Anything (Radio Edit)",
+      "url": "https://open.spotify.com/track/6DcJwlUVG4U9mF0IfQJzMK"
     },
     {
       "added_at": "2026-05-14 06:06:40",

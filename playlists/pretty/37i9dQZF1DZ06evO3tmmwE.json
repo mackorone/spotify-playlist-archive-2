@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ag5LAAAAAAAPWCByjOlTKmstF6hof0nj",
+  "snapshot_id": "ag+cgAAAAACEEjxrHod4om6FhcE8uL/5",
   "tracks": [
     {
       "added_at": null,
@@ -422,11 +422,15 @@
         {
           "name": "Bo Bundy",
           "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        },
+        {
+          "name": "Izzy93",
+          "url": "https://open.spotify.com/artist/2AfyzCxD2WTuEbV0XoZajq"
         }
       ],
-      "duration_ms": 159712,
-      "name": "Touring Tx",
-      "url": "https://open.spotify.com/track/3QUhAIRAiWTAZXPPWsDinU"
+      "duration_ms": 107000,
+      "name": "Mexicanos",
+      "url": "https://open.spotify.com/track/6HfnFJBz9UClB8nJKzcp2u"
     },
     {
       "added_at": null,
@@ -494,15 +498,11 @@
         {
           "name": "Bo Bundy",
           "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
-        },
-        {
-          "name": "Izzy93",
-          "url": "https://open.spotify.com/artist/2AfyzCxD2WTuEbV0XoZajq"
         }
       ],
-      "duration_ms": 107000,
-      "name": "Mexicanos",
-      "url": "https://open.spotify.com/track/6HfnFJBz9UClB8nJKzcp2u"
+      "duration_ms": 159712,
+      "name": "Touring Tx",
+      "url": "https://open.spotify.com/track/3QUhAIRAiWTAZXPPWsDinU"
     },
     {
       "added_at": null,
@@ -582,15 +582,11 @@
         {
           "name": "Bo Bundy",
           "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
-        },
-        {
-          "name": "Andy Hernandez",
-          "url": "https://open.spotify.com/artist/7nB8tKUsp7YlXtuHdn8EMR"
         }
       ],
-      "duration_ms": 124879,
-      "name": "Pa los Hombres",
-      "url": "https://open.spotify.com/track/0gFsz5GfIcGnO9eM4htJOS"
+      "duration_ms": 188764,
+      "name": "Devu\u00e9lveme a Mi Chica",
+      "url": "https://open.spotify.com/track/6G3fJvkjymkC08v1eB7WsB"
     },
     {
       "added_at": null,
@@ -658,11 +654,15 @@
         {
           "name": "Bo Bundy",
           "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        },
+        {
+          "name": "Andy Hernandez",
+          "url": "https://open.spotify.com/artist/7nB8tKUsp7YlXtuHdn8EMR"
         }
       ],
-      "duration_ms": 188764,
-      "name": "Devu\u00e9lveme a Mi Chica",
-      "url": "https://open.spotify.com/track/6G3fJvkjymkC08v1eB7WsB"
+      "duration_ms": 124879,
+      "name": "Pa los Hombres",
+      "url": "https://open.spotify.com/track/0gFsz5GfIcGnO9eM4htJOS"
     },
     {
       "added_at": null,

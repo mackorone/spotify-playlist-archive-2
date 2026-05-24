@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0tOuj6.md) - [plain]
 
 > This is Tokyo Ska Paradise Orchestra\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,788 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,792 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0tOuj6.md) - [plain]
 | 19 | [明日以外すべて燃やせ \- feat.宮本浩次](https://open.spotify.com/track/5EfzlCnJqVApzkjgKf6Kf5) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [Hiroji Miyamoto](https://open.spotify.com/artist/37yA8FvkJWnXZXbRg4IQaT) | [ツギハギカラフル](https://open.spotify.com/album/6riD8MZKwqtM6GCStYISKj) | 4:21 |
 | 20 | [Showdown](https://open.spotify.com/track/7qnvzNVXbLCCjlrvi6plJp) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [［SKA］SHOWDOWN](https://open.spotify.com/album/05qBkJ2QwzCp3FMoD4O1MN) | 3:01 |
 | 21 | [追憶のライラック \- feat.ハナレグミ \[2020 Remaster\]](https://open.spotify.com/track/5alRebdMl0mgrkyu1UlOLo) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [Hanare Gumi](https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte) | [TOKYO SKA TREASURES〜ベスト・オブ・東京スカパラダイスオーケストラ〜](https://open.spotify.com/album/0wFDFV3dl6tYSf5iCoMVlC) | 5:01 |
-| 22 | [リボン \- feat.桜井和寿\(Mr.Children\)](https://open.spotify.com/track/1Yk7N0YXbx36UfvdwnZjBt) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [Kazutoshi Sakurai](https://open.spotify.com/artist/4zDHk92mbBkXMT6QIisUvN) | [リボン \[feat.桜井和寿\(Mr.Children\)\]](https://open.spotify.com/album/50IqCwJbqBzE6mOFIsSQyk) | 3:56 |
-| 23 | [雨とペトラ Prod\. by 東京スカパラダイスオーケストラ](https://open.spotify.com/track/0OVMFhMuBXzoD85KU0cK5e) | [Mitsuki Takahata](https://open.spotify.com/artist/6n21y1MVxkEBZnezjLGiXk), [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [雨とペトラ Prod\. by 東京スカパラダイスオーケストラ](https://open.spotify.com/album/12qDx0AL3Ci2thLC9LAlg8) | 4:00 |
+| 22 | [雨とペトラ Prod\. by 東京スカパラダイスオーケストラ](https://open.spotify.com/track/0OVMFhMuBXzoD85KU0cK5e) | [Mitsuki Takahata](https://open.spotify.com/artist/6n21y1MVxkEBZnezjLGiXk), [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [雨とペトラ Prod\. by 東京スカパラダイスオーケストラ](https://open.spotify.com/album/12qDx0AL3Ci2thLC9LAlg8) | 4:00 |
+| 23 | [リボン \- feat.桜井和寿\(Mr.Children\)](https://open.spotify.com/track/1Yk7N0YXbx36UfvdwnZjBt) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [Kazutoshi Sakurai](https://open.spotify.com/artist/4zDHk92mbBkXMT6QIisUvN) | [リボン \[feat.桜井和寿\(Mr.Children\)\]](https://open.spotify.com/album/50IqCwJbqBzE6mOFIsSQyk) | 3:56 |
 | 24 | [盗まれたZIPANGU \- feat.浅井健一](https://open.spotify.com/track/2bxDjVtuza7NC3XxuOGdQ7) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [Kenichi Asai](https://open.spotify.com/artist/5Gm55pqgmqzj8QbaHQTCFd) | [［SKA］SHOWDOWN](https://open.spotify.com/album/05qBkJ2QwzCp3FMoD4O1MN) | 4:03 |
 | 25 | [Dale Dale! 〜ダレ・ダレ!〜 \- feat.チバユウスケ](https://open.spotify.com/track/4deHviaMO5PAecTlfJUOLL) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [チバユウスケ](https://open.spotify.com/artist/22a6IbaR2zoPAkudKhWXaW) | [ツギハギカラフル](https://open.spotify.com/album/6riD8MZKwqtM6GCStYISKj) | 2:43 |
 | 26 | [星降る夜に](https://open.spotify.com/track/6fcIUJpgdpRvyhSjJzQouI) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [BEST OF TOKYO SKA 1998\-2007](https://open.spotify.com/album/1RdNgVSyLueO46yH5SAjkc) | 4:13 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0tOuj6.md) - [plain]
 | 46 | [The Liar](https://open.spotify.com/track/4pas3xK08ZIspvzdrxhERj) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [［SKA］SHOWDOWN](https://open.spotify.com/album/05qBkJ2QwzCp3FMoD4O1MN) | 3:29 |
 | 47 | [S.O.S\. \[Share One Sorrow\] \- feat.Tokyo Tanaka & Jean\-Ken Johnny](https://open.spotify.com/track/0WiJhz5KOuIjtXkjo5Ckt2) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [Tokyo Tanaka](https://open.spotify.com/artist/1CCYrklxWCwWnOEm2mn4zC), [Jean\-Ken Johnny](https://open.spotify.com/artist/1Bk56nx76xE4nP01ZhDsPE) | [S.O.S\. \[Share One Sorrow\] \(feat.Tokyo Tanaka & Jean\-Ken Johnny\)](https://open.spotify.com/album/0dCx3huClCtbq4KZvi4SRr) | 4:02 |
 | 48 | [Pride Of Lions](https://open.spotify.com/track/3DiWVJ7ULgCB3PoHT7UWdz) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [TOKYO SKA PARADISE ORCHESTRA〜Selecao Brasileira〜](https://open.spotify.com/album/6hfDogTMwv2sOedEilBONy) | 5:08 |
-| 49 | [風に戦ぐブルーズ \- feat.TAKUMA \(10\-FEET\)](https://open.spotify.com/track/1bst6b0Ax3XzPECji6z5Fq) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [風に戦ぐブルーズ \[feat.TAKUMA \(10\-FEET\)\]](https://open.spotify.com/album/6rtIq83ix9y8z2AeQhAoOh) | 5:03 |
+| 49 | [ハズムリズム](https://open.spotify.com/track/304bvRFSa1FWWhEikehA1c) | [Puffy AmiYumi](https://open.spotify.com/artist/2wPaW7JIZGyM16donpyBmW), [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [Hit & Fun](https://open.spotify.com/album/1NX7JIVLTM2CO65qlL3y6e) | 4:26 |
 | 50 | [Once In A Lifetime](https://open.spotify.com/track/4NcDiIIXj6fCrfCR7ayqPU) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [［SKA］SHOWDOWN](https://open.spotify.com/album/05qBkJ2QwzCp3FMoD4O1MN) | 4:11 |
 
-Snapshot ID: `ag5LAAAAAABmVeUhkJTWE+x2t9LJ4i5K`
+Snapshot ID: `ag+cgAAAAAD5S6a+jRhD7BoTKv8v/1hP`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0684jS.md) - [plain]
 
 > This is Nicki Minaj\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 888,727 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 888,722 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0684jS.md) - [plain]
 | 49 | [Bed \(feat\. Ariana Grande\)](https://open.spotify.com/track/3L4GsGLgxpHieVQH86H8bv) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Queen](https://open.spotify.com/album/2acDkDTWdNFie1HjcFa4Ny) | 3:09 |
 | 50 | [Down In the DM \(feat\. Nicki Minaj\) \- Remix](https://open.spotify.com/track/5w1vhNA2OEWUQ371QzyMmM) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [The Art of Hustle \(Deluxe\)](https://open.spotify.com/album/0s9cSoniuN0HfXpwlCpGUF) | 4:18 |
 
-Snapshot ID: `ag5LAAAAAADAlZ3GmZPikb7ejty/rN0m`
+Snapshot ID: `ag+cgAAAAAD9JZWYsEymLjigaGEXQDuY`

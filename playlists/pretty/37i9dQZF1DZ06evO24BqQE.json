@@ -1,12 +1,12 @@
 {
   "description": "This is BNXN. The essential tracks, all in one playlist.",
-  "num_followers": 49071,
+  "num_followers": 49118,
   "original_name": "This Is BNXN",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ag5LAAAAAAAPRkt1ZquPbSg/GfAsmdCM",
+  "snapshot_id": "ag+cgAAAAAAOJ3iUZ3qqqQkRJUajcZpy",
   "tracks": [
     {
       "added_at": null,
@@ -27,6 +27,34 @@
       "duration_ms": 202027,
       "name": "Emotional High",
       "url": "https://open.spotify.com/track/0wCK6mBuDPJpNUFBK6HfRE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Come Slide",
+        "url": "https://open.spotify.com/album/1w5cLDjyPVMfV1tYbziBk4"
+      },
+      "artists": [
+        {
+          "name": "KFMD",
+          "url": "https://open.spotify.com/artist/1OjbMcNg4moIhv8nnflAAa"
+        },
+        {
+          "name": "Qing Madi",
+          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        },
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 183947,
+      "name": "Come Slide",
+      "url": "https://open.spotify.com/track/75uppmIvjtxiutMdmA8C9c"
     },
     {
       "added_at": null,
@@ -807,6 +835,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Traboski",
+        "url": "https://open.spotify.com/album/7A0qUYFzVQZGI6IcFebIiN"
+      },
+      "artists": [
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 155860,
+      "name": "Traboski",
+      "url": "https://open.spotify.com/track/2woGTVY8Vx46aYuXfMmwwE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "ATSG, Vol. 1",
         "url": "https://open.spotify.com/album/0eVa4HR3x7BlftG6OsvTAn"
       },
@@ -827,22 +871,6 @@
       "duration_ms": 189038,
       "name": "Hustle",
       "url": "https://open.spotify.com/track/1IcnpAY3JjK8b0dkpCZjdS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Traboski",
-        "url": "https://open.spotify.com/album/7A0qUYFzVQZGI6IcFebIiN"
-      },
-      "artists": [
-        {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 155860,
-      "name": "Traboski",
-      "url": "https://open.spotify.com/track/2woGTVY8Vx46aYuXfMmwwE"
     },
     {
       "added_at": null,

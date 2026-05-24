@@ -4,7 +4,7 @@
 
 > Música tranquila para evadirse.
 
-527 songs - 1 day 5 hr 53 min
+528 songs - 1 day 5 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -251,7 +251,7 @@
 | [La ficción](https://open.spotify.com/track/6WTsVuIxIgTAe7byjV16jR) | [Verde Prato](https://open.spotify.com/artist/04WGKyAt0klDPxUw2roFfi) | [El final](https://open.spotify.com/album/5fXUKHOIBvJwR4SvcCyxpD) | 3:18 | 2026-04-09 |  |
 | [La herida que prefiero](https://open.spotify.com/track/4OEpTmPCpKZpYneJoyhV2k) | [Calequi y Las Panteras](https://open.spotify.com/artist/1ktDK2MSGJMNB2hBgmki5u) | [TRES](https://open.spotify.com/album/1gBxtmX08ZwNWBXH8a3qX6) | 3:32 | 2026-03-13 |  |
 | [La Jarrita del Tiempo](https://open.spotify.com/track/3NgYHChyjR1Qq1TyYW8u7m) | [Alvaro Ruiz](https://open.spotify.com/artist/2GIa4g7H34OOiHxGSZPFMg), [Vic Mirallas](https://open.spotify.com/artist/08VkVB0giqumfUMl4Ea922) | [La Jarrita del Tiempo](https://open.spotify.com/album/0IcSVkTdbn0VM4ekxHFTtd) | 4:01 | 2025-09-18 | 2026-05-01 |
-| [La jugada maestra](https://open.spotify.com/track/4xutN2gHS4wl4kXZNAhP3A) | [Amateur](https://open.spotify.com/artist/0CD9lsggFxmq6NRO2EUiZ2) | [La jugada maestra](https://open.spotify.com/album/46HNGax06gtSaaHdXqEgFn) | 5:28 | 2025-12-04 |  |
+| [La jugada maestra](https://open.spotify.com/track/4xutN2gHS4wl4kXZNAhP3A) | [Amateur](https://open.spotify.com/artist/0CD9lsggFxmq6NRO2EUiZ2) | [La jugada maestra](https://open.spotify.com/album/46HNGax06gtSaaHdXqEgFn) | 5:28 | 2025-12-04 | 2026-05-24 |
 | [La Pena Vuela \(VMG\)](https://open.spotify.com/track/65yD11M9keuQoajWuLMb9M) | [Manuel García](https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX), [Rozalén](https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz) | [La Pena Vuela \(VMG\)](https://open.spotify.com/album/2HBnc7C7JSw1H3PJR5iNcb) | 2:34 | 2025-01-03 | 2025-09-19 |
 | [La quiero a morir](https://open.spotify.com/track/1Qmt5U4scVzanyDtPvSg6g) | [Laura Durand](https://open.spotify.com/artist/2f640dm9Cq8hDfaylaQb3j) | [La quiero a morir](https://open.spotify.com/album/0pmLX0HptN38IBvLcT0Qgx) | 4:15 | 2025-09-18 |  |
 | [La torre](https://open.spotify.com/track/5ikeAsdJ8npRBfkfFDK0MJ) | [Tórtel](https://open.spotify.com/artist/7tLkQje1Hr44cnNKqS06w9) | [La torre](https://open.spotify.com/album/4YmtpXJo1mIIACyB38Rbxm) | 1:42 | 2025-10-30 | 2026-03-14 |
@@ -417,6 +417,7 @@
 | [santo el cielo \(q brilla x nós\)](https://open.spotify.com/track/7bTlEyHjDXbsryF1V1ciRn) | [diego vega](https://open.spotify.com/artist/6ag0VsoRhre1BF6GBwWyU7), [Kfé](https://open.spotify.com/artist/21Oja0BVOrXu4kGqK8MfDF), [Rotea](https://open.spotify.com/artist/3OKVcQdRVWwfLZNnqcQ8XN) | [santo el cielo \(q brilla x nós\)](https://open.spotify.com/album/5bN7LBQG2NSeXuHacVzHH0) | 3:06 | 2025-10-30 | 2025-11-22 |
 | [Scarlett](https://open.spotify.com/track/5UqTWnG7YZAbj1SYMvnGsU) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Can You Afford To Lose Me?](https://open.spotify.com/album/17XDDX3RYaIu56inOJzAWO) | 3:16 | 2022-11-11 | 2023-06-10 |
 | [Se me va la cabeza](https://open.spotify.com/track/13EH3kAXsKW4JsV0VXUqHP) | [Lorea](https://open.spotify.com/artist/1MDkDwsmewnWgu5bS7k149) | [Los problemas se frotan](https://open.spotify.com/album/4ahZcKacaiTXLIuHOJoUOL) | 3:10 | 2026-05-14 |  |
+| [Sendero](https://open.spotify.com/track/1VMZhU40aZ47lvM0IE67M6) | [Twanguero](https://open.spotify.com/artist/1qupsn74dUofcXCZCBEwMS) | [Sendero](https://open.spotify.com/album/6t2TdfdAexix1Q4RQtl5VG) | 4:52 | 2026-05-14 |  |
 | [She Burns](https://open.spotify.com/track/3rUw4cRDeYVZhjkUXBnFUQ) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [The Wild Swan](https://open.spotify.com/album/0njBaqTHPEL9qHsrT6NBVz) | 3:49 | 2022-11-11 | 2023-03-18 |
 | [Shotput](https://open.spotify.com/track/6RmWk7p9QY8VMGHdgq4Ulh) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Shotput](https://open.spotify.com/album/4d6gnwGphGyx6ZPZRbs5Ir) | 2:50 | 2024-03-22 | 2024-05-03 |
 | [Si Entras Tú](https://open.spotify.com/track/6n2WRPkRDZzuijN5ugt7EL) | [Rita Payés](https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM) | [Si Entras Tú](https://open.spotify.com/album/4GsLOIVspA9gbCfGMCOZQc) | 2:39 | 2024-06-21 | 2024-08-02 |

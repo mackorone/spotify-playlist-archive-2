@@ -1,12 +1,12 @@
 {
   "description": "This is Dolly Parton. The essential tracks, all in one playlist.",
-  "num_followers": 255581,
+  "num_followers": 255591,
   "original_name": "This Is Dolly Parton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ag5LAAAAAABSQwa10PUa22LlkRLO962e",
+  "snapshot_id": "ag+cgAAAAAC1FNrfxkZ+Pkrde8DJVSRt",
   "tracks": [
     {
       "added_at": null,
@@ -499,22 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Here You Come Again",
-        "url": "https://open.spotify.com/album/64yIGFoYJVg66fRXIxIYJr"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 188871,
-      "name": "Two Doors Down",
-      "url": "https://open.spotify.com/track/0EWJ1KT2q3RdbdQIUYqZsp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Treasures",
         "url": "https://open.spotify.com/album/3tDqwmruXhYiBBVJuoQcGb"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 276133,
       "name": "Just When I Needed You Most",
       "url": "https://open.spotify.com/track/0UKSP1rPdm2DybI4vHk6Iw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Here You Come Again",
+        "url": "https://open.spotify.com/album/64yIGFoYJVg66fRXIxIYJr"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 188871,
+      "name": "Two Doors Down",
+      "url": "https://open.spotify.com/track/0EWJ1KT2q3RdbdQIUYqZsp"
     },
     {
       "added_at": null,
@@ -707,26 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love & Fear",
-        "url": "https://open.spotify.com/album/0y6Z7wpzSw7qMh9wyexwD3"
-      },
-      "artists": [
-        {
-          "name": "Zac Brown Band",
-          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
-        },
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 244029,
-      "name": "Butterfly (feat. Dolly Parton)",
-      "url": "https://open.spotify.com/track/7vgUdXfoVjRcisDUvBXiQH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Honky Tonk Angels",
         "url": "https://open.spotify.com/album/03vHLq8Zn6OMO2yaScSR8w"
       },
@@ -747,6 +727,26 @@
       "duration_ms": 143333,
       "name": "Silver Threads and Golden Needles",
       "url": "https://open.spotify.com/track/0IQ0qn8a2TN9Tmo7p5KmUs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love & Fear",
+        "url": "https://open.spotify.com/album/0y6Z7wpzSw7qMh9wyexwD3"
+      },
+      "artists": [
+        {
+          "name": "Zac Brown Band",
+          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
+        },
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 244029,
+      "name": "Butterfly (feat. Dolly Parton)",
+      "url": "https://open.spotify.com/track/7vgUdXfoVjRcisDUvBXiQH"
     },
     {
       "added_at": null,
@@ -971,6 +971,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Heartbreak Express",
+        "url": "https://open.spotify.com/album/1Tmt7x17O34uvQ14MXLycy"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 244111,
+      "name": "Do I Ever Cross Your Mind?",
+      "url": "https://open.spotify.com/track/6A8spBZpLjC8LBPRf2TgJD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Treasures",
         "url": "https://open.spotify.com/album/3tDqwmruXhYiBBVJuoQcGb"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 247333,
       "name": "Before The Next Teardrop Falls",
       "url": "https://open.spotify.com/track/0AupRfqKZlAH0IAu29IjFR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Heartbreak Express",
-        "url": "https://open.spotify.com/album/1Tmt7x17O34uvQ14MXLycy"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 244111,
-      "name": "Do I Ever Cross Your Mind?",
-      "url": "https://open.spotify.com/track/6A8spBZpLjC8LBPRf2TgJD"
     }
   ],
   "unique_name": "This Is Dolly Parton",

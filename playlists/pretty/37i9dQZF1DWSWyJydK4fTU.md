@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWyJydK4fTU.md) - [plain]
 
 > darf man so ?? \(in den tag starten, kurz leben leben, bisschen pause machen\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 621,626 likes - 60 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 621,612 likes - 60 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWyJydK4fTU.md) - [plain]
 | 14 | [We Don't Care](https://open.spotify.com/track/5D7TXG2pmQbFeLVNBrUADb) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Freedom](https://open.spotify.com/album/1Z5oeufZDMMzL8ZlWTZrQg) | 4:16 |
 | 15 | [Promise?](https://open.spotify.com/track/6Or4gNQC2EkixDGiufQ3F4) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [Promise?](https://open.spotify.com/album/4C0Jn8EWIX77dDQum3oNJO) | 3:12 |
 | 16 | [Dry Spell](https://open.spotify.com/track/3q5qgzl5xwEtbrZVi3agEJ) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Dry Spell](https://open.spotify.com/album/7uAm8mFfM9kP4ypzP3ZxMS) | 3:17 |
-| 17 | [JEZEBEL](https://open.spotify.com/track/50otYQj8x1wp6HpdRrLXpY) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [BELOVED: ACT II](https://open.spotify.com/album/5qUp79PAejWMSXh0l04Zy9) | 4:25 |
-| 18 | [Edge of the Earth](https://open.spotify.com/track/4Zy6m1QjUivLl8Zt7E8uxr) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Blame My Ex](https://open.spotify.com/album/1a5idDFSq90ej8CzQC7YDc) | 2:40 |
+| 17 | [Edge of the Earth](https://open.spotify.com/track/4Zy6m1QjUivLl8Zt7E8uxr) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Blame My Ex](https://open.spotify.com/album/1a5idDFSq90ej8CzQC7YDc) | 2:40 |
+| 18 | [JEZEBEL](https://open.spotify.com/track/50otYQj8x1wp6HpdRrLXpY) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [BELOVED: ACT II](https://open.spotify.com/album/5qUp79PAejWMSXh0l04Zy9) | 4:25 |
 | 19 | [Something In The Heavens](https://open.spotify.com/track/4MHORmGs8oN7AASfGmApcM) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Something In The Heavens](https://open.spotify.com/album/7JKqghg3DcUzw12Sk9XNXf) | 3:18 |
 | 20 | [White Noise](https://open.spotify.com/track/0rjGD5jVtVbj131wDsfbJG) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Cruel World](https://open.spotify.com/album/43TBVIMYFCJNsKSJK6H6TU) | 3:45 |
 | 21 | [Sommerregen](https://open.spotify.com/track/3Eesfjqw0uwnOVr2HelCsX) | [JORIS](https://open.spotify.com/artist/7BKePXVmQRgnkbGcrFX1G4) | [Hoffnungslos Hoffnungsvoll](https://open.spotify.com/album/6MHuwIyJMv2VsaBqzICOlc) | 3:26 |
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWyJydK4fTU.md) - [plain]
 | 25 | [New Heart](https://open.spotify.com/track/4yI7z3Qd7n53y42T3sk0dK) | [Crash Adams](https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5) | [New Heart](https://open.spotify.com/album/4rPFQdwFV5oGH2UVRp3VTQ) | 3:04 |
 | 26 | [Therapy at the Club](https://open.spotify.com/track/0mAlyy4pl3pO9ht9qU1PBn) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Therapy at the Club](https://open.spotify.com/album/66fZUvNGtHyCpxCq3Av8yP) | 2:47 |
 | 27 | [Nur ein Wort](https://open.spotify.com/track/0dIb1x3ilFtfprAfbfOEKm) | [Noah Kraus](https://open.spotify.com/artist/3wEYWraAn9tILbCru8VeME), [Wir sind Helden](https://open.spotify.com/artist/3jiOHVFdVQjbSDVeC7RgY7) | [Nur ein Wort](https://open.spotify.com/album/6n4MQhGhEBzZt9xFuXIdib) | 1:55 |
-| 28 | [Don't Say That](https://open.spotify.com/track/3y8b3mpLNiQnHvbZU9s2o6) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Don't Say That](https://open.spotify.com/album/1KQv7UmfkzVmNP37rH9JQ6) | 3:30 |
-| 29 | [You Will Never Know It](https://open.spotify.com/track/0fzo0SZtYoefz7umzp835T) | [Carpetman](https://open.spotify.com/artist/3zzOs4npAwsNSmwFYDzdHx) | [You Will Never Know It](https://open.spotify.com/album/18l8bWUsNQdXl6pXQOK5lw) | 2:48 |
+| 28 | [You Will Never Know It](https://open.spotify.com/track/0fzo0SZtYoefz7umzp835T) | [Carpetman](https://open.spotify.com/artist/3zzOs4npAwsNSmwFYDzdHx) | [You Will Never Know It](https://open.spotify.com/album/18l8bWUsNQdXl6pXQOK5lw) | 2:48 |
+| 29 | [Don't Say That](https://open.spotify.com/track/3y8b3mpLNiQnHvbZU9s2o6) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Don't Say That](https://open.spotify.com/album/1KQv7UmfkzVmNP37rH9JQ6) | 3:30 |
 | 30 | [nah am meer gebaut](https://open.spotify.com/track/3aH8nXElsyu37eyDeF17Es) | [Carlo5](https://open.spotify.com/artist/1A8G3z6a78odCcAjUDaU6a), [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [nah am meer gebaut](https://open.spotify.com/album/5X1zsY94AwE2ZvPvTlnsQh) | 2:38 |
 | 31 | [Graceland](https://open.spotify.com/track/0UrAgB7p2pNB7lzdWEWw8V) | [Yearboox](https://open.spotify.com/artist/53k0HFVDEcC0Qobdnw30TM) | [Graceland](https://open.spotify.com/album/0gjIdPKVN4i88JbKPZld2W) | 2:20 |
 | 32 | [Niemand ist wie du](https://open.spotify.com/track/5pUHH09wavdCzEEQaFxx5Y) | [Montez](https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc) | [Niemand ist wie du](https://open.spotify.com/album/10Vaf4MwKnRAmFAZCcBice) | 2:23 |
@@ -56,17 +56,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWyJydK4fTU.md) - [plain]
 | 46 | [Voyage](https://open.spotify.com/track/4Y0lQy86Qz9ncQwgTTS2rc) | [Zoë Më](https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN) | [Voyage](https://open.spotify.com/album/6aM4gYhFn5aPsngmnKCDVm) | 2:59 |
 | 47 | [Want It Back](https://open.spotify.com/track/47bpYf6lJ5dauJRJ6lZ8bA) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Want It Back](https://open.spotify.com/album/3jh1KUiU35jTHmQqtUuy55) | 3:27 |
 | 48 | [Wimpernschlag](https://open.spotify.com/track/6iSMn6NBEhuco0lZsPRs7c) | [GReeeN](https://open.spotify.com/artist/0t84CBqmvihsUVFme33TLd), [Max Grimm](https://open.spotify.com/artist/0iVhzCx1AWbJgsVkeQorDl) | [Wimpernschlag](https://open.spotify.com/album/624ffjT6xFCdbDpQL0sV8B) | 2:41 |
-| 49 | [Thick Skin](https://open.spotify.com/track/4wPS8JGKj8iNV8zNrmwtam) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Thick Skin](https://open.spotify.com/album/6ykkVXarEYsrH8G56v1FRI) | 2:32 |
-| 50 | [I Like You Best \- Cloud 9 Version](https://open.spotify.com/track/3Ihlrpj4BkhVIEkQKECy1F) | [Ella Red](https://open.spotify.com/artist/1hH4ajSTZKIBhwRymnZi5R), [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [I Like You Best \(Cloud 9 Version\)](https://open.spotify.com/album/3Psow0HwdFlSP024i2S33b) | 2:48 |
-| 51 | [Surprise Surprise](https://open.spotify.com/track/1qxP9aigVY42COVRva1rO9) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [Surprise Surprise](https://open.spotify.com/album/7jyW62gM9VNH5NVd3XkfZA) | 2:55 |
+| 49 | [Surprise Surprise](https://open.spotify.com/track/1qxP9aigVY42COVRva1rO9) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [Surprise Surprise](https://open.spotify.com/album/7jyW62gM9VNH5NVd3XkfZA) | 2:55 |
+| 50 | [Thick Skin](https://open.spotify.com/track/4wPS8JGKj8iNV8zNrmwtam) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Thick Skin](https://open.spotify.com/album/6ykkVXarEYsrH8G56v1FRI) | 2:32 |
+| 51 | [I Like You Best \- Cloud 9 Version](https://open.spotify.com/track/3Ihlrpj4BkhVIEkQKECy1F) | [Ella Red](https://open.spotify.com/artist/1hH4ajSTZKIBhwRymnZi5R), [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [I Like You Best \(Cloud 9 Version\)](https://open.spotify.com/album/3Psow0HwdFlSP024i2S33b) | 2:48 |
 | 52 | [The Devil I Know](https://open.spotify.com/track/7k75y6b7WkIZOFzS2wYx4m) | [Mae Hill](https://open.spotify.com/artist/51mpNR9ivpZEWp50hXyltm) | [The Devil I Know](https://open.spotify.com/album/6qMAsM2FKIfM5LatGMVrvm) | 2:42 |
-| 53 | [Rein Me In \(with Olivia Dean\)](https://open.spotify.com/track/6QIwDkInfXZpxdbPtHoZhi) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Rein Me In \(with Olivia Dean\)](https://open.spotify.com/album/2BClfhnqKr6ukg1SgdzUch) | 5:39 |
+| 53 | [Skin](https://open.spotify.com/track/58HVudmVLO9xJRzIB73Q10) | [Alessi Rose](https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx) | [Skin](https://open.spotify.com/album/39reMRtfodkliiyAANelxs) | 3:00 |
 | 54 | [Too Busy Missing You](https://open.spotify.com/track/1H2kXCdkoYqLjS0iKbWryR) | [Asha Banks](https://open.spotify.com/artist/2uDFxcjRQnf8mjFwfqieSw) | [Too Busy Missing You](https://open.spotify.com/album/1VybD1PFxWJkD80YiM3NfU) | 3:25 |
-| 55 | [leicht](https://open.spotify.com/track/11reqIzoHjabDRgj1oMXTB) | [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [leicht](https://open.spotify.com/album/5jYfMjaHxCKVJDJPLLIuU7) | 2:21 |
-| 56 | [Skin](https://open.spotify.com/track/58HVudmVLO9xJRzIB73Q10) | [Alessi Rose](https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx) | [Skin](https://open.spotify.com/album/39reMRtfodkliiyAANelxs) | 3:00 |
+| 55 | [Rein Me In \(with Olivia Dean\)](https://open.spotify.com/track/6QIwDkInfXZpxdbPtHoZhi) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Rein Me In \(with Olivia Dean\)](https://open.spotify.com/album/2BClfhnqKr6ukg1SgdzUch) | 5:39 |
+| 56 | [leicht](https://open.spotify.com/track/11reqIzoHjabDRgj1oMXTB) | [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [leicht](https://open.spotify.com/album/5jYfMjaHxCKVJDJPLLIuU7) | 2:21 |
 | 57 | [Zu jung](https://open.spotify.com/track/1x5kr8H7AW5lgAUvGUfYOj) | [JAS](https://open.spotify.com/artist/6z8C5UXOpIz82zLSvj1Xc9) | [Zu jung](https://open.spotify.com/album/1Ccqpe7T8ZPHKD7DNwNobI) | 2:01 |
 | 58 | [WIE LIEBE GEHT](https://open.spotify.com/track/7pk0TzbdVwQRrnrLenPme1) | [Gregor Hägele](https://open.spotify.com/artist/43fk67sl4SOrjJ7mtLTVVt), [Romero](https://open.spotify.com/artist/2Lg7y5DHmBMrxRI6Y4ThfU) | [WIE LIEBE GEHT](https://open.spotify.com/album/3O6GezOQBYoVUm6fX9wW8k) | 2:26 |
 | 59 | [Was war das](https://open.spotify.com/track/0j9stlpfmon31bZfoD5PpF) | [Olson](https://open.spotify.com/artist/3JtuxOs4xRaE4r0S50WcSI) | [Was war das](https://open.spotify.com/album/6UbwfuixJigc1oxGWowRGn) | 2:40 |
-| 60 | [Our Last Fight](https://open.spotify.com/track/3IOI9dRbnGy9olByG8I5eM) | [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [Our Last Fight](https://open.spotify.com/album/0x9VEJW5HA3TIPwCaiPYWL) | 3:02 |
+| 60 | [Lovesick](https://open.spotify.com/track/0J17rlejk0pNUDejkxCjoD) | [Michael Schulte](https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq) | [Beautiful Reasons](https://open.spotify.com/album/6RAtQragsbDyTaYQ97DWsM) | 2:26 |
 
 Snapshot ID: `AAAAAD8OzHIcOhKAUxpZX75tBN9g0Ext`

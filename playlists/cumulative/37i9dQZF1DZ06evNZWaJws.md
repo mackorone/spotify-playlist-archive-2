@@ -4,7 +4,7 @@
 
 > This is Los Tucanes De Tijuana\. The essential tracks, all in one playlist.
 
-83 songs - 4 hr 21 min
+84 songs - 4 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Comandante 09](https://open.spotify.com/track/2lZsJdASV0DPyhx6kaDdyE) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Comandante 09](https://open.spotify.com/album/7rtZbELF943xf6Q9pTkzSf) | 3:56 | 2024-01-29 | 2024-09-20 |
 | [De Corral En Corral \- \(2026 Remasterizado\)](https://open.spotify.com/track/3qyYFHqiYfHwQ38WYtvW6j) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Corridos y Rancheras \(2026 Remasterizado\)](https://open.spotify.com/album/2BBDRVEGGvK3Jp2C2kYhxd) | 3:17 | 2026-03-04 | 2026-03-31 |
 | [Desde Que Te Amo](https://open.spotify.com/track/51FDXDr71U8e9D7Umn9V6r) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Amor Platónico](https://open.spotify.com/album/1RejCnEA2V94czIZo8uuhC) | 3:17 | 2024-01-29 | 2026-04-12 |
-| [Déjate Querer \(En Vivo\)](https://open.spotify.com/track/5spTwphngRhm7QVFVKBwDm) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Arriba La Tía, Desde Las Vegas \(En Vivo\)](https://open.spotify.com/album/3AUGAUtS6FRsbPQGRd3yDO) | 3:01 | 2024-12-23 |  |
+| [Déjate Querer \(En Vivo\)](https://open.spotify.com/track/5spTwphngRhm7QVFVKBwDm) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Arriba La Tía, Desde Las Vegas \(En Vivo\)](https://open.spotify.com/album/3AUGAUtS6FRsbPQGRd3yDO) | 3:01 | 2024-12-23 | 2026-05-24 |
 | [El 3 De Durango](https://open.spotify.com/track/1wd2iJgI7wrEibCo9cl83f) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [El 3 De Durango](https://open.spotify.com/album/6QZDgOi0yoVUZYW2fu2OQm) | 3:04 | 2024-01-29 | 2024-02-09 |
 | [El Agricultor](https://open.spotify.com/track/7C3bObRIUeOGPDWlhSKEvw) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Lista Negra](https://open.spotify.com/album/4DszgJmZkatLJFbLvTyklT) | 2:36 | 2024-01-29 | 2024-06-23 |
 | [El Agricultor](https://open.spotify.com/track/1JAak9XVWbVpxqcxUBXik7) | [Tapy Quintero](https://open.spotify.com/artist/1CTYCiBGcZTsZBzYoa4pxM), [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [El Agricultor](https://open.spotify.com/album/777kT9U0Wtv6Pfe4TbFgDp) | 2:34 | 2024-06-23 |  |
@@ -91,5 +91,6 @@
 | [Tus Verdades](https://open.spotify.com/track/2dFhOP19RFP0GDg0gCBVST) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Mundo De Amor](https://open.spotify.com/album/4j3lGLBvF4xIcIvRtavqUt) | 2:35 | 2024-01-29 |  |
 | [Tus Verdades \(En Vivo\)](https://open.spotify.com/track/15Y1KUm93ke9daK1JlqsjM) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Arriba La Tía, Desde Las Vegas \(En Vivo\)](https://open.spotify.com/album/3AUGAUtS6FRsbPQGRd3yDO) | 2:52 | 2024-12-16 | 2026-02-16 |
 | [Yo Las Pongo](https://open.spotify.com/track/5LPD5HDYyxKdGHvHQ1kef9) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK), [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV) | [Yo Las Pongo](https://open.spotify.com/album/0unP8lNuU71xBHNlzwo8HF) | 3:11 | 2024-01-29 |  |
+| [Yo Soy La Ley](https://open.spotify.com/track/7HVqHq9lr5cHsoXrIOW8ah) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Yo Soy La Ley](https://open.spotify.com/album/5jo67wszoeNfBAFn3xzKKb) | 2:57 | 2026-05-24 |  |
 
 \*This playlist was first scraped on 2024-01-30. Prior content cannot be recovered.

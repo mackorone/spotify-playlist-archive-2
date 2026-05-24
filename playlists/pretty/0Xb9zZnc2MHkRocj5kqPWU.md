@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0Xb9zZnc2MHkRocj5kqPWU.md) - [plain]
 
 > Igor Levit, Alexis Ffrench, and other amazing artists help you take a moment, breathe, and relax with this playlist for reflection and calm.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 58,688 likes - 102 songs - 5 hr 20 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 58,685 likes - 102 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/0Xb9zZnc2MHkRocj5kqPWU.md) - [plain]
 | 15 | [Confesión](https://open.spotify.com/track/7KxDekrdYuui0l7OzzBDJO) | [Agustín Barrios Mangoré](https://open.spotify.com/artist/5cOuSl6E1SSG9oPcOYRZQR), [Rosie Bennet](https://open.spotify.com/artist/0kiQ1OKhXM3wmO6IGpJM7E) | [Confesión](https://open.spotify.com/album/2Svpw3hziSZ69cU4e5qFE1) | 4:57 |
 | 16 | [Scarlatti: Sonata in F Minor, K 466](https://open.spotify.com/track/6QGxnINJMTLBw4cKV9mvxU) | [Domenico Scarlatti](https://open.spotify.com/artist/0mFblCBw0GcoY7zY1P8tzE), [Lavinia Meijer](https://open.spotify.com/artist/1QpDFI4PxPwdv2E3iS6pCp) | [Scarlatti: Sonata in F Minor, K 466](https://open.spotify.com/album/16QD38J0i5443CHsFoHb8T) | 6:02 |
 | 17 | [The Silent Dialogue](https://open.spotify.com/track/2MzSEgZxzBrQ2GSTKfQXaM) | [Patrick Hamilton](https://open.spotify.com/artist/5gxCZXXCHpwrqcCJxq0VhJ) | [The Silent Dialogue](https://open.spotify.com/album/0IKQ74y8GWckLRZyZd3BRa) | 2:12 |
-| 18 | [Spring Meditation \(After Polish Songs, Op\. 74, No\. 2: Wiosna\)](https://open.spotify.com/track/3yZl0Mupui6mxC9Y2zP2um) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Martin Stadtfeld](https://open.spotify.com/artist/2Habwewg0ZpMr2YWSTANE9) | [Spring Meditation \(After Polish Songs, Op\. 74, No\. 2: Wiosna\)](https://open.spotify.com/album/7nUzFRvgcuCZt38CTQeN9Y) | 2:53 |
+| 18 | [Spring Meditation \(After Polish Songs, Op\. 74, No\. 2: Wiosna\)](https://open.spotify.com/track/3yZl0Mupui6mxC9Y2zP2um) | [Martin Stadtfeld](https://open.spotify.com/artist/2Habwewg0ZpMr2YWSTANE9), [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4) | [Spring Meditation \(After Polish Songs, Op\. 74, No\. 2: Wiosna\)](https://open.spotify.com/album/7nUzFRvgcuCZt38CTQeN9Y) | 2:53 |
 | 19 | [Schumann: Kinderszenen, Op\. 15: VII\. Träumerei](https://open.spotify.com/track/09TW4n0avALTSmPsnmFoxc) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [Arcadi Volodos](https://open.spotify.com/artist/2DG9aIMzcln3w7SIVGGnmg) | [Kinderszenen, Op.15/VII\. Träumerei](https://open.spotify.com/album/36EZtqxqwmHC0pGgDpK1Hd) | 3:01 |
 | 20 | [Laura Marling: What He Wrote](https://open.spotify.com/track/28mrR89iMAn9mFGrpDUoEs) | [Rosie Bennet](https://open.spotify.com/artist/0kiQ1OKhXM3wmO6IGpJM7E) | [Laura Marling: What He Wrote](https://open.spotify.com/album/3Z9NFXMRlkDKLqmNwZ3gtu) | 4:08 |
 | 21 | [Pax Athanae \- Sleep Rework](https://open.spotify.com/track/2MTtwT4s6R5vYcpL5m5nAs) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy) | [Ithaca Flow](https://open.spotify.com/album/71JbSSSTIWTkDq5uGkNJJc) | 3:43 |

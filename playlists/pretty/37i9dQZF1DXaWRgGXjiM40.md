@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWRgGXjiM40.md) - [plain]
 
 > Uma seleção sertaneja para você curtir a sua paixão sem limites.
 
-[Spotify](https://open.spotify.com/user/spotify) - 952,343 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 952,377 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWRgGXjiM40.md) - [plain]
 | 47 | [Vira Homem](https://open.spotify.com/track/0GrEqRHf5FioT1hOB8PBxZ) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Vira Homem](https://open.spotify.com/album/4ZvjMAz7i4pfWLKIbGE45z) | 3:16 |
 | 48 | [Minha Vontade](https://open.spotify.com/track/4eWHMq1DmBtj0XLv3rFySv) | [Fred & Gustavo](https://open.spotify.com/artist/23e9hgUNNlZWv6E0nxf8fA) | [Eu Tô Com Você](https://open.spotify.com/album/4IBu2k4e62hJSGCLB562Gk) | 3:09 |
 | 49 | [Moça do Espelho \- Acústico](https://open.spotify.com/track/2nMLXtXdcp2BkwPoZzse3C) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Zé Neto & Cristiano \- Acústico](https://open.spotify.com/album/6uthdLP8MEYrgIVCcyAANN) | 2:32 |
-| 50 | [Com ou Sem Mim \- Ao Vivo](https://open.spotify.com/track/2BU6XXSG8SqiptRuj6EiLA) | [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP) | [Com ou Sem Mim \(Ao Vivo\)](https://open.spotify.com/album/17SPskG8HKXZ9kAYzMYz7r) | 3:21 |
+| 50 | [Não Fala Não pra Mim](https://open.spotify.com/track/0PaAB17axL9hn88mHiw8g0) | [Humberto & Ronaldo](https://open.spotify.com/artist/1zEo6Fk1iaaOYFlFPBHCFn), [Jerry Smith](https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk) | [Não Fala Não pra Mim](https://open.spotify.com/album/6ARrHdaTbtLGCYzs5ZGrHG) | 3:16 |
 
 Snapshot ID: `AAAAAAc+5o9yQFAmvF4TIpWia5yD52ZE`

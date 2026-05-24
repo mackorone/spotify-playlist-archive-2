@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3P9CWt.md) - [plain]
 
 > This is Pabllo Vittar\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 280,005 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 279,998 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3P9CWt.md) - [plain]
 | 49 | [Então Vai \(Get By\) \(feat\. Diplo\)](https://open.spotify.com/track/5SOxxG6ju1Oq2hpoa6wARV) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Brabo Music Team](https://open.spotify.com/artist/1rNMZ95C93Jm35B5dyRe2y), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Vai Passar Mal](https://open.spotify.com/album/2HTrcsRAZAfD28QdqNc2jT) | 2:48 |
 | 50 | [Ânsia](https://open.spotify.com/track/3KgZPCgxOKqOeR5VEZXK43) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Batidão Tropical](https://open.spotify.com/album/194szTkDIGJsa9iZJNStwN) | 2:59 |
 
-Snapshot ID: `ag5LAAAAAADCwuTl8uH/3RPD7sE2yUdq`
+Snapshot ID: `ag+cgAAAAABboDFZ6shEBLehgkYi3ne3`

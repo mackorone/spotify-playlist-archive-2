@@ -1,12 +1,12 @@
 {
   "description": "This is Jake Shimabukuro. The essential tracks, all in one playlist.",
-  "num_followers": 8628,
+  "num_followers": 8633,
   "original_name": "This Is Jake Shimabukuro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ag5LAAAAAACSWt4+ZbUYGjfdD7ltSwpZ",
+  "snapshot_id": "ag+cgAAAAADG+1rCmm1VW7KQB40HuYo/",
   "tracks": [
     {
       "added_at": null,
@@ -116,9 +116,9 @@
           "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
         }
       ],
-      "duration_ms": 176773,
-      "name": "He's A Pirate",
-      "url": "https://open.spotify.com/track/6dAOMe5B3sXilEsSF4BvzA"
+      "duration_ms": 162626,
+      "name": "Winnie the Pooh",
+      "url": "https://open.spotify.com/track/5dOWg8hJmHIefgPFXSROJX"
     },
     {
       "added_at": null,
@@ -184,9 +184,9 @@
           "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
         }
       ],
-      "duration_ms": 162626,
-      "name": "Winnie the Pooh",
-      "url": "https://open.spotify.com/track/5dOWg8hJmHIefgPFXSROJX"
+      "duration_ms": 176773,
+      "name": "He's A Pirate",
+      "url": "https://open.spotify.com/track/6dAOMe5B3sXilEsSF4BvzA"
     },
     {
       "added_at": null,
@@ -207,18 +207,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Peace Love Ukulele",
-        "url": "https://open.spotify.com/album/0H2oBQ01a7vEEefSTWaHEy"
+        "name": "Putumayo Kids Presents Instrumental Dreamland",
+        "url": "https://open.spotify.com/album/1WxMaglwkL1nkq0MfO88jC"
       },
       "artists": [
         {
           "name": "Jake Shimabukuro",
           "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        },
+        {
+          "name": "Kohala",
+          "url": "https://open.spotify.com/artist/019N8MmzjydRlDJ8dtxPU8"
         }
       ],
-      "duration_ms": 171266,
-      "name": "Pianoforte",
-      "url": "https://open.spotify.com/track/4GknpPyvzFtjO8gmXVOWOX"
+      "duration_ms": 163693,
+      "name": "Honu's Dream",
+      "url": "https://open.spotify.com/track/3R3FlqlIt3vp2X2NzS1xZl"
     },
     {
       "added_at": null,
@@ -259,22 +263,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Putumayo Kids Presents Instrumental Dreamland",
-        "url": "https://open.spotify.com/album/1WxMaglwkL1nkq0MfO88jC"
+        "name": "Peace Love Ukulele",
+        "url": "https://open.spotify.com/album/0H2oBQ01a7vEEefSTWaHEy"
       },
       "artists": [
         {
           "name": "Jake Shimabukuro",
           "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
-        },
-        {
-          "name": "Kohala",
-          "url": "https://open.spotify.com/artist/019N8MmzjydRlDJ8dtxPU8"
         }
       ],
-      "duration_ms": 163693,
-      "name": "Honu's Dream",
-      "url": "https://open.spotify.com/track/3R3FlqlIt3vp2X2NzS1xZl"
+      "duration_ms": 171266,
+      "name": "Pianoforte",
+      "url": "https://open.spotify.com/track/4GknpPyvzFtjO8gmXVOWOX"
     },
     {
       "added_at": null,
@@ -595,22 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Travels",
-        "url": "https://open.spotify.com/album/7bE2ufPorjr870XNTADQwS"
-      },
-      "artists": [
-        {
-          "name": "Jake Shimabukuro",
-          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
-        }
-      ],
-      "duration_ms": 224960,
-      "name": "Train Ride",
-      "url": "https://open.spotify.com/track/1CUOxT1JD7DKCS0t9GvHnS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Time For Three",
         "url": "https://open.spotify.com/album/7x67Bz5XSc28ABOm3SUfYF"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 239906,
       "name": "Happy Day",
       "url": "https://open.spotify.com/track/5VywuMtwbWgXHw6RXDyDWj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Travels",
+        "url": "https://open.spotify.com/album/7bE2ufPorjr870XNTADQwS"
+      },
+      "artists": [
+        {
+          "name": "Jake Shimabukuro",
+          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        }
+      ],
+      "duration_ms": 224960,
+      "name": "Train Ride",
+      "url": "https://open.spotify.com/track/1CUOxT1JD7DKCS0t9GvHnS"
     },
     {
       "added_at": null,
@@ -755,26 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nature Spirit",
-        "url": "https://open.spotify.com/album/6YsUV3AaDrM9pB9AaYmLWr"
-      },
-      "artists": [
-        {
-          "name": "Kotaro Oshio",
-          "url": "https://open.spotify.com/artist/21HpfUqBSYSTMF20FOw2V2"
-        },
-        {
-          "name": "Jake Shimabukuro",
-          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
-        }
-      ],
-      "duration_ms": 249706,
-      "name": "\u6e1a",
-      "url": "https://open.spotify.com/track/27wzJWgo11uq4mTUGX2Eob"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "HandPicked",
         "url": "https://open.spotify.com/album/3142HalSDI3XohoAIbR3vn"
       },
@@ -791,6 +771,26 @@
       "duration_ms": 485586,
       "name": "Hotel California (Duet with Jake Shimabukuro)",
       "url": "https://open.spotify.com/track/5kr66FsmwdvHiFDGt6kciO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nature Spirit",
+        "url": "https://open.spotify.com/album/6YsUV3AaDrM9pB9AaYmLWr"
+      },
+      "artists": [
+        {
+          "name": "Kotaro Oshio",
+          "url": "https://open.spotify.com/artist/21HpfUqBSYSTMF20FOw2V2"
+        },
+        {
+          "name": "Jake Shimabukuro",
+          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        }
+      ],
+      "duration_ms": 249706,
+      "name": "\u6e1a",
+      "url": "https://open.spotify.com/track/27wzJWgo11uq4mTUGX2Eob"
     },
     {
       "added_at": null,

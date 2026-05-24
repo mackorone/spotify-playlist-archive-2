@@ -1,6 +1,6 @@
 {
   "description": "A mix of folk and bluegrass covers of pop, rock, hip-hop, folk, and indie songs. Cover: I'm With Her",
-  "num_followers": 285628,
+  "num_followers": 285635,
   "original_name": "Bluegrass Covers",
   "owner": {
     "name": "Spotify",
@@ -399,22 +399,6 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "Aerials",
-        "url": "https://open.spotify.com/album/1XlXriACAISeyv0S8YZEn4"
-      },
-      "artists": [
-        {
-          "name": "The Barefoot Movement",
-          "url": "https://open.spotify.com/artist/57gSCKhN6R0GbRztVbVrBt"
-        }
-      ],
-      "duration_ms": 228490,
-      "name": "Aerials",
-      "url": "https://open.spotify.com/track/7nBxmiDUcqEyIXx9BrvD1P"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
         "name": "Red On Blonde",
         "url": "https://open.spotify.com/album/1g1SmW9O61u6tKktYfYcrj"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 242760,
       "name": "Senor (Tales Of Yankee Power)",
       "url": "https://open.spotify.com/track/1ABTia5xv1oYxqL5EFbf43"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
+        "name": "Aerials",
+        "url": "https://open.spotify.com/album/1XlXriACAISeyv0S8YZEn4"
+      },
+      "artists": [
+        {
+          "name": "The Barefoot Movement",
+          "url": "https://open.spotify.com/artist/57gSCKhN6R0GbRztVbVrBt"
+        }
+      ],
+      "duration_ms": 228490,
+      "name": "Aerials",
+      "url": "https://open.spotify.com/track/7nBxmiDUcqEyIXx9BrvD1P"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -787,22 +787,6 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "Defying Gravity",
-        "url": "https://open.spotify.com/album/2RoHp3yp5WgYAiFN5uCE5k"
-      },
-      "artists": [
-        {
-          "name": "Austin Brown: The Covers",
-          "url": "https://open.spotify.com/artist/7BTVjewQkmSmvHAzEqIl36"
-        }
-      ],
-      "duration_ms": 184687,
-      "name": "Defying Gravity",
-      "url": "https://open.spotify.com/track/3sCMvJ9DOm6vwt8DzkC2tm"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
         "name": "Humming House Party! (Live)",
         "url": "https://open.spotify.com/album/7Mwmi5X5ilN2j1y6LNC34k"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 278854,
       "name": "My Love (Live)",
       "url": "https://open.spotify.com/track/7L9CcpZEfjZQT7LsZuQFWw"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
+        "name": "Defying Gravity",
+        "url": "https://open.spotify.com/album/2RoHp3yp5WgYAiFN5uCE5k"
+      },
+      "artists": [
+        {
+          "name": "Austin Brown: The Covers",
+          "url": "https://open.spotify.com/artist/7BTVjewQkmSmvHAzEqIl36"
+        }
+      ],
+      "duration_ms": 184687,
+      "name": "Defying Gravity",
+      "url": "https://open.spotify.com/track/3sCMvJ9DOm6vwt8DzkC2tm"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "In Tall Buildings",
-        "url": "https://open.spotify.com/album/4PfnntRChUIeOlVkVgzO3D"
-      },
-      "artists": [
-        {
-          "name": "Sam Bush",
-          "url": "https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm"
-        }
-      ],
-      "duration_ms": 208026,
-      "name": "In Tall Buildings",
-      "url": "https://open.spotify.com/track/56Rzb0EaeMfwhIU2VLygtf"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
         "name": "Norwegian Wood (This Bird Has Flown)",
         "url": "https://open.spotify.com/album/6QjVfP6KCKaTBAv68CLa1Q"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 167827,
       "name": "Norwegian Wood (This Bird Has Flown)",
       "url": "https://open.spotify.com/track/2FFZNaGdYTRWlYftmpCexq"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
+        "name": "In Tall Buildings",
+        "url": "https://open.spotify.com/album/4PfnntRChUIeOlVkVgzO3D"
+      },
+      "artists": [
+        {
+          "name": "Sam Bush",
+          "url": "https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm"
+        }
+      ],
+      "duration_ms": 208026,
+      "name": "In Tall Buildings",
+      "url": "https://open.spotify.com/track/56Rzb0EaeMfwhIU2VLygtf"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -1527,26 +1527,6 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "good 4 u / Dooley's Farm (Spotify Singles)",
-        "url": "https://open.spotify.com/album/65mrgLaC6S4drN9PoJRxKm"
-      },
-      "artists": [
-        {
-          "name": "Molly Tuttle",
-          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
-        },
-        {
-          "name": "Molly Tuttle & Golden Highway",
-          "url": "https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n"
-        }
-      ],
-      "duration_ms": 216343,
-      "name": "good 4 u - Spotify Sessions",
-      "url": "https://open.spotify.com/track/3ruHm5bxqfPnAO14kYGvFx"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
         "name": "Those Were the Days",
         "url": "https://open.spotify.com/album/4afclf1PXcwWZYU1B1wie1"
       },
@@ -1567,6 +1547,26 @@
       "duration_ms": 214453,
       "name": "Both Sides Now",
       "url": "https://open.spotify.com/track/1cjDZNaMWIv7Q1eRqF9Rca"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
+        "name": "good 4 u / Dooley's Farm (Spotify Singles)",
+        "url": "https://open.spotify.com/album/65mrgLaC6S4drN9PoJRxKm"
+      },
+      "artists": [
+        {
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
+        },
+        {
+          "name": "Molly Tuttle & Golden Highway",
+          "url": "https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n"
+        }
+      ],
+      "duration_ms": 216343,
+      "name": "good 4 u - Spotify Sessions",
+      "url": "https://open.spotify.com/track/3ruHm5bxqfPnAO14kYGvFx"
     },
     {
       "added_at": "2026-02-04 05:00:53",

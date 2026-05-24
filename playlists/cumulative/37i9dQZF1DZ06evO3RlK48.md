@@ -4,7 +4,7 @@
 
 > This is MUNA\. The essential tracks, all in one playlist.
 
-58 songs - 3 hr 35 min
+60 songs - 3 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,14 +17,16 @@
 | [Bodies](https://open.spotify.com/track/2xeIWTt1cWvRa8R31RPOip) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [HISTORY](https://open.spotify.com/album/6IwONZNPHt81ip42NboklH) | 3:29 | 2024-09-15 |  |
 | [Bodies](https://open.spotify.com/track/5mueyPaJsGl0bGiZSu1z0e) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Bodies](https://open.spotify.com/album/16mo5DcJexdaBnL0u5QAoS) | 3:29 | 2023-03-17 | 2024-09-15 |
 | [Crying On The Bathroom Floor](https://open.spotify.com/track/6nVKC0GCQrf9MQSJgYiaEr) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [About U](https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY) | 4:15 | 2023-03-17 |  |
-| [Dancing On The Wall](https://open.spotify.com/track/3bGsC1pOytPEIeYL51p9Pp) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Dancing On The Wall](https://open.spotify.com/album/387IgQuKGxfgMxyoYS6OdS) | 4:03 | 2026-02-13 |  |
+| [Dancing On The Wall](https://open.spotify.com/track/3bGsC1pOytPEIeYL51p9Pp) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Dancing On The Wall](https://open.spotify.com/album/387IgQuKGxfgMxyoYS6OdS) | 4:03 | 2026-02-13 | 2026-05-24 |
+| [Dancing On The Wall](https://open.spotify.com/track/7G2NR2p31c87FwPAmT5HJJ) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Dancing On The Wall](https://open.spotify.com/album/2CJw4ooOgUAxJkJpNiKcd3) | 4:03 | 2026-05-24 |  |
 | [Eastside Girls](https://open.spotify.com/track/2GmMuH5UXe9DazNasUgGgM) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Dancing On The Wall](https://open.spotify.com/album/2CJw4ooOgUAxJkJpNiKcd3) | 3:50 | 2026-05-10 |  |
 | [Empathy \- MUNA Remix](https://open.spotify.com/track/2biwJRdhdBM2Zq4mHBje3z) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm), [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Empathy \(MUNA Remix\)](https://open.spotify.com/album/6PMsHKfKhE6hXSS7LDJVYG) | 3:08 | 2023-03-17 |  |
 | [End of Desire](https://open.spotify.com/track/6G4gszrXhZI5lmRvrAZrzg) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [About U](https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY) | 4:05 | 2024-07-07 | 2024-07-24 |
 | [Everything](https://open.spotify.com/track/7amhPuxeGqyhpSuBfkx9lO) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [About U](https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY) | 4:06 | 2023-03-17 |  |
 | [Everything \- Live at The Greek Theatre in Los Angeles](https://open.spotify.com/track/2gkcER3TrQbRACJM8Yd7wZ) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Live at The Greek Theatre in Los Angeles](https://open.spotify.com/album/1tpRaW0oobL8NV7gZTJ4fS) | 4:51 | 2024-07-06 | 2024-08-06 |
 | [Girl's Girl](https://open.spotify.com/track/2BuLvHB2f5yWhPTYNF7CU8) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Dancing On The Wall](https://open.spotify.com/album/2CJw4ooOgUAxJkJpNiKcd3) | 3:13 | 2026-05-10 |  |
-| [Good News \(Ya\-Ya Song\)](https://open.spotify.com/track/3OQXqukbEw1EKu9veODhFi) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Saves The World](https://open.spotify.com/album/5ZpSRd3GwvEGrD7kWn0fHz) | 4:10 | 2023-03-17 |  |
+| [Good News \(Ya\-Ya Song\)](https://open.spotify.com/track/3OQXqukbEw1EKu9veODhFi) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Saves The World](https://open.spotify.com/album/5ZpSRd3GwvEGrD7kWn0fHz) | 4:10 | 2023-03-17 | 2026-05-24 |
+| [Hands Off](https://open.spotify.com/track/4CyMzD8DiE5o6yV1fYGjna) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Saves The World](https://open.spotify.com/album/5ZpSRd3GwvEGrD7kWn0fHz) | 3:39 | 2026-05-24 |  |
 | [Home By Now](https://open.spotify.com/track/5vYaBqOAT6JpZlAD3gO1AO) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [MUNA](https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l) | 4:28 | 2023-03-17 |  |
 | [I Know A Place](https://open.spotify.com/track/0bPSRn4crnh5f1JhELPlyL) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [About U](https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY) | 4:32 | 2023-03-17 |  |
 | [In My Way](https://open.spotify.com/track/5NfpIjvaqEbrG46NmE3adV) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [In My Way](https://open.spotify.com/album/2AYySKA04nhtLWNvxjGbG9) | 3:20 | 2023-03-17 |  |
@@ -59,7 +61,7 @@
 | [Stayaway \- Now, Now Remix](https://open.spotify.com/track/0ojEn2GpidI32hiVF5nblj) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn), [Now, Now](https://open.spotify.com/artist/6ZitSwtBSGqj00w11GvMU3) | [Stayaway \(Now, Now Remix\)](https://open.spotify.com/album/5AlYKpAvPaHDXPhKO2g5FV) | 3:19 | 2023-03-17 | 2023-05-04 |
 | [Taken](https://open.spotify.com/track/1DCf4TQUJdWWXLM8LOIWA7) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Saves The World](https://open.spotify.com/album/5ZpSRd3GwvEGrD7kWn0fHz) | 4:05 | 2023-03-17 |  |
 | [Wannabeher](https://open.spotify.com/track/1484JjdWM2WvUlYZi77E8G) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Wannabeher](https://open.spotify.com/album/01oCHTrPyBx1Ut5hLHjZn9) | 2:34 | 2026-04-17 | 2026-05-17 |
-| [Wannabeher](https://open.spotify.com/track/4412CfupPqPn61n1nVew0s) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Dancing On The Wall](https://open.spotify.com/album/2CJw4ooOgUAxJkJpNiKcd3) | 2:34 | 2026-05-17 |  |
+| [Wannabeher](https://open.spotify.com/track/4412CfupPqPn61n1nVew0s) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Dancing On The Wall](https://open.spotify.com/album/2CJw4ooOgUAxJkJpNiKcd3) | 2:34 | 2026-05-17 | 2026-05-24 |
 | [What I Want](https://open.spotify.com/track/7uvxkcv7FWVh4wE91I8Bi2) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [MUNA](https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l) | 4:03 | 2023-03-17 |  |
 | [What's Love \(feat\. MUNA\)](https://open.spotify.com/track/537RDcN9XAScJPv9Rn3XDy) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU), [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [What's Love \(feat\. MUNA\)](https://open.spotify.com/album/0SnTcR9VOyRDFGmgQ9Df7Z) | 3:09 | 2024-01-25 |  |
 | [What's Love \(feat\. MUNA\)](https://open.spotify.com/track/5IZQWMhxasWC2KrsRiHnoR) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU), [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [For Your Consideration](https://open.spotify.com/album/2TTsYkEOtnLgcWq469WQ83) | 3:09 | 2024-05-17 | 2024-12-03 |

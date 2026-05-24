@@ -6,7 +6,7 @@
     "name": "Monnison",
     "url": "https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss"
   },
-  "snapshot_id": "AAAUTJmlUh6O6ddEx/PB3gS4Kp6wA3zf",
+  "snapshot_id": "AAAUTjjjhxDPKXeeSM09zCsBKVwrWywF",
   "tracks": [
     {
       "added_at": "2026-05-07 22:07:00",
@@ -2731,6 +2731,38 @@
       "duration_ms": 298120,
       "name": "Keep Ya Head Up",
       "url": "https://open.spotify.com/track/1y8VIFmWviYhZkTc3lgktb"
+    },
+    {
+      "added_at": "2026-05-23 13:50:18",
+      "album": {
+        "name": "Venezia",
+        "url": "https://open.spotify.com/album/44IMIE9w36DHzMDH8mcicF"
+      },
+      "artists": [
+        {
+          "name": "Jouta",
+          "url": "https://open.spotify.com/artist/27eP37X13iXodHP9LFFkNd"
+        }
+      ],
+      "duration_ms": 124490,
+      "name": "Venezia",
+      "url": "https://open.spotify.com/track/6FLhvd6tllIMDGIc5cHuCP"
+    },
+    {
+      "added_at": "2026-05-23 13:50:35",
+      "album": {
+        "name": "Breaking Crests",
+        "url": "https://open.spotify.com/album/2dLSlsENTZgScQ0gyNwmcN"
+      },
+      "artists": [
+        {
+          "name": "KXENIA",
+          "url": "https://open.spotify.com/artist/4xGnce5EXkdJNeOxaZeYTL"
+        }
+      ],
+      "duration_ms": 179152,
+      "name": "My Apartment Mirror",
+      "url": "https://open.spotify.com/track/5cdp7w6A89Svd88GPu4lUA"
     }
   ],
   "unique_name": "New Indie Music",

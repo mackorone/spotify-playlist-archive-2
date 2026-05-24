@@ -1,12 +1,12 @@
 {
   "description": "This is Joan Baez. The essential tracks, all in one playlist.",
-  "num_followers": 74434,
+  "num_followers": 74439,
   "original_name": "This Is Joan Baez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ag5LAAAAAADiwgvRh9dbX0N9fxvzqliQ",
+  "snapshot_id": "ag+cgAAAAACutmkeq/34BiHf85S2QIVP",
   "tracks": [
     {
       "added_at": null,
@@ -184,9 +184,9 @@
           "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
         }
       ],
-      "duration_ms": 105973,
-      "name": "Girl Of Constant Sorrow",
-      "url": "https://open.spotify.com/track/3WZl07ITusPN7bQY3vzGdx"
+      "duration_ms": 152066,
+      "name": "Silver Dagger",
+      "url": "https://open.spotify.com/track/2hulWLdzjBexk2bxQpcUp7"
     },
     {
       "added_at": null,
@@ -252,9 +252,9 @@
           "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
         }
       ],
-      "duration_ms": 152066,
-      "name": "Silver Dagger",
-      "url": "https://open.spotify.com/track/2hulWLdzjBexk2bxQpcUp7"
+      "duration_ms": 105973,
+      "name": "Girl Of Constant Sorrow",
+      "url": "https://open.spotify.com/track/3WZl07ITusPN7bQY3vzGdx"
     },
     {
       "added_at": null,
@@ -375,6 +375,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Greatest Hits And Others",
+        "url": "https://open.spotify.com/album/1ycddMO4m3ij8zGNIYVITj"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Eleanor Rigby",
+      "url": "https://open.spotify.com/track/0EbFmS2uZycsxJfg6jvlrn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The First 10 Years",
         "url": "https://open.spotify.com/album/4r2BckN3R24ifqfXKUUbMn"
       },
@@ -407,8 +423,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greatest Hits And Others",
-        "url": "https://open.spotify.com/album/1ycddMO4m3ij8zGNIYVITj"
+        "name": "Any Day Now",
+        "url": "https://open.spotify.com/album/4CRzOSYsOxwYVPIwMro4Fl"
       },
       "artists": [
         {
@@ -416,9 +432,9 @@
           "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
         }
       ],
-      "duration_ms": 140000,
-      "name": "Eleanor Rigby",
-      "url": "https://open.spotify.com/track/0EbFmS2uZycsxJfg6jvlrn"
+      "duration_ms": 181093,
+      "name": "You Ain't Goin' Nowhere",
+      "url": "https://open.spotify.com/track/4ymMPQZeWVaDtpjPWC4gdX"
     },
     {
       "added_at": null,
@@ -439,8 +455,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Any Day Now",
-        "url": "https://open.spotify.com/album/4CRzOSYsOxwYVPIwMro4Fl"
+        "name": "Farewell, Angelina",
+        "url": "https://open.spotify.com/album/0KWZmGhxNlNMOQgi4LPWun"
       },
       "artists": [
         {
@@ -448,9 +464,9 @@
           "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
         }
       ],
-      "duration_ms": 181093,
-      "name": "You Ain't Goin' Nowhere",
-      "url": "https://open.spotify.com/track/4ymMPQZeWVaDtpjPWC4gdX"
+      "duration_ms": 459133,
+      "name": "A Hard Rain's A-Gonna Fall",
+      "url": "https://open.spotify.com/track/3KQRvCKd6elig016BuK6Zp"
     },
     {
       "added_at": null,
@@ -467,22 +483,6 @@
       "duration_ms": 220866,
       "name": "La Llorona",
       "url": "https://open.spotify.com/track/5EijyYI9dRYEaRH1deJXOp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Farewell, Angelina",
-        "url": "https://open.spotify.com/album/0KWZmGhxNlNMOQgi4LPWun"
-      },
-      "artists": [
-        {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        }
-      ],
-      "duration_ms": 459133,
-      "name": "A Hard Rain's A-Gonna Fall",
-      "url": "https://open.spotify.com/track/3KQRvCKd6elig016BuK6Zp"
     },
     {
       "added_at": null,
@@ -519,22 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Come From The Shadows",
-        "url": "https://open.spotify.com/album/4WFbML0LdLr3b0u6rxn8Hw"
-      },
-      "artists": [
-        {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        }
-      ],
-      "duration_ms": 263893,
-      "name": "Prison Trilogy (Billy Rose)",
-      "url": "https://open.spotify.com/track/09dGiyUBUGQBV0I6uH0sDY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Best Of Joan Baez",
         "url": "https://open.spotify.com/album/5WIWeBvI15frohPWZog6RY"
       },
@@ -551,8 +535,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Any Day Now",
-        "url": "https://open.spotify.com/album/4CRzOSYsOxwYVPIwMro4Fl"
+        "name": "Come From The Shadows",
+        "url": "https://open.spotify.com/album/4WFbML0LdLr3b0u6rxn8Hw"
       },
       "artists": [
         {
@@ -560,9 +544,25 @@
           "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
         }
       ],
-      "duration_ms": 274306,
-      "name": "Boots Of Spanish Leather",
-      "url": "https://open.spotify.com/track/0AYanyuDYbaNLNaDupBX9i"
+      "duration_ms": 263893,
+      "name": "Prison Trilogy (Billy Rose)",
+      "url": "https://open.spotify.com/track/09dGiyUBUGQBV0I6uH0sDY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gracias A La Vida (Here's To Life)",
+        "url": "https://open.spotify.com/album/6h8pQTs3EOI20ITEA1xZy7"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "duration_ms": 149933,
+      "name": "De Colores",
+      "url": "https://open.spotify.com/track/78I82909V5pLKRmRfKiGAG"
     },
     {
       "added_at": null,
@@ -583,8 +583,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gracias A La Vida (Here's To Life)",
-        "url": "https://open.spotify.com/album/6h8pQTs3EOI20ITEA1xZy7"
+        "name": "Any Day Now",
+        "url": "https://open.spotify.com/album/4CRzOSYsOxwYVPIwMro4Fl"
       },
       "artists": [
         {
@@ -592,9 +592,9 @@
           "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
         }
       ],
-      "duration_ms": 149933,
-      "name": "De Colores",
-      "url": "https://open.spotify.com/track/78I82909V5pLKRmRfKiGAG"
+      "duration_ms": 274306,
+      "name": "Boots Of Spanish Leather",
+      "url": "https://open.spotify.com/track/0AYanyuDYbaNLNaDupBX9i"
     },
     {
       "added_at": null,
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
         }
       ],
-      "duration_ms": 185933,
-      "name": "Colours",
-      "url": "https://open.spotify.com/track/5RbUDT4ZWJZTRVRcfAbV0J"
+      "duration_ms": 277600,
+      "name": "The Wild Mountain Thyme",
+      "url": "https://open.spotify.com/track/6t5Z3MLqcNu471STaCpGPj"
     },
     {
       "added_at": null,
@@ -728,9 +728,9 @@
           "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
         }
       ],
-      "duration_ms": 277600,
-      "name": "The Wild Mountain Thyme",
-      "url": "https://open.spotify.com/track/6t5Z3MLqcNu471STaCpGPj"
+      "duration_ms": 185933,
+      "name": "Colours",
+      "url": "https://open.spotify.com/track/5RbUDT4ZWJZTRVRcfAbV0J"
     },
     {
       "added_at": null,

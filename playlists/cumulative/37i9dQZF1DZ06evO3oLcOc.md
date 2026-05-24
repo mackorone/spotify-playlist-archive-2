@@ -4,10 +4,11 @@
 
 > This is Tyga\. The essential tracks, all in one playlist.
 
-117 songs - 5 hr 58 min
+118 songs - 6 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [2POPS](https://open.spotify.com/track/6iXEuLEMkFhOjPTHdtJwOm) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [2POPS](https://open.spotify.com/album/3m6ZI3ziZdXZJKwJVZKghw) | 2:02 | 2026-05-24 |  |
 | [Adrenaline](https://open.spotify.com/track/0KCeHr5HbTyj3GQ4mzCXgW) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [NSFW](https://open.spotify.com/album/0HFmXICO7WgVoqLAXc7Rhw) | 2:12 | 2025-02-11 | 2025-05-24 |
 | [AT THA PARTY](https://open.spotify.com/track/377dVGvTzyYem2eKZI08a0) | [Peysoh](https://open.spotify.com/artist/27OdVby2oeFjM1C5XvC3hC), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [FinallyFed](https://open.spotify.com/album/6qMYWYrxOA5EDNqRtyyG7C) | 2:11 | 2025-07-31 | 2025-09-19 |
 | [Ayo](https://open.spotify.com/track/0k6DnZMLoEUH8NGD5zh2SE) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Fan of A Fan The Album \(Expanded Edition\)](https://open.spotify.com/album/4neocSMt40stXKK2B8Sy2G) | 3:45 | 2023-06-07 |  |
@@ -117,7 +118,7 @@
 | [TWITCH \(feat\. 2 Chainz & Tyga\)](https://open.spotify.com/track/3CsubMx8AHkvKDLTcBUWSQ) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [TWITCH \(feat\. 2 Chainz & Tyga\)](https://open.spotify.com/album/0SeHcfk87EHPdANkTcB812) | 2:45 | 2025-10-19 | 2025-11-16 |
 | [TWITCH \(feat\. 2 Chainz & Tyga\)](https://open.spotify.com/track/5pPtoY9EchbPOyZlUngAq2) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [TYCOON](https://open.spotify.com/album/6sOJ6rEt2KO0j7aLoNMLaK) | 2:48 | 2025-11-16 |  |
 | [Uh Huh](https://open.spotify.com/track/4LyJyZpmfpDTAfF2E0gWHF) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p) | [Uh Huh](https://open.spotify.com/album/4JnlqGdsDfELZDv4Ksa4pJ) | 2:15 | 2024-06-23 | 2024-10-05 |
-| [VIDA LOCA](https://open.spotify.com/track/6c6Pr4ALb2SD7j7UnS5YDE) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [TRANSLATION](https://open.spotify.com/album/0uxvuY8Ek2ojzHrWTg2PDc) | 3:54 | 2023-06-07 |  |
+| [VIDA LOCA](https://open.spotify.com/track/6c6Pr4ALb2SD7j7UnS5YDE) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [TRANSLATION](https://open.spotify.com/album/0uxvuY8Ek2ojzHrWTg2PDc) | 3:54 | 2023-06-07 | 2026-05-24 |
 | [Wait For A Minute](https://open.spotify.com/track/1AcJJerSHcXCnevx9oSoWe) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Wait For A Minute](https://open.spotify.com/album/5V5T5fcIXdGH01QNFWEX69) | 3:27 | 2024-05-10 |  |
 | [Waterfall \(feat\. Tyga\)](https://open.spotify.com/track/5qNA3Re6vphN6xF9imbKAM) | [Coca Vango](https://open.spotify.com/artist/3GeZ2hxlimcfZ7v3qxf5UT), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Waterfall \(feat\. Tyga\)](https://open.spotify.com/album/5j6J7k3QxNGrvJdKUYly5s) | 2:32 | 2023-06-07 | 2023-07-26 |
 | [West Coast Shit \(feat\. Tyga & Quavo\)](https://open.spotify.com/track/1JDhNQ0oOT7XpclZn3aQ8F) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Shoot For The Stars Aim For The Moon](https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc) | 3:12 | 2024-02-15 | 2026-03-01 |

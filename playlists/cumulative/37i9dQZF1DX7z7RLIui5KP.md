@@ -4,7 +4,7 @@
 
 > Proudly Kenyan gems made for the entire family\. Cover: We are Nubia & Xenia Manasseh
 
-191 songs - 10 hr 45 min
+192 songs - 10 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,7 @@
 | [NaEnjoy](https://open.spotify.com/track/5HYDoscfBYwQhLxkMY2dXs) | [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE), [Watendawili](https://open.spotify.com/artist/0q5lwUUiJEjoNVtHQv1jdn) | [NaEnjoy](https://open.spotify.com/album/3X0ByBetVJ3YDL5tSTgjRt) | 3:30 | 2026-04-23 |  |
 | [NANA \- Remix](https://open.spotify.com/track/3bAxu8zn6b9sZvkAlBfsP3) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [Growing Pains \(Deluxe\)](https://open.spotify.com/album/6eUtyQ0nItk099GXX6NUWb) | 3:19 | 2025-11-21 | 2025-11-28 |
 | [Nasinzia II](https://open.spotify.com/track/1nm8oLMHs19tqKU9QoeSPM) | [Nameless](https://open.spotify.com/artist/5e1OCdBgITL78zBRyW2wOf), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [Nasinzia II](https://open.spotify.com/album/14O2vNbA2bQSnCVYH2s6xx) | 3:01 | 2026-02-12 |  |
-| [Nataka](https://open.spotify.com/track/57vwMMVn3yZxqQQTJcZZYu) | [Lilmaina](https://open.spotify.com/artist/1GF4G0q7pW65JWvuKWKDzv), [Okello Max](https://open.spotify.com/artist/4AIr4Ly0nJMjtcRg46naSp) | [Nataka](https://open.spotify.com/album/2FPgNbV0eftA74o1ZJryhN) | 3:19 | 2026-05-22 |  |
+| [Nataka](https://open.spotify.com/track/57vwMMVn3yZxqQQTJcZZYu) | [Lilmaina](https://open.spotify.com/artist/1GF4G0q7pW65JWvuKWKDzv), [Okello Max](https://open.spotify.com/artist/4AIr4Ly0nJMjtcRg46naSp) | [Nataka](https://open.spotify.com/album/2FPgNbV0eftA74o1ZJryhN) | 3:23 | 2026-05-22 |  |
 | [Nawaza](https://open.spotify.com/track/4UyZ0Q1h3hr2yVSABZoZpT) | [Zaituni Wambui](https://open.spotify.com/artist/5SFfPUY3JPgaOzSiqdm4Me), [Ras Amor](https://open.spotify.com/artist/6fQTxN2L50cfVm7PU30zh8), [NSB](https://open.spotify.com/artist/45j7Zy76gqXk9hzBCMRHAT), [MAMBO BROWN](https://open.spotify.com/artist/3l3DWaOmyKtW3hIMHJmSB7) | [Nawaza](https://open.spotify.com/album/7bUXMPLCalJIqsW5viCdCU) | 3:57 | 2025-10-23 | 2026-02-06 |
 | [Nerea](https://open.spotify.com/track/0TQ4Tydz5Amg3NrPkHD15q) | [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo), [Amos & Josh](https://open.spotify.com/artist/319z7NsfWlYR0Az3Ehc6Nw) | [Live and Die in Afrika](https://open.spotify.com/album/0VHxZXfjGP0KuIBFxsWTTZ) | 3:25 | 2025-11-21 | 2025-11-28 |
 | [NERVOUS](https://open.spotify.com/track/6Ct7wMxdVRNPozCqMfpdGl) | [Bee Thee Artiste](https://open.spotify.com/artist/07k23Z4w3q5oq7Qq73s1HU), [Ywaya Tajiri](https://open.spotify.com/artist/6wf9RfrBquBd6Galoe5oQE), [AUGUST IV](https://open.spotify.com/artist/0rSI47DldAq15E6L5pUH6T) | [NERVOUS](https://open.spotify.com/album/4N5rJQrNlZm5eqJazYiyjZ) | 2:50 | 2026-03-12 |  |
@@ -173,6 +173,7 @@
 | [Tell Nobody](https://open.spotify.com/track/1r8IHxVIlMDvq2BNJjsLLy) | [Mūmbi](https://open.spotify.com/artist/0rFgn9BBsW8nHbsp3A4kDF) | [Tell Nobody](https://open.spotify.com/album/2kaT0i6Rp9VvQ5AlpnOekR) | 2:49 | 2026-04-23 |  |
 | [TIKI TAKO](https://open.spotify.com/track/2gJRqeN8Q9Yg5jpx6WKm7h) | [Matata](https://open.spotify.com/artist/7imj8fIllhgGJqvKUVrdgV), [Mejja](https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u) | [TIKI TAKO](https://open.spotify.com/album/5qBMXffGoDp4pPe9S7niXJ) | 3:52 | 2025-10-23 | 2026-04-17 |
 | [Time Flies \(feat\. Sauti Sol\)](https://open.spotify.com/track/1taXjBXUnhPCPunwB6xOgp) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo) | [Twice As Tall](https://open.spotify.com/album/2pANu4qucnliJuRR94eZSV) | 3:44 | 2025-11-21 | 2025-11-28 |
+| [Track 4](https://open.spotify.com/track/51utSGoCKCuXDUfi4a5pCR) | [Teslah](https://open.spotify.com/artist/29d1gtSpXDMaZLyvHIZw4u) | [Miss Understood](https://open.spotify.com/album/302aQy8UeU99sWA9CcFgRE) | 0:00 | 2026-05-22 |  |
 | [TRUE LOVE](https://open.spotify.com/track/7fYxFqeGTfr9IvVBrWAyvO) | [Charisma](https://open.spotify.com/artist/34FqcraaOV85NJMLNb4JQu) | [TRUE LOVE](https://open.spotify.com/album/3AWoNtSF6MCGBrJO1jrFR0) | 2:32 | 2025-10-23 | 2026-05-01 |
 | [Trust No 1](https://open.spotify.com/track/4Nfq2CziIZHDzVP8A6llUF) | [Brandy Maina](https://open.spotify.com/artist/7miUm4PxOWQDIPIcqKDfT4), [X.O](https://open.spotify.com/artist/2zu7sut23i4vR8OZPAxWyJ) | [Trust No 1](https://open.spotify.com/album/5g5q1Ixr9A5kyxW6F3GXWQ) | 3:16 | 2026-01-29 |  |
 | [Tumewaka \(feat\. Watendawili\)](https://open.spotify.com/track/2U3JPdRdWygADeO36alrJU) | [Arrow Bwoy](https://open.spotify.com/artist/7jHbsm6yjbct2wbuvzBEKr), [Watendawili](https://open.spotify.com/artist/0q5lwUUiJEjoNVtHQv1jdn) | [Tumewaka \(feat\. Watendawili\)](https://open.spotify.com/album/5EnhsYf7p2yFdhqd1ReGDG) | 3:29 | 2025-12-04 | 2026-04-03 |

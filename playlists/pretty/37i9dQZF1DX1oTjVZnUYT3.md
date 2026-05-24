@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1oTjVZnUYT3.md) - [plain]
 
 > Grandes hinos da música brasileira para animar sua pista de dança!
 
-[Spotify](https://open.spotify.com/user/spotify) - 481,387 likes - 57 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 481,419 likes - 57 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1oTjVZnUYT3.md) - [plain]
 | 31 | [O Mar Serenou](https://open.spotify.com/track/1N10tJPyQ70QcMLxhobSbJ) | [Clara Nunes](https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown) | [Conto de Areia](https://open.spotify.com/album/6NgSgCVVwhRKD1TTwp2vOt) | 2:58 |
 | 32 | [Vou Festejar \- Ao Vivo](https://open.spotify.com/track/3v6nNd7zI8EPlHflsy2UtC) | [Samba De Raiz](https://open.spotify.com/artist/0EtwDFzbxPxghUdhwfo9R4) | [Samba de Raiz \- Ao Vivo](https://open.spotify.com/album/6T58aKZn3iMSizSYaF2pTc) | 3:15 |
 | 33 | [Na Cadência Do Samba](https://open.spotify.com/track/11gIxacOHnCVPL0dZ3xOnC) | [Novos Baianos](https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ) | [Vamos Pro Mundo](https://open.spotify.com/album/1g7A2Bmagu0IelCeIYDF2k) | 3:29 |
-| 34 | [À Francesa](https://open.spotify.com/track/3dRU9xurI1QoVDs9FUHenD) | [Marina Lima](https://open.spotify.com/artist/28IcRPf399RPv4TUiZ7uol) | [Marina Rock Lima](https://open.spotify.com/album/4qpHcaQHNLmPS2sM93TekF) | 4:08 |
-| 35 | [Lindo Lago Do Amor](https://open.spotify.com/track/2zvTzaa6cOB8YQ8x3GUndf) | [Gonzaguinha](https://open.spotify.com/artist/1LOFaxDBvn3YuvarTldGAe) | [Bis \(Dois CDs\)](https://open.spotify.com/album/4aqhBQ04DpXEy9PKRKHvrq) | 4:09 |
+| 34 | [Lindo Lago Do Amor](https://open.spotify.com/track/2zvTzaa6cOB8YQ8x3GUndf) | [Gonzaguinha](https://open.spotify.com/artist/1LOFaxDBvn3YuvarTldGAe) | [Bis \(Dois CDs\)](https://open.spotify.com/album/4aqhBQ04DpXEy9PKRKHvrq) | 4:09 |
+| 35 | [À Francesa](https://open.spotify.com/track/3dRU9xurI1QoVDs9FUHenD) | [Marina Lima](https://open.spotify.com/artist/28IcRPf399RPv4TUiZ7uol) | [Marina Rock Lima](https://open.spotify.com/album/4qpHcaQHNLmPS2sM93TekF) | 4:08 |
 | 36 | [Canto Das Três Raças](https://open.spotify.com/track/06Q1W3dLvNk5Gawy7piDu3) | [Clara Nunes](https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown) | [Retratos](https://open.spotify.com/album/1zIUnMFn76fpxrrTtAZ4rX) | 4:21 |
 | 37 | [Trem Das Onze](https://open.spotify.com/track/5JSNcb3MwTxkDH4mrYKnHG) | [Adoniran Barbosa](https://open.spotify.com/artist/7vTlV3ajnMxl5l0ahupUeP) | [Para Sempre](https://open.spotify.com/album/377Lmb4EKi6WZAuTdvm4RF) | 3:05 |
 | 38 | [O Show Tem Que Continuar \- Ao Vivo](https://open.spotify.com/track/4IhgFq4UseWi8RNH7OCZmv) | [Beth Carvalho](https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3) | [Ao Vivo No Parque Madureira \(Deluxe\)](https://open.spotify.com/album/3thGMOkqtJew544FUk6S7O) | 3:36 |
@@ -59,11 +59,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1oTjVZnUYT3.md) - [plain]
 | 49 | [Como Vovó Já Dizia \(Óculos Escuros\)](https://open.spotify.com/track/3fxlgsDxLanF9ryJea28Ic) | [Raul Seixas](https://open.spotify.com/artist/7jrRQZg4FZq6dwpi3baKcu) | [20 Grandes Sucessos De Raul Seixas](https://open.spotify.com/album/1HuPsuxRE5XbqcAmVhFJrU) | 3:21 |
 | 50 | [Vaca Profana](https://open.spotify.com/track/1viMg0yGmgWy1EeR7CNeyF) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Gal Canta Caetano](https://open.spotify.com/album/2881CXCKtljZRNdKMerwYV) | 4:44 |
 | 51 | [Foi Um Rio Que Passou Em Minha Vida](https://open.spotify.com/track/7mkvi46DO25BAkcD9OWrpz) | [Paulinho Da Viola](https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls) | [Eu Sou O Samba](https://open.spotify.com/album/5F3t6SwYT1S8RITt8lvHd6) | 2:35 |
-| 52 | [Juramento do Dedinho](https://open.spotify.com/track/4Eco98ezksfnQzVNJCjg9j) | [Mano Walter](https://open.spotify.com/artist/35YkpX0zYwHG8vOIhObvxP) | [Juramento do Dedinho](https://open.spotify.com/album/2OKTFhlxZ0yvUEQsgXaCP0) | 2:44 |
-| 53 | [Feira De Mangaio](https://open.spotify.com/track/42ECxaPackxKgMns8zAvW9) | [Clara Nunes](https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown) | [Retratos](https://open.spotify.com/album/1zIUnMFn76fpxrrTtAZ4rX) | 3:18 |
+| 52 | [Feira De Mangaio](https://open.spotify.com/track/42ECxaPackxKgMns8zAvW9) | [Clara Nunes](https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown) | [Retratos](https://open.spotify.com/album/1zIUnMFn76fpxrrTtAZ4rX) | 3:18 |
+| 53 | [Juramento do Dedinho](https://open.spotify.com/track/4Eco98ezksfnQzVNJCjg9j) | [Mano Walter](https://open.spotify.com/artist/35YkpX0zYwHG8vOIhObvxP) | [Juramento do Dedinho](https://open.spotify.com/album/2OKTFhlxZ0yvUEQsgXaCP0) | 2:44 |
 | 54 | [Eu também quero beijar](https://open.spotify.com/track/52GKEkUJJUAPcYE8S0rZJV) | [Pepeu Gomes](https://open.spotify.com/artist/3XLeGN8GPEzQarxiDoQURu) | [Geração Pop](https://open.spotify.com/album/1SBKxrKIIgGyYMl43ffjnU) | 4:04 |
 | 55 | [Dona de mim](https://open.spotify.com/track/6yMbAjgCa3xK8SUnKWG72p) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Dona de mim](https://open.spotify.com/album/6dRMC5s12rIApNIHmbnZfH) | 3:28 |
 | 56 | [Beleza Rara \- Ao Vivo](https://open.spotify.com/track/05jQu16DV9TMkGAsNl6QiP) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Bloco do Silva \(Ao Vivo\)](https://open.spotify.com/album/5qgBiVmgw6dSZDR7vit0mI) | 3:35 |
-| 57 | [Faixa Amarela](https://open.spotify.com/track/131eE1wdPFIUAzxveZispD) | [Zeca Pagodinho](https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb) | [Gold](https://open.spotify.com/album/7vF05VyQmk4x9ybW3E6Gd4) | 4:53 |
+| 57 | [Carcará](https://open.spotify.com/track/5E4xOrXaLsApvCSqleHT46) | [Joao Do Vale](https://open.spotify.com/artist/3TE6ZGjhmTVpLZrn9hvfBX), [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t) | [João do Vale](https://open.spotify.com/album/6tA5JMhnFRvDkanKAuPsCV) | 2:18 |
 
 Snapshot ID: `AAAAAIjRexoB1xChZGM8IC6vkr1NupJM`

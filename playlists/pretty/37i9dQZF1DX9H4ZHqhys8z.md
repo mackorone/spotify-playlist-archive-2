@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9H4ZHqhys8z.md) - [plain]
 
 > Γιορτάζοντας 5 Χρόνια EQUAL\. Εξώφυλλο: Andromache
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,541 likes - 59 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,549 likes - 59 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

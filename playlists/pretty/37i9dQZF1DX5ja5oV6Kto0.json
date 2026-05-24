@@ -1,6 +1,6 @@
 {
   "description": "The new wave of alternative, genre-bending and creative afro-fusion music. Cover: Siraheem",
-  "num_followers": 111661,
+  "num_followers": 111672,
   "original_name": "Alt\u00e9 Cruise",
   "owner": {
     "name": "Spotify",
@@ -235,6 +235,22 @@
     {
       "added_at": "2026-05-15 00:01:17",
       "album": {
+        "name": "Love Stray",
+        "url": "https://open.spotify.com/album/5TLK7dV5QefqleKyBjgO6d"
+      },
+      "artists": [
+        {
+          "name": "Braye",
+          "url": "https://open.spotify.com/artist/7wGQ0lfuBST1l3WyiJGVY0"
+        }
+      ],
+      "duration_ms": 177968,
+      "name": "Deeper Than Love",
+      "url": "https://open.spotify.com/track/621gWcQWi29Ka1veHGYVEI"
+    },
+    {
+      "added_at": "2026-05-15 00:01:17",
+      "album": {
         "name": "FL STUDIO II",
         "url": "https://open.spotify.com/album/4sp6D3AC6VpUXNqoqZ7D7E"
       },
@@ -259,22 +275,6 @@
     {
       "added_at": "2026-05-15 00:01:17",
       "album": {
-        "name": "Love Stray",
-        "url": "https://open.spotify.com/album/5TLK7dV5QefqleKyBjgO6d"
-      },
-      "artists": [
-        {
-          "name": "Braye",
-          "url": "https://open.spotify.com/artist/7wGQ0lfuBST1l3WyiJGVY0"
-        }
-      ],
-      "duration_ms": 177968,
-      "name": "Deeper Than Love",
-      "url": "https://open.spotify.com/track/621gWcQWi29Ka1veHGYVEI"
-    },
-    {
-      "added_at": "2026-05-15 00:01:17",
-      "album": {
         "name": "CYK BADDIE",
         "url": "https://open.spotify.com/album/4qbJ8ygyU1kgB20ntWGEJZ"
       },
@@ -291,22 +291,6 @@
       "duration_ms": 134579,
       "name": "CYK BADDIE",
       "url": "https://open.spotify.com/track/7ooAKezVfi3K3urbQfXXNq"
-    },
-    {
-      "added_at": "2026-05-15 00:01:17",
-      "album": {
-        "name": "EGER",
-        "url": "https://open.spotify.com/album/0rXA7RIMpNBraCKDP2kX5S"
-      },
-      "artists": [
-        {
-          "name": "Egertton",
-          "url": "https://open.spotify.com/artist/4Hz1UttsadDCW4xA41XKoV"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "Obokhian",
-      "url": "https://open.spotify.com/track/4SPYssky8OHoPevhpRAY00"
     },
     {
       "added_at": "2026-05-15 00:01:17",
@@ -331,6 +315,22 @@
     {
       "added_at": "2026-05-15 00:01:17",
       "album": {
+        "name": "EGER",
+        "url": "https://open.spotify.com/album/0rXA7RIMpNBraCKDP2kX5S"
+      },
+      "artists": [
+        {
+          "name": "Egertton",
+          "url": "https://open.spotify.com/artist/4Hz1UttsadDCW4xA41XKoV"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "Obokhian",
+      "url": "https://open.spotify.com/track/4SPYssky8OHoPevhpRAY00"
+    },
+    {
+      "added_at": "2026-05-15 00:01:17",
+      "album": {
         "name": "2 l1t",
         "url": "https://open.spotify.com/album/4auxhB5qT1Wsp2CqYvV3E4"
       },
@@ -347,26 +347,6 @@
       "duration_ms": 117410,
       "name": "ar1gato 2 you",
       "url": "https://open.spotify.com/track/0F6r2VkKSiHn9i8p3tZJJS"
-    },
-    {
-      "added_at": "2026-05-15 00:01:17",
-      "album": {
-        "name": "Digga",
-        "url": "https://open.spotify.com/album/3WbPHstTziKAuJVx9vIQQI"
-      },
-      "artists": [
-        {
-          "name": "Y\u00f4rkk",
-          "url": "https://open.spotify.com/artist/4KLrpPDaqivMxsrJ7X6byv"
-        },
-        {
-          "name": "ARTSALGHUL",
-          "url": "https://open.spotify.com/artist/3hXlGRJuBMCg9xJ41BSWkf"
-        }
-      ],
-      "duration_ms": 187736,
-      "name": "Digga",
-      "url": "https://open.spotify.com/track/1oh95MuaCB9hd1gckqyRXA"
     },
     {
       "added_at": "2026-05-15 00:01:17",
@@ -391,6 +371,26 @@
       "duration_ms": 223020,
       "name": "OTS",
       "url": "https://open.spotify.com/track/4Wq6zxgdDDHqsVOYv9T0bz"
+    },
+    {
+      "added_at": "2026-05-15 00:01:17",
+      "album": {
+        "name": "Digga",
+        "url": "https://open.spotify.com/album/3WbPHstTziKAuJVx9vIQQI"
+      },
+      "artists": [
+        {
+          "name": "Y\u00f4rkk",
+          "url": "https://open.spotify.com/artist/4KLrpPDaqivMxsrJ7X6byv"
+        },
+        {
+          "name": "ARTSALGHUL",
+          "url": "https://open.spotify.com/artist/3hXlGRJuBMCg9xJ41BSWkf"
+        }
+      ],
+      "duration_ms": 187736,
+      "name": "Digga",
+      "url": "https://open.spotify.com/track/1oh95MuaCB9hd1gckqyRXA"
     },
     {
       "added_at": "2026-05-15 00:01:17",
@@ -479,6 +479,26 @@
     {
       "added_at": "2026-05-15 00:01:17",
       "album": {
+        "name": "Night Drive (feat. Dagmawit Ameha)",
+        "url": "https://open.spotify.com/album/1mE2Y555FBTuTACvAh3U31"
+      },
+      "artists": [
+        {
+          "name": "Alewya",
+          "url": "https://open.spotify.com/artist/0wcjJjpvnHb5vK4iwKfxPm"
+        },
+        {
+          "name": "Dagmawit Ameha",
+          "url": "https://open.spotify.com/artist/4HA91AKqbdbTK7LdYxVxMH"
+        }
+      ],
+      "duration_ms": 220340,
+      "name": "Night Drive (feat. Dagmawit Ameha)",
+      "url": "https://open.spotify.com/track/0XCxoVRBBYzH2QLUH6rf38"
+    },
+    {
+      "added_at": "2026-05-15 00:01:17",
+      "album": {
         "name": "TRU$T FUND",
         "url": "https://open.spotify.com/album/2IjvgyB9qg2znW2mX1JdNJ"
       },
@@ -503,26 +523,6 @@
       "duration_ms": 187118,
       "name": "TRU$T FUND",
       "url": "https://open.spotify.com/track/7fUD6s55nUdOWo4l7IzoFR"
-    },
-    {
-      "added_at": "2026-05-15 00:01:17",
-      "album": {
-        "name": "Night Drive (feat. Dagmawit Ameha)",
-        "url": "https://open.spotify.com/album/1mE2Y555FBTuTACvAh3U31"
-      },
-      "artists": [
-        {
-          "name": "Alewya",
-          "url": "https://open.spotify.com/artist/0wcjJjpvnHb5vK4iwKfxPm"
-        },
-        {
-          "name": "Dagmawit Ameha",
-          "url": "https://open.spotify.com/artist/4HA91AKqbdbTK7LdYxVxMH"
-        }
-      ],
-      "duration_ms": 220340,
-      "name": "Night Drive (feat. Dagmawit Ameha)",
-      "url": "https://open.spotify.com/track/0XCxoVRBBYzH2QLUH6rf38"
     },
     {
       "added_at": "2026-05-15 00:01:17",
@@ -603,6 +603,22 @@
     {
       "added_at": "2026-05-15 00:01:17",
       "album": {
+        "name": "Many Men",
+        "url": "https://open.spotify.com/album/57mPLz3Ii7CXM6kJqjvuWu"
+      },
+      "artists": [
+        {
+          "name": "Bolu Ajibade",
+          "url": "https://open.spotify.com/artist/44HFYth2ExH9jiZrlLjxTg"
+        }
+      ],
+      "duration_ms": 155151,
+      "name": "Many Men",
+      "url": "https://open.spotify.com/track/2QuWFGLmx5l6oFlmfiTNio"
+    },
+    {
+      "added_at": "2026-05-15 00:01:17",
+      "album": {
         "name": "Modern Fantasy",
         "url": "https://open.spotify.com/album/0GAEfooM5nj6r9JoHW3ERy"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 212903,
       "name": "Modern man",
       "url": "https://open.spotify.com/track/15aVkIio1Y8GHcSubtql0y"
-    },
-    {
-      "added_at": "2026-05-15 00:01:17",
-      "album": {
-        "name": "Many Men",
-        "url": "https://open.spotify.com/album/57mPLz3Ii7CXM6kJqjvuWu"
-      },
-      "artists": [
-        {
-          "name": "Bolu Ajibade",
-          "url": "https://open.spotify.com/artist/44HFYth2ExH9jiZrlLjxTg"
-        }
-      ],
-      "duration_ms": 155151,
-      "name": "Many Men",
-      "url": "https://open.spotify.com/track/2QuWFGLmx5l6oFlmfiTNio"
     },
     {
       "added_at": "2026-05-15 00:01:17",
@@ -687,22 +687,6 @@
     {
       "added_at": "2026-05-15 00:01:17",
       "album": {
-        "name": "20nothing",
-        "url": "https://open.spotify.com/album/1LmAoO7wnSBtPokxUSnEMz"
-      },
-      "artists": [
-        {
-          "name": "Blessing Jolie",
-          "url": "https://open.spotify.com/artist/57bDO2vmzu955G1W6EsYth"
-        }
-      ],
-      "duration_ms": 174267,
-      "name": "Regular Shmegular Girl",
-      "url": "https://open.spotify.com/track/2QuI2YX4Mg2GwJWjARd0FN"
-    },
-    {
-      "added_at": "2026-05-15 00:01:17",
-      "album": {
         "name": "FRIENDS",
         "url": "https://open.spotify.com/album/3y1nLsqq6RbF22AaJPzJdS"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 158537,
       "name": "ROCK & SLIDE",
       "url": "https://open.spotify.com/track/1MiinqNShZaTkB2QA1Budc"
+    },
+    {
+      "added_at": "2026-05-15 00:01:17",
+      "album": {
+        "name": "20nothing",
+        "url": "https://open.spotify.com/album/1LmAoO7wnSBtPokxUSnEMz"
+      },
+      "artists": [
+        {
+          "name": "Blessing Jolie",
+          "url": "https://open.spotify.com/artist/57bDO2vmzu955G1W6EsYth"
+        }
+      ],
+      "duration_ms": 174267,
+      "name": "Regular Shmegular Girl",
+      "url": "https://open.spotify.com/track/2QuI2YX4Mg2GwJWjARd0FN"
     },
     {
       "added_at": "2026-05-15 00:01:17",
@@ -819,22 +819,6 @@
     {
       "added_at": "2026-05-15 00:01:17",
       "album": {
-        "name": "Diamond in a Process",
-        "url": "https://open.spotify.com/album/5DJMJRwCb46P2lo5Nf2O1n"
-      },
-      "artists": [
-        {
-          "name": "Jiire Smith",
-          "url": "https://open.spotify.com/artist/0VX3LwYsAeOKY4sKXLp9Nc"
-        }
-      ],
-      "duration_ms": 145426,
-      "name": "Yapa Yapa",
-      "url": "https://open.spotify.com/track/7ksVRiH1HIMc9HbUO6qNH0"
-    },
-    {
-      "added_at": "2026-05-15 00:01:17",
-      "album": {
         "name": "Nasty",
         "url": "https://open.spotify.com/album/2yzE0FVIVvSPPtJEWaFd7Z"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 161289,
       "name": "Nasty",
       "url": "https://open.spotify.com/track/1xAKbuqVAmKTH7beQe7VRJ"
+    },
+    {
+      "added_at": "2026-05-15 00:01:17",
+      "album": {
+        "name": "Diamond in a Process",
+        "url": "https://open.spotify.com/album/5DJMJRwCb46P2lo5Nf2O1n"
+      },
+      "artists": [
+        {
+          "name": "Jiire Smith",
+          "url": "https://open.spotify.com/artist/0VX3LwYsAeOKY4sKXLp9Nc"
+        }
+      ],
+      "duration_ms": 145426,
+      "name": "Yapa Yapa",
+      "url": "https://open.spotify.com/track/7ksVRiH1HIMc9HbUO6qNH0"
     },
     {
       "added_at": "2026-05-15 00:01:17",
@@ -991,6 +991,26 @@
     {
       "added_at": "2026-05-15 00:01:17",
       "album": {
+        "name": "Novacaine",
+        "url": "https://open.spotify.com/album/1Xx313px4lu947MnygS9ej"
+      },
+      "artists": [
+        {
+          "name": "K0NYE",
+          "url": "https://open.spotify.com/artist/0hyEwDiCc3bp1NVMGi8PMZ"
+        },
+        {
+          "name": "DEBAYO",
+          "url": "https://open.spotify.com/artist/2uBCvfIeglYX3d6NOKKxGL"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Novacaine",
+      "url": "https://open.spotify.com/track/6lkYy8wRZiVOp33BgyiXMu"
+    },
+    {
+      "added_at": "2026-05-15 00:01:17",
+      "album": {
         "name": "Second Thoughts",
         "url": "https://open.spotify.com/album/7kxDk3xWnJBvecCkH13NVw"
       },
@@ -1011,26 +1031,6 @@
       "duration_ms": 137692,
       "name": "Second Thoughts",
       "url": "https://open.spotify.com/track/1LKGPZBZTeFrsSevbGqVz9"
-    },
-    {
-      "added_at": "2026-05-15 00:01:17",
-      "album": {
-        "name": "Novacaine",
-        "url": "https://open.spotify.com/album/1Xx313px4lu947MnygS9ej"
-      },
-      "artists": [
-        {
-          "name": "K0NYE",
-          "url": "https://open.spotify.com/artist/0hyEwDiCc3bp1NVMGi8PMZ"
-        },
-        {
-          "name": "DEBAYO",
-          "url": "https://open.spotify.com/artist/2uBCvfIeglYX3d6NOKKxGL"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Novacaine",
-      "url": "https://open.spotify.com/track/6lkYy8wRZiVOp33BgyiXMu"
     },
     {
       "added_at": "2026-05-15 00:01:17",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2026-05-15 00:01:17",
       "album": {
+        "name": "Clear Mind",
+        "url": "https://open.spotify.com/album/5FacPr0HFLxZwXo49lhK2g"
+      },
+      "artists": [
+        {
+          "name": "Bolu Ajibade",
+          "url": "https://open.spotify.com/artist/44HFYth2ExH9jiZrlLjxTg"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Clear Mind",
+      "url": "https://open.spotify.com/track/1LW3d8wiel1KrGM8MgxIXy"
+    },
+    {
+      "added_at": "2026-05-15 00:01:17",
+      "album": {
         "name": "Try Me",
         "url": "https://open.spotify.com/album/7buvO2dAe29hXmWVd5g2iE"
       },
@@ -1151,22 +1167,6 @@
     {
       "added_at": "2026-05-15 00:01:17",
       "album": {
-        "name": "Clear Mind",
-        "url": "https://open.spotify.com/album/5FacPr0HFLxZwXo49lhK2g"
-      },
-      "artists": [
-        {
-          "name": "Bolu Ajibade",
-          "url": "https://open.spotify.com/artist/44HFYth2ExH9jiZrlLjxTg"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Clear Mind",
-      "url": "https://open.spotify.com/track/1LW3d8wiel1KrGM8MgxIXy"
-    },
-    {
-      "added_at": "2026-05-15 00:01:17",
-      "album": {
         "name": "UPGRADE",
         "url": "https://open.spotify.com/album/71h63m5gl6FlM1dSba1sXv"
       },
@@ -1179,6 +1179,22 @@
       "duration_ms": 148397,
       "name": "UPGRADE",
       "url": "https://open.spotify.com/track/6H2VwCcdNHRZIvmvUVb6aQ"
+    },
+    {
+      "added_at": "2026-05-15 00:01:17",
+      "album": {
+        "name": "Princessa",
+        "url": "https://open.spotify.com/album/4mt6E3wuLqyZpS4f3Mn1VU"
+      },
+      "artists": [
+        {
+          "name": "Indi",
+          "url": "https://open.spotify.com/artist/3Huh90qZ5dI2w5I4JjaQtF"
+        }
+      ],
+      "duration_ms": 118974,
+      "name": "Princessa",
+      "url": "https://open.spotify.com/track/75uaXl3fE1nny7OFA6SCZh"
     },
     {
       "added_at": "2026-05-15 00:01:17",
@@ -1199,22 +1215,6 @@
       "duration_ms": 137142,
       "name": "september rush",
       "url": "https://open.spotify.com/track/0aSkyAsDk2e2RG1R62kTjp"
-    },
-    {
-      "added_at": "2026-05-15 00:01:17",
-      "album": {
-        "name": "Princessa",
-        "url": "https://open.spotify.com/album/4mt6E3wuLqyZpS4f3Mn1VU"
-      },
-      "artists": [
-        {
-          "name": "Indi",
-          "url": "https://open.spotify.com/artist/3Huh90qZ5dI2w5I4JjaQtF"
-        }
-      ],
-      "duration_ms": 118974,
-      "name": "Princessa",
-      "url": "https://open.spotify.com/track/75uaXl3fE1nny7OFA6SCZh"
     },
     {
       "added_at": "2026-05-15 00:01:17",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2026-05-15 00:01:17",
       "album": {
-        "name": "infrunayou",
-        "url": "https://open.spotify.com/album/4xQp8J3Yzvu13vTsQEJ9Yf"
-      },
-      "artists": [
-        {
-          "name": "Baves O",
-          "url": "https://open.spotify.com/artist/42tS8RFwfqTZFuyW0FrPIs"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "infrunayou",
-      "url": "https://open.spotify.com/track/13nDtpeYtIelDBrniTD7Z3"
-    },
-    {
-      "added_at": "2026-05-15 00:01:17",
-      "album": {
         "name": "Imperfect Daughters",
         "url": "https://open.spotify.com/album/50CBKVxs8tjeiQANBnb3nK"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 221000,
       "name": "Imperfect Daughters",
       "url": "https://open.spotify.com/track/481OshZ1RPTStU15tZLic7"
+    },
+    {
+      "added_at": "2026-05-15 00:01:17",
+      "album": {
+        "name": "infrunayou",
+        "url": "https://open.spotify.com/album/4xQp8J3Yzvu13vTsQEJ9Yf"
+      },
+      "artists": [
+        {
+          "name": "Baves O",
+          "url": "https://open.spotify.com/artist/42tS8RFwfqTZFuyW0FrPIs"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "infrunayou",
+      "url": "https://open.spotify.com/track/13nDtpeYtIelDBrniTD7Z3"
     },
     {
       "added_at": "2026-05-15 00:01:17",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2026-05-15 00:01:17",
       "album": {
-        "name": "Paris",
-        "url": "https://open.spotify.com/album/2Og60Asyn30jSOaR7NLwR1"
-      },
-      "artists": [
-        {
-          "name": "\u00d8bed",
-          "url": "https://open.spotify.com/artist/401y2oVJbv5VrskZIMGZm9"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Paris",
-      "url": "https://open.spotify.com/track/7dYVHl9iCM6SFaiQ6KpJ8k"
-    },
-    {
-      "added_at": "2026-05-15 00:01:17",
-      "album": {
         "name": "RUSH",
         "url": "https://open.spotify.com/album/2LQyWkXGeGOuLoqtSegnwX"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 253714,
       "name": "RUSH",
       "url": "https://open.spotify.com/track/1ggt5hR3JoPr8xeggK5z7s"
+    },
+    {
+      "added_at": "2026-05-15 00:01:17",
+      "album": {
+        "name": "Paris",
+        "url": "https://open.spotify.com/album/2Og60Asyn30jSOaR7NLwR1"
+      },
+      "artists": [
+        {
+          "name": "\u00d8bed",
+          "url": "https://open.spotify.com/artist/401y2oVJbv5VrskZIMGZm9"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Paris",
+      "url": "https://open.spotify.com/track/7dYVHl9iCM6SFaiQ6KpJ8k"
     },
     {
       "added_at": "2026-05-15 00:01:17",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2026-05-15 00:01:17",
       "album": {
-        "name": "DUA PA",
-        "url": "https://open.spotify.com/album/1kNArpDMACRIn6AcsfE4Or"
-      },
-      "artists": [
-        {
-          "name": "Bapi Joss",
-          "url": "https://open.spotify.com/artist/650EjRE3msuYaSw2hWLVPH"
-        }
-      ],
-      "duration_ms": 126000,
-      "name": "DUA PA",
-      "url": "https://open.spotify.com/track/7o3tTomsCsKOf7B0LUsCpM"
-    },
-    {
-      "added_at": "2026-05-15 00:01:17",
-      "album": {
         "name": "Italawa",
         "url": "https://open.spotify.com/album/2TSeiQDOkAsmIrNuk329fn"
       },
@@ -1419,6 +1403,22 @@
     {
       "added_at": "2026-05-15 00:01:17",
       "album": {
+        "name": "DUA PA",
+        "url": "https://open.spotify.com/album/1kNArpDMACRIn6AcsfE4Or"
+      },
+      "artists": [
+        {
+          "name": "Bapi Joss",
+          "url": "https://open.spotify.com/artist/650EjRE3msuYaSw2hWLVPH"
+        }
+      ],
+      "duration_ms": 126000,
+      "name": "DUA PA",
+      "url": "https://open.spotify.com/track/7o3tTomsCsKOf7B0LUsCpM"
+    },
+    {
+      "added_at": "2026-05-15 00:01:17",
+      "album": {
         "name": "Cold",
         "url": "https://open.spotify.com/album/3YhdPIPXx8bjOTwONdViH4"
       },
@@ -1431,30 +1431,6 @@
       "duration_ms": 148137,
       "name": "Soho",
       "url": "https://open.spotify.com/track/5MAWpKLbJn5XOOm3AIUCW5"
-    },
-    {
-      "added_at": "2026-05-15 00:01:17",
-      "album": {
-        "name": "Formula & Vim/Strangers in Accra",
-        "url": "https://open.spotify.com/album/0gxmM3YdxrWLiEHRpTLBrp"
-      },
-      "artists": [
-        {
-          "name": "Juma Mufasa",
-          "url": "https://open.spotify.com/artist/1qqHchzlrR4QtN0HW0sDIs"
-        },
-        {
-          "name": "KwesiSoul",
-          "url": "https://open.spotify.com/artist/2zaQxkROhBUJAyLyNnUuWr"
-        },
-        {
-          "name": "Papa Atey",
-          "url": "https://open.spotify.com/artist/0me8eXuhZpWe142kwN8SjB"
-        }
-      ],
-      "duration_ms": 312819,
-      "name": "Formula & Vim/Strangers in Accra",
-      "url": "https://open.spotify.com/track/4rZOmXA1vGT1KRg3zVcDKq"
     },
     {
       "added_at": "2026-05-15 00:01:17",
@@ -1479,6 +1455,30 @@
       "duration_ms": 176299,
       "name": "If You Try",
       "url": "https://open.spotify.com/track/5vDaZI2RvpevJq7xUWkKSI"
+    },
+    {
+      "added_at": "2026-05-15 00:01:17",
+      "album": {
+        "name": "Formula & Vim/Strangers in Accra",
+        "url": "https://open.spotify.com/album/0gxmM3YdxrWLiEHRpTLBrp"
+      },
+      "artists": [
+        {
+          "name": "Juma Mufasa",
+          "url": "https://open.spotify.com/artist/1qqHchzlrR4QtN0HW0sDIs"
+        },
+        {
+          "name": "KwesiSoul",
+          "url": "https://open.spotify.com/artist/2zaQxkROhBUJAyLyNnUuWr"
+        },
+        {
+          "name": "Papa Atey",
+          "url": "https://open.spotify.com/artist/0me8eXuhZpWe142kwN8SjB"
+        }
+      ],
+      "duration_ms": 312819,
+      "name": "Formula & Vim/Strangers in Accra",
+      "url": "https://open.spotify.com/track/4rZOmXA1vGT1KRg3zVcDKq"
     },
     {
       "added_at": "2026-05-15 00:01:17",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0Zsena4JFh.md) - [plain]
 
 > The All\-American Rejects en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 685,250 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 685,226 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0Zsena4JFh.md) - [plain]
 | 44 | [i'm not joking](https://open.spotify.com/track/06v2x2dttlLFyF2JaBROpF) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [i'm not joking](https://open.spotify.com/album/6kn0sKYNf2rnfk0Gr9lxUP) | 3:54 |
 | 45 | [Basic Being Basic](https://open.spotify.com/track/03zWQa4ZQEMofug2Gmh6io) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Basic Being Basic](https://open.spotify.com/album/47VVI2IwHNGV3GDKMneUQl) | 2:38 |
 | 46 | [Ride Lonesome](https://open.spotify.com/track/4ZNjYG7CW4ogsOtIB36h1j) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Ride Lonesome](https://open.spotify.com/album/47450DcHOgvjj4D21gBHGC) | 4:32 |
-| 47 | [Riptides](https://open.spotify.com/track/34HWkEfh1KRkw5hReCVtcz) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Riptides](https://open.spotify.com/album/5GBDzuHE3dMAauYKN8FvrN) | 3:17 |
+| 47 | [Punching the Flowers](https://open.spotify.com/track/56es3ImztwXSwpYmtS6c4A) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Punching the Flowers](https://open.spotify.com/album/7M1MydZE4a34uIo3iQrthu) | 3:11 |
 | 48 | [Billie Toppy](https://open.spotify.com/track/5jyj2XKWILHQxDoz59ddCT) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Billie Toppy](https://open.spotify.com/album/0FpoXXhnwamDJbLSWLRgvN) | 3:15 |
 | 49 | [Tremolo](https://open.spotify.com/track/2fLrRiiTmJM4Gdoq7mdXV9) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Romanticize The Dive](https://open.spotify.com/album/75oefoG5Cn2MbBc32uNPnu) | 3:43 |
 | 50 | [Delete Ya](https://open.spotify.com/track/03y6MsaseYEO7DfwqsgcAI) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Delete Ya](https://open.spotify.com/album/3UJpgWYwRE9ctZEBmHZeVK) | 3:23 |

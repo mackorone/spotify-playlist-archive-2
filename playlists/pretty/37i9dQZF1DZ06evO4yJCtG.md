@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4yJCtG.md) - [plain]
 
 > This is Ella Mai\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,409 likes - 42 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,425 likes - 42 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,22 +33,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4yJCtG.md) - [plain]
 | 23 | [Piece of Me \(feat\. Ella Mai\)](https://open.spotify.com/track/6m4SEnC7eZLrgroEvwAmCF) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Made In Lagos](https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN) | 3:16 |
 | 24 | [24/7 \(feat\. Ella Mai\)](https://open.spotify.com/track/6irE4Fbjbry3czv7mTxVSB) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Championships](https://open.spotify.com/album/6UYZEYjpN1DYRW0kqFy9ZE) | 3:41 |
 | 25 | [There Goes My Heart](https://open.spotify.com/track/3UndDLgqFJQjSjX2lk7gNc) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Do You Still Love Me?](https://open.spotify.com/album/6wx0e6hnO0RGVaa5CgfNEX) | 3:33 |
-| 26 | [Trying](https://open.spotify.com/track/2EHaJElgdxeZG2bzCMVmMN) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Heart On My Sleeve](https://open.spotify.com/album/6p5jJLTFiYgk95HhW0unhy) | 3:17 |
-| 27 | [My Way](https://open.spotify.com/track/3x4Zx0rPoW6kErSDK8SSnW) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [READY](https://open.spotify.com/album/3o09FMrUQ5TVBUYb6msCMi) | 3:11 |
+| 26 | [My Way](https://open.spotify.com/track/3x4Zx0rPoW6kErSDK8SSnW) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [READY](https://open.spotify.com/album/3o09FMrUQ5TVBUYb6msCMi) | 3:11 |
+| 27 | [Trying](https://open.spotify.com/track/2EHaJElgdxeZG2bzCMVmMN) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Heart On My Sleeve](https://open.spotify.com/album/6p5jJLTFiYgk95HhW0unhy) | 3:17 |
 | 28 | [A Thousand Times](https://open.spotify.com/track/3ZzKKSPEOIfaSqkZ0cwXtN) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Time](https://open.spotify.com/album/0AoPcGhCHaz9K96DoJoKlu) | 3:57 |
 | 29 | [Don't Waste My Time \(feat\. Ella Mai\)](https://open.spotify.com/track/3Ey11v2aiX14s4wBaYbhlp) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Don't Waste My Time \(feat\. Ella Mai\)](https://open.spotify.com/album/2veUi52T9SqSvwXJYd5aIT) | 3:19 |
-| 30 | [Power Of A Woman](https://open.spotify.com/track/1dDy8IYSA4NH8JtpGLhcMb) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Heart On My Sleeve](https://open.spotify.com/album/6p5jJLTFiYgk95HhW0unhy) | 3:33 |
-| 31 | [10,000 Hours](https://open.spotify.com/track/6d1fGqMtdUEuHqFSDMlR0N) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [CHANGE](https://open.spotify.com/album/5OEG0kAfeWe5Lze9RGbJHb) | 3:50 |
+| 30 | [10,000 Hours](https://open.spotify.com/track/6d1fGqMtdUEuHqFSDMlR0N) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [CHANGE](https://open.spotify.com/album/5OEG0kAfeWe5Lze9RGbJHb) | 3:50 |
+| 31 | [Hide](https://open.spotify.com/track/7DKxuRKGTrk7HGT83Oo2E1) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Heart On My Sleeve](https://open.spotify.com/album/6p5jJLTFiYgk95HhW0unhy) | 3:28 |
 | 32 | [Don't Want You](https://open.spotify.com/track/7mlUgG3YkaE8AWRzsdEcNn) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Time](https://open.spotify.com/album/0AoPcGhCHaz9K96DoJoKlu) | 3:20 |
 | 33 | [Makes Me Wonder](https://open.spotify.com/track/4zwZhQnqJTr1rQ9wRY3nNr) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [READY](https://open.spotify.com/album/3o09FMrUQ5TVBUYb6msCMi) | 3:30 |
-| 34 | [Hide](https://open.spotify.com/track/7DKxuRKGTrk7HGT83Oo2E1) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Heart On My Sleeve](https://open.spotify.com/album/6p5jJLTFiYgk95HhW0unhy) | 3:28 |
-| 35 | [Found](https://open.spotify.com/track/3GmdPNBnVUtiTnU3i1idfq) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [CHANGE](https://open.spotify.com/album/5OEG0kAfeWe5Lze9RGbJHb) | 3:06 |
+| 34 | [Found](https://open.spotify.com/track/3GmdPNBnVUtiTnU3i1idfq) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [CHANGE](https://open.spotify.com/album/5OEG0kAfeWe5Lze9RGbJHb) | 3:06 |
+| 35 | [Power Of A Woman](https://open.spotify.com/track/1dDy8IYSA4NH8JtpGLhcMb) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Heart On My Sleeve](https://open.spotify.com/album/6p5jJLTFiYgk95HhW0unhy) | 3:33 |
 | 36 | [Jealous \(with Ella Mai\)](https://open.spotify.com/track/4xPqjF1t6wGa2j6QEMPF95) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs), [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Grudges](https://open.spotify.com/album/7LjBbLFOHLzCsOlxYpFqU2) | 3:45 |
 | 37 | [One Day](https://open.spotify.com/track/0SZwTcyp6qcICqdRVOpbPy) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Time](https://open.spotify.com/album/0AoPcGhCHaz9K96DoJoKlu) | 3:11 |
-| 38 | [Break My Heart](https://open.spotify.com/track/0TYsPcmqWOtPdaEXmHvNSE) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Heart On My Sleeve](https://open.spotify.com/album/6p5jJLTFiYgk95HhW0unhy) | 3:14 |
-| 39 | [Down](https://open.spotify.com/track/1tQsStMyJ0tciJ5Z4MUg66) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [CHANGE](https://open.spotify.com/album/5OEG0kAfeWe5Lze9RGbJHb) | 4:13 |
+| 38 | [Down](https://open.spotify.com/track/1tQsStMyJ0tciJ5Z4MUg66) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [CHANGE](https://open.spotify.com/album/5OEG0kAfeWe5Lze9RGbJHb) | 4:13 |
+| 39 | [Break My Heart](https://open.spotify.com/track/0TYsPcmqWOtPdaEXmHvNSE) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Heart On My Sleeve](https://open.spotify.com/album/6p5jJLTFiYgk95HhW0unhy) | 3:14 |
 | 40 | [Sex Memories \(feat\. Ella Mai\)](https://open.spotify.com/track/4L1ssURf09bPAfPhhOgy56) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Breezy](https://open.spotify.com/album/31U6s6obQrBLTqyvqfqzlM) | 3:31 |
 | 41 | [Keeps On Fallin’ \(with Ella Mai\)](https://open.spotify.com/track/2aunyb1BeN1HrWDzAJPyBq) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Girls Night Out](https://open.spotify.com/album/20BluhELkpoDsYhUOpUMye) | 2:55 |
 | 42 | [A Mess \(feat\. Lucky Daye\)](https://open.spotify.com/track/3HgJ1aYlEgy8Yj1NMAe1pm) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Heart On My Sleeve](https://open.spotify.com/album/6p5jJLTFiYgk95HhW0unhy) | 3:53 |
 
-Snapshot ID: `ag5LAAAAAAA5e8Vs2WvZDVlnj2TIVk2Q`
+Snapshot ID: `ag+cgAAAAAD8TZMP2M8KYLbld2Tey/ir`

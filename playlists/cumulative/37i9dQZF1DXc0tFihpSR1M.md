@@ -4,7 +4,7 @@
 
 > Det beste av ny pop akkurat nå! 🍭<br/>Cover: Nessi
 
-574 songs - 1 day 5 hr 48 min
+575 songs - 1 day 5 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,6 +183,7 @@
 | [Gjesten på festen](https://open.spotify.com/track/4SzHLgDM3mRV8WAuZXbBRs) | [Synne Vo](https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9) | [Kanskje det går te helvete](https://open.spotify.com/album/0PEq6f5FdryrgjnQaZxJt8) | 2:26 | 2024-09-26 | 2024-10-11 |
 | [Glasslunger](https://open.spotify.com/track/3K3OYzd3opW2MhTcaGP0Qt) | [Weimoth](https://open.spotify.com/artist/3uoelsfFDJNJHj17zEi6Q8) | [Glasslunger](https://open.spotify.com/album/2YHcpeMnSkBYN2TuBlLgPp) | 2:04 | 2026-03-20 | 2026-04-18 |
 | [Glide](https://open.spotify.com/track/1CSAUEapYQQOD50ardFG0K) | [NEIKED](https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f), [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Glide](https://open.spotify.com/album/6AMsv6QlrSfVozxMKqczKx) | 3:04 | 2025-04-22 | 2025-11-28 |
+| [Goals](https://open.spotify.com/track/3hdGyxmW0eNskNwTwmXOIQ) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [FIFA Sound](https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH) | [Goals \(FIFA World Cup 2026™\)](https://open.spotify.com/album/32V31xJ7RTgNQB3qyMevei) | 3:00 | 2026-05-21 |  |
 | [God Went Crazy](https://open.spotify.com/track/1E5HKRzDzeeC7vQGjlLpUr) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [God Went Crazy](https://open.spotify.com/album/43mGt3jmmeOnJE4bC0Ulls) | 3:03 | 2025-06-06 | 2026-04-10 |
 | [Gold](https://open.spotify.com/track/3hZo9UznjcWfJ9vkOho6Ea) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [A Minute, A Moment...](https://open.spotify.com/album/02Im7TTPFgjVmXc3HpIkUj) | 2:44 | 2025-05-23 | 2026-04-21 |
 | [Golden Hour](https://open.spotify.com/track/7vw9Nj01B5HdcIkkb3sKHj) | [2AM\-DM](https://open.spotify.com/artist/3ypNj7o6K9O02LfRlfxUcN) | [Golden Hour](https://open.spotify.com/album/4rMRBvrS3yF7liMtP4FHrK) | 4:09 | 2025-01-09 | 2025-01-17 |
@@ -517,7 +518,7 @@
 | [Time After Time](https://open.spotify.com/track/2PT1VwYndxOPXE1qhiib0x) | [EJAE](https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY) | [Time After Time](https://open.spotify.com/album/24KhrK7jpSwwNDWvKr04NO) | 2:48 | 2026-02-05 | 2026-03-27 |
 | [TIME TO GO](https://open.spotify.com/track/32He7V1I86jo3oWGzlxwov) | [Martine Farstad](https://open.spotify.com/artist/1IfVdzvb1iqVh4ZKceC3PC) | [TIME TO GO](https://open.spotify.com/album/520ZEhZtTivehjdQswHoyF) | 2:36 | 2024-11-08 | 2025-01-10 |
 | [Times Like These](https://open.spotify.com/track/01fzY6YKwKQ3LxCpIP6buB) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Addison](https://open.spotify.com/album/2ffVa2UhHUDwMHnr685zJ4) | 3:52 | 2025-06-06 | 2025-07-18 |
-| [Tiny Raisin](https://open.spotify.com/track/1mSO89SOD17R1dFyrxdSBT) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Tiny Raisin](https://open.spotify.com/album/3dBccCBVyx1YO1ZGXPMIAs) | 2:58 | 2026-04-30 |  |
+| [Tiny Raisin](https://open.spotify.com/track/1mSO89SOD17R1dFyrxdSBT) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Tiny Raisin](https://open.spotify.com/album/3dBccCBVyx1YO1ZGXPMIAs) | 2:58 | 2026-04-30 | 2026-05-24 |
 | [Tiptoes](https://open.spotify.com/track/4xEB0FMkEGNf9wFOqEqO3C) | [RABO](https://open.spotify.com/artist/6bf8OgxXTVqU1OZIJmnBpf) | [Tiptoes](https://open.spotify.com/album/35ztU2856725LlF8yN9iuK) | 2:35 | 2025-05-23 | 2025-06-27 |
 | [To Be Free](https://open.spotify.com/track/47mNWUCgJoXqVWb3UZytVa) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [To Be Free](https://open.spotify.com/album/4CbMJCzMlzyEByCi84kllb) | 4:15 | 2025-07-24 | 2026-02-08 |
 | [To Be Loved](https://open.spotify.com/track/3VpCLroRCtkDWIkPnMB3mj) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Beautifully Ordinary](https://open.spotify.com/album/2TLyLOzYh6qo5N0blioQn8) | 5:04 | 2024-08-01 | 2024-08-09 |

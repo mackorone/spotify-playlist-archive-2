@@ -4,7 +4,7 @@
 
 > De mooiste muziek: Americana \| Country
 
-301 songs - 17 hr 42 min
+302 songs - 17 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Come Along as One](https://open.spotify.com/track/4izIdsGxr6lPaV8aeEauFU) | [Shane Guerrette](https://open.spotify.com/artist/4xaFqKnLaGscm3y2CU13Qq) | [Come Along](https://open.spotify.com/album/2I2GgjfMffCEszqaxa2kWA) | 3:49 | 2025-12-18 | 2026-03-06 |
 | [Coyotes](https://open.spotify.com/track/3S0VPSpztymqIswSjQ8Pqm) | [KaiL Baxley](https://open.spotify.com/artist/3fV14PAU0MWFaj0Kt8MDWx) | [Coyotes](https://open.spotify.com/album/678oZA2MpAcgLyFYKl0Bdy) | 4:56 | 2023-02-23 | 2023-03-18 |
 | [Crying In A Desert](https://open.spotify.com/track/2u2xhDHk7TaDwafRrLB4Vv) | [Harlem Lake](https://open.spotify.com/artist/5DCvu1KlUOL7u20WGhbRBc) | [Crying In A Desert](https://open.spotify.com/album/2L70eq6uXgyyTBeS36NzSj) | 4:42 | 2024-07-11 | 2025-01-17 |
+| [Daisies](https://open.spotify.com/track/4q0uQNqaIchPOgvhODEsnG) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Daisies](https://open.spotify.com/album/2xW159PeikPpj7jIIJpjdv) | 3:43 | 2026-05-21 |  |
 | [Dancing In The Dark](https://open.spotify.com/track/1mPXB7fe2vK1dJxMbSZuDP) | [Tim Akkerman](https://open.spotify.com/artist/1mdYzJv7Z90aiNlfBvoI9u), [The Ivy League](https://open.spotify.com/artist/3sEDJcE3V0YjnmaxIQP5qO) | [Dancing In The Dark](https://open.spotify.com/album/4QUzb6iiFjr2K0NTqCIZTV) | 3:28 | 2023-12-01 | 2024-09-13 |
 | [Daydreaming](https://open.spotify.com/track/0VgbGEB8mqMdsWVh5ibThm) | [Calicos](https://open.spotify.com/artist/2uLnbJ7DFXc382YXWyLyNr) | [Daydreaming](https://open.spotify.com/album/1xMJyzfii5msqJLejy336Z) | 3:25 | 2025-01-23 | 2025-02-04 |
 | [Dead End Street](https://open.spotify.com/track/2uu9JRbYg9IyjTvQoxG8zG) | [Femke](https://open.spotify.com/artist/5XEOJI2noMNu9v6f30cQ4w) | [Safe in the Suburbs](https://open.spotify.com/album/3OdmbPibKSXzidDbgvRsPi) | 2:58 | 2023-09-22 | 2024-07-05 |
@@ -105,7 +106,7 @@
 | [Gold Dust Woman](https://open.spotify.com/track/1FH9iCgUtZXnwodYzahivh) | [Warren Haynes](https://open.spotify.com/artist/73iWh9WUMf0xK6cRkNJK4h), [Jim James](https://open.spotify.com/artist/1MhtYlJvUqfd2EgHSQTGK4), [Grace Potter](https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht) | [Gold Dust Woman](https://open.spotify.com/album/1jvxRIDR1nCdEw13R9Pv0S) | 3:00 | 2023-12-01 | 2025-01-18 |
 | [Gone Forever](https://open.spotify.com/track/0tRQcoSBhl4GUjc2EKs9UG) | [INA ROSE](https://open.spotify.com/artist/19ehJM5qKnIvJ1KXOnKddA) | [Gone Forever](https://open.spotify.com/album/5XKSg6lZFs45iry4wkRqvq) | 3:27 | 2024-09-26 | 2024-11-09 |
 | [Gonna Shine](https://open.spotify.com/track/5DmCE0x0NldbgmjClh3qRW) | [The Georgia Thunderbolts](https://open.spotify.com/artist/0sukMbleG21A52WNk4O81d) | [Gonna Shine](https://open.spotify.com/album/56d6RiEgQQBFlkuEx6lmAi) | 4:01 | 2023-09-14 | 2024-03-13 |
-| [Good As Gone](https://open.spotify.com/track/3Q7e5lPNK6PJ5PqpqczWnf) | [Koen Vael](https://open.spotify.com/artist/3vLt2bP1seJHs2RGSSZ0jx) | [Good As Gone](https://open.spotify.com/album/5L7K0GaNwfTqHG5XRYjK50) | 3:45 | 2025-09-25 |  |
+| [Good As Gone](https://open.spotify.com/track/3Q7e5lPNK6PJ5PqpqczWnf) | [Koen Vael](https://open.spotify.com/artist/3vLt2bP1seJHs2RGSSZ0jx) | [Good As Gone](https://open.spotify.com/album/5L7K0GaNwfTqHG5XRYjK50) | 3:45 | 2025-09-25 | 2026-05-24 |
 | [Good Horses \(feat\. Miranda Lambert\)](https://open.spotify.com/track/2Y55wplSMT3ltQQOPvMC75) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Good Horses \(feat\. Miranda Lambert\)](https://open.spotify.com/album/51LSHfJxKu0e6V9N8TcdEG) | 3:57 | 2024-08-01 | 2025-12-19 |
 | [Good Riddance & Goodbye](https://open.spotify.com/track/5qah0qyBq6iG8sRjtfPu7e) | [INA ROSE](https://open.spotify.com/artist/19ehJM5qKnIvJ1KXOnKddA) | [Good Riddance & Goodbye](https://open.spotify.com/album/4fJjNjrXI8Kg06UwA30ImI) | 3:07 | 2026-03-05 |  |
 | [Gorgeous](https://open.spotify.com/track/1gZoMw9jMH7MfbeRhFcOli) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Gorgeous](https://open.spotify.com/album/7iwSy6qIzLQ3aTpkjcTJrF) | 3:05 | 2025-01-16 | 2025-12-19 |

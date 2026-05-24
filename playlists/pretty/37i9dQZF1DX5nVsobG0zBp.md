@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5nVsobG0zBp.md) - [plain]
 
 > Os maiores hits do rap português dos últimos anos\. Foto: Papillon
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,678 likes - 80 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,707 likes - 80 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,10 +60,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5nVsobG0zBp.md) - [plain]
 | 50 | [El Chapo](https://open.spotify.com/track/21eK6Nj3MWcVGholM4AqZH) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [El Chapo](https://open.spotify.com/album/2LhRoA068ps6Ro76JXKaBw) | 4:01 |
 | 51 | [Não dá pa parar](https://open.spotify.com/track/5xIjSTfo5vK70n17mD0BNG) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY), [Papillon](https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d) | [Não dá pa parar](https://open.spotify.com/album/4Y3s0dztnVJB2l05OclX2H) | 3:13 |
 | 52 | [Let You Go](https://open.spotify.com/track/2Z8pPatBfVlRqNlsnmMdhV) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Let You Go](https://open.spotify.com/album/75YlSkZGyWUGB1BzPd9Egz) | 3:24 |
-| 53 | [Trovador](https://open.spotify.com/track/2wAFMaA47CNXOTSsVJA52j) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Trovador](https://open.spotify.com/album/42OhyOM28LEkgu9J9jrahn) | 3:46 |
-| 54 | [Dado](https://open.spotify.com/track/2JfAp9d5Y1S4tfQTfgY6qJ) | [Rony Fuego](https://open.spotify.com/artist/0DxsiYPUEWLY4HjaUDM8Lk), [DreNaz](https://open.spotify.com/artist/5urWzy2mamyT5sMTE5H00O) | [Dado](https://open.spotify.com/album/5iEcD9LQ9XzPYL5E3fckjn) | 3:27 |
-| 55 | [Maçã](https://open.spotify.com/track/0eyTM1AjoPMdzfwCBfLIpO) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [Maçã](https://open.spotify.com/album/7bLu4omqbTsFAfnvVFUSW8) | 3:39 |
-| 56 | [Malandro](https://open.spotify.com/track/1QBBBnxF3xD0Gu5kHXk8oB) | [Aragão](https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4) | [Malandro](https://open.spotify.com/album/5HpKHknhyCUqa0dcToXWFe) | 3:30 |
+| 53 | [Dado](https://open.spotify.com/track/2JfAp9d5Y1S4tfQTfgY6qJ) | [Rony Fuego](https://open.spotify.com/artist/0DxsiYPUEWLY4HjaUDM8Lk), [DreNaz](https://open.spotify.com/artist/5urWzy2mamyT5sMTE5H00O) | [Dado](https://open.spotify.com/album/5iEcD9LQ9XzPYL5E3fckjn) | 3:27 |
+| 54 | [Trovador](https://open.spotify.com/track/2wAFMaA47CNXOTSsVJA52j) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Trovador](https://open.spotify.com/album/42OhyOM28LEkgu9J9jrahn) | 3:46 |
+| 55 | [Malandro](https://open.spotify.com/track/1QBBBnxF3xD0Gu5kHXk8oB) | [Aragão](https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4) | [Malandro](https://open.spotify.com/album/5HpKHknhyCUqa0dcToXWFe) | 3:30 |
+| 56 | [Maçã](https://open.spotify.com/track/0eyTM1AjoPMdzfwCBfLIpO) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [Maçã](https://open.spotify.com/album/7bLu4omqbTsFAfnvVFUSW8) | 3:39 |
 | 57 | [STAY FLY](https://open.spotify.com/track/2QTqMOfniBv3Y0GWkJa5bZ) | [LON3R JOHNY](https://open.spotify.com/artist/1fV7Au7ymGP3uhDV1TfjSd) | [STAY FLY](https://open.spotify.com/album/4iIcbooXI3ECNDtEHMZIYq) | 3:54 |
 | 58 | [NUVENS](https://open.spotify.com/track/3H2mIbO0hTjEwZsTbeUj4G) | [LEO2745](https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx) | [NUVENS](https://open.spotify.com/album/1e01W4bZ9pbHawTp1XZkBb) | 2:37 |
 | 59 | [PRA MIM](https://open.spotify.com/track/1wxLvOhDguWTLAJN0HW87J) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [PRA MIM](https://open.spotify.com/album/4o64dSERjVp8ZJc12BYzJJ) | 2:33 |

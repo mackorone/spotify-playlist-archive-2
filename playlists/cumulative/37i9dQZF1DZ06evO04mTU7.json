@@ -1537,6 +1537,32 @@
     },
     {
       "album": {
+        "name": "SUA FAVORITA",
+        "url": "https://open.spotify.com/album/1307xU8fubUQzLFHRnlJ3e"
+      },
+      "artists": [
+        {
+          "name": "Budah",
+          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
+        },
+        {
+          "name": "AJULLIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "Franco, The Sir!",
+          "url": "https://open.spotify.com/artist/2dSdEXb846NGEN95MkLTYU"
+        }
+      ],
+      "date_added": "2026-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153191,
+      "name": "SUA FAVORITA",
+      "url": "https://open.spotify.com/track/4M4gvIsQmAZTRyfrFwnkIA"
+    },
+    {
+      "album": {
         "name": "THE BOX MEDLEY 12",
         "url": "https://open.spotify.com/album/1UAvKSK9Mc7Euv0HwVej1C"
       },

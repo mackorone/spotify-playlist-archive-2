@@ -4,7 +4,7 @@
 
 > Is it your bias K\-Pop boy group? \(Cover: ZEROBASEONE\) 당신의 최애 아이돌 보이 그룹은 어떤 그룹인가요?
 
-862 songs - 1 day 22 hr 34 min
+863 songs - 1 day 22 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,7 +199,7 @@
 | [ddok ddok ddok](https://open.spotify.com/track/5D5vkXfYyYeURaWIbMA2nP) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [ddok ddok ddok](https://open.spotify.com/album/24Y94uThWacq7o0gUF9dg2) | 2:35 | 2026-05-11 |  |
 | [Deja Vu](https://open.spotify.com/track/3zmrdOtnOogqLllz26WLZ3) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ZERO : FEVER Part.3](https://open.spotify.com/album/5ozaWoYQScjFzGODcJmy3G) | 3:16 | 2021-12-08 | 2024-07-23 |
 | [Deja Vu](https://open.spotify.com/track/3aAnwyBJY9OLNLqSgd4fZU) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [minisode 3: TOMORROW](https://open.spotify.com/album/0mDwrOXZHN1lgCNeBvkBbj) | 2:51 | 2024-04-03 |  |
-| [DESPERADO](https://open.spotify.com/track/6fnOrvdbFGYNNTVwNoseKd) | [T.O.P](https://open.spotify.com/artist/4yiB30K5scGkjmAgHGIH8Y) | [TOP SPOT \- ANOTHER DIMENSION](https://open.spotify.com/album/5ORJMfjjUnPI2gJwI35OjE) | 3:04 | 2026-04-03 |  |
+| [DESPERADO](https://open.spotify.com/track/6fnOrvdbFGYNNTVwNoseKd) | [T.O.P](https://open.spotify.com/artist/4yiB30K5scGkjmAgHGIH8Y) | [TOP SPOT \- ANOTHER DIMENSION](https://open.spotify.com/album/5ORJMfjjUnPI2gJwI35OjE) | 3:04 | 2026-04-03 | 2026-05-24 |
 | [Devil](https://open.spotify.com/track/2jkZgKoNK8dKxs7FGb9c42) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [DEVIL \- SUPER JUNIOR SPECIAL ALBUM](https://open.spotify.com/album/3tLpEVOpXkRifL3nIziMN6) | 3:36 | 2022-03-31 | 2022-04-03 |
 | [Dinero](https://open.spotify.com/track/7M8d5kcqt7zLDwRQS5Kp2R) | [MINGI](https://open.spotify.com/artist/3ZHodgUsqkIUsek6ke65bO) | [FIX OFF Desire Project : ORIGIN](https://open.spotify.com/album/5PzbW9PKw8fMzuHiRp8Vku) | 2:27 | 2026-05-11 | 2026-05-19 |
 | [Dive](https://open.spotify.com/track/1QRgdZiZAj2EfRMLBVu9af) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [i DECIDE](https://open.spotify.com/album/0wOlHVp82SZuQisxdigqkP) | 3:10 | 2021-12-08 | 2022-06-16 |
@@ -846,6 +846,7 @@
 | [X.O.X](https://open.spotify.com/track/4TsXvv60e5N9uQpanWkFQ9) | [Moon Jong Up](https://open.spotify.com/artist/3I9hRYYNJvENa3EcJ6c5cd) | [SOME](https://open.spotify.com/album/2KmLP8MgdPvcZcnVUxYi2p) | 3:13 | 2023-10-30 | 2023-11-11 |
 | [X10](https://open.spotify.com/track/4gqpNgLOarYEPrIRqjy5gZ) | [MCND](https://open.spotify.com/artist/59dDRtMe8DILtibke8FWLK) | [X10](https://open.spotify.com/album/0lSgROy25yUfnZqrY9g4P4) | 2:56 | 2024-05-21 | 2024-06-12 |
 | [XO \(Only If You Say Yes\)](https://open.spotify.com/track/3RkSwrsIadAvqVtMp5yhaB) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [ROMANCE : UNTOLD](https://open.spotify.com/album/05I8FltCMnGa3kE38mpOkL) | 3:08 | 2024-07-12 |  |
+| [YEAH! YEAH!](https://open.spotify.com/track/7vmq3Ukd8csLDpCvoOM9Do) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [LNGSHOT](https://open.spotify.com/artist/2F4oTJOWkcD1JaTeKEa9h6) | [4SHOBOIZ Vol\. 2: 4SHOVILLE](https://open.spotify.com/album/2PmrRGuWioIjWlJGvftkRl) | 3:04 | 2026-05-19 |  |
 | [YES, NO, MAYBE](https://open.spotify.com/track/0tdwohWGtZzDZq9DQ055A9) | [ONE PACT](https://open.spotify.com/artist/6ypgjfzuOVkVw9FEyh2UD5) | [ONE FACT](https://open.spotify.com/album/2vbnHRMKDg6bbKhJGhAtNF) | 3:00 | 2025-07-28 | 2025-08-04 |
 | [Yet To Come](https://open.spotify.com/track/10SRMwb9EuVS1K9rYsBfHQ) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 3:13 | 2022-06-10 | 2026-04-09 |
 | [You Are Mine](https://open.spotify.com/track/2lS7EowakQLS1NkRj0acbM) | [VICTON](https://open.spotify.com/artist/0ziR2zN0NFcB4x1G3P8cW3) | [You Are Mine \(A Business Proposal OST Part.2\)](https://open.spotify.com/album/77XfHNb3xBq8cv50bsRzkn) | 3:27 | 2022-04-04 | 2022-07-18 |

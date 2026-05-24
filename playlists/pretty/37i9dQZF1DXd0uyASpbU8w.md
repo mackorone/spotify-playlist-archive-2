@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > New music from 6lack, Sam Deep, Olivia Rodrigo, Cassper Nyovest, OSKIDO, Lola Young and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,401 likes - 78 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,439 likes - 78 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > This is Aldous Harding\. The essential tracks, all in one playlist.
 
-40 songs - 2 hr 47 min
+41 songs - 2 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,9 +27,10 @@
 | [No Front Teeth](https://open.spotify.com/track/2wtnykJJrH4ZMDnGu4ncou) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn), [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Glory](https://open.spotify.com/album/2Y5e4etT3wCXoyllnQ0aAD) | 4:46 | 2026-05-16 |  |
 | [Nobody Gets What They Want Anymore](https://open.spotify.com/track/3Ez5xXtXlp0xsdXdundrKN) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga), [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Make Way for Love](https://open.spotify.com/album/69wIdpWYSwdYMkYdn6iviH) | 4:59 | 2026-05-16 |  |
 | [Old Peel](https://open.spotify.com/track/0vuZebTvcwkstUpoo82lpG) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Old Peel](https://open.spotify.com/album/5SdjxVnwwn4w25boDjEmMR) | 3:16 | 2026-05-16 |  |
+| [One Stop](https://open.spotify.com/track/04LTubtEypnO64P6S6sP7Z) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Train on the Island](https://open.spotify.com/album/0AePRMHymMl4oHBb5EuGiV) | 3:30 | 2026-05-24 |  |
 | [Passion Babe](https://open.spotify.com/track/5e5p2Ff9BWKVP6FTuv8JLW) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Warm Chris](https://open.spotify.com/album/56rWsCsd2UF9l1XTpUfZ1v) | 3:33 | 2026-05-16 |  |
 | [Revival](https://open.spotify.com/track/0LpPr98XQhD3N7xfEOvVfD) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Revival](https://open.spotify.com/album/0r9WibVLIn1tZ7FxSKH3yn) | 2:17 | 2026-05-16 |  |
-| [San Francisco](https://open.spotify.com/track/09rHthpRrPxjwXZdurBpfi) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Train on the Island](https://open.spotify.com/album/0AePRMHymMl4oHBb5EuGiV) | 4:42 | 2026-05-16 |  |
+| [San Francisco](https://open.spotify.com/track/09rHthpRrPxjwXZdurBpfi) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Train on the Island](https://open.spotify.com/album/0AePRMHymMl4oHBb5EuGiV) | 4:42 | 2026-05-16 | 2026-05-24 |
 | [Small Bones of Courage](https://open.spotify.com/track/2mhiBVuP20RnLXNQqt7kOj) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Aldous Harding](https://open.spotify.com/album/2gJDTgluXw60rzJqdxuXjD) | 6:15 | 2026-05-16 |  |
 | [Staring at the Henry Moore](https://open.spotify.com/track/62C2WwYSYXcr26MlDvKObU) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Warm Chris](https://open.spotify.com/album/56rWsCsd2UF9l1XTpUfZ1v) | 3:19 | 2026-05-16 |  |
 | [Stop Your Tears](https://open.spotify.com/track/5H5fiZ0h9ndRn1IDqYyKRw) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Aldous Harding](https://open.spotify.com/album/2gJDTgluXw60rzJqdxuXjD) | 5:38 | 2026-05-16 |  |

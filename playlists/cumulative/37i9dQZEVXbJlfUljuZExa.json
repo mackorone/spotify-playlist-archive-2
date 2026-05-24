@@ -2212,7 +2212,7 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 263480,
       "name": "Bahagiamu Deritaku",
       "url": "https://open.spotify.com/track/5vNhfRa1WTzUDZcU8DAO1a"
@@ -2874,7 +2874,7 @@
       ],
       "date_added": "2026-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-19",
+      "date_removed": null,
       "duration_ms": 194293,
       "name": "Bersenja Gurau",
       "url": "https://open.spotify.com/track/4DrJqdZgPBHoMNVG5iOLlG"
@@ -6166,7 +6166,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 260253,
       "name": "Die For You",
       "url": "https://open.spotify.com/track/2LBqCSwhJGcFQeTHMVGwy3"
@@ -13695,6 +13695,24 @@
     },
     {
       "album": {
+        "name": "iqro'",
+        "url": "https://open.spotify.com/album/4FiZgqcHTC0jmfnnG2pDp0"
+      },
+      "artists": [
+        {
+          "name": "Raim Laode",
+          "url": "https://open.spotify.com/artist/5LcNPa8f8bRmZqELgoRFkN"
+        }
+      ],
+      "date_added": "2026-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225153,
+      "name": "Lesung Pipi",
+      "url": "https://open.spotify.com/track/4GSwtvjwdbUmb4blyUyCnD"
+    },
+    {
+      "album": {
         "name": "A Winter Romance",
         "url": "https://open.spotify.com/album/5I48ENiZiaZZSOpec6PdS5"
       },
@@ -15072,7 +15090,7 @@
       ],
       "date_added": "2026-03-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-20",
+      "date_removed": null,
       "duration_ms": 205555,
       "name": "MALU MALU",
       "url": "https://open.spotify.com/track/4nx5dujfgjriMeQg1OWMsp"
@@ -24300,7 +24318,7 @@
       ],
       "date_added": "2021-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 217866,
       "name": "Talking to the Moon",
       "url": "https://open.spotify.com/track/161DnLWsx1i3u1JT05lzqU"

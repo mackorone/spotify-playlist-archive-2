@@ -1,6 +1,6 @@
 {
   "description": "Soak up the serenity with these beautiful melodies.",
-  "num_followers": 303777,
+  "num_followers": 303783,
   "original_name": "Peaceful Pop",
   "owner": {
     "name": "Spotify",
@@ -791,6 +791,22 @@
     {
       "added_at": "2026-02-10 13:00:15",
       "album": {
+        "name": "Don't Let Me Go",
+        "url": "https://open.spotify.com/album/5ipsC4SrBYv87aO75cHV7o"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "duration_ms": 292093,
+      "name": "Don't Let Me Go",
+      "url": "https://open.spotify.com/track/6syQOKJfd5BR6z5YAGzQaa"
+    },
+    {
+      "added_at": "2026-02-10 13:00:15",
+      "album": {
         "name": "Silverlines - prod. Labrinth",
         "url": "https://open.spotify.com/album/6xLihtKzCsFZm7nQrAcbF4"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 189647,
       "name": "Younger And Hotter Than Me",
       "url": "https://open.spotify.com/track/4XKCwXacGJ0Am1s7oD2rDM"
-    },
-    {
-      "added_at": "2026-02-10 13:00:15",
-      "album": {
-        "name": "Don't Let Me Go",
-        "url": "https://open.spotify.com/album/5ipsC4SrBYv87aO75cHV7o"
-      },
-      "artists": [
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        }
-      ],
-      "duration_ms": 292093,
-      "name": "Don't Let Me Go",
-      "url": "https://open.spotify.com/track/6syQOKJfd5BR6z5YAGzQaa"
     },
     {
       "added_at": "2026-02-10 13:00:15",

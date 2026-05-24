@@ -1191,6 +1191,24 @@
     },
     {
       "album": {
+        "name": "2026 World Baseball Classic",
+        "url": "https://open.spotify.com/album/0eG0kZA7uZtCrNgXZPxqlB"
+      },
+      "artists": [
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "date_added": "2026-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114720,
+      "name": "MVP",
+      "url": "https://open.spotify.com/track/46XvJolGAgexVH7sgZ0GuT"
+    },
+    {
+      "album": {
         "name": "Never",
         "url": "https://open.spotify.com/album/23sn6gTKYXUA29zWrUSChH"
       },

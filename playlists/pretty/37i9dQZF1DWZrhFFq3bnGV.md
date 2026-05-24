@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrhFFq3bnGV.md) - [plain]
 
 > Terbuai dengan musik Jazz dari negeri sendiri\. Cover: Song Brothers
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,118 likes - 99 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,137 likes - 99 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

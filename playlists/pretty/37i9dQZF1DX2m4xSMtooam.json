@@ -1,6 +1,6 @@
 {
   "description": "Relax to the sweet and soothing sound of bossa nova.",
-  "num_followers": 342575,
+  "num_followers": 342849,
   "original_name": "Bossa Chill",
   "owner": {
     "name": "Spotify",
@@ -207,22 +207,6 @@
     {
       "added_at": "2026-05-08 04:00:36",
       "album": {
-        "name": "Sunset over Recife",
-        "url": "https://open.spotify.com/album/17O83pna4zn9zjWai235PZ"
-      },
-      "artists": [
-        {
-          "name": "Cole Peers trio",
-          "url": "https://open.spotify.com/artist/3HwmLSofJhnA1bdPIREqAj"
-        }
-      ],
-      "duration_ms": 165250,
-      "name": "Sunset over Recife",
-      "url": "https://open.spotify.com/track/6DpJVrfkJ72jTE4MlrDObl"
-    },
-    {
-      "added_at": "2026-05-08 04:00:36",
-      "album": {
         "name": "As Irrational As Love",
         "url": "https://open.spotify.com/album/2QUZjdU2k2Y48BDOocNf7v"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 331493,
       "name": "La Belle Dame Sans Regrets",
       "url": "https://open.spotify.com/track/5aAHHNcoXd1SrF5MnbKP2k"
+    },
+    {
+      "added_at": "2026-05-08 04:00:36",
+      "album": {
+        "name": "Sunset over Recife",
+        "url": "https://open.spotify.com/album/17O83pna4zn9zjWai235PZ"
+      },
+      "artists": [
+        {
+          "name": "Cole Peers trio",
+          "url": "https://open.spotify.com/artist/3HwmLSofJhnA1bdPIREqAj"
+        }
+      ],
+      "duration_ms": 165250,
+      "name": "Sunset over Recife",
+      "url": "https://open.spotify.com/track/6DpJVrfkJ72jTE4MlrDObl"
     },
     {
       "added_at": "2026-05-08 04:00:36",
@@ -431,6 +431,26 @@
     {
       "added_at": "2026-05-08 04:00:36",
       "album": {
+        "name": "Studio Rio Presents: The Brazil Connection",
+        "url": "https://open.spotify.com/album/7C0b904Xo4njmQPI0gvcfw"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        },
+        {
+          "name": "Studio Rio",
+          "url": "https://open.spotify.com/artist/61NK0rswbwo8TU9cUg25J3"
+        }
+      ],
+      "duration_ms": 226906,
+      "name": "You've Changed - Studio Rio Version",
+      "url": "https://open.spotify.com/track/6au6zu7SJAbqf4a6RDqySc"
+    },
+    {
+      "added_at": "2026-05-08 04:00:36",
+      "album": {
         "name": "The Changing Lights (Bonus Edition)",
         "url": "https://open.spotify.com/album/1pPiNmApPW6E2yPCGth1RA"
       },
@@ -467,22 +487,18 @@
     {
       "added_at": "2026-05-08 04:00:36",
       "album": {
-        "name": "Studio Rio Presents: The Brazil Connection",
-        "url": "https://open.spotify.com/album/7C0b904Xo4njmQPI0gvcfw"
+        "name": "Green Grapes",
+        "url": "https://open.spotify.com/album/76gYdoPvK3LjTarXj4WTWZ"
       },
       "artists": [
         {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        },
-        {
-          "name": "Studio Rio",
-          "url": "https://open.spotify.com/artist/61NK0rswbwo8TU9cUg25J3"
+          "name": "Ennio M\u00e1no",
+          "url": "https://open.spotify.com/artist/257NeKIWsdypZxr0j4xnOs"
         }
       ],
-      "duration_ms": 226906,
-      "name": "You've Changed - Studio Rio Version",
-      "url": "https://open.spotify.com/track/6au6zu7SJAbqf4a6RDqySc"
+      "duration_ms": 224187,
+      "name": "Woodblock Print",
+      "url": "https://open.spotify.com/track/3ZNlFTP0ShxCtIUbCfFlNN"
     },
     {
       "added_at": "2026-05-08 04:00:36",
@@ -499,22 +515,6 @@
       "duration_ms": 259933,
       "name": "Day by day",
       "url": "https://open.spotify.com/track/4Wa359eOBiLxHlz5W6Czp6"
-    },
-    {
-      "added_at": "2026-05-08 04:00:36",
-      "album": {
-        "name": "Green Grapes",
-        "url": "https://open.spotify.com/album/76gYdoPvK3LjTarXj4WTWZ"
-      },
-      "artists": [
-        {
-          "name": "Ennio M\u00e1no",
-          "url": "https://open.spotify.com/artist/257NeKIWsdypZxr0j4xnOs"
-        }
-      ],
-      "duration_ms": 224187,
-      "name": "Woodblock Print",
-      "url": "https://open.spotify.com/track/3ZNlFTP0ShxCtIUbCfFlNN"
     },
     {
       "added_at": "2026-05-08 04:00:36",
@@ -783,22 +783,6 @@
     {
       "added_at": "2026-05-08 04:00:36",
       "album": {
-        "name": "Copacabana",
-        "url": "https://open.spotify.com/album/1pYAD1swqhNE2RDLvJgWIE"
-      },
-      "artists": [
-        {
-          "name": "Sarah Vaughan",
-          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
-        }
-      ],
-      "duration_ms": 215160,
-      "name": "Copacabana",
-      "url": "https://open.spotify.com/track/3PWnbNejd7twqp0kIXffHd"
-    },
-    {
-      "added_at": "2026-05-08 04:00:36",
-      "album": {
         "name": "Studio Rio Presents: The Brazil Connection",
         "url": "https://open.spotify.com/album/7C0b904Xo4njmQPI0gvcfw"
       },
@@ -819,6 +803,22 @@
     {
       "added_at": "2026-05-08 04:00:36",
       "album": {
+        "name": "Copacabana",
+        "url": "https://open.spotify.com/album/1pYAD1swqhNE2RDLvJgWIE"
+      },
+      "artists": [
+        {
+          "name": "Sarah Vaughan",
+          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
+        }
+      ],
+      "duration_ms": 215160,
+      "name": "Copacabana",
+      "url": "https://open.spotify.com/track/3PWnbNejd7twqp0kIXffHd"
+    },
+    {
+      "added_at": "2026-05-08 04:00:36",
+      "album": {
         "name": "Your Laugh",
         "url": "https://open.spotify.com/album/1zdhx2ty0QErwb2BvtFqTL"
       },
@@ -831,22 +831,6 @@
       "duration_ms": 262673,
       "name": "Your Laugh",
       "url": "https://open.spotify.com/track/1AGKMyRXRV6io3TLzgioVL"
-    },
-    {
-      "added_at": "2026-05-08 04:00:36",
-      "album": {
-        "name": "Carnival",
-        "url": "https://open.spotify.com/album/16ucl1JzaaDVmMXFqeYnWP"
-      },
-      "artists": [
-        {
-          "name": "Goblin Quartet",
-          "url": "https://open.spotify.com/artist/0ceEvbf4gmN9my4kriQVfm"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Carnival",
-      "url": "https://open.spotify.com/track/4iOqSgvp753MBixwpuQFtn"
     },
     {
       "added_at": "2026-05-08 04:00:36",
@@ -867,6 +851,22 @@
     {
       "added_at": "2026-05-08 04:00:36",
       "album": {
+        "name": "Carnival",
+        "url": "https://open.spotify.com/album/16ucl1JzaaDVmMXFqeYnWP"
+      },
+      "artists": [
+        {
+          "name": "Goblin Quartet",
+          "url": "https://open.spotify.com/artist/0ceEvbf4gmN9my4kriQVfm"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Carnival",
+      "url": "https://open.spotify.com/track/4iOqSgvp753MBixwpuQFtn"
+    },
+    {
+      "added_at": "2026-05-08 04:00:36",
+      "album": {
         "name": "Ao Mar e ao Vento",
         "url": "https://open.spotify.com/album/6eZpekST8g6b2qWWffKX5V"
       },
@@ -883,22 +883,6 @@
     {
       "added_at": "2026-05-08 04:00:36",
       "album": {
-        "name": "Our Poetry",
-        "url": "https://open.spotify.com/album/654pcW24D0sY2s08xWpmC2"
-      },
-      "artists": [
-        {
-          "name": "Leandro Amor Trio",
-          "url": "https://open.spotify.com/artist/4S4flqSBJsefHltJ4wZXEZ"
-        }
-      ],
-      "duration_ms": 202099,
-      "name": "Our Poetry",
-      "url": "https://open.spotify.com/track/0TucZzpJ9CFlNCSViSDBbM"
-    },
-    {
-      "added_at": "2026-05-08 04:00:36",
-      "album": {
         "name": "Florian\u00f3polis",
         "url": "https://open.spotify.com/album/2C33KFJjdDgqabZRiEoiJB"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 190500,
       "name": "Florian\u00f3polis",
       "url": "https://open.spotify.com/track/4yjDimLGS5JTXh34bFAiFi"
+    },
+    {
+      "added_at": "2026-05-08 04:00:36",
+      "album": {
+        "name": "Our Poetry",
+        "url": "https://open.spotify.com/album/654pcW24D0sY2s08xWpmC2"
+      },
+      "artists": [
+        {
+          "name": "Leandro Amor Trio",
+          "url": "https://open.spotify.com/artist/4S4flqSBJsefHltJ4wZXEZ"
+        }
+      ],
+      "duration_ms": 202099,
+      "name": "Our Poetry",
+      "url": "https://open.spotify.com/track/0TucZzpJ9CFlNCSViSDBbM"
     },
     {
       "added_at": "2026-05-08 04:00:36",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2026-05-08 04:00:36",
       "album": {
-        "name": "Quarteto Jobim Morelenbaum",
-        "url": "https://open.spotify.com/album/7yjltYU5q9KQKZLfI2JZEY"
-      },
-      "artists": [
-        {
-          "name": "Quarteto Jobim-Morelenbaum",
-          "url": "https://open.spotify.com/artist/1WxunfiOh9Ws0uu2JoDmjL"
-        }
-      ],
-      "duration_ms": 181951,
-      "name": "\u00c1guas de Mar\u00e7o",
-      "url": "https://open.spotify.com/track/4xBk5YBUkEFz5gVP74y6pc"
-    },
-    {
-      "added_at": "2026-05-08 04:00:36",
-      "album": {
         "name": "Momento",
         "url": "https://open.spotify.com/album/1DLInOTT0GPK7hUhJ8uIUn"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 295533,
       "name": "Night and Day",
       "url": "https://open.spotify.com/track/73LhDgmupOzN8RPljjgzie"
+    },
+    {
+      "added_at": "2026-05-08 04:00:36",
+      "album": {
+        "name": "Quarteto Jobim Morelenbaum",
+        "url": "https://open.spotify.com/album/7yjltYU5q9KQKZLfI2JZEY"
+      },
+      "artists": [
+        {
+          "name": "Quarteto Jobim-Morelenbaum",
+          "url": "https://open.spotify.com/artist/1WxunfiOh9Ws0uu2JoDmjL"
+        }
+      ],
+      "duration_ms": 181951,
+      "name": "\u00c1guas de Mar\u00e7o",
+      "url": "https://open.spotify.com/track/4xBk5YBUkEFz5gVP74y6pc"
     },
     {
       "added_at": "2026-05-08 04:00:36",
@@ -1419,6 +1419,22 @@
     {
       "added_at": "2026-05-08 04:00:36",
       "album": {
+        "name": "Meu Tempo",
+        "url": "https://open.spotify.com/album/3g1loM31EWoeFhHmx1i10a"
+      },
+      "artists": [
+        {
+          "name": "Tom Rogers Band",
+          "url": "https://open.spotify.com/artist/2T4HDLiHH2f18ieTlW7EPR"
+        }
+      ],
+      "duration_ms": 189394,
+      "name": "Meu Tempo",
+      "url": "https://open.spotify.com/track/0ikmGotXZiA8O3VQHNj0zw"
+    },
+    {
+      "added_at": "2026-05-08 04:00:36",
+      "album": {
         "name": "Maneiro",
         "url": "https://open.spotify.com/album/2sYgZHT6yCVpbu9omNzrEt"
       },
@@ -1479,22 +1495,6 @@
       "duration_ms": 218346,
       "name": "Teleco-Teco",
       "url": "https://open.spotify.com/track/7nZARKu6tzkTBkuCVXWaZa"
-    },
-    {
-      "added_at": "2026-05-08 04:00:36",
-      "album": {
-        "name": "Meu Tempo",
-        "url": "https://open.spotify.com/album/3g1loM31EWoeFhHmx1i10a"
-      },
-      "artists": [
-        {
-          "name": "Tom Rogers Band",
-          "url": "https://open.spotify.com/artist/2T4HDLiHH2f18ieTlW7EPR"
-        }
-      ],
-      "duration_ms": 189394,
-      "name": "Meu Tempo",
-      "url": "https://open.spotify.com/track/0ikmGotXZiA8O3VQHNj0zw"
     },
     {
       "added_at": "2026-05-08 04:00:36",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2026-05-08 04:00:36",
       "album": {
-        "name": "Santa Tereza",
-        "url": "https://open.spotify.com/album/7qiZlKHt1z0FCPz3RuyRFM"
-      },
-      "artists": [
-        {
-          "name": "Joao Silva Olivieira",
-          "url": "https://open.spotify.com/artist/73JoEuxW6Q8dYPQ9oseUmX"
-        }
-      ],
-      "duration_ms": 226924,
-      "name": "Zephyr",
-      "url": "https://open.spotify.com/track/47Bm8HKITZFcEi3WmmpJlG"
-    },
-    {
-      "added_at": "2026-05-08 04:00:36",
-      "album": {
         "name": "Anita's Dream",
         "url": "https://open.spotify.com/album/66o8NXX8M2Lc86t4SRA70b"
       },
@@ -1767,6 +1751,22 @@
       "duration_ms": 187993,
       "name": "Anita's Dream",
       "url": "https://open.spotify.com/track/6iTbkT0gcl0WglctFiCT2L"
+    },
+    {
+      "added_at": "2026-05-08 04:00:36",
+      "album": {
+        "name": "Santa Tereza",
+        "url": "https://open.spotify.com/album/7qiZlKHt1z0FCPz3RuyRFM"
+      },
+      "artists": [
+        {
+          "name": "Joao Silva Olivieira",
+          "url": "https://open.spotify.com/artist/73JoEuxW6Q8dYPQ9oseUmX"
+        }
+      ],
+      "duration_ms": 226924,
+      "name": "Zephyr",
+      "url": "https://open.spotify.com/track/47Bm8HKITZFcEi3WmmpJlG"
     }
   ],
   "unique_name": "Bossa Chill",

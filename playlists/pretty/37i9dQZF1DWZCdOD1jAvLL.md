@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCdOD1jAvLL.md) - [plain]
 
 > Stank face activated\. Cover: DCR MILDA
 
-[Spotify](https://open.spotify.com/user/spotify) - 271,312 likes - 90 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 271,324 likes - 90 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

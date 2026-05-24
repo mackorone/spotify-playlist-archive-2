@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,310 likes - 162 songs - 9 hr 39 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,310 likes - 164 songs - 9 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -170,5 +170,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 160 | [Everyone Knows How It Goes](https://open.spotify.com/track/2MaJojtLjs4JYJOb0OkpLm) | [Liz Kennedy](https://open.spotify.com/artist/0vkGqBr3YSlwElXPx6XKtz), [Taj Mahal](https://open.spotify.com/artist/7wil3Ugeu3ATZHKC0e8yiM) | [Hike up Your Socks](https://open.spotify.com/album/59rUUS52QDPJVQvWkQrS7e) | 3:17 |
 | 161 | [seasons change](https://open.spotify.com/track/03YN1bc9B2sY1er891uvnu) | [Sebastian Haysman](https://open.spotify.com/artist/7qE1Xp2nWGWvYF9GyRhqJM) | [seasons change](https://open.spotify.com/album/74OY6ZZ5bmdqC0rH6XavvJ) | 4:12 |
 | 162 | [Keep Ya Head Up](https://open.spotify.com/track/1y8VIFmWviYhZkTc3lgktb) | [T\-WINNN](https://open.spotify.com/artist/5DgJEIByQ2L0y5Nmzw4zq0), [Crisisbeatzz](https://open.spotify.com/artist/4477MF4pLmodsnC5bLBM4x) | [Keep Ya Head Up](https://open.spotify.com/album/50J4ReZnLGOakOMXfpFpJs) | 4:58 |
+| 163 | [Venezia](https://open.spotify.com/track/6FLhvd6tllIMDGIc5cHuCP) | [Jouta](https://open.spotify.com/artist/27eP37X13iXodHP9LFFkNd) | [Venezia](https://open.spotify.com/album/44IMIE9w36DHzMDH8mcicF) | 2:04 |
+| 164 | [My Apartment Mirror](https://open.spotify.com/track/5cdp7w6A89Svd88GPu4lUA) | [KXENIA](https://open.spotify.com/artist/4xGnce5EXkdJNeOxaZeYTL) | [Breaking Crests](https://open.spotify.com/album/2dLSlsENTZgScQ0gyNwmcN) | 2:59 |
 
-Snapshot ID: `AAAUTJmlUh6O6ddEx/PB3gS4Kp6wA3zf`
+Snapshot ID: `AAAUTjjjhxDPKXeeSM09zCsBKVwrWywF`

@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "24 Hours",
+        "url": "https://open.spotify.com/album/6h8MihL1baSyYITmOxrIxP"
+      },
+      "artists": [
+        {
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+        },
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "date_added": "2026-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197720,
+      "name": "24 Hours",
+      "url": "https://open.spotify.com/track/3xucyI8yC8RNSaE5QOeFxB"
+    },
+    {
+      "album": {
         "name": "OVMBR: Roses",
         "url": "https://open.spotify.com/album/66LEmqkDYl5OFC62EA5M7q"
       },
@@ -943,6 +965,28 @@
     },
     {
       "album": {
+        "name": "Love is the New Gangsta",
+        "url": "https://open.spotify.com/album/0DUJdzFUyxiNUheVGbdWrd"
+      },
+      "artists": [
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        },
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "date_added": "2026-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182173,
+      "name": "On Me (with Odeal)",
+      "url": "https://open.spotify.com/track/1Hz7wkNn6EtrnMV1fRAZd5"
+    },
+    {
+      "album": {
         "name": "ONOME",
         "url": "https://open.spotify.com/album/5gqbbNfl0GtuK2Tl0tNwFy"
       },
@@ -1190,7 +1234,7 @@
       ],
       "date_added": "2025-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 107223,
       "name": "Sondela",
       "url": "https://open.spotify.com/track/3NRPgXmxfX6kThyVArjn5c"

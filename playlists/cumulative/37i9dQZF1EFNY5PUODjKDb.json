@@ -1628,7 +1628,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-22",
+      "date_removed": null,
       "duration_ms": 239453,
       "name": "All I Ask of You (from \"The Phantom of the Opera\") [with Kelly Clarkson]",
       "url": "https://open.spotify.com/track/3XbuqATuVYo20LysQKShOW"
@@ -25990,6 +25990,28 @@
     {
       "album": {
         "name": "Brahms: Piano works",
+        "url": "https://open.spotify.com/album/77De17ZvWOOMu7ManEwX7E"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "Peter Katin",
+          "url": "https://open.spotify.com/artist/7jFPEqM05olJW7Qrq2qsX8"
+        }
+      ],
+      "date_added": "2026-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 52626,
+      "name": "Variation 11 (Live)",
+      "url": "https://open.spotify.com/track/1IsJpeRys71v20A89Td8kj"
+    },
+    {
+      "album": {
+        "name": "Brahms: Piano works",
         "url": "https://open.spotify.com/album/0msNHbrbxOUfkflOhvtBdX"
       },
       "artists": [
@@ -26004,7 +26026,7 @@
       ],
       "date_added": "2026-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 52626,
       "name": "Variation 11 (Live)",
       "url": "https://open.spotify.com/track/44z4cZ9D65nGwbVLhnoUBF"
@@ -26026,10 +26048,32 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 56040,
       "name": "Variation 12 (Live)",
       "url": "https://open.spotify.com/track/3am7pHU6QvX4G2CzJI6naG"
+    },
+    {
+      "album": {
+        "name": "Brahms: Piano works",
+        "url": "https://open.spotify.com/album/77De17ZvWOOMu7ManEwX7E"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "Peter Katin",
+          "url": "https://open.spotify.com/artist/7jFPEqM05olJW7Qrq2qsX8"
+        }
+      ],
+      "date_added": "2026-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 56040,
+      "name": "Variation 12 (Live)",
+      "url": "https://open.spotify.com/track/6YeWUBX3bbnO1b8EbHoDu8"
     },
     {
       "album": {
@@ -26048,10 +26092,32 @@
       ],
       "date_added": "2026-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 87800,
       "name": "Variation 13 (Live)",
       "url": "https://open.spotify.com/track/1pTDFWPofYc5piGmzAYDIu"
+    },
+    {
+      "album": {
+        "name": "Brahms: Piano works",
+        "url": "https://open.spotify.com/album/77De17ZvWOOMu7ManEwX7E"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "Peter Katin",
+          "url": "https://open.spotify.com/artist/7jFPEqM05olJW7Qrq2qsX8"
+        }
+      ],
+      "date_added": "2026-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87800,
+      "name": "Variation 13 (Live)",
+      "url": "https://open.spotify.com/track/58O4KtbHdpdyPHSULu77E5"
     },
     {
       "album": {
@@ -26070,10 +26136,32 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 39293,
       "name": "Variation 14 (Live)",
       "url": "https://open.spotify.com/track/5CtS6cfKkEr2ZgNkT38fi1"
+    },
+    {
+      "album": {
+        "name": "Brahms: Piano works",
+        "url": "https://open.spotify.com/album/77De17ZvWOOMu7ManEwX7E"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "Peter Katin",
+          "url": "https://open.spotify.com/artist/7jFPEqM05olJW7Qrq2qsX8"
+        }
+      ],
+      "date_added": "2026-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 39293,
+      "name": "Variation 14 (Live)",
+      "url": "https://open.spotify.com/track/74MvukOoEiquUpPQSEawOG"
     },
     {
       "album": {
@@ -26114,10 +26202,32 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 56360,
       "name": "Variation 19 (Live)",
       "url": "https://open.spotify.com/track/3JZYt1rMmds1IuXOsUXteo"
+    },
+    {
+      "album": {
+        "name": "Brahms: Piano works",
+        "url": "https://open.spotify.com/album/77De17ZvWOOMu7ManEwX7E"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "Peter Katin",
+          "url": "https://open.spotify.com/artist/7jFPEqM05olJW7Qrq2qsX8"
+        }
+      ],
+      "date_added": "2026-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 56360,
+      "name": "Variation 19 (Live)",
+      "url": "https://open.spotify.com/track/64pg1C8PidoMTZN56RSBuM"
     },
     {
       "album": {
@@ -26136,10 +26246,32 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 73786,
       "name": "Variation 20 (Live)",
       "url": "https://open.spotify.com/track/3gW5KiDXsLrvstxyCFw7t4"
+    },
+    {
+      "album": {
+        "name": "Brahms: Piano works",
+        "url": "https://open.spotify.com/album/77De17ZvWOOMu7ManEwX7E"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "Peter Katin",
+          "url": "https://open.spotify.com/artist/7jFPEqM05olJW7Qrq2qsX8"
+        }
+      ],
+      "date_added": "2026-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 73786,
+      "name": "Variation 20 (Live)",
+      "url": "https://open.spotify.com/track/5YRuJsO7oLbVHxqrNtfd1n"
     },
     {
       "album": {
@@ -26158,10 +26290,54 @@
       ],
       "date_added": "2026-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 36720,
       "name": "Variation 21 (Live)",
       "url": "https://open.spotify.com/track/20tkc2tLQ6fB6pmAsAv9I0"
+    },
+    {
+      "album": {
+        "name": "Brahms: Piano works",
+        "url": "https://open.spotify.com/album/77De17ZvWOOMu7ManEwX7E"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "Peter Katin",
+          "url": "https://open.spotify.com/artist/7jFPEqM05olJW7Qrq2qsX8"
+        }
+      ],
+      "date_added": "2026-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 36720,
+      "name": "Variation 21 (Live)",
+      "url": "https://open.spotify.com/track/660k15CFHTf0FtegIvEeap"
+    },
+    {
+      "album": {
+        "name": "Brahms: Piano works",
+        "url": "https://open.spotify.com/album/77De17ZvWOOMu7ManEwX7E"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "Peter Katin",
+          "url": "https://open.spotify.com/artist/7jFPEqM05olJW7Qrq2qsX8"
+        }
+      ],
+      "date_added": "2026-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 52826,
+      "name": "Variation 22 (Live)",
+      "url": "https://open.spotify.com/track/58V97hKRlAax7UMPAGGbQl"
     },
     {
       "album": {
@@ -26180,10 +26356,32 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 52826,
       "name": "Variation 22 (Live)",
       "url": "https://open.spotify.com/track/5JfEHJKABDNMN6BvHFXjI4"
+    },
+    {
+      "album": {
+        "name": "Brahms: Piano works",
+        "url": "https://open.spotify.com/album/77De17ZvWOOMu7ManEwX7E"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "Peter Katin",
+          "url": "https://open.spotify.com/artist/7jFPEqM05olJW7Qrq2qsX8"
+        }
+      ],
+      "date_added": "2026-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 38906,
+      "name": "Variation 3 (Live)",
+      "url": "https://open.spotify.com/track/6c7DbsUyUahSujPCl6yqYY"
     },
     {
       "album": {
@@ -26202,7 +26400,7 @@
       ],
       "date_added": "2025-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 38906,
       "name": "Variation 3 (Live)",
       "url": "https://open.spotify.com/track/6qd0M4fNQwtNVI3dEOc8Ys"

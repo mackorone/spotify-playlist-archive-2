@@ -369,6 +369,28 @@
     },
     {
       "album": {
+        "name": "Algo Me Diz",
+        "url": "https://open.spotify.com/album/6thHdBENSsVg9O5elJfW8I"
+      },
+      "artists": [
+        {
+          "name": "Balara",
+          "url": "https://open.spotify.com/artist/3jPnaM0ap5aM9xEe16hjgp"
+        },
+        {
+          "name": "Jorge Vercillo",
+          "url": "https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210612,
+      "name": "Algo Me Diz",
+      "url": "https://open.spotify.com/track/0I2Qjv3OpCJ8kGN7emPUtz"
+    },
+    {
+      "album": {
         "name": "Algo Simples",
         "url": "https://open.spotify.com/album/3Aq3gBXyMCKWeH53svhGlO"
       },
@@ -1312,7 +1334,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 163258,
       "name": "Carinha De Problema",
       "url": "https://open.spotify.com/track/6vbMrA3aVBPRW1ywKVDEYa"

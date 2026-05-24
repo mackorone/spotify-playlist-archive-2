@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYx3tuFhwUtY.md) - [plain]
 
 > Buen indie rock para contar historietas...
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,891 likes - 75 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,899 likes - 75 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYx3tuFhwUtY.md) - [plain]
 | 41 | [Reaching Out To You](https://open.spotify.com/track/3UpfG8XzDRo2u5rxhmmOYO) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp), [The Saturday Songwriters](https://open.spotify.com/artist/4BDzWTj09kazVbiVCdwQI3) | [Reaching Out To You](https://open.spotify.com/album/4vzG02RceY6JR8ytO0qEwa) | 3:30 |
 | 42 | [Centipede](https://open.spotify.com/track/49xISBZpODXRwd7vVxGL93) | [FIDLAR](https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud) | [Centipede](https://open.spotify.com/album/5JeWduRYfv1Sj4Y2Vf9hQj) | 2:37 |
 | 43 | [Under The Milky Way](https://open.spotify.com/track/23PKv99vrds2hQ5NeI5rrL) | [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [Under The Milky Way](https://open.spotify.com/album/2nLFwnQ1oaO9GxmA7dOiAS) | 4:20 |
-| 44 | [Tasmania](https://open.spotify.com/track/2rhJ5aL37Tc40c2lWUrsJB) | [Pond](https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s) | [Tasmania](https://open.spotify.com/album/4K7jmZcYAmNlKdIxqKUbH6) | 4:04 |
-| 45 | [Awkward \- EP Version](https://open.spotify.com/track/3qjF2EzZ7Kx0VD1AooRFjy) | [San Cisco](https://open.spotify.com/artist/0Ou0138wEd8XWebhc4j7O0) | [Awkward](https://open.spotify.com/album/6llioHYeMH1V9LUM6QRnbX) | 2:33 |
+| 44 | [Awkward \- EP Version](https://open.spotify.com/track/3qjF2EzZ7Kx0VD1AooRFjy) | [San Cisco](https://open.spotify.com/artist/0Ou0138wEd8XWebhc4j7O0) | [Awkward](https://open.spotify.com/album/6llioHYeMH1V9LUM6QRnbX) | 2:33 |
+| 45 | [Tasmania](https://open.spotify.com/track/2rhJ5aL37Tc40c2lWUrsJB) | [Pond](https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s) | [Tasmania](https://open.spotify.com/album/4K7jmZcYAmNlKdIxqKUbH6) | 4:04 |
 | 46 | [Carry You Home](https://open.spotify.com/track/57jJsS1qNk12kOUHcRpJMm) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Carry You Home](https://open.spotify.com/album/1W7Xuqc9isSe0erfFGZFpR) | 3:19 |
 | 47 | [Love's a Real Thing](https://open.spotify.com/track/3doVWfX2iomq1Z6XsidARn) | [Super Eagles](https://open.spotify.com/artist/2vyu3bWnidVmXk5wmqJaQ5) | [World Psychedelic Classics 3: Love's a Real Thing](https://open.spotify.com/album/507y3UUuDaYdeBaQGhqRW6) | 2:59 |
 | 48 | [Favor](https://open.spotify.com/track/22u3zisnI1LmCT1jHNdULx) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Favor](https://open.spotify.com/album/0XtWBWfzxNebzx8oYLEVJ9) | 4:38 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYx3tuFhwUtY.md) - [plain]
 | 51 | [Move to San Francisco](https://open.spotify.com/track/3Kq7kKBwHPOvdmyZanK4AP) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Move to San Francisco](https://open.spotify.com/album/1Xzw37fOGEzmGgntz96Egw) | 3:01 |
 | 52 | [MYSTERY](https://open.spotify.com/track/5rxUvOLdilsj2hxBeWSYsB) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [TURNSTILE LOVE CONNECTION](https://open.spotify.com/album/4Dx7TI0kECk72u90341I25) | 2:35 |
 | 53 | [Dare Me](https://open.spotify.com/track/6uThQ2RC0Vn9XoaWNfmBWl) | [Beach Fossils](https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC) | [Dare Me](https://open.spotify.com/album/1NJpU9Klntbl8KEp4i8erk) | 2:25 |
-| 54 | [Every Mile](https://open.spotify.com/track/2tWWWNbPwoP6A3C1eIMeGh) | [Layup](https://open.spotify.com/artist/3fGhNTTL2CbmVAkGWpcJAA) | [Layup IV](https://open.spotify.com/album/2iltpSD2W7R7xwveMqF5ti) | 3:21 |
-| 55 | [One + One](https://open.spotify.com/track/2nY09ZRwI5cXRBB2JkJid7) | [Death From Above 1979](https://open.spotify.com/artist/18H0sAptzdwid08XGg1Lcj) | [One + One](https://open.spotify.com/album/26hlgZxgnH55W56xx5W4Vt) | 3:46 |
+| 54 | [One + One](https://open.spotify.com/track/2nY09ZRwI5cXRBB2JkJid7) | [Death From Above 1979](https://open.spotify.com/artist/18H0sAptzdwid08XGg1Lcj) | [One + One](https://open.spotify.com/album/26hlgZxgnH55W56xx5W4Vt) | 3:46 |
+| 55 | [Every Mile](https://open.spotify.com/track/2tWWWNbPwoP6A3C1eIMeGh) | [Layup](https://open.spotify.com/artist/3fGhNTTL2CbmVAkGWpcJAA) | [Layup IV](https://open.spotify.com/album/2iltpSD2W7R7xwveMqF5ti) | 3:21 |
 | 56 | [Huesos Viejos](https://open.spotify.com/track/61Q1488cGOi0zuEGEIVHbV) | [Davila 666](https://open.spotify.com/artist/0PQK6BLKbviconz1bx1rlH) | [Huesos Viejos](https://open.spotify.com/album/3JNj1DiE02Bq2sCgxy6VNQ) | 3:18 |
 | 57 | [Loaded](https://open.spotify.com/track/7eKUG8l9jlGeZ7hh0DA036) | [Miles Kane](https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn) | [Loaded](https://open.spotify.com/album/7zhP9dkXyi10UUv4YGosEs) | 3:18 |
 | 58 | [Fukushima](https://open.spotify.com/track/4nE1FtwspcXO6jJ4D5f5Bv) | [San Pedro el Cortez](https://open.spotify.com/artist/4qMybSJtpFeNmHYfJ1rXkl) | [Un Poco Más de Luz](https://open.spotify.com/album/1W2MjZPeWiwn5AZw3OPyKL) | 5:44 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYx3tuFhwUtY.md) - [plain]
 | 63 | [Prisoners](https://open.spotify.com/track/6U8ShBOpMZRz4g5yia9Uo0) | [Doves](https://open.spotify.com/artist/0LVrQUinPUBFvVD5pLqmWY) | [Prisoners](https://open.spotify.com/album/6WeE2ZtxDES1b9FKNQlSx7) | 4:26 |
 | 64 | [Why Must A Building Burn?](https://open.spotify.com/track/2hR8cb1GFqK3BUYWke7P70) | [Maximo Park](https://open.spotify.com/artist/048FBwXjFYBWxSggPDipic) | [Nature Always Wins](https://open.spotify.com/album/0QW5e9dUljhZyzU0sAtfA4) | 3:02 |
 | 65 | [Que No](https://open.spotify.com/track/4DAQll50JkLQMasCbExBkp) | [Barbi Recanati](https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD) | [Que No](https://open.spotify.com/album/1seXkKYuDxoAgUgZznRKJJ) | 3:50 |
-| 66 | [Strong Feelings](https://open.spotify.com/track/3xNfIWTsRdYbpEyildEMis) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Strong Feelings](https://open.spotify.com/album/0j4bRpHCdbcQrqoeay67iY) | 4:04 |
-| 67 | [Salvation](https://open.spotify.com/track/1fwOLfBevvNiMoyTT2zUoh) | [The Limiñanas](https://open.spotify.com/artist/2joJCoCL4EmiVqic3vZn7n) | [Crystal Anis](https://open.spotify.com/album/4YrRNedrhlhpW4pGKfTPsw) | 3:21 |
+| 66 | [Salvation](https://open.spotify.com/track/1fwOLfBevvNiMoyTT2zUoh) | [The Limiñanas](https://open.spotify.com/artist/2joJCoCL4EmiVqic3vZn7n) | [Crystal Anis](https://open.spotify.com/album/4YrRNedrhlhpW4pGKfTPsw) | 3:21 |
+| 67 | [Strong Feelings](https://open.spotify.com/track/3xNfIWTsRdYbpEyildEMis) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Strong Feelings](https://open.spotify.com/album/0j4bRpHCdbcQrqoeay67iY) | 4:04 |
 | 68 | [Cosas que probablemente no van a pasar](https://open.spotify.com/track/2LDX3sOc24GduGMToJ4Q7v) | [Ev](https://open.spotify.com/artist/21EczEifDKebasemX58Jp8) | [Cosas Que Probablemente No Van a Pasar](https://open.spotify.com/album/7Kr0Dfn3KWhFvqrMizaRpw) | 2:40 |
 | 69 | [Yo Cuidé a Tu Amor](https://open.spotify.com/track/2rlnTBTeAYRCiWRV5OiSug) | [Bella Álvarez](https://open.spotify.com/artist/6dqfuonDrw9UdawWJIAGjs) | [Yo Cuidé a Tu Amor](https://open.spotify.com/album/3wyR3TSvyR0tn6m3OFnyAU) | 3:54 |
 | 70 | [Lost Day](https://open.spotify.com/track/7HPmkCbzEbz8QGnC2PvZIY) | [Other Lives](https://open.spotify.com/artist/3bw0A7x5AgdJsK20ai5iS6) | [Lost Day](https://open.spotify.com/album/7Kt2H5kYFE1kpwkUitxDHG) | 2:55 |

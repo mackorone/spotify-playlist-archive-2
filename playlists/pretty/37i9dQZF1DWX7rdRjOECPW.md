@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX7rdRjOECPW.md) - [plain]
 
 > Sommer kann kommen 🙂‍↔️
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,572,893 likes - 70 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,572,988 likes - 70 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,12 +71,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX7rdRjOECPW.md) - [plain]
 | 61 | [Want It Back](https://open.spotify.com/track/47bpYf6lJ5dauJRJ6lZ8bA) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Want It Back](https://open.spotify.com/album/3jh1KUiU35jTHmQqtUuy55) | 3:27 |
 | 62 | [vorsatz](https://open.spotify.com/track/3cqnYYfKRdtfk8SOxG3YTH) | [Revelle](https://open.spotify.com/artist/02EVANzKGRlR3TTTiaGAoA), [OSWALD](https://open.spotify.com/artist/6TQp2ybCgxZHOFZuqbLqzB) | [vorsatz](https://open.spotify.com/album/78dmZeptQFkKm6WTSQ9bkr) | 2:37 |
 | 63 | [By Your Side \(In My Mind\)](https://open.spotify.com/track/0pSwhT654HC2knBvjn5f89) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [By Your Side \(In My Mind\)](https://open.spotify.com/album/2WN1hoD8UtrSHItI9QO5Qy) | 2:57 |
-| 64 | [Rude Boi](https://open.spotify.com/track/6RhszueRE6SiDnXkv3i88r) | [Rony Seikaly](https://open.spotify.com/artist/4AcGuUg7odrpcPUlrHGezB), [Lou Combo](https://open.spotify.com/artist/1kkNVQF0LOEnXqKPO0ltVX), [Erin Kimberly](https://open.spotify.com/artist/2ramOs79MnYC9oLFy3e3oe) | [Rude Boi](https://open.spotify.com/album/4QhOiWhPeXjjhS3kSOwMrB) | 3:35 |
-| 65 | [Born Again](https://open.spotify.com/track/04S8gIcwrcm97fNZKtSGXX) | [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb), [ClockClock](https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk) | [Born Again](https://open.spotify.com/album/3sCDeEFzmAnapVbmkLGKmt) | 3:37 |
+| 64 | [Born Again](https://open.spotify.com/track/04S8gIcwrcm97fNZKtSGXX) | [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb), [ClockClock](https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk) | [Born Again](https://open.spotify.com/album/3sCDeEFzmAnapVbmkLGKmt) | 3:37 |
+| 65 | [Rude Boi](https://open.spotify.com/track/6RhszueRE6SiDnXkv3i88r) | [Rony Seikaly](https://open.spotify.com/artist/4AcGuUg7odrpcPUlrHGezB), [Lou Combo](https://open.spotify.com/artist/1kkNVQF0LOEnXqKPO0ltVX), [Erin Kimberly](https://open.spotify.com/artist/2ramOs79MnYC9oLFy3e3oe) | [Rude Boi](https://open.spotify.com/album/4QhOiWhPeXjjhS3kSOwMrB) | 3:35 |
 | 66 | [Kumbaya](https://open.spotify.com/track/4y6rZU5JCcDrksYDq7CMAY) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [Kumbaya](https://open.spotify.com/album/7oZ3sI01WJZqdo1ijWxKrO) | 3:02 |
 | 67 | [Summer Baby](https://open.spotify.com/track/1OH0dxRdfoKbZG9ubxiT7I) | [Azet](https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh), [The Underdog Project](https://open.spotify.com/artist/06XDzzi31mBGSsaAABTZLb) | [Summer Baby](https://open.spotify.com/album/7la8ldIlZqwMs1hgFFJVPG) | 2:23 |
 | 68 | [Anthem](https://open.spotify.com/track/38pfUvhqVyuvlgUBiNaZSo) | [Glockenbach](https://open.spotify.com/artist/7GZJ2POiwPZoW7UVYjNj8i), [Norma Jean Martine](https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB) | [Anthem](https://open.spotify.com/album/3C1Qcd5uy6v1Nbmo1DG8cW) | 3:05 |
 | 69 | [Helele](https://open.spotify.com/track/2c0bSdQd5dxkfCySYm6xJU) | [Noel Holler](https://open.spotify.com/artist/7GAYMj354pCJ0yazsS0ryj), [Safri Duo](https://open.spotify.com/artist/2UOx6w3eHpPKc3RBnNV3Rl) | [Helele](https://open.spotify.com/album/57OkXxBnv09LuYBJ1f14de) | 2:10 |
-| 70 | [Away](https://open.spotify.com/track/7BM311QgIRlXRTZsPCIsQP) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [Away](https://open.spotify.com/album/32uPiN6yCNSZI6AJ5BmylD) | 3:58 |
+| 70 | [Flowers](https://open.spotify.com/track/0UFJ0jzejbR2miKi7o7CQ2) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [Graham Candy](https://open.spotify.com/artist/71KlQX0q5wz5f9iytwPfou), [Lahos](https://open.spotify.com/artist/4Pamica4HJLZPQTKTCkG2w) | [Flowers](https://open.spotify.com/album/75Drjfbnb1hpElXpXy0MEZ) | 2:33 |
 
 Snapshot ID: `AAAAAFD6G8R6WiS5vx5+29YD3npAAGxF`

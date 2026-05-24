@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc78A1OIheFs.md) - [plain]
 
 > Discover the best in new music from Aotearoa\. Cover: Lorde
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,360 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,357 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc78A1OIheFs.md) - [plain]
 | 34 | [Breakdown](https://open.spotify.com/track/0B8G8zXxETLTQQmsoNuSto) | [Borderline](https://open.spotify.com/artist/2VHeXzEg1gCfwYf3oADlUQ) | [Chrysalis](https://open.spotify.com/album/0l0eWxEsoBXZ415CRKDJuB) | 3:29 |
 | 35 | [BLEED](https://open.spotify.com/track/6yWHYAtM5mkcmJRoZRZ8Py) | [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R) | [BLEED](https://open.spotify.com/album/4FktMKYNJxcz6c0jYapEs2) | 3:35 |
 | 36 | [State of Mind](https://open.spotify.com/track/09NiadAHVDJ3t8kCPgbkUW) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [The Loop](https://open.spotify.com/album/6ChpVLf5APqbBBmgAyXMvO) | 5:37 |
-| 37 | [talk is cheap](https://open.spotify.com/track/75eXKchH6bxhksS7G5rFUf) | [Imani\-J](https://open.spotify.com/artist/0v4Xz06LDEOS0VRzkSbUAk), [Bam Marley](https://open.spotify.com/artist/7fXBLt1KPnFD1c1KBDDTB9) | [talk is cheap](https://open.spotify.com/album/7HbcPi920iYLcrKwJNfZGR) | 2:55 |
-| 38 | [Light Up](https://open.spotify.com/track/42d047wpzneGfpfHpLLHlc) | [Jawsh 685](https://open.spotify.com/artist/56mfhUDKa1vec6rSLZV5Eg), [Sean Rii](https://open.spotify.com/artist/32R0YwtKLXPq4R7VohCY7k) | [Light Up](https://open.spotify.com/album/0WYgFtAvwebtkkx82v5jr6) | 2:52 |
-| 39 | [East Coast](https://open.spotify.com/track/64ISc1GmFnEbkHVY91YQtk) | [Indy](https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ) | [East Coast](https://open.spotify.com/album/7IdwGiHgVmpBrmcBA157TK) | 3:14 |
+| 37 | [East Coast](https://open.spotify.com/track/64ISc1GmFnEbkHVY91YQtk) | [Indy](https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ) | [East Coast](https://open.spotify.com/album/7IdwGiHgVmpBrmcBA157TK) | 3:14 |
+| 38 | [talk is cheap](https://open.spotify.com/track/75eXKchH6bxhksS7G5rFUf) | [Imani\-J](https://open.spotify.com/artist/0v4Xz06LDEOS0VRzkSbUAk), [Bam Marley](https://open.spotify.com/artist/7fXBLt1KPnFD1c1KBDDTB9) | [talk is cheap](https://open.spotify.com/album/7HbcPi920iYLcrKwJNfZGR) | 2:55 |
+| 39 | [Light Up](https://open.spotify.com/track/42d047wpzneGfpfHpLLHlc) | [Jawsh 685](https://open.spotify.com/artist/56mfhUDKa1vec6rSLZV5Eg), [Sean Rii](https://open.spotify.com/artist/32R0YwtKLXPq4R7VohCY7k) | [Light Up](https://open.spotify.com/album/0WYgFtAvwebtkkx82v5jr6) | 2:52 |
 | 40 | [Searching For](https://open.spotify.com/track/4F9eoe2uxpphjdgJAgBl8J) | [Mild Orange](https://open.spotify.com/artist/6yXBFHhojjdwKoop55NsHf) | [The//Glow](https://open.spotify.com/album/0zKngSkNENfHZqjZsaDTXz) | 3:54 |
 | 41 | [Off The Rails](https://open.spotify.com/track/0MfseoOUoi3cOT878tC9zv) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Off The Rails](https://open.spotify.com/album/55SaOAkogbiNQQkrX8gFZw) | 1:47 |
 | 42 | [Hell Of A Night](https://open.spotify.com/track/6MKq4tkdKCwixFocjVvaC8) | [LA WOMEN](https://open.spotify.com/artist/4FUs4dXBvexAfJDQEcBfGj) | [Hell Of A Night](https://open.spotify.com/album/4yy9Kng4fAMUQ4UUe1h7H2) | 3:52 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc78A1OIheFs.md) - [plain]
 | 48 | [Drag](https://open.spotify.com/track/3L92bNW7G5XBNEOztoebiK) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [Drag](https://open.spotify.com/album/1QZYrI5uyd39SSFdgPNVmZ) | 2:49 |
 | 49 | [You Already Know](https://open.spotify.com/track/7c8NGyFaX9Too4WKDLGnft) | [Sons of Zion](https://open.spotify.com/artist/0PK0Dx3s9et0Uf4XbdFpiW) | [You Already Know](https://open.spotify.com/album/3K1gJcHNypQmW7qCkiplSh) | 3:06 |
 | 50 | [Under The Surface](https://open.spotify.com/track/35Ywft3pwk7kfm1fGJ0Y6m) | [NO CIGAR](https://open.spotify.com/artist/3XQd5pdqTHayJ1nUL3yqjT) | [Under The Surface](https://open.spotify.com/album/4DLH00hSYYu1nhf6ys0Nvz) | 4:14 |
-| 51 | [Handyman.](https://open.spotify.com/track/1xd2siUNv5buHMILOQZeRB) | [Canaan Ene](https://open.spotify.com/artist/2fhGuOLxHE77JomC7QzTBA), [Sione Toki](https://open.spotify.com/artist/7CyCft1T5A9pLksmToGkFV) | [Handyman.](https://open.spotify.com/album/27GwbvIdxCHWZ7oe1gr3yb) | 2:41 |
-| 52 | [Under One Roof](https://open.spotify.com/track/4WyvctqcmQT4ksjZjnfW64) | [Flowidus](https://open.spotify.com/artist/410Yzyq0DmhJImIxqy5wOC), [Sam Welch](https://open.spotify.com/artist/3JmD9HEyTy3vtITvwUFK9K) | [Under One Roof](https://open.spotify.com/album/0NQ9xTtHFwhkSfUN68PAd3) | 4:14 |
+| 51 | [Under One Roof](https://open.spotify.com/track/4WyvctqcmQT4ksjZjnfW64) | [Flowidus](https://open.spotify.com/artist/410Yzyq0DmhJImIxqy5wOC), [Sam Welch](https://open.spotify.com/artist/3JmD9HEyTy3vtITvwUFK9K) | [Under One Roof](https://open.spotify.com/album/0NQ9xTtHFwhkSfUN68PAd3) | 4:14 |
+| 52 | [Handyman.](https://open.spotify.com/track/1xd2siUNv5buHMILOQZeRB) | [Canaan Ene](https://open.spotify.com/artist/2fhGuOLxHE77JomC7QzTBA), [Sione Toki](https://open.spotify.com/artist/7CyCft1T5A9pLksmToGkFV) | [Handyman.](https://open.spotify.com/album/27GwbvIdxCHWZ7oe1gr3yb) | 2:41 |
 | 53 | [Maumahara Noa Ahau](https://open.spotify.com/track/6425BbzJ8gGY9ossgxcQP4) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC), [Corrella](https://open.spotify.com/artist/3zo9C8J8m3VlXb9hNlLcJX), [Brannigan Kaa](https://open.spotify.com/artist/45PMvAQiWl2Coq1uQkQlUy) | [Maumahara Noa Ahau](https://open.spotify.com/album/1M03YWeJdRd1OhFD4g0QMp) | 2:50 |
 | 54 | [I Want More](https://open.spotify.com/track/0bvVx47ygehREuixC0o5r0) | [Sons of Zion](https://open.spotify.com/artist/0PK0Dx3s9et0Uf4XbdFpiW), [TAWAZ](https://open.spotify.com/artist/6SBZ3XblxACQRrZK4olxhH) | [I Want More](https://open.spotify.com/album/30WNWO1pzDaqSyJ7Ich5uD) | 2:57 |
 | 55 | [thought of you](https://open.spotify.com/track/1BLhi5rDFlPkRk8gbp4uiI) | [Teo Glacier](https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY) | [thought of you](https://open.spotify.com/album/7x6JnVTlfYdQOIskmq0aab) | 3:45 |

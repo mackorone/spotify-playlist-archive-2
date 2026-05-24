@@ -4,7 +4,7 @@
 
 > This is Zlatan\. The essential tracks, all in one playlist.
 
-79 songs - 4 hr 2 min
+80 songs - 4 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,8 @@
 | [Living Life](https://open.spotify.com/track/22vwTjakdrSsColpKdcDQa) | [Kellylivinglarge](https://open.spotify.com/artist/2VXi61GH3BDAynEArgnUZo), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Priddy Prince](https://open.spotify.com/artist/4bu4SCyKHSPbk0s1vSI5Hh), [Brainyboi](https://open.spotify.com/artist/2J82OYSkjUpIGcdzshmAl2) | [Help Is On The Way](https://open.spotify.com/album/7nHPB32iLkDSs1AynldxtT) | 2:56 | 2025-07-12 | 2026-05-15 |
 | [Living Life](https://open.spotify.com/track/4ukNbQ6qi5xc8DfxoHtvcR) | [Kellylivinglarge](https://open.spotify.com/artist/2VXi61GH3BDAynEArgnUZo), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Priddy Prince](https://open.spotify.com/artist/4bu4SCyKHSPbk0s1vSI5Hh), [Brainyboi](https://open.spotify.com/artist/2J82OYSkjUpIGcdzshmAl2) | [Living Life](https://open.spotify.com/album/7rbeGVL8ocUMEpz0Jo2ty6) | 2:56 | 2026-02-26 | 2026-03-01 |
 | [Lock up](https://open.spotify.com/track/1mlNCvGpnoYL7D01U9g3vx) | [Davolee](https://open.spotify.com/artist/5sw96lcKm8tdmqudO4AJ8a), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Lock up](https://open.spotify.com/album/0L1CwOjfxxtrVmubuDGQnR) | 3:55 | 2026-01-15 | 2026-02-11 |
-| [Money](https://open.spotify.com/track/7nZYHOgh3h09onNIZIFLOm) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Resan](https://open.spotify.com/album/0UjVcregRqCYPSbSKaCPmd) | 2:47 | 2025-07-12 |  |
+| [Money](https://open.spotify.com/track/7nZYHOgh3h09onNIZIFLOm) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Resan](https://open.spotify.com/album/0UjVcregRqCYPSbSKaCPmd) | 2:47 | 2025-07-12 | 2026-05-24 |
+| [MOTION SICKNESS \(feat\. Zlatan\)](https://open.spotify.com/track/24NCQmCRmHlUr1syzQ6fse) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [MOTION SICKNESS](https://open.spotify.com/album/0uyDxHJsxv7meDo3jI8geM) | 2:47 | 2026-05-24 |  |
 | [Nakupenda](https://open.spotify.com/track/1p0zeYPLjmIGtw1DzmshZO) | [TxC](https://open.spotify.com/artist/25j9xL1MTyuycuB2xy2Q9g), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW), [Scotts Maphuma](https://open.spotify.com/artist/3S4T8XtipStwl34odXn1YS), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Al Xapo](https://open.spotify.com/artist/6dmpoGpCKPEdy7R3XSEA7y) | [Nakupenda](https://open.spotify.com/album/3xbbiXWEHWpCqxDAXKUu5d) | 5:33 | 2025-12-14 |  |
 | [No Sleeping](https://open.spotify.com/track/1JDxpKlpGehMGOtclizdVT) | [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Original Vibe Machine](https://open.spotify.com/album/4lPTjESEvOe5pvtLbralQ3) | 2:45 | 2025-07-12 | 2025-10-19 |
 | [Odeshi](https://open.spotify.com/track/7jqbzvui9lXUFbzzqAhN0Z) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Symbol of Hope](https://open.spotify.com/album/27V1Jv5291nkV7CVFvQSwK) | 1:59 | 2025-10-19 | 2025-11-16 |

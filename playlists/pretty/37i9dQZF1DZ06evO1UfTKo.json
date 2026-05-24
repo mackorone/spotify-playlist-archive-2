@@ -1,12 +1,12 @@
 {
   "description": "This is Los Tigres Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 771788,
+  "num_followers": 771912,
   "original_name": "This Is Los Tigres Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ag5LAAAAAAD+cU14xE6AgQJCLnOFRyAA",
+  "snapshot_id": "ag+cgAAAAADNg9YEgIT4Tr02HA5kxbpc",
   "tracks": [
     {
       "added_at": null,
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Garra De...",
-        "url": "https://open.spotify.com/album/36X48S9LwuT4hOF9igko7Y"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
-        }
-      ],
-      "duration_ms": 172600,
-      "name": "El Maestro",
-      "url": "https://open.spotify.com/track/1Vtiq4XS36Y0qvFp9HRyin"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jefe De Jefes",
         "url": "https://open.spotify.com/album/5C507x88aYeTv00Ydv0maH"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 214773,
       "name": "Jefe De Jefes",
       "url": "https://open.spotify.com/track/0pzSFbqT7lNJJdvmTvGS66"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Garra De...",
+        "url": "https://open.spotify.com/album/36X48S9LwuT4hOF9igko7Y"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "duration_ms": 172600,
+      "name": "El Maestro",
+      "url": "https://open.spotify.com/track/1Vtiq4XS36Y0qvFp9HRyin"
     },
     {
       "added_at": null,
@@ -567,8 +567,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pacto De Sangre",
-        "url": "https://open.spotify.com/album/7GAOrdfIZhaU3G7vPZg1dn"
+        "name": "Los Dos Plebes",
+        "url": "https://open.spotify.com/album/2cIEIezxCUx2ifez04CwCK"
       },
       "artists": [
         {
@@ -576,9 +576,9 @@
           "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
         }
       ],
-      "duration_ms": 233853,
-      "name": "Jos\u00e9 P\u00e9rez Le\u00f3n",
-      "url": "https://open.spotify.com/track/3xKToHlV3enPcQVpns4kUf"
+      "duration_ms": 183800,
+      "name": "Si No Me Falla El Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/0SGdWCUiPeb2Q9sqBoJzGc"
     },
     {
       "added_at": null,
@@ -599,8 +599,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Dos Plebes",
-        "url": "https://open.spotify.com/album/2cIEIezxCUx2ifez04CwCK"
+        "name": "Pacto De Sangre",
+        "url": "https://open.spotify.com/album/7GAOrdfIZhaU3G7vPZg1dn"
       },
       "artists": [
         {
@@ -608,9 +608,9 @@
           "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
         }
       ],
-      "duration_ms": 183800,
-      "name": "Si No Me Falla El Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/0SGdWCUiPeb2Q9sqBoJzGc"
+      "duration_ms": 233853,
+      "name": "Jos\u00e9 P\u00e9rez Le\u00f3n",
+      "url": "https://open.spotify.com/track/3xKToHlV3enPcQVpns4kUf"
     },
     {
       "added_at": null,
@@ -647,22 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unidos Para Siempre",
-        "url": "https://open.spotify.com/album/1ijDZGR3S97X5vFpQce9iy"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
-        }
-      ],
-      "duration_ms": 194133,
-      "name": "Unidos Para Siempre",
-      "url": "https://open.spotify.com/track/5QvJgyPxDHf8V2khZ0jTNJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Los Dos Plebes",
         "url": "https://open.spotify.com/album/2cIEIezxCUx2ifez04CwCK"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 206600,
       "name": "Agua Salada",
       "url": "https://open.spotify.com/track/3X5whob19D1tXZlpHGFLFt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Unidos Para Siempre",
+        "url": "https://open.spotify.com/album/1ijDZGR3S97X5vFpQce9iy"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "duration_ms": 194133,
+      "name": "Unidos Para Siempre",
+      "url": "https://open.spotify.com/track/5QvJgyPxDHf8V2khZ0jTNJ"
     },
     {
       "added_at": null,
@@ -711,6 +711,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Los Dos Plebes",
+        "url": "https://open.spotify.com/album/2cIEIezxCUx2ifez04CwCK"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "duration_ms": 210853,
+      "name": "Los Dos Plebes",
+      "url": "https://open.spotify.com/track/0ul12ulRfLyO5fgVvaq2Ex"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Unidos Para Siempre",
         "url": "https://open.spotify.com/album/1ijDZGR3S97X5vFpQce9iy"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 221026,
       "name": "La Mesera",
       "url": "https://open.spotify.com/track/3nbpeJzRTTL6D87fcXBcZs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Los Dos Plebes",
-        "url": "https://open.spotify.com/album/2cIEIezxCUx2ifez04CwCK"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
-        }
-      ],
-      "duration_ms": 210853,
-      "name": "Los Dos Plebes",
-      "url": "https://open.spotify.com/track/0ul12ulRfLyO5fgVvaq2Ex"
     },
     {
       "added_at": null,

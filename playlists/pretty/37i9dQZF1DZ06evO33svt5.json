@@ -1,12 +1,12 @@
 {
   "description": "This is Doja Cat. The essential tracks, all in one playlist.",
-  "num_followers": 1098151,
+  "num_followers": 1098204,
   "original_name": "This Is Doja Cat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ag5LAAAAAAD10TjIFD4/nCRnPuP42KVu",
+  "snapshot_id": "ag+cgAAAAAAL8Mc4uaAB6bvFERx7i8B2",
   "tracks": [
     {
       "added_at": null,
@@ -860,9 +860,9 @@
           "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
         }
       ],
-      "duration_ms": 151511,
-      "name": "Up And Down",
-      "url": "https://open.spotify.com/track/1uQ1TZ9YIWCtBTgq09uoix"
+      "duration_ms": 176730,
+      "name": "Ride",
+      "url": "https://open.spotify.com/track/4jw87bP3TuCGm15g9kc64g"
     },
     {
       "added_at": null,
@@ -908,9 +908,9 @@
           "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
         }
       ],
-      "duration_ms": 176730,
-      "name": "Ride",
-      "url": "https://open.spotify.com/track/4jw87bP3TuCGm15g9kc64g"
+      "duration_ms": 151511,
+      "name": "Up And Down",
+      "url": "https://open.spotify.com/track/1uQ1TZ9YIWCtBTgq09uoix"
     }
   ],
   "unique_name": "This Is Doja Cat",

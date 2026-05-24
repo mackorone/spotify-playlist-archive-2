@@ -1,12 +1,12 @@
 {
   "description": "This is Buddy Guy. The essential tracks, all in one playlist.",
-  "num_followers": 38976,
+  "num_followers": 38977,
   "original_name": "This Is Buddy Guy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ag5LAAAAAADgQwDIg5KFd8TzGEELKZar",
+  "snapshot_id": "ag+cgAAAAAD/7cpH7EFuv7l+VrlI/S3g",
   "tracks": [
     {
       "added_at": null,
@@ -47,22 +47,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Damn Right, I've Got The Blues",
-        "url": "https://open.spotify.com/album/7IxnFL0kaVSqs9iy9qSqPj"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        }
-      ],
-      "duration_ms": 271653,
-      "name": "Damn Right, I've Got the Blues",
-      "url": "https://open.spotify.com/track/2FtX5tOFUVOyjcGQiuGR8f"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bring 'Em In",
         "url": "https://open.spotify.com/album/6q80QMqBZJMht2f7c4bLL6"
       },
@@ -79,6 +63,22 @@
       "duration_ms": 204773,
       "name": "Ain't No Sunshine",
       "url": "https://open.spotify.com/track/1amH1FjaNDAaZVpHWzcztW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Damn Right, I've Got The Blues",
+        "url": "https://open.spotify.com/album/7IxnFL0kaVSqs9iy9qSqPj"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "duration_ms": 271653,
+      "name": "Damn Right, I've Got the Blues",
+      "url": "https://open.spotify.com/track/2FtX5tOFUVOyjcGQiuGR8f"
     },
     {
       "added_at": null,
@@ -143,6 +143,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bring 'Em In",
+        "url": "https://open.spotify.com/album/6q80QMqBZJMht2f7c4bLL6"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "duration_ms": 317320,
+      "name": "What Kind Of Woman Is This?",
+      "url": "https://open.spotify.com/track/0BrmbJnPYcd7gnvLYqxw0r"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Damn Right, I've Got The Blues",
         "url": "https://open.spotify.com/album/7IxnFL0kaVSqs9iy9qSqPj"
       },
@@ -159,22 +175,6 @@
       "duration_ms": 283266,
       "name": "Mustang Sally (feat. Jeff Beck)",
       "url": "https://open.spotify.com/track/1TkliUZNnCeTjZMWPuUoPK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bring 'Em In",
-        "url": "https://open.spotify.com/album/6q80QMqBZJMht2f7c4bLL6"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        }
-      ],
-      "duration_ms": 317320,
-      "name": "What Kind Of Woman Is This?",
-      "url": "https://open.spotify.com/track/0BrmbJnPYcd7gnvLYqxw0r"
     },
     {
       "added_at": null,
@@ -423,22 +423,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Blues Is Alive And Well",
-        "url": "https://open.spotify.com/album/425gWaQU4t3KOvcM7z3VGk"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        }
-      ],
-      "duration_ms": 242600,
-      "name": "Whiskey For Sale",
-      "url": "https://open.spotify.com/track/1zzQeiehbYBPf6MmaM4Cli"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Real Gone",
         "url": "https://open.spotify.com/album/53kQpuZzu1Yd5gyBtfgvr6"
       },
@@ -459,8 +443,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Damn Right, I've Got The Blues",
-        "url": "https://open.spotify.com/album/7IxnFL0kaVSqs9iy9qSqPj"
+        "name": "The Blues Is Alive And Well",
+        "url": "https://open.spotify.com/album/425gWaQU4t3KOvcM7z3VGk"
       },
       "artists": [
         {
@@ -468,25 +452,9 @@
           "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
         }
       ],
-      "duration_ms": 418880,
-      "name": "Rememberin' Stevie",
-      "url": "https://open.spotify.com/track/4LGjbJo0qtnuL8O5x7NbkT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Man And The Blues",
-        "url": "https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        }
-      ],
-      "duration_ms": 339600,
-      "name": "One Room Country Shack",
-      "url": "https://open.spotify.com/track/40Gg9yXs1RSE7qcWAferU4"
+      "duration_ms": 242600,
+      "name": "Whiskey For Sale",
+      "url": "https://open.spotify.com/track/1zzQeiehbYBPf6MmaM4Cli"
     },
     {
       "added_at": null,
@@ -511,6 +479,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Man And The Blues",
+        "url": "https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "duration_ms": 339600,
+      "name": "One Room Country Shack",
+      "url": "https://open.spotify.com/track/40Gg9yXs1RSE7qcWAferU4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Damn Right, I've Got The Blues",
+        "url": "https://open.spotify.com/album/7IxnFL0kaVSqs9iy9qSqPj"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "duration_ms": 418880,
+      "name": "Rememberin' Stevie",
+      "url": "https://open.spotify.com/track/4LGjbJo0qtnuL8O5x7NbkT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Blues Is Alive And Well",
         "url": "https://open.spotify.com/album/425gWaQU4t3KOvcM7z3VGk"
       },
@@ -531,22 +531,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Damn Right, I've Got The Blues",
-        "url": "https://open.spotify.com/album/7IxnFL0kaVSqs9iy9qSqPj"
+        "name": "Rhythm & Blues",
+        "url": "https://open.spotify.com/album/5IyOwYWSw2m1mwD4OEpFeM"
       },
       "artists": [
         {
           "name": "Buddy Guy",
           "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        },
-        {
-          "name": "Mark Knopfler",
-          "url": "https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug"
         }
       ],
-      "duration_ms": 275680,
-      "name": "Where Is the Next One Coming From (feat. Mark Knopfler)",
-      "url": "https://open.spotify.com/track/2yJPlXbIlR9rQEFp7hB4by"
+      "duration_ms": 255600,
+      "name": "I Go By Feel",
+      "url": "https://open.spotify.com/track/599KFVKTx45bNXIYhdVCxn"
     },
     {
       "added_at": null,
@@ -567,18 +563,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rhythm & Blues",
-        "url": "https://open.spotify.com/album/5IyOwYWSw2m1mwD4OEpFeM"
+        "name": "Damn Right, I've Got The Blues",
+        "url": "https://open.spotify.com/album/7IxnFL0kaVSqs9iy9qSqPj"
       },
       "artists": [
         {
           "name": "Buddy Guy",
           "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        },
+        {
+          "name": "Mark Knopfler",
+          "url": "https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug"
         }
       ],
-      "duration_ms": 255600,
-      "name": "I Go By Feel",
-      "url": "https://open.spotify.com/track/599KFVKTx45bNXIYhdVCxn"
+      "duration_ms": 275680,
+      "name": "Where Is the Next One Coming From (feat. Mark Knopfler)",
+      "url": "https://open.spotify.com/track/2yJPlXbIlR9rQEFp7hB4by"
     },
     {
       "added_at": null,
@@ -619,22 +619,6 @@
       "duration_ms": 197813,
       "name": "(Baby) You Got What It Takes (feat. Joss Stone)",
       "url": "https://open.spotify.com/track/31dzIMOW5SH3UejDcmY6Ws"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ain't Done With The Blues",
-        "url": "https://open.spotify.com/album/2MIp3zMbggiFAgOOLUgU50"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        }
-      ],
-      "duration_ms": 228167,
-      "name": "Been There Done That",
-      "url": "https://open.spotify.com/track/58fNv64oeBSZdAsYipR5pj"
     },
     {
       "added_at": null,
@@ -695,6 +679,22 @@
       "duration_ms": 126933,
       "name": "Hoodoo Man Blues",
       "url": "https://open.spotify.com/track/7dVUGBGYrYBJakUw1JKhrq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ain't Done With The Blues",
+        "url": "https://open.spotify.com/album/2MIp3zMbggiFAgOOLUgU50"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "duration_ms": 228167,
+      "name": "Been There Done That",
+      "url": "https://open.spotify.com/track/58fNv64oeBSZdAsYipR5pj"
     },
     {
       "added_at": null,
@@ -843,6 +843,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Heavy Love",
+        "url": "https://open.spotify.com/album/5ihjiZb9879Hd3MjOBaxRu"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "duration_ms": 317226,
+      "name": "I Need You Tonight",
+      "url": "https://open.spotify.com/track/3zMdVdZtvJ5wN3onnAecsq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hoodoo Man Blues",
         "url": "https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 242274,
       "name": "Where U At (feat. Christone \"Kingfish\" Ingram)",
       "url": "https://open.spotify.com/track/2xsb3EAIxVcKOroNRqd0Ka"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Heavy Love",
-        "url": "https://open.spotify.com/album/5ihjiZb9879Hd3MjOBaxRu"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        }
-      ],
-      "duration_ms": 317226,
-      "name": "I Need You Tonight",
-      "url": "https://open.spotify.com/track/3zMdVdZtvJ5wN3onnAecsq"
     },
     {
       "added_at": null,

@@ -4040,7 +4040,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 208890,
       "name": "If Only",
       "url": "https://open.spotify.com/track/6Lo1FtdhJ4htWxJrDBED7c"
@@ -4824,7 +4824,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 208200,
       "name": "Les yeux ouverts",
       "url": "https://open.spotify.com/track/6BJltRcIxqomZ5X77zfwCe"
@@ -7419,6 +7419,24 @@
     },
     {
       "album": {
+        "name": "Lovebites",
+        "url": "https://open.spotify.com/album/5PjXhp79Cl4FB7qCDOkm4V"
+      },
+      "artists": [
+        {
+          "name": "Luvcat",
+          "url": "https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232000,
+      "name": "Silent Killer",
+      "url": "https://open.spotify.com/track/30GeuZLcq4ORyG1mf5JeYT"
+    },
+    {
+      "album": {
         "name": "Sisters With Me",
         "url": "https://open.spotify.com/album/74sxWShKdwDJAFyID1XaaP"
       },
@@ -8526,6 +8544,24 @@
       "duration_ms": 235000,
       "name": "The Surface",
       "url": "https://open.spotify.com/track/4329XA7OGxcJXruj4nirnn"
+    },
+    {
+      "album": {
+        "name": "valley of my prime",
+        "url": "https://open.spotify.com/album/1UnbjUKJUVDSnRkaf2rnnc"
+      },
+      "artists": [
+        {
+          "name": "Vancouver Sleep Clinic",
+          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207702,
+      "name": "the way you do",
+      "url": "https://open.spotify.com/track/2Sgz95fxgQYxDAS2yKJLGL"
     },
     {
       "album": {

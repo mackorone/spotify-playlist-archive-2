@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/48Q13iE86Fuum0tHaLrfoq">Joel Little</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-220 songs - 12 hr 29 min
+221 songs - 12 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Cool On Fire](https://open.spotify.com/track/3WifWW4VeNDQewWTRqGYCr) | [Daniel Johns](https://open.spotify.com/artist/52sbFniPptK6lNYHmuoPpz) | [Talk](https://open.spotify.com/album/4WEXLPtiftj1O4Sx03wPHb) | 3:33 | 2024-01-29 | 2026-04-13 |
 | [Couldn't Believe](https://open.spotify.com/track/2SCblOXQDX2ToK7JvqCksw) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Conscious](https://open.spotify.com/album/61RfrwKu6wJmaZYh3xt0mF) | 4:04 | 2024-01-29 |  |
 | [Cry](https://open.spotify.com/track/0CqGCpNdOktUrsTUEkWozV) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW), [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [Awake](https://open.spotify.com/album/6Jwpxghteb64iHg6ftMnNo) | 3:19 | 2024-01-29 |  |
+| [Cut](https://open.spotify.com/track/0kquTeSKAQkZj14ND6eTJr) | [The Cat and Owl](https://open.spotify.com/artist/3gMxLPJN4ETgH10XwG37Wo) | [Lullaby Versions of Maren Morris](https://open.spotify.com/album/4cFGrpSd3gaieAIM0WiNjO) | 2:36 | 2026-05-23 |  |
 | [Cynic](https://open.spotify.com/track/6IW6mD0OrfYXXkTgdLBQ83) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Busyhead](https://open.spotify.com/album/3DNQrMjvVGiueVrj1qquJd) | 3:28 | 2024-01-29 |  |
 | [Death Goes to Disco](https://open.spotify.com/track/6GQhMDUodwjTGsWvPUqTCN) | [Goodnight Nurse](https://open.spotify.com/artist/35Vqv44XfOmDRvHCNIb30o) | [Always And Never](https://open.spotify.com/album/0WMrKEAvHgKZAVz1LEZgwF) | 3:34 | 2024-01-29 | 2024-11-11 |
 | [Death Goes to Disco](https://open.spotify.com/track/6pahHXIyqb8ZHHxiggzcKu) | [Goodnight Nurse](https://open.spotify.com/artist/35Vqv44XfOmDRvHCNIb30o) | [Always and Never](https://open.spotify.com/album/4p71f2M9TBAKbJC6F2eVu0) | 3:34 | 2024-11-10 |  |

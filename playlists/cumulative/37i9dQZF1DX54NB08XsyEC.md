@@ -4,7 +4,7 @@
 
 > pov: minhas favs / Foto: Olivia Rodrigo
 
-593 songs - 1 day 7 hr 47 min
+594 songs - 1 day 7 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -371,7 +371,7 @@
 | [Night Changes](https://open.spotify.com/track/5O2P9iiztwhomNh8xkR9lJ) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [FOUR \(Deluxe\)](https://open.spotify.com/album/4gCNyS7pidfK3rKWhB3JOY) | 3:46 | 2022-08-12 | 2022-09-10 |
 | [Nightingale Lane.](https://open.spotify.com/track/7j7J2M3ZsKOsrhBueDjhqF) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Nightingale Lane.](https://open.spotify.com/album/22FLublraJkicHyrK2egu0) | 5:02 | 2026-02-27 |  |
 | [NIGHTS LIKE THIS](https://open.spotify.com/track/1XBYiRV30ykHw5f4wm6qEn) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [THE FIRST TIME](https://open.spotify.com/album/63IolVUykZCHMlu2zu9jHS) | 1:26 | 2024-10-17 | 2025-05-14 |
-| [Nighttime Thing \(with Julia Michaels\)](https://open.spotify.com/track/7fbI3MprRgCBEO92ZT5akR) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Nighttime Thing](https://open.spotify.com/album/6YUp5vj8ISFc0mcWYVxXBj) | 2:24 | 2025-10-10 |  |
+| [Nighttime Thing \(with Julia Michaels\)](https://open.spotify.com/track/7fbI3MprRgCBEO92ZT5akR) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Nighttime Thing](https://open.spotify.com/album/6YUp5vj8ISFc0mcWYVxXBj) | 2:24 | 2025-10-10 | 2026-05-24 |
 | [NO](https://open.spotify.com/track/0l0CvurVUrr2w3Jj1hOVFc) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Thank You \(Deluxe Version\)](https://open.spotify.com/album/08eweM0IZoZPCCxODbrMoL) | 3:33 | 2022-12-02 | 2024-04-19 |
 | [NO](https://open.spotify.com/track/3ge54HUrk1ht3EX5SMhIzZ) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Thank You \(Deluxe\)](https://open.spotify.com/album/5nkgosKhWt1yXRzmjXNV2d) | 3:33 | 2024-03-29 | 2024-11-22 |
 | [no longer bound](https://open.spotify.com/track/1lF7uD9Yu2CL17a6tm4Tkh) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO) | [no longer bound](https://open.spotify.com/album/1ri9HxSukluBBAvkqPd39A) | 2:53 | 2023-02-06 | 2023-05-27 |
@@ -397,6 +397,7 @@
 | [One Thing](https://open.spotify.com/track/6KFQdIB3njXBQNcg1xUh9U) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [One Thing](https://open.spotify.com/album/2pIQ2uWPJUvfnmM917UC1I) | 3:28 | 2025-05-16 | 2025-08-23 |
 | [Only Love Can Hurt Like This](https://open.spotify.com/track/62ke5zFUJN6RvtXZgVH0F8) | [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa) | [A Perfect Contradiction \(Outsiders' Expanded Edition\)](https://open.spotify.com/album/3jRG3qOfsSSW3SBdeBiIfC) | 3:52 | 2022-08-19 | 2024-04-20 |
 | [Ordinary](https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [You'll Be Alright, Kid \(Chapter 1\)](https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo) | 3:06 | 2025-04-04 |  |
+| [Oye Mi Amor \(feat\. Fher de Maná\) \[Live From Mexico\]](https://open.spotify.com/track/6UNEcWHoSn6RGk43mGjQnO) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz), [Fher de Maná](https://open.spotify.com/artist/67dkjmTVB5JjU5S0BIkCs7) | [Dua Lipa \- Live From Mexico](https://open.spotify.com/album/3rvZld1RX30IVhuaLkYKnZ) | 5:03 | 2026-05-22 |  |
 | [P\*RNSTAR](https://open.spotify.com/track/0IVAYMUDvpzFxIEuGc71SM) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [AFTERCARE](https://open.spotify.com/album/6h9oVEkQTYEL3aoVAnfpub) | 2:29 | 2025-01-14 | 2025-04-19 |
 | [Paint The Town Red](https://open.spotify.com/track/7DlZH8EiVDgQXNoj3dnyZC) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl) | 3:50 | 2023-09-22 | 2024-09-13 |
 | [Paint The Town Red](https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Paint The Town Red](https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63) | 3:51 | 2023-09-11 | 2023-09-23 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 322 likes - 2,327 songs - 5 day 17 hr 31 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 322 likes - 2,328 songs - 5 day 17 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2335,5 +2335,6 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2325 | [soft static summer](https://open.spotify.com/track/5PKJun6W17mqA9mAvoVwj0) | [Potao](https://open.spotify.com/artist/5GD2Wl5un0dmmR10arYp5P) | [Space is waiting](https://open.spotify.com/album/6bXj35VTwniDyFcdDkwDPO) | 2:59 |
 | 2326 | [Found your sweater](https://open.spotify.com/track/30HOGtAhNFUqfjx8qHhaZl) | [Potao](https://open.spotify.com/artist/5GD2Wl5un0dmmR10arYp5P) | [Space is waiting](https://open.spotify.com/album/6bXj35VTwniDyFcdDkwDPO) | 2:58 |
 | 2327 | [Atame \(Bluesman\)](https://open.spotify.com/track/4qw6a5YJHCJ5pviZHTzouF) | [Yunez](https://open.spotify.com/artist/3WqoLbV8XYbKrXUTTScsKI) | [Bluesman](https://open.spotify.com/album/4pvGxzTyfc9TQpoE8BBrar) | 2:33 |
+| 2328 | [Waves Rollin' Through](https://open.spotify.com/track/2WfKsGWtrpdRMGY9wzmayZ) | [Patty C](https://open.spotify.com/artist/6hIMbinmaxmhlAse2uSiYF) | [Crash On The Beach](https://open.spotify.com/album/2ULldHFk7sPDTNXD0TwTzk) | 4:15 |
 
-Snapshot ID: `AAAJvwJbD/U3AdinqX/mw75NOwx8Ns93`
+Snapshot ID: `AAAJwCjZmOb+fYAuoFOTh9rQ7F1/W/I+`

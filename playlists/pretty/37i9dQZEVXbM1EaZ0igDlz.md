@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbM1EaZ0igDlz.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Austria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,724 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,728 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbM1EaZ0igDlz.md) - [plain]
 | 14 | [Viva, Moldova!](https://open.spotify.com/track/3slA6oMqkypLVUkEjk2xfQ) | [Satoshi](https://open.spotify.com/artist/0kTRvNtdn5mubSQfVoZffv) | [Viva, Moldova!](https://open.spotify.com/album/7up0HjHYKsoOCJu9Mlx8x0) | 2:54 |
 | 15 | [Liekinheitin](https://open.spotify.com/track/0k2NxIVax5tnGSCeruFyEL) | [Linda Lampenius](https://open.spotify.com/artist/177ZOBPSU9yqO6IdomgK3T), [Pete Parkkonen](https://open.spotify.com/artist/7zX44fpv6srJt3HfBv0GCn) | [Liekinheitin](https://open.spotify.com/album/63W9IfvbNFYvIa1zswHqvL) | 3:00 |
 | 16 | [Michelle](https://open.spotify.com/track/22g4vKHFze17AV7vnequhG) | [Noam Bettan](https://open.spotify.com/artist/0RzO7EUuiJ1urqHiJecPdn), [כאן \- תאגיד השידור הישראלי](https://open.spotify.com/artist/2N9Cvh536WBOePrevGKIlj) | [Michelle](https://open.spotify.com/album/4ba7N69bOXNccJuCU5S8x3) | 3:00 |
-| 17 | [The One That Got Away](https://open.spotify.com/track/6hkOqJ5mE093AQf2lbZnsG) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream](https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1) | 3:47 |
+| 17 | [The One That Got Away](https://open.spotify.com/track/2009X8GyWTqyxIdzAEYW6N) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream](https://open.spotify.com/album/2UG6T6f0Qc9SaBCIcaviLM) | 3:47 |
 | 18 | [Ferto](https://open.spotify.com/track/1w5c5tE1LEfE7kTSfY6Hbl) | [Akylas](https://open.spotify.com/artist/0ryXG4cu4Ac81CojYsKcTL) | [Press Start](https://open.spotify.com/album/2UYi4pXbDbWKaURIYMOuyk) | 3:00 |
 | 19 | [Før Vi Går Hjem \- naughty version](https://open.spotify.com/track/3JsCDUE7QrdUjg0DHnsUf2) | [Søren Torpegaard Lund](https://open.spotify.com/artist/3rsoXGq0iJcc5zK4RRKg1Z) | [Før Vi Går Hjem](https://open.spotify.com/album/0USeG6qZBH7RvZjgpcs9sq) | 2:54 |
 | 20 | [Per sempre sì](https://open.spotify.com/track/5W1mx7Oeg2HxmASrth1nTt) | [Sal Da Vinci](https://open.spotify.com/artist/7cdIY4mDfM1dbjgl7s2fGR) | [Per sempre sì](https://open.spotify.com/album/32HEGXJyQkqHh888V70rdu) | 2:55 |
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbM1EaZ0igDlz.md) - [plain]
 | 36 | [The Fate of Ophelia](https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 3:46 |
 | 37 | [Whisper My Name](https://open.spotify.com/track/7KGHenqXZofXNm5MKDbT3J) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [ICEMAN](https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY) | 3:42 |
 | 38 | [Human Nature](https://open.spotify.com/track/4cgjA7B4fJBHyB9Ya2bu0t) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller](https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ) | 4:05 |
-| 39 | [Danza Kuduro](https://open.spotify.com/track/2a1o6ZejUi8U3wzzOtCOYw) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Lucenzo](https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E) | [Meet The Orphans](https://open.spotify.com/album/6mGDfbDErYIJsmSewvccWm) | 3:18 |
+| 39 | [Danza Kuduro](https://open.spotify.com/track/6DXLO8LndZMVOHM0wNbpzg) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Lucenzo](https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E) | [Meet The Orphans](https://open.spotify.com/album/3F41BssbVvfFnh6DdDODeO) | 3:18 |
 | 40 | [Andromeda](https://open.spotify.com/track/3bTsAnErZrtBoUfORcTDTo) | [LELEK](https://open.spotify.com/artist/3XRa1ssBicMHAW76NxXDts) | [Andromeda](https://open.spotify.com/album/2hmiXUccJdvAb5YWklu4yo) | 2:59 |
 | 41 | [Love Me Not](https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Bird's Eye](https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa) | 3:33 |
 | 42 | [Ordinary](https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [You'll Be Alright, Kid \(Chapter 1\)](https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo) | 3:06 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbM1EaZ0igDlz.md) - [plain]
 | 49 | [Ya Ya Ya](https://open.spotify.com/track/0BDJRKqx8Qj6EmM5o9P5Vr) | [JONAS LOVV](https://open.spotify.com/artist/2MxmOoUgB4Z9k7x4V5IMy7) | [Ya Ya Ya](https://open.spotify.com/album/4VB38tgYeoX90oKnxmjw0M) | 2:49 |
 | 50 | [Every Breath You Take](https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Synchronicity \(Remastered 2003\)](https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY) | 4:13 |
 
-Snapshot ID: `MaPLUAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MaUfKAAAAAAAAAAAAAAAAAAAAAAAAGVu`

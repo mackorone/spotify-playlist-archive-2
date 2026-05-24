@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 
 > J\-Hip Hopの最新注目曲をまとめてチェック cover: Worldwide Skippa \*水曜更新。マイライブラリに保存して毎週チェックしよう
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,507 likes - 100 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,543 likes - 100 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 | 44 | [DONT LOVE ME \(AISANAIDE BABY\)](https://open.spotify.com/track/2xTgE9oTXos8CCfIOJAueK) | [Issei Uno Fifth](https://open.spotify.com/artist/3ChsBdunsttUJkFhSKRhfq) | [DONT LOVE ME \(AISANAIDE BABY\)](https://open.spotify.com/album/4Ex1og15ynUOyOVGOoBNWJ) | 3:44 |
 | 45 | [No sugar](https://open.spotify.com/track/7zMNDteagZGSZ9S2QUmbAM) | [Harka](https://open.spotify.com/artist/0NLHo8KJfXFnDFeynigUze) | [FIRST FLEX](https://open.spotify.com/album/35hNUXv61EXuRnZyWluB1O) | 2:34 |
 | 46 | [Sauce](https://open.spotify.com/track/0KruKv8fB0V6Z16oOmO3to) | [Taiyoh](https://open.spotify.com/artist/6hT6jq5757GgRKLuPi2g4h) | [Sauce](https://open.spotify.com/album/5K3DmYVCEGEjpvQDkTCzY8) | 2:32 |
-| 47 | [ZERO](https://open.spotify.com/track/1a1zI5dlEqWjFrsnuvoPYm) | [JNKMN](https://open.spotify.com/artist/1QCnR5068WtitNvxiF3A0P), [DJ EZEL](https://open.spotify.com/artist/1k1gbqoPBNrNRdtxsPEiCw) | [ZERO](https://open.spotify.com/album/3Dg4pfh1UVu5YWeOdfLLF9) | 2:30 |
+| 47 | [ZERO](https://open.spotify.com/track/1a1zI5dlEqWjFrsnuvoPYm) | [JNKMN](https://open.spotify.com/artist/3TAMa7XcdlVoUTc1giFv1L), [DJ EZEL](https://open.spotify.com/artist/1k1gbqoPBNrNRdtxsPEiCw) | [ZERO](https://open.spotify.com/album/3Dg4pfh1UVu5YWeOdfLLF9) | 2:30 |
 | 48 | [最近](https://open.spotify.com/track/0zNNWfwFbEet1fE2p4ZtTc) | [lj](https://open.spotify.com/artist/7bf8nSozw4GvGHRSGJ74ez) | [HYG/最近](https://open.spotify.com/album/6vuuUApC9dMurqEFv0Q8NU) | 2:20 |
 | 49 | [Hikari](https://open.spotify.com/track/5VJEbkXq8GPDwHLxpIgWGj) | [Only U](https://open.spotify.com/artist/7p5yGL3yNq2pqUUKvt2vnt) | [Hikari](https://open.spotify.com/album/4x5PFa26qUqXoPHbizzL4n) | 2:25 |
 | 50 | [Champion](https://open.spotify.com/track/0nj69yimajAWJufTRHlfj0) | [Bene Baby](https://open.spotify.com/artist/4qd1YiKsGPymzmgZLBYY8g) | [Beginning of the Story](https://open.spotify.com/album/2NXwL0k0JZZFUKAEPuR5Hy) | 3:06 |

@@ -1,6 +1,6 @@
 {
   "description": "Rolling with the 'bops' in your Kimbap. Bringing you the songs that are currently trending and everything else in between. (Cover: LE SSERAFIM)",
-  "num_followers": 1109587,
+  "num_followers": 1109664,
   "original_name": "KimBops!",
   "owner": {
     "name": "Spotify",
@@ -311,6 +311,22 @@
     {
       "added_at": "2026-05-13 08:58:27",
       "album": {
+        "name": "\ucda4 (CHOOM)",
+        "url": "https://open.spotify.com/album/1VmMG3mtIWHWm618Cwiku7"
+      },
+      "artists": [
+        {
+          "name": "BABYMONSTER",
+          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
+        }
+      ],
+      "duration_ms": 178880,
+      "name": "CHOOM",
+      "url": "https://open.spotify.com/track/4cox7ONwuCwUvfZ9fsGDVu"
+    },
+    {
+      "added_at": "2026-05-13 08:58:27",
+      "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 191537,
       "name": "Your Idol",
       "url": "https://open.spotify.com/track/1I37Zz2g3hk9eWxaNkj031"
-    },
-    {
-      "added_at": "2026-05-13 08:58:27",
-      "album": {
-        "name": "\ucda4 (CHOOM)",
-        "url": "https://open.spotify.com/album/1VmMG3mtIWHWm618Cwiku7"
-      },
-      "artists": [
-        {
-          "name": "BABYMONSTER",
-          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
-        }
-      ],
-      "duration_ms": 178880,
-      "name": "CHOOM",
-      "url": "https://open.spotify.com/track/4cox7ONwuCwUvfZ9fsGDVu"
     },
     {
       "added_at": "2026-05-13 08:58:27",
@@ -903,22 +903,6 @@
     {
       "added_at": "2026-05-13 08:58:27",
       "album": {
-        "name": "BORDER : CARNIVAL",
-        "url": "https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv"
-      },
-      "artists": [
-        {
-          "name": "ENHYPEN",
-          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
-        }
-      ],
-      "duration_ms": 193260,
-      "name": "Drunk-Dazed",
-      "url": "https://open.spotify.com/track/1wcr8DjnN59Awev8nnKpQ4"
-    },
-    {
-      "added_at": "2026-05-13 08:58:27",
-      "album": {
         "name": "Heavy Serenade",
         "url": "https://open.spotify.com/album/18i8wouCElE4oR6OqfFecg"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 180000,
       "name": "Heavy Serenade",
       "url": "https://open.spotify.com/track/1404zSB6dqMIiStHLI7gg4"
+    },
+    {
+      "added_at": "2026-05-13 08:58:27",
+      "album": {
+        "name": "BORDER : CARNIVAL",
+        "url": "https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "duration_ms": 193260,
+      "name": "Drunk-Dazed",
+      "url": "https://open.spotify.com/track/1wcr8DjnN59Awev8nnKpQ4"
     },
     {
       "added_at": "2026-05-13 08:58:27",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2026-05-13 08:58:27",
       "album": {
-        "name": "Rockstar",
-        "url": "https://open.spotify.com/album/7wIIhHPyaxAHRvdNQQO2G9"
-      },
-      "artists": [
-        {
-          "name": "LISA",
-          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
-        }
-      ],
-      "duration_ms": 138213,
-      "name": "Rockstar",
-      "url": "https://open.spotify.com/track/6vvPecFTmWxDfEJ6cYT1wa"
-    },
-    {
-      "added_at": "2026-05-13 08:58:27",
-      "album": {
         "name": "The Chase",
         "url": "https://open.spotify.com/album/2IjkSbisATTpSpVIlFVNkN"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 178900,
       "name": "The Chase",
       "url": "https://open.spotify.com/track/68UrZQUuO3O6eUiD226xHg"
+    },
+    {
+      "added_at": "2026-05-13 08:58:27",
+      "album": {
+        "name": "Rockstar",
+        "url": "https://open.spotify.com/album/7wIIhHPyaxAHRvdNQQO2G9"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        }
+      ],
+      "duration_ms": 138213,
+      "name": "Rockstar",
+      "url": "https://open.spotify.com/track/6vvPecFTmWxDfEJ6cYT1wa"
     },
     {
       "added_at": "2026-05-13 08:58:27",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2026-05-13 08:58:27",
       "album": {
-        "name": "Eyes Wide Open",
-        "url": "https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "duration_ms": 205493,
-      "name": "I CAN'T STOP ME",
-      "url": "https://open.spotify.com/track/37ZtpRBkHcaq6hHy0X98zn"
-    },
-    {
-      "added_at": "2026-05-13 08:58:27",
-      "album": {
         "name": "BABYMONS7ER",
         "url": "https://open.spotify.com/album/0eSbsl3j8jz96LC2NCLPc4"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 168358,
       "name": "LIKE THAT",
       "url": "https://open.spotify.com/track/7GDgpad2BQVuDUzaxHFakc"
+    },
+    {
+      "added_at": "2026-05-13 08:58:27",
+      "album": {
+        "name": "Eyes Wide Open",
+        "url": "https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "duration_ms": 205493,
+      "name": "I CAN'T STOP ME",
+      "url": "https://open.spotify.com/track/37ZtpRBkHcaq6hHy0X98zn"
     },
     {
       "added_at": "2026-05-13 08:58:27",
@@ -1451,18 +1451,18 @@
     {
       "added_at": "2026-05-13 08:58:27",
       "album": {
-        "name": "IM NAYEON",
-        "url": "https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw"
+        "name": "ddok ddok ddok",
+        "url": "https://open.spotify.com/album/24Y94uThWacq7o0gUF9dg2"
       },
       "artists": [
         {
-          "name": "NAYEON",
-          "url": "https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A"
+          "name": "BOYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1"
         }
       ],
-      "duration_ms": 168106,
-      "name": "POP!",
-      "url": "https://open.spotify.com/track/3lOMJTQTd6J34faYwASc33"
+      "duration_ms": 155054,
+      "name": "ddok ddok ddok",
+      "url": "https://open.spotify.com/track/5D5vkXfYyYeURaWIbMA2nP"
     },
     {
       "added_at": "2026-05-13 08:58:27",
@@ -1483,18 +1483,18 @@
     {
       "added_at": "2026-05-13 08:58:27",
       "album": {
-        "name": "ddok ddok ddok",
-        "url": "https://open.spotify.com/album/24Y94uThWacq7o0gUF9dg2"
+        "name": "IM NAYEON",
+        "url": "https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw"
       },
       "artists": [
         {
-          "name": "BOYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1"
+          "name": "NAYEON",
+          "url": "https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A"
         }
       ],
-      "duration_ms": 155054,
-      "name": "ddok ddok ddok",
-      "url": "https://open.spotify.com/track/5D5vkXfYyYeURaWIbMA2nP"
+      "duration_ms": 168106,
+      "name": "POP!",
+      "url": "https://open.spotify.com/track/3lOMJTQTd6J34faYwASc33"
     },
     {
       "added_at": "2026-05-13 08:58:27",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2026-05-13 08:58:27",
       "album": {
-        "name": "Delulu Pack",
-        "url": "https://open.spotify.com/album/0a8NPzV3WclFa2IliStNK8"
-      },
-      "artists": [
-        {
-          "name": "KiiiKiii",
-          "url": "https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP"
-        }
-      ],
-      "duration_ms": 144106,
-      "name": "Delulu",
-      "url": "https://open.spotify.com/track/3BWXNAPGGWhCJwsOFolnBB"
-    },
-    {
-      "added_at": "2026-05-13 08:58:27",
-      "album": {
         "name": "TWS 5th Mini Album \u2018NO TRAGEDY\u2019",
         "url": "https://open.spotify.com/album/17ICljXQ2I4bsPYpqkf5co"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 165000,
       "name": "You, You",
       "url": "https://open.spotify.com/track/2X9RbCpuBRR6ztXn83AK5U"
+    },
+    {
+      "added_at": "2026-05-13 08:58:27",
+      "album": {
+        "name": "Delulu Pack",
+        "url": "https://open.spotify.com/album/0a8NPzV3WclFa2IliStNK8"
+      },
+      "artists": [
+        {
+          "name": "KiiiKiii",
+          "url": "https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP"
+        }
+      ],
+      "duration_ms": 144106,
+      "name": "Delulu",
+      "url": "https://open.spotify.com/track/3BWXNAPGGWhCJwsOFolnBB"
     },
     {
       "added_at": "2026-05-13 08:58:27",

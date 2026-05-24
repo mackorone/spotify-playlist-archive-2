@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 
 > Jobi Riccio on the cover <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,565 likes - 143 songs - 8 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,561 likes - 143 songs - 8 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

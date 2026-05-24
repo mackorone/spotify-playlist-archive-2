@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/2z7k6r8z0OlXuDsIuy80ZN.md) - cumulative - [plain](/playlists/plain/2z7k6r8z0OlXuDsIuy80ZN) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/2z7k6r8z0OlXuDsIuy80ZN)
 
-### [Lista de LOS40 \(Oficial\) \- Taylor Swift en el Nº1](https://open.spotify.com/playlist/2z7k6r8z0OlXuDsIuy80ZN)
+### [Lista de LOS40 \(Oficial\) \- Olivia Rodrigo en el Nº1](https://open.spotify.com/playlist/2z7k6r8z0OlXuDsIuy80ZN)
 
 > ¡Los 40 principales éxitos de la radio musical en la única e inimitable lista de LOS40! Actualizamos cada sábado, tras el repaso a la nueva lista en Del 40 al 1 con Tony Aguilar\. Escucha a Taylor Swift, Rosalía, Rels B, HUNTR/X, y muchos más
 
-396 songs - 20 hr 40 min
+397 songs - 20 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [blackout 🧊](https://open.spotify.com/track/2efbgTtEGNpsUZaOfgRTR6) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [blackout 🧊](https://open.spotify.com/album/6BWhAZgUrFRWSfXbCaIz2E) | 3:02 | 2025-05-17 | 2026-04-19 |
 | [Bonita](https://open.spotify.com/track/6XwtI61NZnkhmclCwC4hbu) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [Lo Bonito](https://open.spotify.com/album/1XoRwACvB8LyKkBV2cSeVB) | 2:52 | 2022-08-06 | 2022-12-11 |
 | [Born With a Broken Heart](https://open.spotify.com/track/2z9FUHRkbkV4BObNzbHsFU) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [Born With a Broken Heart](https://open.spotify.com/album/2QNTqojFg0R17Jn2gj9Yqm) | 3:28 | 2025-02-15 | 2025-08-24 |
+| [Bring Your Love](https://open.spotify.com/track/7rAr4Ai9dysthnfNRRC55Q) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Bring Your Love](https://open.spotify.com/album/2lZVlp5shY7TufyMXOuACy) | 3:36 | 2026-05-23 |  |
 | [BUBALU](https://open.spotify.com/track/36FTXlmbiV2diZdZukzLDm) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [BUBALU](https://open.spotify.com/album/0RjxDLuy3YP0zLuo8VB0JX) | 3:48 | 2023-11-25 | 2024-03-10 |
 | [Butter](https://open.spotify.com/track/2bgTY4UwhfBYhGT4HUYStN) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Butter \(Hotter, Sweeter, Cooler\)](https://open.spotify.com/album/1HnJKmB4P6Z8RBdLMWx18w) | 2:44 | 2022-01-15 | 2022-03-13 |
 | [CAIRO](https://open.spotify.com/track/6WbAhuwE6fCOriBu5786X1) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [CAIRO](https://open.spotify.com/album/1yzsYuo0fqKWvYimSWL5RA) | 3:21 | 2023-01-07 | 2023-06-11 |
@@ -190,7 +191,7 @@
 | [Jealous Type](https://open.spotify.com/track/1IfGOnXoMBkiKC9xljlSfa) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Jealous Type](https://open.spotify.com/album/5faw0b6BBJiTHGNl9aaoc5) | 2:43 | 2025-09-27 | 2026-02-01 |
 | [Junio](https://open.spotify.com/track/4XqXNU8MwPHwbgZmNXmAdc) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Junio](https://open.spotify.com/album/5Gabq4Ub8V9izQ0WNGToqB) | 2:48 | 2022-10-08 | 2023-04-02 |
 | [Kill Bill](https://open.spotify.com/track/1kTnBps67CwkDeAEMrIMth) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Kill Bill](https://open.spotify.com/album/63nEYsFMdabB1qkWCOhsv7) | 2:33 | 2023-03-04 | 2023-07-09 |
-| [La Alarma](https://open.spotify.com/track/0PalUHNm1QA4rsbIHQ4Ws4) | [Adexe & Nau](https://open.spotify.com/artist/0ndVqPlOidgsJ4yB3Fc5ec) | [La Alarma](https://open.spotify.com/album/5InxhQN53cUjeDIJp3eie4) | 2:12 | 2025-12-06 |  |
+| [La Alarma](https://open.spotify.com/track/0PalUHNm1QA4rsbIHQ4Ws4) | [Adexe & Nau](https://open.spotify.com/artist/0ndVqPlOidgsJ4yB3Fc5ec) | [La Alarma](https://open.spotify.com/album/5InxhQN53cUjeDIJp3eie4) | 2:12 | 2025-12-06 | 2026-05-24 |
 | [La Bachata](https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [La Bachata](https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2) | 2:42 | 2022-10-15 | 2023-06-18 |
 | [La Chispa](https://open.spotify.com/track/5o9g4FTaeI26uwyvJuoBzY) | [Lérica](https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo), [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD) | [La Chispa](https://open.spotify.com/album/617BsKSHXqU6p32f7uKNTM) | 2:44 | 2022-07-02 | 2022-09-11 |
 | [LA FALDA](https://open.spotify.com/track/7iUtQNMRB8ZkKC4AmEuCJC) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LVEU: VIVE LA TUYA...NO LA MIA](https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2) | 2:54 | 2024-04-06 | 2024-12-01 |

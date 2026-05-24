@@ -786,7 +786,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 281142,
       "name": "Bate A Onda",
       "url": "https://open.spotify.com/track/4fS2nX8MqXNoj3blmhKN37"
@@ -1972,6 +1972,36 @@
       "duration_ms": 168976,
       "name": "DOUTOR",
       "url": "https://open.spotify.com/track/0vDhaB1GfGp1lpzVipq4pR"
+    },
+    {
+      "album": {
+        "name": "Drogas e Sanfona",
+        "url": "https://open.spotify.com/album/7sdSlxyUNrYIGnr7Gjtd7r"
+      },
+      "artists": [
+        {
+          "name": "Mago de Tarso",
+          "url": "https://open.spotify.com/artist/496KV2f0kNcIdXGe1i0Fh4"
+        },
+        {
+          "name": "DUP\u00ca",
+          "url": "https://open.spotify.com/artist/33Ol2AOgNFyAlhIZXQmPEm"
+        },
+        {
+          "name": "Drake D.N",
+          "url": "https://open.spotify.com/artist/1vzDo7jFkbW3beWrNYDB27"
+        },
+        {
+          "name": "Bagua Records",
+          "url": "https://open.spotify.com/artist/2450WxbFxHjnttFAv31zGk"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148944,
+      "name": "Drogas e Sanfona",
+      "url": "https://open.spotify.com/track/5OVfyWUnDUmCCoNvz0wYN9"
     },
     {
       "album": {

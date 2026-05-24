@@ -1,12 +1,12 @@
 {
   "description": "R&B, Hip-Hop, Pop, Afrobeats and everything in between!  Cover: Jorja Smith",
-  "num_followers": 3316,
+  "num_followers": 3331,
   "original_name": "Channel-X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAO0HSe86e3AELkXX98o9lBZAVBtH",
+  "snapshot_id": "AAAAAOlO2L7X+qqlwPtA+Mjp7mQ16Llj",
   "tracks": [
     {
       "added_at": "2026-05-15 06:10:26",
@@ -1257,24 +1257,20 @@
       "url": "https://open.spotify.com/track/03SbION4JAIxFMGmOcDB6v"
     },
     {
-      "added_at": "2025-03-14 06:07:30",
+      "added_at": "2025-05-16 04:09:36",
       "album": {
-        "name": "GNX",
-        "url": "https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW"
+        "name": "MUTT",
+        "url": "https://open.spotify.com/album/0SzoksypeognxYJJOJEYip"
       },
       "artists": [
         {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
         }
       ],
-      "duration_ms": 177598,
-      "name": "luther (with sza)",
-      "url": "https://open.spotify.com/track/45J4avUb9Ni0bnETYaYFVJ"
+      "duration_ms": 192933,
+      "name": "MUTT",
+      "url": "https://open.spotify.com/track/2uvE4L5ZsYKpv8hbK4TIOt"
     },
     {
       "added_at": "2025-09-19 05:34:59",
@@ -1293,20 +1289,24 @@
       "url": "https://open.spotify.com/track/5Gjja7OGFi1rido4GONG9h"
     },
     {
-      "added_at": "2025-05-16 04:09:36",
+      "added_at": "2025-03-14 06:07:30",
       "album": {
-        "name": "MUTT",
-        "url": "https://open.spotify.com/album/0SzoksypeognxYJJOJEYip"
+        "name": "GNX",
+        "url": "https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW"
       },
       "artists": [
         {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
         }
       ],
-      "duration_ms": 192933,
-      "name": "MUTT",
-      "url": "https://open.spotify.com/track/2uvE4L5ZsYKpv8hbK4TIOt"
+      "duration_ms": 177598,
+      "name": "luther (with sza)",
+      "url": "https://open.spotify.com/track/45J4avUb9Ni0bnETYaYFVJ"
     },
     {
       "added_at": "2025-08-22 10:10:54",
@@ -1629,46 +1629,6 @@
       "url": "https://open.spotify.com/track/3Hb28pse82bhnmW9sjTahL"
     },
     {
-      "added_at": "2025-03-14 06:07:30",
-      "album": {
-        "name": "TYLA",
-        "url": "https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        },
-        {
-          "name": "Skillibeng",
-          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
-        }
-      ],
-      "duration_ms": 147071,
-      "name": "Jump",
-      "url": "https://open.spotify.com/track/6XpEm7VJ7TZxZTawH8BCSW"
-    },
-    {
-      "added_at": "2025-08-15 07:01:34",
-      "album": {
-        "name": "Baby",
-        "url": "https://open.spotify.com/album/3hKlec1wgYVJcI0YvwCFJB"
-      },
-      "artists": [
-        {
-          "name": "Dijon",
-          "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
-        }
-      ],
-      "duration_ms": 207950,
-      "name": "Another Baby!",
-      "url": "https://open.spotify.com/track/6rTge3gYWYkluC9MsXDZoV"
-    },
-    {
       "added_at": "2025-09-05 04:00:27",
       "album": {
         "name": "SOMEBODY LOVES ME PT. 2",
@@ -1691,6 +1651,46 @@
       "duration_ms": 181276,
       "name": "SOMEBODY LOVES ME PT. 2",
       "url": "https://open.spotify.com/track/2aTf0R0TQCJJKcb0ipszD2"
+    },
+    {
+      "added_at": "2025-08-15 07:01:34",
+      "album": {
+        "name": "Baby",
+        "url": "https://open.spotify.com/album/3hKlec1wgYVJcI0YvwCFJB"
+      },
+      "artists": [
+        {
+          "name": "Dijon",
+          "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
+        }
+      ],
+      "duration_ms": 207950,
+      "name": "Another Baby!",
+      "url": "https://open.spotify.com/track/6rTge3gYWYkluC9MsXDZoV"
+    },
+    {
+      "added_at": "2025-03-14 06:07:30",
+      "album": {
+        "name": "TYLA",
+        "url": "https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Skillibeng",
+          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
+        }
+      ],
+      "duration_ms": 147071,
+      "name": "Jump",
+      "url": "https://open.spotify.com/track/6XpEm7VJ7TZxZTawH8BCSW"
     },
     {
       "added_at": "2025-04-18 05:38:39",
@@ -1909,22 +1909,6 @@
       "url": "https://open.spotify.com/track/1NaSrCqTnZdlusQ82SJhGN"
     },
     {
-      "added_at": "2025-11-21 10:48:08",
-      "album": {
-        "name": "Love Is A Kingdom",
-        "url": "https://open.spotify.com/album/3aI43F5shWPnoW4KMfxM1c"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 166333,
-      "name": "Big Daddy",
-      "url": "https://open.spotify.com/track/5WcQ5AwCp9mSqpsul6ccx4"
-    },
-    {
       "added_at": "2025-03-14 06:07:30",
       "album": {
         "name": "JAGUAR II",
@@ -1939,6 +1923,22 @@
       "duration_ms": 184258,
       "name": "On My Mama",
       "url": "https://open.spotify.com/track/7DswEZZthZ6piQpL25qGAM"
+    },
+    {
+      "added_at": "2025-11-21 10:48:08",
+      "album": {
+        "name": "Love Is A Kingdom",
+        "url": "https://open.spotify.com/album/3aI43F5shWPnoW4KMfxM1c"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 166333,
+      "name": "Big Daddy",
+      "url": "https://open.spotify.com/track/5WcQ5AwCp9mSqpsul6ccx4"
     },
     {
       "added_at": "2025-10-24 09:40:36",
@@ -1999,22 +1999,6 @@
     {
       "added_at": "2025-03-14 06:07:30",
       "album": {
-        "name": "Love Me JeJe",
-        "url": "https://open.spotify.com/album/0DSIfkfmDDNRbB87Xk0ipd"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 178041,
-      "name": "Love Me JeJe",
-      "url": "https://open.spotify.com/track/47hsUYxvbTlBAN3sP9dEOd"
-    },
-    {
-      "added_at": "2025-03-14 06:07:30",
-      "album": {
         "name": "worst behaviour (feat. Kehlani)",
         "url": "https://open.spotify.com/album/6tEqHl8uemF0Hmb0iGs6vJ"
       },
@@ -2031,6 +2015,22 @@
       "duration_ms": 213571,
       "name": "worst behaviour (feat. Kehlani)",
       "url": "https://open.spotify.com/track/7eRJjg52FkSmQvmNQDYpMl"
+    },
+    {
+      "added_at": "2025-03-14 06:07:30",
+      "album": {
+        "name": "Love Me JeJe",
+        "url": "https://open.spotify.com/album/0DSIfkfmDDNRbB87Xk0ipd"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 178041,
+      "name": "Love Me JeJe",
+      "url": "https://open.spotify.com/track/47hsUYxvbTlBAN3sP9dEOd"
     },
     {
       "added_at": "2026-02-20 18:30:52",
@@ -2237,6 +2237,22 @@
       "url": "https://open.spotify.com/track/4l9xe2rcwWctjrI43UFkgA"
     },
     {
+      "added_at": "2026-05-08 05:33:09",
+      "album": {
+        "name": "Changes",
+        "url": "https://open.spotify.com/album/0aeOy0WXVNFc2e1b8nTIlu"
+      },
+      "artists": [
+        {
+          "name": "Tommy Richman",
+          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
+        }
+      ],
+      "duration_ms": 198095,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/32VOsoPR0N9dEZNbogPIeZ"
+    },
+    {
       "added_at": "2025-09-19 05:34:59",
       "album": {
         "name": "AM I THE DRAMA?",
@@ -2255,22 +2271,6 @@
       "duration_ms": 177893,
       "name": "Safe (feat. Kehlani)",
       "url": "https://open.spotify.com/track/5q9I5RmmrLC4U2mW2BnF3K"
-    },
-    {
-      "added_at": "2026-05-08 05:33:09",
-      "album": {
-        "name": "Changes",
-        "url": "https://open.spotify.com/album/0aeOy0WXVNFc2e1b8nTIlu"
-      },
-      "artists": [
-        {
-          "name": "Tommy Richman",
-          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
-        }
-      ],
-      "duration_ms": 198095,
-      "name": "Changes",
-      "url": "https://open.spotify.com/track/32VOsoPR0N9dEZNbogPIeZ"
     },
     {
       "added_at": "2026-02-01 02:45:05",
@@ -2489,22 +2489,6 @@
       "url": "https://open.spotify.com/track/3ecZ2CLwfGbj4wkPoFkMFB"
     },
     {
-      "added_at": "2025-03-14 06:07:30",
-      "album": {
-        "name": "Loosies",
-        "url": "https://open.spotify.com/album/2ZsluZwg4FuBeVsQxJgj9f"
-      },
-      "artists": [
-        {
-          "name": "Amber Mark",
-          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
-        }
-      ],
-      "duration_ms": 136260,
-      "name": "Sink In",
-      "url": "https://open.spotify.com/track/3jFHtovu88ZrWf0nmK90ab"
-    },
-    {
       "added_at": "2026-02-01 02:45:05",
       "album": {
         "name": "I Did This To Myself",
@@ -2527,6 +2511,22 @@
       "duration_ms": 150613,
       "name": "I Did This To Myself",
       "url": "https://open.spotify.com/track/055T1TvSjL24CTUfTHSZs7"
+    },
+    {
+      "added_at": "2025-03-14 06:07:30",
+      "album": {
+        "name": "Loosies",
+        "url": "https://open.spotify.com/album/2ZsluZwg4FuBeVsQxJgj9f"
+      },
+      "artists": [
+        {
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+        }
+      ],
+      "duration_ms": 136260,
+      "name": "Sink In",
+      "url": "https://open.spotify.com/track/3jFHtovu88ZrWf0nmK90ab"
     },
     {
       "added_at": "2025-03-14 06:07:30",
@@ -2689,24 +2689,24 @@
       "url": "https://open.spotify.com/track/49uWjZ0INI41gLJVi8DxIf"
     },
     {
-      "added_at": "2025-10-03 04:48:40",
+      "added_at": "2025-04-25 06:51:06",
       "album": {
-        "name": "go",
-        "url": "https://open.spotify.com/album/0ygpm3Vqgsg1lRIl7JMvVm"
+        "name": "LOVE ON DIGITAL",
+        "url": "https://open.spotify.com/album/7ChitlgU5oFgKmjLtViJ8K"
       },
       "artists": [
         {
-          "name": "Karri",
-          "url": "https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME"
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
         },
         {
           "name": "Kehlani",
           "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
         }
       ],
-      "duration_ms": 142768,
-      "name": "go",
-      "url": "https://open.spotify.com/track/1Zsf0U4SPsf4aaWxcfftYx"
+      "duration_ms": 225444,
+      "name": "BAD BITCHES",
+      "url": "https://open.spotify.com/track/5ld2rB0d5nG8RTQRRmkxNa"
     }
   ],
   "unique_name": "Channel-X",

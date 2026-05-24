@@ -1115,6 +1115,24 @@
     },
     {
       "album": {
+        "name": "Daisies",
+        "url": "https://open.spotify.com/album/2xW159PeikPpj7jIIJpjdv"
+      },
+      "artists": [
+        {
+          "name": "Lily Meola",
+          "url": "https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223425,
+      "name": "Daisies",
+      "url": "https://open.spotify.com/track/4q0uQNqaIchPOgvhODEsnG"
+    },
+    {
+      "album": {
         "name": "Dancing In The Dark",
         "url": "https://open.spotify.com/album/4QUzb6iiFjr2K0NTqCIZTV"
       },
@@ -1846,7 +1864,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 225174,
       "name": "Good As Gone",
       "url": "https://open.spotify.com/track/3Q7e5lPNK6PJ5PqpqczWnf"

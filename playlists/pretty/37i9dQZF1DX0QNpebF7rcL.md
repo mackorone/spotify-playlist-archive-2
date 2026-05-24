@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 
 > The best in blues right now\. Cover: Joe Bonamassa
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,622 likes - 100 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,660 likes - 100 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 | 99 | [A Flat City](https://open.spotify.com/track/590BnlG9y6C0f9UivPq4qt) | [Son Of Dave](https://open.spotify.com/artist/5t81Dbcvlm5J7YP7cI2kae) | [A Flat City](https://open.spotify.com/album/1vw3z3xkEY2cqDqCi5ndwQ) | 2:02 |
 | 100 | [River Picker](https://open.spotify.com/track/2ig7mP35oEcsraWEz5Mx9S) | [Left Lane Cruiser](https://open.spotify.com/artist/2sJLswTuwPwm9Y1tMC4erf) | [Bayport BBQ Blues](https://open.spotify.com/album/1xXqW6V7aVyaTaAM5gv0dU) | 4:18 |
 
-Snapshot ID: `AAAAAMTBkCjWZ0t+jZwcDyeyuC7hKnGj`
+Snapshot ID: `AAAAANJNzA7KOrCP2b9zMJVKnoMlSzbc`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0TrWIhtmeqJ.md) - [plain]
 
 > For the new generation of trendsetters coming through, we move\. Cover: MADISON B
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,744 likes - 70 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,732 likes - 70 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0TrWIhtmeqJ.md) - [plain]
 | 69 | [Special \- A COLORS SHOW](https://open.spotify.com/track/6BJkASXKRj1fMX8ZRMmD1Z) | [dexter in the newsagent](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Special \- A COLORS SHOW](https://open.spotify.com/album/3keZ36LWEXzPDTqftsmwBi) | 3:12 |
 | 70 | [Whine Am](https://open.spotify.com/track/7GvlEVyj6lqf4FPLeomoHx) | [SuperJazzClub](https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp) | [Whine Am](https://open.spotify.com/album/2I2BeesRbfvWYzqxbrw4ky) | 2:56 |
 
-Snapshot ID: `AAAAAIrT9ZpLPgmBbG3TjRRAIM62YG07`
+Snapshot ID: `AAAAAMWr/N5zkNMP3vpH2NTYeGmMgkDS`

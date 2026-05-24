@@ -1,6 +1,6 @@
 {
   "description": "The easy listening sound of Jazz. Cover: Norah Jones",
-  "num_followers": 719262,
+  "num_followers": 719485,
   "original_name": "Easy Jazz",
   "owner": {
     "name": "Spotify",
@@ -527,22 +527,6 @@
     {
       "added_at": "2026-05-22 09:39:37",
       "album": {
-        "name": "The Big Picture",
-        "url": "https://open.spotify.com/album/1RKLsYhnrpFWhGClp1fk56"
-      },
-      "artists": [
-        {
-          "name": "Kat Edmonson",
-          "url": "https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds"
-        }
-      ],
-      "duration_ms": 168755,
-      "name": "Oh My Love",
-      "url": "https://open.spotify.com/track/4HlLLrS6UrQD5x2ev4Vu1h"
-    },
-    {
-      "added_at": "2026-05-22 09:39:37",
-      "album": {
         "name": "Make this moment",
         "url": "https://open.spotify.com/album/4NaucYV5XP8jadj2GftgLY"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 287613,
       "name": "Will you still love me tomorrow",
       "url": "https://open.spotify.com/track/2pzhO7ZJ3tQGnnkxI6sc5o"
+    },
+    {
+      "added_at": "2026-05-22 09:39:37",
+      "album": {
+        "name": "The Big Picture",
+        "url": "https://open.spotify.com/album/1RKLsYhnrpFWhGClp1fk56"
+      },
+      "artists": [
+        {
+          "name": "Kat Edmonson",
+          "url": "https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds"
+        }
+      ],
+      "duration_ms": 168755,
+      "name": "Oh My Love",
+      "url": "https://open.spotify.com/track/4HlLLrS6UrQD5x2ev4Vu1h"
     },
     {
       "added_at": "2026-05-22 09:39:37",
@@ -799,22 +799,6 @@
     {
       "added_at": "2026-05-22 09:39:37",
       "album": {
-        "name": "You Better Go Now",
-        "url": "https://open.spotify.com/album/0x4mTPFt9cp03BJijv3EdU"
-      },
-      "artists": [
-        {
-          "name": "Lara Louise",
-          "url": "https://open.spotify.com/artist/0rwgLdQ7uMiqUxEpMLOGyI"
-        }
-      ],
-      "duration_ms": 170070,
-      "name": "You Better Go Now",
-      "url": "https://open.spotify.com/track/3UZl5kTzxiacX2zlq3yA96"
-    },
-    {
-      "added_at": "2026-05-22 09:39:37",
-      "album": {
         "name": "Remembering You",
         "url": "https://open.spotify.com/album/2bp4zghbrnrUPri3ENIItw"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 240080,
       "name": "Talking to Myself",
       "url": "https://open.spotify.com/track/7igFrxdpCKiipNBySbCEW5"
+    },
+    {
+      "added_at": "2026-05-22 09:39:37",
+      "album": {
+        "name": "You Better Go Now",
+        "url": "https://open.spotify.com/album/0x4mTPFt9cp03BJijv3EdU"
+      },
+      "artists": [
+        {
+          "name": "Lara Louise",
+          "url": "https://open.spotify.com/artist/0rwgLdQ7uMiqUxEpMLOGyI"
+        }
+      ],
+      "duration_ms": 170070,
+      "name": "You Better Go Now",
+      "url": "https://open.spotify.com/track/3UZl5kTzxiacX2zlq3yA96"
     },
     {
       "added_at": "2026-05-22 09:39:37",
@@ -951,6 +951,22 @@
     {
       "added_at": "2026-05-22 09:39:37",
       "album": {
+        "name": "Reawakened",
+        "url": "https://open.spotify.com/album/17Vn4rwIWmyV5Ui35DPXpW"
+      },
+      "artists": [
+        {
+          "name": "Junity",
+          "url": "https://open.spotify.com/artist/5NZAIgwhoQm0DmqTzVfnKm"
+        }
+      ],
+      "duration_ms": 212323,
+      "name": "Make You Feel My Love",
+      "url": "https://open.spotify.com/track/3sn8aLQ6JbqeIARMPqKJhg"
+    },
+    {
+      "added_at": "2026-05-22 09:39:37",
+      "album": {
         "name": "Suzanne",
         "url": "https://open.spotify.com/album/6ZzCxDsaWHAK4kKcjep4iQ"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 273626,
       "name": "Suzanne (feat. Gregory Porter)",
       "url": "https://open.spotify.com/track/2IYWqinJpFhid2qRqnqPDA"
-    },
-    {
-      "added_at": "2026-05-22 09:39:37",
-      "album": {
-        "name": "Reawakened",
-        "url": "https://open.spotify.com/album/17Vn4rwIWmyV5Ui35DPXpW"
-      },
-      "artists": [
-        {
-          "name": "Junity",
-          "url": "https://open.spotify.com/artist/5NZAIgwhoQm0DmqTzVfnKm"
-        }
-      ],
-      "duration_ms": 212323,
-      "name": "Make You Feel My Love",
-      "url": "https://open.spotify.com/track/3sn8aLQ6JbqeIARMPqKJhg"
     },
     {
       "added_at": "2026-05-22 09:39:37",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2026-05-22 09:39:37",
       "album": {
-        "name": "At First Light",
-        "url": "https://open.spotify.com/album/4iJTuwQiLeteB5MaPKtF7A"
-      },
-      "artists": [
-        {
-          "name": "Silje Nergaard",
-          "url": "https://open.spotify.com/artist/3hCQUVIcg8nWvkZToF4rqc"
-        }
-      ],
-      "duration_ms": 299213,
-      "name": "Be Still My Heart",
-      "url": "https://open.spotify.com/track/4KAUdFfxYtrerQEw4fwAKq"
-    },
-    {
-      "added_at": "2026-05-22 09:39:37",
-      "album": {
         "name": "Yours",
         "url": "https://open.spotify.com/album/2Xe4xUaQClQbY5KN9OBaZM"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 214893,
       "name": "You Are My Sunshine",
       "url": "https://open.spotify.com/track/2bAdCQPyUANc4oxnR7ZsfI"
+    },
+    {
+      "added_at": "2026-05-22 09:39:37",
+      "album": {
+        "name": "At First Light",
+        "url": "https://open.spotify.com/album/4iJTuwQiLeteB5MaPKtF7A"
+      },
+      "artists": [
+        {
+          "name": "Silje Nergaard",
+          "url": "https://open.spotify.com/artist/3hCQUVIcg8nWvkZToF4rqc"
+        }
+      ],
+      "duration_ms": 299213,
+      "name": "Be Still My Heart",
+      "url": "https://open.spotify.com/track/4KAUdFfxYtrerQEw4fwAKq"
     },
     {
       "added_at": "2026-05-22 09:39:37",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2026-05-22 09:39:37",
       "album": {
-        "name": "The Shadow Of Your Smile",
-        "url": "https://open.spotify.com/album/7ojnM0aUTEKZYxwVwOrheU"
-      },
-      "artists": [
-        {
-          "name": "Stacey Kent",
-          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
-        }
-      ],
-      "duration_ms": 276589,
-      "name": "The Shadow Of Your Smile",
-      "url": "https://open.spotify.com/track/0O4y8lpt0XUKeQwZcj8YgR"
-    },
-    {
-      "added_at": "2026-05-22 09:39:37",
-      "album": {
         "name": "Eternal Beauty",
         "url": "https://open.spotify.com/album/0gSq5AEue1uEipwnTgWvOx"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 171306,
       "name": "Love of My Life",
       "url": "https://open.spotify.com/track/2xswKfIsupPXsS16zJApYo"
+    },
+    {
+      "added_at": "2026-05-22 09:39:37",
+      "album": {
+        "name": "The Shadow Of Your Smile",
+        "url": "https://open.spotify.com/album/7ojnM0aUTEKZYxwVwOrheU"
+      },
+      "artists": [
+        {
+          "name": "Stacey Kent",
+          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
+        }
+      ],
+      "duration_ms": 276589,
+      "name": "The Shadow Of Your Smile",
+      "url": "https://open.spotify.com/track/0O4y8lpt0XUKeQwZcj8YgR"
     },
     {
       "added_at": "2026-05-22 09:39:37",
@@ -1791,6 +1791,22 @@
     {
       "added_at": "2026-05-22 09:39:37",
       "album": {
+        "name": "Lips Can Lie",
+        "url": "https://open.spotify.com/album/6LvGAaHEC2H8zl4K5DOtBM"
+      },
+      "artists": [
+        {
+          "name": "Karen Souza",
+          "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
+        }
+      ],
+      "duration_ms": 229596,
+      "name": "Lips Can Lie",
+      "url": "https://open.spotify.com/track/0fhfZFkNjIlCgpQSoazP2M"
+    },
+    {
+      "added_at": "2026-05-22 09:39:37",
+      "album": {
         "name": "Sunflower",
         "url": "https://open.spotify.com/album/0qZdZ0QoQbmGa0Tlk9U8Wj"
       },
@@ -1883,22 +1899,6 @@
       "duration_ms": 211664,
       "name": "There's a Lull in My Life",
       "url": "https://open.spotify.com/track/6JLH2EyOTUR4HOHN3DieYa"
-    },
-    {
-      "added_at": "2026-05-22 09:39:37",
-      "album": {
-        "name": "Lips Can Lie",
-        "url": "https://open.spotify.com/album/6LvGAaHEC2H8zl4K5DOtBM"
-      },
-      "artists": [
-        {
-          "name": "Karen Souza",
-          "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
-        }
-      ],
-      "duration_ms": 229596,
-      "name": "Lips Can Lie",
-      "url": "https://open.spotify.com/track/0fhfZFkNjIlCgpQSoazP2M"
     },
     {
       "added_at": "2026-05-22 09:39:37",
@@ -2079,6 +2079,34 @@
     {
       "added_at": "2026-05-22 09:39:37",
       "album": {
+        "name": "Burgundy",
+        "url": "https://open.spotify.com/album/0kKAsVURzU5scFPBk5wU9p"
+      },
+      "artists": [
+        {
+          "name": "Lauren Henderson",
+          "url": "https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l"
+        },
+        {
+          "name": "Sullivan Fortner",
+          "url": "https://open.spotify.com/artist/2kQZjl1wnD42U6rKhAHmz5"
+        },
+        {
+          "name": "Dezron Douglas",
+          "url": "https://open.spotify.com/artist/3HtyiTNRFO5HOPU5Cj3at7"
+        },
+        {
+          "name": "Joe Dyson",
+          "url": "https://open.spotify.com/artist/62eXeNUScwDhx0IsHwfxKS"
+        }
+      ],
+      "duration_ms": 260144,
+      "name": "Burgundy",
+      "url": "https://open.spotify.com/track/5sgaaqksfnewIky3AUrYFI"
+    },
+    {
+      "added_at": "2026-05-22 09:39:37",
+      "album": {
         "name": "Lemons",
         "url": "https://open.spotify.com/album/3jzKOypFUMLgtgUutC0rY8"
       },
@@ -2151,6 +2179,22 @@
     {
       "added_at": "2026-05-22 09:39:37",
       "album": {
+        "name": "Taxes",
+        "url": "https://open.spotify.com/album/6qJ1nSnYuiDiWCqe4QZkgv"
+      },
+      "artists": [
+        {
+          "name": "Disco Loveless",
+          "url": "https://open.spotify.com/artist/4yEqFAKL1RJPURxamKxcFL"
+        }
+      ],
+      "duration_ms": 201577,
+      "name": "Taxes",
+      "url": "https://open.spotify.com/track/1rPUPmUnDTmqUACgMYNkMM"
+    },
+    {
+      "added_at": "2026-05-22 09:39:37",
+      "album": {
         "name": "There Is No Future",
         "url": "https://open.spotify.com/album/29uDWhdwCQ3aC6NspRGkfV"
       },
@@ -2179,50 +2223,6 @@
     {
       "added_at": "2026-05-22 09:39:37",
       "album": {
-        "name": "Burgundy",
-        "url": "https://open.spotify.com/album/0kKAsVURzU5scFPBk5wU9p"
-      },
-      "artists": [
-        {
-          "name": "Lauren Henderson",
-          "url": "https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l"
-        },
-        {
-          "name": "Sullivan Fortner",
-          "url": "https://open.spotify.com/artist/2kQZjl1wnD42U6rKhAHmz5"
-        },
-        {
-          "name": "Dezron Douglas",
-          "url": "https://open.spotify.com/artist/3HtyiTNRFO5HOPU5Cj3at7"
-        },
-        {
-          "name": "Joe Dyson",
-          "url": "https://open.spotify.com/artist/62eXeNUScwDhx0IsHwfxKS"
-        }
-      ],
-      "duration_ms": 260144,
-      "name": "Burgundy",
-      "url": "https://open.spotify.com/track/5sgaaqksfnewIky3AUrYFI"
-    },
-    {
-      "added_at": "2026-05-22 09:39:37",
-      "album": {
-        "name": "Taxes",
-        "url": "https://open.spotify.com/album/6qJ1nSnYuiDiWCqe4QZkgv"
-      },
-      "artists": [
-        {
-          "name": "Disco Loveless",
-          "url": "https://open.spotify.com/artist/4yEqFAKL1RJPURxamKxcFL"
-        }
-      ],
-      "duration_ms": 201577,
-      "name": "Taxes",
-      "url": "https://open.spotify.com/track/1rPUPmUnDTmqUACgMYNkMM"
-    },
-    {
-      "added_at": "2026-05-22 09:39:37",
-      "album": {
         "name": "The Molly Johnson Songbook",
         "url": "https://open.spotify.com/album/14ApZhAAcQQ3JFUlYatLEn"
       },
@@ -2235,22 +2235,6 @@
       "duration_ms": 205040,
       "name": "But Not For Me",
       "url": "https://open.spotify.com/track/2H26DBC5PrgzmBkvRHqmGx"
-    },
-    {
-      "added_at": "2026-05-22 09:39:37",
-      "album": {
-        "name": "Carry On",
-        "url": "https://open.spotify.com/album/2ke7kTVLHYvxp7RTxY5y5G"
-      },
-      "artists": [
-        {
-          "name": "Sophia HP",
-          "url": "https://open.spotify.com/artist/4eYLmtNzyrRE1gwqY7pvMe"
-        }
-      ],
-      "duration_ms": 228639,
-      "name": "Carry On",
-      "url": "https://open.spotify.com/track/2SCGUEB8vEjck8Tx8uDILP"
     },
     {
       "added_at": "2026-05-22 09:39:37",
@@ -2271,6 +2255,22 @@
     {
       "added_at": "2026-05-22 09:39:37",
       "album": {
+        "name": "Carry On",
+        "url": "https://open.spotify.com/album/2ke7kTVLHYvxp7RTxY5y5G"
+      },
+      "artists": [
+        {
+          "name": "Sophia HP",
+          "url": "https://open.spotify.com/artist/4eYLmtNzyrRE1gwqY7pvMe"
+        }
+      ],
+      "duration_ms": 228639,
+      "name": "Carry On",
+      "url": "https://open.spotify.com/track/2SCGUEB8vEjck8Tx8uDILP"
+    },
+    {
+      "added_at": "2026-05-22 09:39:37",
+      "album": {
         "name": "Prisoner of Love",
         "url": "https://open.spotify.com/album/2TLjsOeLtdqlP264jRsjUF"
       },
@@ -2283,22 +2283,6 @@
       "duration_ms": 143746,
       "name": "Prisoner of Love",
       "url": "https://open.spotify.com/track/51I6YF51LiQf3bZALtnHUO"
-    },
-    {
-      "added_at": "2026-05-22 09:39:37",
-      "album": {
-        "name": "Lover Man (Oh, Where Can You Be?)",
-        "url": "https://open.spotify.com/album/5sLhFtPxR3dWgIFI7kPcIt"
-      },
-      "artists": [
-        {
-          "name": "Flora Mart\u00ednez",
-          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
-        }
-      ],
-      "duration_ms": 183901,
-      "name": "Lover Man (Oh, Where Can You Be?)",
-      "url": "https://open.spotify.com/track/0R5rHcEKfDpC47txuZrzCc"
     },
     {
       "added_at": "2026-05-22 09:39:37",
@@ -2319,6 +2303,22 @@
       "duration_ms": 301568,
       "name": "As If (feat. Vanisha Gould)",
       "url": "https://open.spotify.com/track/3mwk7xlvg8cq6SHhWkkFVS"
+    },
+    {
+      "added_at": "2026-05-22 09:39:37",
+      "album": {
+        "name": "Lover Man (Oh, Where Can You Be?)",
+        "url": "https://open.spotify.com/album/5sLhFtPxR3dWgIFI7kPcIt"
+      },
+      "artists": [
+        {
+          "name": "Flora Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
+        }
+      ],
+      "duration_ms": 183901,
+      "name": "Lover Man (Oh, Where Can You Be?)",
+      "url": "https://open.spotify.com/track/0R5rHcEKfDpC47txuZrzCc"
     },
     {
       "added_at": "2026-05-22 09:39:37",
@@ -2383,6 +2383,26 @@
     {
       "added_at": "2026-05-22 09:39:37",
       "album": {
+        "name": "American Classic",
+        "url": "https://open.spotify.com/album/3a6KzdXSmRbx5EAhYkSA6p"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        },
+        {
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+        }
+      ],
+      "duration_ms": 261706,
+      "name": "If I Had You",
+      "url": "https://open.spotify.com/track/7hqudcHQ5fULbiEXOuHo2P"
+    },
+    {
+      "added_at": "2026-05-22 09:39:37",
+      "album": {
         "name": "I\u00b4m a Fool to Want You",
         "url": "https://open.spotify.com/album/0SzmD3ohQtsXaTVh7VSbJ5"
       },
@@ -2407,26 +2427,6 @@
       "duration_ms": 246349,
       "name": "I\u00b4m a Fool to Want You",
       "url": "https://open.spotify.com/track/6ZxtkBVKcbpEOVeaj21VA1"
-    },
-    {
-      "added_at": "2026-05-22 09:39:37",
-      "album": {
-        "name": "American Classic",
-        "url": "https://open.spotify.com/album/3a6KzdXSmRbx5EAhYkSA6p"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        },
-        {
-          "name": "Diana Krall",
-          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
-        }
-      ],
-      "duration_ms": 261706,
-      "name": "If I Had You",
-      "url": "https://open.spotify.com/track/7hqudcHQ5fULbiEXOuHo2P"
     },
     {
       "added_at": "2026-05-22 09:39:37",

@@ -8041,6 +8041,28 @@
     },
     {
       "album": {
+        "name": "VINDICATE",
+        "url": "https://open.spotify.com/album/2bvKgi1cdJbaURY2bN7y4p"
+      },
+      "artists": [
+        {
+          "name": "Black Veil Brides",
+          "url": "https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs"
+        },
+        {
+          "name": "Lilith Czar",
+          "url": "https://open.spotify.com/artist/2tMZ37dVy1DzZjXXCjhgFq"
+        }
+      ],
+      "date_added": "2026-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239825,
+      "name": "Cut",
+      "url": "https://open.spotify.com/track/5DDN7RGlnJSDGF5abfvoqp"
+    },
+    {
+      "album": {
         "name": "A Fistful of Peaches",
         "url": "https://open.spotify.com/album/66f2AJfIYSpWtiDMac7Wea"
       },
@@ -32157,6 +32179,24 @@
     },
     {
       "album": {
+        "name": "the cure",
+        "url": "https://open.spotify.com/album/6zme2NwcaBxbn3mWOcMY8y"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2026-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297090,
+      "name": "the cure",
+      "url": "https://open.spotify.com/track/4EoJ151oQ5jY48z4RhSE96"
+    },
+    {
+      "album": {
         "name": "The Day Of...",
         "url": "https://open.spotify.com/album/7e7ujNrBRUhHsTXFqCH8b1"
       },
@@ -33990,7 +34030,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 223106,
       "name": "Tremolo",
       "url": "https://open.spotify.com/track/2fLrRiiTmJM4Gdoq7mdXV9"
@@ -37490,7 +37530,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 176453,
       "name": "Your Favorite Toy",
       "url": "https://open.spotify.com/track/2ZSOU8Fx9uRBW57nwfPVAL"

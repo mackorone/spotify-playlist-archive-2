@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rmk92.md) - [plain]
 
 > This is Nat King Cole\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,925 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,938 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rmk92.md) - [plain]
 | 44 | [Love Me As Though There Were No Tomorrow \- Remastered 2001](https://open.spotify.com/track/0RluX0auLYdKAZxWQZpLiG) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [This Is Nat King Cole](https://open.spotify.com/album/2ZCeZQGqdLN6zuhRVdLFaY) | 2:35 |
 | 45 | [I Could Have Danced All Night](https://open.spotify.com/track/20mEmrHhY9yN6IvYncoL96) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [My Fair Lady](https://open.spotify.com/album/5Lu3yzAEdFlbyWWBcVUl8I) | 2:30 |
 | 46 | [Love Letters \- Remastered](https://open.spotify.com/track/13dUfyPZRCUA1V2JVGeYpm) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Love Songs](https://open.spotify.com/album/4BtCNXyLlIHevbEnbVJBXC) | 2:43 |
-| 47 | [Love Is Here To Stay](https://open.spotify.com/track/4bIeo029q0hlNl2d3XJ0iM) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Sings For Two In Love](https://open.spotify.com/album/1evRgENnDDNYH6KPjIFdQi) | 2:49 |
-| 48 | [How I'd Love To Love You](https://open.spotify.com/track/2thCpvqBi9k1drA2oEZ2Co) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [L\-O\-V\-E](https://open.spotify.com/album/3mGmn1JDde3XyKQqZTJUAL) | 2:19 |
-| 49 | [A Nightingale Sang In Berkeley Square](https://open.spotify.com/track/0XboALCVOmAxzi5JEZHytz) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Touch Of Your Lips](https://open.spotify.com/album/0ec54Pa8SjLsJT94qqK9TU) | 4:46 |
-| 50 | [’Tis Autumn](https://open.spotify.com/track/6sQruAh3HYroK1zT8PUrea) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [BD Music & Cabu Present Nat King Cole](https://open.spotify.com/album/2yWx9ptM3TdlwZIkXwZacq) | 3:09 |
+| 47 | [Back To The Land](https://open.spotify.com/track/0iSLetXM5KlC7xA10L6QKg) | [Lester Young](https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm), [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7), [Buddy Rich](https://open.spotify.com/artist/1pVtwG5Up1OZOEpSHJ4AAs), [Billy Strayhorn](https://open.spotify.com/artist/6RbBDzGJqAROG0LP9TrXfW) | [Lester Young Trio](https://open.spotify.com/album/0bf8S6VdlrkX39DYxFC0DF) | 3:54 |
+| 48 | [Love Is Here To Stay](https://open.spotify.com/track/4bIeo029q0hlNl2d3XJ0iM) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Sings For Two In Love](https://open.spotify.com/album/1evRgENnDDNYH6KPjIFdQi) | 2:49 |
+| 49 | [How I'd Love To Love You](https://open.spotify.com/track/2thCpvqBi9k1drA2oEZ2Co) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [L\-O\-V\-E](https://open.spotify.com/album/3mGmn1JDde3XyKQqZTJUAL) | 2:19 |
+| 50 | [A Nightingale Sang In Berkeley Square](https://open.spotify.com/track/0XboALCVOmAxzi5JEZHytz) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Touch Of Your Lips](https://open.spotify.com/album/0ec54Pa8SjLsJT94qqK9TU) | 4:46 |
 
-Snapshot ID: `ag5LAAAAAACruYLKbqT0y9jH8wy7g4+a`
+Snapshot ID: `ag+cgAAAAAB+2vAlmG/YkdpMzFRD1Pr8`

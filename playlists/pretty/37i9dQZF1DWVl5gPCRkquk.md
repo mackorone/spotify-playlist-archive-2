@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVl5gPCRkquk.md) - [plain]
 
 > Channel some chilled\-out back yard vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,969,723 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,969,705 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,16 +70,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVl5gPCRkquk.md) - [plain]
 | 60 | [Strawberry Woman](https://open.spotify.com/track/4ABeiTbfMPzISpIeehvxRg) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf), [Jason Isbell](https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY) | [Weathervanes](https://open.spotify.com/album/2gL0IM5SYhCxJebPaKdDkx) | 4:10 |
 | 61 | [Beginner](https://open.spotify.com/track/2253dhz68xZDjKfOW5KcWt) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Light Sides](https://open.spotify.com/album/4K27TdPeRkWMIKns5TBzMn) | 4:03 |
 | 62 | [Bright Green Vibrant Gray](https://open.spotify.com/track/6OvymCZ4OgIYA7MSXvPIsM) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Goodnight Summerland](https://open.spotify.com/album/0MVltcSSdlgnlSNMLmJGFn) | 3:39 |
-| 63 | [April](https://open.spotify.com/track/6J0OvmRxVmiRyLeJ0aBryf) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [First Mind](https://open.spotify.com/album/0ntJpgznXrZ6Qc8wTxtcXh) | 4:08 |
-| 64 | [Featherweight](https://open.spotify.com/track/3ir3Eoj0pi0vlhqunNSyK3) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Shore](https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3) | 3:50 |
+| 63 | [Featherweight](https://open.spotify.com/track/3ir3Eoj0pi0vlhqunNSyK3) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Shore](https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3) | 3:50 |
+| 64 | [April](https://open.spotify.com/track/6J0OvmRxVmiRyLeJ0aBryf) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [First Mind](https://open.spotify.com/album/0ntJpgznXrZ6Qc8wTxtcXh) | 4:08 |
 | 65 | [Faking My Own Death](https://open.spotify.com/track/0GoTonjhYLPM7NVKqliTTt) | [August Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Faking My Own Death](https://open.spotify.com/album/5wGcJVAdzM6LndVUbMxTnf) | 3:58 |
 | 66 | [Loving You Will Be The Death Of Me](https://open.spotify.com/track/2TpHdNgZWRCqmZ2iPG90fJ) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Black Friday](https://open.spotify.com/album/0OTRd577BEHU8WNfrJ24aB) | 2:11 |
 | 67 | [Airplane](https://open.spotify.com/track/1PkGXXmXURIC0Zwil4MmKT) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Heaven](https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU) | 4:00 |
 | 68 | [and then there's me](https://open.spotify.com/track/7f1WcvOOUVUoHdrilGw4Sr) | [Abby Powledge](https://open.spotify.com/artist/5H2vu7amXrDfVapz04U8LJ) | [and then there's me](https://open.spotify.com/album/7mUkb56qGJScNQFbUSo6AL) | 3:12 |
 | 69 | [jordan](https://open.spotify.com/track/2BGyfq5k9xGO9019bUsYFk) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness](https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ) | 4:01 |
-| 70 | [Death Grip \(with HAFFWAY\)](https://open.spotify.com/track/3qtqyrxRDuG0ORWZ1BoIUv) | [Trousdale](https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE), [HAFFWAY](https://open.spotify.com/artist/3GL9CphwkHjP0Niz2fTWJH) | [Death Grip](https://open.spotify.com/album/1llv8Op2jSF1108gJmw8lh) | 2:57 |
-| 71 | [Lost In The Light](https://open.spotify.com/track/25J4d78ESH2MgAJoIakB8O) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Barchords](https://open.spotify.com/album/753yeghJKIjYDaLbJB2ZW9) | 3:56 |
-| 72 | [All the Ways \(feat\. Ray LaMontagne\)](https://open.spotify.com/track/5X7YV3w0f8wvbK58fupk0P) | [The Secret Sisters](https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL), [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [All the Ways](https://open.spotify.com/album/5KnKkghYRhhK3wfuNiLC6c) | 3:38 |
+| 70 | [Lost In The Light](https://open.spotify.com/track/25J4d78ESH2MgAJoIakB8O) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Barchords](https://open.spotify.com/album/753yeghJKIjYDaLbJB2ZW9) | 3:56 |
+| 71 | [All the Ways \(feat\. Ray LaMontagne\)](https://open.spotify.com/track/5X7YV3w0f8wvbK58fupk0P) | [The Secret Sisters](https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL), [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [All the Ways](https://open.spotify.com/album/5KnKkghYRhhK3wfuNiLC6c) | 3:38 |
+| 72 | [Death Grip \(with HAFFWAY\)](https://open.spotify.com/track/3qtqyrxRDuG0ORWZ1BoIUv) | [Trousdale](https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE), [HAFFWAY](https://open.spotify.com/artist/3GL9CphwkHjP0Niz2fTWJH) | [Death Grip](https://open.spotify.com/album/1llv8Op2jSF1108gJmw8lh) | 2:57 |
 | 73 | [Seed of Joy](https://open.spotify.com/track/6kUQwpX1ogl5inar6fE3bx) | [Marc Scibilia](https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77), [Brian Fallon](https://open.spotify.com/artist/3JlzEFwarS8ZcCGNFy11y4) | [Seed of Joy](https://open.spotify.com/album/4ivyT3pP5juItg8Yblaqfn) | 3:30 |
 | 74 | [Alone](https://open.spotify.com/track/3TejUMaOZWJS2WynHIZnOW) | [Ryan Harris](https://open.spotify.com/artist/38Cj253ij4uQ7Rce6tArIG) | [Same Sun EP](https://open.spotify.com/album/3Qe2tQ4wk8f6wzSMgzjebH) | 2:39 |
 | 75 | [Hold On](https://open.spotify.com/track/4FxBG9VPpxPXMDgqLgW5ZD) | [John Smith](https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2) | [The Fray](https://open.spotify.com/album/1r16zCSIhxkc5b9dSQ9DpT) | 4:51 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVl5gPCRkquk.md) - [plain]
 | 80 | [Weatherman](https://open.spotify.com/track/4i3ayapBXkyHJZLVOUqTmc) | [Hush Kids](https://open.spotify.com/artist/4XzsOuqFltgBcdHF3RZQbh) | [Weatherman](https://open.spotify.com/album/4GkmkJSF88GEnP2LFuCl0r) | 3:31 |
 | 81 | [How It Was It Will Never Be Again](https://open.spotify.com/track/3woSAwAhXte942SmXGdH9Q) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [How It Was It Will Never Be Again](https://open.spotify.com/album/66OGNLjE72uZ8tKRqxyJZE) | 2:16 |
 | 82 | [Caroline](https://open.spotify.com/track/0laEXE6mKdErCC67yhsHaO) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Mipso](https://open.spotify.com/album/71wj7iB4JXxUUTPosOpXMM) | 3:35 |
-| 83 | [Lightning](https://open.spotify.com/track/1wWIDdjh2pWRE3ECsVCklE) | [RYMAN](https://open.spotify.com/artist/1ZUNE7b5nNiN31AnJ0Smqj) | [Lightning](https://open.spotify.com/album/7H28isrokI8ORbf0tSV8ar) | 3:42 |
-| 84 | [Nightflyer](https://open.spotify.com/track/2Y6JBUc0T7EW2VAA1p9acN) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Nightflyer](https://open.spotify.com/album/0eINi61xfEo3l5Eeztkrzx) | 4:55 |
+| 83 | [Nightflyer](https://open.spotify.com/track/2Y6JBUc0T7EW2VAA1p9acN) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Nightflyer](https://open.spotify.com/album/0eINi61xfEo3l5Eeztkrzx) | 4:55 |
+| 84 | [Lightning](https://open.spotify.com/track/1wWIDdjh2pWRE3ECsVCklE) | [RYMAN](https://open.spotify.com/artist/1ZUNE7b5nNiN31AnJ0Smqj) | [Lightning](https://open.spotify.com/album/7H28isrokI8ORbf0tSV8ar) | 3:42 |
 | 85 | [Mud](https://open.spotify.com/track/7leOfpblnwIyAqr2u4hNZE) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Mud](https://open.spotify.com/album/1GJuDl2xV0i4rOx9ynhFPN) | 2:07 |
 | 86 | [Helpless](https://open.spotify.com/track/3HqAL42mdJwmdjjUBh78ht) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE), [Old Crow Medicine Show](https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi) | [Helpless](https://open.spotify.com/album/396OTSPq4V7Rxw6y8RmvGA) | 4:25 |
 | 87 | [Loose Ends](https://open.spotify.com/track/7vYDu6ViTuxBIE88LjyfEk) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Loose Ends](https://open.spotify.com/album/2i4biYAqbgxIzrUOk0CB46) | 3:01 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVl5gPCRkquk.md) - [plain]
 | 99 | [Going Where the Lonely Go](https://open.spotify.com/track/1obqA76qNSGEnN4kTafsQw) | [Robert Plant](https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [Raise The Roof \(Deluxe Edition\)](https://open.spotify.com/album/48wFAtpgBV5rUTTDrNKCoN) | 4:10 |
 | 100 | [On Wrong Side \(with Bon Iver\)](https://open.spotify.com/track/1ZANsLH33oCf6ofTFT6HJy) | [Ilsey](https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [From The Valley](https://open.spotify.com/album/7FghAqLEF3Qvjv91tcwKTc) | 2:43 |
 
-Snapshot ID: `AAAAAO1ouAlIE/a7hgvaglrVur+50cvj`
+Snapshot ID: `AAAAAB3NktUPpC7z/N2ns3VrplfxRyXJ`

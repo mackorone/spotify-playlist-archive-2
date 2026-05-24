@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Czz4Q.md) - [plain]
 
 > This is Luther Vandross\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,323 likes - 50 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,334 likes - 50 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Czz4Q.md) - [plain]
 | 21 | [If This World Were Mine \(with Luther Vandross\)](https://open.spotify.com/track/4fTPWK0B2Mg5Gulq8rarbb) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP), [Cheryl Lynn](https://open.spotify.com/artist/6UfoTQXaV3DuqtDVjZIxwZ) | [The Best of Luther Vandross The Best of Love](https://open.spotify.com/album/5rrSO0mgkVmZF1qjPn0TKD) | 5:23 |
 | 22 | [Sugar and Spice \(I Found Me a Girl\)](https://open.spotify.com/track/3IQENjEErvPxbEukFDjebv) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Never Too Much](https://open.spotify.com/album/1B4oPgG5ljWTRxsKcTHAYn) | 4:57 |
 | 23 | [Think About You](https://open.spotify.com/track/0sIkUPLns02tRPM7pjQEj4) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Dance With My Father](https://open.spotify.com/album/43Ci8cugIRwfmkXEyEgfVM) | 5:04 |
-| 24 | [I Know](https://open.spotify.com/track/6PzHZ2el11aX8u3vMqH73J) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP), [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [I Know](https://open.spotify.com/album/7tcFetI7thjbKImCIXIDmT) | 5:22 |
-| 25 | [The Glow of Love](https://open.spotify.com/track/6w9g12jpHCPCuvYVX7vLLG) | [Change](https://open.spotify.com/artist/2fJ2vi4PUSxyvYaeq0FTbE), [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [The Glow of Love \(Original Album and Rare Tracks\)](https://open.spotify.com/album/5AWDEEdFf7ab4X6HpfxLye) | 6:13 |
+| 24 | [The Glow of Love](https://open.spotify.com/track/6w9g12jpHCPCuvYVX7vLLG) | [Change](https://open.spotify.com/artist/2fJ2vi4PUSxyvYaeq0FTbE), [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [The Glow of Love \(Original Album and Rare Tracks\)](https://open.spotify.com/album/5AWDEEdFf7ab4X6HpfxLye) | 6:13 |
+| 25 | [I Know](https://open.spotify.com/track/6PzHZ2el11aX8u3vMqH73J) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP), [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [I Know](https://open.spotify.com/album/7tcFetI7thjbKImCIXIDmT) | 5:22 |
 | 26 | [Promise Me](https://open.spotify.com/track/4R1DpQ9KA9ov9gXrdmDaaQ) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Forever, For Always, For Love](https://open.spotify.com/album/3oG1ai7tyPHOm2w2ZkjpLi) | 4:42 |
 | 27 | [Power of Love / Love Power](https://open.spotify.com/track/6ep87j7rt6j8Fok55N9NOs) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Power Of Love](https://open.spotify.com/album/4mSFu3YmqIHfPngFDqZl4f) | 6:42 |
 | 28 | [Superstar](https://open.spotify.com/track/1xjR98caFMyxOlXkvj56ZK) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [The Essential Luther Vandross](https://open.spotify.com/album/0JzmsNDLZ6NCc6Mc3J2UgN) | 5:38 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Czz4Q.md) - [plain]
 | 46 | [Bring Your Heart To Mine](https://open.spotify.com/track/3zFgG0j8WVluUvOXDCS0sS) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Luther Vandross](https://open.spotify.com/album/2YPEpjWlezCbj9jizr6ZeS) | 4:21 |
 | 47 | [Forever, for Always, for Love](https://open.spotify.com/track/3BwPihmqv5kSXAIUuD7Y7J) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Forever, For Always, For Love](https://open.spotify.com/album/3oG1ai7tyPHOm2w2ZkjpLi) | 6:23 |
 | 48 | [Creepin'](https://open.spotify.com/track/5cltWPM1GjCEShVZiz4cD3) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [The Night I Fell In Love](https://open.spotify.com/album/20okHMjdnVL1rDtgPo81vY) | 4:05 |
-| 49 | [It's All About You](https://open.spotify.com/track/18IZbwBwZwZIcuq9jR0Bmn) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [One Night With You: The Best Of Love, Volume 2](https://open.spotify.com/album/2lkLq0W75R4m4xFZrmXGrB) | 5:27 |
-| 50 | [Ain't No Stoppin' Us Now](https://open.spotify.com/track/19HdAsw5YT83D8D7YOQ9wp) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Songs](https://open.spotify.com/album/79RyzfidCUY1XvdzwW0AYy) | 4:52 |
+| 49 | [Ain't No Stoppin' Us Now](https://open.spotify.com/track/19HdAsw5YT83D8D7YOQ9wp) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Songs](https://open.spotify.com/album/79RyzfidCUY1XvdzwW0AYy) | 4:52 |
+| 50 | [It's All About You](https://open.spotify.com/track/18IZbwBwZwZIcuq9jR0Bmn) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [One Night With You: The Best Of Love, Volume 2](https://open.spotify.com/album/2lkLq0W75R4m4xFZrmXGrB) | 5:27 |
 
-Snapshot ID: `ag5LAAAAAAAxVDAly6H8uWfj9zVPYCtm`
+Snapshot ID: `ag+cgAAAAACDi2PAq97jG7Q7NpUYcuXu`

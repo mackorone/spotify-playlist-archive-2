@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2mmt7R81K2b.md) - [plain]
 
 > Where jazz meets classical, and classical meets jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 317,139 likes - 101 songs - 7 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 317,193 likes - 101 songs - 7 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2mmt7R81K2b.md) - [plain]
 | 54 | [Eternal Source of Light Divine, HWV 74 \(Arrangement\)](https://open.spotify.com/track/2GTQ3iVNLw90PLPVUdPE4t) | [George Frideric Handel](https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2), [Rolf Lislevand](https://open.spotify.com/artist/6JM9ijNSKNjSXzxVrFjmuh), [Concerto Stella Matutina](https://open.spotify.com/artist/5MtjwE0QvUGLeepPhEu7gU) | [Nuove Invenzioni](https://open.spotify.com/album/6mPNYpx47nLYi6pekAqhoK) | 5:53 |
 | 55 | [Cavalleria rusticana : Intermezzo \- Arr\. for Piano and Double Bass](https://open.spotify.com/track/0DxKfiL6ETJvQSXrzRoBYJ) | [Pietro Mascagni](https://open.spotify.com/artist/3Z5fRknMBBNfCw6pkgR9S8), [PianoBasso](https://open.spotify.com/artist/0lFzJ6s1Rip3L1KbqTDmP7) | [Cavalleria rusticana \- Intermezzo](https://open.spotify.com/album/4rLbWMAkZYchDxnwcfAxtu) | 3:12 |
 | 56 | [I \- The Creation](https://open.spotify.com/track/7GterxMQBBkkaoyJ1w9w9y) | [Norchestra](https://open.spotify.com/artist/61H25MWaKudq3tHlQQU7WX), [Gnu Quartet](https://open.spotify.com/artist/6CIHRcHRO6dsAvDMnsYSuF) | [Suite for the Seagulls](https://open.spotify.com/album/07hSCP97K2GDfblHzWZxNZ) | 4:28 |
-| 57 | [Monk’s Mood](https://open.spotify.com/track/1k2iHRgO44gs0q86FKbl8K) | [Thelonious Monk](https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN), [Kristin Lee](https://open.spotify.com/artist/52BaQ1gjSLQ7tFKGsWU17N), [Jeremy Ajani Jordon](https://open.spotify.com/artist/7tr6g1GWQow4qhdnJqzLok) | [MONK: Monk's Mood](https://open.spotify.com/album/5m2I8DfAqBNBKR1mSoDGef) | 5:09 |
+| 57 | [Monk's Mood](https://open.spotify.com/track/1k2iHRgO44gs0q86FKbl8K) | [Thelonious Monk](https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN), [Kristin Lee](https://open.spotify.com/artist/52BaQ1gjSLQ7tFKGsWU17N), [Jeremy Ajani Jordan](https://open.spotify.com/artist/1cV3QHppPqrQUiFAjUtgvi) | [MONK: Monk's Mood](https://open.spotify.com/album/5m2I8DfAqBNBKR1mSoDGef) | 5:09 |
 | 58 | [Moonlight Sonata Blues](https://open.spotify.com/track/6nU1TMJWrF4Sm5I3kq4ISG) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [Beethoven Blues](https://open.spotify.com/album/3eXr4s3rCLxNJpxqaIDyqJ) | 4:13 |
 | 59 | [Peace Piece](https://open.spotify.com/track/1OIf9HdeZ0V0F6kSbgnBoO) | [Kronos Quartet](https://open.spotify.com/artist/0M6xcJTswOl2qvExCJhiS3) | [Kronos Quartet: Music Of Bill Evans](https://open.spotify.com/album/5vGOb3jAa4wv7ZS0mL2IfF) | 7:11 |
 | 60 | [Ahbez: Nature Boy](https://open.spotify.com/track/52jmWacjf1gFjELq6DRvXN) | [Eden Ahbez](https://open.spotify.com/artist/10uwDZEuXM1HzOeDlrybCS), [Malena Ernman](https://open.spotify.com/artist/0muluUHym4N0wB62sD0MPo), [L'Arpeggiata](https://open.spotify.com/artist/3kC7VaScP8y69rzg0vsswQ), [Christina Pluhar](https://open.spotify.com/artist/7xB7TQUAeFWgqdkhGiArgZ) | [Ahbez: Nature Boy](https://open.spotify.com/album/4rUPq6knWbVhVblkazea8q) | 4:27 |

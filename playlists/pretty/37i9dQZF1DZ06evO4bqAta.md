@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bqAta.md) - [plain]
 
 > This is Bob Dylan\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 590,540 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 590,574 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bqAta.md) - [plain]
 | 22 | [A Hard Rain's A\-Gonna Fall](https://open.spotify.com/track/7ny2ATvjtKszCpLpfsGnVQ) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [The Freewheelin' Bob Dylan](https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek) | 6:52 |
 | 23 | [Buckets of Rain](https://open.spotify.com/track/5eVjE8FDSDXQLSbTZSA5Qv) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Blood On The Tracks](https://open.spotify.com/album/4WD4pslu83FF6oMa1e19mF) | 3:22 |
 | 24 | [Just Like a Woman](https://open.spotify.com/track/37Dl7jQMmt0gUnzTKqnjkN) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Blonde On Blonde](https://open.spotify.com/album/4NP1rhnsPdYpnyJP0p0k0L) | 4:53 |
-| 25 | [All Along the Watchtower](https://open.spotify.com/track/0Fnb2pfBfu0ka33d6Yki17) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [John Wesley Harding](https://open.spotify.com/album/2KzCDxKpgLqBffHu1IZ7Kn) | 2:34 |
-| 26 | [Forever Young \- Slow Version](https://open.spotify.com/track/4yWl0tnEanf3zmZzl9kbQn) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Planet Waves](https://open.spotify.com/album/3gYbjd76d8T5Ct5WxCxX5R) | 4:57 |
+| 25 | [Forever Young \- Slow Version](https://open.spotify.com/track/4yWl0tnEanf3zmZzl9kbQn) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Planet Waves](https://open.spotify.com/album/3gYbjd76d8T5Ct5WxCxX5R) | 4:57 |
+| 26 | [All Along the Watchtower](https://open.spotify.com/track/0Fnb2pfBfu0ka33d6Yki17) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [John Wesley Harding](https://open.spotify.com/album/2KzCDxKpgLqBffHu1IZ7Kn) | 2:34 |
 | 27 | [Make You Feel My Love](https://open.spotify.com/track/6rfGPGghQL7SJmZPXprXIc) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Time Out Of Mind](https://open.spotify.com/album/185DHT5SvszXRrezx3lOjt) | 3:32 |
 | 28 | [Meet Me in the Morning](https://open.spotify.com/track/53ygARQf1f30Z0EmXPHWGT) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Blood On The Tracks](https://open.spotify.com/album/4WD4pslu83FF6oMa1e19mF) | 4:21 |
 | 29 | [Masters of War](https://open.spotify.com/track/7xVpkVkd1klTzLJEysIR7z) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [The Freewheelin' Bob Dylan](https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek) | 4:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bqAta.md) - [plain]
 | 49 | [I Threw It All Away](https://open.spotify.com/track/2HXnjMxrO4QccqE3Grwmd0) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Nashville Skyline](https://open.spotify.com/album/5WBx64FIN04CvM2T1MGrUN) | 2:26 |
 | 50 | [Sara](https://open.spotify.com/track/4WbP5AjT2RFb3paBBD2BRM) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Desire](https://open.spotify.com/album/1T8usYsiGEMPMQOLFgJEbE) | 5:31 |
 
-Snapshot ID: `ag5LAAAAAAB0NGm65svNypAteTV/5SEq`
+Snapshot ID: `ag+cgAAAAABXU1YntHrwnkQzJp5P0Qo2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2lcXXq.md) - [plain]
 
 > This is Lauren Daigle\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 368,836 likes - 45 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 368,841 likes - 45 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2lcXXq.md) - [plain]
 | 27 | [You Lead Me](https://open.spotify.com/track/2aDNgEU3yj4vUnh5ZWq4tD) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj), [House Of David](https://open.spotify.com/artist/11AckhNQEhNwfFhuNmCJWH), [Wonder Project](https://open.spotify.com/artist/2b16KxZlvk0C1YGnagXAx2) | [You Lead Me](https://open.spotify.com/album/26XQGLcx9C4eJYP4rezkXY) | 4:14 |
 | 28 | [Tú Dices](https://open.spotify.com/track/54QrUOoUEddh6h0ITdSqGu) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Tú Dices / Rescata](https://open.spotify.com/album/51Zco9WTUFDhcIM2elZbLm) | 4:33 |
 | 29 | [To Know Me](https://open.spotify.com/track/7LvCq4tN8BweqUpfd8Zeeo) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Lauren Daigle](https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ) | 3:31 |
-| 30 | [Believe For It \(feat\. Lauren Daigle\)](https://open.spotify.com/track/0tlJgLE8ddOq2L2k6YBc2y) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Believe For It \(feat\. Lauren Daigle\)](https://open.spotify.com/album/1yOCXBISNVYU6on4XpltJ8) | 5:38 |
-| 31 | [Watchmen](https://open.spotify.com/track/48CJkDa7zpAX65uIWXyuHZ) | [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj), [The New Respects](https://open.spotify.com/artist/5lwtznzBlmVM2IhgrCWbT9) | [EAT](https://open.spotify.com/album/0USg7yhc0M9kTNDlzcMU7K) | 2:47 |
+| 30 | [Watchmen](https://open.spotify.com/track/48CJkDa7zpAX65uIWXyuHZ) | [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj), [The New Respects](https://open.spotify.com/artist/5lwtznzBlmVM2IhgrCWbT9) | [EAT](https://open.spotify.com/album/0USg7yhc0M9kTNDlzcMU7K) | 2:47 |
+| 31 | [Believe For It \(feat\. Lauren Daigle\)](https://open.spotify.com/track/0tlJgLE8ddOq2L2k6YBc2y) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Believe For It \(feat\. Lauren Daigle\)](https://open.spotify.com/album/1yOCXBISNVYU6on4XpltJ8) | 5:38 |
 | 32 | [Back To God](https://open.spotify.com/track/17na7DhhBLsajSS7Vb38Fe) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Back To God](https://open.spotify.com/album/3bv8C2TkfaU1hhqu7E1OUl) | 4:03 |
 | 33 | [You Alone \- Live](https://open.spotify.com/track/6IXrJrsj1sfISLs8mIJRrX) | [North Point Worship](https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Hear \(Live\)](https://open.spotify.com/album/7gleaF1Itb2Hc5xFOfqdXL) | 6:04 |
 | 34 | [Time](https://open.spotify.com/track/2OXWcPKO4Bzo4O17OvGkD0) | [Aodhán King](https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Beyond Us](https://open.spotify.com/album/269eDd6kP3lI8kkDUw1NIn) | 3:49 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2lcXXq.md) - [plain]
 | 44 | [HARD LOVE \(feat\. Lauren Daigle\)](https://open.spotify.com/track/4ahfLYf0VLVVvN3sdOyQN2) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [The Shack: Music From and Inspired By the Original Motion Picture](https://open.spotify.com/album/40JDNqFUzKmBSMEfDHPztO) | 3:37 |
 | 45 | [Inherited](https://open.spotify.com/track/0YZ2M06JWJKYFanYCZfXLQ) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Lauren Daigle](https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ) | 3:08 |
 
-Snapshot ID: `ag5LAAAAAABIe7vAjbh7O7bftSi4bQrt`
+Snapshot ID: `ag+cgAAAAAChDdFyeugn1tfhV2SLx5ZM`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9G93rIVMmzM.md) - [plain]
 
 > heavy vibes for cuffing season.
 
-[Spotify](https://open.spotify.com/user/spotify) - 399,326 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 399,433 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9G93rIVMmzM.md) - [plain]
 | 40 | [Blvd\. Nights](https://open.spotify.com/track/7xDAU9IAMyWjl7ia3hRxs7) | [Team Sleep](https://open.spotify.com/artist/6CwDvApcRshxhEVMP30Sq7) | [Team Sleep \(U.S\. Release\)](https://open.spotify.com/album/7BORauiIbjPkOVRzSq38DP) | 3:08 |
 | 41 | [Closet](https://open.spotify.com/track/4hAPiyiwGAlIKP53qfmDuN) | [Fleshwater](https://open.spotify.com/artist/6P5ccCJCe8A4s9tDSTNFzF) | [We're Not Here to Be Loved](https://open.spotify.com/album/0hm7PiBu72tRliLqLfiKy1) | 2:02 |
 | 42 | [snarky](https://open.spotify.com/track/1PSKMHBHkR0nbxMWNauF9r) | [quannnic](https://open.spotify.com/artist/6X9yxRiccMK40GHKfUFZEu) | [kenopsia](https://open.spotify.com/album/72ilxCJIul1iivwSTAdoNp) | 4:05 |
-| 43 | [Usurper](https://open.spotify.com/track/2N6OKoPGG9UzBoYDxw3b3j) | [NXCRE](https://open.spotify.com/artist/4pEYvg65h3If6TKxwgzkQw), [The Villains](https://open.spotify.com/artist/3u5FARONWz8eCYD5hPsd5k) | [Usurper](https://open.spotify.com/album/7lLQhAy2wayD8je3xYGID8) | 3:35 |
-| 44 | [Rolling Out the Red Carpet](https://open.spotify.com/track/5ShA1hnZOOtZZHiObVtrzT) | [Hail The Sun](https://open.spotify.com/artist/0XblvrTo6mnHOxWIP1t5T6) | [Wake](https://open.spotify.com/album/3OiDWBs3h3OdroFZYGyNNB) | 2:05 |
+| 43 | [Rolling Out the Red Carpet](https://open.spotify.com/track/5ShA1hnZOOtZZHiObVtrzT) | [Hail The Sun](https://open.spotify.com/artist/0XblvrTo6mnHOxWIP1t5T6) | [Wake](https://open.spotify.com/album/3OiDWBs3h3OdroFZYGyNNB) | 2:05 |
+| 44 | [Usurper](https://open.spotify.com/track/2N6OKoPGG9UzBoYDxw3b3j) | [NXCRE](https://open.spotify.com/artist/4pEYvg65h3If6TKxwgzkQw), [The Villains](https://open.spotify.com/artist/3u5FARONWz8eCYD5hPsd5k) | [Usurper](https://open.spotify.com/album/7lLQhAy2wayD8je3xYGID8) | 3:35 |
 | 45 | [one day](https://open.spotify.com/track/72eNA0R1yKAWOH8Z599i47) | [Notions](https://open.spotify.com/artist/6fN3ZJDwsMKEInS1STuotC), [Grimzlee](https://open.spotify.com/artist/2cjwLVLbN1d5WaMZg5Em2g), [Skill Syrup](https://open.spotify.com/artist/7FvspmKAf0OXZbxx2A15hW) | [one day](https://open.spotify.com/album/5zY67Arwn1TAUgkvmLpWf3) | 2:34 |
 | 46 | [Atlantis](https://open.spotify.com/track/3p0yOrPChxUXZQgIUg4OLZ) | [Dreams They Have Stolen](https://open.spotify.com/artist/3pvmmwd6f0zBP0Fkp6X4dU), [Artifer](https://open.spotify.com/artist/5DZaSqMnJ9V5KDQVZhns5n) | [Atlantis](https://open.spotify.com/album/7zNKFmUNZ6yAzsYqv0Habc) | 4:02 |
 | 47 | [SHALLOW](https://open.spotify.com/track/55h5xNwW8na2bHKlZUfHh7) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [Shallow](https://open.spotify.com/album/6Cor4gZH5ANpH8OSuyH3a3) | 3:29 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9G93rIVMmzM.md) - [plain]
 | 51 | [Safe In Your Skin](https://open.spotify.com/track/1acjIzGS1YUrx6nSuktnqU) | [Title Fight](https://open.spotify.com/artist/2CnhqfjUG0qzsru0SMuhrk) | [Shed](https://open.spotify.com/album/1vA4pfmBUT9ei4Ukq8uTx1) | 2:34 |
 | 52 | [For Now](https://open.spotify.com/track/0Gg9krMVwwsTC3URfYb7Hc) | [Thornhill](https://open.spotify.com/artist/2dE5audbkV3o5cKxvM7lBD) | [BODIES](https://open.spotify.com/album/5bJeb7bvHrxNvZ6UskCoqm) | 4:05 |
 | 53 | [I'd stay forever](https://open.spotify.com/track/2ClFwxCrSbg472DuKbCpej) | [whither](https://open.spotify.com/artist/1j5n8v8YxdS8FrMjauRn8j) | [I'd stay forever](https://open.spotify.com/album/5IBRxPg2yrTf0BtuJrZ0Aa) | 4:31 |
-| 54 | [velvet](https://open.spotify.com/track/729zO7DaoSJMOLSvOh7UNN) | [sace6](https://open.spotify.com/artist/3II4BTkM0mJbwvFxVJRdeS), [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [velvet](https://open.spotify.com/album/2WGZh7y9KdsdA1q42eKzez) | 2:50 |
-| 55 | [Bite Marks](https://open.spotify.com/track/2iFoEIA2RSH1wt4i1LRiia) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [CCTV](https://open.spotify.com/album/6pLPp1De6DXPHhFry71Dn0) | 2:41 |
+| 54 | [Bite Marks](https://open.spotify.com/track/2iFoEIA2RSH1wt4i1LRiia) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [CCTV](https://open.spotify.com/album/6pLPp1De6DXPHhFry71Dn0) | 2:41 |
+| 55 | [velvet](https://open.spotify.com/track/729zO7DaoSJMOLSvOh7UNN) | [sace6](https://open.spotify.com/artist/3II4BTkM0mJbwvFxVJRdeS), [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [velvet](https://open.spotify.com/album/2WGZh7y9KdsdA1q42eKzez) | 2:50 |
 | 56 | [DISDAIN](https://open.spotify.com/track/2hEI5r6nDn9ZdNqHluhbdq) | [CORPSE](https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW) | [DISDAIN](https://open.spotify.com/album/7BPRvaesFamtH4Xo82I8nO) | 2:25 |
 | 57 | [Die On The Cross Of The Martyr](https://open.spotify.com/track/2MuPNWG7PIUQccZljWGx6W) | [Unprocessed](https://open.spotify.com/artist/13GH7wviJQ9gfZmr1pXHS4), [Tim Henson](https://open.spotify.com/artist/2cMK99GYN2qw5buZecbKH4), [Scott LePage](https://open.spotify.com/artist/2jBipF7DotEupjgfBqSdO0) | [...And Everything In Between](https://open.spotify.com/album/3LDYeoNeId8Eb6ssztA8B8) | 4:30 |
 | 58 | [PLEASER](https://open.spotify.com/track/57aoIncSQMCTT58Nczu5se) | [Vana](https://open.spotify.com/artist/6o2D1YBpFJDDaMwZYGyW3T) | [PLEASER](https://open.spotify.com/album/3DLbNeGEg77U7wyAgIv4pc) | 2:45 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9G93rIVMmzM.md) - [plain]
 | 80 | [Aquila](https://open.spotify.com/track/7goOBp1pzbohHhaaJO05H2) | [Allt](https://open.spotify.com/artist/6YRr0btzGqfQ5K7r23qjEM) | [Aquila](https://open.spotify.com/album/06vkY41nabAWVastRByeLy) | 4:05 |
 | 81 | [The Hunger](https://open.spotify.com/track/2bLNXRbC7Q2s9s7tVDdjJv) | [LEXXE](https://open.spotify.com/artist/0lDo9zbShSX0EXnxLpUZIU) | [Urban Legend](https://open.spotify.com/album/7oaCMCOJ3qSnpALIuv38aL) | 4:39 |
 | 82 | [Wet Dreams](https://open.spotify.com/track/7gU7RWO1r3yUPVagFTfbi6) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [Wet Dreams](https://open.spotify.com/album/0CpfMb1CvPursI3CGbzAWN) | 2:37 |
-| 83 | [my mistake...](https://open.spotify.com/track/5gUaMx5euG5hLsjSCKImIN) | [Split Chain](https://open.spotify.com/artist/5J0ehnVK9YOBGWOwE022ar) | [motionblur](https://open.spotify.com/album/3zXbRvUa5RiqdGUeB1Od40) | 5:16 |
-| 84 | [I Shift](https://open.spotify.com/track/3Ci8VRojYttIlIm4YikgKo) | [Sable](https://open.spotify.com/artist/5rRyGasapvQWgfTijFs2mq) | [I Shift](https://open.spotify.com/album/49Jl8jC6BGOLuw0FoyXY0c) | 3:10 |
+| 83 | [I Shift](https://open.spotify.com/track/3Ci8VRojYttIlIm4YikgKo) | [Sable](https://open.spotify.com/artist/5rRyGasapvQWgfTijFs2mq) | [I Shift](https://open.spotify.com/album/49Jl8jC6BGOLuw0FoyXY0c) | 3:10 |
+| 84 | [my mistake...](https://open.spotify.com/track/5gUaMx5euG5hLsjSCKImIN) | [Split Chain](https://open.spotify.com/artist/5J0ehnVK9YOBGWOwE022ar) | [motionblur](https://open.spotify.com/album/3zXbRvUa5RiqdGUeB1Od40) | 5:16 |
 | 85 | [Love me, slow](https://open.spotify.com/track/1AhkwjEBHLuvLTN2XSUgeZ) | [PALESKIN](https://open.spotify.com/artist/5eKP3s5CJQOYL65VzunrN1) | [Love me, slow](https://open.spotify.com/album/5I2v5h13rfLyFEVzEMoj6K) | 3:53 |
 | 86 | [Dissociate](https://open.spotify.com/track/6ulu17cqr52bymx8fXl8Yw) | [Extortionist](https://open.spotify.com/artist/3hdi1PRzSDS2LCTTwKsmVz) | [Dissociate](https://open.spotify.com/album/3wObYPAXqsIPRcPtgtC2Pk) | 4:17 |
 | 87 | [LOTUS](https://open.spotify.com/track/2rYj6DXSO7B0H7MajunV07) | [VIIZERO7](https://open.spotify.com/artist/1pdiVBF8SDDpleSjlNhP8C) | [LOTUS](https://open.spotify.com/album/1xn196oTyd4kH1o2ZYZzPu) | 3:19 |

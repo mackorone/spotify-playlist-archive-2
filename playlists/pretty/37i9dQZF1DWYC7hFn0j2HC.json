@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Lo mejor de los charros cantores! Antonio Aguilar en portada.",
-  "num_followers": 1174985,
+  "num_followers": 1175124,
   "original_name": "Charros de Oro",
   "owner": {
     "name": "Spotify",
@@ -139,6 +139,22 @@
     {
       "added_at": "2024-09-12 23:26:02",
       "album": {
+        "name": "Javier Solis Con Acoo De Mariachi",
+        "url": "https://open.spotify.com/album/0mo4FKlS0n0NtMAQw8SdNn"
+      },
+      "artists": [
+        {
+          "name": "Javier Sol\u00eds",
+          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
+        }
+      ],
+      "duration_ms": 174173,
+      "name": "El Loco",
+      "url": "https://open.spotify.com/track/4srM8XuNfNMFXKgU4ybkrP"
+    },
+    {
+      "added_at": "2024-09-12 23:26:02",
+      "album": {
         "name": "Grandes Duetos",
         "url": "https://open.spotify.com/album/33DVEiEzNDnc0Ojj2knqtS"
       },
@@ -155,22 +171,6 @@
       "duration_ms": 178932,
       "name": "Bandido De Amores",
       "url": "https://open.spotify.com/track/5gbThduFQLh53m500xE54t"
-    },
-    {
-      "added_at": "2024-09-12 23:26:02",
-      "album": {
-        "name": "Javier Solis Con Acoo De Mariachi",
-        "url": "https://open.spotify.com/album/0mo4FKlS0n0NtMAQw8SdNn"
-      },
-      "artists": [
-        {
-          "name": "Javier Sol\u00eds",
-          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
-        }
-      ],
-      "duration_ms": 174173,
-      "name": "El Loco",
-      "url": "https://open.spotify.com/track/4srM8XuNfNMFXKgU4ybkrP"
     },
     {
       "added_at": "2024-09-12 23:26:02",

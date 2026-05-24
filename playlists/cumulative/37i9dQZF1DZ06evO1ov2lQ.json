@@ -232,7 +232,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-14",
+      "date_removed": null,
       "duration_ms": 304460,
       "name": "Arafura",
       "url": "https://open.spotify.com/track/2yJMu2hzbQ8MQur8HwaSVV"
@@ -1286,7 +1286,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-18",
+      "date_removed": null,
       "duration_ms": 212920,
       "name": "Green Reflections",
       "url": "https://open.spotify.com/track/4zErU7F1wLCWmtOdoyem0k"
@@ -2070,7 +2070,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 318577,
       "name": "Mir",
       "url": "https://open.spotify.com/track/0qelp5P9XttIUN7wyXBM5j"
@@ -2124,7 +2124,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 242000,
       "name": "Monju - 2",
       "url": "https://open.spotify.com/track/5m1YTDYtgIspbFjciYEA2s"
@@ -2722,7 +2722,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 473840,
       "name": "Silene",
       "url": "https://open.spotify.com/track/6l7ouzm1yKyTNaOKe87imj"
@@ -3090,7 +3090,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-18",
+      "date_removed": null,
       "duration_ms": 388160,
       "name": "The Things I Tell You",
       "url": "https://open.spotify.com/track/36BGk42n6upPWiMCWpBQKL"

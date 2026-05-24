@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJrRlgpYslH.md) - [plain]
 
 > A lazy Sunday vibe, whatever day of the week it is.
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,002 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,049 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJrRlgpYslH.md) - [plain]
 | 56 | [BODYGUARD](https://open.spotify.com/track/6Y4rniIxibegzsg8cdWAWV) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 4:00 |
 | 57 | [September](https://open.spotify.com/track/7Cuk8jsPPoNYQWXK9XRFvG) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [September](https://open.spotify.com/album/4MgtwNYjD89Oj2km6eFRYd) | 3:35 |
 | 58 | [Big Yellow Taxi](https://open.spotify.com/track/5fztgDIt1Nq32VHJrAHq0Y) | [Counting Crows](https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC), [Vanessa Carlton](https://open.spotify.com/artist/5ILrArfIV0tMURcHJN8Q07) | [Hard Candy](https://open.spotify.com/album/4ZY9wbPTIFpX5IdFemqIyZ) | 3:46 |
-| 59 | [Home Again](https://open.spotify.com/track/5yGVHzJ2Se8pDzR7FIYUlU) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Home Again \(Deluxe Version\)](https://open.spotify.com/album/6b7DeWxueaZY0NNReD6TrK) | 3:29 |
-| 60 | [Gypsy \- 2016 Remaster](https://open.spotify.com/track/5J0aNEUTxJWKXnQmyY3vUp) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Mirage \(Deluxe Edition\)](https://open.spotify.com/album/1dZNgJ3Gh3wp6ohzk29JUG) | 4:27 |
+| 59 | [Gypsy \- 2016 Remaster](https://open.spotify.com/track/5J0aNEUTxJWKXnQmyY3vUp) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Mirage \(Deluxe Edition\)](https://open.spotify.com/album/1dZNgJ3Gh3wp6ohzk29JUG) | 4:27 |
+| 60 | [Home Again](https://open.spotify.com/track/5yGVHzJ2Se8pDzR7FIYUlU) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Home Again \(Deluxe Version\)](https://open.spotify.com/album/6b7DeWxueaZY0NNReD6TrK) | 3:29 |
 | 61 | [Everyday People](https://open.spotify.com/track/4ZVZBc5xvMyV3WzWktn8i7) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Stand](https://open.spotify.com/album/7iwS1r6JHYJe9xpPjzmWqD) | 2:21 |
 | 62 | [Wichita Lineman \- Remastered 2001](https://open.spotify.com/track/6V9VCm1zOY2lGR80RehJ9i) | [Glen Campbell](https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U) | [Wichita Lineman \(Remastered\)](https://open.spotify.com/album/056tSaBR2WyN1nnmfIzkEE) | 3:06 |
 | 63 | [Manic Monday](https://open.spotify.com/track/00vYs0qZA40Z8AAaN7xmMO) | [The Bangles](https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC) | [Different Light \(Expanded Edition\)](https://open.spotify.com/album/7qEP3i0f0zfk6JUFW3SyeN) | 3:04 |
@@ -103,8 +103,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJrRlgpYslH.md) - [plain]
 | 93 | [Candy](https://open.spotify.com/track/5NwBOCI0trPlbtfocWrt2q) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Bird's Eye](https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa) | 3:06 |
 | 94 | [Heart of Gold \(with Bon Iver\)](https://open.spotify.com/track/7zh9Phpu0GVQ6bCbPHiZAf) | [Ilsey](https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Heart of Gold \(with Bon Iver\)](https://open.spotify.com/album/2dwZS75dB000xVnvUDBHYH) | 2:52 |
 | 95 | [Summer Wind](https://open.spotify.com/track/5ZXHIeyneAhJHjR1JQ2cYs) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Ultimate Sinatra](https://open.spotify.com/album/7gmak9ZGm10y4PtZa9SBQn) | 2:54 |
-| 96 | [That's the Way It Is](https://open.spotify.com/track/7a1aqeZM7JCXAMDMZxyr19) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [All the Way...A Decade of Song](https://open.spotify.com/album/2ksJEvjT4ezhBeg6b5Irrx) | 4:01 |
-| 97 | [\(There's\) Always Something There to Remind Me](https://open.spotify.com/track/2wc9DHQnBTnMKDIYcXFzoq) | [Dionne Warwick](https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp) | [The Dionne Warwick Collection: Her All\-Time Greatest Hits](https://open.spotify.com/album/6jt0AE3c2ZC5e9TJA2Duo2) | 2:59 |
+| 96 | [\(There's\) Always Something There to Remind Me](https://open.spotify.com/track/2wc9DHQnBTnMKDIYcXFzoq) | [Dionne Warwick](https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp) | [The Dionne Warwick Collection: Her All\-Time Greatest Hits](https://open.spotify.com/album/6jt0AE3c2ZC5e9TJA2Duo2) | 2:59 |
+| 97 | [That's the Way It Is](https://open.spotify.com/track/7a1aqeZM7JCXAMDMZxyr19) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [All the Way...A Decade of Song](https://open.spotify.com/album/2ksJEvjT4ezhBeg6b5Irrx) | 4:01 |
 | 98 | [We Can Be Strong](https://open.spotify.com/track/3s8YjcZ1LieRIPFivz7mRJ) | [Willy Mason](https://open.spotify.com/artist/2uYZJqMXH5Q6xvPU6BPySL) | [If The Ocean Gets Rough](https://open.spotify.com/album/3YBqjnpa8zyYGBH2s96hed) | 3:55 |
 | 99 | [Inside My Love](https://open.spotify.com/track/64qumU8DunSmNXYQKuIVWv) | [Minnie Riperton](https://open.spotify.com/artist/2i1IdHG5w0wiSmJGoqAGlj) | [Les Fleurs](https://open.spotify.com/album/4QAzV4Z3hJq5XULwP74Gm7) | 4:41 |
 | 100 | [They Don't Know](https://open.spotify.com/track/5Uu5QszGiGrBpbuHwO8XTA) | [Tracey Ullman](https://open.spotify.com/artist/6f8l45N3qZB1xSCH1qFCFB) | [You Broke My Heart In Seventeen Places](https://open.spotify.com/album/57X1npISKv4wTh2KZ8xMGY) | 2:59 |

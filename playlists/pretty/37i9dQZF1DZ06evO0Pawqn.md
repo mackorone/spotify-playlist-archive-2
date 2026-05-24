@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Pawqn.md) - [plain]
 
 > This is Los Tiranos Del Norte\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,394 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,397 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Pawqn.md) - [plain]
 | 49 | [En Tu Dia Mi Amor](https://open.spotify.com/track/7h6ulEngQG3YQqX8DPpZFH) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Hermosa Tirana](https://open.spotify.com/album/6L69NftVVtlSbBjaegb0Jn) | 2:49 |
 | 50 | [Llévate Todo](https://open.spotify.com/track/0sDBdYGq7z545Kg221otie) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Llévate Todo](https://open.spotify.com/album/6rRxR8zzSTJRPBwnIG8lZr) | 3:02 |
 
-Snapshot ID: `ag5LAAAAAACWeTFZTdQEVCYTMKC96PID`
+Snapshot ID: `ag+cgAAAAADcZscjg0PeDH1h58L4FIyp`

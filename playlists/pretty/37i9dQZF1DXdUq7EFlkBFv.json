@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/akademiks/\">DJ Akademiks</a>",
-  "num_followers": 25782,
+  "num_followers": 25783,
   "original_name": "DJ Akademiks' Taste",
   "owner": {
     "name": "Spotify",
@@ -515,6 +515,26 @@
     {
       "added_at": "2022-10-01 16:17:17",
       "album": {
+        "name": "Relentless (feat. Lil Durk)",
+        "url": "https://open.spotify.com/album/7805rgXmjrssqgW03U9ZTu"
+      },
+      "artists": [
+        {
+          "name": "Booka600",
+          "url": "https://open.spotify.com/artist/5g8mXUQcC8DVAHLwGGAIrJ"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "duration_ms": 206533,
+      "name": "Relentless (feat. Lil Durk)",
+      "url": "https://open.spotify.com/track/6mdPEY68QpFtEau2sfQLW1"
+    },
+    {
+      "added_at": "2022-10-01 16:17:17",
+      "album": {
         "name": "Just A Matter of Slime",
         "url": "https://open.spotify.com/album/0fvmq3jIMJpjHFDTZtjWtx"
       },
@@ -547,26 +567,6 @@
       "duration_ms": 375652,
       "name": "No Time For Sleep (Freestyle)",
       "url": "https://open.spotify.com/track/50xlqNticOjNCnR192H1YJ"
-    },
-    {
-      "added_at": "2022-10-01 16:17:17",
-      "album": {
-        "name": "Relentless (feat. Lil Durk)",
-        "url": "https://open.spotify.com/album/7805rgXmjrssqgW03U9ZTu"
-      },
-      "artists": [
-        {
-          "name": "Booka600",
-          "url": "https://open.spotify.com/artist/5g8mXUQcC8DVAHLwGGAIrJ"
-        },
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        }
-      ],
-      "duration_ms": 206533,
-      "name": "Relentless (feat. Lil Durk)",
-      "url": "https://open.spotify.com/track/6mdPEY68QpFtEau2sfQLW1"
     },
     {
       "added_at": "2022-10-01 16:17:17",

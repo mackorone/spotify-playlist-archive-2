@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 
 > The new wave of Latin pop 🌊 Cover: Kidd Voodoo
 
-[Spotify](https://open.spotify.com/user/spotify) - 293,515 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 293,521 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 | 27 | [Contigo](https://open.spotify.com/track/0VE8s4QgvxcapGhaJfgPbS) | [BORJA](https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw) | [Contigo](https://open.spotify.com/album/3PofNKhlbZJcew6j3APkeL) | 3:16 |
 | 28 | [La Mala](https://open.spotify.com/track/5YckAHqUVvw9Xcgn5N2AH4) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [La Mala](https://open.spotify.com/album/7mpDCS3CqxlDWLbkxpvbDI) | 2:17 |
 | 29 | [nada para nadie :\(:](https://open.spotify.com/track/34vEg8VafGWSWPnNTpjhOv) | [Nicole Favre](https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1), [Olivia Wald](https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0) | [nada para nadie :\(:](https://open.spotify.com/album/6B2AIgocZxQd7iQsO69s0o) | 2:22 |
-| 30 | [TU SUPITE?](https://open.spotify.com/track/0sYxmetxv0rmnLB1epKWUu) | [Leslie Grace](https://open.spotify.com/artist/6BeO1KuAWBqFriL1mLHtNc), [Martox](https://open.spotify.com/artist/2kt9iXyIMY6yv45SapEw5r) | [AMOR, QUIÉN ERES?](https://open.spotify.com/album/5EwAecivTZp1yYcXpbHq8h) | 3:05 |
+| 30 | [TU SUPITE](https://open.spotify.com/track/0sYxmetxv0rmnLB1epKWUu) | [Leslie Grace](https://open.spotify.com/artist/6BeO1KuAWBqFriL1mLHtNc), [Martox](https://open.spotify.com/artist/2kt9iXyIMY6yv45SapEw5r) | [AMOR, QUIÉN ERES?](https://open.spotify.com/album/5EwAecivTZp1yYcXpbHq8h) | 3:05 |
 | 31 | [Dos Lunas](https://open.spotify.com/track/241T0LgkefRZw84wxgexrM) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Apambichao](https://open.spotify.com/album/0DOZOtgMZm8GvvFJFZ6vvT) | 2:58 |
 | 32 | [Algo que decirte](https://open.spotify.com/track/7chnaUARE0kchT39P2mDD0) | [Sebastian Llosa](https://open.spotify.com/artist/10vr6MNGdriyVivl7Ls8Xx) | [Algo que decirte](https://open.spotify.com/album/1EMlkl5qsaFQqWbeRVKjJ4) | 2:56 |
 | 33 | [YOU COULD BE THAT BOY](https://open.spotify.com/track/6k5dlT8rllGwzWSAbjtySZ) | [DANNA](https://open.spotify.com/artist/3Lk8ifX8dLKXls1ZCZAHgc) | [LUCID DREAMS](https://open.spotify.com/album/5jIZEQP2E5YkW1Fp5vRNYj) | 3:14 |

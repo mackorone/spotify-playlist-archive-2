@@ -1,12 +1,12 @@
 {
   "description": "This is Eros Ramazzotti. The essential tracks, all in one playlist.",
-  "num_followers": 251803,
+  "num_followers": 251837,
   "original_name": "This Is Eros Ramazzotti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ag5LAAAAAADGpglCUBh7tnIxY5+rM+tN",
+  "snapshot_id": "ag+cgAAAAAD3R9h1Jy69AZlv/XHpikMu",
   "tracks": [
     {
       "added_at": null,
@@ -595,8 +595,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Musica \u00e8",
-        "url": "https://open.spotify.com/album/6VI85NNGp3e9N8blWF7VPC"
+        "name": "9 (Spanish Version)",
+        "url": "https://open.spotify.com/album/3hPQaa3lqJWCOzA2B6LZye"
       },
       "artists": [
         {
@@ -604,9 +604,9 @@
           "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
         }
       ],
-      "duration_ms": 305906,
-      "name": "Solo con te",
-      "url": "https://open.spotify.com/track/5r9QUxvWA5sJPt3rPNyrzj"
+      "duration_ms": 276920,
+      "name": "Un Segundo de Paz",
+      "url": "https://open.spotify.com/track/6lB4izeAPef18J2djGVbyD"
     },
     {
       "added_at": null,
@@ -631,8 +631,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "9 (Spanish Version)",
-        "url": "https://open.spotify.com/album/3hPQaa3lqJWCOzA2B6LZye"
+        "name": "Musica \u00e8",
+        "url": "https://open.spotify.com/album/6VI85NNGp3e9N8blWF7VPC"
       },
       "artists": [
         {
@@ -640,9 +640,9 @@
           "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
         }
       ],
-      "duration_ms": 276920,
-      "name": "Un Segundo de Paz",
-      "url": "https://open.spotify.com/track/6lB4izeAPef18J2djGVbyD"
+      "duration_ms": 305906,
+      "name": "Solo con te",
+      "url": "https://open.spotify.com/track/5r9QUxvWA5sJPt3rPNyrzj"
     },
     {
       "added_at": null,

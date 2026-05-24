@@ -10327,6 +10327,28 @@
     },
     {
       "album": {
+        "name": "EL BACHAT\u00d3N DE LA L",
+        "url": "https://open.spotify.com/album/65gUW0rI0yrnYpZUSS4Us2"
+      },
+      "artists": [
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        },
+        {
+          "name": "Lucho RK",
+          "url": "https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ"
+        }
+      ],
+      "date_added": "2026-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201233,
+      "name": "EL BACHAT\u00d3N DE LA L",
+      "url": "https://open.spotify.com/track/3RHT8N9fhgqsD6KGDrquaW"
+    },
+    {
+      "album": {
         "name": "EL BAIFO",
         "url": "https://open.spotify.com/album/7a8QhNYgKmcaulK82zQjR5"
       },
@@ -12200,7 +12222,7 @@
       ],
       "date_added": "2026-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 132334,
       "name": "EST\u00c1 EN CASA",
       "url": "https://open.spotify.com/track/6093QVhdVCrKmBzaVq5Lb9"
@@ -13068,7 +13090,7 @@
       ],
       "date_added": "2026-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 194609,
       "name": "FLAKITO",
       "url": "https://open.spotify.com/track/32oPtn23E4YAoSsGSNm3J3"
@@ -33125,6 +33147,24 @@
     },
     {
       "album": {
+        "name": "the cure",
+        "url": "https://open.spotify.com/album/6zme2NwcaBxbn3mWOcMY8y"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2026-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297090,
+      "name": "the cure",
+      "url": "https://open.spotify.com/track/4EoJ151oQ5jY48z4RhSE96"
+    },
+    {
+      "album": {
         "name": "The Emptiness Machine",
         "url": "https://open.spotify.com/album/6W0Gabv5f3ugnckc6YgfJQ"
       },
@@ -33802,7 +33842,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 169050,
       "name": "TOTY",
       "url": "https://open.spotify.com/track/5b9ot4BXL2fwKk3lQK6gZY"
@@ -36004,7 +36044,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-08",
+      "date_removed": null,
       "duration_ms": 156364,
       "name": "VOY A LLeVARTE PA PR",
       "url": "https://open.spotify.com/track/59D4DOkspUbWyMmbAPQkxZ"

@@ -208,7 +208,7 @@
       ],
       "date_added": "2026-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 192546,
       "name": "Bumerang",
       "url": "https://open.spotify.com/track/2Vx2DZxRtEGAvmipf71Yaw"
@@ -414,6 +414,24 @@
       "duration_ms": 236146,
       "name": "Ella lo Hace Mejor",
       "url": "https://open.spotify.com/track/4BcslhiC50eygxnmF5Dq2d"
+    },
+    {
+      "album": {
+        "name": "Hecatombe Disco",
+        "url": "https://open.spotify.com/album/2ZGCpjlSEH00JNwAPjY1o0"
+      },
+      "artists": [
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "date_added": "2026-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170186,
+      "name": "Esperando en Hecatombe Disco",
+      "url": "https://open.spotify.com/track/5RXBPLuRQVLJ769Tw77RN4"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7O8ONc6Mo0L.md) - [plain]
 
 > Relaxe com hinos acústicos\. Foto: Fernandinho
 
-[Spotify](https://open.spotify.com/user/spotify) - 380,630 likes - 80 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 380,690 likes - 80 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7O8ONc6Mo0L.md) - [plain]
 | 31 | [Pode Morar Aqui \- Acústico](https://open.spotify.com/track/2TwohRKItIZe5bnJkQXQyU) | [Theo Rubia](https://open.spotify.com/artist/3bTnUXCo3suJiLVb79pExe) | [Pode Morar Aqui \(Acústico\)](https://open.spotify.com/album/26vrgC3uwDY9OGwbDiCFsL) | 5:04 |
 | 32 | [Ele é Exaltado](https://open.spotify.com/track/2n3P2SVzYw0OKAFplrJLY4) | [Marcelo Cacilias](https://open.spotify.com/artist/4JKjfrzVzizGyOoK7QfQbV) | [Instrumental Acoustic Worship II](https://open.spotify.com/album/5xLbO3Th92Wv9YiPmyF22q) | 5:31 |
 | 33 | [Seu Amor: YOUnique \- Acústico](https://open.spotify.com/track/3m0CtqEbzclwKxit7C48T3) | [LUDI](https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde) | [Seu Amor: YOUnique \(Acústico\)](https://open.spotify.com/album/1279LGdx3pj2hv2p0hivMA) | 7:24 |
-| 34 | [Se Não Fosse Ele](https://open.spotify.com/track/3TsTuRLUCG7FeHzXRk2yUJ) | [Felipe Costa](https://open.spotify.com/artist/7G8to6zPJFY3FJWrqNyumG), [Pedro Henrique](https://open.spotify.com/artist/5z5z7mb9JYMVdmi4Lfnu0t), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Se Não Fosse Ele](https://open.spotify.com/album/09qMoSr73LwGwAFhqtUvNr) | 4:49 |
-| 35 | [Confiar em Deus \- Spotify Singles](https://open.spotify.com/track/1C9SmYGyTZdb3xCR1SQ9xR) | [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B) | [Confiar em Deus \- Spotify Singles](https://open.spotify.com/album/44LijlMAyaGINUQkTYg5xs) | 3:43 |
+| 34 | [Confiar em Deus \- Spotify Singles](https://open.spotify.com/track/1C9SmYGyTZdb3xCR1SQ9xR) | [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B) | [Confiar em Deus \- Spotify Singles](https://open.spotify.com/album/44LijlMAyaGINUQkTYg5xs) | 3:43 |
+| 35 | [Se Não Fosse Ele](https://open.spotify.com/track/3TsTuRLUCG7FeHzXRk2yUJ) | [Felipe Costa](https://open.spotify.com/artist/7G8to6zPJFY3FJWrqNyumG), [Pedro Henrique](https://open.spotify.com/artist/5z5z7mb9JYMVdmi4Lfnu0t), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Se Não Fosse Ele](https://open.spotify.com/album/09qMoSr73LwGwAFhqtUvNr) | 4:49 |
 | 36 | [Primeira Essência \(Ao Vivo\)](https://open.spotify.com/track/4jTRJm7GsfpgLDMizIwBKE) | [Paulo Neto](https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko), [Paola Carla](https://open.spotify.com/artist/0pD33OcFUmNfYfg1EHoVU6) | [Primeira Essência \(Ao Vivo\)](https://open.spotify.com/album/6Q7ME1Xouz2udfWff8BHEo) | 4:56 |
 | 37 | [Milagres \- Acústico](https://open.spotify.com/track/6ael0a5FVQXGupOfzpkoOB) | [Lukas Agustinho](https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O) | [Milagres \(Acústico\)](https://open.spotify.com/album/7p8ZJylSvIeJZcGGUvBcnE) | 4:50 |
 | 38 | [Encaixe](https://open.spotify.com/track/0HpeuEm6f4TRJzwuItkX0h) | [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1) | [Encaixe](https://open.spotify.com/album/5tD8hdyOaLddaSlKwHlWO5) | 3:42 |

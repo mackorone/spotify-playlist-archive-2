@@ -1,12 +1,12 @@
 {
   "description": "This is Katy Perry. The essential tracks, all in one playlist.",
-  "num_followers": 1216340,
+  "num_followers": 1216420,
   "original_name": "This Is Katy Perry",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ag5LAAAAAACzwLIj1mLXhtNWI3XCReIs",
+  "snapshot_id": "ag+cgAAAAACfKrYrUkO7eAQfNNCbha3A",
   "tracks": [
     {
       "added_at": null,
@@ -136,9 +136,9 @@
           "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
         }
       ],
-      "duration_ms": 228878,
-      "name": "Unconditionally",
-      "url": "https://open.spotify.com/track/009ImBOrIUlWgla8U05RAC"
+      "duration_ms": 223546,
+      "name": "Roar",
+      "url": "https://open.spotify.com/track/27tNWlhdAryQY04Gb2ZhUI"
     },
     {
       "added_at": null,
@@ -200,9 +200,9 @@
           "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
         }
       ],
-      "duration_ms": 223546,
-      "name": "Roar",
-      "url": "https://open.spotify.com/track/27tNWlhdAryQY04Gb2ZhUI"
+      "duration_ms": 228878,
+      "name": "Unconditionally",
+      "url": "https://open.spotify.com/track/009ImBOrIUlWgla8U05RAC"
     },
     {
       "added_at": null,

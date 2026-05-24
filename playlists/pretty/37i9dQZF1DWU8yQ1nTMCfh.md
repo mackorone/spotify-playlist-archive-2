@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8yQ1nTMCfh.md) - [plain]
 
 > Las nuevas vibras del rock en español\. Cover: Viniloversus
 
-[Spotify](https://open.spotify.com/user/spotify) - 293,341 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 293,338 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8yQ1nTMCfh.md) - [plain]
 | 16 | [Necio](https://open.spotify.com/track/0Amrqle3uLQh6daz8it0G6) | [Andy Daze](https://open.spotify.com/artist/3C9RghNMHKFDn4fxrOrrW8) | [Necio](https://open.spotify.com/album/1bHQO3Jsfu7jV3PgdPRaQ0) | 4:21 |
 | 17 | [Problema Cabrón](https://open.spotify.com/track/1X5R4v1EqNgJeKaHRCIoFs) | [Residente](https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS), [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [Problema Cabrón](https://open.spotify.com/album/6JJ0dHtZQWNZP2kDd7j4Dv) | 3:36 |
 | 18 | [Magia Blanca](https://open.spotify.com/track/1MIRcKbka31tCqgjPLD4q4) | [Turf](https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1), [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Magia Blanca](https://open.spotify.com/album/3BPnsVrQpM8EijT2e2LnaZ) | 3:40 |
-| 19 | [Corazón de pollo](https://open.spotify.com/track/2AmBHtF9A6mvsVz7QNRbB1) | [Estamos Perdidos](https://open.spotify.com/artist/3XSDbgXhPHMMAMAG8uj7YP) | [Corazón de pollo](https://open.spotify.com/album/3cZOTSFXraZaRyhXVLePDS) | 3:23 |
-| 20 | [Jaula de Oro](https://open.spotify.com/track/5N9gBB5NObA2S0kv7ABQYs) | [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7), [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Jaula de Oro](https://open.spotify.com/album/7o5gng8f0q586Laakp4Ilv) | 3:58 |
+| 19 | [Jaula de Oro](https://open.spotify.com/track/5N9gBB5NObA2S0kv7ABQYs) | [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7), [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Jaula de Oro](https://open.spotify.com/album/7o5gng8f0q586Laakp4Ilv) | 3:58 |
+| 20 | [Corazón de pollo](https://open.spotify.com/track/2AmBHtF9A6mvsVz7QNRbB1) | [Estamos Perdidos](https://open.spotify.com/artist/3XSDbgXhPHMMAMAG8uj7YP) | [Corazón de pollo](https://open.spotify.com/album/3cZOTSFXraZaRyhXVLePDS) | 3:23 |
 | 21 | [Física o Química \(feat\. Enol, Hens, Walls\)](https://open.spotify.com/track/4dqrBXSWOaaEI1jlPegcQz) | [Despistaos](https://open.spotify.com/artist/0QE9iXPzgSaBq34OqIZ4n2), [Enol](https://open.spotify.com/artist/5f7z2thkqWrA4vp5Hh476O), [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR), [Hens](https://open.spotify.com/artist/3iY9PS7LxPnCVcCP7BjJOK) | [Física o Química \(feat\. Enol, Hens, Walls\)](https://open.spotify.com/album/1U0tpWjhDwrh09V9UnQtaU) | 3:35 |
 | 22 | [Ella Usó Mi cabeza Como Un Revólver \- Spotify Singles](https://open.spotify.com/track/046TaHr9EePc6M8NQX9vfw) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Spotify Singles](https://open.spotify.com/album/6ueXz9Wyd8wud5fBFOe6NT) | 4:19 |
 | 23 | [Perro Callejero](https://open.spotify.com/track/04S0UAl019CON66pBU2C2G) | [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR), [Natos y Waor](https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw) | [Perro Callejero](https://open.spotify.com/album/3GfTCaM2d1QtS3xLM3SMws) | 2:42 |

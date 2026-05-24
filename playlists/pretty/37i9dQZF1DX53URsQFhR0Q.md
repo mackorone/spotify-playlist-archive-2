@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX53URsQFhR0Q.md) - [plain]
 
 > Hit rewind on these classic Ghanaian gospel songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,833 likes - 50 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,844 likes - 50 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX53URsQFhR0Q.md) - [plain]
 | 26 | [Twediampong Nyame](https://open.spotify.com/track/4JwAjpD5KJyrqVcIg2MhLD) | [Daughters of Glorious Jesus](https://open.spotify.com/artist/4R38kiNoFuhBbrJX7oOMwy) | [Asomdwoe Hene](https://open.spotify.com/album/4UxB7lVnR3sT4OmBuDhBw2) | 5:12 |
 | 27 | [Di Wo Hene](https://open.spotify.com/track/7cf86toNQniypAJK3Gjqwu) | [Comfort Annor](https://open.spotify.com/artist/4nltyU0ABXKiPF0BJiMrOb) | [Ghana Gospel Classics, Vol\. 1](https://open.spotify.com/album/6mQQJMMcckDuVfEPTex79h) | 5:28 |
 | 28 | [Asem kese bi reba](https://open.spotify.com/track/18saGdKyUZvHf1A6etiZNg) | [Rev\. Mensah Bonsu](https://open.spotify.com/artist/3dKVL03pFxZrR2yutmLHw0) | [Yehowa Ne Mabankese](https://open.spotify.com/album/7EjET7MSD1KF7p0xm6zVNx) | 6:23 |
-| 29 | [Yesu Mo](https://open.spotify.com/track/5LDQxqWab9bVdOMv0K1Ut6) | [Jack Odoom](https://open.spotify.com/artist/64XvgVFW2ccbs5nltV7USi), [oware JNR](https://open.spotify.com/artist/3DnFBMzlM2xnDDqxeej1bh) | [Yesu Mo](https://open.spotify.com/album/31oohGVTzpXoirIkH3KMMV) | 6:34 |
+| 29 | [I Have a God](https://open.spotify.com/track/4lMleOHHpi7NOlDNzB2dvH) | [Francis Agyei](https://open.spotify.com/artist/3Hfa3UtgEZjW9pnYKSI5Q2) | [God You Are So Good](https://open.spotify.com/album/3NrW1Gz5zkKAHJGKQNcQZi) | 6:24 |
 | 30 | [Menyame Nhyiraba](https://open.spotify.com/track/68B3urp2uXgEDenOfqhdQi) | [Philipa Baafi](https://open.spotify.com/artist/35P14RT5loRZM8GChmKle0) | [Ghana Gospel Mix](https://open.spotify.com/album/5ycAL9zH0ilBJ4wKjTDxpY) | 5:09 |
-| 31 | [I Have a God](https://open.spotify.com/track/4lMleOHHpi7NOlDNzB2dvH) | [Francis Agyei](https://open.spotify.com/artist/3Hfa3UtgEZjW9pnYKSI5Q2) | [God You Are So Good](https://open.spotify.com/album/3NrW1Gz5zkKAHJGKQNcQZi) | 6:24 |
+| 31 | [Yesu Mo](https://open.spotify.com/track/5LDQxqWab9bVdOMv0K1Ut6) | [Jack Odoom](https://open.spotify.com/artist/64XvgVFW2ccbs5nltV7USi), [oware JNR](https://open.spotify.com/artist/3DnFBMzlM2xnDDqxeej1bh) | [Yesu Mo](https://open.spotify.com/album/31oohGVTzpXoirIkH3KMMV) | 6:34 |
 | 32 | [Mo Ne Yo](https://open.spotify.com/track/2dopQvR9fcAJwlR40o3yLD) | [Diana Hamilton](https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl) | [I Believe](https://open.spotify.com/album/2c8wWhCqIkrZLiNwix2PUv) | 4:29 |
 | 33 | [Adehye Mogya](https://open.spotify.com/track/4FSQFLp4pZiAEwQ6MLRuZV) | [Anita Afriyie](https://open.spotify.com/artist/3icOzeeIwhGWwPHymtDOS5) | [My Testimony 2015 \- 2017](https://open.spotify.com/album/3DA3wDXEWQFUZq2RUsy72Y) | 5:25 |
 | 34 | [Bo Noo Ni \(feat\. Luigi Maclean\)](https://open.spotify.com/track/7eirw5Zy1bUWOka5g2HWrb) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb), [LUIGI MACLEAN](https://open.spotify.com/artist/4gzBsQLndSUq2uUislBcq6) | [God of Miracles](https://open.spotify.com/album/3zf0GwGizuZX3G7HBoVwgF) | 6:48 |

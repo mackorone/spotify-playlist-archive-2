@@ -6,7 +6,7 @@
     "name": "James Williams",
     "url": "https://open.spotify.com/user/imathieu32"
   },
-  "snapshot_id": "AAAgQqlDUAQ3Ev7xFDEZmQnIe8GK8f6N",
+  "snapshot_id": "AAAgQ7gItZxcWVzhDS/Klu3AqlPrbxgh",
   "tracks": [
     {
       "added_at": "2022-05-03 16:09:53",
@@ -4375,6 +4375,26 @@
       "duration_ms": 208192,
       "name": "Elizabeth",
       "url": "https://open.spotify.com/track/6uKj6ta8izO0VLnIG14lf3"
+    },
+    {
+      "added_at": "2026-05-23 21:36:06",
+      "album": {
+        "name": "MOTHERLESS",
+        "url": "https://open.spotify.com/album/445ASNvZBCiKxGuT7Ds7UQ"
+      },
+      "artists": [
+        {
+          "name": "Killer Mike",
+          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
+        },
+        {
+          "name": "Eryn Allen Kane",
+          "url": "https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3"
+        }
+      ],
+      "duration_ms": 213927,
+      "name": "MOTHERLESS - Single Version",
+      "url": "https://open.spotify.com/track/4EMmtIMp0fkU4Au326hA5l"
     }
   ],
   "unique_name": "main ",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0bHrKp.md) - [plain]
 
 > This is Sum 41\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,944 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,959 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0bHrKp.md) - [plain]
 | 20 | [Best Of Me](https://open.spotify.com/track/0vKGvQdkbesI7RGKX3tRyk) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Underclass Hero](https://open.spotify.com/album/4fc73QNw5EjIorFfZ6n6YG) | 4:25 |
 | 21 | [Noots](https://open.spotify.com/track/6wXNqGJ5eHfAaz8WcBN4Sp) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Chuck](https://open.spotify.com/album/1aG8QbhABVtVxNlAkk8VBW) | 3:51 |
 | 22 | [Makes No Difference](https://open.spotify.com/track/0dEKHXkMPrC5vQkjPtmOic) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Half Hour Of Power](https://open.spotify.com/album/5iyuYd9BFLRoKHN3onmdMH) | 3:10 |
-| 23 | [Breaking The Chain](https://open.spotify.com/track/6pFBYVdgexmt3zLLJUhhvy) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [13 Voices](https://open.spotify.com/album/3eCvEIqh8lZzfQbXt9Zndb) | 4:03 |
-| 24 | [Jessica Kill](https://open.spotify.com/track/7aWYoIxfmQeyweth6IXY30) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Screaming Bloody Murder](https://open.spotify.com/album/1rqIeDLxDNH5wTVwiklzip) | 2:50 |
+| 23 | [Jessica Kill](https://open.spotify.com/track/7aWYoIxfmQeyweth6IXY30) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Screaming Bloody Murder](https://open.spotify.com/album/1rqIeDLxDNH5wTVwiklzip) | 2:50 |
+| 24 | [Breaking The Chain](https://open.spotify.com/track/6pFBYVdgexmt3zLLJUhhvy) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [13 Voices](https://open.spotify.com/album/3eCvEIqh8lZzfQbXt9Zndb) | 4:03 |
 | 25 | [Open Your Eyes](https://open.spotify.com/track/3wl4ZUBsuH7n2lsW4WjU05) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Chuck](https://open.spotify.com/album/1aG8QbhABVtVxNlAkk8VBW) | 2:44 |
 | 26 | [Turning Away](https://open.spotify.com/track/4y6UbERZs3PZ0qsPYqe0Cq) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Order In Decline](https://open.spotify.com/album/7j11BWRSLFBFUVR4EPG6WD) | 3:50 |
 | 27 | [Thanks For Nothing](https://open.spotify.com/track/2fTom1sc4WE2jugw05Usfw) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Does This Look Infected?](https://open.spotify.com/album/2iOJEUCKJaYseov1qA8ot8) | 3:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0bHrKp.md) - [plain]
 | 49 | [The New Sensation](https://open.spotify.com/track/66rEcw8rK6iCc0UesDdqxs) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Order In Decline](https://open.spotify.com/album/7j11BWRSLFBFUVR4EPG6WD) | 3:50 |
 | 50 | [Reason To Believe](https://open.spotify.com/track/4DJVmSP42li51r1C8zhURQ) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Screaming Bloody Murder](https://open.spotify.com/album/1rqIeDLxDNH5wTVwiklzip) | 3:28 |
 
-Snapshot ID: `ag5LAAAAAABcuIkYjLcc9ofJYsxeA0ZM`
+Snapshot ID: `ag+cgAAAAACHfqKxeWGts4Vd/WNQLv/U`

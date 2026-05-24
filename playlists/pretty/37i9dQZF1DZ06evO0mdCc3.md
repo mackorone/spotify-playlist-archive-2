@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0mdCc3.md) - [plain]
 
 > This is Kittie\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,267 likes - 42 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,272 likes - 42 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,11 +16,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0mdCc3.md) - [plain]
 | 6 | [Mouthful of Poison](https://open.spotify.com/track/1B7YFJQcwapUMtgy0kmcXY) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Oracle](https://open.spotify.com/album/2gvntE2fsMMbMXNxIOnBsD) | 4:38 |
 | 7 | [We Are Shadows](https://open.spotify.com/track/2NMp1fQW41OeQJApuJngAZ) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Fire](https://open.spotify.com/album/4EbO8Gm17SmOY3vS9Rqhsu) | 3:35 |
 | 8 | [Brackish XXV](https://open.spotify.com/track/0XvUNeGH7aokwNLWXVOTg7) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Spit XXV](https://open.spotify.com/album/0WYZiJ2D46evxGdyAJOchS) | 2:57 |
-| 9 | [Get Off \(You Can Eat a Dick\)](https://open.spotify.com/track/7bkstl3jHuqyLThQoja3Ek) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Spit](https://open.spotify.com/album/5PyNZ5DIu4UNWYfIgJwqXH) | 2:54 |
+| 9 | [Charlotte](https://open.spotify.com/track/6KNhbezV7aXC06dCpNFFVo) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Spit](https://open.spotify.com/album/5PyNZ5DIu4UNWYfIgJwqXH) | 3:59 |
 | 10 | [Run Like Hell](https://open.spotify.com/track/5L0pmNhEK5HVh5YWiiNPuw) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Oracle](https://open.spotify.com/album/2gvntE2fsMMbMXNxIOnBsD) | 4:09 |
 | 11 | [Fire](https://open.spotify.com/track/0bIoBcvncyM8cBZ56ah9xL) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Fire](https://open.spotify.com/album/4EbO8Gm17SmOY3vS9Rqhsu) | 3:28 |
 | 12 | [Into The Darkness](https://open.spotify.com/track/2ymrItKzFrLfw2Nn8lFP7n) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Until the End](https://open.spotify.com/album/7JH0GlTxHyknSS8qMKBIjZ) | 3:38 |
-| 13 | [Charlotte](https://open.spotify.com/track/6KNhbezV7aXC06dCpNFFVo) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Spit](https://open.spotify.com/album/5PyNZ5DIu4UNWYfIgJwqXH) | 3:59 |
+| 13 | [Get Off \(You Can Eat a Dick\)](https://open.spotify.com/track/7bkstl3jHuqyLThQoja3Ek) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Spit](https://open.spotify.com/album/5PyNZ5DIu4UNWYfIgJwqXH) | 2:54 |
 | 14 | [Oracle](https://open.spotify.com/track/4JRVMu3RowUdd7ZrcWMMVc) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Oracle](https://open.spotify.com/album/2gvntE2fsMMbMXNxIOnBsD) | 2:02 |
 | 15 | [Eyes Wide Open](https://open.spotify.com/track/5C34gPk3GDR8ZYJNVq4mld) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Fire](https://open.spotify.com/album/4EbO8Gm17SmOY3vS9Rqhsu) | 3:53 |
 | 16 | [Loveless](https://open.spotify.com/track/2NAa2OHG4Jk0P3XmH0UsjJ) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Until the End](https://open.spotify.com/album/7JH0GlTxHyknSS8qMKBIjZ) | 2:08 |
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0mdCc3.md) - [plain]
 | 41 | [Will To Live](https://open.spotify.com/track/2bVvEXfRYzpXAd8YKyVIXe) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Funeral For Yesterday](https://open.spotify.com/album/2POZVzGL52LMZU1xxviAfj) | 3:14 |
 | 42 | [Sorrow I Know](https://open.spotify.com/track/3JBAtWrSOO0xPCZNlwMhcV) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [In The Black](https://open.spotify.com/album/2yXPKlNs2R2aGKKZeM2cnC) | 3:30 |
 
-Snapshot ID: `ag5LAAAAAADIDjGSpbgcF/MUGULu9V7j`
+Snapshot ID: `ag+cgAAAAACAZYZHyhZuTGM2IOeTwYZV`

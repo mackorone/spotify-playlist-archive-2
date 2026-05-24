@@ -1,12 +1,12 @@
 {
   "description": "This is Bring Me The Horizon. The essential tracks, all in one playlist.",
-  "num_followers": 512047,
+  "num_followers": 512120,
   "original_name": "This Is Bring Me The Horizon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ag5LAAAAAABdzsEy5CSJJHaQjWKFq2X9",
+  "snapshot_id": "ag+cgAAAAAC/XT40cCKjJZWJG2Gym7Wu",
   "tracks": [
     {
       "added_at": null,
@@ -755,6 +755,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "L.I.V.E. In S\u00e3o Paulo (Live Immersive Virtual Experiment)",
+        "url": "https://open.spotify.com/album/0tlzXZQXAeBUCXv3eHHjXU"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 75838,
+      "name": "(Interlude) Project Angel Dust - L.I.V.E. In S\u00e3o Paulo (Live Immersive Virtual Experiment)",
+      "url": "https://open.spotify.com/track/6vc8BQdoWY0IFD773n9gqA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Atlas Underground Fire",
         "url": "https://open.spotify.com/album/3GVIDUbQXfn7FQcJND2Ddp"
       },
@@ -784,13 +800,13 @@
           "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
         },
         {
-          "name": "Drxnk",
-          "url": "https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC"
+          "name": "lophiile",
+          "url": "https://open.spotify.com/artist/5g5eVr2vAQnd12Q1XCJD7R"
         }
       ],
-      "duration_ms": 218993,
-      "name": "DOOMED.errX",
-      "url": "https://open.spotify.com/track/6veSof7cuSd7lh43upiltK"
+      "duration_ms": 309218,
+      "name": "med!cine.fbk",
+      "url": "https://open.spotify.com/track/4XhbazNmRNlkUkjYX38Obc"
     },
     {
       "added_at": null,
@@ -831,22 +847,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo-files",
-        "url": "https://open.spotify.com/album/34pF0wOGswprAZCsI8A1Fs"
+        "name": "Count Your Blessings",
+        "url": "https://open.spotify.com/album/6ey1J9zez8cpgNQWwpk4bS"
       },
       "artists": [
         {
           "name": "Bring Me The Horizon",
           "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        },
-        {
-          "name": "Mondo Loops",
-          "url": "https://open.spotify.com/artist/1XFN3VcuKr4tsTtQlRiTgK"
         }
       ],
-      "duration_ms": 194987,
-      "name": "parasite.ev3",
-      "url": "https://open.spotify.com/track/7GPLneLBvgAURR2AblkAJy"
+      "duration_ms": 129866,
+      "name": "A Lot Like Vegas",
+      "url": "https://open.spotify.com/track/0n1HOrTBNb87Ozqqs5ZiZD"
     },
     {
       "added_at": null,
@@ -860,13 +872,17 @@
           "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
         },
         {
-          "name": "HM Surf",
-          "url": "https://open.spotify.com/artist/6TeBxtluBMQixZcKkJ3ZrB"
+          "name": "Casiio",
+          "url": "https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a"
+        },
+        {
+          "name": "No Spirit",
+          "url": "https://open.spotify.com/artist/4XbnhifKeOnyfTsCInrQsX"
         }
       ],
-      "duration_ms": 201468,
-      "name": "DiE4u.sysrsk",
-      "url": "https://open.spotify.com/track/65EFbxCYYNRGKibTQj90Wt"
+      "duration_ms": 162946,
+      "name": "canyoufeelmy<3.tmpx",
+      "url": "https://open.spotify.com/track/4oulNVAcHE3WWxyy8kYvcz"
     }
   ],
   "unique_name": "This Is Bring Me The Horizon",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZKxXtx1tSxF.md) - [plain]
 
 > Un mix de reggae y buena vibra para ver caer el sol.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,713 likes - 70 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,732 likes - 70 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,9 +24,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZKxXtx1tSxF.md) - [plain]
 | 14 | [Esperaría Al Sol](https://open.spotify.com/track/2bWY2H78KeFkJRK0N80JG0) | [SER](https://open.spotify.com/artist/5Tk3cLiTSfgrMC4BxInpO9), [Piru Saez](https://open.spotify.com/artist/2qdl3OSZp8RVa0nCkHrDa9) | [Esperaría Al Sol](https://open.spotify.com/album/0inn5RinNhGSTFKXK06yoj) | 4:03 |
 | 15 | [BSOS](https://open.spotify.com/track/5Y1R365I3Z4zAJCr3wMHf1) | [Mora Navarro](https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx) | [AMORA](https://open.spotify.com/album/67w5GTUP0xRtseWy6MDILI) | 3:06 |
 | 16 | [Por el Bien de los Dos](https://open.spotify.com/track/5YVBaeIf9L56ybZdUYOcjy) | [Abril Olivera](https://open.spotify.com/artist/0syNXPcVZZpTvXcfoRaXLg) | [Abril](https://open.spotify.com/album/2uT7GrTnYKL293sssNax85) | 2:39 |
-| 17 | [Sigo Caminando](https://open.spotify.com/track/1Po5Jxjh5gHCFiKIt6AQZR) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Alas Canciones](https://open.spotify.com/album/0hDvH4mW4hxL8lTQEd4uP8) | 5:02 |
+| 17 | [Anónimos \(feat\. Carla Morrison\)](https://open.spotify.com/track/6pKADEM7gx8EZ6UypMUzyd) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR), [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Soundamerica](https://open.spotify.com/album/2SZTxfMc8EOjUJnPIVORWI) | 5:15 |
 | 18 | [La Medicina](https://open.spotify.com/track/7MWXlXJZBzrJVjbWb4woWz) | [Franco Rizzaro](https://open.spotify.com/artist/1QLXQU95X4LRBK4VNTUAQB) | [La Medicina](https://open.spotify.com/album/7tWT7yzxjFsiOW6MshgnEy) | 2:28 |
-| 19 | [Anónimos \(feat\. Carla Morrison\)](https://open.spotify.com/track/6pKADEM7gx8EZ6UypMUzyd) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR), [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Soundamerica](https://open.spotify.com/album/2SZTxfMc8EOjUJnPIVORWI) | 5:15 |
+| 19 | [Sigo Caminando](https://open.spotify.com/track/1Po5Jxjh5gHCFiKIt6AQZR) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Alas Canciones](https://open.spotify.com/album/0hDvH4mW4hxL8lTQEd4uP8) | 5:02 |
 | 20 | [Fugaz](https://open.spotify.com/track/2xzdpc3aZm9mKmJpumCsRY) | [Connie Isla](https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a) | [Isla Mater](https://open.spotify.com/album/5S48a0ZYFosSdYkZIoLV1D) | 3:11 |
 | 21 | [Porque Yo](https://open.spotify.com/track/2eqLgrPkcSTgCvxEtsymiz) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [Porque Yo](https://open.spotify.com/album/5AaUcL3YvlknHmRu6oeNXI) | 3:01 |
 | 22 | [Isla del Ritmo](https://open.spotify.com/track/5YAQFjWdqU0Rjm0SbnY8wf) | [Ritmo Machine](https://open.spotify.com/artist/00sAqRmmkclLUg9p8ICDnw) | [Isla del Ritmo](https://open.spotify.com/album/00hZw0zggoguww2I6rb1FH) | 3:16 |

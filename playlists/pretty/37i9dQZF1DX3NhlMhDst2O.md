@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NhlMhDst2O.md) - [plain]
 
 > Sintoniza los éxitos románticos del siglo pasado 🥀
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,926 likes - 125 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,007 likes - 125 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NhlMhDst2O.md) - [plain]
 | 72 | [Eres Mi Mundo](https://open.spotify.com/track/5hkA0x4asdvj5V3cR8V1Si) | [Grupo Yndio](https://open.spotify.com/artist/2ExqFhtOJ3rXrYJkBMqAxD) | [Éxitos De Época \(De Colección\)](https://open.spotify.com/album/1G7SdOH7XOFgNnzB9bgSAw) | 2:48 |
 | 73 | [Corazón Limpio](https://open.spotify.com/track/2oziP5rlqR0kKHbGzIOL0b) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd), [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Por Amor A Mi Pueblo](https://open.spotify.com/album/6Fzh7DxhjZ1fImQAHBe8od) | 2:59 |
 | 74 | [Pecado Mortal](https://open.spotify.com/track/3uJW3j46luxDB4CrJY90l5) | [Los Barbaros](https://open.spotify.com/artist/1YOOqViXEnQ7gHpezp34TX) | [Solo Para Ti](https://open.spotify.com/album/3LRXbYxa6LgY8W7jUHYNnk) | 3:26 |
-| 75 | [Acepta Mi Error](https://open.spotify.com/track/3cw7R2QQKqkQfMTUSRJebL) | [Los Temerarios](https://open.spotify.com/artist/3YbOSxo85kla7RID8ugnW3) | [15 Super Exitos Vol\. 2](https://open.spotify.com/album/7jSBOT8Dv2Knavq4HxOErj) | 3:24 |
-| 76 | [Como Me Gusta Quererte](https://open.spotify.com/track/1HZ95xv94RiBl0hwjs4EpY) | [Los Bondadosos](https://open.spotify.com/artist/0YUKqx7Lwb3synsaME2kQE) | [17 Super Exitos](https://open.spotify.com/album/4T3cjmsFQWzFkJaeDU2IUu) | 3:26 |
+| 75 | [Como Me Gusta Quererte](https://open.spotify.com/track/1HZ95xv94RiBl0hwjs4EpY) | [Los Bondadosos](https://open.spotify.com/artist/0YUKqx7Lwb3synsaME2kQE) | [17 Super Exitos](https://open.spotify.com/album/4T3cjmsFQWzFkJaeDU2IUu) | 3:26 |
+| 76 | [Acepta Mi Error](https://open.spotify.com/track/3cw7R2QQKqkQfMTUSRJebL) | [Los Temerarios](https://open.spotify.com/artist/3YbOSxo85kla7RID8ugnW3) | [15 Super Exitos Vol\. 2](https://open.spotify.com/album/7jSBOT8Dv2Knavq4HxOErj) | 3:24 |
 | 77 | [Sin Tu Amor](https://open.spotify.com/track/6nAkDgnYiBWK7cwGXdAMZ4) | [Grupo Yndio](https://open.spotify.com/artist/2ExqFhtOJ3rXrYJkBMqAxD) | [Serie Sensacional Regional Mexican Yndio](https://open.spotify.com/album/58GJW5Vi2X7lbAbYCN8Xm2) | 3:43 |
 | 78 | [Amor Querido](https://open.spotify.com/track/28ybanxKBA9n0zUpqVmB03) | [Los Silver](https://open.spotify.com/artist/6Gq2KFKpQgJgoLPDtxdRtD) | [15 Exitos De Los Silver](https://open.spotify.com/album/02AOEqMXKTeyT91mm7VXx1) | 4:23 |
 | 79 | [Como No Voy a Quererte](https://open.spotify.com/track/1fadIgrQWhRxFsIddVU40l) | [Los Prados](https://open.spotify.com/artist/619Ki7Z3lW1xCr24TzvsgK) | [Como No Voy a Quererte](https://open.spotify.com/album/2136DyGZn2DKRvYnhTghyb) | 3:05 |

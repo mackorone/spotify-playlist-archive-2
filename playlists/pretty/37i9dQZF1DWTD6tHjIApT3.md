@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6tHjIApT3.md) - [plain]
 
 > 日本の女性アーティストの歌を特集。A Collection of Songs by Japanese Women Vocalists\.  cover: 7co
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,860 likes - 100 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,859 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,9 +55,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6tHjIApT3.md) - [plain]
 | 45 | [ホットライン](https://open.spotify.com/track/6aqgve4vmCsIClXXBtExYi) | [ふみの](https://open.spotify.com/artist/5aCs1cmbReUSJ4K9SuOYCx) | [ホットライン](https://open.spotify.com/album/3rH2btuMjf3485k9s3ljwc) | 3:52 |
 | 46 | [今日という日を](https://open.spotify.com/track/2iZFyqTZpXgh6mZFxvHtgS) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [今日という日を](https://open.spotify.com/album/4BAoQY8BW3PTfjVUeH1Pfw) | 4:37 |
 | 47 | [世界](https://open.spotify.com/track/5VAgszLmn23XAqWkP6qwt9) | [Haku.](https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM) | [世界](https://open.spotify.com/album/09EAPlkRPeRdxJSBEE4PPl) | 4:24 |
-| 48 | [Not a Goodbye](https://open.spotify.com/track/4s91z1CjRTXnehoFfmIA4E) | [MISAMO](https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo) | [PLAY](https://open.spotify.com/album/2Y6S52I2kx6FLvaOkZK7un) | 3:26 |
-| 49 | [愛晩餐](https://open.spotify.com/track/5WlQyOu63g9BMfNXb81xWq) | [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [愛晩餐](https://open.spotify.com/album/5wXOLbRU1CP6FHK8w6iWOM) | 3:05 |
-| 50 | [コールドスリープ](https://open.spotify.com/track/2soW1r29B3VYLHZzzGLlbE) | [Perfume](https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr) | [コールドスリープ](https://open.spotify.com/album/5SNBn4vaEK5MRFFOaz4HGG) | 4:11 |
+| 48 | [コールドスリープ](https://open.spotify.com/track/2soW1r29B3VYLHZzzGLlbE) | [Perfume](https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr) | [コールドスリープ](https://open.spotify.com/album/5SNBn4vaEK5MRFFOaz4HGG) | 4:11 |
+| 49 | [Not a Goodbye](https://open.spotify.com/track/4s91z1CjRTXnehoFfmIA4E) | [MISAMO](https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo) | [PLAY](https://open.spotify.com/album/2Y6S52I2kx6FLvaOkZK7un) | 3:26 |
+| 50 | [愛晩餐](https://open.spotify.com/track/5WlQyOu63g9BMfNXb81xWq) | [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [愛晩餐](https://open.spotify.com/album/5wXOLbRU1CP6FHK8w6iWOM) | 3:05 |
 | 51 | [What is ×？](https://open.spotify.com/track/7y2ovHbWCiD84HJ5Cg70Ie) | [名誉伝説](https://open.spotify.com/artist/2tQe3JU05yYIs9350ppVPD) | [What is ×？](https://open.spotify.com/album/6MwhfUQaPtzG6Y4G4eTStn) | 3:20 |
 | 52 | [New Walk](https://open.spotify.com/track/4QQZw019EXzf6ZDi4ytD5Z) | [紫 今](https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY) | [New Walk](https://open.spotify.com/album/1NlVIqlpnza7IfBNMNMUmC) | 4:00 |
 | 53 | [傍らにて月夜](https://open.spotify.com/track/0o73gjLRlk3XPivSBvZGAV) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [傍らにて月夜](https://open.spotify.com/album/6Wxykt1HUiXg9UT438LVqJ) | 4:24 |
@@ -69,15 +69,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6tHjIApT3.md) - [plain]
 | 59 | [百日草](https://open.spotify.com/track/2jPX3IZxD7y9gMKW7KhfAu) | [茉ひる](https://open.spotify.com/artist/5bWP5BvE7omi0VcYqs2S5R) | [百日草](https://open.spotify.com/album/0U3TaCiy5hLI2urzi74CDG) | 5:17 |
 | 60 | [étoile](https://open.spotify.com/track/4tNJEcWkXQQDes9P7cdNwA) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [風に乗る](https://open.spotify.com/album/756umARKInXvcyVNY1fq4p) | 3:26 |
 | 61 | [It's You](https://open.spotify.com/track/2Gomh0ZdLksrgHp5uTyYMP) | [AI](https://open.spotify.com/artist/0aD7NQx7yauKlVDnqOxk6q) | [It’s You](https://open.spotify.com/album/4fyfMYVLwAQfZq6wtL0Yjs) | 4:02 |
-| 62 | [Hangover](https://open.spotify.com/track/7bhxfSyIU6iToIx7eJT5Tt) | [REJAY](https://open.spotify.com/artist/4eepZmdBOvo2dDxaifOphe), [Andr](https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt) | [Hangover](https://open.spotify.com/album/4X3WPCSJweNP6heXa7YRZ2) | 3:26 |
-| 63 | [Glitch\*](https://open.spotify.com/track/5kM7xgKZ76UgdjRTBdiy8w) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [Glitch\*](https://open.spotify.com/album/1JVUgnXpPfiBffquWH53k7) | 2:43 |
-| 64 | [ultra soul](https://open.spotify.com/track/2AlU0ltG2bfCvpuV5vVaGY) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [KEISOUDO](https://open.spotify.com/album/5lzzogUrW0KKsmnthNNIfP) | 1:19 |
-| 65 | [雪唄 \- yukiuta](https://open.spotify.com/track/6S7rShWxpKfA7jpDfYSDD2) | [Myuk](https://open.spotify.com/artist/7oVNI7cJUA5f1Qvu8vQlq9) | [雪唄 \- yukiuta](https://open.spotify.com/album/5GLKiEjIlp6vIwMLnGZTUk) | 3:43 |
+| 62 | [Glitch\*](https://open.spotify.com/track/5kM7xgKZ76UgdjRTBdiy8w) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [Glitch\*](https://open.spotify.com/album/1JVUgnXpPfiBffquWH53k7) | 2:43 |
+| 63 | [Hangover](https://open.spotify.com/track/7bhxfSyIU6iToIx7eJT5Tt) | [REJAY](https://open.spotify.com/artist/4eepZmdBOvo2dDxaifOphe), [Andr](https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt) | [Hangover](https://open.spotify.com/album/4X3WPCSJweNP6heXa7YRZ2) | 3:26 |
+| 64 | [雪唄 \- yukiuta](https://open.spotify.com/track/6S7rShWxpKfA7jpDfYSDD2) | [Myuk](https://open.spotify.com/artist/7oVNI7cJUA5f1Qvu8vQlq9) | [雪唄 \- yukiuta](https://open.spotify.com/album/5GLKiEjIlp6vIwMLnGZTUk) | 3:43 |
+| 65 | [ultra soul](https://open.spotify.com/track/2AlU0ltG2bfCvpuV5vVaGY) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [KEISOUDO](https://open.spotify.com/album/5lzzogUrW0KKsmnthNNIfP) | 1:19 |
 | 66 | [崖っぷちルビー \(VS\. アイナ・ジ・エンド\)](https://open.spotify.com/track/7HXZCDmWVLC3ygAcXw5I6q) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [崖っぷちルビー \(VS\. アイナ・ジ・エンド\)](https://open.spotify.com/album/7HjRgi9qbWdYzteTDPvNow) | 4:22 |
 | 67 | [私が選んだもの](https://open.spotify.com/track/0pKUmPHhQTGUb2JY99bkEX) | [『ユイカ』](https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj) | [私が選んだもの](https://open.spotify.com/album/38Keiou5ICfLBAdz69A3jU) | 4:19 |
-| 68 | [Sonare](https://open.spotify.com/track/2TDyHR2vO6AUxgLUbxEWn2) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [Sonare](https://open.spotify.com/album/7wEahnf4nhcBJV0LV2CzNA) | 3:23 |
-| 69 | [Swing Swing Heart](https://open.spotify.com/track/3sk0eT30FYPi2oYnb2psKX) | [HY](https://open.spotify.com/artist/3x621ItlHMtX7mrJ8QnEjM) | [Swing Swing Heart](https://open.spotify.com/album/3AYHeU3Nz5yohUc48SEThk) | 3:27 |
-| 70 | [Cheese \(feat\. Manaka\)](https://open.spotify.com/track/2iu0jCYe28cYNsETzGf1z3) | [Litty](https://open.spotify.com/artist/7bpKgZBJlORKsMKNMoGwc0), [Manaka](https://open.spotify.com/artist/3TUjg4NvsTvKiyRuPdsurN) | [Get Litty?](https://open.spotify.com/album/08SdOsfG9Q7yf7J0eMmi9g) | 2:45 |
+| 68 | [Cheese \(feat\. Manaka\)](https://open.spotify.com/track/2iu0jCYe28cYNsETzGf1z3) | [Litty](https://open.spotify.com/artist/7bpKgZBJlORKsMKNMoGwc0), [Manaka](https://open.spotify.com/artist/3TUjg4NvsTvKiyRuPdsurN) | [Get Litty?](https://open.spotify.com/album/08SdOsfG9Q7yf7J0eMmi9g) | 2:45 |
+| 69 | [Sonare](https://open.spotify.com/track/2TDyHR2vO6AUxgLUbxEWn2) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [Sonare](https://open.spotify.com/album/7wEahnf4nhcBJV0LV2CzNA) | 3:23 |
+| 70 | [Swing Swing Heart](https://open.spotify.com/track/3sk0eT30FYPi2oYnb2psKX) | [HY](https://open.spotify.com/artist/3x621ItlHMtX7mrJ8QnEjM) | [Swing Swing Heart](https://open.spotify.com/album/3AYHeU3Nz5yohUc48SEThk) | 3:27 |
 | 71 | [DECOTORA15](https://open.spotify.com/track/3BMO8Ft3nSGezNGEqsbFjl) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [DECOTORA15](https://open.spotify.com/album/13clnrelj5KAwEbD3I5v2i) | 3:06 |
 | 72 | [ブルーアワー](https://open.spotify.com/track/7Lh5M0RD6X6GL3PnIwrZqo) | [adieu](https://open.spotify.com/artist/18tXnGJKmrSwXynnxWHy3Y) | [ブルーアワー](https://open.spotify.com/album/1oypYyn282Hdl2eUmC7tmH) | 4:17 |
 | 73 | [キャリーバッグ](https://open.spotify.com/track/1h0H9Hp0jZvZh1MuRWBk9J) | [Leina](https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae) | [キャリーバッグ](https://open.spotify.com/album/3kQ4vUmfCaVfTx8DtRni7T) | 3:00 |
@@ -85,10 +85,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6tHjIApT3.md) - [plain]
 | 75 | [Ray](https://open.spotify.com/track/7yx5pbQGDEXtpPifMy8u5d) | [YU\-KA](https://open.spotify.com/artist/1mnAFQLFTaUbccNqvK5pqX) | [Ray](https://open.spotify.com/album/0bs97BumdpbyYhcfHWE9hg) | 4:36 |
 | 76 | [うるわしきひと](https://open.spotify.com/track/1M3v8EIemHoCqEOautFldv) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [うるわしきひと](https://open.spotify.com/album/3avb1sjs58rujT74DuXGih) | 4:35 |
 | 77 | [Living](https://open.spotify.com/track/45wy7O4gllBWPaySxkRDIZ) | [Rokudenashi](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [Living](https://open.spotify.com/album/4H52JSvG8qKypi82WlJ7Oa) | 3:21 |
-| 78 | [光](https://open.spotify.com/track/6NkcDFInFJPMp8X057V6TB) | [Mika Nakashima](https://open.spotify.com/artist/3D73KNJRMbV45N59E8IN0F) | [光](https://open.spotify.com/album/2cB6UmQDDB8BUdFpWJGzya) | 4:54 |
-| 79 | [MINE](https://open.spotify.com/track/4AVQ6xQez2NA0lDlzALXis) | [SWEET REVENGE](https://open.spotify.com/artist/5Bey3ulvK5ExyT5SHZUUgh) | [MINE](https://open.spotify.com/album/4b51KDoNVNisbHS4cu2Tdo) | 2:29 |
-| 80 | [あわ](https://open.spotify.com/track/6O0LyEm9dwtPlG3KsNu6Ao) | [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza) | [あわ](https://open.spotify.com/album/4dLGMFAdTKZTmdjhzViSLC) | 3:17 |
-| 81 | [結々の唄](https://open.spotify.com/track/2a2j5ou6wR6ehkWzZnSEou) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [結々の唄](https://open.spotify.com/album/3ZdqakJeXU27ffoHYtV1XU) | 3:39 |
+| 78 | [MINE](https://open.spotify.com/track/4AVQ6xQez2NA0lDlzALXis) | [SWEET REVENGE](https://open.spotify.com/artist/5Bey3ulvK5ExyT5SHZUUgh) | [MINE](https://open.spotify.com/album/4b51KDoNVNisbHS4cu2Tdo) | 2:29 |
+| 79 | [光](https://open.spotify.com/track/6NkcDFInFJPMp8X057V6TB) | [Mika Nakashima](https://open.spotify.com/artist/3D73KNJRMbV45N59E8IN0F) | [光](https://open.spotify.com/album/2cB6UmQDDB8BUdFpWJGzya) | 4:54 |
+| 80 | [結々の唄](https://open.spotify.com/track/2a2j5ou6wR6ehkWzZnSEou) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [結々の唄](https://open.spotify.com/album/3ZdqakJeXU27ffoHYtV1XU) | 3:39 |
+| 81 | [あわ](https://open.spotify.com/track/6O0LyEm9dwtPlG3KsNu6Ao) | [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza) | [あわ](https://open.spotify.com/album/4dLGMFAdTKZTmdjhzViSLC) | 3:17 |
 | 82 | [さすらいの唄](https://open.spotify.com/track/6fksx9m3Pn9jbvnEYyLtej) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [tone \(Special Edition\)](https://open.spotify.com/album/2hlKSjcjfBda3i8YDDSlt9) | 4:52 |
 | 83 | [Ash＆Ember \(feat\. LiSA, ナナホシ管弦楽団\)](https://open.spotify.com/track/6Cl7zIrLFYuHhu4iR5zTK1) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv), [NanahoshiKangengakudan](https://open.spotify.com/artist/546Z4c3hsgGSbpUKi298Oo) | [Ash＆Ember \(feat\. LiSA, ナナホシ管弦楽団\)](https://open.spotify.com/album/6KkZytxXWIr5t9d45H1bih) | 3:25 |
 | 84 | [DEAD CENTER](https://open.spotify.com/track/26mR5pRpqRqgSBZ6ZTR1ix) | [Reol](https://open.spotify.com/artist/7rpKUJ0AnklJ8q9nIPVSpZ), [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [美辞学](https://open.spotify.com/album/4V0DjuDLtElbKX6WTUxvgV) | 2:56 |
@@ -97,10 +97,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6tHjIApT3.md) - [plain]
 | 87 | [ぜんぶ可愛いのせい](https://open.spotify.com/track/1dhdWekzCKLtMBOIavpLQZ) | [櫻井優衣](https://open.spotify.com/artist/2aTe9pvRpGDAnqBO1PCDXi) | [ぜんぶ可愛いのせい](https://open.spotify.com/album/73uS2yvzIbEMt94JQsSJao) | 3:37 |
 | 88 | [ハーモニー](https://open.spotify.com/track/3Gt35aibizWFiBlhlhmDgf) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [ハーモニー](https://open.spotify.com/album/7zXJAAal6WqBhADoHsHrx1) | 3:53 |
 | 89 | [blue hour](https://open.spotify.com/track/2VezAeFgaa9IFRChV9wEPf) | [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [blue hour](https://open.spotify.com/album/1rUvBCJ8zqcXa2S2QbYfHN) | 3:03 |
-| 90 | [SWEET MAGIC](https://open.spotify.com/track/61tmQ29LoIoDmAgcZLqfyf) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [SWEET MAGIC](https://open.spotify.com/album/0suptqC4XOddvtb9eF0kUX) | 3:13 |
+| 90 | [天気雨](https://open.spotify.com/track/51sEKNgSjJJzt6xzhXg773) | [茉ひる](https://open.spotify.com/artist/5bWP5BvE7omi0VcYqs2S5R) | [天気雨](https://open.spotify.com/album/2bRfDtzBLoM6pj0kaaRrFk) | 3:34 |
 | 91 | [君のせい](https://open.spotify.com/track/6MybVbNYgHbO0cjbqGSPLH) | [Kana Nishino](https://open.spotify.com/artist/4DDoAL8n6ob19r3jOZEbJI) | [君のせい](https://open.spotify.com/album/5kfekCB47xkYYkUnAx30Kk) | 2:18 |
-| 92 | [DARK GAME](https://open.spotify.com/track/06yH03bQeE3qYbeD2lmNoG) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [DARK GAME](https://open.spotify.com/album/7KUSqIZLZE7YxCpgvUqTc5) | 3:32 |
-| 93 | [天気雨](https://open.spotify.com/track/51sEKNgSjJJzt6xzhXg773) | [茉ひる](https://open.spotify.com/artist/5bWP5BvE7omi0VcYqs2S5R) | [天気雨](https://open.spotify.com/album/2bRfDtzBLoM6pj0kaaRrFk) | 3:34 |
+| 92 | [SWEET MAGIC](https://open.spotify.com/track/61tmQ29LoIoDmAgcZLqfyf) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [SWEET MAGIC](https://open.spotify.com/album/0suptqC4XOddvtb9eF0kUX) | 3:13 |
+| 93 | [DARK GAME](https://open.spotify.com/track/06yH03bQeE3qYbeD2lmNoG) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [DARK GAME](https://open.spotify.com/album/7KUSqIZLZE7YxCpgvUqTc5) | 3:32 |
 | 94 | [star flower](https://open.spotify.com/track/6GeWnXoGMZsCOsCSq6bdJs) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [star flower](https://open.spotify.com/album/4aM9vov58lJbJQRYwKDtAc) | 3:05 |
 | 95 | [桜みたいな恋なんだ](https://open.spotify.com/track/1j7MlnIcZI7RLYFqFmUh5W) | [miwa](https://open.spotify.com/artist/3R3WEsfL1WC1zLiz3XG9K5) | [桜みたいな恋なんだ](https://open.spotify.com/album/03rGHXn48rNINzu3nl5lVf) | 3:52 |
 | 96 | [覚め醒め](https://open.spotify.com/track/2BmI3mFKAObxWTQIEL6hms) | [BIGYUKI](https://open.spotify.com/artist/5bQhICu3eC2RFDr4OPRQHq), [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [禁じ手](https://open.spotify.com/album/0zOYbmHO5dAdRM6c7KyK00) | 3:29 |

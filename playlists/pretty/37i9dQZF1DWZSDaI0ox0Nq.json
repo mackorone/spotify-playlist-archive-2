@@ -1,6 +1,6 @@
 {
   "description": "Mujeres que escriben la historia del Tango. Foto: Julieta Laso.",
-  "num_followers": 22269,
+  "num_followers": 22274,
   "original_name": "Mujeres del Tango",
   "owner": {
     "name": "Spotify",
@@ -783,22 +783,6 @@
     {
       "added_at": "2024-08-02 17:18:29",
       "album": {
-        "name": "Virginia Luque Interpreta a Disc\u00e9polo",
-        "url": "https://open.spotify.com/album/3fHmSlpFfyNaP33X9CKYZF"
-      },
-      "artists": [
-        {
-          "name": "Virginia Luque",
-          "url": "https://open.spotify.com/artist/3l9sNbRTss6iqUdZq6R8Wc"
-        }
-      ],
-      "duration_ms": 210373,
-      "name": "Cafet\u00edn de Buenos Aires",
-      "url": "https://open.spotify.com/track/36NEktz9d2npV7RojXQJNU"
-    },
-    {
-      "added_at": "2024-08-02 17:18:29",
-      "album": {
         "name": "Marioneta",
         "url": "https://open.spotify.com/album/1PLdRsYPzD1sttkZmst1Dz"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 236599,
       "name": "Marioneta",
       "url": "https://open.spotify.com/track/2aT4StMRbiUHCA1Y41cNuT"
+    },
+    {
+      "added_at": "2024-08-02 17:18:29",
+      "album": {
+        "name": "Virginia Luque Interpreta a Disc\u00e9polo",
+        "url": "https://open.spotify.com/album/3fHmSlpFfyNaP33X9CKYZF"
+      },
+      "artists": [
+        {
+          "name": "Virginia Luque",
+          "url": "https://open.spotify.com/artist/3l9sNbRTss6iqUdZq6R8Wc"
+        }
+      ],
+      "duration_ms": 210373,
+      "name": "Cafet\u00edn de Buenos Aires",
+      "url": "https://open.spotify.com/track/36NEktz9d2npV7RojXQJNU"
     },
     {
       "added_at": "2024-08-02 17:18:29",
@@ -887,22 +887,6 @@
     {
       "added_at": "2024-08-02 17:18:29",
       "album": {
-        "name": "Mujeres del Tango",
-        "url": "https://open.spotify.com/album/0piBCUMD8KTGPzDZJKi8ut"
-      },
-      "artists": [
-        {
-          "name": "Liliana Dominguez",
-          "url": "https://open.spotify.com/artist/4EnoBd9xImGMu78bSO2OSo"
-        }
-      ],
-      "duration_ms": 133000,
-      "name": "Malena",
-      "url": "https://open.spotify.com/track/1U0UYJWWUzmrJ0mhj9wwRw"
-    },
-    {
-      "added_at": "2024-08-02 17:18:29",
-      "album": {
         "name": "Plebeyas (Ellas, Yo y Superellas)",
         "url": "https://open.spotify.com/album/3PxWFYnFej0Uhb1DKCvkUI"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 155293,
       "name": "Madrugada y Soledad",
       "url": "https://open.spotify.com/track/4A8z6iDEj8fnk9hdzry5if"
+    },
+    {
+      "added_at": "2024-08-02 17:18:29",
+      "album": {
+        "name": "Mujeres del Tango",
+        "url": "https://open.spotify.com/album/0piBCUMD8KTGPzDZJKi8ut"
+      },
+      "artists": [
+        {
+          "name": "Liliana Dominguez",
+          "url": "https://open.spotify.com/artist/4EnoBd9xImGMu78bSO2OSo"
+        }
+      ],
+      "duration_ms": 133000,
+      "name": "Malena",
+      "url": "https://open.spotify.com/track/1U0UYJWWUzmrJ0mhj9wwRw"
     },
     {
       "added_at": "2024-08-02 17:18:29",

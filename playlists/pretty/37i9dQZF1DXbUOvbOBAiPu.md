@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > New music from Camille, Berre, Lola Young, Amelie Lens, Camille Yembe and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,943 likes - 119 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,949 likes - 119 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

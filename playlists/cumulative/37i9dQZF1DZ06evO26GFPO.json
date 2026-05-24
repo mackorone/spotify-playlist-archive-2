@@ -665,6 +665,28 @@
     },
     {
       "album": {
+        "name": "Exagerado",
+        "url": "https://open.spotify.com/album/3XdPngVdHy4PVByALGr7lr"
+      },
+      "artists": [
+        {
+          "name": "Replay",
+          "url": "https://open.spotify.com/artist/2sU3iCEcMHp4l2vR02pUqI"
+        },
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "date_added": "2026-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184500,
+      "name": "Exagerado",
+      "url": "https://open.spotify.com/track/1nRr0b7Fh3fe2qPPFbmdkJ"
+    },
+    {
+      "album": {
         "name": "Falta de Mim (Ao Vivo na Resenha Pagode e Chinelo)",
         "url": "https://open.spotify.com/album/0yCZjU7RGMo4fB7RUKnIS1"
       },
@@ -2470,7 +2492,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 156635,
       "name": "Zangadinha",
       "url": "https://open.spotify.com/track/4o31yQPBDncr20tBIEi9hM"

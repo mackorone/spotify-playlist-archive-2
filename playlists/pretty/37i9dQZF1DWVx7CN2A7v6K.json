@@ -1,6 +1,6 @@
 {
   "description": "A  blend of J-pop to soundtrack your perfect matcha moment.",
-  "num_followers": 22298,
+  "num_followers": 22372,
   "original_name": "Matcha J-Pop",
   "owner": {
     "name": "Spotify",
@@ -1495,8 +1495,8 @@
     {
       "added_at": "2026-05-08 10:04:33",
       "album": {
-        "name": "\u82b1",
-        "url": "https://open.spotify.com/album/5ZV6rLgTmKi9xVJxLEPKcw"
+        "name": "Prema",
+        "url": "https://open.spotify.com/album/6ELurkxQnAif7u5Vv6Wly9"
       },
       "artists": [
         {
@@ -1504,9 +1504,9 @@
           "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
         }
       ],
-      "duration_ms": 246699,
-      "name": "\u82b1",
-      "url": "https://open.spotify.com/track/5RIQU2JDuXC4NkLiHNNMon"
+      "duration_ms": 262840,
+      "name": "Prema",
+      "url": "https://open.spotify.com/track/0IByNT868RxZwmcj1rQgno"
     },
     {
       "added_at": "2026-05-08 10:04:33",
@@ -1559,38 +1559,6 @@
     {
       "added_at": "2026-05-08 10:04:33",
       "album": {
-        "name": "CAN'T BUY MY LOVE",
-        "url": "https://open.spotify.com/album/1TCG8A2sec3PlbTeB5qrWd"
-      },
-      "artists": [
-        {
-          "name": "YUI",
-          "url": "https://open.spotify.com/artist/5WBO8UyOuJ1l7ZBqqBimpO"
-        }
-      ],
-      "duration_ms": 209973,
-      "name": "CHE.R.RY",
-      "url": "https://open.spotify.com/track/6PBBGlTEVfUyfnmemrnhbp"
-    },
-    {
-      "added_at": "2026-05-08 10:04:33",
-      "album": {
-        "name": "Prema",
-        "url": "https://open.spotify.com/album/6ELurkxQnAif7u5Vv6Wly9"
-      },
-      "artists": [
-        {
-          "name": "Fujii Kaze",
-          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
-        }
-      ],
-      "duration_ms": 262840,
-      "name": "Prema",
-      "url": "https://open.spotify.com/track/0IByNT868RxZwmcj1rQgno"
-    },
-    {
-      "added_at": "2026-05-08 10:04:33",
-      "album": {
         "name": "THE KIDS",
         "url": "https://open.spotify.com/album/26wEPQqOBau2opcpN4e3aF"
       },
@@ -1603,6 +1571,38 @@
       "duration_ms": 298746,
       "name": "STAY TUNE",
       "url": "https://open.spotify.com/track/1KKc8f9ZiKFzOeRJJ3SYn7"
+    },
+    {
+      "added_at": "2026-05-08 10:04:33",
+      "album": {
+        "name": "\u82b1",
+        "url": "https://open.spotify.com/album/5ZV6rLgTmKi9xVJxLEPKcw"
+      },
+      "artists": [
+        {
+          "name": "Fujii Kaze",
+          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
+        }
+      ],
+      "duration_ms": 246699,
+      "name": "\u82b1",
+      "url": "https://open.spotify.com/track/5RIQU2JDuXC4NkLiHNNMon"
+    },
+    {
+      "added_at": "2026-05-08 10:04:33",
+      "album": {
+        "name": "CAN'T BUY MY LOVE",
+        "url": "https://open.spotify.com/album/1TCG8A2sec3PlbTeB5qrWd"
+      },
+      "artists": [
+        {
+          "name": "YUI",
+          "url": "https://open.spotify.com/artist/5WBO8UyOuJ1l7ZBqqBimpO"
+        }
+      ],
+      "duration_ms": 209973,
+      "name": "CHE.R.RY",
+      "url": "https://open.spotify.com/track/6PBBGlTEVfUyfnmemrnhbp"
     },
     {
       "added_at": "2026-05-08 10:04:33",

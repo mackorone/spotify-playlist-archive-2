@@ -1,12 +1,12 @@
 {
   "description": "This is Bethel Music. The essential tracks, all in one playlist.",
-  "num_followers": 208170,
+  "num_followers": 208172,
   "original_name": "This Is Bethel Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ag5LAAAAAAAbB8hSts51eobItIWcXKfY",
+  "snapshot_id": "ag+cgAAAAAD/7uG2CBa4s4C9dD5kRDEu",
   "tracks": [
     {
       "added_at": null,
@@ -535,26 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Peace, Vol. II",
-        "url": "https://open.spotify.com/album/0RbdblzaMNGge5MqeFAX9N"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Pat Barrett",
-          "url": "https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3"
-        }
-      ],
-      "duration_ms": 318210,
-      "name": "Build My Life",
-      "url": "https://open.spotify.com/track/7B1BYCWX0YDC05EupWI8dN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Homecoming (Live)",
         "url": "https://open.spotify.com/album/4RROYQpwPTYq9yJVWxYDxz"
       },
@@ -571,6 +551,26 @@
       "duration_ms": 633462,
       "name": "Too Good To Not Believe (Live)",
       "url": "https://open.spotify.com/track/19HEhNwTDEciyWL62zvEf9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Peace, Vol. II",
+        "url": "https://open.spotify.com/album/0RbdblzaMNGge5MqeFAX9N"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Pat Barrett",
+          "url": "https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3"
+        }
+      ],
+      "duration_ms": 318210,
+      "name": "Build My Life",
+      "url": "https://open.spotify.com/track/7B1BYCWX0YDC05EupWI8dN"
     },
     {
       "added_at": null,
@@ -815,6 +815,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Without Words: Synesthesia",
+        "url": "https://open.spotify.com/album/0O7oDrkgr0TWlyChIOosiG"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        }
+      ],
+      "duration_ms": 248910,
+      "name": "Luminosity",
+      "url": "https://open.spotify.com/track/34yggSxAScYbY0cAKjh4G6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Homecoming (Live)",
         "url": "https://open.spotify.com/album/4RROYQpwPTYq9yJVWxYDxz"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 315767,
       "name": "My King Forever (Live)",
       "url": "https://open.spotify.com/track/77hZXcf7yhZ1Rny964UTgg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Without Words: Synesthesia",
-        "url": "https://open.spotify.com/album/0O7oDrkgr0TWlyChIOosiG"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        }
-      ],
-      "duration_ms": 248910,
-      "name": "Luminosity",
-      "url": "https://open.spotify.com/track/34yggSxAScYbY0cAKjh4G6"
     },
     {
       "added_at": null,
@@ -955,6 +955,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Without Words: Genesis",
+        "url": "https://open.spotify.com/album/6i1NqxIGiZ5PmI4LAXDF4H"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        }
+      ],
+      "duration_ms": 299906,
+      "name": "This Is a Move",
+      "url": "https://open.spotify.com/track/3y3NMcB0IuMKrLbqwFKU8N"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Holy Hands (Live)",
         "url": "https://open.spotify.com/album/0TlNPCiRxU36TmSo9ovB6P"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 434745,
       "name": "Holy Hands - Live",
       "url": "https://open.spotify.com/track/1CRnlPeWgRyep3kfulcaVp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Without Words: Genesis",
-        "url": "https://open.spotify.com/album/6i1NqxIGiZ5PmI4LAXDF4H"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        }
-      ],
-      "duration_ms": 299906,
-      "name": "This Is a Move",
-      "url": "https://open.spotify.com/track/3y3NMcB0IuMKrLbqwFKU8N"
     },
     {
       "added_at": null,

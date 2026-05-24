@@ -1,6 +1,6 @@
 {
   "description": "La playlist \u00e0 la cool pour accompagner votre d\u00eener !",
-  "num_followers": 187627,
+  "num_followers": 187664,
   "original_name": "D\u00eener entre amis",
   "owner": {
     "name": "Spotify",
@@ -535,6 +535,22 @@
     {
       "added_at": "2026-05-21 22:00:48",
       "album": {
+        "name": "everyone for ten minutes",
+        "url": "https://open.spotify.com/album/7fVpvNHItOKonMGgbhHL5o"
+      },
+      "artists": [
+        {
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+        }
+      ],
+      "duration_ms": 184761,
+      "name": "we should talk",
+      "url": "https://open.spotify.com/track/5xqxq73BSIr3303mn1Dnqz"
+    },
+    {
+      "added_at": "2026-05-21 22:00:48",
+      "album": {
         "name": "I Got Dem Ol' Kozmic Blues Again Mama!",
         "url": "https://open.spotify.com/album/5rFRfDq52l2l5RtS5kxA9A"
       },
@@ -711,22 +727,6 @@
     {
       "added_at": "2026-05-21 22:00:48",
       "album": {
-        "name": "Lay Low",
-        "url": "https://open.spotify.com/album/06TZNVLfMrf0vtk0WsYwj4"
-      },
-      "artists": [
-        {
-          "name": "Lou Doillon",
-          "url": "https://open.spotify.com/artist/05TeWWFqSVEUurt1lVhh4q"
-        }
-      ],
-      "duration_ms": 166080,
-      "name": "Where To Start",
-      "url": "https://open.spotify.com/track/2bhfHrX4IJzF62XKzqZpPX"
-    },
-    {
-      "added_at": "2026-05-21 22:00:48",
-      "album": {
         "name": "Forward",
         "url": "https://open.spotify.com/album/2UCpwkWg7BuHe2bHD0MTfC"
       },
@@ -743,6 +743,22 @@
       "duration_ms": 212532,
       "name": "Save a Little Love for Me",
       "url": "https://open.spotify.com/track/6lqxlJWNaykLli5cIXMf7l"
+    },
+    {
+      "added_at": "2026-05-21 22:00:48",
+      "album": {
+        "name": "Lay Low",
+        "url": "https://open.spotify.com/album/06TZNVLfMrf0vtk0WsYwj4"
+      },
+      "artists": [
+        {
+          "name": "Lou Doillon",
+          "url": "https://open.spotify.com/artist/05TeWWFqSVEUurt1lVhh4q"
+        }
+      ],
+      "duration_ms": 166080,
+      "name": "Where To Start",
+      "url": "https://open.spotify.com/track/2bhfHrX4IJzF62XKzqZpPX"
     },
     {
       "added_at": "2026-05-21 22:00:48",
@@ -987,22 +1003,6 @@
     {
       "added_at": "2026-05-21 22:00:48",
       "album": {
-        "name": "Slow Tonight",
-        "url": "https://open.spotify.com/album/0dShMq1RPDfB7BSS7O3xRc"
-      },
-      "artists": [
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        }
-      ],
-      "duration_ms": 192495,
-      "name": "Slow Tonight",
-      "url": "https://open.spotify.com/track/2H3L0xj5L4OlYFlRjhJQN5"
-    },
-    {
-      "added_at": "2026-05-21 22:00:48",
-      "album": {
         "name": "La prima estate",
         "url": "https://open.spotify.com/album/2Fk5qciqtmhk0QjEUlLIgB"
       },
@@ -1015,6 +1015,22 @@
       "duration_ms": 240435,
       "name": "La prima estate",
       "url": "https://open.spotify.com/track/6vtG5IMWKidt5K54DCSUo6"
+    },
+    {
+      "added_at": "2026-05-21 22:00:48",
+      "album": {
+        "name": "Slow Tonight",
+        "url": "https://open.spotify.com/album/0dShMq1RPDfB7BSS7O3xRc"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "duration_ms": 192495,
+      "name": "Slow Tonight",
+      "url": "https://open.spotify.com/track/2H3L0xj5L4OlYFlRjhJQN5"
     },
     {
       "added_at": "2026-05-21 22:00:48",
@@ -1067,22 +1083,6 @@
     {
       "added_at": "2026-05-21 22:00:48",
       "album": {
-        "name": "Southern Belle",
-        "url": "https://open.spotify.com/album/5bJzqmUqzXnZkLak46bLvb"
-      },
-      "artists": [
-        {
-          "name": "Zach Hood",
-          "url": "https://open.spotify.com/artist/5aHlyw2WWqZW0HLICBuv7U"
-        }
-      ],
-      "duration_ms": 185400,
-      "name": "Southern Belle",
-      "url": "https://open.spotify.com/track/4tebTUgVtx7pLxT99gIwYg"
-    },
-    {
-      "added_at": "2026-05-21 22:00:48",
-      "album": {
         "name": "La Llorona",
         "url": "https://open.spotify.com/album/7J8k8Y7zfCFKMPWzUPGVuP"
       },
@@ -1095,6 +1095,22 @@
       "duration_ms": 255360,
       "name": "De Cara a la Pared",
       "url": "https://open.spotify.com/track/3mnSq0DGKWTZcU3ccymC79"
+    },
+    {
+      "added_at": "2026-05-21 22:00:48",
+      "album": {
+        "name": "Southern Belle",
+        "url": "https://open.spotify.com/album/5bJzqmUqzXnZkLak46bLvb"
+      },
+      "artists": [
+        {
+          "name": "Zach Hood",
+          "url": "https://open.spotify.com/artist/5aHlyw2WWqZW0HLICBuv7U"
+        }
+      ],
+      "duration_ms": 185400,
+      "name": "Southern Belle",
+      "url": "https://open.spotify.com/track/4tebTUgVtx7pLxT99gIwYg"
     },
     {
       "added_at": "2026-05-21 22:00:48",
@@ -1247,26 +1263,6 @@
     {
       "added_at": "2026-05-21 22:00:48",
       "album": {
-        "name": "Tunnel Vision",
-        "url": "https://open.spotify.com/album/38DX6jJd8fkTr2wwM2ECdL"
-      },
-      "artists": [
-        {
-          "name": "Beach Bunny",
-          "url": "https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H"
-        },
-        {
-          "name": "Aly & AJ",
-          "url": "https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i"
-        }
-      ],
-      "duration_ms": 208719,
-      "name": "Clueless (feat. Aly & AJ)",
-      "url": "https://open.spotify.com/track/2MPzUXWuyMkO8UwSRSIRsl"
-    },
-    {
-      "added_at": "2026-05-21 22:00:48",
-      "album": {
         "name": "Umoja",
         "url": "https://open.spotify.com/album/0gvs6tpyGn2LuvkRwmMdAA"
       },
@@ -1287,6 +1283,22 @@
     {
       "added_at": "2026-05-21 22:00:48",
       "album": {
+        "name": "Sacatela",
+        "url": "https://open.spotify.com/album/06nue4Ry0BmfBW1aX3RWNe"
+      },
+      "artists": [
+        {
+          "name": "La Femme",
+          "url": "https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI"
+        }
+      ],
+      "duration_ms": 172026,
+      "name": "Sacatela",
+      "url": "https://open.spotify.com/track/7AQSnI0NylqRyXJTvN1Aku"
+    },
+    {
+      "added_at": "2026-05-21 22:00:48",
+      "album": {
         "name": "Everything in Between",
         "url": "https://open.spotify.com/album/0R3yHrPZWGb5QkDhZt5cCK"
       },
@@ -1303,18 +1315,22 @@
     {
       "added_at": "2026-05-21 22:00:48",
       "album": {
-        "name": "Sacatela",
-        "url": "https://open.spotify.com/album/06nue4Ry0BmfBW1aX3RWNe"
+        "name": "Tunnel Vision",
+        "url": "https://open.spotify.com/album/38DX6jJd8fkTr2wwM2ECdL"
       },
       "artists": [
         {
-          "name": "La Femme",
-          "url": "https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI"
+          "name": "Beach Bunny",
+          "url": "https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H"
+        },
+        {
+          "name": "Aly & AJ",
+          "url": "https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i"
         }
       ],
-      "duration_ms": 172026,
-      "name": "Sacatela",
-      "url": "https://open.spotify.com/track/7AQSnI0NylqRyXJTvN1Aku"
+      "duration_ms": 208719,
+      "name": "Clueless (feat. Aly & AJ)",
+      "url": "https://open.spotify.com/track/2MPzUXWuyMkO8UwSRSIRsl"
     },
     {
       "added_at": "2026-05-21 22:00:48",
@@ -1339,26 +1355,6 @@
     {
       "added_at": "2026-05-21 22:00:48",
       "album": {
-        "name": "What's On Your Mind",
-        "url": "https://open.spotify.com/album/3Zba9cZ8EP1DBcvjnVNrG6"
-      },
-      "artists": [
-        {
-          "name": "Arkells",
-          "url": "https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk"
-        },
-        {
-          "name": "Poolside",
-          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
-        }
-      ],
-      "duration_ms": 212023,
-      "name": "What\u2019s On Your Mind",
-      "url": "https://open.spotify.com/track/2DOKvJS61usFOxobo7jLi0"
-    },
-    {
-      "added_at": "2026-05-21 22:00:48",
-      "album": {
         "name": "Angus & Julia Stone",
         "url": "https://open.spotify.com/album/3VT2E4zmRmdn1EZw5U4HK6"
       },
@@ -1375,22 +1371,22 @@
     {
       "added_at": "2026-05-21 22:00:48",
       "album": {
-        "name": "Paradis bleu",
-        "url": "https://open.spotify.com/album/5AFmjJeQX1DxFO1YB5S7Dg"
+        "name": "What's On Your Mind",
+        "url": "https://open.spotify.com/album/3Zba9cZ8EP1DBcvjnVNrG6"
       },
       "artists": [
         {
-          "name": "Revers Gagnant",
-          "url": "https://open.spotify.com/artist/1JJFKIcDjsMUEJAini15V8"
+          "name": "Arkells",
+          "url": "https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk"
         },
         {
-          "name": "Matild",
-          "url": "https://open.spotify.com/artist/556svfNK6nfvqu9F6N4Eok"
+          "name": "Poolside",
+          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
         }
       ],
-      "duration_ms": 237913,
-      "name": "Paradis bleu",
-      "url": "https://open.spotify.com/track/0iLicFNAMT18xb36wBrRNl"
+      "duration_ms": 212023,
+      "name": "What\u2019s On Your Mind",
+      "url": "https://open.spotify.com/track/2DOKvJS61usFOxobo7jLi0"
     },
     {
       "added_at": "2026-05-21 22:00:48",
@@ -1427,18 +1423,22 @@
     {
       "added_at": "2026-05-21 22:00:48",
       "album": {
-        "name": "davina mccall",
-        "url": "https://open.spotify.com/album/1tqnxJ9J0mbOv9deIp4wwf"
+        "name": "Paradis bleu",
+        "url": "https://open.spotify.com/album/5AFmjJeQX1DxFO1YB5S7Dg"
       },
       "artists": [
         {
-          "name": "Wet Leg",
-          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+          "name": "Revers Gagnant",
+          "url": "https://open.spotify.com/artist/1JJFKIcDjsMUEJAini15V8"
+        },
+        {
+          "name": "Matild",
+          "url": "https://open.spotify.com/artist/556svfNK6nfvqu9F6N4Eok"
         }
       ],
-      "duration_ms": 227794,
-      "name": "davina mccall",
-      "url": "https://open.spotify.com/track/1a7ZPKYilBFgAX05MmDeBM"
+      "duration_ms": 237913,
+      "name": "Paradis bleu",
+      "url": "https://open.spotify.com/track/0iLicFNAMT18xb36wBrRNl"
     },
     {
       "added_at": "2026-05-21 22:00:48",
@@ -1455,6 +1455,22 @@
       "duration_ms": 212998,
       "name": "Jazz et th\u00e9 vert",
       "url": "https://open.spotify.com/track/2WqcyORimSvaAniUP81WNf"
+    },
+    {
+      "added_at": "2026-05-21 22:00:48",
+      "album": {
+        "name": "davina mccall",
+        "url": "https://open.spotify.com/album/1tqnxJ9J0mbOv9deIp4wwf"
+      },
+      "artists": [
+        {
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+        }
+      ],
+      "duration_ms": 227794,
+      "name": "davina mccall",
+      "url": "https://open.spotify.com/track/1a7ZPKYilBFgAX05MmDeBM"
     },
     {
       "added_at": "2026-05-21 22:00:48",
@@ -1631,22 +1647,6 @@
     {
       "added_at": "2026-05-21 22:00:48",
       "album": {
-        "name": "Superstar",
-        "url": "https://open.spotify.com/album/2CsUNscxXXxaA4uQPR1pJt"
-      },
-      "artists": [
-        {
-          "name": "BLOW",
-          "url": "https://open.spotify.com/artist/39HLbTdg48gwqAIa1CA266"
-        }
-      ],
-      "duration_ms": 198640,
-      "name": "Superstar",
-      "url": "https://open.spotify.com/track/6q62w26Uyzanb0iBu4yZK4"
-    },
-    {
-      "added_at": "2026-05-21 22:00:48",
-      "album": {
         "name": "Keyring",
         "url": "https://open.spotify.com/album/3FKSfxyMWYpbz7yUtVIohl"
       },
@@ -1659,6 +1659,22 @@
       "duration_ms": 198155,
       "name": "Keyring",
       "url": "https://open.spotify.com/track/0IY5BUE8RQCpMKN6712qwY"
+    },
+    {
+      "added_at": "2026-05-21 22:00:48",
+      "album": {
+        "name": "Superstar",
+        "url": "https://open.spotify.com/album/2CsUNscxXXxaA4uQPR1pJt"
+      },
+      "artists": [
+        {
+          "name": "BLOW",
+          "url": "https://open.spotify.com/artist/39HLbTdg48gwqAIa1CA266"
+        }
+      ],
+      "duration_ms": 198640,
+      "name": "Superstar",
+      "url": "https://open.spotify.com/track/6q62w26Uyzanb0iBu4yZK4"
     },
     {
       "added_at": "2026-05-21 22:00:48",
@@ -1695,26 +1711,6 @@
       "duration_ms": 138039,
       "name": "Something Inside Me",
       "url": "https://open.spotify.com/track/6d3T0nMjuKVyKdycqmExks"
-    },
-    {
-      "added_at": "2026-05-21 22:00:48",
-      "album": {
-        "name": "JET LAGGED",
-        "url": "https://open.spotify.com/album/1MqVWu2QqonaSzlpaBLKwV"
-      },
-      "artists": [
-        {
-          "name": "Lava La Rue",
-          "url": "https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43"
-        },
-        {
-          "name": "Foster The People",
-          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
-        }
-      ],
-      "duration_ms": 195454,
-      "name": "JET LAGGED",
-      "url": "https://open.spotify.com/track/482mvThJO7wdJJjymB9PmC"
     }
   ],
   "unique_name": "D\u00eener entre amis",

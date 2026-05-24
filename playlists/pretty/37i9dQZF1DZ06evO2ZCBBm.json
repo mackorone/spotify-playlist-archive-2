@@ -1,12 +1,12 @@
 {
   "description": "This is The Used. The essential tracks, all in one playlist.",
-  "num_followers": 49310,
+  "num_followers": 49308,
   "original_name": "This Is The Used",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ag5LAAAAAAAJLjR3InW0igTq94e25EAl",
+  "snapshot_id": "ag+cgAAAAACgSaWLyZy8BUOCm4+uBPlp",
   "tracks": [
     {
       "added_at": null,
@@ -647,22 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shallow Believer",
-        "url": "https://open.spotify.com/album/1x5yyz6449G5rrSqZA2qnU"
-      },
-      "artists": [
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 120640,
-      "name": "Choke Me",
-      "url": "https://open.spotify.com/track/1oditvPc1cjhCleCocVlhu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Toxic Positivity",
         "url": "https://open.spotify.com/album/3eFVX7tq5tCU0uqol29fis"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 168891,
       "name": "I Hate Everybody",
       "url": "https://open.spotify.com/track/5N7p0vxDpd6oxrrxJiisIv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shallow Believer",
+        "url": "https://open.spotify.com/album/1x5yyz6449G5rrSqZA2qnU"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 120640,
+      "name": "Choke Me",
+      "url": "https://open.spotify.com/track/1oditvPc1cjhCleCocVlhu"
     },
     {
       "added_at": null,
@@ -711,30 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "NEED",
-        "url": "https://open.spotify.com/album/1aMzqU6B4mJ78P6YBGYkaN"
-      },
-      "artists": [
-        {
-          "name": "3OH!3",
-          "url": "https://open.spotify.com/artist/0FWzNDaEu9jdgcYTbcOa4F"
-        },
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        },
-        {
-          "name": "Bert McCracken",
-          "url": "https://open.spotify.com/artist/7rEzlkwGjVgUXbWi0kDEAA"
-        }
-      ],
-      "duration_ms": 148642,
-      "name": "VAMPIRE'S DIET (with Bert McCracken of The Used)",
-      "url": "https://open.spotify.com/track/5Ay2ZYlRNc9KUlhPeJmse4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dearly Departed (feat. robbietheused)",
         "url": "https://open.spotify.com/album/7vkizSiGOH5kexkIRcfxwT"
       },
@@ -755,6 +731,30 @@
       "duration_ms": 196560,
       "name": "Dearly Departed (feat. robbietheused)",
       "url": "https://open.spotify.com/track/5j6F769jqaBlfBXSm5obT2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NEED",
+        "url": "https://open.spotify.com/album/1aMzqU6B4mJ78P6YBGYkaN"
+      },
+      "artists": [
+        {
+          "name": "3OH!3",
+          "url": "https://open.spotify.com/artist/0FWzNDaEu9jdgcYTbcOa4F"
+        },
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        },
+        {
+          "name": "Bert McCracken",
+          "url": "https://open.spotify.com/artist/7rEzlkwGjVgUXbWi0kDEAA"
+        }
+      ],
+      "duration_ms": 148642,
+      "name": "VAMPIRE'S DIET (with Bert McCracken of The Used)",
+      "url": "https://open.spotify.com/track/5Ay2ZYlRNc9KUlhPeJmse4"
     },
     {
       "added_at": null,

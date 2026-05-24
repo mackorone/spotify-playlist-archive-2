@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1KRZH6WH8qYgaVnagjjOFV.md) - [plain]
 
 > Top Christian Hits 2026 \| Best Christian songs of 2026\. NEW CHRISTIAN MUSIC! New Music Friday! Cover: <a href="https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4?si=k\_0tRBc\-QKaaJDlZqV9KHg">Jamie MacDonald</a>  cinco de mayo , soaking worship , jelly roll worship
 
-[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 374,346 likes - 135 songs - 8 hr 37 min
+[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 374,363 likes - 135 songs - 8 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

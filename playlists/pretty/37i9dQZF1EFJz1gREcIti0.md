@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJz1gREcIti0.md) - [plain]
 | 13 | [Off the Grid \(feat\. Khalid\)](https://open.spotify.com/track/4GiehPizxa2gziZ4DSedNs) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [It Was Divine](https://open.spotify.com/album/6aZ4ZtDzQNNIOFeHUj51No) | 3:20 |
 | 14 | [Beautiful Stranger](https://open.spotify.com/track/38TpUKiHQZyBKiD9LMMy6X) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 3:21 |
 | 15 | [To Me](https://open.spotify.com/track/2GckgBulcihNqUrjxyL4ef) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [It Was Divine](https://open.spotify.com/album/6aZ4ZtDzQNNIOFeHUj51No) | 4:17 |
-| 16 | [If You Let Me](https://open.spotify.com/track/2BfxLAYgetcxiyXJA7ItoF) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [Sunbeam](https://open.spotify.com/album/5BRZHdsYHxgipEIy5Am2Ig) | 2:15 |
-| 17 | [Tough Luck](https://open.spotify.com/track/0r2cXYL1ymt0kJUtK9eUNz) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Matter of Time](https://open.spotify.com/album/3ZWIfcV7tylRzVh6amRaDv) | 3:12 |
+| 16 | [Tough Luck](https://open.spotify.com/track/0r2cXYL1ymt0kJUtK9eUNz) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Matter of Time](https://open.spotify.com/album/3ZWIfcV7tylRzVh6amRaDv) | 3:12 |
+| 17 | [If You Let Me](https://open.spotify.com/track/2BfxLAYgetcxiyXJA7ItoF) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [Sunbeam](https://open.spotify.com/album/5BRZHdsYHxgipEIy5Am2Ig) | 2:15 |
 | 18 | [More Than Enough](https://open.spotify.com/track/6Zq6Ehha3XT94zBhEhUdsF) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [It Was Divine](https://open.spotify.com/album/6aZ4ZtDzQNNIOFeHUj51No) | 2:31 |
 | 19 | [Too Little, Too Late](https://open.spotify.com/track/1qJnr4Bm7OAauklV18Vdah) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Matter of Time](https://open.spotify.com/album/3ZWIfcV7tylRzVh6amRaDv) | 3:53 |
 | 20 | [forever&more](https://open.spotify.com/track/1BzYFQWjXHLZ0c7AGJtL1Z) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Rx](https://open.spotify.com/album/1PhcZ4Ov6ZxuaUZF8r9rbk) | 2:56 |
@@ -156,4 +156,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJz1gREcIti0.md) - [plain]
 | 146 | [Free Fall \- Edit](https://open.spotify.com/track/5rQtSoeRRO4y3d54z1Kd1f) | [Beckah Amani](https://open.spotify.com/artist/6AlUh97NNEBLo3OqYORyIi) | [Free Fall](https://open.spotify.com/album/4df4LmPcayUQczAkV63sn4) | 3:01 |
 | 147 | [Mockingbird](https://open.spotify.com/track/1AlxrPQuJNXOl3wQOXyv68) | [Paul Dally](https://open.spotify.com/artist/6OQd6IInCegvnBJ3eWeokE) | [Rave](https://open.spotify.com/album/4ETd0GtmlvoPnD8woGy2sX) | 3:28 |
 
-Snapshot ID: `AcSNXAAAAAAwqZMH6oHEvNwOKWdFjzjg`
+Snapshot ID: `AcSS/AAAAADHAwO2X6rGs1Zb8DqhARYG`

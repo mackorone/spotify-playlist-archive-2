@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0DB5ni.md) - [plain]
 
 > This is Julión Álvarez y su Norteño Banda\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 915,738 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 915,880 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0DB5ni.md) - [plain]
 | 47 | [Ya No](https://open.spotify.com/track/3AnmzU0AFDi4XkAk7aGJD3) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Atento Aviso ..\. Rey Sin Reina](https://open.spotify.com/album/38uizvY4xqOiAq750FDmW2) | 2:34 |
 | 48 | [Demente](https://open.spotify.com/track/642V8Exx3tLDW7yYrbKgCW) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Corazón Mágico](https://open.spotify.com/album/2X8z7fMtWHjzRBYCRj9IAI) | 2:34 |
 | 49 | [Te Dije](https://open.spotify.com/track/7nqb9Lio1yARXuEdlkNOJW) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [PRESENTE](https://open.spotify.com/album/0JoUcdNtc8iAKHGFj7Ppf9) | 2:23 |
-| 50 | [Amantes De Media Noche](https://open.spotify.com/track/6WzM7deH5S2v6E5pVgJl25) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Ni Lo Intentes](https://open.spotify.com/album/07A8pAHXqkucbE1KkZwfC0) | 2:48 |
+| 50 | [Hay Amores](https://open.spotify.com/track/3xdC10QJ54yltOq8r4fbXa) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC), [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Mis Ídolos, Hoy Mis Amigos!!!](https://open.spotify.com/album/4DQQ3pKX45A1Twok8WL0hc) | 3:15 |
 
-Snapshot ID: `ag5LAAAAAADfcY6b8njY0C7e/zG/ZWZX`
+Snapshot ID: `ag+cgAAAAADI2O3u+i+K4Q2yhGNlAiHe`

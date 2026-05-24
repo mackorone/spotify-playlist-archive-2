@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3uRjKu.md) - [plain]
 
 > This is Vilma Palma e Vampiros\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,000 likes - 50 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,008 likes - 50 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,18 +45,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3uRjKu.md) - [plain]
 | 35 | [Estúpida](https://open.spotify.com/track/6IiCJye3u6X8C83pR1WWLy) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Hecatombe Disco](https://open.spotify.com/album/2ZGCpjlSEH00JNwAPjY1o0) | 3:31 |
 | 36 | [Hasta Allá En El Cielo / Bye Bye](https://open.spotify.com/track/4SyICyHO6ZEP89IRbtMhNO) | [Uriel Lozano](https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw), [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Hasta Allá En El Cielo / Bye Bye](https://open.spotify.com/album/02NQhvzvCmfTuzhIJRRl5Y) | 5:34 |
 | 37 | [Toque de Queda](https://open.spotify.com/track/2k3SYulMPRrbKIMy1RQAZW) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Fondo Profundo](https://open.spotify.com/album/5pWGHHRgwAoZqBL2zsm7OT) | 6:02 |
-| 38 | [Hechicera Crayon](https://open.spotify.com/track/77eFgBJ4ZQPsSwN1z6AJxw) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Boomerang](https://open.spotify.com/album/1TY6aCob3FJIt3nj7irZPq) | 5:00 |
-| 39 | [La Noche Que Yo Te Vi](https://open.spotify.com/track/6UwLuzW1kxFiBniDJbv3R9) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Histeria](https://open.spotify.com/album/7J1w8Xh73iGF5SxiDmNZ6G) | 4:17 |
+| 38 | [La Noche Que Yo Te Vi](https://open.spotify.com/track/6UwLuzW1kxFiBniDJbv3R9) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Histeria](https://open.spotify.com/album/7J1w8Xh73iGF5SxiDmNZ6G) | 4:17 |
+| 39 | [Hechicera Crayon](https://open.spotify.com/track/77eFgBJ4ZQPsSwN1z6AJxw) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Boomerang](https://open.spotify.com/album/1TY6aCob3FJIt3nj7irZPq) | 5:00 |
 | 40 | [Agarrate Fuerte](https://open.spotify.com/track/6cjwjKXGIgRgr1PQzTfpfg) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Agarrate Fuerte](https://open.spotify.com/album/2tdA8vWfgt8YRHAcecbl3v) | 3:15 |
 | 41 | [La Caca del Bandido](https://open.spotify.com/track/7BgrrQesQnHXefzJsM9jKg) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [La Pachanga](https://open.spotify.com/album/6xEaCs71qwGCQJiotOycSr) | 3:22 |
-| 42 | [Nada Mas](https://open.spotify.com/track/5Dc4Z7HiEVrDOScK87J4hU) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Boomerang](https://open.spotify.com/album/1TY6aCob3FJIt3nj7irZPq) | 3:30 |
-| 43 | [Psicótico](https://open.spotify.com/track/6PuU2HHnLqiaUf1bKUMuHT) | [Elías Rampello](https://open.spotify.com/artist/1OO4dbmG9Fvz897JRIWiys), [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Psicótico](https://open.spotify.com/album/5Nb3kbLr4Y6I7SX25Xwzkc) | 3:21 |
+| 42 | [Lo Que Pienso de Vos \- En Vivo](https://open.spotify.com/track/3LiYI9owzjKP8jf239x53q) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Lo Que Pienso de Vos \(En Vivo\)](https://open.spotify.com/album/1M20GUHWHxe2b5tI0RKMYu) | 3:12 |
+| 43 | [Nada Mas](https://open.spotify.com/track/5Dc4Z7HiEVrDOScK87J4hU) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Boomerang](https://open.spotify.com/album/1TY6aCob3FJIt3nj7irZPq) | 3:30 |
 | 44 | [Reina del Club](https://open.spotify.com/track/6W3IFRjM8zedEfisG4BaFW) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Agarrate Fuerte](https://open.spotify.com/album/2tdA8vWfgt8YRHAcecbl3v) | 4:38 |
-| 45 | [Lo Que Pienso de Vos \- En Vivo](https://open.spotify.com/track/3LiYI9owzjKP8jf239x53q) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Lo Que Pienso de Vos \(En Vivo\)](https://open.spotify.com/album/1M20GUHWHxe2b5tI0RKMYu) | 3:12 |
-| 46 | [Vamos Linda](https://open.spotify.com/track/76SP2PwroHhOLu1Hg3s9Eu) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Boomerang](https://open.spotify.com/album/1TY6aCob3FJIt3nj7irZPq) | 3:15 |
-| 47 | [Bailalo](https://open.spotify.com/track/79gJbOIC4eUBfvWPiUPQcz) | [Agus Cassano](https://open.spotify.com/artist/5Jmui4kpdCfcyz8KFSpHRY), [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Bailalo](https://open.spotify.com/album/6xgu82r1BESKZptFU9E0cv) | 2:39 |
+| 45 | [Psicótico](https://open.spotify.com/track/6PuU2HHnLqiaUf1bKUMuHT) | [Elías Rampello](https://open.spotify.com/artist/1OO4dbmG9Fvz897JRIWiys), [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Psicótico](https://open.spotify.com/album/5Nb3kbLr4Y6I7SX25Xwzkc) | 3:21 |
+| 46 | [Bailalo](https://open.spotify.com/track/79gJbOIC4eUBfvWPiUPQcz) | [Agus Cassano](https://open.spotify.com/artist/5Jmui4kpdCfcyz8KFSpHRY), [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Bailalo](https://open.spotify.com/album/6xgu82r1BESKZptFU9E0cv) | 2:39 |
+| 47 | [Vamos Linda](https://open.spotify.com/track/76SP2PwroHhOLu1Hg3s9Eu) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Boomerang](https://open.spotify.com/album/1TY6aCob3FJIt3nj7irZPq) | 3:15 |
 | 48 | [Pasará](https://open.spotify.com/track/2yLPiANWzNWbULcpbQfk6x) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Agarrate Fuerte](https://open.spotify.com/album/2tdA8vWfgt8YRHAcecbl3v) | 4:27 |
 | 49 | [Ya Ves](https://open.spotify.com/track/3ETi80uYYe1gyGNir04jem) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Histeria](https://open.spotify.com/album/7J1w8Xh73iGF5SxiDmNZ6G) | 4:53 |
-| 50 | [Bumerang](https://open.spotify.com/track/2Vx2DZxRtEGAvmipf71Yaw) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Boomerang](https://open.spotify.com/album/1TY6aCob3FJIt3nj7irZPq) | 3:12 |
+| 50 | [Esperando en Hecatombe Disco](https://open.spotify.com/track/5RXBPLuRQVLJ769Tw77RN4) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Hecatombe Disco](https://open.spotify.com/album/2ZGCpjlSEH00JNwAPjY1o0) | 2:50 |
 
-Snapshot ID: `ag5LAAAAAADzbuI7RN3nz/ilnxXL5Zn8`
+Snapshot ID: `ag+cgAAAAAAZ+HcX10tNH8ZwAuMjdu1k`

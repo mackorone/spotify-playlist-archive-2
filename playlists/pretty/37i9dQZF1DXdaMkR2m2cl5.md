@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdaMkR2m2cl5.md) - [plain]
 
 > Soft, smoky undertones of singer\-songwriter sounds give way to lingering notes of rich, earthy chamber folk\. Cover: Glen Hansard.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,880 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,879 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdaMkR2m2cl5.md) - [plain]
 | 5 | [Falling Slowly](https://open.spotify.com/track/6EIVLz5xM1xE29r0OmIkWt) | [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0), [Markéta Irglová](https://open.spotify.com/artist/4SklVMGMsWTq7cJd9MixUx) | [Once \(Music From The Motion Picture\)](https://open.spotify.com/album/4BUG3kfPOB6DWVKKDY2icE) | 4:04 |
 | 6 | [Lebanon](https://open.spotify.com/track/2FYMVOK6wtkysaKuNWUfk9) | [Ondara](https://open.spotify.com/artist/33saQZHi434TBuDAXbyU2W) | [Tales Of America](https://open.spotify.com/album/22R1HI790HTi7EypEQcTZB) | 3:26 |
 | 7 | [Time Stands](https://open.spotify.com/track/1U2ahyThq23V2R7rgfOSRr) | [Nathaniel Rateliff](https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79) | [And It’s Still Alright](https://open.spotify.com/album/2bWrnSJNyGevb1pr2VYEGW) | 3:52 |
-| 8 | [She Burns](https://open.spotify.com/track/3rUw4cRDeYVZhjkUXBnFUQ) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [The Wild Swan](https://open.spotify.com/album/0njBaqTHPEL9qHsrT6NBVz) | 3:49 |
-| 9 | [Every Time I Hear That Song](https://open.spotify.com/track/0hoRmVUp5cZ1empu0nSHU8) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [By the Way, I Forgive You](https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l) | 4:01 |
+| 8 | [Every Time I Hear That Song](https://open.spotify.com/track/0hoRmVUp5cZ1empu0nSHU8) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [By the Way, I Forgive You](https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l) | 4:01 |
+| 9 | [She Burns](https://open.spotify.com/track/3rUw4cRDeYVZhjkUXBnFUQ) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [The Wild Swan](https://open.spotify.com/album/0njBaqTHPEL9qHsrT6NBVz) | 3:49 |
 | 10 | [9 Crimes](https://open.spotify.com/track/08YEGpKt2LHJ0URCXKHEie) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [9](https://open.spotify.com/album/4B7O0E5V0ntVTz41tCfPdF) | 3:39 |
 | 11 | [Lucky for You](https://open.spotify.com/track/19jTCAxeVnkwKnWHSsdg0i) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi), [Gia Margaret](https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C) | [No Fun / Lucky for You](https://open.spotify.com/album/7DVkaDX0Y47rRsJqgvHjyh) | 2:16 |
 | 12 | [Keep 'Em on They Toes](https://open.spotify.com/track/0f388trqcZyqGbPJUqGWpx) | [Brent Cobb](https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz) | [Keep 'Em on They Toes](https://open.spotify.com/album/0NrDp8wKKFdhyHSMlcHBnD) | 2:43 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdaMkR2m2cl5.md) - [plain]
 | 58 | [Fight](https://open.spotify.com/track/5kzRUNI7QprMwFFhHuNd8t) | [Mary Bragg](https://open.spotify.com/artist/72FO0BvoMxHvbQwbNrKqtj), [Robby Hecht](https://open.spotify.com/artist/0ZDm55WIaMpvEkX8cY1AAk) | [Violets as Camouflage](https://open.spotify.com/album/0KCa9BfM1VLKSzfxfM4EPk) | 4:15 |
 | 59 | [True North](https://open.spotify.com/track/3vbxHp7vq9jBcWmlwR5jTE) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [Gloria Duplex](https://open.spotify.com/album/33kQ6VPlEEAQTctQZQmd1b) | 4:13 |
 | 60 | [Wildwood Flower](https://open.spotify.com/track/6Hw1VP98PW5QMcOGOWw1Xo) | [Andrea von Kampen](https://open.spotify.com/artist/6ps9u0MZquDDBReh8XuBeY) | [Wildwood Flower](https://open.spotify.com/album/7aMiIpr39dyEbykG95vGDo) | 2:31 |
-| 61 | [Two Hearts](https://open.spotify.com/track/0uh5L0aTFSVxi7Dw29eN6L) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [For The Loved & Loveless](https://open.spotify.com/album/77cwbGS06HijohXkm0oDM2) | 3:53 |
-| 62 | [Take The Journey](https://open.spotify.com/track/597hPebsGeX5PkcHcFiort) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [Take The Journey](https://open.spotify.com/album/46negsjk9mq5mXpjWW7Me5) | 2:42 |
+| 61 | [Take The Journey](https://open.spotify.com/track/597hPebsGeX5PkcHcFiort) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [Take The Journey](https://open.spotify.com/album/46negsjk9mq5mXpjWW7Me5) | 2:42 |
+| 62 | [Two Hearts](https://open.spotify.com/track/0uh5L0aTFSVxi7Dw29eN6L) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [For The Loved & Loveless](https://open.spotify.com/album/77cwbGS06HijohXkm0oDM2) | 3:53 |
 | 63 | [A Drive Through the Countryside](https://open.spotify.com/track/366PD9y46HEbFLkOyraxMM) | [Lowland Hum](https://open.spotify.com/artist/37YxyxKbCL7as3bH2adwQE) | [A Drive Through the Countryside](https://open.spotify.com/album/6TUwtJ1lbA3Ovapr5cHbS4) | 2:14 |
 | 64 | [Paradise Bay](https://open.spotify.com/track/089pj5YyhzANXVGt42iFZG) | [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [Look Up & Fly Away](https://open.spotify.com/album/2ADmKspwLRXnHsLGX4ChdF) | 2:29 |
 | 65 | [Family Tapes](https://open.spotify.com/track/0wl2rHiiQRHAW41UHYOI1u) | [Dead Horses](https://open.spotify.com/artist/4dcU7cmzO3GECQGSKwl92z) | [Family Tapes](https://open.spotify.com/album/30skCuUg5LtMV2xodFxvnp) | 4:23 |

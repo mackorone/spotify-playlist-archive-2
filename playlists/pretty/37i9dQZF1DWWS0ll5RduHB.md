@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWS0ll5RduHB.md) - [plain]
 
 > 音楽をポケットに詰めて散歩に出かけよう。きっと新しい景色が見えてくるはず。
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,798 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,799 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,9 +34,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWS0ll5RduHB.md) - [plain]
 | 24 | [Asa No Uta](https://open.spotify.com/track/1wbnJ1AQ3xDXdk3nM9VpOd) | [Kanae](https://open.spotify.com/artist/3QE2AefsoyvHTdUxGMv5pq) | [Asa No Uta](https://open.spotify.com/album/1pRAOb82BQgt7Peve8YSen) | 2:23 |
 | 25 | [Telepono](https://open.spotify.com/track/77KJXJXoaBc1xHDiENrm71) | [ONE CLICK STRAIGHT](https://open.spotify.com/artist/457BGAQIRpxlvY5gcbDjUQ) | [Telepono](https://open.spotify.com/album/1NXEADwt5YkBNS9FTCaxAo) | 3:38 |
 | 26 | [Home \(feat\. Hikaru Utada\)](https://open.spotify.com/track/4V9fJ12KcWd78OSAqYNO9r) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [Home \(feat\. Hikaru Utada\)](https://open.spotify.com/album/3jIzQAsO6agpgpWRMOO8uF) | 3:44 |
-| 27 | [GOOD DAY](https://open.spotify.com/track/61UOoqGI1B9qdeD5Dzupyb) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [GOOD DAY](https://open.spotify.com/album/4TfNFjBYQEGxAdnWaXpbDv) | 4:17 |
+| 27 | [Something To Lose](https://open.spotify.com/track/78lR1li9wdwunwNoVYiBpE) | [STELLA LEFTY](https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2), [Vincent Mason](https://open.spotify.com/artist/6QJ5CE7ujPr7oZCURhFZVS) | [Something To Lose](https://open.spotify.com/album/7jBvgF3VkF58blzE4NWOye) | 2:55 |
 | 28 | [TOO MUCH TOO SOON](https://open.spotify.com/track/49t61aRaNkwrBc9A6uMhtq) | [Flare](https://open.spotify.com/artist/5fOFTVTh01fR3j1D0vpxOQ) | [TOO MUCH TOO SOON](https://open.spotify.com/album/2cqHjTfmhgn2OOVqvA6OHW) | 3:46 |
-| 29 | [Something To Lose](https://open.spotify.com/track/78lR1li9wdwunwNoVYiBpE) | [STELLA LEFTY](https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2), [Vincent Mason](https://open.spotify.com/artist/6QJ5CE7ujPr7oZCURhFZVS) | [Something To Lose](https://open.spotify.com/album/7jBvgF3VkF58blzE4NWOye) | 2:55 |
+| 29 | [GOOD DAY](https://open.spotify.com/track/61UOoqGI1B9qdeD5Dzupyb) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [GOOD DAY](https://open.spotify.com/album/4TfNFjBYQEGxAdnWaXpbDv) | 4:17 |
 | 30 | [otw](https://open.spotify.com/track/3Wh9QrUzz5sEkiZAVUB9o1) | [ONE CLICK STRAIGHT](https://open.spotify.com/artist/457BGAQIRpxlvY5gcbDjUQ) | [otw](https://open.spotify.com/album/1yRluH890LAb0yIo1Ce2GV) | 3:32 |
 | 31 | [If I Leave](https://open.spotify.com/track/4eMXMUkWS4aChMfA1UO4YJ) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Nothing's About to Happen to Me](https://open.spotify.com/album/2M9F3AsbWy7n4LwmJ8pqEu) | 3:00 |
 | 32 | [Beep\-Boop, Beep\-Boop](https://open.spotify.com/track/579uHOz2E7JtV3YNNOwJqu) | [Meaningful Stone](https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt) | [A Call from My Dream](https://open.spotify.com/album/7zY2ieneVxxTqhdY9c6Jio) | 3:23 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWS0ll5RduHB.md) - [plain]
 | 39 | [Prema](https://open.spotify.com/track/0IByNT868RxZwmcj1rQgno) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Prema](https://open.spotify.com/album/6ELurkxQnAif7u5Vv6Wly9) | 4:22 |
 | 40 | [Bunny Girl](https://open.spotify.com/track/5skCbGGAnc7Ns18Figz54h) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [Bunny Girl](https://open.spotify.com/album/1mxib3LFgnhuMciehemliH) | 3:37 |
 | 41 | [the van](https://open.spotify.com/track/4C2o68XUoLpjvncsNsgwjA) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [the van](https://open.spotify.com/album/70zrCL7WfIPJQcXqzhRAho) | 2:58 |
-| 42 | [Cruel World](https://open.spotify.com/track/6ixFBgPQbt7tII7yAShbT1) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Cruel World](https://open.spotify.com/album/0FTIFzNoKAbv4kjpjbRbDQ) | 3:26 |
-| 43 | [LOVE, LOVE, LOVE](https://open.spotify.com/track/3j49aLXWWkbjQyUyvngokI) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [LOVE, LOVE, LOVE](https://open.spotify.com/album/1blSqiJB7glrGiCVEQZG3f) | 4:02 |
+| 42 | [LOVE, LOVE, LOVE](https://open.spotify.com/track/3j49aLXWWkbjQyUyvngokI) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [LOVE, LOVE, LOVE](https://open.spotify.com/album/1blSqiJB7glrGiCVEQZG3f) | 4:02 |
+| 43 | [Cruel World](https://open.spotify.com/track/6ixFBgPQbt7tII7yAShbT1) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Cruel World](https://open.spotify.com/album/0FTIFzNoKAbv4kjpjbRbDQ) | 3:26 |
 | 44 | [Okay, Goodbye](https://open.spotify.com/track/1Vw0JiY6Jk8vCypHzb3fo4) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Prema](https://open.spotify.com/album/6ELurkxQnAif7u5Vv6Wly9) | 3:50 |
 | 45 | [さよーならまたいつか！\- Sayonara](https://open.spotify.com/track/6jRyCWUAnRVir3OK4jSZvV) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [さよーならまたいつか！\- Sayonara](https://open.spotify.com/album/3c9L5LsKV4lIK14pxGu0SG) | 3:21 |
 | 46 | [Beat Yourself Up](https://open.spotify.com/track/7dr9uWtuRR6sdFpRjk0mnN) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Beat Yourself Up](https://open.spotify.com/album/4UEzLrGegP8f1PyFEXaKKN) | 2:58 |

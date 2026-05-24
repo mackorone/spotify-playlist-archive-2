@@ -1,12 +1,12 @@
 {
   "description": "This is Osunlade. The essential tracks, all in one playlist.",
-  "num_followers": 3897,
+  "num_followers": 3899,
   "original_name": "This Is Osunlade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ag5LAAAAAABrHnjwjD4mo25E3BeVJTdF",
+  "snapshot_id": "ag+cgAAAAAANqBA38Z7AAzMLO5Zi02Gm",
   "tracks": [
     {
       "added_at": null,
@@ -323,22 +323,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MOSS",
-        "url": "https://open.spotify.com/album/692Z1gSYO1nWLKgSNrw74p"
-      },
-      "artists": [
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        }
-      ],
-      "duration_ms": 200647,
-      "name": "FLWN",
-      "url": "https://open.spotify.com/track/2THRRSfffrl3W0PPz6nTol"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "INvite ONly",
         "url": "https://open.spotify.com/album/7ILkptkE77YgKwCq7Gkhxa"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 258617,
       "name": "Plantation Earth",
       "url": "https://open.spotify.com/track/5ApNxXVJLVsCw6YFQmLJPm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MOSS",
+        "url": "https://open.spotify.com/album/692Z1gSYO1nWLKgSNrw74p"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 200647,
+      "name": "FLWN",
+      "url": "https://open.spotify.com/track/2THRRSfffrl3W0PPz6nTol"
     },
     {
       "added_at": null,
@@ -399,22 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MOSS",
-        "url": "https://open.spotify.com/album/692Z1gSYO1nWLKgSNrw74p"
-      },
-      "artists": [
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        }
-      ],
-      "duration_ms": 258604,
-      "name": "ELYODCIRE",
-      "url": "https://open.spotify.com/track/6n64nkwE2sepqPfHuQv1Q5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Drawing Board",
         "url": "https://open.spotify.com/album/1rhHpHi0n3ZqE9tP28SUVL"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 379013,
       "name": "We Call Love",
       "url": "https://open.spotify.com/track/5e6hni5EtDjcZcgFYYqPH2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MOSS",
+        "url": "https://open.spotify.com/album/692Z1gSYO1nWLKgSNrw74p"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 258604,
+      "name": "ELYODCIRE",
+      "url": "https://open.spotify.com/track/6n64nkwE2sepqPfHuQv1Q5"
     },
     {
       "added_at": null,
@@ -547,22 +547,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Exit Music - Songs with Radio Heads EP 4",
-        "url": "https://open.spotify.com/album/4TQcH4sJAp0hv7Tu9lgtOh"
+        "name": "MOSS",
+        "url": "https://open.spotify.com/album/692Z1gSYO1nWLKgSNrw74p"
       },
       "artists": [
         {
           "name": "Osunlade",
           "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        },
-        {
-          "name": "Erro",
-          "url": "https://open.spotify.com/artist/1OqARZ9xhHwxnxShurKYLK"
         }
       ],
-      "duration_ms": 398320,
-      "name": "Everything in Its Right Place",
-      "url": "https://open.spotify.com/track/3ulFB8nNu9NB1a5zUnTIgR"
+      "duration_ms": 171668,
+      "name": "The Roads Of Kenya",
+      "url": "https://open.spotify.com/track/4U2tDJDX9c2HEberB7B3ux"
     },
     {
       "added_at": null,
@@ -579,22 +575,6 @@
       "duration_ms": 236303,
       "name": "Natives Tongue",
       "url": "https://open.spotify.com/track/2CEsYinJFRDJfX2f3eiqu8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MOSS",
-        "url": "https://open.spotify.com/album/692Z1gSYO1nWLKgSNrw74p"
-      },
-      "artists": [
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        }
-      ],
-      "duration_ms": 171668,
-      "name": "The Roads Of Kenya",
-      "url": "https://open.spotify.com/track/4U2tDJDX9c2HEberB7B3ux"
     },
     {
       "added_at": null,
@@ -619,18 +599,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dedication EP",
-        "url": "https://open.spotify.com/album/0co2Fp51ywLHgX8sEl62qX"
+        "name": "Exit Music - Songs with Radio Heads EP 4",
+        "url": "https://open.spotify.com/album/4TQcH4sJAp0hv7Tu9lgtOh"
       },
       "artists": [
         {
           "name": "Osunlade",
           "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        },
+        {
+          "name": "Erro",
+          "url": "https://open.spotify.com/artist/1OqARZ9xhHwxnxShurKYLK"
         }
       ],
-      "duration_ms": 193560,
-      "name": "Cosmic Signs",
-      "url": "https://open.spotify.com/track/5fmqznIjOJS050oRCHAUCw"
+      "duration_ms": 398320,
+      "name": "Everything in Its Right Place",
+      "url": "https://open.spotify.com/track/3ulFB8nNu9NB1a5zUnTIgR"
     },
     {
       "added_at": null,
@@ -655,6 +639,22 @@
       "duration_ms": 425011,
       "name": "Cantos a Ochun et Oya - Juan Valentine Re-Edit",
       "url": "https://open.spotify.com/track/7CmRM4JiOswdLdF28NyajZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dedication EP",
+        "url": "https://open.spotify.com/album/0co2Fp51ywLHgX8sEl62qX"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 193560,
+      "name": "Cosmic Signs",
+      "url": "https://open.spotify.com/track/5fmqznIjOJS050oRCHAUCw"
     },
     {
       "added_at": null,
@@ -691,22 +691,6 @@
       "duration_ms": 182071,
       "name": "MOSS",
       "url": "https://open.spotify.com/track/0aVhniuf8aJR8KEgrbL9zb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Basic Sketches For Beginners",
-        "url": "https://open.spotify.com/album/52jbKRpd9w9aw47fKQckOF"
-      },
-      "artists": [
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        }
-      ],
-      "duration_ms": 590030,
-      "name": "Auto Machine",
-      "url": "https://open.spotify.com/track/5BOTahRcfhhdSllCVVWYnc"
     },
     {
       "added_at": null,
@@ -755,6 +739,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Basic Sketches For Beginners",
+        "url": "https://open.spotify.com/album/52jbKRpd9w9aw47fKQckOF"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 590030,
+      "name": "Auto Machine",
+      "url": "https://open.spotify.com/track/5BOTahRcfhhdSllCVVWYnc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "INvite ONly",
         "url": "https://open.spotify.com/album/7ILkptkE77YgKwCq7Gkhxa"
       },
@@ -787,6 +787,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pyrography",
+        "url": "https://open.spotify.com/album/0PHAAYBLx48pTXnYe5EsKH"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 304218,
+      "name": "Walkin' in Paris",
+      "url": "https://open.spotify.com/track/6FT47gn7jWEL31VHB41UZw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Dating Game",
+        "url": "https://open.spotify.com/album/4orENSlBaaazYeV7RY7yHI"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 366508,
+      "name": "Dating Game",
+      "url": "https://open.spotify.com/track/4gorL6Fj07RhhB5utjNkB0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Prism EP",
         "url": "https://open.spotify.com/album/4g4EPRLPyJClFMfvWf8Kby"
       },
@@ -803,8 +835,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pyrography",
-        "url": "https://open.spotify.com/album/0PHAAYBLx48pTXnYe5EsKH"
+        "name": "Spectrum",
+        "url": "https://open.spotify.com/album/4AlX0Yp66zFqstaHqFfJb5"
       },
       "artists": [
         {
@@ -812,9 +844,9 @@
           "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
         }
       ],
-      "duration_ms": 304218,
-      "name": "Walkin' in Paris",
-      "url": "https://open.spotify.com/track/6FT47gn7jWEL31VHB41UZw"
+      "duration_ms": 514164,
+      "name": "Black Woman Cry",
+      "url": "https://open.spotify.com/track/29Sx0bBroYHeykh7xSNdmD"
     },
     {
       "added_at": null,
@@ -843,8 +875,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spectrum",
-        "url": "https://open.spotify.com/album/4AlX0Yp66zFqstaHqFfJb5"
+        "name": "Pyrography",
+        "url": "https://open.spotify.com/album/0PHAAYBLx48pTXnYe5EsKH"
       },
       "artists": [
         {
@@ -852,9 +884,9 @@
           "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
         }
       ],
-      "duration_ms": 514164,
-      "name": "Black Woman Cry",
-      "url": "https://open.spotify.com/track/29Sx0bBroYHeykh7xSNdmD"
+      "duration_ms": 361000,
+      "name": "No Way",
+      "url": "https://open.spotify.com/track/1munpHmR7jwdF2X7OJrZ9U"
     },
     {
       "added_at": null,
@@ -875,8 +907,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Dating Game",
-        "url": "https://open.spotify.com/album/4orENSlBaaazYeV7RY7yHI"
+        "name": "Inner Garden",
+        "url": "https://open.spotify.com/album/1VTMe5fxuGQYhC91cKAvRa"
       },
       "artists": [
         {
@@ -884,41 +916,9 @@
           "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
         }
       ],
-      "duration_ms": 366508,
-      "name": "Dating Game",
-      "url": "https://open.spotify.com/track/4gorL6Fj07RhhB5utjNkB0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pyrography",
-        "url": "https://open.spotify.com/album/0PHAAYBLx48pTXnYe5EsKH"
-      },
-      "artists": [
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        }
-      ],
-      "duration_ms": 361000,
-      "name": "No Way",
-      "url": "https://open.spotify.com/track/1munpHmR7jwdF2X7OJrZ9U"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Aquarian Moon",
-        "url": "https://open.spotify.com/album/7L9DbyxlXNlTwrtsVBTYuy"
-      },
-      "artists": [
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        }
-      ],
-      "duration_ms": 400480,
-      "name": "Music For The Gods",
-      "url": "https://open.spotify.com/track/60mWMUdenqnSjEqPVOpomd"
+      "duration_ms": 429496,
+      "name": "Luv",
+      "url": "https://open.spotify.com/track/28khN5I8USrsWCrl1l01ra"
     }
   ],
   "unique_name": "This Is Osunlade",

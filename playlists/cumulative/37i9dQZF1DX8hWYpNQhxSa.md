@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [ \#3:ロイド×アーニャ 父と娘の回！ロイド過去編のアフレコの裏側](https://open.spotify.com/episode/1EbUOvkzgc9se1v187weR1) | [TVアニメ『SPY×FAMILY』オペレーション〈ポッドキャスト〉Season 3](https://open.spotify.com/show/0UbkIsQGHB3e0WdLfATYJk) | [TVアニメ『SPY×FAMILY』オペレーション〈ポッドキャスト〉Season 3](https://open.spotify.com/album/0UbkIsQGHB3e0WdLfATYJk) | 30:46 | 2025-10-24 |  |
+| [ \#3:ロイド×アーニャ 父と娘の回！ロイド過去編のアフレコの裏側](https://open.spotify.com/episode/1EbUOvkzgc9se1v187weR1) | [TVアニメ『SPY×FAMILY』オペレーション〈ポッドキャスト〉Season 3](https://open.spotify.com/show/0UbkIsQGHB3e0WdLfATYJk) | [TVアニメ『SPY×FAMILY』オペレーション〈ポッドキャスト〉Season 3](https://open.spotify.com/album/0UbkIsQGHB3e0WdLfATYJk) | 30:46 | 2025-10-24 | 2026-05-24 |
 | [\#01 アーニャ役の種﨑敦美さん「SPY×FAMILYって、〇〇がスゴイ！」](https://open.spotify.com/episode/6Df19NXTuQY7UqjIzI5YSN) | [SPY×FAMILY オペレーション〈ポッドキャスト〉](https://open.spotify.com/show/5vSDpbHdx2YaXQPWzLSFri) | [SPY×FAMILY オペレーション〈ポッドキャスト〉](https://open.spotify.com/show/5vSDpbHdx2YaXQPWzLSFri) | 26:02 | 2022-12-20 | 2023-01-20 |
 | [\#02 アーニャ役の種﨑敦美さん「フォージャー家を繋ぐのは○○○！」](https://open.spotify.com/episode/02o3oVpkn05BiUCCeMn073) | [SPY×FAMILY オペレーション〈ポッドキャスト〉](https://open.spotify.com/show/5vSDpbHdx2YaXQPWzLSFri) | [SPY×FAMILY オペレーション〈ポッドキャスト〉](https://open.spotify.com/show/5vSDpbHdx2YaXQPWzLSFri) | 29:20 | 2022-12-20 | 2023-01-20 |
 | [\#03 フォージャー家の３人が勢揃い！「自宅で１番落ち着く場所は●●●●！」](https://open.spotify.com/episode/0zi55Uy9QUHQTNhEDLpnIH) | [SPY×FAMILY オペレーション〈ポッドキャスト〉](https://open.spotify.com/show/5vSDpbHdx2YaXQPWzLSFri) | [SPY×FAMILY オペレーション〈ポッドキャスト〉](https://open.spotify.com/show/5vSDpbHdx2YaXQPWzLSFri) | 29:49 | 2022-12-20 | 2023-01-20 |

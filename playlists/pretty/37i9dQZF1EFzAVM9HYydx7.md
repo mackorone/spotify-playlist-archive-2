@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5OF1YU2YzcMyFem3Fi4M3E">Boi\-1da</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,071 likes - 311 songs - 18 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,072 likes - 311 songs - 18 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 | 33 | [Make Believe](https://open.spotify.com/track/1goNZsIE8w3NQOzlP40veh) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Death Race For Love \(Bonus Track Version\)](https://open.spotify.com/album/1btu0SV2DOI5HoFsvUd78F) | 2:22 |
 | 34 | [wonderful](https://open.spotify.com/track/1cZlBZwnwGPtYeRIeQcoFh) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Birds In The Trap Sing McKnight](https://open.spotify.com/album/42WVQWuf1teDysXiOupIZt) | 3:36 |
 | 35 | [Fukk Sleep \(feat\. FKA twigs\)](https://open.spotify.com/track/1AqemxWsT0iGg5Lvkm16Bt) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [TESTING](https://open.spotify.com/album/3MATDdrpHmQCmuOcozZjDa) | 3:12 |
-| 36 | [Nail Tech](https://open.spotify.com/track/3ioJs8DQw527GmqJIp5gZG) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Come Home The Kids Miss You](https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw) | 3:26 |
-| 37 | [Up All Night](https://open.spotify.com/track/75L0qdzRnhwV62UXoNq3pE) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Thank Me Later](https://open.spotify.com/album/6jlrjFR9mJV3jd1IPSplXU) | 3:54 |
+| 36 | [Up All Night](https://open.spotify.com/track/75L0qdzRnhwV62UXoNq3pE) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Thank Me Later](https://open.spotify.com/album/6jlrjFR9mJV3jd1IPSplXU) | 3:54 |
+| 37 | [Nail Tech](https://open.spotify.com/track/3ioJs8DQw527GmqJIp5gZG) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Come Home The Kids Miss You](https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw) | 3:26 |
 | 38 | [High School](https://open.spotify.com/track/3UrNOHCzVxX2KZbNcKQAyu) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Pink Friday: Roman Reloaded The Re\-Up \(Explicit Version\)](https://open.spotify.com/album/22F5ZYY1sxoJjk6HzZfmC1) | 3:38 |
 | 39 | [Back To Sleep](https://open.spotify.com/track/6dlpABcXrQKRU9G00i6Zba) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Royalty \(Deluxe Version\)](https://open.spotify.com/album/0VWmEVuQ8tA5iA3cCTrgxa) | 3:21 |
 | 40 | [Push Ups](https://open.spotify.com/track/3eh51r6rFWAlGQRlHx9QnQ) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Push Ups](https://open.spotify.com/album/06me0leRR3AuF4IFiEytml) | 3:52 |
@@ -207,8 +207,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 | 197 | [Up In Flames](https://open.spotify.com/track/5k3LD7YYDR0VSnnnLyiweo) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Pink Friday: Roman Reloaded The Re\-Up \(Explicit Version\)](https://open.spotify.com/album/22F5ZYY1sxoJjk6HzZfmC1) | 5:05 |
 | 198 | [Scary Nights](https://open.spotify.com/track/0OwSIR2cx1HhPVR2eWNQu1) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [Scary Nights](https://open.spotify.com/album/77Q0xwlCfFLhUNO1Sh8ORM) | 3:56 |
 | 199 | [A Mess \(feat\. Lucky Daye\)](https://open.spotify.com/track/3HgJ1aYlEgy8Yj1NMAe1pm) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Heart On My Sleeve](https://open.spotify.com/album/6p5jJLTFiYgk95HhW0unhy) | 3:53 |
-| 200 | [NBA \(feat\. Wiz Khalifa and French Montana\)](https://open.spotify.com/track/2tZGjqVZJzHiXLvhlBMN6t) | [Joe Budden](https://open.spotify.com/artist/1SAugjIcuwNPKS4urSB7A6), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [No Love Lost](https://open.spotify.com/album/2kChyU6pvb9C2JM7OTSi2T) | 5:05 |
-| 201 | [I'M ON](https://open.spotify.com/track/0FyRrCNUbl5Gy5HOuJW0aX) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [SET IT OFF](https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E) | 3:25 |
+| 200 | [I'M ON](https://open.spotify.com/track/0FyRrCNUbl5Gy5HOuJW0aX) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [SET IT OFF](https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E) | 3:25 |
+| 201 | [NBA \(feat\. Wiz Khalifa and French Montana\)](https://open.spotify.com/track/2tZGjqVZJzHiXLvhlBMN6t) | [Joe Budden](https://open.spotify.com/artist/1SAugjIcuwNPKS4urSB7A6), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [No Love Lost](https://open.spotify.com/album/2kChyU6pvb9C2JM7OTSi2T) | 5:05 |
 | 202 | [I Love Me](https://open.spotify.com/track/5D4368CnI6V8iMVeE8LyQA) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [I Love Me](https://open.spotify.com/album/47cpDbkNcM4FcEKcAoYLyE) | 3:11 |
 | 203 | [Rapper Estates \(feat\. Benny The Butcher\)](https://open.spotify.com/track/3cYuqoOhuXjx4iB9ttHn6E) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T) | [Richer Than I Ever Been](https://open.spotify.com/album/5cZ23u1lWxszHiUokH6LnJ) | 3:23 |
 | 204 | [Immigration To The Trap](https://open.spotify.com/track/5bePAvg3OIBTCmWB9j430m) | [Belly](https://open.spotify.com/artist/0FOWNUFHPnMy0vOw1siGqi) | [Mumble Rap](https://open.spotify.com/album/04XJbeTbd7CvN0eXwe4K8P) | 1:53 |
@@ -320,4 +320,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 | 310 | [Love Me Til I Die](https://open.spotify.com/track/4GLENDZP3pxlrzpkQDITWt) | [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB) | [Talk A Good Game \(Deluxe Edition\)](https://open.spotify.com/album/2oPT6EoZENUaEzT03RoG6C) | 4:18 |
 | 311 | [Whatever Became Of You](https://open.spotify.com/track/1Ycr1YY3M9ITVVNhXIAp2J) | [Colin Munroe](https://open.spotify.com/artist/7IF7emaerV9vIoAjey6IHe) | [Unsung Hero](https://open.spotify.com/album/1UPa8cbZK9mpKAkG0tjJTi) | 4:46 |
 
-Snapshot ID: `AcSNUgAAAAD0YM3Wt5U4WNbbP2BEHhxK`
+Snapshot ID: `AcSS8gAAAAAetU74YMJZBhcxehV7J4nd`

@@ -1,6 +1,6 @@
 {
   "description": "Sommer f\u00fcr immer!",
-  "num_followers": 427328,
+  "num_followers": 427513,
   "original_name": "Sommerklassiker",
   "owner": {
     "name": "Spotify",
@@ -99,22 +99,6 @@
     {
       "added_at": "2025-07-08 16:22:28",
       "album": {
-        "name": "Beauty Behind The Madness",
-        "url": "https://open.spotify.com/album/0P3oVJBFOv3TDXlYRhGL7s"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 213520,
-      "name": "Can't Feel My Face",
-      "url": "https://open.spotify.com/track/22VdIZQfgXJea34mQxlt81"
-    },
-    {
-      "added_at": "2025-07-08 16:22:28",
-      "album": {
         "name": "DNCE",
         "url": "https://open.spotify.com/album/3Wv4X8OA65pGpFzBkuUgAh"
       },
@@ -127,6 +111,22 @@
       "duration_ms": 219146,
       "name": "Cake By The Ocean",
       "url": "https://open.spotify.com/track/76hfruVvmfQbw0eYn1nmeC"
+    },
+    {
+      "added_at": "2025-07-08 16:22:28",
+      "album": {
+        "name": "Beauty Behind The Madness",
+        "url": "https://open.spotify.com/album/0P3oVJBFOv3TDXlYRhGL7s"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 213520,
+      "name": "Can't Feel My Face",
+      "url": "https://open.spotify.com/track/22VdIZQfgXJea34mQxlt81"
     },
     {
       "added_at": "2025-07-08 16:22:28",
@@ -227,6 +227,22 @@
     {
       "added_at": "2025-07-08 16:22:28",
       "album": {
+        "name": "Pr\u00f3xima Estaci\u00f3n: Esperanza",
+        "url": "https://open.spotify.com/album/4t1LLdXiWTfoywqricztFo"
+      },
+      "artists": [
+        {
+          "name": "Manu Chao",
+          "url": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
+        }
+      ],
+      "duration_ms": 239986,
+      "name": "Me Gustas Tu",
+      "url": "https://open.spotify.com/track/6b37xrsNCWYIUphFBazqD6"
+    },
+    {
+      "added_at": "2025-07-08 16:22:28",
+      "album": {
         "name": "Invasion of Privacy",
         "url": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML"
       },
@@ -247,22 +263,6 @@
       "duration_ms": 253390,
       "name": "I Like It",
       "url": "https://open.spotify.com/track/58q2HKrzhC3ozto2nDdN4z"
-    },
-    {
-      "added_at": "2025-07-08 16:22:28",
-      "album": {
-        "name": "Pr\u00f3xima Estaci\u00f3n: Esperanza",
-        "url": "https://open.spotify.com/album/4t1LLdXiWTfoywqricztFo"
-      },
-      "artists": [
-        {
-          "name": "Manu Chao",
-          "url": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
-        }
-      ],
-      "duration_ms": 239986,
-      "name": "Me Gustas Tu",
-      "url": "https://open.spotify.com/track/6b37xrsNCWYIUphFBazqD6"
     },
     {
       "added_at": "2025-07-08 16:22:28",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2025-07-08 16:22:28",
       "album": {
-        "name": "Presence",
-        "url": "https://open.spotify.com/album/6se6q5nk4VCVbWWnZcguCc"
-      },
-      "artists": [
-        {
-          "name": "Petit Biscuit",
-          "url": "https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2"
-        }
-      ],
-      "duration_ms": 238906,
-      "name": "Sunset Lover",
-      "url": "https://open.spotify.com/track/3WRQUvzRvBDr4AxMWhXc5E"
-    },
-    {
-      "added_at": "2025-07-08 16:22:28",
-      "album": {
         "name": "Mar De Colores (Versi\u00f3n Extendida)",
         "url": "https://open.spotify.com/album/66IXFg1AukADK41CP0xANr"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 189399,
       "name": "Prayer in C - Robin Schulz Radio Edit",
       "url": "https://open.spotify.com/track/0uVyZywUNOp6S0dU5r8TS8"
+    },
+    {
+      "added_at": "2025-07-08 16:22:28",
+      "album": {
+        "name": "Presence",
+        "url": "https://open.spotify.com/album/6se6q5nk4VCVbWWnZcguCc"
+      },
+      "artists": [
+        {
+          "name": "Petit Biscuit",
+          "url": "https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2"
+        }
+      ],
+      "duration_ms": 238906,
+      "name": "Sunset Lover",
+      "url": "https://open.spotify.com/track/3WRQUvzRvBDr4AxMWhXc5E"
     },
     {
       "added_at": "2025-07-08 16:22:28",

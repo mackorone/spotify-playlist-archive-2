@@ -1,6 +1,6 @@
 {
   "description": "Every track you're listening/should be listening to ;) ",
-  "num_followers": 1298271,
+  "num_followers": 1298965,
   "original_name": "Trending Now India",
   "owner": {
     "name": "Spotify",
@@ -735,6 +735,26 @@
     {
       "added_at": "2026-05-15 06:36:22",
       "album": {
+        "name": "Barbaad (From \"Saiyaara\")",
+        "url": "https://open.spotify.com/album/27wFxpV56Pg7Uxk0GxNfoF"
+      },
+      "artists": [
+        {
+          "name": "The Rish",
+          "url": "https://open.spotify.com/artist/0Eb38FY9vOjiRA10iXPGHI"
+        },
+        {
+          "name": "Jubin Nautiyal",
+          "url": "https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa"
+        }
+      ],
+      "duration_ms": 357127,
+      "name": "Barbaad (From \"Saiyaara\")",
+      "url": "https://open.spotify.com/track/7Csa4PStpuYIfUqNMKQ4V8"
+    },
+    {
+      "added_at": "2026-05-15 06:36:22",
+      "album": {
         "name": "Dhurandhar The Revenge - Aari Aari (From \"Dhurandhar The Revenge\")",
         "url": "https://open.spotify.com/album/2xH6R3iKLYdEkKiCwiTZYL"
       },
@@ -775,26 +795,6 @@
       "duration_ms": 210053,
       "name": "Dhurandhar The Revenge - Aari Aari (From \"Dhurandhar The Revenge\")",
       "url": "https://open.spotify.com/track/2SeUci6OXx1ztZiFiDIyX5"
-    },
-    {
-      "added_at": "2026-05-15 06:36:22",
-      "album": {
-        "name": "Barbaad (From \"Saiyaara\")",
-        "url": "https://open.spotify.com/album/27wFxpV56Pg7Uxk0GxNfoF"
-      },
-      "artists": [
-        {
-          "name": "The Rish",
-          "url": "https://open.spotify.com/artist/0Eb38FY9vOjiRA10iXPGHI"
-        },
-        {
-          "name": "Jubin Nautiyal",
-          "url": "https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa"
-        }
-      ],
-      "duration_ms": 357127,
-      "name": "Barbaad (From \"Saiyaara\")",
-      "url": "https://open.spotify.com/track/7Csa4PStpuYIfUqNMKQ4V8"
     },
     {
       "added_at": "2026-05-15 06:36:22",
@@ -879,6 +879,22 @@
     {
       "added_at": "2026-05-15 06:36:22",
       "album": {
+        "name": "Mann Mera (Original Version)",
+        "url": "https://open.spotify.com/album/3KR9QiP7RuCpAhXwFOE9vR"
+      },
+      "artists": [
+        {
+          "name": "Gajendra Verma",
+          "url": "https://open.spotify.com/artist/1yzgJmZf5CxtFfGfRFm4Si"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Mann Mera - Original Version",
+      "url": "https://open.spotify.com/track/1As2Jo89VTF9V3D6GuOPr9"
+    },
+    {
+      "added_at": "2026-05-15 06:36:22",
+      "album": {
         "name": "Mutta Kalakki (From \"Youth\")",
         "url": "https://open.spotify.com/album/2g8yWUzEnZDEVdCzknsIeh"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 166153,
       "name": "Mutta Kalakki (From \"Youth\")",
       "url": "https://open.spotify.com/track/3GNlsHDf3OH7V3LgccGAFc"
-    },
-    {
-      "added_at": "2026-05-15 06:36:22",
-      "album": {
-        "name": "Mann Mera (Original Version)",
-        "url": "https://open.spotify.com/album/3KR9QiP7RuCpAhXwFOE9vR"
-      },
-      "artists": [
-        {
-          "name": "Gajendra Verma",
-          "url": "https://open.spotify.com/artist/1yzgJmZf5CxtFfGfRFm4Si"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Mann Mera - Original Version",
-      "url": "https://open.spotify.com/track/1As2Jo89VTF9V3D6GuOPr9"
     },
     {
       "added_at": "2026-05-15 06:36:22",
@@ -979,30 +979,6 @@
     {
       "added_at": "2026-05-15 06:36:22",
       "album": {
-        "name": "Sang Rahiyo",
-        "url": "https://open.spotify.com/album/1dkHqiypZzME8gcoJCAfWZ"
-      },
-      "artists": [
-        {
-          "name": "Jasleen Royal",
-          "url": "https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c"
-        },
-        {
-          "name": "Ujjwal Kashyap",
-          "url": "https://open.spotify.com/artist/6RzPQpJ5z2JkOJlmsCVxJq"
-        },
-        {
-          "name": "Neeraj Rajawat",
-          "url": "https://open.spotify.com/artist/3yjKvP7LiyIw2dzB5CCGxM"
-        }
-      ],
-      "duration_ms": 213288,
-      "name": "Sang Rahiyo",
-      "url": "https://open.spotify.com/track/45PA9lW7U5LYnlpGrdTyHY"
-    },
-    {
-      "added_at": "2026-05-15 06:36:22",
-      "album": {
         "name": "Blood Money (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5K0rFYotIyeCXpmNVzWpfn"
       },
@@ -1027,6 +1003,30 @@
     {
       "added_at": "2026-05-15 06:36:22",
       "album": {
+        "name": "Sang Rahiyo",
+        "url": "https://open.spotify.com/album/1dkHqiypZzME8gcoJCAfWZ"
+      },
+      "artists": [
+        {
+          "name": "Jasleen Royal",
+          "url": "https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c"
+        },
+        {
+          "name": "Ujjwal Kashyap",
+          "url": "https://open.spotify.com/artist/6RzPQpJ5z2JkOJlmsCVxJq"
+        },
+        {
+          "name": "Neeraj Rajawat",
+          "url": "https://open.spotify.com/artist/3yjKvP7LiyIw2dzB5CCGxM"
+        }
+      ],
+      "duration_ms": 213288,
+      "name": "Sang Rahiyo",
+      "url": "https://open.spotify.com/track/45PA9lW7U5LYnlpGrdTyHY"
+    },
+    {
+      "added_at": "2026-05-15 06:36:22",
+      "album": {
         "name": "Kaise Hua (From \"Kabir Singh\")",
         "url": "https://open.spotify.com/album/1ncyKqyZae6DoyjYaV9LmS"
       },
@@ -1043,6 +1043,38 @@
       "duration_ms": 234722,
       "name": "Kaise Hua (From \"Kabir Singh\")",
       "url": "https://open.spotify.com/track/1y1rQTkWmrZdJmjwuK07GC"
+    },
+    {
+      "added_at": "2026-05-15 06:36:22",
+      "album": {
+        "name": "Sapphire",
+        "url": "https://open.spotify.com/album/1ZrWlhMUoyMKsoQ1tvRR2t"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 179082,
+      "name": "Sapphire",
+      "url": "https://open.spotify.com/track/4Q0qVhFQa7j6jRKzo3HDmP"
+    },
+    {
+      "added_at": "2026-05-15 06:36:22",
+      "album": {
+        "name": "Alligator Bites Never Heal (Extended)",
+        "url": "https://open.spotify.com/album/5yPu6XkHu8DAGmV6YkXYZq"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 249302,
+      "name": "Anxiety",
+      "url": "https://open.spotify.com/track/3LPLRNr58Z9Pn0clnEtkXb"
     },
     {
       "added_at": "2026-05-15 06:36:22",
@@ -1071,22 +1103,6 @@
       "duration_ms": 279826,
       "name": "Tere Liye",
       "url": "https://open.spotify.com/track/0xlWd9o8yjKpJ02WJy79kZ"
-    },
-    {
-      "added_at": "2026-05-15 06:36:22",
-      "album": {
-        "name": "Sapphire",
-        "url": "https://open.spotify.com/album/1ZrWlhMUoyMKsoQ1tvRR2t"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 179082,
-      "name": "Sapphire",
-      "url": "https://open.spotify.com/track/4Q0qVhFQa7j6jRKzo3HDmP"
     },
     {
       "added_at": "2026-05-15 06:36:22",
@@ -1123,22 +1139,6 @@
       "duration_ms": 217148,
       "name": "Sahiba",
       "url": "https://open.spotify.com/track/4ulroyDK6rN73nVkCkWhur"
-    },
-    {
-      "added_at": "2026-05-15 06:36:22",
-      "album": {
-        "name": "Alligator Bites Never Heal (Extended)",
-        "url": "https://open.spotify.com/album/5yPu6XkHu8DAGmV6YkXYZq"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 249302,
-      "name": "Anxiety",
-      "url": "https://open.spotify.com/track/3LPLRNr58Z9Pn0clnEtkXb"
     },
     {
       "added_at": "2026-05-15 06:36:22",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2026-05-15 06:36:22",
       "album": {
+        "name": "Naam Chale",
+        "url": "https://open.spotify.com/album/19mkO5hlqAU0e0qMyIHign"
+      },
+      "artists": [
+        {
+          "name": "Vikram Sarkar",
+          "url": "https://open.spotify.com/artist/4naSOUBsPQeISuibs56w6Y"
+        }
+      ],
+      "duration_ms": 149375,
+      "name": "Naam Chale",
+      "url": "https://open.spotify.com/track/6M6Jgms4Z3x5xYLbnMk5TU"
+    },
+    {
+      "added_at": "2026-05-15 06:36:22",
+      "album": {
         "name": "Mismatched: Season 3 (Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/75SlrAXlLbJN9LYJwlTJh6"
       },
@@ -1291,22 +1307,6 @@
       "duration_ms": 312857,
       "name": "Ishq Hai",
       "url": "https://open.spotify.com/track/3vCzLB6kS2lGcIpm1OOUsy"
-    },
-    {
-      "added_at": "2026-05-15 06:36:22",
-      "album": {
-        "name": "Naam Chale",
-        "url": "https://open.spotify.com/album/19mkO5hlqAU0e0qMyIHign"
-      },
-      "artists": [
-        {
-          "name": "Vikram Sarkar",
-          "url": "https://open.spotify.com/artist/4naSOUBsPQeISuibs56w6Y"
-        }
-      ],
-      "duration_ms": 149375,
-      "name": "Naam Chale",
-      "url": "https://open.spotify.com/track/6M6Jgms4Z3x5xYLbnMk5TU"
     },
     {
       "added_at": "2026-05-15 06:36:22",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2026-05-15 06:36:22",
       "album": {
-        "name": "Tere Bina Na Guzara E",
-        "url": "https://open.spotify.com/album/2F1gMtjzItjOoTMgp9qakV"
-      },
-      "artists": [
-        {
-          "name": "Josh Brar",
-          "url": "https://open.spotify.com/artist/6SWmwFBXIsxhIx5XPkYo0a"
-        }
-      ],
-      "duration_ms": 220800,
-      "name": "Tere Bina Na Guzara E",
-      "url": "https://open.spotify.com/track/0NXnuTqFQHDsbEIoKIAVCN"
-    },
-    {
-      "added_at": "2026-05-15 06:36:22",
-      "album": {
         "name": "Zaroor",
         "url": "https://open.spotify.com/album/62yJN1YiKoDvXSrSdiXC13"
       },
@@ -1551,26 +1535,18 @@
     {
       "added_at": "2026-05-15 06:36:22",
       "album": {
-        "name": "DOPAMINE",
-        "url": "https://open.spotify.com/album/11bk9YxTwbYXl0BASHTKk7"
+        "name": "Tere Bina Na Guzara E",
+        "url": "https://open.spotify.com/album/2F1gMtjzItjOoTMgp9qakV"
       },
       "artists": [
         {
-          "name": "Guru Randhawa",
-          "url": "https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL"
-        },
-        {
-          "name": "Gurjit Gill",
-          "url": "https://open.spotify.com/artist/6LGVfT3wTKqzhx9RGvSvUd"
-        },
-        {
-          "name": "Lavish Dhiman",
-          "url": "https://open.spotify.com/artist/0OZHEt7SMyC00w8xopYIcc"
+          "name": "Josh Brar",
+          "url": "https://open.spotify.com/artist/6SWmwFBXIsxhIx5XPkYo0a"
         }
       ],
-      "duration_ms": 152466,
-      "name": "DOPAMINE",
-      "url": "https://open.spotify.com/track/3dw558iZgDA2BIeVd0taMM"
+      "duration_ms": 220800,
+      "name": "Tere Bina Na Guzara E",
+      "url": "https://open.spotify.com/track/0NXnuTqFQHDsbEIoKIAVCN"
     },
     {
       "added_at": "2026-05-15 06:36:22",
@@ -1595,6 +1571,30 @@
       "duration_ms": 350739,
       "name": "Vaaroon",
       "url": "https://open.spotify.com/track/4sgYmcu4FKb1ZC6qBlxMiw"
+    },
+    {
+      "added_at": "2026-05-15 06:36:22",
+      "album": {
+        "name": "DOPAMINE",
+        "url": "https://open.spotify.com/album/11bk9YxTwbYXl0BASHTKk7"
+      },
+      "artists": [
+        {
+          "name": "Guru Randhawa",
+          "url": "https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL"
+        },
+        {
+          "name": "Gurjit Gill",
+          "url": "https://open.spotify.com/artist/6LGVfT3wTKqzhx9RGvSvUd"
+        },
+        {
+          "name": "Lavish Dhiman",
+          "url": "https://open.spotify.com/artist/0OZHEt7SMyC00w8xopYIcc"
+        }
+      ],
+      "duration_ms": 152466,
+      "name": "DOPAMINE",
+      "url": "https://open.spotify.com/track/3dw558iZgDA2BIeVd0taMM"
     },
     {
       "added_at": "2026-05-15 06:36:22",

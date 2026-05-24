@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDurFyY5QeAQ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1FxDVhXcHEAtLrLA0KD9CC">Bebe Rexha</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,218 likes - 93 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,219 likes - 93 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDurFyY5QeAQ.md) - [plain]
 | 68 | [Pillow](https://open.spotify.com/track/5MrNSHoWvFKjBQ7TRMkp9I) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Expectations](https://open.spotify.com/album/4TOkZvtqNpg5UHyGxCn0mS) | 3:36 |
 | 69 | [glowing](https://open.spotify.com/track/6jtlGUim9bpGxKVRbOqbjc) | [Søma](https://open.spotify.com/artist/4JbuxEoZ4rSuQ8MmeKRl0i) | [Sundays](https://open.spotify.com/album/0ZuIHbkKmfWnbEivGkbsjF) | 1:11 |
 | 70 | [Trust Fall](https://open.spotify.com/track/6jm6543STio3hL0bHV2xZ8) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Better Mistakes](https://open.spotify.com/album/1v0new1LT7TVddV7dBIAmo) | 2:30 |
-| 71 | [i like you better than me](https://open.spotify.com/track/3f6rPOdeS6QSrqemADJ5XC) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [i like you better than me](https://open.spotify.com/album/0ScYexrAYA9MV0yN5YgLyn) | 2:37 |
-| 72 | [Hysteria](https://open.spotify.com/track/7cBm3l9gb7D18dqioJ0kEy) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Hysteria](https://open.spotify.com/album/5AKFAqGH2MSyWZX0Vj7ZN2) | 2:23 |
+| 71 | [Hysteria](https://open.spotify.com/track/7cBm3l9gb7D18dqioJ0kEy) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Hysteria](https://open.spotify.com/album/5AKFAqGH2MSyWZX0Vj7ZN2) | 2:23 |
+| 72 | [i like you better than me](https://open.spotify.com/track/3f6rPOdeS6QSrqemADJ5XC) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [i like you better than me](https://open.spotify.com/album/0ScYexrAYA9MV0yN5YgLyn) | 2:37 |
 | 73 | [Better Mistakes](https://open.spotify.com/track/2HKWYj37hvdZ9xQNPW3GrD) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Better Mistakes](https://open.spotify.com/album/1v0new1LT7TVddV7dBIAmo) | 2:15 |
 | 74 | [I'm Not High, I'm In Love](https://open.spotify.com/track/0fyYhe8tJKheY9XmhZlZSD) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Bebe](https://open.spotify.com/album/59zVzm5imosI0J0j1UpFEs) | 3:04 |
 | 75 | [My Dear Love \(feat\. Ty Dolla $ign & Trevor Daniel\)](https://open.spotify.com/track/3FcFDiiCEM1QPBdt3ON8H0) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Trevor Daniel](https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT) | [Better Mistakes](https://open.spotify.com/album/1v0new1LT7TVddV7dBIAmo) | 2:52 |
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDurFyY5QeAQ.md) - [plain]
 | 92 | [Party, Fun, Love & Radio \(feat\. J\. Trill\)](https://open.spotify.com/track/02bcP3PjAT5y0o2eCxAJbv) | [We The Kings](https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl), [J Trill](https://open.spotify.com/artist/6KA6yMLQymzZyrPReCy1A5) | [Party, Fun, Love & Radio](https://open.spotify.com/album/0F6q9ypqrKlsiaRviyoZwG) | 3:25 |
 | 93 | [Miracle](https://open.spotify.com/track/2H5r66uEoNiIS5W9CQ9DB2) | [Greg Scott](https://open.spotify.com/artist/5bBHo5g4F9R3WQoMcw3r80) | [Miracle](https://open.spotify.com/album/0nK7nk8wSXVEkwkbGMsf94) | 2:32 |
 
-Snapshot ID: `AcSNcAAAAACPiT4+peO8WSGeUyobnM2U`
+Snapshot ID: `AcSTEAAAAAAcM2IO3JFVHUbr8/LjQVIB`

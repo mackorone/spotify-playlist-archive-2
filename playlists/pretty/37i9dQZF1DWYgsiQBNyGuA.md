@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgsiQBNyGuA.md) - [plain]
 
 > Soul to brighten up your day\. Cover: Tone Stith
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,012,573 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,012,538 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgsiQBNyGuA.md) - [plain]
 | 86 | [SHARP!](https://open.spotify.com/track/03uiW6i8PvidJ8zTHrIKKn) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [BERNARR.](https://open.spotify.com/album/3mwj7hNvVWw3wKcJzZZEVm) | 4:47 |
 | 87 | [blessed like that](https://open.spotify.com/track/7FDtZrkFgI6WJbxWWsXwE7) | [threetwenty](https://open.spotify.com/artist/5DP3h81xD3klfn0M47GZlK) | [separate from the noise](https://open.spotify.com/album/3pteKawLGPDRRCGgFvlqPZ) | 2:57 |
 | 88 | [I Got Sunshine](https://open.spotify.com/track/1UXQhuCOj5ksuFbceRAdPo) | [Avery\*Sunshine](https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf) | [Avery\*Sunshine](https://open.spotify.com/album/3MqlTEkRsAntG8xBSeNcuB) | 3:14 |
-| 89 | [Spiritual Thang](https://open.spotify.com/track/1lcZPCRAuVXCHSqPsFaWlw) | [Eric Benét](https://open.spotify.com/artist/1kjO72M26jZkv0aaGxJaov) | [True to Myself](https://open.spotify.com/album/0HgmysKc552d8G01TdbUa3) | 4:00 |
-| 90 | [Stare at Me](https://open.spotify.com/track/5OQGljb4oGPYojBFpNrQ4a) | [JANE HANDCOCK](https://open.spotify.com/artist/2wgW0CiQRwbWlkT6nM8suD), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Stare at Me](https://open.spotify.com/album/5wWZ3Kdg4ZCQdFd3vwjiYu) | 3:55 |
+| 89 | [Stare at Me](https://open.spotify.com/track/5OQGljb4oGPYojBFpNrQ4a) | [JANE HANDCOCK](https://open.spotify.com/artist/2wgW0CiQRwbWlkT6nM8suD), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Stare at Me](https://open.spotify.com/album/5wWZ3Kdg4ZCQdFd3vwjiYu) | 3:55 |
+| 90 | [Spiritual Thang](https://open.spotify.com/track/1lcZPCRAuVXCHSqPsFaWlw) | [Eric Benét](https://open.spotify.com/artist/1kjO72M26jZkv0aaGxJaov) | [True to Myself](https://open.spotify.com/album/0HgmysKc552d8G01TdbUa3) | 4:00 |
 | 91 | [Three Piece Suit \(feat\. Azekel\)](https://open.spotify.com/track/0VIegveYbIaxxTgBNHSl3v) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr), [Azekel](https://open.spotify.com/artist/446nYwuXzCKnDwZUu4kGQA) | [Three Piece Suit \(feat\. Azekel\)](https://open.spotify.com/album/2Nqaqx256kZBgaIS5FvzBQ) | 4:36 |
 | 92 | [Sugarcoat](https://open.spotify.com/track/15JA8Cex1Q10LgJ31llVdR) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Yonder: Book III](https://open.spotify.com/album/02ClJ7AJWANCqGNJ42urXa) | 2:00 |
 | 93 | [Sweet](https://open.spotify.com/track/6ZGu4JWeLDCNCiyMeG6P82) | [bLAck pARty](https://open.spotify.com/artist/4C9Tvlt8v7d8R6h98FgdUy), [Mack Keane](https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO) | [The Last Dance](https://open.spotify.com/album/0HZ1eDVIhC5oTxinKoTFlQ) | 3:29 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgsiQBNyGuA.md) - [plain]
 | 97 | [LOVE!](https://open.spotify.com/track/5YdRkQBGqufdSK1pRLZ5Tm) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [wHIMSY](https://open.spotify.com/album/4JbxuyZJlpIyvXhVCRoq9E) | 1:40 |
 | 98 | [Favorite \(feat\. Anderson .Paak\)](https://open.spotify.com/track/7tWfPoTJQu7QzbQmy3omtL) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Trouble In Paradise](https://open.spotify.com/album/4xD7yXdXUDdaen8uvanwIw) | 2:32 |
 | 99 | [Crysalis](https://open.spotify.com/track/0JTaxloJYWa8xu8VZ9DqbF) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq) | [CRYSALIS](https://open.spotify.com/album/18OM4kStC0UfGiJZcqePgX) | 1:47 |
-| 100 | [Jeans \(fall on my knees\)](https://open.spotify.com/track/4HQRpId1zdfYT9GaZyd58g) | [Katie Tupper](https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW) | [Jeans \(fall on my knees\)](https://open.spotify.com/album/56wlH7RJiq4cy2HiVVz16g) | 2:58 |
+| 100 | [These Eyes](https://open.spotify.com/track/03IhqVajoXFTIuqRu4w1B7) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Covered in Soul](https://open.spotify.com/album/4HGEXvjkZ7KrlsHTaF6xkn) | 3:40 |
 
-Snapshot ID: `AAAAAGcKiPeU+KWD60ukDpYSyqpjYJZv`
+Snapshot ID: `AAAAAEPOR8r1FRyytSY7oq5INZ2B1HFM`

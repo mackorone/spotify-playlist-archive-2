@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2Nx8OcoYCy.md) - [plain]
 
 > The upcoming artists performing at Jazz Cafe, London\. <a href="https://thejazzcafe.com/whats\-on/?">Discover the lineup.</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,360 likes - 100 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,365 likes - 100 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2Nx8OcoYCy.md) - [plain]
 | 99 | [Skin on Skin](https://open.spotify.com/track/3OGSGJCdO1nbOrByhEuDus) | [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Dream in Colour](https://open.spotify.com/album/3TaQ5k2QKdRly0pjMPZF6e) | 3:03 |
 | 100 | [Blessed](https://open.spotify.com/track/4d8iXQX78jtId4Rn2f2IMC) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Miraa May](https://open.spotify.com/artist/2fOvE1l01YyORhYzwoaLCM), [Donae'o](https://open.spotify.com/artist/3xcx9CcYTM4M1890B8o9Bp) | [Blessed](https://open.spotify.com/album/1B9lrrNduE4os8F8rpDb9C) | 3:08 |
 
-Snapshot ID: `AAAAAIcWVd3NHTRzxmcy/XPZHw1ZD6oF`
+Snapshot ID: `AAAAAMXSQmiO7GT1fVpTtx+8Uzn+1Mdr`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXattPCMpISJh.md) - [plain]
 
 > A new take on a classic sound\. Cover: Dabeull
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,294 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,375 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXattPCMpISJh.md) - [plain]
 | 99 | [Take Your Time \(Do It Right\)](https://open.spotify.com/track/76cVBDPi7Z9ZA74OBow3kY) | [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq), [Teira](https://open.spotify.com/artist/3M6tK86Oc9mTbCH2kw3RWh) | [Take Your Time \(Do It Right\)](https://open.spotify.com/album/5flGddeRshLt7jHLHUfQ4Z) | 4:02 |
 | 100 | [Move](https://open.spotify.com/track/6RemYyY2mxu0N8qjjrShnQ) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR) | [Move](https://open.spotify.com/album/4nMAiQTGaqm3fKz1e2Vw7p) | 2:44 |
 
-Snapshot ID: `AAAAAH8zmaDzLjMJ94jJyrs6K0DMIPJo`
+Snapshot ID: `AAAAAGlP8Ja9W5jViIzn95KMht42DKeq`

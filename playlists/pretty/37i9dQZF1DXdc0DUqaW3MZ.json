@@ -1,6 +1,6 @@
 {
   "description": "where future beats meet timeless soul.\n",
-  "num_followers": 376054,
+  "num_followers": 376088,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
@@ -903,6 +903,26 @@
     {
       "added_at": "2026-05-07 13:54:31",
       "album": {
+        "name": "So Nice To Be In Love",
+        "url": "https://open.spotify.com/album/5P5Jqgw0NsyPMxmRTcQWIW"
+      },
+      "artists": [
+        {
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        },
+        {
+          "name": "Mascolo",
+          "url": "https://open.spotify.com/artist/1hssO6mIBREUt4w6riUeBp"
+        }
+      ],
+      "duration_ms": 154807,
+      "name": "So Nice To Be In Love",
+      "url": "https://open.spotify.com/track/4N65OwkWDhXUUCEAhU7LGO"
+    },
+    {
+      "added_at": "2026-05-07 13:54:31",
+      "album": {
         "name": "Been A Minute...",
         "url": "https://open.spotify.com/album/7381wOtgfTOq2x3pSjkmub"
       },
@@ -927,26 +947,6 @@
     {
       "added_at": "2026-05-07 13:54:31",
       "album": {
-        "name": "So Nice To Be In Love",
-        "url": "https://open.spotify.com/album/5P5Jqgw0NsyPMxmRTcQWIW"
-      },
-      "artists": [
-        {
-          "name": "LP Giobbi",
-          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
-        },
-        {
-          "name": "Mascolo",
-          "url": "https://open.spotify.com/artist/1hssO6mIBREUt4w6riUeBp"
-        }
-      ],
-      "duration_ms": 154807,
-      "name": "So Nice To Be In Love",
-      "url": "https://open.spotify.com/track/4N65OwkWDhXUUCEAhU7LGO"
-    },
-    {
-      "added_at": "2026-05-07 13:54:31",
-      "album": {
         "name": "IDKW",
         "url": "https://open.spotify.com/album/7DKKHibyLHjQdE98HeVQT7"
       },
@@ -959,30 +959,6 @@
       "duration_ms": 232000,
       "name": "IDKW",
       "url": "https://open.spotify.com/track/67Nrz0HAa2MUrO2zbekGfs"
-    },
-    {
-      "added_at": "2026-05-07 13:54:31",
-      "album": {
-        "name": "Pathways",
-        "url": "https://open.spotify.com/album/4At5TGxv4cu0CCj5wcItia"
-      },
-      "artists": [
-        {
-          "name": "Sensur\u00e9",
-          "url": "https://open.spotify.com/artist/7q5Ts0GQ7rTUmx8I5WSCYm"
-        },
-        {
-          "name": "Miller Blue",
-          "url": "https://open.spotify.com/artist/2soHr8jGZ0ATxc6X6BgmbA"
-        },
-        {
-          "name": "Rastreep",
-          "url": "https://open.spotify.com/artist/28AQ0xmVq80qpvXyXwulTw"
-        }
-      ],
-      "duration_ms": 166909,
-      "name": "All Night",
-      "url": "https://open.spotify.com/track/0GfuStA0KqawkDglVRJ3ne"
     },
     {
       "added_at": "2026-05-07 13:54:31",
@@ -1007,22 +983,26 @@
     {
       "added_at": "2026-05-07 13:54:31",
       "album": {
-        "name": "North",
-        "url": "https://open.spotify.com/album/3j3grBQp6z5bhMaJeHwsvP"
+        "name": "Pathways",
+        "url": "https://open.spotify.com/album/4At5TGxv4cu0CCj5wcItia"
       },
       "artists": [
         {
-          "name": "Sango",
-          "url": "https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg"
+          "name": "Sensur\u00e9",
+          "url": "https://open.spotify.com/artist/7q5Ts0GQ7rTUmx8I5WSCYm"
         },
         {
-          "name": "Xavier Om\u00e4r",
-          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
+          "name": "Miller Blue",
+          "url": "https://open.spotify.com/artist/2soHr8jGZ0ATxc6X6BgmbA"
+        },
+        {
+          "name": "Rastreep",
+          "url": "https://open.spotify.com/artist/28AQ0xmVq80qpvXyXwulTw"
         }
       ],
-      "duration_ms": 222000,
-      "name": "Middle of Things, Beautiful Wife (feat. Xavier Om\u00e4r))",
-      "url": "https://open.spotify.com/track/1OjmLuc3Kf34WcEAasCjsO"
+      "duration_ms": 166909,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/0GfuStA0KqawkDglVRJ3ne"
     },
     {
       "added_at": "2026-05-07 13:54:31",
@@ -1071,6 +1051,26 @@
       "duration_ms": 287037,
       "name": "Summer In The Ends",
       "url": "https://open.spotify.com/track/3ttIBQv2qjIWXbHeoCnoVm"
+    },
+    {
+      "added_at": "2026-05-07 13:54:31",
+      "album": {
+        "name": "North",
+        "url": "https://open.spotify.com/album/3j3grBQp6z5bhMaJeHwsvP"
+      },
+      "artists": [
+        {
+          "name": "Sango",
+          "url": "https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg"
+        },
+        {
+          "name": "Xavier Om\u00e4r",
+          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "Middle of Things, Beautiful Wife (feat. Xavier Om\u00e4r))",
+      "url": "https://open.spotify.com/track/1OjmLuc3Kf34WcEAasCjsO"
     },
     {
       "added_at": "2026-05-07 13:54:31",
@@ -1131,26 +1131,6 @@
     {
       "added_at": "2026-05-07 13:54:31",
       "album": {
-        "name": "Naked",
-        "url": "https://open.spotify.com/album/3q33nMv5nBInrenFWEiYsy"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        },
-        {
-          "name": "Channel Tres",
-          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
-        }
-      ],
-      "duration_ms": 218973,
-      "name": "Naked",
-      "url": "https://open.spotify.com/track/1EzfgoY8TVuHrX402tzK7D"
-    },
-    {
-      "added_at": "2026-05-07 13:54:31",
-      "album": {
         "name": "YOU KNOW I'M DOWN",
         "url": "https://open.spotify.com/album/29qoVH75Kc800yEeHjMRi6"
       },
@@ -1167,6 +1147,26 @@
       "duration_ms": 144000,
       "name": "YOU KNOW I'M DOWN",
       "url": "https://open.spotify.com/track/6hiwAsDc2fyuWK4iCCZJvL"
+    },
+    {
+      "added_at": "2026-05-07 13:54:31",
+      "album": {
+        "name": "Naked",
+        "url": "https://open.spotify.com/album/3q33nMv5nBInrenFWEiYsy"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "duration_ms": 218973,
+      "name": "Naked",
+      "url": "https://open.spotify.com/track/1EzfgoY8TVuHrX402tzK7D"
     },
     {
       "added_at": "2026-05-07 13:54:31",

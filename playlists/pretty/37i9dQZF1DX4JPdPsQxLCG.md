@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JPdPsQxLCG.md) - [plain]
 
 > Epic tunes for the open road.
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,649 likes - 75 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,654 likes - 75 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JPdPsQxLCG.md) - [plain]
 | 28 | [Harvest Moon](https://open.spotify.com/track/7sCHy8QQUz3CRvUMp53Cbm) | [Neil Young](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm) | [Greatest Hits](https://open.spotify.com/album/2hNa7oWGatOqnKw9cmS4ao) | 5:03 |
 | 29 | [Bowling Alley Thug](https://open.spotify.com/track/4hbMHyGiSxyZMAbHzy2upA) | [Surf Hat](https://open.spotify.com/artist/4fFi5poEqNSf7iv0jOwEFy) | [Surf Hat](https://open.spotify.com/album/3xM9YASLf1ZnJKQnuvT17S) | 2:59 |
 | 30 | [Overtime](https://open.spotify.com/track/5pIVEk6Di7n1v5khOzJaJL) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Zach Bryan](https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf) | 3:10 |
-| 31 | [Somehow Made It Out](https://open.spotify.com/track/3squeOqGJzGz3x2WyTJSD3) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [Somehow Made It Out](https://open.spotify.com/album/2WK7bpbUtyKCqIedCqNI3B) | 3:42 |
-| 32 | [Last Train Home](https://open.spotify.com/track/0tgBtQ0ISnMQOKorrN9HLX) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Sob Rock](https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z) | 3:07 |
+| 31 | [Last Train Home](https://open.spotify.com/track/0tgBtQ0ISnMQOKorrN9HLX) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Sob Rock](https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z) | 3:07 |
+| 32 | [Somehow Made It Out](https://open.spotify.com/track/3squeOqGJzGz3x2WyTJSD3) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [Somehow Made It Out](https://open.spotify.com/album/2WK7bpbUtyKCqIedCqNI3B) | 3:42 |
 | 33 | [Sexy to Someone](https://open.spotify.com/track/2Nq4SFbvYYZa8AF7lD7CWU) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Sexy to Someone](https://open.spotify.com/album/281y6GLUpFfmSyBO7JMLfU) | 3:27 |
 | 34 | [You’re Gonna Go Far \(with Brandi Carlile\)](https://open.spotify.com/track/2U15ix0JMkQY8EsxneUfyL) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Stick Season \(Forever\)](https://open.spotify.com/album/3qBWNcWifNhUKJAWzswdJY) | 4:46 |
 | 35 | [Divine Feelings](https://open.spotify.com/track/3D4JBITefQuOsZZyLdESAi) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Divine Feelings](https://open.spotify.com/album/0Bi6tt4GSzpMiUjbA9ph8S) | 3:28 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JPdPsQxLCG.md) - [plain]
 | 49 | [Something In The Air](https://open.spotify.com/track/0emd9tHSVP4dK6UG4pcOFD) | [Thunderclap Newman](https://open.spotify.com/artist/1USHlPahTZrCeJXS2v5pkF) | [Hollywood Dream \(Expanded Edition\)](https://open.spotify.com/album/0McWkQTsU9eYngOswvNs87) | 3:54 |
 | 50 | [Song While You're Away \(From Twisters: The Album\)](https://open.spotify.com/track/1ZhcazwIbu1zu2qjitf3f2) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Song While You're Away \(From Twisters: The Album\)](https://open.spotify.com/album/1ljmP8WTZlfqQJH1DR5b2V) | 5:00 |
 | 51 | [Purple Gas](https://open.spotify.com/track/5aMOyUd1vzhMAN1KQ3uZpx) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Noeline Hofmann](https://open.spotify.com/artist/2xGbY9iFLZqd9BK0YV1aKW) | [Purple Gas](https://open.spotify.com/album/1dd5vDwnKBlh4NA5ynpDwH) | 3:00 |
-| 52 | [say something](https://open.spotify.com/track/3E3UHWv6I1WD2PqBjbeXn7) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [say something](https://open.spotify.com/album/2dimHmsfqzuSuVtaZe3rJU) | 2:24 |
-| 53 | [I Got You](https://open.spotify.com/track/6UAylEdfsCYdAFAgmuco1f) | [Devon Cole](https://open.spotify.com/artist/1VFt2HpmFG8Ufq6SDCoZe4) | [I Got You](https://open.spotify.com/album/34CONaTo9bPYz6w8Ur1OCF) | 2:48 |
+| 52 | [I Got You](https://open.spotify.com/track/6UAylEdfsCYdAFAgmuco1f) | [Devon Cole](https://open.spotify.com/artist/1VFt2HpmFG8Ufq6SDCoZe4) | [I Got You](https://open.spotify.com/album/34CONaTo9bPYz6w8Ur1OCF) | 2:48 |
+| 53 | [say something](https://open.spotify.com/track/3E3UHWv6I1WD2PqBjbeXn7) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [say something](https://open.spotify.com/album/2dimHmsfqzuSuVtaZe3rJU) | 2:24 |
 | 54 | [Diane](https://open.spotify.com/track/0vhle5cdnSADMEScmkYd32) | [Surf Hat](https://open.spotify.com/artist/4fFi5poEqNSf7iv0jOwEFy) | [Surf Hat](https://open.spotify.com/album/3xM9YASLf1ZnJKQnuvT17S) | 4:13 |
 | 55 | [Too Late Now](https://open.spotify.com/track/0k8v4D655QaAyuRNvQ9d7K) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Leg](https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO) | 3:29 |
 | 56 | [Venus in the Zinnia](https://open.spotify.com/track/6X5ARfLepGTGntuFbc2Hpo) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG), [H\. Hawkline](https://open.spotify.com/artist/7FmM0XgimRvS48CfObh2ht) | [Venus in the Zinnia](https://open.spotify.com/album/1g8xMfOWEPfIuxHory8Pg9) | 3:17 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JPdPsQxLCG.md) - [plain]
 | 74 | [What’s On Your Mind](https://open.spotify.com/track/2DOKvJS61usFOxobo7jLi0) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk), [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c) | [What's On Your Mind](https://open.spotify.com/album/3Zba9cZ8EP1DBcvjnVNrG6) | 3:32 |
 | 75 | [Car Crash in G Major](https://open.spotify.com/track/5CKMxyl7q4p0QdpYTesuCZ) | [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe) | [Car Crash in G Major](https://open.spotify.com/album/6tPokYHf7g0Jex07f04d7M) | 2:12 |
 
-Snapshot ID: `AAAAAAPReV3f0Lbro9wjMjwTJi4caytx`
+Snapshot ID: `AAAAAMBXHCB+4PWDBY1bR70UkfgExn71`

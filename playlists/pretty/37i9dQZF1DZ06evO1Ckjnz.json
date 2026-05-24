@@ -1,12 +1,12 @@
 {
   "description": "This is Rico Nasty. The essential tracks, all in one playlist.",
-  "num_followers": 20164,
+  "num_followers": 20168,
   "original_name": "This Is Rico Nasty",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ag5LAAAAAAD9jJuBziedV5fnQOBljrq/",
+  "snapshot_id": "ag+cgAAAAAAJmOKTh9eywSEUMafed3td",
   "tracks": [
     {
       "added_at": null,
@@ -491,22 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "IPHONE",
-        "url": "https://open.spotify.com/album/3W1t0g3DKrT0G3vXsr7CA3"
-      },
-      "artists": [
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        }
-      ],
-      "duration_ms": 158663,
-      "name": "IPHONE",
-      "url": "https://open.spotify.com/track/2dMvqE5MHPH7Ksd5pQqFmL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LETHAL",
         "url": "https://open.spotify.com/album/0HkRlQCLTYsr1K5cD33Gr4"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 107800,
       "name": "WHO WANT IT",
       "url": "https://open.spotify.com/track/3Qp6UhTS4KO6kGvFgnxpOK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "IPHONE",
+        "url": "https://open.spotify.com/album/3W1t0g3DKrT0G3vXsr7CA3"
+      },
+      "artists": [
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "duration_ms": 158663,
+      "name": "IPHONE",
+      "url": "https://open.spotify.com/track/2dMvqE5MHPH7Ksd5pQqFmL"
     },
     {
       "added_at": null,
@@ -563,6 +563,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "LETHAL",
+        "url": "https://open.spotify.com/album/0HkRlQCLTYsr1K5cD33Gr4"
+      },
+      "artists": [
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "CRASH",
+      "url": "https://open.spotify.com/track/2oqoX9JB9mjK9Aomw61kM2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SHOOTING STAR REMIXX (PROD BY JAKOPS)",
         "url": "https://open.spotify.com/album/7FlCBCFnKH1J5ud88NfjzC"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 203573,
       "name": "SHOOTING STAR - BARS REMIXX FEAT. RICO NASTY",
       "url": "https://open.spotify.com/track/5v3qDpknNxse3vx19aJ6RX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LETHAL",
-        "url": "https://open.spotify.com/album/0HkRlQCLTYsr1K5cD33Gr4"
-      },
-      "artists": [
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "CRASH",
-      "url": "https://open.spotify.com/track/2oqoX9JB9mjK9Aomw61kM2"
     },
     {
       "added_at": null,
@@ -647,6 +647,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "LETHAL",
+        "url": "https://open.spotify.com/album/0HkRlQCLTYsr1K5cD33Gr4"
+      },
+      "artists": [
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "duration_ms": 102386,
+      "name": "GRAVE",
+      "url": "https://open.spotify.com/track/7AIqr8LmpHg1dkbQTcLDIA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pink Is Better",
         "url": "https://open.spotify.com/album/0FnQVPQcWZjPL6u6M1qDAf"
       },
@@ -667,8 +683,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "LETHAL",
-        "url": "https://open.spotify.com/album/0HkRlQCLTYsr1K5cD33Gr4"
+        "name": "LETHAL-ER",
+        "url": "https://open.spotify.com/album/72kZaYF0tE4PBhlbfv6kIq"
       },
       "artists": [
         {
@@ -676,9 +692,9 @@
           "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
         }
       ],
-      "duration_ms": 102386,
-      "name": "GRAVE",
-      "url": "https://open.spotify.com/track/7AIqr8LmpHg1dkbQTcLDIA"
+      "duration_ms": 118000,
+      "name": "STUNNA",
+      "url": "https://open.spotify.com/track/13gAKY859qFzAzpxzWsEjO"
     },
     {
       "added_at": null,
@@ -703,8 +719,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "LETHAL-ER",
-        "url": "https://open.spotify.com/album/72kZaYF0tE4PBhlbfv6kIq"
+        "name": "LETHAL",
+        "url": "https://open.spotify.com/album/0HkRlQCLTYsr1K5cD33Gr4"
       },
       "artists": [
         {
@@ -712,9 +728,9 @@
           "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
         }
       ],
-      "duration_ms": 118000,
-      "name": "STUNNA",
-      "url": "https://open.spotify.com/track/13gAKY859qFzAzpxzWsEjO"
+      "duration_ms": 136120,
+      "name": "ON THE LOW",
+      "url": "https://open.spotify.com/track/4o5bxjpANU9AXdvoBSietM"
     },
     {
       "added_at": null,
@@ -735,22 +751,6 @@
       "duration_ms": 150652,
       "name": "Money (feat. Flo Milli)",
       "url": "https://open.spotify.com/track/2xo2fUrwrdOruV2zdNtWoP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LETHAL",
-        "url": "https://open.spotify.com/album/0HkRlQCLTYsr1K5cD33Gr4"
-      },
-      "artists": [
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        }
-      ],
-      "duration_ms": 136120,
-      "name": "ON THE LOW",
-      "url": "https://open.spotify.com/track/4o5bxjpANU9AXdvoBSietM"
     },
     {
       "added_at": null,
@@ -799,22 +799,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nasty",
-        "url": "https://open.spotify.com/album/4RKiTVGT9pCVRnqIkwKWo1"
-      },
-      "artists": [
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        }
-      ],
-      "duration_ms": 91754,
-      "name": "Bitch I'm Nasty",
-      "url": "https://open.spotify.com/track/2xXNa4tR2CronQsZ6OKQtP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LETHAL",
         "url": "https://open.spotify.com/album/0HkRlQCLTYsr1K5cD33Gr4"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 176026,
       "name": "EAT ME!",
       "url": "https://open.spotify.com/track/15kIVlB2dWPQiajwBXTRVk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nasty",
+        "url": "https://open.spotify.com/album/4RKiTVGT9pCVRnqIkwKWo1"
+      },
+      "artists": [
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "duration_ms": 91754,
+      "name": "Bitch I'm Nasty",
+      "url": "https://open.spotify.com/track/2xXNa4tR2CronQsZ6OKQtP"
     },
     {
       "added_at": null,

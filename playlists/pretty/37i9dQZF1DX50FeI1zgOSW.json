@@ -1,12 +1,12 @@
 {
   "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : Vidusan Kaneswaran",
-  "num_followers": 19560,
+  "num_followers": 19579,
   "original_name": "RADAR Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAtbH0B2yEIhXG2RoTN3NayGTF0l",
+  "snapshot_id": "AAAAAFB9k+lOzXGsxKmrmNdiuqkH5YN7",
   "tracks": [
     {
       "added_at": "2026-04-23 06:49:33",
@@ -107,6 +107,54 @@
       "duration_ms": 184846,
       "name": "Sundari Sundari",
       "url": "https://open.spotify.com/track/6Lg938ZCEBYRxTFvkIfnmf"
+    },
+    {
+      "added_at": "2026-05-23 12:56:43",
+      "album": {
+        "name": "Needhaana",
+        "url": "https://open.spotify.com/album/4k1iILHsTBRDvOfjAEX4r9"
+      },
+      "artists": [
+        {
+          "name": "Sandhya Chari",
+          "url": "https://open.spotify.com/artist/3c9OLxs9AiWd0ec9k08Y6X"
+        },
+        {
+          "name": "Athisaiyan Suresh",
+          "url": "https://open.spotify.com/artist/1kHBtaoep8kLtW9o52Hi7Z"
+        }
+      ],
+      "duration_ms": 219434,
+      "name": "Needhaana",
+      "url": "https://open.spotify.com/track/3289Oo8ShsetMCZ7RK4gxG"
+    },
+    {
+      "added_at": "2026-05-23 12:56:43",
+      "album": {
+        "name": "Bloom (From \"Loopd\")",
+        "url": "https://open.spotify.com/album/1vBAzQeMNIChAnJ4UWrVYL"
+      },
+      "artists": [
+        {
+          "name": "Barath Dhanasekar",
+          "url": "https://open.spotify.com/artist/67sk0ISBwhavYRmJxZTWqD"
+        },
+        {
+          "name": "Abhijith Anilkumar",
+          "url": "https://open.spotify.com/artist/1WdTt5EOurwVpV5TzL6JiE"
+        },
+        {
+          "name": "Meghna Vijay",
+          "url": "https://open.spotify.com/artist/6X1LuxQ0lquRiAFZlrfwv0"
+        },
+        {
+          "name": "Fatin",
+          "url": "https://open.spotify.com/artist/4HeEXMr62GWTKpnqEiFOkC"
+        }
+      ],
+      "duration_ms": 264309,
+      "name": "Bloom (From \"Loopd\")",
+      "url": "https://open.spotify.com/track/71EPZfwovhyjD3Goi3Ns5x"
     },
     {
       "added_at": "2026-05-04 07:54:22",
@@ -303,6 +351,30 @@
       "duration_ms": 230126,
       "name": "Husky Dusky",
       "url": "https://open.spotify.com/track/6a39b7ysisF42OBCnLwf3r"
+    },
+    {
+      "added_at": "2026-05-23 12:57:36",
+      "album": {
+        "name": "Kanakku",
+        "url": "https://open.spotify.com/album/0Yu9LiYgUXMMPiHszbpfGa"
+      },
+      "artists": [
+        {
+          "name": "A.R Sai Shravanya",
+          "url": "https://open.spotify.com/artist/67hmOl78H5aT3rs6PcO6CR"
+        },
+        {
+          "name": "Mirun Pradhap",
+          "url": "https://open.spotify.com/artist/7eOB1fI6XehKYZ1pmzC50r"
+        },
+        {
+          "name": "Rama Priya Yegasivanathan",
+          "url": "https://open.spotify.com/artist/7bYHZMgn8z6sHJAEj1qzlx"
+        }
+      ],
+      "duration_ms": 198400,
+      "name": "Kanakku",
+      "url": "https://open.spotify.com/track/0xUQbI9pa7XwByX1iNH7j6"
     },
     {
       "added_at": "2026-05-10 01:11:33",
@@ -1405,34 +1477,6 @@
       "url": "https://open.spotify.com/track/4cZJcRViPkruh1HECBFOwv"
     },
     {
-      "added_at": "2026-01-30 08:35:32",
-      "album": {
-        "name": "Kirukku",
-        "url": "https://open.spotify.com/album/5KeXTfXpFDGfCAeDOmPxko"
-      },
-      "artists": [
-        {
-          "name": "Tha Mystro",
-          "url": "https://open.spotify.com/artist/1CDq8tF7Lqvq3TqLCmNOMQ"
-        },
-        {
-          "name": "nisionthetrack",
-          "url": "https://open.spotify.com/artist/0jo50HrDuEQwS1dzH24M1q"
-        },
-        {
-          "name": "Dayan Shan",
-          "url": "https://open.spotify.com/artist/5DRRvEBaUbGxPSmHAP0gCc"
-        },
-        {
-          "name": "Kowtham Mohan",
-          "url": "https://open.spotify.com/artist/7aC22ZH1LXLBOJHhdBnB24"
-        }
-      ],
-      "duration_ms": 205338,
-      "name": "Kirukku",
-      "url": "https://open.spotify.com/track/0iZUiq8mtUOhwASlfdnCxL"
-    },
-    {
       "added_at": "2026-02-06 05:33:04",
       "album": {
         "name": "Mudhal Murai",
@@ -1475,42 +1519,6 @@
       "duration_ms": 192167,
       "name": "Cult Classic",
       "url": "https://open.spotify.com/track/35mRmwFEF4EPctOTvJ0iDa"
-    },
-    {
-      "added_at": "2026-01-30 05:06:13",
-      "album": {
-        "name": "Venaam",
-        "url": "https://open.spotify.com/album/1S90ICcRRRPJ386kBzyGqd"
-      },
-      "artists": [
-        {
-          "name": "Aathi",
-          "url": "https://open.spotify.com/artist/2Yi3hZ5XdMAYxPQKZVOEvp"
-        },
-        {
-          "name": "Music Kitchen",
-          "url": "https://open.spotify.com/artist/4zzem8yWl7g0OAnLCb4OIP"
-        }
-      ],
-      "duration_ms": 158000,
-      "name": "Venaam",
-      "url": "https://open.spotify.com/track/1e2NvcmWmgoGlIpZxf7bRk"
-    },
-    {
-      "added_at": "2026-01-30 05:02:33",
-      "album": {
-        "name": "Theeradha",
-        "url": "https://open.spotify.com/album/7L9ESTRBYoJ8zcTSSE6UI8"
-      },
-      "artists": [
-        {
-          "name": "Luksimi Sivaneswaralingam",
-          "url": "https://open.spotify.com/artist/1yu8UL7E8i1XSFjHLjbYUb"
-        }
-      ],
-      "duration_ms": 206400,
-      "name": "Theeradha",
-      "url": "https://open.spotify.com/track/0pcehazrEcS8txh2APAjKj"
     },
     {
       "added_at": "2026-02-02 12:04:24",

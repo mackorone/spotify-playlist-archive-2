@@ -1,12 +1,12 @@
 {
   "description": "This is Metro Boomin. The essential tracks, all in one playlist.",
-  "num_followers": 411539,
+  "num_followers": 411554,
   "original_name": "This Is Metro Boomin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ag5LAAAAAABUSs7BzmruKR4YgekhpWTU",
+  "snapshot_id": "ag+cgAAAAACc/LXs+E2GL2qTjksMTAw1",
   "tracks": [
     {
       "added_at": null,
@@ -87,6 +87,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Without Warning",
+        "url": "https://open.spotify.com/album/0MV1yCXcNNQBfwApqAVkH0"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "Ric Flair Drip (with Metro Boomin)",
+      "url": "https://open.spotify.com/track/7sO5G9EABYOXQKNPNiE9NR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "WE DON'T TRUST YOU",
         "url": "https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn"
       },
@@ -107,26 +127,6 @@
       "duration_ms": 267706,
       "name": "Like That",
       "url": "https://open.spotify.com/track/2tudvzsrR56uom6smgOcSf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Without Warning",
-        "url": "https://open.spotify.com/album/0MV1yCXcNNQBfwApqAVkH0"
-      },
-      "artists": [
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        },
-        {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "Ric Flair Drip (with Metro Boomin)",
-      "url": "https://open.spotify.com/track/7sO5G9EABYOXQKNPNiE9NR"
     },
     {
       "added_at": null,
@@ -883,30 +883,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Assume Form",
-        "url": "https://open.spotify.com/album/23dKNZpiadggKHrQgHLi3L"
-      },
-      "artists": [
-        {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        }
-      ],
-      "duration_ms": 193600,
-      "name": "Mile High (feat. Travis Scott & Metro Boomin)",
-      "url": "https://open.spotify.com/track/4cQrSREMqBSvJ8ZzBZjVb8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "NOT ALL HEROES WEAR CAPES (Deluxe)",
         "url": "https://open.spotify.com/album/3IO8IPjwXuzPJnoaqkwYrj"
       },
@@ -927,6 +903,30 @@
       "duration_ms": 230240,
       "name": "Borrowed Love (feat. Swae Lee & WizKid)",
       "url": "https://open.spotify.com/track/0NA5xAtDra50d0Lfs2uvoh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Assume Form",
+        "url": "https://open.spotify.com/album/23dKNZpiadggKHrQgHLi3L"
+      },
+      "artists": [
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        }
+      ],
+      "duration_ms": 193600,
+      "name": "Mile High (feat. Travis Scott & Metro Boomin)",
+      "url": "https://open.spotify.com/track/4cQrSREMqBSvJ8ZzBZjVb8"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Explore all things indie rock right now\. Featuring music from Iceage
 
-2,168 songs - 5 day 2 hr 54 min
+2,172 songs - 5 day 3 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [19](https://open.spotify.com/track/4eXjrOYY9hxmJkS0hkhZxQ) | [Chloe Lilac](https://open.spotify.com/artist/2CUeVZl8E9ouggdBhyclFx) | [19](https://open.spotify.com/album/6IQUj5eSse9rXx2WHUHg8p) | 2:34 | 2021-10-22 | 2022-06-08 |
 | [19](https://open.spotify.com/track/4dd4aXsxKoFIabi7tYlpQz) | [Solya](https://open.spotify.com/artist/4q2k0Txoo06ZQ41MWnQMza) | [19](https://open.spotify.com/album/6BDIWeTB0A905y20y8xoJT) | 2:43 | 2025-07-18 | 2026-02-21 |
 | [1st of the year](https://open.spotify.com/track/3QlBomUBtNTEnNrQeMTPD0) | [Thala](https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU) | [1st of the year](https://open.spotify.com/album/7ek1rhNI104OLRBuZDlIZW) | 3:27 | 2024-08-02 | 2024-09-21 |
+| [2 C U](https://open.spotify.com/track/6lUM0QGNVT65iu4aRLU3LM) | [Swapmeet](https://open.spotify.com/artist/02ngaZWfkvv0Fzmh7FhJqj) | [2 C U](https://open.spotify.com/album/5MoouUulpYW0XWheX1Wlue) | 2:19 | 2026-05-23 |  |
 | [2002](https://open.spotify.com/track/7duZGjDETceWUu5KvKJjQU) | [Enumclaw](https://open.spotify.com/artist/79yETfINxnDl54mTKLZUlb) | [2002](https://open.spotify.com/album/4rJmJ9Iqe1SdQ8Sg5hmZUx) | 2:32 | 2022-10-14 | 2022-11-12 |
 | [20191009 I Like Her](https://open.spotify.com/track/3oUn55qKRZ1JFzfQNbJjS1) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [One Wayne G](https://open.spotify.com/album/70hX7IYqmUGV97OXs2v848) | 2:16 | 2023-09-08 | 2024-02-10 |
 | [20200817 Proud True Toyota](https://open.spotify.com/track/4OeO5Xc50TRVG3ofaxM1rn) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [One Wayne G](https://open.spotify.com/album/70hX7IYqmUGV97OXs2v848) | 2:02 | 2023-04-21 | 2023-07-01 |
@@ -855,6 +856,7 @@
 | [Headliner](https://open.spotify.com/track/4KDJfug28h0LbZpdJmC73S) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Headliner](https://open.spotify.com/album/6JcCv9NZt9eqxPHtO9hnjl) | 3:12 | 2024-05-31 | 2024-06-29 |
 | [Headset Go](https://open.spotify.com/track/5VS54lu9H0o7Wj5TBP3qNu) | [James Ivy](https://open.spotify.com/artist/7t8sK02zmZ9f6e6eJA9oSJ) | [Headset Go](https://open.spotify.com/album/0Dyt1CtkImtFkWOwKZLRhQ) | 3:16 | 2021-09-17 | 2022-04-09 |
 | [heart attack](https://open.spotify.com/track/08noUkx67pSwQuHnFhIcsF) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [worm food](https://open.spotify.com/album/6esicDmiVKUGrff14ahfrK) | 3:26 | 2022-11-04 | 2023-01-28 |
+| [Heart Has To Work So Hard](https://open.spotify.com/track/4wwOje67xW4mPCf8JvmWYK) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Heart Has To Work So Hard](https://open.spotify.com/album/1nIWbgwX2lwqgoUDimt1oh) | 3:12 | 2026-05-23 |  |
 | [Heartbreaker](https://open.spotify.com/track/5w6i7gourKgjzOvd7lVi4M) | [Dreamer Boy](https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D) | [Heartbreaker](https://open.spotify.com/album/6TnnmPtPOhpd5KWjWSuGba) | 3:28 | 2024-02-09 | 2024-03-23 |
 | [Heartthrob](https://open.spotify.com/track/7wPD6MvFi8KS4Znr7mXBLj) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Heartthrob](https://open.spotify.com/album/542MxtFBDt3pRtcMV1LIiP) | 3:13 | 2025-05-02 | 2025-09-20 |
 | [HeatDeath](https://open.spotify.com/track/5plb2kCKv1w1VJIL6NBnPR) | [Suave Punk](https://open.spotify.com/artist/7mHAXsMI3hAj3dUZMR4fnt) | [HeatDeath](https://open.spotify.com/album/0i5IzMJEOcCr8P6dUb9W2n) | 5:17 | 2021-07-19 | 2022-05-26 |
@@ -1257,6 +1259,7 @@
 | [Method to the Madness \- The Jungle Giants Remix](https://open.spotify.com/track/158cZlwyopRDTtSXmPP9pQ) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB), [The Jungle Giants](https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt) | [Method to the Madness \(Remixes\)](https://open.spotify.com/album/4cpASY8KuBYb7hYSJIdxNw) | 5:47 | 2023-01-20 | 2023-03-11 |
 | [Meticulous](https://open.spotify.com/track/2WvsvWRHvcX3bZPiJwTwpy) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [Love Hate Music Box](https://open.spotify.com/album/2bOwdC37gg057sITTY8Ovj) | 3:01 | 2024-05-10 | 2024-08-31 |
 | [Mezzanine](https://open.spotify.com/track/0Rr2sIvRKhBCY3FRyakn1L) | [Ethan Fields](https://open.spotify.com/artist/2SqxqNtAbLxHG8FB2gGiIJ) | [Mezzanine](https://open.spotify.com/album/5pOzan60yFyVmFfPGNgOsp) | 3:16 | 2021-06-18 | 2022-02-09 |
+| [Mice Protection](https://open.spotify.com/track/4sCiHmLrMcfjMTP10dfVzu) | [Lowertown](https://open.spotify.com/artist/1yI0RRPnOA9BFJmiZ6cEzw) | [Mice Protection](https://open.spotify.com/album/2rEhabXYFtcZWk6JQ1b7F7) | 3:34 | 2026-05-23 |  |
 | [Michelle](https://open.spotify.com/track/48rZVgAGm0OlbbxjikCpqm) | [Sir Chloe](https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U) | [Party Favors](https://open.spotify.com/album/5N9MQLXbiA8hYWsej7y8Sz) | 3:34 | 2022-01-14 | 2022-06-09 |
 | [Midas](https://open.spotify.com/track/2FhyTzw49NtYw29JEFvdu2) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [Midas](https://open.spotify.com/album/09kwvU6IzvXzqZhmIqjT2R) | 2:18 | 2024-04-12 | 2024-07-19 |
 | [Midnight Driving](https://open.spotify.com/track/52OwEablQYMQo5n3C690CM) | [Teenage Dads](https://open.spotify.com/artist/0GEHcYh6naBVfaLKy7CEhw) | [Midnight Driving](https://open.spotify.com/album/113mVb4lTjo4usdxZkORPQ) | 3:44 | 2023-03-03 | 2023-04-22 |
@@ -1336,6 +1339,7 @@
 | [Nerve](https://open.spotify.com/track/7jp4a5VWUXtgetIlNcIEDb) | [Do Nothing](https://open.spotify.com/artist/73N7cGNNww6Uod1d3IiBKP) | [Nerve](https://open.spotify.com/album/2NwW0Tzme7gCSoypEx7MDO) | 3:03 | 2023-06-09 | 2023-07-01 |
 | [Nervous System](https://open.spotify.com/track/1F4bLAgSwZkU5VEVSGyhzB) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [Nervous System](https://open.spotify.com/album/2tqcwbNuovDs9h1wuQ5vTr) | 2:37 | 2023-01-27 | 2023-04-09 |
 | [Never Go](https://open.spotify.com/track/374rtbOx5NrgRFC9811Ghf) | [Pete Yorn](https://open.spotify.com/artist/5l2EAkfckNPYZbEDbQtEkO) | [Hawaii](https://open.spotify.com/album/5IBX9xg8sHWHf3L5a3QvrE) | 2:36 | 2022-06-17 | 2022-09-03 |
+| [Never Have I Ever](https://open.spotify.com/track/2Ojr742JINM4QEOk7vQGEh) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [Never Have I Ever](https://open.spotify.com/album/5c64n4bmCFpdsvenhcWp5z) | 2:54 | 2026-05-23 |  |
 | [Never Know](https://open.spotify.com/track/1qaFMnI1eVDa4arwNN8nMa) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Never Know](https://open.spotify.com/album/1wIKBow4Y0MtCFSWBdohuC) | 2:55 | 2025-01-31 | 2025-03-22 |
 | [Nevermind](https://open.spotify.com/track/16cfhCwNCVTmmSoLYxb2z3) | [Babygirl](https://open.spotify.com/artist/6Y2m4AEOS9JFrsK2goyg7T) | [Nevermind](https://open.spotify.com/album/4rqjnLn0qJ57y4WIc5aBWb) | 2:21 | 2021-06-07 | 2022-04-18 |
 | [New Age Crisis](https://open.spotify.com/track/1jbBmjncsqWO0oa81kGrCO) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [New Age Crisis](https://open.spotify.com/album/6njbQUKUGq6Nv37wVT4WWC) | 2:38 | 2024-03-08 | 2024-06-08 |
@@ -1601,7 +1605,7 @@
 | [Saltshack's Signature](https://open.spotify.com/track/2P9WsORxb3ZQ3JCTyaJL3L) | [Alfariizi](https://open.spotify.com/artist/3wwrcxReRFc2KndpFRWWKi) | [Brutalisme di Bandung Barat](https://open.spotify.com/album/7JNbE5gU83t1xYBdebvc8T) | 2:40 | 2021-06-07 | 2022-04-15 |
 | [Sanctuary](https://open.spotify.com/track/2nHZuHgtv8HqN6lWWSlvdW) | [Tamino](https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH), [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Sanctuary](https://open.spotify.com/album/3PSvQ4m5n7Efv5F12KDkue) | 3:31 | 2025-01-24 | 2025-05-03 |
 | [Sanctuary](https://open.spotify.com/track/6HEWgg6dWX226zCg5D3442) | [Tamino](https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH), [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Sanctuary](https://open.spotify.com/album/6i7qwDdRw1MsSQa61qDiWt) | 3:31 | 2025-01-24 | 2025-02-01 |
-| [Sand](https://open.spotify.com/track/4L5ib7MTorgJS5BUAMizUL) | [Swapmeet](https://open.spotify.com/artist/02ngaZWfkvv0Fzmh7FhJqj) | [Sand](https://open.spotify.com/album/0ZUuuqb345KsZxIMVKD8Qb) | 3:24 | 2026-04-24 |  |
+| [Sand](https://open.spotify.com/track/4L5ib7MTorgJS5BUAMizUL) | [Swapmeet](https://open.spotify.com/artist/02ngaZWfkvv0Fzmh7FhJqj) | [Sand](https://open.spotify.com/album/0ZUuuqb345KsZxIMVKD8Qb) | 3:24 | 2026-04-24 | 2026-05-24 |
 | [Sandcastle Molds](https://open.spotify.com/track/0Jr21WWAdomoLGmDbds9v2) | [Dutch Interior](https://open.spotify.com/artist/7a0nCvxmDN4c68agh8ajMn) | [Sandcastle Molds](https://open.spotify.com/album/3eZcliPovnaww1ahgJ1gnN) | 3:18 | 2025-03-21 | 2025-08-09 |
 | [Sandcastles 2008](https://open.spotify.com/track/0hsreXDVImxswGp7pZEwyi) | [Tough Cookie](https://open.spotify.com/artist/7uLaDKp4v0Ne2AAJjJZ1ZQ) | [Sandcastles 2008](https://open.spotify.com/album/5UQrhwjnQX2NW0pIpBP6hb) | 3:42 | 2026-01-05 |  |
 | [Sandwich Sharer](https://open.spotify.com/track/30hqJNoQo0WAil9uFb2eDH) | [illuminati hotties](https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O) | [Sandwich Sharer](https://open.spotify.com/album/50XtyRZnGGEgcSclzVzVL4) | 3:54 | 2022-02-11 | 2022-05-26 |

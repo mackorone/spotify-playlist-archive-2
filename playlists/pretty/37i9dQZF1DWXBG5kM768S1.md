@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBG5kM768S1.md) - [plain]
 
 > Fantastiske viser fra noen av våre aller beste artister.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,073 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,085 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,9 +34,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBG5kM768S1.md) - [plain]
 | 24 | [Det begynner å bli et liv](https://open.spotify.com/track/6y8CZLX2vn58EVpjOejesi) | [Anita Skorgan](https://open.spotify.com/artist/4dTqh57h7Qc97TWARfoVD4) | [Hver gang vi møtes \- Sesong 2 \- Ole Paus' dag](https://open.spotify.com/album/5xPVoxx10SsUeKrb7VbE7K) | 3:13 |
 | 25 | [Mitt lille land](https://open.spotify.com/track/24bYCEcem3tzo3raOOwh01) | [Ole Paus](https://open.spotify.com/artist/1ekYDgldjpqKSEzJftWKQB) | [Paus synger Paus](https://open.spotify.com/album/1DjWqnJPoObQzAbb8dPwts) | 3:22 |
 | 26 | [Til deg \- Single Version](https://open.spotify.com/track/7bD91vOzk9L2gKMSkdSQy7) | [Marthe Wang](https://open.spotify.com/artist/1C5w8BJZv0qoTGCFiVlfyZ) | [Til deg \(Single Version\)](https://open.spotify.com/album/1dZ6qeWJTDkOPO3ZECRvd2) | 3:43 |
-| 27 | [Under deg](https://open.spotify.com/track/7bCWY2qgzjKMhTc0Tr2IO0) | [No\. 4](https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J) | [Under deg](https://open.spotify.com/album/7aCZa7V8vkhBKJ1Fbfe7el) | 4:04 |
-| 28 | [Kniven i hjertet](https://open.spotify.com/track/7hDJBn2vLNOgPg2X2IyHf6) | [Herborg Kråkevik](https://open.spotify.com/artist/5uvwGfXbw7uUF9JI0KqKK5), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO), [Forsvarets Stabsmusikkorps](https://open.spotify.com/artist/4DSDUs4nuqsHmS4LisPi9U) | [Kniven i hjertet](https://open.spotify.com/album/60vE5wnbCvdlXwj0stElPP) | 3:02 |
-| 29 | [Vår Beste Dag](https://open.spotify.com/track/4EtXjwdVdnv4v2glKQBloT) | [Erik Bye](https://open.spotify.com/artist/1qqBCY3Scz9Ea1mjkCDgaZ) | [Støv Og Stjerner](https://open.spotify.com/album/0NpGhivBGHLf1nnoLSCZ1X) | 3:01 |
+| 27 | [Vår Beste Dag](https://open.spotify.com/track/4EtXjwdVdnv4v2glKQBloT) | [Erik Bye](https://open.spotify.com/artist/1qqBCY3Scz9Ea1mjkCDgaZ) | [Støv Og Stjerner](https://open.spotify.com/album/0NpGhivBGHLf1nnoLSCZ1X) | 3:01 |
+| 28 | [Under deg](https://open.spotify.com/track/7bCWY2qgzjKMhTc0Tr2IO0) | [No\. 4](https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J) | [Under deg](https://open.spotify.com/album/7aCZa7V8vkhBKJ1Fbfe7el) | 4:04 |
+| 29 | [Kniven i hjertet](https://open.spotify.com/track/7hDJBn2vLNOgPg2X2IyHf6) | [Herborg Kråkevik](https://open.spotify.com/artist/5uvwGfXbw7uUF9JI0KqKK5), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO), [Forsvarets Stabsmusikkorps](https://open.spotify.com/artist/4DSDUs4nuqsHmS4LisPi9U) | [Kniven i hjertet](https://open.spotify.com/album/60vE5wnbCvdlXwj0stElPP) | 3:02 |
 | 30 | [Sommerfuggel I Vinterland](https://open.spotify.com/track/6TYTKJKCLhMely2cdBRorF) | [Halvdan Sivertsen](https://open.spotify.com/artist/4si4vypZaD6Vk7TiHkEXeY) | [Hilsen Halvdan](https://open.spotify.com/album/0aZwUrOFumqgQGdId4WDAy) | 4:18 |
 | 31 | [Vi Vandrar Saman \(Eg Følgjer Der Du Går\)](https://open.spotify.com/track/5b1AEdCpaCSNO8Z3i3SlFV) | [Olav Stedje](https://open.spotify.com/artist/4SM0aaZA4Gky48PLIlqFPA) | [Ta Meg Med](https://open.spotify.com/album/3pWcFE43bLCUJhpuziIvHP) | 3:14 |
 | 32 | [Bru over mørke bølger](https://open.spotify.com/track/0BX8d3ykK2rTOI3W5ZMdaf) | [Trygve Skaug](https://open.spotify.com/artist/1Vd2c4IrEtcO5mrIwbep6n) | [Bru over mørke bølger](https://open.spotify.com/album/6XUfS1htXyTvLsxZDKLyY4) | 4:59 |

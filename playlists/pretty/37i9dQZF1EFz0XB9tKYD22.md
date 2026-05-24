@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7Co1jvHSQ9FFXOEY0TdPHQ">Hillary Lindsey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 602 likes - 352 songs - 20 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 603 likes - 352 songs - 20 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -251,8 +251,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 241 | [Good as Gone](https://open.spotify.com/track/6t8NnIURMSsmCd7rfxLCS9) | [Liv Charette](https://open.spotify.com/artist/1auuEPeyKavtg7hXiNxe1H) | [Good as Gone](https://open.spotify.com/album/3vwOzIiCR9Z9eJDu0kQFS8) | 3:21 |
 | 242 | [Think Like A Man](https://open.spotify.com/track/7cLCkXaWzisQwDLkGBXSu5) | [Tyra Madison](https://open.spotify.com/artist/6QJWnamgxenwynyhKuRnrh) | [Think Like A Man](https://open.spotify.com/album/1vYDtqGoe72TIlambhTo7N) | 3:08 |
 | 243 | [Ask Her to Dance](https://open.spotify.com/track/6drZ0DQ2xr6WHkwrttWLq3) | [Hunter Brothers](https://open.spotify.com/artist/13WkWlzyPWxHSfnNQxPsFT) | [Been a Minute](https://open.spotify.com/album/57IrCr3qgsxOfFK3THy57J) | 3:40 |
-| 244 | [Never Found You](https://open.spotify.com/track/0ejYonr6iCOveRWn2vBFJ0) | [Leaving Austin](https://open.spotify.com/artist/67igAZjBrO42dnYYbTT6WI) | [Never Found You](https://open.spotify.com/album/1bgekG3dViYKaPeiTyErnX) | 2:52 |
-| 245 | [tryin' to love you](https://open.spotify.com/track/3kvmNifP422VOXbXrAVoYR) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [shot in the dark](https://open.spotify.com/album/7H5STZn8rbg58X1Q69Rifk) | 2:57 |
+| 244 | [tryin' to love you](https://open.spotify.com/track/3kvmNifP422VOXbXrAVoYR) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [shot in the dark](https://open.spotify.com/album/7H5STZn8rbg58X1Q69Rifk) | 2:57 |
+| 245 | [Never Found You](https://open.spotify.com/track/0ejYonr6iCOveRWn2vBFJ0) | [Leaving Austin](https://open.spotify.com/artist/67igAZjBrO42dnYYbTT6WI) | [Never Found You](https://open.spotify.com/album/1bgekG3dViYKaPeiTyErnX) | 2:52 |
 | 246 | [That Girl](https://open.spotify.com/track/3BD4KMwRYV4g2TEMxKYM67) | [Hannah Ellis](https://open.spotify.com/artist/6jHWWttC33OQdEDnUXtYrq) | [That Girl](https://open.spotify.com/album/20VFtdzqlm176kKeWEDDSQ) | 3:06 |
 | 247 | [Starlight](https://open.spotify.com/track/2SXIud8vEZJ8vmRha7WDuZ) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [Numbered Doors](https://open.spotify.com/album/0nCbtAU3ojDJz83Cx0iD8y) | 3:24 |
 | 248 | [Beat Up Bronco](https://open.spotify.com/track/2zlaIBgJYVIcis4Fkb80X7) | [Leah Turner](https://open.spotify.com/artist/04hpJHF9uqnRNDpjULw0zh) | [Leah Turner \- EP](https://open.spotify.com/album/2o7RvcJctIBoe16Tz4JwcC) | 3:47 |
@@ -275,10 +275,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 265 | [Something Strong](https://open.spotify.com/track/4ooiGkHiIi6VQNGmE0MnSR) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Mr\. Sun](https://open.spotify.com/album/1zb7kVc7JA7ew7OIdj0wOB) | 3:34 |
 | 266 | [The Other Side](https://open.spotify.com/track/2x6rtVe96HwHP5QRM2oXpL) | [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [Along The Way](https://open.spotify.com/album/1xfdHLXMtp4hAhRLoMdiRJ) | 2:59 |
 | 267 | [All My Ghosts](https://open.spotify.com/track/1zX3yr9Cb5ZmnM8AJJByCS) | [Grace Potter](https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht) | [Mother Road](https://open.spotify.com/album/5LjmGiV7L4vzjS5F2cLPUf) | 4:22 |
-| 268 | [Big Cry](https://open.spotify.com/track/05Wur4UuHdUIP3c8Hvs7fi) | [Sara Evans](https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG) | [Restless](https://open.spotify.com/album/1hkmdmciMUjVLInxxEhHCY) | 3:17 |
-| 269 | [Every Time](https://open.spotify.com/track/2WnWvJZFkhPXC3Vy1Kzhjv) | [Jessica Andrews](https://open.spotify.com/artist/5rNhVm2CnqiO5Lv4Dt2lck) | [Who I Am](https://open.spotify.com/album/2jv2pSKJiOhmmol92202Vy) | 4:05 |
-| 270 | [Summer Of Love](https://open.spotify.com/track/6DD2q4wRpJwwiUajqQMeKx) | [Martina McBride](https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj) | [Eleven](https://open.spotify.com/album/2IjiBV6bprNXNHexpJ9WIC) | 4:19 |
-| 271 | [Hey There Sunshine](https://open.spotify.com/track/50msnc46msWmYW2kRjyZxx) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Hey There Sunshine](https://open.spotify.com/album/3pLOueRkk7XQP3sBkG2oMo) | 3:56 |
+| 268 | [Hey There Sunshine](https://open.spotify.com/track/50msnc46msWmYW2kRjyZxx) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Hey There Sunshine](https://open.spotify.com/album/3pLOueRkk7XQP3sBkG2oMo) | 3:56 |
+| 269 | [Big Cry](https://open.spotify.com/track/05Wur4UuHdUIP3c8Hvs7fi) | [Sara Evans](https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG) | [Restless](https://open.spotify.com/album/1hkmdmciMUjVLInxxEhHCY) | 3:17 |
+| 270 | [Every Time](https://open.spotify.com/track/2WnWvJZFkhPXC3Vy1Kzhjv) | [Jessica Andrews](https://open.spotify.com/artist/5rNhVm2CnqiO5Lv4Dt2lck) | [Who I Am](https://open.spotify.com/album/2jv2pSKJiOhmmol92202Vy) | 4:05 |
+| 271 | [Summer Of Love](https://open.spotify.com/track/6DD2q4wRpJwwiUajqQMeKx) | [Martina McBride](https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj) | [Eleven](https://open.spotify.com/album/2IjiBV6bprNXNHexpJ9WIC) | 4:19 |
 | 272 | [Being Myself](https://open.spotify.com/track/36EvBZRt8Oyx9rqt6L3mws) | [Martina McBride](https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj) | [Hits And More](https://open.spotify.com/album/6qP0ktcSi5AOcDIAMwCxXu) | 3:40 |
 | 273 | [Heartbreaker](https://open.spotify.com/track/0XAKcbVMoF5kW8Dqjdhbdx) | [Whitney Duncan](https://open.spotify.com/artist/7D3IiPrIsSWfMFHEqEOCUB) | [Heartbreaker](https://open.spotify.com/album/4w3sOYIFoyDInELmHxhHdT) | 3:29 |
 | 274 | [Coppertone and Chlorine](https://open.spotify.com/track/7i73kavwwRDWv3Qt04CLfg) | [Kristian Bush](https://open.spotify.com/artist/6H2X3nGSnuLh8UeEyair9A) | [Summertime Six\-Pack](https://open.spotify.com/album/3QpdL2vmiTvHreU6KTqzTn) | 3:02 |
@@ -289,8 +289,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 279 | [Drink Up](https://open.spotify.com/track/7A5j3MRExt3LKUNeyK0MMN) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Every Girl](https://open.spotify.com/album/4ZmHk18IZRCI8s1hjXV4cF) | 2:50 |
 | 280 | [The Story Of My Life](https://open.spotify.com/track/0bGMqMbzmmUl2y5RGHJxZW) | [Lee Ann Womack](https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet) | [Call Me Crazy](https://open.spotify.com/album/0KXK77Q3lYrmzqSnFvtBfW) | 4:22 |
 | 281 | [Let Her Go](https://open.spotify.com/track/4DiOtjLhPDaPJ61BeZ4Ict) | [David James](https://open.spotify.com/artist/6JKG9xGqoyj7oMHF0ta147) | [Let Her Go](https://open.spotify.com/album/1CTob7MhirRfUY9joPIs7G) | 3:19 |
-| 282 | [Breaking Records](https://open.spotify.com/track/72FNsFFDdqEo33zpQOvuKi) | [Meghan Patrick](https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ) | [Grace & Grit](https://open.spotify.com/album/1DkXrCQ2RrEZBX9dlEXY3k) | 3:53 |
-| 283 | [If You Were A Country Girl](https://open.spotify.com/track/0z7CPCDePaauQh9g1k5VZl) | [Demps](https://open.spotify.com/artist/5Gx523vSXLobJkopSyany4) | [If You Were A Country Girl](https://open.spotify.com/album/7dGxG3XxGN6AOm6nz2oUi0) | 2:37 |
+| 282 | [If You Were A Country Girl](https://open.spotify.com/track/0z7CPCDePaauQh9g1k5VZl) | [Demps](https://open.spotify.com/artist/5Gx523vSXLobJkopSyany4) | [If You Were A Country Girl](https://open.spotify.com/album/7dGxG3XxGN6AOm6nz2oUi0) | 2:37 |
+| 283 | [Breaking Records](https://open.spotify.com/track/72FNsFFDdqEo33zpQOvuKi) | [Meghan Patrick](https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ) | [Grace & Grit](https://open.spotify.com/album/1DkXrCQ2RrEZBX9dlEXY3k) | 3:53 |
 | 284 | [Straight To The Bone](https://open.spotify.com/track/74tSY8ywhMkqzW0ivzLk3K) | [Martina McBride](https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj) | [Hits And More](https://open.spotify.com/album/6qP0ktcSi5AOcDIAMwCxXu) | 4:17 |
 | 285 | [Lightning Bolt](https://open.spotify.com/track/2lMMXWvv5y1yJ6rxzF7H1I) | [Jess Moskaluke](https://open.spotify.com/artist/5wCYmeBtrQWxKmOBsXx3et) | [Kiss Me Quiet](https://open.spotify.com/album/2kRBGSqEp0dFDvHvsgF2HJ) | 3:39 |
 | 286 | [I Need A Drink](https://open.spotify.com/track/5IEovkT4oqFuDIkxIuhAvb) | [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu) | [Slide](https://open.spotify.com/album/1XQ65rtdxl5eag0BwvJnvZ) | 3:10 |
@@ -361,4 +361,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 351 | [What Would You Do](https://open.spotify.com/track/4kFWLoSCSUTEDbF1rkf8pf) | [Janie Fricke](https://open.spotify.com/artist/3FhuHzOES6VGS9WW1wDymV) | [Roses & Lace](https://open.spotify.com/album/0KxZ4zOK41QG8Vz8uO7isO) | 2:59 |
 | 352 | [Got the Poots](https://open.spotify.com/track/71cqwaove3R1wShWBVEJul) | [Tooty Mae Woolley](https://open.spotify.com/artist/5VJGLTxYgDD0DjjirVF3Vd) | [Got the Poots](https://open.spotify.com/album/5eel7jlClDPWgc9CVtYp3l) | 3:36 |
 
-Snapshot ID: `AcSNUgAAAADAqyofkrzQudCreCiyZXyJ`
+Snapshot ID: `AcSS8gAAAAB7D8BfkWacIOJhmOxTtYIj`

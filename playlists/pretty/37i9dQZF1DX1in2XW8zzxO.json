@@ -1,6 +1,6 @@
 {
   "description": "Amapiano tracks to fuel your beast mode!",
-  "num_followers": 101321,
+  "num_followers": 101357,
   "original_name": "Beast Mode Amapiano",
   "owner": {
     "name": "Spotify",
@@ -367,34 +367,6 @@
     {
       "added_at": "2026-02-20 01:43:11",
       "album": {
-        "name": "A Collision of Two Worlds 2.0",
-        "url": "https://open.spotify.com/album/5xxVPhhZdchKa9Gs136bvR"
-      },
-      "artists": [
-        {
-          "name": "The Real Prechly",
-          "url": "https://open.spotify.com/artist/096BMEmDcx0OsBSEVll95N"
-        },
-        {
-          "name": "Shallipopi",
-          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
-        },
-        {
-          "name": "DJ Guti BPM",
-          "url": "https://open.spotify.com/artist/1JxQ3BCy5etxDoyksaMuqj"
-        },
-        {
-          "name": "Dj Lux",
-          "url": "https://open.spotify.com/artist/4BaoLYpdO3bcE8UepFJ8v8"
-        }
-      ],
-      "duration_ms": 203893,
-      "name": "A Collision of Two Worlds 2.0",
-      "url": "https://open.spotify.com/track/5B7CN5EWwW5mo07wAymrLB"
-    },
-    {
-      "added_at": "2026-02-20 01:43:11",
-      "album": {
         "name": "Gangnam Style (feat. DJ Maphorisa & Kabza De Small)",
         "url": "https://open.spotify.com/album/0uNAWv8SfWOd9vIJ3QwzcH"
       },
@@ -419,6 +391,34 @@
       "duration_ms": 350309,
       "name": "Gangnam Style (feat. DJ Maphorisa & Kabza De Small)",
       "url": "https://open.spotify.com/track/5m6AedvemL6Oz8GVwAOTF3"
+    },
+    {
+      "added_at": "2026-02-20 01:43:11",
+      "album": {
+        "name": "A Collision of Two Worlds 2.0",
+        "url": "https://open.spotify.com/album/5xxVPhhZdchKa9Gs136bvR"
+      },
+      "artists": [
+        {
+          "name": "The Real Prechly",
+          "url": "https://open.spotify.com/artist/096BMEmDcx0OsBSEVll95N"
+        },
+        {
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+        },
+        {
+          "name": "DJ Guti BPM",
+          "url": "https://open.spotify.com/artist/1JxQ3BCy5etxDoyksaMuqj"
+        },
+        {
+          "name": "Dj Lux",
+          "url": "https://open.spotify.com/artist/4BaoLYpdO3bcE8UepFJ8v8"
+        }
+      ],
+      "duration_ms": 203893,
+      "name": "A Collision of Two Worlds 2.0",
+      "url": "https://open.spotify.com/track/5B7CN5EWwW5mo07wAymrLB"
     },
     {
       "added_at": "2026-02-20 01:43:11",

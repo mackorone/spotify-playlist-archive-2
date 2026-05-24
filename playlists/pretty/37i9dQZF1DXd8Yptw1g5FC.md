@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > Motive ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 315,179 likes - 140 songs - 7 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 315,230 likes - 140 songs - 7 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 | 9 | [Yılan](https://open.spotify.com/track/019yqquQcEMQOGx90hvXHO) | [Ferhat Göçer](https://open.spotify.com/artist/13jj3uGldU7cSQLaFkf2Zm) | [Yılan](https://open.spotify.com/album/6VKtnBmD4iAX0JGqfRvsSQ) | 2:46 |
 | 10 | [adı mazi kaldı](https://open.spotify.com/track/4Lj9p9vUYc8fCPraD3dBke) | [Patron](https://open.spotify.com/artist/2r8iLFeSTuOiZualHmSXxS) | [Kış Uykusu III](https://open.spotify.com/album/0zffmb493zR8a1eiuuCJq2) | 3:21 |
 | 11 | [FAMILIA](https://open.spotify.com/track/36ONRDQkugvufGfiFiCDCF) | [ERAY067](https://open.spotify.com/artist/7l1AEP7z8ERNZzknXqPUFT), [Mansur](https://open.spotify.com/artist/1nXS8JvKsTNSGw75Axv6rm) | [FAMILIA](https://open.spotify.com/album/77awXfnlEhfuxt10d44YDO) | 2:26 |
-| 12 | [Yıkamazlar Beni](https://open.spotify.com/track/0vHm2X8K1Pw8uiCi7H6A60) | [Tekir](https://open.spotify.com/artist/2SqjgMx7edUilMzPosMR1P), [Seda Sayan](https://open.spotify.com/artist/5hKNaXEXIxQ3dmZR7FoRr8) | [Yıkamazlar Beni](https://open.spotify.com/album/6D0kjfXPoTsKARaHiFgdEa) | 2:56 |
+| 12 | [Yıkamazlar Beni \- Yıkamazlar Bizi](https://open.spotify.com/track/0vHm2X8K1Pw8uiCi7H6A60) | [Tekir](https://open.spotify.com/artist/2SqjgMx7edUilMzPosMR1P), [Seda Sayan](https://open.spotify.com/artist/5hKNaXEXIxQ3dmZR7FoRr8) | [Yıkamazlar Beni \(Yıkamazlar Bizi\)](https://open.spotify.com/album/6D0kjfXPoTsKARaHiFgdEa) | 3:02 |
 | 13 | [Başımda Altın Tacım](https://open.spotify.com/track/07EqQcfwMkQQ9dQ1HquPLB) | [Özgür Can Çoban](https://open.spotify.com/artist/6J5uNSCReF2DcT9pbwc4MY) | [Başımda Altın Tacım](https://open.spotify.com/album/3skVo4nV829ZFKFZzVHPkO) | 4:44 |
 | 14 | [Kalpsiz](https://open.spotify.com/track/6R2JXcMqO5aeNEfDARgGph) | [Gülden](https://open.spotify.com/artist/1aQhhnH3sUteqgE1EbmPec), [Aydın Kurtoğlu](https://open.spotify.com/artist/7ymCV8co6nSwmYFEyGmVvJ) | [Gülden'e Geldik X Aydın Kurtoğlu](https://open.spotify.com/album/7zNGdNHnNaM73HouQ0WGvR) | 3:40 |
 | 15 | [Maşallah \- Pür Cunda Live Sessions](https://open.spotify.com/track/0ud7h3slxcjihrkPMga1VQ) | [Duman](https://open.spotify.com/artist/6RTC1abMgBC7Krg6qJQHJh) | [Maşallah \(Pür Cunda Live Sessions\)](https://open.spotify.com/album/5eQiKzeqvbx2laofF79gu9) | 5:29 |
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 | 67 | [HOES \(feat\. Sexyy Red\) \[From Scary Movie\]](https://open.spotify.com/track/1IMTFCCPDw0R3JT6jYMimo) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [HOES \(feat\. Sexyy Red\) \[From Scary Movie\]](https://open.spotify.com/album/1fuVofIf79f9kg2CPH3LIt) | 2:09 |
 | 68 | [Yaygara](https://open.spotify.com/track/7qaXqxVBdciI5GTWms59H7) | [Sosyete '25](https://open.spotify.com/artist/5mL5uiuawlR6b4TI86vX3u) | [Yaygara](https://open.spotify.com/album/65wlaAQNnvSAiVeIh8rTNt) | 3:21 |
 | 69 | [bilmek istemem](https://open.spotify.com/track/5vF29IYNbCa0BHvtJ5Qhto) | [Vento](https://open.spotify.com/artist/6AVltkaemYSoibjVs2Tf6J), [Ravend](https://open.spotify.com/artist/0HYSrLdpldAsePdvuhxSLx) | [PORTRE](https://open.spotify.com/album/1lJCE2bMdrp3qyQohNiY6h) | 2:37 |
-| 70 | [Ölmeden Önce Çok Duygulsaldım](https://open.spotify.com/track/1r4Whz5zmwe5JGnmmTbyK6) | [Spade427](https://open.spotify.com/artist/7GREWMFJ4IGk3I9Sco4uDM) | [Ölmeden Önce Çok Duygulsaldım](https://open.spotify.com/album/3VEYqSC5yz6zqlykfqOsW5) | 2:11 |
+| 70 | [Ölmeden Önce Çok Duygusaldım](https://open.spotify.com/track/1r4Whz5zmwe5JGnmmTbyK6) | [Spade427](https://open.spotify.com/artist/7GREWMFJ4IGk3I9Sco4uDM) | [Ölmeden Önce Çok Duygusaldım](https://open.spotify.com/album/3VEYqSC5yz6zqlykfqOsW5) | 2:11 |
 | 71 | [Enkaz](https://open.spotify.com/track/7ezPPIa5zRkwkLFy1b3kJX) | [Irmak Arıcı](https://open.spotify.com/artist/3WKZeiNOV5dnANlQnjL95B) | [Enkaz](https://open.spotify.com/album/44npo3ZhPDmenchTF3vLBH) | 3:10 |
 | 72 | [NO MORE LIES](https://open.spotify.com/track/5ARstflBVbaeWDqzHnQds8) | [Öykü](https://open.spotify.com/artist/4RhGRpWkUswnIi6vHMa0Jr) | [NO MORE LIES](https://open.spotify.com/album/09ZnumY87uvjg76cZzzhfg) | 2:04 |
 | 73 | [Son Bir Savaş](https://open.spotify.com/track/0djT3kmjF7mgdptI13Z6Rw) | [Mentra](https://open.spotify.com/artist/1HWXCqZWPw3od0gpFoLXpe) | [Son Bir Savaş](https://open.spotify.com/album/1hxZEmtLaCX1YONS4BBm1v) | 2:59 |

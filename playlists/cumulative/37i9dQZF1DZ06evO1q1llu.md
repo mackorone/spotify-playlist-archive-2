@@ -4,7 +4,7 @@
 
 > This is The Kid LAROI\. The essential tracks, all in one playlist.
 
-100 songs - 4 hr 32 min
+101 songs - 4 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Distant Strangers \(feat\. The Kid LAROI & Imogen Heap\)](https://open.spotify.com/track/7oa9VKcTKyWIYTnaz5V6xI) | [ONEFOUR](https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [Distant Strangers \(feat\. The Kid LAROI & Imogen Heap\)](https://open.spotify.com/album/1cwp5FEVGQaKoBV1WPbIdJ) | 2:45 | 2025-06-14 | 2026-01-15 |
 | [Diva \(feat\. Lil Tecca\)](https://open.spotify.com/track/7gVwgc8b3XnO87TpmXXFA5) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Diva \(feat\. Lil Tecca\)](https://open.spotify.com/album/6baGSG5U130x5ttGIIRIwR) | 2:52 | 2023-12-18 |  |
 | [DYING ON THIS HILL](https://open.spotify.com/track/26hE8mgba0rWYqwrw759EH) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [BEFORE I FORGET \(DELUXE\)](https://open.spotify.com/album/6CACyqngQWTOAM1UpAtco3) | 2:42 | 2026-04-27 | 2026-04-29 |
-| [ECHOES](https://open.spotify.com/track/7f7rFere6b6mcFxroDk7fh) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [BEFORE I FORGET \(DELUXE\)](https://open.spotify.com/album/6CACyqngQWTOAM1UpAtco3) | 2:19 | 2026-04-29 |  |
+| [ECHOES](https://open.spotify.com/track/7f7rFere6b6mcFxroDk7fh) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [BEFORE I FORGET \(DELUXE\)](https://open.spotify.com/album/6CACyqngQWTOAM1UpAtco3) | 2:19 | 2026-04-29 | 2026-05-24 |
 | [F\*CK YOU, GOODBYE \(feat\. Machine Gun Kelly\)](https://open.spotify.com/track/0c34ovpXiMWWUbKX0IavIH) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [F\*CK LOVE 3+: OVER YOU](https://open.spotify.com/album/576UTio7xgY7YUxrHMzxeI) | 2:24 | 2023-12-18 |  |
 | [Fade Away](https://open.spotify.com/track/32ypPhtgTaETvFn3ZIHXTW) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Fade Away](https://open.spotify.com/album/5b7NAfjg5DjYPWshy2jSr3) | 2:59 | 2023-12-18 | 2026-01-15 |
 | [Forever & Again \(From Barbie The Album\)](https://open.spotify.com/track/6Ky8ROf2VWY5vwoGfMet7x) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Forever & Again \(From Barbie The Album\)](https://open.spotify.com/album/0PHUzNM9vbkW3EMUiKOxo7) | 2:19 | 2023-12-18 | 2026-05-21 |
@@ -87,6 +87,7 @@
 | [STAY \(with Justin Bieber\)](https://open.spotify.com/track/567e29TDzLwZwfDuEpGTwo) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [F\*CK LOVE 3+: OVER YOU](https://open.spotify.com/album/576UTio7xgY7YUxrHMzxeI) | 2:21 | 2024-01-04 |  |
 | [STAY \(with Justin Bieber\)](https://open.spotify.com/track/5HCyWlXZPP0y6Gqq8TgA20) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [STAY \(with Justin Bieber\)](https://open.spotify.com/album/4QLAtpLNUsHEYrcHXmMIZZ) | 2:21 | 2023-12-18 | 2025-07-21 |
 | [STICK WITH ME](https://open.spotify.com/track/3ALRBJsse1uiDIVY7SrRux) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [THE FIRST TIME \(DELUXE VERSION\)](https://open.spotify.com/album/30H0cGghxhBJ93v4h28XEt) | 2:32 | 2024-08-11 | 2026-05-10 |
+| [STICK WITH ME](https://open.spotify.com/track/3nZwX55th5wKpXCOn0WP9e) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [THE FIRST TIME \(DELUXE VERSION\)](https://open.spotify.com/album/5FYre0OdHLE1MnJ1bHTx1f) | 2:32 | 2026-05-24 |  |
 | [Still Yours \(From The Doc\)](https://open.spotify.com/track/7gJr3ockQ0fezUXuUXvaSq) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Still Yours \(From The Doc\)](https://open.spotify.com/album/03uCCaOFlRAJkE6oDInrLz) | 2:38 | 2024-03-02 | 2026-01-15 |
 | [STRANGERS PT 2 \(Interlude\)](https://open.spotify.com/track/3YlVbtqugGVXp08E207BsM) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [THE FIRST TIME \(DELUXE VERSION\)](https://open.spotify.com/album/30H0cGghxhBJ93v4h28XEt) | 0:43 | 2024-08-15 | 2024-08-21 |
 | [TEAR ME APART](https://open.spotify.com/track/4UeP96FekSiwztUsfRtWhj) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [THE FIRST TIME](https://open.spotify.com/album/63IolVUykZCHMlu2zu9jHS) | 1:54 | 2023-12-18 | 2024-01-07 |

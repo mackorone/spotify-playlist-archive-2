@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBkH6REkPEr.md) - [plain]
 
 > Floor fillers and big streamers of 2014.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,103 likes - 81 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,163 likes - 81 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBkH6REkPEr.md) - [plain]
 | 40 | [Take Ü There \(feat\. Kiesza\)](https://open.spotify.com/track/2RpKh7kXSdO8NLrW9VQ46p) | [Jack Ü](https://open.spotify.com/artist/1HxJeLhIuegM3KgvPn8sTa), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Kiesza](https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo) | [Skrillex and Diplo present Jack Ü](https://open.spotify.com/album/6bfkwBrGYKJFk6Z4QVyjxd) | 3:30 |
 | 41 | [Desire](https://open.spotify.com/track/20ouJW3BTG6aFAugslihCw) | [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Communion \(Deluxe\)](https://open.spotify.com/album/0bWYlK9rRmIB68icHx9PNR) | 3:26 |
 | 42 | [I Loved You \(feat\. Melissa Steel\)](https://open.spotify.com/track/4KuS9s0fuqLznp9AJTqTm7) | [Blonde](https://open.spotify.com/artist/2nuKjZLgc7II6FO4Rxjt5e), [Melissa Steel](https://open.spotify.com/artist/4NANaRSl8fuDZ3wMlQCVmf) | [I Loved You \(feat\. Melissa Steel\)](https://open.spotify.com/album/7onuwN1E6MPBFMbG4WAOoS) | 3:04 |
-| 43 | [Find You](https://open.spotify.com/track/7mazffu6nlIv0rtRyPDMTD) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Matthew Koma](https://open.spotify.com/artist/1mU61l2mcjEFraXZLpvVMo), [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [Clarity \(Deluxe\)](https://open.spotify.com/album/7iC7iQaeRrG33H6VInfl00) | 3:24 |
-| 44 | [UFO \- Radio Edit](https://open.spotify.com/track/7azVJ6AgvPLOum1tppactO) | [Vigiland](https://open.spotify.com/artist/3tLYpanVDomWAZqF82NPds) | [UFO](https://open.spotify.com/album/5fkAvx2E00HYs3bQAmRIBy) | 2:24 |
+| 43 | [UFO \- Radio Edit](https://open.spotify.com/track/7azVJ6AgvPLOum1tppactO) | [Vigiland](https://open.spotify.com/artist/3tLYpanVDomWAZqF82NPds) | [UFO](https://open.spotify.com/album/5fkAvx2E00HYs3bQAmRIBy) | 2:24 |
+| 44 | [Find You](https://open.spotify.com/track/7mazffu6nlIv0rtRyPDMTD) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Matthew Koma](https://open.spotify.com/artist/1mU61l2mcjEFraXZLpvVMo), [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [Clarity \(Deluxe\)](https://open.spotify.com/album/7iC7iQaeRrG33H6VInfl00) | 3:24 |
 | 45 | [Cut Your Teeth \- Kygo Remix](https://open.spotify.com/track/1y4Kln6VEjQMpmHW7j9GeY) | [Kyla La Grange](https://open.spotify.com/artist/6KcmUwBzfwLaYxdfIboqcp), [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4) | [Cut Your Teeth \(Kygo Remix\)](https://open.spotify.com/album/2i4AbvFA9e6XszmH1x4G2h) | 6:39 |
 | 46 | [Virus \(How About Now\)](https://open.spotify.com/track/3ukWpmRHvpuDATCJkgLEkF) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W) | [Virus \(How About Now\)](https://open.spotify.com/album/07c9ANynLvxYlO8aHWoNqP) | 4:33 |
 | 47 | [Riptide \- FlicFlac Edit](https://open.spotify.com/track/6FeGkJquvWWoAOa3rMM6EB) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT), [FlicFlac](https://open.spotify.com/artist/118tMA379KP9TjxmsQsLKY) | [Riptide \(FlicFlac Edit\)](https://open.spotify.com/album/5jQhvxw1BMfsGQ8oTCT3Yp) | 5:39 |

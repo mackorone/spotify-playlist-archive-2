@@ -4,7 +4,7 @@
 
 > This is Vilma Palma e Vampiros\. The essential tracks, all in one playlist.
 
-91 songs - 6 hr 13 min
+92 songs - 6 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Bella Mujer](https://open.spotify.com/track/5Vrc6YjRKhsR2Ee1bqKnNA) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Agarrate Fuerte](https://open.spotify.com/album/7z4q6L1G8IFwyavj5aKQr7) | 3:26 | 2023-01-09 | 2026-05-10 |
 | [Besos en el Ascensor](https://open.spotify.com/track/6VKNpxs7kYpDuynDozMj2a) | [Manu Piró](https://open.spotify.com/artist/1RfOn1jpPuM4THF3zHKrJA), [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Besos en el Ascensor](https://open.spotify.com/album/1YEs3YvLSfcVPXAaf7oo03) | 3:10 | 2022-10-26 | 2025-06-14 |
 | [Borracho Hasta El Amanecer](https://open.spotify.com/track/33Oy56bS8e8QvxIyLd0L2d) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Histeria](https://open.spotify.com/album/7J1w8Xh73iGF5SxiDmNZ6G) | 4:12 | 2022-10-26 |  |
-| [Bumerang](https://open.spotify.com/track/2Vx2DZxRtEGAvmipf71Yaw) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Boomerang](https://open.spotify.com/album/1TY6aCob3FJIt3nj7irZPq) | 3:12 | 2026-05-03 |  |
+| [Bumerang](https://open.spotify.com/track/2Vx2DZxRtEGAvmipf71Yaw) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Boomerang](https://open.spotify.com/album/1TY6aCob3FJIt3nj7irZPq) | 3:12 | 2026-05-03 | 2026-05-24 |
 | [Bumerang](https://open.spotify.com/track/5OAIDWC6OWeJFGS3KZPkLF) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Boomerang](https://open.spotify.com/album/7ceZgHQI7VWGueZkhjY8BD) | 3:12 | 2022-10-28 | 2026-05-03 |
 | [Buscando a Mi Chica](https://open.spotify.com/track/16VPsUX80fv4XVfo8sS2Pp) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Agarrate Fuerte](https://open.spotify.com/album/7z4q6L1G8IFwyavj5aKQr7) | 3:56 | 2024-04-30 | 2024-05-03 |
 | [Bye Bye](https://open.spotify.com/track/2FSYfKAApea3U42phhBOIc) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [La Pachanga](https://open.spotify.com/album/6xEaCs71qwGCQJiotOycSr) | 5:49 | 2022-10-26 |  |
@@ -30,6 +30,7 @@
 | [cumbia](https://open.spotify.com/track/5Quu2pIGvboHPYxJaqFXyE) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Vilma Palma E Vampiros, Grandes Exitos](https://open.spotify.com/album/0USi7PgdFidMaRIcsjmIy2) | 3:05 | 2022-10-26 |  |
 | [Demasiado Tarde](https://open.spotify.com/track/5Oa1k1gOxhP018PPRw1Sys) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [La Pachanga](https://open.spotify.com/album/6xEaCs71qwGCQJiotOycSr) | 5:50 | 2022-10-26 |  |
 | [Ella lo Hace Mejor](https://open.spotify.com/track/4BcslhiC50eygxnmF5Dq2d) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Agarrate Fuerte](https://open.spotify.com/album/7z4q6L1G8IFwyavj5aKQr7) | 3:56 | 2022-10-26 | 2024-03-18 |
+| [Esperando en Hecatombe Disco](https://open.spotify.com/track/5RXBPLuRQVLJ769Tw77RN4) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Hecatombe Disco](https://open.spotify.com/album/2ZGCpjlSEH00JNwAPjY1o0) | 2:50 | 2026-05-24 |  |
 | [Estúpida](https://open.spotify.com/track/6IiCJye3u6X8C83pR1WWLy) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Hecatombe Disco](https://open.spotify.com/album/2ZGCpjlSEH00JNwAPjY1o0) | 3:31 | 2022-10-26 |  |
 | [Fernet con coca](https://open.spotify.com/track/5MChIGdXC12NGktlS4YGgs) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Vilma Palma E Vampiros, Grandes Exitos](https://open.spotify.com/album/0USi7PgdFidMaRIcsjmIy2) | 3:53 | 2022-10-26 |  |
 | [Flaca](https://open.spotify.com/track/4nrnvLDI4Gi1vr7y9kGARa) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Flaca](https://open.spotify.com/album/7mVLJqjHL76zbPnk8a0DXd) | 3:47 | 2022-12-09 | 2026-05-09 |

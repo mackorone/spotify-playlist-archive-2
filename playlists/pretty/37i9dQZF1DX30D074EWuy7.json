@@ -1,6 +1,6 @@
 {
   "description": "La playlist del jazz italiano, passato e presente. Cover: Carolina Bubbico",
-  "num_followers": 34453,
+  "num_followers": 34452,
   "original_name": "Jazz Italia",
   "owner": {
     "name": "Spotify",
@@ -879,30 +879,6 @@
     {
       "added_at": "2026-05-21 22:02:54",
       "album": {
-        "name": "Trama Latina",
-        "url": "https://open.spotify.com/album/6yPxl2kSktRRwdsHGP52pY"
-      },
-      "artists": [
-        {
-          "name": "Paolo Fresu",
-          "url": "https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi"
-        },
-        {
-          "name": "David Linx",
-          "url": "https://open.spotify.com/artist/2k1nZ9A4l6tQLfrVABHwcL"
-        },
-        {
-          "name": "Gustavo Beytelmann",
-          "url": "https://open.spotify.com/artist/2PH8EDFFaImOaGSe0yXVVu"
-        }
-      ],
-      "duration_ms": 370960,
-      "name": "chiquil\u00edn de bach\u00edn",
-      "url": "https://open.spotify.com/track/482bT2u015ShiWjWuxtwkN"
-    },
-    {
-      "added_at": "2026-05-21 22:02:54",
-      "album": {
         "name": "Funambola",
         "url": "https://open.spotify.com/album/08xjdXUMNo6eXeh45j99xp"
       },
@@ -931,6 +907,30 @@
       "duration_ms": 231920,
       "name": "Vola lontano",
       "url": "https://open.spotify.com/track/7ACPRMQ3iaDUFCSjirM86Q"
+    },
+    {
+      "added_at": "2026-05-21 22:02:54",
+      "album": {
+        "name": "Trama Latina",
+        "url": "https://open.spotify.com/album/6yPxl2kSktRRwdsHGP52pY"
+      },
+      "artists": [
+        {
+          "name": "Paolo Fresu",
+          "url": "https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi"
+        },
+        {
+          "name": "David Linx",
+          "url": "https://open.spotify.com/artist/2k1nZ9A4l6tQLfrVABHwcL"
+        },
+        {
+          "name": "Gustavo Beytelmann",
+          "url": "https://open.spotify.com/artist/2PH8EDFFaImOaGSe0yXVVu"
+        }
+      ],
+      "duration_ms": 370960,
+      "name": "chiquil\u00edn de bach\u00edn",
+      "url": "https://open.spotify.com/track/482bT2u015ShiWjWuxtwkN"
     },
     {
       "added_at": "2026-05-21 22:02:54",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2026-05-21 22:02:54",
       "album": {
-        "name": "Feliz",
-        "url": "https://open.spotify.com/album/7wHCGiTLzd4HDubO0QR5TO"
-      },
-      "artists": [
-        {
-          "name": "Alsogood",
-          "url": "https://open.spotify.com/artist/5OysFKzPrUU0KnLdCLCkSG"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "Feliz",
-      "url": "https://open.spotify.com/track/2d2iHAsxyu6c9Ht5ecaIKh"
-    },
-    {
-      "added_at": "2026-05-21 22:02:54",
-      "album": {
         "name": "New Game Plus",
         "url": "https://open.spotify.com/album/6tmZs6mC32XYxX7roqBsFd"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 222000,
       "name": "2 AM",
       "url": "https://open.spotify.com/track/3vSCu1i40ARAivECYZfcV9"
+    },
+    {
+      "added_at": "2026-05-21 22:02:54",
+      "album": {
+        "name": "Feliz",
+        "url": "https://open.spotify.com/album/7wHCGiTLzd4HDubO0QR5TO"
+      },
+      "artists": [
+        {
+          "name": "Alsogood",
+          "url": "https://open.spotify.com/artist/5OysFKzPrUU0KnLdCLCkSG"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "Feliz",
+      "url": "https://open.spotify.com/track/2d2iHAsxyu6c9Ht5ecaIKh"
     },
     {
       "added_at": "2026-05-21 22:02:54",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2026-05-21 22:02:54",
       "album": {
-        "name": "1000 Smiles",
-        "url": "https://open.spotify.com/album/2coGljzacUFergWPnD8hoF"
-      },
-      "artists": [
-        {
-          "name": "Alsogood",
-          "url": "https://open.spotify.com/artist/5OysFKzPrUU0KnLdCLCkSG"
-        }
-      ],
-      "duration_ms": 132413,
-      "name": "Estate",
-      "url": "https://open.spotify.com/track/3YkfBiiNDyedGy9iCX1f5r"
-    },
-    {
-      "added_at": "2026-05-21 22:02:54",
-      "album": {
         "name": "You've Changed",
         "url": "https://open.spotify.com/album/7hGEPf44dnLcXPOfs3RBdX"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 302689,
       "name": "Per Ricordarmi Di Te",
       "url": "https://open.spotify.com/track/4vYAHjRiwV0kjb4JIzLlHX"
+    },
+    {
+      "added_at": "2026-05-21 22:02:54",
+      "album": {
+        "name": "1000 Smiles",
+        "url": "https://open.spotify.com/album/2coGljzacUFergWPnD8hoF"
+      },
+      "artists": [
+        {
+          "name": "Alsogood",
+          "url": "https://open.spotify.com/artist/5OysFKzPrUU0KnLdCLCkSG"
+        }
+      ],
+      "duration_ms": 132413,
+      "name": "Estate",
+      "url": "https://open.spotify.com/track/3YkfBiiNDyedGy9iCX1f5r"
     },
     {
       "added_at": "2026-05-21 22:02:54",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2026-05-21 22:02:54",
       "album": {
+        "name": "The Jazzness",
+        "url": "https://open.spotify.com/album/6MZzEc8mkCHG7ugAbbI2oQ"
+      },
+      "artists": [
+        {
+          "name": "Inoki",
+          "url": "https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF"
+        }
+      ],
+      "duration_ms": 248089,
+      "name": "Ripartire Da Zero 2025",
+      "url": "https://open.spotify.com/track/2VP7ywy2ucmXx089g5Izgb"
+    },
+    {
+      "added_at": "2026-05-21 22:02:54",
+      "album": {
         "name": "Morabeza",
         "url": "https://open.spotify.com/album/3n55TgC6Qv30oyw7yj11mY"
       },
@@ -1223,22 +1239,6 @@
       "duration_ms": 165573,
       "name": "Giuramento (feat. Gabriele Mirabassi)",
       "url": "https://open.spotify.com/track/15zNDagxqRrKm4HWtcvTZv"
-    },
-    {
-      "added_at": "2026-05-21 22:02:54",
-      "album": {
-        "name": "The Jazzness",
-        "url": "https://open.spotify.com/album/6MZzEc8mkCHG7ugAbbI2oQ"
-      },
-      "artists": [
-        {
-          "name": "Inoki",
-          "url": "https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF"
-        }
-      ],
-      "duration_ms": 248089,
-      "name": "Ripartire Da Zero 2025",
-      "url": "https://open.spotify.com/track/2VP7ywy2ucmXx089g5Izgb"
     },
     {
       "added_at": "2026-05-21 22:02:54",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2026-05-21 22:02:54",
       "album": {
+        "name": "Porta Pia",
+        "url": "https://open.spotify.com/album/27ewyS8tUv5mc6VtkB206d"
+      },
+      "artists": [
+        {
+          "name": "Coca Puma",
+          "url": "https://open.spotify.com/artist/1ByonnOisC5Owt0tfsyzGc"
+        }
+      ],
+      "duration_ms": 175458,
+      "name": "Porta Pia",
+      "url": "https://open.spotify.com/track/3odWDhS8Pk3yIqti833UQb"
+    },
+    {
+      "added_at": "2026-05-21 22:02:54",
+      "album": {
         "name": "Ballads",
         "url": "https://open.spotify.com/album/1gqjxM0wGTsEhA9GNCD1Gi"
       },
@@ -1427,22 +1443,6 @@
       "duration_ms": 276862,
       "name": "It's Easy to Remember",
       "url": "https://open.spotify.com/track/44swRdyN58zo6GzdRtHcub"
-    },
-    {
-      "added_at": "2026-05-21 22:02:54",
-      "album": {
-        "name": "Porta Pia",
-        "url": "https://open.spotify.com/album/27ewyS8tUv5mc6VtkB206d"
-      },
-      "artists": [
-        {
-          "name": "Coca Puma",
-          "url": "https://open.spotify.com/artist/1ByonnOisC5Owt0tfsyzGc"
-        }
-      ],
-      "duration_ms": 175458,
-      "name": "Porta Pia",
-      "url": "https://open.spotify.com/track/3odWDhS8Pk3yIqti833UQb"
     },
     {
       "added_at": "2026-05-21 22:02:54",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2026-05-21 22:02:54",
       "album": {
-        "name": "Le mie donne",
-        "url": "https://open.spotify.com/album/0nNoUuTnjhy6nsbrFHtAYY"
-      },
-      "artists": [
-        {
-          "name": "Sade Mangiaracina",
-          "url": "https://open.spotify.com/artist/4SE5avfQnwqWxmiGZI1WMb"
-        }
-      ],
-      "duration_ms": 236881,
-      "name": "Rosa",
-      "url": "https://open.spotify.com/track/3wO2S9SjQkG64qJv81S0ah"
-    },
-    {
-      "added_at": "2026-05-21 22:02:54",
-      "album": {
         "name": "Meridian",
         "url": "https://open.spotify.com/album/4Xih1E9StG9RV8UjQ2DDET"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 150755,
       "name": "Meridian",
       "url": "https://open.spotify.com/track/7o8dtA8TSGnOhshs9HPYyV"
+    },
+    {
+      "added_at": "2026-05-21 22:02:54",
+      "album": {
+        "name": "Le mie donne",
+        "url": "https://open.spotify.com/album/0nNoUuTnjhy6nsbrFHtAYY"
+      },
+      "artists": [
+        {
+          "name": "Sade Mangiaracina",
+          "url": "https://open.spotify.com/artist/4SE5avfQnwqWxmiGZI1WMb"
+        }
+      ],
+      "duration_ms": 236881,
+      "name": "Rosa",
+      "url": "https://open.spotify.com/track/3wO2S9SjQkG64qJv81S0ah"
     },
     {
       "added_at": "2026-05-21 22:02:54",
@@ -1695,6 +1695,22 @@
     {
       "added_at": "2026-05-21 22:02:54",
       "album": {
+        "name": "Alchimia",
+        "url": "https://open.spotify.com/album/4bfZxJcBhT7jT7ATaZn1po"
+      },
+      "artists": [
+        {
+          "name": "AIN\u00c9",
+          "url": "https://open.spotify.com/artist/6XLKAr0x6aB0V3aAaqAS9h"
+        }
+      ],
+      "duration_ms": 225875,
+      "name": "Hangover",
+      "url": "https://open.spotify.com/track/4BUOv7mgtR1KT4VIaidMlP"
+    },
+    {
+      "added_at": "2026-05-21 22:02:54",
+      "album": {
         "name": "Ipnagogico",
         "url": "https://open.spotify.com/album/5HHgjR7lVw20NfDrgXE3Ix"
       },
@@ -1723,22 +1739,6 @@
       "duration_ms": 217280,
       "name": "Song for Django",
       "url": "https://open.spotify.com/track/6V6BOGQ5AjGyFnHyayO8aV"
-    },
-    {
-      "added_at": "2026-05-21 22:02:54",
-      "album": {
-        "name": "Alchimia",
-        "url": "https://open.spotify.com/album/4bfZxJcBhT7jT7ATaZn1po"
-      },
-      "artists": [
-        {
-          "name": "AIN\u00c9",
-          "url": "https://open.spotify.com/artist/6XLKAr0x6aB0V3aAaqAS9h"
-        }
-      ],
-      "duration_ms": 225875,
-      "name": "Hangover",
-      "url": "https://open.spotify.com/track/4BUOv7mgtR1KT4VIaidMlP"
     },
     {
       "added_at": "2026-05-21 22:02:54",
@@ -1791,22 +1791,6 @@
     {
       "added_at": "2026-05-21 22:02:54",
       "album": {
-        "name": "Freaky People",
-        "url": "https://open.spotify.com/album/5GidaDXTEqFHHfhH5aTo44"
-      },
-      "artists": [
-        {
-          "name": "Al Doum & The Faryds",
-          "url": "https://open.spotify.com/artist/3eL7WEdwv8YTlSsg5mqyF5"
-        }
-      ],
-      "duration_ms": 348375,
-      "name": "Here We Gong",
-      "url": "https://open.spotify.com/track/5u0jFEGcdSiJgBFvZf0Waj"
-    },
-    {
-      "added_at": "2026-05-21 22:02:54",
-      "album": {
         "name": "La Strada Invisibile",
         "url": "https://open.spotify.com/album/5JEW0isqD0vYpZ0CqGxmhD"
       },
@@ -1823,6 +1807,22 @@
       "duration_ms": 288616,
       "name": "Tuareg",
       "url": "https://open.spotify.com/track/78x2PdL40tU1NMLpv933CU"
+    },
+    {
+      "added_at": "2026-05-21 22:02:54",
+      "album": {
+        "name": "Freaky People",
+        "url": "https://open.spotify.com/album/5GidaDXTEqFHHfhH5aTo44"
+      },
+      "artists": [
+        {
+          "name": "Al Doum & The Faryds",
+          "url": "https://open.spotify.com/artist/3eL7WEdwv8YTlSsg5mqyF5"
+        }
+      ],
+      "duration_ms": 348375,
+      "name": "Here We Gong",
+      "url": "https://open.spotify.com/track/5u0jFEGcdSiJgBFvZf0Waj"
     },
     {
       "added_at": "2026-05-21 22:02:54",
@@ -1883,6 +1883,22 @@
     {
       "added_at": "2026-05-21 22:02:54",
       "album": {
+        "name": "GAS",
+        "url": "https://open.spotify.com/album/7zzqn4dW49B9XEEdmO4Xfz"
+      },
+      "artists": [
+        {
+          "name": "Tare",
+          "url": "https://open.spotify.com/artist/4pY5WUGXSfiCUMFnb15oEB"
+        }
+      ],
+      "duration_ms": 180738,
+      "name": "Acqua alta",
+      "url": "https://open.spotify.com/track/5gpUzlhLYjc1x3yWfbv5nE"
+    },
+    {
+      "added_at": "2026-05-21 22:02:54",
+      "album": {
         "name": "New York Days",
         "url": "https://open.spotify.com/album/5qIvcmHXW5Av8XQGCAmeIK"
       },
@@ -1911,22 +1927,6 @@
       "duration_ms": 653973,
       "name": "Certi angoli segreti",
       "url": "https://open.spotify.com/track/0TgOi4joOrp0spXM754Z8X"
-    },
-    {
-      "added_at": "2026-05-21 22:02:54",
-      "album": {
-        "name": "GAS",
-        "url": "https://open.spotify.com/album/7zzqn4dW49B9XEEdmO4Xfz"
-      },
-      "artists": [
-        {
-          "name": "Tare",
-          "url": "https://open.spotify.com/artist/4pY5WUGXSfiCUMFnb15oEB"
-        }
-      ],
-      "duration_ms": 180738,
-      "name": "Acqua alta",
-      "url": "https://open.spotify.com/track/5gpUzlhLYjc1x3yWfbv5nE"
     }
   ],
   "unique_name": "Jazz Italia",

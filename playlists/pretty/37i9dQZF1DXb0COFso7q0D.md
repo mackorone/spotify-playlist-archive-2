@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb0COFso7q0D.md) - [plain]
 
 > La playlist sin fronteras, elevando a la Música Mexicana\. Cover: Xavi
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,240,536 likes - 62 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,240,674 likes - 62 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,29 +1,13 @@
 {
   "description": "This is CeCe Winans. The essential tracks, all in one playlist.",
-  "num_followers": 56337,
+  "num_followers": 56356,
   "original_name": "This Is CeCe Winans",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ag5LAAAAAAB9k90iMTYdPzI68Zcxi5Wk",
+  "snapshot_id": "ag+cgAAAAADp1JoE7WGGWZAeqAO40Z7v",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "More Than This (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0RuwuHO9xhkquxXhG5HXpM"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 362984,
-      "name": "We Pray",
-      "url": "https://open.spotify.com/track/1pEOwIwQP3GoONiFfpCoSS"
-    },
     {
       "added_at": null,
       "album": {
@@ -183,6 +167,22 @@
       "duration_ms": 235438,
       "name": "How Great Thou Art - Spotify Single",
       "url": "https://open.spotify.com/track/3L9nwP3kwbpf8wkgfmVrdS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "More Than This (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/69WCyVxbWHRWxWcTZmDhlP"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 362984,
+      "name": "We Pray",
+      "url": "https://open.spotify.com/track/2sy5wBrwnEDlOyYgL8SdTm"
     },
     {
       "added_at": null,
@@ -679,22 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CeCe Winans",
-        "url": "https://open.spotify.com/album/0rJg3QtLoMmkkK91BOH69P"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 260200,
-      "name": "No One",
-      "url": "https://open.spotify.com/track/2bpk4L2kxnIJRY8dPfkpZ3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Waiting To Exhale",
         "url": "https://open.spotify.com/album/2EHFZkzTbRFDt1tomCBToM"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 266786,
       "name": "Count On Me - from \"Waiting to Exhale\" - Original Soundtrack",
       "url": "https://open.spotify.com/track/7mVV7fepIMUAE4FDyihupV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CeCe Winans",
+        "url": "https://open.spotify.com/album/0rJg3QtLoMmkkK91BOH69P"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 260200,
+      "name": "No One",
+      "url": "https://open.spotify.com/track/2bpk4L2kxnIJRY8dPfkpZ3"
     },
     {
       "added_at": null,

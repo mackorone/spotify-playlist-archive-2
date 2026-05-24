@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 
 > Catching flights and going global\. Cover: Anitta, LISA, Rema
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,807 likes - 85 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,820 likes - 85 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

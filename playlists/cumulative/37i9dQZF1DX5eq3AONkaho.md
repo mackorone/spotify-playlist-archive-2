@@ -4,7 +4,7 @@
 
 > Why so serious? Get through your workday with K\-Pop\. \(내적댄스 유발 노동요와 함께 신나는 업무 & 공부시간을 보내세요!\)
 
-1,159 songs - 2 day 15 hr 35 min
+1,160 songs - 2 day 15 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -498,7 +498,7 @@
 | [How You Like That](https://open.spotify.com/track/4SFknyjLcyTLJFPKD2m96o) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [THE ALBUM](https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N) | 3:02 | 2021-11-17 | 2024-04-19 |
 | [Human Extinction](https://open.spotify.com/track/6lsMGAukr1a1MpRObHuzWr) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [Archive\. 1](https://open.spotify.com/album/4b2SRu119PeGbPd4LEC0fs) | 3:26 | 2026-03-20 | 2026-04-06 |
 | [Humph!](https://open.spotify.com/track/0m3W71Oliiv3gQWXi2YAmJ) | [PENTAGON](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) | [SUM\(ME:R\)](https://open.spotify.com/album/4hlhRlDPvdfc7hQoD8gxZ1) | 3:12 | 2021-11-17 | 2022-05-30 |
-| [HWAA](https://open.spotify.com/track/5FiXhM80sP4yg6tEnHkZZn) | [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I burn](https://open.spotify.com/album/3ma5amx5s3l1NKoWNHaMYe) | 3:17 | 2021-11-17 |  |
+| [HWAA](https://open.spotify.com/track/5FiXhM80sP4yg6tEnHkZZn) | [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I burn](https://open.spotify.com/album/3ma5amx5s3l1NKoWNHaMYe) | 3:17 | 2021-11-17 | 2026-05-24 |
 | [Hype Boy](https://open.spotify.com/track/0a4MMyCrzT0En247IhqZbD) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 2:59 | 2022-08-12 |  |
 | [I](https://open.spotify.com/track/5ZkITfPpcNPnyYGTibkO6m) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu), [Verbal Jint](https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR) | [I \- The 1st Mini Album](https://open.spotify.com/album/4e7kLQu7SKBUiMtV5WH3A1) | 3:26 | 2021-11-17 | 2026-04-13 |
 | [I AM](https://open.spotify.com/track/70t7Q6AYG6ZgTYmJWcnkUM) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I've IVE](https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB) | 3:03 | 2023-07-20 | 2024-04-19 |
@@ -827,6 +827,7 @@
 | [Rendezvous](https://open.spotify.com/track/4nKnOIDXFjRSMG4vkXDwzY) | [AHOF](https://open.spotify.com/artist/4qfEQKZj3GXPjLBEppvHTH) | [WHO WE ARE](https://open.spotify.com/album/0RBuVlwwEKFRj4wTiDayRz) | 3:40 | 2026-01-22 | 2026-03-27 |
 | [Replay](https://open.spotify.com/track/3lezH4ocsAaxqVGL8E0pS4) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [Replay \- The First Mini Album](https://open.spotify.com/album/2zarKiOQYtJ9PGWxYxUOk5) | 3:36 | 2021-11-17 | 2022-07-29 |
 | [RESONANCE](https://open.spotify.com/track/20JPjdOTiKAeIQmfiEw9EA) | [NCT 2020](https://open.spotify.com/artist/3IniCa6EijyZ3bsY0eTG3C) | [RESONANCE](https://open.spotify.com/album/6wYyYhNKiJoG0QosSp2qT6) | 5:14 | 2021-11-17 | 2022-07-27 |
+| [riBBon](https://open.spotify.com/track/1Y8KxQUmP1xuaF5mNTYE0x) | [BamBam](https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr) | [riBBon](https://open.spotify.com/album/4257hXQ3Msts5H4RZGrVHw) | 3:07 | 2026-04-27 |  |
 | [Rich Man](https://open.spotify.com/track/2lzb0dgTFAfrHfzlZA9Hxw) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Rich Man \- The 6th Mini Album](https://open.spotify.com/album/3rUhGAdzBVzicwTPAVQjXu) | 3:17 | 2025-11-21 |  |
 | [Ride on the wind](https://open.spotify.com/track/7gQWTvDx7VJRzeRbnlyIm4) | [KARD](https://open.spotify.com/artist/2JhAlkmukNvarUpGhTFXUQ) | [KARD 3rd Mini Album 'RIDE ON THE WIND'](https://open.spotify.com/album/7iqmCRizEEBOLwPCRnmh8L) | 2:56 | 2022-01-03 | 2022-07-20 |
 | [Ring Ding Dong](https://open.spotify.com/track/4vLqN0bIxIQjlet2mIMBnx) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [2009, Year Of Us \- The Third Mini Album](https://open.spotify.com/album/5AH7uBaxp7ojNCvImOeZvC) | 3:53 | 2022-03-24 | 2023-03-29 |

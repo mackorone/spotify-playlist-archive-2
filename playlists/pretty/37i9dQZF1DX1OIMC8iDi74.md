@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 
 > The best of electronic trap 👑 with Dillon Francis
 
-[Spotify](https://open.spotify.com/user/spotify) - 880,110 likes - 100 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 880,101 likes - 100 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 | 77 | [BACK2LIFE](https://open.spotify.com/track/1nTtAystVLB5UGcv09FKMI) | [bauti](https://open.spotify.com/artist/5WM06QK9Vtq1p9aRSczRdf), [Rico 56](https://open.spotify.com/artist/1fMQutD7EmZamY65WftFWm) | [BACK2LIFE](https://open.spotify.com/album/3hnrBmgnBChDxegenX7hMc) | 2:15 |
 | 78 | [HI\-FASHION \(feat\. Matt Ox, DJ Smokey\)](https://open.spotify.com/track/0ca78EYblROFZ2hrdIGMSU) | [Ailow](https://open.spotify.com/artist/270jtLW7Wr3QPEVoE2HAkB), [Lizdek](https://open.spotify.com/artist/65Kq02oh0g3gRqfZ0fo8eG), [Matt OX](https://open.spotify.com/artist/2J6pigOrBmKQgqJUY5UM7r), [Dj Smokey](https://open.spotify.com/artist/6o5wSBDuLpn2vRpPvGuGBy) | [HI\-FASHION \(feat\. Matt Ox, Dj Smokey\)](https://open.spotify.com/album/0bRNwBjkZTYH6u87PxdbFB) | 3:02 |
 | 79 | [BITE \(MY STYLE\)](https://open.spotify.com/track/0prQSBXEepgAXAxFRbiHET) | [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64) | [BITE \(MY STYLE\)](https://open.spotify.com/album/2WGNVmijdmBF4Qox8aQZWO) | 2:28 |
-| 80 | [Dead To Me](https://open.spotify.com/track/2Q4N4dG8jJegNGNgyToYaq) | [Viperactive](https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9) | [Dead To Me](https://open.spotify.com/album/34OpgsgQ6B578xOcX2IYg5) | 2:59 |
-| 81 | [Steps On You \(Peep My Style\)](https://open.spotify.com/track/4vk250sguUOlV3O6bPJix8) | [Nitepunk](https://open.spotify.com/artist/6iPbI11utXY9CVhX6SPXEg) | [Steps On You \(Peep My Style\)](https://open.spotify.com/album/28MHnDXOPNYdf3tcuvJJqt) | 2:56 |
+| 80 | [Steps On You \(Peep My Style\)](https://open.spotify.com/track/4vk250sguUOlV3O6bPJix8) | [Nitepunk](https://open.spotify.com/artist/6iPbI11utXY9CVhX6SPXEg) | [Steps On You \(Peep My Style\)](https://open.spotify.com/album/28MHnDXOPNYdf3tcuvJJqt) | 2:56 |
+| 81 | [Dead To Me](https://open.spotify.com/track/2Q4N4dG8jJegNGNgyToYaq) | [Viperactive](https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9) | [Dead To Me](https://open.spotify.com/album/34OpgsgQ6B578xOcX2IYg5) | 2:59 |
 | 82 | [EGOTRIP](https://open.spotify.com/track/1mftC5sqZIwvwzfFWdjgCg) | [Eliminate](https://open.spotify.com/artist/6hBrJJrcYoNhvLC6KaFR4b) | [Get Off The Internet](https://open.spotify.com/album/79Vap7cvRfZIf5qV87LbKV) | 2:24 |
 | 83 | [youshouldknow \(feat\. Casey Cook\)](https://open.spotify.com/track/1Db1MGuGNjtSTt1G9M5NgE) | [Ookay](https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t), [Casey Cook](https://open.spotify.com/artist/3tG47C60La9mzGXfsIHTBl) | [type:era](https://open.spotify.com/album/3kJxbCSkTi03NwxMme0rNz) | 2:52 |
 | 84 | [Sometimes / DOPAMINE++++](https://open.spotify.com/track/0e7RwCcU9gN6XbrW44jVaF) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [ADRENOCHROME : ZERO](https://open.spotify.com/album/1XcFeU8EviCIDffkzBGZpa) | 3:15 |
@@ -101,10 +101,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 | 91 | [EMPURRA](https://open.spotify.com/track/4VKMrWdhJvNWcCZ8u8hT6R) | [Dabow](https://open.spotify.com/artist/6GQx1heM2wyI3iHpAC5P8X), [bauti](https://open.spotify.com/artist/5WM06QK9Vtq1p9aRSczRdf) | [EMPURRA](https://open.spotify.com/album/4oVQrBehJVUmwlWNilM22e) | 2:12 |
 | 92 | [SAVE U](https://open.spotify.com/track/7AoZ39tdZt9OLEsfQ6bdiA) | [SVDKO](https://open.spotify.com/artist/0bhDbXEM9xuKfuQWXmUHHt), [Klo](https://open.spotify.com/artist/2QlABGwVVmqOu8SHMyyZMq) | [SAVE U](https://open.spotify.com/album/1p2cM5KI8zCFBcKwzwdNlM) | 2:41 |
 | 93 | [NEXUS](https://open.spotify.com/track/7Db3ixbu5fo3uUZ2ZyQDKW) | [G\-REX](https://open.spotify.com/artist/0ZpPLGn0OkRMl2Y9Twn16K), [STUCA](https://open.spotify.com/artist/5W9QwHSJPJ5blGIyn8nSUb) | [NEXUS](https://open.spotify.com/album/7FohOMeifnnZOsoDFOybRZ) | 2:31 |
-| 94 | [lanadelrey](https://open.spotify.com/track/3kjYDRDhykMPFgkCkYhHrs) | [WINK](https://open.spotify.com/artist/0tmvLj5Sa3njrifpuruKBu) | [lanadelrey](https://open.spotify.com/album/39Li2oAsxCMhoJjwgSf0zV) | 2:44 |
+| 94 | [WONKY](https://open.spotify.com/track/1PqDk7xj3S2IUrvt7y8JMw) | [OddKidOut](https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux), [AHEE](https://open.spotify.com/artist/1gbDc1TANALgP8lLvO5UEf) | [WONKY](https://open.spotify.com/album/5fnyNsCy9D1m1NWxoG0Hae) | 2:52 |
 | 95 | [What U Got](https://open.spotify.com/track/2zJEJNYyI45ekNQbJQ2oTf) | [Virtual Riot](https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1), [Viperactive](https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9) | [What U Got](https://open.spotify.com/album/3pT7yoj0eMAguauZW5dOk2) | 2:48 |
-| 96 | [CIRCLES](https://open.spotify.com/track/4DOUmbni3qj9A71DtXvsXS) | [SPORTMODE](https://open.spotify.com/artist/1kp5El0IY8pR8AGgVtgFhK) | [CIRCLES](https://open.spotify.com/album/4cIQpUbjCi5J9DpSx3wg0E) | 3:08 |
-| 97 | [WONKY](https://open.spotify.com/track/1PqDk7xj3S2IUrvt7y8JMw) | [OddKidOut](https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux), [AHEE](https://open.spotify.com/artist/1gbDc1TANALgP8lLvO5UEf) | [WONKY](https://open.spotify.com/album/5fnyNsCy9D1m1NWxoG0Hae) | 2:52 |
+| 96 | [lanadelrey](https://open.spotify.com/track/3kjYDRDhykMPFgkCkYhHrs) | [WINK](https://open.spotify.com/artist/0tmvLj5Sa3njrifpuruKBu) | [lanadelrey](https://open.spotify.com/album/39Li2oAsxCMhoJjwgSf0zV) | 2:44 |
+| 97 | [CIRCLES](https://open.spotify.com/track/4DOUmbni3qj9A71DtXvsXS) | [SPORTMODE](https://open.spotify.com/artist/1kp5El0IY8pR8AGgVtgFhK) | [CIRCLES](https://open.spotify.com/album/4cIQpUbjCi5J9DpSx3wg0E) | 3:08 |
 | 98 | [Work](https://open.spotify.com/track/2jrLfQLB3WUpaM9mDqGHp7) | [Fabian Mazur](https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG), [JAHMED](https://open.spotify.com/artist/0VvNvCZj4gZJZVsnIm99GJ) | [imellem](https://open.spotify.com/album/5PxIYxaG1LM2DmuNmZSJOw) | 2:33 |
 | 99 | [boomerang](https://open.spotify.com/track/7fCpisa4OwFU4s2sLf9XJG) | [asáu](https://open.spotify.com/artist/4lNObJySHIKhPZdfGtZgE0) | [boomerang](https://open.spotify.com/album/6AMTJEvNnPgkXRsCMxtkAK) | 2:43 |
 | 100 | [GO!](https://open.spotify.com/track/6mwrQ7UyriEE3P2DVUZzke) | [Jon Casey](https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr), [PEEKABOO](https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF) | [GO!](https://open.spotify.com/album/2ceqIvXa5nWgTq79Mzeq5t) | 2:21 |

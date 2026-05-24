@@ -4,7 +4,7 @@
 
 > Just lean back and enjoy relaxed beats.
 
-341 songs - 18 hr 55 min
+342 songs - 18 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,7 +131,7 @@
 | [Hands Together](https://open.spotify.com/track/0iF45VLtixkCC2X2EcJSwn) | [SOL LOS](https://open.spotify.com/artist/7kVyiWLcDMgRtgVbkXhnF8) | [Hands Together](https://open.spotify.com/album/5HYOtc2HyXAgComHOL981p) | 3:09 | 2022-01-21 | 2025-06-08 |
 | [Hangin Up](https://open.spotify.com/track/4vC2iSW6pMcDvAb98Tc8ma) | [Lonely in the Rain](https://open.spotify.com/artist/42KUul1wLmOdQCEYf3MweS), [De Rien](https://open.spotify.com/artist/1cXMEOMaLm3TNWP8lo4AsS) | [Hangin Up](https://open.spotify.com/album/65oZ8vGX6TliO9kVtCRnIy) | 3:04 | 2021-12-09 | 2026-04-18 |
 | [Happy Days](https://open.spotify.com/track/7AiJfQZHFp6EMbpeYFOXxj) | [Beachwax](https://open.spotify.com/artist/0FBeOkbRfYxk44W6AOooKr) | [Happy Days](https://open.spotify.com/album/2gx6CElSxguWozs3cHJyUw) | 3:16 | 2021-12-09 |  |
-| [Healing](https://open.spotify.com/track/7cSUVpfdsK8usnXfoAmA1s) | [Cratouille](https://open.spotify.com/artist/71bT9EEHGRQNqKHVwS1kdR) | [Healing](https://open.spotify.com/album/3DXtWneHovYGlzXMXsiB0c) | 2:50 | 2022-01-21 |  |
+| [Healing](https://open.spotify.com/track/7cSUVpfdsK8usnXfoAmA1s) | [Cratouille](https://open.spotify.com/artist/71bT9EEHGRQNqKHVwS1kdR) | [Healing](https://open.spotify.com/album/3DXtWneHovYGlzXMXsiB0c) | 2:50 | 2022-01-21 | 2026-05-24 |
 | [Heat Waves](https://open.spotify.com/track/2bloJtfWRNnHjylvX8AWOt) | [Together Alone](https://open.spotify.com/artist/3iPXJMIRyXEqq4QWOQnRnY) | [Heat Waves](https://open.spotify.com/album/02lNMqgTeGkhWkad7NK8Yd) | 2:37 | 2022-03-25 | 2026-05-23 |
 | [Heaven](https://open.spotify.com/track/715a5BoI21BDN8GNbrJJ8G) | [fuse.](https://open.spotify.com/artist/7yLOR62W5h5j5Y4M8nHnAY) | [Heaven](https://open.spotify.com/album/1ZK9E83HhkuDmcqG8kXL51) | 2:16 | 2023-05-26 | 2025-10-30 |
 | [Here with You](https://open.spotify.com/track/2dNtChXYtvpT7SD7Bfe5KS) | [SRTW](https://open.spotify.com/artist/7vHAcPVlEDksRsCfkez2CD), [Buchs](https://open.spotify.com/artist/0JRjFR8wJVtzTungOU3X6V), [flower thief](https://open.spotify.com/artist/3ZKGMKJZWvAHEC2guepIfG) | [Here with You](https://open.spotify.com/album/1C0LrrRlTwweXHWz0QpwWI) | 2:19 | 2023-06-09 |  |
@@ -181,6 +181,7 @@
 | [Love Story](https://open.spotify.com/track/0WsbPxyiVqhlLSqvIkpvKC) | [Lui Mafuta](https://open.spotify.com/artist/5hbQrh0EFGQBfGjYHFWbsp) | [Love Story](https://open.spotify.com/album/5wI1TLikoyiQuHoeTqW5Wc) | 5:50 | 2021-12-09 | 2024-09-19 |
 | [Love Tonight](https://open.spotify.com/track/7upogXdc53IaJBvkR4L0Vj) | [Together Alone](https://open.spotify.com/artist/3iPXJMIRyXEqq4QWOQnRnY) | [Love Tonight](https://open.spotify.com/album/2WdG47U5Pnd7sPZMkJh9hV) | 2:54 | 2021-12-09 |  |
 | [Lunar](https://open.spotify.com/track/4u5073p9qQ3EdBUuh7Qp05) | [M1NT](https://open.spotify.com/artist/5gzGYECW5rYT6NccH5zZGL), [blnkspc\_](https://open.spotify.com/artist/3hZaebXqrD5crmyMP2x1qa) | [Lunar](https://open.spotify.com/album/2nLR051PemM1cp2jr2U1Db) | 3:14 | 2023-11-14 | 2023-11-30 |
+| [Lungs](https://open.spotify.com/track/4KPVWm11BCcXQ0rndx1FnQ) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [Lungs](https://open.spotify.com/album/3gb777zLMKuAtVgtFKScIc) | 3:20 | 2026-05-22 |  |
 | [Lupino](https://open.spotify.com/track/4V8fOkKXGpPcUp7lvFWdS0) | [Magnofield](https://open.spotify.com/artist/4wNM69xY7xVOi8WK46t4tT) | [Lupino](https://open.spotify.com/album/6LNyTa0FtB9YYohiEACjhW) | 3:20 | 2021-12-09 | 2022-05-19 |
 | [Lux](https://open.spotify.com/track/6xCLzgEhnX5lLSBYkyiYnd) | [Colton Jefferson](https://open.spotify.com/artist/4dB5DX9CCgOE5LIOciYR7n) | [Lux](https://open.spotify.com/album/1w40aoGmgckodC4xEf1nyQ) | 2:22 | 2023-11-14 | 2025-03-29 |
 | [Malin's Song](https://open.spotify.com/track/69FgBAyTOSwswhqea2C6Er) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci) | [For Love](https://open.spotify.com/album/4LBj9X5oIwy48MNG74H8jy) | 4:03 | 2021-12-09 | 2022-05-21 |

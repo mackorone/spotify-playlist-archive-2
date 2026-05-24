@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVceT0UosQME.md) - [plain]
 
 > instrumental study beats for deep focus and concentration\. lock in, max productivity 📚 🎧 u got this!
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,132 likes - 100 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,155 likes - 100 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVceT0UosQME.md) - [plain]
 | 59 | [letter to amtis](https://open.spotify.com/track/1xrkythjTGJM8rClZQdZ5V) | [nightnotes](https://open.spotify.com/artist/334qcUILkYr6OYnqTi1DD3) | [letter to amtis](https://open.spotify.com/album/0IBF3TM8KHfBL1NyK7zVkf) | 1:34 |
 | 60 | [Undeniable](https://open.spotify.com/track/4VkuebWvS2LlxmnMjukZ21) | [Chill Def](https://open.spotify.com/artist/596T1bfXEgZ7Rm0SVY9W41), [Choftus Leek](https://open.spotify.com/artist/5oc0NyRrTn4F7cVJg1rTdl) | [Undeniable](https://open.spotify.com/album/6Yi9YIuFueT15dls1lblx2) | 2:34 |
 | 61 | [no way but up](https://open.spotify.com/track/4M7gbh6sluTRP6BXnYpzyz) | [Phresh Milk](https://open.spotify.com/artist/4U5mB170iJgggrvfl1bdCX) | [no way but up](https://open.spotify.com/album/197jKvvY3xuS1ggGpcEdGW) | 1:46 |
-| 62 | [High five, low\-fi](https://open.spotify.com/track/6mCHWvDL7kXZdVhc8ovk0y) | [Dusty Kadinsky](https://open.spotify.com/artist/6DhRdG6ckA1u7hxnZzF2VL) | [High five, low\-fi](https://open.spotify.com/album/0XqcEKC7xJg1bN9dp8tKVo) | 2:08 |
-| 63 | [The City](https://open.spotify.com/track/4lZQn9ZVkTbzehDoj3SQin) | [Audio Phill](https://open.spotify.com/artist/3X8s6pf8NBV2nl9Gvcbptb) | [The City](https://open.spotify.com/album/4mEfZGlxMcC0EioQfzvnyx) | 2:02 |
+| 62 | [The City](https://open.spotify.com/track/4lZQn9ZVkTbzehDoj3SQin) | [Audio Phill](https://open.spotify.com/artist/3X8s6pf8NBV2nl9Gvcbptb) | [The City](https://open.spotify.com/album/4mEfZGlxMcC0EioQfzvnyx) | 2:02 |
+| 63 | [High five, low\-fi](https://open.spotify.com/track/6mCHWvDL7kXZdVhc8ovk0y) | [Dusty Kadinsky](https://open.spotify.com/artist/6DhRdG6ckA1u7hxnZzF2VL) | [High five, low\-fi](https://open.spotify.com/album/0XqcEKC7xJg1bN9dp8tKVo) | 2:08 |
 | 64 | [warm & orange](https://open.spotify.com/track/6wXSZsRZ1vxooWZ4W9yWHG) | [AUIIRA](https://open.spotify.com/artist/3qmmaE4hDMkylgYQC5VrKU) | [warm & orange](https://open.spotify.com/album/4jvL1JGNrNs90TPPvE6iXW) | 3:06 |
 | 65 | [Don’t Forget Me](https://open.spotify.com/track/3OjultkM3CXtK0JFmCO5Ux) | [Popcorn Trees](https://open.spotify.com/artist/3dENObUHDNLm5lxRoPn2p1) | [Don’t Forget Me](https://open.spotify.com/album/6x2eS7AgwuPqpGkbb3jloG) | 1:49 |
 | 66 | [Memories & Notes](https://open.spotify.com/track/0LJeA9BFfwRfsOTxzhWzCF) | [Juliette](https://open.spotify.com/artist/2A9ozO2R5liuK6dMrhJwnQ) | [Memories & Notes](https://open.spotify.com/album/3EeK9doDTJjMcpLw7gDQbt) | 1:53 |
@@ -81,25 +81,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVceT0UosQME.md) - [plain]
 | 71 | [Cherry Blossom](https://open.spotify.com/track/6RO1NFtqXr2FgbrUJCkame) | [Komorebi](https://open.spotify.com/artist/2eOS10ukiu8a9nPVwivizO) | [Cherry Blossom](https://open.spotify.com/album/7n1QYNXh7TbEQLtYrrUWwF) | 2:00 |
 | 72 | [Sparkle](https://open.spotify.com/track/6E3Ks7ElkgvfhF93unPTXj) | [Tune in with Chewie](https://open.spotify.com/artist/4M4gexhCyv12RmbowD8xjS) | [Sparkle](https://open.spotify.com/album/6pwc042jl4PQ5RQfSMUGOP) | 2:30 |
 | 73 | [Lax](https://open.spotify.com/track/4I4tqUKsQ2mC89NoB8RLDC) | [Mellow Moose](https://open.spotify.com/artist/4xZn8EEsnsQr0wQ6j6ysJR) | [Lax](https://open.spotify.com/album/1843ngbpbg1YhvSO6sAA4l) | 2:22 |
-| 74 | [L.B.H.U](https://open.spotify.com/track/30VyqwDufoHJrOWBbrnZVq) | [Zonyo](https://open.spotify.com/artist/3et29OiPwxHluj9q2w4g5b) | [Gijri](https://open.spotify.com/album/346x1qpLsub5x6B2MNx2sE) | 3:28 |
-| 75 | [Going to the Moon](https://open.spotify.com/track/7H61dXriqHsS2zoSfr69Os) | [Wine In Dusk](https://open.spotify.com/artist/6Lng7clMQAuyT3p8nmrwiM) | [Going To The Moon](https://open.spotify.com/album/0hbBxmSffPHBclLX5RsxO7) | 2:44 |
-| 76 | [catch me](https://open.spotify.com/track/2YWzE3OlGyjqMF33UvIay1) | [knock on wood](https://open.spotify.com/artist/6n3ZDOSMNusTBDKdj9s8Kv) | [catch me](https://open.spotify.com/album/5Ba3nDEnqnkF3Hq2YBIDGy) | 2:31 |
+| 74 | [Going to the Moon](https://open.spotify.com/track/7H61dXriqHsS2zoSfr69Os) | [Wine In Dusk](https://open.spotify.com/artist/6Lng7clMQAuyT3p8nmrwiM) | [Going To The Moon](https://open.spotify.com/album/0hbBxmSffPHBclLX5RsxO7) | 2:44 |
+| 75 | [catch me](https://open.spotify.com/track/2YWzE3OlGyjqMF33UvIay1) | [knock on wood](https://open.spotify.com/artist/6n3ZDOSMNusTBDKdj9s8Kv) | [catch me](https://open.spotify.com/album/5Ba3nDEnqnkF3Hq2YBIDGy) | 2:31 |
+| 76 | [L.B.H.U](https://open.spotify.com/track/30VyqwDufoHJrOWBbrnZVq) | [Zonyo](https://open.spotify.com/artist/3et29OiPwxHluj9q2w4g5b) | [Gijri](https://open.spotify.com/album/346x1qpLsub5x6B2MNx2sE) | 3:28 |
 | 77 | [Nightrider](https://open.spotify.com/track/6vNocabqNxmIsiBzrJTaQ0) | [Kisiaria](https://open.spotify.com/artist/6vRLEJFTHryBVa2mZ4aBKX) | [Nightrider](https://open.spotify.com/album/09tfyEXrLwwJOuTo8ta0Kf) | 2:03 |
 | 78 | [Far East](https://open.spotify.com/track/6PQdebTH2xQn4mURkNP4IU) | [Darren Spice](https://open.spotify.com/artist/6DR7b1QU9VjGiJlBEAtkvT) | [Far East](https://open.spotify.com/album/0FTsRS7Jn5xpr3evrJpPsV) | 2:04 |
-| 79 | [Peter Ran](https://open.spotify.com/track/0WLk5AGaZMeiQSRInu129w) | [Beats Me, Innit?](https://open.spotify.com/artist/5szil3lhFSrW575RVEyPle) | [Peter Ran](https://open.spotify.com/album/6PBbVsmxuTSPiSb9urnRXp) | 2:21 |
-| 80 | [Hope even more](https://open.spotify.com/track/5qLlEaKLP4FI09QqDYVFCL) | [Wavy Naps](https://open.spotify.com/artist/0kFUFC571jik6K7viLxtPX) | [Hope even more](https://open.spotify.com/album/6gxoN7Y7FGLPgWxyAN01LP) | 2:09 |
+| 79 | [Hope even more](https://open.spotify.com/track/5qLlEaKLP4FI09QqDYVFCL) | [Wavy Naps](https://open.spotify.com/artist/0kFUFC571jik6K7viLxtPX) | [Hope even more](https://open.spotify.com/album/6gxoN7Y7FGLPgWxyAN01LP) | 2:09 |
+| 80 | [Peter Ran](https://open.spotify.com/track/0WLk5AGaZMeiQSRInu129w) | [Beats Me, Innit?](https://open.spotify.com/artist/5szil3lhFSrW575RVEyPle) | [Peter Ran](https://open.spotify.com/album/6PBbVsmxuTSPiSb9urnRXp) | 2:21 |
 | 81 | [comply](https://open.spotify.com/track/2rm5C58P9UDchlcKdV0Bzn) | [Flower Chanel.](https://open.spotify.com/artist/7qnkTNSjbkAfmWRjjs9yq4) | [comply](https://open.spotify.com/album/6DjUY2UsJxbITCNZUv1RtO) | 2:04 |
 | 82 | [Bareru Rōru](https://open.spotify.com/track/2euw7YmuTYRuBx0DQTgvqq) | [d.w.h](https://open.spotify.com/artist/2Mv14rolxu9z56WEkPIhZd) | [Bareru Rōru](https://open.spotify.com/album/4UDE3AKNXjv7rFvv4T5KKO) | 2:38 |
-| 83 | [once upon a time](https://open.spotify.com/track/4h1kjj76abuzotO1l1b4UK) | [Cheeky Beez](https://open.spotify.com/artist/2bsxN6WcHThnyAuPiLscbA) | [once upon a time](https://open.spotify.com/album/5YTL2uewGmx1D5GJcQSZ2w) | 2:24 |
-| 84 | [Crimson Red](https://open.spotify.com/track/6CgcuC8yOCXVzJZVuhRlSx) | [Euphemism](https://open.spotify.com/artist/2LjnVIznJsfd8XzrUqXHTr) | [Road to Emmaus](https://open.spotify.com/album/1VQRmpVXZTjLs4ZW42mmwT) | 1:55 |
+| 83 | [Crimson Red](https://open.spotify.com/track/6CgcuC8yOCXVzJZVuhRlSx) | [Euphemism](https://open.spotify.com/artist/2LjnVIznJsfd8XzrUqXHTr) | [Road to Emmaus](https://open.spotify.com/album/1VQRmpVXZTjLs4ZW42mmwT) | 1:55 |
+| 84 | [once upon a time](https://open.spotify.com/track/4h1kjj76abuzotO1l1b4UK) | [Cheeky Beez](https://open.spotify.com/artist/2bsxN6WcHThnyAuPiLscbA) | [once upon a time](https://open.spotify.com/album/5YTL2uewGmx1D5GJcQSZ2w) | 2:24 |
 | 85 | [Downtown](https://open.spotify.com/track/0F3Bo3HVGi2fzCU67Z6rDv) | [1930](https://open.spotify.com/artist/04qLskUo3x0vMixvZxCK78) | [Downtown](https://open.spotify.com/album/6KDVzfdX9UGMaDP5K9zREY) | 1:51 |
-| 86 | [Planka på tricken](https://open.spotify.com/track/6rqgMboy3Kc7vVFZeeJnp9) | [Alek Faith](https://open.spotify.com/artist/3TPr8KDYLfhwXdYOuUoFdi) | [Planka på tricken](https://open.spotify.com/album/34L7eNGbFJoqVkoK8E9SeM) | 2:04 |
-| 87 | [Miss Blue](https://open.spotify.com/track/5MJfUP3yb2DNxGs88epnBY) | [yoranda](https://open.spotify.com/artist/6RASfL9QFAOiqYdKetXooz) | [Miss Blue](https://open.spotify.com/album/1edQQwUOQyYfD5wtP42Up7) | 2:57 |
+| 86 | [Miss Blue](https://open.spotify.com/track/5MJfUP3yb2DNxGs88epnBY) | [yoranda](https://open.spotify.com/artist/6RASfL9QFAOiqYdKetXooz) | [Miss Blue](https://open.spotify.com/album/1edQQwUOQyYfD5wtP42Up7) | 2:57 |
+| 87 | [Planka på tricken](https://open.spotify.com/track/6rqgMboy3Kc7vVFZeeJnp9) | [Alek Faith](https://open.spotify.com/artist/3TPr8KDYLfhwXdYOuUoFdi) | [Planka på tricken](https://open.spotify.com/album/34L7eNGbFJoqVkoK8E9SeM) | 2:04 |
 | 88 | [Friday Luxury](https://open.spotify.com/track/4hEtOsS3Hgn2vdVlchhXpT) | [Yankee Hart](https://open.spotify.com/artist/3QjEKf7OgPZayWOOt8AUBi) | [Friday Luxury](https://open.spotify.com/album/25dLRyb68yRiLszZWDidPW) | 2:03 |
 | 89 | [Breathing](https://open.spotify.com/track/05Ze1zg6BmU0UtLv1upnLb) | [LOVICHI](https://open.spotify.com/artist/0RqNl8EYEK17F2EKwlBLfP) | [Breathing](https://open.spotify.com/album/67LIvPyCZM0V1Lf9EOYm8T) | 2:10 |
 | 90 | [Miró](https://open.spotify.com/track/5HbtorjBQ9pgeKI88WS6k1) | [Canapé](https://open.spotify.com/artist/1RBDVHmvVjKG5XuCpD02hg) | [Miró](https://open.spotify.com/album/2VbLl6M1fIUTiRB9am8tYv) | 2:51 |
-| 91 | [Wonders](https://open.spotify.com/track/1X1rPupt0v0EpvmIjGfrPI) | [Hallie](https://open.spotify.com/artist/4LmD8cR6Zd5udgGP2RHGdb) | [Wonders](https://open.spotify.com/album/2t9021Gl3lIMHhQJzJo2Rt) | 2:41 |
-| 92 | [Fluffity](https://open.spotify.com/track/22iHU9AESPMxf6aaI2OKd3) | [Choftus Leek](https://open.spotify.com/artist/5oc0NyRrTn4F7cVJg1rTdl), [Geórgia Neve](https://open.spotify.com/artist/7oR5FuTIzTDDGzh8c4bEsT) | [Fluffity](https://open.spotify.com/album/7syd7u5StZKwBgcaFw7JUB) | 2:39 |
+| 91 | [Fluffity](https://open.spotify.com/track/22iHU9AESPMxf6aaI2OKd3) | [Choftus Leek](https://open.spotify.com/artist/5oc0NyRrTn4F7cVJg1rTdl), [Geórgia Neve](https://open.spotify.com/artist/7oR5FuTIzTDDGzh8c4bEsT) | [Fluffity](https://open.spotify.com/album/7syd7u5StZKwBgcaFw7JUB) | 2:39 |
+| 92 | [Wonders](https://open.spotify.com/track/1X1rPupt0v0EpvmIjGfrPI) | [Hallie](https://open.spotify.com/artist/4LmD8cR6Zd5udgGP2RHGdb) | [Wonders](https://open.spotify.com/album/2t9021Gl3lIMHhQJzJo2Rt) | 2:41 |
 | 93 | [Proud](https://open.spotify.com/track/389TtRJoTkbZ8VtGkt22iC) | [SPEERMINT](https://open.spotify.com/artist/4vUekBx2RSM0U87RLJl1pL) | [Proud](https://open.spotify.com/album/6kethGKQhDlXousA0NfVCD) | 2:16 |
 | 94 | [high above](https://open.spotify.com/track/4iIFJ3anp1aKw6fx0tg8jD) | [Soulflu](https://open.spotify.com/artist/6dBaFTE0JSiCN4JL9K03tM) | [high above](https://open.spotify.com/album/0dNK0JXw77i4UaG6HRVidc) | 1:42 |
 | 95 | [Urban Sunsets](https://open.spotify.com/track/5pEDDmOo2f7jm2Vtw8I1Ms) | [Kisiaria](https://open.spotify.com/artist/6vRLEJFTHryBVa2mZ4aBKX) | [Urban Sunsets](https://open.spotify.com/album/1WyMhhHMhnyqwG2fe7Xkdu) | 2:10 |

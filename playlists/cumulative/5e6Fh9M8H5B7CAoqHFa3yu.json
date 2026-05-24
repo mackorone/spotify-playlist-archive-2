@@ -40331,6 +40331,24 @@
     },
     {
       "album": {
+        "name": "Crash On The Beach",
+        "url": "https://open.spotify.com/album/2ULldHFk7sPDTNXD0TwTzk"
+      },
+      "artists": [
+        {
+          "name": "Patty C",
+          "url": "https://open.spotify.com/artist/6hIMbinmaxmhlAse2uSiYF"
+        }
+      ],
+      "date_added": "2026-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255714,
+      "name": "Waves Rollin' Through",
+      "url": "https://open.spotify.com/track/2WfKsGWtrpdRMGY9wzmayZ"
+    },
+    {
+      "album": {
         "name": "Way",
         "url": "https://open.spotify.com/album/5DyrBT1slzCwNfjsSy96CS"
       },

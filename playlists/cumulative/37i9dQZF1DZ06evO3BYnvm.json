@@ -315,6 +315,24 @@
     },
     {
       "album": {
+        "name": "From Down Here",
+        "url": "https://open.spotify.com/album/3oyrHxgRO9HNMQx5mdML1u"
+      },
+      "artists": [
+        {
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+        }
+      ],
+      "date_added": "2026-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241470,
+      "name": "From Down Here",
+      "url": "https://open.spotify.com/track/7Hg7l5aOygIHuaNDVFp3ox"
+    },
+    {
+      "album": {
         "name": "This Wasn't Meant For You Anyway",
         "url": "https://open.spotify.com/album/3uTpTaMOynCYKV5AtgeO2U"
       },

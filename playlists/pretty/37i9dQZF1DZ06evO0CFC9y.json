@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ag5LAAAAAAD8iw42w0SQ8arglPN1XE2R",
+  "snapshot_id": "ag+cgAAAAACb43+HhTo5tuHgmszrt2lt",
   "tracks": [
     {
       "added_at": null,
@@ -443,8 +443,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "AFI",
-        "url": "https://open.spotify.com/album/1eK4nhdVZTpIzibRw7qWiw"
+        "name": "Sing The Sorrow (Deluxe)",
+        "url": "https://open.spotify.com/album/2Z9ongblHLFgelZx9OGzQs"
       },
       "artists": [
         {
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
         }
       ],
-      "duration_ms": 201973,
-      "name": "God Called In Sick Today",
-      "url": "https://open.spotify.com/track/1KlroNpIZRQuLK236qrfog"
+      "duration_ms": 228440,
+      "name": "Rabbits Are Roadkill On Rt. 37",
+      "url": "https://open.spotify.com/track/2wcHxD6nRPhIXymN1U7PzL"
     },
     {
       "added_at": null,
@@ -507,8 +507,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sing The Sorrow (Deluxe)",
-        "url": "https://open.spotify.com/album/2Z9ongblHLFgelZx9OGzQs"
+        "name": "AFI",
+        "url": "https://open.spotify.com/album/1eK4nhdVZTpIzibRw7qWiw"
       },
       "artists": [
         {
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
         }
       ],
-      "duration_ms": 228440,
-      "name": "Rabbits Are Roadkill On Rt. 37",
-      "url": "https://open.spotify.com/track/2wcHxD6nRPhIXymN1U7PzL"
+      "duration_ms": 201973,
+      "name": "God Called In Sick Today",
+      "url": "https://open.spotify.com/track/1KlroNpIZRQuLK236qrfog"
     },
     {
       "added_at": null,

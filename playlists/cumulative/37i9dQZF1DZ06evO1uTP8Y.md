@@ -4,10 +4,11 @@
 
 > This is Odeal\. The essential tracks, all in one playlist.
 
-70 songs - 3 hr 21 min
+72 songs - 3 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [24 Hours](https://open.spotify.com/track/3xucyI8yC8RNSaE5QOeFxB) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [24 Hours](https://open.spotify.com/album/6h8MihL1baSyYITmOxrIxP) | 3:17 | 2026-05-24 |  |
 | [24/48](https://open.spotify.com/track/3GwovMvw7GvDsbolWbHImh) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [OVMBR: Roses](https://open.spotify.com/album/66LEmqkDYl5OFC62EA5M7q) | 2:41 | 2025-08-02 |  |
 | [Addicted](https://open.spotify.com/track/4dEnP592QE9qGqMqK4bmlW) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [The Fall That Saved Us](https://open.spotify.com/album/0xMQR9PD1M0Y70uP3VpyBl) | 3:04 | 2025-11-23 | 2025-11-25 |
 | [All That It Takes](https://open.spotify.com/track/5ZtqkkX8XRfgmgxnxedI0C) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Thoughts I Never Said](https://open.spotify.com/album/2Sz9KQ4T0nCCXBMDQ8TjFl) | 3:30 | 2025-08-02 |  |
@@ -55,6 +56,7 @@
 | [Obi's Interlude](https://open.spotify.com/track/0ezr3Dznf70W0Ug1NJ4cyf) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [The Summer That Saved Me](https://open.spotify.com/album/02x8WhpXJ9lVDBJAxBxl3Z) | 2:56 | 2025-08-02 |  |
 | [On & On](https://open.spotify.com/track/3eiHK0kBfAB8ldBTHgPtVx) | [Abra Cadabra](https://open.spotify.com/artist/1ZHk8dteZz6Vi2HFp4hGoM), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [On & On](https://open.spotify.com/album/4m8ae2qbI8mjUAWdRaeeCi) | 3:17 | 2025-08-02 | 2025-09-09 |
 | [On & On](https://open.spotify.com/track/4cHS3iwBUgwxvqxmXJLF2M) | [Abra Cadabra](https://open.spotify.com/artist/1ZHk8dteZz6Vi2HFp4hGoM), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [On & On](https://open.spotify.com/album/1IMJ0uxEzNCCRAA1F25DZu) | 3:17 | 2025-09-09 | 2025-11-23 |
+| [On Me \(with Odeal\)](https://open.spotify.com/track/1Hz7wkNn6EtrnMV1fRAZd5) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Love is the New Gangsta](https://open.spotify.com/album/0DUJdzFUyxiNUheVGbdWrd) | 3:02 | 2026-05-24 |  |
 | [ONOME](https://open.spotify.com/track/2AsdsBTAtp5EckmvsbUKtH) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [ONOME](https://open.spotify.com/album/5gqbbNfl0GtuK2Tl0tNwFy) | 3:18 | 2025-08-02 |  |
 | [Outside](https://open.spotify.com/track/7HUWDK8W290h5FD9G5t3eH) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Outside](https://open.spotify.com/album/48GGRBVO34uMUTyCII8ZpY) | 3:25 | 2025-08-02 |  |
 | [Passenger](https://open.spotify.com/track/3E2fuhgEvnbE5HmnYCFOs0) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Passenger](https://open.spotify.com/album/3erGHG8l977nwtLkLjhlMC) | 3:16 | 2025-08-02 | 2025-11-06 |
@@ -67,7 +69,7 @@
 | [SEARCHING](https://open.spotify.com/track/3E0t3JhtlA1YcYyQ1EdS98) | [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [LVRS PARADISE \(SIDE A\)](https://open.spotify.com/album/4X6ri4Hmw1NyTHLYMERhAG) | 2:30 | 2025-08-02 |  |
 | [SHOWBIZ](https://open.spotify.com/track/0udu5vXi5t7T8696NPpBgp) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Lustropolis](https://open.spotify.com/album/4mFLlS3vDHSxAtnLRMmOrq) | 2:48 | 2025-08-02 |  |
 | [Soh\-Soh](https://open.spotify.com/track/30nn36X7wfesAGAkvGero4) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Soh\-Soh \(DJ Maphorisa & Xduppy Mix\)](https://open.spotify.com/album/2aUWcKg2RsmYTVvTaCfCIJ) | 3:04 | 2025-08-02 |  |
-| [Sondela](https://open.spotify.com/track/3NRPgXmxfX6kThyVArjn5c) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Sunday At Zuri's](https://open.spotify.com/album/6cvutR6muDLzZRbFdYlgOK) | 1:47 | 2025-08-02 |  |
+| [Sondela](https://open.spotify.com/track/3NRPgXmxfX6kThyVArjn5c) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Sunday At Zuri's](https://open.spotify.com/album/6cvutR6muDLzZRbFdYlgOK) | 1:47 | 2025-08-02 | 2026-05-24 |
 | [Space](https://open.spotify.com/track/43Gw9Yd4mYtpJ1AHFA00oY) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [Space](https://open.spotify.com/album/5Bhe2wkVUz1nOjPp2L80t9) | 2:22 | 2025-10-05 |  |
 | [Take Me](https://open.spotify.com/track/6aFyUn6Z9YujYwOI7QsWLZ) | [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Take Me](https://open.spotify.com/album/0o8DHoxt1tkA2lugrdnViD) | 2:28 | 2025-08-02 |  |
 | [Temptress](https://open.spotify.com/track/3oRXIgoaxiemxMk3uXmH7N) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Lustropolis](https://open.spotify.com/album/4mFLlS3vDHSxAtnLRMmOrq) | 2:56 | 2025-08-02 |  |

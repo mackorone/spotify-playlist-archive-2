@@ -4,7 +4,7 @@
 
 > This is El Komander\. The essential tracks, all in one playlist.
 
-102 songs - 4 hr 57 min
+103 songs - 4 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Corrido Del Invalido](https://open.spotify.com/track/3JlnKdYKmLDestzbgPsSiJ) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [El Katch](https://open.spotify.com/album/1Kgxdvii3WXGb805Sk6PjM) | 2:42 | 2024-01-29 |  |
 | [Cuernito Armani](https://open.spotify.com/track/2oAlRe4XfVRm3LOOHiErdD) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Belico](https://open.spotify.com/album/7ugXiQHIHbREwSZUyS8iuY) | 3:03 | 2024-01-29 |  |
 | [Descansa Mi Amor](https://open.spotify.com/track/7GFIRU9DfwqiLQaDDlyVp3) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Cazador](https://open.spotify.com/album/1RKTcX2nAi11XqLriIlKiD) | 3:05 | 2024-01-29 |  |
+| [Despacio](https://open.spotify.com/track/6gNBq2YywGQkdx38dqxmvP) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Despacio](https://open.spotify.com/album/0DCSAmGNVwccBBp3ypD0my) | 2:08 | 2026-05-24 |  |
 | [Detras Del Miedo](https://open.spotify.com/track/13NdtUB6A6OAWFbV9PZUzm) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Detras Del Miedo](https://open.spotify.com/album/6AIaxMBkR2dK1NzgZEgIc9) | 2:28 | 2024-02-19 |  |
 | [El cantador \- En vivo](https://open.spotify.com/track/2cidQAJb7tlZqWSmUbkLgr) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [El cantador \(En vivo\)](https://open.spotify.com/album/214cTuturC6CHUNgH5P9E3) | 3:20 | 2024-01-29 | 2025-10-16 |
 | [El Cartel](https://open.spotify.com/track/4Fj72ootB0Nc2EjMYQmrSb) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [El Cartel](https://open.spotify.com/album/0zi7eSgEN1Kil6b2hRGDGj) | 2:53 | 2024-08-18 | 2024-10-25 |
@@ -72,7 +73,7 @@
 | [Me Amanezco Con Mi Ex](https://open.spotify.com/track/4fWFkrtNHcRH0F4GAwVzsI) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr), [Los Hnos Rodriguez](https://open.spotify.com/artist/4pLBsWSdyApz2k5JtPnmGU) | [Me Amanezco Con Mi Ex](https://open.spotify.com/album/5glzmrZQNMJO3Yv3S4AClz) | 2:24 | 2026-03-14 | 2026-05-16 |
 | [Me Gustas Mucho \- En Vivo](https://open.spotify.com/track/3kgYtInhlF3Ajcp0OyeFH7) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Desde Zapopan \(En Vivo\)](https://open.spotify.com/album/21GHxCkKFIiblHyCo0Bbon) | 3:49 | 2024-01-29 |  |
 | [Me Quiero Casar](https://open.spotify.com/track/1NKieJNxZiQpXYA7Wmx2Hd) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Me Quiero Casar](https://open.spotify.com/album/11q4dGHmq3Jm1XcABg4HkX) | 2:36 | 2024-04-14 | 2025-11-27 |
-| [Mentes Enfermas](https://open.spotify.com/track/3vjoog9RySLE9ZfBeqqGh8) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Archivo Privado](https://open.spotify.com/album/7uHF1rtc9LSIMa6gjrMqVG) | 2:17 | 2026-04-07 |  |
+| [Mentes Enfermas](https://open.spotify.com/track/3vjoog9RySLE9ZfBeqqGh8) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Archivo Privado](https://open.spotify.com/album/7uHF1rtc9LSIMa6gjrMqVG) | 2:17 | 2026-04-07 | 2026-05-24 |
 | [Mi Clave Es El 20](https://open.spotify.com/track/5NzcSu4Dhhiljni7PNu8j0) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Archivo Privado](https://open.spotify.com/album/7uHF1rtc9LSIMa6gjrMqVG) | 2:26 | 2025-07-12 | 2025-07-14 |
 | [Mujer Enamorada](https://open.spotify.com/track/3l00I1zbhGd2gRwdTQL89b) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Mujer Enamorada](https://open.spotify.com/album/2SZLFyJMjzZgJPNJx2RabY) | 2:20 | 2024-01-29 | 2024-09-22 |
 | [No Ocupa La Banda Pa’ Bailar Mi Cuaco](https://open.spotify.com/track/4YHlqCBMgcSi3ZBBMGZ8Uc) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [No Ocupa La Banda Pa’ Bailar Mi Cuaco](https://open.spotify.com/album/2oDscjIVA5YERidGVVlzVT) | 2:33 | 2024-01-29 |  |

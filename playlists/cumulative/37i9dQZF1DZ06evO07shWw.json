@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "All The Best",
+        "url": "https://open.spotify.com/album/2Hrp51zwvCVyTTyGXlPUKH"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        }
+      ],
+      "date_added": "2026-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198340,
+      "name": "All The Best",
+      "url": "https://open.spotify.com/track/4vZa4UhA0s6nHzoC2CavxY"
+    },
+    {
+      "album": {
         "name": "Good Person",
         "url": "https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv"
       },

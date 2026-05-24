@@ -35,11 +35,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0CFC9y.md) - [plain]
 | 25 | [VOIDWARD, I BEND BACK](https://open.spotify.com/track/1X3cCp55Pui90xhNa8X6zL) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Silver Bleeds the Black Sun...](https://open.spotify.com/album/5mkdGum4SA8FWcwNMlttf5) | 2:28 |
 | 26 | [Malleus Maleficarum](https://open.spotify.com/track/259UpfomIaTr9PdBvR6R1c) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Black Sails In The Sunset](https://open.spotify.com/album/05vHKNdCinN1q1emA34zNY) | 4:01 |
 | 27 | [Ever And A Day](https://open.spotify.com/track/1jrXJefkU4DQdM2XOJDENu) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [The Art Of Drowning](https://open.spotify.com/album/3x1951P584xqRUW7KdLs6A) | 3:06 |
-| 28 | [God Called In Sick Today](https://open.spotify.com/track/1KlroNpIZRQuLK236qrfog) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [AFI](https://open.spotify.com/album/1eK4nhdVZTpIzibRw7qWiw) | 3:21 |
+| 28 | [Rabbits Are Roadkill On Rt\. 37](https://open.spotify.com/track/2wcHxD6nRPhIXymN1U7PzL) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Sing The Sorrow \(Deluxe\)](https://open.spotify.com/album/2Z9ongblHLFgelZx9OGzQs) | 3:48 |
 | 29 | [Behind the Clock](https://open.spotify.com/track/1ivG7dgrhWN5I1oavQaIMF) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Silver Bleeds the Black Sun...](https://open.spotify.com/album/5mkdGum4SA8FWcwNMlttf5) | 3:57 |
 | 30 | [Porphyria Cutanea Tarda](https://open.spotify.com/track/66NSMMosLnBZ81ufOYIyIg) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Black Sails In The Sunset](https://open.spotify.com/album/05vHKNdCinN1q1emA34zNY) | 2:07 |
 | 31 | [Wester](https://open.spotify.com/track/3PLEZsXmjW1XrTtKttkfaW) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [The Art Of Drowning](https://open.spotify.com/album/3x1951P584xqRUW7KdLs6A) | 3:02 |
-| 32 | [Rabbits Are Roadkill On Rt\. 37](https://open.spotify.com/track/2wcHxD6nRPhIXymN1U7PzL) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Sing The Sorrow \(Deluxe\)](https://open.spotify.com/album/2Z9ongblHLFgelZx9OGzQs) | 3:48 |
+| 32 | [God Called In Sick Today](https://open.spotify.com/track/1KlroNpIZRQuLK236qrfog) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [AFI](https://open.spotify.com/album/1eK4nhdVZTpIzibRw7qWiw) | 3:21 |
 | 33 | [Marguerite](https://open.spotify.com/track/5FRoSL3BeHF28QqiXYFa85) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Silver Bleeds the Black Sun...](https://open.spotify.com/album/5mkdGum4SA8FWcwNMlttf5) | 3:04 |
 | 34 | [File 13](https://open.spotify.com/track/6Oy5crRGUAPCya3orxspx7) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Very Proud of Ya](https://open.spotify.com/album/4dYattOOIsbTMixAt7eZ0a) | 1:48 |
 | 35 | [The Last Kiss](https://open.spotify.com/track/6oDscaJdXFtRKk1G7cCcjf) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Black Sails In The Sunset](https://open.spotify.com/album/05vHKNdCinN1q1emA34zNY) | 3:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0CFC9y.md) - [plain]
 | 49 | [Too Shy To Scream](https://open.spotify.com/track/730q5VwyabgCKDONwUX7Lt) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Crash Love \(Deluxe\)](https://open.spotify.com/album/3bvsBOFhdRGsvEwIdRoWZz) | 2:56 |
 | 50 | [Perfect Fit](https://open.spotify.com/track/4HZOxAJRr86gp0HmyiAUSB) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Very Proud of Ya](https://open.spotify.com/album/4dYattOOIsbTMixAt7eZ0a) | 1:58 |
 
-Snapshot ID: `ag5LAAAAAAD8iw42w0SQ8arglPN1XE2R`
+Snapshot ID: `ag+cgAAAAACb43+HhTo5tuHgmszrt2lt`

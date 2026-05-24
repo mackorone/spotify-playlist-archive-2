@@ -4,7 +4,7 @@
 
 > SPINGERE
 
-330 songs - 16 hr 10 min
+331 songs - 16 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [FASHION \(feat\. ANNA, Lazza, Tony Effe & Benny Benassi\)](https://open.spotify.com/track/3wld38PU9xGmtSbO5elWSt) | [Drillionaire](https://open.spotify.com/artist/0qts5zYDAeK8dBmrdF2Zwq), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF), [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6) | [10](https://open.spotify.com/album/0wseGI0Yw53Ys8W7QGX36a) | 3:02 | 2023-06-29 |  |
 | [FE!N \(feat\. Playboi Carti\)](https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:11 | 2024-01-25 | 2024-03-16 |
 | [FE!N \(feat\. Playboi Carti\)](https://open.spotify.com/track/3KEMjT3QVfKIl4E9DIcrmF) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [UTOPIA](https://open.spotify.com/album/6mpTzL80F11TaeU79loRyJ) | 3:11 | 2024-08-08 |  |
+| [Felpa Nera \(feat\. ANNA\)](https://open.spotify.com/track/168t3ud7jZIslO0P5ZDKnj) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [RYAN TED](https://open.spotify.com/album/2U9mwmcJrUmkIpJm9gq8n7) | 2:04 | 2026-05-21 |  |
 | [FENOMENO](https://open.spotify.com/track/5l0xqgraCr4hXmFEy6twuM) | [Benii](https://open.spotify.com/artist/2BPa4q78epq6JYvtGBn0IF), [NiceKidd](https://open.spotify.com/artist/3zNcd0BHC60ItVXvCJtlyX) | [FENOMENO](https://open.spotify.com/album/7kgvW0bVB878kkc89imFK0) | 1:44 | 2025-10-03 | 2026-01-16 |
 | [Fino All'Alba](https://open.spotify.com/track/3twPYZvOOoVjLx5BclA2mT) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [Takagi & Ketra](https://open.spotify.com/artist/76UCIJTB0jcJvBaL0CdIqx) | [FERITE](https://open.spotify.com/album/1mpy3NJNqmNhzKNorb6pkl) | 2:37 | 2024-06-20 |  |
 | [FIORI TRASTEVERINI 2025](https://open.spotify.com/track/2pfOZSBz0AXJruqVTzQhrU) | [Ketama126](https://open.spotify.com/artist/0pSx3asj3usz5PRt8COo0E) | [33](https://open.spotify.com/album/0CnhUDR5R712uOBRT2KlHo) | 1:51 | 2025-07-13 | 2026-05-12 |
@@ -219,7 +220,7 @@
 | [Motley Crew](https://open.spotify.com/track/40uMIn2zJLAQhNXghRjBed) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Motley Crew](https://open.spotify.com/album/4tokbQaFXRrq8keVGBD9vb) | 3:04 | 2022-07-28 | 2024-01-26 |
 | [Motorino \(feat\. Jake La Furia\)](https://open.spotify.com/track/1oK4yVKDKxObUzgiTaZXQ7) | [Giaime](https://open.spotify.com/artist/3sC3sCpqSYClSdKez9Rs6k), [Jake La Furia](https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH) | [FIGLIO MASCHIO](https://open.spotify.com/album/3Mht2eyDGe8ZaIrqFPe1rm) | 2:46 | 2022-05-11 | 2022-05-13 |
 | [Moulaga](https://open.spotify.com/track/5BfCoUcWNXcpyJfjXRIeyC) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Moulaga](https://open.spotify.com/album/2k7vGyQFY5ILNhRf6Ia68J) | 2:59 | 2023-04-19 |  |
-| [MTP](https://open.spotify.com/track/4Swl67KjGwtWdNPqm0ZD39) | [Boro](https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu), [Cocobeatz](https://open.spotify.com/artist/2kKkiWrxTciNuT6joW36iW) | [MTP](https://open.spotify.com/album/3RbAF1UiiO3HNzIYSUXlPn) | 2:15 | 2025-07-13 |  |
+| [MTP](https://open.spotify.com/track/4Swl67KjGwtWdNPqm0ZD39) | [Boro](https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu), [Cocobeatz](https://open.spotify.com/artist/2kKkiWrxTciNuT6joW36iW) | [MTP](https://open.spotify.com/album/3RbAF1UiiO3HNzIYSUXlPn) | 2:15 | 2025-07-13 | 2026-05-24 |
 | [Munch \(Feelin’ U\)](https://open.spotify.com/track/1jOgJN75btuUONIdf57vHz) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Munch \(Feelin’ U\)](https://open.spotify.com/album/0LgFPcU3P2HLGUtBQTBBpv) | 1:44 | 2022-12-30 | 2023-01-11 |
 | [NA/RM \(feat\. Yung Snapp, MV Killa\)](https://open.spotify.com/track/3BO6xH8rcVVNCzQUpV8UAt) | [Side Baby](https://open.spotify.com/artist/6PXiPeUVFrlaC1n8511ijT), [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem), [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY) | [LEGGENDARIO](https://open.spotify.com/album/0Mefz37DxuT24EzQxr0ClI) | 2:59 | 2024-09-20 | 2025-01-03 |
 | [Nail Tech](https://open.spotify.com/track/62Yo3FDddWY8ydu6PW2wyz) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Nail Tech](https://open.spotify.com/album/72r4dr0xDsXOWRwP2o7ZIP) | 3:26 | 2022-07-28 | 2024-06-21 |

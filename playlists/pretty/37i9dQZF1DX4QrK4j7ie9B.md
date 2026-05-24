@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4QrK4j7ie9B.md) - [plain]
 
 > The ultimate classical playlist for soothing stretching, practicing pliés and point at the barre.
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,029 likes - 44 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,076 likes - 44 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Swan Lake, Op\. 20, TH 12, Act II: Scene \(Arr\. for Piano by Peter Breiner\)](https://open.spotify.com/track/7c00O75TZMQDDFExnxOrMM) | [Pyotr Ilyich Tchaikovsky](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA), [Peter Breiner](https://open.spotify.com/artist/50MREZ0LJcSvrtKuyTV8Su) | [Tchaikovsky: Greatest Melodies](https://open.spotify.com/album/0Zd9QG4qqJEVcxG6Tbo6nw) | 3:15 |
+| 1 | [Swan Lake, Op\. 20, TH 12: Scene](https://open.spotify.com/track/7c00O75TZMQDDFExnxOrMM) | [Pyotr Ilyich Tchaikovsky](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA), [Peter Breiner](https://open.spotify.com/artist/50MREZ0LJcSvrtKuyTV8Su) | [Tchaikovsky: Greatest Melodies](https://open.spotify.com/album/0Zd9QG4qqJEVcxG6Tbo6nw) | 3:15 |
 | 2 | [Comptine d'un autre été, l'après\-midi](https://open.spotify.com/track/14rZjW3RioG7WesZhYESso) | [Yann Tiersen](https://open.spotify.com/artist/00sazWvoTLOqg5MFwC68Um) | [Le Fabuleux destin d'Amélie Poulain \(Bande originale du film\)](https://open.spotify.com/album/6PRPYATK5VvjZ2p911y6U0) | 2:20 |
 | 3 | [Mia & Sebastian's Theme \(From "La La Land"\) \[Piano Version\]](https://open.spotify.com/track/1p41apSUFh9ffHnkjCaMl9) | [Kim Bo](https://open.spotify.com/artist/4Mr0dXg1KM8bmg2tBe2xEe) | [A Piano Trip: La La Land](https://open.spotify.com/album/00QbwsD7q03Uc3VkoXRYkC) | 1:27 |
 | 4 | [The Nutcracker, Op\. 71, TH 14, Act II Tableau 3: No\. 12e, Dance of the mirlitons\. Andantino \(Arr\. for Piano by Peter Breiner\)](https://open.spotify.com/track/5OmjnElwHplbBz66dqk4oP) | [Pyotr Ilyich Tchaikovsky](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA), [Peter Breiner](https://open.spotify.com/artist/50MREZ0LJcSvrtKuyTV8Su) | [Tchaikovsky: Greatest Melodies](https://open.spotify.com/album/0Zd9QG4qqJEVcxG6Tbo6nw) | 2:11 |

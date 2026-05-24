@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZQgENtHuxI.md) - [plain]
 
 > Sortez les pantalons pattes d‘eph et les chemises en satin !
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,240 likes - 50 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,251 likes - 50 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZQgENtHuxI.md) - [plain]
 | 26 | [Keep On](https://open.spotify.com/track/50bxxJIwn0XnZjQH2OruOu) | [D\-Train](https://open.spotify.com/artist/4gQEXxzqwNmQwjU0Wc0Ioe) | [You're the One for Me](https://open.spotify.com/album/6Cu53xS0YGhgEqyTqkVNeL) | 6:41 |
 | 27 | [Boogie Oogie Oogie \- Single Version 2 / Remastered 1999](https://open.spotify.com/track/0y0QpmcF1G3F79rjk3fjUx) | [A Taste Of Honey](https://open.spotify.com/artist/1ii6e2pv8VIRwnTER71rMl) | [A Taste Of Honey](https://open.spotify.com/album/2WDP1yNTx3cBR9LBE4Ribh) | 5:38 |
 | 28 | [I Hear Music in the Streets \- François Kevorkian Mix](https://open.spotify.com/track/5HgE5eXfu0An2moseSM635) | [Unlimited Touch](https://open.spotify.com/artist/4VaFWblR1Rv24L8kAfhtxm) | [Searching to Find the One](https://open.spotify.com/album/31fKBqNpIIRDSiBoTv408q) | 6:53 |
-| 29 | [You Make Me Feel \(Mighty Real\)](https://open.spotify.com/track/68oPWciPnkCZBNbq0HfFJE) | [Sylvester](https://open.spotify.com/artist/5TGTpu4g8siFOIctZuQO7y) | [The Original Hits](https://open.spotify.com/album/4Ls1kWhm4Lqgdteck35U7r) | 6:34 |
-| 30 | [Love Hangover](https://open.spotify.com/track/4poc2NX2Ap8MnZjOtoiGir) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Diana Ross](https://open.spotify.com/album/7BHw2NR6r6GRfsaojQL9xk) | 7:48 |
+| 29 | [Love Hangover](https://open.spotify.com/track/4poc2NX2Ap8MnZjOtoiGir) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Diana Ross](https://open.spotify.com/album/7BHw2NR6r6GRfsaojQL9xk) | 7:48 |
+| 30 | [You Make Me Feel \(Mighty Real\)](https://open.spotify.com/track/68oPWciPnkCZBNbq0HfFJE) | [Sylvester](https://open.spotify.com/artist/5TGTpu4g8siFOIctZuQO7y) | [The Original Hits](https://open.spotify.com/album/4Ls1kWhm4Lqgdteck35U7r) | 6:34 |
 | 31 | [Alexandrie Alexandra](https://open.spotify.com/track/19DVBvNrJMl9jRHjVZHk38) | [Claude François](https://open.spotify.com/artist/0P2p1bqVyP2EgqubwjTBUJ) | [Best Of](https://open.spotify.com/album/5UnV3CeKQ4r3uoW0koFS08) | 4:22 |
 | 32 | [I'll Never Forget \(My Favorite Disco\)](https://open.spotify.com/track/7KOS9ptdLAdy3hJxuvpHfc) | [Dexter Wansel](https://open.spotify.com/artist/7azp9wRyXcxIq5vZnJgYvt), [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [Time Is Slipping Away](https://open.spotify.com/album/636NtK3yPJ395a6nyXJ1ft) | 4:34 |
 | 33 | [Why \- 12" Version](https://open.spotify.com/track/3hI05NM8JnJvQLZMUnRvMa) | [Carly Simon](https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm) | [Soup for One \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1rC8ILJkAi4b0p3uqaxZrK) | 8:13 |

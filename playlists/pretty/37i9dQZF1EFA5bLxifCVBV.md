@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA5bLxifCVBV.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3zfnzDqNkjEZUNLWFpMiBs">E.Y\. "Yip" Harburg</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 166 likes - 157 songs - 7 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 167 likes - 157 songs - 7 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [It's Only A Paper Moon](https://open.spotify.com/track/6R3tpad24F6iXr5L4YuwVA) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [The Delta Rhythm Boys](https://open.spotify.com/artist/7jn7alb8SBq8VAukeFkPcF) | [100 Songs For A Centennial](https://open.spotify.com/album/3lsjiId5dDmjtbkkTQwOrM) | 2:41 |
+| 1 | [It's Only A Paper Moon](https://open.spotify.com/track/373yGkNo74RZgmQgTiR8xK) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [The Delta Rhythm Boys](https://open.spotify.com/artist/7jn7alb8SBq8VAukeFkPcF) | [The War Years \(1941\-1947\)](https://open.spotify.com/album/3xseO3iLY7v7dL7VP6jpsH) | 2:40 |
 | 2 | [April In Paris](https://open.spotify.com/track/5WKpVLOkxbyj4fQk3P6BkF) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [All Or Nothing At All](https://open.spotify.com/album/1q9Yh4EDALgMa8VYsI7bn5) | 3:05 |
 | 3 | [Plus Je T'embrasse](https://open.spotify.com/track/3KT0SEsaO5RuzQv1pIKDEx) | [Blossom Dearie](https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6) | [Give Him The Ooh\-La\-La \(Expanded Edition\)](https://open.spotify.com/album/19wCBH6ZfQYXhGWBWVHSog) | 2:31 |
 | 4 | [Old Devil Moon](https://open.spotify.com/track/0hdNrtu4z3lHfP4YQOZUny) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings: It Could Happen To You \[Original Jazz Classics Remasters\] \(OJC Remaster\)](https://open.spotify.com/album/05GsIfSvuy3bSY5EodA0Cc) | 2:58 |
@@ -166,4 +166,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA5bLxifCVBV.md) - [plain]
 | 156 | [Telephone Switchboard Scene](https://open.spotify.com/track/625wAMfDIHLLiqapY7xINt) | [Original Broadway Cast Of 'Flahooley](https://open.spotify.com/artist/3mqe3Rd5yH1IYCOvMh6oKZ) | [Flahooley \(Original Broadway Cast Recording\)](https://open.spotify.com/album/2aTYLuL1rhMHX6TBd0DXwH) | 0:24 |
 | 157 | [Inner\-Office Scene](https://open.spotify.com/track/1Gfn9iSf9bsNqUlAUbfeOT) | [Original Broadway Cast Of 'Flahooley](https://open.spotify.com/artist/3mqe3Rd5yH1IYCOvMh6oKZ) | [Flahooley \(Original Broadway Cast Recording\)](https://open.spotify.com/album/2aTYLuL1rhMHX6TBd0DXwH) | 0:26 |
 
-Snapshot ID: `AcSNXAAAAADtuXbFpdIFMlmMb0Aa4tCB`
+Snapshot ID: `AcSS/AAAAADZmitMkqouodp3aDvoAFTW`

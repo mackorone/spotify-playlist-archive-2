@@ -1,6 +1,6 @@
 {
   "description": "el nombre lo dice todo.",
-  "num_followers": 1005947,
+  "num_followers": 1005909,
   "original_name": "perrear y llorar \ud83e\udd72",
   "owner": {
     "name": "Spotify",
@@ -631,22 +631,6 @@
     {
       "added_at": "2026-04-10 16:26:16",
       "album": {
-        "name": "MANTRA",
-        "url": "https://open.spotify.com/album/1l1zcI8iwJg4WCb7jxHtbN"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        }
-      ],
-      "duration_ms": 229386,
-      "name": "Traicionera",
-      "url": "https://open.spotify.com/track/4Ft0391aLVNtCPPseh98lp"
-    },
-    {
-      "added_at": "2026-04-10 16:26:16",
-      "album": {
         "name": "Odisea",
         "url": "https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 193226,
       "name": "T\u00fa Foto",
       "url": "https://open.spotify.com/track/5zSOVwaY3sVjnmLhuEfsuf"
+    },
+    {
+      "added_at": "2026-04-10 16:26:16",
+      "album": {
+        "name": "MANTRA",
+        "url": "https://open.spotify.com/album/1l1zcI8iwJg4WCb7jxHtbN"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "duration_ms": 229386,
+      "name": "Traicionera",
+      "url": "https://open.spotify.com/track/4Ft0391aLVNtCPPseh98lp"
     },
     {
       "added_at": "2026-04-10 16:26:16",
@@ -727,6 +727,26 @@
     {
       "added_at": "2026-04-10 16:26:16",
       "album": {
+        "name": "Aura",
+        "url": "https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "duration_ms": 176133,
+      "name": "Vaina Loca",
+      "url": "https://open.spotify.com/track/48zFZh27QU5qsrBjn4C2FA"
+    },
+    {
+      "added_at": "2026-04-10 16:26:16",
+      "album": {
         "name": "Climaxxx",
         "url": "https://open.spotify.com/album/6stPNzjz40FWTiwlOR98Lp"
       },
@@ -763,26 +783,6 @@
       "duration_ms": 286506,
       "name": "Cuaderno",
       "url": "https://open.spotify.com/track/7anSoGdgtmJTAPZBzcPhO6"
-    },
-    {
-      "added_at": "2026-04-10 16:26:16",
-      "album": {
-        "name": "Aura",
-        "url": "https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 176133,
-      "name": "Vaina Loca",
-      "url": "https://open.spotify.com/track/48zFZh27QU5qsrBjn4C2FA"
     },
     {
       "added_at": "2026-04-10 16:26:16",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2026-04-10 16:26:16",
       "album": {
-        "name": "INTER SHIBUYA - LA MAFIA",
-        "url": "https://open.spotify.com/album/4hUQ4FB9GD5oDmw3XHIr0G"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 196373,
-      "name": "SI T\u00da SUPIERAS - Bonus Track",
-      "url": "https://open.spotify.com/track/1SCYfmGM5ueb6YiiQbLXVn"
-    },
-    {
-      "added_at": "2026-04-10 16:26:16",
-      "album": {
         "name": "La Promesa",
         "url": "https://open.spotify.com/album/0vBFa64sBqdd26KKIj4SKZ"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 238033,
       "name": "Ego\u00edsta",
       "url": "https://open.spotify.com/track/5ESAML4PZAbsiTK6OgRV2q"
+    },
+    {
+      "added_at": "2026-04-10 16:26:16",
+      "album": {
+        "name": "INTER SHIBUYA - LA MAFIA",
+        "url": "https://open.spotify.com/album/4hUQ4FB9GD5oDmw3XHIr0G"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 196373,
+      "name": "SI T\u00da SUPIERAS - Bonus Track",
+      "url": "https://open.spotify.com/track/1SCYfmGM5ueb6YiiQbLXVn"
     },
     {
       "added_at": "2026-04-10 16:26:16",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2026-04-10 16:26:16",
       "album": {
+        "name": "Sue\u00f1os",
+        "url": "https://open.spotify.com/album/3TgOrQ3p23Af8zSsxK8fdX"
+      },
+      "artists": [
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "duration_ms": 203392,
+      "name": "Boomerang",
+      "url": "https://open.spotify.com/track/6E8uqptcabNz9ym19FkDye"
+    },
+    {
+      "added_at": "2026-04-10 16:26:16",
+      "album": {
         "name": "Sigues Con El",
         "url": "https://open.spotify.com/album/1y0pdsLO6cixGzAv7Sf8rf"
       },
@@ -1451,22 +1467,6 @@
       "duration_ms": 226532,
       "name": "Sigues Con El",
       "url": "https://open.spotify.com/track/7sQKy5vlPQllr0k9IjYJv3"
-    },
-    {
-      "added_at": "2026-04-10 16:26:16",
-      "album": {
-        "name": "Sue\u00f1os",
-        "url": "https://open.spotify.com/album/3TgOrQ3p23Af8zSsxK8fdX"
-      },
-      "artists": [
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        }
-      ],
-      "duration_ms": 203392,
-      "name": "Boomerang",
-      "url": "https://open.spotify.com/track/6E8uqptcabNz9ym19FkDye"
     },
     {
       "added_at": "2026-04-10 16:26:16",
@@ -1763,22 +1763,6 @@
     {
       "added_at": "2026-04-10 16:26:16",
       "album": {
-        "name": "Par\u00eds",
-        "url": "https://open.spotify.com/album/6Ktv94u6eUIZBiUiBwOADD"
-      },
-      "artists": [
-        {
-          "name": "Ingratax",
-          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
-        }
-      ],
-      "duration_ms": 151428,
-      "name": "Par\u00eds",
-      "url": "https://open.spotify.com/track/4bF2y8rR7GUjrd5LNEvej3"
-    },
-    {
-      "added_at": "2026-04-10 16:26:16",
-      "album": {
         "name": "D\u00e9jala Que Vuelva",
         "url": "https://open.spotify.com/album/70WadO9CAH4rOI1rEbTS0a"
       },
@@ -1799,6 +1783,22 @@
     {
       "added_at": "2026-04-10 16:26:16",
       "album": {
+        "name": "Par\u00eds",
+        "url": "https://open.spotify.com/album/6Ktv94u6eUIZBiUiBwOADD"
+      },
+      "artists": [
+        {
+          "name": "Ingratax",
+          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
+        }
+      ],
+      "duration_ms": 151428,
+      "name": "Par\u00eds",
+      "url": "https://open.spotify.com/track/4bF2y8rR7GUjrd5LNEvej3"
+    },
+    {
+      "added_at": "2026-04-10 16:26:16",
+      "album": {
         "name": "The Sensation",
         "url": "https://open.spotify.com/album/7sxSaAYrq3kXLmTuGkIBFU"
       },
@@ -1815,42 +1815,6 @@
       "duration_ms": 203666,
       "name": "Qu\u00e9 M\u00e1s Pues",
       "url": "https://open.spotify.com/track/5O3cRP4ZHC9vvVIHtET1f0"
-    },
-    {
-      "added_at": "2026-04-10 16:26:16",
-      "album": {
-        "name": "Tal Vez",
-        "url": "https://open.spotify.com/album/039RvHRSbMCfQLsYcg70BQ"
-      },
-      "artists": [
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 264483,
-      "name": "Tal Vez",
-      "url": "https://open.spotify.com/track/46lvmzK8wxAy66tjzXXSh0"
-    },
-    {
-      "added_at": "2026-04-10 16:26:16",
-      "album": {
-        "name": "Mixteip",
-        "url": "https://open.spotify.com/album/5ZhcTmzBym8cwsVkNNrHgS"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
-        }
-      ],
-      "duration_ms": 198493,
-      "name": "Si Te Vas",
-      "url": "https://open.spotify.com/track/1qRWRxr2FTJjAfqxf99Bdm"
     },
     {
       "added_at": "2026-04-10 16:26:16",
@@ -1879,6 +1843,42 @@
       "duration_ms": 207248,
       "name": "Dime Cuantas Veces (Remix) [feat. Justin Quiles]",
       "url": "https://open.spotify.com/track/4MWb6mltydQn84NrTm7Gpl"
+    },
+    {
+      "added_at": "2026-04-10 16:26:16",
+      "album": {
+        "name": "Mixteip",
+        "url": "https://open.spotify.com/album/5ZhcTmzBym8cwsVkNNrHgS"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "duration_ms": 198493,
+      "name": "Si Te Vas",
+      "url": "https://open.spotify.com/track/1qRWRxr2FTJjAfqxf99Bdm"
+    },
+    {
+      "added_at": "2026-04-10 16:26:16",
+      "album": {
+        "name": "Tal Vez",
+        "url": "https://open.spotify.com/album/039RvHRSbMCfQLsYcg70BQ"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 264483,
+      "name": "Tal Vez",
+      "url": "https://open.spotify.com/track/46lvmzK8wxAy66tjzXXSh0"
     },
     {
       "added_at": "2026-04-10 16:26:16",
@@ -1919,26 +1919,6 @@
     {
       "added_at": "2026-04-10 16:26:16",
       "album": {
-        "name": "Los Cachos",
-        "url": "https://open.spotify.com/album/0SXW8l00nztnoYkGT7BjJh"
-      },
-      "artists": [
-        {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
-        },
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 212304,
-      "name": "Los Cachos",
-      "url": "https://open.spotify.com/track/5fhcuVxuBWfgNXGuyAtLmr"
-    },
-    {
-      "added_at": "2026-04-10 16:26:16",
-      "album": {
         "name": "DONDE QUIERO ESTAR",
         "url": "https://open.spotify.com/album/156gxGFDxadwiIC3Bfwmj3"
       },
@@ -1955,6 +1935,26 @@
       "duration_ms": 231428,
       "name": "DAME",
       "url": "https://open.spotify.com/track/5yocaqYG38qpSSxV1t0o3D"
+    },
+    {
+      "added_at": "2026-04-10 16:26:16",
+      "album": {
+        "name": "Los Cachos",
+        "url": "https://open.spotify.com/album/0SXW8l00nztnoYkGT7BjJh"
+      },
+      "artists": [
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "duration_ms": 212304,
+      "name": "Los Cachos",
+      "url": "https://open.spotify.com/track/5fhcuVxuBWfgNXGuyAtLmr"
     },
     {
       "added_at": "2026-04-10 16:26:16",

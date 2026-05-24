@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO23Vfpd.md) - [plain]
 
 > This is Shaboozey\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,203 likes - 43 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,235 likes - 43 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Born To Die](https://open.spotify.com/track/2OYL3iPdImeS7qMmV2gOsX) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Born To Die](https://open.spotify.com/album/0YasyGaO1Go6ArzZtGkv27) | 2:45 |
-| 2 | [A Bar Song \(Tipsy\)](https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [A Bar Song \(Tipsy\)](https://open.spotify.com/album/6egBeCLeGITzGSo5VyRjwZ) | 2:51 |
+| 1 | [A Bar Song \(Tipsy\)](https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [A Bar Song \(Tipsy\)](https://open.spotify.com/album/6egBeCLeGITzGSo5VyRjwZ) | 2:51 |
+| 2 | [Born To Die](https://open.spotify.com/track/2OYL3iPdImeS7qMmV2gOsX) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Born To Die](https://open.spotify.com/album/0YasyGaO1Go6ArzZtGkv27) | 2:45 |
 | 3 | [Good News](https://open.spotify.com/track/5VHRiH48pBB008CAkrIBwP) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Where I've Been, Isn't Where I'm Going: The Complete Edition](https://open.spotify.com/album/4iSZXBgHUpzVGl8qfuZSEv) | 3:19 |
 | 4 | [Move On](https://open.spotify.com/track/2jo7RsXd2f4TCA7N3mbMZC) | [Kevin Powers](https://open.spotify.com/artist/4X8TR9pBFyewFlIDYt1o2s), [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Move On](https://open.spotify.com/album/46kMFHuPM7lebSmP47lGfA) | 3:11 |
 | 5 | [Let It Burn](https://open.spotify.com/track/2lcJpkoLQqeSvZDKk27pEA) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Where I've Been, Isn't Where I'm Going](https://open.spotify.com/album/5lL9OB0cw7ARy9LYx7FKzh) | 3:44 |
@@ -36,11 +36,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO23Vfpd.md) - [plain]
 | 26 | [Change Your Mind \(feat\. Shaboozey\)](https://open.spotify.com/track/2FyrMwr4s13OYlhAFApwJW) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [No Sign of Weakness](https://open.spotify.com/album/0K9DQYNFGj1po76L6KgG2g) | 2:28 |
 | 27 | [Chrome \- Bonus](https://open.spotify.com/track/2buTmoOVsN9Sc5tzOFD1um) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Where I've Been, Isn't Where I'm Going: The Complete Edition](https://open.spotify.com/album/7h7fjoD137eLq9B3KHWXtW) | 2:25 |
 | 28 | [Sticks and Stones](https://open.spotify.com/track/6Xg6qGLWmZf4nkGPzEuwU8) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Cowboys Live Forever, Outlaws Never Die](https://open.spotify.com/album/3QEQeBF0NJ5BvvPY8lyWsP) | 2:34 |
-| 29 | [Faithfully](https://open.spotify.com/track/3HD3JJPE7iWKLV0zf86ShQ) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Lady Wrangler](https://open.spotify.com/album/2xUAnts1jM9tnbxi23Jf5O) | 3:39 |
+| 29 | [Golden Child](https://open.spotify.com/track/04QWC97Dvd9g0IEDoyUDBX) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Lady Wrangler](https://open.spotify.com/album/2xUAnts1jM9tnbxi23Jf5O) | 2:57 |
 | 30 | [Lonely \(with Shaboozey\)](https://open.spotify.com/track/5SA97SnIegYVy0CfEGB0iR) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [everything is a lot.](https://open.spotify.com/album/0AIADbs20wMj3229QY0XnN) | 3:20 |
 | 31 | [Hail Mary](https://open.spotify.com/track/3dbSXSqBQJFuQVgJ5pRIfL) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Where I've Been, Isn't Where I'm Going: The Complete Edition](https://open.spotify.com/album/7h7fjoD137eLq9B3KHWXtW) | 2:44 |
 | 32 | [Another Me](https://open.spotify.com/track/2r1nHvs8nYieO2BFbvrTU4) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Another Me](https://open.spotify.com/album/5wK7WdNdAqiAqYPNrc1v2f) | 3:28 |
-| 33 | [Golden Child](https://open.spotify.com/track/04QWC97Dvd9g0IEDoyUDBX) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Lady Wrangler](https://open.spotify.com/album/2xUAnts1jM9tnbxi23Jf5O) | 2:57 |
+| 33 | [Faithfully](https://open.spotify.com/track/3HD3JJPE7iWKLV0zf86ShQ) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Lady Wrangler](https://open.spotify.com/album/2xUAnts1jM9tnbxi23Jf5O) | 3:39 |
 | 34 | [Joan Jett](https://open.spotify.com/track/4JJVcjQ4G6F76QUYxqlpN3) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Joan Jett](https://open.spotify.com/album/14LGfuq3keIxyKIJYQIPWT) | 4:06 |
 | 35 | [Cabelas](https://open.spotify.com/track/6aie8HuaamfjCSN9VYiME8) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Cabelas](https://open.spotify.com/album/3DNUZDqY1l72DNWMqtyD61) | 2:57 |
 | 36 | [More](https://open.spotify.com/track/05GtboKWbu2zaFxbXXgBwc) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [More](https://open.spotify.com/album/6AvBRLME0mpHvd3p46mXyM) | 3:06 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO23Vfpd.md) - [plain]
 | 42 | [Left Behind](https://open.spotify.com/track/4bFflU4kadtLgGwIOAnQau) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Lady Wrangler](https://open.spotify.com/album/2xUAnts1jM9tnbxi23Jf5O) | 4:27 |
 | 43 | [Dream](https://open.spotify.com/track/0mi0iUFpptiGoLtgOEiN0h) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Lady Wrangler](https://open.spotify.com/album/2xUAnts1jM9tnbxi23Jf5O) | 4:34 |
 
-Snapshot ID: `ag5LAAAAAADmB82WirMaVqxpnpLYo1Hb`
+Snapshot ID: `ag+cgAAAAAAoPhjsIgGOPYcmx5Bi0eTp`

@@ -4,7 +4,7 @@
 
 > Get the party started with these Naija bangers!
 
-878 songs - 1 day 17 hr 28 min
+879 songs - 1 day 17 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -397,7 +397,7 @@
 | [Honest](https://open.spotify.com/track/1w8XryfrrR7rXSo5GscZ5f) | [Highlyy](https://open.spotify.com/artist/4JmaulM4hnNKJzvNgdxx3B) | [+243](https://open.spotify.com/album/6HtnERLFPPLFNQGy3RoZGK) | 3:14 | 2024-06-28 | 2024-07-13 |
 | [Hope](https://open.spotify.com/track/1HBWK4lSLU6b4MjeK5OA2B) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC), [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL) | [Shakur](https://open.spotify.com/album/4dI1QNQSKTYSU6zKtmzwum) | 2:44 | 2024-11-29 | 2026-03-17 |
 | [Hot Hot](https://open.spotify.com/track/4Ivexy20vZiJUYq2R7fpP6) | [Famous Pluto](https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne) | [Hot Hot](https://open.spotify.com/album/6PaoE59BSEIdQjrBkTTIv8) | 2:23 | 2025-10-10 | 2026-01-15 |
-| [HOW FAR](https://open.spotify.com/track/27y6VtO5N6QHPVrVLy9Gur) | [NO11](https://open.spotify.com/artist/1bu3a0AAJbZazQJV0tbywD), [Ayjay bobo](https://open.spotify.com/artist/5L1Xcdtf6MxLmEvpGMw3g4), [Monochrome](https://open.spotify.com/artist/5CuyARGesDksvuWHiMQdX2) | [HOW FAR / SHIMA II](https://open.spotify.com/album/0g4PK75NaCaL7d8VDH889o) | 2:43 | 2026-01-14 |  |
+| [HOW FAR](https://open.spotify.com/track/27y6VtO5N6QHPVrVLy9Gur) | [NO11](https://open.spotify.com/artist/1bu3a0AAJbZazQJV0tbywD), [Ayjay bobo](https://open.spotify.com/artist/5L1Xcdtf6MxLmEvpGMw3g4), [Monochrome](https://open.spotify.com/artist/5CuyARGesDksvuWHiMQdX2) | [HOW FAR / SHIMA II](https://open.spotify.com/album/0g4PK75NaCaL7d8VDH889o) | 2:43 | 2026-01-14 | 2026-05-24 |
 | [How To Kill A Man](https://open.spotify.com/track/4SIOfdukGpJsd6hShkXyHb) | [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K) | [How To Kill A Man](https://open.spotify.com/album/4tD2HpiRHHdgTJ3aPfebDo) | 2:54 | 2022-10-30 | 2022-12-03 |
 | [HUSTLE KPA $$$ \(feat\. ARTSALGHUL\)](https://open.spotify.com/track/4xhAl8bc53MYyDvqUGhSsM) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [ARTSALGHUL](https://open.spotify.com/artist/3hXlGRJuBMCg9xJ41BSWkf) | [HUSTLE KPA $$$ \(feat\. ARTSALGHUL\)](https://open.spotify.com/album/1EGvLNkUa30Sg0gi51cQpe) | 3:09 | 2026-03-16 | 2026-05-22 |
 | [Hypertension](https://open.spotify.com/track/5lLwFE3fCAQllnPLsKtFP9) | [Peruzzi](https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf) | [Hypertension / Things I Need](https://open.spotify.com/album/0m1x1G5kxXmN4cvqF75A7q) | 3:17 | 2023-01-19 | 2023-03-18 |
@@ -532,6 +532,7 @@
 | [Marhaba](https://open.spotify.com/track/5FzsdlFgAFN1aSe9YwoN6s) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Marhaba X We Must](https://open.spotify.com/album/2ElVuPg0F7mHNcveABN2Rw) | 2:23 | 2024-09-27 | 2025-04-01 |
 | [Maria](https://open.spotify.com/track/4Tgt15dD8P2m68HYxA8DCG) | [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL), [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [Xin Mao](https://open.spotify.com/album/2xBdv4TVpVXG9U8K3om1WQ) | 2:23 | 2024-08-29 | 2025-04-01 |
 | [Marry](https://open.spotify.com/track/1RdJBwpiYkf3mB8Tlak7ck) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Marry](https://open.spotify.com/album/6FOPrXcN2OdzaTJeV4mwL4) | 3:19 | 2023-12-22 | 2024-02-20 |
+| [Matter](https://open.spotify.com/track/1LtqcH7fpqyIiGUgJvNIbM) | [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Matter](https://open.spotify.com/album/05O6DVCuHwbJJKE6lj4VRb) | 2:49 | 2026-05-22 |  |
 | [Mașe](https://open.spotify.com/track/2vk4aVxQpbGE35u22K1elZ) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Mașe](https://open.spotify.com/album/3tJhNuOQwykvA4x6Tl8n8I) | 2:52 | 2024-12-16 | 2025-07-05 |
 | [Mbali](https://open.spotify.com/track/3nnZWb6mhiPhhyRV2sQv0X) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [Mbali](https://open.spotify.com/album/414Ob3floRfurHgYHnRqk0) | 2:47 | 2025-08-15 | 2025-08-30 |
 | [Mean 2 Me](https://open.spotify.com/track/6IMJPS60S4PuO4dsyGSaDc) | [Skyla Tylaa](https://open.spotify.com/artist/65nasTOHBmMP0qoo6Xa245), [Kitty Amor](https://open.spotify.com/artist/0ZaCzPKSboLncLMhFaBfcT), [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Mean 2 Me](https://open.spotify.com/album/0npUtWGx1oEk4AXLoNvhKm) | 4:27 | 2026-03-06 | 2026-04-17 |

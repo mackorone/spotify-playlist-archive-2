@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33sAKOXmmb7.md) - [plain]
 
 > Indie folk that defined the 2010s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,406 likes - 120 songs - 7 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,426 likes - 120 songs - 7 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33sAKOXmmb7.md) - [plain]
 | 62 | [Cold Little Heart \- Acoustic](https://open.spotify.com/track/5bMtpnI01NMBbCLd8XFFOd) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Cold Little Heart \(Acoustic\)](https://open.spotify.com/album/4d1Len7ZUGFqZJ2GCBwR12) | 4:29 |
 | 63 | [The Night We Met](https://open.spotify.com/track/3hRV0jL3vUpRrcy398teAU) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/4sD1qg4jwTZR4mvR4Iflk5) | 3:28 |
 | 64 | [California](https://open.spotify.com/track/4Y3gLYlV5rD3fhirhWKtei) | [Delta Spirit](https://open.spotify.com/artist/1xVWSPiw5B0OduIC0DSu3V) | [Delta Spirit](https://open.spotify.com/album/7azn6b0REXVeI7x6I8ebQi) | 3:39 |
-| 65 | [Real Peach](https://open.spotify.com/track/6p4mASLulKdpNFLxQhs0ff) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [The Wilds](https://open.spotify.com/album/6mG8sVZlEsKwNZeSq8sMpA) | 3:53 |
-| 66 | [The Woodpile](https://open.spotify.com/track/5Zt5q2j5OEdcR3HtwxivZQ) | [Frightened Rabbit](https://open.spotify.com/artist/6fVcDUckTwxqg56qNsEvUr) | [Pedestrian Verse](https://open.spotify.com/album/63F9BBf5YCiPQrpndWA50x) | 3:27 |
+| 65 | [The Woodpile](https://open.spotify.com/track/5Zt5q2j5OEdcR3HtwxivZQ) | [Frightened Rabbit](https://open.spotify.com/artist/6fVcDUckTwxqg56qNsEvUr) | [Pedestrian Verse](https://open.spotify.com/album/63F9BBf5YCiPQrpndWA50x) | 3:27 |
+| 66 | [Real Peach](https://open.spotify.com/track/6p4mASLulKdpNFLxQhs0ff) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [The Wilds](https://open.spotify.com/album/6mG8sVZlEsKwNZeSq8sMpA) | 3:53 |
 | 67 | [Ho Hey](https://open.spotify.com/track/0W4Kpfp1w2xkY3PrV714B7) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [The Lumineers](https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW) | 2:43 |
 | 68 | [Helplessness Blues](https://open.spotify.com/track/1b8Zlu3aMVxEbyeospYPrK) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Helplessness Blues](https://open.spotify.com/album/6SUzec8cWCUMhvdW3KbMYZ) | 5:03 |
 | 69 | [Shame](https://open.spotify.com/track/1d39v4V4DmrrLiFX4DKHBv) | [Ciaran Lavery](https://open.spotify.com/artist/7zOuMHqRJ6YOMnCGpLfuTU) | [Not Nearly Dark](https://open.spotify.com/album/6kUNN69mPV5AxDEyypv6hB) | 4:11 |
@@ -117,8 +117,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33sAKOXmmb7.md) - [plain]
 | 107 | [Juma Mountain](https://open.spotify.com/track/2i9lTmLLekACc4KBW06Flk) | [Sam Amidon](https://open.spotify.com/artist/6TTJ0xLPPNDyv4bXyukzU4) | [The Following Mountain](https://open.spotify.com/album/2fKcI76mLYlxj5XWchuzXe) | 3:38 |
 | 108 | [Bashed Out](https://open.spotify.com/track/1chmZUBdfxoLWN1LCZ6HLO) | [This Is The Kit](https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo) | [Bashed Out](https://open.spotify.com/album/7DbfCArRXJvf4cgKWPUHIv) | 3:41 |
 | 109 | [Master Hunter](https://open.spotify.com/track/2OqnctQz4VZpk8wcb9TPp4) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Once I Was An Eagle](https://open.spotify.com/album/35He6RuwS8C2KjG067Gobl) | 3:16 |
-| 110 | [Museum of Flight](https://open.spotify.com/track/66FQj8xV0Jv082kNhzKdGi) | [Damien Jurado](https://open.spotify.com/artist/79JJCxCCfJ8HufX6w8q2k4) | [Maraqopa \(Deluxe Edition\)](https://open.spotify.com/album/0M9qrwqS1gTf7ONzbws7z4) | 2:50 |
-| 111 | [Down Down The Deep River](https://open.spotify.com/track/6FyokYpQp8qm3WVPLDIRJP) | [Okkervil River](https://open.spotify.com/artist/5E7zSu46SqTmgKqsc0tFkY) | [The Silver Gymnasium](https://open.spotify.com/album/5aO3jsVyUZRrnyFkRXlhnU) | 6:32 |
+| 110 | [Down Down The Deep River](https://open.spotify.com/track/6FyokYpQp8qm3WVPLDIRJP) | [Okkervil River](https://open.spotify.com/artist/5E7zSu46SqTmgKqsc0tFkY) | [The Silver Gymnasium](https://open.spotify.com/album/5aO3jsVyUZRrnyFkRXlhnU) | 6:32 |
+| 111 | [Museum of Flight](https://open.spotify.com/track/66FQj8xV0Jv082kNhzKdGi) | [Damien Jurado](https://open.spotify.com/artist/79JJCxCCfJ8HufX6w8q2k4) | [Maraqopa \(Deluxe Edition\)](https://open.spotify.com/album/0M9qrwqS1gTf7ONzbws7z4) | 2:50 |
 | 112 | [Vedauwoo](https://open.spotify.com/track/7f34NzgqC100aAxrtwurEi) | [Lowland Hum](https://open.spotify.com/artist/37YxyxKbCL7as3bH2adwQE) | [Thin](https://open.spotify.com/album/7z3uh23KJCyppUMkYwiHLn) | 2:39 |
 | 113 | [Gloria](https://open.spotify.com/track/1FAKozGHHmuafTOj2ESuZt) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [Gloria Duplex](https://open.spotify.com/album/33kQ6VPlEEAQTctQZQmd1b) | 3:47 |
 | 114 | [Love No Less Worthy](https://open.spotify.com/track/7cyEaeobX5n7UmvvdxG4Zt) | [J\. Tillman](https://open.spotify.com/artist/21XbnrbEMUTZelIfoV12hC) | [Singing Ax](https://open.spotify.com/album/5MwNed00WoQc1dqGTxz8UQ) | 3:13 |

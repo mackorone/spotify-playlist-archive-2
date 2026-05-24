@@ -1417,6 +1417,32 @@
     },
     {
       "album": {
+        "name": "Gente Aberta / Imensamente Visceral",
+        "url": "https://open.spotify.com/album/01EA9XOjZSzJCtURwZZ01Z"
+      },
+      "artists": [
+        {
+          "name": "Erasmo Carlos",
+          "url": "https://open.spotify.com/artist/6cHQUDAPGKRE2NbVjBlOcz"
+        },
+        {
+          "name": "Tassia Reis",
+          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
+        },
+        {
+          "name": "Criolo",
+          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
+        }
+      ],
+      "date_added": "2026-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217824,
+      "name": "Gente Aberta / Imensamente Visceral",
+      "url": "https://open.spotify.com/track/4JouO4nSWxm13hQgxdqtkC"
+    },
+    {
+      "album": {
         "name": "Girl from Bahia",
         "url": "https://open.spotify.com/album/3NRwcRgNBM5gtT6LM9BAON"
       },
@@ -1736,7 +1762,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 240000,
       "name": "Me Beije",
       "url": "https://open.spotify.com/track/1berLAehxGY70nYh1bPPfF"

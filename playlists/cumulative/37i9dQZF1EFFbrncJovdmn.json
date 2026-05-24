@@ -330,10 +330,28 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 136138,
       "name": "loverboi",
       "url": "https://open.spotify.com/track/0TgA5lQWMENLjZHzLWRhh9"
+    },
+    {
+      "album": {
+        "name": "loverboi",
+        "url": "https://open.spotify.com/album/25xp8HHHxOvUrwmwnid0je"
+      },
+      "artists": [
+        {
+          "name": "Izzi De-Rosa",
+          "url": "https://open.spotify.com/artist/3Z6QJOLlIS8vdKV4f3jc6g"
+        }
+      ],
+      "date_added": "2026-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136138,
+      "name": "loverboi",
+      "url": "https://open.spotify.com/track/2PkMh29CjH7ozpkTuTjtxq"
     },
     {
       "album": {

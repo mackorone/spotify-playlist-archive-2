@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 
 > 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\.   Cover: TOKiMONSTA
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,994 likes - 99 songs - 7 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,008 likes - 99 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 | 23 | [Alex](https://open.spotify.com/track/794t8xjE1odkdLmNb42nqu) | [Bella Boo](https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C) | [Shake Down EP](https://open.spotify.com/album/6etEHGl1AfdBDZEHgJBnb1) | 4:41 |
 | 24 | [Back to the Old School](https://open.spotify.com/track/2GcRQo1iIfDGvg4FBgsrU6) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU), [DJ Minx](https://open.spotify.com/artist/4PTQtiKISN5iGNpbRVv02B) | [Back to the Old School](https://open.spotify.com/album/4zqG45IJIbuMfAu4p2TILM) | 6:11 |
 | 25 | [Spiralen](https://open.spotify.com/track/03ra0kWWPT8fW3sy6onMfc) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [Spiralen](https://open.spotify.com/album/1kEZXSkIPpoDcjEMsJVQLJ) | 7:17 |
-| 26 | [JOY \(Light In The Dark\)](https://open.spotify.com/track/6rZfjIl7gepUSwkmi22luo) | [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R) | [JOY \(Light In The Dark\)](https://open.spotify.com/album/4O6IC1c67UMYoDaZp0FMWS) | 4:58 |
+| 26 | [JOY \(Light In The Dark\)](https://open.spotify.com/track/6rZfjIl7gepUSwkmi22luo) | [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R) | [JOY \(Light In The Dark\)](https://open.spotify.com/album/4O6IC1c67UMYoDaZp0FMWS) | 4:56 |
 | 27 | [How Does It Feel](https://open.spotify.com/track/1X5zjaul0MoZVJMmq6RtYK) | [Durante](https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh), [ALLKNIGHT](https://open.spotify.com/artist/28Upea6Tkq0l5oTu0dtX1c) | [How Does It Feel](https://open.spotify.com/album/5g7eHEiWZexaG3OoMTY8Jk) | 4:36 |
 | 28 | [Insane](https://open.spotify.com/track/07ke5nx6iwoBo2ERqCK1Xl) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Insane](https://open.spotify.com/album/1nLo5LHl02hV58v4PZhyQp) | 3:44 |
 | 29 | [Satisfy](https://open.spotify.com/track/3AsOa3cNh8bqF4q1temSHE) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Satisfy](https://open.spotify.com/album/55aZFGWITREqVoI2iy45Bd) | 3:06 |

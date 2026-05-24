@@ -1,6 +1,6 @@
 {
   "description": "El inolvidable sonido del amor nunca hab\u00eda estado tan cerca de ti.",
-  "num_followers": 106024,
+  "num_followers": 106037,
   "original_name": "Boleros en Casa",
   "owner": {
     "name": "Spotify",
@@ -483,22 +483,6 @@
     {
       "added_at": "2025-12-19 04:59:16",
       "album": {
-        "name": "Aquellas Lindas Melodias, Vol. 9",
-        "url": "https://open.spotify.com/album/2gnllsi7CMqa2oo5APO54S"
-      },
-      "artists": [
-        {
-          "name": "To\u00f1a La Negra",
-          "url": "https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3"
-        }
-      ],
-      "duration_ms": 165840,
-      "name": "Canta Canta",
-      "url": "https://open.spotify.com/track/6FmscChYXXYOYMrwMt6CZr"
-    },
-    {
-      "added_at": "2025-12-19 04:59:16",
-      "album": {
         "name": "Las Estrellas De La Matancera",
         "url": "https://open.spotify.com/album/1NfEP5Vfe1Pvxr6fcshVP1"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 137826,
       "name": "En El Balcon Aquel",
       "url": "https://open.spotify.com/track/0RG50rC99tTOBv81mcB5Qt"
+    },
+    {
+      "added_at": "2025-12-19 04:59:16",
+      "album": {
+        "name": "Aquellas Lindas Melodias, Vol. 9",
+        "url": "https://open.spotify.com/album/2gnllsi7CMqa2oo5APO54S"
+      },
+      "artists": [
+        {
+          "name": "To\u00f1a La Negra",
+          "url": "https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3"
+        }
+      ],
+      "duration_ms": 165840,
+      "name": "Canta Canta",
+      "url": "https://open.spotify.com/track/6FmscChYXXYOYMrwMt6CZr"
     },
     {
       "added_at": "2025-12-19 04:59:16",
@@ -691,22 +691,6 @@
     {
       "added_at": "2025-12-19 04:59:16",
       "album": {
-        "name": "Pedrito Otiniano y Sus Exitos",
-        "url": "https://open.spotify.com/album/37tYAxmi3FWqBFjVl46F75"
-      },
-      "artists": [
-        {
-          "name": "Pedrito Otiniano",
-          "url": "https://open.spotify.com/artist/6wRjkV95z5xfzG7Yd9eOvG"
-        }
-      ],
-      "duration_ms": 171693,
-      "name": "Kio",
-      "url": "https://open.spotify.com/track/3ns4FKqAax76kulOxWSZdC"
-    },
-    {
-      "added_at": "2025-12-19 04:59:16",
-      "album": {
         "name": "14 Grandes Exitos de Nacho Sanabria",
         "url": "https://open.spotify.com/album/7MkZgWtVL5mhtSASyFB51T"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 265960,
       "name": "Trompo de Juguete",
       "url": "https://open.spotify.com/track/26YLEP0iOR8C8Ub38m7je1"
+    },
+    {
+      "added_at": "2025-12-19 04:59:16",
+      "album": {
+        "name": "Pedrito Otiniano y Sus Exitos",
+        "url": "https://open.spotify.com/album/37tYAxmi3FWqBFjVl46F75"
+      },
+      "artists": [
+        {
+          "name": "Pedrito Otiniano",
+          "url": "https://open.spotify.com/artist/6wRjkV95z5xfzG7Yd9eOvG"
+        }
+      ],
+      "duration_ms": 171693,
+      "name": "Kio",
+      "url": "https://open.spotify.com/track/3ns4FKqAax76kulOxWSZdC"
     },
     {
       "added_at": "2025-12-19 04:59:16",

@@ -4,7 +4,7 @@
 
 > Ghazals for the rapture and passion of intense love and longing\. Cover \- Jagjit Singh
 
-227 songs - 20 hr 13 min
+228 songs - 20 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,6 +128,7 @@
 | [Jis Dil Pe Naaz tha Mujhe](https://open.spotify.com/track/1YLSXFY1i6JRl3oKovsqVb) | [Mehdi Hassan](https://open.spotify.com/artist/73Qu5twIpvKmLU0rPaEJi4) | [50 Greatest Ghazal Hits \- Best of Ghulam Ali and Mehdi Hassan](https://open.spotify.com/album/69LGrqCkZQBrW81maqfZUt) | 4:47 | 2021-12-01 | 2022-07-29 |
 | [Kabhi Ishq Ka](https://open.spotify.com/track/0E0KFzq2dQg19wWRQiuqoV) | [Ranjeet Rajwada](https://open.spotify.com/artist/4vfbZtBkJbwbuCD3GWmgAa) | [Kabhi Ishq Ka](https://open.spotify.com/album/1GvV8MWDKfjrkFYDHjjY3f) | 5:36 | 2023-04-05 | 2025-01-01 |
 | [Kabhi Ishq Ka](https://open.spotify.com/track/1iS03sVMvtSlI9Hv7qeItG) | [Ranjeet Rajwada](https://open.spotify.com/artist/4vfbZtBkJbwbuCD3GWmgAa) | [Kabhi Ishq Ka](https://open.spotify.com/album/7KYHkonLiq66rxQx2EgQbJ) | 5:36 | 2023-12-12 | 2024-04-19 |
+| [Kaisa Manzar](https://open.spotify.com/track/4QmPaU6ipYU0tAS5FUJnn1) | [Osman Mir](https://open.spotify.com/artist/20w1cujlzVI3LA0dItmMg1) | [Kaisa Manzar](https://open.spotify.com/album/3lEUa9SEtO39Dg0rPuF8uu) | 4:55 | 2026-05-16 |  |
 | [Kaise Keh Dein](https://open.spotify.com/track/0azdOh0YcG9pUxPps6WbvA) | [Khwaab](https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx), [Divyam Sodhi](https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5) | [Kaise Keh Dein](https://open.spotify.com/album/7dYJFrC2T3IeqiAhfMFxyB) | 4:09 | 2024-10-18 |  |
 | [Kaun Aayega Yahan](https://open.spotify.com/track/4X5oSzi49t1elYxbFMOEjJ) | [Jagjit Singh](https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU) | [Romantic Evening with Jagjit Singh](https://open.spotify.com/album/33BrYdz37reGujAmhBPWQa) | 6:42 | 2021-12-01 | 2025-01-01 |
 | [Kaun Aayega Yahan](https://open.spotify.com/track/43ohGfWWEI0dQnBXQ8KyEU) | [Jagjit Singh](https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU) | [Unique \- Jagjit Singh](https://open.spotify.com/album/6UAJt94BITRYHDAFBpzRCB) | 6:46 | 2022-07-26 | 2024-04-19 |
@@ -143,7 +144,7 @@
 | [Kya Main Ik Harf](https://open.spotify.com/track/1EkrybycogZ3e00XgdmgC2) | [Quincy Chett](https://open.spotify.com/artist/3uqgiYGmQ9KO7CQjqy1AGi) | [Kya Main Ik Harf](https://open.spotify.com/album/2Xg8iGHNFYZ19s7KIRFsNK) | 3:51 | 2025-09-15 | 2026-05-21 |
 | [Labon Se Baat \- The Ghazal](https://open.spotify.com/track/32tSOMIEEzIyW7BkIXky9M) | [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw), [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h), [Priya Saraiya](https://open.spotify.com/artist/6q29t5RuXxlBuqIZsOMQss) | [Labon Se Baat \- The Ghazal](https://open.spotify.com/album/2qVpRzoWbjZKp7yWo9ASms) | 5:11 | 2023-07-27 |  |
 | [Main Khayal Hoo](https://open.spotify.com/track/24Vy5CToYsC5yvxhk6vNnx) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu) | [Ghazals](https://open.spotify.com/album/7uqpHCXyHSUqiWEtWQ4t5x) | 6:10 | 2024-02-07 |  |
-| [Main Khayal Hoon](https://open.spotify.com/track/6UIzo8T1S2EGHyPSoKXMWa) | [Jazim Sharma](https://open.spotify.com/artist/5tUNLzDOTfdJ3WNBhNAJMB), [Sneha Astunkar](https://open.spotify.com/artist/5vnUKpiC4Pxh6deCoUK2lD) | [Main Khayal Hoon](https://open.spotify.com/album/2B5fP4yYesVBh1OeHWGld2) | 5:25 | 2024-08-29 |  |
+| [Main Khayal Hoon](https://open.spotify.com/track/6UIzo8T1S2EGHyPSoKXMWa) | [Jazim Sharma](https://open.spotify.com/artist/5tUNLzDOTfdJ3WNBhNAJMB), [Sneha Astunkar](https://open.spotify.com/artist/5vnUKpiC4Pxh6deCoUK2lD) | [Main Khayal Hoon](https://open.spotify.com/album/2B5fP4yYesVBh1OeHWGld2) | 5:25 | 2024-08-29 | 2026-05-24 |
 | [Main Teri Yaad Ko](https://open.spotify.com/track/4ZkmpKwyfIuoHWewex1NfD) | [Mehdi Hassan](https://open.spotify.com/artist/73Qu5twIpvKmLU0rPaEJi4) | [Collection of Memorable Ghazals](https://open.spotify.com/album/0l5ac88or0M9cXIm4sfZ4Q) | 8:32 | 2021-12-01 | 2025-01-01 |
 | [Main Teri Yaad Ko](https://open.spotify.com/track/3FoMsUV3YRuLoQDdFZxVvN) | [Mehdi Hassan](https://open.spotify.com/artist/73Qu5twIpvKmLU0rPaEJi4) | [Shahad](https://open.spotify.com/album/0YCKkEc1hyPL7qCtpYrCNa) | 8:36 | 2022-07-26 | 2024-04-19 |
 | [Mausam](https://open.spotify.com/track/2wMiTY6QDXqYlV6irpf12F) | [The Anirudh Varma Collective](https://open.spotify.com/artist/3bD7WaIwFeJMNv8smNGODB), [Kavya Singh](https://open.spotify.com/artist/3wfNDxeCBMNpbxBhKOk6rm), [Divyam Sodhi](https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5), [Likhari](https://open.spotify.com/artist/33SPUncA5xd16yYMbI2t15) | [Mausam](https://open.spotify.com/album/7wykscgLlq9Ch9VLLZPYAF) | 4:51 | 2024-12-31 |  |

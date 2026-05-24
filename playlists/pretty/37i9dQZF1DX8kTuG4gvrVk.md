@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8kTuG4gvrVk.md) - [plain]
 
 > ¡Los éxitos de hoy en un sólo lugar! En portada: Omar Courtz
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,127 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,157 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

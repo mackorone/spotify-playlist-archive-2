@@ -946,10 +946,28 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 174800,
       "name": "Freaks",
       "url": "https://open.spotify.com/track/0GVA7K6nGHPQWVJZTkh1ux"
+    },
+    {
+      "album": {
+        "name": "Freaks",
+        "url": "https://open.spotify.com/album/25FrEbBv3NYGyCv46kt0LU"
+      },
+      "artists": [
+        {
+          "name": "Jordan Clarke",
+          "url": "https://open.spotify.com/artist/14Y3trk7LaslSFTk1G35rx"
+        }
+      ],
+      "date_added": "2026-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174800,
+      "name": "Freaks",
+      "url": "https://open.spotify.com/track/71Y5lhHC9VQgz1odPuFjur"
     },
     {
       "album": {

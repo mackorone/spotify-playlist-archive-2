@@ -1,12 +1,12 @@
 {
   "description": "This is Mr Eazi. The essential tracks, all in one playlist.",
-  "num_followers": 21347,
+  "num_followers": 21352,
   "original_name": "This Is Mr Eazi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ag5LAAAAAABwZqMsp7lWR8AhYROr0QSb",
+  "snapshot_id": "ag+cgAAAAACwqx1lUFu1IwSroeQ9Aa2h",
   "tracks": [
     {
       "added_at": null,
@@ -155,26 +155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dance For Me (Eugy X Mr Eazi)",
-        "url": "https://open.spotify.com/album/0SwJftCsa4HhuNWT11cIlJ"
-      },
-      "artists": [
-        {
-          "name": "Eugy Official",
-          "url": "https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo"
-        },
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 204173,
-      "name": "Dance For Me (Eugy X Mr Eazi)",
-      "url": "https://open.spotify.com/track/6prqX1SW2MMH8hAOIzKQ3Z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Colores",
         "url": "https://open.spotify.com/album/2mX8ktJoWvyidWBU9U8Jis"
       },
@@ -191,6 +171,26 @@
       "duration_ms": 186693,
       "name": "Arco\u00edris",
       "url": "https://open.spotify.com/track/5zzbORcD0GwLY0wQHP1Xs1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dance For Me (Eugy X Mr Eazi)",
+        "url": "https://open.spotify.com/album/0SwJftCsa4HhuNWT11cIlJ"
+      },
+      "artists": [
+        {
+          "name": "Eugy Official",
+          "url": "https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 204173,
+      "name": "Dance For Me (Eugy X Mr Eazi)",
+      "url": "https://open.spotify.com/track/6prqX1SW2MMH8hAOIzKQ3Z"
     },
     {
       "added_at": null,
@@ -279,26 +279,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mariana",
-        "url": "https://open.spotify.com/album/6IDE7vBvoNuLeQaEGHYIWX"
-      },
-      "artists": [
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        },
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 148153,
-      "name": "Mariana",
-      "url": "https://open.spotify.com/track/0eN2iadqY8XAVqlx20EM6R"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Live From Nkrumah Krom Vol II: Home Run",
         "url": "https://open.spotify.com/album/2Vh06g2sKNucQUAJbUqSTh"
       },
@@ -339,6 +319,26 @@
       "duration_ms": 183484,
       "name": "Falling For U",
       "url": "https://open.spotify.com/track/1RrayK8ea3tDtD1QnNMUL9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mariana",
+        "url": "https://open.spotify.com/album/6IDE7vBvoNuLeQaEGHYIWX"
+      },
+      "artists": [
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 148153,
+      "name": "Mariana",
+      "url": "https://open.spotify.com/track/0eN2iadqY8XAVqlx20EM6R"
     },
     {
       "added_at": null,
@@ -423,30 +423,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Life is Eazi, Vol. 1 - Accra To Lagos",
-        "url": "https://open.spotify.com/album/0lkYUVhHWfdCp3vBgqitfU"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        },
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        },
-        {
-          "name": "Phyno",
-          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "Life Is Eazi",
-      "url": "https://open.spotify.com/track/6GPyqTzuYf5bMS0kTRmsbQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "One Day You Will Understand",
         "url": "https://open.spotify.com/album/6Z22tsn1nyT9CmcTZa8ZEC"
       },
@@ -471,6 +447,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Life is Eazi, Vol. 1 - Accra To Lagos",
+        "url": "https://open.spotify.com/album/0lkYUVhHWfdCp3vBgqitfU"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        },
+        {
+          "name": "Phyno",
+          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "Life Is Eazi",
+      "url": "https://open.spotify.com/track/6GPyqTzuYf5bMS0kTRmsbQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Life is Eazi, Vol. 2 - Lagos to London",
         "url": "https://open.spotify.com/album/76ONwEklilRE14yBV1e5td"
       },
@@ -483,26 +483,6 @@
       "duration_ms": 168159,
       "name": "Pour Me Water",
       "url": "https://open.spotify.com/track/1XIPyyGqBSU20i4gSagsLV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "TEN",
-        "url": "https://open.spotify.com/album/4FiD8U5S4AEIUS1fev5cKT"
-      },
-      "artists": [
-        {
-          "name": "SPINALL",
-          "url": "https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP"
-        },
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 206982,
-      "name": "Ohema (feat. Mr Eazi)",
-      "url": "https://open.spotify.com/track/2x09oCozS8uk8PHZwPInNH"
     },
     {
       "added_at": null,
@@ -523,6 +503,26 @@
       "duration_ms": 118938,
       "name": "On D Low",
       "url": "https://open.spotify.com/track/145wLDNFQBRV6GMBA4y3IL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TEN",
+        "url": "https://open.spotify.com/album/4FiD8U5S4AEIUS1fev5cKT"
+      },
+      "artists": [
+        {
+          "name": "SPINALL",
+          "url": "https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 206982,
+      "name": "Ohema (feat. Mr Eazi)",
+      "url": "https://open.spotify.com/track/2x09oCozS8uk8PHZwPInNH"
     },
     {
       "added_at": null,
@@ -563,26 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Doyin",
-        "url": "https://open.spotify.com/album/3G9nwad9keufs9f45T69Z9"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        },
-        {
-          "name": "Simi",
-          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
-        }
-      ],
-      "duration_ms": 153962,
-      "name": "Doyin",
-      "url": "https://open.spotify.com/track/71iknvVFjHMMs0nit8eh2M"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "See What We've Done",
         "url": "https://open.spotify.com/album/7t2OiJ1lU1nvmdHB1oOf0d"
       },
@@ -599,6 +579,26 @@
       "duration_ms": 208377,
       "name": "Taste",
       "url": "https://open.spotify.com/track/1mgXDDTHADa8FIGL2wcV4F"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Doyin",
+        "url": "https://open.spotify.com/album/3G9nwad9keufs9f45T69Z9"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Simi",
+          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
+        }
+      ],
+      "duration_ms": 153962,
+      "name": "Doyin",
+      "url": "https://open.spotify.com/track/71iknvVFjHMMs0nit8eh2M"
     },
     {
       "added_at": null,
@@ -647,26 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Anointing",
-        "url": "https://open.spotify.com/album/7xNyqynau8Dgmpw3xmFVrg"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        },
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        }
-      ],
-      "duration_ms": 216546,
-      "name": "Anointing",
-      "url": "https://open.spotify.com/track/7BHFEdHwNBdmCeFGvOClNy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "See What We've Done",
         "url": "https://open.spotify.com/album/7t2OiJ1lU1nvmdHB1oOf0d"
       },
@@ -711,6 +691,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Anointing",
+        "url": "https://open.spotify.com/album/7xNyqynau8Dgmpw3xmFVrg"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "duration_ms": 216546,
+      "name": "Anointing",
+      "url": "https://open.spotify.com/track/7BHFEdHwNBdmCeFGvOClNy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Legalize",
         "url": "https://open.spotify.com/album/1tEdcrmOZMzd3CACVkxvEV"
       },
@@ -723,26 +723,6 @@
       "duration_ms": 146249,
       "name": "Legalize",
       "url": "https://open.spotify.com/track/1kd8fI9o55GNWvNOfzKcz5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "F\u00e0\u00e0j\u00ed",
-        "url": "https://open.spotify.com/album/6qPmOuoHmx9U4ZBCvMUxHt"
-      },
-      "artists": [
-        {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
-        },
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 149741,
-      "name": "F\u00e0\u00e0j\u00ed",
-      "url": "https://open.spotify.com/track/1ObFmDHL5oeVzRf9uIcn09"
     },
     {
       "added_at": null,
@@ -763,6 +743,26 @@
       "duration_ms": 144611,
       "name": "Mad Ting",
       "url": "https://open.spotify.com/track/5bssIfMnxCQf5ceNoeuz6z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "F\u00e0\u00e0j\u00ed",
+        "url": "https://open.spotify.com/album/6qPmOuoHmx9U4ZBCvMUxHt"
+      },
+      "artists": [
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 149741,
+      "name": "F\u00e0\u00e0j\u00ed",
+      "url": "https://open.spotify.com/track/1ObFmDHL5oeVzRf9uIcn09"
     },
     {
       "added_at": null,

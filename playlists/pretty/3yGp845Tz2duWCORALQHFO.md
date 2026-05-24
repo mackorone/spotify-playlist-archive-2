@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3yGp845Tz2duWCORALQHFO.md) - [plain]
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-[EDM Sauce](https://open.spotify.com/user/edmsauce) - 26,026 likes - 43 songs - 2 hr 21 min
+[EDM Sauce](https://open.spotify.com/user/edmsauce) - 26,025 likes - 43 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

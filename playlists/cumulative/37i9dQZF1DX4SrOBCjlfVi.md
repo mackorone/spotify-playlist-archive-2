@@ -4,7 +4,7 @@
 
 > All the New Joints featuring Veeze, 6LACK, French Montana & Max B and more!
 
-10,129 songs - 19 day 9 hr 41 min
+10,130 songs - 19 day 9 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -8064,6 +8064,7 @@
 | [Small Talk](https://open.spotify.com/track/7qGSwh7ZhKy0iHIXsDfn0N) | [Ovrkast.](https://open.spotify.com/artist/4YISTUJnoZtAy6LjgOpRL7), [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [Small Talk](https://open.spotify.com/album/4uFrzWn4YGeEgtugDyhcmB) | 3:13 | 2025-04-18 | 2025-04-26 |
 | [Small Town Hero](https://open.spotify.com/track/1uJlJyphY1YXiFWzsTo8qe) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn) | [Small Town Hero](https://open.spotify.com/album/42No6q5fgA1s4qx8Of7E9J) | 2:57 | 2022-07-15 | 2022-07-23 |
 | [Smarter Than Ever](https://open.spotify.com/track/2e6SS6ZncNocBJhSSkXnQP) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [Smarter Than Ever](https://open.spotify.com/album/1IYz2YsZYNDefGebw0dwLp) | 1:19 | 2024-04-19 | 2024-04-27 |
+| [Smaxk Or Die \- feat\. Playboi Carti](https://open.spotify.com/track/1FjpYJ1tVHG3r0xDhZ3tTc) | [Fatt Smaxk](https://open.spotify.com/artist/0RRUXaSteOOZzo5gMCAeuX), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Smaxk Or Die \(feat\. Playboi Carti\)](https://open.spotify.com/album/0aREGajx4svsFLILvSrq5i) | 2:05 | 2026-05-23 |  |
 | [Smearious](https://open.spotify.com/track/6jaumuvzitwJKxGJEFfKjM) | [Zelooperz](https://open.spotify.com/artist/5j93hwFBNo29RJMsWvtzj8) | [Smearious](https://open.spotify.com/album/7HfAJzlbOFRiRh3YjUHajx) | 2:03 | 2024-03-01 | 2024-03-09 |
 | [Smile](https://open.spotify.com/track/7KOhw4ELSXvFGRZNQaUvXS) | [Bobby Sessions](https://open.spotify.com/artist/1URwpSLjCBhRjnw4SUwNyL) | [I’d Rather Keep It To Myself](https://open.spotify.com/album/1C2n1iBEgtjvqlOeGPCAQ9) | 3:24 | 2022-11-04 | 2022-11-12 |
 | [Smile](https://open.spotify.com/track/4Vujm3j3rDSsOD6oukgxLI) | [Calboy](https://open.spotify.com/artist/0HkcYmcjrBR3SCw9Ld5VZk) | [Smile](https://open.spotify.com/album/2bhiFZR9bJPKg9O5GfyInE) | 1:46 | 2024-02-23 | 2024-03-02 |

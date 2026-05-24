@@ -1,6 +1,6 @@
 {
   "description": "Mit dieser Playlist h\u00f6rt die Party nie auf!",
-  "num_followers": 495613,
+  "num_followers": 495690,
   "original_name": "Malle Party 2026",
   "owner": {
     "name": "Spotify",
@@ -563,22 +563,6 @@
     {
       "added_at": "2026-05-21 22:01:13",
       "album": {
-        "name": "ANNE KAFFEEKANNE",
-        "url": "https://open.spotify.com/album/2atktS9Fh4Qf5PSO0SrJ1i"
-      },
-      "artists": [
-        {
-          "name": "TIM PLVNK",
-          "url": "https://open.spotify.com/artist/1nZvBVvZi86Bjf40oxsYEk"
-        }
-      ],
-      "duration_ms": 140797,
-      "name": "ANNE KAFFEEKANNE",
-      "url": "https://open.spotify.com/track/3m8GvywmS7eCJMcv5ApyXd"
-    },
-    {
-      "added_at": "2026-05-21 22:01:13",
-      "album": {
         "name": "Herzfrequenz",
         "url": "https://open.spotify.com/album/6QZsxUU2TAV6J3LTgTk9Fz"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 227040,
       "name": "Herz an Herz",
       "url": "https://open.spotify.com/track/1X7654uBsdVKnZAqyIJT7y"
+    },
+    {
+      "added_at": "2026-05-21 22:01:13",
+      "album": {
+        "name": "ANNE KAFFEEKANNE",
+        "url": "https://open.spotify.com/album/2atktS9Fh4Qf5PSO0SrJ1i"
+      },
+      "artists": [
+        {
+          "name": "TIM PLVNK",
+          "url": "https://open.spotify.com/artist/1nZvBVvZi86Bjf40oxsYEk"
+        }
+      ],
+      "duration_ms": 140797,
+      "name": "ANNE KAFFEEKANNE",
+      "url": "https://open.spotify.com/track/3m8GvywmS7eCJMcv5ApyXd"
     },
     {
       "added_at": "2026-05-21 22:01:13",
@@ -755,6 +755,26 @@
     {
       "added_at": "2026-05-21 22:01:13",
       "album": {
+        "name": "Sie ist 18",
+        "url": "https://open.spotify.com/album/13TwPT83BSHLP4DuxeX1KP"
+      },
+      "artists": [
+        {
+          "name": "Kreisligalegende",
+          "url": "https://open.spotify.com/artist/4gH1d6uZiIbhiUUJoHsd8f"
+        },
+        {
+          "name": "Keya",
+          "url": "https://open.spotify.com/artist/2kUXIsP0qTccA0Ei2qWDmu"
+        }
+      ],
+      "duration_ms": 186521,
+      "name": "Sie ist 18",
+      "url": "https://open.spotify.com/track/0kDBe90SnRfL5EJvg5iv2C"
+    },
+    {
+      "added_at": "2026-05-21 22:01:13",
+      "album": {
         "name": "Schei\u00dfegal",
         "url": "https://open.spotify.com/album/3TCfWCtApFzCJMy0rfKrzP"
       },
@@ -771,6 +791,22 @@
       "duration_ms": 139239,
       "name": "Schei\u00dfegal",
       "url": "https://open.spotify.com/track/3LzVNx8feNyRZuMjjLT1xL"
+    },
+    {
+      "added_at": "2026-05-21 22:01:13",
+      "album": {
+        "name": "Zeig mir den Platz an der Sonne",
+        "url": "https://open.spotify.com/album/14kHOjiTWRL2gF9Li2jEGg"
+      },
+      "artists": [
+        {
+          "name": "Udo J\u00fcrgens",
+          "url": "https://open.spotify.com/artist/2G0htB8PxlO2onxnIismur"
+        }
+      ],
+      "duration_ms": 244640,
+      "name": "Griechischer Wein",
+      "url": "https://open.spotify.com/track/452WSSzuklpg0w4RKTlkvn"
     },
     {
       "added_at": "2026-05-21 22:01:13",
@@ -795,42 +831,6 @@
     {
       "added_at": "2026-05-21 22:01:13",
       "album": {
-        "name": "Zeig mir den Platz an der Sonne",
-        "url": "https://open.spotify.com/album/14kHOjiTWRL2gF9Li2jEGg"
-      },
-      "artists": [
-        {
-          "name": "Udo J\u00fcrgens",
-          "url": "https://open.spotify.com/artist/2G0htB8PxlO2onxnIismur"
-        }
-      ],
-      "duration_ms": 244640,
-      "name": "Griechischer Wein",
-      "url": "https://open.spotify.com/track/452WSSzuklpg0w4RKTlkvn"
-    },
-    {
-      "added_at": "2026-05-21 22:01:13",
-      "album": {
-        "name": "Sie ist 18",
-        "url": "https://open.spotify.com/album/13TwPT83BSHLP4DuxeX1KP"
-      },
-      "artists": [
-        {
-          "name": "Kreisligalegende",
-          "url": "https://open.spotify.com/artist/4gH1d6uZiIbhiUUJoHsd8f"
-        },
-        {
-          "name": "Keya",
-          "url": "https://open.spotify.com/artist/2kUXIsP0qTccA0Ei2qWDmu"
-        }
-      ],
-      "duration_ms": 186521,
-      "name": "Sie ist 18",
-      "url": "https://open.spotify.com/track/0kDBe90SnRfL5EJvg5iv2C"
-    },
-    {
-      "added_at": "2026-05-21 22:01:13",
-      "album": {
         "name": "Mama Laudaaa",
         "url": "https://open.spotify.com/album/4yWhxiH0UB3A6jfr0ZLe4v"
       },
@@ -847,22 +847,6 @@
       "duration_ms": 215976,
       "name": "Mama Laudaaa",
       "url": "https://open.spotify.com/track/1RcWWgnw5fVm3wcNq11zBu"
-    },
-    {
-      "added_at": "2026-05-21 22:01:13",
-      "album": {
-        "name": "3er",
-        "url": "https://open.spotify.com/album/1PXEOT5riEAAlgm8L4QTtG"
-      },
-      "artists": [
-        {
-          "name": "Frenzy",
-          "url": "https://open.spotify.com/artist/4lRkNAQP2nJV4rj3CjkdXd"
-        }
-      ],
-      "duration_ms": 144021,
-      "name": "3er",
-      "url": "https://open.spotify.com/track/27djNuigXbNE4OJ5R5NEa5"
     },
     {
       "added_at": "2026-05-21 22:01:13",
@@ -887,6 +871,38 @@
       "duration_ms": 181000,
       "name": "OHNE DICH",
       "url": "https://open.spotify.com/track/2zB3m7cucvTZQ7IwUtdnxM"
+    },
+    {
+      "added_at": "2026-05-21 22:01:13",
+      "album": {
+        "name": "3er",
+        "url": "https://open.spotify.com/album/1PXEOT5riEAAlgm8L4QTtG"
+      },
+      "artists": [
+        {
+          "name": "Frenzy",
+          "url": "https://open.spotify.com/artist/4lRkNAQP2nJV4rj3CjkdXd"
+        }
+      ],
+      "duration_ms": 144021,
+      "name": "3er",
+      "url": "https://open.spotify.com/track/27djNuigXbNE4OJ5R5NEa5"
+    },
+    {
+      "added_at": "2026-05-21 22:01:13",
+      "album": {
+        "name": "Sonne, Mond & Playa",
+        "url": "https://open.spotify.com/album/1Scsty54EnmXNOuwXlfAQM"
+      },
+      "artists": [
+        {
+          "name": "Isi Gl\u00fcck",
+          "url": "https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ"
+        }
+      ],
+      "duration_ms": 188833,
+      "name": "Sonne, Mond & Playa",
+      "url": "https://open.spotify.com/track/7oRZfHSzFuMGVe8w3O8dqP"
     },
     {
       "added_at": "2026-05-21 22:01:13",
@@ -923,22 +939,6 @@
       "duration_ms": 155215,
       "name": "Gianna",
       "url": "https://open.spotify.com/track/5IZ5hLd98SyNFXRbYIiJgW"
-    },
-    {
-      "added_at": "2026-05-21 22:01:13",
-      "album": {
-        "name": "Sonne, Mond & Playa",
-        "url": "https://open.spotify.com/album/1Scsty54EnmXNOuwXlfAQM"
-      },
-      "artists": [
-        {
-          "name": "Isi Gl\u00fcck",
-          "url": "https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ"
-        }
-      ],
-      "duration_ms": 188833,
-      "name": "Sonne, Mond & Playa",
-      "url": "https://open.spotify.com/track/7oRZfHSzFuMGVe8w3O8dqP"
     },
     {
       "added_at": "2026-05-21 22:01:13",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2026-05-21 22:01:13",
       "album": {
-        "name": "Octopus (100.000 H\u00e4nde)",
-        "url": "https://open.spotify.com/album/3xMHz5MiKDT3wLFe6OQ8ii"
-      },
-      "artists": [
-        {
-          "name": "Mountain Crew",
-          "url": "https://open.spotify.com/artist/6ZSaFzbVwdVeQIaiz4rv8Z"
-        }
-      ],
-      "duration_ms": 225787,
-      "name": "Octopus (100.000 H\u00e4nde)",
-      "url": "https://open.spotify.com/track/1FTHHYLGiFPujMx43PBcpm"
-    },
-    {
-      "added_at": "2026-05-21 22:01:13",
-      "album": {
         "name": "Die Nacht von Freitag auf Montag",
         "url": "https://open.spotify.com/album/7BxwSFUIIiDmHqZv6pdtt6"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 178578,
       "name": "Die Nacht von Freitag auf Montag",
       "url": "https://open.spotify.com/track/0NjLgGCwHAE0KhVTALxdCb"
+    },
+    {
+      "added_at": "2026-05-21 22:01:13",
+      "album": {
+        "name": "Octopus (100.000 H\u00e4nde)",
+        "url": "https://open.spotify.com/album/3xMHz5MiKDT3wLFe6OQ8ii"
+      },
+      "artists": [
+        {
+          "name": "Mountain Crew",
+          "url": "https://open.spotify.com/artist/6ZSaFzbVwdVeQIaiz4rv8Z"
+        }
+      ],
+      "duration_ms": 225787,
+      "name": "Octopus (100.000 H\u00e4nde)",
+      "url": "https://open.spotify.com/track/1FTHHYLGiFPujMx43PBcpm"
     },
     {
       "added_at": "2026-05-21 22:01:13",
@@ -1175,6 +1175,26 @@
     {
       "added_at": "2026-05-21 22:01:13",
       "album": {
+        "name": "Hast Du Saufen mal probiert? (1000 und 1 Nacht)",
+        "url": "https://open.spotify.com/album/7k4m57CRV2p6lueGYH7iSH"
+      },
+      "artists": [
+        {
+          "name": "Kings of G\u00fcnter",
+          "url": "https://open.spotify.com/artist/64Tp3pyyHag0ngw5SLchgY"
+        },
+        {
+          "name": "Reis Against The Sp\u00fclmachine",
+          "url": "https://open.spotify.com/artist/1woaAg9umuHZpxmoRPstxP"
+        }
+      ],
+      "duration_ms": 179061,
+      "name": "Hast Du Saufen mal probiert? (1000 und 1 Nacht)",
+      "url": "https://open.spotify.com/track/5fCBl1cfgQZaOdRCzKjcqT"
+    },
+    {
+      "added_at": "2026-05-21 22:01:13",
+      "album": {
         "name": "Mein kleines Herz (Bam Bam)",
         "url": "https://open.spotify.com/album/25GJAMuQqJ6n0OrRAZrcY7"
       },
@@ -1195,26 +1215,6 @@
       "duration_ms": 150090,
       "name": "Mein kleines Herz (Bam Bam)",
       "url": "https://open.spotify.com/track/77LA2Zd0H9c1C0NutqumLH"
-    },
-    {
-      "added_at": "2026-05-21 22:01:13",
-      "album": {
-        "name": "Hast Du Saufen mal probiert? (1000 und 1 Nacht)",
-        "url": "https://open.spotify.com/album/7k4m57CRV2p6lueGYH7iSH"
-      },
-      "artists": [
-        {
-          "name": "Kings of G\u00fcnter",
-          "url": "https://open.spotify.com/artist/64Tp3pyyHag0ngw5SLchgY"
-        },
-        {
-          "name": "Reis Against The Sp\u00fclmachine",
-          "url": "https://open.spotify.com/artist/1woaAg9umuHZpxmoRPstxP"
-        }
-      ],
-      "duration_ms": 179061,
-      "name": "Hast Du Saufen mal probiert? (1000 und 1 Nacht)",
-      "url": "https://open.spotify.com/track/5fCBl1cfgQZaOdRCzKjcqT"
     },
     {
       "added_at": "2026-05-21 22:01:13",
@@ -1295,6 +1295,54 @@
     {
       "added_at": "2026-05-21 22:01:13",
       "album": {
+        "name": "Eine Woche wach",
+        "url": "https://open.spotify.com/album/0SrDdwbGTIpolnxcw4h3JA"
+      },
+      "artists": [
+        {
+          "name": "Mickie Krause",
+          "url": "https://open.spotify.com/artist/0cXE2SrE0M4Vn7F2NVzG6q"
+        }
+      ],
+      "duration_ms": 235899,
+      "name": "Eine Woche wach",
+      "url": "https://open.spotify.com/track/6aRlZoOO6dqXQtqq2wiQZ1"
+    },
+    {
+      "added_at": "2026-05-21 22:01:13",
+      "album": {
+        "name": "Dieter (Der LKW Song)",
+        "url": "https://open.spotify.com/album/2Woo0eDfX5vKGrXfQzvnbN"
+      },
+      "artists": [
+        {
+          "name": "Malle Anja",
+          "url": "https://open.spotify.com/artist/7GgR71h3yQSxU4bwfX9gRd"
+        }
+      ],
+      "duration_ms": 190849,
+      "name": "Dieter (Der LKW Song)",
+      "url": "https://open.spotify.com/track/63OzX69ELvC0mFS4UiscII"
+    },
+    {
+      "added_at": "2026-05-21 22:01:13",
+      "album": {
+        "name": "Mozart (Ciao Niveau)",
+        "url": "https://open.spotify.com/album/7jODSZ4ensMN1GqU19pifB"
+      },
+      "artists": [
+        {
+          "name": "Tobee",
+          "url": "https://open.spotify.com/artist/5HvFk00KrkDIPJuzSLFd0r"
+        }
+      ],
+      "duration_ms": 172637,
+      "name": "Mozart (Ciao Niveau)",
+      "url": "https://open.spotify.com/track/2izhQz92OLdlp2KxNwwu4O"
+    },
+    {
+      "added_at": "2026-05-21 22:01:13",
+      "album": {
         "name": "Grapefruit",
         "url": "https://open.spotify.com/album/2GPa0un8izzyTkgZWgocBo"
       },
@@ -1319,50 +1367,18 @@
     {
       "added_at": "2026-05-21 22:01:13",
       "album": {
-        "name": "Eine Woche wach",
-        "url": "https://open.spotify.com/album/0SrDdwbGTIpolnxcw4h3JA"
+        "name": "K\u00e4pt'n Morgen",
+        "url": "https://open.spotify.com/album/7AxIlCtJ9HucWsmburWi9A"
       },
       "artists": [
         {
-          "name": "Mickie Krause",
-          "url": "https://open.spotify.com/artist/0cXE2SrE0M4Vn7F2NVzG6q"
+          "name": "Sch\u00fcrze",
+          "url": "https://open.spotify.com/artist/3S46qb1V62vKdGl1sR6LEQ"
         }
       ],
-      "duration_ms": 235899,
-      "name": "Eine Woche wach",
-      "url": "https://open.spotify.com/track/6aRlZoOO6dqXQtqq2wiQZ1"
-    },
-    {
-      "added_at": "2026-05-21 22:01:13",
-      "album": {
-        "name": "Mozart (Ciao Niveau)",
-        "url": "https://open.spotify.com/album/7jODSZ4ensMN1GqU19pifB"
-      },
-      "artists": [
-        {
-          "name": "Tobee",
-          "url": "https://open.spotify.com/artist/5HvFk00KrkDIPJuzSLFd0r"
-        }
-      ],
-      "duration_ms": 172637,
-      "name": "Mozart (Ciao Niveau)",
-      "url": "https://open.spotify.com/track/2izhQz92OLdlp2KxNwwu4O"
-    },
-    {
-      "added_at": "2026-05-21 22:01:13",
-      "album": {
-        "name": "Dieter (Der LKW Song)",
-        "url": "https://open.spotify.com/album/2Woo0eDfX5vKGrXfQzvnbN"
-      },
-      "artists": [
-        {
-          "name": "Malle Anja",
-          "url": "https://open.spotify.com/artist/7GgR71h3yQSxU4bwfX9gRd"
-        }
-      ],
-      "duration_ms": 190849,
-      "name": "Dieter (Der LKW Song)",
-      "url": "https://open.spotify.com/track/63OzX69ELvC0mFS4UiscII"
+      "duration_ms": 158785,
+      "name": "K\u00e4pt'n Morgen",
+      "url": "https://open.spotify.com/track/5uGacwxeGDV4RSDYqgMGmZ"
     },
     {
       "added_at": "2026-05-21 22:01:13",
@@ -1391,22 +1407,6 @@
       "duration_ms": 160251,
       "name": "Bauhaus",
       "url": "https://open.spotify.com/track/4e4WJLzCEjYuUyPNkO9LV3"
-    },
-    {
-      "added_at": "2026-05-21 22:01:13",
-      "album": {
-        "name": "K\u00e4pt'n Morgen",
-        "url": "https://open.spotify.com/album/7AxIlCtJ9HucWsmburWi9A"
-      },
-      "artists": [
-        {
-          "name": "Sch\u00fcrze",
-          "url": "https://open.spotify.com/artist/3S46qb1V62vKdGl1sR6LEQ"
-        }
-      ],
-      "duration_ms": 158785,
-      "name": "K\u00e4pt'n Morgen",
-      "url": "https://open.spotify.com/track/5uGacwxeGDV4RSDYqgMGmZ"
     },
     {
       "added_at": "2026-05-21 22:01:13",
@@ -1463,6 +1463,22 @@
     {
       "added_at": "2026-05-21 22:01:13",
       "album": {
+        "name": "10 von 10",
+        "url": "https://open.spotify.com/album/51rg3umrp0IXNtrI77zEd9"
+      },
+      "artists": [
+        {
+          "name": "Julian Benz",
+          "url": "https://open.spotify.com/artist/3GiXBISwnKsyO5B37DYiMp"
+        }
+      ],
+      "duration_ms": 134924,
+      "name": "10 von 10",
+      "url": "https://open.spotify.com/track/37xCUommA4coyrL4d8Vylf"
+    },
+    {
+      "added_at": "2026-05-21 22:01:13",
+      "album": {
         "name": "Ich liebe das Leben (Stereoact #Remix)",
         "url": "https://open.spotify.com/album/3OQ1X9mkQHBmcWr6zNNtH4"
       },
@@ -1479,22 +1495,6 @@
       "duration_ms": 203900,
       "name": "Ich liebe das Leben - Stereoact #Remix",
       "url": "https://open.spotify.com/track/6JVxY1CIPVlFyKkCIRwS2L"
-    },
-    {
-      "added_at": "2026-05-21 22:01:13",
-      "album": {
-        "name": "10 von 10",
-        "url": "https://open.spotify.com/album/51rg3umrp0IXNtrI77zEd9"
-      },
-      "artists": [
-        {
-          "name": "Julian Benz",
-          "url": "https://open.spotify.com/artist/3GiXBISwnKsyO5B37DYiMp"
-        }
-      ],
-      "duration_ms": 134924,
-      "name": "10 von 10",
-      "url": "https://open.spotify.com/track/37xCUommA4coyrL4d8Vylf"
     }
   ],
   "unique_name": "Malle Party 2026",

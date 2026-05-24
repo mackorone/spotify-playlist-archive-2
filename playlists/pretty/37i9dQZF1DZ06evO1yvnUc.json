@@ -1,12 +1,12 @@
 {
   "description": "This is PARTYNEXTDOOR. The essential tracks, all in one playlist.",
-  "num_followers": 173136,
+  "num_followers": 173193,
   "original_name": "This Is PARTYNEXTDOOR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ag5LAAAAAAC+jBWd1Olmdu1uh0fWA8wr",
+  "snapshot_id": "ag+cgAAAAABoU1BpnDQs3mwM8mkyB25U",
   "tracks": [
     {
       "added_at": null,
@@ -99,18 +99,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "PARTYNEXTDOOR TWO",
-        "url": "https://open.spotify.com/album/1xwhNJCfTwuRia7Cpo7IbJ"
+        "name": "HABIBTI",
+        "url": "https://open.spotify.com/album/0P6B5R3yRSkhkmequL5Yno"
       },
       "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
         {
           "name": "PARTYNEXTDOOR",
           "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
         }
       ],
-      "duration_ms": 98023,
-      "name": "Belong to the City",
-      "url": "https://open.spotify.com/track/5c3luoCub1Z1Gg74NdNtuq"
+      "duration_ms": 231879,
+      "name": "Fortworth (feat. PARTYNEXTDOOR)",
+      "url": "https://open.spotify.com/track/0F1rlXkOcI1Iqfz9Y3BdO4"
     },
     {
       "added_at": null,
@@ -131,22 +135,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "HABIBTI",
-        "url": "https://open.spotify.com/album/0P6B5R3yRSkhkmequL5Yno"
+        "name": "PARTYNEXTDOOR TWO",
+        "url": "https://open.spotify.com/album/1xwhNJCfTwuRia7Cpo7IbJ"
       },
       "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
         {
           "name": "PARTYNEXTDOOR",
           "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
         }
       ],
-      "duration_ms": 231879,
-      "name": "Fortworth (feat. PARTYNEXTDOOR)",
-      "url": "https://open.spotify.com/track/0F1rlXkOcI1Iqfz9Y3BdO4"
+      "duration_ms": 98023,
+      "name": "Belong to the City",
+      "url": "https://open.spotify.com/track/5c3luoCub1Z1Gg74NdNtuq"
     },
     {
       "added_at": null,
@@ -243,22 +243,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PARTYNEXTDOOR",
-        "url": "https://open.spotify.com/album/1q4B7r3dzzwkarZ1B9bk9e"
-      },
-      "artists": [
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        }
-      ],
-      "duration_ms": 212880,
-      "name": "Wus Good / Curious",
-      "url": "https://open.spotify.com/track/0NHvTrD8Igke3fawcp3njY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "$ome $exy $ongs 4 U",
         "url": "https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 218682,
       "name": "SOMETHING ABOUT YOU",
       "url": "https://open.spotify.com/track/1F6nHHDJyTHLgDDFj1ZZDt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PARTYNEXTDOOR",
+        "url": "https://open.spotify.com/album/1q4B7r3dzzwkarZ1B9bk9e"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "duration_ms": 212880,
+      "name": "Wus Good / Curious",
+      "url": "https://open.spotify.com/track/0NHvTrD8Igke3fawcp3njY"
     },
     {
       "added_at": null,
@@ -315,22 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PARTYNEXTDOOR",
-        "url": "https://open.spotify.com/album/1q4B7r3dzzwkarZ1B9bk9e"
-      },
-      "artists": [
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        }
-      ],
-      "duration_ms": 243493,
-      "name": "Right Now",
-      "url": "https://open.spotify.com/track/2tdDlP8w9wFp7m41KimBf1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "$ome $exy $ongs 4 U",
         "url": "https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 241889,
       "name": "CN TOWER",
       "url": "https://open.spotify.com/track/4u43I0LP2Xf85OAS85eG0R"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PARTYNEXTDOOR",
+        "url": "https://open.spotify.com/album/1q4B7r3dzzwkarZ1B9bk9e"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "duration_ms": 243493,
+      "name": "Right Now",
+      "url": "https://open.spotify.com/track/2tdDlP8w9wFp7m41KimBf1"
     },
     {
       "added_at": null,
@@ -383,22 +383,6 @@
       "duration_ms": 283285,
       "name": "Excitement",
       "url": "https://open.spotify.com/track/66w7lK0t98OPgvYjXp39IP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PARTYPACK",
-        "url": "https://open.spotify.com/album/1ZJpGFHYQSTDTIk6bzo5sh"
-      },
-      "artists": [
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        }
-      ],
-      "duration_ms": 174306,
-      "name": "PERSIAN RUGS",
-      "url": "https://open.spotify.com/track/2SWbnWSe1onmbllRAU46uo"
     },
     {
       "added_at": null,
@@ -443,6 +427,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "PARTYPACK",
+        "url": "https://open.spotify.com/album/1ZJpGFHYQSTDTIk6bzo5sh"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "duration_ms": 174306,
+      "name": "PERSIAN RUGS",
+      "url": "https://open.spotify.com/track/2SWbnWSe1onmbllRAU46uo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "PARTYNEXTDOOR 4 (P4)",
         "url": "https://open.spotify.com/album/1CTk9dG2nyaUovNIQfBzqb"
       },
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PARTYNEXTDOOR TWO",
-        "url": "https://open.spotify.com/album/52SPzTxOUOS996NCHoGN0r"
-      },
-      "artists": [
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        }
-      ],
-      "duration_ms": 172943,
-      "name": "East Liberty",
-      "url": "https://open.spotify.com/track/2nOTvYKyk51OSs90GvMgLW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "$ome $exy $ongs 4 U",
         "url": "https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 172337,
       "name": "DEEPER",
       "url": "https://open.spotify.com/track/4JeD0FGslDsMeeahEGZa2L"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PARTYNEXTDOOR TWO",
+        "url": "https://open.spotify.com/album/52SPzTxOUOS996NCHoGN0r"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "duration_ms": 172943,
+      "name": "East Liberty",
+      "url": "https://open.spotify.com/track/2nOTvYKyk51OSs90GvMgLW"
     },
     {
       "added_at": null,
@@ -615,22 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PARTYNEXTDOOR TWO",
-        "url": "https://open.spotify.com/album/1xwhNJCfTwuRia7Cpo7IbJ"
-      },
-      "artists": [
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        }
-      ],
-      "duration_ms": 295977,
-      "name": "FWU",
-      "url": "https://open.spotify.com/track/0kd5HwOvSdUsdVQMkEYZk6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "FIXTAPE",
         "url": "https://open.spotify.com/album/0fwiBiv1i0rJzdJGCaHVJi"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 259651,
       "name": "TWIST & TURN (feat. Drake & PARTYNEXTDOOR)",
       "url": "https://open.spotify.com/track/27g5G3TW90FSm3YxclYpAs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PARTYNEXTDOOR TWO",
+        "url": "https://open.spotify.com/album/1xwhNJCfTwuRia7Cpo7IbJ"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "duration_ms": 295977,
+      "name": "FWU",
+      "url": "https://open.spotify.com/track/0kd5HwOvSdUsdVQMkEYZk6"
     },
     {
       "added_at": null,

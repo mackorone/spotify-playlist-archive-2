@@ -614,7 +614,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 128031,
       "name": "Aaja Raja (From \"KH x RK Reunion\")",
       "url": "https://open.spotify.com/track/5yKz9IRNzuWJiwXERpfVY3"
@@ -2006,7 +2006,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 174540,
       "name": "Adada (From \"Carmeni Selvam\")Tamil",
       "url": "https://open.spotify.com/track/1tKECk0SaC2cOtN4L688YG"
@@ -5540,6 +5540,32 @@
       "duration_ms": 299076,
       "name": "Athana Per Mathiyila (From \"Raavana Kottam\")",
       "url": "https://open.spotify.com/track/0f1FicKijCSSWYfeECL8py"
+    },
+    {
+      "album": {
+        "name": "Athu Thalore (From \"Karuppu\")",
+        "url": "https://open.spotify.com/album/3pHFiD6Hf4954D29lZZO6Q"
+      },
+      "artists": [
+        {
+          "name": "Sai Abhyankkar",
+          "url": "https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc"
+        },
+        {
+          "name": "Ananya Chakraborty",
+          "url": "https://open.spotify.com/artist/0TQ3sn8FLxqAQ7F84aPwkC"
+        },
+        {
+          "name": "Adesh Krishna",
+          "url": "https://open.spotify.com/artist/30LwulQlfH8xE5Bf9P7QaK"
+        }
+      ],
+      "date_added": "2026-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231167,
+      "name": "Athu Thalore - From \"Karuppu\"",
+      "url": "https://open.spotify.com/track/6pqcov9eAspPAUXBqpQ516"
     },
     {
       "album": {
@@ -14642,7 +14668,7 @@
       ],
       "date_added": "2026-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 219381,
       "name": "Gin - Uh Jimikki (From \"Nee Forever\")",
       "url": "https://open.spotify.com/track/5Y4TdLglCOZQ5lsGbpE62T"
@@ -19178,6 +19204,28 @@
       "duration_ms": 210000,
       "name": "Kaaka Kadha - From \"Think Indie\"",
       "url": "https://open.spotify.com/track/4ZU57HzgK8hWfeXcqBhWDd"
+    },
+    {
+      "album": {
+        "name": "Ego Raman (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/60uOyXVWyXEBek4FBnbyNC"
+      },
+      "artists": [
+        {
+          "name": "Anthony Daasan",
+          "url": "https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv"
+        },
+        {
+          "name": "Reymen Rodericks",
+          "url": "https://open.spotify.com/artist/6I2tszJFdoMVbkzXDeLaiP"
+        }
+      ],
+      "date_added": "2026-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Kaaka kathai",
+      "url": "https://open.spotify.com/track/1JoC8zGfH1Ks0ckqfJ7exs"
     },
     {
       "album": {
@@ -39270,7 +39318,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 261818,
       "name": "Peraasayo - From \"Ek Din - Tamil\"",
       "url": "https://open.spotify.com/track/3fc3ZiN2gxpCUB5IFPWDzf"
@@ -53962,6 +54010,24 @@
       "duration_ms": 171250,
       "name": "Uraiyum Theeyil",
       "url": "https://open.spotify.com/track/0ByGRiFZIqo2EDQhpa7k5D"
+    },
+    {
+      "album": {
+        "name": "Ego Raman (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/60uOyXVWyXEBek4FBnbyNC"
+      },
+      "artists": [
+        {
+          "name": "Reymen Rodericks",
+          "url": "https://open.spotify.com/artist/6I2tszJFdoMVbkzXDeLaiP"
+        }
+      ],
+      "date_added": "2026-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222500,
+      "name": "Uravey",
+      "url": "https://open.spotify.com/track/2Pz98Z6f8QvvlkQK8HfjV2"
     },
     {
       "album": {

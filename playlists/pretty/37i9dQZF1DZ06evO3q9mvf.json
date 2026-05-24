@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ag5LAAAAAABcLKMzBijpbUdqHwsTLLVm",
+  "snapshot_id": "ag+cgAAAAAA2nYlsR0u+Ul/vqK2VrLLk",
   "tracks": [
     {
       "added_at": null,
@@ -299,8 +299,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "In The Beginning",
-        "url": "https://open.spotify.com/album/5Gpqi5XCvsgqUbXtdGvslS"
+        "name": "From The Basement",
+        "url": "https://open.spotify.com/album/0l0EeFMVOi3oIpVEx4wtVs"
       },
       "artists": [
         {
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
         }
       ],
-      "duration_ms": 221306,
-      "name": "Fade Away",
-      "url": "https://open.spotify.com/track/1DAvbL32g5jhjjLfaO9di4"
+      "duration_ms": 98000,
+      "name": "From The Basement",
+      "url": "https://open.spotify.com/track/1K7LmNJehOhmuvV2AiRXr2"
     },
     {
       "added_at": null,
@@ -347,6 +347,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "In The Beginning",
+        "url": "https://open.spotify.com/album/5Gpqi5XCvsgqUbXtdGvslS"
+      },
+      "artists": [
+        {
+          "name": "The Slits",
+          "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
+        }
+      ],
+      "duration_ms": 221306,
+      "name": "Fade Away",
+      "url": "https://open.spotify.com/track/1DAvbL32g5jhjjLfaO9di4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Live at the Gibus Club",
         "url": "https://open.spotify.com/album/04pZjd4uyJqPWNQ6gJLuQ9"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 113960,
       "name": "Split (Live at The Gibus Club, 1978)",
       "url": "https://open.spotify.com/track/6PdY3m4TaBMZUTNmsffJUD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "From The Basement",
-        "url": "https://open.spotify.com/album/0l0EeFMVOi3oIpVEx4wtVs"
-      },
-      "artists": [
-        {
-          "name": "The Slits",
-          "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
-        }
-      ],
-      "duration_ms": 98000,
-      "name": "From The Basement",
-      "url": "https://open.spotify.com/track/1K7LmNJehOhmuvV2AiRXr2"
     },
     {
       "added_at": null,
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
         }
       ],
-      "duration_ms": 365293,
-      "name": "In The Beginning",
-      "url": "https://open.spotify.com/track/6psWuKnXsVNryfsHLAGvIV"
+      "duration_ms": 180786,
+      "name": "A Boring Life",
+      "url": "https://open.spotify.com/track/20ISwjERE9iu3WodlBuifQ"
     },
     {
       "added_at": null,
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
         }
       ],
-      "duration_ms": 180786,
-      "name": "A Boring Life",
-      "url": "https://open.spotify.com/track/20ISwjERE9iu3WodlBuifQ"
+      "duration_ms": 365293,
+      "name": "In The Beginning",
+      "url": "https://open.spotify.com/track/6psWuKnXsVNryfsHLAGvIV"
     }
   ],
   "unique_name": "This Is The Slits",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 
 > pralém de outfit\. AURA\. Foto: Brandão85
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,932 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,931 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 | 20 | [Lado Negro](https://open.spotify.com/track/4KJBzgc3sUdLv4QyLajJQT) | [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX), [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4), [Toledo](https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30), [Honaiser](https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT) | [M.A.D 2](https://open.spotify.com/album/03Rrj1UdadnEftE3QAZmUH) | 2:53 |
 | 21 | [Acha que Eu Não Sei](https://open.spotify.com/track/1Wihr8eydHL4fTJVdnfVyX) | [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [O Sol Também Chora](https://open.spotify.com/album/4ATXKKOJ6ZsniMdEsH61We) | 2:37 |
 | 22 | [MOTIVO](https://open.spotify.com/track/1qKALAI1oDHKjSEz95KO4w) | [M'DEP](https://open.spotify.com/artist/15kozB9dePAB5UgN0umJcS), [Tevito](https://open.spotify.com/artist/6CWmfPTRsOY4dVgOjaMimf), [TheJovemJota](https://open.spotify.com/artist/4IdpYE1f4LlAOuVVJqCcvV) | [MOTIVO](https://open.spotify.com/album/5FV4dy58QXaDjngYtT6VaB) | 2:46 |
-| 23 | [PSICK@SWAG](https://open.spotify.com/track/2WVc6nzaTCTEkPFRPs3Aer) | [Neckklace](https://open.spotify.com/artist/3914e1ewXuF036M63rgK0d), [Phl Notunrboy](https://open.spotify.com/artist/6OR5QDOXtB0dAKK3VEmXHr), [DESSIIIK](https://open.spotify.com/artist/3ZLfLpRggl7ncrWSQy9WTV) | [SWAGBOY 2](https://open.spotify.com/album/2SBWcFFuIYFOgC6tNe0d3F) | 3:46 |
-| 24 | [OURO BRANCO](https://open.spotify.com/track/6PFsoFrUgww46DSM963is1) | [Klisman](https://open.spotify.com/artist/1lpgPh5SV2b2aKmss0AhlY), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [CHTC?](https://open.spotify.com/album/1vEV2f6XN0j4hhDHIXf5I4) | 2:40 |
+| 23 | [OURO BRANCO](https://open.spotify.com/track/6PFsoFrUgww46DSM963is1) | [Klisman](https://open.spotify.com/artist/1lpgPh5SV2b2aKmss0AhlY), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [CHTC?](https://open.spotify.com/album/1vEV2f6XN0j4hhDHIXf5I4) | 2:40 |
+| 24 | [PSICK@SWAG](https://open.spotify.com/track/2WVc6nzaTCTEkPFRPs3Aer) | [Neckklace](https://open.spotify.com/artist/3914e1ewXuF036M63rgK0d), [Phl Notunrboy](https://open.spotify.com/artist/6OR5QDOXtB0dAKK3VEmXHr), [DESSIIIK](https://open.spotify.com/artist/3ZLfLpRggl7ncrWSQy9WTV) | [SWAGBOY 2](https://open.spotify.com/album/2SBWcFFuIYFOgC6tNe0d3F) | 3:46 |
 | 25 | [CAM](https://open.spotify.com/track/0I4dN83QkYPG7aveyl74MV) | [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX) | [CAM](https://open.spotify.com/album/40ZK5ujZ8QnzhRqISu1F38) | 2:47 |
 | 26 | [MONCLER](https://open.spotify.com/track/4QM34h26nHRBQO9VifXflJ) | [Nebrugg](https://open.spotify.com/artist/2UD8upUvL1eqllSlMpDIeC) | [ISSO É DRILL](https://open.spotify.com/album/7796v5MTB3eTFUyrYG794c) | 1:54 |
 | 27 | [Próximo Passo](https://open.spotify.com/track/58r4xh2mRnLOGpCd8SJFvO) | [Emitê Único](https://open.spotify.com/artist/4z8ieq95PTFrqoxYhozY75), [Senndy](https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3), [Salve Crazy](https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q), [Ryu, The Runner](https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K) | [Unique](https://open.spotify.com/album/2GDpipX0hCd3BWwIaXG7YL) | 2:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 | 49 | [ESTRATÉGIA](https://open.spotify.com/track/6t6aNasqHYxgPjBj9XkMKD) | [FRESH](https://open.spotify.com/artist/2BGHRFhBAgK5Dyp2g7PCGh), [UM ENT](https://open.spotify.com/artist/1ozY6QxjXGAwoU88CfyAWT) | [Da Ponte Pra Lá O Futuro Das Ruas](https://open.spotify.com/album/4WJUEes5B3xjTKUmr28BxP) | 2:59 |
 | 50 | [Spliff](https://open.spotify.com/track/3FlS1FD5u18ovrbxcAVkfs) | [Oklin](https://open.spotify.com/artist/4Mi4PoP5thS6fGcdirgh0A), [Prod\. 2t'](https://open.spotify.com/artist/2odDxuVA7vqMK2Mrrf7uRN), [Vertigo](https://open.spotify.com/artist/7CSCYgC7CofoVB57eCeI5j) | [Spliff](https://open.spotify.com/album/0sssgcz8dkkpIF54LCUf0C) | 2:17 |
 
-Snapshot ID: `AAAAAHe5gB30S6NmrwP1cOuoHKyNTRz6`
+Snapshot ID: `AAAAAPTRK9LhRhWiK8XATxV+BkfvHM1U`

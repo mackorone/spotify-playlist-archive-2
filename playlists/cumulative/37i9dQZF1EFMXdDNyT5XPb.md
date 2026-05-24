@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5SUu7au16Jd2bvqWVN09HM">Jon "MAGS" Maguire</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-131 songs - 6 hr 43 min
+132 songs - 6 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,8 @@
 | [Fixing Me Breaking You](https://open.spotify.com/track/13ynOu7fZjOGBXBXPVmNjH) | [River Atley](https://open.spotify.com/artist/7jdKX74FchWPfiPJNEwF8A) | [Fixing Me Breaking You](https://open.spotify.com/album/3zzbP5UjjZizBRDc0zXnVm) | 3:32 | 2024-05-01 |  |
 | [Flaws](https://open.spotify.com/track/5Ohsg2xaxenqn0OfIIWeiS) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Bridges](https://open.spotify.com/album/4Qw1soNFVQu96dlP7yDBSO) | 3:28 | 2024-05-01 |  |
 | [Freaks](https://open.spotify.com/track/06moNojepTMSDnlzyD2k52) | [Jordan Clarke](https://open.spotify.com/artist/14Y3trk7LaslSFTk1G35rx) | [Freaks](https://open.spotify.com/album/1hrDsoJsqfvx2pYjL9CYpy) | 2:54 | 2024-05-01 | 2024-11-27 |
-| [Freaks](https://open.spotify.com/track/0GVA7K6nGHPQWVJZTkh1ux) | [Jordan Clarke](https://open.spotify.com/artist/14Y3trk7LaslSFTk1G35rx) | [Freaks](https://open.spotify.com/album/2SoARMxMmtscj9sfpCIGKF) | 2:54 | 2024-11-26 |  |
+| [Freaks](https://open.spotify.com/track/0GVA7K6nGHPQWVJZTkh1ux) | [Jordan Clarke](https://open.spotify.com/artist/14Y3trk7LaslSFTk1G35rx) | [Freaks](https://open.spotify.com/album/2SoARMxMmtscj9sfpCIGKF) | 2:54 | 2024-11-26 | 2026-05-24 |
+| [Freaks](https://open.spotify.com/track/71Y5lhHC9VQgz1odPuFjur) | [Jordan Clarke](https://open.spotify.com/artist/14Y3trk7LaslSFTk1G35rx) | [Freaks](https://open.spotify.com/album/25FrEbBv3NYGyCv46kt0LU) | 2:54 | 2026-05-23 |  |
 | [Given up, Giving Up](https://open.spotify.com/track/0boftIU5ryywsX1teSAcsl) | [Lilygreen & Maguire](https://open.spotify.com/artist/4TpXSJQCJhJynucuQQcgwB) | [Have a Good Time All the Time](https://open.spotify.com/album/3XxiTHnlXW5uWW4I6P3D90) | 3:51 | 2024-05-01 | 2025-06-29 |
 | [Given Up, Giving Up](https://open.spotify.com/track/6zdyGZuSVvyKFfAZNvHofS) | [Lilygreen & Maguire](https://open.spotify.com/artist/4TpXSJQCJhJynucuQQcgwB) | [Given Up, Giving Up](https://open.spotify.com/album/5LRp2IQEmVCF8DyEZchYLJ) | 3:52 | 2025-06-28 |  |
 | [God Knows](https://open.spotify.com/track/0yOwc5hOnEQSgDTApRPgzC) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [God Knows](https://open.spotify.com/album/3G3sTPzTb0R6OQTt3nJI7i) | 2:50 | 2025-04-07 | 2025-10-13 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6NlIeT95t9.md) - [plain]
 
 > Meet the future of Pakistani music ♥️ Cover: Murtaza Qizilbash
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,315 likes - 81 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,321 likes - 81 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

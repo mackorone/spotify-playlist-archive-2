@@ -1,6 +1,6 @@
 {
   "description": "Sommer kann kommen \ud83d\ude42\u200d\u2194\ufe0f",
-  "num_followers": 1572893,
+  "num_followers": 1572988,
   "original_name": "Sommerhits 2026",
   "owner": {
     "name": "Spotify",
@@ -1279,6 +1279,26 @@
     {
       "added_at": "2026-05-14 22:01:30",
       "album": {
+        "name": "Born Again",
+        "url": "https://open.spotify.com/album/3sCDeEFzmAnapVbmkLGKmt"
+      },
+      "artists": [
+        {
+          "name": "FAST BOY",
+          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
+        },
+        {
+          "name": "ClockClock",
+          "url": "https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk"
+        }
+      ],
+      "duration_ms": 217004,
+      "name": "Born Again",
+      "url": "https://open.spotify.com/track/04S8gIcwrcm97fNZKtSGXX"
+    },
+    {
+      "added_at": "2026-05-14 22:01:30",
+      "album": {
         "name": "Rude Boi",
         "url": "https://open.spotify.com/album/4QhOiWhPeXjjhS3kSOwMrB"
       },
@@ -1299,26 +1319,6 @@
       "duration_ms": 215409,
       "name": "Rude Boi",
       "url": "https://open.spotify.com/track/6RhszueRE6SiDnXkv3i88r"
-    },
-    {
-      "added_at": "2026-05-14 22:01:30",
-      "album": {
-        "name": "Born Again",
-        "url": "https://open.spotify.com/album/3sCDeEFzmAnapVbmkLGKmt"
-      },
-      "artists": [
-        {
-          "name": "FAST BOY",
-          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
-        },
-        {
-          "name": "ClockClock",
-          "url": "https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk"
-        }
-      ],
-      "duration_ms": 217004,
-      "name": "Born Again",
-      "url": "https://open.spotify.com/track/04S8gIcwrcm97fNZKtSGXX"
     },
     {
       "added_at": "2026-05-14 22:01:30",
@@ -1407,22 +1407,26 @@
     {
       "added_at": "2026-05-14 22:01:30",
       "album": {
-        "name": "Away",
-        "url": "https://open.spotify.com/album/32uPiN6yCNSZI6AJ5BmylD"
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/75Drjfbnb1hpElXpXy0MEZ"
       },
       "artists": [
         {
-          "name": "Topic",
-          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+          "name": "Alle Farben",
+          "url": "https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo"
         },
         {
-          "name": "Sofiya Nzau",
-          "url": "https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3"
+          "name": "Graham Candy",
+          "url": "https://open.spotify.com/artist/71KlQX0q5wz5f9iytwPfou"
+        },
+        {
+          "name": "Lahos",
+          "url": "https://open.spotify.com/artist/4Pamica4HJLZPQTKTCkG2w"
         }
       ],
-      "duration_ms": 238000,
-      "name": "Away",
-      "url": "https://open.spotify.com/track/7BM311QgIRlXRTZsPCIsQP"
+      "duration_ms": 153103,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/0UFJ0jzejbR2miKi7o7CQ2"
     }
   ],
   "unique_name": "Sommerhits 2026",

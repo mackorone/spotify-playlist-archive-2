@@ -1,6 +1,6 @@
 {
   "description": "Potras, rancherxs y la \ud83e\uddc0 Julieta Venegas en portada ",
-  "num_followers": 36014,
+  "num_followers": 36043,
   "original_name": "Sombreruda y nimoderrimo \ud83c\udff3\ufe0f\u200d\ud83c\udf08",
   "owner": {
     "name": "Spotify",
@@ -935,6 +935,22 @@
     {
       "added_at": "2026-05-18 21:58:22",
       "album": {
+        "name": "Por Puro Amor",
+        "url": "https://open.spotify.com/album/4EHVcKOs6x6DyYqocO6rTe"
+      },
+      "artists": [
+        {
+          "name": "Grupo Limite",
+          "url": "https://open.spotify.com/artist/2qWNYueLfc979iEdLOIK2C"
+        }
+      ],
+      "duration_ms": 179533,
+      "name": "Yo Sin Tu Amor",
+      "url": "https://open.spotify.com/track/3zuiOe6mJQ2fNe67FyqcrT"
+    },
+    {
+      "added_at": "2026-05-18 21:58:22",
+      "album": {
         "name": "MU\u00d1EQUITA",
         "url": "https://open.spotify.com/album/6oTN8LafyB7RkdzRKiLvgm"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 166132,
       "name": "MU\u00d1EQUITA",
       "url": "https://open.spotify.com/track/6kn9GQY9JSZ9wZriNdlCg9"
-    },
-    {
-      "added_at": "2026-05-18 21:58:22",
-      "album": {
-        "name": "Por Puro Amor",
-        "url": "https://open.spotify.com/album/4EHVcKOs6x6DyYqocO6rTe"
-      },
-      "artists": [
-        {
-          "name": "Grupo Limite",
-          "url": "https://open.spotify.com/artist/2qWNYueLfc979iEdLOIK2C"
-        }
-      ],
-      "duration_ms": 179533,
-      "name": "Yo Sin Tu Amor",
-      "url": "https://open.spotify.com/track/3zuiOe6mJQ2fNe67FyqcrT"
     },
     {
       "added_at": "2026-05-18 21:58:22",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2026-05-18 21:58:22",
       "album": {
+        "name": "Fiesta Mexicana Con La Banda",
+        "url": "https://open.spotify.com/album/6X49e9OtUqhMVIpre31k8K"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "duration_ms": 160626,
+      "name": "La ni\u00f1a fresa",
+      "url": "https://open.spotify.com/track/2nbq7IAJfYK9fuw5g2ePv3"
+    },
+    {
+      "added_at": "2026-05-18 21:58:22",
+      "album": {
         "name": "La Mala Era Yo",
         "url": "https://open.spotify.com/album/6ozCFSLuAcviqzd7fFn9AV"
       },
@@ -1359,22 +1375,6 @@
       "duration_ms": 150000,
       "name": "La Mala Era Yo",
       "url": "https://open.spotify.com/track/2nCP0l4ZNJxVm7ZaKBC3mB"
-    },
-    {
-      "added_at": "2026-05-18 21:58:22",
-      "album": {
-        "name": "Fiesta Mexicana Con La Banda",
-        "url": "https://open.spotify.com/album/6X49e9OtUqhMVIpre31k8K"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 160626,
-      "name": "La ni\u00f1a fresa",
-      "url": "https://open.spotify.com/track/2nbq7IAJfYK9fuw5g2ePv3"
     },
     {
       "added_at": "2026-05-18 21:58:22",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX73CRmw4CiSI.md) - [plain]
 
 > Rock y rumba para esos días de sol, sangría y amigxs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,506 likes - 90 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,528 likes - 90 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,9 +22,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX73CRmw4CiSI.md) - [plain]
 | 12 | [El aire de la calle](https://open.spotify.com/track/2PaETSKl3w3IdtLIbDnQXJ) | [Los Delinqüentes](https://open.spotify.com/artist/38LYyZ9hZEEQeEfeYoydqd) | [El Sentimiento Garrapatero Que Nos Traen Las Flores](https://open.spotify.com/album/2GmC3j6Wzb2PETn8vhyeJt) | 3:06 |
 | 13 | [Caminando por la vida](https://open.spotify.com/track/3v1dCP3hk2djfWryqfp7sx) | [Melendi](https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4) | [Que El Cielo Espere Sentao..](https://open.spotify.com/album/1nRo70xzejpUW36UNp0ZF8) | 3:31 |
 | 14 | [Tu Calorro](https://open.spotify.com/track/0DXI6c9tNWsI4tvUftkQN8) | [Estopa](https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai) | [Estopa](https://open.spotify.com/album/5EiebUqlX025HxiCvVTsNs) | 3:10 |
-| 15 | [Te Quiero Comer La Boca](https://open.spotify.com/track/6Y5k0NupErwLzOQXDxfVFa) | [La Mosca](https://open.spotify.com/artist/60nua3AsVSfADZtg5Hdz3W) | [Buenos Muchachos](https://open.spotify.com/album/5a1eBYCKsIcd5yIHtKBUzM) | 3:24 |
+| 15 | [Princesas](https://open.spotify.com/track/3hlWUNjAlbZ6nOjAbrivBv) | [Pereza](https://open.spotify.com/artist/6mfK6Q2tzLMEchAr0e9Uzu) | [Animales](https://open.spotify.com/album/6TFvbSAqnlvjOSkuryxUKe) | 3:36 |
 | 16 | [Soldadito marinero](https://open.spotify.com/track/0eVborSuxUeSg0meWYd9dZ) | [Fito y Fitipaldis](https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo) | [Lo mas lejos a tu lado](https://open.spotify.com/album/5ARI6MI0J9CnAqT9vfhd4n) | 4:14 |
-| 17 | [Princesas](https://open.spotify.com/track/3hlWUNjAlbZ6nOjAbrivBv) | [Pereza](https://open.spotify.com/artist/6mfK6Q2tzLMEchAr0e9Uzu) | [Animales](https://open.spotify.com/album/6TFvbSAqnlvjOSkuryxUKe) | 3:36 |
+| 17 | [Te Quiero Comer La Boca](https://open.spotify.com/track/6Y5k0NupErwLzOQXDxfVFa) | [La Mosca](https://open.spotify.com/artist/60nua3AsVSfADZtg5Hdz3W) | [Buenos Muchachos](https://open.spotify.com/album/5a1eBYCKsIcd5yIHtKBUzM) | 3:24 |
 | 18 | [Búscate un hombre que te quiera](https://open.spotify.com/track/4ppxWzgjvst4Mv1Kpwooeh) | [El Arrebato](https://open.spotify.com/artist/2dJyJptNE5bMmbN6z08iNJ) | [Que Salga El Sol Por Donde Quiera](https://open.spotify.com/album/2fU7l8soMPUrdJHPrso2ya) | 3:48 |
 | 19 | [Por la Raja de Tu Falda](https://open.spotify.com/track/5OaqffbeQyVVqtnA71Ci7K) | [Estopa](https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai) | [Estopa](https://open.spotify.com/album/5EiebUqlX025HxiCvVTsNs) | 3:22 |
 | 20 | [Pan y mantequilla](https://open.spotify.com/track/2kZJ5wrpq1gCdHmVEjahoH) | [Efecto Pasillo](https://open.spotify.com/artist/6CSa1r92LtHHdLG6kRabU3) | [El misterioso caso de Efecto Pasillo](https://open.spotify.com/album/0eXjOfykk3LkiqPtFnFMji) | 3:22 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX73CRmw4CiSI.md) - [plain]
 | 62 | [Fuera de Mi \- Ya No Quiero Tu Querer \- Version Remix](https://open.spotify.com/track/4GW6K2liIcrKLkKgEMg368) | [José El Francés](https://open.spotify.com/artist/1p2r4UTpZX8aIWktEuvpax) | [Alma](https://open.spotify.com/album/21s9od2SPFfgFjVxeySFoO) | 4:42 |
 | 63 | [Vivir \(with Estopa\)](https://open.spotify.com/track/7BHiGNHqbH89W8ftWrI3tc) | [Rozalén](https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz), [Estopa](https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai) | [Cerrando Puntos Suspensivos](https://open.spotify.com/album/64l9Hf8OOB5S5E3cftmFxr) | 2:49 |
 | 64 | [Agustito](https://open.spotify.com/track/0CcK0UAwjHSPOGWjupepRF) | [Ketama](https://open.spotify.com/artist/5s9GgX51pD0YhcsQRSYlpF) | [Toma Ketama](https://open.spotify.com/album/4C5MI6q1hEJhweXULCnVpH) | 4:13 |
-| 65 | [Isla de Palma](https://open.spotify.com/track/1kh34PhgrmoKlfxzKjOTl7) | [Antonio Flores](https://open.spotify.com/artist/6GwZIG7UlxQR6n9kO8QlV6) | [Cosas Mias](https://open.spotify.com/album/2rqrgczcddiTbZ9Hsf6inT) | 3:37 |
-| 66 | [Echo De Menos](https://open.spotify.com/track/5F9NOb35E8wWEFY79Dv4vE) | [Kiko Veneno](https://open.spotify.com/artist/5TDssiSO1YPd3BINGZx3XP) | [Puro Veneno](https://open.spotify.com/album/65S9zOtZi43kFdHB8y91vY) | 4:00 |
+| 65 | [Echo De Menos](https://open.spotify.com/track/5F9NOb35E8wWEFY79Dv4vE) | [Kiko Veneno](https://open.spotify.com/artist/5TDssiSO1YPd3BINGZx3XP) | [Puro Veneno](https://open.spotify.com/album/65S9zOtZi43kFdHB8y91vY) | 4:00 |
+| 66 | [Isla de Palma](https://open.spotify.com/track/1kh34PhgrmoKlfxzKjOTl7) | [Antonio Flores](https://open.spotify.com/artist/6GwZIG7UlxQR6n9kO8QlV6) | [Cosas Mias](https://open.spotify.com/album/2rqrgczcddiTbZ9Hsf6inT) | 3:37 |
 | 67 | [Que yo no lo sabía \(feat\. Antonio Vega\)](https://open.spotify.com/track/0XlybA6F3v5XcHl6rqmNRw) | [Elefantes](https://open.spotify.com/artist/5ykyeZYA8wEGQ0WhhH8AKn), [Antonio Vega](https://open.spotify.com/artist/0r4YtlmJPQk1xhiVKHuPeF) | [Gracias](https://open.spotify.com/album/0rU0glgG267Tm44RkfJawd) | 3:51 |
 | 68 | [Ay Que Gustito Pa' Mis Orejas](https://open.spotify.com/track/6olopCEGYHL8U7jMRWBnJJ) | [Raimundo Amador](https://open.spotify.com/artist/3skUHmTNpFUxTZaVxgvhF7) | [Mundo Amador](https://open.spotify.com/album/3datOykBe0V1Yaqk3hnhPy) | 3:31 |
 | 69 | [Mucho mejor \(feat\. Coque Malla\)](https://open.spotify.com/track/5lBospeeFzg0ZeFhQP0oJs) | [Los Rodriguez](https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K), [Coque Malla](https://open.spotify.com/artist/2VR9eUwDCe6jccal0ZQ5FV) | [Para no olvidar](https://open.spotify.com/album/1od6yWsJUCkYblUYwc5RIS) | 3:54 |

@@ -1281,6 +1281,24 @@
     },
     {
       "album": {
+        "name": "Eterno",
+        "url": "https://open.spotify.com/album/2ue3bbdkXbjMM892PpXIqf"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "date_added": "2026-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253134,
+      "name": "Oh Tu Fidelidad",
+      "url": "https://open.spotify.com/track/6RxYwQflwfYpe7ramNDe6g"
+    },
+    {
+      "album": {
         "name": "Homenaje a Jes\u00fas",
         "url": "https://open.spotify.com/album/0tZHLKTmqIiWnNjOEszm7J"
       },
@@ -1446,7 +1464,7 @@
       ],
       "date_added": "2024-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 229122,
       "name": "Primero Nos Am\u00f3",
       "url": "https://open.spotify.com/track/2J5SBXo9kmS37AQCBj4wiU"

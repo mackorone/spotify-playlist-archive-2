@@ -4,7 +4,7 @@
 
 > La playlist idéale pour se détendre en musique.
 
-516 songs - 1 day 7 hr 15 min
+518 songs - 1 day 7 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -222,7 +222,7 @@
 | [I Won't Let You Down](https://open.spotify.com/track/32L9L0Hg4skEWlog49n1a3) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3) | [I Won't Let You Down](https://open.spotify.com/album/0MTBD4WKIES8BkS8rfSKnp) | 4:04 | 2024-04-15 |  |
 | [I'll Change for You](https://open.spotify.com/track/1VVlFu2NkLFMRBznBITlho) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [I'll Change for You](https://open.spotify.com/album/3f7akGGEFL9LjSJCG7ueaL) | 3:16 | 2026-02-06 | 2026-05-01 |
 | [I'll Never Love Again \- Film Version \- Radio Edit](https://open.spotify.com/track/3DKpA54hrFIdPN6AtL9HXa) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bradley Cooper](https://open.spotify.com/artist/4VIvfOurcf0vuLRxLkGnIG) | [A Star Is Born Soundtrack \(Without Dialogue\)](https://open.spotify.com/album/3edjzMAVB9RYRd4UcZBchx) | 4:41 | 2022-11-25 | 2023-01-28 |
-| [If Only](https://open.spotify.com/track/6Lo1FtdhJ4htWxJrDBED7c) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [If Only](https://open.spotify.com/album/56c8txn6KCWuukEMSvoegl) | 3:28 | 2026-02-06 |  |
+| [If Only](https://open.spotify.com/track/6Lo1FtdhJ4htWxJrDBED7c) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [If Only](https://open.spotify.com/album/56c8txn6KCWuukEMSvoegl) | 3:28 | 2026-02-06 | 2026-05-24 |
 | [If You Get Lonely](https://open.spotify.com/track/00EAC89klz4poRs9g4l2HD) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [If You Get Lonely](https://open.spotify.com/album/2TlHeCUJmhJZ9PvX3WR0MC) | 4:30 | 2025-04-17 | 2025-06-08 |
 | [If You Were A Person \(Ruby's Song\)](https://open.spotify.com/track/6Vs0W8dCMo2hrYeez3iE6w) | [Holly Hebe](https://open.spotify.com/artist/3K511ClkYJM2a9tcaf2R3t) | [Ruby](https://open.spotify.com/album/034C9JToBoiKfx0ftERpiy) | 2:46 | 2024-10-04 | 2024-10-26 |
 | [Il neige](https://open.spotify.com/track/0zGQ0FAGQC6O8GFJzJwvof) | [Voyou](https://open.spotify.com/artist/0EJdA6JT738oZGopzk8Usg) | [Les bruits de la ville](https://open.spotify.com/album/5ycDoKjwKilmVDuCb3ezEI) | 4:24 | 2024-04-15 |  |
@@ -264,7 +264,7 @@
 | [Leap Year](https://open.spotify.com/track/5G6sgBzBCmZKeCg0R2x67t) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Leap Year](https://open.spotify.com/album/2qiB8YSEJw27QY68Pyx1uO) | 5:45 | 2025-04-17 | 2025-04-26 |
 | [Les jolies choses](https://open.spotify.com/track/03WMhty0KQ2ppU30LiyKy4) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Les jolies choses](https://open.spotify.com/album/57xYVd9eZHdrETN1HlLkPI) | 3:42 | 2022-11-25 |  |
 | [Les montagnes de Corée](https://open.spotify.com/track/5bYqFb02PzWCOVpjvpCSm5) | [Ours](https://open.spotify.com/artist/4ejFPEH0usmNOKnk6l2l3H) | [Les montagnes de Corée](https://open.spotify.com/album/4gGUSlybPIo465qR464coa) | 3:17 | 2024-04-15 | 2025-06-22 |
-| [Les yeux ouverts](https://open.spotify.com/track/6BJltRcIxqomZ5X77zfwCe) | [Enzo Enzo](https://open.spotify.com/artist/4nWMNl9Y8X0eRGNoYlsAwD) | [Enzo Enzo](https://open.spotify.com/album/288K0Z8iUFaAWOXtec5Nx3) | 3:28 | 2024-04-15 |  |
+| [Les yeux ouverts](https://open.spotify.com/track/6BJltRcIxqomZ5X77zfwCe) | [Enzo Enzo](https://open.spotify.com/artist/4nWMNl9Y8X0eRGNoYlsAwD) | [Enzo Enzo](https://open.spotify.com/album/288K0Z8iUFaAWOXtec5Nx3) | 3:28 | 2024-04-15 | 2026-05-24 |
 | [Lesbian Of The Year](https://open.spotify.com/track/2ZOSSD3DcxlKCsd3DCEeQb) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Lesbian Of The Year](https://open.spotify.com/album/2jxlwT7sZN9ios4LuXQSsW) | 3:33 | 2025-08-14 | 2025-12-28 |
 | [Let Her Go \- Acoustic](https://open.spotify.com/track/38OudvGwGjmc5R4sDb2rd0) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [All The Little Lights \(Deluxe Version\)](https://open.spotify.com/album/6jH2g82WMRAVCuyifUsLpF) | 4:26 | 2022-11-25 | 2024-04-19 |
 | [Let It All Go](https://open.spotify.com/track/70K0ezmzYEZeqoSaZMyP7o) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP), [RHODES](https://open.spotify.com/artist/07FfkbljNIdl45Ijlh1aXS) | [Let It All Go](https://open.spotify.com/album/70kdvnoDEA1srIsofErTEw) | 4:40 | 2022-11-25 | 2023-02-22 |
@@ -405,6 +405,7 @@
 | [Shrike](https://open.spotify.com/track/083PU4XnYAOMAGVruma3vb) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Wasteland, Baby!](https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw) | 4:58 | 2022-11-25 | 2024-04-19 |
 | [Shrike](https://open.spotify.com/track/3ieUtb4ecQgEYxae8dzEUi) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Wasteland, Baby!](https://open.spotify.com/album/5j1ZsFyNCsnt62prbs85eE) | 4:58 | 2024-04-15 |  |
 | [Sidelines](https://open.spotify.com/track/4mMviz9DJKLPyfhxpQIBcW) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Sandhills](https://open.spotify.com/album/1ZTd9cM6FPWW4ZP0qUwhpF) | 3:25 | 2023-08-31 | 2023-09-09 |
+| [Silent Killer](https://open.spotify.com/track/30GeuZLcq4ORyG1mf5JeYT) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [Lovebites](https://open.spotify.com/album/5PjXhp79Cl4FB7qCDOkm4V) | 3:52 | 2026-05-21 |  |
 | [Sisters With Me](https://open.spotify.com/track/2ewg31VuWBIamb8f8APqw7) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Sisters With Me](https://open.spotify.com/album/74sxWShKdwDJAFyID1XaaP) | 4:04 | 2026-01-30 |  |
 | [Skinny Love](https://open.spotify.com/track/3B3eOgLJSqPEA0RfboIQVM) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [For Emma, Forever Ago](https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM) | 3:58 | 2022-11-25 | 2024-04-19 |
 | [Slipping Through My Fingers](https://open.spotify.com/track/6ZDAwdhazkWaqEDk0bj1OU) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Slipping Through My Fingers](https://open.spotify.com/album/7pSzmTOe96E5qc3gXgMvpr) | 4:23 | 2024-02-08 | 2024-03-28 |
@@ -464,6 +465,7 @@
 | [The Sound of Silence \- Acoustic Version](https://open.spotify.com/track/5y788ya4NvwhBznoDIcXwK) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Wednesday Morning, 3 A.M.](https://open.spotify.com/album/5pnJrocLlZ3FWEbcr2PTz0) | 3:05 | 2022-11-25 | 2024-04-19 |
 | [The Story of the Impossible](https://open.spotify.com/track/17mmpDTAuG6DLzqmUKl8w6) | [Peter von Poehl](https://open.spotify.com/artist/5KhvKrmpVAYSZBbskHd00W) | [Going To Where The Tea Trees Are](https://open.spotify.com/album/3O7eRQC2IlamsrPm9oFKFU) | 3:37 | 2022-11-25 | 2023-02-22 |
 | [The Surface](https://open.spotify.com/track/4329XA7OGxcJXruj4nirnn) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [The Surface](https://open.spotify.com/album/08x9Txl6jTNKIgfL64iwaG) | 3:55 | 2025-05-15 | 2025-05-24 |
+| [the way you do](https://open.spotify.com/track/2Sgz95fxgQYxDAS2yKJLGL) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [valley of my prime](https://open.spotify.com/album/1UnbjUKJUVDSnRkaf2rnnc) | 3:27 | 2026-05-21 |  |
 | [The Wedding Song](https://open.spotify.com/track/4etKo77nYtFeP3hIMuOrY1) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [The Wedding Song](https://open.spotify.com/album/2zRkxDn6Nu5AOXzEj5QtTJ) | 3:16 | 2024-04-15 | 2025-01-24 |
 | [The Yellow Mile](https://open.spotify.com/track/6n0yMfgOjGM4GzUNHE1gVu) | [Marika Hackman](https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O) | [The Yellow Mile](https://open.spotify.com/album/6TGv0O0RVviQpv55d8t92b) | 3:03 | 2024-01-24 | 2024-04-20 |
 | [There's A Rhythmn](https://open.spotify.com/track/7uWS4zoWMNU9fUPojMYilC) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [SABLE, fABLE](https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T) | 5:16 | 2025-04-10 |  |

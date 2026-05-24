@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3OzSuY.md) - [plain]
 
 > This is Zendaya\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,064 likes - 34 songs - 1 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,069 likes - 34 songs - 1 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3OzSuY.md) - [plain]
 | 30 | [Dig Down Deeper](https://open.spotify.com/track/3r0TVEiVGNFI5nuX87nstb) | [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Disney Fairies: Faith, Trust and Pixie Dust](https://open.spotify.com/album/7CteF40ZbCHjLYBYyYpAAJ) | 3:02 |
 | 31 | [The Same Heart](https://open.spotify.com/track/4wPNMGse5Ra97qPDK0NRlW) | [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs), [Bella Thorne](https://open.spotify.com/artist/58AqJv0sDFPFnnBcLT8eeX) | [Shake It Up: Made in Japan](https://open.spotify.com/album/5DIqbh258UC1oG6Lgerrv4) | 3:34 |
 | 32 | [This is My Dance Floor](https://open.spotify.com/track/6A4t0Qss5Azkt2D7n0XbFJ) | [Bella Thorne](https://open.spotify.com/artist/58AqJv0sDFPFnnBcLT8eeX), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Shake It Up: I <3 Dance](https://open.spotify.com/album/1eYsH5gyuJJaHdNg5inMff) | 3:07 |
-| 33 | [Fireflies](https://open.spotify.com/track/4JAIxZETWX5KwNTmCcJVXH) | [Kim Waters](https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Silver Soul](https://open.spotify.com/album/50kJC7jxGk1sbWTC51syZ4) | 4:28 |
-| 34 | [I'm Back](https://open.spotify.com/track/0kAHwYhGSsDYhJDvqqFFEj) | [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Shake It Up: I <3 Dance](https://open.spotify.com/album/57Cd64D2RrJf4NOVlwgn4O) | 2:26 |
+| 33 | [I'm Back](https://open.spotify.com/track/0kAHwYhGSsDYhJDvqqFFEj) | [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Shake It Up: I <3 Dance](https://open.spotify.com/album/57Cd64D2RrJf4NOVlwgn4O) | 2:26 |
+| 34 | [Fireflies](https://open.spotify.com/track/4JAIxZETWX5KwNTmCcJVXH) | [Kim Waters](https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Silver Soul](https://open.spotify.com/album/50kJC7jxGk1sbWTC51syZ4) | 4:28 |
 
-Snapshot ID: `ag5LAAAAAAAtlrOhXl9yQvvKHiJzyLdz`
+Snapshot ID: `ag+cgAAAAADmgoyLFPCJFnePARB7KQFL`

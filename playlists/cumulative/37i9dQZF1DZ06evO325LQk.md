@@ -4,7 +4,7 @@
 
 > This is SOPHIE\. The essential tracks, all in one playlist.
 
-54 songs - 3 hr 19 min
+55 songs - 3 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [9 \(After Coachella\) \(feat\. MØ & SOPHIE\)](https://open.spotify.com/track/66QK2ov3jneXmdquV0JpZ1) | [Cashmere Cat](https://open.spotify.com/artist/2LZDXcxJWgsJfKXZv9a5eG), [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv), [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [9](https://open.spotify.com/album/5HR24TLfeGpDT860C7qka9) | 4:32 | 2025-10-28 |  |
 | [Berlin Nightmare \(feat\. Evita Manji\)](https://open.spotify.com/track/1paZEp8YMs5AIlrL2RsfEr) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu), [Evita Manji](https://open.spotify.com/artist/3GJYQIEbjMlGeo4eXP8xqk) | [SOPHIE](https://open.spotify.com/album/2kX3enxQiHLTtuNwIXZMXU) | 3:35 | 2025-10-28 |  |
 | [BIPP](https://open.spotify.com/track/5HuOQHBDbb0UJjEE2fw6Uq) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [BIPP](https://open.spotify.com/album/1xF4KA0folSWB5Wcfkv8QU) | 3:44 | 2025-10-28 |  |
+| [Blaze That Ass](https://open.spotify.com/track/4phLrBsqNbIIA4SA7iJn6z) | [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr), [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [Blaze That Ass](https://open.spotify.com/album/3HUmvO3t38JaKug0oIEOaL) | 2:55 | 2026-05-24 |  |
 | [clown shit \(up the wall\) \[SOPHIE Remix\]](https://open.spotify.com/track/4fORekngPoCqeJpe3xg6GQ) | [BABYNYMPH](https://open.spotify.com/artist/2ecIs55o71mEFMhkcaUnyB), [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu), [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [clown shit \(up the wall\) \[SOPHIE Remix\]](https://open.spotify.com/album/0w3ZduXZIPEMktyyVmEAbr) | 6:27 | 2025-10-28 |  |
 | [Cold Water](https://open.spotify.com/track/3qNjFM6QCj0eWllhAXSFLy) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES NON\-STOP REMIX ALBUM](https://open.spotify.com/album/04N5ZJ3wvbkb2QmkO90HUZ) | 3:41 | 2025-12-05 | 2026-01-25 |
 | [Cold World](https://open.spotify.com/track/0PAQt9xBDPg2010l2KJmkY) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES NON\-STOP REMIX ALBUM](https://open.spotify.com/album/04N5ZJ3wvbkb2QmkO90HUZ) | 4:25 | 2025-11-02 | 2026-05-20 |

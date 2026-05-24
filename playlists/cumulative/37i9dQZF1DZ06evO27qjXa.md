@@ -4,7 +4,7 @@
 
 > This is Danny Go!\. The essential tracks, all in one playlist.
 
-56 songs - 3 hr 47 min
+57 songs - 3 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Ka\-Pow! Superhero Dance](https://open.spotify.com/track/501TN2V1YvVfIfPLNafJnX) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Ka\-Pow! Superhero Dance](https://open.spotify.com/album/7mxU8ArlD8DvWYgddtD9ix) | 3:12 | 2026-02-27 |  |
 | [Little Cat](https://open.spotify.com/track/0DAtPFHyXrKNhqnHqbh5hN) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Little Cat](https://open.spotify.com/album/7khTtFbmq7o0y1hrydp7VB) | 3:14 | 2026-02-27 |  |
 | [Magnet Mania!](https://open.spotify.com/track/29BvKOZz1KNd0aHKNHeAjB) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Magnet Mania!](https://open.spotify.com/album/7tsgZYw4ug4VmaihnHPAQZ) | 5:41 | 2026-02-27 |  |
+| [Math Whiz \- Addition Version](https://open.spotify.com/track/3fTXGuPQnTXh9cmjGkPTrW) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Math Whiz](https://open.spotify.com/album/7cOqy6a4SqQHtFbv907gbt) | 3:34 | 2026-05-24 |  |
 | [Night Night Parade Lullaby](https://open.spotify.com/track/3z5kUL960Q7AdKz9WSgenC) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Danny Go! Sleep Music](https://open.spotify.com/album/04fLbxdpEhCuNWIWdbaB7R) | 4:01 | 2026-02-27 |  |
 | [Package Pop!](https://open.spotify.com/track/01sDJ03maWvaItz8DzP4hK) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Package Pop!](https://open.spotify.com/album/3tdfxKVXO5V7YnFaSYShS3) | 5:08 | 2026-02-27 |  |
 | [Playground Lullaby](https://open.spotify.com/track/5mL0a4InbyuZZAwhE4obOu) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Danny Go! Sleep Music](https://open.spotify.com/album/04fLbxdpEhCuNWIWdbaB7R) | 4:49 | 2026-02-27 |  |

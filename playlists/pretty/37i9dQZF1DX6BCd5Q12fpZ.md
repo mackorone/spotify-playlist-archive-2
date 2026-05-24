@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BCd5Q12fpZ.md) - [plain]
 
 > Floor fillers from the long, illustrious history of the show\. Cover: Loreen
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,473 likes - 75 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,478 likes - 75 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,12 +39,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BCd5Q12fpZ.md) - [plain]
 | 29 | [Popular](https://open.spotify.com/track/64WR5TPXZZ2wsWYA3enKfK) | [Eric Saade](https://open.spotify.com/artist/4zGH6gaO4NohcfCXZ31bQG) | [Saade, Vol\. 1](https://open.spotify.com/album/3ZaKROktb3ejok1owIknk7) | 3:00 |
 | 30 | [Rockefeller Street](https://open.spotify.com/track/4rvFyA7h88s8DehCOjqW9K) | [Getter Jaani](https://open.spotify.com/artist/10pMyCRhDkBpyuc38QOlKf) | [Rockefeller Street \- Single](https://open.spotify.com/album/4Prlk6ouh6SYDOa97Eyly4) | 3:12 |
 | 31 | [Jaja Ding Dong](https://open.spotify.com/track/4QWRvlXU8dRUobH9YCDrIY) | [Will Ferrell](https://open.spotify.com/artist/7xF6Psrf6yNOBkB9jpMRa0), [My Marianne](https://open.spotify.com/artist/26a4tbq9f4QZCHArsoQkWn) | [Eurovision Song Contest: The Story of Fire Saga \(Music from the Netflix Film\)](https://open.spotify.com/album/0u6ppFo3gWA3vTiGeDTWXl) | 1:37 |
-| 32 | [Trenulețul \(cu Frații Advahov\)](https://open.spotify.com/track/63idiVcxkGB3hgH6n3qKqM) | [Zdob si Zdub](https://open.spotify.com/artist/21fmCv0mg9Xwnv3WE4mFKu), [Fratii Advahov](https://open.spotify.com/artist/6oOzBkBGHImHS8cdjO8AqC) | [Trenulețul](https://open.spotify.com/album/7fM5IQBccLOksJ96AMl0xv) | 3:00 |
-| 33 | [Replay](https://open.spotify.com/track/2UOyQB26wSQzM0jiTcUg50) | [Tamta](https://open.spotify.com/artist/0VGybH10ziMPo99SYOwMoQ) | [Replay](https://open.spotify.com/album/4CfWfExyyIuTxTXd7jjmy7) | 2:53 |
+| 32 | [Replay](https://open.spotify.com/track/2UOyQB26wSQzM0jiTcUg50) | [Tamta](https://open.spotify.com/artist/0VGybH10ziMPo99SYOwMoQ) | [Replay](https://open.spotify.com/album/4CfWfExyyIuTxTXd7jjmy7) | 2:53 |
+| 33 | [Trenulețul \(cu Frații Advahov\)](https://open.spotify.com/track/63idiVcxkGB3hgH6n3qKqM) | [Zdob si Zdub](https://open.spotify.com/artist/21fmCv0mg9Xwnv3WE4mFKu), [Fratii Advahov](https://open.spotify.com/artist/6oOzBkBGHImHS8cdjO8AqC) | [Trenulețul](https://open.spotify.com/album/7fM5IQBccLOksJ96AMl0xv) | 3:00 |
 | 34 | [La La Love](https://open.spotify.com/track/3rhnT5RoN7bvPUpMHt1aM9) | [Ivi Adamou](https://open.spotify.com/artist/2arQ0lfcNGLrJOHoJksWOw) | [La La Love](https://open.spotify.com/album/6xJymtqqQWpwKmJzIies07) | 3:02 |
 | 35 | [If Love Was a Crime \- Eurovision 2016 \- Bulgaria](https://open.spotify.com/track/1G5qDCiqei7ozj5ku43TuR) | [Poli Genova](https://open.spotify.com/artist/0KTsEyWGtkglulYb0INR5g) | [If Love Was a Crime \(Eurovision 2016 \- Bulgaria\)](https://open.spotify.com/album/1CeeOXzTsGhGGvjIaDiocW) | 2:59 |
-| 36 | [Adrenalina](https://open.spotify.com/track/5sckZhskSmeF8TFJ05oSCB) | [Senhit](https://open.spotify.com/artist/0kgOnYSaZeTf3ZnErgwkGT), [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY) | [Adrenalina](https://open.spotify.com/album/7aEMUNrcbMQtaVsBvJUGlO) | 2:59 |
-| 37 | [Hold Me Closer \- Eurovision Version](https://open.spotify.com/track/6cTWJgNkmhATsI6RJgTPH4) | [Cornelia Jakobs](https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4) | [Hold Me Closer \(Eurovision Version\)](https://open.spotify.com/album/1DUJ7u6fKeEkfVeTvE3FAq) | 3:00 |
+| 36 | [Hold Me Closer \- Eurovision Version](https://open.spotify.com/track/6cTWJgNkmhATsI6RJgTPH4) | [Cornelia Jakobs](https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4) | [Hold Me Closer \(Eurovision Version\)](https://open.spotify.com/album/1DUJ7u6fKeEkfVeTvE3FAq) | 3:00 |
+| 37 | [Adrenalina](https://open.spotify.com/track/5sckZhskSmeF8TFJ05oSCB) | [Senhit](https://open.spotify.com/artist/0kgOnYSaZeTf3ZnErgwkGT), [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY) | [Adrenalina](https://open.spotify.com/album/7aEMUNrcbMQtaVsBvJUGlO) | 2:59 |
 | 38 | [Främling](https://open.spotify.com/track/17zFOtbuquEAAxSttpfWWl) | [Carola](https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt) | [Främling 25 år](https://open.spotify.com/album/4cotyYQgYleaHbqQEgU9Hv) | 2:57 |
 | 39 | [Shake It \- Eurovision Version](https://open.spotify.com/track/2xagoLNhrbVA2fpOkxs2Ze) | [Sakis Rouvas](https://open.spotify.com/artist/0VuyN0xzSqykiDB2MxihTe) | [To Hrono Stamatao](https://open.spotify.com/album/7hiRylz4CAVyfLftuszLVJ) | 3:00 |
 | 40 | [Ooh Aah..\. Just A Little Bit \- Eurovision Version](https://open.spotify.com/track/5KsGeqTJgJMAWuyTZ5WmMn) | [Gina G](https://open.spotify.com/artist/25tu0d8Po5c4IVXsZnXUU8) | [Ooh Aah...Just a Little Bit \(Eurovision Version\)](https://open.spotify.com/album/4k2cMbg4lC05pS47zHnwc1) | 3:02 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BCd5Q12fpZ.md) - [plain]
 | 71 | [Beg, Steal or Borrow \(Rerecorded\)](https://open.spotify.com/track/5Tz3t51jlmiXT8vLudREpx) | [The New Seekers](https://open.spotify.com/artist/4jrTNltJtTMUfXybDdsHDn) | [Their Very Best \(Rerecorded Version\)](https://open.spotify.com/album/5CmrPJKCdMBVigrFkhUMYd) | 2:43 |
 | 72 | [If I Had Your Love](https://open.spotify.com/track/46P3Hgp98JG5t3sszNDaGu) | [Selma](https://open.spotify.com/artist/1o0TSkHxzo6fCAMy2nVexo) | [Iceland Eurovision Party](https://open.spotify.com/album/0HWqAQCNZmBA925kcIv4xq) | 3:13 |
 | 73 | [Toy](https://open.spotify.com/track/6n2eIfLj0wOOUkUfNmYzlh) | [Netta](https://open.spotify.com/artist/4Z4afeDmHFxPmJorIwupbZ) | [Toy](https://open.spotify.com/album/21YEfZ84TzdjNvOWEdwjeF) | 3:00 |
-| 74 | [Waterloo](https://open.spotify.com/track/10fRfvMo6WCO9Gaawxy2U9) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Waterloo](https://open.spotify.com/album/5JGTMU2ovYCxC6nfJbft8W) | 2:48 |
-| 75 | [She Got Me](https://open.spotify.com/track/6TNK1SFt77MvTFoiTloiFQ) | [Luca Hänni](https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ) | [She Got Me](https://open.spotify.com/album/49NV91ZkaohMBJdoBA16ek) | 3:00 |
+| 74 | [She Got Me](https://open.spotify.com/track/6TNK1SFt77MvTFoiTloiFQ) | [Luca Hänni](https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ) | [She Got Me](https://open.spotify.com/album/49NV91ZkaohMBJdoBA16ek) | 3:00 |
+| 75 | [Waterloo](https://open.spotify.com/track/10fRfvMo6WCO9Gaawxy2U9) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Waterloo](https://open.spotify.com/album/5JGTMU2ovYCxC6nfJbft8W) | 2:48 |
 
 Snapshot ID: `AAAAAAR2a1qpvTImgP71ikwWlUyKjWKV`

@@ -1,6 +1,6 @@
 {
   "description": "The perfect soundtrack for a day on the water.",
-  "num_followers": 470663,
+  "num_followers": 470779,
   "original_name": "Party Cove",
   "owner": {
     "name": "Spotify",
@@ -1024,12 +1024,12 @@
       },
       "artists": [
         {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        },
-        {
           "name": "Dustin Lynch",
           "url": "https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
         }
       ],
       "duration_ms": 184173,

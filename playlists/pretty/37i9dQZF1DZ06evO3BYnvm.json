@@ -1,13 +1,29 @@
 {
   "description": "This is Lola Young. The essential tracks, all in one playlist.",
-  "num_followers": 50247,
+  "num_followers": 50276,
   "original_name": "This Is Lola Young",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ag5LAAAAAABs7q2yBGEGe8P3h+kF/f33",
+  "snapshot_id": "ag+cgAAAAADGLhwT6PUh3wLtu32TkcGh",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "From Down Here",
+        "url": "https://open.spotify.com/album/3oyrHxgRO9HNMQx5mdML1u"
+      },
+      "artists": [
+        {
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+        }
+      ],
+      "duration_ms": 241470,
+      "name": "From Down Here",
+      "url": "https://open.spotify.com/track/7Hg7l5aOygIHuaNDVFp3ox"
+    },
     {
       "added_at": null,
       "album": {

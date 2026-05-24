@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rwPYs.md) - [plain]
 
 > This is Celia Cruz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,461 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,475 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,9 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rwPYs.md) - [plain]
 | 30 | [Plazos Traicioneros \- Remastered 2024](https://open.spotify.com/track/7Ml5UAdvDfXljFSwHCHwTj) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Only They Could Have Made This Album \(Remastered 2024\)](https://open.spotify.com/album/7JCLehSDJvpbC1NGmypzlM) | 2:52 |
 | 31 | [Guede Zaina](https://open.spotify.com/track/6HxrX0t2TnBbrAYTaV3zj0) | [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Grandes Éxitos De Celia Cruz](https://open.spotify.com/album/3fZuVtDVcGHISoULNx4Dw3) | 3:09 |
 | 32 | [Por Si Acaso No Regreso](https://open.spotify.com/track/1n52ulXSj7E3GOjcpw1EKF) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Siempre Viviré](https://open.spotify.com/album/1AiGzUZRRNllVXmbCsawwj) | 5:47 |
-| 33 | [En El Bajío](https://open.spotify.com/track/6aUudw1WsrAuHc9H4zyHXd) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD) | [Azúcar! Caliente](https://open.spotify.com/album/5VRSzmNx2jHSagmnwScyi3) | 3:00 |
+| 33 | [Desvelo De Amor](https://open.spotify.com/track/5z46fEEorQBtY64lIyyBfo) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD) | [La Tierna, Conmovedora, Bamboleadora](https://open.spotify.com/album/3505DvX9TkUjchDLCeSv5I) | 2:54 |
 | 34 | [Canto a la Habana \- Remastered 2024](https://open.spotify.com/track/46GaLgU3v1BYoCUREVysW2) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o) | [Celia & Johnny \(Remastered 2024\)](https://open.spotify.com/album/2Fim0ltdhy5696Nuo2yjY0) | 5:31 |
-| 35 | [Desvelo De Amor](https://open.spotify.com/track/5z46fEEorQBtY64lIyyBfo) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD) | [La Tierna, Conmovedora, Bamboleadora](https://open.spotify.com/album/3505DvX9TkUjchDLCeSv5I) | 2:54 |
+| 35 | [En El Bajío](https://open.spotify.com/track/6aUudw1WsrAuHc9H4zyHXd) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD) | [Azúcar! Caliente](https://open.spotify.com/album/5VRSzmNx2jHSagmnwScyi3) | 3:00 |
 | 36 | [Espérame En El Cielo](https://open.spotify.com/track/2QpsriJKyoAruNdeHRgJUd) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Boleros](https://open.spotify.com/album/7DSbg77hDxJs4dnvi1qVgj) | 3:02 |
 | 37 | [Pa La Paloma](https://open.spotify.com/track/35NvKX5qqxt2Q9Ma5VVlZJ) | [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Cuba's Queen Of Rhythm](https://open.spotify.com/album/4FwaFU87BXwp3EQVr4cLIX) | 3:06 |
 | 38 | [La Sopa En Botella](https://open.spotify.com/track/5NXGZe3SV9z8G4JlDt6Thy) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o) | [Tremendo Cache](https://open.spotify.com/album/1Wbmg5TqfFELODTlgeihcN) | 5:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rwPYs.md) - [plain]
 | 49 | [Azúcar, Azúcar](https://open.spotify.com/track/23aUOBa50xrh8pwjPEljNo) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Etc\. Etc\. Etc.](https://open.spotify.com/album/4P5wdlbrcKgZ2oM9n6JGmv) | 3:00 |
 | 50 | [Oye Cómo Va](https://open.spotify.com/track/3a5UozLKx9KIg5XeinOiYr) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [Celia Cruz Centennial](https://open.spotify.com/album/4UWhyS8tzlwpbkEm7DyNR1) | 4:32 |
 
-Snapshot ID: `ag5LAAAAAACKwsmLRMPvRf18RqCdWpSk`
+Snapshot ID: `ag+cgAAAAAAaRxRokaoF5lQFcqhXbSDX`

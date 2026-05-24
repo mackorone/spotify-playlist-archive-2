@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 
 > Descubre los nuevos álbumes del 2026\. Hit shuffle for a mixed listening experience\. Cover: Rels B
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,462 likes - 162 songs - 8 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,469 likes - 162 songs - 8 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 | 31 | [Natural](https://open.spotify.com/track/3TjJq3dLUien8DfEpxr52i) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK), [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Instrucciones Para Ser Feliz](https://open.spotify.com/album/3ZtTmeeKnDUWqlQRMmjUtV) | 2:59 |
 | 32 | [Al Cien](https://open.spotify.com/track/3eTM1u6czaxO7zhrBgUutJ) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK), [Bebo Dumont](https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe) | [Instrucciones Para Ser Feliz](https://open.spotify.com/album/3ZtTmeeKnDUWqlQRMmjUtV) | 2:47 |
 | 33 | [Roncito con Coca](https://open.spotify.com/track/6hPEuDNC4PIOZrZsEYzF7F) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Instrucciones Para Ser Feliz](https://open.spotify.com/album/3ZtTmeeKnDUWqlQRMmjUtV) | 2:38 |
-| 34 | [TU SUPITE?](https://open.spotify.com/track/0sYxmetxv0rmnLB1epKWUu) | [Leslie Grace](https://open.spotify.com/artist/6BeO1KuAWBqFriL1mLHtNc), [Martox](https://open.spotify.com/artist/2kt9iXyIMY6yv45SapEw5r) | [AMOR, QUIÉN ERES?](https://open.spotify.com/album/5EwAecivTZp1yYcXpbHq8h) | 3:05 |
-| 35 | [OJALA](https://open.spotify.com/track/79k5XcPpGNZaTGzPYwjmn1) | [Leslie Grace](https://open.spotify.com/artist/6BeO1KuAWBqFriL1mLHtNc) | [AMOR, QUIÉN ERES?](https://open.spotify.com/album/5EwAecivTZp1yYcXpbHq8h) | 3:22 |
+| 34 | [TU SUPITE](https://open.spotify.com/track/0sYxmetxv0rmnLB1epKWUu) | [Leslie Grace](https://open.spotify.com/artist/6BeO1KuAWBqFriL1mLHtNc), [Martox](https://open.spotify.com/artist/2kt9iXyIMY6yv45SapEw5r) | [AMOR, QUIÉN ERES?](https://open.spotify.com/album/5EwAecivTZp1yYcXpbHq8h) | 3:05 |
+| 35 | [OJALÁ](https://open.spotify.com/track/79k5XcPpGNZaTGzPYwjmn1) | [Leslie Grace](https://open.spotify.com/artist/6BeO1KuAWBqFriL1mLHtNc) | [AMOR, QUIÉN ERES?](https://open.spotify.com/album/5EwAecivTZp1yYcXpbHq8h) | 3:22 |
 | 36 | [FANÁTICO \(feat\. TORRRES\)](https://open.spotify.com/track/4s4sYxtzwx9oGKldgCBvnl) | [Leslie Grace](https://open.spotify.com/artist/6BeO1KuAWBqFriL1mLHtNc), [DIA](https://open.spotify.com/artist/7xVUa8mqwCgdu4mQn3geCY), [TORRRES](https://open.spotify.com/artist/34PYzJSu4DHKEyhdBfsn0E) | [AMOR, QUIÉN ERES?](https://open.spotify.com/album/5EwAecivTZp1yYcXpbHq8h) | 3:47 |
 | 37 | [LA GRACIOSA](https://open.spotify.com/track/0TJYJrUDKQ1btt4g0Xwklw) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [EL BAIFO](https://open.spotify.com/album/7a8QhNYgKmcaulK82zQjR5) | 4:17 |
 | 38 | [GÁLDAR](https://open.spotify.com/track/64uFpeiHU2cTog7oWCuDW9) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Tonny Tun Tun](https://open.spotify.com/artist/4a0UP5sUQGKcn2QJnqMT0t) | [EL BAIFO](https://open.spotify.com/album/7a8QhNYgKmcaulK82zQjR5) | 3:02 |

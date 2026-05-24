@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NfV1mHBR08.md) - [plain]
 
 > 당신의 하루\. 오늘도 잘하고 있어요\. \(Listen to K\-Pop comforting songs\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,921 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,916 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NfV1mHBR08.md) - [plain]
 | 5 | [Don't Overthink It](https://open.spotify.com/track/6Z6CMUIngqTpjckxZUTlwI) | [Choi Jungyoon](https://open.spotify.com/artist/1jpRO6feBr1rjOCSHzu3Xi) | [Don't Overthink It](https://open.spotify.com/album/3M85KK54B4H4y58MnQtb0O) | 2:58 |
 | 6 | [Talk To Me](https://open.spotify.com/track/532r4BnsqKpIEgjp0UzBNu) | [sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Agency \(Original Television Soundtrack, Pt\. 2\)](https://open.spotify.com/album/4kxQHWEz78fPpTBZQtzpm4) | 3:44 |
 | 7 | [어쩌면 위로가 필요했던 우리](https://open.spotify.com/track/7HAkBMBowuYWs0uKn0uuLq) | [20 Years of Age](https://open.spotify.com/artist/0KaZcu3pEVHfYOnB62eLFp) | [어쩌면 위로가 필요했던 우리](https://open.spotify.com/album/3Hz5y3rlO5IzTpjreiPXel) | 3:27 |
-| 8 | [Still Life](https://open.spotify.com/track/3TSLqZssCoCdDlMhCJ08XW) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Still Life](https://open.spotify.com/album/2oCAY48bhZvQte0l7apmYC) | 3:08 |
-| 9 | [Let Me Love My Youth](https://open.spotify.com/track/4qdBPJta3BVPXCS0wJZ6yO) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [Let Me Love My Youth](https://open.spotify.com/album/3wRgzgnqcva5unpKKmgZ57) | 4:08 |
+| 8 | [Let Me Love My Youth](https://open.spotify.com/track/4qdBPJta3BVPXCS0wJZ6yO) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [Let Me Love My Youth](https://open.spotify.com/album/3wRgzgnqcva5unpKKmgZ57) | 4:08 |
+| 9 | [Still Life](https://open.spotify.com/track/3TSLqZssCoCdDlMhCJ08XW) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Still Life](https://open.spotify.com/album/2oCAY48bhZvQte0l7apmYC) | 3:08 |
 | 10 | [BBIBBI](https://open.spotify.com/track/4as4XEOR03oGm1STUKl6pa) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [BBIBBI](https://open.spotify.com/album/4ghBzVOTFoeKPPmyNKjVtI) | 3:14 |
 | 11 | [That's okay](https://open.spotify.com/track/2Ghu1DdMwxS3VAyB7i38Wo) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [That's okay](https://open.spotify.com/album/6EzpktNa8oT04yXVfQieJf) | 3:41 |
 | 12 | [ALL FOR YOU](https://open.spotify.com/track/7i3A3RHpnqoOBEX9GcP1Ms) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [ALL FOR YOU, 2027](https://open.spotify.com/album/1N9oFEpIgZZoOkZZI0FFFg) | 2:50 |
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NfV1mHBR08.md) - [plain]
 | 18 | [Kim Cheolsu Story](https://open.spotify.com/track/48mBeNB9eRSxbPn9bDIcyn) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [Kim Cheolsu Story](https://open.spotify.com/album/7hvLtgOO2CbZkEhrsjjlC2) | 4:08 |
 | 19 | [To You My Light \(feat\. LEE RAON\)](https://open.spotify.com/track/5kPpA4aMFeAQnahSnTIOi4) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j), [LEE RAON](https://open.spotify.com/artist/5FsMBpsPFTzURDjb2T3ane) | [Red Moon: To You My Light](https://open.spotify.com/album/1pqAIHe422sy6zGwJhvcqO) | 4:25 |
 | 20 | [Love poem](https://open.spotify.com/track/7HrE6HtYNBbGqp5GmHbFV0) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Love poem](https://open.spotify.com/album/2xEH7SRzJq7LgA0fCtTlxH) | 4:18 |
-| 21 | [Panorama](https://open.spotify.com/track/6faF0N0fecqw3dopttNP9i) | [LEE CHANHYUK](https://open.spotify.com/artist/4RkTSLr5Qf79FfUkeaDKbl) | [ERROR](https://open.spotify.com/album/0rOZyialXbHAA4qAKi0YaL) | 3:18 |
-| 22 | [Dear My All](https://open.spotify.com/track/2X71ww8wImSYbw4s0Mr2ur) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Dear My All](https://open.spotify.com/album/44ExesH5SiiFq3Kov4okDf) | 2:41 |
+| 21 | [Dear My All](https://open.spotify.com/track/2X71ww8wImSYbw4s0Mr2ur) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Dear My All](https://open.spotify.com/album/44ExesH5SiiFq3Kov4okDf) | 2:41 |
+| 22 | [Panorama](https://open.spotify.com/track/6faF0N0fecqw3dopttNP9i) | [LEE CHANHYUK](https://open.spotify.com/artist/4RkTSLr5Qf79FfUkeaDKbl) | [ERROR](https://open.spotify.com/album/0rOZyialXbHAA4qAKi0YaL) | 3:18 |
 | 23 | [Superstar](https://open.spotify.com/track/20BE9EAAuma1el03cT4bH6) | [Mido and Falasol](https://open.spotify.com/artist/3lBxyv4EPpiE80Ji1Eyfiq) | [HOSPITAL PLAYLIST Season2, Pt\. 6 \(Original Television Soundtrack\)](https://open.spotify.com/album/1cpmFMRuxjqfwNqzsG7UTi) | 3:36 |
 | 24 | [The Compass](https://open.spotify.com/track/3GNKwOjDJlqgAA85lgYTCC) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [The Compass](https://open.spotify.com/album/4UdFLMCOkjD1sv9zUIiFoW) | 2:47 |
 | 25 | [Cosmic Underdog](https://open.spotify.com/track/5SQFdiZM3xEwPjRVrZqXpm) | [AHOF](https://open.spotify.com/artist/4qfEQKZj3GXPjLBEppvHTH) | [WHO WE ARE](https://open.spotify.com/album/0RBuVlwwEKFRj4wTiDayRz) | 3:13 |
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NfV1mHBR08.md) - [plain]
 | 29 | [Good Night](https://open.spotify.com/track/4UeyAaK7d1nxuW5kFjZAlw) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [BLOSSOM \- THE 3RD MINI ALBUM](https://open.spotify.com/album/6ZlXpA35FslDym9FIKaygk) | 3:02 |
 | 30 | [Bird On The Edge](https://open.spotify.com/track/53T5mZuqAjvm0pinUfwIXr) | [LEE MU JIN](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [Bird On The Edge](https://open.spotify.com/album/2pFz5fjBwZwKcK86LAOoVm) | 4:16 |
 | 31 | [On Such a Day](https://open.spotify.com/track/59RLYQQ8v9PItVwFf1qNhx) | [WINTER](https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI) | [Resident Playbook, Pt\. 3 \(Original Soundtrack\)](https://open.spotify.com/album/0wJhsu9q7b7hot5Zlu2mU6) | 3:39 |
-| 32 | [Escape to Me](https://open.spotify.com/track/4TpP0C0g138XLBytuduE0m) | [YOUNGJAE](https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ) | [Fermata](https://open.spotify.com/album/3v1d74UUOHYRVZV01vvuhX) | 3:07 |
-| 33 | [HUG \(Feat\. Zion.T, Wonstein\) \(Prod\. by Slom\)](https://open.spotify.com/track/26rFtNk7TNkJuLGq021Pvc) | [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [SHOW ME THE MONEY 11 Final](https://open.spotify.com/album/19q6Bi6uVIVWUwWcsj1Ld0) | 3:56 |
+| 32 | [HUG \(Feat\. Zion.T, Wonstein\) \(Prod\. by Slom\)](https://open.spotify.com/track/26rFtNk7TNkJuLGq021Pvc) | [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [SHOW ME THE MONEY 11 Final](https://open.spotify.com/album/19q6Bi6uVIVWUwWcsj1Ld0) | 3:56 |
+| 33 | [Escape to Me](https://open.spotify.com/track/4TpP0C0g138XLBytuduE0m) | [YOUNGJAE](https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ) | [Fermata](https://open.spotify.com/album/3v1d74UUOHYRVZV01vvuhX) | 3:07 |
 | 34 | [Lullaby](https://open.spotify.com/track/7BUtoP9NXEe7MgWvIG2KGE) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Love poem](https://open.spotify.com/album/2xEH7SRzJq7LgA0fCtTlxH) | 4:21 |
 | 35 | [A Race](https://open.spotify.com/track/2XIxIDXxuE9d97TqjQPwQy) | [Go Younjung](https://open.spotify.com/artist/6j2pt3nJm1AzHnOrh9NZWx), [Shin Sia](https://open.spotify.com/artist/4rkbfpZPF5jBQAjXQLnN1t), [Kang Youseok](https://open.spotify.com/artist/3eLKjmcl0cWqhATKJK77lx), [Han Yeji](https://open.spotify.com/artist/0tpsMeSSlB302vfEkdBBk2) | [Resident Playbook \(Original Soundtrack\)](https://open.spotify.com/album/7scrnEA8acHOJr2BhWwKgb) | 3:35 |
 | 36 | [Slow](https://open.spotify.com/track/3bHE2Q0boauLBF8iJLUIga) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [Slow](https://open.spotify.com/album/2RhEisiqycAq2YrXJcUL4r) | 4:01 |

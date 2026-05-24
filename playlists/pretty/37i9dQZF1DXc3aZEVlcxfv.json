@@ -1,6 +1,6 @@
 {
   "description": "If you're blessed!",
-  "num_followers": 21455,
+  "num_followers": 21458,
   "original_name": "Blessed",
   "owner": {
     "name": "Spotify",
@@ -453,20 +453,24 @@
       "url": "https://open.spotify.com/track/1j9kTaj53ZnU2JOXPbgGhN"
     },
     {
-      "added_at": "2024-09-30 14:25:52",
+      "added_at": "2025-11-14 00:01:37",
       "album": {
-        "name": "Calling My Name (I'm A Soldier) [Live]",
-        "url": "https://open.spotify.com/album/43Ezc94qcwnX6mnmuUQnUO"
+        "name": "Anchor of My Strength",
+        "url": "https://open.spotify.com/album/6j5WW5wCRQpz719p05KNzz"
       },
       "artists": [
         {
-          "name": "Ebuka Songs",
-          "url": "https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM"
+          "name": "Paul CleverLee",
+          "url": "https://open.spotify.com/artist/2OmRPEQ0DmK6myhfVFKLuY"
+        },
+        {
+          "name": "Gerald Bishung",
+          "url": "https://open.spotify.com/artist/7yAihRRmPVVKmZ6xvFCV7I"
         }
       ],
-      "duration_ms": 638798,
-      "name": "Calling My Name (I'm A Soldier) - Live",
-      "url": "https://open.spotify.com/track/6pKrwKfT1IUq6GvO7xtlIW"
+      "duration_ms": 190293,
+      "name": "Anchor of My Strength",
+      "url": "https://open.spotify.com/track/4TEFKBeXAE20j69TpHFFK7"
     },
     {
       "added_at": "2024-09-30 14:25:52",
@@ -509,24 +513,20 @@
       "url": "https://open.spotify.com/track/7BvQTLZXj9XDG9BZnGLZtO"
     },
     {
-      "added_at": "2025-11-14 00:01:37",
+      "added_at": "2024-09-30 14:25:52",
       "album": {
-        "name": "Anchor of My Strength",
-        "url": "https://open.spotify.com/album/6j5WW5wCRQpz719p05KNzz"
+        "name": "Calling My Name (I'm A Soldier) [Live]",
+        "url": "https://open.spotify.com/album/43Ezc94qcwnX6mnmuUQnUO"
       },
       "artists": [
         {
-          "name": "Paul CleverLee",
-          "url": "https://open.spotify.com/artist/2OmRPEQ0DmK6myhfVFKLuY"
-        },
-        {
-          "name": "Gerald Bishung",
-          "url": "https://open.spotify.com/artist/7yAihRRmPVVKmZ6xvFCV7I"
+          "name": "Ebuka Songs",
+          "url": "https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM"
         }
       ],
-      "duration_ms": 190293,
-      "name": "Anchor of My Strength",
-      "url": "https://open.spotify.com/track/4TEFKBeXAE20j69TpHFFK7"
+      "duration_ms": 638798,
+      "name": "Calling My Name (I'm A Soldier) - Live",
+      "url": "https://open.spotify.com/track/6pKrwKfT1IUq6GvO7xtlIW"
     },
     {
       "added_at": "2025-01-31 00:01:08",
@@ -673,26 +673,6 @@
       "url": "https://open.spotify.com/track/4YfOEXttugon5YXM3TjJGz"
     },
     {
-      "added_at": "2026-01-23 00:01:16",
-      "album": {
-        "name": "ENOUGH FOR ME",
-        "url": "https://open.spotify.com/album/5P2RR6rOO8lTNvVxMObKmj"
-      },
-      "artists": [
-        {
-          "name": "Sinach",
-          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
-        },
-        {
-          "name": "Sunmisola Agbebi",
-          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
-        }
-      ],
-      "duration_ms": 580500,
-      "name": "ENOUGH FOR ME",
-      "url": "https://open.spotify.com/track/3d0LYyvQwDKG3h4R7dCZW3"
-    },
-    {
       "added_at": "2025-12-12 00:01:22",
       "album": {
         "name": "Good God",
@@ -711,6 +691,26 @@
       "duration_ms": 889180,
       "name": "Good God",
       "url": "https://open.spotify.com/track/3sj94nxEe8RNwUtew2FvFq"
+    },
+    {
+      "added_at": "2026-01-23 00:01:16",
+      "album": {
+        "name": "ENOUGH FOR ME",
+        "url": "https://open.spotify.com/album/5P2RR6rOO8lTNvVxMObKmj"
+      },
+      "artists": [
+        {
+          "name": "Sinach",
+          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
+        },
+        {
+          "name": "Sunmisola Agbebi",
+          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
+        }
+      ],
+      "duration_ms": 580500,
+      "name": "ENOUGH FOR ME",
+      "url": "https://open.spotify.com/track/3d0LYyvQwDKG3h4R7dCZW3"
     },
     {
       "added_at": "2025-05-09 00:01:37",
@@ -825,6 +825,26 @@
       "url": "https://open.spotify.com/track/36sznNt2BniOB8BWYpWYmP"
     },
     {
+      "added_at": "2026-05-08 00:01:38",
+      "album": {
+        "name": "Count",
+        "url": "https://open.spotify.com/album/6snbqacaWrTOHOBbZ4US0h"
+      },
+      "artists": [
+        {
+          "name": "God in This Music",
+          "url": "https://open.spotify.com/artist/2QJS4VZUhGBNzYp3z24l7K"
+        },
+        {
+          "name": "Testimony",
+          "url": "https://open.spotify.com/artist/1wmqBcJkngGTcaa23WwwLS"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "Count",
+      "url": "https://open.spotify.com/track/66kiV6JV3eKNO9f1VlLevC"
+    },
+    {
       "added_at": "2026-03-27 00:01:13",
       "album": {
         "name": "Citizen",
@@ -849,26 +869,6 @@
       "url": "https://open.spotify.com/track/6NYcrgToyDj04al4ZMtHxz"
     },
     {
-      "added_at": "2026-05-08 00:01:38",
-      "album": {
-        "name": "Count",
-        "url": "https://open.spotify.com/album/6snbqacaWrTOHOBbZ4US0h"
-      },
-      "artists": [
-        {
-          "name": "God in This Music",
-          "url": "https://open.spotify.com/artist/2QJS4VZUhGBNzYp3z24l7K"
-        },
-        {
-          "name": "Testimony",
-          "url": "https://open.spotify.com/artist/1wmqBcJkngGTcaa23WwwLS"
-        }
-      ],
-      "duration_ms": 264000,
-      "name": "Count",
-      "url": "https://open.spotify.com/track/66kiV6JV3eKNO9f1VlLevC"
-    },
-    {
       "added_at": "2026-03-27 00:01:13",
       "album": {
         "name": "Yeshua (The Summary Of My Life)",
@@ -887,6 +887,30 @@
       "duration_ms": 204036,
       "name": "Impossibility Shatterer",
       "url": "https://open.spotify.com/track/4NCR1DUnHd1HHrCRfJu68P"
+    },
+    {
+      "added_at": "2026-05-15 00:01:23",
+      "album": {
+        "name": "Oh My Soul",
+        "url": "https://open.spotify.com/album/0kCQtj3r882jtLDX7TvxUy"
+      },
+      "artists": [
+        {
+          "name": "Godfrey Gad",
+          "url": "https://open.spotify.com/artist/4Q1PLV0sUS4xUzFwpFUvFh"
+        },
+        {
+          "name": "Sound Of Salem",
+          "url": "https://open.spotify.com/artist/4wXOaCc4CN80m9xcjkmL6I"
+        },
+        {
+          "name": "Pst. Oche Ogebe",
+          "url": "https://open.spotify.com/artist/5SQMtRHIHAZyzx8isNKbSk"
+        }
+      ],
+      "duration_ms": 172714,
+      "name": "Oh My Soul",
+      "url": "https://open.spotify.com/track/5v8dMFDfK1i9ssKKfWJNCD"
     },
     {
       "added_at": "2026-04-17 00:01:26",
@@ -927,30 +951,6 @@
       "duration_ms": 836670,
       "name": "Covenant Keeping God",
       "url": "https://open.spotify.com/track/1hhgSr6jl97R9znizeUrM0"
-    },
-    {
-      "added_at": "2026-05-15 00:01:23",
-      "album": {
-        "name": "Oh My Soul",
-        "url": "https://open.spotify.com/album/0kCQtj3r882jtLDX7TvxUy"
-      },
-      "artists": [
-        {
-          "name": "Godfrey Gad",
-          "url": "https://open.spotify.com/artist/4Q1PLV0sUS4xUzFwpFUvFh"
-        },
-        {
-          "name": "Sound Of Salem",
-          "url": "https://open.spotify.com/artist/4wXOaCc4CN80m9xcjkmL6I"
-        },
-        {
-          "name": "Pst. Oche Ogebe",
-          "url": "https://open.spotify.com/artist/5SQMtRHIHAZyzx8isNKbSk"
-        }
-      ],
-      "duration_ms": 172714,
-      "name": "Oh My Soul",
-      "url": "https://open.spotify.com/track/5v8dMFDfK1i9ssKKfWJNCD"
     },
     {
       "added_at": "2026-02-20 00:01:25",
@@ -1013,22 +1013,6 @@
       "url": "https://open.spotify.com/track/5uVme5GQDbipGSnuz5kweE"
     },
     {
-      "added_at": "2026-01-30 00:01:25",
-      "album": {
-        "name": "JOY",
-        "url": "https://open.spotify.com/album/4JcVpJAsnqCcif2idBqpVY"
-      },
-      "artists": [
-        {
-          "name": "Kingdmusic",
-          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
-        }
-      ],
-      "duration_ms": 149906,
-      "name": "Hallelujah",
-      "url": "https://open.spotify.com/track/61PIo9nn1kF5hhRoAAanEF"
-    },
-    {
       "added_at": "2026-05-01 00:02:08",
       "album": {
         "name": "Hallelujah (My song forever)",
@@ -1077,22 +1061,6 @@
       "url": "https://open.spotify.com/track/4jRaM74PxaKqtnjfT8Ba01"
     },
     {
-      "added_at": "2025-02-14 00:01:09",
-      "album": {
-        "name": "My Lover (Live)",
-        "url": "https://open.spotify.com/album/2C37Rmrh9wdDDFNii8pfCq"
-      },
-      "artists": [
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 435240,
-      "name": "My Lover (Live)",
-      "url": "https://open.spotify.com/track/2GYMuD74LVwPQRz5KrFzid"
-    },
-    {
       "added_at": "2026-05-15 00:01:23",
       "album": {
         "name": "Ifunanya",
@@ -1111,6 +1079,22 @@
       "duration_ms": 314013,
       "name": "Ifunanya",
       "url": "https://open.spotify.com/track/1uxP53jaD8jAtzlPEoLzaM"
+    },
+    {
+      "added_at": "2025-02-14 00:01:09",
+      "album": {
+        "name": "My Lover (Live)",
+        "url": "https://open.spotify.com/album/2C37Rmrh9wdDDFNii8pfCq"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 435240,
+      "name": "My Lover (Live)",
+      "url": "https://open.spotify.com/track/2GYMuD74LVwPQRz5KrFzid"
     },
     {
       "added_at": "2026-05-15 00:01:23",
@@ -1161,22 +1145,6 @@
       "url": "https://open.spotify.com/track/5xTMeJzzbZUbItv0nAEwHI"
     },
     {
-      "added_at": "2026-03-27 00:01:13",
-      "album": {
-        "name": "All My Life",
-        "url": "https://open.spotify.com/album/1HMUdkIPCBsOBJy7518Hh6"
-      },
-      "artists": [
-        {
-          "name": "Oge Stan",
-          "url": "https://open.spotify.com/artist/3aL8XwNOqOVv8NwpVLFo1c"
-        }
-      ],
-      "duration_ms": 271699,
-      "name": "All My Life",
-      "url": "https://open.spotify.com/track/3l6ek8A46LHzqPDSbWfBXw"
-    },
-    {
       "added_at": "2025-12-05 00:01:10",
       "album": {
         "name": "Upendo Overdose",
@@ -1221,6 +1189,38 @@
       "url": "https://open.spotify.com/track/07cr2u369CWTuGefo4dygx"
     },
     {
+      "added_at": "2026-03-27 00:01:13",
+      "album": {
+        "name": "All My Life",
+        "url": "https://open.spotify.com/album/1HMUdkIPCBsOBJy7518Hh6"
+      },
+      "artists": [
+        {
+          "name": "Oge Stan",
+          "url": "https://open.spotify.com/artist/3aL8XwNOqOVv8NwpVLFo1c"
+        }
+      ],
+      "duration_ms": 271699,
+      "name": "All My Life",
+      "url": "https://open.spotify.com/track/3l6ek8A46LHzqPDSbWfBXw"
+    },
+    {
+      "added_at": "2026-02-13 00:01:34",
+      "album": {
+        "name": "I Live",
+        "url": "https://open.spotify.com/album/0cZteUtrDx3uIeTOVvVI8E"
+      },
+      "artists": [
+        {
+          "name": "Ada Ehi",
+          "url": "https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt"
+        }
+      ],
+      "duration_ms": 560126,
+      "name": "I Live - Live",
+      "url": "https://open.spotify.com/track/122j35m29xC1Xbd8vTKvJP"
+    },
+    {
       "added_at": "2026-04-24 00:01:08",
       "album": {
         "name": "My Elshaddai",
@@ -1243,22 +1243,6 @@
       "duration_ms": 276083,
       "name": "My Elshaddai",
       "url": "https://open.spotify.com/track/7z81J8HgIVSpyeF2996zDy"
-    },
-    {
-      "added_at": "2026-02-13 00:01:34",
-      "album": {
-        "name": "I Live",
-        "url": "https://open.spotify.com/album/0cZteUtrDx3uIeTOVvVI8E"
-      },
-      "artists": [
-        {
-          "name": "Ada Ehi",
-          "url": "https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt"
-        }
-      ],
-      "duration_ms": 560126,
-      "name": "I Live - Live",
-      "url": "https://open.spotify.com/track/122j35m29xC1Xbd8vTKvJP"
     },
     {
       "added_at": "2026-04-03 00:01:46",
@@ -1313,22 +1297,6 @@
       "url": "https://open.spotify.com/track/7axctArGc7dtaEJSl3IZge"
     },
     {
-      "added_at": "2026-04-10 00:01:38",
-      "album": {
-        "name": "Yielded",
-        "url": "https://open.spotify.com/album/7qr1dZ2t1xVpv8vcgotE5D"
-      },
-      "artists": [
-        {
-          "name": "Peterson Okopi",
-          "url": "https://open.spotify.com/artist/4ouEwOfx8SDXXkTdQCPnOz"
-        }
-      ],
-      "duration_ms": 446730,
-      "name": "Enough for Me",
-      "url": "https://open.spotify.com/track/0GRCnJ6SC7BKP2GfNt0SkQ"
-    },
-    {
       "added_at": "2026-04-03 00:01:46",
       "album": {
         "name": "Africa Rejoice!",
@@ -1345,6 +1313,22 @@
       "url": "https://open.spotify.com/track/4X0PisJrHln2RXT72UYXGR"
     },
     {
+      "added_at": "2026-04-10 00:01:38",
+      "album": {
+        "name": "Yielded",
+        "url": "https://open.spotify.com/album/7qr1dZ2t1xVpv8vcgotE5D"
+      },
+      "artists": [
+        {
+          "name": "Peterson Okopi",
+          "url": "https://open.spotify.com/artist/4ouEwOfx8SDXXkTdQCPnOz"
+        }
+      ],
+      "duration_ms": 446730,
+      "name": "Enough for Me",
+      "url": "https://open.spotify.com/track/0GRCnJ6SC7BKP2GfNt0SkQ"
+    },
+    {
       "added_at": "2026-03-13 00:01:18",
       "album": {
         "name": "Miracle Walking (Radio Edit)",
@@ -1359,6 +1343,26 @@
       "duration_ms": 217333,
       "name": "Miracle Walking - Radio Edit",
       "url": "https://open.spotify.com/track/1XSUg7qjjIGayEV4Rbyvvd"
+    },
+    {
+      "added_at": "2026-03-13 00:01:18",
+      "album": {
+        "name": "Amen Amen, Blessing and Glory",
+        "url": "https://open.spotify.com/album/4mZQkyocbZKfwjLAhTo1zK"
+      },
+      "artists": [
+        {
+          "name": "S.O.N Music",
+          "url": "https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T"
+        },
+        {
+          "name": "Beulah Land Music",
+          "url": "https://open.spotify.com/artist/3EcGsz8ULgfWoJl8D60bBh"
+        }
+      ],
+      "duration_ms": 154325,
+      "name": "Amen Amen, Blessing and Glory",
+      "url": "https://open.spotify.com/track/5n4gFyh6P2guexy5QsWm8y"
     },
     {
       "added_at": "2026-03-20 00:01:38",
@@ -1381,24 +1385,40 @@
       "url": "https://open.spotify.com/track/1CEJTnMr4DoPrYvbNbdAmS"
     },
     {
-      "added_at": "2026-03-13 00:01:18",
+      "added_at": "2026-01-30 00:01:25",
       "album": {
-        "name": "Amen Amen, Blessing and Glory",
-        "url": "https://open.spotify.com/album/4mZQkyocbZKfwjLAhTo1zK"
+        "name": "JOY",
+        "url": "https://open.spotify.com/album/4JcVpJAsnqCcif2idBqpVY"
       },
       "artists": [
         {
-          "name": "S.O.N Music",
-          "url": "https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T"
-        },
-        {
-          "name": "Beulah Land Music",
-          "url": "https://open.spotify.com/artist/3EcGsz8ULgfWoJl8D60bBh"
+          "name": "Kingdmusic",
+          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
         }
       ],
-      "duration_ms": 154325,
-      "name": "Amen Amen, Blessing and Glory",
-      "url": "https://open.spotify.com/track/5n4gFyh6P2guexy5QsWm8y"
+      "duration_ms": 149906,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/61PIo9nn1kF5hhRoAAanEF"
+    },
+    {
+      "added_at": "2026-04-03 00:01:46",
+      "album": {
+        "name": "With You",
+        "url": "https://open.spotify.com/album/5KXVKSZVfL02T3GPt15Z4D"
+      },
+      "artists": [
+        {
+          "name": "Festizie",
+          "url": "https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu"
+        },
+        {
+          "name": "Ajay Asika",
+          "url": "https://open.spotify.com/artist/6JTtYSXFQweCccnZnRkVs1"
+        }
+      ],
+      "duration_ms": 162935,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/1q73vgp83XE42lE86YiSNT"
     },
     {
       "added_at": "2026-03-06 00:01:07",
@@ -1453,26 +1473,6 @@
       "url": "https://open.spotify.com/track/2FKMyKpyWuiywgWIoHkncw"
     },
     {
-      "added_at": "2025-12-26 00:01:40",
-      "album": {
-        "name": "Titilailai",
-        "url": "https://open.spotify.com/album/0WSGb2H04LNh3FQhTbIBdZ"
-      },
-      "artists": [
-        {
-          "name": "nina shezz",
-          "url": "https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8"
-        },
-        {
-          "name": "Gospel Wills",
-          "url": "https://open.spotify.com/artist/41LRL6GwikpOFVPAcCBDGr"
-        }
-      ],
-      "duration_ms": 141934,
-      "name": "Titilailai",
-      "url": "https://open.spotify.com/track/1SWHsd94dvBz0FTTZCUP2G"
-    },
-    {
       "added_at": "2026-05-01 00:02:08",
       "album": {
         "name": "FEELIN",
@@ -1497,20 +1497,24 @@
       "url": "https://open.spotify.com/track/7G8r8DeL59ryZTT6ToMTeS"
     },
     {
-      "added_at": "2026-04-03 00:01:46",
+      "added_at": "2025-12-26 00:01:40",
       "album": {
-        "name": "Alive",
-        "url": "https://open.spotify.com/album/22U2vWcz5CaxU9x6S9oehH"
+        "name": "Titilailai",
+        "url": "https://open.spotify.com/album/0WSGb2H04LNh3FQhTbIBdZ"
       },
       "artists": [
         {
-          "name": "Scott Evans",
-          "url": "https://open.spotify.com/artist/7cNvuCgJHQfzdOZlhQ3W5r"
+          "name": "nina shezz",
+          "url": "https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8"
+        },
+        {
+          "name": "Gospel Wills",
+          "url": "https://open.spotify.com/artist/41LRL6GwikpOFVPAcCBDGr"
         }
       ],
-      "duration_ms": 140707,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/3MwLu7gPqB81ql2AecxkFn"
+      "duration_ms": 141934,
+      "name": "Titilailai",
+      "url": "https://open.spotify.com/track/1SWHsd94dvBz0FTTZCUP2G"
     },
     {
       "added_at": "2025-11-28 00:01:15",
@@ -1531,22 +1535,18 @@
     {
       "added_at": "2026-04-03 00:01:46",
       "album": {
-        "name": "With You",
-        "url": "https://open.spotify.com/album/5KXVKSZVfL02T3GPt15Z4D"
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/22U2vWcz5CaxU9x6S9oehH"
       },
       "artists": [
         {
-          "name": "Festizie",
-          "url": "https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu"
-        },
-        {
-          "name": "Ajay Asika",
-          "url": "https://open.spotify.com/artist/6JTtYSXFQweCccnZnRkVs1"
+          "name": "Scott Evans",
+          "url": "https://open.spotify.com/artist/7cNvuCgJHQfzdOZlhQ3W5r"
         }
       ],
-      "duration_ms": 162935,
-      "name": "With You",
-      "url": "https://open.spotify.com/track/1q73vgp83XE42lE86YiSNT"
+      "duration_ms": 140707,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/3MwLu7gPqB81ql2AecxkFn"
     },
     {
       "added_at": "2025-11-28 00:01:15",

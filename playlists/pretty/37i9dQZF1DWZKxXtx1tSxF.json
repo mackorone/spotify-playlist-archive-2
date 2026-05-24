@@ -1,6 +1,6 @@
 {
   "description": "Un mix de reggae y buena vibra para ver caer el sol.",
-  "num_followers": 57713,
+  "num_followers": 57732,
   "original_name": "Atardecer en la playa",
   "owner": {
     "name": "Spotify",
@@ -283,18 +283,22 @@
     {
       "added_at": "2025-12-23 21:25:55",
       "album": {
-        "name": "Alas Canciones",
-        "url": "https://open.spotify.com/album/0hDvH4mW4hxL8lTQEd4uP8"
+        "name": "Soundamerica",
+        "url": "https://open.spotify.com/album/2SZTxfMc8EOjUJnPIVORWI"
       },
       "artists": [
         {
-          "name": "Los Cafres",
-          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+          "name": "Los Pericos",
+          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
+        },
+        {
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
         }
       ],
-      "duration_ms": 302280,
-      "name": "Sigo Caminando",
-      "url": "https://open.spotify.com/track/1Po5Jxjh5gHCFiKIt6AQZR"
+      "duration_ms": 315933,
+      "name": "An\u00f3nimos (feat. Carla Morrison)",
+      "url": "https://open.spotify.com/track/6pKADEM7gx8EZ6UypMUzyd"
     },
     {
       "added_at": "2025-12-23 21:25:55",
@@ -315,22 +319,18 @@
     {
       "added_at": "2025-12-23 21:25:55",
       "album": {
-        "name": "Soundamerica",
-        "url": "https://open.spotify.com/album/2SZTxfMc8EOjUJnPIVORWI"
+        "name": "Alas Canciones",
+        "url": "https://open.spotify.com/album/0hDvH4mW4hxL8lTQEd4uP8"
       },
       "artists": [
         {
-          "name": "Los Pericos",
-          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
-        },
-        {
-          "name": "Carla Morrison",
-          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
         }
       ],
-      "duration_ms": 315933,
-      "name": "An\u00f3nimos (feat. Carla Morrison)",
-      "url": "https://open.spotify.com/track/6pKADEM7gx8EZ6UypMUzyd"
+      "duration_ms": 302280,
+      "name": "Sigo Caminando",
+      "url": "https://open.spotify.com/track/1Po5Jxjh5gHCFiKIt6AQZR"
     },
     {
       "added_at": "2025-12-23 21:25:55",

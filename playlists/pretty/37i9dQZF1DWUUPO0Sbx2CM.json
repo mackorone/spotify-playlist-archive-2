@@ -1,6 +1,6 @@
 {
   "description": "Discover a mix of faith and fun with these EDM, Pop, Hip Hop, Worship, and remixed songs!",
-  "num_followers": 236031,
+  "num_followers": 236061,
   "original_name": "Christian Party",
   "owner": {
     "name": "Spotify",
@@ -303,26 +303,6 @@
     {
       "added_at": "2026-04-25 05:41:41",
       "album": {
-        "name": "God Showing Out",
-        "url": "https://open.spotify.com/album/7xdAUVF3LuOz8FbD7rOlmW"
-      },
-      "artists": [
-        {
-          "name": "Pastor Mike Jr.",
-          "url": "https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS"
-        },
-        {
-          "name": "Adia",
-          "url": "https://open.spotify.com/artist/1FzKCmWxE6QIfp23ikbuIt"
-        }
-      ],
-      "duration_ms": 133455,
-      "name": "BYE",
-      "url": "https://open.spotify.com/track/2B9aV8yQhiapL4rl7hz9zN"
-    },
-    {
-      "added_at": "2026-04-25 05:41:41",
-      "album": {
         "name": "Jesus Is King",
         "url": "https://open.spotify.com/album/6DtT1NqxZ8HSft2qdmuh7u"
       },
@@ -339,6 +319,26 @@
       "duration_ms": 187000,
       "name": "Jesus Is King",
       "url": "https://open.spotify.com/track/1pBzs7r3GxhI3ETenHOjDJ"
+    },
+    {
+      "added_at": "2026-04-25 05:41:41",
+      "album": {
+        "name": "God Showing Out",
+        "url": "https://open.spotify.com/album/7xdAUVF3LuOz8FbD7rOlmW"
+      },
+      "artists": [
+        {
+          "name": "Pastor Mike Jr.",
+          "url": "https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS"
+        },
+        {
+          "name": "Adia",
+          "url": "https://open.spotify.com/artist/1FzKCmWxE6QIfp23ikbuIt"
+        }
+      ],
+      "duration_ms": 133455,
+      "name": "BYE",
+      "url": "https://open.spotify.com/track/2B9aV8yQhiapL4rl7hz9zN"
     },
     {
       "added_at": "2026-04-25 05:41:41",
@@ -415,22 +415,6 @@
     {
       "added_at": "2026-04-25 05:41:41",
       "album": {
-        "name": "playlist",
-        "url": "https://open.spotify.com/album/49QQCvYksBNEaGIyoAgrtQ"
-      },
-      "artists": [
-        {
-          "name": "Tenroc",
-          "url": "https://open.spotify.com/artist/2vjr6uTQVOzLdsNIWaqy2i"
-        }
-      ],
-      "duration_ms": 164850,
-      "name": "playlist",
-      "url": "https://open.spotify.com/track/3rivgaDvBS7AtGLUq0hAEd"
-    },
-    {
-      "added_at": "2026-04-25 05:41:41",
-      "album": {
         "name": "NO SKIPS / GOOD OLD DAYS",
         "url": "https://open.spotify.com/album/4igdFeAJW7MrQZ2bDxcm8X"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 190350,
       "name": "NO SKIPS",
       "url": "https://open.spotify.com/track/3E1Z0oPXJ5ZkAktQhJPzhC"
+    },
+    {
+      "added_at": "2026-04-25 05:41:41",
+      "album": {
+        "name": "Sunrise",
+        "url": "https://open.spotify.com/album/4wnD11CkTt6s3D0U4EHbvv"
+      },
+      "artists": [
+        {
+          "name": "River Valley AGES",
+          "url": "https://open.spotify.com/artist/3Y44hdG7tljyluN4wv9j5h"
+        }
+      ],
+      "duration_ms": 208564,
+      "name": "Sunrise",
+      "url": "https://open.spotify.com/track/6FWaqHayQ1ZGMGRUz7O9A5"
     },
     {
       "added_at": "2026-04-25 05:41:41",
@@ -467,18 +467,18 @@
     {
       "added_at": "2026-04-25 05:41:41",
       "album": {
-        "name": "Sunrise",
-        "url": "https://open.spotify.com/album/4wnD11CkTt6s3D0U4EHbvv"
+        "name": "playlist",
+        "url": "https://open.spotify.com/album/49QQCvYksBNEaGIyoAgrtQ"
       },
       "artists": [
         {
-          "name": "River Valley AGES",
-          "url": "https://open.spotify.com/artist/3Y44hdG7tljyluN4wv9j5h"
+          "name": "Tenroc",
+          "url": "https://open.spotify.com/artist/2vjr6uTQVOzLdsNIWaqy2i"
         }
       ],
-      "duration_ms": 208564,
-      "name": "Sunrise",
-      "url": "https://open.spotify.com/track/6FWaqHayQ1ZGMGRUz7O9A5"
+      "duration_ms": 164850,
+      "name": "playlist",
+      "url": "https://open.spotify.com/track/3rivgaDvBS7AtGLUq0hAEd"
     },
     {
       "added_at": "2026-04-25 05:41:41",
@@ -503,6 +503,22 @@
     {
       "added_at": "2026-04-25 05:41:41",
       "album": {
+        "name": "KEEP MOVING",
+        "url": "https://open.spotify.com/album/1KJHczPnIT7ZE5gxhFBj0j"
+      },
+      "artists": [
+        {
+          "name": "DC3",
+          "url": "https://open.spotify.com/artist/2lrBGpN0NUi6w739TX7YZf"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "KEEP MOVING",
+      "url": "https://open.spotify.com/track/45O7UAhY9CqEHyLwvWRwMS"
+    },
+    {
+      "added_at": "2026-04-25 05:41:41",
+      "album": {
         "name": "GREATER LOVE",
         "url": "https://open.spotify.com/album/0HsBCbZW9Y7taCvI9FkvPB"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 111428,
       "name": "GREATER LOVE",
       "url": "https://open.spotify.com/track/3gdAmqnh0cQiknfkLSB17H"
-    },
-    {
-      "added_at": "2026-04-25 05:41:41",
-      "album": {
-        "name": "KEEP MOVING",
-        "url": "https://open.spotify.com/album/1KJHczPnIT7ZE5gxhFBj0j"
-      },
-      "artists": [
-        {
-          "name": "DC3",
-          "url": "https://open.spotify.com/artist/2lrBGpN0NUi6w739TX7YZf"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "KEEP MOVING",
-      "url": "https://open.spotify.com/track/45O7UAhY9CqEHyLwvWRwMS"
     },
     {
       "added_at": "2026-04-25 05:41:41",
@@ -767,22 +767,6 @@
     {
       "added_at": "2026-04-25 05:41:41",
       "album": {
-        "name": "Say It (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2HwzqxG3WpaIqGjjbvXvWz"
-      },
-      "artists": [
-        {
-          "name": "Jordan Feliz",
-          "url": "https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA"
-        }
-      ],
-      "duration_ms": 196161,
-      "name": "Stained Glass",
-      "url": "https://open.spotify.com/track/71ikD1S5jJUIiWAfuVhqXQ"
-    },
-    {
-      "added_at": "2026-04-25 05:41:41",
-      "album": {
         "name": "Spirit Rich",
         "url": "https://open.spotify.com/album/4jDaCHNKQHoHUO905d9Wvl"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 159183,
       "name": "Spirit Rich",
       "url": "https://open.spotify.com/track/2c299IzzVhir4EsPswCJyz"
+    },
+    {
+      "added_at": "2026-04-25 05:41:41",
+      "album": {
+        "name": "Say It (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2HwzqxG3WpaIqGjjbvXvWz"
+      },
+      "artists": [
+        {
+          "name": "Jordan Feliz",
+          "url": "https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA"
+        }
+      ],
+      "duration_ms": 196161,
+      "name": "Stained Glass",
+      "url": "https://open.spotify.com/track/71ikD1S5jJUIiWAfuVhqXQ"
     },
     {
       "added_at": "2026-04-25 05:41:41",
@@ -859,6 +859,22 @@
     {
       "added_at": "2026-04-25 05:41:41",
       "album": {
+        "name": "COMFORTER",
+        "url": "https://open.spotify.com/album/1yMwbTznm77BRUYdjMOT4f"
+      },
+      "artists": [
+        {
+          "name": "IMRHAN",
+          "url": "https://open.spotify.com/artist/1q4putin60VdRXfDSTl5f3"
+        }
+      ],
+      "duration_ms": 215600,
+      "name": "COMFORTER",
+      "url": "https://open.spotify.com/track/7oz86G4TGts39AteYoDn0F"
+    },
+    {
+      "added_at": "2026-04-25 05:41:41",
+      "album": {
         "name": "Give Me Jesus",
         "url": "https://open.spotify.com/album/3t6wKAzOy4XqQWj5cyrfXd"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 196987,
       "name": "Covered",
       "url": "https://open.spotify.com/track/3BRT8Js2RaXg5KPicqK0gb"
-    },
-    {
-      "added_at": "2026-04-25 05:41:41",
-      "album": {
-        "name": "COMFORTER",
-        "url": "https://open.spotify.com/album/1yMwbTznm77BRUYdjMOT4f"
-      },
-      "artists": [
-        {
-          "name": "IMRHAN",
-          "url": "https://open.spotify.com/artist/1q4putin60VdRXfDSTl5f3"
-        }
-      ],
-      "duration_ms": 215600,
-      "name": "COMFORTER",
-      "url": "https://open.spotify.com/track/7oz86G4TGts39AteYoDn0F"
     },
     {
       "added_at": "2026-04-25 05:41:41",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2026-04-25 05:41:41",
       "album": {
+        "name": "Come Home",
+        "url": "https://open.spotify.com/album/6tatgifNJ5FMNp7UmkAF3X"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        }
+      ],
+      "duration_ms": 237537,
+      "name": "Come Home",
+      "url": "https://open.spotify.com/track/5TBHXqbrK6YDOwn2VIjmpp"
+    },
+    {
+      "added_at": "2026-04-25 05:41:41",
+      "album": {
         "name": "Down (Remix)",
         "url": "https://open.spotify.com/album/6MP2d8QD6j3K9xAETIKxPD"
       },
@@ -1035,42 +1051,6 @@
     {
       "added_at": "2026-04-25 05:41:41",
       "album": {
-        "name": "Can't Stop Me Now (Gregatron Remix)",
-        "url": "https://open.spotify.com/album/3K2wuCt4XibD9h49gkbKPn"
-      },
-      "artists": [
-        {
-          "name": "Derek Minor",
-          "url": "https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B"
-        },
-        {
-          "name": "Gregatron",
-          "url": "https://open.spotify.com/artist/4UAW2WE55RisozVgdh7rQX"
-        }
-      ],
-      "duration_ms": 142588,
-      "name": "Can't Stop Me Now - Gregatron Remix",
-      "url": "https://open.spotify.com/track/3UMrk48HddibQGSFS9Q6T8"
-    },
-    {
-      "added_at": "2026-04-25 05:41:41",
-      "album": {
-        "name": "Come Home",
-        "url": "https://open.spotify.com/album/6tatgifNJ5FMNp7UmkAF3X"
-      },
-      "artists": [
-        {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
-        }
-      ],
-      "duration_ms": 237537,
-      "name": "Come Home",
-      "url": "https://open.spotify.com/track/5TBHXqbrK6YDOwn2VIjmpp"
-    },
-    {
-      "added_at": "2026-04-25 05:41:41",
-      "album": {
         "name": "Hold Me Close",
         "url": "https://open.spotify.com/album/45Plgghf1OZa2gMqh1kUzj"
       },
@@ -1087,18 +1067,22 @@
     {
       "added_at": "2026-04-25 05:41:41",
       "album": {
-        "name": "FOOTSTOOL",
-        "url": "https://open.spotify.com/album/2zjfTl1Q8Us5jVBWdfpEiZ"
+        "name": "Can't Stop Me Now (Gregatron Remix)",
+        "url": "https://open.spotify.com/album/3K2wuCt4XibD9h49gkbKPn"
       },
       "artists": [
         {
-          "name": "Mitch Wong",
-          "url": "https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39"
+          "name": "Derek Minor",
+          "url": "https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B"
+        },
+        {
+          "name": "Gregatron",
+          "url": "https://open.spotify.com/artist/4UAW2WE55RisozVgdh7rQX"
         }
       ],
-      "duration_ms": 249750,
-      "name": "FOOTSTOOL",
-      "url": "https://open.spotify.com/track/2zAKR2tfF6zeWE9tHWpMXw"
+      "duration_ms": 142588,
+      "name": "Can't Stop Me Now - Gregatron Remix",
+      "url": "https://open.spotify.com/track/3UMrk48HddibQGSFS9Q6T8"
     },
     {
       "added_at": "2026-04-25 05:41:41",
@@ -1123,18 +1107,18 @@
     {
       "added_at": "2026-04-25 05:41:41",
       "album": {
-        "name": "Closer Than You Think",
-        "url": "https://open.spotify.com/album/3ZPJpdPrrLgi4rxoXSYLKP"
+        "name": "FOOTSTOOL",
+        "url": "https://open.spotify.com/album/2zjfTl1Q8Us5jVBWdfpEiZ"
       },
       "artists": [
         {
-          "name": "Jonathan Traylor",
-          "url": "https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo"
+          "name": "Mitch Wong",
+          "url": "https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39"
         }
       ],
-      "duration_ms": 156384,
-      "name": "I'm Good",
-      "url": "https://open.spotify.com/track/6AKnOJ94EuWu0DJnvMt6xU"
+      "duration_ms": 249750,
+      "name": "FOOTSTOOL",
+      "url": "https://open.spotify.com/track/2zAKR2tfF6zeWE9tHWpMXw"
     },
     {
       "added_at": "2026-04-25 05:41:41",
@@ -1159,18 +1143,18 @@
     {
       "added_at": "2026-04-25 05:41:41",
       "album": {
-        "name": "Best Thing - Summer 2022",
-        "url": "https://open.spotify.com/album/0scWMv27dJB9TeLkiA2g7s"
+        "name": "Closer Than You Think",
+        "url": "https://open.spotify.com/album/3ZPJpdPrrLgi4rxoXSYLKP"
       },
       "artists": [
         {
-          "name": "Rock City Worship",
-          "url": "https://open.spotify.com/artist/3yAv8udgy9z6yF6rREcgfB"
+          "name": "Jonathan Traylor",
+          "url": "https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo"
         }
       ],
-      "duration_ms": 182593,
-      "name": "Deeper",
-      "url": "https://open.spotify.com/track/2X8mAkdiXXxFdcDGQ4Og13"
+      "duration_ms": 156384,
+      "name": "I'm Good",
+      "url": "https://open.spotify.com/track/6AKnOJ94EuWu0DJnvMt6xU"
     },
     {
       "added_at": "2026-04-25 05:41:41",
@@ -1191,6 +1175,22 @@
       "duration_ms": 150000,
       "name": "FOUGHT 4 LOVE",
       "url": "https://open.spotify.com/track/4Sor9OP41KfK7AB9uJYYM1"
+    },
+    {
+      "added_at": "2026-04-25 05:41:41",
+      "album": {
+        "name": "Best Thing - Summer 2022",
+        "url": "https://open.spotify.com/album/0scWMv27dJB9TeLkiA2g7s"
+      },
+      "artists": [
+        {
+          "name": "Rock City Worship",
+          "url": "https://open.spotify.com/artist/3yAv8udgy9z6yF6rREcgfB"
+        }
+      ],
+      "duration_ms": 182593,
+      "name": "Deeper",
+      "url": "https://open.spotify.com/track/2X8mAkdiXXxFdcDGQ4Og13"
     },
     {
       "added_at": "2026-04-25 05:41:41",
@@ -1295,26 +1295,6 @@
     {
       "added_at": "2026-04-25 05:41:41",
       "album": {
-        "name": "Need You",
-        "url": "https://open.spotify.com/album/4sE3LUKKl1Gy8BBS1AOVsD"
-      },
-      "artists": [
-        {
-          "name": "Marie Love",
-          "url": "https://open.spotify.com/artist/5K9zbxy7ezNSd4Jj5DUR2h"
-        },
-        {
-          "name": "Saint James",
-          "url": "https://open.spotify.com/artist/0i3IFzWtRtl3IDWx6GhECi"
-        }
-      ],
-      "duration_ms": 209230,
-      "name": "Need You",
-      "url": "https://open.spotify.com/track/7mNhPcVlfiwviMs1vFJqvq"
-    },
-    {
-      "added_at": "2026-04-25 05:41:41",
-      "album": {
         "name": "All I Need",
         "url": "https://open.spotify.com/album/7K0EeJpsv14BmQvW3uizuD"
       },
@@ -1331,6 +1311,26 @@
       "duration_ms": 186582,
       "name": "All I Need",
       "url": "https://open.spotify.com/track/4vmV6mDATpb0b2EWBVxoaT"
+    },
+    {
+      "added_at": "2026-04-25 05:41:41",
+      "album": {
+        "name": "Need You",
+        "url": "https://open.spotify.com/album/4sE3LUKKl1Gy8BBS1AOVsD"
+      },
+      "artists": [
+        {
+          "name": "Marie Love",
+          "url": "https://open.spotify.com/artist/5K9zbxy7ezNSd4Jj5DUR2h"
+        },
+        {
+          "name": "Saint James",
+          "url": "https://open.spotify.com/artist/0i3IFzWtRtl3IDWx6GhECi"
+        }
+      ],
+      "duration_ms": 209230,
+      "name": "Need You",
+      "url": "https://open.spotify.com/track/7mNhPcVlfiwviMs1vFJqvq"
     },
     {
       "added_at": "2026-04-25 05:41:41",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2026-04-25 05:41:41",
       "album": {
-        "name": "Hills & Horizons",
-        "url": "https://open.spotify.com/album/6kxY4y9rGrWpnhofahze9h"
-      },
-      "artists": [
-        {
-          "name": "Futures",
-          "url": "https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3"
-        }
-      ],
-      "duration_ms": 212186,
-      "name": "Hills & Horizons",
-      "url": "https://open.spotify.com/track/2V4l1eFzP7imN2HrWmDHxy"
-    },
-    {
-      "added_at": "2026-04-25 05:41:41",
-      "album": {
         "name": "SHOUT IT DOWN",
         "url": "https://open.spotify.com/album/2ErBak2iJlBGMNbi8SqMZR"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 179420,
       "name": "Only Ever Always",
       "url": "https://open.spotify.com/track/2XwqIUqh74AJYwdE6t8NnR"
+    },
+    {
+      "added_at": "2026-04-25 05:41:41",
+      "album": {
+        "name": "Hills & Horizons",
+        "url": "https://open.spotify.com/album/6kxY4y9rGrWpnhofahze9h"
+      },
+      "artists": [
+        {
+          "name": "Futures",
+          "url": "https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3"
+        }
+      ],
+      "duration_ms": 212186,
+      "name": "Hills & Horizons",
+      "url": "https://open.spotify.com/track/2V4l1eFzP7imN2HrWmDHxy"
     },
     {
       "added_at": "2026-04-25 05:41:41",
@@ -1683,6 +1683,26 @@
     {
       "added_at": "2026-04-25 05:41:41",
       "album": {
+        "name": "sleepwalking (from Young Pop Renegades, Vol. 2)",
+        "url": "https://open.spotify.com/album/70C3rT1zUU1l3PZ4IMBvyf"
+      },
+      "artists": [
+        {
+          "name": "Matthew Parker",
+          "url": "https://open.spotify.com/artist/0QT3cPPXMGYtTG3kN8Ez54"
+        },
+        {
+          "name": "Ike Smith",
+          "url": "https://open.spotify.com/artist/1BxifuT3ryEscHKHh9hPZ8"
+        }
+      ],
+      "duration_ms": 195800,
+      "name": "sleepwalking (from Young Pop Renegades, Vol. 2)",
+      "url": "https://open.spotify.com/track/6qqulMB60PXf1ybiSDhhA5"
+    },
+    {
+      "added_at": "2026-04-25 05:41:41",
+      "album": {
         "name": "Stuck To You",
         "url": "https://open.spotify.com/album/4Tcvfm9rywGwVu3EVBpM22"
       },
@@ -1703,26 +1723,6 @@
       "duration_ms": 175636,
       "name": "Stuck To You",
       "url": "https://open.spotify.com/track/4YcgoX1w8bc67qM7or2Wdh"
-    },
-    {
-      "added_at": "2026-04-25 05:41:41",
-      "album": {
-        "name": "sleepwalking (from Young Pop Renegades, Vol. 2)",
-        "url": "https://open.spotify.com/album/70C3rT1zUU1l3PZ4IMBvyf"
-      },
-      "artists": [
-        {
-          "name": "Matthew Parker",
-          "url": "https://open.spotify.com/artist/0QT3cPPXMGYtTG3kN8Ez54"
-        },
-        {
-          "name": "Ike Smith",
-          "url": "https://open.spotify.com/artist/1BxifuT3ryEscHKHh9hPZ8"
-        }
-      ],
-      "duration_ms": 195800,
-      "name": "sleepwalking (from Young Pop Renegades, Vol. 2)",
-      "url": "https://open.spotify.com/track/6qqulMB60PXf1ybiSDhhA5"
     },
     {
       "added_at": "2026-04-25 05:41:41",
@@ -1851,18 +1851,26 @@
     {
       "added_at": "2026-04-25 05:41:41",
       "album": {
-        "name": "Start Right Now",
-        "url": "https://open.spotify.com/album/0DPOGBL5n3QYfrBufbvnK8"
+        "name": "Thankful",
+        "url": "https://open.spotify.com/album/6i51R5QgBQu6ynxVLkpA0a"
       },
       "artists": [
         {
-          "name": "Run51",
-          "url": "https://open.spotify.com/artist/1qC0iwCgdWNwJM1KCxbX10"
+          "name": "Sound Haven",
+          "url": "https://open.spotify.com/artist/1kwQGKUN2oMZi8TpPf7Bag"
+        },
+        {
+          "name": "Za Smith",
+          "url": "https://open.spotify.com/artist/4XtxlaWuCCmOs0MpZp4t7X"
+        },
+        {
+          "name": "Maddi Jane",
+          "url": "https://open.spotify.com/artist/6p0HFtE6QhdHNY1H4Nk0mo"
         }
       ],
-      "duration_ms": 192876,
-      "name": "Start Right Now",
-      "url": "https://open.spotify.com/track/6WT10ADn9Y5pUgNvSJQclM"
+      "duration_ms": 166862,
+      "name": "Thankful",
+      "url": "https://open.spotify.com/track/6rGoI3PrGO9swDjo4CGHLs"
     }
   ],
   "unique_name": "Christian Party",

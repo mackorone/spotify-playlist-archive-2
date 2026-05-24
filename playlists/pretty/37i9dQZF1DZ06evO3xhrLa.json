@@ -1,12 +1,12 @@
 {
   "description": "This is Jhen\u00e9 Aiko. The essential tracks, all in one playlist.",
-  "num_followers": 245935,
+  "num_followers": 245952,
   "original_name": "This Is Jhen\u00e9 Aiko",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ag5LAAAAAAC2B3v678smAjng/MbQDwl+",
+  "snapshot_id": "ag+cgAAAAADAc33OqPuyLD0ZFSRrX4ID",
   "tracks": [
     {
       "added_at": null,
@@ -139,26 +139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nothing Was The Same (Deluxe)",
-        "url": "https://open.spotify.com/album/2ZUFSbIkmFkGag000RWOpA"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        }
-      ],
-      "duration_ms": 322160,
-      "name": "From Time",
-      "url": "https://open.spotify.com/track/2WC4sK0ryyysQhtDok9Ytr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dark Sky Paradise",
         "url": "https://open.spotify.com/album/1j2x7FJXTgUT0X5hZ8TDXE"
       },
@@ -175,6 +155,26 @@
       "duration_ms": 319973,
       "name": "I Know",
       "url": "https://open.spotify.com/track/6rje9f1wRFJDO2iTORw0lH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nothing Was The Same (Deluxe)",
+        "url": "https://open.spotify.com/album/2ZUFSbIkmFkGag000RWOpA"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "duration_ms": 322160,
+      "name": "From Time",
+      "url": "https://open.spotify.com/track/2WC4sK0ryyysQhtDok9Ytr"
     },
     {
       "added_at": null,
@@ -731,6 +731,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "calm & patient",
+        "url": "https://open.spotify.com/album/0lVHZDJCaXbth0EkXrQlFg"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "calm & patient",
+      "url": "https://open.spotify.com/track/5FxKXIwFBKb2eWSwJ523sp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Shang-Chi and The Legend of The Ten Rings: The Album",
         "url": "https://open.spotify.com/album/2kAqjStKcwlDD59H0llhGC"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 161146,
       "name": "In The Dark (with Jhen\u00e9 Aiko)",
       "url": "https://open.spotify.com/track/0zaoWwS8RpE3LSDdmkg8TC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "calm & patient",
-        "url": "https://open.spotify.com/album/0lVHZDJCaXbth0EkXrQlFg"
-      },
-      "artists": [
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "calm & patient",
-      "url": "https://open.spotify.com/track/5FxKXIwFBKb2eWSwJ523sp"
     },
     {
       "added_at": null,

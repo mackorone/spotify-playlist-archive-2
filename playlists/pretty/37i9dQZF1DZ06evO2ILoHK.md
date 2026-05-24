@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ILoHK.md) - [plain]
 
 > This is Basement\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,850 likes - 41 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,857 likes - 41 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,11 +27,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ILoHK.md) - [plain]
 | 17 | [Promise Everything](https://open.spotify.com/track/1KdeXVG6x4MsjbAnjiAzbT) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [Promise Everything \(Deluxe\)](https://open.spotify.com/album/2Ic7SVaZu6loRXczS4VfYP) | 2:37 |
 | 18 | [Bad Apple](https://open.spotify.com/track/0k17MALHbaR6i6879Wasql) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [Colourmeinkindness](https://open.spotify.com/album/5uRI7KHcBALPpwhAB9RKnb) | 2:57 |
 | 19 | [Earl Grey](https://open.spotify.com/track/2cQwslOlA0ICGxSLm2Dv54) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [I Wish I Could Stay Here](https://open.spotify.com/album/50q9wsn54FNDpVV7S7idOG) | 2:34 |
-| 20 | [Pick Up The Pieces](https://open.spotify.com/track/6rsSgqHQcIhYE95F2tTSMU) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [WIRED](https://open.spotify.com/album/2ZOCPqWk1v5UXSBHqOC151) | 2:59 |
+| 20 | [The Way I Feel](https://open.spotify.com/track/20BjBJ6ecypTtbEUbceHgS) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [WIRED](https://open.spotify.com/album/2ZOCPqWk1v5UXSBHqOC151) | 2:51 |
 | 21 | [Brother's Keeper](https://open.spotify.com/track/481wkzrQ20aCvtlvhtLLcb) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [Promise Everything \(Deluxe\)](https://open.spotify.com/album/2Ic7SVaZu6loRXczS4VfYP) | 2:59 |
 | 22 | [Comfort](https://open.spotify.com/track/3hMDOqyTB73cXHaTnu9WhL) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [Colourmeinkindness](https://open.spotify.com/album/5uRI7KHcBALPpwhAB9RKnb) | 2:19 |
 | 23 | [Slip Away](https://open.spotify.com/track/4hI8PLtF0C3JBSUG5EsQtv) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [Beside Myself](https://open.spotify.com/album/6GR8EnywUgDFHmqUHO19RO) | 2:57 |
-| 24 | [The Way I Feel](https://open.spotify.com/track/20BjBJ6ecypTtbEUbceHgS) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [WIRED](https://open.spotify.com/album/2ZOCPqWk1v5UXSBHqOC151) | 2:51 |
+| 24 | [Pick Up The Pieces](https://open.spotify.com/track/6rsSgqHQcIhYE95F2tTSMU) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [WIRED](https://open.spotify.com/album/2ZOCPqWk1v5UXSBHqOC151) | 2:59 |
 | 25 | [Hanging Around](https://open.spotify.com/track/5TguI7v9jn9sMCVM8GzfzF) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [Promise Everything \(Deluxe\)](https://open.spotify.com/album/2Ic7SVaZu6loRXczS4VfYP) | 2:58 |
 | 26 | [Summer's Colour](https://open.spotify.com/track/2hcvWC5XQHYhjH0oGEbsxr) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [Further Sky](https://open.spotify.com/album/4CrgB7WMpE0HqqRuLsngbX) | 3:31 |
 | 27 | [Fading](https://open.spotify.com/track/65YBMd52GBPoICHwox2TsG) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [I Wish I Could Stay Here](https://open.spotify.com/album/50q9wsn54FNDpVV7S7idOG) | 2:16 |
@@ -43,11 +43,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ILoHK.md) - [plain]
 | 33 | [Meet Me In St\. Louis](https://open.spotify.com/track/40I5U24KYHNKMkRf4jXZ9D) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [Songs About The Weather](https://open.spotify.com/album/3Alr3YRWtyH8J315fqb9wT) | 2:10 |
 | 34 | [Canada Square](https://open.spotify.com/track/3kxwJBSk2hvzMtYnek6aFW) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [I Wish I Could Stay Here](https://open.spotify.com/album/50q9wsn54FNDpVV7S7idOG) | 4:08 |
 | 35 | [Ultraviolet](https://open.spotify.com/track/1uNsNmK3BoXyZLHIrsIhYA) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [Beside Myself](https://open.spotify.com/album/6GR8EnywUgDFHmqUHO19RO) | 3:56 |
-| 36 | [Intro](https://open.spotify.com/track/6HQazh5h0nLMuKR3R6lauX) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [Songs About The Weather](https://open.spotify.com/album/3Alr3YRWtyH8J315fqb9wT) | 0:37 |
+| 36 | [White Elephant](https://open.spotify.com/track/4Oq6yOs0L5Dfa7f3pxkQfq) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [Songs About The Weather](https://open.spotify.com/album/3Alr3YRWtyH8J315fqb9wT) | 2:46 |
 | 37 | [Yoke](https://open.spotify.com/track/6pmNRKHIbO8hTmhLNZpA0p) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [I Wish I Could Stay Here](https://open.spotify.com/album/50q9wsn54FNDpVV7S7idOG) | 2:25 |
 | 38 | [Right Here](https://open.spotify.com/track/5c8JiWMPVKCpNyLyFJZvpa) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [Beside Myself](https://open.spotify.com/album/6GR8EnywUgDFHmqUHO19RO) | 4:07 |
-| 39 | [White Elephant](https://open.spotify.com/track/4Oq6yOs0L5Dfa7f3pxkQfq) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [Songs About The Weather](https://open.spotify.com/album/3Alr3YRWtyH8J315fqb9wT) | 2:46 |
+| 39 | [Intro](https://open.spotify.com/track/6HQazh5h0nLMuKR3R6lauX) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [Songs About The Weather](https://open.spotify.com/album/3Alr3YRWtyH8J315fqb9wT) | 0:37 |
 | 40 | [Skip Town](https://open.spotify.com/track/1o3Y7eA193VOMIt1CLnERJ) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [Songs About The Weather](https://open.spotify.com/album/3Alr3YRWtyH8J315fqb9wT) | 2:03 |
 | 41 | [1104 Porter St](https://open.spotify.com/track/11Cf39LSlZmTUBGLoP8jCx) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [Songs About The Weather](https://open.spotify.com/album/3Alr3YRWtyH8J315fqb9wT) | 2:04 |
 
-Snapshot ID: `ag5LAAAAAAD+YkkMHsTV8BoowS+d4O7k`
+Snapshot ID: `ag+cgAAAAACejA0z0YWMQlVHRbzKcn+R`

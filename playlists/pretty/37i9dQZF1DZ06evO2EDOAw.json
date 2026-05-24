@@ -1,12 +1,12 @@
 {
   "description": "This is Kierra Sheard. The essential tracks, all in one playlist.",
-  "num_followers": 5345,
+  "num_followers": 5347,
   "original_name": "This Is Kierra Sheard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ag5LAAAAAABGfGYdhBGB3Xn8nQRYkfnj",
+  "snapshot_id": "ag+cgAAAAACx4ktcQO+w6ic3WQTqgzw/",
   "tracks": [
     {
       "added_at": null,
@@ -239,6 +239,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "TIME4U",
+        "url": "https://open.spotify.com/album/2JCdMFHzN7pXgVvd5ZfdmD"
+      },
+      "artists": [
+        {
+          "name": "Mike Teezy",
+          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
+        },
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        }
+      ],
+      "duration_ms": 198224,
+      "name": "TIME4U",
+      "url": "https://open.spotify.com/track/6UkLP9494oVYBwPOVJE3J9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Something Has To Break (Live)",
         "url": "https://open.spotify.com/album/3LaQJBdbNWCJqmLD3UVYgQ"
       },
@@ -259,26 +279,6 @@
       "duration_ms": 552816,
       "name": "Something Has To Break - Live",
       "url": "https://open.spotify.com/track/13rnHQg0NSVGFItl3FoOty"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "TIME4U",
-        "url": "https://open.spotify.com/album/2JCdMFHzN7pXgVvd5ZfdmD"
-      },
-      "artists": [
-        {
-          "name": "Mike Teezy",
-          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
-        },
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        }
-      ],
-      "duration_ms": 198224,
-      "name": "TIME4U",
-      "url": "https://open.spotify.com/track/6UkLP9494oVYBwPOVJE3J9"
     },
     {
       "added_at": null,
@@ -603,42 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "This Is Me",
-        "url": "https://open.spotify.com/album/4PCQU5pErsJUnQXdFmsErB"
-      },
-      "artists": [
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        }
-      ],
-      "duration_ms": 206413,
-      "name": "Why Me?",
-      "url": "https://open.spotify.com/track/6ItKcRkVTfe9YdKC0zFaB6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Heavens Are Telling",
-        "url": "https://open.spotify.com/album/4TTBacnUB2sdzTCfsZ0nzO"
-      },
-      "artists": [
-        {
-          "name": "Karen Clark Sheard",
-          "url": "https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1"
-        },
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        }
-      ],
-      "duration_ms": 403906,
-      "name": "You Loved Me (feat. Kierra \"Kiki\" Sheard)",
-      "url": "https://open.spotify.com/track/2RMF24OOSi0TcIa51bAFLe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Harmonious: Globally Inspired Music from the EPCOT Nighttime Spectacular (Original Soundtrack)",
         "url": "https://open.spotify.com/album/6EL24CvOJteuYgnNG7xuJs"
       },
@@ -663,6 +627,42 @@
       "duration_ms": 162295,
       "name": "U.S.A.",
       "url": "https://open.spotify.com/track/1q0agJXvSQOkiU1t7CcBiJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Heavens Are Telling",
+        "url": "https://open.spotify.com/album/4TTBacnUB2sdzTCfsZ0nzO"
+      },
+      "artists": [
+        {
+          "name": "Karen Clark Sheard",
+          "url": "https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1"
+        },
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        }
+      ],
+      "duration_ms": 403906,
+      "name": "You Loved Me (feat. Kierra \"Kiki\" Sheard)",
+      "url": "https://open.spotify.com/track/2RMF24OOSi0TcIa51bAFLe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "This Is Me",
+        "url": "https://open.spotify.com/album/4PCQU5pErsJUnQXdFmsErB"
+      },
+      "artists": [
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        }
+      ],
+      "duration_ms": 206413,
+      "name": "Why Me?",
+      "url": "https://open.spotify.com/track/6ItKcRkVTfe9YdKC0zFaB6"
     },
     {
       "added_at": null,
@@ -803,26 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Royalty: Live At The Ryman",
-        "url": "https://open.spotify.com/album/2TumCYVu9ozTqrttuH0Vkw"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        },
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        }
-      ],
-      "duration_ms": 547048,
-      "name": "You Must Break - Live",
-      "url": "https://open.spotify.com/track/0VKBh0ADbBSiDbvB97NuqK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "GRACELAND",
         "url": "https://open.spotify.com/album/7CeLcdXA8rCbkZSbmZYM0S"
       },
@@ -887,6 +867,26 @@
       "duration_ms": 217911,
       "name": "Never Leave",
       "url": "https://open.spotify.com/track/1NSNj15GXQC9TIEQ7n6ALS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Royalty: Live At The Ryman",
+        "url": "https://open.spotify.com/album/2TumCYVu9ozTqrttuH0Vkw"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        },
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        }
+      ],
+      "duration_ms": 547048,
+      "name": "You Must Break - Live",
+      "url": "https://open.spotify.com/track/0VKBh0ADbBSiDbvB97NuqK"
     },
     {
       "added_at": null,
@@ -1039,22 +1039,54 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rise",
-        "url": "https://open.spotify.com/album/1qCUfjDUf4kJUl4nJv6bVz"
+        "name": "LEPER'S SONG",
+        "url": "https://open.spotify.com/album/6HInbqJya1khkvG5XbqBOk"
       },
       "artists": [
         {
-          "name": "Danny Gokey",
-          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
+          "name": "Travis Greene",
+          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
         },
         {
           "name": "Kierra Sheard",
           "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
         }
       ],
-      "duration_ms": 189392,
-      "name": "Better Than I Found It (feat. Kierra Sheard)",
-      "url": "https://open.spotify.com/track/0q7Y6vWAbhqL0SUFfv8aET"
+      "duration_ms": 236359,
+      "name": "LEPER'S SONG",
+      "url": "https://open.spotify.com/track/0C8vIv1S8WiFnQz9yLvqJT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "KIERRA",
+        "url": "https://open.spotify.com/album/2twow9qKoLnhZO8FDjw82a"
+      },
+      "artists": [
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        }
+      ],
+      "duration_ms": 265089,
+      "name": "Always Win (Live)",
+      "url": "https://open.spotify.com/track/1Ur4Zqu0VxvkNzFCElyHM2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All Yours",
+        "url": "https://open.spotify.com/album/2TWc9Cf3k6VV7s8wGOjXhk"
+      },
+      "artists": [
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        }
+      ],
+      "duration_ms": 205178,
+      "name": "Mo' Better",
+      "url": "https://open.spotify.com/track/5OblpdryT79xB9YHHu9vnL"
     },
     {
       "added_at": null,
@@ -1079,34 +1111,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "All Yours",
-        "url": "https://open.spotify.com/album/2TWc9Cf3k6VV7s8wGOjXhk"
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/1qCUfjDUf4kJUl4nJv6bVz"
       },
       "artists": [
+        {
+          "name": "Danny Gokey",
+          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
+        },
         {
           "name": "Kierra Sheard",
           "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
         }
       ],
-      "duration_ms": 205178,
-      "name": "Mo' Better",
-      "url": "https://open.spotify.com/track/5OblpdryT79xB9YHHu9vnL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "KIERRA",
-        "url": "https://open.spotify.com/album/2twow9qKoLnhZO8FDjw82a"
-      },
-      "artists": [
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        }
-      ],
-      "duration_ms": 265089,
-      "name": "Always Win (Live)",
-      "url": "https://open.spotify.com/track/1Ur4Zqu0VxvkNzFCElyHM2"
+      "duration_ms": 189392,
+      "name": "Better Than I Found It (feat. Kierra Sheard)",
+      "url": "https://open.spotify.com/track/0q7Y6vWAbhqL0SUFfv8aET"
     },
     {
       "added_at": null,
@@ -1127,22 +1147,6 @@
       "duration_ms": 196988,
       "name": "Paid It All",
       "url": "https://open.spotify.com/track/4wzFepzEcy21hrLGpk4PxI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bold Right Life",
-        "url": "https://open.spotify.com/album/2bXPdUw4c2lrvVQaxXzIwB"
-      },
-      "artists": [
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        }
-      ],
-      "duration_ms": 229840,
-      "name": "Praise Him Now",
-      "url": "https://open.spotify.com/track/6dzvHYU9p50AWJshDhqZVa"
     }
   ],
   "unique_name": "This Is Kierra Sheard",

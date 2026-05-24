@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXL5bWfnjoIL.md) - [plain]
 
 > Enjoy music from "CHIBI MARUKO CHAN"! ©SAKURA PRODUCTION/NIPPON ANIMATION
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,813 likes - 29 songs - 1 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,844 likes - 29 songs - 1 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

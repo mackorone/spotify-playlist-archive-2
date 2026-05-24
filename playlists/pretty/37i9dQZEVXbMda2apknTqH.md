@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMda2apknTqH.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Canada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,764 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,770 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMda2apknTqH.md) - [plain]
 | 49 | [New Bestie](https://open.spotify.com/track/5dYyoRxPWVaV36XSD49yGS) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [MAID OF HONOUR](https://open.spotify.com/album/71yBvOeRZ9os9LYFEy9eOk) | 4:19 |
 | 50 | [Riptide](https://open.spotify.com/track/2uXlHCUbq9OMUwx3hrk06o) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Deluxe Edition\)](https://open.spotify.com/album/2biVG6BYnVVSwLYd1OjbPT) | 3:24 |
 
-Snapshot ID: `MaPLUAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MaUfKAAAAAAAAAAAAAAAAAAAAAAAAGVu`

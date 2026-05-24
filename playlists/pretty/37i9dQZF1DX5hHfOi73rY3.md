@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hHfOi73rY3.md) - [plain]
 
 > Dance anthems from the club to your ears!
 
-[Spotify](https://open.spotify.com/user/spotify) - 324,953 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 324,992 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Victory Lap](https://open.spotify.com/track/1lbNgoJ5iMrMluCyhI4OQP) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [PlaqueBoyMax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS) | [Victory Lap](https://open.spotify.com/album/1wD2xMSjGRFSVX8zkFEuMo) | 2:45 |
-| 2 | [Free Your Mind](https://open.spotify.com/track/6TWbY1dq8eYtFiMiGdBlOa) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb), [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR) | [Free Your Mind](https://open.spotify.com/album/0uo2O3BcYrZJzCnHk0I0BU) | 3:21 |
+| 1 | [Free Your Mind](https://open.spotify.com/track/6TWbY1dq8eYtFiMiGdBlOa) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb), [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR) | [Free Your Mind](https://open.spotify.com/album/0uo2O3BcYrZJzCnHk0I0BU) | 3:21 |
+| 2 | [Victory Lap](https://open.spotify.com/track/1lbNgoJ5iMrMluCyhI4OQP) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [PlaqueBoyMax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS) | [Victory Lap](https://open.spotify.com/album/1wD2xMSjGRFSVX8zkFEuMo) | 2:45 |
 | 3 | [Back in the Streets](https://open.spotify.com/track/0UxnhnIwvPayOUU5JlCE6P) | [Hotboxx](https://open.spotify.com/artist/2xnJfZkR6JiCoWz3e2B5zD), [Justin Garcia](https://open.spotify.com/artist/1M8O4b6jTq2K2iJxrDXG5x) | [Back in the Streets](https://open.spotify.com/album/5UJcqXGPkLb76sRSgWoTqz) | 4:58 |
 | 4 | [Ma Tnsani \(Yalla Habibi\)](https://open.spotify.com/track/01WFjqzUwrD4nfSQsHMVNm) | [Vanco](https://open.spotify.com/artist/2KShewLkb92FKEZ6N4cVP9), [AYA](https://open.spotify.com/artist/0HWD0Gp5nnU5zcDAc03f9q) | [Ma Tnsani \(Yalla Habibi\)](https://open.spotify.com/album/6MGyF6TkUOAW3g3ygaUn1n) | 3:40 |
 | 5 | [Gets Like That \- Jamie Jones Remix](https://open.spotify.com/track/0axzZ7BBLs8n6XXkheqX3W) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji), [Max Dean](https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc), [Luke Dean](https://open.spotify.com/artist/2BhXOZ96YbOdXz8F6HVUw4) | [Gets Like That \(Jamie Jones Remix\)](https://open.spotify.com/album/2pIThEiymteX1pfyoQAd3G) | 3:43 |

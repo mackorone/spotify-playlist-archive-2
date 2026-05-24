@@ -4,13 +4,14 @@
 
 > This is Leon Thomas\. The essential tracks, all in one playlist.
 
-53 songs - 3 hr 0 min
+55 songs - 3 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [5MoreMinutes](https://open.spotify.com/track/5mf4gJaGjD5VAjOHDOo3mU) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [PHOLKS](https://open.spotify.com/album/6ph5zbGAudn0EKyw3vXbXM) | 3:10 | 2025-12-30 |  |
 | [act xi: she ain’t no angel](https://open.spotify.com/track/0hRE77xggFCr9fDitZgBE0) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Still Shinin](https://open.spotify.com/album/5NUNaj9pyIjcNd5e9ObgzE) | 2:17 | 2025-12-30 |  |
-| [Baccarat](https://open.spotify.com/track/1GSzTqP3zakZwmBXD2cyCf) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [PHOLKS](https://open.spotify.com/album/6ph5zbGAudn0EKyw3vXbXM) | 3:37 | 2025-12-30 |  |
+| [All That Matters \(with Leon Thomas & AZ Chike\)](https://open.spotify.com/track/0k0Fj2tp6jGWLGR0HevNYP) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [AZ Chike](https://open.spotify.com/artist/6fqjJNsLs7g6F3PXy01Xnw) | [Love is the New Gangsta](https://open.spotify.com/album/0DUJdzFUyxiNUheVGbdWrd) | 3:43 | 2026-05-24 |  |
+| [Baccarat](https://open.spotify.com/track/1GSzTqP3zakZwmBXD2cyCf) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [PHOLKS](https://open.spotify.com/album/6ph5zbGAudn0EKyw3vXbXM) | 3:37 | 2025-12-30 | 2026-05-24 |
 | [Beg](https://open.spotify.com/track/3lRXoxtNXehoTBFinymrhE) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Elle Varner](https://open.spotify.com/artist/7zmk5lkmCMVvfvwF3H8FWC) | [Genesis](https://open.spotify.com/album/6RXMHSqYlYAEpDsNYYBj6B) | 3:33 | 2025-12-30 |  |
 | [Blessing](https://open.spotify.com/track/45zrnAiNUXD7MgDoKgfG8V) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Genesis](https://open.spotify.com/album/6RXMHSqYlYAEpDsNYYBj6B) | 1:51 | 2025-12-30 |  |
 | [Breaking Point](https://open.spotify.com/track/1vHTfYiYGGwgqM2XmMCtZY) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Electric Dusk](https://open.spotify.com/album/5u7OrPu6BbadcZNWuH10VT) | 4:53 | 2025-12-30 |  |
@@ -52,7 +53,8 @@
 | [Slow Down](https://open.spotify.com/track/4DfCzjuGvK8xq6g6e1EpoE) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Electric Dusk](https://open.spotify.com/album/5u7OrPu6BbadcZNWuH10VT) | 3:14 | 2025-12-30 |  |
 | [Sneak](https://open.spotify.com/track/17InvVlFT4I30J7mdeuorn) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Electric Dusk](https://open.spotify.com/album/5u7OrPu6BbadcZNWuH10VT) | 2:59 | 2025-12-30 |  |
 | [Sunken Place](https://open.spotify.com/track/6QcSxvbao47AlbYOPv9nqv) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Genesis](https://open.spotify.com/album/6RXMHSqYlYAEpDsNYYBj6B) | 3:27 | 2025-12-30 |  |
-| [Sweet Nuthins \(feat\. Leon Thomas\)](https://open.spotify.com/track/7qa1DytPRohFzfOarz6orJ) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Sweet Nuthins \(feat\. Leon Thomas\)](https://open.spotify.com/album/4OIEqxUAhJ3fxEVqf5L9GB) | 2:42 | 2026-04-26 |  |
+| [Sweet Nuthins \(feat\. Leon Thomas\)](https://open.spotify.com/track/6Q1biSMDWjVrtpcZNeAd5A) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Kehlani](https://open.spotify.com/album/2xkYTmqjear3lSGydIn7wh) | 2:42 | 2026-05-24 |  |
+| [Sweet Nuthins \(feat\. Leon Thomas\)](https://open.spotify.com/track/7qa1DytPRohFzfOarz6orJ) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Sweet Nuthins \(feat\. Leon Thomas\)](https://open.spotify.com/album/4OIEqxUAhJ3fxEVqf5L9GB) | 2:42 | 2026-04-26 | 2026-05-24 |
 | [Sweetness \(feat\. Leon Thomas\)](https://open.spotify.com/track/0YEN61J5AvIRxRalXKQqBM) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Sweetness \(feat\. Leon Thomas\)](https://open.spotify.com/album/4gUzNgnWO30XubUBBsLxLE) | 4:11 | 2025-12-30 |  |
 | [Trapped](https://open.spotify.com/track/2L0iLP1aJKeLlcLk4bZgbW) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [PHOLKS](https://open.spotify.com/album/6ph5zbGAudn0EKyw3vXbXM) | 3:05 | 2025-12-30 |  |
 | [Treasure In The Hills](https://open.spotify.com/track/64TJKMfx0QxpuR7rTXL05c) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Electric Dusk](https://open.spotify.com/album/5u7OrPu6BbadcZNWuH10VT) | 3:09 | 2025-12-30 |  |

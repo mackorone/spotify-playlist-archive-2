@@ -4,7 +4,7 @@
 
 > Aquelas pra começar o dia de alma leve
 
-322 songs - 18 hr 7 min
+323 songs - 18 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Ai que Saudade D'Ocê \- Sessions](https://open.spotify.com/track/3jLkEBt841U8Nbca03XD0q) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH) | [Mariana Nolasco Sessions 2](https://open.spotify.com/album/5hOl5QyQ3r0Y9DQDoVfszF) | 2:18 | 2022-02-18 | 2025-04-14 |
 | [Ainda Lembro](https://open.spotify.com/track/2ZBSQ9JQUqFy7CSE4XALQO) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH), [Ed Motta](https://open.spotify.com/artist/19nFjml2GjS4LuL4NrDa7D) | [Mais](https://open.spotify.com/album/4G7yCesH90ez9rofC9BoJ0) | 4:10 | 2022-02-18 | 2022-07-29 |
 | [Ainda Lembro](https://open.spotify.com/track/6lNJX51MnEY2BB9EHBL3XP) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH), [Ed Motta](https://open.spotify.com/artist/19nFjml2GjS4LuL4NrDa7D) | [Mais](https://open.spotify.com/album/3hPEISGlVahSAoFUDE5m7M) | 4:10 | 2022-06-24 | 2024-04-19 |
+| [Algo Me Diz](https://open.spotify.com/track/0I2Qjv3OpCJ8kGN7emPUtz) | [Balara](https://open.spotify.com/artist/3jPnaM0ap5aM9xEe16hjgp), [Jorge Vercillo](https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs) | [Algo Me Diz](https://open.spotify.com/album/6thHdBENSsVg9O5elJfW8I) | 3:30 | 2026-05-22 |  |
 | [Algo Simples](https://open.spotify.com/track/4XO357FhpwjszG58S8eh8t) | [Califrê](https://open.spotify.com/artist/515mPwX4bpcVcTEZYKGVkg) | [Algo Simples](https://open.spotify.com/album/3Aq3gBXyMCKWeH53svhGlO) | 2:31 | 2022-04-01 | 2022-04-18 |
 | [Alguém Melhor](https://open.spotify.com/track/3xPL74iZjL7Ndl2znVQDjX) | [Joyce Alane](https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG), [Agnes Nunes](https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw) | [Quarto Coração](https://open.spotify.com/album/6o6okkJ5d9iwA0VAha2IXv) | 2:49 | 2026-05-22 |  |
 | [Aliança](https://open.spotify.com/track/5lLKJdDPy7qbsta6d88lKE) | [Tribalistas](https://open.spotify.com/artist/4laQz4PaKeh2Hu6QL6evVD) | [Tribalistas](https://open.spotify.com/album/4v3TBbpmdInhU1qpWUGBBb) | 3:56 | 2022-02-18 | 2025-04-20 |
@@ -72,7 +73,7 @@
 | [Calor e Arrepio](https://open.spotify.com/track/2XrEARXWEdoExuzJiUfgO4) | [Os Garotin](https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP), [Anchietx](https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp), [Leo Guima](https://open.spotify.com/artist/4i6YMhe65eKTuSFRKq0X1d), [Cupertino](https://open.spotify.com/artist/5olhfQdhVAQny8TB3eZrwD) | [Os Garotin Session 2](https://open.spotify.com/album/2RPmWy0aO7APLeA7ot9VRH) | 2:22 | 2025-09-05 |  |
 | [Cantinho](https://open.spotify.com/track/6lp1heMwkQlw4njiSTrjtU) | [Pedro Blum](https://open.spotify.com/artist/2mGkV2eAFSt9i83sLlD4n2) | [Cantinho](https://open.spotify.com/album/5TRpUlnfHTbzN6O0cWIo1g) | 2:55 | 2022-04-01 | 2022-06-12 |
 | [Cara a Cara \(Live Session\)](https://open.spotify.com/track/3HlqxgiaWK3DFkAN9sYpNH) | [Rodrigo Alarcon](https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ), [Sonastério](https://open.spotify.com/artist/0NTc2g91fsvvAoAgUXMUmW) | [Sonas Sessions \(Live Session\)](https://open.spotify.com/album/6F8v6e4TlUZ8oTv5IQpgMJ) | 3:40 | 2023-10-24 | 2023-11-11 |
-| [Carinha De Problema](https://open.spotify.com/track/6vbMrA3aVBPRW1ywKVDEYa) | [Clara Valverde](https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn), [CANETARIA](https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS) | [Carinha De Problema](https://open.spotify.com/album/1dABET9ANzLH053hXWtfoD) | 2:43 | 2024-01-12 |  |
+| [Carinha De Problema](https://open.spotify.com/track/6vbMrA3aVBPRW1ywKVDEYa) | [Clara Valverde](https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn), [CANETARIA](https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS) | [Carinha De Problema](https://open.spotify.com/album/1dABET9ANzLH053hXWtfoD) | 2:43 | 2024-01-12 | 2026-05-24 |
 | [Carinhoso](https://open.spotify.com/track/1M2o02mk2R0ltQcsQO7zZR) | [Jota.pê](https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN) | [Carinhoso](https://open.spotify.com/album/4HFoIAVMjeCiA69B1NQdX0) | 1:46 | 2024-11-08 |  |
 | [Carnaval a Dois \- Acústico](https://open.spotify.com/track/5eHz8dzy0WsvYEqnDpPtWN) | [Gabriel Gonti](https://open.spotify.com/artist/7BPHTWFEfvH7HPfHLU1EOg) | [Carnaval a Dois \(Acústico\)](https://open.spotify.com/album/4tMGcI3AI8sIiqiuX39EWe) | 3:11 | 2022-02-18 | 2022-07-29 |
 | [Carnaval de Salvador](https://open.spotify.com/track/1Z4O9L42qpYFkQCy0lvMHZ) | [Brolo Gonzalez](https://open.spotify.com/artist/2cvrwb2vQUWPlPy53354Bg) | [Carnaval de Salvador](https://open.spotify.com/album/5MOjunWyZe3tcv7ORSok5q) | 3:30 | 2022-04-01 | 2022-04-19 |

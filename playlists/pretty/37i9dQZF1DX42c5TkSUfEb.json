@@ -1,6 +1,6 @@
 {
   "description": "La playlist id\u00e9ale pour se d\u00e9tendre en musique.",
-  "num_followers": 897467,
+  "num_followers": 897468,
   "original_name": "Au calme",
   "owner": {
     "name": "Spotify",
@@ -283,6 +283,22 @@
     {
       "added_at": "2026-05-21 22:00:45",
       "album": {
+        "name": "Twizzler",
+        "url": "https://open.spotify.com/album/2F1Za0y4KX2xJifGiCg47z"
+      },
+      "artists": [
+        {
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+        }
+      ],
+      "duration_ms": 174349,
+      "name": "Twizzler",
+      "url": "https://open.spotify.com/track/55kn7P8aUDI3CyGx1jlCLT"
+    },
+    {
+      "added_at": "2026-05-21 22:00:45",
+      "album": {
         "name": "Bathing Beach",
         "url": "https://open.spotify.com/album/4vGuMdwnxc6X8izbVS6MTN"
       },
@@ -331,22 +347,6 @@
     {
       "added_at": "2026-05-21 22:00:45",
       "album": {
-        "name": "The Universe Smiles Upon You ii",
-        "url": "https://open.spotify.com/album/45ZWDMMVK0N0Hd2p7fLTCB"
-      },
-      "artists": [
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        }
-      ],
-      "duration_ms": 291190,
-      "name": "White Gloves ii",
-      "url": "https://open.spotify.com/track/4EGilW7VYfTULk4RENDfJp"
-    },
-    {
-      "added_at": "2026-05-21 22:00:45",
-      "album": {
         "name": "Diamonds & Rust",
         "url": "https://open.spotify.com/album/3O9LYeSXXEypjdptHMghUg"
       },
@@ -363,18 +363,18 @@
     {
       "added_at": "2026-05-21 22:00:45",
       "album": {
-        "name": "Twizzler",
-        "url": "https://open.spotify.com/album/2F1Za0y4KX2xJifGiCg47z"
+        "name": "The Universe Smiles Upon You ii",
+        "url": "https://open.spotify.com/album/45ZWDMMVK0N0Hd2p7fLTCB"
       },
       "artists": [
         {
-          "name": "Cigarettes After Sex",
-          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
         }
       ],
-      "duration_ms": 174349,
-      "name": "Twizzler",
-      "url": "https://open.spotify.com/track/55kn7P8aUDI3CyGx1jlCLT"
+      "duration_ms": 291190,
+      "name": "White Gloves ii",
+      "url": "https://open.spotify.com/track/4EGilW7VYfTULk4RENDfJp"
     },
     {
       "added_at": "2026-05-21 22:00:45",
@@ -395,22 +395,6 @@
     {
       "added_at": "2026-05-21 22:00:45",
       "album": {
-        "name": "Gee Whiz But This Is a Lonesome Town",
-        "url": "https://open.spotify.com/album/5XX0nXTLzjR16Eo7f1AhTK"
-      },
-      "artists": [
-        {
-          "name": "Moriarty",
-          "url": "https://open.spotify.com/artist/0qG2Tf6fJaCuWKGz1IitKa"
-        }
-      ],
-      "duration_ms": 264826,
-      "name": "Jimmy",
-      "url": "https://open.spotify.com/track/6Zw0NBdfr1VlVJjDRFwUe1"
-    },
-    {
-      "added_at": "2026-05-21 22:00:45",
-      "album": {
         "name": "Street Bangerz Volume 6: Playhouse",
         "url": "https://open.spotify.com/album/0BHnSZAC8IfThmwlPcQQMz"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 240000,
       "name": "But I Do",
       "url": "https://open.spotify.com/track/4ox2odCf0XL0g6692URWwe"
+    },
+    {
+      "added_at": "2026-05-21 22:00:45",
+      "album": {
+        "name": "Gee Whiz But This Is a Lonesome Town",
+        "url": "https://open.spotify.com/album/5XX0nXTLzjR16Eo7f1AhTK"
+      },
+      "artists": [
+        {
+          "name": "Moriarty",
+          "url": "https://open.spotify.com/artist/0qG2Tf6fJaCuWKGz1IitKa"
+        }
+      ],
+      "duration_ms": 264826,
+      "name": "Jimmy",
+      "url": "https://open.spotify.com/track/6Zw0NBdfr1VlVJjDRFwUe1"
     },
     {
       "added_at": "2026-05-21 22:00:45",
@@ -491,22 +491,6 @@
     {
       "added_at": "2026-05-21 22:00:45",
       "album": {
-        "name": "doing my best",
-        "url": "https://open.spotify.com/album/1igte7adJCqP9ayDlbBCdC"
-      },
-      "artists": [
-        {
-          "name": "Hazlett",
-          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
-        }
-      ],
-      "duration_ms": 182733,
-      "name": "doing my best",
-      "url": "https://open.spotify.com/track/2jEK6rkAJ82GjVSoIkxxyr"
-    },
-    {
-      "added_at": "2026-05-21 22:00:45",
-      "album": {
         "name": "Take Care Of You",
         "url": "https://open.spotify.com/album/6nofnKggUnLzUKT5pTRv9s"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 231236,
       "name": "Take Care Of You",
       "url": "https://open.spotify.com/track/3D8lrJ07m1xymKXya8jI05"
+    },
+    {
+      "added_at": "2026-05-21 22:00:45",
+      "album": {
+        "name": "doing my best",
+        "url": "https://open.spotify.com/album/1igte7adJCqP9ayDlbBCdC"
+      },
+      "artists": [
+        {
+          "name": "Hazlett",
+          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
+        }
+      ],
+      "duration_ms": 182733,
+      "name": "doing my best",
+      "url": "https://open.spotify.com/track/2jEK6rkAJ82GjVSoIkxxyr"
     },
     {
       "added_at": "2026-05-21 22:00:45",
@@ -555,6 +555,22 @@
     {
       "added_at": "2026-05-21 22:00:45",
       "album": {
+        "name": "Aliocha Schneider",
+        "url": "https://open.spotify.com/album/6qXsItClo7MADiKsiMZIAx"
+      },
+      "artists": [
+        {
+          "name": "Aliocha Schneider",
+          "url": "https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB"
+        }
+      ],
+      "duration_ms": 182626,
+      "name": "Ensemble",
+      "url": "https://open.spotify.com/track/5L9lIPrWsnPDUQ7rot773c"
+    },
+    {
+      "added_at": "2026-05-21 22:00:45",
+      "album": {
         "name": "Moon",
         "url": "https://open.spotify.com/album/5JmdJRK0AJrApYsXrYVKAo"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 317000,
       "name": "Moon (Feat. Bon Iver)",
       "url": "https://open.spotify.com/track/2RBvwQI858xReQpWSRO866"
-    },
-    {
-      "added_at": "2026-05-21 22:00:45",
-      "album": {
-        "name": "Aliocha Schneider",
-        "url": "https://open.spotify.com/album/6qXsItClo7MADiKsiMZIAx"
-      },
-      "artists": [
-        {
-          "name": "Aliocha Schneider",
-          "url": "https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB"
-        }
-      ],
-      "duration_ms": 182626,
-      "name": "Ensemble",
-      "url": "https://open.spotify.com/track/5L9lIPrWsnPDUQ7rot773c"
     },
     {
       "added_at": "2026-05-21 22:00:45",
@@ -787,22 +787,6 @@
     {
       "added_at": "2026-05-21 22:00:45",
       "album": {
-        "name": "I Had a Dream She Took My Hand",
-        "url": "https://open.spotify.com/album/4ApSI95sRstVtU1UA6Fxkw"
-      },
-      "artists": [
-        {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
-        }
-      ],
-      "duration_ms": 220291,
-      "name": "I Had a Dream She Took My Hand",
-      "url": "https://open.spotify.com/track/2hUOnJj6B7938kFBcPO6l5"
-    },
-    {
-      "added_at": "2026-05-21 22:00:45",
-      "album": {
         "name": "Old Friend",
         "url": "https://open.spotify.com/album/0CpNzhfwbhpNppmpHO8aRg"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 157491,
       "name": "Old Friend",
       "url": "https://open.spotify.com/track/4h5wTcOMYy6cw47yYoFqNq"
+    },
+    {
+      "added_at": "2026-05-21 22:00:45",
+      "album": {
+        "name": "I Had a Dream She Took My Hand",
+        "url": "https://open.spotify.com/album/4ApSI95sRstVtU1UA6Fxkw"
+      },
+      "artists": [
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        }
+      ],
+      "duration_ms": 220291,
+      "name": "I Had a Dream She Took My Hand",
+      "url": "https://open.spotify.com/track/2hUOnJj6B7938kFBcPO6l5"
     },
     {
       "added_at": "2026-05-21 22:00:45",
@@ -899,22 +899,6 @@
     {
       "added_at": "2026-05-21 22:00:45",
       "album": {
-        "name": "Singing",
-        "url": "https://open.spotify.com/album/1h0ikRmxNYZFYR0s7xurzf"
-      },
-      "artists": [
-        {
-          "name": "Gia Margaret",
-          "url": "https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C"
-        }
-      ],
-      "duration_ms": 217264,
-      "name": "Moon Not Mine",
-      "url": "https://open.spotify.com/track/1r8plFPk6rUylJmclniQAM"
-    },
-    {
-      "added_at": "2026-05-21 22:00:45",
-      "album": {
         "name": "Monde Nouveau",
         "url": "https://open.spotify.com/album/2v016SMb35ARN5QFIxKwUA"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 207133,
       "name": "Sharpness",
       "url": "https://open.spotify.com/track/2dk5HQv2V6hEVeGGlPvCFA"
+    },
+    {
+      "added_at": "2026-05-21 22:00:45",
+      "album": {
+        "name": "Singing",
+        "url": "https://open.spotify.com/album/1h0ikRmxNYZFYR0s7xurzf"
+      },
+      "artists": [
+        {
+          "name": "Gia Margaret",
+          "url": "https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C"
+        }
+      ],
+      "duration_ms": 217264,
+      "name": "Moon Not Mine",
+      "url": "https://open.spotify.com/track/1r8plFPk6rUylJmclniQAM"
     },
     {
       "added_at": "2026-05-21 22:00:45",
@@ -1007,6 +1007,22 @@
       "duration_ms": 217669,
       "name": "Annabelle",
       "url": "https://open.spotify.com/track/31BnFQFi0VQ0prkeEYZ3Lp"
+    },
+    {
+      "added_at": "2026-05-21 22:00:45",
+      "album": {
+        "name": "Lovebites",
+        "url": "https://open.spotify.com/album/5PjXhp79Cl4FB7qCDOkm4V"
+      },
+      "artists": [
+        {
+          "name": "Luvcat",
+          "url": "https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "Silent Killer",
+      "url": "https://open.spotify.com/track/30GeuZLcq4ORyG1mf5JeYT"
     },
     {
       "added_at": "2026-05-21 22:00:45",
@@ -1403,6 +1419,22 @@
     {
       "added_at": "2026-05-21 22:00:45",
       "album": {
+        "name": "valley of my prime",
+        "url": "https://open.spotify.com/album/1UnbjUKJUVDSnRkaf2rnnc"
+      },
+      "artists": [
+        {
+          "name": "Vancouver Sleep Clinic",
+          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
+        }
+      ],
+      "duration_ms": 207702,
+      "name": "the way you do",
+      "url": "https://open.spotify.com/track/2Sgz95fxgQYxDAS2yKJLGL"
+    },
+    {
+      "added_at": "2026-05-21 22:00:45",
+      "album": {
         "name": "J'ai besoin de toi - A COLORS SHOW",
         "url": "https://open.spotify.com/album/4uLJaDz52N7VNGjxCA6XCM"
       },
@@ -1523,18 +1555,22 @@
     {
       "added_at": "2026-05-21 22:00:45",
       "album": {
-        "name": "soft bleeding",
-        "url": "https://open.spotify.com/album/6xtHeOyNTAo3zRUU0bBReD"
+        "name": "Paris-Madrid",
+        "url": "https://open.spotify.com/album/3E2yaamBfiBRJ0EeL45NvH"
       },
       "artists": [
         {
-          "name": "Petit Biscuit",
-          "url": "https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2"
+          "name": "Emma Hoet",
+          "url": "https://open.spotify.com/artist/2XPd4InVAVACQRNm6DLIz9"
+        },
+        {
+          "name": "Inazio",
+          "url": "https://open.spotify.com/artist/29KrMIwUUqCvc66OHLcSMl"
         }
       ],
-      "duration_ms": 176560,
-      "name": "soft bleeding",
-      "url": "https://open.spotify.com/track/0mVWOiuHCuYiSfuDhdjSO8"
+      "duration_ms": 199833,
+      "name": "Paris-Madrid",
+      "url": "https://open.spotify.com/track/0GMy6l9kM3Ll0ZMmnGjqFR"
     },
     {
       "added_at": "2026-05-21 22:00:45",
@@ -1555,22 +1591,18 @@
     {
       "added_at": "2026-05-21 22:00:45",
       "album": {
-        "name": "Paris-Madrid",
-        "url": "https://open.spotify.com/album/3E2yaamBfiBRJ0EeL45NvH"
+        "name": "soft bleeding",
+        "url": "https://open.spotify.com/album/6xtHeOyNTAo3zRUU0bBReD"
       },
       "artists": [
         {
-          "name": "Emma Hoet",
-          "url": "https://open.spotify.com/artist/2XPd4InVAVACQRNm6DLIz9"
-        },
-        {
-          "name": "Inazio",
-          "url": "https://open.spotify.com/artist/29KrMIwUUqCvc66OHLcSMl"
+          "name": "Petit Biscuit",
+          "url": "https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2"
         }
       ],
-      "duration_ms": 199833,
-      "name": "Paris-Madrid",
-      "url": "https://open.spotify.com/track/0GMy6l9kM3Ll0ZMmnGjqFR"
+      "duration_ms": 176560,
+      "name": "soft bleeding",
+      "url": "https://open.spotify.com/track/0mVWOiuHCuYiSfuDhdjSO8"
     },
     {
       "added_at": "2026-05-21 22:00:45",
@@ -1639,38 +1671,6 @@
       "duration_ms": 200971,
       "name": "Cure for Emptiness (with Bello)",
       "url": "https://open.spotify.com/track/0PsLWRlhGxICKhJtT6U8ya"
-    },
-    {
-      "added_at": "2026-05-21 22:00:45",
-      "album": {
-        "name": "If Only",
-        "url": "https://open.spotify.com/album/56c8txn6KCWuukEMSvoegl"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Day Wilson",
-          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
-        }
-      ],
-      "duration_ms": 208890,
-      "name": "If Only",
-      "url": "https://open.spotify.com/track/6Lo1FtdhJ4htWxJrDBED7c"
-    },
-    {
-      "added_at": "2026-05-21 22:00:45",
-      "album": {
-        "name": "Enzo Enzo",
-        "url": "https://open.spotify.com/album/288K0Z8iUFaAWOXtec5Nx3"
-      },
-      "artists": [
-        {
-          "name": "Enzo Enzo",
-          "url": "https://open.spotify.com/artist/4nWMNl9Y8X0eRGNoYlsAwD"
-        }
-      ],
-      "duration_ms": 208200,
-      "name": "Les yeux ouverts",
-      "url": "https://open.spotify.com/track/6BJltRcIxqomZ5X77zfwCe"
     }
   ],
   "unique_name": "Au calme",

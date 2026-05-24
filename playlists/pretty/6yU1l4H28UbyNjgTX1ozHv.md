@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6yU1l4H28UbyNjgTX1ozHv.md) - [plain]
 
 > Driving songs acoustic style! Sit back and enjoy the ride!
 
-[Matt Johnson](https://open.spotify.com/user/117687144) - 8,675 likes - 153 songs - 8 hr 11 min
+[Matt Johnson](https://open.spotify.com/user/117687144) - 8,676 likes - 153 songs - 8 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/6yU1l4H28UbyNjgTX1ozHv.md) - [plain]
 | 32 | [I'm a Believer \- Acoustic](https://open.spotify.com/track/3YZxfxxOyaneUFobNYlVlA) | [John Adams](https://open.spotify.com/artist/4LaimQU44rsz2kMWQmY6Bi) | [I'm a Believer \(Acoustic\)](https://open.spotify.com/album/21sYbjhRnRJMmSI60vUP9F) | 2:53 |
 | 33 | [Fields Of Gold \(Songbird\)](https://open.spotify.com/track/5vtOJrmovXGxGsnAck694H) | [Eva Cassidy](https://open.spotify.com/artist/6fNmOWQzfOVyHLQ2UqUQew) | [Songbird](https://open.spotify.com/album/14vOTJhsfQIlJeHgLajs7r) | 4:42 |
 | 34 | [I'm Yours \- Acoustic](https://open.spotify.com/track/5BAzqh3hnJxerXAANSYTle) | [Gavern](https://open.spotify.com/artist/3AZ2iVcKQZB9Vg2HphGgDt) | [I'm Yours \(Acoustic\)](https://open.spotify.com/album/4FHbQeG5jGIlIWzvxIkimh) | 2:22 |
-| 35 | [You Make My Dreams \(Come True\)](https://open.spotify.com/track/2FXh77yuXHFlRdPugP51mV) | [Callum J Wright](https://open.spotify.com/artist/47KiS7rrEXolpFicX0aTGe) | [You Make My Dreams \(Come True\)](https://open.spotify.com/album/7qYldplOdOMyQTWZIJwPXH) | 2:55 |
+| 35 | [Closer \- Acoustic](https://open.spotify.com/track/60XVw6Ryn7x988CTkkwAzE) | [Callum J Wright](https://open.spotify.com/artist/47KiS7rrEXolpFicX0aTGe) | [Closer \(Acoustic\)](https://open.spotify.com/album/2OQkWCErdlrVsi54x4vj2y) | 2:24 |
 | 36 | [Last Request \(Recorded at Bush Studios\) \- Live; Acoustic](https://open.spotify.com/track/35H5pzqUFrwU1A3iUxP1XQ) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Live Sessions](https://open.spotify.com/album/1oCZj5R2pLKiHyTH7QUkGa) | 3:13 |
 | 37 | [When You Were Young](https://open.spotify.com/track/1on2ViRJglgwevJWXOC3ab) | [Harriett Hartley](https://open.spotify.com/artist/0lAAZwE7s1Phh2hdBVTcBz) | [When You Were Young](https://open.spotify.com/album/3yiXkIP6DNeuPs07aUlXZ2) | 2:30 |
 | 38 | [Drops of Jupiter](https://open.spotify.com/track/6tq7RIjiez8WkGE9LVFfPF) | [Jonah Baker](https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm), [Music Travel Love](https://open.spotify.com/artist/2qNrJcE9LjzPdiXbrjkqFa) | [Drops of Jupiter](https://open.spotify.com/album/4HiTD3yyQzgjbacLpZI4mN) | 3:38 |
@@ -162,4 +162,4 @@ pretty - [cumulative](/playlists/cumulative/6yU1l4H28UbyNjgTX1ozHv.md) - [plain]
 | 152 | [Magnetised \- Acoustic](https://open.spotify.com/track/5baXzOMmD0sf26hayRqfqI) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Magnetised \(Acoustic\)](https://open.spotify.com/album/2UQjNLTufvDV6PKx2Kn8v2) | 4:52 |
 | 153 | [Champagne Supernova \- Acoustic](https://open.spotify.com/track/4u4a98HYVpQjhF66sRNMZK) | [Blame Jones](https://open.spotify.com/artist/4FCvYJ06Q8c4AScPG501KY) | [Covers Vol\. 1 \(Acoustic\)](https://open.spotify.com/album/2iKra1NUEayECHIBkJ2sz1) | 2:43 |
 
-Snapshot ID: `AAAGHttAJfKmg6A8MPG8iQou+kPVNLyV`
+Snapshot ID: `AAAGIJXAgWaxtG2daIk1KD21cngIg2pl`

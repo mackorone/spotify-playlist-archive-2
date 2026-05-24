@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhejoFhUUFy.md) - [plain]
 
 > Soft chill for the dreamy  ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,477 likes - 75 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,510 likes - 75 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhejoFhUUFy.md) - [plain]
 | 69 | [Baarishein \(Acoustic\)](https://open.spotify.com/track/3Ro0jYDrZcygFkdomURHqt) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Baarishein \(Acoustic\)](https://open.spotify.com/album/2YzCwXR0mLizrGV0sRVF2I) | 3:29 |
 | 70 | [Aaj Kal Zindagi](https://open.spotify.com/track/4MnDLNhqL6HuSzFO4b4rvJ) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a) | [Wake Up Sid \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1fzE65RP7Gyhi8hdOv8eRQ) | 4:14 |
 | 71 | [Chaap Tilak](https://open.spotify.com/track/0XCtRvfDHT98h0iUSDFtyO) | [Namita Choudhary](https://open.spotify.com/artist/3OzUySgSF8QxZScB0RxDCB) | [Chaap Tilak](https://open.spotify.com/album/0HkwpQ25VaAl4DNeXh3CtW) | 3:14 |
-| 72 | [Raaton](https://open.spotify.com/track/4mpRxleD4q4rxgRBgC6TpB) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D) | [Raaton](https://open.spotify.com/album/1mr9MMCJodtlid7Yy7DTh1) | 3:20 |
-| 73 | [Tu / You](https://open.spotify.com/track/4L6hCEc9xFf01U4d66JzK0) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs) | [Tu/You \- Spotify Singles](https://open.spotify.com/album/4MGu4YPgaKkxwgGf6MaAyn) | 2:22 |
+| 72 | [Tu / You](https://open.spotify.com/track/4L6hCEc9xFf01U4d66JzK0) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs) | [Tu/You \- Spotify Singles](https://open.spotify.com/album/4MGu4YPgaKkxwgGf6MaAyn) | 2:22 |
+| 73 | [Raaton](https://open.spotify.com/track/4mpRxleD4q4rxgRBgC6TpB) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D) | [Raaton](https://open.spotify.com/album/1mr9MMCJodtlid7Yy7DTh1) | 3:20 |
 | 74 | [Aao Chalein](https://open.spotify.com/track/7ADt3F5qdx8qPYdy6ODCar) | [Taba Chake](https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy) | [Bombay Dreams](https://open.spotify.com/album/5Y7esCvRwUxwEKFEJ6EUdU) | 3:05 |
 | 75 | [Tu Aisa Kaise Hai?](https://open.spotify.com/track/7eadaD2SBArRbebB9CP70X) | [Osho Jain](https://open.spotify.com/artist/41Sw7HsskHGbJOJXhLUTEK) | [Tu Aisa Kaise Hai?](https://open.spotify.com/album/27QAFD3cwZHqU6tVe9fA7T) | 3:34 |
 

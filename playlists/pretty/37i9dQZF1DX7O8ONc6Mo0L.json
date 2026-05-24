@@ -1,6 +1,6 @@
 {
   "description": "Relaxe com hinos ac\u00fasticos. Foto: Fernandinho",
-  "num_followers": 380630,
+  "num_followers": 380690,
   "original_name": "Gospel Ac\u00fastico",
   "owner": {
     "name": "Spotify",
@@ -599,6 +599,22 @@
     {
       "added_at": "2026-03-13 19:15:18",
       "album": {
+        "name": "Confiar em Deus - Spotify Singles",
+        "url": "https://open.spotify.com/album/44LijlMAyaGINUQkTYg5xs"
+      },
+      "artists": [
+        {
+          "name": "Anderson Freire",
+          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
+        }
+      ],
+      "duration_ms": 223422,
+      "name": "Confiar em Deus - Spotify Singles",
+      "url": "https://open.spotify.com/track/1C9SmYGyTZdb3xCR1SQ9xR"
+    },
+    {
+      "added_at": "2026-03-13 19:15:18",
+      "album": {
         "name": "Se N\u00e3o Fosse Ele",
         "url": "https://open.spotify.com/album/09qMoSr73LwGwAFhqtUvNr"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 289638,
       "name": "Se N\u00e3o Fosse Ele",
       "url": "https://open.spotify.com/track/3TsTuRLUCG7FeHzXRk2yUJ"
-    },
-    {
-      "added_at": "2026-03-13 19:15:18",
-      "album": {
-        "name": "Confiar em Deus - Spotify Singles",
-        "url": "https://open.spotify.com/album/44LijlMAyaGINUQkTYg5xs"
-      },
-      "artists": [
-        {
-          "name": "Anderson Freire",
-          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
-        }
-      ],
-      "duration_ms": 223422,
-      "name": "Confiar em Deus - Spotify Singles",
-      "url": "https://open.spotify.com/track/1C9SmYGyTZdb3xCR1SQ9xR"
     },
     {
       "added_at": "2026-03-13 19:15:18",

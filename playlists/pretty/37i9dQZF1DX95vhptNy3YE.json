@@ -1,6 +1,6 @@
 {
   "description": "Budah, AJULLIACOSTA, Franco, the Sir! e mais artistas da cultura preta brasileira, puxando o bonde pra geral ganhar o mund\u00e3o.",
-  "num_followers": 443033,
+  "num_followers": 443020,
   "original_name": "AMPLIFIKA",
   "owner": {
     "name": "Spotify",
@@ -943,6 +943,26 @@
     {
       "added_at": "2026-05-22 14:21:43",
       "album": {
+        "name": "Quanto Mais Eu Como, Mais Fome Eu Sinto !",
+        "url": "https://open.spotify.com/album/5t78IIG7tiWQ9RUYApAJFG"
+      },
+      "artists": [
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "Coyote Beatz",
+          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
+        }
+      ],
+      "duration_ms": 222271,
+      "name": "FOME",
+      "url": "https://open.spotify.com/track/0jpNOSKOUgnYCbRUQxW6Re"
+    },
+    {
+      "added_at": "2026-05-22 14:21:43",
+      "album": {
         "name": "Semi Nua",
         "url": "https://open.spotify.com/album/3tPQoE3kBpT18MQz0Pgy3i"
       },
@@ -991,26 +1011,6 @@
       "duration_ms": 548571,
       "name": "Semi Nua",
       "url": "https://open.spotify.com/track/4kqz2VSAmiLm06X90jmktL"
-    },
-    {
-      "added_at": "2026-05-22 14:21:43",
-      "album": {
-        "name": "Quanto Mais Eu Como, Mais Fome Eu Sinto !",
-        "url": "https://open.spotify.com/album/5t78IIG7tiWQ9RUYApAJFG"
-      },
-      "artists": [
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        },
-        {
-          "name": "Coyote Beatz",
-          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
-        }
-      ],
-      "duration_ms": 222271,
-      "name": "FOME",
-      "url": "https://open.spotify.com/track/0jpNOSKOUgnYCbRUQxW6Re"
     },
     {
       "added_at": "2026-05-22 14:21:43",
@@ -1131,26 +1131,6 @@
     {
       "added_at": "2026-05-22 14:21:43",
       "album": {
-        "name": "Interroga\u00e7\u00e3o (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3HfS8M29q5RU0fI83y5IIC"
-      },
-      "artists": [
-        {
-          "name": "Thais Macedo",
-          "url": "https://open.spotify.com/artist/6UwezAoo5IVh7Ned3j5eVP"
-        },
-        {
-          "name": "Gamadinho",
-          "url": "https://open.spotify.com/artist/5midJ0agDR5PUU5QbBswDt"
-        }
-      ],
-      "duration_ms": 171472,
-      "name": "Interroga\u00e7\u00e3o - Ao Vivo",
-      "url": "https://open.spotify.com/track/0e91TwYBNqiEAHenznkari"
-    },
-    {
-      "added_at": "2026-05-22 14:21:43",
-      "album": {
         "name": "MINA QUENTE",
         "url": "https://open.spotify.com/album/5pBQJ5z4tz9sjBAjOOTVvE"
       },
@@ -1167,6 +1147,26 @@
       "duration_ms": 151889,
       "name": "MINA QUENTE",
       "url": "https://open.spotify.com/track/3B17U5VJdLG72jwJVbhUsW"
+    },
+    {
+      "added_at": "2026-05-22 14:21:43",
+      "album": {
+        "name": "Interroga\u00e7\u00e3o (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3HfS8M29q5RU0fI83y5IIC"
+      },
+      "artists": [
+        {
+          "name": "Thais Macedo",
+          "url": "https://open.spotify.com/artist/6UwezAoo5IVh7Ned3j5eVP"
+        },
+        {
+          "name": "Gamadinho",
+          "url": "https://open.spotify.com/artist/5midJ0agDR5PUU5QbBswDt"
+        }
+      ],
+      "duration_ms": 171472,
+      "name": "Interroga\u00e7\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/0e91TwYBNqiEAHenznkari"
     },
     {
       "added_at": "2026-05-22 14:21:43",

@@ -1,12 +1,12 @@
 {
   "description": "This is Biosphere. The essential tracks, all in one playlist.",
-  "num_followers": 3563,
+  "num_followers": 3564,
   "original_name": "This Is Biosphere",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ag5LAAAAAABtjGE3hljdYRM5P/Nbn0lr",
+  "snapshot_id": "ag+cgAAAAACX3iEAgSDuuNJ2IzLxQhCC",
   "tracks": [
     {
       "added_at": null,
@@ -123,8 +123,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cirque",
-        "url": "https://open.spotify.com/album/4bSDMXRfW6GpHkzqcB1Wcl"
+        "name": "The Way Of Time",
+        "url": "https://open.spotify.com/album/1cNQwur61lzMiVdZyYoTA0"
       },
       "artists": [
         {
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
         }
       ],
-      "duration_ms": 242416,
-      "name": "Nook and Cranny",
-      "url": "https://open.spotify.com/track/37BaFZjeEpRRUou7u6HufG"
+      "duration_ms": 327887,
+      "name": "Time Of Man",
+      "url": "https://open.spotify.com/track/6QgE0BHCc2h8b6h4sDXdkb"
     },
     {
       "added_at": null,
@@ -155,8 +155,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Way Of Time",
-        "url": "https://open.spotify.com/album/1cNQwur61lzMiVdZyYoTA0"
+        "name": "Cirque",
+        "url": "https://open.spotify.com/album/4bSDMXRfW6GpHkzqcB1Wcl"
       },
       "artists": [
         {
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
         }
       ],
-      "duration_ms": 327887,
-      "name": "Time Of Man",
-      "url": "https://open.spotify.com/track/6QgE0BHCc2h8b6h4sDXdkb"
+      "duration_ms": 242416,
+      "name": "Nook and Cranny",
+      "url": "https://open.spotify.com/track/37BaFZjeEpRRUou7u6HufG"
     },
     {
       "added_at": null,
@@ -187,8 +187,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Departed Glories",
-        "url": "https://open.spotify.com/album/78KLYq0YJ5vgbPy9BYlpz9"
+        "name": "The Way Of Time",
+        "url": "https://open.spotify.com/album/1cNQwur61lzMiVdZyYoTA0"
       },
       "artists": [
         {
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
         }
       ],
-      "duration_ms": 190450,
-      "name": "Down On Ropes",
-      "url": "https://open.spotify.com/track/39MxHQGDytjIla3hT87hob"
+      "duration_ms": 465600,
+      "name": "The Way Of Time",
+      "url": "https://open.spotify.com/track/6Gmnl1YWIX2g6XYZCxDY1J"
     },
     {
       "added_at": null,
@@ -219,8 +219,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Way Of Time",
-        "url": "https://open.spotify.com/album/1cNQwur61lzMiVdZyYoTA0"
+        "name": "Departed Glories",
+        "url": "https://open.spotify.com/album/78KLYq0YJ5vgbPy9BYlpz9"
       },
       "artists": [
         {
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
         }
       ],
-      "duration_ms": 465600,
-      "name": "The Way Of Time",
-      "url": "https://open.spotify.com/track/6Gmnl1YWIX2g6XYZCxDY1J"
+      "duration_ms": 190450,
+      "name": "Down On Ropes",
+      "url": "https://open.spotify.com/track/39MxHQGDytjIla3hT87hob"
     },
     {
       "added_at": null,
@@ -299,6 +299,54 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dropsonde",
+        "url": "https://open.spotify.com/album/20oIWphcRX2FDfRHa2e580"
+      },
+      "artists": [
+        {
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+        }
+      ],
+      "duration_ms": 410933,
+      "name": "Warmed By the Drift",
+      "url": "https://open.spotify.com/track/5hfG9ztj7AMC4hv1z2CYXK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cirque",
+        "url": "https://open.spotify.com/album/4bSDMXRfW6GpHkzqcB1Wcl"
+      },
+      "artists": [
+        {
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+        }
+      ],
+      "duration_ms": 291828,
+      "name": "Too Fragile to Walk On",
+      "url": "https://open.spotify.com/track/7K7DeIN0qZvNVrc2Skyoks"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Substrata + Man with a Movie Camera",
+        "url": "https://open.spotify.com/album/5QIf4hNIAksV1uMCXHVkAZ"
+      },
+      "artists": [
+        {
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+        }
+      ],
+      "duration_ms": 388160,
+      "name": "The Things I Tell You",
+      "url": "https://open.spotify.com/track/36BGk42n6upPWiMCWpBQKL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Way Of Time",
         "url": "https://open.spotify.com/album/1cNQwur61lzMiVdZyYoTA0"
       },
@@ -324,25 +372,9 @@
           "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
         }
       ],
-      "duration_ms": 410933,
-      "name": "Warmed By the Drift",
-      "url": "https://open.spotify.com/track/5hfG9ztj7AMC4hv1z2CYXK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Substrata + Man with a Movie Camera",
-        "url": "https://open.spotify.com/album/5QIf4hNIAksV1uMCXHVkAZ"
-      },
-      "artists": [
-        {
-          "name": "Biosphere",
-          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
-        }
-      ],
-      "duration_ms": 473840,
-      "name": "Silene",
-      "url": "https://open.spotify.com/track/6l7ouzm1yKyTNaOKe87imj"
+      "duration_ms": 318949,
+      "name": "From a Solid To a Liquid",
+      "url": "https://open.spotify.com/track/2LWPDsw1WejU1AkWzNM9Uo"
     },
     {
       "added_at": null,
@@ -359,86 +391,6 @@
       "duration_ms": 336253,
       "name": "Grand Dome",
       "url": "https://open.spotify.com/track/5K58ZWWb2ecuEDwQhQ6Dt0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Way Of Time",
-        "url": "https://open.spotify.com/album/1cNQwur61lzMiVdZyYoTA0"
-      },
-      "artists": [
-        {
-          "name": "Biosphere",
-          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
-        }
-      ],
-      "duration_ms": 335553,
-      "name": "The Old Way Was Gone",
-      "url": "https://open.spotify.com/track/6WP3Ea8GlVM8r4gA7RdopA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dropsonde",
-        "url": "https://open.spotify.com/album/20oIWphcRX2FDfRHa2e580"
-      },
-      "artists": [
-        {
-          "name": "Biosphere",
-          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
-        }
-      ],
-      "duration_ms": 318949,
-      "name": "From a Solid To a Liquid",
-      "url": "https://open.spotify.com/track/2LWPDsw1WejU1AkWzNM9Uo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Microgravity",
-        "url": "https://open.spotify.com/album/1eAieJhXAdvfDc3T2bikrY"
-      },
-      "artists": [
-        {
-          "name": "Biosphere",
-          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
-        }
-      ],
-      "duration_ms": 326751,
-      "name": "Cloudwalker Ii",
-      "url": "https://open.spotify.com/track/1sc11Z7HhrSqxFE0YTfH7Z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cirque",
-        "url": "https://open.spotify.com/album/4bSDMXRfW6GpHkzqcB1Wcl"
-      },
-      "artists": [
-        {
-          "name": "Biosphere",
-          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
-        }
-      ],
-      "duration_ms": 291828,
-      "name": "Too Fragile to Walk On",
-      "url": "https://open.spotify.com/track/7K7DeIN0qZvNVrc2Skyoks"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "N-Plants",
-        "url": "https://open.spotify.com/album/3pLDeqeie523ruDyHahav3"
-      },
-      "artists": [
-        {
-          "name": "Biosphere",
-          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
-        }
-      ],
-      "duration_ms": 309586,
-      "name": "Oi-1",
-      "url": "https://open.spotify.com/track/32mArz1WHM1MwRVOnHcge3"
     },
     {
       "added_at": null,
@@ -468,9 +420,41 @@
           "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
         }
       ],
-      "duration_ms": 489000,
-      "name": "All Stars Have Names",
-      "url": "https://open.spotify.com/track/3yDJ88EzE4ubtc2ANlTdoL"
+      "duration_ms": 335553,
+      "name": "The Old Way Was Gone",
+      "url": "https://open.spotify.com/track/6WP3Ea8GlVM8r4gA7RdopA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Microgravity",
+        "url": "https://open.spotify.com/album/1eAieJhXAdvfDc3T2bikrY"
+      },
+      "artists": [
+        {
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+        }
+      ],
+      "duration_ms": 326751,
+      "name": "Cloudwalker Ii",
+      "url": "https://open.spotify.com/track/1sc11Z7HhrSqxFE0YTfH7Z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "N-Plants",
+        "url": "https://open.spotify.com/album/3pLDeqeie523ruDyHahav3"
+      },
+      "artists": [
+        {
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+        }
+      ],
+      "duration_ms": 309586,
+      "name": "Oi-1",
+      "url": "https://open.spotify.com/track/32mArz1WHM1MwRVOnHcge3"
     },
     {
       "added_at": null,
@@ -487,6 +471,22 @@
       "duration_ms": 48111,
       "name": "Grandiflora",
       "url": "https://open.spotify.com/track/0XG0jUpQ4ubOz9hzqbygOq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Way Of Time",
+        "url": "https://open.spotify.com/album/1cNQwur61lzMiVdZyYoTA0"
+      },
+      "artists": [
+        {
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+        }
+      ],
+      "duration_ms": 489000,
+      "name": "All Stars Have Names",
+      "url": "https://open.spotify.com/track/3yDJ88EzE4ubtc2ANlTdoL"
     },
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cirque (2016 Reissue Version)",
-        "url": "https://open.spotify.com/album/5PMRqcZu3T90ensFTSSB67"
-      },
-      "artists": [
-        {
-          "name": "Biosphere",
-          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
-        }
-      ],
-      "duration_ms": 397939,
-      "name": "B9",
-      "url": "https://open.spotify.com/track/5ydXEC6Wm9KMg2iooCRXaY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cirque",
         "url": "https://open.spotify.com/album/4bSDMXRfW6GpHkzqcB1Wcl"
       },
@@ -555,8 +539,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Angel's Flight",
-        "url": "https://open.spotify.com/album/33d7YxK49GlKrzATMvdhyR"
+        "name": "Cirque (2016 Reissue Version)",
+        "url": "https://open.spotify.com/album/5PMRqcZu3T90ensFTSSB67"
       },
       "artists": [
         {
@@ -564,9 +548,25 @@
           "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
         }
       ],
-      "duration_ms": 244000,
-      "name": "In the Ballroom",
-      "url": "https://open.spotify.com/track/1GPzqVAsIXsJfFZ2lUfn7U"
+      "duration_ms": 397939,
+      "name": "B9",
+      "url": "https://open.spotify.com/track/5ydXEC6Wm9KMg2iooCRXaY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "N-Plants",
+        "url": "https://open.spotify.com/album/3pLDeqeie523ruDyHahav3"
+      },
+      "artists": [
+        {
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+        }
+      ],
+      "duration_ms": 161706,
+      "name": "Monju-1",
+      "url": "https://open.spotify.com/track/7skmHTJZz8l3xm2QgiJdXj"
     },
     {
       "added_at": null,
@@ -587,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "N-Plants",
-        "url": "https://open.spotify.com/album/3pLDeqeie523ruDyHahav3"
+        "name": "Angel's Flight",
+        "url": "https://open.spotify.com/album/33d7YxK49GlKrzATMvdhyR"
       },
       "artists": [
         {
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
         }
       ],
-      "duration_ms": 161706,
-      "name": "Monju-1",
-      "url": "https://open.spotify.com/track/7skmHTJZz8l3xm2QgiJdXj"
+      "duration_ms": 244000,
+      "name": "In the Ballroom",
+      "url": "https://open.spotify.com/track/1GPzqVAsIXsJfFZ2lUfn7U"
     },
     {
       "added_at": null,
@@ -651,6 +651,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dropsonde",
+        "url": "https://open.spotify.com/album/20oIWphcRX2FDfRHa2e580"
+      },
+      "artists": [
+        {
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+        }
+      ],
+      "duration_ms": 405141,
+      "name": "Daphnis 26",
+      "url": "https://open.spotify.com/track/2H4XyND3AZZcfvgIcEjMLb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "N-Plants",
         "url": "https://open.spotify.com/album/3pLDeqeie523ruDyHahav3"
       },
@@ -667,8 +683,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Patashnik",
-        "url": "https://open.spotify.com/album/6UUS4WcqqD75JY1v3w83cx"
+        "name": "N-Plants",
+        "url": "https://open.spotify.com/album/6O0NOaFQ56eChOtw47l9VI"
       },
       "artists": [
         {
@@ -676,15 +692,15 @@
           "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
         }
       ],
-      "duration_ms": 280560,
-      "name": "En-Trance",
-      "url": "https://open.spotify.com/track/3MuqxmK0A3nCyzyhrfp8Da"
+      "duration_ms": 395294,
+      "name": "Genkai - 1",
+      "url": "https://open.spotify.com/track/71qKEYU8UkJFoui97QvhIY"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Dropsonde",
-        "url": "https://open.spotify.com/album/20oIWphcRX2FDfRHa2e580"
+        "name": "Shenzhou",
+        "url": "https://open.spotify.com/album/2AHktHVC0TOMkb42I40BpS"
       },
       "artists": [
         {
@@ -692,9 +708,9 @@
           "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
         }
       ],
-      "duration_ms": 405141,
-      "name": "Daphnis 26",
-      "url": "https://open.spotify.com/track/2H4XyND3AZZcfvgIcEjMLb"
+      "duration_ms": 212920,
+      "name": "Green Reflections",
+      "url": "https://open.spotify.com/track/4zErU7F1wLCWmtOdoyem0k"
     },
     {
       "added_at": null,
@@ -731,8 +747,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "N-Plants",
-        "url": "https://open.spotify.com/album/6O0NOaFQ56eChOtw47l9VI"
+        "name": "Patashnik",
+        "url": "https://open.spotify.com/album/6UUS4WcqqD75JY1v3w83cx"
       },
       "artists": [
         {
@@ -740,9 +756,9 @@
           "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
         }
       ],
-      "duration_ms": 395294,
-      "name": "Genkai - 1",
-      "url": "https://open.spotify.com/track/71qKEYU8UkJFoui97QvhIY"
+      "duration_ms": 280560,
+      "name": "En-Trance",
+      "url": "https://open.spotify.com/track/3MuqxmK0A3nCyzyhrfp8Da"
     },
     {
       "added_at": null,
@@ -779,8 +795,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Patashnik",
-        "url": "https://open.spotify.com/album/6UUS4WcqqD75JY1v3w83cx"
+        "name": "Dropsonde",
+        "url": "https://open.spotify.com/album/20oIWphcRX2FDfRHa2e580"
       },
       "artists": [
         {
@@ -788,25 +804,9 @@
           "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
         }
       ],
-      "duration_ms": 318577,
-      "name": "Mir",
-      "url": "https://open.spotify.com/track/0qelp5P9XttIUN7wyXBM5j"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "N-Plants",
-        "url": "https://open.spotify.com/album/6O0NOaFQ56eChOtw47l9VI"
-      },
-      "artists": [
-        {
-          "name": "Biosphere",
-          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Monju - 2",
-      "url": "https://open.spotify.com/track/5m1YTDYtgIspbFjciYEA2s"
+      "duration_ms": 304460,
+      "name": "Arafura",
+      "url": "https://open.spotify.com/track/2yJMu2hzbQ8MQur8HwaSVV"
     }
   ],
   "unique_name": "This Is Biosphere",

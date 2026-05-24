@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 
 > These are some independent rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 1,003 likes - 112 songs - 6 hr 37 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 1,006 likes - 115 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -120,5 +120,8 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 | 110 | [Gone Awry](https://open.spotify.com/track/2We4lOzgkM0uYxZocdXFxi) | [Giovanna](https://open.spotify.com/artist/0M3Vi97ia6awVNTvokryET) | [Gone Awry](https://open.spotify.com/album/5b50EagpfyNurHOndqK3v5) | 3:52 |
 | 111 | [O Acaso Não Costuma Falhar](https://open.spotify.com/track/1WQAo4Nb2oH19AgOSSJ11Z) | [LAVOLTA](https://open.spotify.com/artist/225mMwfH1uWmpEb60eyM7i) | [O Acaso Não Costuma Falhar](https://open.spotify.com/album/4tAeWlcuSKukgwJ49NhSRG) | 3:32 |
 | 112 | [Solid Ground](https://open.spotify.com/track/0NM15moIfu431ttU9B4aTs) | [Summer's Brother](https://open.spotify.com/artist/3UWbg10eG8C4P0PYUONcRe) | [Solid Ground](https://open.spotify.com/album/1SrzDxhLRSaHJUgBWo4PJb) | 3:25 |
+| 113 | [The Last Thing That I Do](https://open.spotify.com/track/41O2sZgfLwvAkef5ElAdGF) | [Lime](https://open.spotify.com/artist/3CkGw7rwzPbj59O3hKH1SB) | [Chasing Ghosts](https://open.spotify.com/album/7oHcVV83L7tZdOvPWghwpq) | 4:33 |
+| 114 | [Fentanyl Apocalypse](https://open.spotify.com/track/5SzfE5AOykHvXDnX2vt1o4) | [Magic Dragon](https://open.spotify.com/artist/0trHAWuVufxQLIZyPujytr) | [Metropolitan Degradation](https://open.spotify.com/album/1NyV58vxmbIYmhTGrIqmTg) | 3:18 |
+| 115 | [Just a Little While](https://open.spotify.com/track/1OLUiHTSO2A9dmLpuGDgFW) | [Chelekis](https://open.spotify.com/artist/4JCoKAEJ4c4So8sYRaZgUf) | [Just a Little While](https://open.spotify.com/album/7Bcl5QSiVUwyNppf3sbloL) | 4:30 |
 
-Snapshot ID: `AAAGGACuWajnTN9wnjm73C+1bft5QoAB`
+Snapshot ID: `AAAGG7JzA9SD/0wiOF98djC7XpuCYLE2`

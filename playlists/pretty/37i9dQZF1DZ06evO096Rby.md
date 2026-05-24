@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO096Rby.md) - [plain]
 
 > This is Edgardo Nuñez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,411 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,439 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO096Rby.md) - [plain]
 | 41 | [Alto y Piel Morena](https://open.spotify.com/track/0utj0xCPvTGptQ60MrqNeh) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602](https://open.spotify.com/album/2xrbCG92PwLpKWUAWD4Wv3) | 3:22 |
 | 42 | [Fruta Prohibida \- En Vivo](https://open.spotify.com/track/1T7YWrunbux383JYtEdWwD) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Sin Miedo \(En Vivo\)](https://open.spotify.com/album/6jPw6jBlRWQGnoaFzf2Ve5) | 2:52 |
 | 43 | [El Piyi](https://open.spotify.com/track/4aJPDh3dn3MVppavGXs3ao) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602 Vol.2](https://open.spotify.com/album/76LhAh0fmsd3yYbLYMv86x) | 3:11 |
-| 44 | [El Vaso Derrama \- En Vivo](https://open.spotify.com/track/59c7Eqq9dCPRSqeab8fxvU) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Puros Exitos Con Banda \(En Vivo\)](https://open.spotify.com/album/75rw7dmVjcLhBBYysPNon3) | 3:54 |
-| 45 | [Dicen Y Dicen](https://open.spotify.com/track/0mJ8ZTlkWRb59A3TPJUEcv) | [Grupo Clasificado](https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Larry Hernández](https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn) | [Dicen Y Dicen](https://open.spotify.com/album/1tjpAov9L3aGyIluNSBTqI) | 2:53 |
+| 44 | [Dicen Y Dicen](https://open.spotify.com/track/0mJ8ZTlkWRb59A3TPJUEcv) | [Grupo Clasificado](https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Larry Hernández](https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn) | [Dicen Y Dicen](https://open.spotify.com/album/1tjpAov9L3aGyIluNSBTqI) | 2:53 |
+| 45 | [El Vaso Derrama \- En Vivo](https://open.spotify.com/track/59c7Eqq9dCPRSqeab8fxvU) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Puros Exitos Con Banda \(En Vivo\)](https://open.spotify.com/album/75rw7dmVjcLhBBYysPNon3) | 3:54 |
 | 46 | [A Dios Le Pedía](https://open.spotify.com/track/65keL132eDsLtq1fWZXCz3) | [Emmanuel Cortes](https://open.spotify.com/artist/7hDt3OE2ubsKzO9rMYPXox), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Amor x Dosis](https://open.spotify.com/album/2rt2XjqNWSZuETGY8ldVny) | 3:18 |
 | 47 | [Pongase Bien Chula](https://open.spotify.com/track/2Jp6ClwLW6AWEmCGSNOFm4) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Pongase Bien Chula](https://open.spotify.com/album/3FQ4rPKYElCuLXD6FztfoF) | 2:44 |
 | 48 | [La Hija Del Señor](https://open.spotify.com/track/2DMb5Q3RcI8fR12AKbtMPH) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Calmados y No Dejados](https://open.spotify.com/album/3Yo3eHcPwmb9727m6Fd12d) | 3:13 |
 | 49 | [Es Por Ti](https://open.spotify.com/track/1wAa4SwcmuffVDXwL6PpPY) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Juanpa Salazar](https://open.spotify.com/artist/6r92NGrlnmNvFJA9Kl0PAx) | [Es Por Ti](https://open.spotify.com/album/4oGlytrjITiA75RXzWJt3f) | 2:35 |
 | 50 | [HDTPM](https://open.spotify.com/track/0V1Pq0ToZh1ZP5VCSxgWA5) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [HDTPM](https://open.spotify.com/album/3LEGUBBcYTvxISyzxYanZ1) | 2:37 |
 
-Snapshot ID: `ag5LAAAAAAByg9qU7HoX5GhKoOUUrXxt`
+Snapshot ID: `ag+cgAAAAACwPlaiQYUL6lKZB2dzVi+P`

@@ -4,7 +4,7 @@
 
 > This is Victony\. The essential tracks, all in one playlist.
 
-76 songs - 3 hr 54 min
+77 songs - 3 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Belle Full](https://open.spotify.com/track/7ppSFPUTqVqp97SmOci4q8) | [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [KTIZO](https://open.spotify.com/artist/4iRmNYPp7K9YaLrQXohMPr) | [Belle Full](https://open.spotify.com/album/6RWa45eSEJ9454G5dgA1dQ) | 3:11 | 2025-07-19 | 2025-09-26 |
 | [Bother Me \(feat\. Victony\)](https://open.spotify.com/track/2JpcOAR1EGQSxFOVnYCMl0) | [Osé](https://open.spotify.com/artist/31iLIUM0MeqrkbswnUpUaj), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Bother Me \(feat\. Victony\)](https://open.spotify.com/album/7svkXljH25hpPavMawyyb2) | 3:00 | 2026-04-10 |  |
 | [Chop & Slide](https://open.spotify.com/track/3WsH5oWObB3Lo1Q0cQjSwq) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Outlaw](https://open.spotify.com/album/2k9UloVzoBNJtCY1TvxTNj) | 2:48 | 2025-07-19 |  |
+| [Come Slide](https://open.spotify.com/track/75uppmIvjtxiutMdmA8C9c) | [KFMD](https://open.spotify.com/artist/1OjbMcNg4moIhv8nnflAAa), [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Come Slide](https://open.spotify.com/album/1w5cLDjyPVMfV1tYbziBk4) | 3:03 | 2026-05-24 |  |
 | [Cough Syrup](https://open.spotify.com/track/1pheB3ku1OKy80SaB8VXqG) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [CAPTAIN](https://open.spotify.com/album/5jqvO2VFTZ4n5MlE393wwT) | 3:10 | 2025-07-19 |  |
 | [Cover Me](https://open.spotify.com/track/0ksY8q00uW9wfMDqrOVNsY) | [Basketmouth](https://open.spotify.com/artist/12bnIxBXecZzYmrJKRbaQ4), [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Uburu](https://open.spotify.com/album/3fP1YnnwAk3LQQSGvmGjvR) | 2:07 | 2025-07-19 | 2025-09-09 |
 | [Daily Bread](https://open.spotify.com/track/7poaa6i2Uke1kUpVRUX2dP) | [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [King](https://open.spotify.com/album/2Bq1QgK74IvFTiWHh88Ybi) | 2:55 | 2025-07-19 |  |
@@ -58,7 +59,7 @@
 | [Milli II \(feat Jungeli & Victony\)](https://open.spotify.com/track/7IV54IDpMOJ3N0yta5VJx9) | [SO7ACE](https://open.spotify.com/artist/4ibCJiC5KbRm8hhmaXRkIU), [Ir Sais](https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88), [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Milli II \(feat Jungeli & Victony\)](https://open.spotify.com/album/3c7Kdj6zgDkzKfCsBs0YzN) | 3:02 | 2025-12-20 | 2026-04-04 |
 | [More](https://open.spotify.com/track/3KROMpk1iSj0NgebYd6E3s) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Saturn](https://open.spotify.com/album/460Np75NnukNf4BZpXZUuy) | 2:50 | 2025-07-19 | 2025-11-23 |
 | [My Darling](https://open.spotify.com/track/1NCWMu8Iy5S4I9tI8AifTj) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [My Darling + Angelus](https://open.spotify.com/album/7E5NyqTBqxn8SvkwznzgvY) | 3:13 | 2025-07-19 |  |
-| [NAIJA SHAWTY \(feat\. Victony\)](https://open.spotify.com/track/2ZAlI005a5nE5ys5QGOiQr) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Emeka Must Shine](https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj) | 1:48 | 2025-07-19 |  |
+| [NAIJA SHAWTY \(feat\. Victony\)](https://open.spotify.com/track/2ZAlI005a5nE5ys5QGOiQr) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Emeka Must Shine](https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj) | 1:48 | 2025-07-19 | 2026-05-24 |
 | [No Joke](https://open.spotify.com/track/7v6BxItknmx4IokrfzamfR) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [No Joke](https://open.spotify.com/album/3Q32c32RgkPrul5LY9ykmq) | 2:42 | 2025-07-19 | 2025-07-28 |
 | [No Other](https://open.spotify.com/track/16Kk1ZJ39vXGcdFphFKRqv) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Hypertension](https://open.spotify.com/album/3opLRe2XgBsWPtccbGUGL8) | 2:48 | 2025-07-19 | 2026-05-10 |
 | [Obianuju](https://open.spotify.com/track/2zFg0GwpMzDaob8vfmOm7y) | [Babyboy AV](https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Pace](https://open.spotify.com/album/1uCiEjIJMG143YJoPwQ8yI) | 2:58 | 2025-07-19 | 2025-10-12 |

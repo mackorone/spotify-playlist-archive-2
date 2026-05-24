@@ -4,7 +4,7 @@
 
 > Pop to fuel your gaming\. Cover: CORTIS
 
-468 songs - 22 hr 54 min
+469 songs - 22 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [141](https://open.spotify.com/track/3IFYbBUCjCelWt5asaYasY) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [141](https://open.spotify.com/album/7gPxrPpfY3nTUElL9sRA2z) | 2:55 | 2022-10-28 | 2023-03-04 |
 | [2WORLDS](https://open.spotify.com/track/0MoTvVdhu4Ocm2Y7yphxPh) | [Madge](https://open.spotify.com/artist/2StukZYqvy5IZmVestMrWo), [VALORANT](https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t) | [2WORLDS](https://open.spotify.com/album/0RKIC2QUL8WkDMWWQy3szr) | 2:29 | 2024-03-25 | 2024-06-29 |
 | [3, 2, 1](https://open.spotify.com/track/1bFoCHXsP2qd4YWi2JmlCN) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [3, 2, 1](https://open.spotify.com/album/2gt7MlxyMKUl6LUDcc2etd) | 2:11 | 2021-10-22 | 2022-07-29 |
-| [360](https://open.spotify.com/track/7JxexWxny7yJ3slTLmWz2U) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [360](https://open.spotify.com/album/5UlTVoEmOp7GuZN5PgnUq6) | 2:13 | 2024-05-22 |  |
+| [360](https://open.spotify.com/track/7JxexWxny7yJ3slTLmWz2U) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [360](https://open.spotify.com/album/5UlTVoEmOp7GuZN5PgnUq6) | 2:13 | 2024-05-22 | 2026-05-24 |
 | [>one \- greater than one](https://open.spotify.com/track/3zIcvn5r3QGea6a4M36MQr) | [VALORANT](https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t), [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [>one \(greater than one\)](https://open.spotify.com/album/6GLcfMMmFXrfk9ydAjeLop) | 2:10 | 2023-03-07 | 2023-05-26 |
 | [@ my worst](https://open.spotify.com/track/0mHGftgYtmpH4y17T3VZ2E) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [@ my worst](https://open.spotify.com/album/6nai5PN6n6imja0Bg8n3OW) | 3:11 | 2021-10-22 | 2022-07-29 |
 | [A\-O\-K](https://open.spotify.com/track/4CbrNGvwVjneG8Nk9YQqMR) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [A\-O\-K](https://open.spotify.com/album/3A8u7ZzojDwy7GlCJphBQR) | 2:53 | 2021-10-22 | 2022-04-16 |
@@ -57,6 +57,7 @@
 | [Bonde do Brunão](https://open.spotify.com/track/4mOWnjz30frv1pKMM6DNfv) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Bonde do Brunão](https://open.spotify.com/album/49avguRc9qHbWv5Gjmj4nQ) | 0:57 | 2025-06-20 |  |
 | [Bones](https://open.spotify.com/track/0HqZX76SFLDz2aW8aiqi7G) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Bones](https://open.spotify.com/album/1Q9SnHWPNEjVM0LrBFvJ1q) | 2:45 | 2022-04-15 |  |
 | [boom](https://open.spotify.com/track/6zhyXTuRkMSabSHvmMchpp) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [boom](https://open.spotify.com/album/2F9Hj91XXDt5FRvJyyLG6X) | 2:43 | 2025-05-02 | 2026-04-25 |
+| [BOOMPALA](https://open.spotify.com/track/41d2WjuL0ikRKVjxmL7ZFz) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | ['PUREFLOW', Pt\. 1](https://open.spotify.com/album/7vQRIpYlfMRCGU9GUx8Fko) | 2:56 | 2026-05-22 |  |
 | [Borderline](https://open.spotify.com/track/164QjgWOxnSZYHQghRKeC0) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Borderline](https://open.spotify.com/album/71bAwRaSVv4NIHmY61UutA) | 3:13 | 2023-04-07 | 2023-04-18 |
 | [Boss Bitch](https://open.spotify.com/track/78qd8dvwea0Gosb6Fe6j3k) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Boss Bitch](https://open.spotify.com/album/4pmyFpGicLLIgNPc1TQXKc) | 2:14 | 2021-10-22 |  |
 | [Boy's a liar Pt\. 2](https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Boy's a liar Pt\. 2](https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN) | 2:11 | 2023-04-07 |  |

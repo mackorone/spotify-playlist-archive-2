@@ -1,12 +1,12 @@
 {
   "description": "This is Elevation Worship. The essential tracks, all in one playlist.",
-  "num_followers": 326146,
+  "num_followers": 326203,
   "original_name": "This Is Elevation Worship",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ag5LAAAAAACYlkdP7xvpDlgVmI6jXty0",
+  "snapshot_id": "ag+cgAAAAACO7TcCL/vOK7kajJc7P8A6",
   "tracks": [
     {
       "added_at": null,
@@ -519,6 +519,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Here As In Heaven",
+        "url": "https://open.spotify.com/album/6KToyzPBIfHNyB5vWEfjrF"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "duration_ms": 499506,
+      "name": "Here as in Heaven",
+      "url": "https://open.spotify.com/track/0fPwregqch9wLJj4yQH6Bk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "When Wind Meets Fire",
         "url": "https://open.spotify.com/album/2uwzangKgtBdy6Q1rPYqC0"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 430689,
       "name": "When Wind Meets Fire (feat. Chris Brown & Tiffany Hudson)",
       "url": "https://open.spotify.com/track/7ymQvrauqbRfH30XVkmIs2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Here As In Heaven",
-        "url": "https://open.spotify.com/album/6KToyzPBIfHNyB5vWEfjrF"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        }
-      ],
-      "duration_ms": 499506,
-      "name": "Here as in Heaven",
-      "url": "https://open.spotify.com/track/0fPwregqch9wLJj4yQH6Bk"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > This is Los Enanitos Verdes\. The essential tracks, all in one playlist.
 
-72 songs - 4 hr 43 min
+73 songs - 4 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,8 @@
 | [Loco](https://open.spotify.com/track/6QxZFxjeolNSKDmWHmU4VU) | [Akwid](https://open.spotify.com/artist/3mYFuz6iY7D9X78rOXg5CG), [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Iconos del Urbano](https://open.spotify.com/album/2MuCH6Ojk6f2ee9jXj1jJ4) | 3:43 | 2023-02-14 |  |
 | [Los Amores Se Van](https://open.spotify.com/track/3qOjTACYVZcNye5CracQwo) | [La Mosca Tse\-Tse](https://open.spotify.com/artist/60nua3AsVSfADZtg5Hdz3W), [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Muchachos](https://open.spotify.com/album/35cgI9kKr9N6pZfTmWdakM) | 3:27 | 2024-11-03 | 2024-12-19 |
 | [Luz De Dia](https://open.spotify.com/track/6TqXieeBcZZHyaO14hQpKx) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Nectar](https://open.spotify.com/album/6g9Bcwy0fBb5kgnfQQrvV0) | 4:28 | 2022-10-26 |  |
-| [Luz De Dia \- En Vivo](https://open.spotify.com/track/71AMvL4Fey4MwxQShk4VBR) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [En Vivo](https://open.spotify.com/album/6zGGjiyCeY36tgNrxsFrK9) | 4:53 | 2022-10-26 |  |
+| [Luz De Dia \- En Vivo](https://open.spotify.com/track/71AMvL4Fey4MwxQShk4VBR) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [En Vivo](https://open.spotify.com/album/6zGGjiyCeY36tgNrxsFrK9) | 4:53 | 2022-10-26 | 2026-05-24 |
+| [Luz de Día](https://open.spotify.com/track/39tFJsBnHNvgUDihoKiiEA) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR), [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Luz de Día](https://open.spotify.com/album/5aELor7eDFTJbOcMCwTJM7) | 4:49 | 2026-05-24 |  |
 | [Luz de Día \(En Vivo\)](https://open.spotify.com/track/6mCnpTHThZ0Rtmn69FKjd5) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0), [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Huevos Revueltos \(En Vivo\)](https://open.spotify.com/album/5TzKiFldM8bjWQEroSrrAm) | 5:25 | 2022-10-26 |  |
 | [Mariposas](https://open.spotify.com/track/1AERsDlEADxcp9WtjZBtiU) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Pescado Original](https://open.spotify.com/album/6BfpGbzobIIDf2u55LW6Kg) | 3:41 | 2022-10-26 |  |
 | [Mariposas \(En Vivo\)](https://open.spotify.com/track/7vDsHQklTOmEgDyMb1C81K) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0), [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Huevos Revueltos \(En Vivo\)](https://open.spotify.com/album/5TzKiFldM8bjWQEroSrrAm) | 3:45 | 2022-10-26 |  |

@@ -1,6 +1,6 @@
 {
   "description": "The softer side of dance.",
-  "num_followers": 737572,
+  "num_followers": 737747,
   "original_name": "Chilled Dance Hits",
   "owner": {
     "name": "Spotify",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2026-04-24 04:00:43",
       "album": {
-        "name": "Food for the Soul",
-        "url": "https://open.spotify.com/album/3U20hCbqPM745vgo0PVcmw"
-      },
-      "artists": [
-        {
-          "name": "it's murph",
-          "url": "https://open.spotify.com/artist/3zW0xazqnHoq9QV9zBROVC"
-        }
-      ],
-      "duration_ms": 210562,
-      "name": "Food for the Soul",
-      "url": "https://open.spotify.com/track/7u0fz3V6cYeYTX91DMmIvQ"
-    },
-    {
-      "added_at": "2026-04-24 04:00:43",
-      "album": {
         "name": "Wicked Games (feat. Anna Naklab) [Radio Edit]",
         "url": "https://open.spotify.com/album/5pqiHmyrsBIRTLUoIhT8oz"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 195210,
       "name": "Wicked Games (feat. Anna Naklab) - Radio Edit",
       "url": "https://open.spotify.com/track/6JrAEmBFd61eYIGVOSPnT4"
+    },
+    {
+      "added_at": "2026-04-24 04:00:43",
+      "album": {
+        "name": "Food for the Soul",
+        "url": "https://open.spotify.com/album/3U20hCbqPM745vgo0PVcmw"
+      },
+      "artists": [
+        {
+          "name": "it's murph",
+          "url": "https://open.spotify.com/artist/3zW0xazqnHoq9QV9zBROVC"
+        }
+      ],
+      "duration_ms": 210562,
+      "name": "Food for the Soul",
+      "url": "https://open.spotify.com/track/7u0fz3V6cYeYTX91DMmIvQ"
     },
     {
       "added_at": "2026-04-24 04:00:43",
@@ -1523,6 +1523,22 @@
     {
       "added_at": "2026-04-24 04:00:43",
       "album": {
+        "name": "Angel of Mine",
+        "url": "https://open.spotify.com/album/1izDlrauAzvtBvSDn83NKf"
+      },
+      "artists": [
+        {
+          "name": "Tobiahs",
+          "url": "https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs"
+        }
+      ],
+      "duration_ms": 162741,
+      "name": "Angel of Mine",
+      "url": "https://open.spotify.com/track/2lFg6N5CQ1lh3kJUHmtEf4"
+    },
+    {
+      "added_at": "2026-04-24 04:00:43",
+      "album": {
         "name": "Brightest Lights",
         "url": "https://open.spotify.com/album/6EdbqQvOCialJuOjEEUlsL"
       },
@@ -1539,22 +1555,6 @@
       "duration_ms": 238032,
       "name": "Road",
       "url": "https://open.spotify.com/track/6kckNpuM5oXZrObLExRg6d"
-    },
-    {
-      "added_at": "2026-04-24 04:00:43",
-      "album": {
-        "name": "Angel of Mine",
-        "url": "https://open.spotify.com/album/1izDlrauAzvtBvSDn83NKf"
-      },
-      "artists": [
-        {
-          "name": "Tobiahs",
-          "url": "https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs"
-        }
-      ],
-      "duration_ms": 162741,
-      "name": "Angel of Mine",
-      "url": "https://open.spotify.com/track/2lFg6N5CQ1lh3kJUHmtEf4"
     },
     {
       "added_at": "2026-04-24 04:00:43",
@@ -1615,26 +1615,6 @@
     {
       "added_at": "2026-04-24 04:00:43",
       "album": {
-        "name": "Could You Be Loved (with LP Giobbi)",
-        "url": "https://open.spotify.com/album/3wyuyiaUfE4LRWiUa1GZMY"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        },
-        {
-          "name": "LP Giobbi",
-          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
-        }
-      ],
-      "duration_ms": 286879,
-      "name": "Could You Be Loved (with LP Giobbi)",
-      "url": "https://open.spotify.com/track/6IAu19Ylpuu6PRhU0x4wff"
-    },
-    {
-      "added_at": "2026-04-24 04:00:43",
-      "album": {
         "name": "Goodbye (feat. Lyse) [Radio Edit]",
         "url": "https://open.spotify.com/album/2UGPPuVJHDKLYd9Z2G7zS4"
       },
@@ -1651,6 +1631,26 @@
       "duration_ms": 201938,
       "name": "Goodbye (feat. Lyse) - Radio Edit",
       "url": "https://open.spotify.com/track/3PnOOmkxruDDAiMYZZTgO7"
+    },
+    {
+      "added_at": "2026-04-24 04:00:43",
+      "album": {
+        "name": "Could You Be Loved (with LP Giobbi)",
+        "url": "https://open.spotify.com/album/3wyuyiaUfE4LRWiUa1GZMY"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        },
+        {
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        }
+      ],
+      "duration_ms": 286879,
+      "name": "Could You Be Loved (with LP Giobbi)",
+      "url": "https://open.spotify.com/track/6IAu19Ylpuu6PRhU0x4wff"
     },
     {
       "added_at": "2026-04-24 04:00:43",
@@ -1679,26 +1679,6 @@
     {
       "added_at": "2026-04-24 04:00:43",
       "album": {
-        "name": "The Last Goodbye",
-        "url": "https://open.spotify.com/album/4vpnU0Hu4c0KNq2p4nz4U2"
-      },
-      "artists": [
-        {
-          "name": "ODESZA",
-          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
-        },
-        {
-          "name": "Bettye LaVette",
-          "url": "https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3"
-        }
-      ],
-      "duration_ms": 358983,
-      "name": "The Last Goodbye",
-      "url": "https://open.spotify.com/track/4XeIiGpUBshIfs9yrBDVZC"
-    },
-    {
-      "added_at": "2026-04-24 04:00:43",
-      "album": {
         "name": "Panorama",
         "url": "https://open.spotify.com/album/4ZaeYUM5vgvkpexijZ3w2r"
       },
@@ -1715,6 +1695,26 @@
       "duration_ms": 218480,
       "name": "Aloha",
       "url": "https://open.spotify.com/track/7IfOWyh4jTfkcGVrXKVNq0"
+    },
+    {
+      "added_at": "2026-04-24 04:00:43",
+      "album": {
+        "name": "The Last Goodbye",
+        "url": "https://open.spotify.com/album/4vpnU0Hu4c0KNq2p4nz4U2"
+      },
+      "artists": [
+        {
+          "name": "ODESZA",
+          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
+        },
+        {
+          "name": "Bettye LaVette",
+          "url": "https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3"
+        }
+      ],
+      "duration_ms": 358983,
+      "name": "The Last Goodbye",
+      "url": "https://open.spotify.com/track/4XeIiGpUBshIfs9yrBDVZC"
     },
     {
       "added_at": "2026-04-24 04:00:43",
@@ -2107,26 +2107,6 @@
     {
       "added_at": "2026-04-24 04:00:43",
       "album": {
-        "name": "Right Now",
-        "url": "https://open.spotify.com/album/4UsjjAKbtKzmgEz2pGbv6P"
-      },
-      "artists": [
-        {
-          "name": "Nick Jonas",
-          "url": "https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi"
-        },
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        }
-      ],
-      "duration_ms": 201680,
-      "name": "Right Now",
-      "url": "https://open.spotify.com/track/43wzy7JxMEfvCh8ZFeZKYk"
-    },
-    {
-      "added_at": "2026-04-24 04:00:43",
-      "album": {
         "name": "Cut Your Teeth (Kygo Remix)",
         "url": "https://open.spotify.com/album/2i4AbvFA9e6XszmH1x4G2h"
       },
@@ -2143,6 +2123,26 @@
       "duration_ms": 399013,
       "name": "Cut Your Teeth - Kygo Remix",
       "url": "https://open.spotify.com/track/1y4Kln6VEjQMpmHW7j9GeY"
+    },
+    {
+      "added_at": "2026-04-24 04:00:43",
+      "album": {
+        "name": "Right Now",
+        "url": "https://open.spotify.com/album/4UsjjAKbtKzmgEz2pGbv6P"
+      },
+      "artists": [
+        {
+          "name": "Nick Jonas",
+          "url": "https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi"
+        },
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        }
+      ],
+      "duration_ms": 201680,
+      "name": "Right Now",
+      "url": "https://open.spotify.com/track/43wzy7JxMEfvCh8ZFeZKYk"
     },
     {
       "added_at": "2026-04-24 04:00:43",

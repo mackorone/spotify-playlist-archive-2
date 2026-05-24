@@ -4,7 +4,7 @@
 
 > This is LUDMILLA\. The essential tracks, all in one playlist.
 
-108 songs - 6 hr 26 min
+109 songs - 6 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Ela Terminou No WhatsApp \- Ao Vivo](https://open.spotify.com/track/41YAs2W3C3xPHuDLQIPnvM) | [Léo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [paGGodin \(Ao Vivo / Parte 1\)](https://open.spotify.com/album/2ryScgu1hScAW4eUnhWS2X) | 3:06 | 2024-01-30 | 2026-03-05 |
 | [Energy](https://open.spotify.com/track/2bbqTnm2KkGAH4kFvnlMeU) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [AJULLIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx) | [Fragmentos](https://open.spotify.com/album/1DWhHgH2ra49Hr6Lml6WJb) | 2:59 | 2025-11-10 | 2026-03-29 |
 | [Eu estive Aqui \- Ao Vivo](https://open.spotify.com/track/07lEHXZYuhl0KpmXOYvwpc) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Numanice \#2 \(Ao Vivo\)](https://open.spotify.com/album/1sikBy4Cu6l99M6Sd6mDdu) | 2:40 | 2023-10-10 |  |
+| [Exagerado](https://open.spotify.com/track/1nRr0b7Fh3fe2qPPFbmdkJ) | [Replay](https://open.spotify.com/artist/2sU3iCEcMHp4l2vR02pUqI), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Exagerado](https://open.spotify.com/album/3XdPngVdHy4PVByALGr7lr) | 3:04 | 2026-05-24 |  |
 | [Falta de Mim \(Ao Vivo na Resenha Pagode e Chinelo\)](https://open.spotify.com/track/2Beaj46wWf4ezXTaAVO5rC) | [Grupo BalacoBaco](https://open.spotify.com/artist/3rPWjTxht8F3lTQpEUn8gJ), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Falta de Mim \(Ao Vivo na Resenha Pagode e Chinelo\)](https://open.spotify.com/album/0yCZjU7RGMo4fB7RUKnIS1) | 2:22 | 2025-03-14 | 2025-04-15 |
 | [Falta de Mim \(Ao Vivo na Resenha Pagode e Chinelo\)](https://open.spotify.com/track/04SCTah7kzN0Sdw0lCd1in) | [Grupo BalacoBaco](https://open.spotify.com/artist/3rPWjTxht8F3lTQpEUn8gJ), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Falta de Mim \(Ao Vivo na Resenha Pagode e Chinelo\)](https://open.spotify.com/album/0gcFrFuriHDLPi8fzPTy8R) | 2:22 | 2025-04-21 |  |
 | [Falta de Mim \- Ao Vivo](https://open.spotify.com/track/2IGh6DnMiX408xwoJP9Lmb) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP) | [Numanice \#3 \(Ao Vivo\)](https://open.spotify.com/album/2uNEA9woVB0GKJuv4vA9Af) | 2:34 | 2024-07-18 |  |
@@ -115,6 +116,6 @@
 | [Você Não Sabe o Que é Amor \- Ao Vivo](https://open.spotify.com/track/7r1VxuU92S2GKWvEX6ivqF) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Numanice \#3 \(Ao Vivo\)](https://open.spotify.com/album/2uNEA9woVB0GKJuv4vA9Af) | 3:24 | 2024-02-23 |  |
 | [Whine](https://open.spotify.com/track/1RMEvuPu0Lq5GzBedlzEdA) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Lungu Boy](https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW) | 2:58 | 2024-08-12 |  |
 | [Whiskey Com Água de Choro](https://open.spotify.com/track/3EX5wGiv3N2iAwvpgk4d9E) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Fragmentos](https://open.spotify.com/album/1DWhHgH2ra49Hr6Lml6WJb) | 2:45 | 2025-11-09 |  |
-| [Zangadinha](https://open.spotify.com/track/4o31yQPBDncr20tBIEi9hM) | [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Zangadinha](https://open.spotify.com/album/72bDC2HxY61C2poH7GEaOC) | 2:36 | 2023-10-10 |  |
+| [Zangadinha](https://open.spotify.com/track/4o31yQPBDncr20tBIEi9hM) | [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Zangadinha](https://open.spotify.com/album/72bDC2HxY61C2poH7GEaOC) | 2:36 | 2023-10-10 | 2026-05-24 |
 
 \*This playlist was first scraped on 2023-10-11. Prior content cannot be recovered.

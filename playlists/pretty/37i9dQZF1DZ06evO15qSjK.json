@@ -1,12 +1,12 @@
 {
   "description": "This is Kidz Bop Kids. The essential tracks, all in one playlist.",
-  "num_followers": 174080,
+  "num_followers": 174077,
   "original_name": "This Is Kidz Bop Kids",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ag5LAAAAAABEoAwjaoXOjBupRY/tUU3r",
+  "snapshot_id": "ag+cgAAAAAAAlouEcmmniL65Cq8Vp7y6",
   "tracks": [
     {
       "added_at": null,
@@ -55,6 +55,22 @@
       "duration_ms": 188247,
       "name": "Stateside",
       "url": "https://open.spotify.com/track/1ufT1mPGuqMR3p8IhUDDZk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Summer Starts Now",
+        "url": "https://open.spotify.com/album/6rlXj0tFa7Kh7Ds4htrplK"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 137153,
+      "name": "Summer Starts Now",
+      "url": "https://open.spotify.com/track/6s7GMo261sZVIMp8n45OkP"
     },
     {
       "added_at": null,
@@ -219,22 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A BOP Song (A Shaboozey Cover)",
-        "url": "https://open.spotify.com/album/1JNI9N9aovGfbhmKalyR46"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 170799,
-      "name": "A BOP Song (A Shaboozey Cover)",
-      "url": "https://open.spotify.com/track/0gKbNULuiYkDLKjRg4O4kN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "KIDZ BOP 2022",
         "url": "https://open.spotify.com/album/1pVDyIhEeVDBQjZYO67ytl"
       },
@@ -247,6 +247,22 @@
       "duration_ms": 134148,
       "name": "Astronaut In The Ocean",
       "url": "https://open.spotify.com/track/65I7LRWEDId3dlW2ReXXR8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A BOP Song (A Shaboozey Cover)",
+        "url": "https://open.spotify.com/album/1JNI9N9aovGfbhmKalyR46"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 170799,
+      "name": "A BOP Song (A Shaboozey Cover)",
+      "url": "https://open.spotify.com/track/0gKbNULuiYkDLKjRg4O4kN"
     },
     {
       "added_at": null,
@@ -283,6 +299,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "KIDZ BOP 50",
+        "url": "https://open.spotify.com/album/1N7y2uOiGxoza5nabKtsMA"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 185729,
+      "name": "HOT TO GO!",
+      "url": "https://open.spotify.com/track/0a7VMpyzpvpfCIboJbDKKy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I Just Might",
         "url": "https://open.spotify.com/album/2FA2oEbnGvEizQHq1bzSaT"
       },
@@ -311,22 +343,6 @@
       "duration_ms": 232190,
       "name": "Opalite",
       "url": "https://open.spotify.com/track/7FKJfmazFSTkfEx77MYToD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "KIDZ BOP 50",
-        "url": "https://open.spotify.com/album/1N7y2uOiGxoza5nabKtsMA"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 185729,
-      "name": "HOT TO GO!",
-      "url": "https://open.spotify.com/track/0a7VMpyzpvpfCIboJbDKKy"
     },
     {
       "added_at": null,
@@ -443,8 +459,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "KIDZ BOP 2022",
-        "url": "https://open.spotify.com/album/1pVDyIhEeVDBQjZYO67ytl"
+        "name": "KIDZ BOP 39",
+        "url": "https://open.spotify.com/album/7AlQ2bwjab77SFsoUCO3P7"
       },
       "artists": [
         {
@@ -452,9 +468,9 @@
           "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
         }
       ],
-      "duration_ms": 115272,
-      "name": "Wellerman \u2013 Sea Shanty",
-      "url": "https://open.spotify.com/track/7IrlbBGU4Q0jVgpX6lEVYg"
+      "duration_ms": 193040,
+      "name": "High Hopes",
+      "url": "https://open.spotify.com/track/2jLG7MpqT2074YUNKQncnF"
     },
     {
       "added_at": null,
@@ -475,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "KIDZ BOP 39",
-        "url": "https://open.spotify.com/album/7AlQ2bwjab77SFsoUCO3P7"
+        "name": "KIDZ BOP 2022",
+        "url": "https://open.spotify.com/album/1pVDyIhEeVDBQjZYO67ytl"
       },
       "artists": [
         {
@@ -484,9 +500,9 @@
           "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
         }
       ],
-      "duration_ms": 193040,
-      "name": "High Hopes",
-      "url": "https://open.spotify.com/track/2jLG7MpqT2074YUNKQncnF"
+      "duration_ms": 115272,
+      "name": "Wellerman \u2013 Sea Shanty",
+      "url": "https://open.spotify.com/track/7IrlbBGU4Q0jVgpX6lEVYg"
     },
     {
       "added_at": null,
@@ -667,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "KIDZ BOP 32",
-        "url": "https://open.spotify.com/album/0qGfgCfiUYTLhrkF1iDR50"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 201937,
-      "name": "Cake By The Ocean",
-      "url": "https://open.spotify.com/track/1MbhZs4ycL1imDEq0Y0iJJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "KIDZ BOP 2023 Vol. 2",
         "url": "https://open.spotify.com/album/7FG9GrSpXpe0X2Ipv9BR5m"
       },
@@ -695,6 +695,22 @@
       "duration_ms": 207461,
       "name": "Unstoppable",
       "url": "https://open.spotify.com/track/5HKCQNd3vNxdP6PH9GWrVc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "KIDZ BOP 32",
+        "url": "https://open.spotify.com/album/0qGfgCfiUYTLhrkF1iDR50"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 201937,
+      "name": "Cake By The Ocean",
+      "url": "https://open.spotify.com/track/1MbhZs4ycL1imDEq0Y0iJJ"
     },
     {
       "added_at": null,
@@ -791,22 +807,6 @@
       "duration_ms": 146233,
       "name": "Kings & Queens",
       "url": "https://open.spotify.com/track/4wbEBmAhxOchkSdfltzavr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "KIDZ BOP 53",
-        "url": "https://open.spotify.com/album/3bIzxAnQ3OhBfBw1x6AinI"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 179382,
-      "name": "back to friends",
-      "url": "https://open.spotify.com/track/4mBI4cng1yAg3V6UsKISPR"
     }
   ],
   "unique_name": "This Is Kidz Bop Kids",

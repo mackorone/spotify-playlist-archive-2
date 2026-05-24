@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAW2Wx2Q7Fjt.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1YH0NMJEWHxG6AoyYZivZX">Amy Allen</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,555 likes - 233 songs - 11 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,554 likes - 233 songs - 11 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAW2Wx2Q7Fjt.md) - [plain]
 | 44 | [drop dead](https://open.spotify.com/track/7Hc6qcJG4NtyZgbNvQyd8U) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [drop dead \(taken that eurostar to france video\)](https://open.spotify.com/album/6yWUYijJvHyjvcw43abyWD) | 3:44 |
 | 45 | [Go Go Juice](https://open.spotify.com/track/1qyw5wSUkEvH8DtaCdx7Lg) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend](https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop) | 3:13 |
 | 46 | [Selfish](https://open.spotify.com/track/64WL36LvfiLGQJIDqLPAwB) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Everything I Thought It Was](https://open.spotify.com/album/44e3xckIbDMtFm8jeZLLZ7) | 3:49 |
-| 47 | [Dumb & Poetic](https://open.spotify.com/track/5VhvD0AKRprEaFtPNKGBQR) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:13 |
-| 48 | [Sugar Talking](https://open.spotify.com/track/5B3GZOZYXNzWpUXQC42hxZ) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend](https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop) | 3:03 |
+| 47 | [Sugar Talking](https://open.spotify.com/track/5B3GZOZYXNzWpUXQC42hxZ) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend](https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop) | 3:03 |
+| 48 | [Dumb & Poetic](https://open.spotify.com/track/5VhvD0AKRprEaFtPNKGBQR) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:13 |
 | 49 | [Goodbye](https://open.spotify.com/track/4tVVmShMF2PYdLqcejrsy2) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend](https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop) | 3:45 |
 | 50 | [Purple lace bra](https://open.spotify.com/track/1TmqxQwvEDGYOTm1fPJJbT) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/07V9HO6Djetw5j5lXPylLd) | 3:11 |
 | 51 | [guilty conscience](https://open.spotify.com/track/2wIcebwzceIwgonsDICx6P) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 2:32 |
@@ -127,8 +127,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAW2Wx2Q7Fjt.md) - [plain]
 | 117 | [Save My Life](https://open.spotify.com/track/1e9jtpVUszajrfKAJKPvCS) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [The Show](https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4) | 2:57 |
 | 118 | [Move Me](https://open.spotify.com/track/2A8lxHaI7sJD1oABvXwly1) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [CRASH](https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B) | 2:27 |
 | 119 | [Brainstorm](https://open.spotify.com/track/6O2rEuaCuz9oULfn6USRm1) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [Oh No, Not Again! \- EP](https://open.spotify.com/album/3Z87Kdyjc5IC7BidBOFnUd) | 3:04 |
-| 120 | [Welcome Back \(feat\. Alessia Cara\)](https://open.spotify.com/track/50I4Px0ip8mYOT2TwUZT8k) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T), [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Welcome Back \(feat\. Alessia Cara\)](https://open.spotify.com/album/6ESCsWmTref0L1BpRlOUQJ) | 2:52 |
-| 121 | [Cold, Dark Place](https://open.spotify.com/track/6mTmYqYc3y0LKEuumpJI5C) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Restless Mind](https://open.spotify.com/album/3Dx1IXTwJVIMkEzVMSSSrp) | 3:01 |
+| 120 | [Cold, Dark Place](https://open.spotify.com/track/6mTmYqYc3y0LKEuumpJI5C) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Restless Mind](https://open.spotify.com/album/3Dx1IXTwJVIMkEzVMSSSrp) | 3:01 |
+| 121 | [Welcome Back \(feat\. Alessia Cara\)](https://open.spotify.com/track/50I4Px0ip8mYOT2TwUZT8k) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T), [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Welcome Back \(feat\. Alessia Cara\)](https://open.spotify.com/album/6ESCsWmTref0L1BpRlOUQJ) | 2:52 |
 | 122 | [The Wedding Song](https://open.spotify.com/track/3UNTCTqSGhVaaMQvBty1q6) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Snow Angel](https://open.spotify.com/album/3RqO05jxT9YYgNtMdQmo8Z) | 3:03 |
 | 123 | [9 Lives \(Black Cat\)](https://open.spotify.com/track/01t65qatZeJZRmjmBqIwBA) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [9 Lives](https://open.spotify.com/album/5W2ZpWhrvHK0h68xiP7ajj) | 3:24 |
 | 124 | [Casamigos](https://open.spotify.com/track/359bNXrILKwIm6J6vgz5zM) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [9 Lives](https://open.spotify.com/album/1hLKup9UE01jC6E49VzBqj) | 3:14 |
@@ -242,4 +242,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAW2Wx2Q7Fjt.md) - [plain]
 | 232 | [break](https://open.spotify.com/track/3F7mNkXtkAtFRHCkwp0L4c) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [amy allen](https://open.spotify.com/album/2ZMnjyTPQdQAgVBoSZlrXb) | 3:04 |
 | 233 | [kind sadness](https://open.spotify.com/track/14D1PA47cBk9pI3UMnzEn8) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [amy allen](https://open.spotify.com/album/2ZMnjyTPQdQAgVBoSZlrXb) | 3:16 |
 
-Snapshot ID: `AcSNUgAAAABcAJkI4ZbS/ZBZYqOCk1QF`
+Snapshot ID: `AcSS8gAAAAA4TpzZOJ7CepZdenmjqaGO`

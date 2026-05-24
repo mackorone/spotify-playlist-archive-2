@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ag5LAAAAAAAsQTNcgxD50fzk3DU5w/s0",
+  "snapshot_id": "ag+cgAAAAAD3MYr7TQf3E6cQvOv2DF4Y",
   "tracks": [
     {
       "added_at": null,
@@ -312,9 +312,9 @@
           "url": "https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR"
         }
       ],
-      "duration_ms": 213253,
-      "name": "N\u00f8kken",
-      "url": "https://open.spotify.com/track/4U3HMHRavamml1N4hv5wjl"
+      "duration_ms": 199093,
+      "name": "Comes with sunrise",
+      "url": "https://open.spotify.com/track/5b5vEwdcHP6UFP6yoWIHgB"
     },
     {
       "added_at": null,
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR"
         }
       ],
-      "duration_ms": 199093,
-      "name": "Comes with sunrise",
-      "url": "https://open.spotify.com/track/5b5vEwdcHP6UFP6yoWIHgB"
+      "duration_ms": 213253,
+      "name": "N\u00f8kken",
+      "url": "https://open.spotify.com/track/4U3HMHRavamml1N4hv5wjl"
     },
     {
       "added_at": null,
@@ -656,9 +656,9 @@
           "url": "https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR"
         }
       ],
-      "duration_ms": 280646,
-      "name": "Pripugale",
-      "url": "https://open.spotify.com/track/58RAcCm6jKkPxjcWR0shiv"
+      "duration_ms": 110593,
+      "name": "Outro",
+      "url": "https://open.spotify.com/track/1xMb2ja1p267QATU3oXg8Y"
     },
     {
       "added_at": null,
@@ -772,9 +772,9 @@
           "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
         }
       ],
-      "duration_ms": 344827,
-      "name": "Mu Evans",
-      "url": "https://open.spotify.com/track/2LVsWugKQqpmM8oo2mIF3Q"
+      "duration_ms": 364837,
+      "name": "Net (Neverendingthing)",
+      "url": "https://open.spotify.com/track/1cw9KWKpaqFS2c8HFV27zV"
     },
     {
       "added_at": null,
@@ -840,9 +840,9 @@
           "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
         }
       ],
-      "duration_ms": 364837,
-      "name": "Net (Neverendingthing)",
-      "url": "https://open.spotify.com/track/1cw9KWKpaqFS2c8HFV27zV"
+      "duration_ms": 344827,
+      "name": "Mu Evans",
+      "url": "https://open.spotify.com/track/2LVsWugKQqpmM8oo2mIF3Q"
     },
     {
       "added_at": null,
@@ -879,22 +879,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mue (Sofie Birch Remix)",
-        "url": "https://open.spotify.com/album/2MEoH5Q9S4WuAKhuqn4QFT"
+        "name": "2nd Quake",
+        "url": "https://open.spotify.com/album/0e7lXXUdpt9aBP6neNLolB"
       },
       "artists": [
         {
-          "name": "Koki Nakano",
-          "url": "https://open.spotify.com/artist/0BuB6oNX1squsfXbtkO5JE"
+          "name": "OTOOTO",
+          "url": "https://open.spotify.com/artist/4bTgYIf70ESA9P1HYj7chQ"
         },
         {
           "name": "Sofie Birch",
           "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
         }
       ],
-      "duration_ms": 246967,
-      "name": "Mue - Sofie Birch Remix",
-      "url": "https://open.spotify.com/track/6tPDhPCJu8NlVd2QehezEv"
+      "duration_ms": 248154,
+      "name": "Arch",
+      "url": "https://open.spotify.com/track/7J3rIJQfGotyvvtYD7ncYC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Planetes",
+        "url": "https://open.spotify.com/album/7mgSukUn1BYjvnzNWCruCf"
+      },
+      "artists": [
+        {
+          "name": "Sofie Birch",
+          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
+        }
+      ],
+      "duration_ms": 311079,
+      "name": "Return from Silence",
+      "url": "https://open.spotify.com/track/2ZRQeRdVWghcc42LGUEWUN"
     }
   ],
   "unique_name": "This Is Sofie Birch",

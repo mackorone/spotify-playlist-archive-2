@@ -2987,6 +2987,28 @@
     },
     {
       "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/2tXewxcwpzvvZw7prXByPS"
+      },
+      "artists": [
+        {
+          "name": "Andenix",
+          "url": "https://open.spotify.com/artist/1vxk9sFXF2O4fUymcUUllP"
+        },
+        {
+          "name": "Josh Knox",
+          "url": "https://open.spotify.com/artist/7ynWG75kdenNhClpJwwx4M"
+        }
+      ],
+      "date_added": "2026-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247913,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/7AYev376NUrJ1JaxmfhKyM"
+    },
+    {
+      "album": {
         "name": "Spring In Miami: Part One",
         "url": "https://open.spotify.com/album/3PSYAD7v7DHFZQ5fysuVUy"
       },
@@ -3006,7 +3028,7 @@
       ],
       "date_added": "2026-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 192682,
       "name": "Stay",
       "url": "https://open.spotify.com/track/4Vkt702ZXHUpBrOhciI3jI"

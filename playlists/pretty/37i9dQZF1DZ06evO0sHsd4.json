@@ -1,12 +1,12 @@
 {
   "description": "This is Jasiel Nu\u00f1ez. The essential tracks, all in one playlist.",
-  "num_followers": 22399,
+  "num_followers": 22411,
   "original_name": "This Is Jasiel Nu\u00f1ez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ag5LAAAAAAAxrcPIoQW3DNQO5/so+Qvs",
+  "snapshot_id": "ag+cgAAAAABf363o0Iw9mWYGq25LDYi5",
   "tracks": [
     {
       "added_at": null,
@@ -247,26 +247,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Todo Es Diferente",
-        "url": "https://open.spotify.com/album/3l84HJsuRqXtmmXXPfYnP9"
-      },
-      "artists": [
-        {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        },
-        {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
-        }
-      ],
-      "duration_ms": 200254,
-      "name": "Todo Es Diferente",
-      "url": "https://open.spotify.com/track/1J3LtyCOLfYTdtMV4aNAl3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Las Que Te Escrib\u00ed y Nunca Te Cant\u00e9",
         "url": "https://open.spotify.com/album/2LaGANWLbDpG6A1Mcpj6SB"
       },
@@ -287,6 +267,26 @@
       "duration_ms": 273200,
       "name": "Jugando a Perder",
       "url": "https://open.spotify.com/track/2HCBHEC5GOevDnWTIP7OH3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Todo Es Diferente",
+        "url": "https://open.spotify.com/album/3l84HJsuRqXtmmXXPfYnP9"
+      },
+      "artists": [
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        },
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "duration_ms": 200254,
+      "name": "Todo Es Diferente",
+      "url": "https://open.spotify.com/track/1J3LtyCOLfYTdtMV4aNAl3"
     },
     {
       "added_at": null,

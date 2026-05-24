@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52IXnX9fyzi.md) - [plain]
 
 > Piano music to accompany and inspire your writing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,790 likes - 115 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,817 likes - 115 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52IXnX9fyzi.md) - [plain]
 | 22 | [Feel For Balance](https://open.spotify.com/track/11RToQo0Dt4xy0z301RV5Q) | [Yasuo Zen](https://open.spotify.com/artist/4Gew7TmeuvKFbHl0PttGaz) | [Feel For Balance](https://open.spotify.com/album/4nexlHbho207Wndt2F5SI5) | 2:38 |
 | 23 | [the girl in white](https://open.spotify.com/track/013G9Rc4F99RaHINNGWy9f) | [Aisen Voight](https://open.spotify.com/artist/6qP2qRYduH4bCfMcSMiglb) | [the girl in white](https://open.spotify.com/album/6xutuCujhp11K26MQUT3qc) | 2:37 |
 | 24 | [Morning Sun](https://open.spotify.com/track/6mlqTL4FdN645uNsvnblcD) | [Halgeir Nielsen](https://open.spotify.com/artist/5unSFFq9c0x8o8COUnghjh) | [Morning Sun](https://open.spotify.com/album/1xnzCbETLtHNY7GF5ldEtl) | 2:26 |
-| 25 | [Of Linen and Light](https://open.spotify.com/track/2fH5SO36WeBjpt7KbsmkL4) | [Christian Vey](https://open.spotify.com/artist/34oi16MBJNFMwdyDqIlMXL) | [Of Linen and Light \(Solo Piano\)](https://open.spotify.com/album/2ngwM6wAtfvFr4aQBNqXdy) | 3:05 |
+| 25 | [Of Linen and Light \(Solo Piano\)](https://open.spotify.com/track/2fH5SO36WeBjpt7KbsmkL4) | [Christian Vey](https://open.spotify.com/artist/34oi16MBJNFMwdyDqIlMXL) | [Of Linen and Light \(Solo Piano\)](https://open.spotify.com/album/2ngwM6wAtfvFr4aQBNqXdy) | 3:05 |
 | 26 | [Chanceux](https://open.spotify.com/track/5wgH8YJwzSVVWM8a1bfcq0) | [Valter Soll](https://open.spotify.com/artist/1gD9cydWC0yCBMG8Bn6tau) | [Chanceux](https://open.spotify.com/album/3VqA48JuoaMtT5OJReQ6X0) | 3:16 |
 | 27 | [Two Years and One Month](https://open.spotify.com/track/2shiq9n6dLCrrYOIoNTbDe) | [Elden Nale](https://open.spotify.com/artist/6KiKFeqRt0otiIr8NC3rsa) | [Two Years and One Month](https://open.spotify.com/album/4uoyI9wzxgLN34d20nFuQl) | 2:30 |
 | 28 | [Data Stream](https://open.spotify.com/track/1V0hIdLiePAzR7nFQ6TPUt) | [Friedrich Hahn](https://open.spotify.com/artist/6RTZD5u0Respn5hQRVBB1C) | [Data Stream](https://open.spotify.com/album/6FhIvJlDLlmbRiP2yjacrg) | 2:48 |

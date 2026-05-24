@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 
 > De nieuwste Hollands & Volkspop releases\. Cover: Nelis Leeman
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,847 likes - 105 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,885 likes - 105 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

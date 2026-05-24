@@ -1,12 +1,12 @@
 {
   "description": "This is Lacuna Coil. The essential tracks, all in one playlist.",
-  "num_followers": 35361,
+  "num_followers": 35368,
   "original_name": "This Is Lacuna Coil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ag5LAAAAAADs4gO12GWdLSPNlVbcCfo3",
+  "snapshot_id": "ag+cgAAAAABarPKrf0efftqqTU3d873I",
   "tracks": [
     {
       "added_at": null,
@@ -663,8 +663,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Eps- Lacuna Coil/halflife",
-        "url": "https://open.spotify.com/album/4pPjBhZFubAGdhIVTSj8VG"
+        "name": "Delirium",
+        "url": "https://open.spotify.com/album/5ddVEy5XVXrK6fEL0jNLYs"
       },
       "artists": [
         {
@@ -672,9 +672,9 @@
           "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
         }
       ],
-      "duration_ms": 281826,
-      "name": "Stars",
-      "url": "https://open.spotify.com/track/3oi4Cdf6zfpxRtpGMr3Xie"
+      "duration_ms": 317191,
+      "name": "The House of Shame",
+      "url": "https://open.spotify.com/track/3mEExxNbWKdTJImI7KTvU0"
     },
     {
       "added_at": null,
@@ -711,6 +711,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Eps- Lacuna Coil/halflife",
+        "url": "https://open.spotify.com/album/4pPjBhZFubAGdhIVTSj8VG"
+      },
+      "artists": [
+        {
+          "name": "Lacuna Coil",
+          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
+        }
+      ],
+      "duration_ms": 281826,
+      "name": "Stars",
+      "url": "https://open.spotify.com/track/3oi4Cdf6zfpxRtpGMr3Xie"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Comalies XX",
         "url": "https://open.spotify.com/album/3bNmQxUHeb14nG9y3sxjqD"
       },
@@ -736,9 +752,9 @@
           "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
         }
       ],
-      "duration_ms": 317191,
-      "name": "The House of Shame",
-      "url": "https://open.spotify.com/track/3mEExxNbWKdTJImI7KTvU0"
+      "duration_ms": 261053,
+      "name": "Downfall",
+      "url": "https://open.spotify.com/track/6eR2jeiMILXRto4lxZzzEf"
     },
     {
       "added_at": null,
@@ -771,22 +787,6 @@
       "duration_ms": 217520,
       "name": "Tight Rope XX",
       "url": "https://open.spotify.com/track/5d4O0OoDEloGKJvQlFeYOJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Delirium",
-        "url": "https://open.spotify.com/album/5ddVEy5XVXrK6fEL0jNLYs"
-      },
-      "artists": [
-        {
-          "name": "Lacuna Coil",
-          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
-        }
-      ],
-      "duration_ms": 261053,
-      "name": "Downfall",
-      "url": "https://open.spotify.com/track/6eR2jeiMILXRto4lxZzzEf"
     }
   ],
   "unique_name": "This Is Lacuna Coil",

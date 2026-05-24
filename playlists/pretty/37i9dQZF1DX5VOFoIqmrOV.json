@@ -1,6 +1,6 @@
 {
   "description": "The finest set of Telugu music from the past 10 years. \nCover : Pushpa 2",
-  "num_followers": 458579,
+  "num_followers": 458682,
   "original_name": "Tollywood Pearls",
   "owner": {
     "name": "Spotify",
@@ -525,30 +525,6 @@
       "url": "https://open.spotify.com/track/4ZNIkO2j6K2c0Nm8zWXmdn"
     },
     {
-      "added_at": "2023-12-12 05:49:47",
-      "album": {
-        "name": "Samayama (From \"Hi Nanna\")",
-        "url": "https://open.spotify.com/album/6D13wnr8nPxBHLalTHPrqG"
-      },
-      "artists": [
-        {
-          "name": "Anurag Kulkarni",
-          "url": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
-        },
-        {
-          "name": "Sithara Krishnakumar",
-          "url": "https://open.spotify.com/artist/6fvMFyB3RMPEyKyLJAS79c"
-        },
-        {
-          "name": "Hesham Abdul Wahab",
-          "url": "https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ"
-        }
-      ],
-      "duration_ms": 204181,
-      "name": "Samayama (From \"Hi Nanna\")",
-      "url": "https://open.spotify.com/track/0hujsbFzpm9RjOs4mnVclo"
-    },
-    {
       "added_at": "2025-12-02 09:29:59",
       "album": {
         "name": "Neeli Meghamulalo (From \"35 Chinna Katha Kaadu\")(TeIugu)",
@@ -575,6 +551,30 @@
       "duration_ms": 292825,
       "name": "Neeli Meghamulalo (From \"35 Chinna Katha Kaadu\")(TeIugu)",
       "url": "https://open.spotify.com/track/0sYNZqHarbkRCJ1TOIkhqB"
+    },
+    {
+      "added_at": "2023-12-12 05:49:47",
+      "album": {
+        "name": "Samayama (From \"Hi Nanna\")",
+        "url": "https://open.spotify.com/album/6D13wnr8nPxBHLalTHPrqG"
+      },
+      "artists": [
+        {
+          "name": "Anurag Kulkarni",
+          "url": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
+        },
+        {
+          "name": "Sithara Krishnakumar",
+          "url": "https://open.spotify.com/artist/6fvMFyB3RMPEyKyLJAS79c"
+        },
+        {
+          "name": "Hesham Abdul Wahab",
+          "url": "https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ"
+        }
+      ],
+      "duration_ms": 204181,
+      "name": "Samayama (From \"Hi Nanna\")",
+      "url": "https://open.spotify.com/track/0hujsbFzpm9RjOs4mnVclo"
     },
     {
       "added_at": "2021-12-16 12:46:43",
@@ -1093,46 +1093,6 @@
       "url": "https://open.spotify.com/track/3BVjPpVvki8Jpm1Ew21UjH"
     },
     {
-      "added_at": "2022-07-24 04:40:57",
-      "album": {
-        "name": "Kirrak Party",
-        "url": "https://open.spotify.com/album/2S8HTTAlfF9ig5wfFkOw6p"
-      },
-      "artists": [
-        {
-          "name": "Vijay Prakash",
-          "url": "https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39"
-        }
-      ],
-      "duration_ms": 216171,
-      "name": "Guruvaram",
-      "url": "https://open.spotify.com/track/58DAnVD65xKeQW3ARTBolV"
-    },
-    {
-      "added_at": "2025-12-16 12:04:49",
-      "album": {
-        "name": "Ee Nagaraniki Emaindi",
-        "url": "https://open.spotify.com/album/32d5QBhgMyJZhQEXn0R3KC"
-      },
-      "artists": [
-        {
-          "name": "Vivek Sagar",
-          "url": "https://open.spotify.com/artist/7Fa8B0rJSmeeGjYCJJXrb3"
-        },
-        {
-          "name": "Anurag Kulkarni",
-          "url": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
-        },
-        {
-          "name": "Manisha Eerabathini",
-          "url": "https://open.spotify.com/artist/7uTF7CgQzu55VR10qqG2yC"
-        }
-      ],
-      "duration_ms": 408000,
-      "name": "Aagi Aagi",
-      "url": "https://open.spotify.com/track/0AUvrBetu1Rqd63yokSg82"
-    },
-    {
       "added_at": "2025-01-20 06:56:34",
       "album": {
         "name": "Saripodhaa Sanivaaram (Original Motion Picture Soundtrack)",
@@ -1159,6 +1119,46 @@
       "duration_ms": 282000,
       "name": "Ullaasam",
       "url": "https://open.spotify.com/track/00AfDW29vK3ZR3rVeSENpO"
+    },
+    {
+      "added_at": "2025-12-16 12:04:49",
+      "album": {
+        "name": "Ee Nagaraniki Emaindi",
+        "url": "https://open.spotify.com/album/32d5QBhgMyJZhQEXn0R3KC"
+      },
+      "artists": [
+        {
+          "name": "Vivek Sagar",
+          "url": "https://open.spotify.com/artist/7Fa8B0rJSmeeGjYCJJXrb3"
+        },
+        {
+          "name": "Anurag Kulkarni",
+          "url": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
+        },
+        {
+          "name": "Manisha Eerabathini",
+          "url": "https://open.spotify.com/artist/7uTF7CgQzu55VR10qqG2yC"
+        }
+      ],
+      "duration_ms": 408000,
+      "name": "Aagi Aagi",
+      "url": "https://open.spotify.com/track/0AUvrBetu1Rqd63yokSg82"
+    },
+    {
+      "added_at": "2022-07-24 04:40:57",
+      "album": {
+        "name": "Kirrak Party",
+        "url": "https://open.spotify.com/album/2S8HTTAlfF9ig5wfFkOw6p"
+      },
+      "artists": [
+        {
+          "name": "Vijay Prakash",
+          "url": "https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39"
+        }
+      ],
+      "duration_ms": 216171,
+      "name": "Guruvaram",
+      "url": "https://open.spotify.com/track/58DAnVD65xKeQW3ARTBolV"
     },
     {
       "added_at": "2026-04-17 11:03:44",
@@ -2016,17 +2016,17 @@
       },
       "artists": [
         {
-          "name": "Sindhuri",
-          "url": "https://open.spotify.com/artist/42hb3CC6jTpF3vve0FkquG"
+          "name": "Madhu Priya",
+          "url": "https://open.spotify.com/artist/1TpuHZaoRQMiKcMRN5DjDY"
         },
         {
-          "name": "Sinov Raj",
-          "url": "https://open.spotify.com/artist/0Xk1j528pHoL2oervr3qP0"
+          "name": "Ramky",
+          "url": "https://open.spotify.com/artist/0T6ky5WnBqEazCMELEcQbn"
         }
       ],
-      "duration_ms": 248133,
-      "name": "Hey Pillagaada",
-      "url": "https://open.spotify.com/track/3A3vrhAzRGaK92PtFzndjS"
+      "duration_ms": 324546,
+      "name": "Vachinde",
+      "url": "https://open.spotify.com/track/7KkaBto4aewGt8wl6q6wxH"
     },
     {
       "added_at": "2023-08-07 09:11:28",
@@ -2056,17 +2056,17 @@
       },
       "artists": [
         {
-          "name": "Madhu Priya",
-          "url": "https://open.spotify.com/artist/1TpuHZaoRQMiKcMRN5DjDY"
+          "name": "Sindhuri",
+          "url": "https://open.spotify.com/artist/42hb3CC6jTpF3vve0FkquG"
         },
         {
-          "name": "Ramky",
-          "url": "https://open.spotify.com/artist/0T6ky5WnBqEazCMELEcQbn"
+          "name": "Sinov Raj",
+          "url": "https://open.spotify.com/artist/0Xk1j528pHoL2oervr3qP0"
         }
       ],
-      "duration_ms": 324546,
-      "name": "Vachinde",
-      "url": "https://open.spotify.com/track/7KkaBto4aewGt8wl6q6wxH"
+      "duration_ms": 248133,
+      "name": "Hey Pillagaada",
+      "url": "https://open.spotify.com/track/3A3vrhAzRGaK92PtFzndjS"
     },
     {
       "added_at": "2023-08-07 09:11:28",
@@ -2157,24 +2157,28 @@
       "url": "https://open.spotify.com/track/3QsM6YG0DqtqQ3jPxTIFlW"
     },
     {
-      "added_at": "2023-03-16 06:15:29",
+      "added_at": "2023-08-07 09:11:28",
       "album": {
-        "name": "Amigos",
-        "url": "https://open.spotify.com/album/2g5BBeWGojbHAvFBTyAFIc"
+        "name": "Temper",
+        "url": "https://open.spotify.com/album/64aQTxaAVppQw0m5qSkzvS"
       },
       "artists": [
         {
-          "name": "S.P. Charan",
-          "url": "https://open.spotify.com/artist/1BIAyVQxDuYrMqZ8H1Faja"
+          "name": "Adnan Sami",
+          "url": "https://open.spotify.com/artist/0kJO65h553i1iGsZutBuqz"
         },
         {
-          "name": "Sameera Bharadwaj",
-          "url": "https://open.spotify.com/artist/10CItw8tdXThklMWPI55vu"
+          "name": "Ramya Behara",
+          "url": "https://open.spotify.com/artist/4svvMm4TQnkphZJfhLCzzv"
+        },
+        {
+          "name": "Veena Ghantasala",
+          "url": "https://open.spotify.com/artist/79q31PNsYAnl0QN4doZFFp"
         }
       ],
-      "duration_ms": 281723,
-      "name": "Enno Ratrulosthayi Remix Song",
-      "url": "https://open.spotify.com/track/3HbGXLKLyWnCX4VQOQbAGM"
+      "duration_ms": 250971,
+      "name": "Choolenge Aasma",
+      "url": "https://open.spotify.com/track/3RyfIFxOrHLJV3reR37Xwr"
     }
   ],
   "unique_name": "Tollywood Pearls",

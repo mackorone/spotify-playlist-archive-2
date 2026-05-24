@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtzubo4lvxd.md) - [plain]
 
 > Chill lo\-fi beats to enjoy a great afternoon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,955 likes - 75 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,954 likes - 75 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtzubo4lvxd.md) - [plain]
 | 38 | [Dont.Be.Afraid.](https://open.spotify.com/track/6JAE7Xhp03p7rhVHKJrsEk) | [DVLTVN](https://open.spotify.com/artist/4EjD919dnuBCJRZ9QnUagb) | [The Blyat Tapes,Vol.1](https://open.spotify.com/album/4agOIT6l8bQA9cQ7pjTwMu) | 1:25 |
 | 39 | [St\. Clements](https://open.spotify.com/track/4AzvNQcn1I4sZ2wJrW5ATq) | [Limes](https://open.spotify.com/artist/5o4dgimn1R07w1d2ZzpzpP), [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS) | [St\. Clements](https://open.spotify.com/album/1XXmc02uygqHueQUYutfZZ) | 1:17 |
 | 40 | [aigo](https://open.spotify.com/track/6fkrNwyHgSU1oaNUqRbFZh) | [Kibishi](https://open.spotify.com/artist/0PK6cB0zu68dt8qx6DRn6G) | [aigo](https://open.spotify.com/album/23QUwYqYmJJ8oFU9zLWqa3) | 2:24 |
-| 41 | [Make Up](https://open.spotify.com/track/61JERhZCmTcba3dkm2k53O) | [Desired](https://open.spotify.com/artist/6LC1S5ypWENVcHPlTruKKt) | [Nineteen](https://open.spotify.com/album/69fOwmdCZIaWPE4OLLnuQi) | 1:06 |
-| 42 | [Desire](https://open.spotify.com/track/5BMDnItXLkEKbVhDJlM1DE) | [omarr](https://open.spotify.com/artist/6VlR5v7VgUjpqIrIgrZ7wb) | [Desire](https://open.spotify.com/album/0yC7LKmarREa0WIHiZNbnL) | 2:11 |
+| 41 | [Desire](https://open.spotify.com/track/5BMDnItXLkEKbVhDJlM1DE) | [omarr](https://open.spotify.com/artist/6VlR5v7VgUjpqIrIgrZ7wb) | [Desire](https://open.spotify.com/album/0yC7LKmarREa0WIHiZNbnL) | 2:11 |
+| 42 | [Make Up](https://open.spotify.com/track/61JERhZCmTcba3dkm2k53O) | [Desired](https://open.spotify.com/artist/6LC1S5ypWENVcHPlTruKKt) | [Nineteen](https://open.spotify.com/album/69fOwmdCZIaWPE4OLLnuQi) | 1:06 |
 | 43 | [Life](https://open.spotify.com/track/5Pxb3DpymMiRl8JDiOXTPE) | [Lost Son](https://open.spotify.com/artist/0hcPMmuJcGcRhzAzYRrWVF) | [Life](https://open.spotify.com/album/766qimmxJrU3wXg0coClg9) | 1:19 |
 | 44 | [Bodega](https://open.spotify.com/track/0QROEXzx4Rkk5vupV1cCg0) | [Guidolain beats](https://open.spotify.com/artist/5ORspEJvAWz3OgMR8gOqcP), [mädmäx](https://open.spotify.com/artist/6e1SIZMnXuUFsXt7xMbkg0) | [Bodega](https://open.spotify.com/album/45vk5hApZ4h6nATFQvfoSI) | 1:45 |
 | 45 | [Buttersweet](https://open.spotify.com/track/1d5pAGQRJ9ROCOuxK52uED) | [Moox](https://open.spotify.com/artist/0ujZnGAenOcihPvgnnY2qq) | [Buttersweet](https://open.spotify.com/album/6GuzaGSiWBXbyRcOMAgsBJ) | 2:57 |
 | 46 | [Cherry Pie Jam](https://open.spotify.com/track/4kebaMUJlFbzPacKwcAGLZ) | [Hollow Clouds](https://open.spotify.com/artist/6j46UIFeyGBhixGhFvxdrh) | [Cherry Pie Jam](https://open.spotify.com/album/50T1ZXJe0cQlOxOGpqWCBl) | 3:37 |
 | 47 | [Seasons](https://open.spotify.com/track/6RUXqsK0MlNGXFWBfZs400) | [M.I Hakone](https://open.spotify.com/artist/1Gi5R2l9oX8zs5iiy2vP7v) | [Seasons](https://open.spotify.com/album/1Gi40W4rRup1t8B0p5Y5Yf) | 2:04 |
-| 48 | [Rose Garden](https://open.spotify.com/track/37I8L2Cx6PScWXn0tkN4wV) | [Kupla](https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35) | [Imaginary](https://open.spotify.com/album/48hLO6DyflUOXESgg64zOA) | 2:06 |
-| 49 | [with me](https://open.spotify.com/track/1eMfoDF9GAViOTX7FC30C6) | [Kibishi](https://open.spotify.com/artist/0PK6cB0zu68dt8qx6DRn6G) | [with me](https://open.spotify.com/album/5GyspQ4x1DcMw1I4LrQJSx) | 2:17 |
+| 48 | [with me](https://open.spotify.com/track/1eMfoDF9GAViOTX7FC30C6) | [Kibishi](https://open.spotify.com/artist/0PK6cB0zu68dt8qx6DRn6G) | [with me](https://open.spotify.com/album/5GyspQ4x1DcMw1I4LrQJSx) | 2:17 |
+| 49 | [Rose Garden](https://open.spotify.com/track/37I8L2Cx6PScWXn0tkN4wV) | [Kupla](https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35) | [Imaginary](https://open.spotify.com/album/48hLO6DyflUOXESgg64zOA) | 2:06 |
 | 50 | [i dream of you every night](https://open.spotify.com/track/4Z5aQZdyQ8Fc3R7PE17T0e) | [lostlife.](https://open.spotify.com/artist/40OFkxP3djvsCg7Aj3d7sk) | [i dream of you every night](https://open.spotify.com/album/1aypmsUBuVvA4gG9mb40KL) | 2:27 |
 | 51 | [motions](https://open.spotify.com/track/6D03xabyvMD0AGWThiRn9U) | [leaf beach](https://open.spotify.com/artist/5fQYCNYjrT9c4ZssNrC0gh), [Karavelo](https://open.spotify.com/artist/1urkG0cqnV7Jjhdv4O9D3f) | [motions](https://open.spotify.com/album/7gPow41HZ6Kx3DdgGwvvSF) | 2:18 |
 | 52 | [Autumn Briefs](https://open.spotify.com/track/1kcXids1llWtkF7wTQ8HfL) | [Dasunny](https://open.spotify.com/artist/0GRMQfjpndi6Maj7lvYOza) | [Autumn Briefs](https://open.spotify.com/album/7HCchLIXZ4SiCw9xriIAdW) | 2:25 |
@@ -73,15 +73,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtzubo4lvxd.md) - [plain]
 | 63 | [Snow Profile](https://open.spotify.com/track/62zZi1Yk6I4DlUrN5PSpKW) | [S I M](https://open.spotify.com/artist/6IUKOT5oMnQ8ZUyJlZFxO2) | [Snow Profile](https://open.spotify.com/album/2ovh6aY8qeOJNSq0QweDhM) | 3:21 |
 | 64 | [Lofi Smoke and Pass Out](https://open.spotify.com/track/6cK2p8SINJhAtZWjljXzqg) | [Single Friend](https://open.spotify.com/artist/5R18HPWho6b4BMhMlKHETL) | [Lofi Smoke and Pass Out](https://open.spotify.com/album/5nyNkedLe5CAEED8c2nDyt) | 3:53 |
 | 65 | [Milk & Cookies](https://open.spotify.com/track/2TUxk6Lbcj0le79LGO4eQ6) | [Cloudsurfin'](https://open.spotify.com/artist/5Dsg7x6lNQTgWSgnYlIpif) | [Milk & Cookies](https://open.spotify.com/album/0J7mljOriS30XDELsyKJp6) | 2:04 |
-| 66 | [Froosh](https://open.spotify.com/track/3VQIAOQRwGwFvBaR7E36O1) | [\_tag](https://open.spotify.com/artist/0B3KPEKVLbLSOmCK0aTMMi) | [Froosh](https://open.spotify.com/album/0nlcA5P03I6t06WdlLy5FF) | 1:57 |
-| 67 | [It's Time](https://open.spotify.com/track/0FQJcnHx67utr98s11Q2qX) | [C4C](https://open.spotify.com/artist/5jZeLexrrwGNUy6nv7tzdr) | [Time Brings Change](https://open.spotify.com/album/6u0d2H0Qs7aVdSp0bOGdG0) | 1:50 |
+| 66 | [It's Time](https://open.spotify.com/track/0FQJcnHx67utr98s11Q2qX) | [C4C](https://open.spotify.com/artist/5jZeLexrrwGNUy6nv7tzdr) | [Time Brings Change](https://open.spotify.com/album/6u0d2H0Qs7aVdSp0bOGdG0) | 1:50 |
+| 67 | [Froosh](https://open.spotify.com/track/3VQIAOQRwGwFvBaR7E36O1) | [\_tag](https://open.spotify.com/artist/0B3KPEKVLbLSOmCK0aTMMi) | [Froosh](https://open.spotify.com/album/0nlcA5P03I6t06WdlLy5FF) | 1:57 |
 | 68 | [Feeling Free](https://open.spotify.com/track/5eGZV3CqygFwrRoYeoZmbL) | [iasilma](https://open.spotify.com/artist/3pDdMkuOaBgEfSrzpFmWcu) | [Feeling Free](https://open.spotify.com/album/2RodOh8h0h5JORsgPu7zmc) | 2:00 |
 | 69 | [Real Life](https://open.spotify.com/track/4kSWrE6OOHPJt4TizgkckZ) | [Cookin Soul](https://open.spotify.com/artist/06s35sbFfZJUEwFjAaZfiW) | [Polo Beats](https://open.spotify.com/album/0aCbGwTjoC0h4F6SJN2OzE) | 1:38 |
 | 70 | [Floating Free](https://open.spotify.com/track/4T50e4TUj1kMFWi66QaBEq) | [Veritas](https://open.spotify.com/artist/2S6iwClVoSNnpOcCzyMeUj) | [Floating Free](https://open.spotify.com/album/1o57MZ6drrqBMNsahZNvPu) | 4:08 |
 | 71 | [BEACH](https://open.spotify.com/track/1iN5j0yTid7A3VzEx8lwhe) | [Farazi](https://open.spotify.com/artist/44wLgA9gxORLwDGRvYpRBg) | [CRAFT](https://open.spotify.com/album/3XHlFqpOeA7B0s8ZX7sX3a) | 2:46 |
 | 72 | [Green Cats Cave](https://open.spotify.com/track/1tHjVZCBWEERhd2IIa1m5J) | [Aöm](https://open.spotify.com/artist/3lQeibogltk6xDaXJKCMjf) | [Green Cats Cave](https://open.spotify.com/album/0LIEVUcK68HEtUvfbY4E2o) | 2:42 |
 | 73 | [Misty \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/034ZKE6KJpa8yVpAPQ9AMT) | [Sam Barsh](https://open.spotify.com/artist/4vVYohuzsd1OIOpYw2FuER), [The Deli](https://open.spotify.com/artist/1EJzWKVDeysgbyuZGfEFde) | [Spotify Singles \(Recorded at Spotify Studios NYC\)](https://open.spotify.com/album/6JxnS1pZVWSZW4qtr2gfEu) | 1:38 |
-| 74 | [reality](https://open.spotify.com/track/6eGpjRTgqSs8JfLPJcSSts) | [mr.neab](https://open.spotify.com/artist/2cZLcgAsOeknY8nJGwt5Bg) | [reality](https://open.spotify.com/album/7zjk5CmvoP6k8M17vOrSc6) | 2:01 |
+| 74 | [Cloudy](https://open.spotify.com/track/6QvqzWJY96PZXEOdDpGdP7) | [Kimmø](https://open.spotify.com/artist/0T2cWe3Y09qz2tp19oDLUz) | [Cloudy](https://open.spotify.com/album/4fabio6xe0XUscomxRu8rl) | 2:32 |
 | 75 | [Getting Lost](https://open.spotify.com/track/2qu7wb9uya6Kh1YqgHyxOy) | [Veritas](https://open.spotify.com/artist/2S6iwClVoSNnpOcCzyMeUj) | [Getting Lost](https://open.spotify.com/album/37kZUfnuctnnWXvDEATO21) | 3:52 |
 
 Snapshot ID: `AAAAAGXo2C6cif2LL666TXmpa/7usd3J`

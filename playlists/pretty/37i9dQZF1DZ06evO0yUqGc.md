@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0yUqGc.md) - [plain]
 
 > This is Lily Allen\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,746 likes - 45 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,749 likes - 45 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,12 +32,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0yUqGc.md) - [plain]
 | 22 | [Madeline](https://open.spotify.com/track/1GpM5w7maS7MGVkZdg6jPE) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [West End Girl](https://open.spotify.com/album/4Dn3Z14YfT2gQVDgLmWUVn) | 2:55 |
 | 23 | [Come on Then](https://open.spotify.com/track/0258EtxjiL6jPMPcqyVSEQ) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [No Shame](https://open.spotify.com/album/0DriDL7OcMeMENJWAElSYL) | 3:11 |
 | 24 | [Hard out Here](https://open.spotify.com/track/3U3BXlwNTkCx7lW9m1H9RY) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Hard out Here](https://open.spotify.com/album/1fby4GbTbNwhaWosafXOmH) | 3:31 |
-| 25 | [Who'd Have Known](https://open.spotify.com/track/3OFacwSNvln7Bcx3wGOpjV) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [It's Not Me, It's You \(Special Edition\)](https://open.spotify.com/album/4zZKTqu7DkowQnO9Bcx4KX) | 3:50 |
-| 26 | [Alfie](https://open.spotify.com/track/1bG4NCNZd3Go5pNWjH5Wl2) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Alright, Still](https://open.spotify.com/album/45hzatvfEcADFQx8ENl4vs) | 2:45 |
+| 25 | [Alfie](https://open.spotify.com/track/1bG4NCNZd3Go5pNWjH5Wl2) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Alright, Still](https://open.spotify.com/album/45hzatvfEcADFQx8ENl4vs) | 2:45 |
+| 26 | [Who'd Have Known](https://open.spotify.com/track/3OFacwSNvln7Bcx3wGOpjV) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [It's Not Me, It's You \(Special Edition\)](https://open.spotify.com/album/4zZKTqu7DkowQnO9Bcx4KX) | 3:50 |
 | 27 | [Just Be Good To Green](https://open.spotify.com/track/5Wi5AUAI4YKRYNYI8XLLG3) | [Professor Green](https://open.spotify.com/artist/0oJM3iJjMdzgsd4z5VHQvw), [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Alive Till I'm Dead](https://open.spotify.com/album/0iVnRHjr6fAOojkgjxnJVO) | 3:24 |
 | 28 | [Naïve \- BBC Radio 1's Jo Whiley's Live Lounge](https://open.spotify.com/track/6mM3zAPOuNkNDytJCDGz96) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Alright, Still \(Deluxe\)](https://open.spotify.com/album/5ySBiY0v4b03yw98oRDKtS) | 3:46 |
-| 29 | [Chinese](https://open.spotify.com/track/60XKb9r9CBh93zSyEarCf3) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [It's Not Me, It's You \(Special Edition\)](https://open.spotify.com/album/4zZKTqu7DkowQnO9Bcx4KX) | 3:28 |
-| 30 | [Everything's Just Wonderful](https://open.spotify.com/track/2SlCiWUTBVs0lcU93SLogx) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Alright, Still](https://open.spotify.com/album/45hzatvfEcADFQx8ENl4vs) | 3:28 |
+| 29 | [Everything's Just Wonderful](https://open.spotify.com/track/2SlCiWUTBVs0lcU93SLogx) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Alright, Still](https://open.spotify.com/album/45hzatvfEcADFQx8ENl4vs) | 3:28 |
+| 30 | [Chinese](https://open.spotify.com/track/60XKb9r9CBh93zSyEarCf3) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [It's Not Me, It's You \(Special Edition\)](https://open.spotify.com/album/4zZKTqu7DkowQnO9Bcx4KX) | 3:28 |
 | 31 | [Cigarettes & Cush \(feat\. Kehlani & Lily Allen\)](https://open.spotify.com/track/7urCpstCEncypWMreEwJCh) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Gang Signs & Prayer](https://open.spotify.com/album/5S1Og4Ubi4afuiBOzyBhmW) | 5:49 |
 | 32 | [Knock 'Em Out](https://open.spotify.com/track/1tzREQUvfSvoigbSOU60Bx) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Alright, Still \(Deluxe\)](https://open.spotify.com/album/5ySBiY0v4b03yw98oRDKtS) | 2:53 |
 | 33 | [Air Balloon](https://open.spotify.com/track/1DIS8YXZKxePLmY7Z8UC4I) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Air Balloon](https://open.spotify.com/album/5B9Oz2IZfNsoTLfoBwl1oA) | 3:48 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0yUqGc.md) - [plain]
 | 44 | [Lost My Mind](https://open.spotify.com/track/6OMvX7ieloQ1qdSwKb5BRD) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [No Shame](https://open.spotify.com/album/0DriDL7OcMeMENJWAElSYL) | 3:47 |
 | 45 | [Family Man](https://open.spotify.com/track/2djUvMKV5x0sUAPdbk4HlJ) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [No Shame](https://open.spotify.com/album/0DriDL7OcMeMENJWAElSYL) | 3:38 |
 
-Snapshot ID: `ag5LAAAAAAAMvan9Cgc83zogrwtologw`
+Snapshot ID: `ag+cgAAAAABPaEqxO4cZXoJJNRqnmadL`

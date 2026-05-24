@@ -1,6 +1,6 @@
 {
   "description": "Eletr\u00f4nico energ\u00e9tico para acompanhar a sua malha\u00e7\u00e3o di\u00e1ria. ",
-  "num_followers": 351849,
+  "num_followers": 351899,
   "original_name": "Treino Eletr\u00f4nico",
   "owner": {
     "name": "Spotify",
@@ -775,26 +775,6 @@
     {
       "added_at": "2026-05-04 13:53:01",
       "album": {
-        "name": "Children",
-        "url": "https://open.spotify.com/album/2alDtRinlIXBcb5bf5DHmn"
-      },
-      "artists": [
-        {
-          "name": "Selva",
-          "url": "https://open.spotify.com/artist/1Ejjxuav6kpsSyb6QIhjHa"
-        },
-        {
-          "name": "Kohen",
-          "url": "https://open.spotify.com/artist/3Dkul6nShja7zaggvl66rB"
-        }
-      ],
-      "duration_ms": 238124,
-      "name": "Children",
-      "url": "https://open.spotify.com/track/6KXxcGWj6KB5GlW1c2dhY5"
-    },
-    {
-      "added_at": "2026-05-04 13:53:01",
-      "album": {
         "name": "Dali",
         "url": "https://open.spotify.com/album/6UDVIUlB7nvJ4KDNTymxxv"
       },
@@ -827,6 +807,26 @@
       "duration_ms": 162090,
       "name": "Pitbull",
       "url": "https://open.spotify.com/track/6CYIVGVhbxgjyyMq6XrM1s"
+    },
+    {
+      "added_at": "2026-05-04 13:53:01",
+      "album": {
+        "name": "Children",
+        "url": "https://open.spotify.com/album/2alDtRinlIXBcb5bf5DHmn"
+      },
+      "artists": [
+        {
+          "name": "Selva",
+          "url": "https://open.spotify.com/artist/1Ejjxuav6kpsSyb6QIhjHa"
+        },
+        {
+          "name": "Kohen",
+          "url": "https://open.spotify.com/artist/3Dkul6nShja7zaggvl66rB"
+        }
+      ],
+      "duration_ms": 238124,
+      "name": "Children",
+      "url": "https://open.spotify.com/track/6KXxcGWj6KB5GlW1c2dhY5"
     },
     {
       "added_at": "2026-05-04 13:53:01",
@@ -955,26 +955,6 @@
     {
       "added_at": "2026-05-04 13:53:01",
       "album": {
-        "name": "Terremoto EP",
-        "url": "https://open.spotify.com/album/0aJooEPl35trvbDJxdFEj4"
-      },
-      "artists": [
-        {
-          "name": "Chemical Surf",
-          "url": "https://open.spotify.com/artist/7LgAW1ZiEd8f3HtCMGFaGx"
-        },
-        {
-          "name": "Ghabe",
-          "url": "https://open.spotify.com/artist/6q8BNoSQYcHGzaF5Kkb2nA"
-        }
-      ],
-      "duration_ms": 165519,
-      "name": "Terremoto",
-      "url": "https://open.spotify.com/track/0sL7klqtKTaMVVC3CCXwRv"
-    },
-    {
-      "added_at": "2026-05-04 13:53:01",
-      "album": {
         "name": "Atomic Bomb (feat. Juan Alcasar)",
         "url": "https://open.spotify.com/album/4j9gMw9UoRS3xydzvmtnGX"
       },
@@ -999,6 +979,26 @@
       "duration_ms": 129000,
       "name": "Atomic Bomb (feat. Juan Alcasar)",
       "url": "https://open.spotify.com/track/1Ge8px4DSNseb1atf9XumE"
+    },
+    {
+      "added_at": "2026-05-04 13:53:01",
+      "album": {
+        "name": "Terremoto EP",
+        "url": "https://open.spotify.com/album/0aJooEPl35trvbDJxdFEj4"
+      },
+      "artists": [
+        {
+          "name": "Chemical Surf",
+          "url": "https://open.spotify.com/artist/7LgAW1ZiEd8f3HtCMGFaGx"
+        },
+        {
+          "name": "Ghabe",
+          "url": "https://open.spotify.com/artist/6q8BNoSQYcHGzaF5Kkb2nA"
+        }
+      ],
+      "duration_ms": 165519,
+      "name": "Terremoto",
+      "url": "https://open.spotify.com/track/0sL7klqtKTaMVVC3CCXwRv"
     },
     {
       "added_at": "2026-05-04 13:53:01",

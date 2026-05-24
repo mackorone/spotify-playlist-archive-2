@@ -4,7 +4,7 @@
 
 > Filthy bass bangers to soundtrack your sesh
 
-650 songs - 1 day 13 hr 17 min
+651 songs - 1 day 13 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Bass & Treble](https://open.spotify.com/track/7MJqSAiwXwqHNlS46ESZP0) | [Jappa](https://open.spotify.com/artist/1YjOQxSsA8Le5egt7q7RaI), [Wish Master](https://open.spotify.com/artist/1PnQ5ew1JOtCQfbXWmXAWn) | [Bass & Treble](https://open.spotify.com/album/3RM2olXS37uK142eIS5DgH) | 3:48 | 2024-08-02 | 2025-05-09 |
 | [Bass Revolution 2000](https://open.spotify.com/track/6EXiTVt4LBkhSYS4OY11h7) | [Basswell](https://open.spotify.com/artist/4NzdIkiweEHJgVdg8q2Ruk) | [Bass Revolution 2000](https://open.spotify.com/album/2vPLBwylbk5x7Ndh7pevk8) | 6:45 | 2023-12-27 | 2024-01-12 |
 | [Bassline Murder](https://open.spotify.com/track/5fEPxmjhapmj9eqsl2aW2C) | [Levela](https://open.spotify.com/artist/0sDeXbVK3kNuzYQlVib9ib), [Bennie](https://open.spotify.com/artist/3CioJ4easWhXe2RsRwwmPr), [Boy Bellers](https://open.spotify.com/artist/7MiDnRMISjlAaWoFlZ4wpC) | [Bassline Murder](https://open.spotify.com/album/0zMno2lzMKblucKSZbEKmO) | 3:04 | 2025-05-08 | 2025-06-13 |
+| [Be Alright](https://open.spotify.com/track/63pDrdeYyMZ9kmMtzRB8Uj) | [FLOONK](https://open.spotify.com/artist/4ZzqskD9slkLlmzd5kiEnM) | [Be Alright](https://open.spotify.com/album/4un4FAjfIhnCW1Xy83Qx9Y) | 3:22 | 2026-05-21 |  |
 | [Be The One](https://open.spotify.com/track/1cQld05IcUDw3RCFt7uymW) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Be The One](https://open.spotify.com/album/03CJTIUvULKcMHjr0qjZtK) | 2:49 | 2023-05-19 | 2024-07-27 |
 | [Be The One](https://open.spotify.com/track/63MBVrJ8nADdP4AXbBGlOj) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o) | [Be The One](https://open.spotify.com/album/5XtT7YyAjN783nSW9ZtNBo) | 2:46 | 2023-12-27 | 2024-01-12 |
 | [Beamin’](https://open.spotify.com/track/7LUftIuD039hNS4CevDHdn) | [K Motionz](https://open.spotify.com/artist/6QYdXToMo4XHnG1AnEVZYJ), [Songer](https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd) | [Beamin’](https://open.spotify.com/album/11sXnogjgJ8nlpwwpHrsEa) | 2:20 | 2024-10-03 | 2025-08-23 |
@@ -268,7 +269,7 @@
 | [Hijack](https://open.spotify.com/track/0GHfI7rdYSibiQTR8D1lTl) | [1991](https://open.spotify.com/artist/2IP71LH7CbwddhsEXBI0fy), [Rova](https://open.spotify.com/artist/1uv53JWHsAxxRygGZMsguH) | [Hijack](https://open.spotify.com/album/4Tzxhm1EfOEUu6VelOuS3h) | 2:35 | 2025-05-08 | 2025-11-28 |
 | [Hit The Brakes](https://open.spotify.com/track/3tsKYr9yzgUbH6RCWlbAkX) | [Subsonic](https://open.spotify.com/artist/4D6frglSGSAHoK7W5rp92j) | [Hit The Brakes](https://open.spotify.com/album/1M3Tea37phD8cgP4Sy3NGz) | 3:43 | 2025-04-17 | 2025-11-28 |
 | [Hive Mind](https://open.spotify.com/track/1rDI8nPgcXUKJkXr5iWYd3) | [Degs](https://open.spotify.com/artist/7gYMOxGbwZZgvaOc6z5VJG), [NCT](https://open.spotify.com/artist/5iWNGhdgW9MA0l5AqFLqh9), [Dux n Bass](https://open.spotify.com/artist/5LlJwFI0pt18QEmRZMT7EA) | [Hive Mind](https://open.spotify.com/album/1tMHEBaGjw7diyPDiNyyf3) | 3:00 | 2025-05-08 | 2025-05-15 |
-| [Holy Ghost](https://open.spotify.com/track/394SgqkD6gJOM08pZI8kol) | [Zero](https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH) | [Holy Ghost](https://open.spotify.com/album/54JOZGnbDW4l1P1i2UlMju) | 3:29 | 2025-11-28 |  |
+| [Holy Ghost](https://open.spotify.com/track/394SgqkD6gJOM08pZI8kol) | [Zero](https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH) | [Holy Ghost](https://open.spotify.com/album/54JOZGnbDW4l1P1i2UlMju) | 3:29 | 2025-11-28 | 2026-05-24 |
 | [Home In That Bass](https://open.spotify.com/track/2WtlAPdL3vRvGijgwaAP4z) | [Andy C](https://open.spotify.com/artist/75HK7rgkmDMTnWwwmcN53N) | [Home In That Bass](https://open.spotify.com/album/6n9bf2en9wnB2R0N15hFGT) | 3:09 | 2024-09-12 | 2025-05-09 |
 | [Hooked](https://open.spotify.com/track/4v7kKFlEDmpVToHOICsXaM) | [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM) | [Hooked](https://open.spotify.com/album/69QTaXErGkvPW9pQ0GYY4H) | 3:26 | 2022-09-30 | 2024-02-23 |
 | [Hot In Here](https://open.spotify.com/track/0jzGm5fCcbUdaiUj4hAxeM) | [Champion](https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR), [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [Hot In Here](https://open.spotify.com/album/02oLtxGI6xxN68iVnnDR6W) | 3:11 | 2023-12-01 | 2024-09-06 |

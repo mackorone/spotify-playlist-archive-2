@@ -4,7 +4,7 @@
 
 > when the new hockey show \*hits\*
 
-721 songs - 1 day 14 hr 48 min
+722 songs - 1 day 14 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,7 +127,7 @@
 | [Cinderella](https://open.spotify.com/track/6NgvAmrhjUENGdtVQnBHx8) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Cinderella](https://open.spotify.com/album/3Xp0cLYXLzd47kskTdPVGg) | 4:03 | 2024-07-09 | 2024-08-09 |
 | [Cinnamon](https://open.spotify.com/track/3snrmj8vx2A3u70Lr5V4R3) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Cinnamon](https://open.spotify.com/album/7epoeWPFWTeHfuG8eR7HD3) | 2:42 | 2025-09-11 | 2025-11-28 |
 | [Cinnamon Girl](https://open.spotify.com/track/2mdEsXPu8ZmkHRRtAdC09e) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Norman Fucking Rockwell!](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) | 5:00 | 2023-06-14 | 2023-08-10 |
-| [City](https://open.spotify.com/track/1nSEAxK0L8z5pJiCnhMMqX) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [My Lover](https://open.spotify.com/album/2huUEfqWfvuCa2MZKuCBO9) | 3:16 | 2026-02-12 |  |
+| [City](https://open.spotify.com/track/1nSEAxK0L8z5pJiCnhMMqX) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [My Lover](https://open.spotify.com/album/2huUEfqWfvuCa2MZKuCBO9) | 3:16 | 2026-02-12 | 2026-05-24 |
 | [Cleats](https://open.spotify.com/track/7HWONeQrWpcjflAPGbH5L3) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Cleats](https://open.spotify.com/album/0VZGFBmqzdTFhMgMl7rsxB) | 3:41 | 2024-09-13 | 2024-09-27 |
 | [cliché](https://open.spotify.com/track/3aD33slymVwdEcdbKUBnDu) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [cliché](https://open.spotify.com/album/2zCyRKoQozz3iTdTi3o8mi) | 2:56 | 2025-05-22 | 2025-10-15 |
 | [Close To You](https://open.spotify.com/track/5MPi9e7z46wopyad10R6qx) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Close To You](https://open.spotify.com/album/2gxGzfvXQvjVbQiuVcfKDM) | 3:45 | 2024-06-18 | 2024-08-15 |
@@ -615,6 +615,7 @@
 | [That Boy's Not Nice](https://open.spotify.com/track/6wshH1jwUSaFQQWtaTDPkd) | [Memphis LK](https://open.spotify.com/artist/7z3XgqpRYdNJ7RvEUlYaUe) | [That Boy's Not Nice](https://open.spotify.com/album/37DkXNloWZnZsp0j25sg1F) | 3:18 | 2025-11-27 | 2026-01-15 |
 | [That’s So True](https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us \(Deluxe\)](https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk) | 2:46 | 2024-10-17 | 2025-07-25 |
 | [the boy is mine \(with Brandy, Monica\) \- Remix](https://open.spotify.com/track/52anJ914oylWdT3CytSMYF) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee), [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2) | [the boy is mine \(Remix\)](https://open.spotify.com/album/3AICoyb5EH2OBmQJnaPDIt) | 3:33 | 2024-06-27 | 2024-10-10 |
+| [the cure](https://open.spotify.com/track/4EoJ151oQ5jY48z4RhSE96) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [the cure](https://open.spotify.com/album/6zme2NwcaBxbn3mWOcMY8y) | 4:57 | 2026-05-21 |  |
 | [the cutest pair](https://open.spotify.com/track/0VVD95cRAppHSOGPYrfIG2) | [Regina Song](https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W) | [fangirl](https://open.spotify.com/album/46n9YK2DE6B0CMk8qx4Twt) | 2:38 | 2024-10-10 | 2025-08-22 |
 | [The Fool](https://open.spotify.com/track/5OkXA7ru3aZrY92m800aSc) | [Alexandria](https://open.spotify.com/artist/0SQG4wPVUlfbmbGQfqB47y) | [The Fool](https://open.spotify.com/album/0k8RXtTwCrqs9ofCFAUNQX) | 2:55 | 2026-04-02 | 2026-05-22 |
 | [THE GIRLS \- BLACKPINK THE GAME OST](https://open.spotify.com/track/1mFpMoeZfkIqtqW2AfQ8ba) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [THE GIRLS \(BLACKPINK THE GAME OST\)](https://open.spotify.com/album/01K5Mr0IkO7GQrvoUEsWfS) | 2:42 | 2023-09-07 | 2023-09-28 |

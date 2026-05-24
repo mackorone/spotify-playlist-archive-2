@@ -199,6 +199,28 @@
     },
     {
       "album": {
+        "name": "Barbie Doll",
+        "url": "https://open.spotify.com/album/147rc4OmHtzzTxLObTAx15"
+      },
+      "artists": [
+        {
+          "name": "Hurricane Wisdom",
+          "url": "https://open.spotify.com/artist/4PooHx6BstbetDtBMrLyV7"
+        },
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        }
+      ],
+      "date_added": "2026-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166956,
+      "name": "Barbie Doll",
+      "url": "https://open.spotify.com/track/21fyLmQranpgyoYHMMCIuq"
+    },
+    {
+      "album": {
         "name": "Invasion of Privacy",
         "url": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML"
       },
@@ -236,7 +258,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 221939,
       "name": "Blessings (feat. Jamila Woods)",
       "url": "https://open.spotify.com/track/2VQc9orzwE6a5qFfy54P6e"
@@ -1185,6 +1207,32 @@
     },
     {
       "album": {
+        "name": "Coloring Book",
+        "url": "https://open.spotify.com/album/71QyofYesSsRMwFOTafnhB"
+      },
+      "artists": [
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        },
+        {
+          "name": "Jeremih",
+          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
+        },
+        {
+          "name": "Francis and the Lights",
+          "url": "https://open.spotify.com/artist/23EA28263XvtIrXuySX6oI"
+        }
+      ],
+      "date_added": "2026-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290316,
+      "name": "Summer Friends (feat. Jeremih & Francis & The Lights)",
+      "url": "https://open.spotify.com/track/2fl0B0OaXjWbjHCQFx2O8W"
+    },
+    {
+      "album": {
         "name": "STAR LINE",
         "url": "https://open.spotify.com/album/4if1BvvWfmG4go4uAmow8h"
       },
@@ -1218,7 +1266,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 218624,
       "name": "The Man Who Has Everything",
       "url": "https://open.spotify.com/track/3woRy7uxzl1lO2XO99oHsN"

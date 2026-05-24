@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 
 > sweet\. sharp\. unbothered \- Bea Miller on the cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 525,374 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 525,356 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 | 49 | [Cognitive Dissonance](https://open.spotify.com/track/4gxcQjQas1oSbY63REnRjT) | [mermaidonmars](https://open.spotify.com/artist/3E3Bhr9cOUCWhjJhNZeTAX) | [Spellbook](https://open.spotify.com/album/16R0XNwZAqSn3xtyxAOb7K) | 2:29 |
 | 50 | [Miffy \- Halo Boy Remix](https://open.spotify.com/track/0YKWVQAAhWUdN2CHb2tBPW) | [XTINA GG](https://open.spotify.com/artist/4PS6CG01HPH6t4K2aBzril), [Halo Boy](https://open.spotify.com/artist/3Bh0RCAQHnRUTJPBFVmjlj) | [Miffy \(Halo Boy Remix\)](https://open.spotify.com/album/25YDnM7fzsHjxGWMtd0nxI) | 2:07 |
 
-Snapshot ID: `AAAAALc6MZ8+6IGusBSuO7sIAy/Z0slh`
+Snapshot ID: `AAAAAGawOabfsyRc7Ugshu+aaCMj8TfU`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20S3TU4dlyR.md) - [plain]
 
 > Este es el Reggae, al sur del continente americano\. Foto: Dread Mar I.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,463 likes - 89 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,475 likes - 89 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,9 +67,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20S3TU4dlyR.md) - [plain]
 | 57 | [La Bondad De Dios](https://open.spotify.com/track/1ipdH4iZ4ERII5dTsmwIqR) | [Jah Love](https://open.spotify.com/artist/2ZjAUPTLH9Z3zmVsUdBsOd) | [La Bondad De Dios](https://open.spotify.com/album/5h1nuRMHAlLG0t9Zzmy4pd) | 3:56 |
 | 58 | [Tan Distante](https://open.spotify.com/track/72t5gOSN80UxL23dyBelJ7) | [Rondamon](https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP) | [Aguas Frescas De Jamaica](https://open.spotify.com/album/1svQZMx26EywFi49R1BMkX) | 4:38 |
 | 59 | [Lo De Siempre](https://open.spotify.com/track/6QG5E3dAlrnoj8yIwJFr1X) | [Leonchalon](https://open.spotify.com/artist/18hhcln4FwPkj2iwxT5yB0) | [Amor De Barrio](https://open.spotify.com/album/2LvjJW52h7wcohlk5hvGCj) | 3:22 |
-| 60 | [Rastone \(En Vivo en el Teatro de Flores\)](https://open.spotify.com/track/2HQ7tr2KXASyKQJoIWtJiB) | [C4 Reggae Combativo](https://open.spotify.com/artist/2HnAud57JxR0WvtR2XviA0), [Viejas Locas](https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV) | [Rastone \(En Vivo en el Teatro de Flores\)](https://open.spotify.com/album/4kENWmOZi09OBZL5ziwi7w) | 3:30 |
+| 60 | [Arriba](https://open.spotify.com/track/4fuHpNw6f7LtUWdKAkaHhS) | [Fidel Nadal](https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS) | [Arriba](https://open.spotify.com/album/6Zqog9Lev55brNFT25qM4L) | 3:42 |
 | 61 | [No Mires Atras](https://open.spotify.com/track/5p1tfHJsagO1inTgmiW7Sk) | [Bahiano](https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN) | [Bahiano BH+](https://open.spotify.com/album/395z1bmOgVL9hz71ajyXSj) | 4:20 |
-| 62 | [Arriba](https://open.spotify.com/track/4fuHpNw6f7LtUWdKAkaHhS) | [Fidel Nadal](https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS) | [Arriba](https://open.spotify.com/album/6Zqog9Lev55brNFT25qM4L) | 3:42 |
+| 62 | [Rastone \(En Vivo en el Teatro de Flores\)](https://open.spotify.com/track/2HQ7tr2KXASyKQJoIWtJiB) | [C4 Reggae Combativo](https://open.spotify.com/artist/2HnAud57JxR0WvtR2XviA0), [Viejas Locas](https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV) | [Rastone \(En Vivo en el Teatro de Flores\)](https://open.spotify.com/album/4kENWmOZi09OBZL5ziwi7w) | 3:30 |
 | 63 | [Puede Parecer](https://open.spotify.com/track/1hLdypz7khXd9pociYJo1Q) | [Rondamon](https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP) | [Sí Serás](https://open.spotify.com/album/0ZToxlCx1Z93ECG3yZWsZ0) | 3:18 |
 | 64 | [Naufrago](https://open.spotify.com/track/66S8xPH84rlZx8TmXps28o) | [Mensajeros Reggae](https://open.spotify.com/artist/33gqwPfmv66I9QO0w5jXoE) | [Así](https://open.spotify.com/album/1Vnxc92RmrxMEoh3wyZFte) | 3:57 |
 | 65 | [Este Mundo](https://open.spotify.com/track/6WK2LH6KzIN9guZDQgoFxo) | [El Natty Combo](https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9) | [Negro](https://open.spotify.com/album/0yw1Sq70Su7ZCEJV8jv9HY) | 4:25 |
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20S3TU4dlyR.md) - [plain]
 | 82 | [Cool and Calm](https://open.spotify.com/track/4b99UsjZul6cpWAHRfAqnq) | [Tiano Bless](https://open.spotify.com/artist/35B3K7HUycrePapFhO8X5v) | [Cool and Calm](https://open.spotify.com/album/1SrHyPTxUtvtrVd2vHJ24U) | 2:58 |
 | 83 | [Dimelo Ayer](https://open.spotify.com/track/3oLLeHt1QC4UZQR2SQ2wyc) | [Coral](https://open.spotify.com/artist/0G8H711x1d7iYx6JIhMMQq), [Cucho Parisi](https://open.spotify.com/artist/1uuzWNBMb1W3xA1eP3VGHm) | [Dimelo Ayer](https://open.spotify.com/album/3y26sdvr1EWg1hELlXHTm1) | 2:39 |
 | 84 | [El Cuento](https://open.spotify.com/track/1Qdl60UYYCVLkZbsNwSyQZ) | [12 Tribus](https://open.spotify.com/artist/7whGu0xfNiwItHQv41NXH4), [Joe Vasconcellos](https://open.spotify.com/artist/4sGC7K2rSpWrWudBgYPMce) | [Súbete](https://open.spotify.com/album/7g5vosPUeBXE53YHV923pU) | 4:05 |
-| 85 | [Si Tú No Estás](https://open.spotify.com/track/4HtwQqBnhftAYqeiww9Rme) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd), [E.N Young](https://open.spotify.com/artist/14vjE0DKC1Y9G1WfdCSzFf) | [Si Tú No Estás](https://open.spotify.com/album/3UNLDMe86tqLPxyXz4dZHi) | 3:10 |
+| 85 | [Volver a Sentir \- En Vivo en el Teatro Caupolicán](https://open.spotify.com/track/5fj6aJG4nlcFpOBLrotZ67) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [En Vivo Teatro Caupolicán](https://open.spotify.com/album/30XuoYBnW180J7KY2y7OKA) | 4:11 |
 | 86 | [Bebamos de las Copas Lindas](https://open.spotify.com/track/0stjjSmOBJfmBvVL8qd7jy) | [El Natty Combo](https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9) | [Bebamos de las Copas Lindas](https://open.spotify.com/album/1Cn8QXjbDdiDEJst9nmWqV) | 3:27 |
 | 87 | [Casita](https://open.spotify.com/track/3MrOYjTjWASMbTmefUukCz) | [Karamelo Santo](https://open.spotify.com/artist/609ifGTYnL9iOfPI5KIzq1) | [Casita](https://open.spotify.com/album/0DMSNN9pV9J7oeDsG4Ry2n) | 3:25 |
 | 88 | [Seguirla](https://open.spotify.com/track/56Bv7jVPB3sLRBmUS6JJXD) | [Gaspar OM](https://open.spotify.com/artist/1Tvrm9z0xfdxJ5Xg5NODEj), [Fidel Nadal](https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS) | [Seguirla](https://open.spotify.com/album/33Gw7j5OgHFfno8VAtCYwm) | 3:11 |

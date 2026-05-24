@@ -1,12 +1,12 @@
 {
   "description": "This is Eladio Carrion. The essential tracks, all in one playlist.",
-  "num_followers": 378926,
+  "num_followers": 378953,
   "original_name": "This Is Eladio Carrion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ag5LAAAAAABdylsxR8uMb/9hHZxC1JsT",
+  "snapshot_id": "ag+cgAAAAACQh7kONC1R4SAQ+vQ8mZrN",
   "tracks": [
     {
       "added_at": null,
@@ -279,22 +279,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Buenos D\u00edas",
-        "url": "https://open.spotify.com/album/0VI9CUYMmXVlCGhHJ4bgN2"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        }
-      ],
-      "duration_ms": 159360,
-      "name": "Buenos D\u00edas",
-      "url": "https://open.spotify.com/track/4mc8byHXW8rmZT5L5jwYG5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sauce Boyz",
         "url": "https://open.spotify.com/album/2JwUsV3QP7FMWx1Fzt6dHQ"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 152960,
       "name": "Kemba Walker",
       "url": "https://open.spotify.com/track/4jhHaLksdP8DJZzxYAjOSz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Buenos D\u00edas",
+        "url": "https://open.spotify.com/album/0VI9CUYMmXVlCGhHJ4bgN2"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "duration_ms": 159360,
+      "name": "Buenos D\u00edas",
+      "url": "https://open.spotify.com/track/4mc8byHXW8rmZT5L5jwYG5"
     },
     {
       "added_at": null,
@@ -687,22 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "DON KBRN",
-        "url": "https://open.spotify.com/album/77WXheyyYBkqqz6Q19l37a"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        }
-      ],
-      "duration_ms": 130459,
-      "name": "H.I.M.",
-      "url": "https://open.spotify.com/track/4fZUG9dMyqlIFSnf1iitm1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Academy: Segunda Misi\u00f3n",
         "url": "https://open.spotify.com/album/2de63hNYGRgcNTXCtXQGvu"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 241958,
       "name": "SI SI SI SI (feat. Eladio Carrion, Bryant Myers, Dei V)",
       "url": "https://open.spotify.com/track/3GY16GkbrhV1hya2TKsaaj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DON KBRN",
+        "url": "https://open.spotify.com/album/77WXheyyYBkqqz6Q19l37a"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "duration_ms": 130459,
+      "name": "H.I.M.",
+      "url": "https://open.spotify.com/track/4fZUG9dMyqlIFSnf1iitm1"
     },
     {
       "added_at": null,
@@ -979,6 +979,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sauce Boyz 2",
+        "url": "https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+        }
+      ],
+      "duration_ms": 253500,
+      "name": "Socio",
+      "url": "https://open.spotify.com/track/2H4SvdfK9ret8B4cjNvrum"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Chosen Few New Generation II - Recharged",
         "url": "https://open.spotify.com/album/382jindm6my1i05NJfXQLr"
       },
@@ -1003,26 +1023,6 @@
       "duration_ms": 201225,
       "name": "Salgo a Buscarte (feat. Ele A El Dominio)",
       "url": "https://open.spotify.com/track/2TzXxkRbz5fo31Crzn56mb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sauce Boyz 2",
-        "url": "https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        },
-        {
-          "name": "Luar La L",
-          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
-        }
-      ],
-      "duration_ms": 253500,
-      "name": "Socio",
-      "url": "https://open.spotify.com/track/2H4SvdfK9ret8B4cjNvrum"
     },
     {
       "added_at": null,

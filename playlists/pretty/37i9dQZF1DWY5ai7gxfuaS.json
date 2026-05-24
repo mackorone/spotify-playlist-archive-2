@@ -1,6 +1,6 @@
 {
   "description": "The future of metal is here.",
-  "num_followers": 4248,
+  "num_followers": 4280,
   "original_name": "Alternative Metal",
   "owner": {
     "name": "Spotify",
@@ -759,22 +759,6 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "Black Brick",
-        "url": "https://open.spotify.com/album/1A3Xjo3qosxiNetGhM5nVq"
-      },
-      "artists": [
-        {
-          "name": "Deafheaven",
-          "url": "https://open.spotify.com/artist/4XpPveeg7RuYS3CgLo75t9"
-        }
-      ],
-      "duration_ms": 447297,
-      "name": "Black Brick",
-      "url": "https://open.spotify.com/track/63OqMoUP4Racq9holZo6dU"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
         "name": "Welcome To Hell (feat. Emmure)",
         "url": "https://open.spotify.com/album/6IWNoXgJxkGaACypuELOAz"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 161860,
       "name": "Welcome To Hell (feat. Emmure)",
       "url": "https://open.spotify.com/track/3B8UX8YFfS7ck4BOI7Hc7U"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
+        "name": "Black Brick",
+        "url": "https://open.spotify.com/album/1A3Xjo3qosxiNetGhM5nVq"
+      },
+      "artists": [
+        {
+          "name": "Deafheaven",
+          "url": "https://open.spotify.com/artist/4XpPveeg7RuYS3CgLo75t9"
+        }
+      ],
+      "duration_ms": 447297,
+      "name": "Black Brick",
+      "url": "https://open.spotify.com/track/63OqMoUP4Racq9holZo6dU"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -927,22 +927,6 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "Azure",
-        "url": "https://open.spotify.com/album/4p3wtygUwO9Rfjun8urArN"
-      },
-      "artists": [
-        {
-          "name": "Love Is Noise",
-          "url": "https://open.spotify.com/artist/4qY6XGFQwZubu0oKBJeVki"
-        }
-      ],
-      "duration_ms": 254722,
-      "name": "Azure",
-      "url": "https://open.spotify.com/track/0wPkG2Hq0PCnZpQFaPurfl"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
         "name": "HIGHER POWER",
         "url": "https://open.spotify.com/album/6WTTG3Lz51QlbpyY9AeYDJ"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 163413,
       "name": "HIGHER POWER",
       "url": "https://open.spotify.com/track/7DgbryJIzvkjsXKhteGrKz"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
+        "name": "Azure",
+        "url": "https://open.spotify.com/album/4p3wtygUwO9Rfjun8urArN"
+      },
+      "artists": [
+        {
+          "name": "Love Is Noise",
+          "url": "https://open.spotify.com/artist/4qY6XGFQwZubu0oKBJeVki"
+        }
+      ],
+      "duration_ms": 254722,
+      "name": "Azure",
+      "url": "https://open.spotify.com/track/0wPkG2Hq0PCnZpQFaPurfl"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
+        "name": "Salma Hayek",
+        "url": "https://open.spotify.com/album/3hmU83q2m8wuNgBiqziBYP"
+      },
+      "artists": [
+        {
+          "name": "WARGASM (UK)",
+          "url": "https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB"
+        }
+      ],
+      "duration_ms": 219630,
+      "name": "Salma Hayek",
+      "url": "https://open.spotify.com/track/61Fus2laOu8yWJM1YntJCY"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
         "name": "Faking It",
         "url": "https://open.spotify.com/album/1ojh4hiSv6uhe2lSCtb3CF"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 147200,
       "name": "saw BONES",
       "url": "https://open.spotify.com/track/0vDGdGQGyvpubJ0dJTg7uk"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
-        "name": "Salma Hayek",
-        "url": "https://open.spotify.com/album/3hmU83q2m8wuNgBiqziBYP"
-      },
-      "artists": [
-        {
-          "name": "WARGASM (UK)",
-          "url": "https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB"
-        }
-      ],
-      "duration_ms": 219630,
-      "name": "Salma Hayek",
-      "url": "https://open.spotify.com/track/61Fus2laOu8yWJM1YntJCY"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "Synopsis",
-        "url": "https://open.spotify.com/album/1csn83LGlgEFpoFjZDjHYG"
-      },
-      "artists": [
-        {
-          "name": "Mountain Eye",
-          "url": "https://open.spotify.com/artist/4tAs3G5ZsXLbE1yXpc6apz"
-        }
-      ],
-      "duration_ms": 202804,
-      "name": "Synopsis",
-      "url": "https://open.spotify.com/track/1TGEVFUCXVI7GzqAzGFBkX"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
         "name": "Dr\u00fdsill",
         "url": "https://open.spotify.com/album/0iKkEZpsHWqoF1O5ESG2fE"
       },
@@ -1287,6 +1271,22 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
+        "name": "Synopsis",
+        "url": "https://open.spotify.com/album/1csn83LGlgEFpoFjZDjHYG"
+      },
+      "artists": [
+        {
+          "name": "Mountain Eye",
+          "url": "https://open.spotify.com/artist/4tAs3G5ZsXLbE1yXpc6apz"
+        }
+      ],
+      "duration_ms": 202804,
+      "name": "Synopsis",
+      "url": "https://open.spotify.com/track/1TGEVFUCXVI7GzqAzGFBkX"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
         "name": "Alone I...",
         "url": "https://open.spotify.com/album/6b5mOy8LTM2pN8LQ5uspEj"
       },
@@ -1299,26 +1299,6 @@
       "duration_ms": 280549,
       "name": "Alone I Burn - Radio Edit",
       "url": "https://open.spotify.com/track/5GvOnHHJz0BUnlExQdPnAE"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
-        "name": "Laid to Rest (HEALTH Remix)",
-        "url": "https://open.spotify.com/album/2xJ9kcY65dxKtx81YOCa1K"
-      },
-      "artists": [
-        {
-          "name": "Lamb of God",
-          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
-        },
-        {
-          "name": "HEALTH",
-          "url": "https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth"
-        }
-      ],
-      "duration_ms": 158604,
-      "name": "Laid to Rest - HEALTH Remix",
-      "url": "https://open.spotify.com/track/15qtJGXETtDOflM2Rvod4U"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -1351,6 +1331,26 @@
       "duration_ms": 322125,
       "name": "On the Floor",
       "url": "https://open.spotify.com/track/2gB0lJPGN3L1ueezkd559u"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
+        "name": "Laid to Rest (HEALTH Remix)",
+        "url": "https://open.spotify.com/album/2xJ9kcY65dxKtx81YOCa1K"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        },
+        {
+          "name": "HEALTH",
+          "url": "https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth"
+        }
+      ],
+      "duration_ms": 158604,
+      "name": "Laid to Rest - HEALTH Remix",
+      "url": "https://open.spotify.com/track/15qtJGXETtDOflM2Rvod4U"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -1419,6 +1419,22 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
+        "name": "open water",
+        "url": "https://open.spotify.com/album/1zmVVYStJqZZWxcsjfb9uT"
+      },
+      "artists": [
+        {
+          "name": "rouri404",
+          "url": "https://open.spotify.com/artist/6lQsMKSDG7XdirlE6YImHa"
+        }
+      ],
+      "duration_ms": 126912,
+      "name": "open water",
+      "url": "https://open.spotify.com/track/592JTl3UlQvZyBd2329Sgf"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
         "name": "Spiritual Architecture",
         "url": "https://open.spotify.com/album/3ZnxyzqpDXxW3xAyCuyvRf"
       },
@@ -1451,22 +1467,6 @@
       "duration_ms": 374706,
       "name": "Within - Remastered",
       "url": "https://open.spotify.com/track/0bcHyF4pOFr3xXV68mrbvO"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
-        "name": "open water",
-        "url": "https://open.spotify.com/album/1zmVVYStJqZZWxcsjfb9uT"
-      },
-      "artists": [
-        {
-          "name": "rouri404",
-          "url": "https://open.spotify.com/artist/6lQsMKSDG7XdirlE6YImHa"
-        }
-      ],
-      "duration_ms": 126912,
-      "name": "open water",
-      "url": "https://open.spotify.com/track/592JTl3UlQvZyBd2329Sgf"
     },
     {
       "added_at": "2024-07-19 10:51:43",

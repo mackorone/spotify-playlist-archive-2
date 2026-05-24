@@ -1,12 +1,12 @@
 {
   "description": "This is Tye Tribbett. The essential tracks, all in one playlist.",
-  "num_followers": 12662,
+  "num_followers": 12661,
   "original_name": "This Is Tye Tribbett",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ag5LAAAAAAB1R0IF8EoyASNvfINoiAZf",
+  "snapshot_id": "ag+cgAAAAABSLiqTOb88QIJXolH0zDE0",
   "tracks": [
     {
       "added_at": null,
@@ -799,6 +799,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Bloody Win (Live)",
+        "url": "https://open.spotify.com/album/4LJMZurhpJDxopsPlwQvqk"
+      },
+      "artists": [
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        }
+      ],
+      "duration_ms": 392586,
+      "name": "Give Thanks - Live",
+      "url": "https://open.spotify.com/track/6BlbfgFzbNc8jM9hAZIOmh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fresh",
+        "url": "https://open.spotify.com/album/6XoZ9zBsXQhtXK6j804l5A"
+      },
+      "artists": [
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        }
+      ],
+      "duration_ms": 292813,
+      "name": "Champion",
+      "url": "https://open.spotify.com/track/5jh6FTGuERahsyV7snAdQS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Church On The Moon",
         "url": "https://open.spotify.com/album/7tAv6YInjBhHbBjs8tqNlk"
       },
@@ -831,58 +867,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fresh",
-        "url": "https://open.spotify.com/album/6XoZ9zBsXQhtXK6j804l5A"
-      },
-      "artists": [
-        {
-          "name": "Tye Tribbett",
-          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
-        }
-      ],
-      "duration_ms": 292813,
-      "name": "Champion",
-      "url": "https://open.spotify.com/track/5jh6FTGuERahsyV7snAdQS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Bloody Win (Live)",
-        "url": "https://open.spotify.com/album/4LJMZurhpJDxopsPlwQvqk"
-      },
-      "artists": [
-        {
-          "name": "Tye Tribbett",
-          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
-        },
-        {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
-        }
-      ],
-      "duration_ms": 392586,
-      "name": "Give Thanks - Live",
-      "url": "https://open.spotify.com/track/6BlbfgFzbNc8jM9hAZIOmh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Victory Live",
-        "url": "https://open.spotify.com/album/14AByKbhJJzkvoY8f5qZuG"
-      },
-      "artists": [
-        {
-          "name": "Tye Tribbett",
-          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
-        }
-      ],
-      "duration_ms": 330826,
-      "name": "Everything Will Be Alright - Live",
-      "url": "https://open.spotify.com/track/0MdFa9NYbDijPriUTqjcwN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stand out",
         "url": "https://open.spotify.com/album/0eamOeDsOqnsFG1nMJdsHf"
       },
@@ -895,22 +879,6 @@
       "duration_ms": 257733,
       "name": "Let Us Worship",
       "url": "https://open.spotify.com/track/135kZmHIhJhzomzKpV9IVm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Only On The Road (Live)",
-        "url": "https://open.spotify.com/album/2tt2PDL15TmmbQbiQJXTVe"
-      },
-      "artists": [
-        {
-          "name": "Tye Tribbett",
-          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
-        }
-      ],
-      "duration_ms": 130505,
-      "name": "Every Time I Turn Around - Live In Houston",
-      "url": "https://open.spotify.com/track/7k5oDEp4Zh78ygQ3EBAXJg"
     },
     {
       "added_at": null,
@@ -931,6 +899,38 @@
       "duration_ms": 509186,
       "name": "Out Of Hiding / How He Loves / Good Good Father - Medley/Live",
       "url": "https://open.spotify.com/track/5LV9XOXzoyYmNnKPVH9wBv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Victory Live",
+        "url": "https://open.spotify.com/album/14AByKbhJJzkvoY8f5qZuG"
+      },
+      "artists": [
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        }
+      ],
+      "duration_ms": 330826,
+      "name": "Everything Will Be Alright - Live",
+      "url": "https://open.spotify.com/track/0MdFa9NYbDijPriUTqjcwN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Only On The Road (Live)",
+        "url": "https://open.spotify.com/album/2tt2PDL15TmmbQbiQJXTVe"
+      },
+      "artists": [
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        }
+      ],
+      "duration_ms": 130505,
+      "name": "Every Time I Turn Around - Live In Houston",
+      "url": "https://open.spotify.com/track/7k5oDEp4Zh78ygQ3EBAXJg"
     }
   ],
   "unique_name": "This Is Tye Tribbett",

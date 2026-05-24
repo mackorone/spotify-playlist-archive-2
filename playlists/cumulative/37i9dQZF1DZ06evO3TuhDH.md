@@ -4,7 +4,7 @@
 
 > This is Coi Leray\. The essential tracks, all in one playlist.
 
-124 songs - 5 hr 36 min
+125 songs - 5 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [3,2,1 \(Trust\)](https://open.spotify.com/track/75V2QT70ZsxvjedIhPGscf) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Blue Moon](https://open.spotify.com/album/55LEmUjDllfMjPxzSSm4HU) | 1:46 | 2023-09-15 | 2023-12-14 |
 | [Act Like You Know \(feat\. Shoreline Mafia\)](https://open.spotify.com/track/6YKZThWeKwTze24UqcCw3T) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Shoreline Mafia](https://open.spotify.com/artist/4tYSBptyGeVyZsk8JC4JHZ) | [Act Like You Know \(feat\. Shoreline Mafia\)](https://open.spotify.com/album/79g6lh7jLIAAorMCSKUXCI) | 2:39 | 2025-10-05 |  |
 | [Add It](https://open.spotify.com/track/0xIYGzbDYQLLAHmDtPWaY3) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Add It](https://open.spotify.com/album/6cdiwNAHltVS3FKRWXsism) | 1:40 | 2022-10-28 | 2023-06-26 |
+| [ALL THAT A$$](https://open.spotify.com/track/6kmF2BtLdvkCrkinXCxfmP) | [Keith Turner](https://open.spotify.com/artist/438yboVhqZFEStk5fljvfh), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg), [KDDO](https://open.spotify.com/artist/7zNK87FEWbBWd4ecCEq5rR) | [ALL THAT A$$](https://open.spotify.com/album/0r3QG1Bc5NvShfRne40Jis) | 3:04 | 2026-05-24 |  |
 | [American Deli \(feat\. Coi Leray\)](https://open.spotify.com/track/2GwOIEVXMZPGEJjSBF7lcp) | [Chavo](https://open.spotify.com/artist/6nlHpSAfPX5rJCuRKF2997), [Pi’erre Bourne](https://open.spotify.com/artist/3x3jSlhyv5CiCZDZlaTq0M), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Chavo's World 2](https://open.spotify.com/album/0xntyinSE3IRByoQDvTve7) | 3:13 | 2022-10-28 | 2023-01-07 |
 | [Anxiety](https://open.spotify.com/track/7ewmy2XLAnCAwUsYw4MiUl) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Anxiety](https://open.spotify.com/album/0qpJG5o7TzjB6x5kfKMLa7) | 3:06 | 2022-10-28 |  |
 | [At The Top \(with Kodak Black & Mustard\)](https://open.spotify.com/track/4buaMK8tYXGF7Ca3u8iLtE) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k) | [At The Top](https://open.spotify.com/album/7fQLpnEw13xochCUd776UZ) | 3:01 | 2022-10-28 | 2024-05-24 |
@@ -74,7 +75,7 @@
 | [Leave You Alone](https://open.spotify.com/track/02xoXDa2h6hd2kZdLdQSTF) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [What Happened To Forever?](https://open.spotify.com/album/0Nnd22G5iTtLUpd0TKYX52) | 2:34 | 2025-02-16 | 2025-06-05 |
 | [Lemon Cars](https://open.spotify.com/track/4kf5AnIriTBgyLdSykT5s8) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Lemon Cars](https://open.spotify.com/album/1wZO0rgyD5zGCmzzrXkpo6) | 2:53 | 2024-05-12 | 2025-01-13 |
 | [Lick Back](https://open.spotify.com/track/4uP2usJkQXCTMqW7r2thMs) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [What Happened To Forever?](https://open.spotify.com/album/0Nnd22G5iTtLUpd0TKYX52) | 1:16 | 2025-02-16 | 2025-11-16 |
-| [Lick Back \(feat\. Skrilla\) \- Remix](https://open.spotify.com/track/4KcQw2rMOQO06sZ6Bkic8j) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Skrilla](https://open.spotify.com/artist/3qdQnBjEBHrk5nZYxXdV1U) | [Lick Back \(feat\. Skrilla\) \[Remix\]](https://open.spotify.com/album/4Gi58kfGwjjXIOURUQ6SVo) | 2:13 | 2025-11-16 |  |
+| [Lick Back \(feat\. Skrilla\) \- Remix](https://open.spotify.com/track/4KcQw2rMOQO06sZ6Bkic8j) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Skrilla](https://open.spotify.com/artist/3qdQnBjEBHrk5nZYxXdV1U) | [Lick Back \(feat\. Skrilla\) \[Remix\]](https://open.spotify.com/album/4Gi58kfGwjjXIOURUQ6SVo) | 2:13 | 2025-11-16 | 2026-05-24 |
 | [Liquor and Weed](https://open.spotify.com/track/0o4HDwcuJ6RVHVtcOGq8rB) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Blue Moon](https://open.spotify.com/album/55LEmUjDllfMjPxzSSm4HU) | 2:37 | 2023-09-15 | 2024-03-05 |
 | [Lost In Time \(feat\. Coi Leray\)](https://open.spotify.com/track/3jjiozyhDFsR4Rolx5bppS) | [Wifisfuneral](https://open.spotify.com/artist/1vb1XqzyNMQ16BqbxRz5BV), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [PAIN?](https://open.spotify.com/album/3thS5m3xP8MgMarJwi9IAD) | 2:39 | 2022-10-28 | 2024-07-22 |
 | [LUXURY LIFE \(feat\. Coi Leray\)](https://open.spotify.com/track/10tfI0fBzPnoC0IcVkgOhS) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [BLOCKBUSTA](https://open.spotify.com/album/4XN6Kx1iUxtuhuAfh0zqZN) | 2:18 | 2023-12-13 | 2024-01-26 |

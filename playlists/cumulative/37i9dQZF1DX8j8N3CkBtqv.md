@@ -4,7 +4,7 @@
 
 > Naye Indie gaano ka khazana, featuring Prateeksha Srivastava, Akanksha Bhandari and other exciting artists.
 
-1,453 songs - 3 day 7 hr 44 min
+1,454 songs - 3 day 7 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -507,6 +507,7 @@
 | [I'm Lost](https://open.spotify.com/track/5WfRAy9N9zpqNABjETWsan) | [Karthik Sambhapur](https://open.spotify.com/artist/3mnwuCeoiNmqQ8sSnNcApJ), [Asha Bhat](https://open.spotify.com/artist/6cYELvB5Xi5UqGzitD1U96) | [I'm Lost](https://open.spotify.com/album/6syl0p9pfqObU5mqHwLmDP) | 1:37 | 2023-12-01 | 2023-12-23 |
 | [I'm Someone New](https://open.spotify.com/track/7hG3voGIQnOEYRqcUQ5hbD) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [I'm Someone New](https://open.spotify.com/album/5QwDXdYTzUiaY6geFpTgZX) | 4:13 | 2024-06-28 | 2024-08-03 |
 | [Ibadat](https://open.spotify.com/track/5dVAIwFQL6zh42WhG68ySk) | [Karan Nawani](https://open.spotify.com/artist/7rhiZksPc6NrFYY2x0iajU) | [Ibadat](https://open.spotify.com/album/3jIftDearbbeAnE7Sad8Kd) | 3:02 | 2024-02-23 | 2024-03-30 |
+| [Idhar Zara Sa Dekh Lo](https://open.spotify.com/track/04sAXlM1Lxu1k6Yqr1hTHf) | [Shikhar](https://open.spotify.com/artist/3PPDiyfJdSIL8UW8EeFmjM), [Yashika Sikka](https://open.spotify.com/artist/0lve5IC1Fy0kxyzy8deBih) | [Idhar Zara Sa Dekh Lo](https://open.spotify.com/album/75W6MsVbgjJm9n5Mk3WKNB) | 2:51 | 2026-05-22 |  |
 | [Ik Dafa](https://open.spotify.com/track/2gBnaF4e3aPLQhUDfSdAxE) | [Kunal Pandit](https://open.spotify.com/artist/2X38jO2RYETr4jcb77rAnr) | [Ik Dafa](https://open.spotify.com/album/0cTTS1ZqfV4L5QzecWI7UN) | 3:18 | 2024-11-29 | 2024-12-18 |
 | [Imtihaan](https://open.spotify.com/track/6IT15HLHYs10jq6VOtNwh7) | [Mehak Kaur](https://open.spotify.com/artist/3BKyvED3cIdsCwC2c0hB3V), [Chetna](https://open.spotify.com/artist/7FpN5hS8hNphK0l1X5JxrA), [Samyak Prasana](https://open.spotify.com/artist/64j5rJTsD25fTAcOiZWAiY), [Supriya Soni](https://open.spotify.com/artist/3xhwrUOyG10YUOOnIaGH22) | [Imtihaan](https://open.spotify.com/album/5gm9Iht544NL4K6Yydbx89) | 3:17 | 2024-03-01 | 2024-04-13 |
 | [In Your Eyes Only](https://open.spotify.com/track/1cA2wsnn1o82tcAEHokxiJ) | [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw), [Rashmi Virag](https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo) | [In Your Eyes Only](https://open.spotify.com/album/3mQHgUq5EfYtc7qt5TKDxJ) | 3:09 | 2023-09-29 | 2023-11-18 |
@@ -1415,7 +1416,7 @@
 | [Woh Kitaab](https://open.spotify.com/track/01f9F1FFwOcwZeqogOlCVJ) | [Rishi Dutta](https://open.spotify.com/artist/4fmbLKWLB2luqzJXcevWkW), [Anand Bhaskar](https://open.spotify.com/artist/4aykldlxvwj6cRQfhbfNMO) | [Woh Kitaab](https://open.spotify.com/album/1C63lZP0nVG3IvWzplLuth) | 4:15 | 2025-02-28 | 2025-03-08 |
 | [Woh Ladka](https://open.spotify.com/track/4d6JwfhVEVxF9HvVhjG9yc) | [Shai](https://open.spotify.com/artist/4fXKzFtrAGS3gGyM0BKoKq), [Annural Khalid](https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW) | [Woh Ladka](https://open.spotify.com/album/48pPTKLp4pgpTY7foQkfk9) | 2:05 | 2025-04-04 | 2025-04-12 |
 | [Woh Main Hoon](https://open.spotify.com/track/1RxbNlquEzPxXO2O20axxp) | [Chirag Soni](https://open.spotify.com/artist/3UMC3IINcoIuI0GeNb6Jm3), [Vishal Pande](https://open.spotify.com/artist/579y8QAT8i0Tr5G2D4kuN3) | [Woh Main Hoon](https://open.spotify.com/album/0CGt8RyaUvA0cZO9NMYkZR) | 3:32 | 2023-08-18 | 2023-09-16 |
-| [Wujood](https://open.spotify.com/track/0YnjxgtaKuU0eJbbezEYNI) | [Suzonn](https://open.spotify.com/artist/3xZ9z6k4Suc2O8cAiwMt7h) | [Wujood](https://open.spotify.com/album/50xoQvSY29s3EHfxtvEMkJ) | 4:09 | 2026-04-10 |  |
+| [Wujood](https://open.spotify.com/track/0YnjxgtaKuU0eJbbezEYNI) | [Suzonn](https://open.spotify.com/artist/3xZ9z6k4Suc2O8cAiwMt7h) | [Wujood](https://open.spotify.com/album/50xoQvSY29s3EHfxtvEMkJ) | 4:09 | 2026-04-10 | 2026-05-24 |
 | [WWYD?](https://open.spotify.com/track/07dpv49QO8Dg6Dm1SWQkqB) | [RANJ](https://open.spotify.com/artist/1vR6C8xoVTgy9yVRsCsr7H), [Tienas](https://open.spotify.com/artist/6JvFJaw7uRQFBUzSlv28Gw) | [27 CLUB](https://open.spotify.com/album/6Rc3YQSC5Afgy6zN3MsCgc) | 1:29 | 2026-02-27 | 2026-05-16 |
 | [Yaad](https://open.spotify.com/track/4P0LkIqpdn3v9udP5yWRl9) | [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw), [KASYAP](https://open.spotify.com/artist/4p4ILwTCyu0exslJsiQzZP), [Rajat Arora](https://open.spotify.com/artist/2ubmAXEE8tHwcw8xRHDSh7) | [Yaad](https://open.spotify.com/album/0AvvCzztJAisAUEbkHz6Cx) | 2:36 | 2023-05-26 | 2023-07-15 |
 | [Yaad Aayegi](https://open.spotify.com/track/7iut9E1S3wF6poT8aopIdY) | [Priyanshi Srivastava](https://open.spotify.com/artist/1Vt7a0YpqiUoIcWnIiLXMo) | [Yaad Aayegi](https://open.spotify.com/album/7t1B0AMRNSVBsvoHmp7V0U) | 2:16 | 2025-01-31 | 2025-02-11 |

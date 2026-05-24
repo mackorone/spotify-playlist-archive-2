@@ -10479,6 +10479,28 @@
     },
     {
       "album": {
+        "name": "Idhar Zara Sa Dekh Lo",
+        "url": "https://open.spotify.com/album/75W6MsVbgjJm9n5Mk3WKNB"
+      },
+      "artists": [
+        {
+          "name": "Shikhar",
+          "url": "https://open.spotify.com/artist/3PPDiyfJdSIL8UW8EeFmjM"
+        },
+        {
+          "name": "Yashika Sikka",
+          "url": "https://open.spotify.com/artist/0lve5IC1Fy0kxyzy8deBih"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171035,
+      "name": "Idhar Zara Sa Dekh Lo",
+      "url": "https://open.spotify.com/track/04sAXlM1Lxu1k6Yqr1hTHf"
+    },
+    {
+      "album": {
         "name": "Ik Dafa",
         "url": "https://open.spotify.com/album/0cTTS1ZqfV4L5QzecWI7UN"
       },
@@ -29614,7 +29636,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 249857,
       "name": "Wujood",
       "url": "https://open.spotify.com/track/0YnjxgtaKuU0eJbbezEYNI"

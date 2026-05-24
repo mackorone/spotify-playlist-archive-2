@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4eQ4e5.md) - [plain]
 
 > This is Edith Márquez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,497 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,502 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4eQ4e5.md) - [plain]
 | 47 | [El primero, el único, el último](https://open.spotify.com/track/5GjqiHdSs9wWcFsd9Vddeg) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Canciones de Amor y Sentimiento](https://open.spotify.com/album/39mbS15BDr9xgth9egyADB) | 3:38 |
 | 48 | [Tengo todo excepto a ti](https://open.spotify.com/track/5qJbSTfXbnkzXnoFPNGCXG) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Las Mejores Baladas del Pop](https://open.spotify.com/album/7ypiEzpdXi5pktXBFnHUe0) | 4:18 |
 | 49 | [La Memoria Del Corazón](https://open.spotify.com/track/21RRlWWp4eBfo0Avxxmaso) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Memorias Del Corazón](https://open.spotify.com/album/4AbysRanSqKVyJ4RlEaB26) | 4:49 |
-| 50 | [Dígale](https://open.spotify.com/track/3OAGx6n5CpzwfdS8VUcXrY) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Pasiones de Cabaret](https://open.spotify.com/album/1q1SusB7gV3PgGOBvdSThq) | 3:58 |
+| 50 | [Hoy Lo Vi Pasar](https://open.spotify.com/track/5Aq4U4J8LmZ6INZQE8Q5Hs) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Eterna e Inolvidable](https://open.spotify.com/album/2qiqd71yX91Vb4Q0oJXNiQ) | 3:30 |
 
-Snapshot ID: `ag5LAAAAAAAwCK9koWABhBMEqj57fKHc`
+Snapshot ID: `ag+cgAAAAAC/SZ6PDVtOT2nsS+2bVh5W`

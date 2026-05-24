@@ -5140,7 +5140,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 150000,
       "name": "Best For You",
       "url": "https://open.spotify.com/track/6wtE2YHOjHTn8MvE0lFJzM"
@@ -6892,7 +6892,7 @@
       ],
       "date_added": "2026-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 149634,
       "name": "CEO (Rich Man)",
       "url": "https://open.spotify.com/track/5zedIU1wMTkKLbHky1Twg1"
@@ -9574,7 +9574,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 209720,
       "name": "Dracula - JENNIE Remix",
       "url": "https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM"
@@ -12446,10 +12446,28 @@
       ],
       "date_added": "2026-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 184000,
       "name": "Everest",
       "url": "https://open.spotify.com/track/4QEbyFnMJDt2HSmvbCmfQH"
+    },
+    {
+      "album": {
+        "name": "Maailma on mun",
+        "url": "https://open.spotify.com/album/6fZNN1JBw3ZgZtHElXmdtX"
+      },
+      "artists": [
+        {
+          "name": "Minttu",
+          "url": "https://open.spotify.com/artist/2WR0rtZhH9gTe9sDeafqKr"
+        }
+      ],
+      "date_added": "2026-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185356,
+      "name": "Everest",
+      "url": "https://open.spotify.com/track/1LF1fGMaubONQUGWKFlP5v"
     },
     {
       "album": {
@@ -13030,7 +13048,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 180000,
       "name": "Ferto",
       "url": "https://open.spotify.com/track/1w5c5tE1LEfE7kTSfY6Hbl"
@@ -13440,6 +13458,28 @@
       "duration_ms": 195750,
       "name": "Flyys",
       "url": "https://open.spotify.com/track/07xQchUaGKsOSxfHa4c7b7"
+    },
+    {
+      "album": {
+        "name": "Fokus",
+        "url": "https://open.spotify.com/album/1E8TWDERXQrfgFOSkNfPzM"
+      },
+      "artists": [
+        {
+          "name": "Sonia",
+          "url": "https://open.spotify.com/artist/4jbppZh0VPHNqYPYzkoCah"
+        },
+        {
+          "name": "Evelina",
+          "url": "https://open.spotify.com/artist/3KgHd8tKiKYsazNkydQgYM"
+        }
+      ],
+      "date_added": "2026-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161571,
+      "name": "Fokus",
+      "url": "https://open.spotify.com/track/11JysdSFvhAWCgiu53mBAO"
     },
     {
       "album": {
@@ -14090,7 +14130,7 @@
       ],
       "date_added": "2026-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 174374,
       "name": "F\u00f8r Vi G\u00e5r Hjem - naughty version",
       "url": "https://open.spotify.com/track/3JsCDUE7QrdUjg0DHnsUf2"
@@ -17667,6 +17707,28 @@
     },
     {
       "album": {
+        "name": "Huuda! (feat. JVG) [Remix]",
+        "url": "https://open.spotify.com/album/3jRPTEs2mzXarAvTtGQjVL"
+      },
+      "artists": [
+        {
+          "name": "Haloo Helsinki!",
+          "url": "https://open.spotify.com/artist/0JTMRuiDzOCjWuYtWMgv2s"
+        },
+        {
+          "name": "JVG",
+          "url": "https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj"
+        }
+      ],
+      "date_added": "2026-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202752,
+      "name": "Huuda! (feat. JVG) - Remix",
+      "url": "https://open.spotify.com/track/4XzqJ6ntqIiZII6GUyHXz2"
+    },
+    {
+      "album": {
         "name": "Huudeil fame",
         "url": "https://open.spotify.com/album/72WiRTdsgRSLemsXhEL1Cn"
       },
@@ -19056,7 +19118,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 185920,
       "name": "Ihan kohta ohi",
       "url": "https://open.spotify.com/track/0MAn9fS281plpvCfbr9QNk"
@@ -19380,7 +19442,7 @@
       ],
       "date_added": "2026-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 172310,
       "name": "Ikivanha",
       "url": "https://open.spotify.com/track/7h6GHjljaGskhM84n9lHYx"
@@ -22846,6 +22908,24 @@
       "duration_ms": 172512,
       "name": "Kaikki Ok",
       "url": "https://open.spotify.com/track/4Sru7OlIuO3Y31pq5nZCL5"
+    },
+    {
+      "album": {
+        "name": "Maailma on mun",
+        "url": "https://open.spotify.com/album/6fZNN1JBw3ZgZtHElXmdtX"
+      },
+      "artists": [
+        {
+          "name": "Minttu",
+          "url": "https://open.spotify.com/artist/2WR0rtZhH9gTe9sDeafqKr"
+        }
+      ],
+      "date_added": "2026-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182438,
+      "name": "Kaikki on mahollist",
+      "url": "https://open.spotify.com/track/3MaLeuBpGax5hiCaLYlPis"
     },
     {
       "album": {
@@ -27950,7 +28030,7 @@
       ],
       "date_added": "2026-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-23",
+      "date_removed": null,
       "duration_ms": 180000,
       "name": "Latu on auki",
       "url": "https://open.spotify.com/track/7jHgBQE13PuxsR6Afj7TuS"
@@ -28304,6 +28384,24 @@
       "duration_ms": 175214,
       "name": "Lelu",
       "url": "https://open.spotify.com/track/7t7StcMUr1cqBZiRgDWwEs"
+    },
+    {
+      "album": {
+        "name": "Lentoo",
+        "url": "https://open.spotify.com/album/21lA51gDsHgzkxx2X5LhO2"
+      },
+      "artists": [
+        {
+          "name": "Joe L",
+          "url": "https://open.spotify.com/artist/1zNcOiKaCyEKnoHpc8QNra"
+        }
+      ],
+      "date_added": "2026-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139006,
+      "name": "Lentoo",
+      "url": "https://open.spotify.com/track/6660VtRfpFWAHYLV2M6oo1"
     },
     {
       "album": {
@@ -30684,6 +30782,24 @@
       "duration_ms": 212292,
       "name": "Maailma meid\u00e4n j\u00e4lkeen",
       "url": "https://open.spotify.com/track/6nSeXEH8vhorjbsO1fQA8o"
+    },
+    {
+      "album": {
+        "name": "Maailma on mun",
+        "url": "https://open.spotify.com/album/6fZNN1JBw3ZgZtHElXmdtX"
+      },
+      "artists": [
+        {
+          "name": "Minttu",
+          "url": "https://open.spotify.com/artist/2WR0rtZhH9gTe9sDeafqKr"
+        }
+      ],
+      "date_added": "2026-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158094,
+      "name": "Maailma on mun",
+      "url": "https://open.spotify.com/track/0v6TXFg3wJseuieozmpLTD"
     },
     {
       "album": {
@@ -37202,7 +37318,7 @@
       ],
       "date_added": "2026-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 200830,
       "name": "National Treasures",
       "url": "https://open.spotify.com/track/393OFJFZKIIv66JmJcNm9D"
@@ -41998,7 +42114,7 @@
       ],
       "date_added": "2026-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 175121,
       "name": "Per sempre s\u00ec",
       "url": "https://open.spotify.com/track/5W1mx7Oeg2HxmASrth1nTt"
@@ -46061,6 +46177,28 @@
     },
     {
       "album": {
+        "name": "Rockstar (feat. Janna)",
+        "url": "https://open.spotify.com/album/4RvjDCkML2vMayyXsofQKZ"
+      },
+      "artists": [
+        {
+          "name": "Aste",
+          "url": "https://open.spotify.com/artist/0FgPkjSOY3FoLQRXeNbkhL"
+        },
+        {
+          "name": "JANNA",
+          "url": "https://open.spotify.com/artist/4grOKb7qP9dH5FOhUXn3s3"
+        }
+      ],
+      "date_added": "2026-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174900,
+      "name": "Rockstar (feat. Janna)",
+      "url": "https://open.spotify.com/track/5KWylYB9XbM8X0oQY2zvqR"
+    },
+    {
+      "album": {
         "name": "Rodeo",
         "url": "https://open.spotify.com/album/4MBT4UDaTkcSe3SdS08I7M"
       },
@@ -47359,6 +47497,28 @@
     },
     {
       "album": {
+        "name": "Sata syyt",
+        "url": "https://open.spotify.com/album/183AuvnOZ1x5FdRUuSGzEQ"
+      },
+      "artists": [
+        {
+          "name": "KERZA",
+          "url": "https://open.spotify.com/artist/5aF5rqONOxygQlthvJ5Wjr"
+        },
+        {
+          "name": "Averagekidluke",
+          "url": "https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk"
+        }
+      ],
+      "date_added": "2026-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Sata syyt",
+      "url": "https://open.spotify.com/track/5utmpdm2S5HNpdvz1Fve8L"
+    },
+    {
+      "album": {
         "name": "Sata vuotta",
         "url": "https://open.spotify.com/album/0OhAVIkgi6mEtHcSJog1iT"
       },
@@ -48076,7 +48236,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 180740,
       "name": "Self Aware",
       "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT"
@@ -50489,6 +50649,24 @@
     },
     {
       "album": {
+        "name": "SS26",
+        "url": "https://open.spotify.com/album/0eJukoGOrXKU8PQ0F7l4ze"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "date_added": "2026-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167674,
+      "name": "SS26",
+      "url": "https://open.spotify.com/track/3d5NbAerF2MMHw9tdIxiFH"
+    },
+    {
+      "album": {
         "name": "CHROMAKOPIA",
         "url": "https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH"
       },
@@ -50780,7 +50958,7 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 184761,
       "name": "Stateside + Zara Larsson",
       "url": "https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt"
@@ -54041,6 +54219,24 @@
     },
     {
       "album": {
+        "name": "TEENAGE DREAM",
+        "url": "https://open.spotify.com/album/2QvJkqhNLgNDhDvhdq7lRw"
+      },
+      "artists": [
+        {
+          "name": "OLGA",
+          "url": "https://open.spotify.com/artist/5lrrAnWHek9LEQgB3MCfub"
+        }
+      ],
+      "date_added": "2026-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147923,
+      "name": "TEENAGE DREAM",
+      "url": "https://open.spotify.com/track/15an2EUW6pXrY3Pv6Q2mac"
+    },
+    {
+      "album": {
         "name": "Teeskennell\u00e4\u00e4n",
         "url": "https://open.spotify.com/album/6d6x8MLbN9cD2LcyahdX2d"
       },
@@ -54558,6 +54754,24 @@
       "duration_ms": 180141,
       "name": "The Code",
       "url": "https://open.spotify.com/track/1EjIXKhNHI00ZLMRpS8iz8"
+    },
+    {
+      "album": {
+        "name": "the cure",
+        "url": "https://open.spotify.com/album/6zme2NwcaBxbn3mWOcMY8y"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2026-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297090,
+      "name": "the cure",
+      "url": "https://open.spotify.com/track/4EoJ151oQ5jY48z4RhSE96"
     },
     {
       "album": {
@@ -55842,7 +56056,7 @@
       ],
       "date_added": "2026-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 165688,
       "name": "Totuus sattuu",
       "url": "https://open.spotify.com/track/5D5wXQy4MpnTS5ZOPW5v94"
@@ -59803,6 +60017,24 @@
     },
     {
       "album": {
+        "name": "Vegas",
+        "url": "https://open.spotify.com/album/6pWr8NFneDblJvbXdkJttO"
+      },
+      "artists": [
+        {
+          "name": "Costi",
+          "url": "https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ"
+        }
+      ],
+      "date_added": "2026-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145563,
+      "name": "Vegas",
+      "url": "https://open.spotify.com/track/1FSLfeVSwPw5eIYZ8dMTG5"
+    },
+    {
+      "album": {
         "name": "Voiko enkelitkin eksy\u00e4",
         "url": "https://open.spotify.com/album/6pk45MMtYAFpXHnzt7lL6N"
       },
@@ -60146,6 +60378,24 @@
       "duration_ms": 200000,
       "name": "Viaton",
       "url": "https://open.spotify.com/track/6VCW3JQPBcavaDT63CUQtZ"
+    },
+    {
+      "album": {
+        "name": "Maailma on mun",
+        "url": "https://open.spotify.com/album/6fZNN1JBw3ZgZtHElXmdtX"
+      },
+      "artists": [
+        {
+          "name": "Minttu",
+          "url": "https://open.spotify.com/artist/2WR0rtZhH9gTe9sDeafqKr"
+        }
+      ],
+      "date_added": "2026-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201169,
+      "name": "Viaton",
+      "url": "https://open.spotify.com/track/2UiObUd22Q5cHOUHg33Nia"
     },
     {
       "album": {
@@ -61264,7 +61514,7 @@
       ],
       "date_added": "2026-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 174222,
       "name": "Viva, Moldova!",
       "url": "https://open.spotify.com/track/3slA6oMqkypLVUkEjk2xfQ"

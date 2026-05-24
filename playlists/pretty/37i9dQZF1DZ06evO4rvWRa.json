@@ -1,12 +1,12 @@
 {
   "description": "This is Alan Walker. The essential tracks, all in one playlist.",
-  "num_followers": 1638560,
+  "num_followers": 1638590,
   "original_name": "This Is Alan Walker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ag5LAAAAAAApchQO603fn45Hl9GfI/L7",
+  "snapshot_id": "ag+cgAAAAAB2STQqRAUKGAx2tfUzohNc",
   "tracks": [
     {
       "added_at": null,
@@ -339,26 +339,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Neon Nights",
-        "url": "https://open.spotify.com/album/2PMUDyTcZRL0kMKibFgHKT"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "LOVA",
-          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
-        }
-      ],
-      "duration_ms": 202719,
-      "name": "Lifeline",
-      "url": "https://open.spotify.com/track/572PPqti4bqGpqEnsWFlIu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sweet Dreams",
         "url": "https://open.spotify.com/album/5WV1czZI9hnO6REVS6yKHR"
       },
@@ -375,6 +355,26 @@
       "duration_ms": 138819,
       "name": "Sweet Dreams",
       "url": "https://open.spotify.com/track/4uDhts78RdwIDjEqPrYVKp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Neon Nights",
+        "url": "https://open.spotify.com/album/2PMUDyTcZRL0kMKibFgHKT"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "LOVA",
+          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
+        }
+      ],
+      "duration_ms": 202719,
+      "name": "Lifeline",
+      "url": "https://open.spotify.com/track/572PPqti4bqGpqEnsWFlIu"
     },
     {
       "added_at": null,
@@ -403,34 +403,6 @@
       "duration_ms": 198880,
       "name": "All Falls Down (feat. Juliander)",
       "url": "https://open.spotify.com/track/1HvCFAUIWQsWV9zud3UhDl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Quantum Beats",
-        "url": "https://open.spotify.com/album/6awmWsdndqljxHc1nzUTdu"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        },
-        {
-          "name": "Lonely Club",
-          "url": "https://open.spotify.com/artist/1tPJP9nWEM6mQK295zgp2K"
-        },
-        {
-          "name": "Arash",
-          "url": "https://open.spotify.com/artist/7hQmAXAzWI6D350VTgkKTG"
-        }
-      ],
-      "duration_ms": 171200,
-      "name": "Broken Angel (This is Lonely Club)",
-      "url": "https://open.spotify.com/track/56PCJsbp8S0MTSMEbeGnnr"
     },
     {
       "added_at": null,
@@ -479,26 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Different World",
-        "url": "https://open.spotify.com/album/3nzuGtN3nXARvvecier4K0"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Sorana",
-          "url": "https://open.spotify.com/artist/1PnnRNGfichOAfPOn5mVyx"
-        }
-      ],
-      "duration_ms": 222320,
-      "name": "Lost Control",
-      "url": "https://open.spotify.com/track/0lG6QM1jjbbX5UUn3DPmrZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "End of Time",
         "url": "https://open.spotify.com/album/03tk4zBML1lvnm5xrjnJFl"
       },
@@ -519,6 +471,26 @@
       "duration_ms": 187560,
       "name": "End of Time",
       "url": "https://open.spotify.com/track/67O8CWXxPsfz8orZVGMQwf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Different World",
+        "url": "https://open.spotify.com/album/3nzuGtN3nXARvvecier4K0"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Sorana",
+          "url": "https://open.spotify.com/artist/1PnnRNGfichOAfPOn5mVyx"
+        }
+      ],
+      "duration_ms": 222320,
+      "name": "Lost Control",
+      "url": "https://open.spotify.com/track/0lG6QM1jjbbX5UUn3DPmrZ"
     },
     {
       "added_at": null,
@@ -655,6 +627,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Me, Myself and The Night",
+        "url": "https://open.spotify.com/album/7bSQts9CfkAh6MNQ7BkBjy"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        }
+      ],
+      "duration_ms": 251748,
+      "name": "Me, Myself and The Night",
+      "url": "https://open.spotify.com/track/7mKy65CyVCmawYMw3JJGPQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "World Of Walker",
         "url": "https://open.spotify.com/album/3KrkQ77DF9OUB0aOzKFYOF"
       },
@@ -671,22 +659,6 @@
       "duration_ms": 178625,
       "name": "Man On The Moon",
       "url": "https://open.spotify.com/track/0zqBZqm5czQ3A4EoSdKFHj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Me, Myself and The Night",
-        "url": "https://open.spotify.com/album/7bSQts9CfkAh6MNQ7BkBjy"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        }
-      ],
-      "duration_ms": 251748,
-      "name": "Me, Myself and The Night",
-      "url": "https://open.spotify.com/track/7mKy65CyVCmawYMw3JJGPQ"
     },
     {
       "added_at": null,
@@ -775,26 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Void",
-        "url": "https://open.spotify.com/album/2OmTdaXM8mvpi28xTxT5Y6"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Sorana",
-          "url": "https://open.spotify.com/artist/1PnnRNGfichOAfPOn5mVyx"
-        }
-      ],
-      "duration_ms": 191861,
-      "name": "Void",
-      "url": "https://open.spotify.com/track/6KwgfZhSWwrjDriUVNjVpI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tired",
         "url": "https://open.spotify.com/album/1q1ayQAYMOacFE2fkXbkv2"
       },
@@ -859,6 +811,26 @@
       "duration_ms": 190926,
       "name": "Old Habits (From Delta Force Game)",
       "url": "https://open.spotify.com/track/5tKCXGkAsVCQW2Wce51Gs3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Void",
+        "url": "https://open.spotify.com/album/2OmTdaXM8mvpi28xTxT5Y6"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Sorana",
+          "url": "https://open.spotify.com/artist/1PnnRNGfichOAfPOn5mVyx"
+        }
+      ],
+      "duration_ms": 191861,
+      "name": "Void",
+      "url": "https://open.spotify.com/track/6KwgfZhSWwrjDriUVNjVpI"
     },
     {
       "added_at": null,
@@ -967,30 +939,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A World I Don't Know",
-        "url": "https://open.spotify.com/album/3noCGUpws1zv3tJ66AeFNE"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Phoebe Ryan",
-          "url": "https://open.spotify.com/artist/4N874uPqBka1QiCvnCVOtr"
-        },
-        {
-          "name": "Kaeleb",
-          "url": "https://open.spotify.com/artist/2VnOskb1ZffIkyrTmennEv"
-        }
-      ],
-      "duration_ms": 111951,
-      "name": "A World I Don't Know",
-      "url": "https://open.spotify.com/track/12r9zcMRAnoADUQoOJR9yC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "World of Walker, Season One: Rise of the Drones",
         "url": "https://open.spotify.com/album/3Dm7hH6t7iACz1nyPI6ehS"
       },
@@ -1023,6 +971,30 @@
       "duration_ms": 236400,
       "name": "Faded - Slowed Remix",
       "url": "https://open.spotify.com/track/2zK1krCIeewkY2v0RNPcBu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A World I Don't Know",
+        "url": "https://open.spotify.com/album/3noCGUpws1zv3tJ66AeFNE"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Phoebe Ryan",
+          "url": "https://open.spotify.com/artist/4N874uPqBka1QiCvnCVOtr"
+        },
+        {
+          "name": "Kaeleb",
+          "url": "https://open.spotify.com/artist/2VnOskb1ZffIkyrTmennEv"
+        }
+      ],
+      "duration_ms": 111951,
+      "name": "A World I Don't Know",
+      "url": "https://open.spotify.com/track/12r9zcMRAnoADUQoOJR9yC"
     },
     {
       "added_at": null,
@@ -1079,6 +1051,26 @@
       "duration_ms": 219866,
       "name": "Brave Enough to Be Unknown",
       "url": "https://open.spotify.com/track/3Z5mBCsWNAKwi3uyosqnd2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Endless Summer",
+        "url": "https://open.spotify.com/album/6heWsbxEvCnXbHcw4xlKmE"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Zak Abel",
+          "url": "https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw"
+        }
+      ],
+      "duration_ms": 187040,
+      "name": "Endless Summer",
+      "url": "https://open.spotify.com/track/2DVvsgWrZ4rUjupdRGYEXK"
     }
   ],
   "unique_name": "This Is Alan Walker",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDjtvOmdzrF.md) - [plain]
 
 > Racikan akustik dalam secangkir kopi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 563,242 likes - 75 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 563,238 likes - 75 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,18 +63,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDjtvOmdzrF.md) - [plain]
 | 53 | [Cahaya](https://open.spotify.com/track/2rGGLCSkv9ISfH64KSYFBj) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Monokrom](https://open.spotify.com/album/4szhn3xPmOJklFAcqNvTnQ) | 3:15 |
 | 54 | [Selamat \(Selamat Tinggal\)](https://open.spotify.com/track/1mruWrUwAVe2XkksUQiaHK) | [Virgoun Feat\. Audy](https://open.spotify.com/artist/4haU5o8us3ix8OxqJ58Mul) | [Selamat \(Selamat Tinggal\)](https://open.spotify.com/album/6osB48b3PzrABxdspbyYkd) | 5:13 |
 | 55 | [Daur Hidup](https://open.spotify.com/track/2CfL8YlJXQ6DYMjCqMVull) | [Donne Maula](https://open.spotify.com/artist/5DKFj8QL05LWzVG82W29CG) | [Daur Hidup](https://open.spotify.com/album/6LVBF7LOvsD1vpacxXS1VI) | 2:42 |
-| 56 | [Sayap Pelindungmu](https://open.spotify.com/track/3LhUsgwtftfxHIPgViaYxB) | [TheOvertunes](https://open.spotify.com/artist/3t4MHnVggiFLOuSSh4odBk) | [Selamanya](https://open.spotify.com/album/2xVaK1p7ooIIywF6YCSEh5) | 3:42 |
+| 56 | [Untitled](https://open.spotify.com/track/1i9iliTpiPLizleapSg37I) | [MALIQ & D'Essentials](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs) | [1st \(Special Edition\)](https://open.spotify.com/album/0qG0Ij0WCn6JgWREX8eAaK) | 4:05 |
 | 57 | [Di Atas Meja](https://open.spotify.com/track/1MDVXlgY8Of2n2otw57hw0) | [Payung Teduh](https://open.spotify.com/artist/2Ooa3TrmlskyBftzenv6xQ) | [Ruang Tunggu](https://open.spotify.com/album/1lp7ziYXZH8Z2r28FiUPWX) | 5:29 |
-| 58 | [Untitled](https://open.spotify.com/track/1i9iliTpiPLizleapSg37I) | [MALIQ & D'Essentials](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs) | [1st \(Special Edition\)](https://open.spotify.com/album/0qG0Ij0WCn6JgWREX8eAaK) | 4:05 |
+| 58 | [Sayap Pelindungmu](https://open.spotify.com/track/3LhUsgwtftfxHIPgViaYxB) | [TheOvertunes](https://open.spotify.com/artist/3t4MHnVggiFLOuSSh4odBk) | [Selamanya](https://open.spotify.com/album/2xVaK1p7ooIIywF6YCSEh5) | 3:42 |
 | 59 | [Pernah Muda](https://open.spotify.com/track/53jVt2BD1Wgh1aUoqAodQT) | [Bunga Citra Lestari](https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9) | [Tentang Kamu](https://open.spotify.com/album/2bdQCQ7M7e81laFCbWVng8) | 3:23 |
 | 60 | [Menghitung Hari 2](https://open.spotify.com/track/1svU65QddvvLA0YY9mdiqF) | [Anda Perdana](https://open.spotify.com/artist/7AggXHwAyjLBeywQt6NONp) | [Heart](https://open.spotify.com/album/0OyN4NEEkqb2E5iiXxvJv9) | 3:39 |
-| 61 | [Surat Cinta Untuk Starla](https://open.spotify.com/track/5o6StwqqVfG3vRLx8UP310) | [Virgoun](https://open.spotify.com/artist/4bAgr9zaF0bpzVGHdHuf0f) | [Surat Cinta Untuk Starla](https://open.spotify.com/album/6a2Btrft7cIsCHTmSjTiU3) | 5:08 |
+| 61 | [Gajah](https://open.spotify.com/track/7vZTvo2aJ6wHKCGjwjdWIf) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Gajah](https://open.spotify.com/album/0d5mFusjnb62TQWBft3zc6) | 3:59 |
 | 62 | [Berdua Saja](https://open.spotify.com/track/7tZ69fC235bauF9Dyxk8Ps) | [Payung Teduh](https://open.spotify.com/artist/2Ooa3TrmlskyBftzenv6xQ) | [Dunia Batas](https://open.spotify.com/album/26FxxaKDiIGxEm549dRtaZ) | 4:27 |
 | 63 | [I Still Love You](https://open.spotify.com/track/4reIsHKw5hUj4pV8zzMjLA) | [TheOvertunes](https://open.spotify.com/artist/3t4MHnVggiFLOuSSh4odBk) | [Cek Toko Sebelah \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5RWbax0hn7iswKdw9FsyAe) | 4:46 |
-| 64 | [Gajah](https://open.spotify.com/track/7vZTvo2aJ6wHKCGjwjdWIf) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Gajah](https://open.spotify.com/album/0d5mFusjnb62TQWBft3zc6) | 3:59 |
+| 64 | [Surat Cinta Untuk Starla](https://open.spotify.com/track/5o6StwqqVfG3vRLx8UP310) | [Virgoun](https://open.spotify.com/artist/4bAgr9zaF0bpzVGHdHuf0f) | [Surat Cinta Untuk Starla](https://open.spotify.com/album/6a2Btrft7cIsCHTmSjTiU3) | 5:08 |
 | 65 | [Kau Cantik Hari Ini](https://open.spotify.com/track/1dDXZDCgyvioujRUDfKxCr) | [Lobow](https://open.spotify.com/artist/4sPz5IAXZQ428gHmhH78Ib) | [Terus Bersinar](https://open.spotify.com/album/6MYbZW735XmueTaOEUE0hG) | 4:44 |
-| 66 | [Kusut](https://open.spotify.com/track/3diD8b3u6oEn74BezQpujj) | [Fourtwnty](https://open.spotify.com/artist/46cVq2dwPgzPE3X1VR9TMj) | [Ego & Fungsi Otak](https://open.spotify.com/album/01PCAiyhBHXTj9KfSigcQz) | 4:20 |
-| 67 | [Dia](https://open.spotify.com/track/2ok6IGh97S4eIRse9K2sjg) | [Anji](https://open.spotify.com/artist/0b4XpbAVDPngjDTbcSWH8N) | [Dia](https://open.spotify.com/album/3jJo85yRqKTYdmAjzznRsq) | 3:27 |
+| 66 | [Dia](https://open.spotify.com/track/2ok6IGh97S4eIRse9K2sjg) | [Anji](https://open.spotify.com/artist/0b4XpbAVDPngjDTbcSWH8N) | [Dia](https://open.spotify.com/album/3jJo85yRqKTYdmAjzznRsq) | 3:27 |
+| 67 | [Kusut](https://open.spotify.com/track/3diD8b3u6oEn74BezQpujj) | [Fourtwnty](https://open.spotify.com/artist/46cVq2dwPgzPE3X1VR9TMj) | [Ego & Fungsi Otak](https://open.spotify.com/album/01PCAiyhBHXTj9KfSigcQz) | 4:20 |
 | 68 | [Pelukku Untuk Pelikmu \- OST Imperfect: Karier, Cinta, & Timbangan](https://open.spotify.com/track/5sgRYOTpFZRROlndD460KI) | [Fiersa Besari](https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV) | [Pelukku Untuk Pelikmu \(OST Imperfect: Karier, Cinta, & Timbangan\)](https://open.spotify.com/album/3srKBIcoP2Q9VA1cDHARUh) | 4:09 |
 | 69 | [Salahkah Aku Terlalu Mencintaimu](https://open.spotify.com/track/6Ls0ZznOYYd7eQ52Cgqmkv) | [Fatin](https://open.spotify.com/artist/4HeEXMr62GWTKpnqEiFOkC) | [Salahkah Aku Terlalu Mencintaimu](https://open.spotify.com/album/2x9G0zhfxZHPdbjsgdJJYu) | 3:52 |
 | 70 | [Lagunya Begini, Nadanya Begitu](https://open.spotify.com/track/4YVBE2CDqxtNRGTPEMOQet) | [Jason Ranti](https://open.spotify.com/artist/06x5hKHmGzMggWmRK833nv) | [Sekilas Info](https://open.spotify.com/album/4TwZfsV3Rrj1XMbqMkTfxh) | 5:50 |

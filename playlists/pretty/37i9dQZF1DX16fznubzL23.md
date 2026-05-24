@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16fznubzL23.md) - [plain]
 
 > e don cast
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,224 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,251 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,13 +37,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16fznubzL23.md) - [plain]
 | 27 | [Luvaluvah](https://open.spotify.com/track/00uXDC6A3RK2HJlTK6h0Ak) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Olamidé](https://open.spotify.com/album/4jUXymdfBvDcDQQV0gdure) | 2:50 |
 | 28 | [Luv Again](https://open.spotify.com/track/0BlBcMUDVI68fwwNGulSGM) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Luv Again](https://open.spotify.com/album/1BmGUnyQvlpEQaaUe47NJv) | 3:40 |
 | 29 | [Trenches Luv](https://open.spotify.com/track/2v7r3nItoWRbCQBS1qFQnD) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Trenches Luv](https://open.spotify.com/album/3hKsMcp9TrNHrg6qzoUHpB) | 3:25 |
-| 30 | [DON'T LOVE ME](https://open.spotify.com/track/5uJaS8bZL8pSaTiVOM62cj) | [OMAH LAY](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [DON'T LOVE ME](https://open.spotify.com/album/6ko11fruKOL5nq8WiQH6L9) | 3:01 |
-| 31 | [E PAIN ME](https://open.spotify.com/track/3JziUAJNdpilVeO0yf7ksf) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Timeless](https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS) | 3:03 |
+| 30 | [E PAIN ME](https://open.spotify.com/track/3JziUAJNdpilVeO0yf7ksf) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Timeless](https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS) | 3:03 |
+| 31 | [DON'T LOVE ME](https://open.spotify.com/track/5uJaS8bZL8pSaTiVOM62cj) | [OMAH LAY](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [DON'T LOVE ME](https://open.spotify.com/album/6ko11fruKOL5nq8WiQH6L9) | 3:01 |
 | 32 | [Loner](https://open.spotify.com/track/4VG9WzSYRAsHIVgkZXRX1C) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Loner](https://open.spotify.com/album/3HYQbRL63e1oc98lBQu7gH) | 2:37 |
 | 33 | [Ogechi](https://open.spotify.com/track/6YYnBEMEaj960IX1evcTun) | [Brown Joel](https://open.spotify.com/artist/2A9kNdL3S9DKEIjhZJZZfM), [BoyPee](https://open.spotify.com/artist/1zjv7k3fmK1MJIA2CdaCAh), [Hyce](https://open.spotify.com/artist/1KQuzZH1ix85vt0n3iiRTA) | [Ogechi](https://open.spotify.com/album/3RrnJMe8E4SmVIzo393sLg) | 2:32 |
 | 34 | [Loved Me Then ​\(f​eat​\. Lojay​\)](https://open.spotify.com/track/2n9NiEPGijWRuPkW6it5Dy) | [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Protect Sarz At All Costs](https://open.spotify.com/album/5h3RPX0SZMPQGz6Mwbly0h) | 2:46 |
-| 35 | [understand](https://open.spotify.com/track/6teW0qt23aGnWhC0rSvtoz) | [OMAH LAY](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [understand](https://open.spotify.com/album/3gPckvEZDTVrXGXYMIh9VK) | 2:54 |
-| 36 | [If You Leave](https://open.spotify.com/track/22ghwAJ3FjBzFGT3CjdCgY) | [Salle](https://open.spotify.com/artist/3grHvNkL8268yY1aAIxiLf), [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [Only Sad People Smile](https://open.spotify.com/album/1exYw5ltkZK5ie149HCTMP) | 2:43 |
+| 35 | [If You Leave](https://open.spotify.com/track/22ghwAJ3FjBzFGT3CjdCgY) | [Salle](https://open.spotify.com/artist/3grHvNkL8268yY1aAIxiLf), [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [Only Sad People Smile](https://open.spotify.com/album/1exYw5ltkZK5ie149HCTMP) | 2:43 |
+| 36 | [understand](https://open.spotify.com/track/6teW0qt23aGnWhC0rSvtoz) | [OMAH LAY](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [understand](https://open.spotify.com/album/3gPckvEZDTVrXGXYMIh9VK) | 2:54 |
 | 37 | [Aquafina](https://open.spotify.com/track/59sAr7NvZDeH7oYrkiyZcQ) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Aquafina](https://open.spotify.com/album/3mMVoC6HJ8mqcq9qd5GmUC) | 2:48 |
 | 38 | [Goodgirl](https://open.spotify.com/track/6adCGcQBhdqQbrb2b1aoGv) | [GoodGirl LA](https://open.spotify.com/artist/62HQP03xtoXexSY1Kp0cdS) | [Goodgirl](https://open.spotify.com/album/0cfboUkpHeZwjcw8xvY0vK) | 2:43 |
 | 39 | [Letter to My Ex](https://open.spotify.com/track/2YFtJo8IvnSGyIv17PlIIx) | [Nasboi](https://open.spotify.com/artist/2uFxJXYNWECbpiNTpdBDXb), [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [Letter to My Ex](https://open.spotify.com/album/2bCNfulxnhjiJf5tpnCawO) | 2:53 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16fznubzL23.md) - [plain]
 | 45 | [December](https://open.spotify.com/track/3kkuduvNylAGQklZkrqZJT) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [December](https://open.spotify.com/album/1baB17D3B2m7PkOB4MXfaX) | 2:35 |
 | 46 | [Toro](https://open.spotify.com/track/0UofiI0YMe4wz9H1dr5KkL) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [BlownBoy RU](https://open.spotify.com/album/6PAGfuja5bu2d7EHzo77uz) | 3:15 |
 | 47 | [Fvck You](https://open.spotify.com/track/3YbFfl3M2XgBhKoUW19XbQ) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [King Of Love](https://open.spotify.com/album/17HtAdJO3qQzLJDf9GAePl) | 3:51 |
-| 48 | [Somebody Like You](https://open.spotify.com/track/0dEnWro42n8g51OVojqFSX) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Somebody Like You](https://open.spotify.com/album/4SOJzMweqeghqe8UzKl4Om) | 2:53 |
-| 49 | [Relationship](https://open.spotify.com/track/6CypiZh1I7VSPE9tyzvEK4) | [Boy Spyce](https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT) | [Relationship](https://open.spotify.com/album/6O0aLo7VWNZPkkBC4TfQ8F) | 2:52 |
+| 48 | [Relationship](https://open.spotify.com/track/6CypiZh1I7VSPE9tyzvEK4) | [Boy Spyce](https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT) | [Relationship](https://open.spotify.com/album/6O0aLo7VWNZPkkBC4TfQ8F) | 2:52 |
+| 49 | [Somebody Like You](https://open.spotify.com/track/0dEnWro42n8g51OVojqFSX) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Somebody Like You](https://open.spotify.com/album/4SOJzMweqeghqe8UzKl4Om) | 2:53 |
 | 50 | [Fire Wood](https://open.spotify.com/track/4z7OibjcVz9QvNEYywHynf) | [Sholz](https://open.spotify.com/artist/3DcibggJwwufI8QNBYnq67), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Valentino Rose](https://open.spotify.com/artist/0qIB4W2DllGjdIdeDK4l8t) | [Breakfast in Lagos](https://open.spotify.com/album/2DW4TpRD2uABgICIMdiB5u) | 2:21 |
 
 Snapshot ID: `AAAAAG34LS+cSBpJAenzEMXGirDfZfIF`

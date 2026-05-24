@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX76YsWjvbz9I.md) - [plain]
 
 > The unforgettable romantic Jazz songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 336,381 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 336,440 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX76YsWjvbz9I.md) - [plain]
 | 22 | [Stars Fell On Alabama](https://open.spotify.com/track/3q634ZiAdA9bcg135bdJxo) | [Lizz Wright](https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW) | [Grace](https://open.spotify.com/album/2U1zLHhEmPFEOoZTezdXQg) | 3:52 |
 | 23 | [I Could Write A Book](https://open.spotify.com/track/04kFa5D5by0or1IN6bI9N7) | [Anita O'Day](https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB) | [Swings Rodgers And Hart](https://open.spotify.com/album/6LArOC2pxaG9rYlTCIIeXN) | 2:09 |
 | 24 | [Cheek To Cheek](https://open.spotify.com/track/0UuRIovHyU6KeTzY4gS0L2) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Cheek To Cheek \(Deluxe\)](https://open.spotify.com/album/2VX9rp6NAC19TQN4IgkmYu) | 2:50 |
-| 25 | [All Of You](https://open.spotify.com/track/3XOJhbofb4qTZdt0RLLrUq) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Billie Holiday With Ray Ellis And His Orchestra](https://open.spotify.com/album/780YbUDX22mHli9KRZZwKu) | 2:32 |
-| 26 | [This Is Always](https://open.spotify.com/track/6Kr25pa3pTd4no3yA0EcW1) | [Betty Carter](https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ) | [Inside Betty Carter](https://open.spotify.com/album/3rFnwsVrrSYZQsCGTkOT7W) | 3:11 |
+| 25 | [This Is Always](https://open.spotify.com/track/6Kr25pa3pTd4no3yA0EcW1) | [Betty Carter](https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ) | [Inside Betty Carter](https://open.spotify.com/album/3rFnwsVrrSYZQsCGTkOT7W) | 3:11 |
+| 26 | [All Of You](https://open.spotify.com/track/3XOJhbofb4qTZdt0RLLrUq) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Billie Holiday With Ray Ellis And His Orchestra](https://open.spotify.com/album/780YbUDX22mHli9KRZZwKu) | 2:32 |
 | 27 | [Save Your Love For Me](https://open.spotify.com/track/4ur0Fd4coSwWtP8MWpkjR9) | [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb), [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA) | [Nancy Wilson/Cannonball Adderley](https://open.spotify.com/album/6yyNgCQNsJ3VJ9PP7CmvLJ) | 2:44 |
 | 28 | [Let's Fall In Love](https://open.spotify.com/track/2RnJD2mTBxqvHcqmXk1n9c) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Sings Sweet Songs For Swingers](https://open.spotify.com/album/6SESAIqP8sQTVp0ZRVcdOq) | 3:04 |
 | 29 | [You Belong To Me](https://open.spotify.com/track/3xZe0jFAwc3akvChOrPS7u) | [Jo Stafford](https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw) | [The Magic Of Jo Stafford](https://open.spotify.com/album/1kLGKgc8o8F3Kd4dgti9ka) | 3:12 |
@@ -54,10 +54,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX76YsWjvbz9I.md) - [plain]
 | 44 | [You Make Me Feel so Young](https://open.spotify.com/track/08RnPHoZRQr6BuD92JRvkk) | [Rosemary Clooney](https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK) | [The Essential Rosemary Clooney](https://open.spotify.com/album/6IIfhQA1oHBvHGJQZnbXfP) | 2:52 |
 | 45 | [I Only Have Eyes For You](https://open.spotify.com/track/6Y8QG1S14e2o0Tx0rppi0V) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Solitude](https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp) | 2:53 |
 | 46 | [You Couldn't Be Cuter](https://open.spotify.com/track/5wK0I2nGDosuttrhkVHZnO) | [Margaret Whiting](https://open.spotify.com/artist/5ZGDxHhju6eE8ja4IyGe87) | [Sings The Jerome Kern Song Book, Vol.1 & 2](https://open.spotify.com/album/7lK3JDdKHJGdKZcTFodGcd) | 2:02 |
-| 47 | [It's Magic](https://open.spotify.com/track/3Dwj9k9GC0Tm8nDvE9U5Pg) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [What A Diff'rence A Day Makes! \(Expanded Edition\)](https://open.spotify.com/album/0w8YD8Wz1hEkwXdsAMzzFe) | 2:41 |
-| 48 | [April In Paris](https://open.spotify.com/track/4NHNztFS67GSpnU611l74v) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8), [Clifford Brown](https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO) | [Sarah Vaughan](https://open.spotify.com/album/7wX89EWCK8cNZeGnBS5bMG) | 6:18 |
+| 47 | [The Nearness of You](https://open.spotify.com/track/1lk5RIC2NMUMLgyOVMSCKs) | [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb) | [All of You](https://open.spotify.com/album/2cN5fPkdSSmUlWhFxpsVrk) | 2:58 |
+| 48 | [It's Magic](https://open.spotify.com/track/3Dwj9k9GC0Tm8nDvE9U5Pg) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [What A Diff'rence A Day Makes! \(Expanded Edition\)](https://open.spotify.com/album/0w8YD8Wz1hEkwXdsAMzzFe) | 2:41 |
 | 49 | [You Do Something To Me](https://open.spotify.com/track/7lZagRCKskAjzZ40Kdx4bB) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald Sings The Cole Porter Song Book](https://open.spotify.com/album/6nOxyYuddsKmHYRQccKSjM) | 2:22 |
-| 50 | [The Nearness of You](https://open.spotify.com/track/1lk5RIC2NMUMLgyOVMSCKs) | [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb) | [All of You](https://open.spotify.com/album/2cN5fPkdSSmUlWhFxpsVrk) | 2:58 |
+| 50 | [April In Paris](https://open.spotify.com/track/4NHNztFS67GSpnU611l74v) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8), [Clifford Brown](https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO) | [Sarah Vaughan](https://open.spotify.com/album/7wX89EWCK8cNZeGnBS5bMG) | 6:18 |
 | 51 | [Fools Rush In](https://open.spotify.com/track/0j3ideT0tRuIyRhOOUQjYa) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dream with Dean](https://open.spotify.com/album/3yHEoxFfjdoM0zJjsApvFL) | 3:05 |
 | 52 | [How Long Has This Been Going On?](https://open.spotify.com/track/7ByMl8ACN6rkAbN5c8T8BV) | [Karrin Allyson](https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs) | [In Blue](https://open.spotify.com/album/7h7XHPDvoFxE7MswAuDvgp) | 5:39 |
 | 53 | [As Long As I'm In Your Arms](https://open.spotify.com/track/77fsTNViSLqcwuSMQhSwB0) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [September In The Rain](https://open.spotify.com/album/1UMCHEE4nXBN2JLOgk7rQV) | 1:58 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 
 > New music picks every Friday from your friends at Brownies &amp; Lemonade
 
-[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 22,056 likes - 181 songs - 9 hr 55 min
+[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 22,069 likes - 181 songs - 9 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 | 11 | [Swagger Sound](https://open.spotify.com/track/3huOaiSWe9zJJYwu4M6MsP) | [Silva Bumpa](https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf), [Mr Virgo](https://open.spotify.com/artist/4lQPqOsyeapLWAd2aXILFU) | [Hypa](https://open.spotify.com/album/6qwcD8Fu84jZJgFVfeIT5B) | 2:40 |
 | 12 | [HIGHONYOU](https://open.spotify.com/track/6rIP9L4gBKTsGfvhNu7F1d) | [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [HIGHONYOU](https://open.spotify.com/album/5uHdxKDd97WHDAkIfubvDg) | 2:46 |
 | 13 | [Joy Without Sound](https://open.spotify.com/track/1iBXitX6n5iiKI9U6eETKF) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Joy Without Sound](https://open.spotify.com/album/6Em2Qts5UUnhfcXqFZKicy) | 3:15 |
-| 14 | [JOY \(Light In The Dark\)](https://open.spotify.com/track/6rZfjIl7gepUSwkmi22luo) | [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R) | [JOY \(Light In The Dark\)](https://open.spotify.com/album/4O6IC1c67UMYoDaZp0FMWS) | 4:58 |
+| 14 | [JOY \(Light In The Dark\)](https://open.spotify.com/track/6rZfjIl7gepUSwkmi22luo) | [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R) | [JOY \(Light In The Dark\)](https://open.spotify.com/album/4O6IC1c67UMYoDaZp0FMWS) | 4:56 |
 | 15 | [ghost](https://open.spotify.com/track/6W8Lsm34rvaH4kO7NLleGD) | [k?d](https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf), [osc444](https://open.spotify.com/artist/5jpSwadofNqbsUatpqn4Rj) | [ghost](https://open.spotify.com/album/7CLTFzrXxQS5IWgSO1e8aq) | 4:02 |
 | 16 | [Together \(Juntos\)](https://open.spotify.com/track/3uiqQGbr2zA4SZ6ovxw1ZT) | [PARISI](https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT) | [Together \(Juntos\)](https://open.spotify.com/album/1N1tosyuOl3UAiX8kJ3JzB) | 3:31 |
 | 17 | [Last October](https://open.spotify.com/track/2mQI9h4mI5MlHJGnF2WJSU) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL) | [Last October](https://open.spotify.com/album/6EqGtuFdenyq037JmYDZF4) | 3:08 |

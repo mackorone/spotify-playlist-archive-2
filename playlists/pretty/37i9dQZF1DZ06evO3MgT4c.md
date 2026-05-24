@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3MgT4c.md) - [plain]
 
 > This is Migos\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 440,085 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 440,086 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,11 +18,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3MgT4c.md) - [plain]
 | 8 | [Walk It Talk It](https://open.spotify.com/track/6n4U3TlzUGhdSFbUUhTvLP) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Culture II](https://open.spotify.com/album/7fd7SEK25VS3gJAUgSwL6y) | 4:36 |
 | 9 | [Handsome And Wealthy](https://open.spotify.com/track/2ZBnK2CGFK6jcagWrpyPzA) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [No Label II](https://open.spotify.com/album/1NIzKm1DqvComMoEF1FZPQ) | 3:30 |
 | 10 | [T\-Shirt](https://open.spotify.com/track/1rkfJLgTlB6XYNjgZ0sVaK) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Culture](https://open.spotify.com/album/4JTOxuvM2jcSqAvEZtZsOO) | 4:02 |
-| 11 | [Time For Me](https://open.spotify.com/track/0hfaWJEQfbiX7PnZNAzN1r) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Culture III](https://open.spotify.com/album/3uyOwJu4r3yroAkFywNFM3) | 3:59 |
+| 11 | [Having Our Way \(feat\. Drake\)](https://open.spotify.com/track/2NM0qHzx4Ohy8iXHEEgwlO) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Culture III](https://open.spotify.com/album/3uyOwJu4r3yroAkFywNFM3) | 4:38 |
 | 12 | [Narcos](https://open.spotify.com/track/0wbnC9AUenxp613TYaJsGK) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Culture II](https://open.spotify.com/album/7fd7SEK25VS3gJAUgSwL6y) | 4:15 |
 | 13 | [Fight Night](https://open.spotify.com/track/6Xa2q0dapj03CsRzmD0Os5) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [No Label II](https://open.spotify.com/album/1NIzKm1DqvComMoEF1FZPQ) | 3:36 |
 | 14 | [Slippery \(feat\. Gucci Mane\)](https://open.spotify.com/track/0TBgMKD86t1VP3IzhxCoUl) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Culture](https://open.spotify.com/album/4JTOxuvM2jcSqAvEZtZsOO) | 5:04 |
-| 15 | [Having Our Way \(feat\. Drake\)](https://open.spotify.com/track/2NM0qHzx4Ohy8iXHEEgwlO) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Culture III](https://open.spotify.com/album/3uyOwJu4r3yroAkFywNFM3) | 4:38 |
+| 15 | [Time For Me](https://open.spotify.com/track/0hfaWJEQfbiX7PnZNAzN1r) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Culture III](https://open.spotify.com/album/3uyOwJu4r3yroAkFywNFM3) | 3:59 |
 | 16 | [Notice Me](https://open.spotify.com/track/3OnOomd79OjqSYHchCQ6ht) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Culture II](https://open.spotify.com/album/7fd7SEK25VS3gJAUgSwL6y) | 3:53 |
 | 17 | [Bad Intentions](https://open.spotify.com/track/5W3UniuRMkHHIpaiQo1hAW) | [Niykee Heaton](https://open.spotify.com/artist/63bCkf4n15jiKjHhLV7kSZ), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [OG Parker](https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I) | [The Bedroom Tour Playlist](https://open.spotify.com/album/6Rkm6kbTaw7ViHDUrhWa1u) | 4:05 |
 | 18 | [Kelly Price \(feat\. Travis Scott\)](https://open.spotify.com/track/5Q6DJEgNTiN9xcOQzKmw9F) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Culture](https://open.spotify.com/album/4JTOxuvM2jcSqAvEZtZsOO) | 6:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3MgT4c.md) - [plain]
 | 49 | [First 48](https://open.spotify.com/track/2qSZwaENTR05AE259NUxlK) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [No Label II](https://open.spotify.com/album/1NIzKm1DqvComMoEF1FZPQ) | 3:18 |
 | 50 | [Moses](https://open.spotify.com/track/5FW3FOoBJHGnrRHWVMJE11) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Excuse My French \(Deluxe 2.0\)](https://open.spotify.com/album/1l3H0aPipDIi5XAbthkciZ) | 4:32 |
 
-Snapshot ID: `ag5LAAAAAAAqnIKoyF+BJeCIFpF5CwfS`
+Snapshot ID: `ag+cgAAAAAD4DNcoiNW5H6AU0cMshBgJ`

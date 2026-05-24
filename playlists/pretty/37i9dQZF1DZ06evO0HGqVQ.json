@@ -1,13 +1,33 @@
 {
   "description": "This is Los inquietos del vallenato. The essential tracks, all in one playlist.",
-  "num_followers": 31939,
+  "num_followers": 31948,
   "original_name": "This Is Los inquietos del vallenato",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ag5LAAAAAAAmrp/zZumeZ8DlRr96ZlPc",
+  "snapshot_id": "ag+cgAAAAADbWtg2/lZxYBu0wpirrBBL",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Recuerdo Que Dej\u00f3",
+        "url": "https://open.spotify.com/album/4Up6tMrKw9p929MnHKVSdT"
+      },
+      "artists": [
+        {
+          "name": "Los inquietos del vallenato",
+          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
+        },
+        {
+          "name": "Pancho Uresti",
+          "url": "https://open.spotify.com/artist/7bNmosifuMqLwui79Cjqcd"
+        }
+      ],
+      "duration_ms": 192535,
+      "name": "El Recuerdo Que Dej\u00f3",
+      "url": "https://open.spotify.com/track/3C48UbZIHMs5cItujTxxqD"
+    },
     {
       "added_at": null,
       "album": {

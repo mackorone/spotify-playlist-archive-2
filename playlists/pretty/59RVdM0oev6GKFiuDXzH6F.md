@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/59RVdM0oev6GKFiuDXzH6F.md) - [plain]
 
 > Club tracks and dancefloor essentials\. The best floor fillers\. Change your living room to a nightclub with these tracks!
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 4,157 likes - 267 songs - 14 hr 21 min
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 4,155 likes - 267 songs - 14 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/59RVdM0oev6GKFiuDXzH6F.md) - [plain]
 | 8 | [Ready to Fly](https://open.spotify.com/track/4AUqJ9BYqjQO141t5qe4qC) | [Modeā](https://open.spotify.com/artist/6dsy10LVNALrvHyVEadrsJ), [Bryan Kearney](https://open.spotify.com/artist/5fBbVsFxoa0jDCqocaEdBx) | [Ready to Fly](https://open.spotify.com/album/3ZtYDkyonSlzp6atr7LjEO) | 3:08 |
 | 9 | [Engage \(feat\. Vitalic\)](https://open.spotify.com/track/1E7exwXNMzyj6k0I5jAGY8) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Marten Hørger](https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls), [Men Machine](https://open.spotify.com/artist/7zoHSez9dJIUMkvgxvM0Z2), [Vitalic](https://open.spotify.com/artist/4M84umUNRbZy1mJleyyRM9) | [Men Machine EP](https://open.spotify.com/album/1FDbMjE2YKFJTEAcSicacm) | 2:00 |
 | 10 | [All My Life \(feat\. John Martin\)](https://open.spotify.com/track/6ad31Nv4XWsxZqNGWzOcEd) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [John Martin](https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq) | [All My Life \(feat\. John Martin\)](https://open.spotify.com/album/47tfbM8Z9hEHC3YtMSEcrD) | 2:52 |
-| 11 | [Fit The Tempo](https://open.spotify.com/track/3yXgRhLAjW7I3vRv8QY43C) | [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [VIKTOR](https://open.spotify.com/artist/2nuOh4IEefKExo2nWyNu9W) | [Fit The Tempo](https://open.spotify.com/album/4ZjEvuT2fAJPc46RluNFAK) | 2:32 |
+| 11 | [Fit The Tempo](https://open.spotify.com/track/3yXgRhLAjW7I3vRv8QY43C) | [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [VIKTOR](https://open.spotify.com/artist/40opAACGmFD5yvWfvg4b1V) | [Fit The Tempo](https://open.spotify.com/album/4ZjEvuT2fAJPc46RluNFAK) | 2:32 |
 | 12 | [PWR](https://open.spotify.com/track/1m2ZPf3N9I3bEFds3TwHNQ) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Marten Hørger](https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls), [Men Machine](https://open.spotify.com/artist/7zoHSez9dJIUMkvgxvM0Z2), [SNAP!](https://open.spotify.com/artist/2FrKQPjJe4pVMZOgm0ESOx) | [Men Machine EP](https://open.spotify.com/album/1FDbMjE2YKFJTEAcSicacm) | 2:18 |
 | 13 | [Turn The Lights Off \(Paul Elstak Remix\)](https://open.spotify.com/track/5rc4Y6Io2RKjqDdsZR7G3R) | [Justė](https://open.spotify.com/artist/0LWUxoJXKsDsPenrHZ0key), [Jaxstyle](https://open.spotify.com/artist/3G1KNyIiGISpRGVPWbst6P), [Jon](https://open.spotify.com/artist/1WD5Hdopwbbx8OdDR6jRZI), [Paul Elstak](https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6) | [Turn The Lights Off \(Paul Elstak Remix\)](https://open.spotify.com/album/4z02t8GQPO1052P0gvBPc3) | 2:52 |
 | 14 | [Say My Name](https://open.spotify.com/track/42zGjIXYF1soqCfiqSXCLY) | [HEDEGAARD](https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2), [Arash](https://open.spotify.com/artist/7hQmAXAzWI6D350VTgkKTG) | [Say My Name](https://open.spotify.com/album/5vxOl8NZ3auwfNHBHYon5n) | 2:34 |

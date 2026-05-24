@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00Q0Yo.md) - [plain]
 
 > This is Flo Milli\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,373 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,378 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00Q0Yo.md) - [plain]
 | 14 | [May I](https://open.spotify.com/track/1GcXzijYzyfMq6wryZjYW5) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Ho, why is you here ?](https://open.spotify.com/album/49FIsErcdC5rfTFhRpPZ7P) | 2:43 |
 | 15 | [Tomioka \(with Flo Milli\) \- Remix](https://open.spotify.com/track/7BfwfsoIZsa9QGUxfoz8DE) | [Jay Eazy](https://open.spotify.com/artist/2bc73gsB8lPAL1mxNBOEqV), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Tomioka \(with Flo Milli\) \[Remix\]](https://open.spotify.com/album/6QHk5oVO7cTdQeBhVuh0qK) | 2:17 |
 | 16 | [Talk My Shit \(feat\. Amaarae & Flo Milli\)](https://open.spotify.com/track/09imUl1oyaB2R86qBgEhCN) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Bando Stone and The New World](https://open.spotify.com/album/4yUqNSK6jMi7Y6eWl03U5r) | 3:45 |
-| 17 | [Dirty Work \(feat\. Flo Milli\)](https://open.spotify.com/track/6kBtuFVssWq2rORvq2ssXS) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Dirty Work](https://open.spotify.com/album/3L7i2VqeznnAqX5BG6gm3H) | 3:00 |
-| 18 | [Why Lie?](https://open.spotify.com/track/6NpWosxIza4XEiGk190FAy) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Why Lie?](https://open.spotify.com/album/3RD3gsfCLTxbDN4fsrQJDh) | 3:46 |
+| 17 | [Why Lie?](https://open.spotify.com/track/6NpWosxIza4XEiGk190FAy) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Why Lie?](https://open.spotify.com/album/3RD3gsfCLTxbDN4fsrQJDh) | 3:46 |
+| 18 | [Dirty Work \(feat\. Flo Milli\)](https://open.spotify.com/track/6kBtuFVssWq2rORvq2ssXS) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Dirty Work](https://open.spotify.com/album/3L7i2VqeznnAqX5BG6gm3H) | 3:00 |
 | 19 | [Sunday Service \(feat\. Megan Thee Stallion & Flo Milli\)](https://open.spotify.com/track/7unrQrmU8i2Roc1Dkj0ST2) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Sunday Service \(feat\. Megan Thee Stallion & Flo Milli\)](https://open.spotify.com/album/2IrJlw610VJwdfYPiSG8Ae) | 3:27 |
 | 20 | [Rodeo Remix \(feat\. Flo Milli\) \[Sped Up Version\]](https://open.spotify.com/track/59802nBw0MFfy5D0KywW2a) | [Lah Pat](https://open.spotify.com/artist/6dhd3wcal02KeLBk5wScfd), [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Rodeo Remix \(feat\. Flo Milli\) \[Sped Up Version\]](https://open.spotify.com/album/2qJA56ITockA3bdWlUJEK2) | 3:07 |
 | 21 | [Bed Time](https://open.spotify.com/track/1WGIqE7rCmrsERtlIpCGyM) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [You Still Here, Ho ?](https://open.spotify.com/album/42C76ZnwdWqEu6zs6NFW1A) | 2:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00Q0Yo.md) - [plain]
 | 49 | [Boys Ain't Shit \(feat\. Flo Milli\)](https://open.spotify.com/track/2W7FRj6wq1uNmIUwELuQ7e) | [SAYGRACE](https://open.spotify.com/artist/6y5amJcTjeDgLXIjtQLMst), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Boys Ain't Shit \(feat\. Flo Milli\)](https://open.spotify.com/album/3hQcaESnJCs1r2oHbmUKoB) | 3:15 |
 | 50 | [Fruit Loop](https://open.spotify.com/track/2vgoeRVrxhxuE7vvUSOVim) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Fruit Loop](https://open.spotify.com/album/1eGfr1AwGJ3bI2ONUhikpg) | 2:17 |
 
-Snapshot ID: `ag5LAAAAAABb/0jNLPBhpqxLzr4tH4Oh`
+Snapshot ID: `ag+cgAAAAAAEwB0x0A9apZFRpl95b+vh`

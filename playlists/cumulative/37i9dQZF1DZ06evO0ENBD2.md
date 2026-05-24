@@ -4,7 +4,7 @@
 
 > This is Queen\. The essential tracks, all in one playlist.
 
-135 songs - 8 hr 44 min
+136 songs - 8 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Fat Bottomed Girls \- Remastered 2011](https://open.spotify.com/track/4igIYHF3B5VBxEafHauVo3) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Jazz \(Deluxe Remastered Version\)](https://open.spotify.com/album/21HMAUrbbYSj9NiPPlGumy) | 4:15 | 2022-09-17 |  |
 | [Father To Son \- 2026 Mix](https://open.spotify.com/track/6doNuP5cvN0DB7jLJCVkSw) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Queen II \(Collector's Edition\)](https://open.spotify.com/album/1HkKjf80Bkby4XpBQl0te0) | 6:12 | 2026-03-29 | 2026-04-26 |
 | [Father To Son \- Backing Track](https://open.spotify.com/track/15d6UmXZwWMODwxJgLPvn0) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Queen II \(Collector's Edition\)](https://open.spotify.com/album/1HkKjf80Bkby4XpBQl0te0) | 6:12 | 2026-04-28 | 2026-05-11 |
-| [Father To Son \- Backing Track](https://open.spotify.com/track/3lJfrrGjBxTmKgTLn63ER1) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Queen II](https://open.spotify.com/album/1HFobzrUk120xHeop7rC5D) | 6:12 | 2026-04-26 |  |
+| [Father To Son \- Backing Track](https://open.spotify.com/track/3lJfrrGjBxTmKgTLn63ER1) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Queen II](https://open.spotify.com/album/1HFobzrUk120xHeop7rC5D) | 6:12 | 2026-04-26 | 2026-05-24 |
 | [Flash \- Single Version](https://open.spotify.com/track/5aswWmjJLHBSYFknQjegfg) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Flash Gordon \(Deluxe Edition 2011 Remaster\)](https://open.spotify.com/album/4r9kNse038AoF2KfbqPUOS) | 2:48 | 2022-09-17 | 2022-10-16 |
 | [Friends Will Be Friends \- Remastered 2011](https://open.spotify.com/track/0SaopEgTo6O5dJoFXBbulL) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Kind of Magic \(Deluxe Remastered Version\)](https://open.spotify.com/album/6QYnikkyKvjmFtTiZVeCW7) | 4:06 | 2025-03-27 | 2026-05-11 |
 | [Friends Will Be Friends \- Remastered 2011](https://open.spotify.com/track/3EGlnkJGcwz73rT0oE0X1X) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Kind Of Magic \(2011 Remaster\)](https://open.spotify.com/album/0pEfDPZko6TnNOgrZMe5nn) | 4:06 | 2022-09-17 |  |
@@ -117,6 +117,7 @@
 | [The Night Comes Down \- 2024 Mix](https://open.spotify.com/track/4EEiMtxWNU7k0JHNZdloUI) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Night Comes Down \(2024 Mix\)](https://open.spotify.com/album/6qifDKuIH45I8IJptMzH1d) | 4:21 | 2024-09-28 | 2024-11-03 |
 | [The Show Must Go On \- Remastered 2011](https://open.spotify.com/track/3VYrW02CQhbkYAe4rpG297) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Innuendo](https://open.spotify.com/album/3jYy7yGNCysTHE8MKrIF1k) | 4:37 | 2025-03-27 | 2026-05-11 |
 | [The Show Must Go On \- Remastered 2011](https://open.spotify.com/track/5n6RDaGFSN88oRWuGtYAIN) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Innuendo \(2011 Remaster\)](https://open.spotify.com/album/5kffKW0sSLo6tkLg1veUGC) | 4:37 | 2022-09-17 |  |
+| [There Must Be More To Life Than This \- William Orbit Mix](https://open.spotify.com/track/4fm6uqfR9apdFcjMXnmjtf) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d), [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Queen Forever \(Deluxe Edition\)](https://open.spotify.com/album/0VGTZXtXHGCKVx6l9KAN4F) | 3:27 | 2026-05-24 |  |
 | [These Are The Days Of Our Lives \- 2011 Remaster](https://open.spotify.com/track/5js1JJOAkR5KwlifBpvHMN) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Innuendo \(2011 Remaster\)](https://open.spotify.com/album/5kffKW0sSLo6tkLg1veUGC) | 4:15 | 2022-10-12 |  |
 | [These Are The Days Of Our Lives \- 2011 Remaster](https://open.spotify.com/track/6L2zQunC8lImxNEH60yxaR) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Innuendo](https://open.spotify.com/album/3jYy7yGNCysTHE8MKrIF1k) | 4:15 | 2025-03-27 | 2026-05-11 |
 | [Tie Your Mother Down \- Remastered 2011](https://open.spotify.com/track/6K8gEgGkOyD1wFY3kAcyOy) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Day At The Races \(Deluxe Remastered Version\)](https://open.spotify.com/album/0lmQ6rAGcChLjGXM52Qu3i) | 4:46 | 2025-03-27 | 2026-05-11 |

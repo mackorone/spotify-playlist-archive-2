@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRegGOhYpv3j.md) - [plain]
 | 64 | [Lone Star](https://open.spotify.com/track/3SZ94PA3dLogWLvBEPD2dv) | [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS) | [Killed The Cowboy](https://open.spotify.com/album/7qOcM822LYEaTksCBUImpb) | 3:19 |
 | 65 | [good to be back](https://open.spotify.com/track/3Lv5kxgINqLLGM3ZoIHgRL) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [shot in the dark](https://open.spotify.com/album/7H5STZn8rbg58X1Q69Rifk) | 3:06 |
 | 66 | [butterfly \(feat\. Karen Fairchild\)](https://open.spotify.com/track/05aF35gAGVmmvsZp7wlgwf) | [Emily Weisband](https://open.spotify.com/artist/1am9EW2QubqpkCbg29vu5n), [Karen Fairchild](https://open.spotify.com/artist/3RXtieA0L2l22SWlOUMNca) | [butterfly \(feat\. Karen Fairchild\)](https://open.spotify.com/album/4MV40qreGLrt6Tsb1a4U0y) | 2:49 |
-| 67 | [Graveyard](https://open.spotify.com/track/6XNg0qUmlEnKzYdIFypdYD) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Graveyard](https://open.spotify.com/album/5o5qqikYY4EsOsoXlrYfze) | 2:20 |
-| 68 | [Reasons Why We Broke Up](https://open.spotify.com/track/3NzR8tsF7ZoaQnEOfxwwaT) | [Erin Kinsey](https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq) | [Reasons Why We Broke Up](https://open.spotify.com/album/6l0WShcnTrdTWl8CFF4tXb) | 3:56 |
+| 67 | [Reasons Why We Broke Up](https://open.spotify.com/track/3NzR8tsF7ZoaQnEOfxwwaT) | [Erin Kinsey](https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq) | [Reasons Why We Broke Up](https://open.spotify.com/album/6l0WShcnTrdTWl8CFF4tXb) | 3:56 |
+| 68 | [Graveyard](https://open.spotify.com/track/6XNg0qUmlEnKzYdIFypdYD) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Graveyard](https://open.spotify.com/album/5o5qqikYY4EsOsoXlrYfze) | 2:20 |
 | 69 | [Breakfast in Bed \(feat\. Avenue Beat\)](https://open.spotify.com/track/2E6l2tlco2SpF2LC7pjFHN) | [Sophia Messa](https://open.spotify.com/artist/4EtJmdsecF1RlU8cOo6BBR), [Avenue Beat](https://open.spotify.com/artist/1htYtUdXVMwR6HCSs821Lc) | [Ice Cream & Cigarettes EP](https://open.spotify.com/album/1pjNf0VLIZl047irwTJT2a) | 2:21 |
 | 70 | [love in the living room](https://open.spotify.com/track/2kZINzKJ48m68G97jlDm89) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Tulip Drive](https://open.spotify.com/album/20dZqC8aUO4ip6aqAPymYL) | 3:10 |
 | 71 | [That's Why \(You Love Me\)](https://open.spotify.com/track/6X92IuYTb2HX56BvpKn1xj) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [Danielle](https://open.spotify.com/album/5FVRKekEp0D2cUH0hK59zV) | 2:38 |
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRegGOhYpv3j.md) - [plain]
 | 80 | [it's not you, it's me](https://open.spotify.com/track/0X3mAcw0fxCLqgVcLoGbpC) | [Savana Santos](https://open.spotify.com/artist/4319F2mBye7whEKPHX8pSm) | [1](https://open.spotify.com/album/6N56gxTiG3hCtCTNgdiYtx) | 2:20 |
 | 81 | [Double Standard](https://open.spotify.com/track/29kSxzMLoSZ4qeEEO2vN4L) | [Conor Clemmons](https://open.spotify.com/artist/6CrzyNTeFnxKAnkXdx8eyv) | [Double Standard](https://open.spotify.com/album/5N9RkXhSdRLVRLNbAJ3hEP) | 3:24 |
 
-Snapshot ID: `AcSNUgAAAADUOw59hnMqydLMjezI4szU`
+Snapshot ID: `AcSS8gAAAADOrHVG3gofIrERd8ZUf6P5`

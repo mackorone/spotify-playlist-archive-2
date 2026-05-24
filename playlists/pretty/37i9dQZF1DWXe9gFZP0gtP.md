@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXe9gFZP0gtP.md) - [plain]
 
 > Calm your mind from anxiety with gentle piano and ambient music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,896,504 likes - 200 songs - 9 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,896,963 likes - 200 songs - 9 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXe9gFZP0gtP.md) - [plain]
 | 199 | [Enlightened Drift](https://open.spotify.com/track/58Fz9k3Fkh2mZwEjhBPqlu) | [Amber Glow](https://open.spotify.com/artist/20V6s9VAMU5cW2u2r8v6dJ) | [Enlightened Drift](https://open.spotify.com/album/1XHLTy2qK8p1hLE1mibEg0) | 3:16 |
 | 200 | [Abundant](https://open.spotify.com/track/13aO4GXU92PdB37eSOxvrp) | [Glass Dome](https://open.spotify.com/artist/4LWyiymtdWPzhflGcghaKh) | [Abundant](https://open.spotify.com/album/2cdSpHVhpKzp18ioT5tktw) | 2:30 |
 
-Snapshot ID: `AAAAAChgi2U7DvYQtxJ5LgcmnGd23bQ8`
+Snapshot ID: `AAAAAGq0DzIDxxo1pi+unDYNMxoTxUuv`

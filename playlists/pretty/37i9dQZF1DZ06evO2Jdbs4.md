@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Jdbs4.md) - [plain]
 
 > This is Bobby Pulido\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,908 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,926 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Jdbs4.md) - [plain]
 | 31 | [Se Me Olvidó Otra Vez](https://open.spotify.com/track/1nk048JMIWk2EV7mFoahfH) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Bobby](https://open.spotify.com/album/4x9sXcbLTRlKNvHbzUp1w7) | 3:09 |
 | 32 | [Días de Ayer](https://open.spotify.com/track/3nNExpEv8J5DNv5oSQUIII) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Días de Ayer](https://open.spotify.com/album/5G24MWnlBvrynYjrlIQt5j) | 3:26 |
 | 33 | [Cindy Don't Know](https://open.spotify.com/track/4yeRSlUJb9QxXAbOKk0WPg) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Desvelado](https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2) | 3:38 |
-| 34 | [Margarita](https://open.spotify.com/track/1qbsrr0AwGgTY2SD5s1qIr) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Enséñame](https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK) | 3:57 |
-| 35 | [Me Derrito \(feat\. Bobby Pulido\)](https://open.spotify.com/track/5UT6Ug2HZp0MZQdyf2iVCd) | [Pesado](https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK), [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Los Ángeles Existen](https://open.spotify.com/album/6Q2W1lDlaler63hoBRSJWs) | 2:50 |
+| 34 | [Me Derrito \(feat\. Bobby Pulido\)](https://open.spotify.com/track/5UT6Ug2HZp0MZQdyf2iVCd) | [Pesado](https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK), [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Los Ángeles Existen](https://open.spotify.com/album/6Q2W1lDlaler63hoBRSJWs) | 2:50 |
+| 35 | [Margarita](https://open.spotify.com/track/1qbsrr0AwGgTY2SD5s1qIr) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Enséñame](https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK) | 3:57 |
 | 36 | [Hey](https://open.spotify.com/track/5WhtweNjD7ptn0lJFeO37K) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Siempre Pensando En Ti](https://open.spotify.com/album/0aHB0GMDqyVE21pd0lS9s5) | 3:31 |
 | 37 | [Besos y Copas \- En Vivo](https://open.spotify.com/track/4U3pbbjrFtyLUIfiYZvuv2) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg), [Alicia Villarreal](https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn) | [Bobby Pulido & Friends Una Tuya Y Una Mía \(Vol\. 1 / En Vivo\)](https://open.spotify.com/album/1n8dn1igCydDN4AKRnjMN8) | 3:07 |
 | 38 | [Sabes](https://open.spotify.com/track/60WVyxHby6SkjMPhTv3V3Y) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Desvelado](https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2) | 3:35 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Jdbs4.md) - [plain]
 | 47 | [Cuando Me Dejes De Amar](https://open.spotify.com/track/0vT4nUou6ofzflZOZGhZmX) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Desvelado](https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2) | 3:26 |
 | 48 | [El Último Romántico](https://open.spotify.com/track/1uh8sWHg8QcCs8K9S2NDZM) | [Mesteño](https://open.spotify.com/artist/4sDNXNlCrk7zHUZTYggE4K), [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [El Último Romántico](https://open.spotify.com/album/4AQ6qn5bLcBCU8H0PDtZRC) | 3:06 |
 | 49 | [Separarnos \- En Vivo](https://open.spotify.com/track/2feKOqeb6bpYP8ocGMzgzF) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg), [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Bobby Pulido & Friends Una Tuya Y Una Mía \(Vol\. 1 / En Vivo\)](https://open.spotify.com/album/1n8dn1igCydDN4AKRnjMN8) | 3:14 |
-| 50 | [Amor Se Escribe Con Llanto \- En Vivo](https://open.spotify.com/track/0V3SHhzbC5TzDnIb2mbWRW) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg), [Guardianes Del Amor De Arturo Rodriguez](https://open.spotify.com/artist/5XAMwb7g6jZrLc3iO8ag4G) | [Amor Se Escribe Con Llanto \(En Vivo\)](https://open.spotify.com/album/5zjXAyF9w7Zlcyvwf4cDDk) | 3:36 |
+| 50 | [Cumbia Vallenata \- En Vivo](https://open.spotify.com/track/6FzRj4Wk0vs4lfA1RoVr9j) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg), [Kinky](https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv) | [Cumbia Vallenata \(En Vivo\)](https://open.spotify.com/album/6lh0KAnbbfjKNROV6JStbH) | 3:37 |
 
-Snapshot ID: `ag5LAAAAAACzpUS2UtBx7BMNr/RcOhA+`
+Snapshot ID: `ag+cgAAAAADBLXxaoTZAkP+IHe/im6K6`

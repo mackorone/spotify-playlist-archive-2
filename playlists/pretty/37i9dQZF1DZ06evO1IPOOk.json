@@ -1,12 +1,12 @@
 {
   "description": "This is Kendrick Lamar. The essential tracks, all in one playlist.",
-  "num_followers": 1921893,
+  "num_followers": 1921949,
   "original_name": "This Is Kendrick Lamar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ag5LAAAAAACZSc0kFh7xUScex1nc36P1",
+  "snapshot_id": "ag+cgAAAAABIIfn9WBLwMm3FeKCNA/VS",
   "tracks": [
     {
       "added_at": null,
@@ -755,26 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mr. Morale & The Big Steppers",
-        "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        },
-        {
-          "name": "Sampha",
-          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
-        }
-      ],
-      "duration_ms": 222497,
-      "name": "Father Time (feat. Sampha)",
-      "url": "https://open.spotify.com/track/28qA8y1sz0FTuSapsCxNOG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "This Is Acting (Deluxe Version)",
         "url": "https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX"
       },
@@ -791,6 +771,26 @@
       "duration_ms": 210226,
       "name": "The Greatest (feat. Kendrick Lamar)",
       "url": "https://open.spotify.com/track/7xHWNBFm6ObGEQPaUxHuKO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+        }
+      ],
+      "duration_ms": 222497,
+      "name": "Father Time (feat. Sampha)",
+      "url": "https://open.spotify.com/track/28qA8y1sz0FTuSapsCxNOG"
     },
     {
       "added_at": null,

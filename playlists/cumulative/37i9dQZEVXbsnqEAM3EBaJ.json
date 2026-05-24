@@ -6749,6 +6749,32 @@
     },
     {
       "album": {
+        "name": "Supernatural (Beyond the Seen, Above the Known)",
+        "url": "https://open.spotify.com/album/03stnNub7ONkAa6Z57G25L"
+      },
+      "artists": [
+        {
+          "name": "Westace Beats",
+          "url": "https://open.spotify.com/artist/6KGBRLPAKJpDGtA0qOpdJg"
+        },
+        {
+          "name": "Yanni",
+          "url": "https://open.spotify.com/artist/72qxDp6R6v22pai96pZioz"
+        },
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "date_added": "2026-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187669,
+      "name": "Beyond the Seen",
+      "url": "https://open.spotify.com/track/2G1HbaSjR9zzur2OXaUnZ7"
+    },
+    {
+      "album": {
         "name": "Big Big Love",
         "url": "https://open.spotify.com/album/7wtRSJjjEdOxlZ0gn7MK7y"
       },
@@ -7522,7 +7548,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 191461,
       "name": "Blame It On The Youth",
       "url": "https://open.spotify.com/track/1qsYl35llY6dKDUpkNbKDL"
@@ -8380,7 +8406,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 210746,
       "name": "Bring Back The Waltz - Original Drums",
       "url": "https://open.spotify.com/track/5FHDuWkQtAx01vv7SuaViy"
@@ -8438,7 +8464,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 189069,
       "name": "Broken Mirror - Daniel Joseph Remix",
       "url": "https://open.spotify.com/track/5fDQsQsKmsaDIUW6x6apio"
@@ -11660,7 +11686,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 214463,
       "name": "Criollita Santiague\u00f1a",
       "url": "https://open.spotify.com/track/28kfS3af38i3DITC2UxDSF"
@@ -12738,6 +12764,24 @@
     {
       "album": {
         "name": "Dear God",
+        "url": "https://open.spotify.com/album/4LqPNdoEBqxhaIAdrrstsu"
+      },
+      "artists": [
+        {
+          "name": "The Pretty Reckless",
+          "url": "https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq"
+        }
+      ],
+      "date_added": "2026-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 368505,
+      "name": "Dear God",
+      "url": "https://open.spotify.com/track/1Sn2P4sUV3ii0ykOrST5t4"
+    },
+    {
+      "album": {
+        "name": "Dear God",
         "url": "https://open.spotify.com/album/3sE3S6k6OA1UXWMKQEiaDY"
       },
       "artists": [
@@ -12748,7 +12792,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 368505,
       "name": "Dear God",
       "url": "https://open.spotify.com/track/6GSeQJtwp5OacI8ED9cKkU"
@@ -15716,7 +15760,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 297520,
       "name": "El Adios",
       "url": "https://open.spotify.com/track/3wxHrBErUo6U9diczo6UU0"
@@ -20874,7 +20918,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 255000,
       "name": "Give It Away",
       "url": "https://open.spotify.com/track/2eEuE2BzhBUaGT4YX928tD"
@@ -23020,6 +23064,24 @@
     {
       "album": {
         "name": "A Pale White Dot",
+        "url": "https://open.spotify.com/album/3fCeSYZN3kgerwF2Tf87WX"
+      },
+      "artists": [
+        {
+          "name": "Periphery",
+          "url": "https://open.spotify.com/artist/6d24kC5fxHFOSEAmjQPPhc"
+        }
+      ],
+      "date_added": "2026-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259593,
+      "name": "Heaven on High",
+      "url": "https://open.spotify.com/track/3EbT5LT9lgaYCVVRtmydEI"
+    },
+    {
+      "album": {
+        "name": "A Pale White Dot",
         "url": "https://open.spotify.com/album/47qRIlDca3KNMA0WZMtIXR"
       },
       "artists": [
@@ -23030,7 +23092,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 259593,
       "name": "Heaven on High",
       "url": "https://open.spotify.com/track/7s1qpqm8n0r0FXyvgKSeqM"
@@ -26810,7 +26872,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 230666,
       "name": "In Dark Distortion",
       "url": "https://open.spotify.com/track/76kY65WJh0w8mpDWK1P4Gb"
@@ -27042,7 +27104,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 232135,
       "name": "In the Dark",
       "url": "https://open.spotify.com/track/78Byi7xHQziRc0dRsNMwBb"
@@ -27852,7 +27914,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 116878,
       "name": "INTRO (HIT ME HARD AND SOFT TOUR)",
       "url": "https://open.spotify.com/track/43ZbuNZJFbgGsYR5zq5ZKd"
@@ -31606,7 +31668,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 212629,
       "name": "Let's Rock",
       "url": "https://open.spotify.com/track/73xKqau6gsCaqMDs8V0JVL"
@@ -32812,7 +32874,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 219139,
       "name": "Long Long Road",
       "url": "https://open.spotify.com/track/3j1niK872s5MqUfxqcTLvn"
@@ -34036,6 +34098,24 @@
       "duration_ms": 217672,
       "name": "Madrugadas de nada",
       "url": "https://open.spotify.com/track/0HVfDPycENd4Y1i1ttkYMN"
+    },
+    {
+      "album": {
+        "name": "Zodeon at Crystal Hall",
+        "url": "https://open.spotify.com/album/17llPIMPUtlH5azIRiPDhd"
+      },
+      "artists": [
+        {
+          "name": "The Smashing Pumpkins",
+          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+        }
+      ],
+      "date_added": "2026-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202392,
+      "name": "Magdalena",
+      "url": "https://open.spotify.com/track/2Z6T171uzbiX0UHtHgWifP"
     },
     {
       "album": {
@@ -35910,10 +35990,28 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 335700,
       "name": "Monkey - Dub Version",
       "url": "https://open.spotify.com/track/5x9SGdt0HqCMGtxj33PpPQ"
+    },
+    {
+      "album": {
+        "name": "Monkey",
+        "url": "https://open.spotify.com/album/7bRCgm4u6JDBNuP63NijaP"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "date_added": "2026-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225730,
+      "name": "Monkey - Extra Beats",
+      "url": "https://open.spotify.com/track/6rGZmsqqIoVU29l7a1m2wK"
     },
     {
       "album": {
@@ -36178,6 +36276,28 @@
       "duration_ms": 161000,
       "name": "More the Victim",
       "url": "https://open.spotify.com/track/50jyxHSIHAz7N5jIzODvs4"
+    },
+    {
+      "album": {
+        "name": "Morning Peace",
+        "url": "https://open.spotify.com/album/1wcIP354HwZEPXtuP9m9cD"
+      },
+      "artists": [
+        {
+          "name": "DVE",
+          "url": "https://open.spotify.com/artist/5mEsO7hgZjoJ8Wc6pIopHo"
+        },
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        }
+      ],
+      "date_added": "2026-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130479,
+      "name": "Morning Peace",
+      "url": "https://open.spotify.com/track/52TcA4qJjHNGlNCBaBKUqL"
     },
     {
       "album": {
@@ -39664,7 +39784,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 273393,
       "name": "One World One Home",
       "url": "https://open.spotify.com/track/2ZWhB0HIRV71H80yPkKQDy"
@@ -40342,10 +40462,32 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 245267,
       "name": "Outlander - The Skye Boat Song (The Journey's End Extended Version) (feat. Annie Lennox)",
       "url": "https://open.spotify.com/track/2gNzc1i13A7Wu3am75IRYg"
+    },
+    {
+      "album": {
+        "name": "Outlander: Season 8 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/0FYsyYhHOFkqGUUqPR6e5e"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        },
+        {
+          "name": "Annie Lennox",
+          "url": "https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum"
+        }
+      ],
+      "date_added": "2026-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121788,
+      "name": "Outlander - The Skye Boat Song (The Journey's End) (feat. Annie Lennox)",
+      "url": "https://open.spotify.com/track/2pssdJs0gcu1RjEVpVjMVp"
     },
     {
       "album": {
@@ -40508,7 +40650,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 67407,
       "name": "Overture - Live",
       "url": "https://open.spotify.com/track/2D9n3kP1HroyS5wyWHAsID"
@@ -42750,7 +42892,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 191568,
       "name": "Punching the Flowers",
       "url": "https://open.spotify.com/track/56es3ImztwXSwpYmtS6c4A"
@@ -43436,7 +43578,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 252071,
       "name": "Qu\u00e9 va a suceder - Remasterizado 2025",
       "url": "https://open.spotify.com/track/5ecCfi8bmFPmxSsX1OVNBH"
@@ -44266,7 +44408,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 167917,
       "name": "Rehab",
       "url": "https://open.spotify.com/track/021hDvPeyxJtCIfLyBDThH"
@@ -44288,7 +44430,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 178800,
       "name": "Relaxing Sound 4.0",
       "url": "https://open.spotify.com/track/5yS4yFZZ2hg2SKKTrnSgil"
@@ -48290,7 +48432,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 219005,
       "name": "Simmatar",
       "url": "https://open.spotify.com/track/4Hpo18Xt0AdkLi07Fm8JIx"
@@ -48606,6 +48748,32 @@
       "duration_ms": 243520,
       "name": "Slave Driver - Live At The Sundown Theatre, Edmonton, UK / May 1973",
       "url": "https://open.spotify.com/track/6umprZ3p3BbDjBFa6bsKd4"
+    },
+    {
+      "album": {
+        "name": "Slave to the Rithm (Sullivan King Remix)",
+        "url": "https://open.spotify.com/album/72grcxkluYO0ru2Iw1IbiM"
+      },
+      "artists": [
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+        },
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "date_added": "2026-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229200,
+      "name": "Slave to the Rithm - Sullivan King Remix",
+      "url": "https://open.spotify.com/track/5SjhJVYAxIqori0wbYqAQE"
     },
     {
       "album": {
@@ -56768,7 +56936,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 190171,
       "name": "Theme from Harry's Game",
       "url": "https://open.spotify.com/track/2rI4sm5jwx5IoFMZaCxBRA"
@@ -58032,6 +58200,24 @@
       "duration_ms": 287857,
       "name": "Too Late - Live 1986",
       "url": "https://open.spotify.com/track/3Zb1ij7HDCTj2oZ2kwzrNv"
+    },
+    {
+      "album": {
+        "name": "Under Wraps (The Unwrapped Edition)",
+        "url": "https://open.spotify.com/album/20SZE9X6V2z3ZlCfdhqNZY"
+      },
+      "artists": [
+        {
+          "name": "Jethro Tull",
+          "url": "https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R"
+        }
+      ],
+      "date_added": "2026-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332186,
+      "name": "Too Old To Rock 'N' Roll - Live at Hammersmith Odeon, 1984",
+      "url": "https://open.spotify.com/track/0EVvbU2933Ul9QWIqd5yaw"
     },
     {
       "album": {
@@ -60010,7 +60196,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 207813,
       "name": "Upside Down",
       "url": "https://open.spotify.com/track/6sxRO2iJhe3hNU9HP1uJGI"
@@ -63262,7 +63448,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 217373,
       "name": "Window",
       "url": "https://open.spotify.com/track/1N8fvq9XcxxpRdGydlSqC1"
@@ -63400,7 +63586,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 280440,
       "name": "Wish I Could Fly (The Monk Version)",
       "url": "https://open.spotify.com/track/5a97cTFUJm86iI8JdK2tiA"

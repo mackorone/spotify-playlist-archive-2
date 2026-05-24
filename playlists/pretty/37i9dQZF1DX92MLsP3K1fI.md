@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 
 > ¡Sube el volumen y disfruta del pop más chicloso! Noa Sainz en portada ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,800 likes - 70 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,811 likes - 70 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,12 +62,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 | 52 | [Distinto](https://open.spotify.com/track/3ozopXR7pzz7Mr5z04rK1U) | [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Distinto](https://open.spotify.com/album/0a505H49Qu64xAf5mfNMB7) | 2:45 |
 | 53 | [¿Es En Serio?](https://open.spotify.com/track/3r07z9A7JX3Hb6btVCPisu) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Es En Serio?](https://open.spotify.com/album/7rQ3fjpTE0HmW4VzvmH4M5) | 3:13 |
 | 54 | [CORAZON PESAO](https://open.spotify.com/track/3ltB3ajwGjNzrehyusWYJE) | [Lua Lacruz](https://open.spotify.com/artist/6UwX82C61vmictoQeSRozK), [Mi Compa el Chino](https://open.spotify.com/artist/2DdimmphdLA00UsduU3SX4) | [CORAZON PESAO](https://open.spotify.com/album/3QLGJZGhvYRQOfEyOjCf7L) | 2:22 |
-| 55 | [24/7](https://open.spotify.com/track/1ZpuuKGjzo8x5NQwBZLrRj) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU) | [24/7](https://open.spotify.com/album/3C9AaBc0H8DfTUHUWYS3tI) | 2:52 |
-| 56 | [MALVAS](https://open.spotify.com/track/1MtxOSpyeHEQEUV2NtkK1H) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2), [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT) | [MALVAS](https://open.spotify.com/album/6kUKwicaYia3sYbgQyEtb2) | 3:03 |
-| 57 | [maniático](https://open.spotify.com/track/3XDVdATwLZQ7WtGAZMBmcE) | [Jacinto](https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj) | [maniático](https://open.spotify.com/album/4HWDCh7os8O5GN6I06bdYG) | 2:54 |
+| 55 | [MALVAS](https://open.spotify.com/track/1MtxOSpyeHEQEUV2NtkK1H) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2), [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT) | [MALVAS](https://open.spotify.com/album/6kUKwicaYia3sYbgQyEtb2) | 3:03 |
+| 56 | [24/7](https://open.spotify.com/track/1ZpuuKGjzo8x5NQwBZLrRj) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU) | [24/7](https://open.spotify.com/album/3C9AaBc0H8DfTUHUWYS3tI) | 2:52 |
+| 57 | [Blanco Y Negro](https://open.spotify.com/track/3s96JLi4otLNGrVK6Eik7f) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia), [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Blanco Y Negro](https://open.spotify.com/album/7csomMVHTbSZuqLPofYE8Y) | 3:32 |
 | 58 | [¿Por Qué Soy Así?](https://open.spotify.com/track/1N9n5G6elGqnLm3KSVG7Ir) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Por Qué Soy Así?](https://open.spotify.com/album/0nx6GtmpkRxmbj1gX2pRP2) | 3:09 |
 | 59 | [odio a primera vista](https://open.spotify.com/track/4O7u2mKN9ovYtk3ejaJ87O) | [Ana Sofi W.](https://open.spotify.com/artist/2lyO70w7by5Ekhac2H6zS0) | [odio a primera vista](https://open.spotify.com/album/0SUOvTZTNdnEES1VpEW7Vu) | 3:06 |
-| 60 | [Blanco Y Negro](https://open.spotify.com/track/3s96JLi4otLNGrVK6Eik7f) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia), [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Blanco Y Negro](https://open.spotify.com/album/7csomMVHTbSZuqLPofYE8Y) | 3:32 |
+| 60 | [maniático](https://open.spotify.com/track/3XDVdATwLZQ7WtGAZMBmcE) | [Jacinto](https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj) | [maniático](https://open.spotify.com/album/4HWDCh7os8O5GN6I06bdYG) | 2:54 |
 | 61 | [Aeropuerto](https://open.spotify.com/track/49tB7r0lAVLPTk6pZoqpNP) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Aeropuerto](https://open.spotify.com/album/1oJ0XdIDG1WQOYvP13VMhn) | 3:32 |
 | 62 | [Al Mismo Kbrn \(De Siempre\)](https://open.spotify.com/track/5CmRpdPwcN9BK4KXNYAr0Z) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT), [Denisse Guerrero](https://open.spotify.com/artist/1vVOBTQuNsGrbHedkTKUD5) | [Al Mismo Kbrn \(De Siempre\)](https://open.spotify.com/album/090ET0e1hTQLnCvnc5X9yN) | 3:21 |
 | 63 | [Hot Cherry Bomb](https://open.spotify.com/track/6vFqACvmDtCtcLB2OdiBA2) | [ALMAS](https://open.spotify.com/artist/4CB2DwqLVhw2YENG9hyjGC) | [Hot Cherry Bomb](https://open.spotify.com/album/14JMi0a2NKoBedw05QpxWV) | 2:08 |
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 | 67 | [qué raro es ser normal](https://open.spotify.com/track/0SJastxx9FyW6Kbp1RLQaK) | [Jacinto](https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj) | [qué raro es ser normal](https://open.spotify.com/album/0XqsyT0z2gEtn6kXJvI2Kk) | 2:25 |
 | 68 | [Baja California](https://open.spotify.com/track/3XAMueRejgCY1TEJDX1gv0) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Baja California](https://open.spotify.com/album/3qbsCGFjewj30dvxqRJiJf) | 3:07 |
 | 69 | [Me Caigo](https://open.spotify.com/track/0Q9YmrINbpJss0MBVSfMeE) | [Sofish](https://open.spotify.com/artist/2RDGc14pPXYlnN55kzJYeB) | [Me Caigo](https://open.spotify.com/album/3mIzqnZrrwgdJx7ojyFU9v) | 1:43 |
-| 70 | [a la mitad](https://open.spotify.com/track/1dbDRlYvm4KaCVzMVUPlby) | [Majo Rivas](https://open.spotify.com/artist/3S4muLLIYiYK4P9ApjyLbY), [Kendall Peña](https://open.spotify.com/artist/2Sb4Db1YYVwCK3l04E9cpn) | [a la mitad](https://open.spotify.com/album/7BKm5M8gOpJIdxi5tdvdwY) | 2:54 |
+| 70 | [bachata mía](https://open.spotify.com/track/2mVupSW8ElmGAeidSkhLfW) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy), [María José Llergo](https://open.spotify.com/artist/70GBRlKEGjfueop2lfdQ4Q) | [PALACIO DE LUX](https://open.spotify.com/album/1Zn2LwmWP3ItxW1DIOdg0X) | 3:14 |
 
 Snapshot ID: `AAAAAFAEHCH+GixaIb7jSAHVxL/4E1d5`

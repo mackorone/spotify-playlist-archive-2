@@ -1,6 +1,6 @@
 {
   "description": "Modern southern rock swagger served neat. Cover: The Black Crowes",
-  "num_followers": 94799,
+  "num_followers": 94802,
   "original_name": "Southern Comfort",
   "owner": {
     "name": "Spotify",
@@ -523,22 +523,6 @@
     {
       "added_at": "2026-04-10 16:28:54",
       "album": {
-        "name": "Addictions",
-        "url": "https://open.spotify.com/album/5bUMRuNysQnyqJfxGM6PKM"
-      },
-      "artists": [
-        {
-          "name": "Warren Zeiders",
-          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
-        }
-      ],
-      "duration_ms": 187680,
-      "name": "Addictions",
-      "url": "https://open.spotify.com/track/0aplFNbDGW0ZbUfqpjJXX1"
-    },
-    {
-      "added_at": "2026-04-10 16:28:54",
-      "album": {
         "name": "Happiness Bastards",
         "url": "https://open.spotify.com/album/2P9mQHy3lFG8OhPKqg3XeX"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 255560,
       "name": "Wanting and Waiting",
       "url": "https://open.spotify.com/track/4OiL5M05HmrnBk1AOdHNe0"
+    },
+    {
+      "added_at": "2026-04-10 16:28:54",
+      "album": {
+        "name": "Addictions",
+        "url": "https://open.spotify.com/album/5bUMRuNysQnyqJfxGM6PKM"
+      },
+      "artists": [
+        {
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+        }
+      ],
+      "duration_ms": 187680,
+      "name": "Addictions",
+      "url": "https://open.spotify.com/track/0aplFNbDGW0ZbUfqpjJXX1"
     },
     {
       "added_at": "2026-04-10 16:28:54",
@@ -763,22 +763,6 @@
     {
       "added_at": "2026-04-10 16:28:54",
       "album": {
-        "name": "Old Tricks",
-        "url": "https://open.spotify.com/album/0pTuKCFPVIeCrittNGlWcV"
-      },
-      "artists": [
-        {
-          "name": "The Droptines",
-          "url": "https://open.spotify.com/artist/5MKl9FP3O6MpQhVx7QRFyc"
-        }
-      ],
-      "duration_ms": 148778,
-      "name": "Old Tricks",
-      "url": "https://open.spotify.com/track/2sqIKw2z6TWykx48jlepVH"
-    },
-    {
-      "added_at": "2026-04-10 16:28:54",
-      "album": {
         "name": "Nervous",
         "url": "https://open.spotify.com/album/2nzUJkFqobo7AeMczO9v7q"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 195583,
       "name": "Nervous",
       "url": "https://open.spotify.com/track/5fQF78hwHmuRS6s6VRTAMG"
+    },
+    {
+      "added_at": "2026-04-10 16:28:54",
+      "album": {
+        "name": "Old Tricks",
+        "url": "https://open.spotify.com/album/0pTuKCFPVIeCrittNGlWcV"
+      },
+      "artists": [
+        {
+          "name": "The Droptines",
+          "url": "https://open.spotify.com/artist/5MKl9FP3O6MpQhVx7QRFyc"
+        }
+      ],
+      "duration_ms": 148778,
+      "name": "Old Tricks",
+      "url": "https://open.spotify.com/track/2sqIKw2z6TWykx48jlepVH"
     },
     {
       "added_at": "2026-04-10 16:28:54",
@@ -875,22 +875,6 @@
     {
       "added_at": "2026-04-10 16:28:54",
       "album": {
-        "name": "Black on Black",
-        "url": "https://open.spotify.com/album/0gW6rlrjPt0vVCh5knGVCC"
-      },
-      "artists": [
-        {
-          "name": "Paul Cauthen",
-          "url": "https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp"
-        }
-      ],
-      "duration_ms": 140153,
-      "name": "Hot Damn",
-      "url": "https://open.spotify.com/track/1IayPAwjwwaZAF1GL0Qz4o"
-    },
-    {
-      "added_at": "2026-04-10 16:28:54",
-      "album": {
         "name": "Highway Will",
         "url": "https://open.spotify.com/album/6NG3wHuPma92oH37i68GYe"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 193671,
       "name": "Highway Will",
       "url": "https://open.spotify.com/track/5NK0LWKSpXco6ozy72CZal"
+    },
+    {
+      "added_at": "2026-04-10 16:28:54",
+      "album": {
+        "name": "Black on Black",
+        "url": "https://open.spotify.com/album/0gW6rlrjPt0vVCh5knGVCC"
+      },
+      "artists": [
+        {
+          "name": "Paul Cauthen",
+          "url": "https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp"
+        }
+      ],
+      "duration_ms": 140153,
+      "name": "Hot Damn",
+      "url": "https://open.spotify.com/track/1IayPAwjwwaZAF1GL0Qz4o"
     },
     {
       "added_at": "2026-04-10 16:28:54",
@@ -951,22 +951,6 @@
       "duration_ms": 220852,
       "name": "A Bad Hand",
       "url": "https://open.spotify.com/track/3upRSam0eJrJWhcRVbLXHS"
-    },
-    {
-      "added_at": "2026-04-10 16:28:54",
-      "album": {
-        "name": "15 Minute Smog Check",
-        "url": "https://open.spotify.com/album/14nl9oFin9cajYOmeWXggs"
-      },
-      "artists": [
-        {
-          "name": "The Takes",
-          "url": "https://open.spotify.com/artist/22CxvQCHRWjDdy0nco4nch"
-        }
-      ],
-      "duration_ms": 234036,
-      "name": "15 Minute Smog Check",
-      "url": "https://open.spotify.com/track/1Xzrlwhd55VSnbMxuFYaLK"
     },
     {
       "added_at": "2026-04-10 16:28:54",
@@ -1027,22 +1011,6 @@
     {
       "added_at": "2026-04-10 16:28:54",
       "album": {
-        "name": "Break My Heart",
-        "url": "https://open.spotify.com/album/1wOvsBCKijqgU7cFkkDHOq"
-      },
-      "artists": [
-        {
-          "name": "Them Dirty Roses",
-          "url": "https://open.spotify.com/artist/6n9Ciz68f2aZF98RAdshe6"
-        }
-      ],
-      "duration_ms": 254082,
-      "name": "Break My Heart",
-      "url": "https://open.spotify.com/track/3njCj24qFzep7tAhiJSYTZ"
-    },
-    {
-      "added_at": "2026-04-10 16:28:54",
-      "album": {
         "name": "Holy Ghost (feat. Jon Harvey [Monster Truck])",
         "url": "https://open.spotify.com/album/03EAJNTCPNeCynFUhUrgye"
       },
@@ -1063,6 +1031,22 @@
       "duration_ms": 220480,
       "name": "Holy Ghost (feat. Jon Harvey [Monster Truck])",
       "url": "https://open.spotify.com/track/7CaZXMfKtmBwTXqz9fZQEC"
+    },
+    {
+      "added_at": "2026-04-10 16:28:54",
+      "album": {
+        "name": "Break My Heart",
+        "url": "https://open.spotify.com/album/1wOvsBCKijqgU7cFkkDHOq"
+      },
+      "artists": [
+        {
+          "name": "Them Dirty Roses",
+          "url": "https://open.spotify.com/artist/6n9Ciz68f2aZF98RAdshe6"
+        }
+      ],
+      "duration_ms": 254082,
+      "name": "Break My Heart",
+      "url": "https://open.spotify.com/track/3njCj24qFzep7tAhiJSYTZ"
     },
     {
       "added_at": "2026-04-10 16:28:54",
@@ -1155,6 +1139,22 @@
       "duration_ms": 229560,
       "name": "Revival",
       "url": "https://open.spotify.com/track/7aBTTnmPNOnxns4zUqKFbl"
+    },
+    {
+      "added_at": "2026-04-10 16:28:54",
+      "album": {
+        "name": "15 Minute Smog Check",
+        "url": "https://open.spotify.com/album/14nl9oFin9cajYOmeWXggs"
+      },
+      "artists": [
+        {
+          "name": "The Takes",
+          "url": "https://open.spotify.com/artist/22CxvQCHRWjDdy0nco4nch"
+        }
+      ],
+      "duration_ms": 234036,
+      "name": "15 Minute Smog Check",
+      "url": "https://open.spotify.com/track/1Xzrlwhd55VSnbMxuFYaLK"
     },
     {
       "added_at": "2026-04-10 16:28:54",

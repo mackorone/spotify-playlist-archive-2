@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > Listen to women at full volume\. Cover: Quiet Light
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,109 likes - 54 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,108 likes - 54 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 6 | [I Know I Know](https://open.spotify.com/track/1Ot6QuJzCY66UdLK1ci3sc) | [STELLA LEFTY](https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2) | [I Know I Know](https://open.spotify.com/album/6vt7I2vcCWzmo8ExiTahAA) | 2:39 |
 | 7 | [Promise?](https://open.spotify.com/track/6Or4gNQC2EkixDGiufQ3F4) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [Promise?](https://open.spotify.com/album/4C0Jn8EWIX77dDQum3oNJO) | 3:12 |
 | 8 | [Madwoman](https://open.spotify.com/track/0UqHzMvRQnaOXEPKgFVhxN) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Matter of Time: The Final Hour](https://open.spotify.com/album/4DWK6TLXHl1fly2zi5RlO7) | 3:59 |
-| 9 | [Choka Choka](https://open.spotify.com/track/7CBWajKPyBA0GFtxmTzLBV) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Choka Choka](https://open.spotify.com/album/0ei3ArgXpn3uFZwxs90ySw) | 2:11 |
-| 10 | [Flo Jackson](https://open.spotify.com/track/4fwJzG3arwvfC1ZbRdracJ) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Flo Jackson](https://open.spotify.com/album/7a50cJvGdEO7AfkEvOoCFS) | 2:23 |
+| 9 | [Flo Jackson](https://open.spotify.com/track/4fwJzG3arwvfC1ZbRdracJ) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Flo Jackson](https://open.spotify.com/album/7a50cJvGdEO7AfkEvOoCFS) | 2:23 |
+| 10 | [Choka Choka](https://open.spotify.com/track/7CBWajKPyBA0GFtxmTzLBV) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Choka Choka](https://open.spotify.com/album/0ei3ArgXpn3uFZwxs90ySw) | 2:11 |
 | 11 | [BIG FEELING](https://open.spotify.com/track/0sH7M5s2bEWFRe7v7VRemW) | [BKTHERULA](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK) | [LUCY](https://open.spotify.com/album/0EnjeA3ZeMivEGuACIgrQi) | 1:55 |
 | 12 | [Who Hurt You?](https://open.spotify.com/track/3SMLwkyLp1wMxjtO8GymvC) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Cloud 9](https://open.spotify.com/album/4ntHwySryzYS8Td67WlVVq) | 3:54 |
 | 13 | [Reputation \(feat\. Dominic Fike\)](https://open.spotify.com/track/52m9ZMBCf6tv5ONxr81Uv0) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Reputation \(feat\. Dominic Fike\)](https://open.spotify.com/album/0GagxhdItrfNoWwTI6mogx) | 3:55 |
@@ -26,14 +26,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 16 | [Let Me](https://open.spotify.com/track/27PPzQyuNkGn8YRNtuPx0X) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Let Me](https://open.spotify.com/album/7H0zJ2YjvitbNFGqwmTbgu) | 4:51 |
 | 17 | [Numb](https://open.spotify.com/track/2GeHPJJYtU5ABDo0bS0Jou) | [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m) | [Numb](https://open.spotify.com/album/2UZOCW5ysMVZAP85uYW4ma) | 2:34 |
 | 18 | [Truth Of Pursuit](https://open.spotify.com/track/213XNePBS3v9QW0lnPUXmZ) | [Sarah Kinsley](https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC) | [Fleeting](https://open.spotify.com/album/4NryqaG2gunT4GC5edrqVA) | 2:51 |
-| 19 | [Buffalo 66](https://open.spotify.com/track/1mMxIUFIpF3K5YJ6UXHTKd) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [Jesus loves a primadonna](https://open.spotify.com/album/4ZJSi7rQlpEjPgdZVkn9uK) | 4:27 |
-| 20 | [Time Will Tell](https://open.spotify.com/track/1v9OAyGabSeIOH2VWIJ0wx) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Empty Hands](https://open.spotify.com/album/5lBm36eO5Us3NpTXaA9t9C) | 3:27 |
-| 21 | [Bitches](https://open.spotify.com/track/6M1i8I1dRCTw0VESPXikw6) | [Kassi Ashton](https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg) | [Bitches](https://open.spotify.com/album/6md6XQS1qEmxx4UDyEx9qa) | 3:48 |
+| 19 | [Bitches](https://open.spotify.com/track/6M1i8I1dRCTw0VESPXikw6) | [Kassi Ashton](https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg) | [Bitches](https://open.spotify.com/album/6md6XQS1qEmxx4UDyEx9qa) | 3:48 |
+| 20 | [Buffalo 66](https://open.spotify.com/track/1mMxIUFIpF3K5YJ6UXHTKd) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [Jesus loves a primadonna](https://open.spotify.com/album/4ZJSi7rQlpEjPgdZVkn9uK) | 4:27 |
+| 21 | [Time Will Tell](https://open.spotify.com/track/1v9OAyGabSeIOH2VWIJ0wx) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Empty Hands](https://open.spotify.com/album/5lBm36eO5Us3NpTXaA9t9C) | 3:27 |
 | 22 | [You Can Have Him](https://open.spotify.com/track/2Fk3aGFUTMniC8tNSJWe4S) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [You Can Have Him](https://open.spotify.com/album/2sLwRHswcURQ3Oe0chhcN8) | 3:15 |
 | 23 | [Curious](https://open.spotify.com/track/4riWIw7bjHRKCWeeCFxV3o) | [Emyrson Flora](https://open.spotify.com/artist/7ojpclnAqwGSfHaSDKDRNW) | [Aren't You Curious?](https://open.spotify.com/album/5Fdzfm44sC8htznFfFdAqA) | 3:04 |
 | 24 | [Testimony](https://open.spotify.com/track/57raDV5u2fktsZTXZTqnpI) | [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP), [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Testimony](https://open.spotify.com/album/5U2jgBcYY2ajkqFfzGvAsc) | 4:02 |
-| 25 | [kiss goodbye](https://open.spotify.com/track/2fv6il8oAlsoOP7sKohscF) | [The Two Lips](https://open.spotify.com/artist/0jtiZkDcuWRf647co8id50) | [kiss goodbye / brb](https://open.spotify.com/album/45omOM9b7ujbjudttnasFa) | 2:43 |
-| 26 | [Don’t Make Me Love U](https://open.spotify.com/track/5RCxs4hI3l01zASQkClUnm) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Don’t Make Me Love U](https://open.spotify.com/album/5QQH6wCepwybR1tvROlfKy) | 3:25 |
+| 25 | [Don’t Make Me Love U](https://open.spotify.com/track/5RCxs4hI3l01zASQkClUnm) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Don’t Make Me Love U](https://open.spotify.com/album/5QQH6wCepwybR1tvROlfKy) | 3:25 |
+| 26 | [kiss goodbye](https://open.spotify.com/track/2fv6il8oAlsoOP7sKohscF) | [The Two Lips](https://open.spotify.com/artist/0jtiZkDcuWRf647co8id50) | [kiss goodbye / brb](https://open.spotify.com/album/45omOM9b7ujbjudttnasFa) | 2:43 |
 | 27 | [Addicted](https://open.spotify.com/track/14yugoFdkgO8ZUxLlX6fpJ) | [Jackie Hollander](https://open.spotify.com/artist/5ykY9Uweo3gl5VFpb6z6pQ) | [Addicted](https://open.spotify.com/album/3BxfwMC0HjWxk7muzxUqyk) | 2:43 |
 | 28 | [Oops](https://open.spotify.com/track/5HUqlNEKgLwBiPfpK9wBaX) | [Momo Boyd](https://open.spotify.com/artist/5gqxLVfjWfNZ6dsKL05NKd), [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Miss Michigan](https://open.spotify.com/album/403xK3xBydTLfaBxctsZ2X) | 2:26 |
 | 29 | [i loved you then](https://open.spotify.com/track/6VT52WzaQT5oeZpFWv2q1H) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [i loved you then](https://open.spotify.com/album/7nocSTYeEUYkOXtHu5EIcf) | 3:42 |

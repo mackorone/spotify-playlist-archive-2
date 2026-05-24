@@ -4,7 +4,7 @@
 
 > This is My Chemical Romance\. The essential tracks, all in one playlist.
 
-61 songs - 3 hr 42 min
+62 songs - 3 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,8 @@
 | [Our Lady of Sorrows](https://open.spotify.com/track/46mPWQpvSFkXrr5nWoWW74) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [I Brought You My Bullets, You Brought Me Your Love](https://open.spotify.com/album/3VSl97ITIbXoFQvx2DQ605) | 2:05 | 2022-10-25 |  |
 | [Party Poison](https://open.spotify.com/track/1RT6zSjs59gJdFfUshT465) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Danger Days: The True Lives of the Fabulous Killjoys](https://open.spotify.com/album/2wPnKggTK3QhYAKL7Q0vvr) | 3:35 | 2024-05-25 | 2024-07-02 |
 | [Planetary \(GO!\)](https://open.spotify.com/track/3iitOoZUtWEgwZOEYFITFo) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Danger Days: The True Lives of the Fabulous Killjoys](https://open.spotify.com/album/2wPnKggTK3QhYAKL7Q0vvr) | 4:06 | 2022-10-25 |  |
-| [S/C/A/R/E/C/R/O/W](https://open.spotify.com/track/53lQywP7h2KlnfPAbwxWD9) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Danger Days: The True Lives of the Fabulous Killjoys](https://open.spotify.com/album/2wPnKggTK3QhYAKL7Q0vvr) | 4:28 | 2026-05-17 |  |
+| [S/C/A/R/E/C/R/O/W](https://open.spotify.com/track/53lQywP7h2KlnfPAbwxWD9) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Danger Days: The True Lives of the Fabulous Killjoys](https://open.spotify.com/album/2wPnKggTK3QhYAKL7Q0vvr) | 4:28 | 2026-05-17 | 2026-05-24 |
+| [Save Yourself, I'll Hold Them Back](https://open.spotify.com/track/3CX5UKLQ9zqorQDx00Sbgt) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Danger Days: The True Lives of the Fabulous Killjoys](https://open.spotify.com/album/2wPnKggTK3QhYAKL7Q0vvr) | 3:50 | 2026-05-24 |  |
 | [SING](https://open.spotify.com/track/1mX6SYJ1ZpcoxQUiER8wOI) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Danger Days: The True Lives of the Fabulous Killjoys](https://open.spotify.com/album/2wPnKggTK3QhYAKL7Q0vvr) | 4:30 | 2022-10-25 |  |
 | [Summertime](https://open.spotify.com/track/7cQjIIjLOhbRVCXyIepF2U) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Danger Days: The True Lives of the Fabulous Killjoys](https://open.spotify.com/album/2wPnKggTK3QhYAKL7Q0vvr) | 4:06 | 2022-10-25 |  |
 | [Surrender the Night](https://open.spotify.com/track/6NDaxwtVhUHg49bTc99l2S) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Number Five](https://open.spotify.com/album/3t9RTitJieMFh6wIFhCicr) | 3:27 | 2022-10-25 |  |

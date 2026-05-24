@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 
 > Hot & new K\-Drama OSTs are here! \(Cover: 오늘도 매진했습니다\) \(인기 있는 화제의 OST곡들을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,719,144 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,719,125 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

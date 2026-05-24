@@ -1,6 +1,6 @@
 {
   "description": "The best instrumental versions of the american songbook classics. Cover: Stan Getz",
-  "num_followers": 173807,
+  "num_followers": 173910,
   "original_name": "Instrumental Jazz Standards",
   "owner": {
     "name": "Spotify",
@@ -243,22 +243,6 @@
     {
       "added_at": "2025-12-02 14:02:08",
       "album": {
-        "name": "Jazz Impressions Of Black Orpheus [Original Jazz Classics Remasters] (OJC Remaster)",
-        "url": "https://open.spotify.com/album/0ZbVljVHaBZWOvaiSOtpgH"
-      },
-      "artists": [
-        {
-          "name": "Vince Guaraldi Trio",
-          "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
-        }
-      ],
-      "duration_ms": 321026,
-      "name": "Moon River",
-      "url": "https://open.spotify.com/track/4rrLFMxzVVwAJjmvHLPL8y"
-    },
-    {
-      "added_at": "2025-12-02 14:02:08",
-      "album": {
         "name": "Relaxin' With The Miles Davis Quintet",
         "url": "https://open.spotify.com/album/0dyIXPKoUBt1vFJHX57dqt"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 396960,
       "name": "It Could Happen To You",
       "url": "https://open.spotify.com/track/34xixFi5y3I5FIOH1ZWisx"
+    },
+    {
+      "added_at": "2025-12-02 14:02:08",
+      "album": {
+        "name": "Jazz Impressions Of Black Orpheus [Original Jazz Classics Remasters] (OJC Remaster)",
+        "url": "https://open.spotify.com/album/0ZbVljVHaBZWOvaiSOtpgH"
+      },
+      "artists": [
+        {
+          "name": "Vince Guaraldi Trio",
+          "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
+        }
+      ],
+      "duration_ms": 321026,
+      "name": "Moon River",
+      "url": "https://open.spotify.com/track/4rrLFMxzVVwAJjmvHLPL8y"
     },
     {
       "added_at": "2025-12-02 14:02:08",
@@ -403,18 +403,38 @@
     {
       "added_at": "2025-12-02 14:02:08",
       "album": {
-        "name": "Seven Steps To Heaven (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5ufqOq0QvMNnlexELRazNO"
+        "name": "Someday My Prince Will Come",
+        "url": "https://open.spotify.com/album/68A4o4tkirJRFYbO9Ag0YZ"
       },
       "artists": [
         {
           "name": "Miles Davis",
           "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        },
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        },
+        {
+          "name": "Hank Mobley",
+          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
+        },
+        {
+          "name": "Wynton Kelly",
+          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
+        },
+        {
+          "name": "Paul Chambers",
+          "url": "https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG"
+        },
+        {
+          "name": "Jimmy Cobb",
+          "url": "https://open.spotify.com/artist/7KLg0R9RSUabK2CG2MTbBJ"
         }
       ],
-      "duration_ms": 403826,
-      "name": "I Fall In Love Too Easily",
-      "url": "https://open.spotify.com/track/32YZWXNhOd70F19BZSU73w"
+      "duration_ms": 542400,
+      "name": "Someday My Prince Will Come (feat. John Coltrane, Hank Mobley, Wynton Kelly, Paul Chambers & Jimmy Cobb)",
+      "url": "https://open.spotify.com/track/0PHqHvmg4TIaANfbsvDMTR"
     },
     {
       "added_at": "2025-12-02 14:02:08",
@@ -487,38 +507,18 @@
     {
       "added_at": "2025-12-02 14:02:08",
       "album": {
-        "name": "Someday My Prince Will Come",
-        "url": "https://open.spotify.com/album/68A4o4tkirJRFYbO9Ag0YZ"
+        "name": "Seven Steps To Heaven (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5ufqOq0QvMNnlexELRazNO"
       },
       "artists": [
         {
           "name": "Miles Davis",
           "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        },
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        },
-        {
-          "name": "Hank Mobley",
-          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
-        },
-        {
-          "name": "Wynton Kelly",
-          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
-        },
-        {
-          "name": "Paul Chambers",
-          "url": "https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG"
-        },
-        {
-          "name": "Jimmy Cobb",
-          "url": "https://open.spotify.com/artist/7KLg0R9RSUabK2CG2MTbBJ"
         }
       ],
-      "duration_ms": 542400,
-      "name": "Someday My Prince Will Come (feat. John Coltrane, Hank Mobley, Wynton Kelly, Paul Chambers & Jimmy Cobb)",
-      "url": "https://open.spotify.com/track/0PHqHvmg4TIaANfbsvDMTR"
+      "duration_ms": 403826,
+      "name": "I Fall In Love Too Easily",
+      "url": "https://open.spotify.com/track/32YZWXNhOd70F19BZSU73w"
     },
     {
       "added_at": "2025-12-02 14:02:08",
@@ -567,22 +567,6 @@
     {
       "added_at": "2025-12-02 14:02:08",
       "album": {
-        "name": "Soul Station",
-        "url": "https://open.spotify.com/album/731OW49heGHCMrMOREHYlY"
-      },
-      "artists": [
-        {
-          "name": "Hank Mobley",
-          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
-        }
-      ],
-      "duration_ms": 310520,
-      "name": "If I Should Lose You - Remastered 1999/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/5Li88NjZlTMl8v68GIJJ5v"
-    },
-    {
-      "added_at": "2025-12-02 14:02:08",
-      "album": {
         "name": "Explorations [Original Jazz Classics Remasters]",
         "url": "https://open.spotify.com/album/3PGsNODk3bl8GYvAtgbBBw"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 213720,
       "name": "How Deep Is The Ocean",
       "url": "https://open.spotify.com/track/3Cx9inYYVQw4VEUrwKgPuX"
+    },
+    {
+      "added_at": "2025-12-02 14:02:08",
+      "album": {
+        "name": "Soul Station",
+        "url": "https://open.spotify.com/album/731OW49heGHCMrMOREHYlY"
+      },
+      "artists": [
+        {
+          "name": "Hank Mobley",
+          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
+        }
+      ],
+      "duration_ms": 310520,
+      "name": "If I Should Lose You - Remastered 1999/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/5Li88NjZlTMl8v68GIJJ5v"
     },
     {
       "added_at": "2025-12-02 14:02:08",
@@ -651,22 +651,6 @@
     {
       "added_at": "2025-12-02 14:02:08",
       "album": {
-        "name": "King Of The Tenors (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2Lqk81OEcLDPxcY5ZGmB4v"
-      },
-      "artists": [
-        {
-          "name": "Ben Webster",
-          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
-        }
-      ],
-      "duration_ms": 185800,
-      "name": "Don't Get Around Much Any More",
-      "url": "https://open.spotify.com/track/0U9GZufDpyO2YQRLHmcMa6"
-    },
-    {
-      "added_at": "2025-12-02 14:02:08",
-      "album": {
         "name": "Master Trio",
         "url": "https://open.spotify.com/album/0O6FZJtO0RcQEDu3t55vF4"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 349600,
       "name": "Angel Eyes - Studio",
       "url": "https://open.spotify.com/track/4d3XHYFFuYYzxWr2cJ6yQl"
+    },
+    {
+      "added_at": "2025-12-02 14:02:08",
+      "album": {
+        "name": "King Of The Tenors (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2Lqk81OEcLDPxcY5ZGmB4v"
+      },
+      "artists": [
+        {
+          "name": "Ben Webster",
+          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
+        }
+      ],
+      "duration_ms": 185800,
+      "name": "Don't Get Around Much Any More",
+      "url": "https://open.spotify.com/track/0U9GZufDpyO2YQRLHmcMa6"
     },
     {
       "added_at": "2025-12-02 14:02:08",
@@ -771,22 +771,6 @@
     {
       "added_at": "2025-12-02 14:02:08",
       "album": {
-        "name": "Lush Life",
-        "url": "https://open.spotify.com/album/63vpVRMhMQQZj4c7SRfP4y"
-      },
-      "artists": [
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        }
-      ],
-      "duration_ms": 330733,
-      "name": "I Love You - Rudy Van Gelder Remaster",
-      "url": "https://open.spotify.com/track/3WC3GPIxGaFeWhsEFSVMDC"
-    },
-    {
-      "added_at": "2025-12-02 14:02:08",
-      "album": {
         "name": "We Get Requests",
         "url": "https://open.spotify.com/album/4rCo3zGQW3xzkuHYwhJg40"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 308160,
       "name": "My One And Only Love",
       "url": "https://open.spotify.com/track/2jNEEtT0PdPzfngmVIyNBi"
+    },
+    {
+      "added_at": "2025-12-02 14:02:08",
+      "album": {
+        "name": "Lush Life",
+        "url": "https://open.spotify.com/album/63vpVRMhMQQZj4c7SRfP4y"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 330733,
+      "name": "I Love You - Rudy Van Gelder Remaster",
+      "url": "https://open.spotify.com/track/3WC3GPIxGaFeWhsEFSVMDC"
     },
     {
       "added_at": "2025-12-02 14:02:08",
@@ -847,6 +847,26 @@
       "duration_ms": 176240,
       "name": "On The Sunny Side Of The Street",
       "url": "https://open.spotify.com/track/3FAweDLYCPCPac82221ULG"
+    },
+    {
+      "added_at": "2025-12-02 14:02:08",
+      "album": {
+        "name": "Lee Konitz with Warne Marsh",
+        "url": "https://open.spotify.com/album/1O14t3H4XZuiJb8LKImB1c"
+      },
+      "artists": [
+        {
+          "name": "Lee Konitz",
+          "url": "https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k"
+        },
+        {
+          "name": "Warne Marsh",
+          "url": "https://open.spotify.com/artist/1yVmVSKnpfLDIAbghFMN3D"
+        }
+      ],
+      "duration_ms": 285666,
+      "name": "There Will Never Be Another You",
+      "url": "https://open.spotify.com/track/1Ju8QHOsXPehuL2pCPjXA0"
     },
     {
       "added_at": "2025-12-02 14:02:08",
@@ -903,26 +923,6 @@
     {
       "added_at": "2025-12-02 14:02:08",
       "album": {
-        "name": "Brownie: The Complete EmArcy Recordings Of Clifford Brown",
-        "url": "https://open.spotify.com/album/7tJS8e9TvcDxD6M9DSqIra"
-      },
-      "artists": [
-        {
-          "name": "Clifford Brown",
-          "url": "https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO"
-        },
-        {
-          "name": "Max Roach",
-          "url": "https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g"
-        }
-      ],
-      "duration_ms": 181666,
-      "name": "Embraceable You",
-      "url": "https://open.spotify.com/track/4xRmeIsHXdGmjmJgyKSEx4"
-    },
-    {
-      "added_at": "2025-12-02 14:02:08",
-      "album": {
         "name": "Used To Be Duke",
         "url": "https://open.spotify.com/album/0FDIQRrWsQ8euHDTAYQiIZ"
       },
@@ -939,22 +939,22 @@
     {
       "added_at": "2025-12-02 14:02:08",
       "album": {
-        "name": "Lee Konitz with Warne Marsh",
-        "url": "https://open.spotify.com/album/1O14t3H4XZuiJb8LKImB1c"
+        "name": "Brownie: The Complete EmArcy Recordings Of Clifford Brown",
+        "url": "https://open.spotify.com/album/7tJS8e9TvcDxD6M9DSqIra"
       },
       "artists": [
         {
-          "name": "Lee Konitz",
-          "url": "https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k"
+          "name": "Clifford Brown",
+          "url": "https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO"
         },
         {
-          "name": "Warne Marsh",
-          "url": "https://open.spotify.com/artist/1yVmVSKnpfLDIAbghFMN3D"
+          "name": "Max Roach",
+          "url": "https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g"
         }
       ],
-      "duration_ms": 285666,
-      "name": "There Will Never Be Another You",
-      "url": "https://open.spotify.com/track/1Ju8QHOsXPehuL2pCPjXA0"
+      "duration_ms": 181666,
+      "name": "Embraceable You",
+      "url": "https://open.spotify.com/track/4xRmeIsHXdGmjmJgyKSEx4"
     },
     {
       "added_at": "2025-12-02 14:02:08",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2025-12-02 14:02:08",
       "album": {
-        "name": "Kelly Blue (Keepnews Collection)",
-        "url": "https://open.spotify.com/album/0mgUrEyxaymxq5hCKqNQ9B"
-      },
-      "artists": [
-        {
-          "name": "Wynton Kelly",
-          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
-        }
-      ],
-      "duration_ms": 267053,
-      "name": "Do Nothing Till You Hear From Me",
-      "url": "https://open.spotify.com/track/2gC5J2BtNCK9L0qRTYYD12"
-    },
-    {
-      "added_at": "2025-12-02 14:02:08",
-      "album": {
         "name": "Everybody Still Digs Bill Evans",
         "url": "https://open.spotify.com/album/1NLGIv3lw2irzjONDrU28K"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 454186,
       "name": "A Child Is Born",
       "url": "https://open.spotify.com/track/51Dhv7qnslWTR3ixUzo2oz"
+    },
+    {
+      "added_at": "2025-12-02 14:02:08",
+      "album": {
+        "name": "Kelly Blue (Keepnews Collection)",
+        "url": "https://open.spotify.com/album/0mgUrEyxaymxq5hCKqNQ9B"
+      },
+      "artists": [
+        {
+          "name": "Wynton Kelly",
+          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
+        }
+      ],
+      "duration_ms": 267053,
+      "name": "Do Nothing Till You Hear From Me",
+      "url": "https://open.spotify.com/track/2gC5J2BtNCK9L0qRTYYD12"
     },
     {
       "added_at": "2025-12-02 14:02:08",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2025-12-02 14:02:08",
       "album": {
-        "name": "Memorial Album (Remastered / Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/5ZhKPGumfjqX8mz0lql2QZ"
-      },
-      "artists": [
-        {
-          "name": "Clifford Brown",
-          "url": "https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO"
-        }
-      ],
-      "duration_ms": 224053,
-      "name": "Easy Living",
-      "url": "https://open.spotify.com/track/5yiImOvhyoK3QXUHVWcUUl"
-    },
-    {
-      "added_at": "2025-12-02 14:02:08",
-      "album": {
         "name": "Dizzy 100",
         "url": "https://open.spotify.com/album/5DGcQGe6AvE5LGdYyZlHfn"
       },
@@ -1307,6 +1291,22 @@
     {
       "added_at": "2025-12-02 14:02:08",
       "album": {
+        "name": "Memorial Album (Remastered / Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/5ZhKPGumfjqX8mz0lql2QZ"
+      },
+      "artists": [
+        {
+          "name": "Clifford Brown",
+          "url": "https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO"
+        }
+      ],
+      "duration_ms": 224053,
+      "name": "Easy Living",
+      "url": "https://open.spotify.com/track/5yiImOvhyoK3QXUHVWcUUl"
+    },
+    {
+      "added_at": "2025-12-02 14:02:08",
+      "album": {
         "name": "The Cure",
         "url": "https://open.spotify.com/album/4TFAfEx0k896Far2wypeh9"
       },
@@ -1319,22 +1319,6 @@
       "duration_ms": 496893,
       "name": "Blame It On My Youth",
       "url": "https://open.spotify.com/track/47ncHNZLs7ZHvDkCi9tvun"
-    },
-    {
-      "added_at": "2025-12-02 14:02:08",
-      "album": {
-        "name": "Piano In The Background (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5HRYqb7mp810fhgWiUL0uo"
-      },
-      "artists": [
-        {
-          "name": "Duke Ellington",
-          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
-        }
-      ],
-      "duration_ms": 322333,
-      "name": "Lullaby of Birdland",
-      "url": "https://open.spotify.com/track/1SOdC5J2VbpVuvxOxmsVdX"
     },
     {
       "added_at": "2025-12-02 14:02:08",
@@ -1363,6 +1347,22 @@
       "duration_ms": 285533,
       "name": "Have You Met Miss Jones?",
       "url": "https://open.spotify.com/track/1e9NygW5Cd1T37OmQOz3ro"
+    },
+    {
+      "added_at": "2025-12-02 14:02:08",
+      "album": {
+        "name": "Piano In The Background (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5HRYqb7mp810fhgWiUL0uo"
+      },
+      "artists": [
+        {
+          "name": "Duke Ellington",
+          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
+        }
+      ],
+      "duration_ms": 322333,
+      "name": "Lullaby of Birdland",
+      "url": "https://open.spotify.com/track/1SOdC5J2VbpVuvxOxmsVdX"
     },
     {
       "added_at": "2025-12-02 14:02:08",
@@ -1763,22 +1763,6 @@
     {
       "added_at": "2025-12-02 14:02:08",
       "album": {
-        "name": "Julian \"Cannonball\" Adderley",
-        "url": "https://open.spotify.com/album/18JHKcwCBtOfCGmOB7hXx8"
-      },
-      "artists": [
-        {
-          "name": "Cannonball Adderley",
-          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
-        }
-      ],
-      "duration_ms": 253133,
-      "name": "The Song Is You",
-      "url": "https://open.spotify.com/track/64UJdbSWjE1iS5pWhP8m1f"
-    },
-    {
-      "added_at": "2025-12-02 14:02:08",
-      "album": {
         "name": "Eddie Higgins",
         "url": "https://open.spotify.com/album/1HT2Mu1wi8V28XDnth70LL"
       },
@@ -1791,6 +1775,22 @@
       "duration_ms": 275360,
       "name": "Falling In Love With Love",
       "url": "https://open.spotify.com/track/2AXpGYWWR7ebNYEGX7pBSg"
+    },
+    {
+      "added_at": "2025-12-02 14:02:08",
+      "album": {
+        "name": "Julian \"Cannonball\" Adderley",
+        "url": "https://open.spotify.com/album/18JHKcwCBtOfCGmOB7hXx8"
+      },
+      "artists": [
+        {
+          "name": "Cannonball Adderley",
+          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
+        }
+      ],
+      "duration_ms": 253133,
+      "name": "The Song Is You",
+      "url": "https://open.spotify.com/track/64UJdbSWjE1iS5pWhP8m1f"
     },
     {
       "added_at": "2025-12-02 14:02:08",

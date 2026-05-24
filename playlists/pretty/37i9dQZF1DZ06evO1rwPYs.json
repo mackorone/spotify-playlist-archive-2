@@ -1,12 +1,12 @@
 {
   "description": "This is Celia Cruz. The essential tracks, all in one playlist.",
-  "num_followers": 107461,
+  "num_followers": 107475,
   "original_name": "This Is Celia Cruz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ag5LAAAAAACKwsmLRMPvRf18RqCdWpSk",
+  "snapshot_id": "ag+cgAAAAAAaRxRokaoF5lQFcqhXbSDX",
   "tracks": [
     {
       "added_at": null,
@@ -751,8 +751,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Az\u00facar! Caliente",
-        "url": "https://open.spotify.com/album/5VRSzmNx2jHSagmnwScyi3"
+        "name": "La Tierna, Conmovedora, Bamboleadora",
+        "url": "https://open.spotify.com/album/3505DvX9TkUjchDLCeSv5I"
       },
       "artists": [
         {
@@ -764,9 +764,9 @@
           "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
         }
       ],
-      "duration_ms": 180973,
-      "name": "En El Baj\u00edo",
-      "url": "https://open.spotify.com/track/6aUudw1WsrAuHc9H4zyHXd"
+      "duration_ms": 174626,
+      "name": "Desvelo De Amor",
+      "url": "https://open.spotify.com/track/5z46fEEorQBtY64lIyyBfo"
     },
     {
       "added_at": null,
@@ -791,8 +791,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Tierna, Conmovedora, Bamboleadora",
-        "url": "https://open.spotify.com/album/3505DvX9TkUjchDLCeSv5I"
+        "name": "Az\u00facar! Caliente",
+        "url": "https://open.spotify.com/album/5VRSzmNx2jHSagmnwScyi3"
       },
       "artists": [
         {
@@ -804,9 +804,9 @@
           "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
         }
       ],
-      "duration_ms": 174626,
-      "name": "Desvelo De Amor",
-      "url": "https://open.spotify.com/track/5z46fEEorQBtY64lIyyBfo"
+      "duration_ms": 180973,
+      "name": "En El Baj\u00edo",
+      "url": "https://open.spotify.com/track/6aUudw1WsrAuHc9H4zyHXd"
     },
     {
       "added_at": null,

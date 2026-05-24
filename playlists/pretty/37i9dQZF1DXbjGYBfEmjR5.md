@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjGYBfEmjR5.md) - [plain]
 
 > Don't worry, we're back in the funk of it besties ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 364,211 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 364,278 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjGYBfEmjR5.md) - [plain]
 | 59 | [Palm Road](https://open.spotify.com/track/5SfaKzXyqTf2RhICNrw0Z0) | [AnTgry](https://open.spotify.com/artist/7kGylI45opkGdimN0V1DPL) | [Road Trip](https://open.spotify.com/album/5z3lyTwEfktfkjGKFmBaAU) | 2:53 |
 | 60 | [Le Knight Club Is Playing at My House](https://open.spotify.com/track/10AA8zz84owcIoVHsFXKea) | [CHANCE デラソウル](https://open.spotify.com/artist/2hK0A1hY8plZiE4gQ0HAmh) | [Goodbye Future Funk](https://open.spotify.com/album/4ir1bVF1FAkHRl4zGLqhKj) | 3:36 |
 | 61 | [Stellae](https://open.spotify.com/track/1nzjAN2zcFizoo7yStKZi8) | [ev.exi](https://open.spotify.com/artist/625cTtpQZkHRwLwEtpVbA1), [Rhodes Rodosu](https://open.spotify.com/artist/0CxvNc5GFnCv9UXiu5mreJ) | [Stellae](https://open.spotify.com/album/00qahpyr3Cxq8xNBecw56k) | 3:50 |
-| 62 | [Shiny Shiny](https://open.spotify.com/track/0Ersp4nhXNxMIKlYAkEPl7) | [Pure Gem](https://open.spotify.com/artist/6ZB0nSi4RBQO8tX4KSlSuA) | [Pure Love](https://open.spotify.com/album/2bnfc2ulXOyxd1J2XCUdUt) | 2:21 |
-| 63 | [Brighter Days](https://open.spotify.com/track/0Hm9H8k6UVsCUU7z4nUzB9) | [Macross 82\-99](https://open.spotify.com/artist/5C8KyBfvAz9PSaOd30eIow) | [Brighter Days](https://open.spotify.com/album/1nfqoJnQP69bUsawz806Ex) | 2:04 |
+| 62 | [Brighter Days](https://open.spotify.com/track/0Hm9H8k6UVsCUU7z4nUzB9) | [Macross 82\-99](https://open.spotify.com/artist/5C8KyBfvAz9PSaOd30eIow) | [Brighter Days](https://open.spotify.com/album/1nfqoJnQP69bUsawz806Ex) | 2:04 |
+| 63 | [Shiny Shiny](https://open.spotify.com/track/0Ersp4nhXNxMIKlYAkEPl7) | [Pure Gem](https://open.spotify.com/artist/6ZB0nSi4RBQO8tX4KSlSuA) | [Pure Love](https://open.spotify.com/album/2bnfc2ulXOyxd1J2XCUdUt) | 2:21 |
 | 64 | [Love & Affection](https://open.spotify.com/track/0WepmUG3SZDpOJQdkwLJDd) | [AnTgry](https://open.spotify.com/artist/7kGylI45opkGdimN0V1DPL) | [Sidechain My Heart](https://open.spotify.com/album/20fxOJQvxGrEr4esHXuSO7) | 3:05 |
 | 65 | [Tropical Feeling](https://open.spotify.com/track/76swBwQesVkyBnSkqpEphn) | [Skule Toyama](https://open.spotify.com/artist/4o6MEsXazDf44QJ8iovnw2) | [Tropical Feeling](https://open.spotify.com/album/2bUGIHbRURIAphBRHd5f4K) | 4:52 |
 | 66 | [Delicate](https://open.spotify.com/track/4KoVr6cmHVKkecEudgzbLi) | [Sui Uzi](https://open.spotify.com/artist/6GPIPA04mp4YwJJ27zXmln) | [Delicate](https://open.spotify.com/album/1JFB5WfXGEAkxpQlzgVRZg) | 4:11 |
@@ -83,13 +83,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjGYBfEmjR5.md) - [plain]
 | 73 | [VTEC](https://open.spotify.com/track/6oCqimPPtCdcCtIettP6v9) | [Groovy Kaiju](https://open.spotify.com/artist/7n3JQjlRlrGp9JOcLzSPlR), [Tupperwave](https://open.spotify.com/artist/5jVWik9dHly6LQnh2pJJiO) | [VTEC](https://open.spotify.com/album/0FB0c7iGjHB6mDUZBFx7FM) | 4:03 |
 | 74 | [First Season](https://open.spotify.com/track/58qfLGa8XnEIDrMbww9AdI) | [サクラSAKURA\-LEE](https://open.spotify.com/artist/7JKnqDyLGxoq9k6WjT24oB) | [First Season](https://open.spotify.com/album/0ec7ZmVLjS1z02Es0XVvmj) | 4:55 |
 | 75 | [Rainbow Badge](https://open.spotify.com/track/58maRxsmhNQcne43mcphIV) | [Neon95](https://open.spotify.com/artist/6KOSqunMD2lrpkv2QQThsb) | [Pokéwave III](https://open.spotify.com/album/3hqmECDWWCG6fImy3IPJjw) | 3:28 |
-| 76 | [Facts](https://open.spotify.com/track/3M5MnYR9xqcnSMWJqyYZNF) | [Sparkly Night](https://open.spotify.com/artist/7Emv7WrAiyGM2aqa9Lm0QN) | [MOTORWAY](https://open.spotify.com/album/0e0HcWdJIS3zWPlyw5t5wQ) | 2:38 |
-| 77 | [Querelle](https://open.spotify.com/track/0BqdzJOqFf5Xm3MQhB431C) | [Cape Coral](https://open.spotify.com/artist/38e0A9WK9vzXVSHfCmbFk6) | [Slowed Midnight](https://open.spotify.com/album/6tluPSGSXrzFVEPvqXxeRP) | 2:51 |
+| 76 | [Querelle](https://open.spotify.com/track/0BqdzJOqFf5Xm3MQhB431C) | [Cape Coral](https://open.spotify.com/artist/38e0A9WK9vzXVSHfCmbFk6) | [Slowed Midnight](https://open.spotify.com/album/6tluPSGSXrzFVEPvqXxeRP) | 2:51 |
+| 77 | [Facts](https://open.spotify.com/track/3M5MnYR9xqcnSMWJqyYZNF) | [Sparkly Night](https://open.spotify.com/artist/7Emv7WrAiyGM2aqa9Lm0QN) | [MOTORWAY](https://open.spotify.com/album/0e0HcWdJIS3zWPlyw5t5wQ) | 2:38 |
 | 78 | [違う](https://open.spotify.com/track/1JAHrP2bdKCn2zhoTNJOAG) | [Flammy](https://open.spotify.com/artist/4WP7QI3CaGCk42LIuYjbrz) | [違う](https://open.spotify.com/album/6dfCQbQriz8Hm965Od0u7S) | 2:33 |
 | 79 | [Kratos in Love](https://open.spotify.com/track/1B5X9UpNce1ZEoTBWds6I2) | [Skylar Spence](https://open.spotify.com/artist/0x0u0jCVf5Jf4DNh45XPXL) | [Doom Mix, Vol\. V](https://open.spotify.com/album/6GB7fg0YpPH9HWA8New5TL) | 2:50 |
 | 80 | [Take Me Back to Shinjuku](https://open.spotify.com/track/0M7udppMcGyscI3NtVXvQJ) | [Groovy Kaiju](https://open.spotify.com/artist/7n3JQjlRlrGp9JOcLzSPlR) | [Take Me Back to Shinjuku](https://open.spotify.com/album/53Oabg4TRYA5oHPzWNrgHI) | 3:54 |
-| 81 | [Lady Paradise](https://open.spotify.com/track/5v6UbRijN2QIvkEK4Alssb) | [Sparkly Night](https://open.spotify.com/artist/7Emv7WrAiyGM2aqa9Lm0QN) | [Paradise Break](https://open.spotify.com/album/6PbGSUZ6oaSXT82SRE6Vzf) | 2:55 |
-| 82 | [Electroptysis](https://open.spotify.com/track/5S0RLQ2BlIdDtWrRk0b4qz) | [Remlarr](https://open.spotify.com/artist/5nCSKWO1cpFa0U4YTS5AJQ) | [At the End of the Day](https://open.spotify.com/album/7Lb31BHTAcVO4bsiqyBEUv) | 3:41 |
+| 81 | [Electroptysis](https://open.spotify.com/track/5S0RLQ2BlIdDtWrRk0b4qz) | [Remlarr](https://open.spotify.com/artist/5nCSKWO1cpFa0U4YTS5AJQ) | [At the End of the Day](https://open.spotify.com/album/7Lb31BHTAcVO4bsiqyBEUv) | 3:41 |
+| 82 | [Lady Paradise](https://open.spotify.com/track/5v6UbRijN2QIvkEK4Alssb) | [Sparkly Night](https://open.spotify.com/artist/7Emv7WrAiyGM2aqa9Lm0QN) | [Paradise Break](https://open.spotify.com/album/6PbGSUZ6oaSXT82SRE6Vzf) | 2:55 |
 | 83 | [Answer](https://open.spotify.com/track/09dHKj0JgQ4RdnEHL8fgst) | [Pop Up!](https://open.spotify.com/artist/4AuPwqXG4t4Ic5PQGmtjHi) | [Notilde Tapes, Vol\. 1](https://open.spotify.com/album/2zEi1dqComKYcret0KkXWg) | 3:50 |
 | 84 | [I Must Be Dreamin'](https://open.spotify.com/track/0c4B3vugfHDK23HL5hjvGb) | [Luanmer](https://open.spotify.com/artist/2OdUBrq8S4T9JBgdllvvuD), [サクラSAKURA\-LEE](https://open.spotify.com/artist/7JKnqDyLGxoq9k6WjT24oB) | [I Must Be Dreamin'](https://open.spotify.com/album/33RvNe28yAJFslxS7A9ons) | 3:43 |
 | 85 | [Cheetahs in Barcelona](https://open.spotify.com/track/3XhZJpfEiaV0TMqxMohGFk) | [Groovy Kaiju](https://open.spotify.com/artist/7n3JQjlRlrGp9JOcLzSPlR) | [Cheetahs in Barcelona](https://open.spotify.com/album/3dkGNzkrkpvJ7cwBvNOFAC) | 2:49 |
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjGYBfEmjR5.md) - [plain]
 | 89 | [CATCH ME \(Night Tempo Showa Groove Mix\)](https://open.spotify.com/track/6fEFEteEyD5ZCsh7KBl1tK) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [中山美穂](https://open.spotify.com/artist/27uDA7mGoHPHFvlBiZ4J9Z) | [中山美穂 \- Night Tempo presents ザ・昭和グルーヴ](https://open.spotify.com/album/3vDZoLb3zibICoeWzbeXXk) | 4:31 |
 | 90 | [I Didn't Know](https://open.spotify.com/track/1j9YnP7bHVGzBr3DPiJyB8) | [Strawberry Station](https://open.spotify.com/artist/3abmTIIqxlRsONhRZ7sfQB) | [Talk Of The Dancefloor](https://open.spotify.com/album/1MJQEf09RBmB8PY7W9AxR5) | 3:22 |
 | 91 | [Showa](https://open.spotify.com/track/3AiYEknQ4jvlUpHrCCxdfC) | [Flammy](https://open.spotify.com/artist/4WP7QI3CaGCk42LIuYjbrz) | [Showa](https://open.spotify.com/album/5qOV4JCW6SC2cR9eZU5Hgv) | 2:20 |
-| 92 | [Galetus](https://open.spotify.com/track/5hEqabdQUshqGx8JERN7XK) | [ev.exi](https://open.spotify.com/artist/625cTtpQZkHRwLwEtpVbA1), [Mere Notilde](https://open.spotify.com/artist/2d3wstlwe427Q7CamLXlpO) | [Galetus](https://open.spotify.com/album/0eEBi6zsHUpc2dWLEFVGZR) | 3:27 |
-| 93 | [Dangerous](https://open.spotify.com/track/0GrRY7cP03k1CSlZUkicCp) | [Sui Uzi](https://open.spotify.com/artist/6GPIPA04mp4YwJJ27zXmln) | [Untold](https://open.spotify.com/album/2FqVBo8GtPsB2P7UrcnRR1) | 3:41 |
+| 92 | [Dangerous](https://open.spotify.com/track/0GrRY7cP03k1CSlZUkicCp) | [Sui Uzi](https://open.spotify.com/artist/6GPIPA04mp4YwJJ27zXmln) | [Untold](https://open.spotify.com/album/2FqVBo8GtPsB2P7UrcnRR1) | 3:41 |
+| 93 | [Galetus](https://open.spotify.com/track/5hEqabdQUshqGx8JERN7XK) | [ev.exi](https://open.spotify.com/artist/625cTtpQZkHRwLwEtpVbA1), [Mere Notilde](https://open.spotify.com/artist/2d3wstlwe427Q7CamLXlpO) | [Galetus](https://open.spotify.com/album/0eEBi6zsHUpc2dWLEFVGZR) | 3:27 |
 | 94 | [Break Your Heart](https://open.spotify.com/track/0Opv7LwmfN6g0fCS0Zu2hG) | [CHANCE デラソウル](https://open.spotify.com/artist/2hK0A1hY8plZiE4gQ0HAmh) | [Virtual Girls Band a.k.a\. Sparkle](https://open.spotify.com/album/4lduHCRgtsSJWm8ktzp5mf) | 3:06 |
 | 95 | [Bbrown](https://open.spotify.com/track/21JcSs9Zkdc2kuNzoLBcbz) | [BarbWalters](https://open.spotify.com/artist/5PyZeODg7q5TGXZfuQEcOj) | [Pleasure](https://open.spotify.com/album/0AMbhzgFEcmVj46N9TPGmU) | 3:38 |
 | 96 | [君Kimi \(You Came Along\)](https://open.spotify.com/track/4Kn3DV0YzPkzCNcjUlFRfa) | [Adrianwave](https://open.spotify.com/artist/062uQ72ll9bM17kdNwzFaw) | [TIMERIDER 1983](https://open.spotify.com/album/7MxdhXIE5rFdlrk6JaYzVK) | 4:20 |

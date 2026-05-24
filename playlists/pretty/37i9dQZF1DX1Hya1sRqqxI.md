@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1Hya1sRqqxI.md) - [plain]
 
 > The biggest party hits of the 1970s\. Cover: The Jacksons.
 
-[Spotify](https://open.spotify.com/user/spotify) - 784,809 likes - 150 songs - 10 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 785,222 likes - 150 songs - 10 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,10 +71,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1Hya1sRqqxI.md) - [plain]
 | 61 | [Cecilia](https://open.spotify.com/track/6QhXQOpyYvbpdbyjgAqKdY) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Bridge Over Troubled Water](https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV) | 2:54 |
 | 62 | [Got to Be Real](https://open.spotify.com/track/58r4JuwHhXLAkttkaUZfLw) | [Cheryl Lynn](https://open.spotify.com/artist/6UfoTQXaV3DuqtDVjZIxwZ) | [Cheryl Lynn \(Expanded Edition\)](https://open.spotify.com/album/059jmsqbxhu2n78LMS0H3P) | 5:07 |
 | 63 | [Rivers of Babylon](https://open.spotify.com/track/78His8pbKjbDQF7aX5asgv) | [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb) | [Nightflight to Venus](https://open.spotify.com/album/0txzXbDfTn3vAdx77iCaXd) | 4:21 |
-| 64 | [Let Your Love Flow](https://open.spotify.com/track/064SVQsmWl5EF0zahmzkQk) | [The Bellamy Brothers](https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa) | [Bellamy Brothers](https://open.spotify.com/album/77EM0wkGevYQcBo1AJt7B0) | 3:16 |
+| 64 | [The Bitch Is Back \- Remastered 1995](https://open.spotify.com/track/40tnCfx2mTtHozyaRDcYC5) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Caribou \(Remastered 1995\)](https://open.spotify.com/album/2R5dzEQT6MDsnwiZSpWgqC) | 3:44 |
 | 65 | [Right Back Where We Started From](https://open.spotify.com/track/6208B8Utmd2fTqgGMjeNr6) | [Maxine Nightingale](https://open.spotify.com/artist/6jQ9UtYXqNfVnPkrH1Xxwi) | [Right Back Where We Started From](https://open.spotify.com/album/0R3e4Hcf2MQVed40q1zdSB) | 3:12 |
-| 66 | [Get It On](https://open.spotify.com/track/0LoQuiekvzqx7n8flgEKzF) | [T\. Rex](https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin) | [Electric Warrior](https://open.spotify.com/album/2wnq5e000z2hT7qS2F8jZ5) | 4:22 |
-| 67 | [The Bitch Is Back \- Remastered 1995](https://open.spotify.com/track/40tnCfx2mTtHozyaRDcYC5) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Caribou \(Remastered 1995\)](https://open.spotify.com/album/2R5dzEQT6MDsnwiZSpWgqC) | 3:44 |
+| 66 | [Let Your Love Flow](https://open.spotify.com/track/064SVQsmWl5EF0zahmzkQk) | [The Bellamy Brothers](https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa) | [Bellamy Brothers](https://open.spotify.com/album/77EM0wkGevYQcBo1AJt7B0) | 3:16 |
+| 67 | [Get It On](https://open.spotify.com/track/0LoQuiekvzqx7n8flgEKzF) | [T\. Rex](https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin) | [Electric Warrior](https://open.spotify.com/album/2wnq5e000z2hT7qS2F8jZ5) | 4:22 |
 | 68 | [I Wish](https://open.spotify.com/track/687YZan9Gol1UVvbpUSO6Y) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Songs In The Key Of Life](https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0) | 4:12 |
 | 69 | [She's A Lady](https://open.spotify.com/track/5JnHzjo25FY1fMQMQVOawB) | [Tom Jones](https://open.spotify.com/artist/1T0wRBO0CK0vK8ouUMqEl5) | [Tom Jones Sings She's A Lady](https://open.spotify.com/album/1t0bCr3iI98gdcfwZ2YeVX) | 2:54 |
 | 70 | [Good Times](https://open.spotify.com/track/0G3fbPbE1vGeABDEZF0jeG) | [CHIC](https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV) | [Risqué](https://open.spotify.com/album/1UFBJkKiBe3Lzjr307UhuU) | 8:15 |
@@ -101,8 +101,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1Hya1sRqqxI.md) - [plain]
 | 91 | [I Wanna Be Your Lover](https://open.spotify.com/track/4yrM5BVyJzy5Ed4GPO6e8j) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Prince](https://open.spotify.com/album/6k7RVZ7bSL9ryReb8RLYRI) | 5:47 |
 | 92 | [Please Mr\. Postman](https://open.spotify.com/track/74jZhGv0fdLaf9q8AZZ15k) | [Carpenters](https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304) | [Horizon](https://open.spotify.com/album/0ESCnyuOCpztPojn8m0uqi) | 2:52 |
 | 93 | [MacArthur Park \- Single Version](https://open.spotify.com/track/42tYHqMxXxXHAAWqLaoOfQ) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [On The Radio: Greatest Hits Volumes I & II](https://open.spotify.com/album/1DeQ0MqQiY2RpMSMFEsILA) | 3:55 |
-| 94 | [Rockin' Robin](https://open.spotify.com/track/2aadUB2b4hugbdIPU8Aypk) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Got To Be There](https://open.spotify.com/album/6pam66S3gqDo0Yy4cjlR9G) | 2:31 |
-| 95 | [Shake Your Groove Thing](https://open.spotify.com/track/5o89Bf80t8ko3uNXJkYoVs) | [Peaches & Herb](https://open.spotify.com/artist/6qI4LTzMRpTxRzMZPvv2C6) | [2 Hot!](https://open.spotify.com/album/1MzEdKoD6mxji2q7k3rRcw) | 5:46 |
+| 94 | [Shake Your Groove Thing](https://open.spotify.com/track/5o89Bf80t8ko3uNXJkYoVs) | [Peaches & Herb](https://open.spotify.com/artist/6qI4LTzMRpTxRzMZPvv2C6) | [2 Hot!](https://open.spotify.com/album/1MzEdKoD6mxji2q7k3rRcw) | 5:46 |
+| 95 | [Rockin' Robin](https://open.spotify.com/track/2aadUB2b4hugbdIPU8Aypk) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Got To Be There](https://open.spotify.com/album/6pam66S3gqDo0Yy4cjlR9G) | 2:31 |
 | 96 | [Whatever You Want](https://open.spotify.com/track/2kUzt5LsTUR0ggquP7O3eN) | [Status Quo](https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM) | [Whatever You Want](https://open.spotify.com/album/08GCJIrpY1IegMp73501Z2) | 4:03 |
 | 97 | [I Want Your Love \- 2018 Remaster](https://open.spotify.com/track/7ooheiWgbyNtGOBTPbjNoq) | [CHIC](https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV) | [C'est Chic \(2018 Remaster\)](https://open.spotify.com/album/4a1EmaXGBiQ61Y4m6SNcYi) | 6:53 |
 | 98 | [Rose Garden](https://open.spotify.com/track/5YwgJ6lpZ3SiAQwBEpjqey) | [Lynn Anderson](https://open.spotify.com/artist/502FY8XQYRxClWgolQ3Hf2) | [Rose Garden](https://open.spotify.com/album/2JItlMgM1n2GfKOmqYr8af) | 2:55 |
@@ -135,8 +135,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1Hya1sRqqxI.md) - [plain]
 | 125 | [Heaven Must Be Missing An Angel \- Pt\. 1](https://open.spotify.com/track/7qQzkUWsbvoTDbNpW3FHQu) | [Tavares](https://open.spotify.com/artist/3LfO03nEZMdWNHG2tLpMa0) | [It Only Takes a Minute: A Lifetime with Tavares](https://open.spotify.com/album/1Qe9DoLXWCIwguQieoTcQh) | 6:29 |
 | 126 | [Don't Leave Me This Way](https://open.spotify.com/track/4Af8yzidDPc520TFd4TmkE) | [Thelma Houston](https://open.spotify.com/artist/3sgUnR8TF35euWEV07RPyO) | [The Best Of](https://open.spotify.com/album/6lap95wPl0DwJva1FLGIfx) | 3:37 |
 | 127 | [Back Stabbers](https://open.spotify.com/track/0KpMY3D2G8253VTZbDBUmA) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Back Stabbers](https://open.spotify.com/album/09jTPeDoSuJLLAwFGNUKCX) | 3:06 |
-| 128 | [Jet Airliner](https://open.spotify.com/track/4PMx9RSiKlgry322H27rrZ) | [Steve Miller Band](https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk) | [Book Of Dreams](https://open.spotify.com/album/36G9sqbDXXbE7Mv9GTDMXd) | 4:25 |
-| 129 | [Dancing In The Moonlight](https://open.spotify.com/track/55GxhCTq6SY3tFTVh7z1nR) | [King Harvest](https://open.spotify.com/artist/5FHwr1FymaS5kutIEK6e2y) | [Dancing In The Moonlight](https://open.spotify.com/album/2gvwC6eFsQH5rlvrZyhs3s) | 2:58 |
+| 128 | [Dancing In The Moonlight](https://open.spotify.com/track/55GxhCTq6SY3tFTVh7z1nR) | [King Harvest](https://open.spotify.com/artist/5FHwr1FymaS5kutIEK6e2y) | [Dancing In The Moonlight](https://open.spotify.com/album/2gvwC6eFsQH5rlvrZyhs3s) | 2:58 |
+| 129 | [Jet Airliner](https://open.spotify.com/track/4PMx9RSiKlgry322H27rrZ) | [Steve Miller Band](https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk) | [Book Of Dreams](https://open.spotify.com/album/36G9sqbDXXbE7Mv9GTDMXd) | 4:25 |
 | 130 | [Love Is The Drug](https://open.spotify.com/track/3wtMkvedoWMQ3XTKv7tqcZ) | [Roxy Music](https://open.spotify.com/artist/3fhOTtm0LBJ3Ojn4hIljLo) | [Siren](https://open.spotify.com/album/5Tpor3YZBVEJ9tWD5L31mH) | 4:11 |
 | 131 | [Shake Your Body \(Down to the Ground\)](https://open.spotify.com/track/7g4I3DeFlZLeqMjw0ONBqs) | [The Jacksons](https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI) | [Destiny](https://open.spotify.com/album/46yTC334aJI4QTv4lkzj3a) | 8:00 |
 | 132 | [Pick up the Pieces](https://open.spotify.com/track/2H5nsVLjDwWsxfyajm0lVS) | [Average White Band](https://open.spotify.com/artist/3tx8fyu3c4OBP5nejYtUOb) | [Average White Band](https://open.spotify.com/album/5SlfIp60F93VaOJjd88BXC) | 3:54 |

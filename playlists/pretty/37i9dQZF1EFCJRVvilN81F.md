@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCJRVvilN81F.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6ZGCSS2mWfQa1SXZ83hZIO">KAYTRANADA</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,122 likes - 189 songs - 10 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,123 likes - 189 songs - 10 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,8 +119,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCJRVvilN81F.md) - [plain]
 | 109 | [Wasted Words \(feat\. Thundercat\)](https://open.spotify.com/track/5p11IMrHpfoyMsEMNPCjD9) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [TIMELESS](https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh) | 1:27 |
 | 110 | [World Of Wonders](https://open.spotify.com/track/2RRI47A8yNZ94o56IRfRCQ) | [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [Ocean & Montana](https://open.spotify.com/album/6wQHjKlxXujDKgkUXJ4NIv) | 3:22 |
 | 111 | [Breathe](https://open.spotify.com/track/6rRCyEuP7uDdX7ste026ky) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [Simple.](https://open.spotify.com/album/2BeEXKn0ecWhwxOftmUZhy) | 3:06 |
-| 112 | [The Code \(feat\. Mike Dimes\)](https://open.spotify.com/track/635uKiAjKNwDJKvVQT0o3c) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [Simple.](https://open.spotify.com/album/2BeEXKn0ecWhwxOftmUZhy) | 2:25 |
-| 113 | [DON'T WORRY BABE / I GOT U BABE](https://open.spotify.com/track/3OxdXYsQec4nlrluOXFb09) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [AIN'T NO DAMN WAY!](https://open.spotify.com/album/2ThDVXsGeZahogahzHAIw6) | 3:12 |
+| 112 | [DON'T WORRY BABE / I GOT U BABE](https://open.spotify.com/track/3OxdXYsQec4nlrluOXFb09) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [AIN'T NO DAMN WAY!](https://open.spotify.com/album/2ThDVXsGeZahogahzHAIw6) | 3:12 |
+| 113 | [The Code \(feat\. Mike Dimes\)](https://open.spotify.com/track/635uKiAjKNwDJKvVQT0o3c) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [Simple.](https://open.spotify.com/album/2BeEXKn0ecWhwxOftmUZhy) | 2:25 |
 | 114 | [Better Than I Imagined \[Feat\. H.E.R\. & Meshell Ndegeocello\] \- KAYTRANADA Remix](https://open.spotify.com/track/5A3aEJL7HkijkxLFXMv7FN) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Better Than I Imagined \[Feat\. H.E.R\. & Meshell Ndegeocello\] \(KAYTRANADA Remix\)](https://open.spotify.com/album/7HRqZplSpqWZnL05hUJCcH) | 3:47 |
 | 115 | [Little Things](https://open.spotify.com/track/0N0ZPAQXozVq5FXIj2Cugl) | [Sunni Colón](https://open.spotify.com/artist/4tRZRfhgfLEIUI9mw9Njy2) | [Little Things](https://open.spotify.com/album/5VwIFjo7eJv2Hhp5MjTwXD) | 4:00 |
 | 116 | [The Fool Pt 3 \(Frame Of Mind\)](https://open.spotify.com/track/2jUOQ4gmWv9dSIxXWlTjd6) | [Shad](https://open.spotify.com/artist/15lOM8PWY9pXQoURZwSZlK), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [A Short Story About A War](https://open.spotify.com/album/7L3Xyl7eFVEqBDnyppNjCw) | 3:29 |
@@ -132,8 +132,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCJRVvilN81F.md) - [plain]
 | 122 | [Turn Me On](https://open.spotify.com/track/0XPg6Wdh4eIMeibWCwo0Uv) | [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO) | [Endless Night](https://open.spotify.com/album/2K7BcBLomfzKDCL9uHr8VY) | 3:15 |
 | 123 | [The Boy](https://open.spotify.com/track/71opuLWkFhYlqcYYKPkkQw) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Through The Wall](https://open.spotify.com/album/1vTquD47VNHtfuc5tVLI98) | 3:34 |
 | 124 | [DJ Got Me](https://open.spotify.com/track/5lFcDZXn5dXeAimwkpNP6s) | [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO) | [DJ Got Me](https://open.spotify.com/album/0M8nZTO9KJ0x06YJPshuMZ) | 2:15 |
-| 125 | [All We Do](https://open.spotify.com/track/1K0miFSHid85a5A7jM9Q3e) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [JMSN](https://open.spotify.com/artist/6HCkJzbswOIc7Qc5TJ1n5l) | [Kaytra to Do](https://open.spotify.com/album/04ujSnhw3iG2pdXbFsQIXK) | 4:12 |
-| 126 | [GOODBYE BITCH!](https://open.spotify.com/track/6CTnLPc0KLaumnvPBEztdO) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [AIN'T NO DAMN WAY!](https://open.spotify.com/album/2ThDVXsGeZahogahzHAIw6) | 2:46 |
+| 125 | [GOODBYE BITCH!](https://open.spotify.com/track/6CTnLPc0KLaumnvPBEztdO) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [AIN'T NO DAMN WAY!](https://open.spotify.com/album/2ThDVXsGeZahogahzHAIw6) | 2:46 |
+| 126 | [All We Do](https://open.spotify.com/track/1K0miFSHid85a5A7jM9Q3e) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [JMSN](https://open.spotify.com/artist/6HCkJzbswOIc7Qc5TJ1n5l) | [Kaytra to Do](https://open.spotify.com/album/04ujSnhw3iG2pdXbFsQIXK) | 4:12 |
 | 127 | [A Lite](https://open.spotify.com/track/3CeI4Ri97C26GxShl4sbdY) | [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [Ocean & Montana](https://open.spotify.com/album/6wQHjKlxXujDKgkUXJ4NIv) | 3:31 |
 | 128 | [Mic On](https://open.spotify.com/track/0JYYoY5Ft9LrLiBdD29daR) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [When The City Sleeps](https://open.spotify.com/album/7AQJyREmqZhnetWVX9ubhj) | 2:32 |
 | 129 | [Traveling Light](https://open.spotify.com/track/4iacGlbvEi6JsH3EmMQVwf) | [Talib Kweli](https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Radio Silence](https://open.spotify.com/album/7C82GwudARaV8PrNPia8AV) | 4:30 |
@@ -198,4 +198,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCJRVvilN81F.md) - [plain]
 | 188 | [Hold Tight](https://open.spotify.com/track/0pne7H1f67nyV7uPasAatn) | [AMAKA](https://open.spotify.com/artist/37BQKlogkKqPt9nioMBLOa) | [OASIS](https://open.spotify.com/album/3v8y0QkA77jNoEzDTNUTDH) | 3:28 |
 | 189 | [Undercover](https://open.spotify.com/track/5dUW0FWt3OO052bu7oczo9) | [AMAKA](https://open.spotify.com/artist/37BQKlogkKqPt9nioMBLOa) | [OASIS](https://open.spotify.com/album/3v8y0QkA77jNoEzDTNUTDH) | 4:07 |
 
-Snapshot ID: `AcSNXAAAAADYv1jfbMYMZM9fC/5Gf3AW`
+Snapshot ID: `AcSS/AAAAACXJEkl+kdikfKK4y+NPfHv`

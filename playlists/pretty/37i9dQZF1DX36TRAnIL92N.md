@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 
 > High energy Techno to boost your workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 488,478 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 488,647 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 | 23 | [Diamond Heart](https://open.spotify.com/track/5XoKMYd0KgE4rcdb4o0ZfO) | [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ) | [Diamond Heart](https://open.spotify.com/album/1KLI9C1c6EHMs2dJXDXK3W) | 2:32 |
 | 24 | [SCANDAL ANTHEM](https://open.spotify.com/track/08DchrgnFXBD6H142l4tvY) | [Fantasm](https://open.spotify.com/artist/0copVQkrcbfv5CzOyXuLKy), [WINSON](https://open.spotify.com/artist/2z9op9COiMU6QquVfY8HTN) | [SCANDAL ANTHEM](https://open.spotify.com/album/1KGIRYw9xdet38N9JKZp7l) | 4:04 |
 | 25 | [Falling For You](https://open.spotify.com/track/6KmjD9CaophLMXTCzKoLLZ) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Falling For You](https://open.spotify.com/album/06IxEeX95EI0GlyfuuPqjS) | 3:55 |
-| 26 | [GIRLBOSS](https://open.spotify.com/track/20X3JnZ5J6eNGXpypFQNxa) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK) | [GIRLBOSS](https://open.spotify.com/album/1HwOJ1JhdBS5msya2Xvb6v) | 3:13 |
-| 27 | [4am In A Rave \(feat\. rhys from the sticks\)](https://open.spotify.com/track/5Q7g7bfuumI3oF9GaVtxWP) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o), [rhys from the sticks](https://open.spotify.com/artist/4tmqN5uP0Aj50ylHgfwvVa) | [4am In A Rave / Speed Is A Deed](https://open.spotify.com/album/7ngZxqJrBFRp5ijYA68orJ) | 2:27 |
+| 26 | [4am In A Rave \(feat\. rhys from the sticks\)](https://open.spotify.com/track/5Q7g7bfuumI3oF9GaVtxWP) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o), [rhys from the sticks](https://open.spotify.com/artist/4tmqN5uP0Aj50ylHgfwvVa) | [4am In A Rave / Speed Is A Deed](https://open.spotify.com/album/7ngZxqJrBFRp5ijYA68orJ) | 2:27 |
+| 27 | [GIRLBOSS](https://open.spotify.com/track/20X3JnZ5J6eNGXpypFQNxa) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK) | [GIRLBOSS](https://open.spotify.com/album/1HwOJ1JhdBS5msya2Xvb6v) | 3:13 |
 | 28 | [Bombacid](https://open.spotify.com/track/1DdByft8QSr5sf8ZhdxcXE) | [T78](https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z), [Roberto Molinaro](https://open.spotify.com/artist/0mAQ0glGOQwK489YCodem9) | [Bombacid](https://open.spotify.com/album/2wuhp5q5agJgqllJdBpJdN) | 3:24 |
 | 29 | [Up Down Jumper](https://open.spotify.com/track/0evYoPRWnnQ6ACNC0LJPul) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Up Down Jumper](https://open.spotify.com/album/77gAd4MCswYYXswGlBaLbv) | 7:12 |
 | 30 | [One Mind](https://open.spotify.com/track/2Y2Ydnk6XPTe4IpOTNs5Xh) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso), [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [One Mind EP](https://open.spotify.com/album/6vEeCQvbjq8gK5IlhLOmkm) | 5:45 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1AQPxE.md) - [plain]
 
 > This is Jack Harlow\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,693 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,697 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1AQPxE.md) - [plain]
 | 41 | [WARSAW \(feat\. 2forwOyNE\)](https://open.spotify.com/track/2ihL1KGMA0geIqGT5pkZzo) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [2forwOyNE](https://open.spotify.com/artist/1TQKggQGVxtU2n5xDTTti5) | [Confetti](https://open.spotify.com/album/7xfcihbsBamUi6sezd0oOG) | 3:07 |
 | 42 | [Eastern Parkway](https://open.spotify.com/track/2KY4EupuUu4jk2yWNA8DZc) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Gazebo](https://open.spotify.com/album/0txbd4bmIM8Hq94jBrS0lc) | 3:06 |
 | 43 | [SMELLS LIKE INCENSE](https://open.spotify.com/track/5xAR2kje4pVMHz0ipvp2VA) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Sweet Action](https://open.spotify.com/album/7AaqMMiYMvnMB3RcS8u3EY) | 2:24 |
-| 44 | [No Enhancers](https://open.spotify.com/track/2IUufUksvNg2TfQ3qYyPk9) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Jackman.](https://open.spotify.com/album/0zKLHvP1TLKdDLSg4FOihB) | 1:39 |
+| 44 | [Ambitious](https://open.spotify.com/track/0pytLWYHCQdheIWB2Ay5Dk) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Jackman.](https://open.spotify.com/album/1ep4OEfNOhvcY85STfEtKy) | 2:52 |
 | 45 | [WALK IN THE PARK](https://open.spotify.com/track/0XOKietGW4PXK4hs4jyfpO) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Confetti](https://open.spotify.com/album/7xfcihbsBamUi6sezd0oOG) | 2:32 |
 | 46 | [Moana](https://open.spotify.com/track/1Tfxi7N3DW4zvAuVjt9g8X) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Moana](https://open.spotify.com/album/62WikgopS3tO34QbVKtVP0) | 2:58 |
 | 47 | [OUT FRONT](https://open.spotify.com/track/6ukXwaLZoMjeqA98ZdKLtq) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Sweet Action](https://open.spotify.com/album/7AaqMMiYMvnMB3RcS8u3EY) | 2:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1AQPxE.md) - [plain]
 | 49 | [RIVER ROAD](https://open.spotify.com/track/5YsP03BXEcu4PoJygpZsnW) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Confetti](https://open.spotify.com/album/7xfcihbsBamUi6sezd0oOG) | 4:15 |
 | 50 | [Tap In \(feat\. Post Malone, DaBaby & Jack Harlow\)](https://open.spotify.com/track/5woaU1FNkqCwg6WzWiQPW5) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Tap In \(feat\. Post Malone, DaBaby & Jack Harlow\)](https://open.spotify.com/album/1aa1RxpukjEwAGbNdeV3Ft) | 4:13 |
 
-Snapshot ID: `ag5LAAAAAAAvsV3LyrXm/d7+r0UskPtm`
+Snapshot ID: `ag+cgAAAAADbZCKwcIupZtfX0bGPhz6s`

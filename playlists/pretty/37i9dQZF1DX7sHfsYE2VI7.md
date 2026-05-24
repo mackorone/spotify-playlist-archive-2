@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sHfsYE2VI7.md) - [plain]
 
 > Chilled out dance classics to set the mood.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,274 likes - 70 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,281 likes - 70 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sHfsYE2VI7.md) - [plain]
 | 38 | [Boy From School](https://open.spotify.com/track/1L8H6AuK4TaMmolSL0N0mR) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [The Warning](https://open.spotify.com/album/25wuY7cXE8zjFnJRiU1ehS) | 5:19 |
 | 39 | [8 Ball](https://open.spotify.com/track/1tnhrn0zNTQGbo77wNwy44) | [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa) | [1992 \- 2012](https://open.spotify.com/album/68wdXsJmyuDfbozV2rDjXq) | 8:58 |
 | 40 | [Another Chance](https://open.spotify.com/track/08fMRujpKhEDTanKN9l2ud) | [Roger Sanchez](https://open.spotify.com/artist/1HT9k1ZSUL9IczSstOAgWJ) | [First Contact](https://open.spotify.com/album/6qu9ns8pdYAWJphzLszkny) | 7:32 |
-| 41 | [Lush](https://open.spotify.com/track/4KjNEsQ4jkqXwCmsn71a9p) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [New Energy](https://open.spotify.com/album/74r6JJ97ipO0CREXP9PMqZ) | 5:11 |
-| 42 | [Let Me Go](https://open.spotify.com/track/5fzUKYfATEqxDmRWfbikAm) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [5](https://open.spotify.com/album/57EkTny9UjqpLhFzMO4Hdb) | 3:13 |
+| 41 | [Let Me Go](https://open.spotify.com/track/5fzUKYfATEqxDmRWfbikAm) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [5](https://open.spotify.com/album/57EkTny9UjqpLhFzMO4Hdb) | 3:13 |
+| 42 | [Lush](https://open.spotify.com/track/4KjNEsQ4jkqXwCmsn71a9p) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [New Energy](https://open.spotify.com/album/74r6JJ97ipO0CREXP9PMqZ) | 5:11 |
 | 43 | [Love Generation \- Radio Edit](https://open.spotify.com/track/77gYpyxmd4b4VXw6qeuPJR) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN) | [Love Generation](https://open.spotify.com/album/2SPdbgwHd6pgrS9yawBB5t) | 3:24 |
 | 44 | [Jasmine \- Demo](https://open.spotify.com/track/44LAHDPaM5dvkmmD5w1W84) | [Jai Paul](https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc) | [Leak 04\-13 \(Bait Ones\)](https://open.spotify.com/album/4bCsLPQuCdQQBQOLs5MuNr) | 4:13 |
 | 45 | [Movements \(Chapter III\)](https://open.spotify.com/track/1OD2YXIOmfYmBAYfV1maRV) | [Leon Vynehall](https://open.spotify.com/artist/2o7L9DNcmzocYll1o0GGTU) | [Nothing Is Still](https://open.spotify.com/album/6WeIO0CpDMiMXTglv0KuLr) | 3:51 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sHfsYE2VI7.md) - [plain]
 | 52 | [Kids in Love \(feat\. The Night Game\)](https://open.spotify.com/track/5nmHl233yo8XJvaNfdKAWU) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [The Night Game](https://open.spotify.com/artist/79QO0Xmn1dZhvaLicS2Yrs) | [Kids in Love](https://open.spotify.com/album/47oyrKaeobswT4T8zyaxdM) | 4:23 |
 | 53 | [Baby](https://open.spotify.com/track/0wPfUQUkWcguy2iUH0BWOT) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Sixteen Oceans](https://open.spotify.com/album/5gIa8hTQGPwVeNYjDwrraZ) | 4:24 |
 | 54 | [Touch Me \(feat\. Cassandra\) \- Radio Edit](https://open.spotify.com/track/4Nr9XvdJRZpRaqM7oRuhjJ) | [Rui Da Silva](https://open.spotify.com/artist/1kx78nQhmITF7OFvivyN4v), [Cassandra](https://open.spotify.com/artist/5xXnq6R5R0UqQZHI6JUntZ) | [Touch Me \(feat\. Cassandra\)](https://open.spotify.com/album/6tGBEUcNnH8xf2IAYoy3Xy) | 3:27 |
-| 55 | [Coco Jamboo](https://open.spotify.com/track/5fRvePkRGdpn2nKacG7I6d) | [Mr\. President](https://open.spotify.com/artist/7KBkgunlONG7LPxs93pgpp) | [We See the Same Sun](https://open.spotify.com/album/2aMWSTZkHdS6mR28WtpuxY) | 3:38 |
-| 56 | [Lone Swordsman](https://open.spotify.com/track/2gs3ytLZiqjY5xki3bAFLM) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Dusting For Smoke](https://open.spotify.com/album/7gTHUgl6TVixWM4uXw5k0H) | 3:53 |
+| 55 | [Lone Swordsman](https://open.spotify.com/track/2gs3ytLZiqjY5xki3bAFLM) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Dusting For Smoke](https://open.spotify.com/album/7gTHUgl6TVixWM4uXw5k0H) | 3:53 |
+| 56 | [Coco Jamboo](https://open.spotify.com/track/5fRvePkRGdpn2nKacG7I6d) | [Mr\. President](https://open.spotify.com/artist/7KBkgunlONG7LPxs93pgpp) | [We See the Same Sun](https://open.spotify.com/album/2aMWSTZkHdS6mR28WtpuxY) | 3:38 |
 | 57 | [Wildfire](https://open.spotify.com/track/06U3tIapsJ0X6dZx5nhLtt) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI), [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [SBTRKT](https://open.spotify.com/album/4ncktAfHYJlko5yZgqce3H) | 3:21 |
 | 58 | [Bentley's Gonna Sort You Out](https://open.spotify.com/track/2GLl5SfGDhAEztVvEVRimA) | [Bentley Rhythm Ace](https://open.spotify.com/artist/28EZh7WvdbWwfOrf5lkvCk) | [BRA](https://open.spotify.com/album/5M9gDsoePB0kpZfBDfrL3O) | 5:07 |
 | 59 | [Sun Is Shining](https://open.spotify.com/track/7mUTI3eMg0issonjzaVGDw) | [Funkstar De Luxe](https://open.spotify.com/artist/1R5R9EyBe8MxRuD3BIXaV2) | [Sun Is Shining \(Remixes\)](https://open.spotify.com/album/4l8hxXnWvWObUZEuyWzyjs) | 4:10 |

@@ -4,7 +4,7 @@
 
 > An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.
 
-682 songs - 1 day 16 hr 52 min
+683 songs - 1 day 16 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -390,6 +390,7 @@
 | [My Boy](https://open.spotify.com/track/4vQsC1A1LNqKenyh6UyoTN) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [My Boy](https://open.spotify.com/album/1RS0vQwtq4DpNqb4eYALfP) | 2:43 | 2022-05-24 | 2025-05-27 |
 | [My Boy](https://open.spotify.com/track/5ndSLoHMt298BYsru2seYK) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [My Boy](https://open.spotify.com/album/6BkPM6yssffxIhcKimWI3B) | 2:43 | 2022-10-14 | 2023-12-14 |
 | [My Conversation](https://open.spotify.com/track/3HaXlnLbvkmdZN401glSoE) | [Silas Short](https://open.spotify.com/artist/4qFyLjhOZ9HGh22ggqoUBQ) | [My Conversation](https://open.spotify.com/album/3eyiwYrYENzxjnumTXJoOw) | 3:16 | 2025-03-11 |  |
+| [My Dirty Desire](https://open.spotify.com/track/2tFnhS8QB268yDYnwAUBdH) | [Pale Jay](https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM) | [My Dirty Desire / Dreaming In Slow Motion](https://open.spotify.com/album/4QfaBZBXxHeEGY6Me3damM) | 3:26 | 2026-05-18 |  |
 | [My Jinji](https://open.spotify.com/track/0JTkPVNmfsy86OWvlXrtIW) | [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Jinji Kikko](https://open.spotify.com/album/30RoOJnInHXUzLK72XvlMN) | 6:40 | 2024-04-10 | 2024-05-02 |
 | [My Stove's on Fire](https://open.spotify.com/track/1rQeb39RWb5BaRqsxTTccU) | [Robert Lester Folsom](https://open.spotify.com/artist/5uQyXHg4ph7gNlnZHxt9kX) | [Music and Dreams](https://open.spotify.com/album/7D9LwyfF1jH5nfSgZDYxRO) | 2:48 | 2023-06-26 | 2023-10-02 |
 | [My Stove's on Fire](https://open.spotify.com/track/6EUcEf1l8hgFSGOzss2vU7) | [Robert Lester Folsom](https://open.spotify.com/artist/5uQyXHg4ph7gNlnZHxt9kX) | [Music and Dreams](https://open.spotify.com/album/5306Ud36cTkWivzxFzUZM2) | 2:48 | 2022-08-19 | 2023-04-30 |
@@ -492,7 +493,7 @@
 | [Running Away](https://open.spotify.com/track/0wpjR48SjbwsHxd7CeaRse) | [Joey Dosik](https://open.spotify.com/artist/3kANxNTLNOhxpOPoCbGq9E) | [Game Winner \- EP \(Deluxe Edition\)](https://open.spotify.com/album/3YgyDtXFVN2AVMPZE1GfFV) | 4:31 | 2021-12-16 | 2022-07-29 |
 | [Running Away](https://open.spotify.com/track/34VDj911PQh8B1BXYoOMLq) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Running Away](https://open.spotify.com/album/6cV7QYmHkPFCJaoRCQscpE) | 3:15 | 2023-09-19 |  |
 | [Runway Gurl \- Original Mix](https://open.spotify.com/track/4qEt7wJkdViaMNi2EP0SDk) | [Chuggin Edits](https://open.spotify.com/artist/765A5emJkUUu04hkQaN3Op) | [Get a Room](https://open.spotify.com/album/5GpVL1Hn8CFb2vhhLCQacJ) | 5:34 | 2021-12-16 | 2022-07-29 |
-| [S.O.L.](https://open.spotify.com/track/2FkLjsFnK6H9iuoXNLGfNy) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT), [Olivier St.Louis](https://open.spotify.com/artist/0HHMWJfJPFFuZqnv2rSsyI) | [S.O.L\. EP](https://open.spotify.com/album/2dSeTSbKTzauej8icTIzdk) | 5:49 | 2024-12-09 |  |
+| [S.O.L.](https://open.spotify.com/track/2FkLjsFnK6H9iuoXNLGfNy) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT), [Olivier St.Louis](https://open.spotify.com/artist/0HHMWJfJPFFuZqnv2rSsyI) | [S.O.L\. EP](https://open.spotify.com/album/2dSeTSbKTzauej8icTIzdk) | 5:49 | 2024-12-09 | 2026-05-24 |
 | [Sabor Dulce](https://open.spotify.com/track/2Xlx1ATkGYjYjmNn0w7O59) | [Los Belkings](https://open.spotify.com/artist/6bI3v3BkqFwEbXQfB081Dn) | [Los Belkings \(Ayer y Hoy\)](https://open.spotify.com/album/3vvNY1JAizDCAnMnxUTZie) | 3:28 | 2025-07-23 | 2025-12-30 |
 | [Sad Dream](https://open.spotify.com/track/6k8jlEH1WssLwzXHfZGq3j) | [EchoWave](https://open.spotify.com/artist/6cRSP0k82PWTiEmLPqwrTI) | [Sad Dream](https://open.spotify.com/album/2HIWjaGWNOazjOiF7cpUrr) | 3:40 | 2024-08-14 | 2024-11-12 |
 | [Safe](https://open.spotify.com/track/4ofgRDtuYb7hfBgZLSAw4X) | [Bay Ledges](https://open.spotify.com/artist/7FhRUp59cBzPaxobsRY1Nc) | [Safe](https://open.spotify.com/album/3Y8WcmnrpBlWPFlN3zeFU0) | 3:05 | 2021-12-16 | 2022-07-29 |

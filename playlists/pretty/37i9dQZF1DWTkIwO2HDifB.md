@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkIwO2HDifB.md) - [plain]
 
 > Os funks mais 🔑 do Brasil / Foto: Aaron Modesto, MC Magal, MC Meno K, DJ Glenner
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,781,644 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,781,977 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkIwO2HDifB.md) - [plain]
 | 49 | [365 Dias \(Vida Mansa\)](https://open.spotify.com/track/2drZGdAOxfE2KoMGTkidmq) | [MC Marks](https://open.spotify.com/artist/04QHNiih9ZesPvals6II1h), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [MC Jvila](https://open.spotify.com/artist/2f8xoxornfSw6ePzgyM9NO), [MC Bruno MS](https://open.spotify.com/artist/7IOSPo9oGCLWtDEZtmxgTi), [Mc Magal](https://open.spotify.com/artist/2FDaBZt51fOXh2rbHL8Afr), [Aaron Modesto](https://open.spotify.com/artist/48yaM25WLHmQZXx5NN3DYH), [DJ Dael](https://open.spotify.com/artist/2A3i7OnSUdZB3FXX5Qv3Wp), [MC LUUKY](https://open.spotify.com/artist/70jpkgy5oGT4YjaGFpCpk7) | [365 Dias \(Vida Mansa\)](https://open.spotify.com/album/49TkAXV7QtwIAHwJ6Xusjt) | 8:47 |
 | 50 | [Sexta Feira Hoje Tem](https://open.spotify.com/track/7jCgslBhuPF61B6yk90VYb) | [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Mc IG](https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN), [DJ Japa NK](https://open.spotify.com/artist/1bpnl8qbR9GxmiNlkEufW6), [Nilo](https://open.spotify.com/artist/5uD6uRKj2xYxpqx8bscaco), [Boladin 211](https://open.spotify.com/artist/2xOLGU5UNLV3KQSFteF8ZW), [MC LUUKY](https://open.spotify.com/artist/70jpkgy5oGT4YjaGFpCpk7), [Mc Negão Original](https://open.spotify.com/artist/4LHTgACY32k94VDjenF0nP) | [Sexta Feira Hoje Tem](https://open.spotify.com/album/3QDz4QyC01WzuUaYi6BOin) | 6:27 |
 
-Snapshot ID: `AAAAAPT5xFKcboiSH9tubuC/fpaMZr7K`
+Snapshot ID: `AAAAAMGZ3FB91+gXPi47kNIOqxIWcSwh`

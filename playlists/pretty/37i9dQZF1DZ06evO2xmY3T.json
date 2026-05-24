@@ -1,33 +1,13 @@
 {
   "description": "This is Cardi B. The essential tracks, all in one playlist.",
-  "num_followers": 693724,
+  "num_followers": 693729,
   "original_name": "This Is Cardi B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ag5LAAAAAAB9yMShdr0cq26IvNgBa7/s",
+  "snapshot_id": "ag+cgAAAAABwbj4DurrA/NKFbS7WZ3/G",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pocket (feat. Cardi B)",
-        "url": "https://open.spotify.com/album/4xGIbSnqkqLeYKvMCSX8QG"
-      },
-      "artists": [
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        },
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 232574,
-      "name": "Pocket (feat. Cardi B)",
-      "url": "https://open.spotify.com/track/5VkDZinzGIyhahRIzS84hQ"
-    },
     {
       "added_at": null,
       "album": {
@@ -203,6 +183,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Kehlani",
+        "url": "https://open.spotify.com/album/2xkYTmqjear3lSGydIn7wh"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 232574,
+      "name": "Pocket (feat. Cardi B)",
+      "url": "https://open.spotify.com/track/61WdhGJZSILRG11rRJP1gm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "AM I THE DRAMA? (Beat Edition)",
         "url": "https://open.spotify.com/album/68qkDEJOnNepRvHL1SkVDi"
       },
@@ -239,6 +239,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Invasion of Privacy",
+        "url": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 223712,
+      "name": "Bodak Yellow",
+      "url": "https://open.spotify.com/track/6KBYefIoo7KydImq1uUQlL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Anyways, Life\u2019s Great\u2026",
         "url": "https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC"
       },
@@ -255,22 +271,6 @@
       "duration_ms": 209811,
       "name": "Tomorrow 2 (with Cardi B)",
       "url": "https://open.spotify.com/track/0WNfQxDGaPTl0yogcMR5v1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Invasion of Privacy",
-        "url": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML"
-      },
-      "artists": [
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 223712,
-      "name": "Bodak Yellow",
-      "url": "https://open.spotify.com/track/6KBYefIoo7KydImq1uUQlL"
     },
     {
       "added_at": null,
@@ -319,22 +319,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "AM I THE DRAMA? (Ultimate Edition)",
-        "url": "https://open.spotify.com/album/0qJL6xmheW2HD1H0SWCxRh"
-      },
-      "artists": [
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 183527,
-      "name": "Money",
-      "url": "https://open.spotify.com/track/1ozkUXjTicFlTvrmdYmLDj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Invasion of Privacy",
         "url": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 210787,
       "name": "Be Careful",
       "url": "https://open.spotify.com/track/2Yl4OmDby9iitgNWZPwxkd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AM I THE DRAMA? (Ultimate Edition)",
+        "url": "https://open.spotify.com/album/0qJL6xmheW2HD1H0SWCxRh"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 183527,
+      "name": "Money",
+      "url": "https://open.spotify.com/track/1ozkUXjTicFlTvrmdYmLDj"
     },
     {
       "added_at": null,
@@ -387,22 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "AM I THE DRAMA? (Ultimate Edition)",
-        "url": "https://open.spotify.com/album/0qJL6xmheW2HD1H0SWCxRh"
-      },
-      "artists": [
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 158727,
-      "name": "Enough (Miami)",
-      "url": "https://open.spotify.com/track/3j4AWNKYVeL9njKINCTzKm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Invasion of Privacy",
         "url": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 177139,
       "name": "Ring (feat. Kehlani)",
       "url": "https://open.spotify.com/track/5DfWF0jqMgZDCiu9zJENTA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AM I THE DRAMA? (Ultimate Edition)",
+        "url": "https://open.spotify.com/album/0qJL6xmheW2HD1H0SWCxRh"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 158727,
+      "name": "Enough (Miami)",
+      "url": "https://open.spotify.com/track/3j4AWNKYVeL9njKINCTzKm"
     },
     {
       "added_at": null,

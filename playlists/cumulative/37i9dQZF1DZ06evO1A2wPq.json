@@ -367,6 +367,24 @@
     },
     {
       "album": {
+        "name": "touch myself/idea of love",
+        "url": "https://open.spotify.com/album/76ZZEjABkKjynOcObQIQOZ"
+      },
+      "artists": [
+        {
+          "name": "kwn",
+          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
+        }
+      ],
+      "date_added": "2026-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249218,
+      "name": "touch myself",
+      "url": "https://open.spotify.com/track/3yftdtj8z7vS7M3EoPfVFK"
+    },
+    {
+      "album": {
         "name": "episode wn",
         "url": "https://open.spotify.com/album/6s4EpeWF8X3w8hwuQIABGl"
       },

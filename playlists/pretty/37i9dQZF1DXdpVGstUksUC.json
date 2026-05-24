@@ -1,6 +1,6 @@
 {
   "description": "riff-heavy, fuzzed-out numbers. ",
-  "num_followers": 547795,
+  "num_followers": 547804,
   "original_name": "Stoner Rock",
   "owner": {
     "name": "Spotify",
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2026-03-13 04:00:13",
       "album": {
+        "name": "InnerSpeaker (Collector's Edition)",
+        "url": "https://open.spotify.com/album/19KL6IwPJMECn2wosxguq7"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 266160,
+      "name": "Half Full Glass Of Wine",
+      "url": "https://open.spotify.com/track/1hmK18w3PueSkGcMqlfnOX"
+    },
+    {
+      "added_at": "2026-03-13 04:00:13",
+      "album": {
         "name": "Macho Libre",
         "url": "https://open.spotify.com/album/3vsrxRQfyEWrTltY43cY1Z"
       },
@@ -1591,22 +1607,6 @@
       "duration_ms": 249333,
       "name": "Tres Brujas",
       "url": "https://open.spotify.com/track/02VH6OxidofPWj9u4t7TKd"
-    },
-    {
-      "added_at": "2026-03-13 04:00:13",
-      "album": {
-        "name": "Gonzalez",
-        "url": "https://open.spotify.com/album/3XLoQEGyq5RMRzMv2qiiha"
-      },
-      "artists": [
-        {
-          "name": "Gonzalez",
-          "url": "https://open.spotify.com/artist/0GWc5zILu7EQ9FjPTuzIKh"
-        }
-      ],
-      "duration_ms": 235013,
-      "name": "Dusted",
-      "url": "https://open.spotify.com/track/2PyBvM9tPlq2WcaVRLFlvb"
     }
   ],
   "unique_name": "Stoner Rock",

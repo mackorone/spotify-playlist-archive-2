@@ -4,7 +4,7 @@
 
 > These are some independent rock bands you need to hear.
 
-500 songs - 1 day 6 hr 49 min
+503 songs - 1 day 7 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,6 +154,7 @@
 | [Fantasia](https://open.spotify.com/track/3HQyqgoK7z6VY9bE8GlAli) | [Astratto](https://open.spotify.com/artist/1kQT4JN2XDrVdT4vubHCjw) | [Fantasia](https://open.spotify.com/album/4Qp6S6ln5GwDmTih32uJVf) | 6:10 | 2026-04-22 |  |
 | [Farewell](https://open.spotify.com/track/27tcaTzyrakD3Upv0kNKhU) | [Barmy Rote](https://open.spotify.com/artist/0gsHnK7UzxQeEF0egFiX9W) | [Injustice For All](https://open.spotify.com/album/6X7jSbLl6gIQHXqn0772yt) | 6:05 | 2026-04-06 | 2026-05-08 |
 | [Favourite Saprophyte](https://open.spotify.com/track/2niIeFW2oI4tAX3Q5EagTO) | [One Dimensional Creatures](https://open.spotify.com/artist/7o6WniivmQftDih58zgQ8o) | [Tolerance Paradox](https://open.spotify.com/album/2Muk0rClwsvYyVGFBIGzJO) | 2:23 | 2025-12-13 | 2026-01-05 |
+| [Fentanyl Apocalypse](https://open.spotify.com/track/5SzfE5AOykHvXDnX2vt1o4) | [Magic Dragon](https://open.spotify.com/artist/0trHAWuVufxQLIZyPujytr) | [Metropolitan Degradation](https://open.spotify.com/album/1NyV58vxmbIYmhTGrIqmTg) | 3:18 | 2026-05-23 |  |
 | [Festivus Rocks!](https://open.spotify.com/track/4PW4OeLpaAVituvNzEH6J5) | [The Lollygags](https://open.spotify.com/artist/2i8RjASHxZLub8hlOOHl6t) | [Festivus Rocks!](https://open.spotify.com/album/5elQ75PyN8McdSGT9WdtcK) | 2:17 | 2025-12-13 | 2026-01-05 |
 | [Flashback](https://open.spotify.com/track/3nfFEXmkLRjfVIslYXSTFu) | [Trophy Boy Poems](https://open.spotify.com/artist/1EyJ3RSMmZO6ZK2HxzSvTj) | [Flashback](https://open.spotify.com/album/2dsufG9Ds7vt8stxbrBkBE) | 3:31 | 2026-02-28 | 2026-05-08 |
 | [FLOWER CHILD](https://open.spotify.com/track/0PYoxGNSQo2kMZWwSE8lcH) | [Krista Hartman](https://open.spotify.com/artist/0kwEEdnKa1I4oELZFRA6kN) | [Transcend](https://open.spotify.com/album/5CFY6AXx0tLDqkzbVpoUSu) | 4:22 | 2026-01-31 | 2026-02-18 |
@@ -224,6 +225,7 @@
 | [Jane](https://open.spotify.com/track/4XedfQTRrrkH48buhGSbFd) | [Lunar Chain](https://open.spotify.com/artist/6esnKS6lev7QYCZAL0y8bW) | [Jane](https://open.spotify.com/album/3McsECnITe5RZAbrBHn36C) | 3:01 | 2026-03-28 |  |
 | [Jodido Petrarca](https://open.spotify.com/track/0U5h1yccrkqogGH6fMlkHK) | [Tacrolimus](https://open.spotify.com/artist/7mTm2TIV3hTqKshbp7PDwT) | [Se Acabaron Las Versiones](https://open.spotify.com/album/0CRkFJi4GKM0Lv8ehJYb25) | 2:40 | 2026-04-21 |  |
 | [Just A Good Time 80s Jam](https://open.spotify.com/track/3Ytv0HiQSQKrPg0JL1ql22) | [Tommy Schenker](https://open.spotify.com/artist/6xKu6qqRUAd7RJHarRoIyC) | [Just A Good Time 80s Jam](https://open.spotify.com/album/7dcLwSUHVmHRhwBZUz3XSq) | 2:34 | 2025-09-27 |  |
+| [Just a Little While](https://open.spotify.com/track/1OLUiHTSO2A9dmLpuGDgFW) | [Chelekis](https://open.spotify.com/artist/4JCoKAEJ4c4So8sYRaZgUf) | [Just a Little While](https://open.spotify.com/album/7Bcl5QSiVUwyNppf3sbloL) | 4:30 | 2026-05-23 |  |
 | [Just Another Dying Hero](https://open.spotify.com/track/6MJZL9jgx23emQ5lzhwBEz) | [The Galacticas](https://open.spotify.com/artist/3OqM9wx94VLVevksMclrGI) | [Planned Obsolescence](https://open.spotify.com/album/4DOu5lRGwahVpAoUewAFN2) | 4:10 | 2025-10-29 | 2025-11-22 |
 | [Just Let It Go](https://open.spotify.com/track/5lPn1Gsaqo8NO3NpFGgwqJ) | [FLÒRALYN](https://open.spotify.com/artist/2LcgkfAzVOD0qeVCgDAqmy) | [Just Let It Go](https://open.spotify.com/album/50TsgNRCRfPWhO8dy9YERH) | 3:13 | 2026-04-12 |  |
 | [knocked \-down/\-out](https://open.spotify.com/track/11PesUdCoyNUXCJWiijURC) | [KXENIA](https://open.spotify.com/artist/4xGnce5EXkdJNeOxaZeYTL) | [knocked \-down/\-out](https://open.spotify.com/album/1e1LTHlMdwv0v8figkkxR5) | 4:16 | 2026-02-07 | 2026-05-17 |
@@ -420,6 +422,7 @@
 | [The Hope and Desperation of the Sea](https://open.spotify.com/track/6lxU2is3bvGg1qzCpZXMOo) | [Pink Cliffs](https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR) | [The Hope and Desperation of the Sea](https://open.spotify.com/album/74S6lWVbgQSkyDmqUznX1b) | 3:42 | 2025-12-06 | 2025-12-28 |
 | [The Hope That Kills You](https://open.spotify.com/track/4oi6vgA4XrcUKRO0N3Y3eq) | [Jonny Morgan & The Moral Support](https://open.spotify.com/artist/3gAs7sin4uZTlpRHNwWHzD) | [The Hope That Kills You](https://open.spotify.com/album/4jYxKqGVU9hhTp8nwyDHhl) | 4:00 | 2026-04-06 | 2026-05-08 |
 | [The Kingdom](https://open.spotify.com/track/3ajLHTSHgtYmONgZBJjxZi) | [The American Hotel System](https://open.spotify.com/artist/6brMI3t9gWQkmJVGhxCQnJ) | [The Kingdom](https://open.spotify.com/album/1z6kqRlNo0i9j5weIERsa4) | 3:49 | 2026-03-14 | 2026-04-20 |
+| [The Last Thing That I Do](https://open.spotify.com/track/41O2sZgfLwvAkef5ElAdGF) | [Lime](https://open.spotify.com/artist/3CkGw7rwzPbj59O3hKH1SB) | [Chasing Ghosts](https://open.spotify.com/album/7oHcVV83L7tZdOvPWghwpq) | 4:33 | 2026-05-23 |  |
 | [The Longest Time](https://open.spotify.com/track/0unM5Lavi7GnYL2cL1KJYi) | [Little Beast](https://open.spotify.com/artist/1VtBno35V1m2SDlvNwaWbY) | [The Longest Time](https://open.spotify.com/album/2y1ZM2E7RxgzgXeDijbnl7) | 4:30 | 2025-11-11 | 2025-12-12 |
 | [The Man's Always Getting Me Down](https://open.spotify.com/track/3dC2epYzUhJdjNRySyLc7x) | [Ben Aubergine](https://open.spotify.com/artist/3HoBbX5K0WawMbfNfXjqPz) | [The Man's Always Getting Me Down](https://open.spotify.com/album/5G7IrHgzWPFYZsVGvroARq) | 4:21 | 2026-02-10 | 2026-03-04 |
 | [The Mess & The Martyr](https://open.spotify.com/track/4neyUrx2A4XSyKLeEs0INN) | [KAY BRETTE](https://open.spotify.com/artist/5upymWMVUM7pZ2XvrUDyZo) | [The Mess & The Martyr](https://open.spotify.com/album/2Q6W8VUXPrbYI968Z1sdUk) | 3:57 | 2026-03-14 | 2026-04-20 |

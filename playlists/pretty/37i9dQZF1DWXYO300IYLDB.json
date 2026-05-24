@@ -1,6 +1,6 @@
 {
   "description": "\u30a2\u30b3\u30fc\u30b9\u30c6\u30a3\u30c3\u30af\u30fb\u30e1\u30ed\u30c7\u30a3\u30fc\u30ba\u3002\u3086\u3063\u305f\u308a\u3068\u3057\u305f\u30a2\u30b3\u30fc\u30b9\u30c6\u30a3\u30c3\u30af\u30b5\u30a6\u30f3\u30c9\u3067\u30ea\u30e9\u30c3\u30af\u30b9\u3057\u307e\u305b\u3093\u304b\uff1f",
-  "num_followers": 137987,
+  "num_followers": 137985,
   "original_name": "Acoustic Melodies Tokyo",
   "owner": {
     "name": "Spotify",
@@ -579,18 +579,22 @@
     {
       "added_at": "2026-03-12 15:00:29",
       "album": {
-        "name": "The Grenade Sessions",
-        "url": "https://open.spotify.com/album/54DNHFsfCa7nlQFWXMg7y3"
+        "name": "Cover Sessions, Vol. 3",
+        "url": "https://open.spotify.com/album/1DpZ3jGqyRCTQ8Eoas1MP4"
       },
       "artists": [
         {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+          "name": "Boyce Avenue",
+          "url": "https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv"
+        },
+        {
+          "name": "Bea Miller",
+          "url": "https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x"
         }
       ],
-      "duration_ms": 249535,
-      "name": "Grenade - Acoustic",
-      "url": "https://open.spotify.com/track/7Cj2tT0m2SBeIO1PsGfk8A"
+      "duration_ms": 222146,
+      "name": "We Can't Stop",
+      "url": "https://open.spotify.com/track/6owKuyHxUqidcAA6fPKSyy"
     },
     {
       "added_at": "2026-03-12 15:00:29",
@@ -631,22 +635,18 @@
     {
       "added_at": "2026-03-12 15:00:29",
       "album": {
-        "name": "Cover Sessions, Vol. 3",
-        "url": "https://open.spotify.com/album/1DpZ3jGqyRCTQ8Eoas1MP4"
+        "name": "The Grenade Sessions",
+        "url": "https://open.spotify.com/album/54DNHFsfCa7nlQFWXMg7y3"
       },
       "artists": [
         {
-          "name": "Boyce Avenue",
-          "url": "https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv"
-        },
-        {
-          "name": "Bea Miller",
-          "url": "https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x"
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
         }
       ],
-      "duration_ms": 222146,
-      "name": "We Can't Stop",
-      "url": "https://open.spotify.com/track/6owKuyHxUqidcAA6fPKSyy"
+      "duration_ms": 249535,
+      "name": "Grenade - Acoustic",
+      "url": "https://open.spotify.com/track/7Cj2tT0m2SBeIO1PsGfk8A"
     },
     {
       "added_at": "2026-03-12 15:00:29",

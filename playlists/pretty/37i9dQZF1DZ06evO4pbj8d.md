@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4pbj8d.md) - [plain]
 
 > This is Joy Oladokun\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,950 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,955 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4pbj8d.md) - [plain]
 | 49 | [brick by brick](https://open.spotify.com/track/4JUSXwDFcncj0TbXByi0U7) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness \(complete\)](https://open.spotify.com/album/7yemOBr0RNb26tsE0lKaDB) | 3:33 |
 | 50 | [Who Are You](https://open.spotify.com/track/6hpR4wi9DNXQNSdp63RiiL) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Who Are You](https://open.spotify.com/album/5daVnBVz3xKJCpNdGIbKxa) | 3:52 |
 
-Snapshot ID: `ag5LAAAAAACyk1JrnELOGwsWmscRJrcC`
+Snapshot ID: `ag+cgAAAAAB32iYELwETFnHmcctGCe3p`

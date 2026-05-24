@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by Greeicy, Alvaro Diaz, Xavi, ELENA ROSE, and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 637,857 likes - 48 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 637,968 likes - 48 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

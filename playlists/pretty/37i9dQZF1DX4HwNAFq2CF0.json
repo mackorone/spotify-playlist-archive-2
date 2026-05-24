@@ -1,6 +1,6 @@
 {
   "description": "The hits that keep on rocking your world. Cover: Foo Fighters",
-  "num_followers": 77165,
+  "num_followers": 77169,
   "original_name": "Rock Favourites",
   "owner": {
     "name": "Spotify",
@@ -471,8 +471,8 @@
     {
       "added_at": "2026-05-06 20:31:40",
       "album": {
-        "name": "Night Visions",
-        "url": "https://open.spotify.com/album/6htgf3qv7vGcsdxLCDxKp8"
+        "name": "Mercury - Acts 1 & 2",
+        "url": "https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS"
       },
       "artists": [
         {
@@ -480,9 +480,9 @@
           "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
         }
       ],
-      "duration_ms": 186813,
-      "name": "Radioactive",
-      "url": "https://open.spotify.com/track/4G8gkOterJn0Ywt6uhqbhp"
+      "duration_ms": 190883,
+      "name": "Sharks",
+      "url": "https://open.spotify.com/track/7sA2SKTo1QbTSSYn5YvJC4"
     },
     {
       "added_at": "2026-05-06 20:31:40",
@@ -503,22 +503,6 @@
     {
       "added_at": "2026-05-06 20:31:40",
       "album": {
-        "name": "Sacred Hearts Club",
-        "url": "https://open.spotify.com/album/5lFvZh6pCTJzr9UStebyCF"
-      },
-      "artists": [
-        {
-          "name": "Foster The People",
-          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
-        }
-      ],
-      "duration_ms": 243146,
-      "name": "Sit Next to Me",
-      "url": "https://open.spotify.com/track/4BdGO1CaObRD4La9l5Zanz"
-    },
-    {
-      "added_at": "2026-05-06 20:31:40",
-      "album": {
         "name": "Blame My Ex",
         "url": "https://open.spotify.com/album/1a5idDFSq90ej8CzQC7YDc"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 160244,
       "name": "Edge of the Earth",
       "url": "https://open.spotify.com/track/4Zy6m1QjUivLl8Zt7E8uxr"
+    },
+    {
+      "added_at": "2026-05-06 20:31:40",
+      "album": {
+        "name": "Sacred Hearts Club",
+        "url": "https://open.spotify.com/album/5lFvZh6pCTJzr9UStebyCF"
+      },
+      "artists": [
+        {
+          "name": "Foster The People",
+          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
+        }
+      ],
+      "duration_ms": 243146,
+      "name": "Sit Next to Me",
+      "url": "https://open.spotify.com/track/4BdGO1CaObRD4La9l5Zanz"
     },
     {
       "added_at": "2026-05-06 20:31:40",
@@ -551,8 +551,8 @@
     {
       "added_at": "2026-05-06 20:31:40",
       "album": {
-        "name": "Mercury - Acts 1 & 2",
-        "url": "https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS"
+        "name": "Night Visions",
+        "url": "https://open.spotify.com/album/6htgf3qv7vGcsdxLCDxKp8"
       },
       "artists": [
         {
@@ -560,9 +560,9 @@
           "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
         }
       ],
-      "duration_ms": 190883,
-      "name": "Sharks",
-      "url": "https://open.spotify.com/track/7sA2SKTo1QbTSSYn5YvJC4"
+      "duration_ms": 186813,
+      "name": "Radioactive",
+      "url": "https://open.spotify.com/track/4G8gkOterJn0Ywt6uhqbhp"
     },
     {
       "added_at": "2026-05-06 20:31:40",
@@ -695,22 +695,6 @@
     {
       "added_at": "2026-05-06 20:31:40",
       "album": {
-        "name": "Lunatic",
-        "url": "https://open.spotify.com/album/71C65HI7THrlkpHHa24YJX"
-      },
-      "artists": [
-        {
-          "name": "KONGOS",
-          "url": "https://open.spotify.com/artist/58R5LHkK3vkmEyGUPOR5kS"
-        }
-      ],
-      "duration_ms": 211960,
-      "name": "Come with Me Now",
-      "url": "https://open.spotify.com/track/2kWowW0k4oFymhkr7LmvzO"
-    },
-    {
-      "added_at": "2026-05-06 20:31:40",
-      "album": {
         "name": "Threat to Survival",
         "url": "https://open.spotify.com/album/7969zwJB8p021EBcCUjsv9"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 224596,
       "name": "Cut the Cord",
       "url": "https://open.spotify.com/track/4LFBVDJV0xpayUvquQVzhS"
+    },
+    {
+      "added_at": "2026-05-06 20:31:40",
+      "album": {
+        "name": "Lunatic",
+        "url": "https://open.spotify.com/album/71C65HI7THrlkpHHa24YJX"
+      },
+      "artists": [
+        {
+          "name": "KONGOS",
+          "url": "https://open.spotify.com/artist/58R5LHkK3vkmEyGUPOR5kS"
+        }
+      ],
+      "duration_ms": 211960,
+      "name": "Come with Me Now",
+      "url": "https://open.spotify.com/track/2kWowW0k4oFymhkr7LmvzO"
     },
     {
       "added_at": "2026-05-06 20:31:40",
@@ -919,22 +919,6 @@
     {
       "added_at": "2026-05-06 20:31:40",
       "album": {
-        "name": "Dropout Boogie",
-        "url": "https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 164866,
-      "name": "Wild Child",
-      "url": "https://open.spotify.com/track/02bJ6uGeHKfNOhIc9qyA8e"
-    },
-    {
-      "added_at": "2026-05-06 20:31:40",
-      "album": {
         "name": "Strange Desire",
         "url": "https://open.spotify.com/album/0cnNCK2xpudXjB8pzsrYy9"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 188866,
       "name": "Rollercoaster",
       "url": "https://open.spotify.com/track/5L95vS64rG1YMIFm1hLjyZ"
+    },
+    {
+      "added_at": "2026-05-06 20:31:40",
+      "album": {
+        "name": "Dropout Boogie",
+        "url": "https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 164866,
+      "name": "Wild Child",
+      "url": "https://open.spotify.com/track/02bJ6uGeHKfNOhIc9qyA8e"
     },
     {
       "added_at": "2026-05-06 20:31:40",
@@ -1355,18 +1355,18 @@
     {
       "added_at": "2026-05-06 20:31:40",
       "album": {
-        "name": "OK, I'M SICK",
-        "url": "https://open.spotify.com/album/08VFvUyNPi6G0tc1d4DPU4"
+        "name": "Heaven :x: Hell",
+        "url": "https://open.spotify.com/album/4a4vGdTg7UTfNluS7QdFsF"
       },
       "artists": [
         {
-          "name": "Badflower",
-          "url": "https://open.spotify.com/artist/3T55D3LMiygE9eSKFpiAye"
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
         }
       ],
-      "duration_ms": 259519,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/7w09r53aPON8ZUvEAnPe94"
+      "duration_ms": 175767,
+      "name": "Landmines",
+      "url": "https://open.spotify.com/track/5Zq5HHYL8YX2U1S5hY5tRZ"
     },
     {
       "added_at": "2026-05-06 20:31:40",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2026-05-06 20:31:40",
       "album": {
+        "name": "OK, I'M SICK",
+        "url": "https://open.spotify.com/album/08VFvUyNPi6G0tc1d4DPU4"
+      },
+      "artists": [
+        {
+          "name": "Badflower",
+          "url": "https://open.spotify.com/artist/3T55D3LMiygE9eSKFpiAye"
+        }
+      ],
+      "duration_ms": 259519,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/7w09r53aPON8ZUvEAnPe94"
+    },
+    {
+      "added_at": "2026-05-06 20:31:40",
+      "album": {
         "name": "Up To Here",
         "url": "https://open.spotify.com/album/4gmKiB0dtmPWjzbDM5N7Jv"
       },
@@ -1399,22 +1415,6 @@
       "duration_ms": 257440,
       "name": "New Orleans Is Sinking",
       "url": "https://open.spotify.com/track/6v4pemwpkW7msCbBtSJf15"
-    },
-    {
-      "added_at": "2026-05-06 20:31:40",
-      "album": {
-        "name": "Heaven :x: Hell",
-        "url": "https://open.spotify.com/album/4a4vGdTg7UTfNluS7QdFsF"
-      },
-      "artists": [
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
-        }
-      ],
-      "duration_ms": 175767,
-      "name": "Landmines",
-      "url": "https://open.spotify.com/track/5Zq5HHYL8YX2U1S5hY5tRZ"
     },
     {
       "added_at": "2026-05-06 20:31:40",

@@ -1,6 +1,6 @@
 {
   "description": "Need to get your energy level up? This will help!",
-  "num_followers": 726736,
+  "num_followers": 726777,
   "original_name": "Energy Booster: K-Pop",
   "owner": {
     "name": "Spotify",
@@ -451,6 +451,22 @@
     {
       "added_at": "2026-03-16 09:50:34",
       "album": {
+        "name": "Delulu Pack",
+        "url": "https://open.spotify.com/album/0a8NPzV3WclFa2IliStNK8"
+      },
+      "artists": [
+        {
+          "name": "KiiiKiii",
+          "url": "https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP"
+        }
+      ],
+      "duration_ms": 179586,
+      "name": "404 (New Era)",
+      "url": "https://open.spotify.com/track/24rDDbSlFY9OHrlJb48CRh"
+    },
+    {
+      "added_at": "2026-03-16 09:50:34",
+      "album": {
         "name": "Killin' It Girl (feat. GloRilla)",
         "url": "https://open.spotify.com/album/0SSznW46Qvf6PHvO58aPNs"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 148714,
       "name": "Killin' It Girl (feat. GloRilla)",
       "url": "https://open.spotify.com/track/5PCOOngROV9jWsUViSy4Ed"
-    },
-    {
-      "added_at": "2026-03-16 09:50:34",
-      "album": {
-        "name": "Delulu Pack",
-        "url": "https://open.spotify.com/album/0a8NPzV3WclFa2IliStNK8"
-      },
-      "artists": [
-        {
-          "name": "KiiiKiii",
-          "url": "https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP"
-        }
-      ],
-      "duration_ms": 179586,
-      "name": "404 (New Era)",
-      "url": "https://open.spotify.com/track/24rDDbSlFY9OHrlJb48CRh"
     },
     {
       "added_at": "2026-03-16 09:50:34",
@@ -519,22 +519,6 @@
     {
       "added_at": "2026-03-16 09:50:34",
       "album": {
-        "name": "DEADLINE",
-        "url": "https://open.spotify.com/album/0al74j1n8XIEkZMMFRfsbx"
-      },
-      "artists": [
-        {
-          "name": "BLACKPINK",
-          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
-        }
-      ],
-      "duration_ms": 195402,
-      "name": "GO",
-      "url": "https://open.spotify.com/track/3FZPp9lBUvhsxFxKJi3VkB"
-    },
-    {
-      "added_at": "2026-03-16 09:50:34",
-      "album": {
         "name": "WE GO UP",
         "url": "https://open.spotify.com/album/2Accppyz0p8XZaSSCIAuDK"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 195409,
       "name": "PSYCHO",
       "url": "https://open.spotify.com/track/7jp2VW62Yt2bDOaRas3hR6"
+    },
+    {
+      "added_at": "2026-03-16 09:50:34",
+      "album": {
+        "name": "DEADLINE",
+        "url": "https://open.spotify.com/album/0al74j1n8XIEkZMMFRfsbx"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "duration_ms": 195402,
+      "name": "GO",
+      "url": "https://open.spotify.com/track/3FZPp9lBUvhsxFxKJi3VkB"
     },
     {
       "added_at": "2026-03-16 09:50:34",
@@ -599,22 +599,6 @@
     {
       "added_at": "2026-03-16 09:50:34",
       "album": {
-        "name": "STYLE",
-        "url": "https://open.spotify.com/album/2bCF7O4JPKcxtlOw7AtphB"
-      },
-      "artists": [
-        {
-          "name": "Hearts2Hearts",
-          "url": "https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ"
-        }
-      ],
-      "duration_ms": 209671,
-      "name": "STYLE",
-      "url": "https://open.spotify.com/track/5EoV2HmAlkqN1XvsIjOBZZ"
-    },
-    {
-      "added_at": "2026-03-16 09:50:34",
-      "album": {
         "name": "BABYMONS7ER",
         "url": "https://open.spotify.com/album/0eSbsl3j8jz96LC2NCLPc4"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 170356,
       "name": "SHEESH",
       "url": "https://open.spotify.com/track/1njlnn8ZKHI77Pe9szIONR"
+    },
+    {
+      "added_at": "2026-03-16 09:50:34",
+      "album": {
+        "name": "STYLE",
+        "url": "https://open.spotify.com/album/2bCF7O4JPKcxtlOw7AtphB"
+      },
+      "artists": [
+        {
+          "name": "Hearts2Hearts",
+          "url": "https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ"
+        }
+      ],
+      "duration_ms": 209671,
+      "name": "STYLE",
+      "url": "https://open.spotify.com/track/5EoV2HmAlkqN1XvsIjOBZZ"
     },
     {
       "added_at": "2026-03-16 09:50:34",
@@ -679,22 +679,6 @@
     {
       "added_at": "2026-03-16 09:50:34",
       "album": {
-        "name": "FOCUS - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/0SVlu6q116wFO1m4EZ088b"
-      },
-      "artists": [
-        {
-          "name": "Hearts2Hearts",
-          "url": "https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ"
-        }
-      ],
-      "duration_ms": 177052,
-      "name": "FOCUS",
-      "url": "https://open.spotify.com/track/6jYiHr12NVKLzn0X7K8aSK"
-    },
-    {
-      "added_at": "2026-03-16 09:50:34",
-      "album": {
         "name": "WE GO UP",
         "url": "https://open.spotify.com/album/2Accppyz0p8XZaSSCIAuDK"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 186973,
       "name": "WE GO UP",
       "url": "https://open.spotify.com/track/49DTiFx70EuJLV7hDsCo6z"
+    },
+    {
+      "added_at": "2026-03-16 09:50:34",
+      "album": {
+        "name": "FOCUS - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/0SVlu6q116wFO1m4EZ088b"
+      },
+      "artists": [
+        {
+          "name": "Hearts2Hearts",
+          "url": "https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ"
+        }
+      ],
+      "duration_ms": 177052,
+      "name": "FOCUS",
+      "url": "https://open.spotify.com/track/6jYiHr12NVKLzn0X7K8aSK"
     },
     {
       "added_at": "2026-03-16 09:50:34",
@@ -919,22 +919,6 @@
     {
       "added_at": "2026-03-16 09:50:34",
       "album": {
-        "name": "Rockstar",
-        "url": "https://open.spotify.com/album/7wIIhHPyaxAHRvdNQQO2G9"
-      },
-      "artists": [
-        {
-          "name": "LISA",
-          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
-        }
-      ],
-      "duration_ms": 138213,
-      "name": "Rockstar",
-      "url": "https://open.spotify.com/track/6vvPecFTmWxDfEJ6cYT1wa"
-    },
-    {
-      "added_at": "2026-03-16 09:50:34",
-      "album": {
         "name": "LOVE SHOT\u2013 The 5th Album Repackage",
         "url": "https://open.spotify.com/album/3r5m8utqRZYJnpep7xxVyq"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 200306,
       "name": "Love Shot",
       "url": "https://open.spotify.com/track/0yB4jrSwN0bFtFRDR5vyMj"
+    },
+    {
+      "added_at": "2026-03-16 09:50:34",
+      "album": {
+        "name": "Rockstar",
+        "url": "https://open.spotify.com/album/7wIIhHPyaxAHRvdNQQO2G9"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        }
+      ],
+      "duration_ms": 138213,
+      "name": "Rockstar",
+      "url": "https://open.spotify.com/track/6vvPecFTmWxDfEJ6cYT1wa"
     },
     {
       "added_at": "2026-03-16 09:50:34",
@@ -1099,18 +1099,22 @@
     {
       "added_at": "2026-03-16 09:50:34",
       "album": {
-        "name": "I ONE",
-        "url": "https://open.spotify.com/album/46slN6OuQu3lRKvfUeIBOW"
+        "name": "PSY 9th",
+        "url": "https://open.spotify.com/album/7hbSWdxliNs551GXtflIZB"
       },
       "artists": [
         {
-          "name": "XLOV",
-          "url": "https://open.spotify.com/artist/2b8aDRZFgUGWiUGchpWsyC"
+          "name": "PSY",
+          "url": "https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh"
+        },
+        {
+          "name": "SUGA",
+          "url": "https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8"
         }
       ],
-      "duration_ms": 174910,
-      "name": "1&Only",
-      "url": "https://open.spotify.com/track/0lOOUAYUITTHYyGWWAqKIr"
+      "duration_ms": 174646,
+      "name": "That That (prod.&feat. SUGA of BTS)",
+      "url": "https://open.spotify.com/track/7GNRUsU3M4XNDDB9xle5Dz"
     },
     {
       "added_at": "2026-03-16 09:50:34",
@@ -1131,6 +1135,22 @@
     {
       "added_at": "2026-03-16 09:50:34",
       "album": {
+        "name": "I ONE",
+        "url": "https://open.spotify.com/album/46slN6OuQu3lRKvfUeIBOW"
+      },
+      "artists": [
+        {
+          "name": "XLOV",
+          "url": "https://open.spotify.com/artist/2b8aDRZFgUGWiUGchpWsyC"
+        }
+      ],
+      "duration_ms": 174910,
+      "name": "1&Only",
+      "url": "https://open.spotify.com/track/0lOOUAYUITTHYyGWWAqKIr"
+    },
+    {
+      "added_at": "2026-03-16 09:50:34",
+      "album": {
         "name": "Formula of Love: O+T=<3",
         "url": "https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq"
       },
@@ -1143,26 +1163,6 @@
       "duration_ms": 198053,
       "name": "The Feels",
       "url": "https://open.spotify.com/track/308Ir17KlNdlrbVLHWhlLe"
-    },
-    {
-      "added_at": "2026-03-16 09:50:34",
-      "album": {
-        "name": "PSY 9th",
-        "url": "https://open.spotify.com/album/7hbSWdxliNs551GXtflIZB"
-      },
-      "artists": [
-        {
-          "name": "PSY",
-          "url": "https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh"
-        },
-        {
-          "name": "SUGA",
-          "url": "https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8"
-        }
-      ],
-      "duration_ms": 174646,
-      "name": "That That (prod.&feat. SUGA of BTS)",
-      "url": "https://open.spotify.com/track/7GNRUsU3M4XNDDB9xle5Dz"
     },
     {
       "added_at": "2026-03-16 09:50:34",
@@ -1295,18 +1295,18 @@
     {
       "added_at": "2026-03-16 09:50:34",
       "album": {
-        "name": "REVIVE+",
-        "url": "https://open.spotify.com/album/3BSpzEq1p4bSWdvrEKtOcF"
+        "name": "HANDS UP",
+        "url": "https://open.spotify.com/album/54jgEDbiF7I2m7kEPl0J6E"
       },
       "artists": [
         {
-          "name": "IVE",
-          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+          "name": "MEOVV",
+          "url": "https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv"
         }
       ],
-      "duration_ms": 194171,
-      "name": "BLACKHOLE",
-      "url": "https://open.spotify.com/track/0ITUAjt6O8FIzGPHNQpvKu"
+      "duration_ms": 192467,
+      "name": "HANDS UP",
+      "url": "https://open.spotify.com/track/2nopDUxom21JoMzFXj9wS0"
     },
     {
       "added_at": "2026-03-16 09:50:34",
@@ -1327,18 +1327,18 @@
     {
       "added_at": "2026-03-16 09:50:34",
       "album": {
-        "name": "HANDS UP",
-        "url": "https://open.spotify.com/album/54jgEDbiF7I2m7kEPl0J6E"
+        "name": "REVIVE+",
+        "url": "https://open.spotify.com/album/3BSpzEq1p4bSWdvrEKtOcF"
       },
       "artists": [
         {
-          "name": "MEOVV",
-          "url": "https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv"
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
         }
       ],
-      "duration_ms": 192467,
-      "name": "HANDS UP",
-      "url": "https://open.spotify.com/track/2nopDUxom21JoMzFXj9wS0"
+      "duration_ms": 194171,
+      "name": "BLACKHOLE",
+      "url": "https://open.spotify.com/track/0ITUAjt6O8FIzGPHNQpvKu"
     },
     {
       "added_at": "2026-03-16 09:50:34",
@@ -1411,26 +1411,6 @@
     {
       "added_at": "2026-03-16 09:50:34",
       "album": {
-        "name": "UNFORGIVEN",
-        "url": "https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT"
-      },
-      "artists": [
-        {
-          "name": "LE SSERAFIM",
-          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
-        },
-        {
-          "name": "Nile Rodgers",
-          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
-        }
-      ],
-      "duration_ms": 182148,
-      "name": "UNFORGIVEN (feat. Nile Rodgers)",
-      "url": "https://open.spotify.com/track/51vRumtqbkNW9wrKfESwfu"
-    },
-    {
-      "added_at": "2026-03-16 09:50:34",
-      "album": {
         "name": "3D (feat. Jack Harlow)",
         "url": "https://open.spotify.com/album/4DKnznk5VbGVvAOYBbQrZJ"
       },
@@ -1447,6 +1427,26 @@
       "duration_ms": 201812,
       "name": "3D (feat. Jack Harlow)",
       "url": "https://open.spotify.com/track/6ehWdR7cGDXnT7aKEASJxE"
+    },
+    {
+      "added_at": "2026-03-16 09:50:34",
+      "album": {
+        "name": "UNFORGIVEN",
+        "url": "https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+        }
+      ],
+      "duration_ms": 182148,
+      "name": "UNFORGIVEN (feat. Nile Rodgers)",
+      "url": "https://open.spotify.com/track/51vRumtqbkNW9wrKfESwfu"
     },
     {
       "added_at": "2026-03-16 09:50:34",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2026-03-16 09:50:34",
       "album": {
-        "name": "The Action",
-        "url": "https://open.spotify.com/album/6NKAKKTVPPE85NIDY9u6QD"
-      },
-      "artists": [
-        {
-          "name": "BOYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "Hollywood Action",
-      "url": "https://open.spotify.com/track/4BtOh0Xwh3DHelPQ14MPVC"
-    },
-    {
-      "added_at": "2026-03-16 09:50:34",
-      "album": {
         "name": "Kill This Love",
         "url": "https://open.spotify.com/album/3qw2vm3uqKT3EIg95wbg83"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 189052,
       "name": "Kill This Love",
       "url": "https://open.spotify.com/track/5GK7eDDTVz7CTge1wJrDQW"
+    },
+    {
+      "added_at": "2026-03-16 09:50:34",
+      "album": {
+        "name": "The Action",
+        "url": "https://open.spotify.com/album/6NKAKKTVPPE85NIDY9u6QD"
+      },
+      "artists": [
+        {
+          "name": "BOYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "Hollywood Action",
+      "url": "https://open.spotify.com/track/4BtOh0Xwh3DHelPQ14MPVC"
     },
     {
       "added_at": "2026-03-16 09:50:34",
@@ -1635,6 +1635,22 @@
     {
       "added_at": "2026-03-16 09:50:34",
       "album": {
+        "name": "LALISA",
+        "url": "https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        }
+      ],
+      "duration_ms": 200689,
+      "name": "LALISA",
+      "url": "https://open.spotify.com/track/7uQZVznj0uQOGC9KhV2Mg6"
+    },
+    {
+      "added_at": "2026-03-16 09:50:34",
+      "album": {
         "name": "SEVENTEEN 4th Album 'Face the Sun'",
         "url": "https://open.spotify.com/album/4lfFgz2rD1irxf7dZhNJht"
       },
@@ -1651,22 +1667,18 @@
     {
       "added_at": "2026-03-16 09:50:34",
       "album": {
-        "name": "Alter Ego",
-        "url": "https://open.spotify.com/album/5eoWRkeplmcCL97afSMJVm"
+        "name": "GOLDEN HOUR : Part.1",
+        "url": "https://open.spotify.com/album/37XJyd3MfDYOhmAaDY5gEU"
       },
       "artists": [
         {
-          "name": "LISA",
-          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+          "name": "ATEEZ",
+          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
         }
       ],
-      "duration_ms": 184155,
-      "name": "FXCK UP THE WORLD (feat. Future)",
-      "url": "https://open.spotify.com/track/4rBRRLgdB9DYJhqA9uVcWt"
+      "duration_ms": 172381,
+      "name": "WORK",
+      "url": "https://open.spotify.com/track/3VHD84tIdyxRTtRc167YSR"
     },
     {
       "added_at": "2026-03-16 09:50:34",
@@ -1683,22 +1695,6 @@
       "duration_ms": 224792,
       "name": "CROOKED",
       "url": "https://open.spotify.com/track/4EwNWRBWdZ6bgvxRHlZ8OO"
-    },
-    {
-      "added_at": "2026-03-16 09:50:34",
-      "album": {
-        "name": "GOLDEN HOUR : Part.1",
-        "url": "https://open.spotify.com/album/37XJyd3MfDYOhmAaDY5gEU"
-      },
-      "artists": [
-        {
-          "name": "ATEEZ",
-          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
-        }
-      ],
-      "duration_ms": 172381,
-      "name": "WORK",
-      "url": "https://open.spotify.com/track/3VHD84tIdyxRTtRc167YSR"
     },
     {
       "added_at": "2026-03-16 09:50:34",

@@ -7121,6 +7121,24 @@
     },
     {
       "album": {
+        "name": "Det h\u00f6gsta ljud jag h\u00f6rt",
+        "url": "https://open.spotify.com/album/3WYtGbzsy5rUpYKf7u9tlY"
+      },
+      "artists": [
+        {
+          "name": "Oskar Linnros",
+          "url": "https://open.spotify.com/artist/3E8Mx37sikkaFoX5DRecLi"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190013,
+      "name": "Pappa kommer inte hem",
+      "url": "https://open.spotify.com/track/5r2KPAo67ayJ5CyDH6uhql"
+    },
+    {
+      "album": {
         "name": "Parents",
         "url": "https://open.spotify.com/album/1rkY67qjeWpzsLp5suW0Y0"
       },
@@ -8762,7 +8780,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 316373,
       "name": "Sunday Love",
       "url": "https://open.spotify.com/track/1gNOwN4roOSWMSF8dUbhCz"

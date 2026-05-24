@@ -1,12 +1,12 @@
 {
   "description": "This is Marcos Witt. The essential tracks, all in one playlist.",
-  "num_followers": 98556,
+  "num_followers": 98559,
   "original_name": "This Is Marcos Witt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ag5LAAAAAACRR++YtKn/L2K3zuy1NLwq",
+  "snapshot_id": "ag+cgAAAAAAOBnQfbrCC9KenwTFQXddR",
   "tracks": [
     {
       "added_at": null,
@@ -727,6 +727,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Eterno",
+        "url": "https://open.spotify.com/album/2ue3bbdkXbjMM892PpXIqf"
+      },
+      "artists": [
+        {
+          "name": "Marco Barrientos",
+          "url": "https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ"
+        },
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        },
+        {
+          "name": "Marcos Vidal",
+          "url": "https://open.spotify.com/artist/03CueHDpVcwXQZHeBlZUkd"
+        }
+      ],
+      "duration_ms": 251000,
+      "name": "A Dios Sea la Gloria",
+      "url": "https://open.spotify.com/track/3AdIDRkzIT38CeqYYqQqdz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Un Mill\u00f3n (Kelly Spyker)",
         "url": "https://open.spotify.com/album/0of9ruVLilhQBR0Z5RSxPi"
       },
@@ -763,22 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Santo R\u00edo de Dios",
-        "url": "https://open.spotify.com/album/197HCxd1moPA2aHnlfPTPM"
-      },
-      "artists": [
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        }
-      ],
-      "duration_ms": 301958,
-      "name": "Santo R\u00edo de Dios",
-      "url": "https://open.spotify.com/track/0SzKBtMu75trcKWGXBsGb6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Homenaje a Jes\u00fas (En Vivo)",
         "url": "https://open.spotify.com/album/0tZHLKTmqIiWnNjOEszm7J"
       },
@@ -791,6 +799,46 @@
       "duration_ms": 406987,
       "name": "Con Tu sangre",
       "url": "https://open.spotify.com/track/2EoIy20ie1pADLLfVzGiOZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eterno",
+        "url": "https://open.spotify.com/album/2ue3bbdkXbjMM892PpXIqf"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        },
+        {
+          "name": "Marco Barrientos",
+          "url": "https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ"
+        },
+        {
+          "name": "Marcos Vidal",
+          "url": "https://open.spotify.com/artist/03CueHDpVcwXQZHeBlZUkd"
+        }
+      ],
+      "duration_ms": 366761,
+      "name": "Cu\u00e1n Grande Es \u00c9l",
+      "url": "https://open.spotify.com/track/3oYM3bftHK06aiuUsdZqWW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Santo R\u00edo de Dios",
+        "url": "https://open.spotify.com/album/197HCxd1moPA2aHnlfPTPM"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "duration_ms": 301958,
+      "name": "Santo R\u00edo de Dios",
+      "url": "https://open.spotify.com/track/0SzKBtMu75trcKWGXBsGb6"
     },
     {
       "added_at": null,
@@ -819,30 +867,6 @@
       "duration_ms": 687091,
       "name": "Coritos (En Vivo)",
       "url": "https://open.spotify.com/track/0t95oHRKMBi5wxaD8RSXC7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Eterno",
-        "url": "https://open.spotify.com/album/2ue3bbdkXbjMM892PpXIqf"
-      },
-      "artists": [
-        {
-          "name": "Marco Barrientos",
-          "url": "https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ"
-        },
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        },
-        {
-          "name": "Marcos Vidal",
-          "url": "https://open.spotify.com/artist/03CueHDpVcwXQZHeBlZUkd"
-        }
-      ],
-      "duration_ms": 251000,
-      "name": "A Dios Sea la Gloria",
-      "url": "https://open.spotify.com/track/3AdIDRkzIT38CeqYYqQqdz"
     },
     {
       "added_at": null,
@@ -906,39 +930,11 @@
         {
           "name": "Marcos Witt",
           "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        },
-        {
-          "name": "Marco Barrientos",
-          "url": "https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ"
-        },
-        {
-          "name": "Marcos Vidal",
-          "url": "https://open.spotify.com/artist/03CueHDpVcwXQZHeBlZUkd"
         }
       ],
-      "duration_ms": 366761,
-      "name": "Cu\u00e1n Grande Es \u00c9l",
-      "url": "https://open.spotify.com/track/3oYM3bftHK06aiuUsdZqWW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Primero Nos Am\u00f3",
-        "url": "https://open.spotify.com/album/3SQgNmmPjB0Vl7DffcD7RW"
-      },
-      "artists": [
-        {
-          "name": "Matthew Hotton",
-          "url": "https://open.spotify.com/artist/62veW3YYWKSHx6sDGnDpNQ"
-        },
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        }
-      ],
-      "duration_ms": 229122,
-      "name": "Primero Nos Am\u00f3",
-      "url": "https://open.spotify.com/track/2J5SBXo9kmS37AQCBj4wiU"
+      "duration_ms": 253134,
+      "name": "Oh Tu Fidelidad",
+      "url": "https://open.spotify.com/track/6RxYwQflwfYpe7ramNDe6g"
     }
   ],
   "unique_name": "This Is Marcos Witt",

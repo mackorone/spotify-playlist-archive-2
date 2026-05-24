@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Lo mejor de la Salsa Cubana! Celia Cruz en portada.",
-  "num_followers": 530944,
+  "num_followers": 531009,
   "original_name": "Salsa Cubana",
   "owner": {
     "name": "Spotify",
@@ -43,8 +43,8 @@
     {
       "added_at": "2025-03-07 06:00:25",
       "album": {
-        "name": "Mi Vida Es Cantar",
-        "url": "https://open.spotify.com/album/2clEi9iP3VkzZzkydAjFDA"
+        "name": "La Negra Tiene Tumbao",
+        "url": "https://open.spotify.com/album/1206SPHFIi9EoXIEiqtHr9"
       },
       "artists": [
         {
@@ -52,9 +52,9 @@
           "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
         }
       ],
-      "duration_ms": 275253,
-      "name": "La Vida Es Un Carnaval",
-      "url": "https://open.spotify.com/track/3Rjc14RoRucHhEWvv3W3xW"
+      "duration_ms": 253346,
+      "name": "La Negra Tiene Tumbao",
+      "url": "https://open.spotify.com/track/2uzCfFYh6tSNFdz14ZIf3N"
     },
     {
       "added_at": "2025-03-07 06:00:25",
@@ -131,8 +131,8 @@
     {
       "added_at": "2025-03-07 06:00:25",
       "album": {
-        "name": "La Negra Tiene Tumbao",
-        "url": "https://open.spotify.com/album/1206SPHFIi9EoXIEiqtHr9"
+        "name": "Mi Vida Es Cantar",
+        "url": "https://open.spotify.com/album/2clEi9iP3VkzZzkydAjFDA"
       },
       "artists": [
         {
@@ -140,9 +140,9 @@
           "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
         }
       ],
-      "duration_ms": 253346,
-      "name": "La Negra Tiene Tumbao",
-      "url": "https://open.spotify.com/track/2uzCfFYh6tSNFdz14ZIf3N"
+      "duration_ms": 275253,
+      "name": "La Vida Es Un Carnaval",
+      "url": "https://open.spotify.com/track/3Rjc14RoRucHhEWvv3W3xW"
     },
     {
       "added_at": "2025-03-07 06:00:25",
@@ -291,22 +291,6 @@
     {
       "added_at": "2025-03-07 06:00:25",
       "album": {
-        "name": "Grandes Exitos Vol. 1",
-        "url": "https://open.spotify.com/album/2qIauTRLruweUbBVZrQkF9"
-      },
-      "artists": [
-        {
-          "name": "Issac Delgado",
-          "url": "https://open.spotify.com/artist/2NssDL7cTwvfQm01xvepBQ"
-        }
-      ],
-      "duration_ms": 378013,
-      "name": "Qu\u00e9 Pasa Loco",
-      "url": "https://open.spotify.com/track/5evx5is4W5iLY7A5zv82Ut"
-    },
-    {
-      "added_at": "2025-03-07 06:00:25",
-      "album": {
         "name": "Que Tiene Que Te Mueve",
         "url": "https://open.spotify.com/album/2Pyrt9J4FuEFe8Ks2rSq6P"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 289219,
       "name": "Ya T\u00fa No Coronas",
       "url": "https://open.spotify.com/track/3rhuPie2HVWD1yJ8NASOCV"
+    },
+    {
+      "added_at": "2025-03-07 06:00:25",
+      "album": {
+        "name": "Grandes Exitos Vol. 1",
+        "url": "https://open.spotify.com/album/2qIauTRLruweUbBVZrQkF9"
+      },
+      "artists": [
+        {
+          "name": "Issac Delgado",
+          "url": "https://open.spotify.com/artist/2NssDL7cTwvfQm01xvepBQ"
+        }
+      ],
+      "duration_ms": 378013,
+      "name": "Qu\u00e9 Pasa Loco",
+      "url": "https://open.spotify.com/track/5evx5is4W5iLY7A5zv82Ut"
     },
     {
       "added_at": "2025-03-07 06:00:25",
@@ -679,22 +679,6 @@
     {
       "added_at": "2025-03-07 06:00:25",
       "album": {
-        "name": "Lo Mejor de la Charanga",
-        "url": "https://open.spotify.com/album/17BU5qXTnzlNo6ETqkBY2S"
-      },
-      "artists": [
-        {
-          "name": "David Calzado y su Charanga Habanera",
-          "url": "https://open.spotify.com/artist/1AqDIElf5SS51c2fpG6WQw"
-        }
-      ],
-      "duration_ms": 324493,
-      "name": "\u00a1Ay! Ay Amor",
-      "url": "https://open.spotify.com/track/5FxtsZEiJqNn9mCl4lAJKp"
-    },
-    {
-      "added_at": "2025-03-07 06:00:25",
-      "album": {
         "name": "Camino al Cielo",
         "url": "https://open.spotify.com/album/72Tes06RKTTqOuImJivudD"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 330666,
       "name": "Havana City",
       "url": "https://open.spotify.com/track/6yYNnSuF2xbCpWq7yPq8KF"
+    },
+    {
+      "added_at": "2025-03-07 06:00:25",
+      "album": {
+        "name": "Lo Mejor de la Charanga",
+        "url": "https://open.spotify.com/album/17BU5qXTnzlNo6ETqkBY2S"
+      },
+      "artists": [
+        {
+          "name": "David Calzado y su Charanga Habanera",
+          "url": "https://open.spotify.com/artist/1AqDIElf5SS51c2fpG6WQw"
+        }
+      ],
+      "duration_ms": 324493,
+      "name": "\u00a1Ay! Ay Amor",
+      "url": "https://open.spotify.com/track/5FxtsZEiJqNn9mCl4lAJKp"
     },
     {
       "added_at": "2025-03-07 06:00:25",
@@ -783,6 +783,26 @@
     {
       "added_at": "2025-03-07 06:00:25",
       "album": {
+        "name": "La Maquinaria (Remasterizado)",
+        "url": "https://open.spotify.com/album/5vc2rHyDKpppqqhzcDWv3R"
+      },
+      "artists": [
+        {
+          "name": "Juan Formell",
+          "url": "https://open.spotify.com/artist/38gBx8oVL6C3AuLTz9ml27"
+        },
+        {
+          "name": "Los Van Van",
+          "url": "https://open.spotify.com/artist/4B5PkQ1wMjo1siTN9yD9Ds"
+        }
+      ],
+      "duration_ms": 313260,
+      "name": "Eso Que Anda - Remasterizado",
+      "url": "https://open.spotify.com/track/0F99ik3jaqJ0y4wWoYlgnT"
+    },
+    {
+      "added_at": "2025-03-07 06:00:25",
+      "album": {
         "name": "Olvida Que Te Olvide",
         "url": "https://open.spotify.com/album/6EwixuIBcRFYSZPoxeS0ng"
       },
@@ -811,26 +831,6 @@
       "duration_ms": 310079,
       "name": "Arriba de la bola",
       "url": "https://open.spotify.com/track/4P2VLqOAJrA3ZoaYWSG0Co"
-    },
-    {
-      "added_at": "2025-03-07 06:00:25",
-      "album": {
-        "name": "La Maquinaria (Remasterizado)",
-        "url": "https://open.spotify.com/album/5vc2rHyDKpppqqhzcDWv3R"
-      },
-      "artists": [
-        {
-          "name": "Juan Formell",
-          "url": "https://open.spotify.com/artist/38gBx8oVL6C3AuLTz9ml27"
-        },
-        {
-          "name": "Los Van Van",
-          "url": "https://open.spotify.com/artist/4B5PkQ1wMjo1siTN9yD9Ds"
-        }
-      ],
-      "duration_ms": 313260,
-      "name": "Eso Que Anda - Remasterizado",
-      "url": "https://open.spotify.com/track/0F99ik3jaqJ0y4wWoYlgnT"
     }
   ],
   "unique_name": "Salsa Cubana",

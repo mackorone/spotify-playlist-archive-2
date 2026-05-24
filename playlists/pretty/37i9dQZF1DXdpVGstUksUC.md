@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 
 > riff\-heavy, fuzzed\-out numbers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 547,795 likes - 100 songs - 10 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 547,804 likes - 100 songs - 10 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,14 +99,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 | 89 | [I'm the Mountain](https://open.spotify.com/track/1e1IiUItCGhp8LvU8aZ213) | [Stoned Jesus](https://open.spotify.com/artist/23lyMLxYNPS15hpVvFNptR) | [Seven Thunders Roar](https://open.spotify.com/album/5KEs1CBh2Keg4OMVsYfaZU) | 16:01 |
 | 90 | [41](https://open.spotify.com/track/6L3qfBftLvlKn1abLExMgp) | [All Them Witches](https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65) | [Nothing as the Ideal](https://open.spotify.com/album/2pP6WdEW09g6PgFVfKjefd) | 5:20 |
 | 91 | [Unemployment Office](https://open.spotify.com/track/4D1lsLazP8nXS36QdwYQ4l) | [Goat](https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP) | [Unemployment Office](https://open.spotify.com/album/3pPCeH1QA2JtRdbd0ggwLk) | 3:24 |
-| 92 | [Leftovers](https://open.spotify.com/track/72hz8jgVY2Lhdq3CJZmlq9) | [Planet of Zeus](https://open.spotify.com/artist/1oxVf6OeX1x5R9VxuHZmFG) | [Macho Libre](https://open.spotify.com/album/3vsrxRQfyEWrTltY43cY1Z) | 3:50 |
-| 93 | [Supa Scoopa and Mighty Scoop](https://open.spotify.com/track/5NyFFIp7NRmqF0wmuJLxqZ) | [Kyuss](https://open.spotify.com/artist/3HCpwNmFp2rvjkdjTs4uxs) | [Welcome to Sky Valley](https://open.spotify.com/album/1npen0QK3TNxZd2hLNzzOj) | 5:56 |
-| 94 | [Ugo](https://open.spotify.com/track/20yNjjGAAROnXoANUjI3JY) | [The Dead Pirates](https://open.spotify.com/artist/64bheP4lw6MvGJBNFKtPgx) | [Ugo](https://open.spotify.com/album/4lMHWDYpYeZqpY4FX4grpB) | 5:58 |
-| 95 | [Uluru Rock](https://open.spotify.com/track/3ahec9rRdvMHQCgG6Ctfdv) | [Earthless](https://open.spotify.com/artist/0nsphA9KDqbJ64duYRoEBi) | [From the Ages](https://open.spotify.com/album/1gD5vrYMJHGaR8LAwah7T2) | 14:08 |
-| 96 | [The Dead Won't Sleep](https://open.spotify.com/track/2qpUakxMrcKT5ZpNfF1H2P) | [Mountain Witch](https://open.spotify.com/artist/5DVeLSoqvtSpVfkWSaTa5y) | [Burning Village](https://open.spotify.com/album/4upmEvHCydc8tcRCSadq5P) | 4:42 |
-| 97 | [Dead Rock Commandos](https://open.spotify.com/track/3mxMNHNWhan1cZByg3WHL4) | [Nightstalker](https://open.spotify.com/artist/4lypnrJxM8l7ZLtLVucEvk) | [Dead Rock Commandos](https://open.spotify.com/album/6EfupU9Irwh51zlDbCicAx) | 3:16 |
-| 98 | [The Regulator](https://open.spotify.com/track/5HjPlgTCOBWjh65fF4aaR9) | [Clutch](https://open.spotify.com/artist/161AC1AVRkIGIMxyj5djFQ) | [Blast Tyrant \(Deluxe Version\)](https://open.spotify.com/album/5KxVwhPQ9d0qp4iuQcAkgR) | 5:25 |
-| 99 | [Tres Brujas](https://open.spotify.com/track/02VH6OxidofPWj9u4t7TKd) | [The Sword](https://open.spotify.com/artist/0q32a3GRCjDxS4EIrC7YVY) | [Warp Riders](https://open.spotify.com/album/0PN6KGJnEzkpTpmM1PP5z7) | 4:09 |
-| 100 | [Dusted](https://open.spotify.com/track/2PyBvM9tPlq2WcaVRLFlvb) | [Gonzalez](https://open.spotify.com/artist/0GWc5zILu7EQ9FjPTuzIKh) | [Gonzalez](https://open.spotify.com/album/3XLoQEGyq5RMRzMv2qiiha) | 3:55 |
+| 92 | [Half Full Glass Of Wine](https://open.spotify.com/track/1hmK18w3PueSkGcMqlfnOX) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [InnerSpeaker \(Collector's Edition\)](https://open.spotify.com/album/19KL6IwPJMECn2wosxguq7) | 4:26 |
+| 93 | [Leftovers](https://open.spotify.com/track/72hz8jgVY2Lhdq3CJZmlq9) | [Planet of Zeus](https://open.spotify.com/artist/1oxVf6OeX1x5R9VxuHZmFG) | [Macho Libre](https://open.spotify.com/album/3vsrxRQfyEWrTltY43cY1Z) | 3:50 |
+| 94 | [Supa Scoopa and Mighty Scoop](https://open.spotify.com/track/5NyFFIp7NRmqF0wmuJLxqZ) | [Kyuss](https://open.spotify.com/artist/3HCpwNmFp2rvjkdjTs4uxs) | [Welcome to Sky Valley](https://open.spotify.com/album/1npen0QK3TNxZd2hLNzzOj) | 5:56 |
+| 95 | [Ugo](https://open.spotify.com/track/20yNjjGAAROnXoANUjI3JY) | [The Dead Pirates](https://open.spotify.com/artist/64bheP4lw6MvGJBNFKtPgx) | [Ugo](https://open.spotify.com/album/4lMHWDYpYeZqpY4FX4grpB) | 5:58 |
+| 96 | [Uluru Rock](https://open.spotify.com/track/3ahec9rRdvMHQCgG6Ctfdv) | [Earthless](https://open.spotify.com/artist/0nsphA9KDqbJ64duYRoEBi) | [From the Ages](https://open.spotify.com/album/1gD5vrYMJHGaR8LAwah7T2) | 14:08 |
+| 97 | [The Dead Won't Sleep](https://open.spotify.com/track/2qpUakxMrcKT5ZpNfF1H2P) | [Mountain Witch](https://open.spotify.com/artist/5DVeLSoqvtSpVfkWSaTa5y) | [Burning Village](https://open.spotify.com/album/4upmEvHCydc8tcRCSadq5P) | 4:42 |
+| 98 | [Dead Rock Commandos](https://open.spotify.com/track/3mxMNHNWhan1cZByg3WHL4) | [Nightstalker](https://open.spotify.com/artist/4lypnrJxM8l7ZLtLVucEvk) | [Dead Rock Commandos](https://open.spotify.com/album/6EfupU9Irwh51zlDbCicAx) | 3:16 |
+| 99 | [The Regulator](https://open.spotify.com/track/5HjPlgTCOBWjh65fF4aaR9) | [Clutch](https://open.spotify.com/artist/161AC1AVRkIGIMxyj5djFQ) | [Blast Tyrant \(Deluxe Version\)](https://open.spotify.com/album/5KxVwhPQ9d0qp4iuQcAkgR) | 5:25 |
+| 100 | [Tres Brujas](https://open.spotify.com/track/02VH6OxidofPWj9u4t7TKd) | [The Sword](https://open.spotify.com/artist/0q32a3GRCjDxS4EIrC7YVY) | [Warp Riders](https://open.spotify.com/album/0PN6KGJnEzkpTpmM1PP5z7) | 4:09 |
 
 Snapshot ID: `AAAAAGTPgd4FUIO56MnEVVuQHg0Ozc1g`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mWZXNs0ArA.md) - [plain]
 
 > 150%
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,935,166 likes - 100 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,935,035 likes - 100 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mWZXNs0ArA.md) - [plain]
 | 22 | [NOT CUTE ANYMORE \(Sped Up ver.\)](https://open.spotify.com/track/6s9dgMPPeXtZrhWJcCPbTX) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [NOT CUTE ANYMORE \(Holiday Remixes\)](https://open.spotify.com/album/2T9oFW02VSegOMJvB5782U) | 1:42 |
 | 23 | [Si No Estás \- Sped Up](https://open.spotify.com/track/61tCa29zrdJ6y2WbgGlHLv) | [Formula Speed](https://open.spotify.com/artist/2nQICMBSbxi0lojZH8WB3b) | [Si No Estás \(Sped Up\)](https://open.spotify.com/album/4G9kPHRXsREM1Gd1feSyk3) | 2:19 |
 | 24 | [One Of The Girls \- Sped Up](https://open.spotify.com/track/4WfGDkm99oLJSAtELYZYEd) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Lily\-Rose Depp](https://open.spotify.com/artist/1pBLC0qVRTB5zVMuteQ9jJ) | [One of the Girls](https://open.spotify.com/album/4T8wBxIvoSRVfoFZzuwOXR) | 3:35 |
-| 25 | [Somebody's Pleasure \- Sped Up](https://open.spotify.com/track/6xjBgCWC0pgNDvJzTz9JcZ) | [Aziz Hedra](https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD) | [Somebody's Pleasure \- Sped Up](https://open.spotify.com/album/1JezApQUnDj1SkWmZy1Sn3) | 3:03 |
-| 26 | [older sped up](https://open.spotify.com/track/75EIDyYc0excxUOzold15R) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [older](https://open.spotify.com/album/1CRkQ0NwUlzM4052uaZbtn) | 2:05 |
+| 25 | [older sped up](https://open.spotify.com/track/75EIDyYc0excxUOzold15R) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [older](https://open.spotify.com/album/1CRkQ0NwUlzM4052uaZbtn) | 2:05 |
+| 26 | [Somebody's Pleasure \- Sped Up](https://open.spotify.com/track/6xjBgCWC0pgNDvJzTz9JcZ) | [Aziz Hedra](https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD) | [Somebody's Pleasure \- Sped Up](https://open.spotify.com/album/1JezApQUnDj1SkWmZy1Sn3) | 3:03 |
 | 27 | [Belong Together \(Sped Up\)](https://open.spotify.com/track/0XguQR7pMvTG1C6UlMPYN4) | [Lucky Socks](https://open.spotify.com/artist/6xzw5aUZjoW4siq4PDB1QC) | [Belong Together \(Sped Up\)](https://open.spotify.com/album/63lyyB4lBh74i32hvTSwWr) | 2:08 |
 | 28 | [Bad Habit \- Sped Up](https://open.spotify.com/track/4i7HqWsN7iJzsXpsW5h1nb) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Bad Habit \(Sped Up\)](https://open.spotify.com/album/5vg6tTa6EHy0c9NNSOSM8T) | 3:11 |
 | 29 | [WASTE \- Sped Up Version](https://open.spotify.com/track/72XhVH8vlREICt6NmT623Q) | [KXLLSWXTCH](https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6) | [WASTE](https://open.spotify.com/album/2TVkegvyb70Hr9D7dQksql) | 1:40 |

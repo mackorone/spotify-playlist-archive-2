@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYf9NHV7zfs7.md) - [plain]
 
 > y nada más que pop ✨✨✨<br/>📷  Alejandro Sanz & Yami Safdie
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,905 likes - 85 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,907 likes - 85 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYf9NHV7zfs7.md) - [plain]
 | 35 | [Motivos](https://open.spotify.com/track/2n8VYWU3mMrziR2ua8leHu) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Abel](https://open.spotify.com/album/3xZOsYi4w4NWEM99Ln2YCW) | 3:01 |
 | 36 | [Quiero Que Me Llames](https://open.spotify.com/track/7jcXQXxo0lvpwg2twqJpqc) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Cabildo y Juramento](https://open.spotify.com/album/5N3ahntioMGhMCkEOuNJUn) | 4:18 |
 | 37 | [Tus Horas Mágicas](https://open.spotify.com/track/1Qqe3XZRmmhqu53349GmCB) | [Tan Bionica](https://open.spotify.com/artist/37MCoi4pcUf9EKsPXeuCqU) | [Hola Mundo](https://open.spotify.com/album/2vOG6M8f7AgiER72EjEdRd) | 2:40 |
-| 38 | [QUEREME](https://open.spotify.com/track/0bhWW1Bve1Ng6kEm8WjiQA) | [LOUTA](https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3), [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [QUEREME](https://open.spotify.com/album/5Z6Tv47n8WpXgNf8ZZLNw7) | 3:14 |
-| 39 | [19 \(feat\. Gustavo Cerati\)](https://open.spotify.com/track/0mRmRzqq9vahlZoODOdLNQ) | [Emmanuel Horvilleur](https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI), [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Mordisco](https://open.spotify.com/album/5rFPwHadhlLDXzNaPcOaYD) | 3:17 |
+| 38 | [19 \(feat\. Gustavo Cerati\)](https://open.spotify.com/track/0mRmRzqq9vahlZoODOdLNQ) | [Emmanuel Horvilleur](https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI), [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Mordisco](https://open.spotify.com/album/5rFPwHadhlLDXzNaPcOaYD) | 3:17 |
+| 39 | [QUEREME](https://open.spotify.com/track/0bhWW1Bve1Ng6kEm8WjiQA) | [LOUTA](https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3), [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [QUEREME](https://open.spotify.com/album/5Z6Tv47n8WpXgNf8ZZLNw7) | 3:14 |
 | 40 | [¿Cómo Pasó? \- Con Joe Jonas](https://open.spotify.com/track/627JVMF8exVnAgia5XqNjh) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM), [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL) | [¿Cómo Pasó? \(Con Joe Jonas\)](https://open.spotify.com/album/5ESnGboIlKYPszlxhqVMyc) | 3:02 |
 | 41 | [Loco en el Desierto](https://open.spotify.com/track/392fECmnYZTQjL97hqEElg) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Conociendo Rusia](https://open.spotify.com/album/1xP7EDeNa518tfq8vxT4cT) | 4:17 |
 | 42 | [Tarde o Temprano](https://open.spotify.com/track/7CJbGTWfMlNYkhk2MgBfde) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [Tarde o Temprano](https://open.spotify.com/album/5MVlQJ6WnmXjzje3ruMLvS) | 3:33 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYf9NHV7zfs7.md) - [plain]
 | 71 | [Si Me Disculpo Ahora](https://open.spotify.com/track/3O9U11gu6g9yzYaOta36fF) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY), [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk) | [Si Me Disculpo Ahora](https://open.spotify.com/album/3qTxPBzM8m1RQdvL4vEZOi) | 2:00 |
 | 72 | [Mientes](https://open.spotify.com/track/34UvFr9iB7R5hojk6iNN1N) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Mientes](https://open.spotify.com/album/4OhPGq0bP1zqgxt8R9vpUX) | 2:40 |
 | 73 | [Las Flores \(feat\. Los Auténticos Decadentes\)](https://open.spotify.com/track/6HOoeolSylzuUcPXLlbPtK) | [Benjamín Amadeo](https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG), [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [Quiromancia](https://open.spotify.com/album/1KBZbjexyRuJi8ke07XmyY) | 3:33 |
-| 74 | [Acaramelao](https://open.spotify.com/track/4fipVdNyG6zx7nxuqHScsy) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Animal Pt\. 1](https://open.spotify.com/album/4nUKyiRK7yKKrR9JslEWzR) | 3:05 |
-| 75 | [NO ME IMPORTA](https://open.spotify.com/track/7gTIqYWwORtQhWcCVakfnD) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [NO ME IMPORTA](https://open.spotify.com/album/0BviN7vBSyv8nlVF8gJAMc) | 2:33 |
+| 74 | [NO ME IMPORTA](https://open.spotify.com/track/7gTIqYWwORtQhWcCVakfnD) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [NO ME IMPORTA](https://open.spotify.com/album/0BviN7vBSyv8nlVF8gJAMc) | 2:33 |
+| 75 | [Acaramelao](https://open.spotify.com/track/4fipVdNyG6zx7nxuqHScsy) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Animal Pt\. 1](https://open.spotify.com/album/4nUKyiRK7yKKrR9JslEWzR) | 3:05 |
 | 76 | [Las Leyes de La Vida](https://open.spotify.com/track/4H2YCpaqZGsKz6Dg809eMS) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh), [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL), [Benja Torres](https://open.spotify.com/artist/2oYfJFUmjFi67Fn6sBIUY4) | [Las Leyes de La Vida](https://open.spotify.com/album/6aKt8vA2aAvFLURhWfsNMz) | 3:19 |
 | 77 | [Detox](https://open.spotify.com/track/0JxrKS6RFWd1Q5mJZzcu9M) | [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [Detox](https://open.spotify.com/album/46UCMDfZuMnarjJigaK9Jk) | 2:47 |
 | 78 | [ESO Y MÁS](https://open.spotify.com/track/3dSIBA6tLeEKjYMPBbytRc) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH), [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [ESO Y MÁS](https://open.spotify.com/album/0u5fdWFGri22N2DYST1yNo) | 2:27 |

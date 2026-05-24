@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3xhrLa.md) - [plain]
 
 > This is Jhené Aiko\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,935 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 245,952 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3xhrLa.md) - [plain]
 | 5 | [While We're Young](https://open.spotify.com/track/4mL59LVbKgOpEACxraGYdr) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Trip](https://open.spotify.com/album/7CAAClnSiXdMibPT1oyl4k) | 3:56 |
 | 6 | [my mine](https://open.spotify.com/track/2B8Y5LaNSEkuB3LA9okArd) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Sailing Soul\(s\)](https://open.spotify.com/album/6zp8MKrhIwSdZojADmIDim) | 4:01 |
 | 7 | [Stay Ready \(What A Life\)](https://open.spotify.com/track/5nkUIVKqOqdpB6ApKgEMkv) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Sail Out](https://open.spotify.com/album/73TNMu44lT0m1h1Nn6Bfiq) | 6:22 |
-| 8 | [From Time](https://open.spotify.com/track/2WC4sK0ryyysQhtDok9Ytr) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Nothing Was The Same \(Deluxe\)](https://open.spotify.com/album/2ZUFSbIkmFkGag000RWOpA) | 5:22 |
-| 9 | [I Know](https://open.spotify.com/track/6rje9f1wRFJDO2iTORw0lH) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Dark Sky Paradise](https://open.spotify.com/album/1j2x7FJXTgUT0X5hZ8TDXE) | 5:19 |
+| 8 | [I Know](https://open.spotify.com/track/6rje9f1wRFJDO2iTORw0lH) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Dark Sky Paradise](https://open.spotify.com/album/1j2x7FJXTgUT0X5hZ8TDXE) | 5:19 |
+| 9 | [From Time](https://open.spotify.com/track/2WC4sK0ryyysQhtDok9Ytr) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Nothing Was The Same \(Deluxe\)](https://open.spotify.com/album/2ZUFSbIkmFkGag000RWOpA) | 5:22 |
 | 10 | [2 seconds \- Bonus](https://open.spotify.com/track/1dnECPoSYg3ni8dr8HhulX) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Sailing Soul\(s\)](https://open.spotify.com/album/6zp8MKrhIwSdZojADmIDim) | 2:32 |
 | 11 | [Bed Peace](https://open.spotify.com/track/5Ck3e6z1bcSCes5gdo0Ddt) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Sail Out](https://open.spotify.com/album/73TNMu44lT0m1h1Nn6Bfiq) | 4:16 |
 | 12 | [B.S\. \(feat\. H.E.R.\)](https://open.spotify.com/track/63wx9vdskaXbYxyDx4oJCZ) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Chilombo](https://open.spotify.com/album/5jlE1zlhT3mEWw0mRpN920) | 3:32 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3xhrLa.md) - [plain]
 | 36 | [Comfort Inn Ending \(Freestyle\)](https://open.spotify.com/track/03mfJFcTsxfldb0DPI4ygj) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Sail Out](https://open.spotify.com/album/73TNMu44lT0m1h1Nn6Bfiq) | 5:21 |
 | 37 | [Above And Beyond](https://open.spotify.com/track/2p5QtNGyfnT5MhQex3WOte) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Chilombo \(Deluxe\)](https://open.spotify.com/album/1JsySWOa2RchsBB2N4313v) | 3:26 |
 | 38 | [Change Your Life \(feat\. Jhené Aiko\)](https://open.spotify.com/track/1YqXXJDSlDHrp66g9as4uo) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [It Was Good Until It Wasn't](https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3) | 3:11 |
-| 39 | [In The Dark \(with Jhené Aiko\)](https://open.spotify.com/track/0zaoWwS8RpE3LSDdmkg8TC) | [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Shang\-Chi and The Legend of The Ten Rings: The Album](https://open.spotify.com/album/2kAqjStKcwlDD59H0llhGC) | 2:41 |
-| 40 | [calm & patient](https://open.spotify.com/track/5FxKXIwFBKb2eWSwJ523sp) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [calm & patient](https://open.spotify.com/album/0lVHZDJCaXbth0EkXrQlFg) | 3:33 |
+| 39 | [calm & patient](https://open.spotify.com/track/5FxKXIwFBKb2eWSwJ523sp) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [calm & patient](https://open.spotify.com/album/0lVHZDJCaXbth0EkXrQlFg) | 3:33 |
+| 40 | [In The Dark \(with Jhené Aiko\)](https://open.spotify.com/track/0zaoWwS8RpE3LSDdmkg8TC) | [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Shang\-Chi and The Legend of The Ten Rings: The Album](https://open.spotify.com/album/2kAqjStKcwlDD59H0llhGC) | 2:41 |
 | 41 | [Can't Hide It \(feat\. Jhené Aiko\)](https://open.spotify.com/track/0jl2VaNUWun3uwy5LPbDyx) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Can't Hide It \(feat\. Jhené Aiko\)](https://open.spotify.com/album/0gIhjFBD2U7TX7O7ZGRsb4) | 2:42 |
 | 42 | [Moments](https://open.spotify.com/track/2nvmHk4JnsZ94mygliLsou) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Trip](https://open.spotify.com/album/7CAAClnSiXdMibPT1oyl4k) | 2:58 |
 | 43 | [One Of Dem Nights \(with Jhené Aiko\)](https://open.spotify.com/track/5CSID3PvGYFa3zNgid3ClE) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [A Gangsta’s Pain](https://open.spotify.com/album/5ffogo3K3fYibGWa93IzUe) | 2:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3xhrLa.md) - [plain]
 | 49 | [The Vapors](https://open.spotify.com/track/7mnJgJhtuBEMRNoERn1OOa) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [Sail Out](https://open.spotify.com/album/73TNMu44lT0m1h1Nn6Bfiq) | 3:30 |
 | 50 | [Drinking and Driving](https://open.spotify.com/track/5LRvd4pqjAoxrRjrqyTizZ) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Saint Heron](https://open.spotify.com/album/4YyiYpHr0nOSNFMOu1T690) | 3:54 |
 
-Snapshot ID: `ag5LAAAAAAC2B3v678smAjng/MbQDwl+`
+Snapshot ID: `ag+cgAAAAADAc33OqPuyLD0ZFSRrX4ID`

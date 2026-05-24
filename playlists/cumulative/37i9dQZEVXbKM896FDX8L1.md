@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Ireland.
 
-2,356 songs - 5 day 20 hr 28 min
+2,357 songs - 5 day 20 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,7 +187,7 @@
 | [Back In Black](https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Back In Black](https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh) | 4:15 | 2024-08-18 | 2024-08-20 |
 | [Back To December \(Taylor's Version\)](https://open.spotify.com/track/79uDOz0zuuWS7HWxzMmTa2) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Speak Now \(Taylor's Version\)](https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt) | 4:54 | 2023-07-08 | 2023-07-15 |
 | [back to friends](https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [back to friends](https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E) | 3:19 | 2025-03-24 | 2025-08-24 |
-| [back to friends](https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [I Barely Know Her](https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA) | 3:19 | 2025-08-23 |  |
+| [back to friends](https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [I Barely Know Her](https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA) | 3:19 | 2025-08-23 | 2026-05-24 |
 | [BACK TO ME](https://open.spotify.com/track/0Tgm7wkLb0AfAHAZDschvD) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 1](https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK) | 4:55 | 2024-02-12 | 2024-02-16 |
 | [BACK TO ME](https://open.spotify.com/track/1icgLGTpX2fQXKRe4D7w2b) | [¥$](https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 1](https://open.spotify.com/album/30zwjSQEodaUXCn11nmiVF) | 4:55 | 2024-02-15 | 2024-02-19 |
 | [BACKD00R \(feat\. Kendrick Lamar & Jhené Aiko\)](https://open.spotify.com/track/0rNgWFQJtfttOYIHfDOHCg) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:10 | 2025-03-15 | 2025-03-17 |
@@ -2007,6 +2007,7 @@
 | [The Christmas Song \(Merry Christmas To You\)](https://open.spotify.com/track/4PS1e8f2LvuTFgUs1Cn3ON) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Christmas Song \(Expanded Edition\)](https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4) | 3:12 | 2021-11-28 | 2023-12-17 |
 | [The Code](https://open.spotify.com/track/1EjIXKhNHI00ZLMRpS8iz8) | [Nemo](https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N) | [The Code](https://open.spotify.com/album/30euLVaktPWmngBsGDUYdA) | 3:00 | 2024-05-13 | 2024-05-21 |
 | [The Color Violet](https://open.spotify.com/track/3azJifCSqg9fRij2yKIbWz) | [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Alone At Prom](https://open.spotify.com/album/5Gm2XKBgnlzd6qTi7LE1z2) | 3:46 | 2022-12-29 | 2023-03-26 |
+| [the cure](https://open.spotify.com/track/4EoJ151oQ5jY48z4RhSE96) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [the cure](https://open.spotify.com/album/6zme2NwcaBxbn3mWOcMY8y) | 4:57 | 2026-05-23 |  |
 | [The Dance \- Live](https://open.spotify.com/track/5YryTlvhs7CLMpA0zjXiVB) | [Garth Brooks](https://open.spotify.com/artist/4BclNkZtAUq1YrYNzye3N7) | [The Kings of Country \(Live\)](https://open.spotify.com/album/6OsLBmkRu2Bwu7ZmFTt7yT) | 6:55 | 2022-09-10 | 2022-09-15 |
 | [The Days \- NOTION Remix](https://open.spotify.com/track/2FAZskT9yRjp2Oow9szJD8) | [Chrystal](https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK), [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM) | [The Days \(NOTION Remix\)](https://open.spotify.com/album/15gT6ikjvzrlIxQ5eTpqLJ) | 3:53 | 2025-01-07 | 2025-07-16 |
 | [The Dead Dance](https://open.spotify.com/track/5pobX21I8uZdHM8YOWItU7) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [MAYHEM](https://open.spotify.com/album/3ARwSvDQv2OHYnLeDC3Lxi) | 3:48 | 2025-09-11 | 2025-09-15 |

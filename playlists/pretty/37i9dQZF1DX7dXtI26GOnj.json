@@ -1,6 +1,6 @@
 {
   "description": "Todo o calor latino est\u00e1 aqui! \ud83d\udd25  foto: Rauw Alejandro",
-  "num_followers": 242311,
+  "num_followers": 242367,
   "original_name": "Calorcito",
   "owner": {
     "name": "Spotify",
@@ -343,6 +343,22 @@
     {
       "added_at": "2026-04-24 03:01:48",
       "album": {
+        "name": "Columbia",
+        "url": "https://open.spotify.com/album/07kam1Dks7GIucbSelfvyX"
+      },
+      "artists": [
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Columbia",
+      "url": "https://open.spotify.com/track/6XbtvPmIpyCbjuT0e8cQtp"
+    },
+    {
+      "added_at": "2026-04-24 03:01:48",
+      "album": {
         "name": "Choka Choka",
         "url": "https://open.spotify.com/album/0ei3ArgXpn3uFZwxs90ySw"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 131562,
       "name": "Choka Choka",
       "url": "https://open.spotify.com/track/7CBWajKPyBA0GFtxmTzLBV"
-    },
-    {
-      "added_at": "2026-04-24 03:01:48",
-      "album": {
-        "name": "Columbia",
-        "url": "https://open.spotify.com/album/07kam1Dks7GIucbSelfvyX"
-      },
-      "artists": [
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Columbia",
-      "url": "https://open.spotify.com/track/6XbtvPmIpyCbjuT0e8cQtp"
     },
     {
       "added_at": "2026-04-24 03:01:48",

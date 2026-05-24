@@ -4,7 +4,7 @@
 
 > Driving songs acoustic style! Sit back and enjoy the ride!
 
-326 songs - 16 hr 41 min
+327 songs - 16 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Champagne Supernova \- Acoustic](https://open.spotify.com/track/4u4a98HYVpQjhF66sRNMZK) | [Blame Jones](https://open.spotify.com/artist/4FCvYJ06Q8c4AScPG501KY) | [Covers Vol\. 1 \(Acoustic\)](https://open.spotify.com/album/2iKra1NUEayECHIBkJ2sz1) | 2:43 | 2019-10-13 |  |
 | [Chasing Cars](https://open.spotify.com/track/2EDYchd8hhwAOWKGQxJoro) | [Sleeping At Last](https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g) | [Chasing Cars](https://open.spotify.com/album/09dM9UZeA5l3Hyd5cGe6Td) | 4:00 | 2019-10-13 |  |
 | [Chasing Cars \- Guitar Version](https://open.spotify.com/track/3MFhuWNDqMlchTcaETCuXE) | [Bailey Rushlow](https://open.spotify.com/artist/1tTQcokfKcsCxZaHF2pIhw) | [Chasing Cars \(Guitar Version\)](https://open.spotify.com/album/560AI7HQ6rO90NIVZqGeWR) | 4:00 | 2025-07-26 | 2026-05-09 |
+| [Closer \- Acoustic](https://open.spotify.com/track/60XVw6Ryn7x988CTkkwAzE) | [Callum J Wright](https://open.spotify.com/artist/47KiS7rrEXolpFicX0aTGe) | [Closer \(Acoustic\)](https://open.spotify.com/album/2OQkWCErdlrVsi54x4vj2y) | 2:24 | 2026-05-23 |  |
 | [Complicated \- Acoustic](https://open.spotify.com/track/0qUr4Vj5WkpqZtiZoFBZI2) | [Dan Berk](https://open.spotify.com/artist/2kfmnXYxa9yh0RkUBPjSwZ) | [Complicated \(Acoustic\)](https://open.spotify.com/album/6OZu8Khy4sBZKaKcpEnlPY) | 3:34 | 2023-02-24 |  |
 | [Crazy Love \- Acoustic](https://open.spotify.com/track/5OnYymymXaoxjTEEOjqcae) | [Laurence O’Brien](https://open.spotify.com/artist/71rzE2Y74EDwYYSf1J8osl) | [Crazy Love \(Acoustic\)](https://open.spotify.com/album/7hKQ20375hBvYSKqoLpjG4) | 3:07 | 2022-09-03 | 2023-01-28 |
 | [Creep](https://open.spotify.com/track/7BRwh1bemr9rFMDeTbcy5S) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [Creep](https://open.spotify.com/album/2XbaujqgmPJn92LT1wbKRe) | 3:54 | 2019-10-13 |  |
@@ -320,7 +321,7 @@
 | [You Got It](https://open.spotify.com/track/3K7DuG4PxLhbSy0llSTjFn) | [Sands of Summer](https://open.spotify.com/artist/43vjXOqFOUcodqUtWIRptz) | [You Got It](https://open.spotify.com/album/3jvCXY5yUX6XXWMEuFEl1q) | 2:21 | 2025-06-27 |  |
 | [You Got It \- Acoustic](https://open.spotify.com/track/5a6e3orRKXQa8DKDpK1Rvk) | [Hannah's Yard](https://open.spotify.com/artist/08qkAEn1wetskAwcPrcOPf) | [You Got It \(Acoustic\)](https://open.spotify.com/album/7hfuFxdCaXDCJe0hFfqye7) | 3:24 | 2024-02-02 | 2025-02-10 |
 | [You Gotta Be \- Acoustic](https://open.spotify.com/track/4RlBEdL5DOSslHLSUhKJn6) | [Mateo Oxley](https://open.spotify.com/artist/1BJ81QRILzVFcTt8fmqN9r) | [You Gotta Be \(Acoustic\)](https://open.spotify.com/album/3pR8DUQuR6uy44pYmFGw52) | 2:28 | 2019-10-13 | 2024-04-26 |
-| [You Make My Dreams \(Come True\)](https://open.spotify.com/track/2FXh77yuXHFlRdPugP51mV) | [Callum J Wright](https://open.spotify.com/artist/47KiS7rrEXolpFicX0aTGe) | [You Make My Dreams \(Come True\)](https://open.spotify.com/album/7qYldplOdOMyQTWZIJwPXH) | 2:55 | 2025-05-31 |  |
+| [You Make My Dreams \(Come True\)](https://open.spotify.com/track/2FXh77yuXHFlRdPugP51mV) | [Callum J Wright](https://open.spotify.com/artist/47KiS7rrEXolpFicX0aTGe) | [You Make My Dreams \(Come True\)](https://open.spotify.com/album/7qYldplOdOMyQTWZIJwPXH) | 2:55 | 2025-05-31 | 2026-05-24 |
 | [You Make My Dreams \(Come True\)](https://open.spotify.com/track/6KXMkR8qN90Jc8Wx3nMXmH) | [Natalie Johnson](https://open.spotify.com/artist/4J0sVz614kdcEHl3MkKHej) | [You Make My Dreams \(Come True\)](https://open.spotify.com/album/3Ot2DtvXftRZm6MzpaVBCY) | 2:34 | 2026-02-20 |  |
 | [You Make My Dreams \(Come True\) \- Acoustic](https://open.spotify.com/track/5eVWuD9WNdT1ucIjoSgzNi) | [Hannah's Yard](https://open.spotify.com/artist/08qkAEn1wetskAwcPrcOPf) | [You Make My Dreams \(Come True\) \[Acoustic\]](https://open.spotify.com/album/5XoPbu9rDKMcqh5CYKm5ZI) | 2:30 | 2024-04-12 | 2024-11-10 |
 | [You Make My Dreams \- Acoustic](https://open.spotify.com/track/31nV3lkDVnJlfHntOkIhpD) | [Alex Francis](https://open.spotify.com/artist/0aJPoUxg99e5iOzIdWxpUa) | [Foundations Acoustic](https://open.spotify.com/album/0uSBXq04gTbVFm1WgFQrei) | 3:25 | 2019-10-13 | 2024-03-04 |

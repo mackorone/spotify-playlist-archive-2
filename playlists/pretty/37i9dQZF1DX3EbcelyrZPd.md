@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 
 > Get your fill of vibes straight out of Tanzania\. Cover: Zuchu
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,092 likes - 59 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,147 likes - 59 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 | 58 | [No Stress](https://open.spotify.com/track/1qwAufkn1HNoDTLNAxItdv) | [Nandy](https://open.spotify.com/artist/4BAqXsmyKo72kZuG4tkv4m) | [No Stress](https://open.spotify.com/album/4Jx3PlbkvB1Rs25h36gELZ) | 2:36 |
 | 59 | [GOD DESIGN](https://open.spotify.com/track/4Su04rfy8UL4yDkIT6gFgG) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [GOD DESIGN](https://open.spotify.com/album/0CCDzLrKHUXqYls1J7mlRp) | 3:35 |
 
-Snapshot ID: `AAAAABUmuZOBj5QQbc/rpZWp2U85exGA`
+Snapshot ID: `AAAAAHisrYv9FmhNUUbzq4kNGHJ+Or1q`

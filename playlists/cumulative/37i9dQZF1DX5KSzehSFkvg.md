@@ -4,7 +4,7 @@
 
 > 🇲🇦 أحسن أغاني البوب المغربي
 
-215 songs - 11 hr 31 min
+216 songs - 11 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,7 +141,7 @@
 | [Mab9itich Chérie](https://open.spotify.com/track/3gEy9hoCGd5OjufRwlyPCh) | [Mehdi Mozayine](https://open.spotify.com/artist/6oq0gQN2p7AYmdP1Rc1lDk) | [Mab9itich Chérie](https://open.spotify.com/album/2kHcDM7QiYmdQnuLoEnOaR) | 4:05 | 2025-01-01 |  |
 | [Madaz Elik](https://open.spotify.com/track/55EkV250cnGFcGMg8ECLDu) | [Mounim Slimani](https://open.spotify.com/artist/2UaKdyrJWdpkRl9KbwcN38) | [Madaz Elik](https://open.spotify.com/album/3CQxn4QE00AdaSfDgs4vAd) | 3:11 | 2026-02-23 |  |
 | [Magdar](https://open.spotify.com/track/4vT286Zu3aHYW96N76joB7) | [Zouhair Bahaoui](https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6) | [Magdar](https://open.spotify.com/album/2BgCJlo2EDx4w5uxTP3hJC) | 3:12 | 2024-05-18 | 2025-11-22 |
-| [Mahboul Ana](https://open.spotify.com/track/6bQftLbIxlg6uMXEL77h1a) | [Lazaro](https://open.spotify.com/artist/471CLfthkGwHrnegKOcTbx) | [Mahboul Ana](https://open.spotify.com/album/4gsrCRVyVyzxQnaA6ZCi3K) | 3:05 | 2024-07-29 |  |
+| [Mahboul Ana](https://open.spotify.com/track/6bQftLbIxlg6uMXEL77h1a) | [Lazaro](https://open.spotify.com/artist/471CLfthkGwHrnegKOcTbx) | [Mahboul Ana](https://open.spotify.com/album/4gsrCRVyVyzxQnaA6ZCi3K) | 3:05 | 2024-07-29 | 2026-05-24 |
 | [Mahboul Ana](https://open.spotify.com/track/2YmbOhmRPDZ5XD5l9jROln) | [Lazaro](https://open.spotify.com/artist/471CLfthkGwHrnegKOcTbx) | [Mahboul Ana](https://open.spotify.com/album/5S0X8OEdaDeVvvH5EoSlxY) | 3:05 | 2024-07-23 | 2024-07-30 |
 | [MAHBOULA](https://open.spotify.com/track/4AS0ncb4OzzAjwvsgWu9XV) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [MAHBOULA](https://open.spotify.com/album/6xxm174FrG6Mni52k9UFWL) | 2:49 | 2025-06-03 |  |
 | [Majnoun](https://open.spotify.com/track/1bwxIPCP0sX7p3Svj3ZCak) | [Ayoub Anbaoui](https://open.spotify.com/artist/2XgBaGUId4RuYzvXYEKikZ) | [Majnoun](https://open.spotify.com/album/0GS1y6yGaY2OkoGdKSC0hq) | 2:48 | 2026-05-01 |  |
@@ -217,6 +217,7 @@
 | [Zidini](https://open.spotify.com/track/1b7xtXSt71WhXrL9khIlCK) | [Dunia Batma](https://open.spotify.com/artist/3GCRdccrBJ7DKUQvNMHQmU) | [Zidini](https://open.spotify.com/album/6ezbHGVbpC41VtjbLJn4Vs) | 3:20 | 2023-07-07 | 2024-07-10 |
 | [Zina Zina](https://open.spotify.com/track/0vm4E4FMXOn72D0RYNTAaM) | [Bayzii](https://open.spotify.com/artist/248jAcp7aN3rtO4Kq5rUsU) | [Zina Zina](https://open.spotify.com/album/0M2SI231gHU8QtA31csehN) | 3:07 | 2025-06-18 |  |
 | [Ziyech](https://open.spotify.com/track/5DXSYFR5cMESPBM9W2c18r) | [Aminux](https://open.spotify.com/artist/4BgFW9XAMsJMkMZQJ6lGD9) | [AURA](https://open.spotify.com/album/0BA2ApY3nX3QIpzcCE2aYb) | 3:27 | 2025-11-21 |  |
+| [ZOMBIE](https://open.spotify.com/track/4YpKnKyw5tg3t2lezIEp3P) | [Lazaro](https://open.spotify.com/artist/471CLfthkGwHrnegKOcTbx) | [ZOMBIE](https://open.spotify.com/album/2M5qbTJoasDJgZpOW7fvXa) | 2:58 | 2026-05-23 |  |
 | [Ça Y Est](https://open.spotify.com/track/2qKRy47q3fucOEUDnyloPY) | [Ibtissam Tiskat](https://open.spotify.com/artist/4l1fokkgiLZQg1qx0kkKrm) | [Ça Y Est](https://open.spotify.com/album/1zKsSi1Sxf2hnrPhVyzUCN) | 2:51 | 2026-05-07 |  |
 | [حبيبي](https://open.spotify.com/track/24l2OcwxLfv2qmlD5oUfuf) | [Cravata](https://open.spotify.com/artist/2zWCw43oRZ74LlMb14JWVR) | [حبيبي](https://open.spotify.com/album/3PM8U6jiewiRInoRFVmqrx) | 2:36 | 2023-07-07 | 2024-08-29 |
 | [سيد الغرام](https://open.spotify.com/track/2b8Pq6m3rGXd7muyBjTh1G) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl), [Asma Lmnawar](https://open.spotify.com/artist/3P3OCB20KqjdkpIP8fnTq3) | [سيد الغرام](https://open.spotify.com/album/57LencHPTBtLmvICFiOwB6) | 3:56 | 2023-07-07 | 2024-02-25 |

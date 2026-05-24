@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1niegE.md) - [plain]
 
 > This is RENEE\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,070 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,078 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Nunca Tristes \(Me Vale Madre\)](https://open.spotify.com/track/3LWay44eeYFEh27Gf1UA7J) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Nunca Tristes \(Me Vale Madre\)](https://open.spotify.com/album/5YoNvYemEqvFVdWicpjPe8) | 3:24 |
 | 2 | [Sed de Acción](https://open.spotify.com/track/5w4pPQbuBmMPGil1gwIOtX) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [R](https://open.spotify.com/album/4OBFNwkfAQtAdkO35DxYnR) | 3:30 |
-| 3 | [Enferma Despedida](https://open.spotify.com/track/48WuFR4lmQPfSRpxvvHiGp) | [Jacinto](https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Enferma Despedida](https://open.spotify.com/album/0ZlbvOSPxMkOHxAOEN0lZ2) | 2:32 |
-| 4 | [Quiero Quedarme para Siempre](https://open.spotify.com/track/2XEDYl5q9pfbNBxkI0p85L) | [La La Love You](https://open.spotify.com/artist/5Q30fhTc0Sl0Q4C5dOjhhQ), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Blockbuster](https://open.spotify.com/album/0t2VEsrGPdJxAzPU4A6dB2) | 3:09 |
+| 3 | [Quiero Quedarme para Siempre](https://open.spotify.com/track/2XEDYl5q9pfbNBxkI0p85L) | [La La Love You](https://open.spotify.com/artist/5Q30fhTc0Sl0Q4C5dOjhhQ), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Blockbuster](https://open.spotify.com/album/0t2VEsrGPdJxAzPU4A6dB2) | 3:09 |
+| 4 | [Enferma Despedida](https://open.spotify.com/track/48WuFR4lmQPfSRpxvvHiGp) | [Jacinto](https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Enferma Despedida](https://open.spotify.com/album/0ZlbvOSPxMkOHxAOEN0lZ2) | 2:32 |
 | 5 | [Playlist](https://open.spotify.com/track/3KPJ4CtYpCRWt69gYaeQaH) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [NMDQH](https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x) | 3:01 |
 | 6 | [Extraños de Nuevo](https://open.spotify.com/track/1HJ0lo09YjPsvlCLBiCmtF) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [R](https://open.spotify.com/album/4OBFNwkfAQtAdkO35DxYnR) | 3:15 |
 | 7 | [Intenciones](https://open.spotify.com/track/5S9qL73dCtClMT4yUsiO8u) | [Mario Puglia](https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Intenciones](https://open.spotify.com/album/6UInVEPu90rc9kk8ijJux3) | 2:43 |
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1niegE.md) - [plain]
 | 39 | [Vivir En Silencio](https://open.spotify.com/track/1sOMXJwAWXmZ2pWrSoYfwt) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Breve Espacio](https://open.spotify.com/album/5vFD7c9Bg99gIX4MaKR3bw) | 3:54 |
 | 40 | [mucho texto](https://open.spotify.com/track/52bveGvtg6PtlEVxtxH5T4) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [mucho texto](https://open.spotify.com/album/5yL8fe4bb8GLP3lCUHmWba) | 3:21 |
 | 41 | [2D](https://open.spotify.com/track/2ANRO7dJSKAVdtDOOT8VJi) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Canto Tu Historia \(VOL\. 1\)](https://open.spotify.com/album/5GDSnouaflpMgpevTSYnKz) | 3:18 |
-| 42 | [VHS](https://open.spotify.com/track/3OrVqG7CoKW0RIFeEPLPSY) | [MiSHNRZ](https://open.spotify.com/artist/3tbJ4v64S8EcwVSkoFIwvl), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Retrofuturismo](https://open.spotify.com/album/2UD0pOeSTiEqLcZNVoX36O) | 2:56 |
+| 42 | [Tiki Tai](https://open.spotify.com/track/3Ss1uzI0Eh1pAvVOTIixR5) | [Amuna](https://open.spotify.com/artist/7gtLIOTPwX9CdZttm7ETVt), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Tiki Tai](https://open.spotify.com/album/2oDU6B51AlXlUm5DkoDcUu) | 2:32 |
 | 43 | [La Buena Lección](https://open.spotify.com/track/6kKmJ38xO1j0YoSLqg4e1r) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Breve Espacio](https://open.spotify.com/album/5vFD7c9Bg99gIX4MaKR3bw) | 4:50 |
-| 44 | [Tiki Tai](https://open.spotify.com/track/3Ss1uzI0Eh1pAvVOTIixR5) | [Amuna](https://open.spotify.com/artist/7gtLIOTPwX9CdZttm7ETVt), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Tiki Tai](https://open.spotify.com/album/2oDU6B51AlXlUm5DkoDcUu) | 2:32 |
+| 44 | [VHS](https://open.spotify.com/track/3OrVqG7CoKW0RIFeEPLPSY) | [MiSHNRZ](https://open.spotify.com/artist/3tbJ4v64S8EcwVSkoFIwvl), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Retrofuturismo](https://open.spotify.com/album/2UD0pOeSTiEqLcZNVoX36O) | 2:56 |
 | 45 | [Perfecto](https://open.spotify.com/track/13ONDA0L1dvjt4j8mPU6g8) | [Estilo Sin Limite](https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Perfecto](https://open.spotify.com/album/5k6QNIKLvjMn4nfu3OV7Na) | 2:32 |
 | 46 | [FENGSHUI](https://open.spotify.com/track/164CZjnTexbOglCCrao8jo) | [Maximiliano Calvo](https://open.spotify.com/artist/0KMw0OgYPWlF3hgQGY0VTT), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [FENGSHUI](https://open.spotify.com/album/4GyPYw8WpzPg3ZB9Daieyh) | 2:42 |
 | 47 | [Esperándote](https://open.spotify.com/track/39nSeEjpm1bIMM275pSaef) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Breve Espacio](https://open.spotify.com/album/5vFD7c9Bg99gIX4MaKR3bw) | 3:46 |
-| 48 | [Corazón De Judas](https://open.spotify.com/track/1p0OkY6apio6nHZnkijT7O) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Tributo A Una Leyenda Humberto Pabón \(Vol\. 1\)](https://open.spotify.com/album/5PXqQ8FZPV5T3Q8BpmFEk8) | 3:52 |
-| 49 | [AHORA O NUNCA](https://open.spotify.com/track/1XYiRky7xG3HRAks3edgco) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [AHORA O NUNCA](https://open.spotify.com/album/1nDeZFMZNqKmUZmjzT9AKn) | 2:36 |
+| 48 | [AHORA O NUNCA](https://open.spotify.com/track/1XYiRky7xG3HRAks3edgco) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [AHORA O NUNCA](https://open.spotify.com/album/1nDeZFMZNqKmUZmjzT9AKn) | 2:36 |
+| 49 | [Corazón De Judas](https://open.spotify.com/track/1p0OkY6apio6nHZnkijT7O) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Tributo A Una Leyenda Humberto Pabón \(Vol\. 1\)](https://open.spotify.com/album/5PXqQ8FZPV5T3Q8BpmFEk8) | 3:52 |
 | 50 | [Alta Joya](https://open.spotify.com/track/1mcW8W3MAKP1daibEnOlRv) | [George Rhoads](https://open.spotify.com/artist/0UMwp0Y8VxfNpdMALNnd5y), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Alta Joya](https://open.spotify.com/album/2WH2HCRoqqL7Vag4wRsSva) | 3:21 |
 
-Snapshot ID: `ag5LAAAAAADz/YTQF5Fs1ma5kCfckzKq`
+Snapshot ID: `ag+cgAAAAAD2Wq4nLFyeHym7u8nvARA3`

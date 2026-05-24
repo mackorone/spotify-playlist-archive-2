@@ -1426,7 +1426,7 @@
       ],
       "date_added": "2026-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-19",
+      "date_removed": null,
       "duration_ms": 258296,
       "name": "Beat It",
       "url": "https://open.spotify.com/track/3BovdzfaX4jb5KFQwoPfAw"
@@ -5748,6 +5748,28 @@
       "duration_ms": 297000,
       "name": "Jail",
       "url": "https://open.spotify.com/track/42ZrMq4BKsWDrrbMnMRYaK"
+    },
+    {
+      "album": {
+        "name": "Jamaican (Bam Bam)",
+        "url": "https://open.spotify.com/album/5ZX3Zdp20YCGI4ruAfZlMj"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "SOLTO (FR)",
+          "url": "https://open.spotify.com/artist/0F3tUZeb9dLNEpxCpzEBQt"
+        }
+      ],
+      "date_added": "2026-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156393,
+      "name": "Jamaican (Bam Bam)",
+      "url": "https://open.spotify.com/track/7e4zDInS6tA2jwzphvs2Ay"
     },
     {
       "album": {
@@ -10581,6 +10603,24 @@
     },
     {
       "album": {
+        "name": "the cure",
+        "url": "https://open.spotify.com/album/6zme2NwcaBxbn3mWOcMY8y"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2026-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297090,
+      "name": "the cure",
+      "url": "https://open.spotify.com/track/4EoJ151oQ5jY48z4RhSE96"
+    },
+    {
+      "album": {
         "name": "The Emptiness Machine",
         "url": "https://open.spotify.com/album/6W0Gabv5f3ugnckc6YgfJQ"
       },
@@ -12304,7 +12344,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 202408,
       "name": "\u05d0\u05d1\u05d0",
       "url": "https://open.spotify.com/track/3DTHsQnfuQVESYAYv0fybQ"
@@ -14186,7 +14226,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 197687,
       "name": "\u05d0\u05e0\u05d9 \u05d7\u05d5\u05d6\u05e8",
       "url": "https://open.spotify.com/track/0D9A15ZzO3VzLIYqOfm6QB"
@@ -17226,7 +17266,7 @@
       ],
       "date_added": "2025-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-12",
+      "date_removed": null,
       "duration_ms": 233232,
       "name": "\u05d4\u05e9\u05dd \u05d9\u05e8\u05d7\u05dd",
       "url": "https://open.spotify.com/track/3XSSUNQJHy7GTWtSHHITq5"
@@ -17442,7 +17482,7 @@
       ],
       "date_added": "2025-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 181340,
       "name": "\u05d5\u05d0\u05df \u05d3\u05d0\u05dd",
       "url": "https://open.spotify.com/track/3gdSZLWC594njZXkwWh7lQ"
@@ -19834,7 +19874,7 @@
       ],
       "date_added": "2026-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 211071,
       "name": "\u05dc\u05d0 \u05ea\u05d9\u05e7\u05d7 \u05dc\u05d9 \u05d0\u05ea \u05d4\u05d0\u05d5\u05e9\u05e8",
       "url": "https://open.spotify.com/track/6O06JhXqGKnz3fGa0v7vyC"
@@ -21602,7 +21642,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 247135,
       "name": "\u05de\u05d7\u05d6\u05d9\u05e7 \u05dc\u05da \u05d0\u05ea \u05d4\u05d9\u05d3",
       "url": "https://open.spotify.com/track/3IQz49JrOqwhWoSF62zMgW"
@@ -25546,6 +25586,24 @@
       "duration_ms": 212800,
       "name": "\u05e7\u05d5\u05e7\u05d5\u05e8\u05d9\u05e7\u05d5 (\u05d0\u05dc \u05ea\u05d3\u05dc\u05d9\u05e7\u05d5 \u05d0\u05d5\u05ea\u05d9)",
       "url": "https://open.spotify.com/track/4NBMvQX5yM05Mgznqw0zXR"
+    },
+    {
+      "album": {
+        "name": "\u05e7\u05d7 \u05d0\u05d5\u05ea\u05d9 \u05dc\u05ea\u05d0\u05d9\u05dc\u05e0\u05d3",
+        "url": "https://open.spotify.com/album/2Eg18KQt1RZYeA84Z496o7"
+      },
+      "artists": [
+        {
+          "name": "Avi Aburomi",
+          "url": "https://open.spotify.com/artist/6vAJpFtiQ7xPtkArtCnHfr"
+        }
+      ],
+      "date_added": "2026-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169218,
+      "name": "\u05e7\u05d7 \u05d0\u05d5\u05ea\u05d9 \u05dc\u05ea\u05d0\u05d9\u05dc\u05e0\u05d3",
+      "url": "https://open.spotify.com/track/7qzKiAkASRzrb9EXZ0HXcN"
     },
     {
       "album": {

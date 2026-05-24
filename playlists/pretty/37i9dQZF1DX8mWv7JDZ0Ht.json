@@ -1,6 +1,6 @@
 {
   "description": "Novidades e hits do pop nacional pra te deixar mais leve. Foto:  Ana Laura Lopes",
-  "num_followers": 434822,
+  "num_followers": 434816,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
@@ -83,6 +83,22 @@
     {
       "added_at": "2026-05-22 03:00:38",
       "album": {
+        "name": "FOR\u00c7A DA JUVENTUDE",
+        "url": "https://open.spotify.com/album/1rjWs2gqsxkKVP9LIs2Luo"
+      },
+      "artists": [
+        {
+          "name": "Os Garotin",
+          "url": "https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP"
+        }
+      ],
+      "duration_ms": 154377,
+      "name": "baby n\u00e3o v\u00e1",
+      "url": "https://open.spotify.com/track/2SzNw9aqzATNvYAU0bTBBh"
+    },
+    {
+      "added_at": "2026-05-22 03:00:38",
+      "album": {
         "name": "Abalo Psicol\u00f3gico",
         "url": "https://open.spotify.com/album/7j5jhsKOquyTJcKA3cgACX"
       },
@@ -99,22 +115,6 @@
       "duration_ms": 128971,
       "name": "Abalo Psicol\u00f3gico",
       "url": "https://open.spotify.com/track/5SX0VdH95qpDfUOmDUQ5pj"
-    },
-    {
-      "added_at": "2026-05-22 03:00:38",
-      "album": {
-        "name": "FOR\u00c7A DA JUVENTUDE",
-        "url": "https://open.spotify.com/album/1rjWs2gqsxkKVP9LIs2Luo"
-      },
-      "artists": [
-        {
-          "name": "Os Garotin",
-          "url": "https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP"
-        }
-      ],
-      "duration_ms": 154377,
-      "name": "baby n\u00e3o v\u00e1",
-      "url": "https://open.spotify.com/track/2SzNw9aqzATNvYAU0bTBBh"
     },
     {
       "added_at": "2026-05-22 03:00:38",
@@ -171,22 +171,6 @@
     {
       "added_at": "2026-05-22 03:00:38",
       "album": {
-        "name": "Eu Vejo Luz Em Maior Propor\u00e7\u00e3o Do Que Eu Vejo A Escurid\u00e3o",
-        "url": "https://open.spotify.com/album/1fMl4mHJsmccGHebkNAdeV"
-      },
-      "artists": [
-        {
-          "name": "Gilsons",
-          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
-        }
-      ],
-      "duration_ms": 208607,
-      "name": "Semeia",
-      "url": "https://open.spotify.com/track/2gcSyG9JxCdb4gIDtbbtCG"
-    },
-    {
-      "added_at": "2026-05-22 03:00:38",
-      "album": {
         "name": "FOR\u00c7A DA JUVENTUDE",
         "url": "https://open.spotify.com/album/1rjWs2gqsxkKVP9LIs2Luo"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 198703,
       "name": "soul brasileiro",
       "url": "https://open.spotify.com/track/0iWJQJ8xkCNqVyCWOG6hRM"
+    },
+    {
+      "added_at": "2026-05-22 03:00:38",
+      "album": {
+        "name": "Eu Vejo Luz Em Maior Propor\u00e7\u00e3o Do Que Eu Vejo A Escurid\u00e3o",
+        "url": "https://open.spotify.com/album/1fMl4mHJsmccGHebkNAdeV"
+      },
+      "artists": [
+        {
+          "name": "Gilsons",
+          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
+        }
+      ],
+      "duration_ms": 208607,
+      "name": "Semeia",
+      "url": "https://open.spotify.com/track/2gcSyG9JxCdb4gIDtbbtCG"
     },
     {
       "added_at": "2026-05-22 03:00:38",
@@ -363,6 +363,26 @@
     {
       "added_at": "2026-05-22 03:00:38",
       "album": {
+        "name": "Algo Me Diz",
+        "url": "https://open.spotify.com/album/6thHdBENSsVg9O5elJfW8I"
+      },
+      "artists": [
+        {
+          "name": "Balara",
+          "url": "https://open.spotify.com/artist/3jPnaM0ap5aM9xEe16hjgp"
+        },
+        {
+          "name": "Jorge Vercillo",
+          "url": "https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs"
+        }
+      ],
+      "duration_ms": 210612,
+      "name": "Algo Me Diz",
+      "url": "https://open.spotify.com/track/0I2Qjv3OpCJ8kGN7emPUtz"
+    },
+    {
+      "added_at": "2026-05-22 03:00:38",
+      "album": {
         "name": "Emaranhei",
         "url": "https://open.spotify.com/album/75Q84Fp94DPjOYcxTtKUTR"
       },
@@ -435,42 +455,6 @@
     {
       "added_at": "2026-05-22 03:00:38",
       "album": {
-        "name": "Branca",
-        "url": "https://open.spotify.com/album/2JcdU4HBsoWM1jeLJQkNGt"
-      },
-      "artists": [
-        {
-          "name": "Zecca Gomes",
-          "url": "https://open.spotify.com/artist/1A0oFS7Q2ARtU0vQOQgoZZ"
-        },
-        {
-          "name": "Tianastacia",
-          "url": "https://open.spotify.com/artist/3ucYi2JRu3j12lHbfqms9u"
-        }
-      ],
-      "duration_ms": 168051,
-      "name": "Branca",
-      "url": "https://open.spotify.com/track/5VXwwVcGmd1kiG1hC5tan6"
-    },
-    {
-      "added_at": "2026-05-22 03:00:38",
-      "album": {
-        "name": "Desassossego",
-        "url": "https://open.spotify.com/album/7n2v4Z2PxSF3CRKhkM4PPy"
-      },
-      "artists": [
-        {
-          "name": "Mariana Volker",
-          "url": "https://open.spotify.com/artist/0L8NDdn0V7vaqvUyibKLmq"
-        }
-      ],
-      "duration_ms": 176409,
-      "name": "Desassossego",
-      "url": "https://open.spotify.com/track/069xpAmTWaJphQGAn2N7hE"
-    },
-    {
-      "added_at": "2026-05-22 03:00:38",
-      "album": {
         "name": "dois brilhantes",
         "url": "https://open.spotify.com/album/1jpHvCEDg2UnrNbn3AElPc"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 203311,
       "name": "dois brilhantes",
       "url": "https://open.spotify.com/track/0xWu1OB0Enu0ijsQevX9FF"
+    },
+    {
+      "added_at": "2026-05-22 03:00:38",
+      "album": {
+        "name": "Desassossego",
+        "url": "https://open.spotify.com/album/7n2v4Z2PxSF3CRKhkM4PPy"
+      },
+      "artists": [
+        {
+          "name": "Mariana Volker",
+          "url": "https://open.spotify.com/artist/0L8NDdn0V7vaqvUyibKLmq"
+        }
+      ],
+      "duration_ms": 176409,
+      "name": "Desassossego",
+      "url": "https://open.spotify.com/track/069xpAmTWaJphQGAn2N7hE"
     },
     {
       "added_at": "2026-05-22 03:00:38",
@@ -899,6 +899,22 @@
     {
       "added_at": "2026-05-22 03:00:38",
       "album": {
+        "name": "Quando me ver passar",
+        "url": "https://open.spotify.com/album/2xUiJzdSoTEB16fD117fR7"
+      },
+      "artists": [
+        {
+          "name": "Bryan Behr",
+          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
+        }
+      ],
+      "duration_ms": 134753,
+      "name": "Quando me ver passar",
+      "url": "https://open.spotify.com/track/2CUIL76u0Nh37k1hcIwC4P"
+    },
+    {
+      "added_at": "2026-05-22 03:00:38",
+      "album": {
         "name": "colete \u00e0 prova de m\u00e1goas",
         "url": "https://open.spotify.com/album/0tdjBQv7Dqoprj1Aht7WNR"
       },
@@ -911,6 +927,22 @@
       "duration_ms": 197389,
       "name": "colete \u00e0 prova de m\u00e1goas",
       "url": "https://open.spotify.com/track/5HTiDmpUXDEDzijCWwCuVN"
+    },
+    {
+      "added_at": "2026-05-22 03:00:38",
+      "album": {
+        "name": "Vest\u00edgios",
+        "url": "https://open.spotify.com/album/22GNKVFgtKmIwjyMU0WRwE"
+      },
+      "artists": [
+        {
+          "name": "Pe Lu",
+          "url": "https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD"
+        }
+      ],
+      "duration_ms": 153714,
+      "name": "Vest\u00edgios",
+      "url": "https://open.spotify.com/track/6NbNukziHssaBCFssf7vIk"
     },
     {
       "added_at": "2026-05-22 03:00:38",
@@ -931,22 +963,6 @@
       "duration_ms": 186363,
       "name": "Barco de Papel",
       "url": "https://open.spotify.com/track/5HJ5FVhNpijyeYxFvGYeXG"
-    },
-    {
-      "added_at": "2026-05-22 03:00:38",
-      "album": {
-        "name": "Vest\u00edgios",
-        "url": "https://open.spotify.com/album/22GNKVFgtKmIwjyMU0WRwE"
-      },
-      "artists": [
-        {
-          "name": "Pe Lu",
-          "url": "https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD"
-        }
-      ],
-      "duration_ms": 153714,
-      "name": "Vest\u00edgios",
-      "url": "https://open.spotify.com/track/6NbNukziHssaBCFssf7vIk"
     },
     {
       "added_at": "2026-05-22 03:00:38",
@@ -999,6 +1015,26 @@
       "duration_ms": 190320,
       "name": "coisas triviais",
       "url": "https://open.spotify.com/track/4pAJAuvwTtyeUkGDgX4vqo"
+    },
+    {
+      "added_at": "2026-05-22 03:00:38",
+      "album": {
+        "name": "Branca",
+        "url": "https://open.spotify.com/album/2JcdU4HBsoWM1jeLJQkNGt"
+      },
+      "artists": [
+        {
+          "name": "Zecca Gomes",
+          "url": "https://open.spotify.com/artist/1A0oFS7Q2ARtU0vQOQgoZZ"
+        },
+        {
+          "name": "Tianastacia",
+          "url": "https://open.spotify.com/artist/3ucYi2JRu3j12lHbfqms9u"
+        }
+      ],
+      "duration_ms": 168051,
+      "name": "Branca",
+      "url": "https://open.spotify.com/track/5VXwwVcGmd1kiG1hC5tan6"
     },
     {
       "added_at": "2026-05-22 03:00:38",
@@ -1203,22 +1239,6 @@
     {
       "added_at": "2026-05-22 03:00:38",
       "album": {
-        "name": "Aventura",
-        "url": "https://open.spotify.com/album/6lL0eADSuVdFVOJU1MqnUj"
-      },
-      "artists": [
-        {
-          "name": "GABI LINS",
-          "url": "https://open.spotify.com/artist/6AntiZOHajTmgPhdLGKYNm"
-        }
-      ],
-      "duration_ms": 164522,
-      "name": "Aventura",
-      "url": "https://open.spotify.com/track/4QGKXCioYPLw98pJ8Tmoi6"
-    },
-    {
-      "added_at": "2026-05-22 03:00:38",
-      "album": {
         "name": "Coisa de Alma",
         "url": "https://open.spotify.com/album/2ve6z3W7HC4kYKI08PonwD"
       },
@@ -1239,6 +1259,22 @@
     {
       "added_at": "2026-05-22 03:00:38",
       "album": {
+        "name": "Aventura",
+        "url": "https://open.spotify.com/album/6lL0eADSuVdFVOJU1MqnUj"
+      },
+      "artists": [
+        {
+          "name": "GABI LINS",
+          "url": "https://open.spotify.com/artist/6AntiZOHajTmgPhdLGKYNm"
+        }
+      ],
+      "duration_ms": 164522,
+      "name": "Aventura",
+      "url": "https://open.spotify.com/track/4QGKXCioYPLw98pJ8Tmoi6"
+    },
+    {
+      "added_at": "2026-05-22 03:00:38",
+      "album": {
         "name": "Daqui pra sempre",
         "url": "https://open.spotify.com/album/6z895LsvePQNR3ADZkiO0N"
       },
@@ -1255,38 +1291,6 @@
       "duration_ms": 160230,
       "name": "Daqui pra sempre",
       "url": "https://open.spotify.com/track/4V9Q1RjlC24rM5ts80S76Q"
-    },
-    {
-      "added_at": "2026-05-22 03:00:38",
-      "album": {
-        "name": "N\u00e3o \u00e9 t\u00e3o ruim",
-        "url": "https://open.spotify.com/album/3fah8mi3tUSMKetWiJSjRx"
-      },
-      "artists": [
-        {
-          "name": "Geovanna Jainy",
-          "url": "https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "N\u00e3o \u00e9 t\u00e3o ruim",
-      "url": "https://open.spotify.com/track/5eUT9JCc19zYLXH3Ukk27A"
-    },
-    {
-      "added_at": "2026-05-22 03:00:38",
-      "album": {
-        "name": "S\u00e3o Paulo \u00c9 uma M\u00e3e",
-        "url": "https://open.spotify.com/album/5xBV6oU16k5ilDsjn6eAJB"
-      },
-      "artists": [
-        {
-          "name": "Magi",
-          "url": "https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy"
-        }
-      ],
-      "duration_ms": 131466,
-      "name": "S\u00e3o Paulo \u00c9 uma M\u00e3e",
-      "url": "https://open.spotify.com/track/1oocuM8DsztweVZaMUQv01"
     }
   ],
   "unique_name": "Pop Leve",

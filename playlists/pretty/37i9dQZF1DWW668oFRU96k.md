@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: Kygo x Khalid x Gryffin
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,055 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,057 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,7 +87,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 77 | [Listen To Me](https://open.spotify.com/track/3fPXv60Pp9jLGYrjd1RoNd) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [CIEL.](https://open.spotify.com/artist/7k3cId1oZqUxRM5QgjMKJU), [Radio Cargo](https://open.spotify.com/artist/2DlWR4iwXq2J7SUpqPdQbE) | [Listen To Me](https://open.spotify.com/album/0lJlw16y8q0tfo9P6uZu5w) | 2:42 |
 | 78 | [Me, Myself and The Night](https://open.spotify.com/track/7mKy65CyVCmawYMw3JJGPQ) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Me, Myself and The Night](https://open.spotify.com/album/7bSQts9CfkAh6MNQ7BkBjy) | 4:11 |
 | 79 | [Our Time](https://open.spotify.com/track/3MUFebos5drIwrUHxUorhP) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Amél](https://open.spotify.com/artist/6OHd6Z5k9ZmBJ91oqeSpDG) | [Our Time](https://open.spotify.com/album/1R0CAZwCU6rRvMsmaerCjz) | 2:41 |
-| 80 | [Broken Angel \(This is Lonely Club\)](https://open.spotify.com/track/56PCJsbp8S0MTSMEbeGnnr) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Lonely Club](https://open.spotify.com/artist/1tPJP9nWEM6mQK295zgp2K), [Arash](https://open.spotify.com/artist/7hQmAXAzWI6D350VTgkKTG) | [Quantum Beats](https://open.spotify.com/album/6awmWsdndqljxHc1nzUTdu) | 2:51 |
+| 80 | [Broken Angel \(This is Lonely Club\)](https://open.spotify.com/track/56PCJsbp8S0MTSMEbeGnnr) | [Lonely Club](https://open.spotify.com/artist/1tPJP9nWEM6mQK295zgp2K), [Arash](https://open.spotify.com/artist/7hQmAXAzWI6D350VTgkKTG) | [Quantum Beats](https://open.spotify.com/album/6awmWsdndqljxHc1nzUTdu) | 2:51 |
 | 81 | [Inside Our Hearts](https://open.spotify.com/track/7JxHc4FNqdIzIJyrpqYAdH) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Shaun Farrugia](https://open.spotify.com/artist/4ukUyiEoZi8QxibfjuUsEw) | [Inside Our Hearts](https://open.spotify.com/album/1pUTJrfFFnXTWsyKe1Ixyh) | 3:54 |
 | 82 | [Ok Without You 2026](https://open.spotify.com/track/7wmdXoyXiA8Pn6UVOTNG5l) | [Klaas](https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif) | [Ok Without You 2026](https://open.spotify.com/album/3TiQVNoB6eg8AFIykIEzmj) | 2:50 |
 | 83 | [Walking On A Dream \- BLOND:ISH Remix](https://open.spotify.com/track/5oOKU4RiAMyqUoOKICb92j) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c), [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR) | [Walking On A Dream \(BLOND:ISH Remix\)](https://open.spotify.com/album/4Fzl9coophjAezEV0v7tRu) | 3:11 |

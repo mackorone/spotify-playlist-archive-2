@@ -1523,6 +1523,24 @@
     },
     {
       "album": {
+        "name": "Illinois Speed Press",
+        "url": "https://open.spotify.com/album/6B18D8NOyAPkNabk4k5Aav"
+      },
+      "artists": [
+        {
+          "name": "Illinois Speed Press",
+          "url": "https://open.spotify.com/artist/2PAoh4IMpWBjSOozxs6uaC"
+        }
+      ],
+      "date_added": "2026-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206097,
+      "name": "Overture",
+      "url": "https://open.spotify.com/track/54mkEjtwbCxboaylazkznr"
+    },
+    {
+      "album": {
         "name": "Not An Apology",
         "url": "https://open.spotify.com/album/1ukpF3eKewIjkKGpu70sKm"
       },
@@ -2222,6 +2240,36 @@
       "duration_ms": 264501,
       "name": "WE ARE",
       "url": "https://open.spotify.com/track/3CAUdHOsgijdnNsjO7o7Hd"
+    },
+    {
+      "album": {
+        "name": "We Won't Go Back",
+        "url": "https://open.spotify.com/album/7n63ImuROhx4hwIggHNmuS"
+      },
+      "artists": [
+        {
+          "name": "MILCK",
+          "url": "https://open.spotify.com/artist/62lirbb6qJs4VOGpdCNHK8"
+        },
+        {
+          "name": "Autumn Rowe",
+          "url": "https://open.spotify.com/artist/3gCzQpKxnHhJgOYpZRcEfH"
+        },
+        {
+          "name": "BIIANCO",
+          "url": "https://open.spotify.com/artist/4Axsf7QVnPabbam5y6NwLt"
+        },
+        {
+          "name": "Ani DiFranco",
+          "url": "https://open.spotify.com/artist/0AiTwNtYX8m4uhfU7rJ8RD"
+        }
+      ],
+      "date_added": "2026-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200080,
+      "name": "We Won't Go Back",
+      "url": "https://open.spotify.com/track/3DjA2raB5EUtlSCEpvHNlw"
     },
     {
       "album": {

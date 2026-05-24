@@ -4,7 +4,7 @@
 
 > Grab your coffee and ease into the day with this light blend.
 
-795 songs - 1 day 23 hr 39 min
+796 songs - 1 day 23 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -346,7 +346,7 @@
 | [I Don't Care](https://open.spotify.com/track/2PFhevKRsRROz9DjQWBcYV) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2), [James Droll](https://open.spotify.com/artist/3lPtB78D5puSWQ7ltAafQw) | [I Don't Care](https://open.spotify.com/album/7Fy6WDol97Dr74xDgZxqu1) | 3:45 | 2022-07-29 | 2023-03-26 |
 | [I Don't Care](https://open.spotify.com/track/3jMkipjhnGYHr2exDtTvhb) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2), [James Droll](https://open.spotify.com/artist/3lPtB78D5puSWQ7ltAafQw) | [I Don't Care](https://open.spotify.com/album/0AJw7CAvU6zYaXQOxZxVP6) | 3:45 | 2022-07-22 | 2022-09-22 |
 | [I Don't Care](https://open.spotify.com/track/3qR417vBrNd4Lf01eMVwWB) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2), [James Droll](https://open.spotify.com/artist/3lPtB78D5puSWQ7ltAafQw) | [I Don't Care](https://open.spotify.com/album/17GLkeQ4HyRAWfTDjzEKYP) | 3:45 | 2021-12-17 | 2022-04-19 |
-| [I Don't Wanna Dance \- Piano Version](https://open.spotify.com/track/4BXcGFt1btBUsOYzERvlG6) | [Ellysse Mason](https://open.spotify.com/artist/1lXWojioTTf8G8tOOxP9XN) | [I Don't Wanna Dance \(Piano Version\)](https://open.spotify.com/album/18rblVvDEpB7th3zIx23X5) | 4:15 | 2022-01-24 |  |
+| [I Don't Wanna Dance \- Piano Version](https://open.spotify.com/track/4BXcGFt1btBUsOYzERvlG6) | [Ellysse Mason](https://open.spotify.com/artist/1lXWojioTTf8G8tOOxP9XN) | [I Don't Wanna Dance \(Piano Version\)](https://open.spotify.com/album/18rblVvDEpB7th3zIx23X5) | 4:15 | 2022-01-24 | 2026-05-24 |
 | [I Don't Want to Go](https://open.spotify.com/track/6v72fV6Nao5E4MOoQ8ZvzD) | [Ryan Montbleau](https://open.spotify.com/artist/5Q2ZtOZ0vOdtcjGDOq6ZQc) | [Water](https://open.spotify.com/album/1F4rsdXzl1jda8iHIkXU8w) | 5:04 | 2021-12-17 |  |
 | [I Hope You Change Your Mind](https://open.spotify.com/track/46uPN63Jgen8ohoiBXFTAa) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [I Hope You Change Your Mind](https://open.spotify.com/album/5wnyz8qup6D4XuVysaiz8S) | 2:52 | 2021-12-17 | 2022-07-29 |
 | [I Know You](https://open.spotify.com/track/71BWZa1liIRyUiuJ3MB66o) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Faye Webster](https://open.spotify.com/album/0pEHMpnX1jA44pzhW3n0JB) | 4:11 | 2023-07-19 |  |
@@ -703,6 +703,7 @@
 | [The Right Thing Is Hard To Do](https://open.spotify.com/track/6mBg5msp0A14K7VfbTY272) | [Lightning Bug](https://open.spotify.com/artist/14Fd3BXAV8ipHmfQoGNIj4) | [A Color of the Sky](https://open.spotify.com/album/5XgsP1RlwCnPU8f3NuoY2K) | 3:46 | 2022-01-24 | 2022-04-21 |
 | [The Trouble with Wanting](https://open.spotify.com/track/0a1Jael2mnrkLTyPetixjh) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Canary / The Trouble with Wanting](https://open.spotify.com/album/20bxQ8Jv6hHhc53KFApRuL) | 3:55 | 2021-12-17 | 2022-06-17 |
 | [The Trouble with Wanting](https://open.spotify.com/track/5ZUObJNpVt2l9GogUSfALc) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Front Porch](https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu) | 3:55 | 2022-07-22 | 2024-04-19 |
+| [the way you do](https://open.spotify.com/track/2Sgz95fxgQYxDAS2yKJLGL) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [valley of my prime](https://open.spotify.com/album/1UnbjUKJUVDSnRkaf2rnnc) | 3:27 | 2026-05-22 |  |
 | [The Weather \(acoustic\-ish\)](https://open.spotify.com/track/7nECboGB4x2fYyf7lPyg7C) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) | [The Weather \(acoustic\-ish & Gospel Reprise\)](https://open.spotify.com/album/2ZDv2HIeCXvCPd9cyi0thH) | 3:10 | 2021-12-17 |  |
 | [The Wire](https://open.spotify.com/track/2fvgn1xCyf0VQ5o33ZCoc6) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [The Wire](https://open.spotify.com/album/0HpxT1VFSvCSNXrk3976Qc) | 3:00 | 2021-12-17 |  |
 | [The Wire \- Alternate Version](https://open.spotify.com/track/0ZwGSa87JHR86PJa3Fzgru) | [Patrick Droney](https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3) | [The Wire \(Alternate Version\)](https://open.spotify.com/album/1Qfqbbbx5FqvbqJkSO3DkY) | 3:41 | 2022-01-24 |  |

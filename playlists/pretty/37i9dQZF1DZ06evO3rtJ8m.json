@@ -1,12 +1,12 @@
 {
   "description": "This is Big Thief. The essential tracks, all in one playlist.",
-  "num_followers": 45692,
+  "num_followers": 45705,
   "original_name": "This Is Big Thief",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ag5LAAAAAAAuPNYGvTxXmtSrRL6Ifpy0",
+  "snapshot_id": "ag+cgAAAAAB7MfPwnFtMiyNac7nfpjP6",
   "tracks": [
     {
       "added_at": null,
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
         }
       ],
-      "duration_ms": 330106,
-      "name": "Mary",
-      "url": "https://open.spotify.com/track/67bAFRTpTgZU00FUUEhvKE"
+      "duration_ms": 184600,
+      "name": "Pretty Things",
+      "url": "https://open.spotify.com/track/31AqPCVn9DPDiq4IfBU6WG"
     },
     {
       "added_at": null,
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
         }
       ],
-      "duration_ms": 184600,
-      "name": "Pretty Things",
-      "url": "https://open.spotify.com/track/31AqPCVn9DPDiq4IfBU6WG"
+      "duration_ms": 330106,
+      "name": "Mary",
+      "url": "https://open.spotify.com/track/67bAFRTpTgZU00FUUEhvKE"
     },
     {
       "added_at": null,

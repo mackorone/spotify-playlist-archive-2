@@ -1,6 +1,6 @@
 {
   "description": "You bring the ingredients, we bring the flavor. Enjoy la cena...",
-  "num_followers": 437745,
+  "num_followers": 437767,
   "original_name": "Latin Dinner",
   "owner": {
     "name": "Spotify",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2026-02-19 18:04:12",
       "album": {
-        "name": "LADAMA",
-        "url": "https://open.spotify.com/album/0ZS5LZAEaWFcZEpdqwwub6"
-      },
-      "artists": [
-        {
-          "name": "LADAMA",
-          "url": "https://open.spotify.com/artist/5CA1T9fayw9qeF1wPDO9E9"
-        }
-      ],
-      "duration_ms": 226405,
-      "name": "Porro Maracatu",
-      "url": "https://open.spotify.com/track/3Fj0USmSNBcOwu4oeFXtZu"
-    },
-    {
-      "added_at": "2026-02-19 18:04:12",
-      "album": {
         "name": "Desde Lejos",
         "url": "https://open.spotify.com/album/6G6B4oku3ddF4m8yNCMyMK"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 270000,
       "name": "Desde Lejos",
       "url": "https://open.spotify.com/track/4HCnxcNcKPDa1Mxq4DmCMO"
+    },
+    {
+      "added_at": "2026-02-19 18:04:12",
+      "album": {
+        "name": "LADAMA",
+        "url": "https://open.spotify.com/album/0ZS5LZAEaWFcZEpdqwwub6"
+      },
+      "artists": [
+        {
+          "name": "LADAMA",
+          "url": "https://open.spotify.com/artist/5CA1T9fayw9qeF1wPDO9E9"
+        }
+      ],
+      "duration_ms": 226405,
+      "name": "Porro Maracatu",
+      "url": "https://open.spotify.com/track/3Fj0USmSNBcOwu4oeFXtZu"
     },
     {
       "added_at": "2026-02-19 18:04:12",
@@ -1771,6 +1771,26 @@
     {
       "added_at": "2026-02-19 18:04:12",
       "album": {
+        "name": "The Cosmic Game",
+        "url": "https://open.spotify.com/album/3x31ejKrrjJWXGd6ftaSNu"
+      },
+      "artists": [
+        {
+          "name": "Thievery Corporation",
+          "url": "https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3"
+        },
+        {
+          "name": "Gigi Rezende",
+          "url": "https://open.spotify.com/artist/53bWJ73lWFUdo0w02irB8s"
+        }
+      ],
+      "duration_ms": 221493,
+      "name": "Pela Janela (Through the Window)",
+      "url": "https://open.spotify.com/track/0FaYHxGCGmAzcQdXeIjmZJ"
+    },
+    {
+      "added_at": "2026-02-19 18:04:12",
+      "album": {
         "name": "Game On",
         "url": "https://open.spotify.com/album/1wy96LLU4IDVi8axtkZsVG"
       },
@@ -1783,22 +1803,6 @@
       "duration_ms": 301925,
       "name": "Game On",
       "url": "https://open.spotify.com/track/5Sbjx80XMMbhjH22iGUbAK"
-    },
-    {
-      "added_at": "2026-02-19 18:04:12",
-      "album": {
-        "name": "M\u00fasica Sin Tiempo",
-        "url": "https://open.spotify.com/album/1glGF4NuNqwLeLeEh1VFA9"
-      },
-      "artists": [
-        {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
-        }
-      ],
-      "duration_ms": 284020,
-      "name": "M\u00fasica Sin Tiempo",
-      "url": "https://open.spotify.com/track/6bZtdmZVoBKSr5IEgfPklT"
     }
   ],
   "unique_name": "Latin Dinner",

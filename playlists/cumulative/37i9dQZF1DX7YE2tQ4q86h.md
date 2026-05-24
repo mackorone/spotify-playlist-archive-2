@@ -4,7 +4,7 @@
 
 > Melanie Martinez is having a main pop girl emergency 🆘
 
-1,708 songs - 3 day 13 hr 41 min
+1,710 songs - 3 day 13 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -242,6 +242,7 @@
 | [Burned CD](https://open.spotify.com/track/4hrgM9jSZD2sBFjYrmRG2v) | [NEEA RIVER](https://open.spotify.com/artist/5jemNidRiClsst6gsciQzw) | [Burned CD](https://open.spotify.com/album/4ahG5cFm51LbAXm6O5VHGp) | 2:55 | 2023-10-06 | 2023-11-25 |
 | [Busy Girl](https://open.spotify.com/track/3CtAgFwiMPdKaX7caXldRV) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [HEAT](https://open.spotify.com/album/5xBJBxfQFowtJ5yq7MnXMG) | 2:22 | 2024-06-14 | 2025-03-22 |
 | [BUTTERFLY](https://open.spotify.com/track/6a8KhlDiDzF6Jr5Vkru8Gz) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [BUTTERFLY](https://open.spotify.com/album/2H5ewofU3ee5FjeUBJ6FQy) | 4:25 | 2025-02-21 | 2025-04-12 |
+| [Butterfly Feelings](https://open.spotify.com/track/7HJdIi4rzQqj5LkUQfZWRb) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Butterfly Feelings](https://open.spotify.com/album/7awlJuOXZ3LIf35souKNDu) | 2:35 | 2026-05-23 |  |
 | [C\*nt \- DJ\_Ge5und\#eit Edit](https://open.spotify.com/track/4crXKKdCDUYW3fW1UbPpIA) | [FILLY](https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f), [DJ LUVHUNTAH](https://open.spotify.com/artist/2GuGKV3bZJDQz0ILqbvBrB), [DJ\_Ge5Und\#Eit](https://open.spotify.com/artist/36M0kH4mvj6gsakQo7jMa6) | [C\*nt \(DJ\_Ge5und\#eit Edit\)](https://open.spotify.com/album/0DVoU4K3tMhheP0R31fwQa) | 3:30 | 2024-02-23 | 2024-05-11 |
 | [Call on Me](https://open.spotify.com/track/6NAeCHRuzqURCsUpYTQbjK) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Call on Me](https://open.spotify.com/album/32cDkCyVQFR8M4QtatNhGU) | 2:50 | 2023-03-31 | 2023-06-03 |
 | [Call On Me \(with Tove Lo\)](https://open.spotify.com/track/6jpOvC9iucgAnJm7vwyXm6) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Call On Me \(with Tove Lo\)](https://open.spotify.com/album/4f2spuorkr4IOoI5AXCzLi) | 3:16 | 2022-10-14 | 2023-03-04 |
@@ -1159,6 +1160,7 @@
 | [Padam Padam](https://open.spotify.com/track/3k0DJq2HdWJqnqor8NX0ac) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Padam Padam](https://open.spotify.com/album/7vH3G0c3n1WsgTJHBmZxdV) | 2:46 | 2023-05-19 | 2023-09-23 |
 | [PARADISE](https://open.spotify.com/track/15vFR8puc7KZ1YvTWP23A7) | [Madison Rose](https://open.spotify.com/artist/4XgL05GiIZGJev3EwBnbsE) | [PARADISE](https://open.spotify.com/album/5B5bNotk4KQ4MlwZfzBtXM) | 2:44 | 2024-05-24 | 2024-08-17 |
 | [Paradise](https://open.spotify.com/track/3ol5EIFVcL4XneXKXjQpfx) | [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Paradise](https://open.spotify.com/album/7Ddr2KE2jdn3QRvcuFGDE3) | 3:17 | 2023-06-16 | 2023-09-09 |
+| [PARTIES IN LA](https://open.spotify.com/track/7ilxKzPgTaF5P8N8BBlKFW) | [XKYLAR](https://open.spotify.com/artist/0wel071ci7nqjnNT0ywKWq) | [PARTIES IN LA](https://open.spotify.com/album/67DRtDC05EXXlanrnThwvw) | 2:28 | 2026-05-23 |  |
 | [party 4 u](https://open.spotify.com/track/2RdEC8Ff83WkX7kDVCHseE) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [how i'm feeling now](https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu) | 4:56 | 2025-05-09 | 2025-08-05 |
 | [Party Animal](https://open.spotify.com/track/4YVoPRtD3oIZzLIDoQ4h3B) | [Ella Red](https://open.spotify.com/artist/1hH4ajSTZKIBhwRymnZi5R) | [Party Animal](https://open.spotify.com/album/3qXR3nSUOkcMhoY7Yc0gr7) | 2:19 | 2025-11-21 | 2026-03-07 |
 | [PARTY b4 the PARTY](https://open.spotify.com/track/78jrpGKYNsfqjEtuVUFifU) | [World Scout: The Final Piece](https://open.spotify.com/artist/0vm835pGiUfPxKi9MMKNAT) | [World Scout: The Final Piece \- Finale](https://open.spotify.com/album/3cEPCpMVJuIXrBmX7KtwM0) | 2:24 | 2026-05-15 |  |
@@ -1565,9 +1567,9 @@
 | [True Colours](https://open.spotify.com/track/4S6rRqfYzIJ4nL2bV8ktS9) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Self Esteem](https://open.spotify.com/artist/3K9muOlJVKLgH4SIwwZiDe) | [True Colours](https://open.spotify.com/album/38oNM96tThFx9oFX9LDxX3) | 3:51 | 2024-05-24 | 2024-06-01 |
 | [TRUST!](https://open.spotify.com/track/0bxWdk5xYFcV7cm0tj6Q0R) | [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [TRUST!](https://open.spotify.com/album/6bJsuHBllmyGoMcRbsXaep) | 2:51 | 2024-10-18 | 2024-12-07 |
 | [TRUSTFALL](https://open.spotify.com/track/4FWbsd91QSvgr1dSWwW51e) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [TRUSTFALL](https://open.spotify.com/album/0JlRRM2KKOzLKzgn9etoXt) | 3:57 | 2023-01-27 | 2023-04-15 |
-| [Truth Of Pursuit](https://open.spotify.com/track/213XNePBS3v9QW0lnPUXmZ) | [Sarah Kinsley](https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC) | [Fleeting](https://open.spotify.com/album/4NryqaG2gunT4GC5edrqVA) | 2:51 | 2026-02-13 |  |
+| [Truth Of Pursuit](https://open.spotify.com/track/213XNePBS3v9QW0lnPUXmZ) | [Sarah Kinsley](https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC) | [Fleeting](https://open.spotify.com/album/4NryqaG2gunT4GC5edrqVA) | 2:51 | 2026-02-13 | 2026-05-24 |
 | [Tunnel Vision](https://open.spotify.com/track/2bOl0GSBgRzB1SlKnOIyJ6) | [Lagoona Bloo](https://open.spotify.com/artist/3XoIXXjhnjGVs1SqBsMrjp) | [Tunnel Vision](https://open.spotify.com/album/4D1waRgLD2vnSUCAEjaLYh) | 2:40 | 2024-03-22 | 2024-04-13 |
-| [Tweak](https://open.spotify.com/track/3BuaksAZoXoIr8NoxAsIOO) | [GIRLSET](https://open.spotify.com/artist/3D2TVeexyIXOtc8F4qEZ6P) | [Tweak](https://open.spotify.com/album/0VeiKxNxcCRrzgNHuhyMXu) | 2:28 | 2026-03-06 |  |
+| [Tweak](https://open.spotify.com/track/3BuaksAZoXoIr8NoxAsIOO) | [GIRLSET](https://open.spotify.com/artist/3D2TVeexyIXOtc8F4qEZ6P) | [Tweak](https://open.spotify.com/album/0VeiKxNxcCRrzgNHuhyMXu) | 2:28 | 2026-03-06 | 2026-05-24 |
 | [Twennies](https://open.spotify.com/track/28LNs1oQ8met8Ul8p8RHbe) | [Dragonette](https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n) | [Twennies](https://open.spotify.com/album/5rdmUTXVk9cVxOMknuSzUx) | 2:51 | 2022-09-09 | 2022-10-07 |
 | [Twennies](https://open.spotify.com/track/2JKUKfXVAGuaEHLZKEzXFH) | [Dragonette](https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n) | [Twennies](https://open.spotify.com/album/0WTmYak2Ws78H1nxSJim9m) | 2:51 | 2022-09-09 | 2022-10-22 |
 | [Twennies \- The Knocks Remix](https://open.spotify.com/track/2udzkXs8wSPiRNDmzomieS) | [Dragonette](https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n), [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC) | [Twennies \(The Knocks Remix\)](https://open.spotify.com/album/7kspnaid8DF0EbhsIVyv86) | 4:08 | 2022-11-11 | 2023-04-22 |

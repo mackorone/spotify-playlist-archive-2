@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > canzoni per una primavera non proprio felice \(giuse the lizia in cover\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,043 likes - 109 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,041 likes - 109 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

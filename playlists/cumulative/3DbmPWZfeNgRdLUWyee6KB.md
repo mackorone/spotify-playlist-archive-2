@@ -4,7 +4,7 @@
 
 > The best new independent songs\. New tracks every month.
 
-1,087 songs - 2 day 15 hr 39 min
+1,089 songs - 2 day 15 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -608,6 +608,7 @@
 | [Move On](https://open.spotify.com/track/1EPqUZPqydfMgpQq6GSZQz) | [Kamar Jay](https://open.spotify.com/artist/5MJa7l5xlyf9N6G6R5AcnN) | [Move On](https://open.spotify.com/album/6wEE7ONTk649bbsv5DdpCG) | 3:27 | 2025-12-26 | 2026-01-27 |
 | [Mr Thunder \- Remastered 2023](https://open.spotify.com/track/0E1zeBDwwmvdWBGtCEbKgd) | [Bob Salmieri Bastarduna Quintet](https://open.spotify.com/artist/3IdFWdDrVGP4KOF3F6BHc3) | [...and Mama was a belly dancer \(Remastered 2023\)](https://open.spotify.com/album/7akxOJh7LxWGdBMmHH7HOo) | 5:40 | 2023-11-16 | 2025-11-29 |
 | [Musafir](https://open.spotify.com/track/0CjpJpNgB6HxTNeCuNVAK5) | [Baawe](https://open.spotify.com/artist/2GgyvJa8OrQBqm9zkJJ0dC), [Akshat Kamavisdar](https://open.spotify.com/artist/5Gs8LuJnXKsRXYfq0CZJnB) | [Musafir](https://open.spotify.com/album/29QIZN5Dx4BSHnHZzkCTBX) | 3:02 | 2026-02-03 | 2026-03-07 |
+| [My Apartment Mirror](https://open.spotify.com/track/5cdp7w6A89Svd88GPu4lUA) | [KXENIA](https://open.spotify.com/artist/4xGnce5EXkdJNeOxaZeYTL) | [Breaking Crests](https://open.spotify.com/album/2dLSlsENTZgScQ0gyNwmcN) | 2:59 | 2026-05-23 |  |
 | [my bad](https://open.spotify.com/track/5kU5WeQMvHhDICBqyFRwLm) | [frderyk](https://open.spotify.com/artist/0k839yxBiRvXEkxubBP1LL), [sylenthell](https://open.spotify.com/artist/4epE4ACXZZkbGDL97HKsvX), [Ar!n](https://open.spotify.com/artist/4W0GJARpgQOAjfbaxLQODl) | [XD](https://open.spotify.com/album/3VITONpFw08wyFI7flouGN) | 1:53 | 2026-03-06 | 2026-04-12 |
 | [My Black Cat](https://open.spotify.com/track/1W7tQ70CJsbIpS0jTERKdM) | [Nukehole](https://open.spotify.com/artist/68Qg8Ukjg5zs3PimhwUBKZ) | [My Black Cat](https://open.spotify.com/album/49uQEZJ4QJxkN5dUQ49AZ2) | 3:57 | 2026-01-23 | 2026-02-28 |
 | [My Favourite Game](https://open.spotify.com/track/3wtoIz1I01y40GFnIrl3p2) | [Byron's Brigades](https://open.spotify.com/artist/5yV3z5bTUMGEIE4E6WxPrf) | [My Favourite Game](https://open.spotify.com/album/0g2Zx81Nbu9ywAXriXYh7b) | 3:06 | 2026-03-24 | 2026-04-22 |
@@ -1008,6 +1009,7 @@
 | [Valzer di Noto](https://open.spotify.com/track/0FnG58X8pA0Vd9W2QRNd9u) | [Bob Salmieri](https://open.spotify.com/artist/13WVJToFNF7CLqefdFdoqa), [Alessandro De Angelis](https://open.spotify.com/artist/1J6KmEHFsMbcuPxfY2Ehs2), [Mediterranean Jazz Project](https://open.spotify.com/artist/2igMKABeT1z573MU6j9fXT) | [Sicilian Lullabies and Tales](https://open.spotify.com/album/4cwbKpgt9v2jo1pLQe06dH) | 2:56 | 2023-04-22 | 2025-11-29 |
 | [Veins of the Abyss](https://open.spotify.com/track/2YIq9i1qEspPkdJ8nuDZsY) | [Nukehole](https://open.spotify.com/artist/68Qg8Ukjg5zs3PimhwUBKZ) | [Veins of the Abyss](https://open.spotify.com/album/1jWbNjPpVhxWEywjivf9wI) | 3:13 | 2025-12-30 | 2026-02-03 |
 | [Veloz](https://open.spotify.com/track/684O5uzlLPREElx1sVhy1P) | [Melany Cubero](https://open.spotify.com/artist/4OrIEJHh24oAbE1evJRR7c) | [Invisible](https://open.spotify.com/album/26CgmwfJA3HjUE9A8SBZ47) | 3:12 | 2026-03-16 | 2026-04-12 |
+| [Venezia](https://open.spotify.com/track/6FLhvd6tllIMDGIc5cHuCP) | [Jouta](https://open.spotify.com/artist/27eP37X13iXodHP9LFFkNd) | [Venezia](https://open.spotify.com/album/44IMIE9w36DHzMDH8mcicF) | 2:04 | 2026-05-23 |  |
 | [Vento di Scirocco](https://open.spotify.com/track/6WzIehyHDAj6QHXqlWNS8k) | [Bob Salmieri](https://open.spotify.com/artist/13WVJToFNF7CLqefdFdoqa), [Alessandro De Angelis](https://open.spotify.com/artist/1J6KmEHFsMbcuPxfY2Ehs2), [Mediterranean Jazz Project](https://open.spotify.com/artist/2igMKABeT1z573MU6j9fXT) | [Sicilian Lullabies and Tales](https://open.spotify.com/album/4cwbKpgt9v2jo1pLQe06dH) | 4:46 | 2023-04-22 | 2025-11-29 |
 | [VERDEBLU](https://open.spotify.com/track/0KgHOIRobU5tYfBWfTq5fd) | [Federico Secondulfo](https://open.spotify.com/artist/6QyvRBPAQzedBqKzVeXQzq) | [VERDEBLU](https://open.spotify.com/album/69CBYq4zeMd7fxTacXCYKB) | 3:07 | 2026-01-13 | 2026-02-20 |
 | [Verão Cruel](https://open.spotify.com/track/3BORXQvI9R94IK4gxy0KcV) | [Henry Key](https://open.spotify.com/artist/0fFowNydSeaku95nJbHodn) | [Verão Cruel](https://open.spotify.com/album/4LNUrXvE4Mm4o1CIkl9WIF) | 3:27 | 2026-02-27 | 2026-03-25 |

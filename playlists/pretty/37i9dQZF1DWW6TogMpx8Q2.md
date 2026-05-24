@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6TogMpx8Q2.md) - [plain]
 
 > Biggest Cantopop MV Hits! MVs only available for Spotify premium subscribers\.  Cover: Gordon Flanders
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,268 likes - 102 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,267 likes - 102 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

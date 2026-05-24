@@ -1,6 +1,6 @@
 {
   "description": "Don\u2019t Sweat It!",
-  "num_followers": 553074,
+  "num_followers": 553061,
   "original_name": "Blood, Sweat & Cheers",
   "owner": {
     "name": "Spotify",
@@ -27,22 +27,6 @@
     {
       "added_at": "2025-11-05 11:45:24",
       "album": {
-        "name": "Hellbilly Deluxe",
-        "url": "https://open.spotify.com/album/2B4lHoTCpWbxQPTZmCOjnH"
-      },
-      "artists": [
-        {
-          "name": "Rob Zombie",
-          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
-        }
-      ],
-      "duration_ms": 222826,
-      "name": "Dragula",
-      "url": "https://open.spotify.com/track/6Nm8h73ycDG2saCnZV8poF"
-    },
-    {
-      "added_at": "2025-11-05 11:45:24",
-      "album": {
         "name": "Sinner",
         "url": "https://open.spotify.com/album/089oyV5caclve3ap934iRw"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 201960,
       "name": "Bodies",
       "url": "https://open.spotify.com/track/7CpbhqKUedOIrcvc94p60Y"
+    },
+    {
+      "added_at": "2025-11-05 11:45:24",
+      "album": {
+        "name": "Hellbilly Deluxe",
+        "url": "https://open.spotify.com/album/2B4lHoTCpWbxQPTZmCOjnH"
+      },
+      "artists": [
+        {
+          "name": "Rob Zombie",
+          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+        }
+      ],
+      "duration_ms": 222826,
+      "name": "Dragula",
+      "url": "https://open.spotify.com/track/6Nm8h73ycDG2saCnZV8poF"
     },
     {
       "added_at": "2025-11-05 11:45:24",
@@ -187,22 +187,6 @@
     {
       "added_at": "2025-11-05 11:45:24",
       "album": {
-        "name": "Mutter",
-        "url": "https://open.spotify.com/album/1CtTTpKbHU8KbHRB4LmBbv"
-      },
-      "artists": [
-        {
-          "name": "Rammstein",
-          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
-        }
-      ],
-      "duration_ms": 188600,
-      "name": "Feuer frei!",
-      "url": "https://open.spotify.com/track/5aNH8inF5BsbThDeOLs7zs"
-    },
-    {
-      "added_at": "2025-11-05 11:45:24",
-      "album": {
         "name": "Indestructible (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6hz9f6H7URtoigU517WjD6"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 278026,
       "name": "Indestructible",
       "url": "https://open.spotify.com/track/42ZVk59gT4tMlrZmd8Ijxf"
+    },
+    {
+      "added_at": "2025-11-05 11:45:24",
+      "album": {
+        "name": "Mutter",
+        "url": "https://open.spotify.com/album/1CtTTpKbHU8KbHRB4LmBbv"
+      },
+      "artists": [
+        {
+          "name": "Rammstein",
+          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
+        }
+      ],
+      "duration_ms": 188600,
+      "name": "Feuer frei!",
+      "url": "https://open.spotify.com/track/5aNH8inF5BsbThDeOLs7zs"
     },
     {
       "added_at": "2025-11-05 11:45:24",
@@ -315,22 +315,6 @@
     {
       "added_at": "2025-11-05 11:45:24",
       "album": {
-        "name": "Painkiller",
-        "url": "https://open.spotify.com/album/7LgrhuKnAXpNEv8qzcVd2t"
-      },
-      "artists": [
-        {
-          "name": "Judas Priest",
-          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
-        }
-      ],
-      "duration_ms": 365826,
-      "name": "Painkiller",
-      "url": "https://open.spotify.com/track/0L7zm6afBEtrNKo6C6Gj08"
-    },
-    {
-      "added_at": "2025-11-05 11:45:24",
-      "album": {
         "name": "TEKKNO",
         "url": "https://open.spotify.com/album/1RCinQ2MnD8yNRsXKpeKFg"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 206124,
       "name": "We Got the Moves",
       "url": "https://open.spotify.com/track/0W4N0KzHKWQp2Wn1Mf6uMa"
+    },
+    {
+      "added_at": "2025-11-05 11:45:24",
+      "album": {
+        "name": "Painkiller",
+        "url": "https://open.spotify.com/album/7LgrhuKnAXpNEv8qzcVd2t"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "duration_ms": 365826,
+      "name": "Painkiller",
+      "url": "https://open.spotify.com/track/0L7zm6afBEtrNKo6C6Gj08"
     },
     {
       "added_at": "2025-11-05 11:45:24",
@@ -547,22 +547,6 @@
     {
       "added_at": "2025-11-05 11:45:24",
       "album": {
-        "name": "Repentless",
-        "url": "https://open.spotify.com/album/5QTGKCuJbyViaQQXjHOvjL"
-      },
-      "artists": [
-        {
-          "name": "Slayer",
-          "url": "https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk"
-        }
-      ],
-      "duration_ms": 199866,
-      "name": "Repentless",
-      "url": "https://open.spotify.com/track/6W2KBpMMXW17r7dPyqi8Iu"
-    },
-    {
-      "added_at": "2025-11-05 11:45:24",
-      "album": {
         "name": "Hardwired\u2026To Self-Destruct (Deluxe)",
         "url": "https://open.spotify.com/album/4bcUiX49wpmDRhrC8TvDWV"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 189347,
       "name": "Hardwired",
       "url": "https://open.spotify.com/track/0QV3swr7L8MZr72lL2izV1"
+    },
+    {
+      "added_at": "2025-11-05 11:45:24",
+      "album": {
+        "name": "Repentless",
+        "url": "https://open.spotify.com/album/5QTGKCuJbyViaQQXjHOvjL"
+      },
+      "artists": [
+        {
+          "name": "Slayer",
+          "url": "https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk"
+        }
+      ],
+      "duration_ms": 199866,
+      "name": "Repentless",
+      "url": "https://open.spotify.com/track/6W2KBpMMXW17r7dPyqi8Iu"
     },
     {
       "added_at": "2025-11-05 11:45:24",
@@ -627,22 +627,6 @@
     {
       "added_at": "2025-11-05 11:45:24",
       "album": {
-        "name": "Darker Still",
-        "url": "https://open.spotify.com/album/36McCMdCRYn5j6iSMiqdG4"
-      },
-      "artists": [
-        {
-          "name": "Parkway Drive",
-          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
-        }
-      ],
-      "duration_ms": 261811,
-      "name": "Glitch",
-      "url": "https://open.spotify.com/track/1jKH10ufuA4EzUCdobVxu0"
-    },
-    {
-      "added_at": "2025-11-05 11:45:24",
-      "album": {
         "name": "St. Anger",
         "url": "https://open.spotify.com/album/0HKpzK9ZoJ0oVA43E5gewM"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 441132,
       "name": "St. Anger",
       "url": "https://open.spotify.com/track/5JAnXx5BBES4FEf4d4t4CC"
+    },
+    {
+      "added_at": "2025-11-05 11:45:24",
+      "album": {
+        "name": "Darker Still",
+        "url": "https://open.spotify.com/album/36McCMdCRYn5j6iSMiqdG4"
+      },
+      "artists": [
+        {
+          "name": "Parkway Drive",
+          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
+        }
+      ],
+      "duration_ms": 261811,
+      "name": "Glitch",
+      "url": "https://open.spotify.com/track/1jKH10ufuA4EzUCdobVxu0"
     },
     {
       "added_at": "2025-11-05 11:45:24",
@@ -715,22 +715,6 @@
     {
       "added_at": "2025-11-05 11:45:24",
       "album": {
-        "name": "Reverence",
-        "url": "https://open.spotify.com/album/46hNwndF4Tm6D1cGr0G5zL"
-      },
-      "artists": [
-        {
-          "name": "Parkway Drive",
-          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
-        }
-      ],
-      "duration_ms": 255230,
-      "name": "Prey",
-      "url": "https://open.spotify.com/track/7lMFAK8dv0QkWpIlZcWQlJ"
-    },
-    {
-      "added_at": "2025-11-05 11:45:24",
-      "album": {
         "name": "The Sacrament of Sin",
         "url": "https://open.spotify.com/album/2t3dociTSaDTmqIlN21rmC"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 218080,
       "name": "Demons Are a Girl's Best Friend",
       "url": "https://open.spotify.com/track/1KCDsPKFISNM2YZFFAoI7s"
+    },
+    {
+      "added_at": "2025-11-05 11:45:24",
+      "album": {
+        "name": "Reverence",
+        "url": "https://open.spotify.com/album/46hNwndF4Tm6D1cGr0G5zL"
+      },
+      "artists": [
+        {
+          "name": "Parkway Drive",
+          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
+        }
+      ],
+      "duration_ms": 255230,
+      "name": "Prey",
+      "url": "https://open.spotify.com/track/7lMFAK8dv0QkWpIlZcWQlJ"
     },
     {
       "added_at": "2025-11-05 11:45:24",
@@ -955,22 +955,6 @@
     {
       "added_at": "2025-11-05 11:45:24",
       "album": {
-        "name": "on the verge",
-        "url": "https://open.spotify.com/album/4jrVOK9sQX5PmGeASmN230"
-      },
-      "artists": [
-        {
-          "name": "thrown",
-          "url": "https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt"
-        }
-      ],
-      "duration_ms": 134400,
-      "name": "on the verge",
-      "url": "https://open.spotify.com/track/75dS4i4yFu4R4WBrneLXIC"
-    },
-    {
-      "added_at": "2025-11-05 11:45:24",
-      "album": {
         "name": "Fatalism",
         "url": "https://open.spotify.com/album/6yMmUKkAfVoHJT71ZpoBi5"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 239291,
       "name": "Inhumane",
       "url": "https://open.spotify.com/track/4JpUHYV5xwiBHx9wnTSjh1"
+    },
+    {
+      "added_at": "2025-11-05 11:45:24",
+      "album": {
+        "name": "on the verge",
+        "url": "https://open.spotify.com/album/4jrVOK9sQX5PmGeASmN230"
+      },
+      "artists": [
+        {
+          "name": "thrown",
+          "url": "https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt"
+        }
+      ],
+      "duration_ms": 134400,
+      "name": "on the verge",
+      "url": "https://open.spotify.com/track/75dS4i4yFu4R4WBrneLXIC"
     },
     {
       "added_at": "2025-11-05 11:45:24",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2025-11-05 11:45:24",
       "album": {
-        "name": "BRAVE NEW WORLD",
-        "url": "https://open.spotify.com/album/6ODIDW9Ud3whinMHkY2Cbh"
-      },
-      "artists": [
-        {
-          "name": "STARSET",
-          "url": "https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa"
-        }
-      ],
-      "duration_ms": 263942,
-      "name": "BRAVE NEW WORLD",
-      "url": "https://open.spotify.com/track/7stpbtJzoBx1D38egFeT29"
-    },
-    {
-      "added_at": "2025-11-05 11:45:24",
-      "album": {
         "name": "Nightmare Logic",
         "url": "https://open.spotify.com/album/3suNG9n4WGYQabXhUTkQ70"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 225245,
       "name": "Executioner's Tax (Swing of the Axe)",
       "url": "https://open.spotify.com/track/1kbwEcixFWVj5dFO9Kso3J"
+    },
+    {
+      "added_at": "2025-11-05 11:45:24",
+      "album": {
+        "name": "BRAVE NEW WORLD",
+        "url": "https://open.spotify.com/album/6ODIDW9Ud3whinMHkY2Cbh"
+      },
+      "artists": [
+        {
+          "name": "STARSET",
+          "url": "https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa"
+        }
+      ],
+      "duration_ms": 263942,
+      "name": "BRAVE NEW WORLD",
+      "url": "https://open.spotify.com/track/7stpbtJzoBx1D38egFeT29"
     },
     {
       "added_at": "2025-11-05 11:45:24",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2025-11-05 11:45:24",
       "album": {
+        "name": "T\u016b",
+        "url": "https://open.spotify.com/album/4RBkIbNroo8Lp1Y8p3VV4M"
+      },
+      "artists": [
+        {
+          "name": "Alien Weaponry",
+          "url": "https://open.spotify.com/artist/2vov4zolAP7zbIhB5CsIPm"
+        }
+      ],
+      "duration_ms": 395500,
+      "name": "Kai Tangata",
+      "url": "https://open.spotify.com/track/0YWyKtLAlmVjryfY6CSxYE"
+    },
+    {
+      "added_at": "2025-11-05 11:45:24",
+      "album": {
         "name": "Talk To Me (feat. Lzzy Hale)",
         "url": "https://open.spotify.com/album/3W8ep9kCGVEf5TLFtRRB2T"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 208021,
       "name": "Talk To Me (feat. Lzzy Hale)",
       "url": "https://open.spotify.com/track/00i9VF7sjSaTqblAuKFBDO"
-    },
-    {
-      "added_at": "2025-11-05 11:45:24",
-      "album": {
-        "name": "T\u016b",
-        "url": "https://open.spotify.com/album/4RBkIbNroo8Lp1Y8p3VV4M"
-      },
-      "artists": [
-        {
-          "name": "Alien Weaponry",
-          "url": "https://open.spotify.com/artist/2vov4zolAP7zbIhB5CsIPm"
-        }
-      ],
-      "duration_ms": 395500,
-      "name": "Kai Tangata",
-      "url": "https://open.spotify.com/track/0YWyKtLAlmVjryfY6CSxYE"
     },
     {
       "added_at": "2025-11-05 11:45:24",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2025-11-05 11:45:24",
       "album": {
-        "name": "Gift (Explicit Version)",
-        "url": "https://open.spotify.com/album/6vPDxNI1I3FFSMmc7MLoDT"
-      },
-      "artists": [
-        {
-          "name": "Taproot",
-          "url": "https://open.spotify.com/artist/319rafipfKvd4cqaOwWIvA"
-        }
-      ],
-      "duration_ms": 238213,
-      "name": "Again & Again",
-      "url": "https://open.spotify.com/track/7aHluiddcgODmeZ2rW6dju"
-    },
-    {
-      "added_at": "2025-11-05 11:45:24",
-      "album": {
         "name": "Clawfinger",
         "url": "https://open.spotify.com/album/2UcbjA0yIRk3OR5H7GKnGf"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 231720,
       "name": "Biggest & the Best",
       "url": "https://open.spotify.com/track/51XrhhPlt1smLatJgcBrUb"
+    },
+    {
+      "added_at": "2025-11-05 11:45:24",
+      "album": {
+        "name": "Gift (Explicit Version)",
+        "url": "https://open.spotify.com/album/6vPDxNI1I3FFSMmc7MLoDT"
+      },
+      "artists": [
+        {
+          "name": "Taproot",
+          "url": "https://open.spotify.com/artist/319rafipfKvd4cqaOwWIvA"
+        }
+      ],
+      "duration_ms": 238213,
+      "name": "Again & Again",
+      "url": "https://open.spotify.com/track/7aHluiddcgODmeZ2rW6dju"
     },
     {
       "added_at": "2025-11-05 11:45:24",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2025-11-05 11:45:24",
       "album": {
-        "name": "Slow Burn",
-        "url": "https://open.spotify.com/album/3tbDu2wslQEmwMalgSgSB9"
-      },
-      "artists": [
-        {
-          "name": "Conquer Divide",
-          "url": "https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc"
-        }
-      ],
-      "duration_ms": 258750,
-      "name": "system_failure",
-      "url": "https://open.spotify.com/track/41J8NzN0nWOCv2Ht94e78n"
-    },
-    {
-      "added_at": "2025-11-05 11:45:24",
-      "album": {
         "name": "Dante",
         "url": "https://open.spotify.com/album/5BC58VTUf4aaoGVkjhtx9U"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 346294,
       "name": "Dante",
       "url": "https://open.spotify.com/track/6jjx1KvWK4OAzD0JimzHiY"
+    },
+    {
+      "added_at": "2025-11-05 11:45:24",
+      "album": {
+        "name": "Slow Burn",
+        "url": "https://open.spotify.com/album/3tbDu2wslQEmwMalgSgSB9"
+      },
+      "artists": [
+        {
+          "name": "Conquer Divide",
+          "url": "https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc"
+        }
+      ],
+      "duration_ms": 258750,
+      "name": "system_failure",
+      "url": "https://open.spotify.com/track/41J8NzN0nWOCv2Ht94e78n"
     },
     {
       "added_at": "2025-11-05 11:45:24",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2025-11-05 11:45:24",
       "album": {
-        "name": "backfire",
-        "url": "https://open.spotify.com/album/2KqvKZtVLgLolUw2AMMWB6"
-      },
-      "artists": [
-        {
-          "name": "thrown",
-          "url": "https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt"
-        }
-      ],
-      "duration_ms": 120064,
-      "name": "backfire",
-      "url": "https://open.spotify.com/track/2Tt5CzJzz53tVCicnDwh2a"
-    },
-    {
-      "added_at": "2025-11-05 11:45:24",
-      "album": {
         "name": "Titans of Creation",
         "url": "https://open.spotify.com/album/63dZKnLfVsHItoygbM7IJK"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 392066,
       "name": "Night of the Witch",
       "url": "https://open.spotify.com/track/3orHIz1YV1bmUHsi2fze48"
+    },
+    {
+      "added_at": "2025-11-05 11:45:24",
+      "album": {
+        "name": "backfire",
+        "url": "https://open.spotify.com/album/2KqvKZtVLgLolUw2AMMWB6"
+      },
+      "artists": [
+        {
+          "name": "thrown",
+          "url": "https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt"
+        }
+      ],
+      "duration_ms": 120064,
+      "name": "backfire",
+      "url": "https://open.spotify.com/track/2Tt5CzJzz53tVCicnDwh2a"
     },
     {
       "added_at": "2025-11-05 11:45:24",

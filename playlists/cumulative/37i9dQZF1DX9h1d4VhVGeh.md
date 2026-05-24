@@ -4,7 +4,7 @@
 
 > Sabah al khair, start your day with extra cardamom and mellow tunes.
 
-236 songs - 15 hr 43 min
+238 songs - 15 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,7 +154,7 @@
 | [Olive Branch \(Ghosn Zeytoun\)](https://open.spotify.com/track/0Qs69EhCYkND29GsGEp9uD) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g) | [Olive Branch \(Ghosn Zeytoun\)](https://open.spotify.com/album/0zXbKq9D8hTBJxl10Pya8y) | 1:25 | 2024-03-09 | 2025-01-01 |
 | [Omer Aasal](https://open.spotify.com/track/3zs3QaM0KhK0mSpfALvTJx) | [Joseph Attieh](https://open.spotify.com/artist/5DPb3SKW8QZFwkRlmt7Gvo) | [Omer Aasal](https://open.spotify.com/album/4KByAcRNbV77pOgnlC9Hd6) | 3:41 | 2022-06-29 | 2024-04-19 |
 | [Omer Aasal](https://open.spotify.com/track/0joxJdOyy3wuhQdcxdP9RW) | [Joseph Attieh](https://open.spotify.com/artist/5DPb3SKW8QZFwkRlmt7Gvo) | [Omer Aasal](https://open.spotify.com/album/5NyX5QeWwXSqX7OKUCCsbF) | 3:41 | 2022-04-18 | 2025-10-06 |
-| [Osad Einy](https://open.spotify.com/track/7si84DsIQQfMKajYl0AwY4) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Tea Time](https://open.spotify.com/album/0XqCCOQsueU7orG8EDgEXn) | 4:24 | 2024-02-26 |  |
+| [Osad Einy](https://open.spotify.com/track/7si84DsIQQfMKajYl0AwY4) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Tea Time](https://open.spotify.com/album/0XqCCOQsueU7orG8EDgEXn) | 4:24 | 2024-02-26 | 2026-05-24 |
 | [Ouaa Tensa \| أوعى تنسى](https://open.spotify.com/track/2FHtzGCMnfIKyG64Z3zb5U) | [Farah Skaff](https://open.spotify.com/artist/6M1oey5BtL0nxhvxdeLWPV) | [Everything Comes & Goes \| كلّو بيجي و بيروح](https://open.spotify.com/album/05ILDmxrbH8xR2zsS6yU0W) | 2:40 | 2025-10-05 | 2026-04-16 |
 | [Ouda](https://open.spotify.com/track/3x9BHDNsyg50xSEzmLMyUd) | [Hamid Al Shaeri](https://open.spotify.com/artist/7u1V0Ucu5ggW1VaXwh8KeT) | [Kawahel](https://open.spotify.com/album/6j52looYcTUJcPkmC2tv3S) | 4:38 | 2025-10-20 | 2026-02-28 |
 | [Ountha](https://open.spotify.com/track/69UHeUvlSuDB6lBQfzWZe1) | [Bigsam](https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8), [siilawy](https://open.spotify.com/artist/5VZr6vX1UPRRf9tneUEi2B) | [Ountha](https://open.spotify.com/album/2olIPtmKbim1KmWV8pIxho) | 3:27 | 2023-03-19 | 2023-04-06 |
@@ -163,7 +163,8 @@
 | [Raoui](https://open.spotify.com/track/4PmJRTntkZRVG6kiVljmlA) | [Souad Massi](https://open.spotify.com/artist/0oXFsuB6XBuDTsXJgplR7k) | [Raoui](https://open.spotify.com/album/1v3KoZERdNZ6ddhseotXzx) | 3:47 | 2023-10-28 |  |
 | [Rouh Ya Amar](https://open.spotify.com/track/2lIKMzHpP3KzZpxK6QwM5O) | [Hiba Tawaji](https://open.spotify.com/artist/2CitZjt8DI9S447r6GBGAX) | [Rouh Ya Amar](https://open.spotify.com/album/6Se4NtTSbdIK9tQToOcQB6) | 4:02 | 2022-04-18 |  |
 | [Saaltak Habiby](https://open.spotify.com/track/2tTifBkEXqJ039o3jKcej7) | [Fairuz](https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV) | [Fairouz World, Pt\. 1](https://open.spotify.com/album/6Lk9iL4RNQq11Uogjh9SW1) | 5:26 | 2022-04-18 | 2025-10-06 |
-| [Sabahek](https://open.spotify.com/track/4cnTGRpVDnBXgD2MQYQOfS) | [Massar Egbari](https://open.spotify.com/artist/1RJ4fUIqNW9jyKFMtRZOD4) | [Tokaa We Tkoom](https://open.spotify.com/album/7APkDKEvXGWOWtr76tBOJM) | 3:38 | 2024-12-31 |  |
+| [SABAH EL WARD / صباح الورد](https://open.spotify.com/track/1xavkNqFWGuEMb3N3ZXbbG) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [SABAH EL WARD / صباح الورد](https://open.spotify.com/album/1q3WLPEx8Gozu40Yq71UJ1) | 3:10 | 2026-05-23 |  |
+| [Sabahek](https://open.spotify.com/track/4cnTGRpVDnBXgD2MQYQOfS) | [Massar Egbari](https://open.spotify.com/artist/1RJ4fUIqNW9jyKFMtRZOD4) | [Tokaa We Tkoom](https://open.spotify.com/album/7APkDKEvXGWOWtr76tBOJM) | 3:38 | 2024-12-31 | 2026-05-24 |
 | [Saber](https://open.spotify.com/track/471yCuh5et463zfP1ZlipM) | [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Saber](https://open.spotify.com/album/3JyxgFtlWiGnjcrD2c53wG) | 4:14 | 2023-12-24 | 2024-02-18 |
 | [Sahak Isho2](https://open.spotify.com/track/3zlKK9XIKHfKgNE1NDTw65) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs) | [Sahak Isho2](https://open.spotify.com/album/0Z3zSzfMUnG8CyKJOQjWkD) | 3:24 | 2025-11-04 |  |
 | [Sahar El Layali \(Kan Enna Tahoun\)](https://open.spotify.com/track/1T3Awxy8awy2c75OeSsPyL) | [Fatma Said](https://open.spotify.com/artist/1c2ClQeVUmq1req1B2lnlh), [Tim Allhoff](https://open.spotify.com/artist/7qnobTqHT8IGF1DjMtEMDY), [Henning Sieverts](https://open.spotify.com/artist/4NPI4lNYQw86uzyS1SqZXP), [Tamer Pinarbaşi](https://open.spotify.com/artist/56qCAXOnxTC7VPlUGwrBqA), [Burcu Karadağ](https://open.spotify.com/artist/6sm7wuehySIzhD2QyCT26q), [Itamar Doari](https://open.spotify.com/artist/4fOBhUMIOwCcoWuRKlkwFc) | [El Nour](https://open.spotify.com/album/3l39Bl8unEhLRYfIIDyqjF) | 3:19 | 2022-06-29 | 2023-10-30 |
@@ -221,6 +222,7 @@
 | [Zina](https://open.spotify.com/track/7gepRwLr6JXAEz6vBuksSF) | [Babylone](https://open.spotify.com/artist/4sP2g2ixZhad5ZlxPirn8i) | [Brya](https://open.spotify.com/album/6HrTAIVCm1zlmM0Qjgjeci) | 3:57 | 2022-04-18 | 2025-06-05 |
 | [Zuruni](https://open.spotify.com/track/0dW503oQBCoCcwl2uTvnr6) | [Dana Hourani](https://open.spotify.com/artist/15hYqWGQsqwtFi7FgLE4i6) | [Ensanein](https://open.spotify.com/album/38MJVqssjkHcmUZKM9ERUt) | 3:09 | 2022-04-18 | 2023-10-30 |
 | [إوعديني](https://open.spotify.com/track/0IVKMWovu9jtiHDRKn4HvE) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [مالناش الا بعض](https://open.spotify.com/album/33pX4SvxjRcSSaR1hQCLVL) | 5:43 | 2022-04-18 | 2023-08-26 |
+| [الحب عيبنا](https://open.spotify.com/track/7wXCvrSJxHVH0uEAzyY1Ct) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [الحب عيبنا](https://open.spotify.com/album/7IVWERFu8EVQuPMCOXRMBU) | 3:56 | 2026-05-23 |  |
 | [انقذيني مني](https://open.spotify.com/track/1zAuToKatU8CEw01ZCcjQ5) | [Bigsam](https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8) | [انقذيني مني](https://open.spotify.com/album/2OfTZgFt2qN1Rlf52Ec45s) | 3:01 | 2023-02-22 | 2023-02-25 |
 | [بأمارة مين](https://open.spotify.com/track/0SbObewB36qKLWcaxMntej) | [Farid](https://open.spotify.com/artist/5OaC42gxOxSYgfmmSxe672) | [بأمارة مين](https://open.spotify.com/album/4yDWyAMP63GXX3SUjjV0Xd) | 3:15 | 2022-11-09 | 2023-03-10 |
 | [بحبك من زمان](https://open.spotify.com/track/3ZSch1osGSHoo0QnVFOqhg) | [Sherine](https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI) | [نساى](https://open.spotify.com/album/1aCq7XjXXVc3WxPYYUrbeP) | 5:01 | 2022-04-18 | 2023-10-30 |

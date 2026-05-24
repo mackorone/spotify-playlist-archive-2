@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Braxton Keith
 
-[Spotify](https://open.spotify.com/user/spotify) - 402,585 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 402,588 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,13 +52,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 | 42 | [Diamondhead](https://open.spotify.com/track/1y76vWynOdnIbixqJvxD3e) | [J.R\. Carroll](https://open.spotify.com/artist/3KULmzjXBD6uu50to1WXRm) | [Diamondhead](https://open.spotify.com/album/3PH84CGXxf8KMw2r9JKvzc) | 3:07 |
 | 43 | [That's Texas](https://open.spotify.com/track/1sjHM1Gw4lAxmoCSK9M3l8) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [That's Texas](https://open.spotify.com/album/4Mk6vJ6RJF1qy0F3Rcnyj8) | 2:43 |
 | 44 | [Creeps](https://open.spotify.com/track/0zOert4KpMDEf332FVRuxb) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Creeps](https://open.spotify.com/album/2lUDd3HMuFnMgK3KfniBGB) | 3:46 |
-| 45 | [Mobile](https://open.spotify.com/track/7Le2gLXrJkTvj6wFEUiLcf) | [Logan Ryan Band](https://open.spotify.com/artist/7LVl0gsG1AEc6lid0fJK6P) | [Mobile](https://open.spotify.com/album/0eVXtzAghSs9oiwP4NE9nO) | 4:16 |
-| 46 | [Texas Forever](https://open.spotify.com/track/23fs42C3A7vOH4MMfFeSFK) | [Hudson Westbrook](https://open.spotify.com/artist/0C4gtx1iHMfuaQ73GKWvtZ) | [Texas Forever](https://open.spotify.com/album/0ChLZ9bffEOVELsyxIOCId) | 3:15 |
+| 45 | [Texas Forever](https://open.spotify.com/track/23fs42C3A7vOH4MMfFeSFK) | [Hudson Westbrook](https://open.spotify.com/artist/0C4gtx1iHMfuaQ73GKWvtZ) | [Texas Forever](https://open.spotify.com/album/0ChLZ9bffEOVELsyxIOCId) | 3:15 |
+| 46 | [Mobile](https://open.spotify.com/track/7Le2gLXrJkTvj6wFEUiLcf) | [Logan Ryan Band](https://open.spotify.com/artist/7LVl0gsG1AEc6lid0fJK6P) | [Mobile](https://open.spotify.com/album/0eVXtzAghSs9oiwP4NE9nO) | 4:16 |
 | 47 | [Chipping Mill](https://open.spotify.com/track/1Qn8ffMn79yl99Hs4zurID) | [Turnpike Troubadours](https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03) | [A Cat in the Rain](https://open.spotify.com/album/3ZynuKh2bwSEi0kBJc7tO8) | 3:20 |
 | 48 | [Santa Fe](https://open.spotify.com/track/12AEBgTTELBhtAthd5dRqH) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Postcards From Texas](https://open.spotify.com/album/2c12Spm8XcLAT2xYtQdgGK) | 3:03 |
 | 49 | [Like She Does](https://open.spotify.com/track/7vLzS4QoDV2wP9zfvdhVgd) | [Wynn Williams](https://open.spotify.com/artist/6ZzXw8Du2F5Ak2udqeOTC4), [Kylie Frey](https://open.spotify.com/artist/5PyN1qBgkGm76qn5WdcKT4) | [Your Love](https://open.spotify.com/album/7gei0BhwKRgS4MhsO4RqLh) | 3:48 |
-| 50 | [How Much Beer](https://open.spotify.com/track/4lCfLElvRrGN4HVGg2oH5E) | [Drake Milligan](https://open.spotify.com/artist/4mskfuiHWZ3nX3qAdeaGiR), [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [Tumbleweed](https://open.spotify.com/album/2ekPtfEo5Pno1k4eiybcty) | 4:34 |
-| 51 | [Damn Good Taste in Whiskey](https://open.spotify.com/track/0faTtq6Ns4srJ1m1yb0EaN) | [Hudson Westbrook](https://open.spotify.com/artist/0C4gtx1iHMfuaQ73GKWvtZ) | [Damn Good Taste in Whiskey](https://open.spotify.com/album/7tWxnF5wnDCMjJksACHgIz) | 2:55 |
+| 50 | [Damn Good Taste in Whiskey](https://open.spotify.com/track/0faTtq6Ns4srJ1m1yb0EaN) | [Hudson Westbrook](https://open.spotify.com/artist/0C4gtx1iHMfuaQ73GKWvtZ) | [Damn Good Taste in Whiskey](https://open.spotify.com/album/7tWxnF5wnDCMjJksACHgIz) | 2:55 |
+| 51 | [How Much Beer](https://open.spotify.com/track/4lCfLElvRrGN4HVGg2oH5E) | [Drake Milligan](https://open.spotify.com/artist/4mskfuiHWZ3nX3qAdeaGiR), [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [Tumbleweed](https://open.spotify.com/album/2ekPtfEo5Pno1k4eiybcty) | 4:34 |
 | 52 | [A Cat in the Rain](https://open.spotify.com/track/0Zt4KxjqHYswmQvjpnpiPe) | [Turnpike Troubadours](https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03) | [A Cat in the Rain](https://open.spotify.com/album/3ZynuKh2bwSEi0kBJc7tO8) | 5:17 |
 | 53 | [Tennessee Drinkin'](https://open.spotify.com/track/2hxzzKDKEZilB6dVzo6o28) | [William Beckmann](https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb) | [Here's To You\. Here's To Me.](https://open.spotify.com/album/0RajpG21iVawsEygzQlxxl) | 3:02 |
 | 54 | [Spinnin'](https://open.spotify.com/track/0k1MIumc7GxFeiQsKgRBys) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Wandering Star](https://open.spotify.com/album/5OClY7oERkbh7dckrDsWab) | 4:13 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 | 95 | [Carry Me Home](https://open.spotify.com/track/2uGhFYgEsIowLnRqf3Z78T) | [Graham St\. Clair Band](https://open.spotify.com/artist/7voi3VeXYv9dzIEFGBgbkv) | [Carry Me Home](https://open.spotify.com/album/4wR24Dlp1ULiwjTqR32qVx) | 3:32 |
 | 96 | [Your Bar Now](https://open.spotify.com/track/4ZZK3Nud5Ax5ZExoFZYhGq) | [Tyler Halverson](https://open.spotify.com/artist/3oFu5CCLk4p4zLBNo3wrai), [Kylie Frey](https://open.spotify.com/artist/5PyN1qBgkGm76qn5WdcKT4) | [Your Bar Now](https://open.spotify.com/album/3N6z7QHV628Lbz0ocbzOhR) | 3:34 |
 | 97 | [Just Call My Number](https://open.spotify.com/track/1bTYabk6wOSvIapt1orxg1) | [Tristan Roberson](https://open.spotify.com/artist/3DciIsSZJFKwH06cc9l9RR) | [Just Call My Number](https://open.spotify.com/album/2skDzLvzYWluEjJkbY7jFb) | 3:14 |
-| 98 | [Old Tricks](https://open.spotify.com/track/2sqIKw2z6TWykx48jlepVH) | [The Droptines](https://open.spotify.com/artist/5MKl9FP3O6MpQhVx7QRFyc) | [Old Tricks](https://open.spotify.com/album/0pTuKCFPVIeCrittNGlWcV) | 2:28 |
-| 99 | [Running out of Time](https://open.spotify.com/track/66Xb15mkqTgCu06aGUmgOu) | [Casey Donahew](https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib), [Pat Green](https://open.spotify.com/artist/0EhgpjUqiIIQhM6ZRF4kXX), [Randy Rogers](https://open.spotify.com/artist/2DwAtAKSDY87F2pu50Csrk), [Wade Bowen](https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI) | [Running out of Time](https://open.spotify.com/album/43tiHHwZStRZcQJmm6ohVf) | 3:37 |
-| 100 | [Hunt You Down](https://open.spotify.com/track/6ANjnskHNgakdZnhWO6nob) | [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [Hunt You Down](https://open.spotify.com/album/3ZmBeTs68BAwCeUOknXaQ7) | 3:24 |
+| 98 | [Running out of Time](https://open.spotify.com/track/66Xb15mkqTgCu06aGUmgOu) | [Casey Donahew](https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib), [Pat Green](https://open.spotify.com/artist/0EhgpjUqiIIQhM6ZRF4kXX), [Randy Rogers](https://open.spotify.com/artist/2DwAtAKSDY87F2pu50Csrk), [Wade Bowen](https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI) | [Running out of Time](https://open.spotify.com/album/43tiHHwZStRZcQJmm6ohVf) | 3:37 |
+| 99 | [Hunt You Down](https://open.spotify.com/track/6ANjnskHNgakdZnhWO6nob) | [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [Hunt You Down](https://open.spotify.com/album/3ZmBeTs68BAwCeUOknXaQ7) | 3:24 |
+| 100 | [Old Tricks](https://open.spotify.com/track/2sqIKw2z6TWykx48jlepVH) | [The Droptines](https://open.spotify.com/artist/5MKl9FP3O6MpQhVx7QRFyc) | [Old Tricks](https://open.spotify.com/album/0pTuKCFPVIeCrittNGlWcV) | 2:28 |
 
-Snapshot ID: `AAAAAKHXFyFizgrDfERLHeWJCFCRsTi+`
+Snapshot ID: `AAAAAIt3Zx1fs/y95d0ByJ8/uyRwcYry`

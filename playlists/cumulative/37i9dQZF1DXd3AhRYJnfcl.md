@@ -4,7 +4,7 @@
 
 > أفضل الأغاني المصرية الآن من قلب مصر إلى العالم🔥🔝\. الغلاف: شيرين
 
-441 songs - 1 day 1 hr 51 min
+442 songs - 1 day 1 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [7OB KHENA2](https://open.spotify.com/track/15lgnDg0wa4gXWpts60aOF) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [IMPORT//EXPORT](https://open.spotify.com/album/2MUyfrxcVoLhkPDI7hVDp9) | 3:44 | 2023-09-08 | 2024-09-10 |
 | [Aal Doghrey](https://open.spotify.com/track/0rGCXktltsDt5jmcFwjFm4) | [Reda El Bahrawy](https://open.spotify.com/artist/3gCqbhXmiSto3R8U9YZcZM) | [Aal Doghrey](https://open.spotify.com/album/7zhW3zAi1lfGgNmSk9GiCY) | 4:43 | 2024-09-09 | 2025-05-14 |
 | [Aala Shanak](https://open.spotify.com/track/32fN22RlrQRRCH59Y80eSB) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [Nancy 10](https://open.spotify.com/album/3uqaoNAn5imRyAztEcb6Bb) | 3:14 | 2022-10-25 | 2022-11-18 |
+| [Aalo Anni Eih](https://open.spotify.com/track/5wWNCy79noqVF1Q7bYGme2) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Aalo Anni Eih](https://open.spotify.com/album/1FgIBotuC2fN2XktxG2LW2) | 5:00 | 2026-05-23 |  |
 | [Ader Akmel](https://open.spotify.com/track/2IhPJapsl9WFLBFNhWZp7q) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Ader Akmel](https://open.spotify.com/album/393g3wXpkLzwfnewZVZ01n) | 4:13 | 2023-02-22 | 2023-07-11 |
 | [Adrenaline](https://open.spotify.com/track/1uE7Gln68v4duncYy4QgQm) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Adrenaline](https://open.spotify.com/album/7BbMlrhOzLqWAbf9o1yBw6) | 3:14 | 2022-07-30 | 2023-03-21 |
 | [Ah Law Le3ebt Ya Zahr \- Elfakr We El Gadana](https://open.spotify.com/track/5TJPHmaBpX8iAvqoSf2K1e) | [Ahmed Sheeba](https://open.spotify.com/artist/3rR4zLn7IDnK4DynrTv9MU) | [Ah Law Le3ebt Ya Zahr \- Elfakr We El Gadana](https://open.spotify.com/album/10Wufx2FVz82lSiSiyrc6A) | 6:16 | 2026-01-20 | 2026-01-30 |
@@ -375,7 +376,7 @@
 | [عم المجال](https://open.spotify.com/track/3MzJ2M9PzfCtaGMHAirjIM) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6) | [عم المجال](https://open.spotify.com/album/5D3OSz8QKq8CkNkPaTh3rE) | 3:40 | 2024-04-24 | 2025-04-15 |
 | [عم المجال \- يبني أنا في الشغله دي عمها](https://open.spotify.com/track/4tHdErGYkKkbHI9Svvhy4Z) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6) | [عم المجال](https://open.spotify.com/album/72ggotxJU02kj6Anb7WKcV) | 4:15 | 2024-07-04 | 2024-08-21 |
 | [عين سحرية](https://open.spotify.com/track/0pTxrkqqHSVCsuHS9NhaH5) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [عين سحرية](https://open.spotify.com/album/2imB9na6sN3WCbz49IuBY0) | 3:21 | 2026-04-01 |  |
-| [عين سحرية](https://open.spotify.com/track/0SuWrDNsHCpu2Nh1Ygoeet) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [عين سحرية](https://open.spotify.com/album/2j2GeCSkeSYIr3Rv86e4Km) | 2:21 | 2026-02-27 |  |
+| [عين سحرية](https://open.spotify.com/track/0SuWrDNsHCpu2Nh1Ygoeet) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [عين سحرية](https://open.spotify.com/album/2j2GeCSkeSYIr3Rv86e4Km) | 2:21 | 2026-02-27 | 2026-05-24 |
 | [غار القمر \(من مسلسل وننسى اللي كان\)](https://open.spotify.com/track/1yCIPv9azb6iatALhQnRR9) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [غار القمر \(من مسلسل وننسى اللي كان\)](https://open.spotify.com/album/5lagJdup7OYfTD72gzwZI2) | 3:39 | 2026-04-22 |  |
 | [فعلا مبيتنسيش](https://open.spotify.com/track/7lTods1J2VtQY6UXmwDgyT) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy), [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [فعلا مبيتنسيش](https://open.spotify.com/album/4M4reByZFC9jKIRLvIOknM) | 4:50 | 2025-01-09 | 2025-06-17 |
 | [فيها إيه](https://open.spotify.com/track/1EjWf609wyNxHwlq1kuug8) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [أنا جامد كده كده](https://open.spotify.com/album/3Lk8CFHLrKlAv9cd4Cyi5v) | 3:26 | 2024-09-09 | 2024-12-12 |

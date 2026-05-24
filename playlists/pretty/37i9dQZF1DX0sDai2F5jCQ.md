@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sDai2F5jCQ.md) - [plain]
 
 > Your shortcut to the best new Hip Hop\. Cover: Drake
 
-[Spotify](https://open.spotify.com/user/spotify) - 503,311 likes - 78 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 503,310 likes - 78 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sDai2F5jCQ.md) - [plain]
 | 77 | [Candy Paint \(feat\. Shoreline Mafia\)](https://open.spotify.com/track/73lMnUNdS4XloMIBYQI5qP) | [PayGotti](https://open.spotify.com/artist/0LGKNkqCNnflIi35z00rGu), [Shoreline Mafia](https://open.spotify.com/artist/4tYSBptyGeVyZsk8JC4JHZ) | [Candy Paint \(feat\. Shoreline Mafia\)](https://open.spotify.com/album/0MHVIfKRwYuByVdv04B3si) | 3:37 |
 | 78 | [make ha dance](https://open.spotify.com/track/2nZycbXJkUbDcwZBbqnCTG) | [leecerti](https://open.spotify.com/artist/4GCBx9G31irWT77xXxWrSA) | [make ha dance](https://open.spotify.com/album/0FcDcW2Uh3c3WKK19ZriPi) | 2:00 |
 
-Snapshot ID: `AAAAABnQgVxCKBxw4X9TNJxWZqT33c2V`
+Snapshot ID: `AAAAAO7OVxEfoaTpo8+mTkSji+23JyA/`

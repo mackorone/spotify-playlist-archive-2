@@ -1,6 +1,6 @@
 {
   "description": "longe dos perigos noturnos",
-  "num_followers": 127747,
+  "num_followers": 127749,
   "original_name": "dengo",
   "owner": {
     "name": "Spotify",
@@ -203,6 +203,30 @@
     {
       "added_at": "2026-05-22 03:01:25",
       "album": {
+        "name": "Love is the New Gangsta",
+        "url": "https://open.spotify.com/album/0DUJdzFUyxiNUheVGbdWrd"
+      },
+      "artists": [
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        },
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        },
+        {
+          "name": "AZ Chike",
+          "url": "https://open.spotify.com/artist/6fqjJNsLs7g6F3PXy01Xnw"
+        }
+      ],
+      "duration_ms": 223666,
+      "name": "All That Matters (with Leon Thomas & AZ Chike)",
+      "url": "https://open.spotify.com/track/0k0Fj2tp6jGWLGR0HevNYP"
+    },
+    {
+      "added_at": "2026-05-22 03:01:25",
+      "album": {
         "name": "Bed of Roses (with Wale)",
         "url": "https://open.spotify.com/album/2TYtr1CCfYFlwf1k3hJ6S3"
       },
@@ -239,22 +263,6 @@
     {
       "added_at": "2026-05-22 03:01:25",
       "album": {
-        "name": "Price Of It All (Music From the Original Series \"Bait\")",
-        "url": "https://open.spotify.com/album/05qGKQXREYEZ8664u1Dn96"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Price Of It All",
-      "url": "https://open.spotify.com/track/3k6anb87t7yI9bcLgZqHso"
-    },
-    {
-      "added_at": "2026-05-22 03:01:25",
-      "album": {
         "name": "TABOO",
         "url": "https://open.spotify.com/album/68ug4QKhy15hepdgMMRo10"
       },
@@ -271,6 +279,22 @@
     {
       "added_at": "2026-05-22 03:01:25",
       "album": {
+        "name": "touch myself/idea of love",
+        "url": "https://open.spotify.com/album/76ZZEjABkKjynOcObQIQOZ"
+      },
+      "artists": [
+        {
+          "name": "kwn",
+          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
+        }
+      ],
+      "duration_ms": 249218,
+      "name": "touch myself",
+      "url": "https://open.spotify.com/track/3yftdtj8z7vS7M3EoPfVFK"
+    },
+    {
+      "added_at": "2026-05-22 03:01:25",
+      "album": {
         "name": "Crack The Code",
         "url": "https://open.spotify.com/album/7ARxIIcRGbKrjyfO5UXa2q"
       },
@@ -283,6 +307,22 @@
       "duration_ms": 180733,
       "name": "Crack The Code",
       "url": "https://open.spotify.com/track/34fBEXWe5wFNiVPZPk0fcY"
+    },
+    {
+      "added_at": "2026-05-22 03:01:25",
+      "album": {
+        "name": "Price Of It All (Music From the Original Series \"Bait\")",
+        "url": "https://open.spotify.com/album/05qGKQXREYEZ8664u1Dn96"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Price Of It All",
+      "url": "https://open.spotify.com/track/3k6anb87t7yI9bcLgZqHso"
     },
     {
       "added_at": "2026-05-22 03:01:25",
@@ -395,22 +435,6 @@
     {
       "added_at": "2026-05-22 03:01:25",
       "album": {
-        "name": "When The City Sleeps",
-        "url": "https://open.spotify.com/album/7AQJyREmqZhnetWVX9ubhj"
-      },
-      "artists": [
-        {
-          "name": "Alex Isley",
-          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
-        }
-      ],
-      "duration_ms": 209302,
-      "name": "Maybe Again",
-      "url": "https://open.spotify.com/track/4gBywkTx4P6ieTplo0euFO"
-    },
-    {
-      "added_at": "2026-05-22 03:01:25",
-      "album": {
         "name": "CONCUBANIA",
         "url": "https://open.spotify.com/album/74AFDI4K9GYRixO4areLml"
       },
@@ -427,6 +451,22 @@
       "duration_ms": 256084,
       "name": "SEE RIGHT THROUGH ME (feat. Kehlani)",
       "url": "https://open.spotify.com/track/60Y9PpMLjqBnMIAuavkQxn"
+    },
+    {
+      "added_at": "2026-05-22 03:01:25",
+      "album": {
+        "name": "When The City Sleeps",
+        "url": "https://open.spotify.com/album/7AQJyREmqZhnetWVX9ubhj"
+      },
+      "artists": [
+        {
+          "name": "Alex Isley",
+          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
+        }
+      ],
+      "duration_ms": 209302,
+      "name": "Maybe Again",
+      "url": "https://open.spotify.com/track/4gBywkTx4P6ieTplo0euFO"
     },
     {
       "added_at": "2026-05-22 03:01:25",
@@ -479,22 +519,6 @@
     {
       "added_at": "2026-05-22 03:01:25",
       "album": {
-        "name": "Westside",
-        "url": "https://open.spotify.com/album/6hejZTaY1xPzO9bKeSY51o"
-      },
-      "artists": [
-        {
-          "name": "Alex Isley",
-          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
-        }
-      ],
-      "duration_ms": 178779,
-      "name": "Westside",
-      "url": "https://open.spotify.com/track/7GqtjPXE2gAEFgKLZ5436I"
-    },
-    {
-      "added_at": "2026-05-22 03:01:25",
-      "album": {
         "name": "falling or flying",
         "url": "https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA"
       },
@@ -507,6 +531,22 @@
       "duration_ms": 132213,
       "name": "Broken is the man",
       "url": "https://open.spotify.com/track/7BwnU39GlAArxm3JmQWcRp"
+    },
+    {
+      "added_at": "2026-05-22 03:01:25",
+      "album": {
+        "name": "Westside",
+        "url": "https://open.spotify.com/album/6hejZTaY1xPzO9bKeSY51o"
+      },
+      "artists": [
+        {
+          "name": "Alex Isley",
+          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
+        }
+      ],
+      "duration_ms": 178779,
+      "name": "Westside",
+      "url": "https://open.spotify.com/track/7GqtjPXE2gAEFgKLZ5436I"
     },
     {
       "added_at": "2026-05-22 03:01:25",
@@ -643,22 +683,6 @@
     {
       "added_at": "2026-05-22 03:01:25",
       "album": {
-        "name": "100",
-        "url": "https://open.spotify.com/album/5uzvHxfiPAcQncCnaqOMZr"
-      },
-      "artists": [
-        {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
-        }
-      ],
-      "duration_ms": 234608,
-      "name": "100",
-      "url": "https://open.spotify.com/track/1nD3K6W0atK00pbJXS6JRa"
-    },
-    {
-      "added_at": "2026-05-22 03:01:25",
-      "album": {
         "name": "Scenic Drive (The Tape)",
         "url": "https://open.spotify.com/album/5HBwLKK7l3N8fovxDlTBpE"
       },
@@ -675,6 +699,22 @@
       "duration_ms": 247426,
       "name": "Voicemail (feat. Kiana Led\u00e9)",
       "url": "https://open.spotify.com/track/4hS7b55aChkN6FePTc6CeD"
+    },
+    {
+      "added_at": "2026-05-22 03:01:25",
+      "album": {
+        "name": "100",
+        "url": "https://open.spotify.com/album/5uzvHxfiPAcQncCnaqOMZr"
+      },
+      "artists": [
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        }
+      ],
+      "duration_ms": 234608,
+      "name": "100",
+      "url": "https://open.spotify.com/track/1nD3K6W0atK00pbJXS6JRa"
     },
     {
       "added_at": "2026-05-22 03:01:25",
@@ -935,30 +975,6 @@
     {
       "added_at": "2026-05-22 03:01:25",
       "album": {
-        "name": "Love is the New Gangsta",
-        "url": "https://open.spotify.com/album/0DUJdzFUyxiNUheVGbdWrd"
-      },
-      "artists": [
-        {
-          "name": "6LACK",
-          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
-        },
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        },
-        {
-          "name": "AZ Chike",
-          "url": "https://open.spotify.com/artist/6fqjJNsLs7g6F3PXy01Xnw"
-        }
-      ],
-      "duration_ms": 223666,
-      "name": "All That Matters (with Leon Thomas & AZ Chike)",
-      "url": "https://open.spotify.com/track/0k0Fj2tp6jGWLGR0HevNYP"
-    },
-    {
-      "added_at": "2026-05-22 03:01:25",
-      "album": {
         "name": "Waves",
         "url": "https://open.spotify.com/album/0en3QfglBdW6b0Ho9YoNRT"
       },
@@ -1043,46 +1059,6 @@
     {
       "added_at": "2026-05-22 03:01:25",
       "album": {
-        "name": "touch myself/idea of love",
-        "url": "https://open.spotify.com/album/76ZZEjABkKjynOcObQIQOZ"
-      },
-      "artists": [
-        {
-          "name": "kwn",
-          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
-        }
-      ],
-      "duration_ms": 249218,
-      "name": "touch myself",
-      "url": "https://open.spotify.com/track/3yftdtj8z7vS7M3EoPfVFK"
-    },
-    {
-      "added_at": "2026-05-22 03:01:25",
-      "album": {
-        "name": "Back To Love [Feat. SiR & Alex Isley]",
-        "url": "https://open.spotify.com/album/0MZOBJmTVwcxhlAkVmuhN7"
-      },
-      "artists": [
-        {
-          "name": "Robert Glasper",
-          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
-        },
-        {
-          "name": "SiR",
-          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
-        },
-        {
-          "name": "Alex Isley",
-          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
-        }
-      ],
-      "duration_ms": 201773,
-      "name": "Back To Love [Feat. SiR & Alex Isley]",
-      "url": "https://open.spotify.com/track/5Szrve8Y2ly9uxZupBIwgg"
-    },
-    {
-      "added_at": "2026-05-22 03:01:25",
-      "album": {
         "name": "Black Rainbows",
         "url": "https://open.spotify.com/album/741jF1Njwj0i1dQAPdvKZ1"
       },
@@ -1111,6 +1087,30 @@
       "duration_ms": 178085,
       "name": "Distant Lover",
       "url": "https://open.spotify.com/track/6Eknh5d7pw38C7ZqhydyKj"
+    },
+    {
+      "added_at": "2026-05-22 03:01:25",
+      "album": {
+        "name": "Back To Love [Feat. SiR & Alex Isley]",
+        "url": "https://open.spotify.com/album/0MZOBJmTVwcxhlAkVmuhN7"
+      },
+      "artists": [
+        {
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+        },
+        {
+          "name": "SiR",
+          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
+        },
+        {
+          "name": "Alex Isley",
+          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
+        }
+      ],
+      "duration_ms": 201773,
+      "name": "Back To Love [Feat. SiR & Alex Isley]",
+      "url": "https://open.spotify.com/track/5Szrve8Y2ly9uxZupBIwgg"
     },
     {
       "added_at": "2026-05-22 03:01:25",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2026-05-22 03:01:25",
       "album": {
-        "name": "No Love Song",
-        "url": "https://open.spotify.com/album/3wur4O6bZGh647ZJzXSsct"
-      },
-      "artists": [
-        {
-          "name": "Children of Zeus",
-          "url": "https://open.spotify.com/artist/2UZjIISzcezFJLo0ngik2Z"
-        }
-      ],
-      "duration_ms": 239173,
-      "name": "No Love Song",
-      "url": "https://open.spotify.com/track/1w51c5zq4Wr2jgGGBeeSbW"
-    },
-    {
-      "added_at": "2026-05-22 03:01:25",
-      "album": {
         "name": "beat of a slow dance",
         "url": "https://open.spotify.com/album/6QWYbXVAi3YgX7ei2ktF3d"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 234799,
       "name": "beat of a slow dance",
       "url": "https://open.spotify.com/track/1lhSO8JusksTEPOV7zchg1"
+    },
+    {
+      "added_at": "2026-05-22 03:01:25",
+      "album": {
+        "name": "No Love Song",
+        "url": "https://open.spotify.com/album/3wur4O6bZGh647ZJzXSsct"
+      },
+      "artists": [
+        {
+          "name": "Children of Zeus",
+          "url": "https://open.spotify.com/artist/2UZjIISzcezFJLo0ngik2Z"
+        }
+      ],
+      "duration_ms": 239173,
+      "name": "No Love Song",
+      "url": "https://open.spotify.com/track/1w51c5zq4Wr2jgGGBeeSbW"
     },
     {
       "added_at": "2026-05-22 03:01:25",
@@ -1415,26 +1415,6 @@
     {
       "added_at": "2026-05-22 03:01:25",
       "album": {
-        "name": "All For You",
-        "url": "https://open.spotify.com/album/6VpIFMps1Uha73gk1c50sJ"
-      },
-      "artists": [
-        {
-          "name": "Amaria",
-          "url": "https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1"
-        },
-        {
-          "name": "PHABO",
-          "url": "https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn"
-        }
-      ],
-      "duration_ms": 196968,
-      "name": "Damaged",
-      "url": "https://open.spotify.com/track/2zKsGLytwZOY5WKEZ1ARAk"
-    },
-    {
-      "added_at": "2026-05-22 03:01:25",
-      "album": {
         "name": "Imperfections",
         "url": "https://open.spotify.com/album/4Ym7k7Y7SsaHe3ZVMGtQxm"
       },
@@ -1467,6 +1447,26 @@
       "duration_ms": 202371,
       "name": "Let Me See Your Phone",
       "url": "https://open.spotify.com/track/5rBXXZWDsIRsi5Ur2JWTsC"
+    },
+    {
+      "added_at": "2026-05-22 03:01:25",
+      "album": {
+        "name": "All For You",
+        "url": "https://open.spotify.com/album/6VpIFMps1Uha73gk1c50sJ"
+      },
+      "artists": [
+        {
+          "name": "Amaria",
+          "url": "https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1"
+        },
+        {
+          "name": "PHABO",
+          "url": "https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn"
+        }
+      ],
+      "duration_ms": 196968,
+      "name": "Damaged",
+      "url": "https://open.spotify.com/track/2zKsGLytwZOY5WKEZ1ARAk"
     },
     {
       "added_at": "2026-05-22 03:01:25",

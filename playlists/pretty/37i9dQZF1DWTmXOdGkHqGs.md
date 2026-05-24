@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmXOdGkHqGs.md) - [plain]
 
 > Pinches cumbiones bien locos para bailar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 306,754 likes - 100 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 306,830 likes - 100 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmXOdGkHqGs.md) - [plain]
 | 53 | [Si Te Hubieras Quedado](https://open.spotify.com/track/2lxgLyM4PgdRb1E7jrSfaZ) | [Grupo la Ley Siete de Enrike Fortunato](https://open.spotify.com/artist/6NXg2WVQSGgmOfdtHI7CbI), [Cumbias Poblanas](https://open.spotify.com/artist/5yfgm29nhL4CSbKZSPORu4) | [Si Te Hubieras Quedado](https://open.spotify.com/album/6hzxNwknOcWOvoVlCQk08F) | 4:38 |
 | 54 | [CUMBIA DE BARRIO](https://open.spotify.com/track/2Q60P16hfjLGb8SbQbDt16) | [Salastkbron](https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r) | [CUMBIA DE BARRIO](https://open.spotify.com/album/3ULiklyFhamKh3S2B9zwbZ) | 3:01 |
 | 55 | [Nuestra Historia Termino](https://open.spotify.com/track/3BrU3r6HIJI9zmk1rZ7ucg) | [ICC](https://open.spotify.com/artist/66UyAOM9ECEDzsfUm9UXeF), [Grupo Quintanna](https://open.spotify.com/artist/17jlmfAaFHbfrauHk2HiNc), [Los Tepoz](https://open.spotify.com/artist/1yu6r3vgWWDpQLOVHtM8pW) | [Nuestra Historia Termino](https://open.spotify.com/album/1iFOgtTfccrwup6iq06dvf) | 3:54 |
-| 56 | [Ya No Me Perteneces](https://open.spotify.com/track/6RPz8HwaPvZcAYrKbWeUwK) | [Black Power](https://open.spotify.com/artist/7lej6X2O5ME5i1k2ZOgE8O) | [Black Power](https://open.spotify.com/album/1PEDqdQ95BzfHpQT8TnVv0) | 4:27 |
-| 57 | [Ya No Estàs Aquì](https://open.spotify.com/track/6hoGyBraWOkZ5XunICrx7E) | [Grupo Cumbia Nova](https://open.spotify.com/artist/5mLkGiQbe2XJD2fwDLq7Bw) | [Ya No Estàs Aquì](https://open.spotify.com/album/7ABWSjRh6gp8dVjnFIRvgE) | 4:22 |
+| 56 | [Ya No Estàs Aquì](https://open.spotify.com/track/6hoGyBraWOkZ5XunICrx7E) | [Grupo Cumbia Nova](https://open.spotify.com/artist/5mLkGiQbe2XJD2fwDLq7Bw) | [Ya No Estàs Aquì](https://open.spotify.com/album/7ABWSjRh6gp8dVjnFIRvgE) | 4:22 |
+| 57 | [Ya No Me Perteneces](https://open.spotify.com/track/6RPz8HwaPvZcAYrKbWeUwK) | [Black Power](https://open.spotify.com/artist/7lej6X2O5ME5i1k2ZOgE8O) | [Black Power](https://open.spotify.com/album/1PEDqdQ95BzfHpQT8TnVv0) | 4:27 |
 | 58 | [Que Locura Fue Enamorarme de Ti \(Remix\)](https://open.spotify.com/track/1Bi4FWSuiItUNREkaoeFY3) | [La Banda De Lechuga](https://open.spotify.com/artist/4fILEHnYOJmHI2Z1VhuWLZ), [Kevo DJ](https://open.spotify.com/artist/4Fr8ee9ec47r9fC8SqiO8z) | [Que Locura Fue Enamorarme de Ti \(Remix\)](https://open.spotify.com/album/7kOZWSE6Vtw3EB8z67Z2xe) | 2:21 |
 | 59 | [Duraznito](https://open.spotify.com/track/5tjqwBcn9WsaoaqS2oGJq2) | [Los Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [Discografía Completa Vol.1](https://open.spotify.com/album/455BXTyu53QqEeFnStn2FP) | 5:08 |
 | 60 | [Yendo No, Llegando](https://open.spotify.com/track/166qsYi2wR3u6qfg7wrh1r) | [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA), [EL NOBA](https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav), [R Jota](https://open.spotify.com/artist/48nBjHQMSKiboD7Z4fjZLi), [Dj Plaga](https://open.spotify.com/artist/6fOcj0NbaZF1GNiI5XnPEr), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR) | [Yendo No, Llegando](https://open.spotify.com/album/3b9MJ9krpxzCmggrlOpIyP) | 3:31 |
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmXOdGkHqGs.md) - [plain]
 | 91 | [Joda Clandestina](https://open.spotify.com/track/0GagwFgtQHNefc02XXEsMP) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg), [Mozthaza](https://open.spotify.com/artist/1IF5pf9iB2D66RVVbuFSGP) | [Joda Clandestina](https://open.spotify.com/album/0EPQkabXlUpa2Py5Wu9bXs) | 2:37 |
 | 92 | [El Chavo Beethoven](https://open.spotify.com/track/38IPjYhzIMEfUJqbT0nUcC) | [Memo Pimiento](https://open.spotify.com/artist/75rGLdO27FtfQhaHxOacV0) | [El Chavo Beethoven](https://open.spotify.com/album/5jKckInuVw1J8rAWnxPqKE) | 2:50 |
 | 93 | [No Se Va \- EN VIVO](https://open.spotify.com/track/23Lyy7ZXRvzfgH4JtDkKrX) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [No Se Va \(EN VIVO\)](https://open.spotify.com/album/5jgCL0iatyi00rPPXjmYS3) | 3:14 |
-| 94 | [Pa’ la Selección](https://open.spotify.com/track/4J1vAbtAhMdsdpO1sKU3EO) | [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B) | [Pa’ la Selección](https://open.spotify.com/album/3S3QVRXr0QxDc6bg5w4DbN) | 3:06 |
+| 94 | [Tiene Espinas El Rosal](https://open.spotify.com/track/1PZ3QsCFec05Ls3PwOqKXZ) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7) | [Grupo Cañaveral, Vol\. III](https://open.spotify.com/album/4lxhwVX8BPSeITPGBOzIJw) | 3:57 |
 | 95 | [Si No Te Tengo / Ángel / Aquello Que Pasó](https://open.spotify.com/track/1fKFxmSByZfjwVSbq0PHye) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Si No Te Tengo / Ángel / Aquello Que Pasó](https://open.spotify.com/album/0BmRinej1BC9Dk6AmpY6ND) | 7:08 |
-| 96 | [Tiene Espinas El Rosal](https://open.spotify.com/track/1PZ3QsCFec05Ls3PwOqKXZ) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7) | [Grupo Cañaveral, Vol\. III](https://open.spotify.com/album/4lxhwVX8BPSeITPGBOzIJw) | 3:57 |
-| 97 | [Inocente](https://open.spotify.com/track/1DFDbSWdESvzWHHAe6BCQ3) | [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q) | [Sonido Subtropical](https://open.spotify.com/album/6laFKE1r9Sc5ACUiVImrIV) | 5:10 |
+| 96 | [Pa’ la Selección](https://open.spotify.com/track/4J1vAbtAhMdsdpO1sKU3EO) | [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B) | [Pa’ la Selección](https://open.spotify.com/album/3S3QVRXr0QxDc6bg5w4DbN) | 3:06 |
+| 97 | [Que Te Vaya Bien](https://open.spotify.com/track/5IdaVuUzEDF3T56U5vS5ck) | [Grupo Jalado](https://open.spotify.com/artist/71mQj8OrRgy3smRMjnFioM) | [Que Te Vaya Bien](https://open.spotify.com/album/40Dl0QnoNEuO3tsbftHtIS) | 3:37 |
 | 98 | [OJITOS ROJOS](https://open.spotify.com/track/5LsvrplQ7YCK4ROg4gym9a) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [OJITOS ROJOS](https://open.spotify.com/album/6mJsfQtxflmwDCCaeDBwYV) | 3:41 |
-| 99 | [Que Te Vaya Bien](https://open.spotify.com/track/5IdaVuUzEDF3T56U5vS5ck) | [Grupo Jalado](https://open.spotify.com/artist/71mQj8OrRgy3smRMjnFioM) | [Que Te Vaya Bien](https://open.spotify.com/album/40Dl0QnoNEuO3tsbftHtIS) | 3:37 |
+| 99 | [Inocente](https://open.spotify.com/track/1DFDbSWdESvzWHHAe6BCQ3) | [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q) | [Sonido Subtropical](https://open.spotify.com/album/6laFKE1r9Sc5ACUiVImrIV) | 5:10 |
 | 100 | [Cómo estás](https://open.spotify.com/track/6bLvfGI2XeU5DTl8feuNrk) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Cómo estás](https://open.spotify.com/album/30wGCjJRi0wRjdKu12PQcd) | 3:47 |
 
 Snapshot ID: `AAAAABr6oL0Qu6uJNDESUxOxD9wQpQMk`

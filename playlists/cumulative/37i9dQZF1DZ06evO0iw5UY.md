@@ -4,7 +4,7 @@
 
 > This is Krewella\. The essential tracks, all in one playlist.
 
-80 songs - 4 hr 45 min
+81 songs - 4 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,8 @@
 | [Can't Control Myself](https://open.spotify.com/track/16tUjfbOz2vzcOC9KlMMfz) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [Play Hard EP](https://open.spotify.com/album/5EQQiOF2nQibGXo7a9vZ7m) | 3:39 | 2023-05-02 | 2026-03-02 |
 | [Can't Forget You \- 3LAU Remix](https://open.spotify.com/track/2zcoi9PYIEexfNmGXczab4) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr), [3LAU](https://open.spotify.com/artist/4YLQaW1UU3mrVetC8gNkg5) | [Ammunition: The Remixes](https://open.spotify.com/album/3iDJuaDQHMyK77LBWCdXD5) | 3:24 | 2023-05-02 | 2023-11-11 |
 | [Come & Get It](https://open.spotify.com/track/2tI2DDT95lnvNhlPWZRMJ3) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [Get Wet](https://open.spotify.com/album/1Y7A8ZaZ9QyeeOa3uWQJqc) | 3:25 | 2023-05-03 |  |
-| [Crying On The Dancefloor](https://open.spotify.com/track/7EcjCd8QWRTIKfRY0i4vTu) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [Crying On The Dancefloor](https://open.spotify.com/album/2eBcYBlG9vIfWxJRgupw1R) | 4:18 | 2025-06-11 |  |
+| [Crying On The Dancefloor](https://open.spotify.com/track/7EcjCd8QWRTIKfRY0i4vTu) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [Crying On The Dancefloor](https://open.spotify.com/album/2eBcYBlG9vIfWxJRgupw1R) | 4:18 | 2025-06-11 | 2026-05-24 |
+| [Crying On The Dancefloor \- Matrix & Futurebound Remix](https://open.spotify.com/track/5BGuQnjP0iZDQHk3AW1Hpc) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr), [Matrix & Futurebound](https://open.spotify.com/artist/41iVQ05he8SrfIWbZQ58N7), [Matrix](https://open.spotify.com/artist/3Z5ml7uZK8sG3jCu9oL8jK), [Futurebound](https://open.spotify.com/artist/2Vqj1e2oloOKNqAT2gpoa5) | [Crying On The Dancefloor \(Matrix & Futurebound Remix\)](https://open.spotify.com/album/1p8NwUCRGnRQ5SPgZb9lNT) | 3:35 | 2026-05-24 |  |
 | [dead af](https://open.spotify.com/track/1UKiY1fpnB1G1nPW6ilHhw) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [dead af](https://open.spotify.com/album/74cbGl9GHBaRM8yHO4Tt1Q) | 3:28 | 2023-05-02 |  |
 | [Drive Away](https://open.spotify.com/track/408UEGA6FV2nvQjr1nt1VT) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [The Body Never Lies](https://open.spotify.com/album/2xNgUtEGxaLSq5d9VGhhWy) | 4:00 | 2024-03-27 |  |
 | [Drive Away \(RetroVision Remix\)](https://open.spotify.com/track/1pSrJ6CpaOtoDTNgubJ6Zx) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr), [RetroVision](https://open.spotify.com/artist/6heMlLFM6RDDHRz99uKMqS) | [Drive Away \(RetroVision Remix\)](https://open.spotify.com/album/4f5xCHKOJaAPEMGTrgFRPg) | 3:25 | 2023-05-02 | 2024-03-28 |

@@ -1,6 +1,6 @@
 {
   "description": "\ud55c\uad6d \ud799\ud569\uc758 \ubfcc\ub9ac, \uc62c\ub4dc\uc2a4\ucfe8 \ud55c\uad6d \ud799\ud569\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (\ucee4\ubc84: Tiger JK)",
-  "num_followers": 6053,
+  "num_followers": 6058,
   "original_name": "\uc62c\ub4dc\uc2a4\ucfe8 \ud55c\uad6d\ud799\ud569 \ubca0\uc2a4\ud2b8",
   "owner": {
     "name": "Spotify",
@@ -323,18 +323,18 @@
     {
       "added_at": "2024-11-20 08:34:55",
       "album": {
-        "name": "HONEY FAMILY",
-        "url": "https://open.spotify.com/album/10rITeUipFURVOLf0PwJ7T"
+        "name": "Matics",
+        "url": "https://open.spotify.com/album/6TgefXLn8pEGjBK2UwkiFx"
       },
       "artists": [
         {
-          "name": "Honey Family",
-          "url": "https://open.spotify.com/artist/0Wv8nB1Ld3I7SdxKeHkxmX"
+          "name": "CB MASS",
+          "url": "https://open.spotify.com/artist/1P7AuUYePJ4GJPbEvqgPgL"
         }
       ],
-      "duration_ms": 298109,
-      "name": "\uc6b0\ub9ac \uac19\uc774\ud574\uc694",
-      "url": "https://open.spotify.com/track/5sj2hMW51QPNjJ8HiER4bU"
+      "duration_ms": 237772,
+      "name": "Whistle",
+      "url": "https://open.spotify.com/track/0yqX4crC7Bf9vWCHGZem2T"
     },
     {
       "added_at": "2024-11-20 08:34:55",
@@ -355,18 +355,18 @@
     {
       "added_at": "2024-11-20 08:34:55",
       "album": {
-        "name": "Massmediah",
-        "url": "https://open.spotify.com/album/0Su0Fa7STgIBkhoBS036nb"
+        "name": "HONEY FAMILY",
+        "url": "https://open.spotify.com/album/10rITeUipFURVOLf0PwJ7T"
       },
       "artists": [
         {
-          "name": "CB MASS",
-          "url": "https://open.spotify.com/artist/1P7AuUYePJ4GJPbEvqgPgL"
+          "name": "Honey Family",
+          "url": "https://open.spotify.com/artist/0Wv8nB1Ld3I7SdxKeHkxmX"
         }
       ],
-      "duration_ms": 219939,
-      "name": "the real thing (For The Club)(feat. Shin Ji Sun)",
-      "url": "https://open.spotify.com/track/261dj6cohdYbXv6tluzwRm"
+      "duration_ms": 298109,
+      "name": "\uc6b0\ub9ac \uac19\uc774\ud574\uc694",
+      "url": "https://open.spotify.com/track/5sj2hMW51QPNjJ8HiER4bU"
     },
     {
       "added_at": "2024-11-20 08:34:55",
@@ -407,6 +407,22 @@
     {
       "added_at": "2024-11-20 08:34:55",
       "album": {
+        "name": "Massmediah",
+        "url": "https://open.spotify.com/album/0Su0Fa7STgIBkhoBS036nb"
+      },
+      "artists": [
+        {
+          "name": "CB MASS",
+          "url": "https://open.spotify.com/artist/1P7AuUYePJ4GJPbEvqgPgL"
+        }
+      ],
+      "duration_ms": 219939,
+      "name": "the real thing (For The Club)(feat. Shin Ji Sun)",
+      "url": "https://open.spotify.com/track/261dj6cohdYbXv6tluzwRm"
+    },
+    {
+      "added_at": "2024-11-20 08:34:55",
+      "album": {
         "name": "Thunderground",
         "url": "https://open.spotify.com/album/30yMI8AM6gfZEnQu25KBfw"
       },
@@ -443,22 +459,6 @@
     {
       "added_at": "2024-11-20 08:34:55",
       "album": {
-        "name": "Matics",
-        "url": "https://open.spotify.com/album/6TgefXLn8pEGjBK2UwkiFx"
-      },
-      "artists": [
-        {
-          "name": "CB MASS",
-          "url": "https://open.spotify.com/artist/1P7AuUYePJ4GJPbEvqgPgL"
-        }
-      ],
-      "duration_ms": 237772,
-      "name": "Whistle",
-      "url": "https://open.spotify.com/track/0yqX4crC7Bf9vWCHGZem2T"
-    },
-    {
-      "added_at": "2024-11-20 08:34:55",
-      "album": {
         "name": "Last Days",
         "url": "https://open.spotify.com/album/68lIkpI3rmCFbjR0FKytTp"
       },
@@ -491,6 +491,22 @@
       "duration_ms": 188969,
       "name": "\ud0c4\ub760",
       "url": "https://open.spotify.com/track/4BVPrwyyitNd21QQA6jTZT"
+    },
+    {
+      "added_at": "2024-11-20 08:34:55",
+      "album": {
+        "name": "Matics",
+        "url": "https://open.spotify.com/album/6TgefXLn8pEGjBK2UwkiFx"
+      },
+      "artists": [
+        {
+          "name": "CB MASS",
+          "url": "https://open.spotify.com/artist/1P7AuUYePJ4GJPbEvqgPgL"
+        }
+      ],
+      "duration_ms": 267493,
+      "name": "Movement \u2162",
+      "url": "https://open.spotify.com/track/5j4ZSzlf2kcP3gxs6bIVlf"
     },
     {
       "added_at": "2024-11-20 08:34:55",
@@ -535,22 +551,6 @@
     {
       "added_at": "2024-11-20 08:34:55",
       "album": {
-        "name": "Matics",
-        "url": "https://open.spotify.com/album/6TgefXLn8pEGjBK2UwkiFx"
-      },
-      "artists": [
-        {
-          "name": "CB MASS",
-          "url": "https://open.spotify.com/artist/1P7AuUYePJ4GJPbEvqgPgL"
-        }
-      ],
-      "duration_ms": 267493,
-      "name": "Movement \u2162",
-      "url": "https://open.spotify.com/track/5j4ZSzlf2kcP3gxs6bIVlf"
-    },
-    {
-      "added_at": "2024-11-20 08:34:55",
-      "album": {
         "name": "High Society",
         "url": "https://open.spotify.com/album/57qISGcX0mPbwdCQ7KSOgq"
       },
@@ -583,6 +583,22 @@
       "duration_ms": 218671,
       "name": "\ub098\ub294\ub098\ubed0",
       "url": "https://open.spotify.com/track/42S1lt5LXC4HJKXgDyxcuB"
+    },
+    {
+      "added_at": "2024-11-20 08:34:55",
+      "album": {
+        "name": "Massmediah",
+        "url": "https://open.spotify.com/album/0Su0Fa7STgIBkhoBS036nb"
+      },
+      "artists": [
+        {
+          "name": "CB MASS",
+          "url": "https://open.spotify.com/artist/1P7AuUYePJ4GJPbEvqgPgL"
+        }
+      ],
+      "duration_ms": 260062,
+      "name": "compass",
+      "url": "https://open.spotify.com/track/0WqpJcQ3k9Kr2bUuywKPaw"
     },
     {
       "added_at": "2024-11-20 08:34:55",
@@ -643,22 +659,6 @@
     {
       "added_at": "2024-11-20 08:34:55",
       "album": {
-        "name": "Massmediah",
-        "url": "https://open.spotify.com/album/0Su0Fa7STgIBkhoBS036nb"
-      },
-      "artists": [
-        {
-          "name": "CB MASS",
-          "url": "https://open.spotify.com/artist/1P7AuUYePJ4GJPbEvqgPgL"
-        }
-      ],
-      "duration_ms": 260062,
-      "name": "compass",
-      "url": "https://open.spotify.com/track/0WqpJcQ3k9Kr2bUuywKPaw"
-    },
-    {
-      "added_at": "2024-11-20 08:34:55",
-      "album": {
         "name": "t 3 YOONMIRAE",
         "url": "https://open.spotify.com/album/1IpgVEDfoO0y50l2DyHu0L"
       },
@@ -695,6 +695,22 @@
     {
       "added_at": "2024-11-20 08:34:55",
       "album": {
+        "name": "Matics",
+        "url": "https://open.spotify.com/album/6TgefXLn8pEGjBK2UwkiFx"
+      },
+      "artists": [
+        {
+          "name": "CB MASS",
+          "url": "https://open.spotify.com/artist/1P7AuUYePJ4GJPbEvqgPgL"
+        }
+      ],
+      "duration_ms": 225140,
+      "name": "CBMASS is my friend",
+      "url": "https://open.spotify.com/track/6ZByy9slBDE3OSP0Kyih6g"
+    },
+    {
+      "added_at": "2024-11-20 08:34:55",
+      "album": {
         "name": "Thunderground",
         "url": "https://open.spotify.com/album/30yMI8AM6gfZEnQu25KBfw"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 477231,
       "name": "Movement 4",
       "url": "https://open.spotify.com/track/6kXS78PdKrHwpzTnAtKp13"
-    },
-    {
-      "added_at": "2024-11-20 08:34:55",
-      "album": {
-        "name": "Matics",
-        "url": "https://open.spotify.com/album/6TgefXLn8pEGjBK2UwkiFx"
-      },
-      "artists": [
-        {
-          "name": "CB MASS",
-          "url": "https://open.spotify.com/artist/1P7AuUYePJ4GJPbEvqgPgL"
-        }
-      ],
-      "duration_ms": 225140,
-      "name": "CBMASS is my friend",
-      "url": "https://open.spotify.com/track/6ZByy9slBDE3OSP0Kyih6g"
     },
     {
       "added_at": "2024-11-20 08:34:55",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2024-11-20 08:34:55",
       "album": {
-        "name": "\uc808\ucda9 3 : \ubd88\ud55c\ub2f9\ub4e4\uc758 \uc9c4\uc785\uacfc \uc804\ud22c Pt. 1",
-        "url": "https://open.spotify.com/album/3YBfM7wRxpAj4coq2Y6vJz"
-      },
-      "artists": [
-        {
-          "name": "P-Type",
-          "url": "https://open.spotify.com/artist/7ngC61jtmmjDi2vbJRG3yq"
-        }
-      ],
-      "duration_ms": 200933,
-      "name": "\ubd88\ud55c\ub2f9's oblige",
-      "url": "https://open.spotify.com/track/52pVTfenFprVcvSunAqBxc"
-    },
-    {
-      "added_at": "2024-11-20 08:34:55",
-      "album": {
         "name": "Heavy Deep",
         "url": "https://open.spotify.com/album/5BCPxcdCSPOy5MdLR9HN9S"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 231993,
       "name": "\uc774 \uad6c\uc5ed\uc5d0 \ubbf8\uce5c\ub188\uc740 \ub098\uc57c (feat. Geegooin & New Champ)",
       "url": "https://open.spotify.com/track/3diybLrU4zkdF4Ka1ICrEa"
+    },
+    {
+      "added_at": "2024-11-20 08:34:55",
+      "album": {
+        "name": "\uc808\ucda9 3 : \ubd88\ud55c\ub2f9\ub4e4\uc758 \uc9c4\uc785\uacfc \uc804\ud22c Pt. 1",
+        "url": "https://open.spotify.com/album/3YBfM7wRxpAj4coq2Y6vJz"
+      },
+      "artists": [
+        {
+          "name": "P-Type",
+          "url": "https://open.spotify.com/artist/7ngC61jtmmjDi2vbJRG3yq"
+        }
+      ],
+      "duration_ms": 200933,
+      "name": "\ubd88\ud55c\ub2f9's oblige",
+      "url": "https://open.spotify.com/track/52pVTfenFprVcvSunAqBxc"
     },
     {
       "added_at": "2024-11-20 08:34:55",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2024-11-20 08:34:55",
       "album": {
-        "name": "MP Hip Hop 2001 \ub300\ubc15",
-        "url": "https://open.spotify.com/album/3vANbrXhS13NTEmvy3F7Y1"
-      },
-      "artists": [
-        {
-          "name": "K.O.D",
-          "url": "https://open.spotify.com/artist/6jk1JvRWsPN3cEdkp5Qc5u"
-        }
-      ],
-      "duration_ms": 276306,
-      "name": "Around Us",
-      "url": "https://open.spotify.com/track/7ILCIKDNwYcKoT4LnvzYLy"
-    },
-    {
-      "added_at": "2024-11-20 08:34:55",
-      "album": {
         "name": "Heavy Deep",
         "url": "https://open.spotify.com/album/5BCPxcdCSPOy5MdLR9HN9S"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 297586,
       "name": "B.L.K. (feat. New Champ, Wutan, Carry Diamond, CeeJay, Swings, Okasian, Rocky L & Vasco) [Bonus Track]",
       "url": "https://open.spotify.com/track/5Aa65H6ueFTucHVZcSV4Bf"
+    },
+    {
+      "added_at": "2024-11-20 08:34:55",
+      "album": {
+        "name": "MP Hip Hop 2001 \ub300\ubc15",
+        "url": "https://open.spotify.com/album/3vANbrXhS13NTEmvy3F7Y1"
+      },
+      "artists": [
+        {
+          "name": "K.O.D",
+          "url": "https://open.spotify.com/artist/6jk1JvRWsPN3cEdkp5Qc5u"
+        }
+      ],
+      "duration_ms": 276306,
+      "name": "Around Us",
+      "url": "https://open.spotify.com/track/7ILCIKDNwYcKoT4LnvzYLy"
     },
     {
       "added_at": "2024-11-20 08:34:55",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2024-11-20 08:34:55",
       "album": {
-        "name": "MP Hip Hop 2001 \ub300\ubc15",
-        "url": "https://open.spotify.com/album/3vANbrXhS13NTEmvy3F7Y1"
-      },
-      "artists": [
-        {
-          "name": "Side B",
-          "url": "https://open.spotify.com/artist/2RYBJ332TJNMmPoh0JiXMy"
-        }
-      ],
-      "duration_ms": 263186,
-      "name": "Platonic",
-      "url": "https://open.spotify.com/track/0fNcOzC0pEqanUltpHsoD4"
-    },
-    {
-      "added_at": "2024-11-20 08:34:55",
-      "album": {
         "name": "Heavy Deep",
         "url": "https://open.spotify.com/album/5BCPxcdCSPOy5MdLR9HN9S"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 263575,
       "name": "\uc0dd\uae34\ub300\ub85c \ub180\uc544 (feat. Juvie Train & Koonta)",
       "url": "https://open.spotify.com/track/2sFF5YXdrsC39zLEERtmjV"
+    },
+    {
+      "added_at": "2024-11-20 08:34:55",
+      "album": {
+        "name": "MP Hip Hop 2001 \ub300\ubc15",
+        "url": "https://open.spotify.com/album/3vANbrXhS13NTEmvy3F7Y1"
+      },
+      "artists": [
+        {
+          "name": "Side B",
+          "url": "https://open.spotify.com/artist/2RYBJ332TJNMmPoh0JiXMy"
+        }
+      ],
+      "duration_ms": 263186,
+      "name": "Platonic",
+      "url": "https://open.spotify.com/track/0fNcOzC0pEqanUltpHsoD4"
     },
     {
       "added_at": "2024-11-20 08:34:55",
@@ -1628,21 +1628,13 @@
           "url": "https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy"
         },
         {
-          "name": "Notorious Kid",
-          "url": "https://open.spotify.com/artist/34jRpqNgQ6oIRmWSRTYjbF"
-        },
-        {
-          "name": "Friz",
-          "url": "https://open.spotify.com/artist/4PuEvEs294YAZWIbWojzDo"
-        },
-        {
-          "name": "Pumkin",
-          "url": "https://open.spotify.com/artist/4Kk6ZkqWkDHVywRCtX20XD"
+          "name": "Mad Clown",
+          "url": "https://open.spotify.com/artist/0dX6tgZKWpamoFHFuXFhwd"
         }
       ],
-      "duration_ms": 218265,
-      "name": "\ubb50 (feat. Notorious Kid, Friz & Pumkin)",
-      "url": "https://open.spotify.com/track/3qgm6blx9hXtZZysC9Yrbm"
+      "duration_ms": 84925,
+      "name": "Interlude (feat. Mad Clown)",
+      "url": "https://open.spotify.com/track/7pLOLSicKZhYp0OFXX1aiN"
     },
     {
       "added_at": "2024-11-20 08:34:55",
@@ -1724,13 +1716,21 @@
           "url": "https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy"
         },
         {
-          "name": "Mad Clown",
-          "url": "https://open.spotify.com/artist/0dX6tgZKWpamoFHFuXFhwd"
+          "name": "Notorious Kid",
+          "url": "https://open.spotify.com/artist/34jRpqNgQ6oIRmWSRTYjbF"
+        },
+        {
+          "name": "Friz",
+          "url": "https://open.spotify.com/artist/4PuEvEs294YAZWIbWojzDo"
+        },
+        {
+          "name": "Pumkin",
+          "url": "https://open.spotify.com/artist/4Kk6ZkqWkDHVywRCtX20XD"
         }
       ],
-      "duration_ms": 84925,
-      "name": "Interlude (feat. Mad Clown)",
-      "url": "https://open.spotify.com/track/7pLOLSicKZhYp0OFXX1aiN"
+      "duration_ms": 218265,
+      "name": "\ubb50 (feat. Notorious Kid, Friz & Pumkin)",
+      "url": "https://open.spotify.com/track/3qgm6blx9hXtZZysC9Yrbm"
     },
     {
       "added_at": "2024-11-20 08:34:55",

@@ -1,6 +1,6 @@
 {
   "description": "Hit the road and scream your heart out!",
-  "num_followers": 682431,
+  "num_followers": 682418,
   "original_name": "Highway to Yell",
   "owner": {
     "name": "Spotify",
@@ -175,22 +175,6 @@
     {
       "added_at": "2024-11-12 16:18:09",
       "album": {
-        "name": "Toys In The Attic",
-        "url": "https://open.spotify.com/album/6As5aOEQjfxLIChIB3fQRD"
-      },
-      "artists": [
-        {
-          "name": "Aerosmith",
-          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
-        }
-      ],
-      "duration_ms": 220310,
-      "name": "Walk This Way",
-      "url": "https://open.spotify.com/track/4JfuiOWlWCkjP6OKurHjSn"
-    },
-    {
-      "added_at": "2024-11-12 16:18:09",
-      "album": {
         "name": "Beggars Banquet (50th Anniversary Edition)",
         "url": "https://open.spotify.com/album/6OHri5qNxwCdVSdyCslspd"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 378146,
       "name": "Sympathy For The Devil - 50th Anniversary Edition",
       "url": "https://open.spotify.com/track/1Ud6moTC0KyXMq1Oxfien0"
+    },
+    {
+      "added_at": "2024-11-12 16:18:09",
+      "album": {
+        "name": "Toys In The Attic",
+        "url": "https://open.spotify.com/album/6As5aOEQjfxLIChIB3fQRD"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "duration_ms": 220310,
+      "name": "Walk This Way",
+      "url": "https://open.spotify.com/track/4JfuiOWlWCkjP6OKurHjSn"
     },
     {
       "added_at": "2024-11-12 16:18:09",
@@ -271,22 +271,6 @@
     {
       "added_at": "2024-11-12 16:18:09",
       "album": {
-        "name": "Ramones (40th Anniversary Deluxe Edition; 2016 Remaster)",
-        "url": "https://open.spotify.com/album/5uYDAwW0SZgcfOFkxrST64"
-      },
-      "artists": [
-        {
-          "name": "Ramones",
-          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
-        }
-      ],
-      "duration_ms": 134466,
-      "name": "Blitzkrieg Bop - 2016 Remaster",
-      "url": "https://open.spotify.com/track/4KcH1ZRV2W1q7Flq0QqC76"
-    },
-    {
-      "added_at": "2024-11-12 16:18:09",
-      "album": {
         "name": "The Number of the Beast (2015 Remaster)",
         "url": "https://open.spotify.com/album/5S3gls8Kjn8KVmqlIDEBbO"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 233506,
       "name": "Run to the Hills - 2015 Remaster",
       "url": "https://open.spotify.com/track/4Zc7TCHzuNwL0AFBlyLdyr"
+    },
+    {
+      "added_at": "2024-11-12 16:18:09",
+      "album": {
+        "name": "Ramones (40th Anniversary Deluxe Edition; 2016 Remaster)",
+        "url": "https://open.spotify.com/album/5uYDAwW0SZgcfOFkxrST64"
+      },
+      "artists": [
+        {
+          "name": "Ramones",
+          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
+        }
+      ],
+      "duration_ms": 134466,
+      "name": "Blitzkrieg Bop - 2016 Remaster",
+      "url": "https://open.spotify.com/track/4KcH1ZRV2W1q7Flq0QqC76"
     },
     {
       "added_at": "2024-11-12 16:18:09",
@@ -335,22 +335,6 @@
     {
       "added_at": "2024-11-12 16:18:09",
       "album": {
-        "name": "Jailbreak (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6Cf545T4jkaiyvMnTRPOB2"
-      },
-      "artists": [
-        {
-          "name": "Thin Lizzy",
-          "url": "https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ"
-        }
-      ],
-      "duration_ms": 266720,
-      "name": "The Boys Are Back In Town",
-      "url": "https://open.spotify.com/track/43DeSV93pJPT4lCZaWZ6b1"
-    },
-    {
-      "added_at": "2024-11-12 16:18:09",
-      "album": {
         "name": "One By One (Expanded Edition)",
         "url": "https://open.spotify.com/album/1zQ6F8gMagKcPL4SoA80cx"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 265560,
       "name": "Times Like These",
       "url": "https://open.spotify.com/track/67vYdAAM3oGsEImCRfbtsF"
+    },
+    {
+      "added_at": "2024-11-12 16:18:09",
+      "album": {
+        "name": "Jailbreak (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6Cf545T4jkaiyvMnTRPOB2"
+      },
+      "artists": [
+        {
+          "name": "Thin Lizzy",
+          "url": "https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ"
+        }
+      ],
+      "duration_ms": 266720,
+      "name": "The Boys Are Back In Town",
+      "url": "https://open.spotify.com/track/43DeSV93pJPT4lCZaWZ6b1"
     },
     {
       "added_at": "2024-11-12 16:18:09",
@@ -463,22 +463,6 @@
     {
       "added_at": "2024-11-12 16:18:09",
       "album": {
-        "name": "Nevermind (Remastered)",
-        "url": "https://open.spotify.com/album/2UJcKiJxNryhL050F5Z1Fk"
-      },
-      "artists": [
-        {
-          "name": "Nirvana",
-          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
-        }
-      ],
-      "duration_ms": 184040,
-      "name": "Breed",
-      "url": "https://open.spotify.com/track/3PyPpABRA2bTGhNwPd66H6"
-    },
-    {
-      "added_at": "2024-11-12 16:18:09",
-      "album": {
         "name": "Painkiller",
         "url": "https://open.spotify.com/album/7LgrhuKnAXpNEv8qzcVd2t"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 365826,
       "name": "Painkiller",
       "url": "https://open.spotify.com/track/0L7zm6afBEtrNKo6C6Gj08"
+    },
+    {
+      "added_at": "2024-11-12 16:18:09",
+      "album": {
+        "name": "Nevermind (Remastered)",
+        "url": "https://open.spotify.com/album/2UJcKiJxNryhL050F5Z1Fk"
+      },
+      "artists": [
+        {
+          "name": "Nirvana",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+        }
+      ],
+      "duration_ms": 184040,
+      "name": "Breed",
+      "url": "https://open.spotify.com/track/3PyPpABRA2bTGhNwPd66H6"
     },
     {
       "added_at": "2024-11-12 16:18:09",
@@ -783,22 +783,6 @@
     {
       "added_at": "2024-11-12 16:18:09",
       "album": {
-        "name": "Between the Devil & the Deep Blue Sea (Special Edition)",
-        "url": "https://open.spotify.com/album/5VppVyy751PTQWrfJbrJ4H"
-      },
-      "artists": [
-        {
-          "name": "Black Stone Cherry",
-          "url": "https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug"
-        }
-      ],
-      "duration_ms": 189133,
-      "name": "Blame It on the Boom Boom",
-      "url": "https://open.spotify.com/track/58VTMFtsoe0E0vSX1pV03h"
-    },
-    {
-      "added_at": "2024-11-12 16:18:09",
-      "album": {
         "name": "Them Crooked Vultures",
         "url": "https://open.spotify.com/album/0Z6IBizcq7DLXpenjSHqF3"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 228639,
       "name": "New Fang",
       "url": "https://open.spotify.com/track/7uJLdyIAaYLGT0oLw7I6b3"
+    },
+    {
+      "added_at": "2024-11-12 16:18:09",
+      "album": {
+        "name": "Between the Devil & the Deep Blue Sea (Special Edition)",
+        "url": "https://open.spotify.com/album/5VppVyy751PTQWrfJbrJ4H"
+      },
+      "artists": [
+        {
+          "name": "Black Stone Cherry",
+          "url": "https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug"
+        }
+      ],
+      "duration_ms": 189133,
+      "name": "Blame It on the Boom Boom",
+      "url": "https://open.spotify.com/track/58VTMFtsoe0E0vSX1pV03h"
     },
     {
       "added_at": "2024-11-12 16:18:09",
@@ -959,22 +959,6 @@
     {
       "added_at": "2024-11-12 16:18:09",
       "album": {
-        "name": "Contraband",
-        "url": "https://open.spotify.com/album/64GnrmrpL1fvfF0r1AoZLB"
-      },
-      "artists": [
-        {
-          "name": "Velvet Revolver",
-          "url": "https://open.spotify.com/artist/7CHilrn81OdYjkh4uSVnYM"
-        }
-      ],
-      "duration_ms": 236600,
-      "name": "Dirty Little Thing",
-      "url": "https://open.spotify.com/track/2NJ5fMRTfFZofOaTccEN9k"
-    },
-    {
-      "added_at": "2024-11-12 16:18:09",
-      "album": {
         "name": "We Are The Royal",
         "url": "https://open.spotify.com/album/5osUvIVodotBHXYbQhiYCN"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 154293,
       "name": "Tommy-Gun",
       "url": "https://open.spotify.com/track/2Wskx0dJg9TUl6glZohl4J"
+    },
+    {
+      "added_at": "2024-11-12 16:18:09",
+      "album": {
+        "name": "Contraband",
+        "url": "https://open.spotify.com/album/64GnrmrpL1fvfF0r1AoZLB"
+      },
+      "artists": [
+        {
+          "name": "Velvet Revolver",
+          "url": "https://open.spotify.com/artist/7CHilrn81OdYjkh4uSVnYM"
+        }
+      ],
+      "duration_ms": 236600,
+      "name": "Dirty Little Thing",
+      "url": "https://open.spotify.com/track/2NJ5fMRTfFZofOaTccEN9k"
     },
     {
       "added_at": "2024-11-12 16:18:09",

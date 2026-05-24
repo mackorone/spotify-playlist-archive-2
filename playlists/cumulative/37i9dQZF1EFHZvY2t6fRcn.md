@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7Ka1phroYqFsQPPQ1FOyBA">Trey Campbell</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-211 songs - 11 hr 28 min
+212 songs - 11 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,6 +120,7 @@
 | [I Love You, But](https://open.spotify.com/track/4dKAXI5lvnoan3m4YryZlN) | [Maya Delilah](https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM) | [The Long Way Round \(Deluxe\)](https://open.spotify.com/album/2wPN08yZghT08iRTUfeB1x) | 3:31 | 2026-02-11 |  |
 | [If We Were Made Of Water](https://open.spotify.com/track/2jWiqKyZKkcChQpwwmQH8k) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [III](https://open.spotify.com/album/0oXzdlZ9duItTwmJLXbAfo) | 3:24 | 2021-12-27 |  |
 | [Jane](https://open.spotify.com/track/7hyx7lEMBsMHgSYVNCDW2y) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Jane](https://open.spotify.com/album/7kjDusgZHn05WZuo2Xlww0) | 3:22 | 2022-08-28 |  |
+| [Like I Have You](https://open.spotify.com/track/6xRRRKbvaqRp2EhYnYWtWT) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [KONNAKOL](https://open.spotify.com/album/1gNQgz2ZDk9XNEBdJcs9zG) | 2:44 | 2026-05-23 |  |
 | [Look at Us Now](https://open.spotify.com/track/0u8yYdOuMq7KyslQ4Chi5z) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Courage \(Deluxe Edition\)](https://open.spotify.com/album/0mqNgHFh1NYaxmlMS5IeGc) | 3:18 | 2021-12-27 |  |
 | [Look What You're Doing To Me](https://open.spotify.com/track/0tEIWklg5pvkQGvxboLegR) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n), [Francis and the Lights](https://open.spotify.com/artist/23EA28263XvtIrXuySX6oI) | [III](https://open.spotify.com/album/0oXzdlZ9duItTwmJLXbAfo) | 4:00 | 2021-12-27 |  |
 | [Love Is Unkind](https://open.spotify.com/track/2yY0XtZqBEM4vDAJsa73EQ) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Love Is Unkind](https://open.spotify.com/album/2gwUck24fUDz3Rg8mV0JGU) | 3:33 | 2025-02-18 | 2025-03-03 |

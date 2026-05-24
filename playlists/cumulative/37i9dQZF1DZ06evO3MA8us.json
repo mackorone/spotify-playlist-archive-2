@@ -1544,7 +1544,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-28",
+      "date_removed": null,
       "duration_ms": 270690,
       "name": "Holy And Pleasing",
       "url": "https://open.spotify.com/track/1UiFAfCQapBE1igWa3mmoP"
@@ -1948,10 +1948,32 @@
       ],
       "date_added": "2026-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 258509,
       "name": "Just That Good",
       "url": "https://open.spotify.com/track/4Io4Eg5hbiwUbjOs4PFIGY"
+    },
+    {
+      "album": {
+        "name": "Just That Good",
+        "url": "https://open.spotify.com/album/2BGm18YT9Acvysh7cQYcBE"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Kristian Stanfill",
+          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
+        }
+      ],
+      "date_added": "2026-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235000,
+      "name": "Just That Good - Radio Version",
+      "url": "https://open.spotify.com/track/0hPtOfyIozo3DPPo1JNqG4"
     },
     {
       "album": {
@@ -1992,7 +2014,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 249013,
       "name": "King Of Glory - Live",
       "url": "https://open.spotify.com/track/38Gl5B0Ixqmeon96E2xsMl"
@@ -2776,8 +2798,8 @@
           "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
         },
         {
-          "name": "Kari Jobe",
-          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
+          "name": "Kari Jobe Carnes",
+          "url": "https://open.spotify.com/artist/3VTWrobRnI633EBuUSfyw3"
         },
         {
           "name": "Cody Carnes",

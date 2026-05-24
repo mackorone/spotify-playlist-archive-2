@@ -1,12 +1,12 @@
 {
   "description": "This is Carolina Ross. The essential tracks, all in one playlist.",
-  "num_followers": 103971,
+  "num_followers": 103972,
   "original_name": "This Is Carolina Ross",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ag5LAAAAAACCs1TTcZEyqzVD7oX46ED2",
+  "snapshot_id": "ag+cgAAAAABXJLB1dmWi3FfSS35l04sr",
   "tracks": [
     {
       "added_at": null,
@@ -595,22 +595,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pena Negra",
-        "url": "https://open.spotify.com/album/6sS807A3vu79g6Dkbar92U"
+        "name": "Mis Covers, Vol. 6",
+        "url": "https://open.spotify.com/album/4EjJTTbMsYqHHrZrl1vAy8"
       },
       "artists": [
-        {
-          "name": "La Sonora Santanera",
-          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
-        },
         {
           "name": "Carolina Ross",
           "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
         }
       ],
-      "duration_ms": 180800,
-      "name": "Pena Negra",
-      "url": "https://open.spotify.com/track/4Y7b2elmBKXRREiPwuZ3Hh"
+      "duration_ms": 182787,
+      "name": "Nadie Es Indispensable",
+      "url": "https://open.spotify.com/track/73nDfaFbDrTQIFEUG6Q2nY"
     },
     {
       "added_at": null,
@@ -647,6 +643,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pena Negra",
+        "url": "https://open.spotify.com/album/6sS807A3vu79g6Dkbar92U"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Santanera",
+          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
+        },
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 180800,
+      "name": "Pena Negra",
+      "url": "https://open.spotify.com/track/4Y7b2elmBKXRREiPwuZ3Hh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Malagradecido",
         "url": "https://open.spotify.com/album/5krkvlcYYbvYnuiUVwDFa9"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 174133,
       "name": "Malagradecido",
       "url": "https://open.spotify.com/track/09GKeaFkvYFasYLWC0S0Fm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mis Covers, Vol. 6",
-        "url": "https://open.spotify.com/album/4EjJTTbMsYqHHrZrl1vAy8"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 182787,
-      "name": "Nadie Es Indispensable",
-      "url": "https://open.spotify.com/track/73nDfaFbDrTQIFEUG6Q2nY"
     },
     {
       "added_at": null,
@@ -719,26 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Merecemos Perdonarnos (En Vivo)",
-        "url": "https://open.spotify.com/album/4vUxy6TypvUYyRcVUfPjhS"
-      },
-      "artists": [
-        {
-          "name": "Luis Alfonso Partida El Yaki",
-          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
-        },
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Merecemos Perdonarnos (En Vivo)",
-      "url": "https://open.spotify.com/track/0Xlne6EwDCM8qpBnIfvwUm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "TERAPIA",
         "url": "https://open.spotify.com/album/5vGmuVlclYBaBDZNDyBv9h"
       },
@@ -755,6 +735,26 @@
       "duration_ms": 161314,
       "name": "Empezar de Cero",
       "url": "https://open.spotify.com/track/5XsZdVYMjs2DM6ODdbGnHV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Merecemos Perdonarnos (En Vivo)",
+        "url": "https://open.spotify.com/album/4vUxy6TypvUYyRcVUfPjhS"
+      },
+      "artists": [
+        {
+          "name": "Luis Alfonso Partida El Yaki",
+          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
+        },
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Merecemos Perdonarnos (En Vivo)",
+      "url": "https://open.spotify.com/track/0Xlne6EwDCM8qpBnIfvwUm"
     },
     {
       "added_at": null,
@@ -811,22 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Menos Mal Que Me Quer\u00edas",
-        "url": "https://open.spotify.com/album/3YCAsPCW0YoyeXIghCfqVW"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 157638,
-      "name": "Menos Mal Que Me Quer\u00edas",
-      "url": "https://open.spotify.com/track/0Y6mbQ5tc2w0wLVDwPH0t4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Puro Chanela",
         "url": "https://open.spotify.com/album/2gmMeg70Z8lYhk3p4irB7G"
       },
@@ -851,6 +835,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Menos Mal Que Me Quer\u00edas",
+        "url": "https://open.spotify.com/album/3YCAsPCW0YoyeXIghCfqVW"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 157638,
+      "name": "Menos Mal Que Me Quer\u00edas",
+      "url": "https://open.spotify.com/track/0Y6mbQ5tc2w0wLVDwPH0t4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Yo Te Extra\u00f1ar\u00e9",
         "url": "https://open.spotify.com/album/4UK1fdTA3gZ1wkqdDRXa20"
       },
@@ -871,6 +871,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mis Covers",
+        "url": "https://open.spotify.com/album/5vGaNv6zQIAixUzSo0o9qY"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Ya Lo S\u00e9 Que T\u00fa Te Vas",
+      "url": "https://open.spotify.com/track/13JmKPnANDG4nNcXdURZNR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "No Puedo Odiarte",
         "url": "https://open.spotify.com/album/12f2qMADSsSx9WRvxkMYyr"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 126386,
       "name": "No Puedo Odiarte",
       "url": "https://open.spotify.com/track/6hD8rcGx9ImZtZsa0r9mPY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mis Covers",
-        "url": "https://open.spotify.com/album/5vGaNv6zQIAixUzSo0o9qY"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Ya Lo S\u00e9 Que T\u00fa Te Vas",
-      "url": "https://open.spotify.com/track/13JmKPnANDG4nNcXdURZNR"
     },
     {
       "added_at": null,

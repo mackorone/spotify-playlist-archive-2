@@ -1,6 +1,6 @@
 {
   "description": "de skarpeste knive i dansk musik  \ud83d\udcf8    Cover: A Good Year",
-  "num_followers": 47140,
+  "num_followers": 47142,
   "original_name": "ung kniv ",
   "owner": {
     "name": "Spotify",
@@ -235,22 +235,6 @@
     {
       "added_at": "2026-05-21 22:02:10",
       "album": {
-        "name": "Gav Det Et Skud",
-        "url": "https://open.spotify.com/album/5VSbZUKdlrZpXEOub9OEZJ"
-      },
-      "artists": [
-        {
-          "name": "August H\u00f8yen",
-          "url": "https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm"
-        }
-      ],
-      "duration_ms": 176489,
-      "name": "Gav Det Et Skud",
-      "url": "https://open.spotify.com/track/0GTdMP7x3g3sqWfc90C6il"
-    },
-    {
-      "added_at": "2026-05-21 22:02:10",
-      "album": {
         "name": "Sytten",
         "url": "https://open.spotify.com/album/0GI9UH21kp6Gp2dEwrll0J"
       },
@@ -267,18 +251,18 @@
     {
       "added_at": "2026-05-21 22:02:10",
       "album": {
-        "name": "Skyklapper",
-        "url": "https://open.spotify.com/album/4ap5LraN4yGYC0my4WUmkz"
+        "name": "Gav Det Et Skud",
+        "url": "https://open.spotify.com/album/5VSbZUKdlrZpXEOub9OEZJ"
       },
       "artists": [
         {
-          "name": "Rosa",
-          "url": "https://open.spotify.com/artist/5RacSDArd3wuqKnWx46sTM"
+          "name": "August H\u00f8yen",
+          "url": "https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm"
         }
       ],
-      "duration_ms": 173259,
-      "name": "Skyklapper",
-      "url": "https://open.spotify.com/track/5nkDngxLSMwnNbJ7YkomTA"
+      "duration_ms": 176489,
+      "name": "Gav Det Et Skud",
+      "url": "https://open.spotify.com/track/0GTdMP7x3g3sqWfc90C6il"
     },
     {
       "added_at": "2026-05-21 22:02:10",
@@ -299,6 +283,22 @@
     {
       "added_at": "2026-05-21 22:02:10",
       "album": {
+        "name": "Skyklapper",
+        "url": "https://open.spotify.com/album/4ap5LraN4yGYC0my4WUmkz"
+      },
+      "artists": [
+        {
+          "name": "Rosa",
+          "url": "https://open.spotify.com/artist/5RacSDArd3wuqKnWx46sTM"
+        }
+      ],
+      "duration_ms": 173259,
+      "name": "Skyklapper",
+      "url": "https://open.spotify.com/track/5nkDngxLSMwnNbJ7YkomTA"
+    },
+    {
+      "added_at": "2026-05-21 22:02:10",
+      "album": {
         "name": "Mig Og Min Mund",
         "url": "https://open.spotify.com/album/08AZxKNYc8cCbqYpBDqi3Q"
       },
@@ -315,22 +315,6 @@
     {
       "added_at": "2026-05-21 22:02:10",
       "album": {
-        "name": "Det Hele Handler Om Dig",
-        "url": "https://open.spotify.com/album/7vBik5UaEa7RClvhh4xkSS"
-      },
-      "artists": [
-        {
-          "name": "August H\u00f8yen",
-          "url": "https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm"
-        }
-      ],
-      "duration_ms": 198452,
-      "name": "Det Hele Handler Om Dig",
-      "url": "https://open.spotify.com/track/58DQTjsvh0005Us6pEc1OL"
-    },
-    {
-      "added_at": "2026-05-21 22:02:10",
-      "album": {
         "name": "Undskyld",
         "url": "https://open.spotify.com/album/2TURzDtJyIqpYaU7NFhmkb"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 154285,
       "name": "Undskyld",
       "url": "https://open.spotify.com/track/6Wau9vZtw62qiHfBOFnsfy"
+    },
+    {
+      "added_at": "2026-05-21 22:02:10",
+      "album": {
+        "name": "Det Hele Handler Om Dig",
+        "url": "https://open.spotify.com/album/7vBik5UaEa7RClvhh4xkSS"
+      },
+      "artists": [
+        {
+          "name": "August H\u00f8yen",
+          "url": "https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm"
+        }
+      ],
+      "duration_ms": 198452,
+      "name": "Det Hele Handler Om Dig",
+      "url": "https://open.spotify.com/track/58DQTjsvh0005Us6pEc1OL"
     },
     {
       "added_at": "2026-05-21 22:02:10",
@@ -527,6 +527,22 @@
       "duration_ms": 197397,
       "name": "Mandag Til Fredag",
       "url": "https://open.spotify.com/track/2LA30t2wNFyjgvbyms415y"
+    },
+    {
+      "added_at": "2026-05-21 22:02:10",
+      "album": {
+        "name": "lao shi",
+        "url": "https://open.spotify.com/album/2QAToXwax3o7UkhpMZSsW3"
+      },
+      "artists": [
+        {
+          "name": "Helena Gao",
+          "url": "https://open.spotify.com/artist/2s2ztYpVGqV3BWDbAcd35h"
+        }
+      ],
+      "duration_ms": 131440,
+      "name": "lao shi",
+      "url": "https://open.spotify.com/track/6Z3mpXWlxpH91pkxtvhfYK"
     },
     {
       "added_at": "2026-05-21 22:02:10",
@@ -843,22 +859,6 @@
     {
       "added_at": "2026-05-21 22:02:10",
       "album": {
-        "name": "Stay 4 U",
-        "url": "https://open.spotify.com/album/2YPDu0pGRiGESnixTgFQe7"
-      },
-      "artists": [
-        {
-          "name": "Caius",
-          "url": "https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi"
-        }
-      ],
-      "duration_ms": 184444,
-      "name": "Stay 4 U",
-      "url": "https://open.spotify.com/track/7ic1zj8awFw8dp0uu2VV12"
-    },
-    {
-      "added_at": "2026-05-21 22:02:10",
-      "album": {
         "name": "F\u00f8rhen",
         "url": "https://open.spotify.com/album/5Mt0SEkl9UPcCuWVebIxqR"
       },
@@ -871,6 +871,22 @@
       "duration_ms": 199313,
       "name": "F\u00f8rhen",
       "url": "https://open.spotify.com/track/2sgEeIveQ0pn5AnVSMhjHk"
+    },
+    {
+      "added_at": "2026-05-21 22:02:10",
+      "album": {
+        "name": "Stay 4 U",
+        "url": "https://open.spotify.com/album/2YPDu0pGRiGESnixTgFQe7"
+      },
+      "artists": [
+        {
+          "name": "Caius",
+          "url": "https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi"
+        }
+      ],
+      "duration_ms": 184444,
+      "name": "Stay 4 U",
+      "url": "https://open.spotify.com/track/7ic1zj8awFw8dp0uu2VV12"
     },
     {
       "added_at": "2026-05-21 22:02:10",
@@ -971,22 +987,6 @@
     {
       "added_at": "2026-05-21 22:02:10",
       "album": {
-        "name": "B\u00e6nkevarmer",
-        "url": "https://open.spotify.com/album/1XHFbdl2xxkl4cyAVyCqsd"
-      },
-      "artists": [
-        {
-          "name": "Ida Laurberg",
-          "url": "https://open.spotify.com/artist/03IbEiokQjTDfvdyIYV5D4"
-        }
-      ],
-      "duration_ms": 234138,
-      "name": "Uden At T\u00e6nke P\u00e5 Dig",
-      "url": "https://open.spotify.com/track/0C3B4j0LFTYz22XvR9tat1"
-    },
-    {
-      "added_at": "2026-05-21 22:02:10",
-      "album": {
         "name": "Pisk",
         "url": "https://open.spotify.com/album/76WG25xbB0WzKtfwgzivt1"
       },
@@ -1003,6 +1003,22 @@
       "duration_ms": 230635,
       "name": "Klubben (feat. Choir Of Young Believers)",
       "url": "https://open.spotify.com/track/6FKyUOnL2xAVqiu4HlwJKN"
+    },
+    {
+      "added_at": "2026-05-21 22:02:10",
+      "album": {
+        "name": "B\u00e6nkevarmer",
+        "url": "https://open.spotify.com/album/1XHFbdl2xxkl4cyAVyCqsd"
+      },
+      "artists": [
+        {
+          "name": "Ida Laurberg",
+          "url": "https://open.spotify.com/artist/03IbEiokQjTDfvdyIYV5D4"
+        }
+      ],
+      "duration_ms": 234138,
+      "name": "Uden At T\u00e6nke P\u00e5 Dig",
+      "url": "https://open.spotify.com/track/0C3B4j0LFTYz22XvR9tat1"
     },
     {
       "added_at": "2026-05-21 22:02:10",
@@ -1087,22 +1103,6 @@
     {
       "added_at": "2026-05-21 22:02:10",
       "album": {
-        "name": "Vilde Svaner",
-        "url": "https://open.spotify.com/album/0HXtOt97IMGoJgvjok6MKO"
-      },
-      "artists": [
-        {
-          "name": "Kn\u00e6gt",
-          "url": "https://open.spotify.com/artist/2ma469IFw27u95sH9V72l6"
-        }
-      ],
-      "duration_ms": 207660,
-      "name": "Vilde Svaner",
-      "url": "https://open.spotify.com/track/1yCjEZoEg0hICScFrASlMg"
-    },
-    {
-      "added_at": "2026-05-21 22:02:10",
-      "album": {
         "name": "Den Lykkelige Ungdom",
         "url": "https://open.spotify.com/album/3fJ3oOrnnde9HHFCzu0xfo"
       },
@@ -1115,6 +1115,22 @@
       "duration_ms": 163948,
       "name": "Den Lykkelige Ungdom",
       "url": "https://open.spotify.com/track/1AL7r6OKkjW77eRDaTZsSI"
+    },
+    {
+      "added_at": "2026-05-21 22:02:10",
+      "album": {
+        "name": "Vilde Svaner",
+        "url": "https://open.spotify.com/album/0HXtOt97IMGoJgvjok6MKO"
+      },
+      "artists": [
+        {
+          "name": "Kn\u00e6gt",
+          "url": "https://open.spotify.com/artist/2ma469IFw27u95sH9V72l6"
+        }
+      ],
+      "duration_ms": 207660,
+      "name": "Vilde Svaner",
+      "url": "https://open.spotify.com/track/1yCjEZoEg0hICScFrASlMg"
     },
     {
       "added_at": "2026-05-21 22:02:10",
@@ -1155,22 +1171,6 @@
     {
       "added_at": "2026-05-21 22:02:10",
       "album": {
-        "name": "The Way She Says Goodbye",
-        "url": "https://open.spotify.com/album/55Z9H1tbXpvoExNlFG1ShB"
-      },
-      "artists": [
-        {
-          "name": "Emily Bowen",
-          "url": "https://open.spotify.com/artist/4IcbSUnp61Iqco9c8OsTUc"
-        }
-      ],
-      "duration_ms": 165500,
-      "name": "Bye Sofia",
-      "url": "https://open.spotify.com/track/6hSPxHXE1atS2bMY53MPZW"
-    },
-    {
-      "added_at": "2026-05-21 22:02:10",
-      "album": {
         "name": "Eleanor's Escape",
         "url": "https://open.spotify.com/album/639kU4PVltUCtPQOL7rNUL"
       },
@@ -1187,18 +1187,18 @@
     {
       "added_at": "2026-05-21 22:02:10",
       "album": {
-        "name": "Lige s\u00e5 fucked som mig",
-        "url": "https://open.spotify.com/album/6hVpbms2YycDjkvHTSagOk"
+        "name": "The Way She Says Goodbye",
+        "url": "https://open.spotify.com/album/55Z9H1tbXpvoExNlFG1ShB"
       },
       "artists": [
         {
-          "name": "Marcus.wav",
-          "url": "https://open.spotify.com/artist/2IwoU1JvxmNCdD1i69FmKr"
+          "name": "Emily Bowen",
+          "url": "https://open.spotify.com/artist/4IcbSUnp61Iqco9c8OsTUc"
         }
       ],
-      "duration_ms": 150488,
-      "name": "Lige s\u00e5 fucked som mig",
-      "url": "https://open.spotify.com/track/4UFwMCiQUEgF9JgKSsa0Mu"
+      "duration_ms": 165500,
+      "name": "Bye Sofia",
+      "url": "https://open.spotify.com/track/6hSPxHXE1atS2bMY53MPZW"
     }
   ],
   "unique_name": "ung kniv ",

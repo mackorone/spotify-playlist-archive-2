@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7LGssahBoms.md) - [plain]
 
 > Le meilleur des années 70 en 70 titres.
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,284 likes - 70 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,303 likes - 70 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7LGssahBoms.md) - [plain]
 | 11 | [Let It Be \- Remastered 2009](https://open.spotify.com/track/7iN1s7xHE4ifF5povM6A48) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Let It Be \(Remastered\)](https://open.spotify.com/album/0jTGHV5xqHPvEcwL8f6YU5) | 4:03 |
 | 12 | [Message In A Bottle](https://open.spotify.com/track/1oYYd2gnWZYrt89EBXdFiO) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Reggatta De Blanc \(Remastered 2003\)](https://open.spotify.com/album/2EpuND32cO7CX0gXZl2NB6) | 4:50 |
 | 13 | [Imagine \- Remastered 2010](https://open.spotify.com/track/7pKfPomDEeI4TPT6EOYjn9) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H) | [Imagine](https://open.spotify.com/album/0xzaemKucrJpYhyl7TltAk) | 3:07 |
-| 14 | [Goodbye Yellow Brick Road \- Remastered 2014](https://open.spotify.com/track/4IRHwIZHzlHT1FQpRa5RdE) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Goodbye Yellow Brick Road \(Remastered\)](https://open.spotify.com/album/5WupqgR68HfuHt3BMJtgun) | 3:12 |
-| 15 | [Long Train Runnin'](https://open.spotify.com/track/4nXkbcTj3nyww1cHkw5RAP) | [The Doobie Brothers](https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz) | [The Captain and Me](https://open.spotify.com/album/0M2KWMbvY5x1sUnIKNpyUt) | 3:27 |
+| 14 | [Long Train Runnin'](https://open.spotify.com/track/4nXkbcTj3nyww1cHkw5RAP) | [The Doobie Brothers](https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz) | [The Captain and Me](https://open.spotify.com/album/0M2KWMbvY5x1sUnIKNpyUt) | 3:27 |
+| 15 | [Goodbye Yellow Brick Road \- Remastered 2014](https://open.spotify.com/track/4IRHwIZHzlHT1FQpRa5RdE) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Goodbye Yellow Brick Road \(Remastered\)](https://open.spotify.com/album/5WupqgR68HfuHt3BMJtgun) | 3:12 |
 | 16 | [Miss You \- Remastered](https://open.spotify.com/track/3hJLKtTpgct9Y9wKww0BiR) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Some Girls](https://open.spotify.com/album/1Jv2AqzhgsduUik2p4k3cS) | 4:48 |
 | 17 | [September](https://open.spotify.com/track/2grjqo0Frpf2okIBiifQKs) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [The Best Of Earth, Wind & Fire Vol\. 1](https://open.spotify.com/album/2FW0uQ4WL25umm5p2VrZO7) | 3:35 |
 | 18 | [Baker Street](https://open.spotify.com/track/5gOd6zDC8vhlYjqbQdJVWP) | [Gerry Rafferty](https://open.spotify.com/artist/7tjbDPvrdvDshcpEMXKRVb) | [City to City](https://open.spotify.com/album/35yZZTWeSrszSKjRlFETwf) | 6:05 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7LGssahBoms.md) - [plain]
 | 43 | [Don't Leave Me This Way](https://open.spotify.com/track/4Af8yzidDPc520TFd4TmkE) | [Thelma Houston](https://open.spotify.com/artist/3sgUnR8TF35euWEV07RPyO) | [The Best Of](https://open.spotify.com/album/6lap95wPl0DwJva1FLGIfx) | 3:37 |
 | 44 | [Pour un flirt](https://open.spotify.com/track/0RDUfBXGq7lhBAqlyu0UAy) | [Michel Delpech](https://open.spotify.com/artist/4T795JhhCZMWM01DLcX98p) | [Pour Un Flirt \- Vol.1](https://open.spotify.com/album/4rjlNg6YeoR9JqMaWhFi71) | 3:26 |
 | 45 | [Give A Little Bit](https://open.spotify.com/track/6XUHsYE38CEbYunT983O9G) | [Supertramp](https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx) | [Even In The Quietest Moments](https://open.spotify.com/album/4X87hQ57jTYQTcYTaJWK5w) | 4:08 |
-| 46 | [L'été indien](https://open.spotify.com/track/7BNeFchpHDCWYSUV4hfU89) | [Joe Dassin](https://open.spotify.com/artist/64LCTpIu9Iji2EPaxxPpxF) | [Joe Dassin Éternel...](https://open.spotify.com/album/3BRgfYZqKjLoqmEt1jZSHa) | 4:29 |
-| 47 | [Hotel California \- 2013 Remaster](https://open.spotify.com/track/1ZA8L9IOkRhmmz4nPXXx7h) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [The Complete Greatest Hits \(2013 Remaster\)](https://open.spotify.com/album/21SQdfthbXUibmA8Jtf30b) | 6:31 |
+| 46 | [Hotel California \- 2013 Remaster](https://open.spotify.com/track/1ZA8L9IOkRhmmz4nPXXx7h) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [The Complete Greatest Hits \(2013 Remaster\)](https://open.spotify.com/album/21SQdfthbXUibmA8Jtf30b) | 6:31 |
+| 47 | [L'été indien](https://open.spotify.com/track/7BNeFchpHDCWYSUV4hfU89) | [Joe Dassin](https://open.spotify.com/artist/64LCTpIu9Iji2EPaxxPpxF) | [Joe Dassin Éternel...](https://open.spotify.com/album/3BRgfYZqKjLoqmEt1jZSHa) | 4:29 |
 | 48 | [Je suis venu te dire que je m'en vais](https://open.spotify.com/track/5cC9RZFMzrpbA9U1m4zSPm) | [Serge Gainsbourg](https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo) | [Vu de l'extérieur](https://open.spotify.com/album/0NACl36sqipY6OZXOqy1At) | 3:23 |
 | 49 | [Sur la route de Memphis](https://open.spotify.com/track/6NQ1iVoOqcYKDdsrkLi1PK) | [Eddy Mitchell](https://open.spotify.com/artist/4KBk9hwqFYtGS3DlZJiCsQ) | [Sur La Route De Memphis](https://open.spotify.com/album/53SYGh9begSjMAyh0MgpLJ) | 2:53 |
 | 50 | [Say It Ain't So, Joe](https://open.spotify.com/track/6vJZnE3jJWfxOIVONjntUO) | [Murray Head](https://open.spotify.com/artist/479Yp6DvyXoIaCssAxB4QR) | [Say It Ain't So](https://open.spotify.com/album/0xs6oggygZLeaN1qVLSugB) | 4:40 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7LGssahBoms.md) - [plain]
 | 60 | [Isn't She Lovely](https://open.spotify.com/track/0VFKMaDnEAmi90P9dOwtyz) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [At The Close Of A Century](https://open.spotify.com/album/04giHQ9zptJUHUvtIyxL9Z) | 6:34 |
 | 61 | [I Can Help](https://open.spotify.com/track/6oDOACuzVZPMNaAfLGpCWG) | [Billy Swan](https://open.spotify.com/artist/6nNkKMkPl1qBCEW3Al9eVV) | [70s 100 Hits](https://open.spotify.com/album/1k7WkNHGPNPnri2tsowvtg) | 3:57 |
 | 62 | [Musique \- Remasterisé en 2004](https://open.spotify.com/track/0TrSWhokDH5OfUdvU2qIdJ) | [France Gall](https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I) | [Dancing Disco \(Edition Deluxe\) \[Remasterisé en 2004\]](https://open.spotify.com/album/2tJBpkXgpcxb59u0Pi3FMi) | 5:25 |
-| 63 | [Téléphone\-moi](https://open.spotify.com/track/5zILwyLYKdDRgMBfuOZYob) | [Nicole Croisille](https://open.spotify.com/artist/6nKiMtIgRJLOREJtl0eBfV) | [Téléphone\-moi / Tu m'avais dit \- Single](https://open.spotify.com/album/3Z8ys5UIyDtytg6pfsKAUS) | 3:10 |
-| 64 | [Où sont les femmes](https://open.spotify.com/track/1QhmS32Uo9BZCznhbYBRyY) | [Patrick Juvet](https://open.spotify.com/artist/7c5wlQVkajxJG0X13D0Fpc) | [Best Of](https://open.spotify.com/album/0AOw7IUisWy0h8VjcP6CGp) | 6:16 |
+| 63 | [Où sont les femmes](https://open.spotify.com/track/1QhmS32Uo9BZCznhbYBRyY) | [Patrick Juvet](https://open.spotify.com/artist/7c5wlQVkajxJG0X13D0Fpc) | [Best Of](https://open.spotify.com/album/0AOw7IUisWy0h8VjcP6CGp) | 6:16 |
+| 64 | [Téléphone\-moi](https://open.spotify.com/track/5zILwyLYKdDRgMBfuOZYob) | [Nicole Croisille](https://open.spotify.com/artist/6nKiMtIgRJLOREJtl0eBfV) | [Téléphone\-moi / Tu m'avais dit \- Single](https://open.spotify.com/album/3Z8ys5UIyDtytg6pfsKAUS) | 3:10 |
 | 65 | [The Fool \- Version Remasterisée 2021](https://open.spotify.com/track/256L5lP9i1w5PFIPEdZ1DJ) | [Gilbert Montagné](https://open.spotify.com/artist/4qJ1NPJIburUjxcucKOhvu) | [The Fool](https://open.spotify.com/album/32NiN3HsKzBrSSo1PV2cpa) | 3:08 |
 | 66 | [My Sweet Lord \- Remastered 2014](https://open.spotify.com/track/0qdQUeKVyevrbKhAo0ibxS) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [All Things Must Pass \(Remastered 2014\)](https://open.spotify.com/album/4I4xtHaIFOzhZfp1NIHkY6) | 4:41 |
 | 67 | [La Grange \- 2005 Remaster](https://open.spotify.com/track/70YvYr2hGlS01bKRIho1HM) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Tres Hombres \(Expanded 2006 Remaster\)](https://open.spotify.com/album/0Em8m9kRctyH9S3MTXAHvY) | 3:50 |

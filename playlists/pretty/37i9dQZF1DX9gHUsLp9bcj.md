@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gHUsLp9bcj.md) - [plain]
 
 > The Latin soundtrack of the 50s! Cover: Pedro Infante
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,533 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,551 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,12 +25,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gHUsLp9bcj.md) - [plain]
 | 15 | [Que Rico el Mambo](https://open.spotify.com/track/4XgsTDM3I0T6D0hvWBVWOC) | [Pérez Prado y Su Gran Orquesta](https://open.spotify.com/artist/0LIjbauWCv9ccbewmWnV5x) | [El Rey del Mambo](https://open.spotify.com/album/3cyW7js4KZs8LZ9tMHESy7) | 3:08 |
 | 16 | [Cerezo Rosa \- Remastered](https://open.spotify.com/track/1caIyurPdAPvl9kUyNfwir) | [Pérez Prado](https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT) | [Sus Éxitos Fabulosos \(Remastered\)](https://open.spotify.com/album/33RJnq1ma4lVTBKPCK92vf) | 2:47 |
 | 17 | [La Mucura](https://open.spotify.com/track/5VnjVNlLBuSaBtRlWM8nNw) | [Beny Moré](https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw), [Pérez Prado](https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT) | [Benny Moré Con Pérez Prado](https://open.spotify.com/album/6J7SeH8SbEgXbLxGsRedQt) | 3:14 |
-| 18 | [La que se fue](https://open.spotify.com/track/7jbw51fAxM61ELUdfvx8Ua) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [60 Rancheras Inmortales](https://open.spotify.com/album/7r20ZE4dXhmE7Ldc9sGeok) | 2:39 |
+| 18 | [Pénjamo](https://open.spotify.com/track/2vKYADIQCZb07DRE4LzwxK) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [60 Rancheras Inmortales](https://open.spotify.com/album/7r20ZE4dXhmE7Ldc9sGeok) | 3:15 |
 | 19 | [Ruega por Nosotros](https://open.spotify.com/track/7HeuflCAk9ygJnbUXCxskh) | [Miguel Aceves Mejia](https://open.spotify.com/artist/23XJNT1Hb35h3ZCDl7lpWY) | [Lo Mejor De Lo Mejor De RCA Victor](https://open.spotify.com/album/2PactlWmapDE3PmauHBEPo) | 3:32 |
 | 20 | [Aquellos ojos verdes \(bolero\)](https://open.spotify.com/track/7lNA5fkgtuoLoheD6Rdk8V) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz), [Agustín Lara](https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop) | [Alma de negro](https://open.spotify.com/album/3F5U5ghrNGPnijdMvduDMj) | 2:20 |
 | 21 | [Doce Cascabeles](https://open.spotify.com/track/7BUvNHsdaKgSjoGsAL4UJA) | [Los Churumbeles De España](https://open.spotify.com/artist/5jpiQUq0Xyneu77BPajLu4) | [Los Churumbeles](https://open.spotify.com/album/3D1Be6P20ztSlF2HHWwMA3) | 3:12 |
 | 22 | [Usted](https://open.spotify.com/track/20NBwMxhtHrNgnWFIlNeP4) | [Los Tres Diamantes](https://open.spotify.com/artist/1xw1uyV0tzUHU2d850PAH1) | [Canciones De Amor](https://open.spotify.com/album/0aqqz67nPmidIqCUfaO69n) | 3:14 |
-| 23 | [Pénjamo](https://open.spotify.com/track/2vKYADIQCZb07DRE4LzwxK) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [60 Rancheras Inmortales](https://open.spotify.com/album/7r20ZE4dXhmE7Ldc9sGeok) | 3:15 |
+| 23 | [La que se fue](https://open.spotify.com/track/7jbw51fAxM61ELUdfvx8Ua) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [60 Rancheras Inmortales](https://open.spotify.com/album/7r20ZE4dXhmE7Ldc9sGeok) | 2:39 |
 | 24 | [La Cama de Piedra](https://open.spotify.com/track/0W2sWeK8d32hqAPIvpq8Kl) | [Cuco Sánchez](https://open.spotify.com/artist/1M1VkVEy3JGFFyPy7oKH2E) | [El Revolucionario](https://open.spotify.com/album/6nyUcQEosgPKpNUhkp3bAI) | 3:12 |
 | 25 | [Cuando Calienta El Sol](https://open.spotify.com/track/7pP7yMX0Nu862YXP5S9Eqs) | [Trini Lopez](https://open.spotify.com/artist/5FlTKgucbhHvlJVf0pnvOv) | [His 28 Greatest Hits](https://open.spotify.com/album/0le6lAknFh1BF6GZ3GSTon) | 2:26 |
 | 26 | [Quiereme siempre \- Remastered](https://open.spotify.com/track/29fdJkJSmD4PoSJamszJQF) | [Los 5 Latinos](https://open.spotify.com/artist/7aZR9nyaShysVN1JyGoPsA) | [Por siempre los 5 latinos, Vol\. 1 \(Remastered\)](https://open.spotify.com/album/19eaIeTw3q3pWrN5q5R1R6) | 2:16 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gHUsLp9bcj.md) - [plain]
 | 33 | [Recordaré tu amor \(remastered\)](https://open.spotify.com/track/5lBHAdOAalYZTMdF0TkBYK) | [Monna Bell](https://open.spotify.com/artist/2aJtGPY592hgmkGzD9oleC) | [Monna Bell\. Sus Primeros EP's \(1959\-1961\)](https://open.spotify.com/album/6bdKkTA2hfqQQ32fhkamO3) | 3:14 |
 | 34 | [Mariquilla \(remastered\)](https://open.spotify.com/track/1oHiwtCvNIXavqFbb1cP45) | [José Luis Y Su Guitarra](https://open.spotify.com/artist/1vCJVeY7z8P4vglJBTScQx) | [José Luis Y Su Guitarra\. Todos Sus Primeros EP's En Discos Philips \(1958\-1960\)](https://open.spotify.com/album/6NI3n5j27E7qiU66tTbfRw) | 2:36 |
 | 35 | [Luna de miel](https://open.spotify.com/track/6XeBrrONfLyB25iWk7I00R) | [Gloria Lasso](https://open.spotify.com/artist/2ufn5Tb2Vau3Y2kMNkJr47) | [Como Acostumbras](https://open.spotify.com/album/5obF728wpq8sOPlW0atl0A) | 2:48 |
-| 36 | [El agarrao \- Remastered](https://open.spotify.com/track/1D8odg3YqpBNDPL9pIx5ql) | [Benny Moré](https://open.spotify.com/artist/4cnQXgOckSZPIh3YhB500P) | [Cienfuegos \(Remastered\)](https://open.spotify.com/album/53cadHSNf6jX0PLCeet7Fc) | 2:41 |
-| 37 | [Yo](https://open.spotify.com/track/7E94RnuinkUBYSengvutwL) | [Andrés Huesca](https://open.spotify.com/artist/1orgmwm2zOE5T4HJQWOuAt) | [México 100 Canciones Vintage](https://open.spotify.com/album/20OYDA6NCIXxUFuprskMbd) | 3:07 |
+| 36 | [Yo](https://open.spotify.com/track/7E94RnuinkUBYSengvutwL) | [Andrés Huesca](https://open.spotify.com/artist/1orgmwm2zOE5T4HJQWOuAt) | [México 100 Canciones Vintage](https://open.spotify.com/album/20OYDA6NCIXxUFuprskMbd) | 3:07 |
+| 37 | [El agarrao \- Remastered](https://open.spotify.com/track/1D8odg3YqpBNDPL9pIx5ql) | [Benny Moré](https://open.spotify.com/artist/4cnQXgOckSZPIh3YhB500P) | [Cienfuegos \(Remastered\)](https://open.spotify.com/album/53cadHSNf6jX0PLCeet7Fc) | 2:41 |
 | 38 | [Cha\-Cha De Pollos \(Cha\-Cha for Chicks\)](https://open.spotify.com/track/69M6PgRULo02mZYzsN7fq5) | [Tito Puente & His Orchestra](https://open.spotify.com/artist/1zN5Et4jcH3XQ0b60IGmp1) | [Cuban Carnival](https://open.spotify.com/album/0xIAUeelYazwvkKeY4NEYS) | 2:47 |
 | 39 | [Cuban Nightmare](https://open.spotify.com/track/66QFXwU9ctm6PiiBqJrSZV) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [Hoy y Ayer](https://open.spotify.com/album/1Gg0LMPxbrR8SCXtAMveyG) | 3:03 |
 | 40 | [Buenas noches mi amor \- Remastered](https://open.spotify.com/track/6bQY6gpm9XJlTy9jnSEBGz) | [Gloria Lasso](https://open.spotify.com/artist/2ufn5Tb2Vau3Y2kMNkJr47) | [Grandes éxitos \(Remastered\)](https://open.spotify.com/album/6kyb9QnVg8T3kDUILSb0CQ) | 2:44 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gHUsLp9bcj.md) - [plain]
 | 47 | [Espinita](https://open.spotify.com/track/1rkaB2VH8rNrOTvXSeDW9x) | [Ana María González](https://open.spotify.com/artist/5kUndRPKfSpxJ8WoDImOZU) | [Canciones de la Radio, Vol\. 2](https://open.spotify.com/album/1RSIAuaT4DTduD6mtsjRPI) | 2:21 |
 | 48 | [Cuál Es La Idea \(What's the Idea\)](https://open.spotify.com/track/4CNCGwxNp9rnVqo2fzmDYK) | [Tito Puente & His Orchestra](https://open.spotify.com/artist/1zN5Et4jcH3XQ0b60IGmp1) | [Cuban Carnival](https://open.spotify.com/album/0xIAUeelYazwvkKeY4NEYS) | 3:19 |
 | 49 | [No Me Platiques Más](https://open.spotify.com/track/6G6oAAr2x7ndjFfHiB23Lt) | [Los Tres Ases](https://open.spotify.com/artist/2AvUIlDzLMzaxajDtniU4B) | [Sus Mejores Boleros](https://open.spotify.com/album/0qN42jK4MHgVt7uEclhJpu) | 2:56 |
-| 50 | [Mambo No 5](https://open.spotify.com/track/3fQLXoRwKQTnThncdMCqwG) | [Pérez Prado](https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT) | [Plays Mucho Mambo..\. and Other Fantastic Compositions](https://open.spotify.com/album/2vBCLoEAjZqU4CGWfcMqIk) | 2:36 |
+| 50 | [Angustia](https://open.spotify.com/track/5ZQi9369ovLvjyvp4vEHTM) | [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD), [Bienvenido Granda](https://open.spotify.com/artist/4IyPs1rPOAQOnXeqUTjty4) | [La Sonora Matancera Desde Cuba\. 20 Éxitos](https://open.spotify.com/album/1kbXCTnGNOxY3jPGnrfxN1) | 2:57 |
 
 Snapshot ID: `AAAAALJmsNQZ3vp0d5qcYNe0UCQv95c8`

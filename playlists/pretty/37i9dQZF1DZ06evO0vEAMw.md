@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vEAMw.md) - [plain]
 
 > This is Davido\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,447 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,472 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vEAMw.md) - [plain]
 | 16 | [Jowo](https://open.spotify.com/track/4ibxmEgdIWYAQjXl0ivFmW) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [A Better Time](https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD) | 2:56 |
 | 17 | [Dada \(feat\. Davido\) \[Remix\]](https://open.spotify.com/track/2IBrgYf3Hjw16c6oNwkZ9M) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Dada \(feat\. Davido\) \[Remix\]](https://open.spotify.com/album/0tqiftjjP81odLWXCrhmUD) | 2:57 |
 | 18 | [AWAY](https://open.spotify.com/track/14gQ7SmMZeeEC3YAPB5vFw) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Timeless](https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS) | 2:33 |
-| 19 | [Ride For You](https://open.spotify.com/track/00d0ILlSL8Np5IhVIyAP02) | [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Deal With It](https://open.spotify.com/album/1jLhAmn3rw2GjKy28gvCtS) | 3:37 |
-| 20 | [GROOVING \(feat\. Davido and Seun Kuti\)](https://open.spotify.com/track/73rLXBXwSfBqGmWw2x8i8t) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Seun Kuti](https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ) | [INDUSTRY MACHINE](https://open.spotify.com/album/0I8i8NKTztZQJiQCkUSA63) | 2:46 |
+| 19 | [GROOVING \(feat\. Davido and Seun Kuti\)](https://open.spotify.com/track/73rLXBXwSfBqGmWw2x8i8t) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Seun Kuti](https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ) | [INDUSTRY MACHINE](https://open.spotify.com/album/0I8i8NKTztZQJiQCkUSA63) | 2:46 |
+| 20 | [Ride For You](https://open.spotify.com/track/00d0ILlSL8Np5IhVIyAP02) | [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Deal With It](https://open.spotify.com/album/1jLhAmn3rw2GjKy28gvCtS) | 3:37 |
 | 21 | [Fall](https://open.spotify.com/track/1hEXElwyPez2z7m5dZ56Mc) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [A Good Time](https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n) | 4:00 |
 | 22 | [OVER DEM](https://open.spotify.com/track/1KCCxeit3q5wJXxDmRgbl3) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Timeless](https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS) | 3:18 |
 | 23 | [Aye](https://open.spotify.com/track/4bsuDNPQkP4mQWzoXglF52) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Aye](https://open.spotify.com/album/2XqFAn4dRXjHOAQnslNR8s) | 3:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vEAMw.md) - [plain]
 | 49 | [FOR YOU](https://open.spotify.com/track/4c7UBMrX7NC9QHtZQCQKBn) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [WONDALAND](https://open.spotify.com/album/2a4aRlgreoL2pMyh0fLczw) | 3:08 |
 | 50 | [Aza](https://open.spotify.com/track/38CYTisSSjMhhHqFyj6w4l) | [DMW](https://open.spotify.com/artist/6DmouQfvRZ2y9auxK3DjuI), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Duncan Mighty](https://open.spotify.com/artist/5N47dnIfPuGH8kIHpf8gZK), [Peruzzi](https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf) | [Aza](https://open.spotify.com/album/1FEEBPf8hVb5OplQtmvsPv) | 3:44 |
 
-Snapshot ID: `ag5LAAAAAABENW5FvwCjQp2nIYq5cv9V`
+Snapshot ID: `ag+cgAAAAAAN126lvAOVIGuzWeO2m8M1`

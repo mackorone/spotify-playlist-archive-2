@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/21JhxcGHq3awKEjLrsnRD8">Emily Weisband</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-215 songs - 12 hr 2 min
+216 songs - 12 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,7 +171,8 @@
 | [Small Town Heart](https://open.spotify.com/track/6JkTj4Wuu8fsLdHprXB7fB) | [Macy Martin](https://open.spotify.com/artist/3jtrkW7BFCTcFA6HXPv0O9) | [Small Town Heart](https://open.spotify.com/album/2Yp3tzB7e2LYqv4w1b4Hty) | 3:25 | 2026-05-19 |  |
 | [Something I'm Not](https://open.spotify.com/track/6HQMEEo4h1EIp8JfzwHZKQ) | [Emily Weisband](https://open.spotify.com/artist/1am9EW2QubqpkCbg29vu5n) | [Identity Crisis](https://open.spotify.com/album/3lbaOO0V8HmnSDcmd85QAw) | 3:16 | 2026-05-19 |  |
 | [Songs I'd Rather Not Sing](https://open.spotify.com/track/7aFB4Ewl1dydxKChS10B0D) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [A Light That Waits](https://open.spotify.com/album/7i0C3YuMEYy28jIz4aCPRt) | 2:44 | 2026-05-19 |  |
-| [Stay](https://open.spotify.com/track/4Vkt702ZXHUpBrOhciI3jI) | [Keep The Grind Records](https://open.spotify.com/artist/3uF9fwB5UBKoTyeGNF32HN), [Skinny Josh](https://open.spotify.com/artist/5LAJTgEm8jkXBx0iAbJ7vm), [JDASHME](https://open.spotify.com/artist/3awQHevWcn7ScSU9bYxaeW) | [Spring In Miami: Part One](https://open.spotify.com/album/3PSYAD7v7DHFZQ5fysuVUy) | 3:12 | 2026-05-19 |  |
+| [Stay](https://open.spotify.com/track/7AYev376NUrJ1JaxmfhKyM) | [Andenix](https://open.spotify.com/artist/1vxk9sFXF2O4fUymcUUllP), [Josh Knox](https://open.spotify.com/artist/7ynWG75kdenNhClpJwwx4M) | [Stay](https://open.spotify.com/album/2tXewxcwpzvvZw7prXByPS) | 4:07 | 2026-05-23 |  |
+| [Stay](https://open.spotify.com/track/4Vkt702ZXHUpBrOhciI3jI) | [Keep The Grind Records](https://open.spotify.com/artist/3uF9fwB5UBKoTyeGNF32HN), [Skinny Josh](https://open.spotify.com/artist/5LAJTgEm8jkXBx0iAbJ7vm), [JDASHME](https://open.spotify.com/artist/3awQHevWcn7ScSU9bYxaeW) | [Spring In Miami: Part One](https://open.spotify.com/album/3PSYAD7v7DHFZQ5fysuVUy) | 3:12 | 2026-05-19 | 2026-05-24 |
 | [Steady Me](https://open.spotify.com/track/16uuHTbhOckbjo1mV77c0R) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk) | [When You Speak](https://open.spotify.com/album/0ZhquyWDlKCae6wcNjIouZ) | 4:23 | 2026-05-19 |  |
 | [Steal My Thunder](https://open.spotify.com/track/7yk6FXxIoIdCp3rgc4Uz5E) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Graffiti U](https://open.spotify.com/album/52aaxT2Se2oUyijUbWwp3Z) | 7:16 | 2026-05-19 |  |
 | [Still Alive](https://open.spotify.com/track/48FNLOPGDxC0KM51hG5yU9) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk) | [The Story's Not Over](https://open.spotify.com/album/3gSR4A397QFdzyvO2qihm3) | 3:05 | 2026-05-19 |  |

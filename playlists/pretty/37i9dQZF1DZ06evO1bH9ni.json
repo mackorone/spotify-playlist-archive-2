@@ -1,12 +1,12 @@
 {
   "description": "This is Los Dos Carnales. The essential tracks, all in one playlist.",
-  "num_followers": 352410,
+  "num_followers": 352456,
   "original_name": "This Is Los Dos Carnales",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ag5LAAAAAACfVBudZo7bT6+ev1jAO8Wo",
+  "snapshot_id": "ag+cgAAAAAAQoknW+5hB9VvleP1F81mY",
   "tracks": [
     {
       "added_at": null,
@@ -415,22 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Boleros de Hoy",
-        "url": "https://open.spotify.com/album/7HG8mHWv4u3KBrzRfiMjox"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 152791,
-      "name": "La T\u00f3xica",
-      "url": "https://open.spotify.com/track/24MhzcEo2Ud8eYFbJcps7y"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nave 727",
         "url": "https://open.spotify.com/album/5K18JEMSLeib5SozcvHVJy"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 196293,
       "name": "Nave 727",
       "url": "https://open.spotify.com/track/2qIcd6aIO3hPpUnl7gWNh6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Boleros de Hoy",
+        "url": "https://open.spotify.com/album/7HG8mHWv4u3KBrzRfiMjox"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 152791,
+      "name": "La T\u00f3xica",
+      "url": "https://open.spotify.com/track/24MhzcEo2Ud8eYFbJcps7y"
     },
     {
       "added_at": null,
@@ -559,22 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Boleros de Hoy",
-        "url": "https://open.spotify.com/album/7HG8mHWv4u3KBrzRfiMjox"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 161766,
-      "name": "La Fiesta",
-      "url": "https://open.spotify.com/track/0JazIfsytYrcSkoK8EhLaR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cholos al Punto",
         "url": "https://open.spotify.com/album/2cPLZSwKE24J1sZLqzoIg1"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 159056,
       "name": "Cholos al Punto",
       "url": "https://open.spotify.com/track/7knvkQS97TeGHM4MdoohpB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Boleros de Hoy",
+        "url": "https://open.spotify.com/album/7HG8mHWv4u3KBrzRfiMjox"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 161766,
+      "name": "La Fiesta",
+      "url": "https://open.spotify.com/track/0JazIfsytYrcSkoK8EhLaR"
     },
     {
       "added_at": null,
@@ -623,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Boleros de Hoy",
-        "url": "https://open.spotify.com/album/7HG8mHWv4u3KBrzRfiMjox"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 189769,
-      "name": "Me Estoy Acostumbrando",
-      "url": "https://open.spotify.com/track/123ZTlYqsFk57j8Q9ge47R"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Como en los Viejos Tiempos",
         "url": "https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 137560,
       "name": "El Que Quiere Puede",
       "url": "https://open.spotify.com/track/4MGkZ1KQBirBI04UAo76pn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Boleros de Hoy",
+        "url": "https://open.spotify.com/album/7HG8mHWv4u3KBrzRfiMjox"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 189769,
+      "name": "Me Estoy Acostumbrando",
+      "url": "https://open.spotify.com/track/123ZTlYqsFk57j8Q9ge47R"
     },
     {
       "added_at": null,
@@ -791,22 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Termino Con Lo Nuestro",
-        "url": "https://open.spotify.com/album/7eGdxYcXh1DlmUV2hsDCk6"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 217409,
-      "name": "Termino Con Lo Nuestro",
-      "url": "https://open.spotify.com/track/5bT0SVMNlrqJmG9QlBjxOw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Entre Hierba, Polvo y Plomo",
         "url": "https://open.spotify.com/album/25O9BK0aHeYxq9ch47BP9Q"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 215594,
       "name": "Entre Hierba, Polvo y Plomo",
       "url": "https://open.spotify.com/track/0bgQuxSZZRVfivdXROLy1n"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Termino Con Lo Nuestro",
+        "url": "https://open.spotify.com/album/7eGdxYcXh1DlmUV2hsDCk6"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 217409,
+      "name": "Termino Con Lo Nuestro",
+      "url": "https://open.spotify.com/track/5bT0SVMNlrqJmG9QlBjxOw"
     },
     {
       "added_at": null,

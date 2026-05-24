@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 
 > Soft and cozy acoustic covers of famous songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,468,080 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,468,279 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 | 34 | [Too Good At Goodbyes](https://open.spotify.com/track/43Ty2f8GqR6CpUYWNxgRqu) | [Beatrice](https://open.spotify.com/artist/4KR1qF9mYVfCeOjn364Rm8) | [Too Good At Goodbyes](https://open.spotify.com/album/5xHL2UVO1l249ezFEL2QdZ) | 2:50 |
 | 35 | [Torn](https://open.spotify.com/track/4INNiMO9R9UnwpLOtzizn6) | [Eloise Freud](https://open.spotify.com/artist/4fCVdhbvs0qYEAQozKSyOh) | [Torn](https://open.spotify.com/album/0og0ExNcAjYK1nCWKyklL6) | 3:43 |
 | 36 | [I Don't Want To Miss A Thing](https://open.spotify.com/track/28QoOJZgUI44vB0z9oThfH) | [Sarah Close](https://open.spotify.com/artist/5nQybVOGIy5TZ1XK9CaDiS) | [I Don't Want To Miss A Thing](https://open.spotify.com/album/6KvHrixwNkjbvDNeccvPcX) | 3:07 |
-| 37 | [Crazy Love](https://open.spotify.com/track/5zIJSNhDKaBsSlgbkcBS8Q) | [Xochi Krausse](https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh) | [Crazy Love](https://open.spotify.com/album/3ssxRD3YsdiESDBhp42uiy) | 3:12 |
-| 38 | [One Dance](https://open.spotify.com/track/2StjDIpRLEKBHcOGsZ2bk1) | [POOL KIDS](https://open.spotify.com/artist/3BWaTyIRQj4KFTCHwvLyHR) | [One Dance](https://open.spotify.com/album/0kWyfddavCea1xEhaPPdi8) | 2:32 |
+| 37 | [One Dance](https://open.spotify.com/track/2StjDIpRLEKBHcOGsZ2bk1) | [POOL KIDS](https://open.spotify.com/artist/3BWaTyIRQj4KFTCHwvLyHR) | [One Dance](https://open.spotify.com/album/0kWyfddavCea1xEhaPPdi8) | 2:32 |
+| 38 | [Crazy Love](https://open.spotify.com/track/5zIJSNhDKaBsSlgbkcBS8Q) | [Xochi Krausse](https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh) | [Crazy Love](https://open.spotify.com/album/3ssxRD3YsdiESDBhp42uiy) | 3:12 |
 | 39 | [Just the Two of Us \- Acoustic](https://open.spotify.com/track/4PF2XC8shB2w4g66MaXyEH) | [VDVM](https://open.spotify.com/artist/4MPlssgWPLQ72k2JaQNnV4) | [Just The Two Of Us \- Acoustic](https://open.spotify.com/album/4YL2SB1NKBwkBvMC1k01dz) | 3:06 |
 | 40 | [Visiting Hours \(Acoustic\)](https://open.spotify.com/track/2jf62eJL5GepSpGDy61pcK) | [Fox & Hart](https://open.spotify.com/artist/7cFrfYqBMkAmUn6ftD8KlH) | [Visiting Hours \(Acoustic\)](https://open.spotify.com/album/5C7zrFEPvQgSyD0wDRLOAW) | 3:17 |
 | 41 | [Let Me Get Close To You](https://open.spotify.com/track/5ujmTMn6J5vrt9ppLlxtaQ) | [Roberta Loki](https://open.spotify.com/artist/69CSvWqSOjhUXBM8VcgbjB) | [Let Me Get Close To You](https://open.spotify.com/album/4CT8wnGqcV82n4fNaAwiPC) | 3:31 |

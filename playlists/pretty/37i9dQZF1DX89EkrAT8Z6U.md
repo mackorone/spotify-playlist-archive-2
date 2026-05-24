@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89EkrAT8Z6U.md) - [plain]
 
 > The perfect mixtape for an anime fight scene\. Also, check out <a href='spotify:playlist:37i9dQZF1EId8uVIwoG4N5'>Anime Rap Mix</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,324,713 likes - 75 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,324,848 likes - 75 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89EkrAT8Z6U.md) - [plain]
 | 43 | [Falling](https://open.spotify.com/track/5cF4gR8WHnHgkPFSD6hdC2) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER) | [Falling](https://open.spotify.com/album/7FGCBxUHVOvJUEWTwLCA9c) | 2:23 |
 | 44 | [EXORCIST](https://open.spotify.com/track/6qwEeAl6Cl32odNr2GIMjm) | [KXLLSWXTCH](https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6) | [KILL!](https://open.spotify.com/album/2Bk3pomO5BGIJrNhwjzqRE) | 1:34 |
 | 45 | [Go!](https://open.spotify.com/track/4Fd2jLQspwZVv7hF3bXHFg) | [NEFFEX](https://open.spotify.com/artist/3z97WMRi731dCvKklIf2X6) | [Go!](https://open.spotify.com/album/2e1GXVnwfl6zGCigos6g4w) | 2:40 |
-| 46 | [die](https://open.spotify.com/track/4ZIam3omF73NPEKufXiTvi) | [lucidbeatz](https://open.spotify.com/artist/4jEwTCIHu0hdDbamxScpou), [Key Kelly](https://open.spotify.com/artist/7tlCdVZ037kAOuupObsQss) | [die](https://open.spotify.com/album/2Gnp1bVMf1pZqI1crlEPfY) | 1:39 |
-| 47 | [Mami!](https://open.spotify.com/track/4M1CMx1FyAGyrOf4zEkBGR) | [XANAKIN SKYWOK](https://open.spotify.com/artist/2YHPVKeJcX02OyeNneU5v3) | [Mami!](https://open.spotify.com/album/6bGRRZ4QeRXLBrBxy3YroG) | 1:44 |
+| 46 | [Mami!](https://open.spotify.com/track/4M1CMx1FyAGyrOf4zEkBGR) | [XANAKIN SKYWOK](https://open.spotify.com/artist/2YHPVKeJcX02OyeNneU5v3) | [Mami!](https://open.spotify.com/album/6bGRRZ4QeRXLBrBxy3YroG) | 1:44 |
+| 47 | [die](https://open.spotify.com/track/4ZIam3omF73NPEKufXiTvi) | [lucidbeatz](https://open.spotify.com/artist/4jEwTCIHu0hdDbamxScpou), [Key Kelly](https://open.spotify.com/artist/7tlCdVZ037kAOuupObsQss) | [die](https://open.spotify.com/album/2Gnp1bVMf1pZqI1crlEPfY) | 1:39 |
 | 48 | [Break Shit](https://open.spotify.com/track/0Sd0kdgU6HrIclxYjuV99j) | [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0) | [Break Shit](https://open.spotify.com/album/589UEOGJTF0Jk8sXA4GLKA) | 1:35 |
 | 49 | [Split](https://open.spotify.com/track/12Uc8hH4rw2Lb0598pqBtL) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER) | [Split](https://open.spotify.com/album/3G53RrtTfbUtUUhqqSFBAk) | 2:16 |
 | 50 | [Cyberfreak](https://open.spotify.com/track/5xjBjhBgqR9lJguneF01jQ) | [Khantrast](https://open.spotify.com/artist/1MOetFIO4hBem9p9FVP9Jo) | [Cyberfreak](https://open.spotify.com/album/5WcR1r442UgXGInqGAbqxT) | 1:58 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89EkrAT8Z6U.md) - [plain]
 | 65 | [Nikes](https://open.spotify.com/track/65ha6jDdEeQ05hbiDeSUjT) | [Nimstarr](https://open.spotify.com/artist/25hjCXq9ACmSkWbnvKMThf), [kid toni](https://open.spotify.com/artist/3FQn8qCboTin4JhAPP8gEy) | [Nikes](https://open.spotify.com/album/15mUcH1QPGllxiAjJUJQJn) | 2:19 |
 | 66 | [BLACKED OUT](https://open.spotify.com/track/11YEKSSOXXw0rXVCZgHKi6) | [777villain](https://open.spotify.com/artist/1W1JrFrwTTyv081hWOQJa7) | [BLACKED OUT](https://open.spotify.com/album/6NNH2nFEZqwaHWONf8qTvJ) | 2:13 |
 | 67 | [BREATHE](https://open.spotify.com/track/2qmn3UsrMtbt3orqjZSDVh) | [yatashigang](https://open.spotify.com/artist/2GBDI5PSiEnVoH0YnFFRLx), [January RT](https://open.spotify.com/artist/1o2BMJgKJoVX6x0bQ4sMpu) | [BREATHE](https://open.spotify.com/album/3c9lEzKYoMMjZz1sLzilHx) | 3:02 |
-| 68 | [Awake](https://open.spotify.com/track/3WPdIdjJP77kguVy3tFeiy) | [Derek Pope](https://open.spotify.com/artist/5wWvcn0hJXPhCw9eYUody0) | [Awake](https://open.spotify.com/album/6TNXXQpElH89ZOuJM9dLU5) | 3:14 |
-| 69 | [lucky7!](https://open.spotify.com/track/4tkbMkT6vDOq0GzuSQyF6d) | [Sadfriendd](https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH), [Pozle](https://open.spotify.com/artist/5ZP65l78WPZimUs9LVvMW0) | [lucky7!](https://open.spotify.com/album/2xoLgTp6uqufmawhjRFcWJ) | 1:28 |
+| 68 | [lucky7!](https://open.spotify.com/track/4tkbMkT6vDOq0GzuSQyF6d) | [Sadfriendd](https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH), [Pozle](https://open.spotify.com/artist/5ZP65l78WPZimUs9LVvMW0) | [lucky7!](https://open.spotify.com/album/2xoLgTp6uqufmawhjRFcWJ) | 1:28 |
+| 69 | [Awake](https://open.spotify.com/track/3WPdIdjJP77kguVy3tFeiy) | [Derek Pope](https://open.spotify.com/artist/5wWvcn0hJXPhCw9eYUody0) | [Awake](https://open.spotify.com/album/6TNXXQpElH89ZOuJM9dLU5) | 3:14 |
 | 70 | [S1KE](https://open.spotify.com/track/353nsW8dzFIYX3hZfn2fUL) | [Ariis](https://open.spotify.com/artist/09cKncAQn28NqTUORLMwSR) | [S1KE](https://open.spotify.com/album/5YKJ7mPmmNEGFkczGfM2nx) | 1:54 |
 | 71 | [Kismet](https://open.spotify.com/track/3owRFZTvTuWgNlUkbI6YgS) | [WHOKILLEDXIX](https://open.spotify.com/artist/0RSogp4qeGu0ZM71JRTay3) | [19](https://open.spotify.com/album/0jQjCFXUVRUrwUN7ACw0h8) | 2:51 |
 | 72 | [Ryoshi](https://open.spotify.com/track/2kYkyfurLv3YbKinwdg2Le) | [Lil God Dan](https://open.spotify.com/artist/20kAERGCnqfyGydzop8bfg) | [Ryoshi](https://open.spotify.com/album/2nWSRjwiqY9IJi1QXbF5I7) | 1:27 |

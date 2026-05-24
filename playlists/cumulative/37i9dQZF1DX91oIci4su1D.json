@@ -1833,6 +1833,32 @@
     },
     {
       "album": {
+        "name": "Astra",
+        "url": "https://open.spotify.com/album/2B2u8Eatyh0M0ZJ1Og3hHz"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Ottaviani",
+          "url": "https://open.spotify.com/artist/5B9q1NRokzWYB7nSgnlHyv"
+        },
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "Crooked Bangs",
+          "url": "https://open.spotify.com/artist/4gkZO2kbnE03K8xGmZ2DJu"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177000,
+      "name": "Astra",
+      "url": "https://open.spotify.com/track/0lLbYllOSgXnuKM2rA59Xw"
+    },
+    {
+      "album": {
         "name": "Astro",
         "url": "https://open.spotify.com/album/78Gqsy8a716SrHnhkgy4sw"
       },
@@ -7416,7 +7442,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 251321,
       "name": "Everything Else Could Wait",
       "url": "https://open.spotify.com/track/311mDBEIB4IvTcUXKeUOVT"

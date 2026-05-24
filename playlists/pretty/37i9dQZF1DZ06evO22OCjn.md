@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22OCjn.md) - [plain]
 
 > This is Burna Boy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 339,655 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 339,713 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,10 +21,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22OCjn.md) - [plain]
 | 11 | [For My Hand \(feat\. Ed Sheeran\)](https://open.spotify.com/track/3ltc9j6uh3LvO7FuXm6Ix3) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Love, Damini](https://open.spotify.com/album/53s3xfNBbh5Z0Xv9IXjvi4) | 2:39 |
 | 12 | [City Boys](https://open.spotify.com/track/4RoKNqyZ9622tcAeNPNv5k) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [I Told Them...](https://open.spotify.com/album/1JzjwUKkPsdHg1SQ7qa5hc) | 2:33 |
 | 13 | [Alone](https://open.spotify.com/track/0AoBY2Y3qs6dtGgOD6c91N) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5) | 3:41 |
-| 14 | [Laho II](https://open.spotify.com/track/4DREBgUie15tAPq9KQqe2c) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Laho II](https://open.spotify.com/album/5lpaf3GuS3ig1yXv56OLRR) | 2:39 |
+| 14 | [Ye](https://open.spotify.com/track/3FskQrDXcY24ur2fCvz35O) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Outside](https://open.spotify.com/album/26du6obYLeY1vf6xIJ1l0D) | 3:51 |
 | 15 | [It's Plenty](https://open.spotify.com/track/5hVjoL3sHepZROri63wBxP) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 3:36 |
-| 16 | [Ye](https://open.spotify.com/track/3FskQrDXcY24ur2fCvz35O) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Outside](https://open.spotify.com/album/26du6obYLeY1vf6xIJ1l0D) | 3:51 |
-| 17 | [Real Life \(feat\. Stormzy\)](https://open.spotify.com/track/2eFsasDs4w4YUHBvaKyNNZ) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Twice As Tall](https://open.spotify.com/album/2pANu4qucnliJuRR94eZSV) | 3:17 |
+| 16 | [Real Life \(feat\. Stormzy\)](https://open.spotify.com/track/2eFsasDs4w4YUHBvaKyNNZ) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Twice As Tall](https://open.spotify.com/album/2pANu4qucnliJuRR94eZSV) | 3:17 |
+| 17 | [Laho II](https://open.spotify.com/track/4DREBgUie15tAPq9KQqe2c) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Laho II](https://open.spotify.com/album/5lpaf3GuS3ig1yXv56OLRR) | 2:39 |
 | 18 | [Higher](https://open.spotify.com/track/1N8G6PUj14v0VG8evbRSxp) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Higher](https://open.spotify.com/album/30v3HmAMMHUgEC8ux25PLr) | 2:17 |
 | 19 | [Ginger \(feat\. Burna Boy\)](https://open.spotify.com/track/51mLQ3w7yR7vjdSTFLWaY5) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Made In Lagos](https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN) | 3:16 |
 | 20 | [Born Winner](https://open.spotify.com/track/4eXb0vQK0syqsuLpj53C4J) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [No Sign Of Weakness](https://open.spotify.com/album/2fXaK76zsSLaAMwCyCqKQL) | 2:49 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22OCjn.md) - [plain]
 | 42 | [Anybody](https://open.spotify.com/track/0JoEdvXnroF2eVAaErd945) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [African Giant](https://open.spotify.com/album/79lrrUvUyIuOD12b5taQVP) | 3:08 |
 | 43 | [On Form](https://open.spotify.com/track/2vocGs3C0oElZiVwZSQZPg) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [I Told Them...](https://open.spotify.com/album/5PKl5yyetQ6mFeWK6ONbSH) | 3:43 |
 | 44 | [Update](https://open.spotify.com/track/6WO22RY0WWcN4yKcQb0h32) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [No Sign Of Weakness](https://open.spotify.com/album/2fXaK76zsSLaAMwCyCqKQL) | 3:27 |
-| 45 | [Don't Let Me Drown \- From F1® The Movie](https://open.spotify.com/track/24futxi7j75kgGXiumTEn2) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [Don’t Let Me Drown \(From F1® The Movie\)](https://open.spotify.com/album/4gi7iM3pBNBmzHiVPyatjV) | 3:05 |
-| 46 | [Cloak & Dagger \(feat\. J Hus\)](https://open.spotify.com/track/519SuHU1ai91BsRxDnT9Ki) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr) | [Love, Damini](https://open.spotify.com/album/1xaHgMftad2egI7Q4DX7Bc) | 3:31 |
+| 45 | [Cloak & Dagger \(feat\. J Hus\)](https://open.spotify.com/track/519SuHU1ai91BsRxDnT9Ki) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr) | [Love, Damini](https://open.spotify.com/album/1xaHgMftad2egI7Q4DX7Bc) | 3:31 |
+| 46 | [Don't Let Me Drown \- From F1® The Movie](https://open.spotify.com/track/24futxi7j75kgGXiumTEn2) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [Don’t Let Me Drown \(From F1® The Movie\)](https://open.spotify.com/album/4gi7iM3pBNBmzHiVPyatjV) | 3:05 |
 | 47 | [Normal](https://open.spotify.com/track/2KiqSjEDFFOyf4yCQwSOud) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [I Told Them...](https://open.spotify.com/album/5PKl5yyetQ6mFeWK6ONbSH) | 2:04 |
 | 48 | [Teary Eyes \(feat\. Burna Boy\)](https://open.spotify.com/track/68uqUS5wIIZgSbnWwNEH9Q) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Slime Cry](https://open.spotify.com/album/36zFjOhkJXdudJMUiEqroA) | 2:45 |
 | 49 | [Gum Body \(feat\. Jorja Smith\)](https://open.spotify.com/track/6RvYoPlvBr8aevCvzjRpoa) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [African Giant](https://open.spotify.com/album/79lrrUvUyIuOD12b5taQVP) | 3:15 |
 | 50 | [Birthday](https://open.spotify.com/track/0703G3CAQ3oDJAzaVIvUJ9) | [Fredo](https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Steel Banglez](https://open.spotify.com/artist/6k970rXaWAWVfWMjqWtFNI) | [Birthday](https://open.spotify.com/album/0x1Q0qm394QlhVrqdVMI5d) | 2:35 |
 
-Snapshot ID: `ag5LAAAAAACL9KKJuC65oB0C8glkmtRT`
+Snapshot ID: `ag+cgAAAAACqYetWxYlvg0PfAd2f40Bm`

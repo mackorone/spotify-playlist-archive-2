@@ -833,6 +833,28 @@
     },
     {
       "album": {
+        "name": "Con uno Spritz in mano",
+        "url": "https://open.spotify.com/album/2clnEltQ2xkwZoVZu4FRJ4"
+      },
+      "artists": [
+        {
+          "name": "Pe$i",
+          "url": "https://open.spotify.com/artist/0dOU1b4T7CKQJETFPixRXD"
+        },
+        {
+          "name": "DJ Gianix",
+          "url": "https://open.spotify.com/artist/2uGdhWT1qmOu0U45obDmCh"
+        }
+      ],
+      "date_added": "2026-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189680,
+      "name": "Con uno Spritz in mano",
+      "url": "https://open.spotify.com/track/1AYr2LiADXUeg8drcDCbkZ"
+    },
+    {
+      "album": {
         "name": "Mar e Sol",
         "url": "https://open.spotify.com/album/4xESJrxhx2VzhQkeSfPriD"
       },

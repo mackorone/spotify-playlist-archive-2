@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2jUWJ2.md) - [plain]
 
 > This is Elevation Worship\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 326,146 likes - 50 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 326,203 likes - 50 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2jUWJ2.md) - [plain]
 | 22 | [Tumbas A Jardines \(Graves Into Gardens\) \(feat\. Brandon Lake\)](https://open.spotify.com/track/0LetLotK5ziqrdD7WWpGN1) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Elevation Español](https://open.spotify.com/artist/337ClCqxF9LJsLhB86Tsf0), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Tumbas A Jardines](https://open.spotify.com/album/6x77tBsuSV3YvKbFx2NAYf) | 5:53 |
 | 23 | [Million Little Miracles \(feat\. Joe L Barnes\)](https://open.spotify.com/track/2AX4m5yewzlDmzODLJ8Lcz) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [Old Church Basement](https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg) | 6:45 |
 | 24 | [Keep On \(feat\. Davide Mutendji, Tori Elliott & Isaiah Templeton\)](https://open.spotify.com/track/6XIyQZDcTnJOgNIliNKDlM) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Davide Mutendji](https://open.spotify.com/artist/6lteH2fZlwBBu1qyDc1Rs1), [Tori Elliott](https://open.spotify.com/artist/1YaqUnXihHoAsElDnHae0A), [Isaiah Templeton](https://open.spotify.com/artist/4atJuIvhr9uWLmxl1ixfG5) | [SO BE IT](https://open.spotify.com/album/6OF8Psf3BjjHnBIfUpOYHp) | 4:40 |
-| 25 | [When Wind Meets Fire \(feat\. Chris Brown & Tiffany Hudson\)](https://open.spotify.com/track/7ymQvrauqbRfH30XVkmIs2) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Chris Brown](https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw), [Tiffany Hudson](https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV) | [When Wind Meets Fire](https://open.spotify.com/album/2uwzangKgtBdy6Q1rPYqC0) | 7:10 |
-| 26 | [Here as in Heaven](https://open.spotify.com/track/0fPwregqch9wLJj4yQH6Bk) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Here As In Heaven](https://open.spotify.com/album/6KToyzPBIfHNyB5vWEfjrF) | 8:19 |
+| 25 | [Here as in Heaven](https://open.spotify.com/track/0fPwregqch9wLJj4yQH6Bk) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Here As In Heaven](https://open.spotify.com/album/6KToyzPBIfHNyB5vWEfjrF) | 8:19 |
+| 26 | [When Wind Meets Fire \(feat\. Chris Brown & Tiffany Hudson\)](https://open.spotify.com/track/7ymQvrauqbRfH30XVkmIs2) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Chris Brown](https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw), [Tiffany Hudson](https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV) | [When Wind Meets Fire](https://open.spotify.com/album/2uwzangKgtBdy6Q1rPYqC0) | 7:10 |
 | 27 | [Como en el Cielo \(Here as in Heaven\)](https://open.spotify.com/track/7gR2K9p8v5BB0uGLCcVimW) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Lo Harás Otra Vez](https://open.spotify.com/album/5Fei3OXDpZtPrsjwt6CDYx) | 8:19 |
 | 28 | [Your Name Is God](https://open.spotify.com/track/6cb1D54z0BgnRijrk2E3Sa) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Leeland Mooring](https://open.spotify.com/artist/2ylW0JAtYmQpymRkrvWnJb) | [SO BE IT](https://open.spotify.com/album/6OF8Psf3BjjHnBIfUpOYHp) | 5:03 |
 | 29 | [Jehovah \(feat\. Chris Brown\)](https://open.spotify.com/track/4moUecMb5PN5kDTQANggc3) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Chris Brown](https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw) | [CAN YOU IMAGINE?](https://open.spotify.com/album/58ufb71YaU1PetJKQGqSd2) | 5:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2jUWJ2.md) - [plain]
 | 49 | [Echo \(feat\. Tauren Wells\)](https://open.spotify.com/track/6ZhORhQoBD0qndKYvpBTv2) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Hallelujah Here Below](https://open.spotify.com/album/3gFcCl38Vch9JlHDP2WktC) | 3:56 |
 | 50 | [RATTLE! \(Live\)](https://open.spotify.com/track/6fdglWE2qycjtz0JlW94HW) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Graves Into Gardens \(Live\)](https://open.spotify.com/album/3obyvHd0Ja2gZaPQMerTU6) | 7:12 |
 
-Snapshot ID: `ag5LAAAAAACYlkdP7xvpDlgVmI6jXty0`
+Snapshot ID: `ag+cgAAAAACO7TcCL/vOK7kajJc7P8A6`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3yoK5i.md) - [plain]
 
 > This is Eros Ramazzotti\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 251,803 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 251,837 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3yoK5i.md) - [plain]
 | 31 | [Stella gemella](https://open.spotify.com/track/50aMakGSM0CocFbBGB3XrB) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Dove c'è musica](https://open.spotify.com/album/0CewPA0oXl2anqTzAgVcKX) | 4:41 |
 | 32 | [Solo ieri](https://open.spotify.com/track/5XnRtv5Iqyr7fNnM8j2Q7I) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [9](https://open.spotify.com/album/0orR3i1y0uPP6smKEFFbP8) | 4:10 |
 | 33 | [Un Angel No Es](https://open.spotify.com/track/11hEETjPqHR7Izl88OgKr0) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Estilolibre](https://open.spotify.com/album/6czZYpDVUWanP8jHDNkdRb) | 4:38 |
-| 34 | [Solo con te](https://open.spotify.com/track/5r9QUxvWA5sJPt3rPNyrzj) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Musica è](https://open.spotify.com/album/6VI85NNGp3e9N8blWF7VPC) | 5:05 |
+| 34 | [Un Segundo de Paz](https://open.spotify.com/track/6lB4izeAPef18J2djGVbyD) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [9 \(Spanish Version\)](https://open.spotify.com/album/3hPQaa3lqJWCOzA2B6LZye) | 4:36 |
 | 35 | [L'aurora](https://open.spotify.com/track/22jJTOMRp6aJrLROjDzcz4) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX), [Humberto Gatica](https://open.spotify.com/artist/67K364KAVvBthhmq70ct4h) | [Dove c'è musica](https://open.spotify.com/album/0CewPA0oXl2anqTzAgVcKX) | 5:35 |
-| 36 | [Un Segundo de Paz](https://open.spotify.com/track/6lB4izeAPef18J2djGVbyD) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [9 \(Spanish Version\)](https://open.spotify.com/album/3hPQaa3lqJWCOzA2B6LZye) | 4:36 |
+| 36 | [Solo con te](https://open.spotify.com/track/5r9QUxvWA5sJPt3rPNyrzj) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Musica è](https://open.spotify.com/album/6VI85NNGp3e9N8blWF7VPC) | 5:05 |
 | 37 | [Canzone per lei](https://open.spotify.com/track/66uYnF8Z5f56fGNC0Qp55F) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [9](https://open.spotify.com/album/0orR3i1y0uPP6smKEFFbP8) | 3:41 |
 | 38 | [Dimelo a Mi](https://open.spotify.com/track/639NCadkzpvpwvZ7X8WL6b) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Alas Y Raices](https://open.spotify.com/album/69KJ3ywyhqcAI0Ai2FE5vN) | 3:58 |
 | 39 | [Amarti è l'immenso per me](https://open.spotify.com/track/6QIri6TN34y7YSvcsnT4Ln) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX), [Antonella Bucci](https://open.spotify.com/artist/0nT6YKCtGrfEDXYVpbonQL) | [In Ogni Senso](https://open.spotify.com/album/23jtBhTUUUj9LvFlbl3tyD) | 4:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3yoK5i.md) - [plain]
 | 49 | [Solo junto a ti](https://open.spotify.com/track/288ROgndq3ayHvXiuOZGla) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [UNA HISTORIA IMPORTANTE](https://open.spotify.com/album/0yzfuInZ8RVSXEaNWTJR54) | 3:43 |
 | 50 | [Fábula \- Remastered 2021](https://open.spotify.com/track/6E0YAI0iBKV5Dzl3jvnrdW) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Todo Historias \(2021 Remastered Version\)](https://open.spotify.com/album/0Y9FGQVfzuP0uZSA9tEBvf) | 4:37 |
 
-Snapshot ID: `ag5LAAAAAADGpglCUBh7tnIxY5+rM+tN`
+Snapshot ID: `ag+cgAAAAAD3R9h1Jy69AZlv/XHpikMu`

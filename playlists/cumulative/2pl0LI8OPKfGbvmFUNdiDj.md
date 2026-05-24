@@ -4,7 +4,7 @@
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-478 songs - 1 day 2 hr 46 min
+479 songs - 1 day 2 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -442,6 +442,7 @@
 | [Vals de Muertos](https://open.spotify.com/track/0fbYJDN2AphsRkF9rosfjW) | [Brujo Nativo](https://open.spotify.com/artist/0fAQrIC5Rz7nvbUyDV9wCX) | [Vals de Muertos](https://open.spotify.com/album/0XlaajVRABYgWwkTVlLCTd) | 3:45 | 2025-11-03 | 2025-12-01 |
 | [VAMOS!](https://open.spotify.com/track/4HPh05Go7vxyYpqQb3xLs1) | [PeGie](https://open.spotify.com/artist/54TYnbAQnkrjI6ry4eUU6X), [Wszołek](https://open.spotify.com/artist/5EGOQRzEzTxqczyOwRIhKm) | [VAMOS!](https://open.spotify.com/album/0aHzsFNtkvrltOfK1ed20g) | 1:49 | 2025-11-10 | 2025-12-01 |
 | [Veloz](https://open.spotify.com/track/684O5uzlLPREElx1sVhy1P) | [Melany Cubero](https://open.spotify.com/artist/4OrIEJHh24oAbE1evJRR7c) | [Invisible](https://open.spotify.com/album/26CgmwfJA3HjUE9A8SBZ47) | 3:12 | 2026-03-10 | 2026-04-14 |
+| [Vibin'](https://open.spotify.com/track/5Vjl0WmzrCICtWAXquSTBq) | [Tyler J\. Thierry](https://open.spotify.com/artist/05GcYwcTVPFZdSZwiYNlS4), [Reynakah](https://open.spotify.com/artist/5YnNwdL9oVehL2bWoBnDek), [liam vee](https://open.spotify.com/artist/77zlFkyzNmuNZ5CXGfkVLw) | [Oh You Want Me Now](https://open.spotify.com/album/0wyyw9zdgJpFEIbCTLQP59) | 4:14 | 2026-05-23 |  |
 | [Volver a Brillar](https://open.spotify.com/track/4WBaBFfLF2XIGSojdu01pI) | [10 A.M.](https://open.spotify.com/artist/3C4upqs3USikUXXrB6Rivz) | [Volver a Brillar](https://open.spotify.com/album/4WtZNvgYn6wodmMvtKjkSN) | 4:51 | 2025-11-16 | 2026-01-05 |
 | [Walk this road](https://open.spotify.com/track/6RlhMFUctXgyXJpJWnfHHu) | [Slim Dragon](https://open.spotify.com/artist/312cwwaEcsB3saZEWLyQEO) | [Walk this road](https://open.spotify.com/album/5Gal7XaBtHNT687d69zomu) | 3:31 | 2026-04-11 |  |
 | [Walls](https://open.spotify.com/track/4jfale9zgHt9thJ6JFX6Ew) | [Joy Xande](https://open.spotify.com/artist/1lgXevJ9jOHDFulgS77qdR), [The Peace Option](https://open.spotify.com/artist/2vqA6XWr6sAnkDOIvd6YWM) | [Walls](https://open.spotify.com/album/52adXcCRJ2WMZ4lzuRjlej) | 3:56 | 2026-03-09 |  |

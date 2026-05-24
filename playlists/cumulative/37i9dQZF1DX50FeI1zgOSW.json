@@ -1683,6 +1683,36 @@
     },
     {
       "album": {
+        "name": "Bloom (From \"Loopd\")",
+        "url": "https://open.spotify.com/album/1vBAzQeMNIChAnJ4UWrVYL"
+      },
+      "artists": [
+        {
+          "name": "Barath Dhanasekar",
+          "url": "https://open.spotify.com/artist/67sk0ISBwhavYRmJxZTWqD"
+        },
+        {
+          "name": "Abhijith Anilkumar",
+          "url": "https://open.spotify.com/artist/1WdTt5EOurwVpV5TzL6JiE"
+        },
+        {
+          "name": "Meghna Vijay",
+          "url": "https://open.spotify.com/artist/6X1LuxQ0lquRiAFZlrfwv0"
+        },
+        {
+          "name": "Fatin",
+          "url": "https://open.spotify.com/artist/4HeEXMr62GWTKpnqEiFOkC"
+        }
+      ],
+      "date_added": "2026-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264309,
+      "name": "Bloom (From \"Loopd\")",
+      "url": "https://open.spotify.com/track/71EPZfwovhyjD3Goi3Ns5x"
+    },
+    {
+      "album": {
         "name": "Blue Tick Pennay",
         "url": "https://open.spotify.com/album/5aat8rObWOv1AF9UK1H5QV"
       },
@@ -5835,6 +5865,32 @@
     },
     {
       "album": {
+        "name": "Kanakku",
+        "url": "https://open.spotify.com/album/0Yu9LiYgUXMMPiHszbpfGa"
+      },
+      "artists": [
+        {
+          "name": "A.R Sai Shravanya",
+          "url": "https://open.spotify.com/artist/67hmOl78H5aT3rs6PcO6CR"
+        },
+        {
+          "name": "Mirun Pradhap",
+          "url": "https://open.spotify.com/artist/7eOB1fI6XehKYZ1pmzC50r"
+        },
+        {
+          "name": "Rama Priya Yegasivanathan",
+          "url": "https://open.spotify.com/artist/7bYHZMgn8z6sHJAEj1qzlx"
+        }
+      ],
+      "date_added": "2026-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198400,
+      "name": "Kanakku",
+      "url": "https://open.spotify.com/track/0xUQbI9pa7XwByX1iNH7j6"
+    },
+    {
+      "album": {
         "name": "Kanatha Kanavukal",
         "url": "https://open.spotify.com/album/1GAz6fflwItlD6NAQvtpaG"
       },
@@ -6906,7 +6962,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 205338,
       "name": "Kirukku",
       "url": "https://open.spotify.com/track/0iZUiq8mtUOhwASlfdnCxL"
@@ -9448,6 +9504,28 @@
       "duration_ms": 214413,
       "name": "Nee Yaaro",
       "url": "https://open.spotify.com/track/3HJUrDWeltUMXyU9Vwzklx"
+    },
+    {
+      "album": {
+        "name": "Needhaana",
+        "url": "https://open.spotify.com/album/4k1iILHsTBRDvOfjAEX4r9"
+      },
+      "artists": [
+        {
+          "name": "Sandhya Chari",
+          "url": "https://open.spotify.com/artist/3c9OLxs9AiWd0ec9k08Y6X"
+        },
+        {
+          "name": "Athisaiyan Suresh",
+          "url": "https://open.spotify.com/artist/1kHBtaoep8kLtW9o52Hi7Z"
+        }
+      ],
+      "date_added": "2026-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219434,
+      "name": "Needhaana",
+      "url": "https://open.spotify.com/track/3289Oo8ShsetMCZ7RK4gxG"
     },
     {
       "album": {
@@ -14352,7 +14430,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 206400,
       "name": "Theeradha",
       "url": "https://open.spotify.com/track/0pcehazrEcS8txh2APAjKj"
@@ -16260,7 +16338,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 158000,
       "name": "Venaam",
       "url": "https://open.spotify.com/track/1e2NvcmWmgoGlIpZxf7bRk"

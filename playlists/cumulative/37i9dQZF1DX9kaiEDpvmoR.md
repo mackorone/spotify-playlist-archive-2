@@ -4,7 +4,7 @@
 
 > Aktuell musik med etablerade och intressanta artister.
 
-572 songs - 1 day 9 hr 49 min
+573 songs - 1 day 9 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -386,6 +386,7 @@
 | [Orkanen](https://open.spotify.com/track/7AxSlCWEB5vT5FK9RMzOxs) | [Anna Ternheim](https://open.spotify.com/artist/6xSTQT32ZxLQPe37QIC308) | [Orkanen](https://open.spotify.com/album/5xiaYeo3OpWmAYL29ewVj0) | 3:16 | 2024-10-10 | 2025-01-24 |
 | [Out Of Love](https://open.spotify.com/track/1gEeVO5KgqgpPWh6ghNpCd) | [Robin Bengtsson](https://open.spotify.com/artist/1CQLPgGkfHrxNMqrXt5oWS) | [Out Of Love](https://open.spotify.com/album/3oIw9biBKkPJM8pCylG0eW) | 3:23 | 2024-06-27 | 2024-08-23 |
 | [Oxygen](https://open.spotify.com/track/7jU2y3rilGzbkxbeonPNjN) | [Laila Adèle](https://open.spotify.com/artist/10UHmKyfLXudqVHU9PnHEZ) | [Oxygen](https://open.spotify.com/album/7FJV7QgehZXTArpuReQruq) | 3:05 | 2026-03-05 |  |
+| [Pappa kommer inte hem](https://open.spotify.com/track/5r2KPAo67ayJ5CyDH6uhql) | [Oskar Linnros](https://open.spotify.com/artist/3E8Mx37sikkaFoX5DRecLi) | [Det högsta ljud jag hört](https://open.spotify.com/album/3WYtGbzsy5rUpYKf7u9tlY) | 3:10 | 2026-05-21 |  |
 | [Parents](https://open.spotify.com/track/5QCBY9fU0gViLSVkZaJnTk) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [Parents](https://open.spotify.com/album/1rkY67qjeWpzsLp5suW0Y0) | 2:06 | 2024-06-27 | 2024-08-09 |
 | [Passa dig](https://open.spotify.com/track/76b06CthcZg1vJMW9gFh4l) | [NOVELLEN](https://open.spotify.com/artist/5aQMa0MZ0CiWYGm1XukJ2r) | [Passa dig](https://open.spotify.com/album/6wq2cHGIj7NuUMQNB6ZjiG) | 2:28 | 2024-10-03 | 2024-11-11 |
 | [Peaceful Easy Feeling](https://open.spotify.com/track/2G48AXcYCzTPM7WMCoAKJy) | [Birds are better](https://open.spotify.com/artist/0ZYJwHf0cMQ2FTg9IMlpIZ) | [Peaceful Easy Feeling](https://open.spotify.com/album/2uxvMTMKp8jS3icJPSqIhL) | 2:51 | 2024-06-27 | 2024-09-29 |
@@ -471,7 +472,7 @@
 | [Streets of Minneapolis \- Radio Mix](https://open.spotify.com/track/6AtgHxdvghUjcjdPX1VhWN) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Streets of Minneapolis \(Radio Mix\)](https://open.spotify.com/album/5fto6noZ6cH98MASeDxMed) | 4:30 | 2026-01-29 |  |
 | [Stronger Than](https://open.spotify.com/track/0CX9PobBmUhcGriDq8fDMo) | [The Ark](https://open.spotify.com/artist/73ib5ljBj2xAIR7R3hTwF4) | [Stronger Than](https://open.spotify.com/album/2iIYVdrZn9vOhbBToT0Sgo) | 3:08 | 2025-11-14 |  |
 | [Störst av allt](https://open.spotify.com/track/4UUgcPXqR4TM8JfKmd7j0k) | [Uno Svenningsson](https://open.spotify.com/artist/65OPXmm2nfPvaX1fjHo8kR), [Mauro Scocco](https://open.spotify.com/artist/0qC4DawW3xCirhuq5cvaKV) | [Störst av allt](https://open.spotify.com/album/6vCVuDJ5q7IFz524YMQolr) | 3:15 | 2025-10-23 | 2026-05-21 |
-| [Sunday Love](https://open.spotify.com/track/1gNOwN4roOSWMSF8dUbhCz) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Sunday Love](https://open.spotify.com/album/1FuchvF8uto0RFeG651LDD) | 5:16 | 2025-06-12 |  |
+| [Sunday Love](https://open.spotify.com/track/1gNOwN4roOSWMSF8dUbhCz) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Sunday Love](https://open.spotify.com/album/1FuchvF8uto0RFeG651LDD) | 5:16 | 2025-06-12 | 2026-05-24 |
 | [Sunny Day](https://open.spotify.com/track/4KZZ4pHjwZqGm0WWq8XrAl) | [Harpo](https://open.spotify.com/artist/6HsEXxUSqMXmIwbYVW6zdt), [Velvet Insane](https://open.spotify.com/artist/1d2wo3IQ7E02uB04ZTGZX3), [Teodor Franklin](https://open.spotify.com/artist/0eSRfiJYQLpXq3tnpO9Mt9) | [Sunny Day](https://open.spotify.com/album/4OZ9AKXuJddrtE8wTl9KtO) | 3:06 | 2024-06-27 | 2024-09-13 |
 | [Superlim & silvertejp](https://open.spotify.com/track/5lOGSH8HAnmJlvwnVFBa1s) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY), [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [Superlim & silvertejp](https://open.spotify.com/album/6jZHjCPFSxmbsCWUo4FxVm) | 3:13 | 2026-04-02 |  |
 | [Svindlande höjder](https://open.spotify.com/track/75pKACBjnC3sVkcFSsafem) | [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc) | [Svindlande höjder](https://open.spotify.com/album/1SPlcaGE0eZiXcHWPMYbHp) | 4:15 | 2025-09-04 |  |

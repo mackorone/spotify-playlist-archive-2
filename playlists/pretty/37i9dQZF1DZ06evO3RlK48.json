@@ -1,12 +1,12 @@
 {
   "description": "This is MUNA. The essential tracks, all in one playlist.",
-  "num_followers": 17396,
+  "num_followers": 17411,
   "original_name": "This Is MUNA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ag5LAAAAAAAbNjaEV+hqQwzKLsur5sCW",
+  "snapshot_id": "ag+cgAAAAADrtFaXrCsG4+dY2TawIUGO",
   "tracks": [
     {
       "added_at": null,
@@ -39,22 +39,6 @@
       "duration_ms": 155066,
       "name": "On Call",
       "url": "https://open.spotify.com/track/3ktBsGHC3bilfpYNCrnzMm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dancing On The Wall",
-        "url": "https://open.spotify.com/album/387IgQuKGxfgMxyoYS6OdS"
-      },
-      "artists": [
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 243760,
-      "name": "Dancing On The Wall",
-      "url": "https://open.spotify.com/track/3bGsC1pOytPEIeYL51p9Pp"
     },
     {
       "added_at": null,
@@ -95,22 +79,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dancing On The Wall",
-        "url": "https://open.spotify.com/album/2CJw4ooOgUAxJkJpNiKcd3"
-      },
-      "artists": [
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 161666,
-      "name": "It Gets So Hot",
-      "url": "https://open.spotify.com/track/7gaAXsjeXLtaRJPm1QvdKA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "One That Got Away",
         "url": "https://open.spotify.com/album/2FAHnRUhqr0Scl92hrAond"
       },
@@ -123,6 +91,22 @@
       "duration_ms": 232266,
       "name": "One That Got Away",
       "url": "https://open.spotify.com/track/55RszydvrfNlZ2BQdF1c4q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dancing On The Wall",
+        "url": "https://open.spotify.com/album/2CJw4ooOgUAxJkJpNiKcd3"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 161666,
+      "name": "It Gets So Hot",
+      "url": "https://open.spotify.com/track/7gaAXsjeXLtaRJPm1QvdKA"
     },
     {
       "added_at": null,
@@ -163,22 +147,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dancing On The Wall",
-        "url": "https://open.spotify.com/album/2CJw4ooOgUAxJkJpNiKcd3"
-      },
-      "artists": [
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 156120,
-      "name": "Big Stick",
-      "url": "https://open.spotify.com/track/1VgAgeHvB45Y5ZgqAnCA82"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Saves The World",
         "url": "https://open.spotify.com/album/5ZpSRd3GwvEGrD7kWn0fHz"
       },
@@ -191,6 +159,22 @@
       "duration_ms": 205871,
       "name": "Number One Fan",
       "url": "https://open.spotify.com/track/69WAiCaEdxACKzB4B7Bv27"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dancing On The Wall",
+        "url": "https://open.spotify.com/album/2CJw4ooOgUAxJkJpNiKcd3"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 243760,
+      "name": "Dancing On The Wall",
+      "url": "https://open.spotify.com/track/7G2NR2p31c87FwPAmT5HJJ"
     },
     {
       "added_at": null,
@@ -231,22 +215,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dancing On The Wall",
-        "url": "https://open.spotify.com/album/2CJw4ooOgUAxJkJpNiKcd3"
-      },
-      "artists": [
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 193920,
-      "name": "Girl's Girl",
-      "url": "https://open.spotify.com/track/2BuLvHB2f5yWhPTYNF7CU8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Saves The World",
         "url": "https://open.spotify.com/album/5ZpSRd3GwvEGrD7kWn0fHz"
       },
@@ -259,6 +227,22 @@
       "duration_ms": 211971,
       "name": "Stayaway",
       "url": "https://open.spotify.com/track/3vnyzhfVRh3agMjP6nABJw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dancing On The Wall",
+        "url": "https://open.spotify.com/album/2CJw4ooOgUAxJkJpNiKcd3"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 156120,
+      "name": "Big Stick",
+      "url": "https://open.spotify.com/track/1VgAgeHvB45Y5ZgqAnCA82"
     },
     {
       "added_at": null,
@@ -299,22 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dancing On The Wall",
-        "url": "https://open.spotify.com/album/2CJw4ooOgUAxJkJpNiKcd3"
-      },
-      "artists": [
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 252333,
-      "name": "Mary Jane",
-      "url": "https://open.spotify.com/track/0CJol00GFBnynIF3pjwnGY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Saves The World",
         "url": "https://open.spotify.com/album/5ZpSRd3GwvEGrD7kWn0fHz"
       },
@@ -327,6 +295,22 @@
       "duration_ms": 251144,
       "name": "Pink Light",
       "url": "https://open.spotify.com/track/2zmGJTOfCKljp9HEffLM78"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dancing On The Wall",
+        "url": "https://open.spotify.com/album/2CJw4ooOgUAxJkJpNiKcd3"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 193920,
+      "name": "Girl's Girl",
+      "url": "https://open.spotify.com/track/2BuLvHB2f5yWhPTYNF7CU8"
     },
     {
       "added_at": null,
@@ -363,22 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dancing On The Wall",
-        "url": "https://open.spotify.com/album/2CJw4ooOgUAxJkJpNiKcd3"
-      },
-      "artists": [
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 154853,
-      "name": "Wannabeher",
-      "url": "https://open.spotify.com/track/4412CfupPqPn61n1nVew0s"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "About U",
         "url": "https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY"
       },
@@ -391,6 +359,22 @@
       "duration_ms": 210052,
       "name": "Loudspeaker",
       "url": "https://open.spotify.com/track/5ztCcMNmFiq5ZnID9jY9SP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dancing On The Wall",
+        "url": "https://open.spotify.com/album/2CJw4ooOgUAxJkJpNiKcd3"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 252333,
+      "name": "Mary Jane",
+      "url": "https://open.spotify.com/track/0CJol00GFBnynIF3pjwnGY"
     },
     {
       "added_at": null,
@@ -568,9 +552,9 @@
           "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
         }
       ],
-      "duration_ms": 250645,
-      "name": "Good News (Ya-Ya Song)",
-      "url": "https://open.spotify.com/track/3OQXqukbEw1EKu9veODhFi"
+      "duration_ms": 219752,
+      "name": "Hands Off",
+      "url": "https://open.spotify.com/track/4CyMzD8DiE5o6yV1fYGjna"
     },
     {
       "added_at": null,

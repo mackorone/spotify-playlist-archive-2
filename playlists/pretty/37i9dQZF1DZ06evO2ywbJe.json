@@ -1,12 +1,12 @@
 {
   "description": "This is Zlatan. The essential tracks, all in one playlist.",
-  "num_followers": 8254,
+  "num_followers": 8264,
   "original_name": "This Is Zlatan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ag5LAAAAAACB3Tr49UYPoRdxRz+LsVrI",
+  "snapshot_id": "ag+cgAAAAADlMSQ9NWBoGM4bxhQz6g3d",
   "tracks": [
     {
       "added_at": null,
@@ -91,6 +91,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bust Down",
+        "url": "https://open.spotify.com/album/5WBwh4xPACk0mfi5J5vw1G"
+      },
+      "artists": [
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 196363,
+      "name": "Bust Down",
+      "url": "https://open.spotify.com/track/3eWpfsYgd5OL2QdwcVcF6Q"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Kilometer II",
         "url": "https://open.spotify.com/album/2FJH9gV7isBuUno0lqGYBQ"
       },
@@ -115,26 +135,6 @@
       "duration_ms": 213559,
       "name": "Escaladizzy II",
       "url": "https://open.spotify.com/track/02f69ZvOxhR4Uo6xXsicfT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bust Down",
-        "url": "https://open.spotify.com/album/5WBwh4xPACk0mfi5J5vw1G"
-      },
-      "artists": [
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        },
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 196363,
-      "name": "Bust Down",
-      "url": "https://open.spotify.com/track/3eWpfsYgd5OL2QdwcVcF6Q"
     },
     {
       "added_at": null,
@@ -239,30 +239,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dance for Jesus",
-        "url": "https://open.spotify.com/album/12pkgxsoiyh5Kq7DreKBxp"
-      },
-      "artists": [
-        {
-          "name": "Fido",
-          "url": "https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        },
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        }
-      ],
-      "duration_ms": 200948,
-      "name": "Dance for Jesus",
-      "url": "https://open.spotify.com/track/7ARtgoelqoU6QGi7fuoQnR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "EZIOKWU",
         "url": "https://open.spotify.com/album/6e1McsPwHgiySHVlpZRhFx"
       },
@@ -283,6 +259,30 @@
       "duration_ms": 184077,
       "name": "PICANTO (feat. Zlatan and ECko Miles)",
       "url": "https://open.spotify.com/track/08tSNwcNYM9yjuYF9jFvOu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dance for Jesus",
+        "url": "https://open.spotify.com/album/12pkgxsoiyh5Kq7DreKBxp"
+      },
+      "artists": [
+        {
+          "name": "Fido",
+          "url": "https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "duration_ms": 200948,
+      "name": "Dance for Jesus",
+      "url": "https://open.spotify.com/track/7ARtgoelqoU6QGi7fuoQnR"
     },
     {
       "added_at": null,
@@ -327,6 +327,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "JET",
+        "url": "https://open.spotify.com/album/0A2ZAlxeTaZdnSuyzBZGZW"
+      },
+      "artists": [
+        {
+          "name": "SAMAD",
+          "url": "https://open.spotify.com/artist/0X1sGf1y8XCupQFDUkiPmB"
+        },
+        {
+          "name": "Chech",
+          "url": "https://open.spotify.com/artist/2hcI8RG5BVD85XXcuMFLiO"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 175200,
+      "name": "JET",
+      "url": "https://open.spotify.com/track/57hvQIucaegfjRMdPzIcRr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cash App",
         "url": "https://open.spotify.com/album/4sP46SuU8qdDzKOUA926qT"
       },
@@ -351,26 +375,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "JET",
-        "url": "https://open.spotify.com/album/0A2ZAlxeTaZdnSuyzBZGZW"
+        "name": "MOTION SICKNESS",
+        "url": "https://open.spotify.com/album/0uyDxHJsxv7meDo3jI8geM"
       },
       "artists": [
         {
-          "name": "SAMAD",
-          "url": "https://open.spotify.com/artist/0X1sGf1y8XCupQFDUkiPmB"
-        },
-        {
-          "name": "Chech",
-          "url": "https://open.spotify.com/artist/2hcI8RG5BVD85XXcuMFLiO"
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
         },
         {
           "name": "Zlatan",
           "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
         }
       ],
-      "duration_ms": 175200,
-      "name": "JET",
-      "url": "https://open.spotify.com/track/57hvQIucaegfjRMdPzIcRr"
+      "duration_ms": 167586,
+      "name": "MOTION SICKNESS (feat. Zlatan)",
+      "url": "https://open.spotify.com/track/24NCQmCRmHlUr1syzQ6fse"
     },
     {
       "added_at": null,
@@ -575,22 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Symbol of Hope",
-        "url": "https://open.spotify.com/album/27V1Jv5291nkV7CVFvQSwK"
-      },
-      "artists": [
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 165063,
-      "name": "Happy Day",
-      "url": "https://open.spotify.com/track/6xMm0m21a8IIHDxRdY4H8P"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Uncle K: Lemon Chase",
         "url": "https://open.spotify.com/album/0nydN3qx0FP0T241UBQZPF"
       },
@@ -607,6 +611,22 @@
       "duration_ms": 139666,
       "name": "Secure",
       "url": "https://open.spotify.com/track/0esYF9xrVgLdKPVAN0mrN4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Symbol of Hope",
+        "url": "https://open.spotify.com/album/27V1Jv5291nkV7CVFvQSwK"
+      },
+      "artists": [
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 165063,
+      "name": "Happy Day",
+      "url": "https://open.spotify.com/track/6xMm0m21a8IIHDxRdY4H8P"
     },
     {
       "added_at": null,
@@ -783,26 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jiggy Forever",
-        "url": "https://open.spotify.com/album/6xr2tWr8pg5ndECtOD66lp"
-      },
-      "artists": [
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 134482,
-      "name": "50 Billion (feat. Zlatan)",
-      "url": "https://open.spotify.com/track/1MT5w1g81k0RyiWnXjJjIq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Living Life",
         "url": "https://open.spotify.com/album/3Wnmm7fzA7q6Ua6cMF4TNX"
       },
@@ -827,6 +827,26 @@
       "duration_ms": 176169,
       "name": "Living Life",
       "url": "https://open.spotify.com/track/700TinpmLmAZKNxtjzIoPC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jiggy Forever",
+        "url": "https://open.spotify.com/album/6xr2tWr8pg5ndECtOD66lp"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 134482,
+      "name": "50 Billion (feat. Zlatan)",
+      "url": "https://open.spotify.com/track/1MT5w1g81k0RyiWnXjJjIq"
     },
     {
       "added_at": null,
@@ -1051,26 +1071,6 @@
       "duration_ms": 266969,
       "name": "Able God",
       "url": "https://open.spotify.com/track/2T0n6U3Ef2XeZc4kdoe5Eg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Resan",
-        "url": "https://open.spotify.com/album/0UjVcregRqCYPSbSKaCPmd"
-      },
-      "artists": [
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 167213,
-      "name": "Money",
-      "url": "https://open.spotify.com/track/7nZYHOgh3h09onNIZIFLOm"
     }
   ],
   "unique_name": "This Is Zlatan",

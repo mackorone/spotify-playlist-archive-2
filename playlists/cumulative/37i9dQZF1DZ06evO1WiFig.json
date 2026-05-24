@@ -363,6 +363,24 @@
     },
     {
       "album": {
+        "name": "Train on the Island",
+        "url": "https://open.spotify.com/album/0AePRMHymMl4oHBb5EuGiV"
+      },
+      "artists": [
+        {
+          "name": "Aldous Harding",
+          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
+        }
+      ],
+      "date_added": "2026-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210012,
+      "name": "One Stop",
+      "url": "https://open.spotify.com/track/04LTubtEypnO64P6S6sP7Z"
+    },
+    {
+      "album": {
         "name": "Warm Chris",
         "url": "https://open.spotify.com/album/56rWsCsd2UF9l1XTpUfZ1v"
       },
@@ -410,7 +428,7 @@
       ],
       "date_added": "2026-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 282031,
       "name": "San Francisco",
       "url": "https://open.spotify.com/track/09rHthpRrPxjwXZdurBpfi"

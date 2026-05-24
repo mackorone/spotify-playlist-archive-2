@@ -1,12 +1,12 @@
 {
   "description": "All the New Joints featuring Veeze, 6LACK, French Montana & Max B and more!",
-  "num_followers": 382519,
+  "num_followers": 382545,
   "original_name": "New Joints",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMI8gzFN6Q9muprAGGsS++qUToZD",
+  "snapshot_id": "AAAAAEnT7BWyC6jvwMqheLBMSHjmIYMh",
   "tracks": [
     {
       "added_at": "2026-05-22 04:01:28",
@@ -83,6 +83,26 @@
       "duration_ms": 154480,
       "name": "White Flag",
       "url": "https://open.spotify.com/track/2CuM7FRomNSgZVF6QV5uLo"
+    },
+    {
+      "added_at": "2026-05-23 17:17:29",
+      "album": {
+        "name": "Smaxk Or Die (feat. Playboi Carti)",
+        "url": "https://open.spotify.com/album/0aREGajx4svsFLILvSrq5i"
+      },
+      "artists": [
+        {
+          "name": "Fatt Smaxk",
+          "url": "https://open.spotify.com/artist/0RRUXaSteOOZzo5gMCAeuX"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "duration_ms": 125360,
+      "name": "Smaxk Or Die - feat. Playboi Carti",
+      "url": "https://open.spotify.com/track/1FjpYJ1tVHG3r0xDhZ3tTc"
     },
     {
       "added_at": "2026-05-22 04:01:28",

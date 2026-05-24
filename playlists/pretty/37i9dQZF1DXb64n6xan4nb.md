@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb64n6xan4nb.md) - [plain]
 
 > Enjoy the popular Korean Cyworld bgm that embroidered the 2000s and 2010s\. \(한 시절 감성을 대표했던 싸이월드 BGM을 감상해보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,285 likes - 100 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,296 likes - 100 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb64n6xan4nb.md) - [plain]
 | 60 | [비오는 압구정](https://open.spotify.com/track/1WKoaRdUQGSoo8qfiWc1dT) | [Brown Eyes](https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ) | [Reason 4 breathing?](https://open.spotify.com/album/7yl1TSdq0B20VPe75Y8XAa) | 3:36 |
 | 61 | [응급실](https://open.spotify.com/track/2JPmkr5otXP3G5LMK497c9) | [Izi](https://open.spotify.com/artist/4PPkRMbw2jIs7flJkl4okf) | [izi 1집](https://open.spotify.com/album/1KTUBQHfKhX9F2X01sqEO8) | 3:58 |
 | 62 | [Nothing Better](https://open.spotify.com/track/1c3YKD6HDervPsw0nHxlhh) | [BROWN EYED SOUL](https://open.spotify.com/artist/7AVa6rcpTQWVqgy91llPP5) | [The Wind, The Sea, The Rain](https://open.spotify.com/album/51NQxu89Z3tkaiLN4GX3lL) | 4:23 |
-| 63 | [그대는 눈물겹다](https://open.spotify.com/track/18yfSV6Jhh9lhAPzZoIkfq) | [M.C the Max](https://open.spotify.com/artist/3MaRWfwKpbYnkYHC5gRKYo) | [Love Is Time Sixth Sense](https://open.spotify.com/album/6VjZu0I92vdfh4dGEP9qCQ) | 5:02 |
-| 64 | [달리기](https://open.spotify.com/track/6PxV0qSZZ4Wv4mtv4UcKWo) | [S.E.S.](https://open.spotify.com/artist/61HUG80Xma4rnXsqfZkzeM) | [Choose My Life\-U](https://open.spotify.com/album/7apoRHFUdYNuaR5tRrOnPd) | 3:33 |
+| 63 | [달리기](https://open.spotify.com/track/6PxV0qSZZ4Wv4mtv4UcKWo) | [S.E.S.](https://open.spotify.com/artist/61HUG80Xma4rnXsqfZkzeM) | [Choose My Life\-U](https://open.spotify.com/album/7apoRHFUdYNuaR5tRrOnPd) | 3:33 |
+| 64 | [그대는 눈물겹다](https://open.spotify.com/track/18yfSV6Jhh9lhAPzZoIkfq) | [M.C the Max](https://open.spotify.com/artist/3MaRWfwKpbYnkYHC5gRKYo) | [Love Is Time Sixth Sense](https://open.spotify.com/album/6VjZu0I92vdfh4dGEP9qCQ) | 5:02 |
 | 65 | [좋아 좋아](https://open.spotify.com/track/1ioWMsy1V8yJv2O98tOD69) | [Seo Young Eun](https://open.spotify.com/artist/62kwqoGbwQOLwfOWnDb2iB) | [Remake Romantic 2](https://open.spotify.com/album/6enjQFbMz6pMOLxWPBporQ) | 3:13 |
 | 66 | [여자이니까](https://open.spotify.com/track/0tawSXXpPaKN4zoTpe8dx9) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [투유 프로젝트 \- 슈가맨 Pt.36](https://open.spotify.com/album/405tMm63Ou53fIs0BmdeH9) | 3:46 |
 | 67 | [정말 사랑했을까](https://open.spotify.com/track/0xuXybbYxNqKKD4NMr63g4) | [BROWN EYED SOUL](https://open.spotify.com/artist/7AVa6rcpTQWVqgy91llPP5) | [Soul Free](https://open.spotify.com/album/7zM9ILBsO6580uSLZzV8hC) | 4:32 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb64n6xan4nb.md) - [plain]
 | 80 | [흩어진 나날들](https://open.spotify.com/track/59LCK6UpQY1qhGPEp66AZp) | [Park Hyo Shin](https://open.spotify.com/artist/57htMBtzpppc1yoXgjbslj) | [Neo Classicism](https://open.spotify.com/album/26KTR4BV6sZ7jh0BxO3zIj) | 3:51 |
 | 81 | [Like Yesterday](https://open.spotify.com/track/45k9BzXTsL9ieK6sdcfwJp) | [J.ae](https://open.spotify.com/artist/3jzvjysVAbooBjfvIqtqTY) | [2nd](https://open.spotify.com/album/4PF4HZrptQ6d6b2ov5RqbW) | 4:09 |
 | 82 | [그대 떠난 뒤 \(with 브라운 아이드 소울\)](https://open.spotify.com/track/6HkeCtEHZSDReE5EEvjv2J) | [Naul](https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1) | [Back To The Soul Flight](https://open.spotify.com/album/26nzz1WN0qn4C3B6zcm93u) | 5:37 |
-| 83 | [Brown City](https://open.spotify.com/track/5yMUXmoOqQbXPlj5C2Q3Au) | [BROWN EYED SOUL](https://open.spotify.com/artist/7AVa6rcpTQWVqgy91llPP5) | [Soul Free](https://open.spotify.com/album/7zM9ILBsO6580uSLZzV8hC) | 3:55 |
-| 84 | [My Tipsy Confession](https://open.spotify.com/track/62ElSn0docGvjnA7k30swo) | [Kim Dong Ryul](https://open.spotify.com/artist/3zYyfrb4r6ZHI5Di0rB9bV) | [2008 Concert, Monologue](https://open.spotify.com/album/1EVIqhHPkzsIkka00kZSNu) | 6:06 |
+| 83 | [My Tipsy Confession](https://open.spotify.com/track/62ElSn0docGvjnA7k30swo) | [Kim Dong Ryul](https://open.spotify.com/artist/3zYyfrb4r6ZHI5Di0rB9bV) | [2008 Concert, Monologue](https://open.spotify.com/album/1EVIqhHPkzsIkka00kZSNu) | 6:06 |
+| 84 | [Brown City](https://open.spotify.com/track/5yMUXmoOqQbXPlj5C2Q3Au) | [BROWN EYED SOUL](https://open.spotify.com/artist/7AVa6rcpTQWVqgy91llPP5) | [Soul Free](https://open.spotify.com/album/7zM9ILBsO6580uSLZzV8hC) | 3:55 |
 | 85 | [인형의 꿈](https://open.spotify.com/track/3oP1wIigVlJsWMVXXZNisL) | [일기예보](https://open.spotify.com/artist/41uzoiojZhXj2jXpm6CaFi) | [For Everlasting](https://open.spotify.com/album/5Yzg3Kgg5ySxv76oGdw1CW) | 4:15 |
 | 86 | [내 입술 따뜻한 커피처럼](https://open.spotify.com/track/3Jy7rkhHWuPGPZYVyMYwSp) | [Lee Ji Hye](https://open.spotify.com/artist/4fjnGkj0w54KWyIk2VTW7B) | [그대 없이 난](https://open.spotify.com/album/776V3gt9aWQottoKzYT55S) | 4:27 |
 | 87 | [Y \(feat.BUMZU\)](https://open.spotify.com/track/2LOglplo2xqm1IvyaKhzGm) | [Kei](https://open.spotify.com/artist/2NQKyWnBw5BRknaO7r8fBk), [Myundo](https://open.spotify.com/artist/0SjHcY2YHQyCUCiYSZsPZg), [BUMZU](https://open.spotify.com/artist/4FCneqQd4xiPXKOa6poPIf) | [Y](https://open.spotify.com/album/6Txn5hnrNuZ9FFGRGAQ5ot) | 4:04 |
@@ -99,10 +99,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb64n6xan4nb.md) - [plain]
 | 89 | [gazing blankly](https://open.spotify.com/track/5t2qlg7EG7qmckTk6usRee) | [Zia](https://open.spotify.com/artist/2vAxwTAH2OaInCfMxriCqk) | [Voice Of Heaven](https://open.spotify.com/album/0V3PQa5gQpIHRwJEscGwvY) | 3:36 |
 | 90 | [응급실](https://open.spotify.com/track/3D5e9hqe0ebQq29RRdYo8m) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [투유 프로젝트 \- 슈가맨 Pt.5](https://open.spotify.com/album/3O0r88fVgzaZ6YDhDiSypI) | 4:27 |
 | 91 | [잠시 길을 잃다](https://open.spotify.com/track/3GyOvpjHY0fm3nQJcLPDbD) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7), [신보경](https://open.spotify.com/artist/48INQ7U2sSQmgbfa9r5bU9) | [Lucky 7](https://open.spotify.com/album/3RrKHh0VKEzefkMOekGJn9) | 4:25 |
-| 92 | [사랑해, 이 말 밖엔...](https://open.spotify.com/track/55Gh7kOThfeDEiO3MTvXOD) | [Rich](https://open.spotify.com/artist/0OAPcmruJr93HIMyFgFjoP) | [I Have A Dream](https://open.spotify.com/album/3YtezvI7xfOPQvweV49HBY) | 4:11 |
-| 93 | [아무리 생각해도 난 너를](https://open.spotify.com/track/6Ml3XSfeVLUJEZ8OK6aLC6) | [SWEET SORROW](https://open.spotify.com/artist/1rwig4pRfLrj3scq9as1Mb) | [나는가수다 시즌3 1회 '자신의 대표곡'](https://open.spotify.com/album/4taROD1UypCjbIgisuLolT) | 4:33 |
-| 94 | [그녀에게](https://open.spotify.com/track/4mqg37DS6OofRxxXTBmWPC) | [Un](https://open.spotify.com/artist/2k3wogLJyPnkEpb2pn3GLk) | [그녀에게](https://open.spotify.com/album/3NH17WsgFpPm10ZKT9ngxg) | 4:02 |
-| 95 | [사랑 그 놈 \(화생방실 클레오파트라\)](https://open.spotify.com/track/5EeA5N3O42bwiZiz6TV70k) | [Kim Yeon Woo](https://open.spotify.com/artist/4vsTrZ8Y7nKqQM0BJQ6Dvd) | [Mask Singer 12th \(Live Version\)](https://open.spotify.com/album/0PO1s1wWPidhuAXqrvT5gr) | 4:11 |
+| 92 | [아무리 생각해도 난 너를](https://open.spotify.com/track/6Ml3XSfeVLUJEZ8OK6aLC6) | [SWEET SORROW](https://open.spotify.com/artist/1rwig4pRfLrj3scq9as1Mb) | [나는가수다 시즌3 1회 '자신의 대표곡'](https://open.spotify.com/album/4taROD1UypCjbIgisuLolT) | 4:33 |
+| 93 | [사랑해, 이 말 밖엔...](https://open.spotify.com/track/55Gh7kOThfeDEiO3MTvXOD) | [Rich](https://open.spotify.com/artist/0OAPcmruJr93HIMyFgFjoP) | [I Have A Dream](https://open.spotify.com/album/3YtezvI7xfOPQvweV49HBY) | 4:11 |
+| 94 | [사랑 그 놈 \(화생방실 클레오파트라\)](https://open.spotify.com/track/5EeA5N3O42bwiZiz6TV70k) | [Kim Yeon Woo](https://open.spotify.com/artist/4vsTrZ8Y7nKqQM0BJQ6Dvd) | [Mask Singer 12th \(Live Version\)](https://open.spotify.com/album/0PO1s1wWPidhuAXqrvT5gr) | 4:11 |
+| 95 | [그녀에게](https://open.spotify.com/track/4mqg37DS6OofRxxXTBmWPC) | [Un](https://open.spotify.com/artist/2k3wogLJyPnkEpb2pn3GLk) | [그녀에게](https://open.spotify.com/album/3NH17WsgFpPm10ZKT9ngxg) | 4:02 |
 | 96 | [그리고 그후](https://open.spotify.com/track/7lKxiceicZ2E5CWERRfjce) | [Freestyle](https://open.spotify.com/artist/5tyf3H4sgUqM5DxTUXe6Sg) | [Funkiest Family Juice](https://open.spotify.com/album/24lmGtOd28NyB9ZFvmMrOX) | 3:36 |
 | 97 | [Butterfly Grave \(2015\)](https://open.spotify.com/track/0e4dVbS45E8d7eB8QtaZAn) | [TAKE](https://open.spotify.com/artist/2lNzqnNwPiE1mqUeZhrjMv) | [TAKE](https://open.spotify.com/album/78VoNmapJTpUoSgUcJN93v) | 4:29 |
 | 98 | [Tic Tac Toe](https://open.spotify.com/track/6aNc2VAWYiXklUN0sqy3tR) | [부가킹즈](https://open.spotify.com/artist/4uO7l2PC3obqQDjsBsyF7U) | [The Renaissance](https://open.spotify.com/album/1QMiVLQPf0OascUKHDg37l) | 3:55 |

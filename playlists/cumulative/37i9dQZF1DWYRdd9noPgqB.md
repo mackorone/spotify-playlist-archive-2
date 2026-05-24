@@ -4,7 +4,7 @@
 
 > La playlist qui fait du bien ☀️
 
-476 songs - 1 day 2 hr 10 min
+477 songs - 1 day 2 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,7 +130,7 @@
 | [Feel Myself](https://open.spotify.com/track/7AwKM6qHhGkG1ilcFxiE99) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Feel Myself / Wait For You](https://open.spotify.com/album/1MOECz6wUor32h4IdlQj3F) | 2:44 | 2025-07-24 | 2026-04-03 |
 | [Fio Maravilha](https://open.spotify.com/track/1W9TsPRxMfhnI0bmfg3Kwh) | [Bon Entendeur](https://open.spotify.com/artist/2lwjwKfYZCuPEJOo8t32CD), [Nicoletta](https://open.spotify.com/artist/1XspV6teuaJMwVq0QBXZA0) | [Fio Maravilha](https://open.spotify.com/album/5mZM6qQfT8347Sn0WngPK4) | 3:08 | 2024-02-01 | 2024-06-21 |
 | [Fior di Latte](https://open.spotify.com/track/1NJJObY1QxJhs5Xphq837L) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Ti Amo](https://open.spotify.com/album/4CWDyUN5jukEwwc2Fo4xzy) | 4:03 | 2023-09-28 | 2023-10-20 |
-| [Fish in a Bowl](https://open.spotify.com/track/5MjlhiqSDgSValAXvEd1w7) | [Annie Lalalove](https://open.spotify.com/artist/0rXEHQAzDXBvblE2EZRBjL) | [Fish in a Bowl](https://open.spotify.com/album/4EjoAF2w6uCqttZAgko5Cp) | 3:42 | 2026-05-21 |  |
+| [Fish in a Bowl](https://open.spotify.com/track/5MjlhiqSDgSValAXvEd1w7) | [Annie Lalalove](https://open.spotify.com/artist/0rXEHQAzDXBvblE2EZRBjL) | [Fish in a Bowl](https://open.spotify.com/album/4EjoAF2w6uCqttZAgko5Cp) | 3:42 | 2026-05-21 | 2026-05-24 |
 | [folding chairs on the moon](https://open.spotify.com/track/6kU8m88hdo7QyQ1EPqBQVF) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe), [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [folding chairs on the moon](https://open.spotify.com/album/3pNeAqZF4s1icAo94ovwOc) | 3:20 | 2025-09-18 | 2026-03-28 |
 | [Fool For You](https://open.spotify.com/track/1qJOKVRiiaqSpwB1UFPbnl) | [Lusaint](https://open.spotify.com/artist/35v2YILQxee0yatdWj6Kg7) | [Fool For You](https://open.spotify.com/album/3ldC2PLwazUJQTW18DsWLE) | 3:03 | 2023-09-28 | 2023-12-22 |
 | [Forever \- French Edit](https://open.spotify.com/track/4ed2gCfVy4MMblrkXDoLs6) | [Diva Faune](https://open.spotify.com/artist/39l75cUNbVMpHgykQLyOUT), [Adeline Lovo](https://open.spotify.com/artist/7yhd0k8UToSYCkNq7HUBC6) | [Forever \(French Edit\)](https://open.spotify.com/album/2swuTIjmSZt6zldeWddUyZ) | 2:19 | 2025-01-16 | 2025-06-07 |
@@ -359,6 +359,7 @@
 | [Sacrifice Tomorrow](https://open.spotify.com/track/5H4y5thHDJUAxwiclrSXc1) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Sacrifice Tomorrow](https://open.spotify.com/album/0GVkcfu3pkAdakG3oIt5cu) | 2:25 | 2024-05-09 | 2024-06-28 |
 | [Sad Boiii](https://open.spotify.com/track/5LOUGL5zAmtxRQIJBmuUay) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Sad Boiii](https://open.spotify.com/album/52WgEY29coP4ZokwAqmYbR) | 2:46 | 2024-09-05 | 2025-01-17 |
 | [Sad Enough](https://open.spotify.com/track/4tq7k6MACc2UyQLAeYOHpc) | [Puggy](https://open.spotify.com/artist/1BNQnTVxfQqeMxr6xBi8X6) | [Radio Kitchen EP](https://open.spotify.com/album/3lTog86YTvMGrVeZtJrWP5) | 3:34 | 2024-02-01 | 2024-04-26 |
+| [sailing](https://open.spotify.com/track/3Yp4Z4UhD7ymJiX83RgoGm) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [sailing](https://open.spotify.com/album/73IJUW7XGzL2B8HMCKY39I) | 4:04 | 2026-05-21 |  |
 | [Sally, When The Wine Runs Out](https://open.spotify.com/track/2J051fjLklkoPbzOoTAACZ) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Kansas Anymore \(The Longest Goodbye\)](https://open.spotify.com/album/5gZFprukMkMJiEKEgf3q1f) | 3:38 | 2025-02-13 |  |
 | [SAN FRANCISCO \(BABY!\)](https://open.spotify.com/track/05QklCPuKAyDce74SWqf6I) | [BLOWSOM](https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI) | [SAN FRANCISCO \(BABY!\)](https://open.spotify.com/album/4QdUQ164R3oomzrOz72IIg) | 3:15 | 2023-09-28 | 2023-11-17 |
 | [Sandman](https://open.spotify.com/track/3iXH8nRdc945PO0GlbOroA) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [Sandman](https://open.spotify.com/album/0tdqSTY29oE3dMnk2A1PVc) | 3:32 | 2023-09-28 | 2023-10-27 |

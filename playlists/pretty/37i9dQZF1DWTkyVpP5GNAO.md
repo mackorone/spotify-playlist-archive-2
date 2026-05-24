@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkyVpP5GNAO.md) - [plain]
 
 > Dale a Dios toda la gloria y alabanza! Foto: Marcos Vidal, Marcos Witt, & Marco Barrientos
 
-[Spotify](https://open.spotify.com/user/spotify) - 559,372 likes - 70 songs - 7 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 559,441 likes - 70 songs - 7 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkyVpP5GNAO.md) - [plain]
 | 20 | [Dios de Poder](https://open.spotify.com/track/4O7Nx0RwpzSKFyQw4NSpiE) | [Johan y Sofi](https://open.spotify.com/artist/4QPzngDflVr8Qq8vRgL4qT), [Sofía Mancipe](https://open.spotify.com/artist/13JxTQpXz8TBhXjOjYDioQ), [Johan Manjarrés](https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7) | [PUESTOS LOS OJOS EN JESÚS](https://open.spotify.com/album/47EqP1G54kdoaEgLErL77i) | 8:03 |
 | 21 | [ÍMPETU \(la potencia de tu amor\)](https://open.spotify.com/track/5w4jRnhpq1CE6OMU28kBTF) | [Living](https://open.spotify.com/artist/2miffAnnUvKSyB9ykA2su9) | [ÍMPETU \(la potencia de tu amor\)](https://open.spotify.com/album/7fqABEGQIzM9IHU9ByQPgx) | 4:24 |
 | 22 | [ALABEN A YAHWEH](https://open.spotify.com/track/3xM1ZboW9SQ6bE4mPRlycx) | [World Worship](https://open.spotify.com/artist/0sWeunTzY69e7TCkUflZQm) | [ALABEN A YAHWEH](https://open.spotify.com/album/0x3r6Tt67GqnMBwc0DG2vv) | 9:00 |
-| 23 | [Aleluya](https://open.spotify.com/track/2bp5Q3eafyHErg3LYt5b8M) | [Elevation Español](https://open.spotify.com/artist/337ClCqxF9LJsLhB86Tsf0), [Unified Sound](https://open.spotify.com/artist/6Y0QlQ95DbxecMvOq4KhXf) | [ASÍ SERÁ](https://open.spotify.com/album/3rMpZAyXBu5e7zVX6OLJRA) | 4:07 |
+| 23 | [Aleluya](https://open.spotify.com/track/2bp5Q3eafyHErg3LYt5b8M) | [Elevation Español](https://open.spotify.com/artist/337ClCqxF9LJsLhB86Tsf0), [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Unified Sound](https://open.spotify.com/artist/6Y0QlQ95DbxecMvOq4KhXf) | [ASÍ SERÁ](https://open.spotify.com/album/3rMpZAyXBu5e7zVX6OLJRA) | 4:07 |
 | 24 | [No One Like The Lord/Nadie Como El Señor \- Live](https://open.spotify.com/track/4fzC4XMxdP5prBebf3mjSR) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Jenn Johnson](https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [No One Like The Lord/Nadie Como El Señor \(Live\)](https://open.spotify.com/album/6YdYTtyFK5MlfzPv849u5Z) | 7:48 |
 | 25 | [Gracias A La Cruz](https://open.spotify.com/track/1z8O7c6SeYQymSen7xbTsF) | [TWICE](https://open.spotify.com/artist/2yp6zqk49KOKKrOSSsUb75) | [Gracias A La Cruz](https://open.spotify.com/album/2qr3B7UPelc7paIgaj55Nk) | 5:08 |
 | 26 | [Inquebrantable](https://open.spotify.com/track/5bQhc8SI484MRfa7X7PlOv) | [Sarai Rivera](https://open.spotify.com/artist/202VnAr2CvQpJJrYXK78jk) | [Inquebrantable](https://open.spotify.com/album/3M0Jh6mEcpMSJXbM5vqNQ0) | 3:33 |

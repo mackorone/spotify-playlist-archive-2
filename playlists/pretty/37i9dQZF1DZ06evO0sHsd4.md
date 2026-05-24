@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sHsd4.md) - [plain]
 
 > This is Jasiel Nuñez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,399 likes - 36 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,411 likes - 36 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sHsd4.md) - [plain]
 | 10 | [ME ACTIVO](https://open.spotify.com/track/4Hr713a1f4DUOZ7BPuD0PQ) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [ÉXODO](https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf) | 2:55 |
 | 11 | [AMIRI](https://open.spotify.com/track/3dpBkXMbRdDQ6ZhcxFufQp) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [LA ODISEA](https://open.spotify.com/album/0OrStwHqaIFS8JdPSwApqA) | 2:03 |
 | 12 | [Cielo Eterno](https://open.spotify.com/track/5BHyssNPTVo1Exf7LPVtrO) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK), [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [LEYENDA](https://open.spotify.com/album/1wsPO4l5EFeVpmZESwYWnY) | 4:04 |
-| 13 | [Todo Es Diferente](https://open.spotify.com/track/1J3LtyCOLfYTdtMV4aNAl3) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy), [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Todo Es Diferente](https://open.spotify.com/album/3l84HJsuRqXtmmXXPfYnP9) | 3:20 |
-| 14 | [Jugando a Perder](https://open.spotify.com/track/2HCBHEC5GOevDnWTIP7OH3) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy), [Dany Calvario](https://open.spotify.com/artist/7hieapEQgIf8bO2eadP1MS) | [Las Que Te Escribí y Nunca Te Canté](https://open.spotify.com/album/2LaGANWLbDpG6A1Mcpj6SB) | 4:33 |
+| 13 | [Jugando a Perder](https://open.spotify.com/track/2HCBHEC5GOevDnWTIP7OH3) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy), [Dany Calvario](https://open.spotify.com/artist/7hieapEQgIf8bO2eadP1MS) | [Las Que Te Escribí y Nunca Te Canté](https://open.spotify.com/album/2LaGANWLbDpG6A1Mcpj6SB) | 4:33 |
+| 14 | [Todo Es Diferente](https://open.spotify.com/track/1J3LtyCOLfYTdtMV4aNAl3) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy), [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Todo Es Diferente](https://open.spotify.com/album/3l84HJsuRqXtmmXXPfYnP9) | 3:20 |
 | 15 | [EN MI MUNDO](https://open.spotify.com/track/0lQogzZgV4XwuUTasz3nPL) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [LA ODISEA](https://open.spotify.com/album/0OrStwHqaIFS8JdPSwApqA) | 5:07 |
 | 16 | [La Lleca](https://open.spotify.com/track/737UTu0th7F2LGAisD0cKT) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Lo Aprendí En La Lleca](https://open.spotify.com/album/3HBxwtKVmVAoaeQBzDumZI) | 3:04 |
 | 17 | [Corazonada](https://open.spotify.com/track/50djfaTziNAD9lzW394lyQ) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Corazonada](https://open.spotify.com/album/6M2WxySETQXSq6K5QRXqyx) | 3:57 |
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sHsd4.md) - [plain]
 | 35 | [Belicosa](https://open.spotify.com/track/4s7yfI7nh95h4xikmgcJYX) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Belicosa](https://open.spotify.com/album/1mgG5z2H6wKiY297LxllvD) | 2:58 |
 | 36 | [Heisenberg](https://open.spotify.com/track/1qovVn8DTFXeyfzyu9Plx0) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Lo Aprendí En La Lleca](https://open.spotify.com/album/3HBxwtKVmVAoaeQBzDumZI) | 2:58 |
 
-Snapshot ID: `ag5LAAAAAAAxrcPIoQW3DNQO5/so+Qvs`
+Snapshot ID: `ag+cgAAAAABf363o0Iw9mWYGq25LDYi5`

@@ -1,12 +1,12 @@
 {
   "description": "You've come to the crossroads of soul, folk, and the blues. Cover: Sons of Legion",
-  "num_followers": 1069164,
+  "num_followers": 1069219,
   "original_name": "Blues Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEtzW3UoaiVCIMw9Xa1GcEKR+XlU",
+  "snapshot_id": "AAAAACqMgH1ir6/pN7C2gIIf3XxSdvCP",
   "tracks": [
     {
       "added_at": "2026-05-15 04:01:33",
@@ -147,22 +147,6 @@
     {
       "added_at": "2026-05-15 04:01:33",
       "album": {
-        "name": "Dark and Stormy",
-        "url": "https://open.spotify.com/album/4PnsPNH41o40lO1TjXZufB"
-      },
-      "artists": [
-        {
-          "name": "The Brudi Brothers",
-          "url": "https://open.spotify.com/artist/7pOVIu213yYI9X7Ylfyh2K"
-        }
-      ],
-      "duration_ms": 193146,
-      "name": "Silver Wave",
-      "url": "https://open.spotify.com/track/5dsWR4AuIjIVi5DWj7slaB"
-    },
-    {
-      "added_at": "2026-05-15 04:01:33",
-      "album": {
         "name": "Trouble",
         "url": "https://open.spotify.com/album/4wMk7mjtzYXFuMSEA8AIcb"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 152626,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/5yw4C8rft1mCGdTlsrCY4X"
+    },
+    {
+      "added_at": "2026-05-15 04:01:33",
+      "album": {
+        "name": "Dark and Stormy",
+        "url": "https://open.spotify.com/album/4PnsPNH41o40lO1TjXZufB"
+      },
+      "artists": [
+        {
+          "name": "The Brudi Brothers",
+          "url": "https://open.spotify.com/artist/7pOVIu213yYI9X7Ylfyh2K"
+        }
+      ],
+      "duration_ms": 193146,
+      "name": "Silver Wave",
+      "url": "https://open.spotify.com/track/5dsWR4AuIjIVi5DWj7slaB"
     },
     {
       "added_at": "2026-05-15 04:01:33",
@@ -227,22 +227,6 @@
     {
       "added_at": "2026-05-15 04:01:33",
       "album": {
-        "name": "Dark and Stormy",
-        "url": "https://open.spotify.com/album/5mR5SYkDxay9IuM5624fDx"
-      },
-      "artists": [
-        {
-          "name": "The Brudi Brothers",
-          "url": "https://open.spotify.com/artist/7pOVIu213yYI9X7Ylfyh2K"
-        }
-      ],
-      "duration_ms": 187200,
-      "name": "Dark and Stormy",
-      "url": "https://open.spotify.com/track/0jC82twXzqYaIiOQKaOlTl"
-    },
-    {
-      "added_at": "2026-05-15 04:01:33",
-      "album": {
         "name": "Honky Tonk Hell",
         "url": "https://open.spotify.com/album/4TWWDRkvu8VIgt6nb2TbK3"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 195732,
       "name": "Honky Tonk Hell",
       "url": "https://open.spotify.com/track/1Z2ZQbixCYNl8bKywACXRO"
+    },
+    {
+      "added_at": "2026-05-15 04:01:33",
+      "album": {
+        "name": "Dark and Stormy",
+        "url": "https://open.spotify.com/album/5mR5SYkDxay9IuM5624fDx"
+      },
+      "artists": [
+        {
+          "name": "The Brudi Brothers",
+          "url": "https://open.spotify.com/artist/7pOVIu213yYI9X7Ylfyh2K"
+        }
+      ],
+      "duration_ms": 187200,
+      "name": "Dark and Stormy",
+      "url": "https://open.spotify.com/track/0jC82twXzqYaIiOQKaOlTl"
     },
     {
       "added_at": "2026-05-15 04:01:33",
@@ -455,22 +455,6 @@
     {
       "added_at": "2026-05-15 04:01:33",
       "album": {
-        "name": "Man's World",
-        "url": "https://open.spotify.com/album/7xDsxa6yIrJVBGk8XaNKrD"
-      },
-      "artists": [
-        {
-          "name": "Cat Clyde",
-          "url": "https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk"
-        }
-      ],
-      "duration_ms": 162290,
-      "name": "Man's World",
-      "url": "https://open.spotify.com/track/1RmMogpswOSC96lpdeXIxU"
-    },
-    {
-      "added_at": "2026-05-15 04:01:33",
-      "album": {
         "name": "The Winding Way",
         "url": "https://open.spotify.com/album/4JvUEoioE4Am9JKyoQrlXH"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 261773,
       "name": "I'm Leaving",
       "url": "https://open.spotify.com/track/33mKFTO1V2QNyhuUBneHDZ"
+    },
+    {
+      "added_at": "2026-05-15 04:01:33",
+      "album": {
+        "name": "Man's World",
+        "url": "https://open.spotify.com/album/7xDsxa6yIrJVBGk8XaNKrD"
+      },
+      "artists": [
+        {
+          "name": "Cat Clyde",
+          "url": "https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk"
+        }
+      ],
+      "duration_ms": 162290,
+      "name": "Man's World",
+      "url": "https://open.spotify.com/track/1RmMogpswOSC96lpdeXIxU"
     },
     {
       "added_at": "2026-05-15 04:01:33",
@@ -503,6 +503,22 @@
       "duration_ms": 152824,
       "name": "Greyhound Bus Blues",
       "url": "https://open.spotify.com/track/3kFo9yQT1AcBMUQjwExLd2"
+    },
+    {
+      "added_at": "2026-05-15 04:01:33",
+      "album": {
+        "name": "Best Believe",
+        "url": "https://open.spotify.com/album/1mqN7FXBKeUsL7mNxyOmE9"
+      },
+      "artists": [
+        {
+          "name": "Elles Bailey",
+          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
+        }
+      ],
+      "duration_ms": 228192,
+      "name": "Best Believe",
+      "url": "https://open.spotify.com/track/25RTJhQWS4t1pjGqSV0i6U"
     },
     {
       "added_at": "2026-05-15 04:01:33",
@@ -539,22 +555,6 @@
       "duration_ms": 279359,
       "name": "What About The Children",
       "url": "https://open.spotify.com/track/4bGTNdEbmrDlvqYJKRKJxR"
-    },
-    {
-      "added_at": "2026-05-15 04:01:33",
-      "album": {
-        "name": "Best Believe",
-        "url": "https://open.spotify.com/album/1mqN7FXBKeUsL7mNxyOmE9"
-      },
-      "artists": [
-        {
-          "name": "Elles Bailey",
-          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
-        }
-      ],
-      "duration_ms": 228192,
-      "name": "Best Believe",
-      "url": "https://open.spotify.com/track/25RTJhQWS4t1pjGqSV0i6U"
     },
     {
       "added_at": "2026-05-15 04:01:33",
@@ -831,6 +831,22 @@
     {
       "added_at": "2026-05-15 04:01:33",
       "album": {
+        "name": "Watch Me Gone",
+        "url": "https://open.spotify.com/album/6gefEZB1b5wlbCj9zLYagj"
+      },
+      "artists": [
+        {
+          "name": "Mark Knopfler",
+          "url": "https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug"
+        }
+      ],
+      "duration_ms": 302346,
+      "name": "Watch Me Gone",
+      "url": "https://open.spotify.com/track/00GkFHBAxQe5yr55TtacF8"
+    },
+    {
+      "added_at": "2026-05-15 04:01:33",
+      "album": {
         "name": "Lahaina (feat. Mick Fleetwood, Jake Shimabukuro & Henry Kapono)",
         "url": "https://open.spotify.com/album/4eXoo5d1oJ4A8fH9BnDYOK"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 257814,
       "name": "Lahaina (feat. Mick Fleetwood, Jake Shimabukuro & Henry Kapono)",
       "url": "https://open.spotify.com/track/7b5SxmrPawO5SX5N18M0bh"
-    },
-    {
-      "added_at": "2026-05-15 04:01:33",
-      "album": {
-        "name": "Watch Me Gone",
-        "url": "https://open.spotify.com/album/6gefEZB1b5wlbCj9zLYagj"
-      },
-      "artists": [
-        {
-          "name": "Mark Knopfler",
-          "url": "https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug"
-        }
-      ],
-      "duration_ms": 302346,
-      "name": "Watch Me Gone",
-      "url": "https://open.spotify.com/track/00GkFHBAxQe5yr55TtacF8"
     },
     {
       "added_at": "2026-05-15 04:01:33",
@@ -923,30 +923,6 @@
     {
       "added_at": "2026-05-15 04:01:33",
       "album": {
-        "name": "Everything's Fine",
-        "url": "https://open.spotify.com/album/1h64ZVnu3Zds9ZKRJcOE8k"
-      },
-      "artists": [
-        {
-          "name": "Hollie Rogers",
-          "url": "https://open.spotify.com/artist/5LusIUYPwa4yt3q02O1xqp"
-        },
-        {
-          "name": "Elles Bailey",
-          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
-        },
-        {
-          "name": "Beth Nielsen Chapman",
-          "url": "https://open.spotify.com/artist/2dPJ5zRtJQHk7JsLMy5Dtu"
-        }
-      ],
-      "duration_ms": 234596,
-      "name": "Everything's Fine",
-      "url": "https://open.spotify.com/track/4zAonFIPy28okpnSUMzceT"
-    },
-    {
-      "added_at": "2026-05-15 04:01:33",
-      "album": {
         "name": "Let's Walk",
         "url": "https://open.spotify.com/album/5Nel74loT3L9CQff44dpGz"
       },
@@ -979,6 +955,30 @@
       "duration_ms": 255218,
       "name": "Drifting (feat. Marcus King)",
       "url": "https://open.spotify.com/track/1zg7rKOGtM0TAXA4jC8U2Q"
+    },
+    {
+      "added_at": "2026-05-15 04:01:33",
+      "album": {
+        "name": "Everything's Fine",
+        "url": "https://open.spotify.com/album/1h64ZVnu3Zds9ZKRJcOE8k"
+      },
+      "artists": [
+        {
+          "name": "Hollie Rogers",
+          "url": "https://open.spotify.com/artist/5LusIUYPwa4yt3q02O1xqp"
+        },
+        {
+          "name": "Elles Bailey",
+          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
+        },
+        {
+          "name": "Beth Nielsen Chapman",
+          "url": "https://open.spotify.com/artist/2dPJ5zRtJQHk7JsLMy5Dtu"
+        }
+      ],
+      "duration_ms": 234596,
+      "name": "Everything's Fine",
+      "url": "https://open.spotify.com/track/4zAonFIPy28okpnSUMzceT"
     },
     {
       "added_at": "2026-05-15 04:01:33",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2026-05-15 04:01:33",
       "album": {
-        "name": "The Love Endeavour",
-        "url": "https://open.spotify.com/album/40IiLXS7PRcNBriqxjkZlE"
-      },
-      "artists": [
-        {
-          "name": "PAPA | PEET",
-          "url": "https://open.spotify.com/artist/5nywxllqw4x855jWWByQgL"
-        }
-      ],
-      "duration_ms": 275712,
-      "name": "The Love Endeavour",
-      "url": "https://open.spotify.com/track/6BcEUibSqPqWJAxHgiZrle"
-    },
-    {
-      "added_at": "2026-05-15 04:01:33",
-      "album": {
         "name": "Shoulda Been",
         "url": "https://open.spotify.com/album/3YM3tMxwTxvHAkdPruItCP"
       },
@@ -1083,6 +1067,22 @@
     {
       "added_at": "2026-05-15 04:01:33",
       "album": {
+        "name": "The Love Endeavour",
+        "url": "https://open.spotify.com/album/40IiLXS7PRcNBriqxjkZlE"
+      },
+      "artists": [
+        {
+          "name": "PAPA | PEET",
+          "url": "https://open.spotify.com/artist/5nywxllqw4x855jWWByQgL"
+        }
+      ],
+      "duration_ms": 275712,
+      "name": "The Love Endeavour",
+      "url": "https://open.spotify.com/track/6BcEUibSqPqWJAxHgiZrle"
+    },
+    {
+      "added_at": "2026-05-15 04:01:33",
+      "album": {
         "name": "Heaven Knows",
         "url": "https://open.spotify.com/album/0YpOrdUp8zE96Z9Xm0gjE8"
       },
@@ -1095,22 +1095,6 @@
       "duration_ms": 323826,
       "name": "Heaven Knows",
       "url": "https://open.spotify.com/track/6IqUGU2UsJc6ys3veZeAbK"
-    },
-    {
-      "added_at": "2026-05-15 04:01:33",
-      "album": {
-        "name": "Let the Music Get Down in Your Soul",
-        "url": "https://open.spotify.com/album/1rozu7rLvTKozl701ahTly"
-      },
-      "artists": [
-        {
-          "name": "Miko Marks",
-          "url": "https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs"
-        }
-      ],
-      "duration_ms": 204986,
-      "name": "Let the Music Get Down in Your Soul",
-      "url": "https://open.spotify.com/track/3Kt8zwpgfewy0mespQa7Ew"
     },
     {
       "added_at": "2026-05-15 04:01:33",
@@ -1143,6 +1127,22 @@
       "duration_ms": 234266,
       "name": "Out for Blood",
       "url": "https://open.spotify.com/track/7739yFrjY8ZOg3619Y07yH"
+    },
+    {
+      "added_at": "2026-05-15 04:01:33",
+      "album": {
+        "name": "Let the Music Get Down in Your Soul",
+        "url": "https://open.spotify.com/album/1rozu7rLvTKozl701ahTly"
+      },
+      "artists": [
+        {
+          "name": "Miko Marks",
+          "url": "https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs"
+        }
+      ],
+      "duration_ms": 204986,
+      "name": "Let the Music Get Down in Your Soul",
+      "url": "https://open.spotify.com/track/3Kt8zwpgfewy0mespQa7Ew"
     },
     {
       "added_at": "2026-05-15 04:01:33",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2026-05-15 04:01:33",
       "album": {
+        "name": "Flang Dang",
+        "url": "https://open.spotify.com/album/4cQSa2VndbpHShN7e2VC36"
+      },
+      "artists": [
+        {
+          "name": "Andy Fairweather Low",
+          "url": "https://open.spotify.com/artist/0lZmP91eT6v4c9N9eoMmJD"
+        }
+      ],
+      "duration_ms": 218746,
+      "name": "99 Ways",
+      "url": "https://open.spotify.com/track/5eF2CfvURFWBXjxTP9prbc"
+    },
+    {
+      "added_at": "2026-05-15 04:01:33",
+      "album": {
         "name": "Revelations",
         "url": "https://open.spotify.com/album/3HWmAVWwH6PGfEdePj3ik9"
       },
@@ -1215,22 +1231,6 @@
       "duration_ms": 221239,
       "name": "Revelations",
       "url": "https://open.spotify.com/track/6O3eodXH5dYjU1uhFW7v3F"
-    },
-    {
-      "added_at": "2026-05-15 04:01:33",
-      "album": {
-        "name": "Flang Dang",
-        "url": "https://open.spotify.com/album/4cQSa2VndbpHShN7e2VC36"
-      },
-      "artists": [
-        {
-          "name": "Andy Fairweather Low",
-          "url": "https://open.spotify.com/artist/0lZmP91eT6v4c9N9eoMmJD"
-        }
-      ],
-      "duration_ms": 218746,
-      "name": "99 Ways",
-      "url": "https://open.spotify.com/track/5eF2CfvURFWBXjxTP9prbc"
     },
     {
       "added_at": "2026-05-15 04:01:33",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2026-05-15 04:01:33",
       "album": {
-        "name": "Crisscross Way",
-        "url": "https://open.spotify.com/album/4ieVGOXktMLGjcLYv8i7Jb"
-      },
-      "artists": [
-        {
-          "name": "ggwendolyn",
-          "url": "https://open.spotify.com/artist/6IcYZpRmCcm5E3MMfA42Hi"
-        }
-      ],
-      "duration_ms": 164344,
-      "name": "Crisscross Way",
-      "url": "https://open.spotify.com/track/1meNMO8MXPNLm5I5mxQiv5"
-    },
-    {
-      "added_at": "2026-05-15 04:01:33",
-      "album": {
         "name": "Reconcile",
         "url": "https://open.spotify.com/album/2gybW4tM9V6oUvYSw6YHV4"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 219453,
       "name": "Reconcile",
       "url": "https://open.spotify.com/track/40KisYYaB1CQZ32qDkdo2L"
+    },
+    {
+      "added_at": "2026-05-15 04:01:33",
+      "album": {
+        "name": "Crisscross Way",
+        "url": "https://open.spotify.com/album/4ieVGOXktMLGjcLYv8i7Jb"
+      },
+      "artists": [
+        {
+          "name": "ggwendolyn",
+          "url": "https://open.spotify.com/artist/6IcYZpRmCcm5E3MMfA42Hi"
+        }
+      ],
+      "duration_ms": 164344,
+      "name": "Crisscross Way",
+      "url": "https://open.spotify.com/track/1meNMO8MXPNLm5I5mxQiv5"
     },
     {
       "added_at": "2026-05-15 04:01:33",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2026-05-15 04:01:33",
       "album": {
+        "name": "The Circle Session, 2023",
+        "url": "https://open.spotify.com/album/3cOhZf6Vi6zK13jFZrPxrs"
+      },
+      "artists": [
+        {
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+        }
+      ],
+      "duration_ms": 216838,
+      "name": "Oceans Of Emotions - The Circle Session, 2023",
+      "url": "https://open.spotify.com/track/4LW9XCbPyhnWyshA46rXmF"
+    },
+    {
+      "added_at": "2026-05-15 04:01:33",
+      "album": {
         "name": "Coast of Light",
         "url": "https://open.spotify.com/album/5ZNpCyaXw6GYlwfBd9QkBb"
       },
@@ -1491,18 +1507,18 @@
     {
       "added_at": "2026-05-15 04:01:33",
       "album": {
-        "name": "The Circle Session, 2023",
-        "url": "https://open.spotify.com/album/3cOhZf6Vi6zK13jFZrPxrs"
+        "name": "Let's Get Loud",
+        "url": "https://open.spotify.com/album/3p4c8IRujfvliWsiA0jS8n"
       },
       "artists": [
         {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+          "name": "Zach Person",
+          "url": "https://open.spotify.com/artist/0lgtMXcZRhFOUU2ZPddLoA"
         }
       ],
-      "duration_ms": 216838,
-      "name": "Oceans Of Emotions - The Circle Session, 2023",
-      "url": "https://open.spotify.com/track/4LW9XCbPyhnWyshA46rXmF"
+      "duration_ms": 288256,
+      "name": "Muddy Water",
+      "url": "https://open.spotify.com/track/02FcRwLxP00Bwx3ZNTIMzw"
     },
     {
       "added_at": "2026-05-15 04:01:33",
@@ -1523,22 +1539,6 @@
     {
       "added_at": "2026-05-15 04:01:33",
       "album": {
-        "name": "Let's Get Loud",
-        "url": "https://open.spotify.com/album/3p4c8IRujfvliWsiA0jS8n"
-      },
-      "artists": [
-        {
-          "name": "Zach Person",
-          "url": "https://open.spotify.com/artist/0lgtMXcZRhFOUU2ZPddLoA"
-        }
-      ],
-      "duration_ms": 288256,
-      "name": "Muddy Water",
-      "url": "https://open.spotify.com/track/02FcRwLxP00Bwx3ZNTIMzw"
-    },
-    {
-      "added_at": "2026-05-15 04:01:33",
-      "album": {
         "name": "Devil That You Know",
         "url": "https://open.spotify.com/album/6j19OocI2RQsxz9waAgqB4"
       },
@@ -1551,6 +1551,22 @@
       "duration_ms": 198496,
       "name": "Devil That You Know",
       "url": "https://open.spotify.com/track/5ax26o9wSrvrG6qN3fy9e0"
+    },
+    {
+      "added_at": "2026-05-15 04:01:33",
+      "album": {
+        "name": "Take My Heart",
+        "url": "https://open.spotify.com/album/5Wh8xD9g7Bu3ToOZCRMbwg"
+      },
+      "artists": [
+        {
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+        }
+      ],
+      "duration_ms": 258651,
+      "name": "Take My Heart",
+      "url": "https://open.spotify.com/track/4AEUvrnxGomXqK3guvQkt8"
     },
     {
       "added_at": "2026-05-15 04:01:33",
@@ -1571,22 +1587,6 @@
       "duration_ms": 185399,
       "name": "Gathering Forces",
       "url": "https://open.spotify.com/track/6JTI6WG7Y8ZmFya41ksK4E"
-    },
-    {
-      "added_at": "2026-05-15 04:01:33",
-      "album": {
-        "name": "Take My Heart",
-        "url": "https://open.spotify.com/album/5Wh8xD9g7Bu3ToOZCRMbwg"
-      },
-      "artists": [
-        {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
-        }
-      ],
-      "duration_ms": 258651,
-      "name": "Take My Heart",
-      "url": "https://open.spotify.com/track/4AEUvrnxGomXqK3guvQkt8"
     },
     {
       "added_at": "2026-05-15 04:01:33",

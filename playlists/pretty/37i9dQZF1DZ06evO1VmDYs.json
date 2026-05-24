@@ -1,12 +1,12 @@
 {
   "description": "This is Weezer. The essential tracks, all in one playlist.",
-  "num_followers": 203267,
+  "num_followers": 203302,
   "original_name": "This Is Weezer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ag5LAAAAAABWuBZEUUxCVHtgwJg8V2jz",
+  "snapshot_id": "ag+cgAAAAADAKNIyqGZ/PF8hFA+sHBrp",
   "tracks": [
     {
       "added_at": null,
@@ -343,22 +343,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Weezer (Teal Album)",
-        "url": "https://open.spotify.com/album/65sHj9PvsbyD0uugGHjueN"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 238626,
-      "name": "Africa",
-      "url": "https://open.spotify.com/track/3ZPKocroJIcnHGcnJVlLKD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Shine Again",
         "url": "https://open.spotify.com/album/6HqfvcCZYZMzTCbfWwu153"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 245564,
       "name": "Shine Again",
       "url": "https://open.spotify.com/track/1C8ywgYYblKrskpRggjNRV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Weezer (Teal Album)",
+        "url": "https://open.spotify.com/album/65sHj9PvsbyD0uugGHjueN"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 238626,
+      "name": "Africa",
+      "url": "https://open.spotify.com/track/3ZPKocroJIcnHGcnJVlLKD"
     },
     {
       "added_at": null,
@@ -599,8 +599,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pinkerton - Deluxe Edition",
-        "url": "https://open.spotify.com/album/56LtTJnIBlgf4obkP13Skz"
+        "name": "Maladroit",
+        "url": "https://open.spotify.com/album/274YHaMmctXWht39Olh8ub"
       },
       "artists": [
         {
@@ -608,9 +608,9 @@
           "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         }
       ],
-      "duration_ms": 191826,
-      "name": "Devotion",
-      "url": "https://open.spotify.com/track/1tZeHEchoo62G0xpEcjbAj"
+      "duration_ms": 158592,
+      "name": "Burndt Jamb",
+      "url": "https://open.spotify.com/track/1ytYTPuKbW0NIXb2kgmSVq"
     },
     {
       "added_at": null,
@@ -631,8 +631,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maladroit",
-        "url": "https://open.spotify.com/album/274YHaMmctXWht39Olh8ub"
+        "name": "Pinkerton - Deluxe Edition",
+        "url": "https://open.spotify.com/album/56LtTJnIBlgf4obkP13Skz"
       },
       "artists": [
         {
@@ -640,25 +640,9 @@
           "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         }
       ],
-      "duration_ms": 158592,
-      "name": "Burndt Jamb",
-      "url": "https://open.spotify.com/track/1ytYTPuKbW0NIXb2kgmSVq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Everything Will Be Alright In The End",
-        "url": "https://open.spotify.com/album/5bwoCpDhski3iIxwsdgPTM"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 185160,
-      "name": "Back To The Shack",
-      "url": "https://open.spotify.com/track/42YgaJLCehufTbH2orwBHM"
+      "duration_ms": 191826,
+      "name": "Devotion",
+      "url": "https://open.spotify.com/track/1tZeHEchoo62G0xpEcjbAj"
     },
     {
       "added_at": null,
@@ -679,22 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Weezer",
-        "url": "https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 128332,
-      "name": "Knockdown Dragout",
-      "url": "https://open.spotify.com/track/1cm3a22bsdWVpHlGJO7yl2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Maladroit",
         "url": "https://open.spotify.com/album/274YHaMmctXWht39Olh8ub"
       },
@@ -711,6 +679,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Everything Will Be Alright In The End",
+        "url": "https://open.spotify.com/album/5bwoCpDhski3iIxwsdgPTM"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 185160,
+      "name": "Back To The Shack",
+      "url": "https://open.spotify.com/track/42YgaJLCehufTbH2orwBHM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Weezer",
+        "url": "https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 128332,
+      "name": "Knockdown Dragout",
+      "url": "https://open.spotify.com/track/1cm3a22bsdWVpHlGJO7yl2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Weezer (Teal Album)",
         "url": "https://open.spotify.com/album/65sHj9PvsbyD0uugGHjueN"
       },
@@ -723,6 +723,22 @@
       "duration_ms": 286346,
       "name": "Mr. Blue Sky",
       "url": "https://open.spotify.com/track/7ptKh9V0xt8CjLn0Z7ZgYd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Maladroit",
+        "url": "https://open.spotify.com/album/274YHaMmctXWht39Olh8ub"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 137400,
+      "name": "Dope Nose",
+      "url": "https://open.spotify.com/track/741oLronOsunwlx4MSZ6YY"
     },
     {
       "added_at": null,
@@ -759,22 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maladroit",
-        "url": "https://open.spotify.com/album/274YHaMmctXWht39Olh8ub"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 137400,
-      "name": "Dope Nose",
-      "url": "https://open.spotify.com/track/741oLronOsunwlx4MSZ6YY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pinkerton - Deluxe Edition",
         "url": "https://open.spotify.com/album/56LtTJnIBlgf4obkP13Skz"
       },
@@ -807,8 +807,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Everything Will Be Alright In The End",
-        "url": "https://open.spotify.com/album/5bwoCpDhski3iIxwsdgPTM"
+        "name": "A Little Bit of Love",
+        "url": "https://open.spotify.com/album/5PN3w2kkPaP3ZDVUtwebge"
       },
       "artists": [
         {
@@ -816,9 +816,9 @@
           "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         }
       ],
-      "duration_ms": 204973,
-      "name": "Eulogy For A Rock Band",
-      "url": "https://open.spotify.com/track/1gIMETJ85nrrvmqUgkpLXt"
+      "duration_ms": 164359,
+      "name": "A Little Bit of Love",
+      "url": "https://open.spotify.com/track/0eLXFaZoGjVbzNmMd4LpmA"
     }
   ],
   "unique_name": "This Is Weezer",

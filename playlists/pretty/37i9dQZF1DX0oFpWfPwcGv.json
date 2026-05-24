@@ -1,6 +1,6 @@
 {
   "description": "Disco forever. Deeper cuts, forgotten gems and 8 minute versions.",
-  "num_followers": 73546,
+  "num_followers": 73563,
   "original_name": "Disco Decadence",
   "owner": {
     "name": "Spotify",
@@ -275,22 +275,6 @@
     {
       "added_at": "2026-01-15 16:33:26",
       "album": {
-        "name": "Turn This Mutha Out",
-        "url": "https://open.spotify.com/album/4PznnWq19AwatCG4lsyb5I"
-      },
-      "artists": [
-        {
-          "name": "Idris Muhammad",
-          "url": "https://open.spotify.com/artist/6ghiUK2ao3KcmmDt2pbNzN"
-        }
-      ],
-      "duration_ms": 516586,
-      "name": "Could Heaven Ever Be Like This",
-      "url": "https://open.spotify.com/track/1xkOg49ZxldiM1ioIudwUS"
-    },
-    {
-      "added_at": "2026-01-15 16:33:26",
-      "album": {
         "name": "Triumph (Expanded Version)",
         "url": "https://open.spotify.com/album/3CE276hNs9VVg3aWeBziL7"
       },
@@ -307,18 +291,18 @@
     {
       "added_at": "2026-01-15 16:33:26",
       "album": {
-        "name": "Go West",
-        "url": "https://open.spotify.com/album/0nEUsJwm1yIl9IyC5z8oJb"
+        "name": "Turn This Mutha Out",
+        "url": "https://open.spotify.com/album/4PznnWq19AwatCG4lsyb5I"
       },
       "artists": [
         {
-          "name": "Village People",
-          "url": "https://open.spotify.com/artist/0dCKce6tJJdHvlWnDMwzPW"
+          "name": "Idris Muhammad",
+          "url": "https://open.spotify.com/artist/6ghiUK2ao3KcmmDt2pbNzN"
         }
       ],
-      "duration_ms": 340493,
-      "name": "In The Navy - Single Version",
-      "url": "https://open.spotify.com/track/3qUfFs8rW6FukRFnfRctTq"
+      "duration_ms": 516586,
+      "name": "Could Heaven Ever Be Like This",
+      "url": "https://open.spotify.com/track/1xkOg49ZxldiM1ioIudwUS"
     },
     {
       "added_at": "2026-01-15 16:33:26",
@@ -335,6 +319,22 @@
       "duration_ms": 354240,
       "name": "Spacer",
       "url": "https://open.spotify.com/track/2HnfVsBDEesQJPcXSyB7L2"
+    },
+    {
+      "added_at": "2026-01-15 16:33:26",
+      "album": {
+        "name": "Go West",
+        "url": "https://open.spotify.com/album/0nEUsJwm1yIl9IyC5z8oJb"
+      },
+      "artists": [
+        {
+          "name": "Village People",
+          "url": "https://open.spotify.com/artist/0dCKce6tJJdHvlWnDMwzPW"
+        }
+      ],
+      "duration_ms": 340493,
+      "name": "In The Navy - Single Version",
+      "url": "https://open.spotify.com/track/3qUfFs8rW6FukRFnfRctTq"
     },
     {
       "added_at": "2026-01-15 16:33:26",
@@ -971,22 +971,6 @@
     {
       "added_at": "2026-01-15 16:33:26",
       "album": {
-        "name": "Love, Luther",
-        "url": "https://open.spotify.com/album/6jef6FlX6dgn07Ofvd1gVu"
-      },
-      "artists": [
-        {
-          "name": "Luther Vandross",
-          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
-        }
-      ],
-      "duration_ms": 339506,
-      "name": "Never Too Much - 12\" Version",
-      "url": "https://open.spotify.com/track/7tHT1v3DPsPCJV8U6DQOtQ"
-    },
-    {
-      "added_at": "2026-01-15 16:33:26",
-      "album": {
         "name": "The Essential Johnny Mathis",
         "url": "https://open.spotify.com/album/4KM9hhWCgasx9j7y3NogNv"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 258256,
       "name": "Begin the Beguine",
       "url": "https://open.spotify.com/track/2hLAqf6uB6QusEUHfDf5oi"
+    },
+    {
+      "added_at": "2026-01-15 16:33:26",
+      "album": {
+        "name": "Love, Luther",
+        "url": "https://open.spotify.com/album/6jef6FlX6dgn07Ofvd1gVu"
+      },
+      "artists": [
+        {
+          "name": "Luther Vandross",
+          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
+        }
+      ],
+      "duration_ms": 339506,
+      "name": "Never Too Much - 12\" Version",
+      "url": "https://open.spotify.com/track/7tHT1v3DPsPCJV8U6DQOtQ"
     },
     {
       "added_at": "2026-01-15 16:33:26",

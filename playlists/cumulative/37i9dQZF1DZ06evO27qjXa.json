@@ -455,6 +455,24 @@
     },
     {
       "album": {
+        "name": "Math Whiz",
+        "url": "https://open.spotify.com/album/7cOqy6a4SqQHtFbv907gbt"
+      },
+      "artists": [
+        {
+          "name": "Danny Go!",
+          "url": "https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm"
+        }
+      ],
+      "date_added": "2026-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214614,
+      "name": "Math Whiz - Addition Version",
+      "url": "https://open.spotify.com/track/3fTXGuPQnTXh9cmjGkPTrW"
+    },
+    {
+      "album": {
         "name": "Danny Go! Sleep Music",
         "url": "https://open.spotify.com/album/04fLbxdpEhCuNWIWdbaB7R"
       },

@@ -1,6 +1,6 @@
 {
   "description": "Los \u00e9xitos de M\u00fasica Mexicana de ayer y hoy para acompa\u00f1arte en la troca.",
-  "num_followers": 586328,
+  "num_followers": 586433,
   "original_name": "La Troca",
   "owner": {
     "name": "Spotify",
@@ -743,22 +743,6 @@
     {
       "added_at": "2026-05-15 07:45:22",
       "album": {
-        "name": "ALFA & OMEGA",
-        "url": "https://open.spotify.com/album/63HJKqg9tMk2eJyQezaTes"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-        }
-      ],
-      "duration_ms": 185240,
-      "name": "Vete",
-      "url": "https://open.spotify.com/track/1GtIK8iINes4gNt06F60NU"
-    },
-    {
-      "added_at": "2026-05-15 07:45:22",
-      "album": {
         "name": "O Me Voy O Te Vas",
         "url": "https://open.spotify.com/album/4oMV5zQlFluZYsbw1knD97"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 242133,
       "name": "O Me Voy O Te Vas",
       "url": "https://open.spotify.com/track/127UT7AiWflJwjXWUBBVTQ"
+    },
+    {
+      "added_at": "2026-05-15 07:45:22",
+      "album": {
+        "name": "ALFA & OMEGA",
+        "url": "https://open.spotify.com/album/63HJKqg9tMk2eJyQezaTes"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "duration_ms": 185240,
+      "name": "Vete",
+      "url": "https://open.spotify.com/track/1GtIK8iINes4gNt06F60NU"
     },
     {
       "added_at": "2026-05-15 07:45:22",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2026-05-15 07:45:22",
       "album": {
+        "name": "Al Derecho Y Al Reverso",
+        "url": "https://open.spotify.com/album/6JfzdeEyiw6njloEcMZwnN"
+      },
+      "artists": [
+        {
+          "name": "La Maquinaria Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
+        }
+      ],
+      "duration_ms": 173586,
+      "name": "Eres Ese Algo",
+      "url": "https://open.spotify.com/track/6rOy9SIawgruuIWLP5divC"
+    },
+    {
+      "added_at": "2026-05-15 07:45:22",
+      "album": {
         "name": "Puerta Abierta, Vol. 1 (En Vivo)",
         "url": "https://open.spotify.com/album/7rJgUM53wtu1WnwcAMaEgg"
       },
@@ -1475,22 +1491,6 @@
       "duration_ms": 142064,
       "name": "Cabr\u00f3n y Vago - En Vivo",
       "url": "https://open.spotify.com/track/4nbWX2HzrOEnX4xxvYRCyU"
-    },
-    {
-      "added_at": "2026-05-15 07:45:22",
-      "album": {
-        "name": "Al Derecho Y Al Reverso",
-        "url": "https://open.spotify.com/album/6JfzdeEyiw6njloEcMZwnN"
-      },
-      "artists": [
-        {
-          "name": "La Maquinaria Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
-        }
-      ],
-      "duration_ms": 173586,
-      "name": "Eres Ese Algo",
-      "url": "https://open.spotify.com/track/6rOy9SIawgruuIWLP5divC"
     },
     {
       "added_at": "2026-05-15 07:45:22",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2026-05-15 07:45:22",
       "album": {
-        "name": "RARI",
-        "url": "https://open.spotify.com/album/6zRG79otIy95HLGDv44j1Z"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 153394,
-      "name": "RARI",
-      "url": "https://open.spotify.com/track/3KTuR5TklU3D3BiBQkWEpI"
-    },
-    {
-      "added_at": "2026-05-15 07:45:22",
-      "album": {
         "name": "Solo Un Dia\u2026",
         "url": "https://open.spotify.com/album/6CpCo3owrPMEiQjREEFuk0"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 203493,
       "name": "Solo Un Dia (Ahora Te Amo)",
       "url": "https://open.spotify.com/track/51RcAoNIqe0G3284yxT8G0"
+    },
+    {
+      "added_at": "2026-05-15 07:45:22",
+      "album": {
+        "name": "RARI",
+        "url": "https://open.spotify.com/album/6zRG79otIy95HLGDv44j1Z"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 153394,
+      "name": "RARI",
+      "url": "https://open.spotify.com/track/3KTuR5TklU3D3BiBQkWEpI"
     },
     {
       "added_at": "2026-05-15 07:45:22",
@@ -1763,22 +1763,6 @@
     {
       "added_at": "2026-05-15 07:45:22",
       "album": {
-        "name": "Palabra De To's",
-        "url": "https://open.spotify.com/album/2ZzClIM2jdVPjt7HBICDQP"
-      },
-      "artists": [
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 165200,
-      "name": "De Compas",
-      "url": "https://open.spotify.com/track/3TBZeHcQXNPyXbsqzNgcYm"
-    },
-    {
-      "added_at": "2026-05-15 07:45:22",
-      "album": {
         "name": "Apaga El Cel",
         "url": "https://open.spotify.com/album/5Isy5T3w9NjggarK5RxrQZ"
       },
@@ -1795,6 +1779,22 @@
       "duration_ms": 170832,
       "name": "Apaga El Cel",
       "url": "https://open.spotify.com/track/1sXr6moCwVxwKEgSPxhVvF"
+    },
+    {
+      "added_at": "2026-05-15 07:45:22",
+      "album": {
+        "name": "Palabra De To's",
+        "url": "https://open.spotify.com/album/2ZzClIM2jdVPjt7HBICDQP"
+      },
+      "artists": [
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 165200,
+      "name": "De Compas",
+      "url": "https://open.spotify.com/track/3TBZeHcQXNPyXbsqzNgcYm"
     }
   ],
   "unique_name": "La Troca",

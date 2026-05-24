@@ -4,7 +4,7 @@
 
 > Baba God, run am 🙏\. <br/>Cover:  Asake
 
-153 songs - 7 hr 12 min
+154 songs - 7 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,8 @@
 | [Karma](https://open.spotify.com/track/4kdLYxqvPduwC5oAdXhMLh) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Thy Kingdom Come](https://open.spotify.com/album/1SsFGuWTEBgvDd50NZzGfn) | 2:34 | 2025-06-20 | 2026-05-14 |
 | [Lameda](https://open.spotify.com/track/7DRJm0x4djOSGWLiAbRohe) | [SAMAD](https://open.spotify.com/artist/0X1sGf1y8XCupQFDUkiPmB) | [LAMEDA / AWAY](https://open.spotify.com/album/6Pjh1WqGkR7CeV18XNJeky) | 2:16 | 2025-06-20 |  |
 | [Letter To My Guys \- LTMG](https://open.spotify.com/track/6An0TGYYlArC43uqHovXEx) | [Boy Muller](https://open.spotify.com/artist/0B8MhbUZz93I65AJSnVEUZ) | [Letter To My Guys \(LTMG\)](https://open.spotify.com/album/54efy29szB8cdafO7Yi9ce) | 2:51 | 2025-07-18 |  |
-| [Life](https://open.spotify.com/track/6Dp8euvdKfYV2cn79TcXkF) | [Adaramati](https://open.spotify.com/artist/2JiCHOM2COZnUj5KHMDbcF), [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN) | [Life](https://open.spotify.com/album/7k6q3bGku5wd0jaUhv0Ggw) | 2:21 | 2026-05-22 |  |
+| [Life](https://open.spotify.com/track/6Dp8euvdKfYV2cn79TcXkF) | [Adaramati](https://open.spotify.com/artist/2JiCHOM2COZnUj5KHMDbcF), [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN) | [Life](https://open.spotify.com/album/7k6q3bGku5wd0jaUhv0Ggw) | 2:21 | 2026-05-22 | 2026-05-24 |
+| [LOL](https://open.spotify.com/track/0SIYATXVKxxgu5zYTQhAma) | [EMO Grae](https://open.spotify.com/artist/706g3hauVcGV8Ops9uNzMv), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [LOL](https://open.spotify.com/album/7KqiS61BAqMuVru4FSG5X3) | 2:46 | 2026-05-22 |  |
 | [Lonely Road](https://open.spotify.com/track/2aCskdq9N9RczrwEujAV13) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC), [Llona](https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc) | [Lonely Road](https://open.spotify.com/album/4zldXsyHbRQL9nP17xiFom) | 2:37 | 2025-10-10 |  |
 | [Loner \(Alone\)](https://open.spotify.com/track/2zFt35JaZM7uOvgXVHBplT) | [Wizard Chan](https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Loner \(Alone\)](https://open.spotify.com/album/3T66NsbkDR8yu0Da7nE4pl) | 2:31 | 2025-06-20 | 2025-09-29 |
 | [Look To You \(feat\. Llona\)](https://open.spotify.com/track/3mDhfpGRzwixQCGNGNdi68) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i), [Llona](https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc) | [Some Days I’m Good, Some Days I’m Not](https://open.spotify.com/album/6CyD8cVpx9f8uJT9ZpJHRG) | 3:00 | 2025-06-20 | 2026-01-15 |

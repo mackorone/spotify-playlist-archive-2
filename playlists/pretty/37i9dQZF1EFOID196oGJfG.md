@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOID196oGJfG.md) - [plain]
 | 20 | [Angel](https://open.spotify.com/track/3NsUoVExP6TwMHcMHvXznV) | [December 10](https://open.spotify.com/artist/3QvfzWcCo67s7bhOYEz5Tr) | [Angel](https://open.spotify.com/album/4LZ608Psrp8ih2PzJc6V32) | 2:27 |
 | 21 | [How Do You Know](https://open.spotify.com/track/1QiGePKveZjlbyZEcdYyF8) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Victory](https://open.spotify.com/album/4T0KHJNt0mCuAyXSXfhQc3) | 4:00 |
 | 22 | [The Ruler](https://open.spotify.com/track/2PNPqJ8V4WZYtsZLgqScLW) | [Cate](https://open.spotify.com/artist/7D25zMq1tDmT0nfh6ieYph) | [The Ruler](https://open.spotify.com/album/0Y23xE35UnyPKLEilLkyGx) | 3:15 |
-| 23 | [Happy We Happened](https://open.spotify.com/track/3mEUU5VAHA5TMQHs2vLLWi) | [Carter Ryan](https://open.spotify.com/artist/2hg54ZO1N0bQXbTlLKWSnc) | [Happy We Happened](https://open.spotify.com/album/3Q16F8hTgZAWFniox8j8Ol) | 2:57 |
-| 24 | [Fast Lane](https://open.spotify.com/track/2FazcKsxgoI6X9FxFgLd9k) | [Bellah Mae](https://open.spotify.com/artist/0BCD9XnZVhdY2vojKAPAiT) | [Fast Lane](https://open.spotify.com/album/63XwmOMDfcOpOc8JSSNwp7) | 2:31 |
+| 23 | [Fast Lane](https://open.spotify.com/track/2FazcKsxgoI6X9FxFgLd9k) | [Bellah Mae](https://open.spotify.com/artist/0BCD9XnZVhdY2vojKAPAiT) | [Fast Lane](https://open.spotify.com/album/63XwmOMDfcOpOc8JSSNwp7) | 2:31 |
+| 24 | [Happy We Happened](https://open.spotify.com/track/3mEUU5VAHA5TMQHs2vLLWi) | [Carter Ryan](https://open.spotify.com/artist/2hg54ZO1N0bQXbTlLKWSnc) | [Happy We Happened](https://open.spotify.com/album/3Q16F8hTgZAWFniox8j8Ol) | 2:57 |
 | 25 | [No Hard Feelings](https://open.spotify.com/track/7qpPnapb1VUCvr74EnaI4q) | [Navvy](https://open.spotify.com/artist/59uIMi3xrGO0kwfy7Zea24) | [No Hard Feelings](https://open.spotify.com/album/72WLSIvdo0R4NuNHu4pEz7) | 3:25 |
 | 26 | [Loving Means Leaving](https://open.spotify.com/track/2ySKEa16GDpwon90g1cILI) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [A Heart Is a Terrible Thing to Break](https://open.spotify.com/album/6mBNXZGN2V1JmcUhjlxU3q) | 3:03 |
 | 27 | [Till The Wheels Fall Off](https://open.spotify.com/track/1Bxx0NQI5tiWpBdjkTrLbv) | [CXLOE](https://open.spotify.com/artist/6M25WWmNO7wK1DnKmd3z6R) | [Shiny New Thing](https://open.spotify.com/album/0wlHdQIQOfVMzD83Lvpjkj) | 2:34 |
@@ -44,10 +44,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOID196oGJfG.md) - [plain]
 | 34 | [Closure](https://open.spotify.com/track/3AZflkRCUsOQuB18C0Ws0y) | [Blake Proehl](https://open.spotify.com/artist/1RgYPu8VR3b5sXupFPGMAO) | [Closure](https://open.spotify.com/album/6lDn8FPgegASII2XD9objP) | 2:30 |
 | 35 | [Rock Bottom](https://open.spotify.com/track/1ocK7qsRyyTRXzSFNO9qFY) | [Navvy](https://open.spotify.com/artist/59uIMi3xrGO0kwfy7Zea24) | [Rock Bottom](https://open.spotify.com/album/0HSGtJsJzZQHLYh5fR7z5k) | 2:42 |
 | 36 | [Standing In The Fire](https://open.spotify.com/track/51xtT2Bxh8W3V5kSqPKB4P) | [Michael Gerow](https://open.spotify.com/artist/3Wbs390oASVP3AFZz937tl) | [you taught me to read between the lines](https://open.spotify.com/album/7zfRFOppB570UYNLe3wgkU) | 2:55 |
-| 37 | [Blue](https://open.spotify.com/track/5g4KThJ9rjQexAG2NtomKE) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Make Believe](https://open.spotify.com/album/6Cg42RsUj2uTvThXnIHedJ) | 3:24 |
-| 38 | [Cigarette](https://open.spotify.com/track/7GZLygk4Du3yIEKEghYrZB) | [Ian Harrison](https://open.spotify.com/artist/5KNwR0B4tskwLbpfPtt1LG) | [Cigarette](https://open.spotify.com/album/1I1CYjHRBFu1utJpfj4Osq) | 2:38 |
+| 37 | [Cigarette](https://open.spotify.com/track/7GZLygk4Du3yIEKEghYrZB) | [Ian Harrison](https://open.spotify.com/artist/5KNwR0B4tskwLbpfPtt1LG) | [Cigarette](https://open.spotify.com/album/1I1CYjHRBFu1utJpfj4Osq) | 2:38 |
+| 38 | [Blue](https://open.spotify.com/track/5g4KThJ9rjQexAG2NtomKE) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Make Believe](https://open.spotify.com/album/6Cg42RsUj2uTvThXnIHedJ) | 3:24 |
 | 39 | [Taylor For President](https://open.spotify.com/track/2zJa1AVV5yrajZeNMkmllc) | [Jordana Bryant](https://open.spotify.com/artist/69CLILkCLdR4JOoQieAFm2) | [Taylor For President](https://open.spotify.com/album/0FIkW4RQ8GTyCfo0COl5gT) | 2:12 |
 | 40 | [Unhappy](https://open.spotify.com/track/5u3j8OZnb4PP4B3gnTjuoO) | [GRAACE](https://open.spotify.com/artist/4nqqGSsclFchZXaiafOYyV) | [Self Preservation](https://open.spotify.com/album/4plpuG3ZuucaxXhIo2gobJ) | 3:08 |
 | 41 | [I Love It When You're Low](https://open.spotify.com/track/4SNXOFgK2f3TUkj4ZBt9T8) | [LORYN](https://open.spotify.com/artist/0ryyI8NGZJ4MLeRfwbkODZ) | [Less Is More](https://open.spotify.com/album/3OAGrLvtuYjT7Zy6V3EKkp) | 3:06 |
 
-Snapshot ID: `AcSNXAAAAACZVDRYPRUwA0JRKz2lCd4d`
+Snapshot ID: `AcSS/AAAAACBC8FNVPqJSeT+XP9qUWoV`

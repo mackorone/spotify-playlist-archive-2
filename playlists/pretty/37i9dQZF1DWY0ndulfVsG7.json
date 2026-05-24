@@ -1,6 +1,6 @@
 {
   "description": "Koleksi lagu tersayang dari para artis negeri jiran. Cover: Meet Uncle Hussain, Adi Priyo",
-  "num_followers": 64346,
+  "num_followers": 64354,
   "original_name": "Berjiran",
   "owner": {
     "name": "Spotify",
@@ -675,22 +675,6 @@
     {
       "added_at": "2024-11-29 03:37:32",
       "album": {
-        "name": "The 2000's Greatest",
-        "url": "https://open.spotify.com/album/2hwNRtZyqmEcCzV47OUAlN"
-      },
-      "artists": [
-        {
-          "name": "Dewa 19",
-          "url": "https://open.spotify.com/artist/48bKH1ugFBhERC1rdojP9d"
-        }
-      ],
-      "duration_ms": 279289,
-      "name": "Selimut Hati",
-      "url": "https://open.spotify.com/track/112PgZaSiXk8Mqem2Krgtq"
-    },
-    {
-      "added_at": "2024-11-29 03:37:32",
-      "album": {
         "name": "Fenomena",
         "url": "https://open.spotify.com/album/2FjQr9dvsfICcVuQgOsect"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 308920,
       "name": "Isabella",
       "url": "https://open.spotify.com/track/39t7DAuFCoyGmzNluMLsSM"
+    },
+    {
+      "added_at": "2024-11-29 03:37:32",
+      "album": {
+        "name": "The 2000's Greatest",
+        "url": "https://open.spotify.com/album/2hwNRtZyqmEcCzV47OUAlN"
+      },
+      "artists": [
+        {
+          "name": "Dewa 19",
+          "url": "https://open.spotify.com/artist/48bKH1ugFBhERC1rdojP9d"
+        }
+      ],
+      "duration_ms": 279289,
+      "name": "Selimut Hati",
+      "url": "https://open.spotify.com/track/112PgZaSiXk8Mqem2Krgtq"
     },
     {
       "added_at": "2024-11-29 03:37:32",
@@ -755,22 +755,6 @@
     {
       "added_at": "2024-11-29 03:37:32",
       "album": {
-        "name": "The Best of Dewa 19",
-        "url": "https://open.spotify.com/album/2AYCO1vDSYRYnlu7tK6ZcS"
-      },
-      "artists": [
-        {
-          "name": "Dewa 19",
-          "url": "https://open.spotify.com/artist/48bKH1ugFBhERC1rdojP9d"
-        }
-      ],
-      "duration_ms": 241266,
-      "name": "Kamulah Satu - Satunya",
-      "url": "https://open.spotify.com/track/6pCfc6xxUXYBWLMQhIWDmh"
-    },
-    {
-      "added_at": "2024-11-29 03:37:32",
-      "album": {
         "name": "Pagi Pulang Pagi",
         "url": "https://open.spotify.com/album/3WOli1F3NswIesoWcJ6jpa"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 249146,
       "name": "Penantian",
       "url": "https://open.spotify.com/track/6v9LrcHY72rvk1HtKOeAwj"
+    },
+    {
+      "added_at": "2024-11-29 03:37:32",
+      "album": {
+        "name": "The Best of Dewa 19",
+        "url": "https://open.spotify.com/album/2AYCO1vDSYRYnlu7tK6ZcS"
+      },
+      "artists": [
+        {
+          "name": "Dewa 19",
+          "url": "https://open.spotify.com/artist/48bKH1ugFBhERC1rdojP9d"
+        }
+      ],
+      "duration_ms": 241266,
+      "name": "Kamulah Satu - Satunya",
+      "url": "https://open.spotify.com/track/6pCfc6xxUXYBWLMQhIWDmh"
     },
     {
       "added_at": "2024-11-29 03:37:32",
@@ -803,22 +803,6 @@
     {
       "added_at": "2024-11-29 03:37:32",
       "album": {
-        "name": "Rindiani",
-        "url": "https://open.spotify.com/album/3aSrDhdhPEsGwiXm53uDMu"
-      },
-      "artists": [
-        {
-          "name": "Slam",
-          "url": "https://open.spotify.com/artist/6ZK1l84rj8SLSn2tXVgCsf"
-        }
-      ],
-      "duration_ms": 324093,
-      "name": "Gerimis Mengundang",
-      "url": "https://open.spotify.com/track/0uoL9b2NPoSq8bXjD31pWy"
-    },
-    {
-      "added_at": "2024-11-29 03:37:32",
-      "album": {
         "name": "Biarkanlah",
         "url": "https://open.spotify.com/album/5oR5jLtz8APUIBiZ5lB4CL"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 253561,
       "name": "Biarkanlah",
       "url": "https://open.spotify.com/track/0TbxuF4pkOZBfdBipPorYQ"
+    },
+    {
+      "added_at": "2024-11-29 03:37:32",
+      "album": {
+        "name": "Rindiani",
+        "url": "https://open.spotify.com/album/3aSrDhdhPEsGwiXm53uDMu"
+      },
+      "artists": [
+        {
+          "name": "Slam",
+          "url": "https://open.spotify.com/artist/6ZK1l84rj8SLSn2tXVgCsf"
+        }
+      ],
+      "duration_ms": 324093,
+      "name": "Gerimis Mengundang",
+      "url": "https://open.spotify.com/track/0uoL9b2NPoSq8bXjD31pWy"
     }
   ],
   "unique_name": "Berjiran",

@@ -1,6 +1,6 @@
 {
   "description": "Brav\u00edas, rom\u00e1nticas y rancheras, las mejores canciones norte\u00f1as. David Ornelas en portada.",
-  "num_followers": 530112,
+  "num_followers": 530138,
   "original_name": "Norte\u00f1o 2026",
   "owner": {
     "name": "Spotify",
@@ -563,22 +563,6 @@
     {
       "added_at": "2026-05-22 06:00:43",
       "album": {
-        "name": "Migajero",
-        "url": "https://open.spotify.com/album/3NruGax4ExQKseJLZ9N2su"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 198421,
-      "name": "Migajero",
-      "url": "https://open.spotify.com/track/5epbktRwPpLwYz5mnBgNPq"
-    },
-    {
-      "added_at": "2026-05-22 06:00:43",
-      "album": {
         "name": "Jammin' sessions",
         "url": "https://open.spotify.com/album/1pahXinIrDupTLh26l1A4g"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 183562,
       "name": "Cosas Del Amor - Live",
       "url": "https://open.spotify.com/track/75Zpnnp1WamqToMagVqEPC"
+    },
+    {
+      "added_at": "2026-05-22 06:00:43",
+      "album": {
+        "name": "Migajero",
+        "url": "https://open.spotify.com/album/3NruGax4ExQKseJLZ9N2su"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 198421,
+      "name": "Migajero",
+      "url": "https://open.spotify.com/track/5epbktRwPpLwYz5mnBgNPq"
     },
     {
       "added_at": "2026-05-22 06:00:43",
@@ -631,22 +631,6 @@
     {
       "added_at": "2026-05-22 06:00:43",
       "album": {
-        "name": "Bajo El Agua",
-        "url": "https://open.spotify.com/album/04n7T8SpSQ39iTL684QDFI"
-      },
-      "artists": [
-        {
-          "name": "Los Chavalitos",
-          "url": "https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0"
-        }
-      ],
-      "duration_ms": 183051,
-      "name": "Bajo El Agua",
-      "url": "https://open.spotify.com/track/45yLFtWtPQitwIQj7OYhpb"
-    },
-    {
-      "added_at": "2026-05-22 06:00:43",
-      "album": {
         "name": "Pa' D\u00f3nde",
         "url": "https://open.spotify.com/album/59EYpnVskaEs2RuFjwZ4fq"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 164000,
       "name": "Pa' D\u00f3nde",
       "url": "https://open.spotify.com/track/3LzovbiayjAF9NBNw9rJr3"
+    },
+    {
+      "added_at": "2026-05-22 06:00:43",
+      "album": {
+        "name": "Bajo El Agua",
+        "url": "https://open.spotify.com/album/04n7T8SpSQ39iTL684QDFI"
+      },
+      "artists": [
+        {
+          "name": "Los Chavalitos",
+          "url": "https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0"
+        }
+      ],
+      "duration_ms": 183051,
+      "name": "Bajo El Agua",
+      "url": "https://open.spotify.com/track/45yLFtWtPQitwIQj7OYhpb"
     },
     {
       "added_at": "2026-05-22 06:00:43",
@@ -923,22 +923,6 @@
     {
       "added_at": "2026-05-22 06:00:43",
       "album": {
-        "name": "Soy Tan Tuyo",
-        "url": "https://open.spotify.com/album/4zghh6p3DmXfCyRgXjBlgC"
-      },
-      "artists": [
-        {
-          "name": "Grupo Primer Grado",
-          "url": "https://open.spotify.com/artist/3eRCLeO8w7xvvg1o39acC7"
-        }
-      ],
-      "duration_ms": 220377,
-      "name": "Soy Tan Tuyo",
-      "url": "https://open.spotify.com/track/0m1iRpW2FHqTkqSFKeHlJM"
-    },
-    {
-      "added_at": "2026-05-22 06:00:43",
-      "album": {
         "name": "Todav\u00eda Te Siento",
         "url": "https://open.spotify.com/album/4nzRJeoMp7u5tpv9rVhHIk"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 189216,
       "name": "Todav\u00eda Te Siento",
       "url": "https://open.spotify.com/track/0b0XADKTOIv7Cz8um7WQ84"
+    },
+    {
+      "added_at": "2026-05-22 06:00:43",
+      "album": {
+        "name": "Soy Tan Tuyo",
+        "url": "https://open.spotify.com/album/4zghh6p3DmXfCyRgXjBlgC"
+      },
+      "artists": [
+        {
+          "name": "Grupo Primer Grado",
+          "url": "https://open.spotify.com/artist/3eRCLeO8w7xvvg1o39acC7"
+        }
+      ],
+      "duration_ms": 220377,
+      "name": "Soy Tan Tuyo",
+      "url": "https://open.spotify.com/track/0m1iRpW2FHqTkqSFKeHlJM"
     },
     {
       "added_at": "2026-05-22 06:00:43",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2026-05-22 06:00:43",
       "album": {
-        "name": "El Baquet\u00f3n",
-        "url": "https://open.spotify.com/album/2Xw6vC48yvWMU6sElKBRtQ"
-      },
-      "artists": [
-        {
-          "name": "Lupe Borbon y su Blindaje 7",
-          "url": "https://open.spotify.com/artist/7gVnPBgCu1Tce8GLBvk7kl"
-        }
-      ],
-      "duration_ms": 149326,
-      "name": "El Baquet\u00f3n",
-      "url": "https://open.spotify.com/track/1GlmdM7hgqERuvzJR8aTIf"
-    },
-    {
-      "added_at": "2026-05-22 06:00:43",
-      "album": {
         "name": "Adicto A Ti",
         "url": "https://open.spotify.com/album/4CuJHM0X9hYzDRh4EQDZSf"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 191932,
       "name": "Adicto A Ti",
       "url": "https://open.spotify.com/track/2QthJFvZ0wbfCY1eQ2iFYp"
+    },
+    {
+      "added_at": "2026-05-22 06:00:43",
+      "album": {
+        "name": "El Baquet\u00f3n",
+        "url": "https://open.spotify.com/album/2Xw6vC48yvWMU6sElKBRtQ"
+      },
+      "artists": [
+        {
+          "name": "Lupe Borbon y su Blindaje 7",
+          "url": "https://open.spotify.com/artist/7gVnPBgCu1Tce8GLBvk7kl"
+        }
+      ],
+      "duration_ms": 149326,
+      "name": "El Baquet\u00f3n",
+      "url": "https://open.spotify.com/track/1GlmdM7hgqERuvzJR8aTIf"
     },
     {
       "added_at": "2026-05-22 06:00:43",

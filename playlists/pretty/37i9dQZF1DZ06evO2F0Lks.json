@@ -1,12 +1,12 @@
 {
   "description": "This is Carrie Underwood. The essential tracks, all in one playlist.",
-  "num_followers": 152092,
+  "num_followers": 152093,
   "original_name": "This Is Carrie Underwood",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ag5LAAAAAABSZCcvN2qjUVrIy4ICu21b",
+  "snapshot_id": "ag+cgAAAAADSuh0xC6kMwuesz1qgk1Uz",
   "tracks": [
     {
       "added_at": null,
@@ -639,22 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Denim & Rhinestones",
-        "url": "https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 225613,
-      "name": "Poor Everybody Else",
-      "url": "https://open.spotify.com/track/5EdBMq8ChkcIhegMPzVWCT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Play On",
         "url": "https://open.spotify.com/album/3iLrVuA1k7onNmZTuUQH4u"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 269533,
       "name": "Temporary Home",
       "url": "https://open.spotify.com/track/0d0tJF80562KcMndcBcSfM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Denim & Rhinestones",
+        "url": "https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 225613,
+      "name": "Poor Everybody Else",
+      "url": "https://open.spotify.com/track/5EdBMq8ChkcIhegMPzVWCT"
     },
     {
       "added_at": null,
@@ -835,22 +835,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Duets II",
-        "url": "https://open.spotify.com/album/5ktAYFq8wJ1hcWHaxl6AQf"
+        "name": "Storyteller",
+        "url": "https://open.spotify.com/album/4q3SkZWPYJtKno1RbnrjL4"
       },
       "artists": [
-        {
-          "name": "Tony Bennett",
-          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
-        },
         {
           "name": "Carrie Underwood",
           "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
         }
       ],
-      "duration_ms": 228853,
-      "name": "It Had to Be You",
-      "url": "https://open.spotify.com/track/328dqlTGkTgH5GPrsQusql"
+      "duration_ms": 210600,
+      "name": "Choctaw County Affair",
+      "url": "https://open.spotify.com/track/31qhbcGwJRQAe8bITyTQAt"
     }
   ],
   "unique_name": "This Is Carrie Underwood",

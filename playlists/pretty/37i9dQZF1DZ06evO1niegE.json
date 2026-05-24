@@ -1,12 +1,12 @@
 {
   "description": "This is RENEE. The essential tracks, all in one playlist.",
-  "num_followers": 9070,
+  "num_followers": 9078,
   "original_name": "This Is RENEE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ag5LAAAAAADz/YTQF5Fs1ma5kCfckzKq",
+  "snapshot_id": "ag+cgAAAAAD2Wq4nLFyeHym7u8nvARA3",
   "tracks": [
     {
       "added_at": null,
@@ -43,26 +43,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Enferma Despedida",
-        "url": "https://open.spotify.com/album/0ZlbvOSPxMkOHxAOEN0lZ2"
-      },
-      "artists": [
-        {
-          "name": "Jacinto",
-          "url": "https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj"
-        },
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 152960,
-      "name": "Enferma Despedida",
-      "url": "https://open.spotify.com/track/48WuFR4lmQPfSRpxvvHiGp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blockbuster",
         "url": "https://open.spotify.com/album/0t2VEsrGPdJxAzPU4A6dB2"
       },
@@ -79,6 +59,26 @@
       "duration_ms": 189310,
       "name": "Quiero Quedarme para Siempre",
       "url": "https://open.spotify.com/track/2XEDYl5q9pfbNBxkI0p85L"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Enferma Despedida",
+        "url": "https://open.spotify.com/album/0ZlbvOSPxMkOHxAOEN0lZ2"
+      },
+      "artists": [
+        {
+          "name": "Jacinto",
+          "url": "https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj"
+        },
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 152960,
+      "name": "Enferma Despedida",
+      "url": "https://open.spotify.com/track/48WuFR4lmQPfSRpxvvHiGp"
     },
     {
       "added_at": null,
@@ -739,22 +739,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Retrofuturismo",
-        "url": "https://open.spotify.com/album/2UD0pOeSTiEqLcZNVoX36O"
+        "name": "Tiki Tai",
+        "url": "https://open.spotify.com/album/2oDU6B51AlXlUm5DkoDcUu"
       },
       "artists": [
         {
-          "name": "MiSHNRZ",
-          "url": "https://open.spotify.com/artist/3tbJ4v64S8EcwVSkoFIwvl"
+          "name": "Amuna",
+          "url": "https://open.spotify.com/artist/7gtLIOTPwX9CdZttm7ETVt"
         },
         {
           "name": "RENEE",
           "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
         }
       ],
-      "duration_ms": 176000,
-      "name": "VHS",
-      "url": "https://open.spotify.com/track/3OrVqG7CoKW0RIFeEPLPSY"
+      "duration_ms": 152316,
+      "name": "Tiki Tai",
+      "url": "https://open.spotify.com/track/3Ss1uzI0Eh1pAvVOTIixR5"
     },
     {
       "added_at": null,
@@ -775,22 +775,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tiki Tai",
-        "url": "https://open.spotify.com/album/2oDU6B51AlXlUm5DkoDcUu"
+        "name": "Retrofuturismo",
+        "url": "https://open.spotify.com/album/2UD0pOeSTiEqLcZNVoX36O"
       },
       "artists": [
         {
-          "name": "Amuna",
-          "url": "https://open.spotify.com/artist/7gtLIOTPwX9CdZttm7ETVt"
+          "name": "MiSHNRZ",
+          "url": "https://open.spotify.com/artist/3tbJ4v64S8EcwVSkoFIwvl"
         },
         {
           "name": "RENEE",
           "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
         }
       ],
-      "duration_ms": 152316,
-      "name": "Tiki Tai",
-      "url": "https://open.spotify.com/track/3Ss1uzI0Eh1pAvVOTIixR5"
+      "duration_ms": 176000,
+      "name": "VHS",
+      "url": "https://open.spotify.com/track/3OrVqG7CoKW0RIFeEPLPSY"
     },
     {
       "added_at": null,
@@ -851,26 +851,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tributo A Una Leyenda Humberto Pab\u00f3n (Vol. 1)",
-        "url": "https://open.spotify.com/album/5PXqQ8FZPV5T3Q8BpmFEk8"
-      },
-      "artists": [
-        {
-          "name": "Grupo Ca\u00f1averal De Humberto Pab\u00f3n",
-          "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7"
-        },
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "Coraz\u00f3n De Judas",
-      "url": "https://open.spotify.com/track/1p0OkY6apio6nHZnkijT7O"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "AHORA O NUNCA",
         "url": "https://open.spotify.com/album/1nDeZFMZNqKmUZmjzT9AKn"
       },
@@ -887,6 +867,26 @@
       "duration_ms": 156448,
       "name": "AHORA O NUNCA",
       "url": "https://open.spotify.com/track/1XYiRky7xG3HRAks3edgco"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tributo A Una Leyenda Humberto Pab\u00f3n (Vol. 1)",
+        "url": "https://open.spotify.com/album/5PXqQ8FZPV5T3Q8BpmFEk8"
+      },
+      "artists": [
+        {
+          "name": "Grupo Ca\u00f1averal De Humberto Pab\u00f3n",
+          "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7"
+        },
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "Coraz\u00f3n De Judas",
+      "url": "https://open.spotify.com/track/1p0OkY6apio6nHZnkijT7O"
     },
     {
       "added_at": null,

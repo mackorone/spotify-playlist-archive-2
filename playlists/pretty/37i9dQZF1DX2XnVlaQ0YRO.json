@@ -1,6 +1,6 @@
 {
   "description": "chill christmas beats to keep you cozy and focused",
-  "num_followers": 22208,
+  "num_followers": 22202,
   "original_name": "lofi christmas study\ud83c\udf84\ud83d\udcda",
   "owner": {
     "name": "Spotify",
@@ -271,22 +271,6 @@
     {
       "added_at": "2025-12-19 14:39:19",
       "album": {
-        "name": "secret santa",
-        "url": "https://open.spotify.com/album/3ZUyGn7c4xP1A9C5EKNEiV"
-      },
-      "artists": [
-        {
-          "name": "ao",
-          "url": "https://open.spotify.com/artist/6dQVKR45PFeAS49FNeC1T3"
-        }
-      ],
-      "duration_ms": 143732,
-      "name": "secret santa",
-      "url": "https://open.spotify.com/track/4CSVwYdOUK8NxAbQMam9Oz"
-    },
-    {
-      "added_at": "2025-12-19 14:39:19",
-      "album": {
         "name": "Holiday Hustle",
         "url": "https://open.spotify.com/album/4nWDxRMiJuKx5BCsPFbK0S"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 231471,
       "name": "Slay Bells",
       "url": "https://open.spotify.com/track/3RSrEnMcJ48u9bQZi0TIoo"
+    },
+    {
+      "added_at": "2025-12-19 14:39:19",
+      "album": {
+        "name": "secret santa",
+        "url": "https://open.spotify.com/album/3ZUyGn7c4xP1A9C5EKNEiV"
+      },
+      "artists": [
+        {
+          "name": "ao",
+          "url": "https://open.spotify.com/artist/6dQVKR45PFeAS49FNeC1T3"
+        }
+      ],
+      "duration_ms": 143732,
+      "name": "secret santa",
+      "url": "https://open.spotify.com/track/4CSVwYdOUK8NxAbQMam9Oz"
     },
     {
       "added_at": "2025-12-19 14:39:19",
@@ -467,22 +467,6 @@
     {
       "added_at": "2025-12-19 14:39:19",
       "album": {
-        "name": "candles and xmas",
-        "url": "https://open.spotify.com/album/3SuobeLAn8dQST6bg1eg0J"
-      },
-      "artists": [
-        {
-          "name": "TAX VRKT",
-          "url": "https://open.spotify.com/artist/5LfSaYsGTL3HkaV5a2qHBD"
-        }
-      ],
-      "duration_ms": 140498,
-      "name": "candles and xmas",
-      "url": "https://open.spotify.com/track/3uK6ktiYn9pLdoV5FQDnsw"
-    },
-    {
-      "added_at": "2025-12-19 14:39:19",
-      "album": {
         "name": "winter wonderland",
         "url": "https://open.spotify.com/album/63nmxHaeTmjlL2zNYBThJd"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 116000,
       "name": "winter wonderland",
       "url": "https://open.spotify.com/track/3Xo8cKrayKwxlJ1F1hRvOQ"
+    },
+    {
+      "added_at": "2025-12-19 14:39:19",
+      "album": {
+        "name": "candles and xmas",
+        "url": "https://open.spotify.com/album/3SuobeLAn8dQST6bg1eg0J"
+      },
+      "artists": [
+        {
+          "name": "TAX VRKT",
+          "url": "https://open.spotify.com/artist/5LfSaYsGTL3HkaV5a2qHBD"
+        }
+      ],
+      "duration_ms": 140498,
+      "name": "candles and xmas",
+      "url": "https://open.spotify.com/track/3uK6ktiYn9pLdoV5FQDnsw"
     },
     {
       "added_at": "2025-12-19 14:39:19",
@@ -679,18 +679,18 @@
     {
       "added_at": "2025-12-19 14:39:19",
       "album": {
-        "name": "Joyeux No\u00ebl Mes Amis",
-        "url": "https://open.spotify.com/album/0pUlrSrq6gcPR6tCZGApMN"
+        "name": "Hark! The Herald Angels Sing",
+        "url": "https://open.spotify.com/album/2JO5EUMtP6BxGAHr3dyETU"
       },
       "artists": [
         {
-          "name": "Astair\u00e9",
-          "url": "https://open.spotify.com/artist/2DWDXgHWqbRV6oQKFTlcvc"
+          "name": "louke's beats",
+          "url": "https://open.spotify.com/artist/2dr9SIsVpmN3ijGzjsnT0E"
         }
       ],
-      "duration_ms": 158070,
-      "name": "Joyeux No\u00ebl Mes Amis",
-      "url": "https://open.spotify.com/track/496qR8QAdvGMokE5g06cu6"
+      "duration_ms": 117041,
+      "name": "O Little Town Of Bethlehem",
+      "url": "https://open.spotify.com/track/4JwbRapYxPE883XUslPwIS"
     },
     {
       "added_at": "2025-12-19 14:39:19",
@@ -711,18 +711,18 @@
     {
       "added_at": "2025-12-19 14:39:19",
       "album": {
-        "name": "Hark! The Herald Angels Sing",
-        "url": "https://open.spotify.com/album/2JO5EUMtP6BxGAHr3dyETU"
+        "name": "Joyeux No\u00ebl Mes Amis",
+        "url": "https://open.spotify.com/album/0pUlrSrq6gcPR6tCZGApMN"
       },
       "artists": [
         {
-          "name": "louke's beats",
-          "url": "https://open.spotify.com/artist/2dr9SIsVpmN3ijGzjsnT0E"
+          "name": "Astair\u00e9",
+          "url": "https://open.spotify.com/artist/2DWDXgHWqbRV6oQKFTlcvc"
         }
       ],
-      "duration_ms": 117041,
-      "name": "O Little Town Of Bethlehem",
-      "url": "https://open.spotify.com/track/4JwbRapYxPE883XUslPwIS"
+      "duration_ms": 158070,
+      "name": "Joyeux No\u00ebl Mes Amis",
+      "url": "https://open.spotify.com/track/496qR8QAdvGMokE5g06cu6"
     },
     {
       "added_at": "2025-12-19 14:39:19",
@@ -999,18 +999,18 @@
     {
       "added_at": "2025-12-19 14:39:19",
       "album": {
-        "name": "Santa Claus Is Coming To Town",
-        "url": "https://open.spotify.com/album/0tM8zlJ2jEL7AcwmPltjEW"
+        "name": "Upside Down Snowglobe",
+        "url": "https://open.spotify.com/album/1TapBSZTgm4QyUodL6nibw"
       },
       "artists": [
         {
-          "name": "Sleepy Titan",
-          "url": "https://open.spotify.com/artist/4ehFI3LIUrDNhMXTR1XCdL"
+          "name": "DJ DENZ The Rooster",
+          "url": "https://open.spotify.com/artist/05OAH9fFWOKINDaeJ9N3Pd"
         }
       ],
-      "duration_ms": 117817,
-      "name": "Santa Claus Is Coming To Town",
-      "url": "https://open.spotify.com/track/1jYPxZRtTjBkzONbXSDcth"
+      "duration_ms": 185976,
+      "name": "Christmas in Las Vegas",
+      "url": "https://open.spotify.com/track/3COK2yvZQs6heeZPCh2X8z"
     },
     {
       "added_at": "2025-12-19 14:39:19",
@@ -1031,18 +1031,18 @@
     {
       "added_at": "2025-12-19 14:39:19",
       "album": {
-        "name": "Upside Down Snowglobe",
-        "url": "https://open.spotify.com/album/1TapBSZTgm4QyUodL6nibw"
+        "name": "Santa Claus Is Coming To Town",
+        "url": "https://open.spotify.com/album/0tM8zlJ2jEL7AcwmPltjEW"
       },
       "artists": [
         {
-          "name": "DJ DENZ The Rooster",
-          "url": "https://open.spotify.com/artist/05OAH9fFWOKINDaeJ9N3Pd"
+          "name": "Sleepy Titan",
+          "url": "https://open.spotify.com/artist/4ehFI3LIUrDNhMXTR1XCdL"
         }
       ],
-      "duration_ms": 185976,
-      "name": "Christmas in Las Vegas",
-      "url": "https://open.spotify.com/track/3COK2yvZQs6heeZPCh2X8z"
+      "duration_ms": 117817,
+      "name": "Santa Claus Is Coming To Town",
+      "url": "https://open.spotify.com/track/1jYPxZRtTjBkzONbXSDcth"
     },
     {
       "added_at": "2025-12-19 14:39:19",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2025-12-19 14:39:19",
       "album": {
-        "name": "wrap up warm",
-        "url": "https://open.spotify.com/album/5sllAS7PUnlz3UR5bzxccb"
-      },
-      "artists": [
-        {
-          "name": "inthedark",
-          "url": "https://open.spotify.com/artist/3VODOokOAtBPtnB1aAWtf6"
-        }
-      ],
-      "duration_ms": 129000,
-      "name": "wrap up warm",
-      "url": "https://open.spotify.com/track/3rn8vRL6eEmVPPJLrXzvFy"
-    },
-    {
-      "added_at": "2025-12-19 14:39:19",
-      "album": {
         "name": "Blanca Navidad",
         "url": "https://open.spotify.com/album/00v4fmoJekO4cfz7PxfOgu"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 176000,
       "name": "Blanca Navidad",
       "url": "https://open.spotify.com/track/559cbvnNsfuT55dLmPDFSF"
+    },
+    {
+      "added_at": "2025-12-19 14:39:19",
+      "album": {
+        "name": "wrap up warm",
+        "url": "https://open.spotify.com/album/5sllAS7PUnlz3UR5bzxccb"
+      },
+      "artists": [
+        {
+          "name": "inthedark",
+          "url": "https://open.spotify.com/artist/3VODOokOAtBPtnB1aAWtf6"
+        }
+      ],
+      "duration_ms": 129000,
+      "name": "wrap up warm",
+      "url": "https://open.spotify.com/track/3rn8vRL6eEmVPPJLrXzvFy"
     },
     {
       "added_at": "2025-12-19 14:39:19",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2025-12-19 14:39:19",
       "album": {
-        "name": "Mistletoe Melodies",
-        "url": "https://open.spotify.com/album/4RuJ1JdQDwM8hos5JqAwgs"
-      },
-      "artists": [
-        {
-          "name": "Jazztroopers",
-          "url": "https://open.spotify.com/artist/5QS7J8iG53OKkSNhOQKzRI"
-        }
-      ],
-      "duration_ms": 140571,
-      "name": "White Christmas",
-      "url": "https://open.spotify.com/track/5uH9rhYpzu8g8QVZ7t6HOg"
-    },
-    {
-      "added_at": "2025-12-19 14:39:19",
-      "album": {
         "name": "Portal De Belen",
         "url": "https://open.spotify.com/album/7ojC4Ip648NdAe046Exggh"
       },
@@ -1375,18 +1359,18 @@
     {
       "added_at": "2025-12-19 14:39:19",
       "album": {
-        "name": "All I Want For Xmas",
-        "url": "https://open.spotify.com/album/3xfPG2t5bJciY2ypx2NbzE"
+        "name": "Mistletoe Melodies",
+        "url": "https://open.spotify.com/album/4RuJ1JdQDwM8hos5JqAwgs"
       },
       "artists": [
         {
-          "name": "sellar",
-          "url": "https://open.spotify.com/artist/2eE2igevXc1oO8cBldYZDy"
+          "name": "Jazztroopers",
+          "url": "https://open.spotify.com/artist/5QS7J8iG53OKkSNhOQKzRI"
         }
       ],
-      "duration_ms": 138042,
-      "name": "All I Want For Xmas",
-      "url": "https://open.spotify.com/track/3VZQzdqncXBLpMNDyLSI5o"
+      "duration_ms": 140571,
+      "name": "White Christmas",
+      "url": "https://open.spotify.com/track/5uH9rhYpzu8g8QVZ7t6HOg"
     },
     {
       "added_at": "2025-12-19 14:39:19",
@@ -1407,6 +1391,22 @@
     {
       "added_at": "2025-12-19 14:39:19",
       "album": {
+        "name": "All I Want For Xmas",
+        "url": "https://open.spotify.com/album/3xfPG2t5bJciY2ypx2NbzE"
+      },
+      "artists": [
+        {
+          "name": "sellar",
+          "url": "https://open.spotify.com/artist/2eE2igevXc1oO8cBldYZDy"
+        }
+      ],
+      "duration_ms": 138042,
+      "name": "All I Want For Xmas",
+      "url": "https://open.spotify.com/track/3VZQzdqncXBLpMNDyLSI5o"
+    },
+    {
+      "added_at": "2025-12-19 14:39:19",
+      "album": {
         "name": "Have Yourself a Merry Little Christmas",
         "url": "https://open.spotify.com/album/2ZapRS1wnlMvMDmOIRjWkr"
       },
@@ -1419,6 +1419,22 @@
       "duration_ms": 159833,
       "name": "Have Yourself a Merry Little Christmas",
       "url": "https://open.spotify.com/track/5kdsHsHLsanmsItkkpWFo2"
+    },
+    {
+      "added_at": "2025-12-19 14:39:19",
+      "album": {
+        "name": "Let it Snow",
+        "url": "https://open.spotify.com/album/57NjLRggkOYTDTz7HGW3I9"
+      },
+      "artists": [
+        {
+          "name": "knock on wood",
+          "url": "https://open.spotify.com/artist/6n3ZDOSMNusTBDKdj9s8Kv"
+        }
+      ],
+      "duration_ms": 134350,
+      "name": "Let it Snow",
+      "url": "https://open.spotify.com/track/7H9dIO8amBy9ZipeovDK5C"
     },
     {
       "added_at": "2025-12-19 14:39:19",
@@ -1455,6 +1471,22 @@
     {
       "added_at": "2025-12-19 14:39:19",
       "album": {
+        "name": "Frosty the Snowman",
+        "url": "https://open.spotify.com/album/0JrWSrhT5EgEQUWD5jxOXj"
+      },
+      "artists": [
+        {
+          "name": "Ginobu",
+          "url": "https://open.spotify.com/artist/6f47lU5rm4LSTUVvpl9Fc6"
+        }
+      ],
+      "duration_ms": 167926,
+      "name": "Frosty the Snowman",
+      "url": "https://open.spotify.com/track/1X9UR1fhvcAFDIpZPlJqxH"
+    },
+    {
+      "added_at": "2025-12-19 14:39:19",
+      "album": {
         "name": "christmas in prague",
         "url": "https://open.spotify.com/album/4ZczbP017oKAexAR4jMQaS"
       },
@@ -1471,22 +1503,6 @@
     {
       "added_at": "2025-12-19 14:39:19",
       "album": {
-        "name": "Let it Snow",
-        "url": "https://open.spotify.com/album/57NjLRggkOYTDTz7HGW3I9"
-      },
-      "artists": [
-        {
-          "name": "knock on wood",
-          "url": "https://open.spotify.com/artist/6n3ZDOSMNusTBDKdj9s8Kv"
-        }
-      ],
-      "duration_ms": 134350,
-      "name": "Let it Snow",
-      "url": "https://open.spotify.com/track/7H9dIO8amBy9ZipeovDK5C"
-    },
-    {
-      "added_at": "2025-12-19 14:39:19",
-      "album": {
         "name": "Snow Angel",
         "url": "https://open.spotify.com/album/4btW84uwKxLPx96n35337s"
       },
@@ -1499,22 +1515,6 @@
       "duration_ms": 94273,
       "name": "Snow Angel",
       "url": "https://open.spotify.com/track/2sWdHoGbx4QFDTVcxgmGTD"
-    },
-    {
-      "added_at": "2025-12-19 14:39:19",
-      "album": {
-        "name": "Frosty the Snowman",
-        "url": "https://open.spotify.com/album/0JrWSrhT5EgEQUWD5jxOXj"
-      },
-      "artists": [
-        {
-          "name": "Ginobu",
-          "url": "https://open.spotify.com/artist/6f47lU5rm4LSTUVvpl9Fc6"
-        }
-      ],
-      "duration_ms": 167926,
-      "name": "Frosty the Snowman",
-      "url": "https://open.spotify.com/track/1X9UR1fhvcAFDIpZPlJqxH"
     },
     {
       "added_at": "2025-12-19 14:39:19",

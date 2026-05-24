@@ -1,6 +1,6 @@
 {
   "description": "the mood is to scream into your dashboard/choke back tears in the parking lot",
-  "num_followers": 858608,
+  "num_followers": 858615,
   "original_name": "songs to scream in the car",
   "owner": {
     "name": "Spotify",
@@ -383,18 +383,22 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "SOUR",
-        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
+        "name": "A Star Is Born Soundtrack",
+        "url": "https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD"
       },
       "artists": [
         {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "Bradley Cooper",
+          "url": "https://open.spotify.com/artist/4VIvfOurcf0vuLRxLkGnIG"
         }
       ],
-      "duration_ms": 175933,
-      "name": "happier",
-      "url": "https://open.spotify.com/track/2tGvwE8GcFKwNdAXMnlbfl"
+      "duration_ms": 215733,
+      "name": "Shallow",
+      "url": "https://open.spotify.com/track/2VxeLyX666F8uXCJ0dZF8B"
     },
     {
       "added_at": "2025-03-04 23:04:03",
@@ -415,22 +419,18 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "A Star Is Born Soundtrack",
-        "url": "https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD"
+        "name": "SOUR",
+        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
       },
       "artists": [
         {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        },
-        {
-          "name": "Bradley Cooper",
-          "url": "https://open.spotify.com/artist/4VIvfOurcf0vuLRxLkGnIG"
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
         }
       ],
-      "duration_ms": 215733,
-      "name": "Shallow",
-      "url": "https://open.spotify.com/track/2VxeLyX666F8uXCJ0dZF8B"
+      "duration_ms": 175933,
+      "name": "happier",
+      "url": "https://open.spotify.com/track/2tGvwE8GcFKwNdAXMnlbfl"
     },
     {
       "added_at": "2023-08-18 04:01:00",

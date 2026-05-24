@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-2,267 songs - 4 day 21 hr 41 min
+2,269 songs - 4 day 21 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [24 Hours](https://open.spotify.com/track/58uUDYcy9U1dqS84ykFTFD) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [24 Hours](https://open.spotify.com/album/6eoDeTDawu6tl2CgNL2RDS) | 4:01 | 2021-12-16 | 2022-02-27 |
 | [24/7](https://open.spotify.com/track/29wEVD99X1HJvWXuEmTTxm) | [Adrian Macéus](https://open.spotify.com/artist/1znCudkO8pApRUyRijRN2g) | [24/7](https://open.spotify.com/album/5emD6veRgAKrGIf31AoyI5) | 2:12 | 2025-08-14 | 2025-10-31 |
 | [27](https://open.spotify.com/track/7AP2A4pegrgeUgUBNCyGiP) | [Albin Tingwall](https://open.spotify.com/artist/3lcVkEoGO0JFaJBUCGQw2H) | [27](https://open.spotify.com/album/0o8gzkpjUijflo4ZddajDu) | 3:17 | 2024-06-06 | 2024-08-09 |
-| [27000](https://open.spotify.com/track/7r4ZIpRRYg0yMQOGigY1Rh) | [Tom River](https://open.spotify.com/artist/6vrVGkC0yApJHtA66iXyTs), [Maria Jane Smith](https://open.spotify.com/artist/4WwXZFXWvXCc6cHvgP5m7u) | [27000](https://open.spotify.com/album/4LyKFOCRcEpU9NQ7124XME) | 3:00 | 2026-04-23 |  |
+| [27000](https://open.spotify.com/track/7r4ZIpRRYg0yMQOGigY1Rh) | [Tom River](https://open.spotify.com/artist/6vrVGkC0yApJHtA66iXyTs), [Maria Jane Smith](https://open.spotify.com/artist/4WwXZFXWvXCc6cHvgP5m7u) | [27000](https://open.spotify.com/album/4LyKFOCRcEpU9NQ7124XME) | 3:00 | 2026-04-23 | 2026-05-24 |
 | [29 days](https://open.spotify.com/track/1DQ4r02CKWjK0Y4XEgiHl2) | [Cazzi Opeia](https://open.spotify.com/artist/1OKyf1iS27lqvUFebKrbee), [Eagle\-Eye Cherry](https://open.spotify.com/artist/3ngKsDXZAssmljeXCvEgOe) | [29 days](https://open.spotify.com/album/20FGoymgA5kKqKUMOvZU5R) | 3:34 | 2025-01-30 | 2025-05-23 |
 | [2U](https://open.spotify.com/track/1ooZsaGgmQI9CIbHxwexbb) | [Youso](https://open.spotify.com/artist/06bgm6DvMlm9ciPIJWW0gh) | [2U](https://open.spotify.com/album/6JE4kCzhXEQEEuKaaL93qf) | 2:42 | 2022-01-13 | 2022-03-31 |
 | [30 grader](https://open.spotify.com/track/5vgXUNzWWxOFSWM93PapZ3) | [Anis Don Demina](https://open.spotify.com/artist/3WnmyxLdTHKN83h75tcb8P), [Mwuana](https://open.spotify.com/artist/0ahIOvoOixJ6reWSvAsshX) | [30 grader](https://open.spotify.com/album/6S62IAftQnUL2tVp27xJzK) | 3:03 | 2024-06-27 | 2025-01-19 |
@@ -164,7 +164,7 @@
 | [Bananas](https://open.spotify.com/track/1XmehgmNmJSl8RCNQsQTCT) | [Malou Prytz](https://open.spotify.com/artist/70Pq7N5g2i37OP54Uwj42T) | [Bananas](https://open.spotify.com/album/6LF5cslZo6GaeqLQc4bC4b) | 2:33 | 2022-02-05 | 2022-04-25 |
 | [Bar Thinking](https://open.spotify.com/track/2nJfr4oazvlWLoeNYZWQhD) | [Jay Smith](https://open.spotify.com/artist/14cxUg2t2XDDqd2iOwXGW1) | [Bar Thinking](https://open.spotify.com/album/6JCtqw85DgIoIhu7xqA90c) | 3:05 | 2024-06-13 | 2024-08-16 |
 | [Bara du är där \(feat\. Von Disco\)](https://open.spotify.com/track/3No7Damf9LQeDkxQwW7NmM) | [Ella Tiritiello](https://open.spotify.com/artist/2Dpj2Fts5HbgdsjZ12khbp), [Von Disco](https://open.spotify.com/artist/4x7WacYjAU6XQpeDHmNxhv) | [Bara du är där \(feat\. Von Disco\)](https://open.spotify.com/album/6ipXmZ7rwqcrKf6ZZcb3Bo) | 2:51 | 2026-02-12 |  |
-| [Bara kom](https://open.spotify.com/track/7CcrqmPUhnFAOWG1Y9ogp8) | [Linnea Henriksson](https://open.spotify.com/artist/3IsULVZIf4iGp9ExB7yJVq) | [Du & jag & mera tid](https://open.spotify.com/album/5DoYxoIibcFRIraBQ8TGQ6) | 2:54 | 2026-01-08 |  |
+| [Bara kom](https://open.spotify.com/track/7CcrqmPUhnFAOWG1Y9ogp8) | [Linnea Henriksson](https://open.spotify.com/artist/3IsULVZIf4iGp9ExB7yJVq) | [Du & jag & mera tid](https://open.spotify.com/album/5DoYxoIibcFRIraBQ8TGQ6) | 2:54 | 2026-01-08 | 2026-05-24 |
 | [Bara mellan oss](https://open.spotify.com/track/4VIWX9gEawpAkvzvwz2a1h) | [Oskar Linnros](https://open.spotify.com/artist/3E8Mx37sikkaFoX5DRecLi) | [Bara mellan oss](https://open.spotify.com/album/0uu0VZmG5Bk4q5VAXTLmnn) | 3:41 | 2026-03-26 |  |
 | [Bara vi, bara jag, bara du](https://open.spotify.com/track/1fncAFDynLDnSIPg7h2mp3) | [Tjuvjakt](https://open.spotify.com/artist/0XDfNJsQy7B3q0GfsMHSkp), [estraden](https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao) | [Bara vi, bara jag, bara du](https://open.spotify.com/album/21zpZFBvL9oiNdXMSVQEyN) | 2:25 | 2025-04-10 | 2025-09-05 |
 | [Bare mellom oss](https://open.spotify.com/track/2V6y6xFWj6B0tgfQ3woscF) | [Stig Brenner](https://open.spotify.com/artist/35j3Bv3gRKUHbiFSxVjjIf), [Newkid](https://open.spotify.com/artist/5wXRHaEx8AvtUv0gyZHGf6) | [Bare mellom oss](https://open.spotify.com/album/2xPRKtDRAhuuY8aMlm0HjR) | 2:31 | 2023-08-31 | 2024-01-19 |
@@ -275,6 +275,7 @@
 | [Buried](https://open.spotify.com/track/2cvFJGpyivEmp69EDos8LE) | [Chris Kläfford](https://open.spotify.com/artist/5dSnbLNmUdguVNTAV5Ctk1) | [Buried](https://open.spotify.com/album/5Wz9LRwQ5BEueU4VqIkRjs) | 2:40 | 2022-01-13 | 2022-07-28 |
 | [Burning Down The House](https://open.spotify.com/track/0lWvOH0oBozezE9yAu41gD) | [Boy In Space](https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP) | [The Butterfly Affect](https://open.spotify.com/album/44qafZ7hAevN0dMQi7lOFG) | 2:32 | 2025-04-17 | 2025-08-16 |
 | [Butterflies](https://open.spotify.com/track/6fv3KtQp4WKtUfgPCGsqwb) | [Rhys](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU) | [Thanks a lot now I can’t smile](https://open.spotify.com/album/6FN7cEitzdKJnH6UlZLJXO) | 2:49 | 2022-03-04 | 2022-05-13 |
+| [Butterfly Feelings](https://open.spotify.com/track/7HJdIi4rzQqj5LkUQfZWRb) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Butterfly Feelings](https://open.spotify.com/album/7awlJuOXZ3LIf35souKNDu) | 2:35 | 2026-05-21 |  |
 | [By Design](https://open.spotify.com/track/0s8QkbnGHx2WsRtgDAnvkR) | [Sabina Ddumba](https://open.spotify.com/artist/2Mp409M6EpFr3kGdQ1mwjS) | [DEAR 27 pt\. 2](https://open.spotify.com/album/55HXkfu2EIhHeXO5Mxe98D) | 3:39 | 2022-09-29 | 2022-10-28 |
 | [By Design](https://open.spotify.com/track/14p8BHyH8Ice5LpfhRLlqx) | [Sabina Ddumba](https://open.spotify.com/artist/2Mp409M6EpFr3kGdQ1mwjS) | [DEAR 27 pt.2](https://open.spotify.com/album/46DJbHhe1AtdlvXqoe1BYz) | 3:39 | 2022-09-29 | 2022-10-03 |
 | [By The Sea](https://open.spotify.com/track/0mDNYBgTfmmzYsGKIO9sIx) | [SI EVOL](https://open.spotify.com/artist/524Xl2s6Uw1LnRmdJwQ9S2) | [By The Sea](https://open.spotify.com/album/3gVowwfu0t4PgeI23c6pBg) | 3:15 | 2024-04-11 | 2024-05-17 |
@@ -1259,6 +1260,7 @@
 | [Mamma](https://open.spotify.com/track/4UURbSqkM3F9Arv0yvamIQ) | [Rasmus Hultgren](https://open.spotify.com/artist/1iFzVD485mt0a8lp41XqkW) | [Mamma](https://open.spotify.com/album/1hiGf2wre6njCrb9SiGbxv) | 2:20 | 2023-01-19 | 2023-03-04 |
 | [Mamma är lik sin mamma](https://open.spotify.com/track/4UBKHem0p2HpIAjCnELAjE) | [Cherrie](https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW) | [Mamma är lik sin mamma](https://open.spotify.com/album/4zcd1yACKoc6R3fAi8NhCn) | 3:36 | 2021-12-16 | 2022-03-11 |
 | [Mammas port](https://open.spotify.com/track/2KWcnMekI5CCnNYkX2cAxh) | [Movits!](https://open.spotify.com/artist/3Rjud126EhtcSDte9lORR7), [Linnea Henriksson](https://open.spotify.com/artist/3IsULVZIf4iGp9ExB7yJVq) | [Mammas port](https://open.spotify.com/album/3WDpJ9WWsC40VD2jFjs5QS) | 3:57 | 2024-02-22 | 2024-04-12 |
+| [Man](https://open.spotify.com/track/0SBv4vF1SfMJHnzSmaElVh) | [JIREEL](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [Eyes Don't Lie](https://open.spotify.com/album/1xsEi04labtfeYTv7D6uAZ) | 2:28 | 2026-05-21 |  |
 | [Mandela](https://open.spotify.com/track/7MiLOZAISUhpe8gQwcgiE2) | [Gee Dixon](https://open.spotify.com/artist/3oJjZweJo9yqNFnKBTlgm0), [Mapei](https://open.spotify.com/artist/6baWjwY7WiVPCZcW7pqqhz) | [Juju Pt.3 Postum](https://open.spotify.com/album/56TkWM7N012kerAgMwz2Ut) | 2:57 | 2022-06-23 | 2022-07-12 |
 | [Maniac](https://open.spotify.com/track/2rB2h2gK6jbnVHwRhxdUKi) | [Ellen Benediktson](https://open.spotify.com/artist/3IXfNkd6BwjYA48aNCPDI8) | [Maniac](https://open.spotify.com/album/64GQS6Mk0WTvW1L9y61vnI) | 2:43 | 2024-08-29 | 2024-09-06 |
 | [MANIC](https://open.spotify.com/track/68M0lk2tYUaQf1TVsEYSXS) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [MANIC](https://open.spotify.com/album/7aZzOXdbZOl9A8FL3z1c20) | 2:18 | 2023-08-10 | 2023-11-17 |

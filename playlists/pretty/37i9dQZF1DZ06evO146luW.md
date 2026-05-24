@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO146luW.md) - [plain]
 
 > This is Koe Wetzel\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,445 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,458 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,12 +16,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO146luW.md) - [plain]
 | 6 | [Hurts Like You](https://open.spotify.com/track/1peocLBzSV3Nl3VI0ZSQcr) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Hurts Like You & Dollar and a Bottle](https://open.spotify.com/album/5Kpfd1RzsiKuWxlppISQUD) | 3:15 |
 | 7 | [Drunk Driving](https://open.spotify.com/track/3ERb3f5nGNwRcNLNoN3KRg) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Sellout](https://open.spotify.com/album/5lbVCoz3kk3ITB6BRBfBMy) | 3:58 |
 | 8 | [February 28, 2016](https://open.spotify.com/track/2WZTzjYMHYmadyQjSZ6Vj4) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Noise Complaint](https://open.spotify.com/album/2c4NXT3nDspQTLujTdIJHT) | 3:53 |
-| 9 | [Rocky Mountain Low \- feat\. Koe Wetzel](https://open.spotify.com/track/6sP76Z6IeqyCOcTHArKOR3) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc), [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Rocky Mountain Low \(feat\. Koe Wetzel\)](https://open.spotify.com/album/34UbZH97R1t0TR1IoV5alN) | 2:48 |
-| 10 | [Ragweed](https://open.spotify.com/track/3MxWqiFH3s8Mll4CljGLfa) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Harold Saul High](https://open.spotify.com/album/1tkILSHrftqtIaop0bcCqg) | 4:12 |
+| 9 | [Ragweed](https://open.spotify.com/track/3MxWqiFH3s8Mll4CljGLfa) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Harold Saul High](https://open.spotify.com/album/1tkILSHrftqtIaop0bcCqg) | 4:12 |
+| 10 | [Rocky Mountain Low \- feat\. Koe Wetzel](https://open.spotify.com/track/6sP76Z6IeqyCOcTHArKOR3) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc), [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Rocky Mountain Low \(feat\. Koe Wetzel\)](https://open.spotify.com/album/34UbZH97R1t0TR1IoV5alN) | 2:48 |
 | 11 | [Surrounded](https://open.spotify.com/track/2Al9P5vRKol3YoqDIjWLwH) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Surrounded](https://open.spotify.com/album/4w6qmr3nn6fJQPUpbnfouc) | 3:08 |
 | 12 | [Fuss and Fight](https://open.spotify.com/track/663iLprLvjr0JatL4IVqUH) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Noise Complaint](https://open.spotify.com/album/2c4NXT3nDspQTLujTdIJHT) | 4:00 |
-| 13 | [Austin](https://open.spotify.com/track/366jHrhcvBpZAQF6m8NuKV) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Austin](https://open.spotify.com/album/2VdUBCAnlhj9MijNsGZag5) | 4:34 |
-| 14 | [Forever](https://open.spotify.com/track/3AdV1d3U70EWsqE6NDJ0yv) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Harold Saul High](https://open.spotify.com/album/1tkILSHrftqtIaop0bcCqg) | 2:57 |
+| 13 | [Forever](https://open.spotify.com/track/3AdV1d3U70EWsqE6NDJ0yv) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Harold Saul High](https://open.spotify.com/album/1tkILSHrftqtIaop0bcCqg) | 2:57 |
+| 14 | [Austin](https://open.spotify.com/track/366jHrhcvBpZAQF6m8NuKV) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Austin](https://open.spotify.com/album/2VdUBCAnlhj9MijNsGZag5) | 4:34 |
 | 15 | [Good Die Young](https://open.spotify.com/track/6vBbirJ0n9L0j1XPtWlG6T) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Sellout](https://open.spotify.com/album/5lbVCoz3kk3ITB6BRBfBMy) | 2:45 |
 | 16 | [Love \(feat\. Parker McCollum\)](https://open.spotify.com/track/12n0Z1dIlqXZYXx43MSHoG) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ), [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Noise Complaint](https://open.spotify.com/album/2c4NXT3nDspQTLujTdIJHT) | 3:43 |
 | 17 | [Feel Better](https://open.spotify.com/track/6hYiwLZyGQ0hYlLLTzQMzg) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | ["These Are Going Nowhere": A Mixtape by Koe Wetzel](https://open.spotify.com/album/44r6jSvTWjPMg0NNQT6QZJ) | 3:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO146luW.md) - [plain]
 | 49 | [Sundy or Mundy](https://open.spotify.com/track/1Fbnj7x5ZRMGHayTMc4wrN) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Sellout](https://open.spotify.com/album/5lbVCoz3kk3ITB6BRBfBMy) | 3:52 |
 | 50 | [Sweet Texas Strange](https://open.spotify.com/track/2eMDLqUwfIKwYpamHAzgEe) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | ["These Are Going Nowhere": A Mixtape by Koe Wetzel](https://open.spotify.com/album/44r6jSvTWjPMg0NNQT6QZJ) | 4:27 |
 
-Snapshot ID: `ag5LAAAAAACHPqMn4cLtlYTEHKd3dcwz`
+Snapshot ID: `ag+cgAAAAACQznl7rhS1e1P6q0qpPetN`

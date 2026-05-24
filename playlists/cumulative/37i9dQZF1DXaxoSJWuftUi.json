@@ -1,0 +1,558 @@
+{
+  "date_first_scraped": "2026-05-24",
+  "description": "Your favorite kids songs and nursery rhymes, now with videos. Music videos available only on Premium.",
+  "name": "Kids Music Videos",
+  "tracks": [
+    {
+      "album": {
+        "name": "Nursery Rhymes & Kids Songs: Pirates, ABC Dinosaurs, Yummy Fruits and More",
+        "url": "https://open.spotify.com/album/4Qx9gAllBi59xH8F8GshGu"
+      },
+      "artists": [
+        {
+          "name": "Lah-Lah",
+          "url": "https://open.spotify.com/artist/6Cmgy0JwJP82zSFZkiCNmm"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225548,
+      "name": "ABC Dinosaur Song",
+      "url": "https://open.spotify.com/track/1C3kmH20nKJmtqsrjdLK68"
+    },
+    {
+      "album": {
+        "name": "ChuChu TV Nursery Rhymes, Vol. 3",
+        "url": "https://open.spotify.com/album/2qhQVCbhZhchPLbfIrWEcl"
+      },
+      "artists": [
+        {
+          "name": "ChuChu TV",
+          "url": "https://open.spotify.com/artist/32Zwi8cvYFLNbEgV3cAJRQ"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89429,
+      "name": "Abcd Alphabet Song",
+      "url": "https://open.spotify.com/track/7opdymi6TLIfnUAX01Hcd3"
+    },
+    {
+      "album": {
+        "name": "My First Album",
+        "url": "https://open.spotify.com/album/6wimrTrnUioq48n0KfUxRn"
+      },
+      "artists": [
+        {
+          "name": "Peppa Pig",
+          "url": "https://open.spotify.com/artist/2gJLanGIV9JqQuKBCWy9ZG"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190880,
+      "name": "Bing Bong Zoo",
+      "url": "https://open.spotify.com/track/72lIFn0eGPHFj7qbRjtRfV"
+    },
+    {
+      "album": {
+        "name": "Buzz Buzz",
+        "url": "https://open.spotify.com/album/2qaGwjEcIgtQ2XgA3jOsaN"
+      },
+      "artists": [
+        {
+          "name": "The Laurie Berkner Band",
+          "url": "https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177920,
+      "name": "Bumblebee (Buzz Buzz)",
+      "url": "https://open.spotify.com/track/2PvU8jWUVbGiIQ9QsiHPQL"
+    },
+    {
+      "album": {
+        "name": "Caitie Says",
+        "url": "https://open.spotify.com/album/3LOTuISLRqduomyWLrGaSY"
+      },
+      "artists": [
+        {
+          "name": "Caitie's Classroom",
+          "url": "https://open.spotify.com/artist/7KqTz4iDBYBRvVyReA3SHo"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184430,
+      "name": "Caitie Says",
+      "url": "https://open.spotify.com/track/1vUBasmo2RUADuaTlua4Ju"
+    },
+    {
+      "album": {
+        "name": "Learning Colours in the Classroom",
+        "url": "https://open.spotify.com/album/0IZ8auAE2fEdnoPFNBSDuG"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Nursery Rhyme Friends",
+          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
+        },
+        {
+          "name": "Go Buster",
+          "url": "https://open.spotify.com/artist/2PeKKRZrvBC2pDjMf3JtKx"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120074,
+      "name": "Colors Rap",
+      "url": "https://open.spotify.com/track/1lKMWgLjn7WzLCG3BwqV6A"
+    },
+    {
+      "album": {
+        "name": "Blippi's Animal Friends",
+        "url": "https://open.spotify.com/album/4B3LWH0pMwMss4nyXAJRwl"
+      },
+      "artists": [
+        {
+          "name": "Blippi",
+          "url": "https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184588,
+      "name": "Dinosaur Song",
+      "url": "https://open.spotify.com/track/6B1rvaRgpIAqjyIOZK9TNC"
+    },
+    {
+      "album": {
+        "name": "Be Kind Be You",
+        "url": "https://open.spotify.com/album/3ZMakxOH49FKu7SHkqd1EV"
+      },
+      "artists": [
+        {
+          "name": "Doggyland",
+          "url": "https://open.spotify.com/artist/34ZLdDJVv5clP7Ask1zjoP"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169097,
+      "name": "Five Little Ducks",
+      "url": "https://open.spotify.com/track/4u70QgRBLFgexLKdcgP3GW"
+    },
+    {
+      "album": {
+        "name": "Let's Have Fun! 20 Playtime Songs for Kids",
+        "url": "https://open.spotify.com/album/7AtnBnrdRCmgrqxfogQfQV"
+      },
+      "artists": [
+        {
+          "name": "The Countdown Kids",
+          "url": "https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105142,
+      "name": "Five Little Monkeys",
+      "url": "https://open.spotify.com/track/5GgU04WdyhVSYA6DJe8Fiw"
+    },
+    {
+      "album": {
+        "name": "Meekah's Excavator Song & More Dancing Tunes",
+        "url": "https://open.spotify.com/album/7JK5Pu9pB6vZokUb60eKkX"
+      },
+      "artists": [
+        {
+          "name": "Meekah",
+          "url": "https://open.spotify.com/artist/7vXebg7HlyNsHfRPJnelJ3"
+        },
+        {
+          "name": "Blippi",
+          "url": "https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137130,
+      "name": "Get the Wiggles Out - Meekah and Blippi's Version",
+      "url": "https://open.spotify.com/track/4tYtdt7ZgjDWJHCrLDtk6M"
+    },
+    {
+      "album": {
+        "name": "Good Morning",
+        "url": "https://open.spotify.com/album/2OxVTLObTZn8Jpp0JbrQ18"
+      },
+      "artists": [
+        {
+          "name": "Kids Imagine Nation",
+          "url": "https://open.spotify.com/artist/21DSdd6cVbYlPHwzjoa4Qq"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111827,
+      "name": "Good Morning",
+      "url": "https://open.spotify.com/track/2wdbpDBfKm8p4ZCpGSVxZV"
+    },
+    {
+      "album": {
+        "name": "Harmony",
+        "url": "https://open.spotify.com/album/6LGNhLhl9W6noLznBi2QA9"
+      },
+      "artists": [
+        {
+          "name": "FY\u00dcTCH",
+          "url": "https://open.spotify.com/artist/27qtcEfJBoUq7N2qdHPfvw"
+        },
+        {
+          "name": "Aura V",
+          "url": "https://open.spotify.com/artist/4euyE4jiBqyKb46P37DDeY"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208234,
+      "name": "Harmony",
+      "url": "https://open.spotify.com/track/3KIQbhimKhUdiychQWegda"
+    },
+    {
+      "album": {
+        "name": "Have a Good Time feat. Charlie Wilson",
+        "url": "https://open.spotify.com/album/45IKvh11lgznevrIUftT6H"
+      },
+      "artists": [
+        {
+          "name": "Gracie's Corner",
+          "url": "https://open.spotify.com/artist/7liE451ZyJBxZ4pLKgIeEH"
+        },
+        {
+          "name": "Charlie Wilson",
+          "url": "https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168521,
+      "name": "Have a Good Time feat. Charlie Wilson",
+      "url": "https://open.spotify.com/track/5nYqe53a9DEkr2vrkTLPq2"
+    },
+    {
+      "album": {
+        "name": "Animals On The Farm And More Lah-Lah Sing And Dance Songs",
+        "url": "https://open.spotify.com/album/4D4jgeLd74Zrec9MJPRWVI"
+      },
+      "artists": [
+        {
+          "name": "Lah-Lah",
+          "url": "https://open.spotify.com/artist/6Cmgy0JwJP82zSFZkiCNmm"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129440,
+      "name": "Hop Little Bunnies",
+      "url": "https://open.spotify.com/track/4Bxxo0D2H1gBlcWzXdg1kx"
+    },
+    {
+      "album": {
+        "name": "I Love Eating Vegetables",
+        "url": "https://open.spotify.com/album/5UaeWRpbOxBhTfG4kmPLYd"
+      },
+      "artists": [
+        {
+          "name": "Super Simple Songs",
+          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122827,
+      "name": "I Love Eating Vegetables",
+      "url": "https://open.spotify.com/track/1ozlVbbbq8KvZd0lrEim19"
+    },
+    {
+      "album": {
+        "name": "If You Love to Dance & Move",
+        "url": "https://open.spotify.com/album/5JHP855ISqCfxzUeHoNENq"
+      },
+      "artists": [
+        {
+          "name": "Caitie's Classroom",
+          "url": "https://open.spotify.com/artist/7KqTz4iDBYBRvVyReA3SHo"
+        },
+        {
+          "name": "Super Simple Songs",
+          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209132,
+      "name": "If You Love to Dance & Move",
+      "url": "https://open.spotify.com/track/6sWc6IeS6ImN1Yr6Nfe2oG"
+    },
+    {
+      "album": {
+        "name": "Wheels on the Bus & More Vehicle Songs!",
+        "url": "https://open.spotify.com/album/5rMGKINa45CmYXC7y7EQni"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Nursery Rhyme Friends",
+          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113906,
+      "name": "Learn Numbers and Colours Song - Bus, Cars and Trucks",
+      "url": "https://open.spotify.com/track/2L8Q1XArhm968SXREBLeMb"
+    },
+    {
+      "album": {
+        "name": "Songs About Stuff Vol. 2",
+        "url": "https://open.spotify.com/album/1QL6VpmUQKaxDRkvOOkqNk"
+      },
+      "artists": [
+        {
+          "name": "Cooltime",
+          "url": "https://open.spotify.com/artist/5Cx0MO39eG4ElGaD1juoZQ"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110657,
+      "name": "Llama Song",
+      "url": "https://open.spotify.com/track/7j2wiqoy9i0ZV97yibRYYy"
+    },
+    {
+      "album": {
+        "name": "Open Shut Them",
+        "url": "https://open.spotify.com/album/3BTzETecI6nG1FieG6dJWk"
+      },
+      "artists": [
+        {
+          "name": "ItsyBitsyKids",
+          "url": "https://open.spotify.com/artist/69sRWANSmSFxBlJ7yfx3Au"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122240,
+      "name": "Open Shut Them",
+      "url": "https://open.spotify.com/track/2bo8EzJS1zfT2AbnntJpuE"
+    },
+    {
+      "album": {
+        "name": "Kids Hits, Vol. 1",
+        "url": "https://open.spotify.com/album/6PE793g3TdbQL1nj51wCRm"
+      },
+      "artists": [
+        {
+          "name": "Doggyland",
+          "url": "https://open.spotify.com/artist/34ZLdDJVv5clP7Ask1zjoP"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118736,
+      "name": "Sharing Is Caring",
+      "url": "https://open.spotify.com/track/4OJVKzwNlxaMnFiIRWHFrH"
+    },
+    {
+      "album": {
+        "name": "The Elephant",
+        "url": "https://open.spotify.com/album/1qBkdeuJDb3D8VVpeMN3PG"
+      },
+      "artists": [
+        {
+          "name": "Hooray Kids Songs",
+          "url": "https://open.spotify.com/artist/5tNlF8VeieGuXQzqzCU2Gd"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107720,
+      "name": "The Elephant",
+      "url": "https://open.spotify.com/track/7aFRFQA17hIsuQ18y3cfFy"
+    },
+    {
+      "album": {
+        "name": "The Family Tree",
+        "url": "https://open.spotify.com/album/0p4n9kgPdm2OiLajjBxXZs"
+      },
+      "artists": [
+        {
+          "name": "Super Simple Songs",
+          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122739,
+      "name": "The Family Tree",
+      "url": "https://open.spotify.com/track/0G9R4kEYVT4yLINMrm5n8v"
+    },
+    {
+      "album": {
+        "name": "Floor is Lava Dance Songs",
+        "url": "https://open.spotify.com/album/70pLKHI7qVRsvgjCGgYJ9G"
+      },
+      "artists": [
+        {
+          "name": "The Kiboomers",
+          "url": "https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210187,
+      "name": "The Floor is Lava",
+      "url": "https://open.spotify.com/track/6BqXhU86SP3j0Kx3DrOidQ"
+    },
+    {
+      "album": {
+        "name": "Laurie Berkner's Animal Songs",
+        "url": "https://open.spotify.com/album/3dxdHE7M8flFgqlamTinsL"
+      },
+      "artists": [
+        {
+          "name": "The Laurie Berkner Band",
+          "url": "https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214960,
+      "name": "The Goldfish",
+      "url": "https://open.spotify.com/track/2zDAOLe0Z9FJTINDAEZvW9"
+    },
+    {
+      "album": {
+        "name": "The People in My Family",
+        "url": "https://open.spotify.com/album/4fvKJxqRLX58tTUt4yv7VS"
+      },
+      "artists": [
+        {
+          "name": "Super Simple Songs",
+          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140645,
+      "name": "The People in My Family",
+      "url": "https://open.spotify.com/track/0xTBpgabw9HXyrsm2ZImoN"
+    },
+    {
+      "album": {
+        "name": "School's Out",
+        "url": "https://open.spotify.com/album/471UJyZK9JMfdhJ4VybbwJ"
+      },
+      "artists": [
+        {
+          "name": "Little Angel",
+          "url": "https://open.spotify.com/artist/3zDwkELCCr4anWIsL5LyTn"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261161,
+      "name": "Trip to the Mall",
+      "url": "https://open.spotify.com/track/12shXIEIOLjCMKEE1AAGpS"
+    },
+    {
+      "album": {
+        "name": "Twinkle Twinkle Little Star",
+        "url": "https://open.spotify.com/album/1QgyWzZGQgeNaUB5nCZG8j"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160591,
+      "name": "Twinkle Twinkle Little Star",
+      "url": "https://open.spotify.com/track/2qh9jofrjR07k14LloVUYY"
+    },
+    {
+      "album": {
+        "name": "Nursery Rhymes : The World's Best",
+        "url": "https://open.spotify.com/album/5fCSEG9XtiPtRy28YTXq8k"
+      },
+      "artists": [
+        {
+          "name": "Nursery Rhymes ABC",
+          "url": "https://open.spotify.com/artist/26UV9EKIInWeV0jJysGZum"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142009,
+      "name": "Wheels on the Bus",
+      "url": "https://open.spotify.com/track/0oWkON7g41NVb5gmZpD2p2"
+    },
+    {
+      "album": {
+        "name": "Working Out at the Zoo",
+        "url": "https://open.spotify.com/album/0Y2zDFFVrkSU9I5yFM82wz"
+      },
+      "artists": [
+        {
+          "name": "Bounce Patrol",
+          "url": "https://open.spotify.com/artist/1S9SPfRo9eyxOcyfUGC2Tm"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214879,
+      "name": "Working Out at the Zoo",
+      "url": "https://open.spotify.com/track/2YZFI6nXasmLNqGjHtQg4K"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXaxoSJWuftUi"
+}

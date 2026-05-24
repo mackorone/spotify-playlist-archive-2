@@ -4,7 +4,7 @@
 
 > www.upmusicpromotion.com &\#x2F; IG: @upmusic\_promotion &\#x2F; promo@upmusicpromotion.com
 
-287 songs - 16 hr 29 min
+288 songs - 16 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Casi Algo](https://open.spotify.com/track/0O76FJ8lDPgjFI462pEqhc) | [Smich](https://open.spotify.com/artist/1NJJAm9K4kishJ8O0YGjql), [Edu Schmidt](https://open.spotify.com/artist/7kNLKJ3eUza4CwbzgNes9W), [Bobbie LePage](https://open.spotify.com/artist/6UwgGu8p5nWsJY3tWG9Jsf) | [Casi Algo](https://open.spotify.com/album/5b1fZ90nbAuCzQF2fjNqFr) | 3:55 | 2025-08-05 | 2026-04-06 |
 | [Ciudad de Sombras](https://open.spotify.com/track/0OczzHxfaIWh8VQ0u1KV8b) | [SANGRE ÁCIDA](https://open.spotify.com/artist/5jnpAyC3qAfR6KfzZQNAtY) | [Cuervos en el Final](https://open.spotify.com/album/3EKDwbHDJCqeI6g57hFy00) | 4:27 | 2025-05-26 | 2026-04-06 |
 | [Closer](https://open.spotify.com/track/0N7jP6VYLVkfeHACeON91e) | [Ocean Miller](https://open.spotify.com/artist/7ckr41RXHCnMadX6yumf7e) | [Closer](https://open.spotify.com/album/5PsKk740Cm62xWkJoWrnE6) | 3:13 | 2025-01-26 |  |
+| [Con uno Spritz in mano](https://open.spotify.com/track/1AYr2LiADXUeg8drcDCbkZ) | [Pe$i](https://open.spotify.com/artist/0dOU1b4T7CKQJETFPixRXD), [DJ Gianix](https://open.spotify.com/artist/2uGdhWT1qmOu0U45obDmCh) | [Con uno Spritz in mano](https://open.spotify.com/album/2clnEltQ2xkwZoVZu4FRJ4) | 3:09 | 2026-05-23 |  |
 | [Confissão de Amor](https://open.spotify.com/track/6tsI8YNJlgZnRmxqEdf3vH) | [Dj Vino Silva](https://open.spotify.com/artist/1hohUkxV7RSwWMcYkHQGKf), [Kelly Rossi](https://open.spotify.com/artist/23jbGyvTCFePTHJ9HZhQQ4) | [Mar e Sol](https://open.spotify.com/album/4xESJrxhx2VzhQkeSfPriD) | 3:50 | 2025-08-14 | 2026-04-06 |
 | [Corteza tras Corteza](https://open.spotify.com/track/06q1mprC2ssZJX6ayqwNPz) | [Sospechosa Lavanda](https://open.spotify.com/artist/30eVkHueRxh0f7cUxW4de2) | [Fuego de 2](https://open.spotify.com/album/4htsAdw4LQkHqLVD0bZ3Ob) | 3:44 | 2025-03-16 | 2026-04-06 |
 | [Cosas](https://open.spotify.com/track/5QyjGQThSVj55EhkAkRfEP) | [Saga](https://open.spotify.com/artist/3BtN6ohTFdXA8yutrkE7J4) | [Cocotero](https://open.spotify.com/album/2X8u3MRvHp6WeWoLVuimiM) | 2:14 | 2025-03-04 | 2026-04-06 |

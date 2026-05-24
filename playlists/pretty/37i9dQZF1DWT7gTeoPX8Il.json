@@ -1,6 +1,6 @@
 {
   "description": "layan je",
-  "num_followers": 168633,
+  "num_followers": 168679,
   "original_name": "galau rabak",
   "owner": {
     "name": "Spotify",
@@ -227,6 +227,22 @@
     {
       "added_at": "2026-02-20 05:28:17",
       "album": {
+        "name": "Berdamai",
+        "url": "https://open.spotify.com/album/1RKSbvPUDUEeKPIhGdnzSD"
+      },
+      "artists": [
+        {
+          "name": "Ghea Indrawari",
+          "url": "https://open.spotify.com/artist/3qL7BzwJOXq3EzAio36aLX"
+        }
+      ],
+      "duration_ms": 255599,
+      "name": "Terima Kasih Sudah Bertahan",
+      "url": "https://open.spotify.com/track/6A1VXwBrL7hpGXScZkGo8D"
+    },
+    {
+      "added_at": "2026-02-20 05:28:17",
+      "album": {
         "name": "ambiVert",
         "url": "https://open.spotify.com/album/4SVd1APxtjPLbghqMzqmBq"
       },
@@ -243,22 +259,6 @@
       "duration_ms": 256156,
       "name": "Tetap Bukan Kamu (feat. Rony Parulian)",
       "url": "https://open.spotify.com/track/0taGkMseEIkIZ3noyFFfZA"
-    },
-    {
-      "added_at": "2026-02-20 05:28:17",
-      "album": {
-        "name": "Berdamai",
-        "url": "https://open.spotify.com/album/1RKSbvPUDUEeKPIhGdnzSD"
-      },
-      "artists": [
-        {
-          "name": "Ghea Indrawari",
-          "url": "https://open.spotify.com/artist/3qL7BzwJOXq3EzAio36aLX"
-        }
-      ],
-      "duration_ms": 255599,
-      "name": "Terima Kasih Sudah Bertahan",
-      "url": "https://open.spotify.com/track/6A1VXwBrL7hpGXScZkGo8D"
     },
     {
       "added_at": "2026-02-20 05:28:17",
@@ -399,26 +399,6 @@
     {
       "added_at": "2026-02-20 05:28:17",
       "album": {
-        "name": "Lagu Pernikahan Kita",
-        "url": "https://open.spotify.com/album/5eY3dzN1EvreoSLr1vWVMu"
-      },
-      "artists": [
-        {
-          "name": "Tiara Andini",
-          "url": "https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm"
-        },
-        {
-          "name": "Arsy Widianto",
-          "url": "https://open.spotify.com/artist/7j5PGC0BF48rRtcmgbVvOT"
-        }
-      ],
-      "duration_ms": 261476,
-      "name": "Lagu Pernikahan Kita",
-      "url": "https://open.spotify.com/track/3diRmt2Z6xSEaT0mqBr681"
-    },
-    {
-      "added_at": "2026-02-20 05:28:17",
-      "album": {
         "name": "Bermuara",
         "url": "https://open.spotify.com/album/14CzP48sGOaDXL2aTwUUgd"
       },
@@ -435,6 +415,26 @@
       "duration_ms": 287465,
       "name": "Bermuara",
       "url": "https://open.spotify.com/track/2EijGQoEilhHWlQWMoS9Jc"
+    },
+    {
+      "added_at": "2026-02-20 05:28:17",
+      "album": {
+        "name": "Lagu Pernikahan Kita",
+        "url": "https://open.spotify.com/album/5eY3dzN1EvreoSLr1vWVMu"
+      },
+      "artists": [
+        {
+          "name": "Tiara Andini",
+          "url": "https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm"
+        },
+        {
+          "name": "Arsy Widianto",
+          "url": "https://open.spotify.com/artist/7j5PGC0BF48rRtcmgbVvOT"
+        }
+      ],
+      "duration_ms": 261476,
+      "name": "Lagu Pernikahan Kita",
+      "url": "https://open.spotify.com/track/3diRmt2Z6xSEaT0mqBr681"
     },
     {
       "added_at": "2026-02-20 05:28:17",
@@ -487,6 +487,22 @@
     {
       "added_at": "2026-02-20 05:28:17",
       "album": {
+        "name": "Sampai Menutup Mata",
+        "url": "https://open.spotify.com/album/3MY5j23bUAPJKChg5V47m9"
+      },
+      "artists": [
+        {
+          "name": "Mahalini",
+          "url": "https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4"
+        }
+      ],
+      "duration_ms": 248666,
+      "name": "Sampai Menutup Mata",
+      "url": "https://open.spotify.com/track/5bY4g7cLyasuuhthJ7Mdlh"
+    },
+    {
+      "added_at": "2026-02-20 05:28:17",
+      "album": {
         "name": "Aku Tanpa Kamu Tanpa Aku",
         "url": "https://open.spotify.com/album/3mWgjnE8LPJeJSIy6dEHsm"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 267392,
       "name": "Aku Tanpa Kamu Tanpa Aku",
       "url": "https://open.spotify.com/track/4fA9T5ifvSebKMJTr1HeN0"
-    },
-    {
-      "added_at": "2026-02-20 05:28:17",
-      "album": {
-        "name": "Sampai Menutup Mata",
-        "url": "https://open.spotify.com/album/3MY5j23bUAPJKChg5V47m9"
-      },
-      "artists": [
-        {
-          "name": "Mahalini",
-          "url": "https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4"
-        }
-      ],
-      "duration_ms": 248666,
-      "name": "Sampai Menutup Mata",
-      "url": "https://open.spotify.com/track/5bY4g7cLyasuuhthJ7Mdlh"
     },
     {
       "added_at": "2026-02-20 05:28:17",

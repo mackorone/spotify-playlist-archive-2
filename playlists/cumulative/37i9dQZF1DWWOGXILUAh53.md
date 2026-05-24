@@ -4,7 +4,7 @@
 
 > The hottest new pop with all the drops\. Cover: Kygo & Dan Tyminski
 
-2,083 songs - 4 day 6 hr 6 min
+2,085 songs - 4 day 6 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -263,6 +263,7 @@
 | [Burning Man](https://open.spotify.com/track/3MiG1s7V4iuF9rCqwwojr6) | [Donna Lewis](https://open.spotify.com/artist/2EfG2EoT8GFJrMiilbTVl2), [David Lowe](https://open.spotify.com/artist/4LI8ittNmWTO5VmDrVERNW) | [Burning Man](https://open.spotify.com/album/2H6junNS1hEqdrcbS5Tm9p) | 3:04 | 2025-09-19 | 2025-11-22 |
 | [Bus Station](https://open.spotify.com/track/4SVO6an1H4SfvoHJxf37dl) | [Minelli](https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc) | [Mixed Feelings \(opening season\)](https://open.spotify.com/album/2F9o96gJGhX2z1ggQNOG0p) | 2:25 | 2025-03-28 | 2025-05-24 |
 | [Butterflies](https://open.spotify.com/track/6pUPgFJ0Acgb30JlVL7g4k) | [Issey Cross](https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U) | [Butterflies](https://open.spotify.com/album/2lgyMYvZdJrQrPoBOzTSpt) | 2:40 | 2025-08-22 | 2025-11-15 |
+| [Butterfly Feelings](https://open.spotify.com/track/7HJdIi4rzQqj5LkUQfZWRb) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Butterfly Feelings](https://open.spotify.com/album/7awlJuOXZ3LIf35souKNDu) | 2:35 | 2026-05-23 |  |
 | [C'mon Look! \(feat\. Asake\)](https://open.spotify.com/track/0PmnXWLh2KXKF4K65HH0SY) | [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [C'mon Look! \(feat\. Asake\)](https://open.spotify.com/album/5ypbnurLlF8HIf1gW20dvi) | 2:54 | 2024-12-13 | 2025-01-18 |
 | [California \(feat\. CLOVES\)](https://open.spotify.com/track/7rEcQbBkgpeipMDvi9xd1z) | [Netsky](https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP), [CLOVES](https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c) | [California \(feat\. CLOVES\)](https://open.spotify.com/album/0UiYSVlJTFDNQUXljpEuhw) | 3:18 | 2025-01-31 | 2025-04-12 |
 | [California Baby](https://open.spotify.com/track/2YMLBw52YaTUK0IfXJXWOT) | [TWINSICK](https://open.spotify.com/artist/4WfO14YgktUYkdLMrHgTeF), [BADVIBES](https://open.spotify.com/artist/4WTuZmkUWHtFtYqGst6d4g) | [California Baby](https://open.spotify.com/album/7dmt0OPSxVoO9wpcQacsh9) | 2:50 | 2024-02-16 | 2024-04-19 |
@@ -1388,6 +1389,7 @@
 | [Paradise](https://open.spotify.com/track/3ol5EIFVcL4XneXKXjQpfx) | [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Paradise](https://open.spotify.com/album/7Ddr2KE2jdn3QRvcuFGDE3) | 3:17 | 2023-06-16 | 2023-09-09 |
 | [Paris](https://open.spotify.com/track/3WzmwVmkRDTYroaLg0Klcb) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Paris](https://open.spotify.com/album/5DFNdBjKvIRlPl0i76yBSC) | 3:00 | 2023-12-01 | 2024-01-06 |
 | [Part of Me](https://open.spotify.com/track/4pPCQATIQCESmDKMBItP9V) | [Deerock](https://open.spotify.com/artist/3BCouSmFlw2lHBmJmi1umh) | [Part of Me](https://open.spotify.com/album/5WzTtCrxO3AdbUjpzFhUFR) | 2:50 | 2025-08-29 | 2025-10-11 |
+| [PARTIES IN LA](https://open.spotify.com/track/7ilxKzPgTaF5P8N8BBlKFW) | [XKYLAR](https://open.spotify.com/artist/0wel071ci7nqjnNT0ywKWq) | [PARTIES IN LA](https://open.spotify.com/album/67DRtDC05EXXlanrnThwvw) | 2:28 | 2026-05-23 |  |
 | [Party Animal](https://open.spotify.com/track/4YVoPRtD3oIZzLIDoQ4h3B) | [Ella Red](https://open.spotify.com/artist/1hH4ajSTZKIBhwRymnZi5R) | [Party Animal](https://open.spotify.com/album/3qXR3nSUOkcMhoY7Yc0gr7) | 2:19 | 2025-11-21 | 2026-02-28 |
 | [party in my head \(ur not invited\)](https://open.spotify.com/track/0XlnHTE0Y3rsOLou6EGXEK) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [party in my head \(ur not invited\)](https://open.spotify.com/album/5mO7Nj7MaJ1CpynXu9xWgA) | 3:03 | 2022-09-09 | 2022-10-13 |
 | [party in my head \(ur not invited\)](https://open.spotify.com/track/3LOlE57aPUSKdknmWwpRdF) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [fantasies](https://open.spotify.com/album/1fXLA70J3p1vNZ03dmzZR3) | 3:03 | 2022-10-26 | 2022-11-13 |
@@ -1882,7 +1884,7 @@
 | [Twennies](https://open.spotify.com/track/28LNs1oQ8met8Ul8p8RHbe) | [Dragonette](https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n) | [Twennies](https://open.spotify.com/album/5rdmUTXVk9cVxOMknuSzUx) | 2:51 | 2022-09-09 | 2022-10-07 |
 | [Twennies](https://open.spotify.com/track/2JKUKfXVAGuaEHLZKEzXFH) | [Dragonette](https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n) | [Twennies](https://open.spotify.com/album/0WTmYak2Ws78H1nxSJim9m) | 2:51 | 2022-09-09 | 2022-10-22 |
 | [Twisted Mind](https://open.spotify.com/track/3Ofr27P70Y5D1dG9iwqFPD) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [Exotica \(Deluxe\)](https://open.spotify.com/album/4lPKHjh6OjSKP4SsIxXIsv) | 5:20 | 2022-03-04 | 2022-05-28 |
-| [Two Hearts](https://open.spotify.com/track/58BZYJxcZbDngJbBQN7wdL) | [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Cerulean](https://open.spotify.com/album/1YbqV9ng7vfzgGbhjR2FfQ) | 3:52 | 2026-02-13 |  |
+| [Two Hearts](https://open.spotify.com/track/58BZYJxcZbDngJbBQN7wdL) | [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Cerulean](https://open.spotify.com/album/1YbqV9ng7vfzgGbhjR2FfQ) | 3:52 | 2026-02-13 | 2026-05-24 |
 | [Typical \(feat\. Lars Martin\)](https://open.spotify.com/track/0zbCQ5BMhpFfKWcpEuzqVd) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Lars Martin](https://open.spotify.com/artist/22GWBRw4EYd2qGvzDqzxXO) | [Typical \(feat\. Lars Martin\)](https://open.spotify.com/album/4ZgHHCDZ6YI1iZ9L8xzrB4) | 2:21 | 2021-12-24 | 2022-03-05 |
 | [TYSM](https://open.spotify.com/track/5P7gnRCCpKU64vfv27HaMj) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [TYSM](https://open.spotify.com/album/22WuTYFcw6HfArfwt4woMm) | 2:49 | 2024-11-22 | 2025-01-11 |
 | [U WON'T!](https://open.spotify.com/track/7iYyOqLQY46zCtfP3zW3bl) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [U WON'T!](https://open.spotify.com/album/3eSyIBoXNUuMRW3hH4KAJI) | 2:01 | 2025-05-02 | 2025-06-14 |

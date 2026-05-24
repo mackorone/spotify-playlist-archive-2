@@ -4,7 +4,7 @@
 
 > This is Joe Bonamassa\. The essential tracks, all in one playlist.
 
-237 songs - 20 hr 14 min
+238 songs - 20 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Another Kind of Love](https://open.spotify.com/track/1L8EJN5H9QD52zMtlrUce0) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Sloe Gin](https://open.spotify.com/album/3bwBNisdCXUL1rljZK6KOy) | 3:09 | 2022-11-01 |  |
 | [Back in Black](https://open.spotify.com/track/3QbM1s2qg68bKEByp0Uvh8) | [Scary Pockets](https://open.spotify.com/artist/1e16kiJQtCTveTl7TQnkFN), [Joanna Jones](https://open.spotify.com/artist/6mRK3kM9VcjgnwtUAE1vNx), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Back in Black](https://open.spotify.com/album/736B83hbqftdlB7yewbdOF) | 3:12 | 2023-04-30 | 2024-08-21 |
 | [Bad Case Of Love](https://open.spotify.com/track/39eGUkbEQINL0ihNT9Ez7d) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Bad Case Of Love](https://open.spotify.com/album/4NgG5WJgLF1p0Dri4ddPqz) | 2:54 | 2025-11-08 | 2025-11-22 |
+| [Bad Penny \(Live\)](https://open.spotify.com/track/5g3BflMPyuIxdNaxX4aGUC) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Bad Penny \(Live\)](https://open.spotify.com/album/72sCuVZ16PMX0aijHGQ0TR) | 5:23 | 2026-05-24 |  |
 | [Baddest Blues \- Live](https://open.spotify.com/track/1Ol03EITMeWn5ZGSJlcg99) | [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Live in Amsterdam](https://open.spotify.com/album/44663Jws4dbqAO7RUnuqMu) | 5:09 | 2022-08-09 | 2022-08-11 |
 | [Ball Peen Hammer](https://open.spotify.com/track/3jSj1k7V0y3JmahnH8YM4m) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Sloe Gin](https://open.spotify.com/album/3bwBNisdCXUL1rljZK6KOy) | 3:27 | 2025-02-28 | 2025-12-21 |
 | [Ball Peen Hammer \(Live At The Hollywood Bowl With Orchestra\)](https://open.spotify.com/track/04zlD4XLqclgxmRmjHPzm4) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Live At The Hollywood Bowl With Orchestra](https://open.spotify.com/album/1nnUD5cVKlnc0wSsIQY4lG) | 3:57 | 2024-07-06 | 2024-11-15 |
@@ -184,7 +185,7 @@
 | [Sweet Little Angel](https://open.spotify.com/track/49jvNTBdS4idoirNOiraQc) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [B.B\. King's Blues Summit 100](https://open.spotify.com/album/63RsC1rDGaMXkfK1zk5wb6) | 4:44 | 2026-02-21 |  |
 | [Sweet Little Angel](https://open.spotify.com/track/4hJlNxUrUYqtnfw7U2dPwf) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Sweet Little Angel](https://open.spotify.com/album/38CihEFCpI6Cf9YBD4FOZA) | 4:44 | 2025-12-14 | 2026-02-21 |
 | [Take It Back](https://open.spotify.com/track/0EBCSoTMmj0Gf0aOkZ6Hx1) | [Dion](https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Take It Back](https://open.spotify.com/album/0gM5G6j0lWaxk1GOv0nfbL) | 5:35 | 2022-10-05 | 2023-10-05 |
-| [Tattoo'd Lady \(Live\)](https://open.spotify.com/track/2F2MZqad3d1iWGqKh38HMu) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Tattoo'd Lady \(Live\)](https://open.spotify.com/album/3N8Z7hdXgunJUDNP0Nr5Yg) | 6:20 | 2026-04-26 |  |
+| [Tattoo'd Lady \(Live\)](https://open.spotify.com/track/2F2MZqad3d1iWGqKh38HMu) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Tattoo'd Lady \(Live\)](https://open.spotify.com/album/3N8Z7hdXgunJUDNP0Nr5Yg) | 6:20 | 2026-04-26 | 2026-05-24 |
 | [Tennessee Plates](https://open.spotify.com/track/7IqgzG3pELbSdoIAInTI19) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [John Hiatt](https://open.spotify.com/artist/4Sld5LOPbAm1QSq9U32fFV) | [Dust Bowl](https://open.spotify.com/album/4J2xuF936SVnrgLtbRLbxM) | 4:18 | 2022-08-05 | 2023-11-11 |
 | [That's What Love Will Make You Do](https://open.spotify.com/track/1s9pvVcRTbeGjT7RqMGVa1) | [Marc Broussard](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [S.O.S\. 4: Blues For Your Soul](https://open.spotify.com/album/4ZxNQpjVCOcFbi0stPCHo5) | 4:05 | 2023-04-25 |  |
 | [That's What Love Will Make You Do](https://open.spotify.com/track/4rXXgDpZw2k1yu0ZnWWqJL) | [Marc Broussard](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [That's What Love Will Make You Do](https://open.spotify.com/album/7xmzTkr3X0BrctEwkEDqcp) | 4:05 | 2023-01-15 | 2023-04-26 |

@@ -4,7 +4,7 @@
 
 > It&\#x27;s 5 o&\#x27;clock somewhere and best believe there&\#x27;s a local band there ready to rock when the sun goes down.
 
-237 songs - 14 hr 49 min
+238 songs - 14 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,6 +152,7 @@
 | [Mother Resides](https://open.spotify.com/track/0gn4YWc1ehOYzh8Nnf4bEz) | [Mother Resides](https://open.spotify.com/artist/6RnyzZjMLyEZ4WY96JmGJW) | [Mother Resides](https://open.spotify.com/album/3MFfahsn5gq7nrifvR0yRD) | 3:52 | 2025-12-16 | 2026-01-21 |
 | [My Favourite Game](https://open.spotify.com/track/3wtoIz1I01y40GFnIrl3p2) | [Byron's Brigades](https://open.spotify.com/artist/5yV3z5bTUMGEIE4E6WxPrf) | [My Favourite Game](https://open.spotify.com/album/0g2Zx81Nbu9ywAXriXYh7b) | 3:06 | 2025-11-04 |  |
 | [My Own World](https://open.spotify.com/track/23hwOGWChFPALZdX4dYFlC) | [Impulse Bangs](https://open.spotify.com/artist/3QbpC7UT2TgsfZ9Qpyvcbp) | [My Own World](https://open.spotify.com/album/38prmH5z5AS3n7yKCXig8m) | 3:50 | 2026-02-10 | 2026-05-19 |
+| [Narcissus](https://open.spotify.com/track/3TEPXf5UCrgNTHo5iTZedr) | [X\-Rated 1994](https://open.spotify.com/artist/71QiZSo2Jl9MO98vg3JSO0) | [Narcissus](https://open.spotify.com/album/3zui8JpZjtJo7xpMezSukq) | 8:04 | 2026-05-23 |  |
 | [Nastasia](https://open.spotify.com/track/3bHOcdI7MAPBLkRg5uRQSH) | [Static Switch](https://open.spotify.com/artist/6X1nrWVRY4Lz46bdn1h00M) | [Nastasia](https://open.spotify.com/album/4cZR65l4h4Xyf4IGVLQfmE) | 2:44 | 2026-01-10 | 2026-02-02 |
 | [Never Gonna Make You Mine](https://open.spotify.com/track/1SUOjtXdd7WtFlzuQlYo60) | [Pink Cliffs](https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR) | [Never Gonna Make You Mine](https://open.spotify.com/album/3hitAWfJNEBSrzYWm2CGrz) | 3:02 | 2026-04-14 | 2026-05-17 |
 | [New Age](https://open.spotify.com/track/6P7QFrSStHdpMGfgQKaYWV) | [Karyttah](https://open.spotify.com/artist/17QfBgyjtw9q54wXpTkXKu) | [New Age: The Age of Karyttah](https://open.spotify.com/album/2vjajlHIgc0ihbc6RP3Ri8) | 6:04 | 2025-11-11 |  |

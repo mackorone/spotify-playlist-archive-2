@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBbvEvz46d3.md) - [plain]
 
 > Nowe przeboje i ponadczasowe klasyki o  miłości\. Tylko po polsku.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,489 likes - 75 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,498 likes - 75 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBbvEvz46d3.md) - [plain]
 | 63 | [Jesteś lekiem na całe zło \- 1994](https://open.spotify.com/track/6hqftK2O6t2sI5AmwLhnLs) | [Krystyna Prońko](https://open.spotify.com/artist/4SCH2LpYYD5iKpc1xtDJ4Y) | [Osobista kolekcja 2](https://open.spotify.com/album/7g9OXZbrJyAkeYv7VWR9wh) | 4:40 |
 | 64 | [Niewiele Ci Mogę Dać](https://open.spotify.com/track/2h37uUs82DHQglGauJkMRD) | [Perfect](https://open.spotify.com/artist/16UXmC2zY5ECiptfegWxFQ) | [Perfect](https://open.spotify.com/album/4ZKi2ftayn5Qv9SmXTIGAb) | 3:43 |
 | 65 | [Byle jak](https://open.spotify.com/track/6cdL3GhIlJZaAXo4Khijwg) | [Margaret](https://open.spotify.com/artist/6aGmKxXoKrSdovRUn8MBhZ) | [Monkey Business](https://open.spotify.com/album/5Ig1N32hUUC4dZFltNQtjb) | 3:00 |
-| 66 | [Zabierz tę miłość \(Storytel "Random"\)](https://open.spotify.com/track/25vX1mMJilMWIc5Ht6hkGj) | [Maciej Musiałowski](https://open.spotify.com/artist/6MlVGjgieHwMJCPBjU41dN), [Julia Wieniawa](https://open.spotify.com/artist/1HX9uYVwH6HHGyE8xSgtUD) | [Zabierz tę miłość \(Storytel "Random"\)](https://open.spotify.com/album/0z6QIndzIRBS2pDAL1XECw) | 4:09 |
-| 67 | [Kiedyś do Ciebie wrócę](https://open.spotify.com/track/04QPWwQIxA8kLpcKM1ZWzL) | [Agnieszka Chylińska](https://open.spotify.com/artist/0CEw36eWG0dYKCXOX8eUoO) | [Never Ending Sorry](https://open.spotify.com/album/0bEC0mpfwhZPD89ZS87LVe) | 3:49 |
+| 66 | [Kiedyś do Ciebie wrócę](https://open.spotify.com/track/04QPWwQIxA8kLpcKM1ZWzL) | [Agnieszka Chylińska](https://open.spotify.com/artist/0CEw36eWG0dYKCXOX8eUoO) | [Never Ending Sorry](https://open.spotify.com/album/0bEC0mpfwhZPD89ZS87LVe) | 3:49 |
+| 67 | [Zabierz tę miłość \(Storytel "Random"\)](https://open.spotify.com/track/25vX1mMJilMWIc5Ht6hkGj) | [Maciej Musiałowski](https://open.spotify.com/artist/6MlVGjgieHwMJCPBjU41dN), [Julia Wieniawa](https://open.spotify.com/artist/1HX9uYVwH6HHGyE8xSgtUD) | [Zabierz tę miłość \(Storytel "Random"\)](https://open.spotify.com/album/0z6QIndzIRBS2pDAL1XECw) | 4:09 |
 | 68 | [Ostatni](https://open.spotify.com/track/4EbrkWbN93ZMN6bCiol0YX) | [Edyta Bartosiewicz](https://open.spotify.com/artist/1MrKvFb6ie6bTXGpSEYx0g) | [Szok 'N' Show](https://open.spotify.com/album/13Lel55hdHNJejfro8RJKH) | 5:04 |
 | 69 | [Dobry moment](https://open.spotify.com/track/7KXirs6fb0RDI8Q4DK6naY) | [Kortez](https://open.spotify.com/artist/6o7xoNMeAUgi1SVl9rHYNk) | [Mój dom](https://open.spotify.com/album/6j3XzrGQ3yatMc9hqAM5DJ) | 4:11 |
 | 70 | [Śpij Kochanie Śpij](https://open.spotify.com/track/77ppwEoKPhNZx8h3Nskr7H) | [Kayah](https://open.spotify.com/artist/2v295z585SM68pluEKXKSM), [Goran Bregović](https://open.spotify.com/artist/491v9k5NTGBGanwqPNSkuS) | [Kayah & Bregovic](https://open.spotify.com/album/20ewUNNrxkKjMgNd2Ax7lX) | 4:31 |

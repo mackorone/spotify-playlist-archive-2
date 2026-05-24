@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeIwHbnsb6O.md) - [plain]
 
 > Recuerda la década de los acampanados, patillas y cuellos picudos\. Juan Gabriel en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 351,923 likes - 62 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 352,010 likes - 62 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,13 +18,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeIwHbnsb6O.md) - [plain]
 | 8 | [Un Sueño](https://open.spotify.com/track/713S1nCNk4yzpR8WbJcQF1) | [La Tropa Loca](https://open.spotify.com/artist/3yRt7RrCEFnIIEgenUFElv) | [El Disco de Oro de la Tropa Loca](https://open.spotify.com/album/4DfcRh0MYcnlcZOUMLGyX3) | 3:25 |
 | 9 | [No Se Ha Dado Cuenta](https://open.spotify.com/track/3lzkOHkG5yH3xj40sY4nVI) | [Roberto Jordan](https://open.spotify.com/artist/5SyvBTttsNPEcFjtceTBmx) | [RCA 100 Años De Musica](https://open.spotify.com/album/7vMnaKzlmBN2GRVYCMOMqc) | 2:38 |
 | 10 | [Cuatro Lagrimas](https://open.spotify.com/track/2XNyz6up4JxH6m6xmYX8wr) | [Los Polifaceticos](https://open.spotify.com/artist/3OOAJERutoeZax0lNsSWbK) | [Coleccion Suprema Plus\- Los Polifaceticos](https://open.spotify.com/album/5EhuEeRwzgNV4TVLqcDD0i) | 3:07 |
-| 11 | [Te He Prometido](https://open.spotify.com/track/15vvGrycJyA5tMb6PXdQYO) | [Leo Dan](https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2) | [Roma \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3fbJSth7xYdLAphGOSqJl5) | 3:07 |
-| 12 | [Mi Matamoros Querido](https://open.spotify.com/track/1PMHd6rJgiSIcJnKaGTvIi) | [Rigo Tovar](https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx) | [Íconos 25 Éxitos](https://open.spotify.com/album/0rUQEWfnveBDeFFiseFOsJ) | 3:06 |
+| 11 | [Mi Matamoros Querido](https://open.spotify.com/track/1PMHd6rJgiSIcJnKaGTvIi) | [Rigo Tovar](https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx) | [Íconos 25 Éxitos](https://open.spotify.com/album/0rUQEWfnveBDeFFiseFOsJ) | 3:06 |
+| 12 | [Te He Prometido](https://open.spotify.com/track/15vvGrycJyA5tMb6PXdQYO) | [Leo Dan](https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2) | [Roma \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3fbJSth7xYdLAphGOSqJl5) | 3:07 |
 | 13 | [Vive](https://open.spotify.com/track/0pJdq9MuSNqcGzFaZBDDMr) | [José Maria Napoleón](https://open.spotify.com/artist/72v53CufRiSyqcQ78KUQ5p) | [Imprescindibles](https://open.spotify.com/album/34FPXkANKuTO0ZixD9fqrm) | 3:06 |
 | 14 | [Vida](https://open.spotify.com/track/47BX8KEYwLKHHjssDYfmZy) | [Los Soñadores](https://open.spotify.com/artist/7eaFKZEoBol2LMdQAmzK8i) | [Tesoros De Colección \- Solo Para Enamorados](https://open.spotify.com/album/2VJGuUziW86OlMjaL9p5JX) | 2:17 |
 | 15 | [Por Que Nos Dijimos Adios](https://open.spotify.com/track/3jn1p2vkh7osxeeoibErbO) | [Grupo Yndio](https://open.spotify.com/artist/2ExqFhtOJ3rXrYJkBMqAxD) | [Mano A Mano Volumen 1](https://open.spotify.com/album/6ACFs5lO3JnuSTDIMVzpcK) | 3:10 |
-| 16 | [El cariño que perdí \- Con banda](https://open.spotify.com/track/7maoxJQadySDhEp2RWrtzs) | [Los Freddy's](https://open.spotify.com/artist/6Pg8M1zA3uDn0h5IOFc3pe) | [Antología\. \. \. Los Freddy's](https://open.spotify.com/album/4294yJuL3aiuMLosQV9Mta) | 3:26 |
-| 17 | [Oye Como Va](https://open.spotify.com/track/4IFwoDrcZN0wjJnCjuTEx8) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [Ultimate Santana](https://open.spotify.com/album/6FbFvnlSfEoNhwz5MdK0Dx) | 4:18 |
+| 16 | [Oye Como Va](https://open.spotify.com/track/4IFwoDrcZN0wjJnCjuTEx8) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [Ultimate Santana](https://open.spotify.com/album/6FbFvnlSfEoNhwz5MdK0Dx) | 4:18 |
+| 17 | [El cariño que perdí \- Con banda](https://open.spotify.com/track/7maoxJQadySDhEp2RWrtzs) | [Los Freddy's](https://open.spotify.com/artist/6Pg8M1zA3uDn0h5IOFc3pe) | [Antología\. \. \. Los Freddy's](https://open.spotify.com/album/4294yJuL3aiuMLosQV9Mta) | 3:26 |
 | 18 | [Chavo de Onda](https://open.spotify.com/track/5OefRQlG7PuOMXuRLq5wuf) | [Three Souls In My Mind](https://open.spotify.com/artist/0FWt6THmobpdzk7727cq2R) | [Adicto al Rock N Roll](https://open.spotify.com/album/5V0WSZ1ihWk7bbDZ9O4LoQ) | 3:28 |
 | 19 | [Soy Yo](https://open.spotify.com/track/5qzfsHAvFUWFChTxo9hEe6) | [Los Yonic's](https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt) | [20 Megaexitos Romanticos](https://open.spotify.com/album/7nBL4GGsuJafaXg4Qs5fGW) | 3:37 |
 | 20 | [Por Ti](https://open.spotify.com/track/5vVwrqxCYDRGBkWpPuLqFU) | [Óscar Chávez](https://open.spotify.com/artist/4QHjJWgPhculd31AHEsjOb) | [Oscar Chávez / La Más Completa Colección](https://open.spotify.com/album/47J1O0MfeIVexX6SpIoAFv) | 2:52 |

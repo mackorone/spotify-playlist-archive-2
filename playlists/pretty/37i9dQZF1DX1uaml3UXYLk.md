@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uaml3UXYLk.md) - [plain]
 
 > Electronic music with caffeine.
 
-[Spotify](https://open.spotify.com/user/spotify) - 317,318 likes - 183 songs - 7 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 317,372 likes - 183 songs - 7 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

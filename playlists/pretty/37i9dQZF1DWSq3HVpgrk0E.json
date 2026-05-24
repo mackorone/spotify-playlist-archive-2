@@ -1,12 +1,12 @@
 {
   "description": "The whole truth. Cover: Trim",
-  "num_followers": 271079,
+  "num_followers": 271067,
   "original_name": "No Cap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPw6Tb7z9VsHdN/sH0lmkkmVU842",
+  "snapshot_id": "AAAAAFT2iLaoIJA55F5UvACCW7Pd/eH9",
   "tracks": [
     {
       "added_at": "2026-05-14 23:00:43",
@@ -391,6 +391,22 @@
     {
       "added_at": "2026-05-14 23:00:43",
       "album": {
+        "name": "4X4",
+        "url": "https://open.spotify.com/album/5HAxzyUfyay8NElNaehsNe"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 190581,
+      "name": "4X4",
+      "url": "https://open.spotify.com/track/6s8WSX1MxNThrot8ThI6fG"
+    },
+    {
+      "added_at": "2026-05-14 23:00:43",
+      "album": {
         "name": "Made It On Our Own",
         "url": "https://open.spotify.com/album/5pXYL4x2dOkvxM0aeigqwF"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 169090,
       "name": "Made It On Our Own",
       "url": "https://open.spotify.com/track/13Z2JpNwN54a5WXacGYtLs"
-    },
-    {
-      "added_at": "2026-05-14 23:00:43",
-      "album": {
-        "name": "4X4",
-        "url": "https://open.spotify.com/album/5HAxzyUfyay8NElNaehsNe"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 190581,
-      "name": "4X4",
-      "url": "https://open.spotify.com/track/6s8WSX1MxNThrot8ThI6fG"
     },
     {
       "added_at": "2026-05-14 23:00:43",
@@ -671,18 +671,22 @@
     {
       "added_at": "2026-05-14 23:00:43",
       "album": {
-        "name": "Hello Miss Johnson",
-        "url": "https://open.spotify.com/album/3MJGcgbroIjiO90yi7RMhy"
+        "name": "Classy Girl",
+        "url": "https://open.spotify.com/album/3zdBXSO8dEkYG5aVPfpOdk"
       },
       "artists": [
         {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+          "name": "Turbo",
+          "url": "https://open.spotify.com/artist/002HSjuWsGMinkXTa7JcRp"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
         }
       ],
-      "duration_ms": 164747,
-      "name": "Hello Miss Johnson",
-      "url": "https://open.spotify.com/track/6gH1UKDAhWS6qXzKXB4wuY"
+      "duration_ms": 173800,
+      "name": "Classy Girl",
+      "url": "https://open.spotify.com/track/5MQw4sDFeFub72PLbRvsZv"
     },
     {
       "added_at": "2026-05-14 23:00:43",
@@ -707,22 +711,18 @@
     {
       "added_at": "2026-05-14 23:00:43",
       "album": {
-        "name": "Classy Girl",
-        "url": "https://open.spotify.com/album/3zdBXSO8dEkYG5aVPfpOdk"
+        "name": "Hello Miss Johnson",
+        "url": "https://open.spotify.com/album/3MJGcgbroIjiO90yi7RMhy"
       },
       "artists": [
         {
-          "name": "Turbo",
-          "url": "https://open.spotify.com/artist/002HSjuWsGMinkXTa7JcRp"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
         }
       ],
-      "duration_ms": 173800,
-      "name": "Classy Girl",
-      "url": "https://open.spotify.com/track/5MQw4sDFeFub72PLbRvsZv"
+      "duration_ms": 164747,
+      "name": "Hello Miss Johnson",
+      "url": "https://open.spotify.com/track/6gH1UKDAhWS6qXzKXB4wuY"
     },
     {
       "added_at": "2026-05-14 23:00:43",

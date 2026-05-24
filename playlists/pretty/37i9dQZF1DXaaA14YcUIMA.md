@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaA14YcUIMA.md) - [plain]
 
 > Anda pa'lante galopante con los grandes del género romántico\. Los Temerarios en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 661,679 likes - 125 songs - 7 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 661,878 likes - 125 songs - 7 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sé Que Te Amo](https://open.spotify.com/track/46HSR9UPHXZxeR7EUvFERG) | [Los Temerarios](https://open.spotify.com/artist/3YbOSxo85kla7RID8ugnW3) | [Una Lágrima No Basta](https://open.spotify.com/album/6mQJfbwCFc2PxT0Kf7k1He) | 4:06 |
 | 2 | [Piensa En Mí](https://open.spotify.com/track/1xKP7GVLY33i5jmx1bB1Kk) | [Grupo Mojado](https://open.spotify.com/artist/28NFZuZbEm7yzMpv1q1Rb7) | [Sueño Y Realidad](https://open.spotify.com/album/3jVJ1fTyUxYdpzb8Pt9V6U) | 2:57 |
 | 3 | [Acepto Mi Derrota](https://open.spotify.com/track/3FKDvQRZImg9cl1jcaQiHX) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Inalcanzable](https://open.spotify.com/album/13UzYROsKbVZF4RZCrMtQF) | 4:08 |
-| 4 | [Algo De Mí](https://open.spotify.com/track/06WecehO0wgP8jJIoCURKl) | [Conjunto Primavera](https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb) | [Algo De Mi](https://open.spotify.com/album/3B9MzXXUxN220d67ev3g6R) | 3:56 |
+| 4 | [Amor Prohibido](https://open.spotify.com/track/4Hmuqk2w1fGqwpMP04aDUu) | [Grupo Bryndis](https://open.spotify.com/artist/44WCHvwXBOMz6nm7Mu2ReO) | [Por El Amor](https://open.spotify.com/album/5ZQ4AmRiuIGuHPf6MmWmxX) | 3:49 |
 | 5 | [Amor Querido](https://open.spotify.com/track/28ybanxKBA9n0zUpqVmB03) | [Los Silver](https://open.spotify.com/artist/6Gq2KFKpQgJgoLPDtxdRtD) | [15 Exitos De Los Silver](https://open.spotify.com/album/02AOEqMXKTeyT91mm7VXx1) | 4:23 |
 | 6 | [Ven Porque Te Necesito](https://open.spotify.com/track/4MNfkZ8dtva3cjJ2biqnDS) | [Los Temerarios](https://open.spotify.com/artist/3YbOSxo85kla7RID8ugnW3) | [Internacionales Y Románticos](https://open.spotify.com/album/5Ze16psciPmtUvLIOLE5D3) | 2:55 |
-| 7 | [Amor Prohibido](https://open.spotify.com/track/4Hmuqk2w1fGqwpMP04aDUu) | [Grupo Bryndis](https://open.spotify.com/artist/44WCHvwXBOMz6nm7Mu2ReO) | [Por El Amor](https://open.spotify.com/album/5ZQ4AmRiuIGuHPf6MmWmxX) | 3:49 |
+| 7 | [Algo De Mí](https://open.spotify.com/track/06WecehO0wgP8jJIoCURKl) | [Conjunto Primavera](https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb) | [Algo De Mi](https://open.spotify.com/album/3B9MzXXUxN220d67ev3g6R) | 3:56 |
 | 8 | [Tu Nunca Lo Sabrás \(Versión Cumbia\)](https://open.spotify.com/track/7nd0pe3OCrz2HfsuYxHmIw) | [Cumbia Pedregal](https://open.spotify.com/artist/5wApHJOjQqf9w4OPesyWca), [Daphne Michelle](https://open.spotify.com/artist/0qYlCbqX7GZhoz1lAm2Ye8) | [Tu Nunca Lo Sabrás \(Versión Cumbia\)](https://open.spotify.com/album/3kZP79R86LZxnLIU1FGcCa) | 3:05 |
 | 9 | [A Donde Vayas](https://open.spotify.com/track/3yb8pakJMZzfiK7siLZLUM) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Y Para Siempre ...](https://open.spotify.com/album/4moS1H6d049CbtVXZwd4rs) | 3:28 |
 | 10 | [Más Que Tu Amigo](https://open.spotify.com/track/1Vy7WUJubV9JEoebuJ9dfe) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Tu Amor O Tu Desprecio](https://open.spotify.com/album/6335RBM5tYZal0oSZm6jvW) | 3:29 |

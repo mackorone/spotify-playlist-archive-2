@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ag5LAAAAAADS3MaS5hotZ4F2W8l1fb0Q",
+  "snapshot_id": "ag+cgAAAAADzqEukcSHTQTDXgmaGQ+r7",
   "tracks": [
     {
       "added_at": null,
@@ -392,13 +392,13 @@
           "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
         },
         {
-          "name": "Shuna",
-          "url": "https://open.spotify.com/artist/13y9HXfV59Fz8veP17VvME"
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
         }
       ],
-      "duration_ms": 141818,
-      "name": "De Longe",
-      "url": "https://open.spotify.com/track/6efKG3I9R3Ygr0CPnOrUEO"
+      "duration_ms": 196981,
+      "name": "Pequenas Coisas",
+      "url": "https://open.spotify.com/track/3LmvNq6ttDNQff9Jr2NwjO"
     },
     {
       "added_at": null,
@@ -464,41 +464,13 @@
           "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
         },
         {
-          "name": "Luedji Luna",
-          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+          "name": "Shuna",
+          "url": "https://open.spotify.com/artist/13y9HXfV59Fz8veP17VvME"
         }
       ],
-      "duration_ms": 196981,
-      "name": "Pequenas Coisas",
-      "url": "https://open.spotify.com/track/3LmvNq6ttDNQff9Jr2NwjO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "N\u00e3o Rimo Por Grammys",
-        "url": "https://open.spotify.com/album/4htJju9wpP413iOJHuOix1"
-      },
-      "artists": [
-        {
-          "name": "Malcolm VL",
-          "url": "https://open.spotify.com/artist/6pJi8PaFlp6aNvOw3e0ONm"
-        },
-        {
-          "name": "Zudizilla",
-          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
-        },
-        {
-          "name": "Ecologyk",
-          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
-        },
-        {
-          "name": "Yangprj",
-          "url": "https://open.spotify.com/artist/2XGt0uPGSSQ0ySEj1cPpwv"
-        }
-      ],
-      "duration_ms": 125648,
-      "name": "N\u00e3o Rimo Por Grammys",
-      "url": "https://open.spotify.com/track/57BVnuRIEXZj4QbhDv26q6"
+      "duration_ms": 141818,
+      "name": "De Longe",
+      "url": "https://open.spotify.com/track/6efKG3I9R3Ygr0CPnOrUEO"
     },
     {
       "added_at": null,
@@ -515,6 +487,22 @@
       "duration_ms": 348097,
       "name": "HORA DOURADA",
       "url": "https://open.spotify.com/track/3tMYT2mytJrmAZMm2SMjlT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Zulu, Vol .1: De Onde Eu Possa Alcan\u00e7ar o C\u00e9u Sem Deixar o Ch\u00e3o",
+        "url": "https://open.spotify.com/album/5bg7LHTHF6NaSUcVDizRsz"
+      },
+      "artists": [
+        {
+          "name": "Zudizilla",
+          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
+        }
+      ],
+      "duration_ms": 232222,
+      "name": "N\u00e3o Sei Se Me Ouvem",
+      "url": "https://open.spotify.com/track/35qEQQP7yqzRlEoYj6zcyM"
     },
     {
       "added_at": null,
@@ -551,18 +539,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Zulu, Vol .1: De Onde Eu Possa Alcan\u00e7ar o C\u00e9u Sem Deixar o Ch\u00e3o",
-        "url": "https://open.spotify.com/album/5bg7LHTHF6NaSUcVDizRsz"
+        "name": "N\u00e3o Rimo Por Grammys",
+        "url": "https://open.spotify.com/album/4htJju9wpP413iOJHuOix1"
       },
       "artists": [
         {
+          "name": "Malcolm VL",
+          "url": "https://open.spotify.com/artist/6pJi8PaFlp6aNvOw3e0ONm"
+        },
+        {
           "name": "Zudizilla",
           "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
+        },
+        {
+          "name": "Ecologyk",
+          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
+        },
+        {
+          "name": "Yangprj",
+          "url": "https://open.spotify.com/artist/2XGt0uPGSSQ0ySEj1cPpwv"
         }
       ],
-      "duration_ms": 232222,
-      "name": "N\u00e3o Sei Se Me Ouvem",
-      "url": "https://open.spotify.com/track/35qEQQP7yqzRlEoYj6zcyM"
+      "duration_ms": 125648,
+      "name": "N\u00e3o Rimo Por Grammys",
+      "url": "https://open.spotify.com/track/57BVnuRIEXZj4QbhDv26q6"
     },
     {
       "added_at": null,
@@ -636,15 +636,15 @@
           "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
         }
       ],
-      "duration_ms": 179304,
-      "name": "Benedito",
-      "url": "https://open.spotify.com/track/0WFNGY9E8j64EPPiZj6F8y"
+      "duration_ms": 194833,
+      "name": "Intro 11",
+      "url": "https://open.spotify.com/track/0ofV1VOIfrxSfrlhFGelpe"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Zulu: de C\u00e9sar a Cristo (Vol.2)",
-        "url": "https://open.spotify.com/album/1LyBmcNMqiFH5KSUgTXVMT"
+        "name": "Le Fauve",
+        "url": "https://open.spotify.com/album/66fHMA9odM1kYnOnqlf1nm"
       },
       "artists": [
         {
@@ -652,9 +652,9 @@
           "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
         }
       ],
-      "duration_ms": 248213,
-      "name": "SALVE",
-      "url": "https://open.spotify.com/track/6fnzv6cH0aiqM6riOitTas"
+      "duration_ms": 175934,
+      "name": "Blas\u00e9",
+      "url": "https://open.spotify.com/track/1iPWKFLGwc4z6giG1JhnDq"
     },
     {
       "added_at": null,
@@ -708,9 +708,25 @@
           "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
         }
       ],
-      "duration_ms": 194833,
-      "name": "Intro 11",
-      "url": "https://open.spotify.com/track/0ofV1VOIfrxSfrlhFGelpe"
+      "duration_ms": 179304,
+      "name": "Benedito",
+      "url": "https://open.spotify.com/track/0WFNGY9E8j64EPPiZj6F8y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Zulu: de C\u00e9sar a Cristo (Vol.2)",
+        "url": "https://open.spotify.com/album/1LyBmcNMqiFH5KSUgTXVMT"
+      },
+      "artists": [
+        {
+          "name": "Zudizilla",
+          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
+        }
+      ],
+      "duration_ms": 248213,
+      "name": "SALVE",
+      "url": "https://open.spotify.com/track/6fnzv6cH0aiqM6riOitTas"
     },
     {
       "added_at": null,
@@ -724,9 +740,9 @@
           "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
         }
       ],
-      "duration_ms": 175934,
-      "name": "Blas\u00e9",
-      "url": "https://open.spotify.com/track/1iPWKFLGwc4z6giG1JhnDq"
+      "duration_ms": 180000,
+      "name": "Nervos de A\u00e7o",
+      "url": "https://open.spotify.com/track/3mmj5RI8x5RABwiYuA2xtE"
     },
     {
       "added_at": null,
@@ -800,9 +816,9 @@
           "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Nervos de A\u00e7o",
-      "url": "https://open.spotify.com/track/3mmj5RI8x5RABwiYuA2xtE"
+      "duration_ms": 173285,
+      "name": "Um Pouco Mais",
+      "url": "https://open.spotify.com/track/1cSnXmpnBWrYLeXXVTDiHY"
     },
     {
       "added_at": null,
@@ -880,9 +896,9 @@
           "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
         }
       ],
-      "duration_ms": 173285,
-      "name": "Um Pouco Mais",
-      "url": "https://open.spotify.com/track/1cSnXmpnBWrYLeXXVTDiHY"
+      "duration_ms": 166160,
+      "name": "Seda",
+      "url": "https://open.spotify.com/track/4FKozZpmF32Iv4LzHhuO12"
     },
     {
       "added_at": null,
@@ -960,37 +976,9 @@
           "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
         }
       ],
-      "duration_ms": 166160,
-      "name": "Seda",
-      "url": "https://open.spotify.com/track/4FKozZpmF32Iv4LzHhuO12"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hip Hop Machine Temporada 2",
-        "url": "https://open.spotify.com/album/5H5GGraw2Bn43x6KvaOVRI"
-      },
-      "artists": [
-        {
-          "name": "Leo Gandelman",
-          "url": "https://open.spotify.com/artist/7q1dPac1mIOp9NZX12ApbW"
-        },
-        {
-          "name": "Machine Series",
-          "url": "https://open.spotify.com/artist/1xu1L93nrtesFrEuWRTqJG"
-        },
-        {
-          "name": "Stefanie",
-          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
-        },
-        {
-          "name": "Zudizilla",
-          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
-        }
-      ],
-      "duration_ms": 348314,
-      "name": "Raio De Sol",
-      "url": "https://open.spotify.com/track/1A60gepW790C5S9JKATGQB"
+      "duration_ms": 162684,
+      "name": "PSLS",
+      "url": "https://open.spotify.com/track/4wsfiMI70QpNwZoI8qWoIS"
     }
   ],
   "unique_name": "This Is Zudizilla",

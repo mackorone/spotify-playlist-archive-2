@@ -1,6 +1,6 @@
 {
   "description": "The irresistible rhythms of Latin jazz. Gracias por la m\u00fasica, Eddie Palmieri \ud83d\udd4a\ufe0f",
-  "num_followers": 514245,
+  "num_followers": 514278,
   "original_name": "Latin Jazz",
   "owner": {
     "name": "Spotify",
@@ -723,22 +723,6 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
-        "name": "Timba a la Americana",
-        "url": "https://open.spotify.com/album/09Cqpp4cQW3BaJcGFnru5C"
-      },
-      "artists": [
-        {
-          "name": "Harold L\u00f3pez-Nussa",
-          "url": "https://open.spotify.com/artist/0Idg159PTZKon9ZGAeCLjR"
-        }
-      ],
-      "duration_ms": 193342,
-      "name": "Conga a la Americana",
-      "url": "https://open.spotify.com/track/4SdIbOx6RHIYlRRnWCkeiH"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
         "name": "Keeper Of The Flame",
         "url": "https://open.spotify.com/album/3e4bAbCTZq7nvw62WuFgOH"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 247693,
       "name": "A Night In Tunisia",
       "url": "https://open.spotify.com/track/5wRMcNaW1pCQjBIAw7ZY5t"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
+        "name": "Timba a la Americana",
+        "url": "https://open.spotify.com/album/09Cqpp4cQW3BaJcGFnru5C"
+      },
+      "artists": [
+        {
+          "name": "Harold L\u00f3pez-Nussa",
+          "url": "https://open.spotify.com/artist/0Idg159PTZKon9ZGAeCLjR"
+        }
+      ],
+      "duration_ms": 193342,
+      "name": "Conga a la Americana",
+      "url": "https://open.spotify.com/track/4SdIbOx6RHIYlRRnWCkeiH"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -1323,38 +1323,6 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
-        "name": "Big Band Urban Folktales",
-        "url": "https://open.spotify.com/album/7Bj8SyKhqNdNqm8tPPu4Zr"
-      },
-      "artists": [
-        {
-          "name": "Bobby Sanabria",
-          "url": "https://open.spotify.com/artist/6U28NQEcAzzjAaXyNUCpVF"
-        }
-      ],
-      "duration_ms": 440600,
-      "name": "El Lider",
-      "url": "https://open.spotify.com/track/1Q3cBlznAETrtKJrS6TSzr"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
-        "name": "Enchantment",
-        "url": "https://open.spotify.com/album/3NaX3LlcZvDgsUoscFGOfY"
-      },
-      "artists": [
-        {
-          "name": "Hilton Ruiz",
-          "url": "https://open.spotify.com/artist/7uUrPQUnxCoQusOAh5I0D1"
-        }
-      ],
-      "duration_ms": 131386,
-      "name": "Seven Steps To Heaven",
-      "url": "https://open.spotify.com/track/5JPGaCstRDwLekgNkgK9cK"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
         "name": "Una Noche Con Rub\u00e9n Blades",
         "url": "https://open.spotify.com/album/3iptT1nxZTR7fX4Cf8KHbJ"
       },
@@ -1379,18 +1347,34 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
-        "name": "Todas Las Voces",
-        "url": "https://open.spotify.com/album/7IMCnusXQEtCVuELxrg36l"
+        "name": "Enchantment",
+        "url": "https://open.spotify.com/album/3NaX3LlcZvDgsUoscFGOfY"
       },
       "artists": [
         {
-          "name": "Eva Cort\u00e9s",
-          "url": "https://open.spotify.com/artist/3bhEsDpEObrkM1IM4PRmvw"
+          "name": "Hilton Ruiz",
+          "url": "https://open.spotify.com/artist/7uUrPQUnxCoQusOAh5I0D1"
         }
       ],
-      "duration_ms": 220800,
-      "name": "S\u00f3lo Le Pido a Dios",
-      "url": "https://open.spotify.com/track/3BLiALx9MnXON8NAmLKJzr"
+      "duration_ms": 131386,
+      "name": "Seven Steps To Heaven",
+      "url": "https://open.spotify.com/track/5JPGaCstRDwLekgNkgK9cK"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
+        "name": "Big Band Urban Folktales",
+        "url": "https://open.spotify.com/album/7Bj8SyKhqNdNqm8tPPu4Zr"
+      },
+      "artists": [
+        {
+          "name": "Bobby Sanabria",
+          "url": "https://open.spotify.com/artist/6U28NQEcAzzjAaXyNUCpVF"
+        }
+      ],
+      "duration_ms": 440600,
+      "name": "El Lider",
+      "url": "https://open.spotify.com/track/1Q3cBlznAETrtKJrS6TSzr"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -1407,6 +1391,22 @@
       "duration_ms": 209760,
       "name": "El Suelo Mio",
       "url": "https://open.spotify.com/track/4C3nxAQpqNoCTQat7Wdy4t"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
+        "name": "Todas Las Voces",
+        "url": "https://open.spotify.com/album/7IMCnusXQEtCVuELxrg36l"
+      },
+      "artists": [
+        {
+          "name": "Eva Cort\u00e9s",
+          "url": "https://open.spotify.com/artist/3bhEsDpEObrkM1IM4PRmvw"
+        }
+      ],
+      "duration_ms": 220800,
+      "name": "S\u00f3lo Le Pido a Dios",
+      "url": "https://open.spotify.com/track/3BLiALx9MnXON8NAmLKJzr"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
+        "name": "Colob\u00f3",
+        "url": "https://open.spotify.com/album/28uSFqiSMUzZyQOrD7IEA5"
+      },
+      "artists": [
+        {
+          "name": "Miguel Zen\u00f3n",
+          "url": "https://open.spotify.com/artist/16ZWHAtASUfHWkdT9NMXMj"
+        }
+      ],
+      "duration_ms": 359335,
+      "name": "Colob\u00f3",
+      "url": "https://open.spotify.com/track/43BkOsYBrtPJZSOWahpe7Q"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
         "name": "Te Escucho",
         "url": "https://open.spotify.com/album/4YKvsvmt6eSImzRk33GtS8"
       },
@@ -1491,22 +1507,6 @@
       "duration_ms": 230550,
       "name": "Te Escucho",
       "url": "https://open.spotify.com/track/4h7TaUKl9oPS6c7mvnFgF7"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
-        "name": "Colob\u00f3",
-        "url": "https://open.spotify.com/album/28uSFqiSMUzZyQOrD7IEA5"
-      },
-      "artists": [
-        {
-          "name": "Miguel Zen\u00f3n",
-          "url": "https://open.spotify.com/artist/16ZWHAtASUfHWkdT9NMXMj"
-        }
-      ],
-      "duration_ms": 359335,
-      "name": "Colob\u00f3",
-      "url": "https://open.spotify.com/track/43BkOsYBrtPJZSOWahpe7Q"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -1547,26 +1547,6 @@
       "duration_ms": 427106,
       "name": "Palabras para Nombrarte",
       "url": "https://open.spotify.com/track/2eupFPL10HymH4hjkwwuoK"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
-        "name": "Tatomania",
-        "url": "https://open.spotify.com/album/2DphcE8z7lMDmGzYBcwqf9"
-      },
-      "artists": [
-        {
-          "name": "Chucho Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp"
-        },
-        {
-          "name": "Royal Quartet",
-          "url": "https://open.spotify.com/artist/3ahem2BMD7mqwGTwKjS1LD"
-        }
-      ],
-      "duration_ms": 258281,
-      "name": "Tatomania",
-      "url": "https://open.spotify.com/track/3cl6XYDzDz99aCSGPhKRMI"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -1615,18 +1595,22 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
-        "name": "Yesun",
-        "url": "https://open.spotify.com/album/3NUVKuL8a2JJHyKTCYNPYQ"
+        "name": "Raise up off Me",
+        "url": "https://open.spotify.com/album/49qisly3p7r0M8olieO1D8"
       },
       "artists": [
         {
-          "name": "Roberto Fonseca",
-          "url": "https://open.spotify.com/artist/0Yi6vOMIP1cqp8WppadgOu"
+          "name": "Ralph Peterson",
+          "url": "https://open.spotify.com/artist/1vTCrjGTHg84CihmLX5Hi7"
+        },
+        {
+          "name": "Eguie Castrillo",
+          "url": "https://open.spotify.com/artist/2o8Ic3nnJg47sAw7xcxEW4"
         }
       ],
-      "duration_ms": 166974,
-      "name": "Aggua",
-      "url": "https://open.spotify.com/track/6scdgIcbzG09jLxx7esSIF"
+      "duration_ms": 354049,
+      "name": "Blue Hughes",
+      "url": "https://open.spotify.com/track/6d83fOPssWlHzDmc6MnBS8"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -1667,22 +1651,22 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
-        "name": "Raise up off Me",
-        "url": "https://open.spotify.com/album/49qisly3p7r0M8olieO1D8"
+        "name": "Tatomania",
+        "url": "https://open.spotify.com/album/2DphcE8z7lMDmGzYBcwqf9"
       },
       "artists": [
         {
-          "name": "Ralph Peterson",
-          "url": "https://open.spotify.com/artist/1vTCrjGTHg84CihmLX5Hi7"
+          "name": "Chucho Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp"
         },
         {
-          "name": "Eguie Castrillo",
-          "url": "https://open.spotify.com/artist/2o8Ic3nnJg47sAw7xcxEW4"
+          "name": "Royal Quartet",
+          "url": "https://open.spotify.com/artist/3ahem2BMD7mqwGTwKjS1LD"
         }
       ],
-      "duration_ms": 354049,
-      "name": "Blue Hughes",
-      "url": "https://open.spotify.com/track/6d83fOPssWlHzDmc6MnBS8"
+      "duration_ms": 258281,
+      "name": "Tatomania",
+      "url": "https://open.spotify.com/track/3cl6XYDzDz99aCSGPhKRMI"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -1703,6 +1687,22 @@
       "duration_ms": 256266,
       "name": "Chamber Timba",
       "url": "https://open.spotify.com/track/6by7enSlSy1OqK8x1830sN"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
+        "name": "Yesun",
+        "url": "https://open.spotify.com/album/3NUVKuL8a2JJHyKTCYNPYQ"
+      },
+      "artists": [
+        {
+          "name": "Roberto Fonseca",
+          "url": "https://open.spotify.com/artist/0Yi6vOMIP1cqp8WppadgOu"
+        }
+      ],
+      "duration_ms": 166974,
+      "name": "Aggua",
+      "url": "https://open.spotify.com/track/6scdgIcbzG09jLxx7esSIF"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -1819,22 +1819,18 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
-        "name": "Yesun",
-        "url": "https://open.spotify.com/album/3NUVKuL8a2JJHyKTCYNPYQ"
+        "name": "Border-Free",
+        "url": "https://open.spotify.com/album/0Xgi6Q0v2Xc4Do7vn98OWM"
       },
       "artists": [
         {
-          "name": "Roberto Fonseca",
-          "url": "https://open.spotify.com/artist/0Yi6vOMIP1cqp8WppadgOu"
-        },
-        {
-          "name": "Ibrahim Maalouf",
-          "url": "https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb"
+          "name": "Chucho Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp"
         }
       ],
-      "duration_ms": 251445,
-      "name": "Kachucha",
-      "url": "https://open.spotify.com/track/0Ym5f839BECkv2WthRG26s"
+      "duration_ms": 549366,
+      "name": "Congadanza",
+      "url": "https://open.spotify.com/track/2WAc2I5nwTKkBL5QB1fAdB"
     }
   ],
   "unique_name": "Latin Jazz",

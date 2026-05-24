@@ -1,12 +1,12 @@
 {
   "description": "This is Lou Rawls. The essential tracks, all in one playlist.",
-  "num_followers": 12813,
+  "num_followers": 12816,
   "original_name": "This Is Lou Rawls",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ag5LAAAAAAB6C96/4dURj7E3ugl8fCge",
+  "snapshot_id": "ag+cgAAAAABJSNQDeYdLdBrry+OdSOFV",
   "tracks": [
     {
       "added_at": null,
@@ -355,8 +355,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "All Things In Time",
-        "url": "https://open.spotify.com/album/3JWeH3xgkigYvXdNQCFx1m"
+        "name": "Blue Note Plays Bossa Nova",
+        "url": "https://open.spotify.com/album/6dsdyyYjxktA7E79DNBowM"
       },
       "artists": [
         {
@@ -364,9 +364,9 @@
           "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
         }
       ],
-      "duration_ms": 305053,
-      "name": "This Song Will Last Forever",
-      "url": "https://open.spotify.com/track/4iuXDdLvdWLg5hSHz90ii2"
+      "duration_ms": 263200,
+      "name": "The Girl From Ipanema - Live",
+      "url": "https://open.spotify.com/track/6nDJRsqTMNl3jTFKTk6TI9"
     },
     {
       "added_at": null,
@@ -387,8 +387,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blue Note Plays Bossa Nova",
-        "url": "https://open.spotify.com/album/6dsdyyYjxktA7E79DNBowM"
+        "name": "All Things In Time",
+        "url": "https://open.spotify.com/album/3JWeH3xgkigYvXdNQCFx1m"
       },
       "artists": [
         {
@@ -396,9 +396,9 @@
           "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
         }
       ],
-      "duration_ms": 263200,
-      "name": "The Girl From Ipanema - Live",
-      "url": "https://open.spotify.com/track/6nDJRsqTMNl3jTFKTk6TI9"
+      "duration_ms": 305053,
+      "name": "This Song Will Last Forever",
+      "url": "https://open.spotify.com/track/4iuXDdLvdWLg5hSHz90ii2"
     },
     {
       "added_at": null,
@@ -435,22 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sit Down and Talk to Me",
-        "url": "https://open.spotify.com/album/0ptfSwqXv2Jm93lXyY2bXD"
-      },
-      "artists": [
-        {
-          "name": "Lou Rawls",
-          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
-        }
-      ],
-      "duration_ms": 293213,
-      "name": "Sit Down and Talk to Me",
-      "url": "https://open.spotify.com/track/4JTp5ZdVqCqJmBSNzJhn7X"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Essential Lou Rawls",
         "url": "https://open.spotify.com/album/6vhHreCbPvwLXDreRFHcdG"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 209040,
       "name": "She's Gone",
       "url": "https://open.spotify.com/track/6adeIKKnnqB7MwfFeZgYVz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sit Down and Talk to Me",
+        "url": "https://open.spotify.com/album/0ptfSwqXv2Jm93lXyY2bXD"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "duration_ms": 293213,
+      "name": "Sit Down and Talk to Me",
+      "url": "https://open.spotify.com/track/4JTp5ZdVqCqJmBSNzJhn7X"
     },
     {
       "added_at": null,
@@ -499,22 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Best Of Lou Rawls - The Capitol Jazz & Blues Sessions",
-        "url": "https://open.spotify.com/album/6pxkv1dxkTshid2V0MBGrp"
-      },
-      "artists": [
-        {
-          "name": "Lou Rawls",
-          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
-        }
-      ],
-      "duration_ms": 183440,
-      "name": "Let's Burn Down The Cornfield - 2006 Remaster",
-      "url": "https://open.spotify.com/track/75gpgVKbgapGmVfgNcA7Vu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Essential Lou Rawls",
         "url": "https://open.spotify.com/album/6vhHreCbPvwLXDreRFHcdG"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 339160,
       "name": "Early Morning Love",
       "url": "https://open.spotify.com/track/77SdpzxMVJIjpYkrObUHdP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Best Of Lou Rawls - The Capitol Jazz & Blues Sessions",
+        "url": "https://open.spotify.com/album/6pxkv1dxkTshid2V0MBGrp"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "duration_ms": 183440,
+      "name": "Let's Burn Down The Cornfield - 2006 Remaster",
+      "url": "https://open.spotify.com/track/75gpgVKbgapGmVfgNcA7Vu"
     },
     {
       "added_at": null,
@@ -675,6 +675,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Anthology-Lou Rawls",
+        "url": "https://open.spotify.com/album/6RZbUqqODcPvuxw6zAD5fX"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "A Whole Lotta Woman - Digitally Remastered 00",
+      "url": "https://open.spotify.com/track/5Nz0stfqxqsfynmfwCtv0E"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Shades of Blue",
         "url": "https://open.spotify.com/album/6thOuxCNeHuZpvyw90JlnN"
       },
@@ -747,6 +763,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lou Rawls - The Very Best Of",
+        "url": "https://open.spotify.com/album/0fHzoR2PfTW5FhpVBcNJVN"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "duration_ms": 232826,
+      "name": "Wind Beneath My Wings - Single Version",
+      "url": "https://open.spotify.com/track/3U5Lm60H6RteX9C0dpi7QT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Brotherman!: Lou Rawls Sings His Hits",
         "url": "https://open.spotify.com/album/2dQjiU3OspVulLuFoGXBvI"
       },
@@ -775,38 +807,6 @@
       "duration_ms": 291173,
       "name": "You Are",
       "url": "https://open.spotify.com/track/4lWVcoQHCX8UJJfTJJsQTw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lou Rawls - The Very Best Of",
-        "url": "https://open.spotify.com/album/0fHzoR2PfTW5FhpVBcNJVN"
-      },
-      "artists": [
-        {
-          "name": "Lou Rawls",
-          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
-        }
-      ],
-      "duration_ms": 232826,
-      "name": "Wind Beneath My Wings - Single Version",
-      "url": "https://open.spotify.com/track/3U5Lm60H6RteX9C0dpi7QT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Anthology-Lou Rawls",
-        "url": "https://open.spotify.com/album/6RZbUqqODcPvuxw6zAD5fX"
-      },
-      "artists": [
-        {
-          "name": "Lou Rawls",
-          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "A Whole Lotta Woman - Digitally Remastered 00",
-      "url": "https://open.spotify.com/track/5Nz0stfqxqsfynmfwCtv0E"
     },
     {
       "added_at": null,

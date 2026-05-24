@@ -1,6 +1,6 @@
 {
   "description": "For those who like a little bit of coffee with their Jesus.",
-  "num_followers": 398476,
+  "num_followers": 398503,
   "original_name": "Christian Coffeehouse",
   "owner": {
     "name": "Spotify",
@@ -591,22 +591,6 @@
     {
       "added_at": "2026-04-17 06:57:58",
       "album": {
-        "name": "Can\u2019t Keep A Secret",
-        "url": "https://open.spotify.com/album/1aKlGxC90P7YDKJfYAat5Y"
-      },
-      "artists": [
-        {
-          "name": "Amanda Nolan",
-          "url": "https://open.spotify.com/artist/1M62wAGkipCrvniBF6ZCa8"
-        }
-      ],
-      "duration_ms": 150987,
-      "name": "Can\u2019t Keep A Secret",
-      "url": "https://open.spotify.com/track/6YiUHNjJDJaAJCBaBG0lBZ"
-    },
-    {
-      "added_at": "2026-04-17 06:57:58",
-      "album": {
         "name": "ALL IN",
         "url": "https://open.spotify.com/album/0ufAJeSRDZQYsElU1kBtI1"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 170278,
       "name": "ALL IN",
       "url": "https://open.spotify.com/track/1DasxICuJeUkJXAMMiVIxW"
+    },
+    {
+      "added_at": "2026-04-17 06:57:58",
+      "album": {
+        "name": "Can\u2019t Keep A Secret",
+        "url": "https://open.spotify.com/album/1aKlGxC90P7YDKJfYAat5Y"
+      },
+      "artists": [
+        {
+          "name": "Amanda Nolan",
+          "url": "https://open.spotify.com/artist/1M62wAGkipCrvniBF6ZCa8"
+        }
+      ],
+      "duration_ms": 150987,
+      "name": "Can\u2019t Keep A Secret",
+      "url": "https://open.spotify.com/track/6YiUHNjJDJaAJCBaBG0lBZ"
     },
     {
       "added_at": "2026-04-17 06:57:58",
@@ -671,6 +671,26 @@
       "duration_ms": 180015,
       "name": "Calling Me Home",
       "url": "https://open.spotify.com/track/6M31tD9sFCe7Myvo3iQHJZ"
+    },
+    {
+      "added_at": "2026-04-17 06:57:58",
+      "album": {
+        "name": "EAT",
+        "url": "https://open.spotify.com/album/0USg7yhc0M9kTNDlzcMU7K"
+      },
+      "artists": [
+        {
+          "name": "Brooke Ligertwood",
+          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
+        },
+        {
+          "name": "Victory",
+          "url": "https://open.spotify.com/artist/16lrbkOHEyh1SXN2FP9Xmr"
+        }
+      ],
+      "duration_ms": 214535,
+      "name": "The Water",
+      "url": "https://open.spotify.com/track/1sbNbrhXGfamKxnoBP0JWI"
     },
     {
       "added_at": "2026-04-17 06:57:58",
@@ -747,46 +767,6 @@
     {
       "added_at": "2026-04-17 06:57:58",
       "album": {
-        "name": "It Is Well",
-        "url": "https://open.spotify.com/album/1NJbyEjXlMh6tS3sUDvU5W"
-      },
-      "artists": [
-        {
-          "name": "Kings Kaleidoscope",
-          "url": "https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A"
-        },
-        {
-          "name": "Kings Kaleidoscope Hymns",
-          "url": "https://open.spotify.com/artist/0phpMB8IBPaSPxDtz95eG7"
-        }
-      ],
-      "duration_ms": 239200,
-      "name": "It Is Well",
-      "url": "https://open.spotify.com/track/237DdGVbH6tq0L3HGnFjbx"
-    },
-    {
-      "added_at": "2026-04-17 06:57:58",
-      "album": {
-        "name": "EAT",
-        "url": "https://open.spotify.com/album/0USg7yhc0M9kTNDlzcMU7K"
-      },
-      "artists": [
-        {
-          "name": "Brooke Ligertwood",
-          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
-        },
-        {
-          "name": "Victory",
-          "url": "https://open.spotify.com/artist/16lrbkOHEyh1SXN2FP9Xmr"
-        }
-      ],
-      "duration_ms": 214535,
-      "name": "The Water",
-      "url": "https://open.spotify.com/track/1sbNbrhXGfamKxnoBP0JWI"
-    },
-    {
-      "added_at": "2026-04-17 06:57:58",
-      "album": {
         "name": "The Reminder",
         "url": "https://open.spotify.com/album/3x29opvwVFDFXpxRzNzgYp"
       },
@@ -815,6 +795,26 @@
       "duration_ms": 187303,
       "name": "good grief!",
       "url": "https://open.spotify.com/track/1Uj1wrgaz5Lt5yejefdxI7"
+    },
+    {
+      "added_at": "2026-04-17 06:57:58",
+      "album": {
+        "name": "It Is Well",
+        "url": "https://open.spotify.com/album/1NJbyEjXlMh6tS3sUDvU5W"
+      },
+      "artists": [
+        {
+          "name": "Kings Kaleidoscope",
+          "url": "https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A"
+        },
+        {
+          "name": "Kings Kaleidoscope Hymns",
+          "url": "https://open.spotify.com/artist/0phpMB8IBPaSPxDtz95eG7"
+        }
+      ],
+      "duration_ms": 239200,
+      "name": "It Is Well",
+      "url": "https://open.spotify.com/track/237DdGVbH6tq0L3HGnFjbx"
     },
     {
       "added_at": "2026-04-17 06:57:58",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2026-04-17 06:57:58",
       "album": {
-        "name": "LOVER",
-        "url": "https://open.spotify.com/album/3NkS2GvxK92mCRj3uZqUeE"
-      },
-      "artists": [
-        {
-          "name": "Sondae",
-          "url": "https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "LOVER",
-      "url": "https://open.spotify.com/track/7HAbiaGuKiebH5AE3xSNzZ"
-    },
-    {
-      "added_at": "2026-04-17 06:57:58",
-      "album": {
         "name": "best thing",
         "url": "https://open.spotify.com/album/3cReeK55hE5LnvhpLA8kh9"
       },
@@ -1175,6 +1159,22 @@
     {
       "added_at": "2026-04-17 06:57:58",
       "album": {
+        "name": "LOVER",
+        "url": "https://open.spotify.com/album/3NkS2GvxK92mCRj3uZqUeE"
+      },
+      "artists": [
+        {
+          "name": "Sondae",
+          "url": "https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "LOVER",
+      "url": "https://open.spotify.com/track/7HAbiaGuKiebH5AE3xSNzZ"
+    },
+    {
+      "added_at": "2026-04-17 06:57:58",
+      "album": {
         "name": "when i think about my jesus",
         "url": "https://open.spotify.com/album/63lc6UbvqqCLjBej27ovMW"
       },
@@ -1187,22 +1187,6 @@
       "duration_ms": 210054,
       "name": "when i think about my jesus",
       "url": "https://open.spotify.com/track/2zTq9WcEIZ41YP4KluCgqT"
-    },
-    {
-      "added_at": "2026-04-17 06:57:58",
-      "album": {
-        "name": "Reach Out",
-        "url": "https://open.spotify.com/album/0CWgKwjftxN11Fay8KOjmB"
-      },
-      "artists": [
-        {
-          "name": "D\u00e2mares Gomes",
-          "url": "https://open.spotify.com/artist/5vH1WRgVmc2mwF0iXgOibC"
-        }
-      ],
-      "duration_ms": 199666,
-      "name": "Reach Out",
-      "url": "https://open.spotify.com/track/5RnGsbzXKi1zAoI35mQqAz"
     },
     {
       "added_at": "2026-04-17 06:57:58",
@@ -1227,22 +1211,18 @@
     {
       "added_at": "2026-04-17 06:57:58",
       "album": {
-        "name": "Waiting For You (feat. Reggie Dartey)",
-        "url": "https://open.spotify.com/album/3OP5lchVXZ5LjpmTwqk3Rt"
+        "name": "Reach Out",
+        "url": "https://open.spotify.com/album/0CWgKwjftxN11Fay8KOjmB"
       },
       "artists": [
         {
-          "name": "Bnnyhunna",
-          "url": "https://open.spotify.com/artist/13itA83Wg0KCCk1odzFFpD"
-        },
-        {
-          "name": "Reggie Dartey",
-          "url": "https://open.spotify.com/artist/2hDO9Hvuh8vrSCYm3yRBui"
+          "name": "D\u00e2mares Gomes",
+          "url": "https://open.spotify.com/artist/5vH1WRgVmc2mwF0iXgOibC"
         }
       ],
-      "duration_ms": 198894,
-      "name": "Waiting For You (feat. Reggie Dartey)",
-      "url": "https://open.spotify.com/track/4fnTe6QJgXrZtLrTUuCo3M"
+      "duration_ms": 199666,
+      "name": "Reach Out",
+      "url": "https://open.spotify.com/track/5RnGsbzXKi1zAoI35mQqAz"
     },
     {
       "added_at": "2026-04-17 06:57:58",
@@ -1259,6 +1239,26 @@
       "duration_ms": 262213,
       "name": "Be My Glory",
       "url": "https://open.spotify.com/track/3pMmt4q1EBrJlHZ874TC4s"
+    },
+    {
+      "added_at": "2026-04-17 06:57:58",
+      "album": {
+        "name": "Waiting For You (feat. Reggie Dartey)",
+        "url": "https://open.spotify.com/album/3OP5lchVXZ5LjpmTwqk3Rt"
+      },
+      "artists": [
+        {
+          "name": "Bnnyhunna",
+          "url": "https://open.spotify.com/artist/13itA83Wg0KCCk1odzFFpD"
+        },
+        {
+          "name": "Reggie Dartey",
+          "url": "https://open.spotify.com/artist/2hDO9Hvuh8vrSCYm3yRBui"
+        }
+      ],
+      "duration_ms": 198894,
+      "name": "Waiting For You (feat. Reggie Dartey)",
+      "url": "https://open.spotify.com/track/4fnTe6QJgXrZtLrTUuCo3M"
     },
     {
       "added_at": "2026-04-17 06:57:58",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2026-04-17 06:57:58",
       "album": {
+        "name": "Seasons",
+        "url": "https://open.spotify.com/album/0kx2b0TYDAj9oA9JVi8jdN"
+      },
+      "artists": [
+        {
+          "name": "Ri-An",
+          "url": "https://open.spotify.com/artist/0q8s2UD3GPKFfYuXWbvRVo"
+        }
+      ],
+      "duration_ms": 181119,
+      "name": "Seasons",
+      "url": "https://open.spotify.com/track/2yfww2fXM4qCZVUSw6iSQ8"
+    },
+    {
+      "added_at": "2026-04-17 06:57:58",
+      "album": {
         "name": "How Can I Help A Friend",
         "url": "https://open.spotify.com/album/2DQKbOewFwgxFCQLL5n7Yo"
       },
@@ -1315,22 +1331,6 @@
     {
       "added_at": "2026-04-17 06:57:58",
       "album": {
-        "name": "Seasons",
-        "url": "https://open.spotify.com/album/0kx2b0TYDAj9oA9JVi8jdN"
-      },
-      "artists": [
-        {
-          "name": "Ri-An",
-          "url": "https://open.spotify.com/artist/0q8s2UD3GPKFfYuXWbvRVo"
-        }
-      ],
-      "duration_ms": 181119,
-      "name": "Seasons",
-      "url": "https://open.spotify.com/track/2yfww2fXM4qCZVUSw6iSQ8"
-    },
-    {
-      "added_at": "2026-04-17 06:57:58",
-      "album": {
         "name": "Everyday Things",
         "url": "https://open.spotify.com/album/2hVIe10mQNzdmk3MF5Nu0s"
       },
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2026-04-17 06:57:58",
       "album": {
+        "name": "breakups with best friends",
+        "url": "https://open.spotify.com/album/2v7fckBFQ46D4UeuwQsKMu"
+      },
+      "artists": [
+        {
+          "name": "Zoe Levert",
+          "url": "https://open.spotify.com/artist/0f7KVpp4sPg1v2EzCwTmD8"
+        }
+      ],
+      "duration_ms": 202893,
+      "name": "breakups with best friends",
+      "url": "https://open.spotify.com/track/7lFGWkqlouBpadg5ylbh7u"
+    },
+    {
+      "added_at": "2026-04-17 06:57:58",
+      "album": {
         "name": "UNION",
         "url": "https://open.spotify.com/album/0NNV9E7n3DiKP7bUZxXo20"
       },
@@ -1359,22 +1375,6 @@
       "duration_ms": 246170,
       "name": "UNION",
       "url": "https://open.spotify.com/track/1hUMw4pYM4Gy5xDGC4TaNZ"
-    },
-    {
-      "added_at": "2026-04-17 06:57:58",
-      "album": {
-        "name": "Prayer Journal III",
-        "url": "https://open.spotify.com/album/6iYXtoRxXbSTxFGvJNs7nv"
-      },
-      "artists": [
-        {
-          "name": "River Valley AGES",
-          "url": "https://open.spotify.com/artist/3Y44hdG7tljyluN4wv9j5h"
-        }
-      ],
-      "duration_ms": 217627,
-      "name": "what's not to love?",
-      "url": "https://open.spotify.com/track/6or7mxmaOGL3vyWs1s5pqp"
     },
     {
       "added_at": "2026-04-17 06:57:58",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2026-04-17 06:57:58",
       "album": {
+        "name": "Prayer Journal III",
+        "url": "https://open.spotify.com/album/6iYXtoRxXbSTxFGvJNs7nv"
+      },
+      "artists": [
+        {
+          "name": "River Valley AGES",
+          "url": "https://open.spotify.com/artist/3Y44hdG7tljyluN4wv9j5h"
+        }
+      ],
+      "duration_ms": 217627,
+      "name": "what's not to love?",
+      "url": "https://open.spotify.com/track/6or7mxmaOGL3vyWs1s5pqp"
+    },
+    {
+      "added_at": "2026-04-17 06:57:58",
+      "album": {
         "name": "I See the Birds",
         "url": "https://open.spotify.com/album/0VJ9aAYXGKg7DtsPMPFYqz"
       },
@@ -1415,22 +1431,6 @@
       "duration_ms": 243808,
       "name": "I See the Birds",
       "url": "https://open.spotify.com/track/6iIZLd29ZRRnan0gqYrpsv"
-    },
-    {
-      "added_at": "2026-04-17 06:57:58",
-      "album": {
-        "name": "breakups with best friends",
-        "url": "https://open.spotify.com/album/2v7fckBFQ46D4UeuwQsKMu"
-      },
-      "artists": [
-        {
-          "name": "Zoe Levert",
-          "url": "https://open.spotify.com/artist/0f7KVpp4sPg1v2EzCwTmD8"
-        }
-      ],
-      "duration_ms": 202893,
-      "name": "breakups with best friends",
-      "url": "https://open.spotify.com/track/7lFGWkqlouBpadg5ylbh7u"
     },
     {
       "added_at": "2026-04-17 06:57:58",
@@ -1503,18 +1503,18 @@
     {
       "added_at": "2026-04-17 06:57:58",
       "album": {
-        "name": "interlude ellipsis",
-        "url": "https://open.spotify.com/album/2zJPJQt07jXEneZWIEJfNl"
+        "name": "Found in You",
+        "url": "https://open.spotify.com/album/4jmDf4lrzi1fHKIbWIplxe"
       },
       "artists": [
         {
-          "name": "Matt Crocker",
-          "url": "https://open.spotify.com/artist/6vGCQS2VmikoQOsXgFN3Ec"
+          "name": "C\u00e8Jae",
+          "url": "https://open.spotify.com/artist/15AlBadiR2gLPibtqELUH3"
         }
       ],
-      "duration_ms": 182168,
-      "name": "walk into the light",
-      "url": "https://open.spotify.com/track/5M92wDH3MFb1MgVSLS2GOy"
+      "duration_ms": 162677,
+      "name": "Found in You",
+      "url": "https://open.spotify.com/track/4laQ1iAAsNgyyKetbee9O0"
     },
     {
       "added_at": "2026-04-17 06:57:58",
@@ -1535,18 +1535,58 @@
     {
       "added_at": "2026-04-17 06:57:58",
       "album": {
-        "name": "Found in You",
-        "url": "https://open.spotify.com/album/4jmDf4lrzi1fHKIbWIplxe"
+        "name": "His World",
+        "url": "https://open.spotify.com/album/0uenSlwqsbQEN4QqDN4qvq"
       },
       "artists": [
         {
-          "name": "C\u00e8Jae",
-          "url": "https://open.spotify.com/artist/15AlBadiR2gLPibtqELUH3"
+          "name": "Allie Paige",
+          "url": "https://open.spotify.com/artist/7qNEZ5VvIV5TPMmNaSZjDl"
         }
       ],
-      "duration_ms": 162677,
-      "name": "Found in You",
-      "url": "https://open.spotify.com/track/4laQ1iAAsNgyyKetbee9O0"
+      "duration_ms": 267282,
+      "name": "Wings",
+      "url": "https://open.spotify.com/track/0pNTmhJMiheKKVjaOTwxbC"
+    },
+    {
+      "added_at": "2026-04-17 06:57:58",
+      "album": {
+        "name": "Like The Prodigal (Come Home)",
+        "url": "https://open.spotify.com/album/68N0FwU3ser9k5veW6JAGQ"
+      },
+      "artists": [
+        {
+          "name": "Ian Austin",
+          "url": "https://open.spotify.com/artist/1WP9r8KcRsPprUUHgH0lEd"
+        },
+        {
+          "name": "Brice Davis",
+          "url": "https://open.spotify.com/artist/1b1HAA4FKPRckylVMBY9PM"
+        }
+      ],
+      "duration_ms": 281375,
+      "name": "Like The Prodigal (Come Home)",
+      "url": "https://open.spotify.com/track/7DBugFty697vJcT7so4kfl"
+    },
+    {
+      "added_at": "2026-04-17 06:57:58",
+      "album": {
+        "name": "Circles",
+        "url": "https://open.spotify.com/album/0MTTQdryI7nUrBJUklNq2D"
+      },
+      "artists": [
+        {
+          "name": "Hunter Plake",
+          "url": "https://open.spotify.com/artist/7dToZgn1tZjiCKeT1y60zw"
+        },
+        {
+          "name": "Ryan Ellis",
+          "url": "https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Circles",
+      "url": "https://open.spotify.com/track/0XZZ9dXJ48ddQfWBaMuool"
     },
     {
       "added_at": "2026-04-17 06:57:58",
@@ -1579,58 +1619,18 @@
     {
       "added_at": "2026-04-17 06:57:58",
       "album": {
-        "name": "Circles",
-        "url": "https://open.spotify.com/album/0MTTQdryI7nUrBJUklNq2D"
+        "name": "interlude ellipsis",
+        "url": "https://open.spotify.com/album/2zJPJQt07jXEneZWIEJfNl"
       },
       "artists": [
         {
-          "name": "Hunter Plake",
-          "url": "https://open.spotify.com/artist/7dToZgn1tZjiCKeT1y60zw"
-        },
-        {
-          "name": "Ryan Ellis",
-          "url": "https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C"
+          "name": "Matt Crocker",
+          "url": "https://open.spotify.com/artist/6vGCQS2VmikoQOsXgFN3Ec"
         }
       ],
-      "duration_ms": 120000,
-      "name": "Circles",
-      "url": "https://open.spotify.com/track/0XZZ9dXJ48ddQfWBaMuool"
-    },
-    {
-      "added_at": "2026-04-17 06:57:58",
-      "album": {
-        "name": "Like The Prodigal (Come Home)",
-        "url": "https://open.spotify.com/album/68N0FwU3ser9k5veW6JAGQ"
-      },
-      "artists": [
-        {
-          "name": "Ian Austin",
-          "url": "https://open.spotify.com/artist/1WP9r8KcRsPprUUHgH0lEd"
-        },
-        {
-          "name": "Brice Davis",
-          "url": "https://open.spotify.com/artist/1b1HAA4FKPRckylVMBY9PM"
-        }
-      ],
-      "duration_ms": 281375,
-      "name": "Like The Prodigal (Come Home)",
-      "url": "https://open.spotify.com/track/7DBugFty697vJcT7so4kfl"
-    },
-    {
-      "added_at": "2026-04-17 06:57:58",
-      "album": {
-        "name": "His World",
-        "url": "https://open.spotify.com/album/0uenSlwqsbQEN4QqDN4qvq"
-      },
-      "artists": [
-        {
-          "name": "Allie Paige",
-          "url": "https://open.spotify.com/artist/7qNEZ5VvIV5TPMmNaSZjDl"
-        }
-      ],
-      "duration_ms": 267282,
-      "name": "Wings",
-      "url": "https://open.spotify.com/track/0pNTmhJMiheKKVjaOTwxbC"
+      "duration_ms": 182168,
+      "name": "walk into the light",
+      "url": "https://open.spotify.com/track/5M92wDH3MFb1MgVSLS2GOy"
     },
     {
       "added_at": "2026-04-17 06:57:58",
@@ -1835,6 +1835,22 @@
     {
       "added_at": "2026-04-17 06:57:58",
       "album": {
+        "name": "Emma Nissen (the acoustic session)",
+        "url": "https://open.spotify.com/album/5ycA01j56sWvYI1GCccJBb"
+      },
+      "artists": [
+        {
+          "name": "Emma Nissen",
+          "url": "https://open.spotify.com/artist/1DnRR6YVHXOJJ960ZKUzGS"
+        }
+      ],
+      "duration_ms": 206500,
+      "name": "Gotta Have Faith - acoustic version",
+      "url": "https://open.spotify.com/track/0Su3GccoKIxR2PnKQKXwPe"
+    },
+    {
+      "added_at": "2026-04-17 06:57:58",
+      "album": {
         "name": "KNOWN",
         "url": "https://open.spotify.com/album/1rhLqLdT3MO4dQGRgmaqiS"
       },
@@ -1859,6 +1875,22 @@
     {
       "added_at": "2026-04-17 06:57:58",
       "album": {
+        "name": "uptown",
+        "url": "https://open.spotify.com/album/3tVKCVSO21t2ZVdnid4EBe"
+      },
+      "artists": [
+        {
+          "name": "IMRSQD",
+          "url": "https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc"
+        }
+      ],
+      "duration_ms": 123428,
+      "name": "uptown",
+      "url": "https://open.spotify.com/track/3VGUd7kzUu7e7z93Ij4Vcs"
+    },
+    {
+      "added_at": "2026-04-17 06:57:58",
+      "album": {
         "name": "In Hindsight (Acoustic EP)",
         "url": "https://open.spotify.com/album/3lDLI1NeyJOyhVWenJTc9I"
       },
@@ -1875,22 +1907,6 @@
     {
       "added_at": "2026-04-17 06:57:58",
       "album": {
-        "name": "Emma Nissen (the acoustic session)",
-        "url": "https://open.spotify.com/album/5ycA01j56sWvYI1GCccJBb"
-      },
-      "artists": [
-        {
-          "name": "Emma Nissen",
-          "url": "https://open.spotify.com/artist/1DnRR6YVHXOJJ960ZKUzGS"
-        }
-      ],
-      "duration_ms": 206500,
-      "name": "Gotta Have Faith - acoustic version",
-      "url": "https://open.spotify.com/track/0Su3GccoKIxR2PnKQKXwPe"
-    },
-    {
-      "added_at": "2026-04-17 06:57:58",
-      "album": {
         "name": "Simple Phrase",
         "url": "https://open.spotify.com/album/0tyYbwhOr8mZibgMvYEOq0"
       },
@@ -1903,22 +1919,6 @@
       "duration_ms": 208291,
       "name": "Simple Phrase",
       "url": "https://open.spotify.com/track/40qhVgofNyNm86szSXNQBi"
-    },
-    {
-      "added_at": "2026-04-17 06:57:58",
-      "album": {
-        "name": "uptown",
-        "url": "https://open.spotify.com/album/3tVKCVSO21t2ZVdnid4EBe"
-      },
-      "artists": [
-        {
-          "name": "IMRSQD",
-          "url": "https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc"
-        }
-      ],
-      "duration_ms": 123428,
-      "name": "uptown",
-      "url": "https://open.spotify.com/track/3VGUd7kzUu7e7z93Ij4Vcs"
     },
     {
       "added_at": "2026-04-17 06:57:58",
@@ -1943,6 +1943,22 @@
     {
       "added_at": "2026-04-17 06:57:58",
       "album": {
+        "name": "Take Over Me",
+        "url": "https://open.spotify.com/album/0nnHuoBrZW7WGS9d13TFHd"
+      },
+      "artists": [
+        {
+          "name": "Sondae",
+          "url": "https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp"
+        }
+      ],
+      "duration_ms": 191979,
+      "name": "Take Over Me",
+      "url": "https://open.spotify.com/track/46yERETMQdLmTn5OZAR30X"
+    },
+    {
+      "added_at": "2026-04-17 06:57:58",
+      "album": {
         "name": "The Invitation",
         "url": "https://open.spotify.com/album/1oWUOQrnEIFoZLFbfttoAW"
       },
@@ -1959,22 +1975,6 @@
       "duration_ms": 212543,
       "name": "The Invitation",
       "url": "https://open.spotify.com/track/4AGlWzSEKMDsMgGUhQdcQx"
-    },
-    {
-      "added_at": "2026-04-17 06:57:58",
-      "album": {
-        "name": "Take Over Me",
-        "url": "https://open.spotify.com/album/0nnHuoBrZW7WGS9d13TFHd"
-      },
-      "artists": [
-        {
-          "name": "Sondae",
-          "url": "https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp"
-        }
-      ],
-      "duration_ms": 191979,
-      "name": "Take Over Me",
-      "url": "https://open.spotify.com/track/46yERETMQdLmTn5OZAR30X"
     },
     {
       "added_at": "2026-04-17 06:57:58",
@@ -2051,18 +2051,18 @@
     {
       "added_at": "2026-04-17 06:57:58",
       "album": {
-        "name": "Don't Stop Praying (Acoustic)",
-        "url": "https://open.spotify.com/album/28oHlQ8LW9kzgaZjB0Uc8L"
+        "name": "Light of Heaven",
+        "url": "https://open.spotify.com/album/09kgncLTX6pFf77R1bHOZx"
       },
       "artists": [
         {
-          "name": "Matthew West",
-          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
+          "name": "Andrew Ripp",
+          "url": "https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN"
         }
       ],
-      "duration_ms": 259869,
-      "name": "Don't Stop Praying (Acoustic)",
-      "url": "https://open.spotify.com/track/0XHLYCJp3ztpYROWBRzmmG"
+      "duration_ms": 230965,
+      "name": "Light of Heaven",
+      "url": "https://open.spotify.com/track/6USsf7jYhhvclACQuK4JPF"
     },
     {
       "added_at": "2026-04-17 06:57:58",
@@ -2095,18 +2095,18 @@
     {
       "added_at": "2026-04-17 06:57:58",
       "album": {
-        "name": "Light of Heaven",
-        "url": "https://open.spotify.com/album/09kgncLTX6pFf77R1bHOZx"
+        "name": "Don't Stop Praying (Acoustic)",
+        "url": "https://open.spotify.com/album/28oHlQ8LW9kzgaZjB0Uc8L"
       },
       "artists": [
         {
-          "name": "Andrew Ripp",
-          "url": "https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN"
+          "name": "Matthew West",
+          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
         }
       ],
-      "duration_ms": 230965,
-      "name": "Light of Heaven",
-      "url": "https://open.spotify.com/track/6USsf7jYhhvclACQuK4JPF"
+      "duration_ms": 259869,
+      "name": "Don't Stop Praying (Acoustic)",
+      "url": "https://open.spotify.com/track/0XHLYCJp3ztpYROWBRzmmG"
     },
     {
       "added_at": "2026-04-17 06:57:58",
@@ -2199,22 +2199,6 @@
     {
       "added_at": "2026-04-17 06:57:58",
       "album": {
-        "name": "Falling For You",
-        "url": "https://open.spotify.com/album/6BWnjFtlkr5qPpFxQiQcXw"
-      },
-      "artists": [
-        {
-          "name": "DeAngelo",
-          "url": "https://open.spotify.com/artist/0t6NssHMnbIjRJ0r4vlkzE"
-        }
-      ],
-      "duration_ms": 187994,
-      "name": "Falling For You",
-      "url": "https://open.spotify.com/track/2D4g5r9CzCmHuDPKfgqmcr"
-    },
-    {
-      "added_at": "2026-04-17 06:57:58",
-      "album": {
         "name": "OMG",
         "url": "https://open.spotify.com/album/66y97RsgjPCEUB7AlsZaiT"
       },
@@ -2235,26 +2219,6 @@
       "duration_ms": 143947,
       "name": "OMG",
       "url": "https://open.spotify.com/track/3MJScW03etExqb2Slzbdhq"
-    },
-    {
-      "added_at": "2026-04-17 06:57:58",
-      "album": {
-        "name": "This Is My Father's World",
-        "url": "https://open.spotify.com/album/4A8Pff3b3brOjA5PXmt24p"
-      },
-      "artists": [
-        {
-          "name": "Kings Kaleidoscope",
-          "url": "https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A"
-        },
-        {
-          "name": "Kings Kaleidoscope Hymns",
-          "url": "https://open.spotify.com/artist/0phpMB8IBPaSPxDtz95eG7"
-        }
-      ],
-      "duration_ms": 217746,
-      "name": "This Is My Father's World",
-      "url": "https://open.spotify.com/track/05u8IMcOqJAVEX6UAfZLEC"
     },
     {
       "added_at": "2026-04-17 06:57:58",
@@ -2287,6 +2251,42 @@
       "duration_ms": 240000,
       "name": "Years and Years",
       "url": "https://open.spotify.com/track/0xeJuM5IU0OvtGXrESl6GO"
+    },
+    {
+      "added_at": "2026-04-17 06:57:58",
+      "album": {
+        "name": "Falling For You",
+        "url": "https://open.spotify.com/album/6BWnjFtlkr5qPpFxQiQcXw"
+      },
+      "artists": [
+        {
+          "name": "DeAngelo",
+          "url": "https://open.spotify.com/artist/0t6NssHMnbIjRJ0r4vlkzE"
+        }
+      ],
+      "duration_ms": 187994,
+      "name": "Falling For You",
+      "url": "https://open.spotify.com/track/2D4g5r9CzCmHuDPKfgqmcr"
+    },
+    {
+      "added_at": "2026-04-17 06:57:58",
+      "album": {
+        "name": "This Is My Father's World",
+        "url": "https://open.spotify.com/album/4A8Pff3b3brOjA5PXmt24p"
+      },
+      "artists": [
+        {
+          "name": "Kings Kaleidoscope",
+          "url": "https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A"
+        },
+        {
+          "name": "Kings Kaleidoscope Hymns",
+          "url": "https://open.spotify.com/artist/0phpMB8IBPaSPxDtz95eG7"
+        }
+      ],
+      "duration_ms": 217746,
+      "name": "This Is My Father's World",
+      "url": "https://open.spotify.com/track/05u8IMcOqJAVEX6UAfZLEC"
     },
     {
       "added_at": "2026-04-17 06:57:58",
@@ -2579,26 +2579,6 @@
     {
       "added_at": "2026-04-17 06:57:58",
       "album": {
-        "name": "Abide",
-        "url": "https://open.spotify.com/album/3nrLBnxj1hvWBRkmKgUcor"
-      },
-      "artists": [
-        {
-          "name": "Christopher Tung",
-          "url": "https://open.spotify.com/artist/406aHYogHqGV0CKeLMLlUb"
-        },
-        {
-          "name": "Cade Kellam",
-          "url": "https://open.spotify.com/artist/1GWnsRvGpSmKxHOjMQah4k"
-        }
-      ],
-      "duration_ms": 145263,
-      "name": "Abide",
-      "url": "https://open.spotify.com/track/2zM6jZtTGq1gjEtGZLjS3V"
-    },
-    {
-      "added_at": "2026-04-17 06:57:58",
-      "album": {
         "name": "What a Friend",
         "url": "https://open.spotify.com/album/6mnMbRsGMAH4nzecSQvU6Q"
       },
@@ -2615,6 +2595,26 @@
       "duration_ms": 135822,
       "name": "What a Friend",
       "url": "https://open.spotify.com/track/25Tb8E2kjW27ryWghggfDm"
+    },
+    {
+      "added_at": "2026-04-17 06:57:58",
+      "album": {
+        "name": "Abide",
+        "url": "https://open.spotify.com/album/3nrLBnxj1hvWBRkmKgUcor"
+      },
+      "artists": [
+        {
+          "name": "Christopher Tung",
+          "url": "https://open.spotify.com/artist/406aHYogHqGV0CKeLMLlUb"
+        },
+        {
+          "name": "Cade Kellam",
+          "url": "https://open.spotify.com/artist/1GWnsRvGpSmKxHOjMQah4k"
+        }
+      ],
+      "duration_ms": 145263,
+      "name": "Abide",
+      "url": "https://open.spotify.com/track/2zM6jZtTGq1gjEtGZLjS3V"
     },
     {
       "added_at": "2026-04-17 06:57:58",

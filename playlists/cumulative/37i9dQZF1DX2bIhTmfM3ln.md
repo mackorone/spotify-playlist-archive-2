@@ -4,7 +4,7 @@
 
 > love is in the air...breathe in
 
-995 songs - 1 day 23 hr 59 min
+996 songs - 2 day 0 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Bae Bae](https://open.spotify.com/track/5s33nLb8BCeeKep2rfG7To) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [RnB](https://open.spotify.com/album/1L9bJDoHYbV5NbUmIT36gu) | 2:34 | 2024-04-19 | 2024-11-22 |
 | [Balance It](https://open.spotify.com/track/5Wx88Xpkw3jipuWmfpa1JA) | [D Jay](https://open.spotify.com/artist/1DETxFJht1YtCqi6EpmDxs) | [Balance It](https://open.spotify.com/album/19H3D6ShaQ0aYDu3UAsijY) | 3:07 | 2022-07-28 | 2022-10-17 |
 | [Balance It](https://open.spotify.com/track/5lSAVaWdDWebYm6np4QAIk) | [D Jay](https://open.spotify.com/artist/1DETxFJht1YtCqi6EpmDxs) | [Balance It](https://open.spotify.com/album/76gTwaKCqPjsjwmJMuxjA1) | 3:07 | 2022-07-28 | 2022-08-21 |
+| [Be A Lover](https://open.spotify.com/track/4ulgOCX4KPIPaEOpOS6QFd) | [Jembaa Groove](https://open.spotify.com/artist/2eI6PFBggdyKUDG93qJQGs), [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx), [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD) | [Be A Lover](https://open.spotify.com/album/4V0X4r6sBK4R5RIQdJnSB0) | 2:45 | 2026-05-22 |  |
 | [Beautiful](https://open.spotify.com/track/4ccPHOzBCiCoBxilT5b00V) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi) | [Beautiful](https://open.spotify.com/album/3CkYnVyY3U8ALa3aBUtNST) | 3:07 | 2023-03-03 | 2023-03-18 |
 | [Beautiful](https://open.spotify.com/track/3Jbbpijvtlt7q8BQxdo7Aa) | [Nyashinski](https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6) | [Beautiful](https://open.spotify.com/album/3awn4URVbx6A9yzwevCbSo) | 3:08 | 2023-06-22 | 2023-08-04 |
 | [Beautiful \(Remix\)](https://open.spotify.com/track/3qUMr8mq6eZ2z98gVmWAZQ) | [Spyro](https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [Beautiful](https://open.spotify.com/album/5xqPZ5JUNnRaaNj1fhAFDv) | 3:37 | 2025-06-20 | 2025-08-13 |
@@ -836,7 +837,7 @@
 | [Sofri](https://open.spotify.com/track/4IsTrczvo6vUTXD0qguKkz) | [Tha Boy Myles](https://open.spotify.com/artist/0kBkGmd0pKKvVpPXBRR5v5) | [Level Up \(Deluxe\)](https://open.spotify.com/album/77sjfGO9M57HqUiQoebbLQ) | 2:03 | 2024-09-13 | 2024-10-19 |
 | [Soja Man](https://open.spotify.com/track/5aIoeJtgsMlpyuSsa6s0k8) | [Zarion Uti](https://open.spotify.com/artist/7tlAHKyqsln6Ofr8jz50kg) | [Soja Man](https://open.spotify.com/album/00jKow5FJLfnD2FW57m77E) | 3:21 | 2023-03-30 | 2023-04-29 |
 | [Solace](https://open.spotify.com/track/0hWicbDqfQpuw9ncKV8OWx) | [Kunmie](https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF) | [Solace](https://open.spotify.com/album/7Lcd2dZBnj167BUMKRSmqA) | 3:16 | 2026-01-23 |  |
-| [Soldier](https://open.spotify.com/track/1DP4141W3KiwsYaZSAWUb7) | [TiMi](https://open.spotify.com/artist/0BQyOgobSOkQ7u4vTG7fPJ), [Kpee](https://open.spotify.com/artist/0R0U0reEPZrIBPCu9dp1Jf), [Priesst](https://open.spotify.com/artist/4Z3LLYwCpB9OKKaSttnapP) | [Yin Yang](https://open.spotify.com/album/7IU7fW4ehUnTiyaZZm9zRb) | 3:14 | 2026-01-14 |  |
+| [Soldier](https://open.spotify.com/track/1DP4141W3KiwsYaZSAWUb7) | [TiMi](https://open.spotify.com/artist/0BQyOgobSOkQ7u4vTG7fPJ), [Kpee](https://open.spotify.com/artist/0R0U0reEPZrIBPCu9dp1Jf), [Priesst](https://open.spotify.com/artist/4Z3LLYwCpB9OKKaSttnapP) | [Yin Yang](https://open.spotify.com/album/7IU7fW4ehUnTiyaZZm9zRb) | 3:14 | 2026-01-14 | 2026-05-24 |
 | [Somebody](https://open.spotify.com/track/13sENmd5vkGo9pRW2a2lh0) | [Malcolm Nuna](https://open.spotify.com/artist/5MMirduKxjz3OQSLiQfBcT) | [Somebody](https://open.spotify.com/album/2jBAGBR9vEW6VX2Rk4eh0F) | 3:30 | 2023-11-13 | 2024-02-03 |
 | [Somebody’s Son \(Ft Brandy\)](https://open.spotify.com/track/3Z9B9GQ2fFx4IRCG8bbWys) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Water & Garri](https://open.spotify.com/album/4kaFvICfRtvFJawQ6p7VSW) | 3:38 | 2022-02-11 | 2023-12-07 |
 | [Someday](https://open.spotify.com/track/77vjnIc75JPGhsrVujcgfA) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Someday](https://open.spotify.com/album/63Ige7U9L2jtGSOkstekfj) | 3:00 | 2024-11-29 | 2025-04-09 |

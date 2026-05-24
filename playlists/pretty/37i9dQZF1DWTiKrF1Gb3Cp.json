@@ -1,6 +1,6 @@
 {
   "description": "Musicaliza tu sesi\u00f3n de videojuegos con estos versos de barrio.",
-  "num_followers": 250561,
+  "num_followers": 250611,
   "original_name": "Gaming Belic\u00f3n",
   "owner": {
     "name": "Spotify",
@@ -619,6 +619,26 @@
     {
       "added_at": "2026-04-24 06:00:40",
       "album": {
+        "name": "Delivery",
+        "url": "https://open.spotify.com/album/5u4ZtfixpavZj0gq6gVbe9"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        }
+      ],
+      "duration_ms": 209367,
+      "name": "Delivery",
+      "url": "https://open.spotify.com/track/1ZxJvq28DUmAFZxt9lU7n6"
+    },
+    {
+      "added_at": "2026-04-24 06:00:40",
+      "album": {
         "name": "TOMORROWLAND",
         "url": "https://open.spotify.com/album/7cTAEbPBIwniEGP6CVW5qD"
       },
@@ -639,26 +659,6 @@
       "duration_ms": 185511,
       "name": "TOMORROWLAND",
       "url": "https://open.spotify.com/track/7ECjK3j7dTauos87ndRH0N"
-    },
-    {
-      "added_at": "2026-04-24 06:00:40",
-      "album": {
-        "name": "Delivery",
-        "url": "https://open.spotify.com/album/5u4ZtfixpavZj0gq6gVbe9"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "Alem\u00e1n",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-        }
-      ],
-      "duration_ms": 209367,
-      "name": "Delivery",
-      "url": "https://open.spotify.com/track/1ZxJvq28DUmAFZxt9lU7n6"
     },
     {
       "added_at": "2026-04-24 06:00:40",
@@ -699,6 +699,26 @@
     {
       "added_at": "2026-04-24 06:00:40",
       "album": {
+        "name": "MONEY EDITION",
+        "url": "https://open.spotify.com/album/0FHtzHjyMXFagXDyvmTp8i"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        },
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "duration_ms": 158841,
+      "name": "MONEY EDITION",
+      "url": "https://open.spotify.com/track/1TUEXG5qBYH9f6smXUe5Y0"
+    },
+    {
+      "added_at": "2026-04-24 06:00:40",
+      "album": {
         "name": "Pr\u00e9ndete Un Blunt (feat. Zimple) [Remix]",
         "url": "https://open.spotify.com/album/0G5o0F4IWxTgJbuKRoKvo0"
       },
@@ -723,26 +743,6 @@
       "duration_ms": 288000,
       "name": "Pr\u00e9ndete Un Blunt (feat. Zimple) - Remix",
       "url": "https://open.spotify.com/track/1Fjuba2hK1V3IRFHAqFyX6"
-    },
-    {
-      "added_at": "2026-04-24 06:00:40",
-      "album": {
-        "name": "MONEY EDITION",
-        "url": "https://open.spotify.com/album/0FHtzHjyMXFagXDyvmTp8i"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        },
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        }
-      ],
-      "duration_ms": 158841,
-      "name": "MONEY EDITION",
-      "url": "https://open.spotify.com/track/1TUEXG5qBYH9f6smXUe5Y0"
     },
     {
       "added_at": "2026-04-24 06:00:40",
@@ -1299,6 +1299,26 @@
     {
       "added_at": "2026-04-24 06:00:40",
       "album": {
+        "name": "Contando",
+        "url": "https://open.spotify.com/album/0sYFaXcYzBjHaIMINygdx2"
+      },
+      "artists": [
+        {
+          "name": "Luis Carrillo",
+          "url": "https://open.spotify.com/artist/1zQGq31aajlt5qvmHyrwQn"
+        },
+        {
+          "name": "Julian Leyva",
+          "url": "https://open.spotify.com/artist/4D2pOQ11Kvv8aMdiIRqjCv"
+        }
+      ],
+      "duration_ms": 191515,
+      "name": "Contando",
+      "url": "https://open.spotify.com/track/4ZpMTXHBxhpycSHQmI4gOY"
+    },
+    {
+      "added_at": "2026-04-24 06:00:40",
+      "album": {
         "name": "SI SABE",
         "url": "https://open.spotify.com/album/7ot6ebVthlYG3wXzLaZ5NF"
       },
@@ -1331,26 +1351,6 @@
       "duration_ms": 407179,
       "name": "A2P",
       "url": "https://open.spotify.com/track/0IPD4hNAGIjVDBTHfVdv8o"
-    },
-    {
-      "added_at": "2026-04-24 06:00:40",
-      "album": {
-        "name": "Contando",
-        "url": "https://open.spotify.com/album/0sYFaXcYzBjHaIMINygdx2"
-      },
-      "artists": [
-        {
-          "name": "Luis Carrillo",
-          "url": "https://open.spotify.com/artist/1zQGq31aajlt5qvmHyrwQn"
-        },
-        {
-          "name": "Julian Leyva",
-          "url": "https://open.spotify.com/artist/4D2pOQ11Kvv8aMdiIRqjCv"
-        }
-      ],
-      "duration_ms": 191515,
-      "name": "Contando",
-      "url": "https://open.spotify.com/track/4ZpMTXHBxhpycSHQmI4gOY"
     },
     {
       "added_at": "2026-04-24 06:00:40",

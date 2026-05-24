@@ -1,6 +1,6 @@
 {
   "description": "\ud83d\udc39 \uae40\ud584\ucc0c POV: \uba38\ub9bf\uc18d\uc740 \ubcf5\uc7a1\ud558\uc9c0\ub9cc, \uac89\uc73c\ub85c\ub294 \uce60 & \ucfe8\ud574\ubcf4\uc774\uace0 \uc2f6\uc744 \ub54c.",
-  "num_followers": 16964,
+  "num_followers": 16975,
   "original_name": "act cool.",
   "owner": {
     "name": "Spotify",
@@ -515,6 +515,22 @@
     {
       "added_at": "2026-04-23 02:13:24",
       "album": {
+        "name": "0.1 flaws and all.",
+        "url": "https://open.spotify.com/album/5T0Gt5JYXh6gEttuB8ujML"
+      },
+      "artists": [
+        {
+          "name": "wave to earth",
+          "url": "https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "peach eyes",
+      "url": "https://open.spotify.com/track/72UVMFjUAL6KJvwi36VBiz"
+    },
+    {
+      "added_at": "2026-04-23 02:13:24",
+      "album": {
         "name": "4 ONLY",
         "url": "https://open.spotify.com/album/1DKgZeAYrjslAPZVMe6EFt"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 204453,
       "name": "H.S.K.T. (feat. Wonstein)",
       "url": "https://open.spotify.com/track/39382sUtIOwIXftX0i76do"
-    },
-    {
-      "added_at": "2026-04-23 02:13:24",
-      "album": {
-        "name": "0.1 flaws and all.",
-        "url": "https://open.spotify.com/album/5T0Gt5JYXh6gEttuB8ujML"
-      },
-      "artists": [
-        {
-          "name": "wave to earth",
-          "url": "https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "peach eyes",
-      "url": "https://open.spotify.com/track/72UVMFjUAL6KJvwi36VBiz"
     },
     {
       "added_at": "2026-04-23 02:13:24",

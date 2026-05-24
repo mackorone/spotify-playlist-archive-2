@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrJKwf0q9nn.md) - [plain]
 
 > Wekelijkse update! Cover: Robin Schulz & BARBZ
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,255 likes - 102 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,256 likes - 102 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrJKwf0q9nn.md) - [plain]
 | 32 | [Chao Chao](https://open.spotify.com/track/2oCm2vANSSMNrYyFe6vEJb) | [Sunnery James & Ryan Marciano](https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt) | [Chao Chao](https://open.spotify.com/album/1SX2xqV7R8MIgjbiyvnjti) | 3:01 |
 | 33 | [I Can See It](https://open.spotify.com/track/1TCMIkuXpCSu2uDdGDF12o) | [Nifra](https://open.spotify.com/artist/4Ipm3lGKLqzhir25JU846A) | [I Can See It](https://open.spotify.com/album/0JqqBPdvtxHWYGMdJ0vKnm) | 2:52 |
 | 34 | [Horny Dub](https://open.spotify.com/track/64WXDifwCNu1BuZHEsHi4M) | [Millhouse](https://open.spotify.com/artist/43AgCd9yyuFZ46wJQmBDGF) | [Horny Dub](https://open.spotify.com/album/7qsgFVHjiWKkt1N8kzfpWF) | 2:50 |
-| 35 | [Fit The Tempo](https://open.spotify.com/track/3yXgRhLAjW7I3vRv8QY43C) | [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [VIKTOR](https://open.spotify.com/artist/2nuOh4IEefKExo2nWyNu9W) | [Fit The Tempo](https://open.spotify.com/album/4ZjEvuT2fAJPc46RluNFAK) | 2:32 |
+| 35 | [Fit The Tempo](https://open.spotify.com/track/3yXgRhLAjW7I3vRv8QY43C) | [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [VIKTOR](https://open.spotify.com/artist/40opAACGmFD5yvWfvg4b1V) | [Fit The Tempo](https://open.spotify.com/album/4ZjEvuT2fAJPc46RluNFAK) | 2:32 |
 | 36 | [It Ain't Safe \(FENRIP\)](https://open.spotify.com/track/2uvchqTMwW7gAgjuGVI2pj) | [Fenrick](https://open.spotify.com/artist/4xfKbQQytFl4LWMGe2v5P3), [DJ IP](https://open.spotify.com/artist/7fv38XqMnjKou11W8jG4aK) | [It Ain't Safe \(FENRIP\)](https://open.spotify.com/album/6UgNBTBU36IulNvfUrrHIk) | 2:31 |
 | 37 | [PULSE](https://open.spotify.com/track/2d6hC7Uu13Pn1axD7LplmR) | [Naarly](https://open.spotify.com/artist/4ME20XT9IP5JOpqoIGQ6Js), [ERIICE](https://open.spotify.com/artist/3DVYnBKNeZTLLPvMaEbmzC), [Romy Janssen](https://open.spotify.com/artist/5wizmv8KVwvSrcFyvagn8x) | [PULSE](https://open.spotify.com/album/1eAwTFl959hlcrLUN5s61k) | 3:00 |
 | 38 | [A Thousand Lies](https://open.spotify.com/track/1rinB6g47GjC1NlJj5NKHq) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7), [DMA'S](https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4), [Saidah](https://open.spotify.com/artist/18ddrVSTx9Y6FZIiXFG7IU) | [A Thousand Lies](https://open.spotify.com/album/1Pr9UwNTdIvqhb4Q7kKfR3) | 4:44 |

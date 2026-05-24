@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjDnew1mOxr.md) - [plain]
 
 > Music that means it\. Cover: Modern Woman
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,982 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,986 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,13 +60,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjDnew1mOxr.md) - [plain]
 | 50 | [Diamond In The Dark](https://open.spotify.com/track/6cWSuPDQT56oPVqWSsNSee) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9) | [C’MON YOU KNOW \(Deluxe Edition\)](https://open.spotify.com/album/7IpAa9HvutfL3LsDsgluqY) | 3:24 |
 | 51 | [mettle](https://open.spotify.com/track/09kKoIXQgBJMY3nGQN4IMB) | [she's green](https://open.spotify.com/artist/42IX4MHpnREqy3N7HugkLY) | [mettle](https://open.spotify.com/album/0QZNEGmnZrFhePN6CH6muw) | 2:56 |
 | 52 | [IGNORE THIS](https://open.spotify.com/track/2fAepZ7Fl8sbwZXxkIZMpS) | [Dead Pony](https://open.spotify.com/artist/3lGO6uBIzoFyU6OoGMER1B) | [IGNORE THIS](https://open.spotify.com/album/1tI8iV5L67yiKB6g17rma3) | 3:09 |
-| 53 | [Break the Girl](https://open.spotify.com/track/3i1GK7mvegGCBdZgAd6LLf) | [Florence Road](https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV) | [Fall Back](https://open.spotify.com/album/34krNlQBidRpdzs9uF5EYI) | 3:31 |
+| 53 | [The Old Style Raiders](https://open.spotify.com/track/07wuA7wnqcAEi1pWm9hXYW) | [Jamie T](https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh) | [The Theory Of Whatever](https://open.spotify.com/album/5kyMgf8ogldA8iLY9ppyAV) | 3:55 |
 | 54 | [Do You Wanna Talk](https://open.spotify.com/track/0fjEEHg3EVDBBbL7Vqy2O6) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Never Going Under](https://open.spotify.com/album/4qx3TNl48aPu76YRCNZ4pj) | 2:26 |
-| 55 | [The Old Style Raiders](https://open.spotify.com/track/07wuA7wnqcAEi1pWm9hXYW) | [Jamie T](https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh) | [The Theory Of Whatever](https://open.spotify.com/album/5kyMgf8ogldA8iLY9ppyAV) | 3:55 |
+| 55 | [Break the Girl](https://open.spotify.com/track/3i1GK7mvegGCBdZgAd6LLf) | [Florence Road](https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV) | [Fall Back](https://open.spotify.com/album/34krNlQBidRpdzs9uF5EYI) | 3:31 |
 | 56 | [Dirty White](https://open.spotify.com/track/7cZTo3rLTEysAgfprKRnR4) | [Basht.](https://open.spotify.com/artist/0bIaFZHuLgWlw8UiE9qBAE) | [Dirty White Lies](https://open.spotify.com/album/5I2al8RIq7ZtZIV1qCBZq0) | 2:59 |
 | 57 | [Can't See](https://open.spotify.com/track/694JhCHMO54W2X99Zc3tVU) | [Westside Cowboy](https://open.spotify.com/artist/5LfO4rbJarBvHjB34mU9m2) | [Can’t See](https://open.spotify.com/album/2VEr2TJU9aVYo177TLrpbI) | 2:26 |
-| 58 | [Placebo](https://open.spotify.com/track/6T4hTXGDgINTwLJCE0iv14) | [VILLANELLE](https://open.spotify.com/artist/3J9QwmRJDdn9Oq1fB6mfcF) | [Placebo](https://open.spotify.com/album/6f6TCcTF2vjS2GxKlT7SBq) | 4:50 |
-| 59 | [From the Night](https://open.spotify.com/track/6ujJmSj0ArAHKrhLwsirGh) | [overpass](https://open.spotify.com/artist/2y3PEaAgTdxYfbyeSXORv8) | [From the Night](https://open.spotify.com/album/7cx6OCRk4hVPXL9VzX6AzE) | 4:11 |
+| 58 | [From the Night](https://open.spotify.com/track/6ujJmSj0ArAHKrhLwsirGh) | [overpass](https://open.spotify.com/artist/2y3PEaAgTdxYfbyeSXORv8) | [From the Night](https://open.spotify.com/album/7cx6OCRk4hVPXL9VzX6AzE) | 4:11 |
+| 59 | [Placebo](https://open.spotify.com/track/6T4hTXGDgINTwLJCE0iv14) | [VILLANELLE](https://open.spotify.com/artist/3J9QwmRJDdn9Oq1fB6mfcF) | [Placebo](https://open.spotify.com/album/6f6TCcTF2vjS2GxKlT7SBq) | 4:50 |
 | 60 | [Personality Test](https://open.spotify.com/track/2N3bvXciflaoAPIXoAUDjL) | [Seb Lowe](https://open.spotify.com/artist/3ebD7fhAtxAuVaIxi1T2BJ) | [Personality Test](https://open.spotify.com/album/5WtJlhPqQKUSCjW6VYzA7S) | 2:20 |
 | 61 | [Voice Of The Voiceless](https://open.spotify.com/track/1clBozMcdm8BPjda4Uh3mt) | [JAMIE WEBSTER](https://open.spotify.com/artist/5ugVdZNXtMIj6ECTzGsyqS) | [Voice Of The Voiceless](https://open.spotify.com/album/4sjD6pJ90VtPPy2lnT6uwU) | 3:13 |
 | 62 | [Here's The Thing](https://open.spotify.com/track/58tz5wYT6bAvhhO9pjsXLP) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Here's The Thing](https://open.spotify.com/album/63MATGJoOix8OypoCqnJga) | 2:43 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjDnew1mOxr.md) - [plain]
 | 67 | [New York, Let's Do Nothing](https://open.spotify.com/track/43TN8zLpTz75TIvWSZ6cr3) | [King Hannah](https://open.spotify.com/artist/7t00AYOoiQrcgNlpTkNer6) | [Big Swimmer](https://open.spotify.com/album/18wXW5b7h2McAdCxLRlZXc) | 3:22 |
 | 68 | [Sandman](https://open.spotify.com/track/26Nq9eBvSF5QIADN158plo) | [overpass](https://open.spotify.com/artist/2y3PEaAgTdxYfbyeSXORv8) | [Sandman](https://open.spotify.com/album/7D8d6CcdC2unP1EXdpvvYq) | 3:38 |
 | 69 | [Lipstick](https://open.spotify.com/track/4YJMCZyLpwErIlfGh9q2Ok) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [Lipstick](https://open.spotify.com/album/2KHQiWbDodCqph0HU9ltMk) | 3:36 |
-| 70 | [Barbed Wire](https://open.spotify.com/track/1MCZAFcjyD5WC43Xd82Mhi) | [Cardinals](https://open.spotify.com/artist/0qmHQLCyJrgGFtqLDSRHJ4) | [Masquerade](https://open.spotify.com/album/29AoeHJhdqdvkZAh7EPoS4) | 3:04 |
-| 71 | [Something's Wrong](https://open.spotify.com/track/45afJugFs63B3KaDO3pcVa) | [James Marriott](https://open.spotify.com/artist/14apS9tKI3K30GK92BNQUL) | [Something's Wrong](https://open.spotify.com/album/1xuZIqxmZleNkPG8PonAp3) | 3:20 |
+| 70 | [Something's Wrong](https://open.spotify.com/track/45afJugFs63B3KaDO3pcVa) | [James Marriott](https://open.spotify.com/artist/14apS9tKI3K30GK92BNQUL) | [Something's Wrong](https://open.spotify.com/album/1xuZIqxmZleNkPG8PonAp3) | 3:20 |
+| 71 | [Barbed Wire](https://open.spotify.com/track/1MCZAFcjyD5WC43Xd82Mhi) | [Cardinals](https://open.spotify.com/artist/0qmHQLCyJrgGFtqLDSRHJ4) | [Masquerade](https://open.spotify.com/album/29AoeHJhdqdvkZAh7EPoS4) | 3:04 |
 | 72 | [marry me to dopamine](https://open.spotify.com/track/7Liv3NGQpyAJxxOfGgCiCr) | [Kilu](https://open.spotify.com/artist/795iruo8TSJsZPVAps6Iow) | [marry me to dopamine](https://open.spotify.com/album/3edgl05FYrAR6yUoizyfA7) | 3:33 |
 | 73 | [Coming of Age](https://open.spotify.com/track/0jnPGD9FIVHa5SsM9upOr0) | [the north](https://open.spotify.com/artist/2DOGRYfLhyYwjyBNeYIM6v) | [Coming of Age](https://open.spotify.com/album/2zDS01VT4oGDTJELj9pYD9) | 3:01 |
 | 74 | [A Question of You](https://open.spotify.com/track/007IZ9te1tqJND9XdC8wGE) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [A Question of You](https://open.spotify.com/album/7xWVXuNOomkvJLNM1lI15l) | 3:42 |
@@ -101,10 +101,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjDnew1mOxr.md) - [plain]
 | 91 | [Zombieland](https://open.spotify.com/track/0OyV9F4yAdZLaNzSO53kUI) | [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [Zombieland](https://open.spotify.com/album/3y2aZQXBnAjAc94EhlbdJD) | 2:42 |
 | 92 | [Lucky Bean](https://open.spotify.com/track/0I1MCxXBoICdfRGE3kfsSf) | [The Lathums](https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg) | [From Nothing To A Little Bit More](https://open.spotify.com/album/285M729So9YyJW5aqmiV3y) | 2:51 |
 | 93 | [Can't Say No](https://open.spotify.com/track/2fzc6So1P2MYJ2YtokLgLU) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Can't Say No](https://open.spotify.com/album/0eXqzpHZp49CthfRA4ggtN) | 3:12 |
-| 94 | [Blisters](https://open.spotify.com/track/1Y8j5sFITgFnRxMtSbWnFr) | [The Royston Club](https://open.spotify.com/artist/5N5jf98OOEf3uAIJpi1deD) | [Blisters](https://open.spotify.com/album/4uoNUCK3k5Xy5ADC5mY7nP) | 2:59 |
-| 95 | [Breadline](https://open.spotify.com/track/6MSuabY3lmqyNCUhcCgQ5n) | [JAMIE WEBSTER](https://open.spotify.com/artist/5ugVdZNXtMIj6ECTzGsyqS) | [Breadline](https://open.spotify.com/album/0Oxox0LPqyimvSDEDz6te1) | 3:14 |
-| 96 | [Life's a Bitch \(But I Like it So Much\)](https://open.spotify.com/track/3pNxB32GZ03zJQ3fmUqsj5) | [The Mysterines](https://open.spotify.com/artist/15QhuBSLfDNECfF8wvxj0M) | [Reeling](https://open.spotify.com/album/1hkGVzxg3aKTSj1B6EMyRh) | 2:50 |
-| 97 | [My Favourite Monster](https://open.spotify.com/track/3Stk5Oa5Pc2ertfAP5tRUZ) | [Cliffords](https://open.spotify.com/artist/2JIXE3g9E0kfeFWhpKPIja) | [My Favourite Monster](https://open.spotify.com/album/3HcqPbTSgSh7CDAbOVU3zu) | 3:58 |
+| 94 | [Breadline](https://open.spotify.com/track/6MSuabY3lmqyNCUhcCgQ5n) | [JAMIE WEBSTER](https://open.spotify.com/artist/5ugVdZNXtMIj6ECTzGsyqS) | [Breadline](https://open.spotify.com/album/0Oxox0LPqyimvSDEDz6te1) | 3:14 |
+| 95 | [Blisters](https://open.spotify.com/track/1Y8j5sFITgFnRxMtSbWnFr) | [The Royston Club](https://open.spotify.com/artist/5N5jf98OOEf3uAIJpi1deD) | [Blisters](https://open.spotify.com/album/4uoNUCK3k5Xy5ADC5mY7nP) | 2:59 |
+| 96 | [My Favourite Monster](https://open.spotify.com/track/3Stk5Oa5Pc2ertfAP5tRUZ) | [Cliffords](https://open.spotify.com/artist/2JIXE3g9E0kfeFWhpKPIja) | [My Favourite Monster](https://open.spotify.com/album/3HcqPbTSgSh7CDAbOVU3zu) | 3:58 |
+| 97 | [Life's a Bitch \(But I Like it So Much\)](https://open.spotify.com/track/3pNxB32GZ03zJQ3fmUqsj5) | [The Mysterines](https://open.spotify.com/artist/15QhuBSLfDNECfF8wvxj0M) | [Reeling](https://open.spotify.com/album/1hkGVzxg3aKTSj1B6EMyRh) | 2:50 |
 | 98 | [What Am I Missing?](https://open.spotify.com/track/1SgHJN6WSyHaXMt62P6hyh) | [Heidi Curtis](https://open.spotify.com/artist/4Jc9s2qAwAsnS72FGbCrwZ) | [What Am I Missing?](https://open.spotify.com/album/5WLErSynOR3zxGOeInLxNe) | 3:04 |
 | 99 | [Calypso Blue](https://open.spotify.com/track/1QzEHPk9Aep6lmKzgLUjPt) | [The Cheap Thrills](https://open.spotify.com/artist/7Jsx5mYnjBs9G7bkq1JLVz) | [Mind Metro](https://open.spotify.com/album/0y6PAKbgkGhPBsMwgJnYD2) | 3:52 |
 | 100 | [Perfect Me](https://open.spotify.com/track/21f1QfiYHehakoXs0Zyeuz) | [Blossoms](https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5) | [Perfect Me](https://open.spotify.com/album/52Mane6O5Svocc9w3FhiCL) | 3:10 |

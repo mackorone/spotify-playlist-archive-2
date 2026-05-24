@@ -4,7 +4,7 @@
 
 > Bring the festival vibes to wherever you are with these dance bangers.
 
-305 songs - 17 hr 18 min
+306 songs - 17 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,10 +86,11 @@
 | [Energy](https://open.spotify.com/track/6Xocwgqk3zX6gLhbUT5Xoo) | [Charlie Boon](https://open.spotify.com/artist/6NGofnQORNQtnWXN3ef270) | [Energy](https://open.spotify.com/album/3FZjMaXkJ42v6Ef6RjuIAz) | 2:28 | 2023-09-22 | 2023-10-06 |
 | [ENERGY](https://open.spotify.com/track/2aGGiMfC7LHqcTVO78OujV) | [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E) | [ENERGY](https://open.spotify.com/album/2SlDo6WkY27EiEVwjXdtS8) | 2:20 | 2024-07-26 | 2025-05-17 |
 | [Enjoy Your Life](https://open.spotify.com/track/0yM2YvOGR3cBIoWBeFdtmS) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Enjoy Your Life](https://open.spotify.com/album/7Kb95mdNRyzLjpXA7piX3N) | 4:00 | 2023-05-19 | 2023-09-19 |
-| [Everything](https://open.spotify.com/track/1BJyVpblYEmeYberEVmOWM) | [Luuk Van Dijk](https://open.spotify.com/artist/1KFfk3NtblIJtGEqyiR31t) | [Everything](https://open.spotify.com/album/56f1MFjf3qnA3OQSqS0017) | 4:45 | 2026-05-01 |  |
+| [Everything](https://open.spotify.com/track/1BJyVpblYEmeYberEVmOWM) | [Luuk Van Dijk](https://open.spotify.com/artist/1KFfk3NtblIJtGEqyiR31t) | [Everything](https://open.spotify.com/album/56f1MFjf3qnA3OQSqS0017) | 4:45 | 2026-05-01 | 2026-05-24 |
 | [Everything I Do](https://open.spotify.com/track/6xIavZrzwKrMN8glvjCj1O) | [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu), [Denham Audio](https://open.spotify.com/artist/2gyrzIEBDddx6GsW60DnW1) | [Everything I Do](https://open.spotify.com/album/7DWDzLGhYO99yvQzk5kSJc) | 3:14 | 2023-10-06 | 2024-05-24 |
 | [Face In The Crowd](https://open.spotify.com/track/26u8BxcbNNRlbreUeIwXnP) | [Sam Divine](https://open.spotify.com/artist/029RjYsk0DU8LKC92sUyXZ), [Hayley May](https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued) | [Face In The Crowd](https://open.spotify.com/album/0rWcieRCNFaKJFC7M8UVTH) | 3:04 | 2023-05-19 | 2023-10-06 |
 | [Famax \- Franky Rizardo Remix](https://open.spotify.com/track/2Oocj7yGn2oAKhh3Bg6RD2) | [RAFFA GUIDO](https://open.spotify.com/artist/5zvKbKHQcyZFvTYADnEkTQ), [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl) | [Famax \(Franky Rizardo Remix\)](https://open.spotify.com/album/1Zw8fGD6Ba9SNR5CeTCA6G) | 3:31 | 2024-09-19 | 2025-05-17 |
+| [Feel The Funk](https://open.spotify.com/track/2fWyCaf8OQViWejIesNwPE) | [Riordan](https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao) | [The Funk EP](https://open.spotify.com/album/7oxFce5DqOA58Ycj9YAWaH) | 3:26 | 2026-05-22 |  |
 | [Feel This Way](https://open.spotify.com/track/2libVw5xnVwelZ69K47bDz) | [Josh Baker](https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6), [Silva Bumpa](https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf), [Paige Cavell](https://open.spotify.com/artist/6K3xqGQiS7BLYG6llkAF24) | [Feel This Way](https://open.spotify.com/album/0BVGCcx3DWdTu1ComULh5k) | 3:04 | 2026-05-01 |  |
 | [Feels So Good](https://open.spotify.com/track/2u6BTFqxoiC6jigy7EPmXv) | [Arielle Free](https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d) | [Feels So Good](https://open.spotify.com/album/3AurHVibrDLc1qUWKoS2nO) | 3:39 | 2023-10-06 | 2024-05-25 |
 | [Final Credits](https://open.spotify.com/track/5gC2aJwuSzGe3IJVlk9r2O) | [Midland](https://open.spotify.com/artist/1YFLNH4rO40x9i16RpLwdY) | [Final Credits](https://open.spotify.com/album/4DR47uL0VrENkV4fuTMdOE) | 7:19 | 2024-04-05 | 2024-07-05 |

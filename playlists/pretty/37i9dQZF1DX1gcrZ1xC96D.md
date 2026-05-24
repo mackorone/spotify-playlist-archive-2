@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1gcrZ1xC96D.md) - [plain]
 
 > Gym harder, better, faster and longer\. Yes, you CAN do it.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,132,597 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,132,582 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1gcrZ1xC96D.md) - [plain]
 | 34 | [Drums \(Feat\. Kim Petras\)](https://open.spotify.com/track/4AFlChQQJbB1MOCgOiiyYc) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Drums \(Feat\. Kim Petras\)](https://open.spotify.com/album/5Xs1g4UOOm6NBk4cSxyl2M) | 2:32 |
 | 35 | [DJ Turn It Up](https://open.spotify.com/track/28r1xYNakXXwcQKIXu9Wjw) | [Dimension](https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S) | [DJ Turn It Up](https://open.spotify.com/album/1POsjSFSyqW21AEn71tdJn) | 2:57 |
 | 36 | [Wasted Youth](https://open.spotify.com/track/7i5tBVaBU5Z4Va6XK0L5mm) | [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP), [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [Wasted Youth](https://open.spotify.com/album/7BXCwPeAm4m1KFabsvCTuy) | 2:27 |
-| 37 | [2 Times](https://open.spotify.com/track/03xIKiQXopptD4Sv8ijvcG) | [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Ann Lee](https://open.spotify.com/artist/1EN7GOzx8aDpiIbVVmQaaC), [Sound Of Legend](https://open.spotify.com/artist/3g9yyIlJ0sIunQWJLmIYhn) | [2 Times](https://open.spotify.com/album/4wiZ07TwRSwCUTjIXqcriy) | 2:11 |
-| 38 | [Tell Me](https://open.spotify.com/track/114I7yDc6X70Dq8labTqw8) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Tell Me](https://open.spotify.com/album/7IS8egsdQCyCsaPMQRpeA0) | 3:17 |
+| 37 | [Tell Me](https://open.spotify.com/track/114I7yDc6X70Dq8labTqw8) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Tell Me](https://open.spotify.com/album/7IS8egsdQCyCsaPMQRpeA0) | 3:17 |
+| 38 | [2 Times](https://open.spotify.com/track/03xIKiQXopptD4Sv8ijvcG) | [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Ann Lee](https://open.spotify.com/artist/1EN7GOzx8aDpiIbVVmQaaC), [Sound Of Legend](https://open.spotify.com/artist/3g9yyIlJ0sIunQWJLmIYhn) | [2 Times](https://open.spotify.com/album/4wiZ07TwRSwCUTjIXqcriy) | 2:11 |
 | 39 | [Bel Mercy](https://open.spotify.com/track/1635wWSdp29PO3GxYhy991) | [Jengi](https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN) | [Bel Mercy](https://open.spotify.com/album/7kJhB3zZiALyIaWRGO3rwE) | 2:49 |
 | 40 | [Pumpin Jumpin](https://open.spotify.com/track/1VhNZmtGQPnJlzZStAYn5j) | [Bushbaby](https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C) | [Pumpin Jumpin](https://open.spotify.com/album/0WyIwrLoLBoS30ES2bgnXF) | 3:41 |
 | 41 | [Closer](https://open.spotify.com/track/0f97n6kmc8RYUwMyialr8y) | [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13), [Slay](https://open.spotify.com/artist/3mJPM3drRUdlDVXcc3tA0M) | [Closer](https://open.spotify.com/album/41CcjIZFfcWfv7clVItCLA) | 2:15 |

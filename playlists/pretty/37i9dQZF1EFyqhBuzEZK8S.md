@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyqhBuzEZK8S.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0jdtXxGhcy0ycjSBMT5Qij">Jack Antonoff</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,002 likes - 352 songs - 21 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,008 likes - 352 songs - 21 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -138,8 +138,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyqhBuzEZK8S.md) - [plain]
 | 128 | [Fishtail](https://open.spotify.com/track/4Cg9XRHLP3s5ZiQaIdL4zW) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 4:02 |
 | 129 | [Wake Me](https://open.spotify.com/track/6YArGkJUr82ehzRFa2YaRK) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Strange Desire](https://open.spotify.com/album/0cnNCK2xpudXjB8pzsrYy9) | 2:43 |
 | 130 | [Dark But Just A Game](https://open.spotify.com/track/1dBBmAddRRIw6GwF7dPz6z) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Chemtrails Over The Country Club](https://open.spotify.com/album/6QeosPQpJckkW0Obir5RT8) | 3:55 |
-| 131 | [C'mon \- Single Version](https://open.spotify.com/track/53c9tTEHXWL5GkYNalbXZ3) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK), [fun.](https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0) | [C'mon](https://open.spotify.com/album/0A5iPbGFWxVSN9m7EjlKl1) | 3:34 |
-| 132 | [Such A Funny Way](https://open.spotify.com/track/5INY1sXYVmFCN5I6cbwdmk) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend \(Bonus Track Version\)](https://open.spotify.com/album/43k99CXeU2JUO21G1F4WCP) | 3:52 |
+| 131 | [Such A Funny Way](https://open.spotify.com/track/5INY1sXYVmFCN5I6cbwdmk) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend \(Bonus Track Version\)](https://open.spotify.com/album/43k99CXeU2JUO21G1F4WCP) | 3:52 |
+| 132 | [C'mon \- Single Version](https://open.spotify.com/track/53c9tTEHXWL5GkYNalbXZ3) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK), [fun.](https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0) | [C'mon](https://open.spotify.com/album/0A5iPbGFWxVSN9m7EjlKl1) | 3:34 |
 | 133 | [Chinatown \(feat\. Bruce Springsteen\)](https://open.spotify.com/track/1AA3ZjLo9tD2iSZAs2svyj) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI), [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Take the Sadness Out of Saturday Night](https://open.spotify.com/album/6SPUtbeCQiPGej0t5RBasE) | 4:04 |
 | 134 | [Secrets from a Girl \(Who's Seen it All\)](https://open.spotify.com/track/1toRu029yjgrleWg2w3gNU) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Solar Power](https://open.spotify.com/album/4SBl4zvNIL4H137YRf2P0J) | 3:38 |
 | 135 | [Wild At Heart](https://open.spotify.com/track/5RJot1fR8C90lLXzHtUqpo) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Chemtrails Over The Country Club](https://open.spotify.com/album/6QeosPQpJckkW0Obir5RT8) | 4:06 |
@@ -174,10 +174,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyqhBuzEZK8S.md) - [plain]
 | 164 | [Big Star](https://open.spotify.com/track/2qWVIatUtl2xMCHEvn4j7j) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Solar Power](https://open.spotify.com/album/4SBl4zvNIL4H137YRf2P0J) | 2:47 |
 | 165 | [Sweeter Than Fiction \- From "One Chance" Soundtrack](https://open.spotify.com/track/0RFCHlNuTeUHIB36VuVbOL) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Sweeter Than Fiction](https://open.spotify.com/album/11e4xCXllbvk8pWc1cCas1) | 3:57 |
 | 166 | [Girls Against God](https://open.spotify.com/track/6kQlUiaTUyRW8fYQ2xDhpx) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Dance Fever](https://open.spotify.com/album/4ohh1zQ4yybSK9FS7LLyDE) | 4:40 |
-| 167 | [All The Pretty Girls](https://open.spotify.com/track/2cHGWytemKJuckq2oLnAbZ) | [fun.](https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0) | [Aim and Ignite \(Deluxe Version\)](https://open.spotify.com/album/39vNHJ3nDr6oO9mWLrRpsI) | 3:22 |
-| 168 | [Take Me Dancing \(feat\. SZA\)](https://open.spotify.com/track/3jYMt6j13zQGXfFLaO3BKv) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Vie](https://open.spotify.com/album/1cqqIH16XzBnDchrXJ9Enf) | 3:44 |
-| 169 | [Oceanic Feeling](https://open.spotify.com/track/6kj8TeHSns33wt1Z1wdmMx) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Solar Power](https://open.spotify.com/album/4SBl4zvNIL4H137YRf2P0J) | 6:39 |
-| 170 | [Stranger](https://open.spotify.com/track/6IBTI6u7tVNtWojUHnO4Ap) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Vie](https://open.spotify.com/album/1cqqIH16XzBnDchrXJ9Enf) | 3:21 |
+| 167 | [Take Me Dancing \(feat\. SZA\)](https://open.spotify.com/track/3jYMt6j13zQGXfFLaO3BKv) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Vie](https://open.spotify.com/album/1cqqIH16XzBnDchrXJ9Enf) | 3:44 |
+| 168 | [All The Pretty Girls](https://open.spotify.com/track/2cHGWytemKJuckq2oLnAbZ) | [fun.](https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0) | [Aim and Ignite \(Deluxe Version\)](https://open.spotify.com/album/39vNHJ3nDr6oO9mWLrRpsI) | 3:22 |
+| 169 | [Stranger](https://open.spotify.com/track/6IBTI6u7tVNtWojUHnO4Ap) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Vie](https://open.spotify.com/album/1cqqIH16XzBnDchrXJ9Enf) | 3:21 |
+| 170 | [Oceanic Feeling](https://open.spotify.com/track/6kj8TeHSns33wt1Z1wdmMx) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Solar Power](https://open.spotify.com/album/4SBl4zvNIL4H137YRf2P0J) | 6:39 |
 | 171 | [Hate That You Know Me](https://open.spotify.com/track/7FqScuVJysPgwVFcepFJks) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Gone Now](https://open.spotify.com/album/10HKbC9lKDHGQvndGck6XJ) | 3:05 |
 | 172 | [Cards](https://open.spotify.com/track/3C5yxZTCcDOi4pnFEnKJdC) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Vie](https://open.spotify.com/album/1cqqIH16XzBnDchrXJ9Enf) | 3:43 |
 | 173 | [Dominoes](https://open.spotify.com/track/78Sn3YMeqUgJBoe6zt940Z) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Solar Power](https://open.spotify.com/album/4SBl4zvNIL4H137YRf2P0J) | 2:03 |
@@ -238,8 +238,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyqhBuzEZK8S.md) - [plain]
 | 228 | [Me Before You](https://open.spotify.com/track/2fevWSV5v94Zgm6iW3sQPZ) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Bleachers](https://open.spotify.com/album/0nZy2z8sZsM5TIHzUpcq5E) | 3:23 |
 | 229 | [You Make It Easy](https://open.spotify.com/track/6smjTvYyBqTD71vXyJZviN) | [Red Hearse](https://open.spotify.com/artist/2922Q2qAcxb0hRD0LtPcFc) | [Red Hearse](https://open.spotify.com/album/1BrBVH1v92OAzRDijSyhj9) | 2:56 |
 | 230 | [Sugarboy](https://open.spotify.com/track/35TIanClNm1DxcyREpNC7g) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [MASSEDUCTION](https://open.spotify.com/album/4RoOGpdrgfiIUyv0kLaC4e) | 4:01 |
-| 231 | [Tights On My Boat](https://open.spotify.com/track/2iA9BkvtzkdGT4wxqqwzKh) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Gaslighter](https://open.spotify.com/album/1YV5Rh6n8dLOycCqWcUSq4) | 3:02 |
-| 232 | [you and forever](https://open.spotify.com/track/7faK0eOWGbfxWeuw1inyBN) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [you and forever](https://open.spotify.com/album/32spb4QXcrqJxAgumWb6up) | 3:54 |
+| 231 | [you and forever](https://open.spotify.com/track/7faK0eOWGbfxWeuw1inyBN) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [you and forever](https://open.spotify.com/album/32spb4QXcrqJxAgumWb6up) | 3:54 |
+| 232 | [Tights On My Boat](https://open.spotify.com/track/2iA9BkvtzkdGT4wxqqwzKh) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Gaslighter](https://open.spotify.com/album/1YV5Rh6n8dLOycCqWcUSq4) | 3:02 |
 | 233 | [Keeping A Secret](https://open.spotify.com/track/7CoZlkSFHX1UqdJ1S90pc8) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Love, Simon \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1JHZTusMlrbbTBC3xHt2Gw) | 3:25 |
 | 234 | [Corpus Christi](https://open.spotify.com/track/7Hkwpt3GaRntiCrbCyJ4BN) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE) | [ARIZONA BABY](https://open.spotify.com/album/6wi40lIjhukePWyXRKY7qO) | 2:52 |
 | 235 | [Barlights](https://open.spotify.com/track/0wkDejjx6fJhdPilVnvYMP) | [fun.](https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0) | [Aim and Ignite \(Deluxe Version\)](https://open.spotify.com/album/39vNHJ3nDr6oO9mWLrRpsI) | 4:17 |
@@ -361,4 +361,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyqhBuzEZK8S.md) - [plain]
 | 351 | [W.95th Street High](https://open.spotify.com/track/6D4wRSYyOHfJkYs2VelrbW) | [Steel Train](https://open.spotify.com/artist/21GlDdSK6L1AvnMSbKh4Ut) | [Twilight Tales From The Prairies Of The Sun](https://open.spotify.com/album/5fJVIiklRAtq8xC0TdYZvO) | 4:21 |
 | 352 | [I Will Stay Here](https://open.spotify.com/track/0Je3AfZFiRde3KcvZYlCS0) | [Steel Train](https://open.spotify.com/artist/21GlDdSK6L1AvnMSbKh4Ut) | [Twilight Tales From The Prairies Of The Sun](https://open.spotify.com/album/5fJVIiklRAtq8xC0TdYZvO) | 5:46 |
 
-Snapshot ID: `AcSNXAAAAACzCbFMrtt9/bde1ac2zI0M`
+Snapshot ID: `AcSS/AAAAADzaLBQDiNW7jLd3Y5JjMmP`

@@ -4,7 +4,7 @@
 
 > Our editors' picks of the best <a href="spotify:genre:0JQ5DAqbMKFImHYGo3eTSg">Fresh Finds</a>  tracks around the world this year\. Cover: The Belair Lip Bombs
 
-165 songs - 9 hr 6 min
+166 songs - 9 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [Play](https://open.spotify.com/track/4iE0gwQnXHc7I9bbTkzlhm) | [james K](https://open.spotify.com/artist/25BObiRSDCMwVrBGIVaLIf) | [Friend](https://open.spotify.com/album/5clpTIKRLA4BTRVwrtacPp) | 4:34 | 2025-12-03 |  |
 | [Pretty Girls](https://open.spotify.com/track/56U1pIituJfEkU0impIpYA) | [Honeyglaze](https://open.spotify.com/artist/0IJZjR1tj2EudGR8jvxZtM) | [Pretty Girls](https://open.spotify.com/album/0i2NBNbgRnLyyUR2vIEOks) | 3:54 | 2024-12-04 | 2025-12-04 |
 | [PrimeMagic.](https://open.spotify.com/track/33K5MfsvaF4X01YyhzreKb) | [Thelonious](https://open.spotify.com/artist/7oMI2F5UkZ6zozGE7jxRRI), [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS) | [FromTheMud.](https://open.spotify.com/album/51yAjAHupbv08hFJm4VgpY) | 3:27 | 2025-12-03 | 2025-12-07 |
+| [QUAY VỀ](https://open.spotify.com/track/5iHWbMNn1nmJFS9UpkfOCS) | [EREN](https://open.spotify.com/artist/1CmpPe389rlcewV0pAmxyq), [Bbynascar](https://open.spotify.com/artist/70xqUA23Q0PdxUOMqUCkqR), [Taki](https://open.spotify.com/artist/5Gwp3UAgzZ1v9UjuZJOst2) | [DEJA VU](https://open.spotify.com/album/6BVlsEO0l2upeO4fukXxvf) | 3:03 | 2025-12-03 |  |
 | [Racing Mount Pleasant](https://open.spotify.com/track/1O4YoWMQys8jrSfCuDZQit) | [Racing Mount Pleasant](https://open.spotify.com/artist/5zaSiNpGxS2lOvZTIZiOQX) | [Racing Mount Pleasant](https://open.spotify.com/album/037axs2AfEPUD5LtjfFYSv) | 5:15 | 2025-12-03 |  |
 | [REAL](https://open.spotify.com/track/7eorbMGNa05rVo2v6d7SQD) | [total tommy](https://open.spotify.com/artist/2dbSR7CwWSGsMkuKVITKRc) | [REAL](https://open.spotify.com/album/6vtQu8WfdKOpN14pOHoa9g) | 3:23 | 2024-12-04 | 2025-12-04 |
 | [Rich](https://open.spotify.com/track/4OYKHiuqAjiSQJjn08LNXy) | [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [Rich](https://open.spotify.com/album/5T3wN7U12GfIVduaX8aDU3) | 3:55 | 2024-12-04 | 2025-12-04 |
@@ -161,7 +162,7 @@
 | [Unravel](https://open.spotify.com/track/4sbpgpAo9Lud8XXib5xPZO) | [Guinevere](https://open.spotify.com/artist/0SdOBSTmq4qpS3Qxb6NvDn) | [Unravel](https://open.spotify.com/album/4ztRjOz5dFnwbFXiAw6t6L) | 4:02 | 2024-12-04 | 2025-12-04 |
 | [use me!!!!!!!](https://open.spotify.com/track/4RvaI6d8mWCfEcGffUN52w) | [Olga Myko](https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm) | [WHEN A GIRL CRIES](https://open.spotify.com/album/4Wd9B89j1dUHo2bLYJPWch) | 2:04 | 2025-12-03 |  |
 | [Virtual Hug](https://open.spotify.com/track/0QZEBlTEC1ExBARHuzk50H) | [Bloomsday](https://open.spotify.com/artist/6DhYH5Yx7mZG0qkBmioMbI) | [Heart of the Artichoke](https://open.spotify.com/album/01Y6gij1vhxRlST9TEfDSK) | 3:09 | 2024-12-04 | 2025-12-04 |
-| [Vital Loop](https://open.spotify.com/track/2AGWiecGcTXIX7JQTCy5Ht) | [Kelbin](https://open.spotify.com/artist/08lwmg7ki4mdO5VN7cKdi6) | [Vital Loop](https://open.spotify.com/album/2tKPlH1XGX2nP1Bm0Q2MQ3) | 3:56 | 2025-12-03 |  |
+| [Vital Loop](https://open.spotify.com/track/2AGWiecGcTXIX7JQTCy5Ht) | [Kelbin](https://open.spotify.com/artist/08lwmg7ki4mdO5VN7cKdi6) | [Vital Loop](https://open.spotify.com/album/2tKPlH1XGX2nP1Bm0Q2MQ3) | 3:56 | 2025-12-03 | 2026-05-24 |
 | [WAKE UP](https://open.spotify.com/track/6Rn0E6cj7o9y1HreiMv0Aw) | [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [WAKE UP](https://open.spotify.com/album/3mI0rvBdda0WogdFHQI2Uu) | 2:44 | 2024-12-04 | 2025-12-04 |
 | [Watch Me Drive Them Dogs Wild](https://open.spotify.com/track/6iu45OgK2U9qgefiUzQT7l) | [Merce Lemon](https://open.spotify.com/artist/4u2LxHDBsFDH3J9NumXSCH) | [Watch Me Drive Them Dogs Wild](https://open.spotify.com/album/2o5JtJXMyAsQVbHJUhhIvs) | 4:50 | 2024-12-04 | 2025-12-04 |
 | [Why Is It Light Out?](https://open.spotify.com/track/1f6xPiazNywm5rC1krjr5O) | [The Kilans](https://open.spotify.com/artist/4OyAwz3jcZcejoUd3bc5Qt) | [Why Is It Light Out?](https://open.spotify.com/album/6904DB41CM3pjgKkUTKWjm) | 4:02 | 2024-12-04 | 2025-12-04 |

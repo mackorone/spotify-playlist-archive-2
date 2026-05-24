@@ -1,13 +1,29 @@
 {
   "description": "Melanie Martinez is having a main pop girl emergency \ud83c\udd98",
-  "num_followers": 228047,
+  "num_followers": 228125,
   "original_name": "OBSESSED",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABJ7iUsgVHQLz7f/ulF5WrunSh0m",
+  "snapshot_id": "AAAAADWlKiyNBhv7p0lvX+Lqp7O3Cosg",
   "tracks": [
+    {
+      "added_at": "2026-05-22 04:41:54",
+      "album": {
+        "name": "THE VATICAN",
+        "url": "https://open.spotify.com/album/2zeqXZF8rv2jO8iuOEOhQU"
+      },
+      "artists": [
+        {
+          "name": "Melanie Martinez",
+          "url": "https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8"
+        }
+      ],
+      "duration_ms": 219128,
+      "name": "THE VATICAN - EDIT",
+      "url": "https://open.spotify.com/track/5ulkTW7R4R9257cArPdhAW"
+    },
     {
       "added_at": "2026-04-17 04:01:28",
       "album": {
@@ -25,20 +41,20 @@
       "url": "https://open.spotify.com/track/5rfOARz6QO73wPATyMtQQZ"
     },
     {
-      "added_at": "2026-05-22 04:41:54",
+      "added_at": "2026-05-23 17:28:23",
       "album": {
-        "name": "THE VATICAN",
-        "url": "https://open.spotify.com/album/2zeqXZF8rv2jO8iuOEOhQU"
+        "name": "PARTIES IN LA",
+        "url": "https://open.spotify.com/album/67DRtDC05EXXlanrnThwvw"
       },
       "artists": [
         {
-          "name": "Melanie Martinez",
-          "url": "https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8"
+          "name": "XKYLAR",
+          "url": "https://open.spotify.com/artist/0wel071ci7nqjnNT0ywKWq"
         }
       ],
-      "duration_ms": 219128,
-      "name": "THE VATICAN - EDIT",
-      "url": "https://open.spotify.com/track/5ulkTW7R4R9257cArPdhAW"
+      "duration_ms": 148297,
+      "name": "PARTIES IN LA",
+      "url": "https://open.spotify.com/track/7ilxKzPgTaF5P8N8BBlKFW"
     },
     {
       "added_at": "2026-05-18 21:36:03",
@@ -121,20 +137,36 @@
       "url": "https://open.spotify.com/track/094wH38ECeDIUkoBsfjwO7"
     },
     {
-      "added_at": "2026-05-22 05:19:17",
+      "added_at": "2026-05-23 17:32:36",
       "album": {
-        "name": "Freya",
-        "url": "https://open.spotify.com/album/1Wg8hy0jo9AHMtZTonn8Oc"
+        "name": "Butterfly Feelings",
+        "url": "https://open.spotify.com/album/7awlJuOXZ3LIf35souKNDu"
       },
       "artists": [
         {
-          "name": "KEiiNO",
-          "url": "https://open.spotify.com/artist/0chh7dlaUzEreDTulHiOlm"
+          "name": "Icona Pop",
+          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
         }
       ],
-      "duration_ms": 175853,
-      "name": "Freya",
-      "url": "https://open.spotify.com/track/1VY01fg1ACZJTo26fqCeGg"
+      "duration_ms": 155708,
+      "name": "Butterfly Feelings",
+      "url": "https://open.spotify.com/track/7HJdIi4rzQqj5LkUQfZWRb"
+    },
+    {
+      "added_at": "2026-05-19 16:45:59",
+      "album": {
+        "name": "You Oughta Know",
+        "url": "https://open.spotify.com/album/2O6vpPMDKkiwkyGuH0LgaZ"
+      },
+      "artists": [
+        {
+          "name": "Cherry Bomb",
+          "url": "https://open.spotify.com/artist/2MpXbvJeuKYA2qyxdB0eCM"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "You Oughta Know",
+      "url": "https://open.spotify.com/track/5IumxYIOm0yiNpGad0SCgY"
     },
     {
       "added_at": "2026-05-15 04:01:54",
@@ -153,20 +185,20 @@
       "url": "https://open.spotify.com/track/6rYyqOyyw9bgugmqUaoehR"
     },
     {
-      "added_at": "2026-05-19 16:45:59",
+      "added_at": "2026-05-22 05:19:17",
       "album": {
-        "name": "You Oughta Know",
-        "url": "https://open.spotify.com/album/2O6vpPMDKkiwkyGuH0LgaZ"
+        "name": "Freya",
+        "url": "https://open.spotify.com/album/1Wg8hy0jo9AHMtZTonn8Oc"
       },
       "artists": [
         {
-          "name": "Cherry Bomb",
-          "url": "https://open.spotify.com/artist/2MpXbvJeuKYA2qyxdB0eCM"
+          "name": "KEiiNO",
+          "url": "https://open.spotify.com/artist/0chh7dlaUzEreDTulHiOlm"
         }
       ],
-      "duration_ms": 228000,
-      "name": "You Oughta Know",
-      "url": "https://open.spotify.com/track/5IumxYIOm0yiNpGad0SCgY"
+      "duration_ms": 175853,
+      "name": "Freya",
+      "url": "https://open.spotify.com/track/1VY01fg1ACZJTo26fqCeGg"
     },
     {
       "added_at": "2026-05-22 05:19:17",
@@ -1509,22 +1541,6 @@
       "url": "https://open.spotify.com/track/3D4trADwg7QGGpFlLSLg48"
     },
     {
-      "added_at": "2026-03-06 05:00:09",
-      "album": {
-        "name": "Tweak",
-        "url": "https://open.spotify.com/album/0VeiKxNxcCRrzgNHuhyMXu"
-      },
-      "artists": [
-        {
-          "name": "GIRLSET",
-          "url": "https://open.spotify.com/artist/3D2TVeexyIXOtc8F4qEZ6P"
-        }
-      ],
-      "duration_ms": 148704,
-      "name": "Tweak",
-      "url": "https://open.spotify.com/track/3BuaksAZoXoIr8NoxAsIOO"
-    },
-    {
       "added_at": "2026-02-20 05:00:50",
       "album": {
         "name": "YDH",
@@ -1591,22 +1607,6 @@
       "duration_ms": 243760,
       "name": "Dancing On The Wall",
       "url": "https://open.spotify.com/track/3bGsC1pOytPEIeYL51p9Pp"
-    },
-    {
-      "added_at": "2026-02-13 05:00:31",
-      "album": {
-        "name": "Fleeting",
-        "url": "https://open.spotify.com/album/4NryqaG2gunT4GC5edrqVA"
-      },
-      "artists": [
-        {
-          "name": "Sarah Kinsley",
-          "url": "https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC"
-        }
-      ],
-      "duration_ms": 171386,
-      "name": "Truth Of Pursuit",
-      "url": "https://open.spotify.com/track/213XNePBS3v9QW0lnPUXmZ"
     },
     {
       "added_at": "2026-01-23 05:00:26",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOhsna07Pvz.md) - [plain]
 
 > O balanço é certo: a sua festa de brasilidades tá aqui!
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,378 likes - 70 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,400 likes - 70 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOhsna07Pvz.md) - [plain]
 | 40 | [Varanda Suspensa](https://open.spotify.com/track/1GpCZ2VpFKuuVGIZq12dum) | [Céu](https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn) | [Tropix](https://open.spotify.com/album/3OjQpMNunvljKP0tFVGip4) | 4:48 |
 | 41 | [Brasil](https://open.spotify.com/track/76JWrb06MR9QfWKpp1F282) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Focus On...500 Years Of Brazil](https://open.spotify.com/album/04srNdaNXy47P5bcocHGA0) | 2:48 |
 | 42 | [Bananeira \(Remastered\)](https://open.spotify.com/track/3Z2Thcr0SrxKcQpvouDpR8) | [Emílio Santiago](https://open.spotify.com/artist/6quVEYAfHqHwpp8JujXBHt) | [Emilio Santiago \(Remastered\)](https://open.spotify.com/album/2FlDGXezVaILbnqmFIb2vU) | 2:53 |
-| 43 | [Zé Do Caroço](https://open.spotify.com/track/1h7XWoJkUP6dk89XYBoaaZ) | [Leci Brandao](https://open.spotify.com/artist/5iiQvuDCnlXoK8iAhydW0u) | [Leci Brandão](https://open.spotify.com/album/4AnfgQ4FOryX8qy0w1xzm6) | 3:24 |
-| 44 | [Minha Teimosia, uma Arma pra Te Conquistar](https://open.spotify.com/track/0bgMcNCgj6fhJXxnQ0LADj) | [Los Sebosos Postizos](https://open.spotify.com/artist/6J3woQCTe8Tk7APW7vjy4H) | [Los Sebosos Postizos Interpretam Jorge Ben Jor](https://open.spotify.com/album/4nGU7VtQYF9rIpN0cXrThb) | 4:08 |
+| 43 | [Minha Teimosia, uma Arma pra Te Conquistar](https://open.spotify.com/track/0bgMcNCgj6fhJXxnQ0LADj) | [Los Sebosos Postizos](https://open.spotify.com/artist/6J3woQCTe8Tk7APW7vjy4H) | [Los Sebosos Postizos Interpretam Jorge Ben Jor](https://open.spotify.com/album/4nGU7VtQYF9rIpN0cXrThb) | 4:08 |
+| 44 | [Zé Do Caroço](https://open.spotify.com/track/1h7XWoJkUP6dk89XYBoaaZ) | [Leci Brandao](https://open.spotify.com/artist/5iiQvuDCnlXoK8iAhydW0u) | [Leci Brandão](https://open.spotify.com/album/4AnfgQ4FOryX8qy0w1xzm6) | 3:24 |
 | 45 | [Cabeça de Nêgo](https://open.spotify.com/track/0yhXCGfLaFycBWrgLK5ZpO) | [Instituto](https://open.spotify.com/artist/33xmh99C0KxDvzaPjR178o), [Sabotage](https://open.spotify.com/artist/5deK5HnwbEKvge2svL0i0B) | [Coleção Nacional](https://open.spotify.com/album/3PHCUrJJrQOezPUklD0tpu) | 3:57 |
 | 46 | [Vaca Profana](https://open.spotify.com/track/1viMg0yGmgWy1EeR7CNeyF) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Gal Canta Caetano](https://open.spotify.com/album/2881CXCKtljZRNdKMerwYV) | 4:44 |
 | 47 | [Conversa Fiada](https://open.spotify.com/track/6r4NNOFLKjjsqdK6fq4qoY) | [Lamparina](https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z) | [Conversa Fiada](https://open.spotify.com/album/2V0ZVQuPdzePp6hO19WFWm) | 3:16 |

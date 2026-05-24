@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO35m9Q4.md) - [plain]
 
 > This is Stevie Ray Vaughan\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,648 likes - 49 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,659 likes - 49 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,11 +14,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO35m9Q4.md) - [plain]
 | 4 | [Life by the Drop](https://open.spotify.com/track/1cyftogE58xHzSgb77zcsn) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Archives](https://open.spotify.com/album/5k4yS9NqQQnvPqe5IBJGSH) | 2:27 |
 | 5 | [Mary Had a Little Lamb](https://open.spotify.com/track/0nFZ2HQRnIxiwraCm2X6Uq) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Texas Flood \(Legacy Edition\)](https://open.spotify.com/album/1AL5oXZRtTc8PyhcTwg4xQ) | 2:46 |
 | 6 | [Tin Pan Alley \(AKA Roughest Place in Town\)](https://open.spotify.com/track/7zto61V8ySp03Qi6X1LU2X) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Couldn't Stand The Weather \(Legacy Edition\)](https://open.spotify.com/album/5vxBOzakDbJleNA1rbA7FQ) | 9:11 |
-| 7 | [The House Is Rockin'](https://open.spotify.com/track/4BYmnYGNVBVm2JHVxFNMXj) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [In Step](https://open.spotify.com/album/1d3gakptaQZQ4zw9YbOagk) | 2:24 |
+| 7 | [Tightrope](https://open.spotify.com/track/6pFQLoJefvBCTXtjO2dn4t) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [In Step](https://open.spotify.com/album/1d3gakptaQZQ4zw9YbOagk) | 4:40 |
 | 8 | [Look at Little Sister](https://open.spotify.com/track/4yoxbkaIWxaQJ8vKhQYgJt) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Soul to Soul](https://open.spotify.com/album/2WYvNaZ68vRmun6Jy0Qp1e) | 3:07 |
 | 9 | [Texas Flood](https://open.spotify.com/track/5MtN38MGEWJt60LwtBmFNP) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Texas Flood \(Legacy Edition\)](https://open.spotify.com/album/1AL5oXZRtTc8PyhcTwg4xQ) | 5:20 |
 | 10 | [Cold Shot](https://open.spotify.com/track/3QwDN08fGnGfRrsn5wLTej) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Couldn't Stand The Weather \(Legacy Edition\)](https://open.spotify.com/album/5vxBOzakDbJleNA1rbA7FQ) | 4:00 |
-| 11 | [Tightrope](https://open.spotify.com/track/6pFQLoJefvBCTXtjO2dn4t) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [In Step](https://open.spotify.com/album/1d3gakptaQZQ4zw9YbOagk) | 4:40 |
+| 11 | [The House Is Rockin'](https://open.spotify.com/track/4BYmnYGNVBVm2JHVxFNMXj) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [In Step](https://open.spotify.com/album/1d3gakptaQZQ4zw9YbOagk) | 2:24 |
 | 12 | [Life Without You](https://open.spotify.com/track/125db6HkQqKHJMVB8mULlR) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Soul to Soul](https://open.spotify.com/album/2WYvNaZ68vRmun6Jy0Qp1e) | 4:18 |
 | 13 | [Lenny](https://open.spotify.com/track/0h4jHdNzUrV9eGR2PT5R8c) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Texas Flood \(Legacy Edition\)](https://open.spotify.com/album/1AL5oXZRtTc8PyhcTwg4xQ) | 4:57 |
 | 14 | [The Sky Is Crying \- 1984 Version](https://open.spotify.com/track/0rXcAvuQdrQakSPhIOZ6f8) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Couldn't Stand The Weather \(Legacy Edition\)](https://open.spotify.com/album/5vxBOzakDbJleNA1rbA7FQ) | 4:10 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO35m9Q4.md) - [plain]
 | 48 | [I'm Gonna Move To The Outskirts Of Town \- Remastered 2024](https://open.spotify.com/track/0jDyUtoWaNlUJoX0sdwsBf) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o), [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [In Session \(Deluxe Edition / Remastered 2024\)](https://open.spotify.com/album/6uSHXKhCj58I8IgbjrxtV2) | 23:22 |
 | 49 | [Blues At Sunrise](https://open.spotify.com/track/2iRvnj638AaNON730B5yIs) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o), [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [In Session](https://open.spotify.com/album/0NVSx5grH054ZMpiOYieyb) | 15:10 |
 
-Snapshot ID: `ag5LAAAAAABObB77NSGPg+FHPl+uYF9T`
+Snapshot ID: `ag+cgAAAAAAEqre6cx1SzKF8G5FgvTGg`

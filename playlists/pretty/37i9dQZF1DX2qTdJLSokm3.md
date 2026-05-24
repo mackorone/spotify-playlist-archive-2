@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2qTdJLSokm3.md) - [plain]
 
 > <a href="https://webtoon.onelink.me/u70y/Spotify1">화산귀환</a>의 공식 플레이리스트입니다\. 나와 음악 취향이 닮은 캐릭터 커버를 만나보세요\. 당신의 캐릭터는 어떤 캐릭터인가요?
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,164 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,168 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

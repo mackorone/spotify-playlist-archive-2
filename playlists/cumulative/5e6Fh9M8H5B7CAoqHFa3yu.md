@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,252 songs - 5 day 13 hr 7 min
+2,253 songs - 5 day 13 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2131,6 +2131,7 @@
 | [Warrior Dub](https://open.spotify.com/track/0MF0rFPKo8l985uFLgQpmL) | [Foshan Roots](https://open.spotify.com/artist/0Erm3ZsKDZVUF4NdUMfYtj) | [Sky Warrior Dub](https://open.spotify.com/album/6mgr4wFK7XSJOdmapRBjun) | 4:28 | 2024-05-01 |  |
 | [Wasted Time](https://open.spotify.com/track/7oDD9dSHwFwOIUhQfvjGzT) | [STH](https://open.spotify.com/artist/6aEjseFZvUIvGHcd9bKV1K) | [Somewhere In Time](https://open.spotify.com/album/29bJwFNO13M6N0rdhV6qFm) | 4:11 | 2026-02-08 |  |
 | [Waters of Quiet Healing \(Thème du Soin\)](https://open.spotify.com/track/2CbEox9lXcr1a2FUKgLr39) | [Florian Bochkovsky](https://open.spotify.com/artist/2VGhfRg7fACPIC0txbKqCp) | [Le Royaume D'Ailm \(Original Game Soundtrack\)](https://open.spotify.com/album/41i1shI977hJN6kHl7ZBWR) | 1:38 | 2025-12-30 |  |
+| [Waves Rollin' Through](https://open.spotify.com/track/2WfKsGWtrpdRMGY9wzmayZ) | [Patty C](https://open.spotify.com/artist/6hIMbinmaxmhlAse2uSiYF) | [Crash On The Beach](https://open.spotify.com/album/2ULldHFk7sPDTNXD0TwTzk) | 4:15 | 2026-05-23 |  |
 | [Way](https://open.spotify.com/track/6KLOrYcWx5D4fm3oGvTBEP) | [Foad Jafari](https://open.spotify.com/artist/0bD1tTxPLVkAFvaHliwAnk) | [Way](https://open.spotify.com/album/5DyrBT1slzCwNfjsSy96CS) | 2:47 | 2026-02-24 |  |
 | [we ball](https://open.spotify.com/track/7myDvJcijK8Jzh7hKcjQ19) | [ukiyo!](https://open.spotify.com/artist/0gvFPkzigO3d8zneBQGPkQ) | [we ball](https://open.spotify.com/album/0a6zBeVl8WRvvHFcpDWCd6) | 1:29 | 2026-01-04 |  |
 | [We Lived \- Radio Edit](https://open.spotify.com/track/6qlzZSpHoDztlEdlPy2YO9) | [Steve Lee Jefferson](https://open.spotify.com/artist/5VPp8TdbjGnTiXl3BxuVpX) | [We Lived \(Radio Edit\)](https://open.spotify.com/album/7hVA74XJrqhbVw5Uhv75H3) | 3:59 | 2025-05-25 |  |

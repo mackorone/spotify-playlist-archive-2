@@ -1,6 +1,6 @@
 {
   "description": "Festive season staples and new holiday favourites \ud83c\udf81",
-  "num_followers": 1103568,
+  "num_followers": 1103516,
   "original_name": "Christmas is Coming",
   "owner": {
     "name": "Spotify",
@@ -867,22 +867,6 @@
     {
       "added_at": "2025-12-04 05:43:16",
       "album": {
-        "name": "Gifts For Me",
-        "url": "https://open.spotify.com/album/1koxpBaSddYY1xd5YmEeN2"
-      },
-      "artists": [
-        {
-          "name": "Meghan Trainor",
-          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
-        }
-      ],
-      "duration_ms": 150209,
-      "name": "Gifts For Me",
-      "url": "https://open.spotify.com/track/0nhpTFbJ3uX4qqL9qaQj5B"
-    },
-    {
-      "added_at": "2025-12-04 05:43:16",
-      "album": {
         "name": "A Jolly Christmas From Frank Sinatra",
         "url": "https://open.spotify.com/album/0ny6mZMBrYSO0s8HAKbcVq"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 146293,
       "name": "Silent Night - 1999 Remaster",
       "url": "https://open.spotify.com/track/5yNgdD8E6WruhULb4n2Con"
+    },
+    {
+      "added_at": "2025-12-04 05:43:16",
+      "album": {
+        "name": "Gifts For Me",
+        "url": "https://open.spotify.com/album/1koxpBaSddYY1xd5YmEeN2"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "duration_ms": 150209,
+      "name": "Gifts For Me",
+      "url": "https://open.spotify.com/track/0nhpTFbJ3uX4qqL9qaQj5B"
     },
     {
       "added_at": "2025-12-04 05:43:16",
@@ -983,18 +983,18 @@
     {
       "added_at": "2025-12-04 05:43:16",
       "album": {
-        "name": "Driving Home for Christmas - Spotify Singles Holiday",
-        "url": "https://open.spotify.com/album/0gmojjrEnKs0BoN1WnYh8x"
+        "name": "Love Is A Compass (Disney supporting Make-A-Wish)",
+        "url": "https://open.spotify.com/album/24JJvusSGIAOn9GiHLvWz9"
       },
       "artists": [
         {
-          "name": "Dasha",
-          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
         }
       ],
-      "duration_ms": 166551,
-      "name": "Driving Home for Christmas - Spotify Singles Holiday",
-      "url": "https://open.spotify.com/track/2gciS7UJjv59l7608DFGNl"
+      "duration_ms": 181469,
+      "name": "Love Is A Compass - Disney supporting Make-A-Wish",
+      "url": "https://open.spotify.com/track/6lx41mPrde3vkcb8qUQOOi"
     }
   ],
   "unique_name": "Christmas is Coming",

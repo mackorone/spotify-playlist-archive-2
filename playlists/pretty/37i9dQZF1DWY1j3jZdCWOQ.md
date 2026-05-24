@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1j3jZdCWOQ.md) - [plain]
 
 > Spain minus the S =
 
-[Spotify](https://open.spotify.com/user/spotify) - 585,156 likes - 150 songs - 7 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 585,241 likes - 150 songs - 7 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1j3jZdCWOQ.md) - [plain]
 | 87 | [Be My Escape](https://open.spotify.com/track/5eK5xQl8EGzR5zYkxaDCAn) | [Relient K](https://open.spotify.com/artist/3nJWBJvK7uGvfp4iZh9CkN) | [Mmhmm](https://open.spotify.com/album/4UZTjODd6CvRN1Lx8g6hBV) | 4:00 |
 | 88 | [icantbelieveiletyougetaway](https://open.spotify.com/track/2F4vgXgGEZPCnBNBfqXhmH) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [icantbelieveiletyougetaway](https://open.spotify.com/album/6nOkixWfx52WZnIfTBcmA4) | 2:15 |
 | 89 | [Digital Silence](https://open.spotify.com/track/6cJSXxvl9l94huIUIqsEQo) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [Digital Silence](https://open.spotify.com/album/0s2Z94Uv7DpRBkIx8UZnmp) | 3:18 |
-| 90 | [Obsession](https://open.spotify.com/track/1mK4v6sSCbKR2mMAWG2zMy) | [Thornhill](https://open.spotify.com/artist/2dE5audbkV3o5cKxvM7lBD) | [BODIES](https://open.spotify.com/album/5bJeb7bvHrxNvZ6UskCoqm) | 3:17 |
-| 91 | [ANGELS & DEMONS](https://open.spotify.com/track/3mkz6eI4Sram8UhO3teU76) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [Tell Me About Tomorrow](https://open.spotify.com/album/11xZPFzFKdaLz2BTS1d48T) | 2:40 |
+| 90 | [ANGELS & DEMONS](https://open.spotify.com/track/3mkz6eI4Sram8UhO3teU76) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [Tell Me About Tomorrow](https://open.spotify.com/album/11xZPFzFKdaLz2BTS1d48T) | 2:40 |
+| 91 | [Obsession](https://open.spotify.com/track/1mK4v6sSCbKR2mMAWG2zMy) | [Thornhill](https://open.spotify.com/artist/2dE5audbkV3o5cKxvM7lBD) | [BODIES](https://open.spotify.com/album/5bJeb7bvHrxNvZ6UskCoqm) | 3:17 |
 | 92 | [It Takes Two](https://open.spotify.com/track/2cqxedldJT5vfjverE1n18) | [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4) | [Dilworth](https://open.spotify.com/album/6oO0Y4DCsJVCJ4RAj56snX) | 3:09 |
 | 93 | [sTraNgeRs](https://open.spotify.com/track/5fpq1wF8xa5tSSlcKHdmGQ) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [sTraNgeRs](https://open.spotify.com/album/55LIhZNcBHzrjNZ89I0IRc) | 3:15 |
 | 94 | [Loud Bark](https://open.spotify.com/track/4iaSz388a4iRMNRJZSClVG) | [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9) | [I Got Heaven](https://open.spotify.com/album/5ROzqM7rbMYoKbQIw4i7fp) | 3:03 |
@@ -112,8 +112,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1j3jZdCWOQ.md) - [plain]
 | 102 | [The Great Escape](https://open.spotify.com/track/0dQVYG5kXtmlDi9haVuQ6T) | [BOYS LIKE GIRLS](https://open.spotify.com/artist/0vWCyXMrrvMlCcepuOJaGI) | [Boys Like Girls](https://open.spotify.com/album/0qplxfd9hCYRLkxl8IupRx) | 3:26 |
 | 103 | [obsessed](https://open.spotify.com/track/0pWB4X7xxFaTyQYdXXXpYw) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS \(spilled\)](https://open.spotify.com/album/0AGTYuKIZpklJih6pEmoWp) | 2:50 |
 | 104 | [Candy Coated Lie$](https://open.spotify.com/track/5Xr1q4GLTnNZu6c4K9rsNh) | [Hot Milk](https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK) | [Candy Coated Lie$](https://open.spotify.com/album/2hqp0oGlkPppaDtmROiUmN) | 2:57 |
-| 105 | [Bad Reputation](https://open.spotify.com/track/7pu8AhGUxHZSCWTkQ2eb5M) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Bad Reputation \(Expanded Edition\)](https://open.spotify.com/album/1gB28ytYFQElaXngAfeYep) | 2:49 |
-| 106 | [Pink Panther](https://open.spotify.com/track/32ljWqOxw3ckyuaUc882F6) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4) | [Bimbocore](https://open.spotify.com/album/40yJpavMZdcV1lhGNwWJZ0) | 2:22 |
+| 105 | [Pink Panther](https://open.spotify.com/track/32ljWqOxw3ckyuaUc882F6) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4) | [Bimbocore](https://open.spotify.com/album/40yJpavMZdcV1lhGNwWJZ0) | 2:22 |
+| 106 | [Bad Reputation](https://open.spotify.com/track/7pu8AhGUxHZSCWTkQ2eb5M) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Bad Reputation \(Expanded Edition\)](https://open.spotify.com/album/1gB28ytYFQElaXngAfeYep) | 2:49 |
 | 107 | [Bubblegum Bitch](https://open.spotify.com/track/0ZFBKLOZLIM16RAUb5eomN) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [Electra Heart \(Deluxe\)](https://open.spotify.com/album/5N1aNUXaHDD7YsjhbCM9JZ) | 2:34 |
 | 108 | [Karma](https://open.spotify.com/track/7vXtuHrqgzQi58ihUO7L2d) | [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG) | [Internet Killed The Rockstar](https://open.spotify.com/album/2XeTY6zdUIUfItgZxXKsiO) | 2:39 |
 | 109 | [TEETH \(feat\. Diggy Graves\)](https://open.spotify.com/track/1IsOdvUcz8eoN1qgoNP1sC) | [WesGhost](https://open.spotify.com/artist/6YmJPuYzqe1HsJArGYcHBJ), [Diggy Graves](https://open.spotify.com/artist/1TpOqFPZPxxeuLHL3oSl2t) | [TEETH \(feat\. Diggy Graves\)](https://open.spotify.com/album/3kyhds57Cj6kSPZhqJ1w4I) | 2:29 |
@@ -140,8 +140,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1j3jZdCWOQ.md) - [plain]
 | 130 | [Holy Smokes](https://open.spotify.com/track/0SACHSO3zWyljwcPkLOWOd) | [Bohnes](https://open.spotify.com/artist/4aN7T7NNFFMRJgVbRPne8q) | [Holy Smokes](https://open.spotify.com/album/59n0gSGETWB3cvjHxVHPNu) | 3:14 |
 | 131 | [Afterglow](https://open.spotify.com/track/61Wb1e1WDS5FtXQ9Wc6Efs) | [chokecherry](https://open.spotify.com/artist/6FO0bkcJ4D8MJ1REvBRhNT) | [Afterglow](https://open.spotify.com/album/1jJIwhz4U3GCRJnCXo8pTz) | 4:22 |
 | 132 | [Love Me The Same](https://open.spotify.com/track/720YpweGSLr04awACpdeP7) | [Suzy Clue](https://open.spotify.com/artist/0gohQ3t7I3QY3fjr7DJtUK) | [Love Me The Same](https://open.spotify.com/album/4eDcUS6QyqR2Axrqnsj8GC) | 2:54 |
-| 133 | [The Failure Of My Life Run On Self Will](https://open.spotify.com/track/4hfsdPZS80qvGSjFf7EyAU) | [Car Underwater](https://open.spotify.com/artist/4l2d5QcDdawmA85SPn4GyF) | [The Failure Of My Life Run On Self Will](https://open.spotify.com/album/4EttuajtZtgdE3x75HLZjQ) | 3:39 |
-| 134 | [You Hear Yes](https://open.spotify.com/track/72KK2zfWDMXDwHk2WEUUCv) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5), [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9), [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [You Hear Yes](https://open.spotify.com/album/3ZuW9XxhtJDniEiR9nLKYI) | 2:43 |
+| 133 | [You Hear Yes](https://open.spotify.com/track/72KK2zfWDMXDwHk2WEUUCv) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5), [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9), [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [You Hear Yes](https://open.spotify.com/album/3ZuW9XxhtJDniEiR9nLKYI) | 2:43 |
+| 134 | [The Failure Of My Life Run On Self Will](https://open.spotify.com/track/4hfsdPZS80qvGSjFf7EyAU) | [Car Underwater](https://open.spotify.com/artist/4l2d5QcDdawmA85SPn4GyF) | [The Failure Of My Life Run On Self Will](https://open.spotify.com/album/4EttuajtZtgdE3x75HLZjQ) | 3:39 |
 | 135 | [NEVER FUCKIN KNOW](https://open.spotify.com/track/4j0x1Io7KDUB81LrssaPRg) | [poutyface](https://open.spotify.com/artist/0H44O4IYqpTOGx4c5nV37f) | [NEVER FUCKIN KNOW \(Stripped\)](https://open.spotify.com/album/6sVSzO967Mo8TdiXG9uBrB) | 2:44 |
 | 136 | [Self Doubt](https://open.spotify.com/track/3hFTRq1u29M7V4Vz84UfPc) | [Ava Maybee](https://open.spotify.com/artist/56XHwBrYEOBDDGKr7BLDv9) | [Self Doubt](https://open.spotify.com/album/1VPDRTa6I8QIsWcuCO1Eyt) | 2:54 |
 | 137 | [bills](https://open.spotify.com/track/14z7tDjODXm7fy3YJpLIeR) | [Lev UFO](https://open.spotify.com/artist/3Dxu22WPSxB8cwk0IlmUSb) | [bills](https://open.spotify.com/album/0kh5VJhwXDcXKhw9i64iY7) | 2:25 |

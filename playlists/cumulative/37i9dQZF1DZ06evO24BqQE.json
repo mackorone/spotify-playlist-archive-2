@@ -283,6 +283,36 @@
     },
     {
       "album": {
+        "name": "Come Slide",
+        "url": "https://open.spotify.com/album/1w5cLDjyPVMfV1tYbziBk4"
+      },
+      "artists": [
+        {
+          "name": "KFMD",
+          "url": "https://open.spotify.com/artist/1OjbMcNg4moIhv8nnflAAa"
+        },
+        {
+          "name": "Qing Madi",
+          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        },
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "date_added": "2026-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183947,
+      "name": "Come Slide",
+      "url": "https://open.spotify.com/track/75uppmIvjtxiutMdmA8C9c"
+    },
+    {
+      "album": {
         "name": "The Game Needs Us",
         "url": "https://open.spotify.com/album/1lcyg1hfUrXOk81kXUv0be"
       },

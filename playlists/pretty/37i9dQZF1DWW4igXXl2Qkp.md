@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > The best new hip\-hop tracks from independent artists & labels\. Cover: <a href="spotify:artist:1zEHBw7xQf0drXZagRkciU">Molly Santana</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 289,683 likes - 75 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 289,734 likes - 75 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PgTwYgvl4t.md) - [plain]
 
 > Strictly Nigerian worship songs\. Cover: <a href=https://open.spotify.com/artist/6MRNiMCUDv9mDmMcaXhjgI?si=0pFwlycWSQ2EW\-aA6W\-b4A>Tkeyz</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,582 likes - 100 songs - 13 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,649 likes - 100 songs - 13 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

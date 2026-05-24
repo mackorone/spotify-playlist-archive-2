@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVP71DYelp29.md) - [plain]
 
 > The hits you know like you’ve never heard before\. Cover: Alessia Cara
 
-[Spotify](https://open.spotify.com/user/spotify) - 733,165 likes - 125 songs - 7 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 733,145 likes - 125 songs - 7 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVP71DYelp29.md) - [plain]
 | 60 | [Better Now \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/4rf444Z5dWQd6Jg5okkpZl) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Spotify Singles](https://open.spotify.com/album/0ycBRDotCpCVKO6ZHrsIR7) | 3:50 |
 | 61 | [California Dreamin' \- Spotify Singles](https://open.spotify.com/track/7D0q9XQg10KdlrjdDrrHph) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Spotify Singles](https://open.spotify.com/album/4U1VNYvSn36Xgak49ScRZD) | 2:53 |
 | 62 | [Cry Me a River \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/3pRtmEYL0hN9Lgn0IkNOra) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Spotify Singles](https://open.spotify.com/album/0AsNH8uuIf5hLbreW4zQSc) | 5:01 |
-| 63 | [Lost In Japan \- Recorded at Sound Stage Studios Nashville](https://open.spotify.com/track/2Q1f6exzZ9iYrv4IICnzVx) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Spotify Singles](https://open.spotify.com/album/0FbO77jrZy4CcXbtR0hqIE) | 3:19 |
-| 64 | [WITHOUT YOU \- Spotify Singles](https://open.spotify.com/track/4vztZvxyCfrct6XQanbo4S) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Spotify Singles](https://open.spotify.com/album/5NAZBw4kl4CLl8N14lGxQy) | 2:51 |
+| 63 | [WITHOUT YOU \- Spotify Singles](https://open.spotify.com/track/4vztZvxyCfrct6XQanbo4S) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Spotify Singles](https://open.spotify.com/album/5NAZBw4kl4CLl8N14lGxQy) | 2:51 |
+| 64 | [Lost In Japan \- Recorded at Sound Stage Studios Nashville](https://open.spotify.com/track/2Q1f6exzZ9iYrv4IICnzVx) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Spotify Singles](https://open.spotify.com/album/0FbO77jrZy4CcXbtR0hqIE) | 3:19 |
 | 65 | [Stan \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6H98N10OCmld8m5XyyulO3) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Spotify Singles](https://open.spotify.com/album/3t6qlpHjZ5sqv49NbUB5Rn) | 3:22 |
 | 66 | [Feel It Still \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5Xh97PTcc1LxMF8sc8Xhis) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Spotify Singles](https://open.spotify.com/album/7iDdb2gzMIVZEV0ZSlXu83) | 2:49 |
 | 67 | [Teenage Dirtbag \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0P9RpXoU2UnYmjzrEMlupy) | [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [Spotify Singles](https://open.spotify.com/album/6vJ831b419D1qjX1clMjk6) | 4:06 |
@@ -112,8 +112,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVP71DYelp29.md) - [plain]
 | 102 | [cool girl \- Recorded at Spotify Studios, NYC / 2016](https://open.spotify.com/track/6Cpcf5MKT7O04wlSJ7EixQ) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Spotify Singles](https://open.spotify.com/album/6FOhbAW6X74onlLJOTNIjD) | 3:24 |
 | 103 | [You Need To Calm Down \- Recorded At Abbey Road Studios, London](https://open.spotify.com/track/636fGHC8LlkdwUoNhYDPjR) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [Spotify Singles](https://open.spotify.com/album/2bOO36ZGSYDuXj27cdnxKE) | 3:15 |
 | 104 | [High Hopes \- Live Session from Spotify Studios NYC](https://open.spotify.com/track/73Hs5c2DJAavtKFZ28v1FM) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Spotify Singles](https://open.spotify.com/album/2ofkss2PsSivatWu9zTkdh) | 2:47 |
-| 105 | [I Want It That Way \- Spotify Singles](https://open.spotify.com/track/5k1c0BXxEEdi12SLVdysY1) | [William Prince](https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6) | [Spotify Singles](https://open.spotify.com/album/7rTB3uvhAwdwSTxDp1l3nf) | 3:26 |
-| 106 | [Waterfalls \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0L8A9wUfx9fQF8kmpAFFXk) | [TLC](https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq) | [Spotify Singles](https://open.spotify.com/album/0WzPaJFRUSZXW9RdYsgr8v) | 3:10 |
+| 105 | [Waterfalls \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0L8A9wUfx9fQF8kmpAFFXk) | [TLC](https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq) | [Spotify Singles](https://open.spotify.com/album/0WzPaJFRUSZXW9RdYsgr8v) | 3:10 |
+| 106 | [I Want It That Way \- Spotify Singles](https://open.spotify.com/track/5k1c0BXxEEdi12SLVdysY1) | [William Prince](https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6) | [Spotify Singles](https://open.spotify.com/album/7rTB3uvhAwdwSTxDp1l3nf) | 3:26 |
 | 107 | [Everything Now \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4pwnweaF5EFhy5Lfvg67f4) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [Spotify Singles](https://open.spotify.com/album/1KX4ZoGCzeRAkgHDXv0Wdz) | 5:37 |
 | 108 | [One Kiss \- Recorded At Spotify Studios Stockholm](https://open.spotify.com/track/3T8dc6UY2XubK8BTrYizA4) | [Scarlet Pleasure](https://open.spotify.com/artist/7wrulS1dfanckBnoxxEuS6) | [Spotify Singles](https://open.spotify.com/album/3dCEhJoGxyinkbmxtwk6dP) | 3:02 |
 | 109 | [Crazy \- Spotify Singles](https://open.spotify.com/track/11HrFfyr0btlPPBdGjqV7e) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Spotify Singles](https://open.spotify.com/album/76vwVXwTpLFl6FOFJGjPsg) | 4:52 |

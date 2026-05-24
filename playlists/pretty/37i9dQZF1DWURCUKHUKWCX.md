@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURCUKHUKWCX.md) - [plain]
 
 > Atmospheric and emotional piano pieces.
 
-[Spotify](https://open.spotify.com/user/spotify) - 577,572 likes - 200 songs - 10 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 577,617 likes - 200 songs - 10 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURCUKHUKWCX.md) - [plain]
 | 8 | [Together Without You](https://open.spotify.com/track/4mJNE34Zn9c02uYFXzKZKY) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Together Without You](https://open.spotify.com/album/03jWrOZNVYTi66EpdNuR8E) | 3:27 |
 | 9 | [Opaline](https://open.spotify.com/track/3NqpZ8OSEUIGl59cpx5XBo) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg), [Branford Marsalis](https://open.spotify.com/artist/1gPY6jETlC02stpXOUmSBH) | [Opaline](https://open.spotify.com/album/2tgpBIpWdTo8Yp5j6zwvbv) | 3:17 |
 | 10 | [Soglia](https://open.spotify.com/track/754YO0HqOWBbksx2vmWTAj) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy) | [Soglia](https://open.spotify.com/album/2JRm3nGkmyz6wBFCpkEJ3X) | 2:41 |
-| 11 | [Bird Suite I \- EyesDoubleSunrise](https://open.spotify.com/track/52ExlXtyxN85Djch17vknE) | [Christian Balvig](https://open.spotify.com/artist/072Ajngh4QfgHapsOeKEcg) | [Find And You Will Seek](https://open.spotify.com/album/1u0f2BJBSNTWaM9ExkxRdf) | 4:05 |
+| 11 | [Bird Suite I \- EyesDoubleSunrise](https://open.spotify.com/track/52ExlXtyxN85Djch17vknE) | [Christian Balvig](https://open.spotify.com/artist/072Ajngh4QfgHapsOeKEcg), [Ensemble Hermes](https://open.spotify.com/artist/35kfBwi73nkAcnGihLjXpY) | [Find And You Will Seek](https://open.spotify.com/album/1u0f2BJBSNTWaM9ExkxRdf) | 4:05 |
 | 12 | [Adulta](https://open.spotify.com/track/20HkJbvVcpramHwwMg6gr3) | [Suena](https://open.spotify.com/artist/3ZCy1ehzbzEAcpcHnHJYXd) | [Adulta](https://open.spotify.com/album/4DDy87wXTLUIJGmkoGGpSd) | 1:41 |
 | 13 | [Continuum](https://open.spotify.com/track/1LAuCAY9H01A2iANaS1fIY) | [Poppy Ackroyd](https://open.spotify.com/artist/5q3wKuiaCK8BRPZQSvehFd) | [Continuum](https://open.spotify.com/album/50n7kf88uW0sRYb9nYnTuj) | 5:06 |
 | 14 | [The Swan \- Reimagined](https://open.spotify.com/track/5WqQsbo40ZJU514i4qaS7Y) | [Camille Saint\-Saëns](https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0), [Verwey](https://open.spotify.com/artist/4ol6DQyE3YPC6XGrgkq5Nb) | [The Swan \- Reimagined](https://open.spotify.com/album/2tCcEfhsCr2jO7mXMGLAES) | 2:46 |

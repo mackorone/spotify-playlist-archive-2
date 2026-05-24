@@ -3418,7 +3418,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 180013,
       "name": "Atlas",
       "url": "https://open.spotify.com/track/3tLAAzVOXdrORIALmSfKV3"
@@ -11908,7 +11908,7 @@
       ],
       "date_added": "2026-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-11",
+      "date_removed": null,
       "duration_ms": 224998,
       "name": "drop dead",
       "url": "https://open.spotify.com/track/7Hc6qcJG4NtyZgbNvQyd8U"
@@ -19686,7 +19686,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 289533,
       "name": "Iris",
       "url": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs"
@@ -20114,7 +20114,7 @@
       ],
       "date_added": "2026-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 237344,
       "name": "Janice STFU",
       "url": "https://open.spotify.com/track/514joG57v4yKTsfQmz7stz"
@@ -24266,7 +24266,7 @@
       ],
       "date_added": "2026-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-12",
+      "date_removed": null,
       "duration_ms": 181384,
       "name": "Magnetic",
       "url": "https://open.spotify.com/track/4hFDFmMnSYZ32ssqNUOCjt"
@@ -26783,6 +26783,24 @@
     },
     {
       "album": {
+        "name": "Multimiljonair",
+        "url": "https://open.spotify.com/album/7MsrN7zy5Fm9iJRrAgOwPd"
+      },
+      "artists": [
+        {
+          "name": "Bankzitters",
+          "url": "https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB"
+        }
+      ],
+      "date_added": "2026-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133913,
+      "name": "Multimiljonair",
+      "url": "https://open.spotify.com/track/7febA9EPgU97DuLg9HAocX"
+    },
+    {
+      "album": {
         "name": "Sinc\u00e8rement",
         "url": "https://open.spotify.com/album/3lyj8hU0YKXZIuYK6e0O5Y"
       },
@@ -28280,7 +28298,7 @@
       ],
       "date_added": "2025-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-12",
+      "date_removed": null,
       "duration_ms": 183685,
       "name": "NUEVAYoL",
       "url": "https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5"
@@ -36494,7 +36512,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 184761,
       "name": "Stateside + Zara Larsson",
       "url": "https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt"
@@ -38430,6 +38448,24 @@
       "duration_ms": 180141,
       "name": "The Code",
       "url": "https://open.spotify.com/track/1EjIXKhNHI00ZLMRpS8iz8"
+    },
+    {
+      "album": {
+        "name": "the cure",
+        "url": "https://open.spotify.com/album/6zme2NwcaBxbn3mWOcMY8y"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2026-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297090,
+      "name": "the cure",
+      "url": "https://open.spotify.com/track/4EoJ151oQ5jY48z4RhSE96"
     },
     {
       "album": {
@@ -43130,7 +43166,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 144101,
       "name": "White Keys",
       "url": "https://open.spotify.com/track/5ViLKrbyL3HD6wsq3AB9eI"

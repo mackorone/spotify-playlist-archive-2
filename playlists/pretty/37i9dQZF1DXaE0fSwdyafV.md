@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaE0fSwdyafV.md) - [plain]
 
 > It's the witching hours\. Cover: Florence + The Machine
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,222 likes - 75 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,230 likes - 75 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,13 +64,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaE0fSwdyafV.md) - [plain]
 | 54 | [I Put a Spell On You](https://open.spotify.com/track/3sLhMSePzxSrmxluIqeoAZ) | [Screamin' Jay Hawkins](https://open.spotify.com/artist/3VBpsrUi2vV7Uj87ONHu7Z) | [At Home with Screamin' Jay Hawkins](https://open.spotify.com/album/2lKtE0pl4RtMD2bUwKzdcz) | 2:24 |
 | 55 | [House of the Rising Sun](https://open.spotify.com/track/2tB5sTm4Lb8e6U0dNGuqtz) | [Lauren O'Connell](https://open.spotify.com/artist/5k58ro6wizhwH6oPwICLns) | [Covers](https://open.spotify.com/album/0ZuL0j8jVfNydM5P4Zzxix) | 3:05 |
 | 56 | [Dissociate](https://open.spotify.com/track/5phzTzZYuWstrCTZI56Nzo) | [Luisa Marion](https://open.spotify.com/artist/3m2JMbwYgxHsgGHo3Ifdie) | [Dissociate](https://open.spotify.com/album/66BVG7qVrETXlleUUcqEBK) | 3:14 |
-| 57 | [Dog's Dinner](https://open.spotify.com/track/6pVOmtY7MYzOdV5KwVEvDQ) | [SOFIA ISELLA](https://open.spotify.com/artist/40Aif8AfzbNGA2s52ESEE2) | [Dog's Dinner](https://open.spotify.com/album/29eup3dxdGR1TSGL2NIzS1) | 3:45 |
-| 58 | [Practical Magic](https://open.spotify.com/track/356poNyArJ68eErTR07Xqq) | [Alan Silvestri](https://open.spotify.com/artist/0Xk15jHKly4c3AhPr5vjoA) | [Practical Magic \(Music From The Motion Picture\)](https://open.spotify.com/album/2N7TdBow0ClqvPIdmuOgtw) | 3:57 |
+| 57 | [Practical Magic](https://open.spotify.com/track/356poNyArJ68eErTR07Xqq) | [Alan Silvestri](https://open.spotify.com/artist/0Xk15jHKly4c3AhPr5vjoA) | [Practical Magic \(Music From The Motion Picture\)](https://open.spotify.com/album/2N7TdBow0ClqvPIdmuOgtw) | 3:57 |
+| 58 | [Dog's Dinner](https://open.spotify.com/track/6pVOmtY7MYzOdV5KwVEvDQ) | [SOFIA ISELLA](https://open.spotify.com/artist/40Aif8AfzbNGA2s52ESEE2) | [Dog's Dinner](https://open.spotify.com/album/29eup3dxdGR1TSGL2NIzS1) | 3:45 |
 | 59 | [The Rider \(from "The Lord of the Rings: The War of the Rohirrim"\)](https://open.spotify.com/track/2sVzTKVEy6zDcizmtFOjtg) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [The Rider \(from "The Lord of the Rings: The War of the Rohirrim"\)](https://open.spotify.com/album/0FZzoS6y3uDXa0H51E6ehn) | 3:53 |
 | 60 | [Matador](https://open.spotify.com/track/6idR1ncIgw5X6Nj2DUR6tC) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [Matador](https://open.spotify.com/album/7375mSEJBe8UKKzwMDzbQd) | 3:47 |
 | 61 | [Witch's Rune](https://open.spotify.com/track/05SBYEaOoRBtrAAveD4Lph) | [S\. J\. Tucker](https://open.spotify.com/artist/2kfFvaclobAe56G43yOAbS) | [Blessings](https://open.spotify.com/album/2DsCVzaFJ8N5VXZwkOsk5e) | 4:23 |
-| 62 | [I Can Be Your Mother](https://open.spotify.com/track/4Ugn4h2XTJuRmJ92SLw4GP) | [SOFIA ISELLA](https://open.spotify.com/artist/40Aif8AfzbNGA2s52ESEE2) | [I Can Be Your Mother](https://open.spotify.com/album/0BRlexMfgtY7v5ggJP6F4C) | 4:38 |
-| 63 | [Some things Cosmic](https://open.spotify.com/track/4TD6fj03dGwfDDrb6UWmy8) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Strange Cacti](https://open.spotify.com/album/3aKb3OOjVyEUHda8q7futV) | 2:54 |
+| 62 | [Some things Cosmic](https://open.spotify.com/track/4TD6fj03dGwfDDrb6UWmy8) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Strange Cacti](https://open.spotify.com/album/3aKb3OOjVyEUHda8q7futV) | 2:54 |
+| 63 | [I Can Be Your Mother](https://open.spotify.com/track/4Ugn4h2XTJuRmJ92SLw4GP) | [SOFIA ISELLA](https://open.spotify.com/artist/40Aif8AfzbNGA2s52ESEE2) | [I Can Be Your Mother](https://open.spotify.com/album/0BRlexMfgtY7v5ggJP6F4C) | 4:38 |
 | 64 | [She Dances](https://open.spotify.com/track/72655YyFEnLXG54FC6tCtT) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Feeding Seahorses by Hand](https://open.spotify.com/album/6hGu9RB3CDDdorBicf4dMo) | 4:43 |
 | 65 | [Midnight](https://open.spotify.com/track/4gqnJeeFu2GbOnHawPjWHn) | [Toby Sebastian](https://open.spotify.com/artist/2E2qYypdcZVQTeZKesefNP), [Florence Pugh](https://open.spotify.com/artist/0wU0ByZ6OSInRD0ZmVfcIq) | [Midnight](https://open.spotify.com/album/3DerzT4an3hcrvlPLV3Bpd) | 4:45 |
 | 66 | [Dinner @ Brasserie Zédel](https://open.spotify.com/track/2OE8encLnOWQEsmcJTifeZ) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [Dinner @ Brasserie Zédel](https://open.spotify.com/album/0NNZzGLChmCp78PF60tuWk) | 3:24 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaE0fSwdyafV.md) - [plain]
 | 68 | [Wading In Waist\-High Water](https://open.spotify.com/track/1u8PeiYinEIxqWGXcxSgrI) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Shore](https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3) | 2:15 |
 | 69 | [Bear Creek](https://open.spotify.com/track/1olcVMgFm2KGCDVK4g5b76) | [Lankum](https://open.spotify.com/artist/2zPm4XzwKuPidtfKh92H2Z) | [The Livelong Day](https://open.spotify.com/album/4h6xvRg0yciHX5BidpT1yC) | 5:31 |
 | 70 | [willow \- moonlit witch version](https://open.spotify.com/track/5XkJj6sV2XLMaURdmdXgNx) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [willow \(moonlit witch version\)](https://open.spotify.com/album/5rZ2dHO8pco3A7cYToyvR0) | 3:28 |
-| 71 | [Waking The Witch](https://open.spotify.com/track/1f4J04qKp7y3UJCxbUOr7z) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds Of Love](https://open.spotify.com/album/5G5UwqPsxDKpxJLX4xsyuh) | 4:18 |
-| 72 | [Lipstick](https://open.spotify.com/track/4YJMCZyLpwErIlfGh9q2Ok) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [Lipstick](https://open.spotify.com/album/2KHQiWbDodCqph0HU9ltMk) | 3:36 |
+| 71 | [Lipstick](https://open.spotify.com/track/4YJMCZyLpwErIlfGh9q2Ok) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [Lipstick](https://open.spotify.com/album/2KHQiWbDodCqph0HU9ltMk) | 3:36 |
+| 72 | [Waking The Witch](https://open.spotify.com/track/1f4J04qKp7y3UJCxbUOr7z) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds Of Love](https://open.spotify.com/album/5G5UwqPsxDKpxJLX4xsyuh) | 4:18 |
 | 73 | [Crystals](https://open.spotify.com/track/4nnHOJqInr9r8c7RxuiT9j) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [Beneath The Skin \(Deluxe\)](https://open.spotify.com/album/1m3D8gkm3nOvIXNR1SvDFA) | 4:03 |
 | 74 | [Same Old Energy](https://open.spotify.com/track/7qkfs7TdDhaZ9l4YUf2UeU) | [Kiki Rockwell](https://open.spotify.com/artist/5HuKMWteBRI09tWyKeQE1F) | [Same Old Energy](https://open.spotify.com/album/6omiQi8kZwpEznvECFHDj0) | 3:28 |
 | 75 | [the warmth](https://open.spotify.com/track/1xoSXJSDif51wZ2USZusbe) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [the warmth](https://open.spotify.com/album/40oxSP2IdI8XHlE3bJCxJy) | 4:30 |

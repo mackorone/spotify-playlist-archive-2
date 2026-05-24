@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXliePGSvEb.md) - [plain]
 
 > Our favourite electronic songs from around the world this year\. Cover: KI/KI
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,177 likes - 75 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,184 likes - 75 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXliePGSvEb.md) - [plain]
 | 24 | [Into Dust \(Still Falling\)](https://open.spotify.com/track/4kd3HIkMbwO4sVgkYkrBGo) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Into Dust \(Still Falling\)](https://open.spotify.com/album/407vGRsnaFAEBtYFRNsid0) | 5:33 |
 | 25 | [The Boy](https://open.spotify.com/track/71opuLWkFhYlqcYYKPkkQw) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Through The Wall](https://open.spotify.com/album/1vTquD47VNHtfuc5tVLI98) | 3:34 |
 | 26 | [START UP A RUMOUR](https://open.spotify.com/track/1Zb6tdJlJA0DwDkpoBYqge) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [START UP A RUMOUR](https://open.spotify.com/album/08I2aQ28yE0sGG79klKqTt) | 3:20 |
-| 27 | [Hold On](https://open.spotify.com/track/0zKGqyfegTfDT2ZwKCiSW9) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK) | [Hold On](https://open.spotify.com/album/1M5wUrormWAz4REo5hAwDs) | 4:09 |
-| 28 | [See It As A Sign](https://open.spotify.com/track/2rsTdV5sQmTTfX4SDsgT3o) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [See It As A Sign](https://open.spotify.com/album/5W5TUPcIhBMZJAU7aGAkOp) | 2:54 |
+| 27 | [See It As A Sign](https://open.spotify.com/track/2rsTdV5sQmTTfX4SDsgT3o) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [See It As A Sign](https://open.spotify.com/album/5W5TUPcIhBMZJAU7aGAkOp) | 2:54 |
+| 28 | [Hold On](https://open.spotify.com/track/0zKGqyfegTfDT2ZwKCiSW9) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK) | [Hold On](https://open.spotify.com/album/1M5wUrormWAz4REo5hAwDs) | 4:09 |
 | 29 | [Dream Night](https://open.spotify.com/track/2DewmibGFWxakcxvVyf2Tv) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [Dream Night](https://open.spotify.com/album/1sggIBo9jEoQFrX4ApjCD3) | 4:27 |
 | 30 | [Play Me](https://open.spotify.com/track/20UnbY4JAUTbSCf38TKDdz) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [Play Me](https://open.spotify.com/album/68J2MTHvW4gM5C6aevE1fV) | 2:49 |
 | 31 | [Air](https://open.spotify.com/track/1hGFbfiUfo4xVIR0R706rR) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7), [SWIM](https://open.spotify.com/artist/1OxXLWb0AXEgOfTUzlDg3V) | [FOREVER](https://open.spotify.com/album/45eDwIUGCbJKLNGwXj00Jh) | 3:42 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXliePGSvEb.md) - [plain]
 | 64 | [gbesoke](https://open.spotify.com/track/2ClKw253thLvImhOHDMk1y) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5), [Peter Xan](https://open.spotify.com/artist/2szFgPvkzJHtlrmuVdhSBP) | [TRUE MAGIC, DELUXE](https://open.spotify.com/album/5tagdDmG4ZUUSYqSNXQsl1) | 4:15 |
 | 65 | [Remember \(feat\. Ravyn Lenae & Scrufizzer\)](https://open.spotify.com/track/2HlT1qcOgxlnbzBFirVz0K) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95), [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [INFINITY CLUB II](https://open.spotify.com/album/65rerxGdYHjGKB9Fx26rYK) | 2:45 |
 | 66 | [Fun Times](https://open.spotify.com/track/7LD3zycYhQNEkvSaDXwFv2) | [Marie Davidson](https://open.spotify.com/artist/7xJVICbAWizNBKBD3mRWjF) | [Fun Times](https://open.spotify.com/album/6cNNIC4lX9MjSyGTXLA1MS) | 4:13 |
-| 67 | [Softening](https://open.spotify.com/track/4ZPVQ5HTTpanWNGGwjMmPD) | [Cousin](https://open.spotify.com/artist/3riNyLWUNSai045asUQE3Q), [Priori](https://open.spotify.com/artist/76UMzIcqhjgf2Xr8gPdKO1) | [Fly In Amber](https://open.spotify.com/album/2AxIuysrol1DlsjFyY5OPL) | 6:33 |
-| 68 | [Odyssey](https://open.spotify.com/track/3uQRqiNdBjjTIvb1bq5FH4) | [Ede](https://open.spotify.com/artist/7mxkWNWc7ceydKrZmVQmKK) | [Odyssey EP](https://open.spotify.com/album/2SBRzynmqYkPw0Yf6Jn0pK) | 5:45 |
+| 67 | [Odyssey](https://open.spotify.com/track/3uQRqiNdBjjTIvb1bq5FH4) | [Ede](https://open.spotify.com/artist/7mxkWNWc7ceydKrZmVQmKK) | [Odyssey EP](https://open.spotify.com/album/2SBRzynmqYkPw0Yf6Jn0pK) | 5:45 |
+| 68 | [Softening](https://open.spotify.com/track/4ZPVQ5HTTpanWNGGwjMmPD) | [Cousin](https://open.spotify.com/artist/3riNyLWUNSai045asUQE3Q), [Priori](https://open.spotify.com/artist/76UMzIcqhjgf2Xr8gPdKO1) | [Fly In Amber](https://open.spotify.com/album/2AxIuysrol1DlsjFyY5OPL) | 6:33 |
 | 69 | [2 Go](https://open.spotify.com/track/0OEdFRb2jr5dNF4kOfl8aq) | [Mel Blue](https://open.spotify.com/artist/6GV5OpDaGm4sYeWlaXMHnJ) | [nomorejacketsplease](https://open.spotify.com/album/0FIC7MqBXHof4Q52dI0GEz) | 4:06 |
 | 70 | [Drifting](https://open.spotify.com/track/6x1Jhg9iL48RDdsqPvqibR) | [Megra](https://open.spotify.com/artist/75JMPNQ1B2A6WZydvs06Ok) | [Drifting](https://open.spotify.com/album/49kc12hoXV2SNlWV4URmrj) | 3:42 |
 | 71 | [L F G](https://open.spotify.com/track/3oaDqABHAzKwOXdLbuPdgd) | [ZVRI](https://open.spotify.com/artist/1or4sxcSSFThb2p8VuK8Sn), [Okmalumkoolkat](https://open.spotify.com/artist/0CaeXDVwH52TDLA0GLRo4f), [Sastii](https://open.spotify.com/artist/32Mj58IRbLXY5O8uj2O0Ml), [Yungboyvegeta](https://open.spotify.com/artist/0RYxiK8P3O1SwUY9jRt7sh), [Una Rams](https://open.spotify.com/artist/0R9J43uwcbEaNfTb9y3FAS) | [Relentless](https://open.spotify.com/album/2E55tzIeMiNScqBLX7rF9T) | 4:26 |

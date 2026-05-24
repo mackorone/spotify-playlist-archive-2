@@ -4,7 +4,7 @@
 
 > This is Banda Los Recoditos\. The essential tracks, all in one playlist.
 
-120 songs - 5 hr 48 min
+121 songs - 5 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [Para Qué Me Las Diste](https://open.spotify.com/track/7AyxD2OecOyvIlByUY0Kvz) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak), [Grupo Codiciado](https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc) | [Para Qué Me Las Diste](https://open.spotify.com/album/5wgOVJ9KTVFbhau9ppTj80) | 3:34 | 2022-06-01 | 2023-05-19 |
 | [Paso A Paso](https://open.spotify.com/track/51Wuz0a71nIinwK7lqHv4g) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Tu Abandono, Vol\. 4](https://open.spotify.com/album/511z4jviH9R9lDQkNbwsNz) | 2:14 | 2024-06-15 | 2024-09-01 |
 | [Perfecta](https://open.spotify.com/track/4YO9aERidTIRtBG225jr0l) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Perfecta](https://open.spotify.com/album/00n5EfgpQUDaHpcYRP7alm) | 3:31 | 2022-06-01 |  |
+| [Piratita](https://open.spotify.com/track/6bxwhfXrbMk73UWxmPmmoU) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Piratita](https://open.spotify.com/album/4HP6iTCu0ph8dye2cYietb) | 1:55 | 2026-05-24 |  |
 | [Pistearé](https://open.spotify.com/track/0LCMFLgIISg4Mab1YL5shU) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Me Está Gustando](https://open.spotify.com/album/3LLGf8yNKPKud3ErCdOkAu) | 2:24 | 2022-06-01 |  |
 | [Ponle Que Sí](https://open.spotify.com/track/2MViucn04mANEpbKRh5p4D) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Vivir La Vida](https://open.spotify.com/album/79Tqv63Tf1JyKL7jHUhwXF) | 4:07 | 2022-06-01 | 2023-06-20 |
 | [Popurrí: Cuando Nadie Te Quiera, Debajo De Los Laureles Aka Soy Huerfanito, No Volveré \- En Vivo](https://open.spotify.com/track/1Pik0CB9d3afxL3ICSYund) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [En Vivo](https://open.spotify.com/album/7B0TYXtXBC9tXV6wFnE5It) | 4:50 | 2022-06-01 | 2022-10-26 |
@@ -124,7 +125,7 @@
 | [Ya Para Qué](https://open.spotify.com/track/1VFZixKows5dLywQ90qNME) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Puras Rancheras](https://open.spotify.com/album/6aqnsOMvm0s7vhcen54kUo) | 2:50 | 2024-06-15 | 2024-07-05 |
 | [Ya Se Fue](https://open.spotify.com/track/4F20AZ3B6JMKvaPcTiy9GY) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Tu Abandono, Vol\. 4](https://open.spotify.com/album/511z4jviH9R9lDQkNbwsNz) | 3:12 | 2024-06-15 |  |
 | [Yo Quiero Chupar](https://open.spotify.com/track/0NiQtVu6jYIqQjCKVlqjX5) | [Super Lamas](https://open.spotify.com/artist/0A8eZ8ou3msWR8xVkJOFXe), [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Superlameando](https://open.spotify.com/album/0TKECyVYZcM0RIYQGFzr1y) | 3:40 | 2022-06-01 |  |
-| [Zúmbale](https://open.spotify.com/track/64noYsIo4t4bZRmFshOvaF) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Zúmbale](https://open.spotify.com/album/2deDXXx93eQ9eZ4R8iEmh6) | 2:56 | 2026-04-26 |  |
+| [Zúmbale](https://open.spotify.com/track/64noYsIo4t4bZRmFshOvaF) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Zúmbale](https://open.spotify.com/album/2deDXXx93eQ9eZ4R8iEmh6) | 2:56 | 2026-04-26 | 2026-05-24 |
 | [¿Cuánto Cuesta?](https://open.spotify.com/track/78gyWuojzXoH8J9q9M22Vw) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Las Bandas Románticas](https://open.spotify.com/album/02ppLOUh6pj8fV2JGEoLGN) | 2:19 | 2024-01-25 | 2024-06-15 |
 | [¿En Qué Les Molesta?](https://open.spotify.com/track/1uB0ZS7DQ5jKnOBTDDEGAD) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [¿En Qué Les Molesta?](https://open.spotify.com/album/0GRPiLUKUtYQRr7kvlDkXw) | 2:24 | 2023-05-07 | 2024-01-09 |
 | [¿Qué Plan?](https://open.spotify.com/track/1ODjIEfW3cbLw31vMlVYJc) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [¿Qué Plan?](https://open.spotify.com/album/0z4Mw0Vmw8zWNy67ebMaDH) | 2:50 | 2025-09-28 |  |

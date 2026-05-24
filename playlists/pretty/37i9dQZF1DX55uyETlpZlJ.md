@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55uyETlpZlJ.md) - [plain]
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Vasuki Vaibhav
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,943 likes - 75 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,948 likes - 75 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

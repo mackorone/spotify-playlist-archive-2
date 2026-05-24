@@ -1,12 +1,12 @@
 {
   "description": "This is Kali Uchis. The essential tracks, all in one playlist.",
-  "num_followers": 305080,
+  "num_followers": 305114,
   "original_name": "This Is Kali Uchis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ag5LAAAAAACEqgHceMohVNutd1MvXn5B",
+  "snapshot_id": "ag+cgAAAAACIKhGQsSVu9Ciuc7dCR56C",
   "tracks": [
     {
       "added_at": null,
@@ -179,26 +179,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Humanz (Deluxe)",
-        "url": "https://open.spotify.com/album/0NvirtaDCaZU5PAW1O5FDE"
-      },
-      "artists": [
-        {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        },
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 209560,
-      "name": "She's My Collar (feat. Kali Uchis)",
-      "url": "https://open.spotify.com/track/3lIxtCaROdRDuTnNBDm3n2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SI NO ES CONTIGO (REMIX)",
         "url": "https://open.spotify.com/album/6ilRhpB01gqO1lI9OtGmGj"
       },
@@ -219,6 +199,26 @@
       "duration_ms": 254500,
       "name": "SI NO ES CONTIGO - REMIX",
       "url": "https://open.spotify.com/track/4MAv7MqIlcaTBHGiUXIWiw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Humanz (Deluxe)",
+        "url": "https://open.spotify.com/album/0NvirtaDCaZU5PAW1O5FDE"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 209560,
+      "name": "She's My Collar (feat. Kali Uchis)",
+      "url": "https://open.spotify.com/track/3lIxtCaROdRDuTnNBDm3n2"
     },
     {
       "added_at": null,
@@ -595,6 +595,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Never Be Yours",
+        "url": "https://open.spotify.com/album/3KWfY3MZ8PGDfjQSwqIxJF"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 196025,
+      "name": "Never Be Yours",
+      "url": "https://open.spotify.com/track/3cKnHNL40tqnmjXiv4FOlk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Isolation",
         "url": "https://open.spotify.com/album/4EPQtdq6vvwxuYeQTrwDVY"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 177697,
       "name": "Just A Stranger (feat. Steve Lacy)",
       "url": "https://open.spotify.com/track/1HA2V2EfAgJUBVOju4YfiB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Never Be Yours",
-        "url": "https://open.spotify.com/album/3KWfY3MZ8PGDfjQSwqIxJF"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 196025,
-      "name": "Never Be Yours",
-      "url": "https://open.spotify.com/track/3cKnHNL40tqnmjXiv4FOlk"
     },
     {
       "added_at": null,

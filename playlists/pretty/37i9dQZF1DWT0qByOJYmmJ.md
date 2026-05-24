@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0qByOJYmmJ.md) - [plain]
 
 > Tristeza independiente para aquellos días de bajón.
 
-[Spotify](https://open.spotify.com/user/spotify) - 629,367 likes - 80 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 629,353 likes - 80 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0qByOJYmmJ.md) - [plain]
 | 31 | [Vino Tinto](https://open.spotify.com/track/5ONAA8z6SvFBniu8zXz1Ax) | [El David](https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b) | [Sin Final Feliz](https://open.spotify.com/album/2AoNm9wXhQQPQrbS963xJH) | 2:51 |
 | 32 | [Tercera Noche](https://open.spotify.com/track/0DPpsXoijB0H7OVsxx9Vqt) | [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Tercera Noche](https://open.spotify.com/album/4KPbW9CjDYzEYJCTJ3oCAB) | 2:55 |
 | 33 | [Soñé Contigo](https://open.spotify.com/track/6VT2jR1Y4KLCXKZVo1JiQU) | [Carlos Sadness](https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq), [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [Soñé Contigo](https://open.spotify.com/album/2lQYMqZIVFR1DfnF3XKJmZ) | 3:31 |
-| 34 | [Lo Que Construimos](https://open.spotify.com/track/0K1eUOeIAW1jwbqSrgoVMj) | [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Lo Que Construimos](https://open.spotify.com/album/3aY4BoeqiExyMDDfZNud4M) | 3:28 |
-| 35 | [Catorce](https://open.spotify.com/track/1s3WD4gbNoEXHiuSTmAKaK) | [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq) | [Catorce](https://open.spotify.com/album/0DxFyFTHGHtQSuKXFhvOeN) | 3:44 |
+| 34 | [Catorce](https://open.spotify.com/track/1s3WD4gbNoEXHiuSTmAKaK) | [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq) | [Catorce](https://open.spotify.com/album/0DxFyFTHGHtQSuKXFhvOeN) | 3:44 |
+| 35 | [Lo Que Construimos](https://open.spotify.com/track/0K1eUOeIAW1jwbqSrgoVMj) | [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Lo Que Construimos](https://open.spotify.com/album/3aY4BoeqiExyMDDfZNud4M) | 3:28 |
 | 36 | [Terraformar](https://open.spotify.com/track/4ZDdMGTlSgm7ATgbx4pZlP) | [El David](https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b) | [Terraformar](https://open.spotify.com/album/3CT4nIVAbLmPqCK3LtFMzK) | 2:20 |
 | 37 | [Quién Dice](https://open.spotify.com/track/567t9YdgQ12cPNJma02EPT) | [Marcos Menchaca](https://open.spotify.com/artist/1Pvcsw46EYSQKIa5TRrfGj) | [Quién Dice](https://open.spotify.com/album/3tAKezwIGgXfXJZQtbF7eK) | 3:45 |
 | 38 | [CÓMO RESPIRAR???](https://open.spotify.com/track/0K7JLUqCpPJrFRz4Eb9g14) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [CÓMO RESPIRAR???](https://open.spotify.com/album/4d6dB3zVorvbqroywYr09q) | 3:41 |
@@ -82,11 +82,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0qByOJYmmJ.md) - [plain]
 | 72 | [Playlist](https://open.spotify.com/track/3PG3l4YGSlpfwCUXhsxKi5) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Playlist](https://open.spotify.com/album/5j9kqjMgOVz5kTgVCcp8Ov) | 3:01 |
 | 73 | [Perdón \(Acabo de ver tu llamada\)](https://open.spotify.com/track/6DL3askn1pOCp6Ch2imE74) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [Perdón \(Acabo de ver tu llamada\)](https://open.spotify.com/album/4u1QVmlGWpPJUq1n3PaEWd) | 3:50 |
 | 74 | [Perdí](https://open.spotify.com/track/5WGQuK64aA6k2xpjUxAek7) | [El David](https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b) | [Perdí](https://open.spotify.com/album/2Q4btBxowoXPwjO0fMiJme) | 2:24 |
-| 75 | [Si Supieras](https://open.spotify.com/track/1RQkKTyJZhFERJy6t5gIbv) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Hasta el Fin Del Mundo](https://open.spotify.com/album/7M4AeOUpTfAHk1Ch4xKUC7) | 4:11 |
+| 75 | [La Vida Nos Hizo En Pares](https://open.spotify.com/track/3gXaySyXvlEfzUNgiJJgE7) | [Charlie Rodd](https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762) | [La Vida Nos Hizo En Pares](https://open.spotify.com/album/5K2ZzoGMtuuml2Bg2ueaZQ) | 2:57 |
 | 76 | [Aeroplanos](https://open.spotify.com/track/1ujis0ZrwUNGVXgjvu4uCU) | [Mi Sobrino Memo](https://open.spotify.com/artist/2ae7hwWgesyGJVI2vebofH) | [Aeroplanos](https://open.spotify.com/album/4Ar13KcjSsBGCWmcueqYtz) | 3:59 |
-| 77 | [La Vida Nos Hizo En Pares](https://open.spotify.com/track/3gXaySyXvlEfzUNgiJJgE7) | [Charlie Rodd](https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762) | [La Vida Nos Hizo En Pares](https://open.spotify.com/album/5K2ZzoGMtuuml2Bg2ueaZQ) | 2:57 |
+| 77 | [Lluvia](https://open.spotify.com/track/5TtLmNQnPO0zOJnqTcbnX9) | [Arath Herce](https://open.spotify.com/artist/4ZhGmNXaVf4Ki1YJDwxvVs) | [Lluvia](https://open.spotify.com/album/5CNV03tgJu1WWidrLr2kdo) | 3:48 |
 | 78 | [Respira](https://open.spotify.com/track/3EZRaK5v9Pz5AV7maEQsD7) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [Respira](https://open.spotify.com/album/4iZOHFX2SszM6fuopbHDHW) | 3:30 |
-| 79 | [Lluvia](https://open.spotify.com/track/5TtLmNQnPO0zOJnqTcbnX9) | [Arath Herce](https://open.spotify.com/artist/4ZhGmNXaVf4Ki1YJDwxvVs) | [Lluvia](https://open.spotify.com/album/5CNV03tgJu1WWidrLr2kdo) | 3:48 |
-| 80 | [La Perra Soledad](https://open.spotify.com/track/1s7y3gBwzBpucREn0Pgwxr) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4) | [La Perra Soledad](https://open.spotify.com/album/4KxzEIFakAHj2O5jClpLbX) | 3:08 |
+| 79 | [La Perra Soledad](https://open.spotify.com/track/1s7y3gBwzBpucREn0Pgwxr) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4) | [La Perra Soledad](https://open.spotify.com/album/4KxzEIFakAHj2O5jClpLbX) | 3:08 |
+| 80 | [Si Supieras](https://open.spotify.com/track/1RQkKTyJZhFERJy6t5gIbv) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Hasta el Fin Del Mundo](https://open.spotify.com/album/7M4AeOUpTfAHk1Ch4xKUC7) | 4:11 |
 
 Snapshot ID: `AAAAAMdx8PQS/Rl1UkRigGr5NWBWOy4+`

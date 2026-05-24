@@ -1,12 +1,12 @@
 {
   "description": "Ghazals for the rapture and passion of intense love and longing. Cover - Jagjit Singh",
-  "num_followers": 141061,
+  "num_followers": 141085,
   "original_name": "Golden Ghazals",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMJrnBdIDauBXLALju2iXJGFwItP",
+  "snapshot_id": "AAAAANna9tZKuEEdwK9rkOkAfrQGfF9h",
   "tracks": [
     {
       "added_at": "2026-05-16 06:38:47",
@@ -899,6 +899,22 @@
     {
       "added_at": "2026-05-16 06:38:47",
       "album": {
+        "name": "Geet aur ghazlon ka haseen sangam",
+        "url": "https://open.spotify.com/album/47nQ54mrT5meW6q0U3aaXU"
+      },
+      "artists": [
+        {
+          "name": "Sajjaad Ali",
+          "url": "https://open.spotify.com/artist/1OsGekNlTNkIHIEastVC0e"
+        }
+      ],
+      "duration_ms": 343118,
+      "name": "Har zulm tera yaad hai",
+      "url": "https://open.spotify.com/track/3lz869qyZcRBATTT6r4omU"
+    },
+    {
+      "added_at": "2026-05-16 06:38:47",
+      "album": {
         "name": "Ghazal Ho Gayi",
         "url": "https://open.spotify.com/album/6XAgeFUrZViCXtVKfw4o2i"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 213807,
       "name": "Ghazal Ho Gayi",
       "url": "https://open.spotify.com/track/4ArK0hdp9WvgCzy2lYrAet"
-    },
-    {
-      "added_at": "2026-05-16 06:38:47",
-      "album": {
-        "name": "Geet aur ghazlon ka haseen sangam",
-        "url": "https://open.spotify.com/album/47nQ54mrT5meW6q0U3aaXU"
-      },
-      "artists": [
-        {
-          "name": "Sajjaad Ali",
-          "url": "https://open.spotify.com/artist/1OsGekNlTNkIHIEastVC0e"
-        }
-      ],
-      "duration_ms": 343118,
-      "name": "Har zulm tera yaad hai",
-      "url": "https://open.spotify.com/track/3lz869qyZcRBATTT6r4omU"
     },
     {
       "added_at": "2026-05-16 06:38:47",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2026-05-16 06:38:47",
       "album": {
-        "name": "Soulful Ghazals",
-        "url": "https://open.spotify.com/album/5npeS4QWzh2ONX9p1zOYxe"
-      },
-      "artists": [
-        {
-          "name": "Ashok Khosla",
-          "url": "https://open.spotify.com/artist/2fIO95bqKqcruVFfBV9fkb"
-        }
-      ],
-      "duration_ms": 393160,
-      "name": "Ajnabi Shehar Mein",
-      "url": "https://open.spotify.com/track/0uXpXoYmYQJn7wIzP3Kllp"
-    },
-    {
-      "added_at": "2026-05-16 06:38:47",
-      "album": {
         "name": "Dil Pareshan Karta Hai",
         "url": "https://open.spotify.com/album/0QShTKNJ3BzzNkny1w2qu3"
       },
@@ -1071,18 +1055,38 @@
     {
       "added_at": "2026-05-16 06:38:47",
       "album": {
-        "name": "Hamara Dil",
-        "url": "https://open.spotify.com/album/7lDXRXTGVhKXHbQUmPsx6q"
+        "name": "Soulful Ghazals",
+        "url": "https://open.spotify.com/album/5npeS4QWzh2ONX9p1zOYxe"
       },
       "artists": [
         {
-          "name": "Talat Aziz",
-          "url": "https://open.spotify.com/artist/6a0qIxqTaL1BgqUfby0JLc"
+          "name": "Ashok Khosla",
+          "url": "https://open.spotify.com/artist/2fIO95bqKqcruVFfBV9fkb"
         }
       ],
-      "duration_ms": 315000,
-      "name": "Hamara Dil",
-      "url": "https://open.spotify.com/track/4MYjT0f53X3XW3Qcwj2085"
+      "duration_ms": 393160,
+      "name": "Ajnabi Shehar Mein",
+      "url": "https://open.spotify.com/track/0uXpXoYmYQJn7wIzP3Kllp"
+    },
+    {
+      "added_at": "2026-05-16 06:38:47",
+      "album": {
+        "name": "Vo Haseen Raat",
+        "url": "https://open.spotify.com/album/3lgSHYWQ83jzYB5uOSiV5v"
+      },
+      "artists": [
+        {
+          "name": "Daboo Malik",
+          "url": "https://open.spotify.com/artist/5pizYgjzyLFGdSQp80rQF1"
+        },
+        {
+          "name": "Sarrika Singh",
+          "url": "https://open.spotify.com/artist/4e6Tas6HkzcBbFvL611Qq7"
+        }
+      ],
+      "duration_ms": 246836,
+      "name": "Vo Haseen Raat",
+      "url": "https://open.spotify.com/track/0oww8BfxxmCAoIxK7OTPxw"
     },
     {
       "added_at": "2026-05-16 06:38:47",
@@ -1111,22 +1115,18 @@
     {
       "added_at": "2026-05-16 06:38:47",
       "album": {
-        "name": "Vo Haseen Raat",
-        "url": "https://open.spotify.com/album/3lgSHYWQ83jzYB5uOSiV5v"
+        "name": "Hamara Dil",
+        "url": "https://open.spotify.com/album/7lDXRXTGVhKXHbQUmPsx6q"
       },
       "artists": [
         {
-          "name": "Daboo Malik",
-          "url": "https://open.spotify.com/artist/5pizYgjzyLFGdSQp80rQF1"
-        },
-        {
-          "name": "Sarrika Singh",
-          "url": "https://open.spotify.com/artist/4e6Tas6HkzcBbFvL611Qq7"
+          "name": "Talat Aziz",
+          "url": "https://open.spotify.com/artist/6a0qIxqTaL1BgqUfby0JLc"
         }
       ],
-      "duration_ms": 246836,
-      "name": "Vo Haseen Raat",
-      "url": "https://open.spotify.com/track/0oww8BfxxmCAoIxK7OTPxw"
+      "duration_ms": 315000,
+      "name": "Hamara Dil",
+      "url": "https://open.spotify.com/track/4MYjT0f53X3XW3Qcwj2085"
     },
     {
       "added_at": "2026-05-16 06:38:47",
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2026-05-16 06:38:47",
       "album": {
+        "name": "Kaisa Manzar",
+        "url": "https://open.spotify.com/album/3lEUa9SEtO39Dg0rPuF8uu"
+      },
+      "artists": [
+        {
+          "name": "Osman Mir",
+          "url": "https://open.spotify.com/artist/20w1cujlzVI3LA0dItmMg1"
+        }
+      ],
+      "duration_ms": 295652,
+      "name": "Kaisa Manzar",
+      "url": "https://open.spotify.com/track/4QmPaU6ipYU0tAS5FUJnn1"
+    },
+    {
+      "added_at": "2026-05-16 06:38:47",
+      "album": {
         "name": "Zikr Hamara Hai Magar (From - Izhaar-E-Ishq)",
         "url": "https://open.spotify.com/album/210Xmg0WOxgQ17S1eJJY83"
       },
@@ -1463,26 +1479,6 @@
       "duration_ms": 384110,
       "name": "Aasman",
       "url": "https://open.spotify.com/track/4UoghtpFglvrv1UwOiYiz3"
-    },
-    {
-      "added_at": "2026-05-16 06:38:47",
-      "album": {
-        "name": "Main Khayal Hoon",
-        "url": "https://open.spotify.com/album/2B5fP4yYesVBh1OeHWGld2"
-      },
-      "artists": [
-        {
-          "name": "Jazim Sharma",
-          "url": "https://open.spotify.com/artist/5tUNLzDOTfdJ3WNBhNAJMB"
-        },
-        {
-          "name": "Sneha Astunkar",
-          "url": "https://open.spotify.com/artist/5vnUKpiC4Pxh6deCoUK2lD"
-        }
-      ],
-      "duration_ms": 325976,
-      "name": "Main Khayal Hoon",
-      "url": "https://open.spotify.com/track/6UIzo8T1S2EGHyPSoKXMWa"
     }
   ],
   "unique_name": "Golden Ghazals",

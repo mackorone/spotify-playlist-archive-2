@@ -1,6 +1,6 @@
 {
   "description": "Music to help you concentrate during your homework.",
-  "num_followers": 99549,
+  "num_followers": 99544,
   "original_name": "Piano Study",
   "owner": {
     "name": "Spotify",
@@ -315,22 +315,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Cygne Noir",
-        "url": "https://open.spotify.com/album/5HHvADWAbDJvs9HJGNCQl1"
-      },
-      "artists": [
-        {
-          "name": "North Connolly",
-          "url": "https://open.spotify.com/artist/1yC3R9Jhm2zsJ7aKdhrk1t"
-        }
-      ],
-      "duration_ms": 178634,
-      "name": "Cygne Noir",
-      "url": "https://open.spotify.com/track/5BxHusXv0AvPFlm0wGbYv3"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "A Place To Hide",
         "url": "https://open.spotify.com/album/0MaWkUPlnRLcS7U5oXYp4F"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 147507,
       "name": "A Place To Hide",
       "url": "https://open.spotify.com/track/0eMa3P0kQJjYqguUgKFt4y"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Cygne Noir",
+        "url": "https://open.spotify.com/album/5HHvADWAbDJvs9HJGNCQl1"
+      },
+      "artists": [
+        {
+          "name": "North Connolly",
+          "url": "https://open.spotify.com/artist/1yC3R9Jhm2zsJ7aKdhrk1t"
+        }
+      ],
+      "duration_ms": 178634,
+      "name": "Cygne Noir",
+      "url": "https://open.spotify.com/track/5BxHusXv0AvPFlm0wGbYv3"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -723,6 +723,22 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
+        "name": "Avenues",
+        "url": "https://open.spotify.com/album/0rvrpin8MFriRR4dIIneA1"
+      },
+      "artists": [
+        {
+          "name": "Seth Fernsby",
+          "url": "https://open.spotify.com/artist/1HURo2WjQ7rMSgqgcKT6MX"
+        }
+      ],
+      "duration_ms": 139663,
+      "name": "Avenues",
+      "url": "https://open.spotify.com/track/6JO9hJYbENVIeo5J6NP8l4"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
         "name": "In Love",
         "url": "https://open.spotify.com/album/2KlIpwlJnD92CbIQp3CiIm"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 189401,
       "name": "Ocean And 17th",
       "url": "https://open.spotify.com/track/2IUuk04dZVG8KRBJpcrpzt"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
-        "name": "Avenues",
-        "url": "https://open.spotify.com/album/0rvrpin8MFriRR4dIIneA1"
-      },
-      "artists": [
-        {
-          "name": "Seth Fernsby",
-          "url": "https://open.spotify.com/artist/1HURo2WjQ7rMSgqgcKT6MX"
-        }
-      ],
-      "duration_ms": 139663,
-      "name": "Avenues",
-      "url": "https://open.spotify.com/track/6JO9hJYbENVIeo5J6NP8l4"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -819,6 +819,22 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
+        "name": "Home full of solipsism",
+        "url": "https://open.spotify.com/album/6lO17gFILD6VAk71WT29dA"
+      },
+      "artists": [
+        {
+          "name": "Biba Dupont",
+          "url": "https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9"
+        }
+      ],
+      "duration_ms": 177882,
+      "name": "Home full of solipsism",
+      "url": "https://open.spotify.com/track/0i5RkqFU2XfihIcxTxG3h1"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
         "name": "Coelicolor",
         "url": "https://open.spotify.com/album/2u28DhrSjoAAtn6sVudqYI"
       },
@@ -835,18 +851,18 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Home full of solipsism",
-        "url": "https://open.spotify.com/album/6lO17gFILD6VAk71WT29dA"
+        "name": "Fallboard",
+        "url": "https://open.spotify.com/album/265fflCLaUsPMiMkX4ies2"
       },
       "artists": [
         {
-          "name": "Biba Dupont",
-          "url": "https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9"
+          "name": "Esther Dutch",
+          "url": "https://open.spotify.com/artist/5dE53rEeytVtDqFaOViuZ7"
         }
       ],
-      "duration_ms": 177882,
-      "name": "Home full of solipsism",
-      "url": "https://open.spotify.com/track/0i5RkqFU2XfihIcxTxG3h1"
+      "duration_ms": 160009,
+      "name": "Fallboard",
+      "url": "https://open.spotify.com/track/4vCdNdBT7N2t9ajQHxIR92"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -867,22 +883,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Mystique",
-        "url": "https://open.spotify.com/album/3XDrOM2hdwuRYvqlmTQFvL"
-      },
-      "artists": [
-        {
-          "name": "Cassandra Nestico",
-          "url": "https://open.spotify.com/artist/5rJMWRWoISTfzsFsGHSzP9"
-        }
-      ],
-      "duration_ms": 150250,
-      "name": "Mystique",
-      "url": "https://open.spotify.com/track/47u0q4Z7iALJXli6pkcnvA"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Dreams",
         "url": "https://open.spotify.com/album/4nVkpMo4vu96mvzWXtQt1t"
       },
@@ -899,18 +899,18 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Fallboard",
-        "url": "https://open.spotify.com/album/265fflCLaUsPMiMkX4ies2"
+        "name": "Mystique",
+        "url": "https://open.spotify.com/album/3XDrOM2hdwuRYvqlmTQFvL"
       },
       "artists": [
         {
-          "name": "Esther Dutch",
-          "url": "https://open.spotify.com/artist/5dE53rEeytVtDqFaOViuZ7"
+          "name": "Cassandra Nestico",
+          "url": "https://open.spotify.com/artist/5rJMWRWoISTfzsFsGHSzP9"
         }
       ],
-      "duration_ms": 160009,
-      "name": "Fallboard",
-      "url": "https://open.spotify.com/track/4vCdNdBT7N2t9ajQHxIR92"
+      "duration_ms": 150250,
+      "name": "Mystique",
+      "url": "https://open.spotify.com/track/47u0q4Z7iALJXli6pkcnvA"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Origins",
-        "url": "https://open.spotify.com/album/7fWiqtWkzxNvkuQU98Lh4A"
-      },
-      "artists": [
-        {
-          "name": "Ruben Galloway",
-          "url": "https://open.spotify.com/artist/1xmy0B8MRON38t6ujvnivX"
-        }
-      ],
-      "duration_ms": 202357,
-      "name": "The Inner World",
-      "url": "https://open.spotify.com/track/7epEaJZ5mRAZ4Mou1EvsAu"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Kj\u00e6reste",
         "url": "https://open.spotify.com/album/49D65b0mvk8YoVFukbDrhm"
       },
@@ -979,6 +963,22 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
+        "name": "Origins",
+        "url": "https://open.spotify.com/album/7fWiqtWkzxNvkuQU98Lh4A"
+      },
+      "artists": [
+        {
+          "name": "Ruben Galloway",
+          "url": "https://open.spotify.com/artist/1xmy0B8MRON38t6ujvnivX"
+        }
+      ],
+      "duration_ms": 202357,
+      "name": "The Inner World",
+      "url": "https://open.spotify.com/track/7epEaJZ5mRAZ4Mou1EvsAu"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
         "name": "The Sacred Self",
         "url": "https://open.spotify.com/album/65DCR1ubmwGmG5u0ijqPbm"
       },
@@ -991,6 +991,22 @@
       "duration_ms": 188453,
       "name": "Inner Child",
       "url": "https://open.spotify.com/track/68nmWUVocivtdIOe9dYTH5"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Amorzinho (Piano Version)",
+        "url": "https://open.spotify.com/album/455AYqMGwATvf8WG5JXfyJ"
+      },
+      "artists": [
+        {
+          "name": "Tip Ferreira",
+          "url": "https://open.spotify.com/artist/3TSlZVPsG99cbGNs8AJAYw"
+        }
+      ],
+      "duration_ms": 216023,
+      "name": "Amorzinho - Piano Version",
+      "url": "https://open.spotify.com/track/0QDTA0d6RMhVZbgTaVHHsp"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1023,22 +1039,6 @@
       "duration_ms": 167700,
       "name": "Tient qu'\u00e0 un fil",
       "url": "https://open.spotify.com/track/1DXbUPygEVCQXOOOO9bIhO"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
-        "name": "Amorzinho (Piano Version)",
-        "url": "https://open.spotify.com/album/455AYqMGwATvf8WG5JXfyJ"
-      },
-      "artists": [
-        {
-          "name": "Tip Ferreira",
-          "url": "https://open.spotify.com/artist/3TSlZVPsG99cbGNs8AJAYw"
-        }
-      ],
-      "duration_ms": 216023,
-      "name": "Amorzinho - Piano Version",
-      "url": "https://open.spotify.com/track/0QDTA0d6RMhVZbgTaVHHsp"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Tampa",
-        "url": "https://open.spotify.com/album/4lL79tsCuEZN5ClQjoNVDr"
-      },
-      "artists": [
-        {
-          "name": "Heinz Goldblatt",
-          "url": "https://open.spotify.com/artist/2huinmkGMFzltmc7Pe7fgf"
-        }
-      ],
-      "duration_ms": 199314,
-      "name": "Harps",
-      "url": "https://open.spotify.com/track/454XRIwlukSSffvRihn6RR"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Elevate",
         "url": "https://open.spotify.com/album/6Nl9NX8dwkAbKS3BB5dRlO"
       },
@@ -1143,18 +1127,18 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Amuse Bouche",
-        "url": "https://open.spotify.com/album/1N8DybvTCUqWBkEUvqUS5q"
+        "name": "Tampa",
+        "url": "https://open.spotify.com/album/4lL79tsCuEZN5ClQjoNVDr"
       },
       "artists": [
         {
-          "name": "Yao Chen",
-          "url": "https://open.spotify.com/artist/1dWCw84QGvLRebWigUZvyJ"
+          "name": "Heinz Goldblatt",
+          "url": "https://open.spotify.com/artist/2huinmkGMFzltmc7Pe7fgf"
         }
       ],
-      "duration_ms": 197750,
-      "name": "Is it Over",
-      "url": "https://open.spotify.com/track/2CK7J3mSxn2KBfgbDoGcW2"
+      "duration_ms": 199314,
+      "name": "Harps",
+      "url": "https://open.spotify.com/track/454XRIwlukSSffvRihn6RR"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1171,6 +1155,22 @@
       "duration_ms": 324620,
       "name": "Seven Days Walking / Day 7: Ascent",
       "url": "https://open.spotify.com/track/5iZJK7w5mgHwOC8Sjs3eaT"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Amuse Bouche",
+        "url": "https://open.spotify.com/album/1N8DybvTCUqWBkEUvqUS5q"
+      },
+      "artists": [
+        {
+          "name": "Yao Chen",
+          "url": "https://open.spotify.com/artist/1dWCw84QGvLRebWigUZvyJ"
+        }
+      ],
+      "duration_ms": 197750,
+      "name": "Is it Over",
+      "url": "https://open.spotify.com/track/2CK7J3mSxn2KBfgbDoGcW2"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
+        "name": "Automne",
+        "url": "https://open.spotify.com/album/6KjNkS21n7ICAQRmUVrCK7"
+      },
+      "artists": [
+        {
+          "name": "Jordane Tumarinson",
+          "url": "https://open.spotify.com/artist/3MmklYESte8IJHUjXEqypw"
+        }
+      ],
+      "duration_ms": 192230,
+      "name": "Morph\u00e9e",
+      "url": "https://open.spotify.com/track/2ewd25cXIdZvLxbgGh5eYA"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
         "name": "Azure (Piano Version)",
         "url": "https://open.spotify.com/album/4lT2JzD3ZAEfjRx5crCbA5"
       },
@@ -1243,22 +1259,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Automne",
-        "url": "https://open.spotify.com/album/6KjNkS21n7ICAQRmUVrCK7"
-      },
-      "artists": [
-        {
-          "name": "Jordane Tumarinson",
-          "url": "https://open.spotify.com/artist/3MmklYESte8IJHUjXEqypw"
-        }
-      ],
-      "duration_ms": 192230,
-      "name": "Morph\u00e9e",
-      "url": "https://open.spotify.com/track/2ewd25cXIdZvLxbgGh5eYA"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Cassiopeia",
         "url": "https://open.spotify.com/album/0gubGxfpz8pDbvZZdtlX18"
       },
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Grace",
-        "url": "https://open.spotify.com/album/3udJn7VqPSEv07WhZJ9x1P"
-      },
-      "artists": [
-        {
-          "name": "Carl Stark Willgold",
-          "url": "https://open.spotify.com/artist/6NlWW71ojh1uY2qoQorYr9"
-        }
-      ],
-      "duration_ms": 135253,
-      "name": "Grace",
-      "url": "https://open.spotify.com/track/3kCv0qog8yLPc5P262zMOi"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Midnight Musette",
         "url": "https://open.spotify.com/album/1t0632m5eesD6Fbanaqfnb"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 197084,
       "name": "Midnight Musette",
       "url": "https://open.spotify.com/track/1wC7zd8ZiRgiRaIT2THV8c"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Grace",
+        "url": "https://open.spotify.com/album/3udJn7VqPSEv07WhZJ9x1P"
+      },
+      "artists": [
+        {
+          "name": "Carl Stark Willgold",
+          "url": "https://open.spotify.com/artist/6NlWW71ojh1uY2qoQorYr9"
+        }
+      ],
+      "duration_ms": 135253,
+      "name": "Grace",
+      "url": "https://open.spotify.com/track/3kCv0qog8yLPc5P262zMOi"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Remembrance",
-        "url": "https://open.spotify.com/album/7zM9YVLmgnBAyaXK3HuIKr"
-      },
-      "artists": [
-        {
-          "name": "Jen Libby",
-          "url": "https://open.spotify.com/artist/7njdkPTNcWVWTncUFVlR3w"
-        }
-      ],
-      "duration_ms": 148132,
-      "name": "Remembrance",
-      "url": "https://open.spotify.com/track/0OVn0hQeQmvIdTcUiY5sEG"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Seasons Changing",
         "url": "https://open.spotify.com/album/1LzFyb9q0hGiaSp6AlcaQu"
       },
@@ -1375,18 +1359,18 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Stratosphere",
-        "url": "https://open.spotify.com/album/6NM48j8dLlbd5EekSoKOyX"
+        "name": "Remembrance",
+        "url": "https://open.spotify.com/album/7zM9YVLmgnBAyaXK3HuIKr"
       },
       "artists": [
         {
-          "name": "Noel Aspensen",
-          "url": "https://open.spotify.com/artist/33JlJ8VUoATb9ZCiKkVV7K"
+          "name": "Jen Libby",
+          "url": "https://open.spotify.com/artist/7njdkPTNcWVWTncUFVlR3w"
         }
       ],
-      "duration_ms": 228000,
-      "name": "Time Machine",
-      "url": "https://open.spotify.com/track/2DFNIBOHGJ1jKF3qLahfEt"
+      "duration_ms": 148132,
+      "name": "Remembrance",
+      "url": "https://open.spotify.com/track/0OVn0hQeQmvIdTcUiY5sEG"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1403,6 +1387,22 @@
       "duration_ms": 204010,
       "name": "M\u00e9morie d\u2019amour",
       "url": "https://open.spotify.com/track/7rihrfv45QvlWXiQ6m3RZn"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Stratosphere",
+        "url": "https://open.spotify.com/album/6NM48j8dLlbd5EekSoKOyX"
+      },
+      "artists": [
+        {
+          "name": "Noel Aspensen",
+          "url": "https://open.spotify.com/artist/33JlJ8VUoATb9ZCiKkVV7K"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Time Machine",
+      "url": "https://open.spotify.com/track/2DFNIBOHGJ1jKF3qLahfEt"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "The Wind",
-        "url": "https://open.spotify.com/album/4Ud5YQc9KHMuj0TQQfvnnj"
-      },
-      "artists": [
-        {
-          "name": "Balmorhea",
-          "url": "https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9"
-        }
-      ],
-      "duration_ms": 81641,
-      "name": "Nos",
-      "url": "https://open.spotify.com/track/5QIm5UVUJhPrpXwfFXAgKI"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Ma Belle",
         "url": "https://open.spotify.com/album/6HYlPk0YVry6TQKA1pnp5n"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 156000,
       "name": "Ma Belle",
       "url": "https://open.spotify.com/track/5VyDCVjeqGwpOxA75OHw4T"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "The Wind",
+        "url": "https://open.spotify.com/album/4Ud5YQc9KHMuj0TQQfvnnj"
+      },
+      "artists": [
+        {
+          "name": "Balmorhea",
+          "url": "https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9"
+        }
+      ],
+      "duration_ms": 81641,
+      "name": "Nos",
+      "url": "https://open.spotify.com/track/5QIm5UVUJhPrpXwfFXAgKI"
     },
     {
       "added_at": "2023-03-12 10:18:38",

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/09d3mIGxzTl2sLatLvhXAh">Rios</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-152 songs - 7 hr 50 min
+153 songs - 7 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,8 @@
 | [Enchule](https://open.spotify.com/track/6NQQJRKTJeCuSnvNZ4J7xA) | [ICON](https://open.spotify.com/artist/0SSbTivuMrvdqgCt7ln6jD), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Rios](https://open.spotify.com/artist/7KMFl8gpxEh12b2H4vNhAU) | [Enchule](https://open.spotify.com/album/4yEObSjSnJ1FhFGopfbxnd) | 2:29 | 2025-11-07 |  |
 | [Ese Hombre Es Malo](https://open.spotify.com/track/61yr9YbDKfyZn7zh1ZgUOW) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Tropicoqueta](https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab) | 3:37 | 2025-11-07 |  |
 | [Esos Días](https://open.spotify.com/track/6oRyIk7U3jWGFH6zRKOT5T) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [Esos Días](https://open.spotify.com/album/5YTwmNj6F1khhCCos7DV7w) | 2:31 | 2025-11-07 |  |
-| [Estas Ganas](https://open.spotify.com/track/6axFk0R5Fm7BmnAle3CJ2T) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Estas Ganas](https://open.spotify.com/album/1JyeUyl21sY9G60Clzk7vO) | 2:46 | 2025-11-07 |  |
+| [Estas Ganas](https://open.spotify.com/track/35QVq8aR3WV4IVx77RPyRw) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [CANDELA](https://open.spotify.com/album/0W4uzJosq3k7sQTilfzo3t) | 2:46 | 2026-05-23 |  |
+| [Estas Ganas](https://open.spotify.com/track/6axFk0R5Fm7BmnAle3CJ2T) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Estas Ganas](https://open.spotify.com/album/1JyeUyl21sY9G60Clzk7vO) | 2:46 | 2025-11-07 | 2026-05-24 |
 | [Estrella Fugaz](https://open.spotify.com/track/4N0P7wQbTHpoZF69UYpr3V) | [Bryanne](https://open.spotify.com/artist/6R3sSAOL4rej4pFAAyMzWB) | [Estrella Fugaz](https://open.spotify.com/album/3lLj8bufRO2G5MtiFT5MNw) | 3:25 | 2025-11-07 |  |
 | [Falsos Recuerdos](https://open.spotify.com/track/3wYnpqUq23pjwJjC3oWBky) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR), [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF) | [Insomnio](https://open.spotify.com/album/2zwuaAuKxwrYX0MXSJQQmB) | 3:11 | 2025-11-07 |  |
 | [Fan de Tus Fotos](https://open.spotify.com/track/6rIql0inorjJoC5Fxye5e9) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Infinity](https://open.spotify.com/album/2nRRfeEazBN10vZdPFmQME) | 3:17 | 2025-11-07 |  |

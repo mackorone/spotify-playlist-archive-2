@@ -1,6 +1,6 @@
 {
   "description": "Why so serious? Get through your workday with K-Pop. (\ub0b4\uc801\ub304\uc2a4 \uc720\ubc1c \ub178\ub3d9\uc694\uc640 \ud568\uaed8 \uc2e0\ub098\ub294 \uc5c5\ubb34 & \uacf5\ubd80\uc2dc\uac04\uc744 \ubcf4\ub0b4\uc138\uc694!)",
-  "num_followers": 119982,
+  "num_followers": 120017,
   "original_name": "Workday K-Pop (\ub0b4\uc801\ub304\uc2a4 \uc5c5\ubb34/\uacf5\ubd80)",
   "owner": {
     "name": "Spotify",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2026-04-27 01:51:40",
       "album": {
-        "name": "TWS 4th Mini Album 'play hard'",
-        "url": "https://open.spotify.com/album/6RBnUYZIGKGDdgEnf3ta1U"
-      },
-      "artists": [
-        {
-          "name": "TWS",
-          "url": "https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "OVERDRIVE",
-      "url": "https://open.spotify.com/track/5qAfVxNUxjrELshgTpWxLf"
-    },
-    {
-      "added_at": "2026-04-27 01:51:40",
-      "album": {
         "name": "\u2018The ReVe Festival\u2019 Finale",
         "url": "https://open.spotify.com/album/3rVtm00UfbuzWOewdm4iYM"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 210560,
       "name": "Psycho",
       "url": "https://open.spotify.com/track/3CYH422oy1cZNoo0GTG1TK"
+    },
+    {
+      "added_at": "2026-04-27 01:51:40",
+      "album": {
+        "name": "TWS 4th Mini Album 'play hard'",
+        "url": "https://open.spotify.com/album/6RBnUYZIGKGDdgEnf3ta1U"
+      },
+      "artists": [
+        {
+          "name": "TWS",
+          "url": "https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "OVERDRIVE",
+      "url": "https://open.spotify.com/track/5qAfVxNUxjrELshgTpWxLf"
     },
     {
       "added_at": "2026-04-27 01:51:40",
@@ -1483,26 +1483,6 @@
     {
       "added_at": "2026-04-27 01:51:40",
       "album": {
-        "name": "3D (feat. Jack Harlow)",
-        "url": "https://open.spotify.com/album/4DKnznk5VbGVvAOYBbQrZJ"
-      },
-      "artists": [
-        {
-          "name": "Jung Kook",
-          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
-        },
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 201812,
-      "name": "3D (feat. Jack Harlow)",
-      "url": "https://open.spotify.com/track/6ehWdR7cGDXnT7aKEASJxE"
-    },
-    {
-      "added_at": "2026-04-27 01:51:40",
-      "album": {
         "name": "Way Back Home (feat. Conor Maynard) [Sam Feldt Edit]",
         "url": "https://open.spotify.com/album/13aeLAMXve4Jxd8mNKu068"
       },
@@ -1527,6 +1507,26 @@
     {
       "added_at": "2026-04-27 01:51:40",
       "album": {
+        "name": "3D (feat. Jack Harlow)",
+        "url": "https://open.spotify.com/album/4DKnznk5VbGVvAOYBbQrZJ"
+      },
+      "artists": [
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        },
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 201812,
+      "name": "3D (feat. Jack Harlow)",
+      "url": "https://open.spotify.com/track/6ehWdR7cGDXnT7aKEASJxE"
+    },
+    {
+      "added_at": "2026-04-27 01:51:40",
+      "album": {
         "name": "THE ALBUM",
         "url": "https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N"
       },
@@ -1539,22 +1539,6 @@
       "duration_ms": 194765,
       "name": "Lovesick Girls",
       "url": "https://open.spotify.com/track/4Ws314Ylb27BVsvlZOy30C"
-    },
-    {
-      "added_at": "2026-04-27 01:51:40",
-      "album": {
-        "name": "Ode to Love - The 1st Album",
-        "url": "https://open.spotify.com/album/2OYOvhfBYA43XD7nd366iX"
-      },
-      "artists": [
-        {
-          "name": "NCT WISH",
-          "url": "https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "Ode to Love",
-      "url": "https://open.spotify.com/track/08aIVRb9ucpxKdAJb50HAx"
     },
     {
       "added_at": "2026-04-27 01:51:40",
@@ -1575,6 +1559,22 @@
       "duration_ms": 192441,
       "name": "Stay With Me",
       "url": "https://open.spotify.com/track/1HYzRuWjmS9LXCkdVHi25K"
+    },
+    {
+      "added_at": "2026-04-27 01:51:40",
+      "album": {
+        "name": "Ode to Love - The 1st Album",
+        "url": "https://open.spotify.com/album/2OYOvhfBYA43XD7nd366iX"
+      },
+      "artists": [
+        {
+          "name": "NCT WISH",
+          "url": "https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "Ode to Love",
+      "url": "https://open.spotify.com/track/08aIVRb9ucpxKdAJb50HAx"
     },
     {
       "added_at": "2026-04-27 01:51:40",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2026-04-27 01:51:40",
       "album": {
-        "name": "UNIQUE",
-        "url": "https://open.spotify.com/album/71EVZx82GopCyTNRZVkZSk"
-      },
-      "artists": [
-        {
-          "name": "P1Harmony",
-          "url": "https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "UNIQUE",
-      "url": "https://open.spotify.com/track/2UcWuaUqRrKRL8iTA92ELO"
-    },
-    {
-      "added_at": "2026-04-27 01:51:40",
-      "album": {
         "name": "The Action",
         "url": "https://open.spotify.com/album/6NKAKKTVPPE85NIDY9u6QD"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 178453,
       "name": "ELEVEN",
       "url": "https://open.spotify.com/track/7n2FZQsaLb7ZRfRPfEeIvr"
+    },
+    {
+      "added_at": "2026-04-27 01:51:40",
+      "album": {
+        "name": "UNIQUE",
+        "url": "https://open.spotify.com/album/71EVZx82GopCyTNRZVkZSk"
+      },
+      "artists": [
+        {
+          "name": "P1Harmony",
+          "url": "https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "UNIQUE",
+      "url": "https://open.spotify.com/track/2UcWuaUqRrKRL8iTA92ELO"
     },
     {
       "added_at": "2026-04-27 01:51:40",
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2026-04-27 01:51:40",
       "album": {
-        "name": "What's a girl to do",
-        "url": "https://open.spotify.com/album/1hywbmcXqc373aldNqWUIS"
-      },
-      "artists": [
-        {
-          "name": "DAYOUNG",
-          "url": "https://open.spotify.com/artist/5SQHuBLqaasC50vOL9s8Mz"
-        }
-      ],
-      "duration_ms": 130000,
-      "name": "What's a girl to do",
-      "url": "https://open.spotify.com/track/1JymZBT39MAPXffPcKkaPW"
-    },
-    {
-      "added_at": "2026-04-27 01:51:40",
-      "album": {
         "name": "Mar\u00eda",
         "url": "https://open.spotify.com/album/5YYY7QCkq3pSw4Hoc1m0D3"
       },
@@ -1755,6 +1739,22 @@
       "duration_ms": 199026,
       "name": "Maria",
       "url": "https://open.spotify.com/track/0ZeGfEAL5Rl4pd5LZBGuEK"
+    },
+    {
+      "added_at": "2026-04-27 01:51:40",
+      "album": {
+        "name": "What's a girl to do",
+        "url": "https://open.spotify.com/album/1hywbmcXqc373aldNqWUIS"
+      },
+      "artists": [
+        {
+          "name": "DAYOUNG",
+          "url": "https://open.spotify.com/artist/5SQHuBLqaasC50vOL9s8Mz"
+        }
+      ],
+      "duration_ms": 130000,
+      "name": "What's a girl to do",
+      "url": "https://open.spotify.com/track/1JymZBT39MAPXffPcKkaPW"
     },
     {
       "added_at": "2026-04-27 01:51:40",
@@ -1807,22 +1807,6 @@
     {
       "added_at": "2026-04-27 01:51:40",
       "album": {
-        "name": "SEVENTEEN 4th Album 'Face the Sun'",
-        "url": "https://open.spotify.com/album/4lfFgz2rD1irxf7dZhNJht"
-      },
-      "artists": [
-        {
-          "name": "SEVENTEEN",
-          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
-        }
-      ],
-      "duration_ms": 197586,
-      "name": "HOT",
-      "url": "https://open.spotify.com/track/6I2tqFhk8tq69iursYxuxd"
-    },
-    {
-      "added_at": "2026-04-27 01:51:40",
-      "album": {
         "name": "LALISA",
         "url": "https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd"
       },
@@ -1835,6 +1819,22 @@
       "duration_ms": 200689,
       "name": "LALISA",
       "url": "https://open.spotify.com/track/7uQZVznj0uQOGC9KhV2Mg6"
+    },
+    {
+      "added_at": "2026-04-27 01:51:40",
+      "album": {
+        "name": "SEVENTEEN 4th Album 'Face the Sun'",
+        "url": "https://open.spotify.com/album/4lfFgz2rD1irxf7dZhNJht"
+      },
+      "artists": [
+        {
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+        }
+      ],
+      "duration_ms": 197586,
+      "name": "HOT",
+      "url": "https://open.spotify.com/track/6I2tqFhk8tq69iursYxuxd"
     },
     {
       "added_at": "2026-04-27 01:51:40",
@@ -1903,22 +1903,6 @@
     {
       "added_at": "2026-04-27 01:51:40",
       "album": {
-        "name": "The Chaos Chapter: FIGHT OR ESCAPE",
-        "url": "https://open.spotify.com/album/2CjIfWoFITACUOlWGB7os5"
-      },
-      "artists": [
-        {
-          "name": "TOMORROW X TOGETHER",
-          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
-        }
-      ],
-      "duration_ms": 199919,
-      "name": "LO$ER=LO\u2661ER",
-      "url": "https://open.spotify.com/track/21aOLk12MksET8AsbU0SI6"
-    },
-    {
-      "added_at": "2026-04-27 01:51:40",
-      "album": {
         "name": "ME",
         "url": "https://open.spotify.com/album/2xvV55nQYyhozbXtbqwPql"
       },
@@ -1931,6 +1915,22 @@
       "duration_ms": 174216,
       "name": "FLOWER",
       "url": "https://open.spotify.com/track/0bC7GKnxh9W9JIvJ6HVWxc"
+    },
+    {
+      "added_at": "2026-04-27 01:51:40",
+      "album": {
+        "name": "The Chaos Chapter: FIGHT OR ESCAPE",
+        "url": "https://open.spotify.com/album/2CjIfWoFITACUOlWGB7os5"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "duration_ms": 199919,
+      "name": "LO$ER=LO\u2661ER",
+      "url": "https://open.spotify.com/track/21aOLk12MksET8AsbU0SI6"
     },
     {
       "added_at": "2026-04-27 01:51:40",
@@ -1999,22 +1999,6 @@
     {
       "added_at": "2026-04-27 01:51:40",
       "album": {
-        "name": "Caligo Pt.2",
-        "url": "https://open.spotify.com/album/1vkQIKe7n01Jxic7csfA4P"
-      },
-      "artists": [
-        {
-          "name": "PLAVE",
-          "url": "https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Born Savage",
-      "url": "https://open.spotify.com/track/21AdIbIIP9cFgwnwEnEl07"
-    },
-    {
-      "added_at": "2026-04-27 01:51:40",
-      "album": {
         "name": "JENNIE Special Single [You & Me]",
         "url": "https://open.spotify.com/album/1Vzh3fTdh0R0evafCcpNpL"
       },
@@ -2027,6 +2011,22 @@
       "duration_ms": 179164,
       "name": "You & Me",
       "url": "https://open.spotify.com/track/6gcuJpHu0Ey30D5WR76y98"
+    },
+    {
+      "added_at": "2026-04-27 01:51:40",
+      "album": {
+        "name": "Caligo Pt.2",
+        "url": "https://open.spotify.com/album/1vkQIKe7n01Jxic7csfA4P"
+      },
+      "artists": [
+        {
+          "name": "PLAVE",
+          "url": "https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Born Savage",
+      "url": "https://open.spotify.com/track/21AdIbIIP9cFgwnwEnEl07"
     },
     {
       "added_at": "2026-04-27 01:51:40",
@@ -2111,22 +2111,6 @@
     {
       "added_at": "2026-04-27 01:51:40",
       "album": {
-        "name": "REVERXE - The 8th Album",
-        "url": "https://open.spotify.com/album/4ZXDMoZKLnkxFyqRGmCLnB"
-      },
-      "artists": [
-        {
-          "name": "EXO",
-          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Crown",
-      "url": "https://open.spotify.com/track/4iu11uPXYHUJaq5vr9cLwW"
-    },
-    {
-      "added_at": "2026-04-27 01:51:40",
-      "album": {
         "name": "Savage Love (Laxed - Siren Beat) [BTS Remix]",
         "url": "https://open.spotify.com/album/5O6izFQ2veRaZOcQSyOi4o"
       },
@@ -2147,6 +2131,22 @@
       "duration_ms": 184905,
       "name": "Savage Love (Laxed \u2013 Siren Beat) [BTS Remix]",
       "url": "https://open.spotify.com/track/4TgxFMOn5yoESW6zCidCXL"
+    },
+    {
+      "added_at": "2026-04-27 01:51:40",
+      "album": {
+        "name": "REVERXE - The 8th Album",
+        "url": "https://open.spotify.com/album/4ZXDMoZKLnkxFyqRGmCLnB"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Crown",
+      "url": "https://open.spotify.com/track/4iu11uPXYHUJaq5vr9cLwW"
     },
     {
       "added_at": "2026-04-27 01:51:40",
@@ -2199,22 +2199,6 @@
     {
       "added_at": "2026-04-27 01:51:40",
       "album": {
-        "name": "ONE MORE TIME",
-        "url": "https://open.spotify.com/album/5VxaQoQltZT93oaGc72Csy"
-      },
-      "artists": [
-        {
-          "name": "ALLDAY PROJECT",
-          "url": "https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2"
-        }
-      ],
-      "duration_ms": 195259,
-      "name": "ONE MORE TIME",
-      "url": "https://open.spotify.com/track/7FyKqLLICVzwBiAUtbVYUW"
-    },
-    {
-      "added_at": "2026-04-27 01:51:40",
-      "album": {
         "name": "GREAT!",
         "url": "https://open.spotify.com/album/5vt2sEP5J0VNbYXoA7h2k4"
       },
@@ -2247,6 +2231,22 @@
     {
       "added_at": "2026-04-27 01:51:40",
       "album": {
+        "name": "ONE MORE TIME",
+        "url": "https://open.spotify.com/album/5VxaQoQltZT93oaGc72Csy"
+      },
+      "artists": [
+        {
+          "name": "ALLDAY PROJECT",
+          "url": "https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2"
+        }
+      ],
+      "duration_ms": 195259,
+      "name": "ONE MORE TIME",
+      "url": "https://open.spotify.com/track/7FyKqLLICVzwBiAUtbVYUW"
+    },
+    {
+      "added_at": "2026-04-27 01:51:40",
+      "album": {
         "name": "Pink Venom",
         "url": "https://open.spotify.com/album/3dZBZnDa3z20uEVnxR38M1"
       },
@@ -2259,22 +2259,6 @@
       "duration_ms": 186964,
       "name": "Pink Venom",
       "url": "https://open.spotify.com/track/0skYUMpS0AcbpjcGsAbRGj"
-    },
-    {
-      "added_at": "2026-04-27 01:51:40",
-      "album": {
-        "name": "No Genre",
-        "url": "https://open.spotify.com/album/2E8hkTJKnSCv69mjVAh6hL"
-      },
-      "artists": [
-        {
-          "name": "BOYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1"
-        }
-      ],
-      "duration_ms": 155026,
-      "name": "I Feel Good",
-      "url": "https://open.spotify.com/track/1klePVubVctBqhlKJvibil"
     },
     {
       "added_at": "2026-04-27 01:51:40",
@@ -2303,6 +2287,22 @@
     {
       "added_at": "2026-04-27 01:51:40",
       "album": {
+        "name": "No Genre",
+        "url": "https://open.spotify.com/album/2E8hkTJKnSCv69mjVAh6hL"
+      },
+      "artists": [
+        {
+          "name": "BOYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1"
+        }
+      ],
+      "duration_ms": 155026,
+      "name": "I Feel Good",
+      "url": "https://open.spotify.com/track/1klePVubVctBqhlKJvibil"
+    },
+    {
+      "added_at": "2026-04-27 01:51:40",
+      "album": {
         "name": "instagram",
         "url": "https://open.spotify.com/album/1wW2yfORAbOEfn2Et1q687"
       },
@@ -2319,22 +2319,6 @@
     {
       "added_at": "2026-04-27 01:51:40",
       "album": {
-        "name": "TWS 3rd Mini Album 'TRY WITH US'",
-        "url": "https://open.spotify.com/album/5JfdYZ1OTue80fQxp2rE6y"
-      },
-      "artists": [
-        {
-          "name": "TWS",
-          "url": "https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz"
-        }
-      ],
-      "duration_ms": 150026,
-      "name": "Countdown!",
-      "url": "https://open.spotify.com/track/0ti0CEUPplsI7AZDyexrXy"
-    },
-    {
-      "added_at": "2026-04-27 01:51:40",
-      "album": {
         "name": "Love poem",
         "url": "https://open.spotify.com/album/2xEH7SRzJq7LgA0fCtTlxH"
       },
@@ -2347,6 +2331,22 @@
       "duration_ms": 217053,
       "name": "Blueming",
       "url": "https://open.spotify.com/track/4Dr2hJ3EnVh2Aaot6fRwDO"
+    },
+    {
+      "added_at": "2026-04-27 01:51:40",
+      "album": {
+        "name": "TWS 3rd Mini Album 'TRY WITH US'",
+        "url": "https://open.spotify.com/album/5JfdYZ1OTue80fQxp2rE6y"
+      },
+      "artists": [
+        {
+          "name": "TWS",
+          "url": "https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz"
+        }
+      ],
+      "duration_ms": 150026,
+      "name": "Countdown!",
+      "url": "https://open.spotify.com/track/0ti0CEUPplsI7AZDyexrXy"
     },
     {
       "added_at": "2026-04-27 01:51:40",
@@ -2399,22 +2399,6 @@
     {
       "added_at": "2026-04-27 01:51:40",
       "album": {
-        "name": "TWS 2nd Mini Album 'SUMMER BEAT!'",
-        "url": "https://open.spotify.com/album/03QRqvvQFLDaJM711Gkn03"
-      },
-      "artists": [
-        {
-          "name": "TWS",
-          "url": "https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz"
-        }
-      ],
-      "duration_ms": 168026,
-      "name": "If I\u2019m S, Can You Be My N?",
-      "url": "https://open.spotify.com/track/2y8vRHEoz15sYDmxyrDePO"
-    },
-    {
-      "added_at": "2026-04-27 01:51:40",
-      "album": {
         "name": "1-1=0 (NOTHING WITHOUT YOU)",
         "url": "https://open.spotify.com/album/0fxMTiQG9ym37gYmIXgqG8"
       },
@@ -2427,6 +2411,22 @@
       "duration_ms": 189355,
       "name": "Energetic",
       "url": "https://open.spotify.com/track/3NkkcnnKrNHv4AiGaPdD76"
+    },
+    {
+      "added_at": "2026-04-27 01:51:40",
+      "album": {
+        "name": "TWS 2nd Mini Album 'SUMMER BEAT!'",
+        "url": "https://open.spotify.com/album/03QRqvvQFLDaJM711Gkn03"
+      },
+      "artists": [
+        {
+          "name": "TWS",
+          "url": "https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz"
+        }
+      ],
+      "duration_ms": 168026,
+      "name": "If I\u2019m S, Can You Be My N?",
+      "url": "https://open.spotify.com/track/2y8vRHEoz15sYDmxyrDePO"
     },
     {
       "added_at": "2026-04-27 01:51:40",
@@ -2731,22 +2731,6 @@
     {
       "added_at": "2026-04-27 01:51:40",
       "album": {
-        "name": "Nice to see you again (Korean Ver.)",
-        "url": "https://open.spotify.com/album/5f9A7BAiotThsnwicDQWzf"
-      },
-      "artists": [
-        {
-          "name": "TWS",
-          "url": "https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz"
-        }
-      ],
-      "duration_ms": 146360,
-      "name": "Nice to see you again (Korean Ver.)",
-      "url": "https://open.spotify.com/track/1mX9SZZfCeTbetghcrp8Jr"
-    },
-    {
-      "added_at": "2026-04-27 01:51:40",
-      "album": {
         "name": "Love Lee",
         "url": "https://open.spotify.com/album/47xcjDSi1t6pQE2RvXKdUF"
       },
@@ -2759,6 +2743,38 @@
       "duration_ms": 179683,
       "name": "Love Lee",
       "url": "https://open.spotify.com/track/1qosh64U6CR5ki1g1Rf2dZ"
+    },
+    {
+      "added_at": "2026-04-27 01:51:40",
+      "album": {
+        "name": "Delulu Pack",
+        "url": "https://open.spotify.com/album/4TLi6XAREzVWWkgtMQagJc"
+      },
+      "artists": [
+        {
+          "name": "KiiiKiii",
+          "url": "https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP"
+        }
+      ],
+      "duration_ms": 179586,
+      "name": "404 (New Era)",
+      "url": "https://open.spotify.com/track/1rEa59P5yEal5cp1h7kl2e"
+    },
+    {
+      "added_at": "2026-04-27 01:51:40",
+      "album": {
+        "name": "Nice to see you again (Korean Ver.)",
+        "url": "https://open.spotify.com/album/5f9A7BAiotThsnwicDQWzf"
+      },
+      "artists": [
+        {
+          "name": "TWS",
+          "url": "https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz"
+        }
+      ],
+      "duration_ms": 146360,
+      "name": "Nice to see you again (Korean Ver.)",
+      "url": "https://open.spotify.com/track/1mX9SZZfCeTbetghcrp8Jr"
     },
     {
       "added_at": "2026-04-27 01:51:40",
@@ -2795,34 +2811,18 @@
     {
       "added_at": "2026-04-27 01:51:40",
       "album": {
-        "name": "Delulu Pack",
-        "url": "https://open.spotify.com/album/4TLi6XAREzVWWkgtMQagJc"
+        "name": "BBIBBI",
+        "url": "https://open.spotify.com/album/4ghBzVOTFoeKPPmyNKjVtI"
       },
       "artists": [
         {
-          "name": "KiiiKiii",
-          "url": "https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP"
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
         }
       ],
-      "duration_ms": 179586,
-      "name": "404 (New Era)",
-      "url": "https://open.spotify.com/track/1rEa59P5yEal5cp1h7kl2e"
-    },
-    {
-      "added_at": "2026-04-27 01:51:40",
-      "album": {
-        "name": "\u2018The ReVe Festival 2022 - Feel My Rhythm\u2019",
-        "url": "https://open.spotify.com/album/3HgoCO9wWuPcNhz8Ip4C46"
-      },
-      "artists": [
-        {
-          "name": "Red Velvet",
-          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
-        }
-      ],
-      "duration_ms": 210253,
-      "name": "Feel My Rhythm",
-      "url": "https://open.spotify.com/track/2oBMZYteeO8DyXV9gDx6Za"
+      "duration_ms": 194426,
+      "name": "BBIBBI",
+      "url": "https://open.spotify.com/track/4as4XEOR03oGm1STUKl6pa"
     },
     {
       "added_at": "2026-04-27 01:51:40",
@@ -2843,18 +2843,18 @@
     {
       "added_at": "2026-04-27 01:51:40",
       "album": {
-        "name": "BBIBBI",
-        "url": "https://open.spotify.com/album/4ghBzVOTFoeKPPmyNKjVtI"
+        "name": "\u2018The ReVe Festival 2022 - Feel My Rhythm\u2019",
+        "url": "https://open.spotify.com/album/3HgoCO9wWuPcNhz8Ip4C46"
       },
       "artists": [
         {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
         }
       ],
-      "duration_ms": 194426,
-      "name": "BBIBBI",
-      "url": "https://open.spotify.com/track/4as4XEOR03oGm1STUKl6pa"
+      "duration_ms": 210253,
+      "name": "Feel My Rhythm",
+      "url": "https://open.spotify.com/track/2oBMZYteeO8DyXV9gDx6Za"
     },
     {
       "added_at": "2026-04-27 01:51:40",
@@ -2899,22 +2899,6 @@
     {
       "added_at": "2026-04-27 01:51:40",
       "album": {
-        "name": "DxS 1st Mini Album 'Serenade'",
-        "url": "https://open.spotify.com/album/3y4DPsgAsvEMFLrm4yHmG7"
-      },
-      "artists": [
-        {
-          "name": "DxS",
-          "url": "https://open.spotify.com/artist/4wBjmEkWhY4T22q00CiF5V"
-        }
-      ],
-      "duration_ms": 209000,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/7KOijaSUhe0dyiKNZLsl8X"
-    },
-    {
-      "added_at": "2026-04-27 01:51:40",
-      "album": {
         "name": "DANCING ALONE",
         "url": "https://open.spotify.com/album/70Dv2gOXbeIyHnwT30Hak5"
       },
@@ -2927,6 +2911,22 @@
       "duration_ms": 198876,
       "name": "DANCING ALONE",
       "url": "https://open.spotify.com/track/3vC63Nh3rSREo7qDHgnx8I"
+    },
+    {
+      "added_at": "2026-04-27 01:51:40",
+      "album": {
+        "name": "DxS 1st Mini Album 'Serenade'",
+        "url": "https://open.spotify.com/album/3y4DPsgAsvEMFLrm4yHmG7"
+      },
+      "artists": [
+        {
+          "name": "DxS",
+          "url": "https://open.spotify.com/artist/4wBjmEkWhY4T22q00CiF5V"
+        }
+      ],
+      "duration_ms": 209000,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/7KOijaSUhe0dyiKNZLsl8X"
     },
     {
       "added_at": "2026-04-27 01:51:40",
@@ -3059,22 +3059,6 @@
     {
       "added_at": "2026-04-27 01:51:40",
       "album": {
-        "name": "WHY..",
-        "url": "https://open.spotify.com/album/45skMBkupbWiAxTeZ77rVa"
-      },
-      "artists": [
-        {
-          "name": "BOYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1"
-        }
-      ],
-      "duration_ms": 175106,
-      "name": "But Sometimes",
-      "url": "https://open.spotify.com/track/5TNMJ6Csb2NgSohuz76XJT"
-    },
-    {
-      "added_at": "2026-04-27 01:51:40",
-      "album": {
         "name": "3D (Justin Timberlake Remix)",
         "url": "https://open.spotify.com/album/4SNBgrYqk2aV4LyXbTSkYA"
       },
@@ -3091,6 +3075,22 @@
       "duration_ms": 160942,
       "name": "3D (Justin Timberlake Remix)",
       "url": "https://open.spotify.com/track/2mHw0KoEyDw8Yaw3yPoke6"
+    },
+    {
+      "added_at": "2026-04-27 01:51:40",
+      "album": {
+        "name": "WHY..",
+        "url": "https://open.spotify.com/album/45skMBkupbWiAxTeZ77rVa"
+      },
+      "artists": [
+        {
+          "name": "BOYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1"
+        }
+      ],
+      "duration_ms": 175106,
+      "name": "But Sometimes",
+      "url": "https://open.spotify.com/track/5TNMJ6Csb2NgSohuz76XJT"
     },
     {
       "added_at": "2026-04-27 01:51:40",
@@ -3147,22 +3147,6 @@
     {
       "added_at": "2026-04-27 01:51:40",
       "album": {
-        "name": "Fame",
-        "url": "https://open.spotify.com/album/3SIlbEWc9S5hvcyIgMZN69"
-      },
-      "artists": [
-        {
-          "name": "RIIZE",
-          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
-        }
-      ],
-      "duration_ms": 176847,
-      "name": "Fame",
-      "url": "https://open.spotify.com/track/7pjjoNOZQW7H8pOSCFIvsX"
-    },
-    {
-      "added_at": "2026-04-27 01:51:40",
-      "album": {
         "name": "\u02e3\u203f\u02e3 (SMiLEY)",
         "url": "https://open.spotify.com/album/7qldKtsOWklzmwgll5NjCw"
       },
@@ -3179,6 +3163,22 @@
       "duration_ms": 173413,
       "name": "SMILEY(Feat. BIBI)",
       "url": "https://open.spotify.com/track/4zCIxSnVWpGNghERX4uWZF"
+    },
+    {
+      "added_at": "2026-04-27 01:51:40",
+      "album": {
+        "name": "Fame",
+        "url": "https://open.spotify.com/album/3SIlbEWc9S5hvcyIgMZN69"
+      },
+      "artists": [
+        {
+          "name": "RIIZE",
+          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
+        }
+      ],
+      "duration_ms": 176847,
+      "name": "Fame",
+      "url": "https://open.spotify.com/track/7pjjoNOZQW7H8pOSCFIvsX"
     },
     {
       "added_at": "2026-04-27 01:51:40",
@@ -3251,22 +3251,6 @@
     {
       "added_at": "2026-04-27 01:51:40",
       "album": {
-        "name": "Feel Me",
-        "url": "https://open.spotify.com/album/4ObKjAefu7Dg1VcWrW3nKO"
-      },
-      "artists": [
-        {
-          "name": "DxS",
-          "url": "https://open.spotify.com/artist/4wBjmEkWhY4T22q00CiF5V"
-        }
-      ],
-      "duration_ms": 209000,
-      "name": "Feel Me",
-      "url": "https://open.spotify.com/track/2psEOi0dDz19G9BljUiL2v"
-    },
-    {
-      "added_at": "2026-04-27 01:51:40",
-      "album": {
         "name": "Runaway",
         "url": "https://open.spotify.com/album/6wL6HetMdQwsTqZzCBpGGJ"
       },
@@ -3283,22 +3267,6 @@
     {
       "added_at": "2026-04-27 01:51:40",
       "album": {
-        "name": "The 1st Mini Album [AFTER CRY]",
-        "url": "https://open.spotify.com/album/4NZUty5ldXEcivYcDz1zaF"
-      },
-      "artists": [
-        {
-          "name": "Baby DONT Cry",
-          "url": "https://open.spotify.com/artist/0dXoF2Q2WnVrhRT26SJNvs"
-        }
-      ],
-      "duration_ms": 200089,
-      "name": "Bittersweet",
-      "url": "https://open.spotify.com/track/4attgopd8pmrJ03fSDeOI2"
-    },
-    {
-      "added_at": "2026-04-27 01:51:40",
-      "album": {
         "name": "Midnight Guest",
         "url": "https://open.spotify.com/album/2WT1URsANJa9zhPsqzspMR"
       },
@@ -3311,6 +3279,22 @@
       "duration_ms": 204293,
       "name": "DM",
       "url": "https://open.spotify.com/track/7B9W7Qsy5M2kyUNjQYIEG8"
+    },
+    {
+      "added_at": "2026-04-27 01:51:40",
+      "album": {
+        "name": "Feel Me",
+        "url": "https://open.spotify.com/album/4ObKjAefu7Dg1VcWrW3nKO"
+      },
+      "artists": [
+        {
+          "name": "DxS",
+          "url": "https://open.spotify.com/artist/4wBjmEkWhY4T22q00CiF5V"
+        }
+      ],
+      "duration_ms": 209000,
+      "name": "Feel Me",
+      "url": "https://open.spotify.com/track/2psEOi0dDz19G9BljUiL2v"
     },
     {
       "added_at": "2026-04-27 01:51:40",
@@ -3363,6 +3347,22 @@
     {
       "added_at": "2026-04-27 01:51:40",
       "album": {
+        "name": "The 1st Mini Album [AFTER CRY]",
+        "url": "https://open.spotify.com/album/4NZUty5ldXEcivYcDz1zaF"
+      },
+      "artists": [
+        {
+          "name": "Baby DONT Cry",
+          "url": "https://open.spotify.com/artist/0dXoF2Q2WnVrhRT26SJNvs"
+        }
+      ],
+      "duration_ms": 200089,
+      "name": "Bittersweet",
+      "url": "https://open.spotify.com/track/4attgopd8pmrJ03fSDeOI2"
+    },
+    {
+      "added_at": "2026-04-27 01:51:40",
+      "album": {
         "name": "POWER",
         "url": "https://open.spotify.com/album/3w2XYofMZpf1FA5wkkcBfx"
       },
@@ -3375,6 +3375,22 @@
       "duration_ms": 143242,
       "name": "POWER",
       "url": "https://open.spotify.com/track/4XsJiRJQAK8TWcZCn0Dxlh"
+    },
+    {
+      "added_at": "2026-04-27 01:51:40",
+      "album": {
+        "name": "SUNMI SPECIAL EDITION [Gashina]",
+        "url": "https://open.spotify.com/album/3TSX6AxLdCP4E5o3F5jCdN"
+      },
+      "artists": [
+        {
+          "name": "SUNMI",
+          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Gashina",
+      "url": "https://open.spotify.com/track/0jFHMDRXxKaREor3hBEEST"
     },
     {
       "added_at": "2026-04-27 01:51:40",
@@ -3399,34 +3415,18 @@
     {
       "added_at": "2026-04-27 01:51:40",
       "album": {
-        "name": "SUNMI SPECIAL EDITION [Gashina]",
-        "url": "https://open.spotify.com/album/3TSX6AxLdCP4E5o3F5jCdN"
+        "name": "riBBon",
+        "url": "https://open.spotify.com/album/4257hXQ3Msts5H4RZGrVHw"
       },
       "artists": [
         {
-          "name": "SUNMI",
-          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
+          "name": "BamBam",
+          "url": "https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Gashina",
-      "url": "https://open.spotify.com/track/0jFHMDRXxKaREor3hBEEST"
-    },
-    {
-      "added_at": "2026-04-27 01:51:40",
-      "album": {
-        "name": "I burn",
-        "url": "https://open.spotify.com/album/3ma5amx5s3l1NKoWNHaMYe"
-      },
-      "artists": [
-        {
-          "name": "i-dle",
-          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
-        }
-      ],
-      "duration_ms": 197320,
-      "name": "HWAA",
-      "url": "https://open.spotify.com/track/5FiXhM80sP4yg6tEnHkZZn"
+      "duration_ms": 187133,
+      "name": "riBBon",
+      "url": "https://open.spotify.com/track/1Y8KxQUmP1xuaF5mNTYE0x"
     }
   ],
   "unique_name": "Workday K-Pop (\ub0b4\uc801\ub304\uc2a4 \uc5c5\ubb34/\uacf5\ubd80)",

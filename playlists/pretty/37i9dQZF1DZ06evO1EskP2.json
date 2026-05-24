@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ag5LAAAAAADYYoJwmN/K4QaSp/KZBtkV",
+  "snapshot_id": "ag+cgAAAAACfXqaoExZ8egWNTAqReCWa",
   "tracks": [
     {
       "added_at": null,
@@ -67,22 +67,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Follow Me (Deluxe Hawai'i Edition)",
-        "url": "https://open.spotify.com/album/4c4vgaWEUemG8kwaTXf2Ro"
+        "name": "Shoulders",
+        "url": "https://open.spotify.com/album/3o1F1OpqXLylXn1CI1OngQ"
       },
       "artists": [
         {
           "name": "Anuhea",
           "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
-        },
-        {
-          "name": "Sammy Johnson",
-          "url": "https://open.spotify.com/artist/0vMGGYcvLOnwg7t4kl33BA"
         }
       ],
-      "duration_ms": 203514,
-      "name": "Mixed Feelings",
-      "url": "https://open.spotify.com/track/2zJTDNNnwctkSYROKPXUyP"
+      "duration_ms": 211546,
+      "name": "Sweet Thing",
+      "url": "https://open.spotify.com/track/16POAWtQWZ745ao5PpKrzo"
     },
     {
       "added_at": null,
@@ -103,18 +99,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shoulders",
-        "url": "https://open.spotify.com/album/3o1F1OpqXLylXn1CI1OngQ"
+        "name": "Follow Me (Deluxe Hawai'i Edition)",
+        "url": "https://open.spotify.com/album/4c4vgaWEUemG8kwaTXf2Ro"
       },
       "artists": [
         {
           "name": "Anuhea",
           "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
+        },
+        {
+          "name": "Sammy Johnson",
+          "url": "https://open.spotify.com/artist/0vMGGYcvLOnwg7t4kl33BA"
         }
       ],
-      "duration_ms": 211546,
-      "name": "Sweet Thing",
-      "url": "https://open.spotify.com/track/16POAWtQWZ745ao5PpKrzo"
+      "duration_ms": 203514,
+      "name": "Mixed Feelings",
+      "url": "https://open.spotify.com/track/2zJTDNNnwctkSYROKPXUyP"
     },
     {
       "added_at": null,
@@ -139,8 +139,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Anuhea",
-        "url": "https://open.spotify.com/album/4scVL1cbZrVFhMB2z0kjL7"
+        "name": "Shoulders",
+        "url": "https://open.spotify.com/album/3o1F1OpqXLylXn1CI1OngQ"
       },
       "artists": [
         {
@@ -148,9 +148,9 @@
           "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
         }
       ],
-      "duration_ms": 210053,
-      "name": "Big Deal",
-      "url": "https://open.spotify.com/track/0o8S6hLEGKp6SEE7xwYRLi"
+      "duration_ms": 261333,
+      "name": "Island Inside Me",
+      "url": "https://open.spotify.com/track/6fM7vnWcEUSPM4gchcMxsC"
     },
     {
       "added_at": null,
@@ -171,8 +171,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shoulders",
-        "url": "https://open.spotify.com/album/3o1F1OpqXLylXn1CI1OngQ"
+        "name": "Anuhea",
+        "url": "https://open.spotify.com/album/4scVL1cbZrVFhMB2z0kjL7"
       },
       "artists": [
         {
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
         }
       ],
-      "duration_ms": 261333,
-      "name": "Island Inside Me",
-      "url": "https://open.spotify.com/track/6fM7vnWcEUSPM4gchcMxsC"
+      "duration_ms": 210053,
+      "name": "Big Deal",
+      "url": "https://open.spotify.com/track/0o8S6hLEGKp6SEE7xwYRLi"
     },
     {
       "added_at": null,
@@ -291,22 +291,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "For Love",
-        "url": "https://open.spotify.com/album/5KCgRuLSFl362EGsD1asNE"
-      },
-      "artists": [
-        {
-          "name": "Anuhea",
-          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
-        }
-      ],
-      "duration_ms": 236500,
-      "name": "Crown Royal",
-      "url": "https://open.spotify.com/track/0Fd4NNrfktw5SJzNgvyQec"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Legacy",
         "url": "https://open.spotify.com/album/35oHGr2hJwc5vw9hKMeDoT"
       },
@@ -327,6 +311,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "For Love",
+        "url": "https://open.spotify.com/album/5KCgRuLSFl362EGsD1asNE"
+      },
+      "artists": [
+        {
+          "name": "Anuhea",
+          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
+        }
+      ],
+      "duration_ms": 236500,
+      "name": "Crown Royal",
+      "url": "https://open.spotify.com/track/0Fd4NNrfktw5SJzNgvyQec"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lotus",
         "url": "https://open.spotify.com/album/5LAF7qiJaWB4m479AfZo8c"
       },
@@ -339,22 +339,6 @@
       "duration_ms": 237424,
       "name": "Galaxy",
       "url": "https://open.spotify.com/track/0jJmMZ9utjrq7O2jTLluIV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Follow Me (Deluxe Hawai'i Edition)",
-        "url": "https://open.spotify.com/album/4c4vgaWEUemG8kwaTXf2Ro"
-      },
-      "artists": [
-        {
-          "name": "Anuhea",
-          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
-        }
-      ],
-      "duration_ms": 201978,
-      "name": "You Had Me at Aloha",
-      "url": "https://open.spotify.com/track/66cPmDSgKLBfzp1Fl8Jkk0"
     },
     {
       "added_at": null,
@@ -375,6 +359,22 @@
       "duration_ms": 292863,
       "name": "Perfect Day",
       "url": "https://open.spotify.com/track/56YJ6PDiJJUb2FBbHoex5L"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Follow Me (Deluxe Hawai'i Edition)",
+        "url": "https://open.spotify.com/album/4c4vgaWEUemG8kwaTXf2Ro"
+      },
+      "artists": [
+        {
+          "name": "Anuhea",
+          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
+        }
+      ],
+      "duration_ms": 201978,
+      "name": "You Had Me at Aloha",
+      "url": "https://open.spotify.com/track/66cPmDSgKLBfzp1Fl8Jkk0"
     },
     {
       "added_at": null,
@@ -463,42 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Butterflies: Live",
-        "url": "https://open.spotify.com/album/6tGf0r6xL71YKHg9Xj8mjo"
-      },
-      "artists": [
-        {
-          "name": "Anuhea",
-          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
-        }
-      ],
-      "duration_ms": 222066,
-      "name": "High on Love",
-      "url": "https://open.spotify.com/track/0exHQxRu73RVWKaKpYxP0l"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lotus",
-        "url": "https://open.spotify.com/album/5LAF7qiJaWB4m479AfZo8c"
-      },
-      "artists": [
-        {
-          "name": "Anuhea",
-          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
-        },
-        {
-          "name": "Ariki foster",
-          "url": "https://open.spotify.com/artist/49x0uShahCoBv7dz8WJNed"
-        }
-      ],
-      "duration_ms": 214864,
-      "name": "Just Keep Jamming",
-      "url": "https://open.spotify.com/track/2MDt2q1u1loaFQ98d5JZCh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Follow Me (Deluxe Hawai'i Edition)",
         "url": "https://open.spotify.com/album/4c4vgaWEUemG8kwaTXf2Ro"
       },
@@ -511,6 +475,38 @@
       "duration_ms": 174706,
       "name": "Like the Way It Feels",
       "url": "https://open.spotify.com/track/4dl2PZzixLdrAOKlNfUCdq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lotus",
+        "url": "https://open.spotify.com/album/5LAF7qiJaWB4m479AfZo8c"
+      },
+      "artists": [
+        {
+          "name": "Anuhea",
+          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
+        }
+      ],
+      "duration_ms": 230010,
+      "name": "Lotus",
+      "url": "https://open.spotify.com/track/0V2fIakdFvEuOGeLFDp1Ab"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Butterflies: Live",
+        "url": "https://open.spotify.com/album/6tGf0r6xL71YKHg9Xj8mjo"
+      },
+      "artists": [
+        {
+          "name": "Anuhea",
+          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
+        }
+      ],
+      "duration_ms": 222066,
+      "name": "High on Love",
+      "url": "https://open.spotify.com/track/0exHQxRu73RVWKaKpYxP0l"
     },
     {
       "added_at": null,
@@ -570,27 +566,15 @@
         {
           "name": "Anuhea",
           "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
-        }
-      ],
-      "duration_ms": 230010,
-      "name": "Lotus",
-      "url": "https://open.spotify.com/track/0V2fIakdFvEuOGeLFDp1Ab"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Follow Me (Deluxe Hawai'i Edition)",
-        "url": "https://open.spotify.com/album/4c4vgaWEUemG8kwaTXf2Ro"
-      },
-      "artists": [
+        },
         {
-          "name": "Anuhea",
-          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
+          "name": "Ariki foster",
+          "url": "https://open.spotify.com/artist/49x0uShahCoBv7dz8WJNed"
         }
       ],
-      "duration_ms": 187376,
-      "name": "Riddles",
-      "url": "https://open.spotify.com/track/1OBZDE54aqEtA5aEGzlJUV"
+      "duration_ms": 214864,
+      "name": "Just Keep Jamming",
+      "url": "https://open.spotify.com/track/2MDt2q1u1loaFQ98d5JZCh"
     },
     {
       "added_at": null,
@@ -627,6 +611,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Follow Me (Deluxe Hawai'i Edition)",
+        "url": "https://open.spotify.com/album/4c4vgaWEUemG8kwaTXf2Ro"
+      },
+      "artists": [
+        {
+          "name": "Anuhea",
+          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
+        }
+      ],
+      "duration_ms": 187376,
+      "name": "Riddles",
+      "url": "https://open.spotify.com/track/1OBZDE54aqEtA5aEGzlJUV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A10: Best of Anuhea",
         "url": "https://open.spotify.com/album/1YDTiycP1SilLdmMYc2nJv"
       },
@@ -639,42 +639,6 @@
       "duration_ms": 215700,
       "name": "True Colors/Kou \u2018Ano K\u00fc I\u2019o - Live",
       "url": "https://open.spotify.com/track/5mGsLdpxK4AEIrIltjN5EV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Follow Me (Deluxe Hawai'i Edition)",
-        "url": "https://open.spotify.com/album/4c4vgaWEUemG8kwaTXf2Ro"
-      },
-      "artists": [
-        {
-          "name": "Anuhea",
-          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
-        }
-      ],
-      "duration_ms": 234004,
-      "name": "I Won't Settle",
-      "url": "https://open.spotify.com/track/1QgwtjWPomK2PbRznDlEtL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mana Maoli, Volume V - Hui Na Moku",
-        "url": "https://open.spotify.com/album/1acebQxhPagBiWionPJtrm"
-      },
-      "artists": [
-        {
-          "name": "King Kekai",
-          "url": "https://open.spotify.com/artist/3L2hhljdDtx6P5h4FbbP5m"
-        },
-        {
-          "name": "Anuhea",
-          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
-        }
-      ],
-      "duration_ms": 208200,
-      "name": "Mr. Mellow",
-      "url": "https://open.spotify.com/track/1dXUcTAgVP7YP7jDg8J4N6"
     },
     {
       "added_at": null,
@@ -699,22 +663,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Red, Gold & Green",
-        "url": "https://open.spotify.com/album/1nzpKDlVM4c8ly5RZsAXPJ"
+        "name": "Mana Maoli, Volume V - Hui Na Moku",
+        "url": "https://open.spotify.com/album/1acebQxhPagBiWionPJtrm"
       },
       "artists": [
         {
-          "name": "Anuhea",
-          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
+          "name": "King Kekai",
+          "url": "https://open.spotify.com/artist/3L2hhljdDtx6P5h4FbbP5m"
         },
         {
-          "name": "Kimi\u00e9 Miner",
-          "url": "https://open.spotify.com/artist/0WqR2IuhhxLCTryPSvFv61"
+          "name": "Anuhea",
+          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
         }
       ],
-      "duration_ms": 229900,
-      "name": "Red, Gold & Green",
-      "url": "https://open.spotify.com/track/4hOxeXbeTDjm5T4DoyEUGs"
+      "duration_ms": 208200,
+      "name": "Mr. Mellow",
+      "url": "https://open.spotify.com/track/1dXUcTAgVP7YP7jDg8J4N6"
     },
     {
       "added_at": null,
@@ -728,9 +692,9 @@
           "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
         }
       ],
-      "duration_ms": 188368,
-      "name": "We Make It Look Easy",
-      "url": "https://open.spotify.com/track/6v8hiOy4Go8nQqiEhjmjPW"
+      "duration_ms": 234004,
+      "name": "I Won't Settle",
+      "url": "https://open.spotify.com/track/1QgwtjWPomK2PbRznDlEtL"
     },
     {
       "added_at": null,
@@ -751,6 +715,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Red, Gold & Green",
+        "url": "https://open.spotify.com/album/1nzpKDlVM4c8ly5RZsAXPJ"
+      },
+      "artists": [
+        {
+          "name": "Anuhea",
+          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
+        },
+        {
+          "name": "Kimi\u00e9 Miner",
+          "url": "https://open.spotify.com/artist/0WqR2IuhhxLCTryPSvFv61"
+        }
+      ],
+      "duration_ms": 229900,
+      "name": "Red, Gold & Green",
+      "url": "https://open.spotify.com/track/4hOxeXbeTDjm5T4DoyEUGs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Shoulders",
         "url": "https://open.spotify.com/album/3o1F1OpqXLylXn1CI1OngQ"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 226185,
       "name": "Walk on Water",
       "url": "https://open.spotify.com/track/05FJsUh3xeLPhSSKJO0Aut"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Follow Me (Deluxe Hawai'i Edition)",
+        "url": "https://open.spotify.com/album/4c4vgaWEUemG8kwaTXf2Ro"
+      },
+      "artists": [
+        {
+          "name": "Anuhea",
+          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
+        }
+      ],
+      "duration_ms": 188368,
+      "name": "We Make It Look Easy",
+      "url": "https://open.spotify.com/track/6v8hiOy4Go8nQqiEhjmjPW"
     },
     {
       "added_at": null,

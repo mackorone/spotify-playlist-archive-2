@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwplEUR0E2h.md) - [plain]
 
 > ¡Los mejores sonidos urbanos desde la tierra del ritmo! En portada: Maisak, Maluma, Feid
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,653 likes - 60 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,671 likes - 60 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

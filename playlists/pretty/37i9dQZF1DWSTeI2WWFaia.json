@@ -1,6 +1,6 @@
 {
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: Wiz Khalifa and Curren$y",
-  "num_followers": 1565890,
+  "num_followers": 1565856,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
@@ -587,18 +587,18 @@
     {
       "added_at": "2026-05-15 04:02:20",
       "album": {
-        "name": "ADHD 2 Reloaded",
-        "url": "https://open.spotify.com/album/61MEzXrdKxuTvken9N1C7g"
+        "name": "Alligator Bites Never Heal",
+        "url": "https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc"
       },
       "artists": [
         {
-          "name": "Joyner Lucas",
-          "url": "https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa"
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
         }
       ],
-      "duration_ms": 217411,
-      "name": "Reconsider",
-      "url": "https://open.spotify.com/track/68s4qX9mitS8d3u1UY7SDj"
+      "duration_ms": 94587,
+      "name": "BULLFROG",
+      "url": "https://open.spotify.com/track/27oSDhuYJWxdm9yjI6891v"
     },
     {
       "added_at": "2026-05-15 04:02:20",
@@ -643,18 +643,18 @@
     {
       "added_at": "2026-05-15 04:02:20",
       "album": {
-        "name": "Alligator Bites Never Heal",
-        "url": "https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc"
+        "name": "ADHD 2 Reloaded",
+        "url": "https://open.spotify.com/album/61MEzXrdKxuTvken9N1C7g"
       },
       "artists": [
         {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+          "name": "Joyner Lucas",
+          "url": "https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa"
         }
       ],
-      "duration_ms": 94587,
-      "name": "BULLFROG",
-      "url": "https://open.spotify.com/track/27oSDhuYJWxdm9yjI6891v"
+      "duration_ms": 217411,
+      "name": "Reconsider",
+      "url": "https://open.spotify.com/track/68s4qX9mitS8d3u1UY7SDj"
     },
     {
       "added_at": "2026-05-15 04:02:20",
@@ -927,26 +927,6 @@
     {
       "added_at": "2026-05-15 04:02:20",
       "album": {
-        "name": "Blue Marlin",
-        "url": "https://open.spotify.com/album/1DzaCBnbqK7pcVaUoE8isD"
-      },
-      "artists": [
-        {
-          "name": "Blade Brown",
-          "url": "https://open.spotify.com/artist/4E0mDf341TLViBbNefSrsK"
-        },
-        {
-          "name": "Benny The Butcher",
-          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
-        }
-      ],
-      "duration_ms": 201308,
-      "name": "Blue Marlin",
-      "url": "https://open.spotify.com/track/0xbz3yFshoRNPohArK6Q5l"
-    },
-    {
-      "added_at": "2026-05-15 04:02:20",
-      "album": {
         "name": "God Does Like Ugly",
         "url": "https://open.spotify.com/album/2tU04u3hxtziB4sOVJKak3"
       },
@@ -983,6 +963,26 @@
       "duration_ms": 165643,
       "name": "EGYPT - Remix",
       "url": "https://open.spotify.com/track/61b65LQ9rxhcMtDEusHPZL"
+    },
+    {
+      "added_at": "2026-05-15 04:02:20",
+      "album": {
+        "name": "Blue Marlin",
+        "url": "https://open.spotify.com/album/1DzaCBnbqK7pcVaUoE8isD"
+      },
+      "artists": [
+        {
+          "name": "Blade Brown",
+          "url": "https://open.spotify.com/artist/4E0mDf341TLViBbNefSrsK"
+        },
+        {
+          "name": "Benny The Butcher",
+          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
+        }
+      ],
+      "duration_ms": 201308,
+      "name": "Blue Marlin",
+      "url": "https://open.spotify.com/track/0xbz3yFshoRNPohArK6Q5l"
     },
     {
       "added_at": "2026-05-15 04:02:20",

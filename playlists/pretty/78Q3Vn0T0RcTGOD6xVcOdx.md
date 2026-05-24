@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/78Q3Vn0T0RcTGOD6xVcOdx.md) - [plain]
 
 > www.upmusicpromotion.com &\#x2F; IG: @upmusic\_promotion &\#x2F; promo@upmusicpromotion.com
 
-[UP Music ProMotion](https://open.spotify.com/user/11141650175) - 482 likes - 113 songs - 6 hr 28 min
+[UP Music ProMotion](https://open.spotify.com/user/11141650175) - 482 likes - 114 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -121,5 +121,6 @@ pretty - [cumulative](/playlists/cumulative/78Q3Vn0T0RcTGOD6xVcOdx.md) - [plain]
 | 111 | [Feet On Earth \- Bones Alive](https://open.spotify.com/track/32Zqd3db3Bd6RGBeG9PATQ) | [LEARA \- ELYRIA SINGER](https://open.spotify.com/artist/6jgY3hP8sqiGrAbHdvUkk8) | [Feet On Earth](https://open.spotify.com/album/5Vv1f6zZhiQNa2lf7Ti5S6) | 3:51 |
 | 112 | [Me Gustas Tu](https://open.spotify.com/track/235Y5A55l0S5VuHAArd8e8) | [Los Flamingo](https://open.spotify.com/artist/2JlMuemTsSuUKSZqghyTm0), [Capitán Eléctrico](https://open.spotify.com/artist/5a4CjfqcIDFQFUxaQqg2Ka) | [Me Gustas Tu](https://open.spotify.com/album/3xCvaL302GI5AfR3xN3G6Y) | 2:42 |
 | 113 | [Onde di Luce](https://open.spotify.com/track/1Qlfkz30wwCeCgQ1XLBJZL) | [PAUL PARKER](https://open.spotify.com/artist/0P4buL4lc2m8KO8WD28XMa), [Deep7s](https://open.spotify.com/artist/33QC3toB8CzjHU0QhbVLfl) | [Onde di Luce](https://open.spotify.com/album/5dnnc3ycjReH8Kwh1XFZk7) | 2:54 |
+| 114 | [Con uno Spritz in mano](https://open.spotify.com/track/1AYr2LiADXUeg8drcDCbkZ) | [Pe$i](https://open.spotify.com/artist/0dOU1b4T7CKQJETFPixRXD), [DJ Gianix](https://open.spotify.com/artist/2uGdhWT1qmOu0U45obDmCh) | [Con uno Spritz in mano](https://open.spotify.com/album/2clnEltQ2xkwZoVZu4FRJ4) | 3:09 |
 
-Snapshot ID: `AAABrgVE7sPeAsUArxyZBV/CNpdpLhoZ`
+Snapshot ID: `AAABr5NHPXG7JUGnbv354EnqFqlt7Nm/`

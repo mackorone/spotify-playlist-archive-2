@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHpR486dzm3.md) - [plain]
 
 > Suomi\-indien tuoreimpia helmiä.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,679 likes - 148 songs - 8 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,683 likes - 148 songs - 8 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

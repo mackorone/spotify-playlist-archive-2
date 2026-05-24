@@ -8960,7 +8960,7 @@
       ],
       "date_added": "2025-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 326896,
       "name": "Ikaw Lang Patutunguhan",
       "url": "https://open.spotify.com/track/7rpQzmMwS1yW1f0oWxBS9z"
@@ -10920,7 +10920,7 @@
       ],
       "date_added": "2023-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 234052,
       "name": "Leonora",
       "url": "https://open.spotify.com/track/1K0rybxoxW5svDYwXezXyN"
@@ -14648,7 +14648,7 @@
       ],
       "date_added": "2026-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 280828,
       "name": "Pag-ibig ng Ikaw at Ako",
       "url": "https://open.spotify.com/track/2DABJpDDPUaCWqZ9nMgkw4"
@@ -19485,6 +19485,24 @@
     },
     {
       "album": {
+        "name": "the cure",
+        "url": "https://open.spotify.com/album/6zme2NwcaBxbn3mWOcMY8y"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2026-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297090,
+      "name": "the cure",
+      "url": "https://open.spotify.com/track/4EoJ151oQ5jY48z4RhSE96"
+    },
+    {
+      "album": {
         "name": "Kid Krow",
         "url": "https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5"
       },
@@ -19890,7 +19908,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 227333,
       "name": "The One That Got Away",
       "url": "https://open.spotify.com/track/2009X8GyWTqyxIdzAEYW6N"
@@ -19908,7 +19926,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-22",
+      "date_removed": null,
       "duration_ms": 227333,
       "name": "The One That Got Away",
       "url": "https://open.spotify.com/track/6hkOqJ5mE093AQf2lbZnsG"
@@ -20608,7 +20626,7 @@
       ],
       "date_added": "2022-11-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-22",
+      "date_removed": null,
       "duration_ms": 335624,
       "name": "Umaasa",
       "url": "https://open.spotify.com/track/4AULw1VRyJP17zMvwgTIUs"
@@ -21234,7 +21252,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-23",
+      "date_removed": null,
       "duration_ms": 337580,
       "name": "Waltz of Four Left Feet",
       "url": "https://open.spotify.com/track/29eiVZ3R6iJcXB01dOAl6H"

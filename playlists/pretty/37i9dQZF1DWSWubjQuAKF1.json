@@ -1,6 +1,6 @@
 {
   "description": "\u015bwie\u017ce brzmienia na horyzoncie \u2728 Cover: Ania Szlagowska",
-  "num_followers": 25863,
+  "num_followers": 25864,
   "original_name": "up next",
   "owner": {
     "name": "Spotify",
@@ -275,22 +275,6 @@
     {
       "added_at": "2026-05-21 22:02:05",
       "album": {
-        "name": "BLURRY",
-        "url": "https://open.spotify.com/album/4KnNtQ9m2ya5CVz4HdDcqU"
-      },
-      "artists": [
-        {
-          "name": "Ella Boh",
-          "url": "https://open.spotify.com/artist/3UWNE3idxa2v2TMzrBRX11"
-        }
-      ],
-      "duration_ms": 182383,
-      "name": "BLOODY MARY",
-      "url": "https://open.spotify.com/track/445swxbKlkXgrIbRPpPYrL"
-    },
-    {
-      "added_at": "2026-05-21 22:02:05",
-      "album": {
         "name": "Cztery pory roku",
         "url": "https://open.spotify.com/album/6Bc7mrgqOHPkiELJbPZt0x"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 172852,
       "name": "Cztery pory roku",
       "url": "https://open.spotify.com/track/64WQcLBIXbjsAA6bh7uHmH"
+    },
+    {
+      "added_at": "2026-05-21 22:02:05",
+      "album": {
+        "name": "BLURRY",
+        "url": "https://open.spotify.com/album/4KnNtQ9m2ya5CVz4HdDcqU"
+      },
+      "artists": [
+        {
+          "name": "Ella Boh",
+          "url": "https://open.spotify.com/artist/3UWNE3idxa2v2TMzrBRX11"
+        }
+      ],
+      "duration_ms": 182383,
+      "name": "BLOODY MARY",
+      "url": "https://open.spotify.com/track/445swxbKlkXgrIbRPpPYrL"
     },
     {
       "added_at": "2026-05-21 22:02:05",
@@ -359,22 +359,6 @@
     {
       "added_at": "2026-05-21 22:02:05",
       "album": {
-        "name": "STARLET",
-        "url": "https://open.spotify.com/album/7jG25C6PpgXzeZsXfyN47R"
-      },
-      "artists": [
-        {
-          "name": "Ella Boh",
-          "url": "https://open.spotify.com/artist/3UWNE3idxa2v2TMzrBRX11"
-        }
-      ],
-      "duration_ms": 159048,
-      "name": "STARLET",
-      "url": "https://open.spotify.com/track/7fRaZXWjyVuJX9vkzGv0Dw"
-    },
-    {
-      "added_at": "2026-05-21 22:02:05",
-      "album": {
         "name": "mi\u0119kn\u0119&wi\u0119dn\u0119",
         "url": "https://open.spotify.com/album/1bN93Gj7Xry16P81TlCulw"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 159000,
       "name": "mi\u0119kn\u0119&wi\u0119dn\u0119",
       "url": "https://open.spotify.com/track/5VGl9p1HU0lBGmyZtfitbG"
+    },
+    {
+      "added_at": "2026-05-21 22:02:05",
+      "album": {
+        "name": "STARLET",
+        "url": "https://open.spotify.com/album/7jG25C6PpgXzeZsXfyN47R"
+      },
+      "artists": [
+        {
+          "name": "Ella Boh",
+          "url": "https://open.spotify.com/artist/3UWNE3idxa2v2TMzrBRX11"
+        }
+      ],
+      "duration_ms": 159048,
+      "name": "STARLET",
+      "url": "https://open.spotify.com/track/7fRaZXWjyVuJX9vkzGv0Dw"
     },
     {
       "added_at": "2026-05-21 22:02:05",
@@ -559,18 +559,18 @@
     {
       "added_at": "2026-05-21 22:02:05",
       "album": {
-        "name": "Wieje",
-        "url": "https://open.spotify.com/album/5tpWJuzhUJ4PrQp3WeZ8ap"
+        "name": "ASFALT",
+        "url": "https://open.spotify.com/album/0WmjnvRqQU6Pt4ZJ6cWPMF"
       },
       "artists": [
         {
-          "name": "maks.tachasiuk",
-          "url": "https://open.spotify.com/artist/14RpuKZYyyikmsRU3zPoWz"
+          "name": "Hugo Tarres",
+          "url": "https://open.spotify.com/artist/6VaYrjshHIPyNBnmVdLdgQ"
         }
       ],
-      "duration_ms": 253551,
-      "name": "Z\u0142y, najgorszy sen",
-      "url": "https://open.spotify.com/track/53DdqsoSrwQIa1gphtIJgF"
+      "duration_ms": 153280,
+      "name": "ASFALT",
+      "url": "https://open.spotify.com/track/0Izx0GM7me01DxEZKLkRup"
     },
     {
       "added_at": "2026-05-21 22:02:05",
@@ -591,18 +591,18 @@
     {
       "added_at": "2026-05-21 22:02:05",
       "album": {
-        "name": "ASFALT",
-        "url": "https://open.spotify.com/album/0WmjnvRqQU6Pt4ZJ6cWPMF"
+        "name": "Wieje",
+        "url": "https://open.spotify.com/album/5tpWJuzhUJ4PrQp3WeZ8ap"
       },
       "artists": [
         {
-          "name": "Hugo Tarres",
-          "url": "https://open.spotify.com/artist/6VaYrjshHIPyNBnmVdLdgQ"
+          "name": "maks.tachasiuk",
+          "url": "https://open.spotify.com/artist/14RpuKZYyyikmsRU3zPoWz"
         }
       ],
-      "duration_ms": 153280,
-      "name": "ASFALT",
-      "url": "https://open.spotify.com/track/0Izx0GM7me01DxEZKLkRup"
+      "duration_ms": 253551,
+      "name": "Z\u0142y, najgorszy sen",
+      "url": "https://open.spotify.com/track/53DdqsoSrwQIa1gphtIJgF"
     },
     {
       "added_at": "2026-05-21 22:02:05",
@@ -627,6 +627,22 @@
     {
       "added_at": "2026-05-21 22:02:05",
       "album": {
+        "name": "Wo\u0142am",
+        "url": "https://open.spotify.com/album/5OPhfeaaotZnwRn5fx0m41"
+      },
+      "artists": [
+        {
+          "name": "Maciej Skiba",
+          "url": "https://open.spotify.com/artist/0cCuYYHtLT5cQJsdIj04Tq"
+        }
+      ],
+      "duration_ms": 166315,
+      "name": "Wo\u0142am",
+      "url": "https://open.spotify.com/track/5M0i5vz49eMK6iMKJZul1y"
+    },
+    {
+      "added_at": "2026-05-21 22:02:05",
+      "album": {
         "name": "Pytania",
         "url": "https://open.spotify.com/album/6gDgbvpxYVyCTwJ1oLifF5"
       },
@@ -643,18 +659,18 @@
     {
       "added_at": "2026-05-21 22:02:05",
       "album": {
-        "name": "Wo\u0142am",
-        "url": "https://open.spotify.com/album/5OPhfeaaotZnwRn5fx0m41"
+        "name": "Bilet",
+        "url": "https://open.spotify.com/album/6ZkKH54YNc9alqdm5sAPo5"
       },
       "artists": [
         {
-          "name": "Maciej Skiba",
-          "url": "https://open.spotify.com/artist/0cCuYYHtLT5cQJsdIj04Tq"
+          "name": "Wiktor Sas",
+          "url": "https://open.spotify.com/artist/5eMGKtyT2PGPjBbNOcaktT"
         }
       ],
-      "duration_ms": 166315,
-      "name": "Wo\u0142am",
-      "url": "https://open.spotify.com/track/5M0i5vz49eMK6iMKJZul1y"
+      "duration_ms": 160000,
+      "name": "Bilet",
+      "url": "https://open.spotify.com/track/244KMK3CqSVycNOfVJoSs8"
     },
     {
       "added_at": "2026-05-21 22:02:05",
@@ -691,18 +707,18 @@
     {
       "added_at": "2026-05-21 22:02:05",
       "album": {
-        "name": "Bilet",
-        "url": "https://open.spotify.com/album/6ZkKH54YNc9alqdm5sAPo5"
+        "name": "cisza nocna",
+        "url": "https://open.spotify.com/album/4QEgNqclBN0zi57MznoAZr"
       },
       "artists": [
         {
-          "name": "Wiktor Sas",
-          "url": "https://open.spotify.com/artist/5eMGKtyT2PGPjBbNOcaktT"
+          "name": "Hugo Tarres",
+          "url": "https://open.spotify.com/artist/6VaYrjshHIPyNBnmVdLdgQ"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Bilet",
-      "url": "https://open.spotify.com/track/244KMK3CqSVycNOfVJoSs8"
+      "duration_ms": 182518,
+      "name": "cisza nocna",
+      "url": "https://open.spotify.com/track/6c6lldByHVVBfqha25sOor"
     },
     {
       "added_at": "2026-05-21 22:02:05",
@@ -719,22 +735,6 @@
       "duration_ms": 157607,
       "name": "Szeroko\u015bci!",
       "url": "https://open.spotify.com/track/4EeBtVIBydAhMCXlykAUw8"
-    },
-    {
-      "added_at": "2026-05-21 22:02:05",
-      "album": {
-        "name": "cisza nocna",
-        "url": "https://open.spotify.com/album/4QEgNqclBN0zi57MznoAZr"
-      },
-      "artists": [
-        {
-          "name": "Hugo Tarres",
-          "url": "https://open.spotify.com/artist/6VaYrjshHIPyNBnmVdLdgQ"
-        }
-      ],
-      "duration_ms": 182518,
-      "name": "cisza nocna",
-      "url": "https://open.spotify.com/track/6c6lldByHVVBfqha25sOor"
     },
     {
       "added_at": "2026-05-21 22:02:05",
@@ -923,18 +923,18 @@
     {
       "added_at": "2026-05-21 22:02:05",
       "album": {
-        "name": "powiem/nie powiem",
-        "url": "https://open.spotify.com/album/1wnV3DSxRwQzSiPEkQzQ4t"
+        "name": "halo Houston",
+        "url": "https://open.spotify.com/album/0ASB9yWOXdBFSnjKlZmI87"
       },
       "artists": [
         {
-          "name": "Frank Leen",
-          "url": "https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4"
+          "name": "Jasiek Piwowarczyk",
+          "url": "https://open.spotify.com/artist/705MUvkld29STeOVijPoTe"
         }
       ],
-      "duration_ms": 208055,
-      "name": "powiem/nie powiem",
-      "url": "https://open.spotify.com/track/509mth4lw2dQQcGXtKMHDc"
+      "duration_ms": 143048,
+      "name": "halo Houston",
+      "url": "https://open.spotify.com/track/4kIqI8h1bxOgrI9siEkD62"
     },
     {
       "added_at": "2026-05-21 22:02:05",
@@ -955,34 +955,18 @@
     {
       "added_at": "2026-05-21 22:02:05",
       "album": {
-        "name": "halo Houston",
-        "url": "https://open.spotify.com/album/0ASB9yWOXdBFSnjKlZmI87"
+        "name": "powiem/nie powiem",
+        "url": "https://open.spotify.com/album/1wnV3DSxRwQzSiPEkQzQ4t"
       },
       "artists": [
         {
-          "name": "Jasiek Piwowarczyk",
-          "url": "https://open.spotify.com/artist/705MUvkld29STeOVijPoTe"
+          "name": "Frank Leen",
+          "url": "https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4"
         }
       ],
-      "duration_ms": 143048,
-      "name": "halo Houston",
-      "url": "https://open.spotify.com/track/4kIqI8h1bxOgrI9siEkD62"
-    },
-    {
-      "added_at": "2026-05-21 22:02:05",
-      "album": {
-        "name": "lepiej",
-        "url": "https://open.spotify.com/album/2qq3p36UTibQYlpu0IV6R0"
-      },
-      "artists": [
-        {
-          "name": "imasleep",
-          "url": "https://open.spotify.com/artist/1hAUIs8Rpq6kpNHqlwJW4i"
-        }
-      ],
-      "duration_ms": 135388,
-      "name": "lepiej",
-      "url": "https://open.spotify.com/track/7GCE9OgHlDaXOWaq1b0vU6"
+      "duration_ms": 208055,
+      "name": "powiem/nie powiem",
+      "url": "https://open.spotify.com/track/509mth4lw2dQQcGXtKMHDc"
     },
     {
       "added_at": "2026-05-21 22:02:05",
@@ -999,6 +983,22 @@
       "duration_ms": 173100,
       "name": "Lustro",
       "url": "https://open.spotify.com/track/1juFCYbgxY2JQRXAmDoQey"
+    },
+    {
+      "added_at": "2026-05-21 22:02:05",
+      "album": {
+        "name": "lepiej",
+        "url": "https://open.spotify.com/album/2qq3p36UTibQYlpu0IV6R0"
+      },
+      "artists": [
+        {
+          "name": "imasleep",
+          "url": "https://open.spotify.com/artist/1hAUIs8Rpq6kpNHqlwJW4i"
+        }
+      ],
+      "duration_ms": 135388,
+      "name": "lepiej",
+      "url": "https://open.spotify.com/track/7GCE9OgHlDaXOWaq1b0vU6"
     },
     {
       "added_at": "2026-05-21 22:02:05",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2026-05-21 22:02:05",
       "album": {
+        "name": "TopOff",
+        "url": "https://open.spotify.com/album/6hIBQMP2jZYOZHf9UTWwZb"
+      },
+      "artists": [
+        {
+          "name": "Zale\u015b",
+          "url": "https://open.spotify.com/artist/3IQIVYEmRr7wZnEqpSjfV5"
+        }
+      ],
+      "duration_ms": 159473,
+      "name": "TopOff",
+      "url": "https://open.spotify.com/track/6EmqcmEbc9XHhleW2rBfvm"
+    },
+    {
+      "added_at": "2026-05-21 22:02:05",
+      "album": {
         "name": "Pal\u0119 \u017cale",
         "url": "https://open.spotify.com/album/7zbbNbDzQyLjbJFznvNwfU"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 146272,
       "name": "Pal\u0119 \u017cale",
       "url": "https://open.spotify.com/track/3AomUcaIEH9zIrrj2oKir5"
-    },
-    {
-      "added_at": "2026-05-21 22:02:05",
-      "album": {
-        "name": "Pray",
-        "url": "https://open.spotify.com/album/3ADI3YJtPk0QUsdCY1soXx"
-      },
-      "artists": [
-        {
-          "name": "ALICJA",
-          "url": "https://open.spotify.com/artist/0aCRGI3PsmtCjyTCnRpRgM"
-        }
-      ],
-      "duration_ms": 180480,
-      "name": "Pray",
-      "url": "https://open.spotify.com/track/7yT5rUvzEQh60Olh2GXShd"
     }
   ],
   "unique_name": "up next",

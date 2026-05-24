@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX812gZSD3Ky1.md) - [plain]
 
 > เพลงไวรัลและเพลงในกระแสตอนนี้\. ศิลปิน: LISA, Anitta, Rema
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,161 likes - 75 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,956 likes - 75 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [มือเปล่า \(PUT THE GUN DOWN\)](https://open.spotify.com/track/0bHItXcLtqCnlVx6dlflQi) | [ALIE BLACKCOBRA](https://open.spotify.com/artist/2kGEcklZxkQPpESUB3QZ0q) | [Angel Energy](https://open.spotify.com/album/2Rsqs9sglwPNsgP0pCJEnt) | 3:37 |
-| 2 | [drop dead](https://open.spotify.com/track/6gkbtMtioHgtyGjrMel6ei) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [drop dead](https://open.spotify.com/album/4OMvPbXaYlbUm6TnwyXGct) | 3:44 |
-| 3 | [Goals](https://open.spotify.com/track/3hdGyxmW0eNskNwTwmXOIQ) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [FIFA Sound](https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH) | [Goals \(FIFA World Cup 2026™\)](https://open.spotify.com/album/32V31xJ7RTgNQB3qyMevei) | 3:00 |
-| 4 | [DMMA](https://open.spotify.com/track/69EqSYcNF1j2B0QNmVaf2Q) | [JustmineNika](https://open.spotify.com/artist/3qsG1NIop7eqpcnbYdZpL0) | [DMMA](https://open.spotify.com/album/6TZy5ZQDyTbAa8bIz3whBd) | 2:35 |
+| 1 | [Goals](https://open.spotify.com/track/3hdGyxmW0eNskNwTwmXOIQ) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [FIFA Sound](https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH) | [Goals \(FIFA World Cup 2026™\)](https://open.spotify.com/album/32V31xJ7RTgNQB3qyMevei) | 3:00 |
+| 2 | [DMMA](https://open.spotify.com/track/69EqSYcNF1j2B0QNmVaf2Q) | [JustmineNika](https://open.spotify.com/artist/3qsG1NIop7eqpcnbYdZpL0) | [DMMA](https://open.spotify.com/album/6TZy5ZQDyTbAa8bIz3whBd) | 2:35 |
+| 3 | [Starboy](https://open.spotify.com/track/7MXVkk9YMctZqd1Srtv4MB) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Starboy](https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe) | 3:50 |
+| 4 | [มือเปล่า \(PUT THE GUN DOWN\)](https://open.spotify.com/track/0bHItXcLtqCnlVx6dlflQi) | [ALIE BLACKCOBRA](https://open.spotify.com/artist/2kGEcklZxkQPpESUB3QZ0q) | [Angel Energy](https://open.spotify.com/album/2Rsqs9sglwPNsgP0pCJEnt) | 3:37 |
 | 5 | [So Easy \(To Fall In Love\)](https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Art of Loving](https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ) | 2:49 |
 | 6 | [ดีใจที่ไม่มีเธอ \(happy\)](https://open.spotify.com/track/3sO6ivshLjXWIT6lkzR1hk) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [ดีใจที่ไม่มีเธอ \(happy\)](https://open.spotify.com/album/7s3jYzmo22KagKaVgTVNgE) | 4:53 |
-| 7 | [Starboy](https://open.spotify.com/track/7MXVkk9YMctZqd1Srtv4MB) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Starboy](https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe) | 3:50 |
+| 7 | [drop dead](https://open.spotify.com/track/6gkbtMtioHgtyGjrMel6ei) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [drop dead](https://open.spotify.com/album/4OMvPbXaYlbUm6TnwyXGct) | 3:44 |
 | 8 | [รักให้เธอได้รู้ \(Proof.\)](https://open.spotify.com/track/0jmSojJLnjiQpGGM3HHlYS) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [รักให้เธอได้รู้ \(Proof.\)](https://open.spotify.com/album/0UEgkWQcEQ9pvIHUpuxbmH) | 3:22 |
 | 9 | [Hit the Wall](https://open.spotify.com/track/1U90UBmMrQTx9GNweUA4LZ) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Hit the Wall](https://open.spotify.com/album/1jvG5wNg83Bm7ykfjwPHbZ) | 3:14 |
 | 10 | [ได้แค่เดินมาส่ง \(The Last Walk\)](https://open.spotify.com/track/1FhxX1Su9kwKFEqM4qqEJ6) | [GAVIN:D](https://open.spotify.com/artist/6gYafDbRgLFc6zFKxKCP22), [BLVCKHEART](https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV) | [ROOM101](https://open.spotify.com/album/5KyBfveZb2nGL3Hl4qlwz3) | 3:47 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX812gZSD3Ky1.md) - [plain]
 | 74 | [like JENNIE](https://open.spotify.com/track/0fK7ie6XwGxQTIkpFoWkd1) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Ruby](https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH) | 2:03 |
 | 75 | [CHANEL](https://open.spotify.com/track/4VxTzYm00mg82MuoT35Ja7) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [CHANEL](https://open.spotify.com/album/4u9fJJ2AxC2VzyyeJVyS59) | 3:08 |
 
-Snapshot ID: `AAAAAKn9cx7yBJDemx4k2OgOpRC0KFX6`
+Snapshot ID: `AAAAAIdSBM1gSfB6tXcgzCkonktOm/gS`

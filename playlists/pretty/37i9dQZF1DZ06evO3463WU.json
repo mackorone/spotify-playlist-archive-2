@@ -1,12 +1,12 @@
 {
   "description": "This is Pancho Barraza. The essential tracks, all in one playlist.",
-  "num_followers": 159411,
+  "num_followers": 159433,
   "original_name": "This Is Pancho Barraza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ag5LAAAAAADn06wE1r4DQ04Srg0L9gd6",
+  "snapshot_id": "ag+cgAAAAAAsDpPGNp9clQFGNnD5/vKG",
   "tracks": [
     {
       "added_at": null,
@@ -403,22 +403,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Disc\u00falpame",
-        "url": "https://open.spotify.com/album/4tzSRJNXBiaVkwAeIozUqC"
+        "name": "Una Noche Cualquiera",
+        "url": "https://open.spotify.com/album/0LXuwVw6rH9uJXQJFSeBe1"
       },
       "artists": [
         {
           "name": "Pancho Barraza",
           "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        },
-        {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
         }
       ],
-      "duration_ms": 237722,
-      "name": "Disc\u00falpame",
-      "url": "https://open.spotify.com/track/4nPKL7NXwP8MEbanY7ttD1"
+      "duration_ms": 220533,
+      "name": "Con El Alma En La Mano",
+      "url": "https://open.spotify.com/track/0aUeUXfdSkZp98jJ2XQ4CX"
     },
     {
       "added_at": null,
@@ -439,18 +435,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Una Noche Cualquiera",
-        "url": "https://open.spotify.com/album/0LXuwVw6rH9uJXQJFSeBe1"
+        "name": "Disc\u00falpame",
+        "url": "https://open.spotify.com/album/4tzSRJNXBiaVkwAeIozUqC"
       },
       "artists": [
         {
           "name": "Pancho Barraza",
           "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        },
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
         }
       ],
-      "duration_ms": 220533,
-      "name": "Con El Alma En La Mano",
-      "url": "https://open.spotify.com/track/0aUeUXfdSkZp98jJ2XQ4CX"
+      "duration_ms": 237722,
+      "name": "Disc\u00falpame",
+      "url": "https://open.spotify.com/track/4nPKL7NXwP8MEbanY7ttD1"
     },
     {
       "added_at": null,
@@ -671,6 +671,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Historia De Un Amor",
+        "url": "https://open.spotify.com/album/49mNs4aM6Xs7i0x9Gr3f3D"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 179520,
+      "name": "Historia De Un Amor",
+      "url": "https://open.spotify.com/track/1011TrqHFhpKhgOzKnV0ZS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El \u00daltimo Minuto",
         "url": "https://open.spotify.com/album/4lx4yigcoGuTxFWptr1aps"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 211150,
       "name": "El \u00daltimo Minuto",
       "url": "https://open.spotify.com/track/4ZcEXJttYmZQloj11vYB7U"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Historia De Un Amor",
-        "url": "https://open.spotify.com/album/49mNs4aM6Xs7i0x9Gr3f3D"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 179520,
-      "name": "Historia De Un Amor",
-      "url": "https://open.spotify.com/track/1011TrqHFhpKhgOzKnV0ZS"
     },
     {
       "added_at": null,
@@ -808,13 +808,13 @@
           "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
         },
         {
-          "name": "Luis Alfonso Partida El Yaki",
-          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
         }
       ],
-      "duration_ms": 187050,
-      "name": "Cien Por Ciento Sincero",
-      "url": "https://open.spotify.com/track/5FvEasro5di9caSJDnLZpz"
+      "duration_ms": 167986,
+      "name": "Qu\u00e9 Bonito",
+      "url": "https://open.spotify.com/track/3WuXX621m0Vuh8j9VEWvNN"
     },
     {
       "added_at": null,
@@ -892,13 +892,13 @@
           "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
         },
         {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+          "name": "Luis Alfonso Partida El Yaki",
+          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
         }
       ],
-      "duration_ms": 167986,
-      "name": "Qu\u00e9 Bonito",
-      "url": "https://open.spotify.com/track/3WuXX621m0Vuh8j9VEWvNN"
+      "duration_ms": 187050,
+      "name": "Cien Por Ciento Sincero",
+      "url": "https://open.spotify.com/track/5FvEasro5di9caSJDnLZpz"
     },
     {
       "added_at": null,

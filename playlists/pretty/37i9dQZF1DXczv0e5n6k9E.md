@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 
 > Η ελληνική ραπ σκηνή στα καλύτερά της\. Εξώφυλλο: 12os Pithikos
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,246 likes - 60 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,248 likes - 60 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 | 2 | [YING YANG](https://open.spotify.com/track/06yhYC3DfAAlnNc1jYj9td) | [SNIK](https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl), [FLY LO](https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu) | [VRD](https://open.spotify.com/album/0rKLeeNlCA1fjZiqQS8f6y) | 2:35 |
 | 3 | [PES TI THELEIS KSA](https://open.spotify.com/track/6dXB0KFc9qcf1J7FriTcI1) | [Arab](https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a), [DJ Stephan](https://open.spotify.com/artist/0fxvzvlu3VQV3wDIhAxBmn), [BeTaf Beats](https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z) | [PES TI THELEIS KSA](https://open.spotify.com/album/3YcVwOv07X532NtzJJleaH) | 1:54 |
 | 4 | [KATASTROFES](https://open.spotify.com/track/5wKeS174oywnGe2Gom5gTS) | [YungKapa](https://open.spotify.com/artist/23iVXbj5uK4e3MtRQLNPdG), [Corteo](https://open.spotify.com/artist/7vHwSdqnwKnxJiMHFr0Edd) | [FROM THE BOTTOM](https://open.spotify.com/album/2uEf6Tq9InwsMRyPjVAyVl) | 2:33 |
-| 5 | [STRATOSFERA](https://open.spotify.com/track/5JYJrPJ9A0LiUsM3lrVJMx) | [Hawk](https://open.spotify.com/artist/0vUcZVCNG7i5OV0zb8Icfw) | [CASUS BELLI](https://open.spotify.com/album/1aQnXfjBDbLVjdYf1kkAbe) | 2:25 |
+| 5 | [STRATOSFERA](https://open.spotify.com/track/5JYJrPJ9A0LiUsM3lrVJMx) | [Hawk](https://open.spotify.com/artist/0vUcZVCNG7i5OV0zb8Icfw), [DJ Waif](https://open.spotify.com/artist/34E7XSYuJQGWpBlVQS0jkv) | [CASUS BELLI](https://open.spotify.com/album/1aQnXfjBDbLVjdYf1kkAbe) | 2:25 |
 | 6 | [KSANA](https://open.spotify.com/track/6NmGemgtgnXl8dzdZ5irAq) | [SNIK](https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl), [Trannos](https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc), [Oge](https://open.spotify.com/artist/5NFeyNwaFGFHFycOg6zvs9) | [VRD](https://open.spotify.com/album/0rKLeeNlCA1fjZiqQS8f6y) | 3:31 |
 | 7 | [Kara Tepe](https://open.spotify.com/track/6pHdnVVeWPLvRR4H4WF6Vf) | [Wang](https://open.spotify.com/artist/3ef2an5giEP6Hc60lKEVEy), [Mateos Nps](https://open.spotify.com/artist/24GETi9IpzvcwHLVIegWwV) | [Tenacity](https://open.spotify.com/album/5KmtvSWGjjQ8Yu2TIGgFPW) | 2:58 |
 | 8 | [FUCK LOVE](https://open.spotify.com/track/4ArBFP1logojblsR2c3r4d) | [Kidd](https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou), [BLVD](https://open.spotify.com/artist/3XVSWUdVDon1RGgHdPuqzR) | [FOREVER RICH DELUXE](https://open.spotify.com/album/2rmS4kn1agG4geVVS3Tppo) | 3:08 |

@@ -1,6 +1,6 @@
 {
   "description": "Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: Paul McCartney",
-  "num_followers": 155290,
+  "num_followers": 155318,
   "original_name": "Rock Leve",
   "owner": {
     "name": "Spotify",
@@ -131,22 +131,6 @@
     {
       "added_at": "2026-05-22 03:03:25",
       "album": {
-        "name": "Migalhas",
-        "url": "https://open.spotify.com/album/6fQCzPUP45tyjMbwzcOlKJ"
-      },
-      "artists": [
-        {
-          "name": "Jovem Dionisio",
-          "url": "https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ"
-        }
-      ],
-      "duration_ms": 206332,
-      "name": "Ontem",
-      "url": "https://open.spotify.com/track/0aq7xZ7JUOuOeHJaIPTpI3"
-    },
-    {
-      "added_at": "2026-05-22 03:03:25",
-      "album": {
         "name": "Capital Inicial Multishow (Ao Vivo) [Deluxe]",
         "url": "https://open.spotify.com/album/2UF8ePNIpJAQiU6V7E1zRS"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 254062,
       "name": "Por Enquanto - Ao Vivo",
       "url": "https://open.spotify.com/track/3H2oROvmrOu4hnf3Xv7pjU"
+    },
+    {
+      "added_at": "2026-05-22 03:03:25",
+      "album": {
+        "name": "Migalhas",
+        "url": "https://open.spotify.com/album/6fQCzPUP45tyjMbwzcOlKJ"
+      },
+      "artists": [
+        {
+          "name": "Jovem Dionisio",
+          "url": "https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ"
+        }
+      ],
+      "duration_ms": 206332,
+      "name": "Ontem",
+      "url": "https://open.spotify.com/track/0aq7xZ7JUOuOeHJaIPTpI3"
     },
     {
       "added_at": "2026-05-22 03:03:25",
@@ -219,26 +219,6 @@
     {
       "added_at": "2026-05-22 03:03:25",
       "album": {
-        "name": "N\u00e3o Vou Me Adaptar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4EdfAeoDFDnsoh1xey5M30"
-      },
-      "artists": [
-        {
-          "name": "Nando Reis",
-          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
-        },
-        {
-          "name": "Arnaldo Antunes",
-          "url": "https://open.spotify.com/artist/7lOUbhzQ1F3xcCMEcTtbO5"
-        }
-      ],
-      "duration_ms": 276887,
-      "name": "N\u00e3o Vou Me Adaptar - Ao Vivo",
-      "url": "https://open.spotify.com/track/4EXzmoiU4KAggC3UbBueCl"
-    },
-    {
-      "added_at": "2026-05-22 03:03:25",
-      "album": {
         "name": "Amor Em V\u00e3o",
         "url": "https://open.spotify.com/album/4LlYjI3enukiq7vCAHRY65"
       },
@@ -255,6 +235,26 @@
       "duration_ms": 211254,
       "name": "Amor Em V\u00e3o",
       "url": "https://open.spotify.com/track/3VwcqHviDaCwvMNtFnfLUv"
+    },
+    {
+      "added_at": "2026-05-22 03:03:25",
+      "album": {
+        "name": "N\u00e3o Vou Me Adaptar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4EdfAeoDFDnsoh1xey5M30"
+      },
+      "artists": [
+        {
+          "name": "Nando Reis",
+          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
+        },
+        {
+          "name": "Arnaldo Antunes",
+          "url": "https://open.spotify.com/artist/7lOUbhzQ1F3xcCMEcTtbO5"
+        }
+      ],
+      "duration_ms": 276887,
+      "name": "N\u00e3o Vou Me Adaptar - Ao Vivo",
+      "url": "https://open.spotify.com/track/4EXzmoiU4KAggC3UbBueCl"
     },
     {
       "added_at": "2026-05-22 03:03:25",
@@ -315,6 +315,22 @@
     {
       "added_at": "2026-05-22 03:03:25",
       "album": {
+        "name": "Sonora",
+        "url": "https://open.spotify.com/album/7uJxmC5sFUXrC4o8YVoSqj"
+      },
+      "artists": [
+        {
+          "name": "Capital Inicial",
+          "url": "https://open.spotify.com/artist/4Z0yuwHVJBROVZqFpTIr0d"
+        }
+      ],
+      "duration_ms": 213714,
+      "name": "S\u00f3 Eu Sei",
+      "url": "https://open.spotify.com/track/46lPJNd7iWe0fJ5ZGULaIk"
+    },
+    {
+      "added_at": "2026-05-22 03:03:25",
+      "album": {
         "name": "Improv\u00e1vel",
         "url": "https://open.spotify.com/album/6kkj8J3XRedTgUw3c02AVp"
       },
@@ -335,18 +351,22 @@
     {
       "added_at": "2026-05-22 03:03:25",
       "album": {
-        "name": "Sonora",
-        "url": "https://open.spotify.com/album/7uJxmC5sFUXrC4o8YVoSqj"
+        "name": "Tudo Agora",
+        "url": "https://open.spotify.com/album/7anK66Wh4q8e7W8PgFOwKo"
       },
       "artists": [
         {
-          "name": "Capital Inicial",
-          "url": "https://open.spotify.com/artist/4Z0yuwHVJBROVZqFpTIr0d"
+          "name": "Samuel Rosa",
+          "url": "https://open.spotify.com/artist/4fp0N4WchcumIW5HNGpPwa"
+        },
+        {
+          "name": "DUDA BEAT",
+          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
         }
       ],
-      "duration_ms": 213714,
-      "name": "S\u00f3 Eu Sei",
-      "url": "https://open.spotify.com/track/46lPJNd7iWe0fJ5ZGULaIk"
+      "duration_ms": 249023,
+      "name": "Tudo Agora",
+      "url": "https://open.spotify.com/track/0l8pT5SeKajbPoWsIHPpAF"
     },
     {
       "added_at": "2026-05-22 03:03:25",
@@ -367,26 +387,6 @@
       "duration_ms": 219759,
       "name": "Marvin - Microfonado",
       "url": "https://open.spotify.com/track/56IzuFMzZfr343rQyvFdpW"
-    },
-    {
-      "added_at": "2026-05-22 03:03:25",
-      "album": {
-        "name": "Tudo Agora",
-        "url": "https://open.spotify.com/album/7anK66Wh4q8e7W8PgFOwKo"
-      },
-      "artists": [
-        {
-          "name": "Samuel Rosa",
-          "url": "https://open.spotify.com/artist/4fp0N4WchcumIW5HNGpPwa"
-        },
-        {
-          "name": "DUDA BEAT",
-          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
-        }
-      ],
-      "duration_ms": 249023,
-      "name": "Tudo Agora",
-      "url": "https://open.spotify.com/track/0l8pT5SeKajbPoWsIHPpAF"
     },
     {
       "added_at": "2026-05-22 03:03:25",
@@ -491,22 +491,6 @@
     {
       "added_at": "2026-05-22 03:03:25",
       "album": {
-        "name": "Te Beijei",
-        "url": "https://open.spotify.com/album/5KWtMye0hULoCq2CZ5DBDP"
-      },
-      "artists": [
-        {
-          "name": "Yahoo",
-          "url": "https://open.spotify.com/artist/29bYY1WyOuJ3Z2jxYhT7kM"
-        }
-      ],
-      "duration_ms": 254208,
-      "name": "Te Beijei",
-      "url": "https://open.spotify.com/track/33w69xKoZqw9SZBjH0t8Mj"
-    },
-    {
-      "added_at": "2026-05-22 03:03:25",
-      "album": {
         "name": "N\u00e3o Diga Nada",
         "url": "https://open.spotify.com/album/3kf71hYy9zqknjwKGyi2mj"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 250133,
       "name": "N\u00e3o Diga Nada",
       "url": "https://open.spotify.com/track/1T1xneWDmxbb9rcgB0Svz8"
+    },
+    {
+      "added_at": "2026-05-22 03:03:25",
+      "album": {
+        "name": "Te Beijei",
+        "url": "https://open.spotify.com/album/5KWtMye0hULoCq2CZ5DBDP"
+      },
+      "artists": [
+        {
+          "name": "Yahoo",
+          "url": "https://open.spotify.com/artist/29bYY1WyOuJ3Z2jxYhT7kM"
+        }
+      ],
+      "duration_ms": 254208,
+      "name": "Te Beijei",
+      "url": "https://open.spotify.com/track/33w69xKoZqw9SZBjH0t8Mj"
     },
     {
       "added_at": "2026-05-22 03:03:25",
@@ -623,22 +623,6 @@
     {
       "added_at": "2026-05-22 03:03:25",
       "album": {
-        "name": "MANAUERO (Deluxe)",
-        "url": "https://open.spotify.com/album/1mTkjgLURoKKK4Wvm1vzbi"
-      },
-      "artists": [
-        {
-          "name": "Jambu",
-          "url": "https://open.spotify.com/artist/5cKYzOJ8HSM7eKSP3FkvVX"
-        }
-      ],
-      "duration_ms": 198173,
-      "name": "A Noite Toda",
-      "url": "https://open.spotify.com/track/41FfVrQ3Nt8BKHMFybQUkl"
-    },
-    {
-      "added_at": "2026-05-22 03:03:25",
-      "album": {
         "name": "Rotorquestra de Liquidificafu",
         "url": "https://open.spotify.com/album/6RENFX4W1yO5Jb6R6fwRIa"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 207500,
       "name": "Eu",
       "url": "https://open.spotify.com/track/6IZNBwp5vv2GlDuMxhmq5D"
+    },
+    {
+      "added_at": "2026-05-22 03:03:25",
+      "album": {
+        "name": "MANAUERO (Deluxe)",
+        "url": "https://open.spotify.com/album/1mTkjgLURoKKK4Wvm1vzbi"
+      },
+      "artists": [
+        {
+          "name": "Jambu",
+          "url": "https://open.spotify.com/artist/5cKYzOJ8HSM7eKSP3FkvVX"
+        }
+      ],
+      "duration_ms": 198173,
+      "name": "A Noite Toda",
+      "url": "https://open.spotify.com/track/41FfVrQ3Nt8BKHMFybQUkl"
     },
     {
       "added_at": "2026-05-22 03:03:25",
@@ -723,22 +723,6 @@
     {
       "added_at": "2026-05-22 03:03:25",
       "album": {
-        "name": "Vamos Correr Pro Mar",
-        "url": "https://open.spotify.com/album/7oIIi1OY9PXw8le6Rdb5BJ"
-      },
-      "artists": [
-        {
-          "name": "Seu Cuca",
-          "url": "https://open.spotify.com/artist/3RAlbabK7xVqcYu6i4vN0b"
-        }
-      ],
-      "duration_ms": 206677,
-      "name": "Vamos Correr Pro Mar",
-      "url": "https://open.spotify.com/track/5KUNq0bFfXp6mgQv3ZFH35"
-    },
-    {
-      "added_at": "2026-05-22 03:03:25",
-      "album": {
         "name": "P\u00e1ssaro Livre",
         "url": "https://open.spotify.com/album/6GaTdxbCc8Q6BzAKUMO9UA"
       },
@@ -755,18 +739,18 @@
     {
       "added_at": "2026-05-22 03:03:25",
       "album": {
-        "name": "Nada Mudou",
-        "url": "https://open.spotify.com/album/0hIJR1ky8OCbMhXVQp8Jjr"
+        "name": "Vamos Correr Pro Mar",
+        "url": "https://open.spotify.com/album/7oIIi1OY9PXw8le6Rdb5BJ"
       },
       "artists": [
         {
-          "name": "Leo Jaime",
-          "url": "https://open.spotify.com/artist/2TjzEhCBd9s3YPWKPwKZYo"
+          "name": "Seu Cuca",
+          "url": "https://open.spotify.com/artist/3RAlbabK7xVqcYu6i4vN0b"
         }
       ],
-      "duration_ms": 196457,
-      "name": "Nada Mudou",
-      "url": "https://open.spotify.com/track/4Vz23w4xQ6uSIRCLLLeEaR"
+      "duration_ms": 206677,
+      "name": "Vamos Correr Pro Mar",
+      "url": "https://open.spotify.com/track/5KUNq0bFfXp6mgQv3ZFH35"
     },
     {
       "added_at": "2026-05-22 03:03:25",
@@ -783,6 +767,22 @@
       "duration_ms": 185684,
       "name": "Dragon",
       "url": "https://open.spotify.com/track/2MGoRGsL1Q4kUL5ggkFOlC"
+    },
+    {
+      "added_at": "2026-05-22 03:03:25",
+      "album": {
+        "name": "Nada Mudou",
+        "url": "https://open.spotify.com/album/0hIJR1ky8OCbMhXVQp8Jjr"
+      },
+      "artists": [
+        {
+          "name": "Leo Jaime",
+          "url": "https://open.spotify.com/artist/2TjzEhCBd9s3YPWKPwKZYo"
+        }
+      ],
+      "duration_ms": 196457,
+      "name": "Nada Mudou",
+      "url": "https://open.spotify.com/track/4Vz23w4xQ6uSIRCLLLeEaR"
     },
     {
       "added_at": "2026-05-22 03:03:25",
@@ -819,22 +819,6 @@
     {
       "added_at": "2026-05-22 03:03:25",
       "album": {
-        "name": "Causas Naturais",
-        "url": "https://open.spotify.com/album/041plE9wBqtZyzh3pxqEal"
-      },
-      "artists": [
-        {
-          "name": "Colomy",
-          "url": "https://open.spotify.com/artist/3cZPhYBGxe9nqWRe3xAlmp"
-        }
-      ],
-      "duration_ms": 165823,
-      "name": "Causas Naturais",
-      "url": "https://open.spotify.com/track/3B8vuwgs2jyjiBFQe2WB9X"
-    },
-    {
-      "added_at": "2026-05-22 03:03:25",
-      "album": {
         "name": "Supernova",
         "url": "https://open.spotify.com/album/2g26BC7k5JvYrsKMIZjogr"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 216860,
       "name": "Estive com Stevie",
       "url": "https://open.spotify.com/track/0gBsFURSrkTWWrIaZnYo9D"
+    },
+    {
+      "added_at": "2026-05-22 03:03:25",
+      "album": {
+        "name": "Causas Naturais",
+        "url": "https://open.spotify.com/album/041plE9wBqtZyzh3pxqEal"
+      },
+      "artists": [
+        {
+          "name": "Colomy",
+          "url": "https://open.spotify.com/artist/3cZPhYBGxe9nqWRe3xAlmp"
+        }
+      ],
+      "duration_ms": 165823,
+      "name": "Causas Naturais",
+      "url": "https://open.spotify.com/track/3B8vuwgs2jyjiBFQe2WB9X"
     },
     {
       "added_at": "2026-05-22 03:03:25",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2026-05-22 03:03:25",
       "album": {
+        "name": "A, Vol. 1",
+        "url": "https://open.spotify.com/album/39WweArKti3Y2cvkVCi84M"
+      },
+      "artists": [
+        {
+          "name": "Fiuk",
+          "url": "https://open.spotify.com/artist/0SVSq6V4n9dDVeIZifohqN"
+        }
+      ],
+      "duration_ms": 148269,
+      "name": "Dentro e Fora de Voc\u00ea",
+      "url": "https://open.spotify.com/track/1Oooy53VLeg8KUejMG6OvH"
+    },
+    {
+      "added_at": "2026-05-22 03:03:25",
+      "album": {
         "name": "PITTYNANDO \u2013 As Suas, As Minhas e As Nossas (Ao Vivo)",
         "url": "https://open.spotify.com/album/5GXMquIjfejiBifabM0Tny"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 252699,
       "name": "Stonehenge - Live",
       "url": "https://open.spotify.com/track/6BcpYt1509EnqN4TR9CVzw"
-    },
-    {
-      "added_at": "2026-05-22 03:03:25",
-      "album": {
-        "name": "A, Vol. 1",
-        "url": "https://open.spotify.com/album/39WweArKti3Y2cvkVCi84M"
-      },
-      "artists": [
-        {
-          "name": "Fiuk",
-          "url": "https://open.spotify.com/artist/0SVSq6V4n9dDVeIZifohqN"
-        }
-      ],
-      "duration_ms": 148269,
-      "name": "Dentro e Fora de Voc\u00ea",
-      "url": "https://open.spotify.com/track/1Oooy53VLeg8KUejMG6OvH"
     }
   ],
   "unique_name": "Rock Leve",

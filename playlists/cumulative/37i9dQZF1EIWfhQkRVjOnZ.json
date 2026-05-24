@@ -502,7 +502,7 @@
       ],
       "date_added": "2024-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-11",
+      "date_removed": null,
       "duration_ms": 192293,
       "name": "Apologies Are For The Weak",
       "url": "https://open.spotify.com/track/64P6T5X31K9XQn5vtbbHej"
@@ -1370,7 +1370,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-19",
+      "date_removed": null,
       "duration_ms": 77973,
       "name": "Dialogue",
       "url": "https://open.spotify.com/track/6cPCoJDvn9OwyKT5s9uXXy"
@@ -1892,7 +1892,7 @@
       ],
       "date_added": "2025-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 212693,
       "name": "Forgive and Forget",
       "url": "https://open.spotify.com/track/1VjODGU3lcOyGgOHotXzxw"
@@ -2036,7 +2036,7 @@
       ],
       "date_added": "2025-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 155306,
       "name": "Giants Among Common Men",
       "url": "https://open.spotify.com/track/1liJO1TUfFgfLGFJ8YMiCj"
@@ -2133,6 +2133,24 @@
     },
     {
       "album": {
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/37UY8HU6HMSU3zhtRoqxN4"
+      },
+      "artists": [
+        {
+          "name": "Texas In July",
+          "url": "https://open.spotify.com/artist/3J5OtMrtDAw0IcanJR28Ya"
+        }
+      ],
+      "date_added": "2026-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Hook, Line and Sinner",
+      "url": "https://open.spotify.com/track/1kmPojhjbBZWbj45HZpBGu"
+    },
+    {
+      "album": {
         "name": "Children Of Fire",
         "url": "https://open.spotify.com/album/0WQNPLhdUZWdBotJTdW73k"
       },
@@ -2162,7 +2180,7 @@
       ],
       "date_added": "2024-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-17",
+      "date_removed": null,
       "duration_ms": 193880,
       "name": "Hymn of a Broken Man",
       "url": "https://open.spotify.com/track/1vcHLDfAfuBq4JuIgEkw5I"
@@ -2486,7 +2504,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-23",
+      "date_removed": null,
       "duration_ms": 229786,
       "name": "Live in Love",
       "url": "https://open.spotify.com/track/7GKj55k2hMsQ983yH5LnxB"
@@ -2792,7 +2810,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-22",
+      "date_removed": null,
       "duration_ms": 188723,
       "name": "Moths and Rust",
       "url": "https://open.spotify.com/track/7nVVmhmkcpGGaPfIZzJqNm"
@@ -3466,7 +3484,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-19",
+      "date_removed": null,
       "duration_ms": 85853,
       "name": "Resolution",
       "url": "https://open.spotify.com/track/1RcdFNgUuKdFnuvt2ppD03"
@@ -4046,7 +4064,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 210986,
       "name": "Studying Politics",
       "url": "https://open.spotify.com/track/69YAlTHsJSww392VeNOa7Z"
@@ -4100,7 +4118,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 265613,
       "name": "Sword In Mouth, Fire Eyes",
       "url": "https://open.spotify.com/track/5GQlWWb1evGQw5CwZ6iRJg"
@@ -4572,7 +4590,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 230133,
       "name": "The Worst Is yet to Come",
       "url": "https://open.spotify.com/track/3T8WTbGrVFWI2eWrDqylTI"
@@ -4608,7 +4626,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 215693,
       "name": "There Can Be No Hesitation",
       "url": "https://open.spotify.com/track/35A0XPN0zoaQQHPvTOcemg"
@@ -4770,7 +4788,7 @@
       ],
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 261013,
       "name": "This Ship, A Coffin",
       "url": "https://open.spotify.com/track/1UabJxjcG7QquUxbFNZDqM"

@@ -1,6 +1,6 @@
 {
   "description": "The greatest indie love songs of all time. ",
-  "num_followers": 768396,
+  "num_followers": 768487,
   "original_name": "Indie Love Songs",
   "owner": {
     "name": "Spotify",
@@ -815,6 +815,22 @@
     {
       "added_at": "2026-02-19 14:58:26",
       "album": {
+        "name": "Alvvays",
+        "url": "https://open.spotify.com/album/1j3pIPXjLIFkp84OfVUsNT"
+      },
+      "artists": [
+        {
+          "name": "Alvvays",
+          "url": "https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt"
+        }
+      ],
+      "duration_ms": 196560,
+      "name": "Archie, Marry Me",
+      "url": "https://open.spotify.com/track/5GAB1X0AJq2EZjxXP9zMFt"
+    },
+    {
+      "added_at": "2026-02-19 14:58:26",
+      "album": {
         "name": "the record",
         "url": "https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 294626,
       "name": "We're In Love",
       "url": "https://open.spotify.com/track/5eoy62yFNJAli6AyKK5qnH"
-    },
-    {
-      "added_at": "2026-02-19 14:58:26",
-      "album": {
-        "name": "Alvvays",
-        "url": "https://open.spotify.com/album/1j3pIPXjLIFkp84OfVUsNT"
-      },
-      "artists": [
-        {
-          "name": "Alvvays",
-          "url": "https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt"
-        }
-      ],
-      "duration_ms": 196560,
-      "name": "Archie, Marry Me",
-      "url": "https://open.spotify.com/track/5GAB1X0AJq2EZjxXP9zMFt"
     },
     {
       "added_at": "2026-02-19 14:58:26",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2026-02-19 14:58:26",
       "album": {
-        "name": "Because I Wanted You to Know",
-        "url": "https://open.spotify.com/album/4t4kHyQ0DvmfYYHJITb9l8"
-      },
-      "artists": [
-        {
-          "name": "Matilda Mann",
-          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
-        }
-      ],
-      "duration_ms": 179083,
-      "name": "Paper Mache World",
-      "url": "https://open.spotify.com/track/3Maqlu2aPlU8NluW19O8JD"
-    },
-    {
-      "added_at": "2026-02-19 14:58:26",
-      "album": {
         "name": "Summerteeth",
         "url": "https://open.spotify.com/album/1JpaFJzzcsiulO6MdIcQdK"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 259800,
       "name": "A Shot in the Arm",
       "url": "https://open.spotify.com/track/7bLiOJtUpzZ1AIBFtCRQYk"
+    },
+    {
+      "added_at": "2026-02-19 14:58:26",
+      "album": {
+        "name": "Because I Wanted You to Know",
+        "url": "https://open.spotify.com/album/4t4kHyQ0DvmfYYHJITb9l8"
+      },
+      "artists": [
+        {
+          "name": "Matilda Mann",
+          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
+        }
+      ],
+      "duration_ms": 179083,
+      "name": "Paper Mache World",
+      "url": "https://open.spotify.com/track/3Maqlu2aPlU8NluW19O8JD"
     },
     {
       "added_at": "2026-02-19 14:58:26",

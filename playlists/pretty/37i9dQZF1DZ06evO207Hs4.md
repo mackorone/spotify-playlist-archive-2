@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO207Hs4.md) - [plain]
 
 > This is Jimmy Cliff\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,652 likes - 50 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,651 likes - 50 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,18 +29,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO207Hs4.md) - [plain]
 | 19 | [Vietnam \- Single Version](https://open.spotify.com/track/2fBoOkbf0qzw4y3jLTaNcB) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Wonderful World, Beautiful People](https://open.spotify.com/album/3RiXb242oLrGNRtc0Va4Fd) | 4:52 |
 | 20 | [Roots Woman](https://open.spotify.com/track/5slJf1fMdFewK5sKe3BY1T) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [The Power And The Glory](https://open.spotify.com/album/6NAU01DHEdx0vyioca0Pcs) | 4:17 |
 | 21 | [Now and Forever](https://open.spotify.com/track/2c5lal94wgFhRkSdOUt2Xg) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Cliff Hanger](https://open.spotify.com/album/4jDYIT8hRGwGxDmTd6c9tN) | 4:54 |
-| 22 | [Sooner Or Later](https://open.spotify.com/track/5K5YCvw06zbPEMITFNk6aJ) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Struggling Man](https://open.spotify.com/album/4nZrgSC5gdqUYbCCHGNFqw) | 5:14 |
-| 23 | [Fire On The Mountain \- Live](https://open.spotify.com/track/39gGB1MdnM0pCdhLdFxlpl) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf), [Bob Weir](https://open.spotify.com/artist/6YB0tbDGk01Q0P6wcHPjpC), [Mickey Hart](https://open.spotify.com/artist/4eh3NWjKDBI81nFl9uhWtU), [Bill Kreutzmann](https://open.spotify.com/artist/1wk6pg0mhB8jTm9Y6I4bNV) | [Dear Jerry: Celebrating The Music Of Jerry Garcia \(Live\)](https://open.spotify.com/album/56MqXoKUl5SS1fLEPKttjj) | 6:53 |
+| 22 | [Fire On The Mountain \- Live](https://open.spotify.com/track/39gGB1MdnM0pCdhLdFxlpl) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf), [Bob Weir](https://open.spotify.com/artist/6YB0tbDGk01Q0P6wcHPjpC), [Mickey Hart](https://open.spotify.com/artist/4eh3NWjKDBI81nFl9uhWtU), [Bill Kreutzmann](https://open.spotify.com/artist/1wk6pg0mhB8jTm9Y6I4bNV) | [Dear Jerry: Celebrating The Music Of Jerry Garcia \(Live\)](https://open.spotify.com/album/56MqXoKUl5SS1fLEPKttjj) | 6:53 |
+| 23 | [Sooner Or Later](https://open.spotify.com/track/5K5YCvw06zbPEMITFNk6aJ) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Struggling Man](https://open.spotify.com/album/4nZrgSC5gdqUYbCCHGNFqw) | 5:14 |
 | 24 | [Roots Radical](https://open.spotify.com/track/4oCAJnGSJ5yeG2cCl0oQ1n) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Special](https://open.spotify.com/album/7DThjcUUrZYmpcELciIu2w) | 4:22 |
 | 25 | [Lonely Streets](https://open.spotify.com/track/7G67Uu20crxihu3LaAlBQ6) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Give Thanx](https://open.spotify.com/album/2fxpPZnUQrYgjax8z9t4UB) | 4:21 |
-| 26 | [Struggling Man](https://open.spotify.com/track/4c6qeQX0bIejYckXYaz4gO) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Struggling Man](https://open.spotify.com/album/4nZrgSC5gdqUYbCCHGNFqw) | 3:27 |
-| 27 | [Bongo Man](https://open.spotify.com/track/4NDt0POuq7rRff55MGUU8n) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Goodbye Yesterday](https://open.spotify.com/album/4pCihmj6KBWAPZe4MiGRt5) | 4:05 |
+| 26 | [Bongo Man](https://open.spotify.com/track/4NDt0POuq7rRff55MGUU8n) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Goodbye Yesterday](https://open.spotify.com/album/4pCihmj6KBWAPZe4MiGRt5) | 4:05 |
+| 27 | [Struggling Man](https://open.spotify.com/track/4c6qeQX0bIejYckXYaz4gO) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Struggling Man](https://open.spotify.com/album/4nZrgSC5gdqUYbCCHGNFqw) | 3:27 |
 | 28 | [Let Your Yeah Be Yeah](https://open.spotify.com/track/0eOWjvKQunKXGy3eKmqwFn) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [The Best Of Jimmy Cliff](https://open.spotify.com/album/6Y39RwVpNbgahWevQ0KENh) | 3:05 |
-| 29 | [Love Solution](https://open.spotify.com/track/2JMBM4nrck1Uq45Kzs8qVy) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [The Power And The Glory](https://open.spotify.com/album/6NAU01DHEdx0vyioca0Pcs) | 3:58 |
-| 30 | [Miss Jamaica](https://open.spotify.com/track/7LsFKGyHBuBUyczlkuNk02) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Rebel Light](https://open.spotify.com/album/3516ELRm8YLYO18q9ePzUI) | 2:24 |
+| 29 | [Miss Jamaica](https://open.spotify.com/track/7LsFKGyHBuBUyczlkuNk02) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Rebel Light](https://open.spotify.com/album/3516ELRm8YLYO18q9ePzUI) | 2:24 |
+| 30 | [Love Solution](https://open.spotify.com/track/2JMBM4nrck1Uq45Kzs8qVy) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [The Power And The Glory](https://open.spotify.com/album/6NAU01DHEdx0vyioca0Pcs) | 3:58 |
 | 31 | [Treat the Youths Right](https://open.spotify.com/track/0wdGFydtOYUrQhcYChzImr) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Special](https://open.spotify.com/album/7DThjcUUrZYmpcELciIu2w) | 3:40 |
-| 32 | [Come Into My Life \- Single Version](https://open.spotify.com/track/0Gms0Ad9iBfwoInbDbSoLn) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Wonderful World, Beautiful People](https://open.spotify.com/album/3RiXb242oLrGNRtc0Va4Fd) | 2:55 |
-| 33 | [Hakuna Matata](https://open.spotify.com/track/1VdQkGrUNJTqMkWlROP8mS) | [Lebo M.](https://open.spotify.com/artist/0zp9qNDSeYi3QEodhcKAAA), [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Rhythm Of The Pride Lands](https://open.spotify.com/album/38WcqhsXCL0TE86lTK2FHj) | 4:24 |
+| 32 | [Hakuna Matata](https://open.spotify.com/track/1VdQkGrUNJTqMkWlROP8mS) | [Lebo M.](https://open.spotify.com/artist/0zp9qNDSeYi3QEodhcKAAA), [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Rhythm Of The Pride Lands](https://open.spotify.com/album/38WcqhsXCL0TE86lTK2FHj) | 4:24 |
+| 33 | [Come Into My Life \- Single Version](https://open.spotify.com/track/0Gms0Ad9iBfwoInbDbSoLn) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Wonderful World, Beautiful People](https://open.spotify.com/album/3RiXb242oLrGNRtc0Va4Fd) | 2:55 |
 | 34 | [Raggae Down Babylon](https://open.spotify.com/track/37qZu3pX5kEslguZYdzM4e) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Hanging Fire](https://open.spotify.com/album/3f2XkrjIF5F5c1JPfcOl5n) | 4:25 |
 | 35 | [Born to Win](https://open.spotify.com/track/2n0uoqw6J3aaiQ4cFzkKeb) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [The EMI Years 1973\-'75](https://open.spotify.com/album/58Cr3LLfMc3opkezTyXxeS) | 2:52 |
 | 36 | [Hot Shot](https://open.spotify.com/track/6Spf2fk9iQpuVLH94FVB60) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Cliff Hanger](https://open.spotify.com/album/4jDYIT8hRGwGxDmTd6c9tN) | 4:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO207Hs4.md) - [plain]
 | 49 | [Rub\-A\-Dub Partners](https://open.spotify.com/track/4LAz7d1hYELgs0PQvEkkym) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Special](https://open.spotify.com/album/7DThjcUUrZYmpcELciIu2w) | 2:57 |
 | 50 | [Wanted Man](https://open.spotify.com/track/5ZiDeyGECCx1so1CKl2yvH) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Give Thanx](https://open.spotify.com/album/2fxpPZnUQrYgjax8z9t4UB) | 3:41 |
 
-Snapshot ID: `ag5LAAAAAAD327h+W7rMFx+XyEa7HRPr`
+Snapshot ID: `ag+cgAAAAAAxIyHjqRzX1E18zQqGlbyp`

@@ -1,12 +1,12 @@
 {
   "description": "This is Kanye West. The essential tracks, all in one playlist.",
-  "num_followers": 1467681,
+  "num_followers": 1467777,
   "original_name": "This Is Kanye West",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ag5LAAAAAABKzJNiP0gyzLTD9Lo/i7cd",
+  "snapshot_id": "ag+cgAAAAAC0pAAOm+SygLAlOf/xMM25",
   "tracks": [
     {
       "added_at": null,
@@ -31,6 +31,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "808s & Heartbreak",
+        "url": "https://open.spotify.com/album/3WFTGIO6E3Xh4paEOBY9OU"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Heartless",
+      "url": "https://open.spotify.com/track/4EWCNWgDS8707fNSZ1oaA5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "BULLY",
         "url": "https://open.spotify.com/album/5poA9SAx0Xiz1cf17fWBLS"
       },
@@ -51,22 +67,6 @@
       "duration_ms": 229152,
       "name": "ALL THE LOVE (feat. Andre Troutman)",
       "url": "https://open.spotify.com/track/2SjnvpedDUU0Ga69bxnoCa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "808s & Heartbreak",
-        "url": "https://open.spotify.com/album/3WFTGIO6E3Xh4paEOBY9OU"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Heartless",
-      "url": "https://open.spotify.com/track/4EWCNWgDS8707fNSZ1oaA5"
     },
     {
       "added_at": null,
@@ -111,6 +111,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Shine",
+        "url": "https://open.spotify.com/album/1fpyVGMhF1vdl4XTFo1IH0"
+      },
+      "artists": [
+        {
+          "name": "Estelle",
+          "url": "https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 284733,
+      "name": "American Boy",
+      "url": "https://open.spotify.com/track/6etwirSInfuJrSOlogS6Sh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "BULLY",
         "url": "https://open.spotify.com/album/5poA9SAx0Xiz1cf17fWBLS"
       },
@@ -131,26 +151,6 @@
       "duration_ms": 169330,
       "name": "FATHER (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/5pfn68duSmBKo4FhYknOms"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Shine",
-        "url": "https://open.spotify.com/album/1fpyVGMhF1vdl4XTFo1IH0"
-      },
-      "artists": [
-        {
-          "name": "Estelle",
-          "url": "https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn"
-        },
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 284733,
-      "name": "American Boy",
-      "url": "https://open.spotify.com/track/6etwirSInfuJrSOlogS6Sh"
     },
     {
       "added_at": null,
@@ -227,42 +227,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BULLY",
-        "url": "https://open.spotify.com/album/5poA9SAx0Xiz1cf17fWBLS"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Ye",
-          "url": "https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq"
-        }
-      ],
-      "duration_ms": 111157,
-      "name": "HIGHS AND LOWS",
-      "url": "https://open.spotify.com/track/565G1vHZu2xoxrnTyF06Qw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Graduation",
-        "url": "https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 271600,
-      "name": "Can't Tell Me Nothing",
-      "url": "https://open.spotify.com/track/0mEdbdeRFQwBhN4xfyIeUM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Watch The Throne",
         "url": "https://open.spotify.com/album/0OcMap99vLEeGkBCfCwRwS"
       },
@@ -279,6 +243,22 @@
       "duration_ms": 219333,
       "name": "Ni**as In Paris",
       "url": "https://open.spotify.com/track/1auxYwYrFRqZP7t3s7w4um"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Graduation",
+        "url": "https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 271600,
+      "name": "Can't Tell Me Nothing",
+      "url": "https://open.spotify.com/track/0mEdbdeRFQwBhN4xfyIeUM"
     },
     {
       "added_at": null,
@@ -316,25 +296,9 @@
           "url": "https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq"
         }
       ],
-      "duration_ms": 108334,
-      "name": "PUNCH DRUNK",
-      "url": "https://open.spotify.com/track/4bWZz15GR1EE8E8x23rDWV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Graduation",
-        "url": "https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 311866,
-      "name": "Stronger",
-      "url": "https://open.spotify.com/track/0j2T0R9dR9qdJYsB7ciXhf"
+      "duration_ms": 111157,
+      "name": "HIGHS AND LOWS",
+      "url": "https://open.spotify.com/track/565G1vHZu2xoxrnTyF06Qw"
     },
     {
       "added_at": null,
@@ -359,6 +323,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Graduation",
+        "url": "https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 311866,
+      "name": "Stronger",
+      "url": "https://open.spotify.com/track/0j2T0R9dR9qdJYsB7ciXhf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "My Beautiful Dark Twisted Fantasy",
         "url": "https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv"
       },
@@ -375,6 +355,26 @@
       "duration_ms": 547733,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/3DK6m7It6Pw857FcQftMds"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BULLY",
+        "url": "https://open.spotify.com/album/5poA9SAx0Xiz1cf17fWBLS"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Ye",
+          "url": "https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq"
+        }
+      ],
+      "duration_ms": 108334,
+      "name": "PUNCH DRUNK",
+      "url": "https://open.spotify.com/track/4bWZz15GR1EE8E8x23rDWV"
     },
     {
       "added_at": null,
@@ -419,6 +419,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "My Beautiful Dark Twisted Fantasy",
+        "url": "https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 299613,
+      "name": "All Of The Lights",
+      "url": "https://open.spotify.com/track/22L7bfCiAkJo5xGSQgmiIO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "BULLY",
         "url": "https://open.spotify.com/album/5poA9SAx0Xiz1cf17fWBLS"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 119272,
       "name": "WHATEVER WORKS",
       "url": "https://open.spotify.com/track/7GVuAK4EmYP7gvlXA4JXqU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "My Beautiful Dark Twisted Fantasy",
-        "url": "https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 299613,
-      "name": "All Of The Lights",
-      "url": "https://open.spotify.com/track/22L7bfCiAkJo5xGSQgmiIO"
     },
     {
       "added_at": null,
@@ -495,6 +495,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "My Beautiful Dark Twisted Fantasy",
+        "url": "https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 292093,
+      "name": "POWER",
+      "url": "https://open.spotify.com/track/2gZUPNdnz5Y45eiGxpHGSc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "BULLY",
         "url": "https://open.spotify.com/album/5poA9SAx0Xiz1cf17fWBLS"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 126868,
       "name": "KING",
       "url": "https://open.spotify.com/track/4LP6bmyAxdMNrqUrMpaVQ8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "My Beautiful Dark Twisted Fantasy",
-        "url": "https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 292093,
-      "name": "POWER",
-      "url": "https://open.spotify.com/track/2gZUPNdnz5Y45eiGxpHGSc"
     },
     {
       "added_at": null,
@@ -563,6 +563,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "My Beautiful Dark Twisted Fantasy",
+        "url": "https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        }
+      ],
+      "duration_ms": 351946,
+      "name": "Devil In A New Dress",
+      "url": "https://open.spotify.com/track/1UGD3lW3tDmgZfAVDh6w7r"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "VULTURES 1",
         "url": "https://open.spotify.com/album/4DOsPwJtokv6HEifZ6t5j6"
       },
@@ -583,26 +603,6 @@
       "duration_ms": 264334,
       "name": "CARNIVAL",
       "url": "https://open.spotify.com/track/2McT2fkH0VDqPsbiB9HWPq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "My Beautiful Dark Twisted Fantasy",
-        "url": "https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Rick Ross",
-          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
-        }
-      ],
-      "duration_ms": 351946,
-      "name": "Devil In A New Dress",
-      "url": "https://open.spotify.com/track/1UGD3lW3tDmgZfAVDh6w7r"
     },
     {
       "added_at": null,
@@ -651,6 +651,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "True Love",
+        "url": "https://open.spotify.com/album/1YA0gAfV91LkDq1DODSCbc"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "duration_ms": 148571,
+      "name": "True Love",
+      "url": "https://open.spotify.com/track/06JvOZ39sK8D8SqiqfaxDU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "VULTURES 1",
         "url": "https://open.spotify.com/album/4DOsPwJtokv6HEifZ6t5j6"
       },
@@ -671,26 +691,6 @@
       "duration_ms": 111477,
       "name": "BURN",
       "url": "https://open.spotify.com/track/7BPadP3q9qwMkho3IMPU99"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "True Love",
-        "url": "https://open.spotify.com/album/1YA0gAfV91LkDq1DODSCbc"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "XXXTENTACION",
-          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
-        }
-      ],
-      "duration_ms": 148571,
-      "name": "True Love",
-      "url": "https://open.spotify.com/track/06JvOZ39sK8D8SqiqfaxDU"
     },
     {
       "added_at": null,

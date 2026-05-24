@@ -1433,6 +1433,24 @@
     },
     {
       "album": {
+        "name": "Piratita",
+        "url": "https://open.spotify.com/album/4HP6iTCu0ph8dye2cYietb"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "date_added": "2026-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115826,
+      "name": "Piratita",
+      "url": "https://open.spotify.com/track/6bxwhfXrbMk73UWxmPmmoU"
+    },
+    {
+      "album": {
         "name": "Me Est\u00e1 Gustando",
         "url": "https://open.spotify.com/album/3LLGf8yNKPKud3ErCdOkAu"
       },
@@ -2224,7 +2242,7 @@
       ],
       "date_added": "2026-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 176611,
       "name": "Z\u00fambale",
       "url": "https://open.spotify.com/track/64noYsIo4t4bZRmFshOvaF"

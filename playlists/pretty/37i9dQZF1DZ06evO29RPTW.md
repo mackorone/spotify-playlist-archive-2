@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO29RPTW.md) - [plain]
 
 > This is Rob Zombie\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,014 likes - 48 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,023 likes - 48 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,11 +26,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO29RPTW.md) - [plain]
 | 16 | [What?](https://open.spotify.com/track/5gZ8nTiDCrI6IIk447z04i) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Hellbilly Deluxe 2 \(Special Edition\)](https://open.spotify.com/album/1lRP2viDsQVnL5FZwTsFwB) | 2:47 |
 | 17 | [Call Of The Zombie](https://open.spotify.com/track/2zPjC4hu9tZWFCVAdFgagX) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Hellbilly Deluxe](https://open.spotify.com/album/2B4lHoTCpWbxQPTZmCOjnH) | 0:30 |
 | 18 | [Scum Of The Earth](https://open.spotify.com/track/2qrxKk3y85UpaNcI07LPn9) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Sinister Urge](https://open.spotify.com/album/2ExOcLFwyExzkXK0ea180I) | 2:55 |
-| 19 | [Tarantula](https://open.spotify.com/track/4j7PGEopEfNI4Oja2hf2tZ) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Great Satan](https://open.spotify.com/album/1UE3oGyftp6WFWQXOPdz8I) | 3:02 |
+| 19 | [Who Am I?](https://open.spotify.com/track/2XLKWMfTb2IEI0hddWfFlD) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Great Satan](https://open.spotify.com/album/1UE3oGyftp6WFWQXOPdz8I) | 0:34 |
 | 20 | [Dead City Radio And The New Gods Of Supertown](https://open.spotify.com/track/7a4F5tT3vztlPrGQzIcf4z) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Venomous Rat Regeneration Vendor](https://open.spotify.com/album/1y6e636ylJkwxsBwk89gS6) | 3:28 |
 | 21 | [Meet The Creeper](https://open.spotify.com/track/64J18bwOzZAUmuFxn5l6Ss) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Hellbilly Deluxe](https://open.spotify.com/album/2B4lHoTCpWbxQPTZmCOjnH) | 3:13 |
 | 22 | [The Satanic Rites of Blacula](https://open.spotify.com/track/1JeGX4cixemJfBJl6XGQES) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Lunar Injection Kool Aid Eclipse Conspiracy](https://open.spotify.com/album/1IaJD3LbEBdVMBSS8UH07e) | 2:18 |
-| 23 | [Who Am I?](https://open.spotify.com/track/2XLKWMfTb2IEI0hddWfFlD) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Great Satan](https://open.spotify.com/album/1UE3oGyftp6WFWQXOPdz8I) | 0:34 |
+| 23 | [Tarantula](https://open.spotify.com/track/4j7PGEopEfNI4Oja2hf2tZ) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Great Satan](https://open.spotify.com/album/1UE3oGyftp6WFWQXOPdz8I) | 3:02 |
 | 24 | [Sick Bubblegum](https://open.spotify.com/track/1cbNBIrRWP4PlJeyjb7ZmT) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Hellbilly Deluxe 2 \(Special Edition\)](https://open.spotify.com/album/1lRP2viDsQVnL5FZwTsFwB) | 3:44 |
 | 25 | [Dead Girl Superstar](https://open.spotify.com/track/2Duh1mieKmTk4HZeuj0Qzz) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Sinister Urge](https://open.spotify.com/album/2ExOcLFwyExzkXK0ea180I) | 2:28 |
 | 26 | [American Witch](https://open.spotify.com/track/3ZDnQ5UGuPvRBfUUmTmwEC) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Educated Horses](https://open.spotify.com/album/3zO9FORG6azJrddJu0XyKY) | 3:47 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO29RPTW.md) - [plain]
 | 47 | [The Girl Who Loved The Monsters](https://open.spotify.com/track/4rtzNf8AcFARJf7wv6AfyP) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Venomous Rat Regeneration Vendor](https://open.spotify.com/album/1y6e636ylJkwxsBwk89gS6) | 3:56 |
 | 48 | [Reload](https://open.spotify.com/track/2Ntobm6ecJ9wm3kcNql3qa) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5), [Charlie Clouser](https://open.spotify.com/artist/1ZVa9Tz7T3lR30I6r7mhhf) | [The Matrix Reloaded: The Album](https://open.spotify.com/album/4iLPd0Abb4S96sB2QEz2bl) | 4:25 |
 
-Snapshot ID: `ag5LAAAAAABqVncpqUc+/se+mnXUOVJI`
+Snapshot ID: `ag+cgAAAAAB8vYWrr3OPTjIDk+zkfhjb`

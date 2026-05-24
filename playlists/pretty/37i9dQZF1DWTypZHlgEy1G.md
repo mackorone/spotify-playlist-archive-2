@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTypZHlgEy1G.md) - [plain]
 
 > Le patrimoine de la chanson française\. Photo : Édith Piaf
 
-[Spotify](https://open.spotify.com/user/spotify) - 533,480 likes - 85 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 533,492 likes - 85 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,12 +63,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTypZHlgEy1G.md) - [plain]
 | 53 | [Une belle histoire](https://open.spotify.com/track/1GdtMDRiaF1EnG2LJpELme) | [Michel Fugain & Le Big Bazar](https://open.spotify.com/artist/5KnLt0VENhwsfmQL3y2nsY) | [Fais Comme L'Oiseau](https://open.spotify.com/album/6u9tEKSghovMOBy9rwTMLn) | 3:15 |
 | 54 | [Comment te dire adieu \- It Hurts to Say Goodbye](https://open.spotify.com/track/29GuoJqjg7aMxUmEO3XLEp) | [Françoise Hardy](https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g) | [Comment te dire adieu ?](https://open.spotify.com/album/5lX198dectE8fpkow4UXrf) | 2:26 |
 | 55 | [Aline](https://open.spotify.com/track/17ODC17zbOv6MVBDiANvue) | [Christophe](https://open.spotify.com/artist/6MmRTVIPIe35OsFqWgRKQJ) | [Best Of](https://open.spotify.com/album/4XvvwnuEOPWWOexWJDbeYf) | 2:50 |
-| 56 | [Emmenez Moi](https://open.spotify.com/track/7A0piuknKPVbFtf9gxI6le) | [Charles Aznavour](https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT) | [Platinum Charles Aznavour](https://open.spotify.com/album/0rvCisxGedY59K1LrvjAfv) | 3:32 |
+| 56 | [Hier encore](https://open.spotify.com/track/0DXyFek0JfbNE34s2u2bDD) | [Charles Aznavour](https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT) | [Platinum Charles Aznavour](https://open.spotify.com/album/0rvCisxGedY59K1LrvjAfv) | 2:20 |
 | 57 | [Je suis venu te dire que je m'en vais](https://open.spotify.com/track/35arjnsPj4gLO8aFclgexb) | [Serge Gainsbourg](https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo) | [Vu De L'Extérieur](https://open.spotify.com/album/352XdbgCcdCMStQtgVDX3X) | 3:19 |
 | 58 | [La maladie d'amour](https://open.spotify.com/track/7jEU2PWW32lv8DIfDdNtap) | [Michel Sardou](https://open.spotify.com/artist/0krCd0zVANPv9ryri4T0TO) | [La Maladie D'Amour](https://open.spotify.com/album/2VS8g9qRPdXFC3hQSIwmqK) | 3:30 |
 | 59 | [Fais comme l'oiseau](https://open.spotify.com/track/5INFljqNxkfUkUajeXtBFh) | [Michel Fugain & Le Big Bazar](https://open.spotify.com/artist/5KnLt0VENhwsfmQL3y2nsY) | [Fais Comme L'Oiseau](https://open.spotify.com/album/6u9tEKSghovMOBy9rwTMLn) | 3:06 |
 | 60 | [Vesoul](https://open.spotify.com/track/7LBCohUSd7WFEggfybmuzC) | [Jacques Brel](https://open.spotify.com/artist/4RN2vlFWepLa46qQIU2PHs) | [Infiniment](https://open.spotify.com/album/5NwlXR5GbA10N4cZ6qViRf) | 3:06 |
-| 61 | [Hier encore](https://open.spotify.com/track/0DXyFek0JfbNE34s2u2bDD) | [Charles Aznavour](https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT) | [Platinum Charles Aznavour](https://open.spotify.com/album/0rvCisxGedY59K1LrvjAfv) | 2:20 |
+| 61 | [Emmenez Moi](https://open.spotify.com/track/7A0piuknKPVbFtf9gxI6le) | [Charles Aznavour](https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT) | [Platinum Charles Aznavour](https://open.spotify.com/album/0rvCisxGedY59K1LrvjAfv) | 3:32 |
 | 62 | [Parlez moi d'amour](https://open.spotify.com/track/6MqBuCt2rVBWQ0x23icnWc) | [Lucienne Boyer](https://open.spotify.com/artist/5KIyBfTJdvEzz2OxfVvsE6) | [Midnight in Paris \- French Classics](https://open.spotify.com/album/0kP8oCXy88fxa0hRhS1oV0) | 2:55 |
 | 63 | [Comme d'habitude](https://open.spotify.com/track/3oHpcWfXvtA6RrzgYahuAT) | [Claude François](https://open.spotify.com/artist/0P2p1bqVyP2EgqubwjTBUJ) | [Best Of](https://open.spotify.com/album/3ZU8JjHnH8JxGEKfrN7x16) | 4:13 |
 | 64 | [Poupée de cire, poupée de son](https://open.spotify.com/track/1OJcI2EzUidsTVl532wkWN) | [France Gall](https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I) | [France Gall CD Story](https://open.spotify.com/album/31UwyKsz2yvAEUf98XD5Xb) | 2:33 |

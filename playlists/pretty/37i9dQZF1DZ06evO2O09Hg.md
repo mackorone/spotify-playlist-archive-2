@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2O09Hg.md) - [plain]
 
 > This is Juice WRLD\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,659,425 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,659,434 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2O09Hg.md) - [plain]
 | 46 | [Blastoff \(feat\. Juice WRLD\)](https://open.spotify.com/track/2EL58P9iKGM5L2sO203i5y) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [B4 The Storm \(Expanded Edition\)](https://open.spotify.com/album/4fszOxJ7RWHqPIXOrC2iKY) | 2:54 |
 | 47 | [From My Window](https://open.spotify.com/track/4HDQt6Lepj3HpxypbG30Hz) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Fighting Demons \(Deluxe\)](https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew) | 3:07 |
 | 48 | [Mannequin Challenge \(feat\. Juice WRLD\)](https://open.spotify.com/track/5TnLXSd4h6G06Fbt2ApOpa) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [So Much Fun](https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh) | 2:42 |
-| 49 | [The Way \(with XXXTENTACION\)](https://open.spotify.com/track/2k9rPIll2pIHTfwD87Ssbh) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [Legends Never Die \(5 Year Anniversary Edition\)](https://open.spotify.com/album/5BabrsTZzvGJQgrAfLMM18) | 3:50 |
-| 50 | [Bad Boy \(with Young Thug\)](https://open.spotify.com/track/43CIWpJaJHRcI4mUSjqgc2) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Bad Boy \(with Young Thug\)](https://open.spotify.com/album/5hUFZjxtqYvxm9FGUhHCdE) | 2:37 |
+| 49 | [Bad Boy \(with Young Thug\)](https://open.spotify.com/track/43CIWpJaJHRcI4mUSjqgc2) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Bad Boy \(with Young Thug\)](https://open.spotify.com/album/5hUFZjxtqYvxm9FGUhHCdE) | 2:37 |
+| 50 | [The Way \(with XXXTENTACION\)](https://open.spotify.com/track/2k9rPIll2pIHTfwD87Ssbh) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [Legends Never Die \(5 Year Anniversary Edition\)](https://open.spotify.com/album/5BabrsTZzvGJQgrAfLMM18) | 3:50 |
 
-Snapshot ID: `ag5LAAAAAACmo628bF76f/UJ0Gg91+Sg`
+Snapshot ID: `ag+cgAAAAAB4C8M/QKZvnk0f6tdnFf/8`

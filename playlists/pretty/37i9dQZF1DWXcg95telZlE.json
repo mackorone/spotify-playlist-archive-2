@@ -1,6 +1,6 @@
 {
   "description": "Mellow songs from the 1950s. Cover: Frank Sinatra.",
-  "num_followers": 531990,
+  "num_followers": 532074,
   "original_name": "Soft 50s",
   "owner": {
     "name": "Spotify",
@@ -411,6 +411,22 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
+        "name": "Great Ladies Of Song / Spotlight On Margaret Whiting",
+        "url": "https://open.spotify.com/album/1f7ZtwN1b8y3MjgDVMUExO"
+      },
+      "artists": [
+        {
+          "name": "Margaret Whiting",
+          "url": "https://open.spotify.com/artist/5ZGDxHhju6eE8ja4IyGe87"
+        }
+      ],
+      "duration_ms": 176973,
+      "name": "Time After Time",
+      "url": "https://open.spotify.com/track/5j9HUr2izjXctYvgKF4GoW"
+    },
+    {
+      "added_at": "2022-05-30 12:59:00",
+      "album": {
         "name": "The Complete Ella And Louis On Verve",
         "url": "https://open.spotify.com/album/2uqlkJu6vckJahCsp6Hfcn"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 280000,
       "name": "They Can't Take That Away From Me",
       "url": "https://open.spotify.com/track/1V4NaFlrUCK49MXcdOcVeS"
-    },
-    {
-      "added_at": "2022-05-30 12:59:00",
-      "album": {
-        "name": "Great Ladies Of Song / Spotlight On Margaret Whiting",
-        "url": "https://open.spotify.com/album/1f7ZtwN1b8y3MjgDVMUExO"
-      },
-      "artists": [
-        {
-          "name": "Margaret Whiting",
-          "url": "https://open.spotify.com/artist/5ZGDxHhju6eE8ja4IyGe87"
-        }
-      ],
-      "duration_ms": 176973,
-      "name": "Time After Time",
-      "url": "https://open.spotify.com/track/5j9HUr2izjXctYvgKF4GoW"
     },
     {
       "added_at": "2022-05-30 12:59:00",

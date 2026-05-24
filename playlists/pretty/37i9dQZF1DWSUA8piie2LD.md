@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUA8piie2LD.md) - [plain]
 
 > The smoothest of smooth Jazz for your romantic evening.
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,034 likes - 75 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,087 likes - 75 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUA8piie2LD.md) - [plain]
 | 6 | [Greenstreet](https://open.spotify.com/track/7ChAL7efVJHKlm5Pl4oZqW) | [Bob Mamet](https://open.spotify.com/artist/3zzFQcyqb7rDDq8n587TtK) | [Day Into Night](https://open.spotify.com/album/2NKSBByE54uNLWgMosf0fB) | 3:58 |
 | 7 | [Now 'Til Forever](https://open.spotify.com/track/4L2lzMYxwE4ObPozyV1idl) | [Kirk Whalum](https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1) | [Unconditional](https://open.spotify.com/album/5CJ01DIFiwJG7kRpav8ZuV) | 4:36 |
 | 8 | [Slow Jam](https://open.spotify.com/track/15X9hW8V03M3NWVQ4yVAZq) | [Euge Groove](https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF) | [Born 2 Groove](https://open.spotify.com/album/3h9WV3wAi4Hkh0UCizuu3l) | 5:09 |
-| 9 | [On The Wes Side](https://open.spotify.com/track/1v8gTqiwsGZycNqn0dEvGh) | [Jeff Golub](https://open.spotify.com/artist/12455ZzxS49FbAGWKeB9eB) | [Temptation](https://open.spotify.com/album/1xkLVUGXlLZv5zsvJHMfxV) | 4:26 |
-| 10 | [Sweet Thing](https://open.spotify.com/track/3M44mD2haxaLsG6chVL9l1) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Sweet Thing](https://open.spotify.com/album/1we21be2R4o56iwheyKMxE) | 3:54 |
+| 9 | [Sweet Thing](https://open.spotify.com/track/3M44mD2haxaLsG6chVL9l1) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Sweet Thing](https://open.spotify.com/album/1we21be2R4o56iwheyKMxE) | 3:54 |
+| 10 | [On The Wes Side](https://open.spotify.com/track/1v8gTqiwsGZycNqn0dEvGh) | [Jeff Golub](https://open.spotify.com/artist/12455ZzxS49FbAGWKeB9eB) | [Temptation](https://open.spotify.com/album/1xkLVUGXlLZv5zsvJHMfxV) | 4:26 |
 | 11 | [In The Groove](https://open.spotify.com/track/2AyEl9H2FwNNdW7xdNRlSI) | [Richard Elliot](https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH) | [Jumpin' Off](https://open.spotify.com/album/5wQf2a11tk7gJcx6GKfCt2) | 4:17 |
 | 12 | [Pleasure Seeker](https://open.spotify.com/track/5SvuXJKhqhw8jnQnqKegA5) | [Paul Taylor](https://open.spotify.com/artist/3wBSOZFd5KLsEZ1yoVSICQ) | [Pleasure Seeker](https://open.spotify.com/album/3ZoxqvIkwCbRQgnZVxxHzA) | 4:29 |
 | 13 | [A Summer Night's Dream](https://open.spotify.com/track/0c0BVgVakGq5rylCucXVau) | [Euge Groove](https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF) | [Born 2 Groove](https://open.spotify.com/album/3h9WV3wAi4Hkh0UCizuu3l) | 5:08 |
@@ -28,14 +28,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUA8piie2LD.md) - [plain]
 | 18 | [Window of the Soul](https://open.spotify.com/track/32eDGGkGf1lcJ8aWrjGhFO) | [Chuck Loeb](https://open.spotify.com/artist/02L5Rmh1RtTbHOBdzPzfoQ) | [Presence](https://open.spotify.com/album/3y3NkJMbTM1JLwrDKxEFZb) | 4:07 |
 | 19 | [After Midnight](https://open.spotify.com/track/3SLymEfGv5dc6gjCw3fMjL) | [Kim Waters](https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I) | [From The Heart](https://open.spotify.com/album/4zruOfVUsfrvLZ9lkND7mW) | 5:13 |
 | 20 | [Let It Shine](https://open.spotify.com/track/18V3WdhlafZXWC2uAXVEf9) | [Tim Bowman](https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5) | [The Collection](https://open.spotify.com/album/3hJBjYNUVY7vSITE8GZ3QV) | 4:06 |
-| 21 | [Twice in a Lifetime](https://open.spotify.com/track/0DFNqX97HJYLNFtYRu2FpO) | [Michael Lington](https://open.spotify.com/artist/23P8kVBVyDkO8s6sn1QDre) | [Vivid](https://open.spotify.com/album/7Gu1FXxTuc0nRfatQjHtx6) | 4:43 |
-| 22 | [Nice And Easy](https://open.spotify.com/track/19bvu15yBMP8ZBDPxvwp6K) | [Walter Beasley](https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP) | [For Your Pleasure](https://open.spotify.com/album/0rHJ7WovNY23g8QRKHCUMw) | 4:23 |
-| 23 | [Ain't No Sunshine](https://open.spotify.com/track/6gWHevH6rJOaLpRYIVQWll) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Seduction](https://open.spotify.com/album/132qZxDylYwv3vvUA3AH7D) | 3:58 |
+| 21 | [Ain't No Sunshine](https://open.spotify.com/track/6gWHevH6rJOaLpRYIVQWll) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Seduction](https://open.spotify.com/album/132qZxDylYwv3vvUA3AH7D) | 3:58 |
+| 22 | [Twice in a Lifetime](https://open.spotify.com/track/0DFNqX97HJYLNFtYRu2FpO) | [Michael Lington](https://open.spotify.com/artist/23P8kVBVyDkO8s6sn1QDre) | [Vivid](https://open.spotify.com/album/7Gu1FXxTuc0nRfatQjHtx6) | 4:43 |
+| 23 | [Nice And Easy](https://open.spotify.com/track/19bvu15yBMP8ZBDPxvwp6K) | [Walter Beasley](https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP) | [For Your Pleasure](https://open.spotify.com/album/0rHJ7WovNY23g8QRKHCUMw) | 4:23 |
 | 24 | [Personal Touch](https://open.spotify.com/track/5xwCm9tEVl3FAXqnWZfmp3) | [Vincent Ingala](https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7) | [Personal Touch](https://open.spotify.com/album/216P40TI4bEO6qLkDmnni3) | 3:44 |
 | 25 | [The Closer I Get To You](https://open.spotify.com/track/4Yo6PbuZYIqlXSp7eAw2e4) | [Peter White](https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS) | [Reflections](https://open.spotify.com/album/2fH2LsKWZ0peVa6kUohsw5) | 4:26 |
-| 26 | [Day By Day](https://open.spotify.com/track/6wunt9r2WbTh0pacCFkSrK) | [Najee](https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3) | [Day By Day](https://open.spotify.com/album/64WYFNY33qxTidADO4omGA) | 5:04 |
-| 27 | [Without Your Love](https://open.spotify.com/track/0SZjsb1TGyEMOH3LfI5tAw) | [Brian Culbertson](https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE) | [Nice & Slow](https://open.spotify.com/album/1ERiUM1WyCUWEu3gnEzKRM) | 4:48 |
-| 28 | [Body Language](https://open.spotify.com/track/5fzXNCgCGt3NnjfmpMSs7M) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Body Language](https://open.spotify.com/album/5UJmUYnpdtUGCcoMa7hDKE) | 4:55 |
+| 26 | [Body Language](https://open.spotify.com/track/5fzXNCgCGt3NnjfmpMSs7M) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Body Language](https://open.spotify.com/album/5UJmUYnpdtUGCcoMa7hDKE) | 4:55 |
+| 27 | [Day By Day](https://open.spotify.com/track/6wunt9r2WbTh0pacCFkSrK) | [Najee](https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3) | [Day By Day](https://open.spotify.com/album/64WYFNY33qxTidADO4omGA) | 5:04 |
+| 28 | [Without Your Love](https://open.spotify.com/track/0SZjsb1TGyEMOH3LfI5tAw) | [Brian Culbertson](https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE) | [Nice & Slow](https://open.spotify.com/album/1ERiUM1WyCUWEu3gnEzKRM) | 4:48 |
 | 29 | [100 Ways](https://open.spotify.com/track/1tzvGxXC02SugH5Gc3zwdc) | [Fattburger](https://open.spotify.com/artist/57EAEbnYbr1PFzadw9Zvgi) | [Work to Do](https://open.spotify.com/album/6THuvzMAocj3aImePgicNH) | 4:53 |
 | 30 | [The Ride](https://open.spotify.com/track/2QVzx6RuAvWAy6ZcB3o9WH) | [Kim Waters](https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I) | [Someone To Love You](https://open.spotify.com/album/7J1vwBoBA9y0kNCfVPxi2B) | 4:50 |
 | 31 | [I Just Can't Let Go](https://open.spotify.com/track/375aCphxz2nRUZziqUS3LB) | [Everette Harp](https://open.spotify.com/artist/7LQBzOrln4d4D5EVAKK7LZ) | [For The Love](https://open.spotify.com/album/7rH0t9v68yG61kF8fuqRJp) | 4:40 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUA8piie2LD.md) - [plain]
 | 37 | [Last Look](https://open.spotify.com/track/3aLL7ks2lkz9YklnnWYqrI) | [Torcuato Mariano](https://open.spotify.com/artist/5nmTcw6WV6BzDvguH2iPXR) | [Last Look](https://open.spotify.com/album/5HrdlCejzSFYKD6qA0vywx) | 4:36 |
 | 38 | [This Time Around](https://open.spotify.com/track/1HBNkjEwlYzcscjBEoCQVA) | [Dan Siegel](https://open.spotify.com/artist/0TknnwW9imlXjnjxfHcvFd) | [Inside Out](https://open.spotify.com/album/1DU7S0sd2bxh62puU2vPHi) | 5:02 |
 | 39 | [Fields of Gold](https://open.spotify.com/track/0f8lc6QabkwdZ89O2qRXkp) | [Fourplay](https://open.spotify.com/artist/3PcMolaGsh2nryvBR2sQOS) | [Journey](https://open.spotify.com/album/3O6pouh9bYPTnzzpl1ssPI) | 5:40 |
-| 40 | [Paradise](https://open.spotify.com/track/4iEcxF2XFAGquAOrQlXoBv) | [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [Celebration](https://open.spotify.com/album/017sfmPLIwMa1r0hpgDnLy) | 4:25 |
-| 41 | [If Only For One Night](https://open.spotify.com/track/7eAboOIUeI5RYXVjCI6p0S) | [Kirk Whalum](https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1) | [Colors](https://open.spotify.com/album/0ZymVVHN1W2T6rYSqIjLaW) | 4:36 |
+| 40 | [If Only For One Night](https://open.spotify.com/track/7eAboOIUeI5RYXVjCI6p0S) | [Kirk Whalum](https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1) | [Colors](https://open.spotify.com/album/0ZymVVHN1W2T6rYSqIjLaW) | 4:36 |
+| 41 | [Paradise](https://open.spotify.com/track/4iEcxF2XFAGquAOrQlXoBv) | [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [Celebration](https://open.spotify.com/album/017sfmPLIwMa1r0hpgDnLy) | 4:25 |
 | 42 | [Nightshift](https://open.spotify.com/track/5T7rGLBBmkjrKMuoaabrkZ) | [Gregg Karukas](https://open.spotify.com/artist/5hmQC9wWiUuHCJNRZFBi2V) | [Nightshift](https://open.spotify.com/album/6fCnWPp7z8tsb3eDdRCf3G) | 4:13 |
 | 43 | [Night Rider](https://open.spotify.com/track/3mn4KmAcvj2mhpkO11EsGQ) | [Paul Taylor](https://open.spotify.com/artist/3wBSOZFd5KLsEZ1yoVSICQ) | [Steppin' Out](https://open.spotify.com/album/253BTggCrxk5ULsiaYTZfF) | 3:58 |
 | 44 | [Grover's Groove](https://open.spotify.com/track/4st8tyWOqApXeqy5GeHAst) | [Rick Braun](https://open.spotify.com/artist/4ThkLup6LmqCUuHuG434zZ) | [Kisses In The Rain](https://open.spotify.com/album/36tLRdlIbuXboC0QyMhfaX) | 4:40 |

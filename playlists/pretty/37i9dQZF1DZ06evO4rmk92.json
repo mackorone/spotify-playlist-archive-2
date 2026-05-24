@@ -1,12 +1,12 @@
 {
   "description": "This is Nat King Cole. The essential tracks, all in one playlist.",
-  "num_followers": 125925,
+  "num_followers": 125938,
   "original_name": "This Is Nat King Cole",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ag5LAAAAAACruYLKbqT0y9jH8wy7g4+a",
+  "snapshot_id": "ag+cgAAAAAB+2vAlmG/YkdpMzFRD1Pr8",
   "tracks": [
     {
       "added_at": null,
@@ -775,6 +775,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lester Young Trio",
+        "url": "https://open.spotify.com/album/0bf8S6VdlrkX39DYxFC0DF"
+      },
+      "artists": [
+        {
+          "name": "Lester Young",
+          "url": "https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm"
+        },
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        },
+        {
+          "name": "Buddy Rich",
+          "url": "https://open.spotify.com/artist/1pVtwG5Up1OZOEpSHJ4AAs"
+        },
+        {
+          "name": "Billy Strayhorn",
+          "url": "https://open.spotify.com/artist/6RbBDzGJqAROG0LP9TrXfW"
+        }
+      ],
+      "duration_ms": 234733,
+      "name": "Back To The Land",
+      "url": "https://open.spotify.com/track/0iSLetXM5KlC7xA10L6QKg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sings For Two In Love",
         "url": "https://open.spotify.com/album/1evRgENnDDNYH6KPjIFdQi"
       },
@@ -819,22 +847,6 @@
       "duration_ms": 286173,
       "name": "A Nightingale Sang In Berkeley Square",
       "url": "https://open.spotify.com/track/0XboALCVOmAxzi5JEZHytz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BD Music & Cabu Present Nat King Cole",
-        "url": "https://open.spotify.com/album/2yWx9ptM3TdlwZIkXwZacq"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 189560,
-      "name": "\u2019Tis Autumn",
-      "url": "https://open.spotify.com/track/6sQruAh3HYroK1zT8PUrea"
     }
   ],
   "unique_name": "This Is Nat King Cole",

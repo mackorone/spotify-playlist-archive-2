@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa57Li9i9TJK.md) - [plain]
 
 > Potras, rancherxs y la 🧀 Julieta Venegas en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,014 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,043 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa57Li9i9TJK.md) - [plain]
 | 50 | [De Compas](https://open.spotify.com/track/3TBZeHcQXNPyXbsqzNgcYm) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Palabra De To's](https://open.spotify.com/album/2ZzClIM2jdVPjt7HBICDQP) | 2:45 |
 | 51 | [Qué Agonía](https://open.spotify.com/track/5WEt9MiZPNmCbhu8GOR9Kk) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Qué Agonía](https://open.spotify.com/album/5OhmDEdu6pM2rTLOpOAk4v) | 2:32 |
 | 52 | [Nunca Voy a Olvidarte](https://open.spotify.com/track/7AbWRB5vMPUYSXeHhdlUSQ) | [Bronco](https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0) | [Salvaje y Tierno](https://open.spotify.com/album/5G8bYboLyckwegeBdr7Ati) | 2:20 |
-| 53 | [MUÑEQUITA](https://open.spotify.com/track/6kn9GQY9JSZ9wZriNdlCg9) | [Clave Especial](https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [MUÑEQUITA](https://open.spotify.com/album/6oTN8LafyB7RkdzRKiLvgm) | 2:46 |
-| 54 | [Yo Sin Tu Amor](https://open.spotify.com/track/3zuiOe6mJQ2fNe67FyqcrT) | [Grupo Limite](https://open.spotify.com/artist/2qWNYueLfc979iEdLOIK2C) | [Por Puro Amor](https://open.spotify.com/album/4EHVcKOs6x6DyYqocO6rTe) | 2:59 |
+| 53 | [Yo Sin Tu Amor](https://open.spotify.com/track/3zuiOe6mJQ2fNe67FyqcrT) | [Grupo Limite](https://open.spotify.com/artist/2qWNYueLfc979iEdLOIK2C) | [Por Puro Amor](https://open.spotify.com/album/4EHVcKOs6x6DyYqocO6rTe) | 2:59 |
+| 54 | [MUÑEQUITA](https://open.spotify.com/track/6kn9GQY9JSZ9wZriNdlCg9) | [Clave Especial](https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [MUÑEQUITA](https://open.spotify.com/album/6oTN8LafyB7RkdzRKiLvgm) | 2:46 |
 | 55 | [Inolvidable](https://open.spotify.com/track/7bEZbS1gadU29L5eIwM2gM) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Mi Vida Loca](https://open.spotify.com/album/6T7KG6x0FdyEhDLaCJ1xmM) | 2:59 |
 | 56 | [No Te Contaron Mal](https://open.spotify.com/track/1LO951RWD10l9Vys0NrFty) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [No Te Contaron Mal](https://open.spotify.com/album/2IVO6VBGIEP4EA7qB2EAQi) | 2:36 |
 | 57 | [300 Noches](https://open.spotify.com/track/0163eXbLwh5dFhKa73n9wG) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [300 Noches](https://open.spotify.com/album/1eXnHv9p2TLAg1X4LoFTml) | 3:24 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa57Li9i9TJK.md) - [plain]
 | 72 | [Te Quedó Grande La Yegua](https://open.spotify.com/track/5tPxcLBsfj9yZS4PAiOr9G) | [Alicia Villarreal](https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn) | [Soy Lo Prohibido](https://open.spotify.com/album/4kI870RBIpDEXCJfDOpyt4) | 3:37 |
 | 73 | [A Tu Manera](https://open.spotify.com/track/2500EpUpryOBJX0rO8fDuB) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [A Tu Manera](https://open.spotify.com/album/5Skq54fuDILpEKXtmtTFXl) | 4:21 |
 | 74 | [Con La Misma Piedra](https://open.spotify.com/track/0hMFR6ilUckSVYvsDpDPLg) | [Grupo Limite](https://open.spotify.com/artist/2qWNYueLfc979iEdLOIK2C) | [Por Puro Amor](https://open.spotify.com/album/4EHVcKOs6x6DyYqocO6rTe) | 3:41 |
-| 75 | [La Mala Era Yo](https://open.spotify.com/track/2nCP0l4ZNJxVm7ZaKBC3mB) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV), [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [La Mala Era Yo](https://open.spotify.com/album/6ozCFSLuAcviqzd7fFn9AV) | 2:30 |
-| 76 | [La niña fresa](https://open.spotify.com/track/2nbq7IAJfYK9fuw5g2ePv3) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Fiesta Mexicana Con La Banda](https://open.spotify.com/album/6X49e9OtUqhMVIpre31k8K) | 2:40 |
+| 75 | [La niña fresa](https://open.spotify.com/track/2nbq7IAJfYK9fuw5g2ePv3) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Fiesta Mexicana Con La Banda](https://open.spotify.com/album/6X49e9OtUqhMVIpre31k8K) | 2:40 |
+| 76 | [La Mala Era Yo](https://open.spotify.com/track/2nCP0l4ZNJxVm7ZaKBC3mB) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV), [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [La Mala Era Yo](https://open.spotify.com/album/6ozCFSLuAcviqzd7fFn9AV) | 2:30 |
 | 77 | [Amé](https://open.spotify.com/track/0Ld2aKtIASbu5EFl3rRcIp) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Amé](https://open.spotify.com/album/1zwhYXkqsGpFHTFoCA5dmY) | 3:26 |
 | 78 | [Te Felicito](https://open.spotify.com/track/5IR7Ecj0Ue1xufcOn6AUP1) | [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC) | [Te Felicito](https://open.spotify.com/album/26CK4xfplV9B2bzC5yPqz7) | 3:44 |
 | 79 | [Mi Eterno Amor Secreto](https://open.spotify.com/track/56qp8eaEnZ6hh96FkaDF7D) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Mi Eterno Amor Secreto](https://open.spotify.com/album/5Y6bfQiugnvNc1PxDCU77c) | 3:52 |

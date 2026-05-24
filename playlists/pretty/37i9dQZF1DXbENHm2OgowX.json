@@ -1,6 +1,6 @@
 {
   "description": "wandering the forest as the fog floats through the trees",
-  "num_followers": 341664,
+  "num_followers": 341851,
   "original_name": "gloomcore",
   "owner": {
     "name": "Spotify",
@@ -951,22 +951,6 @@
     {
       "added_at": "2026-05-15 04:00:43",
       "album": {
-        "name": "Polar",
-        "url": "https://open.spotify.com/album/7whIybEX8ypYwba3UGePr9"
-      },
-      "artists": [
-        {
-          "name": "Gabr\u00edel \u00d3lafs",
-          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
-        }
-      ],
-      "duration_ms": 272501,
-      "name": "The Monolith",
-      "url": "https://open.spotify.com/track/0pdEIKmIkM4hZYUbjDSnMQ"
-    },
-    {
-      "added_at": "2026-05-15 04:00:43",
-      "album": {
         "name": "EXIT",
         "url": "https://open.spotify.com/album/2MhALvvPg6IIgdmU56HZIj"
       },
@@ -987,18 +971,18 @@
     {
       "added_at": "2026-05-15 04:00:43",
       "album": {
-        "name": "Solar Nights",
-        "url": "https://open.spotify.com/album/2NtvvyLV9jKjsxVeVd0RFl"
+        "name": "Polar",
+        "url": "https://open.spotify.com/album/7whIybEX8ypYwba3UGePr9"
       },
       "artists": [
         {
-          "name": "Juha M\u00e4ki-Patola",
-          "url": "https://open.spotify.com/artist/6UMvXeBrLr04seUgcTvlxK"
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
         }
       ],
-      "duration_ms": 163106,
-      "name": "Solar Nights",
-      "url": "https://open.spotify.com/track/4m0A9IhXFzCG04iJKoxA0o"
+      "duration_ms": 272501,
+      "name": "The Monolith",
+      "url": "https://open.spotify.com/track/0pdEIKmIkM4hZYUbjDSnMQ"
     },
     {
       "added_at": "2026-05-15 04:00:43",
@@ -1015,6 +999,22 @@
       "duration_ms": 203424,
       "name": "Bardo Landscape",
       "url": "https://open.spotify.com/track/45QrxIJ95T9J4qrdP8DU4e"
+    },
+    {
+      "added_at": "2026-05-15 04:00:43",
+      "album": {
+        "name": "Solar Nights",
+        "url": "https://open.spotify.com/album/2NtvvyLV9jKjsxVeVd0RFl"
+      },
+      "artists": [
+        {
+          "name": "Juha M\u00e4ki-Patola",
+          "url": "https://open.spotify.com/artist/6UMvXeBrLr04seUgcTvlxK"
+        }
+      ],
+      "duration_ms": 163106,
+      "name": "Solar Nights",
+      "url": "https://open.spotify.com/track/4m0A9IhXFzCG04iJKoxA0o"
     },
     {
       "added_at": "2026-05-15 04:00:43",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2026-05-15 04:00:43",
       "album": {
-        "name": "lonely nights",
-        "url": "https://open.spotify.com/album/5arUS3gNKE0xIvJLubzJzv"
-      },
-      "artists": [
-        {
-          "name": "fauxe.",
-          "url": "https://open.spotify.com/artist/681FiFPQPUSRknJn11zylo"
-        }
-      ],
-      "duration_ms": 103208,
-      "name": "lonely nights",
-      "url": "https://open.spotify.com/track/5VdDy30M2oaoaXeYkGz9ST"
-    },
-    {
-      "added_at": "2026-05-15 04:00:43",
-      "album": {
         "name": "Green Wall",
         "url": "https://open.spotify.com/album/5BBhvTuPLebldrjg1oyPqE"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 122000,
       "name": "Waiting for Your Train",
       "url": "https://open.spotify.com/track/4eUOEthFna4tWFZd9Xkd0R"
+    },
+    {
+      "added_at": "2026-05-15 04:00:43",
+      "album": {
+        "name": "lonely nights",
+        "url": "https://open.spotify.com/album/5arUS3gNKE0xIvJLubzJzv"
+      },
+      "artists": [
+        {
+          "name": "fauxe.",
+          "url": "https://open.spotify.com/artist/681FiFPQPUSRknJn11zylo"
+        }
+      ],
+      "duration_ms": 103208,
+      "name": "lonely nights",
+      "url": "https://open.spotify.com/track/5VdDy30M2oaoaXeYkGz9ST"
     },
     {
       "added_at": "2026-05-15 04:00:43",
@@ -1135,26 +1135,6 @@
     {
       "added_at": "2026-05-15 04:00:43",
       "album": {
-        "name": "lost in the forest",
-        "url": "https://open.spotify.com/album/6c1WtpUzNaEYRToR0NZZi5"
-      },
-      "artists": [
-        {
-          "name": "SpoonBeats",
-          "url": "https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl"
-        },
-        {
-          "name": "SanelliX",
-          "url": "https://open.spotify.com/artist/0sk0gTYhiFal4UfEKbpnGu"
-        }
-      ],
-      "duration_ms": 106675,
-      "name": "lost in the forest",
-      "url": "https://open.spotify.com/track/7nXa1PLguS1cJe1nrYJ321"
-    },
-    {
-      "added_at": "2026-05-15 04:00:43",
-      "album": {
         "name": "skies",
         "url": "https://open.spotify.com/album/2QzZwOgirEOqTT3m1Lv6Gw"
       },
@@ -1171,6 +1151,22 @@
       "duration_ms": 129998,
       "name": "skies",
       "url": "https://open.spotify.com/track/6gBLPHyuFvXlNZA0QrvAdI"
+    },
+    {
+      "added_at": "2026-05-15 04:00:43",
+      "album": {
+        "name": "hexa",
+        "url": "https://open.spotify.com/album/3142OVL5k96lO51q7Hmiqs"
+      },
+      "artists": [
+        {
+          "name": "Maxx",
+          "url": "https://open.spotify.com/artist/058CZbsaJmJbRQvDRAAErr"
+        }
+      ],
+      "duration_ms": 149333,
+      "name": "hexa",
+      "url": "https://open.spotify.com/track/6BWIrKTvVD1w1zB1WhbRmP"
     },
     {
       "added_at": "2026-05-15 04:00:43",
@@ -1195,18 +1191,22 @@
     {
       "added_at": "2026-05-15 04:00:43",
       "album": {
-        "name": "hexa",
-        "url": "https://open.spotify.com/album/3142OVL5k96lO51q7Hmiqs"
+        "name": "lost in the forest",
+        "url": "https://open.spotify.com/album/6c1WtpUzNaEYRToR0NZZi5"
       },
       "artists": [
         {
-          "name": "Maxx",
-          "url": "https://open.spotify.com/artist/058CZbsaJmJbRQvDRAAErr"
+          "name": "SpoonBeats",
+          "url": "https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl"
+        },
+        {
+          "name": "SanelliX",
+          "url": "https://open.spotify.com/artist/0sk0gTYhiFal4UfEKbpnGu"
         }
       ],
-      "duration_ms": 149333,
-      "name": "hexa",
-      "url": "https://open.spotify.com/track/6BWIrKTvVD1w1zB1WhbRmP"
+      "duration_ms": 106675,
+      "name": "lost in the forest",
+      "url": "https://open.spotify.com/track/7nXa1PLguS1cJe1nrYJ321"
     },
     {
       "added_at": "2026-05-15 04:00:43",
@@ -1379,6 +1379,42 @@
     {
       "added_at": "2026-05-15 04:00:43",
       "album": {
+        "name": "my last days on earth",
+        "url": "https://open.spotify.com/album/0KwmxR4yFvFRmbIACIBH89"
+      },
+      "artists": [
+        {
+          "name": "undercurrent.",
+          "url": "https://open.spotify.com/artist/1GadL8gKNORWAIsnnaJcpO"
+        }
+      ],
+      "duration_ms": 139200,
+      "name": "my last days on earth",
+      "url": "https://open.spotify.com/track/2yPZ665zeVWZErn9lNVzKF"
+    },
+    {
+      "added_at": "2026-05-15 04:00:43",
+      "album": {
+        "name": "eclipse",
+        "url": "https://open.spotify.com/album/3yspqmjHAoYTy6tZr3r4HR"
+      },
+      "artists": [
+        {
+          "name": "R\u014d\u014dh",
+          "url": "https://open.spotify.com/artist/4iv8oWq1lizY7C7bmB5HzB"
+        },
+        {
+          "name": "Symoo",
+          "url": "https://open.spotify.com/artist/12CDwi9HyJtyPRBqat24LV"
+        }
+      ],
+      "duration_ms": 112615,
+      "name": "eclipse",
+      "url": "https://open.spotify.com/track/7v6D9mDpewgsnyPjtRqEmc"
+    },
+    {
+      "added_at": "2026-05-15 04:00:43",
+      "album": {
         "name": "Love Is Colder Than Death",
         "url": "https://open.spotify.com/album/04G4BWBdbZSPZJPE3anfLb"
       },
@@ -1411,26 +1447,6 @@
     {
       "added_at": "2026-05-15 04:00:43",
       "album": {
-        "name": "eclipse",
-        "url": "https://open.spotify.com/album/3yspqmjHAoYTy6tZr3r4HR"
-      },
-      "artists": [
-        {
-          "name": "R\u014d\u014dh",
-          "url": "https://open.spotify.com/artist/4iv8oWq1lizY7C7bmB5HzB"
-        },
-        {
-          "name": "Symoo",
-          "url": "https://open.spotify.com/artist/12CDwi9HyJtyPRBqat24LV"
-        }
-      ],
-      "duration_ms": 112615,
-      "name": "eclipse",
-      "url": "https://open.spotify.com/track/7v6D9mDpewgsnyPjtRqEmc"
-    },
-    {
-      "added_at": "2026-05-15 04:00:43",
-      "album": {
         "name": "Displacement (KMRU rework)",
         "url": "https://open.spotify.com/album/3k0N6eVV7JYpyxEd7cHdu7"
       },
@@ -1447,22 +1463,6 @@
       "duration_ms": 256000,
       "name": "Displacement - KMRU rework",
       "url": "https://open.spotify.com/track/2wUujeRMhcXXettDljS5Hl"
-    },
-    {
-      "added_at": "2026-05-15 04:00:43",
-      "album": {
-        "name": "my last days on earth",
-        "url": "https://open.spotify.com/album/0KwmxR4yFvFRmbIACIBH89"
-      },
-      "artists": [
-        {
-          "name": "undercurrent.",
-          "url": "https://open.spotify.com/artist/1GadL8gKNORWAIsnnaJcpO"
-        }
-      ],
-      "duration_ms": 139200,
-      "name": "my last days on earth",
-      "url": "https://open.spotify.com/track/2yPZ665zeVWZErn9lNVzKF"
     },
     {
       "added_at": "2026-05-15 04:00:43",
@@ -1519,6 +1519,22 @@
     {
       "added_at": "2026-05-15 04:00:43",
       "album": {
+        "name": "lost in a memory",
+        "url": "https://open.spotify.com/album/4yJijb3dcyfKZipPi0D3Ou"
+      },
+      "artists": [
+        {
+          "name": "\u00d8nedream",
+          "url": "https://open.spotify.com/artist/4TLZjB1XM0iMf74RcB9Oy2"
+        }
+      ],
+      "duration_ms": 168013,
+      "name": "lost in a memory",
+      "url": "https://open.spotify.com/track/1Z4ToDnBCYj8dirUlwY9pf"
+    },
+    {
+      "added_at": "2026-05-15 04:00:43",
+      "album": {
         "name": "Line Gone Cold (Deconstructed)",
         "url": "https://open.spotify.com/album/5fMIvFAs8VY75dTMCgsGEq"
       },
@@ -1547,50 +1563,6 @@
       "duration_ms": 155186,
       "name": "Common",
       "url": "https://open.spotify.com/track/37cddsvKZTPyYipLpzjpDx"
-    },
-    {
-      "added_at": "2026-05-15 04:00:43",
-      "album": {
-        "name": "lost in a memory",
-        "url": "https://open.spotify.com/album/4yJijb3dcyfKZipPi0D3Ou"
-      },
-      "artists": [
-        {
-          "name": "\u00d8nedream",
-          "url": "https://open.spotify.com/artist/4TLZjB1XM0iMf74RcB9Oy2"
-        }
-      ],
-      "duration_ms": 168013,
-      "name": "lost in a memory",
-      "url": "https://open.spotify.com/track/1Z4ToDnBCYj8dirUlwY9pf"
-    },
-    {
-      "added_at": "2026-05-15 04:00:43",
-      "album": {
-        "name": "Lonesome Sound",
-        "url": "https://open.spotify.com/album/5frWXfCvYwKWOU3yjs6CGb"
-      },
-      "artists": [
-        {
-          "name": "Almost An Island",
-          "url": "https://open.spotify.com/artist/0eqkViQMmHYvTpSesY7DjH"
-        },
-        {
-          "name": "marine eyes",
-          "url": "https://open.spotify.com/artist/7uNO2rLT4u4sgkGmkZxq25"
-        },
-        {
-          "name": "Kenneth James Gibson",
-          "url": "https://open.spotify.com/artist/02YQpuCkgfk5jhZJSqjQdG"
-        },
-        {
-          "name": "James Bernard",
-          "url": "https://open.spotify.com/artist/6d20guq0wJ6Z4sQGucU85q"
-        }
-      ],
-      "duration_ms": 301863,
-      "name": "Lonesome Sound",
-      "url": "https://open.spotify.com/track/0W3XARJKAvikHEiOSgHl0z"
     },
     {
       "added_at": "2026-05-15 04:00:43",
@@ -1627,18 +1599,30 @@
     {
       "added_at": "2026-05-15 04:00:43",
       "album": {
-        "name": "Inertia",
-        "url": "https://open.spotify.com/album/2PWZDzv9Z2Sp58ISvcvbXm"
+        "name": "Lonesome Sound",
+        "url": "https://open.spotify.com/album/5frWXfCvYwKWOU3yjs6CGb"
       },
       "artists": [
         {
-          "name": "Nobuhiro Okahashi",
-          "url": "https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py"
+          "name": "Almost An Island",
+          "url": "https://open.spotify.com/artist/0eqkViQMmHYvTpSesY7DjH"
+        },
+        {
+          "name": "marine eyes",
+          "url": "https://open.spotify.com/artist/7uNO2rLT4u4sgkGmkZxq25"
+        },
+        {
+          "name": "Kenneth James Gibson",
+          "url": "https://open.spotify.com/artist/02YQpuCkgfk5jhZJSqjQdG"
+        },
+        {
+          "name": "James Bernard",
+          "url": "https://open.spotify.com/artist/6d20guq0wJ6Z4sQGucU85q"
         }
       ],
-      "duration_ms": 168480,
-      "name": "Inertia",
-      "url": "https://open.spotify.com/track/1cFOb7A2b3o5TnGsx3lG23"
+      "duration_ms": 301863,
+      "name": "Lonesome Sound",
+      "url": "https://open.spotify.com/track/0W3XARJKAvikHEiOSgHl0z"
     },
     {
       "added_at": "2026-05-15 04:00:43",
@@ -1659,6 +1643,42 @@
       "duration_ms": 167865,
       "name": "breath under snow",
       "url": "https://open.spotify.com/track/6P0BKhuw2QMczkstDlKOMM"
+    },
+    {
+      "added_at": "2026-05-15 04:00:43",
+      "album": {
+        "name": "Inertia",
+        "url": "https://open.spotify.com/album/2PWZDzv9Z2Sp58ISvcvbXm"
+      },
+      "artists": [
+        {
+          "name": "Nobuhiro Okahashi",
+          "url": "https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py"
+        }
+      ],
+      "duration_ms": 168480,
+      "name": "Inertia",
+      "url": "https://open.spotify.com/track/1cFOb7A2b3o5TnGsx3lG23"
+    },
+    {
+      "added_at": "2026-05-15 04:00:43",
+      "album": {
+        "name": "morning after midnight",
+        "url": "https://open.spotify.com/album/1XpDajCQvExEBbpynkalWP"
+      },
+      "artists": [
+        {
+          "name": "Eleftherios",
+          "url": "https://open.spotify.com/artist/6z7DDiVB1Cca0P1VcsvxM9"
+        },
+        {
+          "name": "Droner",
+          "url": "https://open.spotify.com/artist/1XHCSxunHr6IVLuZ7FH5rl"
+        }
+      ],
+      "duration_ms": 136054,
+      "name": "morning after midnight",
+      "url": "https://open.spotify.com/track/5omO0sQ8qJK64CQrC4GoLY"
     },
     {
       "added_at": "2026-05-15 04:00:43",
@@ -1711,26 +1731,6 @@
       "duration_ms": 91000,
       "name": "Night Sculpture - Deconstructed",
       "url": "https://open.spotify.com/track/4vLMviupOxDFAj7XjvMIKA"
-    },
-    {
-      "added_at": "2026-05-15 04:00:43",
-      "album": {
-        "name": "morning after midnight",
-        "url": "https://open.spotify.com/album/1XpDajCQvExEBbpynkalWP"
-      },
-      "artists": [
-        {
-          "name": "Eleftherios",
-          "url": "https://open.spotify.com/artist/6z7DDiVB1Cca0P1VcsvxM9"
-        },
-        {
-          "name": "Droner",
-          "url": "https://open.spotify.com/artist/1XHCSxunHr6IVLuZ7FH5rl"
-        }
-      ],
-      "duration_ms": 136054,
-      "name": "morning after midnight",
-      "url": "https://open.spotify.com/track/5omO0sQ8qJK64CQrC4GoLY"
     },
     {
       "added_at": "2026-05-15 04:00:43",

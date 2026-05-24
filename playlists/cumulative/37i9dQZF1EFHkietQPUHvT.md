@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3sTYeZ3X2HX2cjaNDyKRcP">Bill Maybury</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-111 songs - 5 hr 39 min
+115 songs - 5 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,8 @@
 | [Drama](https://open.spotify.com/track/5THILFqD2wJquN3U4la6PS) | [Lala Sadii](https://open.spotify.com/artist/1ge7ixcFwe6ch8HZbs0UHt) | [Drama](https://open.spotify.com/album/68c8XhtNLFN9SPm9O4M9vW) | 2:32 | 2024-11-21 |  |
 | [Everyone Hurts](https://open.spotify.com/track/4684BKYqC3TVInNVrqQOCx) | [Ewan Mainwood](https://open.spotify.com/artist/0sYD7tLwt7uBajEg4adh6u) | [I Found You EP](https://open.spotify.com/album/5h5ux1uJHaRo82sDyhNOin) | 3:25 | 2024-02-26 |  |
 | [Everyone Who Falls In Love \(Has Someone Else They’re Thinking Of\)](https://open.spotify.com/track/3BRI2KJHYRJfse5DYmyoxM) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Victory](https://open.spotify.com/album/4T0KHJNt0mCuAyXSXfhQc3) | 2:36 | 2024-02-26 |  |
-| [Fairytales Are Nightmares](https://open.spotify.com/track/0gnZMoS21NdAPtqM5va32c) | [Bailey333](https://open.spotify.com/artist/5DQGlDPmc9tzUORPhavWet) | [Fairytales Are Nightmares](https://open.spotify.com/album/0MndFwMnPLQFelpaZW8jYN) | 2:31 | 2024-02-26 |  |
+| [Fairytales Are Nightmares](https://open.spotify.com/track/0gnZMoS21NdAPtqM5va32c) | [Bailey333](https://open.spotify.com/artist/5DQGlDPmc9tzUORPhavWet) | [Fairytales Are Nightmares](https://open.spotify.com/album/0MndFwMnPLQFelpaZW8jYN) | 2:31 | 2024-02-26 | 2026-05-24 |
+| [Fairytales Are Nightmares](https://open.spotify.com/track/4osk5RIQHGsm4aMkvfsy9l) | [Bailey333](https://open.spotify.com/artist/5DQGlDPmc9tzUORPhavWet) | [Fairytales Are Nightmares](https://open.spotify.com/album/59j6XNKxuJUs7Lpw8eCEad) | 2:31 | 2026-05-23 |  |
 | [Fall So Easy](https://open.spotify.com/track/0luP4uMdiFgBaOEBNC8cEl) | [1000 Beasts](https://open.spotify.com/artist/3gFKwhL6BbxCd4Meqm2AH9), [Elkin](https://open.spotify.com/artist/4emwUTOdG3XWavS57kZhgn) | [Fall So Easy](https://open.spotify.com/album/0URTcjVa6Fdohlq4NaAxMs) | 3:22 | 2024-02-26 | 2026-03-24 |
 | [Favourite Song](https://open.spotify.com/track/51Gpkl6MSosRyZD1OQPrmF) | [Tim Chadwick](https://open.spotify.com/artist/01xLuKvTWah7tIPATY3MfL) | [Favourite Song](https://open.spotify.com/album/1TWDDWs0gQV3YKnQSCbOgh) | 3:39 | 2024-02-26 |  |
 | [First Last Time](https://open.spotify.com/track/5gFYe6ngpSJe0fH7snUMfe) | [Deeps](https://open.spotify.com/artist/2Z6S0daezacaUwUukXQUqJ) | [First Last Time](https://open.spotify.com/album/50aXhsbgDyCQAsBynMNTBP) | 3:03 | 2025-06-26 |  |
@@ -76,11 +77,13 @@
 | [Lion's Den](https://open.spotify.com/track/6MrWgh6TzFSm2MzWEyWHQh) | [Picture This](https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW) | [Parked Car Conversations](https://open.spotify.com/album/68sSQ6wu7ZxCAXC1iHjnZe) | 3:24 | 2024-04-28 |  |
 | [Little Dreaming](https://open.spotify.com/track/02B3AyjVkk7Z5Ktom1eH0q) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Little Dreaming](https://open.spotify.com/album/6FJ9yGyRou6MzvOePLeIJe) | 3:23 | 2025-03-16 | 2025-08-04 |
 | [Little Dreaming](https://open.spotify.com/track/1JF4ZteKMtYMXpNrN6622p) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Little Dreaming](https://open.spotify.com/album/6eWcI671vlYco6sFjNGWJS) | 3:23 | 2025-08-03 |  |
-| [Live Without You](https://open.spotify.com/track/2SfpMcdEDXQZbPLELlRHzF) | [Niall O'Connor](https://open.spotify.com/artist/0HszeswPOHPKPVyDOm5DCc) | [Live Without You](https://open.spotify.com/album/3EG9WRxr2lY8jkNtYg4e9e) | 2:59 | 2025-10-25 |  |
+| [Live Without You](https://open.spotify.com/track/2SfpMcdEDXQZbPLELlRHzF) | [Niall O'Connor](https://open.spotify.com/artist/0HszeswPOHPKPVyDOm5DCc) | [Live Without You](https://open.spotify.com/album/3EG9WRxr2lY8jkNtYg4e9e) | 2:59 | 2025-10-25 | 2026-05-24 |
+| [Live Without You](https://open.spotify.com/track/6K44Uyanr0occ8KMq8fUdi) | [Niall O'Connor](https://open.spotify.com/artist/0HszeswPOHPKPVyDOm5DCc) | [Live Without You](https://open.spotify.com/album/5mOMfCdwZ38my1so9oDWFr) | 2:59 | 2026-05-23 |  |
 | [Louder](https://open.spotify.com/track/08s07LwInGpJUeA8rUtyMD) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m), [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [KYGO](https://open.spotify.com/album/5BrjR0P59l9SsbODztqs3q) | 3:00 | 2024-08-05 |  |
 | [Love Like Us](https://open.spotify.com/track/4PUWuwvbqSKFvTZ5O0pqhF) | [Next In Line](https://open.spotify.com/artist/5Xn9OPltcdrnTwLJ1ZoTPf) | [Love Like Us](https://open.spotify.com/album/0hDq3gHJMQgfMW8vg8RttR) | 2:58 | 2024-08-01 |  |
 | [love u in the morning](https://open.spotify.com/track/2EcW6vI753m0KQOganbQrK) | [Izzi De\-Rosa](https://open.spotify.com/artist/3Z6QJOLlIS8vdKV4f3jc6g) | [love u in the morning](https://open.spotify.com/album/77LUvtfw3URuvXMDPYLtxZ) | 2:44 | 2024-02-26 | 2024-03-02 |
-| [Love U in the Morning](https://open.spotify.com/track/7BpW1HOQwPaGhgWvb5pCuo) | [Izzi De\-Rosa](https://open.spotify.com/artist/3Z6QJOLlIS8vdKV4f3jc6g) | [Love U in the Morning](https://open.spotify.com/album/260wOGFQmUPEAALaIhvt0Q) | 2:44 | 2024-03-01 |  |
+| [Love U in the Morning](https://open.spotify.com/track/2bKBzSxj5YPI8cTEqEWxAO) | [Izzi De\-Rosa](https://open.spotify.com/artist/3Z6QJOLlIS8vdKV4f3jc6g) | [Love U in the Morning](https://open.spotify.com/album/3hWRSfU99OWboHK7ER9WQO) | 2:44 | 2026-05-23 |  |
+| [Love U in the Morning](https://open.spotify.com/track/7BpW1HOQwPaGhgWvb5pCuo) | [Izzi De\-Rosa](https://open.spotify.com/artist/3Z6QJOLlIS8vdKV4f3jc6g) | [Love U in the Morning](https://open.spotify.com/album/260wOGFQmUPEAALaIhvt0Q) | 2:44 | 2024-03-01 | 2026-05-24 |
 | [MAESTRO](https://open.spotify.com/track/6waMyYYhkiFHg0hPd2luQo) | [ONEW](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo) | [FLOW](https://open.spotify.com/album/7peUxIsjo1GlwVhNdXe4r2) | 2:57 | 2024-09-05 |  |
 | [Never Forget You](https://open.spotify.com/track/03LXMI84EALrqIKgh5Zl6w) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Never Forget You \(Amél Remix\)](https://open.spotify.com/album/5GX1hxHNPpyh35tnDp5QFb) | 3:04 | 2025-07-04 | 2025-10-27 |
 | [Never Forget You](https://open.spotify.com/track/2WDTGOTHmpzkLKBae5NBUx) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Never Forget You](https://open.spotify.com/album/7jogH009r3SWIcCj1Wt4Oh) | 3:04 | 2025-04-08 | 2025-05-23 |
@@ -90,7 +93,8 @@
 | [Oh Child](https://open.spotify.com/track/7eWB5IEjltqKJTx5nbibhk) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Real](https://open.spotify.com/album/7Jaiy3v9v7pTkamkvTxO5l) | 2:41 | 2025-08-11 |  |
 | [Ordinary Love](https://open.spotify.com/track/02SGUjIZ98nO02FSoYIHMt) | [Alisa Xayalith](https://open.spotify.com/artist/6yI9BJNdoOE6vjbZGoGyGz) | [Ordinary Love](https://open.spotify.com/album/4pXKnSILEa947eFcZBilbB) | 3:40 | 2024-11-03 | 2025-04-08 |
 | [Ordinary Love](https://open.spotify.com/track/2E5dMEYWxm3gY39vvAyOY6) | [Alisa Xayalith](https://open.spotify.com/artist/6yI9BJNdoOE6vjbZGoGyGz) | [Slow Crush](https://open.spotify.com/album/0g0bAZkZDREcGkAo5jzuYU) | 3:40 | 2025-04-07 |  |
-| [Out Of Breath](https://open.spotify.com/track/16hiFD7T158Mi0Zqnr9d7C) | [Next In Line](https://open.spotify.com/artist/5Xn9OPltcdrnTwLJ1ZoTPf) | [Out Of Breath](https://open.spotify.com/album/6I6mMDNoDoWePzEhnbzDSs) | 3:12 | 2024-12-11 |  |
+| [Out Of Breath](https://open.spotify.com/track/16hiFD7T158Mi0Zqnr9d7C) | [Next In Line](https://open.spotify.com/artist/5Xn9OPltcdrnTwLJ1ZoTPf) | [Out Of Breath](https://open.spotify.com/album/6I6mMDNoDoWePzEhnbzDSs) | 3:12 | 2024-12-11 | 2026-05-24 |
+| [Out Of Breath](https://open.spotify.com/track/4aDuOZZdhG37hESGW0iGyY) | [Next In Line](https://open.spotify.com/artist/5Xn9OPltcdrnTwLJ1ZoTPf) | [Out Of Breath](https://open.spotify.com/album/0Rb8zkBHjxHqteutd6mFOd) | 3:12 | 2026-05-23 |  |
 | [pause](https://open.spotify.com/track/1abgG2jgztGM55dZBAZRHh) | [eaJ](https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN) | [1](https://open.spotify.com/album/6iDWPMotr0jVMUr5ZfPhjE) | 2:37 | 2025-06-29 |  |
 | [Perfect on Me](https://open.spotify.com/track/3aABZMfYArSNlD1muV1wsK) | [Ryan Mack](https://open.spotify.com/artist/5LGo1zHegJTWzqVXgeNplt) | [Perfect on Me](https://open.spotify.com/album/6y79bH31Bg9wxSeNRTl5WL) | 2:44 | 2024-02-26 |  |
 | [Pieces](https://open.spotify.com/track/58pdFtaryYVwyHsjYDGw4W) | [Milo Meskens](https://open.spotify.com/artist/2os0uvECng2MYlxDj5iEbc) | [Plimsoll Road](https://open.spotify.com/album/6S5eFUOBD9mToIr9iIW32u) | 3:56 | 2024-02-26 |  |

@@ -4,10 +4,11 @@
 
 > This is Ingrid Andress\. The essential tracks, all in one playlist.
 
-51 songs - 2 hr 52 min
+52 songs - 2 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [All The Best](https://open.spotify.com/track/4vZa4UhA0s6nHzoC2CavxY) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [All The Best](https://open.spotify.com/album/2Hrp51zwvCVyTTyGXlPUKH) | 3:18 | 2026-05-24 |  |
 | [All The Love](https://open.spotify.com/track/6Ux1OziwTqAns38d7CfdWG) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Good Person](https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv) | 3:45 | 2023-02-27 | 2025-08-18 |
 | [Any Day Now](https://open.spotify.com/track/3wFQdX3Uqlg1k9a27qcVnM) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo), [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [The Comeback \(Deluxe\)](https://open.spotify.com/album/1aNIT8Eao5zaUVkmZ3ib0J) | 3:13 | 2023-01-18 |  |
 | [Any Day Now](https://open.spotify.com/track/3yl7YwoNy3hzbjQV4Ae4xO) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo), [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Any Day Now](https://open.spotify.com/album/4yp9MilA3JmnynGkK33EZw) | 3:13 | 2022-09-17 | 2023-01-19 |

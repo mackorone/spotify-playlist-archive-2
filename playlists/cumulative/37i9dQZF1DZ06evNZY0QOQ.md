@@ -4,13 +4,14 @@
 
 > This is CKay\. The essential tracks, all in one playlist.
 
-57 songs - 2 hr 53 min
+58 songs - 2 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [40 Days \(feat\. CKay\)](https://open.spotify.com/track/3RaFHuGXEgAH8k0J9kSF5x) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [40 Days \(feat\. CKay\)](https://open.spotify.com/album/5mUEBoLPKIVyNlvulD40kL) | 3:06 | 2025-09-27 |  |
+| [40 Days \(feat\. CKay\)](https://open.spotify.com/track/3RaFHuGXEgAH8k0J9kSF5x) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [40 Days \(feat\. CKay\)](https://open.spotify.com/album/5mUEBoLPKIVyNlvulD40kL) | 3:06 | 2025-09-27 | 2026-05-24 |
 | [4U \(feat\. CKay, Leo Rizzi\)](https://open.spotify.com/track/6qFHJBEbHNKpWhN6e9xNnO) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [4U \(feat\. CKay, Leo Rizzi\)](https://open.spotify.com/album/7eRSN2WVgwjEr5XBRHh2qp) | 3:45 | 2025-08-13 |  |
 | [ADDICTED \(feat\. The Cavemen.\)](https://open.spotify.com/track/3GiwhPBfi4zqKl1qDPBy1i) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD) | [EMOTIONS](https://open.spotify.com/album/2YmoOH3tCkDVnmBsBrFpLI) | 3:52 | 2025-08-13 |  |
+| [AFRICAN GIRLS](https://open.spotify.com/track/1pDVWzY2lp3Y7Qi0WTY4Ad) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Kidd Carder](https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI) | [AFRICAN GIRLS](https://open.spotify.com/album/7F76UW4g4Mq8rRLznvAAuc) | 2:03 | 2026-05-24 |  |
 | [again](https://open.spotify.com/track/0mdmPFVl91blHPZGEFjG64) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [CKay The Second](https://open.spotify.com/album/3TDqyvMmWlK34WpAxwG6hf) | 2:23 | 2025-08-13 | 2026-05-08 |
 | [Anya Mmiri](https://open.spotify.com/track/4m8YqoUZLToSUjpNmb7m5X) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5) | 3:08 | 2025-08-13 |  |
 | [BADAMINTON](https://open.spotify.com/track/7tlmvrVlRrLw0m02LPfqTe) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [BADAMINTON](https://open.spotify.com/album/7x77oJz7ECvknq4S9kISNl) | 2:07 | 2026-02-01 |  |

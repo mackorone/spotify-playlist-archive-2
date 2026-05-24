@@ -1,12 +1,12 @@
 {
   "description": "Continue giving God praise with these classic worship songs! Cover: Chris Tomlin",
-  "num_followers": 416707,
+  "num_followers": 416841,
   "original_name": "Worship Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANeuLwryOLpEukmz0+1j+egkWGo/",
+  "snapshot_id": "AAAAADY19Jnw3jsfeitIjvuE92lBIbVL",
   "tracks": [
     {
       "added_at": "2026-05-14 05:42:21",
@@ -691,6 +691,22 @@
     {
       "added_at": "2026-05-14 05:42:21",
       "album": {
+        "name": "Glory & Wonder",
+        "url": "https://open.spotify.com/album/3jUPCgNSi7C875PNjsbUTU"
+      },
+      "artists": [
+        {
+          "name": "Mosaic MSC",
+          "url": "https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b"
+        }
+      ],
+      "duration_ms": 309093,
+      "name": "Tremble - Live",
+      "url": "https://open.spotify.com/track/35GACeX8Zl55jp29xFbvvo"
+    },
+    {
+      "added_at": "2026-05-14 05:42:21",
+      "album": {
         "name": "SEVEN (Live)",
         "url": "https://open.spotify.com/album/6ZVXKVGiyL96L6pflgfWrt"
       },
@@ -711,38 +727,6 @@
     {
       "added_at": "2026-05-14 05:42:21",
       "album": {
-        "name": "Glory & Wonder",
-        "url": "https://open.spotify.com/album/3jUPCgNSi7C875PNjsbUTU"
-      },
-      "artists": [
-        {
-          "name": "Mosaic MSC",
-          "url": "https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b"
-        }
-      ],
-      "duration_ms": 309093,
-      "name": "Tremble - Live",
-      "url": "https://open.spotify.com/track/35GACeX8Zl55jp29xFbvvo"
-    },
-    {
-      "added_at": "2026-05-14 05:42:21",
-      "album": {
-        "name": "Majestic (Live)",
-        "url": "https://open.spotify.com/album/1CMgCsrwDku8Q6bOjNSJJr"
-      },
-      "artists": [
-        {
-          "name": "Kari Jobe Carnes",
-          "url": "https://open.spotify.com/artist/3VTWrobRnI633EBuUSfyw3"
-        }
-      ],
-      "duration_ms": 409986,
-      "name": "Forever - Live",
-      "url": "https://open.spotify.com/track/1z5xgcRgxxGEKrXUCEFpA9"
-    },
-    {
-      "added_at": "2026-05-14 05:42:21",
-      "album": {
         "name": "God Is Good! (Live)",
         "url": "https://open.spotify.com/album/4qZwzswmv5lNwLftPcVNBH"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 316250,
       "name": "Take You At Your Word (with Benjamin William Hastings) - Live",
       "url": "https://open.spotify.com/track/7k6FvX8WhPoYDHMl4QCavz"
+    },
+    {
+      "added_at": "2026-05-14 05:42:21",
+      "album": {
+        "name": "Majestic (Live)",
+        "url": "https://open.spotify.com/album/1CMgCsrwDku8Q6bOjNSJJr"
+      },
+      "artists": [
+        {
+          "name": "Kari Jobe Carnes",
+          "url": "https://open.spotify.com/artist/3VTWrobRnI633EBuUSfyw3"
+        }
+      ],
+      "duration_ms": 409986,
+      "name": "Forever - Live",
+      "url": "https://open.spotify.com/track/1z5xgcRgxxGEKrXUCEFpA9"
     },
     {
       "added_at": "2026-05-14 05:42:21",
@@ -1359,18 +1359,18 @@
     {
       "added_at": "2026-05-14 05:42:21",
       "album": {
-        "name": "Maker of the Moon",
-        "url": "https://open.spotify.com/album/48LUEsEwHdXe1NR2ChkInT"
+        "name": "Trial & Triumph",
+        "url": "https://open.spotify.com/album/4milDwwpzRI8oHNuaXmNNX"
       },
       "artists": [
         {
-          "name": "Elle Limebear",
-          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
+          "name": "I AM THEY",
+          "url": "https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX"
         }
       ],
-      "duration_ms": 366706,
-      "name": "Maker of the Moon",
-      "url": "https://open.spotify.com/track/5Hvyj14VOaMUhxjXQ1Fy8X"
+      "duration_ms": 217866,
+      "name": "No Impossible with You",
+      "url": "https://open.spotify.com/track/2XJ73OpbAluRnivJ4UI1C6"
     },
     {
       "added_at": "2026-05-14 05:42:21",
@@ -1391,18 +1391,18 @@
     {
       "added_at": "2026-05-14 05:42:21",
       "album": {
-        "name": "Trial & Triumph",
-        "url": "https://open.spotify.com/album/4milDwwpzRI8oHNuaXmNNX"
+        "name": "Maker of the Moon",
+        "url": "https://open.spotify.com/album/48LUEsEwHdXe1NR2ChkInT"
       },
       "artists": [
         {
-          "name": "I AM THEY",
-          "url": "https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX"
+          "name": "Elle Limebear",
+          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
         }
       ],
-      "duration_ms": 217866,
-      "name": "No Impossible with You",
-      "url": "https://open.spotify.com/track/2XJ73OpbAluRnivJ4UI1C6"
+      "duration_ms": 366706,
+      "name": "Maker of the Moon",
+      "url": "https://open.spotify.com/track/5Hvyj14VOaMUhxjXQ1Fy8X"
     },
     {
       "added_at": "2026-05-14 05:42:21",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2026-05-14 05:42:21",
       "album": {
-        "name": "Alive Again",
-        "url": "https://open.spotify.com/album/6Y07x7oqvxOt0oUiBBWaHX"
-      },
-      "artists": [
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 294813,
-      "name": "Christ Is Risen",
-      "url": "https://open.spotify.com/track/27q0d0DgZrcnUNr2K0kMPC"
-    },
-    {
-      "added_at": "2026-05-14 05:42:21",
-      "album": {
         "name": "The Power of Your Name",
         "url": "https://open.spotify.com/album/11ERH4AY90y6lkIn5HwJrb"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 390800,
       "name": "You Reign - Live",
       "url": "https://open.spotify.com/track/2uMA6jp7uJY2AZwyJzNGG1"
+    },
+    {
+      "added_at": "2026-05-14 05:42:21",
+      "album": {
+        "name": "Alive Again",
+        "url": "https://open.spotify.com/album/6Y07x7oqvxOt0oUiBBWaHX"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "duration_ms": 294813,
+      "name": "Christ Is Risen",
+      "url": "https://open.spotify.com/track/27q0d0DgZrcnUNr2K0kMPC"
     },
     {
       "added_at": "2026-05-14 05:42:21",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2026-05-14 05:42:21",
       "album": {
-        "name": "Death Of Death",
-        "url": "https://open.spotify.com/album/1KFDY2EV313IlVsAiQJQ1C"
-      },
-      "artists": [
-        {
-          "name": "Life.Church Worship",
-          "url": "https://open.spotify.com/artist/4txutWV4bAiqr9ZIyZH8zS"
-        }
-      ],
-      "duration_ms": 217000,
-      "name": "Where The Spirit Of The Lord Is",
-      "url": "https://open.spotify.com/track/7aEJ4hXCfjeWO2zq4tyCT9"
-    },
-    {
-      "added_at": "2026-05-14 05:42:21",
-      "album": {
         "name": "Faithful God",
         "url": "https://open.spotify.com/album/3DytmYZJbUkgCtRyBtkpf7"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 210013,
       "name": "Faithful God",
       "url": "https://open.spotify.com/track/5YcgWiIj7woRmQQMXDjQ7H"
+    },
+    {
+      "added_at": "2026-05-14 05:42:21",
+      "album": {
+        "name": "Death Of Death",
+        "url": "https://open.spotify.com/album/1KFDY2EV313IlVsAiQJQ1C"
+      },
+      "artists": [
+        {
+          "name": "Life.Church Worship",
+          "url": "https://open.spotify.com/artist/4txutWV4bAiqr9ZIyZH8zS"
+        }
+      ],
+      "duration_ms": 217000,
+      "name": "Where The Spirit Of The Lord Is",
+      "url": "https://open.spotify.com/track/7aEJ4hXCfjeWO2zq4tyCT9"
     },
     {
       "added_at": "2026-05-14 05:42:21",
@@ -1971,22 +1971,6 @@
     {
       "added_at": "2026-05-14 05:42:21",
       "album": {
-        "name": "The Darker The Night / The Brighter The Morning",
-        "url": "https://open.spotify.com/album/5UjzIvJl8qRO65dQTMXrho"
-      },
-      "artists": [
-        {
-          "name": "Cody Carnes",
-          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
-        }
-      ],
-      "duration_ms": 254840,
-      "name": "The Cross Has The Final Word",
-      "url": "https://open.spotify.com/track/6i4s9bd1Z9Hj3mTr6sK9Wq"
-    },
-    {
-      "added_at": "2026-05-14 05:42:21",
-      "album": {
         "name": "One And Only",
         "url": "https://open.spotify.com/album/34TxhWZkBsTUFJYhPnkvtN"
       },
@@ -1999,6 +1983,22 @@
       "duration_ms": 326733,
       "name": "Audience of One",
       "url": "https://open.spotify.com/track/6s2kbczHvB0VDd5US1J5AL"
+    },
+    {
+      "added_at": "2026-05-14 05:42:21",
+      "album": {
+        "name": "The Darker The Night / The Brighter The Morning",
+        "url": "https://open.spotify.com/album/5UjzIvJl8qRO65dQTMXrho"
+      },
+      "artists": [
+        {
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+        }
+      ],
+      "duration_ms": 254840,
+      "name": "The Cross Has The Final Word",
+      "url": "https://open.spotify.com/track/6i4s9bd1Z9Hj3mTr6sK9Wq"
     },
     {
       "added_at": "2026-05-14 05:42:21",
@@ -2563,6 +2563,22 @@
     {
       "added_at": "2026-05-14 05:42:21",
       "album": {
+        "name": "Today Is the Day",
+        "url": "https://open.spotify.com/album/3LeRWUi22WTeXmu1rvfUFc"
+      },
+      "artists": [
+        {
+          "name": "Lincoln Brewster",
+          "url": "https://open.spotify.com/artist/1aoy0R8uP3x33eqKZOLpN1"
+        }
+      ],
+      "duration_ms": 276746,
+      "name": "Today Is the Day",
+      "url": "https://open.spotify.com/track/1AMCroLHu9Tho2lXzKaUWj"
+    },
+    {
+      "added_at": "2026-05-14 05:42:21",
+      "album": {
         "name": "In Jesus Name (God Of Possible)",
         "url": "https://open.spotify.com/album/6O6M9RO7S8AztEGAYKvD5T"
       },
@@ -2575,22 +2591,6 @@
       "duration_ms": 222039,
       "name": "In Jesus Name (God Of Possible)",
       "url": "https://open.spotify.com/track/6Srgw41KlTpWtu5hbEKeja"
-    },
-    {
-      "added_at": "2026-05-14 05:42:21",
-      "album": {
-        "name": "This Is a Move",
-        "url": "https://open.spotify.com/album/6crpNvPmpoEgTFGkqzaEuh"
-      },
-      "artists": [
-        {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
-        }
-      ],
-      "duration_ms": 222813,
-      "name": "This Is a Move",
-      "url": "https://open.spotify.com/track/7cRrS2PIyaXzmNDTFckXJ2"
     },
     {
       "added_at": "2026-05-14 05:42:21",
@@ -2639,42 +2639,34 @@
     {
       "added_at": "2026-05-14 05:42:21",
       "album": {
-        "name": "Today Is the Day",
-        "url": "https://open.spotify.com/album/3LeRWUi22WTeXmu1rvfUFc"
+        "name": "This Is a Move",
+        "url": "https://open.spotify.com/album/6crpNvPmpoEgTFGkqzaEuh"
       },
       "artists": [
         {
-          "name": "Lincoln Brewster",
-          "url": "https://open.spotify.com/artist/1aoy0R8uP3x33eqKZOLpN1"
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
         }
       ],
-      "duration_ms": 276746,
-      "name": "Today Is the Day",
-      "url": "https://open.spotify.com/track/1AMCroLHu9Tho2lXzKaUWj"
+      "duration_ms": 222813,
+      "name": "This Is a Move",
+      "url": "https://open.spotify.com/track/7cRrS2PIyaXzmNDTFckXJ2"
     },
     {
       "added_at": "2026-05-14 05:42:21",
       "album": {
-        "name": "Live",
-        "url": "https://open.spotify.com/album/1xFAQGLd2GUNK0Ji9ss9TG"
+        "name": "Kari Jobe",
+        "url": "https://open.spotify.com/album/43qobCIpLpsxshjc7PbAXb"
       },
       "artists": [
         {
-          "name": "All Sons & Daughters",
-          "url": "https://open.spotify.com/artist/44LPOpECjnIlnwH91wo2ir"
-        },
-        {
-          "name": "Leslie Jordan",
-          "url": "https://open.spotify.com/artist/5AxCkKr6aZBRfm9KD7ermh"
-        },
-        {
-          "name": "David Leonard",
-          "url": "https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE"
+          "name": "Kari Jobe",
+          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
         }
       ],
-      "duration_ms": 537866,
-      "name": "Your Glory / Nothing But The Blood - Live",
-      "url": "https://open.spotify.com/track/5UgGtoBzu4mmslDkcbLduT"
+      "duration_ms": 361386,
+      "name": "Revelation Song",
+      "url": "https://open.spotify.com/track/3pZVH0mPC6fxtmjOT0i9t5"
     }
   ],
   "unique_name": "Worship Classics",

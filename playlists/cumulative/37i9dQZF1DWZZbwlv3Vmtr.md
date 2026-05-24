@@ -4,7 +4,7 @@
 
 > Instrumental beats to lock\-in.
 
-1,199 songs - 1 day 22 hr 6 min
+1,200 songs - 1 day 22 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,7 +157,7 @@
 | [Caves](https://open.spotify.com/track/5v4Mbrr1OSdpILZnLoIib1) | [Mellow.](https://open.spotify.com/artist/0G0ttAARUNpc5aIAsUxXLZ), [Modokat](https://open.spotify.com/artist/0MOkCubG8ucV1oT8sRynNd) | [Caves](https://open.spotify.com/album/58hOksHan9dD6Jbn54ROVc) | 2:26 | 2022-09-30 | 2023-10-20 |
 | [Cayo](https://open.spotify.com/track/6p8cuVRnfBv4C6dhvYua5i) | [Chancla](https://open.spotify.com/artist/1GzwYC8JgtfOTyvAiiuGNs), [Oaty.](https://open.spotify.com/artist/2S5BNs8nlCRoKvnw9LuwBU) | [Cayo](https://open.spotify.com/album/0oY0cZTZBDrlPTM7chf4bE) | 2:16 | 2022-04-15 | 2022-07-08 |
 | [Chai](https://open.spotify.com/track/66Kny7gNhHrvLUnasMVSl7) | [Majid Unpeek](https://open.spotify.com/artist/66CDrkdfDIbvnyCVAFUSUK), [Lola](https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT) | [Chai](https://open.spotify.com/album/3pqrE6A2UA3uhU5SgrtKeh) | 2:24 | 2024-06-05 | 2024-06-29 |
-| [Change](https://open.spotify.com/track/3zxAz89ATcP9Wsd1IS0In0) | [Korey Wade](https://open.spotify.com/artist/5EMhnsc8XoFAR7Cpb8TjPv) | [Change](https://open.spotify.com/album/6PefnS2via1rgV9lwekE7R) | 2:00 | 2026-05-22 |  |
+| [Change](https://open.spotify.com/track/3zxAz89ATcP9Wsd1IS0In0) | [Korey Wade](https://open.spotify.com/artist/5EMhnsc8XoFAR7Cpb8TjPv) | [Change](https://open.spotify.com/album/6PefnS2via1rgV9lwekE7R) | 2:00 | 2026-05-22 | 2026-05-24 |
 | [Chanterelle](https://open.spotify.com/track/3JSg9IUjqze3mySqLn4HmT) | [Silva Sax](https://open.spotify.com/artist/4J3sbgdgKQeaCSv5oM2xq9) | [Cartoons & Cereal](https://open.spotify.com/album/6eY7VIvnJeoNfWVpE5N29q) | 3:45 | 2022-04-15 | 2025-07-10 |
 | [charles b.](https://open.spotify.com/track/0PspRVTgQPycu9EH88kF4k) | [Rico Manzano](https://open.spotify.com/artist/1hVs4AUzu7CjnBobfDoLoZ) | [charles b.](https://open.spotify.com/album/1MXnC6qRilmNuoYPwenhr4) | 2:30 | 2022-04-15 | 2022-08-19 |
 | [Chasing Clouds](https://open.spotify.com/track/1BzbkoI0867xFsfy1tBwFm) | [Odd Shapes](https://open.spotify.com/artist/7A0I9hUuQHuonQhfYw3HrU) | [Tour Bus](https://open.spotify.com/album/3c4bZOR7st6OBpOVvyT4n0) | 2:54 | 2022-04-15 | 2023-01-20 |
@@ -1173,6 +1173,7 @@
 | [wicked](https://open.spotify.com/track/0Li6Y0Noq9THd4sTR7e5wq) | [LVTA](https://open.spotify.com/artist/3xoLUBE5kWiGDw1Dgp8Fcf) | [wicked](https://open.spotify.com/album/08xWG2vUxhVXsjPFo9yajA) | 2:26 | 2024-02-02 | 2026-01-31 |
 | [Wild poetry](https://open.spotify.com/track/1x0ohLWX95zrSrngK2Fa7R) | [Dr\. Hall](https://open.spotify.com/artist/2ktxauEdDVuua28a0xmfOu) | [Wild poetry](https://open.spotify.com/album/4TEKZ8XR8LUO3oXsbShFgx) | 3:48 | 2023-01-06 | 2025-09-14 |
 | [Willow](https://open.spotify.com/track/0ungxzIT4zXR4YofdK04Xh) | [Frances The Mute](https://open.spotify.com/artist/2wCcRWGIQVa5m5oJuBplAs) | [Willow](https://open.spotify.com/album/6v7cDjYKyljCw8HWwZzhuF) | 2:29 | 2022-10-14 | 2023-10-20 |
+| [Willow](https://open.spotify.com/track/3MZmaGfOVkw0tWW6ubYI1E) | [Juliàn](https://open.spotify.com/artist/2SJLGPoAJhy9Id6N8oAftk), [Ptr.](https://open.spotify.com/artist/6NjVgE12RKrH5MjW9Tgd0o) | [Willow](https://open.spotify.com/album/4H3PxXlJr1KOlaj90u9bx1) | 2:33 | 2026-05-22 |  |
 | [Willow Whip](https://open.spotify.com/track/11NjsqNM0Kwnqop5rCYlpq) | [Vanilla Beach](https://open.spotify.com/artist/4gJj9oQfNWsfgwKYeUdlCe) | [Willow Whip](https://open.spotify.com/album/5G7mHOpSZbzMi857KYssc5) | 3:07 | 2022-04-15 | 2022-09-24 |
 | [Win Some Lose Some \- Instrumental](https://open.spotify.com/track/5NerYFWTLAp7hufWNlCher) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt), [B\-Side](https://open.spotify.com/artist/1KpqmBJgAuQIT39QH7CO2O), [Sunday Supper](https://open.spotify.com/artist/1dGhjuZe5hSXnfKGUoZnWS) | [Win Some Lose Some \- Instrumental](https://open.spotify.com/album/5kgfyrBRCm2vXDWh7YRwIz) | 2:25 | 2025-03-21 | 2025-05-17 |
 | [Winding Down](https://open.spotify.com/track/2d1rs0lIYPWQ26Z0S81fRY) | [BB Queen](https://open.spotify.com/artist/0xYs9AtekcZjUcEjJBqtmN) | [Winding Down](https://open.spotify.com/album/05v43i2aZhI8tSmORcWSDE) | 2:31 | 2025-02-07 | 2025-02-15 |

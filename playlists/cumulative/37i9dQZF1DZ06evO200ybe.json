@@ -41,6 +41,36 @@
     },
     {
       "album": {
+        "name": "Shine (Live at Teatro Estense, Ferrara, 1987)",
+        "url": "https://open.spotify.com/album/2hj4cBWuqpbw6CFeWUpnQZ"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        },
+        {
+          "name": "Nicola Stilo",
+          "url": "https://open.spotify.com/artist/5PYMmlAXVzahUVl2a0Ah7T"
+        },
+        {
+          "name": "Michel Graillier",
+          "url": "https://open.spotify.com/artist/77jN62YC5c95ogzKlDdcqm"
+        },
+        {
+          "name": "Rocky Knauer",
+          "url": "https://open.spotify.com/artist/0hLWbGlyGnWgTL8SsXvXkj"
+        }
+      ],
+      "date_added": "2026-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206516,
+      "name": "Almost Blue - Live",
+      "url": "https://open.spotify.com/track/39MCQukUxbYl4XgVkvk9mM"
+    },
+    {
+      "album": {
         "name": "Chet (Mono)",
         "url": "https://open.spotify.com/album/2d1FwcwFImszirBMuVlWwO"
       },
@@ -1016,7 +1046,7 @@
       ],
       "date_added": "2026-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 195000,
       "name": "Tension",
       "url": "https://open.spotify.com/track/3wmOO5j040MZPlHCK5NCwr"

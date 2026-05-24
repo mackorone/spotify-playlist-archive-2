@@ -11521,6 +11521,24 @@
     },
     {
       "album": {
+        "name": "Breaking Crests",
+        "url": "https://open.spotify.com/album/2dLSlsENTZgScQ0gyNwmcN"
+      },
+      "artists": [
+        {
+          "name": "KXENIA",
+          "url": "https://open.spotify.com/artist/4xGnce5EXkdJNeOxaZeYTL"
+        }
+      ],
+      "date_added": "2026-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179152,
+      "name": "My Apartment Mirror",
+      "url": "https://open.spotify.com/track/5cdp7w6A89Svd88GPu4lUA"
+    },
+    {
+      "album": {
         "name": "XD",
         "url": "https://open.spotify.com/album/3VITONpFw08wyFI7flouGN"
       },
@@ -19238,6 +19256,24 @@
       "duration_ms": 192826,
       "name": "Veloz",
       "url": "https://open.spotify.com/track/684O5uzlLPREElx1sVhy1P"
+    },
+    {
+      "album": {
+        "name": "Venezia",
+        "url": "https://open.spotify.com/album/44IMIE9w36DHzMDH8mcicF"
+      },
+      "artists": [
+        {
+          "name": "Jouta",
+          "url": "https://open.spotify.com/artist/27eP37X13iXodHP9LFFkNd"
+        }
+      ],
+      "date_added": "2026-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124490,
+      "name": "Venezia",
+      "url": "https://open.spotify.com/track/6FLhvd6tllIMDGIc5cHuCP"
     },
     {
       "album": {

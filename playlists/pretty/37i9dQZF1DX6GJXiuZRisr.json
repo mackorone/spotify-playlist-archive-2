@@ -1,6 +1,6 @@
 {
   "description": "Progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
-  "num_followers": 1614712,
+  "num_followers": 1614838,
   "original_name": "Night Rider",
   "owner": {
     "name": "Spotify",
@@ -619,6 +619,26 @@
     {
       "added_at": "2026-05-22 04:01:42",
       "album": {
+        "name": "Help I'm Alive (BYNX Rework)",
+        "url": "https://open.spotify.com/album/4JlaaaXai3SkY4aOzGyz1f"
+      },
+      "artists": [
+        {
+          "name": "Metric",
+          "url": "https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl"
+        },
+        {
+          "name": "BYNX",
+          "url": "https://open.spotify.com/artist/2HDr90mJP3k5gaCkPIKdEn"
+        }
+      ],
+      "duration_ms": 169305,
+      "name": "Help I'm Alive - BYNX Rework",
+      "url": "https://open.spotify.com/track/6cc4X3CBJhdPbARRbyaJkP"
+    },
+    {
+      "added_at": "2026-05-22 04:01:42",
+      "album": {
         "name": "No Room For A Saint (From F1\u00ae The Movie)",
         "url": "https://open.spotify.com/album/1TQcKdaaFQjqQMoMJvZb8M"
       },
@@ -639,26 +659,6 @@
       "duration_ms": 236128,
       "name": "No Room For A Saint (From F1\u00ae The Movie)",
       "url": "https://open.spotify.com/track/5xalbHoIf0F0AmuTKlm2Ct"
-    },
-    {
-      "added_at": "2026-05-22 04:01:42",
-      "album": {
-        "name": "Help I'm Alive (BYNX Rework)",
-        "url": "https://open.spotify.com/album/4JlaaaXai3SkY4aOzGyz1f"
-      },
-      "artists": [
-        {
-          "name": "Metric",
-          "url": "https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl"
-        },
-        {
-          "name": "BYNX",
-          "url": "https://open.spotify.com/artist/2HDr90mJP3k5gaCkPIKdEn"
-        }
-      ],
-      "duration_ms": 169305,
-      "name": "Help I'm Alive - BYNX Rework",
-      "url": "https://open.spotify.com/track/6cc4X3CBJhdPbARRbyaJkP"
     },
     {
       "added_at": "2026-05-22 04:01:42",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2026-05-22 04:01:42",
       "album": {
+        "name": "Never Forget You",
+        "url": "https://open.spotify.com/album/7jogH009r3SWIcCj1Wt4Oh"
+      },
+      "artists": [
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        }
+      ],
+      "duration_ms": 184349,
+      "name": "Never Forget You",
+      "url": "https://open.spotify.com/track/2WDTGOTHmpzkLKBae5NBUx"
+    },
+    {
+      "added_at": "2026-05-22 04:01:42",
+      "album": {
         "name": "Love Again",
         "url": "https://open.spotify.com/album/5wrYrywBsHkGIekBoScfG8"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 191076,
       "name": "Love Again",
       "url": "https://open.spotify.com/track/1v7SdHbR0pkwFb9RfG6L6O"
-    },
-    {
-      "added_at": "2026-05-22 04:01:42",
-      "album": {
-        "name": "Never Forget You",
-        "url": "https://open.spotify.com/album/7jogH009r3SWIcCj1Wt4Oh"
-      },
-      "artists": [
-        {
-          "name": "AFROJACK",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
-        }
-      ],
-      "duration_ms": 184349,
-      "name": "Never Forget You",
-      "url": "https://open.spotify.com/track/2WDTGOTHmpzkLKBae5NBUx"
     },
     {
       "added_at": "2026-05-22 04:01:42",
@@ -1151,6 +1151,26 @@
     {
       "added_at": "2026-05-22 04:01:42",
       "album": {
+        "name": "Talk",
+        "url": "https://open.spotify.com/album/7vhMewmkm14o6ImWq6el0I"
+      },
+      "artists": [
+        {
+          "name": "Fairlane",
+          "url": "https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO"
+        },
+        {
+          "name": "Bo Bruce",
+          "url": "https://open.spotify.com/artist/4N2lZcytbZifGelhVEpMeK"
+        }
+      ],
+      "duration_ms": 214764,
+      "name": "Talk",
+      "url": "https://open.spotify.com/track/1x60WzUs7c8byX7lvYJ8Fa"
+    },
+    {
+      "added_at": "2026-05-22 04:01:42",
+      "album": {
         "name": "Endless",
         "url": "https://open.spotify.com/album/3ZzkgSv5FF4L7BKt0ZqzlV"
       },
@@ -1191,46 +1211,6 @@
     {
       "added_at": "2026-05-22 04:01:42",
       "album": {
-        "name": "Talk",
-        "url": "https://open.spotify.com/album/7vhMewmkm14o6ImWq6el0I"
-      },
-      "artists": [
-        {
-          "name": "Fairlane",
-          "url": "https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO"
-        },
-        {
-          "name": "Bo Bruce",
-          "url": "https://open.spotify.com/artist/4N2lZcytbZifGelhVEpMeK"
-        }
-      ],
-      "duration_ms": 214764,
-      "name": "Talk",
-      "url": "https://open.spotify.com/track/1x60WzUs7c8byX7lvYJ8Fa"
-    },
-    {
-      "added_at": "2026-05-22 04:01:42",
-      "album": {
-        "name": "I Hear No More",
-        "url": "https://open.spotify.com/album/638b3Yd7HPTBCs9azC2Abo"
-      },
-      "artists": [
-        {
-          "name": "Lumine",
-          "url": "https://open.spotify.com/artist/2ZdXzNlryuJP0pnFn8CMAr"
-        },
-        {
-          "name": "Gino Ingrosso",
-          "url": "https://open.spotify.com/artist/4hXieI14EhBCUy3h4y4hNu"
-        }
-      ],
-      "duration_ms": 167792,
-      "name": "I Hear No More",
-      "url": "https://open.spotify.com/track/3oY5EVIaukufx6K7FNoNLK"
-    },
-    {
-      "added_at": "2026-05-22 04:01:42",
-      "album": {
         "name": "Upside Down",
         "url": "https://open.spotify.com/album/7k18E2rVMfzex1XQ6TTVzG"
       },
@@ -1255,6 +1235,26 @@
     {
       "added_at": "2026-05-22 04:01:42",
       "album": {
+        "name": "I Hear No More",
+        "url": "https://open.spotify.com/album/638b3Yd7HPTBCs9azC2Abo"
+      },
+      "artists": [
+        {
+          "name": "Lumine",
+          "url": "https://open.spotify.com/artist/2ZdXzNlryuJP0pnFn8CMAr"
+        },
+        {
+          "name": "Gino Ingrosso",
+          "url": "https://open.spotify.com/artist/4hXieI14EhBCUy3h4y4hNu"
+        }
+      ],
+      "duration_ms": 167792,
+      "name": "I Hear No More",
+      "url": "https://open.spotify.com/track/3oY5EVIaukufx6K7FNoNLK"
+    },
+    {
+      "added_at": "2026-05-22 04:01:42",
+      "album": {
         "name": "Melancholia",
         "url": "https://open.spotify.com/album/552EhYcIuLGbNHy8hc77Gb"
       },
@@ -1267,6 +1267,30 @@
       "duration_ms": 209899,
       "name": "Melancholia",
       "url": "https://open.spotify.com/track/6zhY7CX2x0fMlpEYWVwHwa"
+    },
+    {
+      "added_at": "2026-05-22 04:01:42",
+      "album": {
+        "name": "Machine",
+        "url": "https://open.spotify.com/album/5QhSoysXYsOllxEnA7qXio"
+      },
+      "artists": [
+        {
+          "name": "Joris Voorn",
+          "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
+        },
+        {
+          "name": "Roddy Lima",
+          "url": "https://open.spotify.com/artist/0Bg1joLOL52mJS0kf0pIDx"
+        },
+        {
+          "name": "Taylr Renee",
+          "url": "https://open.spotify.com/artist/27feHJH3VKyk8FgOndiWU8"
+        }
+      ],
+      "duration_ms": 153230,
+      "name": "Machine",
+      "url": "https://open.spotify.com/track/6SkahbG67GrZCRqq0K3tRZ"
     },
     {
       "added_at": "2026-05-22 04:01:42",
@@ -1299,30 +1323,6 @@
       "duration_ms": 247152,
       "name": "Manta",
       "url": "https://open.spotify.com/track/0uXlFJxr5zDnoLql7DELIm"
-    },
-    {
-      "added_at": "2026-05-22 04:01:42",
-      "album": {
-        "name": "Machine",
-        "url": "https://open.spotify.com/album/5QhSoysXYsOllxEnA7qXio"
-      },
-      "artists": [
-        {
-          "name": "Joris Voorn",
-          "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
-        },
-        {
-          "name": "Roddy Lima",
-          "url": "https://open.spotify.com/artist/0Bg1joLOL52mJS0kf0pIDx"
-        },
-        {
-          "name": "Taylr Renee",
-          "url": "https://open.spotify.com/artist/27feHJH3VKyk8FgOndiWU8"
-        }
-      ],
-      "duration_ms": 153230,
-      "name": "Machine",
-      "url": "https://open.spotify.com/track/6SkahbG67GrZCRqq0K3tRZ"
     },
     {
       "added_at": "2026-05-22 04:01:42",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2026-05-22 04:01:42",
       "album": {
-        "name": "SYNCHRONICITY",
-        "url": "https://open.spotify.com/album/5epFPEGNPEK9eaDSSZ9qjX"
-      },
-      "artists": [
-        {
-          "name": "Aaron Hibell",
-          "url": "https://open.spotify.com/artist/6KJPsGYJN54GllYOKTleaj"
-        }
-      ],
-      "duration_ms": 257641,
-      "name": "million angels",
-      "url": "https://open.spotify.com/track/5A19V4mQ66x8JTz6WSqW5x"
-    },
-    {
-      "added_at": "2026-05-22 04:01:42",
-      "album": {
         "name": "Cheating Heart",
         "url": "https://open.spotify.com/album/271Fs3TKtlAL9d7H5OMrtn"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 220952,
       "name": "Cheating Heart",
       "url": "https://open.spotify.com/track/3PxsFDOgkVFphkop92aeXs"
+    },
+    {
+      "added_at": "2026-05-22 04:01:42",
+      "album": {
+        "name": "SYNCHRONICITY",
+        "url": "https://open.spotify.com/album/5epFPEGNPEK9eaDSSZ9qjX"
+      },
+      "artists": [
+        {
+          "name": "Aaron Hibell",
+          "url": "https://open.spotify.com/artist/6KJPsGYJN54GllYOKTleaj"
+        }
+      ],
+      "duration_ms": 257641,
+      "name": "million angels",
+      "url": "https://open.spotify.com/track/5A19V4mQ66x8JTz6WSqW5x"
     },
     {
       "added_at": "2026-05-22 04:01:42",
@@ -1843,26 +1843,6 @@
     {
       "added_at": "2026-05-22 04:01:42",
       "album": {
-        "name": "First Love",
-        "url": "https://open.spotify.com/album/2wjn9mkCYKbfLzqPOGk9nP"
-      },
-      "artists": [
-        {
-          "name": "Audien",
-          "url": "https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE"
-        },
-        {
-          "name": "Skylar Grey",
-          "url": "https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Make Me Forget",
-      "url": "https://open.spotify.com/track/4S0SLH2oXje7v2C5s0u4NC"
-    },
-    {
-      "added_at": "2026-05-22 04:01:42",
-      "album": {
         "name": "Attraction (Marsh's Mix)",
         "url": "https://open.spotify.com/album/1DOvj0TbwyTUTlKzZJD18w"
       },
@@ -1879,6 +1859,26 @@
       "duration_ms": 285797,
       "name": "Attraction - Marsh's Mix",
       "url": "https://open.spotify.com/track/0lqQP09YJFxYPd5M0AUTJc"
+    },
+    {
+      "added_at": "2026-05-22 04:01:42",
+      "album": {
+        "name": "First Love",
+        "url": "https://open.spotify.com/album/2wjn9mkCYKbfLzqPOGk9nP"
+      },
+      "artists": [
+        {
+          "name": "Audien",
+          "url": "https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE"
+        },
+        {
+          "name": "Skylar Grey",
+          "url": "https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Make Me Forget",
+      "url": "https://open.spotify.com/track/4S0SLH2oXje7v2C5s0u4NC"
     },
     {
       "added_at": "2026-05-22 04:01:42",
@@ -1939,6 +1939,26 @@
     {
       "added_at": "2026-05-22 04:01:42",
       "album": {
+        "name": "Drop That Beat",
+        "url": "https://open.spotify.com/album/5HSSnZBsoHxq1Ch7LH9niU"
+      },
+      "artists": [
+        {
+          "name": "Mosimann",
+          "url": "https://open.spotify.com/artist/7sAqpkrQBaOkddsv1Tz1XK"
+        },
+        {
+          "name": "Ixxel",
+          "url": "https://open.spotify.com/artist/4FuPIvoA4iAe0sVoEfXhal"
+        }
+      ],
+      "duration_ms": 208915,
+      "name": "Drop That Beat",
+      "url": "https://open.spotify.com/track/1zdpuot7uYIIPUAqKUcMap"
+    },
+    {
+      "added_at": "2026-05-22 04:01:42",
+      "album": {
         "name": "Now We Are Free (B Jones Remix)",
         "url": "https://open.spotify.com/album/57f75W90HKQrPNKXLkU4kf"
       },
@@ -1959,26 +1979,6 @@
       "duration_ms": 210490,
       "name": "Now We Are Free - B Jones Remix",
       "url": "https://open.spotify.com/track/1J8k92DuKPAmJEOfKmCTYQ"
-    },
-    {
-      "added_at": "2026-05-22 04:01:42",
-      "album": {
-        "name": "Drop That Beat",
-        "url": "https://open.spotify.com/album/5HSSnZBsoHxq1Ch7LH9niU"
-      },
-      "artists": [
-        {
-          "name": "Mosimann",
-          "url": "https://open.spotify.com/artist/7sAqpkrQBaOkddsv1Tz1XK"
-        },
-        {
-          "name": "Ixxel",
-          "url": "https://open.spotify.com/artist/4FuPIvoA4iAe0sVoEfXhal"
-        }
-      ],
-      "duration_ms": 208915,
-      "name": "Drop That Beat",
-      "url": "https://open.spotify.com/track/1zdpuot7uYIIPUAqKUcMap"
     },
     {
       "added_at": "2026-05-22 04:01:42",

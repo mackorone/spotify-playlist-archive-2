@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdtUil6LVy3L.md) - [plain]
 
 > Cozy Christmas jazz tunes for your shopping, wrapping, cooking, studying or relaxing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,039 likes - 80 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,037 likes - 80 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdtUil6LVy3L.md) - [plain]
 | 3 | [Silent Night](https://open.spotify.com/track/25VBSxpZDaYFif7pYVpUdO) | [Thames Quartet](https://open.spotify.com/artist/1R7RKpGGSeqK8pSBK79w7T) | [Silent Night](https://open.spotify.com/album/103crj7lihLZ9eBeWQxUUT) | 3:31 |
 | 4 | [Christmas Time](https://open.spotify.com/track/3Cs5m2rS0UnYx4UWppPLP8) | [Dan Evans\-Parker](https://open.spotify.com/artist/4OSxWbYWRbUZzmkKS6PRM4) | [Christmas Time](https://open.spotify.com/album/4O0xBHOwwopsTrx6Jo3MRt) | 2:02 |
 | 5 | [Christmas Time Is Here](https://open.spotify.com/track/35OqFuNbclT3cFT92fYGTH) | [Dennis Riley\-Jones](https://open.spotify.com/artist/5x35NpbnjiEoY5sntHQLgr) | [Christmas Time Is Here](https://open.spotify.com/album/0XMkRH1T6WidEsdE7VuQ4S) | 2:46 |
-| 6 | [Christmas Serenade](https://open.spotify.com/track/4Jd9637OEC5AtH3JEXqS16) | [Eternal Time Trio](https://open.spotify.com/artist/7Db24rMZl5sv7EQL5CP988) | [Christmas Serenade](https://open.spotify.com/album/5HNnuo7hod2fRuiqpL7M3b) | 3:09 |
-| 7 | [Here Comes Santa Claus](https://open.spotify.com/track/5J47ZMg53bfHMH1xChF7Go) | [Nordic Light Trio](https://open.spotify.com/artist/2BcQKRbEFJJaMcad1CRZ35) | [Here Comes Santa Claus](https://open.spotify.com/album/6ENVnAPjnAitIUGlyS72Jj) | 2:20 |
+| 6 | [Here Comes Santa Claus](https://open.spotify.com/track/5J47ZMg53bfHMH1xChF7Go) | [Nordic Light Trio](https://open.spotify.com/artist/2BcQKRbEFJJaMcad1CRZ35) | [Here Comes Santa Claus](https://open.spotify.com/album/6ENVnAPjnAitIUGlyS72Jj) | 2:20 |
+| 7 | [Christmas Serenade](https://open.spotify.com/track/4Jd9637OEC5AtH3JEXqS16) | [Eternal Time Trio](https://open.spotify.com/artist/7Db24rMZl5sv7EQL5CP988) | [Christmas Serenade](https://open.spotify.com/album/5HNnuo7hod2fRuiqpL7M3b) | 3:09 |
 | 8 | [O Come, All Ye Faithful](https://open.spotify.com/track/4dCXTJhIjUlSMPwIFGeZlt) | [Grayville Trio](https://open.spotify.com/artist/6ll13Y20dnndy8mAuF9tgk) | [O Come, All Ye Faithful](https://open.spotify.com/album/1UsbNMO5iRcpE0ByR3iZfA) | 2:57 |
 | 9 | [Somewhere In My Memory](https://open.spotify.com/track/2okeg8ZIf25wcY5QGCjZAz) | [Ron Bladworth](https://open.spotify.com/artist/0BqBNOQfrBTClJMq6n03Mf) | [Somewhere In My Memory](https://open.spotify.com/album/3xVrlYjcB3OKVvfdvzMbCX) | 3:22 |
 | 10 | [In the Bleak Midwinter](https://open.spotify.com/track/5QCub19WJvIa3TDtJaHl8I) | [Charlie James\-Walker](https://open.spotify.com/artist/7apm9TJQ66v5ykLahf9B3U) | [I Saw Three Ships](https://open.spotify.com/album/72Eg5ywjro4gFFqgG8ewqS) | 2:27 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdtUil6LVy3L.md) - [plain]
 | 65 | [O Holy Night](https://open.spotify.com/track/2RCvNuag0gdN0lmywnVxTu) | [Steve Luke & Holloway](https://open.spotify.com/artist/4rK2sefIZVrvpsz6MoXKvY) | [O Holy Night](https://open.spotify.com/album/2H8X72tUBjkUEn97HGzjx8) | 3:58 |
 | 66 | [The Ultimate Gift](https://open.spotify.com/track/1VhZ2wkxATCvH9lwOHsgC0) | [Christopher Colman](https://open.spotify.com/artist/1UxRQ4Luzf0P1b6zFjXk7N) | [Christmas Mood](https://open.spotify.com/album/1prCYFqQV04mzRptYLm1pm) | 3:26 |
 | 67 | [Joy to the World](https://open.spotify.com/track/5xKtM3Y9NrT5VeoVxrAerk) | [Tom Stills Quartet](https://open.spotify.com/artist/2AE39jS64KnonFYcLHAUv0) | [Jingle Bells](https://open.spotify.com/album/5QiRNuqANTMFeKdznWLy7o) | 1:28 |
-| 68 | [Holly Jolly Christmas](https://open.spotify.com/track/0quJINxC2EJafaaAFYA2sE) | [Mauro Meira](https://open.spotify.com/artist/5P3e6ZdtW6wdkTG7Fu7WBr) | [Holly Jolly Christmas](https://open.spotify.com/album/0AdbsAnET4JV9zsd9LTHDd) | 2:03 |
-| 69 | [Here We Come A\-Caroling](https://open.spotify.com/track/6dAElJFsKJmqRrqaHYoJfg) | [Goblin Quartet](https://open.spotify.com/artist/0ceEvbf4gmN9my4kriQVfm) | [Here We Come A\-Caroling](https://open.spotify.com/album/3egzz4FGBjVceoI4hO89BI) | 2:23 |
+| 68 | [Here We Come A\-Caroling](https://open.spotify.com/track/6dAElJFsKJmqRrqaHYoJfg) | [Goblin Quartet](https://open.spotify.com/artist/0ceEvbf4gmN9my4kriQVfm) | [Here We Come A\-Caroling](https://open.spotify.com/album/3egzz4FGBjVceoI4hO89BI) | 2:23 |
+| 69 | [Holly Jolly Christmas](https://open.spotify.com/track/0quJINxC2EJafaaAFYA2sE) | [Mauro Meira](https://open.spotify.com/artist/5P3e6ZdtW6wdkTG7Fu7WBr) | [Holly Jolly Christmas](https://open.spotify.com/album/0AdbsAnET4JV9zsd9LTHDd) | 2:03 |
 | 70 | [Candlelit Within](https://open.spotify.com/track/4KzPfpoiBHHOX8DYZydShl) | [Joseph Cole](https://open.spotify.com/artist/1g058tnDJO8IRJH1ymkz7l) | [Candlelit Within](https://open.spotify.com/album/3nKPaFrNuWs3go1l4WFS4u) | 2:36 |
 | 71 | [Where Are You Christmas](https://open.spotify.com/track/0EuP5frP5f6YrzA9J0sJ6F) | [Swinging Renegades](https://open.spotify.com/artist/2Cbjo8F8AQ3ZZEJwmxlD8k) | [Where Are You Christmas](https://open.spotify.com/album/7MkJv5yyWK1lBjaLlODknj) | 3:30 |
 | 72 | [O Little Town Of Bethlehem](https://open.spotify.com/track/1kmTkjdISuKcmP5NTop76j) | [Jason Starman](https://open.spotify.com/artist/52a7FDR4OUPloosqc20P3K) | [O Little Town Of Bethlehem](https://open.spotify.com/album/5ATgjzS28kfGc1mEb7woSb) | 2:01 |

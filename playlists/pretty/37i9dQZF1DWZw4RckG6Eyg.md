@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4RckG6Eyg.md) - [plain]
 
 > All the indie gems from 2025 that we can't get enough of\. Cover: she's green
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,311 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,327 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4RckG6Eyg.md) - [plain]
 | 58 | [Sibeeria](https://open.spotify.com/track/7f7hbdmYKry7GJHLLw0my9) | [doggone](https://open.spotify.com/artist/2VNWt6p905PprUPc78Mfzt) | [Sibeeria](https://open.spotify.com/album/16oynJh4jhy9XX1G2963zT) | 2:51 |
 | 59 | [Two Step](https://open.spotify.com/track/5GfjnLf8aMzfr7VuFiIB0H) | [DERBY](https://open.spotify.com/artist/5WFUn8WTVNDiOHZCEzxIQZ) | [Slugger](https://open.spotify.com/album/1QZJzByKliJB2xyhgrYk4j) | 2:52 |
 | 60 | [Groupie](https://open.spotify.com/track/6H7CJfDODbdbwcCO3E5mCM) | [Leonie Biney](https://open.spotify.com/artist/4fG5iQ1bDCtgOmhbVNWilq) | [Groupie](https://open.spotify.com/album/2NMqz2mYpb0UkszvWhPKwV) | 2:52 |
-| 61 | [Hotel](https://open.spotify.com/track/6GidQ1dZ3fn05tTDHu47In) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Alē](https://open.spotify.com/album/7LnzOfYsMn2euc6xuZoQup) | 2:27 |
-| 62 | [See You Around](https://open.spotify.com/track/0i0g60BEOSriL0mJJu7N3S) | [Truthpaste](https://open.spotify.com/artist/1jX7jSANud3GSSMfs41KPs) | [See You Around](https://open.spotify.com/album/0FiO5yMTGOmBNJfbyIgIAf) | 4:02 |
+| 61 | [See You Around](https://open.spotify.com/track/0i0g60BEOSriL0mJJu7N3S) | [Truthpaste](https://open.spotify.com/artist/1jX7jSANud3GSSMfs41KPs) | [See You Around](https://open.spotify.com/album/0FiO5yMTGOmBNJfbyIgIAf) | 4:02 |
+| 62 | [Hotel](https://open.spotify.com/track/6GidQ1dZ3fn05tTDHu47In) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Alē](https://open.spotify.com/album/7LnzOfYsMn2euc6xuZoQup) | 2:27 |
 | 63 | [GUSTO](https://open.spotify.com/track/3DzgoqqPwtCxvyqKCj9hq7) | [Boko Yout](https://open.spotify.com/artist/4WRA6GylKtbbRMUugHQuxP) | [GUSTO](https://open.spotify.com/album/6nBSHPBq1iqXBjeQ4hVCPO) | 2:21 |
 | 64 | [Don't Fall Asleep](https://open.spotify.com/track/4zuLm87ZlSm7QUGjzCy49j) | [Jacob Alon](https://open.spotify.com/artist/6wef18QJfuh9f0C4v3TEVH) | [In Limerence](https://open.spotify.com/album/0G19nfof63Mn9Se0ermJvi) | 4:29 |
 | 65 | [Doesn't Really Matter](https://open.spotify.com/track/4HfN7246HT9BiXgU0d5HLl) | [Car Culture](https://open.spotify.com/artist/6MIVBVpCNZFEBbzZ0RTTc4), [Physical Therapy](https://open.spotify.com/artist/4HXE6NXjfAUDX8TXyoIfuO), [Squirrel Flower](https://open.spotify.com/artist/7bI1v9NGBBhq8iGfytctni) | [Rest Here](https://open.spotify.com/album/0ZsH4uGGcDVSGUgvKGjIJL) | 4:29 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4RckG6Eyg.md) - [plain]
 | 69 | [It's Only You](https://open.spotify.com/track/4UxJfZyHENxiSp60UzTGLW) | [Prewn](https://open.spotify.com/artist/1Sm5PqM25CcIBtKSvZz9iS) | [System](https://open.spotify.com/album/4aweXXTsOD2Jx6XMGfLfru) | 3:16 |
 | 70 | [my most saddest song](https://open.spotify.com/track/6e2UYsd0KXfkcM34cku4Od) | [girlsweetvoiced](https://open.spotify.com/artist/5pQD8yR8sjmxwgZfLnZzmT) | [my most saddest song](https://open.spotify.com/album/1qA8wi6ghcJzanpAaz2VUj) | 2:10 |
 | 71 | [This Is Real](https://open.spotify.com/track/4LYXtoiuM9xEmxklVvQnLl) | [feeble little horse](https://open.spotify.com/artist/2GJa7lPCjAB1rKXptXrfy8) | [This Is Real](https://open.spotify.com/album/0VNjjHXqRFJ9NTqbmPT9pJ) | 3:07 |
-| 72 | [Pale Song](https://open.spotify.com/track/5NbilllIdF8lp4FmdX7OF8) | [Dove Ellis](https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9) | [Pale Song / Love Is](https://open.spotify.com/album/1G6shFmSgbuQ7Gz3aD4LRZ) | 2:45 |
-| 73 | [I Want It All](https://open.spotify.com/track/711qQxgXzTRc7UzXBG8MHe) | [Ullah](https://open.spotify.com/artist/6DJbA69u1iLhG6s8H9tVqP) | [I Want It All](https://open.spotify.com/album/3RJmsUsvKZyneGHeZPOYqg) | 3:36 |
+| 72 | [I Want It All](https://open.spotify.com/track/711qQxgXzTRc7UzXBG8MHe) | [Ullah](https://open.spotify.com/artist/6DJbA69u1iLhG6s8H9tVqP) | [I Want It All](https://open.spotify.com/album/3RJmsUsvKZyneGHeZPOYqg) | 3:36 |
+| 73 | [Pale Song](https://open.spotify.com/track/5NbilllIdF8lp4FmdX7OF8) | [Dove Ellis](https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9) | [Pale Song / Love Is](https://open.spotify.com/album/1G6shFmSgbuQ7Gz3aD4LRZ) | 2:45 |
 | 74 | [Homerun 2021](https://open.spotify.com/track/4JZSfAfaOHxDOqVo76l2KL) | [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ) | [Homerun 2021](https://open.spotify.com/album/3eso9JkXxZyMBrjzUbsBxR) | 3:21 |
 | 75 | [Skins](https://open.spotify.com/track/5munQvyxlq8hZNvTIrKoQT) | [The Orchestra \(For Now\)](https://open.spotify.com/artist/4M1DlOtwciPLmjRWBWOpFG) | [Skins](https://open.spotify.com/album/2mXZjNoSOJ9422Gwvmh7Wu) | 4:20 |
 | 76 | [So Sweet & Willing](https://open.spotify.com/track/2XIT9pYAiTCawCmspbwhrh) | [Malibu](https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B) | [Vanities](https://open.spotify.com/album/7ePZ3EZLrbIXyms6fc9hJd) | 3:21 |
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4RckG6Eyg.md) - [plain]
 | 82 | [tonight](https://open.spotify.com/track/4qi16r93Cx4KnGcwwVD8iZ) | [nate sib](https://open.spotify.com/artist/4TNu2ZIE566yKwEhOT8eTv) | [for us](https://open.spotify.com/album/0dLV7pFGKpSsJBMQr0FAjf) | 1:45 |
 | 83 | [Stone Femmes](https://open.spotify.com/track/7tQZcX1IDSgJcs9Dt92VzD) | [Ydegirl](https://open.spotify.com/artist/3YAUbceL2MyJfajlikdn1V) | [Stone Femmes](https://open.spotify.com/album/2byXC960vYk4iRRxL9FSBc) | 2:59 |
 | 84 | [Preacher](https://open.spotify.com/track/4PiOcOwysCeODx3d5oOHTK) | [Local the Neighbour](https://open.spotify.com/artist/1sxWrNyQmTVxjoc7bohhu5) | [Preacher](https://open.spotify.com/album/44zFgUMiKVZ4OQgSlFR0ew) | 2:54 |
-| 85 | [Pieces Of Yours](https://open.spotify.com/track/1LM1iNC8rMf1VrdttDLvp7) | [Mackeeper](https://open.spotify.com/artist/22NwVn8gHhq8eeWhZXgjOX) | [Pieces Of Yours](https://open.spotify.com/album/1crHdU1F0JTU1pHMB5R5ve) | 1:50 |
-| 86 | [Images of Love](https://open.spotify.com/track/4Iyni4uugM3tRXvo2Xuzwt) | [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3) | [Holy Water](https://open.spotify.com/album/3PxjhJ8Lj3YE2PodJ1BVIa) | 3:53 |
+| 85 | [Images of Love](https://open.spotify.com/track/4Iyni4uugM3tRXvo2Xuzwt) | [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3) | [Holy Water](https://open.spotify.com/album/3PxjhJ8Lj3YE2PodJ1BVIa) | 3:53 |
+| 86 | [Pieces Of Yours](https://open.spotify.com/track/1LM1iNC8rMf1VrdttDLvp7) | [Mackeeper](https://open.spotify.com/artist/22NwVn8gHhq8eeWhZXgjOX) | [Pieces Of Yours](https://open.spotify.com/album/1crHdU1F0JTU1pHMB5R5ve) | 1:50 |
 | 87 | [Pharmacy](https://open.spotify.com/track/5dAM0dvquAo2Oha9i1J8jb) | [Deer park](https://open.spotify.com/artist/6Lq0JPdh83AUSeMfuMPCjy), [Ivy Knight](https://open.spotify.com/artist/2k3Q5efL6SiHfAsGqdXk4z) | [Terra Infirma](https://open.spotify.com/album/25J99oRYyPzoghasxfHKGp) | 3:18 |
 | 88 | [Door](https://open.spotify.com/track/6SqYRVpl5gT4WZyuLBCsgV) | [Rocco](https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq) | [Door](https://open.spotify.com/album/7sHF2nzDA9vmRFSs0x9kMU) | 3:17 |
 | 89 | [POOR CHOICES](https://open.spotify.com/track/5hLmbpWtuvhkzCosigqOHa) | [skuzland](https://open.spotify.com/artist/5ns0Xn1DwaUW1O0EazjHnp) | [POOR CHOICES](https://open.spotify.com/album/7i6ANs380kdGplpLHBuxBE) | 3:24 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4RckG6Eyg.md) - [plain]
 | 97 | [Infinite](https://open.spotify.com/track/2DiCZQljCbMyty6dYhIMuL) | [The Man The Myth The Meatslab](https://open.spotify.com/artist/3uhjejTsZkmlshdJwNP35x) | [Infinite](https://open.spotify.com/album/4WhwCj945Sb7bg2oomFbV7) | 3:16 |
 | 98 | [Cat & Mouse](https://open.spotify.com/track/5BY2y6OduBlcXbgCGOwPF5) | [Andr](https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK) | [Cat & Mouse](https://open.spotify.com/album/5zvOK1FZehYyeXNWOm68BO) | 3:22 |
 | 99 | [The Feast](https://open.spotify.com/track/3zX3qdlhBdjSs0uE1mST8V) | [Mary Middlefield](https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs) | [The Feast](https://open.spotify.com/album/0eNHN1wdo7BA0kP0a2P7Gu) | 5:02 |
-| 100 | [Dare To Fall In Love](https://open.spotify.com/track/6wK00cLmk8GOgJOgMusTeu) | [Phantastic Ferniture](https://open.spotify.com/artist/6uHxXCSJUP50EgddL6eWNC) | [Change My Mind / Dare To Fall In Love](https://open.spotify.com/album/7bb6XYtPuE2YE86EwswEOS) | 2:17 |
+| 100 | [Bloom feat\. KIKI](https://open.spotify.com/track/6BsLjqplB626oHZbQvSndr) | [Ovall](https://open.spotify.com/artist/5fajxqVLxJxAzMvZn0AGIv), [KIKI](https://open.spotify.com/artist/6MG7fjH9YBryqLT03MnwQM) | [Silent Storm](https://open.spotify.com/album/3DzHNZiuvnAX0TK8uAc3Os) | 3:26 |
 
 Snapshot ID: `AAAAACKzi3noKszXq+BbwYBIOqjMf/42`

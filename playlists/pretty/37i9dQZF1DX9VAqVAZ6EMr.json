@@ -1,6 +1,6 @@
 {
   "description": "Os maiores hits do pop dos \u00faltimos tempos est\u00e3o reunidos nesta playlist! Foto: Shakira\n",
-  "num_followers": 442306,
+  "num_followers": 442438,
   "original_name": "Hinos Pop",
   "owner": {
     "name": "Spotify",
@@ -299,6 +299,26 @@
     {
       "added_at": "2025-05-01 20:16:57",
       "album": {
+        "name": "Love?",
+        "url": "https://open.spotify.com/album/3sysiYphqNRQw7VKLCg1yE"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        }
+      ],
+      "duration_ms": 284866,
+      "name": "On The Floor",
+      "url": "https://open.spotify.com/track/3C0nOe05EIt1390bVABLyN"
+    },
+    {
+      "added_at": "2025-05-01 20:16:57",
+      "album": {
         "name": "Evolve",
         "url": "https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU"
       },
@@ -327,26 +347,6 @@
       "duration_ms": 211066,
       "name": "...Baby One More Time",
       "url": "https://open.spotify.com/track/3MjUtNVVq3C8Fn0MP3zhXa"
-    },
-    {
-      "added_at": "2025-05-01 20:16:57",
-      "album": {
-        "name": "Love?",
-        "url": "https://open.spotify.com/album/3sysiYphqNRQw7VKLCg1yE"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
-        },
-        {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
-        }
-      ],
-      "duration_ms": 284866,
-      "name": "On The Floor",
-      "url": "https://open.spotify.com/track/3C0nOe05EIt1390bVABLyN"
     },
     {
       "added_at": "2025-05-01 20:16:57",
@@ -851,6 +851,22 @@
     {
       "added_at": "2025-05-01 20:16:57",
       "album": {
+        "name": "Fever",
+        "url": "https://open.spotify.com/album/4WzTXHp8bVKkKNu3UQ2Fqu"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 230640,
+      "name": "Can't Get You out of My Head",
+      "url": "https://open.spotify.com/track/3E7ZwUMJFqpsDOJzEkBrQ7"
+    },
+    {
+      "added_at": "2025-05-01 20:16:57",
+      "album": {
         "name": "Doo-Wops & Hooligans",
         "url": "https://open.spotify.com/album/6J84szYCnMfzEcvIcfWMFL"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 221366,
       "name": "Wrecking Ball",
       "url": "https://open.spotify.com/track/2vwlzO0Qp8kfEtzTsCXfyE"
-    },
-    {
-      "added_at": "2025-05-01 20:16:57",
-      "album": {
-        "name": "Fever",
-        "url": "https://open.spotify.com/album/4WzTXHp8bVKkKNu3UQ2Fqu"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 230640,
-      "name": "Can't Get You out of My Head",
-      "url": "https://open.spotify.com/track/3E7ZwUMJFqpsDOJzEkBrQ7"
     },
     {
       "added_at": "2025-05-01 20:16:57",

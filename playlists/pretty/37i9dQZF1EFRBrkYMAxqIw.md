@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBrkYMAxqIw.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6UztFn6QlpVV2mxivfMFol">Hannah Wilson</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 186 likes - 142 songs - 7 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 185 likes - 142 songs - 7 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBrkYMAxqIw.md) - [plain]
 | 74 | [Swimming In The Sky](https://open.spotify.com/track/3xZyOAfKRK2LTPgrZY8U76) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1) | [Swimming In The Sky](https://open.spotify.com/album/6t6EpphDwNwRTLpDMT22t5) | 3:48 |
 | 75 | [Late Nights](https://open.spotify.com/track/3PyGywdOUEcgxdqEFdNhLB) | [TCTS](https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io), [Tough Love](https://open.spotify.com/artist/16KSSLMXOdKQ2MHt9bOHTG), [Saint Wilder](https://open.spotify.com/artist/7egpYmPWaTX6xTFbZiAgmD) | [Late Nights](https://open.spotify.com/album/1S1c90JiNTVoO2VDPzhrhB) | 3:12 |
 | 76 | [Stay With Me](https://open.spotify.com/track/6PlJmtSZG9AE1asoYt2BXu) | [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht), [Darla Jade](https://open.spotify.com/artist/615ZycClQL8KQ8qzZiuP8T) | [Stay With Me](https://open.spotify.com/album/0bsw6pMyquYTDMVO4BjV4e) | 3:21 |
-| 77 | [Bubblegum](https://open.spotify.com/track/0u93AbXE2aa27pcNTERZN7) | [Djamila](https://open.spotify.com/artist/2Dh0kFL1Dosd9G17HwrkKc) | [Bubblegum](https://open.spotify.com/album/7AJv9yvZ0DFeVYphAsrxyi) | 3:20 |
-| 78 | [Sewn](https://open.spotify.com/track/5HK5WzgL0w9KS8tqsyGcdM) | [Kidnap](https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT) | [Sewn](https://open.spotify.com/album/4r51uVlWZVOutNSvswb0NH) | 3:32 |
+| 77 | [Sewn](https://open.spotify.com/track/5HK5WzgL0w9KS8tqsyGcdM) | [Kidnap](https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT) | [Sewn](https://open.spotify.com/album/4r51uVlWZVOutNSvswb0NH) | 3:32 |
+| 78 | [Bubblegum](https://open.spotify.com/track/0u93AbXE2aa27pcNTERZN7) | [Djamila](https://open.spotify.com/artist/2Dh0kFL1Dosd9G17HwrkKc) | [Bubblegum](https://open.spotify.com/album/7AJv9yvZ0DFeVYphAsrxyi) | 3:20 |
 | 79 | [SIGN IT](https://open.spotify.com/track/0fXnyYPljuHzW3FRXAv9wP) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [BEAUTIFUL MADNESS](https://open.spotify.com/album/6T3WdeRv9rqMIlmnloB2Dv) | 3:09 |
 | 80 | [Run To You](https://open.spotify.com/track/0IDkpNa98T918RALnS3CbW) | [AVIRA](https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS), [Grace Ackerman](https://open.spotify.com/artist/78SfXT84Lde7FNt3MVBz1n) | [Run To You](https://open.spotify.com/album/1b6jVbfl9Cmdt0pj7Q2rgY) | 2:59 |
 | 81 | [Last One On My Mind \(Moto Blanco Remix\)](https://open.spotify.com/track/4e1cXIQQPQoCFriDFRRowA) | [Beverley Knight](https://open.spotify.com/artist/30AzZL0valZQ62OIQiFWvk), [Moto Blanco](https://open.spotify.com/artist/2faLHCwToqDd4C53QiWIKj) | [Last One On My Mind \(Moto Blanco Remix\)](https://open.spotify.com/album/7yD1DbXMwoMXFu9k0lnLCm) | 3:07 |
@@ -118,8 +118,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBrkYMAxqIw.md) - [plain]
 | 108 | [Not Now Kids](https://open.spotify.com/track/5QJbZk6ieUNlOiKXv4nHx5) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [It's Nothing](https://open.spotify.com/album/26IXcJnpviztnonKfhaXkF) | 3:04 |
 | 109 | [Up for Love \(with Camidoh\)](https://open.spotify.com/track/31y8tN8uY5KVp8Z6rUwoJg) | [Dayana](https://open.spotify.com/artist/5Vy6RSEJf7dqYyymV9T632), [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi) | [Up for Love \(with Camidoh\)](https://open.spotify.com/album/00G8A8CXRkg9PPTIHmrsIn) | 2:38 |
 | 110 | [Perfect People](https://open.spotify.com/track/6jN3D2VW4f7DQVNGLbmgsu) | [PBH & JACK](https://open.spotify.com/artist/5WzFz4sQSN1HgSZLmIgHBl), [Robin Grubert](https://open.spotify.com/artist/2iv63DstBtfPKPOq7vL7cS) | [Perfect People](https://open.spotify.com/album/5HLbNPO9y18zYws3ve0Bfr) | 3:29 |
-| 111 | [Start of Something](https://open.spotify.com/track/00Kg79l6oqxYjnJXCuzt48) | [Rachael O'Connor](https://open.spotify.com/artist/33b9NGd3gHIZbBfOwBMAHO) | [Start of Something](https://open.spotify.com/album/0QWwQEnegx6V4PuE98fvPX) | 2:47 |
-| 112 | [No Mercy](https://open.spotify.com/track/3WKaMWuVBDfb0fBXdpsZfY) | [Leblanc](https://open.spotify.com/artist/4M8rXGu8B5kwIAqDLrG5cb) | [No Mercy](https://open.spotify.com/album/2O5VnN5s1stWeAqnIGsDxV) | 2:56 |
+| 111 | [No Mercy](https://open.spotify.com/track/3WKaMWuVBDfb0fBXdpsZfY) | [Leblanc](https://open.spotify.com/artist/4M8rXGu8B5kwIAqDLrG5cb) | [No Mercy](https://open.spotify.com/album/2O5VnN5s1stWeAqnIGsDxV) | 2:56 |
+| 112 | [Start of Something](https://open.spotify.com/track/00Kg79l6oqxYjnJXCuzt48) | [Rachael O'Connor](https://open.spotify.com/artist/33b9NGd3gHIZbBfOwBMAHO) | [Start of Something](https://open.spotify.com/album/0QWwQEnegx6V4PuE98fvPX) | 2:47 |
 | 113 | [Give and Take](https://open.spotify.com/track/5d1DjzjzzCioNUDU8CJaey) | [Emily Burns](https://open.spotify.com/artist/6Gi8ZaXGx8MK79HwzXpuVZ) | [Die Happy](https://open.spotify.com/album/1A80UhpC8KIRVJWhLSkcdI) | 2:45 |
 | 114 | [Deathwish](https://open.spotify.com/track/5vOTkYL1V8SMLv2dqmi9uE) | [Amber Van Day](https://open.spotify.com/artist/6NFRBhq9SmNn1FAiRs9AEf) | [Deathwish](https://open.spotify.com/album/1IGNvQjs3pivPPPpsLpkBX) | 3:12 |
 | 115 | [40 Days & 40 Nights \(feat\. Olivia Sebastianelli\)](https://open.spotify.com/track/6jV1ordhBJJeEjCW04XJCx) | [Famba](https://open.spotify.com/artist/5hXPnS34O3Kq3O8dkaE9FM), [Olivia Sebastianelli](https://open.spotify.com/artist/0DCRUk25XIiRFiNtiuR8OR) | [40 Days & 40 Nights \(feat\. Olivia Sebastianelli\)](https://open.spotify.com/album/629FIvZBa2hJuEN3VB9zAl) | 2:33 |
@@ -151,4 +151,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBrkYMAxqIw.md) - [plain]
 | 141 | [Swimming Pool](https://open.spotify.com/track/5jOMjgcaamUtATeo4r8vrv) | [Hawkon](https://open.spotify.com/artist/6klAmp0IDtvZFh2HOG7FUi) | [Vulnerability1000](https://open.spotify.com/album/24SHrr3mrVT3xPP9RZqt4y) | 2:56 |
 | 142 | [Unfold](https://open.spotify.com/track/7HYeMEo9wG6GNSxupp2U6M) | [Hawkon](https://open.spotify.com/artist/6klAmp0IDtvZFh2HOG7FUi) | [Vulnerability1000](https://open.spotify.com/album/24SHrr3mrVT3xPP9RZqt4y) | 2:18 |
 
-Snapshot ID: `AcSNXAAAAAAgEKYNsNnnUd8BkLbeiw7+`
+Snapshot ID: `AcSS/AAAAAC+229gKRzHaTw32uwVA/Kt`

@@ -657,6 +657,24 @@
     },
     {
       "album": {
+        "name": "Lullaby Versions of Maren Morris",
+        "url": "https://open.spotify.com/album/4cFGrpSd3gaieAIM0WiNjO"
+      },
+      "artists": [
+        {
+          "name": "The Cat and Owl",
+          "url": "https://open.spotify.com/artist/3gMxLPJN4ETgH10XwG37Wo"
+        }
+      ],
+      "date_added": "2026-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156898,
+      "name": "Cut",
+      "url": "https://open.spotify.com/track/0kquTeSKAQkZj14ND6eTJr"
+    },
+    {
+      "album": {
         "name": "Busyhead",
         "url": "https://open.spotify.com/album/3DNQrMjvVGiueVrj1qquJd"
       },

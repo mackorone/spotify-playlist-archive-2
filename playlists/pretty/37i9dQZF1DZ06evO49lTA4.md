@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO49lTA4.md) - [plain]
 
 > This is Luke Combs\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 929,736 likes - 43 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 929,875 likes - 44 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,9 +15,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO49lTA4.md) - [plain]
 | 5 | [Sleepless in a Hotel Room](https://open.spotify.com/track/2za9t2qpWyUpIhnJcwopPt) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Sleepless in a Hotel Room](https://open.spotify.com/album/4svTVbjxKUxzSUBI0HYvds) | 2:57 |
 | 6 | [Fast Car](https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Gettin' Old](https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw) | 4:25 |
 | 7 | [Forever After All](https://open.spotify.com/track/6IBcOGPsniK3Pso1wHIhew) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [What You See Ain't Always What You Get \(Deluxe Edition\)](https://open.spotify.com/album/25TJxI6ZH6XjT8geRQAFz5) | 3:52 |
-| 8 | [Rethink Some Things](https://open.spotify.com/track/5LNgnMLXaoG9KRkL47KlZu) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [The Way I Am](https://open.spotify.com/album/0QM1NGOJHTmglnHriAsYzQ) | 2:45 |
-| 9 | [The Kind of Love We Make](https://open.spotify.com/track/48UKTR66uUOT9LaUvooTNx) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Growin' Up](https://open.spotify.com/album/1m9DVgV0kEBiVZ4ElhJEte) | 3:44 |
-| 10 | [Backup Plan \(feat\. Luke Combs\)](https://open.spotify.com/track/6BZaRf4Zh9Y07qnELLboGu) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Different Night Same Rodeo](https://open.spotify.com/album/2cPJrMHIIBkKarl6nxi11P) | 3:01 |
+| 8 | [The Kind of Love We Make](https://open.spotify.com/track/48UKTR66uUOT9LaUvooTNx) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Growin' Up](https://open.spotify.com/album/1m9DVgV0kEBiVZ4ElhJEte) | 3:44 |
+| 9 | [Backup Plan \(feat\. Luke Combs\)](https://open.spotify.com/track/6BZaRf4Zh9Y07qnELLboGu) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Different Night Same Rodeo](https://open.spotify.com/album/2cPJrMHIIBkKarl6nxi11P) | 3:01 |
+| 10 | [Rethink Some Things](https://open.spotify.com/track/5LNgnMLXaoG9KRkL47KlZu) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [The Way I Am](https://open.spotify.com/album/0QM1NGOJHTmglnHriAsYzQ) | 2:45 |
 | 11 | [Hurricane](https://open.spotify.com/track/6xHI9KjUjYT0FPtGO8Mxa1) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [This One's for You](https://open.spotify.com/album/1lhNch5NkOONvFhRPh8qaj) | 3:43 |
 | 12 | [Ordinary \(feat\. Luke Combs\) \- Live from Lollapalooza](https://open.spotify.com/track/544MbvxR6BADypONwJlZAp) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Ordinary \(feat\. Luke Combs\) \- Live from Lollapalooza](https://open.spotify.com/album/4BvfHYlT6FmsyneFr18aL4) | 3:25 |
 | 13 | [Beautiful Crazy](https://open.spotify.com/track/2rxQMGVafnNaRaXlRMWPde) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [This One's for You Too \(Deluxe Edition\)](https://open.spotify.com/album/53Oa5Bu0UTU8o8qCTaHKoz) | 3:13 |
@@ -51,5 +51,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO49lTA4.md) - [plain]
 | 41 | [WHY \(feat\. Luke Combs\)](https://open.spotify.com/track/4VDXj2X5I2fOQRN7tiztmq) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [FATHER FIGURE](https://open.spotify.com/album/5xKTTHKTTFyNxtOLGtznaR) | 2:57 |
 | 42 | [See Me Now](https://open.spotify.com/track/5WxQEQJtrOYzobMBTsdPBb) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Gettin' Old](https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw) | 4:05 |
 | 43 | [Brand New Man \- with Luke Combs](https://open.spotify.com/track/001UkMQHw4zXfFNdKpwXAF) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Reboot](https://open.spotify.com/album/0U3nI78LUpAwprraUf7vAS) | 3:11 |
+| 44 | [Can I Get an Outlaw](https://open.spotify.com/track/7vVsDu0gTg6oZtrKy7pXcW) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Can I Get an Outlaw](https://open.spotify.com/album/7ENhewQQ9Hp8mdEAyIsWvW) | 3:58 |
 
-Snapshot ID: `ag5LAAAAAAB2ELVesZQ5sS1cUXpGmr4w`
+Snapshot ID: `ag+cgAAAAAA5CpZaLN4kf2y6c8/0LZ77`

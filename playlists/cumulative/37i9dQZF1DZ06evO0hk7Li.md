@@ -4,7 +4,7 @@
 
 > This is Jacob Banks\. The essential tracks, all in one playlist.
 
-134 songs - 7 hr 26 min
+135 songs - 7 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Dear Simone](https://open.spotify.com/track/35YVOeHNe5vOOQMN5PwBuB) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [The Monologue](https://open.spotify.com/album/6qhVCev8FFYvmq2JebsSxL) | 4:54 | 2021-12-28 | 2022-09-20 |
 | [Devil That I Know](https://open.spotify.com/track/0HmdysB9yEb1EVWe7aNIGT) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [For My Friends](https://open.spotify.com/album/4B3jvFJWTYsVcLGoepXhX0) | 2:50 | 2021-12-28 |  |
 | [Diddy Bop \(x Louis The Child\)](https://open.spotify.com/track/2KZybiXVEQExXm2vtAcP8f) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV), [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0) | [Fifty Shades Freed \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4w0N1CaZwQ5RPIuawqlYyy) | 3:39 | 2021-12-28 |  |
+| [Easy Ain't Home](https://open.spotify.com/track/2aRkTVqf51JT2al8uWLo5h) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Limerence](https://open.spotify.com/album/2M9nuz1rCUiuVYdA25of8F) | 4:30 | 2026-05-24 |  |
 | [Every Age](https://open.spotify.com/track/3O0UhqrG43wI8EZb1TrEpk) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Every Age](https://open.spotify.com/album/3032DsFJNkwfossx6xG9wQ) | 2:10 | 2021-12-28 | 2024-09-03 |
 | [Feel](https://open.spotify.com/track/4g4Qv1Ya8Yw4lrjSt1LlBJ) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Dotr](https://open.spotify.com/album/4XyaObpQDL61LtLerqAeHx) | 3:39 | 2025-03-10 |  |
 | [Feel](https://open.spotify.com/track/5mMCnnycAkho18eZmZIDwi) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Feel](https://open.spotify.com/album/1xr54fLjHQSPjOF3MF6pEm) | 3:39 | 2024-05-26 | 2025-06-05 |
@@ -90,7 +91,7 @@
 | [Move Like Me](https://open.spotify.com/track/3Mm5uaqwKgZmevUVEBiytY) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Yonder: Book II](https://open.spotify.com/album/0glRKCnBK7HVqaaeu04vmA) | 1:47 | 2025-01-31 | 2025-08-04 |
 | [Move Like Me](https://open.spotify.com/track/6dCdOzsea9tGh7a14jl3wL) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Yonder](https://open.spotify.com/album/14MjVmY1arLhtuDYRfqISx) | 1:47 | 2025-08-04 | 2025-11-29 |
 | [Move with You](https://open.spotify.com/track/4VbvGwV24TbFIULF176HXF) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Move With You](https://open.spotify.com/album/7iS8UdbCE1VJSYqUBs5y5d) | 3:09 | 2021-12-28 | 2022-10-13 |
-| [My Day Will Come](https://open.spotify.com/track/4gbi2i68cvI8zPDGczoBro) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Limerence](https://open.spotify.com/album/2M9nuz1rCUiuVYdA25of8F) | 3:16 | 2026-04-13 |  |
+| [My Day Will Come](https://open.spotify.com/track/4gbi2i68cvI8zPDGczoBro) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Limerence](https://open.spotify.com/album/2M9nuz1rCUiuVYdA25of8F) | 3:16 | 2026-04-13 | 2026-05-24 |
 | [NI\*\*AS NEED JESUS](https://open.spotify.com/track/4UY0cvACvAfZryubsiNXTS) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV), [Ivory Nwigwe](https://open.spotify.com/artist/3rqdCc8vGRGq7RUwHRCOBJ) | [HOOD HYMNS](https://open.spotify.com/album/57JNHxlXjfkddcn7QWfnNA) | 1:51 | 2024-09-03 | 2025-01-31 |
 | [On My Soul](https://open.spotify.com/track/2xLrkO5wPNzl5cNjLoPeNW) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [On My Soul](https://open.spotify.com/album/1I5QGY6wFJp0LjgDvbfV87) | 2:40 | 2023-05-20 |  |
 | [Only Way Is Up](https://open.spotify.com/track/2CQQQfax1YLcMbU0V5oTuQ) | [Gaël Faye](https://open.spotify.com/artist/69irZ4R8OsrLHjr6VmMmMg), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Lundi Méchant](https://open.spotify.com/album/42QybsqCIxCc1H2SEskAiv) | 3:51 | 2021-12-28 |  |

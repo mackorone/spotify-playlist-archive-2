@@ -1,6 +1,6 @@
 {
   "description": "The hottest in hip-hop, R&B and Afrobeats. Cover: Burna Boy",
-  "num_followers": 10429,
+  "num_followers": 10430,
   "original_name": "Now Playing...",
   "owner": {
     "name": "Spotify",
@@ -575,6 +575,22 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
+        "name": "Pink Tape",
+        "url": "https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 192727,
+      "name": "Flooded The Face",
+      "url": "https://open.spotify.com/track/4daEMLSZCgZ2Mt7gNm2SRa"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
         "name": "Since I Have A Lover",
         "url": "https://open.spotify.com/album/4ixavb1zLBMERcEWfsy8oC"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 178333,
       "name": "Temporary (feat. Don Toliver)",
       "url": "https://open.spotify.com/track/0bTiLwSo2xmhA6BcCXTOkx"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "Pink Tape",
-        "url": "https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz"
-      },
-      "artists": [
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 192727,
-      "name": "Flooded The Face",
-      "url": "https://open.spotify.com/track/4daEMLSZCgZ2Mt7gNm2SRa"
     },
     {
       "added_at": "2023-07-28 04:00:00",

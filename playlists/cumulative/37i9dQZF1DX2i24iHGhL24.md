@@ -4,7 +4,7 @@
 
 > Reimagined pop covers of your favorite songs\.  Cover: Teddy Swims
 
-469 songs - 1 day 2 hr 58 min
+470 songs - 1 day 3 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [August \- Recorded At Electric Lady Studios](https://open.spotify.com/track/4c3YUioV69ajOtvgjYgIE4) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Live At Electric Lady](https://open.spotify.com/album/7vDxMTFqAcV8dqaieKLL9T) | 3:48 | 2022-12-29 | 2023-10-17 |
 | [Ayo Technology](https://open.spotify.com/track/3FZl7oNIPiYVfE59uVmPDU) | [Milow](https://open.spotify.com/artist/6mo0UbyIvIePdXNyLwQlk5) | [Born in the Eighties](https://open.spotify.com/album/6OtA1RszyuxoQfgq3aLhDX) | 3:33 | 2022-12-29 | 2024-04-19 |
 | [Ayo Technology](https://open.spotify.com/track/2TBwIEhkzVeMQ5bUlDaOlb) | [Milow](https://open.spotify.com/artist/6mo0UbyIvIePdXNyLwQlk5) | [Ayo Technology](https://open.spotify.com/album/3jhnDunWTYL0S63Bj1k5Lg) | 3:38 | 2024-04-12 |  |
+| [Baby Now That I Found You](https://open.spotify.com/track/3pnVh7sYDBQ9D2tkKAWnhs) | [Ella Bright](https://open.spotify.com/artist/7bzIKcaSnlUfRLJ9m00XZr) | [Off Campus: The Mixtape](https://open.spotify.com/album/5CJqPFrc9hPete87L5DFSN) | 2:11 | 2026-05-23 |  |
 | [Baby One More Time \- Recorded at Spotify Studios New York City](https://open.spotify.com/track/4mJDfMcT7odIUjWlb2WO4L) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Spotify Singles](https://open.spotify.com/album/14mR6XKPmsxzvOYCkqubJF) | 2:57 | 2021-12-17 |  |
 | [Baby, I Love Your Way](https://open.spotify.com/track/0ccN3wJBt8r5x6Mi4TOF5E) | [HRVY](https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN) | [COVERS](https://open.spotify.com/album/3WS5vftB6hZY5YphrmMiWh) | 3:02 | 2022-10-28 | 2022-11-14 |
 | [Baby, I Love Your Way](https://open.spotify.com/track/3PIr6sxC8KCzy6s7ARbizI) | [HRVY](https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN) | [Lovers on a Trip](https://open.spotify.com/album/3pA1FWte5URT8Vh1eKStV2) | 3:02 | 2022-07-29 | 2022-08-01 |
@@ -130,7 +131,7 @@
 | [Despacito](https://open.spotify.com/track/4vxA3aI7l73i0Hi819OQhH) | [Madilyn Bailey](https://open.spotify.com/artist/0NxhAEPOSeCg6vypFr7yjU), [Leroy Sanchez](https://open.spotify.com/artist/1qwVM2JnEMXbKgvZESGsRn) | [Despacito](https://open.spotify.com/album/0B75OuY7kuQXfz7qF5r2l3) | 2:50 | 2022-03-25 | 2022-12-30 |
 | [Diamonds](https://open.spotify.com/track/5qizUaJepbFJ5qGZyuyQim) | [Josef Salvat](https://open.spotify.com/artist/64PJHZDQTPPVBCdwnv22Wz) | [In Your Prime \- EP](https://open.spotify.com/album/22XLHhWmIM8IuCFqpkpCHX) | 4:07 | 2022-03-25 | 2025-06-09 |
 | [Diamonds \- Acoustic](https://open.spotify.com/track/4RVmTDYYWR4xivKlLMjS0q) | [Amber Leigh Irish](https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05) | [Diamonds \(Acoustic\)](https://open.spotify.com/album/0OTkauhBKvLKa7r1Kue0bz) | 2:59 | 2021-12-17 | 2022-04-16 |
-| [Diet Pepsi \- Live from 2025 Las Culturistas Culture Awards](https://open.spotify.com/track/2LtosLi7dutfc3ZxFBEdAL) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Diet Pepsi \(Live from 2025 Las Culturistas Culture Awards\)](https://open.spotify.com/album/6lZqIyM1KoSFp9OH6AAkTq) | 3:14 | 2025-08-15 |  |
+| [Diet Pepsi \- Live from 2025 Las Culturistas Culture Awards](https://open.spotify.com/track/2LtosLi7dutfc3ZxFBEdAL) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Diet Pepsi \(Live from 2025 Las Culturistas Culture Awards\)](https://open.spotify.com/album/6lZqIyM1KoSFp9OH6AAkTq) | 3:14 | 2025-08-15 | 2026-05-24 |
 | [Digital Love](https://open.spotify.com/track/4zOyh7D39nvmacly6Wj0FT) | [Larkins](https://open.spotify.com/artist/6cCfC12LHtD5XIc1rLsm8Y) | [Digital Love](https://open.spotify.com/album/1Alro4P8exTMmn1skh1xO1) | 3:26 | 2021-12-17 | 2022-05-02 |
 | [Do I Wanna Know?](https://open.spotify.com/track/6OOdgnBjXKHCiq0K6pPeaE) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Do I Wanna Know?](https://open.spotify.com/album/5Jv3xQMjCqTcuCbKWvfzOR) | 3:52 | 2026-01-23 |  |
 | [Doin' Time](https://open.spotify.com/track/0Oqc0kKFsQ6MhFOLBNZIGX) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Norman Fucking Rockwell!](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) | 3:22 | 2022-12-29 |  |

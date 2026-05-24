@@ -1,6 +1,6 @@
 {
   "description": "the best of the deep end. cover: Saint\u00e9",
-  "num_followers": 109862,
+  "num_followers": 109851,
   "original_name": "lofi rap",
   "owner": {
     "name": "Spotify",
@@ -835,26 +835,6 @@
     {
       "added_at": "2025-10-10 12:01:08",
       "album": {
-        "name": "Is it too much? (Pray things change)",
-        "url": "https://open.spotify.com/album/06xcbKJiVjW94Jp8ZspScX"
-      },
-      "artists": [
-        {
-          "name": "G!ft",
-          "url": "https://open.spotify.com/artist/5dmyNQ4NmCkkV6Ilf9l7Xm"
-        },
-        {
-          "name": "Alex1",
-          "url": "https://open.spotify.com/artist/0HuF02Rw4Sw70eBAe4L5b4"
-        }
-      ],
-      "duration_ms": 171678,
-      "name": "Is it too much? (Pray things change)",
-      "url": "https://open.spotify.com/track/2cIzPODicoClfJEYKj8W6o"
-    },
-    {
-      "added_at": "2025-10-10 12:01:08",
-      "album": {
         "name": "duck duck goose",
         "url": "https://open.spotify.com/album/3EGJXUpFU5kTCodBBwe1TR"
       },
@@ -879,6 +859,26 @@
       "duration_ms": 192000,
       "name": "duck duck goose",
       "url": "https://open.spotify.com/track/1FnQSKasVdtcON8N4eGKFr"
+    },
+    {
+      "added_at": "2025-10-10 12:01:08",
+      "album": {
+        "name": "Is it too much? (Pray things change)",
+        "url": "https://open.spotify.com/album/06xcbKJiVjW94Jp8ZspScX"
+      },
+      "artists": [
+        {
+          "name": "G!ft",
+          "url": "https://open.spotify.com/artist/5dmyNQ4NmCkkV6Ilf9l7Xm"
+        },
+        {
+          "name": "Alex1",
+          "url": "https://open.spotify.com/artist/0HuF02Rw4Sw70eBAe4L5b4"
+        }
+      ],
+      "duration_ms": 171678,
+      "name": "Is it too much? (Pray things change)",
+      "url": "https://open.spotify.com/track/2cIzPODicoClfJEYKj8W6o"
     },
     {
       "added_at": "2025-10-10 12:01:08",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2025-10-10 12:01:08",
       "album": {
-        "name": "Lies",
-        "url": "https://open.spotify.com/album/7bI6MVn2einWQk8mvuKdVe"
-      },
-      "artists": [
-        {
-          "name": "AMB",
-          "url": "https://open.spotify.com/artist/75m92kcvwKBpXtBnqrJiB7"
-        }
-      ],
-      "duration_ms": 203964,
-      "name": "Lies",
-      "url": "https://open.spotify.com/track/0DZ2oAxxLtD76a5gxGj92k"
-    },
-    {
-      "added_at": "2025-10-10 12:01:08",
-      "album": {
         "name": "TENTEN",
         "url": "https://open.spotify.com/album/0W0I7u116tCjh2r92AyQFB"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 175774,
       "name": "TENTEN",
       "url": "https://open.spotify.com/track/2YvKOyPsGnAQaqwkw5efnM"
+    },
+    {
+      "added_at": "2025-10-10 12:01:08",
+      "album": {
+        "name": "Lies",
+        "url": "https://open.spotify.com/album/7bI6MVn2einWQk8mvuKdVe"
+      },
+      "artists": [
+        {
+          "name": "AMB",
+          "url": "https://open.spotify.com/artist/75m92kcvwKBpXtBnqrJiB7"
+        }
+      ],
+      "duration_ms": 203964,
+      "name": "Lies",
+      "url": "https://open.spotify.com/track/0DZ2oAxxLtD76a5gxGj92k"
     },
     {
       "added_at": "2025-10-10 12:01:08",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2025-10-10 12:01:08",
       "album": {
+        "name": "The Sunrise Project",
+        "url": "https://open.spotify.com/album/2IoZRvALz6CryCOaCPnR8q"
+      },
+      "artists": [
+        {
+          "name": "Songer",
+          "url": "https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd"
+        }
+      ],
+      "duration_ms": 194455,
+      "name": "Endlessly",
+      "url": "https://open.spotify.com/track/1a3n05oJgk0KiAmdQwbGVb"
+    },
+    {
+      "added_at": "2025-10-10 12:01:08",
+      "album": {
         "name": "Mad About Bars - S5-E8",
         "url": "https://open.spotify.com/album/0uVBlEvlqTYAK0axKwsgvd"
       },
@@ -1343,22 +1359,6 @@
       "duration_ms": 125995,
       "name": "Mad About Bars - S5-E8 Pt2",
       "url": "https://open.spotify.com/track/0m1822OsmlmD20BaTpaqDZ"
-    },
-    {
-      "added_at": "2025-10-10 12:01:08",
-      "album": {
-        "name": "The Sunrise Project",
-        "url": "https://open.spotify.com/album/2IoZRvALz6CryCOaCPnR8q"
-      },
-      "artists": [
-        {
-          "name": "Songer",
-          "url": "https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd"
-        }
-      ],
-      "duration_ms": 194455,
-      "name": "Endlessly",
-      "url": "https://open.spotify.com/track/1a3n05oJgk0KiAmdQwbGVb"
     },
     {
       "added_at": "2025-10-10 12:01:08",

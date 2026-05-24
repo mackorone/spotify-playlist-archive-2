@@ -1,6 +1,6 @@
 {
   "description": "pov: minhas favs / Foto: Olivia Rodrigo",
-  "num_followers": 1072217,
+  "num_followers": 1072192,
   "original_name": "pov",
   "owner": {
     "name": "Spotify",
@@ -195,22 +195,6 @@
     {
       "added_at": "2026-05-22 13:48:15",
       "album": {
-        "name": "Die On This Hill",
-        "url": "https://open.spotify.com/album/7GS4aKISJ2KgAm4aBhkzng"
-      },
-      "artists": [
-        {
-          "name": "SIENNA SPIRO",
-          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
-        }
-      ],
-      "duration_ms": 217008,
-      "name": "Die On This Hill",
-      "url": "https://open.spotify.com/track/2gYTC8DsplN3RNdpdBcCOQ"
-    },
-    {
-      "added_at": "2026-05-22 13:48:15",
-      "album": {
         "name": "You'll Be Alright, Kid (Chapter 1)",
         "url": "https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 186964,
       "name": "Ordinary",
       "url": "https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ"
+    },
+    {
+      "added_at": "2026-05-22 13:48:15",
+      "album": {
+        "name": "Die On This Hill",
+        "url": "https://open.spotify.com/album/7GS4aKISJ2KgAm4aBhkzng"
+      },
+      "artists": [
+        {
+          "name": "SIENNA SPIRO",
+          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
+        }
+      ],
+      "duration_ms": 217008,
+      "name": "Die On This Hill",
+      "url": "https://open.spotify.com/track/2gYTC8DsplN3RNdpdBcCOQ"
     },
     {
       "added_at": "2026-05-22 13:48:15",
@@ -399,22 +399,6 @@
     {
       "added_at": "2026-05-22 13:48:15",
       "album": {
-        "name": "The Life of a Showgirl",
-        "url": "https://open.spotify.com/album/1W57oNaAkGObOQKBTxg4e9"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 226073,
-      "name": "The Fate of Ophelia",
-      "url": "https://open.spotify.com/track/31TXxq8gfgYyrYClnYY48m"
-    },
-    {
-      "added_at": "2026-05-22 13:48:15",
-      "album": {
         "name": "FINE PLACE TO DIE",
         "url": "https://open.spotify.com/album/5BE6sXUzT8u1Dm02n1pN5r"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 187423,
       "name": "FINE PLACE TO DIE",
       "url": "https://open.spotify.com/track/2k4PvUBCu1mkNbXLXhvaBW"
+    },
+    {
+      "added_at": "2026-05-22 13:48:15",
+      "album": {
+        "name": "The Life of a Showgirl",
+        "url": "https://open.spotify.com/album/1W57oNaAkGObOQKBTxg4e9"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 226073,
+      "name": "The Fate of Ophelia",
+      "url": "https://open.spotify.com/track/31TXxq8gfgYyrYClnYY48m"
     },
     {
       "added_at": "2026-05-22 13:48:15",
@@ -479,6 +479,22 @@
     {
       "added_at": "2026-05-22 13:48:15",
       "album": {
+        "name": "Aperture",
+        "url": "https://open.spotify.com/album/0pLJCdOvfghIEinnPXIqIx"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 311733,
+      "name": "Aperture",
+      "url": "https://open.spotify.com/track/45Z3m6yazmAi4jZuW0tzW0"
+    },
+    {
+      "added_at": "2026-05-22 13:48:15",
+      "album": {
         "name": "The Life of a Showgirl",
         "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 241766,
       "name": "The Life of a Showgirl (feat. Sabrina Carpenter)",
       "url": "https://open.spotify.com/track/5eXgqtg3T8Av0m1FUaGHex"
-    },
-    {
-      "added_at": "2026-05-22 13:48:15",
-      "album": {
-        "name": "Aperture",
-        "url": "https://open.spotify.com/album/0pLJCdOvfghIEinnPXIqIx"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 311733,
-      "name": "Aperture",
-      "url": "https://open.spotify.com/track/45Z3m6yazmAi4jZuW0tzW0"
     },
     {
       "added_at": "2026-05-22 13:48:15",
@@ -619,22 +619,6 @@
     {
       "added_at": "2026-05-22 13:48:15",
       "album": {
-        "name": "First Light",
-        "url": "https://open.spotify.com/album/2uPAqoHMW8fvvP5cFYejc4"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 204233,
-      "name": "First Light",
-      "url": "https://open.spotify.com/track/2vd3HbaEqhEJpvVNHEago8"
-    },
-    {
-      "added_at": "2026-05-22 13:48:15",
-      "album": {
         "name": "i think i'm addicted",
         "url": "https://open.spotify.com/album/6zUJXKpWJGuzb2LrB7t7hG"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 158520,
       "name": "i think i'm addicted",
       "url": "https://open.spotify.com/track/7MStpKz6w6a7Kq0QR7QTu0"
+    },
+    {
+      "added_at": "2026-05-22 13:48:15",
+      "album": {
+        "name": "First Light",
+        "url": "https://open.spotify.com/album/2uPAqoHMW8fvvP5cFYejc4"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 204233,
+      "name": "First Light",
+      "url": "https://open.spotify.com/track/2vd3HbaEqhEJpvVNHEago8"
     },
     {
       "added_at": "2026-05-22 13:48:15",
@@ -795,22 +795,6 @@
     {
       "added_at": "2026-05-22 13:48:15",
       "album": {
-        "name": "The Best",
-        "url": "https://open.spotify.com/album/3Jkm1bpLu02vfw8vIREcVY"
-      },
-      "artists": [
-        {
-          "name": "Conan Gray",
-          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
-        }
-      ],
-      "duration_ms": 228764,
-      "name": "The Best",
-      "url": "https://open.spotify.com/track/5ioB3LzMIXG31NYMXV685k"
-    },
-    {
-      "added_at": "2026-05-22 13:48:15",
-      "album": {
         "name": "Little More Time",
         "url": "https://open.spotify.com/album/4iRdV4c5sAh3oMl5MTYv9t"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 218171,
       "name": "Little More Time",
       "url": "https://open.spotify.com/track/7ukOzDe3BKCSpA6ki775U5"
+    },
+    {
+      "added_at": "2026-05-22 13:48:15",
+      "album": {
+        "name": "The Best",
+        "url": "https://open.spotify.com/album/3Jkm1bpLu02vfw8vIREcVY"
+      },
+      "artists": [
+        {
+          "name": "Conan Gray",
+          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
+        }
+      ],
+      "duration_ms": 228764,
+      "name": "The Best",
+      "url": "https://open.spotify.com/track/5ioB3LzMIXG31NYMXV685k"
     },
     {
       "added_at": "2026-05-22 13:48:15",
@@ -903,22 +903,6 @@
     {
       "added_at": "2026-05-22 13:48:15",
       "album": {
-        "name": "LUX",
-        "url": "https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 162533,
-      "name": "Sauvignon Blanc",
-      "url": "https://open.spotify.com/track/10uxlzuPGekUTay2ZpZ4pR"
-    },
-    {
-      "added_at": "2026-05-22 13:48:15",
-      "album": {
         "name": "Eternity",
         "url": "https://open.spotify.com/album/1arG3K4COe0kCEU9NqPF5S"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 203474,
       "name": "Eternity",
       "url": "https://open.spotify.com/track/438QRARw2l8mc0TyFk8BLy"
+    },
+    {
+      "added_at": "2026-05-22 13:48:15",
+      "album": {
+        "name": "LUX",
+        "url": "https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 162533,
+      "name": "Sauvignon Blanc",
+      "url": "https://open.spotify.com/track/10uxlzuPGekUTay2ZpZ4pR"
     },
     {
       "added_at": "2026-05-22 13:48:15",
@@ -1167,6 +1167,30 @@
     {
       "added_at": "2026-05-22 13:48:15",
       "album": {
+        "name": "Dua Lipa - Live From Mexico",
+        "url": "https://open.spotify.com/album/3rvZld1RX30IVhuaLkYKnZ"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        },
+        {
+          "name": "Fher de Man\u00e1",
+          "url": "https://open.spotify.com/artist/67dkjmTVB5JjU5S0BIkCs7"
+        }
+      ],
+      "duration_ms": 303489,
+      "name": "Oye Mi Amor (feat. Fher de Man\u00e1) [Live From Mexico]",
+      "url": "https://open.spotify.com/track/6UNEcWHoSn6RGk43mGjQnO"
+    },
+    {
+      "added_at": "2026-05-22 13:48:15",
+      "album": {
         "name": "BEAUTIFUL DAY",
         "url": "https://open.spotify.com/album/0beloHUnrqAmH58rSMxDoa"
       },
@@ -1275,26 +1299,6 @@
       "duration_ms": 215511,
       "name": "Camera",
       "url": "https://open.spotify.com/track/356ASHe2rEf7gBYby3hDX1"
-    },
-    {
-      "added_at": "2026-05-22 13:48:15",
-      "album": {
-        "name": "Nighttime Thing",
-        "url": "https://open.spotify.com/album/6YUp5vj8ISFc0mcWYVxXBj"
-      },
-      "artists": [
-        {
-          "name": "Alessia Cara",
-          "url": "https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR"
-        },
-        {
-          "name": "Julia Michaels",
-          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
-        }
-      ],
-      "duration_ms": 144300,
-      "name": "Nighttime Thing (with Julia Michaels)",
-      "url": "https://open.spotify.com/track/7fbI3MprRgCBEO92ZT5akR"
     }
   ],
   "unique_name": "pov",

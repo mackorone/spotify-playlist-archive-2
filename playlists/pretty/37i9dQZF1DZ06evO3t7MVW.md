@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3t7MVW.md) - [plain]
 
 > This is Stick Figure\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,108 likes - 44 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,136 likes - 43 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,6 +51,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3t7MVW.md) - [plain]
 | 41 | [Natural Mystic \(with Stephen Marley\) \- West Palm Beach 2025](https://open.spotify.com/track/4e7FmcrVSwJe7NnTLHAZBm) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R), [Stephen Marley](https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1) | [Natural Mystic \(with Stephen Marley\) \[West Palm Beach 2025\]](https://open.spotify.com/album/49x3hZ1OINSRz6qhjdubAF) | 3:45 |
 | 42 | [Fall into the Sun](https://open.spotify.com/track/0dpdFqEAwSh3KPcIiLxSMP) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Wisdom](https://open.spotify.com/album/447C0uIwKJY0AXGkR6Bfa1) | 4:16 |
 | 43 | [Hawaii Song](https://open.spotify.com/track/3rqNbu3pkx6wthuAXAtaGd) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Smoke Stack](https://open.spotify.com/album/2ecSuU7MQZI5CH7Mhjxc50) | 5:04 |
-| 44 | [Moon Palace](https://open.spotify.com/track/6kYKKpUZYlbDveoRsB1jTD) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Free Flow Sessions](https://open.spotify.com/album/0RxeQLaMBO8m6vk2243rkt) | 2:56 |
 
-Snapshot ID: `ag5LAAAAAAAGstYgsezo99gGZj/YCLSL`
+Snapshot ID: `ag+cgAAAAACpcUmUfAvduGr0eR2d6j1H`

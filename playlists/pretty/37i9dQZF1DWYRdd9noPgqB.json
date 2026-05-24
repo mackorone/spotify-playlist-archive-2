@@ -1,6 +1,6 @@
 {
   "description": "La playlist qui fait du bien \u2600\ufe0f",
-  "num_followers": 299248,
+  "num_followers": 299241,
   "original_name": "Feel Good",
   "owner": {
     "name": "Spotify",
@@ -75,6 +75,22 @@
     {
       "added_at": "2026-05-21 22:00:17",
       "album": {
+        "name": "no more regrets",
+        "url": "https://open.spotify.com/album/5cdZLcELt79qq6zxd0oFkA"
+      },
+      "artists": [
+        {
+          "name": "almost monday",
+          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
+        }
+      ],
+      "duration_ms": 178477,
+      "name": "no more regrets",
+      "url": "https://open.spotify.com/track/7lgx7t5ZLkdOjiOAjSx9d6"
+    },
+    {
+      "added_at": "2026-05-21 22:00:17",
+      "album": {
         "name": "Phoenix",
         "url": "https://open.spotify.com/album/2pC7ak3YGdCBwNQLI7XSCx"
       },
@@ -91,22 +107,6 @@
       "duration_ms": 144501,
       "name": "Phoenix",
       "url": "https://open.spotify.com/track/351H9o2h92wpjsXJZghEPQ"
-    },
-    {
-      "added_at": "2026-05-21 22:00:17",
-      "album": {
-        "name": "no more regrets",
-        "url": "https://open.spotify.com/album/5cdZLcELt79qq6zxd0oFkA"
-      },
-      "artists": [
-        {
-          "name": "almost monday",
-          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
-        }
-      ],
-      "duration_ms": 178477,
-      "name": "no more regrets",
-      "url": "https://open.spotify.com/track/7lgx7t5ZLkdOjiOAjSx9d6"
     },
     {
       "added_at": "2026-05-21 22:00:17",
@@ -403,22 +403,6 @@
     {
       "added_at": "2026-05-21 22:00:17",
       "album": {
-        "name": "Yellow Eyes",
-        "url": "https://open.spotify.com/album/0LOoC1v3WNX2z8x1lUSmxL"
-      },
-      "artists": [
-        {
-          "name": "Yebba",
-          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
-        }
-      ],
-      "duration_ms": 162096,
-      "name": "Yellow Eyes",
-      "url": "https://open.spotify.com/track/6xYi9wfZb81gJIVQ95qPNl"
-    },
-    {
-      "added_at": "2026-05-21 22:00:17",
-      "album": {
         "name": "Don't Remind Me (with Anderson .Paak)",
         "url": "https://open.spotify.com/album/1Z1L15G68wBQU7gG57QXl9"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 218472,
       "name": "Don't Remind Me (with Anderson .Paak)",
       "url": "https://open.spotify.com/track/7zptU3OZqdXe6qsRcpNWiS"
+    },
+    {
+      "added_at": "2026-05-21 22:00:17",
+      "album": {
+        "name": "Yellow Eyes",
+        "url": "https://open.spotify.com/album/0LOoC1v3WNX2z8x1lUSmxL"
+      },
+      "artists": [
+        {
+          "name": "Yebba",
+          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
+        }
+      ],
+      "duration_ms": 162096,
+      "name": "Yellow Eyes",
+      "url": "https://open.spotify.com/track/6xYi9wfZb81gJIVQ95qPNl"
     },
     {
       "added_at": "2026-05-21 22:00:17",
@@ -507,22 +507,6 @@
     {
       "added_at": "2026-05-21 22:00:17",
       "album": {
-        "name": "Slow Tonight",
-        "url": "https://open.spotify.com/album/0dShMq1RPDfB7BSS7O3xRc"
-      },
-      "artists": [
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        }
-      ],
-      "duration_ms": 192495,
-      "name": "Slow Tonight",
-      "url": "https://open.spotify.com/track/2H3L0xj5L4OlYFlRjhJQN5"
-    },
-    {
-      "added_at": "2026-05-21 22:00:17",
-      "album": {
         "name": "Somebody",
         "url": "https://open.spotify.com/album/4ERzj0QbSR3IgerROEtPKG"
       },
@@ -575,6 +559,22 @@
     {
       "added_at": "2026-05-21 22:00:17",
       "album": {
+        "name": "Slow Tonight",
+        "url": "https://open.spotify.com/album/0dShMq1RPDfB7BSS7O3xRc"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "duration_ms": 192495,
+      "name": "Slow Tonight",
+      "url": "https://open.spotify.com/track/2H3L0xj5L4OlYFlRjhJQN5"
+    },
+    {
+      "added_at": "2026-05-21 22:00:17",
+      "album": {
         "name": "These Nights",
         "url": "https://open.spotify.com/album/46G6H4DrWjY5nn046NEQt7"
       },
@@ -611,6 +611,22 @@
       "duration_ms": 183157,
       "name": "Downtown",
       "url": "https://open.spotify.com/track/64RtBPP0NXkUA0N79pDE4P"
+    },
+    {
+      "added_at": "2026-05-21 22:00:17",
+      "album": {
+        "name": "sailing",
+        "url": "https://open.spotify.com/album/73IJUW7XGzL2B8HMCKY39I"
+      },
+      "artists": [
+        {
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+        }
+      ],
+      "duration_ms": 244221,
+      "name": "sailing",
+      "url": "https://open.spotify.com/track/3Yp4Z4UhD7ymJiX83RgoGm"
     },
     {
       "added_at": "2026-05-21 22:00:17",
@@ -767,22 +783,6 @@
     {
       "added_at": "2026-05-21 22:00:17",
       "album": {
-        "name": "Children of the Baked Potato",
-        "url": "https://open.spotify.com/album/3FwCRzcwO2Yv1mVjZtM9In"
-      },
-      "artists": [
-        {
-          "name": "Thundercat",
-          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
-        }
-      ],
-      "duration_ms": 169320,
-      "name": "I Wish I Didn\u2019t Waste Your Time",
-      "url": "https://open.spotify.com/track/0f7sFuSS6GiZEnNA9AHMsJ"
-    },
-    {
-      "added_at": "2026-05-21 22:00:17",
-      "album": {
         "name": "Give Me More",
         "url": "https://open.spotify.com/album/42jsuMoNdmTPbr8msasO8e"
       },
@@ -795,6 +795,22 @@
       "duration_ms": 190745,
       "name": "Give Me More",
       "url": "https://open.spotify.com/track/5NDtRNvnSdbGGAWRqDGMSZ"
+    },
+    {
+      "added_at": "2026-05-21 22:00:17",
+      "album": {
+        "name": "Children of the Baked Potato",
+        "url": "https://open.spotify.com/album/3FwCRzcwO2Yv1mVjZtM9In"
+      },
+      "artists": [
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        }
+      ],
+      "duration_ms": 169320,
+      "name": "I Wish I Didn\u2019t Waste Your Time",
+      "url": "https://open.spotify.com/track/0f7sFuSS6GiZEnNA9AHMsJ"
     },
     {
       "added_at": "2026-05-21 22:00:17",
@@ -1015,22 +1031,6 @@
       "duration_ms": 251718,
       "name": "Here We Go Again",
       "url": "https://open.spotify.com/track/7bvUKfeVJweptHIJtnC8Kz"
-    },
-    {
-      "added_at": "2026-05-21 22:00:17",
-      "album": {
-        "name": "Fish in a Bowl",
-        "url": "https://open.spotify.com/album/4EjoAF2w6uCqttZAgko5Cp"
-      },
-      "artists": [
-        {
-          "name": "Annie Lalalove",
-          "url": "https://open.spotify.com/artist/0rXEHQAzDXBvblE2EZRBjL"
-        }
-      ],
-      "duration_ms": 222400,
-      "name": "Fish in a Bowl",
-      "url": "https://open.spotify.com/track/5MjlhiqSDgSValAXvEd1w7"
     }
   ],
   "unique_name": "Feel Good",

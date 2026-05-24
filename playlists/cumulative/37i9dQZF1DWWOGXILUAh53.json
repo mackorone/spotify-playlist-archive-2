@@ -5395,6 +5395,24 @@
     },
     {
       "album": {
+        "name": "Butterfly Feelings",
+        "url": "https://open.spotify.com/album/7awlJuOXZ3LIf35souKNDu"
+      },
+      "artists": [
+        {
+          "name": "Icona Pop",
+          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+        }
+      ],
+      "date_added": "2026-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155708,
+      "name": "Butterfly Feelings",
+      "url": "https://open.spotify.com/track/7HJdIi4rzQqj5LkUQfZWRb"
+    },
+    {
+      "album": {
         "name": "C'mon Look! (feat. Asake)",
         "url": "https://open.spotify.com/album/5ypbnurLlF8HIf1gW20dvi"
       },
@@ -29273,6 +29291,24 @@
     },
     {
       "album": {
+        "name": "PARTIES IN LA",
+        "url": "https://open.spotify.com/album/67DRtDC05EXXlanrnThwvw"
+      },
+      "artists": [
+        {
+          "name": "XKYLAR",
+          "url": "https://open.spotify.com/artist/0wel071ci7nqjnNT0ywKWq"
+        }
+      ],
+      "date_added": "2026-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148297,
+      "name": "PARTIES IN LA",
+      "url": "https://open.spotify.com/track/7ilxKzPgTaF5P8N8BBlKFW"
+    },
+    {
+      "album": {
         "name": "Party Animal",
         "url": "https://open.spotify.com/album/3qXR3nSUOkcMhoY7Yc0gr7"
       },
@@ -39716,7 +39752,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 232796,
       "name": "Two Hearts",
       "url": "https://open.spotify.com/track/58BZYJxcZbDngJbBQN7wdL"

@@ -1,12 +1,12 @@
 {
   "description": "This is Grouper. The essential tracks, all in one playlist.",
-  "num_followers": 8035,
+  "num_followers": 8038,
   "original_name": "This Is Grouper",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ag5LAAAAAABLqfe442faaf+1b1yXjAo/",
+  "snapshot_id": "ag+cgAAAAAA11qEo+639RlaDOVLym4K/",
   "tracks": [
     {
       "added_at": null,
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
         }
       ],
-      "duration_ms": 480440,
-      "name": "Soul Eraser",
-      "url": "https://open.spotify.com/track/3ylmcpuUneUlGgGkuO4Htw"
+      "duration_ms": 313680,
+      "name": "A Lie",
+      "url": "https://open.spotify.com/track/03nTHUIdIV4a2Wjb1puEDO"
     },
     {
       "added_at": null,
@@ -683,6 +683,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Grid of Points",
+        "url": "https://open.spotify.com/album/5wy223m8JP5DBOvgumFgN8"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Driving",
+      "url": "https://open.spotify.com/track/3Wgm9FhrruO71VDFA6kxgj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hold / Sick - Single",
         "url": "https://open.spotify.com/album/2ZeEvU0R5ZE0Pgr1xRy6IE"
       },
@@ -699,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cover the Windows and the Walls",
-        "url": "https://open.spotify.com/album/6FDT9qQNRT6ntiEhTI8SI6"
-      },
-      "artists": [
-        {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
-        }
-      ],
-      "duration_ms": 335360,
-      "name": "You Never Came",
-      "url": "https://open.spotify.com/track/20rFw2Y26pbwK2qZV0nCKc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A I A: Dream Loss",
         "url": "https://open.spotify.com/album/5l4dgQzaAkmbTpueLhSR3q"
       },
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
         }
       ],
-      "duration_ms": 313680,
-      "name": "A Lie",
-      "url": "https://open.spotify.com/track/03nTHUIdIV4a2Wjb1puEDO"
+      "duration_ms": 480440,
+      "name": "Soul Eraser",
+      "url": "https://open.spotify.com/track/3ylmcpuUneUlGgGkuO4Htw"
     },
     {
       "added_at": null,
@@ -747,8 +747,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wide",
-        "url": "https://open.spotify.com/album/3iLSxt5fh8f0vN89861WnE"
+        "name": "Cover the Windows and the Walls",
+        "url": "https://open.spotify.com/album/6FDT9qQNRT6ntiEhTI8SI6"
       },
       "artists": [
         {
@@ -756,9 +756,9 @@
           "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
         }
       ],
-      "duration_ms": 186946,
-      "name": "Little Boat/Bone Dance (Audrey)",
-      "url": "https://open.spotify.com/track/1718RopWJWeMuWg93vdbZz"
+      "duration_ms": 335360,
+      "name": "You Never Came",
+      "url": "https://open.spotify.com/track/20rFw2Y26pbwK2qZV0nCKc"
     },
     {
       "added_at": null,
@@ -779,8 +779,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "A I A: Dream Loss",
-        "url": "https://open.spotify.com/album/5l4dgQzaAkmbTpueLhSR3q"
+        "name": "Wide",
+        "url": "https://open.spotify.com/album/3iLSxt5fh8f0vN89861WnE"
       },
       "artists": [
         {
@@ -788,9 +788,9 @@
           "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
         }
       ],
-      "duration_ms": 380226,
-      "name": "Dragging the Streets - First Heart Tone",
-      "url": "https://open.spotify.com/track/7xpVS1KQiRFWgZGi1bdijA"
+      "duration_ms": 186946,
+      "name": "Little Boat/Bone Dance (Audrey)",
+      "url": "https://open.spotify.com/track/1718RopWJWeMuWg93vdbZz"
     },
     {
       "added_at": null,

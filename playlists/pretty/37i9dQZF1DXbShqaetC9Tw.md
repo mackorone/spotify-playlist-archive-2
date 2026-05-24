@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbShqaetC9Tw.md) - [plain]
 
 > 새벽 감성\. Issa Vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,199 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,191 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,9 +30,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbShqaetC9Tw.md) - [plain]
 | 20 | [Empty Cup](https://open.spotify.com/track/4YnVz2QRU6OnoJ8lt23QHM) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 2:19 |
 | 21 | [CALL ME BACK](https://open.spotify.com/track/2VRk8RyGvQWLX9yuFN6ivq) | [Rad Museum](https://open.spotify.com/artist/6UdKtISMXYKSR8jcgtFePo), [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) | [GIRL](https://open.spotify.com/album/7BvY4JIJfB7sSxps8WCetv) | 3:47 |
 | 22 | [want YOU](https://open.spotify.com/track/2KViIi8kIhz56yL1qIUI1w) | [Tabber](https://open.spotify.com/artist/4CYjITN8Au3K5CWFeex7fU) | [want YOU](https://open.spotify.com/album/5RwgOfzXDZePkwPRPHXnp1) | 2:34 |
-| 23 | [What if we met at another place ?](https://open.spotify.com/track/0nXiqvjBx6HE6Z8IWNZrkn) | [OSUN](https://open.spotify.com/artist/5B0qfgiKQ1593oBKreR5Fb) | [What if we met at another place ?](https://open.spotify.com/album/6fu5RdZvG8sf335STIfs4J) | 2:59 |
+| 23 | [dear me,](https://open.spotify.com/track/7aGaP4VJ1WOAIL7QlEl1pA) | [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS) | [dear me,](https://open.spotify.com/album/1wsaqmb8RGkDS3bP5uOfcl) | 2:45 |
 | 24 | [boy](https://open.spotify.com/track/77bGNpC1hZH3JSZQhR1vxn) | [offonoff](https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT) | [boy.](https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj) | 3:53 |
-| 25 | [dear me,](https://open.spotify.com/track/7aGaP4VJ1WOAIL7QlEl1pA) | [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS) | [dear me,](https://open.spotify.com/album/1wsaqmb8RGkDS3bP5uOfcl) | 2:45 |
+| 25 | [What if we met at another place ?](https://open.spotify.com/track/0nXiqvjBx6HE6Z8IWNZrkn) | [OSUN](https://open.spotify.com/artist/5B0qfgiKQ1593oBKreR5Fb) | [What if we met at another place ?](https://open.spotify.com/album/6fu5RdZvG8sf335STIfs4J) | 2:59 |
 | 26 | [Black & White Film \(Prod\. BOYCOLD\)](https://open.spotify.com/track/0V9VGJZxsJYodarhAolMy9) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [Black & White Film](https://open.spotify.com/album/6PIfLssUGUbQwFYf1frasa) | 2:39 |
 | 27 | [How could I say](https://open.spotify.com/track/3cM4CLZFoBXmfmbN9KwBxB) | [eldon](https://open.spotify.com/artist/04GW9HXt9A5aPSNIVBf6m4) | [How could I say](https://open.spotify.com/album/1Nz3qMGOBmQcRfWYHZREHw) | 2:40 |
 | 28 | [SUNSET WITH YOU](https://open.spotify.com/track/7AOtWjLx5SaKVVGzberZ7i) | [Def.](https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58) | [LOVE.](https://open.spotify.com/album/4gpG6Fw9MP4Le9phEdtdYU) | 3:23 |
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbShqaetC9Tw.md) - [plain]
 | 36 | [You](https://open.spotify.com/track/6ztc7DgMKjJ9uHwX86LrXW) | [blah](https://open.spotify.com/artist/0agqtoeQB2zKMFX1kgt5Hg) | [You](https://open.spotify.com/album/76fraD9FgQyrUO96cnMtSd) | 3:28 |
 | 37 | [AM PM \(feat\. Whee In\) \- Prod\. Gray](https://open.spotify.com/track/1J1hPnwTw80wpVWRv8yuxj) | [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT), [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [SOMO: FUME](https://open.spotify.com/album/2T8iLSKPraJotM2uXFKW4F) | 3:37 |
 | 38 | [On my mind](https://open.spotify.com/track/14nJ3FvG5dtIwQpMLY4c5B) | [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw), [Heize](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [EXchange3, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/0txF5TrDoRmAUR333JLinq) | 3:21 |
-| 39 | [stars burn out](https://open.spotify.com/track/2SZkuX2KgTCugNYcKCoEqH) | [cykim](https://open.spotify.com/artist/2X35vslJoAwfxLhu3wAdjq), [justin](https://open.spotify.com/artist/0JyJ6hyu6CYpX6AKH9e5bv) | [stars burn out](https://open.spotify.com/album/7zR88DU7qfwRM8LujvL4EZ) | 3:35 |
-| 40 | [Being left \(Feat\. Dvwn\)](https://open.spotify.com/track/7hg44Uac2HOBJCLWsHXMQp) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [Dvwn](https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b) | [THINKING Part.2](https://open.spotify.com/album/6HcRiA5scMhgM5lBMKX2ad) | 3:38 |
-| 41 | [Don't Forget About Me](https://open.spotify.com/track/5Ho92lX5GVGgcJSkUA9sPi) | [Chris James](https://open.spotify.com/artist/1PU4kQGbRVMSyvawEYEjFp) | [The Art of Overthinking](https://open.spotify.com/album/2qkmlxdDZxwLEhxU09LcvS) | 3:26 |
+| 39 | [Being left \(Feat\. Dvwn\)](https://open.spotify.com/track/7hg44Uac2HOBJCLWsHXMQp) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [Dvwn](https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b) | [THINKING Part.2](https://open.spotify.com/album/6HcRiA5scMhgM5lBMKX2ad) | 3:38 |
+| 40 | [Don't Forget About Me](https://open.spotify.com/track/5Ho92lX5GVGgcJSkUA9sPi) | [Chris James](https://open.spotify.com/artist/1PU4kQGbRVMSyvawEYEjFp) | [The Art of Overthinking](https://open.spotify.com/album/2qkmlxdDZxwLEhxU09LcvS) | 3:26 |
+| 41 | [stars burn out](https://open.spotify.com/track/2SZkuX2KgTCugNYcKCoEqH) | [cykim](https://open.spotify.com/artist/2X35vslJoAwfxLhu3wAdjq), [justin](https://open.spotify.com/artist/0JyJ6hyu6CYpX6AKH9e5bv) | [stars burn out](https://open.spotify.com/album/7zR88DU7qfwRM8LujvL4EZ) | 3:35 |
 | 42 | [The Night’s Window](https://open.spotify.com/track/2d2o64u52bqWpICVM7s4e2) | [Shin Ji Hoon](https://open.spotify.com/artist/0RpcAXbMHCcEEurjyHvuyg) | [Shin Ji Hoon 1st Album 'Stars and Memories and Poetry'](https://open.spotify.com/album/6ow1N25ns0kjoNm9S32BuJ) | 4:24 |
 | 43 | [Fireplace](https://open.spotify.com/track/6X8cpgM2Cf3rnZqXxfSjHQ) | [JONGHYUN](https://open.spotify.com/artist/5rGgflnIpRNizTCozbYBuY) | [JONGHYUN The Collection "Story Op.2"](https://open.spotify.com/album/3eHhVAhT8uCrEPlZywai3o) | 4:22 |
 | 44 | [Parched Blue](https://open.spotify.com/track/5TNLQVuprXpb48RdTTdXE0) | [Kim Hyunchang](https://open.spotify.com/artist/2IEHO7wbuUKxOVkMKaT5KB) | [My Blue has always been Shattered by the Night](https://open.spotify.com/album/2N2teRvKYYxgY0vh5c4aef) | 3:32 |

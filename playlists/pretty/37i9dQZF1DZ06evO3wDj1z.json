@@ -1,12 +1,12 @@
 {
   "description": "This is Sergio Vega \"El Shaka\". The essential tracks, all in one playlist.",
-  "num_followers": 121273,
+  "num_followers": 121320,
   "original_name": "This Is Sergio Vega \"El Shaka\"",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ag5LAAAAAAA/JajA7A3wdIctPC2SUuSr",
+  "snapshot_id": "ag+cgAAAAACPts3t0s8GD3ws1qkwHr0Z",
   "tracks": [
     {
       "added_at": null,
@@ -680,9 +680,9 @@
           "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
         }
       ],
-      "duration_ms": 242613,
-      "name": "Quince Minutos De Ti",
-      "url": "https://open.spotify.com/track/2fczBn1fEYW5vJASRovoln"
+      "duration_ms": 168626,
+      "name": "Ya No Me Preguntes",
+      "url": "https://open.spotify.com/track/46jA1c08Ti5zcSqnn1WgJu"
     },
     {
       "added_at": null,
@@ -744,9 +744,9 @@
           "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
         }
       ],
-      "duration_ms": 168626,
-      "name": "Ya No Me Preguntes",
-      "url": "https://open.spotify.com/track/46jA1c08Ti5zcSqnn1WgJu"
+      "duration_ms": 242613,
+      "name": "Quince Minutos De Ti",
+      "url": "https://open.spotify.com/track/2fczBn1fEYW5vJASRovoln"
     },
     {
       "added_at": null,

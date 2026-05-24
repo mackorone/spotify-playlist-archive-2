@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Tus canciones favoritas del momento, todas en un solo lugar! Cover: Valent\u00edn Elizalde, Edgardo Nu\u00f1ez",
-  "num_followers": 404396,
+  "num_followers": 404661,
   "original_name": "Las Favoritas",
   "owner": {
     "name": "Spotify",
@@ -671,22 +671,6 @@
     {
       "added_at": "2026-05-08 09:15:00",
       "album": {
-        "name": "Noches Sin Fin",
-        "url": "https://open.spotify.com/album/465rqQUVN9J9KTCphdfAKM"
-      },
-      "artists": [
-        {
-          "name": "Herencia De Grandes",
-          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
-        }
-      ],
-      "duration_ms": 237759,
-      "name": "Ya Fue",
-      "url": "https://open.spotify.com/track/0l9nwoGmhk5ckCdRqJcPB8"
-    },
-    {
-      "added_at": "2026-05-08 09:15:00",
-      "album": {
         "name": "No Capea",
         "url": "https://open.spotify.com/album/3fsVOb8vnAjEaxfuh5Kqdd"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 194605,
       "name": "No Capea",
       "url": "https://open.spotify.com/track/3IcaWsnVb6NOsjtcuedsM8"
+    },
+    {
+      "added_at": "2026-05-08 09:15:00",
+      "album": {
+        "name": "Noches Sin Fin",
+        "url": "https://open.spotify.com/album/465rqQUVN9J9KTCphdfAKM"
+      },
+      "artists": [
+        {
+          "name": "Herencia De Grandes",
+          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
+        }
+      ],
+      "duration_ms": 237759,
+      "name": "Ya Fue",
+      "url": "https://open.spotify.com/track/0l9nwoGmhk5ckCdRqJcPB8"
     },
     {
       "added_at": "2026-05-08 09:15:00",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2026-05-08 09:15:00",
       "album": {
+        "name": "AMARTE ME HIZO ODIARTE",
+        "url": "https://open.spotify.com/album/6atSyQI6H5zg6X6kOoDI0H"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "duration_ms": 215945,
+      "name": "AMOR",
+      "url": "https://open.spotify.com/track/0dJ8BG6MjGBX2RwJbJOVGV"
+    },
+    {
+      "added_at": "2026-05-08 09:15:00",
+      "album": {
         "name": "Como Duele El Amor",
         "url": "https://open.spotify.com/album/78rP9LuwmD8RzpwjOmxFRP"
       },
@@ -1211,18 +1227,18 @@
     {
       "added_at": "2026-05-08 09:15:00",
       "album": {
-        "name": "AMARTE ME HIZO ODIARTE",
-        "url": "https://open.spotify.com/album/6atSyQI6H5zg6X6kOoDI0H"
+        "name": "Ojos En Blanco",
+        "url": "https://open.spotify.com/album/6KfwGFnaelkfX5KDET17Bb"
       },
       "artists": [
         {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
         }
       ],
-      "duration_ms": 215945,
-      "name": "AMOR",
-      "url": "https://open.spotify.com/track/0dJ8BG6MjGBX2RwJbJOVGV"
+      "duration_ms": 147053,
+      "name": "Ya Te Perd\u00ed La Fe",
+      "url": "https://open.spotify.com/track/0KHDthR0XvPoeJaqBc7Sg5"
     },
     {
       "added_at": "2026-05-08 09:15:00",
@@ -1243,22 +1259,6 @@
       "duration_ms": 240456,
       "name": "Yo Ya No Vuelvo Contigo - En Vivo",
       "url": "https://open.spotify.com/track/1s59X35jDULAyOGmBuTAnd"
-    },
-    {
-      "added_at": "2026-05-08 09:15:00",
-      "album": {
-        "name": "Ojos En Blanco",
-        "url": "https://open.spotify.com/album/6KfwGFnaelkfX5KDET17Bb"
-      },
-      "artists": [
-        {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
-        }
-      ],
-      "duration_ms": 147053,
-      "name": "Ya Te Perd\u00ed La Fe",
-      "url": "https://open.spotify.com/track/0KHDthR0XvPoeJaqBc7Sg5"
     },
     {
       "added_at": "2026-05-08 09:15:00",
@@ -1463,6 +1463,22 @@
     {
       "added_at": "2026-05-08 09:15:00",
       "album": {
+        "name": "Cap\u00edtulo 1: El Regreso Del Dragon",
+        "url": "https://open.spotify.com/album/6NbV4YCgoWwEUyjuN4WMT0"
+      },
+      "artists": [
+        {
+          "name": "T3R Elemento",
+          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
+        }
+      ],
+      "duration_ms": 226250,
+      "name": "Labios de Cereza 2",
+      "url": "https://open.spotify.com/track/5kydBNKLSxvWNjXSSfyWAr"
+    },
+    {
+      "added_at": "2026-05-08 09:15:00",
+      "album": {
         "name": "Pelotero A La Bola",
         "url": "https://open.spotify.com/album/51HYdUR0UOPZuxVMDKELN6"
       },
@@ -1495,22 +1511,6 @@
       "duration_ms": 168979,
       "name": "OJITOS MENTIROSOS",
       "url": "https://open.spotify.com/track/1MPs1qa830QkHuyAOnaRqe"
-    },
-    {
-      "added_at": "2026-05-08 09:15:00",
-      "album": {
-        "name": "Cap\u00edtulo 1: El Regreso Del Dragon",
-        "url": "https://open.spotify.com/album/6NbV4YCgoWwEUyjuN4WMT0"
-      },
-      "artists": [
-        {
-          "name": "T3R Elemento",
-          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
-        }
-      ],
-      "duration_ms": 226250,
-      "name": "Labios de Cereza 2",
-      "url": "https://open.spotify.com/track/5kydBNKLSxvWNjXSSfyWAr"
     },
     {
       "added_at": "2026-05-08 09:15:00",

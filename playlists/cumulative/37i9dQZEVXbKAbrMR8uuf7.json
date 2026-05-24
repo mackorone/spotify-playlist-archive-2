@@ -4440,7 +4440,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-22",
+      "date_removed": null,
       "duration_ms": 293802,
       "name": "Billie Jean",
       "url": "https://open.spotify.com/track/7J1uxwnxfQLu4APicE5Rnj"
@@ -8348,6 +8348,28 @@
       "duration_ms": 216519,
       "name": "Culito",
       "url": "https://open.spotify.com/track/4FiHQz4KFtK0m5zzhI4gZL"
+    },
+    {
+      "album": {
+        "name": "Culpa Mia",
+        "url": "https://open.spotify.com/album/6ruro4N0IpjexQ3eCLMGEI"
+      },
+      "artists": [
+        {
+          "name": "Yovng Gretty",
+          "url": "https://open.spotify.com/artist/6Abqe61HhNQlkaaaZXFpEb"
+        },
+        {
+          "name": "Ezzy R",
+          "url": "https://open.spotify.com/artist/0DiYoKuXAI3xAA5JiU5UFX"
+        }
+      ],
+      "date_added": "2026-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121191,
+      "name": "Culpa Mia",
+      "url": "https://open.spotify.com/track/00LVVrNNugENHTqeRDyjvv"
     },
     {
       "album": {
@@ -18018,7 +18040,7 @@
       ],
       "date_added": "2025-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 234828,
       "name": "Imitadora",
       "url": "https://open.spotify.com/track/6r46lnXFbE9fr2d3KNaGbe"
@@ -28668,7 +28690,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 183685,
       "name": "NUEVAYoL",
       "url": "https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5"
@@ -30639,6 +30661,24 @@
     },
     {
       "album": {
+        "name": "Pegame Tu Vicio",
+        "url": "https://open.spotify.com/album/4lboawyI2xBP52DPWPjk87"
+      },
+      "artists": [
+        {
+          "name": "Eddy Herrera",
+          "url": "https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC"
+        }
+      ],
+      "date_added": "2026-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303293,
+      "name": "Pegame Tu Vicio",
+      "url": "https://open.spotify.com/track/0FcgB8l69nXBOmvhvEXm8o"
+    },
+    {
+      "album": {
         "name": "Desire",
         "url": "https://open.spotify.com/album/0KSoZkdQ8u9uGe6GTFSjDz"
       },
@@ -31338,7 +31378,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 160000,
       "name": "Piel Morena",
       "url": "https://open.spotify.com/track/4l9qLfwUOLpmCP8JOEanMF"
@@ -34417,6 +34457,32 @@
     },
     {
       "album": {
+        "name": "Regalada Sales Cara (Merengue)",
+        "url": "https://open.spotify.com/album/4aHWj4hZQIhtsQJRwwCloK"
+      },
+      "artists": [
+        {
+          "name": "Danny Marin",
+          "url": "https://open.spotify.com/artist/5MF42TBnzfvljY3sfD1Wh0"
+        },
+        {
+          "name": "Ciro Qui\u00f1onez",
+          "url": "https://open.spotify.com/artist/5xaXYXef87CBDufNh0kHnK"
+        },
+        {
+          "name": "Eddy Herrera",
+          "url": "https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC"
+        }
+      ],
+      "date_added": "2026-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "Regalada Sales Cara - Merengue",
+      "url": "https://open.spotify.com/track/71fVeqC8abTnXmnav8rx5q"
+    },
+    {
+      "album": {
         "name": "ESTRELLA",
         "url": "https://open.spotify.com/album/0SoJvPHbKVhvmVJOp3kzp3"
       },
@@ -36142,7 +36208,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 122607,
       "name": "SALEN MALOS",
       "url": "https://open.spotify.com/track/7CX7Cq1iOyAR6utjjPh9De"

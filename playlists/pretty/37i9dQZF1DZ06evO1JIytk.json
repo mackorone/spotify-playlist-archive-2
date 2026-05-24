@@ -1,12 +1,12 @@
 {
   "description": "This is Anti-Flag. The essential tracks, all in one playlist.",
-  "num_followers": 16615,
+  "num_followers": 16619,
   "original_name": "This Is Anti-Flag",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ag5LAAAAAABfQTc39rCMqOLKHfIi78iP",
+  "snapshot_id": "ag+cgAAAAAC9SDAwqGN7+Od9Y1MWWnUR",
   "tracks": [
     {
       "added_at": null,
@@ -139,8 +139,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mobilize",
-        "url": "https://open.spotify.com/album/2qFZdRj2TtLPI36n7XQK9I"
+        "name": "Underground Network",
+        "url": "https://open.spotify.com/album/5NUqfqkQzEuc4IjDTy8l5S"
       },
       "artists": [
         {
@@ -148,9 +148,9 @@
           "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
         }
       ],
-      "duration_ms": 214600,
-      "name": "911 for Peace",
-      "url": "https://open.spotify.com/track/4CrufimpcYAOqighojrziP"
+      "duration_ms": 162573,
+      "name": "Angry, Young And Poor",
+      "url": "https://open.spotify.com/track/47JFiXSoD3Y4p1xGSklR7e"
     },
     {
       "added_at": null,
@@ -171,8 +171,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Underground Network",
-        "url": "https://open.spotify.com/album/5NUqfqkQzEuc4IjDTy8l5S"
+        "name": "Mobilize",
+        "url": "https://open.spotify.com/album/2qFZdRj2TtLPI36n7XQK9I"
       },
       "artists": [
         {
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
         }
       ],
-      "duration_ms": 162573,
-      "name": "Angry, Young And Poor",
-      "url": "https://open.spotify.com/track/47JFiXSoD3Y4p1xGSklR7e"
+      "duration_ms": 214600,
+      "name": "911 for Peace",
+      "url": "https://open.spotify.com/track/4CrufimpcYAOqighojrziP"
     },
     {
       "added_at": null,
@@ -443,8 +443,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "American Spring",
-        "url": "https://open.spotify.com/album/6UtJ5648uGVbr0EGCJs6S7"
+        "name": "The People Or the Gun",
+        "url": "https://open.spotify.com/album/4NS1jEndIEIYDwLT7HaaYu"
       },
       "artists": [
         {
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
         }
       ],
-      "duration_ms": 196306,
-      "name": "Fabled World",
-      "url": "https://open.spotify.com/track/3HNYcvcsw78tNXJtc4YbES"
+      "duration_ms": 216093,
+      "name": "The Economy is Suffering...Let It Die",
+      "url": "https://open.spotify.com/track/517pxni9CL4zU8Lb0JzrQ7"
     },
     {
       "added_at": null,
@@ -491,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Underground Network",
-        "url": "https://open.spotify.com/album/5NUqfqkQzEuc4IjDTy8l5S"
+        "name": "American Spring",
+        "url": "https://open.spotify.com/album/6UtJ5648uGVbr0EGCJs6S7"
       },
       "artists": [
         {
@@ -500,41 +500,9 @@
           "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
         }
       ],
-      "duration_ms": 213800,
-      "name": "Stars And Stripes",
-      "url": "https://open.spotify.com/track/3gLAEYt0z19cKt7XnmNdpX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The People Or the Gun",
-        "url": "https://open.spotify.com/album/4NS1jEndIEIYDwLT7HaaYu"
-      },
-      "artists": [
-        {
-          "name": "Anti-Flag",
-          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
-        }
-      ],
-      "duration_ms": 216093,
-      "name": "The Economy is Suffering...Let It Die",
-      "url": "https://open.spotify.com/track/517pxni9CL4zU8Lb0JzrQ7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "American Fall",
-        "url": "https://open.spotify.com/album/55oNSkAEaPPS1PnSZimhts"
-      },
-      "artists": [
-        {
-          "name": "Anti-Flag",
-          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
-        }
-      ],
-      "duration_ms": 165813,
-      "name": "When The Wall Falls",
-      "url": "https://open.spotify.com/track/2j6BvBYHuvlHHRx33sDG7X"
+      "duration_ms": 196306,
+      "name": "Fabled World",
+      "url": "https://open.spotify.com/track/3HNYcvcsw78tNXJtc4YbES"
     },
     {
       "added_at": null,
@@ -555,6 +523,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "American Fall",
+        "url": "https://open.spotify.com/album/55oNSkAEaPPS1PnSZimhts"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        }
+      ],
+      "duration_ms": 165813,
+      "name": "When The Wall Falls",
+      "url": "https://open.spotify.com/track/2j6BvBYHuvlHHRx33sDG7X"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Underground Network",
         "url": "https://open.spotify.com/album/5NUqfqkQzEuc4IjDTy8l5S"
       },
@@ -564,9 +548,9 @@
           "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
         }
       ],
-      "duration_ms": 243866,
-      "name": "Underground Network",
-      "url": "https://open.spotify.com/track/5WTxwhu0cDbXi7IlP30OFK"
+      "duration_ms": 213800,
+      "name": "Stars And Stripes",
+      "url": "https://open.spotify.com/track/3gLAEYt0z19cKt7XnmNdpX"
     },
     {
       "added_at": null,
@@ -623,8 +607,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "20/20 Vision",
-        "url": "https://open.spotify.com/album/0ESfHPooquTT2SI5EL1ycl"
+        "name": "Underground Network",
+        "url": "https://open.spotify.com/album/5NUqfqkQzEuc4IjDTy8l5S"
       },
       "artists": [
         {
@@ -632,9 +616,9 @@
           "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
         }
       ],
-      "duration_ms": 143333,
-      "name": "It Went Off Like A Bomb",
-      "url": "https://open.spotify.com/track/5NbgvgPZNVcUr6Epp7VkQE"
+      "duration_ms": 243866,
+      "name": "Underground Network",
+      "url": "https://open.spotify.com/track/5WTxwhu0cDbXi7IlP30OFK"
     },
     {
       "added_at": null,
@@ -671,8 +655,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hooligans United a Tribute to Rancid",
-        "url": "https://open.spotify.com/album/3fNR9RPA8gWdl8DHyEylPv"
+        "name": "20/20 Vision",
+        "url": "https://open.spotify.com/album/0ESfHPooquTT2SI5EL1ycl"
       },
       "artists": [
         {
@@ -680,9 +664,25 @@
           "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
         }
       ],
-      "duration_ms": 77992,
-      "name": "Maxwell Murder",
-      "url": "https://open.spotify.com/track/2FSHOstfVfHia9eBS6vz9t"
+      "duration_ms": 143333,
+      "name": "It Went Off Like A Bomb",
+      "url": "https://open.spotify.com/track/5NbgvgPZNVcUr6Epp7VkQE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The People Or the Gun",
+        "url": "https://open.spotify.com/album/4NS1jEndIEIYDwLT7HaaYu"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        }
+      ],
+      "duration_ms": 170400,
+      "name": "Sodom, Gomorrah, Washington D.C. (Sheep in Shepherds Clothing)",
+      "url": "https://open.spotify.com/track/2chElQHFe6YyegzUbFBd1Z"
     },
     {
       "added_at": null,
@@ -703,8 +703,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The People Or the Gun",
-        "url": "https://open.spotify.com/album/4NS1jEndIEIYDwLT7HaaYu"
+        "name": "Hooligans United a Tribute to Rancid",
+        "url": "https://open.spotify.com/album/3fNR9RPA8gWdl8DHyEylPv"
       },
       "artists": [
         {
@@ -712,9 +712,9 @@
           "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
         }
       ],
-      "duration_ms": 170400,
-      "name": "Sodom, Gomorrah, Washington D.C. (Sheep in Shepherds Clothing)",
-      "url": "https://open.spotify.com/track/2chElQHFe6YyegzUbFBd1Z"
+      "duration_ms": 77992,
+      "name": "Maxwell Murder",
+      "url": "https://open.spotify.com/track/2FSHOstfVfHia9eBS6vz9t"
     },
     {
       "added_at": null,
@@ -751,26 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LIES THEY TELL OUR CHILDREN",
-        "url": "https://open.spotify.com/album/0y6Yl2xeyimgGJvIt2aNbk"
-      },
-      "artists": [
-        {
-          "name": "Anti-Flag",
-          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
-        },
-        {
-          "name": "Stacey Dee",
-          "url": "https://open.spotify.com/artist/5MzVW6bfqpL5hrSa9wfc9T"
-        }
-      ],
-      "duration_ms": 280333,
-      "name": "NVREVR (feat. Stacey Dee of Bad Cop/Bad Cop)",
-      "url": "https://open.spotify.com/track/4vQ8s5KjX2xUuGwPQt5ySu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The General Strike",
         "url": "https://open.spotify.com/album/0ezxuUTs49NyqdB7Z5ns3j"
       },
@@ -799,6 +779,26 @@
       "duration_ms": 169426,
       "name": "Finish What We Started",
       "url": "https://open.spotify.com/track/1XZVctTif3B1ojGOqXkoze"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LIES THEY TELL OUR CHILDREN",
+        "url": "https://open.spotify.com/album/0y6Yl2xeyimgGJvIt2aNbk"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        },
+        {
+          "name": "Stacey Dee",
+          "url": "https://open.spotify.com/artist/5MzVW6bfqpL5hrSa9wfc9T"
+        }
+      ],
+      "duration_ms": 280333,
+      "name": "NVREVR (feat. Stacey Dee of Bad Cop/Bad Cop)",
+      "url": "https://open.spotify.com/track/4vQ8s5KjX2xUuGwPQt5ySu"
     },
     {
       "added_at": null,

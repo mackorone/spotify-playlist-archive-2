@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2HO2r9dd9gSjJfz9Sz3w6K">Kal Lavelle</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-32 songs - 1 hr 43 min
+33 songs - 1 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,8 @@
 | [Kate](https://open.spotify.com/track/0qakvMVzgd8tleQLvBhJOl) | [Kal Lavelle](https://open.spotify.com/artist/7EDWLMJI0UmRtFaIb59MqR) | [For the Loved and Lost](https://open.spotify.com/album/0kJTmEg5P1Im8WyX0Uzqvm) | 3:37 | 2024-06-13 |  |
 | [La La](https://open.spotify.com/track/6P8GfdAgHd3zKQMckbE4ke) | [Mike Williams](https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7), [Joe Jury](https://open.spotify.com/artist/6CfdbVxJuo31StQ21ffOer) | [La La](https://open.spotify.com/album/4rghUgwSsXAi9OVW7ye2Pn) | 2:48 | 2025-02-13 |  |
 | [Last Cigarette](https://open.spotify.com/track/1N8dCEzqaRqrEC6NryhE5R) | [Kal Lavelle](https://open.spotify.com/artist/7EDWLMJI0UmRtFaIb59MqR) | [For the Loved and Lost](https://open.spotify.com/album/0kJTmEg5P1Im8WyX0Uzqvm) | 3:31 | 2024-06-13 |  |
-| [loverboi](https://open.spotify.com/track/0TgA5lQWMENLjZHzLWRhh9) | [Izzi De\-Rosa](https://open.spotify.com/artist/3Z6QJOLlIS8vdKV4f3jc6g) | [loverboi](https://open.spotify.com/album/6Bb9cNrQmvFh42jDgFyrJk) | 2:16 | 2024-06-13 |  |
+| [loverboi](https://open.spotify.com/track/0TgA5lQWMENLjZHzLWRhh9) | [Izzi De\-Rosa](https://open.spotify.com/artist/3Z6QJOLlIS8vdKV4f3jc6g) | [loverboi](https://open.spotify.com/album/6Bb9cNrQmvFh42jDgFyrJk) | 2:16 | 2024-06-13 | 2026-05-24 |
+| [loverboi](https://open.spotify.com/track/2PkMh29CjH7ozpkTuTjtxq) | [Izzi De\-Rosa](https://open.spotify.com/artist/3Z6QJOLlIS8vdKV4f3jc6g) | [loverboi](https://open.spotify.com/album/25xp8HHHxOvUrwmwnid0je) | 2:16 | 2026-05-23 |  |
 | [Nowhere Town](https://open.spotify.com/track/7ichJTFzVYIc44JvrC0IhN) | [Bandit](https://open.spotify.com/artist/4mI8m4MJtY9yKLsxxa3Ri2) | [Nowhere Town](https://open.spotify.com/album/7K6CM5XQqEgvPVm3aobaUD) | 3:54 | 2024-06-13 |  |
 | [Only Us](https://open.spotify.com/track/3td5p9421OGARlJexBzn4e) | [DJ Zinc](https://open.spotify.com/artist/1cwlYsgHBYvLzT4C24AliQ), [Lilly Ahlberg](https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk) | [BASSLOVE \- MORE BASS🔉MORE LOVE♥️](https://open.spotify.com/album/4KSvU2vXKsEz9cr37ifInS) | 2:40 | 2025-03-09 |  |
 | [Saddest Song](https://open.spotify.com/track/1qCO1GKJevNPfKPm3vLPtk) | [Kal Lavelle](https://open.spotify.com/artist/7EDWLMJI0UmRtFaIb59MqR) | [For the Loved and Lost](https://open.spotify.com/album/0kJTmEg5P1Im8WyX0Uzqvm) | 3:24 | 2024-06-15 |  |

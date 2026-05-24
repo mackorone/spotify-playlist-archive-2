@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVAVMhIe3pV.md) - [plain]
 
 > Need to get your energy level up? This will help!
 
-[Spotify](https://open.spotify.com/user/spotify) - 410,036 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 410,070 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVAVMhIe3pV.md) - [plain]
 | 60 | [The Best Things](https://open.spotify.com/track/6QJfk4mQc9YYBX7DGmqbuZ) | [Filter](https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C) | [Title Of Record \(Expanded Edition\)](https://open.spotify.com/album/0PtuV98eVpJkCORoCH2uCu) | 4:26 |
 | 61 | [Superhero](https://open.spotify.com/track/6z4CTIToU7a03Rq07F9FF4) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Strays](https://open.spotify.com/album/1Zyw4sk27JmiSQjD4gXszk) | 3:58 |
 | 62 | [Spiralling Out](https://open.spotify.com/track/48wvfkGuiM5x1S7ZPSOIGd) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Spiralling Out](https://open.spotify.com/album/6W4WFSvi7g6Sa9VkDIROle) | 3:44 |
-| 63 | [Swing and Sway](https://open.spotify.com/track/3t4Wpwg36E2VoBUiGKK6Fx) | [Greywind](https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4) | [Swing and Sway](https://open.spotify.com/album/4C5OhWOC4gGSqVYilg8udW) | 2:58 |
-| 64 | [Sighommi](https://open.spotify.com/track/1zz3gyupVHNCZ3tZiboxyg) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Aghori Mhori Mei](https://open.spotify.com/album/2BoDjxlw4rrLUOaoVtarU1) | 2:54 |
+| 63 | [Sighommi](https://open.spotify.com/track/1zz3gyupVHNCZ3tZiboxyg) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Aghori Mhori Mei](https://open.spotify.com/album/2BoDjxlw4rrLUOaoVtarU1) | 2:54 |
+| 64 | [Swing and Sway](https://open.spotify.com/track/3t4Wpwg36E2VoBUiGKK6Fx) | [Greywind](https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4) | [Swing and Sway](https://open.spotify.com/album/4C5OhWOC4gGSqVYilg8udW) | 2:58 |
 | 65 | [waste](https://open.spotify.com/track/0Rs9oXTRtpOJZMe7guExYP) | [unpeople](https://open.spotify.com/artist/515JoZzxBrdm0TxOhHa2n2) | [waste](https://open.spotify.com/album/65d9dRcNkRh5PSDy4Buuxy) | 3:51 |
 | 66 | [You’re One Of Us Now](https://open.spotify.com/track/6EwRKnESYfyuqDmMjbDhYw) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [RUCKUS!](https://open.spotify.com/album/3UO7dRJBreXDCBlqfCWBPo) | 4:03 |
 | 67 | [Killing Time](https://open.spotify.com/track/4me6CoGX1RHTu7VE7Hnkpl) | [Bleed](https://open.spotify.com/artist/15DYcBNS0c6bfsoezOIzT3) | [Killing Time](https://open.spotify.com/album/0RrpTBev2XySRIyv8dnNKn) | 3:14 |
@@ -98,13 +98,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVAVMhIe3pV.md) - [plain]
 | 88 | [Flacco](https://open.spotify.com/track/248Z8fgwFHdQCAhtkJ0hrj) | [Money](https://open.spotify.com/artist/2v0x2qsSuy06OiFIo8zX6s) | [Flacco](https://open.spotify.com/album/58dq6GiHzAppusqEYSC4yq) | 4:10 |
 | 89 | [Suffer](https://open.spotify.com/track/5Q6SSsB53WpRJS2umerkIB) | [Dragged Under](https://open.spotify.com/artist/3D1uNqaasEWzallSxKo1cH) | [Upright Animals](https://open.spotify.com/album/4azfM2hspLuUo7yk4AQKG3) | 3:23 |
 | 90 | [I Don't Wanna Be Me](https://open.spotify.com/track/5kdCJtVGsVdbB5mcGxX7pr) | [Split Chain](https://open.spotify.com/artist/5J0ehnVK9YOBGWOwE022ar) | [I Don't Wanna Be Me](https://open.spotify.com/album/3sYNerGyactdioVkmUpMyZ) | 3:49 |
-| 91 | [Cellophane](https://open.spotify.com/track/2ZzCvMltW1PC5k8dv14ShX) | [House & Home](https://open.spotify.com/artist/2ihCoOZsBMPl5KuKLgK9T7) | [Split](https://open.spotify.com/album/4IaK5bhrMpaGaa1ZRRDdrp) | 4:04 |
-| 92 | [Play My Favourite Song](https://open.spotify.com/track/4uBs8miGwBykRYjrbAO5kV) | [Tigercub](https://open.spotify.com/artist/6ekYAO2D1JkI58CF4uRRqw) | [Play My Favourite Song](https://open.spotify.com/album/48kUWLzmZrvwHqYrpOkBat) | 2:35 |
+| 91 | [Play My Favourite Song](https://open.spotify.com/track/4uBs8miGwBykRYjrbAO5kV) | [Tigercub](https://open.spotify.com/artist/6ekYAO2D1JkI58CF4uRRqw) | [Play My Favourite Song](https://open.spotify.com/album/48kUWLzmZrvwHqYrpOkBat) | 2:35 |
+| 92 | [Cellophane](https://open.spotify.com/track/2ZzCvMltW1PC5k8dv14ShX) | [House & Home](https://open.spotify.com/artist/2ihCoOZsBMPl5KuKLgK9T7) | [Split](https://open.spotify.com/album/4IaK5bhrMpaGaa1ZRRDdrp) | 4:04 |
 | 93 | [LOSER](https://open.spotify.com/track/6HOsksISHjFGsjk0vzK0S6) | [LOWLIVES](https://open.spotify.com/artist/7Hg9yStqSEaKmwPxFlWeE2) | [LOSER](https://open.spotify.com/album/6stziyO40ovFZGQN71pB67) | 3:22 |
 | 94 | [If I Could](https://open.spotify.com/track/37mcskMYPUoi0ZlqAPBByr) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Ideas Above Our Station](https://open.spotify.com/album/0njHxwzfjbX5MS7YPXBwMM) | 3:31 |
 | 95 | [Moments Of Clarity](https://open.spotify.com/track/4T8GhH9Jz2ZAf8BnE7OXzi) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Moments of Clarity](https://open.spotify.com/album/135Y92eWcCGg8GeFi5IF3v) | 3:50 |
-| 96 | [Heat Seeker](https://open.spotify.com/track/0P9nVsSehdmUwyIQNmtgXM) | [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A) | [Heat Seeker](https://open.spotify.com/album/6n3UM882xPegc0XIZKU7IX) | 2:54 |
-| 97 | [Fake Love](https://open.spotify.com/track/57okMoH9ZaiQemzwaMy8AY) | [Shake Shake Go](https://open.spotify.com/artist/1FmnkGJ5KDt1eCHJQVyAbk) | [Homesick](https://open.spotify.com/album/0cFm4edaIWvQN1gTYbpWmL) | 3:31 |
+| 96 | [Fake Love](https://open.spotify.com/track/57okMoH9ZaiQemzwaMy8AY) | [Shake Shake Go](https://open.spotify.com/artist/1FmnkGJ5KDt1eCHJQVyAbk) | [Homesick](https://open.spotify.com/album/0cFm4edaIWvQN1gTYbpWmL) | 3:31 |
+| 97 | [Heat Seeker](https://open.spotify.com/track/0P9nVsSehdmUwyIQNmtgXM) | [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A) | [Heat Seeker](https://open.spotify.com/album/6n3UM882xPegc0XIZKU7IX) | 2:54 |
 | 98 | [Sliding Doors](https://open.spotify.com/track/0XlDSx6DftEGmjOS2TQ8wL) | [Boston Manor](https://open.spotify.com/artist/4WjeQi9wm84lYTIWZ95QoM) | [Sliding Doors](https://open.spotify.com/album/5t77HLDFCo7yztX2rfj0Sr) | 3:26 |
 | 99 | [Move, Shake, Hide \- Was Brauer Mix](https://open.spotify.com/track/0FhBwZFFDGdgeeTfYpOWdS) | [Marmozets](https://open.spotify.com/artist/3KEhhixoMshqSEJ71rS7w1), [Was Brauer](https://open.spotify.com/artist/0FkFBPl6srrSG45Ihg1l0e) | [The Weird And Wonderful Marmozets](https://open.spotify.com/album/6pUqeaxvoVgNDF8Ep1ubLR) | 3:27 |
 | 100 | [Sunshine](https://open.spotify.com/track/2czqsuJetQmyHxx3M009FX) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Still Love](https://open.spotify.com/album/2Cpp5NKmwqriSjzgOuk16d) | 3:14 |

@@ -491,22 +491,6 @@
     {
       "added_at": "2023-11-22 12:51:56",
       "album": {
-        "name": "The Alligator Records Christmas Collection",
-        "url": "https://open.spotify.com/album/2SOkbpUI8lCMFfysGGvnCk"
-      },
-      "artists": [
-        {
-          "name": "William Clarke",
-          "url": "https://open.spotify.com/artist/2eECVTTCHnDwsBirJPiDke"
-        }
-      ],
-      "duration_ms": 272266,
-      "name": "Please Let Me Be Your Santa Claus",
-      "url": "https://open.spotify.com/track/2V6sTUWqFFb1WUwOIID6QZ"
-    },
-    {
-      "added_at": "2023-11-22 12:51:56",
-      "album": {
         "name": "Red or Green",
         "url": "https://open.spotify.com/album/6URfYXX8miYx4BZv9KpAiZ"
       },
@@ -523,6 +507,22 @@
     {
       "added_at": "2023-11-22 12:51:56",
       "album": {
+        "name": "The Alligator Records Christmas Collection",
+        "url": "https://open.spotify.com/album/2SOkbpUI8lCMFfysGGvnCk"
+      },
+      "artists": [
+        {
+          "name": "William Clarke",
+          "url": "https://open.spotify.com/artist/2eECVTTCHnDwsBirJPiDke"
+        }
+      ],
+      "duration_ms": 272266,
+      "name": "Please Let Me Be Your Santa Claus",
+      "url": "https://open.spotify.com/track/2V6sTUWqFFb1WUwOIID6QZ"
+    },
+    {
+      "added_at": "2023-11-22 12:51:56",
+      "album": {
         "name": "A Blues Christmas",
         "url": "https://open.spotify.com/album/3ZFr62DlxDuO5GLTO8Ci8T"
       },
@@ -535,6 +535,22 @@
       "duration_ms": 268288,
       "name": "Merry, Merry Christmas",
       "url": "https://open.spotify.com/track/0u0qsXGPxRL3FmyWyREG2s"
+    },
+    {
+      "added_at": "2023-11-22 12:51:56",
+      "album": {
+        "name": "The 30 Most Unusual Christmas Songs",
+        "url": "https://open.spotify.com/album/5klR7lb2L9mAyEInR6LtqK"
+      },
+      "artists": [
+        {
+          "name": "Ike & Tina Turner",
+          "url": "https://open.spotify.com/artist/1ZikppG9dPedbIgMfnfx8k"
+        }
+      ],
+      "duration_ms": 124000,
+      "name": "Merry Christmas Baby",
+      "url": "https://open.spotify.com/track/2QQZG6E5hulmmkSnfJVwah"
     },
     {
       "added_at": "2023-11-22 12:51:56",
@@ -567,22 +583,6 @@
       "duration_ms": 185000,
       "name": "Christmas Time Blues",
       "url": "https://open.spotify.com/track/659ac5HeJ5aG6ihR8lCtBe"
-    },
-    {
-      "added_at": "2023-11-22 12:51:56",
-      "album": {
-        "name": "The 30 Most Unusual Christmas Songs",
-        "url": "https://open.spotify.com/album/5klR7lb2L9mAyEInR6LtqK"
-      },
-      "artists": [
-        {
-          "name": "Ike & Tina Turner",
-          "url": "https://open.spotify.com/artist/1ZikppG9dPedbIgMfnfx8k"
-        }
-      ],
-      "duration_ms": 124000,
-      "name": "Merry Christmas Baby",
-      "url": "https://open.spotify.com/track/2QQZG6E5hulmmkSnfJVwah"
     },
     {
       "added_at": "2023-11-22 12:51:56",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-11-22 12:51:56",
       "album": {
-        "name": "Christmas Blues: Savoy Jazz Christmas Album",
-        "url": "https://open.spotify.com/album/1QMmVNZc6MpssCZy62IuNI"
-      },
-      "artists": [
-        {
-          "name": "The Marshall Brothers",
-          "url": "https://open.spotify.com/artist/0Ard7WDdg0QuhlBHL9ueI8"
-        }
-      ],
-      "duration_ms": 156573,
-      "name": "Mr. Santa's Boogie",
-      "url": "https://open.spotify.com/track/7vKQknqsE3GGB3YER5HGKQ"
-    },
-    {
-      "added_at": "2023-11-22 12:51:56",
-      "album": {
         "name": "Classics: 1949-1954",
         "url": "https://open.spotify.com/album/3jlhSl1o47UZ4Bdh7mIB0s"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 162226,
       "name": "Christmas Morning (10-29-52)",
       "url": "https://open.spotify.com/track/6Oyx0NuSzR6zzT8erMVZ8V"
+    },
+    {
+      "added_at": "2023-11-22 12:51:56",
+      "album": {
+        "name": "Christmas Blues: Savoy Jazz Christmas Album",
+        "url": "https://open.spotify.com/album/1QMmVNZc6MpssCZy62IuNI"
+      },
+      "artists": [
+        {
+          "name": "The Marshall Brothers",
+          "url": "https://open.spotify.com/artist/0Ard7WDdg0QuhlBHL9ueI8"
+        }
+      ],
+      "duration_ms": 156573,
+      "name": "Mr. Santa's Boogie",
+      "url": "https://open.spotify.com/track/7vKQknqsE3GGB3YER5HGKQ"
     },
     {
       "added_at": "2023-11-22 12:51:56",

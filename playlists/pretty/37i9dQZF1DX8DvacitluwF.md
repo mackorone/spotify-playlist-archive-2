@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DvacitluwF.md) - [plain]
 
 > The best in South African and international R&B\. Cover: Ben September
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,671 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,684 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DvacitluwF.md) - [plain]
 | 31 | [Love](https://open.spotify.com/track/4ACbff3fw2FkJ0xtJWilck) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [No Sign of Weakness](https://open.spotify.com/album/35EMM8QwKJ2qXmoUJnUSNf) | 2:56 |
 | 32 | [TABOO](https://open.spotify.com/track/17NLXL91ilTSQWEBRVbBGY) | [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT) | [TABOO](https://open.spotify.com/album/68ug4QKhy15hepdgMMRo10) | 2:45 |
 | 33 | [Bittersweet](https://open.spotify.com/track/6DKGwoYNtFOScgbtTQO3zn) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [The Only Love We Know](https://open.spotify.com/album/2yqz7Zcel4REXGt1qdbUma) | 3:57 |
-| 34 | [idea 1](https://open.spotify.com/track/3ZTKg748vW7Zrll3wzwjJy) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [idea 1](https://open.spotify.com/album/0d0V3ranIJdJ0RjSo4Q7Qm) | 3:25 |
-| 35 | [Lady](https://open.spotify.com/track/1aeRSlCn1EF7f5q7b5l6uu) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Mirage](https://open.spotify.com/album/37H6dgOYnjPeTDrcDBuPB2) | 3:03 |
+| 34 | [Lady](https://open.spotify.com/track/1aeRSlCn1EF7f5q7b5l6uu) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Mirage](https://open.spotify.com/album/37H6dgOYnjPeTDrcDBuPB2) | 3:03 |
+| 35 | [idea 1](https://open.spotify.com/track/3ZTKg748vW7Zrll3wzwjJy) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [idea 1](https://open.spotify.com/album/0d0V3ranIJdJ0RjSo4Q7Qm) | 3:25 |
 | 36 | [Acres](https://open.spotify.com/track/5X4MryeUcDuIisyVitndm3) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [To Dry a Tear](https://open.spotify.com/album/30ObM5UE8nSeiMYURlo4id) | 3:04 |
 | 37 | [Have A Baby \(With Me\)](https://open.spotify.com/track/1V0rl8HIvcfn1ztxPuYMFc) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Have A Baby \(With Me\)](https://open.spotify.com/album/0FAHYQcSzpQ41vTTyRHUtm) | 3:45 |
 | 38 | [heal something](https://open.spotify.com/track/5cF1qDDpSg5oPJDGCMv57X) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [ACT II](https://open.spotify.com/album/7okzZXqRBnjDMA6ZKh9CWo) | 3:01 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1dAid2.md) - [plain]
 
 > This is Chuck Berry\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,152 likes - 50 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,157 likes - 50 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1dAid2.md) - [plain]
 | 43 | [Viva Viva Rock 'N' Roll](https://open.spotify.com/track/32KddGW46wnlpKbl62gqca) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [San Francisco Dues](https://open.spotify.com/album/1gx9zPpDsECgKU5TUc7PbR) | 2:02 |
 | 44 | [You Two](https://open.spotify.com/track/3TuiKidTSxOK2bk9RPhrpN) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [St\. Louis To Liverpool](https://open.spotify.com/album/6ITR4bqkKZGyanAlQgXtyK) | 2:09 |
 | 45 | [St\. Louis Blues](https://open.spotify.com/track/0tsgFZdGoCVMeaXVmnrWbF) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Chuck Berry In London](https://open.spotify.com/album/7iSQ8Jg0DA18JCl4SqpDEW) | 2:37 |
-| 46 | [I Got To Find My Baby \- Single Version](https://open.spotify.com/track/5qojkHvPBrbT0Z7SAgYboD) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Rockin' At The Hops](https://open.spotify.com/album/48jzxU4WCz6726keexOGoe) | 2:12 |
-| 47 | [Downbound Train](https://open.spotify.com/track/4q0J9IdCJ7l8YjNNxp4UZL) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [After School Session](https://open.spotify.com/album/74l3iTVn21XoY6VZJ0FpkH) | 2:49 |
+| 46 | [Downbound Train](https://open.spotify.com/track/4q0J9IdCJ7l8YjNNxp4UZL) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [After School Session](https://open.spotify.com/album/74l3iTVn21XoY6VZJ0FpkH) | 2:49 |
+| 47 | [I Got To Find My Baby \- Single Version](https://open.spotify.com/track/5qojkHvPBrbT0Z7SAgYboD) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Rockin' At The Hops](https://open.spotify.com/album/48jzxU4WCz6726keexOGoe) | 2:12 |
 | 48 | [I'm Talking About You](https://open.spotify.com/track/4Qz94VdIvKAmtBIyuoAZW9) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [New Juke Box Hits](https://open.spotify.com/album/66vytUOJAN0XG0AomrREtH) | 1:48 |
 | 49 | [House Of Blue Lights](https://open.spotify.com/track/0iVcJZ8bjL82406m2og7Df) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Blues](https://open.spotify.com/album/7tlJjyQw0cDB9R2lIXw2ey) | 2:26 |
 | 50 | [Oh Baby Doll](https://open.spotify.com/track/6AxUkSoQ9zQdLlBGni4rpf) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [One Dozen Berry's](https://open.spotify.com/album/7CwgdWMtqOgQRzOdzHMwiQ) | 2:36 |
 
-Snapshot ID: `ag5LAAAAAAAn20HGVLlZCJTDmwvQzNr/`
+Snapshot ID: `ag+cgAAAAACHjxefOK6lVvOMLxt1MrZ8`

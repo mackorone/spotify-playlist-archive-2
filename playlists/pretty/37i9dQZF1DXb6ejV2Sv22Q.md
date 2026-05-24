@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6ejV2Sv22Q.md) - [plain]
 
 > aquí está la nueva ola 🌊  RØZ en cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,923 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,925 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6ejV2Sv22Q.md) - [plain]
 | 49 | [me olvidarás \(como lo haces ya\)](https://open.spotify.com/track/4yxdGAEtZSDh1mggFiBXZ3) | [incluso si nunca despiertas](https://open.spotify.com/artist/1U15da7scYhZb2sdEs4sFI) | [soñé que me llevabas](https://open.spotify.com/album/4wGUWrq6AkysMLGxjvcN3c) | 2:57 |
 | 50 | [NOTYPE \(feat\. Angely2k\) \- Remix](https://open.spotify.com/track/5ER0JA9dl4vq8rj0zYsTNp) | [FLVCKKA](https://open.spotify.com/artist/12fZoiFXBSs7aVMxGKQgBN), [Yeri Mua](https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M), [angely2k](https://open.spotify.com/artist/4gt3Ws8Q3RY6yabs4U5Egl) | [NOTYPE \(feat\. Angely2k\) \[Remix\]](https://open.spotify.com/album/1PhC7c3yvUy2fV7t7vzBDI) | 2:42 |
 
-Snapshot ID: `AAAAAL81aTRrjkMeb2pT2qKCZO6gTczR`
+Snapshot ID: `AAAAALiJ6Ulzt6Jso+Xepps7HZYzJJmQ`

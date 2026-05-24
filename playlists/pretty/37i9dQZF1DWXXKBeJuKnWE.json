@@ -1,12 +1,12 @@
 {
   "description": "The home for heavy music. Cover: Beartooth",
-  "num_followers": 492772,
+  "num_followers": 492762,
   "original_name": "The Pit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHgoWLqmI12IkmZLqMU2jmY6iWnr",
+  "snapshot_id": "AAAAACyEJqviHnXL78y+tcaMfWxA6O3E",
   "tracks": [
     {
       "added_at": "2026-05-15 10:08:52",
@@ -487,6 +487,22 @@
     {
       "added_at": "2026-05-15 10:08:52",
       "album": {
+        "name": "Destroy Me",
+        "url": "https://open.spotify.com/album/6M1XaMPbxRZZcmM38GwUQc"
+      },
+      "artists": [
+        {
+          "name": "PRESIDENT",
+          "url": "https://open.spotify.com/artist/40nPYop0FOD9Syyu5y4dAU"
+        }
+      ],
+      "duration_ms": 162826,
+      "name": "Destroy Me",
+      "url": "https://open.spotify.com/track/5sdqwzp1kSHHqTFsyfhrZW"
+    },
+    {
+      "added_at": "2026-05-15 10:08:52",
+      "album": {
         "name": "Hive Mind (feat. Denzel Curry)",
         "url": "https://open.spotify.com/album/6eNCE2Inl49H7U8L0YaaRg"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 206161,
       "name": "Hive Mind (feat. Denzel Curry)",
       "url": "https://open.spotify.com/track/4jfzIzQiUabe8PDNo0O66j"
-    },
-    {
-      "added_at": "2026-05-15 10:08:52",
-      "album": {
-        "name": "Destroy Me",
-        "url": "https://open.spotify.com/album/6M1XaMPbxRZZcmM38GwUQc"
-      },
-      "artists": [
-        {
-          "name": "PRESIDENT",
-          "url": "https://open.spotify.com/artist/40nPYop0FOD9Syyu5y4dAU"
-        }
-      ],
-      "duration_ms": 162826,
-      "name": "Destroy Me",
-      "url": "https://open.spotify.com/track/5sdqwzp1kSHHqTFsyfhrZW"
     },
     {
       "added_at": "2026-05-15 10:08:52",
@@ -571,22 +571,6 @@
     {
       "added_at": "2026-05-15 10:08:52",
       "album": {
-        "name": "SONG OF THE SWAMP",
-        "url": "https://open.spotify.com/album/7jx0RyYXimNfJDm7ohjIUN"
-      },
-      "artists": [
-        {
-          "name": "Wage War",
-          "url": "https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6"
-        }
-      ],
-      "duration_ms": 198118,
-      "name": "SONG OF THE SWAMP",
-      "url": "https://open.spotify.com/track/3nImaje8npYkUGZG4AQlc4"
-    },
-    {
-      "added_at": "2026-05-15 10:08:52",
-      "album": {
         "name": "King Of Terrors",
         "url": "https://open.spotify.com/album/5ea5VKYvbGuPNKEJjDm25t"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 182571,
       "name": "Dionysus",
       "url": "https://open.spotify.com/track/16oBX63zAQRkNeNa2SDYo1"
+    },
+    {
+      "added_at": "2026-05-15 10:08:52",
+      "album": {
+        "name": "SONG OF THE SWAMP",
+        "url": "https://open.spotify.com/album/7jx0RyYXimNfJDm7ohjIUN"
+      },
+      "artists": [
+        {
+          "name": "Wage War",
+          "url": "https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6"
+        }
+      ],
+      "duration_ms": 198118,
+      "name": "SONG OF THE SWAMP",
+      "url": "https://open.spotify.com/track/3nImaje8npYkUGZG4AQlc4"
     },
     {
       "added_at": "2026-05-15 10:08:52",
@@ -655,22 +655,6 @@
     {
       "added_at": "2026-05-15 10:08:52",
       "album": {
-        "name": "Asking For A Friend",
-        "url": "https://open.spotify.com/album/7duNAzheTsc00oX22aCqXn"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 269000,
-      "name": "Asking For A Friend",
-      "url": "https://open.spotify.com/track/6H8kmcBIUymcI1byu6QCRp"
-    },
-    {
-      "added_at": "2026-05-15 10:08:52",
-      "album": {
         "name": "The End is Not the End",
         "url": "https://open.spotify.com/album/43jPtoyy13asIz0OwrWKns"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 232135,
       "name": "In the Dark",
       "url": "https://open.spotify.com/track/78Byi7xHQziRc0dRsNMwBb"
+    },
+    {
+      "added_at": "2026-05-15 10:08:52",
+      "album": {
+        "name": "Asking For A Friend",
+        "url": "https://open.spotify.com/album/7duNAzheTsc00oX22aCqXn"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 269000,
+      "name": "Asking For A Friend",
+      "url": "https://open.spotify.com/track/6H8kmcBIUymcI1byu6QCRp"
     },
     {
       "added_at": "2026-05-15 10:08:52",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2026-05-15 10:08:52",
       "album": {
-        "name": "human props",
-        "url": "https://open.spotify.com/album/5hfpwOhdaXA3vOAaN7c4v0"
-      },
-      "artists": [
-        {
-          "name": "Static Dress",
-          "url": "https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi"
-        }
-      ],
-      "duration_ms": 236273,
-      "name": "human props",
-      "url": "https://open.spotify.com/track/6SHRRutKyl62aHFP8vT0Fg"
-    },
-    {
-      "added_at": "2026-05-15 10:08:52",
-      "album": {
         "name": "Theft World",
         "url": "https://open.spotify.com/album/6UQvKJID9tTP81IIFRt9Dk"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 182665,
       "name": "Shoplifting",
       "url": "https://open.spotify.com/track/4DnfluGk0mleygfT9clm0v"
+    },
+    {
+      "added_at": "2026-05-15 10:08:52",
+      "album": {
+        "name": "human props",
+        "url": "https://open.spotify.com/album/5hfpwOhdaXA3vOAaN7c4v0"
+      },
+      "artists": [
+        {
+          "name": "Static Dress",
+          "url": "https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi"
+        }
+      ],
+      "duration_ms": 236273,
+      "name": "human props",
+      "url": "https://open.spotify.com/track/6SHRRutKyl62aHFP8vT0Fg"
     },
     {
       "added_at": "2026-05-15 10:08:52",
@@ -1167,22 +1167,18 @@
     {
       "added_at": "2026-05-15 10:08:52",
       "album": {
-        "name": "Good Enough (feat. Caskets)",
-        "url": "https://open.spotify.com/album/2Knj2sM9MP94zUuYcHqmwH"
+        "name": "Wrath",
+        "url": "https://open.spotify.com/album/5gnns6pmLUdRjfQnSdFeOb"
       },
       "artists": [
         {
-          "name": "Rising Insane",
-          "url": "https://open.spotify.com/artist/7InRNmmQuAi5KGBFtfOkrf"
-        },
-        {
-          "name": "Caskets",
-          "url": "https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK"
+          "name": "Gore.",
+          "url": "https://open.spotify.com/artist/29lirphalEtxlf1f8XlGes"
         }
       ],
-      "duration_ms": 165970,
-      "name": "Good Enough (feat. Caskets)",
-      "url": "https://open.spotify.com/track/634fbt01oPnkmCBMPNJUWA"
+      "duration_ms": 273696,
+      "name": "Wrath",
+      "url": "https://open.spotify.com/track/2v2S3rEa4kBh96NCEtv02m"
     },
     {
       "added_at": "2026-05-15 10:08:52",
@@ -1203,18 +1199,22 @@
     {
       "added_at": "2026-05-15 10:08:52",
       "album": {
-        "name": "Wrath",
-        "url": "https://open.spotify.com/album/5gnns6pmLUdRjfQnSdFeOb"
+        "name": "Good Enough (feat. Caskets)",
+        "url": "https://open.spotify.com/album/2Knj2sM9MP94zUuYcHqmwH"
       },
       "artists": [
         {
-          "name": "Gore.",
-          "url": "https://open.spotify.com/artist/29lirphalEtxlf1f8XlGes"
+          "name": "Rising Insane",
+          "url": "https://open.spotify.com/artist/7InRNmmQuAi5KGBFtfOkrf"
+        },
+        {
+          "name": "Caskets",
+          "url": "https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK"
         }
       ],
-      "duration_ms": 273696,
-      "name": "Wrath",
-      "url": "https://open.spotify.com/track/2v2S3rEa4kBh96NCEtv02m"
+      "duration_ms": 165970,
+      "name": "Good Enough (feat. Caskets)",
+      "url": "https://open.spotify.com/track/634fbt01oPnkmCBMPNJUWA"
     },
     {
       "added_at": "2026-05-15 10:08:52",
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2026-05-15 10:08:52",
       "album": {
+        "name": "Scatterbrain",
+        "url": "https://open.spotify.com/album/3yN8bG6yNUoPnu3UAnfW4p"
+      },
+      "artists": [
+        {
+          "name": "Split Chain",
+          "url": "https://open.spotify.com/artist/5J0ehnVK9YOBGWOwE022ar"
+        }
+      ],
+      "duration_ms": 194536,
+      "name": "Scatterbrain",
+      "url": "https://open.spotify.com/track/5332V1NVIYcKxW1zftGGWH"
+    },
+    {
+      "added_at": "2026-05-15 10:08:52",
+      "album": {
         "name": "Violent Obsession",
         "url": "https://open.spotify.com/album/6HzUhdKOTsP078MiVMNeHx"
       },
@@ -1499,18 +1515,18 @@
     {
       "added_at": "2026-05-15 10:08:52",
       "album": {
-        "name": "Scatterbrain",
-        "url": "https://open.spotify.com/album/3yN8bG6yNUoPnu3UAnfW4p"
+        "name": "PUT A HIT ON",
+        "url": "https://open.spotify.com/album/7MiPScbsDhy7lG4iwyita2"
       },
       "artists": [
         {
-          "name": "Split Chain",
-          "url": "https://open.spotify.com/artist/5J0ehnVK9YOBGWOwE022ar"
+          "name": "MUTTLEE",
+          "url": "https://open.spotify.com/artist/0bAnN5tpvVWIGm8UDNhX9L"
         }
       ],
-      "duration_ms": 194536,
-      "name": "Scatterbrain",
-      "url": "https://open.spotify.com/track/5332V1NVIYcKxW1zftGGWH"
+      "duration_ms": 174807,
+      "name": "PUT A HIT ON",
+      "url": "https://open.spotify.com/track/3jjb8fZTroUsroISbstlkK"
     },
     {
       "added_at": "2026-05-15 10:08:52",
@@ -1543,22 +1559,6 @@
       "duration_ms": 241114,
       "name": "Iron Gate",
       "url": "https://open.spotify.com/track/3hxOUdnf1zeY2RoH7ozob5"
-    },
-    {
-      "added_at": "2026-05-15 10:08:52",
-      "album": {
-        "name": "PUT A HIT ON",
-        "url": "https://open.spotify.com/album/7MiPScbsDhy7lG4iwyita2"
-      },
-      "artists": [
-        {
-          "name": "MUTTLEE",
-          "url": "https://open.spotify.com/artist/0bAnN5tpvVWIGm8UDNhX9L"
-        }
-      ],
-      "duration_ms": 174807,
-      "name": "PUT A HIT ON",
-      "url": "https://open.spotify.com/track/3jjb8fZTroUsroISbstlkK"
     },
     {
       "added_at": "2026-05-15 10:08:52",
@@ -1611,6 +1611,22 @@
     {
       "added_at": "2026-05-15 10:08:52",
       "album": {
+        "name": "Eat My Dust!",
+        "url": "https://open.spotify.com/album/3eCKd3mcrPqqgrOxQ1dM55"
+      },
+      "artists": [
+        {
+          "name": "Dead Pony",
+          "url": "https://open.spotify.com/artist/3lGO6uBIzoFyU6OoGMER1B"
+        }
+      ],
+      "duration_ms": 176774,
+      "name": "Boom!",
+      "url": "https://open.spotify.com/track/7x97B4yKcAXoAgq0UjAvLO"
+    },
+    {
+      "added_at": "2026-05-15 10:08:52",
+      "album": {
         "name": "BLAME (feat. Corey Taylor)",
         "url": "https://open.spotify.com/album/1LqHo7nmaZhSAoYAnk6tA4"
       },
@@ -1631,18 +1647,18 @@
     {
       "added_at": "2026-05-15 10:08:52",
       "album": {
-        "name": "Eat My Dust!",
-        "url": "https://open.spotify.com/album/3eCKd3mcrPqqgrOxQ1dM55"
+        "name": "Steelbound",
+        "url": "https://open.spotify.com/album/2729tzbbE6CeRuFmbGOUry"
       },
       "artists": [
         {
-          "name": "Dead Pony",
-          "url": "https://open.spotify.com/artist/3lGO6uBIzoFyU6OoGMER1B"
+          "name": "Battle Beast",
+          "url": "https://open.spotify.com/artist/7k5jeohQCF20a8foBD9ize"
         }
       ],
-      "duration_ms": 176774,
-      "name": "Boom!",
-      "url": "https://open.spotify.com/track/7x97B4yKcAXoAgq0UjAvLO"
+      "duration_ms": 235800,
+      "name": "Twilight Cabaret",
+      "url": "https://open.spotify.com/track/5SMh3O6GhEN31zwLfiqTqK"
     },
     {
       "added_at": "2026-05-15 10:08:52",
@@ -1659,22 +1675,6 @@
       "duration_ms": 177333,
       "name": "This Is The Sound",
       "url": "https://open.spotify.com/track/5u3LQf7tg1eS2AEGyguDPa"
-    },
-    {
-      "added_at": "2026-05-15 10:08:52",
-      "album": {
-        "name": "Steelbound",
-        "url": "https://open.spotify.com/album/2729tzbbE6CeRuFmbGOUry"
-      },
-      "artists": [
-        {
-          "name": "Battle Beast",
-          "url": "https://open.spotify.com/artist/7k5jeohQCF20a8foBD9ize"
-        }
-      ],
-      "duration_ms": 235800,
-      "name": "Twilight Cabaret",
-      "url": "https://open.spotify.com/track/5SMh3O6GhEN31zwLfiqTqK"
     },
     {
       "added_at": "2026-05-15 10:08:52",

@@ -1,12 +1,12 @@
 {
   "description": "pral\u00e9m de outfit. AURA. Foto: Brand\u00e3o85",
-  "num_followers": 148932,
+  "num_followers": 148931,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHe5gB30S6NmrwP1cOuoHKyNTRz6",
+  "snapshot_id": "AAAAAPTRK9LhRhWiK8XATxV+BkfvHM1U",
   "tracks": [
     {
       "added_at": "2026-05-15 17:27:59",
@@ -563,30 +563,6 @@
     {
       "added_at": "2026-05-15 17:27:59",
       "album": {
-        "name": "SWAGBOY 2",
-        "url": "https://open.spotify.com/album/2SBWcFFuIYFOgC6tNe0d3F"
-      },
-      "artists": [
-        {
-          "name": "Neckklace",
-          "url": "https://open.spotify.com/artist/3914e1ewXuF036M63rgK0d"
-        },
-        {
-          "name": "Phl Notunrboy",
-          "url": "https://open.spotify.com/artist/6OR5QDOXtB0dAKK3VEmXHr"
-        },
-        {
-          "name": "DESSIIIK",
-          "url": "https://open.spotify.com/artist/3ZLfLpRggl7ncrWSQy9WTV"
-        }
-      ],
-      "duration_ms": 226068,
-      "name": "PSICK@SWAG",
-      "url": "https://open.spotify.com/track/2WVc6nzaTCTEkPFRPs3Aer"
-    },
-    {
-      "added_at": "2026-05-15 17:27:59",
-      "album": {
         "name": "CHTC?",
         "url": "https://open.spotify.com/album/1vEV2f6XN0j4hhDHIXf5I4"
       },
@@ -611,6 +587,30 @@
       "duration_ms": 160000,
       "name": "OURO BRANCO",
       "url": "https://open.spotify.com/track/6PFsoFrUgww46DSM963is1"
+    },
+    {
+      "added_at": "2026-05-15 17:27:59",
+      "album": {
+        "name": "SWAGBOY 2",
+        "url": "https://open.spotify.com/album/2SBWcFFuIYFOgC6tNe0d3F"
+      },
+      "artists": [
+        {
+          "name": "Neckklace",
+          "url": "https://open.spotify.com/artist/3914e1ewXuF036M63rgK0d"
+        },
+        {
+          "name": "Phl Notunrboy",
+          "url": "https://open.spotify.com/artist/6OR5QDOXtB0dAKK3VEmXHr"
+        },
+        {
+          "name": "DESSIIIK",
+          "url": "https://open.spotify.com/artist/3ZLfLpRggl7ncrWSQy9WTV"
+        }
+      ],
+      "duration_ms": 226068,
+      "name": "PSICK@SWAG",
+      "url": "https://open.spotify.com/track/2WVc6nzaTCTEkPFRPs3Aer"
     },
     {
       "added_at": "2026-05-15 17:27:59",

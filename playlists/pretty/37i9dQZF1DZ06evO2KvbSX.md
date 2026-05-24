@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2KvbSX.md) - [plain]
 
 > This is Lewis Capaldi\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 806,627 likes - 38 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 806,659 likes - 38 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2KvbSX.md) - [plain]
 | 37 | [Shallow \- BBC Radio 1 Live Lounge](https://open.spotify.com/track/7y2M7zBxC6g8zmkhUvfy7C) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [To Tell The Truth I Can't Believe We Got This Far EP](https://open.spotify.com/album/3m5tsdLE4yPub7Um77Bobi) | 3:48 |
 | 38 | [Bruises \- Steve Void Remix](https://open.spotify.com/track/4raMIjIjMc8JohHth7l9lG) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB), [Steve Void](https://open.spotify.com/artist/3WSK3JppX3N41XHVwQp7Gt) | [Bruises EP](https://open.spotify.com/album/3bAq5agU2IUDfDuO4w50aR) | 3:32 |
 
-Snapshot ID: `ag5LAAAAAAA69BRDJmC4/me/pUWE7+Ha`
+Snapshot ID: `ag+cgAAAAADiHOmkJLkdRrMWCrd/OF2o`

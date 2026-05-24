@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWBRiUaG3o5.md) - [plain]
 
 > Keep your night easy and light with this acoustic mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,129,533 likes - 100 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,129,513 likes - 100 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWBRiUaG3o5.md) - [plain]
 | 33 | [Ether Garden](https://open.spotify.com/track/6WsgELUOvr9rf3XWolZYjc) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [Gloria Duplex](https://open.spotify.com/album/33kQ6VPlEEAQTctQZQmd1b) | 2:47 |
 | 34 | [Blue Heron](https://open.spotify.com/track/4wtmy1jLQze3so4AYW7u0J) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Blue Heron Suite](https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV) | 4:28 |
 | 35 | [Wild Turkey](https://open.spotify.com/track/4aX4dqpYXTxRMTcjekxPyp) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Wild Turkey](https://open.spotify.com/album/7iaq4ZxNNKZl9v92lOxQ7N) | 4:32 |
-| 36 | [Sunny Side Up](https://open.spotify.com/track/3bJYnrKcPfmPDmKYPgfwG7) | [Pete Josef](https://open.spotify.com/artist/7c59lOg1veety7jD83d31w) | [Sunny Side Up](https://open.spotify.com/album/6YFaCSjqJmXLL4UkT2TBQi) | 4:00 |
-| 37 | [Should I](https://open.spotify.com/track/7bUDoZirLuxyxQEsLEQv6s) | [Arum Rae](https://open.spotify.com/artist/4aqcilLiGfXetHrTuC8DG9) | [Sub Rosa](https://open.spotify.com/album/208D0gsXCpr6urKKD9l4Pu) | 4:04 |
+| 36 | [Should I](https://open.spotify.com/track/7bUDoZirLuxyxQEsLEQv6s) | [Arum Rae](https://open.spotify.com/artist/4aqcilLiGfXetHrTuC8DG9) | [Sub Rosa](https://open.spotify.com/album/208D0gsXCpr6urKKD9l4Pu) | 4:04 |
+| 37 | [Sunny Side Up](https://open.spotify.com/track/3bJYnrKcPfmPDmKYPgfwG7) | [Pete Josef](https://open.spotify.com/artist/7c59lOg1veety7jD83d31w) | [Sunny Side Up](https://open.spotify.com/album/6YFaCSjqJmXLL4UkT2TBQi) | 4:00 |
 | 38 | [Young Bodies](https://open.spotify.com/track/4BhEQsifqbzCdknLf52O1G) | [Sea Wolf](https://open.spotify.com/artist/3ZllGjNdP5pS8UFnT5Jj2x) | [Song Spells, No.1: Cedarsmoke](https://open.spotify.com/album/3Q4S1bRlEEeztfrM4KsMFQ) | 3:29 |
 | 39 | [A Sea of Roses](https://open.spotify.com/track/72w7uKE7CkNwpLFUBHqUkC) | [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [All the Things That I Did and All the Things That I Didn't Do](https://open.spotify.com/album/1BpQ1yTs26aKJg0aWqnzEq) | 3:19 |
 | 40 | [Cormorant Bird](https://open.spotify.com/track/4BSUpjNIIuy766fewPrcvH) | [Fionn Regan](https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy) | [Cormorant Bird](https://open.spotify.com/album/6TfLPZhtwAxbeWMuCLxPYq) | 3:27 |
@@ -91,16 +91,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWBRiUaG3o5.md) - [plain]
 | 81 | [Winter Song](https://open.spotify.com/track/01NSrsQkOZ3PgRcGLGrOT5) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [The Head and the Heart](https://open.spotify.com/album/0xWfhCMYmaiCXtLOuyPoLF) | 2:43 |
 | 82 | [Before the Sun](https://open.spotify.com/track/5g54tKWuCOrHmLppzxzQrt) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [Before the Sun](https://open.spotify.com/album/4tCs31ECl6vTX2t5hVOeN2) | 2:48 |
 | 83 | [Even The Darkness Has Arms](https://open.spotify.com/track/1NCAKlp1bFHYbSSDQxfbJ1) | [The Barr Brothers](https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7) | [Sleeping Operator](https://open.spotify.com/album/3heNYqE1CUM8WlJGm6UPEj) | 3:50 |
-| 84 | [Mother Song](https://open.spotify.com/track/4td1zVlZkYccd9ezPUzhoF) | [Westerman](https://open.spotify.com/artist/09s6bLEw45wioK9ytf3nsA) | [Jericho](https://open.spotify.com/album/0GN4GI4OZ5iVUXinJZB259) | 2:53 |
-| 85 | [I Knew This Would Be Love](https://open.spotify.com/track/6r44uyKRo3jKFRkThTZBXu) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [Fire Escape](https://open.spotify.com/album/0bY6NsCY29oavs7TUmKUvD) | 3:30 |
-| 86 | [Sinking Ship](https://open.spotify.com/track/3pC8tUjIZPORslYYmJbJcz) | [Wild Child](https://open.spotify.com/artist/1xLMexpeeTKQ20SwGMaGSK) | [Sinking Ship / Back & Forth](https://open.spotify.com/album/0zMY9ikg9RB64fPHXKAmYt) | 4:07 |
-| 87 | [Rest \(Acoustic\)](https://open.spotify.com/track/54zNVHj8N3wjCb4UpqSvKw) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Rest](https://open.spotify.com/album/1sZm9pYhNz5WGEZEOeISzr) | 5:19 |
-| 88 | [All Is Well](https://open.spotify.com/track/77vpyfnzo1ROWQERRRe21h) | [Austin Basham](https://open.spotify.com/artist/3Dd1WVQvZUgyi9XEqOIPhA) | [All Is Well](https://open.spotify.com/album/2p28pzBcrJHjxCBgWV9Exa) | 4:16 |
-| 89 | [Back to Love](https://open.spotify.com/track/1CsGyKtUsk0uEKIoaHIEuR) | [Jon Bryant](https://open.spotify.com/artist/2gzH4rGNFJeNg13yv2uI4L) | [Back to Love](https://open.spotify.com/album/64Ll0RVJLquQzXJCFTuDNx) | 3:51 |
-| 90 | [The Moons Detriment](https://open.spotify.com/track/6dRKRVyjzxa2efBCXZez6R) | [Shannon Lay](https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6) | [The Moons Detriment](https://open.spotify.com/album/40uRLasPxbgmHu5yfueU2m) | 2:35 |
-| 91 | [Long Lost Century](https://open.spotify.com/track/69Gl4TGHzW9lYuLou5ryBK) | [The Woodlands](https://open.spotify.com/artist/3uitNL8cJAFwhKlDO762Gx) | [Gems and Bones](https://open.spotify.com/album/64GryBzr6ih4Z3rlkdO7oV) | 4:16 |
-| 92 | [Anchor](https://open.spotify.com/track/6x6XKEUcCJGUACD4Xh7KuP) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Anchor](https://open.spotify.com/album/7FTALPLhRQiMuMyaSd1M5d) | 4:16 |
-| 93 | [Nothing Arrived \- Live from Spotify London](https://open.spotify.com/track/4JKHACLkotsxdKNF9vJYOS) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [Spotify Sessions](https://open.spotify.com/album/378rFsWTa7DZ8nZVHSaA18) | 3:39 |
+| 84 | [Nothing Arrived \- Live from Spotify London](https://open.spotify.com/track/4JKHACLkotsxdKNF9vJYOS) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [Spotify Sessions](https://open.spotify.com/album/378rFsWTa7DZ8nZVHSaA18) | 3:39 |
+| 85 | [Mother Song](https://open.spotify.com/track/4td1zVlZkYccd9ezPUzhoF) | [Westerman](https://open.spotify.com/artist/09s6bLEw45wioK9ytf3nsA) | [Jericho](https://open.spotify.com/album/0GN4GI4OZ5iVUXinJZB259) | 2:53 |
+| 86 | [I Knew This Would Be Love](https://open.spotify.com/track/6r44uyKRo3jKFRkThTZBXu) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [Fire Escape](https://open.spotify.com/album/0bY6NsCY29oavs7TUmKUvD) | 3:30 |
+| 87 | [Sinking Ship](https://open.spotify.com/track/3pC8tUjIZPORslYYmJbJcz) | [Wild Child](https://open.spotify.com/artist/1xLMexpeeTKQ20SwGMaGSK) | [Sinking Ship / Back & Forth](https://open.spotify.com/album/0zMY9ikg9RB64fPHXKAmYt) | 4:07 |
+| 88 | [Rest \(Acoustic\)](https://open.spotify.com/track/54zNVHj8N3wjCb4UpqSvKw) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Rest](https://open.spotify.com/album/1sZm9pYhNz5WGEZEOeISzr) | 5:19 |
+| 89 | [All Is Well](https://open.spotify.com/track/77vpyfnzo1ROWQERRRe21h) | [Austin Basham](https://open.spotify.com/artist/3Dd1WVQvZUgyi9XEqOIPhA) | [All Is Well](https://open.spotify.com/album/2p28pzBcrJHjxCBgWV9Exa) | 4:16 |
+| 90 | [Back to Love](https://open.spotify.com/track/1CsGyKtUsk0uEKIoaHIEuR) | [Jon Bryant](https://open.spotify.com/artist/2gzH4rGNFJeNg13yv2uI4L) | [Back to Love](https://open.spotify.com/album/64Ll0RVJLquQzXJCFTuDNx) | 3:51 |
+| 91 | [The Moons Detriment](https://open.spotify.com/track/6dRKRVyjzxa2efBCXZez6R) | [Shannon Lay](https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6) | [The Moons Detriment](https://open.spotify.com/album/40uRLasPxbgmHu5yfueU2m) | 2:35 |
+| 92 | [Long Lost Century](https://open.spotify.com/track/69Gl4TGHzW9lYuLou5ryBK) | [The Woodlands](https://open.spotify.com/artist/3uitNL8cJAFwhKlDO762Gx) | [Gems and Bones](https://open.spotify.com/album/64GryBzr6ih4Z3rlkdO7oV) | 4:16 |
+| 93 | [Anchor](https://open.spotify.com/track/6x6XKEUcCJGUACD4Xh7KuP) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Anchor](https://open.spotify.com/album/7FTALPLhRQiMuMyaSd1M5d) | 4:16 |
 | 94 | [The Rhine](https://open.spotify.com/track/0gaQPwSznFAihn0xInJUxR) | [Corey Kilgannon](https://open.spotify.com/artist/0XuYkyliNor6szd1B6oBKk) | [She Is Blue Sky, I'm the Gray](https://open.spotify.com/album/77Gum1zJBVkI3IvVYgaM6X) | 3:30 |
 | 95 | [symbol](https://open.spotify.com/track/7f3xVpWfp3FPursBSrIEMJ) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [abysskiss](https://open.spotify.com/album/5W6TxvIqACEfnxm0VgPhv7) | 3:49 |
 | 96 | [Visions](https://open.spotify.com/track/67yniWH9m9UjFwSA0CPeIk) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Visions](https://open.spotify.com/album/3HGLigPm8UcqiA0vPAv3Ye) | 3:55 |

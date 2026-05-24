@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2aneNMeYHQ8.md) - [plain]
 
 > alt, indie rock, and folk sprinkled into this sonic melting pot\. Cover: Noah Kahan
 
-[Spotify](https://open.spotify.com/user/spotify) - 615,649 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 615,628 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2aneNMeYHQ8.md) - [plain]
 | 43 | [Gild the Lily](https://open.spotify.com/track/181YsWsKwhTmoHYZ4xtiuZ) | [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [Highway Prayers](https://open.spotify.com/album/6ARzD9YEt9vx2rz7X3NDlo) | 5:05 |
 | 44 | [Sexy to Someone](https://open.spotify.com/track/2Nq4SFbvYYZa8AF7lD7CWU) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Sexy to Someone](https://open.spotify.com/album/281y6GLUpFfmSyBO7JMLfU) | 3:27 |
 | 45 | [Greyhound](https://open.spotify.com/track/60DSysH1dDIThBHXpNxSNv) | [Palace](https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm) | [Greyhound](https://open.spotify.com/album/4SVuAXDREVQ4JTAAAW9tCx) | 3:46 |
-| 46 | [Sixteen](https://open.spotify.com/track/03mN5X7xFtv6uuBGsB43aY) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [Sixteen](https://open.spotify.com/album/3cZ1wUsjtA7rdd4imnyd2i) | 3:26 |
-| 47 | [White Horses](https://open.spotify.com/track/5FxdLsAmaOo8ofpNvsSun5) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [The Clearing](https://open.spotify.com/album/2kKc3Yid0YR3SSbeQ3x5kV) | 4:29 |
+| 46 | [White Horses](https://open.spotify.com/track/5FxdLsAmaOo8ofpNvsSun5) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [The Clearing](https://open.spotify.com/album/2kKc3Yid0YR3SSbeQ3x5kV) | 4:29 |
+| 47 | [Sixteen](https://open.spotify.com/track/03mN5X7xFtv6uuBGsB43aY) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [Sixteen](https://open.spotify.com/album/3cZ1wUsjtA7rdd4imnyd2i) | 3:26 |
 | 48 | [Rainbow](https://open.spotify.com/track/6buQeGlk47QiPVoPObaZ7x) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Neon Pill](https://open.spotify.com/album/2dGlEut1TyhAyApZ0ADIsd) | 3:15 |
 | 49 | [Save It For Later](https://open.spotify.com/track/2rs6UMzlu1pMGGVw60tiHm) | [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh) | [Save It For Later](https://open.spotify.com/album/5hLsl7NOCJPMDy4GAwaT54) | 4:21 |
 | 50 | [To Space](https://open.spotify.com/track/356x2OD1llA9NfOMXVmGSk) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [EP \#2](https://open.spotify.com/album/4LZ7eLsW6zSsLjBFxhbBg8) | 3:53 |
@@ -81,9 +81,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2aneNMeYHQ8.md) - [plain]
 | 71 | [She Wants To Go Dancing](https://open.spotify.com/track/3CTBfot80XAOyuaJ1jcN5z) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [She Wants To Go Dancing](https://open.spotify.com/album/1UuqWBMwyWnevv8qMBCzyO) | 3:08 |
 | 72 | [Afterlife](https://open.spotify.com/track/0yYQbFuqvXyZc46e2QEqI7) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Afterlife](https://open.spotify.com/album/0DnQhNQf6xRTkN1nVC4l1i) | 3:30 |
 | 73 | [Super Breath](https://open.spotify.com/track/71dMjqJ8UJV700zYs5YZCh) | [Karen O](https://open.spotify.com/artist/6emHCSoB4tJxTVXakbrpPz), [Danger Mouse](https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf) | [Super Breath](https://open.spotify.com/album/6Ab1VSoMD5fvlagOW2QDOJ) | 3:31 |
-| 74 | [Where's My Phone?](https://open.spotify.com/track/4BUDJShvKNRbrgylxri5tI) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Where's My Phone?](https://open.spotify.com/album/1oLPKLJMffq7fO3XapLx4G) | 3:09 |
+| 74 | [Everyone Around Me Dancing](https://open.spotify.com/track/4zAGDYOy1IXm2EX2QhJFWp) | [Gia Margaret](https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C) | [Everyone Around Me Dancing](https://open.spotify.com/album/0tJnP3ZtJfH3wObknhOhjW) | 3:05 |
 | 75 | [Penny in the Lake](https://open.spotify.com/track/4JRHY526eJNjtvod7k3Vgg) | [Ratboys](https://open.spotify.com/artist/1SoBNpuC0N4nvaQFENS0qf) | [Singin’ to an Empty Chair](https://open.spotify.com/album/74sjx2H7SMLQkZrJscHw8Y) | 3:51 |
-| 76 | [Everyone Around Me Dancing](https://open.spotify.com/track/4zAGDYOy1IXm2EX2QhJFWp) | [Gia Margaret](https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C) | [Everyone Around Me Dancing](https://open.spotify.com/album/0tJnP3ZtJfH3wObknhOhjW) | 3:05 |
+| 76 | [Where's My Phone?](https://open.spotify.com/track/4BUDJShvKNRbrgylxri5tI) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Where's My Phone?](https://open.spotify.com/album/1oLPKLJMffq7fO3XapLx4G) | 3:09 |
 | 77 | [Psychos](https://open.spotify.com/track/4CaM2lWgvmWLIBDOkJCD7p) | [Jenny Lewis](https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED) | [Psychos](https://open.spotify.com/album/0siRBdRYz6ECU6EZArzbx1) | 3:05 |
 | 78 | [Even \(with Cat Burns\)](https://open.spotify.com/track/5CeJU8nNGuwR6LWUzJa5QF) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP), [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [Even \(with Cat Burns\)](https://open.spotify.com/album/6uxqYbEgP9HE4twJFCZCIQ) | 2:31 |
 | 79 | [Heartless](https://open.spotify.com/track/6QXhBSDthWBH7e6uQjfWFn) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [Heartless](https://open.spotify.com/album/4yJlgo1yOViRYT0lMTIbxm) | 3:18 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2aneNMeYHQ8.md) - [plain]
 | 86 | [When We Were Close](https://open.spotify.com/track/4QsXlCYFMNpVUzSR9UwWup) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf), [Jason Isbell](https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY) | [Weathervanes](https://open.spotify.com/album/2gL0IM5SYhCxJebPaKdDkx) | 3:57 |
 | 87 | [Television Love](https://open.spotify.com/track/4eh6lldHwQEu5yyfLzqrFw) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [Television Love](https://open.spotify.com/album/2sp7hANBzhnwd3SlUZYPl0) | 4:40 |
 | 88 | [Lonely Cowboy](https://open.spotify.com/track/4b4qenweAK0E90SiuUtrLy) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Lonely Cowboy](https://open.spotify.com/album/4D6uVAiz0FYzdbn3nPdl1A) | 4:53 |
-| 89 | [Not Around Anymore](https://open.spotify.com/track/1kPZab1lC7DztnzVSgQ9VX) | [Broken Social Scene](https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd) | [Not Around Anymore](https://open.spotify.com/album/42FFfnhcdCPEz4cvpfORSl) | 3:52 |
-| 90 | [Arrow](https://open.spotify.com/track/6r2H9RQTO0F9fbbsUodbNP) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Arrow](https://open.spotify.com/album/7M3glxHrbvFxJNkKytfqi3) | 3:14 |
+| 89 | [Arrow](https://open.spotify.com/track/6r2H9RQTO0F9fbbsUodbNP) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Arrow](https://open.spotify.com/album/7M3glxHrbvFxJNkKytfqi3) | 3:14 |
+| 90 | [Not Around Anymore](https://open.spotify.com/track/1kPZab1lC7DztnzVSgQ9VX) | [Broken Social Scene](https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd) | [Not Around Anymore](https://open.spotify.com/album/42FFfnhcdCPEz4cvpfORSl) | 3:52 |
 | 91 | [Call Me \(Whatever You Like\)](https://open.spotify.com/track/4TY6NaYVnusU8E4W2gfIQu) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [South of Here](https://open.spotify.com/album/1LOWCHNR8jAauJd35jafkN) | 3:00 |
 | 92 | [Room On Your Shoulder](https://open.spotify.com/track/5T6ZMk67Sk3gimfuY73tDA) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB), [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Room On Your Shoulder](https://open.spotify.com/album/6pzBe7o7zMyVbgd0j1p0va) | 3:26 |
 | 93 | [Lou Reed Was My Babysitter](https://open.spotify.com/track/5DEH15ogLTyxJnopN6QhId) | [Jeff Tweedy](https://open.spotify.com/artist/2rDxtYUzTAYJJE3Bl3Z5IN) | [Twilight Override](https://open.spotify.com/album/4nczkBnxvOZNewjhxws5q6) | 3:19 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2aneNMeYHQ8.md) - [plain]
 | 96 | [Prove It To You](https://open.spotify.com/track/0w9eE1YhhHG4pTGK2eaWhs) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [What Now](https://open.spotify.com/album/79MPzNLyjgol1RfGZDZLH2) | 3:20 |
 | 97 | [This Time For Real](https://open.spotify.com/track/2LDTkxBmLRr4ENG0kNQLum) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [This Time For Real](https://open.spotify.com/album/4Tv8PFvKfr1Bb4dOZq9b8Z) | 3:12 |
 | 98 | [Violet](https://open.spotify.com/track/1ges2nnhkzi5rNTjsO4vze) | [Joe P](https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x) | [Garden State Vampire](https://open.spotify.com/album/0QpbKPoMoW7LZY1yOVrg2l) | 3:41 |
-| 99 | [Profane Prophecy](https://open.spotify.com/track/5EIMb9DtKFDvq9JSHgmVbs) | [The Black Crowes](https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC) | [Profane Prophecy and Pharmacy Chronicles](https://open.spotify.com/album/3mbekn6ySDgzBW57jz6B1U) | 4:07 |
-| 100 | [Sugar in the Tank](https://open.spotify.com/track/02DPSOj7dXlKBbKZ5BTSJj) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [TORRES](https://open.spotify.com/artist/3lrDYjsghBMfUTiLziD9q9) | [Sugar in the Tank](https://open.spotify.com/album/4IQsbsp2zlYEWgijqZk2ar) | 3:42 |
+| 99 | [Sugar in the Tank](https://open.spotify.com/track/02DPSOj7dXlKBbKZ5BTSJj) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [TORRES](https://open.spotify.com/artist/3lrDYjsghBMfUTiLziD9q9) | [Sugar in the Tank](https://open.spotify.com/album/4IQsbsp2zlYEWgijqZk2ar) | 3:42 |
+| 100 | [Profane Prophecy](https://open.spotify.com/track/5EIMb9DtKFDvq9JSHgmVbs) | [The Black Crowes](https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC) | [Profane Prophecy and Pharmacy Chronicles](https://open.spotify.com/album/3mbekn6ySDgzBW57jz6B1U) | 4:07 |
 
 Snapshot ID: `AAAAAM/KXEOul58q66EUXYKTZQYKC21Q`

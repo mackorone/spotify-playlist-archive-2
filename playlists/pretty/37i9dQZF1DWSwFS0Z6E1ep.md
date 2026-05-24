@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwFS0Z6E1ep.md) - [plain]
 
 > The biggest party hits of the 1950s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 307,789 likes - 135 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 307,833 likes - 135 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,14 +112,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwFS0Z6E1ep.md) - [plain]
 | 102 | [Get Rhythm](https://open.spotify.com/track/2aq1oBnP7Q176mZw5P6eUk) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [The Tennessee Two](https://open.spotify.com/artist/3iGdenNgbzOak86BHrx0Nt) | [Greatest](https://open.spotify.com/album/1tfvwgjJHU9zYWy4qIHZsV) | 2:12 |
 | 103 | [Long Tall Sally](https://open.spotify.com/track/1q7njNe2QfE0xbZMtTOT2m) | [Little Richard](https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm) | [The Very Best Of Little Richard](https://open.spotify.com/album/3LXNSUpx48PQxUn2StRqfu) | 2:08 |
 | 104 | [Whole Lot of Shakin' Going On](https://open.spotify.com/track/6wO13Xb3EdHUNixFOEJ0KV) | [Jerry Lee Lewis](https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo) | [The Essential Jerry Lee Lewis \[The Sun Sessions\]](https://open.spotify.com/album/6OaajpAGeNsPJFkjyQvqHf) | 2:52 |
-| 105 | [Yakety Yak](https://open.spotify.com/track/7demHL0GXA6YmTNqw3Btz8) | [The Coasters](https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM) | [Rhino Hi\-Five: The Coasters](https://open.spotify.com/album/2Yvat4w8j7hrJ1JVUz0wAw) | 1:53 |
-| 106 | [Blue Suede Shoes](https://open.spotify.com/track/3Qylbx7tZcsP9RggQ6umUh) | [Carl Perkins](https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f) | [The Dance Album](https://open.spotify.com/album/6tmyqBnmU3ifbcDw5rZHfc) | 2:14 |
-| 107 | [Summertime Blues](https://open.spotify.com/track/1ZWIQXfAquWtLDK5aOUczS) | [Eddie Cochran](https://open.spotify.com/artist/1p0t3JtUTayV2wb1RGN9mO) | [12 Of His Biggest Hits](https://open.spotify.com/album/4URqXxoj7ZPdqxVxVwiHoe) | 1:59 |
+| 105 | [Summertime Blues](https://open.spotify.com/track/1ZWIQXfAquWtLDK5aOUczS) | [Eddie Cochran](https://open.spotify.com/artist/1p0t3JtUTayV2wb1RGN9mO) | [12 Of His Biggest Hits](https://open.spotify.com/album/4URqXxoj7ZPdqxVxVwiHoe) | 1:59 |
+| 106 | [Yakety Yak](https://open.spotify.com/track/7demHL0GXA6YmTNqw3Btz8) | [The Coasters](https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM) | [Rhino Hi\-Five: The Coasters](https://open.spotify.com/album/2Yvat4w8j7hrJ1JVUz0wAw) | 1:53 |
+| 107 | [Blue Suede Shoes](https://open.spotify.com/track/3Qylbx7tZcsP9RggQ6umUh) | [Carl Perkins](https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f) | [The Dance Album](https://open.spotify.com/album/6tmyqBnmU3ifbcDw5rZHfc) | 2:14 |
 | 108 | [Lucille](https://open.spotify.com/track/49E8SDVZ7BUyNAZZYfZdRx) | [Little Richard](https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm) | [The Essential Little Richard \(Remastered\)](https://open.spotify.com/album/4IxwByzyIrvhcy8VxG2zF0) | 2:22 |
 | 109 | [Why Do Fools Fall In Love](https://open.spotify.com/track/6XAcmxPbCfMzLBvjBd2G0H) | [Frankie Lymon & The Teenagers](https://open.spotify.com/artist/40Zt6u0Ig5vXtrq0htgqvt) | [Frankie Lymon & The Teenagers Greatest Hits](https://open.spotify.com/album/4XtIZdH7Q9CTW31BKo6KkC) | 2:20 |
 | 110 | [Move It \- 2002 Remaster](https://open.spotify.com/track/4vDEkER6ToECKrxiPzE2Tp) | [Cliff Richard & The Drifters](https://open.spotify.com/artist/1yAdL4L8voXQspjN6rdj4b) | [75 at 75](https://open.spotify.com/album/4tlAPVPMmE4rhnkctUdCeG) | 2:21 |
-| 111 | [Boppin' the Blues](https://open.spotify.com/track/0YmHUmDF5y9TQcnDxYdvpw) | [Carl Perkins](https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f) | [The Dance Album](https://open.spotify.com/album/3BVjcVyGYi1yQN8hVmAFlO) | 2:47 |
-| 112 | [I've Got The World On A String](https://open.spotify.com/track/4tsUpfcr6bSM4PIIFQGkQF) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Ultimate Sinatra](https://open.spotify.com/album/0Cx7IYEdG2T70z9xFknhDT) | 2:09 |
+| 111 | [I've Got The World On A String](https://open.spotify.com/track/4tsUpfcr6bSM4PIIFQGkQF) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Ultimate Sinatra](https://open.spotify.com/album/0Cx7IYEdG2T70z9xFknhDT) | 2:09 |
+| 112 | [Boppin' the Blues](https://open.spotify.com/track/0YmHUmDF5y9TQcnDxYdvpw) | [Carl Perkins](https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f) | [The Dance Album](https://open.spotify.com/album/3BVjcVyGYi1yQN8hVmAFlO) | 2:47 |
 | 113 | [Stupid Cupid](https://open.spotify.com/track/4EaVZab0VnTWwWnO3HuEAp) | [Connie Francis](https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q) | [Rock N' Roll Legends \(International Version\)](https://open.spotify.com/album/16HB1qo5ljAAhNB4KFcyvL) | 2:14 |
 | 114 | [Sh\-Boom \- Life Could Be A Dream \- Sh\-Boom](https://open.spotify.com/track/6dAG4jFPsR4zb2kRhYq3IA) | [The Crew Cuts](https://open.spotify.com/artist/49ttCh41vxv6R4r8S2YwXv) | [Life Could Be A Dream](https://open.spotify.com/album/2I97y4jn4OWdDYYo2J0eo7) | 2:48 |
 | 115 | [Charlie Brown](https://open.spotify.com/track/6Q0aBakbTsjQO6iGdxmXlx) | [The Coasters](https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM) | [Rhino Hi\-Five: The Coasters](https://open.spotify.com/album/2Yvat4w8j7hrJ1JVUz0wAw) | 2:21 |

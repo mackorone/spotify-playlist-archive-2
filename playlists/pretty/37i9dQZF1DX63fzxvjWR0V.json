@@ -831,26 +831,6 @@
     {
       "added_at": "2025-10-09 06:00:09",
       "album": {
-        "name": "Qu\u00e9 Fuimos (En Vivo)",
-        "url": "https://open.spotify.com/album/6Q4VubIV6GiT3HZrjGKg8b"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Hernan Sepulveda",
-          "url": "https://open.spotify.com/artist/00CEIWvwRzWGVahslNZW0Z"
-        }
-      ],
-      "duration_ms": 230034,
-      "name": "Qu\u00e9 Fuimos (En Vivo)",
-      "url": "https://open.spotify.com/track/1VkaO9P9BwH327jnM9VX1K"
-    },
-    {
-      "added_at": "2025-10-09 06:00:09",
-      "album": {
         "name": "DATA",
         "url": "https://open.spotify.com/album/2X6WyzpxY70eUn3lnewB7d"
       },
@@ -867,6 +847,26 @@
       "duration_ms": 197935,
       "name": "PARANORMAL",
       "url": "https://open.spotify.com/track/2ynaxymuvgAHsRBOqE4XEq"
+    },
+    {
+      "added_at": "2025-10-09 06:00:09",
+      "album": {
+        "name": "Qu\u00e9 Fuimos (En Vivo)",
+        "url": "https://open.spotify.com/album/6Q4VubIV6GiT3HZrjGKg8b"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Hernan Sepulveda",
+          "url": "https://open.spotify.com/artist/00CEIWvwRzWGVahslNZW0Z"
+        }
+      ],
+      "duration_ms": 230034,
+      "name": "Qu\u00e9 Fuimos (En Vivo)",
+      "url": "https://open.spotify.com/track/1VkaO9P9BwH327jnM9VX1K"
     },
     {
       "added_at": "2025-10-09 06:00:09",

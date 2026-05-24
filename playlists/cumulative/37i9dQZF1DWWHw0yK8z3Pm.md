@@ -4,7 +4,7 @@
 
 > Fearless sounds at the crossroads of country and folk\. Cover: Noah Derksen
 
-716 songs - 1 day 19 hr 22 min
+717 songs - 1 day 19 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,6 +159,7 @@
 | [Crucified](https://open.spotify.com/track/6kclw9en3fBEUTjZOjio7c) | [Sister Ray](https://open.spotify.com/artist/40rYcgQG8MPbjZDOfDMzyC) | [Crucified](https://open.spotify.com/album/1LJqHpDylPidxHHunS58Se) | 3:03 | 2022-05-13 | 2022-06-04 |
 | [Cuero Dudes](https://open.spotify.com/track/4z3zFBYGC4x4esUbnjqsva) | [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [Cuero Dudes / Beauty Opens Doors](https://open.spotify.com/album/08zvbZIUq3mHkIF7uDVgVr) | 4:58 | 2024-01-05 | 2024-07-27 |
 | [Cypress Hills and the Big Country](https://open.spotify.com/track/0VMoMJY1x5R3NGwBPL9ojE) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Cypress Hills and the Big Country](https://open.spotify.com/album/0nWc01U49BnvDb00ViFU1h) | 3:10 | 2022-09-23 | 2023-06-03 |
+| [Daisies](https://open.spotify.com/track/4q0uQNqaIchPOgvhODEsnG) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Daisies](https://open.spotify.com/album/2xW159PeikPpj7jIIJpjdv) | 3:43 | 2026-05-22 |  |
 | [Damn Darlin'](https://open.spotify.com/track/05BCDYfufm00iGfNKp9xss) | [49 Winchester](https://open.spotify.com/artist/1JWMpIl0nhqFJNdO3IOQ20) | [Fortune Favors the Bold](https://open.spotify.com/album/0AAW8aytDh2xZiNUbaMySW) | 3:19 | 2024-04-12 | 2024-04-19 |
 | [Damn Darlin'](https://open.spotify.com/track/6QAxm6mkOsTaFldlg6Iken) | [49 Winchester](https://open.spotify.com/artist/1JWMpIl0nhqFJNdO3IOQ20) | [Fortune Favors the Bold](https://open.spotify.com/album/1u5IKTsfXmfqqRbtOkHZWw) | 3:19 | 2023-04-21 | 2024-07-06 |
 | [Dance On Thru](https://open.spotify.com/track/5IN1bAiqeVW8Xb7ZV2pWBj) | [Langhorne Slim](https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy) | [The Dreamin' Kind](https://open.spotify.com/album/5MK4yVKiCMIpSQtCUyVUGC) | 3:39 | 2026-01-16 | 2026-05-02 |
@@ -401,7 +402,7 @@
 | [Long Way Down](https://open.spotify.com/track/1g1QGUiGeBPDepBOqDgU0U) | [iskwē](https://open.spotify.com/artist/31flUlPgtGjDz3WL9hn420), [Tom Wilson](https://open.spotify.com/artist/5yC7xvjGxlXLUTzmrmprLu) | [Long Way Down](https://open.spotify.com/album/3XXD57YERTN183g9YoMYKf) | 3:18 | 2022-05-13 | 2022-07-23 |
 | [Long White Veil](https://open.spotify.com/track/5eiWZPKVAkVLiBBrlxFzB4) | [The Decemberists](https://open.spotify.com/artist/7ITd48RbLVpUfheE7B86o2) | [As It Ever Was, So It Will Be Again](https://open.spotify.com/album/5acYvdisnqKHilyZpplOMf) | 3:49 | 2024-06-21 | 2025-11-07 |
 | [Loose Future](https://open.spotify.com/track/1f7mKDuWfkhMXOnRcdI8Vz) | [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [Loose Future](https://open.spotify.com/album/25dWaNwrPBrS1UAXUBZOVh) | 3:28 | 2022-07-22 | 2023-05-09 |
-| [Lose A Friend](https://open.spotify.com/track/1gD4zZy5x6UAfo8syZlTDk) | [Evan Honer](https://open.spotify.com/artist/1GERDglQrxe4ynLzcdG6qP) | [Everything I Wanted](https://open.spotify.com/album/2yNbFmp75Kv2kcyGGrI8wL) | 3:35 | 2025-09-19 |  |
+| [Lose A Friend](https://open.spotify.com/track/1gD4zZy5x6UAfo8syZlTDk) | [Evan Honer](https://open.spotify.com/artist/1GERDglQrxe4ynLzcdG6qP) | [Everything I Wanted](https://open.spotify.com/album/2yNbFmp75Kv2kcyGGrI8wL) | 3:35 | 2025-09-19 | 2026-05-24 |
 | [Losing Streak](https://open.spotify.com/track/5lbQPN6UJDFMZsIt38mx8G) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [Losing Streak](https://open.spotify.com/album/1qFpCXtPlOsE5F3PpC9v0h) | 4:09 | 2025-08-08 | 2026-01-01 |
 | [Lost for a While](https://open.spotify.com/track/5lLq0yhstHqi4Tz68qguqS) | [Little Misty](https://open.spotify.com/artist/695A3b4A5eEZx3aKpGZYay) | [Nowhere Land](https://open.spotify.com/album/34F00rG3BIf0CfY867Tn6W) | 3:46 | 2023-04-14 | 2023-05-08 |
 | [Love Is A Canyon](https://open.spotify.com/track/2rSuyPz6BfCzxB13UF6hpw) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [I WANT MY LOVED ONES TO GO WITH ME \(DELUXE\)](https://open.spotify.com/album/1srzE6EPPVOfxOxPV1SoEY) | 3:48 | 2025-10-09 |  |

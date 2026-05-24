@@ -7181,6 +7181,24 @@
     },
     {
       "album": {
+        "name": "My Dirty Desire / Dreaming In Slow Motion",
+        "url": "https://open.spotify.com/album/4QfaBZBXxHeEGY6Me3damM"
+      },
+      "artists": [
+        {
+          "name": "Pale Jay",
+          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
+        }
+      ],
+      "date_added": "2026-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206963,
+      "name": "My Dirty Desire",
+      "url": "https://open.spotify.com/track/2tFnhS8QB268yDYnwAUBdH"
+    },
+    {
+      "album": {
         "name": "Jinji Kikko",
         "url": "https://open.spotify.com/album/30RoOJnInHXUzLK72XvlMN"
       },
@@ -9104,7 +9122,7 @@
       ],
       "date_added": "2024-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 349026,
       "name": "S.O.L.",
       "url": "https://open.spotify.com/track/2FkLjsFnK6H9iuoXNLGfNy"

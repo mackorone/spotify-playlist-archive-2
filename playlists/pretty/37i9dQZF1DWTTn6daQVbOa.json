@@ -1,6 +1,6 @@
 {
   "description": "Mellow songs from the 1970s. Cover: Elton John",
-  "num_followers": 1158624,
+  "num_followers": 1158858,
   "original_name": "Soft 70s",
   "owner": {
     "name": "Spotify",
@@ -271,22 +271,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Let's Stay Together",
-        "url": "https://open.spotify.com/album/58eMx3QrTkiRmGGbSz2XL0"
-      },
-      "artists": [
-        {
-          "name": "Al Green",
-          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
-        }
-      ],
-      "duration_ms": 199396,
-      "name": "Let's Stay Together",
-      "url": "https://open.spotify.com/track/63xdwScd1Ai1GigAwQxE8y"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Third Album",
         "url": "https://open.spotify.com/album/5d6X8oegJmu9XKn9UBAswG"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 237760,
       "name": "I'll Be There",
       "url": "https://open.spotify.com/track/5RdhBLmB4DyFHLglRrfx63"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Let's Stay Together",
+        "url": "https://open.spotify.com/album/58eMx3QrTkiRmGGbSz2XL0"
+      },
+      "artists": [
+        {
+          "name": "Al Green",
+          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
+        }
+      ],
+      "duration_ms": 199396,
+      "name": "Let's Stay Together",
+      "url": "https://open.spotify.com/track/63xdwScd1Ai1GigAwQxE8y"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -543,22 +543,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Elvis (Fool)",
-        "url": "https://open.spotify.com/album/3gpHiNAmT5oXVxe6ewTGuN"
-      },
-      "artists": [
-        {
-          "name": "Elvis Presley",
-          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
-        }
-      ],
-      "duration_ms": 219109,
-      "name": "Always On My Mind",
-      "url": "https://open.spotify.com/track/1B5Tp2Ml9nLlmTSJx8xVfI"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "I Can See Clearly Now",
         "url": "https://open.spotify.com/album/2ZdUVurLZBrEphCLzX7MdU"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 164733,
       "name": "I Can See Clearly Now - Edit",
       "url": "https://open.spotify.com/track/0DcrhZ12WcCqruCs8ibXSf"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Elvis (Fool)",
+        "url": "https://open.spotify.com/album/3gpHiNAmT5oXVxe6ewTGuN"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "duration_ms": 219109,
+      "name": "Always On My Mind",
+      "url": "https://open.spotify.com/track/1B5Tp2Ml9nLlmTSJx8xVfI"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -655,18 +655,18 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Now & Then (Reissue)",
-        "url": "https://open.spotify.com/album/0A7WaXRUZ2fkHtUYfeoF73"
+        "name": "Ben",
+        "url": "https://open.spotify.com/album/3j7pUFDRub9Q5NztcYKyaR"
       },
       "artists": [
         {
-          "name": "Carpenters",
-          "url": "https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304"
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
         }
       ],
-      "duration_ms": 233533,
-      "name": "Yesterday Once More",
-      "url": "https://open.spotify.com/track/3wM6RTAnF7IQpMFd7b9ZcL"
+      "duration_ms": 165160,
+      "name": "Ben - Single Version",
+      "url": "https://open.spotify.com/track/3vZMkLS1jP7NdNhzqGfUSW"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -687,18 +687,18 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Ben",
-        "url": "https://open.spotify.com/album/3j7pUFDRub9Q5NztcYKyaR"
+        "name": "Now & Then (Reissue)",
+        "url": "https://open.spotify.com/album/0A7WaXRUZ2fkHtUYfeoF73"
       },
       "artists": [
         {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+          "name": "Carpenters",
+          "url": "https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304"
         }
       ],
-      "duration_ms": 165160,
-      "name": "Ben - Single Version",
-      "url": "https://open.spotify.com/track/3vZMkLS1jP7NdNhzqGfUSW"
+      "duration_ms": 233533,
+      "name": "Yesterday Once More",
+      "url": "https://open.spotify.com/track/3wM6RTAnF7IQpMFd7b9ZcL"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -767,22 +767,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Close To You",
-        "url": "https://open.spotify.com/album/5z8MFnoVUIfVo6MQW0uIul"
-      },
-      "artists": [
-        {
-          "name": "Carpenters",
-          "url": "https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304"
-        }
-      ],
-      "duration_ms": 273933,
-      "name": "(They Long To Be) Close To You",
-      "url": "https://open.spotify.com/track/2kyVQg00pphEufGT59M2XH"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Back Home Again",
         "url": "https://open.spotify.com/album/6zWmAA39H0c4SjnD4MB1Dm"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 180693,
       "name": "Annie's Song",
       "url": "https://open.spotify.com/track/4J0DbyODwZJcmIAiTSJfMF"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Close To You",
+        "url": "https://open.spotify.com/album/5z8MFnoVUIfVo6MQW0uIul"
+      },
+      "artists": [
+        {
+          "name": "Carpenters",
+          "url": "https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304"
+        }
+      ],
+      "duration_ms": 273933,
+      "name": "(They Long To Be) Close To You",
+      "url": "https://open.spotify.com/track/2kyVQg00pphEufGT59M2XH"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "The Michael Johnson Album",
-        "url": "https://open.spotify.com/album/5VKyy4iNK1F6aS5bohAMb4"
-      },
-      "artists": [
-        {
-          "name": "Michael Johnson",
-          "url": "https://open.spotify.com/artist/2XKBOnP3qXHP2FpzKplAYh"
-        }
-      ],
-      "duration_ms": 179666,
-      "name": "Bluer Than Blue",
-      "url": "https://open.spotify.com/track/1cAHI9tJN6oHMdG4ghlQKY"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Harvest (2009 Remaster)",
         "url": "https://open.spotify.com/album/2l3QxNo4QubBNmVKxLeum0"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 187013,
       "name": "Heart of Gold - 2009 Remaster",
       "url": "https://open.spotify.com/track/1Q1b8eVkUPGlpSArl8JAVw"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "The Michael Johnson Album",
+        "url": "https://open.spotify.com/album/5VKyy4iNK1F6aS5bohAMb4"
+      },
+      "artists": [
+        {
+          "name": "Michael Johnson",
+          "url": "https://open.spotify.com/artist/2XKBOnP3qXHP2FpzKplAYh"
+        }
+      ],
+      "duration_ms": 179666,
+      "name": "Bluer Than Blue",
+      "url": "https://open.spotify.com/track/1cAHI9tJN6oHMdG4ghlQKY"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Breakfast In America (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1zcm3UvHNHpseYOUfd0pna"
-      },
-      "artists": [
-        {
-          "name": "Supertramp",
-          "url": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
-        }
-      ],
-      "duration_ms": 308853,
-      "name": "Take The Long Way Home - Remastered 2010",
-      "url": "https://open.spotify.com/track/0v0XYK0pLgsPiq5u4FKHaw"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "In Full Bloom",
         "url": "https://open.spotify.com/album/19fTeMlAjRVFT9jTTkHvRk"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 352920,
       "name": "Cruisin'",
       "url": "https://open.spotify.com/track/2gliw3L0oa4w8LqaHploje"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Breakfast In America (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1zcm3UvHNHpseYOUfd0pna"
+      },
+      "artists": [
+        {
+          "name": "Supertramp",
+          "url": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
+        }
+      ],
+      "duration_ms": 308853,
+      "name": "Take The Long Way Home - Remastered 2010",
+      "url": "https://open.spotify.com/track/0v0XYK0pLgsPiq5u4FKHaw"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "We Must Believe In Magic",
-        "url": "https://open.spotify.com/album/57FGUcDejZqr816U3ZkMT8"
-      },
-      "artists": [
-        {
-          "name": "Crystal Gayle",
-          "url": "https://open.spotify.com/artist/6OheJTrDFGiyZ67F1BBLhc"
-        }
-      ],
-      "duration_ms": 157653,
-      "name": "Don't It Make My Brown Eyes Blue",
-      "url": "https://open.spotify.com/track/7Jpclr7tZ6aQXjoKzWXUJV"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "The Way We Were",
         "url": "https://open.spotify.com/album/0vTu2dD57pVlPvd3pfxUSS"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 211174,
       "name": "The Way We Were",
       "url": "https://open.spotify.com/track/1vZTgn4JXWMahR8r99ug5H"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "We Must Believe In Magic",
+        "url": "https://open.spotify.com/album/57FGUcDejZqr816U3ZkMT8"
+      },
+      "artists": [
+        {
+          "name": "Crystal Gayle",
+          "url": "https://open.spotify.com/artist/6OheJTrDFGiyZ67F1BBLhc"
+        }
+      ],
+      "duration_ms": 157653,
+      "name": "Don't It Make My Brown Eyes Blue",
+      "url": "https://open.spotify.com/track/7Jpclr7tZ6aQXjoKzWXUJV"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1863,22 +1863,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Carpenters",
-        "url": "https://open.spotify.com/album/3Br6amYT7sC9y3uvHkfRDI"
-      },
-      "artists": [
-        {
-          "name": "Carpenters",
-          "url": "https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304"
-        }
-      ],
-      "duration_ms": 158933,
-      "name": "For All We Know - From \"Lovers And Other Strangers\" Soundtrack",
-      "url": "https://open.spotify.com/track/5llfFWv1tH61nENrsjg3KZ"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Rose Royce III: Strikes Again!",
         "url": "https://open.spotify.com/album/7Fztl07Vtpt1rxFYoHeZji"
       },
@@ -1891,6 +1875,22 @@
       "duration_ms": 238306,
       "name": "Love Don't Live Here Anymore",
       "url": "https://open.spotify.com/track/3pVsGhUEBZKFtn0n8zjS0H"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Carpenters",
+        "url": "https://open.spotify.com/album/3Br6amYT7sC9y3uvHkfRDI"
+      },
+      "artists": [
+        {
+          "name": "Carpenters",
+          "url": "https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304"
+        }
+      ],
+      "duration_ms": 158933,
+      "name": "For All We Know - From \"Lovers And Other Strangers\" Soundtrack",
+      "url": "https://open.spotify.com/track/5llfFWv1tH61nENrsjg3KZ"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -2075,22 +2075,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Red Rose Speedway",
-        "url": "https://open.spotify.com/album/0ht0PyiPPsG3mYqvFhTfgD"
-      },
-      "artists": [
-        {
-          "name": "Wings",
-          "url": "https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m"
-        }
-      ],
-      "duration_ms": 247733,
-      "name": "My Love - 2018 Remaster",
-      "url": "https://open.spotify.com/track/0Oj0TT23GBH2XuHAaSsloH"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Diana Ross",
         "url": "https://open.spotify.com/album/7BHw2NR6r6GRfsaojQL9xk"
       },
@@ -2103,6 +2087,22 @@
       "duration_ms": 202360,
       "name": "Theme From Mahogany (Do You Know Where You're Going To) - Single Version",
       "url": "https://open.spotify.com/track/6qNCLr8GOZOMZJKjfIhxiE"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Red Rose Speedway",
+        "url": "https://open.spotify.com/album/0ht0PyiPPsG3mYqvFhTfgD"
+      },
+      "artists": [
+        {
+          "name": "Wings",
+          "url": "https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m"
+        }
+      ],
+      "duration_ms": 247733,
+      "name": "My Love - 2018 Remaster",
+      "url": "https://open.spotify.com/track/0Oj0TT23GBH2XuHAaSsloH"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -2187,22 +2187,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "It's Impossible",
-        "url": "https://open.spotify.com/album/5ja7POltOonfMB2tQSEMWV"
-      },
-      "artists": [
-        {
-          "name": "Perry Como",
-          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
-        }
-      ],
-      "duration_ms": 197626,
-      "name": "And I Love You So",
-      "url": "https://open.spotify.com/track/1naVD19eofGpFf6wosmHIe"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Never, Never, Never",
         "url": "https://open.spotify.com/album/7zYhvOnolaETW70A7bTFwX"
       },
@@ -2215,6 +2199,22 @@
       "duration_ms": 218600,
       "name": "Never, Never, Never (Grande, Grande, Grande)",
       "url": "https://open.spotify.com/track/4C4vwiOFwWFD4GW7oL2uOp"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "It's Impossible",
+        "url": "https://open.spotify.com/album/5ja7POltOonfMB2tQSEMWV"
+      },
+      "artists": [
+        {
+          "name": "Perry Como",
+          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
+        }
+      ],
+      "duration_ms": 197626,
+      "name": "And I Love You So",
+      "url": "https://open.spotify.com/track/1naVD19eofGpFf6wosmHIe"
     },
     {
       "added_at": "2022-09-23 05:26:33",

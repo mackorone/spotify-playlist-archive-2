@@ -4,7 +4,7 @@
 
 > 世界中のロックシーンを彩る話題曲をチェック。Cover: Bleachers
 
-2,056 songs - 4 day 23 hr 38 min
+2,058 songs - 4 day 23 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -434,6 +434,7 @@
 | [Crybaby \(with phem\)](https://open.spotify.com/track/2zKccghp1bpE6MFsCU9jbz) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD), [phem](https://open.spotify.com/artist/0MGJHTThvyAyqKuEAgPqDr) | [Crybaby \(with phem\)](https://open.spotify.com/album/3NHgfYrWss5PzSo9oG1WXQ) | 2:17 | 2023-06-22 | 2023-06-30 |
 | [Cryogen](https://open.spotify.com/track/5ITICFtTKxzcbR43ehRvsI) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Cryogen](https://open.spotify.com/album/4uW6onE6t6FUwLV9yr2E9f) | 5:01 | 2026-04-23 |  |
 | [Curse](https://open.spotify.com/track/65VHUZPZKgaG4SJVRkBPzn) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Curse](https://open.spotify.com/album/29w7d7KKgGkgQ4qmu56SQe) | 3:01 | 2024-04-12 | 2025-04-04 |
+| [Cut](https://open.spotify.com/track/5DDN7RGlnJSDGF5abfvoqp) | [Black Veil Brides](https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs), [Lilith Czar](https://open.spotify.com/artist/2tMZ37dVy1DzZjXXCjhgFq) | [VINDICATE](https://open.spotify.com/album/2bvKgi1cdJbaURY2bN7y4p) | 3:59 | 2026-05-23 |  |
 | [Cut the Cord](https://open.spotify.com/track/3nrPemlBKtA9Ggcnl3JpHu) | [Black Honey](https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS) | [A Fistful of Peaches](https://open.spotify.com/album/66f2AJfIYSpWtiDMac7Wea) | 3:29 | 2023-03-16 | 2023-03-25 |
 | [C’est Comme Ça](https://open.spotify.com/track/1Nx7KvCw6D3O0W2HwYg9tq) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB) | 2:29 | 2023-04-27 | 2023-05-19 |
 | [Daily Queen](https://open.spotify.com/track/53YiLtXKQXGrUfcK8rd2TF) | [Faustus](https://open.spotify.com/artist/6sqXbSeB9ZEfZSEz6kg95k) | [Daily Queen](https://open.spotify.com/album/6UMrQXSdh75gN7UGGHytO4) | 4:42 | 2024-07-05 | 2024-09-13 |
@@ -1734,6 +1735,7 @@
 | [The Catastrophe \(Good Luck With That, Man\)](https://open.spotify.com/track/0yXlQbT5xqQDP2wij6XQpy) | [Car Seat Headrest](https://open.spotify.com/artist/5PbpKlxQE0Ktl5lcNABoFf) | [The Catastrophe \(Good Luck With That, Man\)](https://open.spotify.com/album/4iX0TASlBHTxQFWwL3ve7d) | 5:28 | 2025-05-01 | 2025-07-25 |
 | [The Contract](https://open.spotify.com/track/6DzXaIgVIH7oLA1pkUtFaG) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [The Contract](https://open.spotify.com/album/2VHIo87YnEergnRfHnQN3J) | 3:48 | 2025-06-12 | 2026-03-13 |
 | [The Craving \- single version](https://open.spotify.com/track/0S7lkKStHgfgjgwSFOvRNA) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [The Craving](https://open.spotify.com/album/7K7eWZNR5t9UBlrN2ltzLI) | 2:53 | 2024-05-23 | 2025-07-11 |
+| [the cure](https://open.spotify.com/track/4EoJ151oQ5jY48z4RhSE96) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [the cure](https://open.spotify.com/album/6zme2NwcaBxbn3mWOcMY8y) | 4:57 | 2026-05-23 |  |
 | [The Day Of...](https://open.spotify.com/track/20w340h37XvpPjiO591XCg) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [The Day Of...](https://open.spotify.com/album/7e7ujNrBRUhHsTXFqCH8b1) | 4:33 | 2024-08-15 | 2024-09-26 |
 | [The Devils](https://open.spotify.com/track/6CV5c4m6FrlrtU7eX9bvYQ) | [Bayside](https://open.spotify.com/artist/51J0q8S7W3kIEYHQi3EPqk) | [The Devils](https://open.spotify.com/album/0kxLHTDaFDLpU5aBD510ww) | 3:43 | 2024-02-22 | 2024-03-01 |
 | [The Dumb Song](https://open.spotify.com/track/5udkv8BEG1sAN5ZtR6CAzv) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [The Dumb Song](https://open.spotify.com/album/1W2Srir1JwdyDQMrN66CF5) | 3:45 | 2023-04-20 | 2023-07-07 |
@@ -1833,7 +1835,7 @@
 | [Touching Yourself](https://open.spotify.com/track/1HfsmNlg8xxhOr9N2i4Q0n) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [In the End It Always Does](https://open.spotify.com/album/1pflleeGIJGEAillSnSetf) | 3:01 | 2023-06-30 | 2024-05-03 |
 | [tower of memories](https://open.spotify.com/track/0qhVpwKivK3u4OMLb7Z9Ah) | [ivri](https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS) | [tower of memories](https://open.spotify.com/album/5fZahPiBBEr15SgNs9h5s6) | 3:28 | 2025-07-24 | 2026-03-13 |
 | [Tractor Beam](https://open.spotify.com/track/3SCe8EBhzxVx5Tqhv9cYqi) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Tractor Beam](https://open.spotify.com/album/4ZkRrdsD1RP5UdCmDP6s8Q) | 3:34 | 2026-03-26 | 2026-04-16 |
-| [Tremolo](https://open.spotify.com/track/2fLrRiiTmJM4Gdoq7mdXV9) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Romanticize The Dive](https://open.spotify.com/album/75oefoG5Cn2MbBc32uNPnu) | 3:43 | 2026-04-30 |  |
+| [Tremolo](https://open.spotify.com/track/2fLrRiiTmJM4Gdoq7mdXV9) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Romanticize The Dive](https://open.spotify.com/album/75oefoG5Cn2MbBc32uNPnu) | 3:43 | 2026-04-30 | 2026-05-24 |
 | [Trigger](https://open.spotify.com/track/4sOgK1FXdaCf2hsCtduj3C) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Trigger](https://open.spotify.com/album/2HHt7F17eJjPHFppWdSb8C) | 2:55 | 2024-01-04 | 2024-02-23 |
 | [Tropic Morning News](https://open.spotify.com/track/6TZ6vaiyYeMZzPef9hvnZL) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Tropic Morning News](https://open.spotify.com/album/3XBBiy4lTb6ov7GNZZe8eJ) | 5:09 | 2023-03-16 | 2023-04-14 |
 | [Tropical Therapy](https://open.spotify.com/track/0aXrPDQKpsGlZKVzEnurSK) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [DETOX](https://open.spotify.com/album/3kbT2L3KUCnl547a6zZKKE) | 3:28 | 2025-02-20 | 2025-06-20 |
@@ -2019,7 +2021,7 @@
 | [Your Apartment](https://open.spotify.com/track/4Fi7oEopcTe2GkmVOeNdoZ) | [Phoneboy](https://open.spotify.com/artist/5vh3TBzvI4nASt2A1KfgcR) | [Your Apartment](https://open.spotify.com/album/27uE4MarekqLyFPzbiPAw9) | 3:31 | 2023-03-23 | 2023-03-31 |
 | [Your face](https://open.spotify.com/track/7ne2hzW4jaU5tacaCI4kJH) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [Your face](https://open.spotify.com/album/19qeLWS7fwQMYuDosTCTFe) | 3:47 | 2023-10-05 | 2024-02-09 |
 | [Your face](https://open.spotify.com/track/5MRWG1owcChqkYFIzsYlMb) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [Your face](https://open.spotify.com/album/6Bg53e6IAblHuVzRpESFvj) | 3:47 | 2023-06-09 | 2023-10-06 |
-| [Your Favorite Toy](https://open.spotify.com/track/2ZSOU8Fx9uRBW57nwfPVAL) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Your Favorite Toy](https://open.spotify.com/album/1GlbwU0fG3s91TwcuTh4ea) | 2:56 | 2026-02-19 |  |
+| [Your Favorite Toy](https://open.spotify.com/track/2ZSOU8Fx9uRBW57nwfPVAL) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Your Favorite Toy](https://open.spotify.com/album/1GlbwU0fG3s91TwcuTh4ea) | 2:56 | 2026-02-19 | 2026-05-24 |
 | [Your House](https://open.spotify.com/track/20xfgpCbTJBDjrTFh916Av) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Your House](https://open.spotify.com/album/5bVyceWVMG2ArRJBXapami) | 3:47 | 2024-10-31 | 2025-03-13 |
 | [Your Mind Is Not Your Friend \(feat\. Phoebe Bridgers\)](https://open.spotify.com/track/7wOIdJkbhLcmA0vniQiVVJ) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Your Mind Is Not Your Friend \(feat\. Phoebe Bridgers\)](https://open.spotify.com/album/78QvpShQvtm7mk3Ghjqqa3) | 4:24 | 2023-04-13 | 2023-05-19 |
 | [Your Side of Town](https://open.spotify.com/track/3XV77GNuIPYff6T7bzjYy9) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Your Side of Town](https://open.spotify.com/album/5yFMpRYQntO822gUiwoVzC) | 3:07 | 2023-08-24 | 2023-12-23 |

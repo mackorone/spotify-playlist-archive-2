@@ -4606,7 +4606,7 @@
       ],
       "date_added": "2025-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-19",
+      "date_removed": null,
       "duration_ms": 140782,
       "name": "Baila de Gasolina",
       "url": "https://open.spotify.com/track/43TPlT0l0HXLtKUOUoY3gY"
@@ -9755,6 +9755,28 @@
     },
     {
       "album": {
+        "name": "Dai Dai",
+        "url": "https://open.spotify.com/album/2eeufspLkAubwTJfOGSrI8"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2026-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223448,
+      "name": "Dai Dai",
+      "url": "https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL"
+    },
+    {
+      "album": {
         "name": "SWAG",
         "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
       },
@@ -9766,7 +9788,7 @@
       ],
       "date_added": "2025-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 176453,
       "name": "DAISIES",
       "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb"
@@ -12610,7 +12632,7 @@
       ],
       "date_added": "2026-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-16",
+      "date_removed": null,
       "duration_ms": 224998,
       "name": "drop dead",
       "url": "https://open.spotify.com/track/7Hc6qcJG4NtyZgbNvQyd8U"
@@ -12646,7 +12668,7 @@
       ],
       "date_added": "2026-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 164336,
       "name": "Drugsprobleem",
       "url": "https://open.spotify.com/track/7ti3nQsrUICVd2B9z6EsV1"
@@ -12846,7 +12868,7 @@
       ],
       "date_added": "2026-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-05",
+      "date_removed": null,
       "duration_ms": 134905,
       "name": "Edge of Desire",
       "url": "https://open.spotify.com/track/4A56h4B9xUuMMXoKuj18HT"
@@ -17236,7 +17258,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 202943,
       "name": "Goud",
       "url": "https://open.spotify.com/track/5SaapweQAEx7X1R47ItZ75"
@@ -22556,7 +22578,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 289533,
       "name": "Iris",
       "url": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs"
@@ -28280,7 +28302,7 @@
       ],
       "date_added": "2026-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 178016,
       "name": "Material Lover",
       "url": "https://open.spotify.com/track/2NT5EOtSEOrjfisvwmSv5S"
@@ -29737,6 +29759,24 @@
     },
     {
       "album": {
+        "name": "Multimiljonair",
+        "url": "https://open.spotify.com/album/7MsrN7zy5Fm9iJRrAgOwPd"
+      },
+      "artists": [
+        {
+          "name": "Bankzitters",
+          "url": "https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB"
+        }
+      ],
+      "date_added": "2026-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133913,
+      "name": "Multimiljonair",
+      "url": "https://open.spotify.com/track/7febA9EPgU97DuLg9HAocX"
+    },
+    {
+      "album": {
         "name": "Read My Lips",
         "url": "https://open.spotify.com/album/68ishLKwqH5oH79kUteEHG"
       },
@@ -30376,7 +30416,7 @@
       ],
       "date_added": "2026-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 200830,
       "name": "National Treasures",
       "url": "https://open.spotify.com/track/393OFJFZKIIv66JmJcNm9D"
@@ -37776,7 +37816,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 180740,
       "name": "Self Aware",
       "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT"
@@ -38908,6 +38948,36 @@
       "duration_ms": 219733,
       "name": "SKINNY",
       "url": "https://open.spotify.com/track/1CsMKhwEmNnmvHUuO5nryA"
+    },
+    {
+      "album": {
+        "name": "Skyline",
+        "url": "https://open.spotify.com/album/07EP0dTPYrapBsjRkzZrr0"
+      },
+      "artists": [
+        {
+          "name": "3robi",
+          "url": "https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o"
+        },
+        {
+          "name": "Mensa",
+          "url": "https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC"
+        },
+        {
+          "name": "Frsh",
+          "url": "https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN"
+        },
+        {
+          "name": "SRNO",
+          "url": "https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q"
+        }
+      ],
+      "date_added": "2026-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157377,
+      "name": "Skyline",
+      "url": "https://open.spotify.com/track/1j2G3mA1IU54sGcsEON6HB"
     },
     {
       "album": {
@@ -42710,6 +42780,24 @@
       "duration_ms": 180141,
       "name": "The Code",
       "url": "https://open.spotify.com/track/1EjIXKhNHI00ZLMRpS8iz8"
+    },
+    {
+      "album": {
+        "name": "the cure",
+        "url": "https://open.spotify.com/album/6zme2NwcaBxbn3mWOcMY8y"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2026-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297090,
+      "name": "the cure",
+      "url": "https://open.spotify.com/track/4EoJ151oQ5jY48z4RhSE96"
     },
     {
       "album": {

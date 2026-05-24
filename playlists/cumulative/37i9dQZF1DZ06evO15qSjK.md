@@ -4,7 +4,7 @@
 
 > This is Kidz Bop Kids\. The essential tracks, all in one playlist.
 
-182 songs - 9 hr 8 min
+183 songs - 9 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [As It Was](https://open.spotify.com/track/7FRpO17fjYvHTniQmq3Rav) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Super POP!](https://open.spotify.com/album/2MwnJW31OVBG7hYWVg3rWK) | 2:42 | 2023-02-16 | 2025-04-12 |
 | [Astronaut In The Ocean](https://open.spotify.com/track/65I7LRWEDId3dlW2ReXXR8) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2022](https://open.spotify.com/album/1pVDyIhEeVDBQjZYO67ytl) | 2:14 | 2023-02-16 |  |
 | [Avenir](https://open.spotify.com/track/68fAJJmNwY2wKnCkIgxaa0) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Avenir](https://open.spotify.com/album/0TlmXtDrdGgkynRQeRtwHO) | 3:03 | 2023-12-13 | 2024-02-03 |
-| [back to friends](https://open.spotify.com/track/4mBI4cng1yAg3V6UsKISPR) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 53](https://open.spotify.com/album/3bIzxAnQ3OhBfBw1x6AinI) | 2:59 | 2026-05-23 |  |
+| [back to friends](https://open.spotify.com/track/4mBI4cng1yAg3V6UsKISPR) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 53](https://open.spotify.com/album/3bIzxAnQ3OhBfBw1x6AinI) | 2:59 | 2026-05-23 | 2026-05-24 |
 | [Bam Bam](https://open.spotify.com/track/1kqu1lWNTNmwrRt8amTRSW) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Super POP!](https://open.spotify.com/album/2MwnJW31OVBG7hYWVg3rWK) | 3:15 | 2023-02-16 | 2023-11-11 |
 | [Bang!](https://open.spotify.com/track/3lbzNC9c0ZAqwaZ4Yo5B6c) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2022](https://open.spotify.com/album/1pVDyIhEeVDBQjZYO67ytl) | 2:52 | 2023-02-16 | 2025-03-30 |
 | [Barbie World](https://open.spotify.com/track/3tO8Tj8dbfpd401DzL4HT9) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Barbie World](https://open.spotify.com/album/2MSzOTzLqtYz0gWpWmCSty) | 1:50 | 2024-01-06 | 2024-02-25 |
@@ -146,6 +146,7 @@
 | [Stick Season](https://open.spotify.com/track/3rnzQyGibuUqEJgVKL7lew) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Stick Season](https://open.spotify.com/album/50bMFXY8AbOMdSXvfu9CAl) | 3:00 | 2024-03-30 | 2024-07-16 |
 | [Strangers](https://open.spotify.com/track/2cdV8rABAvNCoXtyDIUhCI) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Strangers](https://open.spotify.com/album/1LyxWPM9OifFw2Yi6UNSqK) | 2:52 | 2024-03-16 | 2024-09-06 |
 | [Style](https://open.spotify.com/track/3lJImcZQoAsUJMeuqeybiX) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Non Stop Pop](https://open.spotify.com/album/5F79wN6kif0PJ7zkWaCyqW) | 3:09 | 2025-12-11 | 2026-01-06 |
+| [Summer Starts Now](https://open.spotify.com/track/6s7GMo261sZVIMp8n45OkP) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Summer Starts Now](https://open.spotify.com/album/6rlXj0tFa7Kh7Ds4htrplK) | 2:17 | 2026-05-24 |  |
 | [Sunroof](https://open.spotify.com/track/7dWpEhaV9bcooDdf9i78sz) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2023](https://open.spotify.com/album/5YOe3aJeBjlLA9IuOWyWD5) | 2:27 | 2023-02-16 |  |
 | [Sure Thing](https://open.spotify.com/track/6xK0Wl7bMml6WIVpf1T7Rp) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Sure Thing](https://open.spotify.com/album/0yHOOLzYRp9n05wnXCF9Lw) | 3:17 | 2023-05-27 | 2023-10-05 |
 | [SÚPER ULTRA MEGA](https://open.spotify.com/track/7jhjNn4QQjIfzwltcUpGW5) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [SÚPER ULTRA MEGA](https://open.spotify.com/album/66dVrkPQI572wGVDrysD4F) | 2:50 | 2023-11-10 | 2023-12-31 |

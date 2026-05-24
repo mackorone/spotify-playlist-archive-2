@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5IOhx43PGIa.md) - [plain]
 
 > Illuminating Asian artists everywhere, with a special takeover from Wasia Project 🌟
 
-[Spotify](https://open.spotify.com/user/spotify) - 365,054 likes - 114 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 365,044 likes - 114 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -123,4 +123,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5IOhx43PGIa.md) - [plain]
 | 113 | [Wau Du](https://open.spotify.com/track/7Fk30x5iF0MPaqTe1VfOIZ) | [foodman](https://open.spotify.com/artist/4e8VeCyfFRBL1e06oGg1dR) | [Tee Den](https://open.spotify.com/album/4rLrkxsAKKzFDrAjsl8xZw) | 3:14 |
 | 114 | [tenk\(e\)i](https://open.spotify.com/track/4ZxjpVTJfPfPr40IqbCOPj) | [パソコン音楽クラブ](https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye), [Hakushi Hasegawa](https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi) | [tenk\(e\)i](https://open.spotify.com/album/5y0dNiCxiZ4l3x8BWbJMjq) | 4:56 |
 
-Snapshot ID: `AAAAACmWwNNYktsw1pvXwmRYgqx1ik9y`
+Snapshot ID: `AAAAAP58bKNakIVvql5wTRA7udtiJuXr`

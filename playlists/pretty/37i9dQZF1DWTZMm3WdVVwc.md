@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZMm3WdVVwc.md) - [plain]
 
 > 寒い冬は心を暖めるハートフルな楽曲をお供に。あなたの日々に音楽を。
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,353 likes - 99 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,349 likes - 99 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZMm3WdVVwc.md) - [plain]
 | 56 | [Moonlight](https://open.spotify.com/track/20oWyi2kyCBXvgmD41XYEm) | [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw) | [Moonlight](https://open.spotify.com/album/1B7s0MuLuwvGpSMOpzKDTN) | 3:29 |
 | 57 | [Focus](https://open.spotify.com/track/5y170aRBflCoZagqVYdUiq) | [荒谷翔大](https://open.spotify.com/artist/3H8pmg8yKsqyghjN9h1As2), [Mamiko Suzuki](https://open.spotify.com/artist/21bkNzNX7do9qb8SM9wFQF), [TOSHIKI HAYASHI\(%C\)](https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI) | [Focus](https://open.spotify.com/album/57jgzL9QOFsdEPVKPkYbhh) | 4:17 |
 | 58 | [スカーレット](https://open.spotify.com/track/5snNa3VGFhT80VzkVNPKTG) | [SPITZ](https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0) | [フェイクファー](https://open.spotify.com/album/5ZBM9scaALwFaVODbGmPMc) | 3:33 |
-| 59 | [bestie](https://open.spotify.com/track/3LlShzvjsM4nem8uADXWvn) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [bestie](https://open.spotify.com/album/4P2jmODvTntdqNI7e5isfb) | 4:19 |
-| 60 | [Snow Men](https://open.spotify.com/track/4EAFrjOpnbkUel0WrD9TTy) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [YELLOW DANCER](https://open.spotify.com/album/3Fj07HA1r20hRdF9eepuax) | 4:34 |
+| 59 | [Snow Men](https://open.spotify.com/track/4EAFrjOpnbkUel0WrD9TTy) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [YELLOW DANCER](https://open.spotify.com/album/3Fj07HA1r20hRdF9eepuax) | 4:34 |
+| 60 | [bestie](https://open.spotify.com/track/3LlShzvjsM4nem8uADXWvn) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [bestie](https://open.spotify.com/album/4P2jmODvTntdqNI7e5isfb) | 4:19 |
 | 61 | [冬のうた](https://open.spotify.com/track/13ZrdwZjgT6P1In07B4TBF) | [Kiroro](https://open.spotify.com/artist/279R7zEl7kwZxoMw18Pr9R) | [Kiroroのうた ①](https://open.spotify.com/album/7evQI7Gxwto5ByAD0fiQBF) | 5:45 |
 | 62 | [orion](https://open.spotify.com/track/6FHEL65apB44ucTqTfbhtG) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [orion](https://open.spotify.com/album/1Vbibus80oIZ7GWnsYLNtp) | 4:43 |
 | 63 | [まっしろ](https://open.spotify.com/track/2PwOOgg8PavBNIWsPLIkr3) | [VK Blanka](https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d) | [wizard](https://open.spotify.com/album/5WiacWoGjt3yMoK8vtQ0tz) | 3:57 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZMm3WdVVwc.md) - [plain]
 | 70 | [ミルク](https://open.spotify.com/track/3tFY3KX0w4DwynMKepKkUU) | [Chara](https://open.spotify.com/artist/2v3eFzDOUnyWP1drW2dPTp) | [Junior Sweet](https://open.spotify.com/album/6mOQ8WkcSPoIk8w3zA6ZuG) | 3:52 |
 | 71 | [夜凪 \(feat\. にしな\)](https://open.spotify.com/track/4peHpL8DSQpDxblRCZEHbd) | [indigo la End](https://open.spotify.com/artist/26ZBeXl5Gqr3TAv2itmyCU), [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [夜凪 \(feat\. にしな\)](https://open.spotify.com/album/4AAjWHXAFXvJ3bScDWyHaU) | 3:27 |
 | 72 | [OH MY LITTLE GIRL](https://open.spotify.com/track/7gRwEA36B5Oq7oUlCcWLKb) | [Yutaka Ozaki](https://open.spotify.com/artist/7Mo0nFEU6E8fGI0P2u7MOl) | [OH MY LITTLE GIRL](https://open.spotify.com/album/7LEcypSjlXxIQnSSjeIiLj) | 4:36 |
-| 73 | [切ないラブソングはいらない](https://open.spotify.com/track/2OnBkllxuR4IdUyvxfPAk6) | [I Don't Like Mondays.](https://open.spotify.com/artist/2DKISYy7EvTDO7eJHBK6yF) | [切ないラブソングはいらない](https://open.spotify.com/album/0sTRPhbGBFYuFpSw3DNTqN) | 3:55 |
-| 74 | [沫雪](https://open.spotify.com/track/43wA7GO59hkeojRFu6jU4n) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [沫雪](https://open.spotify.com/album/7hMlSqny9Cm80ZQV77EC0Q) | 3:04 |
+| 73 | [沫雪](https://open.spotify.com/track/43wA7GO59hkeojRFu6jU4n) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [沫雪](https://open.spotify.com/album/7hMlSqny9Cm80ZQV77EC0Q) | 3:04 |
+| 74 | [切ないラブソングはいらない](https://open.spotify.com/track/2OnBkllxuR4IdUyvxfPAk6) | [I Don't Like Mondays.](https://open.spotify.com/artist/2DKISYy7EvTDO7eJHBK6yF) | [切ないラブソングはいらない](https://open.spotify.com/album/0sTRPhbGBFYuFpSw3DNTqN) | 3:55 |
 | 75 | [ロマンス](https://open.spotify.com/track/3fNnXZJUEZU0QUvUgdMVeI) | [Tomoyo Harada](https://open.spotify.com/artist/6tl1VDtemwax4iIKxqekK1) | [音楽と私](https://open.spotify.com/album/40ZrEXw8VRCDkWrICrBTb0) | 3:39 |
 | 76 | [悲しみは雪のように \(single / 1992\)](https://open.spotify.com/track/10HHmKRsZmQLXQ3kiAEef1) | [Shogo Hamada](https://open.spotify.com/artist/46Y4IAsvxi9vMQjqL2wdfy) | [The History of Shogo Hamada“Since 1975”](https://open.spotify.com/album/2m7ovaZtuf7WumcBTwtsTq) | 5:11 |
 | 77 | [蒼き春](https://open.spotify.com/track/2e9fua8pHpkK6Wso8Cq97c) | [秘めごと](https://open.spotify.com/artist/7gYheydY3QaksZPRLs4CzT) | [蒼き春](https://open.spotify.com/album/372dnGN7uf0xXWQkHOWI6C) | 4:00 |
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZMm3WdVVwc.md) - [plain]
 | 87 | [even if](https://open.spotify.com/track/6rKel5kmQN62IKewLUPBze) | [Ken Hirai](https://open.spotify.com/artist/6jIhEiXcCAyBsuEI7qZ9vc) | [Ken Hirai 10th Anniversary Complete Single Collection '95\-'05 歌バカ](https://open.spotify.com/album/6XLXlr6vKDBxkpgkBKF502) | 5:39 |
 | 88 | [Right Now \(feat\. JASMINE\)](https://open.spotify.com/track/20taJ46r9l2wf3czHTgzLD) | [EMI MARIA](https://open.spotify.com/artist/4RXIhUAlNFVdzLCWEWdRD8), [JASMINE](https://open.spotify.com/artist/76sRRqpyFhBYjdimBWjmfg) | [Right Now \(feat\. JASMINE\)](https://open.spotify.com/album/3RGY17PcGoYb2zAbCRSk5S) | 3:39 |
 | 89 | [ふれあうだけで 〜Always with you〜](https://open.spotify.com/track/0mxAShonBvdqpCTlZ1Amvu) | [Daichi Miura](https://open.spotify.com/artist/4UTEZqrPqLDOhBfraPNciJ) | [FEVER](https://open.spotify.com/album/1vxnMxxHXdOtL6wYnpZGdm) | 4:06 |
-| 90 | [AFTER TASTE](https://open.spotify.com/track/0nZf4KRecUg0rVC6vKi7Bo) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [AFTER TASTE](https://open.spotify.com/album/1rJGujcwxdGCnfoqcMzZO9) | 4:07 |
-| 91 | [もうすぐ夜があける](https://open.spotify.com/track/5pwNKKm5rN04L5boM59llf) | [Ikuko Harada](https://open.spotify.com/artist/37bsUoMW0Hbqj1l0MxDkDw) | [ケモノと魔法](https://open.spotify.com/album/3Lcdpg8rJFvlTYtybS7sxw) | 4:01 |
+| 90 | [もうすぐ夜があける](https://open.spotify.com/track/5pwNKKm5rN04L5boM59llf) | [Ikuko Harada](https://open.spotify.com/artist/37bsUoMW0Hbqj1l0MxDkDw) | [ケモノと魔法](https://open.spotify.com/album/3Lcdpg8rJFvlTYtybS7sxw) | 4:01 |
+| 91 | [AFTER TASTE](https://open.spotify.com/track/0nZf4KRecUg0rVC6vKi7Bo) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [AFTER TASTE](https://open.spotify.com/album/1rJGujcwxdGCnfoqcMzZO9) | 4:07 |
 | 92 | [WinterHurts \(feat\. 笠原 瑠斗\)](https://open.spotify.com/track/1a5QOzP02gtg1YxtqwuuZ6) | [JASMINE](https://open.spotify.com/artist/76sRRqpyFhBYjdimBWjmfg), [笠原瑠斗](https://open.spotify.com/artist/7r93kNe7B9HyEXuLvbjXIr) | [WinterHurts \(feat\. 笠原 瑠斗\)](https://open.spotify.com/album/52vI57EpyKHJjTwoQiSUaf) | 3:47 |
 | 93 | [冬の予感](https://open.spotify.com/track/7oRPjRlfRnWZcBH4j8WAAT) | [HIRAIDAI](https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs) | [冬の予感](https://open.spotify.com/album/6UaY4IfXT6wnafnjSlBRhI) | 3:21 |
 | 94 | [Winterboy](https://open.spotify.com/track/6em5Z6ju1rH6A4FCpcGt5z) | [the shes gone](https://open.spotify.com/artist/689D5sYXTKmpBXqAkAu0H7) | [Winterboy](https://open.spotify.com/album/0JtDeyFmNGaAk2eTYj49bA) | 4:34 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pP7cC2liKw.md) - [plain]
 
 > Immerse yourself in the mysticism of Tulum!
 
-[Spotify](https://open.spotify.com/user/spotify) - 448,466 likes - 70 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 448,771 likes - 70 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pP7cC2liKw.md) - [plain]
 | 55 | [Better When We're Close](https://open.spotify.com/track/3ZGIZOg6juy0TkF1Gy8Gzg) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [Brijean](https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb) | [Better When We're Close](https://open.spotify.com/album/3QAQLlcR4CVx9ySkuNNnah) | 3:33 |
 | 56 | [Atómico](https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw) | [Jungle Fire](https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby) | [Jungle Fire](https://open.spotify.com/album/2bproUHkH4ZckvOhxIYoT7) | 3:49 |
 | 57 | [Noche de Amor](https://open.spotify.com/track/1CYuo0OfQLSoqkaM8Hrrxt) | [Ondatrópica](https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh), [Juancho Vargas](https://open.spotify.com/artist/6AEhqCT1ckh6RsfvvFoXhT) | [Noche de Amor](https://open.spotify.com/album/1NvVlQFSVOjr7w0Jh18VZ6) | 7:23 |
-| 58 | [Don´t Give Up](https://open.spotify.com/track/145Hd5EtKOkJKyoWUIddzM) | [Travelers All Stars](https://open.spotify.com/artist/648TQGLrKzZRl8sxfcM6QH) | [BOSS REGGAE FROM MEXICO \- REGGAE GORDO](https://open.spotify.com/album/4tOQx2JFrcweaQ7ASv9XJT) | 2:50 |
-| 59 | [Negro Santo](https://open.spotify.com/track/6OiuCieqfbEMBHQPZo0j3Q) | [Don Couto](https://open.spotify.com/artist/75RbJtVQX3xaPgV4GE9FxN), [Melisa Castellanos](https://open.spotify.com/artist/7IuJScX96WercVvWQZNolC), [Monstruos del Mañana](https://open.spotify.com/artist/7v8VhVh30Z6wcT480oEK7V) | [Negro Santo](https://open.spotify.com/album/7gY74f6iO834wnj0Pf2wZW) | 4:27 |
+| 58 | [Negro Santo](https://open.spotify.com/track/6OiuCieqfbEMBHQPZo0j3Q) | [Don Couto](https://open.spotify.com/artist/75RbJtVQX3xaPgV4GE9FxN), [Melisa Castellanos](https://open.spotify.com/artist/7IuJScX96WercVvWQZNolC), [Monstruos del Mañana](https://open.spotify.com/artist/7v8VhVh30Z6wcT480oEK7V) | [Negro Santo](https://open.spotify.com/album/7gY74f6iO834wnj0Pf2wZW) | 4:27 |
+| 59 | [Don´t Give Up](https://open.spotify.com/track/145Hd5EtKOkJKyoWUIddzM) | [Travelers All Stars](https://open.spotify.com/artist/648TQGLrKzZRl8sxfcM6QH) | [BOSS REGGAE FROM MEXICO \- REGGAE GORDO](https://open.spotify.com/album/4tOQx2JFrcweaQ7ASv9XJT) | 2:50 |
 | 60 | [Estación Esperanza](https://open.spotify.com/track/1jGkLUJCl46NmXIM6rUghn) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf), [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [Estación Esperanza](https://open.spotify.com/album/64q41JtvnThaB2VaVrqfpQ) | 5:16 |
 | 61 | [Conexión Ancestral](https://open.spotify.com/track/3EjDI8FK3fMTVWNeclSP8v) | [Reyna Tropical](https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL) | [Malegría](https://open.spotify.com/album/0rN5KNEYHtYSuM7X9VuaV4) | 3:00 |
 | 62 | [Mirla](https://open.spotify.com/track/1a8gHyHUGYfiDlJMhrQTTV) | [Monte](https://open.spotify.com/artist/1fcnE99XRNfHPyu27ysuNG), [Simón Mejía](https://open.spotify.com/artist/5tsVE5RLYWuAhPL99Gzx4W) | [Mirla](https://open.spotify.com/album/2thUe8kdgLxFD6TUbCVwI7) | 4:24 |

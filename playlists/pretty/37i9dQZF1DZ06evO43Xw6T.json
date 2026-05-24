@@ -1,12 +1,12 @@
 {
   "description": "This is Gabito Ballesteros. The essential tracks, all in one playlist.",
-  "num_followers": 183704,
+  "num_followers": 183737,
   "original_name": "This Is Gabito Ballesteros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ag5LAAAAAAA5x8OnNCwFdADMctB4N5xK",
+  "snapshot_id": "ag+cgAAAAADa3qOh+fWuJfEsWwZNE9fr",
   "tracks": [
     {
       "added_at": null,
@@ -695,26 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amarre",
-        "url": "https://open.spotify.com/album/1BeOknqcvlpCNhFDdc3E14"
-      },
-      "artists": [
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        },
-        {
-          "name": "Jorsshh",
-          "url": "https://open.spotify.com/artist/3HJq88k0us5XSJ4tD3J8RG"
-        }
-      ],
-      "duration_ms": 179706,
-      "name": "Amarre",
-      "url": "https://open.spotify.com/track/2usxrgFyz7GjlmaE9ExlSp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Que Pedo",
         "url": "https://open.spotify.com/album/1i1It41Q2QnkUU2duPxfzy"
       },
@@ -731,6 +711,26 @@
       "duration_ms": 194062,
       "name": "Que Pedo",
       "url": "https://open.spotify.com/track/5ZNQU2PIp5KItB73TUft2B"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amarre",
+        "url": "https://open.spotify.com/album/1BeOknqcvlpCNhFDdc3E14"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "Jorsshh",
+          "url": "https://open.spotify.com/artist/3HJq88k0us5XSJ4tD3J8RG"
+        }
+      ],
+      "duration_ms": 179706,
+      "name": "Amarre",
+      "url": "https://open.spotify.com/track/2usxrgFyz7GjlmaE9ExlSp"
     },
     {
       "added_at": null,
@@ -835,30 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BAYAM\u00d3N",
-        "url": "https://open.spotify.com/album/73kwI4UvPc6CfNi5zih7AY"
-      },
-      "artists": [
-        {
-          "name": "Capo",
-          "url": "https://open.spotify.com/artist/7xHUTO9cWJKX9ayS9CfMCz"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        },
-        {
-          "name": "Esteban Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/1vMnVEtq5i30xyCVaHPhyz"
-        }
-      ],
-      "duration_ms": 177333,
-      "name": "BAYAM\u00d3N",
-      "url": "https://open.spotify.com/track/3ZGNnNlKZNMNW9abDm0i0g"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "On The Road",
         "url": "https://open.spotify.com/album/7yQ1S9MYxf97ODMA9cdZiW"
       },
@@ -879,22 +855,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "ESCONDIDAS",
-        "url": "https://open.spotify.com/album/2G1eSgMejHicDNwJCh5ul0"
+        "name": "Ya No Se Llevan Serenatas (Deluxe)",
+        "url": "https://open.spotify.com/album/6lcbUFZ3ws3Qjf9swuakMO"
       },
       "artists": [
         {
-          "name": "Oscar Ortiz",
-          "url": "https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei"
-        },
-        {
           "name": "Gabito Ballesteros",
           "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "Calle 24",
+          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
         }
       ],
-      "duration_ms": 173034,
-      "name": "ESCONDIDAS",
-      "url": "https://open.spotify.com/track/5BaNuIRKWt4CHdWi4LGe2M"
+      "duration_ms": 189869,
+      "name": "SARGENTO",
+      "url": "https://open.spotify.com/track/4zi3rwIYv1Q6slxn620w8P"
     },
     {
       "added_at": null,
@@ -919,22 +895,46 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ya No Se Llevan Serenatas (Deluxe)",
-        "url": "https://open.spotify.com/album/6lcbUFZ3ws3Qjf9swuakMO"
+        "name": "BAYAM\u00d3N",
+        "url": "https://open.spotify.com/album/73kwI4UvPc6CfNi5zih7AY"
       },
       "artists": [
+        {
+          "name": "Capo",
+          "url": "https://open.spotify.com/artist/7xHUTO9cWJKX9ayS9CfMCz"
+        },
         {
           "name": "Gabito Ballesteros",
           "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
         },
         {
-          "name": "Calle 24",
-          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
+          "name": "Esteban Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/1vMnVEtq5i30xyCVaHPhyz"
         }
       ],
-      "duration_ms": 189869,
-      "name": "SARGENTO",
-      "url": "https://open.spotify.com/track/4zi3rwIYv1Q6slxn620w8P"
+      "duration_ms": 177333,
+      "name": "BAYAM\u00d3N",
+      "url": "https://open.spotify.com/track/3ZGNnNlKZNMNW9abDm0i0g"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ESCONDIDAS",
+        "url": "https://open.spotify.com/album/2G1eSgMejHicDNwJCh5ul0"
+      },
+      "artists": [
+        {
+          "name": "Oscar Ortiz",
+          "url": "https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 173034,
+      "name": "ESCONDIDAS",
+      "url": "https://open.spotify.com/track/5BaNuIRKWt4CHdWi4LGe2M"
     },
     {
       "added_at": null,

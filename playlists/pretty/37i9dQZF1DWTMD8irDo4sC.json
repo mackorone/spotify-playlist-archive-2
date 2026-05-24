@@ -1,6 +1,6 @@
 {
   "description": "Chill to these acoustic songs from the Middle East and North Africa. Cover: Labess.",
-  "num_followers": 78283,
+  "num_followers": 78294,
   "original_name": "Acoustic Arabic",
   "owner": {
     "name": "Spotify",
@@ -763,6 +763,22 @@
     {
       "added_at": "2025-10-06 14:50:07",
       "album": {
+        "name": "El Rajol El Khashabi",
+        "url": "https://open.spotify.com/album/4XL6KSM5Dqu83lzuPprMGm"
+      },
+      "artists": [
+        {
+          "name": "El Far3i",
+          "url": "https://open.spotify.com/artist/5DOOqoefvhVdksKzrvA30t"
+        }
+      ],
+      "duration_ms": 249023,
+      "name": "Tghayarti",
+      "url": "https://open.spotify.com/track/2UCflIlO6RFX1cIfuu2pmR"
+    },
+    {
+      "added_at": "2025-10-06 14:50:07",
+      "album": {
         "name": "Win Yamchi Zine",
         "url": "https://open.spotify.com/album/3gkBsIfmzf69MGfMji8gnf"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 237217,
       "name": "Zina",
       "url": "https://open.spotify.com/track/7gepRwLr6JXAEz6vBuksSF"
-    },
-    {
-      "added_at": "2025-10-06 14:50:07",
-      "album": {
-        "name": "El Rajol El Khashabi",
-        "url": "https://open.spotify.com/album/4XL6KSM5Dqu83lzuPprMGm"
-      },
-      "artists": [
-        {
-          "name": "El Far3i",
-          "url": "https://open.spotify.com/artist/5DOOqoefvhVdksKzrvA30t"
-        }
-      ],
-      "duration_ms": 249023,
-      "name": "Tghayarti",
-      "url": "https://open.spotify.com/track/2UCflIlO6RFX1cIfuu2pmR"
     },
     {
       "added_at": "2025-10-06 14:50:07",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZA4G4jVRXy.md) - [plain]
 
 > Pour yourself a mai tai 🍹 and festoon yourself with lei 🌺, welcome to the Hawaiian party! 🌴🥭🎉
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,642 likes - 76 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,656 likes - 76 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,9 +13,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZA4G4jVRXy.md) - [plain]
 | 3 | [Tiny Bubbles](https://open.spotify.com/track/5xQLjEHGibyfh8YkAtMuWx) | [Don Ho](https://open.spotify.com/artist/3Ew1ynSmASX9Uec5FzBYrL) | [Tiny Bubbles](https://open.spotify.com/album/12jlS1kFwsM3EP6PrKYj9y) | 2:42 |
 | 4 | [Palace of the Tiger Women](https://open.spotify.com/track/0pApiVPobdC1NR1DhTPWpY) | [Kava Kon](https://open.spotify.com/artist/1fok8glC2cepDQ0b1VBUkd) | [Tiki for the Atomic Age](https://open.spotify.com/album/2nM2Rcvns6Yb64AxylBDUA) | 2:48 |
 | 5 | [A Man And A Woman \- Remastered](https://open.spotify.com/track/5VwssP9QyvfoKLt9FkI0aR) | [Sir Julian Gould](https://open.spotify.com/artist/4gj1oBNysZZ7lb6sqnRivp) | [Ultra\-Lounge: Organs In Orbit](https://open.spotify.com/album/3g94MSXd9bCi28DBn0SqCU) | 2:32 |
-| 6 | [Fruit Of Dreams](https://open.spotify.com/track/67hlixuKYLcIbUAge2iVqe) | [Les Baxter](https://open.spotify.com/artist/35pV6EUbherudlvAftoueR) | [The Sacred Idol](https://open.spotify.com/album/3hkdLz234t91jRZrwCo55M) | 2:31 |
+| 6 | [Alika \- Remastered 1996](https://open.spotify.com/track/49Zp8RpkMIHa0Pf7A1kcce) | [Webley Edwards](https://open.spotify.com/artist/7zRuASTSFAwiC9wo3moUnS) | [Ultra\-Lounge/Mondo Exotica: Volume One](https://open.spotify.com/album/2NuOkgVt9mmGOGVG0YsVtm) | 2:28 |
 | 7 | [Misirlou \- Remastered 1995](https://open.spotify.com/track/4XEthz8GA0yZ6hPwwSqwQg) | [Martin Denny](https://open.spotify.com/artist/3D9J9nPNW1cBktx5apJq4V) | [Best Of Martin Denny's Exotica](https://open.spotify.com/album/2mdidQxbJ3iT8TDNbV5OJ5) | 2:38 |
-| 8 | [Alika \- Remastered 1996](https://open.spotify.com/track/49Zp8RpkMIHa0Pf7A1kcce) | [Webley Edwards](https://open.spotify.com/artist/7zRuASTSFAwiC9wo3moUnS) | [Ultra\-Lounge/Mondo Exotica: Volume One](https://open.spotify.com/album/2NuOkgVt9mmGOGVG0YsVtm) | 2:28 |
+| 8 | [Fruit Of Dreams](https://open.spotify.com/track/67hlixuKYLcIbUAge2iVqe) | [Les Baxter](https://open.spotify.com/artist/35pV6EUbherudlvAftoueR) | [The Sacred Idol](https://open.spotify.com/album/3hkdLz234t91jRZrwCo55M) | 2:31 |
 | 9 | [Sunset on the Kona Kai](https://open.spotify.com/track/60YSnSjVaDXc1QmGzMtbEu) | [The Tikiyaki Orchestra](https://open.spotify.com/artist/7kJPKUUnHCennOOEBxjidx) | [Swingin' sounds for the Jungle Jetset !](https://open.spotify.com/album/4gI81mkI8rD1z4zjW5RENc) | 3:40 |
 | 10 | [Chant Of The Moon](https://open.spotify.com/track/6j46ude4neMZMiEagbYkie) | [Robert Drasnin](https://open.spotify.com/artist/4lWj8PHjMEv0e2SZ7j1ZE4) | [Voodoo!](https://open.spotify.com/album/6SnfMkaU2WAvBmmiFpz892) | 2:33 |
 | 11 | [Serenade to Nalani](https://open.spotify.com/track/3YEMdmxkrM7XQKxexD9oK9) | [Jerry Byrd](https://open.spotify.com/artist/5PGYCViqsPlum357lDLBpm) | [Hawaiian Style Guitars](https://open.spotify.com/album/0AgeEriHiY3FsJe8ufUMWb) | 2:52 |

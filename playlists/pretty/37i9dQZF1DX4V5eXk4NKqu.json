@@ -1,6 +1,6 @@
 {
   "description": "The best of Latin Indie today, featuring rusowsky.",
-  "num_followers": 168264,
+  "num_followers": 168265,
   "original_name": "Top Latin Indie",
   "owner": {
     "name": "Spotify",
@@ -679,22 +679,6 @@
     {
       "added_at": "2026-04-03 04:02:10",
       "album": {
-        "name": "PALACIO",
-        "url": "https://open.spotify.com/album/7nQEMEmUDb0KRNlbTUi4mE"
-      },
-      "artists": [
-        {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
-        }
-      ],
-      "duration_ms": 160312,
-      "name": "Drogada de Emociones",
-      "url": "https://open.spotify.com/track/7nUWS3PiYx9LmrLKInsLzM"
-    },
-    {
-      "added_at": "2026-04-03 04:02:10",
-      "album": {
         "name": "ETHEREA",
         "url": "https://open.spotify.com/album/0hKkNYEMGdm5Zee2cItOZY"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 224416,
       "name": "Encu\u00e9ntrame en Tokio",
       "url": "https://open.spotify.com/track/73tjbiUCCJjmhKOxIpE5eh"
+    },
+    {
+      "added_at": "2026-04-03 04:02:10",
+      "album": {
+        "name": "PALACIO",
+        "url": "https://open.spotify.com/album/7nQEMEmUDb0KRNlbTUi4mE"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        }
+      ],
+      "duration_ms": 160312,
+      "name": "Drogada de Emociones",
+      "url": "https://open.spotify.com/track/7nUWS3PiYx9LmrLKInsLzM"
     },
     {
       "added_at": "2026-04-03 04:02:10",

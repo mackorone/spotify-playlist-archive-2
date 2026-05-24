@@ -4,7 +4,7 @@
 
 > Tap it back or go for a spin with these uptempo tracks!
 
-1,430 songs - 3 day 5 hr 53 min
+1,431 songs - 3 day 5 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Animal](https://open.spotify.com/track/2ivDc5gzHTuDJKQaTgfsXo) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Animal \(with Jason Derulo\)](https://open.spotify.com/album/5FOUiGyszC4bwhccbSOXhU) | 2:20 | 2024-04-19 | 2025-03-14 |
 | [Animal Rights](https://open.spotify.com/track/2DHDdNrGxqVfskQKZ3iTmj) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Wolfgang Gartner](https://open.spotify.com/artist/3534yWWzmxx8NbKVoNolsK) | [4x4=12](https://open.spotify.com/album/47MVgO7XNmxzoYSJIvqxAG) | 6:15 | 2020-09-21\* | 2020-10-10 |
 | [Anita](https://open.spotify.com/track/0vyeYBxsWqeW4yOSocs15f) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ) | [Anita](https://open.spotify.com/album/5zOy44eogD5xj0XrxjEnS8) | 3:00 | 2021-09-25 | 2022-04-02 |
+| [Annihilation](https://open.spotify.com/track/42qH7RSRQBvrMiKfKNkUto) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5), [Korolova](https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx) | [Annihilation](https://open.spotify.com/album/6y9alfpegbSRAG98P91Nk0) | 3:07 | 2026-05-22 |  |
 | [Another Chance](https://open.spotify.com/track/2zJ5nuyOQi4jBvToG3HHys) | [Roger Sanchez](https://open.spotify.com/artist/1HT9k1ZSUL9IczSstOAgWJ), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [Another Chance](https://open.spotify.com/album/2duIDdyqxZxcvJkhoGi8Bp) | 4:14 | 2021-09-18 | 2022-03-12 |
 | [Another Level](https://open.spotify.com/track/4Bd1yNEOD5aX6NVU8eLlsa) | [i\_o](https://open.spotify.com/artist/0y42IQBDFigO5mmEd1bGQG) | [NRG 444](https://open.spotify.com/album/3W4OQvcucdaGSjynRXnJck) | 5:02 | 2020-09-21\* | 2021-01-23 |
 | [Another Level \(ft\. Lovespeake\)](https://open.spotify.com/track/2jSVBVxFFQY15Ce0V8HUH9) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Lovespeake](https://open.spotify.com/artist/0svmVqwlzmbBfwofH6uGbk) | [Another Level \(ft\. Lovespeake\)](https://open.spotify.com/album/2xeEcUG4blN1kzZYfid0Wd) | 2:25 | 2021-06-19 | 2022-04-02 |
@@ -759,7 +760,7 @@
 | [Metro](https://open.spotify.com/track/1YWLrDcr0yl0GfeDvuGX1z) | [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx), [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Metro](https://open.spotify.com/album/0ocTSn2voe5urhlqJaLjfC) | 3:59 | 2024-01-05 | 2024-04-19 |
 | [Metro](https://open.spotify.com/track/6kkf975GwERykpvOTu7IXZ) | [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx), [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Metro](https://open.spotify.com/album/2PjqXRSqBqvHWArQRYCNbS) | 3:59 | 2023-07-28 | 2024-01-05 |
 | [MIAMI](https://open.spotify.com/track/5cy1Pbuao6ifTw4to9EDQ9) | [XIE](https://open.spotify.com/artist/6nwfs1JBpPHU65twuciEbN) | [MIAMI](https://open.spotify.com/album/40xvkHSTzjwqVtWllCaaZH) | 3:14 | 2021-05-25 | 2021-08-07 |
-| [Midnight Angel](https://open.spotify.com/track/5EqWocub9JmJKD9DVf32g0) | [Laura van Dam](https://open.spotify.com/artist/6gmecOfbzCBnKd3OGkCQuz) | [Midnight Angel](https://open.spotify.com/album/3gAFsoayMCkm91mhymgtEx) | 3:52 | 2026-05-08 |  |
+| [Midnight Angel](https://open.spotify.com/track/5EqWocub9JmJKD9DVf32g0) | [Laura van Dam](https://open.spotify.com/artist/6gmecOfbzCBnKd3OGkCQuz) | [Midnight Angel](https://open.spotify.com/album/3gAFsoayMCkm91mhymgtEx) | 3:52 | 2026-05-08 | 2026-05-24 |
 | [Midnight Rapture](https://open.spotify.com/track/1c5sVhqoQvLHTXTYJTb98i) | [Anabel Englund](https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c) | [Midnight Rapture](https://open.spotify.com/album/52OxA20iRzso3tPiXvHkrF) | 3:17 | 2021-09-18 | 2022-03-12 |
 | [Midnight Sun](https://open.spotify.com/track/0rY4VH4Gztiwi6uLGaQcdP) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq), [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Midnight Sun](https://open.spotify.com/album/15PdggN6xD2mtIE9odL5y2) | 3:18 | 2022-07-08 | 2022-07-28 |
 | [Miles On It](https://open.spotify.com/track/4pkb8SbRGeHAvdb87v9rpf) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Miles On It](https://open.spotify.com/album/5gWV4yp27HCbXJ1YLe8hQM) | 2:48 | 2024-05-07 | 2025-11-04 |

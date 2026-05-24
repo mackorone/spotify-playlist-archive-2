@@ -2501,6 +2501,28 @@
     },
     {
       "album": {
+        "name": "RYAN TED",
+        "url": "https://open.spotify.com/album/2U9mwmcJrUmkIpJm9gq8n7"
+      },
+      "artists": [
+        {
+          "name": "Tedua",
+          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
+        },
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124464,
+      "name": "Felpa Nera (feat. ANNA)",
+      "url": "https://open.spotify.com/track/168t3ud7jZIslO0P5ZDKnj"
+    },
+    {
+      "album": {
         "name": "FENOMENO",
         "url": "https://open.spotify.com/album/7kgvW0bVB878kkc89imFK0"
       },
@@ -4870,7 +4892,7 @@
       ],
       "date_added": "2025-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 135830,
       "name": "MTP",
       "url": "https://open.spotify.com/track/4Swl67KjGwtWdNPqm0ZD39"

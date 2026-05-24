@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCJsgK4Sw8Y.md) - [plain]
 
 > Leave no rock undiscovered and explore the essential foundations of Christian rock.
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,444 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,452 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,16 +26,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCJsgK4Sw8Y.md) - [plain]
 | 16 | [The Artist In The Ambulance](https://open.spotify.com/track/0arNrzPygksLY2pEbRgBjw) | [Thrice](https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE) | [The Artist In The Ambulance](https://open.spotify.com/album/7yu7B1B8O07jAFAZEFSRXA) | 3:39 |
 | 17 | [Sold Out](https://open.spotify.com/track/1WyBe9jWz0wbwUItMAnaLb) | [Hawk Nelson](https://open.spotify.com/artist/4hj6ZZxaiKvG5GU3PYf7Gh) | [Diamonds](https://open.spotify.com/album/6H9N73NXBNugcz4FevMxlC) | 3:33 |
 | 18 | [Whispers in the Dark](https://open.spotify.com/track/6rSuL1ViLO7Aljn2WD09s4) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Comatose](https://open.spotify.com/album/16ElbnOtY2UgGaPKoLfst4) | 3:24 |
-| 19 | [God's Not Dead \(Like A Lion\)](https://open.spotify.com/track/0eI19vR5WZ12fuYcEFUVkw) | [Newsboys](https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62) | [God's Not Dead](https://open.spotify.com/album/7Csd473gctS7rL0YUhjlkX) | 4:18 |
-| 20 | [Unbreakable](https://open.spotify.com/track/6M9vEm3Cy3PHr3QkXRX6x3) | [Fireflight](https://open.spotify.com/artist/5v6wlK6GCKVovWMbPqSHNy) | [Unbreakable](https://open.spotify.com/album/4vmnwiWRiSgbcU1idqfuGS) | 3:21 |
-| 21 | [Frontline](https://open.spotify.com/track/39sN48Q2DIbyVK8i8kkqgF) | [Pillar](https://open.spotify.com/artist/2Tkg8omOIsTL617yXVt26e) | [Where Do We Go From Here](https://open.spotify.com/album/22Vt5HrHpPtKb8yN90LRwM) | 3:10 |
+| 19 | [Unbreakable](https://open.spotify.com/track/6M9vEm3Cy3PHr3QkXRX6x3) | [Fireflight](https://open.spotify.com/artist/5v6wlK6GCKVovWMbPqSHNy) | [Unbreakable](https://open.spotify.com/album/4vmnwiWRiSgbcU1idqfuGS) | 3:21 |
+| 20 | [Frontline](https://open.spotify.com/track/39sN48Q2DIbyVK8i8kkqgF) | [Pillar](https://open.spotify.com/artist/2Tkg8omOIsTL617yXVt26e) | [Where Do We Go From Here](https://open.spotify.com/album/22Vt5HrHpPtKb8yN90LRwM) | 3:10 |
+| 21 | [God's Not Dead \(Like A Lion\)](https://open.spotify.com/track/0eI19vR5WZ12fuYcEFUVkw) | [Newsboys](https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62) | [God's Not Dead](https://open.spotify.com/album/7Csd473gctS7rL0YUhjlkX) | 4:18 |
 | 22 | [Jesus Freak \- Remastered 2013](https://open.spotify.com/track/4zAjQDduJhIRFSpfrIN68Z) | [DC Talk](https://open.spotify.com/artist/1zK4ACgLi1lVPpfmmcwOTh) | [Jesus Freak \(Remastered\)](https://open.spotify.com/album/6KbHC5ADEGbnvl7Ge3GVQF) | 4:49 |
 | 23 | [Live Like That](https://open.spotify.com/track/6QbbxQtijqLfUV90Vlm1Xh) | [Sidewalk Prophets](https://open.spotify.com/artist/2SMYoM2Kbcj6rI6U3FRc4U) | [Live Like That](https://open.spotify.com/album/7FahRUE20rBZZuaR7pVk38) | 3:57 |
 | 24 | [Already Over](https://open.spotify.com/track/3SP1LUtLle97QNFvFFopnG) | [Red](https://open.spotify.com/artist/01crEa9G3pNpXZ5m7wuHOk) | [End Of Silence](https://open.spotify.com/album/3ntOXFMHUPIedU3l2QNE0n) | 4:24 |
 | 25 | [Flood](https://open.spotify.com/track/4wSqP7Vo7HcoakudSMzxAO) | [Jars Of Clay](https://open.spotify.com/artist/1lMaDSraU3oiNUsVWJLHdF) | [Jars Of Clay](https://open.spotify.com/album/3NmhY1GyYPSR9VGycvfRrQ) | 3:31 |
 | 26 | [Dear X, You Don't Own Me](https://open.spotify.com/track/3WbjKX2tEaI5N5ptKtW3P8) | [Disciple](https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO) | [Horseshoes & Handgrenades](https://open.spotify.com/album/5PWFFSbPkgS9UUFhmE5U2g) | 3:34 |
-| 27 | [Strong Tower](https://open.spotify.com/track/6YP6bn1Id1DgGkX5IB7zuh) | [Kutless](https://open.spotify.com/artist/3lLT23km6QvzYCojCXAYtX) | [Strong Tower](https://open.spotify.com/album/0Ot6Adlv0VTliCkFcR5OUB) | 3:58 |
-| 28 | [Collapsing \(feat\. Björn "Speed" Strid\)](https://open.spotify.com/track/2WVQXKecFNKwjfJab3M2xc) | [Demon Hunter](https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH), [Bjorn "Speed" Strid](https://open.spotify.com/artist/5qA1ILfKx6JbW6dw17N0BN) | [The World Is a Thorn \(Deluxe Edition\)](https://open.spotify.com/album/735AGDPrJkkaFEnl4UjlfN) | 3:38 |
+| 27 | [Collapsing \(feat\. Björn "Speed" Strid\)](https://open.spotify.com/track/2WVQXKecFNKwjfJab3M2xc) | [Demon Hunter](https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH), [Bjorn "Speed" Strid](https://open.spotify.com/artist/5qA1ILfKx6JbW6dw17N0BN) | [The World Is a Thorn \(Deluxe Edition\)](https://open.spotify.com/album/735AGDPrJkkaFEnl4UjlfN) | 3:38 |
+| 28 | [Strong Tower](https://open.spotify.com/track/6YP6bn1Id1DgGkX5IB7zuh) | [Kutless](https://open.spotify.com/artist/3lLT23km6QvzYCojCXAYtX) | [Strong Tower](https://open.spotify.com/album/0Ot6Adlv0VTliCkFcR5OUB) | 3:58 |
 | 29 | [Fading](https://open.spotify.com/track/6JvEDa0gyoQ6XkmUrLpMwU) | [Decyfer Down](https://open.spotify.com/artist/4C0vbj4LNsNUjH0Q9IFW3B) | [Crash](https://open.spotify.com/album/6EXEpRGL3vNulelPB5HZKc) | 4:11 |
 | 30 | [Kings & Queens](https://open.spotify.com/track/3N8L7MZktWeZquTAWQ2oY8) | [Audio Adrenaline](https://open.spotify.com/artist/01PBXLThJADrhufsPS5tER) | [Kings & Queens](https://open.spotify.com/album/1NcSOkBUqSXxFiRZxSL24d) | 3:49 |
 | 31 | [To Hell with the Devil](https://open.spotify.com/track/4t8OmZERfkdkRr4aoYa2h1) | [Stryper](https://open.spotify.com/artist/6lE1ly8K8H7u8k2ej2plvv) | [To Hell With The Devil](https://open.spotify.com/album/4LAVjeUmJl3h3U44sMRrfm) | 4:04 |

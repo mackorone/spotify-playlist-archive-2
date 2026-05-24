@@ -1,12 +1,12 @@
 {
   "description": "This is Yandel. The essential tracks, all in one playlist.",
-  "num_followers": 179556,
+  "num_followers": 179579,
   "original_name": "This Is Yandel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ag5LAAAAAAAKknV4FFXFn5FBu7vZQgmU",
+  "snapshot_id": "ag+cgAAAAAA3hfWUs6MkNKwPiNNgIg/0",
   "tracks": [
     {
       "added_at": null,
@@ -419,26 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "De L\u00edder a Leyenda",
-        "url": "https://open.spotify.com/album/6t3uUCp5kGlcXKmSfDl3Ul"
-      },
-      "artists": [
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 199022,
-      "name": "Moviendo Caderas (feat. Daddy Yankee)",
-      "url": "https://open.spotify.com/track/0bdL8X3MrX51dRz231BFtv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ELYTE",
         "url": "https://open.spotify.com/album/6TJh9B7dVXOoGjnDRUY7Ea"
       },
@@ -455,6 +435,26 @@
       "duration_ms": 154969,
       "name": "HABLAME CLARO",
       "url": "https://open.spotify.com/track/2qyEoF40CW5XfmpYJDoOR3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "De L\u00edder a Leyenda",
+        "url": "https://open.spotify.com/album/6t3uUCp5kGlcXKmSfDl3Ul"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 199022,
+      "name": "Moviendo Caderas (feat. Daddy Yankee)",
+      "url": "https://open.spotify.com/track/0bdL8X3MrX51dRz231BFtv"
     },
     {
       "added_at": null,
@@ -484,13 +484,13 @@
           "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
         },
         {
-          "name": "Xavi",
-          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
         }
       ],
-      "duration_ms": 134277,
-      "name": "Me Voy A La Chingada",
-      "url": "https://open.spotify.com/track/297ql9Y4MLwYwt6wY1wFID"
+      "duration_ms": 152134,
+      "name": "Rondando",
+      "url": "https://open.spotify.com/track/6zbIymvarWbejJdlRPJwGf"
     },
     {
       "added_at": null,
@@ -564,13 +564,13 @@
           "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
         },
         {
-          "name": "Kapo",
-          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
         }
       ],
-      "duration_ms": 152134,
-      "name": "Rondando",
-      "url": "https://open.spotify.com/track/6zbIymvarWbejJdlRPJwGf"
+      "duration_ms": 134277,
+      "name": "Me Voy A La Chingada",
+      "url": "https://open.spotify.com/track/297ql9Y4MLwYwt6wY1wFID"
     },
     {
       "added_at": null,
@@ -711,34 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alta Jerarquia (El Patr\u00f3n)",
-        "url": "https://open.spotify.com/album/0hTSs8AKjoZH8oGJdfJPmJ"
-      },
-      "artists": [
-        {
-          "name": "Tito \"El Bambino\"",
-          "url": "https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        },
-        {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 229560,
-      "name": "A Que No Te Atreves (Remix)",
-      "url": "https://open.spotify.com/track/1Yt5zFq14CsNug0YstbkfP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bonita (Remix)",
         "url": "https://open.spotify.com/album/69GKfbYqlc7kXvD0nCUMKA"
       },
@@ -771,6 +743,34 @@
       "duration_ms": 322906,
       "name": "Bonita - Remix",
       "url": "https://open.spotify.com/track/4jKX16TcfQIrqY1ZzDIZb2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Alta Jerarquia (El Patr\u00f3n)",
+        "url": "https://open.spotify.com/album/0hTSs8AKjoZH8oGJdfJPmJ"
+      },
+      "artists": [
+        {
+          "name": "Tito \"El Bambino\"",
+          "url": "https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 229560,
+      "name": "A Que No Te Atreves (Remix)",
+      "url": "https://open.spotify.com/track/1Yt5zFq14CsNug0YstbkfP"
     },
     {
       "added_at": null,
@@ -919,26 +919,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ESTRELLA",
-        "url": "https://open.spotify.com/album/0SoJvPHbKVhvmVJOp3kzp3"
-      },
-      "artists": [
-        {
-          "name": "Mora",
-          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        }
-      ],
-      "duration_ms": 185326,
-      "name": "P\u00d3LVORA",
-      "url": "https://open.spotify.com/track/3pQr8EhSzvKN3ZZlaL4Pae"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DYNASTY",
         "url": "https://open.spotify.com/album/58YsVjb7H6iov9MmLuvome"
       },
@@ -959,6 +939,26 @@
       "duration_ms": 166929,
       "name": "UNA M\u00c1S",
       "url": "https://open.spotify.com/track/7Hzh5oY6cIitvcK6oJDwTb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ESTRELLA",
+        "url": "https://open.spotify.com/album/0SoJvPHbKVhvmVJOp3kzp3"
+      },
+      "artists": [
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "duration_ms": 185326,
+      "name": "P\u00d3LVORA",
+      "url": "https://open.spotify.com/track/3pQr8EhSzvKN3ZZlaL4Pae"
     },
     {
       "added_at": null,

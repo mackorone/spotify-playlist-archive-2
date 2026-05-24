@@ -1291,6 +1291,28 @@
     },
     {
       "album": {
+        "name": "Me Haces Mal",
+        "url": "https://open.spotify.com/album/04F84zy7kjlbVkFEVLVkZm"
+      },
+      "artists": [
+        {
+          "name": "Kaia Lana",
+          "url": "https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ"
+        },
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "date_added": "2026-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200981,
+      "name": "Me Haces Mal",
+      "url": "https://open.spotify.com/track/687orvcpXGLKYXCclNMYLh"
+    },
+    {
+      "album": {
         "name": "Mi Pueblo Natal",
         "url": "https://open.spotify.com/album/5oxAkfE2d840jRBDCJxsQ5"
       },
@@ -2068,7 +2090,7 @@
       ],
       "date_added": "2024-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 217096,
       "name": "Te Am\u00e9 Temprano",
       "url": "https://open.spotify.com/track/0lWowR8X67uvdZLAOpVcTa"

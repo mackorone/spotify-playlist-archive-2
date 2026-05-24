@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNdPSCaTGoa.md) - [plain]
 
 > Celebrating South Africa's most beloved hits\. Cover: J'Something
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,684 likes - 60 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,721 likes - 60 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNdPSCaTGoa.md) - [plain]
 | 55 | [Scatterlings Of Africa](https://open.spotify.com/track/4KYClqpx2nuv8BAiRLxGrn) | [Savuka](https://open.spotify.com/artist/3UDSQSzFctmDSlmY75BWV7), [Johnny Clegg](https://open.spotify.com/artist/7idPv1alc0mcEhEsKlMV2O) | [Rain Man: Original Motion Picture Soundtrack](https://open.spotify.com/album/12xXxQA56OgFFYlNc9ATJi) | 4:05 |
 | 56 | [Doc Shebeleza](https://open.spotify.com/track/1fRMv66SdJrWowk0rJduKM) | [Cassper Nyovest](https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP) | [Tsholofelo \(Platinum Edition\)](https://open.spotify.com/album/367X12thcQ6YbzKYWLGXFc) | 3:51 |
 | 57 | [Ungaphel' Umoya Son](https://open.spotify.com/track/497xN2vH7jrdMJwssIZkEt) | [Pro Kid](https://open.spotify.com/artist/5HE0pmik1Vo6uww4nZKxli) | [Heads and Tales](https://open.spotify.com/album/0H1DKASzcSdPOSrXc8Ovx6) | 4:36 |
-| 58 | [Zabalaza](https://open.spotify.com/track/7nLs6J61QEVgfJsCFBCl4S) | [Thandiswa](https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N) | [Zabalaza](https://open.spotify.com/album/2nzNQQpCe88qXWHNUwx7k2) | 6:42 |
-| 59 | [Afrikaners Is Plesierig](https://open.spotify.com/track/3GHN9QEIr3mYiGRmtleNvc) | [Karen Zoid](https://open.spotify.com/artist/1x6N4tQft8TwRuhOfRUgWC) | [Ultimate Zoid](https://open.spotify.com/album/6umebim7hsEZeR3DfsWmpX) | 3:44 |
+| 58 | [Afrikaners Is Plesierig](https://open.spotify.com/track/3GHN9QEIr3mYiGRmtleNvc) | [Karen Zoid](https://open.spotify.com/artist/1x6N4tQft8TwRuhOfRUgWC) | [Ultimate Zoid](https://open.spotify.com/album/6umebim7hsEZeR3DfsWmpX) | 3:44 |
+| 59 | [Zabalaza](https://open.spotify.com/track/7nLs6J61QEVgfJsCFBCl4S) | [Thandiswa](https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N) | [Zabalaza](https://open.spotify.com/album/2nzNQQpCe88qXWHNUwx7k2) | 6:42 |
 | 60 | [Tot Die Son Uitkom](https://open.spotify.com/track/4shIYnY3P1FAJZxldDI9JD) | [Van Coke Kartel](https://open.spotify.com/artist/256RIQ6zTG7LTrRlAxB5xw) | [Wie's Bang](https://open.spotify.com/album/5pmX2N8DT69U8hCEfBERp2) | 4:56 |
 
 Snapshot ID: `AAAAAHItU9sSbyd+IOp4k6jHIM7EC63n`

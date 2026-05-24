@@ -4,7 +4,7 @@
 
 > świeże brzmienia na horyzoncie ✨ Cover: Ania Szlagowska
 
-849 songs - 1 day 17 hr 26 min
+850 songs - 1 day 17 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -572,7 +572,7 @@
 | [Powiedz](https://open.spotify.com/track/3z9K5dBzEyQWht7Y3PARnM) | [Maja Krzyżewska](https://open.spotify.com/artist/0Ik3lsTqLJTDmAmKQ6mxPL) | [Powiedz](https://open.spotify.com/album/42EQ6jPw9iIQuymNrrXxSq) | 2:03 | 2024-09-27 | 2025-01-24 |
 | [powiem/nie powiem](https://open.spotify.com/track/509mth4lw2dQQcGXtKMHDc) | [Frank Leen](https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4) | [powiem/nie powiem](https://open.spotify.com/album/1wnV3DSxRwQzSiPEkQzQ4t) | 3:28 | 2026-04-17 |  |
 | [Pozwól mi czuć](https://open.spotify.com/track/1maFv5IRJwGOwCWRnh53F0) | [Carla Fernandes](https://open.spotify.com/artist/2PowY1osU1K9Qa8d1fn0PF) | [Pozwól mi czuć](https://open.spotify.com/album/46dAAbyTDO4x0MjzJMSR4P) | 3:20 | 2026-02-05 | 2026-05-01 |
-| [Pray](https://open.spotify.com/track/7yT5rUvzEQh60Olh2GXShd) | [ALICJA](https://open.spotify.com/artist/0aCRGI3PsmtCjyTCnRpRgM) | [Pray](https://open.spotify.com/album/3ADI3YJtPk0QUsdCY1soXx) | 3:00 | 2026-02-12 |  |
+| [Pray](https://open.spotify.com/track/7yT5rUvzEQh60Olh2GXShd) | [ALICJA](https://open.spotify.com/artist/0aCRGI3PsmtCjyTCnRpRgM) | [Pray](https://open.spotify.com/album/3ADI3YJtPk0QUsdCY1soXx) | 3:00 | 2026-02-12 | 2026-05-24 |
 | [PRAY](https://open.spotify.com/track/47hPDWjpKJBtNTZ5mvpdBt) | [KUBA](https://open.spotify.com/artist/1bkyZDNNjgrIwr4qTtyHUW) | [PRAY](https://open.spotify.com/album/0i3m0nLfvE8essSOZrlStQ) | 2:45 | 2025-01-16 | 2025-03-21 |
 | [Press Pause](https://open.spotify.com/track/68qGBPUqSLlxwbbkWrMIjZ) | [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [Press Pause](https://open.spotify.com/album/05s3p7Iq338wtkqoeaPekD) | 3:19 | 2025-03-27 | 2025-07-04 |
 | [PRETTY LIES](https://open.spotify.com/track/221vIAPfaaS1rN0l6TnrUg) | [Sally](https://open.spotify.com/artist/6UGUIOyibm8kA96ClpbF1A) | [PRETTY LIES](https://open.spotify.com/album/0Zx3pNSIZDJO341isoT8kf) | 2:44 | 2024-10-25 | 2025-01-24 |
@@ -727,6 +727,7 @@
 | [Tonę \(w skateparku\)](https://open.spotify.com/track/7Dr0N7ABvgd89mSuAjcBSB) | [Miłosz Skierski](https://open.spotify.com/artist/0aEvxy0vmxXQixOiE9qyhJ) | [Tonę \(w skateparku\)](https://open.spotify.com/album/2WPsbVoKOg9g4nqUQQ6i57) | 3:22 | 2025-12-05 | 2025-12-12 |
 | [Too Much](https://open.spotify.com/track/6lKSOnC9iLGDonypMgvGrm) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Too Much](https://open.spotify.com/album/3vOE21VZf6cPqU98By3TOM) | 2:51 | 2025-02-27 | 2025-05-09 |
 | [Too Pretty For Buffalo](https://open.spotify.com/track/0YSLuLkd42sfo1CYXcdijR) | [Baby Nova](https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf) | [Too Pretty For Buffalo](https://open.spotify.com/album/4vDyjgRIPNAQTirFdySzoY) | 3:56 | 2025-03-06 | 2025-06-20 |
+| [TopOff](https://open.spotify.com/track/6EmqcmEbc9XHhleW2rBfvm) | [Zaleś](https://open.spotify.com/artist/3IQIVYEmRr7wZnEqpSjfV5) | [TopOff](https://open.spotify.com/album/6hIBQMP2jZYOZHf9UTWwZb) | 2:39 | 2026-05-21 |  |
 | [Toskania](https://open.spotify.com/track/019YTP6v9YSy1CjEkizSAm) | [Julia Przybylska](https://open.spotify.com/artist/3OSpVIczY7n8Mhz02orZTP) | [Toskania](https://open.spotify.com/album/2AX0qNiRGEtVeQiL9EHZ4W) | 2:19 | 2025-08-19 | 2025-09-03 |
 | [toxic till the end](https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:36 | 2025-01-23 | 2025-01-31 |
 | [tracimy sens](https://open.spotify.com/track/6wpF3A7b91RGelXpRvcDNr) | [nefrea](https://open.spotify.com/artist/0LDHuGDQljiQdkLri5BSAW), [Gmeniu](https://open.spotify.com/artist/2ahqO5ra5nDrvVfvR851Xj) | [tracimy sens](https://open.spotify.com/album/7cjyOgy8HEkt6Dwu0Gytjz) | 2:30 | 2025-07-17 | 2025-07-25 |

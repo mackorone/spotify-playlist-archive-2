@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Jyx1uIhxnP.md) - [plain]
 
 > The most iconic indie needle drops from the last two decades.
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,022 likes - 50 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,104 likes - 50 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Jyx1uIhxnP.md) - [plain]
 | 34 | [Too Young](https://open.spotify.com/track/2THkQauDWMvJgXFGPY4iKB) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [United](https://open.spotify.com/album/5MBUL8d9FAYCCMrogOFX68) | 3:17 |
 | 35 | [Temptation](https://open.spotify.com/track/7j5Q3zhjvpQvMeoPSZwdsa) | [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3) | [Substance](https://open.spotify.com/album/6iHuSGy6pq4tNGFV3ZVPtl) | 6:59 |
 | 36 | [Feel It All Around](https://open.spotify.com/track/4V0x90QcMh4ZxwHzEWOdtK) | [Washed Out](https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z) | [Life of Leisure](https://open.spotify.com/album/1jMTPWTHJhsZev04IbmyCC) | 3:12 |
-| 37 | [1234](https://open.spotify.com/track/49CP2usyaN98EdtrOWXnal) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [The Reminder](https://open.spotify.com/album/27Y2wm3WcFThQocgjLI5wF) | 3:03 |
-| 38 | [Dancing on My Own](https://open.spotify.com/track/2UT3iEU7uQAXNUxCKfiZAj) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Body Talk, Pt.1](https://open.spotify.com/album/0uQvFZsNoC7MZpcZZLtlYs) | 4:48 |
-| 39 | [Daft Punk Is Playing at My House](https://open.spotify.com/track/73mlvsfJM2qwlDUJxeaatI) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [LCD Soundsystem](https://open.spotify.com/album/6aSk2vxoY3xtz7cXKuY9EL) | 5:14 |
+| 37 | [Dancing on My Own](https://open.spotify.com/track/2UT3iEU7uQAXNUxCKfiZAj) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Body Talk, Pt.1](https://open.spotify.com/album/0uQvFZsNoC7MZpcZZLtlYs) | 4:48 |
+| 38 | [Daft Punk Is Playing at My House](https://open.spotify.com/track/73mlvsfJM2qwlDUJxeaatI) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [LCD Soundsystem](https://open.spotify.com/album/6aSk2vxoY3xtz7cXKuY9EL) | 5:14 |
+| 39 | [1234](https://open.spotify.com/track/49CP2usyaN98EdtrOWXnal) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [The Reminder](https://open.spotify.com/album/27Y2wm3WcFThQocgjLI5wF) | 3:03 |
 | 40 | [Heartbeats](https://open.spotify.com/track/5P2hEcHjoNMh33EsFPPOJE) | [The Knife](https://open.spotify.com/artist/7eQZTqEMozBcuSubfu52i4) | [Deep Cuts](https://open.spotify.com/album/58VeC1LO2OjyHXsjtI306m) | 3:51 |
 | 41 | [C'est toi](https://open.spotify.com/track/7vzLRsfNytlCFJzZhM1AXK) | [satine](https://open.spotify.com/artist/7Abx1tdwQoBDWr1nD1o62B) | [C'est toi](https://open.spotify.com/album/6vUy11UYLwzE3V89PbpELy) | 1:58 |
 | 42 | [Teen Age Riot \(Album Version\)](https://open.spotify.com/track/0WIbzDVEpmOyBnqqdtqIL9) | [Sonic Youth](https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6) | [Daydream Nation \(Deluxe Edition\)](https://open.spotify.com/album/23O4F21GDWiGd33tFN3ZgI) | 6:57 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Jyx1uIhxnP.md) - [plain]
 | 45 | [ur so pretty](https://open.spotify.com/track/1N6yLqYILv6h09MUcTIttf) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [My Vine](https://open.spotify.com/album/4qBisrnVON2gyBr6ZrFnHp) | 2:12 |
 | 46 | [If I Had a Heart](https://open.spotify.com/track/3eJyXwiYepWvEDKABhm7lL) | [Fever Ray](https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY) | [Fever Ray](https://open.spotify.com/album/019nA7vSKz0dD5yRKYRpbM) | 3:49 |
 | 47 | [sometimes](https://open.spotify.com/track/5CXokdWISVHIcq4BsKwDvJ) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [loveless](https://open.spotify.com/album/3USQKOw0se5pBNEndu82Rb) | 5:19 |
-| 48 | [Bad Reputation](https://open.spotify.com/track/7pu8AhGUxHZSCWTkQ2eb5M) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Bad Reputation \(Expanded Edition\)](https://open.spotify.com/album/1gB28ytYFQElaXngAfeYep) | 2:49 |
-| 49 | [Mykonos](https://open.spotify.com/track/7H71gZwWs3xPWnHM30NDUp) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [First Collection: 2006\-2009](https://open.spotify.com/album/2m7zr13OtqMWyPkO32WRo0) | 4:35 |
+| 48 | [Mykonos](https://open.spotify.com/track/7H71gZwWs3xPWnHM30NDUp) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [First Collection: 2006\-2009](https://open.spotify.com/album/2m7zr13OtqMWyPkO32WRo0) | 4:35 |
+| 49 | [Bad Reputation](https://open.spotify.com/track/7pu8AhGUxHZSCWTkQ2eb5M) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Bad Reputation \(Expanded Edition\)](https://open.spotify.com/album/1gB28ytYFQElaXngAfeYep) | 2:49 |
 | 50 | [Twice](https://open.spotify.com/track/49Su9fsYwmnnuJSyxj48kL) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Little Dragon](https://open.spotify.com/album/34AtsFexhxnKPVJFtLIN1I) | 3:06 |
 
 Snapshot ID: `AAAAAFyvebkJSPHebi5yN7K4odZMQShS`

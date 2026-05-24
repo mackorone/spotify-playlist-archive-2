@@ -1205,6 +1205,24 @@
     },
     {
       "album": {
+        "name": "Be Alright",
+        "url": "https://open.spotify.com/album/4un4FAjfIhnCW1Xy83Qx9Y"
+      },
+      "artists": [
+        {
+          "name": "FLOONK",
+          "url": "https://open.spotify.com/artist/4ZzqskD9slkLlmzd5kiEnM"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202970,
+      "name": "Be Alright",
+      "url": "https://open.spotify.com/track/63pDrdeYyMZ9kmMtzRB8Uj"
+    },
+    {
+      "album": {
         "name": "Be The One",
         "url": "https://open.spotify.com/album/03CJTIUvULKcMHjr0qjZtK"
       },
@@ -5704,7 +5722,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 209142,
       "name": "Holy Ghost",
       "url": "https://open.spotify.com/track/394SgqkD6gJOM08pZI8kol"

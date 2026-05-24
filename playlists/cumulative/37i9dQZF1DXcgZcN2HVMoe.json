@@ -6232,7 +6232,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 255272,
       "name": "I Don't Wanna Dance - Piano Version",
       "url": "https://open.spotify.com/track/4BXcGFt1btBUsOYzERvlG6"
@@ -12808,6 +12808,24 @@
       "duration_ms": 235586,
       "name": "The Trouble with Wanting",
       "url": "https://open.spotify.com/track/5ZUObJNpVt2l9GogUSfALc"
+    },
+    {
+      "album": {
+        "name": "valley of my prime",
+        "url": "https://open.spotify.com/album/1UnbjUKJUVDSnRkaf2rnnc"
+      },
+      "artists": [
+        {
+          "name": "Vancouver Sleep Clinic",
+          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207702,
+      "name": "the way you do",
+      "url": "https://open.spotify.com/track/2Sgz95fxgQYxDAS2yKJLGL"
     },
     {
       "album": {

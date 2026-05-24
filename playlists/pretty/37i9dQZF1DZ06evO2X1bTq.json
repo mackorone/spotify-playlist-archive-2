@@ -1,12 +1,12 @@
 {
   "description": "This is U2. The essential tracks, all in one playlist.",
-  "num_followers": 1266409,
+  "num_followers": 1266421,
   "original_name": "This Is U2",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ag5LAAAAAADbvihpVkp5yWD5NgV+UOMm",
+  "snapshot_id": "ag+cgAAAAAAbOj2B2XhQBs+D46tMhRGh",
   "tracks": [
     {
       "added_at": null,
@@ -171,22 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Easter Lily EP",
-        "url": "https://open.spotify.com/album/1DY06ZzIoHYFQ83jPfm9aF"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 273906,
-      "name": "In A Life",
-      "url": "https://open.spotify.com/track/1fbIlgO7EgYsDzk3r3uRz2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Breakthrough",
         "url": "https://open.spotify.com/album/13HYuDhB1soZvHzwoymXoV"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 260466,
       "name": "One",
       "url": "https://open.spotify.com/track/3Lk7RWStfLaHG7lXsuS87j"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Easter Lily EP",
+        "url": "https://open.spotify.com/album/1DY06ZzIoHYFQ83jPfm9aF"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 273906,
+      "name": "In A Life",
+      "url": "https://open.spotify.com/track/1fbIlgO7EgYsDzk3r3uRz2"
     },
     {
       "added_at": null,
@@ -358,19 +358,11 @@
         {
           "name": "U2",
           "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        },
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        },
-        {
-          "name": "Taras Topolia",
-          "url": "https://open.spotify.com/artist/30pQviUqhKT7G1okKEXX0B"
         }
       ],
-      "duration_ms": 266312,
-      "name": "Yours Eternally (feat. Ed Sheeran & Taras Topolia)",
-      "url": "https://open.spotify.com/track/0fFN4cjLBVaLbypb4aEXpQ"
+      "duration_ms": 235413,
+      "name": "Song Of The Future",
+      "url": "https://open.spotify.com/track/3xbZa70HOBQpGQcaR3HqW1"
     },
     {
       "added_at": null,
@@ -434,11 +426,19 @@
         {
           "name": "U2",
           "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Taras Topolia",
+          "url": "https://open.spotify.com/artist/30pQviUqhKT7G1okKEXX0B"
         }
       ],
-      "duration_ms": 235413,
-      "name": "Song Of The Future",
-      "url": "https://open.spotify.com/track/3xbZa70HOBQpGQcaR3HqW1"
+      "duration_ms": 266312,
+      "name": "Yours Eternally (feat. Ed Sheeran & Taras Topolia)",
+      "url": "https://open.spotify.com/track/0fFN4cjLBVaLbypb4aEXpQ"
     },
     {
       "added_at": null,

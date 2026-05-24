@@ -1,12 +1,12 @@
 {
   "description": "This is Deorro. The essential tracks, all in one playlist.",
-  "num_followers": 45447,
+  "num_followers": 45448,
   "original_name": "This Is Deorro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ag5LAAAAAAD+wNa4apFAV/N1Zcl6X0Wp",
+  "snapshot_id": "ag+cgAAAAAAIvQd26sOyIPqYhhwsrASt",
   "tracks": [
     {
       "added_at": null,
@@ -199,22 +199,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Un Poquito M\u00e1s",
-        "url": "https://open.spotify.com/album/7bj3LncFV0WD4jIJa0O6ME"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        }
-      ],
-      "duration_ms": 196285,
-      "name": "Un Poquito M\u00e1s",
-      "url": "https://open.spotify.com/track/1ShgziqogzD9PeYRNugqNU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BOTAS & RAVE",
         "url": "https://open.spotify.com/album/0aJgOjin88gJ7ZpiTTilYz"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 147310,
       "name": "ME GUSTA",
       "url": "https://open.spotify.com/track/4bbFWEArNN2tCgR0DpsylN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Un Poquito M\u00e1s",
+        "url": "https://open.spotify.com/album/7bj3LncFV0WD4jIJa0O6ME"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        }
+      ],
+      "duration_ms": 196285,
+      "name": "Un Poquito M\u00e1s",
+      "url": "https://open.spotify.com/track/1ShgziqogzD9PeYRNugqNU"
     },
     {
       "added_at": null,
@@ -283,30 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bring It Back (feat. Max Styler)",
-        "url": "https://open.spotify.com/album/6orvX1pLBGiiHQiSc1eEr8"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        },
-        {
-          "name": "MAKJ",
-          "url": "https://open.spotify.com/artist/3PtCud9dIdOv4exrzdZZ1C"
-        },
-        {
-          "name": "Max Styler",
-          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Bring It Back (feat. Max Styler)",
-      "url": "https://open.spotify.com/track/3On0xk67ckVLs1qEpTF8mY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BOTAS & RAVE",
         "url": "https://open.spotify.com/album/0aJgOjin88gJ7ZpiTTilYz"
       },
@@ -331,8 +307,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Bandera (Remix)",
-        "url": "https://open.spotify.com/album/5oGcK4Yz4zpnFkAUKXbjfE"
+        "name": "Bring It Back (feat. Max Styler)",
+        "url": "https://open.spotify.com/album/6orvX1pLBGiiHQiSc1eEr8"
       },
       "artists": [
         {
@@ -340,13 +316,17 @@
           "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
         },
         {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+          "name": "MAKJ",
+          "url": "https://open.spotify.com/artist/3PtCud9dIdOv4exrzdZZ1C"
+        },
+        {
+          "name": "Max Styler",
+          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
         }
       ],
-      "duration_ms": 160664,
-      "name": "La Bandera (Remix)",
-      "url": "https://open.spotify.com/track/17eoa5LPrYT2Y7tAi4Y8yL"
+      "duration_ms": 165000,
+      "name": "Bring It Back (feat. Max Styler)",
+      "url": "https://open.spotify.com/track/3On0xk67ckVLs1qEpTF8mY"
     },
     {
       "added_at": null,
@@ -371,8 +351,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cuando",
-        "url": "https://open.spotify.com/album/1Jgf8NRmChspT9LHmySR9D"
+        "name": "La Bandera (Remix)",
+        "url": "https://open.spotify.com/album/5oGcK4Yz4zpnFkAUKXbjfE"
       },
       "artists": [
         {
@@ -380,13 +360,13 @@
           "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
         },
         {
-          "name": "Los Dutis",
-          "url": "https://open.spotify.com/artist/7euy0eWE4fAyce469eL2fi"
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
         }
       ],
-      "duration_ms": 170189,
-      "name": "Cuando",
-      "url": "https://open.spotify.com/track/2cXNJ4MCHKqbN3Q7YAUscL"
+      "duration_ms": 160664,
+      "name": "La Bandera (Remix)",
+      "url": "https://open.spotify.com/track/17eoa5LPrYT2Y7tAi4Y8yL"
     },
     {
       "added_at": null,
@@ -407,6 +387,26 @@
       "duration_ms": 156000,
       "name": "SAKUDELO",
       "url": "https://open.spotify.com/track/2iGrZCkaOdmRgB4AtuGXU6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cuando",
+        "url": "https://open.spotify.com/album/1Jgf8NRmChspT9LHmySR9D"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "Los Dutis",
+          "url": "https://open.spotify.com/artist/7euy0eWE4fAyce469eL2fi"
+        }
+      ],
+      "duration_ms": 170189,
+      "name": "Cuando",
+      "url": "https://open.spotify.com/track/2cXNJ4MCHKqbN3Q7YAUscL"
     },
     {
       "added_at": null,
@@ -451,6 +451,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "BOTAS & RAVE",
+        "url": "https://open.spotify.com/album/0aJgOjin88gJ7ZpiTTilYz"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "Alacranes Musical",
+          "url": "https://open.spotify.com/artist/2aZtzjAzD8fq3OhZ9egqda"
+        }
+      ],
+      "duration_ms": 223741,
+      "name": "ZAPATEADO ELECTR\u00d3NICO",
+      "url": "https://open.spotify.com/track/1WUTvWkKnI3DGiovrL4lxD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "PPP",
         "url": "https://open.spotify.com/album/75iFgRPgqvNwqm6kgqsBtr"
       },
@@ -471,26 +491,6 @@
       "duration_ms": 188225,
       "name": "PPP",
       "url": "https://open.spotify.com/track/1zNobOaHvQIFzYpGb3VBR9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BOTAS & RAVE",
-        "url": "https://open.spotify.com/album/0aJgOjin88gJ7ZpiTTilYz"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        },
-        {
-          "name": "Alacranes Musical",
-          "url": "https://open.spotify.com/artist/2aZtzjAzD8fq3OhZ9egqda"
-        }
-      ],
-      "duration_ms": 223741,
-      "name": "ZAPATEADO ELECTR\u00d3NICO",
-      "url": "https://open.spotify.com/track/1WUTvWkKnI3DGiovrL4lxD"
     },
     {
       "added_at": null,
@@ -535,6 +535,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "BOTAS & RAVE",
+        "url": "https://open.spotify.com/album/0aJgOjin88gJ7ZpiTTilYz"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        }
+      ],
+      "duration_ms": 162857,
+      "name": "ACTIVO",
+      "url": "https://open.spotify.com/track/5in7YVZnVR2KhdNbn4Idq1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "ORRO",
         "url": "https://open.spotify.com/album/05DvB52So1wX0F8txvQDHB"
       },
@@ -555,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BOTAS & RAVE",
-        "url": "https://open.spotify.com/album/0aJgOjin88gJ7ZpiTTilYz"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        }
-      ],
-      "duration_ms": 162857,
-      "name": "ACTIVO",
-      "url": "https://open.spotify.com/track/5in7YVZnVR2KhdNbn4Idq1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Camaron Pelao",
         "url": "https://open.spotify.com/album/23sx3VV6hMtdvRvkMx52uF"
       },
@@ -587,26 +587,6 @@
       "duration_ms": 210349,
       "name": "Camaron Pelao",
       "url": "https://open.spotify.com/track/4QC5C5FOQtEcuw0ZDrgTxJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Redenci\u00f3n (Deluxe)",
-        "url": "https://open.spotify.com/album/4CZBLiXAPe237EfXNZ35Gl"
-      },
-      "artists": [
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        },
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        }
-      ],
-      "duration_ms": 185076,
-      "name": "Deli",
-      "url": "https://open.spotify.com/track/2XQArGuHX03hf3IB4tQKxy"
     },
     {
       "added_at": null,
@@ -671,6 +651,26 @@
       "duration_ms": 178064,
       "name": "Belicosa",
       "url": "https://open.spotify.com/track/4s7yfI7nh95h4xikmgcJYX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Redenci\u00f3n (Deluxe)",
+        "url": "https://open.spotify.com/album/4CZBLiXAPe237EfXNZ35Gl"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        },
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        }
+      ],
+      "duration_ms": 185076,
+      "name": "Deli",
+      "url": "https://open.spotify.com/track/2XQArGuHX03hf3IB4tQKxy"
     },
     {
       "added_at": null,
@@ -959,34 +959,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "UNDERDOGS",
-        "url": "https://open.spotify.com/album/1nPRTKmS3Bn0f2ih11i2aH"
-      },
-      "artists": [
-        {
-          "name": "IAmChino",
-          "url": "https://open.spotify.com/artist/0b2GL7Y02vu50qieoQmw1w"
-        },
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        },
-        {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
-        },
-        {
-          "name": "Mariah Angeliq",
-          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
-        }
-      ],
-      "duration_ms": 209329,
-      "name": "Pasame La Botella",
-      "url": "https://open.spotify.com/track/0qnvOarNrLfi9hxovKYkkd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Front To Back",
         "url": "https://open.spotify.com/album/2pCuVHIlb6NnyC9PrXt9z8"
       },
@@ -1027,22 +999,46 @@
     {
       "added_at": null,
       "album": {
-        "name": "TUCU",
-        "url": "https://open.spotify.com/album/6gvcAokwMdqpUDuVVROtc8"
+        "name": "UNDERDOGS",
+        "url": "https://open.spotify.com/album/1nPRTKmS3Bn0f2ih11i2aH"
       },
       "artists": [
         {
-          "name": "Dani Flow",
-          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
+          "name": "IAmChino",
+          "url": "https://open.spotify.com/artist/0b2GL7Y02vu50qieoQmw1w"
         },
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "name": "Mariah Angeliq",
+          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
+        }
+      ],
+      "duration_ms": 209329,
+      "name": "Pasame La Botella",
+      "url": "https://open.spotify.com/track/0qnvOarNrLfi9hxovKYkkd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All This Time",
+        "url": "https://open.spotify.com/album/0gJoQZxblePiQK1nBisINs"
+      },
+      "artists": [
         {
           "name": "Deorro",
           "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
         }
       ],
-      "duration_ms": 156428,
-      "name": "TUCU",
-      "url": "https://open.spotify.com/track/4P9Bnk2M9nmYdXuqoItRDA"
+      "duration_ms": 225159,
+      "name": "All This Time",
+      "url": "https://open.spotify.com/track/1tq4UL9BB7BHuT6eorlX3X"
     }
   ],
   "unique_name": "This Is Deorro",

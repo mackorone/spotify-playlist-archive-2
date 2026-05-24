@@ -1,12 +1,12 @@
 {
   "description": "This is Alex Favela. The essential tracks, all in one playlist.",
-  "num_followers": 2425,
+  "num_followers": 2426,
   "original_name": "This Is Alex Favela",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ag5LAAAAAABqdQBQM4oN5Y05Fq+Sl5St",
+  "snapshot_id": "ag+cgAAAAAAFd/bVbLp8x/2QLKNuKNmF",
   "tracks": [
     {
       "added_at": null,
@@ -267,26 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Casa Siempre Gana",
-        "url": "https://open.spotify.com/album/31oOPZAiF6li1JmSWR5HJC"
-      },
-      "artists": [
-        {
-          "name": "Ysrael Barajas",
-          "url": "https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu"
-        },
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        }
-      ],
-      "duration_ms": 140820,
-      "name": "GPI - Remix",
-      "url": "https://open.spotify.com/track/6BdDkDR0J0VSEZr7hGX1nv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ushua\u00efa",
         "url": "https://open.spotify.com/album/5CFWq19JlFvvhGXC5qiPzU"
       },
@@ -327,6 +307,26 @@
       "duration_ms": 180923,
       "name": "FULL OF HOES",
       "url": "https://open.spotify.com/track/0R0Cn76nPYSyXC0Behn4Mr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Casa Siempre Gana",
+        "url": "https://open.spotify.com/album/31oOPZAiF6li1JmSWR5HJC"
+      },
+      "artists": [
+        {
+          "name": "Ysrael Barajas",
+          "url": "https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu"
+        },
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        }
+      ],
+      "duration_ms": 140820,
+      "name": "GPI - Remix",
+      "url": "https://open.spotify.com/track/6BdDkDR0J0VSEZr7hGX1nv"
     },
     {
       "added_at": null,
@@ -643,6 +643,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "GLOSS DIOR",
+        "url": "https://open.spotify.com/album/2T0f2VwtKaFnqoqzJWjs0f"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        }
+      ],
+      "duration_ms": 147096,
+      "name": "GLOSS DIOR",
+      "url": "https://open.spotify.com/track/4SZwDzN1qzgyDjvIHjakgu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bien Pilas (En Vivo)",
         "url": "https://open.spotify.com/album/01XwB5pr3dKiLgahNUSvLg"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 118826,
       "name": "Bien Pilas - En Vivo",
       "url": "https://open.spotify.com/track/5ZqOPZHB23bTEh0Q0p3Qii"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "GLOSS DIOR",
-        "url": "https://open.spotify.com/album/2T0f2VwtKaFnqoqzJWjs0f"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        }
-      ],
-      "duration_ms": 147096,
-      "name": "GLOSS DIOR",
-      "url": "https://open.spotify.com/track/4SZwDzN1qzgyDjvIHjakgu"
     },
     {
       "added_at": null,
@@ -739,50 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "DESDE MIS OJOS",
-        "url": "https://open.spotify.com/album/5KBbLAlIiPxbIJ0DD6fVh4"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        },
-        {
-          "name": "Big Soto",
-          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
-        },
-        {
-          "name": "Bastian",
-          "url": "https://open.spotify.com/artist/4K7sffC0683anJ57UKBzyD"
-        }
-      ],
-      "duration_ms": 127058,
-      "name": "DESDE MIS OJOS",
-      "url": "https://open.spotify.com/track/1d4ZXTWSIN8VgVNjbL1Xfr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "AFROLANDIA",
-        "url": "https://open.spotify.com/album/7L1etojI2A2lpgC47Fn4rq"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        },
-        {
-          "name": "Hector Vargas",
-          "url": "https://open.spotify.com/artist/6kV4bBUVqjAQkAPoAu7oeq"
-        }
-      ],
-      "duration_ms": 147473,
-      "name": "KIWI",
-      "url": "https://open.spotify.com/track/5DrnnArGDULw7cL2UGYS0a"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fama De Ingrata",
         "url": "https://open.spotify.com/album/0Gkerz0nQtgjTLhcwEVyqZ"
       },
@@ -803,6 +759,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "AFROLANDIA",
+        "url": "https://open.spotify.com/album/7L1etojI2A2lpgC47Fn4rq"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        },
+        {
+          "name": "Hector Vargas",
+          "url": "https://open.spotify.com/artist/6kV4bBUVqjAQkAPoAu7oeq"
+        }
+      ],
+      "duration_ms": 153402,
+      "name": "SI MUERO MA\u00d1ANA",
+      "url": "https://open.spotify.com/track/1yK2XEuvQ161TQB5SEixCC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Uno Al 7 (En Vivo)",
         "url": "https://open.spotify.com/album/3ZQHJaeHx9bGyZIsRC8Abs"
       },
@@ -819,6 +795,30 @@
       "duration_ms": 204826,
       "name": "El Uno Al 7 - En Vivo",
       "url": "https://open.spotify.com/track/6xTQCejd4DEUcJyEHl3Ahj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DESDE MIS OJOS",
+        "url": "https://open.spotify.com/album/5KBbLAlIiPxbIJ0DD6fVh4"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        },
+        {
+          "name": "Big Soto",
+          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
+        },
+        {
+          "name": "Bastian",
+          "url": "https://open.spotify.com/artist/4K7sffC0683anJ57UKBzyD"
+        }
+      ],
+      "duration_ms": 127058,
+      "name": "DESDE MIS OJOS",
+      "url": "https://open.spotify.com/track/1d4ZXTWSIN8VgVNjbL1Xfr"
     },
     {
       "added_at": null,
@@ -856,9 +856,9 @@
           "url": "https://open.spotify.com/artist/6kV4bBUVqjAQkAPoAu7oeq"
         }
       ],
-      "duration_ms": 153402,
-      "name": "SI MUERO MA\u00d1ANA",
-      "url": "https://open.spotify.com/track/1yK2XEuvQ161TQB5SEixCC"
+      "duration_ms": 147473,
+      "name": "KIWI",
+      "url": "https://open.spotify.com/track/5DrnnArGDULw7cL2UGYS0a"
     },
     {
       "added_at": null,
@@ -931,22 +931,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Que Hice Mal",
-        "url": "https://open.spotify.com/album/07mzKlWxyriGNACSC9VUHI"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        }
-      ],
-      "duration_ms": 205237,
-      "name": "Que Hice Mal",
-      "url": "https://open.spotify.com/track/6SvTX3foelQ3i38hNHLnaS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sin Faramaya",
         "url": "https://open.spotify.com/album/5TxSrxxAuzOXdZPTqaOHaY"
       },
@@ -967,22 +951,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nos Gusto El Estilo",
-        "url": "https://open.spotify.com/album/07U20gKzQjfP4e6IyubdMI"
+        "name": "LA Live Session",
+        "url": "https://open.spotify.com/album/2UIvMLWzNV8sTBxPsJ2ZwX"
       },
       "artists": [
         {
           "name": "Alex Favela",
           "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        },
-        {
-          "name": "Perfil SS",
-          "url": "https://open.spotify.com/artist/24ieVGvAttWOws9ZuFeOXc"
         }
       ],
-      "duration_ms": 179141,
-      "name": "Nos Gusto El Estilo",
-      "url": "https://open.spotify.com/track/5tiJ93Am2OQNMCkTAxHBpd"
+      "duration_ms": 124117,
+      "name": "El Lic - En Vivo",
+      "url": "https://open.spotify.com/track/4Wmzvb4GkzBBJdvhxkc89C"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Que Hice Mal",
+        "url": "https://open.spotify.com/album/07mzKlWxyriGNACSC9VUHI"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        }
+      ],
+      "duration_ms": 205237,
+      "name": "Que Hice Mal",
+      "url": "https://open.spotify.com/track/6SvTX3foelQ3i38hNHLnaS"
     },
     {
       "added_at": null,

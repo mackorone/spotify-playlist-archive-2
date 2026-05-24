@@ -1,6 +1,6 @@
 {
   "description": "2000\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \uba85\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 23962,
+  "num_followers": 23983,
   "original_name": "2000\ub144\ub300 \ubca0\uc2a4\ud2b8",
   "owner": {
     "name": "Spotify",
@@ -279,22 +279,6 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "\ub354 \ub11b\uce20 1\uc9d1",
-        "url": "https://open.spotify.com/album/5H4enzwKTdOaPPNvb9W1lf"
-      },
-      "artists": [
-        {
-          "name": "The NuTs",
-          "url": "https://open.spotify.com/artist/56NKtypwi90dIOb5ZQZwHb"
-        }
-      ],
-      "duration_ms": 261630,
-      "name": "\uc0ac\ub791\uc758 \ubc14\ubcf4",
-      "url": "https://open.spotify.com/track/3wYDgvDi82GUU1NPy2roYp"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
         "name": "The 3rd Album Part.1",
         "url": "https://open.spotify.com/album/2k0hCXVcLcz3JECbGs64C2"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 212976,
       "name": "Please don\u2019t\u2026",
       "url": "https://open.spotify.com/track/5dh87xGcp4YqDFBc86Mh47"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
+        "name": "\ub354 \ub11b\uce20 1\uc9d1",
+        "url": "https://open.spotify.com/album/5H4enzwKTdOaPPNvb9W1lf"
+      },
+      "artists": [
+        {
+          "name": "The NuTs",
+          "url": "https://open.spotify.com/artist/56NKtypwi90dIOb5ZQZwHb"
+        }
+      ],
+      "duration_ms": 261630,
+      "name": "\uc0ac\ub791\uc758 \ubc14\ubcf4",
+      "url": "https://open.spotify.com/track/3wYDgvDi82GUU1NPy2roYp"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -563,22 +563,6 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "Back To The Soul Flight",
-        "url": "https://open.spotify.com/album/26nzz1WN0qn4C3B6zcm93u"
-      },
-      "artists": [
-        {
-          "name": "Naul",
-          "url": "https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1"
-        }
-      ],
-      "duration_ms": 266506,
-      "name": "\uadc0\ub85c",
-      "url": "https://open.spotify.com/track/5B6ewNeXBcIDHqzsgAn6Dk"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
         "name": "Wax02 : \ud654\uc7a5\uc744 \uace0\uce58\uace0",
         "url": "https://open.spotify.com/album/0lxaVhnSUrnsCreJm5sBj6"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 250386,
       "name": "\ud654\uc7a5\uc744 \uace0\uce58\uace0",
       "url": "https://open.spotify.com/track/0e70x113268aBzaBaNHmrR"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
+        "name": "Back To The Soul Flight",
+        "url": "https://open.spotify.com/album/26nzz1WN0qn4C3B6zcm93u"
+      },
+      "artists": [
+        {
+          "name": "Naul",
+          "url": "https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1"
+        }
+      ],
+      "duration_ms": 266506,
+      "name": "\uadc0\ub85c",
+      "url": "https://open.spotify.com/track/5B6ewNeXBcIDHqzsgAn6Dk"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -675,22 +675,6 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "Para Ti",
-        "url": "https://open.spotify.com/album/18lNhdkcBXHKkCG4HFnNZo"
-      },
-      "artists": [
-        {
-          "name": "Lee Ki-chan",
-          "url": "https://open.spotify.com/artist/06lmDAKbe4tXjN9m7bRaQj"
-        }
-      ],
-      "duration_ms": 218279,
-      "name": "\ubbf8\uc778",
-      "url": "https://open.spotify.com/track/68fLjAO2M0FuG7OPXZDg9U"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
         "name": "SOLISTA Part.2",
         "url": "https://open.spotify.com/album/62vXnTYMIepnmIBEmnbwUA"
       },
@@ -707,6 +691,22 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
+        "name": "Para Ti",
+        "url": "https://open.spotify.com/album/18lNhdkcBXHKkCG4HFnNZo"
+      },
+      "artists": [
+        {
+          "name": "Lee Ki-chan",
+          "url": "https://open.spotify.com/artist/06lmDAKbe4tXjN9m7bRaQj"
+        }
+      ],
+      "duration_ms": 218279,
+      "name": "\ubbf8\uc778",
+      "url": "https://open.spotify.com/track/68fLjAO2M0FuG7OPXZDg9U"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
         "name": "SO COOL",
         "url": "https://open.spotify.com/album/44HjYZEwgtloDNyIYK4DzO"
       },
@@ -719,6 +719,22 @@
       "duration_ms": 201273,
       "name": "So Cool",
       "url": "https://open.spotify.com/track/4yHrnHRkY8ZEZUHPdsRno2"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
+        "name": "Atlantis Princess - The 3rd Album",
+        "url": "https://open.spotify.com/album/3uDxYE7bWvaQH2oZpLzoRV"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "duration_ms": 224373,
+      "name": "Atlantis Princess",
+      "url": "https://open.spotify.com/track/7sQaZvlFFqlBsObK8A3y0S"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -751,22 +767,6 @@
       "duration_ms": 211520,
       "name": "\uc810\uc810",
       "url": "https://open.spotify.com/track/0IwDO38DaBE7cMl4aLgybU"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
-        "name": "Atlantis Princess - The 3rd Album",
-        "url": "https://open.spotify.com/album/3uDxYE7bWvaQH2oZpLzoRV"
-      },
-      "artists": [
-        {
-          "name": "BoA",
-          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
-        }
-      ],
-      "duration_ms": 224373,
-      "name": "Atlantis Princess",
-      "url": "https://open.spotify.com/track/7sQaZvlFFqlBsObK8A3y0S"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -819,6 +819,22 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
+        "name": "\uaf43\ubcf4\ub2e4 \ub0a8\uc790 Best Collection (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/0hYIKujukWBdeVb8Cv3Qy7"
+      },
+      "artists": [
+        {
+          "name": "SS501",
+          "url": "https://open.spotify.com/artist/6rmMpoeu2SIV4OLURCOn2e"
+        }
+      ],
+      "duration_ms": 195693,
+      "name": "\uc560\uc778\ub9cc\ub4e4\uae30",
+      "url": "https://open.spotify.com/track/7oEnx3neiNUlJRwBadUhAS"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
         "name": "Brown Eyes",
         "url": "https://open.spotify.com/album/59LLKRi3hOZZvszabtTeWA"
       },
@@ -851,22 +867,6 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "\uaf43\ubcf4\ub2e4 \ub0a8\uc790 Best Collection (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/0hYIKujukWBdeVb8Cv3Qy7"
-      },
-      "artists": [
-        {
-          "name": "SS501",
-          "url": "https://open.spotify.com/artist/6rmMpoeu2SIV4OLURCOn2e"
-        }
-      ],
-      "duration_ms": 195693,
-      "name": "\uc560\uc778\ub9cc\ub4e4\uae30",
-      "url": "https://open.spotify.com/track/7oEnx3neiNUlJRwBadUhAS"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
         "name": "\uae30\uc5b5\uc18d\uc758 \uba5c\ub85c\ub514",
         "url": "https://open.spotify.com/album/3bQEUGF2WB3YyIucl9rGKi"
       },
@@ -883,22 +883,6 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "The 3rd Masterpiece",
-        "url": "https://open.spotify.com/album/78hxnlQlbAaIsaQxG3RonV"
-      },
-      "artists": [
-        {
-          "name": "SG Wannabe",
-          "url": "https://open.spotify.com/artist/2c3IakpImjWyeXNvyyGsdn"
-        }
-      ],
-      "duration_ms": 298237,
-      "name": "Partner for Life",
-      "url": "https://open.spotify.com/track/1Ud6TKFPVyWIs0dmQhg5iL"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
         "name": "Stand Alone",
         "url": "https://open.spotify.com/album/67ibv6vTadhuxdFgZ4eV4i"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 259213,
       "name": "\uadf8\ub140\ub97c \uc0ac\ub791\ud574\uc918\uc694",
       "url": "https://open.spotify.com/track/4YQGPR4KGFMnSS8lUQPdbs"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
+        "name": "The 3rd Masterpiece",
+        "url": "https://open.spotify.com/album/78hxnlQlbAaIsaQxG3RonV"
+      },
+      "artists": [
+        {
+          "name": "SG Wannabe",
+          "url": "https://open.spotify.com/artist/2c3IakpImjWyeXNvyyGsdn"
+        }
+      ],
+      "duration_ms": 298237,
+      "name": "Partner for Life",
+      "url": "https://open.spotify.com/track/1Ud6TKFPVyWIs0dmQhg5iL"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -963,22 +963,6 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "\uc0b4\ub2e4\uac00",
-        "url": "https://open.spotify.com/album/0BneVJK0dUlj0q9RRjADQe"
-      },
-      "artists": [
-        {
-          "name": "SG Wannabe",
-          "url": "https://open.spotify.com/artist/2c3IakpImjWyeXNvyyGsdn"
-        }
-      ],
-      "duration_ms": 243026,
-      "name": "\uc8c4\uc640 \ubc8c (\u7f6a\uc640 \u7f70)",
-      "url": "https://open.spotify.com/track/2yfD1eKDVlNRxDUE5Q1n3Y"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
         "name": "\uae30\uc5b5\uc18d\uc758 \uba5c\ub85c\ub514",
         "url": "https://open.spotify.com/album/3bQEUGF2WB3YyIucl9rGKi"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 285234,
       "name": "\uac10\uc0ac",
       "url": "https://open.spotify.com/track/6vL9tLXg2XnsYXndqpIUQS"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
+        "name": "\uc0b4\ub2e4\uac00",
+        "url": "https://open.spotify.com/album/0BneVJK0dUlj0q9RRjADQe"
+      },
+      "artists": [
+        {
+          "name": "SG Wannabe",
+          "url": "https://open.spotify.com/artist/2c3IakpImjWyeXNvyyGsdn"
+        }
+      ],
+      "duration_ms": 243026,
+      "name": "\uc8c4\uc640 \ubc8c (\u7f6a\uc640 \u7f70)",
+      "url": "https://open.spotify.com/track/2yfD1eKDVlNRxDUE5Q1n3Y"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "\uc0b4\ub2e4\uac00",
-        "url": "https://open.spotify.com/album/0BneVJK0dUlj0q9RRjADQe"
-      },
-      "artists": [
-        {
-          "name": "SG Wannabe",
-          "url": "https://open.spotify.com/artist/2c3IakpImjWyeXNvyyGsdn"
-        }
-      ],
-      "duration_ms": 283786,
-      "name": "\uc0b4\ub2e4\uac00",
-      "url": "https://open.spotify.com/track/0qqHi5iyYkcbvCpnWwHKLl"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
         "name": "The Jadu 3",
         "url": "https://open.spotify.com/album/0jUxZh8BKRhj7IqvPVmmJ4"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 225866,
       "name": "\uae40\ubc25",
       "url": "https://open.spotify.com/track/7tSt4Jbnml5l7MMWqxfx7f"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
+        "name": "\uc0b4\ub2e4\uac00",
+        "url": "https://open.spotify.com/album/0BneVJK0dUlj0q9RRjADQe"
+      },
+      "artists": [
+        {
+          "name": "SG Wannabe",
+          "url": "https://open.spotify.com/artist/2c3IakpImjWyeXNvyyGsdn"
+        }
+      ],
+      "duration_ms": 283786,
+      "name": "\uc0b4\ub2e4\uac00",
+      "url": "https://open.spotify.com/track/0qqHi5iyYkcbvCpnWwHKLl"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
+        "name": "SOUL FOOD",
+        "url": "https://open.spotify.com/album/00Rkb4GSR346Tbb3xvMv9Q"
+      },
+      "artists": [
+        {
+          "name": "BMK",
+          "url": "https://open.spotify.com/artist/6Eu0E62DUJquPQIdgaGO5O"
+        }
+      ],
+      "duration_ms": 284106,
+      "name": "When flowering spring comes",
+      "url": "https://open.spotify.com/track/1P5Ijjvm4fIpFs1hyArWSW"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
         "name": "Exhibition",
         "url": "https://open.spotify.com/album/5lH78eRxZ9J5M6wlTPS9Gj"
       },
@@ -1159,22 +1175,6 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "SOUL FOOD",
-        "url": "https://open.spotify.com/album/00Rkb4GSR346Tbb3xvMv9Q"
-      },
-      "artists": [
-        {
-          "name": "BMK",
-          "url": "https://open.spotify.com/artist/6Eu0E62DUJquPQIdgaGO5O"
-        }
-      ],
-      "duration_ms": 284106,
-      "name": "When flowering spring comes",
-      "url": "https://open.spotify.com/track/1P5Ijjvm4fIpFs1hyArWSW"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
         "name": "The Way I Am",
         "url": "https://open.spotify.com/album/2Mh0JWqsD08Wox0fwXaVsk"
       },
@@ -1187,6 +1187,22 @@
       "duration_ms": 216323,
       "name": "Ice Cream",
       "url": "https://open.spotify.com/track/2KlzrWVFpUIyI2goyvInX4"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
+        "name": "With L.O.V.E Brown Eyed Girls",
+        "url": "https://open.spotify.com/album/4aAT9INUonYUREjOyxDhQl"
+      },
+      "artists": [
+        {
+          "name": "Brown Eyed Girls",
+          "url": "https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7"
+        }
+      ],
+      "duration_ms": 217626,
+      "name": "LOVE",
+      "url": "https://open.spotify.com/track/6hQZn0khzhIZmMQ2erzx6q"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -1239,22 +1255,6 @@
       "duration_ms": 281800,
       "name": "We Should've Been Friends",
       "url": "https://open.spotify.com/track/4nLwtNzEa1I1tvqC89xo1L"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
-        "name": "With L.O.V.E Brown Eyed Girls",
-        "url": "https://open.spotify.com/album/4aAT9INUonYUREjOyxDhQl"
-      },
-      "artists": [
-        {
-          "name": "Brown Eyed Girls",
-          "url": "https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7"
-        }
-      ],
-      "duration_ms": 217626,
-      "name": "LOVE",
-      "url": "https://open.spotify.com/track/6hQZn0khzhIZmMQ2erzx6q"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "Hi~",
-        "url": "https://open.spotify.com/album/4oYvS9fninV79hmUvWeUho"
-      },
-      "artists": [
-        {
-          "name": "Lovelyz",
-          "url": "https://open.spotify.com/artist/3g34PW5oNmDBxMVUTzx2XK"
-        }
-      ],
-      "duration_ms": 207426,
-      "name": "Hi~",
-      "url": "https://open.spotify.com/track/0uK6mPSkTMteghVWeMDMHG"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
         "name": "Afterglow",
         "url": "https://open.spotify.com/album/163Vvv3rKHXfsd357oudYb"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 251194,
       "name": "Love Me Once Again",
       "url": "https://open.spotify.com/track/2FelrlNp4TK95V7jb1OJ2r"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
+        "name": "Hi~",
+        "url": "https://open.spotify.com/album/4oYvS9fninV79hmUvWeUho"
+      },
+      "artists": [
+        {
+          "name": "Lovelyz",
+          "url": "https://open.spotify.com/artist/3g34PW5oNmDBxMVUTzx2XK"
+        }
+      ],
+      "duration_ms": 207426,
+      "name": "Hi~",
+      "url": "https://open.spotify.com/track/0uK6mPSkTMteghVWeMDMHG"
     },
     {
       "added_at": "2024-08-05 16:59:31",

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ag5LAAAAAAAi3Up1l1hU59uDVAenlKQH",
+  "snapshot_id": "ag+cgAAAAAClI7k8YP3cyGoyfBM4Irk7",
   "tracks": [
     {
       "added_at": null,
@@ -155,18 +155,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Vida",
-        "url": "https://open.spotify.com/album/0cvBa5BALdQpnrc1W0GZLs"
+        "name": "Kintsugi",
+        "url": "https://open.spotify.com/album/7frxjxl8GN1rE0g7gLJZfQ"
       },
       "artists": [
         {
           "name": "KURT",
           "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        },
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
         }
       ],
-      "duration_ms": 167960,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/0QvIVwQqVzEkZbo6cO5LES"
+      "duration_ms": 157066,
+      "name": "Polvo de Gigantes",
+      "url": "https://open.spotify.com/track/64pNSO9BmlNkUe2j8hO9PV"
     },
     {
       "added_at": null,
@@ -187,22 +191,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kintsugi",
-        "url": "https://open.spotify.com/album/7frxjxl8GN1rE0g7gLJZfQ"
+        "name": "La Vida",
+        "url": "https://open.spotify.com/album/0cvBa5BALdQpnrc1W0GZLs"
       },
       "artists": [
         {
           "name": "KURT",
           "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        },
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
         }
       ],
-      "duration_ms": 157066,
-      "name": "Polvo de Gigantes",
-      "url": "https://open.spotify.com/track/64pNSO9BmlNkUe2j8hO9PV"
+      "duration_ms": 167960,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/0QvIVwQqVzEkZbo6cO5LES"
     },
     {
       "added_at": null,
@@ -227,8 +227,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Vida",
-        "url": "https://open.spotify.com/album/0cvBa5BALdQpnrc1W0GZLs"
+        "name": "Kintsugi",
+        "url": "https://open.spotify.com/album/3mBYfGfvcCN7MpNV3mo3p4"
       },
       "artists": [
         {
@@ -236,9 +236,9 @@
           "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
         }
       ],
-      "duration_ms": 165346,
-      "name": "Roto",
-      "url": "https://open.spotify.com/track/6gA1VnJMJYUi4kFTg7OqtM"
+      "duration_ms": 187986,
+      "name": "Diosa",
+      "url": "https://open.spotify.com/track/6PCraJHi3KJGHleSU0Qviw"
     },
     {
       "added_at": null,
@@ -259,8 +259,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kintsugi",
-        "url": "https://open.spotify.com/album/3mBYfGfvcCN7MpNV3mo3p4"
+        "name": "La Vida",
+        "url": "https://open.spotify.com/album/0cvBa5BALdQpnrc1W0GZLs"
       },
       "artists": [
         {
@@ -268,9 +268,9 @@
           "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
         }
       ],
-      "duration_ms": 187986,
-      "name": "Diosa",
-      "url": "https://open.spotify.com/track/6PCraJHi3KJGHleSU0Qviw"
+      "duration_ms": 165346,
+      "name": "Roto",
+      "url": "https://open.spotify.com/track/6gA1VnJMJYUi4kFTg7OqtM"
     },
     {
       "added_at": null,
@@ -771,22 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Te Regalo",
-        "url": "https://open.spotify.com/album/2rEFizrsUbYkh5TN1gxfhi"
-      },
-      "artists": [
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        }
-      ],
-      "duration_ms": 157426,
-      "name": "Te Regalo",
-      "url": "https://open.spotify.com/track/4UjEKy8PegjhpL3BC4iuL6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En Medio De Este Ruido (Deluxe)",
         "url": "https://open.spotify.com/album/3dQMAkuJBVVZoe2xVTZzqB"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 213626,
       "name": "Escap\u00e9monos",
       "url": "https://open.spotify.com/track/6tdoaUH3gbANwwcIwa8Pkc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Te Regalo",
+        "url": "https://open.spotify.com/album/2rEFizrsUbYkh5TN1gxfhi"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "duration_ms": 157426,
+      "name": "Te Regalo",
+      "url": "https://open.spotify.com/track/4UjEKy8PegjhpL3BC4iuL6"
     },
     {
       "added_at": null,

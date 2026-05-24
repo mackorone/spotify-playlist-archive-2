@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Y4aXXQXWv.md) - [plain]
 
 > Les plus grands tubes de variété française d'hier et d'aujourd'hui\. Photo : Jean\-Jacques Goldman
 
-[Spotify](https://open.spotify.com/user/spotify) - 501,585 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 501,628 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Y4aXXQXWv.md) - [plain]
 | 31 | [La grenade](https://open.spotify.com/track/7ixCRBD0FZMRBeOBhTu2KD) | [Clara Luciani](https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0) | [Sainte\-Victoire](https://open.spotify.com/album/4oOotUMoznVTdGWzdUoEuy) | 3:14 |
 | 32 | [Il jouait du piano debout \- Remasterisé en 2004](https://open.spotify.com/track/3GfUHAoOSGy3hhEaTU34WV) | [France Gall](https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I) | [Paris, France \(Remasterisé en 2004\)](https://open.spotify.com/album/5Ni3yIgxhLwuC3B08SQ4r7) | 4:33 |
 | 33 | [Oui ou non](https://open.spotify.com/track/7rBP4bLjMLNkix1nGHjheP) | [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [Brol La Suite](https://open.spotify.com/album/2UrPmvaX5X76LIzE6Cfiqu) | 3:16 |
-| 34 | [Dommage](https://open.spotify.com/track/4BEWiTPV0v87mBryf7gdxK) | [Bigflo & Oli](https://open.spotify.com/artist/5mmEMfYChd6MImBagU7zCs) | [La vraie vie](https://open.spotify.com/album/3iTiNTUw39tyag6Ip8rnbM) | 3:58 |
-| 35 | [Si j'avais su](https://open.spotify.com/track/5POonRM9sjr0cFbXPIyN8Q) | [Claudio Capéo](https://open.spotify.com/artist/5KBbs98MK59UNMF1VTwMmz) | [Rose des vents](https://open.spotify.com/album/7lYTg8CjV1DgyK3kY5LZTM) | 3:02 |
+| 34 | [Si j'avais su](https://open.spotify.com/track/5POonRM9sjr0cFbXPIyN8Q) | [Claudio Capéo](https://open.spotify.com/artist/5KBbs98MK59UNMF1VTwMmz) | [Rose des vents](https://open.spotify.com/album/7lYTg8CjV1DgyK3kY5LZTM) | 3:02 |
+| 35 | [Dommage](https://open.spotify.com/track/4BEWiTPV0v87mBryf7gdxK) | [Bigflo & Oli](https://open.spotify.com/artist/5mmEMfYChd6MImBagU7zCs) | [La vraie vie](https://open.spotify.com/album/3iTiNTUw39tyag6Ip8rnbM) | 3:58 |
 | 36 | [Un jour je marierai un ange](https://open.spotify.com/track/5klPZRehMLpiKUchPAzKyR) | [Pierre de Maere](https://open.spotify.com/artist/13mm5rU1jvWfWG6uQ46ypd) | [Regarde\-moi](https://open.spotify.com/album/0yHJkjaOVLRH5VZajnYHr9) | 2:44 |
 | 37 | [Résiste \- Remasterisé en 2004](https://open.spotify.com/track/51BbACodhBnd9lBs2TI0YT) | [France Gall](https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I) | [Tout pour la musique \(Remasterisé en 2004\)](https://open.spotify.com/album/0IePUOxaLDrCmaB6r7JyVl) | 4:34 |
 | 38 | [Je m'en vais](https://open.spotify.com/track/6cZDf3mpynxrZbnx95j0tp) | [Vianney](https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6) | [Vianney](https://open.spotify.com/album/51uvnRRpgp7FEUO7Y0jj5O) | 3:18 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Y4aXXQXWv.md) - [plain]
 | 44 | [Aïcha \- Version Mixte](https://open.spotify.com/track/0cYX51Hneb8qIOx0tHm7ng) | [Khaled](https://open.spotify.com/artist/28ztjHIXceRRntmTUfnmUX) | [Sahra](https://open.spotify.com/album/2Ul6M5sIJdZjKVxwgDG7dC) | 4:19 |
 | 45 | [Face à la mer](https://open.spotify.com/track/4nz1v2ghmGRo3RTZKxaC3P) | [Calogero](https://open.spotify.com/artist/5Nq9MbzweBc5oL4WzsECx4), [Passi](https://open.spotify.com/artist/41o2A93SPxIUxsy5HQjvul) | [Calog3ro](https://open.spotify.com/album/1TfzspRmvBkDuIPZEG4ZdF) | 3:43 |
 | 46 | [Au bout de mes rêves](https://open.spotify.com/track/6QSwxzWUeF0w4N7qRxonbb) | [Jean\-Jacques Goldman](https://open.spotify.com/artist/2Cx19OTMqa6gpz2l60cGG2) | [Quand la musique est bonne](https://open.spotify.com/album/3yMtfupTbgavO0AxQbt3UZ) | 3:54 |
-| 47 | [Pour que tu m'aimes encore](https://open.spotify.com/track/6qlpXtA29VcxCNgLWR5IWx) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [D'Eux](https://open.spotify.com/album/0DdTKXdgMLcSqccdyj6D9p) | 4:14 |
+| 47 | [Le paradis blanc \- Remasterisé en 2002](https://open.spotify.com/track/6N6uTt8e1vLLgIZK5FgSYh) | [Michel Berger](https://open.spotify.com/artist/5skauLarl8sqqUFypECtP4) | [Ça ne tient pas debout \(Remasterisé en 2002\)](https://open.spotify.com/album/2X3NWw5yXoj2yJJIGvFhKM) | 6:36 |
 | 48 | [Je T’aime](https://open.spotify.com/track/28mwuJqKOjRpqo14GuKSkj) | [Lara Fabian](https://open.spotify.com/artist/7ocwZINHqO9DZJgFtc1B20) | [Pure](https://open.spotify.com/album/1VOw4yLcyAgwPR3dGPXRnm) | 4:21 |
-| 49 | [Le paradis blanc \- Remasterisé en 2002](https://open.spotify.com/track/6N6uTt8e1vLLgIZK5FgSYh) | [Michel Berger](https://open.spotify.com/artist/5skauLarl8sqqUFypECtP4) | [Ça ne tient pas debout \(Remasterisé en 2002\)](https://open.spotify.com/album/2X3NWw5yXoj2yJJIGvFhKM) | 6:36 |
+| 49 | [Pour que tu m'aimes encore](https://open.spotify.com/track/6qlpXtA29VcxCNgLWR5IWx) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [D'Eux](https://open.spotify.com/album/0DdTKXdgMLcSqccdyj6D9p) | 4:14 |
 | 50 | [Mais je t'aime](https://open.spotify.com/track/17NQyo1HsqDX7mbzsTWMuX) | [Grand Corps Malade](https://open.spotify.com/artist/3PsyPWjsftbfeXGorZv4AM), [Camille Lellouche](https://open.spotify.com/artist/6os4KQUfJoyJwjZ7y7Ec6Q) | [MESDAMES deluxe](https://open.spotify.com/album/6lZU65hX50fImkVKlSUdLh) | 4:30 |
 
 Snapshot ID: `AAAAALgUUCKWxADZm0EXTN9kVs4QkBVr`

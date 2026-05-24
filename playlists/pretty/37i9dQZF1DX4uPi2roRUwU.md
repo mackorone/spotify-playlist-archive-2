@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4uPi2roRUwU.md) - [plain]
 
 > Diese Beats machen garantiert gute Laune!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,344,745 likes - 60 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,344,851 likes - 60 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4uPi2roRUwU.md) - [plain]
 | 43 | [21 Reasons \(feat\. Ella Henderson\)](https://open.spotify.com/track/1RF02Cf80mTaeNXG2P2boR) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [21 Reasons \(feat\. Ella Henderson\)](https://open.spotify.com/album/118PKNjhP4NWcrW5OjMwzc) | 2:35 |
 | 44 | [Save Me Tonight](https://open.spotify.com/track/4WuAr5SE1ZfXxu6OWtykkG) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Save Me Tonight](https://open.spotify.com/album/4ha2YPiAGZrV5OIIKJkt9Z) | 3:16 |
 | 45 | [There She Goes](https://open.spotify.com/track/2aSjWonALEwE3wTpjYMvc7) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom), [MOONLGHT](https://open.spotify.com/artist/0b9SpFqsoxkyoTbZqLlzSs), [The La's](https://open.spotify.com/artist/47Z8LEl3LnQkcpva0xSthT) | [There She Goes](https://open.spotify.com/album/3gHDnPPOgXcueJrL1r03q2) | 2:01 |
-| 46 | [Dive Into Me](https://open.spotify.com/track/2y3qIbsaOPaj0xKv20rbOQ) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Dive Into Me](https://open.spotify.com/album/4wXWmSfJIQerp2UJ2K0wEa) | 2:46 |
+| 46 | [DON'T KILL MY VIBE](https://open.spotify.com/track/4c1CYN4v3wzH43Mpka8F86) | [Adrian Fyrla](https://open.spotify.com/artist/5Y5v0RYsB19JJ6VT6sA7ij), [Palm Monkey](https://open.spotify.com/artist/2M3sfEXSEDYBurdjeExx6G), [Amè](https://open.spotify.com/artist/4ZDy00OJc2hPCB4D5hrvFD) | [DON'T KILL MY VIBE](https://open.spotify.com/album/1CDLzqcftlU7kj8HGyA2TZ) | 2:25 |
 | 47 | [Alibi \(feat\. Rudimental\)](https://open.spotify.com/track/5Jpz4nv8nA6FIYO5gEyQa2) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1), [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo) | [Alibi \(feat\. Rudimental\)](https://open.spotify.com/album/3Ku8LDPYg53Kh59amfFWjL) | 3:04 |
 | 48 | [Positions](https://open.spotify.com/track/3nnStd7PMGgrN0tfmdhv3j) | [Stryv](https://open.spotify.com/artist/6XjgqvaVLUib6lCerbZrYD), [Malachiii](https://open.spotify.com/artist/37lTKHi901VnwngQ7C8noT), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk) | [Positions](https://open.spotify.com/album/3PrRNJ8J2SsqlPjjNvDeah) | 2:28 |
-| 49 | [DON'T KILL MY VIBE](https://open.spotify.com/track/4c1CYN4v3wzH43Mpka8F86) | [Adrian Fyrla](https://open.spotify.com/artist/5Y5v0RYsB19JJ6VT6sA7ij), [Palm Monkey](https://open.spotify.com/artist/2M3sfEXSEDYBurdjeExx6G), [Amè](https://open.spotify.com/artist/4ZDy00OJc2hPCB4D5hrvFD) | [DON'T KILL MY VIBE](https://open.spotify.com/album/1CDLzqcftlU7kj8HGyA2TZ) | 2:25 |
+| 49 | [Dive Into Me](https://open.spotify.com/track/2y3qIbsaOPaj0xKv20rbOQ) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Dive Into Me](https://open.spotify.com/album/4wXWmSfJIQerp2UJ2K0wEa) | 2:46 |
 | 50 | [Your Body](https://open.spotify.com/track/1NKjc6bRHutPoaVtYclFC3) | [Marten Lou](https://open.spotify.com/artist/7MmHXD2ESooP0XdgrVuKTK) | [Your Body](https://open.spotify.com/album/7BILrDqY2kO1SOhX2MUJVN) | 3:48 |
 | 51 | [i need u](https://open.spotify.com/track/6b86AhZ0bwJrjLaRqFnB7L) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp) | [i need u](https://open.spotify.com/album/2t6Ie2kxapG2kMs4hxRJmt) | 3:45 |
 | 52 | [Mwaki](https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [SURRENDER](https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D) | 3:28 |

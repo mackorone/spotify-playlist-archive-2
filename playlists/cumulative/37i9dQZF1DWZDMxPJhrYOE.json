@@ -1007,6 +1007,32 @@
     },
     {
       "album": {
+        "name": "Love is the New Gangsta",
+        "url": "https://open.spotify.com/album/0DUJdzFUyxiNUheVGbdWrd"
+      },
+      "artists": [
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        },
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        },
+        {
+          "name": "AZ Chike",
+          "url": "https://open.spotify.com/artist/6fqjJNsLs7g6F3PXy01Xnw"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223666,
+      "name": "All That Matters (with Leon Thomas & AZ Chike)",
+      "url": "https://open.spotify.com/track/0k0Fj2tp6jGWLGR0HevNYP"
+    },
+    {
+      "album": {
         "name": "All You Children",
         "url": "https://open.spotify.com/album/5mBSawja8ThkqKHqMagoCk"
       },
@@ -2086,7 +2112,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 160000,
       "name": "blessed",
       "url": "https://open.spotify.com/track/15cjK5y0kli27DFjxZUCt7"
@@ -3818,7 +3844,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 174712,
       "name": "Dance To This",
       "url": "https://open.spotify.com/track/2uPLbkypIfozwjuiJcgMLC"
@@ -7037,6 +7063,24 @@
     },
     {
       "album": {
+        "name": "From Down Here",
+        "url": "https://open.spotify.com/album/3oyrHxgRO9HNMQx5mdML1u"
+      },
+      "artists": [
+        {
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241470,
+      "name": "From Down Here",
+      "url": "https://open.spotify.com/track/7Hg7l5aOygIHuaNDVFp3ox"
+    },
+    {
+      "album": {
         "name": "Fuck Me Eyes",
         "url": "https://open.spotify.com/album/0soRY8izk0j2rBBtiACqwU"
       },
@@ -8310,6 +8354,28 @@
       "duration_ms": 147461,
       "name": "Heaven II",
       "url": "https://open.spotify.com/track/3pRuLrdzQsaQHnBNijp6gN"
+    },
+    {
+      "album": {
+        "name": "Heaven On Your Mind",
+        "url": "https://open.spotify.com/album/1oPqsnINC8uvqs1MfxZNez"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Dan Tyminski",
+          "url": "https://open.spotify.com/artist/1eNxt1JI2Bgjl8bPDQ5sG8"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224746,
+      "name": "Heaven On Your Mind",
+      "url": "https://open.spotify.com/track/6CfTOBRp1sgG8xY97RsUWS"
     },
     {
       "album": {
@@ -15193,6 +15259,24 @@
     },
     {
       "album": {
+        "name": "Florescence",
+        "url": "https://open.spotify.com/album/0MOWqwwatV0LXDxhBZg5qO"
+      },
+      "artists": [
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187120,
+      "name": "Questions",
+      "url": "https://open.spotify.com/track/0eaFxL9uBQJlbt1mKXAdZI"
+    },
+    {
+      "album": {
         "name": "The Boy Who Played the Harp",
         "url": "https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl"
       },
@@ -16876,7 +16960,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 199784,
       "name": "Sl\u00e5r Op",
       "url": "https://open.spotify.com/track/6HFZQd5vQvHJLKQGsOB6Xd"
@@ -19326,7 +19410,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 121744,
       "name": "To Know A Girl",
       "url": "https://open.spotify.com/track/1Wym8u72A2GXzdJnr1LV37"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbirtHQBuwCo.md) - [plain]
 
 > Trendy & Chill Korean R&B music\. \(Cover: Gemini\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,095,582 likes - 75 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,095,530 likes - 75 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbirtHQBuwCo.md) - [plain]
 | 20 | [Cookie](https://open.spotify.com/track/2DwUdMJ5uxv20EhAildreg) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 3:55 |
 | 21 | [Lips Hips Kiss](https://open.spotify.com/track/5Q4DLsIx0Fl0IDCCWHsLlH) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [224](https://open.spotify.com/album/20GxuSxICpXyRYkoqRjthR) | 3:09 |
 | 22 | [Aftertaste \- Inspired by the Original Motion Picture K\-POPS!](https://open.spotify.com/track/3b8Ft7BzZj4yPnBU4IDhHX) | [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Aftertaste \(Inspired by the Original Motion Picture K\-POPS!\)](https://open.spotify.com/album/5wZ5I06szDqpZL5hfjNwtd) | 3:03 |
-| 23 | [To\. X](https://open.spotify.com/track/2gyCwrOcC6JBoaJ8JGJ7T8) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [To\. X \- The 5th Mini Album](https://open.spotify.com/album/0VciVDVU6NoqtQ0WAIlTmD) | 2:50 |
-| 24 | [Lullaby Remix](https://open.spotify.com/track/6WnMFDIiDJR0Yg9JaBwVQx) | [JayDon](https://open.spotify.com/artist/2wrxoZjEVKfJZhxCiqK0ju), [Paradise](https://open.spotify.com/artist/0jPDWsUr0XvGs5JcZChtto), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [LOUIS of LNGSHOT](https://open.spotify.com/artist/7dC5JED2uhOrtxILEGcecT) | [Lullaby Remix](https://open.spotify.com/album/31mReIClap5NQNlYVt8TDB) | 3:37 |
+| 23 | [Lullaby Remix](https://open.spotify.com/track/6WnMFDIiDJR0Yg9JaBwVQx) | [JayDon](https://open.spotify.com/artist/2wrxoZjEVKfJZhxCiqK0ju), [Paradise](https://open.spotify.com/artist/0jPDWsUr0XvGs5JcZChtto), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [LOUIS of LNGSHOT](https://open.spotify.com/artist/7dC5JED2uhOrtxILEGcecT) | [Lullaby Remix](https://open.spotify.com/album/31mReIClap5NQNlYVt8TDB) | 3:37 |
+| 24 | [To\. X](https://open.spotify.com/track/2gyCwrOcC6JBoaJ8JGJ7T8) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [To\. X \- The 5th Mini Album](https://open.spotify.com/album/0VciVDVU6NoqtQ0WAIlTmD) | 2:50 |
 | 25 | [Hurt](https://open.spotify.com/track/5expoVGQPvXuwBBFuNGqBd) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 2:57 |
 | 26 | [My Side](https://open.spotify.com/track/6yiVxaYx9AkYD54tK5IhSE) | [WOOJIN of LNGSHOT](https://open.spotify.com/artist/03EbJpxyuSdoxVkaOr7gKY), [LOUIS of LNGSHOT](https://open.spotify.com/artist/7dC5JED2uhOrtxILEGcecT) | [4SHOBOIZ MIXTAPE](https://open.spotify.com/album/3XzKcbKfLPWSOG7BJbC98O) | 2:36 |
 | 27 | [Your Existence](https://open.spotify.com/track/2tmX4T7ODY34NwvQ3DD3MC) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [Twenty\-Five Twenty\-One OST Part 4](https://open.spotify.com/album/2Y4nbZENK8auf4oVoQTZ0Y) | 3:24 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbirtHQBuwCo.md) - [plain]
 | 52 | [Bam Yang Gang](https://open.spotify.com/track/5juCu4WFTFRZ2XilopAMTy) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Bam Yang Gang](https://open.spotify.com/album/4QJZzFdGz2YlPZEHAlAJ6O) | 2:26 |
 | 53 | [ABG](https://open.spotify.com/track/4wMXivIRf9HsR3eKXBWVgF) | [Joh!](https://open.spotify.com/artist/13Gmz7fhew38A0i3bkkgp6) | [ABG](https://open.spotify.com/album/2ffzFWbrwSDrnKYQo5HHlI) | 1:50 |
 | 54 | [Dope Lovers](https://open.spotify.com/track/6cvbvXaRbQcuv54SjYXP86) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [Moodswings In This Order](https://open.spotify.com/album/2hPHncbZRuWiCBauEUJxyA) | 3:20 |
-| 55 | [Doctor! Doctor!](https://open.spotify.com/track/7en6ZODJ7STm2ocxqKoYZs) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [Doctor! Doctor!](https://open.spotify.com/album/3CNyLUNNW8lRWVHccyGokL) | 2:32 |
-| 56 | [Elevator](https://open.spotify.com/track/0mFkmiC5u1V4JBP6PsoVP0) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Essence of Reverie](https://open.spotify.com/album/5m3xaHvFvODdctmtdQ9qzB) | 3:06 |
+| 55 | [Elevator](https://open.spotify.com/track/0mFkmiC5u1V4JBP6PsoVP0) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Essence of Reverie](https://open.spotify.com/album/5m3xaHvFvODdctmtdQ9qzB) | 3:06 |
+| 56 | [Doctor! Doctor!](https://open.spotify.com/track/7en6ZODJ7STm2ocxqKoYZs) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [Doctor! Doctor!](https://open.spotify.com/album/3CNyLUNNW8lRWVHccyGokL) | 2:32 |
 | 57 | [Forever Only](https://open.spotify.com/track/0fN27m84ofEpWHGwJ0THYz) | [JAEHYUN](https://open.spotify.com/artist/0qQI2kmsvSe2ex9k94T5vu) | [Forever Only \- SM STATION : NCT LAB](https://open.spotify.com/album/519WmtnoFNzzyyh7Czfhi8) | 3:16 |
 | 58 | [All My Poetry](https://open.spotify.com/track/1qGihPwp76LainqxoRQ4Y0) | [CLOSE YOUR EYES](https://open.spotify.com/artist/1gyIB8QvgXCZsEghjwTDL5) | [ETERNALT](https://open.spotify.com/album/5N8nzYvaqnls4UduaKAQjh) | 3:35 |
 | 59 | [Mood](https://open.spotify.com/track/0nEsLR5KTySCO9CfyC2yjg) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [Moodswings In To Order](https://open.spotify.com/album/7vp2iMEQzhNX4sEIUbHpiJ) | 3:02 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbirtHQBuwCo.md) - [plain]
 | 72 | [Love Again](https://open.spotify.com/track/4dYODiAYvJHWQJtNganYCY) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Delight \- The 2nd Mini Album](https://open.spotify.com/album/75sPv82oaDKYjtuuS4l3Vc) | 3:25 |
 | 73 | [MOVIE](https://open.spotify.com/track/51kQvG4aghW17VSZKkfxTp) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [MOVIE](https://open.spotify.com/album/2yqOMxorfrYXbnVkjcaq5y) | 3:03 |
 | 74 | [Come Closer](https://open.spotify.com/track/0Sep7VIdLwWPVhtxKsCxRm) | [LEO](https://open.spotify.com/artist/6xr9i4ozDKCobWg5lUKHPj) | [COME CLOSER](https://open.spotify.com/album/2rdXzqWmDgzIfjUPUovQiD) | 2:43 |
-| 75 | [AA \(Alone Again\)](https://open.spotify.com/track/2kiycXeUux4Fmv7cV10Pls) | [Gemini](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj) | [AA \(Alone Again\)](https://open.spotify.com/album/4smEwgoPp14In6lZdLLw1p) | 2:50 |
+| 75 | [R.E.M](https://open.spotify.com/track/7D2B5pj751b3MIaU4TwE6e) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [R.E.M](https://open.spotify.com/album/4xcIr0rkoIBPmoSPamCorO) | 2:52 |
 
 Snapshot ID: `AAAAAIDso2htDehZgqA8LYn63YjZGTln`

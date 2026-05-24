@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCpC5RyKiLg.md) - [plain]
 
 > Pagode e Sertanejo pura sofrência para te acompanhar na faxina!
 
-[Spotify](https://open.spotify.com/user/spotify) - 746,569 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 746,585 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,14 +24,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCpC5RyKiLg.md) - [plain]
 | 14 | [Nessas Horas \- Ao Vivo](https://open.spotify.com/track/1MnUXXQEuzlJFNF5xMH1XQ) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Na Praia 2 \(Ao Vivo\)](https://open.spotify.com/album/6J8zN2iOjJzMwNJ6oI75dN) | 3:28 |
 | 15 | [Sinto sua falta \- Ao vivo](https://open.spotify.com/track/3eWHUE5D5R19q7BvOX7NSJ) | [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2) | [Prazer, eu sou Ferrugem \(Ao vivo\)](https://open.spotify.com/album/3SkOXrdSri5EIpDpUvfdm3) | 3:24 |
 | 16 | [Louca de Saudade \- Ao Vivo](https://open.spotify.com/track/2InJDvDcA4RXEeA9njdibl) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Como\. Sempre Feito\. Nunca \(Ao Vivo\)](https://open.spotify.com/album/4TcZpyEt3wrOtMdK0gknMz) | 3:15 |
-| 17 | [Péssimo Negócio \(Ao Vivo\)](https://open.spotify.com/track/5MMrkwK6AgNAsgHVdC7daZ) | [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [Terra do Nunca \(Ao Vivo\)](https://open.spotify.com/album/5Sl0uDchhuleATxPwmSN4y) | 3:21 |
+| 17 | [Bebida Na Ferida \- Ao Vivo](https://open.spotify.com/track/50YbE5MrvSu8Fz6A2dgTZ8) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Esquece o Mundo Lá Fora \(Ao Vivo \| Deluxe\)](https://open.spotify.com/album/0wQ5Sn6RU4yL6WpeiWSaBN) | 3:19 |
 | 18 | [De Quem É a Culpa? \- Ao Vivo](https://open.spotify.com/track/4YhPcVIxIAJrLhFVPGbJkE) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Realidade \(Ao Vivo Em Manaus\)](https://open.spotify.com/album/5EOY7EuE83D9oSeT9eR9ry) | 3:22 |
-| 19 | [Bebida Na Ferida \- Ao Vivo](https://open.spotify.com/track/50YbE5MrvSu8Fz6A2dgTZ8) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Esquece o Mundo Lá Fora \(Ao Vivo \| Deluxe\)](https://open.spotify.com/album/0wQ5Sn6RU4yL6WpeiWSaBN) | 3:19 |
+| 19 | [Péssimo Negócio \(Ao Vivo\)](https://open.spotify.com/track/5MMrkwK6AgNAsgHVdC7daZ) | [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [Terra do Nunca \(Ao Vivo\)](https://open.spotify.com/album/5Sl0uDchhuleATxPwmSN4y) | 3:21 |
 | 20 | [Pra você acreditar \- Ao vivo](https://open.spotify.com/track/5KNi9XFap48ry4puG7rvqv) | [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2) | [Prazer, eu sou Ferrugem \(Ao vivo\)](https://open.spotify.com/album/3SkOXrdSri5EIpDpUvfdm3) | 3:23 |
 | 21 | [O Que É Que Tem \- Ao Vivo](https://open.spotify.com/track/1p6dBmCdP7xh3OMTYJDZPK) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Live In London \- At The Royal Albert Hall \(Ao Vivo\)](https://open.spotify.com/album/6nE1C92IIZQBnlYLxObRHW) | 3:35 |
-| 22 | [Eu Era](https://open.spotify.com/track/5hkjlU7sUcZb9wOYd1eRBE) | [Marcos & Belutti](https://open.spotify.com/artist/0NsJZ5PMjqghGDuMzY7CuT) | [Acredite](https://open.spotify.com/album/0WvvOZUcB0ZZNV75w1vZXq) | 3:31 |
+| 22 | [Seu Polícia \- Ao Vivo](https://open.spotify.com/track/39995SwI9fcO5ON9aku0gU) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Ao Vivo em São José do Rio Preto \(Deluxe\)](https://open.spotify.com/album/7eKb9OUJogXHVngYaCxTCR) | 2:49 |
 | 23 | [Troca de Calçada](https://open.spotify.com/track/4AAIAVjSyiq1N7SXKkwXZe) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Troca de Calçada](https://open.spotify.com/album/4CwfuAMrV2zwnoOzJtuI1k) | 3:23 |
-| 24 | [Seu Polícia \- Ao Vivo](https://open.spotify.com/track/39995SwI9fcO5ON9aku0gU) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Ao Vivo em São José do Rio Preto \(Deluxe\)](https://open.spotify.com/album/7eKb9OUJogXHVngYaCxTCR) | 2:49 |
+| 24 | [Eu Era](https://open.spotify.com/track/5hkjlU7sUcZb9wOYd1eRBE) | [Marcos & Belutti](https://open.spotify.com/artist/0NsJZ5PMjqghGDuMzY7CuT) | [Acredite](https://open.spotify.com/album/0WvvOZUcB0ZZNV75w1vZXq) | 3:31 |
 | 25 | [É Com Ela Que Eu Estou \- Ao Vivo](https://open.spotify.com/track/07NSyHtBkMt2pb9sJoZxUB) | [Cristiano Araújo](https://open.spotify.com/artist/4HF14RSTZQcEafvfPCFEpI) | [In The Cities \- Ao Vivo Em Cuiabá](https://open.spotify.com/album/5nGde95l1DJcFZCB3NOduX) | 3:40 |
 | 26 | [Refém](https://open.spotify.com/track/4muZ1PUxmss4cVmYnpLrvs) | [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [O Cara Certo](https://open.spotify.com/album/46AcQjehXf14WEIzG7X780) | 3:43 |
 | 27 | [Nem de Graça / Saudade Arregaça \- Ao Vivo](https://open.spotify.com/track/3rDAHk73LZmgJIyGZstWQ0) | [Pixote](https://open.spotify.com/artist/0ciLF0bOuu2BhqzCEZgHoB) | [Fã de Carteirinha Sunset \(Ao Vivo\)](https://open.spotify.com/album/0QAoo8Zi6hG6dy2Ca58I9K) | 5:42 |
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCpC5RyKiLg.md) - [plain]
 | 69 | [Saudade Nível Hard](https://open.spotify.com/track/2dmGj5Nf01FcR6N4HPzAbL) | [Yasmin Santos](https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz) | [Saudade Nível Hard](https://open.spotify.com/album/3IcSLQztms4Fu55HXI7Tye) | 3:01 |
 | 70 | [Beber Com Emergência \- Ao Vivo](https://open.spotify.com/track/1IcbQvHb9B7MikgQjfJtAl) | [Jefferson Moraes](https://open.spotify.com/artist/40t5KmKTi2ajyJmerMYY4C) | [Start In São Paulo \(ao Vivo\)](https://open.spotify.com/album/33pKsFhYvUCQkZTmUx4h9k) | 2:16 |
 | 71 | [Foi Pá Pum](https://open.spotify.com/track/6F7tttrdq7aUdxXVeo0nKp) | [Simone & Simaria](https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE) | [Debaixo Do Meu Telhado](https://open.spotify.com/album/3nK8BGJDIxuIN1rhsOX3mg) | 3:03 |
-| 72 | [Pulei na Piscina \- Ao Vivo](https://open.spotify.com/track/1uA7fD01YlQr1Rm0oyNB4H) | [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu) | [Pulei na Piscina \(Ao Vivo\)](https://open.spotify.com/album/59wHxqp3FE5gfK0l4wAIc8) | 3:01 |
-| 73 | [Diz pra Mim](https://open.spotify.com/track/4ddDW7Ao1h5UgISvnF1Npg) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Diz pra Mim](https://open.spotify.com/album/6m7uzYkj1KvxGXaRERcof7) | 4:01 |
-| 74 | [quando a bad bater \- ao vivo](https://open.spotify.com/track/5gvrBqNFFEWcxYPt3mamvJ) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [VIVA \(Ao Vivo\)](https://open.spotify.com/album/1n4L6uxvbs8n1hnXI2WOTR) | 2:59 |
+| 72 | [quando a bad bater \- ao vivo](https://open.spotify.com/track/5gvrBqNFFEWcxYPt3mamvJ) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [VIVA \(Ao Vivo\)](https://open.spotify.com/album/1n4L6uxvbs8n1hnXI2WOTR) | 2:59 |
+| 73 | [Pulei na Piscina \- Ao Vivo](https://open.spotify.com/track/1uA7fD01YlQr1Rm0oyNB4H) | [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu) | [Pulei na Piscina \(Ao Vivo\)](https://open.spotify.com/album/59wHxqp3FE5gfK0l4wAIc8) | 3:01 |
+| 74 | [Diz pra Mim](https://open.spotify.com/track/4ddDW7Ao1h5UgISvnF1Npg) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Diz pra Mim](https://open.spotify.com/album/6m7uzYkj1KvxGXaRERcof7) | 4:01 |
 | 75 | [Libera Ela \- Ao Vivo](https://open.spotify.com/track/0SJtvFn4vqgJPscSbEPaql) | [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se), [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [Aqui Em Casa \(ao Vivo\)](https://open.spotify.com/album/2L73yL2BUVtnwlEVr4AJHH) | 2:48 |
 
 Snapshot ID: `AAAAAB5hkMq/ZsrAekDsqOb++k/wjCvl`

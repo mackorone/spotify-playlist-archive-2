@@ -1,12 +1,12 @@
 {
   "description": "This is Ali Aka Mind. The essential tracks, all in one playlist.",
-  "num_followers": 4912,
+  "num_followers": 4915,
   "original_name": "This Is Ali Aka Mind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ag5LAAAAAAComqvmXl3qf2wPCht3cRDr",
+  "snapshot_id": "ag+cgAAAAAD0POA7O8GoUgFTgSpWQfVK",
   "tracks": [
     {
       "added_at": null,
@@ -263,22 +263,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Manjit",
-        "url": "https://open.spotify.com/album/5kWtTiaGy7fsc8SRzP5Grr"
+        "name": "Universos Mixtape",
+        "url": "https://open.spotify.com/album/0CIIttetz5Ts1zwEBki0rN"
       },
       "artists": [
         {
           "name": "Ali Aka Mind",
           "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
-        },
-        {
-          "name": "T-Chord",
-          "url": "https://open.spotify.com/artist/3GvdERCXrDLLTKzngNIyMW"
         }
       ],
-      "duration_ms": 170501,
-      "name": "Buen Viaje",
-      "url": "https://open.spotify.com/track/4yKTuSizI3B6Rkd2CF0fAE"
+      "duration_ms": 184000,
+      "name": "La Vida Es Solo Una",
+      "url": "https://open.spotify.com/track/3DONoS10PcEs8mSoDbqhY1"
     },
     {
       "added_at": null,
@@ -335,22 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Universos Mixtape",
-        "url": "https://open.spotify.com/album/0CIIttetz5Ts1zwEBki0rN"
-      },
-      "artists": [
-        {
-          "name": "Ali Aka Mind",
-          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "La Vida Es Solo Una",
-      "url": "https://open.spotify.com/track/3DONoS10PcEs8mSoDbqhY1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Palabras del Alma",
         "url": "https://open.spotify.com/album/4JTGFe7NhpEVSInPEasMhV"
       },
@@ -367,6 +347,26 @@
       "duration_ms": 193760,
       "name": "Hoy Quiero Confesarles",
       "url": "https://open.spotify.com/track/3FKYwSwP5G8SDRUqCeozMJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Manjit",
+        "url": "https://open.spotify.com/album/5kWtTiaGy7fsc8SRzP5Grr"
+      },
+      "artists": [
+        {
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        },
+        {
+          "name": "T-Chord",
+          "url": "https://open.spotify.com/artist/3GvdERCXrDLLTKzngNIyMW"
+        }
+      ],
+      "duration_ms": 170501,
+      "name": "Buen Viaje",
+      "url": "https://open.spotify.com/track/4yKTuSizI3B6Rkd2CF0fAE"
     },
     {
       "added_at": null,
@@ -427,8 +427,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Medallo Finest - Cypher",
-        "url": "https://open.spotify.com/album/3cri0TxB5nxq3SK2zVm4v0"
+        "name": "Palabras del Alma",
+        "url": "https://open.spotify.com/album/4JTGFe7NhpEVSInPEasMhV"
       },
       "artists": [
         {
@@ -436,29 +436,13 @@
           "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
         },
         {
-          "name": "Granuja",
-          "url": "https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS"
-        },
-        {
-          "name": "DeeJohend",
-          "url": "https://open.spotify.com/artist/6XUEYOORHZPpLe6hoCegF1"
-        },
-        {
-          "name": "Niche Ls",
-          "url": "https://open.spotify.com/artist/2yxSMjOgzBvfmExi22OCU7"
-        },
-        {
-          "name": "Z\u00e1baz",
-          "url": "https://open.spotify.com/artist/6HZ9Yb4XRVEWWFqUANMtKd"
-        },
-        {
-          "name": "Thomas Parr",
-          "url": "https://open.spotify.com/artist/4RdDhaLXcAbihjh7haTXbB"
+          "name": "ALI Prod.",
+          "url": "https://open.spotify.com/artist/3dF74LMMxII0PDwlMXaPEu"
         }
       ],
-      "duration_ms": 314000,
-      "name": "Medallo Finest - Cypher",
-      "url": "https://open.spotify.com/track/0GgKbQrvXc5ejyHCcsEkHf"
+      "duration_ms": 205293,
+      "name": "Yo Me Identifico",
+      "url": "https://open.spotify.com/track/25fyXzQ48jehni3yxFT2mt"
     },
     {
       "added_at": null,
@@ -555,8 +539,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Palabras del Alma",
-        "url": "https://open.spotify.com/album/4JTGFe7NhpEVSInPEasMhV"
+        "name": "Medallo Finest - Cypher",
+        "url": "https://open.spotify.com/album/3cri0TxB5nxq3SK2zVm4v0"
       },
       "artists": [
         {
@@ -564,13 +548,29 @@
           "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
         },
         {
-          "name": "ALI Prod.",
-          "url": "https://open.spotify.com/artist/3dF74LMMxII0PDwlMXaPEu"
+          "name": "Granuja",
+          "url": "https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS"
+        },
+        {
+          "name": "DeeJohend",
+          "url": "https://open.spotify.com/artist/6XUEYOORHZPpLe6hoCegF1"
+        },
+        {
+          "name": "Niche Ls",
+          "url": "https://open.spotify.com/artist/2yxSMjOgzBvfmExi22OCU7"
+        },
+        {
+          "name": "Z\u00e1baz",
+          "url": "https://open.spotify.com/artist/6HZ9Yb4XRVEWWFqUANMtKd"
+        },
+        {
+          "name": "Thomas Parr",
+          "url": "https://open.spotify.com/artist/4RdDhaLXcAbihjh7haTXbB"
         }
       ],
-      "duration_ms": 205293,
-      "name": "Yo Me Identifico",
-      "url": "https://open.spotify.com/track/25fyXzQ48jehni3yxFT2mt"
+      "duration_ms": 314000,
+      "name": "Medallo Finest - Cypher",
+      "url": "https://open.spotify.com/track/0GgKbQrvXc5ejyHCcsEkHf"
     },
     {
       "added_at": null,
@@ -651,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Palabras del Alma",
-        "url": "https://open.spotify.com/album/4JTGFe7NhpEVSInPEasMhV"
+        "name": "Una Oportunidad",
+        "url": "https://open.spotify.com/album/4siy0X5dG8LiSX2EbGYbV7"
       },
       "artists": [
         {
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
         }
       ],
-      "duration_ms": 222506,
-      "name": "Nunca Es Tarde Pa' Empezar",
-      "url": "https://open.spotify.com/track/0rKTUWLac8ZmYYAsQqsxqX"
+      "duration_ms": 213333,
+      "name": "Una Oportunidad",
+      "url": "https://open.spotify.com/track/5bJvvd2M5byWc8t8DJ5dwr"
     },
     {
       "added_at": null,
@@ -707,8 +707,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Una Oportunidad",
-        "url": "https://open.spotify.com/album/4siy0X5dG8LiSX2EbGYbV7"
+        "name": "Palabras del Alma",
+        "url": "https://open.spotify.com/album/4JTGFe7NhpEVSInPEasMhV"
       },
       "artists": [
         {
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
         }
       ],
-      "duration_ms": 213333,
-      "name": "Una Oportunidad",
-      "url": "https://open.spotify.com/track/5bJvvd2M5byWc8t8DJ5dwr"
+      "duration_ms": 222506,
+      "name": "Nunca Es Tarde Pa' Empezar",
+      "url": "https://open.spotify.com/track/0rKTUWLac8ZmYYAsQqsxqX"
     },
     {
       "added_at": null,
@@ -730,11 +730,15 @@
         {
           "name": "Ali Aka Mind",
           "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        },
+        {
+          "name": "Andrade A.K.A Doble A",
+          "url": "https://open.spotify.com/artist/7b9fbzEOUa59TNhgCVIGLU"
         }
       ],
-      "duration_ms": 200582,
-      "name": "Emily",
-      "url": "https://open.spotify.com/track/6ka4z78PDgF3mepKkY2W4o"
+      "duration_ms": 187226,
+      "name": "Mi Ciudad Es Fresca",
+      "url": "https://open.spotify.com/track/0rbrXJIMU4ucrLJLCdTXtX"
     },
     {
       "added_at": null,
@@ -810,15 +814,51 @@
         {
           "name": "Ali Aka Mind",
           "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
-        },
-        {
-          "name": "Andrade A.K.A Doble A",
-          "url": "https://open.spotify.com/artist/7b9fbzEOUa59TNhgCVIGLU"
         }
       ],
-      "duration_ms": 187226,
-      "name": "Mi Ciudad Es Fresca",
-      "url": "https://open.spotify.com/track/0rbrXJIMU4ucrLJLCdTXtX"
+      "duration_ms": 200582,
+      "name": "Emily",
+      "url": "https://open.spotify.com/track/6ka4z78PDgF3mepKkY2W4o"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Como Un Im\u00e1n",
+        "url": "https://open.spotify.com/album/3H5zHjtNNxTUod4Jev6K27"
+      },
+      "artists": [
+        {
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        },
+        {
+          "name": "Nach",
+          "url": "https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "Como Un Im\u00e1n",
+      "url": "https://open.spotify.com/track/65iaEKnaGA22vX6ahS2RaS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mestizo",
+        "url": "https://open.spotify.com/album/3q3CUqz2XqQwDOFjmWphbw"
+      },
+      "artists": [
+        {
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        },
+        {
+          "name": "Rakaa de Dilated Peoples",
+          "url": "https://open.spotify.com/artist/7Bp2zDaEOWhyWRJOEEUUo0"
+        }
+      ],
+      "duration_ms": 234278,
+      "name": "Nada Nos Para",
+      "url": "https://open.spotify.com/track/5odmSa7DCFFDofSpYgzCik"
     },
     {
       "added_at": null,
@@ -887,46 +927,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mestizo",
-        "url": "https://open.spotify.com/album/3q3CUqz2XqQwDOFjmWphbw"
-      },
-      "artists": [
-        {
-          "name": "Ali Aka Mind",
-          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
-        },
-        {
-          "name": "Rakaa de Dilated Peoples",
-          "url": "https://open.spotify.com/artist/7Bp2zDaEOWhyWRJOEEUUo0"
-        }
-      ],
-      "duration_ms": 234278,
-      "name": "Nada Nos Para",
-      "url": "https://open.spotify.com/track/5odmSa7DCFFDofSpYgzCik"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Como Un Im\u00e1n",
-        "url": "https://open.spotify.com/album/3H5zHjtNNxTUod4Jev6K27"
-      },
-      "artists": [
-        {
-          "name": "Ali Aka Mind",
-          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
-        },
-        {
-          "name": "Nach",
-          "url": "https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "Como Un Im\u00e1n",
-      "url": "https://open.spotify.com/track/65iaEKnaGA22vX6ahS2RaS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sobrevivente",
         "url": "https://open.spotify.com/album/6m0g5Ap0yUoXH6SoHPAlkW"
       },
@@ -947,30 +947,6 @@
       "duration_ms": 224071,
       "name": "Colombianos World Wide",
       "url": "https://open.spotify.com/track/1XsUDsrPz0IQnAykCjMrSJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Estado Popular Del Alma \u2022 Epa",
-        "url": "https://open.spotify.com/album/5XYKA56UCb99ZIEFUCiKC1"
-      },
-      "artists": [
-        {
-          "name": "Nicolai Fella",
-          "url": "https://open.spotify.com/artist/4Os4fMrqioV1yr2joj1Tvo"
-        },
-        {
-          "name": "Ali Aka Mind",
-          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
-        },
-        {
-          "name": "RI",
-          "url": "https://open.spotify.com/artist/31zcVceg6CBFwo6jiVO3MU"
-        }
-      ],
-      "duration_ms": 214600,
-      "name": "Invente",
-      "url": "https://open.spotify.com/track/5zXSfcJsB3UOJJh07ICLVO"
     },
     {
       "added_at": null,
@@ -1011,6 +987,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Estado Popular Del Alma \u2022 Epa",
+        "url": "https://open.spotify.com/album/5XYKA56UCb99ZIEFUCiKC1"
+      },
+      "artists": [
+        {
+          "name": "Nicolai Fella",
+          "url": "https://open.spotify.com/artist/4Os4fMrqioV1yr2joj1Tvo"
+        },
+        {
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        },
+        {
+          "name": "RI",
+          "url": "https://open.spotify.com/artist/31zcVceg6CBFwo6jiVO3MU"
+        }
+      ],
+      "duration_ms": 214600,
+      "name": "Invente",
+      "url": "https://open.spotify.com/track/5zXSfcJsB3UOJJh07ICLVO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sobrevivente",
         "url": "https://open.spotify.com/album/6m0g5Ap0yUoXH6SoHPAlkW"
       },
@@ -1023,6 +1023,26 @@
       "duration_ms": 96000,
       "name": "Nostalgia",
       "url": "https://open.spotify.com/track/14a2gSIuqP7ZIJIzRlYt1o"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Universos Mixtape",
+        "url": "https://open.spotify.com/album/0CIIttetz5Ts1zwEBki0rN"
+      },
+      "artists": [
+        {
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        },
+        {
+          "name": "Andrade A.K.A Doble A",
+          "url": "https://open.spotify.com/artist/7b9fbzEOUa59TNhgCVIGLU"
+        }
+      ],
+      "duration_ms": 170527,
+      "name": "Otra Pa' Mi Cuenta",
+      "url": "https://open.spotify.com/track/37dPkMfAhfvH3Ndl8ev0cv"
     },
     {
       "added_at": null,
@@ -1047,26 +1067,6 @@
       "duration_ms": 186106,
       "name": "For\u00e1neos",
       "url": "https://open.spotify.com/track/2MOupuZ5SXzWtlE03VN9Ke"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Universos Mixtape",
-        "url": "https://open.spotify.com/album/0CIIttetz5Ts1zwEBki0rN"
-      },
-      "artists": [
-        {
-          "name": "Ali Aka Mind",
-          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
-        },
-        {
-          "name": "Andrade A.K.A Doble A",
-          "url": "https://open.spotify.com/artist/7b9fbzEOUa59TNhgCVIGLU"
-        }
-      ],
-      "duration_ms": 170527,
-      "name": "Otra Pa' Mi Cuenta",
-      "url": "https://open.spotify.com/track/37dPkMfAhfvH3Ndl8ev0cv"
     },
     {
       "added_at": null,

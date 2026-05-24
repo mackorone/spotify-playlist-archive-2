@@ -4,11 +4,12 @@
 
 > This is Madison Cunningham\. The essential tracks, all in one playlist.
 
-120 songs - 7 hr 42 min
+121 songs - 7 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\(Looking Through\) Rose Colored Glasses](https://open.spotify.com/track/0fp9X7zv7W75w5mQSFMwYu) | [Mikaela Davis](https://open.spotify.com/artist/6CbL78A3tB1CPFoduF7UM5), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [\(Looking Through\) Rose Colored Glasses](https://open.spotify.com/album/1jxeJvg5kOtCFSvdblJVoe) | 3:35 | 2026-03-01 |  |
+| [\(Looking Through\) Rose Colored Glasses](https://open.spotify.com/track/0fp9X7zv7W75w5mQSFMwYu) | [Mikaela Davis](https://open.spotify.com/artist/6CbL78A3tB1CPFoduF7UM5), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [\(Looking Through\) Rose Colored Glasses](https://open.spotify.com/album/1jxeJvg5kOtCFSvdblJVoe) | 3:35 | 2026-03-01 | 2026-05-24 |
+| [\(Looking Through\) Rose Colored Glasses](https://open.spotify.com/track/336t4aqoOMtMMKIAVYqgWb) | [Mikaela Davis](https://open.spotify.com/artist/6CbL78A3tB1CPFoduF7UM5), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Graceland Way](https://open.spotify.com/album/3Tpi8aDmEZ7tpJvPu8sxuI) | 3:35 | 2026-05-24 |  |
 | [All At Once](https://open.spotify.com/track/59x97Muk1DvBUhyX8xcxJo) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [For The Sake Of The Rhyme](https://open.spotify.com/album/4BaN7uc9vzyOberlO92BRR) | 4:23 | 2022-09-16 | 2024-10-20 |
 | [All I’ve Ever Known](https://open.spotify.com/track/3asrVoL2yOlr6LSAamJ94L) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Revealer](https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D) | 5:06 | 2022-09-16 |  |
 | [Alone \(feat\. Madison Cunningham\)](https://open.spotify.com/track/66DbVShEj5r1ozytczOmjn) | [Rufus Wainwright](https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Folkocracy](https://open.spotify.com/album/4FYVErCjwVvkO3XpDFtOQ2) | 3:14 | 2023-12-13 | 2025-10-12 |

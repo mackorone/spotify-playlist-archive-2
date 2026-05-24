@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > Bailando bajo la lluvia en compañía de Xavi y muchas rolitas top que no te puedes perder
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,183,333 likes - 81 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,183,970 likes - 81 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

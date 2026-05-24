@@ -372,7 +372,7 @@
       ],
       "date_added": "2023-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 150986,
       "name": "Completamente Loco",
       "url": "https://open.spotify.com/track/7B646WX2daEPa4bjsnUv9o"
@@ -1532,6 +1532,28 @@
       "duration_ms": 216413,
       "name": "Pens\u00e1ndote",
       "url": "https://open.spotify.com/track/2wnhst8yHA4gKuojAgZedh"
+    },
+    {
+      "album": {
+        "name": "OMAKASE",
+        "url": "https://open.spotify.com/album/79TuXcubVSnQDvvvzEbIY2"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        },
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        }
+      ],
+      "date_added": "2026-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243319,
+      "name": "PERDISTE EL EMMY.",
+      "url": "https://open.spotify.com/track/13ZG0ttABjb0rpL84bOBm6"
     },
     {
       "album": {

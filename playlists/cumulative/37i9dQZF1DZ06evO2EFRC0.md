@@ -4,7 +4,7 @@
 
 > This is Marcos Witt\. The essential tracks, all in one playlist.
 
-111 songs - 8 hr 57 min
+112 songs - 9 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [No Hay Pero Va a Sobrar](https://open.spotify.com/track/1Y408UKyzHsHxAQn9L4hPn) | [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd), [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [¿Quién Contra Nosotros?](https://open.spotify.com/album/5cuqDgBJPMEWLjfbxnexp4) | 4:30 | 2023-04-02 | 2025-07-28 |
 | [No hay pero va a sobrar](https://open.spotify.com/track/5f4hGWPnmzvoCe2f6x4QiG) | [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd), [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [¿Quién Contra Nosotros?](https://open.spotify.com/album/2VldUmpRrsk7jyPVDTRdFj) | 4:30 | 2025-07-28 | 2026-04-17 |
 | [Nunca Me Fallas \(feat\. Marcos Witt\)](https://open.spotify.com/track/5Y8ALB1dMCFTIdPJ7sWk0A) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b), [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Ser Humano](https://open.spotify.com/album/7GAFM73bQdOTQ9qOas9TNt) | 4:30 | 2023-04-02 | 2024-01-21 |
+| [Oh Tu Fidelidad](https://open.spotify.com/track/6RxYwQflwfYpe7ramNDe6g) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Eterno](https://open.spotify.com/album/2ue3bbdkXbjMM892PpXIqf) | 4:13 | 2026-05-24 |  |
 | [Perdonados](https://open.spotify.com/track/3L0pj40jXUDOX3p1OmZqvQ) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2), [Danilo Montero](https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF), [Marco Barrientos](https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ) | [Homenaje a Jesús](https://open.spotify.com/album/0tZHLKTmqIiWnNjOEszm7J) | 2:58 | 2023-05-04 | 2025-03-11 |
 | [Poderoso](https://open.spotify.com/track/0MMGKqbwCW0VusNuiuuK4f) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Poderoso](https://open.spotify.com/album/4buWEkWMs4uNIJpIZdQNJ9) | 6:49 | 2023-06-06 | 2024-05-11 |
 | [Poderoso](https://open.spotify.com/track/0TppQPfqLVRZjdYFtRHtMp) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2), [Kike Pavón](https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0), [Factor de Cambio](https://open.spotify.com/artist/4diJ4cXKwaaGZZn5L9G7cb) | [Poderoso](https://open.spotify.com/album/2eDiKQMiFOxIHZenmaNNzh) | 3:33 | 2025-02-09 | 2025-06-06 |
@@ -75,7 +76,7 @@
 | [Poderoso Dios](https://open.spotify.com/track/4eMnZja2FGmWuagYRLrQBw) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Sobrenatural](https://open.spotify.com/album/1EDofreiBInsrMtMbpt7hL) | 7:54 | 2023-04-02 |  |
 | [Porque para Siempre](https://open.spotify.com/track/1snvuOpocJJRNXLVAR7QVI) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Tu y Yo](https://open.spotify.com/album/69i6c6spdPMcm3NYCFmjnx) | 2:47 | 2023-04-02 |  |
 | [Porque Tú Eres bueno](https://open.spotify.com/track/6MRlSkOGex4cx3fcusHFtU) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Proyecto AA](https://open.spotify.com/album/4Yn1oEGxhbwk8HhE0topvU) | 2:45 | 2024-02-26 |  |
-| [Primero Nos Amó](https://open.spotify.com/track/2J5SBXo9kmS37AQCBj4wiU) | [Matthew Hotton](https://open.spotify.com/artist/62veW3YYWKSHx6sDGnDpNQ), [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Primero Nos Amó](https://open.spotify.com/album/3SQgNmmPjB0Vl7DffcD7RW) | 3:49 | 2024-04-21 |  |
+| [Primero Nos Amó](https://open.spotify.com/track/2J5SBXo9kmS37AQCBj4wiU) | [Matthew Hotton](https://open.spotify.com/artist/62veW3YYWKSHx6sDGnDpNQ), [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Primero Nos Amó](https://open.spotify.com/album/3SQgNmmPjB0Vl7DffcD7RW) | 3:49 | 2024-04-21 | 2026-05-24 |
 | [Quiero Levantar mis Manos](https://open.spotify.com/track/3F3cpazSaWY0DCb6XjSBd9) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Proyecto AA](https://open.spotify.com/album/4Yn1oEGxhbwk8HhE0topvU) | 4:28 | 2023-04-02 |  |
 | [Renuévame](https://open.spotify.com/track/4mx6VrZG5VTYrAo9wjocJg) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Te Exaltamos](https://open.spotify.com/album/3YyW3KUNoyXBkXkYTvC9EB) | 2:40 | 2023-04-08 | 2025-03-30 |
 | [Renuévame](https://open.spotify.com/track/5oxlg8P9xLLB6sHxBXdyOA) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [En adoración](https://open.spotify.com/album/0kfCuoDxi46cnlurjvW5zD) | 2:42 | 2025-04-05 | 2025-04-24 |

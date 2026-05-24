@@ -783,6 +783,32 @@
     },
     {
       "album": {
+        "name": "her (feat. Leon Leiden & Macario Mart\u00ednez)",
+        "url": "https://open.spotify.com/album/1hcoQmTGeohdgVLYImXji9"
+      },
+      "artists": [
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        },
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        },
+        {
+          "name": "Macario Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/228pVneav5qwbCGQrrqQo4"
+        }
+      ],
+      "date_added": "2026-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186669,
+      "name": "her (feat. Leon Leiden & Macario Mart\u00ednez)",
+      "url": "https://open.spotify.com/track/1OcpRD3d7YBuGlIxPYQHsd"
+    },
+    {
+      "album": {
         "name": "Alberca / ILY <3",
         "url": "https://open.spotify.com/album/56rLIEkSkRChif7JpHRVlj"
       },
@@ -1238,7 +1264,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 157826,
       "name": "Para Mi",
       "url": "https://open.spotify.com/track/51rJeK97OprHwFCGYxtgnX"

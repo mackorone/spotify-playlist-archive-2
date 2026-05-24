@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyjRnMgESue.md) - [plain]
 
 > The best new songs from modern singer\-songwriters\. Cover: Tyler Ballgame
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,909 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,927 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyjRnMgESue.md) - [plain]
 | 66 | [Let Me Be Wrong](https://open.spotify.com/track/7iueQDyeYZRXZc4DYYAwDw) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [I Don't Know How But They Found Me!](https://open.spotify.com/album/61pSh8kSiqdyoTgDbaPG8h) | 2:36 |
 | 67 | [Dearly Missed](https://open.spotify.com/track/1FolOCn6zNFCfqMrV7jdWP) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [Dearly Missed](https://open.spotify.com/album/2Y5moL7gzsUqrcDrjpsqHS) | 6:00 |
 | 68 | [The Cost of Growing Up](https://open.spotify.com/track/0yhLlhh36yxfE2MWnC28Bz) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [The Cost of Growing Up](https://open.spotify.com/album/07wWN064o7XUxgw7IRmJFB) | 4:23 |
-| 69 | [Point of View](https://open.spotify.com/track/4lHCfrmfJxOCcrPz4s5eLD) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [I Can See The Future](https://open.spotify.com/album/2r03tuODAS7RHQdN6VrmVy) | 4:49 |
-| 70 | [Undo Me](https://open.spotify.com/track/7hsAvDcgyBAJAWciyNWR0r) | [Yana](https://open.spotify.com/artist/6bR96LMvgvYgDlumR7JwPX) | [Exit Strategy](https://open.spotify.com/album/1KKUPIu7Fb91j2VDRi4viD) | 4:21 |
+| 69 | [Undo Me](https://open.spotify.com/track/7hsAvDcgyBAJAWciyNWR0r) | [Yana](https://open.spotify.com/artist/6bR96LMvgvYgDlumR7JwPX) | [Exit Strategy](https://open.spotify.com/album/1KKUPIu7Fb91j2VDRi4viD) | 4:21 |
+| 70 | [Point of View](https://open.spotify.com/track/4lHCfrmfJxOCcrPz4s5eLD) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [I Can See The Future](https://open.spotify.com/album/2r03tuODAS7RHQdN6VrmVy) | 4:49 |
 | 71 | [Bluebird](https://open.spotify.com/track/73k5rySilKqE1DRJ0VoNSi) | [Anna Graves](https://open.spotify.com/artist/4j9vFTGkTHf54MjcZvedcT) | [Bluebird](https://open.spotify.com/album/4bh2nuVjY6wuFaCGmsUCRb) | 3:31 |
 | 72 | [If I Had Never Lost My Mind...](https://open.spotify.com/track/7Gv7nvp2Rg2tiB2Ru24ETH) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [If I Had Never Lost My Mind...](https://open.spotify.com/album/0rdw28ZkCG4fAzRzIF4iah) | 3:10 |
 | 73 | [Sad and Beautiful World](https://open.spotify.com/track/6UFDma78AVAyHaN4i88R8i) | [Mavis Staples](https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0) | [Sad And Beautiful World](https://open.spotify.com/album/07aZwFEzDfh0BALXf1o6FH) | 4:06 |
@@ -91,15 +91,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyjRnMgESue.md) - [plain]
 | 81 | [Like The Rain](https://open.spotify.com/track/0qBoobvEvFNnbCzvgtHjM8) | [Andrea Bejar](https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8) | [Love Again](https://open.spotify.com/album/55GVOmy6g6oRXIuUklMxnS) | 3:07 |
 | 82 | [happy ending](https://open.spotify.com/track/2xSoj3qiRpbTd2ku7pvMvd) | [Anna Clendening](https://open.spotify.com/artist/2y9j8qUwBMGPYPQJJxmYzD) | [happy ending](https://open.spotify.com/album/2wqktjryHxu6i4Mof6tWtL) | 2:37 |
 | 83 | [The Surface](https://open.spotify.com/track/4329XA7OGxcJXruj4nirnn) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [The Surface](https://open.spotify.com/album/08x9Txl6jTNKIgfL64iwaG) | 3:55 |
-| 84 | [I Talk About You](https://open.spotify.com/track/0SyTYyawIrIkBpdOH9B34c) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [I Talk About You](https://open.spotify.com/album/59VlISV9li61ECMjfCmQnv) | 3:30 |
-| 85 | [Returning To Myself](https://open.spotify.com/track/1AMUwhjbPqBvcPW4itoNXB) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Returning To Myself](https://open.spotify.com/album/59fZ3nKVEopfpxyRRr1Ksl) | 4:17 |
+| 84 | [Returning To Myself](https://open.spotify.com/track/1AMUwhjbPqBvcPW4itoNXB) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Returning To Myself](https://open.spotify.com/album/59fZ3nKVEopfpxyRRr1Ksl) | 4:17 |
+| 85 | [I Talk About You](https://open.spotify.com/track/0SyTYyawIrIkBpdOH9B34c) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [I Talk About You](https://open.spotify.com/album/59VlISV9li61ECMjfCmQnv) | 3:30 |
 | 86 | [KISSING](https://open.spotify.com/track/4RSkew0j4MPCAq7WfVfi8P) | [Paige Fish](https://open.spotify.com/artist/10djoaqJLN6H4oORnKJ63P) | [Daisy](https://open.spotify.com/album/5l746yNWWESUlLuveqla2p) | 2:40 |
-| 87 | [Phantom](https://open.spotify.com/track/0qJSQOkbXfEKil9AjcLWxZ) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Phantom](https://open.spotify.com/album/4RTq2z9SyBswjkAl6EgNsU) | 1:50 |
-| 88 | [Call of Duty](https://open.spotify.com/track/7CyTAwPV2r7pBfZt9fVNDG) | [Kevin Atwater](https://open.spotify.com/artist/6ZBM319vNIirp7FOvvLVD6) | [Achilles](https://open.spotify.com/album/5baUTzkWiIeFGyEWFAMYB7) | 3:11 |
+| 87 | [Call of Duty](https://open.spotify.com/track/7CyTAwPV2r7pBfZt9fVNDG) | [Kevin Atwater](https://open.spotify.com/artist/6ZBM319vNIirp7FOvvLVD6) | [Achilles](https://open.spotify.com/album/5baUTzkWiIeFGyEWFAMYB7) | 3:11 |
+| 88 | [Phantom](https://open.spotify.com/track/0qJSQOkbXfEKil9AjcLWxZ) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Phantom](https://open.spotify.com/album/4RTq2z9SyBswjkAl6EgNsU) | 1:50 |
 | 89 | [Collarbones](https://open.spotify.com/track/1ufQW3SOuHHxO8rsxJCAaR) | [Anna Hamilton](https://open.spotify.com/artist/5l81swbnEwWXCTQiEYmATF) | [Collarbones](https://open.spotify.com/album/2Nbf58InZWvZUxvgNoqRkL) | 3:00 |
-| 90 | [Old Holy Feeling](https://open.spotify.com/track/1neisUi9QEwdYf8drrM7ls) | [Josephine Illingworth](https://open.spotify.com/artist/47tAxYSbAuzh3Pm6FDTUDQ) | [Old Holy Feeling](https://open.spotify.com/album/2qXHmWN4ykdP4lRWy7cOoj) | 5:06 |
-| 91 | [tell me something](https://open.spotify.com/track/4IU4zqISs4zONS4rDWStUU) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [tell me something](https://open.spotify.com/album/4J18Qe8pwo180j6on9pnmn) | 3:57 |
-| 92 | [You and Me Time \(feat\. Sheryl Crow\)](https://open.spotify.com/track/4v0bYGAGo7GjTDQeoaSsp7) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD), [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [You and Me Time](https://open.spotify.com/album/0m6wO7RR5ugYzk0wZW5ori) | 3:45 |
+| 90 | [tell me something](https://open.spotify.com/track/4IU4zqISs4zONS4rDWStUU) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [tell me something](https://open.spotify.com/album/4J18Qe8pwo180j6on9pnmn) | 3:57 |
+| 91 | [You and Me Time \(feat\. Sheryl Crow\)](https://open.spotify.com/track/4v0bYGAGo7GjTDQeoaSsp7) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD), [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [You and Me Time](https://open.spotify.com/album/0m6wO7RR5ugYzk0wZW5ori) | 3:45 |
+| 92 | [Old Holy Feeling](https://open.spotify.com/track/1neisUi9QEwdYf8drrM7ls) | [Josephine Illingworth](https://open.spotify.com/artist/47tAxYSbAuzh3Pm6FDTUDQ) | [Old Holy Feeling](https://open.spotify.com/album/2qXHmWN4ykdP4lRWy7cOoj) | 5:06 |
 | 93 | [Earthstar](https://open.spotify.com/track/0mroL255Cz3vWWyoTzur38) | [Hannah Cohen](https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros) | [Earthstar](https://open.spotify.com/album/6WZ2vKrjmgyzeOsVwt1iU4) | 4:03 |
 | 94 | [Poison In My Well](https://open.spotify.com/track/5sTW2d86vNwfiJ2VNjUsrq) | [Maggie Rose](https://open.spotify.com/artist/4FrAfXWWNZapoX4O1LEoLn), [Grace Potter](https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht) | [Poison In My Well](https://open.spotify.com/album/1lQPaWzjstwG1X3hWZb11A) | 3:08 |
 | 95 | [Bus Back To Richmond](https://open.spotify.com/track/0uP3nr5ygvojAQftifZ0ga) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Bus Back To Richmond / More Than Friends](https://open.spotify.com/album/7MJlctOJwPCNL39oaag0ce) | 2:54 |

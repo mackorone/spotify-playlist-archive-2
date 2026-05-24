@@ -323,6 +323,24 @@
     },
     {
       "album": {
+        "name": "Multimiljonair",
+        "url": "https://open.spotify.com/album/7MsrN7zy5Fm9iJRrAgOwPd"
+      },
+      "artists": [
+        {
+          "name": "Bankzitters",
+          "url": "https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB"
+        }
+      ],
+      "date_added": "2026-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133913,
+      "name": "Multimiljonair",
+      "url": "https://open.spotify.com/track/7febA9EPgU97DuLg9HAocX"
+    },
+    {
+      "album": {
         "name": "Niks",
         "url": "https://open.spotify.com/album/2uZIDpY0gf2A9l9Zl7y7Ql"
       },

@@ -4,7 +4,7 @@
 
 > This is Bankzitters\. The essential tracks, all in one playlist.
 
-28 songs - 1 hr 7 min
+29 songs - 1 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [In De Olie](https://open.spotify.com/track/7pZRkJjCXGwP2h59EfFZxy) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [In De Olie](https://open.spotify.com/album/0qlqsjGYkJvx7GIALA9ZDn) | 2:14 | 2026-01-27 |  |
 | [Is Dat Nou Echt?](https://open.spotify.com/track/5EOsxrIPmTaQUohn4LVNUT) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Is Dat Nou Echt?](https://open.spotify.com/album/4J9MKVm8wPNDG7Pf6VgLHD) | 2:28 | 2025-07-20 |  |
 | [Je Blik Richting Mij](https://open.spotify.com/track/5bdBg1Gc6IrDRCFM1BiQx7) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Je Blik Richting Mij](https://open.spotify.com/album/6LqbmPYQTNC7mEuQ9Kejtl) | 2:25 | 2025-07-20 |  |
+| [Multimiljonair](https://open.spotify.com/track/7febA9EPgU97DuLg9HAocX) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Multimiljonair](https://open.spotify.com/album/7MsrN7zy5Fm9iJRrAgOwPd) | 2:13 | 2026-05-24 |  |
 | [Niks](https://open.spotify.com/track/5BjwnWj3moPSEaGBKIWrQo) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Niks](https://open.spotify.com/album/2uZIDpY0gf2A9l9Zl7y7Ql) | 2:29 | 2025-07-20 |  |
 | [Offline Beschikbaar](https://open.spotify.com/track/1Q0HpSHfcqcZzrLT5bGtoO) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Offline Beschikbaar](https://open.spotify.com/album/2V1IRYsaI820G3tdzeZkX8) | 2:27 | 2025-07-20 |  |
 | [Slaaptekort](https://open.spotify.com/track/454sfR8RN4bdHG3yn1IlzC) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Slaaptekort](https://open.spotify.com/album/0ij3zgWFzKvI1qxTvg0F3b) | 2:37 | 2025-07-20 |  |

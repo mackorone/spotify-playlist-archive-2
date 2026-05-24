@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MUrG3NBYtM.md) - [plain]
 
 > De beste Indie releases\. Cover: Naaz
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,605 likes - 60 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,602 likes - 60 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MUrG3NBYtM.md) - [plain]
 | 24 | [Hemingway](https://open.spotify.com/track/1BBVsOxgQ2soUs87ypiMZH) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Hemingway](https://open.spotify.com/album/3JKMx86ymxWRpnBhmbBAus) | 3:16 |
 | 25 | [Take A Sexy Picture Of Me](https://open.spotify.com/track/0gQpTmVvkNauZzh5YSIrHY) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [Take A Sexy Picture Of Me](https://open.spotify.com/album/1xqPeoLyajonkSFTtE7HQB) | 3:49 |
 | 26 | [Asking For A Friend](https://open.spotify.com/track/6H8kmcBIUymcI1byu6QCRp) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Asking For A Friend](https://open.spotify.com/album/7duNAzheTsc00oX22aCqXn) | 4:29 |
-| 27 | [The Banjo Song](https://open.spotify.com/track/2SAbtWqrD3YT4oHq993bq1) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [The Banjo Song](https://open.spotify.com/album/1FElMhQ7y5kl7DhW6e1rDn) | 3:49 |
-| 28 | [moody](https://open.spotify.com/track/7MerIDn7wpEH4OEGbpasSH) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [moody](https://open.spotify.com/album/7eZ8bFDtTIymJEdRCEIyro) | 2:55 |
+| 27 | [moody](https://open.spotify.com/track/7MerIDn7wpEH4OEGbpasSH) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [moody](https://open.spotify.com/album/7eZ8bFDtTIymJEdRCEIyro) | 2:55 |
+| 28 | [The Banjo Song](https://open.spotify.com/track/2SAbtWqrD3YT4oHq993bq1) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [The Banjo Song](https://open.spotify.com/album/1FElMhQ7y5kl7DhW6e1rDn) | 3:49 |
 | 29 | [The Rope](https://open.spotify.com/track/6HYHIPcS5U0PLhD6u43MRX) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [The Rope](https://open.spotify.com/album/27ABxgs5YasDR0BxiPMiId) | 3:10 |
 | 30 | [Everyone’s A Star!](https://open.spotify.com/track/0pcU4T0Gz8XUobyjdoWb6f) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [EVERYONE'S A STAR!](https://open.spotify.com/album/0bXFiluFJjk70GKu0Q7HUa) | 3:15 |
 | 31 | [Today's Song](https://open.spotify.com/track/14PhYqLZ4QLKprqeCOMx36) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Today's Song](https://open.spotify.com/album/6DuHTWcfnuCvgQhbFyh1ct) | 3:14 |
@@ -46,14 +46,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MUrG3NBYtM.md) - [plain]
 | 36 | [In Search of Yang](https://open.spotify.com/track/6FR6o5mqPEVRffn9Jxsnqr) | [Yin Yin](https://open.spotify.com/artist/2sLMYvxNmHIYNx6re1WUM2) | [Yatta!](https://open.spotify.com/album/14miHHQBXPPlt61Ax0SK2W) | 4:31 |
 | 37 | [Lies](https://open.spotify.com/track/2WCbUIIPHbX6t9M0UH0p4S) | [Dressed Like Boys](https://open.spotify.com/artist/5qQLp6Xal6S6KXEHgvxmvp) | [Dressed Like Boys](https://open.spotify.com/album/2aVuPgS0edNTSjUodsqwGn) | 3:47 |
 | 38 | [This is the Killer Speaking](https://open.spotify.com/track/1mduxXxLvhu5OzebDWMYqX) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [This is the Killer Speaking](https://open.spotify.com/album/1ztxCUku3RIu2lBs0cJdDn) | 4:54 |
-| 39 | [I'll Change for You](https://open.spotify.com/track/1VVlFu2NkLFMRBznBITlho) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [I'll Change for You](https://open.spotify.com/album/3f7akGGEFL9LjSJCG7ueaL) | 3:16 |
-| 40 | [Unbind](https://open.spotify.com/track/4TvpYr1gFtYxtZ4yn2LVuI) | [Eloi Youssef](https://open.spotify.com/artist/4y0egYlrx2v3IzeciScO2A) | [Unbind](https://open.spotify.com/album/04wo4zBOGQzQlbYADhO8xO) | 3:27 |
-| 41 | [To The Sandals](https://open.spotify.com/track/0o1TOuRqbAP2RspbKZmq7P) | [Dove Ellis](https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9) | [Blizzard](https://open.spotify.com/album/3Brw2Xdmo6VRPWwOBNye0i) | 4:08 |
+| 39 | [Unbind](https://open.spotify.com/track/4TvpYr1gFtYxtZ4yn2LVuI) | [Eloi Youssef](https://open.spotify.com/artist/4y0egYlrx2v3IzeciScO2A) | [Unbind](https://open.spotify.com/album/04wo4zBOGQzQlbYADhO8xO) | 3:27 |
+| 40 | [To The Sandals](https://open.spotify.com/track/0o1TOuRqbAP2RspbKZmq7P) | [Dove Ellis](https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9) | [Blizzard](https://open.spotify.com/album/3Brw2Xdmo6VRPWwOBNye0i) | 4:08 |
+| 41 | [I'll Change for You](https://open.spotify.com/track/1VVlFu2NkLFMRBznBITlho) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [I'll Change for You](https://open.spotify.com/album/3f7akGGEFL9LjSJCG7ueaL) | 3:16 |
 | 42 | [Another Year Will Pass](https://open.spotify.com/track/2kK1NHAOsnl4WmRf4Zlv9B) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [Another Year Will Pass](https://open.spotify.com/album/5upyUvc97PJ25cRb1vLLDI) | 3:15 |
 | 43 | [Juice](https://open.spotify.com/track/6VxBEwjCqZuQUxqhSedNFa) | [White Lies](https://open.spotify.com/artist/6ssXMmc5EOUrauZxirM910) | [Night Light](https://open.spotify.com/album/28XX98fScUpE4dZN0hIvAR) | 4:29 |
 | 44 | [Healing](https://open.spotify.com/track/6C7S3LAPokFppY2ttt6VSi) | [Dressed Like Boys](https://open.spotify.com/artist/5qQLp6Xal6S6KXEHgvxmvp) | [Dressed Like Boys](https://open.spotify.com/album/2aVuPgS0edNTSjUodsqwGn) | 3:35 |
-| 45 | [CPR](https://open.spotify.com/track/4shJVGH4xRWChBSkHHamxv) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [CPR](https://open.spotify.com/album/74nethFnPNZe86ksfRl0gh) | 2:50 |
-| 46 | [Heaven Has No Wings](https://open.spotify.com/track/2Y4hGtm2AwkE0zge2CrqB8) | [Dove Ellis](https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9) | [Blizzard](https://open.spotify.com/album/3Brw2Xdmo6VRPWwOBNye0i) | 2:50 |
+| 45 | [Heaven Has No Wings](https://open.spotify.com/track/2Y4hGtm2AwkE0zge2CrqB8) | [Dove Ellis](https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9) | [Blizzard](https://open.spotify.com/album/3Brw2Xdmo6VRPWwOBNye0i) | 2:50 |
+| 46 | [CPR](https://open.spotify.com/track/4shJVGH4xRWChBSkHHamxv) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [CPR](https://open.spotify.com/album/74nethFnPNZe86ksfRl0gh) | 2:50 |
 | 47 | [Did I Say Too Much](https://open.spotify.com/track/4f8dJP5n2xlwMYLWVuLsfS) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Did I Say Too Much](https://open.spotify.com/album/2xn4IEQqM44vDqisznRvZn) | 3:08 |
 | 48 | [Talvez](https://open.spotify.com/track/4E7WCyQAldKeTR7vwpRMTP) | [Ão](https://open.spotify.com/artist/2FnhKB01CBc0KBjcTDDOod) | [Malandra](https://open.spotify.com/album/5azfYN3PqeXTNfC00wvKs1) | 3:54 |
 | 49 | [Television Love](https://open.spotify.com/track/4eh6lldHwQEu5yyfLzqrFw) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [Television Love](https://open.spotify.com/album/2sp7hANBzhnwd3SlUZYPl0) | 4:40 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MUrG3NBYtM.md) - [plain]
 | 54 | [Legalize Living](https://open.spotify.com/track/7s4jEMchJ03AxIw7IQKZJT) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Legalize Living](https://open.spotify.com/album/50bN734086s72BiT5VNoPw) | 3:24 |
 | 55 | [Down to be wrong](https://open.spotify.com/track/2d18juMmmN1KwjFtfEj0FP) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Down to be wrong](https://open.spotify.com/album/4C5577NRnfQm2EpHvb17dW) | 4:09 |
 | 56 | [Natural Woman](https://open.spotify.com/track/3s382wKMe6FvXmwTS1bWmN) | [DeWolff](https://open.spotify.com/artist/1OHnmln4huMiBLyxBHNx0k) | [Muscle Shoals](https://open.spotify.com/album/4CgnYQ1ImIJaoxkgCmYXVt) | 3:05 |
-| 57 | [Give Me Your Love Back](https://open.spotify.com/track/070mI5fDgAV77ZBrmoAcfs) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Give Me Your Love Back](https://open.spotify.com/album/4r1zRFQ6pgIPFid4U7ztUO) | 2:56 |
-| 58 | [Reflections Of Lessons Left](https://open.spotify.com/track/574FL9nQ8WI8QGpUGRURG9) | [The Lathums](https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg) | [Matter Does Not Define](https://open.spotify.com/album/39Mj8N4ykB89bEHkl5yG9d) | 3:56 |
+| 57 | [Reflections Of Lessons Left](https://open.spotify.com/track/574FL9nQ8WI8QGpUGRURG9) | [The Lathums](https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg) | [Matter Does Not Define](https://open.spotify.com/album/39Mj8N4ykB89bEHkl5yG9d) | 3:56 |
+| 58 | [Give Me Your Love Back](https://open.spotify.com/track/070mI5fDgAV77ZBrmoAcfs) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Give Me Your Love Back](https://open.spotify.com/album/4r1zRFQ6pgIPFid4U7ztUO) | 2:56 |
 | 59 | [Orgulho](https://open.spotify.com/track/76VKddiLu5mIxtjsImvxVH) | [Ão](https://open.spotify.com/artist/2FnhKB01CBc0KBjcTDDOod) | [Orgulho](https://open.spotify.com/album/0ihdWB6qIJ2IJdLvbh6c1Y) | 4:08 |
 | 60 | [Some Girls](https://open.spotify.com/track/60A89nvhQlFnmfoQ692FLY) | [Alice Mae](https://open.spotify.com/artist/1BH0GCT0bBB4uiWFX1aruD) | [Some Girls](https://open.spotify.com/album/0n7HD6kFpthMRUCkBcngZn) | 2:37 |
 

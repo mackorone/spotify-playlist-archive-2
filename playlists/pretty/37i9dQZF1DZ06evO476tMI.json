@@ -1,12 +1,12 @@
 {
   "description": "This is Whitney Houston. The essential tracks, all in one playlist.",
-  "num_followers": 641321,
+  "num_followers": 641351,
   "original_name": "This Is Whitney Houston",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ag5LAAAAAAACYJW56qHk96pKs2FdN7kl",
+  "snapshot_id": "ag+cgAAAAABm9kd1Ldh9YXnhTgrCUuTt",
   "tracks": [
     {
       "added_at": null,
@@ -571,22 +571,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Waiting To Exhale",
-        "url": "https://open.spotify.com/album/2EHFZkzTbRFDt1tomCBToM"
+        "name": "Whitney",
+        "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
       },
       "artists": [
         {
           "name": "Whitney Houston",
           "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        },
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
         }
       ],
-      "duration_ms": 266786,
-      "name": "Count On Me - from \"Waiting to Exhale\" - Original Soundtrack",
-      "url": "https://open.spotify.com/track/7mVV7fepIMUAE4FDyihupV"
+      "duration_ms": 333536,
+      "name": "For the Love of You",
+      "url": "https://open.spotify.com/track/2MJQbnpAPKR83FFk19Bq3p"
     },
     {
       "added_at": null,
@@ -607,18 +603,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Whitney",
-        "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
+        "name": "Waiting To Exhale",
+        "url": "https://open.spotify.com/album/2EHFZkzTbRFDt1tomCBToM"
       },
       "artists": [
         {
           "name": "Whitney Houston",
           "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        },
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
         }
       ],
-      "duration_ms": 333536,
-      "name": "For the Love of You",
-      "url": "https://open.spotify.com/track/2MJQbnpAPKR83FFk19Bq3p"
+      "duration_ms": 266786,
+      "name": "Count On Me - from \"Waiting to Exhale\" - Original Soundtrack",
+      "url": "https://open.spotify.com/track/7mVV7fepIMUAE4FDyihupV"
     },
     {
       "added_at": null,
@@ -639,8 +639,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Love Is Your Love",
-        "url": "https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM"
+        "name": "Whitney",
+        "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
       },
       "artists": [
         {
@@ -648,9 +648,9 @@
           "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
         }
       ],
-      "duration_ms": 259532,
-      "name": "I Learned from the Best",
-      "url": "https://open.spotify.com/track/3wACjmQo7ZkRNMLfZXndFB"
+      "duration_ms": 258926,
+      "name": "You're Still My Man",
+      "url": "https://open.spotify.com/track/2csRQWI7A2FjLYBQBiAIoi"
     },
     {
       "added_at": null,
@@ -671,8 +671,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Whitney",
-        "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
+        "name": "My Love Is Your Love",
+        "url": "https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM"
       },
       "artists": [
         {
@@ -680,9 +680,9 @@
           "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
         }
       ],
-      "duration_ms": 258926,
-      "name": "You're Still My Man",
-      "url": "https://open.spotify.com/track/2csRQWI7A2FjLYBQBiAIoi"
+      "duration_ms": 259532,
+      "name": "I Learned from the Best",
+      "url": "https://open.spotify.com/track/3wACjmQo7ZkRNMLfZXndFB"
     },
     {
       "added_at": null,

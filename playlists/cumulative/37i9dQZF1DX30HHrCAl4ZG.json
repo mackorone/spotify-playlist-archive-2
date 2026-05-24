@@ -299,6 +299,24 @@
     },
     {
       "album": {
+        "name": "2 C U",
+        "url": "https://open.spotify.com/album/5MoouUulpYW0XWheX1Wlue"
+      },
+      "artists": [
+        {
+          "name": "Swapmeet",
+          "url": "https://open.spotify.com/artist/02ngaZWfkvv0Fzmh7FhJqj"
+        }
+      ],
+      "date_added": "2026-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139159,
+      "name": "2 C U",
+      "url": "https://open.spotify.com/track/6lUM0QGNVT65iu4aRLU3LM"
+    },
+    {
+      "album": {
         "name": "2002",
         "url": "https://open.spotify.com/album/4rJmJ9Iqe1SdQ8Sg5hmZUx"
       },
@@ -15527,6 +15545,24 @@
     },
     {
       "album": {
+        "name": "Heart Has To Work So Hard",
+        "url": "https://open.spotify.com/album/1nIWbgwX2lwqgoUDimt1oh"
+      },
+      "artists": [
+        {
+          "name": "Blondshell",
+          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
+        }
+      ],
+      "date_added": "2026-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192026,
+      "name": "Heart Has To Work So Hard",
+      "url": "https://open.spotify.com/track/4wwOje67xW4mPCf8JvmWYK"
+    },
+    {
+      "album": {
         "name": "Heartbreaker",
         "url": "https://open.spotify.com/album/6TnnmPtPOhpd5KWjWSuGba"
       },
@@ -22903,6 +22939,24 @@
     },
     {
       "album": {
+        "name": "Mice Protection",
+        "url": "https://open.spotify.com/album/2rEhabXYFtcZWk6JQ1b7F7"
+      },
+      "artists": [
+        {
+          "name": "Lowertown",
+          "url": "https://open.spotify.com/artist/1yI0RRPnOA9BFJmiZ6cEzw"
+        }
+      ],
+      "date_added": "2026-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214600,
+      "name": "Mice Protection",
+      "url": "https://open.spotify.com/track/4sCiHmLrMcfjMTP10dfVzu"
+    },
+    {
+      "album": {
         "name": "Party Favors",
         "url": "https://open.spotify.com/album/5N9MQLXbiA8hYWsej7y8Sz"
       },
@@ -24342,6 +24396,24 @@
       "duration_ms": 156477,
       "name": "Never Go",
       "url": "https://open.spotify.com/track/374rtbOx5NrgRFC9811Ghf"
+    },
+    {
+      "album": {
+        "name": "Never Have I Ever",
+        "url": "https://open.spotify.com/album/5c64n4bmCFpdsvenhcWp5z"
+      },
+      "artists": [
+        {
+          "name": "Rainbow Kitten Surprise",
+          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
+        }
+      ],
+      "date_added": "2026-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174834,
+      "name": "Never Have I Ever",
+      "url": "https://open.spotify.com/track/2Ojr742JINM4QEOk7vQGEh"
     },
     {
       "album": {
@@ -29258,7 +29330,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 204202,
       "name": "Sand",
       "url": "https://open.spotify.com/track/4L5ib7MTorgJS5BUAMizUL"

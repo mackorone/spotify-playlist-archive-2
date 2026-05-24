@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX65M5cZ23zHB.md) - [plain]
 
 > A collection of timeless queer love songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,147 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,156 likes - 50 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX65M5cZ23zHB.md) - [plain]
 | 17 | [Closer](https://open.spotify.com/track/4dTVgHZFPlaq9nPbLVVLSG) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Heartthrob](https://open.spotify.com/album/5IUJ6v408Z7pECC3BXUJxX) | 3:30 |
 | 18 | [Come To My Window](https://open.spotify.com/track/4LmlGaGTEbTGE5VngAbpA3) | [Melissa Etheridge](https://open.spotify.com/artist/01Ppu7N8uYJI8SAONo2YZA) | [Yes I Am](https://open.spotify.com/album/1qzfqlEyzPD0VyCcSSQwZD) | 3:56 |
 | 19 | [I Was Born To Love You \- 2011 Remaster](https://open.spotify.com/track/7DtdhIJlSSOaAFNk4JdXCb) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Made In Heaven \(Deluxe Edition 2011 Remaster\)](https://open.spotify.com/album/274tWwrhGJy0IFeMENjWi7) | 4:49 |
-| 20 | [Rebel Girl](https://open.spotify.com/track/0XyjtybwqSdqMAFfBEkmZf) | [Bikini Kill](https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe) | [The Punk Singer \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7DoTlKAupC8rNAdb0tNmZ2) | 2:37 |
-| 21 | [Don't Go Breaking My Heart](https://open.spotify.com/track/5pKJtX4wBeby9qIfFhyOJj) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Kiki Dee](https://open.spotify.com/artist/4vjGlQWexbru6aOUCLTVir) | [To Be Continued...](https://open.spotify.com/album/7iKDBfOFUtg8E8RbuDhiux) | 4:31 |
+| 20 | [Don't Go Breaking My Heart](https://open.spotify.com/track/5pKJtX4wBeby9qIfFhyOJj) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Kiki Dee](https://open.spotify.com/artist/4vjGlQWexbru6aOUCLTVir) | [To Be Continued...](https://open.spotify.com/album/7iKDBfOFUtg8E8RbuDhiux) | 4:31 |
+| 21 | [Rebel Girl](https://open.spotify.com/track/0XyjtybwqSdqMAFfBEkmZf) | [Bikini Kill](https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe) | [The Punk Singer \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7DoTlKAupC8rNAdb0tNmZ2) | 2:37 |
 | 22 | [Love And Affection](https://open.spotify.com/track/6Mnne5V9ZifNID59dswUcZ) | [Joan Armatrading](https://open.spotify.com/artist/1bdAJUX6JPsnYHbTl5jbk6) | [Joan Armatrading](https://open.spotify.com/album/3BsE4yVwIOxM38hDnzrMlx) | 4:32 |
 | 23 | [I Got The...](https://open.spotify.com/track/2tQKA7DAqoVX8ouYgNpHHl) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [The Music Of Labi Siffre](https://open.spotify.com/album/7tyc9SuNusJlTI6Dkhsajy) | 6:24 |
 | 24 | [Blind](https://open.spotify.com/track/7rWS1umX04r7zzWnGNDu8w) | [Hercules & Love Affair](https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W) | [Hercules & Love Affair](https://open.spotify.com/album/6LPZgo0gjHTMmOwzMSUqAV) | 6:16 |
@@ -42,14 +42,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX65M5cZ23zHB.md) - [plain]
 | 32 | [Miss Chatelaine](https://open.spotify.com/track/4EtgMdgRhQuIDk8bfBP4Uk) | [k.d\. lang](https://open.spotify.com/artist/6W1BHDF0T4a4KYcSwzD586) | [Ingénue \(25th Anniversary Edition\)](https://open.spotify.com/album/1XHEQqyatYvfK5cEJfkPeK) | 3:49 |
 | 33 | [Closer to You](https://open.spotify.com/track/0MggXP5ci9f9ei85Lgt2dI) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Brandi Carlile](https://open.spotify.com/album/2NdmuraIk63vprGfnnr3rD) | 2:51 |
 | 34 | [Good Guys](https://open.spotify.com/track/6wCO5ogfiksJRDpYysqhKE) | [MIKA](https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA) | [No Place In Heaven](https://open.spotify.com/album/6zVIADLuIrdkiChta3XiSo) | 3:23 |
-| 35 | [Who Am I](https://open.spotify.com/track/74l0jBScdgJr6guky8aMXS) | [Will Young](https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7) | [Keep On](https://open.spotify.com/album/7G7cYqdhZqAivcQbvOtHUH) | 4:27 |
-| 36 | [Memoir](https://open.spotify.com/track/0z21vE4xHXXYSyXkOLDUXF) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [The Waves](https://open.spotify.com/album/6tgcCHvlpGnpHFpd5kfABz) | 3:32 |
+| 35 | [Memoir](https://open.spotify.com/track/0z21vE4xHXXYSyXkOLDUXF) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [The Waves](https://open.spotify.com/album/6tgcCHvlpGnpHFpd5kfABz) | 3:32 |
+| 36 | [Who Am I](https://open.spotify.com/track/74l0jBScdgJr6guky8aMXS) | [Will Young](https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7) | [Keep On](https://open.spotify.com/album/7G7cYqdhZqAivcQbvOtHUH) | 4:27 |
 | 37 | [Love They Say](https://open.spotify.com/track/38GMZWLQs4NDvBtrIKRvNh) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Heartthrob](https://open.spotify.com/album/5IUJ6v408Z7pECC3BXUJxX) | 3:34 |
 | 38 | [Men In Love](https://open.spotify.com/track/4YJByhpWsORTTFgSl5tL76) | [Gossip](https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR) | [Music For Men](https://open.spotify.com/album/1GB8gZTSdbiup5FzxNknRo) | 3:40 |
 | 39 | [Count On My Love](https://open.spotify.com/track/42uyTxp8q9TpPkoyB4FG1M) | [Liz Phair](https://open.spotify.com/artist/2LXeJdQVcFkhkWydphLI74) | [Somebody's Miracle](https://open.spotify.com/album/36v4Zu6EghgWxv7GHJfdcv) | 3:41 |
-| 40 | [Daniel](https://open.spotify.com/track/4SerjQeo3bR6As5BsR8liB) | [Will Young](https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7) | [Crying on the Bathroom Floor](https://open.spotify.com/album/6LpOq2g6EKNdl07wo3qyWJ) | 4:37 |
-| 41 | [Let Us Dance](https://open.spotify.com/track/79eAhQg3DC770z8t1tzIPL) | [Beverly Glenn\-Copeland](https://open.spotify.com/artist/2bN5hXtWZXEIfnHO34eXfe) | [Keyboard Fantasies](https://open.spotify.com/album/3U4V4WwMxXaHIjRnDQqaXK) | 7:24 |
-| 42 | [Take Me I'm Yours](https://open.spotify.com/track/1lZV08zhFneKACPkVnjScM) | [Jobriath](https://open.spotify.com/artist/4FxPaLo3DIZCmKsYuhjkhA) | [Jobriath](https://open.spotify.com/album/2yQtSuU9flHpz4LbeNVfKT) | 4:18 |
+| 40 | [Take Me I'm Yours](https://open.spotify.com/track/1lZV08zhFneKACPkVnjScM) | [Jobriath](https://open.spotify.com/artist/4FxPaLo3DIZCmKsYuhjkhA) | [Jobriath](https://open.spotify.com/album/2yQtSuU9flHpz4LbeNVfKT) | 4:18 |
+| 41 | [Daniel](https://open.spotify.com/track/4SerjQeo3bR6As5BsR8liB) | [Will Young](https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7) | [Crying on the Bathroom Floor](https://open.spotify.com/album/6LpOq2g6EKNdl07wo3qyWJ) | 4:37 |
+| 42 | [Let Us Dance](https://open.spotify.com/track/79eAhQg3DC770z8t1tzIPL) | [Beverly Glenn\-Copeland](https://open.spotify.com/artist/2bN5hXtWZXEIfnHO34eXfe) | [Keyboard Fantasies](https://open.spotify.com/album/3U4V4WwMxXaHIjRnDQqaXK) | 7:24 |
 | 43 | [Tender Comrade](https://open.spotify.com/track/2Rdocl8BdYWOSMAyZgTh4v) | [Billy Bragg](https://open.spotify.com/artist/5yXAFDZNUNyO92l5WTImkO) | [Workers Playtime](https://open.spotify.com/album/3IDRk9hZRyYpq8DzN6jOKT) | 2:50 |
 | 44 | [Power of Love](https://open.spotify.com/track/1KI50zrJFiJ8GgJMmi4EI8) | [Sylvester](https://open.spotify.com/artist/5TGTpu4g8siFOIctZuQO7y) | [Call Me](https://open.spotify.com/album/4KKh9HkIgvLZWaMpsF200Y) | 5:25 |
 | 45 | [John & Joe](https://open.spotify.com/track/4WAC6mosPEmNANxBATKDdC) | [Paxton](https://open.spotify.com/artist/20s9zlqU2bhwkhfUQsKSik) | [Paxton](https://open.spotify.com/album/7aToO8WdlovzS8oAlLHqxy) | 4:46 |

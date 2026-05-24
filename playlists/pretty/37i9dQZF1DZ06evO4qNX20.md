@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4qNX20.md) - [plain]
 
 > This is Chalino Sanchez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 346,423 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 346,460 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4qNX20.md) - [plain]
 | 45 | [El Sapo \- Remastered 2025](https://open.spotify.com/track/4rI1lvOtfHKIkKuPyC4k31) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [Más Éxitos con Chalino Sánchez \(Remastered 2025\)](https://open.spotify.com/album/60lbOsjz2mb4daGTXsdpdt) | 4:10 |
 | 46 | [El Dos Dedos \- Remastered 2025](https://open.spotify.com/track/6GtZB79gVl90m00jf2lYoa) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [El Pela Vacas \(Remastered 2025\)](https://open.spotify.com/album/3kqaoP6prh0lMtb9VtPbVV) | 3:27 |
 | 47 | [Que Me Entierren Cantando](https://open.spotify.com/track/7LgBi7LRxHxpK2tyPc5WUb) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [Los Inmortales](https://open.spotify.com/album/51akbQSZNbuRA3UHdoS8s5) | 2:43 |
-| 48 | [Prajedes Félix](https://open.spotify.com/track/1u2zuqcikdm9WCRb2hfjtt) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq), [Los Amables Del Norte](https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K) | [Corridos De Los Félix Y Los Quintero](https://open.spotify.com/album/0UoFhcatSN6tPV20Df2mrc) | 4:30 |
-| 49 | [Lucero Negro](https://open.spotify.com/track/4jFiwrmMjzyawUvrjzLQU9) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [Hermosísimo Lucero](https://open.spotify.com/album/5QNjrUgXwBtY6c3aArcCfT) | 3:22 |
+| 48 | [Lucero Negro](https://open.spotify.com/track/4jFiwrmMjzyawUvrjzLQU9) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [Hermosísimo Lucero](https://open.spotify.com/album/5QNjrUgXwBtY6c3aArcCfT) | 3:22 |
+| 49 | [Prajedes Félix](https://open.spotify.com/track/1u2zuqcikdm9WCRb2hfjtt) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq), [Los Amables Del Norte](https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K) | [Corridos De Los Félix Y Los Quintero](https://open.spotify.com/album/0UoFhcatSN6tPV20Df2mrc) | 4:30 |
 | 50 | [El Branco Fajiado](https://open.spotify.com/track/7wcumrISUbC0j0QWFOlTvy) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [Puros Éxitos de Colección!](https://open.spotify.com/album/14GVG63R0wtjny1CYM6Lp3) | 2:41 |
 
-Snapshot ID: `ag5LAAAAAAACbknJrKBLGr7QBp6ofRPO`
+Snapshot ID: `ag+cgAAAAACkgR8TGuje36HZxq1PRghr`

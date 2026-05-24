@@ -1,12 +1,12 @@
 {
   "description": "This is Tasha Cobbs Leonard. The essential tracks, all in one playlist.",
-  "num_followers": 37487,
+  "num_followers": 37494,
   "original_name": "This Is Tasha Cobbs Leonard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ag5LAAAAAAB05W/rfYcTSUflzsSl26bU",
+  "snapshot_id": "ag+cgAAAAAD7eTyOyRd4no0a9CeE9yFp",
   "tracks": [
     {
       "added_at": null,
@@ -468,25 +468,9 @@
           "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
         }
       ],
-      "duration_ms": 85568,
-      "name": "Agnus Dei - Live",
-      "url": "https://open.spotify.com/track/2zSokIMYeayfu5SlZ6WySJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "1 Mic 1 Take",
-        "url": "https://open.spotify.com/album/5n9MXmKpCKEryX2oITZ6H1"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 307140,
-      "name": "Fill Me Up / Overflow - Medley/1 Mic 1 Take",
-      "url": "https://open.spotify.com/track/5K4x0ZKK32t6EWbrhzOoV1"
+      "duration_ms": 262124,
+      "name": "Burdens Down - Live",
+      "url": "https://open.spotify.com/track/7x7pUk4nHoFyLIr5EJR97X"
     },
     {
       "added_at": null,
@@ -527,6 +511,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "1 Mic 1 Take",
+        "url": "https://open.spotify.com/album/5n9MXmKpCKEryX2oITZ6H1"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 307140,
+      "name": "Fill Me Up / Overflow - Medley/1 Mic 1 Take",
+      "url": "https://open.spotify.com/track/5K4x0ZKK32t6EWbrhzOoV1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hymns (Live)",
         "url": "https://open.spotify.com/album/1ZecqYyaNHmlU7zXhkuk6u"
       },
@@ -536,9 +536,9 @@
           "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
         }
       ],
-      "duration_ms": 262124,
-      "name": "Burdens Down - Live",
-      "url": "https://open.spotify.com/track/7x7pUk4nHoFyLIr5EJR97X"
+      "duration_ms": 85568,
+      "name": "Agnus Dei - Live",
+      "url": "https://open.spotify.com/track/2zSokIMYeayfu5SlZ6WySJ"
     },
     {
       "added_at": null,
@@ -611,6 +611,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Heart. Passion. Pursuit.: Live At Passion City Church",
+        "url": "https://open.spotify.com/album/3to6tIB6taMg12hPGxfyyN"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 131333,
+      "name": "God's About To Do It - Live",
+      "url": "https://open.spotify.com/track/6o2nGV8dMKZW3uLx40liV6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Heart. Passion. Pursuit. (Deluxe)",
         "url": "https://open.spotify.com/album/7BQ2sFd1DNrETEw8xXPUHG"
       },
@@ -627,18 +643,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heart. Passion. Pursuit.: Live At Passion City Church",
-        "url": "https://open.spotify.com/album/3to6tIB6taMg12hPGxfyyN"
+        "name": "One Hallelujah",
+        "url": "https://open.spotify.com/album/6PC1CBTlJ7WaV6YC62jVbn"
       },
       "artists": [
         {
           "name": "Tasha Cobbs Leonard",
           "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        },
+        {
+          "name": "Erica Campbell",
+          "url": "https://open.spotify.com/artist/46CCmeVLrgc6MnyVpVMOzp"
+        },
+        {
+          "name": "Israel Houghton",
+          "url": "https://open.spotify.com/artist/7pUnaNwiKa3p27L1EwB4X6"
+        },
+        {
+          "name": "Jonathan McReynolds",
+          "url": "https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9"
+        },
+        {
+          "name": "Jekalyn Carr",
+          "url": "https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH"
         }
       ],
-      "duration_ms": 131333,
-      "name": "God's About To Do It - Live",
-      "url": "https://open.spotify.com/track/6o2nGV8dMKZW3uLx40liV6"
+      "duration_ms": 345179,
+      "name": "One Hallelujah",
+      "url": "https://open.spotify.com/track/1nJYjT357z2vQAMAbuoTno"
     },
     {
       "added_at": null,
@@ -691,38 +723,6 @@
       "duration_ms": 222082,
       "name": "Already Good (Tasha Slide)",
       "url": "https://open.spotify.com/track/2t79W2Spqw1Bm2ohSYJAxa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "One Hallelujah",
-        "url": "https://open.spotify.com/album/6PC1CBTlJ7WaV6YC62jVbn"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        },
-        {
-          "name": "Erica Campbell",
-          "url": "https://open.spotify.com/artist/46CCmeVLrgc6MnyVpVMOzp"
-        },
-        {
-          "name": "Israel Houghton",
-          "url": "https://open.spotify.com/artist/7pUnaNwiKa3p27L1EwB4X6"
-        },
-        {
-          "name": "Jonathan McReynolds",
-          "url": "https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9"
-        },
-        {
-          "name": "Jekalyn Carr",
-          "url": "https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH"
-        }
-      ],
-      "duration_ms": 345179,
-      "name": "One Hallelujah",
-      "url": "https://open.spotify.com/track/1nJYjT357z2vQAMAbuoTno"
     },
     {
       "added_at": null,

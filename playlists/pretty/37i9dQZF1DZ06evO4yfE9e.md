@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4yfE9e.md) - [plain]
 
 > This is bludnymph\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,818 likes - 31 songs - 1 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,820 likes - 31 songs - 1 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,4 +40,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4yfE9e.md) - [plain]
 | 30 | [Steve Aoki \(feat\. bludnymph\)](https://open.spotify.com/track/5Vf85Sp6tL4z87tAL5thDx) | [Wreckno](https://open.spotify.com/artist/6j78LtFLqDG65Ju57NUM5N), [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Steve Aoki \(feat\. bludnymph\)](https://open.spotify.com/album/3KHtnDwODoQvyY7mB2FtC6) | 2:30 |
 | 31 | [Wishin](https://open.spotify.com/track/0jXAVglTzvblAEV8ctD5ou) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX), [Indigowavv](https://open.spotify.com/artist/2yzeix2G6wK5nEJAudnC4Z) | [Wishin](https://open.spotify.com/album/4MuJLxFax2HZAMwl8xdhzv) | 2:53 |
 
-Snapshot ID: `ag5LAAAAAACH8IvfBzadIRYKbIj5dbBZ`
+Snapshot ID: `ag+cgAAAAAAkK/NGHaLhn0ti3QwJNIr/`

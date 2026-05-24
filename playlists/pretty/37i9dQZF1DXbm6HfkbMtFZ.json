@@ -1,6 +1,6 @@
 {
   "description": "An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.",
-  "num_followers": 840855,
+  "num_followers": 840908,
   "original_name": "Feel Good Dinner",
   "owner": {
     "name": "Spotify",
@@ -471,6 +471,22 @@
     {
       "added_at": "2026-05-18 19:19:44",
       "album": {
+        "name": "Soundtrack For A Movie That Has Not Been Written Yet",
+        "url": "https://open.spotify.com/album/64Mjew6Y6wqkhbz7qYLIxS"
+      },
+      "artists": [
+        {
+          "name": "Rikas",
+          "url": "https://open.spotify.com/artist/3OWO2LOPTl1u6XvJHkwHmd"
+        }
+      ],
+      "duration_ms": 173640,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/4vlkvsD7xAB2MqOZYgSBlb"
+    },
+    {
+      "added_at": "2026-05-18 19:19:44",
+      "album": {
         "name": "Eddie",
         "url": "https://open.spotify.com/album/5FTrv0ut24vm76hx1WuWSN"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 290893,
       "name": "Out Of Love",
       "url": "https://open.spotify.com/track/3hNywmR93yvj68y2zl8mRt"
-    },
-    {
-      "added_at": "2026-05-18 19:19:44",
-      "album": {
-        "name": "Soundtrack For A Movie That Has Not Been Written Yet",
-        "url": "https://open.spotify.com/album/64Mjew6Y6wqkhbz7qYLIxS"
-      },
-      "artists": [
-        {
-          "name": "Rikas",
-          "url": "https://open.spotify.com/artist/3OWO2LOPTl1u6XvJHkwHmd"
-        }
-      ],
-      "duration_ms": 173640,
-      "name": "Strangers",
-      "url": "https://open.spotify.com/track/4vlkvsD7xAB2MqOZYgSBlb"
     },
     {
       "added_at": "2026-05-18 19:19:44",
@@ -539,22 +539,6 @@
     {
       "added_at": "2026-05-18 19:19:44",
       "album": {
-        "name": "11",
-        "url": "https://open.spotify.com/album/0e5GuQaryu1bLZL9Gk3hS8"
-      },
-      "artists": [
-        {
-          "name": "SAULT",
-          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
-        }
-      ],
-      "duration_ms": 297717,
-      "name": "Fight for Love",
-      "url": "https://open.spotify.com/track/1LPQheJpIsG8rlUkCmZx2D"
-    },
-    {
-      "added_at": "2026-05-18 19:19:44",
-      "album": {
         "name": "If My Wife New I'd Be Dead (Deluxe)",
         "url": "https://open.spotify.com/album/0xItOwIAddsdxIZBHJyJYh"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 244693,
       "name": "I Don't Really Care for You",
       "url": "https://open.spotify.com/track/38x9U1nlxCblWCmu6g4mPy"
+    },
+    {
+      "added_at": "2026-05-18 19:19:44",
+      "album": {
+        "name": "11",
+        "url": "https://open.spotify.com/album/0e5GuQaryu1bLZL9Gk3hS8"
+      },
+      "artists": [
+        {
+          "name": "SAULT",
+          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
+        }
+      ],
+      "duration_ms": 297717,
+      "name": "Fight for Love",
+      "url": "https://open.spotify.com/track/1LPQheJpIsG8rlUkCmZx2D"
     },
     {
       "added_at": "2026-05-18 19:19:44",
@@ -811,22 +811,6 @@
     {
       "added_at": "2026-05-18 19:19:44",
       "album": {
-        "name": "I Got You",
-        "url": "https://open.spotify.com/album/2JmTTmTc2j0xWYba6DzqsX"
-      },
-      "artists": [
-        {
-          "name": "Dojo Cuts",
-          "url": "https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "I Got You",
-      "url": "https://open.spotify.com/track/58CA5g0ZdqNs8muUjJOOBt"
-    },
-    {
-      "added_at": "2026-05-18 19:19:44",
-      "album": {
         "name": "Uneasy - Metronomy x spill tab",
         "url": "https://open.spotify.com/album/3XRHpM3LFOWY9nnWwKCKyv"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 203262,
       "name": "Uneasy - Metronomy x spill tab",
       "url": "https://open.spotify.com/track/6HOXiIuMfKzEpWsdZ02wZL"
+    },
+    {
+      "added_at": "2026-05-18 19:19:44",
+      "album": {
+        "name": "I Got You",
+        "url": "https://open.spotify.com/album/2JmTTmTc2j0xWYba6DzqsX"
+      },
+      "artists": [
+        {
+          "name": "Dojo Cuts",
+          "url": "https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "I Got You",
+      "url": "https://open.spotify.com/track/58CA5g0ZdqNs8muUjJOOBt"
     },
     {
       "added_at": "2026-05-18 19:19:44",
@@ -979,22 +979,6 @@
     {
       "added_at": "2026-05-18 19:19:44",
       "album": {
-        "name": "Wanted Bossa Nova: From Diggers to Music Lovers",
-        "url": "https://open.spotify.com/album/78QZeFmsqxeoh5BBDfmYRs"
-      },
-      "artists": [
-        {
-          "name": "Salinas",
-          "url": "https://open.spotify.com/artist/6qyOdseTD2phSLMwXPohSk"
-        }
-      ],
-      "duration_ms": 156537,
-      "name": "Tenha F\u00e9, Pois Amanh\u00e3 um Lindo Dia Vai Nascer",
-      "url": "https://open.spotify.com/track/6gq1nXRbVZYcOxtG20uC2t"
-    },
-    {
-      "added_at": "2026-05-18 19:19:44",
-      "album": {
         "name": "The Sun",
         "url": "https://open.spotify.com/album/4bIKzeSEz3WAgyo7NYG0SJ"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 248526,
       "name": "The Sun",
       "url": "https://open.spotify.com/track/4KIoUrQlMx3PFtRmPNbgAv"
+    },
+    {
+      "added_at": "2026-05-18 19:19:44",
+      "album": {
+        "name": "Wanted Bossa Nova: From Diggers to Music Lovers",
+        "url": "https://open.spotify.com/album/78QZeFmsqxeoh5BBDfmYRs"
+      },
+      "artists": [
+        {
+          "name": "Salinas",
+          "url": "https://open.spotify.com/artist/6qyOdseTD2phSLMwXPohSk"
+        }
+      ],
+      "duration_ms": 156537,
+      "name": "Tenha F\u00e9, Pois Amanh\u00e3 um Lindo Dia Vai Nascer",
+      "url": "https://open.spotify.com/track/6gq1nXRbVZYcOxtG20uC2t"
     },
     {
       "added_at": "2026-05-18 19:19:44",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2026-05-18 19:19:44",
       "album": {
+        "name": "Small Talk",
+        "url": "https://open.spotify.com/album/2V5ZSRBGvmyHmlLGNC6Nt0"
+      },
+      "artists": [
+        {
+          "name": "Hope Winter",
+          "url": "https://open.spotify.com/artist/0z6HuSgeJW8svCflyICYN6"
+        }
+      ],
+      "duration_ms": 188870,
+      "name": "Small Talk",
+      "url": "https://open.spotify.com/track/64YlBjot2BfgtQElfOKN3D"
+    },
+    {
+      "added_at": "2026-05-18 19:19:44",
+      "album": {
         "name": "Homegrown",
         "url": "https://open.spotify.com/album/4vAakYtJWrer6lENSAP19l"
       },
@@ -1147,22 +1163,6 @@
       "duration_ms": 104067,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/15hp88Fwgqi3HgY2hq6cyi"
-    },
-    {
-      "added_at": "2026-05-18 19:19:44",
-      "album": {
-        "name": "Small Talk",
-        "url": "https://open.spotify.com/album/2V5ZSRBGvmyHmlLGNC6Nt0"
-      },
-      "artists": [
-        {
-          "name": "Hope Winter",
-          "url": "https://open.spotify.com/artist/0z6HuSgeJW8svCflyICYN6"
-        }
-      ],
-      "duration_ms": 188870,
-      "name": "Small Talk",
-      "url": "https://open.spotify.com/track/64YlBjot2BfgtQElfOKN3D"
     },
     {
       "added_at": "2026-05-18 19:19:44",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2026-05-18 19:19:44",
       "album": {
-        "name": "Take What's Given",
-        "url": "https://open.spotify.com/album/5SApZEPFs4QKsM2jJNas7F"
-      },
-      "artists": [
-        {
-          "name": "BADBADNOTGOOD",
-          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
-        }
-      ],
-      "duration_ms": 174257,
-      "name": "Take What's Given",
-      "url": "https://open.spotify.com/track/1QHAegssMExNfItsAaUJiY"
-    },
-    {
-      "added_at": "2026-05-18 19:19:44",
-      "album": {
         "name": "If Words Were Flowers",
         "url": "https://open.spotify.com/album/0msliOKoJh1aYmcpuEoBn2"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 168066,
       "name": "If Words Were Flowers",
       "url": "https://open.spotify.com/track/2q2q3t7Eke7DoNhnxPXeDG"
+    },
+    {
+      "added_at": "2026-05-18 19:19:44",
+      "album": {
+        "name": "Take What's Given",
+        "url": "https://open.spotify.com/album/5SApZEPFs4QKsM2jJNas7F"
+      },
+      "artists": [
+        {
+          "name": "BADBADNOTGOOD",
+          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
+        }
+      ],
+      "duration_ms": 174257,
+      "name": "Take What's Given",
+      "url": "https://open.spotify.com/track/1QHAegssMExNfItsAaUJiY"
     },
     {
       "added_at": "2026-05-18 19:19:44",
@@ -1775,22 +1775,6 @@
     {
       "added_at": "2026-05-18 19:19:44",
       "album": {
-        "name": "Picture Frame",
-        "url": "https://open.spotify.com/album/6LaTToJMRmCo1Wtxb2NyhU"
-      },
-      "artists": [
-        {
-          "name": "Hector Morlet",
-          "url": "https://open.spotify.com/artist/1xgCILfNVWEJx7EBN1rC2A"
-        }
-      ],
-      "duration_ms": 195276,
-      "name": "Picture Frame",
-      "url": "https://open.spotify.com/track/0DkZynmdHveUtwaas1Xj2m"
-    },
-    {
-      "added_at": "2026-05-18 19:19:44",
-      "album": {
         "name": "Favorite Kind of People",
         "url": "https://open.spotify.com/album/2g1spSyk5dA2ka1YziVMZm"
       },
@@ -1803,6 +1787,22 @@
       "duration_ms": 184776,
       "name": "Favorite Kind of People",
       "url": "https://open.spotify.com/track/0ZNFlOHQag4iWB7xeJ4DTz"
+    },
+    {
+      "added_at": "2026-05-18 19:19:44",
+      "album": {
+        "name": "Picture Frame",
+        "url": "https://open.spotify.com/album/6LaTToJMRmCo1Wtxb2NyhU"
+      },
+      "artists": [
+        {
+          "name": "Hector Morlet",
+          "url": "https://open.spotify.com/artist/1xgCILfNVWEJx7EBN1rC2A"
+        }
+      ],
+      "duration_ms": 195276,
+      "name": "Picture Frame",
+      "url": "https://open.spotify.com/track/0DkZynmdHveUtwaas1Xj2m"
     },
     {
       "added_at": "2026-05-18 19:19:44",
@@ -1939,6 +1939,22 @@
     {
       "added_at": "2026-05-18 19:19:44",
       "album": {
+        "name": "My Dirty Desire / Dreaming In Slow Motion",
+        "url": "https://open.spotify.com/album/4QfaBZBXxHeEGY6Me3damM"
+      },
+      "artists": [
+        {
+          "name": "Pale Jay",
+          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
+        }
+      ],
+      "duration_ms": 206963,
+      "name": "My Dirty Desire",
+      "url": "https://open.spotify.com/track/2tFnhS8QB268yDYnwAUBdH"
+    },
+    {
+      "added_at": "2026-05-18 19:19:44",
+      "album": {
         "name": "Light Speaks the Quilt",
         "url": "https://open.spotify.com/album/3maM5jsIfu1ALqYLr0Viov"
       },
@@ -1967,26 +1983,6 @@
       "duration_ms": 227600,
       "name": "Tell Me With Your Eyes (Just Be You)",
       "url": "https://open.spotify.com/track/0kO8fvAqoXIOLMybjJY108"
-    },
-    {
-      "added_at": "2026-05-18 19:19:44",
-      "album": {
-        "name": "S.O.L. EP",
-        "url": "https://open.spotify.com/album/2dSeTSbKTzauej8icTIzdk"
-      },
-      "artists": [
-        {
-          "name": "Bibio",
-          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
-        },
-        {
-          "name": "Olivier St.Louis",
-          "url": "https://open.spotify.com/artist/0HHMWJfJPFFuZqnv2rSsyI"
-        }
-      ],
-      "duration_ms": 349026,
-      "name": "S.O.L.",
-      "url": "https://open.spotify.com/track/2FkLjsFnK6H9iuoXNLGfNy"
     }
   ],
   "unique_name": "Feel Good Dinner",

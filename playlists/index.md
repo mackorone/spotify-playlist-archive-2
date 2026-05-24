@@ -1,4 +1,4 @@
-## Playlists \(9211\)
+## Playlists \(9212\)
 
 - [!!!](/playlists/pretty/37i9dQZF1DWW1yuCSjnKtM.md)
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
@@ -3537,6 +3537,7 @@
 - [Kids B\-day Party](/playlists/pretty/6PzNMpCPMDMo1pOUjNhDUC.md)
 - [Kids Christmas](/playlists/pretty/37i9dQZF1DX6IZDpJNxVZP.md)
 - [Kids Music](/playlists/pretty/0Gy1TwCxPFTMCiwxGLVkc1.md)
+- [Kids Music Videos](/playlists/pretty/37i9dQZF1DXaxoSJWuftUi.md)
 - [Kids Workout](/playlists/pretty/37i9dQZF1DWWdHnKrQaItY.md)
 - [Kids' editors' picks: Best kids songs of 2025](/playlists/pretty/37i9dQZF1DXbfRwViuerGJ.md)
 - [Kidz Bop Party](/playlists/pretty/37i9dQZF1DWZGe3coPVOS4.md)
@@ -3780,7 +3781,7 @@
 - [Liner Voice+  Awich『THE UNION』](/playlists/pretty/37i9dQZF1DXcZ0D9Pii8ub.md)
 - [Liner Voice+ SiM『PLAYDEAD』](/playlists/pretty/37i9dQZF1DWUAK58Yov6Re.md)
 - [Liricisti](/playlists/pretty/37i9dQZF1DX5e23vWCjL5N.md)
-- [Lista de LOS40 \(Oficial\) \- Taylor Swift en el Nº1](/playlists/pretty/2z7k6r8z0OlXuDsIuy80ZN.md)
+- [Lista de LOS40 \(Oficial\) \- Olivia Rodrigo en el Nº1](/playlists/pretty/2z7k6r8z0OlXuDsIuy80ZN.md)
 - [Little Mix: Pride](/playlists/pretty/37i9dQZF1DX7wHseZmxqFF.md)
 - [Live Gospel](/playlists/pretty/37i9dQZF1DWYW0wKwdPj2g.md)
 - [Livet på Bøgda!](/playlists/pretty/37i9dQZF1DXa5zM0UrfG4s.md)

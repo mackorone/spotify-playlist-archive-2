@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaHuo0R6jTxZ.md) - [plain]
 
 > The biggest Arabic song in the 1990's\. Cover : Amr Diab
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,079 likes - 40 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,107 likes - 40 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaHuo0R6jTxZ.md) - [plain]
 | 2 | [Ana Le Habiby](https://open.spotify.com/track/7cjCNwAwKNjgxfjt1TzK4e) | [Fairuz](https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV) | [Ya Reit](https://open.spotify.com/album/10Vt1wAg974t1k5A8Z1jwp) | 3:02 |
 | 3 | [Albi Eshi’ha](https://open.spotify.com/track/4xSukcHWU8LrtWSTjOInpM) | [Ragheb Alama](https://open.spotify.com/artist/6uOgBVYHvqTGAQ5iVHDVT7) | [Alby Eshekha](https://open.spotify.com/album/75u5u50zTx0gw9RwVtwt90) | 5:44 |
 | 4 | [Ya Magnon](https://open.spotify.com/track/0Tiq0Glqoi6AFMpiLRLX8M) | [Assala](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Ya Magnoon](https://open.spotify.com/album/3hFgffTpdfDu4y3fOnOs7X) | 4:32 |
-| 5 | [Eskandarany](https://open.spotify.com/track/7ASLjRJBMltLFRyDKmOdbo) | [Moustafa Amar](https://open.spotify.com/artist/138TnQ2OZ2ObFHOjKASDvC) | [Layalyki](https://open.spotify.com/album/4GrJfxi95PEpCKmi2WVZGq) | 3:48 |
-| 6 | [Malhomsh Fel Tayeb](https://open.spotify.com/track/6amGvLtCwPRzsXvra8toV8) | [Ehab Tawfik](https://open.spotify.com/artist/7AuBGlcUaHok37yr6u963C) | [Yashak Amar](https://open.spotify.com/album/0TiLIrZnWWOfbQekPaINIi) | 6:12 |
+| 5 | [Malhomsh Fel Tayeb](https://open.spotify.com/track/6amGvLtCwPRzsXvra8toV8) | [Ehab Tawfik](https://open.spotify.com/artist/7AuBGlcUaHok37yr6u963C) | [Yashak Amar](https://open.spotify.com/album/0TiLIrZnWWOfbQekPaINIi) | 6:12 |
+| 6 | [Eskandarany](https://open.spotify.com/track/7ASLjRJBMltLFRyDKmOdbo) | [Moustafa Amar](https://open.spotify.com/artist/138TnQ2OZ2ObFHOjKASDvC) | [Layalyki](https://open.spotify.com/album/4GrJfxi95PEpCKmi2WVZGq) | 3:48 |
 | 7 | [Sallimleh Alayh](https://open.spotify.com/track/2gVHZ9GmBjUX76jaI2syD7) | [Fairuz](https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV) | [Mish Kayan Hayek T'Koun](https://open.spotify.com/album/2ghb9Yy8zjyrgamm3SRzdI) | 5:50 |
 | 8 | [Douha alia](https://open.spotify.com/track/2iz9jESHTKPur1zuTzJkru) | [Cheb Mami](https://open.spotify.com/artist/6vZXamchcIOKzC1c3Elp4J) | [let me rai](https://open.spotify.com/album/2ZjDMSjs84eCv6SVGvxExW) | 4:17 |
 | 9 | [Moush Hadaaf](https://open.spotify.com/track/3pozehDmGhW7KSCbYbDW6j) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Nour El Ein](https://open.spotify.com/album/3qZ0kZ8d3F8EpvEyx0yemA) | 5:20 |
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaHuo0R6jTxZ.md) - [plain]
 | 28 | [Yabo Khad](https://open.spotify.com/track/6RxNHl2RBomzslMDUCej8y) | [Fares](https://open.spotify.com/artist/501dBaY3hLn5aEWoOZha1k) | [High Quality Vol 1](https://open.spotify.com/album/1vQWKCqtIJjJYaJlKtFWxN) | 3:45 |
 | 29 | [Lola El Sahar](https://open.spotify.com/track/5r7SAP3IBS6QlAiAaXAVJe) | [Mohamed Mounir](https://open.spotify.com/artist/6hPNpOLunxxpXVwi696pYl) | [Oriental Party](https://open.spotify.com/album/1SsqOs7d7QpS3kpuzj6IjX) | 3:34 |
 | 30 | [Awel Hob](https://open.spotify.com/track/0T76gVA9dWVl5MMNvpOXBB) | [Amer Mounib](https://open.spotify.com/artist/4HUxfxFqEQGqkqWbiyy4m0) | [Awel Hob](https://open.spotify.com/album/2gmPGyl7gTcWAtDZyI0xkO) | 4:16 |
-| 31 | [فاضل ايه](https://open.spotify.com/track/7gxYjbdGWDKZRi5E1HfScd) | [Talaat Zain](https://open.spotify.com/artist/361np6UFfeQfVBjYoB3cwA) | [تيكي تا](https://open.spotify.com/album/06ViZXDfKo0NcHRtncjwjI) | 4:04 |
-| 32 | [عشان بحبك](https://open.spotify.com/track/218ZPN6u1JxiM8qzHmAzmS) | [Latifa](https://open.spotify.com/artist/1PuTOfIYIEdoxKNnXJAPZe) | [عشان باحبك](https://open.spotify.com/album/18A97riBjteV1p5YXfUp1e) | 5:27 |
+| 31 | [عشان بحبك](https://open.spotify.com/track/218ZPN6u1JxiM8qzHmAzmS) | [Latifa](https://open.spotify.com/artist/1PuTOfIYIEdoxKNnXJAPZe) | [عشان باحبك](https://open.spotify.com/album/18A97riBjteV1p5YXfUp1e) | 5:27 |
+| 32 | [فاضل ايه](https://open.spotify.com/track/7gxYjbdGWDKZRi5E1HfScd) | [Talaat Zain](https://open.spotify.com/artist/361np6UFfeQfVBjYoB3cwA) | [تيكي تا](https://open.spotify.com/album/06ViZXDfKo0NcHRtncjwjI) | 4:04 |
 | 33 | [الدلعونا](https://open.spotify.com/track/7ey7KJqVGCsKDvnMNYHMnq) | [Assi El Hallani](https://open.spotify.com/artist/7Awwm6soGOr1umJYw53xdT) | [مواويل ودبكة](https://open.spotify.com/album/7q7fTrlnMQzFMwQbka1E0v) | 11:14 |
 | 34 | [Asheq](https://open.spotify.com/track/2oru5RAnipKp3ABLrZodNM) | [Amr Tantawy](https://open.spotify.com/artist/3CGtuA8TxzMGjJ3BSyPII3) | [Ahla Hekaya](https://open.spotify.com/album/0UEaqW4PgIau35th1V7Ahv) | 4:02 |
 | 35 | [Kawy Kalbak](https://open.spotify.com/track/2OfdMNtqeQGSatCj5GEDUQ) | [Kluda Al Shamali](https://open.spotify.com/artist/12g0lOWG7yLlcKXXCxgKui) | [Pravo Aleek](https://open.spotify.com/album/3oX428wVuCAVUVTnLjrFVB) | 5:16 |

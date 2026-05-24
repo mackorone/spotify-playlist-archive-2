@@ -1,6 +1,6 @@
 {
   "description": "Los pr\u00f3ceres de la historia del rock nacional. el Xava Drago por siempre ",
-  "num_followers": 575158,
+  "num_followers": 575180,
   "original_name": "Iconos del Rock Mexicano",
   "owner": {
     "name": "Spotify",
@@ -831,22 +831,6 @@
     {
       "added_at": "2025-08-22 06:00:14",
       "album": {
-        "name": "MTV Unplugged M\u00fasica De Fondo (Reissue/Live)",
-        "url": "https://open.spotify.com/album/5fl6q7SKOuaO2tHXeTaZeV"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00e9",
-          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
-        }
-      ],
-      "duration_ms": 237840,
-      "name": "Dead - En Vivo",
-      "url": "https://open.spotify.com/track/7xFn3dihBf60SS4m1wDDt5"
-    },
-    {
-      "added_at": "2025-08-22 06:00:14",
-      "album": {
         "name": "Un Panteon Muy Vivo",
         "url": "https://open.spotify.com/album/0HgimXrbh89mAHF3nLGsLP"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 423360,
       "name": "La Carencia",
       "url": "https://open.spotify.com/track/2UalqFij5ANcOwrPm9CtPb"
+    },
+    {
+      "added_at": "2025-08-22 06:00:14",
+      "album": {
+        "name": "MTV Unplugged M\u00fasica De Fondo (Reissue/Live)",
+        "url": "https://open.spotify.com/album/5fl6q7SKOuaO2tHXeTaZeV"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00e9",
+          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
+        }
+      ],
+      "duration_ms": 237840,
+      "name": "Dead - En Vivo",
+      "url": "https://open.spotify.com/track/7xFn3dihBf60SS4m1wDDt5"
     },
     {
       "added_at": "2025-08-22 06:00:14",
@@ -911,22 +911,6 @@
     {
       "added_at": "2025-08-22 06:00:14",
       "album": {
-        "name": "Reptilectric",
-        "url": "https://open.spotify.com/album/6Tqp8Twmyl9xRhePhKS668"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00e9",
-          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
-        }
-      ],
-      "duration_ms": 232288,
-      "name": "Reptilectric",
-      "url": "https://open.spotify.com/track/2sProjAkdt5b4TgShSRvgA"
-    },
-    {
-      "added_at": "2025-08-22 06:00:14",
-      "album": {
         "name": "Cronicas De Un Laberinto",
         "url": "https://open.spotify.com/album/5ghbMJrms74bqNzZ8ziEZy"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 190893,
       "name": "Hay Amores Que Matan",
       "url": "https://open.spotify.com/track/3b9yTPrrIquBZsco8jVPi1"
+    },
+    {
+      "added_at": "2025-08-22 06:00:14",
+      "album": {
+        "name": "Reptilectric",
+        "url": "https://open.spotify.com/album/6Tqp8Twmyl9xRhePhKS668"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00e9",
+          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
+        }
+      ],
+      "duration_ms": 232288,
+      "name": "Reptilectric",
+      "url": "https://open.spotify.com/track/2sProjAkdt5b4TgShSRvgA"
     },
     {
       "added_at": "2025-08-22 06:00:14",
@@ -1187,18 +1187,18 @@
     {
       "added_at": "2025-08-22 06:00:14",
       "album": {
-        "name": "Volovan",
-        "url": "https://open.spotify.com/album/7jSqVU6kH01jgroHwYXBSr"
+        "name": "S\u00e9 Lo Que Hicieron el Disco Pasado (Del Creador de Suicida)",
+        "url": "https://open.spotify.com/album/7fn7RJLP6jySOnTxhRefLm"
       },
       "artists": [
         {
-          "name": "Volov\u00e1n",
-          "url": "https://open.spotify.com/artist/0htSEnHjTcKdNapBwIsEaA"
+          "name": "Charlie Monttana",
+          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
         }
       ],
-      "duration_ms": 209346,
-      "name": "Ella Es Azul",
-      "url": "https://open.spotify.com/track/3FEOiLNmS51wlq4ZcouLj6"
+      "duration_ms": 278666,
+      "name": "De Que el Amor Apesta",
+      "url": "https://open.spotify.com/track/36GyJisOpesFuVqrcoXOjk"
     },
     {
       "added_at": "2025-08-22 06:00:14",
@@ -1219,18 +1219,18 @@
     {
       "added_at": "2025-08-22 06:00:14",
       "album": {
-        "name": "S\u00e9 Lo Que Hicieron el Disco Pasado (Del Creador de Suicida)",
-        "url": "https://open.spotify.com/album/7fn7RJLP6jySOnTxhRefLm"
+        "name": "Volovan",
+        "url": "https://open.spotify.com/album/7jSqVU6kH01jgroHwYXBSr"
       },
       "artists": [
         {
-          "name": "Charlie Monttana",
-          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
+          "name": "Volov\u00e1n",
+          "url": "https://open.spotify.com/artist/0htSEnHjTcKdNapBwIsEaA"
         }
       ],
-      "duration_ms": 278666,
-      "name": "De Que el Amor Apesta",
-      "url": "https://open.spotify.com/track/36GyJisOpesFuVqrcoXOjk"
+      "duration_ms": 209346,
+      "name": "Ella Es Azul",
+      "url": "https://open.spotify.com/track/3FEOiLNmS51wlq4ZcouLj6"
     },
     {
       "added_at": "2025-08-22 06:00:14",
@@ -1555,18 +1555,18 @@
     {
       "added_at": "2025-08-22 06:00:14",
       "album": {
-        "name": "Rebota (F=KX)2",
-        "url": "https://open.spotify.com/album/7i40q5hprq8zKeQze2xW9H"
+        "name": "Sufro Sufro Sufro",
+        "url": "https://open.spotify.com/album/0np21WDUyCaqdEB2grsjcx"
       },
       "artists": [
         {
-          "name": "Resorte",
-          "url": "https://open.spotify.com/artist/29AMdFTZ4Ahs3fFXIq8Dic"
+          "name": "San Pascualito Rey",
+          "url": "https://open.spotify.com/artist/3y4u1V2WmArOAws2yjRVi6"
         }
       ],
-      "duration_ms": 221266,
-      "name": "Alcohol",
-      "url": "https://open.spotify.com/track/4Om8q2itxIhPZ8eC5BY19U"
+      "duration_ms": 249506,
+      "name": "Nos Tragamos",
+      "url": "https://open.spotify.com/track/2A8MWa3QBtZaPE7oXMGGHe"
     },
     {
       "added_at": "2025-08-22 06:00:14",
@@ -1587,18 +1587,18 @@
     {
       "added_at": "2025-08-22 06:00:14",
       "album": {
-        "name": "Sufro Sufro Sufro",
-        "url": "https://open.spotify.com/album/0np21WDUyCaqdEB2grsjcx"
+        "name": "Rebota (F=KX)2",
+        "url": "https://open.spotify.com/album/7i40q5hprq8zKeQze2xW9H"
       },
       "artists": [
         {
-          "name": "San Pascualito Rey",
-          "url": "https://open.spotify.com/artist/3y4u1V2WmArOAws2yjRVi6"
+          "name": "Resorte",
+          "url": "https://open.spotify.com/artist/29AMdFTZ4Ahs3fFXIq8Dic"
         }
       ],
-      "duration_ms": 249506,
-      "name": "Nos Tragamos",
-      "url": "https://open.spotify.com/track/2A8MWa3QBtZaPE7oXMGGHe"
+      "duration_ms": 221266,
+      "name": "Alcohol",
+      "url": "https://open.spotify.com/track/4Om8q2itxIhPZ8eC5BY19U"
     },
     {
       "added_at": "2025-08-22 06:00:14",

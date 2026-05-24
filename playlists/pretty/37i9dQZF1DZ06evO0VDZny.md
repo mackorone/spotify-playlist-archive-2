@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VDZny.md) - [plain]
 
 > This is Bring Me The Horizon\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 512,047 likes - 49 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 512,120 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,11 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VDZny.md) - [plain]
 | 41 | [heavy metal \(feat\. Rahzel\)](https://open.spotify.com/track/6baGTtDakSNvUfW3FJd8yX) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [Rahzel](https://open.spotify.com/artist/6vunRaBya0Sx6CMJZAlHTZ) | [amo](https://open.spotify.com/album/04mkS7FooK8fRbB626T9NR) | 4:00 |
 | 42 | [in\_the\_dark.ech](https://open.spotify.com/track/78mP1BhsKkinyPyFK0whIF) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [Kanisan](https://open.spotify.com/artist/0Q6S7QIOyuvDYzbhpvM5FO) | [Lo\-files](https://open.spotify.com/album/34pF0wOGswprAZCsI8A1Fs) | 3:08 |
 | 43 | [For Stevie Wonder's Eyes Only \(Braille\)](https://open.spotify.com/track/7EIVI3qWBiGDB6G2Wx5Bl3) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Count Your Blessings](https://open.spotify.com/album/6ey1J9zez8cpgNQWwpk4bS) | 4:29 |
-| 44 | [Let’s Get The Party Started \(feat\. Bring Me The Horizon\)](https://open.spotify.com/track/2ONPuwAuOVO6RbzKaiowxD) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [The Atlas Underground Fire](https://open.spotify.com/album/3GVIDUbQXfn7FQcJND2Ddp) | 3:32 |
-| 45 | [DOOMED.errX](https://open.spotify.com/track/6veSof7cuSd7lh43upiltK) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [Drxnk](https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC) | [Lo\-files](https://open.spotify.com/album/34pF0wOGswprAZCsI8A1Fs) | 3:38 |
-| 46 | [Tell Slater Not to Wash His Dick](https://open.spotify.com/track/2AxduArp543ijR4B2I9ZPF) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Count Your Blessings](https://open.spotify.com/album/6ey1J9zez8cpgNQWwpk4bS) | 3:30 |
-| 47 | [sL33pwalking.idl](https://open.spotify.com/track/3UfassQ27R4HgpBRwJIQkr) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [lophiile](https://open.spotify.com/artist/5g5eVr2vAQnd12Q1XCJD7R) | [Lo\-files](https://open.spotify.com/album/34pF0wOGswprAZCsI8A1Fs) | 4:25 |
-| 48 | [parasite.ev3](https://open.spotify.com/track/7GPLneLBvgAURR2AblkAJy) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [Mondo Loops](https://open.spotify.com/artist/1XFN3VcuKr4tsTtQlRiTgK) | [Lo\-files](https://open.spotify.com/album/34pF0wOGswprAZCsI8A1Fs) | 3:14 |
-| 49 | [DiE4u.sysrsk](https://open.spotify.com/track/65EFbxCYYNRGKibTQj90Wt) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [HM Surf](https://open.spotify.com/artist/6TeBxtluBMQixZcKkJ3ZrB) | [Lo\-files](https://open.spotify.com/album/34pF0wOGswprAZCsI8A1Fs) | 3:21 |
+| 44 | [\(Interlude\) Project Angel Dust \- L.I.V.E\. In São Paulo \(Live Immersive Virtual Experiment\)](https://open.spotify.com/track/6vc8BQdoWY0IFD773n9gqA) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [L.I.V.E\. In São Paulo \(Live Immersive Virtual Experiment\)](https://open.spotify.com/album/0tlzXZQXAeBUCXv3eHHjXU) | 1:15 |
+| 45 | [Let’s Get The Party Started \(feat\. Bring Me The Horizon\)](https://open.spotify.com/track/2ONPuwAuOVO6RbzKaiowxD) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [The Atlas Underground Fire](https://open.spotify.com/album/3GVIDUbQXfn7FQcJND2Ddp) | 3:32 |
+| 46 | [med!cine.fbk](https://open.spotify.com/track/4XhbazNmRNlkUkjYX38Obc) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [lophiile](https://open.spotify.com/artist/5g5eVr2vAQnd12Q1XCJD7R) | [Lo\-files](https://open.spotify.com/album/34pF0wOGswprAZCsI8A1Fs) | 5:09 |
+| 47 | [Tell Slater Not to Wash His Dick](https://open.spotify.com/track/2AxduArp543ijR4B2I9ZPF) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Count Your Blessings](https://open.spotify.com/album/6ey1J9zez8cpgNQWwpk4bS) | 3:30 |
+| 48 | [sL33pwalking.idl](https://open.spotify.com/track/3UfassQ27R4HgpBRwJIQkr) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [lophiile](https://open.spotify.com/artist/5g5eVr2vAQnd12Q1XCJD7R) | [Lo\-files](https://open.spotify.com/album/34pF0wOGswprAZCsI8A1Fs) | 4:25 |
+| 49 | [A Lot Like Vegas](https://open.spotify.com/track/0n1HOrTBNb87Ozqqs5ZiZD) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Count Your Blessings](https://open.spotify.com/album/6ey1J9zez8cpgNQWwpk4bS) | 2:09 |
+| 50 | [canyoufeelmy<3.tmpx](https://open.spotify.com/track/4oulNVAcHE3WWxyy8kYvcz) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a), [No Spirit](https://open.spotify.com/artist/4XbnhifKeOnyfTsCInrQsX) | [Lo\-files](https://open.spotify.com/album/34pF0wOGswprAZCsI8A1Fs) | 2:42 |
 
-Snapshot ID: `ag5LAAAAAABdzsEy5CSJJHaQjWKFq2X9`
+Snapshot ID: `ag+cgAAAAAC/XT40cCKjJZWJG2Gym7Wu`

@@ -4,7 +4,7 @@
 
 > All the indie gems from 2025 that we can't get enough of\. Cover: she's green
 
-455 songs - 1 day 1 hr 47 min
+456 songs - 1 day 1 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Bleak Sublime](https://open.spotify.com/track/0pVehOhdsaOdYrBprUKxD6) | [Lizzie Esau](https://open.spotify.com/artist/3E2PKHxfpNa2R6N3RIpa8S) | [Bleak Sublime](https://open.spotify.com/album/3TDrrfZWTB4Z1Nc6a46QiA) | 3:51 | 2022-11-30 | 2023-11-30 |
 | [Bleak Sublime](https://open.spotify.com/track/2Fc0Dt76yZv3hJcBs4rl5Z) | [Lizzie Esau](https://open.spotify.com/artist/3E2PKHxfpNa2R6N3RIpa8S) | [Bleak Sublime](https://open.spotify.com/album/2GJx1j54AfcuG0eG6ENdH2) | 3:51 | 2022-11-30 | 2023-03-15 |
 | [Bleed](https://open.spotify.com/track/6rv9youaC5GcRiag510DL7) | [Ezra Williams](https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48) | [Bleed](https://open.spotify.com/album/7hWtfF7nCMZsMwwKoQOMdv) | 2:57 | 2023-11-29 | 2024-12-05 |
+| [Bloom feat\. KIKI](https://open.spotify.com/track/6BsLjqplB626oHZbQvSndr) | [Ovall](https://open.spotify.com/artist/5fajxqVLxJxAzMvZn0AGIv), [KIKI](https://open.spotify.com/artist/6MG7fjH9YBryqLT03MnwQM) | [Silent Storm](https://open.spotify.com/album/3DzHNZiuvnAX0TK8uAc3Os) | 3:26 | 2025-12-03 |  |
 | [Boston](https://open.spotify.com/track/63pmBYIUu7bbGipIOBccyr) | [Min Taka](https://open.spotify.com/artist/1IXhBghuEWlU4soJjaV5gH) | [I think we should just move in together](https://open.spotify.com/album/2o8g87QqMaH1Xm8nMOCcvv) | 4:05 | 2025-12-03 | 2026-02-09 |
 | [Bounce House](https://open.spotify.com/track/0pfH12vOqokHreQwW5fItt) | [Gelli Haha](https://open.spotify.com/artist/4O0acxqHYUQGGMqOICiSeI) | [Switcheroo](https://open.spotify.com/album/6DK5lxaaj74XkZmPIvAXap) | 3:32 | 2025-12-03 |  |
 | [Bound2U](https://open.spotify.com/track/3L6n4ZbB7tf3DFKP38G1s8) | [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag) | [SISTER](https://open.spotify.com/album/0IojfyxFQMggZW9aNCeaV7) | 2:56 | 2025-12-03 |  |
@@ -95,7 +96,7 @@
 | [Crown](https://open.spotify.com/track/0rFerK60tXKPQrAqKfiTmu) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [Crown](https://open.spotify.com/album/3aXZQpHysgW9zjKC5RPRIG) | 3:42 | 2022-11-30 | 2023-11-30 |
 | [dad](https://open.spotify.com/track/2kYLAEAIj873L4Zl5QfXa1) | [Duval Timothy](https://open.spotify.com/artist/4t5XnkAKxcaYcDXI726A4Y) | [wishful thinking](https://open.spotify.com/album/7AzqzYUtZhGnQA2gnM6wXz) | 2:23 | 2025-12-03 |  |
 | [Daddy](https://open.spotify.com/track/3jKlmTVS7ym2axSs9OEcrT) | [Nourished by Time](https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g) | [Erotic Probiotic 2](https://open.spotify.com/album/6HPNCXxhRfj8tus7gw0dDI) | 4:06 | 2023-11-29 | 2024-12-05 |
-| [Dare To Fall In Love](https://open.spotify.com/track/6wK00cLmk8GOgJOgMusTeu) | [Phantastic Ferniture](https://open.spotify.com/artist/6uHxXCSJUP50EgddL6eWNC) | [Change My Mind / Dare To Fall In Love](https://open.spotify.com/album/7bb6XYtPuE2YE86EwswEOS) | 2:17 | 2025-12-03 |  |
+| [Dare To Fall In Love](https://open.spotify.com/track/6wK00cLmk8GOgJOgMusTeu) | [Phantastic Ferniture](https://open.spotify.com/artist/6uHxXCSJUP50EgddL6eWNC) | [Change My Mind / Dare To Fall In Love](https://open.spotify.com/album/7bb6XYtPuE2YE86EwswEOS) | 2:17 | 2025-12-03 | 2026-05-24 |
 | [Dealerz](https://open.spotify.com/track/5wCYpFI6oW9BejmzlBiXIs) | [A Good Year](https://open.spotify.com/artist/30F8R1qAerw8VvYtRGGg0j), [Quiet Light](https://open.spotify.com/artist/6Uy2IwBjxdF0MxQVIN18n9), [Late Verlane](https://open.spotify.com/artist/6P4APuruGUYRvwnzboQir3) | [Dealerz](https://open.spotify.com/album/3gT4OeIXlqJZ9xrhXlR1OT) | 2:46 | 2025-12-03 |  |
 | [Dear Grandpa](https://open.spotify.com/track/0DaamS0punYAGkjmczFPWE) | [Shintaro Sakamoto](https://open.spotify.com/artist/4U7i0wRZh9IIHbjuECMyIq) | [Dear Grandpa](https://open.spotify.com/album/6Oxnod1lXbclb2DaCxUCP3) | 2:58 | 2025-12-03 | 2026-01-15 |
 | [Deer In The Headlights](https://open.spotify.com/track/1OInm4FGocvwb2F8rqO15b) | [Twine](https://open.spotify.com/artist/5MHpGdn6o4ezeRsrN14wZk) | [Deer In The Headlights](https://open.spotify.com/album/1LmUideiZFaC9rOi5vg6Z2) | 4:30 | 2025-12-03 | 2026-04-12 |

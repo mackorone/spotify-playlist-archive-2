@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Lola Young, Stormzy ft\. Odeal, Charli xcx, Olivia Rodrigo and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,024,741 likes - 101 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,024,821 likes - 101 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 39 | [Twizzler](https://open.spotify.com/track/55kn7P8aUDI3CyGx1jlCLT) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Twizzler](https://open.spotify.com/album/2F1Za0y4KX2xJifGiCg47z) | 2:54 |
 | 40 | [Twizted](https://open.spotify.com/track/4hZ17ryjXAq6OjpoH3CSke) | [ATW](https://open.spotify.com/artist/69Nx0ikrUq0IMY7aJMt4V6), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI), [Main Phase](https://open.spotify.com/artist/0cVit0XTp4KB738vqWkUZ3) | [Twizted](https://open.spotify.com/album/6trB3dbxRummr0pcx1dUpz) | 4:44 |
 | 41 | [Maayam \(feat\. Pritt\)](https://open.spotify.com/track/0WSc3Ort72j76IZM53upRt) | [Arthi](https://open.spotify.com/artist/700RxrCFFg46ZosW39M6x4), [Pritt](https://open.spotify.com/artist/5UBfs4W6ckxE7jCcqapRPn), [Lamsi](https://open.spotify.com/artist/6qdxvGWY0xnOmV8ISg6yjJ) | [Maayam \(feat\. Pritt\)](https://open.spotify.com/album/2rKixIJFlbcB0UjS8UHX9Z) | 2:58 |
-| 42 | [JOY \(Light In The Dark\)](https://open.spotify.com/track/6rZfjIl7gepUSwkmi22luo) | [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R) | [JOY \(Light In The Dark\)](https://open.spotify.com/album/4O6IC1c67UMYoDaZp0FMWS) | 4:58 |
+| 42 | [JOY \(Light In The Dark\)](https://open.spotify.com/track/6rZfjIl7gepUSwkmi22luo) | [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R) | [JOY \(Light In The Dark\)](https://open.spotify.com/album/4O6IC1c67UMYoDaZp0FMWS) | 4:56 |
 | 43 | [I Can't Die Like That](https://open.spotify.com/track/1sz8JVpCkXEHr9QtK8Xlvw) | [Getdown Services](https://open.spotify.com/artist/4OTD2AbOu5iBqSWk3NfwG5) | [I Can't Die Like That](https://open.spotify.com/album/313t051eeaMazltopmnbhm) | 2:31 |
 | 44 | [Control](https://open.spotify.com/track/2Ts6u2309VQVAgZtYkMfnW) | [Aby Coulibaly](https://open.spotify.com/artist/1ZjJVQsxUHP7MKnZg8yE33) | [Control](https://open.spotify.com/album/1X4nLRbFFwhVRfxwbuFDOT) | 2:42 |
 | 45 | [Would U Still Love Me \(feat\. Cameron Whitcomb\)](https://open.spotify.com/track/0ROj34ecLFplK2yOemsL3l) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Would U Still Love Me \(feat\. Cameron Whitcomb\)](https://open.spotify.com/album/72nrcGexUsf11MjeYltQYV) | 2:36 |

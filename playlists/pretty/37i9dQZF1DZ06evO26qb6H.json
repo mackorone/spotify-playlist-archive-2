@@ -1,12 +1,12 @@
 {
   "description": "This is Murda Beatz. The essential tracks, all in one playlist.",
-  "num_followers": 3303,
+  "num_followers": 3304,
   "original_name": "This Is Murda Beatz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ag5LAAAAAAAIJbE013fnO7+dIufythOF",
+  "snapshot_id": "ag+cgAAAAAByGv/SOg/EdnjcrTHF6ccv",
   "tracks": [
     {
       "added_at": null,
@@ -255,46 +255,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maybach",
-        "url": "https://open.spotify.com/album/2UsXysLvyNlrGvcvG6KtyB"
-      },
-      "artists": [
-        {
-          "name": "\u5343\u8449\u96c4\u559c",
-          "url": "https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu"
-        },
-        {
-          "name": "Murda Beatz",
-          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
-        }
-      ],
-      "duration_ms": 165311,
-      "name": "Maybach",
-      "url": "https://open.spotify.com/track/67WsbWbEI02qt27s5YcXso"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Memory Lane 2",
-        "url": "https://open.spotify.com/album/53UEhZvzn3wSJQlhZKY4Cd"
-      },
-      "artists": [
-        {
-          "name": "Shordie Shordie",
-          "url": "https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU"
-        },
-        {
-          "name": "Murda Beatz",
-          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
-        }
-      ],
-      "duration_ms": 170526,
-      "name": "Ride With Shordie, Pt. 2",
-      "url": "https://open.spotify.com/track/05uAvu6nskpw3PNjsOStGd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gangsta Grillz: Mvrda Gvng",
         "url": "https://open.spotify.com/album/6YkvB4DYktZrdQsawd0BXp"
       },
@@ -319,6 +279,46 @@
       "duration_ms": 231100,
       "name": "Milano Town (with DJ Drama, Shiva & Murda Beatz)",
       "url": "https://open.spotify.com/track/1KQ52QetE9tJ1ZABpt8hoo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Memory Lane 2",
+        "url": "https://open.spotify.com/album/53UEhZvzn3wSJQlhZKY4Cd"
+      },
+      "artists": [
+        {
+          "name": "Shordie Shordie",
+          "url": "https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU"
+        },
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        }
+      ],
+      "duration_ms": 170526,
+      "name": "Ride With Shordie, Pt. 2",
+      "url": "https://open.spotify.com/track/05uAvu6nskpw3PNjsOStGd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Maybach",
+        "url": "https://open.spotify.com/album/2UsXysLvyNlrGvcvG6KtyB"
+      },
+      "artists": [
+        {
+          "name": "\u5343\u8449\u96c4\u559c",
+          "url": "https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu"
+        },
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        }
+      ],
+      "duration_ms": 165311,
+      "name": "Maybach",
+      "url": "https://open.spotify.com/track/67WsbWbEI02qt27s5YcXso"
     },
     {
       "added_at": null,
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
         }
       ],
-      "duration_ms": 153546,
-      "name": "Seattle",
-      "url": "https://open.spotify.com/track/7CBmiFdp5vj83mstdl3Qmu"
+      "duration_ms": 138680,
+      "name": "Same Niggas",
+      "url": "https://open.spotify.com/track/5QKOme2dkvt6P3J0makF7b"
     },
     {
       "added_at": null,
@@ -548,29 +548,9 @@
           "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
         }
       ],
-      "duration_ms": 138680,
-      "name": "Same Niggas",
-      "url": "https://open.spotify.com/track/5QKOme2dkvt6P3J0makF7b"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wake Em Up",
-        "url": "https://open.spotify.com/album/0PdmRhlaO6JuOcsWLVjPaK"
-      },
-      "artists": [
-        {
-          "name": "Murda Beatz",
-          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
-        },
-        {
-          "name": "Rich The Kid",
-          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
-        }
-      ],
-      "duration_ms": 129729,
-      "name": "Wake Em Up",
-      "url": "https://open.spotify.com/track/3LXRevaRWpJajAVKhgzvrd"
+      "duration_ms": 153546,
+      "name": "Seattle",
+      "url": "https://open.spotify.com/track/7CBmiFdp5vj83mstdl3Qmu"
     },
     {
       "added_at": null,
@@ -591,6 +571,26 @@
       "duration_ms": 193657,
       "name": "Bigger in Texas",
       "url": "https://open.spotify.com/track/0x3R23PwarBJhGuzwW8hNm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wake Em Up",
+        "url": "https://open.spotify.com/album/0PdmRhlaO6JuOcsWLVjPaK"
+      },
+      "artists": [
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        },
+        {
+          "name": "Rich The Kid",
+          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
+        }
+      ],
+      "duration_ms": 129729,
+      "name": "Wake Em Up",
+      "url": "https://open.spotify.com/track/3LXRevaRWpJajAVKhgzvrd"
     },
     {
       "added_at": null,
@@ -711,26 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "semi-auto",
-        "url": "https://open.spotify.com/album/7KqYq0N1DyEOSTwJLvUxx8"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Guadalupe Estrada",
-          "url": "https://open.spotify.com/artist/0BFINpe01okw1htOTh9Flt"
-        },
-        {
-          "name": "Murda Beatz",
-          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
-        }
-      ],
-      "duration_ms": 235093,
-      "name": "semi-auto",
-      "url": "https://open.spotify.com/track/5XmVB20AVnn0B1rwEVeNRW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bless Yo Trap",
         "url": "https://open.spotify.com/album/3UTI3QQcowXYG3DA0Piy5f"
       },
@@ -747,6 +727,26 @@
       "duration_ms": 170000,
       "name": "123",
       "url": "https://open.spotify.com/track/2uVRSSzX96V7Rzlhx7fosj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "semi-auto",
+        "url": "https://open.spotify.com/album/7KqYq0N1DyEOSTwJLvUxx8"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Guadalupe Estrada",
+          "url": "https://open.spotify.com/artist/0BFINpe01okw1htOTh9Flt"
+        },
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        }
+      ],
+      "duration_ms": 235093,
+      "name": "semi-auto",
+      "url": "https://open.spotify.com/track/5XmVB20AVnn0B1rwEVeNRW"
     },
     {
       "added_at": null,
@@ -803,6 +803,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Unfuckwitable (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4TZreMdjJL5LjJmK61oxG6"
+      },
+      "artists": [
+        {
+          "name": "Babyface Ray",
+          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
+        },
+        {
+          "name": "Peezy",
+          "url": "https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs"
+        },
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        }
+      ],
+      "duration_ms": 172623,
+      "name": "Touchdown (feat. Peezy & Murda Beatz)",
+      "url": "https://open.spotify.com/track/6EEh3VBH5a6ptEeTz1OYHv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hood Politics",
         "url": "https://open.spotify.com/album/00jHCxhTpgzELW5nNy4nRU"
       },
@@ -847,30 +871,6 @@
       "duration_ms": 181306,
       "name": "Beef",
       "url": "https://open.spotify.com/track/01MnJO1gfqVGACFAWMXNPU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Unfuckwitable (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4TZreMdjJL5LjJmK61oxG6"
-      },
-      "artists": [
-        {
-          "name": "Babyface Ray",
-          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
-        },
-        {
-          "name": "Peezy",
-          "url": "https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs"
-        },
-        {
-          "name": "Murda Beatz",
-          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
-        }
-      ],
-      "duration_ms": 172623,
-      "name": "Touchdown (feat. Peezy & Murda Beatz)",
-      "url": "https://open.spotify.com/track/6EEh3VBH5a6ptEeTz1OYHv"
     },
     {
       "added_at": null,
@@ -935,30 +935,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shopping Spree (feat. Lil Pump & Sheck Wes)",
-        "url": "https://open.spotify.com/album/71uxGkMDuq1nSSXfkpeqqZ"
-      },
-      "artists": [
-        {
-          "name": "Murda Beatz",
-          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
-        },
-        {
-          "name": "Lil Pump",
-          "url": "https://open.spotify.com/artist/3wyVrVrFCkukjdVIdirGVY"
-        },
-        {
-          "name": "Sheck Wes",
-          "url": "https://open.spotify.com/artist/2RDOrhPqAM4jzTRCEb19qX"
-        }
-      ],
-      "duration_ms": 170523,
-      "name": "Shopping Spree (feat. Lil Pump & Sheck Wes)",
-      "url": "https://open.spotify.com/track/7K3qxAZqTZEScGAEjVcUnJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Raining",
         "url": "https://open.spotify.com/album/4bxulEQgaLNyfd5U0xOiJo"
       },
@@ -979,6 +955,30 @@
       "duration_ms": 222740,
       "name": "Raining (feat. Yung Bleu & Murda Beatz)",
       "url": "https://open.spotify.com/track/6i5wxOzIv91jvGwi4gofGn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shopping Spree (feat. Lil Pump & Sheck Wes)",
+        "url": "https://open.spotify.com/album/71uxGkMDuq1nSSXfkpeqqZ"
+      },
+      "artists": [
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        },
+        {
+          "name": "Lil Pump",
+          "url": "https://open.spotify.com/artist/3wyVrVrFCkukjdVIdirGVY"
+        },
+        {
+          "name": "Sheck Wes",
+          "url": "https://open.spotify.com/artist/2RDOrhPqAM4jzTRCEb19qX"
+        }
+      ],
+      "duration_ms": 170523,
+      "name": "Shopping Spree (feat. Lil Pump & Sheck Wes)",
+      "url": "https://open.spotify.com/track/7K3qxAZqTZEScGAEjVcUnJ"
     },
     {
       "added_at": null,

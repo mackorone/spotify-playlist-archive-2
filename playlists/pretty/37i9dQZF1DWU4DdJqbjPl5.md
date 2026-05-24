@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4DdJqbjPl5.md) - [plain]
 
 > Intersection of R&B and afrobeats\. Cover:  Qing Madi
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,914 likes - 55 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,939 likes - 55 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

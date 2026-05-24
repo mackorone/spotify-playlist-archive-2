@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1eh709zIoRH.md) - [plain]
 
 > Certified hits\. Cover: Ceebo
 
-[Spotify](https://open.spotify.com/user/spotify) - 296,767 likes - 80 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 296,751 likes - 80 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1eh709zIoRH.md) - [plain]
 | 30 | [Yo Bunny](https://open.spotify.com/track/6914nrqNob8EcW3qyEhihe) | [prodbycpkshawn](https://open.spotify.com/artist/4lSMHN0hTQWFJchmKwHE7Z), [Ugly Andz.](https://open.spotify.com/artist/6o33ajgtOTzJPKrgvQR9pW) | [Yo Bunny](https://open.spotify.com/album/4uRk8WbxccxtdvbzLkjZN2) | 1:50 |
 | 31 | [H.Y.B\. \(feat\. Bas & Central Cee\)](https://open.spotify.com/track/5RMTsrJkrtumtiIZjy7dL6) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Might Delete Later](https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3) | 3:54 |
 | 32 | [n.h.i.e.](https://open.spotify.com/track/6x9pCndnXEoea0CMcfjs9W) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 2:23 |
-| 33 | [Gen Z Luv](https://open.spotify.com/track/13hJUmR1UpCUzyHjotiImK) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Gen Z Luv](https://open.spotify.com/album/2zabsrUFQymnLIv1j4CQhI) | 2:33 |
-| 34 | [Love Me JeJe](https://open.spotify.com/track/47hsUYxvbTlBAN3sP9dEOd) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Love Me JeJe](https://open.spotify.com/album/0DSIfkfmDDNRbB87Xk0ipd) | 2:58 |
+| 33 | [Love Me JeJe](https://open.spotify.com/track/47hsUYxvbTlBAN3sP9dEOd) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Love Me JeJe](https://open.spotify.com/album/0DSIfkfmDDNRbB87Xk0ipd) | 2:58 |
+| 34 | [Gen Z Luv](https://open.spotify.com/track/13hJUmR1UpCUzyHjotiImK) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Gen Z Luv](https://open.spotify.com/album/2zabsrUFQymnLIv1j4CQhI) | 2:33 |
 | 35 | [Grey](https://open.spotify.com/track/4Fuf1v4kPQ6RIvEGlUfvaq) | [Yung Filly](https://open.spotify.com/artist/3OEJ7D4RwbnNFuG9JczKEa) | [Grey](https://open.spotify.com/album/3sNFF8w1fDHGcqRG6bWzhu) | 2:49 |
 | 36 | [YAYO](https://open.spotify.com/track/3sKBph3ElueH1dVLmkHWZZ) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [HEIS](https://open.spotify.com/album/2DDaN7Pgx9uDPd8IbWWW9H) | 2:30 |
 | 37 | [Pink Lemonade \(Str8 Reload\)](https://open.spotify.com/track/4Pt80KvnL6e8DCd9QVx7Ht) | [LeoStayTrill](https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX), [Str8 Reload](https://open.spotify.com/artist/49Rrni4SSdy1Oh56NtnptY) | [Pink Lemonade \(Str8 Reload\)](https://open.spotify.com/album/6U566ZLDCRo8vWgGTuQaUa) | 2:02 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1eh709zIoRH.md) - [plain]
 | 72 | [Do I \- Remix](https://open.spotify.com/track/7yKjDDd9w01nFEOD5adoHq) | [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Do I \(Remix\)](https://open.spotify.com/album/5aVA4avxVgyg1S6iVQpx0m) | 2:18 |
 | 73 | [R e a l W o m a n](https://open.spotify.com/track/5bhDnM1VMFDTs3urFBq4Na) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [R e a l W o m a n](https://open.spotify.com/album/05Zpvjm9aGodlwFnnh1rRE) | 3:14 |
 | 74 | [Wifey Riddim 4](https://open.spotify.com/track/6tbHckupN0s7pM7w2ifq12) | [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [Wifey Riddim 4](https://open.spotify.com/album/6DYAAqIERXoKZxUymEq1S3) | 3:03 |
-| 75 | [We Won](https://open.spotify.com/track/0rLGYykaXj89TBOXq6Aief) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p) | [We Won](https://open.spotify.com/album/55nxNL1bRIIN6oHM2Jb5c7) | 2:46 |
-| 76 | [Eagle](https://open.spotify.com/track/4kPQ9NQTg6rqZNJ0t3lDaI) | [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y), [Noizy](https://open.spotify.com/artist/2SabhGDiBSyaM6QSuBUVqB) | [Eagle](https://open.spotify.com/album/5jHbKzYrq90fFJFiKhpOE3) | 4:57 |
+| 75 | [Eagle](https://open.spotify.com/track/4kPQ9NQTg6rqZNJ0t3lDaI) | [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y), [Noizy](https://open.spotify.com/artist/2SabhGDiBSyaM6QSuBUVqB) | [Eagle](https://open.spotify.com/album/5jHbKzYrq90fFJFiKhpOE3) | 4:57 |
+| 76 | [We Won](https://open.spotify.com/track/0rLGYykaXj89TBOXq6Aief) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p) | [We Won](https://open.spotify.com/album/55nxNL1bRIIN6oHM2Jb5c7) | 2:46 |
 | 77 | [PINACOLADA](https://open.spotify.com/track/1kqBTGpxaC5kGz3rPlr1TF) | [Thisizlondon](https://open.spotify.com/artist/30SVAanrbFS6o0cIVDZ9ta), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [PINACOLADA](https://open.spotify.com/album/1pAYhCfEJa2Nz6zF409RvE) | 2:57 |
 | 78 | [Galahad](https://open.spotify.com/track/2EafSuRnstn5xtJXO9adat) | [French The Kid](https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC) | [Galahad](https://open.spotify.com/album/721nvr0OG4VoFIm7TBHLVC) | 3:06 |
 | 79 | [Redemption \(feat\. Nemzzz\)](https://open.spotify.com/track/1krd3VtSxqLMRToL2sfXoY) | [Kidwild](https://open.spotify.com/artist/5IR3SxDdtCCw6KD1aoF6w9), [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [Distro Kid](https://open.spotify.com/album/2iJTbYfBiOhhatNhoPKuST) | 2:35 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Kacey Musgraves. The essential tracks, all in one playlist.",
-  "num_followers": 154188,
+  "num_followers": 154230,
   "original_name": "This Is Kacey Musgraves",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ag5LAAAAAACLqNasLMsZfVgwKEOkS+9f",
+  "snapshot_id": "ag+cgAAAAAAOuLRqk77fpzgGeTZ/n8UP",
   "tracks": [
     {
       "added_at": null,
@@ -338,11 +338,15 @@
         {
           "name": "Kacey Musgraves",
           "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        },
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
         }
       ],
-      "duration_ms": 168208,
-      "name": "Abilene",
-      "url": "https://open.spotify.com/track/1jqDLQJVbfYh525gPEZkvC"
+      "duration_ms": 163689,
+      "name": "Horses and Divorces (feat. Miranda Lambert)",
+      "url": "https://open.spotify.com/track/44tr6kkaMRgd2UVG44wqv7"
     },
     {
       "added_at": null,
@@ -402,15 +406,11 @@
         {
           "name": "Kacey Musgraves",
           "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        },
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
         }
       ],
-      "duration_ms": 163689,
-      "name": "Horses and Divorces (feat. Miranda Lambert)",
-      "url": "https://open.spotify.com/track/44tr6kkaMRgd2UVG44wqv7"
+      "duration_ms": 168208,
+      "name": "Abilene",
+      "url": "https://open.spotify.com/track/1jqDLQJVbfYh525gPEZkvC"
     },
     {
       "added_at": null,

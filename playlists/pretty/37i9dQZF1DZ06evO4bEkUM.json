@@ -1,29 +1,13 @@
 {
   "description": "This is Paramore. The essential tracks, all in one playlist.",
-  "num_followers": 977349,
+  "num_followers": 977491,
   "original_name": "This Is Paramore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ag5LAAAAAAAhsU/CL1uR4evxdN3D9CW2",
+  "snapshot_id": "ag+cgAAAAADRljK7x4QE5glCufNQlTMQ",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Brand New Eyes",
-        "url": "https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 267653,
-      "name": "The Only Exception",
-      "url": "https://open.spotify.com/track/7JIuqL4ZqkpfGKQhYlrirs"
-    },
     {
       "added_at": null,
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 216013,
       "name": "Still into You",
       "url": "https://open.spotify.com/track/1yjY7rpaAQvKwpdUliHx0d"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Brand New Eyes",
+        "url": "https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 267653,
+      "name": "The Only Exception",
+      "url": "https://open.spotify.com/track/7JIuqL4ZqkpfGKQhYlrirs"
     },
     {
       "added_at": null,
@@ -75,22 +75,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Brand New Eyes",
-        "url": "https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 225786,
-      "name": "All I Wanted",
-      "url": "https://open.spotify.com/track/1Bv3h7Vc4AaYA2BcSM3rVd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Paramore",
         "url": "https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 296520,
       "name": "Ain't It Fun",
       "url": "https://open.spotify.com/track/1j8z4TTjJ1YOdoFEDwJTQa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Brand New Eyes",
+        "url": "https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 225786,
+      "name": "All I Wanted",
+      "url": "https://open.spotify.com/track/1Bv3h7Vc4AaYA2BcSM3rVd"
     },
     {
       "added_at": null,
@@ -139,22 +139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Brand New Eyes",
-        "url": "https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 218626,
-      "name": "Ignorance",
-      "url": "https://open.spotify.com/track/47No93LxERvV6MtOAmQzHS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "All We Know Is Falling",
         "url": "https://open.spotify.com/album/67f6SSb8yKduNCK15DsafC"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 185733,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/7mG2RbhyzGsjpQOz568d39"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Brand New Eyes",
+        "url": "https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 218626,
+      "name": "Ignorance",
+      "url": "https://open.spotify.com/track/47No93LxERvV6MtOAmQzHS"
     },
     {
       "added_at": null,
@@ -203,22 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Brand New Eyes",
-        "url": "https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 253946,
-      "name": "Brick by Boring Brick",
-      "url": "https://open.spotify.com/track/1a9YW7fATU351ok4zWjU7a"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "All We Know Is Falling",
         "url": "https://open.spotify.com/album/67f6SSb8yKduNCK15DsafC"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 240040,
       "name": "Emergency",
       "url": "https://open.spotify.com/track/3i4xZSH1kTLE22TUvUFMYo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Brand New Eyes",
+        "url": "https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 253946,
+      "name": "Brick by Boring Brick",
+      "url": "https://open.spotify.com/track/1a9YW7fATU351ok4zWjU7a"
     },
     {
       "added_at": null,
@@ -267,22 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Brand New Eyes",
-        "url": "https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 182800,
-      "name": "Playing God",
-      "url": "https://open.spotify.com/track/7hInOqJnlEayXao08yVYAn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "After Laughter",
         "url": "https://open.spotify.com/album/1c9Sx7XdXuMptGyfCB6hHs"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 214160,
       "name": "Caught in the Middle",
       "url": "https://open.spotify.com/track/27zJBz0YnuZO69U69z96vd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Brand New Eyes",
+        "url": "https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 182800,
+      "name": "Playing God",
+      "url": "https://open.spotify.com/track/7hInOqJnlEayXao08yVYAn"
     },
     {
       "added_at": null,

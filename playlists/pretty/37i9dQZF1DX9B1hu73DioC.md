@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9B1hu73DioC.md) - [plain]
 
 > put it on and let it play.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,256,535 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,256,546 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9B1hu73DioC.md) - [plain]
 | 37 | [Upside Down](https://open.spotify.com/track/2ykiSY1uHTHCBVpbym4Uff) | [54 Ultra](https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ) | [Upside Down](https://open.spotify.com/album/2cF9Jv83As09soxqHeJuuf) | 3:16 |
 | 38 | [Cross Your Mind](https://open.spotify.com/track/3a3zDlE4bgI6ZvU00m6o84) | [Shelly](https://open.spotify.com/artist/4z1P9QhvHGEJzPhQAjXYPE) | [Shelly 2](https://open.spotify.com/album/4THHnIlzoybD2SpgzsAmCX) | 3:48 |
 | 39 | [Nausicaä \(Love Will Be Revealed\)](https://open.spotify.com/track/2tdNTV4xpZgiom27mENc2N) | [Cameron Winter](https://open.spotify.com/artist/0kGweFvHWUfh6oLnookVeO) | [Heavy Metal](https://open.spotify.com/album/7mOrnQqDad3RgYQsJGaaqk) | 4:11 |
-| 40 | [White Gloves ii](https://open.spotify.com/track/4EGilW7VYfTULk4RENDfJp) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [The Universe Smiles Upon You ii](https://open.spotify.com/album/45ZWDMMVK0N0Hd2p7fLTCB) | 4:51 |
-| 41 | [hospital beach](https://open.spotify.com/track/7t7QJFQLHJWCiHBswHnbzZ) | [Cottonwood Firing Squad](https://open.spotify.com/artist/2bmhdBR4FyCbRIBSFoLTuE) | [you missed the best part](https://open.spotify.com/album/1KX0aY23DP7aWsvCXxuEPx) | 2:04 |
+| 40 | [hospital beach](https://open.spotify.com/track/7t7QJFQLHJWCiHBswHnbzZ) | [Cottonwood Firing Squad](https://open.spotify.com/artist/2bmhdBR4FyCbRIBSFoLTuE) | [you missed the best part](https://open.spotify.com/album/1KX0aY23DP7aWsvCXxuEPx) | 2:04 |
+| 41 | [White Gloves ii](https://open.spotify.com/track/4EGilW7VYfTULk4RENDfJp) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [The Universe Smiles Upon You ii](https://open.spotify.com/album/45ZWDMMVK0N0Hd2p7fLTCB) | 4:51 |
 | 42 | [Alesis](https://open.spotify.com/track/1fAaC0BVOACO5hmyiwIqAG) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Two Star & The Dream Police](https://open.spotify.com/album/62xd4emBJXINuYl0RzfvO8) | 3:18 |
 | 43 | [Great Pretender](https://open.spotify.com/track/1pNEdS8LS4TKZgTSvfvl5C) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Rocket](https://open.spotify.com/album/3KKqjBV0QBcgfTErzdkEd3) | 2:51 |
 | 44 | [Snowbank Blues](https://open.spotify.com/track/3SsGrCb1eaSpGhRDqPaTln) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [Waiting to Spill](https://open.spotify.com/album/2Gb2plO2TkNRIgoCuJGm7C) | 3:17 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9B1hu73DioC.md) - [plain]
 | 55 | [Give Up Baby Go](https://open.spotify.com/track/6DIMM15oo3kxnCuVypaYGy) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [From 2 to 3](https://open.spotify.com/album/291A3Ud0sbMSfmG48k6GQY) | 4:17 |
 | 56 | [Moon \(Feat\. Bon Iver\)](https://open.spotify.com/track/2RBvwQI858xReQpWSRO866) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Moon](https://open.spotify.com/album/5JmdJRK0AJrApYsXrYVKAo) | 5:17 |
 | 57 | [Marseille](https://open.spotify.com/track/43qx8PEmvj1r7xO9BKjS3a) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Divinations](https://open.spotify.com/album/2uISRQaBpbTvGQL67DEFcV) | 3:56 |
-| 58 | [It’s All In Your Mind](https://open.spotify.com/track/6i6zi5TgXuKUxooOMqhKfQ) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [Sonido Cósmico](https://open.spotify.com/album/0FI8JaUH7kqtvM6EkmCm7t) | 4:38 |
-| 59 | [300 dreams](https://open.spotify.com/track/3gkVuPHTyp4rHH5YrczzOL) | [After](https://open.spotify.com/artist/7KfMR05zRrWyhQimnYa8li) | [300 dreams](https://open.spotify.com/album/3IgDyLUkygCEyfG7CsZyzB) | 3:08 |
+| 58 | [300 dreams](https://open.spotify.com/track/3gkVuPHTyp4rHH5YrczzOL) | [After](https://open.spotify.com/artist/7KfMR05zRrWyhQimnYa8li) | [300 dreams](https://open.spotify.com/album/3IgDyLUkygCEyfG7CsZyzB) | 3:08 |
+| 59 | [It’s All In Your Mind](https://open.spotify.com/track/6i6zi5TgXuKUxooOMqhKfQ) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [Sonido Cósmico](https://open.spotify.com/album/0FI8JaUH7kqtvM6EkmCm7t) | 4:38 |
 | 60 | [Yellow Eyes](https://open.spotify.com/track/4l3MfSQrxCWfUYUyE2sMy6) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Jean](https://open.spotify.com/album/27SQuR7jPiGkJJXl8njEqY) | 2:42 |
 | 61 | [Call On Me](https://open.spotify.com/track/1M3O7iJBvb5wCAYQmWGWsC) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Call On Me](https://open.spotify.com/album/5UCY2oLiVjR3qIDLXVUYVu) | 2:49 |
 | 62 | [Back On 74 \- Full Crate Remix](https://open.spotify.com/track/0eBAg5wJBu2Acv6o72iY4c) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g) | [Back on 74 \(Full Crate Remix\)](https://open.spotify.com/album/4kGBuWZI5kpjt60cqWewXD) | 2:54 |
@@ -76,11 +76,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9B1hu73DioC.md) - [plain]
 | 66 | [Police Scanner](https://open.spotify.com/track/1uLOYD6T0wdpOD8FcgsPuv) | [Chanel Beads](https://open.spotify.com/artist/3x11XrMEnyP18hv73pmKRL) | [Your Day Will Come](https://open.spotify.com/album/0TX4JFqSmYn8T7qMpZbvGY) | 2:22 |
 | 67 | [car](https://open.spotify.com/track/6hkafjAcHMk1TtSF6w2wIx) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [car](https://open.spotify.com/album/5TX9K0cbUCTQi5UpS6A92O) | 3:17 |
 | 68 | [Summer Sweat](https://open.spotify.com/track/539XSJouqOZlQlz1wEiakF) | [Hannah Cohen](https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros) | [Earthstar Mountain](https://open.spotify.com/album/29NwfbBz9hexhTMa6rfBTF) | 4:06 |
-| 69 | [blade bird](https://open.spotify.com/track/45LwOlqL3HOEQkPjjHpu7U) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [choke enough](https://open.spotify.com/album/58PwJKq5KH2MjVt2Ih4nEt) | 3:18 |
-| 70 | [Images of Love \(with Dominic Fike\)](https://open.spotify.com/track/1Vj11Vm95STtBEL7hSB5Sh) | [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Images of Love \(with Dominic Fike\)](https://open.spotify.com/album/2Fwe7dJvmbzU3m2gJKXn2D) | 3:29 |
-| 71 | [Prism](https://open.spotify.com/track/0tpaVCA6VnQOUAI0EpFZpk) | [Say She She](https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC) | [Prism](https://open.spotify.com/album/7FYVjCHeJAhgDi2zFmDV3n) | 3:52 |
-| 72 | [Losing Focus](https://open.spotify.com/track/1dfs70eiZmlIo88oDCjodF) | [EXUM](https://open.spotify.com/artist/5KJX1Zh0zfHcbwSCk5cPk0) | [In Russia\. A is a 9](https://open.spotify.com/album/2puthl2ughnGeS7jor8GJU) | 3:29 |
-| 73 | [You Don't Know The Shape I'm In](https://open.spotify.com/track/1ZBQPkEYHOv3LfgU6v0h0S) | [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Manning Fireworks](https://open.spotify.com/album/1bKiiYGt1fzm9YMlTnUqpN) | 3:36 |
+| 69 | [Prism](https://open.spotify.com/track/0tpaVCA6VnQOUAI0EpFZpk) | [Say She She](https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC) | [Prism](https://open.spotify.com/album/7FYVjCHeJAhgDi2zFmDV3n) | 3:52 |
+| 70 | [blade bird](https://open.spotify.com/track/45LwOlqL3HOEQkPjjHpu7U) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [choke enough](https://open.spotify.com/album/58PwJKq5KH2MjVt2Ih4nEt) | 3:18 |
+| 71 | [Images of Love \(with Dominic Fike\)](https://open.spotify.com/track/1Vj11Vm95STtBEL7hSB5Sh) | [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Images of Love \(with Dominic Fike\)](https://open.spotify.com/album/2Fwe7dJvmbzU3m2gJKXn2D) | 3:29 |
+| 72 | [You Don't Know The Shape I'm In](https://open.spotify.com/track/1ZBQPkEYHOv3LfgU6v0h0S) | [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Manning Fireworks](https://open.spotify.com/album/1bKiiYGt1fzm9YMlTnUqpN) | 3:36 |
+| 73 | [Losing Focus](https://open.spotify.com/track/1dfs70eiZmlIo88oDCjodF) | [EXUM](https://open.spotify.com/artist/5KJX1Zh0zfHcbwSCk5cPk0) | [In Russia\. A is a 9](https://open.spotify.com/album/2puthl2ughnGeS7jor8GJU) | 3:29 |
 | 74 | [Phantom](https://open.spotify.com/track/5A6xiYvuRA76qdjr5fjjGw) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Guitar](https://open.spotify.com/album/2T7O7QJnesN3l3iPX1NAZY) | 1:50 |
 | 75 | [Wish I Didn't Love You](https://open.spotify.com/track/0Rt2l1jZY1l63z4XpRNzeH) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [Wish I Didn't Love You](https://open.spotify.com/album/34vTtupIaQm34PykFukGsh) | 3:51 |
 | 76 | [My Fun](https://open.spotify.com/track/306xT15GTuDs3NyopIANrh) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [My Fun](https://open.spotify.com/album/2obv9kAuyDBzo5jTwAOHob) | 2:42 |

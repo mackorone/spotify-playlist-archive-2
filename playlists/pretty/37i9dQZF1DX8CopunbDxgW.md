@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 
 > Joy Anonymous with more delightful summer grooves 🌞 metropolis is your home for the best indie dance
 
-[Spotify](https://open.spotify.com/user/spotify) - 871,712 likes - 106 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 871,700 likes - 106 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 | 2 | [Magnetic](https://open.spotify.com/track/4hFDFmMnSYZ32ssqNUOCjt) | [The Bausa](https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg) | [Magnetic / Addicted To Your Love](https://open.spotify.com/album/5spP5OwikL076tVBuw7gb8) | 3:01 |
 | 3 | [I Did You Wrong \- Laurence Guy Remix](https://open.spotify.com/track/2mE5xJjXQB29h0pTHovyov) | [Harry Hayes](https://open.spotify.com/artist/7BBSATOdEaY07XbxlUzfFu), [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [I Did You Wrong \(Laurence Guy Remix\)](https://open.spotify.com/album/4X57jEQkD83cJiWKP6lUDV) | 3:53 |
 | 4 | [Mixed Emotions](https://open.spotify.com/track/27A97G7jTpRWeX3E4LpQEs) | [Collect 200](https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE) | [Everything Will Be Alright](https://open.spotify.com/album/3VW3rR8BFAITqgT45WX3Cv) | 3:25 |
-| 5 | [JOY \(Light In The Dark\)](https://open.spotify.com/track/6rZfjIl7gepUSwkmi22luo) | [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R) | [JOY \(Light In The Dark\)](https://open.spotify.com/album/4O6IC1c67UMYoDaZp0FMWS) | 4:58 |
+| 5 | [JOY \(Light In The Dark\)](https://open.spotify.com/track/6rZfjIl7gepUSwkmi22luo) | [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R) | [JOY \(Light In The Dark\)](https://open.spotify.com/album/4O6IC1c67UMYoDaZp0FMWS) | 4:56 |
 | 6 | [Never Seen You Dance \- DJ\-Kicks Version](https://open.spotify.com/track/4htyuJyykfMfdlN5RujEV2) | [TEED](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Never Seen You Dance \(DJ\-Kicks Version\)](https://open.spotify.com/album/4rOy0iDYBcVWINYxANcwK4) | 3:49 |
 | 7 | [Negroni Love](https://open.spotify.com/track/3zHxKd4WQKOSSqVhibeEFh) | [Mind Enterprises](https://open.spotify.com/artist/5pN1DJhPFDKso4OtC0QhnB) | [Negroni Love](https://open.spotify.com/album/3OWuVZ3kSiQ4QDjpttxN1s) | 2:38 |
 | 8 | [Endlessly \(feat\. BEA1991\)](https://open.spotify.com/track/7ugmWtCmv1AlUFhtb69m3v) | [Jump Source](https://open.spotify.com/artist/6fUBDklw2cffzrVU4phRKc), [Patrick Holland](https://open.spotify.com/artist/0dns940bo2pILe1Flk0WH3), [Priori](https://open.spotify.com/artist/76UMzIcqhjgf2Xr8gPdKO1), [BEA1991](https://open.spotify.com/artist/6F93aFbWjhUtjRKXYmtr1Z) | [Fold](https://open.spotify.com/album/3c3SAUJ4LrCHGvAOySzfW1) | 5:57 |

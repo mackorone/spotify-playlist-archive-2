@@ -4,7 +4,7 @@
 
 > This is Bailey Zimmerman\. The essential tracks, all in one playlist.
 
-48 songs - 2 hr 31 min
+49 songs - 2 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Small Town Crazy](https://open.spotify.com/track/5AQBsu4oDjhKJui3jT1jbD) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Small Town Crazy](https://open.spotify.com/album/4edQ6eoWIo3YotjFAZwVxq) | 2:42 | 2023-09-15 |  |
 | [Someone In This Room \(feat\. Bailey Zimmerman\)](https://open.spotify.com/track/3kvgQZmOgwjfVnuduPPDZG) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7), [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [That Ain't No Man That's The Devil](https://open.spotify.com/album/4BnCr0behKaGscMMhpiHX7) | 3:20 | 2024-09-08 |  |
 | [Strong Enough \(feat\. Bailey Zimmerman\)](https://open.spotify.com/track/66VuIGcM7fd8NLMoORCqVJ) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD), [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Strong Enough](https://open.spotify.com/album/7DTTXmNJFIXdf5QyA0Y9JX) | 2:29 | 2023-12-13 |  |
+| [The Climb](https://open.spotify.com/track/5TFrCaVcHteA1QbGwwIJD6) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [The Climb](https://open.spotify.com/album/4wgM4DAqjKCY9t3zQ6cU3W) | 3:50 | 2026-05-24 |  |
 | [Trainwreck](https://open.spotify.com/track/6uhtKcSdQMFpnX8Gj3QBxF) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Leave The Light On](https://open.spotify.com/album/5FGZeAnAbmC0MJD597764o) | 3:30 | 2023-09-15 |  |
 | [Waiting](https://open.spotify.com/track/37wfiB5kDHZbY5SeYlk7KE) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Leave The Light On](https://open.spotify.com/album/5FGZeAnAbmC0MJD597764o) | 3:37 | 2023-09-15 |  |
 | [Warzone](https://open.spotify.com/track/1XDyVXt7xfw5l301dL3wz2) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Religiously\. The Album.](https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3) | 3:24 | 2024-07-09 | 2024-07-10 |

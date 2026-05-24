@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYL0r9y5K9qt.md) - [plain]
 
 > time to strike a couple of poses\. cover: Chloe Qisha
 
-[Spotify](https://open.spotify.com/user/spotify) - 629,620 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 629,582 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYL0r9y5K9qt.md) - [plain]
 | 49 | [Soap \(feat\. PinkPantheress\)](https://open.spotify.com/track/02gYTLDCIGVM9Y9r4vDb2a) | [Yves](https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Soft Error](https://open.spotify.com/album/1FKp8rzndJTPygzxV8rq98) | 2:27 |
 | 50 | [I Choose You](https://open.spotify.com/track/5cAsy4oXqZCemP9r7va8Ub) | [f5ve](https://open.spotify.com/artist/6aiCF0pornq0j11wvKG4dy) | [SEQUENCE 01.5 \(dreaming of the 2nd 1st impact \- consequences of fate redux\)](https://open.spotify.com/album/214SKpjQqkpcPYnBbSspCb) | 2:49 |
 
-Snapshot ID: `AAAAAEBqU4bdpe+7nbwvqoMv6ZKPKRex`
+Snapshot ID: `AAAAAHI9+vaigDkLRFls2asv7WewH81k`

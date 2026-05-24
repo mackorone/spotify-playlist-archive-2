@@ -1,12 +1,12 @@
 {
   "description": "This is Lil Nas X. The essential tracks, all in one playlist.",
-  "num_followers": 164989,
+  "num_followers": 164991,
   "original_name": "This Is Lil Nas X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ag5LAAAAAADsX2HV587EK4nKUvjkHhvS",
+  "snapshot_id": "ag+cgAAAAADLfBGrtY5U1oj0GLeOIjoA",
   "tracks": [
     {
       "added_at": null,
@@ -403,8 +403,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "RIGHT THERE!",
-        "url": "https://open.spotify.com/album/4yW8JiZvkDk2hNdZPQ1Fso"
+        "name": "7",
+        "url": "https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO"
       },
       "artists": [
         {
@@ -412,9 +412,9 @@
           "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
         }
       ],
-      "duration_ms": 198359,
-      "name": "RIGHT THERE!",
-      "url": "https://open.spotify.com/track/336VOfFpogXMtrKoZI3NsE"
+      "duration_ms": 141986,
+      "name": "Kick It",
+      "url": "https://open.spotify.com/track/3qIV7Rnj3ZxLs2JcLPUbFV"
     },
     {
       "added_at": null,
@@ -439,8 +439,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "7",
-        "url": "https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO"
+        "name": "RIGHT THERE!",
+        "url": "https://open.spotify.com/album/4yW8JiZvkDk2hNdZPQ1Fso"
       },
       "artists": [
         {
@@ -448,9 +448,9 @@
           "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
         }
       ],
-      "duration_ms": 141986,
-      "name": "Kick It",
-      "url": "https://open.spotify.com/track/3qIV7Rnj3ZxLs2JcLPUbFV"
+      "duration_ms": 198359,
+      "name": "RIGHT THERE!",
+      "url": "https://open.spotify.com/track/336VOfFpogXMtrKoZI3NsE"
     },
     {
       "added_at": null,

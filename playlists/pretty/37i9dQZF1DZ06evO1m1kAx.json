@@ -1,12 +1,12 @@
 {
   "description": "This is 2Baba. The essential tracks, all in one playlist.",
-  "num_followers": 8369,
+  "num_followers": 8371,
   "original_name": "This Is 2Baba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ag5LAAAAAAAEMfidWN0GOV2wIMYQ5+Xm",
+  "snapshot_id": "ag+cgAAAAACloYk6Htib7LA1q2hWbifc",
   "tracks": [
     {
       "added_at": null,
@@ -399,18 +399,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Holy Holy",
-        "url": "https://open.spotify.com/album/1oP1d81iy9iuRQZQjtX1jS"
+        "name": "Azaman",
+        "url": "https://open.spotify.com/album/2OpvIZAXt5UVzxUCN0tVSY"
       },
       "artists": [
         {
+          "name": "Slimcase",
+          "url": "https://open.spotify.com/artist/40aejR4JaMbNbuROxAJUPY"
+        },
+        {
           "name": "2Baba",
           "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        },
+        {
+          "name": "Peruzzi",
+          "url": "https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf"
+        },
+        {
+          "name": "Larry Gaaga",
+          "url": "https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU"
+        },
+        {
+          "name": "DJ Neptune",
+          "url": "https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR"
         }
       ],
-      "duration_ms": 267318,
-      "name": "Holy Holy",
-      "url": "https://open.spotify.com/track/6DnvcwVVayZ4xfMuBn8ZfK"
+      "duration_ms": 224000,
+      "name": "Azaman",
+      "url": "https://open.spotify.com/track/61gKKvpUMUnfmVkJGzLiGw"
     },
     {
       "added_at": null,
@@ -487,34 +503,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Azaman",
-        "url": "https://open.spotify.com/album/2OpvIZAXt5UVzxUCN0tVSY"
+        "name": "Holy Holy",
+        "url": "https://open.spotify.com/album/1oP1d81iy9iuRQZQjtX1jS"
       },
       "artists": [
         {
-          "name": "Slimcase",
-          "url": "https://open.spotify.com/artist/40aejR4JaMbNbuROxAJUPY"
-        },
-        {
           "name": "2Baba",
           "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        },
-        {
-          "name": "Peruzzi",
-          "url": "https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf"
-        },
-        {
-          "name": "Larry Gaaga",
-          "url": "https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU"
-        },
-        {
-          "name": "DJ Neptune",
-          "url": "https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR"
         }
       ],
-      "duration_ms": 224000,
-      "name": "Azaman",
-      "url": "https://open.spotify.com/track/61gKKvpUMUnfmVkJGzLiGw"
+      "duration_ms": 267318,
+      "name": "Holy Holy",
+      "url": "https://open.spotify.com/track/6DnvcwVVayZ4xfMuBn8ZfK"
     },
     {
       "added_at": null,
@@ -591,6 +591,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Face 2 Face 10.0",
+        "url": "https://open.spotify.com/album/1PdMP3dtb5w0z4f2jVgXzF"
+      },
+      "artists": [
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 228571,
+      "name": "Dance Go (Eau De Vie)",
+      "url": "https://open.spotify.com/track/4SV4FQoKZ6wH8osLAo3exO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "KUKU GOOGLE AM",
         "url": "https://open.spotify.com/album/6XLYPGlLqeNDHp79xoqOvX"
       },
@@ -627,26 +647,6 @@
       "duration_ms": 193044,
       "name": "Worry Me",
       "url": "https://open.spotify.com/track/1l1iB9yTcm1oDex1ZwKOwu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Face 2 Face 10.0",
-        "url": "https://open.spotify.com/album/1PdMP3dtb5w0z4f2jVgXzF"
-      },
-      "artists": [
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 228571,
-      "name": "Dance Go (Eau De Vie)",
-      "url": "https://open.spotify.com/track/4SV4FQoKZ6wH8osLAo3exO"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Indonesia.
 
-762 songs - 1 day 23 hr 40 min
+763 songs - 1 day 23 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -420,6 +420,7 @@
 | [Melukis Senja](https://open.spotify.com/track/0ZEYRVISCaqz5yamWZWzaA) | [Budi Doremi](https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas) | [Melukis Senja](https://open.spotify.com/album/0jLBLt7jIjOz5n3jDiL2zn) | 4:11 | 2021-03-27\* | 2021-08-13 |
 | [Mendua](https://open.spotify.com/track/5g7TAIGfB6vgbaX8AH19FG) | [Astrid](https://open.spotify.com/artist/6GxmlugWFw4hmhUQ5uP93l) | [Terpukau](https://open.spotify.com/album/0SZMfhZNtHxdF7pYH1sirr) | 4:10 | 2024-03-24 | 2024-05-13 |
 | [Mendung Tanpo Udan](https://open.spotify.com/track/0Z54rUZ81Vn0qphFR3jXUb) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Mendung Tanpo Udan](https://open.spotify.com/album/71G3sO1tdp632dquXZFMNE) | 5:05 | 2021-08-08 | 2022-02-03 |
+| [Menerima Luka](https://open.spotify.com/track/5ohhUOosF2Ap8wsk1adLI8) | [Natasya Sabella](https://open.spotify.com/artist/2w2xKlumnOzCf5eVTkmNXn) | [Menerima Luka](https://open.spotify.com/album/6uRnl49o1IJ6bgscJDWYEN) | 3:48 | 2026-05-23 |  |
 | [Menerima Luka](https://open.spotify.com/track/6Twf2B2IGXAN0YDJeTxkt2) | [Natasya Sabella](https://open.spotify.com/artist/2w2xKlumnOzCf5eVTkmNXn) | [Menerima Luka](https://open.spotify.com/album/7vXq8kRSMngRUfSTUty19Q) | 3:48 | 2026-01-15 | 2026-05-20 |
 | [Menyesal](https://open.spotify.com/track/29lBFGkfr7EoJlb3lxi9Ij) | [Yovie Widianto](https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp), [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG), [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm), [Ziva Magnolya](https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd) | [Menyesal](https://open.spotify.com/album/13zfefPjKHsxUJm9SZFDtE) | 3:23 | 2023-03-04 | 2023-07-31 |
 | [Merasa Indah](https://open.spotify.com/track/3Ysf0Y3iu23mrDsVh1mdu0) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Tiara Andini](https://open.spotify.com/album/0jxUY7K5FdwJNl3SmnOZOl) | 3:40 | 2022-01-03 | 2023-04-01 |
@@ -549,7 +550,7 @@
 | [Run BTS](https://open.spotify.com/track/69xohKu8C1fsflYAiSNbwM) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 3:24 | 2022-06-11 | 2022-06-27 |
 | [Running Up That Hill \(A Deal With God\)](https://open.spotify.com/track/75FEaRjZTKLhTrFGsfMUXR) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds Of Love](https://open.spotify.com/album/5BWl0bB1q0TqyFmkBEupZy) | 4:58 | 2022-07-03 | 2022-07-21 |
 | [Running Wild](https://open.spotify.com/track/50zAEIE4B1QqhPjRMK2Xmh) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Happy \- :'\) \(Remixes\)](https://open.spotify.com/album/3nRmQ70bczWCLWyj1aRbt6) | 2:31 | 2024-11-21 | 2024-11-26 |
-| [Runtuh](https://open.spotify.com/track/6Hii26x3qDErVitnGW8QtO) | [Feby Putri](https://open.spotify.com/artist/66NmU5epI0ONGmdCRbLpmW), [Fiersa Besari](https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV) | [Runtuh](https://open.spotify.com/album/5boeKAXsTkdFlm6OnkQxQW) | 3:43 | 2021-11-06 |  |
+| [Runtuh](https://open.spotify.com/track/6Hii26x3qDErVitnGW8QtO) | [Feby Putri](https://open.spotify.com/artist/66NmU5epI0ONGmdCRbLpmW), [Fiersa Besari](https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV) | [Runtuh](https://open.spotify.com/album/5boeKAXsTkdFlm6OnkQxQW) | 3:43 | 2021-11-06 | 2026-05-24 |
 | [Runtuh](https://open.spotify.com/track/79DpN3v4OObqjGSNCYk3MA) | [Feby Putri](https://open.spotify.com/artist/66NmU5epI0ONGmdCRbLpmW), [Fiersa Besari](https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV) | [Runtuh](https://open.spotify.com/album/4L4GUKLp20jVdGEu5G0kij) | 3:43 | 2021-10-04 | 2021-10-29 |
 | [Saat Kau Telah Mengerti](https://open.spotify.com/track/22k5lgD5F7Pc7BodEMzDrY) | [Virgoun](https://open.spotify.com/artist/4bAgr9zaF0bpzVGHdHuf0f) | [Saat Kau Telah Mengerti](https://open.spotify.com/album/2KhCqrXaLVeUNuB8FifMJj) | 4:50 | 2023-02-23 | 2024-01-16 |
 | [SAH](https://open.spotify.com/track/6PGx1glZXYFGVppfHlCQqc) | [Sarah Suhairi](https://open.spotify.com/artist/4cp5lD2rybf8yNVDEKy7Nh), [Alfie Zumi](https://open.spotify.com/artist/4SkJ6iSvBXWjEzLEY4BmVV) | [SAH](https://open.spotify.com/album/3wa5IjTNnZX7vVVW891IDX) | 3:48 | 2024-02-26 | 2024-03-11 |

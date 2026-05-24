@@ -1,6 +1,6 @@
 {
   "description": "Les meilleurs sons du mois s\u00e9lectionn\u00e9s par les \u00e9ditos de Spotify.",
-  "num_followers": 402342,
+  "num_followers": 402328,
   "original_name": "Coups de c\u0153ur de l'\u00e9quipe \u00e9ditoriale : Avril 2026",
   "owner": {
     "name": "Spotify",
@@ -383,22 +383,6 @@
     {
       "added_at": "2026-04-30 22:03:34",
       "album": {
-        "name": "Rien \u00e0 f\u00eater",
-        "url": "https://open.spotify.com/album/6Is9iEcP8QVpihebTOLh7i"
-      },
-      "artists": [
-        {
-          "name": "Camille Yembe",
-          "url": "https://open.spotify.com/artist/1SRVawVdGv7lue3kE6Ajl9"
-        }
-      ],
-      "duration_ms": 175794,
-      "name": "Rien \u00e0 f\u00eater",
-      "url": "https://open.spotify.com/track/2SraRNXafpI7MzEDSssAs3"
-    },
-    {
-      "added_at": "2026-04-30 22:03:34",
-      "album": {
         "name": "SITUATION CHEAP",
         "url": "https://open.spotify.com/album/1TjF0xCufULcSRrmUQ1igm"
       },
@@ -439,18 +423,18 @@
     {
       "added_at": "2026-04-30 22:03:34",
       "album": {
-        "name": "Tia Na S\u00e9",
-        "url": "https://open.spotify.com/album/7AhjQKIKkggT6me7NFLjkT"
+        "name": "Rien \u00e0 f\u00eater",
+        "url": "https://open.spotify.com/album/6Is9iEcP8QVpihebTOLh7i"
       },
       "artists": [
         {
-          "name": "Rambo goyard",
-          "url": "https://open.spotify.com/artist/0RRp1XbMoTmW8zSWC1synA"
+          "name": "Camille Yembe",
+          "url": "https://open.spotify.com/artist/1SRVawVdGv7lue3kE6Ajl9"
         }
       ],
-      "duration_ms": 165884,
-      "name": "Tia Na S\u00e9",
-      "url": "https://open.spotify.com/track/6zzRjzMRxt3MGBsyx75wOh"
+      "duration_ms": 175794,
+      "name": "Rien \u00e0 f\u00eater",
+      "url": "https://open.spotify.com/track/2SraRNXafpI7MzEDSssAs3"
     },
     {
       "added_at": "2026-04-30 22:03:34",
@@ -471,6 +455,22 @@
       "duration_ms": 139493,
       "name": "Nieuport Beach Ft. BEN PLG",
       "url": "https://open.spotify.com/track/4rqBGwPRAMjxMb6XMKRjFd"
+    },
+    {
+      "added_at": "2026-04-30 22:03:34",
+      "album": {
+        "name": "Tia Na S\u00e9",
+        "url": "https://open.spotify.com/album/7AhjQKIKkggT6me7NFLjkT"
+      },
+      "artists": [
+        {
+          "name": "Rambo goyard",
+          "url": "https://open.spotify.com/artist/0RRp1XbMoTmW8zSWC1synA"
+        }
+      ],
+      "duration_ms": 165884,
+      "name": "Tia Na S\u00e9",
+      "url": "https://open.spotify.com/track/6zzRjzMRxt3MGBsyx75wOh"
     },
     {
       "added_at": "2026-04-30 22:03:34",
@@ -571,22 +571,6 @@
     {
       "added_at": "2026-04-30 22:03:34",
       "album": {
-        "name": "Mwasi Chou",
-        "url": "https://open.spotify.com/album/2u7P6gANBEBWBoNhOEWgyQ"
-      },
-      "artists": [
-        {
-          "name": "Epoque",
-          "url": "https://open.spotify.com/artist/5xNhapdkr2QQJoAkK9h67k"
-        }
-      ],
-      "duration_ms": 155689,
-      "name": "Mwasi Chou",
-      "url": "https://open.spotify.com/track/3igi0a7ec8hXEuXFUOnjte"
-    },
-    {
-      "added_at": "2026-04-30 22:03:34",
-      "album": {
         "name": "Les monstres",
         "url": "https://open.spotify.com/album/4w8l9RgrnoYB6EvRkZhmdo"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 212000,
       "name": "\u00catre une fille",
       "url": "https://open.spotify.com/track/6s7PgvBT8yKRtoogdwZzna"
+    },
+    {
+      "added_at": "2026-04-30 22:03:34",
+      "album": {
+        "name": "Mwasi Chou",
+        "url": "https://open.spotify.com/album/2u7P6gANBEBWBoNhOEWgyQ"
+      },
+      "artists": [
+        {
+          "name": "Epoque",
+          "url": "https://open.spotify.com/artist/5xNhapdkr2QQJoAkK9h67k"
+        }
+      ],
+      "duration_ms": 155689,
+      "name": "Mwasi Chou",
+      "url": "https://open.spotify.com/track/3igi0a7ec8hXEuXFUOnjte"
     },
     {
       "added_at": "2026-04-30 22:03:34",

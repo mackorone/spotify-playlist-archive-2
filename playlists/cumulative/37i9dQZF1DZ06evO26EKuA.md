@@ -4,7 +4,7 @@
 
 > This is Valentín Elizalde\. The essential tracks, all in one playlist.
 
-84 songs - 4 hr 30 min
+85 songs - 4 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,8 @@
 | [Si Me Ven](https://open.spotify.com/track/68TZFbe7BSQaNYSqpXbt7G) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Soy Así](https://open.spotify.com/album/4SrvbBpwiAJf09kK7EvQsk) | 3:44 | 2024-12-14 | 2025-11-28 |
 | [Sobre La Tumba De Mi Padre](https://open.spotify.com/track/6jVcf6qobg1VLoYah4jomr) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Íconos 25 Éxitos](https://open.spotify.com/album/0GKxtrQuqpABUvukziRENV) | 3:51 | 2022-06-01 |  |
 | [Soy Así](https://open.spotify.com/track/5O4eVNx9CpTxGLoyLmqn7P) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Soy Así](https://open.spotify.com/album/4SrvbBpwiAJf09kK7EvQsk) | 3:35 | 2022-06-01 |  |
-| [Te Quiero Así](https://open.spotify.com/track/7cfpUwXVmVNwi0e0lKkII3) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Vencedor](https://open.spotify.com/album/0k0b9mpJt6tJMT26aIzpoe) | 2:51 | 2022-06-01 |  |
+| [Te Quiero Así](https://open.spotify.com/track/61kqdsD1xegRmPhdw1r95l) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Vencedor](https://open.spotify.com/album/4cPRux21b3M1X668qR5lZ3) | 2:51 | 2026-05-24 |  |
+| [Te Quiero Así](https://open.spotify.com/track/7cfpUwXVmVNwi0e0lKkII3) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Vencedor](https://open.spotify.com/album/0k0b9mpJt6tJMT26aIzpoe) | 2:51 | 2022-06-01 | 2026-05-24 |
 | [Te Quiero Así](https://open.spotify.com/track/0qtzYtLntMIT2rLmxrqbYg) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Un Día Como Hoy](https://open.spotify.com/album/3TEMz9o6CRKPpaBbRLQorv) | 2:51 | 2026-02-15 | 2026-03-15 |
 | [Tengo Ganas](https://open.spotify.com/track/3v8d12Ogo5N2ucwReogiSq) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Homenaje A Una Vida Vol 1](https://open.spotify.com/album/4c2ZYYDwVqpfShY6IJGoFi) | 2:46 | 2022-06-01 |  |
 | [Tiburón A La Vista](https://open.spotify.com/track/7CUz1DOUHIWyhEacFwp7gO) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Lo Mejor De Homenaje A Una Vida](https://open.spotify.com/album/4IMIycfVRmQVdtKYeoWqqr) | 2:51 | 2022-06-01 | 2022-09-30 |

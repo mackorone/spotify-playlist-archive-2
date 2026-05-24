@@ -7558,7 +7558,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-23",
+      "date_removed": null,
       "duration_ms": 232933,
       "name": "Blackberry Marmalade",
       "url": "https://open.spotify.com/track/3FxrOAlvKSGGloyWOOgRDA"
@@ -10710,7 +10710,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 107385,
       "name": "Cant Look Back",
       "url": "https://open.spotify.com/track/4BLDnlO6IYXIbemUIBIK26"
@@ -11940,7 +11940,7 @@
       ],
       "date_added": "2026-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 225813,
       "name": "Child Actor",
       "url": "https://open.spotify.com/track/1hNrZ3l5SBRGf3u8bAm8yC"
@@ -14862,6 +14862,24 @@
     {
       "album": {
         "name": "Dear God",
+        "url": "https://open.spotify.com/album/4LqPNdoEBqxhaIAdrrstsu"
+      },
+      "artists": [
+        {
+          "name": "The Pretty Reckless",
+          "url": "https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq"
+        }
+      ],
+      "date_added": "2026-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 368505,
+      "name": "Dear God",
+      "url": "https://open.spotify.com/track/1Sn2P4sUV3ii0ykOrST5t4"
+    },
+    {
+      "album": {
+        "name": "Dear God",
         "url": "https://open.spotify.com/album/3sE3S6k6OA1UXWMKQEiaDY"
       },
       "artists": [
@@ -14872,7 +14890,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 368505,
       "name": "Dear God",
       "url": "https://open.spotify.com/track/6GSeQJtwp5OacI8ED9cKkU"
@@ -34129,6 +34147,24 @@
     },
     {
       "album": {
+        "name": "ICEMAN",
+        "url": "https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2026-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237344,
+      "name": "Janice STFU",
+      "url": "https://open.spotify.com/track/514joG57v4yKTsfQmz7stz"
+    },
+    {
+      "album": {
         "name": "Jasmine",
         "url": "https://open.spotify.com/album/1DBHlk9JyIXfKOFtK7mYjQ"
       },
@@ -44910,7 +44946,7 @@
       ],
       "date_added": "2026-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 234000,
       "name": "Neapolitan Phantasy",
       "url": "https://open.spotify.com/track/20xmXGsOL7nGsFyUxHszm2"
@@ -47981,6 +48017,24 @@
     },
     {
       "album": {
+        "name": "Dua Lipa - Live From Mexico",
+        "url": "https://open.spotify.com/album/3rvZld1RX30IVhuaLkYKnZ"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2026-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 380894,
+      "name": "One Kiss (Live From Mexico)",
+      "url": "https://open.spotify.com/track/5hI6xEpaZ9L2I6SG4TGuWr"
+    },
+    {
+      "album": {
         "name": "Live From Mexico",
         "url": "https://open.spotify.com/album/4GKlJev117Z9ZHR8CBhJ8E"
       },
@@ -47992,7 +48046,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 380894,
       "name": "One Kiss - Live From Mexico",
       "url": "https://open.spotify.com/track/2QInWNTK4PGMe7jBhA9pLm"
@@ -58208,7 +58262,7 @@
       ],
       "date_added": "2026-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 272091,
       "name": "SI BUENO / ON BRO",
       "url": "https://open.spotify.com/track/7ecfjsixLvRAXTkiCx5LLk"
@@ -67493,6 +67547,24 @@
     },
     {
       "album": {
+        "name": "They Just Don't Make the Blues Like They Used To",
+        "url": "https://open.spotify.com/album/7GLQDgguhNXR9tBweRFhS7"
+      },
+      "artists": [
+        {
+          "name": "The Del McCoury Band",
+          "url": "https://open.spotify.com/artist/2fj5pzLyOKDpUOPZs9q3wt"
+        }
+      ],
+      "date_added": "2026-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209859,
+      "name": "They Just Don't Make the Blues Like They Used To",
+      "url": "https://open.spotify.com/track/6kVhQmwYfgXBWEZtmwPG7N"
+    },
+    {
+      "album": {
         "name": "RFK Stadium, Washington, DC, 6/10/73 (Live)",
         "url": "https://open.spotify.com/album/2Lxt0taVNc2Bv20rt0d21w"
       },
@@ -67658,6 +67730,28 @@
       "duration_ms": 219000,
       "name": "Thinkin' Blues - Trumpet",
       "url": "https://open.spotify.com/track/2kuWB251MOhSZPKOxPcMo3"
+    },
+    {
+      "album": {
+        "name": "This Girl's in Love with You",
+        "url": "https://open.spotify.com/album/2zbGOQcdXloUxLQNA8yjIT"
+      },
+      "artists": [
+        {
+          "name": "De-Phazz",
+          "url": "https://open.spotify.com/artist/0WLS16S6MJvMgWXrUezleN"
+        },
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "date_added": "2026-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237911,
+      "name": "This Girl's in Love with You - belooped RMX",
+      "url": "https://open.spotify.com/track/00D9y2Ovi9iu21ozGlIWft"
     },
     {
       "album": {

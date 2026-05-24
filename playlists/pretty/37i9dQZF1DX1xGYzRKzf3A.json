@@ -1,6 +1,6 @@
 {
   "description": "Tierra linda que siempre sue\u00f1o, y que muy dentro llevo. Ciudad de Monterrey \u2665\ufe0f",
-  "num_followers": 171407,
+  "num_followers": 171445,
   "original_name": "Coraz\u00f3n Regio ",
   "owner": {
     "name": "Spotify",
@@ -111,6 +111,22 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
+        "name": "Ay Mamita",
+        "url": "https://open.spotify.com/album/35nuM8cRFXhxct9LMjcl8q"
+      },
+      "artists": [
+        {
+          "name": "Alan Arrieta",
+          "url": "https://open.spotify.com/artist/6raQ4bhFk0JuTS7i3nZBXr"
+        }
+      ],
+      "duration_ms": 164042,
+      "name": "Ay Mamita",
+      "url": "https://open.spotify.com/track/4LDd2UU8XdtJRrIyPvR9vW"
+    },
+    {
+      "added_at": "2025-11-09 06:50:57",
+      "album": {
         "name": "Punta Cana",
         "url": "https://open.spotify.com/album/3YvrPSD94Th9TvHcykVsyK"
       },
@@ -127,22 +143,6 @@
       "duration_ms": 168230,
       "name": "Punta Cana",
       "url": "https://open.spotify.com/track/1TPAAS0YvLKzmDMAGrRd6i"
-    },
-    {
-      "added_at": "2025-11-09 06:50:57",
-      "album": {
-        "name": "Ay Mamita",
-        "url": "https://open.spotify.com/album/35nuM8cRFXhxct9LMjcl8q"
-      },
-      "artists": [
-        {
-          "name": "Alan Arrieta",
-          "url": "https://open.spotify.com/artist/6raQ4bhFk0JuTS7i3nZBXr"
-        }
-      ],
-      "duration_ms": 164042,
-      "name": "Ay Mamita",
-      "url": "https://open.spotify.com/track/4LDd2UU8XdtJRrIyPvR9vW"
     },
     {
       "added_at": "2025-11-09 06:50:57",
@@ -427,18 +427,22 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
-        "name": "WEEKND",
-        "url": "https://open.spotify.com/album/5EaUYCfbpl9FBTq22eD5HI"
+        "name": "ATP",
+        "url": "https://open.spotify.com/album/63YUyakTLOBCWBab1oEtxe"
       },
       "artists": [
         {
-          "name": "Bohemio",
-          "url": "https://open.spotify.com/artist/2mtVUHNMxLAnBFD6wVmdEH"
+          "name": "Nsqk",
+          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
+        },
+        {
+          "name": "Easykid",
+          "url": "https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O"
         }
       ],
-      "duration_ms": 203333,
-      "name": "WEEKND",
-      "url": "https://open.spotify.com/track/5NbFWZiEj9WATXs6F1HxGZ"
+      "duration_ms": 181200,
+      "name": "BOBOMENSOTONTO",
+      "url": "https://open.spotify.com/track/7yjSJCFHonG9hz1A8WHHbn"
     },
     {
       "added_at": "2025-11-09 06:50:57",
@@ -475,26 +479,6 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
-        "name": "ATP",
-        "url": "https://open.spotify.com/album/63YUyakTLOBCWBab1oEtxe"
-      },
-      "artists": [
-        {
-          "name": "Nsqk",
-          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
-        },
-        {
-          "name": "Easykid",
-          "url": "https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O"
-        }
-      ],
-      "duration_ms": 181200,
-      "name": "BOBOMENSOTONTO",
-      "url": "https://open.spotify.com/track/7yjSJCFHonG9hz1A8WHHbn"
-    },
-    {
-      "added_at": "2025-11-09 06:50:57",
-      "album": {
         "name": "Orgullo De Mujer",
         "url": "https://open.spotify.com/album/4fbZPlF487LFDjYetlqmk3"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 243933,
       "name": "Insensible A Ti (Me Pone A Mil)",
       "url": "https://open.spotify.com/track/6WP2v1QpghefM2iM4x5L4a"
+    },
+    {
+      "added_at": "2025-11-09 06:50:57",
+      "album": {
+        "name": "WEEKND",
+        "url": "https://open.spotify.com/album/5EaUYCfbpl9FBTq22eD5HI"
+      },
+      "artists": [
+        {
+          "name": "Bohemio",
+          "url": "https://open.spotify.com/artist/2mtVUHNMxLAnBFD6wVmdEH"
+        }
+      ],
+      "duration_ms": 203333,
+      "name": "WEEKND",
+      "url": "https://open.spotify.com/track/5NbFWZiEj9WATXs6F1HxGZ"
     },
     {
       "added_at": "2025-11-09 06:50:57",
@@ -563,6 +563,22 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
+        "name": "LOVELANGUAGE",
+        "url": "https://open.spotify.com/album/24EzuFTRRdDYt4ZX7djyio"
+      },
+      "artists": [
+        {
+          "name": "Nsqk",
+          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
+        }
+      ],
+      "duration_ms": 224761,
+      "name": "LOVELANGUAGE",
+      "url": "https://open.spotify.com/track/5SuMst3sQt8wf94iGoXXLw"
+    },
+    {
+      "added_at": "2025-11-09 06:50:57",
+      "album": {
         "name": "TOMORROWLAND",
         "url": "https://open.spotify.com/album/7cTAEbPBIwniEGP6CVW5qD"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 185511,
       "name": "TOMORROWLAND",
       "url": "https://open.spotify.com/track/7ECjK3j7dTauos87ndRH0N"
-    },
-    {
-      "added_at": "2025-11-09 06:50:57",
-      "album": {
-        "name": "LOVELANGUAGE",
-        "url": "https://open.spotify.com/album/24EzuFTRRdDYt4ZX7djyio"
-      },
-      "artists": [
-        {
-          "name": "Nsqk",
-          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
-        }
-      ],
-      "duration_ms": 224761,
-      "name": "LOVELANGUAGE",
-      "url": "https://open.spotify.com/track/5SuMst3sQt8wf94iGoXXLw"
     },
     {
       "added_at": "2025-11-09 06:50:57",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
-        "name": "Ch\u00fantaros Radio Poder",
-        "url": "https://open.spotify.com/album/0wqb0G7P5hA3ajYi9ihVQL"
-      },
-      "artists": [
-        {
-          "name": "El Gran Silencio",
-          "url": "https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD"
-        }
-      ],
-      "duration_ms": 201538,
-      "name": "Cumbia Lunera",
-      "url": "https://open.spotify.com/track/6X9AbFeo1MYxfJco7BiSS2"
-    },
-    {
-      "added_at": "2025-11-09 06:50:57",
-      "album": {
         "name": "Deseo",
         "url": "https://open.spotify.com/album/0hjPOLaDHLy1xurF6FBCOB"
       },
@@ -1435,22 +1419,18 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
-        "name": "Epicentro Live (Desde Monterrey, M\u00e9xico)",
-        "url": "https://open.spotify.com/album/4Y3TnnR2RL0CvLayGIqqbw"
+        "name": "Ch\u00fantaros Radio Poder",
+        "url": "https://open.spotify.com/album/0wqb0G7P5hA3ajYi9ihVQL"
       },
       "artists": [
         {
-          "name": "V\u00e1stago Epicentro",
-          "url": "https://open.spotify.com/artist/2QsFnVJDNGsrjUWB4q6GVT"
-        },
-        {
-          "name": "Melissa Romero",
-          "url": "https://open.spotify.com/artist/4SdbDEZNjyPme83PlLVilY"
+          "name": "El Gran Silencio",
+          "url": "https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD"
         }
       ],
-      "duration_ms": 278720,
-      "name": "Quiero Volver - Live",
-      "url": "https://open.spotify.com/track/0kqd5SeMisUXEHxwHVNXVZ"
+      "duration_ms": 201538,
+      "name": "Cumbia Lunera",
+      "url": "https://open.spotify.com/track/6X9AbFeo1MYxfJco7BiSS2"
     },
     {
       "added_at": "2025-11-09 06:50:57",
@@ -1479,6 +1459,26 @@
       "duration_ms": 294545,
       "name": "Malvivientes",
       "url": "https://open.spotify.com/track/5xl0AxAVWP8Css33vu2j9P"
+    },
+    {
+      "added_at": "2025-11-09 06:50:57",
+      "album": {
+        "name": "Epicentro Live (Desde Monterrey, M\u00e9xico)",
+        "url": "https://open.spotify.com/album/4Y3TnnR2RL0CvLayGIqqbw"
+      },
+      "artists": [
+        {
+          "name": "V\u00e1stago Epicentro",
+          "url": "https://open.spotify.com/artist/2QsFnVJDNGsrjUWB4q6GVT"
+        },
+        {
+          "name": "Melissa Romero",
+          "url": "https://open.spotify.com/artist/4SdbDEZNjyPme83PlLVilY"
+        }
+      ],
+      "duration_ms": 278720,
+      "name": "Quiero Volver - Live",
+      "url": "https://open.spotify.com/track/0kqd5SeMisUXEHxwHVNXVZ"
     },
     {
       "added_at": "2025-11-09 06:50:57",
@@ -1859,22 +1859,6 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
-        "name": "Pr\u00e9stame Tu Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/193sAyinQJCfAe9rWjUH36"
-      },
-      "artists": [
-        {
-          "name": "Efecto Elegante",
-          "url": "https://open.spotify.com/artist/0NHX4tbvyRotP1QBhjTHX3"
-        }
-      ],
-      "duration_ms": 182073,
-      "name": "Pr\u00e9stame Tu Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/1bnSKjuPEd8FPACxqA5Mos"
-    },
-    {
-      "added_at": "2025-11-09 06:50:57",
-      "album": {
         "name": "La Fiesta De Mi Rancho",
         "url": "https://open.spotify.com/album/2ovNmdZGjk2mUshX3ksLWR"
       },
@@ -1887,6 +1871,22 @@
       "duration_ms": 156659,
       "name": "La Fiesta De Mi Rancho",
       "url": "https://open.spotify.com/track/3sTzAbbRNLFBcAirOxYZBb"
+    },
+    {
+      "added_at": "2025-11-09 06:50:57",
+      "album": {
+        "name": "Pr\u00e9stame Tu Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/193sAyinQJCfAe9rWjUH36"
+      },
+      "artists": [
+        {
+          "name": "Efecto Elegante",
+          "url": "https://open.spotify.com/artist/0NHX4tbvyRotP1QBhjTHX3"
+        }
+      ],
+      "duration_ms": 182073,
+      "name": "Pr\u00e9stame Tu Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/1bnSKjuPEd8FPACxqA5Mos"
     },
     {
       "added_at": "2025-11-09 06:50:57",
@@ -1923,26 +1923,6 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
-        "name": "Cumbia Nocturnal",
-        "url": "https://open.spotify.com/album/3eUmnu6QSEGfk2DWZ3Am7P"
-      },
-      "artists": [
-        {
-          "name": "Los Morales",
-          "url": "https://open.spotify.com/artist/6ApQFyQipz7e35stMrNG4h"
-        },
-        {
-          "name": "Secretto",
-          "url": "https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ"
-        }
-      ],
-      "duration_ms": 213042,
-      "name": "Cumbia Nocturnal",
-      "url": "https://open.spotify.com/track/66qKgeembM5aZZ2cOUQImh"
-    },
-    {
-      "added_at": "2025-11-09 06:50:57",
-      "album": {
         "name": "Busc\u00e1ndome",
         "url": "https://open.spotify.com/album/7pHZZSTcBjvvDlSQbgQQit"
       },
@@ -1959,6 +1939,26 @@
       "duration_ms": 256086,
       "name": "Busc\u00e1ndome",
       "url": "https://open.spotify.com/track/3TT6iiwXxxo1RaERWyeeqK"
+    },
+    {
+      "added_at": "2025-11-09 06:50:57",
+      "album": {
+        "name": "Cumbia Nocturnal",
+        "url": "https://open.spotify.com/album/3eUmnu6QSEGfk2DWZ3Am7P"
+      },
+      "artists": [
+        {
+          "name": "Los Morales",
+          "url": "https://open.spotify.com/artist/6ApQFyQipz7e35stMrNG4h"
+        },
+        {
+          "name": "Secretto",
+          "url": "https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ"
+        }
+      ],
+      "duration_ms": 213042,
+      "name": "Cumbia Nocturnal",
+      "url": "https://open.spotify.com/track/66qKgeembM5aZZ2cOUQImh"
     },
     {
       "added_at": "2025-11-09 06:50:57",
@@ -2019,6 +2019,38 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
+        "name": "#El Regreso",
+        "url": "https://open.spotify.com/album/65Jli3h6cwCimwjpsMDwOe"
+      },
+      "artists": [
+        {
+          "name": "Alberto Y Roberto",
+          "url": "https://open.spotify.com/artist/0OPjgWTre3WA03VewbWbm8"
+        }
+      ],
+      "duration_ms": 226965,
+      "name": "Tu Forma De Ser",
+      "url": "https://open.spotify.com/track/2B6Iw4NVbrLhguZ9pVpVGq"
+    },
+    {
+      "added_at": "2025-11-09 06:50:57",
+      "album": {
+        "name": "Poes\u00edas de mi Odisea",
+        "url": "https://open.spotify.com/album/72acy3W2vjDOFAj76co0up"
+      },
+      "artists": [
+        {
+          "name": "Mike Lamadrid",
+          "url": "https://open.spotify.com/artist/0yH4dtb40shmtEVyb9yA8C"
+        }
+      ],
+      "duration_ms": 189545,
+      "name": "Rolex",
+      "url": "https://open.spotify.com/track/6FDj6jrShgkIgt6opfqCnO"
+    },
+    {
+      "added_at": "2025-11-09 06:50:57",
+      "album": {
         "name": "donde qued\u00e9 yo?",
         "url": "https://open.spotify.com/album/1UYFv9czF3faJyHqPZyNGB"
       },
@@ -2055,34 +2087,18 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
-        "name": "#El Regreso",
-        "url": "https://open.spotify.com/album/65Jli3h6cwCimwjpsMDwOe"
+        "name": "Bien Te Va",
+        "url": "https://open.spotify.com/album/5HmP591qMqeCO3nGINsOFx"
       },
       "artists": [
         {
-          "name": "Alberto Y Roberto",
-          "url": "https://open.spotify.com/artist/0OPjgWTre3WA03VewbWbm8"
+          "name": "Nyquest",
+          "url": "https://open.spotify.com/artist/001KkBGwhLqBrFXyhsnxsH"
         }
       ],
-      "duration_ms": 226965,
-      "name": "Tu Forma De Ser",
-      "url": "https://open.spotify.com/track/2B6Iw4NVbrLhguZ9pVpVGq"
-    },
-    {
-      "added_at": "2025-11-09 06:50:57",
-      "album": {
-        "name": "Poes\u00edas de mi Odisea",
-        "url": "https://open.spotify.com/album/72acy3W2vjDOFAj76co0up"
-      },
-      "artists": [
-        {
-          "name": "Mike Lamadrid",
-          "url": "https://open.spotify.com/artist/0yH4dtb40shmtEVyb9yA8C"
-        }
-      ],
-      "duration_ms": 189545,
-      "name": "Rolex",
-      "url": "https://open.spotify.com/track/6FDj6jrShgkIgt6opfqCnO"
+      "duration_ms": 134760,
+      "name": "Bien Te Va",
+      "url": "https://open.spotify.com/track/0nBLZAAWxLXCt15rncjtoE"
     },
     {
       "added_at": "2025-11-09 06:50:57",
@@ -2191,22 +2207,6 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
-        "name": "Bien Te Va",
-        "url": "https://open.spotify.com/album/5HmP591qMqeCO3nGINsOFx"
-      },
-      "artists": [
-        {
-          "name": "Nyquest",
-          "url": "https://open.spotify.com/artist/001KkBGwhLqBrFXyhsnxsH"
-        }
-      ],
-      "duration_ms": 134760,
-      "name": "Bien Te Va",
-      "url": "https://open.spotify.com/track/0nBLZAAWxLXCt15rncjtoE"
-    },
-    {
-      "added_at": "2025-11-09 06:50:57",
-      "album": {
         "name": "SaD </3 VaLENTIN",
         "url": "https://open.spotify.com/album/2qBckyoECTiIXjvxugEnkw"
       },
@@ -2263,22 +2263,6 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
-        "name": "Bengala",
-        "url": "https://open.spotify.com/album/01jg8viSyNMt8kX9fqMTXA"
-      },
-      "artists": [
-        {
-          "name": "Bengala",
-          "url": "https://open.spotify.com/artist/3kcSMbcEv5nxio3oIF42HJ"
-        }
-      ],
-      "duration_ms": 187600,
-      "name": "Miente",
-      "url": "https://open.spotify.com/track/1gA2JKymFK2wqvNKbiZmjl"
-    },
-    {
-      "added_at": "2025-11-09 06:50:57",
-      "album": {
         "name": "Vive Cumbia",
         "url": "https://open.spotify.com/album/4rJYfaZvpbKxuzALlHJfhZ"
       },
@@ -2295,6 +2279,22 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
+        "name": "Bengala",
+        "url": "https://open.spotify.com/album/01jg8viSyNMt8kX9fqMTXA"
+      },
+      "artists": [
+        {
+          "name": "Bengala",
+          "url": "https://open.spotify.com/artist/3kcSMbcEv5nxio3oIF42HJ"
+        }
+      ],
+      "duration_ms": 187600,
+      "name": "Miente",
+      "url": "https://open.spotify.com/track/1gA2JKymFK2wqvNKbiZmjl"
+    },
+    {
+      "added_at": "2025-11-09 06:50:57",
+      "album": {
         "name": "Nitrocumbia",
         "url": "https://open.spotify.com/album/4vDymKr8UcyvMaaZOGELy3"
       },
@@ -2307,6 +2307,22 @@
       "duration_ms": 183066,
       "name": "Nitrocumbia",
       "url": "https://open.spotify.com/track/5Ub2ljGAxC1ZWZ4IxAZRKa"
+    },
+    {
+      "added_at": "2025-11-09 06:50:57",
+      "album": {
+        "name": "Pacific Jam At My Apartment",
+        "url": "https://open.spotify.com/album/2U1uNbCDt2jDhZpd6bM4wn"
+      },
+      "artists": [
+        {
+          "name": "PJAMA",
+          "url": "https://open.spotify.com/artist/6rEnCeFGwNGiOuBhjOPMVH"
+        }
+      ],
+      "duration_ms": 185950,
+      "name": "Insatisfecho",
+      "url": "https://open.spotify.com/track/0QfPd5Z46l1bkDhl9ABV2x"
     },
     {
       "added_at": "2025-11-09 06:50:57",
@@ -2331,38 +2347,6 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
-        "name": "Pacific Jam At My Apartment",
-        "url": "https://open.spotify.com/album/2U1uNbCDt2jDhZpd6bM4wn"
-      },
-      "artists": [
-        {
-          "name": "PJAMA",
-          "url": "https://open.spotify.com/artist/6rEnCeFGwNGiOuBhjOPMVH"
-        }
-      ],
-      "duration_ms": 185950,
-      "name": "Insatisfecho",
-      "url": "https://open.spotify.com/track/0QfPd5Z46l1bkDhl9ABV2x"
-    },
-    {
-      "added_at": "2025-11-09 06:50:57",
-      "album": {
-        "name": "Prom",
-        "url": "https://open.spotify.com/album/3C9JUf1lop0U0NlwxSEJjX"
-      },
-      "artists": [
-        {
-          "name": "Los Caliz",
-          "url": "https://open.spotify.com/artist/4S7g1b3zVElT70kZGKkXiz"
-        }
-      ],
-      "duration_ms": 142500,
-      "name": "Prom",
-      "url": "https://open.spotify.com/track/0fcSrSjsn3davHBci18iT0"
-    },
-    {
-      "added_at": "2025-11-09 06:50:57",
-      "album": {
         "name": "Lote",
         "url": "https://open.spotify.com/album/6A43lhFwLJobtSkNHfiSei"
       },
@@ -2383,26 +2367,18 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
-        "name": "ODISEA",
-        "url": "https://open.spotify.com/album/0QBpC9iFLo1419rOGBmUcP"
+        "name": "Prom",
+        "url": "https://open.spotify.com/album/3C9JUf1lop0U0NlwxSEJjX"
       },
       "artists": [
         {
-          "name": "Refugee",
-          "url": "https://open.spotify.com/artist/65GZg7V2p8KsgXcr72slTx"
-        },
-        {
-          "name": "Nsqk",
-          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
-        },
-        {
-          "name": "Anna Zarate",
-          "url": "https://open.spotify.com/artist/0lV6MyEOCG0JjI1HCWjeX2"
+          "name": "Los Caliz",
+          "url": "https://open.spotify.com/artist/4S7g1b3zVElT70kZGKkXiz"
         }
       ],
-      "duration_ms": 203624,
-      "name": "AM\u00c1NDOTE",
-      "url": "https://open.spotify.com/track/7EVthSAJmY0wjQPJourU0N"
+      "duration_ms": 142500,
+      "name": "Prom",
+      "url": "https://open.spotify.com/track/0fcSrSjsn3davHBci18iT0"
     },
     {
       "added_at": "2025-11-09 06:50:57",
@@ -2435,22 +2411,26 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
-        "name": "Verde",
-        "url": "https://open.spotify.com/album/7bmA9sOUyjkl2gSEkEE3Fd"
+        "name": "ODISEA",
+        "url": "https://open.spotify.com/album/0QBpC9iFLo1419rOGBmUcP"
       },
       "artists": [
         {
-          "name": "Wuicho kun",
-          "url": "https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E"
+          "name": "Refugee",
+          "url": "https://open.spotify.com/artist/65GZg7V2p8KsgXcr72slTx"
         },
         {
-          "name": "Macario Mart\u00ednez",
-          "url": "https://open.spotify.com/artist/228pVneav5qwbCGQrrqQo4"
+          "name": "Nsqk",
+          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
+        },
+        {
+          "name": "Anna Zarate",
+          "url": "https://open.spotify.com/artist/0lV6MyEOCG0JjI1HCWjeX2"
         }
       ],
-      "duration_ms": 266055,
-      "name": "Otra salida",
-      "url": "https://open.spotify.com/track/1e7WuxzFwE4Rn1GCFvOos2"
+      "duration_ms": 203624,
+      "name": "AM\u00c1NDOTE",
+      "url": "https://open.spotify.com/track/7EVthSAJmY0wjQPJourU0N"
     },
     {
       "added_at": "2025-11-09 06:50:57",
@@ -2467,6 +2447,26 @@
       "duration_ms": 254537,
       "name": "Que Lloro - En Vivo",
       "url": "https://open.spotify.com/track/3xgbyHmM087foQxOfJQuI4"
+    },
+    {
+      "added_at": "2025-11-09 06:50:57",
+      "album": {
+        "name": "Verde",
+        "url": "https://open.spotify.com/album/7bmA9sOUyjkl2gSEkEE3Fd"
+      },
+      "artists": [
+        {
+          "name": "Wuicho kun",
+          "url": "https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E"
+        },
+        {
+          "name": "Macario Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/228pVneav5qwbCGQrrqQo4"
+        }
+      ],
+      "duration_ms": 266055,
+      "name": "Otra salida",
+      "url": "https://open.spotify.com/track/1e7WuxzFwE4Rn1GCFvOos2"
     }
   ],
   "unique_name": "Coraz\u00f3n Regio ",

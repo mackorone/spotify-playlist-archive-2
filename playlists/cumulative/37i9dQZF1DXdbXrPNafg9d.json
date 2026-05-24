@@ -9204,7 +9204,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 234040,
       "name": "Ammunition",
       "url": "https://open.spotify.com/track/2Pmvdrfkph5iffqQPg22AW"
@@ -20100,7 +20100,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 223412,
       "name": "Blade of Light",
       "url": "https://open.spotify.com/track/0Lz9Hj1i3lBuWF68zGuPft"
@@ -52868,7 +52868,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 203026,
       "name": "EVERYTHING",
       "url": "https://open.spotify.com/track/7B2qUMtvYuAr8QGCx1vVij"
@@ -58664,7 +58664,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 271866,
       "name": "Florence",
       "url": "https://open.spotify.com/track/4vNf1qqBHno9dM6PcgVBHj"
@@ -66050,7 +66050,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 261747,
       "name": "Going Shopping",
       "url": "https://open.spotify.com/track/4dUOhTTMy4ITIbNQKPKYFP"
@@ -84570,7 +84570,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 205066,
       "name": "idea 1",
       "url": "https://open.spotify.com/track/3ZTKg748vW7Zrll3wzwjJy"
@@ -94064,7 +94064,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 163736,
       "name": "kiss goodbye",
       "url": "https://open.spotify.com/track/2fv6il8oAlsoOP7sKohscF"
@@ -102624,7 +102624,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 192075,
       "name": "Love Hate (feat. Thomas Day)",
       "url": "https://open.spotify.com/track/1ysnEi1bFBkn0aCQFPh8gY"
@@ -124164,7 +124164,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 146738,
       "name": "Oops",
       "url": "https://open.spotify.com/track/5HUqlNEKgLwBiPfpK9wBaX"
@@ -140724,7 +140724,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 183488,
       "name": "sad song",
       "url": "https://open.spotify.com/track/550U3xKjOwcHU36I47JX5P"
@@ -146824,7 +146824,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 216933,
       "name": "Sick Of Love",
       "url": "https://open.spotify.com/track/6aPG5Atb3L3l8pZYzLrpEi"
@@ -160112,7 +160112,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 182156,
       "name": "Sweet Hallelujah",
       "url": "https://open.spotify.com/track/6EoD3qpTgNtwXNqamzLCn5"
@@ -166526,6 +166526,24 @@
       "duration_ms": 164197,
       "name": "The Mannequin Song",
       "url": "https://open.spotify.com/track/0m35SoBcW7jLn9jpF1WktE"
+    },
+    {
+      "album": {
+        "name": "The Masochist",
+        "url": "https://open.spotify.com/album/4BOJAyWSsmfAgjtjBc2Co3"
+      },
+      "artists": [
+        {
+          "name": "Olivia O'Brien",
+          "url": "https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp"
+        }
+      ],
+      "date_added": "2026-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219832,
+      "name": "The Masochist",
+      "url": "https://open.spotify.com/track/1vqdOmyWu47G8k1pYTm29u"
     },
     {
       "album": {
@@ -175364,7 +175382,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 194227,
       "name": "Turnaround",
       "url": "https://open.spotify.com/track/3CaslR7DULHhYM6OXhxFL5"

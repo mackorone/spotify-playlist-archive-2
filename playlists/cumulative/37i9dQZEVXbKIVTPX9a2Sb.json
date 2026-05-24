@@ -40786,7 +40786,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-19",
+      "date_removed": null,
       "duration_ms": 243600,
       "name": "S&M",
       "url": "https://open.spotify.com/track/7ySUcLPVX7KudhnmNcgY2D"
@@ -44620,7 +44620,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 184761,
       "name": "Stateside + Zara Larsson",
       "url": "https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt"
@@ -44886,7 +44886,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 205048,
       "name": "Strach",
       "url": "https://open.spotify.com/track/5JShUXhGOwqhqwJVGjqVWk"
@@ -47359,6 +47359,24 @@
     },
     {
       "album": {
+        "name": "the cure",
+        "url": "https://open.spotify.com/album/6zme2NwcaBxbn3mWOcMY8y"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2026-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297090,
+      "name": "the cure",
+      "url": "https://open.spotify.com/track/4EoJ151oQ5jY48z4RhSE96"
+    },
+    {
+      "album": {
         "name": "The Days (NOTION Remix)",
         "url": "https://open.spotify.com/album/15gT6ikjvzrlIxQ5eTpqLJ"
       },
@@ -47732,7 +47750,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 227333,
       "name": "The One That Got Away",
       "url": "https://open.spotify.com/track/6hkOqJ5mE093AQf2lbZnsG"
@@ -56426,6 +56444,32 @@
       "duration_ms": 96001,
       "name": "\u0421\u0412\u0415\u0422\u041b\u0410\u041d\u0410!",
       "url": "https://open.spotify.com/track/35B1ToJcs6voXEoBls0PA3"
+    },
+    {
+      "album": {
+        "name": "\u0428\u0430\u0434\u044d",
+        "url": "https://open.spotify.com/album/6DBQO6xPJEwKISFHrlYkjI"
+      },
+      "artists": [
+        {
+          "name": "By \u0418\u043d\u0434\u0438\u044f",
+          "url": "https://open.spotify.com/artist/0BPOpRKw4vLwPFp4LsFRpO"
+        },
+        {
+          "name": "Xcho",
+          "url": "https://open.spotify.com/artist/774od4b04zDMQMGxrJDeuB"
+        },
+        {
+          "name": "\u041c\u041e\u0422",
+          "url": "https://open.spotify.com/artist/6OTMjaRQ9kxdwoPRYTmyOM"
+        }
+      ],
+      "date_added": "2026-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168941,
+      "name": "\u0428\u0430\u0434\u044d",
+      "url": "https://open.spotify.com/track/6GiiGC1f90eZdYwyg0NEJl"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZEVXbKIVTPX9a2Sb"

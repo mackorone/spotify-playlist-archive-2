@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ohNxI5tB79.md) - [plain]
 
 > Start your morning right with this collection of soul & jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 461,467 likes - 95 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 461,603 likes - 95 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ohNxI5tB79.md) - [plain]
 | 94 | [Ringing With Love](https://open.spotify.com/track/2CcosXxDkanGpGMCjX3UeZ) | [Noa Lauryn](https://open.spotify.com/artist/6bukZqzHUL1BdEXfa1wLz9), [Maddy Moreah](https://open.spotify.com/artist/0ITnYfCgaZPWFXJ2Yir6gY), [DAVIES](https://open.spotify.com/artist/04q7KeD8GMTsUEtIqO4N4Y) | [Ringing With Love](https://open.spotify.com/album/3yAEUE3qdYhA2qqoA1GULk) | 3:10 |
 | 95 | [FromHere \(feat\. Snoop Dogg & October London\)](https://open.spotify.com/track/1kJK2dkXbMw8yOMFEuJUm7) | [NxWorries](https://open.spotify.com/artist/6PEMFpe3PTOksdV4ZXUpbE), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Knxwledge](https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [October London](https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t) | [FromHere \(feat\. Snoop Dogg & October London\)](https://open.spotify.com/album/7aFWGuepWqTGZneBnfahBZ) | 4:01 |
 
-Snapshot ID: `AAAAAD8cvHPBTBkXgDvxpO6QrdZAp6lB`
+Snapshot ID: `AAAAAPvGljoPIFb3YEUhs2BbyT3Uua8s`

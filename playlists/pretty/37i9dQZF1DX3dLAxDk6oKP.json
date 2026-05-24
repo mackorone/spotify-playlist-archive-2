@@ -1,12 +1,12 @@
 {
   "description": "Al cien en la mamalona!  ",
-  "num_followers": 508882,
+  "num_followers": 509008,
   "original_name": "La Mamalona",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFffi+ItCIusCfapja9uOSE9j1st",
+  "snapshot_id": "AAAAALgd2xXw3uDwQjGzfVNq2vUCfqFb",
   "tracks": [
     {
       "added_at": "2026-03-28 16:23:01",
@@ -115,22 +115,6 @@
     {
       "added_at": "2026-03-28 16:23:01",
       "album": {
-        "name": "PUES QUE LE HAGO ?",
-        "url": "https://open.spotify.com/album/0gnl1AOeHUQwaqVexifCGT"
-      },
-      "artists": [
-        {
-          "name": "Chuyin",
-          "url": "https://open.spotify.com/artist/5c8ZR64evQ00Spl73s76fo"
-        }
-      ],
-      "duration_ms": 141607,
-      "name": "PUES QUE LE HAGO ?",
-      "url": "https://open.spotify.com/track/0PA6wI9DZ0bWMaSpXyTrAW"
-    },
-    {
-      "added_at": "2026-03-28 16:23:01",
-      "album": {
         "name": "Mi Vida Mi Muerte",
         "url": "https://open.spotify.com/album/338NDGMHtB4t5mp8RhMnh3"
       },
@@ -147,6 +131,22 @@
       "duration_ms": 193728,
       "name": "Morena",
       "url": "https://open.spotify.com/track/4oB8Xd7gMlUEtWoD8bmCXW"
+    },
+    {
+      "added_at": "2026-03-28 16:23:01",
+      "album": {
+        "name": "PUES QUE LE HAGO ?",
+        "url": "https://open.spotify.com/album/0gnl1AOeHUQwaqVexifCGT"
+      },
+      "artists": [
+        {
+          "name": "Chuyin",
+          "url": "https://open.spotify.com/artist/5c8ZR64evQ00Spl73s76fo"
+        }
+      ],
+      "duration_ms": 141607,
+      "name": "PUES QUE LE HAGO ?",
+      "url": "https://open.spotify.com/track/0PA6wI9DZ0bWMaSpXyTrAW"
     },
     {
       "added_at": "2026-03-28 16:23:01",
@@ -751,22 +751,18 @@
     {
       "added_at": "2026-03-28 16:23:01",
       "album": {
-        "name": "El Chore",
-        "url": "https://open.spotify.com/album/4yyQAqJj38f5DD7BhZhCuh"
+        "name": "INC\u00d3MODO",
+        "url": "https://open.spotify.com/album/27GWSFRITD8JJcSGMgEfTN"
       },
       "artists": [
         {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        },
-        {
-          "name": "Gael Valenzuela",
-          "url": "https://open.spotify.com/artist/5mo9Z7aGxbLG7gVYajpCar"
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
         }
       ],
-      "duration_ms": 170259,
-      "name": "El Chore",
-      "url": "https://open.spotify.com/track/2k35RlqbpIPZPAOjzME0ZL"
+      "duration_ms": 200658,
+      "name": "BLANCA ROSITA Y MARIA",
+      "url": "https://open.spotify.com/track/1wsDxqEDpsvNCatbXHjOje"
     },
     {
       "added_at": "2026-03-28 16:23:01",
@@ -791,18 +787,22 @@
     {
       "added_at": "2026-03-28 16:23:01",
       "album": {
-        "name": "INC\u00d3MODO",
-        "url": "https://open.spotify.com/album/27GWSFRITD8JJcSGMgEfTN"
+        "name": "El Chore",
+        "url": "https://open.spotify.com/album/4yyQAqJj38f5DD7BhZhCuh"
       },
       "artists": [
         {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        },
+        {
+          "name": "Gael Valenzuela",
+          "url": "https://open.spotify.com/artist/5mo9Z7aGxbLG7gVYajpCar"
         }
       ],
-      "duration_ms": 200658,
-      "name": "BLANCA ROSITA Y MARIA",
-      "url": "https://open.spotify.com/track/1wsDxqEDpsvNCatbXHjOje"
+      "duration_ms": 170259,
+      "name": "El Chore",
+      "url": "https://open.spotify.com/track/2k35RlqbpIPZPAOjzME0ZL"
     },
     {
       "added_at": "2026-03-28 16:23:01",
@@ -971,26 +971,6 @@
     {
       "added_at": "2026-03-28 16:23:01",
       "album": {
-        "name": "Vita Fer",
-        "url": "https://open.spotify.com/album/2UyuT1u6vDSwK1WXEkyfr4"
-      },
-      "artists": [
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        },
-        {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
-        }
-      ],
-      "duration_ms": 184743,
-      "name": "Vita Fer",
-      "url": "https://open.spotify.com/track/5HZBdV5AwSvKdHFOYbXYD7"
-    },
-    {
-      "added_at": "2026-03-28 16:23:01",
-      "album": {
         "name": "COMO CAPO",
         "url": "https://open.spotify.com/album/5TDTBVPY0Vcp3eL3YZh98E"
       },
@@ -1007,6 +987,26 @@
       "duration_ms": 165482,
       "name": "COMO CAPO",
       "url": "https://open.spotify.com/track/395oynN3pkdaY3Np0igFCN"
+    },
+    {
+      "added_at": "2026-03-28 16:23:01",
+      "album": {
+        "name": "Vita Fer",
+        "url": "https://open.spotify.com/album/2UyuT1u6vDSwK1WXEkyfr4"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        },
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "duration_ms": 184743,
+      "name": "Vita Fer",
+      "url": "https://open.spotify.com/track/5HZBdV5AwSvKdHFOYbXYD7"
     },
     {
       "added_at": "2026-03-28 16:23:01",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2026-03-28 16:23:01",
       "album": {
-        "name": "Si Lo Digo Es Porque Puedo",
-        "url": "https://open.spotify.com/album/36T7295UHRjUmh2HxKNkDR"
-      },
-      "artists": [
-        {
-          "name": "Grupo Codiciado",
-          "url": "https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc"
-        }
-      ],
-      "duration_ms": 172297,
-      "name": "Gente De Accionar",
-      "url": "https://open.spotify.com/track/3ZpajXo0KgjHw5WSMMIDfy"
-    },
-    {
-      "added_at": "2026-03-28 16:23:01",
-      "album": {
         "name": "TU TU TU",
         "url": "https://open.spotify.com/album/4WkJSoeofaut2WwjCfa6p0"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 151570,
       "name": "TU TU TU",
       "url": "https://open.spotify.com/track/5sK3SqHia7p5dXjdq1dluB"
+    },
+    {
+      "added_at": "2026-03-28 16:23:01",
+      "album": {
+        "name": "Si Lo Digo Es Porque Puedo",
+        "url": "https://open.spotify.com/album/36T7295UHRjUmh2HxKNkDR"
+      },
+      "artists": [
+        {
+          "name": "Grupo Codiciado",
+          "url": "https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc"
+        }
+      ],
+      "duration_ms": 172297,
+      "name": "Gente De Accionar",
+      "url": "https://open.spotify.com/track/3ZpajXo0KgjHw5WSMMIDfy"
     },
     {
       "added_at": "2026-03-28 16:23:01",
@@ -1855,18 +1855,22 @@
     {
       "added_at": "2026-03-28 16:23:01",
       "album": {
-        "name": "100% Corridos Verdes",
-        "url": "https://open.spotify.com/album/6wC84ki9uLVWAijIijE02r"
+        "name": "Gallos Y Caballos",
+        "url": "https://open.spotify.com/album/0VcuY0FORxC5SuMuT1NfZl"
       },
       "artists": [
         {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+          "name": "Grupo Maximo Grado",
+          "url": "https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ"
+        },
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
         }
       ],
-      "duration_ms": 172746,
-      "name": "El Afro",
-      "url": "https://open.spotify.com/track/1DoeAYZPdp1RPea7cqDH4m"
+      "duration_ms": 158543,
+      "name": "Gallos Y Caballos",
+      "url": "https://open.spotify.com/track/1pn82sWTAmrP709W07VImY"
     }
   ],
   "unique_name": "La Mamalona",

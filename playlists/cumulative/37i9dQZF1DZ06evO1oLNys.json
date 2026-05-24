@@ -38,7 +38,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 689914,
       "name": "48|50",
       "url": "https://open.spotify.com/track/5TJBMHreOoaJxfcONpuHuG"
@@ -665,6 +665,28 @@
     },
     {
       "album": {
+        "name": "Penny Whistle Seller, Guangzhou",
+        "url": "https://open.spotify.com/album/3D8fHmmuT8ZQxiEzJacM8x"
+      },
+      "artists": [
+        {
+          "name": "Lia Kohl",
+          "url": "https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s"
+        },
+        {
+          "name": "claire rousay",
+          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
+        }
+      ],
+      "date_added": "2026-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60000,
+      "name": "Home, Los Angeles",
+      "url": "https://open.spotify.com/track/59ClztjwU9ic9p24oyTGJI"
+    },
+    {
+      "album": {
         "name": "Various Small Whistles and a Song",
         "url": "https://open.spotify.com/album/32giMSlU2jssM3GKwInlQk"
       },
@@ -702,7 +724,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-23",
+      "date_removed": null,
       "duration_ms": 367000,
       "name": "I Forget How To Remember My Dreams",
       "url": "https://open.spotify.com/track/7FaEjzCuO5f5a7HNWUYsNq"
@@ -724,7 +746,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 367000,
       "name": "I Forget How To Remember My Dreams (ft. Lia Kohl)",
       "url": "https://open.spotify.com/track/6nD3PR4C7MwktelphQI8AD"
@@ -785,6 +807,28 @@
     },
     {
       "album": {
+        "name": "In Transit",
+        "url": "https://open.spotify.com/album/1kIPPJHupfJboNly1npS7a"
+      },
+      "artists": [
+        {
+          "name": "Lia Kohl",
+          "url": "https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s"
+        },
+        {
+          "name": "Zander Raymond",
+          "url": "https://open.spotify.com/artist/5sR4c4y0XegnM0FjJi0Tsw"
+        }
+      ],
+      "date_added": "2026-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303011,
+      "name": "In the taxi",
+      "url": "https://open.spotify.com/track/2EVdsYRs43sr6Y0ohqQyqH"
+    },
+    {
+      "album": {
         "name": "No One Notices the Fly",
         "url": "https://open.spotify.com/album/794bh1FbfMmqSj0kUXKg0i"
       },
@@ -840,7 +884,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-22",
+      "date_removed": null,
       "duration_ms": 373560,
       "name": "Join Me, Everybody",
       "url": "https://open.spotify.com/track/0XR9ygnw0WFLPVzwSiejsx"
@@ -862,7 +906,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 212295,
       "name": "Later",
       "url": "https://open.spotify.com/track/2QER9scLlKbXs7FykeWWfb"
@@ -1148,7 +1192,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 342327,
       "name": "Rich, Sticky, Sweet",
       "url": "https://open.spotify.com/track/434fNClMan2sL4bZ26Iw2Z"

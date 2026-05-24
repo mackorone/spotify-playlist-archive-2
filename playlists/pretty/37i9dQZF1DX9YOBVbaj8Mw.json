@@ -1,6 +1,6 @@
 {
   "description": "Pos\u0142uchaj nominowanych do nagr\u00f3d Fryderyk w kategorii muzyka rozrywkowa i jazz.",
-  "num_followers": 19592,
+  "num_followers": 19773,
   "original_name": "Fryderyk 2026",
   "owner": {
     "name": "Spotify",
@@ -855,22 +855,6 @@
     {
       "added_at": "2026-05-13 08:19:16",
       "album": {
-        "name": "Fly High-Fi!",
-        "url": "https://open.spotify.com/album/1PDdmD6r7XGmMHos1YZeTF"
-      },
-      "artists": [
-        {
-          "name": "Vavamuffin",
-          "url": "https://open.spotify.com/artist/2Lm3vSenofPiawS8U58tMD"
-        }
-      ],
-      "duration_ms": 230124,
-      "name": "Dubbrat",
-      "url": "https://open.spotify.com/track/07tSNivehfYJ52SPt1ta2Q"
-    },
-    {
-      "added_at": "2026-05-13 08:19:16",
-      "album": {
         "name": "Popi\u00f3\u0142",
         "url": "https://open.spotify.com/album/73hQElTnbuhB7HT0w9gIN3"
       },
@@ -887,6 +871,22 @@
     {
       "added_at": "2026-05-13 08:19:16",
       "album": {
+        "name": "Fly High-Fi!",
+        "url": "https://open.spotify.com/album/1PDdmD6r7XGmMHos1YZeTF"
+      },
+      "artists": [
+        {
+          "name": "Vavamuffin",
+          "url": "https://open.spotify.com/artist/2Lm3vSenofPiawS8U58tMD"
+        }
+      ],
+      "duration_ms": 230124,
+      "name": "Dubbrat",
+      "url": "https://open.spotify.com/track/07tSNivehfYJ52SPt1ta2Q"
+    },
+    {
+      "added_at": "2026-05-13 08:19:16",
+      "album": {
         "name": "BUNT",
         "url": "https://open.spotify.com/album/15gTLiKvDdaG9kxU86rv1I"
       },
@@ -899,6 +899,22 @@
       "duration_ms": 326653,
       "name": "Aport",
       "url": "https://open.spotify.com/track/7akEAUYosmzkXTpYvmfahf"
+    },
+    {
+      "added_at": "2026-05-13 08:19:16",
+      "album": {
+        "name": "Tematy i wariacje",
+        "url": "https://open.spotify.com/album/5oPLIlVa14HPuYNuZ7MSeT"
+      },
+      "artists": [
+        {
+          "name": "Walu\u015bKraksaKryzys",
+          "url": "https://open.spotify.com/artist/4kOWvyAkvmkCrIHwW3bODd"
+        }
+      ],
+      "duration_ms": 293906,
+      "name": "VValka o ka\u017cdy kolejny dzie\u0144",
+      "url": "https://open.spotify.com/track/4odf0Poq48hNjNUDONrRbF"
     },
     {
       "added_at": "2026-05-13 08:19:16",
@@ -935,42 +951,6 @@
     {
       "added_at": "2026-05-13 08:19:16",
       "album": {
-        "name": "Tematy i wariacje",
-        "url": "https://open.spotify.com/album/5oPLIlVa14HPuYNuZ7MSeT"
-      },
-      "artists": [
-        {
-          "name": "Walu\u015bKraksaKryzys",
-          "url": "https://open.spotify.com/artist/4kOWvyAkvmkCrIHwW3bODd"
-        }
-      ],
-      "duration_ms": 293906,
-      "name": "VValka o ka\u017cdy kolejny dzie\u0144",
-      "url": "https://open.spotify.com/track/4odf0Poq48hNjNUDONrRbF"
-    },
-    {
-      "added_at": "2026-05-13 08:19:16",
-      "album": {
-        "name": "Homage",
-        "url": "https://open.spotify.com/album/03iukKxMidzmP0ZhywfX5D"
-      },
-      "artists": [
-        {
-          "name": "Joe Lovano",
-          "url": "https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf"
-        },
-        {
-          "name": "Marcin Wasilewski Trio",
-          "url": "https://open.spotify.com/artist/2UGL8QDKTSVXMqZqQR8DRL"
-        }
-      ],
-      "duration_ms": 251514,
-      "name": "Love in the Garden",
-      "url": "https://open.spotify.com/track/3CjlpGjhzc7pGBXCUWprYC"
-    },
-    {
-      "added_at": "2026-05-13 08:19:16",
-      "album": {
         "name": "Druga Furioza (Soundtrack From The Netflix Film)",
         "url": "https://open.spotify.com/album/1r1T3xlUtnE4hrpJdwFOjT"
       },
@@ -983,22 +963,6 @@
       "duration_ms": 105000,
       "name": "Wolny jak Li\u015b\u0107",
       "url": "https://open.spotify.com/track/6QBNU5ZuYlfBNgmC9K4xRZ"
-    },
-    {
-      "added_at": "2026-05-13 08:19:16",
-      "album": {
-        "name": "Boleros y Masecki",
-        "url": "https://open.spotify.com/album/2eOsPHztjx0TGTTATCwWpx"
-      },
-      "artists": [
-        {
-          "name": "Marcin Masecki",
-          "url": "https://open.spotify.com/artist/5q3lPRiypUmNNLhmoz8WFg"
-        }
-      ],
-      "duration_ms": 291186,
-      "name": "Amor sin esperanza",
-      "url": "https://open.spotify.com/track/2zK3jWZ37xCZFQRS2x07r9"
     },
     {
       "added_at": "2026-05-13 08:19:16",
@@ -1023,6 +987,22 @@
     {
       "added_at": "2026-05-13 08:19:16",
       "album": {
+        "name": "Boleros y Masecki",
+        "url": "https://open.spotify.com/album/2eOsPHztjx0TGTTATCwWpx"
+      },
+      "artists": [
+        {
+          "name": "Marcin Masecki",
+          "url": "https://open.spotify.com/artist/5q3lPRiypUmNNLhmoz8WFg"
+        }
+      ],
+      "duration_ms": 291186,
+      "name": "Amor sin esperanza",
+      "url": "https://open.spotify.com/track/2zK3jWZ37xCZFQRS2x07r9"
+    },
+    {
+      "added_at": "2026-05-13 08:19:16",
+      "album": {
         "name": "M\u00d3J TRUP JEST WI\u0118KSZY NI\u017b TW\u00d3J",
         "url": "https://open.spotify.com/album/49A5muPtRuTvE0BbqRJfBR"
       },
@@ -1035,6 +1015,26 @@
       "duration_ms": 313226,
       "name": "KREW Z KRWI",
       "url": "https://open.spotify.com/track/4prmXqlZocQ5lmQ24vsGDK"
+    },
+    {
+      "added_at": "2026-05-13 08:19:16",
+      "album": {
+        "name": "Homage",
+        "url": "https://open.spotify.com/album/03iukKxMidzmP0ZhywfX5D"
+      },
+      "artists": [
+        {
+          "name": "Joe Lovano",
+          "url": "https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf"
+        },
+        {
+          "name": "Marcin Wasilewski Trio",
+          "url": "https://open.spotify.com/artist/2UGL8QDKTSVXMqZqQR8DRL"
+        }
+      ],
+      "duration_ms": 251514,
+      "name": "Love in the Garden",
+      "url": "https://open.spotify.com/track/3CjlpGjhzc7pGBXCUWprYC"
     },
     {
       "added_at": "2026-05-13 08:19:16",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2026-05-13 08:19:16",
       "album": {
+        "name": "Sie\u0107 Indry",
+        "url": "https://open.spotify.com/album/0SyKIJwrswed74mceZkmnG"
+      },
+      "artists": [
+        {
+          "name": "Variete",
+          "url": "https://open.spotify.com/artist/4Ql0QYFmhiCSiwy3Konrti"
+        }
+      ],
+      "duration_ms": 251783,
+      "name": "Sycylia",
+      "url": "https://open.spotify.com/track/6sg2gRg0NvxAVSYcttwnDY"
+    },
+    {
+      "added_at": "2026-05-13 08:19:16",
+      "album": {
         "name": "Fryderyk LIS",
         "url": "https://open.spotify.com/album/1SfN921eAsd9laV3u0PX71"
       },
@@ -1079,22 +1095,6 @@
     {
       "added_at": "2026-05-13 08:19:16",
       "album": {
-        "name": "Sie\u0107 Indry",
-        "url": "https://open.spotify.com/album/0SyKIJwrswed74mceZkmnG"
-      },
-      "artists": [
-        {
-          "name": "Variete",
-          "url": "https://open.spotify.com/artist/4Ql0QYFmhiCSiwy3Konrti"
-        }
-      ],
-      "duration_ms": 251783,
-      "name": "Sycylia",
-      "url": "https://open.spotify.com/track/6sg2gRg0NvxAVSYcttwnDY"
-    },
-    {
-      "added_at": "2026-05-13 08:19:16",
-      "album": {
         "name": "Oran\u017cowy \u015awit",
         "url": "https://open.spotify.com/album/53YYHkNtfwxVM1N7E1LwXr"
       },
@@ -1111,22 +1111,6 @@
       "duration_ms": 203000,
       "name": "W \u017byciu Bywa Jak W Piosence",
       "url": "https://open.spotify.com/track/1yJIGyzqw69MEMCsJdXAxO"
-    },
-    {
-      "added_at": "2026-05-13 08:19:16",
-      "album": {
-        "name": "Razorblade Psalm",
-        "url": "https://open.spotify.com/album/2XtgKamCicOquv0c0uIrTV"
-      },
-      "artists": [
-        {
-          "name": "Hostia",
-          "url": "https://open.spotify.com/artist/1oM790LNK44Js7LOQJKSzy"
-        }
-      ],
-      "duration_ms": 96000,
-      "name": "An Empty Grave Is Just A Hole In The Ground",
-      "url": "https://open.spotify.com/track/3m2SXOi3m1ArkPS1naFlu3"
     },
     {
       "added_at": "2026-05-13 08:19:16",
@@ -1159,6 +1143,22 @@
       "duration_ms": 356623,
       "name": "Chwilowy uk\u0142ad wszystkiego",
       "url": "https://open.spotify.com/track/5ML73U95xmY6cgjtZoiy4A"
+    },
+    {
+      "added_at": "2026-05-13 08:19:16",
+      "album": {
+        "name": "Razorblade Psalm",
+        "url": "https://open.spotify.com/album/2XtgKamCicOquv0c0uIrTV"
+      },
+      "artists": [
+        {
+          "name": "Hostia",
+          "url": "https://open.spotify.com/artist/1oM790LNK44Js7LOQJKSzy"
+        }
+      ],
+      "duration_ms": 96000,
+      "name": "An Empty Grave Is Just A Hole In The Ground",
+      "url": "https://open.spotify.com/track/3m2SXOi3m1ArkPS1naFlu3"
     },
     {
       "added_at": "2026-05-13 08:19:16",
@@ -1231,22 +1231,18 @@
     {
       "added_at": "2026-05-13 08:19:16",
       "album": {
-        "name": "Budy\u0144 o smaku Mickiewicza",
-        "url": "https://open.spotify.com/album/4v1jN87zI3hmMraLsmTAPK"
+        "name": "CITY CLUSTER",
+        "url": "https://open.spotify.com/album/3AnVflrT0bjMfbEGKsFfuU"
       },
       "artists": [
         {
-          "name": "Nikola Ko\u0142odziejczyk Orchestra",
-          "url": "https://open.spotify.com/artist/3k2YeYtwjRmIHv6FjlCmhy"
-        },
-        {
-          "name": "Tomasz Organek",
-          "url": "https://open.spotify.com/artist/3uw2vI1IAQ7DPUY4g3p5FR"
+          "name": "Micha\u0142 FOX Kr\u00f3l",
+          "url": "https://open.spotify.com/artist/5sQT3ksKgSbif3ykU1tMek"
         }
       ],
-      "duration_ms": 701500,
-      "name": "\u015awitezianka",
-      "url": "https://open.spotify.com/track/0kPDGa8tW4fFPifXwo8F8M"
+      "duration_ms": 253000,
+      "name": "UP & DOWN",
+      "url": "https://open.spotify.com/track/6tfwKz3crWeA0PIF5OnS4F"
     },
     {
       "added_at": "2026-05-13 08:19:16",
@@ -1319,18 +1315,22 @@
     {
       "added_at": "2026-05-13 08:19:16",
       "album": {
-        "name": "CITY CLUSTER",
-        "url": "https://open.spotify.com/album/3AnVflrT0bjMfbEGKsFfuU"
+        "name": "Budy\u0144 o smaku Mickiewicza",
+        "url": "https://open.spotify.com/album/4v1jN87zI3hmMraLsmTAPK"
       },
       "artists": [
         {
-          "name": "Micha\u0142 FOX Kr\u00f3l",
-          "url": "https://open.spotify.com/artist/5sQT3ksKgSbif3ykU1tMek"
+          "name": "Nikola Ko\u0142odziejczyk Orchestra",
+          "url": "https://open.spotify.com/artist/3k2YeYtwjRmIHv6FjlCmhy"
+        },
+        {
+          "name": "Tomasz Organek",
+          "url": "https://open.spotify.com/artist/3uw2vI1IAQ7DPUY4g3p5FR"
         }
       ],
-      "duration_ms": 253000,
-      "name": "UP & DOWN",
-      "url": "https://open.spotify.com/track/6tfwKz3crWeA0PIF5OnS4F"
+      "duration_ms": 701500,
+      "name": "\u015awitezianka",
+      "url": "https://open.spotify.com/track/0kPDGa8tW4fFPifXwo8F8M"
     },
     {
       "added_at": "2026-05-13 08:19:16",
@@ -1351,6 +1351,26 @@
     {
       "added_at": "2026-05-13 08:19:16",
       "album": {
+        "name": "Czas rozpali\u0107 piec",
+        "url": "https://open.spotify.com/album/5KUnvYAdCfl0TLTyIMzJSR"
+      },
+      "artists": [
+        {
+          "name": "W\u0142odzimierz Nahorny",
+          "url": "https://open.spotify.com/artist/5FyRYKbSP4L7sNE9UtWoSS"
+        },
+        {
+          "name": "Nula Stankiewicz",
+          "url": "https://open.spotify.com/artist/5ZlNdUfmPM28gBb2rdkulS"
+        }
+      ],
+      "duration_ms": 250359,
+      "name": "Czas rozpali\u0107 piec",
+      "url": "https://open.spotify.com/track/4y2okX9U20zbJWZYSaBAE2"
+    },
+    {
+      "added_at": "2026-05-13 08:19:16",
+      "album": {
         "name": "neurodivergent",
         "url": "https://open.spotify.com/album/6gBwZZvR34WXlnP8j0yebu"
       },
@@ -1360,9 +1380,9 @@
           "url": "https://open.spotify.com/artist/4HF1r8SlGoxntonU0hlk6l"
         }
       ],
-      "duration_ms": 568547,
-      "name": "is it",
-      "url": "https://open.spotify.com/track/6doQlNXVP2ErXE18lCRYgJ"
+      "duration_ms": 189475,
+      "name": "number 4",
+      "url": "https://open.spotify.com/track/4ibIVReoP9Kv7EOLKiSato"
     },
     {
       "added_at": "2026-05-13 08:19:16",
@@ -1472,29 +1492,9 @@
           "url": "https://open.spotify.com/artist/4HF1r8SlGoxntonU0hlk6l"
         }
       ],
-      "duration_ms": 189475,
-      "name": "number 4",
-      "url": "https://open.spotify.com/track/4ibIVReoP9Kv7EOLKiSato"
-    },
-    {
-      "added_at": "2026-05-13 08:19:16",
-      "album": {
-        "name": "Czas rozpali\u0107 piec",
-        "url": "https://open.spotify.com/album/5KUnvYAdCfl0TLTyIMzJSR"
-      },
-      "artists": [
-        {
-          "name": "W\u0142odzimierz Nahorny",
-          "url": "https://open.spotify.com/artist/5FyRYKbSP4L7sNE9UtWoSS"
-        },
-        {
-          "name": "Nula Stankiewicz",
-          "url": "https://open.spotify.com/artist/5ZlNdUfmPM28gBb2rdkulS"
-        }
-      ],
-      "duration_ms": 250359,
-      "name": "Czas rozpali\u0107 piec",
-      "url": "https://open.spotify.com/track/4y2okX9U20zbJWZYSaBAE2"
+      "duration_ms": 568547,
+      "name": "is it",
+      "url": "https://open.spotify.com/track/6doQlNXVP2ErXE18lCRYgJ"
     }
   ],
   "unique_name": "Fryderyk 2026",

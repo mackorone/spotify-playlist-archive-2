@@ -1,6 +1,6 @@
 {
   "description": "Um pouco de reggae pra acompanhar a brisa do mar.",
-  "num_followers": 420579,
+  "num_followers": 420585,
   "original_name": "Praiana",
   "owner": {
     "name": "Spotify",
@@ -283,26 +283,6 @@
     {
       "added_at": "2026-05-20 18:15:24",
       "album": {
-        "name": "Oh! Chuva (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1XvZ3fUOBfrvserZuP5DDK"
-      },
-      "artists": [
-        {
-          "name": "Falamansa",
-          "url": "https://open.spotify.com/artist/6uTK3YD9CT3pLx2yEfVmXk"
-        },
-        {
-          "name": "Marcelo Falc\u00e3o",
-          "url": "https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr"
-        }
-      ],
-      "duration_ms": 194771,
-      "name": "Oh! Chuva - Ao Vivo",
-      "url": "https://open.spotify.com/track/6pGzovjfmkZTwWZ5wMW5MZ"
-    },
-    {
-      "added_at": "2026-05-20 18:15:24",
-      "album": {
         "name": "O Mundo Diz Que N\u00e3o",
         "url": "https://open.spotify.com/album/7kZ5JyVWYTLnCt0nwvs3Gi"
       },
@@ -323,6 +303,26 @@
       "duration_ms": 193411,
       "name": "O Mundo Diz Que N\u00e3o",
       "url": "https://open.spotify.com/track/4fGBndf26VOuEwcrQ7Cd7u"
+    },
+    {
+      "added_at": "2026-05-20 18:15:24",
+      "album": {
+        "name": "Oh! Chuva (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1XvZ3fUOBfrvserZuP5DDK"
+      },
+      "artists": [
+        {
+          "name": "Falamansa",
+          "url": "https://open.spotify.com/artist/6uTK3YD9CT3pLx2yEfVmXk"
+        },
+        {
+          "name": "Marcelo Falc\u00e3o",
+          "url": "https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr"
+        }
+      ],
+      "duration_ms": 194771,
+      "name": "Oh! Chuva - Ao Vivo",
+      "url": "https://open.spotify.com/track/6pGzovjfmkZTwWZ5wMW5MZ"
     },
     {
       "added_at": "2026-05-20 18:15:24",
@@ -879,22 +879,6 @@
     {
       "added_at": "2026-05-20 18:15:24",
       "album": {
-        "name": "S\u00f3 Pra Brilhar",
-        "url": "https://open.spotify.com/album/1zgxOuUo8iCbBmKCRCvlfR"
-      },
-      "artists": [
-        {
-          "name": "Chimarruts",
-          "url": "https://open.spotify.com/artist/6rNz4V8ocdBOLgXmLxLVcW"
-        }
-      ],
-      "duration_ms": 198340,
-      "name": "S\u00f3 Pra Brilhar",
-      "url": "https://open.spotify.com/track/4qvkuxl7BcnTZWLXeTZPbH"
-    },
-    {
-      "added_at": "2026-05-20 18:15:24",
-      "album": {
         "name": "Deusa Do Amor (Reggae Version)",
         "url": "https://open.spotify.com/album/1oxZt4tOzbHFerdyA7LNBY"
       },
@@ -919,18 +903,34 @@
     {
       "added_at": "2026-05-20 18:15:24",
       "album": {
-        "name": "Uma Noite E 1/2",
-        "url": "https://open.spotify.com/album/3CJRazEYFedeCnvMtHvtua"
+        "name": "S\u00f3 Pra Brilhar",
+        "url": "https://open.spotify.com/album/1zgxOuUo8iCbBmKCRCvlfR"
       },
       "artists": [
         {
-          "name": "Rodrigo Costa",
-          "url": "https://open.spotify.com/artist/2HKe0e9UKKX1aBRvY0nmL7"
+          "name": "Chimarruts",
+          "url": "https://open.spotify.com/artist/6rNz4V8ocdBOLgXmLxLVcW"
         }
       ],
-      "duration_ms": 170608,
-      "name": "Uma Noite E 1/2",
-      "url": "https://open.spotify.com/track/5GlfIGn9OlBlo9YVMENbzS"
+      "duration_ms": 198340,
+      "name": "S\u00f3 Pra Brilhar",
+      "url": "https://open.spotify.com/track/4qvkuxl7BcnTZWLXeTZPbH"
+    },
+    {
+      "added_at": "2026-05-20 18:15:24",
+      "album": {
+        "name": "Freio de M\u00e3o",
+        "url": "https://open.spotify.com/album/2vvrCbiuftZH7RYNVNFRBa"
+      },
+      "artists": [
+        {
+          "name": "Maskavo",
+          "url": "https://open.spotify.com/artist/4wvAGBushcLkCZ1lEZsYMf"
+        }
+      ],
+      "duration_ms": 177428,
+      "name": "Freio de M\u00e3o",
+      "url": "https://open.spotify.com/track/2T9clAFaYDqBrXsiGTfZZM"
     },
     {
       "added_at": "2026-05-20 18:15:24",
@@ -975,18 +975,18 @@
     {
       "added_at": "2026-05-20 18:15:24",
       "album": {
-        "name": "Freio de M\u00e3o",
-        "url": "https://open.spotify.com/album/2vvrCbiuftZH7RYNVNFRBa"
+        "name": "Uma Noite E 1/2",
+        "url": "https://open.spotify.com/album/3CJRazEYFedeCnvMtHvtua"
       },
       "artists": [
         {
-          "name": "Maskavo",
-          "url": "https://open.spotify.com/artist/4wvAGBushcLkCZ1lEZsYMf"
+          "name": "Rodrigo Costa",
+          "url": "https://open.spotify.com/artist/2HKe0e9UKKX1aBRvY0nmL7"
         }
       ],
-      "duration_ms": 177428,
-      "name": "Freio de M\u00e3o",
-      "url": "https://open.spotify.com/track/2T9clAFaYDqBrXsiGTfZZM"
+      "duration_ms": 170608,
+      "name": "Uma Noite E 1/2",
+      "url": "https://open.spotify.com/track/5GlfIGn9OlBlo9YVMENbzS"
     },
     {
       "added_at": "2026-05-20 18:15:24",

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2WIAmGdvEpT3tP6sPn2Fxg">Autumn Rowe</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-119 songs - 6 hr 56 min
+121 songs - 7 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [ONE](https://open.spotify.com/track/1cHPuNybXYunaoRttk3dgJ) | [JASMINE](https://open.spotify.com/artist/76sRRqpyFhBYjdimBWjmfg) | [Complexxx](https://open.spotify.com/album/3HEpWC29VtEdFm9GF1rCYy) | 3:20 | 2024-02-27 |  |
 | [Only Ones To Know \(feat\. Leona Lewis\)](https://open.spotify.com/track/64XOpjIAmHElXLV1OqhaOH) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Climate Change](https://open.spotify.com/album/4jtKPpBQ5eneMwEI94f5Y0) | 3:50 | 2024-02-27 |  |
 | [Only When You're Close](https://open.spotify.com/track/7BhxxlLcCCfvixzy8KExZv) | [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Zendaya](https://open.spotify.com/album/7hCAU57zY6snnRSHXqAWUl) | 3:44 | 2024-02-27 |  |
+| [Overture](https://open.spotify.com/track/54mkEjtwbCxboaylazkznr) | [Illinois Speed Press](https://open.spotify.com/artist/2PAoh4IMpWBjSOozxs6uaC) | [Illinois Speed Press](https://open.spotify.com/album/6B18D8NOyAPkNabk4k5Aav) | 3:26 | 2026-05-23 |  |
 | [Paper Doll](https://open.spotify.com/track/5QRq7LMDHVdCuIo1uys02H) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [Not An Apology](https://open.spotify.com/album/1ukpF3eKewIjkKGpu70sKm) | 3:36 | 2024-02-27 |  |
 | [Personal Heaven](https://open.spotify.com/track/09YBIWKOy5jQ9gqB1ODvaa) | [Naia Izumi](https://open.spotify.com/artist/53isIC5bQVgfxAKE825iia) | [A Residency in the Los Angeles Area](https://open.spotify.com/album/2m3DTEZlDC9cnvTdCUJCTl) | 3:05 | 2024-02-27 |  |
 | [Praise Dance](https://open.spotify.com/track/6erYOtEBmqmzd9zzIJ7Wry) | [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr) | [Pressing Onward](https://open.spotify.com/album/6Q4UcPfHz8RnPNn2NlJ71C) | 3:02 | 2025-09-17 |  |
@@ -122,6 +123,7 @@
 | [Too Good for a Bad Thing](https://open.spotify.com/track/4OvDV0juxyQnrgoiIPffCx) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Lessons in Love](https://open.spotify.com/album/3t5VFTO58tnYpZVeJYGQhD) | 3:11 | 2024-02-27 |  |
 | [Water](https://open.spotify.com/track/3gj2Q4Y8XSnSuzccxvMDRt) | [Naia Izumi](https://open.spotify.com/artist/53isIC5bQVgfxAKE825iia) | [A Residency in the Los Angeles Area](https://open.spotify.com/album/2m3DTEZlDC9cnvTdCUJCTl) | 4:03 | 2024-02-27 |  |
 | [WE ARE](https://open.spotify.com/track/3CAUdHOsgijdnNsjO7o7Hd) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [St\. Augustine High School Marching 100](https://open.spotify.com/artist/18SOXuqLqS1SPBOZ2t5ZJB), [David Gauthier](https://open.spotify.com/artist/7ml0WXnfI7YHjgCec3GTgw), [Gospel Soul Children Choir](https://open.spotify.com/artist/1gZIyZkzPR9wQ3AaBJTTNr), [Craig Adams](https://open.spotify.com/artist/0DSPskXnLTDYCgSgPM63be), [Braedon Gautier](https://open.spotify.com/artist/6k36C6obWyCGfI3r7sMojy), [Brennan Gautier](https://open.spotify.com/artist/6cQDoD7Xsh6VW8j8GyfEGw), [Autumn Rowe](https://open.spotify.com/artist/3gCzQpKxnHhJgOYpZRcEfH) | [WE ARE](https://open.spotify.com/album/6kHFkPvL2X3rZPuS3CEMUE) | 4:24 | 2024-02-27 |  |
+| [We Won't Go Back](https://open.spotify.com/track/3DjA2raB5EUtlSCEpvHNlw) | [MILCK](https://open.spotify.com/artist/62lirbb6qJs4VOGpdCNHK8), [Autumn Rowe](https://open.spotify.com/artist/3gCzQpKxnHhJgOYpZRcEfH), [BIIANCO](https://open.spotify.com/artist/4Axsf7QVnPabbam5y6NwLt), [Ani DiFranco](https://open.spotify.com/artist/0AiTwNtYX8m4uhfU7rJ8RD) | [We Won't Go Back](https://open.spotify.com/album/7n63ImuROhx4hwIggHNmuS) | 3:20 | 2026-05-23 |  |
 | [What Happened To Love?](https://open.spotify.com/track/28CDYI2Tnzj68DELVLvmqk) | [Naia Izumi](https://open.spotify.com/artist/53isIC5bQVgfxAKE825iia) | [A Residency in the Los Angeles Area](https://open.spotify.com/album/2m3DTEZlDC9cnvTdCUJCTl) | 3:54 | 2024-02-27 |  |
 | [Why Do the Bad Things Feel Good](https://open.spotify.com/track/4tlqyokGNPlVU2kciN4J2N) | [Marina Kaye](https://open.spotify.com/artist/4hHzZPvlU4rRbYnkXddpid) | [Why Do the Bad Things Feel Good](https://open.spotify.com/album/3skESfWDfea0zr9H54Ql0Z) | 3:21 | 2024-02-27 | 2024-04-29 |
 | [Why Do the Bad Things Feel Good](https://open.spotify.com/track/6OHkEMiSDoJ8PWaD5uzA3p) | [Marina Kaye](https://open.spotify.com/artist/4hHzZPvlU4rRbYnkXddpid) | [Heavenbound](https://open.spotify.com/album/5vNJ0VAIYS5Na10nzHkbaY) | 3:21 | 2024-04-28 |  |

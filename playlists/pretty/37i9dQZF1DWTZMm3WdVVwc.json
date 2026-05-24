@@ -1,6 +1,6 @@
 {
   "description": "\u5bd2\u3044\u51ac\u306f\u5fc3\u3092\u6696\u3081\u308b\u30cf\u30fc\u30c8\u30d5\u30eb\u306a\u697d\u66f2\u3092\u304a\u4f9b\u306b\u3002\u3042\u306a\u305f\u306e\u65e5\u3005\u306b\u97f3\u697d\u3092\u3002",
-  "num_followers": 27353,
+  "num_followers": 27349,
   "original_name": "\u51ac\u306e\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
   "owner": {
     "name": "Spotify",
@@ -977,22 +977,6 @@
       "url": "https://open.spotify.com/track/5snNa3VGFhT80VzkVNPKTG"
     },
     {
-      "added_at": "2025-12-24 00:34:11",
-      "album": {
-        "name": "bestie",
-        "url": "https://open.spotify.com/album/4P2jmODvTntdqNI7e5isfb"
-      },
-      "artists": [
-        {
-          "name": "muque",
-          "url": "https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t"
-        }
-      ],
-      "duration_ms": 259903,
-      "name": "bestie",
-      "url": "https://open.spotify.com/track/3LlShzvjsM4nem8uADXWvn"
-    },
-    {
       "added_at": "2025-10-24 07:45:46",
       "album": {
         "name": "YELLOW DANCER",
@@ -1007,6 +991,22 @@
       "duration_ms": 274000,
       "name": "Snow Men",
       "url": "https://open.spotify.com/track/4EAFrjOpnbkUel0WrD9TTy"
+    },
+    {
+      "added_at": "2025-12-24 00:34:11",
+      "album": {
+        "name": "bestie",
+        "url": "https://open.spotify.com/album/4P2jmODvTntdqNI7e5isfb"
+      },
+      "artists": [
+        {
+          "name": "muque",
+          "url": "https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t"
+        }
+      ],
+      "duration_ms": 259903,
+      "name": "bestie",
+      "url": "https://open.spotify.com/track/3LlShzvjsM4nem8uADXWvn"
     },
     {
       "added_at": "2025-10-24 07:45:46",
@@ -1205,22 +1205,6 @@
       "url": "https://open.spotify.com/track/7gRwEA36B5Oq7oUlCcWLKb"
     },
     {
-      "added_at": "2025-12-11 02:28:39",
-      "album": {
-        "name": "\u5207\u306a\u3044\u30e9\u30d6\u30bd\u30f3\u30b0\u306f\u3044\u3089\u306a\u3044",
-        "url": "https://open.spotify.com/album/0sTRPhbGBFYuFpSw3DNTqN"
-      },
-      "artists": [
-        {
-          "name": "I Don't Like Mondays.",
-          "url": "https://open.spotify.com/artist/2DKISYy7EvTDO7eJHBK6yF"
-        }
-      ],
-      "duration_ms": 235096,
-      "name": "\u5207\u306a\u3044\u30e9\u30d6\u30bd\u30f3\u30b0\u306f\u3044\u3089\u306a\u3044",
-      "url": "https://open.spotify.com/track/2OnBkllxuR4IdUyvxfPAk6"
-    },
-    {
       "added_at": "2025-03-11 22:40:18",
       "album": {
         "name": "\u6cab\u96ea",
@@ -1235,6 +1219,22 @@
       "duration_ms": 184266,
       "name": "\u6cab\u96ea",
       "url": "https://open.spotify.com/track/43wA7GO59hkeojRFu6jU4n"
+    },
+    {
+      "added_at": "2025-12-11 02:28:39",
+      "album": {
+        "name": "\u5207\u306a\u3044\u30e9\u30d6\u30bd\u30f3\u30b0\u306f\u3044\u3089\u306a\u3044",
+        "url": "https://open.spotify.com/album/0sTRPhbGBFYuFpSw3DNTqN"
+      },
+      "artists": [
+        {
+          "name": "I Don't Like Mondays.",
+          "url": "https://open.spotify.com/artist/2DKISYy7EvTDO7eJHBK6yF"
+        }
+      ],
+      "duration_ms": 235096,
+      "name": "\u5207\u306a\u3044\u30e9\u30d6\u30bd\u30f3\u30b0\u306f\u3044\u3089\u306a\u3044",
+      "url": "https://open.spotify.com/track/2OnBkllxuR4IdUyvxfPAk6"
     },
     {
       "added_at": "2025-10-24 07:45:46",
@@ -1485,22 +1485,6 @@
       "url": "https://open.spotify.com/track/0mxAShonBvdqpCTlZ1Amvu"
     },
     {
-      "added_at": "2025-12-11 02:28:39",
-      "album": {
-        "name": "AFTER TASTE",
-        "url": "https://open.spotify.com/album/1rJGujcwxdGCnfoqcMzZO9"
-      },
-      "artists": [
-        {
-          "name": "DURDN",
-          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
-        }
-      ],
-      "duration_ms": 247968,
-      "name": "AFTER TASTE",
-      "url": "https://open.spotify.com/track/0nZf4KRecUg0rVC6vKi7Bo"
-    },
-    {
       "added_at": "2025-10-24 07:45:46",
       "album": {
         "name": "\u30b1\u30e2\u30ce\u3068\u9b54\u6cd5",
@@ -1515,6 +1499,22 @@
       "duration_ms": 241626,
       "name": "\u3082\u3046\u3059\u3050\u591c\u304c\u3042\u3051\u308b",
       "url": "https://open.spotify.com/track/5pwNKKm5rN04L5boM59llf"
+    },
+    {
+      "added_at": "2025-12-11 02:28:39",
+      "album": {
+        "name": "AFTER TASTE",
+        "url": "https://open.spotify.com/album/1rJGujcwxdGCnfoqcMzZO9"
+      },
+      "artists": [
+        {
+          "name": "DURDN",
+          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
+        }
+      ],
+      "duration_ms": 247968,
+      "name": "AFTER TASTE",
+      "url": "https://open.spotify.com/track/0nZf4KRecUg0rVC6vKi7Bo"
     },
     {
       "added_at": "2025-10-24 07:45:46",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SK4ytI2KAZ.md) - [plain]
 
 > have fun with it.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,484,702 likes - 125 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,484,695 likes - 125 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,17 +60,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SK4ytI2KAZ.md) - [plain]
 | 50 | [Calling After Me](https://open.spotify.com/track/2WGcpz55A2vrvh6foEGCNL) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Calling After Me](https://open.spotify.com/album/0nwCSeTiLqsDU07k4MopnW) | 3:07 |
 | 51 | [Thank You for Leaving](https://open.spotify.com/track/6PyZoxxYmlZpXprkGuErY6) | [Sports](https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K), [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Thank You for Leaving](https://open.spotify.com/album/2eMBvvLGZB3gIefvuMziYY) | 3:17 |
 | 52 | [Call Me What You Like](https://open.spotify.com/track/21rYCEejlfM0LYRlfzxGeM) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Call Me What You Like](https://open.spotify.com/album/0hTfLMecWyjNUaxmk2OSuc) | 3:46 |
-| 53 | [Stella Brown](https://open.spotify.com/track/6n6dqOk5vLiqYaa9Fw5ylH) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [I've Got Some Living To Do](https://open.spotify.com/album/73ct5rK9qShCYdzBR8C8PX) | 3:06 |
-| 54 | [Nowhere To Run](https://open.spotify.com/track/44R1ZALac20AijYr5TtPgr) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Can We Please Have Fun](https://open.spotify.com/album/2FKCYNTlVVub7yPDncWamQ) | 3:40 |
+| 53 | [Nowhere To Run](https://open.spotify.com/track/44R1ZALac20AijYr5TtPgr) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Can We Please Have Fun](https://open.spotify.com/album/2FKCYNTlVVub7yPDncWamQ) | 3:40 |
+| 54 | [Stella Brown](https://open.spotify.com/track/6n6dqOk5vLiqYaa9Fw5ylH) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [I've Got Some Living To Do](https://open.spotify.com/album/73ct5rK9qShCYdzBR8C8PX) | 3:06 |
 | 55 | [Giving Up](https://open.spotify.com/track/1MDkdfWPIaV4YZ2vnJyDB7) | [Michigander](https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu) | [Giving Up](https://open.spotify.com/album/6CAtz3dRGq2NS42PdqieCf) | 3:14 |
-| 56 | [Summer of Luv \(feat\. Unknown Mortal Orchestra\)](https://open.spotify.com/track/2PKbC4uFUY1tcBABpGZ8GQ) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T), [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [Chris Black Changed My Life](https://open.spotify.com/album/6A7Q0GFiU2ckojqk5QsXWX) | 2:39 |
-| 57 | [Loving You](https://open.spotify.com/track/5MVJI1eQ7cLoC0fr6NRE69) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Heartbeat Highway](https://open.spotify.com/album/1mBlpKV5enWAZdQxBqZ96r) | 3:14 |
+| 56 | [Loving You](https://open.spotify.com/track/5MVJI1eQ7cLoC0fr6NRE69) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Heartbeat Highway](https://open.spotify.com/album/1mBlpKV5enWAZdQxBqZ96r) | 3:14 |
+| 57 | [Summer of Luv \(feat\. Unknown Mortal Orchestra\)](https://open.spotify.com/track/2PKbC4uFUY1tcBABpGZ8GQ) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T), [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [Chris Black Changed My Life](https://open.spotify.com/album/6A7Q0GFiU2ckojqk5QsXWX) | 2:39 |
 | 58 | [One That Got Away](https://open.spotify.com/track/55RszydvrfNlZ2BQdF1c4q) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [One That Got Away](https://open.spotify.com/album/2FAHnRUhqr0Scl92hrAond) | 3:52 |
 | 59 | [Freakin' Out On the Interstate](https://open.spotify.com/track/6Fqf0OTfB9VPfYk2HfBhPn) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Carnival](https://open.spotify.com/album/59z895VS27PtxzCwDV6dRY) | 4:11 |
 | 60 | [You First \(Re: Remi Wolf\)](https://open.spotify.com/track/4w34xOG4R20bcijSufbq8l) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Re: This Is Why](https://open.spotify.com/album/3GteSAGBQKHhmSN5OU819j) | 3:54 |
 | 61 | [High On My Lows](https://open.spotify.com/track/1kCJ1s8wtiXF3OK3dwQIcG) | [Sawyer Hill](https://open.spotify.com/artist/3CwWzT9t3z7DARyhDIzwIG) | [High On My Lows](https://open.spotify.com/album/0hMq2OW2LKUNWGcM1p5VeP) | 2:58 |
-| 62 | [Stuck](https://open.spotify.com/track/1PYG9Akj0LAZZUDXzV9m1S) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [Stuck](https://open.spotify.com/album/2kcNcoLI7IeK9GJepoA2lq) | 3:02 |
-| 63 | [Synchronize](https://open.spotify.com/track/6Ql7rNuoP90aIdgwQkPYBP) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Synchronize](https://open.spotify.com/album/4wW0gNfB05ae2hUqr22XWL) | 2:44 |
+| 62 | [Synchronize](https://open.spotify.com/track/6Ql7rNuoP90aIdgwQkPYBP) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Synchronize](https://open.spotify.com/album/4wW0gNfB05ae2hUqr22XWL) | 2:44 |
+| 63 | [Stuck](https://open.spotify.com/track/1PYG9Akj0LAZZUDXzV9m1S) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [Stuck](https://open.spotify.com/album/2kcNcoLI7IeK9GJepoA2lq) | 3:02 |
 | 64 | [Pretty Lady](https://open.spotify.com/track/6XDIGKP7TQ1GLedtCtfshM) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Pretty Lady](https://open.spotify.com/album/0gDhR2KuD73QQcnPh50lM4) | 4:37 |
 | 65 | [spite](https://open.spotify.com/track/536ZTi6wWJQ2gYXkXnJwVX) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [can we start over?](https://open.spotify.com/album/5ZWcE7wYh6GKsB0nS9iZS6) | 3:07 |
 | 66 | [Explode!](https://open.spotify.com/track/1ROCJzbhjpP7uYRrse4fzf) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Grief Chapter](https://open.spotify.com/album/5sMSJ6uAozdrqFELMwl3NU) | 2:31 |
@@ -131,7 +131,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SK4ytI2KAZ.md) - [plain]
 | 121 | [Sure Enough](https://open.spotify.com/track/2RI2HBUx4Algf7PVTklzUM) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Sure Enough](https://open.spotify.com/album/1PjK7jnPD2B6EdhwQecC1u) | 2:51 |
 | 122 | [New York](https://open.spotify.com/track/6a2HBMpj2G2wXSrgBl9ZNT) | [Junior Varsity](https://open.spotify.com/artist/27tsCOGutD6wmFnv4eKWMp) | [New York](https://open.spotify.com/album/0fi5QEzJUB4aSYoRNTGqVa) | 2:43 |
 | 123 | [Run Away With Me](https://open.spotify.com/track/2DUt3aAwcVeeHwcQPjFqLH) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Run Away With Me](https://open.spotify.com/album/17HtJeuxy9kO8agW21ua9I) | 3:12 |
-| 124 | [Ready Aim Fire](https://open.spotify.com/track/10eyhDAjsfbZHb1rJ1S2WH) | [Carter Vail](https://open.spotify.com/artist/4Bu9DnBZ12oX7MiiaJy9hK) | [100 Cowboys](https://open.spotify.com/album/7uhZ3e0aRY6u3qXG393pPV) | 2:34 |
-| 125 | [Communicating](https://open.spotify.com/track/0sLPIQKoiRMzy8DycnMjB1) | [Bad Suns](https://open.spotify.com/artist/0YhUSm86okLWldQVwJkLlP) | [Communicating](https://open.spotify.com/album/5H1cgSVYz8sTHlNVO1jx2t) | 3:08 |
+| 124 | [Communicating](https://open.spotify.com/track/0sLPIQKoiRMzy8DycnMjB1) | [Bad Suns](https://open.spotify.com/artist/0YhUSm86okLWldQVwJkLlP) | [Communicating](https://open.spotify.com/album/5H1cgSVYz8sTHlNVO1jx2t) | 3:08 |
+| 125 | [Ready Aim Fire](https://open.spotify.com/track/10eyhDAjsfbZHb1rJ1S2WH) | [Carter Vail](https://open.spotify.com/artist/4Bu9DnBZ12oX7MiiaJy9hK) | [100 Cowboys](https://open.spotify.com/album/7uhZ3e0aRY6u3qXG393pPV) | 2:34 |
 
 Snapshot ID: `AAAAAOomu/NFp0OgpCrmncLJT7TsX0Qx`

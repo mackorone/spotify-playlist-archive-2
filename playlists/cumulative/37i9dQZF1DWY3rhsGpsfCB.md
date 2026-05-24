@@ -4,7 +4,7 @@
 
 > Smooth soul\-inspired tracks
 
-947 songs - 2 day 0 hr 42 min
+948 songs - 2 day 0 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -575,7 +575,7 @@
 | [NOBODY \(feat\. Blxckie\)](https://open.spotify.com/track/2gr6VEG2BdPka9Tz1mAfbi) | [Filah Lah Lah](https://open.spotify.com/artist/0xACKjkY8pqrot7s6da1Sw), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [ON AIR](https://open.spotify.com/album/0ARXZhTXu81dsgWcTrlGUn) | 4:14 | 2024-04-19 | 2024-06-01 |
 | [Nobody \- Bloody Civilian Remix](https://open.spotify.com/track/7eecj1HXy8EbnkknaQiaRC) | [Charlie Jeer](https://open.spotify.com/artist/3h9jrx2NF7x7EkNDZAn2De), [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K) | [Nobody \(Bloody Civilian Remix\)](https://open.spotify.com/album/5Aw2jvvET8At5FWFSDQekW) | 3:09 | 2025-07-04 | 2025-09-05 |
 | [Normalize](https://open.spotify.com/track/5ZezTi9duxlzXOGA1kFhMw) | [Most Likely](https://open.spotify.com/artist/22vFHWWAkCnZHkyvzaVqZt), [Amaeya](https://open.spotify.com/artist/7LBhTlMPyB6xjAr8muuR56) | [UnitedMasters Presents: Most Likely](https://open.spotify.com/album/1ZjvJj8toyUxbU9YtoSRr4) | 2:21 | 2025-07-18 | 2025-08-01 |
-| [Normally](https://open.spotify.com/track/1HFWDB5E1JY0XdezP2DPkf) | [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ), [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW) | [Normally](https://open.spotify.com/album/416GBquOnS63wjc41I2aA8) | 3:55 | 2025-10-24 |  |
+| [Normally](https://open.spotify.com/track/1HFWDB5E1JY0XdezP2DPkf) | [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ), [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW) | [Normally](https://open.spotify.com/album/416GBquOnS63wjc41I2aA8) | 3:55 | 2025-10-24 | 2026-05-24 |
 | [Nostalgia](https://open.spotify.com/track/1IOOLV6bwrN4uH4KWHei0R) | [Falana](https://open.spotify.com/artist/1OzwSkNJ5OCaMAgdnBFguj) | [Nostalgia](https://open.spotify.com/album/3RA0A7RkflJudveefNw8H7) | 3:36 | 2025-06-20 | 2025-07-05 |
 | [Not An Angel](https://open.spotify.com/track/4hbadZZrbM08KZIQZomWaI) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Not An Angel](https://open.spotify.com/album/0rWWei7R5XHkr9X4mui55k) | 3:05 | 2023-12-08 | 2024-10-26 |
 | [not regular](https://open.spotify.com/track/7JRUeL2mhC0AIwYDbKy7DG) | [RnB Princess](https://open.spotify.com/artist/0QKFXBU0ZhrSCJIAsOIjgg), [Beezyx](https://open.spotify.com/artist/0r6sAkbsRJkBbmxYlh4cso), [Tsuni](https://open.spotify.com/artist/5W7waNb0uh9oWrim0ESWVu) | [dear diary](https://open.spotify.com/album/4QIZHDRxiTCmOp45XXASNu) | 3:24 | 2023-09-09 | 2023-09-29 |
@@ -900,6 +900,7 @@
 | [Video Games](https://open.spotify.com/track/1ImmEy1b7WFuFvQmDNnpbr) | [Ricky Tyler](https://open.spotify.com/artist/6eDg95U7HWOonWTaVdhATA), [Karun](https://open.spotify.com/artist/5RDH4iOoVeMAh0ylr16Obe) | [Video Games](https://open.spotify.com/album/6UNRdmz5jH99djUUpdocEe) | 3:36 | 2022-10-28 | 2023-02-12 |
 | [Virgin Denim](https://open.spotify.com/track/69g0enFvUbtdKi5e84frgc) | [Turunesh](https://open.spotify.com/artist/7jsrAZ7VOhvG48hjxVaIkv), [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC), [mau from nowhere](https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf) | [Virgin Denim](https://open.spotify.com/album/3ET9072AROvw8sqz1Ar2uS) | 3:10 | 2024-05-31 | 2024-06-15 |
 | [Vision Remix \(feat\. Chlöe\)](https://open.spotify.com/track/43ZEiGYEJ5vcmjlBwanwyW) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh), [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Vision Remix \(feat\. Chlöe\)](https://open.spotify.com/album/1cdHnVkU4QloSiH06bI8pA) | 2:46 | 2024-05-03 | 2026-05-10 |
+| [WAHALA RIDDIM](https://open.spotify.com/track/6cDoUJQTi3yANsfEQRh2x8) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt) | [WAHALA RIDDIM](https://open.spotify.com/album/0SciOReSTeXfZT3hTo59kO) | 3:22 | 2026-05-22 |  |
 | [Wait](https://open.spotify.com/track/2jbGtizHpszkUJnMJOAj64) | [Genio Bambino](https://open.spotify.com/artist/3KwukNCo4MbjbgbvrVqLP0), [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih) | [Wait](https://open.spotify.com/album/6uHC38yfv6s3RI8Lv0Vm2Z) | 2:58 | 2025-11-14 | 2026-02-04 |
 | [Wait On Me](https://open.spotify.com/track/5o79AnyhGqX0LlBb1am1pV) | [Mayten](https://open.spotify.com/artist/2qr7RzXXdIkZfcjsw5oA6K), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [Wait On Me](https://open.spotify.com/album/2RtxSIZ156yT9DSAQS2BBE) | 4:07 | 2022-09-02 | 2022-10-22 |
 | [Wait!](https://open.spotify.com/track/7BQFFxWrQmrB89mVKBgSfo) | [June Freedom](https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC) | [Casa Mira Mar](https://open.spotify.com/album/1Z5GWD6FWevXrscgPDmwIO) | 2:17 | 2025-07-11 | 2025-08-27 |

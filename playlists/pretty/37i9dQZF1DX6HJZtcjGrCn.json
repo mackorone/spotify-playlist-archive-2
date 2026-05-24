@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica independente. A tua alternativa ao mainstream. Foto: Filipe Karlsson, Mike El Nite",
-  "num_followers": 39321,
+  "num_followers": 39316,
   "original_name": "Cena Indie",
   "owner": {
     "name": "Spotify",
@@ -1271,6 +1271,30 @@
     {
       "added_at": "2026-05-21 22:01:44",
       "album": {
+        "name": "The Hudson",
+        "url": "https://open.spotify.com/album/1zBM2rgDcwNt063jGHwMMt"
+      },
+      "artists": [
+        {
+          "name": "The Favors",
+          "url": "https://open.spotify.com/artist/78R275jHTtGF0ue4QfBKpI"
+        },
+        {
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+        },
+        {
+          "name": "Ashe",
+          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
+        }
+      ],
+      "duration_ms": 216964,
+      "name": "The Hudson",
+      "url": "https://open.spotify.com/track/7zHO50QOb1eTYdZSvLgPwm"
+    },
+    {
+      "added_at": "2026-05-21 22:01:44",
+      "album": {
         "name": "Mind Loaded (feat. Caroline Polachek, Lorde & Mustafa)",
         "url": "https://open.spotify.com/album/7eD4M0bxUGIFRCi0wWhkbt"
       },
@@ -1295,30 +1319,6 @@
       "duration_ms": 217901,
       "name": "Mind Loaded (feat. Caroline Polachek, Lorde & Mustafa)",
       "url": "https://open.spotify.com/track/4gVsKMMK0f8dweHL7Vm9HC"
-    },
-    {
-      "added_at": "2026-05-21 22:01:44",
-      "album": {
-        "name": "The Hudson",
-        "url": "https://open.spotify.com/album/1zBM2rgDcwNt063jGHwMMt"
-      },
-      "artists": [
-        {
-          "name": "The Favors",
-          "url": "https://open.spotify.com/artist/78R275jHTtGF0ue4QfBKpI"
-        },
-        {
-          "name": "FINNEAS",
-          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
-        },
-        {
-          "name": "Ashe",
-          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
-        }
-      ],
-      "duration_ms": 216964,
-      "name": "The Hudson",
-      "url": "https://open.spotify.com/track/7zHO50QOb1eTYdZSvLgPwm"
     },
     {
       "added_at": "2026-05-21 22:01:44",

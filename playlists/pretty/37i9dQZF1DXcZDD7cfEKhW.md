@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDD7cfEKhW.md) - [plain]
 
 > Remixed pop and <a href="spotify:genre:edm\_dance">dance</a> collabs\. Cover: Bruno Mars
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,384,762 likes - 75 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,384,773 likes - 75 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDD7cfEKhW.md) - [plain]
 | 41 | [Fortnight \(feat\. Post Malone\) \- BLOND:ISH Remix](https://open.spotify.com/track/1gejz5ROvJBUb6WJzkMAcc) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR) | [Fortnight \(feat\. Post Malone\) \[BLOND:ISH Remix\]](https://open.spotify.com/album/1agEHpWnELaZHWzcbGDCpu) | 3:36 |
 | 42 | [Your Love \- Diplo Remix](https://open.spotify.com/track/4R3BIyY00WxYVZOmgrFp1Y) | [The Outfield](https://open.spotify.com/artist/1zxDewzd2j1ZdSBGaYcr0y), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Your Love \(Diplo Remix\)](https://open.spotify.com/album/7F4BBbbkJKAa0xxGKpzcvV) | 2:35 |
 | 43 | [Barbie Girl \- Tiësto Remix](https://open.spotify.com/track/4zPVMv84MMHehLNZYIS1Zv) | [Aqua](https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Barbie Girl \(Tiësto Remix\)](https://open.spotify.com/album/61gisYckDdbgK42QoJEl6c) | 2:35 |
-| 44 | [Doses & Mimosas \(Vintage Culture & Zerky Remix\) \- Radio Edit](https://open.spotify.com/track/3yZsBXwiQkqLjnWYip17Uu) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Zerky](https://open.spotify.com/artist/3DAlQBPv5zWasPxV5Tr8ok), [Cherub](https://open.spotify.com/artist/00dwwnz3V4kRfu3UFYpJLz) | [Doses & Mimosas \(Vintage Culture & Zerky Remix\) \[Radio Edit\]](https://open.spotify.com/album/2VWOp5K8co8MfN2503dtvY) | 3:49 |
-| 45 | [Peru \- Peace Control Remix](https://open.spotify.com/track/4ae7kOsYM7CQqljNqMQ4lN) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Peace Control](https://open.spotify.com/artist/3rzbheJbLKamFWE8v9fPRh) | [Peru \(Peace Control Remix\)](https://open.spotify.com/album/1BscUG4h8ZyAhQAdmAkJgw) | 4:47 |
+| 44 | [Peru \- Peace Control Remix](https://open.spotify.com/track/4ae7kOsYM7CQqljNqMQ4lN) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Peace Control](https://open.spotify.com/artist/3rzbheJbLKamFWE8v9fPRh) | [Peru \(Peace Control Remix\)](https://open.spotify.com/album/1BscUG4h8ZyAhQAdmAkJgw) | 4:47 |
+| 45 | [Doses & Mimosas \(Vintage Culture & Zerky Remix\) \- Radio Edit](https://open.spotify.com/track/3yZsBXwiQkqLjnWYip17Uu) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Zerky](https://open.spotify.com/artist/3DAlQBPv5zWasPxV5Tr8ok), [Cherub](https://open.spotify.com/artist/00dwwnz3V4kRfu3UFYpJLz) | [Doses & Mimosas \(Vintage Culture & Zerky Remix\) \[Radio Edit\]](https://open.spotify.com/album/2VWOp5K8co8MfN2503dtvY) | 3:49 |
 | 46 | [My Head & My Heart \- Claptone Remix](https://open.spotify.com/track/0AxhXARnISmbH5UqbqvtDP) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F), [Claptone](https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry) | [My Head & My Heart \(Claptone Remix\)](https://open.spotify.com/album/5t9BpDVQZu6T7H7qZPqlth) | 3:02 |
 | 47 | [Cruel Summer \- LP Giobbi Remix](https://open.spotify.com/track/0pjBqAz8GlxGlpaU4W0DxS) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J) | [The Cruelest Summer](https://open.spotify.com/album/1nqF9ybDGwuGl1rVERp5Q4) | 3:12 |
 | 48 | [Satisfaction](https://open.spotify.com/track/6k5DKQMC96daK6fSvAxdQv) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6) | [Satisfaction](https://open.spotify.com/album/62hlQlBO241sKpVTPgwAOi) | 2:35 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDD7cfEKhW.md) - [plain]
 | 74 | [Goodies](https://open.spotify.com/track/1rGd2CoMxEg2dnaytLY5ZG) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf) | [Goodies](https://open.spotify.com/album/67bFXY7O9MCywon0nEyS1Z) | 2:01 |
 | 75 | [Lil Boo Thang \- Galantis Remix](https://open.spotify.com/track/1xrPJv9PnTyU0C6V6MgtG0) | [Paul Russell](https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Lil Boo Thang \(Galantis Remix\)](https://open.spotify.com/album/0xoWZgToO4LHIFq5HjSKt5) | 2:09 |
 
-Snapshot ID: `AAAAAIIJuLVLwghejmnaB1BoNU2OJBvH`
+Snapshot ID: `AAAAABNFXH2ID2yXsbQR6RCMLjxpGkfl`

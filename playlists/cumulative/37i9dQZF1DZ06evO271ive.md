@@ -4,7 +4,7 @@
 
 > This is Sexyy Red\. The essential tracks, all in one playlist.
 
-134 songs - 6 hr 15 min
+135 songs - 6 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Hellcats SRTs](https://open.spotify.com/track/1iK1hVN9o1zkpxw396QGbd) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Hood Hottest Princess](https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42) | 2:33 | 2023-11-10 |  |
 | [Hellcats SRTs 2 \(with Lil Durk\)](https://open.spotify.com/track/1gxAYSMc1jbibsnpT3Rflc) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Hellcats SRTs 2 \(with Lil Durk\)](https://open.spotify.com/album/4ygqsOtoimrPwwH33iaAq0) | 2:45 | 2023-11-10 | 2025-07-13 |
 | [Her Her Her \(feat\. DJ Holiday\)](https://open.spotify.com/track/2eRRo7gznC0swKmvyiZRAO) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [DJ Holiday](https://open.spotify.com/artist/6Q4MFlysvdbBeEhoKgAUbY) | [Yo Favorite Trappa Favorite Rappa](https://open.spotify.com/album/4lnnjuRw10Swa4WrMXRhOk) | 3:01 | 2026-04-21 | 2026-05-22 |
+| [HOES \(feat\. Sexyy Red\) \[From Scary Movie\]](https://open.spotify.com/track/1IMTFCCPDw0R3JT6jYMimo) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [HOES \(feat\. Sexyy Red\) \[From Scary Movie\]](https://open.spotify.com/album/1fuVofIf79f9kg2CPH3LIt) | 2:09 | 2026-05-24 |  |
 | [Hold On Yeah](https://open.spotify.com/track/6M41zLwqgg0hK2ELUaVnH9) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Hood Hottest Princess \(Deluxe\)](https://open.spotify.com/album/7eJUwUbX2BGnNkLBoOvIlr) | 2:25 | 2023-12-13 | 2024-03-17 |
 | [Hoochie Coochie](https://open.spotify.com/track/7ygjfxmmkgPN0nbyYOMD2T) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Hoochie Coochie](https://open.spotify.com/album/3AGhrLfPdpOZQnI7s5GBjz) | 2:27 | 2025-04-06 | 2026-04-20 |
 | [Hood Bitch](https://open.spotify.com/track/3zBwBkR18TfwaZTQ5fOIWl) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Ghetto Superstar](https://open.spotify.com/album/1Np99lkXyvQXneF0m5zTOy) | 2:37 | 2023-11-10 | 2024-05-24 |
@@ -112,7 +113,7 @@
 | [Sexyy Red For President](https://open.spotify.com/track/7p1A4L2XrwfswpkWOxCzaw) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Hood Hottest Princess \(Deluxe\)](https://open.spotify.com/album/7eJUwUbX2BGnNkLBoOvIlr) | 2:20 | 2023-12-13 | 2024-04-09 |
 | [Sexyy Walk](https://open.spotify.com/track/4EN1lLc3xt2hOazpC4LabP) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Hood Hottest Princess](https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42) | 2:33 | 2023-11-10 | 2023-12-14 |
 | [SHAKE SUMN \(with Sexyy Red\) \- REMIX](https://open.spotify.com/track/3IxGpAFxBAAfCQ6dv6sBiw) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [SHAKE SUMN \(with Sexyy Red\) \[REMIX\]](https://open.spotify.com/album/7drTkl9fjKDq51rRdye9ZS) | 2:04 | 2023-11-10 |  |
-| [Shake Yo Dreads](https://open.spotify.com/track/3CPu3e1CVKItYWdoCgSXzm) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Hood Hottest Princess \(Deluxe\)](https://open.spotify.com/album/7eJUwUbX2BGnNkLBoOvIlr) | 2:57 | 2024-04-09 |  |
+| [Shake Yo Dreads](https://open.spotify.com/track/3CPu3e1CVKItYWdoCgSXzm) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Hood Hottest Princess \(Deluxe\)](https://open.spotify.com/album/7eJUwUbX2BGnNkLBoOvIlr) | 2:57 | 2024-04-09 | 2026-05-24 |
 | [Shake Yo Dreads](https://open.spotify.com/track/5n2V631qeQri7jI6Kvbm4j) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Shake Yo Dreads](https://open.spotify.com/album/2xQmFSVYsk6qOvFCwVXqgh) | 2:57 | 2023-11-10 | 2024-04-09 |
 | [She's Back](https://open.spotify.com/track/3PR8q1B3b6hsJlwphfgCZK) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [In Sexyy We Trust](https://open.spotify.com/album/5PmtX9B5vNa4uaiXQVn4Gx) | 2:42 | 2024-05-26 |  |
 | [Shiesty \(feat\. Kaliii & Sexyy Red\)](https://open.spotify.com/track/3erWnQRZiMmOzRqnVhHaox) | [Finesse2tymes](https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Shiesty \(feat\. Kaliii & Sexyy Red\)](https://open.spotify.com/album/5KAMwIkKnQW0GLJK2wm83T) | 3:36 | 2023-11-10 | 2025-06-01 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Dystopian X Vision, photophor, MIK's Reaction and more",
+  "description": "With Lockjaw, Dystopian X Vision, photophor and more",
   "name": "Bipolar Superstar Radio",
   "tracks": [
     {
@@ -96,6 +96,24 @@
       "duration_ms": 346080,
       "name": "A Northern Light",
       "url": "https://open.spotify.com/track/62xsC4Z2hJTEWT7MbkzDtF"
+    },
+    {
+      "album": {
+        "name": "Let the Rain Fall (Single)",
+        "url": "https://open.spotify.com/album/6arnHLhBqiZxfP9goJGMyQ"
+      },
+      "artists": [
+        {
+          "name": "David Von Beahm",
+          "url": "https://open.spotify.com/artist/2h4kMB513n1Tkk7ww91p1E"
+        }
+      ],
+      "date_added": "2026-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328610,
+      "name": "A so-Called Normal Life",
+      "url": "https://open.spotify.com/track/6TqIHczrifhw7EfC3r8UjD"
     },
     {
       "album": {
@@ -688,7 +706,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 240000,
       "name": "Beyond the Mirrors",
       "url": "https://open.spotify.com/track/5kl6kB7l36sDkOfestcW0e"
@@ -1048,7 +1066,7 @@
       ],
       "date_added": "2026-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 258305,
       "name": "Burn It - Fahrenheit 451 Mix",
       "url": "https://open.spotify.com/track/5TcI48HGjzdeMRHiBAlnY5"
@@ -1466,7 +1484,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 208848,
       "name": "Commercializing The Mind",
       "url": "https://open.spotify.com/track/3dL6rAh8mzdu9cMfGyCKz2"
@@ -1736,7 +1754,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 226758,
       "name": "Days and Roses",
       "url": "https://open.spotify.com/track/3zpfjxjnfosCaGLfJeZdEf"
@@ -2584,7 +2602,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-22",
+      "date_removed": null,
       "duration_ms": 280625,
       "name": "Ekko",
       "url": "https://open.spotify.com/track/31mgiH8koyfFT4hl0tpNMf"
@@ -2710,7 +2728,7 @@
       ],
       "date_added": "2026-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 129783,
       "name": "Empty Cell",
       "url": "https://open.spotify.com/track/3WbCoHNxetGoZ3YS966nHI"
@@ -2984,7 +3002,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 220179,
       "name": "Everywhere is Nowhere",
       "url": "https://open.spotify.com/track/1gHMrlnQM4yN0tZ85g6GGs"
@@ -3730,7 +3748,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-23",
+      "date_removed": null,
       "duration_ms": 149538,
       "name": "Gin N Tonic",
       "url": "https://open.spotify.com/track/4lRrtbKHGIYXWGtP0i7F9K"
@@ -3810,7 +3828,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 248451,
       "name": "Goddess",
       "url": "https://open.spotify.com/track/7unT6Ykkw38roexHf453ur"
@@ -4510,7 +4528,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-23",
+      "date_removed": null,
       "duration_ms": 300386,
       "name": "I'm not going home",
       "url": "https://open.spotify.com/track/4C0OtEuP48EI4VLJLpGkgR"
@@ -4874,7 +4892,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 208065,
       "name": "Joy and Pain",
       "url": "https://open.spotify.com/track/5RmyY86zrPFIERkdmQDECs"
@@ -4892,7 +4910,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 265987,
       "name": "Judgment Day",
       "url": "https://open.spotify.com/track/0N6jm5kNtQkXAwpWVzJ2X1"
@@ -5062,7 +5080,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-23",
+      "date_removed": null,
       "duration_ms": 214001,
       "name": "Klokkene ringer for kvelden",
       "url": "https://open.spotify.com/track/3nO9J7Dfm4GTQkcQtYRVO0"
@@ -5322,7 +5340,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 275670,
       "name": "Let the Rain Fall",
       "url": "https://open.spotify.com/track/6XLUesMlr0D29UU7OjGfHQ"
@@ -5536,7 +5554,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 274750,
       "name": "Living Out the Egg",
       "url": "https://open.spotify.com/track/6GagFfw4T55Wsxxd8ucRXp"
@@ -5648,6 +5666,32 @@
       "duration_ms": 194500,
       "name": "Looks like work",
       "url": "https://open.spotify.com/track/4e8Wqyge5XoDJkNnoLc2Jp"
+    },
+    {
+      "album": {
+        "name": "Lord of the Underground",
+        "url": "https://open.spotify.com/album/2PYkHb61ZLYw02Ll1rPVOY"
+      },
+      "artists": [
+        {
+          "name": "John Carpenter",
+          "url": "https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq"
+        },
+        {
+          "name": "Cody Carpenter",
+          "url": "https://open.spotify.com/artist/5rJxl4BLLAaFRSNgAz2hSg"
+        },
+        {
+          "name": "Daniel Davies",
+          "url": "https://open.spotify.com/artist/0YaDmIGxP3HVcH7xvkpvSP"
+        }
+      ],
+      "date_added": "2026-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274066,
+      "name": "Lord of the Underground",
+      "url": "https://open.spotify.com/track/4dIb7ZZS8Nn65uIh4m7QhM"
     },
     {
       "album": {
@@ -5774,6 +5818,24 @@
       "duration_ms": 258480,
       "name": "Lucky",
       "url": "https://open.spotify.com/track/1UIlEp367m4nDBJOaOtTjx"
+    },
+    {
+      "album": {
+        "name": "Lucky Ducker",
+        "url": "https://open.spotify.com/album/5lhmU6uowoEPnyklJQZUOF"
+      },
+      "artists": [
+        {
+          "name": "The Chronicles of Manimal and Samara",
+          "url": "https://open.spotify.com/artist/2V3zzIcq2sbRbaEjbGypc8"
+        }
+      ],
+      "date_added": "2026-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289500,
+      "name": "Lucky Ducker",
+      "url": "https://open.spotify.com/track/7l5HGxhiXZP3vSHMeyX39H"
     },
     {
       "album": {
@@ -6276,7 +6338,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-20",
+      "date_removed": null,
       "duration_ms": 221867,
       "name": "Mona Lisa Smile",
       "url": "https://open.spotify.com/track/3Z9zw1N9xvhZ9y3r9ch7bi"
@@ -6882,7 +6944,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 193530,
       "name": "Nobody Home",
       "url": "https://open.spotify.com/track/5vnMv7stHy1zSvncgdlL3G"
@@ -7257,6 +7319,24 @@
     },
     {
       "album": {
+        "name": "Un-hinged ep",
+        "url": "https://open.spotify.com/album/1QiIxXeE36iQD5eKokwuT8"
+      },
+      "artists": [
+        {
+          "name": "Lockjaw",
+          "url": "https://open.spotify.com/artist/06xxbJTWhst3jtAIoFleYF"
+        }
+      ],
+      "date_added": "2026-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223663,
+      "name": "One Chance",
+      "url": "https://open.spotify.com/track/7eJiTUS9FthmhEL9qOrisn"
+    },
+    {
+      "album": {
         "name": "One Kiss",
         "url": "https://open.spotify.com/album/78GmrE54MDdxzLVlE5MULP"
       },
@@ -7304,7 +7384,7 @@
       ],
       "date_added": "2025-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 249272,
       "name": "Only What You Love",
       "url": "https://open.spotify.com/track/7joAUdC9IjE7kkpA14WV9Q"
@@ -7398,6 +7478,24 @@
       "duration_ms": 234084,
       "name": "P.C. Keen - 2025 Remix",
       "url": "https://open.spotify.com/track/4TDCy1qF0NAOmyTQ4uI8ha"
+    },
+    {
+      "album": {
+        "name": "Un-hinged ep",
+        "url": "https://open.spotify.com/album/1QiIxXeE36iQD5eKokwuT8"
+      },
+      "artists": [
+        {
+          "name": "Lockjaw",
+          "url": "https://open.spotify.com/artist/06xxbJTWhst3jtAIoFleYF"
+        }
+      ],
+      "date_added": "2026-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239745,
+      "name": "Paint it Black",
+      "url": "https://open.spotify.com/track/1ItCQTLYxbRTw4BTgh8E8G"
     },
     {
       "album": {
@@ -7632,7 +7730,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 296484,
       "name": "Personal Paradox",
       "url": "https://open.spotify.com/track/1rTcscm59VFhWYXh8fma51"
@@ -8037,6 +8135,24 @@
     },
     {
       "album": {
+        "name": "Un-hinged ep",
+        "url": "https://open.spotify.com/album/1QiIxXeE36iQD5eKokwuT8"
+      },
+      "artists": [
+        {
+          "name": "Lockjaw",
+          "url": "https://open.spotify.com/artist/06xxbJTWhst3jtAIoFleYF"
+        }
+      ],
+      "date_added": "2026-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202927,
+      "name": "Rest Your Halo",
+      "url": "https://open.spotify.com/track/4q1fAT2JA4Dx26EqYKA2rQ"
+    },
+    {
+      "album": {
         "name": "reyes",
         "url": "https://open.spotify.com/album/5iWG3BRXV6OFsuCrLEJxYu"
       },
@@ -8434,7 +8550,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-20",
+      "date_removed": null,
       "duration_ms": 319590,
       "name": "Sera-(The Dance of War)",
       "url": "https://open.spotify.com/track/3IoGv5RPjVw1eGfFqwQUvk"
@@ -8600,7 +8716,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-20",
+      "date_removed": null,
       "duration_ms": 341659,
       "name": "She's a Killer",
       "url": "https://open.spotify.com/track/3HRQ6CkJzKk2pdiTy5FUQS"
@@ -9631,6 +9747,28 @@
     },
     {
       "album": {
+        "name": "The Bouncer and the Shadow",
+        "url": "https://open.spotify.com/album/6o0jnxkc8jwK2qIFVgtWkh"
+      },
+      "artists": [
+        {
+          "name": "Aton O'Cat",
+          "url": "https://open.spotify.com/artist/7ieJ9uNgDXeg3GzVcI1oMm"
+        },
+        {
+          "name": "Goran Vedri\u0161",
+          "url": "https://open.spotify.com/artist/3o1XYZQEkAhsOaYuz87ojd"
+        }
+      ],
+      "date_added": "2026-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258375,
+      "name": "The Bouncer and the Shadow",
+      "url": "https://open.spotify.com/track/2Fmzj2MN34bW6FQtn9WWdY"
+    },
+    {
+      "album": {
         "name": "The Break Up Song",
         "url": "https://open.spotify.com/album/7H5xMzx3G0cDhJA2pI6V3l"
       },
@@ -9750,7 +9888,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-22",
+      "date_removed": null,
       "duration_ms": 107586,
       "name": "The End",
       "url": "https://open.spotify.com/track/3XP2fgY72feUbo3jG5bOjS"
@@ -9768,7 +9906,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-23",
+      "date_removed": null,
       "duration_ms": 218408,
       "name": "The EyePhone Is My New Religion",
       "url": "https://open.spotify.com/track/3dqgKYCTzGdwPiOlSYrEpz"
@@ -10230,7 +10368,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 218000,
       "name": "The Third Son",
       "url": "https://open.spotify.com/track/1FtBT5m5alMadSATu735BJ"
@@ -10440,7 +10578,7 @@
       ],
       "date_added": "2026-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-23",
+      "date_removed": null,
       "duration_ms": 177297,
       "name": "This Is Not Everything I Expected",
       "url": "https://open.spotify.com/track/0vVIh3MHwwSOTu4utJXlAq"
@@ -11492,7 +11630,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 188738,
       "name": "WAR KILLER",
       "url": "https://open.spotify.com/track/26y9NjGaFPLfWBEZMvU8be"
@@ -11802,7 +11940,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 293333,
       "name": "Who Do You Belong to Now? (Great Southern Land)",
       "url": "https://open.spotify.com/track/55BuiwR2joiVCdA6XJmDMg"
@@ -12116,7 +12254,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 190128,
       "name": "Your Voice",
       "url": "https://open.spotify.com/track/5IxEX1Y98L9087btcAQ6n0"
@@ -12402,7 +12540,7 @@
       ],
       "date_added": "2026-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-20",
+      "date_removed": null,
       "duration_ms": 247011,
       "name": "\u0428\u043f\u0438\u043e\u043d",
       "url": "https://open.spotify.com/track/61vRefWDirGGrAk4YnTDFs"

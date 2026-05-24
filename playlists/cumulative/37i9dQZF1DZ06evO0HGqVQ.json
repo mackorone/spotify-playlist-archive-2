@@ -473,6 +473,28 @@
     },
     {
       "album": {
+        "name": "El Recuerdo Que Dej\u00f3",
+        "url": "https://open.spotify.com/album/4Up6tMrKw9p929MnHKVSdT"
+      },
+      "artists": [
+        {
+          "name": "Los inquietos del vallenato",
+          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
+        },
+        {
+          "name": "Pancho Uresti",
+          "url": "https://open.spotify.com/artist/7bNmosifuMqLwui79Cjqcd"
+        }
+      ],
+      "date_added": "2026-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192535,
+      "name": "El Recuerdo Que Dej\u00f3",
+      "url": "https://open.spotify.com/track/3C48UbZIHMs5cItujTxxqD"
+    },
+    {
+      "album": {
         "name": "Eternamente",
         "url": "https://open.spotify.com/album/0xsLFXW6C2juv4RIGc57Xi"
       },

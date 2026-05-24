@@ -4,7 +4,7 @@
 
 > Dip your feet in the pool and enjoy this perfect summer house mix ☀️
 
-509 songs - 1 day 3 hr 3 min
+510 songs - 1 day 3 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,7 @@
 | [Devotion](https://open.spotify.com/track/3BM5hoJ168Kh4hYEhiNxwK) | [Lance Savali](https://open.spotify.com/artist/3BJfXq3PuHFiHrD6PcfpCd) | [Devotion](https://open.spotify.com/album/47IOO7TrIL82e6P2d809N9) | 2:16 | 2025-05-23 | 2025-05-31 |
 | [Dior \(feat\. Chrystal\)](https://open.spotify.com/track/3kPNkracUxYvwpzkdpHMQQ) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Chrystal](https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK) | [Dior \(feat\. Chrystal\)](https://open.spotify.com/album/3WzNj7t5kiAU0ugsNHpFzb) | 2:49 | 2025-07-11 |  |
 | [Dirty Cash \(Money Talks\)](https://open.spotify.com/track/2VyvDGdcVY04cNYou9MFVX) | [PAWSA](https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS), [The Adventures Of Stevie V](https://open.spotify.com/artist/7HOmuShc6sajk74rYV7zR2) | [Dirty Cash \(Money Talks\)](https://open.spotify.com/album/2d9NxyCSygtJcvsAmBtXOj) | 3:41 | 2024-11-22 |  |
-| [Disco Cherry](https://open.spotify.com/track/0C0kbvI8BJEWejMb3b2d4t) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Disco Cherry](https://open.spotify.com/album/1JjnXqHpL8JDSzqgAw94ce) | 3:20 | 2026-05-15 |  |
+| [Disco Cherry](https://open.spotify.com/track/0C0kbvI8BJEWejMb3b2d4t) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Disco Cherry](https://open.spotify.com/album/1JjnXqHpL8JDSzqgAw94ce) | 3:20 | 2026-05-15 | 2026-05-24 |
 | [Disco Tetris \- Edit](https://open.spotify.com/track/2gVJTQbla9i7bxnKdLiu45) | [Luuk Van Dijk](https://open.spotify.com/artist/1KFfk3NtblIJtGEqyiR31t) | [Disco Tetris \(Edit\)](https://open.spotify.com/album/6qv9cgmk8pQ8Lu6xkAHBg2) | 3:18 | 2025-02-14 | 2025-05-05 |
 | [Don't Forget My Love](https://open.spotify.com/track/22pjmqZq2oTZtEThEt66Zn) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Diplo](https://open.spotify.com/album/5pdR4YX2zWMXotdF034UYY) | 3:19 | 2022-07-08 | 2024-04-19 |
 | [Don't Stop](https://open.spotify.com/track/13cX2o4cASGLYXNaQyXWxt) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb) | [Don't Stop](https://open.spotify.com/album/0rSgVoJE8fncqD9bJU0Ltq) | 2:27 | 2025-04-25 |  |
@@ -316,6 +316,7 @@
 | [Mount Fuji](https://open.spotify.com/track/358JLcp3eGCfjlCvzoK00w) | [Adon](https://open.spotify.com/artist/7l7IyxqOyGDSU6iF4FzisA) | [Mount Fuji](https://open.spotify.com/album/6fHyZw6fyIM27wXqStn0sI) | 2:39 | 2021-10-29 | 2022-06-03 |
 | [Move](https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4) | [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Stryv](https://open.spotify.com/artist/6XjgqvaVLUib6lCerbZrYD), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j), [Orso](https://open.spotify.com/artist/2yyaNPcdxZcn4iutCcLMaC), [Malachiii](https://open.spotify.com/artist/37lTKHi901VnwngQ7C8noT) | [Move](https://open.spotify.com/album/4M8ThNHbNjda2cPwL8XZHS) | 2:57 | 2024-06-14 | 2025-05-31 |
 | [Move](https://open.spotify.com/track/6NIJqFHB5cHAn064JCP7Li) | [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Stryv](https://open.spotify.com/artist/6XjgqvaVLUib6lCerbZrYD), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j), [Orso](https://open.spotify.com/artist/2yyaNPcdxZcn4iutCcLMaC), [Malachiii](https://open.spotify.com/artist/37lTKHi901VnwngQ7C8noT) | [Move](https://open.spotify.com/album/532L1zk5VJqGtRQLRFiVod) | 2:57 | 2025-06-02 |  |
+| [Movin' To The Sun](https://open.spotify.com/track/25DgjoTlKK8KjstM4cZ8L2) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Imael Angel](https://open.spotify.com/artist/17yREPqyU875WJnX9U082A), [Ultra Naté](https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN) | [Movin' To The Sun](https://open.spotify.com/album/7sCzauzbInQn7NEsvTAtqq) | 2:22 | 2026-05-22 |  |
 | [Muhuuuuu](https://open.spotify.com/track/7qrnsZLQIjYljtyWUkmZNa) | [Lazare](https://open.spotify.com/artist/2wNX0cC5R3fT5crh35dOFd), [ADDAM \(BE\)](https://open.spotify.com/artist/3pf0506idhclBF4UAL8z4Q) | [Muhuuuuu](https://open.spotify.com/album/0nWYLT5yww5UYzyAOk8bsB) | 2:43 | 2025-02-14 | 2026-05-16 |
 | [Mwaki](https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [SURRENDER](https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D) | 3:28 | 2024-03-15 |  |
 | [My Alibi](https://open.spotify.com/track/7qouDrj5jN3SuW8QwRpZad) | [Nervz](https://open.spotify.com/artist/3EaSGNhCzrL0bAnlgwAfQj), [Alex Bleiziffer](https://open.spotify.com/artist/4m4oCILPIc9FPM01PcsE5J), [Hoop Records](https://open.spotify.com/artist/47Ad2VIyZw89AWmkM9QtSc) | [My Alibi](https://open.spotify.com/album/0GI1UvUaqBHYxqN2tljV53) | 3:44 | 2021-10-29 | 2022-04-21 |

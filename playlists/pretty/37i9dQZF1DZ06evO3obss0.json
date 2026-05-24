@@ -1,12 +1,12 @@
 {
   "description": "This is RAYE. The essential tracks, all in one playlist.",
-  "num_followers": 184666,
+  "num_followers": 184785,
   "original_name": "This Is RAYE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ag5LAAAAAACCu0LdoloUIoQobbcqvwTv",
+  "snapshot_id": "ag+cgAAAAAATVGUF20zsSZFTs4aKlXA2",
   "tracks": [
     {
       "added_at": null,
@@ -395,22 +395,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "To Love Somebody",
-        "url": "https://open.spotify.com/album/5mjfq6PQcF4RIDw9X30Zm1"
+        "name": "Euphoric Sad Songs",
+        "url": "https://open.spotify.com/album/7u2byARDMi8YgqSVhKArYB"
       },
       "artists": [
-        {
-          "name": "Al Green",
-          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
-        },
         {
           "name": "RAYE",
           "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
         }
       ],
-      "duration_ms": 241574,
-      "name": "Perfect Day - featuring RAYE",
-      "url": "https://open.spotify.com/track/2c9sIf5jLjqItQovMOZxqe"
+      "duration_ms": 242066,
+      "name": "All Dressed Up",
+      "url": "https://open.spotify.com/track/1HIwkl1QwoGeJZ8nJYE25e"
     },
     {
       "added_at": null,
@@ -447,18 +443,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Euphoric Sad Songs",
-        "url": "https://open.spotify.com/album/7u2byARDMi8YgqSVhKArYB"
+        "name": "To Love Somebody",
+        "url": "https://open.spotify.com/album/5mjfq6PQcF4RIDw9X30Zm1"
       },
       "artists": [
+        {
+          "name": "Al Green",
+          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
+        },
         {
           "name": "RAYE",
           "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
         }
       ],
-      "duration_ms": 242066,
-      "name": "All Dressed Up",
-      "url": "https://open.spotify.com/track/1HIwkl1QwoGeJZ8nJYE25e"
+      "duration_ms": 241574,
+      "name": "Perfect Day - featuring RAYE",
+      "url": "https://open.spotify.com/track/2c9sIf5jLjqItQovMOZxqe"
     },
     {
       "added_at": null,
@@ -787,22 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fly Me to the Moon",
-        "url": "https://open.spotify.com/album/3jiammRDNmKadXgGYVPyHY"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 191332,
-      "name": "Fly Me to the Moon",
-      "url": "https://open.spotify.com/track/4krtOcIVPlUICseg29Nnet"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Golden Boy",
         "url": "https://open.spotify.com/album/4QJ5jTYVijBczD7o2ynp9P"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 215573,
       "name": "Check (with RAYE)",
       "url": "https://open.spotify.com/track/53i7ll4F1dpYS0ZUQx9USd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fly Me to the Moon",
+        "url": "https://open.spotify.com/album/3jiammRDNmKadXgGYVPyHY"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 191332,
+      "name": "Fly Me to the Moon",
+      "url": "https://open.spotify.com/track/4krtOcIVPlUICseg29Nnet"
     },
     {
       "added_at": null,

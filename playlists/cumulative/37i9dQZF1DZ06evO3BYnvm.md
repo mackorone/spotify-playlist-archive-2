@@ -4,7 +4,7 @@
 
 > This is Lola Young\. The essential tracks, all in one playlist.
 
-46 songs - 2 hr 39 min
+47 songs - 2 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [F\*ck](https://open.spotify.com/track/0W1e7fgHgYsDXOJreBNvpV) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Messy](https://open.spotify.com/album/6bv6QMQ5TAFkmtTtQ5SHjS) | 2:44 | 2025-12-30 |  |
 | [FAKE](https://open.spotify.com/track/3eImUEjfyVt2YtkyU6PNhB) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [FAKE](https://open.spotify.com/album/4jiGlNrQLme80dP2lS3bzg) | 3:35 | 2025-12-30 |  |
 | [Flicker of Light](https://open.spotify.com/track/3etbPFMXnAuShtcImz4UXW) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Flicker of Light](https://open.spotify.com/album/2wwEUTNKOlvU3kfeFuoQbg) | 3:19 | 2025-12-30 |  |
+| [From Down Here](https://open.spotify.com/track/7Hg7l5aOygIHuaNDVFp3ox) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [From Down Here](https://open.spotify.com/album/3oyrHxgRO9HNMQx5mdML1u) | 4:01 | 2026-05-24 |  |
 | [Good Books](https://open.spotify.com/track/7qqDAVEq3y8yKmEMVMJ6Wf) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [This Wasn't Meant For You Anyway](https://open.spotify.com/album/3uTpTaMOynCYKV5AtgeO2U) | 4:14 | 2025-12-30 |  |
 | [Grey And Lilac \- Intro](https://open.spotify.com/track/1TMF8DNwkbQLkBodN8Lgnu) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Intro](https://open.spotify.com/album/7nlnkF135vozYOVdbtEi0z) | 2:37 | 2025-12-30 |  |
 | [I Don't Mind](https://open.spotify.com/track/1dVzh4UqR5m6wKk8x5OXcv) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Bose x NME: C24](https://open.spotify.com/album/5KKWsXzOZnaBpGLQjJCRrD) | 1:18 | 2025-12-30 |  |

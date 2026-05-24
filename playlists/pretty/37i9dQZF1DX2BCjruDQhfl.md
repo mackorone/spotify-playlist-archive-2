@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2BCjruDQhfl.md) - [plain]
 
 > It's giving vibes\. Cover: Dammie & FJ
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,334 likes - 70 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,327 likes - 70 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

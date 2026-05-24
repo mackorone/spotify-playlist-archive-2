@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ASuQophyb3.md) - [plain]
 
 > Türkçe pop'un hit şarkıları ve zirveye oynayanlar\.  Kapak: Berkay
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,553,467 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,553,575 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ASuQophyb3.md) - [plain]
 | 3 | [Hileli](https://open.spotify.com/track/4eBE6hpwm7aJxIY4iwgwU8) | [manifest](https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf), [Ajda Pekkan](https://open.spotify.com/artist/27XMnTLvCO7t3qGlQyTMkF) | [Hileli](https://open.spotify.com/album/1Dim5nq14eGHzcfGhLqUWU) | 3:22 |
 | 4 | [Be Oğlum](https://open.spotify.com/track/2azHlYPkMqCKHKOnC7uXu2) | [Göksel](https://open.spotify.com/artist/4i4ALRtQQmFxn3BCIB6iC0) | [Rüyaların İşi](https://open.spotify.com/album/4qctMT6jf347dtrz0ZodKd) | 3:17 |
 | 5 | [Bir](https://open.spotify.com/track/5n5UzQrxMYAbbnz5kDO9fp) | [Murat Dalkılıç](https://open.spotify.com/artist/6dDaXbE1caD65TONToYXYx), [Afra](https://open.spotify.com/artist/4TofTRvEUQsznrSPnYnHx9), [Can Atayılmaz](https://open.spotify.com/artist/1qkPyuqp2GFBWcRK1HT4rp) | [Bir](https://open.spotify.com/album/7IoECfCapBFFhbtfRYz4Ub) | 3:14 |
-| 6 | [Yıkamazlar Beni](https://open.spotify.com/track/0vHm2X8K1Pw8uiCi7H6A60) | [Tekir](https://open.spotify.com/artist/2SqjgMx7edUilMzPosMR1P), [Seda Sayan](https://open.spotify.com/artist/5hKNaXEXIxQ3dmZR7FoRr8) | [Yıkamazlar Beni](https://open.spotify.com/album/6D0kjfXPoTsKARaHiFgdEa) | 2:56 |
+| 6 | [Yıkamazlar Beni \- Yıkamazlar Bizi](https://open.spotify.com/track/0vHm2X8K1Pw8uiCi7H6A60) | [Tekir](https://open.spotify.com/artist/2SqjgMx7edUilMzPosMR1P), [Seda Sayan](https://open.spotify.com/artist/5hKNaXEXIxQ3dmZR7FoRr8) | [Yıkamazlar Beni \(Yıkamazlar Bizi\)](https://open.spotify.com/album/6D0kjfXPoTsKARaHiFgdEa) | 3:02 |
 | 7 | [Kim Özleyecek](https://open.spotify.com/track/4CRdavZLSgH4oiUZxGx6lD) | [İrem Derici](https://open.spotify.com/artist/5h2jTdwf4p0dM34aBykPzZ) | [Kim Özleyecek](https://open.spotify.com/album/5GT9iBUJHUUVC4Y3BEvKuQ) | 2:48 |
 | 8 | [Bir Sigara Yaktım](https://open.spotify.com/track/5bPi0l7YuXrFpsVaBFZE9S) | [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz) | [Bir Sigara Yaktım](https://open.spotify.com/album/5Uqu265E05Dyv0sC7uV6wt) | 2:56 |
 | 9 | [Sokak Kızı \- 30\. Yıl Dönümü](https://open.spotify.com/track/4ITDqs1I58xCoPTGKZIUfL) | [Nazan Öncel](https://open.spotify.com/artist/4li4dx5mFgZlMVeHlARBHP) | [Ben Sokak Kızıyım \(30\. Yıl Dönümü\)](https://open.spotify.com/album/16zD9p9OAxibLapvbeb3om) | 4:08 |

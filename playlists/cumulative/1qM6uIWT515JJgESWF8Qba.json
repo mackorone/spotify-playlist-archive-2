@@ -2601,6 +2601,24 @@
     },
     {
       "album": {
+        "name": "Narcissus",
+        "url": "https://open.spotify.com/album/3zui8JpZjtJo7xpMezSukq"
+      },
+      "artists": [
+        {
+          "name": "X-Rated 1994",
+          "url": "https://open.spotify.com/artist/71QiZSo2Jl9MO98vg3JSO0"
+        }
+      ],
+      "date_added": "2026-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 484629,
+      "name": "Narcissus",
+      "url": "https://open.spotify.com/track/3TEPXf5UCrgNTHo5iTZedr"
+    },
+    {
+      "album": {
         "name": "Nastasia",
         "url": "https://open.spotify.com/album/4cZR65l4h4Xyf4IGVLQfmE"
       },

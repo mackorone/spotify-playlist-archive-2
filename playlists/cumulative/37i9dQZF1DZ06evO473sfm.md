@@ -4,7 +4,7 @@
 
 > This is Grupo Frontera\. The essential tracks, all in one playlist.
 
-130 songs - 6 hr 40 min
+131 songs - 6 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,7 @@
 | [Me gustas \- En vivo](https://open.spotify.com/track/6N4zfmOVZfMDddZDCRjmca) | [Israel Morales](https://open.spotify.com/artist/6ojwZd66jiZlplxrG6JVjW), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Me gustas \(En Vivo\)](https://open.spotify.com/album/2ZTFSE5lFqFYrlHZOiwiL1) | 3:04 | 2023-03-10 | 2024-12-22 |
 | [ME HIZO UN FAVOR](https://open.spotify.com/track/0VczEvxzUE4wmDWBmrE18G) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [JUGANDO A QUE NO PASA NADA](https://open.spotify.com/album/4j58S9wNTTLgllMslsSMhk) | 2:36 | 2024-05-12 | 2024-06-11 |
 | [ME JALO](https://open.spotify.com/track/3D24ErT1MMmUfXWotSj2A2) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [MALA MÍA](https://open.spotify.com/album/5utxE1ImIDJFXRHf137hoy) | 3:32 | 2024-12-22 |  |
-| [Me Retiro](https://open.spotify.com/track/0iWO3A7RCIFZvLvVfIOW4h) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Me Retiro](https://open.spotify.com/album/4e54zPQ8pqXkFHTKL7xLVj) | 4:08 | 2025-06-01 |  |
+| [Me Retiro](https://open.spotify.com/track/0iWO3A7RCIFZvLvVfIOW4h) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Me Retiro](https://open.spotify.com/album/4e54zPQ8pqXkFHTKL7xLVj) | 4:08 | 2025-06-01 | 2026-05-24 |
 | [Mi Corazón](https://open.spotify.com/track/02EckzshsKodeAfZQF3cDP) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Mi Corazón](https://open.spotify.com/album/5iFkzGv5idTW7deC3hdnoJ) | 2:06 | 2024-12-08 | 2025-09-30 |
 | [mi droga](https://open.spotify.com/track/1l9X3eyb8ZV4MQvUubYtFF) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [LO QUE ME FALTA POR LLORAR](https://open.spotify.com/album/1rQaw35QueiDUvAhvTOWZi) | 2:47 | 2025-11-06 |  |
 | [Modo Difícil](https://open.spotify.com/track/36HVLbDhXrvMTBRj6KTD31) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Modo Difícil](https://open.spotify.com/album/3kfuMuOaXbp69CayJ2kiqI) | 3:21 | 2025-09-10 |  |
@@ -126,6 +126,7 @@
 | [TULUM](https://open.spotify.com/track/7bPp2NmpmyhLJ7zWazAXMu) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [GÉNESIS](https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH) | 3:29 | 2023-07-01 |  |
 | [un x100to](https://open.spotify.com/track/2yzshFeBIwH8tWIqHEFLeD) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [El Comienzo](https://open.spotify.com/album/5i9lMMUZ1QZNsLEE3j50kT) | 3:14 | 2024-01-04 | 2025-11-05 |
 | [un x100to](https://open.spotify.com/track/6pD0ufEQq0xdHSsRbg9LBK) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [un x100to](https://open.spotify.com/album/7aGzSSUD8S6IhPCsZSiuMT) | 3:14 | 2023-04-19 |  |
+| [Una vida juntos](https://open.spotify.com/track/5t4jQPNGUqciQDDxXEnQKr) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP) | [Loco X Volver](https://open.spotify.com/album/2EInRP6cUHucyNktL1UPUy) | 3:14 | 2026-05-24 |  |
 | [Vete](https://open.spotify.com/track/2QUlF7O0auutIII6Ntd7ZS) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Vete](https://open.spotify.com/album/36D06EKe6KD6Glf1VxWfgW) | 2:55 | 2023-03-10 | 2025-10-29 |
 | [Ya Me Entere \- En Vivo](https://open.spotify.com/track/4FjYDIaDlu3xf8JQrfgTBW) | [De Parranda](https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Ya Me Entere \(En Vivo\)](https://open.spotify.com/album/0P74VgufHFNWnZrrn9Xhpe) | 3:42 | 2023-03-10 |  |
 | [Ya No](https://open.spotify.com/track/3tnHHGRiBLwIyOh9p5eqbf) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Ya No](https://open.spotify.com/album/6n8M3o4E94OA9hTDUTWlkv) | 2:48 | 2025-02-19 | 2025-10-28 |

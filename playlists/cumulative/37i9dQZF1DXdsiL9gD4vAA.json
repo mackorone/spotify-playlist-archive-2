@@ -2421,6 +2421,24 @@
     },
     {
       "album": {
+        "name": "Kaisa Manzar",
+        "url": "https://open.spotify.com/album/3lEUa9SEtO39Dg0rPuF8uu"
+      },
+      "artists": [
+        {
+          "name": "Osman Mir",
+          "url": "https://open.spotify.com/artist/20w1cujlzVI3LA0dItmMg1"
+        }
+      ],
+      "date_added": "2026-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295652,
+      "name": "Kaisa Manzar",
+      "url": "https://open.spotify.com/track/4QmPaU6ipYU0tAS5FUJnn1"
+    },
+    {
+      "album": {
         "name": "Kaise Keh Dein",
         "url": "https://open.spotify.com/album/7dYJFrC2T3IeqiAhfMFxyB"
       },
@@ -2726,7 +2744,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-24",
       "duration_ms": 325976,
       "name": "Main Khayal Hoon",
       "url": "https://open.spotify.com/track/6UIzo8T1S2EGHyPSoKXMWa"

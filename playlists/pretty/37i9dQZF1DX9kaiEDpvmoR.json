@@ -1,6 +1,6 @@
 {
   "description": "Aktuell musik med etablerade och intressanta artister. ",
-  "num_followers": 93913,
+  "num_followers": 93922,
   "original_name": "Aktuellt",
   "owner": {
     "name": "Spotify",
@@ -175,18 +175,18 @@
     {
       "added_at": "2026-05-21 22:00:26",
       "album": {
-        "name": "Easter Lily EP",
-        "url": "https://open.spotify.com/album/1DY06ZzIoHYFQ83jPfm9aF"
+        "name": "Leva f\u00f6r alltid (Sveriges officiella VM-l\u00e5t 2026)",
+        "url": "https://open.spotify.com/album/4eBwT9tto4VD3x0wvI4hCg"
       },
       "artists": [
         {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+          "name": "Thomas Stenstr\u00f6m",
+          "url": "https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7"
         }
       ],
-      "duration_ms": 273906,
-      "name": "In A Life",
-      "url": "https://open.spotify.com/track/1fbIlgO7EgYsDzk3r3uRz2"
+      "duration_ms": 202640,
+      "name": "Leva f\u00f6r alltid - Sveriges officiella VM-l\u00e5t 2026",
+      "url": "https://open.spotify.com/track/29LodsetZFyeTG00AJUoJz"
     },
     {
       "added_at": "2026-05-21 22:00:26",
@@ -207,18 +207,18 @@
     {
       "added_at": "2026-05-21 22:00:26",
       "album": {
-        "name": "Leva f\u00f6r alltid (Sveriges officiella VM-l\u00e5t 2026)",
-        "url": "https://open.spotify.com/album/4eBwT9tto4VD3x0wvI4hCg"
+        "name": "Easter Lily EP",
+        "url": "https://open.spotify.com/album/1DY06ZzIoHYFQ83jPfm9aF"
       },
       "artists": [
         {
-          "name": "Thomas Stenstr\u00f6m",
-          "url": "https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7"
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
         }
       ],
-      "duration_ms": 202640,
-      "name": "Leva f\u00f6r alltid - Sveriges officiella VM-l\u00e5t 2026",
-      "url": "https://open.spotify.com/track/29LodsetZFyeTG00AJUoJz"
+      "duration_ms": 273906,
+      "name": "In A Life",
+      "url": "https://open.spotify.com/track/1fbIlgO7EgYsDzk3r3uRz2"
     },
     {
       "added_at": "2026-05-21 22:00:26",
@@ -339,22 +339,6 @@
     {
       "added_at": "2026-05-21 22:00:26",
       "album": {
-        "name": "Din S\u00e5ng",
-        "url": "https://open.spotify.com/album/64vTKNWTHScWdFu6eG4LJr"
-      },
-      "artists": [
-        {
-          "name": "Kapten R\u00f6d",
-          "url": "https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA"
-        }
-      ],
-      "duration_ms": 236479,
-      "name": "Din S\u00e5ng",
-      "url": "https://open.spotify.com/track/7z9yS76hKaktbg1cJieHQC"
-    },
-    {
-      "added_at": "2026-05-21 22:00:26",
-      "album": {
         "name": "Bara mellan oss",
         "url": "https://open.spotify.com/album/0uu0VZmG5Bk4q5VAXTLmnn"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 221833,
       "name": "Bara mellan oss",
       "url": "https://open.spotify.com/track/4VIWX9gEawpAkvzvwz2a1h"
+    },
+    {
+      "added_at": "2026-05-21 22:00:26",
+      "album": {
+        "name": "Din S\u00e5ng",
+        "url": "https://open.spotify.com/album/64vTKNWTHScWdFu6eG4LJr"
+      },
+      "artists": [
+        {
+          "name": "Kapten R\u00f6d",
+          "url": "https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA"
+        }
+      ],
+      "duration_ms": 236479,
+      "name": "Din S\u00e5ng",
+      "url": "https://open.spotify.com/track/7z9yS76hKaktbg1cJieHQC"
     },
     {
       "added_at": "2026-05-21 22:00:26",
@@ -423,22 +423,6 @@
     {
       "added_at": "2026-05-21 22:00:26",
       "album": {
-        "name": "D\u00e4r hela v\u00e4rlden v\u00e4ntar",
-        "url": "https://open.spotify.com/album/4u1XhQVQ6dbY1Irc9jPdNC"
-      },
-      "artists": [
-        {
-          "name": "Klara Almstr\u00f6m",
-          "url": "https://open.spotify.com/artist/2xUZsZaMqJSqpxIoTJl9D3"
-        }
-      ],
-      "duration_ms": 182746,
-      "name": "D\u00e4r hela v\u00e4rlden v\u00e4ntar",
-      "url": "https://open.spotify.com/track/4kRZAIVd5BBkYSPRsqj2D2"
-    },
-    {
-      "added_at": "2026-05-21 22:00:26",
-      "album": {
         "name": "Himlen \u00e4r oskyldigt bl\u00e5",
         "url": "https://open.spotify.com/album/2YeDXQKCSMPg9H1j244Wwl"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 262644,
       "name": "Himlen \u00e4r oskyldigt bl\u00e5",
       "url": "https://open.spotify.com/track/1hYwe6tTSED5oiZoUaH0b6"
+    },
+    {
+      "added_at": "2026-05-21 22:00:26",
+      "album": {
+        "name": "D\u00e4r hela v\u00e4rlden v\u00e4ntar",
+        "url": "https://open.spotify.com/album/4u1XhQVQ6dbY1Irc9jPdNC"
+      },
+      "artists": [
+        {
+          "name": "Klara Almstr\u00f6m",
+          "url": "https://open.spotify.com/artist/2xUZsZaMqJSqpxIoTJl9D3"
+        }
+      ],
+      "duration_ms": 182746,
+      "name": "D\u00e4r hela v\u00e4rlden v\u00e4ntar",
+      "url": "https://open.spotify.com/track/4kRZAIVd5BBkYSPRsqj2D2"
     },
     {
       "added_at": "2026-05-21 22:00:26",
@@ -563,6 +563,22 @@
     {
       "added_at": "2026-05-21 22:00:26",
       "album": {
+        "name": "Det h\u00f6gsta ljud jag h\u00f6rt",
+        "url": "https://open.spotify.com/album/3WYtGbzsy5rUpYKf7u9tlY"
+      },
+      "artists": [
+        {
+          "name": "Oskar Linnros",
+          "url": "https://open.spotify.com/artist/3E8Mx37sikkaFoX5DRecLi"
+        }
+      ],
+      "duration_ms": 190013,
+      "name": "Pappa kommer inte hem",
+      "url": "https://open.spotify.com/track/5r2KPAo67ayJ5CyDH6uhql"
+    },
+    {
+      "added_at": "2026-05-21 22:00:26",
+      "album": {
         "name": "Oxygen",
         "url": "https://open.spotify.com/album/7FJV7QgehZXTArpuReQruq"
       },
@@ -643,22 +659,6 @@
     {
       "added_at": "2026-05-21 22:00:26",
       "album": {
-        "name": "Deabolo Hypomania",
-        "url": "https://open.spotify.com/album/05CloJ3lVo4wMkn4A2jrgo"
-      },
-      "artists": [
-        {
-          "name": "Robert Pettersson",
-          "url": "https://open.spotify.com/artist/1w2HnLBup1zCyrQ0AJ0HZZ"
-        }
-      ],
-      "duration_ms": 192683,
-      "name": "Bipolar Crack",
-      "url": "https://open.spotify.com/track/2oMvt1MKq8zgeq57Uf9CL7"
-    },
-    {
-      "added_at": "2026-05-21 22:00:26",
-      "album": {
         "name": "G\u00f6teborg sjunger Alf",
         "url": "https://open.spotify.com/album/1HXPcdjBXNKKfZVVNRBJgT"
       },
@@ -675,6 +675,22 @@
       "duration_ms": 227246,
       "name": "T\u00e4nker n\u00e4stan j\u00e4mt p\u00e5 dig",
       "url": "https://open.spotify.com/track/5XoEwzMnMVsKJRhNvPeSDA"
+    },
+    {
+      "added_at": "2026-05-21 22:00:26",
+      "album": {
+        "name": "Deabolo Hypomania",
+        "url": "https://open.spotify.com/album/05CloJ3lVo4wMkn4A2jrgo"
+      },
+      "artists": [
+        {
+          "name": "Robert Pettersson",
+          "url": "https://open.spotify.com/artist/1w2HnLBup1zCyrQ0AJ0HZZ"
+        }
+      ],
+      "duration_ms": 192683,
+      "name": "Bipolar Crack",
+      "url": "https://open.spotify.com/track/2oMvt1MKq8zgeq57Uf9CL7"
     },
     {
       "added_at": "2026-05-21 22:00:26",
@@ -727,22 +743,6 @@
     {
       "added_at": "2026-05-21 22:00:26",
       "album": {
-        "name": "You",
-        "url": "https://open.spotify.com/album/2n1wJFqBY1KUprIEKnD0tt"
-      },
-      "artists": [
-        {
-          "name": "Robert Pettersson",
-          "url": "https://open.spotify.com/artist/1w2HnLBup1zCyrQ0AJ0HZZ"
-        }
-      ],
-      "duration_ms": 288020,
-      "name": "You",
-      "url": "https://open.spotify.com/track/0FPUZqLL86z0eGXKgf9J5M"
-    },
-    {
-      "added_at": "2026-05-21 22:00:26",
-      "album": {
         "name": "Hon steg p\u00e5 finlandsb\u00e5ten",
         "url": "https://open.spotify.com/album/2NWC30QTZOUGAbbuBhChfI"
       },
@@ -759,6 +759,22 @@
       "duration_ms": 197454,
       "name": "Hon steg p\u00e5 finlandsb\u00e5ten",
       "url": "https://open.spotify.com/track/1L5gRcjdOBZVrvf9eMr74t"
+    },
+    {
+      "added_at": "2026-05-21 22:00:26",
+      "album": {
+        "name": "You",
+        "url": "https://open.spotify.com/album/2n1wJFqBY1KUprIEKnD0tt"
+      },
+      "artists": [
+        {
+          "name": "Robert Pettersson",
+          "url": "https://open.spotify.com/artist/1w2HnLBup1zCyrQ0AJ0HZZ"
+        }
+      ],
+      "duration_ms": 288020,
+      "name": "You",
+      "url": "https://open.spotify.com/track/0FPUZqLL86z0eGXKgf9J5M"
     },
     {
       "added_at": "2026-05-21 22:00:26",
@@ -827,6 +843,22 @@
     {
       "added_at": "2026-05-21 22:00:26",
       "album": {
+        "name": "Hj\u00e4rnsp\u00f6ken",
+        "url": "https://open.spotify.com/album/5cDNdPjGB4JA26VNlee1vW"
+      },
+      "artists": [
+        {
+          "name": "Axel Schylstr\u00f6m",
+          "url": "https://open.spotify.com/artist/0Oomam5yjtfqVPnscjx8GT"
+        }
+      ],
+      "duration_ms": 170924,
+      "name": "Hj\u00e4rnsp\u00f6ken",
+      "url": "https://open.spotify.com/track/1oy1YNVgdi8b6TqWwkVXBP"
+    },
+    {
+      "added_at": "2026-05-21 22:00:26",
+      "album": {
         "name": "M\u00e4nniskobarn",
         "url": "https://open.spotify.com/album/6dOFVRlMkZ4LWrzudjA9qC"
       },
@@ -859,22 +891,6 @@
     {
       "added_at": "2026-05-21 22:00:26",
       "album": {
-        "name": "Hj\u00e4rnsp\u00f6ken",
-        "url": "https://open.spotify.com/album/5cDNdPjGB4JA26VNlee1vW"
-      },
-      "artists": [
-        {
-          "name": "Axel Schylstr\u00f6m",
-          "url": "https://open.spotify.com/artist/0Oomam5yjtfqVPnscjx8GT"
-        }
-      ],
-      "duration_ms": 170924,
-      "name": "Hj\u00e4rnsp\u00f6ken",
-      "url": "https://open.spotify.com/track/1oy1YNVgdi8b6TqWwkVXBP"
-    },
-    {
-      "added_at": "2026-05-21 22:00:26",
-      "album": {
         "name": "All These Years",
         "url": "https://open.spotify.com/album/6GLddY1ROJ42TaJ3z8Unm1"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 228482,
       "name": "All These Years",
       "url": "https://open.spotify.com/track/79SPu1VplDqde3ONfxvS4w"
-    },
-    {
-      "added_at": "2026-05-21 22:00:26",
-      "album": {
-        "name": "Flytta isbergen, vattna sv\u00e4rmorstungan, ta med soporna ut (Live)",
-        "url": "https://open.spotify.com/album/2i2832uYSA6ZjldfbX1XEN"
-      },
-      "artists": [
-        {
-          "name": "Th\u00e5str\u00f6m",
-          "url": "https://open.spotify.com/artist/2PBhJmRqee1QAyQU2kBu1H"
-        }
-      ],
-      "duration_ms": 264146,
-      "name": "Det b\u00e4sta av allt - Live",
-      "url": "https://open.spotify.com/track/3yZzIdYbrajLDhcnPOXOCR"
     },
     {
       "added_at": "2026-05-21 22:00:26",
@@ -923,6 +923,22 @@
     {
       "added_at": "2026-05-21 22:00:26",
       "album": {
+        "name": "Flytta isbergen, vattna sv\u00e4rmorstungan, ta med soporna ut (Live)",
+        "url": "https://open.spotify.com/album/2i2832uYSA6ZjldfbX1XEN"
+      },
+      "artists": [
+        {
+          "name": "Th\u00e5str\u00f6m",
+          "url": "https://open.spotify.com/artist/2PBhJmRqee1QAyQU2kBu1H"
+        }
+      ],
+      "duration_ms": 264146,
+      "name": "Det b\u00e4sta av allt - Live",
+      "url": "https://open.spotify.com/track/3yZzIdYbrajLDhcnPOXOCR"
+    },
+    {
+      "added_at": "2026-05-21 22:00:26",
+      "album": {
         "name": "Gullmar Gospel",
         "url": "https://open.spotify.com/album/70FLBezfgY07tPfguRRhq9"
       },
@@ -935,6 +951,22 @@
       "duration_ms": 272575,
       "name": "Gullmar Gospel",
       "url": "https://open.spotify.com/track/1UNyMoHUNzdaxaKGMNc3Xk"
+    },
+    {
+      "added_at": "2026-05-21 22:00:26",
+      "album": {
+        "name": "I Rock My Country",
+        "url": "https://open.spotify.com/album/4aHUnJh7sh0vUyblNTgZkf"
+      },
+      "artists": [
+        {
+          "name": "Jill Johnson",
+          "url": "https://open.spotify.com/artist/2aaGbpl5Y2ykZsNFZM6ofw"
+        }
+      ],
+      "duration_ms": 196440,
+      "name": "I Rock My Country",
+      "url": "https://open.spotify.com/track/1g3MRa2pi0mN1yL3JAxNw6"
     },
     {
       "added_at": "2026-05-21 22:00:26",
@@ -967,22 +999,6 @@
       "duration_ms": 300360,
       "name": "Losin' Kind - Nebraska Outtakes",
       "url": "https://open.spotify.com/track/3nyE4s2ueZ03Q2czUMfJ88"
-    },
-    {
-      "added_at": "2026-05-21 22:00:26",
-      "album": {
-        "name": "I Rock My Country",
-        "url": "https://open.spotify.com/album/4aHUnJh7sh0vUyblNTgZkf"
-      },
-      "artists": [
-        {
-          "name": "Jill Johnson",
-          "url": "https://open.spotify.com/artist/2aaGbpl5Y2ykZsNFZM6ofw"
-        }
-      ],
-      "duration_ms": 196440,
-      "name": "I Rock My Country",
-      "url": "https://open.spotify.com/track/1g3MRa2pi0mN1yL3JAxNw6"
     },
     {
       "added_at": "2026-05-21 22:00:26",
@@ -1055,22 +1071,6 @@
     {
       "added_at": "2026-05-21 22:00:26",
       "album": {
-        "name": "About Nothing",
-        "url": "https://open.spotify.com/album/69JvVDyuNFI6dPONVjlW7z"
-      },
-      "artists": [
-        {
-          "name": "Robert Pettersson",
-          "url": "https://open.spotify.com/artist/1w2HnLBup1zCyrQ0AJ0HZZ"
-        }
-      ],
-      "duration_ms": 193433,
-      "name": "About Nothing",
-      "url": "https://open.spotify.com/track/076zcqaNjJIOxXNUeMCYv2"
-    },
-    {
-      "added_at": "2026-05-21 22:00:26",
-      "album": {
         "name": "EXISTENS",
         "url": "https://open.spotify.com/album/0XDsq9zTHP8OI5UW1PE9lm"
       },
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2026-05-21 22:00:26",
       "album": {
+        "name": "About Nothing",
+        "url": "https://open.spotify.com/album/69JvVDyuNFI6dPONVjlW7z"
+      },
+      "artists": [
+        {
+          "name": "Robert Pettersson",
+          "url": "https://open.spotify.com/artist/1w2HnLBup1zCyrQ0AJ0HZZ"
+        }
+      ],
+      "duration_ms": 193433,
+      "name": "About Nothing",
+      "url": "https://open.spotify.com/track/076zcqaNjJIOxXNUeMCYv2"
+    },
+    {
+      "added_at": "2026-05-21 22:00:26",
+      "album": {
         "name": "Svindlande h\u00f6jder",
         "url": "https://open.spotify.com/album/1SPlcaGE0eZiXcHWPMYbHp"
       },
@@ -1119,22 +1135,6 @@
     {
       "added_at": "2026-05-21 22:00:26",
       "album": {
-        "name": "Dansa",
-        "url": "https://open.spotify.com/album/2OwwK5sCeCL2H9Ka2t6Hgt"
-      },
-      "artists": [
-        {
-          "name": "Jens Hult",
-          "url": "https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu"
-        }
-      ],
-      "duration_ms": 184145,
-      "name": "Dansa",
-      "url": "https://open.spotify.com/track/4oQRXnBrfgFpR47I1rGyCU"
-    },
-    {
-      "added_at": "2026-05-21 22:00:26",
-      "album": {
         "name": "Last To Know",
         "url": "https://open.spotify.com/album/04oxKh21TCYMX17XlDHptZ"
       },
@@ -1147,6 +1147,22 @@
       "duration_ms": 214500,
       "name": "Last To Know",
       "url": "https://open.spotify.com/track/2k12MDDJTqKYaHcucYbTWv"
+    },
+    {
+      "added_at": "2026-05-21 22:00:26",
+      "album": {
+        "name": "Dansa",
+        "url": "https://open.spotify.com/album/2OwwK5sCeCL2H9Ka2t6Hgt"
+      },
+      "artists": [
+        {
+          "name": "Jens Hult",
+          "url": "https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu"
+        }
+      ],
+      "duration_ms": 184145,
+      "name": "Dansa",
+      "url": "https://open.spotify.com/track/4oQRXnBrfgFpR47I1rGyCU"
     },
     {
       "added_at": "2026-05-21 22:00:26",
@@ -1183,22 +1199,6 @@
     {
       "added_at": "2026-05-21 22:00:26",
       "album": {
-        "name": "Margaretas s\u00e5ng",
-        "url": "https://open.spotify.com/album/7jdHRsFJot5BpyNcwskvNn"
-      },
-      "artists": [
-        {
-          "name": "Dina \u00d6gon",
-          "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI"
-        }
-      ],
-      "duration_ms": 252629,
-      "name": "Margaretas s\u00e5ng",
-      "url": "https://open.spotify.com/track/6bgxMMjVfFGQ7LhL0gJq6h"
-    },
-    {
-      "added_at": "2026-05-21 22:00:26",
-      "album": {
         "name": "S\u00f6dersommar",
         "url": "https://open.spotify.com/album/2qtU1Yh1stdNagreyKheqc"
       },
@@ -1211,6 +1211,22 @@
       "duration_ms": 230111,
       "name": "S\u00f6dersommar",
       "url": "https://open.spotify.com/track/5tbbTs56RXANxq6cj4gjln"
+    },
+    {
+      "added_at": "2026-05-21 22:00:26",
+      "album": {
+        "name": "Margaretas s\u00e5ng",
+        "url": "https://open.spotify.com/album/7jdHRsFJot5BpyNcwskvNn"
+      },
+      "artists": [
+        {
+          "name": "Dina \u00d6gon",
+          "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI"
+        }
+      ],
+      "duration_ms": 252629,
+      "name": "Margaretas s\u00e5ng",
+      "url": "https://open.spotify.com/track/6bgxMMjVfFGQ7LhL0gJq6h"
     },
     {
       "added_at": "2026-05-21 22:00:26",
@@ -1231,22 +1247,6 @@
     {
       "added_at": "2026-05-21 22:00:26",
       "album": {
-        "name": "Just to Make You Laugh",
-        "url": "https://open.spotify.com/album/61RBQcj4nLu3fuPEJexpHF"
-      },
-      "artists": [
-        {
-          "name": "Robert Pettersson",
-          "url": "https://open.spotify.com/artist/1w2HnLBup1zCyrQ0AJ0HZZ"
-        }
-      ],
-      "duration_ms": 188488,
-      "name": "Just to Make You Laugh",
-      "url": "https://open.spotify.com/track/0WFDKbJBDv64fqiT8ulDyD"
-    },
-    {
-      "added_at": "2026-05-21 22:00:26",
-      "album": {
         "name": "Stronger Than",
         "url": "https://open.spotify.com/album/2iIYVdrZn9vOhbBToT0Sgo"
       },
@@ -1259,6 +1259,22 @@
       "duration_ms": 188493,
       "name": "Stronger Than",
       "url": "https://open.spotify.com/track/0CX9PobBmUhcGriDq8fDMo"
+    },
+    {
+      "added_at": "2026-05-21 22:00:26",
+      "album": {
+        "name": "Just to Make You Laugh",
+        "url": "https://open.spotify.com/album/61RBQcj4nLu3fuPEJexpHF"
+      },
+      "artists": [
+        {
+          "name": "Robert Pettersson",
+          "url": "https://open.spotify.com/artist/1w2HnLBup1zCyrQ0AJ0HZZ"
+        }
+      ],
+      "duration_ms": 188488,
+      "name": "Just to Make You Laugh",
+      "url": "https://open.spotify.com/track/0WFDKbJBDv64fqiT8ulDyD"
     },
     {
       "added_at": "2026-05-21 22:00:26",
@@ -1283,26 +1299,18 @@
     {
       "added_at": "2026-05-21 22:00:26",
       "album": {
-        "name": "Bad Blood",
-        "url": "https://open.spotify.com/album/7i1g3DW1WAjsYXsWHAsQP9"
+        "name": "Tiden",
+        "url": "https://open.spotify.com/album/16q6FX0WuHi5RhtwGhf5Gc"
       },
       "artists": [
         {
-          "name": "Per Gessle",
-          "url": "https://open.spotify.com/artist/5pFJ8lLOUnyEaNrrf7D1KK"
-        },
-        {
-          "name": "Lena Philipsson",
-          "url": "https://open.spotify.com/artist/7rZYHhxGKbe1XepzlpDlKm"
-        },
-        {
-          "name": "PG Roxette",
-          "url": "https://open.spotify.com/artist/3k87PFuum7Sv7zzjw7BMIg"
+          "name": "Arvid Nero",
+          "url": "https://open.spotify.com/artist/3f0ldp5c4bOfR1zVcaFYew"
         }
       ],
-      "duration_ms": 170000,
-      "name": "Bad Blood",
-      "url": "https://open.spotify.com/track/6F5ZOMStXsxHAfWDqpcOVZ"
+      "duration_ms": 242641,
+      "name": "Tiden",
+      "url": "https://open.spotify.com/track/4FJ0spbrJdbUTuD4bior44"
     },
     {
       "added_at": "2026-05-21 22:00:26",
@@ -1323,18 +1331,26 @@
     {
       "added_at": "2026-05-21 22:00:26",
       "album": {
-        "name": "Tiden",
-        "url": "https://open.spotify.com/album/16q6FX0WuHi5RhtwGhf5Gc"
+        "name": "Bad Blood",
+        "url": "https://open.spotify.com/album/7i1g3DW1WAjsYXsWHAsQP9"
       },
       "artists": [
         {
-          "name": "Arvid Nero",
-          "url": "https://open.spotify.com/artist/3f0ldp5c4bOfR1zVcaFYew"
+          "name": "Per Gessle",
+          "url": "https://open.spotify.com/artist/5pFJ8lLOUnyEaNrrf7D1KK"
+        },
+        {
+          "name": "Lena Philipsson",
+          "url": "https://open.spotify.com/artist/7rZYHhxGKbe1XepzlpDlKm"
+        },
+        {
+          "name": "PG Roxette",
+          "url": "https://open.spotify.com/artist/3k87PFuum7Sv7zzjw7BMIg"
         }
       ],
-      "duration_ms": 242641,
-      "name": "Tiden",
-      "url": "https://open.spotify.com/track/4FJ0spbrJdbUTuD4bior44"
+      "duration_ms": 170000,
+      "name": "Bad Blood",
+      "url": "https://open.spotify.com/track/6F5ZOMStXsxHAfWDqpcOVZ"
     },
     {
       "added_at": "2026-05-21 22:00:26",
@@ -1475,22 +1491,6 @@
       "duration_ms": 249626,
       "name": "Stockholm",
       "url": "https://open.spotify.com/track/2xPiro8t2RPPxjkLvg0kHo"
-    },
-    {
-      "added_at": "2026-05-21 22:00:26",
-      "album": {
-        "name": "Sunday Love",
-        "url": "https://open.spotify.com/album/1FuchvF8uto0RFeG651LDD"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 316373,
-      "name": "Sunday Love",
-      "url": "https://open.spotify.com/track/1gNOwN4roOSWMSF8dUbhCz"
     }
   ],
   "unique_name": "Aktuellt",

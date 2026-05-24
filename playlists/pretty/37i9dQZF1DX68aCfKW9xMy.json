@@ -1,6 +1,6 @@
 {
   "description": "La casa de los corazones rotos.",
-  "num_followers": 1664487,
+  "num_followers": 1664605,
   "original_name": "Mal de Amores",
   "owner": {
     "name": "Spotify",
@@ -359,22 +359,18 @@
     {
       "added_at": "2026-02-27 19:49:52",
       "album": {
-        "name": "Yo Ya No Vuelvo Contigo (En Vivo)",
-        "url": "https://open.spotify.com/album/78OOLWnOyjDZRqxZXlfNk9"
+        "name": "Ojos En Blanco",
+        "url": "https://open.spotify.com/album/6KfwGFnaelkfX5KDET17Bb"
       },
       "artists": [
         {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        },
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
         }
       ],
-      "duration_ms": 240456,
-      "name": "Yo Ya No Vuelvo Contigo - En Vivo",
-      "url": "https://open.spotify.com/track/1s59X35jDULAyOGmBuTAnd"
+      "duration_ms": 147053,
+      "name": "Ya Te Perd\u00ed La Fe",
+      "url": "https://open.spotify.com/track/0KHDthR0XvPoeJaqBc7Sg5"
     },
     {
       "added_at": "2026-02-27 19:49:52",
@@ -395,18 +391,22 @@
     {
       "added_at": "2026-02-27 19:49:52",
       "album": {
-        "name": "Ojos En Blanco",
-        "url": "https://open.spotify.com/album/6KfwGFnaelkfX5KDET17Bb"
+        "name": "Yo Ya No Vuelvo Contigo (En Vivo)",
+        "url": "https://open.spotify.com/album/78OOLWnOyjDZRqxZXlfNk9"
       },
       "artists": [
         {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        },
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
         }
       ],
-      "duration_ms": 147053,
-      "name": "Ya Te Perd\u00ed La Fe",
-      "url": "https://open.spotify.com/track/0KHDthR0XvPoeJaqBc7Sg5"
+      "duration_ms": 240456,
+      "name": "Yo Ya No Vuelvo Contigo - En Vivo",
+      "url": "https://open.spotify.com/track/1s59X35jDULAyOGmBuTAnd"
     },
     {
       "added_at": "2026-02-27 19:49:52",
@@ -699,22 +699,6 @@
     {
       "added_at": "2026-02-27 19:49:52",
       "album": {
-        "name": "Decide T\u00fa",
-        "url": "https://open.spotify.com/album/5lYbSy6Hf540WyiVaoN8HU"
-      },
-      "artists": [
-        {
-          "name": "Conjunto Primavera",
-          "url": "https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb"
-        }
-      ],
-      "duration_ms": 197733,
-      "name": "Adi\u00f3s Amor",
-      "url": "https://open.spotify.com/track/6KfMaLSdCCHy8DwjlMjxqu"
-    },
-    {
-      "added_at": "2026-02-27 19:49:52",
-      "album": {
         "name": "Mi Satisfacci\u00f3n",
         "url": "https://open.spotify.com/album/2uJ0YxszsHKfS14kOPmAFl"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 157760,
       "name": "Vete Ya",
       "url": "https://open.spotify.com/track/3gqgSM82j6NMAj4Jllr06T"
+    },
+    {
+      "added_at": "2026-02-27 19:49:52",
+      "album": {
+        "name": "Decide T\u00fa",
+        "url": "https://open.spotify.com/album/5lYbSy6Hf540WyiVaoN8HU"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Primavera",
+          "url": "https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb"
+        }
+      ],
+      "duration_ms": 197733,
+      "name": "Adi\u00f3s Amor",
+      "url": "https://open.spotify.com/track/6KfMaLSdCCHy8DwjlMjxqu"
     },
     {
       "added_at": "2026-02-27 19:49:52",
@@ -975,22 +975,6 @@
     {
       "added_at": "2026-02-27 19:49:52",
       "album": {
-        "name": "Volver\u00e9 a Amar",
-        "url": "https://open.spotify.com/album/6VMGPpuRXzVUb2zwZjhJ4h"
-      },
-      "artists": [
-        {
-          "name": "Valent\u00edn Elizalde",
-          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
-        }
-      ],
-      "duration_ms": 231160,
-      "name": "Volvere A Amar",
-      "url": "https://open.spotify.com/track/5QFuPzUEkWsTszwYyswsbB"
-    },
-    {
-      "added_at": "2026-02-27 19:49:52",
-      "album": {
         "name": "El Problema",
         "url": "https://open.spotify.com/album/3wZCydFnWWZhm5osBdul0s"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 207364,
       "name": "No Me Hubiera Enamorado",
       "url": "https://open.spotify.com/track/6XiSceaDaO2vaYF2B2A70t"
+    },
+    {
+      "added_at": "2026-02-27 19:49:52",
+      "album": {
+        "name": "Volver\u00e9 a Amar",
+        "url": "https://open.spotify.com/album/6VMGPpuRXzVUb2zwZjhJ4h"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "duration_ms": 231160,
+      "name": "Volvere A Amar",
+      "url": "https://open.spotify.com/track/5QFuPzUEkWsTszwYyswsbB"
     },
     {
       "added_at": "2026-02-27 19:49:52",
@@ -1999,22 +1999,6 @@
     {
       "added_at": "2026-02-27 19:49:52",
       "album": {
-        "name": "Punto Y Aparte",
-        "url": "https://open.spotify.com/album/5PEGCaUeB26YYT8jvlwqmF"
-      },
-      "artists": [
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 177949,
-      "name": "Sin Evidencias",
-      "url": "https://open.spotify.com/track/6BwlfRAsbvtTaHT3Wx5cVG"
-    },
-    {
-      "added_at": "2026-02-27 19:49:52",
-      "album": {
         "name": "Solamente T\u00fa",
         "url": "https://open.spotify.com/album/4AhiKYHqZBqVqoRHoBN5Ej"
       },
@@ -2027,6 +2011,22 @@
       "duration_ms": 186626,
       "name": "La Ley Del Desprecio",
       "url": "https://open.spotify.com/track/26hHEVYxsYzHT8LxQrg10f"
+    },
+    {
+      "added_at": "2026-02-27 19:49:52",
+      "album": {
+        "name": "Punto Y Aparte",
+        "url": "https://open.spotify.com/album/5PEGCaUeB26YYT8jvlwqmF"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 177949,
+      "name": "Sin Evidencias",
+      "url": "https://open.spotify.com/track/6BwlfRAsbvtTaHT3Wx5cVG"
     },
     {
       "added_at": "2026-02-27 19:49:52",
