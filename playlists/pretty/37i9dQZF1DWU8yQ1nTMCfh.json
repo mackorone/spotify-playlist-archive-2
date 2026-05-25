@@ -1,6 +1,6 @@
 {
   "description": "Las nuevas vibras del rock en espa\u00f1ol. Cover: Viniloversus",
-  "num_followers": 293338,
+  "num_followers": 293339,
   "original_name": "Rock Total",
   "owner": {
     "name": "Spotify",
@@ -155,6 +155,22 @@
     {
       "added_at": "2026-04-27 16:06:56",
       "album": {
+        "name": "Nuestro A\u00f1o",
+        "url": "https://open.spotify.com/album/4ZPaxmMpDiXDt9Lem847ES"
+      },
+      "artists": [
+        {
+          "name": "Los Mesoneros",
+          "url": "https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517"
+        }
+      ],
+      "duration_ms": 188695,
+      "name": "Cumplea\u00f1os",
+      "url": "https://open.spotify.com/track/6ru2l6LBrJPhJzXexTcUoH"
+    },
+    {
+      "added_at": "2026-04-27 16:06:56",
+      "album": {
         "name": "M\u00e1quina del Tiempo",
         "url": "https://open.spotify.com/album/2MyOEXK1SPgLVqkmrMGlnD"
       },
@@ -171,22 +187,6 @@
       "duration_ms": 247412,
       "name": "M\u00e1quina del Tiempo",
       "url": "https://open.spotify.com/track/4j4nMKhrAES1zlBrX6CQ8Q"
-    },
-    {
-      "added_at": "2026-04-27 16:06:56",
-      "album": {
-        "name": "Nuestro A\u00f1o",
-        "url": "https://open.spotify.com/album/4ZPaxmMpDiXDt9Lem847ES"
-      },
-      "artists": [
-        {
-          "name": "Los Mesoneros",
-          "url": "https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517"
-        }
-      ],
-      "duration_ms": 188695,
-      "name": "Cumplea\u00f1os",
-      "url": "https://open.spotify.com/track/6ru2l6LBrJPhJzXexTcUoH"
     },
     {
       "added_at": "2026-04-27 16:06:56",
@@ -679,6 +679,22 @@
     {
       "added_at": "2026-04-27 16:06:56",
       "album": {
+        "name": "Lo Mejor",
+        "url": "https://open.spotify.com/album/1eUGnfmBWoPfsNXUHQsMEL"
+      },
+      "artists": [
+        {
+          "name": "Conociendo Rusia",
+          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
+        }
+      ],
+      "duration_ms": 250696,
+      "name": "Lo Mejor",
+      "url": "https://open.spotify.com/track/5VEcvQd59L5xKySsXAbJ6h"
+    },
+    {
+      "added_at": "2026-04-27 16:06:56",
+      "album": {
         "name": "En El Aire",
         "url": "https://open.spotify.com/album/36j4M30i172PFNQSiBNfv6"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 203333,
       "name": "En El Aire",
       "url": "https://open.spotify.com/track/4OWEhp5U22R6rDBM9Y6Q4j"
-    },
-    {
-      "added_at": "2026-04-27 16:06:56",
-      "album": {
-        "name": "Lo Mejor",
-        "url": "https://open.spotify.com/album/1eUGnfmBWoPfsNXUHQsMEL"
-      },
-      "artists": [
-        {
-          "name": "Conociendo Rusia",
-          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
-        }
-      ],
-      "duration_ms": 250696,
-      "name": "Lo Mejor",
-      "url": "https://open.spotify.com/track/5VEcvQd59L5xKySsXAbJ6h"
     },
     {
       "added_at": "2026-04-27 16:06:56",
@@ -767,22 +767,6 @@
     {
       "added_at": "2026-04-27 16:06:56",
       "album": {
-        "name": "Por Si Ma\u00f1ana No Estoy",
-        "url": "https://open.spotify.com/album/5s9VvQAkDbNI5jSkXXkHS5"
-      },
-      "artists": [
-        {
-          "name": "Samura\u00ef",
-          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
-        }
-      ],
-      "duration_ms": 154509,
-      "name": "Por Si Ma\u00f1ana No Estoy",
-      "url": "https://open.spotify.com/track/5z2MwP7ajltQdy6aaq878q"
-    },
-    {
-      "added_at": "2026-04-27 16:06:56",
-      "album": {
         "name": "El Show Debe Continuar",
         "url": "https://open.spotify.com/album/2hAufwA5GwxAcZ6mQkgQai"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 164466,
       "name": "Misterio, Cigarros y Menta",
       "url": "https://open.spotify.com/track/1XeDKmPp1BUxoRk4GurxD8"
+    },
+    {
+      "added_at": "2026-04-27 16:06:56",
+      "album": {
+        "name": "Por Si Ma\u00f1ana No Estoy",
+        "url": "https://open.spotify.com/album/5s9VvQAkDbNI5jSkXXkHS5"
+      },
+      "artists": [
+        {
+          "name": "Samura\u00ef",
+          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
+        }
+      ],
+      "duration_ms": 154509,
+      "name": "Por Si Ma\u00f1ana No Estoy",
+      "url": "https://open.spotify.com/track/5z2MwP7ajltQdy6aaq878q"
     },
     {
       "added_at": "2026-04-27 16:06:56",
@@ -859,22 +859,6 @@
     {
       "added_at": "2026-04-27 16:06:56",
       "album": {
-        "name": "0%",
-        "url": "https://open.spotify.com/album/7mZ4SWBx5IMJLXqQ2Fdx6W"
-      },
-      "artists": [
-        {
-          "name": "Winona Riders",
-          "url": "https://open.spotify.com/artist/6ipac2Z0d0L6LWS7tTudcp"
-        }
-      ],
-      "duration_ms": 130114,
-      "name": "El Rock and Roll Est\u00e1 Matando Mi Rock and Roll",
-      "url": "https://open.spotify.com/track/64ZOcVsJlDloqNgApIQrzt"
-    },
-    {
-      "added_at": "2026-04-27 16:06:56",
-      "album": {
         "name": "El Puesto Es M\u00edo",
         "url": "https://open.spotify.com/album/15aynKBdm3ace4eDb6Znpz"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 178142,
       "name": "El Puesto Es M\u00edo",
       "url": "https://open.spotify.com/track/4EXV8TWancvWk4co8l97PP"
+    },
+    {
+      "added_at": "2026-04-27 16:06:56",
+      "album": {
+        "name": "0%",
+        "url": "https://open.spotify.com/album/7mZ4SWBx5IMJLXqQ2Fdx6W"
+      },
+      "artists": [
+        {
+          "name": "Winona Riders",
+          "url": "https://open.spotify.com/artist/6ipac2Z0d0L6LWS7tTudcp"
+        }
+      ],
+      "duration_ms": 130114,
+      "name": "El Rock and Roll Est\u00e1 Matando Mi Rock and Roll",
+      "url": "https://open.spotify.com/track/64ZOcVsJlDloqNgApIQrzt"
     },
     {
       "added_at": "2026-04-27 16:06:56",

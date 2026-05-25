@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBrkYMAxqIw.md) - [plain]
 | 39 | [On My Way \- Rain or Shine Remix](https://open.spotify.com/track/2z1QmtOJ2qC0XtVL8mMrf7) | [Tobtok](https://open.spotify.com/artist/6pcxIOhQCNb7DX2iuEXgxL), [Rain or Shine](https://open.spotify.com/artist/4HkboL1vsKz9DYa0EEX29g) | [On My Way \(Remixes\)](https://open.spotify.com/album/6XBNZbBJp0V0w2y9VAXR2n) | 4:00 |
 | 40 | [Body Language](https://open.spotify.com/track/2WeCFWSiGDlGHmksFpLyLs) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [Cami Bear](https://open.spotify.com/artist/3AupavhLGflK8iq0I9fhUG) | [Olympia](https://open.spotify.com/album/3r4dG6bUfL4jasKeo50kLE) | 3:44 |
 | 41 | [Let There Be Drums](https://open.spotify.com/track/2DKoCWXpQlwjJcXt0TSqUI) | [Feder](https://open.spotify.com/artist/7Kkmzdy1hw29Gs6WMUGVhe), [UPSAHL](https://open.spotify.com/artist/59cH1U6jOnP1grnuo5XKjn) | [Let There Be Drums](https://open.spotify.com/album/4RLEBlVLqIAeccrY5ewOkx) | 3:21 |
-| 42 | [Planet](https://open.spotify.com/track/1DD7BCsexlwDHYm6o6KBDo) | [OSTEKKE](https://open.spotify.com/artist/2UXpQhhV4lKrBCHezLbWoA) | [Planet](https://open.spotify.com/album/1r975QemC2LPmOoC35VjtE) | 2:12 |
-| 43 | [Midnight Special](https://open.spotify.com/track/4RTjYcyAhLmYGi0QkU56If) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [Day & Night](https://open.spotify.com/album/087SnCtQCK0szSftQ2KYTF) | 2:47 |
+| 42 | [Midnight Special](https://open.spotify.com/track/4RTjYcyAhLmYGi0QkU56If) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [Day & Night](https://open.spotify.com/album/087SnCtQCK0szSftQ2KYTF) | 2:47 |
+| 43 | [Planet](https://open.spotify.com/track/1DD7BCsexlwDHYm6o6KBDo) | [OSTEKKE](https://open.spotify.com/artist/2UXpQhhV4lKrBCHezLbWoA) | [Planet](https://open.spotify.com/album/1r975QemC2LPmOoC35VjtE) | 2:12 |
 | 44 | [Masochistic](https://open.spotify.com/track/43jcYOGtdpeEWjfiH1HP8w) | [Blithe](https://open.spotify.com/artist/604wNNLUmrAmNOSEU8GfK4) | [Masochistic](https://open.spotify.com/album/0zvq9DXtDBvBO37aazJGGZ) | 2:40 |
 | 45 | [My Birthday](https://open.spotify.com/track/4fO2KD344M4IeTiroNFH3v) | [LAVINIA](https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6), [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my) | [My Birthday](https://open.spotify.com/album/12RwDvWCBgdUztmQlP6UU1) | 2:16 |
 | 46 | [MILK](https://open.spotify.com/track/1IU4739aWb3cmWl3uoGSCG) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [BEAUTIFUL MADNESS](https://open.spotify.com/album/6T3WdeRv9rqMIlmnloB2Dv) | 3:32 |
@@ -151,4 +151,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBrkYMAxqIw.md) - [plain]
 | 141 | [Swimming Pool](https://open.spotify.com/track/5jOMjgcaamUtATeo4r8vrv) | [Hawkon](https://open.spotify.com/artist/6klAmp0IDtvZFh2HOG7FUi) | [Vulnerability1000](https://open.spotify.com/album/24SHrr3mrVT3xPP9RZqt4y) | 2:56 |
 | 142 | [Unfold](https://open.spotify.com/track/7HYeMEo9wG6GNSxupp2U6M) | [Hawkon](https://open.spotify.com/artist/6klAmp0IDtvZFh2HOG7FUi) | [Vulnerability1000](https://open.spotify.com/album/24SHrr3mrVT3xPP9RZqt4y) | 2:18 |
 
-Snapshot ID: `AcSS/AAAAAC+229gKRzHaTw32uwVA/Kt`
+Snapshot ID: `AcSYnAAAAAAA9QCBMET90Fln9RgTPtda`

@@ -1,12 +1,12 @@
 {
   "description": "This is Little Simz. The essential tracks, all in one playlist.",
-  "num_followers": 56392,
+  "num_followers": 56417,
   "original_name": "This Is Little Simz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ag+cgAAAAACmDNF3hyATu2XK2RYdTD6C",
+  "snapshot_id": "ahDuAAAAAADiQjVzAxIey73mdGT3GPTl",
   "tracks": [
     {
       "added_at": null,
@@ -623,18 +623,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don't Leave Too Soon (From the Netflix Film 'Steve')",
-        "url": "https://open.spotify.com/album/4VVroj6CaFvnbQ5fvTEmQj"
+        "name": "Paradise Now",
+        "url": "https://open.spotify.com/album/4sYJgySdNNgZxlOkog89xv"
       },
       "artists": [
+        {
+          "name": "Obongjayar",
+          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
+        },
         {
           "name": "Little Simz",
           "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
         }
       ],
-      "duration_ms": 218011,
-      "name": "Don't Leave Too Soon",
-      "url": "https://open.spotify.com/track/7HrXqBIvMg99q49IC0mLHl"
+      "duration_ms": 161010,
+      "name": "Talk Olympics",
+      "url": "https://open.spotify.com/track/04ncMwTyse8X37iIUT4na1"
     },
     {
       "added_at": null,
@@ -655,22 +659,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Paradise Now",
-        "url": "https://open.spotify.com/album/4sYJgySdNNgZxlOkog89xv"
+        "name": "Don't Leave Too Soon (From the Netflix Film 'Steve')",
+        "url": "https://open.spotify.com/album/4VVroj6CaFvnbQ5fvTEmQj"
       },
       "artists": [
-        {
-          "name": "Obongjayar",
-          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
-        },
         {
           "name": "Little Simz",
           "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
         }
       ],
-      "duration_ms": 161010,
-      "name": "Talk Olympics",
-      "url": "https://open.spotify.com/track/04ncMwTyse8X37iIUT4na1"
+      "duration_ms": 218011,
+      "name": "Don't Leave Too Soon",
+      "url": "https://open.spotify.com/track/7HrXqBIvMg99q49IC0mLHl"
     },
     {
       "added_at": null,

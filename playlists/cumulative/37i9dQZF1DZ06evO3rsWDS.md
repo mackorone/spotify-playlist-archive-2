@@ -4,7 +4,7 @@
 
 > This is Chiquis\. The essential tracks, all in one playlist.
 
-110 songs - 5 hr 21 min
+111 songs - 5 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Entre Besos Y Copas](https://open.spotify.com/track/0PcWZ9IaLl1CARhX1KFmQB) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Abeja Reina](https://open.spotify.com/album/1iwNDBPZyNFQ04gl7GcmXQ) | 3:10 | 2023-03-10 |  |
 | [Entre Botellas](https://open.spotify.com/track/08XuJbkDmwrgLdIvZVdPK7) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Entre Botellas](https://open.spotify.com/album/4zUCCBkGr4pRXAlFYtObH2) | 3:26 | 2023-03-10 | 2025-03-25 |
 | [Entre Botellas](https://open.spotify.com/track/30UKdyPaiSVi6IJGO9ZCFv) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Entre Botellas](https://open.spotify.com/album/0bSkp1TVdU6PDkbm3BkJrE) | 3:26 | 2025-03-30 |  |
-| [eres MÁS](https://open.spotify.com/track/0ECpWS4JhjTDrprNhBkJuN) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Janney](https://open.spotify.com/album/25X59yD47dtzAAq6bzXliA) | 2:23 | 2026-05-14 |  |
+| [eres MÁS](https://open.spotify.com/track/0ECpWS4JhjTDrprNhBkJuN) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Janney](https://open.spotify.com/album/25X59yD47dtzAAq6bzXliA) | 2:23 | 2026-05-14 | 2026-05-25 |
 | [eres MÁS](https://open.spotify.com/track/5uZfq4zuU3Z12Szm7iLjMM) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [eres MÁS](https://open.spotify.com/album/3PtZ39Y1LiftVTJdouRP0Y) | 2:23 | 2026-03-09 | 2026-05-14 |
 | [Esa No Soy Yo](https://open.spotify.com/track/0KP6ZRIx0ncKnzlm44S1s0) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Ahora](https://open.spotify.com/album/2BqNXoveCYfp7c6DJLSUEO) | 3:49 | 2023-03-10 |  |
 | [ESPÍRITU](https://open.spotify.com/track/3CJE62BhA4pHqwwr9UIOX7) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Janney](https://open.spotify.com/album/25X59yD47dtzAAq6bzXliA) | 3:03 | 2026-05-03 |  |
@@ -72,7 +72,7 @@
 | [Lo Que No Sirve, Estorba](https://open.spotify.com/track/5kDmZruM2jWU1A8A0o1EmN) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk), [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Lo Que No Sirve, Estorba](https://open.spotify.com/album/0I9nIeCH2dJVy8gEthtJ2t) | 2:36 | 2023-11-10 |  |
 | [Los Chismes](https://open.spotify.com/track/35Yl1bQCfcWPoTR8BlKgwP) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS), [Lorenzo Mendez](https://open.spotify.com/artist/4ZfUIdc5Zm3N4E05eRSGac) | [Entre Botellas](https://open.spotify.com/album/4zUCCBkGr4pRXAlFYtObH2) | 2:46 | 2023-03-10 | 2025-03-16 |
 | [Los Chismes](https://open.spotify.com/track/4pyIINpbOWfEmZi98NXFHL) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS), [Lorenzo Mendez](https://open.spotify.com/artist/4ZfUIdc5Zm3N4E05eRSGac) | [Entre Botellas](https://open.spotify.com/album/0bSkp1TVdU6PDkbm3BkJrE) | 2:46 | 2025-06-26 | 2026-05-03 |
-| [Madre Tierra \(Interlude\)](https://open.spotify.com/track/4S99EA8o3QqzBGz7bPYJIT) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Flores En Mi Alma](https://open.spotify.com/album/78FipvhVCwsoUaTxu95Umd) | 0:46 | 2025-11-10 |  |
+| [Madre Tierra \(Interlude\)](https://open.spotify.com/track/4S99EA8o3QqzBGz7bPYJIT) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Flores En Mi Alma](https://open.spotify.com/album/78FipvhVCwsoUaTxu95Umd) | 0:46 | 2025-11-10 | 2026-05-25 |
 | [MALIBU](https://open.spotify.com/track/4fPXanSrPMbboicrHPzV0M) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS), [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Janney](https://open.spotify.com/album/25X59yD47dtzAAq6bzXliA) | 2:34 | 2026-05-03 |  |
 | [Me Mocho Un Huevo](https://open.spotify.com/track/0YIropGYKGLj4e864f9aPG) | [Uziel Payan](https://open.spotify.com/artist/1mUJ5FdyqTx1UewE6z6imQ), [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Me Mocho Un Huevo](https://open.spotify.com/album/5ft1SODMyfZ15pYmC2QwwH) | 2:16 | 2023-03-10 |  |
 | [Me Mocho Un Huevo](https://open.spotify.com/track/5ouwNpBJ9mhWPr5zJRDA4U) | [Uziel Payan](https://open.spotify.com/artist/1mUJ5FdyqTx1UewE6z6imQ), [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Porque Puedo](https://open.spotify.com/album/4MDYcn4PWPszWkqAqeRfVs) | 2:16 | 2024-01-23 | 2025-11-09 |
@@ -88,7 +88,7 @@
 | [No Te Quiero Quemar](https://open.spotify.com/track/6CpJeEDXJGxiCBmmjMN59K) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Diamantes](https://open.spotify.com/album/6gcSXc3n22hPhaBI94F9Ap) | 2:36 | 2024-06-04 |  |
 | [Ovarios \(feat\. Chiquis Rivera\)](https://open.spotify.com/track/044OsAv6c6UqIlIZzw687O) | [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R), [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Homenaje a la Gran Señora](https://open.spotify.com/album/1c0G1Sx9WCmjEc2a49tFEr) | 3:23 | 2023-03-10 | 2026-03-25 |
 | [Ovarios \- En Vivo](https://open.spotify.com/track/0HWGGvNTBFFljHmwUlW48V) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Chiquis En Vivo Desde Lunario Ciudad De México \(Long Play\)](https://open.spotify.com/album/5Ftz4UjvqorULRKoDh8QNf) | 2:26 | 2023-09-15 | 2024-04-29 |
-| [PA' MI GENTE](https://open.spotify.com/track/2h9OZbgUVBaeHfUNOlkPa1) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [PA' MI GENTE](https://open.spotify.com/album/1HX8Su85pSlP9o26NkLgPQ) | 2:53 | 2025-09-21 |  |
+| [PA' MI GENTE](https://open.spotify.com/track/2h9OZbgUVBaeHfUNOlkPa1) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [PA' MI GENTE](https://open.spotify.com/album/1HX8Su85pSlP9o26NkLgPQ) | 2:53 | 2025-09-21 | 2026-05-25 |
 | [PA' TI](https://open.spotify.com/track/6lNB1znrjo8OtapJeUH1tS) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [CHIQUIS \- BEE SIDE](https://open.spotify.com/album/4HFQEBKPajKOqug9XxW4P4) | 3:10 | 2023-12-16 | 2024-04-25 |
 | [Paloma Blanca](https://open.spotify.com/track/4e2IC3gZ9KHtxrRee7XLk0) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Paloma Blanca](https://open.spotify.com/album/5VovoV6VIKIAo5Ztn3sQPy) | 3:50 | 2024-11-19 |  |
 | [PALOMA BLANCA](https://open.spotify.com/track/0qTmcxa3HhdKEH0wftscnQ) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS), [Mariachi Divas de Cindy Shea](https://open.spotify.com/artist/3D5AzlMCW0gCYlNvFANoEd) | [Paloma Blanca](https://open.spotify.com/album/7jGwTVjD5GOy8cUQqhJpsI) | 3:53 | 2023-03-10 | 2024-11-19 |
@@ -116,7 +116,8 @@
 | [Vas a Volver](https://open.spotify.com/track/5OLsBXFgKC8VUAdrpL1Uta) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Entre Botellas](https://open.spotify.com/album/0bSkp1TVdU6PDkbm3BkJrE) | 3:03 | 2025-03-28 |  |
 | [Vas a Volver](https://open.spotify.com/track/7bPmWk7RrBvfHiuuiWGxLF) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Entre Botellas](https://open.spotify.com/album/4zUCCBkGr4pRXAlFYtObH2) | 3:03 | 2023-03-10 | 2025-03-28 |
 | [Volveré Junto A Ti](https://open.spotify.com/track/6xtzNh0lnXsdVBOIC5ZR2w) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS), [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO), [LP Norteño](https://open.spotify.com/artist/7k3P0gw7SZwWZ718CsDpy5) | [Volveré Junto A Ti](https://open.spotify.com/album/57nBKpVmThXdHnT0r7ZbJq) | 3:49 | 2024-06-03 | 2024-06-04 |
-| [VOLVÍ](https://open.spotify.com/track/5HCOVIFYzLi5kMxoWVIyV3) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [VOLVÍ](https://open.spotify.com/album/4ZCC095ls57ZsnyHrq0OGo) | 3:01 | 2026-02-11 |  |
+| [VOLVÍ](https://open.spotify.com/track/4S9RFiqENaM8MRujubMMmw) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Janney](https://open.spotify.com/album/25X59yD47dtzAAq6bzXliA) | 2:50 | 2026-05-25 |  |
+| [VOLVÍ](https://open.spotify.com/track/5HCOVIFYzLi5kMxoWVIyV3) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [VOLVÍ](https://open.spotify.com/album/4ZCC095ls57ZsnyHrq0OGo) | 3:01 | 2026-02-11 | 2026-05-25 |
 | [Ya Lo Sé \- En Vivo](https://open.spotify.com/track/3gZK6bikZYLziuC4nSzTt6) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Chiquis En Vivo Desde Lunario Ciudad De México \(Long Play\)](https://open.spotify.com/album/5Ftz4UjvqorULRKoDh8QNf) | 2:08 | 2023-09-15 | 2024-02-13 |
 
 \*This playlist was first scraped on 2023-03-11. Prior content cannot be recovered.

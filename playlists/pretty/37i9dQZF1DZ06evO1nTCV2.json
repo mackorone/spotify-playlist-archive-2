@@ -1,12 +1,12 @@
 {
   "description": "This is Ryan Adams. The essential tracks, all in one playlist.",
-  "num_followers": 45241,
+  "num_followers": 45248,
   "original_name": "This Is Ryan Adams",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ag+cgAAAAACYXWU3f2qf3XaQsUuw6eSO",
+  "snapshot_id": "ahDuAAAAAAAt48I61MOT1hg63HAgXZGD",
   "tracks": [
     {
       "added_at": null,
@@ -495,22 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love Is Hell",
-        "url": "https://open.spotify.com/album/7hUvCVVeWk0mXkqcl0Hhs2"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 233653,
-      "name": "This House Is Not For Sale",
-      "url": "https://open.spotify.com/track/67ftTHCuUcUt5DlNO3dUQR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Prisoner",
         "url": "https://open.spotify.com/album/4jldY4eFDSoZua0KBCp6KH"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 181840,
       "name": "Doomsday",
       "url": "https://open.spotify.com/track/70PPbwGrPBpQ1hRBuuSirh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love Is Hell",
+        "url": "https://open.spotify.com/album/7hUvCVVeWk0mXkqcl0Hhs2"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 233653,
+      "name": "This House Is Not For Sale",
+      "url": "https://open.spotify.com/track/67ftTHCuUcUt5DlNO3dUQR"
     },
     {
       "added_at": null,
@@ -607,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heartbreaker",
-        "url": "https://open.spotify.com/album/7hmZCaBzp6mVrelxW6Ckrn"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 226036,
-      "name": "Amy",
-      "url": "https://open.spotify.com/track/7qzqcfLHBAUherRXgW4Ul7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Let It Ride",
         "url": "https://open.spotify.com/album/0MnbUy15v2y5Mqmbx8bsui"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 203386,
       "name": "Let It Ride - Single Version",
       "url": "https://open.spotify.com/track/5KNEBv1HzJnufcfWpsihN1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Heartbreaker",
+        "url": "https://open.spotify.com/album/7hmZCaBzp6mVrelxW6Ckrn"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 226036,
+      "name": "Amy",
+      "url": "https://open.spotify.com/track/7qzqcfLHBAUherRXgW4Ul7"
     },
     {
       "added_at": null,
@@ -751,22 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sword & Stone",
-        "url": "https://open.spotify.com/album/2wg4Zk8xRMeL5dlAe3wFOQ"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 169573,
-      "name": "Memory Lane",
-      "url": "https://open.spotify.com/track/1V6ga9vfsrjQ0WZTGjDSJo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Demolition",
         "url": "https://open.spotify.com/album/748GLnbrpsibJyQ5HvxV8q"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 190213,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/35IXhsIR2ZgELZABz7iRVr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sword & Stone",
+        "url": "https://open.spotify.com/album/2wg4Zk8xRMeL5dlAe3wFOQ"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 169573,
+      "name": "Memory Lane",
+      "url": "https://open.spotify.com/track/1V6ga9vfsrjQ0WZTGjDSJo"
     },
     {
       "added_at": null,

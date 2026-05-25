@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4EQPjP9ZpS.md) - [plain]
 
 > get lost in the  a e s t h e t i c
 
-[Spotify](https://open.spotify.com/user/spotify) - 343,898 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 343,949 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4EQPjP9ZpS.md) - [plain]
 | 55 | [Edenic Green Plus](https://open.spotify.com/track/3VdhA2Yzb5p1cSBri10ctZ) | [Windows 96](https://open.spotify.com/artist/65XcfOOaVxbZnNlz40DK7i), [Gavriel](https://open.spotify.com/artist/53wGx0J5eu3GdlChMeO8RJ) | [Empty Hiding World](https://open.spotify.com/album/7B9eJo7vRYl1ztGxTOeK4R) | 4:01 |
 | 56 | [Eye](https://open.spotify.com/track/64Uh9G7MJJyandktDmi4yF) | [Diskette Park](https://open.spotify.com/artist/38QTsq211pe13W6jO5nSic) | [Dark Bandwidth](https://open.spotify.com/album/47Qp7b3d1Md61MyFIo8yAj) | 3:37 |
 | 57 | [Nature](https://open.spotify.com/track/2GcSVKKKIgnFhXF0t6Cvc9) | [US Golf 95](https://open.spotify.com/artist/5CnHY3fEGCye9RQH7gVvox) | [Swing Tournament](https://open.spotify.com/album/0V64Z07UBDgp8RkDgfMIiC) | 2:52 |
-| 58 | [Entrust](https://open.spotify.com/track/0hjuajTmKw9mRhdVmP2h6R) | [NNTYTUU](https://open.spotify.com/artist/1DbJR3WnrE6zQ5XIuLx8mD) | [Dusty Shelves](https://open.spotify.com/album/2QK8zPoWilHGHS0nmqWuKf) | 2:36 |
-| 59 | [143](https://open.spotify.com/track/7xOdYxWVzHiQjicqxmiEQt) | [FrankJavCee](https://open.spotify.com/artist/3nHKeOa45XrUplL3NiGy7E) | [143](https://open.spotify.com/album/6W5Kx3irgVH36Jnzj66BPN) | 1:43 |
+| 58 | [143](https://open.spotify.com/track/7xOdYxWVzHiQjicqxmiEQt) | [FrankJavCee](https://open.spotify.com/artist/3nHKeOa45XrUplL3NiGy7E) | [143](https://open.spotify.com/album/6W5Kx3irgVH36Jnzj66BPN) | 1:43 |
+| 59 | [Entrust](https://open.spotify.com/track/0hjuajTmKw9mRhdVmP2h6R) | [NNTYTUU](https://open.spotify.com/artist/1DbJR3WnrE6zQ5XIuLx8mD) | [Dusty Shelves](https://open.spotify.com/album/2QK8zPoWilHGHS0nmqWuKf) | 2:36 |
 | 60 | [天使](https://open.spotify.com/track/4o9Qipr1uiFWiFytOCMECs) | [KyonPalm](https://open.spotify.com/artist/6D3vHFavzQh17AAnG4yLwt) | [ＣＹＢＥＲＩＡ](https://open.spotify.com/album/5Jh6Ky9eAwdixbs2BSANWa) | 3:47 |
 | 61 | [Arms of Mine](https://open.spotify.com/track/53QNhk9jqnhowWjzb5cMmR) | [Le Cassette](https://open.spotify.com/artist/10245Q9NZEdn6i5Rzs9zkJ) | [Left to Our Own Devices](https://open.spotify.com/album/1y8vLhvcsBHmFcNB57IZyy) | 6:56 |
 | 62 | [Melatonin High \- Rework 2021](https://open.spotify.com/track/05NcFvbmsIEHSSiu0YN8HU) | [Dan Mason ダン·メイソン](https://open.spotify.com/artist/7ustec6RrECyewmYxf4cIa) | [Melatonin High \(Rework 2021\)](https://open.spotify.com/album/2sXLqJZI9hraRNOdAYBtdK) | 4:40 |
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4EQPjP9ZpS.md) - [plain]
 | 77 | [Ricochet](https://open.spotify.com/track/4o6bBmo3q1JCZtKEUhwXsX) | [A.L.I.S.O.N](https://open.spotify.com/artist/3gi5McAv9c0qTjJ5jSmbL0), [Hotel Pools](https://open.spotify.com/artist/5bQ1u5yLlL2WZv49doSgRz) | [Ultrasound](https://open.spotify.com/album/0GGvrCnvLk60XskHMF3Wqt) | 3:51 |
 | 78 | [Private Eyes](https://open.spotify.com/track/7fZY8y8RwAYpdDCsF4ELJm) | [18 Carat Affair](https://open.spotify.com/artist/0va8U409dr4gA1zQ2gSnD5) | [Body Double](https://open.spotify.com/album/4Jp57xuKXR8Q2WiZtXLiHJ) | 1:31 |
 | 79 | [Cry Again](https://open.spotify.com/track/5LfYC98Zc9hsPTPzz9gltB) | [Windows 96](https://open.spotify.com/artist/65XcfOOaVxbZnNlz40DK7i), [Gavriel](https://open.spotify.com/artist/53wGx0J5eu3GdlChMeO8RJ) | [Cry Again](https://open.spotify.com/album/1AnstNZSetOGm24TQA5GHB) | 3:02 |
-| 80 | [You Got The Groove \- slow + reverbed](https://open.spotify.com/track/0JPiPZT6Nj1WFv5Tq7Ec2w) | [FrankJavCee](https://open.spotify.com/artist/3nHKeOa45XrUplL3NiGy7E) | [You Got The Groove](https://open.spotify.com/album/61mCAP8vGPcJUFD3PHWjmI) | 3:57 |
-| 81 | [Island](https://open.spotify.com/track/4CwByRtQjwkrnOjWNINV0z) | [luxury elite](https://open.spotify.com/artist/28516pIwBLUO62yBiLAfdI) | [With Love](https://open.spotify.com/album/0LOSJF9SLsu9UPamEbfkpj) | 1:46 |
+| 80 | [Island](https://open.spotify.com/track/4CwByRtQjwkrnOjWNINV0z) | [luxury elite](https://open.spotify.com/artist/28516pIwBLUO62yBiLAfdI) | [With Love](https://open.spotify.com/album/0LOSJF9SLsu9UPamEbfkpj) | 1:46 |
+| 81 | [You Got The Groove \- slow + reverbed](https://open.spotify.com/track/0JPiPZT6Nj1WFv5Tq7Ec2w) | [FrankJavCee](https://open.spotify.com/artist/3nHKeOa45XrUplL3NiGy7E) | [You Got The Groove](https://open.spotify.com/album/61mCAP8vGPcJUFD3PHWjmI) | 3:57 |
 | 82 | [Glass Mind](https://open.spotify.com/track/7rTxLYlqDyXRtz6wpx9zc8) | [ev.exi](https://open.spotify.com/artist/625cTtpQZkHRwLwEtpVbA1), [Lavera](https://open.spotify.com/artist/0kmuxSLDnKLPAqs6DuhegB) | [Glass Mind](https://open.spotify.com/album/6n5SPV0pPiloTwXXn3I0ez) | 3:39 |
 | 83 | [Surfer Girl](https://open.spotify.com/track/5J3WFolhy4FRjlpsGtBkC1) | [Persona La Ave](https://open.spotify.com/artist/2aE6UqkdSKchA6BgQXEwkj) | [Surfer Girl](https://open.spotify.com/album/0LMhX8TFMKhbiXCi1FGNnj) | 6:15 |
 | 84 | [Monogon](https://open.spotify.com/track/60r9DrLtGACy95pTVVLw2a) | [Vaporwave Club](https://open.spotify.com/artist/3hNjVPQVt9yTum1hDWyjwx) | [Polygon Paradise](https://open.spotify.com/album/2nsz0P9PDU6iYEMY1EPuK5) | 2:20 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4EQPjP9ZpS.md) - [plain]
 | 95 | [Tomorrow \(Slowed & Reverb\)](https://open.spotify.com/track/5f4JemFGhXM4755zhVElIi) | [Kyo\-2](https://open.spotify.com/artist/4eC4Y8j9lLRk0YcnDHH5cE), [Macintosh Plus](https://open.spotify.com/artist/2hkoUqWFI4KP39O9MViMY3), [Saint Pepsi](https://open.spotify.com/artist/3b014NFgLGBMV2q0sGyFQM), [Benny Alexander](https://open.spotify.com/artist/3sEoVGHwnRpTQGOicq6iJH) | [Tomorrow \(Slowed & Reverb\)](https://open.spotify.com/album/3jUuevbHg51FltoeAjJ7bi) | 3:34 |
 | 96 | [Stunts](https://open.spotify.com/track/5fgZv37iE8pDNOcmQRvhFL) | [Teams](https://open.spotify.com/artist/6Ju8rLVGq0MMt0NaXyfLJJ) | [Dxys Xff](https://open.spotify.com/album/2iamNHiA06vFxbTk1mgc1d) | 5:26 |
 | 97 | [Fantasy](https://open.spotify.com/track/0R6sHfthUWXUwzPjhrV39z) | [Lost Traveler ロスト](https://open.spotify.com/artist/0zUh7z3wJlLWbWFoyrdOxD) | [Twin Elegance](https://open.spotify.com/album/4fIFny0pMaHkfMfwi4t21t) | 2:55 |
-| 98 | [Playback](https://open.spotify.com/track/2uAB95gzNi0AWQEyLER6gS) | [</body>](https://open.spotify.com/artist/0CY2m8Yk4gWG8khmIgijN6) | [Information Superhighway](https://open.spotify.com/album/5GPnde7XQQybkkIak1xma4) | 1:47 |
-| 99 | [Spring Water](https://open.spotify.com/track/1ulOpZGsWSZcaBQd1diOj8) | [AURAGRAPH](https://open.spotify.com/artist/6yR7RysQJaTayvmT0Bx8zt) | [Tropics 1](https://open.spotify.com/album/1B0OTswqyimuHF5OEI4uyO) | 3:35 |
+| 98 | [Spring Water](https://open.spotify.com/track/1ulOpZGsWSZcaBQd1diOj8) | [AURAGRAPH](https://open.spotify.com/artist/6yR7RysQJaTayvmT0Bx8zt) | [Tropics 1](https://open.spotify.com/album/1B0OTswqyimuHF5OEI4uyO) | 3:35 |
+| 99 | [Playback](https://open.spotify.com/track/2uAB95gzNi0AWQEyLER6gS) | [</body>](https://open.spotify.com/artist/0CY2m8Yk4gWG8khmIgijN6) | [Information Superhighway](https://open.spotify.com/album/5GPnde7XQQybkkIak1xma4) | 1:47 |
 | 100 | [Vcrheadaches \- Purge](https://open.spotify.com/track/1Lsl4apcwmBn1S7NuQAkbT) | [King Quartz](https://open.spotify.com/artist/0Dpp9Ra8Tizj3iolElqGri), [VCRheadaches](https://open.spotify.com/artist/2AgYofn08I5PnbylI4mQUI) | [The 33rd Split](https://open.spotify.com/album/2KngsHRVaIQVVTiKiFClbn) | 4:20 |
 
 Snapshot ID: `AAAAACd5bsDncuj7hP9d+aehWbTvCnq4`

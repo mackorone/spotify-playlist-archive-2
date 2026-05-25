@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan talenta baru musik Indonesia pilihan editor yang patut kamu simak\. Cover: Casté
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,451 likes - 29 songs - 1 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,453 likes - 29 songs - 1 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

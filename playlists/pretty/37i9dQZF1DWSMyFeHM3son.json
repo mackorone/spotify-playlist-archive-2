@@ -1,6 +1,6 @@
 {
   "description": "you look so cool. Cover: The 1975",
-  "num_followers": 171489,
+  "num_followers": 171497,
   "original_name": "reblog",
   "owner": {
     "name": "Spotify",
@@ -303,22 +303,6 @@
     {
       "added_at": "2025-06-23 15:40:57",
       "album": {
-        "name": "Novacane",
-        "url": "https://open.spotify.com/album/3RYdEXhGHojkTILUdtnRVJ"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "duration_ms": 302346,
-      "name": "Novacane",
-      "url": "https://open.spotify.com/track/4osgfFTICMkcGbbigdsa53"
-    },
-    {
-      "added_at": "2025-06-23 15:40:57",
-      "album": {
         "name": "FOUR (Deluxe)",
         "url": "https://open.spotify.com/album/4gCNyS7pidfK3rKWhB3JOY"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 228138,
       "name": "Steal My Girl",
       "url": "https://open.spotify.com/track/2Bs4jQEGMycglOfWPBqrVG"
+    },
+    {
+      "added_at": "2025-06-23 15:40:57",
+      "album": {
+        "name": "Novacane",
+        "url": "https://open.spotify.com/album/3RYdEXhGHojkTILUdtnRVJ"
+      },
+      "artists": [
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        }
+      ],
+      "duration_ms": 302346,
+      "name": "Novacane",
+      "url": "https://open.spotify.com/track/4osgfFTICMkcGbbigdsa53"
     },
     {
       "added_at": "2025-06-23 15:40:57",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2025-06-23 15:40:57",
       "album": {
-        "name": "American Beauty/American Psycho",
-        "url": "https://open.spotify.com/album/022DrG7Wp2PSCwzuD0bSzT"
-      },
-      "artists": [
-        {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
-        }
-      ],
-      "duration_ms": 211573,
-      "name": "Uma Thurman",
-      "url": "https://open.spotify.com/track/5PUawWFG1oIS2NwEcyHaCr"
-    },
-    {
-      "added_at": "2025-06-23 15:40:57",
-      "album": {
         "name": "My Type EP",
         "url": "https://open.spotify.com/album/2r69WsAMyjbgLf8c4woaUr"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 204811,
       "name": "My Type",
       "url": "https://open.spotify.com/track/2Iq6HhIquO7JKr0KfTNLzU"
+    },
+    {
+      "added_at": "2025-06-23 15:40:57",
+      "album": {
+        "name": "American Beauty/American Psycho",
+        "url": "https://open.spotify.com/album/022DrG7Wp2PSCwzuD0bSzT"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "duration_ms": 211573,
+      "name": "Uma Thurman",
+      "url": "https://open.spotify.com/track/5PUawWFG1oIS2NwEcyHaCr"
     },
     {
       "added_at": "2025-06-23 15:40:57",

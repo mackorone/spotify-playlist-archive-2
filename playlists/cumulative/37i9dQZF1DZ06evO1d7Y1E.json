@@ -2223,6 +2223,36 @@
     },
     {
       "album": {
+        "name": "Pacman de Panicat",
+        "url": "https://open.spotify.com/album/7C0YBv6bvhfQpItU7Pfqoj"
+      },
+      "artists": [
+        {
+          "name": "DJ Japa NK",
+          "url": "https://open.spotify.com/artist/1bpnl8qbR9GxmiNlkEufW6"
+        },
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "Mc Rodrigo do CN",
+          "url": "https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC"
+        }
+      ],
+      "date_added": "2026-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251539,
+      "name": "Pacman de Panicat",
+      "url": "https://open.spotify.com/track/4cH7c8Zox7sBysrSnjzdXr"
+    },
+    {
+      "album": {
         "name": "O S\u00e1bio",
         "url": "https://open.spotify.com/album/6aONODz5AYfzrNESWC9n4W"
       },
@@ -3008,7 +3038,7 @@
       ],
       "date_added": "2025-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-25",
       "duration_ms": 246153,
       "name": "Toma Jack",
       "url": "https://open.spotify.com/track/3UsIef0hR8Hroi9tw9Zoef"

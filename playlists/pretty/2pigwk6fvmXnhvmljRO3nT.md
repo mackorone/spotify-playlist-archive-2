@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,442 songs - 21 day 12 hr 20 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,444 songs - 21 day 12 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -8450,5 +8450,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 8440 | [恋愛裁判 \(feat\. 花里みのり&桃井愛莉&初音ミク\)](https://open.spotify.com/track/59y5HeIYw7yU6BdKzjrZzX) | [MORE MORE JUMP!](https://open.spotify.com/artist/1yorjq7rihYVC8Se7eRKps) | [MORE MORE JUMP！ SEKAI ALBUM Vol.1](https://open.spotify.com/album/00fT0wiS5WgGx9Q8O3koaz) | 3:42 |
 | 8441 | [恋愛裁判](https://open.spotify.com/track/22TCGj2RUe9GuXmufUYA4U) | [花里みのり](https://open.spotify.com/artist/0PNaamnT0FCz53QxNeDQVo) | [プロジェクトセカイ カラフルステージ！ feat\. 初音ミク アナザーボーカルアルバム MORE MORE JUMP！](https://open.spotify.com/album/3AAX5Rt3xYCnOEvQiIdJgi) | 3:42 |
 | 8442 | [Sparkle \- Original Version](https://open.spotify.com/track/1HNvADmPBGAExeyIHkcJtd) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [Human Bloom](https://open.spotify.com/album/5TZ0bVy0tqIriXse4qk1HY) | 6:50 |
+| 8443 | [フローズン](https://open.spotify.com/track/6t5sxWjiUbIRQQL9QxwbsV) | [TRUE](https://open.spotify.com/artist/0UwVT0iMLLAa9SUNENg4te) | [TRUE the BEST](https://open.spotify.com/album/6lLjLTD2mRzNzXaiJTHDwW) | 3:29 |
+| 8444 | [Unwelcome School](https://open.spotify.com/track/2Qc23ytxTlv8Db3mAP8SSw) | [Mitsukiyo](https://open.spotify.com/artist/0cdpFI2dZC34peIkjI1rLs) | [Blue Archive 3rd Anniversary \(Original Soundtrack\)](https://open.spotify.com/album/2IoxB3yDVX8syf1cOHqxcu) | 2:00 |
 
-Snapshot ID: `AAAL2CmQrgQnWMvrPB2zUmLh+MBZqgZE`
+Snapshot ID: `AAAL2sc7YkvTaeXgxua0Qlsp3v/4kRVU`

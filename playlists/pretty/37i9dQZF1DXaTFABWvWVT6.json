@@ -1,6 +1,6 @@
 {
   "description": "Bring the festival vibes to wherever you are with these dance bangers. ",
-  "num_followers": 88105,
+  "num_followers": 88138,
   "original_name": "The Dance Tent",
   "owner": {
     "name": "Spotify",
@@ -675,6 +675,22 @@
     {
       "added_at": "2026-05-22 08:51:31",
       "album": {
+        "name": "Starry Night",
+        "url": "https://open.spotify.com/album/0bYW9weJ7SXRaBFbWuBQeI"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "duration_ms": 233978,
+      "name": "Starry Night - Edit",
+      "url": "https://open.spotify.com/track/6FwPQVdtjwfORrrFkpGhrz"
+    },
+    {
+      "added_at": "2026-05-22 08:51:31",
+      "album": {
         "name": "Freaky 1",
         "url": "https://open.spotify.com/album/2iI0aQO2hrnBmMDIUvrLJS"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 232093,
       "name": "Freaky 1",
       "url": "https://open.spotify.com/track/5cefCIhgIJgsG3r3LcRmwB"
-    },
-    {
-      "added_at": "2026-05-22 08:51:31",
-      "album": {
-        "name": "Starry Night",
-        "url": "https://open.spotify.com/album/0bYW9weJ7SXRaBFbWuBQeI"
-      },
-      "artists": [
-        {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
-        }
-      ],
-      "duration_ms": 233978,
-      "name": "Starry Night - Edit",
-      "url": "https://open.spotify.com/track/6FwPQVdtjwfORrrFkpGhrz"
     },
     {
       "added_at": "2026-05-22 08:51:31",
@@ -943,26 +943,6 @@
     {
       "added_at": "2026-05-22 08:51:31",
       "album": {
-        "name": "My Humps",
-        "url": "https://open.spotify.com/album/4mnGRL7lErjyRJsoCwgJT4"
-      },
-      "artists": [
-        {
-          "name": "Joshwa",
-          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
-        },
-        {
-          "name": "Lee Foss",
-          "url": "https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip"
-        }
-      ],
-      "duration_ms": 186124,
-      "name": "My Humps",
-      "url": "https://open.spotify.com/track/3BbD2sqk7P7Rc9V0KF9o4s"
-    },
-    {
-      "added_at": "2026-05-22 08:51:31",
-      "album": {
         "name": "Leave A Message (feat. Poppy Wright & Trick Shady)",
         "url": "https://open.spotify.com/album/2wyxDi2v4RwUsJifLQx75r"
       },
@@ -983,6 +963,26 @@
       "duration_ms": 187965,
       "name": "Leave A Message (feat. Poppy Wright & Trick Shady)",
       "url": "https://open.spotify.com/track/6pMfUwTWJfhnqfjW020rNH"
+    },
+    {
+      "added_at": "2026-05-22 08:51:31",
+      "album": {
+        "name": "My Humps",
+        "url": "https://open.spotify.com/album/4mnGRL7lErjyRJsoCwgJT4"
+      },
+      "artists": [
+        {
+          "name": "Joshwa",
+          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
+        },
+        {
+          "name": "Lee Foss",
+          "url": "https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip"
+        }
+      ],
+      "duration_ms": 186124,
+      "name": "My Humps",
+      "url": "https://open.spotify.com/track/3BbD2sqk7P7Rc9V0KF9o4s"
     },
     {
       "added_at": "2026-05-22 08:51:31",
@@ -1135,54 +1135,6 @@
     {
       "added_at": "2026-05-22 08:51:31",
       "album": {
-        "name": "Groove Thang",
-        "url": "https://open.spotify.com/album/1PPPSHY19tixIaMCbDJihZ"
-      },
-      "artists": [
-        {
-          "name": "Ewan McVicar",
-          "url": "https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH"
-        }
-      ],
-      "duration_ms": 220360,
-      "name": "Groove Thang",
-      "url": "https://open.spotify.com/track/6pyjUNNPUAHqRkvD0ZEDFz"
-    },
-    {
-      "added_at": "2026-05-22 08:51:31",
-      "album": {
-        "name": "Better",
-        "url": "https://open.spotify.com/album/06YNty6N97umwjZFABQnvn"
-      },
-      "artists": [
-        {
-          "name": "Baauer",
-          "url": "https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv"
-        }
-      ],
-      "duration_ms": 230465,
-      "name": "Better",
-      "url": "https://open.spotify.com/track/28Fhf4E24Y4iZqQ09nOUJx"
-    },
-    {
-      "added_at": "2026-05-22 08:51:31",
-      "album": {
-        "name": "Suddenly",
-        "url": "https://open.spotify.com/album/34iY3hgyKCn1EJe6YVNFro"
-      },
-      "artists": [
-        {
-          "name": "Caribou",
-          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
-        }
-      ],
-      "duration_ms": 305480,
-      "name": "Never Come Back",
-      "url": "https://open.spotify.com/track/0Ej6OBBtMvhjaJvtt1vtUt"
-    },
-    {
-      "added_at": "2026-05-22 08:51:31",
-      "album": {
         "name": "I Need U (feat. Ellie Maxwell)",
         "url": "https://open.spotify.com/album/6UClC9nN6aQddmQ3dRKyPS"
       },
@@ -1203,6 +1155,54 @@
       "duration_ms": 176645,
       "name": "I Need U (feat. Ellie Maxwell)",
       "url": "https://open.spotify.com/track/1qCF9etZgBLbaNQlgkXFZf"
+    },
+    {
+      "added_at": "2026-05-22 08:51:31",
+      "album": {
+        "name": "Groove Thang",
+        "url": "https://open.spotify.com/album/1PPPSHY19tixIaMCbDJihZ"
+      },
+      "artists": [
+        {
+          "name": "Ewan McVicar",
+          "url": "https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH"
+        }
+      ],
+      "duration_ms": 220360,
+      "name": "Groove Thang",
+      "url": "https://open.spotify.com/track/6pyjUNNPUAHqRkvD0ZEDFz"
+    },
+    {
+      "added_at": "2026-05-22 08:51:31",
+      "album": {
+        "name": "Suddenly",
+        "url": "https://open.spotify.com/album/34iY3hgyKCn1EJe6YVNFro"
+      },
+      "artists": [
+        {
+          "name": "Caribou",
+          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
+        }
+      ],
+      "duration_ms": 305480,
+      "name": "Never Come Back",
+      "url": "https://open.spotify.com/track/0Ej6OBBtMvhjaJvtt1vtUt"
+    },
+    {
+      "added_at": "2026-05-22 08:51:31",
+      "album": {
+        "name": "Better",
+        "url": "https://open.spotify.com/album/06YNty6N97umwjZFABQnvn"
+      },
+      "artists": [
+        {
+          "name": "Baauer",
+          "url": "https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv"
+        }
+      ],
+      "duration_ms": 230465,
+      "name": "Better",
+      "url": "https://open.spotify.com/track/28Fhf4E24Y4iZqQ09nOUJx"
     },
     {
       "added_at": "2026-05-22 08:51:31",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2026-05-22 08:51:31",
       "album": {
+        "name": "The Funk EP",
+        "url": "https://open.spotify.com/album/7oxFce5DqOA58Ycj9YAWaH"
+      },
+      "artists": [
+        {
+          "name": "Riordan",
+          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
+        }
+      ],
+      "duration_ms": 206412,
+      "name": "Feel The Funk",
+      "url": "https://open.spotify.com/track/2fWyCaf8OQViWejIesNwPE"
+    },
+    {
+      "added_at": "2026-05-22 08:51:31",
+      "album": {
         "name": "God Made Me Phunky (Jess Bays Remix)",
         "url": "https://open.spotify.com/album/5ntomn4F2F0AA7r6n8Y8Hl"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 220270,
       "name": "God Made Me Phunky - Jess Bays Remix",
       "url": "https://open.spotify.com/track/6qRzNXm3vpGcGoLVB3zk9n"
-    },
-    {
-      "added_at": "2026-05-22 08:51:31",
-      "album": {
-        "name": "The Funk EP",
-        "url": "https://open.spotify.com/album/7oxFce5DqOA58Ycj9YAWaH"
-      },
-      "artists": [
-        {
-          "name": "Riordan",
-          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
-        }
-      ],
-      "duration_ms": 206412,
-      "name": "Feel The Funk",
-      "url": "https://open.spotify.com/track/2fWyCaf8OQViWejIesNwPE"
     },
     {
       "added_at": "2026-05-22 08:51:31",

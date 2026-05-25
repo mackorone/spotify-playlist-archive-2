@@ -4,7 +4,7 @@
 
 > 来日希望！ライブで観たい注目の海外アーティストを特集。cover: Charli xcx
 
-809 songs - 1 day 20 hr 56 min
+810 songs - 1 day 21 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -253,7 +253,7 @@
 | [Foam](https://open.spotify.com/track/4h6AjmvszVvlSLg0vwJJ46) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Foam](https://open.spotify.com/album/4Rmw7d4SsYHn1U5SosFCOI) | 3:05 | 2024-02-15 | 2024-02-17 |
 | [Foam](https://open.spotify.com/track/4lfuRRTLD4UFkSVVArVVaK) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [PRATTS & PAIN](https://open.spotify.com/album/64vC3GWaE8ryklQD2fNosa) | 3:05 | 2024-02-15 | 2024-03-15 |
 | [folding chairs on the moon](https://open.spotify.com/track/6kU8m88hdo7QyQ1EPqBQVF) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe), [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [folding chairs on the moon](https://open.spotify.com/album/3pNeAqZF4s1icAo94ovwOc) | 3:20 | 2025-09-18 | 2025-11-28 |
-| [Forgiveness](https://open.spotify.com/track/5u4rozuOBse9MgrAzGspQy) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [M$NEY](https://open.spotify.com/album/07iqzVICrgPFOpXem6MEpU) | 2:38 | 2026-05-15 |  |
+| [Forgiveness](https://open.spotify.com/track/5u4rozuOBse9MgrAzGspQy) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [M$NEY](https://open.spotify.com/album/07iqzVICrgPFOpXem6MEpU) | 2:38 | 2026-05-15 | 2026-05-25 |
 | [Found A Light \(Beale Street\)](https://open.spotify.com/track/09Btkoj4YIm36KVJqomiCE) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [V.C.R](https://open.spotify.com/artist/3kCN1Q6YPXCtKflf3NPXKw) | [Found A Light \(Beale Street\)](https://open.spotify.com/album/3bryfCCYVWa9IpMyObn3PN) | 7:16 | 2025-05-01 | 2025-07-11 |
 | [Freedom](https://open.spotify.com/track/6NK6YFjxpLMpaqt6YKfIDA) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Freedom](https://open.spotify.com/album/2xSLfoDlfgGOvjQ6OEJMd5) | 4:10 | 2024-01-23 | 2024-02-09 |
 | [Freezing](https://open.spotify.com/track/7reh67rES37v1n9grDX6HO) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Amelia](https://open.spotify.com/album/0tqx2yq6GywrCBUMSfev3D) | 2:56 | 2023-03-15 | 2023-05-21 |
@@ -699,6 +699,7 @@
 | [The Boys](https://open.spotify.com/track/28GrU7y1SAut9GqwvohEaZ) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [Modern Romance](https://open.spotify.com/album/0j2JD5n3SLhPgisWlam9lD) | 2:38 | 2025-05-16 | 2025-05-30 |
 | [The Bridge](https://open.spotify.com/track/7MTHpsxtKVJaBL6e9WXzqD) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 3:01 | 2023-05-25 | 2023-09-09 |
 | [THE CHEMICALS](https://open.spotify.com/track/4NLvDJiZ1fcOF8eqZRBbxc) | [SIPHO.](https://open.spotify.com/artist/3qdhzmyZIDzgawvmSWLsGZ) | [THE CHEMICALS](https://open.spotify.com/album/5SmtHJw6OE9m8oTUdzV03c) | 4:04 | 2023-08-10 | 2023-08-23 |
+| [the cure](https://open.spotify.com/track/4EoJ151oQ5jY48z4RhSE96) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [the cure](https://open.spotify.com/album/6zme2NwcaBxbn3mWOcMY8y) | 4:57 | 2026-05-21 |  |
 | [The Fate of Ophelia](https://open.spotify.com/track/31TXxq8gfgYyrYClnYY48m) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/1W57oNaAkGObOQKBTxg4e9) | 3:46 | 2025-10-02 |  |
 | [The Feels](https://open.spotify.com/track/3l3iCfpZsxbxWJhYoiQNkD) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Ends & Begins](https://open.spotify.com/album/5kGUy2eONqGocT26fvKo9v) | 3:17 | 2023-04-27 | 2023-06-09 |
 | [The Flood](https://open.spotify.com/track/0vXivA7V0E0c8RBgHtcklm) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [The Flood](https://open.spotify.com/album/5dhxOuPRt7O3Bgk0jLHhXv) | 4:29 | 2025-04-03 | 2025-04-18 |

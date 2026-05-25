@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxwXKCsImRe.md) - [plain]
 
 > De toekomst van de Benelux volgens onze muziekredactie\. Cover: <a href="spotify:artist:2qVi7G7OjgVXyl9zxabzTQ">Sarah Julia</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,033 likes - 28 songs - 1 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,037 likes - 28 songs - 1 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

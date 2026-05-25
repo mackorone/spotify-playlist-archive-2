@@ -292,7 +292,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-25",
       "duration_ms": 187993,
       "name": "Anita's Dream",
       "url": "https://open.spotify.com/track/6iTbkT0gcl0WglctFiCT2L"
@@ -4347,6 +4347,24 @@
     },
     {
       "album": {
+        "name": "Sinal Vermelho",
+        "url": "https://open.spotify.com/album/7qESWTcIuiswvipqVknDEF"
+      },
+      "artists": [
+        {
+          "name": "Bossa Players",
+          "url": "https://open.spotify.com/artist/5apIRYZ7s0gTvCb4qSpGHm"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267374,
+      "name": "Sinal Vermelho",
+      "url": "https://open.spotify.com/track/3jy9B0kZMpIuTCU8wIn5dC"
+    },
+    {
+      "album": {
         "name": "The Valentine Sessions",
         "url": "https://open.spotify.com/album/1znhnVIkzgtJyiPrnWCP0c"
       },
@@ -4854,6 +4872,24 @@
       "duration_ms": 218346,
       "name": "Teleco-Teco",
       "url": "https://open.spotify.com/track/7nZARKu6tzkTBkuCVXWaZa"
+    },
+    {
+      "album": {
+        "name": "That\u2019s your heart",
+        "url": "https://open.spotify.com/album/5VKkml79oNScaoaXvSJRXu"
+      },
+      "artists": [
+        {
+          "name": "Leandro Amor Trio",
+          "url": "https://open.spotify.com/artist/4S4flqSBJsefHltJ4wZXEZ"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195830,
+      "name": "That\u2019s your heart",
+      "url": "https://open.spotify.com/track/78VDXrW8p9NtJnJA6pU1op"
     },
     {
       "album": {
@@ -5606,7 +5642,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-25",
       "duration_ms": 226924,
       "name": "Zephyr",
       "url": "https://open.spotify.com/track/47Bm8HKITZFcEi3WmmpJlG"

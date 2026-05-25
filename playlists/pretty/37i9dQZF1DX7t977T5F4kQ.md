@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 
 > The hottest and recent Ghana party starters\. Cover:   Quamina MP
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,079 likes - 84 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,103 likes - 84 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

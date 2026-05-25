@@ -1,12 +1,12 @@
 {
   "description": "This is Banda MS de Sergio Liz\u00e1rraga. The essential tracks, all in one playlist.",
-  "num_followers": 1366362,
+  "num_followers": 1366430,
   "original_name": "This Is Banda MS de Sergio Liz\u00e1rraga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ag+cgAAAAAC05xtGH1+/Tx4zs2Sjgvo9",
+  "snapshot_id": "ahDuAAAAAADziPuU3wIEHedpP1qzjTZP",
   "tracks": [
     {
       "added_at": null,
@@ -335,6 +335,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "En Preparaci\u00f3n",
+        "url": "https://open.spotify.com/album/6SkVZ9EJpL1pQkf79qFnLF"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 162253,
+      "name": "Sin Evidencia",
+      "url": "https://open.spotify.com/track/62w2zglpnJApdA3VqepzBZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pa' Luego Es Tarde",
         "url": "https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE"
       },
@@ -355,8 +371,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Preparaci\u00f3n",
-        "url": "https://open.spotify.com/album/6SkVZ9EJpL1pQkf79qFnLF"
+        "name": "Con Todas Las Fuerzas",
+        "url": "https://open.spotify.com/album/265Gtj6TCk9UcWpyE2LDeM"
       },
       "artists": [
         {
@@ -364,9 +380,9 @@
           "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
         }
       ],
-      "duration_ms": 162253,
-      "name": "Sin Evidencia",
-      "url": "https://open.spotify.com/track/62w2zglpnJApdA3VqepzBZ"
+      "duration_ms": 254853,
+      "name": "No Elegi Conocerte",
+      "url": "https://open.spotify.com/track/7EY91l11hOnYIytcxFgvDN"
     },
     {
       "added_at": null,
@@ -383,22 +399,6 @@
       "duration_ms": 153493,
       "name": "Hermosa Experiencia",
       "url": "https://open.spotify.com/track/6GTX6TGcHEWHoxHXPSVbJ2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Con Todas Las Fuerzas",
-        "url": "https://open.spotify.com/album/265Gtj6TCk9UcWpyE2LDeM"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 254853,
-      "name": "No Elegi Conocerte",
-      "url": "https://open.spotify.com/track/7EY91l11hOnYIytcxFgvDN"
     },
     {
       "added_at": null,

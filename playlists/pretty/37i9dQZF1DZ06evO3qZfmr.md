@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3qZfmr.md) - [plain]
 
 > This is Megan Moroney\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,874 likes - 36 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,898 likes - 37 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,5 +44,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3qZfmr.md) - [plain]
 | 34 | [I'll Be Fine](https://open.spotify.com/track/7r0EPhlEkkKzdLJyPw1wFz) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Am I Okay? \(I'll Be Fine\)](https://open.spotify.com/album/0AqurYcKg73g81nADrFcyY) | 3:40 |
 | 35 | [The Best of Both Worlds \- Spotify Singles](https://open.spotify.com/track/0G72xBHu2lXcEAAbzo1Ehf) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [The Best of Both Worlds \(Spotify Singles\)](https://open.spotify.com/album/2ixVKMbXs7yUciceNEG2l9) | 3:00 |
 | 36 | [He Made Me Do It](https://open.spotify.com/track/2pkZwJgXMeapPZ3BGoNNGB) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Pistol Made of Roses](https://open.spotify.com/album/2r8MHSTtnErtLRIhwR2P9E) | 3:32 |
+| 37 | [Wish I Didn't \- MOONLGHT Remix](https://open.spotify.com/track/3xKulMqNGVrkQfKJlJqw1g) | [MOONLGHT](https://open.spotify.com/artist/0b9SpFqsoxkyoTbZqLlzSs), [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Wish I Didn't \(MOONLGHT Remix\)](https://open.spotify.com/album/5Y0mGEtp3Nar9lRwuuhQKg) | 2:29 |
 
-Snapshot ID: `ag+cgAAAAADFMmuyjtt20X1PJ7buJw0C`
+Snapshot ID: `ahDuAAAAAADUcAnpTV7dwhBd88iNxAyG`

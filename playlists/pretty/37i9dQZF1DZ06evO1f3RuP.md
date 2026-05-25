@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1f3RuP.md) - [plain]
 
 > This is BAYLI\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 253 likes - 35 songs - 1 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 254 likes - 35 songs - 1 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,10 +38,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1f3RuP.md) - [plain]
 | 28 | [SICK!](https://open.spotify.com/track/1IpP0gGsWlkag2S4U0vooG) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9), [ILOVEMAKONNEN](https://open.spotify.com/artist/3aGFCoR8xGN6DKwvdzeSja) | [SICK!](https://open.spotify.com/album/1uQyVaCOSTSbLHLzYHr4b7) | 2:06 |
 | 29 | [Enter The Chat](https://open.spotify.com/track/1gBwEnUsHgGDp6WkrjxNo7) | [SONIKKU](https://open.spotify.com/artist/31iYRMOM5mUFDxPMMljOZ9), [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [Whirlwind Of Malevolence](https://open.spotify.com/album/1JeoBLRWk8AKSagFSNG5EC) | 2:19 |
 | 30 | [into me](https://open.spotify.com/track/6kDJnfS1A7ZZTugc8JMkQt) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [stories 2](https://open.spotify.com/album/3bB8Ac29DUpwbjWTZGbOKh) | 2:22 |
-| 31 | [Push N Pull](https://open.spotify.com/track/1Ze2YUR6IEAUhfhJgsP6f8) | [Runyu Qian](https://open.spotify.com/artist/4ImAOESUJEOZ44ubwuoj1X), [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [Push N Pull](https://open.spotify.com/album/6NJUaLB7QJap4J0rTWwYrV) | 2:42 |
-| 32 | [Best I've Ever Had](https://open.spotify.com/track/3ZK98UUk9nbNbuiU5DqQdC) | [DLMT](https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF), [VINNE](https://open.spotify.com/artist/1FGLT6mEhIrPhgqYiU57ro), [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [Best I've Ever Had](https://open.spotify.com/album/0YR1CWri925UA7XvNzfzG4) | 2:54 |
+| 31 | [Best I've Ever Had](https://open.spotify.com/track/3ZK98UUk9nbNbuiU5DqQdC) | [DLMT](https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF), [VINNE](https://open.spotify.com/artist/1FGLT6mEhIrPhgqYiU57ro), [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [Best I've Ever Had](https://open.spotify.com/album/0YR1CWri925UA7XvNzfzG4) | 2:54 |
+| 32 | [Push N Pull](https://open.spotify.com/track/1Ze2YUR6IEAUhfhJgsP6f8) | [Runyu Qian](https://open.spotify.com/artist/4ImAOESUJEOZ44ubwuoj1X), [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [Push N Pull](https://open.spotify.com/album/6NJUaLB7QJap4J0rTWwYrV) | 2:42 |
 | 33 | [Spend It](https://open.spotify.com/track/1KlJZMMGrpXMVGYadMc3wF) | [Gia Woods](https://open.spotify.com/artist/6T56xtTEllGW17snjAZLNP), [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [Spend It](https://open.spotify.com/album/3xMUGDB2h7dVP5vWZjDpjf) | 3:00 |
 | 34 | [Kissing Practise](https://open.spotify.com/track/0Fmj0CquXZqPHMpb8D8Ro7) | [Kai Whiston](https://open.spotify.com/artist/0hktkVFcCRG9z2NTXE6jhl), [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [Quiet As Kept, F.O.G\. \(Extended Cut\)](https://open.spotify.com/album/5o0OzTCm1JqNniLfxlwVSL) | 4:22 |
 | 35 | [Mind Games](https://open.spotify.com/track/62sJa0KNYdItPUkxyeRYzC) | [DAGR](https://open.spotify.com/artist/6jDxyPx376PtDCCWzo7OJi), [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9), [LYAM](https://open.spotify.com/artist/7zJlKmeDV4KKcNPq8azdve), [Hanabii](https://open.spotify.com/artist/50Zy4KYB0xQC80GNSJXN8m) | [Fade on Back](https://open.spotify.com/album/6QJiBMaU34dNLmiT9Qq7xH) | 3:05 |
 
-Snapshot ID: `ag+cgAAAAADdDegV0RY6XRPxpMldKeV6`
+Snapshot ID: `ahDuAAAAAADCmvX0NjGyYklt8iy10eIB`

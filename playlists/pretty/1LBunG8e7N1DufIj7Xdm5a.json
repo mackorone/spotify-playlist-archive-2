@@ -6,7 +6,7 @@
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAIsgT+UAAGSz4Fxj98+78LkDp1hce5",
+  "snapshot_id": "AAAItSyIRGtBpbv2z22FAWoQWFECDG5S",
   "tracks": [
     {
       "added_at": "2026-05-07 07:57:17",
@@ -72967,6 +72967,54 @@
       "duration_ms": 288826,
       "name": "ENKI",
       "url": "https://open.spotify.com/track/78aPKQHPUrYPXvA9XteGcv"
+    },
+    {
+      "added_at": "2026-05-24 04:57:31",
+      "album": {
+        "name": "That Kind of Girl",
+        "url": "https://open.spotify.com/album/2lVSHtPcmY03BOPELzR6cf"
+      },
+      "artists": [
+        {
+          "name": "Sugarcane Hangover",
+          "url": "https://open.spotify.com/artist/4apvzNrF5euN4Sy6oTgBZ3"
+        }
+      ],
+      "duration_ms": 202921,
+      "name": "That Kind of Girl",
+      "url": "https://open.spotify.com/track/1SBp4oHlw8taa64WenMBgp"
+    },
+    {
+      "added_at": "2026-05-24 10:40:52",
+      "album": {
+        "name": "100 Hod",
+        "url": "https://open.spotify.com/album/62pqGsxT3FIQJdCv6unCH9"
+      },
+      "artists": [
+        {
+          "name": "Kutas",
+          "url": "https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq"
+        }
+      ],
+      "duration_ms": 151250,
+      "name": "100 Hod",
+      "url": "https://open.spotify.com/track/0iV71apxpIvDdd4vLdj4wr"
+    },
+    {
+      "added_at": "2026-05-24 21:41:58",
+      "album": {
+        "name": "\u8bc1\u660e\u6211\u771f\u7684\u6d3b\u7740\u5165\u95e8\u7968\u4e00\u4e2a",
+        "url": "https://open.spotify.com/album/55ni3VEWMtNnJ4cabLqeP0"
+      },
+      "artists": [
+        {
+          "name": "\u9676\u94ed\u897f",
+          "url": "https://open.spotify.com/artist/7jUnGkOKbLiiaoat6VXIMW"
+        }
+      ],
+      "duration_ms": 196320,
+      "name": "\u8bc1\u660e\u6211\u771f\u7684\u6d3b\u7740\u5165\u95e8\u7968\u4e00\u4e2a",
+      "url": "https://open.spotify.com/track/5Ui2iclOehI6HjZozdorOK"
     }
   ],
   "unique_name": "playlist spotify free",

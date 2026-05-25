@@ -1,6 +1,6 @@
 {
   "description": "La banda sonora de tu orgullo. Foto: Martin.",
-  "num_followers": 21882,
+  "num_followers": 21884,
   "original_name": "Glow Espa\u00f1a",
   "owner": {
     "name": "Spotify",
@@ -699,6 +699,22 @@
     {
       "added_at": "2026-05-06 09:33:36",
       "album": {
+        "name": "Recardelino",
+        "url": "https://open.spotify.com/album/4xNK43jp9NdfRVC2BliZ2H"
+      },
+      "artists": [
+        {
+          "name": "Juanjo Bona",
+          "url": "https://open.spotify.com/artist/471C5Rq1AJAT1Y1Epd56XF"
+        }
+      ],
+      "duration_ms": 151849,
+      "name": "Virgen de Magall\u00f3n",
+      "url": "https://open.spotify.com/track/6isno2Q3cVT0XA9Adnkanz"
+    },
+    {
+      "added_at": "2026-05-06 09:33:36",
+      "album": {
         "name": "Satisfacer Tu Deseo De Hombre",
         "url": "https://open.spotify.com/album/3n1kR89j7noY6ipBbRTGfW"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 160064,
       "name": "Hoy ya no",
       "url": "https://open.spotify.com/track/0rtC4k3M8DkZdiNeoO37bz"
-    },
-    {
-      "added_at": "2026-05-06 09:33:36",
-      "album": {
-        "name": "Recardelino",
-        "url": "https://open.spotify.com/album/4xNK43jp9NdfRVC2BliZ2H"
-      },
-      "artists": [
-        {
-          "name": "Juanjo Bona",
-          "url": "https://open.spotify.com/artist/471C5Rq1AJAT1Y1Epd56XF"
-        }
-      ],
-      "duration_ms": 151849,
-      "name": "Virgen de Magall\u00f3n",
-      "url": "https://open.spotify.com/track/6isno2Q3cVT0XA9Adnkanz"
     },
     {
       "added_at": "2026-05-06 09:33:36",
@@ -831,6 +831,26 @@
     {
       "added_at": "2026-05-06 09:33:36",
       "album": {
+        "name": "Asereg\u00e9",
+        "url": "https://open.spotify.com/album/4YmwrdHEDe9njR1VQnsS8z"
+      },
+      "artists": [
+        {
+          "name": "Svetlana",
+          "url": "https://open.spotify.com/artist/3ax5cuCKLmHd6NEt0ZWGW6"
+        },
+        {
+          "name": "Alosa",
+          "url": "https://open.spotify.com/artist/3wGkgRi4YbaoT5a2iNj5fB"
+        }
+      ],
+      "duration_ms": 202781,
+      "name": "Asereg\u00e9",
+      "url": "https://open.spotify.com/track/04f2tTJjVwknNobTRPm4iT"
+    },
+    {
+      "added_at": "2026-05-06 09:33:36",
+      "album": {
         "name": "LUNA",
         "url": "https://open.spotify.com/album/3rqrPnCubpsQm76uYOkJVy"
       },
@@ -843,22 +863,6 @@
       "duration_ms": 145600,
       "name": "iGL\u00fa",
       "url": "https://open.spotify.com/track/4Yx33i7VKzJqimf3tXy6e6"
-    },
-    {
-      "added_at": "2026-05-06 09:33:36",
-      "album": {
-        "name": "Nuevos Recuerdos",
-        "url": "https://open.spotify.com/album/0pZWzpJOLbxjI3vjWpA4Ns"
-      },
-      "artists": [
-        {
-          "name": "Martin",
-          "url": "https://open.spotify.com/artist/7axPkSaeZBpVJRyOj5vKPC"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "Nuevos Recuerdos",
-      "url": "https://open.spotify.com/track/627AgFGbrZRwWVNcwsK2jc"
     }
   ],
   "unique_name": "Glow Espa\u00f1a",

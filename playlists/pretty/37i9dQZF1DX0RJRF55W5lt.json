@@ -1,6 +1,6 @@
 {
   "description": "Classic anthems from a classic era. Cover: Sunship",
-  "num_followers": 679077,
+  "num_followers": 679283,
   "original_name": "UK Garage Classics",
   "owner": {
     "name": "Spotify",
@@ -1275,6 +1275,26 @@
     {
       "added_at": "2026-03-11 09:40:56",
       "album": {
+        "name": "Dooms Night",
+        "url": "https://open.spotify.com/album/2218GRd8YlRG9RMVx6mD5N"
+      },
+      "artists": [
+        {
+          "name": "Azzido Da Bass",
+          "url": "https://open.spotify.com/artist/68cFjYYBul5JSW9jyoCJAr"
+        },
+        {
+          "name": "Timo Maas",
+          "url": "https://open.spotify.com/artist/1nN9sUUgtCl0Z9ciCLc48Q"
+        }
+      ],
+      "duration_ms": 226600,
+      "name": "Dooms Night - Timo Maas Radio Edit",
+      "url": "https://open.spotify.com/track/5EI0N84j0ReqnQmDfalEmf"
+    },
+    {
+      "added_at": "2026-03-11 09:40:56",
+      "album": {
         "name": "Morel's Grooves (Pt. 4)",
         "url": "https://open.spotify.com/album/4YAQY5sSGCgBG9auquen4A"
       },
@@ -1307,26 +1327,6 @@
       "duration_ms": 211680,
       "name": "Things We Do For Love",
       "url": "https://open.spotify.com/track/6WhWEu5LqhSjG37ZSk4gAe"
-    },
-    {
-      "added_at": "2026-03-11 09:40:56",
-      "album": {
-        "name": "Dooms Night",
-        "url": "https://open.spotify.com/album/2218GRd8YlRG9RMVx6mD5N"
-      },
-      "artists": [
-        {
-          "name": "Azzido Da Bass",
-          "url": "https://open.spotify.com/artist/68cFjYYBul5JSW9jyoCJAr"
-        },
-        {
-          "name": "Timo Maas",
-          "url": "https://open.spotify.com/artist/1nN9sUUgtCl0Z9ciCLc48Q"
-        }
-      ],
-      "duration_ms": 226600,
-      "name": "Dooms Night - Timo Maas Radio Edit",
-      "url": "https://open.spotify.com/track/5EI0N84j0ReqnQmDfalEmf"
     },
     {
       "added_at": "2026-03-11 09:40:56",

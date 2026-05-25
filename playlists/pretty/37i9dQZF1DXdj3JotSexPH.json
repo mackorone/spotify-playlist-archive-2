@@ -1,6 +1,6 @@
 {
   "description": "\u0627\u0636\u063a\u0637 \u0644\u0644\u0628\u062f\u0621",
-  "num_followers": 36043,
+  "num_followers": 36042,
   "original_name": "Yalla Gaming",
   "owner": {
     "name": "Spotify",
@@ -415,22 +415,6 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "Murder In My Mind",
-        "url": "https://open.spotify.com/album/68GI09qAs2XLJmA3hj5K7y"
-      },
-      "artists": [
-        {
-          "name": "Kordhell",
-          "url": "https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54"
-        }
-      ],
-      "duration_ms": 145000,
-      "name": "Murder In My Mind",
-      "url": "https://open.spotify.com/track/6qyS9qBy0mEk3qYaH8mPss"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
         "name": "CLIMA LINDO",
         "url": "https://open.spotify.com/album/3StJkT99NLpTwoGjzbEqpH"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 81995,
       "name": "CLIMA LINDO - SLOWED",
       "url": "https://open.spotify.com/track/5ymkm3U65CzrLbij6eerzp"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
+        "name": "Murder In My Mind",
+        "url": "https://open.spotify.com/album/68GI09qAs2XLJmA3hj5K7y"
+      },
+      "artists": [
+        {
+          "name": "Kordhell",
+          "url": "https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54"
+        }
+      ],
+      "duration_ms": 145000,
+      "name": "Murder In My Mind",
+      "url": "https://open.spotify.com/track/6qyS9qBy0mEk3qYaH8mPss"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -859,6 +859,22 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
+        "name": "GigaChad Theme (Phonk House Version)",
+        "url": "https://open.spotify.com/album/6XMRvZrrp6KDqYO4tDutwr"
+      },
+      "artists": [
+        {
+          "name": "g3ox_em",
+          "url": "https://open.spotify.com/artist/0Zw2ivPEDptvMHwCXjhdRs"
+        }
+      ],
+      "duration_ms": 146274,
+      "name": "GigaChad Theme - Phonk House Version",
+      "url": "https://open.spotify.com/track/7mLWNwcvwRdEviz6SfYp8A"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
         "name": "Step Back!",
         "url": "https://open.spotify.com/album/5bgXspdu04zFxX5gq8uXMl"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 150674,
       "name": "Step Back!",
       "url": "https://open.spotify.com/track/6jdwbcH788txYS6Doy1F1j"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
-        "name": "GigaChad Theme (Phonk House Version)",
-        "url": "https://open.spotify.com/album/6XMRvZrrp6KDqYO4tDutwr"
-      },
-      "artists": [
-        {
-          "name": "g3ox_em",
-          "url": "https://open.spotify.com/artist/0Zw2ivPEDptvMHwCXjhdRs"
-        }
-      ],
-      "duration_ms": 146274,
-      "name": "GigaChad Theme - Phonk House Version",
-      "url": "https://open.spotify.com/track/7mLWNwcvwRdEviz6SfYp8A"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "Sea Of Problems",
-        "url": "https://open.spotify.com/album/3nofsi0Rt2tnhAuvz8pB95"
-      },
-      "artists": [
-        {
-          "name": "glichery",
-          "url": "https://open.spotify.com/artist/7xD76cR2sg2mAH29zBGnks"
-        }
-      ],
-      "duration_ms": 110624,
-      "name": "Sea Of Problems",
-      "url": "https://open.spotify.com/track/3VvcKToPY3diGRjERt8NvD"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
         "name": "Jungle",
         "url": "https://open.spotify.com/album/3iDLGLmecmdkmdxYmuol5d"
       },
@@ -1119,6 +1103,22 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
+        "name": "Sea Of Problems",
+        "url": "https://open.spotify.com/album/3nofsi0Rt2tnhAuvz8pB95"
+      },
+      "artists": [
+        {
+          "name": "glichery",
+          "url": "https://open.spotify.com/artist/7xD76cR2sg2mAH29zBGnks"
+        }
+      ],
+      "duration_ms": 110624,
+      "name": "Sea Of Problems",
+      "url": "https://open.spotify.com/track/3VvcKToPY3diGRjERt8NvD"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
         "name": "Crystals",
         "url": "https://open.spotify.com/album/0pbn1QDWs2wOehyxQwVhJS"
       },
@@ -1131,30 +1131,6 @@
       "duration_ms": 139200,
       "name": "Crystals",
       "url": "https://open.spotify.com/track/2BH3j05ZXWr5PR30sW079d"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
-        "name": "Craving 4 U (feat. bbyclose)",
-        "url": "https://open.spotify.com/album/6VIs4Ijm0PCcaIFZdaRlY0"
-      },
-      "artists": [
-        {
-          "name": "BL3SS",
-          "url": "https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI"
-        },
-        {
-          "name": "CamrinWatsin",
-          "url": "https://open.spotify.com/artist/20rKUmFZsfv9GBXiv6R9d6"
-        },
-        {
-          "name": "bbyclose",
-          "url": "https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH"
-        }
-      ],
-      "duration_ms": 139300,
-      "name": "Craving 4 U (feat. bbyclose)",
-      "url": "https://open.spotify.com/track/2j6CAcq3nUjNCdEAE9xYpZ"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -1183,6 +1159,30 @@
       "duration_ms": 131200,
       "name": "2 Times",
       "url": "https://open.spotify.com/track/03xIKiQXopptD4Sv8ijvcG"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
+        "name": "Craving 4 U (feat. bbyclose)",
+        "url": "https://open.spotify.com/album/6VIs4Ijm0PCcaIFZdaRlY0"
+      },
+      "artists": [
+        {
+          "name": "BL3SS",
+          "url": "https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI"
+        },
+        {
+          "name": "CamrinWatsin",
+          "url": "https://open.spotify.com/artist/20rKUmFZsfv9GBXiv6R9d6"
+        },
+        {
+          "name": "bbyclose",
+          "url": "https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH"
+        }
+      ],
+      "duration_ms": 139300,
+      "name": "Craving 4 U (feat. bbyclose)",
+      "url": "https://open.spotify.com/track/2j6CAcq3nUjNCdEAE9xYpZ"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -1291,22 +1291,22 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "3am - Nic Vans Remix",
-        "url": "https://open.spotify.com/album/3bY6WFZNCsRQGunbuoiDol"
+        "name": "WILD",
+        "url": "https://open.spotify.com/album/5FsMk34JEYtLATtx2BN0Jv"
       },
       "artists": [
         {
-          "name": "\u0141aszewo",
-          "url": "https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN"
+          "name": "BOVSKI",
+          "url": "https://open.spotify.com/artist/3MWeawb18cHiDxt4ip7GY9"
         },
         {
-          "name": "Nic Vans",
-          "url": "https://open.spotify.com/artist/43mZ0wYdhCElOXuMV71SG4"
+          "name": "Valexus",
+          "url": "https://open.spotify.com/artist/7bzKgx8PQw6TCVDSD43pc1"
         }
       ],
-      "duration_ms": 164142,
-      "name": "3am - Nic Vans Remix",
-      "url": "https://open.spotify.com/track/0GBxBb2d4BlTiwbaQuQARv"
+      "duration_ms": 140459,
+      "name": "WILD",
+      "url": "https://open.spotify.com/track/3bcuj62DusW3T4UhAgdlOU"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -1327,22 +1327,22 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "WILD",
-        "url": "https://open.spotify.com/album/5FsMk34JEYtLATtx2BN0Jv"
+        "name": "3am - Nic Vans Remix",
+        "url": "https://open.spotify.com/album/3bY6WFZNCsRQGunbuoiDol"
       },
       "artists": [
         {
-          "name": "BOVSKI",
-          "url": "https://open.spotify.com/artist/3MWeawb18cHiDxt4ip7GY9"
+          "name": "\u0141aszewo",
+          "url": "https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN"
         },
         {
-          "name": "Valexus",
-          "url": "https://open.spotify.com/artist/7bzKgx8PQw6TCVDSD43pc1"
+          "name": "Nic Vans",
+          "url": "https://open.spotify.com/artist/43mZ0wYdhCElOXuMV71SG4"
         }
       ],
-      "duration_ms": 140459,
-      "name": "WILD",
-      "url": "https://open.spotify.com/track/3bcuj62DusW3T4UhAgdlOU"
+      "duration_ms": 164142,
+      "name": "3am - Nic Vans Remix",
+      "url": "https://open.spotify.com/track/0GBxBb2d4BlTiwbaQuQARv"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -2083,6 +2083,22 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
+        "name": "SAY SOMETHING",
+        "url": "https://open.spotify.com/album/5GpGiO6KJyRuk73MEqsPdr"
+      },
+      "artists": [
+        {
+          "name": "Klo",
+          "url": "https://open.spotify.com/artist/2QlABGwVVmqOu8SHMyyZMq"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "SAY SOMETHING",
+      "url": "https://open.spotify.com/track/2Ua1gdg52itBvIelrsR0lj"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
         "name": "Echo Chamber",
         "url": "https://open.spotify.com/album/2TjelVZVTDssWHvROGDyC4"
       },
@@ -2099,22 +2115,6 @@
       "duration_ms": 253714,
       "name": "Echo Chamber",
       "url": "https://open.spotify.com/track/7sJ4ue5uhSaXnNlmBWOyuv"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
-        "name": "SAY SOMETHING",
-        "url": "https://open.spotify.com/album/5GpGiO6KJyRuk73MEqsPdr"
-      },
-      "artists": [
-        {
-          "name": "Klo",
-          "url": "https://open.spotify.com/artist/2QlABGwVVmqOu8SHMyyZMq"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "SAY SOMETHING",
-      "url": "https://open.spotify.com/track/2Ua1gdg52itBvIelrsR0lj"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -2303,22 +2303,6 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "on our own",
-        "url": "https://open.spotify.com/album/69RZ5CN1jONmFMPgpDv3Lf"
-      },
-      "artists": [
-        {
-          "name": "Ordley",
-          "url": "https://open.spotify.com/artist/7iytrtzbCdACF9euDDHfiD"
-        }
-      ],
-      "duration_ms": 178285,
-      "name": "on our own",
-      "url": "https://open.spotify.com/track/12CxO4DKn60OU9NPdVPYmy"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
         "name": "Feel the Beat",
         "url": "https://open.spotify.com/album/4izfgFschtwTedFJH5b4rO"
       },
@@ -2335,6 +2319,22 @@
       "duration_ms": 397189,
       "name": "Feel the Beat - Partiboi69 Remix",
       "url": "https://open.spotify.com/track/2wNEBBr52TumYRmtYH1ocC"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
+        "name": "on our own",
+        "url": "https://open.spotify.com/album/69RZ5CN1jONmFMPgpDv3Lf"
+      },
+      "artists": [
+        {
+          "name": "Ordley",
+          "url": "https://open.spotify.com/artist/7iytrtzbCdACF9euDDHfiD"
+        }
+      ],
+      "duration_ms": 178285,
+      "name": "on our own",
+      "url": "https://open.spotify.com/track/12CxO4DKn60OU9NPdVPYmy"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -2487,6 +2487,22 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
+        "name": "oknottobeok",
+        "url": "https://open.spotify.com/album/7Dt32PFY41gLe16zWQFFPh"
+      },
+      "artists": [
+        {
+          "name": "okgiorgio",
+          "url": "https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg"
+        }
+      ],
+      "duration_ms": 204788,
+      "name": "oknottobeok",
+      "url": "https://open.spotify.com/track/5JAtlL8M4CyF9gbgd9jUab"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
         "name": "Memphis Cult Vol. 6",
         "url": "https://open.spotify.com/album/5CZnhiTI3K85wLKwPLNOJB"
       },
@@ -2507,22 +2523,6 @@
       "duration_ms": 86709,
       "name": "9mm",
       "url": "https://open.spotify.com/track/3K5KXm1uZjiyQk0J7op1xf"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
-        "name": "oknottobeok",
-        "url": "https://open.spotify.com/album/7Dt32PFY41gLe16zWQFFPh"
-      },
-      "artists": [
-        {
-          "name": "okgiorgio",
-          "url": "https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg"
-        }
-      ],
-      "duration_ms": 204788,
-      "name": "oknottobeok",
-      "url": "https://open.spotify.com/track/5JAtlL8M4CyF9gbgd9jUab"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -2859,22 +2859,6 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "Fluxxwave",
-        "url": "https://open.spotify.com/album/5VSZMq4gFIMNympUWJa0AV"
-      },
-      "artists": [
-        {
-          "name": "Clovis Reyes",
-          "url": "https://open.spotify.com/artist/1rPMCfJhANfBT78l2wf4d6"
-        }
-      ],
-      "duration_ms": 150441,
-      "name": "Fluxxwave",
-      "url": "https://open.spotify.com/track/5K2onWVFDevmZ5y9AgiEcr"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
         "name": "The Best Part of Life (Imanbek Remix)",
         "url": "https://open.spotify.com/album/1Eoy1ADRQDviO2WX2V2vyP"
       },
@@ -2891,6 +2875,22 @@
       "duration_ms": 198979,
       "name": "The Best Part of Life (Imanbek Remix)",
       "url": "https://open.spotify.com/track/6OboXrS1zbfCmh7uDFCIQ5"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
+        "name": "Fluxxwave",
+        "url": "https://open.spotify.com/album/5VSZMq4gFIMNympUWJa0AV"
+      },
+      "artists": [
+        {
+          "name": "Clovis Reyes",
+          "url": "https://open.spotify.com/artist/1rPMCfJhANfBT78l2wf4d6"
+        }
+      ],
+      "duration_ms": 150441,
+      "name": "Fluxxwave",
+      "url": "https://open.spotify.com/track/5K2onWVFDevmZ5y9AgiEcr"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -2951,6 +2951,26 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
+        "name": "Ela Joga na Hora",
+        "url": "https://open.spotify.com/album/5Q5Q1X31y4eM4A4Nz7cGKb"
+      },
+      "artists": [
+        {
+          "name": "Mc Pogba",
+          "url": "https://open.spotify.com/artist/2sQHo73pQF1OTq3lDuQhlO"
+        },
+        {
+          "name": "DJ Guih Da ZO",
+          "url": "https://open.spotify.com/artist/0rb23mC6LLZ3o15qcdSzjx"
+        }
+      ],
+      "duration_ms": 132922,
+      "name": "Ela Joga na Hora",
+      "url": "https://open.spotify.com/track/4EV2AD1AL9AV7eY0jhAY1k"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
         "name": "In My Arms (KREAM Remix)",
         "url": "https://open.spotify.com/album/1qXuQg53DXGnNa7MED6azY"
       },
@@ -2971,26 +2991,6 @@
       "duration_ms": 217684,
       "name": "In My Arms - KREAM Remix",
       "url": "https://open.spotify.com/track/1c0CauHGd6IumO162bEbCu"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
-        "name": "Ela Joga na Hora",
-        "url": "https://open.spotify.com/album/5Q5Q1X31y4eM4A4Nz7cGKb"
-      },
-      "artists": [
-        {
-          "name": "Mc Pogba",
-          "url": "https://open.spotify.com/artist/2sQHo73pQF1OTq3lDuQhlO"
-        },
-        {
-          "name": "DJ Guih Da ZO",
-          "url": "https://open.spotify.com/artist/0rb23mC6LLZ3o15qcdSzjx"
-        }
-      ],
-      "duration_ms": 132922,
-      "name": "Ela Joga na Hora",
-      "url": "https://open.spotify.com/track/4EV2AD1AL9AV7eY0jhAY1k"
     },
     {
       "added_at": "2026-04-13 15:38:24",

@@ -1,6 +1,6 @@
 {
   "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. Fito Silva, Cachirula y LOOJAN en portada ",
-  "num_followers": 847881,
+  "num_followers": 847960,
   "original_name": "Top M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -307,6 +307,22 @@
     {
       "added_at": "2026-05-22 06:00:52",
       "album": {
+        "name": "LINAJE",
+        "url": "https://open.spotify.com/album/1IUyPkacFHORWwLM9SBbOy"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Espinoza",
+          "url": "https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV"
+        }
+      ],
+      "duration_ms": 336026,
+      "name": "FREESTYLE",
+      "url": "https://open.spotify.com/track/7FcV9ysZVFnmAOYwipRSGp"
+    },
+    {
+      "added_at": "2026-05-22 06:00:52",
+      "album": {
         "name": "OSAD\u00cdA",
         "url": "https://open.spotify.com/album/3YURBd6TmCxXu5K6lOYWvT"
       },
@@ -323,22 +339,6 @@
       "duration_ms": 206538,
       "name": "OSAD\u00cdA",
       "url": "https://open.spotify.com/track/0cCKN8doEIZ3mk7pXN0nW5"
-    },
-    {
-      "added_at": "2026-05-22 06:00:52",
-      "album": {
-        "name": "LINAJE",
-        "url": "https://open.spotify.com/album/1IUyPkacFHORWwLM9SBbOy"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Espinoza",
-          "url": "https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV"
-        }
-      ],
-      "duration_ms": 336026,
-      "name": "FREESTYLE",
-      "url": "https://open.spotify.com/track/7FcV9ysZVFnmAOYwipRSGp"
     },
     {
       "added_at": "2026-05-22 06:00:52",
@@ -407,22 +407,6 @@
     {
       "added_at": "2026-05-22 06:00:52",
       "album": {
-        "name": "Mi Yo de Antes",
-        "url": "https://open.spotify.com/album/2y77rjJAPxg73wjdzAeTMN"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 182793,
-      "name": "Mi Yo de Antes",
-      "url": "https://open.spotify.com/track/0RAlrJTWdsaZVtfh1wDb3r"
-    },
-    {
-      "added_at": "2026-05-22 06:00:52",
-      "album": {
         "name": "Seguro Le Doli\u00f3",
         "url": "https://open.spotify.com/album/0laSYvHtmxy7gG0z8secrX"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 149459,
       "name": "Seguro Le Doli\u00f3",
       "url": "https://open.spotify.com/track/6KslzTHpbnoFGcRUkVgRXc"
+    },
+    {
+      "added_at": "2026-05-22 06:00:52",
+      "album": {
+        "name": "Mi Yo de Antes",
+        "url": "https://open.spotify.com/album/2y77rjJAPxg73wjdzAeTMN"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 182793,
+      "name": "Mi Yo de Antes",
+      "url": "https://open.spotify.com/track/0RAlrJTWdsaZVtfh1wDb3r"
     },
     {
       "added_at": "2026-05-22 06:00:52",
@@ -707,18 +707,22 @@
     {
       "added_at": "2026-05-22 06:00:52",
       "album": {
-        "name": "Muchacho Alegre",
-        "url": "https://open.spotify.com/album/2zA3A4nFCfiFitdLqgLg0G"
+        "name": "Agu\u00e1ntame",
+        "url": "https://open.spotify.com/album/4kqVBDAIxv4CdFbSX0AXVF"
       },
       "artists": [
         {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        },
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
         }
       ],
-      "duration_ms": 188121,
-      "name": "Muchacho Alegre",
-      "url": "https://open.spotify.com/track/101qOS5lXHs5hvu5xVT8Q1"
+      "duration_ms": 128409,
+      "name": "Agu\u00e1ntame",
+      "url": "https://open.spotify.com/track/6KtSV9qz4qtndIMEeHwb9Y"
     },
     {
       "added_at": "2026-05-22 06:00:52",
@@ -743,22 +747,18 @@
     {
       "added_at": "2026-05-22 06:00:52",
       "album": {
-        "name": "Agu\u00e1ntame",
-        "url": "https://open.spotify.com/album/4kqVBDAIxv4CdFbSX0AXVF"
+        "name": "Muchacho Alegre",
+        "url": "https://open.spotify.com/album/2zA3A4nFCfiFitdLqgLg0G"
       },
       "artists": [
         {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        },
-        {
-          "name": "Xavi",
-          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
         }
       ],
-      "duration_ms": 128409,
-      "name": "Agu\u00e1ntame",
-      "url": "https://open.spotify.com/track/6KtSV9qz4qtndIMEeHwb9Y"
+      "duration_ms": 188121,
+      "name": "Muchacho Alegre",
+      "url": "https://open.spotify.com/track/101qOS5lXHs5hvu5xVT8Q1"
     },
     {
       "added_at": "2026-05-22 06:00:52",
@@ -987,30 +987,6 @@
     {
       "added_at": "2026-05-22 06:00:52",
       "album": {
-        "name": "Por Ella (FIFA World Cup 2026\u2122)",
-        "url": "https://open.spotify.com/album/0lDEOKEvP2u7dvIFqtFdmj"
-      },
-      "artists": [
-        {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
-        },
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        },
-        {
-          "name": "FIFA Sound",
-          "url": "https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH"
-        }
-      ],
-      "duration_ms": 181253,
-      "name": "Por Ella",
-      "url": "https://open.spotify.com/track/5FO4y1DEB6Bjs0YmNx7MFu"
-    },
-    {
-      "added_at": "2026-05-22 06:00:52",
-      "album": {
         "name": "De Los Dientes Pa Fuera",
         "url": "https://open.spotify.com/album/3rGviY23qfCvsHXiauzv19"
       },
@@ -1035,6 +1011,30 @@
     {
       "added_at": "2026-05-22 06:00:52",
       "album": {
+        "name": "Por Ella (FIFA World Cup 2026\u2122)",
+        "url": "https://open.spotify.com/album/0lDEOKEvP2u7dvIFqtFdmj"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        },
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        },
+        {
+          "name": "FIFA Sound",
+          "url": "https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH"
+        }
+      ],
+      "duration_ms": 181253,
+      "name": "Por Ella",
+      "url": "https://open.spotify.com/track/5FO4y1DEB6Bjs0YmNx7MFu"
+    },
+    {
+      "added_at": "2026-05-22 06:00:52",
+      "album": {
         "name": "Te Juro Que Te Amo",
         "url": "https://open.spotify.com/album/048hj9COAKtTGGm3YyO02H"
       },
@@ -1047,26 +1047,6 @@
       "duration_ms": 208298,
       "name": "Te Juro Que Te Amo",
       "url": "https://open.spotify.com/track/3qtGLAar7AhrbwLegrYOUE"
-    },
-    {
-      "added_at": "2026-05-22 06:00:52",
-      "album": {
-        "name": "La Mala Era Yo",
-        "url": "https://open.spotify.com/album/6ozCFSLuAcviqzd7fFn9AV"
-      },
-      "artists": [
-        {
-          "name": "Kany Garc\u00eda",
-          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
-        },
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "La Mala Era Yo",
-      "url": "https://open.spotify.com/track/2nCP0l4ZNJxVm7ZaKBC3mB"
     },
     {
       "added_at": "2026-05-22 06:00:52",
@@ -1095,22 +1075,22 @@
     {
       "added_at": "2026-05-22 06:00:52",
       "album": {
-        "name": "Makia",
-        "url": "https://open.spotify.com/album/1Y9L31kOYOYwGCOv4TLdI3"
+        "name": "La Mala Era Yo",
+        "url": "https://open.spotify.com/album/6ozCFSLuAcviqzd7fFn9AV"
       },
       "artists": [
         {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
         },
         {
-          "name": "Calle 24",
-          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
         }
       ],
-      "duration_ms": 167450,
-      "name": "Makia",
-      "url": "https://open.spotify.com/track/2pwqiLyqSPC5tvChw2J8I0"
+      "duration_ms": 150000,
+      "name": "La Mala Era Yo",
+      "url": "https://open.spotify.com/track/2nCP0l4ZNJxVm7ZaKBC3mB"
     },
     {
       "added_at": "2026-05-22 06:00:52",
@@ -1147,6 +1127,26 @@
       "duration_ms": 227413,
       "name": "Volver a Ti",
       "url": "https://open.spotify.com/track/5m3zoNUv4WO35cfzjbLGK9"
+    },
+    {
+      "added_at": "2026-05-22 06:00:52",
+      "album": {
+        "name": "Makia",
+        "url": "https://open.spotify.com/album/1Y9L31kOYOYwGCOv4TLdI3"
+      },
+      "artists": [
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        },
+        {
+          "name": "Calle 24",
+          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
+        }
+      ],
+      "duration_ms": 167450,
+      "name": "Makia",
+      "url": "https://open.spotify.com/track/2pwqiLyqSPC5tvChw2J8I0"
     },
     {
       "added_at": "2026-05-22 06:00:52",
@@ -1231,6 +1231,26 @@
     {
       "added_at": "2026-05-22 06:00:52",
       "album": {
+        "name": "Bolsita Cara",
+        "url": "https://open.spotify.com/album/3RVp9B94uoddtDyGUtJcIg"
+      },
+      "artists": [
+        {
+          "name": "$HUPE",
+          "url": "https://open.spotify.com/artist/4fxkIFo9v2qqrrPCkXjNG3"
+        },
+        {
+          "name": "Ian Cordova",
+          "url": "https://open.spotify.com/artist/69DtJEq8LQ02KB06wynzuh"
+        }
+      ],
+      "duration_ms": 176810,
+      "name": "Bolsita Cara",
+      "url": "https://open.spotify.com/track/63RoO5slbFtgk6lPGZkgbC"
+    },
+    {
+      "added_at": "2026-05-22 06:00:52",
+      "album": {
         "name": "No Me Pidas Un Tiempo",
         "url": "https://open.spotify.com/album/5CARWChEinGKjMDSIxV4ol"
       },
@@ -1267,26 +1287,6 @@
     {
       "added_at": "2026-05-22 06:00:52",
       "album": {
-        "name": "Bolsita Cara",
-        "url": "https://open.spotify.com/album/3RVp9B94uoddtDyGUtJcIg"
-      },
-      "artists": [
-        {
-          "name": "$HUPE",
-          "url": "https://open.spotify.com/artist/4fxkIFo9v2qqrrPCkXjNG3"
-        },
-        {
-          "name": "Ian Cordova",
-          "url": "https://open.spotify.com/artist/69DtJEq8LQ02KB06wynzuh"
-        }
-      ],
-      "duration_ms": 176810,
-      "name": "Bolsita Cara",
-      "url": "https://open.spotify.com/track/63RoO5slbFtgk6lPGZkgbC"
-    },
-    {
-      "added_at": "2026-05-22 06:00:52",
-      "album": {
         "name": "Eso Si Es De Gangster",
         "url": "https://open.spotify.com/album/5DyoeBkxYOgCrA2TpCvJKL"
       },
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2026-05-22 06:00:52",
       "album": {
-        "name": "Da\u00f1os Luz",
-        "url": "https://open.spotify.com/album/3J0M1SWFaen1h5Uiq9zdAy"
-      },
-      "artists": [
-        {
-          "name": "Enjambre",
-          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
-        }
-      ],
-      "duration_ms": 231625,
-      "name": "Vida En El Espectro",
-      "url": "https://open.spotify.com/track/1lLuaTXombvzIx89FMLBwN"
-    },
-    {
-      "added_at": "2026-05-22 06:00:52",
-      "album": {
         "name": "Mujeres Divinas",
         "url": "https://open.spotify.com/album/6WHOe7liplOfeeSzM5Fuhq"
       },
@@ -1347,6 +1331,22 @@
     {
       "added_at": "2026-05-22 06:00:52",
       "album": {
+        "name": "Da\u00f1os Luz",
+        "url": "https://open.spotify.com/album/3J0M1SWFaen1h5Uiq9zdAy"
+      },
+      "artists": [
+        {
+          "name": "Enjambre",
+          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
+        }
+      ],
+      "duration_ms": 231625,
+      "name": "Vida En El Espectro",
+      "url": "https://open.spotify.com/track/1lLuaTXombvzIx89FMLBwN"
+    },
+    {
+      "added_at": "2026-05-22 06:00:52",
+      "album": {
         "name": "si me esperas",
         "url": "https://open.spotify.com/album/4QOth8IwUwVPWblM8AdO5r"
       },
@@ -1363,6 +1363,22 @@
       "duration_ms": 180381,
       "name": "si me esperas",
       "url": "https://open.spotify.com/track/0SXCN08q2ixC3pgWYqLmn3"
+    },
+    {
+      "added_at": "2026-05-22 06:00:52",
+      "album": {
+        "name": "Estilo R'S, Vol. 3",
+        "url": "https://open.spotify.com/album/3xFbL5aJ5SNXh1PSgUalaT"
+      },
+      "artists": [
+        {
+          "name": "El De Las R's",
+          "url": "https://open.spotify.com/artist/6LRccuxVVYoqRQif85sG9j"
+        }
+      ],
+      "duration_ms": 120076,
+      "name": "Por Brasil",
+      "url": "https://open.spotify.com/track/2wc7SicspmxsazX7Op17DW"
     },
     {
       "added_at": "2026-05-22 06:00:52",
@@ -1399,22 +1415,6 @@
       "duration_ms": 195389,
       "name": "Magia",
       "url": "https://open.spotify.com/track/6bbTjLQR2TmEApXj8QYhl8"
-    },
-    {
-      "added_at": "2026-05-22 06:00:52",
-      "album": {
-        "name": "Estilo R'S, Vol. 3",
-        "url": "https://open.spotify.com/album/3xFbL5aJ5SNXh1PSgUalaT"
-      },
-      "artists": [
-        {
-          "name": "El De Las R's",
-          "url": "https://open.spotify.com/artist/6LRccuxVVYoqRQif85sG9j"
-        }
-      ],
-      "duration_ms": 120076,
-      "name": "Por Brasil",
-      "url": "https://open.spotify.com/track/2wc7SicspmxsazX7Op17DW"
     },
     {
       "added_at": "2026-05-22 06:00:52",

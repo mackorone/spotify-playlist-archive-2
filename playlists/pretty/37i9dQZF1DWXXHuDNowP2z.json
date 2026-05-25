@@ -1,6 +1,6 @@
 {
   "description": "\u00a1A levantar polvadera!",
-  "num_followers": 287544,
+  "num_followers": 287601,
   "original_name": "Cumbias, Huapangos & Zapateados",
   "owner": {
     "name": "Spotify",
@@ -651,22 +651,6 @@
     {
       "added_at": "2024-11-28 22:59:11",
       "album": {
-        "name": "Palabras Tristes",
-        "url": "https://open.spotify.com/album/5AZuEf75Kcau9PQOR88PLo"
-      },
-      "artists": [
-        {
-          "name": "Los Traileros Del Norte",
-          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
-        }
-      ],
-      "duration_ms": 190813,
-      "name": "Mary Lee",
-      "url": "https://open.spotify.com/track/7FGMeXrwpKVFcoCHnslE4J"
-    },
-    {
-      "added_at": "2024-11-28 22:59:11",
-      "album": {
         "name": "Como en los Viejos Tiempos",
         "url": "https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 155908,
       "name": "Que la Dejen Ir al Baile Sola",
       "url": "https://open.spotify.com/track/5QBiktcoDAKR4pK5yRmCRe"
+    },
+    {
+      "added_at": "2024-11-28 22:59:11",
+      "album": {
+        "name": "Palabras Tristes",
+        "url": "https://open.spotify.com/album/5AZuEf75Kcau9PQOR88PLo"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "duration_ms": 190813,
+      "name": "Mary Lee",
+      "url": "https://open.spotify.com/track/7FGMeXrwpKVFcoCHnslE4J"
     },
     {
       "added_at": "2024-11-28 22:59:11",
@@ -735,22 +735,6 @@
     {
       "added_at": "2024-11-28 22:59:11",
       "album": {
-        "name": "Quisiera Ser Una L\u00e1grima",
-        "url": "https://open.spotify.com/album/0VY9UhKG9EBpuuvThP8UU7"
-      },
-      "artists": [
-        {
-          "name": "Los Traileros Del Norte",
-          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
-        }
-      ],
-      "duration_ms": 178186,
-      "name": "Quisiera Ser Una L\u00e1grima",
-      "url": "https://open.spotify.com/track/3OoTWhcb1NL1R1aop3An2H"
-    },
-    {
-      "added_at": "2024-11-28 22:59:11",
-      "album": {
         "name": "El Condor Pasa",
         "url": "https://open.spotify.com/album/12y6dBQ2QCgP47vLw2sJjx"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 208927,
       "name": "El Condor Pasa",
       "url": "https://open.spotify.com/track/00mUyQ38B8S51x3cQhU5ia"
+    },
+    {
+      "added_at": "2024-11-28 22:59:11",
+      "album": {
+        "name": "Quisiera Ser Una L\u00e1grima",
+        "url": "https://open.spotify.com/album/0VY9UhKG9EBpuuvThP8UU7"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "duration_ms": 178186,
+      "name": "Quisiera Ser Una L\u00e1grima",
+      "url": "https://open.spotify.com/track/3OoTWhcb1NL1R1aop3An2H"
     },
     {
       "added_at": "2024-11-28 22:59:11",
@@ -991,22 +991,6 @@
     {
       "added_at": "2024-11-28 22:59:11",
       "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/1ER6VomlolwkksGhW9OZuk"
-      },
-      "artists": [
-        {
-          "name": "Tito Torbellino",
-          "url": "https://open.spotify.com/artist/0c2yelD6HE33WZYXbn8CEJ"
-        }
-      ],
-      "duration_ms": 495186,
-      "name": "Micaela/ El Agua Lulco/ Camaron Pelao - En Vivo",
-      "url": "https://open.spotify.com/track/2J6yb4lXPupNZclWnRT2nJ"
-    },
-    {
-      "added_at": "2024-11-28 22:59:11",
-      "album": {
         "name": "Limonadas Verdes",
         "url": "https://open.spotify.com/album/6W8Ni4G40270CQ77gXjU0c"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 181666,
       "name": "Limonadas Verdes",
       "url": "https://open.spotify.com/track/7xAdE52Z6T1fcrhqUvPKFu"
+    },
+    {
+      "added_at": "2024-11-28 22:59:11",
+      "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/1ER6VomlolwkksGhW9OZuk"
+      },
+      "artists": [
+        {
+          "name": "Tito Torbellino",
+          "url": "https://open.spotify.com/artist/0c2yelD6HE33WZYXbn8CEJ"
+        }
+      ],
+      "duration_ms": 495186,
+      "name": "Micaela/ El Agua Lulco/ Camaron Pelao - En Vivo",
+      "url": "https://open.spotify.com/track/2J6yb4lXPupNZclWnRT2nJ"
     },
     {
       "added_at": "2024-11-28 22:59:11",

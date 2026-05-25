@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-11-29",
-  "description": "<a href=spotify:playlist:37i9dQZF1EIV1hAnuH1ilI>Justin Bieber</a>, <a href=spotify:playlist:37i9dQZF1EIViYkelREWYq>Surf Curse</a>, <a href=spotify:playlist:37i9dQZF1EIXDGo0vWYROm>Noah Kahan</a> and more",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIUY5V9mnUM6w>Junior H</a>, <a href=spotify:playlist:37i9dQZF1EIX7AhUgWTdp6>Hoobastank</a>, <a href=spotify:playlist:37i9dQZF1EIV1oCGxzhRed>Taylor Swift</a> and more",
   "name": "Sad Mix",
   "tracks": [
     {
@@ -1112,7 +1112,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-25",
       "duration_ms": 267610,
       "name": "Ana Ghaltan",
       "url": "https://open.spotify.com/track/7I2GzEUE2hADoq9uuAvYh7"
@@ -1520,7 +1520,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-13",
+      "date_removed": null,
       "duration_ms": 261922,
       "name": "august",
       "url": "https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K"
@@ -3194,7 +3194,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-25",
       "duration_ms": 252540,
       "name": "Cinta Dan Benci",
       "url": "https://open.spotify.com/track/42N27sa7uU9kJtj8NKCznx"
@@ -4506,7 +4506,7 @@
       ],
       "date_added": "2026-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-25",
       "duration_ms": 231086,
       "name": "Doors",
       "url": "https://open.spotify.com/track/3iU2qsthCTo5EeTE03l3Si"
@@ -5818,7 +5818,7 @@
       ],
       "date_added": "2026-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-25",
       "duration_ms": 147062,
       "name": "Freaks",
       "url": "https://open.spotify.com/track/7EkWXAI1wn8Ii883ecd9xr"
@@ -6050,7 +6050,7 @@
       ],
       "date_added": "2026-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-25",
       "duration_ms": 153190,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G"
@@ -6332,6 +6332,32 @@
       "duration_ms": 234761,
       "name": "Halley's Comet",
       "url": "https://open.spotify.com/track/5XsAal7ZcWg1I5T4NcRjkv"
+    },
+    {
+      "album": {
+        "name": "Hanju",
+        "url": "https://open.spotify.com/album/5WOh8BWk78FhbsZZlIG6O9"
+      },
+      "artists": [
+        {
+          "name": "Pardeep Sran",
+          "url": "https://open.spotify.com/artist/4LUGmBDuNtbBZp5naOMEnC"
+        },
+        {
+          "name": "Sukh Lotey",
+          "url": "https://open.spotify.com/artist/36HuUPCABTgaY4e8rgzSNG"
+        },
+        {
+          "name": "Geet",
+          "url": "https://open.spotify.com/artist/3jWuXbAR2GuuGrY0WgDA7W"
+        }
+      ],
+      "date_added": "2026-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169756,
+      "name": "Hanju",
+      "url": "https://open.spotify.com/track/5rJg0LdA2VtCtLeBWZycFd"
     },
     {
       "album": {
@@ -8143,6 +8169,24 @@
     },
     {
       "album": {
+        "name": "Jandi Jandi",
+        "url": "https://open.spotify.com/album/69W5bI3ZwIGqmnMVWk0Gvf"
+      },
+      "artists": [
+        {
+          "name": "Seera Buttar",
+          "url": "https://open.spotify.com/artist/4gYkupDdCRGvdDHFwQwLOr"
+        }
+      ],
+      "date_added": "2026-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312928,
+      "name": "Jandi Jandi",
+      "url": "https://open.spotify.com/track/01hXJstvprypIfikWgW80K"
+    },
+    {
+      "album": {
         "name": "Jane!",
         "url": "https://open.spotify.com/album/03HZu3A0gz8fPjrGfDKAsu"
       },
@@ -8790,7 +8834,7 @@
       ],
       "date_added": "2026-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-25",
       "duration_ms": 169732,
       "name": "Konty 2olely",
       "url": "https://open.spotify.com/track/2BMlZ6PzoAU90qm8yIGWMK"
@@ -10980,7 +11024,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-25",
       "duration_ms": 105437,
       "name": "mirrors demo",
       "url": "https://open.spotify.com/track/5Jh7Gc5aF6leolD64pNRD5"
@@ -12216,7 +12260,7 @@
       ],
       "date_added": "2026-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-25",
       "duration_ms": 247538,
       "name": "OTRO AMOR",
       "url": "https://open.spotify.com/track/45jWNNpTqJ4gSty54msOLx"
@@ -12764,7 +12808,7 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-24",
+      "date_removed": null,
       "duration_ms": 184816,
       "name": "Promises",
       "url": "https://open.spotify.com/track/55OfBElVAZDNBt1oCSungN"
@@ -14242,7 +14286,7 @@
       ],
       "date_added": "2026-03-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-02",
+      "date_removed": null,
       "duration_ms": 242106,
       "name": "Serpihan Hati",
       "url": "https://open.spotify.com/track/4b1kSgvZk3yfOkYrRD8utB"
@@ -16306,7 +16350,7 @@
       ],
       "date_added": "2026-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-07",
+      "date_removed": null,
       "duration_ms": 232800,
       "name": "The Reason",
       "url": "https://open.spotify.com/track/5B5eTk7DF8KVp1zpQoY1XY"
@@ -17206,7 +17250,7 @@
       ],
       "date_added": "2026-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-25",
       "duration_ms": 192127,
       "name": "Vampire Empire",
       "url": "https://open.spotify.com/track/4SwSpxsOYtnEaRxWtYrnvZ"
@@ -18130,7 +18174,7 @@
       ],
       "date_added": "2023-07-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-24",
+      "date_removed": null,
       "duration_ms": 210880,
       "name": "Wish You The Best",
       "url": "https://open.spotify.com/track/3gdPwk2wyOXNRnTA1KXnEr"
@@ -18274,7 +18318,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-21",
+      "date_removed": null,
       "duration_ms": 179013,
       "name": "Y LLORO",
       "url": "https://open.spotify.com/track/6RcAHyC5sAUIbPTkhOQwd8"
@@ -18292,7 +18336,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-25",
       "duration_ms": 204173,
       "name": "Ya Me Enter\u00e9",
       "url": "https://open.spotify.com/track/0lPXFrKyl8HkdQ2E6NmNja"
@@ -18762,7 +18806,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-24",
+      "date_removed": null,
       "duration_ms": 151426,
       "name": "\u0627\u062a\u0646\u0633\u064a\u0646\u0627",
       "url": "https://open.spotify.com/track/0kZtRxxBDbMO4vZApAiNOZ"
@@ -18816,7 +18860,7 @@
       ],
       "date_added": "2026-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-24",
+      "date_removed": null,
       "duration_ms": 202533,
       "name": "\u0628\u062a\u0634\u0628\u0647 \u0639\u0644\u064a\u0627 - Betshbah Alaya",
       "url": "https://open.spotify.com/track/4hJqaGLdeBTJ8vedfgm8cy"

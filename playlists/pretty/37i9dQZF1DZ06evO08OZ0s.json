@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ag+cgAAAAABGwzUSQzCL/OrLhCh1nKCF",
+  "snapshot_id": "ahDuAAAAAABL3rufxiRKxBnaYAIhXGoq",
   "tracks": [
     {
       "added_at": null,
@@ -503,26 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chemical Love",
-        "url": "https://open.spotify.com/album/3d3DI7Pa0sAwOowS30eODY"
-      },
-      "artists": [
-        {
-          "name": "Poylow",
-          "url": "https://open.spotify.com/artist/2u1KLzprGSRmfFhjt7MDYq"
-        },
-        {
-          "name": "Kelli-Leigh",
-          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
-        }
-      ],
-      "duration_ms": 126490,
-      "name": "Chemical Love",
-      "url": "https://open.spotify.com/track/47Bej2ql7So2t7oRJhcMKy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Remedy",
         "url": "https://open.spotify.com/album/16KynkMBKXCg4XW8kRn62M"
       },
@@ -543,6 +523,26 @@
       "duration_ms": 172250,
       "name": "The Remedy - Radio Edit",
       "url": "https://open.spotify.com/track/5jzPyxRmXJS0OUomBjFkmO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chemical Love",
+        "url": "https://open.spotify.com/album/3d3DI7Pa0sAwOowS30eODY"
+      },
+      "artists": [
+        {
+          "name": "Poylow",
+          "url": "https://open.spotify.com/artist/2u1KLzprGSRmfFhjt7MDYq"
+        },
+        {
+          "name": "Kelli-Leigh",
+          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
+        }
+      ],
+      "duration_ms": 126490,
+      "name": "Chemical Love",
+      "url": "https://open.spotify.com/track/47Bej2ql7So2t7oRJhcMKy"
     },
     {
       "added_at": null,
@@ -987,22 +987,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Can't Dance",
-        "url": "https://open.spotify.com/album/4VNcNJrUiO38Darw9itDSy"
+        "name": "LEGACY",
+        "url": "https://open.spotify.com/album/1qG5yVar9ZAHFuFqvtJ6QP"
       },
       "artists": [
         {
           "name": "Kelli-Leigh",
           "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
-        },
-        {
-          "name": "Art Bastian",
-          "url": "https://open.spotify.com/artist/2JblH86IoErnmhXVw5hEPy"
         }
       ],
-      "duration_ms": 166080,
-      "name": "Can't Dance - Club Radio Edit",
-      "url": "https://open.spotify.com/track/2DgETob6WjdoytobSj4uXe"
+      "duration_ms": 195172,
+      "name": "Back",
+      "url": "https://open.spotify.com/track/5FUcSDcDLigUyc4VJrrkjJ"
     },
     {
       "added_at": null,
@@ -1027,18 +1023,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "LEGACY",
-        "url": "https://open.spotify.com/album/1qG5yVar9ZAHFuFqvtJ6QP"
+        "name": "Can't Dance",
+        "url": "https://open.spotify.com/album/4VNcNJrUiO38Darw9itDSy"
       },
       "artists": [
         {
           "name": "Kelli-Leigh",
           "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
+        },
+        {
+          "name": "Art Bastian",
+          "url": "https://open.spotify.com/artist/2JblH86IoErnmhXVw5hEPy"
         }
       ],
-      "duration_ms": 195172,
-      "name": "Back",
-      "url": "https://open.spotify.com/track/5FUcSDcDLigUyc4VJrrkjJ"
+      "duration_ms": 166080,
+      "name": "Can't Dance - Club Radio Edit",
+      "url": "https://open.spotify.com/track/2DgETob6WjdoytobSj4uXe"
     },
     {
       "added_at": null,

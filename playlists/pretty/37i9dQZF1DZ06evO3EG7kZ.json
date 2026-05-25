@@ -1,12 +1,12 @@
 {
   "description": "This is Bluey. The essential tracks, all in one playlist.",
-  "num_followers": 51717,
+  "num_followers": 51730,
   "original_name": "This Is Bluey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ag+cgAAAAAAk8686xiJH2CM4Jurhh3IH",
+  "snapshot_id": "ahDuAAAAAABSyESgH8ORL8Ts+k9Em/oZ",
   "tracks": [
     {
       "added_at": null,
@@ -476,9 +476,9 @@
           "url": "https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV"
         }
       ],
-      "duration_ms": 105820,
-      "name": "Puppets",
-      "url": "https://open.spotify.com/track/1jj6Je2MpB2vZ6cfoK4nMl"
+      "duration_ms": 218653,
+      "name": "Flat Pack",
+      "url": "https://open.spotify.com/track/7q18RAxFkjWQZs5HhdlafS"
     },
     {
       "added_at": null,
@@ -536,9 +536,9 @@
           "url": "https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV"
         }
       ],
-      "duration_ms": 218653,
-      "name": "Flat Pack",
-      "url": "https://open.spotify.com/track/7q18RAxFkjWQZs5HhdlafS"
+      "duration_ms": 105820,
+      "name": "Puppets",
+      "url": "https://open.spotify.com/track/1jj6Je2MpB2vZ6cfoK4nMl"
     },
     {
       "added_at": null,

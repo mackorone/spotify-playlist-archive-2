@@ -1,6 +1,6 @@
 {
   "description": "Ya llegu\u00e9 de donde andaba... se me concedi\u00f3 volver \ud83d\ude4f\ud83c\udffe",
-  "num_followers": 331626,
+  "num_followers": 331667,
   "original_name": "Llegando al Rancho",
   "owner": {
     "name": "Spotify",
@@ -84,9 +84,9 @@
           "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
         }
       ],
-      "duration_ms": 216266,
-      "name": "En Definitiva",
-      "url": "https://open.spotify.com/track/6CRRlfXDdhsL6vih3J5xco"
+      "duration_ms": 211266,
+      "name": "El Paciente",
+      "url": "https://open.spotify.com/track/2Nk3gXgekore0lfB7PCnub"
     },
     {
       "added_at": "2025-08-13 19:30:31",
@@ -168,9 +168,9 @@
           "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
         }
       ],
-      "duration_ms": 211266,
-      "name": "El Paciente",
-      "url": "https://open.spotify.com/track/2Nk3gXgekore0lfB7PCnub"
+      "duration_ms": 216266,
+      "name": "En Definitiva",
+      "url": "https://open.spotify.com/track/6CRRlfXDdhsL6vih3J5xco"
     },
     {
       "added_at": "2025-08-13 19:30:31",
@@ -1003,18 +1003,18 @@
     {
       "added_at": "2025-08-13 19:30:31",
       "album": {
-        "name": "Vencedor",
-        "url": "https://open.spotify.com/album/0k0b9mpJt6tJMT26aIzpoe"
+        "name": "Mi Mexico Querido",
+        "url": "https://open.spotify.com/album/74CA8KMf2pVVGl7FBxexQ1"
       },
       "artists": [
         {
-          "name": "Valent\u00edn Elizalde",
-          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
         }
       ],
-      "duration_ms": 171026,
-      "name": "Te Quiero As\u00ed",
-      "url": "https://open.spotify.com/track/7cfpUwXVmVNwi0e0lKkII3"
+      "duration_ms": 212776,
+      "name": "Ramito De Violetas",
+      "url": "https://open.spotify.com/track/6sRaqq9SYsSTPvrWkL1sRy"
     },
     {
       "added_at": "2025-08-13 19:30:31",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2025-08-13 19:30:31",
       "album": {
-        "name": "Mi Mexico Querido",
-        "url": "https://open.spotify.com/album/74CA8KMf2pVVGl7FBxexQ1"
-      },
-      "artists": [
-        {
-          "name": "Mi Banda El Mexicano",
-          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
-        }
-      ],
-      "duration_ms": 212776,
-      "name": "Ramito De Violetas",
-      "url": "https://open.spotify.com/track/6sRaqq9SYsSTPvrWkL1sRy"
-    },
-    {
-      "added_at": "2025-08-13 19:30:31",
-      "album": {
         "name": "En Vivo desde El Foro Lizos Music",
         "url": "https://open.spotify.com/album/6Am6MERXwzXEATDw7cdnag"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 152186,
       "name": "Es Que Me Gustas - En Vivo",
       "url": "https://open.spotify.com/track/6nyl8kugrRsjzvpFhvw4hE"
+    },
+    {
+      "added_at": "2025-08-13 19:30:31",
+      "album": {
+        "name": "Vencedor",
+        "url": "https://open.spotify.com/album/0k0b9mpJt6tJMT26aIzpoe"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "duration_ms": 171026,
+      "name": "Te Quiero As\u00ed",
+      "url": "https://open.spotify.com/track/7cfpUwXVmVNwi0e0lKkII3"
     },
     {
       "added_at": "2025-08-13 19:30:31",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2025-08-13 19:30:31",
       "album": {
-        "name": "Vencedor",
-        "url": "https://open.spotify.com/album/0k0b9mpJt6tJMT26aIzpoe"
-      },
-      "artists": [
-        {
-          "name": "Valent\u00edn Elizalde",
-          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
-        }
-      ],
-      "duration_ms": 183813,
-      "name": "A Mis Enemigos",
-      "url": "https://open.spotify.com/track/0rRxqhX6w0IWTFSzzRFSOo"
-    },
-    {
-      "added_at": "2025-08-13 19:30:31",
-      "album": {
         "name": "Homenaje A Ramon Ayala",
         "url": "https://open.spotify.com/album/3Duc8M0fBz1UT53deyiec4"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 215400,
       "name": "Un Rinconcito en el Cielo",
       "url": "https://open.spotify.com/track/7wLxUIRidKDDIOBmq0TSyl"
+    },
+    {
+      "added_at": "2025-08-13 19:30:31",
+      "album": {
+        "name": "Vencedor",
+        "url": "https://open.spotify.com/album/0k0b9mpJt6tJMT26aIzpoe"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "duration_ms": 183813,
+      "name": "A Mis Enemigos",
+      "url": "https://open.spotify.com/track/0rRxqhX6w0IWTFSzzRFSOo"
     },
     {
       "added_at": "2025-08-13 19:30:31",
@@ -1339,26 +1339,6 @@
     {
       "added_at": "2025-08-13 19:30:31",
       "album": {
-        "name": "Mis Compas Vol. 1",
-        "url": "https://open.spotify.com/album/5yFMiYNofsNSNFcou6VcGa"
-      },
-      "artists": [
-        {
-          "name": "Joss Favela",
-          "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 177900,
-      "name": "Con Todo Respetillo",
-      "url": "https://open.spotify.com/track/7LPcTHeoskQiZ6tv84ZYTa"
-    },
-    {
-      "added_at": "2025-08-13 19:30:31",
-      "album": {
         "name": "Pistiando y Cantando",
         "url": "https://open.spotify.com/album/0wMUKIvlpMpn6pHUBo7371"
       },
@@ -1375,6 +1355,26 @@
       "duration_ms": 184750,
       "name": "Por Que Te Vas De Mi",
       "url": "https://open.spotify.com/track/2sTtOh2i7bBe7ypfj3GUZ4"
+    },
+    {
+      "added_at": "2025-08-13 19:30:31",
+      "album": {
+        "name": "Mis Compas Vol. 1",
+        "url": "https://open.spotify.com/album/5yFMiYNofsNSNFcou6VcGa"
+      },
+      "artists": [
+        {
+          "name": "Joss Favela",
+          "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 177900,
+      "name": "Con Todo Respetillo",
+      "url": "https://open.spotify.com/track/7LPcTHeoskQiZ6tv84ZYTa"
     },
     {
       "added_at": "2025-08-13 19:30:31",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2025-08-13 19:30:31",
       "album": {
-        "name": "Yo Vendo Unos Ojos Verdes",
-        "url": "https://open.spotify.com/album/1Yw1ofXYmmEbmleLmNEfYZ"
-      },
-      "artists": [
-        {
-          "name": "Ezequiel Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty"
-        }
-      ],
-      "duration_ms": 197400,
-      "name": "Prefiero Partir",
-      "url": "https://open.spotify.com/track/5jPB0XbTQ89o5DDd0WzJ6p"
-    },
-    {
-      "added_at": "2025-08-13 19:30:31",
-      "album": {
         "name": "Me Rindo",
         "url": "https://open.spotify.com/album/5Jeg7MzgKFXenbJAcD64Hj"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 189493,
       "name": "Esta Noche Tu Vendr\u00e1s",
       "url": "https://open.spotify.com/track/2wHcALEBx39LP7ziwlHkSQ"
+    },
+    {
+      "added_at": "2025-08-13 19:30:31",
+      "album": {
+        "name": "Yo Vendo Unos Ojos Verdes",
+        "url": "https://open.spotify.com/album/1Yw1ofXYmmEbmleLmNEfYZ"
+      },
+      "artists": [
+        {
+          "name": "Ezequiel Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty"
+        }
+      ],
+      "duration_ms": 197400,
+      "name": "Prefiero Partir",
+      "url": "https://open.spotify.com/track/5jPB0XbTQ89o5DDd0WzJ6p"
     },
     {
       "added_at": "2025-08-13 19:30:31",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2025-08-13 19:30:31",
       "album": {
-        "name": "El Borracho",
-        "url": "https://open.spotify.com/album/5njN1rfBj1cSTtGAV16lta"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 159694,
-      "name": "Mis Ra\u00edces",
-      "url": "https://open.spotify.com/track/3VbqAMmP2nCkxWfEFj9v0D"
-    },
-    {
-      "added_at": "2025-08-13 19:30:31",
-      "album": {
         "name": "Corridos Arrolladores",
         "url": "https://open.spotify.com/album/6X8lyLxsx0CjQC2zmB5tBM"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 189386,
       "name": "El Tarasco",
       "url": "https://open.spotify.com/track/2CERhSl038O4NVErqwjzNj"
+    },
+    {
+      "added_at": "2025-08-13 19:30:31",
+      "album": {
+        "name": "El Borracho",
+        "url": "https://open.spotify.com/album/5njN1rfBj1cSTtGAV16lta"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 159694,
+      "name": "Mis Ra\u00edces",
+      "url": "https://open.spotify.com/track/3VbqAMmP2nCkxWfEFj9v0D"
     },
     {
       "added_at": "2025-08-13 19:30:31",
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2025-08-13 19:30:31",
       "album": {
-        "name": "Celos del Viento y Corridos Impactantes",
-        "url": "https://open.spotify.com/album/0taQnd9YyP7HL8nKc1buow"
-      },
-      "artists": [
-        {
-          "name": "Los Canelos De Durango",
-          "url": "https://open.spotify.com/artist/4XAsg7uclewySpdLcD81LJ"
-        }
-      ],
-      "duration_ms": 167493,
-      "name": "Celos del Viento",
-      "url": "https://open.spotify.com/track/2l7STJBQ626zUw7cK40ioX"
-    },
-    {
-      "added_at": "2025-08-13 19:30:31",
-      "album": {
         "name": "Se Me Canso El Corazon",
         "url": "https://open.spotify.com/album/2SQA2dNyXsqxSKZJ52osuq"
       },
@@ -1747,6 +1731,22 @@
       "duration_ms": 168026,
       "name": "Los Tres Gallos",
       "url": "https://open.spotify.com/track/23i2YYyRUNEGbeJoBWXdUY"
+    },
+    {
+      "added_at": "2025-08-13 19:30:31",
+      "album": {
+        "name": "Celos del Viento y Corridos Impactantes",
+        "url": "https://open.spotify.com/album/0taQnd9YyP7HL8nKc1buow"
+      },
+      "artists": [
+        {
+          "name": "Los Canelos De Durango",
+          "url": "https://open.spotify.com/artist/4XAsg7uclewySpdLcD81LJ"
+        }
+      ],
+      "duration_ms": 167493,
+      "name": "Celos del Viento",
+      "url": "https://open.spotify.com/track/2l7STJBQ626zUw7cK40ioX"
     },
     {
       "added_at": "2025-08-13 19:30:31",
@@ -1799,22 +1799,6 @@
     {
       "added_at": "2025-08-13 19:30:31",
       "album": {
-        "name": "Exitos De Los Invasores De Nuevo Leon",
-        "url": "https://open.spotify.com/album/1C83ZkDnK0EL5RMM1hRU1C"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 166106,
-      "name": "Que No Se Apague La Lumbre",
-      "url": "https://open.spotify.com/track/4WLBbFY3jON97NHf7gh5OO"
-    },
-    {
-      "added_at": "2025-08-13 19:30:31",
-      "album": {
         "name": "Antes De Partir",
         "url": "https://open.spotify.com/album/28Kb1pmRPsiBUFKSCs1Qlq"
       },
@@ -1827,6 +1811,22 @@
       "duration_ms": 141920,
       "name": "Lucio Vazquez",
       "url": "https://open.spotify.com/track/7xygLT3mUqdhdz80VfsN3f"
+    },
+    {
+      "added_at": "2025-08-13 19:30:31",
+      "album": {
+        "name": "Exitos De Los Invasores De Nuevo Leon",
+        "url": "https://open.spotify.com/album/1C83ZkDnK0EL5RMM1hRU1C"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 166106,
+      "name": "Que No Se Apague La Lumbre",
+      "url": "https://open.spotify.com/track/4WLBbFY3jON97NHf7gh5OO"
     },
     {
       "added_at": "2025-08-13 19:30:31",
@@ -1911,22 +1911,6 @@
     {
       "added_at": "2025-08-13 19:30:31",
       "album": {
-        "name": "Vali\u00f3 La Pena Equivocarme",
-        "url": "https://open.spotify.com/album/4t7S30Ny12DvWnGAY6JpUm"
-      },
-      "artists": [
-        {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
-        }
-      ],
-      "duration_ms": 142773,
-      "name": "Ojitos Verdes",
-      "url": "https://open.spotify.com/track/2IQNiCvRnwTmd2Ddo2QR5Q"
-    },
-    {
-      "added_at": "2025-08-13 19:30:31",
-      "album": {
         "name": "La M\u00e1s Completa Colecci\u00f3n - Mexico (Disc 2)",
         "url": "https://open.spotify.com/album/1XYrp5zF2JR45KOO83uJZj"
       },
@@ -1939,6 +1923,22 @@
       "duration_ms": 155466,
       "name": "Por Las Calles De Chihuahua - En Vivo",
       "url": "https://open.spotify.com/track/6BYPMlys5yt6pJlYZIGRtU"
+    },
+    {
+      "added_at": "2025-08-13 19:30:31",
+      "album": {
+        "name": "Vali\u00f3 La Pena Equivocarme",
+        "url": "https://open.spotify.com/album/4t7S30Ny12DvWnGAY6JpUm"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "duration_ms": 142773,
+      "name": "Ojitos Verdes",
+      "url": "https://open.spotify.com/track/2IQNiCvRnwTmd2Ddo2QR5Q"
     },
     {
       "added_at": "2025-08-13 19:30:31",
@@ -2203,22 +2203,6 @@
     {
       "added_at": "2025-08-13 19:30:31",
       "album": {
-        "name": "Pa' Puros Compas!, Vol. 1: Por una Mujer Casada y Otras Rancheras",
-        "url": "https://open.spotify.com/album/5jqZyPBi6NXenINRZ7e0QJ"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 128733,
-      "name": "Por una Mujer Casada",
-      "url": "https://open.spotify.com/track/1xheTAuldO0KID60sAQkIo"
-    },
-    {
-      "added_at": "2025-08-13 19:30:31",
-      "album": {
         "name": "Imprescindibles",
         "url": "https://open.spotify.com/album/55QcIDyo41sAS9L27I6uRE"
       },
@@ -2231,6 +2215,22 @@
       "duration_ms": 142640,
       "name": "No Porque Seas T\u00fa",
       "url": "https://open.spotify.com/track/79kcLoI5YEYCuAANwIYuE5"
+    },
+    {
+      "added_at": "2025-08-13 19:30:31",
+      "album": {
+        "name": "Pa' Puros Compas!, Vol. 1: Por una Mujer Casada y Otras Rancheras",
+        "url": "https://open.spotify.com/album/5jqZyPBi6NXenINRZ7e0QJ"
+      },
+      "artists": [
+        {
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+        }
+      ],
+      "duration_ms": 128733,
+      "name": "Por una Mujer Casada",
+      "url": "https://open.spotify.com/track/1xheTAuldO0KID60sAQkIo"
     },
     {
       "added_at": "2025-08-13 19:30:31",

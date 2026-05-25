@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyjRnMgESue.md) - [plain]
 
 > The best new songs from modern singer\-songwriters\. Cover: Tyler Ballgame
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,927 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,943 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyjRnMgESue.md) - [plain]
 | 31 | [Hold My Love](https://open.spotify.com/track/6YkUGh3Tl6dNVYRz0rgyLo) | [Hans Williams](https://open.spotify.com/artist/3SEkDN2vusR7CIyehzfJaj) | [Hold My Love](https://open.spotify.com/album/5nHPiP5rhIa3VJhRKqguBR) | 3:24 |
 | 32 | [Elderberry Wine](https://open.spotify.com/track/00lSB9CSyOcsxKVtbPbniL) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Bleeds](https://open.spotify.com/album/29HKbQ2pgXgElTnH66mFXK) | 3:35 |
 | 33 | [Feeling](https://open.spotify.com/track/59S8JfBTZo1jZhwCgwzEYz) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Dog Eared](https://open.spotify.com/album/79zQn0JeZ9tVX2T0VvpDGi) | 3:20 |
-| 34 | [Los Angeles](https://open.spotify.com/track/5TSj6ySt4WqDuljv61Q4D5) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Double Infinity](https://open.spotify.com/album/1yEo1ZJE5ZgIF7LYrDTbMK) | 3:57 |
-| 35 | [When A Good Man Cries](https://open.spotify.com/track/6VXIZWHmdOTHIFhsSkYFgQ) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [EURO\-COUNTRY](https://open.spotify.com/album/6p8GFQi9D44s9ODeml47ag) | 4:32 |
+| 34 | [When A Good Man Cries](https://open.spotify.com/track/6VXIZWHmdOTHIFhsSkYFgQ) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [EURO\-COUNTRY](https://open.spotify.com/album/6p8GFQi9D44s9ODeml47ag) | 4:32 |
+| 35 | [Los Angeles](https://open.spotify.com/track/5TSj6ySt4WqDuljv61Q4D5) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Double Infinity](https://open.spotify.com/album/1yEo1ZJE5ZgIF7LYrDTbMK) | 3:57 |
 | 36 | [Where's My Love \- with Carla](https://open.spotify.com/track/50fvAL9S2IfvMWinKtSEBQ) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0), [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Where's My Love \(with Carla\)](https://open.spotify.com/album/4zC14Rw1n7omTz4JYAbNuu) | 4:03 |
 | 37 | [Audrey Hepburn](https://open.spotify.com/track/7hoPbfGuOZe6FKBlwB2d21) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [You You You / Audrey Hepburn](https://open.spotify.com/album/2IHW6rf6xGNhT1HuMEG5Pu) | 3:06 |
 | 38 | [Real Thing](https://open.spotify.com/track/7z5wTQlgqpCm3kvhn6s9Xh) | [Drugdealer](https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ), [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [Real Thing](https://open.spotify.com/album/1yx1ve9BzAO7hLIzcStCJv) | 3:25 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyjRnMgESue.md) - [plain]
 | 80 | [Dandelions](https://open.spotify.com/track/1fUf8SAn46V1VzyxLs7e6g) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [Dandelions](https://open.spotify.com/album/5ce2H7wGbz3Fty4IYYPPpw) | 4:09 |
 | 81 | [Like The Rain](https://open.spotify.com/track/0qBoobvEvFNnbCzvgtHjM8) | [Andrea Bejar](https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8) | [Love Again](https://open.spotify.com/album/55GVOmy6g6oRXIuUklMxnS) | 3:07 |
 | 82 | [happy ending](https://open.spotify.com/track/2xSoj3qiRpbTd2ku7pvMvd) | [Anna Clendening](https://open.spotify.com/artist/2y9j8qUwBMGPYPQJJxmYzD) | [happy ending](https://open.spotify.com/album/2wqktjryHxu6i4Mof6tWtL) | 2:37 |
-| 83 | [The Surface](https://open.spotify.com/track/4329XA7OGxcJXruj4nirnn) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [The Surface](https://open.spotify.com/album/08x9Txl6jTNKIgfL64iwaG) | 3:55 |
-| 84 | [Returning To Myself](https://open.spotify.com/track/1AMUwhjbPqBvcPW4itoNXB) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Returning To Myself](https://open.spotify.com/album/59fZ3nKVEopfpxyRRr1Ksl) | 4:17 |
+| 83 | [Returning To Myself](https://open.spotify.com/track/1AMUwhjbPqBvcPW4itoNXB) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Returning To Myself](https://open.spotify.com/album/59fZ3nKVEopfpxyRRr1Ksl) | 4:17 |
+| 84 | [The Surface](https://open.spotify.com/track/4329XA7OGxcJXruj4nirnn) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [The Surface](https://open.spotify.com/album/08x9Txl6jTNKIgfL64iwaG) | 3:55 |
 | 85 | [I Talk About You](https://open.spotify.com/track/0SyTYyawIrIkBpdOH9B34c) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [I Talk About You](https://open.spotify.com/album/59VlISV9li61ECMjfCmQnv) | 3:30 |
 | 86 | [KISSING](https://open.spotify.com/track/4RSkew0j4MPCAq7WfVfi8P) | [Paige Fish](https://open.spotify.com/artist/10djoaqJLN6H4oORnKJ63P) | [Daisy](https://open.spotify.com/album/5l746yNWWESUlLuveqla2p) | 2:40 |
 | 87 | [Call of Duty](https://open.spotify.com/track/7CyTAwPV2r7pBfZt9fVNDG) | [Kevin Atwater](https://open.spotify.com/artist/6ZBM319vNIirp7FOvvLVD6) | [Achilles](https://open.spotify.com/album/5baUTzkWiIeFGyEWFAMYB7) | 3:11 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyjRnMgESue.md) - [plain]
 | 99 | [I Love Being Wrong](https://open.spotify.com/track/5Jc9bnCD014SgJzz8npVrp) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [I Love Being Wrong](https://open.spotify.com/album/4dGzA7HNh8Fi9dHMhGr6Jn) | 4:48 |
 | 100 | [Not Broken](https://open.spotify.com/track/0mQTDyVOHUVmgAU17SP8uR) | [Alan Sparhawk](https://open.spotify.com/artist/7ljTofQBh5fR5SYfGHRYs8), [Trampled by Turtles](https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4) | [Alan Sparhawk with Trampled by Turtles](https://open.spotify.com/album/1x0de2EjrGot84ocdigfUa) | 3:22 |
 
-Snapshot ID: `AAAAAD3UPbOc69QIJ7IJirabzSRM1JaO`
+Snapshot ID: `AAAAAHiyUsA9uWaX4TwT6O++9iLoovoP`

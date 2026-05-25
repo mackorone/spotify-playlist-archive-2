@@ -1,6 +1,6 @@
 {
   "description": "Entre na onda com hits tropicais e remixes para curtir a praia com amigos.",
-  "num_followers": 506290,
+  "num_followers": 506305,
   "original_name": "Festa na Praia",
   "owner": {
     "name": "Spotify",
@@ -299,30 +299,6 @@
     {
       "added_at": "2026-02-13 15:25:57",
       "album": {
-        "name": "Fica Tudo Bem (Bhaskar Remix)",
-        "url": "https://open.spotify.com/album/1SQmuxKhiwwGEAUO8ro97t"
-      },
-      "artists": [
-        {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        },
-        {
-          "name": "Bhaskar",
-          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
-        }
-      ],
-      "duration_ms": 174125,
-      "name": "Fica Tudo Bem - Bhaskar Remix",
-      "url": "https://open.spotify.com/track/7jLwNbEykLVZldRuvngpl9"
-    },
-    {
-      "added_at": "2026-02-13 15:25:57",
-      "album": {
         "name": "Free My Mind",
         "url": "https://open.spotify.com/album/6YoRnsRWfFtEFK2G8s5AaM"
       },
@@ -343,6 +319,30 @@
       "duration_ms": 160645,
       "name": "Free My Mind",
       "url": "https://open.spotify.com/track/0zzvDzEAaIXUYG97UO9iVB"
+    },
+    {
+      "added_at": "2026-02-13 15:25:57",
+      "album": {
+        "name": "Fica Tudo Bem (Bhaskar Remix)",
+        "url": "https://open.spotify.com/album/1SQmuxKhiwwGEAUO8ro97t"
+      },
+      "artists": [
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Bhaskar",
+          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
+        }
+      ],
+      "duration_ms": 174125,
+      "name": "Fica Tudo Bem - Bhaskar Remix",
+      "url": "https://open.spotify.com/track/7jLwNbEykLVZldRuvngpl9"
     },
     {
       "added_at": "2026-02-13 15:25:57",
@@ -415,30 +415,6 @@
     {
       "added_at": "2026-02-13 15:25:57",
       "album": {
-        "name": "Algum Ritmo (Remix)",
-        "url": "https://open.spotify.com/album/1FfRtToPv63IurU5tHWyn2"
-      },
-      "artists": [
-        {
-          "name": "Sevenn",
-          "url": "https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4"
-        },
-        {
-          "name": "Gilsons",
-          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
-        },
-        {
-          "name": "Jovem Dionisio",
-          "url": "https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ"
-        }
-      ],
-      "duration_ms": 197419,
-      "name": "Algum Ritmo - Remix",
-      "url": "https://open.spotify.com/track/2oMlMXJUUKtLrsw6jCVyHG"
-    },
-    {
-      "added_at": "2026-02-13 15:25:57",
-      "album": {
         "name": "Boa Sorte (Alok, Vanessa da Mata e Cat Dealers)",
         "url": "https://open.spotify.com/album/0n06oWsR6j9iFYWPpqqibF"
       },
@@ -459,6 +435,30 @@
       "duration_ms": 191612,
       "name": "Boa Sorte (Alok, Vanessa da Mata e Cat Dealers)",
       "url": "https://open.spotify.com/track/4smXdvRpH5aqlqTzNKCFAh"
+    },
+    {
+      "added_at": "2026-02-13 15:25:57",
+      "album": {
+        "name": "Algum Ritmo (Remix)",
+        "url": "https://open.spotify.com/album/1FfRtToPv63IurU5tHWyn2"
+      },
+      "artists": [
+        {
+          "name": "Sevenn",
+          "url": "https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4"
+        },
+        {
+          "name": "Gilsons",
+          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
+        },
+        {
+          "name": "Jovem Dionisio",
+          "url": "https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ"
+        }
+      ],
+      "duration_ms": 197419,
+      "name": "Algum Ritmo - Remix",
+      "url": "https://open.spotify.com/track/2oMlMXJUUKtLrsw6jCVyHG"
     },
     {
       "added_at": "2026-02-13 15:25:57",
@@ -755,6 +755,26 @@
     {
       "added_at": "2026-02-13 15:25:57",
       "album": {
+        "name": "The Truth",
+        "url": "https://open.spotify.com/album/3NLjETPKVCukXj19Ol7Grj"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Valerie Broussard",
+          "url": "https://open.spotify.com/artist/6eVWXmKBW7Iltub01D9R1c"
+        }
+      ],
+      "duration_ms": 193747,
+      "name": "The Truth",
+      "url": "https://open.spotify.com/track/4NmOJQxl9UZItUQQtMDYBb"
+    },
+    {
+      "added_at": "2026-02-13 15:25:57",
+      "album": {
         "name": "Save Me",
         "url": "https://open.spotify.com/album/4c4mMrajgxaTdPyYaDcCSf"
       },
@@ -779,50 +799,6 @@
       "duration_ms": 160429,
       "name": "Save Me",
       "url": "https://open.spotify.com/track/3Fq1tzIgvxTm0pRcqVbsRy"
-    },
-    {
-      "added_at": "2026-02-13 15:25:57",
-      "album": {
-        "name": "The Truth",
-        "url": "https://open.spotify.com/album/3NLjETPKVCukXj19Ol7Grj"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Valerie Broussard",
-          "url": "https://open.spotify.com/artist/6eVWXmKBW7Iltub01D9R1c"
-        }
-      ],
-      "duration_ms": 193747,
-      "name": "The Truth",
-      "url": "https://open.spotify.com/track/4NmOJQxl9UZItUQQtMDYBb"
-    },
-    {
-      "added_at": "2026-02-13 15:25:57",
-      "album": {
-        "name": "Lil\u00e1s",
-        "url": "https://open.spotify.com/album/28FXnWF3WGPDZLgNP08M9W"
-      },
-      "artists": [
-        {
-          "name": "Pic Schmitz",
-          "url": "https://open.spotify.com/artist/1sE1LdTZxsVYyGl84vl9zl"
-        },
-        {
-          "name": "Windy City Classics",
-          "url": "https://open.spotify.com/artist/7DHW83PorP554oWiE7pn8m"
-        },
-        {
-          "name": "Lucas Borchardt",
-          "url": "https://open.spotify.com/artist/1awSZh0X5DJMLQVgx8TyeR"
-        }
-      ],
-      "duration_ms": 187741,
-      "name": "Lil\u00e1s",
-      "url": "https://open.spotify.com/track/3MCmAAKZRaIFRhpfSYo6OP"
     },
     {
       "added_at": "2026-02-13 15:25:57",
@@ -855,6 +831,30 @@
     {
       "added_at": "2026-02-13 15:25:57",
       "album": {
+        "name": "Lil\u00e1s",
+        "url": "https://open.spotify.com/album/28FXnWF3WGPDZLgNP08M9W"
+      },
+      "artists": [
+        {
+          "name": "Pic Schmitz",
+          "url": "https://open.spotify.com/artist/1sE1LdTZxsVYyGl84vl9zl"
+        },
+        {
+          "name": "Windy City Classics",
+          "url": "https://open.spotify.com/artist/7DHW83PorP554oWiE7pn8m"
+        },
+        {
+          "name": "Lucas Borchardt",
+          "url": "https://open.spotify.com/artist/1awSZh0X5DJMLQVgx8TyeR"
+        }
+      ],
+      "duration_ms": 187741,
+      "name": "Lil\u00e1s",
+      "url": "https://open.spotify.com/track/3MCmAAKZRaIFRhpfSYo6OP"
+    },
+    {
+      "added_at": "2026-02-13 15:25:57",
+      "album": {
         "name": "Carla (Remix)",
         "url": "https://open.spotify.com/album/2ZBMQ8LmhC17Ft6aeg6Dyh"
       },
@@ -875,6 +875,30 @@
       "duration_ms": 194905,
       "name": "Carla - Remix",
       "url": "https://open.spotify.com/track/4P4e4EyMLqYq2XACkIhMny"
+    },
+    {
+      "added_at": "2026-02-13 15:25:57",
+      "album": {
+        "name": "E Depois (Que Sorte A Minha)",
+        "url": "https://open.spotify.com/album/0ICc6IqSIkLkS2idTkFXu0"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Seu Jorge",
+          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
+        },
+        {
+          "name": "BiD",
+          "url": "https://open.spotify.com/artist/1kDJFTg4KHIPymr1A6Vylm"
+        }
+      ],
+      "duration_ms": 220125,
+      "name": "E Depois (Que Sorte A Minha)",
+      "url": "https://open.spotify.com/track/214FzhGa7IXferIhbZ9KnL"
     },
     {
       "added_at": "2026-02-13 15:25:57",
@@ -915,30 +939,6 @@
       "duration_ms": 160000,
       "name": "Brazil",
       "url": "https://open.spotify.com/track/7aoiWBO8doJwpmDlAwVHu6"
-    },
-    {
-      "added_at": "2026-02-13 15:25:57",
-      "album": {
-        "name": "E Depois (Que Sorte A Minha)",
-        "url": "https://open.spotify.com/album/0ICc6IqSIkLkS2idTkFXu0"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Seu Jorge",
-          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
-        },
-        {
-          "name": "BiD",
-          "url": "https://open.spotify.com/artist/1kDJFTg4KHIPymr1A6Vylm"
-        }
-      ],
-      "duration_ms": 220125,
-      "name": "E Depois (Que Sorte A Minha)",
-      "url": "https://open.spotify.com/track/214FzhGa7IXferIhbZ9KnL"
     },
     {
       "added_at": "2026-02-13 15:25:57",
@@ -1023,6 +1023,34 @@
       "duration_ms": 192000,
       "name": "Z\u00e9 do caro\u00e7o",
       "url": "https://open.spotify.com/track/0AKNWA4m7jhh4SdZxKMC0R"
+    },
+    {
+      "added_at": "2026-02-13 15:25:57",
+      "album": {
+        "name": "Dog Days",
+        "url": "https://open.spotify.com/album/6UvLhOcuUReZcUI1pb1MiU"
+      },
+      "artists": [
+        {
+          "name": "Dubdogz",
+          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+        },
+        {
+          "name": "Brannco",
+          "url": "https://open.spotify.com/artist/27TqtA3DJFLCXv7o8h0GgL"
+        },
+        {
+          "name": "Rodrigo Luca",
+          "url": "https://open.spotify.com/artist/0rfjTf0SkufosBwBlstrL6"
+        },
+        {
+          "name": "Izabelle",
+          "url": "https://open.spotify.com/artist/2Ktj3YHxooxKLdFWOCOHjG"
+        }
+      ],
+      "duration_ms": 251612,
+      "name": "Dog Days",
+      "url": "https://open.spotify.com/track/6zPDwf03dl0pLRh9MTtxeb"
     },
     {
       "added_at": "2026-02-13 15:25:57",
@@ -1135,34 +1163,6 @@
     {
       "added_at": "2026-02-13 15:25:57",
       "album": {
-        "name": "Dog Days",
-        "url": "https://open.spotify.com/album/6UvLhOcuUReZcUI1pb1MiU"
-      },
-      "artists": [
-        {
-          "name": "Dubdogz",
-          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
-        },
-        {
-          "name": "Brannco",
-          "url": "https://open.spotify.com/artist/27TqtA3DJFLCXv7o8h0GgL"
-        },
-        {
-          "name": "Rodrigo Luca",
-          "url": "https://open.spotify.com/artist/0rfjTf0SkufosBwBlstrL6"
-        },
-        {
-          "name": "Izabelle",
-          "url": "https://open.spotify.com/artist/2Ktj3YHxooxKLdFWOCOHjG"
-        }
-      ],
-      "duration_ms": 251612,
-      "name": "Dog Days",
-      "url": "https://open.spotify.com/track/6zPDwf03dl0pLRh9MTtxeb"
-    },
-    {
-      "added_at": "2026-02-13 15:25:57",
-      "album": {
         "name": "Blind",
         "url": "https://open.spotify.com/album/3akUV8y4pLkrrUA1Lbc2x9"
       },
@@ -1199,26 +1199,6 @@
     {
       "added_at": "2026-02-13 15:25:57",
       "album": {
-        "name": "Somebody That You Loved",
-        "url": "https://open.spotify.com/album/2hZK1aGxPqE8XMyUK8bV79"
-      },
-      "artists": [
-        {
-          "name": "Bruno Martini",
-          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
-        },
-        {
-          "name": "New Hope Club",
-          "url": "https://open.spotify.com/artist/2WuKU0SYZOQyY3MmE4vtez"
-        }
-      ],
-      "duration_ms": 215998,
-      "name": "Somebody That You Loved",
-      "url": "https://open.spotify.com/track/2x6kFL5AIIwacxHySO4mXP"
-    },
-    {
-      "added_at": "2026-02-13 15:25:57",
-      "album": {
         "name": "Blitz (Voc\u00ea N\u00e3o Soube Me Amar)",
         "url": "https://open.spotify.com/album/4u1iSVei2vJgYCjhBqT5b0"
       },
@@ -1239,22 +1219,22 @@
     {
       "added_at": "2026-02-13 15:25:57",
       "album": {
-        "name": "O Descobridor dos Sete Mares",
-        "url": "https://open.spotify.com/album/4DBbseTNsBbkEDe2mTW2cd"
+        "name": "Somebody That You Loved",
+        "url": "https://open.spotify.com/album/2hZK1aGxPqE8XMyUK8bV79"
       },
       "artists": [
         {
-          "name": "WhyNot Music",
-          "url": "https://open.spotify.com/artist/6yrqe8zFWIjaEVaUd00n1m"
+          "name": "Bruno Martini",
+          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
         },
         {
-          "name": "Rodrigo S\u00e1",
-          "url": "https://open.spotify.com/artist/1ttThBcIEeYfzDZ4rYT3Ho"
+          "name": "New Hope Club",
+          "url": "https://open.spotify.com/artist/2WuKU0SYZOQyY3MmE4vtez"
         }
       ],
-      "duration_ms": 212640,
-      "name": "O Descobridor dos Sete Mares",
-      "url": "https://open.spotify.com/track/6bEBNUXuY9zKjSYFGGyL1E"
+      "duration_ms": 215998,
+      "name": "Somebody That You Loved",
+      "url": "https://open.spotify.com/track/2x6kFL5AIIwacxHySO4mXP"
     },
     {
       "added_at": "2026-02-13 15:25:57",
@@ -1283,30 +1263,22 @@
     {
       "added_at": "2026-02-13 15:25:57",
       "album": {
-        "name": "Quem N\u00e3o Quer Sou Eu",
-        "url": "https://open.spotify.com/album/5W6Q0cY6UPrE8xETTenYVr"
+        "name": "O Descobridor dos Sete Mares",
+        "url": "https://open.spotify.com/album/4DBbseTNsBbkEDe2mTW2cd"
       },
       "artists": [
         {
-          "name": "DJ TOPO",
-          "url": "https://open.spotify.com/artist/0xj9MJx9r0wO2o4aqdergP"
+          "name": "WhyNot Music",
+          "url": "https://open.spotify.com/artist/6yrqe8zFWIjaEVaUd00n1m"
         },
         {
-          "name": "Dubdogz",
-          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
-        },
-        {
-          "name": "Santti",
-          "url": "https://open.spotify.com/artist/7e6KqpXfInWHjdQufAnsyj"
-        },
-        {
-          "name": "Seu Jorge",
-          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
+          "name": "Rodrigo S\u00e1",
+          "url": "https://open.spotify.com/artist/1ttThBcIEeYfzDZ4rYT3Ho"
         }
       ],
-      "duration_ms": 178205,
-      "name": "Quem N\u00e3o Quer Sou Eu",
-      "url": "https://open.spotify.com/track/2kVbOlICxuNwFU8pFEx12q"
+      "duration_ms": 212640,
+      "name": "O Descobridor dos Sete Mares",
+      "url": "https://open.spotify.com/track/6bEBNUXuY9zKjSYFGGyL1E"
     },
     {
       "added_at": "2026-02-13 15:25:57",
@@ -1331,6 +1303,34 @@
       "duration_ms": 179512,
       "name": "Summertime Sadness",
       "url": "https://open.spotify.com/track/1AlCvRJFF2Ze5FX54uHZqb"
+    },
+    {
+      "added_at": "2026-02-13 15:25:57",
+      "album": {
+        "name": "Quem N\u00e3o Quer Sou Eu",
+        "url": "https://open.spotify.com/album/5W6Q0cY6UPrE8xETTenYVr"
+      },
+      "artists": [
+        {
+          "name": "DJ TOPO",
+          "url": "https://open.spotify.com/artist/0xj9MJx9r0wO2o4aqdergP"
+        },
+        {
+          "name": "Dubdogz",
+          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+        },
+        {
+          "name": "Santti",
+          "url": "https://open.spotify.com/artist/7e6KqpXfInWHjdQufAnsyj"
+        },
+        {
+          "name": "Seu Jorge",
+          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
+        }
+      ],
+      "duration_ms": 178205,
+      "name": "Quem N\u00e3o Quer Sou Eu",
+      "url": "https://open.spotify.com/track/2kVbOlICxuNwFU8pFEx12q"
     },
     {
       "added_at": "2026-02-13 15:25:57",
@@ -1403,26 +1403,6 @@
     {
       "added_at": "2026-02-13 15:25:57",
       "album": {
-        "name": "Please Don't Go (Bruno Martini Remix)",
-        "url": "https://open.spotify.com/album/5gHdb3YQGim7COUZgsPWdt"
-      },
-      "artists": [
-        {
-          "name": "Double You",
-          "url": "https://open.spotify.com/artist/2x0mCNdW4P27f3WE0iuQTV"
-        },
-        {
-          "name": "Bruno Martini",
-          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
-        }
-      ],
-      "duration_ms": 158774,
-      "name": "Please Don't Go - Bruno Martini Remix",
-      "url": "https://open.spotify.com/track/35hL1RBchmPifhV6T1OXxI"
-    },
-    {
-      "added_at": "2026-02-13 15:25:57",
-      "album": {
         "name": "Alok Presents Brazilian Bass: Pt. 1",
         "url": "https://open.spotify.com/album/1tgfni2oyGJMqrl73x3r6Z"
       },
@@ -1439,6 +1419,26 @@
       "duration_ms": 173114,
       "name": "Make Me Wanna",
       "url": "https://open.spotify.com/track/7EwkcUIoPXh67ampCvRk6I"
+    },
+    {
+      "added_at": "2026-02-13 15:25:57",
+      "album": {
+        "name": "Please Don't Go (Bruno Martini Remix)",
+        "url": "https://open.spotify.com/album/5gHdb3YQGim7COUZgsPWdt"
+      },
+      "artists": [
+        {
+          "name": "Double You",
+          "url": "https://open.spotify.com/artist/2x0mCNdW4P27f3WE0iuQTV"
+        },
+        {
+          "name": "Bruno Martini",
+          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
+        }
+      ],
+      "duration_ms": 158774,
+      "name": "Please Don't Go - Bruno Martini Remix",
+      "url": "https://open.spotify.com/track/35hL1RBchmPifhV6T1OXxI"
     },
     {
       "added_at": "2026-02-13 15:25:57",
@@ -1463,26 +1463,6 @@
     {
       "added_at": "2026-02-13 15:25:57",
       "album": {
-        "name": "Monalisa (KVSH Remix)",
-        "url": "https://open.spotify.com/album/682jx7IHZwSmVkxld1qkgz"
-      },
-      "artists": [
-        {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
-        },
-        {
-          "name": "KVSH",
-          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
-        }
-      ],
-      "duration_ms": 175844,
-      "name": "Monalisa (KVSH Remix)",
-      "url": "https://open.spotify.com/track/2DiuOqMFJcTCEquAFCtjwW"
-    },
-    {
-      "added_at": "2026-02-13 15:25:57",
-      "album": {
         "name": "Hoje Caminhei (Remix)",
         "url": "https://open.spotify.com/album/64mqFOvIwaPgfBIKw9XIap"
       },
@@ -1503,6 +1483,26 @@
       "duration_ms": 140826,
       "name": "Hoje Caminhei - Remix",
       "url": "https://open.spotify.com/track/033ZbEs9ImPe1zyUsHIiOO"
+    },
+    {
+      "added_at": "2026-02-13 15:25:57",
+      "album": {
+        "name": "Monalisa (KVSH Remix)",
+        "url": "https://open.spotify.com/album/682jx7IHZwSmVkxld1qkgz"
+      },
+      "artists": [
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        },
+        {
+          "name": "KVSH",
+          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
+        }
+      ],
+      "duration_ms": 175844,
+      "name": "Monalisa (KVSH Remix)",
+      "url": "https://open.spotify.com/track/2DiuOqMFJcTCEquAFCtjwW"
     },
     {
       "added_at": "2026-02-13 15:25:57",

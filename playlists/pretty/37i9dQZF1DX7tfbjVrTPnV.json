@@ -1,6 +1,6 @@
 {
   "description": "Enjoy new and classic releases from icons of folk and Americana. Cover: Amy Grant",
-  "num_followers": 237110,
+  "num_followers": 237130,
   "original_name": "Americana Icons",
   "owner": {
     "name": "Spotify",
@@ -699,22 +699,6 @@
     {
       "added_at": "2026-05-08 04:02:51",
       "album": {
-        "name": "Saint Mary Of The Woods",
-        "url": "https://open.spotify.com/album/0j3PNuIO77kdjrTypChx5y"
-      },
-      "artists": [
-        {
-          "name": "James McMurtry",
-          "url": "https://open.spotify.com/artist/52BKc9OtCbQstAAPTIvLGH"
-        }
-      ],
-      "duration_ms": 513440,
-      "name": "Choctaw Bingo",
-      "url": "https://open.spotify.com/track/3d0EH8kmmejGmBtvQHYgU6"
-    },
-    {
-      "added_at": "2026-05-08 04:02:51",
-      "album": {
         "name": "March 16-20, 1992",
         "url": "https://open.spotify.com/album/3ezxoWuFQIiCr2xugKs3Lp"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 263706,
       "name": "Moonshiner",
       "url": "https://open.spotify.com/track/2toEozRQNumBlG3wuQR4QH"
+    },
+    {
+      "added_at": "2026-05-08 04:02:51",
+      "album": {
+        "name": "Saint Mary Of The Woods",
+        "url": "https://open.spotify.com/album/0j3PNuIO77kdjrTypChx5y"
+      },
+      "artists": [
+        {
+          "name": "James McMurtry",
+          "url": "https://open.spotify.com/artist/52BKc9OtCbQstAAPTIvLGH"
+        }
+      ],
+      "duration_ms": 513440,
+      "name": "Choctaw Bingo",
+      "url": "https://open.spotify.com/track/3d0EH8kmmejGmBtvQHYgU6"
     },
     {
       "added_at": "2026-05-08 04:02:51",
@@ -779,6 +779,22 @@
     {
       "added_at": "2026-05-08 04:02:51",
       "album": {
+        "name": "Mortal City",
+        "url": "https://open.spotify.com/album/6EVUAMSaUKG6mxVQcWDdJG"
+      },
+      "artists": [
+        {
+          "name": "Dar Williams",
+          "url": "https://open.spotify.com/artist/4Aarr7f0itQ2WFmmiPcriK"
+        }
+      ],
+      "duration_ms": 287933,
+      "name": "Iowa (Traveling, Pt. 3)",
+      "url": "https://open.spotify.com/track/1DPu4VZvRagYKnkDtn4FbU"
+    },
+    {
+      "added_at": "2026-05-08 04:02:51",
+      "album": {
         "name": "Complicated Game",
         "url": "https://open.spotify.com/album/0uZF0Y3tD2XLnIfBGn59Ly"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 317213,
       "name": "Shine a Different Way",
       "url": "https://open.spotify.com/track/0idcoARtmuQYpMuU1gMzZW"
-    },
-    {
-      "added_at": "2026-05-08 04:02:51",
-      "album": {
-        "name": "Mortal City",
-        "url": "https://open.spotify.com/album/6EVUAMSaUKG6mxVQcWDdJG"
-      },
-      "artists": [
-        {
-          "name": "Dar Williams",
-          "url": "https://open.spotify.com/artist/4Aarr7f0itQ2WFmmiPcriK"
-        }
-      ],
-      "duration_ms": 287933,
-      "name": "Iowa (Traveling, Pt. 3)",
-      "url": "https://open.spotify.com/track/1DPu4VZvRagYKnkDtn4FbU"
     },
     {
       "added_at": "2026-05-08 04:02:51",
@@ -1791,22 +1791,6 @@
     {
       "added_at": "2026-05-08 04:02:51",
       "album": {
-        "name": "The Damage",
-        "url": "https://open.spotify.com/album/4nDGBeKD6H3WJdzp3difOu"
-      },
-      "artists": [
-        {
-          "name": "Rodney Crowell",
-          "url": "https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY"
-        }
-      ],
-      "duration_ms": 241739,
-      "name": "The Damage",
-      "url": "https://open.spotify.com/track/1vrPTLdGbLQjGo5mACEkqw"
-    },
-    {
-      "added_at": "2026-05-08 04:02:51",
-      "album": {
         "name": "Can't Be There Today",
         "url": "https://open.spotify.com/album/71bCOP5okbh8Gw5x5mc5m8"
       },
@@ -1819,6 +1803,22 @@
       "duration_ms": 224000,
       "name": "Can't Be There Today",
       "url": "https://open.spotify.com/track/1djMyPP3cehzcLzwUyztXF"
+    },
+    {
+      "added_at": "2026-05-08 04:02:51",
+      "album": {
+        "name": "The Damage",
+        "url": "https://open.spotify.com/album/4nDGBeKD6H3WJdzp3difOu"
+      },
+      "artists": [
+        {
+          "name": "Rodney Crowell",
+          "url": "https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY"
+        }
+      ],
+      "duration_ms": 241739,
+      "name": "The Damage",
+      "url": "https://open.spotify.com/track/1vrPTLdGbLQjGo5mACEkqw"
     },
     {
       "added_at": "2026-05-08 04:02:51",
@@ -1843,38 +1843,6 @@
     {
       "added_at": "2026-05-08 04:02:51",
       "album": {
-        "name": "Sweet Baby James",
-        "url": "https://open.spotify.com/album/2NEQ5Q4sBbUHVVx3Wf8TEZ"
-      },
-      "artists": [
-        {
-          "name": "James Taylor",
-          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
-        }
-      ],
-      "duration_ms": 200579,
-      "name": "Fire and Rain",
-      "url": "https://open.spotify.com/track/3LcYYV9ozePfgYYmXv0P3r"
-    },
-    {
-      "added_at": "2026-05-08 04:02:51",
-      "album": {
-        "name": "Carter Girl",
-        "url": "https://open.spotify.com/album/3ry9GXOwuJUebtjQ0fWY4T"
-      },
-      "artists": [
-        {
-          "name": "Carlene Carter",
-          "url": "https://open.spotify.com/artist/2wKZKjNTOtH2vjxIsUBZqY"
-        }
-      ],
-      "duration_ms": 169586,
-      "name": "Little Black Train",
-      "url": "https://open.spotify.com/track/0h5efgEKxT7WqHFeCNj06c"
-    },
-    {
-      "added_at": "2026-05-08 04:02:51",
-      "album": {
         "name": "In Spite of Ourselves",
         "url": "https://open.spotify.com/album/2t6hK5ERtgjbHXVgHlpqJ5"
       },
@@ -1895,6 +1863,38 @@
     {
       "added_at": "2026-05-08 04:02:51",
       "album": {
+        "name": "Carter Girl",
+        "url": "https://open.spotify.com/album/3ry9GXOwuJUebtjQ0fWY4T"
+      },
+      "artists": [
+        {
+          "name": "Carlene Carter",
+          "url": "https://open.spotify.com/artist/2wKZKjNTOtH2vjxIsUBZqY"
+        }
+      ],
+      "duration_ms": 169586,
+      "name": "Little Black Train",
+      "url": "https://open.spotify.com/track/0h5efgEKxT7WqHFeCNj06c"
+    },
+    {
+      "added_at": "2026-05-08 04:02:51",
+      "album": {
+        "name": "Sweet Baby James",
+        "url": "https://open.spotify.com/album/2NEQ5Q4sBbUHVVx3Wf8TEZ"
+      },
+      "artists": [
+        {
+          "name": "James Taylor",
+          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
+        }
+      ],
+      "duration_ms": 200579,
+      "name": "Fire and Rain",
+      "url": "https://open.spotify.com/track/3LcYYV9ozePfgYYmXv0P3r"
+    },
+    {
+      "added_at": "2026-05-08 04:02:51",
+      "album": {
         "name": "Nightshift",
         "url": "https://open.spotify.com/album/5H9p3AIho3KHIrvr8EbKIc"
       },
@@ -1911,22 +1911,6 @@
     {
       "added_at": "2026-05-08 04:02:51",
       "album": {
-        "name": "You Don't Mess Around With Jim",
-        "url": "https://open.spotify.com/album/5STjKsvCHVlSMcUXo8he3T"
-      },
-      "artists": [
-        {
-          "name": "Jim Croce",
-          "url": "https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM"
-        }
-      ],
-      "duration_ms": 171666,
-      "name": "Walking Back To Georgia",
-      "url": "https://open.spotify.com/track/4JVmESg1JVr2WqecNqFnch"
-    },
-    {
-      "added_at": "2026-05-08 04:02:51",
-      "album": {
         "name": "Soul Journey",
         "url": "https://open.spotify.com/album/75NIWZjBwsF7MyfbG8JPwr"
       },
@@ -1939,6 +1923,22 @@
       "duration_ms": 256026,
       "name": "Look At Miss Ohio",
       "url": "https://open.spotify.com/track/5vPRCX0Bj8O374jTCAQRLS"
+    },
+    {
+      "added_at": "2026-05-08 04:02:51",
+      "album": {
+        "name": "You Don't Mess Around With Jim",
+        "url": "https://open.spotify.com/album/5STjKsvCHVlSMcUXo8he3T"
+      },
+      "artists": [
+        {
+          "name": "Jim Croce",
+          "url": "https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM"
+        }
+      ],
+      "duration_ms": 171666,
+      "name": "Walking Back To Georgia",
+      "url": "https://open.spotify.com/track/4JVmESg1JVr2WqecNqFnch"
     },
     {
       "added_at": "2026-05-08 04:02:51",

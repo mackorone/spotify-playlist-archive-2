@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTNd58Xq9pQ.md) - [plain]
 
 > Relive False Idols at Drumsheds 2024!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,766 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,765 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTNd58Xq9pQ.md) - [plain]
 | 33 | [MADELINE \- Sam Girling Remix](https://open.spotify.com/track/53Az0orgzVQOMQHsjribTZ) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki), [Sam Girling](https://open.spotify.com/artist/3zQO5XxE5WRRWqk58vt0dS) | [MADELINE \(Remixes\)](https://open.spotify.com/album/7kbuL98bYaEhxX3q69p5lE) | 3:25 |
 | 34 | [Poison \- Club Shy mix](https://open.spotify.com/track/5RJNdm66nI9xUVr3A1g48B) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Nymph\_o](https://open.spotify.com/album/28MZKxXQKX89mr1Y9g9d3k) | 3:35 |
 | 35 | [Make Time](https://open.spotify.com/track/55WKq24vogr2aeB0f41K1S) | [Shanti Celeste](https://open.spotify.com/artist/3CkM2290WOa2ESzhlu5mzM) | [Make Time](https://open.spotify.com/album/1S0RtAabyNrG88zre9tDWa) | 8:35 |
-| 36 | [Lifetime \- Planningtorock 'Let It Happen' Remix](https://open.spotify.com/track/6U9opnMMouhZdQaseeVQTq) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb), [Planningtorock](https://open.spotify.com/artist/7qHOphlWaJrfFa0BqpayDG) | [Lifetime \(Planningtorock 'Let It Happen' Remix\)](https://open.spotify.com/album/5s9bJNRbfFkJAlxmjJbexn) | 6:59 |
-| 37 | [Want Me](https://open.spotify.com/track/2PKEGiGJAeEOaSaOZsQhCH) | [DJ Fuckoff](https://open.spotify.com/artist/47fPXXrqnkQcaQ951UA3cm) | [Want Me](https://open.spotify.com/album/0fkVNPJnTjVb8Q97hAjN8u) | 4:34 |
+| 36 | [Want Me](https://open.spotify.com/track/2PKEGiGJAeEOaSaOZsQhCH) | [DJ Fuckoff](https://open.spotify.com/artist/47fPXXrqnkQcaQ951UA3cm) | [Want Me](https://open.spotify.com/album/0fkVNPJnTjVb8Q97hAjN8u) | 4:34 |
+| 37 | [Lifetime \- Planningtorock 'Let It Happen' Remix](https://open.spotify.com/track/6U9opnMMouhZdQaseeVQTq) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb), [Planningtorock](https://open.spotify.com/artist/7qHOphlWaJrfFa0BqpayDG) | [Lifetime \(Planningtorock 'Let It Happen' Remix\)](https://open.spotify.com/album/5s9bJNRbfFkJAlxmjJbexn) | 6:59 |
 | 38 | [Forever 2 \(Crush Mix\) \- Edit](https://open.spotify.com/track/3sS48tE1iA7CLb8iAhNHOv) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6), [DJ BORING](https://open.spotify.com/artist/3MkIU5jhXTMK9pYQTRVI6p) | [Forever 2 \(Crush Mix\)](https://open.spotify.com/album/2TbQ4UscdZOQCTNas8MAhR) | 2:55 |
 | 39 | [Slut Slide](https://open.spotify.com/track/6TVq1Rj8nPRD8vPfEIJWz2) | [Miss Bashful](https://open.spotify.com/artist/5skHU2PrWHKFfSTpq9y56C), [DBBD](https://open.spotify.com/artist/69UVGTxhvI9zrl4tVafMgC) | [Slut Slide](https://open.spotify.com/album/67AndfOhU9MmUs6TQhqoC2) | 3:43 |
 | 40 | [Boy \- Original Mix](https://open.spotify.com/track/2pXDJVHLMen4fQagoweDTW) | [Mogwaa](https://open.spotify.com/artist/0ZMvuGH9qIoI5xBA4g0Tqy) | [Boy](https://open.spotify.com/album/1CVKYbQHvZpOOnsmHezXP2) | 7:17 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTNd58Xq9pQ.md) - [plain]
 | 44 | [Don't Bother Me](https://open.spotify.com/track/7sU97fZkuTXnQsv4qkUZIJ) | [SYREETA](https://open.spotify.com/artist/6NLeKpbb77Bgp6hPZjf6KJ) | [Don't Bother Me EP](https://open.spotify.com/album/5il50KYizwMVqyiiVwJrFE) | 3:30 |
 | 45 | [Brat](https://open.spotify.com/track/0NVnlAuLfKeOxK0sxvJFKI) | [J Wax](https://open.spotify.com/artist/32UMn8JWwIcnJp5P7G61UQ), [LN](https://open.spotify.com/artist/7G6Tv0i12NplnOB2nbwiAJ) | [Brat/Nasty](https://open.spotify.com/album/19gN9RaefCtvZoGUZc8YLC) | 2:32 |
 | 46 | [Tryna Call \- Me n U \- Mixed](https://open.spotify.com/track/5qWCGBGmnHi6Lcz47IYspB) | [Felix Geith](https://open.spotify.com/artist/52wus9Sd4fER2u5lP26mku) | [Mixmag Presents Logic1000](https://open.spotify.com/album/5RtXdNzE9CUqaAvzgDhi1X) | 3:26 |
-| 47 | [Honey Child](https://open.spotify.com/track/4s8pYCTyKtpW6InPbyxj8O) | [Ammara](https://open.spotify.com/artist/7GqNimUoiYFht4cYL0cT0I) | [Honey Child](https://open.spotify.com/album/4QXPVtv2HI92XulT9TsS71) | 2:31 |
-| 48 | [Fashion Nympho](https://open.spotify.com/track/36DpqHlVo4uw3ZbcMCgsZx) | [Bimini](https://open.spotify.com/artist/5QSfJ3Ny5A3AAmv2gg1pCk) | [Fashion Nympho](https://open.spotify.com/album/6iu5ClhbjsWLrTHr8evGl9) | 2:56 |
-| 49 | [Chez Moi \(Waiting For You\) \- Club Mix](https://open.spotify.com/track/1lZ6m220kXb3EFvnjzFbyo) | [CC:DISCO!](https://open.spotify.com/artist/37fxVoFAMzet5CiiDg7SL7), [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [Chez Moi \(Waiting For You\)](https://open.spotify.com/album/5HwZIHl2vkaEGzuvNorz84) | 6:25 |
+| 47 | [Chez Moi \(Waiting For You\) \- Club Mix](https://open.spotify.com/track/1lZ6m220kXb3EFvnjzFbyo) | [CC:DISCO!](https://open.spotify.com/artist/37fxVoFAMzet5CiiDg7SL7), [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [Chez Moi \(Waiting For You\)](https://open.spotify.com/album/5HwZIHl2vkaEGzuvNorz84) | 6:25 |
+| 48 | [Honey Child](https://open.spotify.com/track/4s8pYCTyKtpW6InPbyxj8O) | [Ammara](https://open.spotify.com/artist/7GqNimUoiYFht4cYL0cT0I) | [Honey Child](https://open.spotify.com/album/4QXPVtv2HI92XulT9TsS71) | 2:31 |
+| 49 | [Fashion Nympho](https://open.spotify.com/track/36DpqHlVo4uw3ZbcMCgsZx) | [Bimini](https://open.spotify.com/artist/5QSfJ3Ny5A3AAmv2gg1pCk) | [Fashion Nympho](https://open.spotify.com/album/6iu5ClhbjsWLrTHr8evGl9) | 2:56 |
 | 50 | [Real Hot n Naughty](https://open.spotify.com/track/1hPBJwV6CK6d8IgC9OUmqW) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4), [Felix Mufti](https://open.spotify.com/artist/1N4X5hZ0hEXhhFdg1q0AlN) | [Real Hot n Naughty](https://open.spotify.com/album/1AUPiPnIbLT7FkOgEfaPGa) | 3:34 |
 
 Snapshot ID: `AAAAAMMMLty9KACgveEi2yTosw380z4+`

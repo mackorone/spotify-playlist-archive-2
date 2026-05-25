@@ -1,6 +1,6 @@
 {
   "description": "Let's mix it.",
-  "num_followers": 152928,
+  "num_followers": 152931,
   "original_name": "Pop Rock",
   "owner": {
     "name": "Spotify",
@@ -683,22 +683,6 @@
     {
       "added_at": "2026-01-16 05:00:41",
       "album": {
-        "name": "NOT OK",
-        "url": "https://open.spotify.com/album/07I0d31GGiQ1uWRCEQdZrm"
-      },
-      "artists": [
-        {
-          "name": "5 Seconds of Summer",
-          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
-        }
-      ],
-      "duration_ms": 206040,
-      "name": "NOT OK",
-      "url": "https://open.spotify.com/track/0WvP4Q6ZaNT1tvs8LGrf4f"
-    },
-    {
-      "added_at": "2026-01-16 05:00:41",
-      "album": {
         "name": "Love Sux",
         "url": "https://open.spotify.com/album/7hH7rqTATIJ9DaYwWEdNLb"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 163321,
       "name": "Bois Lie (feat. Machine Gun Kelly)",
       "url": "https://open.spotify.com/track/2lHktSigIAZqf7BkA7NRS7"
+    },
+    {
+      "added_at": "2026-01-16 05:00:41",
+      "album": {
+        "name": "NOT OK",
+        "url": "https://open.spotify.com/album/07I0d31GGiQ1uWRCEQdZrm"
+      },
+      "artists": [
+        {
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+        }
+      ],
+      "duration_ms": 206040,
+      "name": "NOT OK",
+      "url": "https://open.spotify.com/track/0WvP4Q6ZaNT1tvs8LGrf4f"
     },
     {
       "added_at": "2026-01-16 05:00:41",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2026-01-16 05:00:41",
       "album": {
-        "name": "WHERE DID ALL THE BUTTERFLIES GO?",
-        "url": "https://open.spotify.com/album/5QHizl5QpeIBCs5D8OD4pM"
-      },
-      "artists": [
-        {
-          "name": "BEAUTY SCHOOL DROPOUT",
-          "url": "https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO"
-        }
-      ],
-      "duration_ms": 181866,
-      "name": "HEART AWAY",
-      "url": "https://open.spotify.com/track/0gunLQiKGXjbVUTrzKllcA"
-    },
-    {
-      "added_at": "2026-01-16 05:00:41",
-      "album": {
         "name": "Risk",
         "url": "https://open.spotify.com/album/2MhsKJ1ZkRWbRkUrx0eWyH"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 179916,
       "name": "Risk",
       "url": "https://open.spotify.com/track/54q1XgXR2y7JMRBEzTxA4l"
+    },
+    {
+      "added_at": "2026-01-16 05:00:41",
+      "album": {
+        "name": "WHERE DID ALL THE BUTTERFLIES GO?",
+        "url": "https://open.spotify.com/album/5QHizl5QpeIBCs5D8OD4pM"
+      },
+      "artists": [
+        {
+          "name": "BEAUTY SCHOOL DROPOUT",
+          "url": "https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO"
+        }
+      ],
+      "duration_ms": 181866,
+      "name": "HEART AWAY",
+      "url": "https://open.spotify.com/track/0gunLQiKGXjbVUTrzKllcA"
     },
     {
       "added_at": "2026-01-16 05:00:41",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2026-01-16 05:00:41",
       "album": {
+        "name": "Poison Apple Baby",
+        "url": "https://open.spotify.com/album/6Egtw4WQkI5khzldGxrnCx"
+      },
+      "artists": [
+        {
+          "name": "Honey Revenge",
+          "url": "https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK"
+        }
+      ],
+      "duration_ms": 197977,
+      "name": "Poison Apple Baby",
+      "url": "https://open.spotify.com/track/3kTSXwNlNZNbEG5VmzH0wB"
+    },
+    {
+      "added_at": "2026-01-16 05:00:41",
+      "album": {
         "name": "You Need Me Now? (feat. Sabrina Carpenter)",
         "url": "https://open.spotify.com/album/26H0jinpdi0RSrZq90fNMF"
       },
@@ -1191,22 +1207,6 @@
       "duration_ms": 186377,
       "name": "You Need Me Now? (feat. Sabrina Carpenter)",
       "url": "https://open.spotify.com/track/3zPGZBbZEGqu7eY7R0NkqI"
-    },
-    {
-      "added_at": "2026-01-16 05:00:41",
-      "album": {
-        "name": "Poison Apple Baby",
-        "url": "https://open.spotify.com/album/6Egtw4WQkI5khzldGxrnCx"
-      },
-      "artists": [
-        {
-          "name": "Honey Revenge",
-          "url": "https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK"
-        }
-      ],
-      "duration_ms": 197977,
-      "name": "Poison Apple Baby",
-      "url": "https://open.spotify.com/track/3kTSXwNlNZNbEG5VmzH0wB"
     },
     {
       "added_at": "2026-01-16 05:00:41",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2026-01-16 05:00:41",
       "album": {
-        "name": "FUNERAL",
-        "url": "https://open.spotify.com/album/1KQLkCFFcvA9BT0aGsmejd"
-      },
-      "artists": [
-        {
-          "name": "Neoni",
-          "url": "https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5"
-        }
-      ],
-      "duration_ms": 181923,
-      "name": "FUNERAL",
-      "url": "https://open.spotify.com/track/3UG2MvL1KiIgY9FjFvOYrv"
-    },
-    {
-      "added_at": "2026-01-16 05:00:41",
-      "album": {
         "name": "The Fray Is Back",
         "url": "https://open.spotify.com/album/3YQ639IRsD9CTztmDYWASq"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 199866,
       "name": "Known You Always",
       "url": "https://open.spotify.com/track/51AGU6apDBbI0fCfzsPbkh"
+    },
+    {
+      "added_at": "2026-01-16 05:00:41",
+      "album": {
+        "name": "FUNERAL",
+        "url": "https://open.spotify.com/album/1KQLkCFFcvA9BT0aGsmejd"
+      },
+      "artists": [
+        {
+          "name": "Neoni",
+          "url": "https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5"
+        }
+      ],
+      "duration_ms": 181923,
+      "name": "FUNERAL",
+      "url": "https://open.spotify.com/track/3UG2MvL1KiIgY9FjFvOYrv"
     },
     {
       "added_at": "2026-01-16 05:00:41",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2026-01-16 05:00:41",
       "album": {
-        "name": "Little Like Hell",
-        "url": "https://open.spotify.com/album/3y2M76ZPDji9HWW9QoCvfY"
-      },
-      "artists": [
-        {
-          "name": "The Haunt",
-          "url": "https://open.spotify.com/artist/45d8YG3R2DApOMnIZuyK8p"
-        }
-      ],
-      "duration_ms": 187804,
-      "name": "Little Like Hell",
-      "url": "https://open.spotify.com/track/3ws6O2EBzhEC1UPSOoxMfE"
-    },
-    {
-      "added_at": "2026-01-16 05:00:41",
-      "album": {
         "name": "Bitter Sweet Love",
         "url": "https://open.spotify.com/album/1cnYW3YtY6B03BYuGAxbUF"
       },
@@ -1635,18 +1619,18 @@
     {
       "added_at": "2026-01-16 05:00:41",
       "album": {
-        "name": "Goals",
-        "url": "https://open.spotify.com/album/6FUbZObH9XBKbRiOqJIR6S"
+        "name": "Little Like Hell",
+        "url": "https://open.spotify.com/album/3y2M76ZPDji9HWW9QoCvfY"
       },
       "artists": [
         {
-          "name": "Sophie Powers",
-          "url": "https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI"
+          "name": "The Haunt",
+          "url": "https://open.spotify.com/artist/45d8YG3R2DApOMnIZuyK8p"
         }
       ],
-      "duration_ms": 133746,
-      "name": "Goals",
-      "url": "https://open.spotify.com/track/3rW9rYv7SE0l8MIOWnkZ2i"
+      "duration_ms": 187804,
+      "name": "Little Like Hell",
+      "url": "https://open.spotify.com/track/3ws6O2EBzhEC1UPSOoxMfE"
     },
     {
       "added_at": "2026-01-16 05:00:41",
@@ -1667,22 +1651,6 @@
     {
       "added_at": "2026-01-16 05:00:41",
       "album": {
-        "name": "SUCKERPUNCH",
-        "url": "https://open.spotify.com/album/32xU1E8SKaRIEu1leO1McQ"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 172510,
-      "name": "SUCKERPUNCH",
-      "url": "https://open.spotify.com/track/09059hl1BPvc7r1SbcXisj"
-    },
-    {
-      "added_at": "2026-01-16 05:00:41",
-      "album": {
         "name": "in loving memory",
         "url": "https://open.spotify.com/album/0ZvU2iSXtYxBeR9QzvHQau"
       },
@@ -1695,6 +1663,38 @@
       "duration_ms": 183643,
       "name": "dead inside",
       "url": "https://open.spotify.com/track/2Oo397nWzelAKMQBBIL8YI"
+    },
+    {
+      "added_at": "2026-01-16 05:00:41",
+      "album": {
+        "name": "Goals",
+        "url": "https://open.spotify.com/album/6FUbZObH9XBKbRiOqJIR6S"
+      },
+      "artists": [
+        {
+          "name": "Sophie Powers",
+          "url": "https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI"
+        }
+      ],
+      "duration_ms": 133746,
+      "name": "Goals",
+      "url": "https://open.spotify.com/track/3rW9rYv7SE0l8MIOWnkZ2i"
+    },
+    {
+      "added_at": "2026-01-16 05:00:41",
+      "album": {
+        "name": "SUCKERPUNCH",
+        "url": "https://open.spotify.com/album/32xU1E8SKaRIEu1leO1McQ"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "duration_ms": 172510,
+      "name": "SUCKERPUNCH",
+      "url": "https://open.spotify.com/track/09059hl1BPvc7r1SbcXisj"
     },
     {
       "added_at": "2026-01-16 05:00:41",
@@ -1927,22 +1927,6 @@
     {
       "added_at": "2026-01-16 05:00:41",
       "album": {
-        "name": "Kissing Death",
-        "url": "https://open.spotify.com/album/06BiMFYYLl0cQnJDRSXmtD"
-      },
-      "artists": [
-        {
-          "name": "MOTHICA",
-          "url": "https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA"
-        }
-      ],
-      "duration_ms": 168488,
-      "name": "Another High",
-      "url": "https://open.spotify.com/track/2q5ByXv4sljfsPL3XvglUm"
-    },
-    {
-      "added_at": "2026-01-16 05:00:41",
-      "album": {
         "name": "YOU NEEDED A HIT//",
         "url": "https://open.spotify.com/album/16Cce1oSCslSILGQCToU0C"
       },
@@ -1955,6 +1939,22 @@
       "duration_ms": 120149,
       "name": "YOU NEEDED A HIT//",
       "url": "https://open.spotify.com/track/5DbBHcdkzRe1HnA132Dp0z"
+    },
+    {
+      "added_at": "2026-01-16 05:00:41",
+      "album": {
+        "name": "Kissing Death",
+        "url": "https://open.spotify.com/album/06BiMFYYLl0cQnJDRSXmtD"
+      },
+      "artists": [
+        {
+          "name": "MOTHICA",
+          "url": "https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA"
+        }
+      ],
+      "duration_ms": 168488,
+      "name": "Another High",
+      "url": "https://open.spotify.com/track/2q5ByXv4sljfsPL3XvglUm"
     },
     {
       "added_at": "2026-01-16 05:00:41",
@@ -2475,6 +2475,22 @@
     {
       "added_at": "2026-01-16 05:00:41",
       "album": {
+        "name": "Crazy Again",
+        "url": "https://open.spotify.com/album/50FmJw1eIHCs4vwzyI5OOK"
+      },
+      "artists": [
+        {
+          "name": "Gossip",
+          "url": "https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR"
+        }
+      ],
+      "duration_ms": 197164,
+      "name": "Crazy Again",
+      "url": "https://open.spotify.com/track/1zEwPwgdkD5bKuiovSKi23"
+    },
+    {
+      "added_at": "2026-01-16 05:00:41",
+      "album": {
         "name": "Recipe For Disaster",
         "url": "https://open.spotify.com/album/1liqqWx9tt0WutjfuZXR4v"
       },
@@ -2503,22 +2519,6 @@
       "duration_ms": 200210,
       "name": "Sonder",
       "url": "https://open.spotify.com/track/1mvVtX5dLGPe1teRz5ERZV"
-    },
-    {
-      "added_at": "2026-01-16 05:00:41",
-      "album": {
-        "name": "Crazy Again",
-        "url": "https://open.spotify.com/album/50FmJw1eIHCs4vwzyI5OOK"
-      },
-      "artists": [
-        {
-          "name": "Gossip",
-          "url": "https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR"
-        }
-      ],
-      "duration_ms": 197164,
-      "name": "Crazy Again",
-      "url": "https://open.spotify.com/track/1zEwPwgdkD5bKuiovSKi23"
     },
     {
       "added_at": "2026-01-16 05:00:41",

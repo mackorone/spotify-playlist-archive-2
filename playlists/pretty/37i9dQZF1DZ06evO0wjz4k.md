@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0wjz4k.md) - [plain]
 
 > This is Parker McCollum\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,276 likes - 49 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,291 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0wjz4k.md) - [plain]
 | 44 | [Galveston Bay](https://open.spotify.com/track/7a2hpT1sCwzcRyLl5pCTUI) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [The Limestone Kid](https://open.spotify.com/album/2kAU2XG75F3QLzSQrlHo2P) | 4:06 |
 | 45 | [She'll Dance For Whiskey \- Landman \- Songs From and Inspired by the Paramount+ Original Series \(Volume I\)](https://open.spotify.com/track/5zxhqSzYH5P0ECHP5UzgtL) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [She'll Dance For Whiskey \[Landman \- Songs From and Inspired by the Paramount+ Original Series \(Volume I\)\]](https://open.spotify.com/album/7gQRSCEwEUpimIawyBcBvG) | 4:47 |
 | 46 | [Learn to Fly](https://open.spotify.com/track/0B2kWR9V7Z4JZOtXgWG8Qr) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Probably Wrong](https://open.spotify.com/album/3G3zeMAjvhy88MFOlgv6ci) | 3:30 |
-| 47 | [Paper Umbrellas](https://open.spotify.com/track/52MQYkbFuv9UzA8wz927xO) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd), [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Paper Umbrellas](https://open.spotify.com/album/1alHcx2t1SKjGgF4P9Q0pz) | 3:29 |
-| 48 | [Carrying Your Love With Me \- Spotify Singles](https://open.spotify.com/track/6ThMWDBYb8SsqCMup5vLLP) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Carrying Your Love With Me \(Spotify Singles\)](https://open.spotify.com/album/2ppLwCKe1rQxYyRmHlfyb8) | 4:03 |
-| 49 | [Perfectly Lonely](https://open.spotify.com/track/0c3pzxjufIrG4oVwF99eqs) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Perfectly Lonely](https://open.spotify.com/album/6G4Z9dLR84a2xBEPBP4uMH) | 4:30 |
+| 47 | [New York Is On Fire](https://open.spotify.com/track/5PpeFaW7pWQre11m6eg3e2) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Parker McCollum \(The Deluxe Edition\)](https://open.spotify.com/album/4WISa1TyvE8My12P4ie0Ql) | 4:53 |
+| 48 | [Paper Umbrellas](https://open.spotify.com/track/52MQYkbFuv9UzA8wz927xO) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd), [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Paper Umbrellas](https://open.spotify.com/album/1alHcx2t1SKjGgF4P9Q0pz) | 3:29 |
+| 49 | [Carrying Your Love With Me \- Spotify Singles](https://open.spotify.com/track/6ThMWDBYb8SsqCMup5vLLP) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Carrying Your Love With Me \(Spotify Singles\)](https://open.spotify.com/album/2ppLwCKe1rQxYyRmHlfyb8) | 4:03 |
+| 50 | [Perfectly Lonely](https://open.spotify.com/track/0c3pzxjufIrG4oVwF99eqs) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Perfectly Lonely](https://open.spotify.com/album/6G4Z9dLR84a2xBEPBP4uMH) | 4:30 |
 
-Snapshot ID: `ag+cgAAAAAARudbJW/ntUzrwiKM8GXBb`
+Snapshot ID: `ahDuAAAAAACqIui3+reTh28I6xIUgj9f`

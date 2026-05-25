@@ -4,7 +4,7 @@
 
 > Summer has a way of slowing us down and bringing us together\. This playlist is a mix of new favorites and familiar sounds — songs for long drives, late afternoons, and evenings that stretch a little longer than planned.Hope you find something here that makes the season feel just right.
 
-6,079 songs - 14 day 3 hr 45 min
+6,081 songs - 14 day 3 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -747,6 +747,7 @@
 | [Brother](https://open.spotify.com/track/7AorDFAFIecmBhx6ujIhZX) | [No Money Kids](https://open.spotify.com/artist/7FhOFt7mORRpbrgHdSeCfF) | [Factory](https://open.spotify.com/album/7wjxLYyRqGzKjjXiaTs9WH) | 3:18 | 2021-12-02 | 2021-12-20 |
 | [Brought Me To Life](https://open.spotify.com/track/13ASr80ZIeOa5qn5gO1elK) | [In My Better Days](https://open.spotify.com/artist/6MyAHsbsz1d3mVvALdbhN7), [Haya Ashraf](https://open.spotify.com/artist/3YyFey0OvygmtzWuqZVZr7) | [Brought Me To Life](https://open.spotify.com/album/6bdRv9CzRsdWLJ2FfXWecA) | 3:40 | 2026-02-07 | 2026-02-19 |
 | [Brown Eyed Girl](https://open.spotify.com/track/3yrSvpt2l1xhsV9Em88Pul) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Blowin' Your Mind!](https://open.spotify.com/album/7dsWupQRlFuhG8FGiQAUjC) | 3:03 | 2019-09-29\* | 2021-11-19 |
+| [Brown Eyed Girl](https://open.spotify.com/track/4CNL4GBNTdVIU5Nk6hB4LC) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Blowin' Your Mind!](https://open.spotify.com/album/76y5pJydyE27yrXoFiQa8P) | 3:06 | 2026-05-24 |  |
 | [Brown Eyes](https://open.spotify.com/track/63lqxpjdTL6O0h7DYTsXvh) | [Ki\-Jung](https://open.spotify.com/artist/5pqRt6SskbJusa0LavnBm8) | [Brown Eyes](https://open.spotify.com/album/0m3y27FWd2BFNSKmoHtFa6) | 3:49 | 2020-01-13 | 2020-02-08 |
 | [Brown Sugar](https://open.spotify.com/track/0VebfBIv7sGSJdpK87mhmJ) | [Fran Vlaes](https://open.spotify.com/artist/3x0jTZbEx82xnXqHtcA43A) | [Tastes Good EP](https://open.spotify.com/album/7mrxnB3QPp1LtXeYHaTWxx) | 3:06 | 2024-06-14 | 2024-06-26 |
 | [Bruddafly](https://open.spotify.com/track/1aVYm0bGUXLhidPCnnXztD) | [Jude Leslie](https://open.spotify.com/artist/1hFymPEPxoQI6sELGlXa5a) | [Bruddafly](https://open.spotify.com/album/4mYM1Rjo3HVjP4C1fY9dDp) | 4:14 | 2025-07-10 | 2025-07-29 |
@@ -4068,6 +4069,7 @@
 | [PLASTIC CUP](https://open.spotify.com/track/6G6NYQyb6Y1KEJkRYldYkr) | [N3WYRKLA](https://open.spotify.com/artist/1GMy1NJjIXk6bejCuYdLT9) | [PLASTIC CUP](https://open.spotify.com/album/3sHlkJENWEBfvBHpbQSOg1) | 3:33 | 2025-06-10 | 2025-06-29 |
 | [Plastic Sea](https://open.spotify.com/track/2UykkJ0sguLc5gHcuTGTdb) | [Julian Maverick](https://open.spotify.com/artist/3OLmtWNjbxHj6ZzNlmeiNb) | [Plastic Sea](https://open.spotify.com/album/31yQdlIgonyZu0cmeheIog) | 4:42 | 2023-03-27 | 2023-04-05 |
 | [Platinum](https://open.spotify.com/track/3VWSUhXqZWMemBR7i0lWYP) | [Jay Watts](https://open.spotify.com/artist/2lGHglX5dA9A4IAw9kjDm6) | [Platinum](https://open.spotify.com/album/5HflEJsBKAVZf56iu37zvr) | 2:32 | 2020-07-05 | 2020-07-28 |
+| [Play It by Beer](https://open.spotify.com/track/5DXe2fIcaq0NFRGNDjTIbb) | [Kyle Jennings](https://open.spotify.com/artist/7xOqDsILYsjDc8Xa7TRDJs) | [Play It by Beer](https://open.spotify.com/album/0N4bt7jyfRpNTOkHN6SrWI) | 3:05 | 2026-05-24 |  |
 | [Play Pretend](https://open.spotify.com/track/6YHAPEW6qoB0zyuLKwNVfb) | [Rachel Rose](https://open.spotify.com/artist/3ortj2nvmDmGuNX82JEFSX) | [Play Pretend](https://open.spotify.com/album/1ciN5he8l5HBZhHt23ADh2) | 4:56 | 2024-07-27 | 2024-08-07 |
 | [Play To Tease](https://open.spotify.com/track/5fNPdXqUH2cLc75V9DUUhU) | [Shania Juzil](https://open.spotify.com/artist/3DQysDkHXUZ32ZHyFsjbxK) | [Play To Tease](https://open.spotify.com/album/7nx2ZhLDgbMUwdFRNCcbBl) | 3:12 | 2021-07-10 | 2021-07-25 |
 | [Play With Fire](https://open.spotify.com/track/4cMId9pIYQoMswTEdzpSik) | [Inkswel](https://open.spotify.com/artist/24hFZ7lqnNJa8GC1c2bWcZ), [Andre Espeut](https://open.spotify.com/artist/3KYR1NVEcMfJ657LhKRpJn), [Leonard Charles](https://open.spotify.com/artist/6T46k7BYP9zs6FsZkT3rQ8) | [Synchronicities](https://open.spotify.com/album/4fx6MeO1fpQsGUGLlhvWhU) | 4:12 | 2024-11-29 | 2024-12-11 |

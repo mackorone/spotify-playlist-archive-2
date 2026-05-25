@@ -1,6 +1,6 @@
 {
   "description": "Stay relaxed with these easy, laid-back songs.",
-  "num_followers": 2118055,
+  "num_followers": 2118162,
   "original_name": "Totally Stress Free",
   "owner": {
     "name": "Spotify",
@@ -499,22 +499,6 @@
     {
       "added_at": "2026-05-01 04:01:39",
       "album": {
-        "name": "BRIGHTSIDE",
-        "url": "https://open.spotify.com/album/5Vb119mjQekK46CfEWDQXW"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "WHERE WE ARE",
-      "url": "https://open.spotify.com/track/4MTmAFWHpvB9kPMSRgLFRp"
-    },
-    {
-      "added_at": "2026-05-01 04:01:39",
-      "album": {
         "name": "TRUSTFALL",
         "url": "https://open.spotify.com/album/1GIWJs7mEdzKym3tQ8QScJ"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 167200,
       "name": "Kids in Love",
       "url": "https://open.spotify.com/track/1gpYR1FzbIS0IRbpF3BBmu"
+    },
+    {
+      "added_at": "2026-05-01 04:01:39",
+      "album": {
+        "name": "BRIGHTSIDE",
+        "url": "https://open.spotify.com/album/5Vb119mjQekK46CfEWDQXW"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "WHERE WE ARE",
+      "url": "https://open.spotify.com/track/4MTmAFWHpvB9kPMSRgLFRp"
     },
     {
       "added_at": "2026-05-01 04:01:39",
@@ -583,22 +583,6 @@
     {
       "added_at": "2026-05-01 04:01:39",
       "album": {
-        "name": "Dying Star",
-        "url": "https://open.spotify.com/album/0HglC8wDUKL0VV5KI31bqU"
-      },
-      "artists": [
-        {
-          "name": "Ruston Kelly",
-          "url": "https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I"
-        }
-      ],
-      "duration_ms": 277293,
-      "name": "Mockingbird",
-      "url": "https://open.spotify.com/track/6fS1CEMY4LlvQNWuUMoWEQ"
-    },
-    {
-      "added_at": "2026-05-01 04:01:39",
-      "album": {
         "name": "Pour It Out Into The Night",
         "url": "https://open.spotify.com/album/20ywcUH2pPpMThaHW1glPK"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 262066,
       "name": "Good Old Days",
       "url": "https://open.spotify.com/track/3ycnLH0vm7D9K2QHA4cAnq"
+    },
+    {
+      "added_at": "2026-05-01 04:01:39",
+      "album": {
+        "name": "Dying Star",
+        "url": "https://open.spotify.com/album/0HglC8wDUKL0VV5KI31bqU"
+      },
+      "artists": [
+        {
+          "name": "Ruston Kelly",
+          "url": "https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I"
+        }
+      ],
+      "duration_ms": 277293,
+      "name": "Mockingbird",
+      "url": "https://open.spotify.com/track/6fS1CEMY4LlvQNWuUMoWEQ"
     },
     {
       "added_at": "2026-05-01 04:01:39",
@@ -723,26 +723,6 @@
     {
       "added_at": "2026-05-01 04:01:39",
       "album": {
-        "name": "Venus in the Zinnia",
-        "url": "https://open.spotify.com/album/1g8xMfOWEPfIuxHory8Pg9"
-      },
-      "artists": [
-        {
-          "name": "Aldous Harding",
-          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
-        },
-        {
-          "name": "H. Hawkline",
-          "url": "https://open.spotify.com/artist/7FmM0XgimRvS48CfObh2ht"
-        }
-      ],
-      "duration_ms": 197372,
-      "name": "Venus in the Zinnia",
-      "url": "https://open.spotify.com/track/6X5ARfLepGTGntuFbc2Hpo"
-    },
-    {
-      "added_at": "2026-05-01 04:01:39",
-      "album": {
         "name": "Don't Forget Me",
         "url": "https://open.spotify.com/album/2bSJsOM3hBoBBF4MaxJKyQ"
       },
@@ -771,6 +751,26 @@
       "duration_ms": 193658,
       "name": "Catch A Fire",
       "url": "https://open.spotify.com/track/7r43gqBcINKb1o1NQ43Wcu"
+    },
+    {
+      "added_at": "2026-05-01 04:01:39",
+      "album": {
+        "name": "Venus in the Zinnia",
+        "url": "https://open.spotify.com/album/1g8xMfOWEPfIuxHory8Pg9"
+      },
+      "artists": [
+        {
+          "name": "Aldous Harding",
+          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
+        },
+        {
+          "name": "H. Hawkline",
+          "url": "https://open.spotify.com/artist/7FmM0XgimRvS48CfObh2ht"
+        }
+      ],
+      "duration_ms": 197372,
+      "name": "Venus in the Zinnia",
+      "url": "https://open.spotify.com/track/6X5ARfLepGTGntuFbc2Hpo"
     },
     {
       "added_at": "2026-05-01 04:01:39",
@@ -875,22 +875,6 @@
     {
       "added_at": "2026-05-01 04:01:39",
       "album": {
-        "name": "Unessential Oils",
-        "url": "https://open.spotify.com/album/7wv2WyE90zTTbgEGKVWtaq"
-      },
-      "artists": [
-        {
-          "name": "Unessential Oils",
-          "url": "https://open.spotify.com/artist/34dPqKupUgAXZRn6beb0Zu"
-        }
-      ],
-      "duration_ms": 265880,
-      "name": "Solutions to My Gloom",
-      "url": "https://open.spotify.com/track/3Cq3SRFSWK7qhfSvSWMkxg"
-    },
-    {
-      "added_at": "2026-05-01 04:01:39",
-      "album": {
         "name": "Slowly",
         "url": "https://open.spotify.com/album/7MMCqgxXaZkGvmSYSl4hp7"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 217983,
       "name": "Slowly",
       "url": "https://open.spotify.com/track/0T4SSmBlTtKAvcqZo8LT6i"
+    },
+    {
+      "added_at": "2026-05-01 04:01:39",
+      "album": {
+        "name": "Unessential Oils",
+        "url": "https://open.spotify.com/album/7wv2WyE90zTTbgEGKVWtaq"
+      },
+      "artists": [
+        {
+          "name": "Unessential Oils",
+          "url": "https://open.spotify.com/artist/34dPqKupUgAXZRn6beb0Zu"
+        }
+      ],
+      "duration_ms": 265880,
+      "name": "Solutions to My Gloom",
+      "url": "https://open.spotify.com/track/3Cq3SRFSWK7qhfSvSWMkxg"
     },
     {
       "added_at": "2026-05-01 04:01:39",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2026-05-01 04:01:39",
       "album": {
-        "name": "The Fray",
-        "url": "https://open.spotify.com/album/1r16zCSIhxkc5b9dSQ9DpT"
-      },
-      "artists": [
-        {
-          "name": "John Smith",
-          "url": "https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2"
-        }
-      ],
-      "duration_ms": 291826,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/4FxBG9VPpxPXMDgqLgW5ZD"
-    },
-    {
-      "added_at": "2026-05-01 04:01:39",
-      "album": {
         "name": "Until the Hunter",
         "url": "https://open.spotify.com/album/72uDE3xlSwejX3iYZqWTWU"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 450986,
       "name": "Let Me Get There",
       "url": "https://open.spotify.com/track/51JNZr0bBwOMFoSnB2oDNv"
+    },
+    {
+      "added_at": "2026-05-01 04:01:39",
+      "album": {
+        "name": "The Fray",
+        "url": "https://open.spotify.com/album/1r16zCSIhxkc5b9dSQ9DpT"
+      },
+      "artists": [
+        {
+          "name": "John Smith",
+          "url": "https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2"
+        }
+      ],
+      "duration_ms": 291826,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/4FxBG9VPpxPXMDgqLgW5ZD"
     },
     {
       "added_at": "2026-05-01 04:01:39",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2026-05-01 04:01:39",
       "album": {
-        "name": "Thinking About You",
-        "url": "https://open.spotify.com/album/6Av9V14GQ4dIqQj9QLBhec"
-      },
-      "artists": [
-        {
-          "name": "Beck",
-          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
-        }
-      ],
-      "duration_ms": 217463,
-      "name": "Thinking About You",
-      "url": "https://open.spotify.com/track/5gTCp2dIRTLgJ8ZZllw0bR"
-    },
-    {
-      "added_at": "2026-05-01 04:01:39",
-      "album": {
         "name": "Humble Quest",
         "url": "https://open.spotify.com/album/3BEDHGAd2zJh5dUL4dbmiw"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 195763,
       "name": "Circles Around This Town",
       "url": "https://open.spotify.com/track/08TCIO6LpgC11UdayeOxWB"
+    },
+    {
+      "added_at": "2026-05-01 04:01:39",
+      "album": {
+        "name": "Thinking About You",
+        "url": "https://open.spotify.com/album/6Av9V14GQ4dIqQj9QLBhec"
+      },
+      "artists": [
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        }
+      ],
+      "duration_ms": 217463,
+      "name": "Thinking About You",
+      "url": "https://open.spotify.com/track/5gTCp2dIRTLgJ8ZZllw0bR"
     },
     {
       "added_at": "2026-05-01 04:01:39",
@@ -1307,6 +1307,26 @@
     {
       "added_at": "2026-05-01 04:01:39",
       "album": {
+        "name": "Take Me Away",
+        "url": "https://open.spotify.com/album/0hOipA3CbMzKRfG1DOyiy5"
+      },
+      "artists": [
+        {
+          "name": "Cisco Adler",
+          "url": "https://open.spotify.com/artist/23apFYuBTpFemqLDn8ViLW"
+        },
+        {
+          "name": "Donavon Frankenreiter",
+          "url": "https://open.spotify.com/artist/2IAZ2xX1Ovh5jxhBWE7wda"
+        }
+      ],
+      "duration_ms": 151560,
+      "name": "Take Me Away",
+      "url": "https://open.spotify.com/track/5Cahcx215DE2oK6hemixF4"
+    },
+    {
+      "added_at": "2026-05-01 04:01:39",
+      "album": {
         "name": "The Weekend",
         "url": "https://open.spotify.com/album/7f9oUUbD25iMavLWOX3E0e"
       },
@@ -1339,22 +1359,18 @@
     {
       "added_at": "2026-05-01 04:01:39",
       "album": {
-        "name": "Take Me Away",
-        "url": "https://open.spotify.com/album/0hOipA3CbMzKRfG1DOyiy5"
+        "name": "And In The Darkness, Hearts Aglow",
+        "url": "https://open.spotify.com/album/1hngVRZt95TrqPqXoJzQ4A"
       },
       "artists": [
         {
-          "name": "Cisco Adler",
-          "url": "https://open.spotify.com/artist/23apFYuBTpFemqLDn8ViLW"
-        },
-        {
-          "name": "Donavon Frankenreiter",
-          "url": "https://open.spotify.com/artist/2IAZ2xX1Ovh5jxhBWE7wda"
+          "name": "Weyes Blood",
+          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
         }
       ],
-      "duration_ms": 151560,
-      "name": "Take Me Away",
-      "url": "https://open.spotify.com/track/5Cahcx215DE2oK6hemixF4"
+      "duration_ms": 363520,
+      "name": "Children of the Empire",
+      "url": "https://open.spotify.com/track/75vW355BVk8wNjOqfrjfjo"
     },
     {
       "added_at": "2026-05-01 04:01:39",
@@ -1371,22 +1387,6 @@
       "duration_ms": 218046,
       "name": "K\u00f6ln (Lost in Time)",
       "url": "https://open.spotify.com/track/2CwkTHMPLad36ZRr31OINb"
-    },
-    {
-      "added_at": "2026-05-01 04:01:39",
-      "album": {
-        "name": "And In The Darkness, Hearts Aglow",
-        "url": "https://open.spotify.com/album/1hngVRZt95TrqPqXoJzQ4A"
-      },
-      "artists": [
-        {
-          "name": "Weyes Blood",
-          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
-        }
-      ],
-      "duration_ms": 363520,
-      "name": "Children of the Empire",
-      "url": "https://open.spotify.com/track/75vW355BVk8wNjOqfrjfjo"
     },
     {
       "added_at": "2026-05-01 04:01:39",
@@ -1623,6 +1623,22 @@
     {
       "added_at": "2026-05-01 04:01:39",
       "album": {
+        "name": "Soul Sweet Song",
+        "url": "https://open.spotify.com/album/1zvef1QMx5kNFNKifTTQud"
+      },
+      "artists": [
+        {
+          "name": "Tedeschi Trucks Band",
+          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
+        }
+      ],
+      "duration_ms": 235626,
+      "name": "Soul Sweet Song",
+      "url": "https://open.spotify.com/track/6tvXOpoonSGwxM0R4eq8Tj"
+    },
+    {
+      "added_at": "2026-05-01 04:01:39",
+      "album": {
         "name": "Love Is Love",
         "url": "https://open.spotify.com/album/658qjvfIWOhCwaOZixkb45"
       },
@@ -1651,22 +1667,6 @@
       "duration_ms": 234677,
       "name": "Into The Mystery",
       "url": "https://open.spotify.com/track/7zUgIo1qgHuJ3LmeFxmqiN"
-    },
-    {
-      "added_at": "2026-05-01 04:01:39",
-      "album": {
-        "name": "Soul Sweet Song",
-        "url": "https://open.spotify.com/album/1zvef1QMx5kNFNKifTTQud"
-      },
-      "artists": [
-        {
-          "name": "Tedeschi Trucks Band",
-          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
-        }
-      ],
-      "duration_ms": 235626,
-      "name": "Soul Sweet Song",
-      "url": "https://open.spotify.com/track/6tvXOpoonSGwxM0R4eq8Tj"
     },
     {
       "added_at": "2026-05-01 04:01:39",
@@ -1851,6 +1851,22 @@
     {
       "added_at": "2026-05-01 04:01:39",
       "album": {
+        "name": "First In Flight",
+        "url": "https://open.spotify.com/album/6BIZW2xysaiv1S797EreWd"
+      },
+      "artists": [
+        {
+          "name": "Don McCloskey",
+          "url": "https://open.spotify.com/artist/3sIOor80ttkEgpYFQu6NMH"
+        }
+      ],
+      "duration_ms": 221498,
+      "name": "First In Flight",
+      "url": "https://open.spotify.com/track/1CAgLQ0ucxEJYfEYAS83jA"
+    },
+    {
+      "added_at": "2026-05-01 04:01:39",
+      "album": {
         "name": "Calm Yourself Down",
         "url": "https://open.spotify.com/album/5xx8BTKXLgkOlXbaAwTS66"
       },
@@ -1867,22 +1883,6 @@
       "duration_ms": 195803,
       "name": "Calm Yourself Down",
       "url": "https://open.spotify.com/track/5Bdmiyetb619RJdTPkEKLc"
-    },
-    {
-      "added_at": "2026-05-01 04:01:39",
-      "album": {
-        "name": "First In Flight",
-        "url": "https://open.spotify.com/album/6BIZW2xysaiv1S797EreWd"
-      },
-      "artists": [
-        {
-          "name": "Don McCloskey",
-          "url": "https://open.spotify.com/artist/3sIOor80ttkEgpYFQu6NMH"
-        }
-      ],
-      "duration_ms": 221498,
-      "name": "First In Flight",
-      "url": "https://open.spotify.com/track/1CAgLQ0ucxEJYfEYAS83jA"
     },
     {
       "added_at": "2026-05-01 04:01:39",
@@ -1919,22 +1919,6 @@
     {
       "added_at": "2026-05-01 04:01:39",
       "album": {
-        "name": "Black Jeans",
-        "url": "https://open.spotify.com/album/1CVxayI7MG3L73PgA1DCz6"
-      },
-      "artists": [
-        {
-          "name": "Lucie Silvas",
-          "url": "https://open.spotify.com/artist/57HiMjhnxdJflQodRyC5Ju"
-        }
-      ],
-      "duration_ms": 306600,
-      "name": "Black Jeans",
-      "url": "https://open.spotify.com/track/2vBnxZkr6K0Py6iTxHXUKS"
-    },
-    {
-      "added_at": "2026-05-01 04:01:39",
-      "album": {
         "name": "Hospital",
         "url": "https://open.spotify.com/album/1ENe8pdOhj33eDRWNv6Nd2"
       },
@@ -1947,6 +1931,22 @@
       "duration_ms": 213328,
       "name": "Hospital",
       "url": "https://open.spotify.com/track/7yELjeC1XSdso8N8EBrVib"
+    },
+    {
+      "added_at": "2026-05-01 04:01:39",
+      "album": {
+        "name": "Black Jeans",
+        "url": "https://open.spotify.com/album/1CVxayI7MG3L73PgA1DCz6"
+      },
+      "artists": [
+        {
+          "name": "Lucie Silvas",
+          "url": "https://open.spotify.com/artist/57HiMjhnxdJflQodRyC5Ju"
+        }
+      ],
+      "duration_ms": 306600,
+      "name": "Black Jeans",
+      "url": "https://open.spotify.com/track/2vBnxZkr6K0Py6iTxHXUKS"
     },
     {
       "added_at": "2026-05-01 04:01:39",

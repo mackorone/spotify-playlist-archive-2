@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVleyMkaelTd.md) - [plain]
 
 > Soundtrack your cozy dinner with bossa nova jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 212,290 likes - 90 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,336 likes - 90 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVleyMkaelTd.md) - [plain]
 | 89 | [Você](https://open.spotify.com/track/1d3qDMU9yAjC5rnmWysKT8) | [Lucas Sousa Bossa](https://open.spotify.com/artist/0IqYi6pLXMPRYTCLAis6xZ) | [Você](https://open.spotify.com/album/4XmYp5cXvq202uUzz118L5) | 3:33 |
 | 90 | [Bossa De Urso](https://open.spotify.com/track/5O0TcQZyWh61EMnDwOwPQQ) | [Claudio Fonseca Quartet](https://open.spotify.com/artist/3cxnRW4ENZ1c41HbbXy8Bf) | [Bossa De Urso](https://open.spotify.com/album/3s8B4suX6KzEx4ApdR5gZO) | 3:14 |
 
-Snapshot ID: `AAAAAGrpYQldxCvnpiIMSbh6r+GIwmey`
+Snapshot ID: `AAAAAHJvOs5dGsEUbTAqa1RdYK0T14UC`

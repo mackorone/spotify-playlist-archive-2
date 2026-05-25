@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO200ybe.md) - [plain]
 
 > This is Chet Baker\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,307 likes - 46 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,321 likes - 46 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO200ybe.md) - [plain]
 | 45 | [Time On My Hands \- Mono](https://open.spotify.com/track/7gCRsieaL44rHWyZz7Q5Nj) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet \(Mono\)](https://open.spotify.com/album/2d1FwcwFImszirBMuVlWwO) | 4:34 |
 | 46 | [I Remember You \- Remastered 2004](https://open.spotify.com/track/6FYeRy9LuMYTEMXOVCRCJ5) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings And Plays \(Remastered 2004\)](https://open.spotify.com/album/6NVtIIsVMTuphtcAN9FxCc) | 3:15 |
 
-Snapshot ID: `ag+cgAAAAAAp25LRELQrRvYx99Ja7Sox`
+Snapshot ID: `ahDuAAAAAAAUW4yicRxl6BTXTv+cMxaP`

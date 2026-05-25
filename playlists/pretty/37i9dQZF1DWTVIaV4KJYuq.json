@@ -1,6 +1,6 @@
 {
   "description": "All the classic songs you love\u2014covered. Cover: Brandi Carlile",
-  "num_followers": 709496,
+  "num_followers": 709566,
   "original_name": "Classic Covers",
   "owner": {
     "name": "Spotify",
@@ -627,22 +627,6 @@
     {
       "added_at": "2026-05-08 04:01:55",
       "album": {
-        "name": "The Things We Do for Love",
-        "url": "https://open.spotify.com/album/019FOSKZXxS56quC2Wmb1K"
-      },
-      "artists": [
-        {
-          "name": "Joanna Wang",
-          "url": "https://open.spotify.com/artist/1km0aro5NJuoX5dE0Mub5C"
-        }
-      ],
-      "duration_ms": 225053,
-      "name": "Wild World - Acoustic Version",
-      "url": "https://open.spotify.com/track/0ZWSpn7UgqAp4exbKEUD5g"
-    },
-    {
-      "added_at": "2026-05-08 04:01:55",
-      "album": {
         "name": "America",
         "url": "https://open.spotify.com/album/1LbsN7ZwjjnafolKPbnDZK"
       },
@@ -659,18 +643,18 @@
     {
       "added_at": "2026-05-08 04:01:55",
       "album": {
-        "name": "The Band",
-        "url": "https://open.spotify.com/album/7utn5Qzh3LrvtCmt3FjKq0"
+        "name": "The Things We Do for Love",
+        "url": "https://open.spotify.com/album/019FOSKZXxS56quC2Wmb1K"
       },
       "artists": [
         {
-          "name": "Rachel Brown",
-          "url": "https://open.spotify.com/artist/5Dj1Ruham8HvIYJHDPTnhE"
+          "name": "Joanna Wang",
+          "url": "https://open.spotify.com/artist/1km0aro5NJuoX5dE0Mub5C"
         }
       ],
-      "duration_ms": 219960,
-      "name": "I Wanna Dance with Somebody",
-      "url": "https://open.spotify.com/track/550Wn0mCBgXSnTNouQA2fY"
+      "duration_ms": 225053,
+      "name": "Wild World - Acoustic Version",
+      "url": "https://open.spotify.com/track/0ZWSpn7UgqAp4exbKEUD5g"
     },
     {
       "added_at": "2026-05-08 04:01:55",
@@ -703,6 +687,22 @@
       "duration_ms": 234600,
       "name": "Bridge Over Troubled Water",
       "url": "https://open.spotify.com/track/3e0qSxu1fNPzDlwqWN3cBD"
+    },
+    {
+      "added_at": "2026-05-08 04:01:55",
+      "album": {
+        "name": "The Band",
+        "url": "https://open.spotify.com/album/7utn5Qzh3LrvtCmt3FjKq0"
+      },
+      "artists": [
+        {
+          "name": "Rachel Brown",
+          "url": "https://open.spotify.com/artist/5Dj1Ruham8HvIYJHDPTnhE"
+        }
+      ],
+      "duration_ms": 219960,
+      "name": "I Wanna Dance with Somebody",
+      "url": "https://open.spotify.com/track/550Wn0mCBgXSnTNouQA2fY"
     },
     {
       "added_at": "2026-05-08 04:01:55",
@@ -763,22 +763,6 @@
     {
       "added_at": "2026-05-08 04:01:55",
       "album": {
-        "name": "Brandy (You're a Fine Girl)",
-        "url": "https://open.spotify.com/album/4MBX8MJkzfTltROCMA4FUy"
-      },
-      "artists": [
-        {
-          "name": "Catey Shaw",
-          "url": "https://open.spotify.com/artist/5nfow6tv4Dtm6K4WHzczBI"
-        }
-      ],
-      "duration_ms": 208198,
-      "name": "Brandy (You're a Fine Girl)",
-      "url": "https://open.spotify.com/track/3fORBfRj5nyTDvsCslufoH"
-    },
-    {
-      "added_at": "2026-05-08 04:01:55",
-      "album": {
         "name": "Lights",
         "url": "https://open.spotify.com/album/4oVG376KpWeBaxrKqRxVri"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 191813,
       "name": "Your Song",
       "url": "https://open.spotify.com/track/2mN9PvVZX0thvOclMwQAju"
+    },
+    {
+      "added_at": "2026-05-08 04:01:55",
+      "album": {
+        "name": "Brandy (You're a Fine Girl)",
+        "url": "https://open.spotify.com/album/4MBX8MJkzfTltROCMA4FUy"
+      },
+      "artists": [
+        {
+          "name": "Catey Shaw",
+          "url": "https://open.spotify.com/artist/5nfow6tv4Dtm6K4WHzczBI"
+        }
+      ],
+      "duration_ms": 208198,
+      "name": "Brandy (You're a Fine Girl)",
+      "url": "https://open.spotify.com/track/3fORBfRj5nyTDvsCslufoH"
     },
     {
       "added_at": "2026-05-08 04:01:55",
@@ -971,22 +971,6 @@
     {
       "added_at": "2026-05-08 04:01:55",
       "album": {
-        "name": "Vignettes",
-        "url": "https://open.spotify.com/album/3QzGPQofSaqMNWqk7BqmAJ"
-      },
-      "artists": [
-        {
-          "name": "Wesley Schultz",
-          "url": "https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX"
-        }
-      ],
-      "duration_ms": 256798,
-      "name": "My City of Ruins",
-      "url": "https://open.spotify.com/track/22NL5h9eOZqVeBRLrRgMJk"
-    },
-    {
-      "added_at": "2026-05-08 04:01:55",
-      "album": {
         "name": "Don't Worry Baby",
         "url": "https://open.spotify.com/album/5I1YyRxt5Gy6hptZI4fcVw"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 180468,
       "name": "Don't Worry Baby",
       "url": "https://open.spotify.com/track/0nR0ejXiTIg57q07kTL5ZL"
+    },
+    {
+      "added_at": "2026-05-08 04:01:55",
+      "album": {
+        "name": "Vignettes",
+        "url": "https://open.spotify.com/album/3QzGPQofSaqMNWqk7BqmAJ"
+      },
+      "artists": [
+        {
+          "name": "Wesley Schultz",
+          "url": "https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX"
+        }
+      ],
+      "duration_ms": 256798,
+      "name": "My City of Ruins",
+      "url": "https://open.spotify.com/track/22NL5h9eOZqVeBRLrRgMJk"
     },
     {
       "added_at": "2026-05-08 04:01:55",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2026-05-08 04:01:55",
       "album": {
-        "name": "More Than a Woman",
-        "url": "https://open.spotify.com/album/5Nw0TgZQGMB9QwBsaUlQBM"
-      },
-      "artists": [
-        {
-          "name": "The Shadowboxers",
-          "url": "https://open.spotify.com/artist/3gq3IRuBKSmyBbGXwfagj4"
-        }
-      ],
-      "duration_ms": 224666,
-      "name": "More Than a Woman",
-      "url": "https://open.spotify.com/track/7rYyYKW8QxGzkRnqa165JC"
-    },
-    {
-      "added_at": "2026-05-08 04:01:55",
-      "album": {
         "name": "Helplessly Hoping",
         "url": "https://open.spotify.com/album/3StDwAhArvL2O43axaJCSA"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 159229,
       "name": "Helplessly Hoping",
       "url": "https://open.spotify.com/track/3p3wBH07OgxSIxyGUmqNl4"
+    },
+    {
+      "added_at": "2026-05-08 04:01:55",
+      "album": {
+        "name": "More Than a Woman",
+        "url": "https://open.spotify.com/album/5Nw0TgZQGMB9QwBsaUlQBM"
+      },
+      "artists": [
+        {
+          "name": "The Shadowboxers",
+          "url": "https://open.spotify.com/artist/3gq3IRuBKSmyBbGXwfagj4"
+        }
+      ],
+      "duration_ms": 224666,
+      "name": "More Than a Woman",
+      "url": "https://open.spotify.com/track/7rYyYKW8QxGzkRnqa165JC"
     },
     {
       "added_at": "2026-05-08 04:01:55",

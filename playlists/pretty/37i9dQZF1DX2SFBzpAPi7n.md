@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SFBzpAPi7n.md) - [plain]
 
 > K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: Picturemegreen\) \(핫한 국내 록 음악을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 250,684 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,667 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SFBzpAPi7n.md) - [plain]
 | 7 | [Hello Stranger](https://open.spotify.com/track/4mCM8hfSM90j7dDBuzFYvc) | [IT’S](https://open.spotify.com/artist/6lESE9VeLV05vQBw8TB4YA) | [Hello Stranger](https://open.spotify.com/album/20nWISvEaeTmzSY4CDVqUd) | 3:53 |
 | 8 | [Drowning](https://open.spotify.com/track/4xeugB5MqWh0jwvXZPxahq) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [OO\-LI](https://open.spotify.com/album/06isIi4cIfsaH8ot5UoRD4) | 4:04 |
 | 9 | [Landing in Love](https://open.spotify.com/track/3WvM2dIR9iIxMGNMP7WsNw) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [Take\-off](https://open.spotify.com/album/5NUuj9AlcNI1khPYJJAVtV) | 2:45 |
-| 10 | [The Show](https://open.spotify.com/track/170rMcJktySvm1YG7dC7mR) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [The Show](https://open.spotify.com/album/4V5cKd0BsMNwEe6YRVGpCM) | 2:47 |
-| 11 | [eight\(Prod.&Feat\. SUGA of BTS\)](https://open.spotify.com/track/0pYacDCZuRhcrwGUA5nTBe) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU), [SUGA](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) | [eight](https://open.spotify.com/album/5vJNAlQeTf9lsulO1YlmSt) | 2:47 |
+| 10 | [eight\(Prod.&Feat\. SUGA of BTS\)](https://open.spotify.com/track/0pYacDCZuRhcrwGUA5nTBe) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU), [SUGA](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) | [eight](https://open.spotify.com/album/5vJNAlQeTf9lsulO1YlmSt) | 2:47 |
+| 11 | [The Show](https://open.spotify.com/track/170rMcJktySvm1YG7dC7mR) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [The Show](https://open.spotify.com/album/4V5cKd0BsMNwEe6YRVGpCM) | 2:47 |
 | 12 | [Born Savage](https://open.spotify.com/track/21AdIbIIP9cFgwnwEnEl07) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [Caligo Pt.2](https://open.spotify.com/album/1vkQIKe7n01Jxic7csfA4P) | 2:52 |
 | 13 | [Breaking Through](https://open.spotify.com/track/02jSnbMfNzX1aLR7HPyvpH) | [EL CAPITXN](https://open.spotify.com/artist/6znA51F9M98IX7pBtKCu0a), [TAEHYUN](https://open.spotify.com/artist/1kpVcaBKejm2ZrLYZkKdM8), [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [Breaking Through](https://open.spotify.com/album/21uBDpJNMAs8iQEC9JkY0j) | 4:12 |
 | 14 | [Love Language](https://open.spotify.com/track/6w9SgpKIzB54R2xHml1UPP) | [Kim Min Seok \(MeloMance\)](https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA) | [Can This Love Be Translated? \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/5Qg2iNuV6zTCGlIYunvvTd) | 3:05 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SFBzpAPi7n.md) - [plain]
 | 31 | [Welcome to the Show](https://open.spotify.com/track/6je5cTal6PyeITNrOzkCoS) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Fourever](https://open.spotify.com/album/29pgfsXVV0cLsvfylWRZJ9) | 3:37 |
 | 32 | [GAME OVER ?](https://open.spotify.com/track/3Ce7m66BjXf97IDrvUVGbP) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [LOVE&HATE](https://open.spotify.com/album/5lOdOxNDjxelMZ7PJSZB6G) | 3:17 |
 | 33 | [나무](https://open.spotify.com/track/30tYWTkLIQtZWnRIOqcHnJ) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [나무](https://open.spotify.com/album/5MuQTjOeSApez8vNGb94Ur) | 3:52 |
-| 34 | [I'll Never Love Again](https://open.spotify.com/track/1L00vG2kGAmaAw47GQUNNI) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [I’ll Never Love Again](https://open.spotify.com/album/5DOrTTLwOPyxhwo3AyCRwN) | 3:45 |
-| 35 | [Flowering](https://open.spotify.com/track/0qhreE12TQ0x669kJDfL3V) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [DEAR.](https://open.spotify.com/album/4f4E2S0S3Zq5XULNKyxvCm) | 4:11 |
+| 34 | [Flowering](https://open.spotify.com/track/0qhreE12TQ0x669kJDfL3V) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [DEAR.](https://open.spotify.com/album/4f4E2S0S3Zq5XULNKyxvCm) | 4:11 |
+| 35 | [I'll Never Love Again](https://open.spotify.com/track/1L00vG2kGAmaAw47GQUNNI) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [I’ll Never Love Again](https://open.spotify.com/album/5DOrTTLwOPyxhwo3AyCRwN) | 3:45 |
 | 36 | [Zombie](https://open.spotify.com/track/0vPLEyGAlxDAMxFvnwHgUB) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Book of Us : The Demon](https://open.spotify.com/album/6nLZ4KhjJSdxag9cDIFHhJ) | 3:29 |
 | 37 | [Goodbye, My Summer](https://open.spotify.com/track/2aicRlZiaAEteaPsti8Hls) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [JAMONG SALGU CLUB](https://open.spotify.com/album/2DV7iVJ7L5DRQijgjyqLyQ) | 3:56 |
 | 38 | [Sunshine Bless You](https://open.spotify.com/track/3KQ3fLAkMYyCWQLCi60zeE) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) | [FLOWERING](https://open.spotify.com/album/0e4X6KNw1He0mlZ2BK9Loz) | 3:51 |
@@ -53,9 +53,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SFBzpAPi7n.md) - [plain]
 | 43 | [Event Horizon](https://open.spotify.com/track/6RBziRcDeiho3iTPdtEeg9) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [YOUNHA 6th Album Repackage 'END THEORY : Final Edition'](https://open.spotify.com/album/63mur6I6yCG9cOxOst3i7c) | 5:00 |
 | 44 | [What A Love](https://open.spotify.com/track/0uWkK3kmlhxtBtbXGZcgPU) | [DOYOUNG](https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi) | [Boyfriend on Demand Part 1 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/1ikUWSlHhgzSx6drjjyG97) | 3:18 |
 | 45 | [AMNESIA](https://open.spotify.com/track/0DvArwBhUjoOaRjluR7gCr) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [AMNESIA](https://open.spotify.com/album/6Ux7J1ECzNHlKWw8GOxYNs) | 3:19 |
-| 46 | [Dash](https://open.spotify.com/track/2sDcIrosoXqiGv1D5OQUvF) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [Caligo Pt.1](https://open.spotify.com/album/6EgR5UlxMx9JksQUqR9Yep) | 2:54 |
-| 47 | [Rooftop](https://open.spotify.com/track/2LwH6T39A5IODRgPv9XitR) | [N.Flying](https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb) | [FLY HIGH PROJECT \#2 'Rooftop'](https://open.spotify.com/album/6UGXwkMNagPJ3jhSMTv4V5) | 3:30 |
-| 48 | [Traffic light](https://open.spotify.com/track/03qu1u4hDyepQQi2lNxCka) | [LEE MU JIN](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [Traffic light](https://open.spotify.com/album/4lHGpxL8peLQSZRgl1Lssm) | 3:51 |
+| 46 | [Rooftop](https://open.spotify.com/track/2LwH6T39A5IODRgPv9XitR) | [N.Flying](https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb) | [FLY HIGH PROJECT \#2 'Rooftop'](https://open.spotify.com/album/6UGXwkMNagPJ3jhSMTv4V5) | 3:30 |
+| 47 | [Traffic light](https://open.spotify.com/track/03qu1u4hDyepQQi2lNxCka) | [LEE MU JIN](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [Traffic light](https://open.spotify.com/album/4lHGpxL8peLQSZRgl1Lssm) | 3:51 |
+| 48 | [Dash](https://open.spotify.com/track/2sDcIrosoXqiGv1D5OQUvF) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [Caligo Pt.1](https://open.spotify.com/album/6EgR5UlxMx9JksQUqR9Yep) | 2:54 |
 | 49 | [Dear](https://open.spotify.com/track/2ryzy7LSXUDFg5G05znHsL) | [QWER](https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy) | [3rd Mini Album 'In a million noises, I'll be your harmony'](https://open.spotify.com/album/1kOSueM1uqixinJjvk6ivV) | 3:22 |
 | 50 | [The Symphony of Fxxkboys](https://open.spotify.com/track/52KygGkyBwayKKdv7gDAdP) | [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [adagio](https://open.spotify.com/album/1BNiIpMz58htoqjXUMpq1T) | 3:15 |
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PKX5dyBKeq.md) - [plain]
 
 > The Best of Hip\-Hop, Rap and Drill from the UK\. Cover: MoStack, J Hus
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,402,048 likes - 79 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,402,029 likes - 79 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

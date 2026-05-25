@@ -2,7 +2,7 @@
 
 ### [Mezzanotte Chill Rap](https://open.spotify.com/playlist/37i9dQZF1DX37pZLd58ED5)
 
-> Solo beat e rime avvolgenti\. Cover: Tony Boy
+> Solo beat e rime avvolgenti\. Cover: Lazza
 
 366 songs - 18 hr 45 min
 

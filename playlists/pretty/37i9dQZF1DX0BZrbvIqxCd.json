@@ -1,6 +1,6 @@
 {
   "description": "A mix of punk rock to get you through your workout.",
-  "num_followers": 544480,
+  "num_followers": 544468,
   "original_name": "Punk Rock Workout",
   "owner": {
     "name": "Spotify",
@@ -635,22 +635,6 @@
     {
       "added_at": "2024-07-19 11:53:42",
       "album": {
-        "name": "Victory Lap (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/01lJjCxlvrddTRzIbtKHmP"
-      },
-      "artists": [
-        {
-          "name": "Propagandhi",
-          "url": "https://open.spotify.com/artist/7qpy5KY3DVrezixTl6mziA"
-        }
-      ],
-      "duration_ms": 176893,
-      "name": "Victory Lap",
-      "url": "https://open.spotify.com/track/1p40MAvOzGAO07icf3MuAl"
-    },
-    {
-      "added_at": "2024-07-19 11:53:42",
-      "album": {
         "name": "Letter to Self",
         "url": "https://open.spotify.com/album/1PTPBDLcqveMGkymgIqZoZ"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 207409,
       "name": "Heavy",
       "url": "https://open.spotify.com/track/02bA26OEe0nNFyE3YcNx4K"
+    },
+    {
+      "added_at": "2024-07-19 11:53:42",
+      "album": {
+        "name": "Victory Lap (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/01lJjCxlvrddTRzIbtKHmP"
+      },
+      "artists": [
+        {
+          "name": "Propagandhi",
+          "url": "https://open.spotify.com/artist/7qpy5KY3DVrezixTl6mziA"
+        }
+      ],
+      "duration_ms": 176893,
+      "name": "Victory Lap",
+      "url": "https://open.spotify.com/track/1p40MAvOzGAO07icf3MuAl"
     },
     {
       "added_at": "2024-07-19 11:53:42",
@@ -1631,18 +1631,18 @@
     {
       "added_at": "2024-07-19 11:53:42",
       "album": {
-        "name": "THE FIRST TEST",
-        "url": "https://open.spotify.com/album/0AMkClFCC05JsSfKwm34GU"
+        "name": "Nature/Nurture",
+        "url": "https://open.spotify.com/album/0fRg4WnrY1zcqCPrglnSzO"
       },
       "artists": [
         {
-          "name": "Speed",
-          "url": "https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn"
+          "name": "Clowns",
+          "url": "https://open.spotify.com/artist/2TuGrkN9bcjWU1GcrUarYn"
         }
       ],
-      "duration_ms": 134224,
-      "name": "THE FIRST TEST",
-      "url": "https://open.spotify.com/track/2w4syBfKFwzRioQVnbddrs"
+      "duration_ms": 107440,
+      "name": "Bland Is The New Black",
+      "url": "https://open.spotify.com/track/2L74jTvqQv8vJJesWuwft3"
     }
   ],
   "unique_name": "Punk Rock Workout",

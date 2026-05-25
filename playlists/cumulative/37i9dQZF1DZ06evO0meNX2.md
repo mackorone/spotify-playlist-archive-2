@@ -4,7 +4,7 @@
 
 > This is Codiciado\. The essential tracks, all in one playlist.
 
-83 songs - 4 hr 28 min
+84 songs - 4 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,11 +66,12 @@
 | [Olvídame Tú](https://open.spotify.com/track/66IMXYjOUbJcImGLpyC2Ka) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Duelo](https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq) | [Olvídame Tú](https://open.spotify.com/album/2tSsIQp0KZgCOl99gCC5Is) | 3:40 | 2025-03-17 |  |
 | [Olvídame Tú](https://open.spotify.com/track/2KwsKHfXagurEXkTPpWGEN) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Duelo](https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq) | [Olvídame Tú](https://open.spotify.com/album/1WVbKmdcQlfQJLUYkGZu06) | 3:41 | 2024-01-29 | 2025-03-17 |
 | [Pachamama](https://open.spotify.com/track/7yF2xSIHaFSWTdaZWW5IPw) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Así Es La Vida](https://open.spotify.com/album/0TWwVA2SLE68qEemMfl9NC) | 3:20 | 2026-05-10 |  |
-| [Parque De Diversiones](https://open.spotify.com/track/791oMvyY57IAKN31XYJ2PE) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [NLIEC 2 \(LIVE SESSION\)](https://open.spotify.com/album/0LJGJbIIEjfbQE1ZpwXGle) | 3:18 | 2025-03-02 |  |
+| [Parque De Diversiones](https://open.spotify.com/track/791oMvyY57IAKN31XYJ2PE) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [NLIEC 2 \(LIVE SESSION\)](https://open.spotify.com/album/0LJGJbIIEjfbQE1ZpwXGle) | 3:18 | 2025-03-02 | 2026-05-25 |
 | [QuesoXte](https://open.spotify.com/track/2xjfjnqSUBQdYu8P0TSzId) | [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [QuesoXte](https://open.spotify.com/album/6P2JT8MNs7I26VCQotcL1n) | 2:31 | 2024-08-11 | 2024-10-30 |
 | [QuesoXte](https://open.spotify.com/track/4unGsS2C1JL3UG7gkYXJp3) | [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [X Amor II](https://open.spotify.com/album/2VYdhZU6KonE9X50HFLHhM) | 2:31 | 2024-10-30 | 2026-05-10 |
 | [Relojito Adiamantado](https://open.spotify.com/track/0ECe0wvJwuLcfopJLBaEb1) | [Hadrian](https://open.spotify.com/artist/2F9icYS5KP4Td9nbxIjo9q), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Niño De Oro](https://open.spotify.com/album/2LtooHAvxsaUywYzKxfjhZ) | 2:57 | 2025-03-13 |  |
 | [Relojito Adiamantado](https://open.spotify.com/track/1AUb1vYXNAsD9phjOWocu0) | [Hadrian](https://open.spotify.com/artist/2F9icYS5KP4Td9nbxIjo9q), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Niño De Oro](https://open.spotify.com/album/0NBlTXwQlvRDZ9ZV78hOxh) | 2:57 | 2024-01-29 | 2025-03-13 |
+| [Se Me Amanece](https://open.spotify.com/track/17LTvUNcDekp4pivzWQ283) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [DOSIS](https://open.spotify.com/album/3ubgQrcjkyLeiRuTSfOR3Z) | 3:34 | 2026-05-25 |  |
 | [Si Yo Me Activo](https://open.spotify.com/track/20ujrHb2a79uFDJnmET4Rf) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Golpes De La Vida](https://open.spotify.com/album/27ODCRlzVevImnQl0KcsXY) | 3:30 | 2025-03-15 |  |
 | [Si Yo Me Activo](https://open.spotify.com/track/7rM7DY9jc43N89I5IOFAQp) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Golpes De La Vida](https://open.spotify.com/album/3ru369H2JPYtw1GxlZFRDm) | 3:31 | 2024-01-29 | 2025-03-15 |
 | [SOLDADO BLANCO \- En Vivo desde Los Ángeles](https://open.spotify.com/track/3r2kOgyTJ7ECwh6zr62BVL) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [PISTEANDO DESDE LOS ANGELES \(En Vivo\)](https://open.spotify.com/album/3QbPa15debwncYYRMvb1hL) | 3:11 | 2025-07-06 |  |

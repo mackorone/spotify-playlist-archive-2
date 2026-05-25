@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,253 songs - 5 day 13 hr 12 min
+2,256 songs - 5 day 13 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1033,6 +1033,7 @@
 | [Keep Me](https://open.spotify.com/track/4a6Teql1ahE5OcfsfLUhd7) | [Larkspur Vega](https://open.spotify.com/artist/5teFor75xkx1AdZqv8RGSY) | [Keep Me](https://open.spotify.com/album/5fDRGTYrH8AIySwA8ukX5U) | 3:49 | 2025-09-13 | 2026-04-08 |
 | [Keep Your Head Held High!](https://open.spotify.com/track/1tVaSogjGoX0hAaLKcgeWR) | [No Conscription League](https://open.spotify.com/artist/4id25mOX3NU4hrTU1GdZNQ) | [ÂME DAMNÉE, KEEP YOUR HEAD HELD HIGH!](https://open.spotify.com/album/7y2gs2bBvmIEnPpadz4Fi3) | 8:50 | 2025-03-30 |  |
 | [Kevin's Song, Pt\. 2](https://open.spotify.com/track/5nCScXcLJl3GOV1gCbnC71) | [The Unk Skunk](https://open.spotify.com/artist/0alGtBjM4JH7cwBNeLUcxe) | [Kevin's Song, Pt\. 2](https://open.spotify.com/album/7IahdJz91ZSIOrSdX6Bc5u) | 4:14 | 2026-01-30 |  |
+| [Kids On Fast\-Forward](https://open.spotify.com/track/0NGK0ahfImvD9RSoQtKIg9) | [Potao](https://open.spotify.com/artist/5GD2Wl5un0dmmR10arYp5P) | [Kids On Fast\-Forward](https://open.spotify.com/album/30w4d4Gv93dtP53186lz9A) | 2:41 | 2026-05-24 |  |
 | [Kids On Fast\-Forward](https://open.spotify.com/track/0jMY3G8clCjyx96tkQX1yC) | [Potao](https://open.spotify.com/artist/5GD2Wl5un0dmmR10arYp5P) | [Space is waiting](https://open.spotify.com/album/6bXj35VTwniDyFcdDkwDPO) | 2:41 | 2026-05-22 |  |
 | [Kindest Thing](https://open.spotify.com/track/6zlmNOc2Dw5hqvfoNC2JrS) | [Blue Scarr](https://open.spotify.com/artist/1gTOD1oLGnXEK81NvlQWSi), [Ava Breeze](https://open.spotify.com/artist/0SqTm0vETKvufHb2sUmGcQ) | [Kindest Thing](https://open.spotify.com/album/4qAHhJN0GEVaNUeRZPVYq3) | 2:45 | 2025-06-29 |  |
 | [King](https://open.spotify.com/track/3uRwRYQivxq32dAccCisVE) | [The Dubbstyle](https://open.spotify.com/artist/2EhzGQxSHKOjcrOSieAF0g) | [Slow](https://open.spotify.com/album/7kQA4WVRe18dEdsLSD14la) | 4:45 | 2024-03-10 |  |
@@ -1093,6 +1094,7 @@
 | [Lazy Dog Danglin' Afternoon](https://open.spotify.com/track/5dJefkjbEmBYYcW5antHU7) | [Radio Relaxo](https://open.spotify.com/artist/04ikqcraU8yaaY1xYhRJB5) | [Dead Beat Permanent Record](https://open.spotify.com/album/2vzlrpdDN8ggDkUKpk8EjS) | 3:45 | 2026-01-15 |  |
 | [Lazy Horizon \- Original Version](https://open.spotify.com/track/0zO4JbFcUsi1GhKSUt22BP) | [Roberto Senchiu](https://open.spotify.com/artist/6YOzBCyZMjxlDtQmpYvgoC) | [Lazy Horizon \(Original Version\)](https://open.spotify.com/album/283SVcDeLYWgp0qH4o8Yrm) | 2:47 | 2026-03-23 |  |
 | [Le Lacrime al Sale](https://open.spotify.com/track/1SbLbL6GMqVIVgwR8CU0Kc) | [Fabrizio Urbani](https://open.spotify.com/artist/2pQiqp2nTCDI4JnPgxGbIN) | [Le Lacrime al Sale](https://open.spotify.com/album/5kp3VIueUreQP4JD7maaUY) | 4:38 | 2025-06-14 |  |
+| [Le Parapluie](https://open.spotify.com/track/1og48AOvKt4JGcarqnem76) | [Chach'](https://open.spotify.com/artist/5zoGbldAsgbeYrOW4Zt0c2) | [Le Parapluie](https://open.spotify.com/album/5fwY9R5pySznHMN2SYq56x) | 3:26 | 2026-05-24 |  |
 | [Leaving Babylon Behind](https://open.spotify.com/track/7BTgabbcnStUyObdMD5rbF) | [dub cmd](https://open.spotify.com/artist/0rmgh8IDlWiipBDcm51cPw), [SistaSara](https://open.spotify.com/artist/5FlVmD8yus10fruwtb3jFg) | [Leaving Babylon Behind](https://open.spotify.com/album/4AnzOMT8dJ11pxrIx09IqG) | 3:25 | 2024-03-10 |  |
 | [Leaving you](https://open.spotify.com/track/0j3KOliSMcTvI4sl8sQCq2) | [AnorA](https://open.spotify.com/artist/1VmshPendkj3SJcdwH9DS9) | [Leaving you](https://open.spotify.com/album/35yuE21tVmcw61SBBsvkZO) | 3:07 | 2025-12-12 |  |
 | [Legal \- Professor Skank Remix](https://open.spotify.com/track/1xNI4yxzus7PVTJbauA8tA) | [Mr Zebre](https://open.spotify.com/artist/3y7HySXXsJL04wmIQfrEPD), [Rebel\-I](https://open.spotify.com/artist/5sk0yYZNTRXG1Ph14bpSVu) | [Reggae Sunjam](https://open.spotify.com/album/6kYiNLr72LY5Wdz98ArSi2) | 3:52 | 2024-03-23 |  |
@@ -1147,6 +1149,7 @@
 | [LOADSTONE \- SINGOLO](https://open.spotify.com/track/2yLJnJl5fZWU1r5AUkNiBl) | [yogyety](https://open.spotify.com/artist/0eWeSaAWeytNuogll1VxST) | [LOADSTONE \(SINGOLO\)](https://open.spotify.com/album/1Cx5pyhdifjYwPVZESXdJT) | 3:23 | 2025-10-02 |  |
 | [Lonely Loops](https://open.spotify.com/track/74i5l8wTa7jST3wWgfYC8K) | [DustyDaze](https://open.spotify.com/artist/4M9oKzpN3FTMUxK4AuwqW4) | [Lonely Loops](https://open.spotify.com/album/3RyFaycftCt1c9oANqDvND) | 3:35 | 2025-09-16 |  |
 | [Lonely Moonlit Reflection](https://open.spotify.com/track/3yjBwSk2AggTFkAxVl8Oek) | [Edren](https://open.spotify.com/artist/60dVRzJKHt26v1lJLTszSG) | [Lonely Moonlit Reflection](https://open.spotify.com/album/1Pils6ejn9auYbAmT9O3KX) | 2:10 | 2025-08-01 |  |
+| [Loop Me In Your Memory](https://open.spotify.com/track/51cjzKZtZrHNn2oSfcLbPf) | [Potao](https://open.spotify.com/artist/5GD2Wl5un0dmmR10arYp5P) | [Loop Me In Your Memory](https://open.spotify.com/album/7LsfTcQDIRNIBEAsDhFzVn) | 2:46 | 2026-05-24 |  |
 | [Loop Me In Your Memory](https://open.spotify.com/track/60zGgF3bdBIe3wuGsz7F2R) | [Potao](https://open.spotify.com/artist/5GD2Wl5un0dmmR10arYp5P) | [Space is waiting](https://open.spotify.com/album/6bXj35VTwniDyFcdDkwDPO) | 2:46 | 2026-05-22 |  |
 | [Los sueños](https://open.spotify.com/track/5jxupTeXqVCshsgtOWh0xr) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Puzzles](https://open.spotify.com/album/7e2bA6vx7HTLvrOtyFLChY) | 2:10 | 2026-03-15 |  |
 | [Losing Faith In Everything And Emptied On I\-10](https://open.spotify.com/track/1daBzwf4AtmgpsozhA558t) | [Ambergrove](https://open.spotify.com/artist/3kQKkPF715ZFIubJtoFT1V) | [Losing Faith In Everything And Emptied On I\-10](https://open.spotify.com/album/3O85EaGCoC4AA4lNoj0xne) | 3:48 | 2026-05-19 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is Siouxsie and the Banshees. The essential tracks, all in one playlist.",
-  "num_followers": 50829,
+  "num_followers": 50840,
   "original_name": "This Is Siouxsie and the Banshees",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ag+cgAAAAAAZmqelGnFGkUwXbvrWZXdx",
+  "snapshot_id": "ahDuAAAAAACWnIplqu7MvmWruRyk4xxI",
   "tracks": [
     {
       "added_at": null,
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
         }
       ],
-      "duration_ms": 170973,
-      "name": "Mirage",
-      "url": "https://open.spotify.com/track/48dL6SIUIqTS4XIUYIQBSI"
+      "duration_ms": 278853,
+      "name": "Jigsaw Feeling",
+      "url": "https://open.spotify.com/track/6Mg9BV9tuZyBwKzxx2rHVS"
     },
     {
       "added_at": null,
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
         }
       ],
-      "duration_ms": 278853,
-      "name": "Jigsaw Feeling",
-      "url": "https://open.spotify.com/track/6Mg9BV9tuZyBwKzxx2rHVS"
+      "duration_ms": 170973,
+      "name": "Mirage",
+      "url": "https://open.spotify.com/track/48dL6SIUIqTS4XIUYIQBSI"
     },
     {
       "added_at": null,

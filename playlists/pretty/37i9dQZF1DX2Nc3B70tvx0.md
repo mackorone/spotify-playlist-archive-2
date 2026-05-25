@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Nc3B70tvx0.md) - [plain]
 
 > A delicious mix of new songs in high rotation\. Cover: Rostam
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,924,101 likes - 52 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,924,055 likes - 52 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Nc3B70tvx0.md) - [plain]
 | 51 | [In Twos](https://open.spotify.com/track/4RlKJvvNZGrzZtupp8C2ap) | [Esha Tewari](https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt) | [In Twos](https://open.spotify.com/album/69T3NDWI9uysXn3tsMfPLW) | 2:46 |
 | 52 | [If You Know Me](https://open.spotify.com/track/1QnFKAPgZ7GI9sYITPuYyL) | [Hudson Freeman](https://open.spotify.com/artist/6k3W2iGuRZrhUnfVZOMQo8) | [If You Know Me / Wild Horses](https://open.spotify.com/album/6BTPGJ3IgfRa43UKmD0Nw8) | 3:23 |
 
-Snapshot ID: `AAAAABIS8NX2WL/xh6aW8WV66QGD6O9j`
+Snapshot ID: `AAAAAN32t8yATlZW6KPQwjB/vxXbeIzR`

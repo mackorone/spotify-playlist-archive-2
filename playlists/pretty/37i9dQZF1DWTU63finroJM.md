@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 
 > Meet the future of music around the world\. Cover: Skye Newman
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,757 likes - 40 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,762 likes - 40 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,19 +34,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 | 24 | [樓梯等你](https://open.spotify.com/track/6wiCMDCcbI7ZtzI6rDWK3v) | [Paula 區子琳](https://open.spotify.com/artist/1wJ1hjR8MO4yvGO2ItLl4I) | [樓梯等你](https://open.spotify.com/album/4LQQEJIpaBYwghtZ8iTPxv) | 3:38 |
 | 25 | [Whatever](https://open.spotify.com/track/3wUqbA1hc4bu2R0KiM0TTi) | [Lina\-Mariah](https://open.spotify.com/artist/3oCoTG5YGC6Z8cqH942oav) | [Whatever](https://open.spotify.com/album/1BaR0QSNMtVK3mn0fIyDlt) | 2:48 |
 | 26 | [夏夕夏景](https://open.spotify.com/track/5kwmL31ZEZBu4stW6WKG6W) | [呂允](https://open.spotify.com/artist/0IOTVYHqENzrhSgJQmIkE9) | [夏夕夏景](https://open.spotify.com/album/3OpwHtAUbWjZuyjO4lZ0HQ) | 2:30 |
-| 27 | [Cowboy Mouth](https://open.spotify.com/track/7qgYR8fHsHyyS5WKvA9srS) | [Sofie Royer](https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl) | [Cowboy Mouth](https://open.spotify.com/album/2AqkGAoflreArNrZQVQMCL) | 3:29 |
-| 28 | [1000 Kali Sakit](https://open.spotify.com/track/0uzE4bSVct5gjrLaGaWuT7) | [Mohsein Kush](https://open.spotify.com/artist/43OqQzIV9TglsBOjhhesn8), [mimpi.](https://open.spotify.com/artist/2eeHSawIPcv45fDx6DJkKE) | [1000 Kali Sakit](https://open.spotify.com/album/22otPjlpE1GtHzxphsmSDy) | 4:04 |
-| 29 | [where's your girlfriend](https://open.spotify.com/track/3a660Cnhydjs5O5g0yQ1ME) | [CON THE ARTIST](https://open.spotify.com/artist/7LVgykYWodtSi56b9cf9nz) | [where's your girlfriend](https://open.spotify.com/album/4allJNrFZH7Ob9jO98TofS) | 3:33 |
-| 30 | [SAJGON](https://open.spotify.com/track/7AfTjJbppdaYeL9BbmkcWo) | [Hugo Tarres](https://open.spotify.com/artist/6VaYrjshHIPyNBnmVdLdgQ) | [SAJGON](https://open.spotify.com/album/7h2fpo2PP0D9wG7JdzIXEw) | 2:00 |
+| 27 | [SAJGON](https://open.spotify.com/track/7AfTjJbppdaYeL9BbmkcWo) | [Hugo Tarres](https://open.spotify.com/artist/6VaYrjshHIPyNBnmVdLdgQ) | [SAJGON](https://open.spotify.com/album/7h2fpo2PP0D9wG7JdzIXEw) | 2:00 |
+| 28 | [Cowboy Mouth](https://open.spotify.com/track/7qgYR8fHsHyyS5WKvA9srS) | [Sofie Royer](https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl) | [Cowboy Mouth](https://open.spotify.com/album/2AqkGAoflreArNrZQVQMCL) | 3:29 |
+| 29 | [1000 Kali Sakit](https://open.spotify.com/track/0uzE4bSVct5gjrLaGaWuT7) | [Mohsein Kush](https://open.spotify.com/artist/43OqQzIV9TglsBOjhhesn8), [mimpi.](https://open.spotify.com/artist/2eeHSawIPcv45fDx6DJkKE) | [1000 Kali Sakit](https://open.spotify.com/album/22otPjlpE1GtHzxphsmSDy) | 4:04 |
+| 30 | [where's your girlfriend](https://open.spotify.com/track/3a660Cnhydjs5O5g0yQ1ME) | [CON THE ARTIST](https://open.spotify.com/artist/7LVgykYWodtSi56b9cf9nz) | [where's your girlfriend](https://open.spotify.com/album/4allJNrFZH7Ob9jO98TofS) | 3:33 |
 | 31 | [Confidence](https://open.spotify.com/track/6nvG4xm7xrTFeHOQkbOEj1) | [My Ugly Clementine](https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y) | [Confidence](https://open.spotify.com/album/6Wi1VvGkKgSuZLD5cXVBpK) | 3:08 |
 | 32 | [PICKY PICKY](https://open.spotify.com/track/1rXkRz2Kq0OPtUCbYl1FnR) | [Jaime Cheung](https://open.spotify.com/artist/0HlQqnAtrcPAXQcfdKqz5h) | [PICKY PICKY](https://open.spotify.com/album/5ALLCCDEVDdmmuSDeNE1ZW) | 2:08 |
-| 33 | [最後一次浪費 \(抒情版\)](https://open.spotify.com/track/4pCz05SvW63BsYVWZNIJst) | [NO TIME FOR SILENCE](https://open.spotify.com/artist/4QhqPcRuERYC4hLLY3gVxe) | [最後一次浪費 \(抒情版\)](https://open.spotify.com/album/2J3Xk0CGqReOLvVYinYNmo) | 2:19 |
-| 34 | [Lagu Healing Kita](https://open.spotify.com/track/6gwq7zQvoyqm3jOkwXKcMd) | [Intan Maya](https://open.spotify.com/artist/4nzjfVkKR5fM96tka8N3pa) | [Lagu Healing Kita](https://open.spotify.com/album/7B6oz3qkogH2Xy2kKCDTkZ) | 3:32 |
+| 33 | [Lagu Healing Kita](https://open.spotify.com/track/6gwq7zQvoyqm3jOkwXKcMd) | [Intan Maya](https://open.spotify.com/artist/4nzjfVkKR5fM96tka8N3pa) | [Lagu Healing Kita](https://open.spotify.com/album/7B6oz3qkogH2Xy2kKCDTkZ) | 3:32 |
+| 34 | [最後一次浪費 \(抒情版\)](https://open.spotify.com/track/4pCz05SvW63BsYVWZNIJst) | [NO TIME FOR SILENCE](https://open.spotify.com/artist/4QhqPcRuERYC4hLLY3gVxe) | [最後一次浪費 \(抒情版\)](https://open.spotify.com/album/2J3Xk0CGqReOLvVYinYNmo) | 2:19 |
 | 35 | [Pink Bape Lighter](https://open.spotify.com/track/2lbkDitLQPRbsA60vkwzMA) | [Loukeman](https://open.spotify.com/artist/10JL2s5aUztzFyURrFrxtL) | [Sd\-3](https://open.spotify.com/album/40Yge9bScgv155F1FmE68B) | 2:40 |
 | 36 | [angel in disguise](https://open.spotify.com/track/2zQYlFRHVpBC2WmTnBsxja) | [quiet morning](https://open.spotify.com/artist/2I7lhkczBjeJ8aTrrZfTgz) | [angel in disguise](https://open.spotify.com/album/4cPJiXzTeTNU4U6XiflS7P) | 3:28 |
-| 37 | [La Movida](https://open.spotify.com/track/2vGvgadh3Y5eUdenohuSa1) | [Barboza](https://open.spotify.com/artist/0HN3uHZSS2Bosw1cFImLVG), [Soley](https://open.spotify.com/artist/1zo2ucFhzu58hKcniMpSQs) | [La Movida](https://open.spotify.com/album/1LvahwcHBNBbDtkIAIiqtC) | 2:40 |
-| 38 | [scuba diving](https://open.spotify.com/track/4vHtTlW8yvweqJxTvJwtsf) | [Quanzo](https://open.spotify.com/artist/2xZ5jDLM2DzHd0UoeIquZn) | [scuba diving](https://open.spotify.com/album/45njOQWwSZh6mIPQ4nx5NT) | 2:04 |
-| 39 | [BEB](https://open.spotify.com/track/6ug8TXrbflwyBcP3IxekJT) | [Janisht Joshi](https://open.spotify.com/artist/0lxFJDXOwwxbYpo0EnA51Z), [KBIR](https://open.spotify.com/artist/3S88CVor97KLhYUta9U6Lh) | [Talkhiyaan](https://open.spotify.com/album/4BsBm8Ny3BKObOnESP3hPh) | 3:23 |
+| 37 | [BEB](https://open.spotify.com/track/6ug8TXrbflwyBcP3IxekJT) | [Janisht Joshi](https://open.spotify.com/artist/0lxFJDXOwwxbYpo0EnA51Z), [KBIR](https://open.spotify.com/artist/3S88CVor97KLhYUta9U6Lh) | [Talkhiyaan](https://open.spotify.com/album/4BsBm8Ny3BKObOnESP3hPh) | 3:23 |
+| 38 | [La Movida](https://open.spotify.com/track/2vGvgadh3Y5eUdenohuSa1) | [Barboza](https://open.spotify.com/artist/0HN3uHZSS2Bosw1cFImLVG), [Soley](https://open.spotify.com/artist/1zo2ucFhzu58hKcniMpSQs) | [La Movida](https://open.spotify.com/album/1LvahwcHBNBbDtkIAIiqtC) | 2:40 |
+| 39 | [scuba diving](https://open.spotify.com/track/4vHtTlW8yvweqJxTvJwtsf) | [Quanzo](https://open.spotify.com/artist/2xZ5jDLM2DzHd0UoeIquZn) | [scuba diving](https://open.spotify.com/album/45njOQWwSZh6mIPQ4nx5NT) | 2:04 |
 | 40 | [Inocente na Cama \- Ao Vivo](https://open.spotify.com/track/55ND5a95XGfsTl1zM3c4BU) | [Bruna Lipiani](https://open.spotify.com/artist/3qsb1v2HkuCUWGWI0rHOPK) | [Barzin, Vol\. 2 \(Ao Vivo\)](https://open.spotify.com/album/6OMUQZatjKKedEXu1hV7Ig) | 2:41 |
 
 Snapshot ID: `AAAAADgrrvsuiXfmedQ/u+MzYG+aMlva`

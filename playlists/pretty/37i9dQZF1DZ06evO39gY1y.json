@@ -1,12 +1,12 @@
 {
   "description": "This is Charles Ans. The essential tracks, all in one playlist.",
-  "num_followers": 257605,
+  "num_followers": 257632,
   "original_name": "This Is Charles Ans",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ag+cgAAAAACeWhs+FZNHS/ip4paaJxJX",
+  "snapshot_id": "ahDuAAAAAACx5nfzuLN75VoR762ag1JV",
   "tracks": [
     {
       "added_at": null,
@@ -319,50 +319,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Antes del alba",
-        "url": "https://open.spotify.com/album/2c8XYCoJPicXUReFRoplYe"
-      },
-      "artists": [
-        {
-          "name": "Penyair",
-          "url": "https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c"
-        },
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "Alka Produce",
-          "url": "https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q"
-        }
-      ],
-      "duration_ms": 181418,
-      "name": "T\u00fa tienes el son",
-      "url": "https://open.spotify.com/track/0xK4D0uzzCBwUpqhjLOupm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sui G\u00e9neris",
-        "url": "https://open.spotify.com/album/5IT4wCmpYj4zeRJfQOaxL4"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        }
-      ],
-      "duration_ms": 201687,
-      "name": "Caf\u00e9",
-      "url": "https://open.spotify.com/track/7uQOMsqi4Hnpuoa3o7gZEB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Super Poderes",
         "url": "https://open.spotify.com/album/4DWhSOhqBQq24IwNqPIuRG"
       },
@@ -387,6 +343,50 @@
       "duration_ms": 258421,
       "name": "Super Poderes",
       "url": "https://open.spotify.com/track/3nvZhn4wNgWsb089sc2Wag"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sui G\u00e9neris",
+        "url": "https://open.spotify.com/album/5IT4wCmpYj4zeRJfQOaxL4"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        }
+      ],
+      "duration_ms": 201687,
+      "name": "Caf\u00e9",
+      "url": "https://open.spotify.com/track/7uQOMsqi4Hnpuoa3o7gZEB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Antes del alba",
+        "url": "https://open.spotify.com/album/2c8XYCoJPicXUReFRoplYe"
+      },
+      "artists": [
+        {
+          "name": "Penyair",
+          "url": "https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c"
+        },
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "Alka Produce",
+          "url": "https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q"
+        }
+      ],
+      "duration_ms": 181418,
+      "name": "T\u00fa tienes el son",
+      "url": "https://open.spotify.com/track/0xK4D0uzzCBwUpqhjLOupm"
     },
     {
       "added_at": null,
@@ -991,6 +991,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Tiempo Cura",
+        "url": "https://open.spotify.com/album/5zTKR5lMmaFyCcjjqC8gS0"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "Adan Golden Ganga",
+          "url": "https://open.spotify.com/artist/6FXfgNHxytp8GsDnK6uXlH"
+        }
+      ],
+      "duration_ms": 208564,
+      "name": "El Tiempo Cura",
+      "url": "https://open.spotify.com/track/10b3OqDXcjzghDKXcK7RBy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "400 Estrellas",
         "url": "https://open.spotify.com/album/64jUlMiRacXh6dgXaA4Zfr"
       },
@@ -1011,26 +1031,6 @@
       "duration_ms": 223875,
       "name": "400 Estrellas",
       "url": "https://open.spotify.com/track/7KoRTkn1EfYjEdmo0GbUOE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Tiempo Cura",
-        "url": "https://open.spotify.com/album/5zTKR5lMmaFyCcjjqC8gS0"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "Adan Golden Ganga",
-          "url": "https://open.spotify.com/artist/6FXfgNHxytp8GsDnK6uXlH"
-        }
-      ],
-      "duration_ms": 208564,
-      "name": "El Tiempo Cura",
-      "url": "https://open.spotify.com/track/10b3OqDXcjzghDKXcK7RBy"
     },
     {
       "added_at": null,

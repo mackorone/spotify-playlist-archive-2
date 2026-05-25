@@ -1,12 +1,12 @@
 {
   "description": "This is Alfredo Olivas. The essential tracks, all in one playlist.",
-  "num_followers": 1088305,
+  "num_followers": 1088438,
   "original_name": "This Is Alfredo Olivas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ag+cgAAAAABNn0ESEs8o2w6BA+wNJdPF",
+  "snapshot_id": "ahDuAAAAAAA5z7Blr2JuGWl48/Bva9JU",
   "tracks": [
     {
       "added_at": null,
@@ -355,22 +355,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Caballo",
-        "url": "https://open.spotify.com/album/5QBM7AxynUoEX92nJho9hH"
+        "name": "El D\u00eda De Los Muertos",
+        "url": "https://open.spotify.com/album/7pxn1oyPyy1nOFQQhoHJKX"
       },
       "artists": [
-        {
-          "name": "Reyli Barba",
-          "url": "https://open.spotify.com/artist/69BUYvpG9MbjCyIZfsFdhJ"
-        },
         {
           "name": "Alfredo Olivas",
           "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
         }
       ],
-      "duration_ms": 262608,
-      "name": "Amor Del Bueno (con Alfredo Olivas)",
-      "url": "https://open.spotify.com/track/5ckl6DcMSiDJV80U1uPhVP"
+      "duration_ms": 206813,
+      "name": "La Danza Del Venado",
+      "url": "https://open.spotify.com/track/468U6z141Dy1dVPikBwKfY"
     },
     {
       "added_at": null,
@@ -391,22 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El D\u00eda De Los Muertos",
-        "url": "https://open.spotify.com/album/7pxn1oyPyy1nOFQQhoHJKX"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-        }
-      ],
-      "duration_ms": 206813,
-      "name": "La Danza Del Venado",
-      "url": "https://open.spotify.com/track/468U6z141Dy1dVPikBwKfY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u00bfQui\u00e9n + Como Yo?",
         "url": "https://open.spotify.com/album/0k8MDpK0kbBXTb5DcLhded"
       },
@@ -423,6 +403,42 @@
       "duration_ms": 159111,
       "name": "Se Vienen D\u00edas Tristes",
       "url": "https://open.spotify.com/track/4wDqICPvF45vx9utsNg4FB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Caballo",
+        "url": "https://open.spotify.com/album/5QBM7AxynUoEX92nJho9hH"
+      },
+      "artists": [
+        {
+          "name": "Reyli Barba",
+          "url": "https://open.spotify.com/artist/69BUYvpG9MbjCyIZfsFdhJ"
+        },
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "duration_ms": 262608,
+      "name": "Amor Del Bueno (con Alfredo Olivas)",
+      "url": "https://open.spotify.com/track/5ckl6DcMSiDJV80U1uPhVP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El D\u00eda De Los Muertos",
+        "url": "https://open.spotify.com/album/7pxn1oyPyy1nOFQQhoHJKX"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "duration_ms": 183693,
+      "name": "Medalla De Plata",
+      "url": "https://open.spotify.com/track/6HhmRkKT5i2oGSECqQxrog"
     },
     {
       "added_at": null,
@@ -459,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El D\u00eda De Los Muertos",
-        "url": "https://open.spotify.com/album/7pxn1oyPyy1nOFQQhoHJKX"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-        }
-      ],
-      "duration_ms": 183693,
-      "name": "Medalla De Plata",
-      "url": "https://open.spotify.com/track/6HhmRkKT5i2oGSECqQxrog"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Rueda De La Fortuna",
         "url": "https://open.spotify.com/album/1YDVn5KeQ7ZzX7TPmSLTKd"
       },
@@ -487,6 +487,22 @@
       "duration_ms": 234013,
       "name": "Todo O Nada",
       "url": "https://open.spotify.com/track/0snAM2wzhyQkT1zQmFliLG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\"V1V0\"",
+        "url": "https://open.spotify.com/album/20kVQXyFb1SnWdCxBI9jht"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "duration_ms": 218411,
+      "name": "De Sobremanera",
+      "url": "https://open.spotify.com/track/3MVLAi81gIo1nSvfincYFk"
     },
     {
       "added_at": null,
@@ -527,18 +543,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "\"V1V0\"",
-        "url": "https://open.spotify.com/album/20kVQXyFb1SnWdCxBI9jht"
+        "name": "Frente a Frente",
+        "url": "https://open.spotify.com/album/3kuaLpJj6gJumJaCJsspNH"
       },
       "artists": [
+        {
+          "name": "Pesado",
+          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
+        },
         {
           "name": "Alfredo Olivas",
           "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
         }
       ],
-      "duration_ms": 218411,
-      "name": "De Sobremanera",
-      "url": "https://open.spotify.com/track/3MVLAi81gIo1nSvfincYFk"
+      "duration_ms": 218000,
+      "name": "Te quiero, te amo",
+      "url": "https://open.spotify.com/track/73XUqDO8fU7dhFuwHw4W3s"
     },
     {
       "added_at": null,
@@ -559,26 +579,6 @@
       "duration_ms": 144640,
       "name": "Me Toc\u00f3 Morir",
       "url": "https://open.spotify.com/track/6k9zUQ7Gngrs8ULzQOyDDV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Frente a Frente",
-        "url": "https://open.spotify.com/album/3kuaLpJj6gJumJaCJsspNH"
-      },
-      "artists": [
-        {
-          "name": "Pesado",
-          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
-        },
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-        }
-      ],
-      "duration_ms": 218000,
-      "name": "Te quiero, te amo",
-      "url": "https://open.spotify.com/track/73XUqDO8fU7dhFuwHw4W3s"
     },
     {
       "added_at": null,

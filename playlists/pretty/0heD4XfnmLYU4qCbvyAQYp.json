@@ -6,8 +6,24 @@
     "name": "Reinhard Zwisler",
     "url": "https://open.spotify.com/user/21wd7qshyzbn3fhu246sdxwpi"
   },
-  "snapshot_id": "AAAO0xlTTRDrI6C5cG8oYhaGgGTeOxdW",
+  "snapshot_id": "AAAO1AWNxjNJCLKn06EYnX4qeJ0KK/UL",
   "tracks": [
+    {
+      "added_at": "2026-05-24 06:29:53",
+      "album": {
+        "name": "Time Is A Weapon",
+        "url": "https://open.spotify.com/album/46wy0eBBTvxxI3llxxWkAE"
+      },
+      "artists": [
+        {
+          "name": "Julience",
+          "url": "https://open.spotify.com/artist/4SlykBMGNk8EXDDFfphLvL"
+        }
+      ],
+      "duration_ms": 210180,
+      "name": "Time Is A Weapon",
+      "url": "https://open.spotify.com/track/7F0rYUVBoEV4wEFeXG070e"
+    },
     {
       "added_at": "2026-05-20 17:12:04",
       "album": {

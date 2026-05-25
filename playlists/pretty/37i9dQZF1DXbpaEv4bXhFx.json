@@ -1,6 +1,6 @@
 {
   "description": "\ube57\ubc29\uc6b8\ub300\uc2e0 \uac10\uc131\uc744 \ub9de\ub294 \uc2dc\uac04. (Listen to K-Pop rainy day songs.)",
-  "num_followers": 17204,
+  "num_followers": 17202,
   "original_name": "\uc6b0\uc0b0 \uc544\ub798 (Under the Umbrella)",
   "owner": {
     "name": "Spotify",
@@ -135,18 +135,22 @@
     {
       "added_at": "2026-03-26 09:39:41",
       "album": {
-        "name": "Stroll",
-        "url": "https://open.spotify.com/album/2zTRBl0d9LGCNwuwlf63Wx"
+        "name": "/// (You, Clouds, Rain)",
+        "url": "https://open.spotify.com/album/7ANb4BnhkVoBO4RDSJ6uSs"
       },
       "artists": [
         {
-          "name": "Choi Yu Ree",
-          "url": "https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v"
+          "name": "Heize",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+        },
+        {
+          "name": "Shin Yong Jae",
+          "url": "https://open.spotify.com/artist/2frFGmni9tkRgXYdXmzQvR"
         }
       ],
-      "duration_ms": 228266,
-      "name": "Forest",
-      "url": "https://open.spotify.com/track/33xRp6ZX1DKraRFHR9ZDck"
+      "duration_ms": 205312,
+      "name": "You, Clouds, Rain",
+      "url": "https://open.spotify.com/track/6FZAc2XaVYc8G8jaDnBshv"
     },
     {
       "added_at": "2026-03-26 09:39:41",
@@ -167,22 +171,18 @@
     {
       "added_at": "2026-03-26 09:39:41",
       "album": {
-        "name": "/// (You, Clouds, Rain)",
-        "url": "https://open.spotify.com/album/7ANb4BnhkVoBO4RDSJ6uSs"
+        "name": "Stroll",
+        "url": "https://open.spotify.com/album/2zTRBl0d9LGCNwuwlf63Wx"
       },
       "artists": [
         {
-          "name": "Heize",
-          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
-        },
-        {
-          "name": "Shin Yong Jae",
-          "url": "https://open.spotify.com/artist/2frFGmni9tkRgXYdXmzQvR"
+          "name": "Choi Yu Ree",
+          "url": "https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v"
         }
       ],
-      "duration_ms": 205312,
-      "name": "You, Clouds, Rain",
-      "url": "https://open.spotify.com/track/6FZAc2XaVYc8G8jaDnBshv"
+      "duration_ms": 228266,
+      "name": "Forest",
+      "url": "https://open.spotify.com/track/33xRp6ZX1DKraRFHR9ZDck"
     },
     {
       "added_at": "2026-03-26 09:39:41",

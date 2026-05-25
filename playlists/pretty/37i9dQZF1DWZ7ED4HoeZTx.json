@@ -1,6 +1,6 @@
 {
   "description": "Your chill anime soundtrack. Illustration by <a href=\"https://www.instagram.com/nostalook7090/\">NOSTALOOK</a>",
-  "num_followers": 171510,
+  "num_followers": 171552,
   "original_name": "After School Vibes",
   "owner": {
     "name": "Spotify",
@@ -715,6 +715,22 @@
     {
       "added_at": "2026-05-11 05:51:40",
       "album": {
+        "name": "Stories",
+        "url": "https://open.spotify.com/album/4qo7xzzzNICqYYU36O5x00"
+      },
+      "artists": [
+        {
+          "name": "Maki Otsuki",
+          "url": "https://open.spotify.com/artist/10C2C3ecEhGKdHskghO52u"
+        }
+      ],
+      "duration_ms": 266200,
+      "name": "memories",
+      "url": "https://open.spotify.com/track/12MSmLSGPWulxOPvYBy5Ss"
+    },
+    {
+      "added_at": "2026-05-11 05:51:40",
+      "album": {
         "name": "Eternal Youth",
         "url": "https://open.spotify.com/album/6STwjBCu3CTEViSxJChKlV"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 336880,
       "name": "\u30dc\u30af\u30ce\u30fc\u30c8",
       "url": "https://open.spotify.com/track/72t8Apk92BNOE9iWiVfRG9"
-    },
-    {
-      "added_at": "2026-05-11 05:51:40",
-      "album": {
-        "name": "Stories",
-        "url": "https://open.spotify.com/album/4qo7xzzzNICqYYU36O5x00"
-      },
-      "artists": [
-        {
-          "name": "Maki Otsuki",
-          "url": "https://open.spotify.com/artist/10C2C3ecEhGKdHskghO52u"
-        }
-      ],
-      "duration_ms": 266200,
-      "name": "memories",
-      "url": "https://open.spotify.com/track/12MSmLSGPWulxOPvYBy5Ss"
     },
     {
       "added_at": "2026-05-11 05:51:40",

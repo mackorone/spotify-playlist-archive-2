@@ -4,7 +4,7 @@
 
 > This is Parker McCollum\. The essential tracks, all in one playlist.
 
-77 songs - 4 hr 52 min
+78 songs - 4 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Misunderstood](https://open.spotify.com/track/4Ojm1pLLjRWdYqIv8boIFw) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Probably Wrong](https://open.spotify.com/album/3G3zeMAjvhy88MFOlgv6ci) | 3:21 | 2025-08-16 |  |
 | [Montgomery County](https://open.spotify.com/track/5oMa8BhzPaTqdPJ0E9rCRm) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Parker McCollum \(The Deluxe Edition\)](https://open.spotify.com/album/4WISa1TyvE8My12P4ie0Ql) | 3:28 | 2026-03-22 |  |
 | [My Blue](https://open.spotify.com/track/18i60D5UgcVUjTPzZdQmPM) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Parker McCollum](https://open.spotify.com/album/0yqDWZNB69J3FYyQPgF4xA) | 5:11 | 2025-06-29 |  |
+| [New York Is On Fire](https://open.spotify.com/track/5PpeFaW7pWQre11m6eg3e2) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Parker McCollum \(The Deluxe Edition\)](https://open.spotify.com/album/4WISa1TyvE8My12P4ie0Ql) | 4:53 | 2026-05-25 |  |
 | [Paper Umbrellas](https://open.spotify.com/track/52MQYkbFuv9UzA8wz927xO) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd), [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Paper Umbrellas](https://open.spotify.com/album/1alHcx2t1SKjGgF4P9Q0pz) | 3:29 | 2025-06-15 |  |
 | [Perfectly Lonely](https://open.spotify.com/track/0c3pzxjufIrG4oVwF99eqs) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Perfectly Lonely](https://open.spotify.com/album/6G4Z9dLR84a2xBEPBP4uMH) | 4:30 | 2025-06-15 |  |
 | [Permanent Headphones](https://open.spotify.com/track/1gVbNW6zPKkfhVSQu5nVDZ) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Parker McCollum](https://open.spotify.com/album/0yqDWZNB69J3FYyQPgF4xA) | 3:28 | 2025-06-29 | 2025-08-11 |

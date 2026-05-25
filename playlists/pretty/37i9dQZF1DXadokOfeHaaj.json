@@ -1,6 +1,6 @@
 {
   "description": "The best new electronic indie music. Cover: 1-800 GIRLS",
-  "num_followers": 43437,
+  "num_followers": 43441,
   "original_name": "Indie Electronic ",
   "owner": {
     "name": "Spotify",
@@ -675,18 +675,22 @@
     {
       "added_at": "2026-05-21 23:00:29",
       "album": {
-        "name": "Tacchini",
-        "url": "https://open.spotify.com/album/3j9gagsPfqOmdi7jB0F2tG"
+        "name": "Good Girl",
+        "url": "https://open.spotify.com/album/1OJ2oUJcjDuiIEPrU5trpp"
       },
       "artists": [
         {
-          "name": "Mind Enterprises",
-          "url": "https://open.spotify.com/artist/5pN1DJhPFDKso4OtC0QhnB"
+          "name": "Swimming Paul",
+          "url": "https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s"
+        },
+        {
+          "name": "Beaux Neptune",
+          "url": "https://open.spotify.com/artist/78yjqwSo3AshRgJwAfeFZj"
         }
       ],
-      "duration_ms": 289815,
-      "name": "Tacchini",
-      "url": "https://open.spotify.com/track/6YpeSOKGqvxO8M8K5SlsjQ"
+      "duration_ms": 194887,
+      "name": "Good Girl",
+      "url": "https://open.spotify.com/track/3CWjCDuORRYDKZjdQRra4f"
     },
     {
       "added_at": "2026-05-21 23:00:29",
@@ -711,6 +715,22 @@
       "duration_ms": 181921,
       "name": "It Feels Much Better",
       "url": "https://open.spotify.com/track/2YJZrP7foi3hTnuVGbEsnp"
+    },
+    {
+      "added_at": "2026-05-21 23:00:29",
+      "album": {
+        "name": "Tacchini",
+        "url": "https://open.spotify.com/album/3j9gagsPfqOmdi7jB0F2tG"
+      },
+      "artists": [
+        {
+          "name": "Mind Enterprises",
+          "url": "https://open.spotify.com/artist/5pN1DJhPFDKso4OtC0QhnB"
+        }
+      ],
+      "duration_ms": 289815,
+      "name": "Tacchini",
+      "url": "https://open.spotify.com/track/6YpeSOKGqvxO8M8K5SlsjQ"
     },
     {
       "added_at": "2026-05-21 23:00:29",
@@ -747,26 +767,6 @@
     {
       "added_at": "2026-05-21 23:00:29",
       "album": {
-        "name": "Say\u014dnara",
-        "url": "https://open.spotify.com/album/4sSuFuXvMNnml7USWeCiQ9"
-      },
-      "artists": [
-        {
-          "name": "KNEECAP",
-          "url": "https://open.spotify.com/artist/1ZVACPeq7ccGCoUXwtafUU"
-        },
-        {
-          "name": "Paul Hartnoll",
-          "url": "https://open.spotify.com/artist/2VhTV1oh2l76vhVoQHhOrU"
-        }
-      ],
-      "duration_ms": 184734,
-      "name": "Say\u014dnara",
-      "url": "https://open.spotify.com/track/5gNzx8gPSmvZRmC7GqDlkI"
-    },
-    {
-      "added_at": "2026-05-21 23:00:29",
-      "album": {
         "name": "Casableu",
         "url": "https://open.spotify.com/album/0lAe8AD0yI2r0o5ibNXvgk"
       },
@@ -783,22 +783,22 @@
     {
       "added_at": "2026-05-21 23:00:29",
       "album": {
-        "name": "Good Girl",
-        "url": "https://open.spotify.com/album/1OJ2oUJcjDuiIEPrU5trpp"
+        "name": "Say\u014dnara",
+        "url": "https://open.spotify.com/album/4sSuFuXvMNnml7USWeCiQ9"
       },
       "artists": [
         {
-          "name": "Swimming Paul",
-          "url": "https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s"
+          "name": "KNEECAP",
+          "url": "https://open.spotify.com/artist/1ZVACPeq7ccGCoUXwtafUU"
         },
         {
-          "name": "Beaux Neptune",
-          "url": "https://open.spotify.com/artist/78yjqwSo3AshRgJwAfeFZj"
+          "name": "Paul Hartnoll",
+          "url": "https://open.spotify.com/artist/2VhTV1oh2l76vhVoQHhOrU"
         }
       ],
-      "duration_ms": 194887,
-      "name": "Good Girl",
-      "url": "https://open.spotify.com/track/3CWjCDuORRYDKZjdQRra4f"
+      "duration_ms": 184734,
+      "name": "Say\u014dnara",
+      "url": "https://open.spotify.com/track/5gNzx8gPSmvZRmC7GqDlkI"
     },
     {
       "added_at": "2026-05-21 23:00:29",
@@ -871,6 +871,22 @@
     {
       "added_at": "2026-05-21 23:00:29",
       "album": {
+        "name": "Play Me",
+        "url": "https://open.spotify.com/album/68J2MTHvW4gM5C6aevE1fV"
+      },
+      "artists": [
+        {
+          "name": "Fcukers",
+          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
+        }
+      ],
+      "duration_ms": 169411,
+      "name": "Play Me",
+      "url": "https://open.spotify.com/track/20UnbY4JAUTbSCf38TKDdz"
+    },
+    {
+      "added_at": "2026-05-21 23:00:29",
+      "album": {
         "name": "SOMEWHERE ELSE (salute Remix)",
         "url": "https://open.spotify.com/album/08GmfI57v2yujtjXL94x7R"
       },
@@ -899,18 +915,18 @@
     {
       "added_at": "2026-05-21 23:00:29",
       "album": {
-        "name": "Play Me",
-        "url": "https://open.spotify.com/album/68J2MTHvW4gM5C6aevE1fV"
+        "name": "Oh Baby",
+        "url": "https://open.spotify.com/album/1O0ETP1RoxA65mE6ehlZ57"
       },
       "artists": [
         {
-          "name": "Fcukers",
-          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
+          "name": "Archie Holmes",
+          "url": "https://open.spotify.com/artist/1FAe23gB6feByMu2oQUI4J"
         }
       ],
-      "duration_ms": 169411,
-      "name": "Play Me",
-      "url": "https://open.spotify.com/track/20UnbY4JAUTbSCf38TKDdz"
+      "duration_ms": 180999,
+      "name": "Oh Baby",
+      "url": "https://open.spotify.com/track/3OICfhRje9Hy4Pq0UQ4Dhr"
     },
     {
       "added_at": "2026-05-21 23:00:29",
@@ -927,22 +943,6 @@
       "duration_ms": 165388,
       "name": "Insomnia",
       "url": "https://open.spotify.com/track/6JGrKJtW3CxLscWj7OJMYt"
-    },
-    {
-      "added_at": "2026-05-21 23:00:29",
-      "album": {
-        "name": "Oh Baby",
-        "url": "https://open.spotify.com/album/1O0ETP1RoxA65mE6ehlZ57"
-      },
-      "artists": [
-        {
-          "name": "Archie Holmes",
-          "url": "https://open.spotify.com/artist/1FAe23gB6feByMu2oQUI4J"
-        }
-      ],
-      "duration_ms": 180999,
-      "name": "Oh Baby",
-      "url": "https://open.spotify.com/track/3OICfhRje9Hy4Pq0UQ4Dhr"
     },
     {
       "added_at": "2026-05-21 23:00:29",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2026-05-21 23:00:29",
       "album": {
-        "name": "Stardust",
-        "url": "https://open.spotify.com/album/0h3LYQns7VLlsMW7392Z1X"
-      },
-      "artists": [
-        {
-          "name": "Danny Brown",
-          "url": "https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU"
-        }
-      ],
-      "duration_ms": 212066,
-      "name": "Lift You Up",
-      "url": "https://open.spotify.com/track/4hSTvY4GQrNDC2TsCwhEFc"
-    },
-    {
-      "added_at": "2026-05-21 23:00:29",
-      "album": {
         "name": "Running",
         "url": "https://open.spotify.com/album/7EgXAEqEAPyvng9HshtIjM"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 189330,
       "name": "Running",
       "url": "https://open.spotify.com/track/6LDuYk31EfbBefaFLzSuLZ"
+    },
+    {
+      "added_at": "2026-05-21 23:00:29",
+      "album": {
+        "name": "Stardust",
+        "url": "https://open.spotify.com/album/0h3LYQns7VLlsMW7392Z1X"
+      },
+      "artists": [
+        {
+          "name": "Danny Brown",
+          "url": "https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU"
+        }
+      ],
+      "duration_ms": 212066,
+      "name": "Lift You Up",
+      "url": "https://open.spotify.com/track/4hSTvY4GQrNDC2TsCwhEFc"
     },
     {
       "added_at": "2026-05-21 23:00:29",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2026-05-21 23:00:29",
       "album": {
-        "name": "We Go So Good Together",
-        "url": "https://open.spotify.com/album/20BCMVFQWe0uvjXCOOnyHI"
-      },
-      "artists": [
-        {
-          "name": "Harry Hayes",
-          "url": "https://open.spotify.com/artist/7BBSATOdEaY07XbxlUzfFu"
-        }
-      ],
-      "duration_ms": 169630,
-      "name": "We Go So Good Together",
-      "url": "https://open.spotify.com/track/5u60vtj3BIty91oZw2xUVF"
-    },
-    {
-      "added_at": "2026-05-21 23:00:29",
-      "album": {
         "name": "Sunshine",
         "url": "https://open.spotify.com/album/3rbbxT58I3txO7IifNVnPc"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 212201,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/5asbG4btHJ2h2T4F1EtNK8"
+    },
+    {
+      "added_at": "2026-05-21 23:00:29",
+      "album": {
+        "name": "We Go So Good Together",
+        "url": "https://open.spotify.com/album/20BCMVFQWe0uvjXCOOnyHI"
+      },
+      "artists": [
+        {
+          "name": "Harry Hayes",
+          "url": "https://open.spotify.com/artist/7BBSATOdEaY07XbxlUzfFu"
+        }
+      ],
+      "duration_ms": 169630,
+      "name": "We Go So Good Together",
+      "url": "https://open.spotify.com/track/5u60vtj3BIty91oZw2xUVF"
     },
     {
       "added_at": "2026-05-21 23:00:29",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2026-05-21 23:00:29",
       "album": {
-        "name": "Ebb + Flow",
-        "url": "https://open.spotify.com/album/5hMxgKbuFVSUfvu3JL1aPq"
-      },
-      "artists": [
-        {
-          "name": "Max Cooper",
-          "url": "https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J"
-        }
-      ],
-      "duration_ms": 240769,
-      "name": "Ebb + Flow",
-      "url": "https://open.spotify.com/track/40zauhSW2YyiCBoZvYhtg7"
-    },
-    {
-      "added_at": "2026-05-21 23:00:29",
-      "album": {
         "name": "THIEF",
         "url": "https://open.spotify.com/album/6xQzdxhFSXzY43USc4EmJJ"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 182248,
       "name": "THIEF",
       "url": "https://open.spotify.com/track/4LtWEmxk2fW2tPiTUh2YII"
+    },
+    {
+      "added_at": "2026-05-21 23:00:29",
+      "album": {
+        "name": "Ebb + Flow",
+        "url": "https://open.spotify.com/album/5hMxgKbuFVSUfvu3JL1aPq"
+      },
+      "artists": [
+        {
+          "name": "Max Cooper",
+          "url": "https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J"
+        }
+      ],
+      "duration_ms": 240769,
+      "name": "Ebb + Flow",
+      "url": "https://open.spotify.com/track/40zauhSW2YyiCBoZvYhtg7"
     },
     {
       "added_at": "2026-05-21 23:00:29",

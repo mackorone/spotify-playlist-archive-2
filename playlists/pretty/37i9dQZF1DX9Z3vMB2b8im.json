@@ -1,6 +1,6 @@
 {
   "description": "Songs so beautiful, they'll stop you in your tracks.",
-  "num_followers": 2274604,
+  "num_followers": 2274571,
   "original_name": "The Most Beautiful Songs in the World",
   "owner": {
     "name": "Spotify",
@@ -983,6 +983,22 @@
     {
       "added_at": "2025-10-17 10:29:03",
       "album": {
+        "name": "Heavy",
+        "url": "https://open.spotify.com/album/00PsineKfAuLIl2PGnK5LB"
+      },
+      "artists": [
+        {
+          "name": "Orla Gartland",
+          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
+        }
+      ],
+      "duration_ms": 244946,
+      "name": "Heavy",
+      "url": "https://open.spotify.com/track/5VpgaWuqcWho0uJMniRNDs"
+    },
+    {
+      "added_at": "2025-10-17 10:29:03",
+      "album": {
         "name": "A Little Closer",
         "url": "https://open.spotify.com/album/2W1UwVVaNZxs7xBdDmLorI"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 256426,
       "name": "A Little Closer",
       "url": "https://open.spotify.com/track/0xrN7hUFu6gOQumsG7jC8H"
-    },
-    {
-      "added_at": "2025-10-17 10:29:03",
-      "album": {
-        "name": "Heavy",
-        "url": "https://open.spotify.com/album/00PsineKfAuLIl2PGnK5LB"
-      },
-      "artists": [
-        {
-          "name": "Orla Gartland",
-          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
-        }
-      ],
-      "duration_ms": 244946,
-      "name": "Heavy",
-      "url": "https://open.spotify.com/track/5VpgaWuqcWho0uJMniRNDs"
     },
     {
       "added_at": "2025-10-17 10:29:03",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2025-10-17 10:29:03",
       "album": {
+        "name": "One Last Song",
+        "url": "https://open.spotify.com/album/2Ax8c96I3uP49OmJVcgSBl"
+      },
+      "artists": [
+        {
+          "name": "Laura Alden",
+          "url": "https://open.spotify.com/artist/19DUsD728zdjGRvEtRXy6J"
+        }
+      ],
+      "duration_ms": 209000,
+      "name": "One Last Song",
+      "url": "https://open.spotify.com/track/3Rviv1akOeg6RhUNvy1RBR"
+    },
+    {
+      "added_at": "2025-10-17 10:29:03",
+      "album": {
         "name": "Homesick",
         "url": "https://open.spotify.com/album/5SfwE6ByYqjZLv2SwWLgFf"
       },
@@ -1179,22 +1195,6 @@
       "duration_ms": 233690,
       "name": "Homesick",
       "url": "https://open.spotify.com/track/7d0kDcSMb4gITAYL5Os52M"
-    },
-    {
-      "added_at": "2025-10-17 10:29:03",
-      "album": {
-        "name": "One Last Song",
-        "url": "https://open.spotify.com/album/2Ax8c96I3uP49OmJVcgSBl"
-      },
-      "artists": [
-        {
-          "name": "Laura Alden",
-          "url": "https://open.spotify.com/artist/19DUsD728zdjGRvEtRXy6J"
-        }
-      ],
-      "duration_ms": 209000,
-      "name": "One Last Song",
-      "url": "https://open.spotify.com/track/3Rviv1akOeg6RhUNvy1RBR"
     },
     {
       "added_at": "2025-10-17 10:29:03",

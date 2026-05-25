@@ -1,6 +1,6 @@
 {
   "description": "The new bolero era. Los boleritos de hoy, just for you. Cover: iLe",
-  "num_followers": 104944,
+  "num_followers": 104957,
   "original_name": "boleritos",
   "owner": {
     "name": "Spotify",
@@ -439,26 +439,6 @@
     {
       "added_at": "2025-10-24 04:00:22",
       "album": {
-        "name": "Dos Gardenias",
-        "url": "https://open.spotify.com/album/1IoeRaaVfgwOkwH6dSPAZS"
-      },
-      "artists": [
-        {
-          "name": "Isaac et Nora",
-          "url": "https://open.spotify.com/artist/0RtgAasyC15Sf1DXhtORls"
-        },
-        {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
-        }
-      ],
-      "duration_ms": 181024,
-      "name": "Dos Gardenias",
-      "url": "https://open.spotify.com/track/7gxVugPbp7jMLmPjzhy1lt"
-    },
-    {
-      "added_at": "2025-10-24 04:00:22",
-      "album": {
         "name": "Juntos Otra Vez",
         "url": "https://open.spotify.com/album/5t2r34uTiQMRsFrJlyDPpr"
       },
@@ -475,6 +455,26 @@
       "duration_ms": 157176,
       "name": "Odio Gitano",
       "url": "https://open.spotify.com/track/02Ac24S0EOspktEdg0CeCi"
+    },
+    {
+      "added_at": "2025-10-24 04:00:22",
+      "album": {
+        "name": "Dos Gardenias",
+        "url": "https://open.spotify.com/album/1IoeRaaVfgwOkwH6dSPAZS"
+      },
+      "artists": [
+        {
+          "name": "Isaac et Nora",
+          "url": "https://open.spotify.com/artist/0RtgAasyC15Sf1DXhtORls"
+        },
+        {
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        }
+      ],
+      "duration_ms": 181024,
+      "name": "Dos Gardenias",
+      "url": "https://open.spotify.com/track/7gxVugPbp7jMLmPjzhy1lt"
     },
     {
       "added_at": "2025-10-24 04:00:22",
@@ -623,26 +623,6 @@
     {
       "added_at": "2025-10-24 04:00:22",
       "album": {
-        "name": "Fantas\u00edas",
-        "url": "https://open.spotify.com/album/5JF53e3hNvCz7FQXWqhLZG"
-      },
-      "artists": [
-        {
-          "name": "El HueyCoyote",
-          "url": "https://open.spotify.com/artist/3FP0UgKEa2aprodn6KboaK"
-        },
-        {
-          "name": "Jos\u00e9 y el Toro",
-          "url": "https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex"
-        }
-      ],
-      "duration_ms": 226336,
-      "name": "Fantas\u00edas",
-      "url": "https://open.spotify.com/track/5eHegIfGPku1Jo70rRzv6k"
-    },
-    {
-      "added_at": "2025-10-24 04:00:22",
-      "album": {
         "name": "Cuando Te Encuentre",
         "url": "https://open.spotify.com/album/3dz9ty3Lcdeyjef5IUd4GC"
       },
@@ -659,18 +639,22 @@
     {
       "added_at": "2025-10-24 04:00:22",
       "album": {
-        "name": "Medianoche",
-        "url": "https://open.spotify.com/album/3XCI5ZjZMArpKdOcyqVFZL"
+        "name": "Fantas\u00edas",
+        "url": "https://open.spotify.com/album/5JF53e3hNvCz7FQXWqhLZG"
       },
       "artists": [
         {
-          "name": "La Isla Centeno",
-          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
+          "name": "El HueyCoyote",
+          "url": "https://open.spotify.com/artist/3FP0UgKEa2aprodn6KboaK"
+        },
+        {
+          "name": "Jos\u00e9 y el Toro",
+          "url": "https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Un Ratito",
-      "url": "https://open.spotify.com/track/6B5qbGyX9UPkdWJIkJlfnP"
+      "duration_ms": 226336,
+      "name": "Fantas\u00edas",
+      "url": "https://open.spotify.com/track/5eHegIfGPku1Jo70rRzv6k"
     },
     {
       "added_at": "2025-10-24 04:00:22",
@@ -719,6 +703,22 @@
       "duration_ms": 260147,
       "name": "Desahogo",
       "url": "https://open.spotify.com/track/7JkPQQxNWuNbcy7aOp6dpR"
+    },
+    {
+      "added_at": "2025-10-24 04:00:22",
+      "album": {
+        "name": "Medianoche",
+        "url": "https://open.spotify.com/album/3XCI5ZjZMArpKdOcyqVFZL"
+      },
+      "artists": [
+        {
+          "name": "La Isla Centeno",
+          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Un Ratito",
+      "url": "https://open.spotify.com/track/6B5qbGyX9UPkdWJIkJlfnP"
     },
     {
       "added_at": "2025-10-24 04:00:22",
@@ -775,22 +775,6 @@
     {
       "added_at": "2025-10-24 04:00:22",
       "album": {
-        "name": "Jaque Mate",
-        "url": "https://open.spotify.com/album/6ISwwA1Y7kKGEjH2EoxsjZ"
-      },
-      "artists": [
-        {
-          "name": "Fer Sober\u00f3n",
-          "url": "https://open.spotify.com/artist/7N3Td3Wa6ADFhGYc9wp88U"
-        }
-      ],
-      "duration_ms": 186491,
-      "name": "Jaque Mate",
-      "url": "https://open.spotify.com/track/1e1qYSKEhN4UkIAoKRQgZ1"
-    },
-    {
-      "added_at": "2025-10-24 04:00:22",
-      "album": {
         "name": "Diferente",
         "url": "https://open.spotify.com/album/5t1yTrOm3fbJQltjom2uya"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 220647,
       "name": "Diferente",
       "url": "https://open.spotify.com/track/3XV1E6VMiiUoRByV7nXVEA"
+    },
+    {
+      "added_at": "2025-10-24 04:00:22",
+      "album": {
+        "name": "Jaque Mate",
+        "url": "https://open.spotify.com/album/6ISwwA1Y7kKGEjH2EoxsjZ"
+      },
+      "artists": [
+        {
+          "name": "Fer Sober\u00f3n",
+          "url": "https://open.spotify.com/artist/7N3Td3Wa6ADFhGYc9wp88U"
+        }
+      ],
+      "duration_ms": 186491,
+      "name": "Jaque Mate",
+      "url": "https://open.spotify.com/track/1e1qYSKEhN4UkIAoKRQgZ1"
     },
     {
       "added_at": "2025-10-24 04:00:22",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2025-10-24 04:00:22",
       "album": {
-        "name": "Y SI SOMOS NOVIOS???",
-        "url": "https://open.spotify.com/album/5qKUVvVIRgD3CBa2L0x0Go"
-      },
-      "artists": [
-        {
-          "name": "PARDOPARDO",
-          "url": "https://open.spotify.com/artist/4jK6qJJ6s34BziEutGFMra"
-        }
-      ],
-      "duration_ms": 153117,
-      "name": "Y SI SOMOS NOVIOS???",
-      "url": "https://open.spotify.com/track/3IGNEoTp4uV1HtcvdfxrSL"
-    },
-    {
-      "added_at": "2025-10-24 04:00:22",
-      "album": {
         "name": "Diablo",
         "url": "https://open.spotify.com/album/65ziJaVZNVHY1JGzCdvIvP"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 191750,
       "name": "Diablo",
       "url": "https://open.spotify.com/track/4K5EhJCXiS22Sh3ONueuY6"
+    },
+    {
+      "added_at": "2025-10-24 04:00:22",
+      "album": {
+        "name": "Y SI SOMOS NOVIOS???",
+        "url": "https://open.spotify.com/album/5qKUVvVIRgD3CBa2L0x0Go"
+      },
+      "artists": [
+        {
+          "name": "PARDOPARDO",
+          "url": "https://open.spotify.com/artist/4jK6qJJ6s34BziEutGFMra"
+        }
+      ],
+      "duration_ms": 153117,
+      "name": "Y SI SOMOS NOVIOS???",
+      "url": "https://open.spotify.com/track/3IGNEoTp4uV1HtcvdfxrSL"
     },
     {
       "added_at": "2025-10-24 04:00:22",

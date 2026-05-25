@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7nC9vdKqBZ5.md) - [plain]
 
 > Relaxe com grandes hits da música nacional em versões acústicas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,504,703 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,504,685 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7nC9vdKqBZ5.md) - [plain]
 | 15 | [Se fosse tão fácil \- Acústico](https://open.spotify.com/track/4IuWJzJRVZyyjyxcDdzpaE) | [MAR ABERTO](https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO) | [Se fosse tão fácil \(Acústico\)](https://open.spotify.com/album/7JdKZ7Ve0q242f1ljpi4c9) | 3:18 |
 | 16 | [Algo Parecido](https://open.spotify.com/track/1xd17oTRJ5sFIHySHLnad9) | [Skank](https://open.spotify.com/artist/4C4kpaAdp6aKSkguw40SsU) | [Algo Parecido](https://open.spotify.com/album/4xujhMVqrfeMvtt4SV8QIb) | 3:45 |
 | 17 | [Tempo Perdido \(Versão Os Dias Eram Assim\)](https://open.spotify.com/track/5nJNdtx7ZtkNRKiYdhb87Z) | [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [Tempo Perdido \(Versão Os Dias Eram Assim\)](https://open.spotify.com/album/7t5ScMLW7t6WIa5F1VRvNN) | 3:28 |
-| 18 | [Velha Infância \- Acústico](https://open.spotify.com/track/2mGLhWWDAy7EnDz8wW3xdY) | [OUTROEU](https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo) | [Ensaio Acústico](https://open.spotify.com/album/3KKpQRGb980zBe0A1bqkY1) | 3:01 |
-| 19 | [Amor Pra Recomeçar](https://open.spotify.com/track/5UincK3sRYDDvmoSHVGuoY) | [Natiruts](https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO) | [Amor Pra Recomeçar](https://open.spotify.com/album/3OJQMJrea38izof7pJ1eDU) | 3:27 |
+| 18 | [Amor Pra Recomeçar](https://open.spotify.com/track/5UincK3sRYDDvmoSHVGuoY) | [Natiruts](https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO) | [Amor Pra Recomeçar](https://open.spotify.com/album/3OJQMJrea38izof7pJ1eDU) | 3:27 |
+| 19 | [Velha Infância \- Acústico](https://open.spotify.com/track/2mGLhWWDAy7EnDz8wW3xdY) | [OUTROEU](https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo) | [Ensaio Acústico](https://open.spotify.com/album/3KKpQRGb980zBe0A1bqkY1) | 3:01 |
 | 20 | [Lugar Ao Sol \- Ao Vivo \| Acústico](https://open.spotify.com/track/4G7J6r92RH3aRlTEJQER8A) | [Raimundos](https://open.spotify.com/artist/3CfJckVRuukdJSvK3r89yJ) | [Acústico \- Ao Vivo](https://open.spotify.com/album/2DMlDuUYFSjOyEDDL86yia) | 3:39 |
 | 21 | [Promete](https://open.spotify.com/track/7iB72vyGDEcc232lctJdgL) | [Ana Vilela](https://open.spotify.com/artist/66mL7YE8rG9eCu4QgM64m4) | [Promete](https://open.spotify.com/album/6DXshRqI83BTRfeWtspvyQ) | 3:18 |
 | 22 | [Sem Jeito Ao Vivo \- Acústico / Ao Vivo](https://open.spotify.com/track/271DlfuaXEJfsvowRuzYuj) | [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb), [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd) | [Acústico Na Casa Do Lago \(Acústico / Ao Vivo\)](https://open.spotify.com/album/1ctYS1uopnfJFU3LPYEo60) | 3:13 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7nC9vdKqBZ5.md) - [plain]
 | 43 | [penhasco\. \- \(acústico\)](https://open.spotify.com/track/6OdTE0V9aAOBRFJZO4cuwj) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [penhasco\. \(acústico\)](https://open.spotify.com/album/1dARC9DvZEYtv0hWDVqII6) | 3:33 |
 | 44 | [Linguagem Não Verbal](https://open.spotify.com/track/4aCUUcW7FVCCunRs33l2rh) | [MENSANA](https://open.spotify.com/artist/3xgO1ucAJJWnEHjh0zyHdL) | [Linguagem Não Verbal](https://open.spotify.com/album/7oXCbPmUEkzokpSDVHjMj5) | 3:21 |
 | 45 | [Viver em Paz \- Acústico](https://open.spotify.com/track/7wnp9qhBO2q5q2ksSZTc6d) | [Filhos De Jorge](https://open.spotify.com/artist/2V9RQWP2Dk6IEauL7D14vE) | [Acústico](https://open.spotify.com/album/74iEwmUCpwVaolgBpU9Fbd) | 4:21 |
-| 46 | [ciumeira](https://open.spotify.com/track/4LpYwmNEmXsLsRM8ACbQIz) | [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [DARAMÔ](https://open.spotify.com/album/0O0QBrT05nhkoMIpjLznk1) | 2:31 |
-| 47 | [Menina do Cabelo Bagunçado \- Acústico](https://open.spotify.com/track/6kkyL9QSddcqm9Gf0N3pTf) | [duogram](https://open.spotify.com/artist/3fuNvXraxWHImqMp0jfQ8Y) | [Menina do Cabelo Bagunçado \(Acústico\)](https://open.spotify.com/album/43oLJEvtHocvrHKoEyuLSx) | 2:16 |
+| 46 | [Menina do Cabelo Bagunçado \- Acústico](https://open.spotify.com/track/6kkyL9QSddcqm9Gf0N3pTf) | [duogram](https://open.spotify.com/artist/3fuNvXraxWHImqMp0jfQ8Y) | [Menina do Cabelo Bagunçado \(Acústico\)](https://open.spotify.com/album/43oLJEvtHocvrHKoEyuLSx) | 2:16 |
+| 47 | [ciumeira](https://open.spotify.com/track/4LpYwmNEmXsLsRM8ACbQIz) | [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [DARAMÔ](https://open.spotify.com/album/0O0QBrT05nhkoMIpjLznk1) | 2:31 |
 | 48 | [Cartas e Versos](https://open.spotify.com/track/0UQor28BlM3xdKQGAwPPyP) | [Frejat](https://open.spotify.com/artist/3WVjDclrbHsxjxhiOqHdnw) | [Cartas e Versos](https://open.spotify.com/album/5IBBQ2VFlYpxM84DPdEPE7) | 3:19 |
 | 49 | [Aluga\-se](https://open.spotify.com/track/1i2vei4vkOOQB3ag6IMAYM) | [Bárbara Dias](https://open.spotify.com/artist/4qQrDEahpv67oAkkD6Zx1J) | [Aluga\-se](https://open.spotify.com/album/070l8UAuwcgrVeK1y9l4ZI) | 2:05 |
 | 50 | [Faz Assim](https://open.spotify.com/track/1Fqqsix8vpczfyOvbGq079) | [Thiago Brava](https://open.spotify.com/artist/1LGh5vyaoQP9bgTwLSMTyW) | [Faz Assim](https://open.spotify.com/album/4fxqCty5vTVBInKcsPbxUn) | 3:41 |

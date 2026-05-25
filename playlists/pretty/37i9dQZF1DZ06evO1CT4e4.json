@@ -1,12 +1,12 @@
 {
   "description": "This is Arvo P\u00e4rt. The essential tracks, all in one playlist.",
-  "num_followers": 10773,
+  "num_followers": 10776,
   "original_name": "This Is Arvo P\u00e4rt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ag+cgAAAAAAZlJHfW911U0vPX3uH+i5n",
+  "snapshot_id": "ahDuAAAAAAAuwOb6ISLMIvLNg9o+uHL/",
   "tracks": [
     {
       "added_at": null,
@@ -455,54 +455,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "P\u00e4rt: Berliner Messe; Magnificat; Annum per Annum; 7 Antiphons",
-        "url": "https://open.spotify.com/album/7ghHg8jDEhYfXDRIXgbHY0"
-      },
-      "artists": [
-        {
-          "name": "Arvo P\u00e4rt",
-          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
-        },
-        {
-          "name": "Polyphony",
-          "url": "https://open.spotify.com/artist/06TUYAXTcDtfcSuqnB35na"
-        },
-        {
-          "name": "Stephen Layton",
-          "url": "https://open.spotify.com/artist/1K7xwpFg70fiAJnXGWo90o"
-        }
-      ],
-      "duration_ms": 206240,
-      "name": "Berliner Messe: I. Kyrie",
-      "url": "https://open.spotify.com/track/7IcX4mmOHx4ugKiciQrFxv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Arvo P\u00e4rt: The Deer's Cry",
-        "url": "https://open.spotify.com/album/7qSNxkOYYu5FyBwf64batm"
-      },
-      "artists": [
-        {
-          "name": "Arvo P\u00e4rt",
-          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
-        },
-        {
-          "name": "Vox Clamantis",
-          "url": "https://open.spotify.com/artist/2o4fP24SuANxgJSKLStc8p"
-        },
-        {
-          "name": "Jaan-Eik Tulve",
-          "url": "https://open.spotify.com/artist/30LOKkeDcYJcBwsiiNYq7k"
-        }
-      ],
-      "duration_ms": 185240,
-      "name": "Alleluia-Tropus",
-      "url": "https://open.spotify.com/track/2XxBIrPBjZwnTfymyPdY2G"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "P\u00e4rt: And I Heard a Voice\u2026",
         "url": "https://open.spotify.com/album/339sCdFl3YBtB63YJV3yfJ"
       },
@@ -531,6 +483,54 @@
     {
       "added_at": null,
       "album": {
+        "name": "Arvo P\u00e4rt: The Deer's Cry",
+        "url": "https://open.spotify.com/album/7qSNxkOYYu5FyBwf64batm"
+      },
+      "artists": [
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        },
+        {
+          "name": "Vox Clamantis",
+          "url": "https://open.spotify.com/artist/2o4fP24SuANxgJSKLStc8p"
+        },
+        {
+          "name": "Jaan-Eik Tulve",
+          "url": "https://open.spotify.com/artist/30LOKkeDcYJcBwsiiNYq7k"
+        }
+      ],
+      "duration_ms": 185240,
+      "name": "Alleluia-Tropus",
+      "url": "https://open.spotify.com/track/2XxBIrPBjZwnTfymyPdY2G"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "P\u00e4rt: Berliner Messe; Magnificat; Annum per Annum; 7 Antiphons",
+        "url": "https://open.spotify.com/album/7ghHg8jDEhYfXDRIXgbHY0"
+      },
+      "artists": [
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        },
+        {
+          "name": "Polyphony",
+          "url": "https://open.spotify.com/artist/06TUYAXTcDtfcSuqnB35na"
+        },
+        {
+          "name": "Stephen Layton",
+          "url": "https://open.spotify.com/artist/1K7xwpFg70fiAJnXGWo90o"
+        }
+      ],
+      "duration_ms": 206240,
+      "name": "Berliner Messe: I. Kyrie",
+      "url": "https://open.spotify.com/track/7IcX4mmOHx4ugKiciQrFxv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Echoes of Time",
         "url": "https://open.spotify.com/album/4L6fXZsOgSlkFmHKy6d3Qt"
       },
@@ -555,8 +555,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Arvo P\u00e4rt: Hymn to a Great City for 2 Pianos",
-        "url": "https://open.spotify.com/album/4z7rij9qyC2uex6Yyl8Ydg"
+        "name": "P\u00e4rt: And I Heard a Voice\u2026",
+        "url": "https://open.spotify.com/album/339sCdFl3YBtB63YJV3yfJ"
       },
       "artists": [
         {
@@ -564,17 +564,17 @@
           "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
         },
         {
-          "name": "Georgijs Osokins",
-          "url": "https://open.spotify.com/artist/5Cnd5TI2AHjLWqHabxkeuO"
+          "name": "Vox Clamantis",
+          "url": "https://open.spotify.com/artist/2o4fP24SuANxgJSKLStc8p"
         },
         {
-          "name": "Martha Argerich",
-          "url": "https://open.spotify.com/artist/66MvLAvLznk5UOvASVGjk4"
+          "name": "Jaan-Eik Tulve",
+          "url": "https://open.spotify.com/artist/30LOKkeDcYJcBwsiiNYq7k"
         }
       ],
-      "duration_ms": 195760,
-      "name": "Hymn to a Great City for 2 Pianos",
-      "url": "https://open.spotify.com/track/1IakFeQta7sykSFeiXJevB"
+      "duration_ms": 239206,
+      "name": "Kleine Litanei",
+      "url": "https://open.spotify.com/track/2jOWbcKkslo88SVKQOMTYz"
     },
     {
       "added_at": null,
@@ -599,8 +599,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "P\u00e4rt: And I Heard a Voice\u2026",
-        "url": "https://open.spotify.com/album/339sCdFl3YBtB63YJV3yfJ"
+        "name": "Arvo P\u00e4rt: Hymn to a Great City for 2 Pianos",
+        "url": "https://open.spotify.com/album/4z7rij9qyC2uex6Yyl8Ydg"
       },
       "artists": [
         {
@@ -608,17 +608,17 @@
           "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
         },
         {
-          "name": "Vox Clamantis",
-          "url": "https://open.spotify.com/artist/2o4fP24SuANxgJSKLStc8p"
+          "name": "Georgijs Osokins",
+          "url": "https://open.spotify.com/artist/5Cnd5TI2AHjLWqHabxkeuO"
         },
         {
-          "name": "Jaan-Eik Tulve",
-          "url": "https://open.spotify.com/artist/30LOKkeDcYJcBwsiiNYq7k"
+          "name": "Martha Argerich",
+          "url": "https://open.spotify.com/artist/66MvLAvLznk5UOvASVGjk4"
         }
       ],
-      "duration_ms": 239206,
-      "name": "Kleine Litanei",
-      "url": "https://open.spotify.com/track/2jOWbcKkslo88SVKQOMTYz"
+      "duration_ms": 195760,
+      "name": "Hymn to a Great City for 2 Pianos",
+      "url": "https://open.spotify.com/track/1IakFeQta7sykSFeiXJevB"
     },
     {
       "added_at": null,
@@ -911,6 +911,74 @@
     {
       "added_at": null,
       "album": {
+        "name": "Arvo P\u00e4rt: The Symphonies",
+        "url": "https://open.spotify.com/album/1NwbomenimZbPUZpgIdIkF"
+      },
+      "artists": [
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        },
+        {
+          "name": "NFM Wroc\u0142aw Philharmonic",
+          "url": "https://open.spotify.com/artist/4khYM3vJclruis0KI1Og9h"
+        },
+        {
+          "name": "T\u00f5nu Kaljuste",
+          "url": "https://open.spotify.com/artist/4MECrpIPG1u3XtHd2YXbrT"
+        }
+      ],
+      "duration_ms": 488706,
+      "name": "Symphony No. 4 \"Los Angeles\": III. Insistentemente \u2013 Con intimo sentimento \u2013 Deciso",
+      "url": "https://open.spotify.com/track/0BYRoMmBnczcHdhOwHqyAq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\"Cold Landscapes - Minimalism\"",
+        "url": "https://open.spotify.com/album/0UOKRr3DWhoWazgZZRiePF"
+      },
+      "artists": [
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        },
+        {
+          "name": "Georgijs Osokins",
+          "url": "https://open.spotify.com/artist/5Cnd5TI2AHjLWqHabxkeuO"
+        }
+      ],
+      "duration_ms": 128946,
+      "name": "Vier leichte Tanzst\u00fccke \u201cMusik f\u00fcr Kindertheater\u201d: No. 3, Schmetterlinge",
+      "url": "https://open.spotify.com/track/4JNB96jyQOm3BFcGRjKV9a"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Arvo P\u00e4rt: The Deer's Cry",
+        "url": "https://open.spotify.com/album/7qSNxkOYYu5FyBwf64batm"
+      },
+      "artists": [
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        },
+        {
+          "name": "Vox Clamantis",
+          "url": "https://open.spotify.com/artist/2o4fP24SuANxgJSKLStc8p"
+        },
+        {
+          "name": "Jaan-Eik Tulve",
+          "url": "https://open.spotify.com/artist/30LOKkeDcYJcBwsiiNYq7k"
+        }
+      ],
+      "duration_ms": 490920,
+      "name": "And One of the Pharisees...",
+      "url": "https://open.spotify.com/track/5UmWNrOHKKvsuwl6DhdSIM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "For Arvo",
         "url": "https://open.spotify.com/album/3HSD0Eu5R636MJLr45g8A6"
       },
@@ -968,33 +1036,9 @@
           "url": "https://open.spotify.com/artist/5Cnd5TI2AHjLWqHabxkeuO"
         }
       ],
-      "duration_ms": 128946,
-      "name": "Vier leichte Tanzst\u00fccke \u201cMusik f\u00fcr Kindertheater\u201d: No. 3, Schmetterlinge",
-      "url": "https://open.spotify.com/track/4JNB96jyQOm3BFcGRjKV9a"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Arvo P\u00e4rt: The Deer's Cry",
-        "url": "https://open.spotify.com/album/7qSNxkOYYu5FyBwf64batm"
-      },
-      "artists": [
-        {
-          "name": "Arvo P\u00e4rt",
-          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
-        },
-        {
-          "name": "Vox Clamantis",
-          "url": "https://open.spotify.com/artist/2o4fP24SuANxgJSKLStc8p"
-        },
-        {
-          "name": "Jaan-Eik Tulve",
-          "url": "https://open.spotify.com/artist/30LOKkeDcYJcBwsiiNYq7k"
-        }
-      ],
-      "duration_ms": 490920,
-      "name": "And One of the Pharisees...",
-      "url": "https://open.spotify.com/track/5UmWNrOHKKvsuwl6DhdSIM"
+      "duration_ms": 97693,
+      "name": "2 Sonatinas for Piano, Op. 1 No. 2: II. Largo",
+      "url": "https://open.spotify.com/track/486ITCjYC1j3Im204D1ufN"
     },
     {
       "added_at": null,
@@ -1015,50 +1059,6 @@
       "duration_ms": 71613,
       "name": "Mommy\u2019s Kiss",
       "url": "https://open.spotify.com/track/2jlfF9g0EXsJqTIkPeswFo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Arvo P\u00e4rt: The Symphonies",
-        "url": "https://open.spotify.com/album/1NwbomenimZbPUZpgIdIkF"
-      },
-      "artists": [
-        {
-          "name": "Arvo P\u00e4rt",
-          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
-        },
-        {
-          "name": "NFM Wroc\u0142aw Philharmonic",
-          "url": "https://open.spotify.com/artist/4khYM3vJclruis0KI1Og9h"
-        },
-        {
-          "name": "T\u00f5nu Kaljuste",
-          "url": "https://open.spotify.com/artist/4MECrpIPG1u3XtHd2YXbrT"
-        }
-      ],
-      "duration_ms": 488706,
-      "name": "Symphony No. 4 \"Los Angeles\": III. Insistentemente \u2013 Con intimo sentimento \u2013 Deciso",
-      "url": "https://open.spotify.com/track/0BYRoMmBnczcHdhOwHqyAq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\"Cold Landscapes - Minimalism\"",
-        "url": "https://open.spotify.com/album/0UOKRr3DWhoWazgZZRiePF"
-      },
-      "artists": [
-        {
-          "name": "Arvo P\u00e4rt",
-          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
-        },
-        {
-          "name": "Georgijs Osokins",
-          "url": "https://open.spotify.com/artist/5Cnd5TI2AHjLWqHabxkeuO"
-        }
-      ],
-      "duration_ms": 97693,
-      "name": "2 Sonatinas for Piano, Op. 1 No. 2: II. Largo",
-      "url": "https://open.spotify.com/track/486ITCjYC1j3Im204D1ufN"
     },
     {
       "added_at": null,
@@ -1115,26 +1115,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gidon Kremer plays P\u00e4rt/Weinberg",
-        "url": "https://open.spotify.com/album/76PhfX8jkHTQgZto3ywBDh"
-      },
-      "artists": [
-        {
-          "name": "Arvo P\u00e4rt",
-          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
-        },
-        {
-          "name": "Die 12 Cellisten der Berliner Philharmoniker",
-          "url": "https://open.spotify.com/artist/3YZqGxNBOlhhAETu2LrNB7"
-        }
-      ],
-      "duration_ms": 709666,
-      "name": "Fratres (Version for 12 Cellos) - For 12 Celli",
-      "url": "https://open.spotify.com/track/3yb6Pn8xeTANmqTPTHpwRI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\"Cold Landscapes - Minimalism\"",
         "url": "https://open.spotify.com/album/0UOKRr3DWhoWazgZZRiePF"
       },
@@ -1155,8 +1135,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Silentium",
-        "url": "https://open.spotify.com/album/0yy8tXDKjL8JG9AD99MDwQ"
+        "name": "Gidon Kremer plays P\u00e4rt/Weinberg",
+        "url": "https://open.spotify.com/album/76PhfX8jkHTQgZto3ywBDh"
       },
       "artists": [
         {
@@ -1164,13 +1144,37 @@
           "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
         },
         {
-          "name": "Camerata RCO",
-          "url": "https://open.spotify.com/artist/7oeMiCBtLMf4mMrqezpyVj"
+          "name": "Die 12 Cellisten der Berliner Philharmoniker",
+          "url": "https://open.spotify.com/artist/3YZqGxNBOlhhAETu2LrNB7"
         }
       ],
-      "duration_ms": 210133,
-      "name": "Vater Unser (Arr. for trombone & string ensemble)",
-      "url": "https://open.spotify.com/track/0mslCUgV2EULxe5BhwYHaU"
+      "duration_ms": 709666,
+      "name": "Fratres (Version for 12 Cellos) - For 12 Celli",
+      "url": "https://open.spotify.com/track/3yb6Pn8xeTANmqTPTHpwRI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Serenity - The Beauty Of Arvo P\u00e4rt",
+        "url": "https://open.spotify.com/album/2slVvUjwkOhGauBGyTaByY"
+      },
+      "artists": [
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        },
+        {
+          "name": "English Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/2DO4p3CPDnInsJfg0jFfaF"
+        },
+        {
+          "name": "Nigel Short",
+          "url": "https://open.spotify.com/artist/4gs13ipYIJhCcqDMOEx9eN"
+        }
+      ],
+      "duration_ms": 466213,
+      "name": "P\u00e4rt: Festina Lente",
+      "url": "https://open.spotify.com/track/2EiFiozvkqxcaO82en4pwx"
     }
   ],
   "unique_name": "This Is Arvo P\u00e4rt (2)",

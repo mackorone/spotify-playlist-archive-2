@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMVY2FDHm6NN.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Taiwan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,121 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,134 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMVY2FDHm6NN.md) - [plain]
 | 41 | [晴天](https://open.spotify.com/track/5pIcwtJYNJx93l420oR2Vm) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [葉惠美](https://open.spotify.com/album/0E5yojmnEdbs68b1wM6Kla) | 4:29 |
 | 42 | [不愛就不愛](https://open.spotify.com/track/3ZILOOFldKtW2C7sD3MYXi) | [艾薇 Ivy](https://open.spotify.com/artist/0RaC2hXyniYsju0mCSNz90) | [當大人](https://open.spotify.com/album/3lqvMjKlg3nzO32DWGzwpV) | 3:14 |
 | 43 | [連名帶姓](https://open.spotify.com/track/3LlQoKvVnkVvq3KC8anUn8) | [A\-Mei Chang](https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp) | [偷故事的人](https://open.spotify.com/album/2e9kAjiQbDokDSgPMJW2j8) | 5:33 |
-| 44 | [Eenie Meenie](https://open.spotify.com/track/4vVTI94F9uJ8lHNDWKv0i2) | [Sean Kingston](https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Eenie Meenie](https://open.spotify.com/album/7yCXgxWLZZEAiVsISKN3BF) | 3:21 |
+| 44 | [Eenie Meenie \- Radio Version](https://open.spotify.com/track/4Yaw2PmyOETOnEM3TCf98I) | [Sean Kingston](https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Eenie Meenie EP](https://open.spotify.com/album/6DOZI2LfBRYHRhZV21LrOu) | 3:21 |
 | 45 | [Ghost](https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 2:33 |
 | 46 | [Count to Ten](https://open.spotify.com/track/7Bb2dk76u7tTQxLf1nY9Ne) | [Pets Tseng](https://open.spotify.com/artist/1he19XnDUahODrmRwKlC8w) | [Stay Tuned](https://open.spotify.com/album/1RQpLKsOBrEe71RYdQdsj9) | 3:52 |
 | 47 | [那天下雨了](https://open.spotify.com/track/0bWGqfaEeTIvrnKGPJFD18) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [太陽之子](https://open.spotify.com/album/5gDJVilnZpPt8zwBC467UH) | 3:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMVY2FDHm6NN.md) - [plain]
 | 49 | [演员](https://open.spotify.com/track/5Sib99jpYybZAicUMETb3h) | [Joker Xue](https://open.spotify.com/artist/1cg0bYpP5e2DNG0RgK2CMN) | [初学者](https://open.spotify.com/album/6fxZNu6wYqd7GDCVsFOAcw) | 4:21 |
 | 50 | [Billie Jean](https://open.spotify.com/track/7J1uxwnxfQLu4APicE5Rnj) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller](https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ) | 4:53 |
 
-Snapshot ID: `MaUfKAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MaZzAAAAAAAAAAAAAAAAAAAAAAAAAGVu`

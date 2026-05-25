@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > Les meilleurs sons du mois sélectionnés par les éditos de Spotify.
 
-[Spotify](https://open.spotify.com/user/spotify) - 402,328 likes - 45 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 402,308 likes - 45 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,10 +32,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 22 | [SITUATION CHEAP](https://open.spotify.com/track/6t3f9Sl83g4viuGWsnEiQm) | [BB NOYAA](https://open.spotify.com/artist/5K3zqOMrHMocBFB5q9AG8I), [Ino Casablanca](https://open.spotify.com/artist/5blvB6N3OACeH0gJL9BRqf) | [SITUATION CHEAP](https://open.spotify.com/album/1TjF0xCufULcSRrmUQ1igm) | 2:45 |
 | 23 | [ciel azur](https://open.spotify.com/track/2mRq38Iw2Wtf5gJyu8Y8bB) | [aupinard](https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne), [Anaïs Cardot](https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU) | [spleen\. social club](https://open.spotify.com/album/6zfiNo6nUuPrVoawomWkEK) | 2:21 |
 | 24 | [Rien à fêter](https://open.spotify.com/track/2SraRNXafpI7MzEDSssAs3) | [Camille Yembe](https://open.spotify.com/artist/1SRVawVdGv7lue3kE6Ajl9) | [Rien à fêter](https://open.spotify.com/album/6Is9iEcP8QVpihebTOLh7i) | 2:55 |
-| 25 | [Nieuport Beach Ft\. BEN PLG](https://open.spotify.com/track/4rqBGwPRAMjxMb6XMKRjFd) | [ABSOLEM](https://open.spotify.com/artist/4jELC7j0cRWJVQ8QkpDcvU), [BEN plg](https://open.spotify.com/artist/4Q4yUu2v7zN40G0LtsnY98) | [Champagne en canette](https://open.spotify.com/album/1us9LOlrL2I6jySgwAJ21N) | 2:19 |
-| 26 | [Tia Na Sé](https://open.spotify.com/track/6zzRjzMRxt3MGBsyx75wOh) | [Rambo goyard](https://open.spotify.com/artist/0RRp1XbMoTmW8zSWC1synA) | [Tia Na Sé](https://open.spotify.com/album/7AhjQKIKkggT6me7NFLjkT) | 2:45 |
-| 27 | [Coquelicot](https://open.spotify.com/track/2OmiV4VCHXDzGgsOjdJ5dB) | [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ), [disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g) | [Coquelicot](https://open.spotify.com/album/5VT0KSzFLeyVOPfmNfQfqO) | 2:53 |
-| 28 | [Moi](https://open.spotify.com/track/5xBznzl74AmnZsmhqME24s) | [Yoa](https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy) | [Moi](https://open.spotify.com/album/6nTICAZHGjKVtB3krnlHEe) | 3:03 |
+| 25 | [Tia Na Sé](https://open.spotify.com/track/6zzRjzMRxt3MGBsyx75wOh) | [Rambo goyard](https://open.spotify.com/artist/0RRp1XbMoTmW8zSWC1synA) | [Tia Na Sé](https://open.spotify.com/album/7AhjQKIKkggT6me7NFLjkT) | 2:45 |
+| 26 | [Nieuport Beach Ft\. BEN PLG](https://open.spotify.com/track/4rqBGwPRAMjxMb6XMKRjFd) | [ABSOLEM](https://open.spotify.com/artist/4jELC7j0cRWJVQ8QkpDcvU), [BEN plg](https://open.spotify.com/artist/4Q4yUu2v7zN40G0LtsnY98) | [Champagne en canette](https://open.spotify.com/album/1us9LOlrL2I6jySgwAJ21N) | 2:19 |
+| 27 | [Moi](https://open.spotify.com/track/5xBznzl74AmnZsmhqME24s) | [Yoa](https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy) | [Moi](https://open.spotify.com/album/6nTICAZHGjKVtB3krnlHEe) | 3:03 |
+| 28 | [Coquelicot](https://open.spotify.com/track/2OmiV4VCHXDzGgsOjdJ5dB) | [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ), [disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g) | [Coquelicot](https://open.spotify.com/album/5VT0KSzFLeyVOPfmNfQfqO) | 2:53 |
 | 29 | [Sesi](https://open.spotify.com/track/3Ov8MLsFdrNDcSp4KzdLhi) | [TAR1Q](https://open.spotify.com/artist/33KPqwPnEKJY6Tm9WfJQKq) | [Sesi](https://open.spotify.com/album/3yBUvZ7lmnGicfM5Of3xTt) | 2:53 |
 | 30 | [mind be so numb](https://open.spotify.com/track/3ePwGn599lcCF9Hxpfw7Iw) | [u.r.trax](https://open.spotify.com/artist/5bGQtNvk4LrSUTZGzBiZq5), [BEA1991](https://open.spotify.com/artist/6F93aFbWjhUtjRKXYmtr1Z) | [mind be so numb](https://open.spotify.com/album/4fiywhfAwezkakYPcsMdAg) | 3:15 |
 | 31 | [Goulou Marhaba](https://open.spotify.com/track/42Q1ct71jst62oQbZGe8BL) | [Acid Arab](https://open.spotify.com/artist/3ShO8tPKqXUUpOA0urOWW7), [Ghita Lahmamssi](https://open.spotify.com/artist/2cEFCTrdHW6WH1PGTd6Zkv), [Sofiane Saidi](https://open.spotify.com/artist/6VnkIRZde53ai5TtkMulr4) | [Goulou Marhaba](https://open.spotify.com/album/6XXZT89NQCOf9DtnY9XsmN) | 4:34 |

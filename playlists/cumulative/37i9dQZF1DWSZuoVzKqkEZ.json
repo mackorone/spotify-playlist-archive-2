@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2026-04-21",
-  "description": "Get ready for the upcoming concert by listening to the artist's best songs! (\uc544\ud2f0\uc2a4\ud2b8\uc758 \ubca0\uc2a4\ud2b8\uace1\uc744 \ub4e4\uc73c\uba70 \ub2e4\uac00\uc624\ub294 \ucf58\uc11c\ud2b8\ub97c \uc900\ube44\ud574\ubcf4\uc138\uc694!)",
+  "description": "\uc544\ud2f0\uc2a4\ud2b8\uc758 \ubb34\ub300 \uba58\ud2b8\uc640 \ubaa9\uc18c\ub9ac\uac00 \ud3ec\ud568\ub41c \uc11c\uc6b8 \ucf58\uc11c\ud2b8 LIVE SET\uc744 \uc990\uaca8\ubcf4\uc138\uc694! (Enjoy the artist's concert LIVE SET including the voices of them on stage!)",
   "name": "LEE SEUNG YOON CONCERT [\ubc16]",
   "tracks": [
     {
@@ -88,7 +88,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-25",
       "duration_ms": 257693,
       "name": "Around You",
       "url": "https://open.spotify.com/track/1638juKlmjBECSlDmLuZw3"
@@ -113,6 +113,42 @@
     },
     {
       "album": {
+        "name": "LEE SEUNG YOON CONCERT [DOCKING : LIFTOFF] LIVE ALBUM",
+        "url": "https://open.spotify.com/album/1DFOVlE21ZZ5xjWHXwBpds"
+      },
+      "artists": [
+        {
+          "name": "LEE SEUNG YOON",
+          "url": "https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV"
+        }
+      ],
+      "date_added": "2026-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237053,
+      "name": "Docking",
+      "url": "https://open.spotify.com/track/3d0DQsmQtdXIcTlFJyt9Xn"
+    },
+    {
+      "album": {
+        "name": "How Pretty the Moon is",
+        "url": "https://open.spotify.com/album/4JYCx1oKjp1ZEwDV5gtsjX"
+      },
+      "artists": [
+        {
+          "name": "LEE SEUNG YOON",
+          "url": "https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV"
+        }
+      ],
+      "date_added": "2026-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236507,
+      "name": "Drink Up The Universe",
+      "url": "https://open.spotify.com/track/1jaxahszmrHF1WG2HdYXaD"
+    },
+    {
+      "album": {
         "name": "YEOK SEONG",
         "url": "https://open.spotify.com/album/02SKwqYSENWwsZIZ9epjES"
       },
@@ -124,7 +160,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-25",
       "duration_ms": 255786,
       "name": "Echoes of Glow",
       "url": "https://open.spotify.com/track/09NDAiR6hZgjefQORinXqI"
@@ -149,6 +185,114 @@
     },
     {
       "album": {
+        "name": "LEE SEUNG YOON CONCERT [DOCKING : LIFTOFF] LIVE ALBUM",
+        "url": "https://open.spotify.com/album/1DFOVlE21ZZ5xjWHXwBpds"
+      },
+      "artists": [
+        {
+          "name": "LEE SEUNG YOON",
+          "url": "https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV"
+        }
+      ],
+      "date_added": "2026-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219133,
+      "name": "Fake Dream",
+      "url": "https://open.spotify.com/track/6wOe1y21KjhaKWreF2LRhI"
+    },
+    {
+      "album": {
+        "name": "LEE SEUNG YOON CONCERT [DOCKING : LIFTOFF] LIVE ALBUM",
+        "url": "https://open.spotify.com/album/1DFOVlE21ZZ5xjWHXwBpds"
+      },
+      "artists": [
+        {
+          "name": "LEE SEUNG YOON",
+          "url": "https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV"
+        }
+      ],
+      "date_added": "2026-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274013,
+      "name": "Gainism",
+      "url": "https://open.spotify.com/track/4aZQ1ug0m8B6BI4s40jb4L"
+    },
+    {
+      "album": {
+        "name": "LEE SEUNG YOON CONCERT [DOCKING : LIFTOFF] LIVE ALBUM",
+        "url": "https://open.spotify.com/album/1DFOVlE21ZZ5xjWHXwBpds"
+      },
+      "artists": [
+        {
+          "name": "LEE SEUNG YOON",
+          "url": "https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV"
+        }
+      ],
+      "date_added": "2026-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334760,
+      "name": "Gibberish",
+      "url": "https://open.spotify.com/track/6hHHiCl20wW5vJ2XywgIzu"
+    },
+    {
+      "album": {
+        "name": "LEE SEUNG YOON CONCERT [DOCKING : LIFTOFF] LIVE ALBUM",
+        "url": "https://open.spotify.com/album/1DFOVlE21ZZ5xjWHXwBpds"
+      },
+      "artists": [
+        {
+          "name": "LEE SEUNG YOON",
+          "url": "https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV"
+        }
+      ],
+      "date_added": "2026-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255960,
+      "name": "Hero Collector",
+      "url": "https://open.spotify.com/track/6PnwmNnL7SiQIirU2s2YtP"
+    },
+    {
+      "album": {
+        "name": "How Pretty the Moon is",
+        "url": "https://open.spotify.com/album/4JYCx1oKjp1ZEwDV5gtsjX"
+      },
+      "artists": [
+        {
+          "name": "LEE SEUNG YOON",
+          "url": "https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV"
+        }
+      ],
+      "date_added": "2026-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274067,
+      "name": "How Pretty the Moon is",
+      "url": "https://open.spotify.com/track/0X8scgv05q9TKZJfv6K2Wl"
+    },
+    {
+      "album": {
+        "name": "How Pretty the Moon is",
+        "url": "https://open.spotify.com/album/4JYCx1oKjp1ZEwDV5gtsjX"
+      },
+      "artists": [
+        {
+          "name": "LEE SEUNG YOON",
+          "url": "https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV"
+        }
+      ],
+      "date_added": "2026-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249720,
+      "name": "I Want to Write It New",
+      "url": "https://open.spotify.com/track/0xOVx1M0jeu7JKyg5s43Zi"
+    },
+    {
+      "album": {
         "name": "YEOK SEONG",
         "url": "https://open.spotify.com/album/02SKwqYSENWwsZIZ9epjES"
       },
@@ -167,6 +311,96 @@
     },
     {
       "album": {
+        "name": "LEE SEUNG YOON CONCERT [DOCKING : LIFTOFF] LIVE ALBUM",
+        "url": "https://open.spotify.com/album/1DFOVlE21ZZ5xjWHXwBpds"
+      },
+      "artists": [
+        {
+          "name": "LEE SEUNG YOON",
+          "url": "https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV"
+        }
+      ],
+      "date_added": "2026-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218373,
+      "name": "Mr. Obscurity from Earth",
+      "url": "https://open.spotify.com/track/3QC0Zto9O7fPHp6ylmaAU9"
+    },
+    {
+      "album": {
+        "name": "LEE SEUNG YOON CONCERT [DOCKING : LIFTOFF] LIVE ALBUM",
+        "url": "https://open.spotify.com/album/1DFOVlE21ZZ5xjWHXwBpds"
+      },
+      "artists": [
+        {
+          "name": "LEE SEUNG YOON",
+          "url": "https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV"
+        }
+      ],
+      "date_added": "2026-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245013,
+      "name": "NARAGAZA",
+      "url": "https://open.spotify.com/track/4hjaRQ4AcreUaepw231ul9"
+    },
+    {
+      "album": {
+        "name": "Shelter Of Dreams",
+        "url": "https://open.spotify.com/album/7nYp9JSCBmrEN30yjXI5rJ"
+      },
+      "artists": [
+        {
+          "name": "LEE SEUNG YOON",
+          "url": "https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV"
+        }
+      ],
+      "date_added": "2026-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248320,
+      "name": "Nickname",
+      "url": "https://open.spotify.com/track/1HKrAuiVVo58n8I3pjqnag"
+    },
+    {
+      "album": {
+        "name": "LEE SEUNG YOON CONCERT [DOCKING : LIFTOFF] LIVE ALBUM",
+        "url": "https://open.spotify.com/album/1DFOVlE21ZZ5xjWHXwBpds"
+      },
+      "artists": [
+        {
+          "name": "LEE SEUNG YOON",
+          "url": "https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV"
+        }
+      ],
+      "date_added": "2026-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307973,
+      "name": "Open Your Textbook",
+      "url": "https://open.spotify.com/track/2MOTOz6VO4Qo86WqnI3QR5"
+    },
+    {
+      "album": {
+        "name": "LEE SEUNG YOON CONCERT [DOCKING : LIFTOFF] LIVE ALBUM",
+        "url": "https://open.spotify.com/album/1DFOVlE21ZZ5xjWHXwBpds"
+      },
+      "artists": [
+        {
+          "name": "LEE SEUNG YOON",
+          "url": "https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV"
+        }
+      ],
+      "date_added": "2026-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274026,
+      "name": "Piece Together Scattered Dreams",
+      "url": "https://open.spotify.com/track/2a6s6r8zQjlzAI1SrU155G"
+    },
+    {
+      "album": {
         "name": "Shelter Of Dreams",
         "url": "https://open.spotify.com/album/7nYp9JSCBmrEN30yjXI5rJ"
       },
@@ -178,7 +412,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-25",
       "duration_ms": 304546,
       "name": "Poetic License",
       "url": "https://open.spotify.com/track/4oyET9IIoReGIsbdN2N7MK"
@@ -214,10 +448,28 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-25",
       "duration_ms": 180680,
       "name": "Pricey Hangover",
       "url": "https://open.spotify.com/track/3gKTblszmIIYNo3lGFy2u3"
+    },
+    {
+      "album": {
+        "name": "LEE SEUNG YOON CONCERT [DOCKING : LIFTOFF] LIVE ALBUM",
+        "url": "https://open.spotify.com/album/1DFOVlE21ZZ5xjWHXwBpds"
+      },
+      "artists": [
+        {
+          "name": "LEE SEUNG YOON",
+          "url": "https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV"
+        }
+      ],
+      "date_added": "2026-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219013,
+      "name": "Pricey Hangover",
+      "url": "https://open.spotify.com/track/4g4mxynNPAWLpDDiWwmJff"
     },
     {
       "album": {
@@ -232,10 +484,46 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-25",
       "duration_ms": 283000,
       "name": "PunKanon",
       "url": "https://open.spotify.com/track/6SETwOgYmyKKjzz8uNT7SC"
+    },
+    {
+      "album": {
+        "name": "PunKanon",
+        "url": "https://open.spotify.com/album/6jEUsHZYpOkF8SBC1mHBYd"
+      },
+      "artists": [
+        {
+          "name": "LEE SEUNG YOON",
+          "url": "https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV"
+        }
+      ],
+      "date_added": "2026-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 406000,
+      "name": "PunKanon (Extended Ver.)",
+      "url": "https://open.spotify.com/track/4OZRfJZaO8ibaHNOQBbjlI"
+    },
+    {
+      "album": {
+        "name": "LEE SEUNG YOON CONCERT [DOCKING : LIFTOFF] LIVE ALBUM",
+        "url": "https://open.spotify.com/album/1DFOVlE21ZZ5xjWHXwBpds"
+      },
+      "artists": [
+        {
+          "name": "LEE SEUNG YOON",
+          "url": "https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV"
+        }
+      ],
+      "date_added": "2026-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320013,
+      "name": "Put it in the Clich\u00e9",
+      "url": "https://open.spotify.com/track/14Zq6h4h6xybPIfR2FCDRX"
     },
     {
       "album": {
@@ -250,10 +538,154 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-25",
       "duration_ms": 272080,
       "name": "Shelter Of Dreams",
       "url": "https://open.spotify.com/track/2DauGSCkwdgts3sUkuQu30"
+    },
+    {
+      "album": {
+        "name": "LEE SEUNG YOON CONCERT [DOCKING : LIFTOFF] LIVE ALBUM",
+        "url": "https://open.spotify.com/album/1DFOVlE21ZZ5xjWHXwBpds"
+      },
+      "artists": [
+        {
+          "name": "LEE SEUNG YOON",
+          "url": "https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV"
+        }
+      ],
+      "date_added": "2026-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273013,
+      "name": "Shelter Of Dreams",
+      "url": "https://open.spotify.com/track/5KjJGmrr82S1c22K9rQfcE"
+    },
+    {
+      "album": {
+        "name": "LEE SEUNG YOON CONCERT [DOCKING : LIFTOFF] LIVE ALBUM",
+        "url": "https://open.spotify.com/album/1DFOVlE21ZZ5xjWHXwBpds"
+      },
+      "artists": [
+        {
+          "name": "LEE SEUNG YOON",
+          "url": "https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV"
+        }
+      ],
+      "date_added": "2026-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185013,
+      "name": "Some Some Some",
+      "url": "https://open.spotify.com/track/42JZQqxdFQsVeZ1jz91Q21"
+    },
+    {
+      "album": {
+        "name": "\uc774\uc2b9\uc724 \ucf58\uc11c\ud2b8 \ubc16 audio liner",
+        "url": "https://open.spotify.com/album/7xcs3MyTTFAY2W82Y8NYGM"
+      },
+      "artists": [
+        {
+          "name": "\uc774\uc2b9\uc724",
+          "url": "https://open.spotify.com/artist/2wImLZ3v0ifJXIvcvBNqP4"
+        }
+      ],
+      "date_added": "2026-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 19000,
+      "name": "Stage Comment 1 (\uba58\ud2b8 1)",
+      "url": "https://open.spotify.com/track/5gcGGfXQfEeBASFRlKZG3j"
+    },
+    {
+      "album": {
+        "name": "\uc774\uc2b9\uc724 \ucf58\uc11c\ud2b8 \ubc16 audio liner",
+        "url": "https://open.spotify.com/album/7xcs3MyTTFAY2W82Y8NYGM"
+      },
+      "artists": [
+        {
+          "name": "\uc774\uc2b9\uc724",
+          "url": "https://open.spotify.com/artist/2wImLZ3v0ifJXIvcvBNqP4"
+        }
+      ],
+      "date_added": "2026-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 4124,
+      "name": "Stage Comment 2 (\uba58\ud2b8 2)",
+      "url": "https://open.spotify.com/track/2DLJOhIwsWKYqwe3s4GaA0"
+    },
+    {
+      "album": {
+        "name": "\uc774\uc2b9\uc724 \ucf58\uc11c\ud2b8 \ubc16 audio liner",
+        "url": "https://open.spotify.com/album/7xcs3MyTTFAY2W82Y8NYGM"
+      },
+      "artists": [
+        {
+          "name": "\uc774\uc2b9\uc724",
+          "url": "https://open.spotify.com/artist/2wImLZ3v0ifJXIvcvBNqP4"
+        }
+      ],
+      "date_added": "2026-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 9833,
+      "name": "Stage Comment 3 (\uba58\ud2b8 3)",
+      "url": "https://open.spotify.com/track/4vQOTlbDvjyjMz8svGpmmu"
+    },
+    {
+      "album": {
+        "name": "\uc774\uc2b9\uc724 \ucf58\uc11c\ud2b8 \ubc16 audio liner",
+        "url": "https://open.spotify.com/album/7xcs3MyTTFAY2W82Y8NYGM"
+      },
+      "artists": [
+        {
+          "name": "\uc774\uc2b9\uc724",
+          "url": "https://open.spotify.com/artist/2wImLZ3v0ifJXIvcvBNqP4"
+        }
+      ],
+      "date_added": "2026-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 15000,
+      "name": "Stage Comment 4 (\uba58\ud2b8 4)",
+      "url": "https://open.spotify.com/track/5LpBOtFXXzg3H9N4k3pEQY"
+    },
+    {
+      "album": {
+        "name": "\uc774\uc2b9\uc724 \ucf58\uc11c\ud2b8 \ubc16 audio liner",
+        "url": "https://open.spotify.com/album/7xcs3MyTTFAY2W82Y8NYGM"
+      },
+      "artists": [
+        {
+          "name": "\uc774\uc2b9\uc724",
+          "url": "https://open.spotify.com/artist/2wImLZ3v0ifJXIvcvBNqP4"
+        }
+      ],
+      "date_added": "2026-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 9696,
+      "name": "Stage Comment 5 (\uba58\ud2b8 5)",
+      "url": "https://open.spotify.com/track/18sNgG4Q8wja2ZtubQcbsZ"
+    },
+    {
+      "album": {
+        "name": "\uc774\uc2b9\uc724 \ucf58\uc11c\ud2b8 \ubc16 audio liner",
+        "url": "https://open.spotify.com/album/7xcs3MyTTFAY2W82Y8NYGM"
+      },
+      "artists": [
+        {
+          "name": "\uc774\uc2b9\uc724",
+          "url": "https://open.spotify.com/artist/2wImLZ3v0ifJXIvcvBNqP4"
+        }
+      ],
+      "date_added": "2026-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 28750,
+      "name": "Stage Comment 6 (\uba58\ud2b8 6)",
+      "url": "https://open.spotify.com/track/2HgSrqHlmtkJtgBMFvSuzB"
     },
     {
       "album": {
@@ -275,6 +707,24 @@
     },
     {
       "album": {
+        "name": "LEE SEUNG YOON CONCERT [DOCKING : LIFTOFF] LIVE ALBUM",
+        "url": "https://open.spotify.com/album/1DFOVlE21ZZ5xjWHXwBpds"
+      },
+      "artists": [
+        {
+          "name": "LEE SEUNG YOON",
+          "url": "https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV"
+        }
+      ],
+      "date_added": "2026-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234013,
+      "name": "Today",
+      "url": "https://open.spotify.com/track/5zEq8iILcw0BXSCbPqSTxi"
+    },
+    {
+      "album": {
         "name": "Unspoken",
         "url": "https://open.spotify.com/album/7za33muujtDaffMAvJq1Ld"
       },
@@ -286,10 +736,28 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-25",
       "duration_ms": 257053,
       "name": "Unspoken",
       "url": "https://open.spotify.com/track/2berS6jFrr5FDB4XvqLgPr"
+    },
+    {
+      "album": {
+        "name": "LEE SEUNG YOON CONCERT [DOCKING : LIFTOFF] LIVE ALBUM",
+        "url": "https://open.spotify.com/album/1DFOVlE21ZZ5xjWHXwBpds"
+      },
+      "artists": [
+        {
+          "name": "LEE SEUNG YOON",
+          "url": "https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV"
+        }
+      ],
+      "date_added": "2026-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 421013,
+      "name": "Unspoken",
+      "url": "https://open.spotify.com/track/2NdIAZFHgxBixLzdJlnEuR"
     },
     {
       "album": {
@@ -304,7 +772,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-25",
       "duration_ms": 275760,
       "name": "Unsubtitled",
       "url": "https://open.spotify.com/track/1wX4ldiRXMQb1hYHg5RQ3m"
@@ -322,10 +790,46 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-25",
       "duration_ms": 202600,
       "name": "Upon A Smile",
       "url": "https://open.spotify.com/track/4yrcAaeqMRy6gP6AL0qWUQ"
+    },
+    {
+      "album": {
+        "name": "LEE SEUNG YOON CONCERT [DOCKING : LIFTOFF] LIVE ALBUM",
+        "url": "https://open.spotify.com/album/1DFOVlE21ZZ5xjWHXwBpds"
+      },
+      "artists": [
+        {
+          "name": "LEE SEUNG YOON",
+          "url": "https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV"
+        }
+      ],
+      "date_added": "2026-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 380360,
+      "name": "Upon A Smile",
+      "url": "https://open.spotify.com/track/4Pe8o5agwG3JAXEXMGtBq4"
+    },
+    {
+      "album": {
+        "name": "LEE SEUNG YOON CONCERT [DOCKING : LIFTOFF] LIVE ALBUM",
+        "url": "https://open.spotify.com/album/1DFOVlE21ZZ5xjWHXwBpds"
+      },
+      "artists": [
+        {
+          "name": "LEE SEUNG YOON",
+          "url": "https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV"
+        }
+      ],
+      "date_added": "2026-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215173,
+      "name": "Warped Exterior",
+      "url": "https://open.spotify.com/track/3USuYk42SqUHwd5QBl830e"
     },
     {
       "album": {
@@ -340,10 +844,46 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-25",
       "duration_ms": 363653,
       "name": "Waterfall",
       "url": "https://open.spotify.com/track/0EJnZlXvstP3YgtiwYcy7s"
+    },
+    {
+      "album": {
+        "name": "PRE-RELEASE 3RD ALBUM [YEOK SEONG]",
+        "url": "https://open.spotify.com/album/7ISbHpHU4iLp3GiC2fi1oR"
+      },
+      "artists": [
+        {
+          "name": "LEE SEUNG YOON",
+          "url": "https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV"
+        }
+      ],
+      "date_added": "2026-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363653,
+      "name": "Waterfall",
+      "url": "https://open.spotify.com/track/4gPJzIN8qfGce5N1AKqj1l"
+    },
+    {
+      "album": {
+        "name": "LEE SEUNG YOON CONCERT [DOCKING : LIFTOFF] LIVE ALBUM",
+        "url": "https://open.spotify.com/album/1DFOVlE21ZZ5xjWHXwBpds"
+      },
+      "artists": [
+        {
+          "name": "LEE SEUNG YOON",
+          "url": "https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV"
+        }
+      ],
+      "date_added": "2026-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294386,
+      "name": "Wild Horse",
+      "url": "https://open.spotify.com/track/2HBa1ec0fms6gflDufIIpQ"
     },
     {
       "album": {
@@ -362,7 +902,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-25",
       "duration_ms": 192680,
       "name": "Wild Horse (Feat. Ilwoo Lee From JAMBINAI)",
       "url": "https://open.spotify.com/track/1dmHolV8flo3Ei2E75JTso"

@@ -1,6 +1,6 @@
 {
   "description": "bailando en el antro con GRTSCH hasta el amanecer ",
-  "num_followers": 24451,
+  "num_followers": 24452,
   "original_name": "ANTRO ",
   "owner": {
     "name": "Spotify",
@@ -655,26 +655,6 @@
     {
       "added_at": "2026-05-22 06:00:49",
       "album": {
-        "name": "Ricota",
-        "url": "https://open.spotify.com/album/0IBSOQFCbrtAMcfjygozLN"
-      },
-      "artists": [
-        {
-          "name": "ZULAN",
-          "url": "https://open.spotify.com/artist/2Yz9F5lQVc0p6SDxkw2BvF"
-        },
-        {
-          "name": "Debians",
-          "url": "https://open.spotify.com/artist/09qVSIokv31IKHQGv7PkNd"
-        }
-      ],
-      "duration_ms": 145853,
-      "name": "Ricota",
-      "url": "https://open.spotify.com/track/4uZh7m5a3DFqI1WCUniio6"
-    },
-    {
-      "added_at": "2026-05-22 06:00:49",
-      "album": {
         "name": "betty boop",
         "url": "https://open.spotify.com/album/3IBmnh1aOLBHUfwHfuHrLt"
       },
@@ -695,22 +675,22 @@
     {
       "added_at": "2026-05-22 06:00:49",
       "album": {
-        "name": "bestia",
-        "url": "https://open.spotify.com/album/3g7qNB5LqZlkp72mvCXYj6"
+        "name": "Ricota",
+        "url": "https://open.spotify.com/album/0IBSOQFCbrtAMcfjygozLN"
       },
       "artists": [
         {
-          "name": "BRUSES",
-          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
+          "name": "ZULAN",
+          "url": "https://open.spotify.com/artist/2Yz9F5lQVc0p6SDxkw2BvF"
         },
         {
-          "name": "HUMBE",
-          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+          "name": "Debians",
+          "url": "https://open.spotify.com/artist/09qVSIokv31IKHQGv7PkNd"
         }
       ],
-      "duration_ms": 220638,
-      "name": "bestia",
-      "url": "https://open.spotify.com/track/2HZ5HcjkncmwlEh6dNG5Ra"
+      "duration_ms": 145853,
+      "name": "Ricota",
+      "url": "https://open.spotify.com/track/4uZh7m5a3DFqI1WCUniio6"
     },
     {
       "added_at": "2026-05-22 06:00:49",
@@ -731,6 +711,26 @@
       "duration_ms": 188304,
       "name": "Gaga",
       "url": "https://open.spotify.com/track/1CmXpRe5Z7bKhX9N0mzAZM"
+    },
+    {
+      "added_at": "2026-05-22 06:00:49",
+      "album": {
+        "name": "bestia",
+        "url": "https://open.spotify.com/album/3g7qNB5LqZlkp72mvCXYj6"
+      },
+      "artists": [
+        {
+          "name": "BRUSES",
+          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
+        },
+        {
+          "name": "HUMBE",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "duration_ms": 220638,
+      "name": "bestia",
+      "url": "https://open.spotify.com/track/2HZ5HcjkncmwlEh6dNG5Ra"
     },
     {
       "added_at": "2026-05-22 06:00:49",
@@ -947,26 +947,6 @@
     {
       "added_at": "2026-05-22 06:00:49",
       "album": {
-        "name": "Porque Quise DELUXE",
-        "url": "https://open.spotify.com/album/78Ok3vPNjR0K0WKVz4wYNm"
-      },
-      "artists": [
-        {
-          "name": "FLVCKKA",
-          "url": "https://open.spotify.com/artist/12fZoiFXBSs7aVMxGKQgBN"
-        },
-        {
-          "name": "HELLOLOLA",
-          "url": "https://open.spotify.com/artist/1r72k41l2pL01tSbFBLek7"
-        }
-      ],
-      "duration_ms": 126000,
-      "name": "Puta & Rock Anthem",
-      "url": "https://open.spotify.com/track/5Kv2lXC0Ve1maYx8qAGjRw"
-    },
-    {
-      "added_at": "2026-05-22 06:00:49",
-      "album": {
         "name": "Ya entregamos el depa",
         "url": "https://open.spotify.com/album/7nkd5A2CFzvl3nEyCkrExA"
       },
@@ -983,6 +963,26 @@
       "duration_ms": 204000,
       "name": "Ya entregamos el depa",
       "url": "https://open.spotify.com/track/2g9qtIpesI41FsO2uqKdt8"
+    },
+    {
+      "added_at": "2026-05-22 06:00:49",
+      "album": {
+        "name": "Porque Quise DELUXE",
+        "url": "https://open.spotify.com/album/78Ok3vPNjR0K0WKVz4wYNm"
+      },
+      "artists": [
+        {
+          "name": "FLVCKKA",
+          "url": "https://open.spotify.com/artist/12fZoiFXBSs7aVMxGKQgBN"
+        },
+        {
+          "name": "HELLOLOLA",
+          "url": "https://open.spotify.com/artist/1r72k41l2pL01tSbFBLek7"
+        }
+      ],
+      "duration_ms": 126000,
+      "name": "Puta & Rock Anthem",
+      "url": "https://open.spotify.com/track/5Kv2lXC0Ve1maYx8qAGjRw"
     },
     {
       "added_at": "2026-05-22 06:00:49",
@@ -1015,6 +1015,22 @@
       "duration_ms": 232847,
       "name": "Monster Truck - GALLERY SESSION",
       "url": "https://open.spotify.com/track/4hAjY8ZxO6fxJOIgWD7POn"
+    },
+    {
+      "added_at": "2026-05-22 06:00:49",
+      "album": {
+        "name": "no somos iguales",
+        "url": "https://open.spotify.com/album/6lbBaRx5ZVYaMW9zDJodhI"
+      },
+      "artists": [
+        {
+          "name": "FaceBrooklyn",
+          "url": "https://open.spotify.com/artist/0HGYhpDqId26b8YElUubo8"
+        }
+      ],
+      "duration_ms": 171533,
+      "name": "incompatibles",
+      "url": "https://open.spotify.com/track/4UuPW5pNUwY46OhmaxwrvN"
     },
     {
       "added_at": "2026-05-22 06:00:49",
@@ -1055,22 +1071,6 @@
       "duration_ms": 156466,
       "name": "Jenni Rivera",
       "url": "https://open.spotify.com/track/5iyLTZ1YvtSYMdHsrwzuA3"
-    },
-    {
-      "added_at": "2026-05-22 06:00:49",
-      "album": {
-        "name": "no somos iguales",
-        "url": "https://open.spotify.com/album/6lbBaRx5ZVYaMW9zDJodhI"
-      },
-      "artists": [
-        {
-          "name": "FaceBrooklyn",
-          "url": "https://open.spotify.com/artist/0HGYhpDqId26b8YElUubo8"
-        }
-      ],
-      "duration_ms": 171533,
-      "name": "incompatibles",
-      "url": "https://open.spotify.com/track/4UuPW5pNUwY46OhmaxwrvN"
     },
     {
       "added_at": "2026-05-22 06:00:49",
@@ -1131,6 +1131,26 @@
     {
       "added_at": "2026-05-22 06:00:49",
       "album": {
+        "name": "No puedo estar aqu\u00ed (feat. iza tkm)",
+        "url": "https://open.spotify.com/album/5ZLQVx0ai0on6tKN7FMv6j"
+      },
+      "artists": [
+        {
+          "name": "VV Brujo",
+          "url": "https://open.spotify.com/artist/3tshgsRowrEseqRaguXfZR"
+        },
+        {
+          "name": "iza tkm",
+          "url": "https://open.spotify.com/artist/0m7MzTCPnBRGBUngaA7Jj3"
+        }
+      ],
+      "duration_ms": 147586,
+      "name": "No puedo estar aqu\u00ed (feat. iza tkm)",
+      "url": "https://open.spotify.com/track/6XIe5UZSwsdgtuSTLuWlBP"
+    },
+    {
+      "added_at": "2026-05-22 06:00:49",
+      "album": {
         "name": "DOGGYSTYLE",
         "url": "https://open.spotify.com/album/5ey1vcVV7IbskYGhA6cu0T"
       },
@@ -1151,26 +1171,6 @@
       "duration_ms": 160408,
       "name": "DOGGYSTYLE",
       "url": "https://open.spotify.com/track/1Z9x2cExo980DaCTMONpGL"
-    },
-    {
-      "added_at": "2026-05-22 06:00:49",
-      "album": {
-        "name": "No puedo estar aqu\u00ed (feat. iza tkm)",
-        "url": "https://open.spotify.com/album/5ZLQVx0ai0on6tKN7FMv6j"
-      },
-      "artists": [
-        {
-          "name": "VV Brujo",
-          "url": "https://open.spotify.com/artist/3tshgsRowrEseqRaguXfZR"
-        },
-        {
-          "name": "iza tkm",
-          "url": "https://open.spotify.com/artist/0m7MzTCPnBRGBUngaA7Jj3"
-        }
-      ],
-      "duration_ms": 147586,
-      "name": "No puedo estar aqu\u00ed (feat. iza tkm)",
-      "url": "https://open.spotify.com/track/6XIe5UZSwsdgtuSTLuWlBP"
     },
     {
       "added_at": "2026-05-22 06:00:49",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2026-05-22 06:00:49",
       "album": {
-        "name": "HOTCORE",
-        "url": "https://open.spotify.com/album/74nnCDVDlxRljxy32H3YXB"
-      },
-      "artists": [
-        {
-          "name": "TAICHU",
-          "url": "https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN"
-        }
-      ],
-      "duration_ms": 163384,
-      "name": "N\u00c3O TEM FIN (garota fav)",
-      "url": "https://open.spotify.com/track/7DPnyFu4HRTC2KkAYV6KH1"
-    },
-    {
-      "added_at": "2026-05-22 06:00:49",
-      "album": {
         "name": "Canciones de Don",
         "url": "https://open.spotify.com/album/0S6czlAGW5ByZaUEKCKVzz"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 164000,
       "name": "Canciones de Don",
       "url": "https://open.spotify.com/track/578E0MbbgdwDuUTqpWbeOD"
+    },
+    {
+      "added_at": "2026-05-22 06:00:49",
+      "album": {
+        "name": "HOTCORE",
+        "url": "https://open.spotify.com/album/74nnCDVDlxRljxy32H3YXB"
+      },
+      "artists": [
+        {
+          "name": "TAICHU",
+          "url": "https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN"
+        }
+      ],
+      "duration_ms": 163384,
+      "name": "N\u00c3O TEM FIN (garota fav)",
+      "url": "https://open.spotify.com/track/7DPnyFu4HRTC2KkAYV6KH1"
     },
     {
       "added_at": "2026-05-22 06:00:49",
@@ -1379,6 +1379,26 @@
     {
       "added_at": "2026-05-22 06:00:49",
       "album": {
+        "name": "claroscuro",
+        "url": "https://open.spotify.com/album/4GD5Ef3IQRMcwF5cPNnESl"
+      },
+      "artists": [
+        {
+          "name": "Noize",
+          "url": "https://open.spotify.com/artist/2IzieP3siLRSSp0fpSArfK"
+        },
+        {
+          "name": "RaiNao",
+          "url": "https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN"
+        }
+      ],
+      "duration_ms": 156891,
+      "name": "claroscuro",
+      "url": "https://open.spotify.com/track/24LLhRHvhaCSnhgoxc9CA6"
+    },
+    {
+      "added_at": "2026-05-22 06:00:49",
+      "album": {
         "name": "Promesas",
         "url": "https://open.spotify.com/album/2xecBzBuTHUfiafmTN2W3I"
       },
@@ -1399,26 +1419,6 @@
       "duration_ms": 155604,
       "name": "Promesas",
       "url": "https://open.spotify.com/track/5hogeDb6VWZVD4PL7JAT4H"
-    },
-    {
-      "added_at": "2026-05-22 06:00:49",
-      "album": {
-        "name": "claroscuro",
-        "url": "https://open.spotify.com/album/4GD5Ef3IQRMcwF5cPNnESl"
-      },
-      "artists": [
-        {
-          "name": "Noize",
-          "url": "https://open.spotify.com/artist/2IzieP3siLRSSp0fpSArfK"
-        },
-        {
-          "name": "RaiNao",
-          "url": "https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN"
-        }
-      ],
-      "duration_ms": 156891,
-      "name": "claroscuro",
-      "url": "https://open.spotify.com/track/24LLhRHvhaCSnhgoxc9CA6"
     },
     {
       "added_at": "2026-05-22 06:00:49",

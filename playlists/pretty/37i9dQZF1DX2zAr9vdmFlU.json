@@ -1,6 +1,6 @@
 {
   "description": "You bring the ingredients, we bring the flavor. Enjoy la cena...",
-  "num_followers": 437767,
+  "num_followers": 437799,
   "original_name": "Latin Dinner",
   "owner": {
     "name": "Spotify",
@@ -419,30 +419,6 @@
     {
       "added_at": "2026-02-19 18:04:12",
       "album": {
-        "name": "Encuentro",
-        "url": "https://open.spotify.com/album/5dMx0NVZdoTtrdVprK7gSz"
-      },
-      "artists": [
-        {
-          "name": "Chabuco",
-          "url": "https://open.spotify.com/artist/7iVnPo1i10De0UGQz5eDsl"
-        },
-        {
-          "name": "Vicente Garcia",
-          "url": "https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq"
-        },
-        {
-          "name": "Jose Qui\u00f1onez",
-          "url": "https://open.spotify.com/artist/5KOhKsRb9lFVmHFhoGAnIx"
-        }
-      ],
-      "duration_ms": 236346,
-      "name": "Margarita (feat. Vicente Garc\u00eda & Jose Qui\u00f1\u00f3nez)",
-      "url": "https://open.spotify.com/track/6LEZkAAdNuEPE6PdEX7lrj"
-    },
-    {
-      "added_at": "2026-02-19 18:04:12",
-      "album": {
         "name": "La Marisoul & The Love Notes Orchestra (Vol. 1)",
         "url": "https://open.spotify.com/album/2qyiE3MTlsNaBqvzEBSilO"
       },
@@ -475,6 +451,30 @@
       "duration_ms": 217168,
       "name": "Las Cosas Simples",
       "url": "https://open.spotify.com/track/0o0F4TAYTl4U9BUfvg7KFW"
+    },
+    {
+      "added_at": "2026-02-19 18:04:12",
+      "album": {
+        "name": "Encuentro",
+        "url": "https://open.spotify.com/album/5dMx0NVZdoTtrdVprK7gSz"
+      },
+      "artists": [
+        {
+          "name": "Chabuco",
+          "url": "https://open.spotify.com/artist/7iVnPo1i10De0UGQz5eDsl"
+        },
+        {
+          "name": "Vicente Garcia",
+          "url": "https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq"
+        },
+        {
+          "name": "Jose Qui\u00f1onez",
+          "url": "https://open.spotify.com/artist/5KOhKsRb9lFVmHFhoGAnIx"
+        }
+      ],
+      "duration_ms": 236346,
+      "name": "Margarita (feat. Vicente Garc\u00eda & Jose Qui\u00f1\u00f3nez)",
+      "url": "https://open.spotify.com/track/6LEZkAAdNuEPE6PdEX7lrj"
     },
     {
       "added_at": "2026-02-19 18:04:12",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2026-02-19 18:04:12",
       "album": {
+        "name": "M\u00fasica para verse bien",
+        "url": "https://open.spotify.com/album/0BJV6b6EauKG7XbLT0OQkZ"
+      },
+      "artists": [
+        {
+          "name": "Cheo",
+          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
+        }
+      ],
+      "duration_ms": 249170,
+      "name": "Dancin' Days",
+      "url": "https://open.spotify.com/track/1Nni53RQ8FI8yBYEuZ3jLR"
+    },
+    {
+      "added_at": "2026-02-19 18:04:12",
+      "album": {
         "name": "A fuego lento (feat. Vicente Garcia)",
         "url": "https://open.spotify.com/album/1Lp0BSFnmEGJtcNDd3iHxa"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 199398,
       "name": "A fuego lento (feat. Vicente Garcia)",
       "url": "https://open.spotify.com/track/7dk1bu8gBxcjIHSyXccEpT"
-    },
-    {
-      "added_at": "2026-02-19 18:04:12",
-      "album": {
-        "name": "M\u00fasica para verse bien",
-        "url": "https://open.spotify.com/album/0BJV6b6EauKG7XbLT0OQkZ"
-      },
-      "artists": [
-        {
-          "name": "Cheo",
-          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
-        }
-      ],
-      "duration_ms": 249170,
-      "name": "Dancin' Days",
-      "url": "https://open.spotify.com/track/1Nni53RQ8FI8yBYEuZ3jLR"
     },
     {
       "added_at": "2026-02-19 18:04:12",
@@ -1143,26 +1143,6 @@
     {
       "added_at": "2026-02-19 18:04:12",
       "album": {
-        "name": "El Caudal",
-        "url": "https://open.spotify.com/album/57zjLKLycEw9ezNKgXBDtI"
-      },
-      "artists": [
-        {
-          "name": "Monsieur Perin\u00e9",
-          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
-        },
-        {
-          "name": "Guaynaa",
-          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
-        }
-      ],
-      "duration_ms": 237619,
-      "name": "El Caudal",
-      "url": "https://open.spotify.com/track/3Eofn5MhdnUYozRhcxGYLN"
-    },
-    {
-      "added_at": "2026-02-19 18:04:12",
-      "album": {
         "name": "Todo Cambi\u00f3",
         "url": "https://open.spotify.com/album/1Zc8gfpNoHmszL1ybIF2jb"
       },
@@ -1179,6 +1159,26 @@
       "duration_ms": 218909,
       "name": "Todo Cambi\u00f3",
       "url": "https://open.spotify.com/track/0sYhfDMlg2G1NC0OclLoTx"
+    },
+    {
+      "added_at": "2026-02-19 18:04:12",
+      "album": {
+        "name": "El Caudal",
+        "url": "https://open.spotify.com/album/57zjLKLycEw9ezNKgXBDtI"
+      },
+      "artists": [
+        {
+          "name": "Monsieur Perin\u00e9",
+          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
+        },
+        {
+          "name": "Guaynaa",
+          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
+        }
+      ],
+      "duration_ms": 237619,
+      "name": "El Caudal",
+      "url": "https://open.spotify.com/track/3Eofn5MhdnUYozRhcxGYLN"
     },
     {
       "added_at": "2026-02-19 18:04:12",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2026-02-19 18:04:12",
       "album": {
-        "name": "Today Ma\u00f1ana",
-        "url": "https://open.spotify.com/album/0jiYxu7xEHUUYXkGNtrO9M"
-      },
-      "artists": [
-        {
-          "name": "Hunters of the Alps",
-          "url": "https://open.spotify.com/artist/7Gl1t0pZGk6YDx42OB8vDG"
-        }
-      ],
-      "duration_ms": 234773,
-      "name": "Miedo",
-      "url": "https://open.spotify.com/track/0a5bGlvKZbcWWx3EE4lLOP"
-    },
-    {
-      "added_at": "2026-02-19 18:04:12",
-      "album": {
         "name": "Nobreza",
         "url": "https://open.spotify.com/album/1S3u1h0ggT85QcGdb2qDuq"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 201364,
       "name": "Nobreza",
       "url": "https://open.spotify.com/track/1g1CCNbAA546LXL4q3CwSZ"
+    },
+    {
+      "added_at": "2026-02-19 18:04:12",
+      "album": {
+        "name": "Today Ma\u00f1ana",
+        "url": "https://open.spotify.com/album/0jiYxu7xEHUUYXkGNtrO9M"
+      },
+      "artists": [
+        {
+          "name": "Hunters of the Alps",
+          "url": "https://open.spotify.com/artist/7Gl1t0pZGk6YDx42OB8vDG"
+        }
+      ],
+      "duration_ms": 234773,
+      "name": "Miedo",
+      "url": "https://open.spotify.com/track/0a5bGlvKZbcWWx3EE4lLOP"
     },
     {
       "added_at": "2026-02-19 18:04:12",

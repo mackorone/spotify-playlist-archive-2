@@ -1,12 +1,12 @@
 {
   "description": "R&B, Hip-Hop, Pop, Afrobeats and everything in between!  Cover: Jorja Smith",
-  "num_followers": 3331,
+  "num_followers": 3345,
   "original_name": "Channel-X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOlO2L7X+qqlwPtA+Mjp7mQ16Llj",
+  "snapshot_id": "AAAAAO0HSe86e3AELkXX98o9lBZAVBtH",
   "tracks": [
     {
       "added_at": "2026-05-15 06:10:26",
@@ -2033,6 +2033,22 @@
       "url": "https://open.spotify.com/track/47hsUYxvbTlBAN3sP9dEOd"
     },
     {
+      "added_at": "2025-03-14 06:07:30",
+      "album": {
+        "name": "Heart Of A Woman",
+        "url": "https://open.spotify.com/album/2PluIFWJrbEgClMLJoFWzh"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "Heart Of A Woman",
+      "url": "https://open.spotify.com/track/2oVVaVY0LkzwAYYcyzon6Z"
+    },
+    {
       "added_at": "2026-02-20 18:30:52",
       "album": {
         "name": "Save The Day (From \"Hoppers\")",
@@ -2051,18 +2067,18 @@
     {
       "added_at": "2025-03-14 06:07:30",
       "album": {
-        "name": "Heart Of A Woman",
-        "url": "https://open.spotify.com/album/2PluIFWJrbEgClMLJoFWzh"
+        "name": "Bird's Eye",
+        "url": "https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa"
       },
       "artists": [
         {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
         }
       ],
-      "duration_ms": 171000,
-      "name": "Heart Of A Woman",
-      "url": "https://open.spotify.com/track/2oVVaVY0LkzwAYYcyzon6Z"
+      "duration_ms": 155563,
+      "name": "Genius",
+      "url": "https://open.spotify.com/track/2od6VwQ93pD6vfYss3oync"
     },
     {
       "added_at": "2025-05-30 04:19:50",
@@ -2083,22 +2099,6 @@
       "duration_ms": 219607,
       "name": "DIRT ON MY SHOES (feat. Kehlani)",
       "url": "https://open.spotify.com/track/2AA05NFvw5tPQ9pvj68fsY"
-    },
-    {
-      "added_at": "2025-03-14 06:07:30",
-      "album": {
-        "name": "Bird's Eye",
-        "url": "https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa"
-      },
-      "artists": [
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        }
-      ],
-      "duration_ms": 155563,
-      "name": "Genius",
-      "url": "https://open.spotify.com/track/2od6VwQ93pD6vfYss3oync"
     },
     {
       "added_at": "2025-03-14 06:07:30",
@@ -2167,6 +2167,22 @@
     {
       "added_at": "2025-03-14 06:07:30",
       "album": {
+        "name": "Please Don't Fall In Love With Me",
+        "url": "https://open.spotify.com/album/6PRJURaaU6YmwLW0rn44rt"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 177562,
+      "name": "Please Don't Fall In Love With Me",
+      "url": "https://open.spotify.com/track/7jEpRsSusmGqKFISucMnV7"
+    },
+    {
+      "added_at": "2025-03-14 06:07:30",
+      "album": {
         "name": "Some Days I\u2019m Good, Some Days I\u2019m Not",
         "url": "https://open.spotify.com/album/6CyD8cVpx9f8uJT9ZpJHRG"
       },
@@ -2185,20 +2201,20 @@
       "url": "https://open.spotify.com/track/0AzUYCZOm8BiUEKBoaRWW8"
     },
     {
-      "added_at": "2025-03-14 06:07:30",
+      "added_at": "2026-05-08 05:33:09",
       "album": {
-        "name": "Please Don't Fall In Love With Me",
-        "url": "https://open.spotify.com/album/6PRJURaaU6YmwLW0rn44rt"
+        "name": "Changes",
+        "url": "https://open.spotify.com/album/0aeOy0WXVNFc2e1b8nTIlu"
       },
       "artists": [
         {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+          "name": "Tommy Richman",
+          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
         }
       ],
-      "duration_ms": 177562,
-      "name": "Please Don't Fall In Love With Me",
-      "url": "https://open.spotify.com/track/7jEpRsSusmGqKFISucMnV7"
+      "duration_ms": 198095,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/32VOsoPR0N9dEZNbogPIeZ"
     },
     {
       "added_at": "2025-03-14 06:07:30",
@@ -2235,22 +2251,6 @@
       "duration_ms": 188348,
       "name": "In My Bag (feat. GloRilla)",
       "url": "https://open.spotify.com/track/4l9xe2rcwWctjrI43UFkgA"
-    },
-    {
-      "added_at": "2026-05-08 05:33:09",
-      "album": {
-        "name": "Changes",
-        "url": "https://open.spotify.com/album/0aeOy0WXVNFc2e1b8nTIlu"
-      },
-      "artists": [
-        {
-          "name": "Tommy Richman",
-          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
-        }
-      ],
-      "duration_ms": 198095,
-      "name": "Changes",
-      "url": "https://open.spotify.com/track/32VOsoPR0N9dEZNbogPIeZ"
     },
     {
       "added_at": "2025-09-19 05:34:59",
@@ -2365,22 +2365,6 @@
       "url": "https://open.spotify.com/track/67KAaGKHUrYLCmHml6v0Yk"
     },
     {
-      "added_at": "2026-03-27 06:15:19",
-      "album": {
-        "name": "Up Out & Gone",
-        "url": "https://open.spotify.com/album/5wQV2yzSVcLdvVCRyTqAiV"
-      },
-      "artists": [
-        {
-          "name": "Ne-Yo",
-          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
-        }
-      ],
-      "duration_ms": 176666,
-      "name": "Up Out & Gone",
-      "url": "https://open.spotify.com/track/7cZWDSWe2F6eFuEw6PLWOV"
-    },
-    {
       "added_at": "2025-03-14 06:07:30",
       "album": {
         "name": "Morayo",
@@ -2401,6 +2385,22 @@
       "url": "https://open.spotify.com/track/3Ae97zTfGTtJzDfmCweNn8"
     },
     {
+      "added_at": "2026-03-27 06:15:19",
+      "album": {
+        "name": "Up Out & Gone",
+        "url": "https://open.spotify.com/album/5wQV2yzSVcLdvVCRyTqAiV"
+      },
+      "artists": [
+        {
+          "name": "Ne-Yo",
+          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+        }
+      ],
+      "duration_ms": 176666,
+      "name": "Up Out & Gone",
+      "url": "https://open.spotify.com/track/7cZWDSWe2F6eFuEw6PLWOV"
+    },
+    {
       "added_at": "2025-10-03 04:48:40",
       "album": {
         "name": "Sincerely: P.S.",
@@ -2419,6 +2419,26 @@
       "duration_ms": 189041,
       "name": "Pretty Promises, (feat. Mariah The Scientist)",
       "url": "https://open.spotify.com/track/2VqSmz8j6E37ur48A9FOia"
+    },
+    {
+      "added_at": "2025-08-22 10:10:54",
+      "album": {
+        "name": "CiCi",
+        "url": "https://open.spotify.com/album/1UsR5de4sGUhjQ8cU3JypJ"
+      },
+      "artists": [
+        {
+          "name": "Ciara",
+          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "duration_ms": 143037,
+      "name": "Dance With Me",
+      "url": "https://open.spotify.com/track/4dZbiGtVeD9S2DmwM3Jzxg"
     },
     {
       "added_at": "2025-12-12 05:00:46",
@@ -2443,26 +2463,6 @@
       "duration_ms": 233114,
       "name": "Lullaby - mega remix",
       "url": "https://open.spotify.com/track/3UKsi5Qkp4L8quumXsKnie"
-    },
-    {
-      "added_at": "2025-08-22 10:10:54",
-      "album": {
-        "name": "CiCi",
-        "url": "https://open.spotify.com/album/1UsR5de4sGUhjQ8cU3JypJ"
-      },
-      "artists": [
-        {
-          "name": "Ciara",
-          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
-        },
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        }
-      ],
-      "duration_ms": 143037,
-      "name": "Dance With Me",
-      "url": "https://open.spotify.com/track/4dZbiGtVeD9S2DmwM3Jzxg"
     },
     {
       "added_at": "2025-10-17 05:35:16",
@@ -2689,24 +2689,20 @@
       "url": "https://open.spotify.com/track/49uWjZ0INI41gLJVi8DxIf"
     },
     {
-      "added_at": "2025-04-25 06:51:06",
+      "added_at": "2025-03-14 06:07:30",
       "album": {
-        "name": "LOVE ON DIGITAL",
-        "url": "https://open.spotify.com/album/7ChitlgU5oFgKmjLtViJ8K"
+        "name": "GOLIATH",
+        "url": "https://open.spotify.com/album/58WQafW2FPSWC3LDe0Jh90"
       },
       "artists": [
         {
-          "name": "DESTIN CONRAD",
-          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
-        },
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
         }
       ],
-      "duration_ms": 225444,
-      "name": "BAD BITCHES",
-      "url": "https://open.spotify.com/track/5ld2rB0d5nG8RTQRRmkxNa"
+      "duration_ms": 185939,
+      "name": "**GOLIATH**",
+      "url": "https://open.spotify.com/track/62Z5rlfm5y3VU8Q3QXceLT"
     }
   ],
   "unique_name": "Channel-X",

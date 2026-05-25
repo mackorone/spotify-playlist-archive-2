@@ -1277,6 +1277,24 @@
     },
     {
       "album": {
+        "name": "Rock Music",
+        "url": "https://open.spotify.com/album/1Ct1PzrmnTxWE8w0PTTa4w"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "date_added": "2026-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115106,
+      "name": "Rock Music",
+      "url": "https://open.spotify.com/track/3cWQRSutAjP6PY3kPzgi2b"
+    },
+    {
+      "album": {
         "name": "ACOUSTIC",
         "url": "https://open.spotify.com/album/6GaiPPXFiQrZ6mXs6BLGl5"
       },
@@ -1604,7 +1622,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-24",
+      "date_removed": null,
       "duration_ms": 164284,
       "name": "Von dutch",
       "url": "https://open.spotify.com/track/3Y1EvIgEVw51XtgNEgpz5c"

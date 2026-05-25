@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVACbHMzNf0B.md) - [plain]
 
 > somos una fusión que no termina✨💚 Julieta Venegas y Bronco en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 828,708 likes - 75 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 828,773 likes - 75 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVACbHMzNf0B.md) - [plain]
 | 74 | [Soy De Agiabampo](https://open.spotify.com/track/59bzZkW360aBq06xJ5LQYZ) | [Brandon Reyes y Elvin](https://open.spotify.com/artist/5KwtioA5ns9gfpFaHpxqlq), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Soy De Agiabampo](https://open.spotify.com/album/5kht3kei1benxfOUNZWycV) | 3:34 |
 | 75 | [Chambeandole Macizo](https://open.spotify.com/track/6rF3EcMniPSGzOn5CFVMvJ) | [Antonin Padilla](https://open.spotify.com/artist/1wlt0D7y3meggHVgSwSqpk), [Cheko Mg](https://open.spotify.com/artist/6gSAzGq3CloVM0kyt8uOKA) | [Chambeandole Macizo](https://open.spotify.com/album/26MfI6t7C2cYyn0hPQWtbP) | 3:40 |
 
-Snapshot ID: `AAAAABXm+oJ1MZvzj9CnSun1Q9VLyAr4`
+Snapshot ID: `AAAAAC1ly5FD3voUiZQ1p6JY1W3Z9cYv`

@@ -1,6 +1,6 @@
 {
   "description": "Um pouco de folk, jazz e MPB para acordar com o p\u00e9 na estrada.",
-  "num_followers": 148741,
+  "num_followers": 148753,
   "original_name": "Amanhecer na Estrada",
   "owner": {
     "name": "Spotify",
@@ -431,6 +431,22 @@
     {
       "added_at": "2025-10-25 00:54:25",
       "album": {
+        "name": "Rock It",
+        "url": "https://open.spotify.com/album/5fyS9Y9LRLC4TYdEZn9AtY"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 207595,
+      "name": "Rock It",
+      "url": "https://open.spotify.com/track/0is4ka3uSbBT04pC2WFsp3"
+    },
+    {
+      "added_at": "2025-10-25 00:54:25",
+      "album": {
         "name": "A Encomenda da Minha Vida",
         "url": "https://open.spotify.com/album/3qdT1eBgzXQjaAwsys5zvR"
       },
@@ -467,22 +483,6 @@
     {
       "added_at": "2025-10-25 00:54:25",
       "album": {
-        "name": "Rock It",
-        "url": "https://open.spotify.com/album/5fyS9Y9LRLC4TYdEZn9AtY"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 207595,
-      "name": "Rock It",
-      "url": "https://open.spotify.com/track/0is4ka3uSbBT04pC2WFsp3"
-    },
-    {
-      "added_at": "2025-10-25 00:54:25",
-      "album": {
         "name": "When The Wind Blows (Private Sessions)",
         "url": "https://open.spotify.com/album/5uIK4JP9LtfXupQkOSDEmc"
       },
@@ -515,6 +515,22 @@
     {
       "added_at": "2025-10-25 00:54:25",
       "album": {
+        "name": "Don't Fade",
+        "url": "https://open.spotify.com/album/0z7QrHUhqM60ZPsNFzxMpx"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 190252,
+      "name": "Don't Fade - Single Version",
+      "url": "https://open.spotify.com/track/0m3hslcOQomyJh8Mz7hdrX"
+    },
+    {
+      "added_at": "2025-10-25 00:54:25",
+      "album": {
         "name": "Leve",
         "url": "https://open.spotify.com/album/1FnlISBProVpJR4idoV4Ag"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 219133,
       "name": "Be Here Now",
       "url": "https://open.spotify.com/track/04NQ1q92DRbxWq6lhpVVDQ"
-    },
-    {
-      "added_at": "2025-10-25 00:54:25",
-      "album": {
-        "name": "Don't Fade",
-        "url": "https://open.spotify.com/album/0z7QrHUhqM60ZPsNFzxMpx"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 190252,
-      "name": "Don't Fade - Single Version",
-      "url": "https://open.spotify.com/track/0m3hslcOQomyJh8Mz7hdrX"
     },
     {
       "added_at": "2025-10-25 00:54:25",

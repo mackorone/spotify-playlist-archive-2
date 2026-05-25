@@ -1,6 +1,6 @@
 {
   "description": "Get your beast mode on!",
-  "num_followers": 11067965,
+  "num_followers": 11068264,
   "original_name": "Beast Mode",
   "owner": {
     "name": "Spotify",
@@ -819,22 +819,6 @@
     {
       "added_at": "2026-05-22 04:00:30",
       "album": {
-        "name": "american dream",
-        "url": "https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq"
-      },
-      "artists": [
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "duration_ms": 270697,
-      "name": "redrum",
-      "url": "https://open.spotify.com/track/52eIcoLUM25zbQupAZYoFh"
-    },
-    {
-      "added_at": "2026-05-22 04:00:30",
-      "album": {
         "name": "Pepas",
         "url": "https://open.spotify.com/album/2A5ksnhz7YWbRLvFMjX1j1"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 287120,
       "name": "Pepas",
       "url": "https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k"
+    },
+    {
+      "added_at": "2026-05-22 04:00:30",
+      "album": {
+        "name": "american dream",
+        "url": "https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq"
+      },
+      "artists": [
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 270697,
+      "name": "redrum",
+      "url": "https://open.spotify.com/track/52eIcoLUM25zbQupAZYoFh"
     },
     {
       "added_at": "2026-05-22 04:00:30",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2026-05-22 04:00:30",
       "album": {
-        "name": "Apocalipsis",
-        "url": "https://open.spotify.com/album/47JohERDAJVAzmfCgOfG5w"
-      },
-      "artists": [
-        {
-          "name": "Cris MJ",
-          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
-        }
-      ],
-      "duration_ms": 160394,
-      "name": "Vamo a Bailotear",
-      "url": "https://open.spotify.com/track/5lCk0ZeN8h76QxNqHEGMZJ"
-    },
-    {
-      "added_at": "2026-05-22 04:00:30",
-      "album": {
         "name": "Still Into You",
         "url": "https://open.spotify.com/album/12AGcC8vmuGnxLIoyJDrj5"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 151875,
       "name": "Still Into You",
       "url": "https://open.spotify.com/track/0GYx8Q9iS05CRe9kyzwAIL"
+    },
+    {
+      "added_at": "2026-05-22 04:00:30",
+      "album": {
+        "name": "Apocalipsis",
+        "url": "https://open.spotify.com/album/47JohERDAJVAzmfCgOfG5w"
+      },
+      "artists": [
+        {
+          "name": "Cris MJ",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "duration_ms": 160394,
+      "name": "Vamo a Bailotear",
+      "url": "https://open.spotify.com/track/5lCk0ZeN8h76QxNqHEGMZJ"
     },
     {
       "added_at": "2026-05-22 04:00:30",
@@ -1395,26 +1395,6 @@
     {
       "added_at": "2026-05-22 04:00:30",
       "album": {
-        "name": "GLORIOUS",
-        "url": "https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0"
-      },
-      "artists": [
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 149461,
-      "name": "WHATCHU KNO ABOUT ME (feat. Sexyy Red)",
-      "url": "https://open.spotify.com/track/5xeSd4HgzrYpNLEf3LfYLK"
-    },
-    {
-      "added_at": "2026-05-22 04:00:30",
-      "album": {
         "name": "Life Is Simple (Move Your Body) [Feat Salom\u00e9 Das]",
         "url": "https://open.spotify.com/album/4btj2RrBqE3GZ2azpFrWuo"
       },
@@ -1435,6 +1415,26 @@
       "duration_ms": 172314,
       "name": "Life Is Simple (Move Your Body) [Feat Salom\u00e9 Das]",
       "url": "https://open.spotify.com/track/6sgYrldk8IdtSERq4eGZj1"
+    },
+    {
+      "added_at": "2026-05-22 04:00:30",
+      "album": {
+        "name": "GLORIOUS",
+        "url": "https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 149461,
+      "name": "WHATCHU KNO ABOUT ME (feat. Sexyy Red)",
+      "url": "https://open.spotify.com/track/5xeSd4HgzrYpNLEf3LfYLK"
     },
     {
       "added_at": "2026-05-22 04:00:30",
@@ -1543,6 +1543,22 @@
     {
       "added_at": "2026-05-22 04:00:30",
       "album": {
+        "name": "WOR$T GIRL IN AMERICA",
+        "url": "https://open.spotify.com/album/5siV9C6eK0NpAqER2FfCVA"
+      },
+      "artists": [
+        {
+          "name": "Slayyyter",
+          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+        }
+      ],
+      "duration_ms": 287055,
+      "name": "DANCE...",
+      "url": "https://open.spotify.com/track/6Xp2Zm2sJLdODReZWBBifO"
+    },
+    {
+      "added_at": "2026-05-22 04:00:30",
+      "album": {
         "name": "Somedays",
         "url": "https://open.spotify.com/album/54R5dT9BWKnR2RX9gOFzDK"
       },
@@ -1599,22 +1615,6 @@
     {
       "added_at": "2026-05-22 04:00:30",
       "album": {
-        "name": "WOR$T GIRL IN AMERICA",
-        "url": "https://open.spotify.com/album/5siV9C6eK0NpAqER2FfCVA"
-      },
-      "artists": [
-        {
-          "name": "Slayyyter",
-          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
-        }
-      ],
-      "duration_ms": 287055,
-      "name": "DANCE...",
-      "url": "https://open.spotify.com/track/6Xp2Zm2sJLdODReZWBBifO"
-    },
-    {
-      "added_at": "2026-05-22 04:00:30",
-      "album": {
         "name": "Running Around",
         "url": "https://open.spotify.com/album/6SgbKsntdtOnmohYEeHi9o"
       },
@@ -1627,22 +1627,6 @@
       "duration_ms": 124620,
       "name": "Running Around",
       "url": "https://open.spotify.com/track/7yNQ5oPcuCC4wTqTcMRIrE"
-    },
-    {
-      "added_at": "2026-05-22 04:00:30",
-      "album": {
-        "name": "SLAY!",
-        "url": "https://open.spotify.com/album/3xCc8FxQsm6AE7ZWJ7h5sx"
-      },
-      "artists": [
-        {
-          "name": "Eternxlkz",
-          "url": "https://open.spotify.com/artist/3Xd2WSaNywx5gn1pgRPFjF"
-        }
-      ],
-      "duration_ms": 107076,
-      "name": "SLAY!",
-      "url": "https://open.spotify.com/track/67smGwuPEtA6GAfeweAVNO"
     },
     {
       "added_at": "2026-05-22 04:00:30",
@@ -1663,6 +1647,22 @@
       "duration_ms": 212000,
       "name": "INDUSTRY BABY (feat. Jack Harlow)",
       "url": "https://open.spotify.com/track/27NovPIUIRrOZoCHxABJwK"
+    },
+    {
+      "added_at": "2026-05-22 04:00:30",
+      "album": {
+        "name": "SLAY!",
+        "url": "https://open.spotify.com/album/3xCc8FxQsm6AE7ZWJ7h5sx"
+      },
+      "artists": [
+        {
+          "name": "Eternxlkz",
+          "url": "https://open.spotify.com/artist/3Xd2WSaNywx5gn1pgRPFjF"
+        }
+      ],
+      "duration_ms": 107076,
+      "name": "SLAY!",
+      "url": "https://open.spotify.com/track/67smGwuPEtA6GAfeweAVNO"
     },
     {
       "added_at": "2026-05-22 04:00:30",
@@ -1979,6 +1979,26 @@
     {
       "added_at": "2026-05-22 04:00:30",
       "album": {
+        "name": "Bulletproof",
+        "url": "https://open.spotify.com/album/5TSSlGJmfkBNC4M3uoMswL"
+      },
+      "artists": [
+        {
+          "name": "La Roux",
+          "url": "https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA"
+        },
+        {
+          "name": "GAMPER & DADONI",
+          "url": "https://open.spotify.com/artist/6HQ6vf4AloXyVNdyJhrX1J"
+        }
+      ],
+      "duration_ms": 162213,
+      "name": "Bulletproof",
+      "url": "https://open.spotify.com/track/0SyxZC4wlqAwf20cHE6Xon"
+    },
+    {
+      "added_at": "2026-05-22 04:00:30",
+      "album": {
         "name": "ALL THE TIME",
         "url": "https://open.spotify.com/album/6wDs2CP86hhNiDlySlMgZy"
       },
@@ -2019,26 +2039,6 @@
       "duration_ms": 140733,
       "name": "BAND4BAND (feat. Lil Baby)",
       "url": "https://open.spotify.com/track/7iabz12vAuVQYyekFIWJxD"
-    },
-    {
-      "added_at": "2026-05-22 04:00:30",
-      "album": {
-        "name": "Bulletproof",
-        "url": "https://open.spotify.com/album/5TSSlGJmfkBNC4M3uoMswL"
-      },
-      "artists": [
-        {
-          "name": "La Roux",
-          "url": "https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA"
-        },
-        {
-          "name": "GAMPER & DADONI",
-          "url": "https://open.spotify.com/artist/6HQ6vf4AloXyVNdyJhrX1J"
-        }
-      ],
-      "duration_ms": 162213,
-      "name": "Bulletproof",
-      "url": "https://open.spotify.com/track/0SyxZC4wlqAwf20cHE6Xon"
     },
     {
       "added_at": "2026-05-22 04:00:30",
@@ -2127,22 +2127,6 @@
     {
       "added_at": "2026-05-22 04:00:30",
       "album": {
-        "name": "What You Saying",
-        "url": "https://open.spotify.com/album/1prQBN9FUobW9g4xDDKSly"
-      },
-      "artists": [
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 131729,
-      "name": "What You Saying",
-      "url": "https://open.spotify.com/track/7cjoZVmWe2xsGR4wcXiV2v"
-    },
-    {
-      "added_at": "2026-05-22 04:00:30",
-      "album": {
         "name": "HIGHJACK (right back)",
         "url": "https://open.spotify.com/album/6CkVgejgX1Oypxu8rGI1VQ"
       },
@@ -2183,6 +2167,22 @@
       "duration_ms": 213646,
       "name": "Fuel",
       "url": "https://open.spotify.com/track/5In8B6Om5OKrhwBMB4tXSi"
+    },
+    {
+      "added_at": "2026-05-22 04:00:30",
+      "album": {
+        "name": "What You Saying",
+        "url": "https://open.spotify.com/album/1prQBN9FUobW9g4xDDKSly"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 131729,
+      "name": "What You Saying",
+      "url": "https://open.spotify.com/track/7cjoZVmWe2xsGR4wcXiV2v"
     },
     {
       "added_at": "2026-05-22 04:00:30",
@@ -2491,6 +2491,26 @@
     {
       "added_at": "2026-05-22 04:00:30",
       "album": {
+        "name": "POP DAT THANG (David Guetta Mix)",
+        "url": "https://open.spotify.com/album/7rtul2MGOdXBk485Ua18L6"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 172727,
+      "name": "POP DAT THANG - David Guetta Mix",
+      "url": "https://open.spotify.com/track/1DyPR5YSPHlRhqRQQR4CGB"
+    },
+    {
+      "added_at": "2026-05-22 04:00:30",
+      "album": {
         "name": "leavemealone",
         "url": "https://open.spotify.com/album/3Tsut3cVOWP7AKAR4Dtmhb"
       },
@@ -2527,26 +2547,6 @@
       "duration_ms": 170243,
       "name": "COOK",
       "url": "https://open.spotify.com/track/4H2rI43vuXJuUrRIMxknzA"
-    },
-    {
-      "added_at": "2026-05-22 04:00:30",
-      "album": {
-        "name": "POP DAT THANG (David Guetta Mix)",
-        "url": "https://open.spotify.com/album/7rtul2MGOdXBk485Ua18L6"
-      },
-      "artists": [
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 172727,
-      "name": "POP DAT THANG - David Guetta Mix",
-      "url": "https://open.spotify.com/track/1DyPR5YSPHlRhqRQQR4CGB"
     },
     {
       "added_at": "2026-05-22 04:00:30",
@@ -2723,22 +2723,6 @@
     {
       "added_at": "2026-05-22 04:00:30",
       "album": {
-        "name": "GTA 6",
-        "url": "https://open.spotify.com/album/1YQtaGamRAouYAW7rSu2us"
-      },
-      "artists": [
-        {
-          "name": "Joyner Lucas",
-          "url": "https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa"
-        }
-      ],
-      "duration_ms": 168181,
-      "name": "GTA 6",
-      "url": "https://open.spotify.com/track/1HFzBE8VY5zyNowBre0zRo"
-    },
-    {
-      "added_at": "2026-05-22 04:00:30",
-      "album": {
         "name": "Little Girl Gone",
         "url": "https://open.spotify.com/album/1vTHLsE6MttzdRfg2ZkU4I"
       },
@@ -2751,6 +2735,22 @@
       "duration_ms": 188596,
       "name": "Little Girl Gone",
       "url": "https://open.spotify.com/track/5OLcsBO28uWHMzS0EEeZNp"
+    },
+    {
+      "added_at": "2026-05-22 04:00:30",
+      "album": {
+        "name": "GTA 6",
+        "url": "https://open.spotify.com/album/1YQtaGamRAouYAW7rSu2us"
+      },
+      "artists": [
+        {
+          "name": "Joyner Lucas",
+          "url": "https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa"
+        }
+      ],
+      "duration_ms": 168181,
+      "name": "GTA 6",
+      "url": "https://open.spotify.com/track/1HFzBE8VY5zyNowBre0zRo"
     },
     {
       "added_at": "2026-05-22 04:00:30",

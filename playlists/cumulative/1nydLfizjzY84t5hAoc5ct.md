@@ -4,7 +4,7 @@
 
 > OffAxisGigs.com \| Indie \| Folk \| Electro \| Rock \| Pop
 
-220 songs - 13 hr 37 min
+222 songs - 13 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [FUBAR](https://open.spotify.com/track/7fQYGMFmYytvX1K9HxxpyT) | [Wohn](https://open.spotify.com/artist/3an2jgwqUfK8gN7slm98Fb) | [FUBAR](https://open.spotify.com/album/2JvQOGVOVHforMQLheQ9CX) | 4:23 | 2026-04-19 | 2026-05-18 |
 | [Gas Station Coffee](https://open.spotify.com/track/7K0PLrZbF2FNsI4MHWSyaH) | [Mike West](https://open.spotify.com/artist/4tTpvmcly5XOlMrMkx9RpF), [Myshkin](https://open.spotify.com/artist/6m0XoeEadMkDHRFSwjPMAM) | [Econoline](https://open.spotify.com/album/2qxqx6hKvsq8bORLJY2fwf) | 1:45 | 2025-12-14 | 2026-02-02 |
 | [Gear Shift](https://open.spotify.com/track/3Bj56ERbU5174dIOCEv0dZ) | [SonicSpecter](https://open.spotify.com/artist/72fdXgZpUfzyrVP8S77xZJ), [Delta 89](https://open.spotify.com/artist/31ooOx9ekZDPZGJFDne9yU) | [Gear Shift](https://open.spotify.com/album/64xWCdkXzE4LJlc2Ly4rhZ) | 3:44 | 2025-12-13 | 2025-12-26 |
+| [Ghost Dance](https://open.spotify.com/track/067mveG8uZfWo610jMBPAv) | [Haiver](https://open.spotify.com/artist/3lZ7xSeqcoAGMGFP65nTbv) | [Ghost Dance](https://open.spotify.com/album/5a7kFUHg1rfln6U3ne7cx9) | 4:09 | 2026-05-24 |  |
 | [Go With The Flow](https://open.spotify.com/track/2CPEnBK8DzLrIWOKBeRSNF) | [Vagrant Real Estate](https://open.spotify.com/artist/6AxpNvP90GRajaB0TOYY9H), [Jackill](https://open.spotify.com/artist/0FJnIjCk83jmkwEOh8Jhsx), [Katherine Aly](https://open.spotify.com/artist/424I82CapATJ5wpqqvPFDX), [Aiitee](https://open.spotify.com/artist/4GhW4AQoDwme5T37OlpMAM), [Florence Jack](https://open.spotify.com/artist/4pmpDqVKHxD5w8lCH7vCvv), [Danny Cliff](https://open.spotify.com/artist/7mauGgfGsbfIgiSlRDLCft) | [Go With The Flow](https://open.spotify.com/album/0NTPzQuAxK1HwURrVlbd4S) | 4:23 | 2025-11-16 | 2025-11-24 |
 | [Gods Among Us](https://open.spotify.com/track/0L4DwuyfeJXxqtMgtQQF1P) | [Barranquismo](https://open.spotify.com/artist/3rcj4PO8vQ8pBdiqXuLvQF) | [Gods Among Us](https://open.spotify.com/album/6wVmq7Wfn65mmXkxzCX9GD) | 3:19 | 2025-11-16 | 2025-11-24 |
 | [Graft](https://open.spotify.com/track/3MGrA1j5PS4H8S12ZaEDDT) | [Anoraq](https://open.spotify.com/artist/5oEuBDJReLzlrnfhtoxuZW) | [Graft](https://open.spotify.com/album/3Odvpib2Rf8DEuElbYtW7s) | 2:31 | 2026-04-12 | 2026-04-20 |
@@ -136,6 +137,7 @@
 | [Look Me In The Eye](https://open.spotify.com/track/4V6D8bxGBhhqFhe6pTWbHg) | [FAEDA](https://open.spotify.com/artist/5fC6wqfNjhmkVh6cYB4Gru) | [Look Me In The Eye](https://open.spotify.com/album/122QcOvBCwlu4MUQ7Pq1N0) | 3:33 | 2026-04-17 |  |
 | [Lost Soul \(Brains Redemption From California Schemin\)](https://open.spotify.com/track/6rIswjiUbvJFQFGUH7gEfd) | [Silibil Billy Boyd](https://open.spotify.com/artist/1xxU17i6PFPWEOt4BDIG7M), [VULIN](https://open.spotify.com/artist/6dPld4nrLbpPixYurRKbjJ), [To The Wild](https://open.spotify.com/artist/79YoLVxfjGDomsVrfYbaQu) | [Everyone Has a Story to Tell](https://open.spotify.com/album/0vP2EINyIA4Lx1v3EmYKTE) | 3:42 | 2026-05-17 |  |
 | [Love Is Gonna Hurt This Way Forever](https://open.spotify.com/track/1qOqqWPg3RZmmWz6EdmSHH) | [Mark Hegan](https://open.spotify.com/artist/7crr46eJh3TVrvWKovT5mr) | [Love Is Gonna Hurt This Way Forever](https://open.spotify.com/album/2PzkSBLaQDT05XkR9Q04Gn) | 3:02 | 2025-11-16 | 2026-02-02 |
+| [Love To Hate](https://open.spotify.com/track/1n98QMnnHuC8XLKbUuvAMn) | [Haiver](https://open.spotify.com/artist/3lZ7xSeqcoAGMGFP65nTbv) | [Love To Hate](https://open.spotify.com/album/6klBzhJPi8Ki8vfm0rPf83) | 4:24 | 2026-05-24 |  |
 | [Make It Out](https://open.spotify.com/track/2ERtVyfIhVWUlHxiddsc2K) | [Foreign Mornings](https://open.spotify.com/artist/5FpTfySze01OqeGdYET9Jm) | [Beginnings and Endings](https://open.spotify.com/album/7ouFqeYiBHWwPBb34BvZci) | 4:24 | 2026-05-03 |  |
 | [Manmade Fires](https://open.spotify.com/track/2W7fo4UpIVY3b3pT36KqRk) | [BRSR](https://open.spotify.com/artist/5xNIOeyc7NSNxIeJF10pxE) | [A Field Of Manmade Fires](https://open.spotify.com/album/5QE5jV1NczbKVl32GOx9M5) | 5:35 | 2026-03-21 |  |
 | [Manmade Fires](https://open.spotify.com/track/7flLFmCkey6fJopjMyz8rb) | [BRSR](https://open.spotify.com/artist/5xNIOeyc7NSNxIeJF10pxE) | [Manmade Fires](https://open.spotify.com/album/2QgnmfUnFdjwegJYXaXLak) | 5:37 | 2025-11-30 | 2026-03-22 |

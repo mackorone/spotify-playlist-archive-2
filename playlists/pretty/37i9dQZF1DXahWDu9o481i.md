@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 
 > The best new songs of the month, handpicked by Spotify editors\. Cover: Momo Boyd
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,653 likes - 66 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,682 likes - 66 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,10 +66,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 | 56 | [i think i had something once](https://open.spotify.com/track/7LnWdwgoNONeKs2MHzMSDe) | [Aubory Bugg](https://open.spotify.com/artist/2fRZyxhGkcXXFwe7tGan1U) | [i think i had something once](https://open.spotify.com/album/6DwKhMwRSVNyOtNY2mkZao) | 3:39 |
 | 57 | [SHAKEUP](https://open.spotify.com/track/0GNevYV44uHe2mkQ2rGYr7) | [OOTORO](https://open.spotify.com/artist/3kWLEfykUXgiuhbR2NwnLI) | [SHAKEUP](https://open.spotify.com/album/4lPV3eMg0fcb0cCDkXhaq5) | 3:33 |
 | 58 | [MVP](https://open.spotify.com/track/1L7324QK3osE201YXxrrrl) | [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8), [Jenn Carter](https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU) | [AREA 41](https://open.spotify.com/album/2Hn5BTivLqJy8bkKN3cUCI) | 3:08 |
-| 59 | [Irish Tears \- Radio Edit](https://open.spotify.com/track/3U1aPqHP4mRwnCy9oW55YL) | [Thaiboy Digital](https://open.spotify.com/artist/3cGojc1Yu89IHXx8OeSnee), [swedm®](https://open.spotify.com/artist/0JoFtJei4JUZYBqN0dk8UK), [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [Irish Tears](https://open.spotify.com/album/34NLecq6KxI9VGtQ3UVsxK) | 3:45 |
-| 60 | [Romance](https://open.spotify.com/track/0UofsT4hEZ7qeYPXkzDiII) | [Baalti](https://open.spotify.com/artist/2CtpjGWvsq4QnUIx9PHDAN), [Lapgan](https://open.spotify.com/artist/2qpOejyNXBdBfLQh9OO22P) | [Threads](https://open.spotify.com/album/5ITKx2dBSjk5jV6ZxTFe62) | 1:21 |
-| 61 | [mind be so numb](https://open.spotify.com/track/3ePwGn599lcCF9Hxpfw7Iw) | [u.r.trax](https://open.spotify.com/artist/5bGQtNvk4LrSUTZGzBiZq5), [BEA1991](https://open.spotify.com/artist/6F93aFbWjhUtjRKXYmtr1Z) | [mind be so numb](https://open.spotify.com/album/4fiywhfAwezkakYPcsMdAg) | 3:15 |
-| 62 | [White Noise](https://open.spotify.com/track/1jZ5HUwdrcYbDjwYmw9ccP) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Cruel World](https://open.spotify.com/album/3aV5cU7oLh6RpNpNpHD1wq) | 3:45 |
+| 59 | [White Noise](https://open.spotify.com/track/1jZ5HUwdrcYbDjwYmw9ccP) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Cruel World](https://open.spotify.com/album/3aV5cU7oLh6RpNpNpHD1wq) | 3:45 |
+| 60 | [Irish Tears \- Radio Edit](https://open.spotify.com/track/3U1aPqHP4mRwnCy9oW55YL) | [Thaiboy Digital](https://open.spotify.com/artist/3cGojc1Yu89IHXx8OeSnee), [swedm®](https://open.spotify.com/artist/0JoFtJei4JUZYBqN0dk8UK), [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [Irish Tears](https://open.spotify.com/album/34NLecq6KxI9VGtQ3UVsxK) | 3:45 |
+| 61 | [Romance](https://open.spotify.com/track/0UofsT4hEZ7qeYPXkzDiII) | [Baalti](https://open.spotify.com/artist/2CtpjGWvsq4QnUIx9PHDAN), [Lapgan](https://open.spotify.com/artist/2qpOejyNXBdBfLQh9OO22P) | [Threads](https://open.spotify.com/album/5ITKx2dBSjk5jV6ZxTFe62) | 1:21 |
+| 62 | [mind be so numb](https://open.spotify.com/track/3ePwGn599lcCF9Hxpfw7Iw) | [u.r.trax](https://open.spotify.com/artist/5bGQtNvk4LrSUTZGzBiZq5), [BEA1991](https://open.spotify.com/artist/6F93aFbWjhUtjRKXYmtr1Z) | [mind be so numb](https://open.spotify.com/album/4fiywhfAwezkakYPcsMdAg) | 3:15 |
 | 63 | [Humble'Em\_PINK](https://open.spotify.com/track/542GAgyvyAmFEKgSsUAPUl) | [REASON](https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o), [CUZZOS](https://open.spotify.com/artist/0TY3Wab2Z1kmp5jZoxdPjZ) | [Humble'Em\_PINK / Doin Too Much](https://open.spotify.com/album/0j9CJn69fdtymqVXfKo4EA) | 3:27 |
 | 64 | [Everyone Around Me Dancing](https://open.spotify.com/track/4zAGDYOy1IXm2EX2QhJFWp) | [Gia Margaret](https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C) | [Everyone Around Me Dancing](https://open.spotify.com/album/0tJnP3ZtJfH3wObknhOhjW) | 3:05 |
 | 65 | [Always](https://open.spotify.com/track/12Hhc4vvZv3gC8nGxcIBwf) | [Lekan](https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv) | [For All The Right Reasons Vol\. 1](https://open.spotify.com/album/36KvnNSPeyCHUrAQVpgwwN) | 4:14 |

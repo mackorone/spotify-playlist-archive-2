@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1QnNyJOBQBv.md) - [plain]
 
 > Pop on the rise you should know, featuring Becky G.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,927,041 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,927,094 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1QnNyJOBQBv.md) - [plain]
 | 49 | [Vuelve](https://open.spotify.com/track/4ON0spZpKuq6LfxITWgkcV) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ), [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Vuelve](https://open.spotify.com/album/53BSZEU1P0G9DICDS19Fdg) | 3:31 |
 | 50 | [Regalito](https://open.spotify.com/track/0cQtGUyt8edxSRLHGxSGOK) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Juan Duque](https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6) | [TRESCENDER](https://open.spotify.com/album/2uq6IbfhiXV8uak3zpHgjc) | 2:41 |
 
-Snapshot ID: `AAAAAELgw2kMK0OjoMy/RGhuKbaOG3Uf`
+Snapshot ID: `AAAAAL/TttadYOA+prkrQ/9EKnxOBcI9`

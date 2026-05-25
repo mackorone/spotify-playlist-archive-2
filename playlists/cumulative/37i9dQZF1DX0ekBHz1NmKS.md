@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-2,269 songs - 4 day 21 hr 47 min
+2,271 songs - 4 day 21 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -777,7 +777,7 @@
 | [Hack i häl](https://open.spotify.com/track/5M4LcdQI697sSHvxTG647W) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI) | [Hack i häl](https://open.spotify.com/album/3ljQtz5B7PtcWF0qZlL2Dk) | 3:46 | 2026-01-01 | 2026-04-10 |
 | [Hail Mary](https://open.spotify.com/track/2HXAf5wdE19W5Ts2FEgfvn) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Hail Mary](https://open.spotify.com/album/0otPuP68aRr3SdALoF8iKU) | 2:46 | 2025-06-19 | 2025-08-22 |
 | [Hail Mary](https://open.spotify.com/track/15pyj3akaHTgy2qBkPGmRj) | [Skott](https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc) | [Hail Mary](https://open.spotify.com/album/2kvKdfynjNj11A5Fc1k5zS) | 3:13 | 2023-02-01 | 2023-03-23 |
-| [Half Of Me](https://open.spotify.com/track/24akkpWAHCec0hXyN9R1ct) | [Greczula](https://open.spotify.com/artist/13NMzn27VInG00ibGr91Z4) | [Half Of Me](https://open.spotify.com/album/26abVLhkfFemzBgaPabCRM) | 2:58 | 2026-01-29 |  |
+| [Half Of Me](https://open.spotify.com/track/24akkpWAHCec0hXyN9R1ct) | [Greczula](https://open.spotify.com/artist/13NMzn27VInG00ibGr91Z4) | [Half Of Me](https://open.spotify.com/album/26abVLhkfFemzBgaPabCRM) | 2:58 | 2026-01-29 | 2026-05-25 |
 | [Halleluja](https://open.spotify.com/track/0Oz87iCfzi4JXmEV3YdjZf) | [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [Halleluja](https://open.spotify.com/album/6oG0r4B68LY1oQIe8rQJuv) | 2:37 | 2025-01-16 | 2025-04-05 |
 | [Hallå hallå](https://open.spotify.com/track/1Ngsjy3FBg0hiYDEMBpu34) | [Eric Sporrong](https://open.spotify.com/artist/4ThLnQoYqiBCMWJKi8hnFO) | [Hallå hallå](https://open.spotify.com/album/0c53CwHfQEV3G8EZES70IC) | 2:53 | 2024-05-02 | 2024-06-01 |
 | [Halvfullt sprucket glas](https://open.spotify.com/track/67kdOBbNGrgqVo8yk1Ue6h) | [Ida\-Lova](https://open.spotify.com/artist/6RGIHfTrYarvgEAOTB7itO) | [Halvfullt sprucket glas](https://open.spotify.com/album/3I6yk3lLrD8TyqKI1L7wfX) | 3:30 | 2023-11-09 | 2024-02-09 |
@@ -823,6 +823,7 @@
 | [HEJDÅ\(:](https://open.spotify.com/track/0KGlp2zt6TB11PyaEIObiG) | [MELVIN](https://open.spotify.com/artist/2eepQKh5byG0hRhmy6U0I4) | [HEJDÅ\(:](https://open.spotify.com/album/14LyqJeiLSbRfRl3ZX52HG) | 3:11 | 2024-03-21 | 2024-05-03 |
 | [Hela Vägen Upp](https://open.spotify.com/track/7CgPoYEwEFp4w71sECwFou) | [Silvana Imam](https://open.spotify.com/artist/14vNE9iqS5eGAL6OogiN8g), [Jaqe](https://open.spotify.com/artist/6GFNszjoVtonHtwNFGUABT) | [Hela Vägen Upp](https://open.spotify.com/album/5d313T0tvzEEZrsibsdvjP) | 3:01 | 2022-10-15 | 2023-02-07 |
 | [Hela Vägen Upp \(feat\. Jaqe\)](https://open.spotify.com/track/5PfBWTtklToHiwR6ykNfmE) | [Silvana Imam](https://open.spotify.com/artist/14vNE9iqS5eGAL6OogiN8g), [Jaqe](https://open.spotify.com/artist/6GFNszjoVtonHtwNFGUABT) | [Hela Vägen Upp \(feat\. Jaqe\)](https://open.spotify.com/album/7KTvVRwWzKe85EDEdMBrsl) | 3:01 | 2022-09-22 | 2022-10-13 |
+| [Hela världen](https://open.spotify.com/track/3uOz4RtO8A0etLzetCpwC8) | [Korsvägen](https://open.spotify.com/artist/7L3NPrvG2cKQrvQpeZI2XT) | [Hela världen](https://open.spotify.com/album/2tqvHHHZaIqPmesiaxmhRP) | 3:26 | 2026-05-21 |  |
 | [Hela världen väntar](https://open.spotify.com/track/72qqClHy6Qf9Thi58pc4lX) | [Junie](https://open.spotify.com/artist/3Jy86CVPHDVN858HitaK1N), [Timbuktu](https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe) | [Hela världen väntar](https://open.spotify.com/album/4xi6g2rx9wsMe4cz5zT6Av) | 3:18 | 2021-12-16 | 2022-03-11 |
 | [Hela världen är min](https://open.spotify.com/track/07l5IJqrY6ERJw7HNdnM0G) | [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Hela världen är min](https://open.spotify.com/album/2FD0zqU3iO8cwQkR2SEgMN) | 3:06 | 2022-03-17 | 2022-09-16 |
 | [Helan går](https://open.spotify.com/track/3VJHbBZSvktGfRIAW2aXch) | [Lisa Howard](https://open.spotify.com/artist/65eHyQC0V8h38ia3dLKaRm) | [Helan går](https://open.spotify.com/album/6Bzcl46KbEPJLQAUYYcC9T) | 3:15 | 2022-05-05 | 2022-09-30 |
@@ -910,6 +911,7 @@
 | [Hus utan speglar](https://open.spotify.com/track/5HlqlmK2aXj8yGuzqxlYxE) | [Peg Parnevik](https://open.spotify.com/artist/2lLqHBjAnD1QyH24pOPoH6) | [Hus utan speglar](https://open.spotify.com/album/5Df3GkRmprbUE1c4SDVmVe) | 2:44 | 2024-06-06 | 2024-08-09 |
 | [Hypnotiserad](https://open.spotify.com/track/35ZcDw1vAEL1q8bjRfLIWx) | [Oskar Linnros](https://open.spotify.com/artist/3E8Mx37sikkaFoX5DRecLi) | [Hypnotiserad](https://open.spotify.com/album/7etKBA6nDRJF7ZXUHLkd4B) | 2:36 | 2024-05-09 | 2024-06-07 |
 | [Hälften är rakt från hjärtat](https://open.spotify.com/track/28irQUos9MYFrNzTuRCXzf) | [Timo Räisänen](https://open.spotify.com/artist/3Z6WVJzHQ12kzNjhzDkIYP), [Felicia Takman](https://open.spotify.com/artist/3KdFzFHhUFCRdbllsQ1lZd) | [Hälften är rakt från hjärtat](https://open.spotify.com/album/4Vq2qQiX6deoCpyKvkPbB4) | 2:48 | 2023-08-25 | 2024-01-05 |
+| [Hälsa satan](https://open.spotify.com/track/5ZooL3IGyiI12IPHI4JQyS) | [Adrian Macéus](https://open.spotify.com/artist/1znCudkO8pApRUyRijRN2g) | [Ett hjärta utan adress](https://open.spotify.com/album/3IJ5PO3fEF6zNActgpsMYO) | 3:16 | 2026-05-21 |  |
 | [Hämta mer](https://open.spotify.com/track/5LcaQhfIrbt38NAeile7VL) | [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [Sciura](https://open.spotify.com/album/1hFIfwfxnj8psJygCamspI) | 4:41 | 2025-10-02 | 2026-02-13 |
 | [Hämta mer \- Sonar Remix](https://open.spotify.com/track/6W9Xqp0K1noBNc2E5b4MY2) | [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs), [Sonar](https://open.spotify.com/artist/11DKQbdDgRUHzcBjdCOZTl) | [Hämta mer \(Sonar Remix\)](https://open.spotify.com/album/48S65ihsx4DLIKJpZnsXeL) | 3:43 | 2025-12-29 | 2026-03-20 |
 | [Händer](https://open.spotify.com/track/4YqxiA5nPFNevQQ72Y5D9d) | [Valter Nilsson](https://open.spotify.com/artist/2MFXMIAlMW2pAyybxRNMln) | [Högsbo Riviera](https://open.spotify.com/album/2aBTX786uODU6398tiT9F9) | 4:25 | 2026-03-26 |  |
@@ -1114,7 +1116,7 @@
 | [Korthus](https://open.spotify.com/track/19ILYbyW3BPeDUxH3TYBPU) | [Maxida Märak](https://open.spotify.com/artist/3FfnFeTonanbog4rEvYXns), [Joakim Berg](https://open.spotify.com/artist/5Z3qZD6rDNxloqapoa1QUC), [Maria Jane Smith](https://open.spotify.com/artist/4WwXZFXWvXCc6cHvgP5m7u) | [Korthus](https://open.spotify.com/album/4JwYFYWEHacLDk0dV6emb8) | 3:02 | 2022-11-04 | 2023-02-01 |
 | [Korthus](https://open.spotify.com/track/791sTulD9FqjjDlraYYIpT) | [Maxida Märak](https://open.spotify.com/artist/3FfnFeTonanbog4rEvYXns), [Joakim Berg](https://open.spotify.com/artist/5Z3qZD6rDNxloqapoa1QUC), [Maria Jane Smith](https://open.spotify.com/artist/3IiNai4mJpTKP4SGjhJau5) | [Korthus](https://open.spotify.com/album/08oifjJ5L0K7l2a7UaUKBN) | 3:02 | 2022-09-01 | 2022-10-13 |
 | [Kostym & Sneakers](https://open.spotify.com/track/1mZaapzyBSRX5AThKRXVV6) | [Reyn](https://open.spotify.com/artist/0fyeRmbc7XdKio5Fm13LPB) | [Kostym & Sneakers](https://open.spotify.com/album/0yFA4cwBtbrOglS425pSGe) | 2:26 | 2024-04-18 | 2024-05-24 |
-| [Kramar du mig hårdare](https://open.spotify.com/track/5ViM0KjpRK8lgEUcL86NkK) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [Kramar du mig hårdare](https://open.spotify.com/album/67ivkyl4AV4YhfHHhBKCzJ) | 3:45 | 2026-03-05 |  |
+| [Kramar du mig hårdare](https://open.spotify.com/track/5ViM0KjpRK8lgEUcL86NkK) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [Kramar du mig hårdare](https://open.spotify.com/album/67ivkyl4AV4YhfHHhBKCzJ) | 3:45 | 2026-03-05 | 2026-05-25 |
 | [Kransen](https://open.spotify.com/track/14iMujU8chd9Vac9vpjuVe) | [Felicia Takman](https://open.spotify.com/artist/3KdFzFHhUFCRdbllsQ1lZd) | [Kransen](https://open.spotify.com/album/1fzz8Ae1OyMwuh5mcnISbr) | 3:43 | 2025-06-19 | 2025-08-26 |
 | [Krig](https://open.spotify.com/track/3ZjS9KHqg94sTPnPy2HB26) | [Labyrint](https://open.spotify.com/artist/5s77Nldm0GrOQkMIElogdo) | [Krig](https://open.spotify.com/album/182MDeWuLgGIFOxRA077d4) | 2:13 | 2025-12-11 | 2026-03-03 |
 | [Krossa snällt](https://open.spotify.com/track/4oRk3LwfqCjSQidSifY4tk) | [Lisa Howard](https://open.spotify.com/artist/65eHyQC0V8h38ia3dLKaRm) | [Krossa snällt](https://open.spotify.com/album/4gwDN7mVK8hcKJeH50Z9XB) | 3:13 | 2024-02-15 | 2024-04-05 |

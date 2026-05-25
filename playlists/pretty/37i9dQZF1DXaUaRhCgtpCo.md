@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUaRhCgtpCo.md) - [plain]
 
 > May the Force be with you\. Listen to all the best Star Wars tracks, all in one place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 599,394 likes - 84 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 599,633 likes - 84 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUaRhCgtpCo.md) - [plain]
 | 83 | [Jabba Flow \- From "Star Wars: The Force Awakens"](https://open.spotify.com/track/0UO2Vjeo0H3LB9eVeOUmOf) | [Shag Kava](https://open.spotify.com/artist/6FaemkK7TGHziDP6UGijh3) | [Jabba Flow \(From "Star Wars: The Force Awakens"\)](https://open.spotify.com/album/0InGiWEfdNJP4YP4Axrvna) | 1:38 |
 | 84 | [Star Wars Main Title and the Arrival at Naboo](https://open.spotify.com/track/3UqSTlEwO5spY8YL3GfQGv) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Star Wars: The Phantom Menace \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/45EFycwtfRhnDPWbc2mClK) | 2:55 |
 
-Snapshot ID: `AAAAACFpNbN7r2M9Ci0tEcyFFvN5l9b3`
+Snapshot ID: `AAAAAKmoJRvkooyzyuiS8i0/bt1UmaSZ`

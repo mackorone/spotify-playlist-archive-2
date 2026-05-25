@@ -4,7 +4,7 @@
 
 > Tämän hetken kovimmat suomihitit.
 
-985 songs - 2 day 1 hr 9 min
+986 songs - 2 day 1 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -634,7 +634,7 @@
 | [Poikii on](https://open.spotify.com/track/5Lcqxese2p6RAAw3maH81R) | [Alina Burnet](https://open.spotify.com/artist/6pBVcV1vX0IUU9Rr1xtB2J) | [Poikii on](https://open.spotify.com/album/6TVWI8u2gbQnl5jXBtOb56) | 2:21 | 2025-11-13 | 2026-02-13 |
 | [Pois pois pois](https://open.spotify.com/track/6c2WnB9iEyjXlqGJOiI4B3) | [Poju](https://open.spotify.com/artist/5z9Z1vlOXGvDLBgKfzdswn) | [Pois pois pois](https://open.spotify.com/album/573RWpBvjB5VAS88V2dXzv) | 3:32 | 2024-08-01 | 2024-08-23 |
 | [Poitsu](https://open.spotify.com/track/5W14lDIUvUFfHtuC2JabRu) | [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK) | [Poitsu](https://open.spotify.com/album/63mnly1kjGNJyXMb2fp7hV) | 2:31 | 2026-03-26 |  |
-| [Pokaali](https://open.spotify.com/track/2OYNF3qYJmr2LBLTvPCCvR) | [Pihlaja](https://open.spotify.com/artist/5XOFNBUv0d2HrBVyTcWCKi) | [Pokaali](https://open.spotify.com/album/2jGLJVeqQ46IhSvb3Ilw40) | 3:07 | 2026-05-07 | 2026-05-22 |
+| [Pokaali](https://open.spotify.com/track/2OYNF3qYJmr2LBLTvPCCvR) | [Pihlaja](https://open.spotify.com/artist/5XOFNBUv0d2HrBVyTcWCKi) | [Pokaali](https://open.spotify.com/album/2jGLJVeqQ46IhSvb3Ilw40) | 3:07 | 2026-05-07 |  |
 | [Polku \(Vain elämää kausi 15\)](https://open.spotify.com/track/3fUc4fx7Hu77LlJGgKtm9c) | [Roope Salminen](https://open.spotify.com/artist/0fUotQ9XbnLcg1a0OAHAxC), [Roope Salminen & Koirat](https://open.spotify.com/artist/3OElmmR1D18e4dPTISAF5r) | [Polku \(Vain elämää kausi 15\)](https://open.spotify.com/album/32yFKb5ZLMg16XhHfExHre) | 3:16 | 2024-10-17 | 2024-10-25 |
 | [Priimus räkis](https://open.spotify.com/track/4kZoSGZzIk0GKGugnUh1Cf) | [Bee](https://open.spotify.com/artist/4pR2IcLEPu4KFVAmanNG1f) | [Priimus räkis](https://open.spotify.com/album/1mf3P0xqONFtexsgS0DWkt) | 2:26 | 2025-11-06 | 2025-12-19 |
 | [Prinsessa \(feat\. baka®\)](https://open.spotify.com/track/6ioqZb07eWdepb7NaBt2xA) | [VJ](https://open.spotify.com/artist/4JdNUmnUaGFg9kX947oHg2), [baka®](https://open.spotify.com/artist/2cIN5e6ouIgJiebmItnDaW) | [Prinsessa \(feat\. baka®\)](https://open.spotify.com/album/3oybXiUqKzYBOzQHSfS3ii) | 2:00 | 2024-07-04 | 2024-08-23 |
@@ -706,6 +706,7 @@
 | [Sasha](https://open.spotify.com/track/4Bfuv305X5QqEGnufnfBla) | [Alina Burnet](https://open.spotify.com/artist/6pBVcV1vX0IUU9Rr1xtB2J) | [Sasha](https://open.spotify.com/album/1gDeiAIRl8hRfX3gwe7TYz) | 2:32 | 2025-06-02 | 2025-08-19 |
 | [Sata Enkelii](https://open.spotify.com/track/4kyyeD1eO2wR6VfRKh4gkq) | [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [Sata Enkelii](https://open.spotify.com/album/0qNFBKhnuzQDDgHtXzO2D8) | 2:54 | 2025-07-24 | 2025-09-05 |
 | [Sata shottii](https://open.spotify.com/track/4SzyvEZEyXIYiIe4rpsxcO) | [Etta](https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc) | [Tähtisumua](https://open.spotify.com/album/0QKY0hyk6h6hkytXBY9Jt4) | 2:25 | 2024-10-17 | 2025-04-25 |
+| [Sata syyt](https://open.spotify.com/track/5utmpdm2S5HNpdvz1Fve8L) | [KERZA](https://open.spotify.com/artist/5aF5rqONOxygQlthvJ5Wjr), [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk) | [Sata syyt](https://open.spotify.com/album/183AuvnOZ1x5FdRUuSGzEQ) | 2:54 | 2026-05-21 |  |
 | [Satama](https://open.spotify.com/track/1osPz2rgtdywUR6ut6eIMU) | [KUUMAA](https://open.spotify.com/artist/3YC5DVJDjyazvB8hxJSybr) | [Satama](https://open.spotify.com/album/1w9whtxDsbfopzVe6hlWjS) | 2:40 | 2024-07-25 | 2024-11-29 |
 | [Satamiljoonaa puutarhaa](https://open.spotify.com/track/39x6zXiaXKfwJSJpR4FbL8) | [Tomi Saario](https://open.spotify.com/artist/1p1Q1tRavrbMGCgJdf9G0H) | [Satamiljoonaa puutarhaa](https://open.spotify.com/album/4tylfswbdsNVbacXVqy7md) | 3:10 | 2024-09-12 | 2024-10-04 |
 | [Satasen laina 2025](https://open.spotify.com/track/0xk8CcVPsvMhzNps6ZI9LP) | [Victor Nordis](https://open.spotify.com/artist/1DAgitxRlJMroOghdSraJp), [Nylon Beat](https://open.spotify.com/artist/3NI6ZOWTladyQrPqx5I02g) | [Satasen laina 2025](https://open.spotify.com/album/17Y44gf7X0JT6TJwE3FcP0) | 2:16 | 2025-08-21 | 2025-10-10 |
@@ -860,7 +861,7 @@
 | [Tuulet puhaltaa \(Vain elämää kausi 15\)](https://open.spotify.com/track/2nItUW1kASPDp32bpslpd7) | [Roope Salminen](https://open.spotify.com/artist/0fUotQ9XbnLcg1a0OAHAxC), [Roope Salminen & Koirat](https://open.spotify.com/artist/3OElmmR1D18e4dPTISAF5r) | [Tuulet puhaltaa \(Vain elämää kausi 15\)](https://open.spotify.com/album/7JlGpmgCyBYYqII2DI6haL) | 2:28 | 2024-11-07 | 2024-11-15 |
 | [Tuulien teitä](https://open.spotify.com/track/383ykL7v9KTQJt6N4jrp03) | [Dilemma](https://open.spotify.com/artist/6d2cna6ab3mL140jbRNXqV) | [Tuulien teitä](https://open.spotify.com/album/3USx6QvGMQPAtE8zzKdJ6v) | 3:30 | 2024-10-17 | 2024-11-22 |
 | [Tuulta purjeisiin](https://open.spotify.com/track/6TlpSqesu3cFLa4tJcgRkC) | [Senya](https://open.spotify.com/artist/49OC47dLyKYSl2EPaZLUaO) | [Tuulta purjeisiin](https://open.spotify.com/album/0RT64kLPZWjRD2XFPw3gpI) | 3:18 | 2025-11-20 | 2026-02-08 |
-| [Tuun viel himaan](https://open.spotify.com/track/6xpnBGFThS3Z8slDBiVJN2) | [KUUMAA](https://open.spotify.com/artist/3YC5DVJDjyazvB8hxJSybr) | [Valoa varten](https://open.spotify.com/album/0rA902E230Stu32mLX4axp) | 3:06 | 2026-02-12 |  |
+| [Tuun viel himaan](https://open.spotify.com/track/6xpnBGFThS3Z8slDBiVJN2) | [KUUMAA](https://open.spotify.com/artist/3YC5DVJDjyazvB8hxJSybr) | [Valoa varten](https://open.spotify.com/album/0rA902E230Stu32mLX4axp) | 3:06 | 2026-02-12 | 2026-05-25 |
 | [Tuut Tuut Tuut](https://open.spotify.com/track/1gWfhe6wPaJ4RyqDKEw584) | [Robin Packalen](https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO) | [Tuut Tuut Tuut](https://open.spotify.com/album/7hXpnmRSq6msry9GVVwFEx) | 3:20 | 2025-11-27 | 2026-02-27 |
 | [Tyhjä](https://open.spotify.com/track/0cDiCLdv3DR0KObUE4L3Zm) | [Jokrates](https://open.spotify.com/artist/388BgNWjRWFHgJnsmBdJzE) | [Tyhjä](https://open.spotify.com/album/3q3y3cfi1JhuksxXlEPyPv) | 3:21 | 2025-03-06 | 2025-03-28 |
 | [Tyhjää](https://open.spotify.com/track/2LQ34GR8SSdlgqukKC36YH) | [Axel Kala](https://open.spotify.com/artist/4efs3AqHijagPC7sFYksBD), [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9) | [Tyhjää](https://open.spotify.com/album/3g9WaXyqcuEI89Xvrd2192) | 2:13 | 2026-04-23 |  |
@@ -987,7 +988,7 @@
 | [Älä Lopeta](https://open.spotify.com/track/4jEKDWQ8dVGLhr1ryA9cbl) | [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk), [SHRTY](https://open.spotify.com/artist/0hidKEfknd2aNabseugaN2) | [Älä Lopeta](https://open.spotify.com/album/5DVOfAcvIHmnDtAcFgsw6b) | 2:23 | 2024-07-02 | 2024-07-05 |
 | [Älä pyydä mua päättää](https://open.spotify.com/track/4rrB1Jo95XOFYjZ7jMm633) | [Jaakko Kulta](https://open.spotify.com/artist/3yKaJcys5vfZv2nE2IURyO) | [Ihminen](https://open.spotify.com/album/3BFwP8Cjqdoh0EekhBWVth) | 2:52 | 2025-11-06 | 2026-02-27 |
 | [Älä rakasta mun rakasta](https://open.spotify.com/track/287Vj7UcE3KgsWr0XS8MPE) | [Jannika B](https://open.spotify.com/artist/5ffRhIFF1wJD3JJLDXt4hY) | [Älä rakasta mun rakasta](https://open.spotify.com/album/4BCl5kzEDehO0upTIFdKjz) | 2:45 | 2025-06-12 | 2025-08-29 |
-| [Älä sano sua rumaksi](https://open.spotify.com/track/6pV8EIckMcd64Fwz0bsu6b) | [ELLIMEI](https://open.spotify.com/artist/6rPI72mU3VRYb9YCKGi3ra) | [Älä sano sua rumaksi](https://open.spotify.com/album/6Dq6bC1xg4O3awxY3xAKJc) | 2:33 | 2026-04-23 |  |
+| [Älä sano sua rumaksi](https://open.spotify.com/track/6pV8EIckMcd64Fwz0bsu6b) | [ELLIMEI](https://open.spotify.com/artist/6rPI72mU3VRYb9YCKGi3ra) | [Älä sano sua rumaksi](https://open.spotify.com/album/6Dq6bC1xg4O3awxY3xAKJc) | 2:33 | 2026-04-23 | 2026-05-25 |
 | [Ärsyttävä](https://open.spotify.com/track/6Wi8ubwyHMnwjCJxTmoEfJ) | [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK) | [Ärsyttävä](https://open.spotify.com/album/06oUPbFhbOhSePYf6paXqX) | 2:38 | 2024-09-05 | 2024-09-27 |
 | [Äärihumala](https://open.spotify.com/track/2ze4bK4ziLcrNlFKzVJ5Ev) | [Lord Est](https://open.spotify.com/artist/1vZsTsBd4VNRtk9gKOeZRu) | [Äärihumala](https://open.spotify.com/album/1PyF3jYoQ1bC1go2z6Bhv1) | 2:40 | 2025-05-01 | 2025-05-16 |
 | [Öis](https://open.spotify.com/track/6obPoxSSiUwiJgC4yrmy7Q) | [ANI](https://open.spotify.com/artist/7aaGp8b4O2FQUwHY23MV0T) | [Öis](https://open.spotify.com/album/2ZfOh9ZxV09y017BVc9G33) | 3:03 | 2025-04-17 | 2025-09-19 |

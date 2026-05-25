@@ -4,7 +4,7 @@
 
 > love is in the air...breathe in
 
-996 songs - 2 day 0 hr 1 min
+997 songs - 2 day 0 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Ave Maria](https://open.spotify.com/track/4azaom4n0UaMEcJCY4iAZL) | [Ema Onigah](https://open.spotify.com/artist/3xl6xQ0sIWIWE6tiUW3hwD) | [Ave Maria](https://open.spotify.com/album/2uAGDDNP8V3aMbYeJmu7KS) | 2:47 | 2024-08-02 | 2024-08-26 |
 | [Away](https://open.spotify.com/track/7vp8JafiMNyGSNH4vrHogz) | [Cazulee](https://open.spotify.com/artist/4gLcUTaXzla4e589pCdf8q), [Liya](https://open.spotify.com/artist/2mq44nCfRU63sGf70HAPi0) | [Away](https://open.spotify.com/album/38zn2ovgLlxDXUPknFLiAB) | 3:05 | 2025-09-05 | 2025-10-30 |
 | [AWAY](https://open.spotify.com/track/20V2rAm15tqEvhhaqGLAM5) | [Mckay](https://open.spotify.com/artist/25HwdWPhsQyAgTcOy4IW71) | [AWAY](https://open.spotify.com/album/6JqjSZRSbjgILMHs4PbMLc) | 2:31 | 2026-02-13 | 2026-03-20 |
+| [Away](https://open.spotify.com/track/6gwRyjLzdn1992RpT6sUdb) | [Tmaro](https://open.spotify.com/artist/7zAbW4OBsFLeYw6Ni2Zsgd) | [South South Romance: After Hours](https://open.spotify.com/album/2NTNbpQJ74m3GCAK7812ui) | 2:08 | 2026-05-22 |  |
 | [Away](https://open.spotify.com/track/2s9OC1yMrccPa9lJpwBmTL) | [Yimeeka](https://open.spotify.com/artist/0yGRgPiwbWQcQsMf7H7DmK), [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Yimeeka](https://open.spotify.com/album/4wmJQOsN4UqbcdeaVXuh6a) | 2:18 | 2024-04-26 | 2024-05-17 |
 | [Awilo](https://open.spotify.com/track/416l8GO5tPk5Xk85mKL7Tj) | [Patomant](https://open.spotify.com/artist/3Ceutye6nW8egv4yMn0jc5) | [Awilo](https://open.spotify.com/album/0pTcPLooJt0PwLrkWeOjIS) | 2:43 | 2026-02-20 | 2026-04-30 |
 | [Ayaya](https://open.spotify.com/track/5hVcc3iI2uOf48IMGO8fwH) | [Spy Shitta](https://open.spotify.com/artist/4LTESjldd92V5ZxhEITidD), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [Showboy](https://open.spotify.com/album/2FTl3Npv8uiTJ3FEywx2U1) | 2:21 | 2025-08-15 | 2025-10-26 |
@@ -489,7 +490,7 @@
 | [La La La](https://open.spotify.com/track/4y8n03rgMS0rc7NoEA0bA8) | [Yung D3mz](https://open.spotify.com/artist/2PWdxiDyY5rv1qBHEUfqQf), [Boye 'The Genius'](https://open.spotify.com/artist/1gnXGsyZpqJahesflvZkfy) | [Commercial Break](https://open.spotify.com/album/5zScQCMZkHOAdf6Pg6hhpW) | 2:49 | 2022-08-12 | 2022-09-02 |
 | [Lactose](https://open.spotify.com/track/0e3qyt6xOYv3KdyfWkHUgm) | [Juma Mufasa](https://open.spotify.com/artist/1qqHchzlrR4QtN0HW0sDIs) | [Lactose](https://open.spotify.com/album/08uLn2YYWmcy7B9u5rxeoj) | 2:53 | 2024-05-10 | 2024-05-17 |
 | [Lagos Love Story](https://open.spotify.com/track/2Q2QZJlhGcGPV1XAdvcqob) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [The Year I Turned 21](https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms) | 2:35 | 2024-05-31 | 2025-03-08 |
-| [Lala](https://open.spotify.com/track/6zDbBn9GLSwWhWYwAwL2k8) | [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Lala](https://open.spotify.com/album/40eSFWQby0OzlASShMaeYU) | 3:21 | 2026-03-06 |  |
+| [Lala](https://open.spotify.com/track/6zDbBn9GLSwWhWYwAwL2k8) | [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Lala](https://open.spotify.com/album/40eSFWQby0OzlASShMaeYU) | 3:21 | 2026-03-06 | 2026-05-25 |
 | [Lalala](https://open.spotify.com/track/3xhJ7Caxt02YEGRkTZlNU0) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Blue Disco](https://open.spotify.com/album/2ZcD4iBH5F09JKaBbhEG5t) | 2:58 | 2026-01-14 | 2026-04-30 |
 | [Larger Than Life \(feat\. Stonebwoy\)](https://open.spotify.com/track/3inZDmrO8MqAbMjSliT1IO) | [Cina Soul](https://open.spotify.com/artist/16REP6XG1GtI5DBCrUF8fO), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [DID I LIE](https://open.spotify.com/album/7DBv2Kav5WcnKlrBvEo2Xm) | 2:21 | 2025-03-14 |  |
 | [Last Forever](https://open.spotify.com/track/1sX6eJVTDmuLxcHfVTYfCA) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [Last Forever](https://open.spotify.com/album/6XUgrldDupyhi4bmDKScIP) | 3:54 | 2026-02-20 |  |

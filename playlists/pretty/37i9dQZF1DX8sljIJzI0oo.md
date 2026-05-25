@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 
 > Jimmy Guzman is bringing the heat this week\. Tap in every Thursday for a new Fuego mixtape.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,918,318 likes - 40 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,918,257 likes - 40 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 | 39 | [SIEMPRE T PIENSO](https://open.spotify.com/track/0h4j0370l60eGeUOVOOgRU) | [Remers](https://open.spotify.com/artist/5bVgn8ImAnQDIB1NjxfSvb), [Rubí](https://open.spotify.com/artist/0DA4L4QIuO2hKNrMURuEHJ) | [SIEMPRE T PIENSO](https://open.spotify.com/album/33HbQ8Az3usBCUoQKaUxiH) | 3:19 |
 | 40 | [Muñeca](https://open.spotify.com/track/2tA0NJJMlUidcrd5lZ2QmG) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN), [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo) | [Muñeca](https://open.spotify.com/album/0yQF7acfWF7AnZSSs1SOWc) | 3:18 |
 
-Snapshot ID: `AAAAALB99YzB720Vuv4QMyUWHKHq9c+v`
+Snapshot ID: `AAAAANKp/tZlMhVtNpUEDi1XGqYCKp49`

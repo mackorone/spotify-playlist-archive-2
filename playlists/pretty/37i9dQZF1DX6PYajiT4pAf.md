@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Lola Indigo con Lucho RK, ELENA ROSE con Manuel Turizo, Olivia Rodrigo, Charli xcx y el resto de novedades de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 403,238 likes - 80 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 403,242 likes - 80 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

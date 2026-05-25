@@ -4,7 +4,7 @@
 
 > La playlist qui fait du bien ☀️
 
-477 songs - 1 day 2 hr 14 min
+478 songs - 1 day 2 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [All Night](https://open.spotify.com/track/1mHGtXWQSfnzB5CLVnsykO) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [All Night](https://open.spotify.com/album/4GJuAhTBGZUgdAFLU5phPk) | 3:28 | 2023-10-12 | 2023-12-22 |
 | [All Night](https://open.spotify.com/track/6Qs5f4GnWPnKM0vTK8LdUI) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [All Night](https://open.spotify.com/album/1xQ8Rh75TdIzj9sIK4mzGD) | 2:45 | 2025-06-27 | 2025-10-24 |
 | [All that Glitters is not Gold](https://open.spotify.com/track/45Exz93oyRbDvmM8FvpgYz) | [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [All that Glitters is not Gold](https://open.spotify.com/album/21cKRCwQth5UGjCV6DkhGn) | 2:51 | 2025-05-01 | 2025-09-12 |
+| [All The Feels](https://open.spotify.com/track/0Hj3Q6sxr1U3cT4sJYzlqT) | [Tonique & Man](https://open.spotify.com/artist/42vNl6qfOzdJe4oiTPONpq), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI), [Mi Man](https://open.spotify.com/artist/2Jj0VBATkPlLpZ37IxUiA7) | [All The Feels](https://open.spotify.com/album/04Si32XoV0WYgBMlX6q8xH) | 3:39 | 2026-05-21 |  |
 | [All There Is To Know](https://open.spotify.com/track/7q0NUpOU9j2DZFyHxTEaN4) | [Tonique & Man](https://open.spotify.com/artist/42vNl6qfOzdJe4oiTPONpq), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI), [Mi Man](https://open.spotify.com/artist/2Jj0VBATkPlLpZ37IxUiA7) | [All There Is To Know](https://open.spotify.com/album/17bsFu3ODuF2kS5ux4ybYC) | 3:16 | 2025-06-06 | 2026-02-27 |
 | [Alouette](https://open.spotify.com/track/0i6kcTouGjrDOmQVOEyLYj) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Alouette](https://open.spotify.com/album/5AdLMmqU79aNYpzZjvAgYS) | 3:24 | 2024-11-07 | 2025-03-14 |
 | [Always](https://open.spotify.com/track/2XOb3RMjvQeKlPawQR66Id) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Leisurevision](https://open.spotify.com/album/7GjS4SK8fvJFWfvlRw2jtU) | 3:27 | 2024-03-21 | 2024-05-24 |
@@ -169,7 +170,7 @@
 | [Hello Miss Johnson](https://open.spotify.com/track/6gH1UKDAhWS6qXzKXB4wuY) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Hello Miss Johnson](https://open.spotify.com/album/3MJGcgbroIjiO90yi7RMhy) | 2:44 | 2025-04-17 | 2025-08-22 |
 | [Help Yourself \- Radio Edit](https://open.spotify.com/track/7gRsxZsX1RvkvbXBr8erxS) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Pumps / Help Yourself](https://open.spotify.com/album/1AaCQfyjajhwL20ggcx1nK) | 3:59 | 2024-02-15 | 2024-06-01 |
 | [HER WORLD](https://open.spotify.com/track/5Lrxf8DT7PxZtBRQiyc5Bv) | [BLOW](https://open.spotify.com/artist/39HLbTdg48gwqAIa1CA266) | [HER WORLD](https://open.spotify.com/album/77vhWHTS0MHXffcPq0Lo7t) | 3:12 | 2025-01-16 | 2025-04-18 |
-| [Here We Go Again](https://open.spotify.com/track/7bvUKfeVJweptHIJtnC8Kz) | [Pacific Avenue](https://open.spotify.com/artist/0I31FkQFn7gxEVAsWGNjvZ) | [Here We Go Again](https://open.spotify.com/album/4THNExkJ80NtafCGJADvar) | 4:11 | 2025-11-13 |  |
+| [Here We Go Again](https://open.spotify.com/track/7bvUKfeVJweptHIJtnC8Kz) | [Pacific Avenue](https://open.spotify.com/artist/0I31FkQFn7gxEVAsWGNjvZ) | [Here We Go Again](https://open.spotify.com/album/4THNExkJ80NtafCGJADvar) | 4:11 | 2025-11-13 | 2026-05-25 |
 | [Hey Lou](https://open.spotify.com/track/1JrLzZwjwOssxX11afM3XS) | [Lewis OfMan](https://open.spotify.com/artist/1hkRfKGoJisJDbo6eSf1pg), [Camille Jansen](https://open.spotify.com/artist/3fPap8kKuNMRn5PR06x0gN) | [Hey Lou](https://open.spotify.com/album/4Vwfbi3fYMpl3BcMYP2VF2) | 3:40 | 2023-11-16 | 2024-03-01 |
 | [History Repeating \- Knee Length Mix](https://open.spotify.com/track/56jlrdCvA7Ih13L9OMcfDS) | [Propellerheads](https://open.spotify.com/artist/3Z7thZHrtFvqp8OpPffPKp), [Shirley Bassey](https://open.spotify.com/artist/090VebphoycdEyH165iMqc) | [Decksandrumsandrockandroll 20th anniversary](https://open.spotify.com/album/5xbDEJ9xCamw1OSOjaTdzV) | 4:02 | 2024-02-01 | 2024-04-12 |
 | [Home](https://open.spotify.com/track/28LN7UaMESB80svwZttTYF) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Home](https://open.spotify.com/album/2nqJmQUSGDS1aBoVYWX5hN) | 3:11 | 2026-02-12 |  |

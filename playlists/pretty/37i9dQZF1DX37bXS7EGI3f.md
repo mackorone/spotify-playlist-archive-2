@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 
 > Symphonic and power metal at its most epic\. Cover: Sabaton
 
-[Spotify](https://open.spotify.com/user/spotify) - 821,979 likes - 100 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 822,011 likes - 100 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 | 49 | [Venerate Me](https://open.spotify.com/track/6D1i1hoMyjs843XbMhNq8J) | [HammerFall](https://open.spotify.com/artist/2o18h28enlHxj887tATc58) | [Venerate Me](https://open.spotify.com/album/31N7LU5QrRO1FffpS3oBH7) | 4:43 |
 | 50 | [Call My Name](https://open.spotify.com/track/0dHrBbmoftbULEKvNawKSe) | [Beyond The Black](https://open.spotify.com/artist/6swnqiL41Bd4gO2fnAXXrf) | [Call My Name](https://open.spotify.com/album/4OSwoYZStFewvoB9RYM3XO) | 4:21 |
 | 51 | [I Will Die In It](https://open.spotify.com/track/5g7cfmC3jg0eBeruKiGwmY) | [Lord Of The Lost](https://open.spotify.com/artist/28eLrVsohdXynlnIzQ2VvI) | [I Will Die In It](https://open.spotify.com/album/6CylQwPRDU6tJiQa0RH4HV) | 3:44 |
-| 52 | [Feed the Fire](https://open.spotify.com/track/6k6HxyqO3OgyVcydZZXmfI) | [Crimson Sun](https://open.spotify.com/artist/6swg1JhIcRgZCqAHi3MDp9) | [Feed the Fire](https://open.spotify.com/album/0Xu2uCpy0kL15O5iC3t7iP) | 3:19 |
-| 53 | [Light And Shadow](https://open.spotify.com/track/1ZNNG5R3vubOwrUNuLRhmL) | [Amorphis](https://open.spotify.com/artist/2UOVgpgiNTC6KK0vSC77aD) | [Light And Shadow](https://open.spotify.com/album/6IGSMlmG6IsidEUEetpfwp) | 4:18 |
+| 52 | [Light And Shadow](https://open.spotify.com/track/1ZNNG5R3vubOwrUNuLRhmL) | [Amorphis](https://open.spotify.com/artist/2UOVgpgiNTC6KK0vSC77aD) | [Light And Shadow](https://open.spotify.com/album/6IGSMlmG6IsidEUEetpfwp) | 4:18 |
+| 53 | [Feed the Fire](https://open.spotify.com/track/6k6HxyqO3OgyVcydZZXmfI) | [Crimson Sun](https://open.spotify.com/artist/6swg1JhIcRgZCqAHi3MDp9) | [Feed the Fire](https://open.spotify.com/album/0Xu2uCpy0kL15O5iC3t7iP) | 3:19 |
 | 54 | [Nexus](https://open.spotify.com/track/0bHN1SE0RM5vvLPJZlirTs) | [Equilibrium](https://open.spotify.com/artist/5KvkOKroKLz202ioXfGWR2) | [Equinox](https://open.spotify.com/album/6IHhKcwU6zUiDMifJSOYdZ) | 4:07 |
 | 55 | [Natural Born Killer](https://open.spotify.com/track/6zF7mIV7Yx74FALTZh3UMZ) | [Dynazty](https://open.spotify.com/artist/5deRBvKxJssHVa9n6B7tWV) | [Natural Born Killer](https://open.spotify.com/album/44aKRAvfkITepinjdP1jVb) | 3:25 |
 | 56 | [One Of Us Will Be Next](https://open.spotify.com/track/35bKgNh5mdHvtOsHUBHgEW) | [Lord Of The Lost](https://open.spotify.com/artist/28eLrVsohdXynlnIzQ2VvI) | [One Of Us Will Be Next](https://open.spotify.com/album/3CZHmf17F6Q58OMiMaA2u9) | 4:21 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 | 62 | [Wayfarer's Reverie](https://open.spotify.com/track/2hCqhR7bYBRRBeHHGIh657) | [Crystal Gates](https://open.spotify.com/artist/250Dng1E4jK89iWvEwI24u) | [East of the Sun](https://open.spotify.com/album/23k3kBUenvakhulKLOrcE0) | 4:50 |
 | 63 | [The Hanging Tree](https://open.spotify.com/track/2dZaznMM1CnsCcRprcYs5Z) | [Megaraptor](https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA) | [The Hanging Tree](https://open.spotify.com/album/3pl0dKJfqQ5GajM2Mvp2TG) | 3:46 |
 | 64 | [Reincarnation](https://open.spotify.com/track/3scNYs59MN2puKtlwnzq9Z) | [Beyond The Black](https://open.spotify.com/artist/6swnqiL41Bd4gO2fnAXXrf) | [Reincarnation](https://open.spotify.com/album/4yc9P5BoQkFrHlKPcW6UsQ) | 4:09 |
-| 65 | [The Past is Forever](https://open.spotify.com/track/72k871NJTB8tVUSlZw1c6P) | [Elvenking](https://open.spotify.com/artist/09b5OcuIELTdD7FfzQzcdB) | [The Past is Forever](https://open.spotify.com/album/1UlmllsirMUgbrAnJOdeMF) | 3:48 |
-| 66 | [Silence Like The Grave](https://open.spotify.com/track/6E4BYC297NbL2cx90DRmId) | [Paradise Lost](https://open.spotify.com/artist/0gIo6kGl4KsCeIbqtZVHYp) | [Silence Like The Grave](https://open.spotify.com/album/6OEsAy6XJxHpCINQj8bIaH) | 4:47 |
+| 65 | [Silence Like The Grave](https://open.spotify.com/track/6E4BYC297NbL2cx90DRmId) | [Paradise Lost](https://open.spotify.com/artist/0gIo6kGl4KsCeIbqtZVHYp) | [Silence Like The Grave](https://open.spotify.com/album/6OEsAy6XJxHpCINQj8bIaH) | 4:47 |
+| 66 | [The Past is Forever](https://open.spotify.com/track/72k871NJTB8tVUSlZw1c6P) | [Elvenking](https://open.spotify.com/artist/09b5OcuIELTdD7FfzQzcdB) | [The Past is Forever](https://open.spotify.com/album/1UlmllsirMUgbrAnJOdeMF) | 3:48 |
 | 67 | [On the Sea](https://open.spotify.com/track/140YrjpNRIohRgiUed4OIw) | [Tungsten](https://open.spotify.com/artist/529eA6ZaD8bWorDonM2wnm) | [On the Sea](https://open.spotify.com/album/6HF4boalvZJFeDAafJqCaR) | 3:53 |
 | 68 | [The Wicked Rule The Night](https://open.spotify.com/track/7GuZED83VYeWCoXJPysg7e) | [Avantasia](https://open.spotify.com/artist/1Ih0fEQQsy9EeAJbYEeQRa), [Ralf Scheepers](https://open.spotify.com/artist/0r4DFjrsHb3Qf3L8NBdPGV) | [The Wicked Rule The Night](https://open.spotify.com/album/7jMuIzBQ7Wz3h9uLvUHCJf) | 4:24 |
 | 69 | [The Apostate](https://open.spotify.com/track/1vAb78bGwENFZmf3T79ABo) | [Rotting Christ](https://open.spotify.com/artist/7FhkwcO8Jd7BRWdllBpXBJ) | [Pro Xristou](https://open.spotify.com/album/3oXblizhnWNqlsWJrpagaB) | 5:01 |
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 | 85 | [Until the End](https://open.spotify.com/track/0bd3NFnDVgFZi25ktPoHHO) | [Myrath](https://open.spotify.com/artist/72500XOYPw5e7OgFWuW2Gl), [Elize Ryd](https://open.spotify.com/artist/4aHpq3SeE9HiKNft9Bcj55) | [Until the End](https://open.spotify.com/album/2qGsmSyz7OTBTGF6lQDt8X) | 4:02 |
 | 86 | [In The Eyes Of The Enemy](https://open.spotify.com/track/6KPiJfK9OQEHpHhhDjWb9b) | [Grailknights](https://open.spotify.com/artist/3WKWdx78zcqsj2RkN5ldqR), [Chiara Tricarico](https://open.spotify.com/artist/1htSCdZGjJNC2huPxA7pHi) | [In The Eyes Of The Enemy](https://open.spotify.com/album/4K6UjlrsOStac2Grk4V6qy) | 3:56 |
 | 87 | [Awakening](https://open.spotify.com/track/5qV7D1UiRkWPu2HOu7312N) | [Moonlight Haze](https://open.spotify.com/artist/1J9Jg6CEtjR3C4SFXz1elX) | [Awakening](https://open.spotify.com/album/5tqk94Qd1pMekjPE1BAGas) | 3:36 |
-| 88 | [Hear My Voice](https://open.spotify.com/track/6A9dQfqxtX9R4eBQ2DODW5) | [Alterium](https://open.spotify.com/artist/5oh1CpxnZIlp8WvW9769nV) | [Hear My Voice](https://open.spotify.com/album/4Npj8uxMIwwdrIUe5k91qV) | 3:18 |
-| 89 | [Light up the Sky](https://open.spotify.com/track/1rS8aSBVuN23jol7N1yCPU) | [REXORIA](https://open.spotify.com/artist/5oMfYeXrlGFv6DgrQ6zCtK) | [Light up the Sky](https://open.spotify.com/album/7zPQAdxJSYdzWL0FiAOrpM) | 3:26 |
+| 88 | [Light up the Sky](https://open.spotify.com/track/1rS8aSBVuN23jol7N1yCPU) | [REXORIA](https://open.spotify.com/artist/5oMfYeXrlGFv6DgrQ6zCtK) | [Light up the Sky](https://open.spotify.com/album/7zPQAdxJSYdzWL0FiAOrpM) | 3:26 |
+| 89 | [Hear My Voice](https://open.spotify.com/track/6A9dQfqxtX9R4eBQ2DODW5) | [Alterium](https://open.spotify.com/artist/5oh1CpxnZIlp8WvW9769nV) | [Hear My Voice](https://open.spotify.com/album/4Npj8uxMIwwdrIUe5k91qV) | 3:18 |
 | 90 | [Sapphire](https://open.spotify.com/track/3kmcAMRPenmsQQscDK1sLO) | [Nocturna](https://open.spotify.com/artist/3Eo8pwg5OKX59PKpAFfPqX) | [Sapphire](https://open.spotify.com/album/7j1sJdgfPIcW8Rx2RfllUH) | 3:54 |
 | 91 | [Now Is the Time](https://open.spotify.com/track/0H0g6Rk2E39yNF9ShYj9z0) | [Power Quest](https://open.spotify.com/artist/0m9MRvdIdPp3cR1JkaEVip) | [Now Is the Time](https://open.spotify.com/album/4IFXE9orZJ3dAxIZDjp3aV) | 6:18 |
 | 92 | [The Storm](https://open.spotify.com/track/3OplmgI6AGe5GtGPBwAbmz) | [Alestorm](https://open.spotify.com/artist/3OpqU68JpZlzvjAJj3B2Da) | [The Thunderfist Chronicles \(Deluxe Version\)](https://open.spotify.com/album/2mh7ZPbUM9evlqf3wnQgy9) | 4:23 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 | 95 | [Empire](https://open.spotify.com/track/6oOZSrzBB2QTSRY3qoWaYy) | [Memoremains](https://open.spotify.com/artist/59YzmPPL4s9KUfV4kqWYS1) | [Pop Metal](https://open.spotify.com/album/3chKNZRdtp9IFFIgzYIWoz) | 3:11 |
 | 96 | [Deified](https://open.spotify.com/track/57X3y9aTt59bXdszZm1U8C) | [Tony Iommi](https://open.spotify.com/artist/7iA7uWUkWLpapsaaqmzRQV) | [Deified](https://open.spotify.com/album/0s6HINWvUrRD3EmQG8YRPn) | 3:56 |
 | 97 | [Raptor Squad Attack](https://open.spotify.com/track/2R69sY2isStlfXbbhfZxRP) | [Victorius](https://open.spotify.com/artist/2INeE2VBbawRQNI6ezc4lN) | [Raptor Squad Attack](https://open.spotify.com/album/2K5oYKC8PEJQJlPpAL4wd8) | 2:34 |
-| 98 | [Hall Of The Brave](https://open.spotify.com/track/3mSLiX28T94T85JtrAYpwv) | [Leaves' Eyes](https://open.spotify.com/artist/63qODcvBCdG2kTguOJkEqJ) | [Song Of Darkness](https://open.spotify.com/album/7EaXelAWA9A48KtbJBcNWk) | 4:56 |
+| 98 | [Cicada](https://open.spotify.com/track/28Npl9mDDanrITQV8NNe2A) | [Blackbriar](https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI) | [Cicada](https://open.spotify.com/album/0s6oyS1Qbf3dJjyBgtWa2x) | 4:31 |
 | 99 | [Take My Hand \- Bonus Track](https://open.spotify.com/track/0IKCUlp8MlxCRpxJXrSRY8) | [Metalite](https://open.spotify.com/artist/18RXUrxy1BYOOvrW0XuFBg) | [Take My Hand \(Bonus Track\)](https://open.spotify.com/album/7bHSYDdLOzMRWYwcbQbjKq) | 3:09 |
-| 100 | [Cicada](https://open.spotify.com/track/28Npl9mDDanrITQV8NNe2A) | [Blackbriar](https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI) | [Cicada](https://open.spotify.com/album/0s6oyS1Qbf3dJjyBgtWa2x) | 4:31 |
+| 100 | [Warning Sign](https://open.spotify.com/track/5VnkSM5gqh2wfkoqb0H3wZ) | [Dark Sarah](https://open.spotify.com/artist/6TvwiAPxsB2Zj2o8bNlogk) | [Warning Sign](https://open.spotify.com/album/2XiflLd5EaQLlTTTDElXwH) | 4:19 |
 
 Snapshot ID: `AAAAAO/BxpoIh+k7QtXSmzrhF1CNpRHl`

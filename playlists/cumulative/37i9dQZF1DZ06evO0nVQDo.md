@@ -4,15 +4,16 @@
 
 > This is Celia Hollander\. The essential tracks, all in one playlist.
 
-46 songs - 2 hr 33 min
+48 songs - 2 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [11:01 PM](https://open.spotify.com/track/3TqfeqqdhRhZsGIE37pHSS) | [Celia Hollander](https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA) | [Timekeeper](https://open.spotify.com/album/718aNoN4DV4gJcC2THKYdo) | 4:42 | 2026-03-12 |  |
 | [12:55 PM](https://open.spotify.com/track/2q3F6iTCazDYB4tLqNWUIP) | [Celia Hollander](https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA) | [Timekeeper](https://open.spotify.com/album/718aNoN4DV4gJcC2THKYdo) | 3:18 | 2026-03-12 |  |
-| [1:17 PM](https://open.spotify.com/track/7gKej7VfNxa70InVtO8fn3) | [Celia Hollander](https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA) | [Timekeeper](https://open.spotify.com/album/718aNoN4DV4gJcC2THKYdo) | 3:29 | 2026-03-12 |  |
+| [1:17 PM](https://open.spotify.com/track/7gKej7VfNxa70InVtO8fn3) | [Celia Hollander](https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA) | [Timekeeper](https://open.spotify.com/album/718aNoN4DV4gJcC2THKYdo) | 3:29 | 2026-03-12 | 2026-05-25 |
 | [1:23 AM](https://open.spotify.com/track/12hd2wt0VMJuurnKaCdALe) | [Celia Hollander](https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA) | [Timekeeper](https://open.spotify.com/album/718aNoN4DV4gJcC2THKYdo) | 1:14 | 2026-03-15 | 2026-05-18 |
 | [2nd Wind](https://open.spotify.com/track/12ywSB3U66OMMHE23p57uK) | [Celia Hollander](https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA) | [2nd Draft](https://open.spotify.com/album/4mv6oCtJD78x7RGXcoMlTT) | 5:44 | 2026-05-07 | 2026-05-08 |
+| [4:29 AM](https://open.spotify.com/track/5UxCpI2Hv6bvfnZTt5anHf) | [Celia Hollander](https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA) | [Timekeeper](https://open.spotify.com/album/718aNoN4DV4gJcC2THKYdo) | 4:04 | 2026-05-25 |  |
 | [4:36 PM](https://open.spotify.com/track/6BcXA332jXYmK0xC1SGk7E) | [Celia Hollander](https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA) | [Timekeeper](https://open.spotify.com/album/718aNoN4DV4gJcC2THKYdo) | 2:58 | 2026-03-14 | 2026-05-04 |
 | [5:59 PM](https://open.spotify.com/track/65a36g817qG0hmI4jMgQHA) | [Celia Hollander](https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA) | [Timekeeper](https://open.spotify.com/album/718aNoN4DV4gJcC2THKYdo) | 3:24 | 2026-03-12 |  |
 | [6:33 AM](https://open.spotify.com/track/0yeDAJ4yH08Y4Cf3SKPn8s) | [Celia Hollander](https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA) | [Timekeeper](https://open.spotify.com/album/718aNoN4DV4gJcC2THKYdo) | 1:37 | 2026-03-12 |  |
@@ -24,6 +25,7 @@
 | [Air / Fire](https://open.spotify.com/track/5btS3BJXgTGBccCAmsYFL4) | [Celia Hollander](https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA) | [Air / Fire](https://open.spotify.com/album/0tXTynobq2R4O7UmEdqBZo) | 3:32 | 2026-03-12 |  |
 | [Air / Water](https://open.spotify.com/track/0lYFtSLs42bCRf8tN7T7u8) | [Celia Hollander](https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA) | [Perfect Conditions](https://open.spotify.com/album/3Jgs7mLKJ87ZvgpQf17wmX) | 4:18 | 2026-03-12 |  |
 | [Beginner](https://open.spotify.com/track/7oUDEfKHRK7fY8WS7ItenO) | [Celia Hollander](https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA) | [2nd Draft](https://open.spotify.com/album/4mv6oCtJD78x7RGXcoMlTT) | 3:38 | 2026-03-12 | 2026-05-24 |
+| [Big Talk](https://open.spotify.com/track/7xDE5QUC8CnVYLY6WMuSV7) | [Celia Hollander](https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA) | [Recent Futures](https://open.spotify.com/album/2IbeTTdPfRgsuW15b8DT9q) | 11:44 | 2026-05-25 |  |
 | [Clearance](https://open.spotify.com/track/4NL192XB3aZIgfBEPEGkrz) | [Celia Hollander](https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA) | [2nd Draft](https://open.spotify.com/album/4mv6oCtJD78x7RGXcoMlTT) | 2:10 | 2026-03-12 |  |
 | [Cumulus](https://open.spotify.com/track/6RoynqvKPYmIZkXE6isMU7) | [Celia Hollander](https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA) | [2nd Draft](https://open.spotify.com/album/4mv6oCtJD78x7RGXcoMlTT) | 4:02 | 2026-03-12 |  |
 | [Dense Dusk](https://open.spotify.com/track/2gwAB3X1wUtn3qPfP5hGeN) | [Celia Hollander](https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA), [Evan Shornstein](https://open.spotify.com/artist/3Ut7xsKQ9d40ANjZ154tdv) | [Unexpected Music II](https://open.spotify.com/album/39OUhtfrInkdjDWezSaH1b) | 7:18 | 2026-03-12 |  |

@@ -1785,6 +1785,32 @@
     },
     {
       "album": {
+        "name": "Supernatural (Beyond the Seen, Above the Known)",
+        "url": "https://open.spotify.com/album/03stnNub7ONkAa6Z57G25L"
+      },
+      "artists": [
+        {
+          "name": "Westace Beats",
+          "url": "https://open.spotify.com/artist/6KGBRLPAKJpDGtA0qOpdJg"
+        },
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        },
+        {
+          "name": "Yanni",
+          "url": "https://open.spotify.com/artist/72qxDp6R6v22pai96pZioz"
+        }
+      ],
+      "date_added": "2026-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211690,
+      "name": "Above the Known",
+      "url": "https://open.spotify.com/track/7Ig7LahOFcqMas7XrKeok1"
+    },
+    {
+      "album": {
         "name": "Abracadabra",
         "url": "https://open.spotify.com/album/2I6LyArz82waG94e9V5B9d"
       },
@@ -5093,6 +5119,24 @@
     },
     {
       "album": {
+        "name": "Under Wraps (The Unwrapped Edition)",
+        "url": "https://open.spotify.com/album/20SZE9X6V2z3ZlCfdhqNZY"
+      },
+      "artists": [
+        {
+          "name": "Jethro Tull",
+          "url": "https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R"
+        }
+      ],
+      "date_added": "2026-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219040,
+      "name": "Astronomy - Original Drums",
+      "url": "https://open.spotify.com/track/6eJyQChGDR4iqNNbzVWvO4"
+    },
+    {
+      "album": {
         "name": "Saskimood",
         "url": "https://open.spotify.com/album/7e4zVsqu6RtoTGhBob9hD0"
       },
@@ -6768,7 +6812,7 @@
       ],
       "date_added": "2026-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-25",
       "duration_ms": 187669,
       "name": "Beyond the Seen",
       "url": "https://open.spotify.com/track/2G1HbaSjR9zzur2OXaUnZ7"
@@ -35988,6 +36032,24 @@
           "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
         }
       ],
+      "date_added": "2026-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225730,
+      "name": "Monkey - A cappella",
+      "url": "https://open.spotify.com/track/234xqvh7kryRd2XYXa7xKo"
+    },
+    {
+      "album": {
+        "name": "Monkey",
+        "url": "https://open.spotify.com/album/7bRCgm4u6JDBNuP63NijaP"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
       "date_removed": "2026-05-24",
@@ -36008,7 +36070,7 @@
       ],
       "date_added": "2026-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-25",
       "duration_ms": 225730,
       "name": "Monkey - Extra Beats",
       "url": "https://open.spotify.com/track/6rGZmsqqIoVU29l7a1m2wK"
@@ -36294,7 +36356,7 @@
       ],
       "date_added": "2026-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-25",
       "duration_ms": 130479,
       "name": "Morning Peace",
       "url": "https://open.spotify.com/track/52TcA4qJjHNGlNCBaBKUqL"
@@ -40462,7 +40524,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-24",
+      "date_removed": null,
       "duration_ms": 245267,
       "name": "Outlander - The Skye Boat Song (The Journey's End Extended Version) (feat. Annie Lennox)",
       "url": "https://open.spotify.com/track/2gNzc1i13A7Wu3am75IRYg"
@@ -40484,7 +40546,7 @@
       ],
       "date_added": "2026-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-25",
       "duration_ms": 121788,
       "name": "Outlander - The Skye Boat Song (The Journey's End) (feat. Annie Lennox)",
       "url": "https://open.spotify.com/track/2pssdJs0gcu1RjEVpVjMVp"
@@ -44430,7 +44492,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-24",
+      "date_removed": null,
       "duration_ms": 178800,
       "name": "Relaxing Sound 4.0",
       "url": "https://open.spotify.com/track/5yS4yFZZ2hg2SKKTrnSgil"
@@ -58214,7 +58276,7 @@
       ],
       "date_added": "2026-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-25",
       "duration_ms": 332186,
       "name": "Too Old To Rock 'N' Roll - Live at Hammersmith Odeon, 1984",
       "url": "https://open.spotify.com/track/0EVvbU2933Ul9QWIqd5yaw"
@@ -64526,7 +64588,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-25",
       "duration_ms": 161960,
       "name": "You and I",
       "url": "https://open.spotify.com/track/1kYvgfWlV2SY2qz81uNZHn"

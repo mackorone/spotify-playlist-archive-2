@@ -1,6 +1,6 @@
 {
   "description": "The soft sound of some of the smoothest and sweetest vocal Jazz.",
-  "num_followers": 288444,
+  "num_followers": 288526,
   "original_name": "Sweet Jazz",
   "owner": {
     "name": "Spotify",
@@ -371,22 +371,6 @@
     {
       "added_at": "2026-02-09 08:12:01",
       "album": {
-        "name": "The Magic Of Jo Stafford",
-        "url": "https://open.spotify.com/album/1kLGKgc8o8F3Kd4dgti9ka"
-      },
-      "artists": [
-        {
-          "name": "Jo Stafford",
-          "url": "https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw"
-        }
-      ],
-      "duration_ms": 192560,
-      "name": "You Belong To Me",
-      "url": "https://open.spotify.com/track/3xZe0jFAwc3akvChOrPS7u"
-    },
-    {
-      "added_at": "2026-02-09 08:12:01",
-      "album": {
         "name": "Isn't it Romantic: The Standards Album",
         "url": "https://open.spotify.com/album/6cq5jK4AJC91XA0UbqU1wt"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 292093,
       "name": "Over the Rainbow (feat. Ray Charles)",
       "url": "https://open.spotify.com/track/62PwrwqemhBCzMU5lDOnuq"
+    },
+    {
+      "added_at": "2026-02-09 08:12:01",
+      "album": {
+        "name": "The Magic Of Jo Stafford",
+        "url": "https://open.spotify.com/album/1kLGKgc8o8F3Kd4dgti9ka"
+      },
+      "artists": [
+        {
+          "name": "Jo Stafford",
+          "url": "https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw"
+        }
+      ],
+      "duration_ms": 192560,
+      "name": "You Belong To Me",
+      "url": "https://open.spotify.com/track/3xZe0jFAwc3akvChOrPS7u"
     },
     {
       "added_at": "2026-02-09 08:12:01",
@@ -519,6 +519,22 @@
     {
       "added_at": "2026-02-09 08:12:01",
       "album": {
+        "name": "Avant-Garde Jazz (Remastered)",
+        "url": "https://open.spotify.com/album/3miaDzBToycfxNmVr7m72N"
+      },
+      "artists": [
+        {
+          "name": "Betty Carter",
+          "url": "https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ"
+        }
+      ],
+      "duration_ms": 283906,
+      "name": "Every Time We Say Goodbye - Remastered",
+      "url": "https://open.spotify.com/track/2EipuecEo18EYYvqcj4eoE"
+    },
+    {
+      "added_at": "2026-02-09 08:12:01",
+      "album": {
         "name": "Love Stories",
         "url": "https://open.spotify.com/album/3quRrdM2QORsA07w31zq5N"
       },
@@ -551,22 +567,6 @@
     {
       "added_at": "2026-02-09 08:12:01",
       "album": {
-        "name": "Avant-Garde Jazz (Remastered)",
-        "url": "https://open.spotify.com/album/3miaDzBToycfxNmVr7m72N"
-      },
-      "artists": [
-        {
-          "name": "Betty Carter",
-          "url": "https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ"
-        }
-      ],
-      "duration_ms": 283906,
-      "name": "Every Time We Say Goodbye - Remastered",
-      "url": "https://open.spotify.com/track/2EipuecEo18EYYvqcj4eoE"
-    },
-    {
-      "added_at": "2026-02-09 08:12:01",
-      "album": {
         "name": "Let It All Out",
         "url": "https://open.spotify.com/album/4bGiPtwVEKcXbXs7oKCMqD"
       },
@@ -595,6 +595,22 @@
       "duration_ms": 170767,
       "name": "My Romance",
       "url": "https://open.spotify.com/track/6YkOwCo6FUsyKTU8LcH1SY"
+    },
+    {
+      "added_at": "2026-02-09 08:12:01",
+      "album": {
+        "name": "The Sound of Music",
+        "url": "https://open.spotify.com/album/6Av8L1QSD9GyWHB5ojRxNL"
+      },
+      "artists": [
+        {
+          "name": "Martina DaSilva",
+          "url": "https://open.spotify.com/artist/3AKEETcbRYtfGanQZjJ48F"
+        }
+      ],
+      "duration_ms": 245148,
+      "name": "The Sound of Music",
+      "url": "https://open.spotify.com/track/58HbwdrmyWwFIamvSI8bDx"
     },
     {
       "added_at": "2026-02-09 08:12:01",
@@ -635,22 +651,6 @@
     {
       "added_at": "2026-02-09 08:12:01",
       "album": {
-        "name": "The Sound of Music",
-        "url": "https://open.spotify.com/album/6Av8L1QSD9GyWHB5ojRxNL"
-      },
-      "artists": [
-        {
-          "name": "Martina DaSilva",
-          "url": "https://open.spotify.com/artist/3AKEETcbRYtfGanQZjJ48F"
-        }
-      ],
-      "duration_ms": 245148,
-      "name": "The Sound of Music",
-      "url": "https://open.spotify.com/track/58HbwdrmyWwFIamvSI8bDx"
-    },
-    {
-      "added_at": "2026-02-09 08:12:01",
-      "album": {
         "name": "Gabi Hartmann",
         "url": "https://open.spotify.com/album/1blq9cHNkbEFBPNUyUNRLv"
       },
@@ -667,34 +667,6 @@
       "duration_ms": 156391,
       "name": "People Tell Me / Les gens me disent (feat. Julian Lage)",
       "url": "https://open.spotify.com/track/6VpSE1x8TpJ1uVyUbPDoeJ"
-    },
-    {
-      "added_at": "2026-02-09 08:12:01",
-      "album": {
-        "name": "Impressions of Evans",
-        "url": "https://open.spotify.com/album/2mfvi0m3cStWXw8prJ88J6"
-      },
-      "artists": [
-        {
-          "name": "Ellen Andersson",
-          "url": "https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog"
-        },
-        {
-          "name": "Heine Hansen",
-          "url": "https://open.spotify.com/artist/5LKzsRa8ZxAqjPH8QrJtvL"
-        },
-        {
-          "name": "Thomas Fonnesb\u00e6k",
-          "url": "https://open.spotify.com/artist/2GWMZZQNuU0VZra0suXVph"
-        },
-        {
-          "name": "Andreas Svendsen",
-          "url": "https://open.spotify.com/artist/0bCXY6V0VOWfibxyxZIxrH"
-        }
-      ],
-      "duration_ms": 268066,
-      "name": "Summertime",
-      "url": "https://open.spotify.com/track/6UputvwZIO4RRQ0ZWI9mHq"
     },
     {
       "added_at": "2026-02-09 08:12:01",
@@ -727,6 +699,34 @@
       "duration_ms": 235533,
       "name": "But For Now",
       "url": "https://open.spotify.com/track/1oSmMZfuhctJjbrn3joJKc"
+    },
+    {
+      "added_at": "2026-02-09 08:12:01",
+      "album": {
+        "name": "Impressions of Evans",
+        "url": "https://open.spotify.com/album/2mfvi0m3cStWXw8prJ88J6"
+      },
+      "artists": [
+        {
+          "name": "Ellen Andersson",
+          "url": "https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog"
+        },
+        {
+          "name": "Heine Hansen",
+          "url": "https://open.spotify.com/artist/5LKzsRa8ZxAqjPH8QrJtvL"
+        },
+        {
+          "name": "Thomas Fonnesb\u00e6k",
+          "url": "https://open.spotify.com/artist/2GWMZZQNuU0VZra0suXVph"
+        },
+        {
+          "name": "Andreas Svendsen",
+          "url": "https://open.spotify.com/artist/0bCXY6V0VOWfibxyxZIxrH"
+        }
+      ],
+      "duration_ms": 268066,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/6UputvwZIO4RRQ0ZWI9mHq"
     },
     {
       "added_at": "2026-02-09 08:12:01",
@@ -819,22 +819,6 @@
     {
       "added_at": "2026-02-09 08:12:01",
       "album": {
-        "name": "Welcome To My Love",
-        "url": "https://open.spotify.com/album/5TdtCKPxkVHmWQWoRXxuXh"
-      },
-      "artists": [
-        {
-          "name": "Nancy Wilson",
-          "url": "https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb"
-        }
-      ],
-      "duration_ms": 188240,
-      "name": "For Once In My Life - Remastered/1994",
-      "url": "https://open.spotify.com/track/3cco5vdDFUcGLEB8bf9jmo"
-    },
-    {
-      "added_at": "2026-02-09 08:12:01",
-      "album": {
         "name": "Roadhouse",
         "url": "https://open.spotify.com/album/1hOiFphQN0xvJS9gNGWaqx"
       },
@@ -851,6 +835,22 @@
     {
       "added_at": "2026-02-09 08:12:01",
       "album": {
+        "name": "Welcome To My Love",
+        "url": "https://open.spotify.com/album/5TdtCKPxkVHmWQWoRXxuXh"
+      },
+      "artists": [
+        {
+          "name": "Nancy Wilson",
+          "url": "https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb"
+        }
+      ],
+      "duration_ms": 188240,
+      "name": "For Once In My Life - Remastered/1994",
+      "url": "https://open.spotify.com/track/3cco5vdDFUcGLEB8bf9jmo"
+    },
+    {
+      "added_at": "2026-02-09 08:12:01",
+      "album": {
         "name": "I Miss You So",
         "url": "https://open.spotify.com/album/15cL28NaqFZ5ySBqsa64mF"
       },
@@ -863,38 +863,6 @@
       "duration_ms": 223060,
       "name": "I Miss You So",
       "url": "https://open.spotify.com/track/5kCUgjpQKLmA7a2jR0odul"
-    },
-    {
-      "added_at": "2026-02-09 08:12:01",
-      "album": {
-        "name": "Don't Go To Strangers (Rudy Van Gelder Remaster)",
-        "url": "https://open.spotify.com/album/5haiDu2ti0IHBHchx7dNjt"
-      },
-      "artists": [
-        {
-          "name": "Etta Jones",
-          "url": "https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0"
-        }
-      ],
-      "duration_ms": 222880,
-      "name": "Something To Remember You By",
-      "url": "https://open.spotify.com/track/2YBFTDX53KehUg8RQY820l"
-    },
-    {
-      "added_at": "2026-02-09 08:12:01",
-      "album": {
-        "name": "I Love A Love Song!",
-        "url": "https://open.spotify.com/album/0j551HTufOYW6EJ9CQwNrD"
-      },
-      "artists": [
-        {
-          "name": "Rachael & Vilray",
-          "url": "https://open.spotify.com/artist/3UHyuBA5qay3xcxFr3Z1Y9"
-        }
-      ],
-      "duration_ms": 211706,
-      "name": "Any Little Time",
-      "url": "https://open.spotify.com/track/1sqn0LWWNkKM8XYaIyaw10"
     },
     {
       "added_at": "2026-02-09 08:12:01",
@@ -919,6 +887,38 @@
       "duration_ms": 161960,
       "name": "Bewitched, Bothered and Bewildered (with The Mellomen)",
       "url": "https://open.spotify.com/track/0m4Ka878HsCzbypCAxLQWG"
+    },
+    {
+      "added_at": "2026-02-09 08:12:01",
+      "album": {
+        "name": "I Love A Love Song!",
+        "url": "https://open.spotify.com/album/0j551HTufOYW6EJ9CQwNrD"
+      },
+      "artists": [
+        {
+          "name": "Rachael & Vilray",
+          "url": "https://open.spotify.com/artist/3UHyuBA5qay3xcxFr3Z1Y9"
+        }
+      ],
+      "duration_ms": 211706,
+      "name": "Any Little Time",
+      "url": "https://open.spotify.com/track/1sqn0LWWNkKM8XYaIyaw10"
+    },
+    {
+      "added_at": "2026-02-09 08:12:01",
+      "album": {
+        "name": "Don't Go To Strangers (Rudy Van Gelder Remaster)",
+        "url": "https://open.spotify.com/album/5haiDu2ti0IHBHchx7dNjt"
+      },
+      "artists": [
+        {
+          "name": "Etta Jones",
+          "url": "https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0"
+        }
+      ],
+      "duration_ms": 222880,
+      "name": "Something To Remember You By",
+      "url": "https://open.spotify.com/track/2YBFTDX53KehUg8RQY820l"
     },
     {
       "added_at": "2026-02-09 08:12:01",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2026-02-09 08:12:01",
       "album": {
-        "name": "Catching Tales",
-        "url": "https://open.spotify.com/album/1QP3oxvk5vSyubgBWwJCTe"
-      },
-      "artists": [
-        {
-          "name": "Jamie Cullum",
-          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
-        }
-      ],
-      "duration_ms": 249213,
-      "name": "I'm Glad There Is You",
-      "url": "https://open.spotify.com/track/2o67aDSZ2ZNbA7mYdknL2B"
-    },
-    {
-      "added_at": "2026-02-09 08:12:01",
-      "album": {
         "name": "Secrets of My Heart",
         "url": "https://open.spotify.com/album/086KHW1DUXz3QssYk3qXZ5"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 192531,
       "name": "My True Love Is You",
       "url": "https://open.spotify.com/track/4oXcpRZGwElyGPcIxLwvBC"
+    },
+    {
+      "added_at": "2026-02-09 08:12:01",
+      "album": {
+        "name": "Catching Tales",
+        "url": "https://open.spotify.com/album/1QP3oxvk5vSyubgBWwJCTe"
+      },
+      "artists": [
+        {
+          "name": "Jamie Cullum",
+          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
+        }
+      ],
+      "duration_ms": 249213,
+      "name": "I'm Glad There Is You",
+      "url": "https://open.spotify.com/track/2o67aDSZ2ZNbA7mYdknL2B"
     },
     {
       "added_at": "2026-02-09 08:12:01",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2026-02-09 08:12:01",
       "album": {
-        "name": "Because Of Billie",
-        "url": "https://open.spotify.com/album/6Bz3G8ZBPt3raos669LnuB"
-      },
-      "artists": [
-        {
-          "name": "Molly Johnson",
-          "url": "https://open.spotify.com/artist/0OhbmRARz9nrChla8W2OGU"
-        }
-      ],
-      "duration_ms": 270000,
-      "name": "You've Changed",
-      "url": "https://open.spotify.com/track/6R8E6KJoBLcSEtWRUcKali"
-    },
-    {
-      "added_at": "2026-02-09 08:12:01",
-      "album": {
         "name": "Careless Love",
         "url": "https://open.spotify.com/album/5Abc3wXAy8U1f79eVn7AGd"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 196346,
       "name": "Don't Cry Baby",
       "url": "https://open.spotify.com/track/6rmfVDXJjjBhDRlPvzR9Gb"
+    },
+    {
+      "added_at": "2026-02-09 08:12:01",
+      "album": {
+        "name": "Because Of Billie",
+        "url": "https://open.spotify.com/album/6Bz3G8ZBPt3raos669LnuB"
+      },
+      "artists": [
+        {
+          "name": "Molly Johnson",
+          "url": "https://open.spotify.com/artist/0OhbmRARz9nrChla8W2OGU"
+        }
+      ],
+      "duration_ms": 270000,
+      "name": "You've Changed",
+      "url": "https://open.spotify.com/track/6R8E6KJoBLcSEtWRUcKali"
     },
     {
       "added_at": "2026-02-09 08:12:01",
@@ -1583,6 +1583,22 @@
     {
       "added_at": "2026-02-09 08:12:01",
       "album": {
+        "name": "Ultimate Peggy Lee",
+        "url": "https://open.spotify.com/album/1bXDfEwCLg5gl3M1orv1WX"
+      },
+      "artists": [
+        {
+          "name": "Peggy Lee",
+          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
+        }
+      ],
+      "duration_ms": 219933,
+      "name": "The Folks Who Live On The Hill",
+      "url": "https://open.spotify.com/track/2aP2eG8PpJ7jjcGxT7kDr8"
+    },
+    {
+      "added_at": "2026-02-09 08:12:01",
+      "album": {
         "name": "The Women Who Raised Me",
         "url": "https://open.spotify.com/album/2g6J9bq2p9cRxMoBEldSEF"
       },
@@ -1599,22 +1615,6 @@
       "duration_ms": 284127,
       "name": "Pearls",
       "url": "https://open.spotify.com/track/6ys3DgHClE8mCa4sRx8yDQ"
-    },
-    {
-      "added_at": "2026-02-09 08:12:01",
-      "album": {
-        "name": "Ultimate Peggy Lee",
-        "url": "https://open.spotify.com/album/1bXDfEwCLg5gl3M1orv1WX"
-      },
-      "artists": [
-        {
-          "name": "Peggy Lee",
-          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
-        }
-      ],
-      "duration_ms": 219933,
-      "name": "The Folks Who Live On The Hill",
-      "url": "https://open.spotify.com/track/2aP2eG8PpJ7jjcGxT7kDr8"
     },
     {
       "added_at": "2026-02-09 08:12:01",
@@ -1755,6 +1755,26 @@
     {
       "added_at": "2026-02-09 08:12:01",
       "album": {
+        "name": "Velvet Curtains (feat. H\u00e5kon Kornstad)",
+        "url": "https://open.spotify.com/album/4zi13mNLYwuG0gpoadaE3q"
+      },
+      "artists": [
+        {
+          "name": "Silje Nergaard",
+          "url": "https://open.spotify.com/artist/3hCQUVIcg8nWvkZToF4rqc"
+        },
+        {
+          "name": "H\u00e5kon Kornstad",
+          "url": "https://open.spotify.com/artist/6rvXcIk2e2Xv8sZ5bP6pm2"
+        }
+      ],
+      "duration_ms": 371170,
+      "name": "Velvet Curtains (feat. H\u00e5kon Kornstad)",
+      "url": "https://open.spotify.com/track/4wfF91BDvZYOiP7LKq2New"
+    },
+    {
+      "added_at": "2026-02-09 08:12:01",
+      "album": {
         "name": "Desperado",
         "url": "https://open.spotify.com/album/37ZtGtGstCyBZRre6ashNa"
       },
@@ -1779,26 +1799,6 @@
       "duration_ms": 239380,
       "name": "Desperado",
       "url": "https://open.spotify.com/track/5Cbq127eIsrkHDvGweTzYB"
-    },
-    {
-      "added_at": "2026-02-09 08:12:01",
-      "album": {
-        "name": "Velvet Curtains (feat. H\u00e5kon Kornstad)",
-        "url": "https://open.spotify.com/album/4zi13mNLYwuG0gpoadaE3q"
-      },
-      "artists": [
-        {
-          "name": "Silje Nergaard",
-          "url": "https://open.spotify.com/artist/3hCQUVIcg8nWvkZToF4rqc"
-        },
-        {
-          "name": "H\u00e5kon Kornstad",
-          "url": "https://open.spotify.com/artist/6rvXcIk2e2Xv8sZ5bP6pm2"
-        }
-      ],
-      "duration_ms": 371170,
-      "name": "Velvet Curtains (feat. H\u00e5kon Kornstad)",
-      "url": "https://open.spotify.com/track/4wfF91BDvZYOiP7LKq2New"
     },
     {
       "added_at": "2026-02-09 08:12:01",
@@ -1939,18 +1939,18 @@
     {
       "added_at": "2026-02-09 08:12:01",
       "album": {
-        "name": "Night at the Movies",
-        "url": "https://open.spotify.com/album/7LbEEwo9BiYcPkb3DCDgDH"
+        "name": "Chelsea Bridge",
+        "url": "https://open.spotify.com/album/1tsGWoBEpWRzFUu4CWdkdG"
       },
       "artists": [
         {
-          "name": "Svetlana",
-          "url": "https://open.spotify.com/artist/0a4rlP9h2y4zMl0MU5NmDU"
+          "name": "Emma Smith",
+          "url": "https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm"
         }
       ],
-      "duration_ms": 359093,
-      "name": "Moonlight",
-      "url": "https://open.spotify.com/track/0w8RuatcPu2hVCUzkaTEdq"
+      "duration_ms": 177438,
+      "name": "Night and Day",
+      "url": "https://open.spotify.com/track/62T643WK9mZmi0HaXQ7xMY"
     },
     {
       "added_at": "2026-02-09 08:12:01",
@@ -1987,18 +1987,18 @@
     {
       "added_at": "2026-02-09 08:12:01",
       "album": {
-        "name": "Chelsea Bridge",
-        "url": "https://open.spotify.com/album/1tsGWoBEpWRzFUu4CWdkdG"
+        "name": "Night at the Movies",
+        "url": "https://open.spotify.com/album/7LbEEwo9BiYcPkb3DCDgDH"
       },
       "artists": [
         {
-          "name": "Emma Smith",
-          "url": "https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm"
+          "name": "Svetlana",
+          "url": "https://open.spotify.com/artist/0a4rlP9h2y4zMl0MU5NmDU"
         }
       ],
-      "duration_ms": 177438,
-      "name": "Night and Day",
-      "url": "https://open.spotify.com/track/62T643WK9mZmi0HaXQ7xMY"
+      "duration_ms": 359093,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/0w8RuatcPu2hVCUzkaTEdq"
     },
     {
       "added_at": "2026-02-09 08:12:01",
@@ -2079,22 +2079,6 @@
     {
       "added_at": "2026-02-09 08:12:01",
       "album": {
-        "name": "Because Of Billie",
-        "url": "https://open.spotify.com/album/6Bz3G8ZBPt3raos669LnuB"
-      },
-      "artists": [
-        {
-          "name": "Molly Johnson",
-          "url": "https://open.spotify.com/artist/0OhbmRARz9nrChla8W2OGU"
-        }
-      ],
-      "duration_ms": 263266,
-      "name": "Do Nothing 'Til You Hear From Me",
-      "url": "https://open.spotify.com/track/3by6ghRkTX4PwXVAbt61E5"
-    },
-    {
-      "added_at": "2026-02-09 08:12:01",
-      "album": {
         "name": "Sentimental Journey",
         "url": "https://open.spotify.com/album/5Df4tcguBo4qkUYY8vA7IV"
       },
@@ -2107,6 +2091,22 @@
       "duration_ms": 283693,
       "name": "My Foolish Heart",
       "url": "https://open.spotify.com/track/0kDcnUVGfVX1JvRPkslQc3"
+    },
+    {
+      "added_at": "2026-02-09 08:12:01",
+      "album": {
+        "name": "Because Of Billie",
+        "url": "https://open.spotify.com/album/6Bz3G8ZBPt3raos669LnuB"
+      },
+      "artists": [
+        {
+          "name": "Molly Johnson",
+          "url": "https://open.spotify.com/artist/0OhbmRARz9nrChla8W2OGU"
+        }
+      ],
+      "duration_ms": 263266,
+      "name": "Do Nothing 'Til You Hear From Me",
+      "url": "https://open.spotify.com/track/3by6ghRkTX4PwXVAbt61E5"
     },
     {
       "added_at": "2026-02-09 08:12:01",
@@ -2223,6 +2223,22 @@
     {
       "added_at": "2026-02-09 08:12:01",
       "album": {
+        "name": "Wish You Were Gay",
+        "url": "https://open.spotify.com/album/3roCz7s3bGhgE56EbaSnEb"
+      },
+      "artists": [
+        {
+          "name": "Lisa Ekdahl",
+          "url": "https://open.spotify.com/artist/4SJSGUVZ04tezaGrxc96EE"
+        }
+      ],
+      "duration_ms": 188039,
+      "name": "Wish You Were Gay",
+      "url": "https://open.spotify.com/track/6tD34RjtffptSTGpIOp9EB"
+    },
+    {
+      "added_at": "2026-02-09 08:12:01",
+      "album": {
         "name": "Live Sings Sassy",
         "url": "https://open.spotify.com/album/1iimKeyogFlVxDgnrpaKTr"
       },
@@ -2247,22 +2263,6 @@
       "duration_ms": 393984,
       "name": "Black Coffee",
       "url": "https://open.spotify.com/track/3jqy4CSWyFSze9NNKRaBR1"
-    },
-    {
-      "added_at": "2026-02-09 08:12:01",
-      "album": {
-        "name": "Wish You Were Gay",
-        "url": "https://open.spotify.com/album/3roCz7s3bGhgE56EbaSnEb"
-      },
-      "artists": [
-        {
-          "name": "Lisa Ekdahl",
-          "url": "https://open.spotify.com/artist/4SJSGUVZ04tezaGrxc96EE"
-        }
-      ],
-      "duration_ms": 188039,
-      "name": "Wish You Were Gay",
-      "url": "https://open.spotify.com/track/6tD34RjtffptSTGpIOp9EB"
     },
     {
       "added_at": "2026-02-09 08:12:01",
@@ -2523,70 +2523,6 @@
     {
       "added_at": "2026-02-09 08:12:01",
       "album": {
-        "name": "Anna's Dollhouse",
-        "url": "https://open.spotify.com/album/1DyNXXxTo3eTY13yXKHv8z"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Koppel",
-          "url": "https://open.spotify.com/artist/6rSihViB4AAFhVp45EKGbY"
-        },
-        {
-          "name": "C\u00e6cilie Norby",
-          "url": "https://open.spotify.com/artist/6XFVoO2x9F6P1FxZy1PG4H"
-        },
-        {
-          "name": "Kenny Werner",
-          "url": "https://open.spotify.com/artist/0ppaiYSgRlCaCQ028u4k5f"
-        },
-        {
-          "name": "Peter Erskine",
-          "url": "https://open.spotify.com/artist/3Bm6MhzPUczH3Pej2FNqGi"
-        }
-      ],
-      "duration_ms": 300400,
-      "name": "Anna's Dollhouse - Single Edit",
-      "url": "https://open.spotify.com/track/3QV9E7sy4OXUbS8wHG72yl"
-    },
-    {
-      "added_at": "2026-02-09 08:12:01",
-      "album": {
-        "name": "Stations",
-        "url": "https://open.spotify.com/album/1d21jnvVSGyjHtvKBKJZH6"
-      },
-      "artists": [
-        {
-          "name": "Viktoria Tolstoy",
-          "url": "https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ"
-        }
-      ],
-      "duration_ms": 293124,
-      "name": "The Streets of Berlin",
-      "url": "https://open.spotify.com/track/2KUrFIcgYAMbadHxF0JX4B"
-    },
-    {
-      "added_at": "2026-02-09 08:12:01",
-      "album": {
-        "name": "Thinker and a Fool",
-        "url": "https://open.spotify.com/album/6WuEy5rVoYSdLWKBFA2REb"
-      },
-      "artists": [
-        {
-          "name": "Mathieu Soucy",
-          "url": "https://open.spotify.com/artist/34EB0yXyCqgJZ9i0axQfes"
-        },
-        {
-          "name": "Caity Gyorgy",
-          "url": "https://open.spotify.com/artist/0TSL0OGIj6V45IpatPaVZO"
-        }
-      ],
-      "duration_ms": 360973,
-      "name": "Thinker and a Fool",
-      "url": "https://open.spotify.com/track/5yO7yyLiVsvBj1xrAvZLnR"
-    },
-    {
-      "added_at": "2026-02-09 08:12:01",
-      "album": {
         "name": "Nature Boy",
         "url": "https://open.spotify.com/album/13iuZUA9X8WZzoIEozbePr"
       },
@@ -2615,6 +2551,70 @@
       "duration_ms": 287277,
       "name": "Angel",
       "url": "https://open.spotify.com/track/3aNQimKCvTw7Ag3vHei2NX"
+    },
+    {
+      "added_at": "2026-02-09 08:12:01",
+      "album": {
+        "name": "Stations",
+        "url": "https://open.spotify.com/album/1d21jnvVSGyjHtvKBKJZH6"
+      },
+      "artists": [
+        {
+          "name": "Viktoria Tolstoy",
+          "url": "https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ"
+        }
+      ],
+      "duration_ms": 293124,
+      "name": "The Streets of Berlin",
+      "url": "https://open.spotify.com/track/2KUrFIcgYAMbadHxF0JX4B"
+    },
+    {
+      "added_at": "2026-02-09 08:12:01",
+      "album": {
+        "name": "Anna's Dollhouse",
+        "url": "https://open.spotify.com/album/1DyNXXxTo3eTY13yXKHv8z"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Koppel",
+          "url": "https://open.spotify.com/artist/6rSihViB4AAFhVp45EKGbY"
+        },
+        {
+          "name": "C\u00e6cilie Norby",
+          "url": "https://open.spotify.com/artist/6XFVoO2x9F6P1FxZy1PG4H"
+        },
+        {
+          "name": "Kenny Werner",
+          "url": "https://open.spotify.com/artist/0ppaiYSgRlCaCQ028u4k5f"
+        },
+        {
+          "name": "Peter Erskine",
+          "url": "https://open.spotify.com/artist/3Bm6MhzPUczH3Pej2FNqGi"
+        }
+      ],
+      "duration_ms": 300400,
+      "name": "Anna's Dollhouse - Single Edit",
+      "url": "https://open.spotify.com/track/3QV9E7sy4OXUbS8wHG72yl"
+    },
+    {
+      "added_at": "2026-02-09 08:12:01",
+      "album": {
+        "name": "Thinker and a Fool",
+        "url": "https://open.spotify.com/album/6WuEy5rVoYSdLWKBFA2REb"
+      },
+      "artists": [
+        {
+          "name": "Mathieu Soucy",
+          "url": "https://open.spotify.com/artist/34EB0yXyCqgJZ9i0axQfes"
+        },
+        {
+          "name": "Caity Gyorgy",
+          "url": "https://open.spotify.com/artist/0TSL0OGIj6V45IpatPaVZO"
+        }
+      ],
+      "duration_ms": 360973,
+      "name": "Thinker and a Fool",
+      "url": "https://open.spotify.com/track/5yO7yyLiVsvBj1xrAvZLnR"
     },
     {
       "added_at": "2026-02-09 08:12:01",
@@ -2831,22 +2831,6 @@
     {
       "added_at": "2026-02-09 08:12:01",
       "album": {
-        "name": "Lady Sings the Blues",
-        "url": "https://open.spotify.com/album/6ZdKc2ZMEQnhPCjB2NL2ys"
-      },
-      "artists": [
-        {
-          "name": "Rebecca Ferguson",
-          "url": "https://open.spotify.com/artist/0CrCKxXekxMpkYfMEf8mca"
-        }
-      ],
-      "duration_ms": 158480,
-      "name": "Willow Weep for Me",
-      "url": "https://open.spotify.com/track/3CouChEohjqeO4TTR9V9Vh"
-    },
-    {
-      "added_at": "2026-02-09 08:12:01",
-      "album": {
         "name": "Old Love and New",
         "url": "https://open.spotify.com/album/435DJSlvexja6r2st5AjJ6"
       },
@@ -2859,6 +2843,22 @@
       "duration_ms": 253741,
       "name": "Old Love and New",
       "url": "https://open.spotify.com/track/74ma44w5wGAx3cGlLSVC7x"
+    },
+    {
+      "added_at": "2026-02-09 08:12:01",
+      "album": {
+        "name": "Lady Sings the Blues",
+        "url": "https://open.spotify.com/album/6ZdKc2ZMEQnhPCjB2NL2ys"
+      },
+      "artists": [
+        {
+          "name": "Rebecca Ferguson",
+          "url": "https://open.spotify.com/artist/0CrCKxXekxMpkYfMEf8mca"
+        }
+      ],
+      "duration_ms": 158480,
+      "name": "Willow Weep for Me",
+      "url": "https://open.spotify.com/track/3CouChEohjqeO4TTR9V9Vh"
     },
     {
       "added_at": "2026-02-09 08:12:01",
@@ -2995,22 +2995,6 @@
     {
       "added_at": "2026-02-09 08:12:01",
       "album": {
-        "name": "The Window",
-        "url": "https://open.spotify.com/album/2XClSOjimwtkeWYPo53mHG"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9cile McLorin Salvant",
-          "url": "https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn"
-        }
-      ],
-      "duration_ms": 129127,
-      "name": "One Step Ahead",
-      "url": "https://open.spotify.com/track/2wZTxjnKdOpgPLi85ItFlr"
-    },
-    {
-      "added_at": "2026-02-09 08:12:01",
-      "album": {
         "name": "It Happens Like That",
         "url": "https://open.spotify.com/album/6GIr6kHBasx66WNSl4l8FD"
       },
@@ -3031,6 +3015,22 @@
       "duration_ms": 236980,
       "name": "Grey Season",
       "url": "https://open.spotify.com/track/3YV2Cyh7vwDXeQYMmqrwf9"
+    },
+    {
+      "added_at": "2026-02-09 08:12:01",
+      "album": {
+        "name": "The Window",
+        "url": "https://open.spotify.com/album/2XClSOjimwtkeWYPo53mHG"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9cile McLorin Salvant",
+          "url": "https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn"
+        }
+      ],
+      "duration_ms": 129127,
+      "name": "One Step Ahead",
+      "url": "https://open.spotify.com/track/2wZTxjnKdOpgPLi85ItFlr"
     },
     {
       "added_at": "2026-02-09 08:12:01",

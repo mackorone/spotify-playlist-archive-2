@@ -4,7 +4,7 @@
 
 > ドライブ用プレイリスト！渋滞も気にせず、ドライブが楽しくなる楽曲をセレクト。
 
-296 songs - 16 hr 51 min
+297 songs - 16 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,7 @@
 | [Friendly Fire](https://open.spotify.com/track/1rAzOr3zpUDRtN2zsqGHiG) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Friendly Fire](https://open.spotify.com/album/601IEigQO3enlyrbn4SpNM) | 2:56 | 2024-02-22 | 2024-06-01 |
 | [Funky Lovely Girl](https://open.spotify.com/track/5tC5E4f9rjRgxsUpr4abHh) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Funky Lovely Girl](https://open.spotify.com/album/5Gqs19b1vhux4Y5tSS364z) | 3:44 | 2025-07-11 | 2025-11-12 |
 | [Fuwa Fuwa](https://open.spotify.com/track/0GJvDRvKMDEVN4eGCQ1Ts5) | [luv](https://open.spotify.com/artist/2Gy7SZvabW5UQgL0oljfeB) | [Already](https://open.spotify.com/album/2IybN7u5SBV4yTORBHhrFb) | 3:26 | 2026-04-27 | 2026-05-01 |
-| [G.O.D\. And The Broken Ribs](https://open.spotify.com/track/21UKOMGmKw9bqoHq7p9woU) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [G.O.D\. And The Broken Ribs / Derecho Demonico](https://open.spotify.com/album/1BUodZgT8bLd2c22axeeJR) | 3:43 | 2026-04-27 |  |
+| [G.O.D\. And The Broken Ribs](https://open.spotify.com/track/21UKOMGmKw9bqoHq7p9woU) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [G.O.D\. And The Broken Ribs / Derecho Demonico](https://open.spotify.com/album/1BUodZgT8bLd2c22axeeJR) | 3:43 | 2026-04-27 | 2026-05-25 |
 | [get him back!](https://open.spotify.com/track/2gyxAWHebV7xPYVxqoi86f) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:31 | 2023-10-12 | 2026-05-01 |
 | [GET NAUGHTY !](https://open.spotify.com/track/1z5GBU5eT0LxyBFAcaigHG) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [GET NAUGHTY !](https://open.spotify.com/album/3oeK4C4V2CjcpBHvIXTUQz) | 2:29 | 2023-11-30 | 2023-12-08 |
 | [gg燦然](https://open.spotify.com/track/3rapbAvmhbQpdpsRCDJrtB) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [gg燦然](https://open.spotify.com/album/2hDP6BHe4P8vtRQivsHyOR) | 2:29 | 2024-06-15 | 2024-07-27 |
@@ -224,6 +224,7 @@
 | [Wait Your Turn](https://open.spotify.com/track/7GksnYii5uW5KrvGylbHcv) | [Last Dinosaurs](https://open.spotify.com/artist/677sHrkjhB7IP4YwjzZyc4) | [KYORYU](https://open.spotify.com/album/0iN0gGoL0mhM8VVY6KPBCC) | 3:37 | 2024-06-04 | 2024-08-09 |
 | [Watermelon Sugar](https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 2:54 | 2023-10-12 | 2024-04-19 |
 | [We Made It Look Easy](https://open.spotify.com/track/54nIYP6OEPd42waWV7YiPG) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Forever](https://open.spotify.com/album/2MCqgJGGIXwh9YhZFtwwXW) | 3:15 | 2024-06-07 | 2024-07-05 |
+| [we should talk](https://open.spotify.com/track/5xqxq73BSIr3303mn1Dnqz) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [everyone for ten minutes](https://open.spotify.com/album/7fVpvNHItOKonMGgbhHL5o) | 3:04 | 2026-05-21 |  |
 | [Welcome](https://open.spotify.com/track/2eret7tEFawBg7ivErrSdx) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [Welcome to My Castle](https://open.spotify.com/album/7gkjbmsbhiXCDPmKYGPk2l) | 3:17 | 2023-12-14 | 2024-01-26 |
 | [When the Laughter Stops](https://open.spotify.com/track/3aE5Ldum42xgbCrOQsEkty) | [Yard Act](https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd), [Katy J Pearson](https://open.spotify.com/artist/6xBsaFua2lgAUlNv8Yh0nQ) | [When The Laughter Stops](https://open.spotify.com/album/6U7OfgNaW72x04NE9Nugbs) | 3:17 | 2024-02-08 | 2024-04-02 |
 | [When You're Gone](https://open.spotify.com/track/0U1W2LZVUX7qTm7dDpqxh6) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [When You're Gone](https://open.spotify.com/album/4EGVr9mSwFPoqvDMkiahJp) | 2:52 | 2023-10-12 |  |

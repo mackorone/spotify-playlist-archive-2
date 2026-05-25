@@ -380,7 +380,7 @@
       ],
       "date_added": "2026-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-25",
       "duration_ms": 369120,
       "name": "Aguanile",
       "url": "https://open.spotify.com/track/0pX477ap2l86BbHfKTncpM"
@@ -1257,6 +1257,28 @@
     },
     {
       "album": {
+        "name": "THE MOUSE & THE MASK",
+        "url": "https://open.spotify.com/album/6vAKENvwUSLMUAWYruV9sw"
+      },
+      "artists": [
+        {
+          "name": "DANGERDOOM",
+          "url": "https://open.spotify.com/artist/0b3fYxnG6tlR0zLtBJd8DF"
+        },
+        {
+          "name": "CeeLo Green",
+          "url": "https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8"
+        }
+      ],
+      "date_added": "2026-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180093,
+      "name": "Benzi Box",
+      "url": "https://open.spotify.com/track/6x4T3kWUcaZI3BpdOlasxH"
+    },
+    {
+      "album": {
         "name": "H.E.R.",
         "url": "https://open.spotify.com/album/0pV0Mx07aMApIpF19oSQgY"
       },
@@ -1716,7 +1738,7 @@
       ],
       "date_added": "2026-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-25",
       "duration_ms": 122440,
       "name": "Brick Is Red",
       "url": "https://open.spotify.com/track/5umI2Ra11zPhee5ShYXps2"
@@ -2104,7 +2126,7 @@
       ],
       "date_added": "2026-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-25",
       "duration_ms": 187388,
       "name": "Certainty",
       "url": "https://open.spotify.com/track/3i7XRi2UyvGTdJawJRkVhd"
@@ -2216,6 +2238,24 @@
       "duration_ms": 208482,
       "name": "Coast",
       "url": "https://open.spotify.com/track/5HcqA94dsCm51VgOjIkpxg"
+    },
+    {
+      "album": {
+        "name": "A Mouthful of The Mary Wallopers",
+        "url": "https://open.spotify.com/album/5UVPXZwN2cgFrqAhSk1bkJ"
+      },
+      "artists": [
+        {
+          "name": "The Mary Wallopers",
+          "url": "https://open.spotify.com/artist/7aLfd5azGVKmim6H38mZk2"
+        }
+      ],
+      "date_added": "2026-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251221,
+      "name": "Cod Liver Oil & The Orange Juice",
+      "url": "https://open.spotify.com/track/5X04NRmQ7iIINOtACuxltp"
     },
     {
       "album": {
@@ -2508,7 +2548,7 @@
       ],
       "date_added": "2026-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-25",
       "duration_ms": 219000,
       "name": "Cruel and Thin",
       "url": "https://open.spotify.com/track/7v9JkdqvwrXPLuCVQNlw92"
@@ -2707,6 +2747,24 @@
     },
     {
       "album": {
+        "name": "Full Circle (2005 Remaster)",
+        "url": "https://open.spotify.com/album/3B6R5NLi3Lg6pyXUdVf32E"
+      },
+      "artists": [
+        {
+          "name": "Pennywise",
+          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
+        }
+      ],
+      "date_added": "2026-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175853,
+      "name": "Date With Destiny",
+      "url": "https://open.spotify.com/track/6QD6XXDt3wy1GcSMaIOH2h"
+    },
+    {
+      "album": {
         "name": "Vol.2",
         "url": "https://open.spotify.com/album/7kPrI1KvxKR5UiG0jAbEuu"
       },
@@ -2776,6 +2834,24 @@
       "duration_ms": 407793,
       "name": "De la Orqu\u00eddea y la Avispa",
       "url": "https://open.spotify.com/track/2cWaaXZL5idipbPuJkfvH9"
+    },
+    {
+      "album": {
+        "name": "Dead Men Don't Rape",
+        "url": "https://open.spotify.com/album/3RfSdZ2Rxqo5FYdZtr7ZyP"
+      },
+      "artists": [
+        {
+          "name": "Delilah Bon",
+          "url": "https://open.spotify.com/artist/5JUFYlgwsbqpLcU9TMlsve"
+        }
+      ],
+      "date_added": "2026-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259107,
+      "name": "Dead Men Don't Rape",
+      "url": "https://open.spotify.com/track/0y3aIB5JiHNhJLSGhLdHoJ"
     },
     {
       "album": {
@@ -4749,6 +4825,24 @@
     },
     {
       "album": {
+        "name": "Comfort To Me",
+        "url": "https://open.spotify.com/album/1zAAQOVEfxCNmtPDtbLC9c"
+      },
+      "artists": [
+        {
+          "name": "Amyl and The Sniffers",
+          "url": "https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7"
+        }
+      ],
+      "date_added": "2026-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153800,
+      "name": "Hertz",
+      "url": "https://open.spotify.com/track/4GIeQy7OzftStBoimCWIMU"
+    },
+    {
+      "album": {
         "name": "Hey Lover / Stand by Me",
         "url": "https://open.spotify.com/album/40RGCmiNjNqOAQjeMDdCWE"
       },
@@ -5002,7 +5096,7 @@
       ],
       "date_added": "2026-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-25",
       "duration_ms": 254466,
       "name": "I Can't Drive 55",
       "url": "https://open.spotify.com/track/1MqGKtY9L5qjPi8s7gX645"
@@ -5104,6 +5198,24 @@
       "duration_ms": 289160,
       "name": "I Have Nothing",
       "url": "https://open.spotify.com/track/31er9IGsfFbwqy1pH4aiTP"
+    },
+    {
+      "album": {
+        "name": "If That's What It Takes",
+        "url": "https://open.spotify.com/album/43P5lpZxSh8r0uNz7x6Sx1"
+      },
+      "artists": [
+        {
+          "name": "Michael McDonald",
+          "url": "https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy"
+        }
+      ],
+      "date_added": "2026-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222280,
+      "name": "I Keep Forgettin' (Every Time You're Near)",
+      "url": "https://open.spotify.com/track/5GvWrvLIqoHroq7YvO260M"
     },
     {
       "album": {
@@ -5316,7 +5428,7 @@
       ],
       "date_added": "2026-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-25",
       "duration_ms": 349426,
       "name": "I Wanna Know Your Name",
       "url": "https://open.spotify.com/track/3sAJJewqiwGKo9du51dSWk"
@@ -5611,6 +5723,24 @@
     },
     {
       "album": {
+        "name": "High Risk Behaviour",
+        "url": "https://open.spotify.com/album/0MHGKVzf6jX0hJ1gfgDwF7"
+      },
+      "artists": [
+        {
+          "name": "The Chats",
+          "url": "https://open.spotify.com/artist/1aQ7P3HtKOQFW16ebjiks1"
+        }
+      ],
+      "date_added": "2026-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162960,
+      "name": "Identity Theft",
+      "url": "https://open.spotify.com/track/5GJhtKP7EgUVhDjrHGbF4P"
+    },
+    {
+      "album": {
         "name": "Pontiac",
         "url": "https://open.spotify.com/album/5vUis8FOVDqezxkJke9BOw"
       },
@@ -5896,7 +6026,7 @@
       ],
       "date_added": "2026-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-25",
       "duration_ms": 147666,
       "name": "I\u2019ll Be Your Mirror",
       "url": "https://open.spotify.com/track/6WhararZxL2vL7XyL3UO0N"
@@ -6998,7 +7128,7 @@
       ],
       "date_added": "2026-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-25",
       "duration_ms": 204475,
       "name": "mangetout",
       "url": "https://open.spotify.com/track/5UW4tA4j23YL6kDfRw3rWT"
@@ -8273,6 +8403,24 @@
     },
     {
       "album": {
+        "name": "Dreamachine",
+        "url": "https://open.spotify.com/album/4unDF4XrmmKS7HbbfYpfmB"
+      },
+      "artists": [
+        {
+          "name": "Habibi",
+          "url": "https://open.spotify.com/artist/600GgDUq9kzGJgNIrVsWfz"
+        }
+      ],
+      "date_added": "2026-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256773,
+      "name": "On The Road",
+      "url": "https://open.spotify.com/track/0RO5cr4TnZWiZipvpQUeuX"
+    },
+    {
+      "album": {
         "name": "A Day Without Rain",
         "url": "https://open.spotify.com/album/2ioso1tqQ5zABQDVYyiUi5"
       },
@@ -9087,6 +9235,24 @@
     },
     {
       "album": {
+        "name": "What's Your Pleasure?",
+        "url": "https://open.spotify.com/album/1CTm3ARqDETSm7GfvNYNJp"
+      },
+      "artists": [
+        {
+          "name": "Jessie Ware",
+          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+        }
+      ],
+      "date_added": "2026-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243533,
+      "name": "Read My Lips",
+      "url": "https://open.spotify.com/track/6TOtXc4baTpVCQE7rwbgLR"
+    },
+    {
+      "album": {
         "name": "Movie Of The Week",
         "url": "https://open.spotify.com/album/7wNQC2MXYcehArLMjdFzZ2"
       },
@@ -9232,6 +9398,24 @@
       "duration_ms": 213525,
       "name": "Requiem",
       "url": "https://open.spotify.com/track/6JBePQo5cw6z7PvCbkQ09t"
+    },
+    {
+      "album": {
+        "name": "Aquemini",
+        "url": "https://open.spotify.com/album/5ceB3rxgXqIRpsOvVzTG28"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        }
+      ],
+      "date_added": "2026-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289163,
+      "name": "Return of the \"G\"",
+      "url": "https://open.spotify.com/track/1wYp8ISMvX8qrflPrBU9Yo"
     },
     {
       "album": {
@@ -10558,7 +10742,7 @@
       ],
       "date_added": "2026-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-25",
       "duration_ms": 114520,
       "name": "Steamroller (My Baby Got Run Over By a)",
       "url": "https://open.spotify.com/track/1rd4OcIAdHpY56wxpdZK72"
@@ -11344,7 +11528,7 @@
       ],
       "date_added": "2026-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-25",
       "duration_ms": 216026,
       "name": "The Lost Art Of Keeping A Secret",
       "url": "https://open.spotify.com/track/1eoTdhnYkLJjaIlgYWEWzP"
@@ -11868,6 +12052,28 @@
       "duration_ms": 170213,
       "name": "Train Full of Gasoline",
       "url": "https://open.spotify.com/track/59bZ9ljtDTsYJZZqgGHQNW"
+    },
+    {
+      "album": {
+        "name": "Switchback",
+        "url": "https://open.spotify.com/album/7sP57A3uEiFoiqVPkyXCmt"
+      },
+      "artists": [
+        {
+          "name": "The Shootouts",
+          "url": "https://open.spotify.com/artist/7s5iJMvUVornAgb6oseC6j"
+        },
+        {
+          "name": "Lindsay Lou",
+          "url": "https://open.spotify.com/artist/6yULqqTzvfwsEonNzu7iJQ"
+        }
+      ],
+      "date_added": "2026-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216532,
+      "name": "Trampoline",
+      "url": "https://open.spotify.com/track/4Ng1Xb8w86KxxEph6Z9uQm"
     },
     {
       "album": {
@@ -12578,7 +12784,7 @@
       ],
       "date_added": "2026-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-25",
       "duration_ms": 160960,
       "name": "Where Were You",
       "url": "https://open.spotify.com/track/7LuRo2rdMRYOQ4G7E4EkMu"

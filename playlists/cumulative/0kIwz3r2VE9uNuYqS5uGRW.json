@@ -2767,6 +2767,24 @@
     },
     {
       "album": {
+        "name": "Qui\u00e9n Fue",
+        "url": "https://open.spotify.com/album/4d319p2fIRlckRPAoWVIYV"
+      },
+      "artists": [
+        {
+          "name": "Morales",
+          "url": "https://open.spotify.com/artist/1ZzjFl9TaQcLtzxOhStXg7"
+        }
+      ],
+      "date_added": "2026-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150187,
+      "name": "Qui\u00e9n Fue",
+      "url": "https://open.spotify.com/track/45bjTeHE9rTMRRK7nOoYmg"
+    },
+    {
+      "album": {
         "name": "Acto I",
         "url": "https://open.spotify.com/album/07e5UtPSZL1Mq5FT9kUqvS"
       },
@@ -2956,6 +2974,24 @@
       "duration_ms": 177907,
       "name": "ROTO",
       "url": "https://open.spotify.com/track/5EATqvvq7FvnNxtTYymbfe"
+    },
+    {
+      "album": {
+        "name": "rush touch",
+        "url": "https://open.spotify.com/album/7e433qsvsyuanoOFJAgkKZ"
+      },
+      "artists": [
+        {
+          "name": "Rafael Dies",
+          "url": "https://open.spotify.com/artist/4td046m3qUPVqi53lzbw3N"
+        }
+      ],
+      "date_added": "2026-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153180,
+      "name": "rush touch",
+      "url": "https://open.spotify.com/track/4JXstHX6Tv9ocTYt86oEE3"
     },
     {
       "album": {

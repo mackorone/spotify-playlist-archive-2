@@ -1,6 +1,6 @@
 {
   "description": "Le meilleur des ann\u00e9es 80 en 80 titres.",
-  "num_followers": 806319,
+  "num_followers": 806432,
   "original_name": "Ann\u00e9es 80",
   "owner": {
     "name": "Spotify",
@@ -767,22 +767,6 @@
     {
       "added_at": "2026-03-19 15:24:01",
       "album": {
-        "name": "3",
-        "url": "https://open.spotify.com/album/0UJYes2guXasGPKbGuCBFu"
-      },
-      "artists": [
-        {
-          "name": "Indochine",
-          "url": "https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB"
-        }
-      ],
-      "duration_ms": 312533,
-      "name": "Trois nuits par semaine",
-      "url": "https://open.spotify.com/track/3X9XJLwQPWqRnsNaL9z6ss"
-    },
-    {
-      "added_at": "2026-03-19 15:24:01",
-      "album": {
         "name": "Libert\u00e9",
         "url": "https://open.spotify.com/album/7Jsx6b2L9AshOKrTFkrNQu"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 246826,
       "name": "On va s'aimer",
       "url": "https://open.spotify.com/track/7MFWYTlrC81IGpb0Jwgdu7"
+    },
+    {
+      "added_at": "2026-03-19 15:24:01",
+      "album": {
+        "name": "3",
+        "url": "https://open.spotify.com/album/0UJYes2guXasGPKbGuCBFu"
+      },
+      "artists": [
+        {
+          "name": "Indochine",
+          "url": "https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB"
+        }
+      ],
+      "duration_ms": 312533,
+      "name": "Trois nuits par semaine",
+      "url": "https://open.spotify.com/track/3X9XJLwQPWqRnsNaL9z6ss"
     },
     {
       "added_at": "2026-03-19 15:24:01",
@@ -815,22 +815,6 @@
     {
       "added_at": "2026-03-19 15:24:01",
       "album": {
-        "name": "Comeblack",
-        "url": "https://open.spotify.com/album/18pd7kQMiCqyz0001xg4xV"
-      },
-      "artists": [
-        {
-          "name": "Scorpions",
-          "url": "https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY"
-        }
-      ],
-      "duration_ms": 403453,
-      "name": "Still Loving You",
-      "url": "https://open.spotify.com/track/0qlZQGo9f7Ea24PPLnXq2R"
-    },
-    {
-      "added_at": "2026-03-19 15:24:01",
-      "album": {
         "name": "L'Autre",
         "url": "https://open.spotify.com/album/2P7i0qBBgJPxc01wRQU2DM"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 322760,
       "name": "D\u00e9senchant\u00e9e",
       "url": "https://open.spotify.com/track/15XYdD283tK9iyJzL738bn"
+    },
+    {
+      "added_at": "2026-03-19 15:24:01",
+      "album": {
+        "name": "Comeblack",
+        "url": "https://open.spotify.com/album/18pd7kQMiCqyz0001xg4xV"
+      },
+      "artists": [
+        {
+          "name": "Scorpions",
+          "url": "https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY"
+        }
+      ],
+      "duration_ms": 403453,
+      "name": "Still Loving You",
+      "url": "https://open.spotify.com/track/0qlZQGo9f7Ea24PPLnXq2R"
     },
     {
       "added_at": "2026-03-19 15:24:01",
@@ -915,22 +915,6 @@
     {
       "added_at": "2026-03-19 15:24:01",
       "album": {
-        "name": "Quand la musique est bonne",
-        "url": "https://open.spotify.com/album/3yMtfupTbgavO0AxQbt3UZ"
-      },
-      "artists": [
-        {
-          "name": "Jean-Jacques Goldman",
-          "url": "https://open.spotify.com/artist/2Cx19OTMqa6gpz2l60cGG2"
-        }
-      ],
-      "duration_ms": 234986,
-      "name": "Au bout de mes r\u00eaves",
-      "url": "https://open.spotify.com/track/6QSwxzWUeF0w4N7qRxonbb"
-    },
-    {
-      "added_at": "2026-03-19 15:24:01",
-      "album": {
         "name": "Abracadabra",
         "url": "https://open.spotify.com/album/6E16zlklECgO6wpYT9mkzD"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 286533,
       "name": "Confidence pour confidence - Version originale 1981",
       "url": "https://open.spotify.com/track/6qfjUmIxPluNISxBgJfvM3"
+    },
+    {
+      "added_at": "2026-03-19 15:24:01",
+      "album": {
+        "name": "Quand la musique est bonne",
+        "url": "https://open.spotify.com/album/3yMtfupTbgavO0AxQbt3UZ"
+      },
+      "artists": [
+        {
+          "name": "Jean-Jacques Goldman",
+          "url": "https://open.spotify.com/artist/2Cx19OTMqa6gpz2l60cGG2"
+        }
+      ],
+      "duration_ms": 234986,
+      "name": "Au bout de mes r\u00eaves",
+      "url": "https://open.spotify.com/track/6QSwxzWUeF0w4N7qRxonbb"
     },
     {
       "added_at": "2026-03-19 15:24:01",

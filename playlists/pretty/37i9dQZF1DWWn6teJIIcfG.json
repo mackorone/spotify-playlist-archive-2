@@ -1,6 +1,6 @@
 {
   "description": "Get your creative juices flowing with these classical and instrumental masterpieces.",
-  "num_followers": 222216,
+  "num_followers": 222239,
   "original_name": "Creative Focus",
   "owner": {
     "name": "Spotify",
@@ -499,26 +499,6 @@
     {
       "added_at": "2026-05-22 04:00:51",
       "album": {
-        "name": "Rinaldo, HWV 7: Lascia ch'io pianga (Arr. for Piano)",
-        "url": "https://open.spotify.com/album/2w6cYUhoQ1uZ26JMVz7Vdj"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Martin Stadtfeld",
-          "url": "https://open.spotify.com/artist/2Habwewg0ZpMr2YWSTANE9"
-        }
-      ],
-      "duration_ms": 268002,
-      "name": "Rinaldo, HWV 7: Lascia ch'io pianga (Arr. for Piano)",
-      "url": "https://open.spotify.com/track/3mYWVZeUiEHei3XwIsaxfI"
-    },
-    {
-      "added_at": "2026-05-22 04:00:51",
-      "album": {
         "name": "Bach/Busoni; Mendelssohn; Schubert/Liszt - Songs Without Words",
         "url": "https://open.spotify.com/album/0su0yxTZDCOxbdHNyfTKLt"
       },
@@ -535,6 +515,26 @@
       "duration_ms": 194000,
       "name": "Lieder ohne Worte, Op. 19, No. 1",
       "url": "https://open.spotify.com/track/2ZoSiPSkWqz36Qqtl940zr"
+    },
+    {
+      "added_at": "2026-05-22 04:00:51",
+      "album": {
+        "name": "Rinaldo, HWV 7: Lascia ch'io pianga (Arr. for Piano)",
+        "url": "https://open.spotify.com/album/2w6cYUhoQ1uZ26JMVz7Vdj"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Martin Stadtfeld",
+          "url": "https://open.spotify.com/artist/2Habwewg0ZpMr2YWSTANE9"
+        }
+      ],
+      "duration_ms": 268002,
+      "name": "Rinaldo, HWV 7: Lascia ch'io pianga (Arr. for Piano)",
+      "url": "https://open.spotify.com/track/3mYWVZeUiEHei3XwIsaxfI"
     },
     {
       "added_at": "2026-05-22 04:00:51",
@@ -1843,6 +1843,46 @@
     {
       "added_at": "2026-05-22 04:00:51",
       "album": {
+        "name": "Sing Gently",
+        "url": "https://open.spotify.com/album/55TGl3eLHEOV5Mkf2ekEQY"
+      },
+      "artists": [
+        {
+          "name": "Eric Whitacre",
+          "url": "https://open.spotify.com/artist/5TWpCLIhvGlbJmLK1zNpiL"
+        },
+        {
+          "name": "Lavinia Meijer",
+          "url": "https://open.spotify.com/artist/1QpDFI4PxPwdv2E3iS6pCp"
+        }
+      ],
+      "duration_ms": 225235,
+      "name": "Sing Gently",
+      "url": "https://open.spotify.com/track/1inuj7hFiczkKp8yNmnRLr"
+    },
+    {
+      "added_at": "2026-05-22 04:00:51",
+      "album": {
+        "name": "Luna",
+        "url": "https://open.spotify.com/album/2iKeXCLFndoxnXqpBEVbmd"
+      },
+      "artists": [
+        {
+          "name": "Ghislaine Reece-Trapp",
+          "url": "https://open.spotify.com/artist/4sQV8wJwA2L2UkVhTbzlkD"
+        },
+        {
+          "name": "Anna Lapwood",
+          "url": "https://open.spotify.com/artist/0e2JUvil990IURjsq2PmqP"
+        }
+      ],
+      "duration_ms": 286413,
+      "name": "In Paradisum",
+      "url": "https://open.spotify.com/track/57fN24C59MczUrUj0W7ijr"
+    },
+    {
+      "added_at": "2026-05-22 04:00:51",
+      "album": {
         "name": "She moved through the fair",
         "url": "https://open.spotify.com/album/6DhrJ0s37p4uEQOXBRnGVO"
       },
@@ -1871,26 +1911,6 @@
       "duration_ms": 138146,
       "name": "She Moved Through the Fair (Arr. for Flute, Violin, Harp & Orchestra by John Rutter)",
       "url": "https://open.spotify.com/track/7nlbtYFtUBCJ82EjAIHGRR"
-    },
-    {
-      "added_at": "2026-05-22 04:00:51",
-      "album": {
-        "name": "Luna",
-        "url": "https://open.spotify.com/album/2iKeXCLFndoxnXqpBEVbmd"
-      },
-      "artists": [
-        {
-          "name": "Ghislaine Reece-Trapp",
-          "url": "https://open.spotify.com/artist/4sQV8wJwA2L2UkVhTbzlkD"
-        },
-        {
-          "name": "Anna Lapwood",
-          "url": "https://open.spotify.com/artist/0e2JUvil990IURjsq2PmqP"
-        }
-      ],
-      "duration_ms": 286413,
-      "name": "In Paradisum",
-      "url": "https://open.spotify.com/track/57fN24C59MczUrUj0W7ijr"
     },
     {
       "added_at": "2026-05-22 04:00:51",
@@ -2071,26 +2091,6 @@
     {
       "added_at": "2026-05-22 04:00:51",
       "album": {
-        "name": "Sing Gently",
-        "url": "https://open.spotify.com/album/55TGl3eLHEOV5Mkf2ekEQY"
-      },
-      "artists": [
-        {
-          "name": "Eric Whitacre",
-          "url": "https://open.spotify.com/artist/5TWpCLIhvGlbJmLK1zNpiL"
-        },
-        {
-          "name": "Lavinia Meijer",
-          "url": "https://open.spotify.com/artist/1QpDFI4PxPwdv2E3iS6pCp"
-        }
-      ],
-      "duration_ms": 225235,
-      "name": "Sing Gently",
-      "url": "https://open.spotify.com/track/1inuj7hFiczkKp8yNmnRLr"
-    },
-    {
-      "added_at": "2026-05-22 04:00:51",
-      "album": {
         "name": "Ravel: Le tombeau de Couperin, M. 68: I. Pr\u00e9lude",
         "url": "https://open.spotify.com/album/4OE4jCTEkXvvUmxd9Wr2BN"
       },
@@ -2199,6 +2199,26 @@
     {
       "added_at": "2026-05-22 04:00:51",
       "album": {
+        "name": "Klassieke Muziek voor Zondagochtend",
+        "url": "https://open.spotify.com/album/3dL5xXrW6tsjQNH6rml5Rn"
+      },
+      "artists": [
+        {
+          "name": "Enrique Granados",
+          "url": "https://open.spotify.com/artist/2xmzOWZeQCDksIQcLcnRrT"
+        },
+        {
+          "name": "Xavier De Maistre",
+          "url": "https://open.spotify.com/artist/65T5r0RCfJBz5z0gdEkgRp"
+        }
+      ],
+      "duration_ms": 96786,
+      "name": "Valses Po\u00e9ticos H. 147, DLR 7:8: No. 1: Mel\u00f3dico",
+      "url": "https://open.spotify.com/track/1UT4F8DOvzM616ZTOm1z6s"
+    },
+    {
+      "added_at": "2026-05-22 04:00:51",
+      "album": {
         "name": "Melartin: Symphonies Nos. 5 & 6",
         "url": "https://open.spotify.com/album/1WIRM3HWWFCaVipjRigisi"
       },
@@ -2219,26 +2239,6 @@
       "duration_ms": 332682,
       "name": "Symphony No. 5 in A Minor, Op. 90 \"Sinfonia brevis\": III. Intermezzo",
       "url": "https://open.spotify.com/track/4IEe8mTvhyZ4MBEZTZj6RI"
-    },
-    {
-      "added_at": "2026-05-22 04:00:51",
-      "album": {
-        "name": "Klassieke Muziek voor Zondagochtend",
-        "url": "https://open.spotify.com/album/3dL5xXrW6tsjQNH6rml5Rn"
-      },
-      "artists": [
-        {
-          "name": "Enrique Granados",
-          "url": "https://open.spotify.com/artist/2xmzOWZeQCDksIQcLcnRrT"
-        },
-        {
-          "name": "Xavier De Maistre",
-          "url": "https://open.spotify.com/artist/65T5r0RCfJBz5z0gdEkgRp"
-        }
-      ],
-      "duration_ms": 96786,
-      "name": "Valses Po\u00e9ticos H. 147, DLR 7:8: No. 1: Mel\u00f3dico",
-      "url": "https://open.spotify.com/track/1UT4F8DOvzM616ZTOm1z6s"
     },
     {
       "added_at": "2026-05-22 04:00:51",

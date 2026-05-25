@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcaB2B11tq2.md) - [plain]
 
 > Alaba al Seńor con estas canciones clásicas! Foto: Marcela Gandara
 
-[Spotify](https://open.spotify.com/user/spotify) - 512,023 likes - 100 songs - 9 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 512,125 likes - 100 songs - 9 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcaB2B11tq2.md) - [plain]
 | 44 | [Todo Pasará](https://open.spotify.com/track/79MIBZkxaab6Pqv1Jsb49G) | [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE), [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd), [Abraham Velazquez](https://open.spotify.com/artist/5RFxDCs8wl2GNVve5FemDu) | [Todo Pasará](https://open.spotify.com/album/2qYzPWIFw6k0lix800JNyL) | 3:45 |
 | 45 | [La Historia De Cristo](https://open.spotify.com/track/2ubGStDma4Ag4lMo8xE8uY) | [Roberto Orellana](https://open.spotify.com/artist/16sasuXQSiHh5kEpSGiQJN) | [Pistas](https://open.spotify.com/album/5McyYIqcAn7Tn4lAspKwKs) | 5:04 |
 | 46 | [Yo Confio](https://open.spotify.com/track/5W7aqluGNFolp7l8Mhank4) | [Danilo Montero](https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF) | [Sígueme](https://open.spotify.com/album/2Y8L881nR2wnwSGsY2Hp3k) | 5:33 |
-| 47 | [Cantamos A Él](https://open.spotify.com/track/77QumYYpnP6uONSEJxSFug) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Chris Quilala](https://open.spotify.com/artist/45HXIkMqrQerbaPuw6FgKD) | [Esto Es Jesus Culture](https://open.spotify.com/album/2RNvr92S3rufXeAYnHr8qY) | 6:22 |
-| 48 | [No Lo Has Visto Aún](https://open.spotify.com/track/4C7cPjGcerqjg0cy9hW33k) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz), [Lilly Goodman](https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS) | [No Lo Has Visto Aún](https://open.spotify.com/album/30BsuKRAa8cxAsVkghAbFK) | 4:05 |
+| 47 | [No Lo Has Visto Aún](https://open.spotify.com/track/4C7cPjGcerqjg0cy9hW33k) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz), [Lilly Goodman](https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS) | [No Lo Has Visto Aún](https://open.spotify.com/album/30BsuKRAa8cxAsVkghAbFK) | 4:05 |
+| 48 | [Cantamos A Él](https://open.spotify.com/track/77QumYYpnP6uONSEJxSFug) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Chris Quilala](https://open.spotify.com/artist/45HXIkMqrQerbaPuw6FgKD) | [Esto Es Jesus Culture](https://open.spotify.com/album/2RNvr92S3rufXeAYnHr8qY) | 6:22 |
 | 49 | [Humano](https://open.spotify.com/track/0YoMzVYRo37ckKpn6pTdhV) | [Vaes](https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu) | [Humano](https://open.spotify.com/album/7FUlsDT6g65ZB1lAi1CTSx) | 3:00 |
 | 50 | [Creyendo En Ti](https://open.spotify.com/track/54ez9MuLbnxYDMUxLPpWne) | [Roberto Orellana](https://open.spotify.com/artist/16sasuXQSiHh5kEpSGiQJN) | [Coleccion De Oro](https://open.spotify.com/album/2V9hmIuuw40LaPA2FDlHL2) | 4:01 |
 | 51 | [Eres Mi Dueno](https://open.spotify.com/track/4bxuC1eUgKJZ5N5OkPEXl1) | [Luis Santiago](https://open.spotify.com/artist/57wRcdGLAS9zQr9XyVtVbE) | [Si Tu No Estas](https://open.spotify.com/album/63YxkoEStzX5qttiPP5EwG) | 4:47 |

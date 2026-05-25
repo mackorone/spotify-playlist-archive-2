@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cNYCfLOrsu.md) - [plain]
 
 > The best in Dancehall for the gyaldem\. Cover: Jada Kingdom
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,874 likes - 75 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,965 likes - 75 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,13 +66,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cNYCfLOrsu.md) - [plain]
 | 56 | [Heavy!](https://open.spotify.com/track/6QQb9IsS797WWbHWgsyiQf) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [Heavy!](https://open.spotify.com/album/4fkjpMo0MufbdR6YyY4pQ9) | 2:45 |
 | 57 | [Vibrate](https://open.spotify.com/track/6IpYgAtkoBjRh0aLd6Uyko) | [Afro B](https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC), [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW), [Stadic](https://open.spotify.com/artist/4mk1ScvOUkuQzzCZpT6bc0), [Jonny Blaze](https://open.spotify.com/artist/0sjn33zPThDMZvhx0dBJSH) | [Vibrate](https://open.spotify.com/album/5ownMtyYCzXj0gYwkJudh0) | 2:42 |
 | 58 | [Over You](https://open.spotify.com/track/4zqSYxKE9K6B4eghImq7pz) | [Tina \(Hoodcelebrityy\)](https://open.spotify.com/artist/5t6cgFa6vbJbNuxUTgT1L9), [Massive B](https://open.spotify.com/artist/36fJ2Mx3ktclhSlBbsUbFY), [Bobby Konders](https://open.spotify.com/artist/1AEHGLRSBHwSr4VmU7IOXj) | [Over You](https://open.spotify.com/album/3lge68HMMFfdxpVlh9xwrt) | 1:56 |
-| 59 | [Dutty Casamigos](https://open.spotify.com/track/3GRqU9RVxTjeTRpCajrrVO) | [Stalk Ashley](https://open.spotify.com/artist/6VCt6Dh7TaZF330ZFeNHv5) | [Dutty Casamigos](https://open.spotify.com/album/3l0qrKvvIujmIzvdb3Z0d6) | 2:44 |
-| 60 | [Call Me \(feat\. Stefflon Don\)](https://open.spotify.com/track/7FtB2kYAJEUkcoELfZdOma) | [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Upside Down 2020](https://open.spotify.com/album/0gZau2nRsooGhfgul60N4l) | 3:50 |
+| 59 | [Call Me \(feat\. Stefflon Don\)](https://open.spotify.com/track/7FtB2kYAJEUkcoELfZdOma) | [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Upside Down 2020](https://open.spotify.com/album/0gZau2nRsooGhfgul60N4l) | 3:50 |
+| 60 | [Dutty Casamigos](https://open.spotify.com/track/3GRqU9RVxTjeTRpCajrrVO) | [Stalk Ashley](https://open.spotify.com/artist/6VCt6Dh7TaZF330ZFeNHv5) | [Dutty Casamigos](https://open.spotify.com/album/3l0qrKvvIujmIzvdb3Z0d6) | 2:44 |
 | 61 | [Money Fever](https://open.spotify.com/track/26rmqmfxH1YPS9kaJNhFPM) | [Squash](https://open.spotify.com/artist/1HXkVBU6RwIxxN6xuI6b00) | [Money Fever](https://open.spotify.com/album/7M2r6lBEFKryBPLkjeXfoN) | 2:31 |
 | 62 | [No Rampin \(feat\. Moelogo & Nadia Rose\)](https://open.spotify.com/track/43u9qIHBXcZZPAP0chWeww) | [Alicai Harley](https://open.spotify.com/artist/4HIgMgldxGG0v8nSDWJrnh), [Moelogo](https://open.spotify.com/artist/6mctsJBrfcWvWH7S8h716D), [Nadia Rose](https://open.spotify.com/artist/0Nc09HuPN9ELmbTCLyNKnO) | [The Red Room Intro \(Yard Gyal Inna Britain\)](https://open.spotify.com/album/0x2r34IBmG1VXaOZK7TRTH) | 2:36 |
 | 63 | [Ntn but Pumpum](https://open.spotify.com/track/3vNsa92LjHqbLWVJtneuKm) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [Just a Girl in a Money Man's World](https://open.spotify.com/album/2aV7R5ObcMh2s8xHtofqUE) | 2:34 |
-| 64 | [Young](https://open.spotify.com/track/6vuPtRQKVMAz7N2Lvrf2lX) | [Stalk Ashley](https://open.spotify.com/artist/6VCt6Dh7TaZF330ZFeNHv5) | [Young](https://open.spotify.com/album/0GWzMz9t2VtUHWL9SqCvWc) | 2:34 |
-| 65 | [Instruction \(Gallong Gyal\)](https://open.spotify.com/track/24uqbhdWIuExI9rGFJXd9Z) | [Toddla T](https://open.spotify.com/artist/3l1C23aRp4lfkBK3lLAp2m), [Alicai Harley](https://open.spotify.com/artist/4HIgMgldxGG0v8nSDWJrnh) | [Instruction \(Gallong Gyal\)](https://open.spotify.com/album/32ilBI5QkdTWpgVSqIGtiD) | 2:51 |
+| 64 | [Instruction \(Gallong Gyal\)](https://open.spotify.com/track/24uqbhdWIuExI9rGFJXd9Z) | [Toddla T](https://open.spotify.com/artist/3l1C23aRp4lfkBK3lLAp2m), [Alicai Harley](https://open.spotify.com/artist/4HIgMgldxGG0v8nSDWJrnh) | [Instruction \(Gallong Gyal\)](https://open.spotify.com/album/32ilBI5QkdTWpgVSqIGtiD) | 2:51 |
+| 65 | [Young](https://open.spotify.com/track/6vuPtRQKVMAz7N2Lvrf2lX) | [Stalk Ashley](https://open.spotify.com/artist/6VCt6Dh7TaZF330ZFeNHv5) | [Young](https://open.spotify.com/album/0GWzMz9t2VtUHWL9SqCvWc) | 2:34 |
 | 66 | [Mad Out](https://open.spotify.com/track/0e5lrtbJiVGRVTRU2wFgXo) | [Moyann](https://open.spotify.com/artist/5XV9d7Ee7IuJrday4LIpKc) | [Mad Out](https://open.spotify.com/album/5aAuB9NOM8eG4JdQbVWthA) | 2:07 |
 | 67 | [Tek It To Dem](https://open.spotify.com/track/3zcWzER3p0LGZtk37wF1qj) | [Alicai Harley](https://open.spotify.com/artist/4HIgMgldxGG0v8nSDWJrnh) | [Tek It To Dem](https://open.spotify.com/album/6MmmobXINMtOkz7yfSaknm) | 3:19 |
 | 68 | [Execution](https://open.spotify.com/track/4MhSHzlW1y0Q6e60lwwZS5) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [Execution](https://open.spotify.com/album/5KiowkyG0rLXDJgoR9ZEDD) | 2:55 |

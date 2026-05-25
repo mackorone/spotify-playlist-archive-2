@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0ZWYUjUMhaq0Rammqq3qu1.md) - [plain]
 
 > Celebrating all that is Eurovision over 70 years, this collection spotlights 2026 participants plus winners across the decades of the beloved and spectacularly enduring song contest.
 
-[uDiscover Playlists](https://open.spotify.com/user/digster.fm) - 111,822 likes - 109 songs - 5 hr 29 min
+[uDiscover Playlists](https://open.spotify.com/user/digster.fm) - 111,819 likes - 109 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

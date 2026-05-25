@@ -934,7 +934,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-25",
       "duration_ms": 322733,
       "name": "III. Quia fecit mihi magna",
       "url": "https://open.spotify.com/track/2a8MbB3Z6i3plnPbLT2Np4"
@@ -1222,32 +1222,6 @@
       "duration_ms": 120480,
       "name": "Lord, For Thy Tender Mercy's Sake",
       "url": "https://open.spotify.com/track/0OLNOvIThH5VrBqZjLKw7q"
-    },
-    {
-      "album": {
-        "name": "John Rutter: Magnificat",
-        "url": "https://open.spotify.com/album/4iKRav6EeD8tJ5WVuCtTVj"
-      },
-      "artists": [
-        {
-          "name": "John Rutter",
-          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
-        },
-        {
-          "name": "City of London Sinfonia",
-          "url": "https://open.spotify.com/artist/4JKHXlntTvmZnLxjbeRcPL"
-        },
-        {
-          "name": "The Cambridge Singers",
-          "url": "https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn"
-        }
-      ],
-      "date_added": "2025-12-02",
-      "date_added_asterisk": false,
-      "date_removed": "2026-04-05",
-      "duration_ms": 217000,
-      "name": "Magnificat: V. Fecit potentiam",
-      "url": "https://open.spotify.com/track/1lcTDLLTSQF8d68J6OVxCX"
     },
     {
       "album": {
@@ -1860,6 +1834,32 @@
       "duration_ms": 234413,
       "name": "Ubi caritas",
       "url": "https://open.spotify.com/track/1yo1OzdpMhpeLTbc9WpmoF"
+    },
+    {
+      "album": {
+        "name": "John Rutter: Magnificat",
+        "url": "https://open.spotify.com/album/4iKRav6EeD8tJ5WVuCtTVj"
+      },
+      "artists": [
+        {
+          "name": "John Rutter",
+          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
+        },
+        {
+          "name": "City of London Sinfonia",
+          "url": "https://open.spotify.com/artist/4JKHXlntTvmZnLxjbeRcPL"
+        },
+        {
+          "name": "The Cambridge Singers",
+          "url": "https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217000,
+      "name": "V. Fecit potentiam",
+      "url": "https://open.spotify.com/track/1lcTDLLTSQF8d68J6OVxCX"
     },
     {
       "album": {

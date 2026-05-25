@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1c2S9zEjadnB6Mt2aOOLWn">Ollie Green</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-200 songs - 10 hr 34 min
+201 songs - 10 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Hollow](https://open.spotify.com/track/1wzkXmEypIDfp1tMJfrsII) | [Tom King](https://open.spotify.com/artist/3wmFlsEi0UJSvM8vwbO9oT) | [Confessions of a Lonely Heart](https://open.spotify.com/album/3AcdIC0iguxQRnrOx677k7) | 3:17 | 2024-01-29 |  |
 | [Home](https://open.spotify.com/track/4dAndgikVkcl6dPZN55sa1) | [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw) | [Home](https://open.spotify.com/album/5UAcuDqW3W4Pmhp31wNKHr) | 2:37 | 2025-01-31 |  |
 | [How Does It Feel](https://open.spotify.com/track/5Ol2D00LPrwnDT23RzQGPH) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [What Ifs & Maybes](https://open.spotify.com/album/3CWP6u3BR6KmyodkIoyE6F) | 2:23 | 2024-01-29 |  |
+| [How It Was Before](https://open.spotify.com/track/19oXrZhSs9V7jk0GwYp24M) | [Tom Gregory](https://open.spotify.com/artist/6Rmg5JiRphFMlhkwGNl9Fu) | [How It Was Before](https://open.spotify.com/album/7kv6ul5aK5WUJD7cgWiM15) | 2:50 | 2026-05-24 |  |
 | [How Love Works](https://open.spotify.com/track/2meA2ysWGWZtpkD7uLYnHu) | [Allie Sherlock](https://open.spotify.com/artist/2yTmZ1PwFKkO0FjQp2flPl) | [How Love Works](https://open.spotify.com/album/5LZtErW9Uxo4cUSA11ZFHk) | 3:13 | 2024-10-10 |  |
 | [Humans](https://open.spotify.com/track/7KmEHD4bLjod8nhGFYYU2X) | [Vikkstar](https://open.spotify.com/artist/3wE6Lb4RCyPMoXsnXV0ZPC), [Shaun Farrugia](https://open.spotify.com/artist/4ukUyiEoZi8QxibfjuUsEw) | [Humans](https://open.spotify.com/album/5OPflo8FBOC3I0PySfpfef) | 3:33 | 2024-02-03 |  |
 | [Hummingbird \(feat\. Sophie Ellis\-Bextor\)](https://open.spotify.com/track/4XrpyLKVB7uR1yKE0BxQkc) | [LCAW](https://open.spotify.com/artist/7FOb8fwCcjHjKlIlEZk6go), [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Hummingbird \(feat\. Sophie Ellis\-Bextor\)](https://open.spotify.com/album/4mmqfJbRk0NG7OG7cHdGbf) | 2:49 | 2024-01-29 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1b61PC.md) - [plain]
 
 > This is Jai Wolf\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,387 likes - 44 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,388 likes - 44 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1b61PC.md) - [plain]
 | 5 | [Deep Down](https://open.spotify.com/track/7iWa3V2lqxh7AtMVFju1W8) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [Deep Down](https://open.spotify.com/album/6EamBf1vIof4uCfBkRKadw) | 3:05 |
 | 6 | [Afterlife](https://open.spotify.com/track/1IATy9AtXQ96BqOAncqaal) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Afterlife](https://open.spotify.com/album/5FvZBcWlokND0Y5fKcf85c) | 3:04 |
 | 7 | [Lose My Mind \(feat\. Mr Gabriel\)](https://open.spotify.com/track/7uPjBx5Dx46WXbSvnfkpbH) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Mr Gabriel](https://open.spotify.com/artist/1rsgErnMZ2QvhZzBpEDTJS) | [The Cure To Loneliness](https://open.spotify.com/album/4xC8keq1HPNhkS1qMbLPjF) | 4:18 |
-| 8 | [Heartbeat](https://open.spotify.com/track/3sK0vSa0R8YjWd5wARutEM) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Tsu Nami](https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu) | [Heartbeat](https://open.spotify.com/album/1TgoCuBwx1xQ4a0o3KE2Vj) | 2:35 |
-| 9 | [The World Is Ours](https://open.spotify.com/track/7uI1GB0253D1Wi5Ratcnt2) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [Kindred Spirits](https://open.spotify.com/album/6TNzEXP1xsd5jgzHs6Punk) | 3:42 |
+| 8 | [The World Is Ours](https://open.spotify.com/track/7uI1GB0253D1Wi5Ratcnt2) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [Kindred Spirits](https://open.spotify.com/album/6TNzEXP1xsd5jgzHs6Punk) | 3:42 |
+| 9 | [Heartbeat](https://open.spotify.com/track/3sK0vSa0R8YjWd5wARutEM) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Tsu Nami](https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu) | [Heartbeat](https://open.spotify.com/album/1TgoCuBwx1xQ4a0o3KE2Vj) | 2:35 |
 | 10 | [Don't Look Down \(feat\. BANKS\)](https://open.spotify.com/track/7nO01nUfeU6b6N6WxaRmdH) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Don't Look Down \(feat\. BANKS\)](https://open.spotify.com/album/7CQsq8FQ9BPHTwgAK6ONXN) | 3:25 |
 | 11 | [Nothing Left To Lose](https://open.spotify.com/track/4CMv5MeFVLxhz9fjM1yN96) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Lyncs](https://open.spotify.com/artist/0huGFU0XRUrnGBpgRzZ2Pr) | [Nothing Left To Lose](https://open.spotify.com/album/3BAKHZSPd3BVA9WccLo78l) | 3:41 |
 | 12 | [Better Apart \(feat\. Dresage\)](https://open.spotify.com/track/1l6EKqIVc3dwMUyWByXh9g) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Dresage](https://open.spotify.com/artist/5dFeAUPKdp9Id4E1RYqez2) | [The Cure To Loneliness](https://open.spotify.com/album/4xC8keq1HPNhkS1qMbLPjF) | 3:54 |
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1b61PC.md) - [plain]
 | 17 | [Vertigo](https://open.spotify.com/track/11h1KwP4Ii4ASDUxY9zpMg) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [EVAN GIIA](https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t), [Covex](https://open.spotify.com/artist/2BlB5MW4WdyyglpczlQ6Mm) | [Vertigo](https://open.spotify.com/album/4enJwfK8u2T1Z8OjOs26n5) | 3:02 |
 | 18 | [Telepathy](https://open.spotify.com/track/4q0OWYe7JIElF8lPaARHki) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [The Cure To Loneliness](https://open.spotify.com/album/4xC8keq1HPNhkS1qMbLPjF) | 3:49 |
 | 19 | [Like It's Over \(feat\. MNDR\)](https://open.spotify.com/track/2VihLG9zh4I60e6VzSPqS6) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [MNDR](https://open.spotify.com/artist/7gQNLR8mykA1KjGClbPYHe) | [Like It's Over \(feat\. MNDR\)](https://open.spotify.com/album/0AlKy3sPB5cW1txjQd59Og) | 5:18 |
-| 20 | [Looper](https://open.spotify.com/track/5tlWfIu4uaZthTMj7xKw8d) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Lyncs](https://open.spotify.com/artist/0huGFU0XRUrnGBpgRzZ2Pr) | [Nothing Left To Lose](https://open.spotify.com/album/3BAKHZSPd3BVA9WccLo78l) | 3:00 |
-| 21 | [We Will Meet Again](https://open.spotify.com/track/0eneJjIdG1cAhjeK831bLt) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo), [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [We Will Meet Again](https://open.spotify.com/album/1nUmQRRZBF8sQTgPUmWo6d) | 3:21 |
+| 20 | [We Will Meet Again](https://open.spotify.com/track/0eneJjIdG1cAhjeK831bLt) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo), [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [We Will Meet Again](https://open.spotify.com/album/1nUmQRRZBF8sQTgPUmWo6d) | 3:21 |
+| 21 | [Looper](https://open.spotify.com/track/5tlWfIu4uaZthTMj7xKw8d) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Lyncs](https://open.spotify.com/artist/0huGFU0XRUrnGBpgRzZ2Pr) | [Nothing Left To Lose](https://open.spotify.com/album/3BAKHZSPd3BVA9WccLo78l) | 3:00 |
 | 22 | [Still Sleeping](https://open.spotify.com/track/6slUs93MR48yfKjMlKz0UC) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [The Cure To Loneliness](https://open.spotify.com/album/4xC8keq1HPNhkS1qMbLPjF) | 4:46 |
 | 23 | [Want It All \(feat\. Evalyn\)](https://open.spotify.com/track/7bOaDKe3yqgf2on0Od42UF) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Evalyn](https://open.spotify.com/artist/68WwJXWrpo1yVOOIZjLSeT) | [The Red Eye Home](https://open.spotify.com/album/6MGFhNLw9fZVFD1KgBqGta) | 3:06 |
 | 24 | [eye2eye \- Jai Wolf Remix](https://open.spotify.com/track/2SwWCfAwxum7Yl8F6AdDw3) | [Tsu Nami](https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu), [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [eye2eye \(Jai Wolf Remix\)](https://open.spotify.com/album/1MBOL6X1XLaNkqVHrSbgTv) | 4:13 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1b61PC.md) - [plain]
 | 43 | [Flight Log 822](https://open.spotify.com/track/384IaC21cJhTpjKJkz8tz7) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [The Red Eye Home](https://open.spotify.com/album/6MGFhNLw9fZVFD1KgBqGta) | 2:03 |
 | 44 | [3 Tattoos \(Rishi’s Interlude\)](https://open.spotify.com/track/2PQnL2SJ7DtwtfYCRW83LG) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [The Red Eye Home](https://open.spotify.com/album/6MGFhNLw9fZVFD1KgBqGta) | 1:40 |
 
-Snapshot ID: `ag+cgAAAAABkLdZtk6+o+v+bCZr+pJ0o`
+Snapshot ID: `ahDuAAAAAAAfxDv/wWqrWSFIxPzcNPFG`

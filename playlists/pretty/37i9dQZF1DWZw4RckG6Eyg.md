@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4RckG6Eyg.md) - [plain]
 
 > All the indie gems from 2025 that we can't get enough of\. Cover: she's green
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,327 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,329 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,13 +60,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4RckG6Eyg.md) - [plain]
 | 50 | [Looking For Nothing](https://open.spotify.com/track/33mKve3TrkTKAOsOBXv0JX) | [Ella Ion](https://open.spotify.com/artist/272IMnCmdF6vvXOkBofjmQ) | [Looking For Nothing](https://open.spotify.com/album/1SLgrpAmfDnFTceG9C06cu) | 3:58 |
 | 51 | [Verrans Corner](https://open.spotify.com/track/5d252aEyyIxG9CI2v9anKK) | [Serebii](https://open.spotify.com/artist/7JKAIlZcxCK8hSIHiSp4ms), [Leith Sye Towers](https://open.spotify.com/artist/31aUsPBLB9sath3vWx8xsq) | [Dime](https://open.spotify.com/album/6X4VcwQyRbZoYunMhh8avd) | 3:22 |
 | 52 | [If I go](https://open.spotify.com/track/6uTTNETm26JZlksu0KFgJu) | [Beryl](https://open.spotify.com/artist/6BSlVdBcQTPh8txkqgad0n) | [Body Break](https://open.spotify.com/album/0UhmToxL1sZ4Ld0zmbUhHi) | 3:35 |
-| 53 | [Bound2U](https://open.spotify.com/track/3L6n4ZbB7tf3DFKP38G1s8) | [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag) | [SISTER](https://open.spotify.com/album/0IojfyxFQMggZW9aNCeaV7) | 2:56 |
-| 54 | [House Fire](https://open.spotify.com/track/1RFLkDNFSUKB9n7USEdw3X) | [Deki Alem](https://open.spotify.com/artist/2AK3F4tVjxYuqSGefozy52) | [Forget In Mass](https://open.spotify.com/album/0yyMJ8gsghOX71XTvV2pAP) | 3:07 |
+| 53 | [House Fire](https://open.spotify.com/track/1RFLkDNFSUKB9n7USEdw3X) | [Deki Alem](https://open.spotify.com/artist/2AK3F4tVjxYuqSGefozy52) | [Forget In Mass](https://open.spotify.com/album/0yyMJ8gsghOX71XTvV2pAP) | 3:07 |
+| 54 | [Bound2U](https://open.spotify.com/track/3L6n4ZbB7tf3DFKP38G1s8) | [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag) | [SISTER](https://open.spotify.com/album/0IojfyxFQMggZW9aNCeaV7) | 2:56 |
 | 55 | [Keep Falling in Love](https://open.spotify.com/track/2s0skXthOtkbPfyiwBf7a0) | [Sports](https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K) | [Keep Falling in Love](https://open.spotify.com/album/09HQ9DzGBCXX7KMo7GADZA) | 3:11 |
 | 56 | [Miffed It](https://open.spotify.com/track/3n3nY1tcsTbBT1SyWR4Kff) | [Way Dynamic](https://open.spotify.com/artist/10aehkZWLg2dqDftjp5SXk) | [Miffed It](https://open.spotify.com/album/04XGmj4SzLzNy3THrWaKfe) | 4:06 |
 | 57 | [My Love](https://open.spotify.com/track/7lsaIknmHdm6MGA8AhJZcR) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [Describe](https://open.spotify.com/album/6MZlKkSCbG2A5HhmKpsAOI) | 2:44 |
-| 58 | [Sibeeria](https://open.spotify.com/track/7f7hbdmYKry7GJHLLw0my9) | [doggone](https://open.spotify.com/artist/2VNWt6p905PprUPc78Mfzt) | [Sibeeria](https://open.spotify.com/album/16oynJh4jhy9XX1G2963zT) | 2:51 |
-| 59 | [Two Step](https://open.spotify.com/track/5GfjnLf8aMzfr7VuFiIB0H) | [DERBY](https://open.spotify.com/artist/5WFUn8WTVNDiOHZCEzxIQZ) | [Slugger](https://open.spotify.com/album/1QZJzByKliJB2xyhgrYk4j) | 2:52 |
+| 58 | [Two Step](https://open.spotify.com/track/5GfjnLf8aMzfr7VuFiIB0H) | [DERBY](https://open.spotify.com/artist/5WFUn8WTVNDiOHZCEzxIQZ) | [Slugger](https://open.spotify.com/album/1QZJzByKliJB2xyhgrYk4j) | 2:52 |
+| 59 | [Sibeeria](https://open.spotify.com/track/7f7hbdmYKry7GJHLLw0my9) | [doggone](https://open.spotify.com/artist/2VNWt6p905PprUPc78Mfzt) | [Sibeeria](https://open.spotify.com/album/16oynJh4jhy9XX1G2963zT) | 2:51 |
 | 60 | [Groupie](https://open.spotify.com/track/6H7CJfDODbdbwcCO3E5mCM) | [Leonie Biney](https://open.spotify.com/artist/4fG5iQ1bDCtgOmhbVNWilq) | [Groupie](https://open.spotify.com/album/2NMqz2mYpb0UkszvWhPKwV) | 2:52 |
 | 61 | [See You Around](https://open.spotify.com/track/0i0g60BEOSriL0mJJu7N3S) | [Truthpaste](https://open.spotify.com/artist/1jX7jSANud3GSSMfs41KPs) | [See You Around](https://open.spotify.com/album/0FiO5yMTGOmBNJfbyIgIAf) | 4:02 |
 | 62 | [Hotel](https://open.spotify.com/track/6GidQ1dZ3fn05tTDHu47In) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Alē](https://open.spotify.com/album/7LnzOfYsMn2euc6xuZoQup) | 2:27 |
@@ -87,11 +87,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4RckG6Eyg.md) - [plain]
 | 77 | [Magic Of The Sale](https://open.spotify.com/track/4tvHq6sgIBL7GCSCBgOeey) | [Teethe](https://open.spotify.com/artist/3K2gErmF9xLdo6dqOj1VbI) | [Magic Of The Sale](https://open.spotify.com/album/73OcSorYBJgQW0vXa53Lye) | 3:48 |
 | 78 | [Guilty Running](https://open.spotify.com/track/1qhZy98UGJAJKQufZ9f4bf) | [Hudson Freeman](https://open.spotify.com/artist/6k3W2iGuRZrhUnfVZOMQo8) | [is a Folk Artist](https://open.spotify.com/album/373bkruQ61S0eMgL8dFAOG) | 4:03 |
 | 79 | [Even if it's Just a Dream](https://open.spotify.com/track/0RfXPfvVaCXQWTbHfXlVQI) | [Sword II](https://open.spotify.com/artist/0JYwNChldP4Ad3OC6U83zi) | [Electric Hour](https://open.spotify.com/album/5glk52BEcA9c9RODElJkqF) | 5:30 |
-| 80 | [Junior](https://open.spotify.com/track/1JDEDO4rqR7QBlN01gwxUR) | [Great Grandpa](https://open.spotify.com/artist/1Hs5RG6WIwUSJLxRYWaOW6) | [Patience, Moonbeam](https://open.spotify.com/album/0cEVL87PbprdLn7E8Fs8ct) | 4:00 |
-| 81 | [Souls x Mates](https://open.spotify.com/track/7x46LYaPdZCdare3bWBiwo) | [Dandi Noxx](https://open.spotify.com/artist/1Hq5fqbb6DloZnrHnsPubz) | [Souls x Mates](https://open.spotify.com/album/56sY9khk2hWWxssbXtnAaA) | 3:51 |
+| 80 | [Souls x Mates](https://open.spotify.com/track/7x46LYaPdZCdare3bWBiwo) | [Dandi Noxx](https://open.spotify.com/artist/1Hq5fqbb6DloZnrHnsPubz) | [Souls x Mates](https://open.spotify.com/album/56sY9khk2hWWxssbXtnAaA) | 3:51 |
+| 81 | [Junior](https://open.spotify.com/track/1JDEDO4rqR7QBlN01gwxUR) | [Great Grandpa](https://open.spotify.com/artist/1Hs5RG6WIwUSJLxRYWaOW6) | [Patience, Moonbeam](https://open.spotify.com/album/0cEVL87PbprdLn7E8Fs8ct) | 4:00 |
 | 82 | [tonight](https://open.spotify.com/track/4qi16r93Cx4KnGcwwVD8iZ) | [nate sib](https://open.spotify.com/artist/4TNu2ZIE566yKwEhOT8eTv) | [for us](https://open.spotify.com/album/0dLV7pFGKpSsJBMQr0FAjf) | 1:45 |
-| 83 | [Stone Femmes](https://open.spotify.com/track/7tQZcX1IDSgJcs9Dt92VzD) | [Ydegirl](https://open.spotify.com/artist/3YAUbceL2MyJfajlikdn1V) | [Stone Femmes](https://open.spotify.com/album/2byXC960vYk4iRRxL9FSBc) | 2:59 |
-| 84 | [Preacher](https://open.spotify.com/track/4PiOcOwysCeODx3d5oOHTK) | [Local the Neighbour](https://open.spotify.com/artist/1sxWrNyQmTVxjoc7bohhu5) | [Preacher](https://open.spotify.com/album/44zFgUMiKVZ4OQgSlFR0ew) | 2:54 |
+| 83 | [Preacher](https://open.spotify.com/track/4PiOcOwysCeODx3d5oOHTK) | [Local the Neighbour](https://open.spotify.com/artist/1sxWrNyQmTVxjoc7bohhu5) | [Preacher](https://open.spotify.com/album/44zFgUMiKVZ4OQgSlFR0ew) | 2:54 |
+| 84 | [Stone Femmes](https://open.spotify.com/track/7tQZcX1IDSgJcs9Dt92VzD) | [Ydegirl](https://open.spotify.com/artist/3YAUbceL2MyJfajlikdn1V) | [Stone Femmes](https://open.spotify.com/album/2byXC960vYk4iRRxL9FSBc) | 2:59 |
 | 85 | [Images of Love](https://open.spotify.com/track/4Iyni4uugM3tRXvo2Xuzwt) | [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3) | [Holy Water](https://open.spotify.com/album/3PxjhJ8Lj3YE2PodJ1BVIa) | 3:53 |
 | 86 | [Pieces Of Yours](https://open.spotify.com/track/1LM1iNC8rMf1VrdttDLvp7) | [Mackeeper](https://open.spotify.com/artist/22NwVn8gHhq8eeWhZXgjOX) | [Pieces Of Yours](https://open.spotify.com/album/1crHdU1F0JTU1pHMB5R5ve) | 1:50 |
 | 87 | [Pharmacy](https://open.spotify.com/track/5dAM0dvquAo2Oha9i1J8jb) | [Deer park](https://open.spotify.com/artist/6Lq0JPdh83AUSeMfuMPCjy), [Ivy Knight](https://open.spotify.com/artist/2k3Q5efL6SiHfAsGqdXk4z) | [Terra Infirma](https://open.spotify.com/album/25J99oRYyPzoghasxfHKGp) | 3:18 |

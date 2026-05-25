@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > Motive ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 315,230 likes - 140 songs - 7 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 315,268 likes - 140 songs - 7 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 | 11 | [FAMILIA](https://open.spotify.com/track/36ONRDQkugvufGfiFiCDCF) | [ERAY067](https://open.spotify.com/artist/7l1AEP7z8ERNZzknXqPUFT), [Mansur](https://open.spotify.com/artist/1nXS8JvKsTNSGw75Axv6rm) | [FAMILIA](https://open.spotify.com/album/77awXfnlEhfuxt10d44YDO) | 2:26 |
 | 12 | [Yıkamazlar Beni \- Yıkamazlar Bizi](https://open.spotify.com/track/0vHm2X8K1Pw8uiCi7H6A60) | [Tekir](https://open.spotify.com/artist/2SqjgMx7edUilMzPosMR1P), [Seda Sayan](https://open.spotify.com/artist/5hKNaXEXIxQ3dmZR7FoRr8) | [Yıkamazlar Beni \(Yıkamazlar Bizi\)](https://open.spotify.com/album/6D0kjfXPoTsKARaHiFgdEa) | 3:02 |
 | 13 | [Başımda Altın Tacım](https://open.spotify.com/track/07EqQcfwMkQQ9dQ1HquPLB) | [Özgür Can Çoban](https://open.spotify.com/artist/6J5uNSCReF2DcT9pbwc4MY) | [Başımda Altın Tacım](https://open.spotify.com/album/3skVo4nV829ZFKFZzVHPkO) | 4:44 |
-| 14 | [Kalpsiz](https://open.spotify.com/track/6R2JXcMqO5aeNEfDARgGph) | [Gülden](https://open.spotify.com/artist/1aQhhnH3sUteqgE1EbmPec), [Aydın Kurtoğlu](https://open.spotify.com/artist/7ymCV8co6nSwmYFEyGmVvJ) | [Gülden'e Geldik X Aydın Kurtoğlu](https://open.spotify.com/album/7zNGdNHnNaM73HouQ0WGvR) | 3:40 |
+| 14 | [Kalpsiz](https://open.spotify.com/track/6R2JXcMqO5aeNEfDARgGph) | [Gülden](https://open.spotify.com/artist/1aQhhnH3sUteqgE1EbmPec), [Aydın Kurtoğlu](https://open.spotify.com/artist/7ymCV8co6nSwmYFEyGmVvJ) | [Gülden'e Geldik X Aydın Kurtoğlu](https://open.spotify.com/album/7zNGdNHnNaM73HouQ0WGvR) | 3:44 |
 | 15 | [Maşallah \- Pür Cunda Live Sessions](https://open.spotify.com/track/0ud7h3slxcjihrkPMga1VQ) | [Duman](https://open.spotify.com/artist/6RTC1abMgBC7Krg6qJQHJh) | [Maşallah \(Pür Cunda Live Sessions\)](https://open.spotify.com/album/5eQiKzeqvbx2laofF79gu9) | 5:29 |
 | 16 | [perfume](https://open.spotify.com/track/36fC8hvUPu0LCkwVDShXg0) | [Lotusx](https://open.spotify.com/artist/0nllPfFG95RzZnqdWLLDCD) | [perfume](https://open.spotify.com/album/6lbDojuU1edXCrevQBFcuu) | 2:04 |
 | 17 | [kurtuldum denizlerden](https://open.spotify.com/track/1nPYA47qn8pqZsFlTOcMX8) | [Astral](https://open.spotify.com/artist/7g6rPQyaKLwHpM6JB4lByD), [BAR BIA](https://open.spotify.com/artist/6tpQwZFjeQbKo0B2S7fZGg) | [kurtuldum denizlerden](https://open.spotify.com/album/6EEUmwb3ZIiuo04TNETPXy) | 2:15 |

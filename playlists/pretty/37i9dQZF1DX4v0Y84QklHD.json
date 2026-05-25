@@ -1,6 +1,6 @@
 {
   "description": "A trip down pop's memory lane.",
-  "num_followers": 543980,
+  "num_followers": 543985,
   "original_name": "Classic Pop Picks",
   "owner": {
     "name": "Spotify",
@@ -575,30 +575,6 @@
     {
       "added_at": "2024-03-27 15:56:13",
       "album": {
-        "name": "Demon Days",
-        "url": "https://open.spotify.com/album/0bUTHlWbkSQysoM3VsWldT"
-      },
-      "artists": [
-        {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        },
-        {
-          "name": "Shaun Ryder",
-          "url": "https://open.spotify.com/artist/3ONSkkEnOSZVNogu98dvTY"
-        },
-        {
-          "name": "Roses Gabor",
-          "url": "https://open.spotify.com/artist/2gcdX1NqiPU2F4QxSlBo7r"
-        }
-      ],
-      "duration_ms": 244999,
-      "name": "DARE (feat. Shaun Ryder & Roses Gabor)",
-      "url": "https://open.spotify.com/track/4Hff1IjRbLGeLgFgxvHflk"
-    },
-    {
-      "added_at": "2024-03-27 15:56:13",
-      "album": {
         "name": "Get Lucky (Radio Edit) [feat. Pharrell Williams and Nile Rodgers]",
         "url": "https://open.spotify.com/album/2ePFIvZKMe8zefATp9ofFA"
       },
@@ -639,6 +615,30 @@
       "duration_ms": 235933,
       "name": "Crazy In Love (feat. JAY-Z)",
       "url": "https://open.spotify.com/track/0TwBtDAWpkpM3srywFVOV5"
+    },
+    {
+      "added_at": "2024-03-27 15:56:13",
+      "album": {
+        "name": "Demon Days",
+        "url": "https://open.spotify.com/album/0bUTHlWbkSQysoM3VsWldT"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "Shaun Ryder",
+          "url": "https://open.spotify.com/artist/3ONSkkEnOSZVNogu98dvTY"
+        },
+        {
+          "name": "Roses Gabor",
+          "url": "https://open.spotify.com/artist/2gcdX1NqiPU2F4QxSlBo7r"
+        }
+      ],
+      "duration_ms": 244999,
+      "name": "DARE (feat. Shaun Ryder & Roses Gabor)",
+      "url": "https://open.spotify.com/track/4Hff1IjRbLGeLgFgxvHflk"
     },
     {
       "added_at": "2024-03-27 15:56:13",

@@ -1,6 +1,6 @@
 {
   "description": "The Indie highlights of 2016. Cover: AURORA",
-  "num_followers": 125137,
+  "num_followers": 125184,
   "original_name": "Best of Indie 2016",
   "owner": {
     "name": "Spotify",
@@ -499,22 +499,6 @@
     {
       "added_at": "2026-01-20 18:32:57",
       "album": {
-        "name": "Wild World (Complete Edition)",
-        "url": "https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 206493,
-      "name": "Good Grief",
-      "url": "https://open.spotify.com/track/1oxOiOjsi7plNOZEhoPLPj"
-    },
-    {
-      "added_at": "2026-01-20 18:32:57",
-      "album": {
         "name": "A Moon Shaped Pool",
         "url": "https://open.spotify.com/album/2ix8vWvvSp2Yo7rKMiWpkg"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 384438,
       "name": "Daydreaming",
       "url": "https://open.spotify.com/track/1Rd5OVjqDAr5xC96MHt448"
+    },
+    {
+      "added_at": "2026-01-20 18:32:57",
+      "album": {
+        "name": "Wild World (Complete Edition)",
+        "url": "https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 206493,
+      "name": "Good Grief",
+      "url": "https://open.spotify.com/track/1oxOiOjsi7plNOZEhoPLPj"
     },
     {
       "added_at": "2026-01-20 18:32:57",
@@ -579,22 +579,6 @@
     {
       "added_at": "2026-01-20 18:32:57",
       "album": {
-        "name": "Gameshow (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6PmuEq2op3EMw1ZhCjjucB"
-      },
-      "artists": [
-        {
-          "name": "Two Door Cinema Club",
-          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
-        }
-      ],
-      "duration_ms": 230853,
-      "name": "Are We Ready? (Wreck)",
-      "url": "https://open.spotify.com/track/1qBLtdOv2zTzq0tkc6Vy6t"
-    },
-    {
-      "added_at": "2026-01-20 18:32:57",
-      "album": {
         "name": "A Moon Shaped Pool",
         "url": "https://open.spotify.com/album/2ix8vWvvSp2Yo7rKMiWpkg"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 281011,
       "name": "Decks Dark",
       "url": "https://open.spotify.com/track/4mRSbPLnOm54ttkTYvxxSY"
+    },
+    {
+      "added_at": "2026-01-20 18:32:57",
+      "album": {
+        "name": "Gameshow (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6PmuEq2op3EMw1ZhCjjucB"
+      },
+      "artists": [
+        {
+          "name": "Two Door Cinema Club",
+          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
+        }
+      ],
+      "duration_ms": 230853,
+      "name": "Are We Ready? (Wreck)",
+      "url": "https://open.spotify.com/track/1qBLtdOv2zTzq0tkc6Vy6t"
     },
     {
       "added_at": "2026-01-20 18:32:57",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2026-01-20 18:32:57",
       "album": {
+        "name": "The Wilds",
+        "url": "https://open.spotify.com/album/6mG8sVZlEsKwNZeSq8sMpA"
+      },
+      "artists": [
+        {
+          "name": "Henry Jamison",
+          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
+        }
+      ],
+      "duration_ms": 233289,
+      "name": "Real Peach",
+      "url": "https://open.spotify.com/track/6p4mASLulKdpNFLxQhs0ff"
+    },
+    {
+      "added_at": "2026-01-20 18:32:57",
+      "album": {
         "name": "Ritual Spirit",
         "url": "https://open.spotify.com/album/7lqu3l4C1PAZx4SBUXcoJd"
       },
@@ -1055,22 +1071,6 @@
       "duration_ms": 241132,
       "name": "Voodoo In My Blood",
       "url": "https://open.spotify.com/track/0vs4k1mRSs01iOR5S5sd07"
-    },
-    {
-      "added_at": "2026-01-20 18:32:57",
-      "album": {
-        "name": "The Wilds",
-        "url": "https://open.spotify.com/album/6mG8sVZlEsKwNZeSq8sMpA"
-      },
-      "artists": [
-        {
-          "name": "Henry Jamison",
-          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
-        }
-      ],
-      "duration_ms": 233289,
-      "name": "Real Peach",
-      "url": "https://open.spotify.com/track/6p4mASLulKdpNFLxQhs0ff"
     },
     {
       "added_at": "2026-01-20 18:32:57",
@@ -1480,9 +1480,9 @@
           "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
         }
       ],
-      "duration_ms": 211851,
-      "name": "Sleep On The Floor",
-      "url": "https://open.spotify.com/track/44uOreAESeRIBaxkuCW4wN"
+      "duration_ms": 201413,
+      "name": "Cleopatra",
+      "url": "https://open.spotify.com/track/5bzf1xrbqr1ttjAJuRz2xY"
     },
     {
       "added_at": "2026-01-20 18:32:57",
@@ -1560,9 +1560,9 @@
           "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
         }
       ],
-      "duration_ms": 201413,
-      "name": "Cleopatra",
-      "url": "https://open.spotify.com/track/5bzf1xrbqr1ttjAJuRz2xY"
+      "duration_ms": 211851,
+      "name": "Sleep On The Floor",
+      "url": "https://open.spotify.com/track/44uOreAESeRIBaxkuCW4wN"
     },
     {
       "added_at": "2026-01-20 18:32:57",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2026-01-20 18:32:57",
       "album": {
-        "name": "22, A Million",
-        "url": "https://open.spotify.com/album/1PgfRdl3lPyACfUGH4pquG"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "33 \u201cGOD\u201d",
-      "url": "https://open.spotify.com/track/1LfWibYjk0TD8YNPtzym9A"
-    },
-    {
-      "added_at": "2026-01-20 18:32:57",
-      "album": {
         "name": "Flame",
         "url": "https://open.spotify.com/album/2iZkVBCd88F8qnnJV9Vxje"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 227366,
       "name": "Flame",
       "url": "https://open.spotify.com/track/2yf63OXOJ7F7dYz9UbwlBB"
+    },
+    {
+      "added_at": "2026-01-20 18:32:57",
+      "album": {
+        "name": "22, A Million",
+        "url": "https://open.spotify.com/album/1PgfRdl3lPyACfUGH4pquG"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "33 \u201cGOD\u201d",
+      "url": "https://open.spotify.com/track/1LfWibYjk0TD8YNPtzym9A"
     },
     {
       "added_at": "2026-01-20 18:32:57",

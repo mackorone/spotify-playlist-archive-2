@@ -1,6 +1,6 @@
 {
   "description": "Country music to get you back to the basics.",
-  "num_followers": 3416339,
+  "num_followers": 3416405,
   "original_name": "Chillin' on a Dirt Road",
   "owner": {
     "name": "Spotify",
@@ -211,8 +211,8 @@
     {
       "added_at": "2026-01-30 05:01:55",
       "album": {
-        "name": "Gettin' Old",
-        "url": "https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw"
+        "name": "This One's for You",
+        "url": "https://open.spotify.com/album/1lhNch5NkOONvFhRPh8qaj"
       },
       "artists": [
         {
@@ -220,9 +220,9 @@
           "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
         }
       ],
-      "duration_ms": 265284,
-      "name": "Fast Car",
-      "url": "https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT"
+      "duration_ms": 242680,
+      "name": "When It Rains It Pours",
+      "url": "https://open.spotify.com/track/1mMLMZYXkMueg65jRRWG1l"
     },
     {
       "added_at": "2026-01-30 05:01:55",
@@ -343,8 +343,8 @@
     {
       "added_at": "2026-01-30 05:01:55",
       "album": {
-        "name": "This One's for You",
-        "url": "https://open.spotify.com/album/1lhNch5NkOONvFhRPh8qaj"
+        "name": "Gettin' Old",
+        "url": "https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw"
       },
       "artists": [
         {
@@ -352,9 +352,9 @@
           "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
         }
       ],
-      "duration_ms": 242680,
-      "name": "When It Rains It Pours",
-      "url": "https://open.spotify.com/track/1mMLMZYXkMueg65jRRWG1l"
+      "duration_ms": 265284,
+      "name": "Fast Car",
+      "url": "https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT"
     },
     {
       "added_at": "2026-01-30 05:01:55",
@@ -963,22 +963,6 @@
     {
       "added_at": "2026-01-30 05:01:55",
       "album": {
-        "name": "Feels Like Today",
-        "url": "https://open.spotify.com/album/5NH87jdrVjOHt8gDMHT1Wy"
-      },
-      "artists": [
-        {
-          "name": "Rascal Flatts",
-          "url": "https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn"
-        }
-      ],
-      "duration_ms": 226680,
-      "name": "Bless The Broken Road",
-      "url": "https://open.spotify.com/track/4YjjNHtEsTX6Af4mCTupT5"
-    },
-    {
-      "added_at": "2026-01-30 05:01:55",
-      "album": {
         "name": "Tyler Hubbard",
         "url": "https://open.spotify.com/album/2S3Q7phoa4bZEijkTRYaLu"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 179640,
       "name": "Dancin\u2019 In The Country",
       "url": "https://open.spotify.com/track/2KtGiBi5CrX2ERPD2PAS34"
+    },
+    {
+      "added_at": "2026-01-30 05:01:55",
+      "album": {
+        "name": "Feels Like Today",
+        "url": "https://open.spotify.com/album/5NH87jdrVjOHt8gDMHT1Wy"
+      },
+      "artists": [
+        {
+          "name": "Rascal Flatts",
+          "url": "https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn"
+        }
+      ],
+      "duration_ms": 226680,
+      "name": "Bless The Broken Road",
+      "url": "https://open.spotify.com/track/4YjjNHtEsTX6Af4mCTupT5"
     },
     {
       "added_at": "2026-01-30 05:01:55",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2026-01-30 05:01:55",
       "album": {
+        "name": "Think I\u2019m In Love With You",
+        "url": "https://open.spotify.com/album/52lLryGmbfkDOayypXEhhR"
+      },
+      "artists": [
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "duration_ms": 222800,
+      "name": "Think I'm In Love With You",
+      "url": "https://open.spotify.com/track/65M92JpTbAdHmTQm4jGaDa"
+    },
+    {
+      "added_at": "2026-01-30 05:01:55",
+      "album": {
         "name": "All Your Fault: Pt. 2",
         "url": "https://open.spotify.com/album/6t5D6LEgHxqUVOxJItkzfb"
       },
@@ -1059,22 +1075,6 @@
       "duration_ms": 163870,
       "name": "Meant to Be (feat. Florida Georgia Line)",
       "url": "https://open.spotify.com/track/7iDa6hUg2VgEL1o1HjmfBn"
-    },
-    {
-      "added_at": "2026-01-30 05:01:55",
-      "album": {
-        "name": "Think I\u2019m In Love With You",
-        "url": "https://open.spotify.com/album/52lLryGmbfkDOayypXEhhR"
-      },
-      "artists": [
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        }
-      ],
-      "duration_ms": 222800,
-      "name": "Think I'm In Love With You",
-      "url": "https://open.spotify.com/track/65M92JpTbAdHmTQm4jGaDa"
     },
     {
       "added_at": "2026-01-30 05:01:55",
@@ -1259,18 +1259,18 @@
     {
       "added_at": "2026-01-30 05:01:55",
       "album": {
-        "name": "Golden Hour",
-        "url": "https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c"
+        "name": "Take A Back Road",
+        "url": "https://open.spotify.com/album/2qLz69eIC6A7GggjGvxEMp"
       },
       "artists": [
         {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+          "name": "Rodney Atkins",
+          "url": "https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2"
         }
       ],
-      "duration_ms": 219053,
-      "name": "Butterflies",
-      "url": "https://open.spotify.com/track/30VHURM5NOfoZmqp2iKawS"
+      "duration_ms": 208586,
+      "name": "Take A Back Road",
+      "url": "https://open.spotify.com/track/7B6m8tHAYZsOKOKMU5SR2n"
     },
     {
       "added_at": "2026-01-30 05:01:55",
@@ -1291,18 +1291,18 @@
     {
       "added_at": "2026-01-30 05:01:55",
       "album": {
-        "name": "Take A Back Road",
-        "url": "https://open.spotify.com/album/2qLz69eIC6A7GggjGvxEMp"
+        "name": "Golden Hour",
+        "url": "https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c"
       },
       "artists": [
         {
-          "name": "Rodney Atkins",
-          "url": "https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2"
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
         }
       ],
-      "duration_ms": 208586,
-      "name": "Take A Back Road",
-      "url": "https://open.spotify.com/track/7B6m8tHAYZsOKOKMU5SR2n"
+      "duration_ms": 219053,
+      "name": "Butterflies",
+      "url": "https://open.spotify.com/track/30VHURM5NOfoZmqp2iKawS"
     },
     {
       "added_at": "2026-01-30 05:01:55",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2026-01-30 05:01:55",
       "album": {
-        "name": "Life At Best",
-        "url": "https://open.spotify.com/album/7DYy5TiODoqnZbZ2o6KcmV"
-      },
-      "artists": [
-        {
-          "name": "Eli Young Band",
-          "url": "https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv"
-        }
-      ],
-      "duration_ms": 200706,
-      "name": "Crazy Girl - Single Version",
-      "url": "https://open.spotify.com/track/1nVLAEzhBXMJLR5zAl90Nl"
-    },
-    {
-      "added_at": "2026-01-30 05:01:55",
-      "album": {
         "name": "Up All Night",
         "url": "https://open.spotify.com/album/191BU6Uvnf7oNTjO4n36Yu"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 228144,
       "name": "23",
       "url": "https://open.spotify.com/track/1ZpPaBDswjV3VSUKqLDXPE"
+    },
+    {
+      "added_at": "2026-01-30 05:01:55",
+      "album": {
+        "name": "Life At Best",
+        "url": "https://open.spotify.com/album/7DYy5TiODoqnZbZ2o6KcmV"
+      },
+      "artists": [
+        {
+          "name": "Eli Young Band",
+          "url": "https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv"
+        }
+      ],
+      "duration_ms": 200706,
+      "name": "Crazy Girl - Single Version",
+      "url": "https://open.spotify.com/track/1nVLAEzhBXMJLR5zAl90Nl"
     },
     {
       "added_at": "2026-01-30 05:01:55",
@@ -1639,18 +1639,18 @@
     {
       "added_at": "2026-01-30 05:01:55",
       "album": {
-        "name": "5 Foot 9",
-        "url": "https://open.spotify.com/album/5CTNA7y4WYhLcCd8ijsnRr"
+        "name": "Hunter Hayes (Encore)",
+        "url": "https://open.spotify.com/album/5hVo5O3pGkc1VibXveW8gx"
       },
       "artists": [
         {
-          "name": "Tyler Hubbard",
-          "url": "https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V"
+          "name": "Hunter Hayes",
+          "url": "https://open.spotify.com/artist/7H6dkUChT5EoOQtUVMg4cN"
         }
       ],
-      "duration_ms": 189780,
-      "name": "5 Foot 9",
-      "url": "https://open.spotify.com/track/6AqwH2Y9FJwhUE2dCSkw1u"
+      "duration_ms": 228840,
+      "name": "Wanted",
+      "url": "https://open.spotify.com/track/0p1BcEcYVO3uk4KDf3gzkY"
     }
   ],
   "unique_name": "Chillin' on a Dirt Road",

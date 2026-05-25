@@ -4,7 +4,7 @@
 
 > afrobeats: best served chill
 
-772 songs - 1 day 13 hr 23 min
+773 songs - 1 day 13 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -234,7 +234,7 @@
 | [F o r C e r t a i n](https://open.spotify.com/track/54N8YQb53fKmVCNmbwoSVi) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 4 \(P4\)](https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K) | 3:39 | 2024-04-26 | 2024-11-22 |
 | [f.u.](https://open.spotify.com/track/7cTUvwei61Gfa6PKPczdfu) | [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT), [Projexx](https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N), [Yo Trane](https://open.spotify.com/artist/4W49e48G0gg1pucAN6JiGH) | [By Any Minz](https://open.spotify.com/album/48nHgN9M9JO1ic95yWLhJP) | 3:12 | 2024-10-04 |  |
 | [Faaji](https://open.spotify.com/track/1I1UC0ljqNUEHTfVsZNJCU) | [Raybekah](https://open.spotify.com/artist/0SwPkNmxB2YGHWVJMI8kpW) | [Lazy Girl](https://open.spotify.com/album/79qFfx2Gmq4UAotRx6V0AW) | 2:32 | 2024-02-02 | 2024-02-16 |
-| [FaceCard \(Only Me\)](https://open.spotify.com/track/1oVqMHVxQNyHqZk9Kf2APO) | [Noon Dave](https://open.spotify.com/artist/7JkLbDtlEwAhFPn3o2kXAm) | [FaceCard \(Only Me\)](https://open.spotify.com/album/1UDFtcP2BNJRORKx2pXAHJ) | 2:55 | 2024-08-25 |  |
+| [FaceCard \(Only Me\)](https://open.spotify.com/track/1oVqMHVxQNyHqZk9Kf2APO) | [Noon Dave](https://open.spotify.com/artist/7JkLbDtlEwAhFPn3o2kXAm) | [FaceCard \(Only Me\)](https://open.spotify.com/album/1UDFtcP2BNJRORKx2pXAHJ) | 2:55 | 2024-08-25 | 2026-05-25 |
 | [Fala](https://open.spotify.com/track/5yxVXkeP45nxmff0uDac67) | [Vicky R](https://open.spotify.com/artist/468tlC6QAKEJ4u0jndX9o0), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [Fala](https://open.spotify.com/album/6LFMWLz83925x392Lp8YUq) | 3:17 | 2026-04-10 | 2026-04-17 |
 | [Fall In Love \(feat\. Ayo Jay\)](https://open.spotify.com/track/4GdnJEbOxXMJMSzdkql8X3) | [melvitto](https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa), [Ayo Jay](https://open.spotify.com/artist/1V6rvT87qMQvo6HAixjlpY) | [Fall In Love \(feat\. Ayo Jay\)](https://open.spotify.com/album/6Df2qCBg6t8oSSpqWkb5pE) | 3:25 | 2024-12-16 | 2025-12-19 |
 | [Fallen Angel](https://open.spotify.com/track/3XFc1Q32ssmKglaZKI5iTI) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Fallen Angel](https://open.spotify.com/album/3O8VIa31ZtEh5DKRhMzp2m) | 3:20 | 2024-01-05 | 2024-11-22 |
@@ -645,6 +645,7 @@
 | [SUMMER](https://open.spotify.com/track/22xjQaEYVuTKbZVdTUneSw) | [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [SUMMER](https://open.spotify.com/album/42lZ7fs6ZVYjOvpXvbhUu1) | 2:25 | 2024-07-26 | 2024-08-02 |
 | [Summer Breeze](https://open.spotify.com/track/3Xp7M0XASUptb61H0mLAcQ) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo), [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic) | [Summer Breeze](https://open.spotify.com/album/53xFvK9UHs6TujEwY2NZhb) | 3:58 | 2023-06-09 | 2024-03-25 |
 | [Summertime With You](https://open.spotify.com/track/4UsVMpG6N5ZFhTyGZvyBuE) | [Titose](https://open.spotify.com/artist/1GqDQYv81wsGJmzM5LOyF7) | [Was It Something I Said?](https://open.spotify.com/album/3M6SVIRAGFPUmQ6ca3mFOi) | 2:16 | 2022-06-09 | 2023-03-04 |
+| [Sundown](https://open.spotify.com/track/6WZUaInW72Zy9r5Ar2E5yo) | [Moelogo](https://open.spotify.com/artist/6mctsJBrfcWvWH7S8h716D) | [Sundown](https://open.spotify.com/album/1A62RiJIqKfd5lVBtfOxGo) | 2:40 | 2026-05-22 |  |
 | [Sundress](https://open.spotify.com/track/3UoasjQP4cTckRtun7sL3D) | [Chop Daily](https://open.spotify.com/artist/36cvcz2WaGMpYLeFaeWZUG), [Deyon Agoi](https://open.spotify.com/artist/7eJtF350ch6EJsxAo8uZJT), [July 7](https://open.spotify.com/artist/51kPCmCJ7rXClxKDc2r4RA) | [Sundress](https://open.spotify.com/album/4l3mnirO3XZxLKHIQ0c3cK) | 2:12 | 2023-08-10 | 2024-03-23 |
 | [Suns Out](https://open.spotify.com/track/6qb9tjy50uyJwHyB6yb7QW) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD) | [Suns Out](https://open.spotify.com/album/7t2XVkWXu069lM8qaGghXy) | 2:31 | 2024-08-02 | 2025-12-19 |
 | [SUPARO \- Remix](https://open.spotify.com/track/4fh2nObIUqrZdp79yot7uS) | [WAYNE FLENORY](https://open.spotify.com/artist/6SZwuzkYiQwQIFMJ6VHCIV), [Babyboy AV](https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX) | [SUPARO \(Remix\)](https://open.spotify.com/album/4x7SoFdAMxFIX9YvuKVOjx) | 2:41 | 2023-12-08 | 2024-04-05 |

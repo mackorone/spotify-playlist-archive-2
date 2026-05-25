@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyQSkfNQhy8K.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/13ysCUxRu2H1rcftAcPUSm">ELENA ROSE</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,608 likes - 178 songs - 9 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,610 likes - 178 songs - 9 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyQSkfNQhy8K.md) - [plain]
 | 84 | [Down](https://open.spotify.com/track/5b5xh1omN5tSrIfmTckmIU) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Down](https://open.spotify.com/album/1LXrs32NNDd5M1EqFP0IbW) | 3:15 |
 | 85 | [ECHÁNDOTE DE MENOS](https://open.spotify.com/track/3IuJMQixrWEm1Xo5YoufFt) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [JUGANDO A QUE NO PASA NADA](https://open.spotify.com/album/5UeZ5HFbQAsSev59aKCWKq) | 3:06 |
 | 86 | [LUNA](https://open.spotify.com/track/4rejyzjiLkT53w4NWC0Sct) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [ANASTASIA](https://open.spotify.com/album/3wbzzUJD8dnfUODIpoCoHO) | 2:35 |
-| 87 | [El Karma](https://open.spotify.com/track/0LIb6sjlI44YHLJsQev0JX) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Forajido EP 1](https://open.spotify.com/album/7I8Jkv7b1hFt0Pc1eePHTR) | 2:34 |
-| 88 | [Naguará](https://open.spotify.com/track/5JckkRJqnlHMvNa1BqU1AT) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [¿Dónde Es El After?](https://open.spotify.com/album/4kF3HIX0K4uSLacWe25qBG) | 3:02 |
+| 87 | [Naguará](https://open.spotify.com/track/5JckkRJqnlHMvNa1BqU1AT) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [¿Dónde Es El After?](https://open.spotify.com/album/4kF3HIX0K4uSLacWe25qBG) | 3:02 |
+| 88 | [El Karma](https://open.spotify.com/track/0LIb6sjlI44YHLJsQev0JX) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Forajido EP 1](https://open.spotify.com/album/7I8Jkv7b1hFt0Pc1eePHTR) | 2:34 |
 | 89 | [SINTIGO](https://open.spotify.com/track/4OVPeO6yuBUsZQNfMivqep) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY), [Sistek](https://open.spotify.com/artist/7AfIBbjDpPR6FlLWLsAcHu), [Mazzarri](https://open.spotify.com/artist/5oMID6T6cW3OhZrWIDW3I9) | [Bendito Verano](https://open.spotify.com/album/3879XuqQ01JARbfd5pMH3s) | 3:37 |
 | 90 | [Bebé](https://open.spotify.com/track/1nJlNCRsYvmP8e91qQ2jop) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [¿Quién trae las cornetas?](https://open.spotify.com/album/3UedVnaIbI3SRuMLClWiJ3) | 2:55 |
 | 91 | [Only One \(feat\. Di Genius\)](https://open.spotify.com/track/1LUp83N3Zh6FE5lpGdiUaU) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Julia Michaels](https://open.spotify.com/artist/5iZfdXW7Tr4Th4MuqFeyIh), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Di Genius](https://open.spotify.com/artist/08erObvNX7rs7d4pbuaRCQ) | [Only One \(feat\. Di Genius\)](https://open.spotify.com/album/2Mug7a9txQpNZv3HunvIIc) | 3:38 |
@@ -154,8 +154,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyQSkfNQhy8K.md) - [plain]
 | 144 | [QUE LE MUERDA](https://open.spotify.com/track/4WGUbeko8BYD39VKpyP72N) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [ESQUEMAS](https://open.spotify.com/album/7eC4wtMG1I2Jtk4FDWbkKC) | 2:40 |
 | 145 | [Free Hugs](https://open.spotify.com/track/5hzCzZjEXcYbS7WLhwqTu2) | [ANGEL22](https://open.spotify.com/artist/77dCZ05TEfVFypRDzM1R44) | [Free Hugs](https://open.spotify.com/album/7EgjqJUACBmntb301Nqij7) | 2:48 |
 | 146 | [KILL BILL](https://open.spotify.com/track/20PCIu1WEhaQKmbRFx8NTT) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [ESQUEMAS](https://open.spotify.com/album/7eC4wtMG1I2Jtk4FDWbkKC) | 3:01 |
-| 147 | [COCO](https://open.spotify.com/track/5xXC7l1oji3OI9cAkzcIen) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [COCO](https://open.spotify.com/album/3U1K2cfs8bCGldvkYSqJ9r) | 2:36 |
-| 148 | [INSTINTO](https://open.spotify.com/track/1kWFZm12wzRAqm3m4JxPp8) | [Lil Supa](https://open.spotify.com/artist/0qHbO3z6lgLE6ZYCkQBo1K), [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY), [Sabiobeats](https://open.spotify.com/artist/5xPx3y57B60dw5E0VMsEK0) | [ANIMAL](https://open.spotify.com/album/04GpcNEk3XALjGfnBExBN4) | 3:53 |
+| 147 | [INSTINTO](https://open.spotify.com/track/1kWFZm12wzRAqm3m4JxPp8) | [Lil Supa](https://open.spotify.com/artist/0qHbO3z6lgLE6ZYCkQBo1K), [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY), [Sabiobeats](https://open.spotify.com/artist/5xPx3y57B60dw5E0VMsEK0) | [ANIMAL](https://open.spotify.com/album/04GpcNEk3XALjGfnBExBN4) | 3:53 |
+| 148 | [COCO](https://open.spotify.com/track/5xXC7l1oji3OI9cAkzcIen) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [COCO](https://open.spotify.com/album/3U1K2cfs8bCGldvkYSqJ9r) | 2:36 |
 | 149 | [Trago Al Pecho](https://open.spotify.com/track/2FizWFIAvYANGK4CHOzGFw) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Trago Al Pecho](https://open.spotify.com/album/1ZgHIkKZSnxj0DbBKmOdv4) | 2:48 |
 | 150 | [BEST LIFE](https://open.spotify.com/track/3AklaU8n8vkfQpWGCHfVLB) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [El Niño](https://open.spotify.com/album/0hZRo3fmA48T0agQDHKPay) | 3:29 |
 | 151 | [Sandunga](https://open.spotify.com/track/7EDPfx0FpzEU6eKnHKqyCU) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Sandunga](https://open.spotify.com/album/26svn8qJxkSRCrCVFXIA0F) | 2:49 |
@@ -187,4 +187,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyQSkfNQhy8K.md) - [plain]
 | 177 | [Primavera](https://open.spotify.com/track/5PVPha1dOqgSY97foDvDOx) | [Nati Boulier](https://open.spotify.com/artist/2uBuga2RTo3KxodK6mO5W0) | [PA' LA CULTURA](https://open.spotify.com/album/0TWS1tWYlIBYzOdLu2Y1Pz) | 1:40 |
 | 178 | [Tango](https://open.spotify.com/track/1KSWO08GFqAzmfUSfKfwNl) | [Alaya](https://open.spotify.com/artist/5MY5rCpGaLfcgRpocaw8EG) | [Alaya](https://open.spotify.com/album/4nXbn9OTGwVGOBumFSF7Ul) | 3:25 |
 
-Snapshot ID: `AcSS/AAAAABftMyyWnPjDB6UyfM5KKUq`
+Snapshot ID: `AcSYnAAAAACUz5mIFzVTItZQrI9LNNX8`

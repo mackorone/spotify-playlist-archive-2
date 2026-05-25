@@ -1,6 +1,6 @@
 {
   "description": "Ideale muziek voor de werkdag ",
-  "num_followers": 87842,
+  "num_followers": 87840,
   "original_name": "Werkdag FM",
   "owner": {
     "name": "Spotify",
@@ -347,6 +347,22 @@
     {
       "added_at": "2026-05-21 22:00:59",
       "album": {
+        "name": "Sob Rock",
+        "url": "https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 187306,
+      "name": "Last Train Home",
+      "url": "https://open.spotify.com/track/0tgBtQ0ISnMQOKorrN9HLX"
+    },
+    {
+      "added_at": "2026-05-21 22:00:59",
+      "album": {
         "name": "I Was / I Am",
         "url": "https://open.spotify.com/album/0b693AisoJYg4Ilj10LkYG"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 186552,
       "name": "Someone Like You (feat. Joy Oladokun)",
       "url": "https://open.spotify.com/track/0hiHNxqKGf3GZgVTIOAiiK"
-    },
-    {
-      "added_at": "2026-05-21 22:00:59",
-      "album": {
-        "name": "Sob Rock",
-        "url": "https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 187306,
-      "name": "Last Train Home",
-      "url": "https://open.spotify.com/track/0tgBtQ0ISnMQOKorrN9HLX"
     },
     {
       "added_at": "2026-05-21 22:00:59",
@@ -595,22 +595,6 @@
     {
       "added_at": "2026-05-21 22:00:59",
       "album": {
-        "name": "Memories",
-        "url": "https://open.spotify.com/album/4UCjvqGiMnghqo31aPQQ09"
-      },
-      "artists": [
-        {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
-        }
-      ],
-      "duration_ms": 179534,
-      "name": "Memories",
-      "url": "https://open.spotify.com/track/2VDTqhsSzrRxsbjvv4KLPl"
-    },
-    {
-      "added_at": "2026-05-21 22:00:59",
-      "album": {
         "name": "Still Bad",
         "url": "https://open.spotify.com/album/3DwhFPQWTCMMTbllQrAIpL"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 208585,
       "name": "Still Bad",
       "url": "https://open.spotify.com/track/5UpdcedkGcuishA7jlnH8W"
+    },
+    {
+      "added_at": "2026-05-21 22:00:59",
+      "album": {
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/4UCjvqGiMnghqo31aPQQ09"
+      },
+      "artists": [
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        }
+      ],
+      "duration_ms": 179534,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/2VDTqhsSzrRxsbjvv4KLPl"
     },
     {
       "added_at": "2026-05-21 22:00:59",
@@ -923,22 +923,6 @@
     {
       "added_at": "2026-05-21 22:00:59",
       "album": {
-        "name": "My First Heartbreak",
-        "url": "https://open.spotify.com/album/7mJjkh7HKfdoQTlhQ9BwNm"
-      },
-      "artists": [
-        {
-          "name": "Myles Smith",
-          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
-        }
-      ],
-      "duration_ms": 206800,
-      "name": "My First Heartbreak",
-      "url": "https://open.spotify.com/track/5gbUP33wFJPawjY5DxR3OA"
-    },
-    {
-      "added_at": "2026-05-21 22:00:59",
-      "album": {
         "name": "Evering Road (Special Edition)",
         "url": "https://open.spotify.com/album/6dfAua5R07Ex8evOwz5sUU"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 230615,
       "name": "Don't Break the Heart",
       "url": "https://open.spotify.com/track/4tS2pyUXiaTjHK7vCBomyF"
+    },
+    {
+      "added_at": "2026-05-21 22:00:59",
+      "album": {
+        "name": "My First Heartbreak",
+        "url": "https://open.spotify.com/album/7mJjkh7HKfdoQTlhQ9BwNm"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "duration_ms": 206800,
+      "name": "My First Heartbreak",
+      "url": "https://open.spotify.com/track/5gbUP33wFJPawjY5DxR3OA"
     },
     {
       "added_at": "2026-05-21 22:00:59",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2026-05-21 22:00:59",
       "album": {
-        "name": "SE9 Part 1",
-        "url": "https://open.spotify.com/album/4Wz7yb00TiEUqMrd3gzVtz"
-      },
-      "artists": [
-        {
-          "name": "Skye Newman",
-          "url": "https://open.spotify.com/artist/4UoEzpWZrFWvlGYOzTEn1M"
-        }
-      ],
-      "duration_ms": 159399,
-      "name": "FU & UF",
-      "url": "https://open.spotify.com/track/2UfNSV1Fwz4gGJf42ZX1Pu"
-    },
-    {
-      "added_at": "2026-05-21 22:00:59",
-      "album": {
         "name": "LEGEND",
         "url": "https://open.spotify.com/album/0kRBs6M0VbrourQ6fYbCiJ"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 168562,
       "name": "Wonder Woman",
       "url": "https://open.spotify.com/track/3BLWGYOcy1svvsBByeFxLh"
+    },
+    {
+      "added_at": "2026-05-21 22:00:59",
+      "album": {
+        "name": "SE9 Part 1",
+        "url": "https://open.spotify.com/album/4Wz7yb00TiEUqMrd3gzVtz"
+      },
+      "artists": [
+        {
+          "name": "Skye Newman",
+          "url": "https://open.spotify.com/artist/4UoEzpWZrFWvlGYOzTEn1M"
+        }
+      ],
+      "duration_ms": 159399,
+      "name": "FU & UF",
+      "url": "https://open.spotify.com/track/2UfNSV1Fwz4gGJf42ZX1Pu"
     },
     {
       "added_at": "2026-05-21 22:00:59",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2026-05-21 22:00:59",
       "album": {
-        "name": "Catch A Rainbow",
-        "url": "https://open.spotify.com/album/3eBm9UKivBxtlrSuSljTVB"
-      },
-      "artists": [
-        {
-          "name": "Boaz",
-          "url": "https://open.spotify.com/artist/0ytyS944Vjixf9O0omhpyd"
-        }
-      ],
-      "duration_ms": 154160,
-      "name": "Catch A Rainbow",
-      "url": "https://open.spotify.com/track/2UdvthIbV4tJuCxXM1AWX2"
-    },
-    {
-      "added_at": "2026-05-21 22:00:59",
-      "album": {
         "name": "Nightfalls",
         "url": "https://open.spotify.com/album/0x8GE8IGZ5ow4R30vBNuMC"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 201680,
       "name": "Want You For Life",
       "url": "https://open.spotify.com/track/71J2AeYis1MV4jISAm986M"
+    },
+    {
+      "added_at": "2026-05-21 22:00:59",
+      "album": {
+        "name": "Catch A Rainbow",
+        "url": "https://open.spotify.com/album/3eBm9UKivBxtlrSuSljTVB"
+      },
+      "artists": [
+        {
+          "name": "Boaz",
+          "url": "https://open.spotify.com/artist/0ytyS944Vjixf9O0omhpyd"
+        }
+      ],
+      "duration_ms": 154160,
+      "name": "Catch A Rainbow",
+      "url": "https://open.spotify.com/track/2UdvthIbV4tJuCxXM1AWX2"
     },
     {
       "added_at": "2026-05-21 22:00:59",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2026-05-21 22:00:59",
       "album": {
-        "name": "Believer",
-        "url": "https://open.spotify.com/album/6Gy8bgQT87rQxCZGC7lkl2"
-      },
-      "artists": [
-        {
-          "name": "MICHA",
-          "url": "https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6"
-        }
-      ],
-      "duration_ms": 167485,
-      "name": "Believer",
-      "url": "https://open.spotify.com/track/6zRsQkn99LTGcGAcgHYEMm"
-    },
-    {
-      "added_at": "2026-05-21 22:00:59",
-      "album": {
         "name": "Easy",
         "url": "https://open.spotify.com/album/0fG9xxdKyq4ArHAuucm4oX"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 154435,
       "name": "Easy",
       "url": "https://open.spotify.com/track/0Ep95NHSRnEPeSNJMNtmzo"
+    },
+    {
+      "added_at": "2026-05-21 22:00:59",
+      "album": {
+        "name": "Believer",
+        "url": "https://open.spotify.com/album/6Gy8bgQT87rQxCZGC7lkl2"
+      },
+      "artists": [
+        {
+          "name": "MICHA",
+          "url": "https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6"
+        }
+      ],
+      "duration_ms": 167485,
+      "name": "Believer",
+      "url": "https://open.spotify.com/track/6zRsQkn99LTGcGAcgHYEMm"
     },
     {
       "added_at": "2026-05-21 22:00:59",
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2026-05-21 22:00:59",
       "album": {
-        "name": "Electric Life",
-        "url": "https://open.spotify.com/album/0rgJvUPcgTDdiirvy7wHs6"
-      },
-      "artists": [
-        {
-          "name": "Duncan Laurence",
-          "url": "https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434"
-        }
-      ],
-      "duration_ms": 194255,
-      "name": "Electric Life",
-      "url": "https://open.spotify.com/track/0iLqpm5c4dGlwth5LYq2tj"
-    },
-    {
-      "added_at": "2026-05-21 22:00:59",
-      "album": {
         "name": "Rise (Acoustic)",
         "url": "https://open.spotify.com/album/2cvjDszYknCglVHqHc2IOY"
       },
@@ -1771,6 +1755,22 @@
       "duration_ms": 254920,
       "name": "Give Me That Feeling",
       "url": "https://open.spotify.com/track/1TttmYJbJ5SfbmA06qJ8kZ"
+    },
+    {
+      "added_at": "2026-05-21 22:00:59",
+      "album": {
+        "name": "Electric Life",
+        "url": "https://open.spotify.com/album/0rgJvUPcgTDdiirvy7wHs6"
+      },
+      "artists": [
+        {
+          "name": "Duncan Laurence",
+          "url": "https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434"
+        }
+      ],
+      "duration_ms": 194255,
+      "name": "Electric Life",
+      "url": "https://open.spotify.com/track/0iLqpm5c4dGlwth5LYq2tj"
     },
     {
       "added_at": "2026-05-21 22:00:59",
@@ -1823,22 +1823,6 @@
     {
       "added_at": "2026-05-21 22:00:59",
       "album": {
-        "name": "Taste of Heaven",
-        "url": "https://open.spotify.com/album/1j5cyAmFErb1wF3SYGRuCQ"
-      },
-      "artists": [
-        {
-          "name": "MICHA",
-          "url": "https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6"
-        }
-      ],
-      "duration_ms": 157689,
-      "name": "Taste of Heaven",
-      "url": "https://open.spotify.com/track/7lHu3bOYZBJNwlftCTZxfh"
-    },
-    {
-      "added_at": "2026-05-21 22:00:59",
-      "album": {
         "name": "High On You",
         "url": "https://open.spotify.com/album/1wtPKN1ppxjJT7ywdcnvzy"
       },
@@ -1851,6 +1835,22 @@
       "duration_ms": 182881,
       "name": "Step Into The Water",
       "url": "https://open.spotify.com/track/6YePPPV7zWKdnuMavH2k5x"
+    },
+    {
+      "added_at": "2026-05-21 22:00:59",
+      "album": {
+        "name": "Taste of Heaven",
+        "url": "https://open.spotify.com/album/1j5cyAmFErb1wF3SYGRuCQ"
+      },
+      "artists": [
+        {
+          "name": "MICHA",
+          "url": "https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6"
+        }
+      ],
+      "duration_ms": 157689,
+      "name": "Taste of Heaven",
+      "url": "https://open.spotify.com/track/7lHu3bOYZBJNwlftCTZxfh"
     },
     {
       "added_at": "2026-05-21 22:00:59",
@@ -2039,6 +2039,22 @@
     {
       "added_at": "2026-05-21 22:00:59",
       "album": {
+        "name": "In Case You Missed It",
+        "url": "https://open.spotify.com/album/0jyLWLEnAbUmefy3UeQkuY"
+      },
+      "artists": [
+        {
+          "name": "Matt Simons",
+          "url": "https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7"
+        }
+      ],
+      "duration_ms": 184852,
+      "name": "In Case You Missed It",
+      "url": "https://open.spotify.com/track/2O10QQ8538iu2zslC4GCcP"
+    },
+    {
+      "added_at": "2026-05-21 22:00:59",
+      "album": {
         "name": "half a world away",
         "url": "https://open.spotify.com/album/25RxV46h2mPurwhtc03UC7"
       },
@@ -2059,22 +2075,6 @@
     {
       "added_at": "2026-05-21 22:00:59",
       "album": {
-        "name": "In Case You Missed It",
-        "url": "https://open.spotify.com/album/0jyLWLEnAbUmefy3UeQkuY"
-      },
-      "artists": [
-        {
-          "name": "Matt Simons",
-          "url": "https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7"
-        }
-      ],
-      "duration_ms": 184852,
-      "name": "In Case You Missed It",
-      "url": "https://open.spotify.com/track/2O10QQ8538iu2zslC4GCcP"
-    },
-    {
-      "added_at": "2026-05-21 22:00:59",
-      "album": {
         "name": "What You Meant To Me",
         "url": "https://open.spotify.com/album/2v2gbLj8H0OJtAtwNmsJxc"
       },
@@ -2091,6 +2091,22 @@
       "duration_ms": 168179,
       "name": "What You Meant To Me",
       "url": "https://open.spotify.com/track/0bvh4owohGyhv93QeIZJkr"
+    },
+    {
+      "added_at": "2026-05-21 22:00:59",
+      "album": {
+        "name": "MY CITY",
+        "url": "https://open.spotify.com/album/2CFqRjQTbvFvaV5M6VXbUt"
+      },
+      "artists": [
+        {
+          "name": "Ty Darling",
+          "url": "https://open.spotify.com/artist/2EZ6sQxeNZGklwhOXjIYz8"
+        }
+      ],
+      "duration_ms": 189349,
+      "name": "MY CITY",
+      "url": "https://open.spotify.com/track/3XqEeUvPdYHtU8U3tYqcse"
     },
     {
       "added_at": "2026-05-21 22:00:59",
@@ -2123,22 +2139,6 @@
       "duration_ms": 176097,
       "name": "Give Me Your Love Back",
       "url": "https://open.spotify.com/track/070mI5fDgAV77ZBrmoAcfs"
-    },
-    {
-      "added_at": "2026-05-21 22:00:59",
-      "album": {
-        "name": "MY CITY",
-        "url": "https://open.spotify.com/album/2CFqRjQTbvFvaV5M6VXbUt"
-      },
-      "artists": [
-        {
-          "name": "Ty Darling",
-          "url": "https://open.spotify.com/artist/2EZ6sQxeNZGklwhOXjIYz8"
-        }
-      ],
-      "duration_ms": 189349,
-      "name": "MY CITY",
-      "url": "https://open.spotify.com/track/3XqEeUvPdYHtU8U3tYqcse"
     },
     {
       "added_at": "2026-05-21 22:00:59",
@@ -2271,22 +2271,6 @@
     {
       "added_at": "2026-05-21 22:00:59",
       "album": {
-        "name": "the devil's advocate",
-        "url": "https://open.spotify.com/album/3AQLKzmHD6t3R4MTE90E4P"
-      },
-      "artists": [
-        {
-          "name": "philine",
-          "url": "https://open.spotify.com/artist/5VyGPIz23xzQUyXocTxAvL"
-        }
-      ],
-      "duration_ms": 179426,
-      "name": "the devil's advocate",
-      "url": "https://open.spotify.com/track/6EQxQwc56xRBxjQQMHPFkn"
-    },
-    {
-      "added_at": "2026-05-21 22:00:59",
-      "album": {
         "name": "Buckle Down",
         "url": "https://open.spotify.com/album/39YthQpPlhl9T1w28OS8f2"
       },
@@ -2299,6 +2283,22 @@
       "duration_ms": 166957,
       "name": "Buckle Down",
       "url": "https://open.spotify.com/track/2B0dpsOLbVaofyXuHBhxsY"
+    },
+    {
+      "added_at": "2026-05-21 22:00:59",
+      "album": {
+        "name": "the devil's advocate",
+        "url": "https://open.spotify.com/album/3AQLKzmHD6t3R4MTE90E4P"
+      },
+      "artists": [
+        {
+          "name": "philine",
+          "url": "https://open.spotify.com/artist/5VyGPIz23xzQUyXocTxAvL"
+        }
+      ],
+      "duration_ms": 179426,
+      "name": "the devil's advocate",
+      "url": "https://open.spotify.com/track/6EQxQwc56xRBxjQQMHPFkn"
     },
     {
       "added_at": "2026-05-21 22:00:59",
@@ -2335,26 +2335,6 @@
     {
       "added_at": "2026-05-21 22:00:59",
       "album": {
-        "name": "Quarter Life Crisis",
-        "url": "https://open.spotify.com/album/4sfC2BT8zecnW2Lh9rDml1"
-      },
-      "artists": [
-        {
-          "name": "Milo Meskens",
-          "url": "https://open.spotify.com/artist/2os0uvECng2MYlxDj5iEbc"
-        },
-        {
-          "name": "Nona",
-          "url": "https://open.spotify.com/artist/5aGfasfrnULFuSZ3ElXkHb"
-        }
-      ],
-      "duration_ms": 235667,
-      "name": "Feel At Home",
-      "url": "https://open.spotify.com/track/4rjPdgGdaLyuQfOzV79v9h"
-    },
-    {
-      "added_at": "2026-05-21 22:00:59",
-      "album": {
         "name": "These Nights",
         "url": "https://open.spotify.com/album/7LivGxiTjQCQAau5AsMfbN"
       },
@@ -2375,6 +2355,26 @@
     {
       "added_at": "2026-05-21 22:00:59",
       "album": {
+        "name": "Quarter Life Crisis",
+        "url": "https://open.spotify.com/album/4sfC2BT8zecnW2Lh9rDml1"
+      },
+      "artists": [
+        {
+          "name": "Milo Meskens",
+          "url": "https://open.spotify.com/artist/2os0uvECng2MYlxDj5iEbc"
+        },
+        {
+          "name": "Nona",
+          "url": "https://open.spotify.com/artist/5aGfasfrnULFuSZ3ElXkHb"
+        }
+      ],
+      "duration_ms": 235667,
+      "name": "Feel At Home",
+      "url": "https://open.spotify.com/track/4rjPdgGdaLyuQfOzV79v9h"
+    },
+    {
+      "added_at": "2026-05-21 22:00:59",
+      "album": {
         "name": "Worry About You",
         "url": "https://open.spotify.com/album/5nmek7NtizCaPrpePZFQkz"
       },
@@ -2387,22 +2387,6 @@
       "duration_ms": 213555,
       "name": "Worry About You",
       "url": "https://open.spotify.com/track/72h5CLklGzoJhWXM9aZzvC"
-    },
-    {
-      "added_at": "2026-05-21 22:00:59",
-      "album": {
-        "name": "Play (Extended Edition)",
-        "url": "https://open.spotify.com/album/7hkuAIT9TEVABBi7WJq5sz"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 207256,
-      "name": "For Always",
-      "url": "https://open.spotify.com/track/0T02ywvKCK8xVKuymZm3AS"
     },
     {
       "added_at": "2026-05-21 22:00:59",
@@ -2439,6 +2423,22 @@
     {
       "added_at": "2026-05-21 22:00:59",
       "album": {
+        "name": "Play (Extended Edition)",
+        "url": "https://open.spotify.com/album/7hkuAIT9TEVABBi7WJq5sz"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 207256,
+      "name": "For Always",
+      "url": "https://open.spotify.com/track/0T02ywvKCK8xVKuymZm3AS"
+    },
+    {
+      "added_at": "2026-05-21 22:00:59",
+      "album": {
         "name": "Wasted Heart",
         "url": "https://open.spotify.com/album/6rW3fwX2xe6AK72266bbir"
       },
@@ -2455,22 +2455,6 @@
     {
       "added_at": "2026-05-21 22:00:59",
       "album": {
-        "name": "You Got Me Hurt",
-        "url": "https://open.spotify.com/album/7HWpd9LdCKeqfbUI92bygI"
-      },
-      "artists": [
-        {
-          "name": "Marnix Emanuel",
-          "url": "https://open.spotify.com/artist/6KGuYVnF7JVw7WpKPdfkvr"
-        }
-      ],
-      "duration_ms": 209476,
-      "name": "You Got Me Hurt",
-      "url": "https://open.spotify.com/track/0OYaJlbQOL5L2IhDt7OlAD"
-    },
-    {
-      "added_at": "2026-05-21 22:00:59",
-      "album": {
         "name": "Never Know",
         "url": "https://open.spotify.com/album/75LO9PTwpX345DOk6EFwcc"
       },
@@ -2483,6 +2467,22 @@
       "duration_ms": 178080,
       "name": "Never Know",
       "url": "https://open.spotify.com/track/0rMNU9aAfSDYNgKH91HJr1"
+    },
+    {
+      "added_at": "2026-05-21 22:00:59",
+      "album": {
+        "name": "You Got Me Hurt",
+        "url": "https://open.spotify.com/album/7HWpd9LdCKeqfbUI92bygI"
+      },
+      "artists": [
+        {
+          "name": "Marnix Emanuel",
+          "url": "https://open.spotify.com/artist/6KGuYVnF7JVw7WpKPdfkvr"
+        }
+      ],
+      "duration_ms": 209476,
+      "name": "You Got Me Hurt",
+      "url": "https://open.spotify.com/track/0OYaJlbQOL5L2IhDt7OlAD"
     },
     {
       "added_at": "2026-05-21 22:00:59",
@@ -2587,22 +2587,6 @@
     {
       "added_at": "2026-05-21 22:00:59",
       "album": {
-        "name": "Y O U",
-        "url": "https://open.spotify.com/album/0zbcEWMDwjdf2jCGYTxdUr"
-      },
-      "artists": [
-        {
-          "name": "Tangarine",
-          "url": "https://open.spotify.com/artist/6M1HAXD9PmL4w7uB5aP659"
-        }
-      ],
-      "duration_ms": 221643,
-      "name": "Here With You - Acoustic",
-      "url": "https://open.spotify.com/track/5LebGpYKQvTVM8PrMIrF99"
-    },
-    {
-      "added_at": "2026-05-21 22:00:59",
-      "album": {
         "name": "In The Cold Light of Monday",
         "url": "https://open.spotify.com/album/4dcllgpFwPz84zxxv0sC4i"
       },
@@ -2615,6 +2599,22 @@
       "duration_ms": 227666,
       "name": "Word's Out",
       "url": "https://open.spotify.com/track/5hfI4QZTb4KgGO358YWh6J"
+    },
+    {
+      "added_at": "2026-05-21 22:00:59",
+      "album": {
+        "name": "Y O U",
+        "url": "https://open.spotify.com/album/0zbcEWMDwjdf2jCGYTxdUr"
+      },
+      "artists": [
+        {
+          "name": "Tangarine",
+          "url": "https://open.spotify.com/artist/6M1HAXD9PmL4w7uB5aP659"
+        }
+      ],
+      "duration_ms": 221643,
+      "name": "Here With You - Acoustic",
+      "url": "https://open.spotify.com/track/5LebGpYKQvTVM8PrMIrF99"
     },
     {
       "added_at": "2026-05-21 22:00:59",
@@ -2635,22 +2635,6 @@
     {
       "added_at": "2026-05-21 22:00:59",
       "album": {
-        "name": "Elba",
-        "url": "https://open.spotify.com/album/4JOtH0irSi1qe7Dtyj2XGT"
-      },
-      "artists": [
-        {
-          "name": "Laura Jansen",
-          "url": "https://open.spotify.com/artist/1Ecagb1V0oVlO0pFKnhYWM"
-        }
-      ],
-      "duration_ms": 237266,
-      "name": "Queen Of Elba",
-      "url": "https://open.spotify.com/track/02qxRNbkok9cAtwiSDQrqw"
-    },
-    {
-      "added_at": "2026-05-21 22:00:59",
-      "album": {
         "name": "I think we should just move in together",
         "url": "https://open.spotify.com/album/2o8g87QqMaH1Xm8nMOCcvv"
       },
@@ -2663,6 +2647,22 @@
       "duration_ms": 245836,
       "name": "Boston",
       "url": "https://open.spotify.com/track/63pmBYIUu7bbGipIOBccyr"
+    },
+    {
+      "added_at": "2026-05-21 22:00:59",
+      "album": {
+        "name": "Elba",
+        "url": "https://open.spotify.com/album/4JOtH0irSi1qe7Dtyj2XGT"
+      },
+      "artists": [
+        {
+          "name": "Laura Jansen",
+          "url": "https://open.spotify.com/artist/1Ecagb1V0oVlO0pFKnhYWM"
+        }
+      ],
+      "duration_ms": 237266,
+      "name": "Queen Of Elba",
+      "url": "https://open.spotify.com/track/02qxRNbkok9cAtwiSDQrqw"
     },
     {
       "added_at": "2026-05-21 22:00:59",
@@ -2763,38 +2763,6 @@
     {
       "added_at": "2026-05-21 22:00:59",
       "album": {
-        "name": "Too Far",
-        "url": "https://open.spotify.com/album/7yjifx3MT8tVacaPBd7rY4"
-      },
-      "artists": [
-        {
-          "name": "remme",
-          "url": "https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5"
-        }
-      ],
-      "duration_ms": 180159,
-      "name": "Too Far",
-      "url": "https://open.spotify.com/track/6JbakVstWcT88jIg5kUyXg"
-    },
-    {
-      "added_at": "2026-05-21 22:00:59",
-      "album": {
-        "name": "Weak In The Knees",
-        "url": "https://open.spotify.com/album/50dhdw314flh7k7IKBDP9p"
-      },
-      "artists": [
-        {
-          "name": "Matt Simons",
-          "url": "https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7"
-        }
-      ],
-      "duration_ms": 186653,
-      "name": "Weak In The Knees",
-      "url": "https://open.spotify.com/track/4iVzeNvV42xwtm4bvKJ2Iu"
-    },
-    {
-      "added_at": "2026-05-21 22:00:59",
-      "album": {
         "name": "Crossroads",
         "url": "https://open.spotify.com/album/0WxWpSTJASFJofnbr7vA76"
       },
@@ -2823,6 +2791,38 @@
       "duration_ms": 186139,
       "name": "I Could Be Wrong",
       "url": "https://open.spotify.com/track/1PkvInIcaxRagzStMGVAi5"
+    },
+    {
+      "added_at": "2026-05-21 22:00:59",
+      "album": {
+        "name": "Too Far",
+        "url": "https://open.spotify.com/album/7yjifx3MT8tVacaPBd7rY4"
+      },
+      "artists": [
+        {
+          "name": "remme",
+          "url": "https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5"
+        }
+      ],
+      "duration_ms": 180159,
+      "name": "Too Far",
+      "url": "https://open.spotify.com/track/6JbakVstWcT88jIg5kUyXg"
+    },
+    {
+      "added_at": "2026-05-21 22:00:59",
+      "album": {
+        "name": "Weak In The Knees",
+        "url": "https://open.spotify.com/album/50dhdw314flh7k7IKBDP9p"
+      },
+      "artists": [
+        {
+          "name": "Matt Simons",
+          "url": "https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7"
+        }
+      ],
+      "duration_ms": 186653,
+      "name": "Weak In The Knees",
+      "url": "https://open.spotify.com/track/4iVzeNvV42xwtm4bvKJ2Iu"
     },
     {
       "added_at": "2026-05-21 22:00:59",
@@ -3075,22 +3075,6 @@
     {
       "added_at": "2026-05-21 22:00:59",
       "album": {
-        "name": "Dog in the Park",
-        "url": "https://open.spotify.com/album/6jdS8PKHxrOCoB15wv2QYD"
-      },
-      "artists": [
-        {
-          "name": "Elephant",
-          "url": "https://open.spotify.com/artist/2cwRR7JVxhEre6f0DNRyvW"
-        }
-      ],
-      "duration_ms": 180346,
-      "name": "Dog in the Park",
-      "url": "https://open.spotify.com/track/7aIt9y0iirchcmXvHOrjBs"
-    },
-    {
-      "added_at": "2026-05-21 22:00:59",
-      "album": {
         "name": "Middle Of The Night (Radio Mix)",
         "url": "https://open.spotify.com/album/7ucOHGF9Ud1nC3SY6KoSiU"
       },
@@ -3107,6 +3091,22 @@
     {
       "added_at": "2026-05-21 22:00:59",
       "album": {
+        "name": "Dog in the Park",
+        "url": "https://open.spotify.com/album/6jdS8PKHxrOCoB15wv2QYD"
+      },
+      "artists": [
+        {
+          "name": "Elephant",
+          "url": "https://open.spotify.com/artist/2cwRR7JVxhEre6f0DNRyvW"
+        }
+      ],
+      "duration_ms": 180346,
+      "name": "Dog in the Park",
+      "url": "https://open.spotify.com/track/7aIt9y0iirchcmXvHOrjBs"
+    },
+    {
+      "added_at": "2026-05-21 22:00:59",
+      "album": {
         "name": "Icarus & The Sun",
         "url": "https://open.spotify.com/album/7hhml09yFIN79J7iL9uPba"
       },
@@ -3119,42 +3119,6 @@
       "duration_ms": 188204,
       "name": "Icarus & The Sun",
       "url": "https://open.spotify.com/track/7KxupcqvShlinKyVDAwNtd"
-    },
-    {
-      "added_at": "2026-05-21 22:00:59",
-      "album": {
-        "name": "Meet You In The Middle",
-        "url": "https://open.spotify.com/album/2UWD7JfYUKklHrdaVN5xGV"
-      },
-      "artists": [
-        {
-          "name": "Orange Skyline",
-          "url": "https://open.spotify.com/artist/2khmzZ3jOfcd9tJ821E6Xx"
-        }
-      ],
-      "duration_ms": 210760,
-      "name": "Meet You In The Middle",
-      "url": "https://open.spotify.com/track/7KNfqyUKqkIkhHV4Xo5g6K"
-    },
-    {
-      "added_at": "2026-05-21 22:00:59",
-      "album": {
-        "name": "Now That We\u2019ve Found Love",
-        "url": "https://open.spotify.com/album/3WULnd7n20VfVa3ROMe9Z8"
-      },
-      "artists": [
-        {
-          "name": "Emil Landman",
-          "url": "https://open.spotify.com/artist/0TaelSp6OIZw6mzikDmDrB"
-        },
-        {
-          "name": "We Said",
-          "url": "https://open.spotify.com/artist/7ECRPQYavYtQFH6gprw7YY"
-        }
-      ],
-      "duration_ms": 154176,
-      "name": "Now That We\u2019ve Found Love",
-      "url": "https://open.spotify.com/track/66ZX9xQyCmwDnGUjwhYwNJ"
     },
     {
       "added_at": "2026-05-21 22:00:59",
@@ -3191,6 +3155,42 @@
       "duration_ms": 213161,
       "name": "Happy in Hindsight",
       "url": "https://open.spotify.com/track/5TTI3j2PFfhjQ9LQT7Xllx"
+    },
+    {
+      "added_at": "2026-05-21 22:00:59",
+      "album": {
+        "name": "Now That We\u2019ve Found Love",
+        "url": "https://open.spotify.com/album/3WULnd7n20VfVa3ROMe9Z8"
+      },
+      "artists": [
+        {
+          "name": "Emil Landman",
+          "url": "https://open.spotify.com/artist/0TaelSp6OIZw6mzikDmDrB"
+        },
+        {
+          "name": "We Said",
+          "url": "https://open.spotify.com/artist/7ECRPQYavYtQFH6gprw7YY"
+        }
+      ],
+      "duration_ms": 154176,
+      "name": "Now That We\u2019ve Found Love",
+      "url": "https://open.spotify.com/track/66ZX9xQyCmwDnGUjwhYwNJ"
+    },
+    {
+      "added_at": "2026-05-21 22:00:59",
+      "album": {
+        "name": "Meet You In The Middle",
+        "url": "https://open.spotify.com/album/2UWD7JfYUKklHrdaVN5xGV"
+      },
+      "artists": [
+        {
+          "name": "Orange Skyline",
+          "url": "https://open.spotify.com/artist/2khmzZ3jOfcd9tJ821E6Xx"
+        }
+      ],
+      "duration_ms": 210760,
+      "name": "Meet You In The Middle",
+      "url": "https://open.spotify.com/track/7KNfqyUKqkIkhHV4Xo5g6K"
     },
     {
       "added_at": "2026-05-21 22:00:59",
@@ -3247,22 +3247,6 @@
     {
       "added_at": "2026-05-21 22:00:59",
       "album": {
-        "name": "Can't Love",
-        "url": "https://open.spotify.com/album/3Qx7wu5jT1IKEG0SGE6Qsl"
-      },
-      "artists": [
-        {
-          "name": "Navarone",
-          "url": "https://open.spotify.com/artist/0He0YUY91AmJKZQ9eDs7j0"
-        }
-      ],
-      "duration_ms": 173040,
-      "name": "Can't Love",
-      "url": "https://open.spotify.com/track/2UZhtIE0dBdPAPzBHzdkwF"
-    },
-    {
-      "added_at": "2026-05-21 22:00:59",
-      "album": {
         "name": "Take A Chance (Acoustic)",
         "url": "https://open.spotify.com/album/6tNEMqxSwtcGDMcQX9wEIf"
       },
@@ -3279,6 +3263,22 @@
       "duration_ms": 166585,
       "name": "Take A Chance - Acoustic",
       "url": "https://open.spotify.com/track/7maJDADttwHBFlcuTzf2s9"
+    },
+    {
+      "added_at": "2026-05-21 22:00:59",
+      "album": {
+        "name": "Can't Love",
+        "url": "https://open.spotify.com/album/3Qx7wu5jT1IKEG0SGE6Qsl"
+      },
+      "artists": [
+        {
+          "name": "Navarone",
+          "url": "https://open.spotify.com/artist/0He0YUY91AmJKZQ9eDs7j0"
+        }
+      ],
+      "duration_ms": 173040,
+      "name": "Can't Love",
+      "url": "https://open.spotify.com/track/2UZhtIE0dBdPAPzBHzdkwF"
     },
     {
       "added_at": "2026-05-21 22:00:59",
@@ -3319,22 +3319,6 @@
     {
       "added_at": "2026-05-21 22:00:59",
       "album": {
-        "name": "Pennies From Heaven",
-        "url": "https://open.spotify.com/album/0FJpIBzbo2EQGGCqUFQMx2"
-      },
-      "artists": [
-        {
-          "name": "Josh Island",
-          "url": "https://open.spotify.com/artist/5VJxJ1utvXvjDV14FzaeN4"
-        }
-      ],
-      "duration_ms": 255000,
-      "name": "Pennies From Heaven",
-      "url": "https://open.spotify.com/track/3lctgxC0qiFwW20NCQn8Oe"
-    },
-    {
-      "added_at": "2026-05-21 22:00:59",
-      "album": {
         "name": "Colors",
         "url": "https://open.spotify.com/album/1JsBybdsBJvct13iVujNb3"
       },
@@ -3351,6 +3335,22 @@
     {
       "added_at": "2026-05-21 22:00:59",
       "album": {
+        "name": "Pennies From Heaven",
+        "url": "https://open.spotify.com/album/0FJpIBzbo2EQGGCqUFQMx2"
+      },
+      "artists": [
+        {
+          "name": "Josh Island",
+          "url": "https://open.spotify.com/artist/5VJxJ1utvXvjDV14FzaeN4"
+        }
+      ],
+      "duration_ms": 255000,
+      "name": "Pennies From Heaven",
+      "url": "https://open.spotify.com/track/3lctgxC0qiFwW20NCQn8Oe"
+    },
+    {
+      "added_at": "2026-05-21 22:00:59",
+      "album": {
         "name": "Blind",
         "url": "https://open.spotify.com/album/6STJr6yb8oKYSItOmRNNUD"
       },
@@ -3363,38 +3363,6 @@
       "duration_ms": 178320,
       "name": "Blind",
       "url": "https://open.spotify.com/track/3anDmW1xckOuO95EgqpMkm"
-    },
-    {
-      "added_at": "2026-05-21 22:00:59",
-      "album": {
-        "name": "Happy New Year",
-        "url": "https://open.spotify.com/album/6GhuV1ZwCgUvirFMZalAAO"
-      },
-      "artists": [
-        {
-          "name": "Blair Davie",
-          "url": "https://open.spotify.com/artist/3sDemA5FWaxfqPJFP2SK8x"
-        }
-      ],
-      "duration_ms": 238333,
-      "name": "Happy New Year",
-      "url": "https://open.spotify.com/track/0HOsCK1j8qOB8WCSmPD1m7"
-    },
-    {
-      "added_at": "2026-05-21 22:00:59",
-      "album": {
-        "name": "DON.T (Acoustic)",
-        "url": "https://open.spotify.com/album/0EJ0RlKKyvYpMrBEI6ljL7"
-      },
-      "artists": [
-        {
-          "name": "MAXINE",
-          "url": "https://open.spotify.com/artist/5dtGl462189xrrzzNRGRnz"
-        }
-      ],
-      "duration_ms": 180859,
-      "name": "DON.T - Acoustic",
-      "url": "https://open.spotify.com/track/0QPLRjYAirGsBwWGXDAh1i"
     },
     {
       "added_at": "2026-05-21 22:00:59",
@@ -3419,18 +3387,34 @@
     {
       "added_at": "2026-05-21 22:00:59",
       "album": {
-        "name": "The Wait Is Over!",
-        "url": "https://open.spotify.com/album/30aDWY29De1BweSR5kEZoY"
+        "name": "DON.T (Acoustic)",
+        "url": "https://open.spotify.com/album/0EJ0RlKKyvYpMrBEI6ljL7"
       },
       "artists": [
         {
-          "name": "Matthew Crosby",
-          "url": "https://open.spotify.com/artist/6USf974SHTa6CJBaXcHO4r"
+          "name": "MAXINE",
+          "url": "https://open.spotify.com/artist/5dtGl462189xrrzzNRGRnz"
         }
       ],
-      "duration_ms": 235800,
-      "name": "The Wait Is Over!",
-      "url": "https://open.spotify.com/track/71ngUdvQfCsmK6pVWv9twa"
+      "duration_ms": 180859,
+      "name": "DON.T - Acoustic",
+      "url": "https://open.spotify.com/track/0QPLRjYAirGsBwWGXDAh1i"
+    },
+    {
+      "added_at": "2026-05-21 22:00:59",
+      "album": {
+        "name": "Happy New Year",
+        "url": "https://open.spotify.com/album/6GhuV1ZwCgUvirFMZalAAO"
+      },
+      "artists": [
+        {
+          "name": "Blair Davie",
+          "url": "https://open.spotify.com/artist/3sDemA5FWaxfqPJFP2SK8x"
+        }
+      ],
+      "duration_ms": 238333,
+      "name": "Happy New Year",
+      "url": "https://open.spotify.com/track/0HOsCK1j8qOB8WCSmPD1m7"
     },
     {
       "added_at": "2026-05-21 22:00:59",
@@ -3447,6 +3431,22 @@
       "duration_ms": 189413,
       "name": "Hold You Up",
       "url": "https://open.spotify.com/track/6mUik98UHYPPDfjqD6sJMG"
+    },
+    {
+      "added_at": "2026-05-21 22:00:59",
+      "album": {
+        "name": "The Wait Is Over!",
+        "url": "https://open.spotify.com/album/30aDWY29De1BweSR5kEZoY"
+      },
+      "artists": [
+        {
+          "name": "Matthew Crosby",
+          "url": "https://open.spotify.com/artist/6USf974SHTa6CJBaXcHO4r"
+        }
+      ],
+      "duration_ms": 235800,
+      "name": "The Wait Is Over!",
+      "url": "https://open.spotify.com/track/71ngUdvQfCsmK6pVWv9twa"
     },
     {
       "added_at": "2026-05-21 22:00:59",

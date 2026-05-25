@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDmc9mJCPQno.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1xzZPyV5jY8bYYNtAUkyOx">Lauren Aquilina</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,227 likes - 130 songs - 6 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,226 likes - 130 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDmc9mJCPQno.md) - [plain]
 | 90 | [If Looks Could Kill](https://open.spotify.com/track/40iz3ixJkBn8vFnnvGQhK1) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [If Looks Could Kill](https://open.spotify.com/album/39DZ3bo9YT32B4LA7TxWOO) | 3:29 |
 | 91 | [Slutphase](https://open.spotify.com/track/1R3QjFdho8jtsv38Hd2BIL) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x) | [Halfway](https://open.spotify.com/album/79Go9MHdjw3lw66GOQXgOK) | 2:43 |
 | 92 | [Backwards](https://open.spotify.com/track/1pgKXLlRX9hnQGpIEdJbrW) | [Weeekly](https://open.spotify.com/artist/73B9bjqS2Z5KLXNGqXf64m) | [ColoRise](https://open.spotify.com/album/1VJ62OC6tQN9n5ss3uEQyr) | 2:41 |
-| 93 | [sims](https://open.spotify.com/track/0mPh3y1fgrZiWlhuNmPq5Y) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [sims](https://open.spotify.com/album/3LezwC2bGCJNNCN5l6hs0y) | 2:42 |
-| 94 | [Hope Is a Scary Thing](https://open.spotify.com/track/2Pn8rE4he6Knz53X3RS896) | [Carol Ades](https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr) | [Late Start](https://open.spotify.com/album/6TrJSxKjdKynXNEwt42PbF) | 2:48 |
+| 93 | [Hope Is a Scary Thing](https://open.spotify.com/track/2Pn8rE4he6Knz53X3RS896) | [Carol Ades](https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr) | [Late Start](https://open.spotify.com/album/6TrJSxKjdKynXNEwt42PbF) | 2:48 |
+| 94 | [sims](https://open.spotify.com/track/0mPh3y1fgrZiWlhuNmPq5Y) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [sims](https://open.spotify.com/album/3LezwC2bGCJNNCN5l6hs0y) | 2:42 |
 | 95 | [Sadtown USA](https://open.spotify.com/track/1JSPW0h57CHHDFABPH6VxR) | [Carol Ades](https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr) | [Special](https://open.spotify.com/album/6Gu8z975FwatmYxpXNG1hh) | 3:10 |
 | 96 | [Cruel To Be Kind](https://open.spotify.com/track/6TrwwLTF6FqnqIqgwDb2SB) | [Ea Kaya](https://open.spotify.com/artist/2cMDCP6zOLaPPbOXMD4193) | [Cruel To Be Kind](https://open.spotify.com/album/2Y5krCslXIJ2BGz6LNU3sP) | 2:53 |
 | 97 | [Midnight Mouths \- filous Remix](https://open.spotify.com/track/4AbHAaspsLIQNwGzWR4bqe) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm), [filous](https://open.spotify.com/artist/2IjiuEObrCKyZvSb8xLxG9) | [Midnight Mouths \(filous Remix\)](https://open.spotify.com/album/316VVViBiKIcbTSamsojmG) | 4:05 |
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDmc9mJCPQno.md) - [plain]
 | 129 | [Ponytail](https://open.spotify.com/track/356sykgkwuqWnvXwq1M1l0) | [XO](https://open.spotify.com/artist/3uRDnagY9HyAPIo7Y34V4r) | [Fashionably Late](https://open.spotify.com/album/1NJ9tmNuz88hJ10dPLLOQH) | 2:36 |
 | 130 | [lie to myself](https://open.spotify.com/track/5p60aTSUb3ZLG1HbUbuJLW) | [amber\-liz](https://open.spotify.com/artist/1OWB13bPhotfvAdQjiIdP5) | [lie to myself](https://open.spotify.com/album/1xtYNQqeWrRvhraE3uiWcs) | 2:33 |
 
-Snapshot ID: `AcSS/AAAAACHtxLBcyNyOFx/D1UYdDK1`
+Snapshot ID: `AcSYnAAAAABomneKFPuIGC9Fo1KGesYx`

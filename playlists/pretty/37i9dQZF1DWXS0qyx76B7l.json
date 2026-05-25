@@ -1,6 +1,6 @@
 {
   "description": "Songs about the iconic city. Welcome to the Big Apple! \ud83d\udcf8 Chappell Roan is Lady Liberty",
-  "num_followers": 150859,
+  "num_followers": 150866,
   "original_name": "I Love NYC",
   "owner": {
     "name": "Spotify",
@@ -341,22 +341,6 @@
       "url": "https://open.spotify.com/track/5LABCxgmP7DATATIJXOh6n"
     },
     {
-      "added_at": "2025-10-03 04:00:34",
-      "album": {
-        "name": "Addison",
-        "url": "https://open.spotify.com/album/2ffVa2UhHUDwMHnr685zJ4"
-      },
-      "artists": [
-        {
-          "name": "Addison Rae",
-          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
-        }
-      ],
-      "duration_ms": 152495,
-      "name": "New York",
-      "url": "https://open.spotify.com/track/0Q9kIg9o8w1XKepXWmDUmT"
-    },
-    {
       "added_at": "2025-08-25 18:53:45",
       "album": {
         "name": "Turnstiles",
@@ -371,6 +355,22 @@
       "duration_ms": 363286,
       "name": "New York State of Mind",
       "url": "https://open.spotify.com/track/6yjKlmm7vOszkXEUku1EM1"
+    },
+    {
+      "added_at": "2025-10-03 04:00:34",
+      "album": {
+        "name": "Addison",
+        "url": "https://open.spotify.com/album/2ffVa2UhHUDwMHnr685zJ4"
+      },
+      "artists": [
+        {
+          "name": "Addison Rae",
+          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
+        }
+      ],
+      "duration_ms": 152495,
+      "name": "New York",
+      "url": "https://open.spotify.com/track/0Q9kIg9o8w1XKepXWmDUmT"
     },
     {
       "added_at": "2025-08-25 18:53:45",
@@ -411,22 +411,6 @@
     {
       "added_at": "2025-08-25 18:53:45",
       "album": {
-        "name": "Bridge Over Troubled Water",
-        "url": "https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV"
-      },
-      "artists": [
-        {
-          "name": "Simon & Garfunkel",
-          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
-        }
-      ],
-      "duration_ms": 241721,
-      "name": "The Only Living Boy in New York",
-      "url": "https://open.spotify.com/track/5MbXzXGbqobR8xPVPs8OXA"
-    },
-    {
-      "added_at": "2025-08-25 18:53:45",
-      "album": {
         "name": "Hums Of The Lovin' Spoonful",
         "url": "https://open.spotify.com/album/3enoBBhSA6i2pXEP8rjAWY"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 160306,
       "name": "Summer in the City - Remastered",
       "url": "https://open.spotify.com/track/7AzFID6u1b3zIWbd9pb8Dk"
+    },
+    {
+      "added_at": "2025-08-25 18:53:45",
+      "album": {
+        "name": "Bridge Over Troubled Water",
+        "url": "https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "duration_ms": 241721,
+      "name": "The Only Living Boy in New York",
+      "url": "https://open.spotify.com/track/5MbXzXGbqobR8xPVPs8OXA"
     },
     {
       "added_at": "2025-08-25 18:53:45",

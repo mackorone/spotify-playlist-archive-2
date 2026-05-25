@@ -6,7 +6,7 @@
     "name": "Monnison",
     "url": "https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss"
   },
-  "snapshot_id": "AAAUTjjjhxDPKXeeSM09zCsBKVwrWywF",
+  "snapshot_id": "AAAUUgMC/cVS2u0HgLDE/qRurcJnDVan",
   "tracks": [
     {
       "added_at": "2026-05-07 22:07:00",
@@ -2763,6 +2763,70 @@
       "duration_ms": 179152,
       "name": "My Apartment Mirror",
       "url": "https://open.spotify.com/track/5cdp7w6A89Svd88GPu4lUA"
+    },
+    {
+      "added_at": "2026-05-24 07:25:26",
+      "album": {
+        "name": "Shadows in the Rain",
+        "url": "https://open.spotify.com/album/5sRVHNjuHYpe18uOAZLBtu"
+      },
+      "artists": [
+        {
+          "name": "Nights Like Thieves",
+          "url": "https://open.spotify.com/artist/4Cko9sylBuS1mZsqiU9692"
+        }
+      ],
+      "duration_ms": 217500,
+      "name": "Shadows in the Rain",
+      "url": "https://open.spotify.com/track/5H1h9lPxcjDFHcF0AcUlQb"
+    },
+    {
+      "added_at": "2026-05-24 07:25:33",
+      "album": {
+        "name": "Pardon My French",
+        "url": "https://open.spotify.com/album/3cBPOh4GAVucPEVj30BPcu"
+      },
+      "artists": [
+        {
+          "name": "Ndukwe",
+          "url": "https://open.spotify.com/artist/5bTGf4KBDXwVohbzdfapB0"
+        }
+      ],
+      "duration_ms": 177190,
+      "name": "Pardon My French",
+      "url": "https://open.spotify.com/track/2DCQbWFEmKvCe4Bt02Bz7o"
+    },
+    {
+      "added_at": "2026-05-24 18:03:10",
+      "album": {
+        "name": "Two natural satellites",
+        "url": "https://open.spotify.com/album/4YFslr8eZMvkCTb9GWVKRQ"
+      },
+      "artists": [
+        {
+          "name": "Lucia Longhi",
+          "url": "https://open.spotify.com/artist/0NkaQYJrOuGSeE6HFjBiqx"
+        }
+      ],
+      "duration_ms": 229560,
+      "name": "Two natural satellites",
+      "url": "https://open.spotify.com/track/41p5ITHv0bIhmevEixtsVO"
+    },
+    {
+      "added_at": "2026-05-24 18:03:12",
+      "album": {
+        "name": "Chamberlain",
+        "url": "https://open.spotify.com/album/5wbDeuswW2DxwN5IL3GTrV"
+      },
+      "artists": [
+        {
+          "name": "Katrina",
+          "url": "https://open.spotify.com/artist/2hpCkArHzQ852NRLx6TG2o"
+        }
+      ],
+      "duration_ms": 181699,
+      "name": "Chamberlain",
+      "url": "https://open.spotify.com/track/6RzVj1GlldWzLeNvmpsaPL"
     }
   ],
   "unique_name": "New Indie Music",

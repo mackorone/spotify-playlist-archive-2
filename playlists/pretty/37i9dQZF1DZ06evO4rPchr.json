@@ -1,12 +1,12 @@
 {
   "description": "This is Arushi Jain. The essential tracks, all in one playlist.",
-  "num_followers": 79,
+  "num_followers": 80,
   "original_name": "This Is Arushi Jain",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ag+cgAAAAAAUPBv6E/D8ivK8XGBh9Zlt",
+  "snapshot_id": "ahDuAAAAAABoySsZAmiWXUE5RkWVEKjS",
   "tracks": [
     {
       "added_at": null,
@@ -167,42 +167,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "vari/ations - Ode to Oram",
-        "url": "https://open.spotify.com/album/6EaY3YNWKI5ViyR2mkI8FJ"
-      },
-      "artists": [
-        {
-          "name": "Daphne Oram",
-          "url": "https://open.spotify.com/artist/5iipMnjR9MbSaS0sioYXKs"
-        },
-        {
-          "name": "Arushi Jain",
-          "url": "https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ"
-        }
-      ],
-      "duration_ms": 245106,
-      "name": "Electronic Music Is Loud",
-      "url": "https://open.spotify.com/track/0LmO1ICHFGsgYvXv3iGjU6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Delight",
-        "url": "https://open.spotify.com/album/5mymmR4PpiIjJgwZOuhNXU"
-      },
-      "artists": [
-        {
-          "name": "Arushi Jain",
-          "url": "https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ"
-        }
-      ],
-      "duration_ms": 294654,
-      "name": "A Portal To Silver Linings",
-      "url": "https://open.spotify.com/track/1847QMgarVgg8Md0LfK8EJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "With & Without",
         "url": "https://open.spotify.com/album/0aR3ME6vD1gGWkSYqxFrWo"
       },
@@ -223,6 +187,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Delight",
+        "url": "https://open.spotify.com/album/5mymmR4PpiIjJgwZOuhNXU"
+      },
+      "artists": [
+        {
+          "name": "Arushi Jain",
+          "url": "https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ"
+        }
+      ],
+      "duration_ms": 294654,
+      "name": "A Portal To Silver Linings",
+      "url": "https://open.spotify.com/track/1847QMgarVgg8Md0LfK8EJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "vari/ations - Ode to Oram",
+        "url": "https://open.spotify.com/album/6EaY3YNWKI5ViyR2mkI8FJ"
+      },
+      "artists": [
+        {
+          "name": "Daphne Oram",
+          "url": "https://open.spotify.com/artist/5iipMnjR9MbSaS0sioYXKs"
+        },
+        {
+          "name": "Arushi Jain",
+          "url": "https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ"
+        }
+      ],
+      "duration_ms": 245106,
+      "name": "Electronic Music Is Loud",
+      "url": "https://open.spotify.com/track/0LmO1ICHFGsgYvXv3iGjU6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Under the Lilac Sky",
         "url": "https://open.spotify.com/album/6LPHMEFOuoscZzQQG2UJEj"
       },
@@ -235,42 +235,6 @@
       "duration_ms": 594500,
       "name": "The Sun Swirls Within You",
       "url": "https://open.spotify.com/track/6F51yoqVfFpHfLKBlsYd6b"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Just a Feeling",
-        "url": "https://open.spotify.com/album/38ypqk1q18yzLtTWbetzIw"
-      },
-      "artists": [
-        {
-          "name": "Arushi Jain",
-          "url": "https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ"
-        },
-        {
-          "name": "OSE",
-          "url": "https://open.spotify.com/artist/4KVimrILKzTkQoo0A0ahvu"
-        }
-      ],
-      "duration_ms": 338546,
-      "name": "Anna",
-      "url": "https://open.spotify.com/track/2pUoIagEfkojQmTlW92nxS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Delight",
-        "url": "https://open.spotify.com/album/5mymmR4PpiIjJgwZOuhNXU"
-      },
-      "artists": [
-        {
-          "name": "Arushi Jain",
-          "url": "https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ"
-        }
-      ],
-      "duration_ms": 267665,
-      "name": "Exquisite Portraiture",
-      "url": "https://open.spotify.com/track/5NLnkoYHzOSQwvdpCAUOqN"
     },
     {
       "added_at": null,
@@ -295,8 +259,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Under the Lilac Sky",
-        "url": "https://open.spotify.com/album/6LPHMEFOuoscZzQQG2UJEj"
+        "name": "Delight",
+        "url": "https://open.spotify.com/album/5mymmR4PpiIjJgwZOuhNXU"
       },
       "artists": [
         {
@@ -304,9 +268,9 @@
           "url": "https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ"
         }
       ],
-      "duration_ms": 581964,
-      "name": "Cultivating Self Love",
-      "url": "https://open.spotify.com/track/58JWS7ldLdrmCN0theav1k"
+      "duration_ms": 266429,
+      "name": "I Surrender",
+      "url": "https://open.spotify.com/track/0QELACvO7OB3XW4FrfrQM5"
     },
     {
       "added_at": null,
@@ -331,8 +295,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Delight",
-        "url": "https://open.spotify.com/album/5mymmR4PpiIjJgwZOuhNXU"
+        "name": "Under the Lilac Sky",
+        "url": "https://open.spotify.com/album/6LPHMEFOuoscZzQQG2UJEj"
       },
       "artists": [
         {
@@ -340,9 +304,9 @@
           "url": "https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ"
         }
       ],
-      "duration_ms": 266429,
-      "name": "I Surrender",
-      "url": "https://open.spotify.com/track/0QELACvO7OB3XW4FrfrQM5"
+      "duration_ms": 581964,
+      "name": "Cultivating Self Love",
+      "url": "https://open.spotify.com/track/58JWS7ldLdrmCN0theav1k"
     },
     {
       "added_at": null,
@@ -367,8 +331,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Under the Lilac Sky",
-        "url": "https://open.spotify.com/album/6LPHMEFOuoscZzQQG2UJEj"
+        "name": "Delight",
+        "url": "https://open.spotify.com/album/5mymmR4PpiIjJgwZOuhNXU"
       },
       "artists": [
         {
@@ -376,9 +340,9 @@
           "url": "https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ"
         }
       ],
-      "duration_ms": 763311,
-      "name": "Under The Lilac Sky",
-      "url": "https://open.spotify.com/track/0a6C3EpA3qmz91mCuQD8ww"
+      "duration_ms": 267665,
+      "name": "Exquisite Portraiture",
+      "url": "https://open.spotify.com/track/5NLnkoYHzOSQwvdpCAUOqN"
     },
     {
       "added_at": null,
@@ -396,9 +360,41 @@
           "url": "https://open.spotify.com/artist/4KVimrILKzTkQoo0A0ahvu"
         }
       ],
-      "duration_ms": 359493,
-      "name": "Farida",
-      "url": "https://open.spotify.com/track/75sS8w13lxeUTKx6k0HR0K"
+      "duration_ms": 338546,
+      "name": "Anna",
+      "url": "https://open.spotify.com/track/2pUoIagEfkojQmTlW92nxS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Under the Lilac Sky",
+        "url": "https://open.spotify.com/album/6LPHMEFOuoscZzQQG2UJEj"
+      },
+      "artists": [
+        {
+          "name": "Arushi Jain",
+          "url": "https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ"
+        }
+      ],
+      "duration_ms": 763311,
+      "name": "Under The Lilac Sky",
+      "url": "https://open.spotify.com/track/0a6C3EpA3qmz91mCuQD8ww"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bravespace (Presented by the Smithsonian Asian Pacific American Center)",
+        "url": "https://open.spotify.com/album/70eaiN3oZg5g34RMOAO2HY"
+      },
+      "artists": [
+        {
+          "name": "Arushi Jain",
+          "url": "https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ"
+        }
+      ],
+      "duration_ms": 306548,
+      "name": "A Salve That Travels Time",
+      "url": "https://open.spotify.com/track/4DW5SyJfmovob9O7UDxFHN"
     },
     {
       "added_at": null,
@@ -419,18 +415,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bravespace (Presented by the Smithsonian Asian Pacific American Center)",
-        "url": "https://open.spotify.com/album/70eaiN3oZg5g34RMOAO2HY"
+        "name": "Just a Feeling",
+        "url": "https://open.spotify.com/album/38ypqk1q18yzLtTWbetzIw"
       },
       "artists": [
         {
           "name": "Arushi Jain",
           "url": "https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ"
+        },
+        {
+          "name": "OSE",
+          "url": "https://open.spotify.com/artist/4KVimrILKzTkQoo0A0ahvu"
         }
       ],
-      "duration_ms": 306548,
-      "name": "A Salve That Travels Time",
-      "url": "https://open.spotify.com/track/4DW5SyJfmovob9O7UDxFHN"
+      "duration_ms": 359493,
+      "name": "Farida",
+      "url": "https://open.spotify.com/track/75sS8w13lxeUTKx6k0HR0K"
     },
     {
       "added_at": null,

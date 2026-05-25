@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKF47cYSezkT.md) - [plain]
 | 62 | [Ego Rush](https://open.spotify.com/track/5405yu0tbDmDA1iSJNbrta) | [evi](https://open.spotify.com/artist/4ghErCwnofIBeuzwJSCgpH) | [Ego Rush](https://open.spotify.com/album/6PUUdGSQCZs1bu30g5fUac) | 2:39 |
 | 63 | [Everything's Not Fine](https://open.spotify.com/track/6fvFzv3h94tKr9SWhR6SSh) | [PHIA](https://open.spotify.com/artist/6O6aPDrL58wZRzQ6Rqq9or) | [Everything's Not Fine](https://open.spotify.com/album/5tCSaDGt7dqIMBTuWCCx5P) | 2:59 |
 | 64 | [I Wish I Could Hate You](https://open.spotify.com/track/1JPfkgHaqocgWZzKrDZtK9) | [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB) | [Sorry I’m Late](https://open.spotify.com/album/19ocAIrde9wq6p3CcXvRNI) | 3:09 |
-| 65 | [i wanna rip ur clothes off!!!!](https://open.spotify.com/track/0cB5RfqscOk1fdht6L7XoK) | [Annika Wells](https://open.spotify.com/artist/0kErUwb6xgWfkdn0RyZWHZ) | [EAT DIRT](https://open.spotify.com/album/3CBEtKYSJUWmTEydfywjOy) | 2:35 |
-| 66 | [Girl](https://open.spotify.com/track/4vKESbCDvQW5Ih9JZ3Erzt) | [SOYOU](https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb) | [Off Hours](https://open.spotify.com/album/6i9BLGR16gdGMCJGpN8clh) | 2:58 |
+| 65 | [Girl](https://open.spotify.com/track/4vKESbCDvQW5Ih9JZ3Erzt) | [SOYOU](https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb) | [Off Hours](https://open.spotify.com/album/6i9BLGR16gdGMCJGpN8clh) | 2:58 |
+| 66 | [i wanna rip ur clothes off!!!!](https://open.spotify.com/track/0cB5RfqscOk1fdht6L7XoK) | [Annika Wells](https://open.spotify.com/artist/0kErUwb6xgWfkdn0RyZWHZ) | [EAT DIRT](https://open.spotify.com/album/3CBEtKYSJUWmTEydfywjOy) | 2:35 |
 | 67 | [What Happened](https://open.spotify.com/track/6oYDesnbzrC6Hzbd9Tk17y) | [Leith](https://open.spotify.com/artist/6NloIpzx0PEcGY2NJVVjc1) | [What Happened](https://open.spotify.com/album/6epAWsXHGwVc8utKHf1wmI) | 3:10 |
 | 68 | [Lose Somebody](https://open.spotify.com/track/1s4Cg0FHPw8KUukkKoZMEE) | [Nick Kent](https://open.spotify.com/artist/2GrQlgROQcxhzI3JtRrTCi) | [Lose Somebody](https://open.spotify.com/album/7cTNrDpINUiWiXPDAuftJf) | 3:17 |
 | 69 | [FRENZY](https://open.spotify.com/track/2i7wAvt3J23eaFF6d2HXE8) | [ChoCo1](https://open.spotify.com/artist/48ZmNBITUcYWmWZqoaIEAi), [ChoCo2](https://open.spotify.com/artist/479LeQR94Is2uPXyljxis8) | [ChoCo La Familia](https://open.spotify.com/album/1hmIzxtNhUckTodNrNc9C8) | 2:51 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKF47cYSezkT.md) - [plain]
 | 73 | [Friends Don’t Kiss](https://open.spotify.com/track/7oMIOHGORbE4rwDraclfaS) | [PHIA](https://open.spotify.com/artist/6O6aPDrL58wZRzQ6Rqq9or) | [Friends Don’t Kiss](https://open.spotify.com/album/5sZV7YFrB2x3f1M31U6UlU) | 2:38 |
 | 74 | [Not Forever](https://open.spotify.com/track/79vrFGr0QHTgV4hvLELx0X) | [Iilysh Retallick](https://open.spotify.com/artist/6iCyXopvbv85uT2ltUaGOW) | [Not Forever](https://open.spotify.com/album/19Dq8eAOPsLFMcxCaZLO04) | 3:14 |
 
-Snapshot ID: `AcSS/AAAAABvBTVyWFX3VPmaM0+OpeUS`
+Snapshot ID: `AcSYnAAAAAAcq0jX01gFZ11q0+4mP1+P`

@@ -1,12 +1,12 @@
 {
   "description": "This is Willie Nelson. The essential tracks, all in one playlist.",
-  "num_followers": 204707,
+  "num_followers": 204713,
   "original_name": "This Is Willie Nelson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ag+cgAAAAAAiqvQuL32h4iRhXGkwziW1",
+  "snapshot_id": "ahDuAAAAAABz/7iMQYsl6+WAVzkX3zbR",
   "tracks": [
     {
       "added_at": null,
@@ -379,6 +379,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Friendship",
+        "url": "https://open.spotify.com/album/4tgLQ8VwHXVBkRi3beX95g"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        },
+        {
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+        }
+      ],
+      "duration_ms": 231026,
+      "name": "Seven Spanish Angels (with Ray Charles)",
+      "url": "https://open.spotify.com/track/51EKPuV1uAWryjNMqZLtgJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Live - American Outlaws",
         "url": "https://open.spotify.com/album/3chopONx6vQ8Ky4q5xqtbR"
       },
@@ -407,26 +427,6 @@
       "duration_ms": 198133,
       "name": "(Ghost) Riders in the Sky - Live at Nassau Coliseum, Uniondale, NY - March 1990",
       "url": "https://open.spotify.com/track/3ST1SVHTxxiGodhUeASN3h"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Friendship",
-        "url": "https://open.spotify.com/album/4tgLQ8VwHXVBkRi3beX95g"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        },
-        {
-          "name": "Ray Charles",
-          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
-        }
-      ],
-      "duration_ms": 231026,
-      "name": "Seven Spanish Angels (with Ray Charles)",
-      "url": "https://open.spotify.com/track/51EKPuV1uAWryjNMqZLtgJ"
     },
     {
       "added_at": null,
@@ -575,6 +575,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "City Of New Orleans",
+        "url": "https://open.spotify.com/album/7sZ5lfnlyqmnlcInnKf3o3"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 291857,
+      "name": "City of New Orleans",
+      "url": "https://open.spotify.com/track/15qBdyeOsal1QJvB3ysW9g"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "American Classic",
         "url": "https://open.spotify.com/album/1tUvHnprAPtpCVmwA1B5WI"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 261706,
       "name": "If I Had You",
       "url": "https://open.spotify.com/track/13wnRucX2HNMXfYZWz070v"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "City Of New Orleans",
-        "url": "https://open.spotify.com/album/7sZ5lfnlyqmnlcInnKf3o3"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 291857,
-      "name": "City of New Orleans",
-      "url": "https://open.spotify.com/track/15qBdyeOsal1QJvB3ysW9g"
     },
     {
       "added_at": null,
@@ -827,22 +827,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "We'd Make A Good Movie",
-        "url": "https://open.spotify.com/album/3lpVPRuaulx4hl0JzjteU1"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 212546,
-      "name": "We'd Make A Good Movie",
-      "url": "https://open.spotify.com/track/54hGrZ6lgi51YYnsfTRIaF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tuskegee (Deluxe Version)",
         "url": "https://open.spotify.com/album/5FnNO3IO6veN62ZdaV7j3z"
       },
@@ -859,22 +843,6 @@
       "duration_ms": 270573,
       "name": "Easy",
       "url": "https://open.spotify.com/track/2eA160jLLoHiJKOqvOFKJt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Music of Red Dead Redemption 2 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/5Oli3gQJrHdahY7FDEoofW"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 148293,
-      "name": "Cruel World",
-      "url": "https://open.spotify.com/track/166Dyvfibu4SOygA4vub85"
     },
     {
       "added_at": null,
@@ -899,6 +867,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Music of Red Dead Redemption 2 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5Oli3gQJrHdahY7FDEoofW"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 148293,
+      "name": "Cruel World",
+      "url": "https://open.spotify.com/track/166Dyvfibu4SOygA4vub85"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "French Touch",
         "url": "https://open.spotify.com/album/2bHQTGyLGnwMDqrsuMvTsQ"
       },
@@ -919,22 +903,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "And Then I Wrote",
-        "url": "https://open.spotify.com/album/2Bsr45EWfyrQEUDfGhJwyu"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 173001,
-      "name": "Crazy",
-      "url": "https://open.spotify.com/track/0xqtcLB45iKNfHroi5y1em"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dream Chaser",
         "url": "https://open.spotify.com/album/0UxpZGAr4nfENjVjS2OXiR"
       },
@@ -947,6 +915,22 @@
       "duration_ms": 194693,
       "name": "Dream Chaser",
       "url": "https://open.spotify.com/track/0zHVrC2G5mCIFRBCu8z90l"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "And Then I Wrote",
+        "url": "https://open.spotify.com/album/2Bsr45EWfyrQEUDfGhJwyu"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 173001,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/0xqtcLB45iKNfHroi5y1em"
     },
     {
       "added_at": null,
@@ -967,8 +951,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Essential Willie Nelson",
-        "url": "https://open.spotify.com/album/46xgry5j79IBHzX73dkgYU"
+        "name": "We'd Make A Good Movie",
+        "url": "https://open.spotify.com/album/3lpVPRuaulx4hl0JzjteU1"
       },
       "artists": [
         {
@@ -976,9 +960,9 @@
           "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
         }
       ],
-      "duration_ms": 183453,
-      "name": "My Heroes Have Always Been Cowboys",
-      "url": "https://open.spotify.com/track/0dlNwpfDzFIKdtuJSnHbzK"
+      "duration_ms": 212546,
+      "name": "We'd Make A Good Movie",
+      "url": "https://open.spotify.com/track/54hGrZ6lgi51YYnsfTRIaF"
     },
     {
       "added_at": null,
@@ -999,8 +983,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "And Then I Wrote",
-        "url": "https://open.spotify.com/album/2Bsr45EWfyrQEUDfGhJwyu"
+        "name": "The Essential Willie Nelson",
+        "url": "https://open.spotify.com/album/46xgry5j79IBHzX73dkgYU"
       },
       "artists": [
         {
@@ -1008,9 +992,9 @@
           "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
         }
       ],
-      "duration_ms": 185409,
-      "name": "Funny How Time Slips Away",
-      "url": "https://open.spotify.com/track/0hXHpNiW5dHv21aUhYDEnA"
+      "duration_ms": 183453,
+      "name": "My Heroes Have Always Been Cowboys",
+      "url": "https://open.spotify.com/track/0dlNwpfDzFIKdtuJSnHbzK"
     },
     {
       "added_at": null,
@@ -1027,6 +1011,22 @@
       "duration_ms": 154160,
       "name": "Stay All Night (Stay a Little Longer)",
       "url": "https://open.spotify.com/track/0ZXmbQXKbfXO8Cv9qxPdZu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "And Then I Wrote",
+        "url": "https://open.spotify.com/album/2Bsr45EWfyrQEUDfGhJwyu"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 185409,
+      "name": "Funny How Time Slips Away",
+      "url": "https://open.spotify.com/track/0hXHpNiW5dHv21aUhYDEnA"
     },
     {
       "added_at": null,
@@ -1087,22 +1087,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "And Then I Wrote",
-        "url": "https://open.spotify.com/album/2Bsr45EWfyrQEUDfGhJwyu"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 146109,
-      "name": "Hello Walls",
-      "url": "https://open.spotify.com/track/27hpjHYx6duzBH99XW7ENn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sinner",
         "url": "https://open.spotify.com/album/0CJrzaavg6xQaIKolWD83H"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 211146,
       "name": "Sinner",
       "url": "https://open.spotify.com/track/34jUlISPpEYnJqzPc7B7Sh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "And Then I Wrote",
+        "url": "https://open.spotify.com/album/2Bsr45EWfyrQEUDfGhJwyu"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 146109,
+      "name": "Hello Walls",
+      "url": "https://open.spotify.com/track/27hpjHYx6duzBH99XW7ENn"
     }
   ],
   "unique_name": "This Is Willie Nelson",

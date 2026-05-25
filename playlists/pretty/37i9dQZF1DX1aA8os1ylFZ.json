@@ -1,6 +1,6 @@
 {
   "description": "De beste nieuwe R&B releases | Cover: Chris Brown",
-  "num_followers": 294630,
+  "num_followers": 294626,
   "original_name": "R&B Magic",
   "owner": {
     "name": "Spotify",
@@ -703,22 +703,6 @@
     {
       "added_at": "2026-05-21 22:01:49",
       "album": {
-        "name": "Spend It",
-        "url": "https://open.spotify.com/album/1bbRn3bCzOPvjbShgj26K9"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Spend It",
-      "url": "https://open.spotify.com/track/290eKCMBc9f9CcSLFuQrim"
-    },
-    {
-      "added_at": "2026-05-21 22:01:49",
-      "album": {
         "name": "Miss That",
         "url": "https://open.spotify.com/album/2BOViTOt2OUGdjGWpjT8t9"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 176316,
       "name": "Miss That",
       "url": "https://open.spotify.com/track/32C7nsEacy74cB3tlJQCaE"
+    },
+    {
+      "added_at": "2026-05-21 22:01:49",
+      "album": {
+        "name": "Spend It",
+        "url": "https://open.spotify.com/album/1bbRn3bCzOPvjbShgj26K9"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Spend It",
+      "url": "https://open.spotify.com/track/290eKCMBc9f9CcSLFuQrim"
     },
     {
       "added_at": "2026-05-21 22:01:49",

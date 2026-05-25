@@ -1,6 +1,6 @@
 {
   "description": "let the dj set u free \u2764\ufe0f\u200d\ud83e\ude79",
-  "num_followers": 852600,
+  "num_followers": 852629,
   "original_name": "crying on the dance floor",
   "owner": {
     "name": "Spotify",
@@ -847,18 +847,26 @@
     {
       "added_at": "2026-05-15 15:22:48",
       "album": {
-        "name": "ifidiewouldyoucry",
-        "url": "https://open.spotify.com/album/0zVkI5YslrZzkokFmT46UV"
+        "name": "Without You (feat. Sasha Alex Sloan)",
+        "url": "https://open.spotify.com/album/7EAs7BfYqQ1vmzBzI529Nk"
       },
       "artists": [
         {
-          "name": "AVAION",
-          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "name": "AVELLO",
+          "url": "https://open.spotify.com/artist/1ZR5GnPw0Jkb5M4hnBwzuZ"
+        },
+        {
+          "name": "Sasha Alex Sloan",
+          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
         }
       ],
-      "duration_ms": 175037,
-      "name": "ifidiewouldyoucry",
-      "url": "https://open.spotify.com/track/7r0yL0EKUT02hG1SCIzWHC"
+      "duration_ms": 176258,
+      "name": "Without You (feat. Sasha Alex Sloan)",
+      "url": "https://open.spotify.com/track/57LQfowCxQ3BmdlsyN9leg"
     },
     {
       "added_at": "2026-05-15 15:22:48",
@@ -883,26 +891,18 @@
     {
       "added_at": "2026-05-15 15:22:48",
       "album": {
-        "name": "Without You (feat. Sasha Alex Sloan)",
-        "url": "https://open.spotify.com/album/7EAs7BfYqQ1vmzBzI529Nk"
+        "name": "ifidiewouldyoucry",
+        "url": "https://open.spotify.com/album/0zVkI5YslrZzkokFmT46UV"
       },
       "artists": [
         {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
-        },
-        {
-          "name": "AVELLO",
-          "url": "https://open.spotify.com/artist/1ZR5GnPw0Jkb5M4hnBwzuZ"
-        },
-        {
-          "name": "Sasha Alex Sloan",
-          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
+          "name": "AVAION",
+          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
         }
       ],
-      "duration_ms": 176258,
-      "name": "Without You (feat. Sasha Alex Sloan)",
-      "url": "https://open.spotify.com/track/57LQfowCxQ3BmdlsyN9leg"
+      "duration_ms": 175037,
+      "name": "ifidiewouldyoucry",
+      "url": "https://open.spotify.com/track/7r0yL0EKUT02hG1SCIzWHC"
     },
     {
       "added_at": "2026-05-15 15:22:48",
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2026-05-15 15:22:48",
       "album": {
+        "name": "Take My Space",
+        "url": "https://open.spotify.com/album/62SfUalXptRGizTRybkeXH"
+      },
+      "artists": [
+        {
+          "name": "nimino",
+          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
+        }
+      ],
+      "duration_ms": 143473,
+      "name": "Take My Space",
+      "url": "https://open.spotify.com/track/3cIbR7s1wSEhesuYLRD9ij"
+    },
+    {
+      "added_at": "2026-05-15 15:22:48",
+      "album": {
         "name": "Nothing Left",
         "url": "https://open.spotify.com/album/4DD6FbOoiOaBbLx6yGFJuS"
       },
@@ -1299,22 +1315,6 @@
       "duration_ms": 180303,
       "name": "Nothing Left",
       "url": "https://open.spotify.com/track/7GQNTnBqlAPa3lQMWeIvUa"
-    },
-    {
-      "added_at": "2026-05-15 15:22:48",
-      "album": {
-        "name": "Take My Space",
-        "url": "https://open.spotify.com/album/62SfUalXptRGizTRybkeXH"
-      },
-      "artists": [
-        {
-          "name": "nimino",
-          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
-        }
-      ],
-      "duration_ms": 143473,
-      "name": "Take My Space",
-      "url": "https://open.spotify.com/track/3cIbR7s1wSEhesuYLRD9ij"
     },
     {
       "added_at": "2026-05-15 15:22:48",
@@ -1379,26 +1379,6 @@
     {
       "added_at": "2026-05-15 15:22:48",
       "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/66nEONspKcrUL2BiKo0U4t"
-      },
-      "artists": [
-        {
-          "name": "Jasper Tygner",
-          "url": "https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh"
-        },
-        {
-          "name": "Kaeto",
-          "url": "https://open.spotify.com/artist/49haq8aaaDI1pXbY1XcQaK"
-        }
-      ],
-      "duration_ms": 200637,
-      "name": "When You're Gone",
-      "url": "https://open.spotify.com/track/1CfsBC96b0vxey9aVAkQlg"
-    },
-    {
-      "added_at": "2026-05-15 15:22:48",
-      "album": {
         "name": "PRESSURE",
         "url": "https://open.spotify.com/album/5R6Hhxu8qohIsu7w3nJDfo"
       },
@@ -1419,6 +1399,26 @@
       "duration_ms": 205970,
       "name": "PRESSURE",
       "url": "https://open.spotify.com/track/6pJ8wNE7qPzbpBM0ARW90m"
+    },
+    {
+      "added_at": "2026-05-15 15:22:48",
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/66nEONspKcrUL2BiKo0U4t"
+      },
+      "artists": [
+        {
+          "name": "Jasper Tygner",
+          "url": "https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh"
+        },
+        {
+          "name": "Kaeto",
+          "url": "https://open.spotify.com/artist/49haq8aaaDI1pXbY1XcQaK"
+        }
+      ],
+      "duration_ms": 200637,
+      "name": "When You're Gone",
+      "url": "https://open.spotify.com/track/1CfsBC96b0vxey9aVAkQlg"
     },
     {
       "added_at": "2026-05-15 15:22:48",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2026-05-15 15:22:48",
       "album": {
-        "name": "Irreplaceable",
-        "url": "https://open.spotify.com/album/0ZqOqdKsfpH2hX6ihfSQWv"
-      },
-      "artists": [
-        {
-          "name": "MashBit",
-          "url": "https://open.spotify.com/artist/2ZUktxXMg0flZ5HGHSd5HZ"
-        }
-      ],
-      "duration_ms": 221984,
-      "name": "Irreplaceable",
-      "url": "https://open.spotify.com/track/79slKnl1QR5Ah6hgJqThpw"
-    },
-    {
-      "added_at": "2026-05-15 15:22:48",
-      "album": {
         "name": "MEMORY",
         "url": "https://open.spotify.com/album/6UePR9HLeto8k38tIcbLsO"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 196590,
       "name": "MEMORY",
       "url": "https://open.spotify.com/track/4XKYLo1eAUFETIt5PLy8ZG"
+    },
+    {
+      "added_at": "2026-05-15 15:22:48",
+      "album": {
+        "name": "Irreplaceable",
+        "url": "https://open.spotify.com/album/0ZqOqdKsfpH2hX6ihfSQWv"
+      },
+      "artists": [
+        {
+          "name": "MashBit",
+          "url": "https://open.spotify.com/artist/2ZUktxXMg0flZ5HGHSd5HZ"
+        }
+      ],
+      "duration_ms": 221984,
+      "name": "Irreplaceable",
+      "url": "https://open.spotify.com/track/79slKnl1QR5Ah6hgJqThpw"
     },
     {
       "added_at": "2026-05-15 15:22:48",
@@ -1651,6 +1651,22 @@
     {
       "added_at": "2026-05-15 15:22:48",
       "album": {
+        "name": "Break My Love",
+        "url": "https://open.spotify.com/album/52LgW9Zy9r1T3uVsT07Y6Y"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        }
+      ],
+      "duration_ms": 260400,
+      "name": "Break My Love",
+      "url": "https://open.spotify.com/track/3tqyv30P7pO53IAIUo8IeN"
+    },
+    {
+      "added_at": "2026-05-15 15:22:48",
+      "album": {
         "name": "Loop",
         "url": "https://open.spotify.com/album/08THJAm0P4Po6FzhvRVftg"
       },
@@ -1675,18 +1691,18 @@
     {
       "added_at": "2026-05-15 15:22:48",
       "album": {
-        "name": "Break My Love",
-        "url": "https://open.spotify.com/album/52LgW9Zy9r1T3uVsT07Y6Y"
+        "name": "kidsgonemad!",
+        "url": "https://open.spotify.com/album/2rMP8tQaoWn14zQM2zUOzG"
       },
       "artists": [
         {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+          "name": "ISOxo",
+          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
         }
       ],
-      "duration_ms": 260400,
-      "name": "Break My Love",
-      "url": "https://open.spotify.com/track/3tqyv30P7pO53IAIUo8IeN"
+      "duration_ms": 241714,
+      "name": "how2fly",
+      "url": "https://open.spotify.com/track/2fga4JgHuq91W9HiTfo9GC"
     },
     {
       "added_at": "2026-05-15 15:22:48",
@@ -1715,22 +1731,6 @@
       "duration_ms": 209600,
       "name": "HEART ATTACK",
       "url": "https://open.spotify.com/track/4F8wogXmIgCXEsi1FK0gH4"
-    },
-    {
-      "added_at": "2026-05-15 15:22:48",
-      "album": {
-        "name": "kidsgonemad!",
-        "url": "https://open.spotify.com/album/2rMP8tQaoWn14zQM2zUOzG"
-      },
-      "artists": [
-        {
-          "name": "ISOxo",
-          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
-        }
-      ],
-      "duration_ms": 241714,
-      "name": "how2fly",
-      "url": "https://open.spotify.com/track/2fga4JgHuq91W9HiTfo9GC"
     },
     {
       "added_at": "2026-05-15 15:22:48",
@@ -1859,22 +1859,6 @@
     {
       "added_at": "2026-05-15 15:22:48",
       "album": {
-        "name": "Naked",
-        "url": "https://open.spotify.com/album/5kD4QTNVhJi1KKXPKBGuib"
-      },
-      "artists": [
-        {
-          "name": "Kenya Grace",
-          "url": "https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2"
-        }
-      ],
-      "duration_ms": 219185,
-      "name": "Naked",
-      "url": "https://open.spotify.com/track/7Mf9juqgr5vWfCGHsPaWHl"
-    },
-    {
-      "added_at": "2026-05-15 15:22:48",
-      "album": {
         "name": "I Guess We\u2019re Not The Same",
         "url": "https://open.spotify.com/album/2qcjJEhyv2SCJOphfOIGZ3"
       },
@@ -1887,6 +1871,22 @@
       "duration_ms": 211575,
       "name": "I Guess We're Not The Same",
       "url": "https://open.spotify.com/track/36nYS9AwMR06ph6imdjn7J"
+    },
+    {
+      "added_at": "2026-05-15 15:22:48",
+      "album": {
+        "name": "Naked",
+        "url": "https://open.spotify.com/album/5kD4QTNVhJi1KKXPKBGuib"
+      },
+      "artists": [
+        {
+          "name": "Kenya Grace",
+          "url": "https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2"
+        }
+      ],
+      "duration_ms": 219185,
+      "name": "Naked",
+      "url": "https://open.spotify.com/track/7Mf9juqgr5vWfCGHsPaWHl"
     },
     {
       "added_at": "2026-05-15 15:22:48",
@@ -1907,22 +1907,6 @@
     {
       "added_at": "2026-05-15 15:22:48",
       "album": {
-        "name": "Don't Say Goodbye",
-        "url": "https://open.spotify.com/album/1Unb6I8rlEgLeWSHgftLRA"
-      },
-      "artists": [
-        {
-          "name": "MashBit",
-          "url": "https://open.spotify.com/artist/2ZUktxXMg0flZ5HGHSd5HZ"
-        }
-      ],
-      "duration_ms": 188338,
-      "name": "Don't Say Goodbye",
-      "url": "https://open.spotify.com/track/6thBFNZvOqCtN4fU2lDGPs"
-    },
-    {
-      "added_at": "2026-05-15 15:22:48",
-      "album": {
         "name": "Driving Fast",
         "url": "https://open.spotify.com/album/1LM3dBanBig1Fqy4IwF0E8"
       },
@@ -1939,6 +1923,22 @@
       "duration_ms": 187500,
       "name": "Driving Fast",
       "url": "https://open.spotify.com/track/6bVY1XClQ5LNXZsF9J7uOz"
+    },
+    {
+      "added_at": "2026-05-15 15:22:48",
+      "album": {
+        "name": "Don't Say Goodbye",
+        "url": "https://open.spotify.com/album/1Unb6I8rlEgLeWSHgftLRA"
+      },
+      "artists": [
+        {
+          "name": "MashBit",
+          "url": "https://open.spotify.com/artist/2ZUktxXMg0flZ5HGHSd5HZ"
+        }
+      ],
+      "duration_ms": 188338,
+      "name": "Don't Say Goodbye",
+      "url": "https://open.spotify.com/track/6thBFNZvOqCtN4fU2lDGPs"
     },
     {
       "added_at": "2026-05-15 15:22:48",
@@ -1979,46 +1979,22 @@
     {
       "added_at": "2026-05-15 15:22:48",
       "album": {
-        "name": "Miss Me",
-        "url": "https://open.spotify.com/album/6eE9z8gsSfs1GGRVU18hH4"
+        "name": "Mid Air",
+        "url": "https://open.spotify.com/album/7vQRJ5q9b0c4gKrsh9yIhE"
       },
       "artists": [
         {
-          "name": "Cheat Codes",
-          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
         },
         {
-          "name": "ALT\u00c9GO",
-          "url": "https://open.spotify.com/artist/2f1gRV8q7Wua3x7dkoWrbS"
-        },
-        {
-          "name": "Hannah Boleyn",
-          "url": "https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR"
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
         }
       ],
-      "duration_ms": 144666,
-      "name": "Miss Me",
-      "url": "https://open.spotify.com/track/6FuZnxyt5eEzGdVQEeLtAC"
-    },
-    {
-      "added_at": "2026-05-15 15:22:48",
-      "album": {
-        "name": "Crashing Down",
-        "url": "https://open.spotify.com/album/7KiXlo5ZH1O5fPCRyoWWXb"
-      },
-      "artists": [
-        {
-          "name": "MashBit",
-          "url": "https://open.spotify.com/artist/2ZUktxXMg0flZ5HGHSd5HZ"
-        },
-        {
-          "name": "Syence",
-          "url": "https://open.spotify.com/artist/4VfTgWhy9PKLJN3xKJcDqf"
-        }
-      ],
-      "duration_ms": 186884,
-      "name": "Crashing Down",
-      "url": "https://open.spotify.com/track/1vvahR9zmdgvhybeEqkOeX"
+      "duration_ms": 234053,
+      "name": "Strong",
+      "url": "https://open.spotify.com/track/6P10HAaNFfKsdWPJyKd6Di"
     },
     {
       "added_at": "2026-05-15 15:22:48",
@@ -2047,22 +2023,46 @@
     {
       "added_at": "2026-05-15 15:22:48",
       "album": {
-        "name": "Mid Air",
-        "url": "https://open.spotify.com/album/7vQRJ5q9b0c4gKrsh9yIhE"
+        "name": "Crashing Down",
+        "url": "https://open.spotify.com/album/7KiXlo5ZH1O5fPCRyoWWXb"
       },
       "artists": [
         {
-          "name": "Romy",
-          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
+          "name": "MashBit",
+          "url": "https://open.spotify.com/artist/2ZUktxXMg0flZ5HGHSd5HZ"
         },
         {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+          "name": "Syence",
+          "url": "https://open.spotify.com/artist/4VfTgWhy9PKLJN3xKJcDqf"
         }
       ],
-      "duration_ms": 234053,
-      "name": "Strong",
-      "url": "https://open.spotify.com/track/6P10HAaNFfKsdWPJyKd6Di"
+      "duration_ms": 186884,
+      "name": "Crashing Down",
+      "url": "https://open.spotify.com/track/1vvahR9zmdgvhybeEqkOeX"
+    },
+    {
+      "added_at": "2026-05-15 15:22:48",
+      "album": {
+        "name": "Miss Me",
+        "url": "https://open.spotify.com/album/6eE9z8gsSfs1GGRVU18hH4"
+      },
+      "artists": [
+        {
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+        },
+        {
+          "name": "ALT\u00c9GO",
+          "url": "https://open.spotify.com/artist/2f1gRV8q7Wua3x7dkoWrbS"
+        },
+        {
+          "name": "Hannah Boleyn",
+          "url": "https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR"
+        }
+      ],
+      "duration_ms": 144666,
+      "name": "Miss Me",
+      "url": "https://open.spotify.com/track/6FuZnxyt5eEzGdVQEeLtAC"
     },
     {
       "added_at": "2026-05-15 15:22:48",
@@ -2079,6 +2079,22 @@
       "duration_ms": 166153,
       "name": "Everywhere",
       "url": "https://open.spotify.com/track/2hIlV0UAOhsbvRp9KV1pOG"
+    },
+    {
+      "added_at": "2026-05-15 15:22:48",
+      "album": {
+        "name": "Anestesia",
+        "url": "https://open.spotify.com/album/1Bta845oR23nfA6VqkIVjc"
+      },
+      "artists": [
+        {
+          "name": "Pato Shoucair",
+          "url": "https://open.spotify.com/artist/5PBJkBd4ipAxK7D36jkJNC"
+        }
+      ],
+      "duration_ms": 158400,
+      "name": "Anestesia",
+      "url": "https://open.spotify.com/track/1mjapXQHm6DapzTlGNKdBi"
     },
     {
       "added_at": "2026-05-15 15:22:48",
@@ -2119,54 +2135,6 @@
     {
       "added_at": "2026-05-15 15:22:48",
       "album": {
-        "name": "Anestesia",
-        "url": "https://open.spotify.com/album/1Bta845oR23nfA6VqkIVjc"
-      },
-      "artists": [
-        {
-          "name": "Pato Shoucair",
-          "url": "https://open.spotify.com/artist/5PBJkBd4ipAxK7D36jkJNC"
-        }
-      ],
-      "duration_ms": 158400,
-      "name": "Anestesia",
-      "url": "https://open.spotify.com/track/1mjapXQHm6DapzTlGNKdBi"
-    },
-    {
-      "added_at": "2026-05-15 15:22:48",
-      "album": {
-        "name": "INSOMNIA",
-        "url": "https://open.spotify.com/album/0HO8ZIzPKixZZQiEd5zW0p"
-      },
-      "artists": [
-        {
-          "name": "Lost Kings",
-          "url": "https://open.spotify.com/artist/3hyEbRtp617pNCuuQjyOmc"
-        }
-      ],
-      "duration_ms": 156421,
-      "name": "INSOMNIA",
-      "url": "https://open.spotify.com/track/2rehinQVvHSX1TsiHLFzgo"
-    },
-    {
-      "added_at": "2026-05-15 15:22:48",
-      "album": {
-        "name": "Maps",
-        "url": "https://open.spotify.com/album/61Xufs5spPrIrBfwkDmwwm"
-      },
-      "artists": [
-        {
-          "name": "Lyrah",
-          "url": "https://open.spotify.com/artist/5JyKQ4MQ2HkU1n1BYiKMWW"
-        }
-      ],
-      "duration_ms": 134558,
-      "name": "Maps",
-      "url": "https://open.spotify.com/track/5vvC8D7laU6Ns8i6V6mk51"
-    },
-    {
-      "added_at": "2026-05-15 15:22:48",
-      "album": {
         "name": "Moving On",
         "url": "https://open.spotify.com/album/7vzSIDKeliMyC4akCCEsVy"
       },
@@ -2191,18 +2159,50 @@
     {
       "added_at": "2026-05-15 15:22:48",
       "album": {
-        "name": "All This Time",
-        "url": "https://open.spotify.com/album/63ntVfXUztmMdo2rcfXidF"
+        "name": "Maps",
+        "url": "https://open.spotify.com/album/61Xufs5spPrIrBfwkDmwwm"
       },
       "artists": [
         {
-          "name": "Kasbo",
-          "url": "https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq"
+          "name": "Lyrah",
+          "url": "https://open.spotify.com/artist/5JyKQ4MQ2HkU1n1BYiKMWW"
         }
       ],
-      "duration_ms": 210234,
-      "name": "All This Time",
-      "url": "https://open.spotify.com/track/0vnz6lN4xKHZX7gtFMplMY"
+      "duration_ms": 134558,
+      "name": "Maps",
+      "url": "https://open.spotify.com/track/5vvC8D7laU6Ns8i6V6mk51"
+    },
+    {
+      "added_at": "2026-05-15 15:22:48",
+      "album": {
+        "name": "INSOMNIA",
+        "url": "https://open.spotify.com/album/0HO8ZIzPKixZZQiEd5zW0p"
+      },
+      "artists": [
+        {
+          "name": "Lost Kings",
+          "url": "https://open.spotify.com/artist/3hyEbRtp617pNCuuQjyOmc"
+        }
+      ],
+      "duration_ms": 156421,
+      "name": "INSOMNIA",
+      "url": "https://open.spotify.com/track/2rehinQVvHSX1TsiHLFzgo"
+    },
+    {
+      "added_at": "2026-05-15 15:22:48",
+      "album": {
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/3LKzgCd8XZzsRRi3CRRsv7"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        }
+      ],
+      "duration_ms": 279346,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/1ubTFuP9rXCYzYQM7jUoWM"
     },
     {
       "added_at": "2026-05-15 15:22:48",
@@ -2227,18 +2227,18 @@
     {
       "added_at": "2026-05-15 15:22:48",
       "album": {
-        "name": "Pressure",
-        "url": "https://open.spotify.com/album/3LKzgCd8XZzsRRi3CRRsv7"
+        "name": "All This Time",
+        "url": "https://open.spotify.com/album/63ntVfXUztmMdo2rcfXidF"
       },
       "artists": [
         {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+          "name": "Kasbo",
+          "url": "https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq"
         }
       ],
-      "duration_ms": 279346,
-      "name": "Pressure",
-      "url": "https://open.spotify.com/track/1ubTFuP9rXCYzYQM7jUoWM"
+      "duration_ms": 210234,
+      "name": "All This Time",
+      "url": "https://open.spotify.com/track/0vnz6lN4xKHZX7gtFMplMY"
     },
     {
       "added_at": "2026-05-15 15:22:48",

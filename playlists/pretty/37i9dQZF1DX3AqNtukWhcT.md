@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3AqNtukWhcT.md) - [plain]
 
 > Soft and soothing beats for all your yoga practices.
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,748 likes - 50 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,767 likes - 50 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3AqNtukWhcT.md) - [plain]
 | 49 | [Maple](https://open.spotify.com/track/4dRBkGmqjPsMVivOZRjuGL) | [Deauxnuts](https://open.spotify.com/artist/4FCrhj46HBtMVt61k35zMB), [Nokiaa](https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN) | [Maple](https://open.spotify.com/album/40woW26uPKn30P7NDvg5vk) | 2:11 |
 | 50 | [Snow Angel](https://open.spotify.com/track/3vLEU0wZwsxICfp5vrdGZR) | [nalic](https://open.spotify.com/artist/5s4V2T57cftxtUaKKaxUrL) | [Snow Angel](https://open.spotify.com/album/1gyiqIsm8qOv52P0fuEnT1) | 3:10 |
 
-Snapshot ID: `AAAAAGf050b99w+qN7Ad8EnEmxHGt9Nf`
+Snapshot ID: `AAAAAFNx15OgCqIdx3r3KJtFvsldLzni`

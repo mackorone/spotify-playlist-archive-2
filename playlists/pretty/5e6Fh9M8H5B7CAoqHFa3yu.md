@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 322 likes - 2,328 songs - 5 day 17 hr 35 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 322 likes - 2,331 songs - 5 day 17 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2336,5 +2336,8 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2326 | [Found your sweater](https://open.spotify.com/track/30HOGtAhNFUqfjx8qHhaZl) | [Potao](https://open.spotify.com/artist/5GD2Wl5un0dmmR10arYp5P) | [Space is waiting](https://open.spotify.com/album/6bXj35VTwniDyFcdDkwDPO) | 2:58 |
 | 2327 | [Atame \(Bluesman\)](https://open.spotify.com/track/4qw6a5YJHCJ5pviZHTzouF) | [Yunez](https://open.spotify.com/artist/3WqoLbV8XYbKrXUTTScsKI) | [Bluesman](https://open.spotify.com/album/4pvGxzTyfc9TQpoE8BBrar) | 2:33 |
 | 2328 | [Waves Rollin' Through](https://open.spotify.com/track/2WfKsGWtrpdRMGY9wzmayZ) | [Patty C](https://open.spotify.com/artist/6hIMbinmaxmhlAse2uSiYF) | [Crash On The Beach](https://open.spotify.com/album/2ULldHFk7sPDTNXD0TwTzk) | 4:15 |
+| 2329 | [Kids On Fast\-Forward](https://open.spotify.com/track/0NGK0ahfImvD9RSoQtKIg9) | [Potao](https://open.spotify.com/artist/5GD2Wl5un0dmmR10arYp5P) | [Kids On Fast\-Forward](https://open.spotify.com/album/30w4d4Gv93dtP53186lz9A) | 2:41 |
+| 2330 | [Loop Me In Your Memory](https://open.spotify.com/track/51cjzKZtZrHNn2oSfcLbPf) | [Potao](https://open.spotify.com/artist/5GD2Wl5un0dmmR10arYp5P) | [Loop Me In Your Memory](https://open.spotify.com/album/7LsfTcQDIRNIBEAsDhFzVn) | 2:46 |
+| 2331 | [Le Parapluie](https://open.spotify.com/track/1og48AOvKt4JGcarqnem76) | [Chach'](https://open.spotify.com/artist/5zoGbldAsgbeYrOW4Zt0c2) | [Le Parapluie](https://open.spotify.com/album/5fwY9R5pySznHMN2SYq56x) | 3:26 |
 
-Snapshot ID: `AAAJwCjZmOb+fYAuoFOTh9rQ7F1/W/I+`
+Snapshot ID: `AAAJw4Yb3rsNJFdl9PkRPtTWoiRhgIev`

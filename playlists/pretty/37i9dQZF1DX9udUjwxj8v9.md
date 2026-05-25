@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9udUjwxj8v9.md) - [plain]
 
 > minha carne é de carnaval, meu coração é igual
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,657 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,659 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9udUjwxj8v9.md) - [plain]
 | 20 | [Eu também quero beijar](https://open.spotify.com/track/52GKEkUJJUAPcYE8S0rZJV) | [Pepeu Gomes](https://open.spotify.com/artist/3XLeGN8GPEzQarxiDoQURu) | [Geração Pop](https://open.spotify.com/album/1SBKxrKIIgGyYMl43ffjnU) | 4:04 |
 | 21 | [Beleza Rara \- Ao Vivo](https://open.spotify.com/track/05jQu16DV9TMkGAsNl6QiP) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Bloco do Silva \(Ao Vivo\)](https://open.spotify.com/album/5qgBiVmgw6dSZDR7vit0mI) | 3:35 |
 | 22 | [Meia Lua Inteira](https://open.spotify.com/track/3uHnCqpyvmVuEG6XgTdCeP) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Minha Historia](https://open.spotify.com/album/0wNCVCDvgvbf8O5oFe1GtR) | 3:42 |
-| 23 | [Alo Paixao](https://open.spotify.com/track/0TLMrzswR4kG8ApYQsnGMy) | [Banda Eva](https://open.spotify.com/artist/1wqkMc837HWUwdC8sOZ7lZ) | [Pra Abalar](https://open.spotify.com/album/40olpdt7taxMHjbkx0s8Qm) | 4:02 |
-| 24 | [Nem Ouro Nem Prata](https://open.spotify.com/track/0fNUUevlqx2mplpNppk90K) | [Ruy Maurity](https://open.spotify.com/artist/05EBR0pPcPKP6B2QKkHoDf) | [Nem Ouro Nem Prata](https://open.spotify.com/album/19qW0cuIXxOcyrrNaTROrQ) | 3:41 |
+| 23 | [Nem Ouro Nem Prata](https://open.spotify.com/track/0fNUUevlqx2mplpNppk90K) | [Ruy Maurity](https://open.spotify.com/artist/05EBR0pPcPKP6B2QKkHoDf) | [Nem Ouro Nem Prata](https://open.spotify.com/album/19qW0cuIXxOcyrrNaTROrQ) | 3:41 |
+| 24 | [Alo Paixao](https://open.spotify.com/track/0TLMrzswR4kG8ApYQsnGMy) | [Banda Eva](https://open.spotify.com/artist/1wqkMc837HWUwdC8sOZ7lZ) | [Pra Abalar](https://open.spotify.com/album/40olpdt7taxMHjbkx0s8Qm) | 4:02 |
 | 25 | [Clareiamô](https://open.spotify.com/track/7J7GYDRfsBsoORO4K4rx6z) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe), [Saulo](https://open.spotify.com/artist/0l82Lk1LX5X2qqYuPSXTuf) | [Anavitória Canta Para Foliões De Bloco, Foliões De Avenida E Não Foliões Também](https://open.spotify.com/album/2DzY5n5rryVpWVsGbpaavi) | 3:46 |
 | 26 | [Xangô](https://open.spotify.com/track/19K67ARK51RFvi3CDdB69g) | [Emerson Dias](https://open.spotify.com/artist/6X4xWRzBiyR5w1WnsetCsz), [Acadêmicos Do Salgueiro](https://open.spotify.com/artist/1o6Ib1rhaC0r4YoVKayJWz) | [Sambas De Enredo Das Escolas De Samba 2019](https://open.spotify.com/album/66TEWcDCI9C2gO3HG89OCr) | 5:31 |
 | 27 | [Swing da Cor \- Ao Vivo](https://open.spotify.com/track/6XQBY4dYT9Q8AZJPQK9RRQ) | [Daniela Mercury](https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg) | [20 Grandes Êxitos](https://open.spotify.com/album/0cbKh9vBDagnsAqgeS559R) | 3:35 |

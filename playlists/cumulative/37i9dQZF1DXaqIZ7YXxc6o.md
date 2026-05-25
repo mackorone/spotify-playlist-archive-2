@@ -4,7 +4,7 @@
 
 > Your weekly dose of new dance\. Cover: KETTAMA
 
-3,992 songs - 9 day 2 hr 29 min
+3,993 songs - 9 day 2 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3460,6 +3460,7 @@
 | [The Boy](https://open.spotify.com/track/4sJj3nlx2SO2YJCV13T2CZ) | [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW), [Krystal Klear](https://open.spotify.com/artist/0jqr8aeeHSn5pMEVD4aTrI) | [The Boy / Moon](https://open.spotify.com/album/2D6VMDBpN8qEy5ceRKoRZY) | 3:27 | 2025-10-16 | 2025-11-28 |
 | [The Boy Is Mine](https://open.spotify.com/track/1aRd5tMVhiRyMJLmSOg2IF) | [James Mac](https://open.spotify.com/artist/2mrrXxzLsLPgLSiJz9COWB), [Vall](https://open.spotify.com/artist/0SI37BtvfxqNpnvjeMPqyD), [Rosalie](https://open.spotify.com/artist/58PEgJMZGqZ5d3CHYJTGv7) | [The Boy Is Mine](https://open.spotify.com/album/3vmR5tggRYJhVhuB0j1uVc) | 3:21 | 2023-06-22 | 2023-07-14 |
 | [The Cat Dance](https://open.spotify.com/track/3K0d6w9eYVhCgiqh9OFtTC) | [Luke Million](https://open.spotify.com/artist/1khu4DLsGK5MWLbUlfKkgz) | [The Cat Dance](https://open.spotify.com/album/09txUFV2nk40TbU1085d10) | 3:22 | 2024-04-18 | 2024-05-17 |
+| [The Ceiling](https://open.spotify.com/track/08jOMh0SuNltPqEBuMd0Nb) | [Westend](https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu), [Olivia Sebastianelli](https://open.spotify.com/artist/0DCRUk25XIiRFiNtiuR8OR) | [The Ceiling](https://open.spotify.com/album/4O7TcNg3Kn7mSW4Ouhakgt) | 3:18 | 2026-05-24 |  |
 | [The Chant](https://open.spotify.com/track/16NC74ajzZCjs4RbA1Zxwn) | [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U) | [Accepted Concept](https://open.spotify.com/album/5026e5pinYOgls5mjv1duU) | 2:51 | 2023-10-06 | 2023-10-20 |
 | [The Chant \- For Club Play Only, Pt\. 8](https://open.spotify.com/track/7xy9K0gpqzgUGGuxG5ZfuN) | [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E) | [The Chant \(For Club Play Only, Pt\. 8\)](https://open.spotify.com/album/4l12XOrKoqpy2skRc8Zi6Q) | 3:10 | 2023-05-04 | 2023-06-02 |
 | [The Chase](https://open.spotify.com/track/4Y8PGabkHNMDRmlKSYh8qK) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [The Chase](https://open.spotify.com/album/5koPzfr85wkv99rVjVKTXX) | 2:27 | 2025-05-08 | 2025-07-04 |
@@ -3691,7 +3692,7 @@
 | [Until The Lights Go Out](https://open.spotify.com/track/6xmWDLQBuBjWBc0Ary6wUj) | [Axwell](https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43), [CARMA](https://open.spotify.com/artist/5gp0qfvidEBit8aWKh18NA) | [Until The Lights Go Out](https://open.spotify.com/album/6eTCjsz3UJzuGEHVpMXSRZ) | 3:11 | 2025-05-15 | 2025-07-11 |
 | [Until There's Nothing Left](https://open.spotify.com/track/1Mx0bF3jajHH3zvMHfaleV) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Until There’s Nothing Left](https://open.spotify.com/album/1KPZFUZfy0l7uFKLzrVjHL) | 3:50 | 2024-08-29 | 2024-10-18 |
 | [Untouched](https://open.spotify.com/track/5Cxkx4cyKOVA63mXYRay4y) | [Harrison](https://open.spotify.com/artist/58O8UPrTdl4u2buM0skj94), [The Veronicas](https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln) | [Untouched](https://open.spotify.com/album/5eMstufN0xSZjaMXjNezsQ) | 3:02 | 2026-05-21 |  |
-| [Untouched \(feat\. The Veronicas\)](https://open.spotify.com/track/3oXTMVnWGWLY4mzTFhc7PN) | [Harrison](https://open.spotify.com/artist/58O8UPrTdl4u2buM0skj94), [The Veronicas](https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln) | [Untouched \(feat\. The Veronicas\)](https://open.spotify.com/album/5Cvz9SgkkwHuy8G302pmsx) | 3:02 | 2026-05-21 |  |
+| [Untouched \(feat\. The Veronicas\)](https://open.spotify.com/track/3oXTMVnWGWLY4mzTFhc7PN) | [Harrison](https://open.spotify.com/artist/58O8UPrTdl4u2buM0skj94), [The Veronicas](https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln) | [Untouched \(feat\. The Veronicas\)](https://open.spotify.com/album/5Cvz9SgkkwHuy8G302pmsx) | 3:02 | 2026-05-21 | 2026-05-25 |
 | [UP](https://open.spotify.com/track/4zEUtJjmIHpZf2wjj2OX4g) | [Effy](https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0) | [FOR THE CLUB](https://open.spotify.com/album/3G6y2mugKtmFNq6J7BjdBs) | 4:27 | 2024-10-17 | 2024-11-15 |
 | [Up & Down](https://open.spotify.com/track/2R7xKsStJ9hNeZKoD9W5Nv) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [Up & Down](https://open.spotify.com/album/6VMrXUabbY8cFWLougHU5F) | 2:34 | 2023-04-20 | 2023-05-12 |
 | [Up For That](https://open.spotify.com/track/7A1l9AoQEemviR9K6ZmmPz) | [Lipless](https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA), [Rob Tirea](https://open.spotify.com/artist/0D1FNjQMAVognp7FFrjGte) | [Up For That](https://open.spotify.com/album/2TOrYcxPNtp2STWmrztvj3) | 3:25 | 2022-12-08 | 2022-12-24 |

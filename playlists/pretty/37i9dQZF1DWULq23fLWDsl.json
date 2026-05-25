@@ -1,6 +1,6 @@
 {
   "description": "The Indie highlights of 2010. Cover: Gorillaz",
-  "num_followers": 360239,
+  "num_followers": 360328,
   "original_name": "Best of Indie 2010",
   "owner": {
     "name": "Spotify",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2025-03-14 11:46:42",
       "album": {
-        "name": "Dye It Blonde",
-        "url": "https://open.spotify.com/album/6QOvRYGw29xOPkcraXsRH4"
-      },
-      "artists": [
-        {
-          "name": "Smith Westerns",
-          "url": "https://open.spotify.com/artist/3yEqgEvatASNm30zZR3ZHl"
-        }
-      ],
-      "duration_ms": 202026,
-      "name": "Weekend",
-      "url": "https://open.spotify.com/track/3qL2jwvsVpY4hmek3t5ahn"
-    },
-    {
-      "added_at": "2025-03-14 11:46:42",
-      "album": {
         "name": "Journal of Ardency",
         "url": "https://open.spotify.com/album/0yTVrdU4jqSHyrh6VCQ8Cw"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 284000,
       "name": "Rivers and Roads",
       "url": "https://open.spotify.com/track/4fN0dQGDaV4Hg7Gd7mBOE0"
+    },
+    {
+      "added_at": "2025-03-14 11:46:42",
+      "album": {
+        "name": "Dye It Blonde",
+        "url": "https://open.spotify.com/album/6QOvRYGw29xOPkcraXsRH4"
+      },
+      "artists": [
+        {
+          "name": "Smith Westerns",
+          "url": "https://open.spotify.com/artist/3yEqgEvatASNm30zZR3ZHl"
+        }
+      ],
+      "duration_ms": 202026,
+      "name": "Weekend",
+      "url": "https://open.spotify.com/track/3qL2jwvsVpY4hmek3t5ahn"
     },
     {
       "added_at": "2025-03-14 11:46:42",

@@ -1,12 +1,12 @@
 {
   "description": "This is Maren Morris. The essential tracks, all in one playlist.",
-  "num_followers": 75313,
+  "num_followers": 75316,
   "original_name": "This Is Maren Morris",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ag+cgAAAAAC7RouqB/NxKRGH16TbJ4Js",
+  "snapshot_id": "ahDuAAAAAAA8hHMLBwrEMOLUxKjyxHH9",
   "tracks": [
     {
       "added_at": null,
@@ -375,22 +375,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "GIRL",
-        "url": "https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf"
-      },
-      "artists": [
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 250664,
-      "name": "GIRL",
-      "url": "https://open.spotify.com/track/0pGXe7umwkcCm01Ipoxp0U"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Parachute",
         "url": "https://open.spotify.com/album/4stLFHAPs5H3vnd9iU5l11"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 172903,
       "name": "Parachute",
       "url": "https://open.spotify.com/track/4w2tZUs63YQeIFhKSCScJ7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "GIRL",
+        "url": "https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 250664,
+      "name": "GIRL",
+      "url": "https://open.spotify.com/track/0pGXe7umwkcCm01Ipoxp0U"
     },
     {
       "added_at": null,
@@ -471,26 +471,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "GIRL",
-        "url": "https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf"
-      },
-      "artists": [
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        },
-        {
-          "name": "Brothers Osborne",
-          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
-        }
-      ],
-      "duration_ms": 199785,
-      "name": "All My Favorite People (feat. Brothers Osborne)",
-      "url": "https://open.spotify.com/track/0tEPv5fuzMhtm6NM5GvQiF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fooled Around and Fell in Love (feat. Maren Morris, Elle King, Ashley McBryde, Tenille Townes & Caylee Hammack)",
         "url": "https://open.spotify.com/album/6l4667PMmvxv6kEZT1SoPH"
       },
@@ -523,6 +503,26 @@
       "duration_ms": 249573,
       "name": "Fooled Around and Fell in Love (feat. Maren Morris, Elle King, Ashley McBryde, Tenille Townes & Caylee Hammack)",
       "url": "https://open.spotify.com/track/3P9mtsqs0J79yGVmVuAs4B"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "GIRL",
+        "url": "https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        },
+        {
+          "name": "Brothers Osborne",
+          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
+        }
+      ],
+      "duration_ms": 199785,
+      "name": "All My Favorite People (feat. Brothers Osborne)",
+      "url": "https://open.spotify.com/track/0tEPv5fuzMhtm6NM5GvQiF"
     },
     {
       "added_at": null,
@@ -575,22 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "GIRL",
-        "url": "https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf"
-      },
-      "artists": [
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 195585,
-      "name": "To Hell & Back",
-      "url": "https://open.spotify.com/track/4Yy1VOdLAX7MuKQOcivV4O"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Restoration: The Songs Of Elton John And Bernie Taupin",
         "url": "https://open.spotify.com/album/25I3CO8X3zQvoEySDD2UIP"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 304026,
       "name": "Mona Lisas And Mad Hatters",
       "url": "https://open.spotify.com/track/3sZpfLcumDW0henSU6wbie"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "GIRL",
+        "url": "https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 195585,
+      "name": "To Hell & Back",
+      "url": "https://open.spotify.com/track/4Yy1VOdLAX7MuKQOcivV4O"
     },
     {
       "added_at": null,
@@ -823,22 +823,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "GIRL",
-        "url": "https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf"
-      },
-      "artists": [
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 187638,
-      "name": "The Feels",
-      "url": "https://open.spotify.com/track/4c10Mtlt9dPeKvP61sicAs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "D R E A M S I C L E (deluxe)",
         "url": "https://open.spotify.com/album/6qA8TnnCdZCoXzy0mDaZjk"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 230558,
       "name": "running",
       "url": "https://open.spotify.com/track/3SQVdopQ6lfY55eBQtnZwG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "GIRL",
+        "url": "https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 187638,
+      "name": "The Feels",
+      "url": "https://open.spotify.com/track/4c10Mtlt9dPeKvP61sicAs"
     },
     {
       "added_at": null,
@@ -887,22 +887,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "GIRL",
-        "url": "https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf"
-      },
-      "artists": [
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 136552,
-      "name": "Make Out With Me",
-      "url": "https://open.spotify.com/track/1XfDYxQ8o7yZN7lbKECwHE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Highway Queen (feat. Maren Morris)",
         "url": "https://open.spotify.com/album/6UzzFc365CidnoOcEfs3qb"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 211485,
       "name": "Highway Queen (feat. Maren Morris)",
       "url": "https://open.spotify.com/track/4KjOZ6Ny13zPbBFH7Od8bt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "GIRL",
+        "url": "https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 136552,
+      "name": "Make Out With Me",
+      "url": "https://open.spotify.com/track/1XfDYxQ8o7yZN7lbKECwHE"
     },
     {
       "added_at": null,

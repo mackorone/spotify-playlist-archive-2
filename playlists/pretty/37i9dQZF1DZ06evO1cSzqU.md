@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1cSzqU.md) - [plain]
 
 > This is Scorpions\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 529,821 likes - 50 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 529,881 likes - 50 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1cSzqU.md) - [plain]
 | 49 | [The Game of Life](https://open.spotify.com/track/5ArG8t9RvmzhFFvhemwfo6) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Humanity \- Hour I](https://open.spotify.com/album/1XjYFFyWcK17Pqm03PnNss) | 4:04 |
 | 50 | [Life Is Too Short \- Live](https://open.spotify.com/track/2XBhU3UcOQUGFKAY7s4Jm1) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Acoustica](https://open.spotify.com/album/6VOsm3ABkYoOnJFHo4iG6q) | 5:15 |
 
-Snapshot ID: `ag+cgAAAAADYLMtI1/j6EWOV6Y00UXP9`
+Snapshot ID: `ahDuAAAAAADWzjG/soP4j+owGpkfVoeR`

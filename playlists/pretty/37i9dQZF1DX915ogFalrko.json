@@ -1,6 +1,6 @@
 {
   "description": "La playlist \u00e0 la cool pour accompagner votre d\u00eener !",
-  "num_followers": 187664,
+  "num_followers": 187676,
   "original_name": "D\u00eener entre amis",
   "owner": {
     "name": "Spotify",
@@ -811,6 +811,26 @@
     {
       "added_at": "2026-05-21 22:00:48",
       "album": {
+        "name": "Gran Paradiso",
+        "url": "https://open.spotify.com/album/4e8YIEAGQlDLpka8wkiZBM"
+      },
+      "artists": [
+        {
+          "name": "Waldeck",
+          "url": "https://open.spotify.com/artist/6596yDTd94cIC3dlBptxDH"
+        },
+        {
+          "name": "la Heidi",
+          "url": "https://open.spotify.com/artist/5uaGhmrko7vQ43FKH1V1KT"
+        }
+      ],
+      "duration_ms": 195136,
+      "name": "Shala-Lala-La",
+      "url": "https://open.spotify.com/track/3fv0dIDalzlgaLRAvaBobT"
+    },
+    {
+      "added_at": "2026-05-21 22:00:48",
+      "album": {
         "name": "The Dream",
         "url": "https://open.spotify.com/album/48M39K7MWoYxykqTE2brIi"
       },
@@ -831,26 +851,6 @@
       "duration_ms": 217143,
       "name": "David's Brother",
       "url": "https://open.spotify.com/track/7HIIgAScOr8ywjvJiraobh"
-    },
-    {
-      "added_at": "2026-05-21 22:00:48",
-      "album": {
-        "name": "Gran Paradiso",
-        "url": "https://open.spotify.com/album/4e8YIEAGQlDLpka8wkiZBM"
-      },
-      "artists": [
-        {
-          "name": "Waldeck",
-          "url": "https://open.spotify.com/artist/6596yDTd94cIC3dlBptxDH"
-        },
-        {
-          "name": "la Heidi",
-          "url": "https://open.spotify.com/artist/5uaGhmrko7vQ43FKH1V1KT"
-        }
-      ],
-      "duration_ms": 195136,
-      "name": "Shala-Lala-La",
-      "url": "https://open.spotify.com/track/3fv0dIDalzlgaLRAvaBobT"
     },
     {
       "added_at": "2026-05-21 22:00:48",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2026-05-21 22:00:48",
       "album": {
-        "name": "Slow Tonight",
-        "url": "https://open.spotify.com/album/0dShMq1RPDfB7BSS7O3xRc"
-      },
-      "artists": [
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        }
-      ],
-      "duration_ms": 192495,
-      "name": "Slow Tonight",
-      "url": "https://open.spotify.com/track/2H3L0xj5L4OlYFlRjhJQN5"
-    },
-    {
-      "added_at": "2026-05-21 22:00:48",
-      "album": {
         "name": "Quand on arrive en ville",
         "url": "https://open.spotify.com/album/6rNR0Z5WpwUNRuQHdJBVcE"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 218010,
       "name": "Quand on arrive en ville",
       "url": "https://open.spotify.com/track/3i968ZBc1IdtDZEL9zuKWP"
+    },
+    {
+      "added_at": "2026-05-21 22:00:48",
+      "album": {
+        "name": "Slow Tonight",
+        "url": "https://open.spotify.com/album/0dShMq1RPDfB7BSS7O3xRc"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "duration_ms": 192495,
+      "name": "Slow Tonight",
+      "url": "https://open.spotify.com/track/2H3L0xj5L4OlYFlRjhJQN5"
     },
     {
       "added_at": "2026-05-21 22:00:48",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2026-05-21 22:00:48",
       "album": {
-        "name": "found u/me",
-        "url": "https://open.spotify.com/album/2GFo9R1vPgwrkWxRPwvz6p"
-      },
-      "artists": [
-        {
-          "name": "Good Neighbours",
-          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
-        }
-      ],
-      "duration_ms": 169818,
-      "name": "found u/me",
-      "url": "https://open.spotify.com/track/5LzTzcMwn1YhzPSLkYlNnX"
-    },
-    {
-      "added_at": "2026-05-21 22:00:48",
-      "album": {
         "name": "Can't Help Myself",
         "url": "https://open.spotify.com/album/0BSru0mLqK04SfTZQiQ9PA"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 170453,
       "name": "Blame",
       "url": "https://open.spotify.com/track/27dM3Oji0ytPXDYGVwDoJj"
+    },
+    {
+      "added_at": "2026-05-21 22:00:48",
+      "album": {
+        "name": "found u/me",
+        "url": "https://open.spotify.com/album/2GFo9R1vPgwrkWxRPwvz6p"
+      },
+      "artists": [
+        {
+          "name": "Good Neighbours",
+          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
+        }
+      ],
+      "duration_ms": 169818,
+      "name": "found u/me",
+      "url": "https://open.spotify.com/track/5LzTzcMwn1YhzPSLkYlNnX"
     },
     {
       "added_at": "2026-05-21 22:00:48",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2026-05-21 22:00:48",
       "album": {
+        "name": "Goanna",
+        "url": "https://open.spotify.com/album/3WK8szrOf9AHVBuBJyPjmg"
+      },
+      "artists": [
+        {
+          "name": "The Rubens",
+          "url": "https://open.spotify.com/artist/2hrWpLNoJcs1EnWSXvB6JI"
+        }
+      ],
+      "duration_ms": 179823,
+      "name": "Goanna",
+      "url": "https://open.spotify.com/track/1WlbrsIoyEIaEEXLRZohp7"
+    },
+    {
+      "added_at": "2026-05-21 22:00:48",
+      "album": {
         "name": "What's On Your Mind",
         "url": "https://open.spotify.com/album/3Zba9cZ8EP1DBcvjnVNrG6"
       },
@@ -1407,42 +1423,6 @@
     {
       "added_at": "2026-05-21 22:00:48",
       "album": {
-        "name": "Goanna",
-        "url": "https://open.spotify.com/album/3WK8szrOf9AHVBuBJyPjmg"
-      },
-      "artists": [
-        {
-          "name": "The Rubens",
-          "url": "https://open.spotify.com/artist/2hrWpLNoJcs1EnWSXvB6JI"
-        }
-      ],
-      "duration_ms": 179823,
-      "name": "Goanna",
-      "url": "https://open.spotify.com/track/1WlbrsIoyEIaEEXLRZohp7"
-    },
-    {
-      "added_at": "2026-05-21 22:00:48",
-      "album": {
-        "name": "Paradis bleu",
-        "url": "https://open.spotify.com/album/5AFmjJeQX1DxFO1YB5S7Dg"
-      },
-      "artists": [
-        {
-          "name": "Revers Gagnant",
-          "url": "https://open.spotify.com/artist/1JJFKIcDjsMUEJAini15V8"
-        },
-        {
-          "name": "Matild",
-          "url": "https://open.spotify.com/artist/556svfNK6nfvqu9F6N4Eok"
-        }
-      ],
-      "duration_ms": 237913,
-      "name": "Paradis bleu",
-      "url": "https://open.spotify.com/track/0iLicFNAMT18xb36wBrRNl"
-    },
-    {
-      "added_at": "2026-05-21 22:00:48",
-      "album": {
         "name": "La Boulangerie, Vol. 3 (La Fine \u00c9quipe & Friends)",
         "url": "https://open.spotify.com/album/31oCgGwCgtJZIvS4ERobSJ"
       },
@@ -1471,6 +1451,26 @@
       "duration_ms": 227794,
       "name": "davina mccall",
       "url": "https://open.spotify.com/track/1a7ZPKYilBFgAX05MmDeBM"
+    },
+    {
+      "added_at": "2026-05-21 22:00:48",
+      "album": {
+        "name": "Paradis bleu",
+        "url": "https://open.spotify.com/album/5AFmjJeQX1DxFO1YB5S7Dg"
+      },
+      "artists": [
+        {
+          "name": "Revers Gagnant",
+          "url": "https://open.spotify.com/artist/1JJFKIcDjsMUEJAini15V8"
+        },
+        {
+          "name": "Matild",
+          "url": "https://open.spotify.com/artist/556svfNK6nfvqu9F6N4Eok"
+        }
+      ],
+      "duration_ms": 237913,
+      "name": "Paradis bleu",
+      "url": "https://open.spotify.com/track/0iLicFNAMT18xb36wBrRNl"
     },
     {
       "added_at": "2026-05-21 22:00:48",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2026-05-21 22:00:48",
       "album": {
-        "name": "willow",
-        "url": "https://open.spotify.com/album/34H26omESs9CrxasleR1Cy"
-      },
-      "artists": [
-        {
-          "name": "she's green",
-          "url": "https://open.spotify.com/artist/42IX4MHpnREqy3N7HugkLY"
-        }
-      ],
-      "duration_ms": 155480,
-      "name": "willow",
-      "url": "https://open.spotify.com/track/5DVPSIVpyp8D80XsgRkmjN"
-    },
-    {
-      "added_at": "2026-05-21 22:00:48",
-      "album": {
         "name": "Dandelions",
         "url": "https://open.spotify.com/album/5ce2H7wGbz3Fty4IYYPPpw"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 249069,
       "name": "Dandelions",
       "url": "https://open.spotify.com/track/1fUf8SAn46V1VzyxLs7e6g"
+    },
+    {
+      "added_at": "2026-05-21 22:00:48",
+      "album": {
+        "name": "willow",
+        "url": "https://open.spotify.com/album/34H26omESs9CrxasleR1Cy"
+      },
+      "artists": [
+        {
+          "name": "she's green",
+          "url": "https://open.spotify.com/artist/42IX4MHpnREqy3N7HugkLY"
+        }
+      ],
+      "duration_ms": 155480,
+      "name": "willow",
+      "url": "https://open.spotify.com/track/5DVPSIVpyp8D80XsgRkmjN"
     },
     {
       "added_at": "2026-05-21 22:00:48",

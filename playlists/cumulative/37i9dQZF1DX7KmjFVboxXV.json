@@ -117,6 +117,28 @@
     },
     {
       "album": {
+        "name": "Can't Explain It (feat. Charlie Wilson)",
+        "url": "https://open.spotify.com/album/1kp5uBAPgJ1aN5xJjyEf8b"
+      },
+      "artists": [
+        {
+          "name": "CHIKA",
+          "url": "https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8"
+        },
+        {
+          "name": "Charlie Wilson",
+          "url": "https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189376,
+      "name": "Can't Explain It (feat. Charlie Wilson)",
+      "url": "https://open.spotify.com/track/3nEwza00qN1AECkVtPS4oq"
+    },
+    {
+      "album": {
         "name": "Chanel",
         "url": "https://open.spotify.com/album/6OGzmhzHcjf0uN9j7dYvZH"
       },
@@ -1106,7 +1128,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-25",
       "duration_ms": 124653,
       "name": "So-Called Str8 Grrrl",
       "url": "https://open.spotify.com/track/5XUZUnnvjObWveOA9fpO7L"

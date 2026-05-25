@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 
 > Hand\-picked releases from the new wave in soul\. Cover: BOY SODA
 
-[Spotify](https://open.spotify.com/user/spotify) - 494,739 likes - 84 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 494,726 likes - 84 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 | 83 | [Leo](https://open.spotify.com/track/7GKiE4vRTWSpLT7JeRBjbQ) | [Ria Moran](https://open.spotify.com/artist/7sqPt1JYIkHzs8xIizhyXn) | [Cubico](https://open.spotify.com/album/6Y9aBxO0bz1f5vthYXJOP5) | 3:34 |
 | 84 | [Everlasting](https://open.spotify.com/track/0LjUKLciUAPkmBFx5vB9dr) | [Illnoledge](https://open.spotify.com/artist/6fm0ZSzd0zHjXjjLuEDXX5) | [Everlasting](https://open.spotify.com/album/4SPRyirXToSTtvWkBJsqrh) | 4:17 |
 
-Snapshot ID: `AAAAANDjnsk/th9CZz1iV6mLRzfzbacO`
+Snapshot ID: `AAAAAKzYPsenK//3fahs35gba+oDc3/s`

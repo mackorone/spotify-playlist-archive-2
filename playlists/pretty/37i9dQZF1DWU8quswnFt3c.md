@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women at full volume\. Cover: Tenille Towner
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,038,428 likes - 45 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,038,384 likes - 45 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 15 | [A Loba](https://open.spotify.com/track/6TJJi1sNzwrUpjlXHXazlz) | [Alcione](https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo) | [A Paixão Tem Memória](https://open.spotify.com/album/0RHOy2yMiGSIctpV7ediQl) | 4:24 |
 | 16 | [Sem Lei](https://open.spotify.com/track/6C8H63gGFeDqAYJ75uLPA6) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Coisas Naturais](https://open.spotify.com/album/2PRDU8Oeb9f0lpgSjbaJXE) | 2:53 |
 | 17 | [Hungamaa Ho Gaya](https://open.spotify.com/track/3gv6ZRvumAlDJufUM93hfv) | [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Laxmikant–Pyarelal](https://open.spotify.com/artist/3yS84AjNFqhmuJlIXy7sax) | [Queen](https://open.spotify.com/album/2Rz2QGoRiNq2FcrW0bVXkj) | 4:31 |
-| 18 | [Sousouro](https://open.spotify.com/track/6Q9L85FERsbSTVmNaZjhd4) | [Andromache](https://open.spotify.com/artist/0dn2Cwr75Rl4bh7yTwTorv) | [Sousouro](https://open.spotify.com/album/1ZuGXCJPpIFwRcgMHSghLU) | 3:51 |
-| 19 | [Poco yo \(Remix\) \[En Vivo\]](https://open.spotify.com/track/7cgLDcztpVFSfIRcNeVWaO) | [Corazón Serrano](https://open.spotify.com/artist/4UuICMmKQKNyCJfBg6lFFD), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Poco yo \(Remix\) \[En Vivo\]](https://open.spotify.com/album/7dSWHK00tr3H8issnG9KUi) | 6:55 |
+| 18 | [Poco yo \(Remix\) \[En Vivo\]](https://open.spotify.com/track/7cgLDcztpVFSfIRcNeVWaO) | [Corazón Serrano](https://open.spotify.com/artist/4UuICMmKQKNyCJfBg6lFFD), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Poco yo \(Remix\) \[En Vivo\]](https://open.spotify.com/album/7dSWHK00tr3H8issnG9KUi) | 6:55 |
+| 19 | [Sousouro](https://open.spotify.com/track/6Q9L85FERsbSTVmNaZjhd4) | [Andromache](https://open.spotify.com/artist/0dn2Cwr75Rl4bh7yTwTorv) | [Sousouro](https://open.spotify.com/album/1ZuGXCJPpIFwRcgMHSghLU) | 3:51 |
 | 20 | [GIẢ VỜ](https://open.spotify.com/track/4DM8buF9J04zNPtYVMUt74) | [Phùng Khánh Linh](https://open.spotify.com/artist/23Gbd21nBxC1kCtcG2Cd0C) | [GIẢ VỜ](https://open.spotify.com/album/3jqXa5a8QG4DnNPcY9JZTu) | 4:13 |
 | 21 | [Diamonds in the Sky](https://open.spotify.com/track/6B0ddCksLT3kXUtgZnExBC) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [Diamonds in the Sky](https://open.spotify.com/album/6SC1rulRuCQizgLJVS2zHN) | 3:05 |
 | 22 | [Guqa \(My Prayer\)](https://open.spotify.com/track/2i640R1xpVapryc9QKdVeo) | [Zee Nxumalo](https://open.spotify.com/artist/5m5lgddffBHA2pv0m5E2Ro), [Dlala Thukzin](https://open.spotify.com/artist/5kmceQl1Y7lveTVbcy5ycD), [Funky Qla](https://open.spotify.com/artist/1raznef8uIDK0SAlPabb86), [TBO](https://open.spotify.com/artist/64xQmd6s2PbIZkjqOXx0hp) | [Izinja Zam: Vol\. I](https://open.spotify.com/album/0HQLuYklJlPPnAH4Fk3IsH) | 7:05 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 33 | [Vera Cruz](https://open.spotify.com/track/7gEyYa53pf56NbDlaUuPnZ) | [Maria Bethânia](https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV) | [Vera Cruz](https://open.spotify.com/album/1A7eEqH0oaRVURujDR5gqj) | 2:36 |
 | 34 | [Isa, Dalawa, Tatlo, Cha](https://open.spotify.com/track/2RBTnmRliLzyXmTapebwEH) | [Yeng Constantino](https://open.spotify.com/artist/0DnjaQqb436AH1idffI6CQ) | [Isa, Dalawa, Tatlo, Cha](https://open.spotify.com/album/6ratSC6J0LoJZx6LegrqOE) | 2:49 |
 | 35 | [În căutarea fericirii](https://open.spotify.com/track/2vIVjEFiKM20qIDApuHoKr) | [EMAA](https://open.spotify.com/artist/4j4xD0oanPaJMB0BVqsRGE) | [În căutarea fericirii](https://open.spotify.com/album/0po2U3nO9fn8vZaXhZe5j1) | 2:44 |
-| 36 | [schlaflied](https://open.spotify.com/track/19NYiWCaRQ1JHTWu3FfCJb) | [Mariybu](https://open.spotify.com/artist/3R1Ha6KqmyhC2vUrmEocEG) | [schlaflied](https://open.spotify.com/album/6STFUc3msVtCqGMQ6xPKus) | 1:36 |
-| 37 | [RUDE BOYS](https://open.spotify.com/track/1JM9T6BscsTCG7MLvliLTw) | [Marte](https://open.spotify.com/artist/3IWdXZamAg5bhIa0KyRBNb) | [METAMORFOSI](https://open.spotify.com/album/4Xxeo92mq7Nr9jlZyr0yza) | 2:21 |
+| 36 | [RUDE BOYS](https://open.spotify.com/track/1JM9T6BscsTCG7MLvliLTw) | [Marte](https://open.spotify.com/artist/3IWdXZamAg5bhIa0KyRBNb) | [METAMORFOSI](https://open.spotify.com/album/4Xxeo92mq7Nr9jlZyr0yza) | 2:21 |
+| 37 | [schlaflied](https://open.spotify.com/track/19NYiWCaRQ1JHTWu3FfCJb) | [Mariybu](https://open.spotify.com/artist/3R1Ha6KqmyhC2vUrmEocEG) | [schlaflied](https://open.spotify.com/album/6STFUc3msVtCqGMQ6xPKus) | 1:36 |
 | 38 | [Toma Toma](https://open.spotify.com/track/1zJxOcvQ84OzBsAfGcrWtc) | [Neyna](https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7), [Taliixo Beatz](https://open.spotify.com/artist/0zJbnxrPTqqwSac6FEHWKE), [Wiils](https://open.spotify.com/artist/5nlb9fduEXeYSS8K6IkFwj) | [Toma Toma](https://open.spotify.com/album/1rKwmiX9ouMu23H5cddHqC) | 2:40 |
 | 39 | [Es para Ti](https://open.spotify.com/track/7i1YQivbv7XRVp6cAYJ5Sp) | [Chambao](https://open.spotify.com/artist/2qhLqZ1pkiUl5HNrU2Nz0R) | [Es para Ti](https://open.spotify.com/album/4AXhRC8yGmNBdm8eoMgAE3) | 3:01 |
 | 40 | [Üzdü](https://open.spotify.com/track/2bUUN4MNEajcdjXcDzbNBM) | [Güneş Özgeç](https://open.spotify.com/artist/6mkCYg6ZwD3mv7XnLy19CB) | [Üzdü](https://open.spotify.com/album/2qMffBUqprMXNo9vH6KKQD) | 4:07 |

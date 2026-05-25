@@ -3316,7 +3316,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-24",
+      "date_removed": null,
       "duration_ms": 178880,
       "name": "CHOOM",
       "url": "https://open.spotify.com/track/4cox7ONwuCwUvfZ9fsGDVu"
@@ -3334,7 +3334,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-25",
       "duration_ms": 178880,
       "name": "CHOOM",
       "url": "https://open.spotify.com/track/6gunPOwkADFspLkQtmVuZT"
@@ -6925,6 +6925,24 @@
     },
     {
       "album": {
+        "name": "Growth!",
+        "url": "https://open.spotify.com/album/3Vdw9NeSxLXTw33ET0xiMy"
+      },
+      "artists": [
+        {
+          "name": "\u9673\u5353\u8ce2 Ian",
+          "url": "https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6"
+        }
+      ],
+      "date_added": "2026-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209080,
+      "name": "Growth!",
+      "url": "https://open.spotify.com/track/1jfCV6pcdYBYBDPEkuZfTs"
+    },
+    {
+      "album": {
         "name": "Guess featuring Billie Eilish",
         "url": "https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN"
       },
@@ -7378,7 +7396,7 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-24",
+      "date_removed": null,
       "duration_ms": 180000,
       "name": "Heavy Serenade",
       "url": "https://open.spotify.com/track/1404zSB6dqMIiStHLI7gg4"
@@ -7396,7 +7414,7 @@
       ],
       "date_added": "2026-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-25",
       "duration_ms": 180000,
       "name": "Heavy Serenade",
       "url": "https://open.spotify.com/track/1Sjs93mMgi9bX06FFU9Mcv"
@@ -18242,7 +18260,7 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-24",
+      "date_removed": null,
       "duration_ms": 174000,
       "name": "WDA (Whole Different Animal) (feat. G-DRAGON)",
       "url": "https://open.spotify.com/track/59QIYdXAL9XeNtM0j8vN0k"
@@ -18264,7 +18282,7 @@
       ],
       "date_added": "2026-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-25",
       "duration_ms": 174000,
       "name": "WDA (Whole Different Animal) [feat. G-DRAGON]",
       "url": "https://open.spotify.com/track/4x0GAc6gDUttopqakXNezW"
@@ -21923,6 +21941,24 @@
     },
     {
       "album": {
+        "name": "THE PROT\u00c9G\u00c9",
+        "url": "https://open.spotify.com/album/6dTACv6BmB8pPh7vXhnp2X"
+      },
+      "artists": [
+        {
+          "name": "Gareth.T",
+          "url": "https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx"
+        }
+      ],
+      "date_added": "2026-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193747,
+      "name": "\u570b\u969b\u5b64\u7368\u7b49\u7d1a",
+      "url": "https://open.spotify.com/track/55rfBNb5YW21pGoX1LcWNB"
+    },
+    {
+      "album": {
         "name": "\u570b\u969b\u5b64\u7368\u7b49\u7d1a",
         "url": "https://open.spotify.com/album/1VSvRUXx0Qq9sjwFnyfONM"
       },
@@ -24434,7 +24470,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-25",
       "duration_ms": 231000,
       "name": "\u6708\u4eae\u4ee3\u8868\u6211",
       "url": "https://open.spotify.com/track/1cZfNeEFNZAfOkqYZQkJHr"
@@ -25538,7 +25574,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-25",
       "duration_ms": 256567,
       "name": "\u7121\u540d\u6307",
       "url": "https://open.spotify.com/track/6eNXbPSaleVxmwZDqUZcWv"

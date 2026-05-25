@@ -1,12 +1,12 @@
 {
   "description": "This is Movements. The essential tracks, all in one playlist.",
-  "num_followers": 9945,
+  "num_followers": 9951,
   "original_name": "This Is Movements",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ag+cgAAAAAD3OG50V5AtZc4SFUwBLFpR",
+  "snapshot_id": "ahDuAAAAAABQDJ1rPKuEPLp3pjlGWSej",
   "tracks": [
     {
       "added_at": null,
@@ -43,22 +43,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Good Left To Give",
-        "url": "https://open.spotify.com/album/77DJwm3iezGJOtsZdNGE3Z"
-      },
-      "artists": [
-        {
-          "name": "Movements",
-          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
-        }
-      ],
-      "duration_ms": 240906,
-      "name": "Skin To Skin",
-      "url": "https://open.spotify.com/track/1leOJnHs7HFXF4B5Nsgkmk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Back in My Ways",
         "url": "https://open.spotify.com/album/7HYOkNQbfd5qadZaJ2S3Ec"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 243286,
       "name": "Back in My Ways",
       "url": "https://open.spotify.com/track/4NPjrrOSlNtJAZL1hofOFP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Good Left To Give",
+        "url": "https://open.spotify.com/album/77DJwm3iezGJOtsZdNGE3Z"
+      },
+      "artists": [
+        {
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+        }
+      ],
+      "duration_ms": 240906,
+      "name": "Skin To Skin",
+      "url": "https://open.spotify.com/track/1leOJnHs7HFXF4B5Nsgkmk"
     },
     {
       "added_at": null,

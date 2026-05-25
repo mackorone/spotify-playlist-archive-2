@@ -4,12 +4,12 @@
 
 > 音楽をポケットに詰めて散歩に出かけよう。きっと新しい景色が見えてくるはず。
 
-197 songs - 11 hr 21 min
+198 songs - 11 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [..THUS IS WHY \( I DON’T SPRING 4 LOVE \)](https://open.spotify.com/track/29UD619bhwDjNXvuSh6cDz) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [SAYA](https://open.spotify.com/album/4w5yIvQJ8vlxDnMyN8A8qE) | 3:29 | 2025-02-28 | 2025-03-31 |
-| [100 Problems](https://open.spotify.com/track/0daOwk7f43Ow7dFt8kJTcP) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw) | [100 Problems](https://open.spotify.com/album/33oHM6KO1euG8Xi2GbqndG) | 2:06 | 2026-05-19 |  |
+| [100 Problems](https://open.spotify.com/track/0daOwk7f43Ow7dFt8kJTcP) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw) | [100 Problems](https://open.spotify.com/album/33oHM6KO1euG8Xi2GbqndG) | 2:06 | 2026-05-19 | 2026-05-25 |
 | [2001](https://open.spotify.com/track/2Fq319Q8JT19QgBqpAg0le) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [For Cryin' Out Loud!](https://open.spotify.com/album/7swV2ssDdlKc89h1DxUNh7) | 3:20 | 2024-10-04 | 2025-03-01 |
 | [300 dreams](https://open.spotify.com/track/3gkVuPHTyp4rHH5YrczzOL) | [After](https://open.spotify.com/artist/7KfMR05zRrWyhQimnYa8li) | [300 dreams](https://open.spotify.com/album/3IgDyLUkygCEyfG7CsZyzB) | 3:08 | 2025-03-20 | 2025-06-06 |
 | [A Bar Song \(Tipsy\)](https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [A Bar Song \(Tipsy\)](https://open.spotify.com/album/6egBeCLeGITzGSo5VyRjwZ) | 2:51 | 2024-06-20 | 2026-04-18 |
@@ -163,6 +163,7 @@
 | [Vuelve](https://open.spotify.com/track/4ON0spZpKuq6LfxITWgkcV) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ), [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Vuelve](https://open.spotify.com/album/53BSZEU1P0G9DICDS19Fdg) | 3:31 | 2026-04-17 | 2026-05-20 |
 | [Wasted Summers](https://open.spotify.com/track/43MifzVnh8W3jJN0xqU9jR) | [juju<3](https://open.spotify.com/artist/496w0Fyed8J7IRzn5Ffb6x) | [Wasted Summers](https://open.spotify.com/album/5SrN0SPOdmdCBe0dyDcpsY) | 2:10 | 2024-06-20 | 2025-07-26 |
 | [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 | 2024-06-20 | 2026-04-18 |
+| [we should talk](https://open.spotify.com/track/5xqxq73BSIr3303mn1Dnqz) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [everyone for ten minutes](https://open.spotify.com/album/7fVpvNHItOKonMGgbhHL5o) | 3:04 | 2026-05-21 |  |
 | [where the sunlight glows](https://open.spotify.com/track/0cearh4ImlTTFfjHX6QwLu) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [yung kai](https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk), [sunkis](https://open.spotify.com/artist/4EKSBwzbRW2YnMP5JXnXYr) | [where the sunlight glows](https://open.spotify.com/album/0otYOrLWaDQLZLo3WychLa) | 2:43 | 2025-07-15 | 2025-09-06 |
 | [Why I Don't Make Music Anymore](https://open.spotify.com/track/3AQcOWblLcNF8vkspZRuUX) | [Chisun](https://open.spotify.com/artist/2JXAtYX81CVMiouRhZ41u6) | [Why I Don't Make Music Anymore](https://open.spotify.com/album/3oqCZNxRAc6pYrHtzSUvEM) | 3:10 | 2025-07-17 | 2025-09-06 |
 | [Wis Suwe](https://open.spotify.com/track/2LcUKD0CzqpKXOxZw5bilF) | [Sela Good](https://open.spotify.com/artist/1mS5KkfEKjRdYti1qYfszu), [Hendra Kumbara](https://open.spotify.com/artist/2n5g6GMUmSCommxT8NHNPa), [Kirom](https://open.spotify.com/artist/1VJhGq3bMl48DBbLxoJt9e) | [Wis Suwe](https://open.spotify.com/album/7wmnZAEqH7KGv5U8OVej7X) | 4:45 | 2025-12-12 | 2026-04-18 |

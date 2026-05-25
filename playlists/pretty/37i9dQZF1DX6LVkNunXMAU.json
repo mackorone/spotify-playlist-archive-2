@@ -1,6 +1,6 @@
 {
   "description": "indie folk latino de estaci\u00f3n. Foto: Gepe y Macario Mart\u00ednez",
-  "num_followers": 62006,
+  "num_followers": 62007,
   "original_name": "folk & oto\u00f1o",
   "owner": {
     "name": "Spotify",
@@ -535,6 +535,22 @@
     {
       "added_at": "2026-05-22 14:46:06",
       "album": {
+        "name": "Demos (Lado B)",
+        "url": "https://open.spotify.com/album/78wjxzYSTxyzXMeRI508oa"
+      },
+      "artists": [
+        {
+          "name": "Sunny",
+          "url": "https://open.spotify.com/artist/1IwRlef3wOkD3M0ZsbhhAf"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Ay Amor",
+      "url": "https://open.spotify.com/track/2kbW8T7QHzjcTWR7yrMuki"
+    },
+    {
+      "added_at": "2026-05-22 14:46:06",
+      "album": {
         "name": "Ojos Viejos",
         "url": "https://open.spotify.com/album/6m1fsCTrBhLDPCsWce3jCZ"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 297124,
       "name": "Ojos Viejos",
       "url": "https://open.spotify.com/track/331jpq4eMaLd5bw7oM2ZIm"
-    },
-    {
-      "added_at": "2026-05-22 14:46:06",
-      "album": {
-        "name": "Demos (Lado B)",
-        "url": "https://open.spotify.com/album/78wjxzYSTxyzXMeRI508oa"
-      },
-      "artists": [
-        {
-          "name": "Sunny",
-          "url": "https://open.spotify.com/artist/1IwRlef3wOkD3M0ZsbhhAf"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Ay Amor",
-      "url": "https://open.spotify.com/track/2kbW8T7QHzjcTWR7yrMuki"
     },
     {
       "added_at": "2026-05-22 14:46:06",
@@ -719,18 +719,22 @@
     {
       "added_at": "2026-05-22 14:46:06",
       "album": {
-        "name": "Como una Ola",
-        "url": "https://open.spotify.com/album/4nYNOMkB5h9IkZE2qOywHL"
+        "name": "Te vamos a salvar",
+        "url": "https://open.spotify.com/album/5qbCFeeajwgQWohZoDQejW"
       },
       "artists": [
         {
-          "name": "Inbal Comedi",
-          "url": "https://open.spotify.com/artist/3TXSj7UeT47TDTYwnr9RnV"
+          "name": "Pol Nada",
+          "url": "https://open.spotify.com/artist/1Dts5QEWhfTgrZvDBEdNUH"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
         }
       ],
-      "duration_ms": 232484,
-      "name": "Como una Ola",
-      "url": "https://open.spotify.com/track/3Vf1VfLg0RbY7pXF6s6tdL"
+      "duration_ms": 161000,
+      "name": "Amigos Animales (Ac\u00fastico) - Edici\u00f3n 2024",
+      "url": "https://open.spotify.com/track/5CUWsc35thJK6tvVouCtyd"
     },
     {
       "added_at": "2026-05-22 14:46:06",
@@ -755,22 +759,18 @@
     {
       "added_at": "2026-05-22 14:46:06",
       "album": {
-        "name": "Te vamos a salvar",
-        "url": "https://open.spotify.com/album/5qbCFeeajwgQWohZoDQejW"
+        "name": "Como una Ola",
+        "url": "https://open.spotify.com/album/4nYNOMkB5h9IkZE2qOywHL"
       },
       "artists": [
         {
-          "name": "Pol Nada",
-          "url": "https://open.spotify.com/artist/1Dts5QEWhfTgrZvDBEdNUH"
-        },
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+          "name": "Inbal Comedi",
+          "url": "https://open.spotify.com/artist/3TXSj7UeT47TDTYwnr9RnV"
         }
       ],
-      "duration_ms": 161000,
-      "name": "Amigos Animales (Ac\u00fastico) - Edici\u00f3n 2024",
-      "url": "https://open.spotify.com/track/5CUWsc35thJK6tvVouCtyd"
+      "duration_ms": 232484,
+      "name": "Como una Ola",
+      "url": "https://open.spotify.com/track/3Vf1VfLg0RbY7pXF6s6tdL"
     },
     {
       "added_at": "2026-05-22 14:46:06",
@@ -851,22 +851,6 @@
     {
       "added_at": "2026-05-22 14:46:06",
       "album": {
-        "name": "verte mejor",
-        "url": "https://open.spotify.com/album/5T29CRzNVmjgQWkvDJcJQx"
-      },
-      "artists": [
-        {
-          "name": "Josearmen",
-          "url": "https://open.spotify.com/artist/2RB7pU0xCVApiluKSjpwyf"
-        }
-      ],
-      "duration_ms": 146337,
-      "name": "verte mejor",
-      "url": "https://open.spotify.com/track/4NGoMoDYIe5133L7QQrbyu"
-    },
-    {
-      "added_at": "2026-05-22 14:46:06",
-      "album": {
         "name": "Lesbiandrama",
         "url": "https://open.spotify.com/album/2oY9USTDYbnQtcy5bRa2DR"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 243501,
       "name": "Bolero",
       "url": "https://open.spotify.com/track/3yz96oTI0rHUaXruFziWBS"
+    },
+    {
+      "added_at": "2026-05-22 14:46:06",
+      "album": {
+        "name": "verte mejor",
+        "url": "https://open.spotify.com/album/5T29CRzNVmjgQWkvDJcJQx"
+      },
+      "artists": [
+        {
+          "name": "Josearmen",
+          "url": "https://open.spotify.com/artist/2RB7pU0xCVApiluKSjpwyf"
+        }
+      ],
+      "duration_ms": 146337,
+      "name": "verte mejor",
+      "url": "https://open.spotify.com/track/4NGoMoDYIe5133L7QQrbyu"
     },
     {
       "added_at": "2026-05-22 14:46:06",
@@ -943,26 +943,6 @@
     {
       "added_at": "2026-05-22 14:46:06",
       "album": {
-        "name": "De Ballenas",
-        "url": "https://open.spotify.com/album/3ocfV6SaW9x6NPF5sD6DQ0"
-      },
-      "artists": [
-        {
-          "name": "Papina de Palma",
-          "url": "https://open.spotify.com/artist/2bkcXTFPnDVBhj5s7YEDx3"
-        },
-        {
-          "name": "Briela Ojeda",
-          "url": "https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo"
-        }
-      ],
-      "duration_ms": 221200,
-      "name": "De Ballenas",
-      "url": "https://open.spotify.com/track/17GAhyPJ1N3QB0bLf8kdoW"
-    },
-    {
-      "added_at": "2026-05-22 14:46:06",
-      "album": {
         "name": "Calor",
         "url": "https://open.spotify.com/album/6OPkStWof1bHCcuYc2lxw0"
       },
@@ -979,6 +959,26 @@
       "duration_ms": 224000,
       "name": "Calor",
       "url": "https://open.spotify.com/track/3VJGRgrWKdT5UeFduHxzq6"
+    },
+    {
+      "added_at": "2026-05-22 14:46:06",
+      "album": {
+        "name": "De Ballenas",
+        "url": "https://open.spotify.com/album/3ocfV6SaW9x6NPF5sD6DQ0"
+      },
+      "artists": [
+        {
+          "name": "Papina de Palma",
+          "url": "https://open.spotify.com/artist/2bkcXTFPnDVBhj5s7YEDx3"
+        },
+        {
+          "name": "Briela Ojeda",
+          "url": "https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo"
+        }
+      ],
+      "duration_ms": 221200,
+      "name": "De Ballenas",
+      "url": "https://open.spotify.com/track/17GAhyPJ1N3QB0bLf8kdoW"
     },
     {
       "added_at": "2026-05-22 14:46:06",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2026-05-22 14:46:06",
       "album": {
-        "name": "La flor",
-        "url": "https://open.spotify.com/album/7AhQPybEfm0TDETnoYNHSY"
-      },
-      "artists": [
-        {
-          "name": "Minco",
-          "url": "https://open.spotify.com/artist/1bh3W2nSMpGnc7jApTUcH0"
-        }
-      ],
-      "duration_ms": 177005,
-      "name": "La flor",
-      "url": "https://open.spotify.com/track/3NVKTfHRh54yr5bGcCt5Z1"
-    },
-    {
-      "added_at": "2026-05-22 14:46:06",
-      "album": {
         "name": "INFRUTESCENCIA",
         "url": "https://open.spotify.com/album/1odlnV35gC6mB26BJ4Q8fm"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 139264,
       "name": "PARA VERTE",
       "url": "https://open.spotify.com/track/0oJM0jSk8WjPIuOkHA1OB0"
+    },
+    {
+      "added_at": "2026-05-22 14:46:06",
+      "album": {
+        "name": "La flor",
+        "url": "https://open.spotify.com/album/7AhQPybEfm0TDETnoYNHSY"
+      },
+      "artists": [
+        {
+          "name": "Minco",
+          "url": "https://open.spotify.com/artist/1bh3W2nSMpGnc7jApTUcH0"
+        }
+      ],
+      "duration_ms": 177005,
+      "name": "La flor",
+      "url": "https://open.spotify.com/track/3NVKTfHRh54yr5bGcCt5Z1"
     },
     {
       "added_at": "2026-05-22 14:46:06",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2026-05-22 14:46:06",
       "album": {
-        "name": "2:42",
-        "url": "https://open.spotify.com/album/0IeereaucGl6PwFZ3CCh4O"
-      },
-      "artists": [
-        {
-          "name": "SANTACRUZ",
-          "url": "https://open.spotify.com/artist/42q0iHNbkj0YS8kp0QuOp2"
-        }
-      ],
-      "duration_ms": 171388,
-      "name": "2:42",
-      "url": "https://open.spotify.com/track/4yzo6HV34l2wGug7W90BPZ"
-    },
-    {
-      "added_at": "2026-05-22 14:46:06",
-      "album": {
         "name": "Particular",
         "url": "https://open.spotify.com/album/4yGbRVdQ4kVluOxL7y41cj"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 165808,
       "name": "Particular",
       "url": "https://open.spotify.com/track/7vqHU0ctwwedqb7J9QrUUi"
+    },
+    {
+      "added_at": "2026-05-22 14:46:06",
+      "album": {
+        "name": "2:42",
+        "url": "https://open.spotify.com/album/0IeereaucGl6PwFZ3CCh4O"
+      },
+      "artists": [
+        {
+          "name": "SANTACRUZ",
+          "url": "https://open.spotify.com/artist/42q0iHNbkj0YS8kp0QuOp2"
+        }
+      ],
+      "duration_ms": 171388,
+      "name": "2:42",
+      "url": "https://open.spotify.com/track/4yzo6HV34l2wGug7W90BPZ"
     },
     {
       "added_at": "2026-05-22 14:46:06",
@@ -1263,26 +1263,6 @@
     {
       "added_at": "2026-05-22 14:46:06",
       "album": {
-        "name": "Color De Flor",
-        "url": "https://open.spotify.com/album/1dwjMu59OWGbhF4UNfBKnF"
-      },
-      "artists": [
-        {
-          "name": "Eduardo Castro",
-          "url": "https://open.spotify.com/artist/1uBdSvIwuEaiGnwhmqp9An"
-        },
-        {
-          "name": "Olivia Garc\u00eda",
-          "url": "https://open.spotify.com/artist/5ZLOSt2DZOG4V3nG0kDoh3"
-        }
-      ],
-      "duration_ms": 273219,
-      "name": "Color De Flor",
-      "url": "https://open.spotify.com/track/3SWsYftDA7zerCj6MXgN1f"
-    },
-    {
-      "added_at": "2026-05-22 14:46:06",
-      "album": {
         "name": "Un Nuevo Ritmo",
         "url": "https://open.spotify.com/album/3F2ROcUUuqyFDMAe5WmYr2"
       },
@@ -1299,6 +1279,26 @@
       "duration_ms": 213164,
       "name": "Un Nuevo Ritmo",
       "url": "https://open.spotify.com/track/33D7MHDLCtY3lhDkaEtNe9"
+    },
+    {
+      "added_at": "2026-05-22 14:46:06",
+      "album": {
+        "name": "Color De Flor",
+        "url": "https://open.spotify.com/album/1dwjMu59OWGbhF4UNfBKnF"
+      },
+      "artists": [
+        {
+          "name": "Eduardo Castro",
+          "url": "https://open.spotify.com/artist/1uBdSvIwuEaiGnwhmqp9An"
+        },
+        {
+          "name": "Olivia Garc\u00eda",
+          "url": "https://open.spotify.com/artist/5ZLOSt2DZOG4V3nG0kDoh3"
+        }
+      ],
+      "duration_ms": 273219,
+      "name": "Color De Flor",
+      "url": "https://open.spotify.com/track/3SWsYftDA7zerCj6MXgN1f"
     },
     {
       "added_at": "2026-05-22 14:46:06",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2026-05-22 14:46:06",
       "album": {
-        "name": "Un Nuevo Refugio (Dulce Cuarto Sesiones) [En Vivo]",
-        "url": "https://open.spotify.com/album/4ieBAdvt0JDhrGCsCyMHCJ"
-      },
-      "artists": [
-        {
-          "name": "Olivia Garc\u00eda",
-          "url": "https://open.spotify.com/artist/5ZLOSt2DZOG4V3nG0kDoh3"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "despegar mis pies - En Vivo",
-      "url": "https://open.spotify.com/track/0Cy9Zbzq7emQ6Xi02d9V1U"
-    },
-    {
-      "added_at": "2026-05-22 14:46:06",
-      "album": {
         "name": "Eres",
         "url": "https://open.spotify.com/album/2tU4jiKu6yWCq3fnzQyPwD"
       },
@@ -1443,6 +1427,22 @@
     {
       "added_at": "2026-05-22 14:46:06",
       "album": {
+        "name": "Un Nuevo Refugio (Dulce Cuarto Sesiones) [En Vivo]",
+        "url": "https://open.spotify.com/album/4ieBAdvt0JDhrGCsCyMHCJ"
+      },
+      "artists": [
+        {
+          "name": "Olivia Garc\u00eda",
+          "url": "https://open.spotify.com/artist/5ZLOSt2DZOG4V3nG0kDoh3"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "despegar mis pies - En Vivo",
+      "url": "https://open.spotify.com/track/0Cy9Zbzq7emQ6Xi02d9V1U"
+    },
+    {
+      "added_at": "2026-05-22 14:46:06",
+      "album": {
         "name": "Azul",
         "url": "https://open.spotify.com/album/7xmxWuzUa907hkQYL64jJD"
       },
@@ -1479,6 +1479,22 @@
     {
       "added_at": "2026-05-22 14:46:06",
       "album": {
+        "name": "Me Fui",
+        "url": "https://open.spotify.com/album/0iIH3rlW6AknjzD3mnIm5w"
+      },
+      "artists": [
+        {
+          "name": "Velo Vela",
+          "url": "https://open.spotify.com/artist/6cu1BLrPH1CkWeouSim02K"
+        }
+      ],
+      "duration_ms": 285953,
+      "name": "Me Fui",
+      "url": "https://open.spotify.com/track/1rn45Ad3hTSwcXxoghZwsE"
+    },
+    {
+      "added_at": "2026-05-22 14:46:06",
+      "album": {
         "name": "Camino libre medio",
         "url": "https://open.spotify.com/album/71qLgCiOOv7SRPkOBcHCSd"
       },
@@ -1499,6 +1515,22 @@
     {
       "added_at": "2026-05-22 14:46:06",
       "album": {
+        "name": "Horas",
+        "url": "https://open.spotify.com/album/2o4y3NPQW9V0NkofUArRUr"
+      },
+      "artists": [
+        {
+          "name": "Sol Melisma",
+          "url": "https://open.spotify.com/artist/3EkEaGrhiS1N76uTeKRNQb"
+        }
+      ],
+      "duration_ms": 143166,
+      "name": "Horas",
+      "url": "https://open.spotify.com/track/4FaScgamlCykrD6cVF3oh8"
+    },
+    {
+      "added_at": "2026-05-22 14:46:06",
+      "album": {
         "name": "Sed de Ternura Vol.1 (Duo Set)",
         "url": "https://open.spotify.com/album/4qYPcULqIyFhuyqBRbDHpA"
       },
@@ -1515,38 +1547,6 @@
       "duration_ms": 187000,
       "name": "Apasionadamente",
       "url": "https://open.spotify.com/track/40R2dPgyTDiToHbjU6Nen0"
-    },
-    {
-      "added_at": "2026-05-22 14:46:06",
-      "album": {
-        "name": "Me Fui",
-        "url": "https://open.spotify.com/album/0iIH3rlW6AknjzD3mnIm5w"
-      },
-      "artists": [
-        {
-          "name": "Velo Vela",
-          "url": "https://open.spotify.com/artist/6cu1BLrPH1CkWeouSim02K"
-        }
-      ],
-      "duration_ms": 285953,
-      "name": "Me Fui",
-      "url": "https://open.spotify.com/track/1rn45Ad3hTSwcXxoghZwsE"
-    },
-    {
-      "added_at": "2026-05-22 14:46:06",
-      "album": {
-        "name": "Horas",
-        "url": "https://open.spotify.com/album/2o4y3NPQW9V0NkofUArRUr"
-      },
-      "artists": [
-        {
-          "name": "Sol Melisma",
-          "url": "https://open.spotify.com/artist/3EkEaGrhiS1N76uTeKRNQb"
-        }
-      ],
-      "duration_ms": 143166,
-      "name": "Horas",
-      "url": "https://open.spotify.com/track/4FaScgamlCykrD6cVF3oh8"
     },
     {
       "added_at": "2026-05-22 14:46:06",
@@ -1579,22 +1579,6 @@
       "duration_ms": 222721,
       "name": "Marcas",
       "url": "https://open.spotify.com/track/0gMJWL100Hky7I4awRPAof"
-    },
-    {
-      "added_at": "2026-05-22 14:46:06",
-      "album": {
-        "name": "Final Feliz",
-        "url": "https://open.spotify.com/album/1DzJ8Md2trz0mN8KQh5tZ9"
-      },
-      "artists": [
-        {
-          "name": "JUSTINA",
-          "url": "https://open.spotify.com/artist/2hrHeIfHBeHjgIs5A7G5uc"
-        }
-      ],
-      "duration_ms": 214706,
-      "name": "Final Feliz",
-      "url": "https://open.spotify.com/track/0znwYCQWSS5Bupi6ZI4JhM"
     },
     {
       "added_at": "2026-05-22 14:46:06",
@@ -1635,6 +1619,42 @@
     {
       "added_at": "2026-05-22 14:46:06",
       "album": {
+        "name": "Final Feliz",
+        "url": "https://open.spotify.com/album/1DzJ8Md2trz0mN8KQh5tZ9"
+      },
+      "artists": [
+        {
+          "name": "JUSTINA",
+          "url": "https://open.spotify.com/artist/2hrHeIfHBeHjgIs5A7G5uc"
+        }
+      ],
+      "duration_ms": 214706,
+      "name": "Final Feliz",
+      "url": "https://open.spotify.com/track/0znwYCQWSS5Bupi6ZI4JhM"
+    },
+    {
+      "added_at": "2026-05-22 14:46:06",
+      "album": {
+        "name": "Lo Que Hicimos",
+        "url": "https://open.spotify.com/album/5M7QbPWs7IZbZ7GgwucHwh"
+      },
+      "artists": [
+        {
+          "name": "Agus Vivo",
+          "url": "https://open.spotify.com/artist/6aULl90kAb6JwNUYjIgUdW"
+        },
+        {
+          "name": "S\u00f3nico Vivo",
+          "url": "https://open.spotify.com/artist/4gKGHKgKXprf8kvRCmcrpe"
+        }
+      ],
+      "duration_ms": 157725,
+      "name": "Lo Que Hicimos",
+      "url": "https://open.spotify.com/track/0sCce9Byqxnaj763s0RaWf"
+    },
+    {
+      "added_at": "2026-05-22 14:46:06",
+      "album": {
         "name": "Simona a Guitarra y Voz (Lado A)",
         "url": "https://open.spotify.com/album/3LnuQLn6sRN58vctyqd9NC"
       },
@@ -1663,26 +1683,6 @@
       "duration_ms": 177750,
       "name": "D\u00eda tras d\u00eda",
       "url": "https://open.spotify.com/track/17lwA5owqNicBFJynjKIDd"
-    },
-    {
-      "added_at": "2026-05-22 14:46:06",
-      "album": {
-        "name": "Lo Que Hicimos",
-        "url": "https://open.spotify.com/album/5M7QbPWs7IZbZ7GgwucHwh"
-      },
-      "artists": [
-        {
-          "name": "Agus Vivo",
-          "url": "https://open.spotify.com/artist/6aULl90kAb6JwNUYjIgUdW"
-        },
-        {
-          "name": "S\u00f3nico Vivo",
-          "url": "https://open.spotify.com/artist/4gKGHKgKXprf8kvRCmcrpe"
-        }
-      ],
-      "duration_ms": 157725,
-      "name": "Lo Que Hicimos",
-      "url": "https://open.spotify.com/track/0sCce9Byqxnaj763s0RaWf"
     }
   ],
   "unique_name": "folk & oto\u00f1o",

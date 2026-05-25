@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Blaqbonez & Asake, Zerrydl, Qing Madi, LISA, Rema & Anitta, Moelogo, Lola Young, 6lack and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,868 likes - 56 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,010 likes - 56 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

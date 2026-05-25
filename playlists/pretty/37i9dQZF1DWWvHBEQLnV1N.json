@@ -1,6 +1,6 @@
 {
   "description": "Festive season staples and new holiday favourites \ud83c\udf81",
-  "num_followers": 1103516,
+  "num_followers": 1103479,
   "original_name": "Christmas is Coming",
   "owner": {
     "name": "Spotify",
@@ -523,6 +523,22 @@
     {
       "added_at": "2025-12-04 05:43:16",
       "album": {
+        "name": "Everyday Is Christmas (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 206539,
+      "name": "Santa's Coming for Us",
+      "url": "https://open.spotify.com/track/1N1ZpYUJc9fwrqk53FGgWv"
+    },
+    {
+      "added_at": "2025-12-04 05:43:16",
+      "album": {
         "name": "You Make It Feel Like Christmas",
         "url": "https://open.spotify.com/album/58qdMDlJaZBYleY7Bf0gNc"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 156773,
       "name": "You Make It Feel Like Christmas (feat. Blake Shelton)",
       "url": "https://open.spotify.com/track/2OQ6a4CfUeYskpTTgyawyJ"
-    },
-    {
-      "added_at": "2025-12-04 05:43:16",
-      "album": {
-        "name": "Everyday Is Christmas (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 206539,
-      "name": "Santa's Coming for Us",
-      "url": "https://open.spotify.com/track/1N1ZpYUJc9fwrqk53FGgWv"
     },
     {
       "added_at": "2025-12-04 05:43:16",
@@ -611,22 +611,6 @@
     {
       "added_at": "2025-12-04 05:43:16",
       "album": {
-        "name": "Sigh No More",
-        "url": "https://open.spotify.com/album/1c2Ee269Rj9w8wn8s3qQu9"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 219706,
-      "name": "Winter Winds",
-      "url": "https://open.spotify.com/track/7eNdbY0tlrWNKaiaCZGljh"
-    },
-    {
-      "added_at": "2025-12-04 05:43:16",
-      "album": {
         "name": "Everyday Is Christmas (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 212386,
       "name": "Candy Cane Lane",
       "url": "https://open.spotify.com/track/4KevTcBXEIYxXVyPE78XXm"
+    },
+    {
+      "added_at": "2025-12-04 05:43:16",
+      "album": {
+        "name": "Sigh No More",
+        "url": "https://open.spotify.com/album/1c2Ee269Rj9w8wn8s3qQu9"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 219706,
+      "name": "Winter Winds",
+      "url": "https://open.spotify.com/track/7eNdbY0tlrWNKaiaCZGljh"
     },
     {
       "added_at": "2025-12-04 05:43:16",

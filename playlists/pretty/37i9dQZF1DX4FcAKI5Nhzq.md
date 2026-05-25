@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FcAKI5Nhzq.md) - [plain]
 
 > Future K\-Pop hits! \(Cover: TAEMIN\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 886,895 likes - 55 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 886,857 likes - 55 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

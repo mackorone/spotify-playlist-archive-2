@@ -4,7 +4,7 @@
 
 > 今日1日を、元気に迎えるためのプレイリスト！
 
-1,115 songs - 2 day 13 hr 0 min
+1,116 songs - 2 day 13 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -231,6 +231,7 @@
 | [End of the World](https://open.spotify.com/track/5SxahezRlC0saXbCALfB7c) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [End of the World](https://open.spotify.com/album/3ApGUtCbEwErvJ8AOs3kOW) | 4:10 | 2025-04-03 |  |
 | [Enough Is Enough](https://open.spotify.com/track/3BHFResGQiUvbYToUdaDQz) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [AUSTIN](https://open.spotify.com/album/6r1lh7fHMB499vGKtIyJLy) | 2:45 | 2023-07-27 | 2023-11-23 |
 | [Enough To Drink](https://open.spotify.com/track/3BGfe8GXBE4cCVEvBG10yP) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Cate Downey](https://open.spotify.com/artist/3SHmKHBjw1ks5yXtblJWPn) | [Enough To Drink](https://open.spotify.com/album/1Tx5s92P4nNJEAXqDvA3lf) | 2:18 | 2023-01-31 | 2023-04-12 |
+| [EPA](https://open.spotify.com/track/1DtGtvgGRxsfHfwQu3cqfw) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [EPA](https://open.spotify.com/album/42bmZVf8s1S0wMhY7HrBGZ) | 3:22 | 2026-05-14 |  |
 | [EQ\(feat\. Rin音\)](https://open.spotify.com/track/1mtGrWo1HrcH2CGHlg7oGu) | [Naoto Inti Raymi](https://open.spotify.com/artist/77SZmOd2zA3L3n9x697iWb), [Rin音](https://open.spotify.com/artist/2sd5k8N8cAOm6Q8OCcePw4) | [EQ\(feat.Rin音\)](https://open.spotify.com/album/3mppHHY7c3Y15pcvhZ9Tzk) | 3:48 | 2023-02-28 | 2023-03-25 |
 | [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 | 2024-04-12 |  |
 | [EXCESOS](https://open.spotify.com/track/6UtWwuheJr5LLDeVypPNx7) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Pa las Baby's Y Belikeada](https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8) | 3:07 | 2023-10-26 | 2023-11-10 |
@@ -388,7 +389,7 @@
 | [I Can See You \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/track/5kHMfzgLZP95O9NBy0ku4v) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Speak Now \(Taylor's Version\)](https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt) | 4:33 | 2023-07-06 | 2025-02-14 |
 | [I Can't Go Back To The Way It Was \(Intro\)](https://open.spotify.com/track/4gpfihcTO7NKPFsn3Vl4fq) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [I Can't Go Back To The Way It Was \(Intro\)](https://open.spotify.com/album/0oU6UlaM28lOTkWJFz5kmB) | 1:35 | 2023-02-02 | 2023-02-16 |
 | [I Can’t Lose](https://open.spotify.com/track/6YggkCJwokciQdyL9Zbx4H) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [I Can't Lose](https://open.spotify.com/album/7LcGaAcnk6YyBJzNpW24LZ) | 3:03 | 2025-07-24 | 2025-08-16 |
-| [I CONDEMN](https://open.spotify.com/track/4JIC9Y4gNwefZ9UiCnZCvT) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [I CONDEMN](https://open.spotify.com/album/3GGPWismNDtBFF8EJxoiFI) | 2:22 | 2026-04-16 |  |
+| [I CONDEMN](https://open.spotify.com/track/4JIC9Y4gNwefZ9UiCnZCvT) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [I CONDEMN](https://open.spotify.com/album/3GGPWismNDtBFF8EJxoiFI) | 2:22 | 2026-04-16 | 2026-05-25 |
 | [I Don't Know What You See In Me](https://open.spotify.com/track/3kgF5sMaCPSrWh4HV6wIpG) | [Belle and Sebastian](https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h) | [I Don't Know What You See In Me](https://open.spotify.com/album/7cB52qwhXPs0lEliJXoxmw) | 3:39 | 2023-01-31 | 2023-02-03 |
 | [I GOT YOU](https://open.spotify.com/track/35dhwUoJNlxrPyEIJkfDnx) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [I GOT YOU](https://open.spotify.com/album/6RZHj6L3NqrvcKeiBHQbjL) | 2:53 | 2024-02-01 | 2024-02-09 |
 | [I GUESS IT'S LOVE?](https://open.spotify.com/track/0zotwiNo16aaUg76C4Fgl5) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [I GUESS IT'S LOVE?](https://open.spotify.com/album/4ZjQNVehaSszNDfxILOLzW) | 2:17 | 2023-02-23 | 2023-03-18 |

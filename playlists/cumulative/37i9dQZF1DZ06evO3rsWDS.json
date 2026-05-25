@@ -566,7 +566,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-25",
       "duration_ms": 143326,
       "name": "eres M\u00c1S",
       "url": "https://open.spotify.com/track/0ECpWS4JhjTDrprNhBkJuN"
@@ -1264,7 +1264,7 @@
       ],
       "date_added": "2025-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-25",
       "duration_ms": 46000,
       "name": "Madre Tierra (Interlude)",
       "url": "https://open.spotify.com/track/4S99EA8o3QqzBGz7bPYJIT"
@@ -1588,7 +1588,7 @@
       ],
       "date_added": "2025-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-25",
       "duration_ms": 173830,
       "name": "PA' MI GENTE",
       "url": "https://open.spotify.com/track/2h9OZbgUVBaeHfUNOlkPa1"
@@ -2149,6 +2149,24 @@
     },
     {
       "album": {
+        "name": "Janney",
+        "url": "https://open.spotify.com/album/25X59yD47dtzAAq6bzXliA"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "date_added": "2026-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170324,
+      "name": "VOLV\u00cd",
+      "url": "https://open.spotify.com/track/4S9RFiqENaM8MRujubMMmw"
+    },
+    {
+      "album": {
         "name": "VOLV\u00cd",
         "url": "https://open.spotify.com/album/4ZCC095ls57ZsnyHrq0OGo"
       },
@@ -2160,7 +2178,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-25",
       "duration_ms": 181500,
       "name": "VOLV\u00cd",
       "url": "https://open.spotify.com/track/5HCOVIFYzLi5kMxoWVIyV3"

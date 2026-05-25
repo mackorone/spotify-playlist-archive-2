@@ -4,7 +4,7 @@
 
 > 90년대를 수 놓았던 명곡들을 만나보세요.
 
-190 songs - 12 hr 1 min
+191 songs - 12 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,6 +144,7 @@
 | [말하자면](https://open.spotify.com/track/3fCkxCmaOwJ8UuZD1N4Okx) | [Kim Sung Jae](https://open.spotify.com/artist/7e7pwSr2mLxAq1QbWkzghk) | [김성재](https://open.spotify.com/album/2bklVpbuK5jsVrLpebiu9o) | 3:35 | 2021-03-11 | 2024-04-19 |
 | [맨발의 청춘](https://open.spotify.com/track/0JytKNtWz1sBQIlB4qwKwL) | [벅](https://open.spotify.com/artist/6ZCegWpMqRwxCCXNVmunVq) | [맨발의 청춘](https://open.spotify.com/album/4ACjsPLOJaR6rLX9MQVHP1) | 3:42 | 2024-04-04 |  |
 | [머피의 법칙](https://open.spotify.com/track/1jluNkKM91pLupGcS29CPd) | [DJ DOC](https://open.spotify.com/artist/3kDgt4vVKGTLmtC3FkOwWF) | [DJ DOC Best Of Best Panda Mix Vol\. 1](https://open.spotify.com/album/0ME5SEshP93oWUyNDEfx8W) | 3:05 | 2021-03-11 | 2024-04-05 |
+| [머피의 법칙](https://open.spotify.com/track/6CCJhpbIQQpKXgjb67pDeW) | [DJ DOC](https://open.spotify.com/artist/3kDgt4vVKGTLmtC3FkOwWF) | [머피의 법칙](https://open.spotify.com/album/7co4vEBPzVpP6ozZeGJQwS) | 4:05 | 2024-08-05 |  |
 | [무기여 잘 있거라](https://open.spotify.com/track/2r6mL74mX7G7BMAPqXBPsF) | [Park Sang Min](https://open.spotify.com/artist/7nbE2lMt1tbp5y3Uivn0bu) | [화산](https://open.spotify.com/album/05cmrYERspfIVBw3Hx57DV) | 4:25 | 2021-03-11 | 2024-03-16 |
 | [바꿔](https://open.spotify.com/track/3COMNgsSBF1Gs3TV2zlc0T) | [이정현](https://open.spotify.com/artist/1A3vuBmPryol3FWagK8Tt7) | [Let's Go To My Star](https://open.spotify.com/album/2DGCxLMvM06pMkTOEsx3x6) | 3:18 | 2024-04-04 |  |
 | [바다](https://open.spotify.com/track/4jRAFSysiQ7Tw4QwUB5zgm) | [UP](https://open.spotify.com/artist/1gjzJCtXM9MERO7IyUNLUN) | [Second Birth](https://open.spotify.com/album/62tR9ZoFJr4GcfTMgjDacm) | 3:46 | 2024-04-04 | 2024-04-19 |
@@ -174,7 +175,7 @@
 | [야야야](https://open.spotify.com/track/3tdjYReotb6TUeDNUl3bRV) | [Baby V.O.X](https://open.spotify.com/artist/7H5LMtjHqkyH4U8dpLR4lo) | [Baby Vox Ⅱ](https://open.spotify.com/album/49DaLjXDOJTaSoYa4fCXoD) | 3:50 | 2021-03-11 | 2024-04-19 |
 | [어느 째즈바...](https://open.spotify.com/track/1u2GIyfP9dKfkpLiCsYNJx) | [TURBO](https://open.spotify.com/artist/3aboSJaljyYlTRXt7pEH0G) | [NEW SENSATION](https://open.spotify.com/album/42TDA9jm3vXiUbc2FIWrVD) | 4:13 | 2021-03-11 | 2023-01-24 |
 | [여름 안에서](https://open.spotify.com/track/0haGSQ43x5QhbloDnTxVZA) | [DEUX](https://open.spotify.com/artist/64RfnYDHtR3ZaLdtxAjPDA) | [Rhythm Light Beat Black](https://open.spotify.com/album/4gGo7s9JdJAohetReMJTpI) | 4:31 | 2021-03-11 | 2024-04-19 |
-| [연인](https://open.spotify.com/track/3oiWco0alxrw4qtM9EO3nx) | [Roo'RA](https://open.spotify.com/artist/7bb3cdFh1kkHdopjeJRgca) | [The Final 5집](https://open.spotify.com/album/32jDXj7lCspy79LfstSIia) | 3:45 | 2024-08-05 |  |
+| [연인](https://open.spotify.com/track/3oiWco0alxrw4qtM9EO3nx) | [Roo'RA](https://open.spotify.com/artist/7bb3cdFh1kkHdopjeJRgca) | [The Final 5집](https://open.spotify.com/album/32jDXj7lCspy79LfstSIia) | 3:45 | 2024-08-05 | 2026-05-25 |
 | [오빠](https://open.spotify.com/track/2BqE61QmxAj3ZKc0xt2mtx) | [WAX](https://open.spotify.com/artist/5eBvKkLCbBNcsSxzrgahHZ) | [엄마의 일기](https://open.spotify.com/album/4CtBSFdCGAiZ5GapzP9J3b) | 3:26 | 2024-04-04 |  |
 | [와](https://open.spotify.com/track/1XrfEfQj3x4XfIM1nxMJJW) | [이정현](https://open.spotify.com/artist/1A3vuBmPryol3FWagK8Tt7) | [Let's Go To My Star](https://open.spotify.com/album/2DGCxLMvM06pMkTOEsx3x6) | 3:32 | 2024-04-04 |  |
 | [왼손잡이](https://open.spotify.com/track/6CxKEnUDyLNPVC4IBE1L4Z) | [Panic](https://open.spotify.com/artist/13bWD4s098qRgPVlHcbgCU) | [Panic](https://open.spotify.com/album/7pKdoYutb9dlj1eFaVbHFg) | 2:30 | 2021-03-11 | 2024-04-05 |

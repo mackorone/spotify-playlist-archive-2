@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb0iJOO12OY8.md) - [plain]
 
 > 🤝
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,811 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,806 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,9 +53,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb0iJOO12OY8.md) - [plain]
 | 43 | [Sjonglerer](https://open.spotify.com/track/48lgNLaCCAGBilhLDTU4zw) | [The Bausa](https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg), [Baloosh](https://open.spotify.com/artist/5IpqfN8Pqjy89nj1IfuOXC) | [Sjonglerer](https://open.spotify.com/album/7FulcP1O9xEbhtGsqcvkx2) | 2:54 |
 | 44 | [TV](https://open.spotify.com/track/0Mq64VYAfJIczXcguLLHKs) | [El Papi](https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV) | [TV](https://open.spotify.com/album/5g3sbCVGQajMNL5wiEx8lt) | 3:24 |
 | 45 | [Zanotti](https://open.spotify.com/track/3nT3EBnBlRgn9X00yrOLHE) | [UNDERGRUNN](https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb) | [Egoland](https://open.spotify.com/album/7pNnH6DtwnTYEQOrrGAzlO) | 4:26 |
-| 46 | [Heartless](https://open.spotify.com/track/3qgnWArMxxlvE9jncRKWiL) | [Søte & Rare](https://open.spotify.com/artist/2gmup32OWc65WVKSoP4rD8) | [Heartless](https://open.spotify.com/album/2WXVkG3pCRkjcAYJfcKk1m) | 2:36 |
-| 47 | [En million](https://open.spotify.com/track/3g6rsowrMVbPmCtuelXhjR) | [Streetboys](https://open.spotify.com/artist/6R3OPXyzteMubaNClGZZDW) | [En million](https://open.spotify.com/album/6sfIY03kMNBfCOdyncQnbu) | 2:26 |
-| 48 | [Vin](https://open.spotify.com/track/4UGiylwOx9pBF0D6VlnhpR) | [Beathoven](https://open.spotify.com/artist/6w6TB0XMM0VZ3oDsy7tUYJ) | [Sorgenfri](https://open.spotify.com/album/4n8prSVQyN3Cp4KcfCRyEi) | 2:29 |
+| 46 | [Vin](https://open.spotify.com/track/4UGiylwOx9pBF0D6VlnhpR) | [Beathoven](https://open.spotify.com/artist/6w6TB0XMM0VZ3oDsy7tUYJ) | [Sorgenfri](https://open.spotify.com/album/4n8prSVQyN3Cp4KcfCRyEi) | 2:29 |
+| 47 | [Heartless](https://open.spotify.com/track/3qgnWArMxxlvE9jncRKWiL) | [Søte & Rare](https://open.spotify.com/artist/2gmup32OWc65WVKSoP4rD8) | [Heartless](https://open.spotify.com/album/2WXVkG3pCRkjcAYJfcKk1m) | 2:36 |
+| 48 | [En million](https://open.spotify.com/track/3g6rsowrMVbPmCtuelXhjR) | [Streetboys](https://open.spotify.com/artist/6R3OPXyzteMubaNClGZZDW) | [En million](https://open.spotify.com/album/6sfIY03kMNBfCOdyncQnbu) | 2:26 |
 | 49 | [Fredagsbarn](https://open.spotify.com/track/2eT6tyhlP3fTkK4lclgedn) | [El Papi](https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV) | [Fredagsbarn](https://open.spotify.com/album/7onxwLHD9g5dug7NNp4lPr) | 3:10 |
 | 50 | [Tenke Sjæl](https://open.spotify.com/track/6RNews4WFfXv1fJdwL0ZQb) | [UNDERGRUNN](https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb) | [Norge Elsker Rap](https://open.spotify.com/album/2JLWcW7Qgi5QPYzNcPggoJ) | 2:40 |
 

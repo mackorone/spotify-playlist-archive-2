@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oopxKf8qJx.md) - [plain]
 
 > The moody sound of easy listening from the 50's and 60's\. Cover: Percy Faith
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,570 likes - 70 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,623 likes - 70 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oopxKf8qJx.md) - [plain]
 | 53 | [You're My Everything](https://open.spotify.com/track/3M5hwmGftW1vIgEW7to0N3) | [Percy Faith & His Orchestra](https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv) | [Music For Her \(Expanded Edition\)](https://open.spotify.com/album/704P5eHFQFzTh6K0aS0FYH) | 3:45 |
 | 54 | [Buttons and Bows](https://open.spotify.com/track/3t0asMyGpWAgqzgprE2hQU) | [Arthur Fiedler](https://open.spotify.com/artist/2JQBcP1ceEAdwHM6cvSCv8), [Boston Pops Orchestra](https://open.spotify.com/artist/7CIcEIOiWaZcEH35cpsdZq) | [Pops Goes West](https://open.spotify.com/album/7bq3GSka6PDheAsQphwKH1) | 2:07 |
 | 55 | [Majorcan Holiday](https://open.spotify.com/track/4Tf26KSoemitC17Ik00ViE) | [Frank Chacksfield Orchestra](https://open.spotify.com/artist/4p9uMiH2i6QPYGXx3WmpVi) | [Around the World, Vol\. 2](https://open.spotify.com/album/6NIUBR0tGunCCzgtGg6i8e) | 2:28 |
-| 56 | [My Last Affair](https://open.spotify.com/track/6qn13FWqpeXQfeoz7aJrp0) | [Billy May](https://open.spotify.com/artist/45Z2ShPqr2p9ZgfkYhZUgq) | [Big Band Bash!](https://open.spotify.com/album/0ryTYwTgma4jd8vLMfk2yK) | 2:43 |
-| 57 | [You And The Night And The Music](https://open.spotify.com/track/7j8Y5UR24GR4RspS9FBIot) | [Nelson Riddle](https://open.spotify.com/artist/6PyGlGbMoNqkofF14K4BWb) | [Hey...Let Yourself Go!](https://open.spotify.com/album/49leeFzmdD4d6wmo77tTZ3) | 3:37 |
+| 56 | [You And The Night And The Music](https://open.spotify.com/track/7j8Y5UR24GR4RspS9FBIot) | [Nelson Riddle](https://open.spotify.com/artist/6PyGlGbMoNqkofF14K4BWb) | [Hey...Let Yourself Go!](https://open.spotify.com/album/49leeFzmdD4d6wmo77tTZ3) | 3:37 |
+| 57 | [My Last Affair](https://open.spotify.com/track/6qn13FWqpeXQfeoz7aJrp0) | [Billy May](https://open.spotify.com/artist/45Z2ShPqr2p9ZgfkYhZUgq) | [Big Band Bash!](https://open.spotify.com/album/0ryTYwTgma4jd8vLMfk2yK) | 2:43 |
 | 58 | [Capri Serenade](https://open.spotify.com/track/2TUU5umfVQe14sPiWtLRMB) | [Frank Chacksfield](https://open.spotify.com/artist/556bh5qJfhSUkjTluTTyMF) | [West of Sunset](https://open.spotify.com/album/3ybe9VUz7rSLgp6yjQrzE7) | 3:10 |
 | 59 | [The Man That Got Away](https://open.spotify.com/track/1hDthwJhM5GqDkolDuMSoA) | [Harold Arlen](https://open.spotify.com/artist/7MOUyX1yT017l1Zt0mExIA), [Frank Chacksfield & His Orchestra](https://open.spotify.com/artist/01zQA436fdUqmEWvljtzxr) | [The New Limelight](https://open.spotify.com/album/0gXy9ekZFZUZ9aatMvYgID) | 4:07 |
 | 60 | [Green \- 1999 Remastered](https://open.spotify.com/track/3xCoRt3PkPJKpN8UnP3VXx) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Frank Sinatra Conducts Tone Poems Of Color \(Remastered\)](https://open.spotify.com/album/5hIh9dtYekwchUA8tOgySP) | 4:03 |

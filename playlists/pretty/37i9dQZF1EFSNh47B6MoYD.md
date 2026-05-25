@@ -152,11 +152,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSNh47B6MoYD.md) - [plain]
 | 142 | [Vulnerable](https://open.spotify.com/track/0OEH8OEUisGGQYP40y02cz) | [Marger](https://open.spotify.com/artist/69thfQCn68arnQ31jxF2gN) | [Como Te Digo](https://open.spotify.com/album/6P0o98lx8qGwSkdyE9Y1ji) | 4:02 |
 | 143 | [Efecto Secundario](https://open.spotify.com/track/1lr19xYTvsSH5Vf819bMAG) | [Marger](https://open.spotify.com/artist/69thfQCn68arnQ31jxF2gN) | [Como Te Digo](https://open.spotify.com/album/6P0o98lx8qGwSkdyE9Y1ji) | 3:33 |
 | 144 | [Confusion](https://open.spotify.com/track/36pswvlcWQRiX3cLaxgQUp) | [Alejandro Jaen](https://open.spotify.com/artist/6xPjI2hVO8pvwgMzRAB3zu) | [Latidos](https://open.spotify.com/album/2eEuNELgeEZDmzynb9OhBN) | 4:17 |
-| 145 | [No Se Vale](https://open.spotify.com/track/2DosHRGldnfvuXFoQYrSXV) | [Nell Valenti](https://open.spotify.com/artist/1VKyQ95e14RhR9pkuko3CA) | [Simple](https://open.spotify.com/album/6XYsyIvn46HTqX3JI92HJI) | 3:18 |
-| 146 | [Entre el Piano y el Amor](https://open.spotify.com/track/6LRGICKeYv2OgYtpjGPtmY) | [Fernando Acosta](https://open.spotify.com/artist/4nTDn2UoT14TUvuNn05NM5) | [Entre el Piano y el Amor](https://open.spotify.com/album/5zPHOmWSNzyncdUinKCVZJ) | 4:38 |
-| 147 | [Por Mil Razones](https://open.spotify.com/track/0xOFVf7Jt1hVyQ7ppXk3v8) | [Paula Arenas](https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2) | [Nada es Permanente](https://open.spotify.com/album/3BRumEgSsjbXY4uF1vfPCE) | 2:49 |
+| 145 | [Por Mil Razones](https://open.spotify.com/track/0xOFVf7Jt1hVyQ7ppXk3v8) | [Paula Arenas](https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2) | [Nada es Permanente](https://open.spotify.com/album/3BRumEgSsjbXY4uF1vfPCE) | 2:49 |
+| 146 | [No Se Vale](https://open.spotify.com/track/2DosHRGldnfvuXFoQYrSXV) | [Nell Valenti](https://open.spotify.com/artist/1VKyQ95e14RhR9pkuko3CA) | [Simple](https://open.spotify.com/album/6XYsyIvn46HTqX3JI92HJI) | 3:18 |
+| 147 | [Entre el Piano y el Amor](https://open.spotify.com/track/6LRGICKeYv2OgYtpjGPtmY) | [Fernando Acosta](https://open.spotify.com/artist/4nTDn2UoT14TUvuNn05NM5) | [Entre el Piano y el Amor](https://open.spotify.com/album/5zPHOmWSNzyncdUinKCVZJ) | 4:38 |
 | 148 | [A Punto de Naufragar](https://open.spotify.com/track/0CMlI2cENOzR1xsBohRovm) | [Fernando Acosta](https://open.spotify.com/artist/4nTDn2UoT14TUvuNn05NM5) | [Entre el Piano y el Amor](https://open.spotify.com/album/5zPHOmWSNzyncdUinKCVZJ) | 4:29 |
 | 149 | [Don't Give Up](https://open.spotify.com/track/6ARXRdPercoOClawyz2hOi) | [Ana Cristina Cash](https://open.spotify.com/artist/2R6hhNDQT8vBWQgCCmDnK0) | [The Sunshine State](https://open.spotify.com/album/5vkfBiDEnpWdpNqIW7AY37) | 4:14 |
 | 150 | [Cuarto Menguante](https://open.spotify.com/track/0jn4mbofhTz8M5iWAKFc51) | [LIZZIE BLASINI](https://open.spotify.com/artist/3U6BxnObGblB6VI1f5lvpH) | [Cuarto Menguante](https://open.spotify.com/album/3FoNl5uOXTrmILe49C1aN7) | 4:22 |
 
-Snapshot ID: `AcSS/AAAAAC3txLDDXRKNZm0/hBWOBAa`
+Snapshot ID: `AcSYnAAAAABnQ6KkeNbunshDXcsI6VfU`

@@ -1,12 +1,12 @@
 {
   "description": "This is Lil Tecca. The essential tracks, all in one playlist.",
-  "num_followers": 101522,
+  "num_followers": 101517,
   "original_name": "This Is Lil Tecca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ag+cgAAAAACMq5H7n9zMfLlA9fGlYKSB",
+  "snapshot_id": "ahDuAAAAAACo50p4vQDZdnoh/6PC0Q+K",
   "tracks": [
     {
       "added_at": null,
@@ -107,22 +107,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "DOPAMINE",
-        "url": "https://open.spotify.com/album/0CLqdKIh14TmKqLZCs9dml"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        }
-      ],
-      "duration_ms": 134308,
-      "name": "On Your Own",
-      "url": "https://open.spotify.com/track/6paXxvEqAIa38FfPY2vuWB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PLAN A",
         "url": "https://open.spotify.com/album/6uWva3kfeqqVIsNAJ2MmeL"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 137904,
       "name": "NUMBER 2",
       "url": "https://open.spotify.com/track/3p1coqZaHyGvFVLb7EmmeE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DOPAMINE",
+        "url": "https://open.spotify.com/album/0CLqdKIh14TmKqLZCs9dml"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "duration_ms": 134308,
+      "name": "On Your Own",
+      "url": "https://open.spotify.com/track/6paXxvEqAIa38FfPY2vuWB"
     },
     {
       "added_at": null,
@@ -175,22 +175,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "DOPAMINE",
-        "url": "https://open.spotify.com/album/0CLqdKIh14TmKqLZCs9dml"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        }
-      ],
-      "duration_ms": 132380,
-      "name": "OWA OWA",
-      "url": "https://open.spotify.com/track/1lfO0bqThTLimzHsvk3LrN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PLAN A",
         "url": "https://open.spotify.com/album/6uWva3kfeqqVIsNAJ2MmeL"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 210803,
       "name": "BAD TIME",
       "url": "https://open.spotify.com/track/1D9XWqsoNWIfLEzjHcrgMx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DOPAMINE",
+        "url": "https://open.spotify.com/album/0CLqdKIh14TmKqLZCs9dml"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "duration_ms": 132380,
+      "name": "OWA OWA",
+      "url": "https://open.spotify.com/track/1lfO0bqThTLimzHsvk3LrN"
     },
     {
       "added_at": null,

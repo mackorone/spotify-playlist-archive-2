@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > King Nothingg Returns
 
-[Spotify](https://open.spotify.com/user/spotify) - 501,032 likes - 126 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 501,053 likes - 126 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

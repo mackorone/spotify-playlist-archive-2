@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWR73B3Bnjfh.md) - [plain]
 
 > The melancholic and soft sound of Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 313,246 likes - 75 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 313,410 likes - 75 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWR73B3Bnjfh.md) - [plain]
 | 35 | [Polka Dots And Moonbeams](https://open.spotify.com/track/1pzTm9kIN7PJ5LM5qDrwcZ) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [The Art Of The Ballad](https://open.spotify.com/album/1Lk2q3F58c6vU6egnTHIMa) | 7:53 |
 | 36 | [How Long Has This Been Going On](https://open.spotify.com/track/10El9hxviSBm7pChWxG1ib) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk), [Harry "Sweets" Edison](https://open.spotify.com/artist/4rZoL92ShDgN9SLLg4OPPN) | [Ben And "Sweets"](https://open.spotify.com/album/2ZLYIpIfXFCbwBkaqgRhBk) | 5:30 |
 | 37 | [Solitude](https://open.spotify.com/track/6W25U2EbDixQbLbqpjz0TT) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [Way Out West \(OJC Remaster\)](https://open.spotify.com/album/6pWgCHxQp3DYbPKxduwvmC) | 7:51 |
-| 38 | [I Guess I'll Hang My Tears Out To Dry](https://open.spotify.com/track/3uPR8dQXnM4DhBFfiBEDmh) | [Cannonball Adderley Quartet](https://open.spotify.com/artist/7F2B7VhQySTBRaqJqv4NDR) | [Cannonball Takes Charge](https://open.spotify.com/album/2nrR6HvGvjglD7umMvdj66) | 5:34 |
-| 39 | [Lover Man \- Remastered 2006/Rudy Van Gelder Edition](https://open.spotify.com/track/5PfcpDnzz8VdUoziFWnhrU) | [Johnny Griffin](https://open.spotify.com/artist/52cM6vrM4MJ8g4H7Ibo5fZ) | [Introducing Johnny Griffin \(Rudy Van Gelder Edition / Remastered\)](https://open.spotify.com/album/2gxZYG5TEl9kZyyxIQqIAd) | 7:53 |
-| 40 | [A Lovely Way To Spend An Evening \- Remastered 2008/Rudy Van Gelder Edition](https://open.spotify.com/track/0nEqVExhmcXgfArSMMnwFo) | [Curtis Fuller](https://open.spotify.com/artist/2Ma7hbsouPDXerzHHcfnVK) | [The Opener \(Remastered 2008/Rudy Van Gelder Edition\)](https://open.spotify.com/album/3eva44waMaCOJMWbbarsuH) | 6:53 |
+| 38 | [Lover Man \- Remastered 2006/Rudy Van Gelder Edition](https://open.spotify.com/track/5PfcpDnzz8VdUoziFWnhrU) | [Johnny Griffin](https://open.spotify.com/artist/52cM6vrM4MJ8g4H7Ibo5fZ) | [Introducing Johnny Griffin \(Rudy Van Gelder Edition / Remastered\)](https://open.spotify.com/album/2gxZYG5TEl9kZyyxIQqIAd) | 7:53 |
+| 39 | [A Lovely Way To Spend An Evening \- Remastered 2008/Rudy Van Gelder Edition](https://open.spotify.com/track/0nEqVExhmcXgfArSMMnwFo) | [Curtis Fuller](https://open.spotify.com/artist/2Ma7hbsouPDXerzHHcfnVK) | [The Opener \(Remastered 2008/Rudy Van Gelder Edition\)](https://open.spotify.com/album/3eva44waMaCOJMWbbarsuH) | 6:53 |
+| 40 | [I Guess I'll Hang My Tears Out To Dry](https://open.spotify.com/track/3uPR8dQXnM4DhBFfiBEDmh) | [Cannonball Adderley Quartet](https://open.spotify.com/artist/7F2B7VhQySTBRaqJqv4NDR) | [Cannonball Takes Charge](https://open.spotify.com/album/2nrR6HvGvjglD7umMvdj66) | 5:34 |
 | 41 | [These Foolish Things \(Remind Me Of You\)](https://open.spotify.com/track/2YOak7hL5XozgxIyBge01e) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet In Paris: Everything Happens To Me \- The Complete Barclay Recording Vol\. 2](https://open.spotify.com/album/1YYIF3D8z28wRfTTXwvkUD) | 4:41 |
 | 42 | [Spring Is Here](https://open.spotify.com/track/6NVHxwaBkfTIINMCmZ1JUl) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF), [Scott LaFaro](https://open.spotify.com/artist/4g7uUySyORXh2KgDEhgxXa), [Paul Motian](https://open.spotify.com/artist/4VIPZJwfn4EGbJxYVHJ0WX) | [Portrait In Jazz \[Keepnews Collection\]](https://open.spotify.com/album/7dlYNvbD4QYDL3sSkTCjxi) | 5:09 |
 | 43 | [Like Someone In Love](https://open.spotify.com/track/7yo0ye0zCginW62iq21wXx) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Lush Life](https://open.spotify.com/album/63vpVRMhMQQZj4c7SRfP4y) | 4:57 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[mg](https://open.spotify.com/user/yom8mary) - 1 like - 2,385 songs - 5 day 8 hr 1 min
+[mg](https://open.spotify.com/user/yom8mary) - 1 like - 2,386 songs - 5 day 8 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2393,5 +2393,6 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 2383 | [Voodoo Pussy](https://open.spotify.com/track/43lupyxeROVg5QmMiqa8Y0) | [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2) | [Whorecore](https://open.spotify.com/album/1OEDnlG9MPWboK6lk7lovy) | 3:23 |
 | 2384 | [SATISFY](https://open.spotify.com/track/6SDndFLGtXkLq5UttTs5Pm) | [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [DGTL ANML](https://open.spotify.com/album/5NcVLMZkt5T1K0PdD2hyeQ) | 2:45 |
 | 2385 | [WANT NEED LOVE \- LSDXOXO Remix](https://open.spotify.com/track/2mE1WGxym75ezXYa8anIY7) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb), [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2) | [WANT NEED LOVE \(Remixes\)](https://open.spotify.com/album/50ctTZBiLC8KW4B6Wx9RrT) | 3:24 |
+| 2386 | [Sky Kisses \(на танцполе\)](https://open.spotify.com/track/2lRf1plEz8do7tTtXlZWFB) | [Kedr Livanskiy](https://open.spotify.com/artist/7deuX0YejjlcB4uLcdgEDW) | [Your Need](https://open.spotify.com/album/2c6FcKInAkAqZI0yNQXa9C) | 3:12 |
 
-Snapshot ID: `AAAFVwAIRi9QSmk3ek9qvrZK67xIrPzP`
+Snapshot ID: `AAAFWLIRpj8O4PJfK+qGbTFwT0DOCvgU`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7Co1jvHSQ9FFXOEY0TdPHQ">Hillary Lindsey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 603 likes - 352 songs - 20 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 604 likes - 352 songs - 20 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -154,8 +154,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 144 | [The Days](https://open.spotify.com/track/3nrwvaP2ntAZVP2v1d6l6P) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I) | [The Dream](https://open.spotify.com/album/0uJHZD1qFZwvO1GyMzDA1G) | 3:14 |
 | 145 | [Want You Back](https://open.spotify.com/track/3HkaQXrf8sU0ZJR2o9DLb1) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Damn Country Music](https://open.spotify.com/album/4js8lX2b3DBIfixMCPABC4) | 4:00 |
 | 146 | [Somebody Else Will](https://open.spotify.com/track/66SGV3dlYsBXDc0ESTfDKZ) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [Mickey Guyton](https://open.spotify.com/album/621o8HiNenxyhgGA4dijCn) | 3:40 |
-| 147 | [Fire Escape](https://open.spotify.com/track/0yOKjGIjYTr61rB7xnE6Xm) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Wildcard](https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn) | 3:49 |
-| 148 | [Don't Ask Me](https://open.spotify.com/track/0a46w1TylFFpaFVVfoYaO9) | [Vincent Mason](https://open.spotify.com/artist/6QJ5CE7ujPr7oZCURhFZVS) | [Don't Ask Me](https://open.spotify.com/album/5ASOGXccuPZ6uxIBrjatme) | 3:14 |
+| 147 | [Don't Ask Me](https://open.spotify.com/track/0a46w1TylFFpaFVVfoYaO9) | [Vincent Mason](https://open.spotify.com/artist/6QJ5CE7ujPr7oZCURhFZVS) | [Don't Ask Me](https://open.spotify.com/album/5ASOGXccuPZ6uxIBrjatme) | 3:14 |
+| 148 | [Fire Escape](https://open.spotify.com/track/0yOKjGIjYTr61rB7xnE6Xm) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Wildcard](https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn) | 3:49 |
 | 149 | [Hummingbird](https://open.spotify.com/track/5RtZ4ebQFkCa6TGQjQshdd) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Humble Quest](https://open.spotify.com/album/3BEDHGAd2zJh5dUL4dbmiw) | 3:19 |
 | 150 | [Pick Me Up](https://open.spotify.com/track/0XG2r1Hw1XDOrvp1IBbEof) | [Brett Kissel](https://open.spotify.com/artist/6VOaUBrKfzd49nIAzjVKmm) | [Pick Me Up](https://open.spotify.com/album/2AIjGgi7S3zWimTIekSxYj) | 3:22 |
 | 151 | [Low Country](https://open.spotify.com/track/641Lc1TXtZcYwGmggGlKS6) | [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [Southern Style](https://open.spotify.com/album/6cYkNKykfCpIrai7LD2AVn) | 4:11 |
@@ -273,9 +273,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 263 | [Liar](https://open.spotify.com/track/6qsc0dVy76PRWI0hkcLbz4) | [Walker County](https://open.spotify.com/artist/4O8A9zKc4TrSgV0RQp0cRg) | [Liar](https://open.spotify.com/album/4UD1ACjCmwnCcTdQwvtwj3) | 3:29 |
 | 264 | [Bad Love](https://open.spotify.com/track/1pfNTd88JczeBX1kndkO3p) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I) | [I'm In Love](https://open.spotify.com/album/5YRwR7wOulWESaGKwHcQbF) | 3:26 |
 | 265 | [Something Strong](https://open.spotify.com/track/4ooiGkHiIi6VQNGmE0MnSR) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Mr\. Sun](https://open.spotify.com/album/1zb7kVc7JA7ew7OIdj0wOB) | 3:34 |
-| 266 | [The Other Side](https://open.spotify.com/track/2x6rtVe96HwHP5QRM2oXpL) | [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [Along The Way](https://open.spotify.com/album/1xfdHLXMtp4hAhRLoMdiRJ) | 2:59 |
-| 267 | [All My Ghosts](https://open.spotify.com/track/1zX3yr9Cb5ZmnM8AJJByCS) | [Grace Potter](https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht) | [Mother Road](https://open.spotify.com/album/5LjmGiV7L4vzjS5F2cLPUf) | 4:22 |
-| 268 | [Hey There Sunshine](https://open.spotify.com/track/50msnc46msWmYW2kRjyZxx) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Hey There Sunshine](https://open.spotify.com/album/3pLOueRkk7XQP3sBkG2oMo) | 3:56 |
+| 266 | [Hey There Sunshine](https://open.spotify.com/track/50msnc46msWmYW2kRjyZxx) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Hey There Sunshine](https://open.spotify.com/album/3pLOueRkk7XQP3sBkG2oMo) | 3:56 |
+| 267 | [The Other Side](https://open.spotify.com/track/2x6rtVe96HwHP5QRM2oXpL) | [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [Along The Way](https://open.spotify.com/album/1xfdHLXMtp4hAhRLoMdiRJ) | 2:59 |
+| 268 | [All My Ghosts](https://open.spotify.com/track/1zX3yr9Cb5ZmnM8AJJByCS) | [Grace Potter](https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht) | [Mother Road](https://open.spotify.com/album/5LjmGiV7L4vzjS5F2cLPUf) | 4:22 |
 | 269 | [Big Cry](https://open.spotify.com/track/05Wur4UuHdUIP3c8Hvs7fi) | [Sara Evans](https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG) | [Restless](https://open.spotify.com/album/1hkmdmciMUjVLInxxEhHCY) | 3:17 |
 | 270 | [Every Time](https://open.spotify.com/track/2WnWvJZFkhPXC3Vy1Kzhjv) | [Jessica Andrews](https://open.spotify.com/artist/5rNhVm2CnqiO5Lv4Dt2lck) | [Who I Am](https://open.spotify.com/album/2jv2pSKJiOhmmol92202Vy) | 4:05 |
 | 271 | [Summer Of Love](https://open.spotify.com/track/6DD2q4wRpJwwiUajqQMeKx) | [Martina McBride](https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj) | [Eleven](https://open.spotify.com/album/2IjiBV6bprNXNHexpJ9WIC) | 4:19 |
@@ -361,4 +361,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 351 | [What Would You Do](https://open.spotify.com/track/4kFWLoSCSUTEDbF1rkf8pf) | [Janie Fricke](https://open.spotify.com/artist/3FhuHzOES6VGS9WW1wDymV) | [Roses & Lace](https://open.spotify.com/album/0KxZ4zOK41QG8Vz8uO7isO) | 2:59 |
 | 352 | [Got the Poots](https://open.spotify.com/track/71cqwaove3R1wShWBVEJul) | [Tooty Mae Woolley](https://open.spotify.com/artist/5VJGLTxYgDD0DjjirVF3Vd) | [Got the Poots](https://open.spotify.com/album/5eel7jlClDPWgc9CVtYp3l) | 3:36 |
 
-Snapshot ID: `AcSS8gAAAAB7D8BfkWacIOJhmOxTtYIj`
+Snapshot ID: `AcSYzgAAAADE2cjrxSrnvEq5TgaE3O0P`

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Rock para cantar en todos lados! ANASOF en portada.",
-  "num_followers": 38596,
+  "num_followers": 38599,
   "original_name": "Pop Rock Latino",
   "owner": {
     "name": "Spotify",
@@ -607,6 +607,22 @@
     {
       "added_at": "2026-05-22 06:00:30",
       "album": {
+        "name": "Antes Que Me Vaya",
+        "url": "https://open.spotify.com/album/6WavcUIxvGNdxrF6ify2xQ"
+      },
+      "artists": [
+        {
+          "name": "Los Claxons",
+          "url": "https://open.spotify.com/artist/4AgfaZvOiSS97uy5ekQ7bf"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Antes Que Me Vaya",
+      "url": "https://open.spotify.com/track/1QAhBJKdPM569bXLy8jO4I"
+    },
+    {
+      "added_at": "2026-05-22 06:00:30",
+      "album": {
         "name": "La Puerta",
         "url": "https://open.spotify.com/album/3uW3dr9cYAvk6fouQY0EzH"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 213306,
       "name": "Pel\u00edculas De Acci\u00f3n",
       "url": "https://open.spotify.com/track/5ReNrZRqNxwL7mQzPu1mKh"
-    },
-    {
-      "added_at": "2026-05-22 06:00:30",
-      "album": {
-        "name": "Antes Que Me Vaya",
-        "url": "https://open.spotify.com/album/6WavcUIxvGNdxrF6ify2xQ"
-      },
-      "artists": [
-        {
-          "name": "Los Claxons",
-          "url": "https://open.spotify.com/artist/4AgfaZvOiSS97uy5ekQ7bf"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Antes Que Me Vaya",
-      "url": "https://open.spotify.com/track/1QAhBJKdPM569bXLy8jO4I"
     },
     {
       "added_at": "2026-05-22 06:00:30",
@@ -691,22 +691,6 @@
     {
       "added_at": "2026-05-22 06:00:30",
       "album": {
-        "name": "Coraz\u00f3n hinchado",
-        "url": "https://open.spotify.com/album/2wZHlVJw1HAXlPZtnOMHl5"
-      },
-      "artists": [
-        {
-          "name": "Leo Rizzi",
-          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
-        }
-      ],
-      "duration_ms": 179040,
-      "name": "Coraz\u00f3n hinchado",
-      "url": "https://open.spotify.com/track/51hwVUxXajijH8QarFV6Q7"
-    },
-    {
-      "added_at": "2026-05-22 06:00:30",
-      "album": {
         "name": "CUERPOS, Vol. 1",
         "url": "https://open.spotify.com/album/08oCrWpJJhLBSRqd6WczEV"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 226181,
       "name": "TIEMPO OFF",
       "url": "https://open.spotify.com/track/6VZrGs2utNJM028PV2gPJB"
+    },
+    {
+      "added_at": "2026-05-22 06:00:30",
+      "album": {
+        "name": "Coraz\u00f3n hinchado",
+        "url": "https://open.spotify.com/album/2wZHlVJw1HAXlPZtnOMHl5"
+      },
+      "artists": [
+        {
+          "name": "Leo Rizzi",
+          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
+        }
+      ],
+      "duration_ms": 179040,
+      "name": "Coraz\u00f3n hinchado",
+      "url": "https://open.spotify.com/track/51hwVUxXajijH8QarFV6Q7"
     },
     {
       "added_at": "2026-05-22 06:00:30",
@@ -743,22 +743,6 @@
     {
       "added_at": "2026-05-22 06:00:30",
       "album": {
-        "name": "EN LO TOTAL",
-        "url": "https://open.spotify.com/album/6YyvXPie5Mvhl9LnLez2ix"
-      },
-      "artists": [
-        {
-          "name": "Lori Meyers",
-          "url": "https://open.spotify.com/artist/3mOsjj1MhocRVwOejIZlTi"
-        }
-      ],
-      "duration_ms": 235141,
-      "name": "EN LO TOTAL",
-      "url": "https://open.spotify.com/track/3y48Sa22j19xNtlnUMX9CR"
-    },
-    {
-      "added_at": "2026-05-22 06:00:30",
-      "album": {
         "name": "Igual de gris",
         "url": "https://open.spotify.com/album/01ue76B6p752PENdJ6eurO"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 196395,
       "name": "Igual de gris",
       "url": "https://open.spotify.com/track/4cScSwuQMKmvAsJmwQt4E0"
+    },
+    {
+      "added_at": "2026-05-22 06:00:30",
+      "album": {
+        "name": "EN LO TOTAL",
+        "url": "https://open.spotify.com/album/6YyvXPie5Mvhl9LnLez2ix"
+      },
+      "artists": [
+        {
+          "name": "Lori Meyers",
+          "url": "https://open.spotify.com/artist/3mOsjj1MhocRVwOejIZlTi"
+        }
+      ],
+      "duration_ms": 235141,
+      "name": "EN LO TOTAL",
+      "url": "https://open.spotify.com/track/3y48Sa22j19xNtlnUMX9CR"
     },
     {
       "added_at": "2026-05-22 06:00:30",
@@ -955,22 +955,6 @@
     {
       "added_at": "2026-05-22 06:00:30",
       "album": {
-        "name": "ESO Que Nos Trajo a Abbey Road",
-        "url": "https://open.spotify.com/album/0avtZa7A9cmR4bNgYJkG2s"
-      },
-      "artists": [
-        {
-          "name": "Los Mesoneros",
-          "url": "https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517"
-        }
-      ],
-      "duration_ms": 198051,
-      "name": "Memoria Muscular - Desde Abbey Road",
-      "url": "https://open.spotify.com/track/729ABU6pAHqCuAk8YXeSl0"
-    },
-    {
-      "added_at": "2026-05-22 06:00:30",
-      "album": {
         "name": "Campeones del Mundo / Rayo de Luz",
         "url": "https://open.spotify.com/album/2KWmh6cY1fCU4WNZtaIJvF"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 341600,
       "name": "Rayo de Luz",
       "url": "https://open.spotify.com/track/5f6NAUO04clfZMGEHh1ohC"
+    },
+    {
+      "added_at": "2026-05-22 06:00:30",
+      "album": {
+        "name": "ESO Que Nos Trajo a Abbey Road",
+        "url": "https://open.spotify.com/album/0avtZa7A9cmR4bNgYJkG2s"
+      },
+      "artists": [
+        {
+          "name": "Los Mesoneros",
+          "url": "https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517"
+        }
+      ],
+      "duration_ms": 198051,
+      "name": "Memoria Muscular - Desde Abbey Road",
+      "url": "https://open.spotify.com/track/729ABU6pAHqCuAk8YXeSl0"
     },
     {
       "added_at": "2026-05-22 06:00:30",
@@ -1027,18 +1027,34 @@
     {
       "added_at": "2026-05-22 06:00:30",
       "album": {
-        "name": "Vivos",
-        "url": "https://open.spotify.com/album/1X4qVzX9VIvwyhiWK5cK4p"
+        "name": "Todo est\u00e1 pasando ahora",
+        "url": "https://open.spotify.com/album/2d3AHkakmD2pD6UTNe5Sj2"
       },
       "artists": [
         {
-          "name": "Enjambre",
-          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
+          "name": "Koino Yokan",
+          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
         }
       ],
-      "duration_ms": 226250,
-      "name": "Vivos",
-      "url": "https://open.spotify.com/track/7BDQNZamnUfc0JVJTDJ29E"
+      "duration_ms": 228911,
+      "name": "Todo est\u00e1 pasando ahora",
+      "url": "https://open.spotify.com/track/4QrrOXttnTFPpLRf5PyZwb"
+    },
+    {
+      "added_at": "2026-05-22 06:00:30",
+      "album": {
+        "name": "Vidrio por Doquier",
+        "url": "https://open.spotify.com/album/1yZpFG972NjuqaR6eAXMrV"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Madero",
+          "url": "https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw"
+        }
+      ],
+      "duration_ms": 216666,
+      "name": "Vidrio por Doquier",
+      "url": "https://open.spotify.com/track/0CgjSAC3uPptcMJgBeYTLm"
     },
     {
       "added_at": "2026-05-22 06:00:30",
@@ -1063,34 +1079,18 @@
     {
       "added_at": "2026-05-22 06:00:30",
       "album": {
-        "name": "Vidrio por Doquier",
-        "url": "https://open.spotify.com/album/1yZpFG972NjuqaR6eAXMrV"
+        "name": "Vivos",
+        "url": "https://open.spotify.com/album/1X4qVzX9VIvwyhiWK5cK4p"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Madero",
-          "url": "https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw"
+          "name": "Enjambre",
+          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
         }
       ],
-      "duration_ms": 216666,
-      "name": "Vidrio por Doquier",
-      "url": "https://open.spotify.com/track/0CgjSAC3uPptcMJgBeYTLm"
-    },
-    {
-      "added_at": "2026-05-22 06:00:30",
-      "album": {
-        "name": "Todo est\u00e1 pasando ahora",
-        "url": "https://open.spotify.com/album/2d3AHkakmD2pD6UTNe5Sj2"
-      },
-      "artists": [
-        {
-          "name": "Koino Yokan",
-          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
-        }
-      ],
-      "duration_ms": 228911,
-      "name": "Todo est\u00e1 pasando ahora",
-      "url": "https://open.spotify.com/track/4QrrOXttnTFPpLRf5PyZwb"
+      "duration_ms": 226250,
+      "name": "Vivos",
+      "url": "https://open.spotify.com/track/7BDQNZamnUfc0JVJTDJ29E"
     },
     {
       "added_at": "2026-05-22 06:00:30",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2026-05-22 06:00:30",
       "album": {
+        "name": "odio a primera vista",
+        "url": "https://open.spotify.com/album/0SUOvTZTNdnEES1VpEW7Vu"
+      },
+      "artists": [
+        {
+          "name": "Ana Sofi W.",
+          "url": "https://open.spotify.com/artist/2lyO70w7by5Ekhac2H6zS0"
+        }
+      ],
+      "duration_ms": 186996,
+      "name": "odio a primera vista",
+      "url": "https://open.spotify.com/track/4O7u2mKN9ovYtk3ejaJ87O"
+    },
+    {
+      "added_at": "2026-05-22 06:00:30",
+      "album": {
         "name": "Brillo",
         "url": "https://open.spotify.com/album/643b849ZrdiJdvlpW8zn16"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 256580,
       "name": "Brillo",
       "url": "https://open.spotify.com/track/3mlwujisr9X3OazRdRVFHp"
-    },
-    {
-      "added_at": "2026-05-22 06:00:30",
-      "album": {
-        "name": "odio a primera vista",
-        "url": "https://open.spotify.com/album/0SUOvTZTNdnEES1VpEW7Vu"
-      },
-      "artists": [
-        {
-          "name": "Ana Sofi W.",
-          "url": "https://open.spotify.com/artist/2lyO70w7by5Ekhac2H6zS0"
-        }
-      ],
-      "duration_ms": 186996,
-      "name": "odio a primera vista",
-      "url": "https://open.spotify.com/track/4O7u2mKN9ovYtk3ejaJ87O"
     },
     {
       "added_at": "2026-05-22 06:00:30",

@@ -1,6 +1,6 @@
 {
   "description": "Top country hits you know and love! Cover: Morgan Wallen",
-  "num_followers": 684848,
+  "num_followers": 684972,
   "original_name": "Big Country",
   "owner": {
     "name": "Spotify",
@@ -823,18 +823,18 @@
     {
       "added_at": "2026-05-22 04:01:30",
       "album": {
-        "name": "Loving Life Again",
-        "url": "https://open.spotify.com/album/2QMHxhhWF1hicphwlSAtJC"
+        "name": "Wandering (Love Me Back)",
+        "url": "https://open.spotify.com/album/3DEtpqVl2R2gEe9fLCa1DE"
       },
       "artists": [
         {
-          "name": "Ella Langley",
-          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+          "name": "Max McNown",
+          "url": "https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp"
         }
       ],
-      "duration_ms": 226413,
-      "name": "Loving Life Again",
-      "url": "https://open.spotify.com/track/0n09hxqzKFxW1MBxIjctny"
+      "duration_ms": 198920,
+      "name": "A Lot More Free",
+      "url": "https://open.spotify.com/track/3i86MS9vF1VCf0h2IEpKWY"
     },
     {
       "added_at": "2026-05-22 04:01:30",
@@ -871,18 +871,18 @@
     {
       "added_at": "2026-05-22 04:01:30",
       "album": {
-        "name": "Wandering (Love Me Back)",
-        "url": "https://open.spotify.com/album/3DEtpqVl2R2gEe9fLCa1DE"
+        "name": "Loving Life Again",
+        "url": "https://open.spotify.com/album/2QMHxhhWF1hicphwlSAtJC"
       },
       "artists": [
         {
-          "name": "Max McNown",
-          "url": "https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp"
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
         }
       ],
-      "duration_ms": 198920,
-      "name": "A Lot More Free",
-      "url": "https://open.spotify.com/track/3i86MS9vF1VCf0h2IEpKWY"
+      "duration_ms": 226413,
+      "name": "Loving Life Again",
+      "url": "https://open.spotify.com/track/0n09hxqzKFxW1MBxIjctny"
     },
     {
       "added_at": "2026-05-22 04:01:30",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2026-05-22 04:01:30",
       "album": {
+        "name": "After All The Bars Are Closed",
+        "url": "https://open.spotify.com/album/07gfJHUBVX2VxXovVuUGjA"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        }
+      ],
+      "duration_ms": 191839,
+      "name": "After All The Bars Are Closed",
+      "url": "https://open.spotify.com/track/0oBbkZuDLkT8DY9DK67kfr"
+    },
+    {
+      "added_at": "2026-05-22 04:01:30",
+      "album": {
         "name": "Think I\u2019m In Love With You",
         "url": "https://open.spotify.com/album/52lLryGmbfkDOayypXEhhR"
       },
@@ -1319,22 +1335,6 @@
       "duration_ms": 189048,
       "name": "smoke & a light",
       "url": "https://open.spotify.com/track/1QvDl9tBq6PsMVE7Bf2ZOV"
-    },
-    {
-      "added_at": "2026-05-22 04:01:30",
-      "album": {
-        "name": "After All The Bars Are Closed",
-        "url": "https://open.spotify.com/album/07gfJHUBVX2VxXovVuUGjA"
-      },
-      "artists": [
-        {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        }
-      ],
-      "duration_ms": 191839,
-      "name": "After All The Bars Are Closed",
-      "url": "https://open.spotify.com/track/0oBbkZuDLkT8DY9DK67kfr"
     },
     {
       "added_at": "2026-05-22 04:01:30",
@@ -1371,26 +1371,6 @@
     {
       "added_at": "2026-05-22 04:01:30",
       "album": {
-        "name": "West Texas Degenerate",
-        "url": "https://open.spotify.com/album/7KmRRYUYlVAM2XIBJshVs4"
-      },
-      "artists": [
-        {
-          "name": "Treaty Oak Revival",
-          "url": "https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV"
-        },
-        {
-          "name": "Muscadine Bloodline",
-          "url": "https://open.spotify.com/artist/0EyZDKtc41e4A3a3v69MxD"
-        }
-      ],
-      "duration_ms": 171696,
-      "name": "Misery",
-      "url": "https://open.spotify.com/track/67kE1VBtwdcy2KughONFhY"
-    },
-    {
-      "added_at": "2026-05-22 04:01:30",
-      "album": {
         "name": "F-1 Trillion",
         "url": "https://open.spotify.com/album/4BbsHmXEghoPPevQjPnHXx"
       },
@@ -1407,6 +1387,26 @@
       "duration_ms": 209038,
       "name": "Losers (Feat. Jelly Roll)",
       "url": "https://open.spotify.com/track/0gucUyFMFRMlUiVn9US4YX"
+    },
+    {
+      "added_at": "2026-05-22 04:01:30",
+      "album": {
+        "name": "West Texas Degenerate",
+        "url": "https://open.spotify.com/album/7KmRRYUYlVAM2XIBJshVs4"
+      },
+      "artists": [
+        {
+          "name": "Treaty Oak Revival",
+          "url": "https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV"
+        },
+        {
+          "name": "Muscadine Bloodline",
+          "url": "https://open.spotify.com/artist/0EyZDKtc41e4A3a3v69MxD"
+        }
+      ],
+      "duration_ms": 171696,
+      "name": "Misery",
+      "url": "https://open.spotify.com/track/67kE1VBtwdcy2KughONFhY"
     },
     {
       "added_at": "2026-05-22 04:01:30",

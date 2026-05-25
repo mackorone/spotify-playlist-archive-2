@@ -1,12 +1,12 @@
 {
   "description": "New and approved indie pop. Cover: MUNA",
-  "num_followers": 1669864,
+  "num_followers": 1669831,
   "original_name": "Indie Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADklBhNvk0rdDnaanGqZ5hyjpVyg",
+  "snapshot_id": "AAAAAJZmfwNQ4IdlO7Oc2bgk4HcdHxa4",
   "tracks": [
     {
       "added_at": "2026-05-15 16:17:55",
@@ -255,6 +255,22 @@
     {
       "added_at": "2026-05-15 16:17:55",
       "album": {
+        "name": "Back To Me",
+        "url": "https://open.spotify.com/album/3y8LtE30zPfQ4sXYRKvt2e"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 214800,
+      "name": "Back To Me",
+      "url": "https://open.spotify.com/track/4E0P1xs3JNmsNr5c5nFTZJ"
+    },
+    {
+      "added_at": "2026-05-15 16:17:55",
+      "album": {
         "name": "All I Did Was Dream of You (feat. The Mar\u00edas)",
         "url": "https://open.spotify.com/album/4cC1e65OnA1NdyiuvdnwSt"
       },
@@ -271,22 +287,6 @@
       "duration_ms": 223788,
       "name": "All I Did Was Dream of You (feat. The Mar\u00edas)",
       "url": "https://open.spotify.com/track/0qWoOHqTirzo59FQ9eoECH"
-    },
-    {
-      "added_at": "2026-05-15 16:17:55",
-      "album": {
-        "name": "Back To Me",
-        "url": "https://open.spotify.com/album/3y8LtE30zPfQ4sXYRKvt2e"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 214800,
-      "name": "Back To Me",
-      "url": "https://open.spotify.com/track/4E0P1xs3JNmsNr5c5nFTZJ"
     },
     {
       "added_at": "2026-05-15 16:17:55",
@@ -1083,22 +1083,18 @@
     {
       "added_at": "2026-05-15 16:17:55",
       "album": {
-        "name": "Love Hate (feat. Thomas Day)",
-        "url": "https://open.spotify.com/album/0tLM5uck8tjqqvgagX4I1p"
+        "name": "Ready",
+        "url": "https://open.spotify.com/album/1e50AHM2FkCz5SLww9qFzT"
       },
       "artists": [
         {
-          "name": "Master Peace",
-          "url": "https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9"
-        },
-        {
-          "name": "Thomas Day",
-          "url": "https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq"
+          "name": "Junior Varsity",
+          "url": "https://open.spotify.com/artist/27tsCOGutD6wmFnv4eKWMp"
         }
       ],
-      "duration_ms": 192075,
-      "name": "Love Hate (feat. Thomas Day)",
-      "url": "https://open.spotify.com/track/1ysnEi1bFBkn0aCQFPh8gY"
+      "duration_ms": 172586,
+      "name": "Lost and Found",
+      "url": "https://open.spotify.com/track/0SYktSP2XOX3OipKS9W5vJ"
     },
     {
       "added_at": "2026-05-15 16:17:55",
@@ -1119,22 +1115,6 @@
     {
       "added_at": "2026-05-15 16:17:55",
       "album": {
-        "name": "Ready",
-        "url": "https://open.spotify.com/album/1e50AHM2FkCz5SLww9qFzT"
-      },
-      "artists": [
-        {
-          "name": "Junior Varsity",
-          "url": "https://open.spotify.com/artist/27tsCOGutD6wmFnv4eKWMp"
-        }
-      ],
-      "duration_ms": 172586,
-      "name": "Lost and Found",
-      "url": "https://open.spotify.com/track/0SYktSP2XOX3OipKS9W5vJ"
-    },
-    {
-      "added_at": "2026-05-15 16:17:55",
-      "album": {
         "name": "the apple tree under the sea",
         "url": "https://open.spotify.com/album/3td33YbrUND8jvdarSmgmR"
       },
@@ -1147,6 +1127,26 @@
       "duration_ms": 266906,
       "name": "w-w-w-w-w",
       "url": "https://open.spotify.com/track/7ENAU5RHg2yeQ0FOSvlF3C"
+    },
+    {
+      "added_at": "2026-05-15 16:17:55",
+      "album": {
+        "name": "Love Hate (feat. Thomas Day)",
+        "url": "https://open.spotify.com/album/0tLM5uck8tjqqvgagX4I1p"
+      },
+      "artists": [
+        {
+          "name": "Master Peace",
+          "url": "https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9"
+        },
+        {
+          "name": "Thomas Day",
+          "url": "https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq"
+        }
+      ],
+      "duration_ms": 192075,
+      "name": "Love Hate (feat. Thomas Day)",
+      "url": "https://open.spotify.com/track/1ysnEi1bFBkn0aCQFPh8gY"
     },
     {
       "added_at": "2026-05-15 16:17:55",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2026-05-15 16:17:55",
       "album": {
-        "name": "Memory Be a Blade",
-        "url": "https://open.spotify.com/album/459tZ5BMnPXsDQpLsfTI00"
-      },
-      "artists": [
-        {
-          "name": "waterbaby",
-          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
-        }
-      ],
-      "duration_ms": 221066,
-      "name": "Memory Be a Blade",
-      "url": "https://open.spotify.com/track/6kM3Uqz3MRTVGTzu93EZIA"
-    },
-    {
-      "added_at": "2026-05-15 16:17:55",
-      "album": {
         "name": "Stupid Bitches",
         "url": "https://open.spotify.com/album/7eWy1iLXve9VJdPkr2h9dP"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 211893,
       "name": "Stupid Bitches",
       "url": "https://open.spotify.com/track/4KELpaK3sQ5vEZX9nuK9lg"
+    },
+    {
+      "added_at": "2026-05-15 16:17:55",
+      "album": {
+        "name": "Memory Be a Blade",
+        "url": "https://open.spotify.com/album/459tZ5BMnPXsDQpLsfTI00"
+      },
+      "artists": [
+        {
+          "name": "waterbaby",
+          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
+        }
+      ],
+      "duration_ms": 221066,
+      "name": "Memory Be a Blade",
+      "url": "https://open.spotify.com/track/6kM3Uqz3MRTVGTzu93EZIA"
     },
     {
       "added_at": "2026-05-15 16:17:55",
@@ -1263,6 +1263,22 @@
       "duration_ms": 179727,
       "name": "Little Blue House",
       "url": "https://open.spotify.com/track/0KUcvWJzx9McoYo31gAqDy"
+    },
+    {
+      "added_at": "2026-05-15 16:17:55",
+      "album": {
+        "name": "Housekeeping",
+        "url": "https://open.spotify.com/album/36TdhxyuiOIeDyAZuAgpBE"
+      },
+      "artists": [
+        {
+          "name": "Ally Salort",
+          "url": "https://open.spotify.com/artist/5cCLvnxYLQiKTRLRD2DHxw"
+        }
+      ],
+      "duration_ms": 205841,
+      "name": "Housekeeping",
+      "url": "https://open.spotify.com/track/2sPIXS51PCnYWY8lPtS0oP"
     },
     {
       "added_at": "2026-05-15 16:17:55",
@@ -1331,22 +1347,6 @@
     {
       "added_at": "2026-05-15 16:17:55",
       "album": {
-        "name": "Housekeeping",
-        "url": "https://open.spotify.com/album/36TdhxyuiOIeDyAZuAgpBE"
-      },
-      "artists": [
-        {
-          "name": "Ally Salort",
-          "url": "https://open.spotify.com/artist/5cCLvnxYLQiKTRLRD2DHxw"
-        }
-      ],
-      "duration_ms": 205841,
-      "name": "Housekeeping",
-      "url": "https://open.spotify.com/track/2sPIXS51PCnYWY8lPtS0oP"
-    },
-    {
-      "added_at": "2026-05-15 16:17:55",
-      "album": {
         "name": "AngieAngieAngie",
         "url": "https://open.spotify.com/album/19lNMxzhXLPvNZkMQnb4gl"
       },
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2026-05-15 16:17:55",
       "album": {
-        "name": "Days Of Us",
-        "url": "https://open.spotify.com/album/2nSItiBROm1O9jl8FtNvIj"
-      },
-      "artists": [
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        }
-      ],
-      "duration_ms": 192495,
-      "name": "Slow Tonight",
-      "url": "https://open.spotify.com/track/4euJCjgfNymsvUFMJ6W8jd"
-    },
-    {
-      "added_at": "2026-05-15 16:17:55",
-      "album": {
         "name": "Flowers - Spotify Singles",
         "url": "https://open.spotify.com/album/2xNxoIoAdqikspBdAGNshj"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 236167,
       "name": "Flowers - Spotify Singles",
       "url": "https://open.spotify.com/track/5QlTdFRhzFV72ieDj04sdD"
+    },
+    {
+      "added_at": "2026-05-15 16:17:55",
+      "album": {
+        "name": "Days Of Us",
+        "url": "https://open.spotify.com/album/2nSItiBROm1O9jl8FtNvIj"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "duration_ms": 192495,
+      "name": "Slow Tonight",
+      "url": "https://open.spotify.com/track/4euJCjgfNymsvUFMJ6W8jd"
     },
     {
       "added_at": "2026-05-15 16:17:55",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2026-05-15 16:17:55",
       "album": {
-        "name": "I'll Change for You",
-        "url": "https://open.spotify.com/album/3f7akGGEFL9LjSJCG7ueaL"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 196426,
-      "name": "I'll Change for You",
-      "url": "https://open.spotify.com/track/1VVlFu2NkLFMRBznBITlho"
-    },
-    {
-      "added_at": "2026-05-15 16:17:55",
-      "album": {
         "name": "A Man Written by a Woman",
         "url": "https://open.spotify.com/album/19Ca1DmhPTJE00W9rPvf6E"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 167440,
       "name": "A Man Written by a Woman",
       "url": "https://open.spotify.com/track/3KMiZhglQNHEyMOoR2u2Yk"
+    },
+    {
+      "added_at": "2026-05-15 16:17:55",
+      "album": {
+        "name": "I'll Change for You",
+        "url": "https://open.spotify.com/album/3f7akGGEFL9LjSJCG7ueaL"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 196426,
+      "name": "I'll Change for You",
+      "url": "https://open.spotify.com/track/1VVlFu2NkLFMRBznBITlho"
     },
     {
       "added_at": "2026-05-15 16:17:55",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2026-05-15 16:17:55",
       "album": {
-        "name": "TIME",
-        "url": "https://open.spotify.com/album/0Z6GDq6vic09cDKt4LVoKR"
-      },
-      "artists": [
-        {
-          "name": "Sofia D'Angelo",
-          "url": "https://open.spotify.com/artist/4dZ7XqXL0hD6rSIkUs11b5"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "TIME",
-      "url": "https://open.spotify.com/track/0yGXheydoHP4EKZpfAs9zk"
-    },
-    {
-      "added_at": "2026-05-15 16:17:55",
-      "album": {
         "name": "Cool",
         "url": "https://open.spotify.com/album/1XzMeqhaGgkMHlKsKUQo8y"
       },
@@ -1599,6 +1583,22 @@
     {
       "added_at": "2026-05-15 16:17:55",
       "album": {
+        "name": "TIME",
+        "url": "https://open.spotify.com/album/0Z6GDq6vic09cDKt4LVoKR"
+      },
+      "artists": [
+        {
+          "name": "Sofia D'Angelo",
+          "url": "https://open.spotify.com/artist/4dZ7XqXL0hD6rSIkUs11b5"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "TIME",
+      "url": "https://open.spotify.com/track/0yGXheydoHP4EKZpfAs9zk"
+    },
+    {
+      "added_at": "2026-05-15 16:17:55",
+      "album": {
         "name": "portals//polarities",
         "url": "https://open.spotify.com/album/3J8mi01ldw6yQef6XnNVEb"
       },
@@ -1611,26 +1611,6 @@
       "duration_ms": 256481,
       "name": "leave it all behind, Mike",
       "url": "https://open.spotify.com/track/5t1vQDpm4MKmRzbVaMAJWK"
-    },
-    {
-      "added_at": "2026-05-15 16:17:55",
-      "album": {
-        "name": "Tunnel Vision",
-        "url": "https://open.spotify.com/album/38DX6jJd8fkTr2wwM2ECdL"
-      },
-      "artists": [
-        {
-          "name": "Beach Bunny",
-          "url": "https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H"
-        },
-        {
-          "name": "Aly & AJ",
-          "url": "https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i"
-        }
-      ],
-      "duration_ms": 208719,
-      "name": "Clueless (feat. Aly & AJ)",
-      "url": "https://open.spotify.com/track/2MPzUXWuyMkO8UwSRSIRsl"
     },
     {
       "added_at": "2026-05-15 16:17:55",
@@ -1667,6 +1647,26 @@
     {
       "added_at": "2026-05-15 16:17:55",
       "album": {
+        "name": "Tunnel Vision",
+        "url": "https://open.spotify.com/album/38DX6jJd8fkTr2wwM2ECdL"
+      },
+      "artists": [
+        {
+          "name": "Beach Bunny",
+          "url": "https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H"
+        },
+        {
+          "name": "Aly & AJ",
+          "url": "https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i"
+        }
+      ],
+      "duration_ms": 208719,
+      "name": "Clueless (feat. Aly & AJ)",
+      "url": "https://open.spotify.com/track/2MPzUXWuyMkO8UwSRSIRsl"
+    },
+    {
+      "added_at": "2026-05-15 16:17:55",
+      "album": {
         "name": "Games",
         "url": "https://open.spotify.com/album/1YPxQ3uOLdbpO4u4FpAd9z"
       },
@@ -1683,18 +1683,18 @@
     {
       "added_at": "2026-05-15 16:17:55",
       "album": {
-        "name": "Come To God",
-        "url": "https://open.spotify.com/album/3LdJFujF3iS82kdG8KMNdo"
+        "name": "Tattoos",
+        "url": "https://open.spotify.com/album/1jC9ONIxVSNK1KW2I7m4dU"
       },
       "artists": [
         {
-          "name": "Indigo De Souza",
-          "url": "https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e"
+          "name": "Jack Gray",
+          "url": "https://open.spotify.com/artist/0LvfDU74rGXrEGVWqW9rCw"
         }
       ],
-      "duration_ms": 157446,
-      "name": "Come To God",
-      "url": "https://open.spotify.com/track/3BR1VoYGdznLtRIhRUUZ0J"
+      "duration_ms": 175468,
+      "name": "Tattoos",
+      "url": "https://open.spotify.com/track/55IJRlxMamDtU7gzGerJKr"
     }
   ],
   "unique_name": "Indie Pop",

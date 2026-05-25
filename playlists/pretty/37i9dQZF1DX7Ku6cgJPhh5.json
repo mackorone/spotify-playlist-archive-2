@@ -1,6 +1,6 @@
 {
   "description": "Amp up your commute with rock hits, new and old. ",
-  "num_followers": 601724,
+  "num_followers": 601850,
   "original_name": "Rock Drive",
   "owner": {
     "name": "Spotify",
@@ -491,22 +491,6 @@
     {
       "added_at": "2026-04-05 21:06:28",
       "album": {
-        "name": "By the Way (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6deiaArbeoqp1xPEGdEKp1"
-      },
-      "artists": [
-        {
-          "name": "Red Hot Chili Peppers",
-          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
-        }
-      ],
-      "duration_ms": 216933,
-      "name": "By the Way",
-      "url": "https://open.spotify.com/track/1f2V8U1BiWaC9aJWmpOARe"
-    },
-    {
-      "added_at": "2026-04-05 21:06:28",
-      "album": {
         "name": "Nimrod",
         "url": "https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 153466,
       "name": "Good Riddance (Time of Your Life)",
       "url": "https://open.spotify.com/track/6ORqU0bHbVCRjXm9AjyHyZ"
+    },
+    {
+      "added_at": "2026-04-05 21:06:28",
+      "album": {
+        "name": "By the Way (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6deiaArbeoqp1xPEGdEKp1"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "duration_ms": 216933,
+      "name": "By the Way",
+      "url": "https://open.spotify.com/track/1f2V8U1BiWaC9aJWmpOARe"
     },
     {
       "added_at": "2026-04-05 21:06:28",
@@ -619,22 +619,6 @@
     {
       "added_at": "2026-04-05 21:06:28",
       "album": {
-        "name": "Echoes, Silence, Patience & Grace",
-        "url": "https://open.spotify.com/album/3ilXDEG0xiajK8AbqboeJz"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 269306,
-      "name": "The Pretender",
-      "url": "https://open.spotify.com/track/7x8dCjCr0x6x2lXKujYD34"
-    },
-    {
-      "added_at": "2026-04-05 21:06:28",
-      "album": {
         "name": "Full Moon Fever",
         "url": "https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 256000,
       "name": "Free Fallin'",
       "url": "https://open.spotify.com/track/5tVA6TkbaAH9QMITTQRrNv"
+    },
+    {
+      "added_at": "2026-04-05 21:06:28",
+      "album": {
+        "name": "Echoes, Silence, Patience & Grace",
+        "url": "https://open.spotify.com/album/3ilXDEG0xiajK8AbqboeJz"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 269306,
+      "name": "The Pretender",
+      "url": "https://open.spotify.com/track/7x8dCjCr0x6x2lXKujYD34"
     },
     {
       "added_at": "2026-04-05 21:06:28",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2026-04-05 21:06:28",
       "album": {
-        "name": "The Open Door",
-        "url": "https://open.spotify.com/album/3lFQ9ihSNR5YD0yi0yTzdC"
-      },
-      "artists": [
-        {
-          "name": "Evanescence",
-          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
-        }
-      ],
-      "duration_ms": 214706,
-      "name": "Call Me When You're Sober",
-      "url": "https://open.spotify.com/track/663Karu2rvKLdnY0eo1n3M"
-    },
-    {
-      "added_at": "2026-04-05 21:06:28",
-      "album": {
         "name": "Come Clean",
         "url": "https://open.spotify.com/album/4oWz3E9jTrBe9sVkiX2sJ5"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 216760,
       "name": "She Hates Me",
       "url": "https://open.spotify.com/track/16DhvbuyvJob4Q9GHNYu2n"
+    },
+    {
+      "added_at": "2026-04-05 21:06:28",
+      "album": {
+        "name": "The Open Door",
+        "url": "https://open.spotify.com/album/3lFQ9ihSNR5YD0yi0yTzdC"
+      },
+      "artists": [
+        {
+          "name": "Evanescence",
+          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
+        }
+      ],
+      "duration_ms": 214706,
+      "name": "Call Me When You're Sober",
+      "url": "https://open.spotify.com/track/663Karu2rvKLdnY0eo1n3M"
     },
     {
       "added_at": "2026-04-05 21:06:28",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2026-04-05 21:06:28",
       "album": {
-        "name": "Hellbilly Deluxe",
-        "url": "https://open.spotify.com/album/2B4lHoTCpWbxQPTZmCOjnH"
-      },
-      "artists": [
-        {
-          "name": "Rob Zombie",
-          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
-        }
-      ],
-      "duration_ms": 201400,
-      "name": "Living Dead Girl",
-      "url": "https://open.spotify.com/track/10V8XpuyMoEcSMfM79WDET"
-    },
-    {
-      "added_at": "2026-04-05 21:06:28",
-      "album": {
         "name": "Satellite (U.S. Version)",
         "url": "https://open.spotify.com/album/4eUmncMYQRg0Ot29KKqbuk"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 256240,
       "name": "Youth of the Nation",
       "url": "https://open.spotify.com/track/0UrWr7Jnu1heq1o99ZwUd0"
+    },
+    {
+      "added_at": "2026-04-05 21:06:28",
+      "album": {
+        "name": "Hellbilly Deluxe",
+        "url": "https://open.spotify.com/album/2B4lHoTCpWbxQPTZmCOjnH"
+      },
+      "artists": [
+        {
+          "name": "Rob Zombie",
+          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+        }
+      ],
+      "duration_ms": 201400,
+      "name": "Living Dead Girl",
+      "url": "https://open.spotify.com/track/10V8XpuyMoEcSMfM79WDET"
     },
     {
       "added_at": "2026-04-05 21:06:28",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2026-04-05 21:06:28",
       "album": {
-        "name": "Getting Away With Murder",
-        "url": "https://open.spotify.com/album/25wlsi7SWD8mFKxaEWGYuL"
-      },
-      "artists": [
-        {
-          "name": "Papa Roach",
-          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
-        }
-      ],
-      "duration_ms": 208186,
-      "name": "Scars",
-      "url": "https://open.spotify.com/track/1UREw2MCfU0xwBzCAjxlUD"
-    },
-    {
-      "added_at": "2026-04-05 21:06:28",
-      "album": {
         "name": "Hero (feat. Josey Scott)",
         "url": "https://open.spotify.com/album/4JLTenJ9u07tFnk3On1ypa"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 200480,
       "name": "Hero (feat. Josey Scott)",
       "url": "https://open.spotify.com/track/779ooI3rBd0CLqCiiJmtVo"
+    },
+    {
+      "added_at": "2026-04-05 21:06:28",
+      "album": {
+        "name": "Getting Away With Murder",
+        "url": "https://open.spotify.com/album/25wlsi7SWD8mFKxaEWGYuL"
+      },
+      "artists": [
+        {
+          "name": "Papa Roach",
+          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+        }
+      ],
+      "duration_ms": 208186,
+      "name": "Scars",
+      "url": "https://open.spotify.com/track/1UREw2MCfU0xwBzCAjxlUD"
     },
     {
       "added_at": "2026-04-05 21:06:28",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2026-04-05 21:06:28",
       "album": {
-        "name": "So Much For The Afterglow",
-        "url": "https://open.spotify.com/album/7xk1Tl6UZ8OALZkFEagPsM"
-      },
-      "artists": [
-        {
-          "name": "Everclear",
-          "url": "https://open.spotify.com/artist/694QW15WkebjcrWgQHzRYF"
-        }
-      ],
-      "duration_ms": 231400,
-      "name": "Father Of Mine",
-      "url": "https://open.spotify.com/track/2hx4ptqsE8dboLH3NCLmaN"
-    },
-    {
-      "added_at": "2026-04-05 21:06:28",
-      "album": {
         "name": "Document (R.E.M. No. 5)",
         "url": "https://open.spotify.com/album/6gMv3MgFlieOM6Uz5GZBzy"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 246933,
       "name": "It's The End Of The World As We Know It (And I Feel Fine)",
       "url": "https://open.spotify.com/track/2oSpQ7QtIKTNFfA08Cy0ku"
+    },
+    {
+      "added_at": "2026-04-05 21:06:28",
+      "album": {
+        "name": "So Much For The Afterglow",
+        "url": "https://open.spotify.com/album/7xk1Tl6UZ8OALZkFEagPsM"
+      },
+      "artists": [
+        {
+          "name": "Everclear",
+          "url": "https://open.spotify.com/artist/694QW15WkebjcrWgQHzRYF"
+        }
+      ],
+      "duration_ms": 231400,
+      "name": "Father Of Mine",
+      "url": "https://open.spotify.com/track/2hx4ptqsE8dboLH3NCLmaN"
     },
     {
       "added_at": "2026-04-05 21:06:28",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2026-04-05 21:06:28",
       "album": {
-        "name": "The Strange Case of...",
-        "url": "https://open.spotify.com/album/1d9fNpMEICkIPnJ3r6EG3A"
-      },
-      "artists": [
-        {
-          "name": "Halestorm",
-          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
-        }
-      ],
-      "duration_ms": 183506,
-      "name": "I Miss the Misery",
-      "url": "https://open.spotify.com/track/60rHc4AkLlP4XVSATvBb6K"
-    },
-    {
-      "added_at": "2026-04-05 21:06:28",
-      "album": {
         "name": "GOSSIP (feat. Tom Morello)",
         "url": "https://open.spotify.com/album/6kHJE5xnpA6zncKOD70bS8"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 168280,
       "name": "GOSSIP (feat. Tom Morello)",
       "url": "https://open.spotify.com/track/4GvPlSOKfN7aXEuGW8zKUx"
+    },
+    {
+      "added_at": "2026-04-05 21:06:28",
+      "album": {
+        "name": "The Strange Case of...",
+        "url": "https://open.spotify.com/album/1d9fNpMEICkIPnJ3r6EG3A"
+      },
+      "artists": [
+        {
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+        }
+      ],
+      "duration_ms": 183506,
+      "name": "I Miss the Misery",
+      "url": "https://open.spotify.com/track/60rHc4AkLlP4XVSATvBb6K"
     },
     {
       "added_at": "2026-04-05 21:06:28",
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2026-04-05 21:06:28",
       "album": {
-        "name": "Until The Sun Explodes",
-        "url": "https://open.spotify.com/album/1PNDImWE25WgKW8CwdWREX"
-      },
-      "artists": [
-        {
-          "name": "Sublime",
-          "url": "https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J"
-        }
-      ],
-      "duration_ms": 178800,
-      "name": "Until The Sun Explodes",
-      "url": "https://open.spotify.com/track/0xeoETh1ChVy1k7TGAS9O8"
-    },
-    {
-      "added_at": "2026-04-05 21:06:28",
-      "album": {
         "name": "Frogstomp (Deluxe Edition) [Remastered]",
         "url": "https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC"
       },
@@ -1715,6 +1699,22 @@
       "duration_ms": 266280,
       "name": "Tomorrow",
       "url": "https://open.spotify.com/track/24tO365YW6lcZr1hN4Ukzj"
+    },
+    {
+      "added_at": "2026-04-05 21:06:28",
+      "album": {
+        "name": "Until The Sun Explodes",
+        "url": "https://open.spotify.com/album/1PNDImWE25WgKW8CwdWREX"
+      },
+      "artists": [
+        {
+          "name": "Sublime",
+          "url": "https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J"
+        }
+      ],
+      "duration_ms": 178800,
+      "name": "Until The Sun Explodes",
+      "url": "https://open.spotify.com/track/0xeoETh1ChVy1k7TGAS9O8"
     },
     {
       "added_at": "2026-04-05 21:06:28",
@@ -1735,22 +1735,6 @@
     {
       "added_at": "2026-04-05 21:06:28",
       "album": {
-        "name": "Be With You",
-        "url": "https://open.spotify.com/album/7ycpduyGX9OwJqkuYbVP8n"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 215196,
-      "name": "Be With You",
-      "url": "https://open.spotify.com/track/3v1tbHo7KF5890cO0Q5jSP"
-    },
-    {
-      "added_at": "2026-04-05 21:06:28",
-      "album": {
         "name": "Renegades",
         "url": "https://open.spotify.com/album/6iVOwFVjFRoQPgj8GUwSsi"
       },
@@ -1763,6 +1747,22 @@
       "duration_ms": 274160,
       "name": "Renegades Of Funk",
       "url": "https://open.spotify.com/track/5YBVDvTSSSiqv7KZDeUlXA"
+    },
+    {
+      "added_at": "2026-04-05 21:06:28",
+      "album": {
+        "name": "Be With You",
+        "url": "https://open.spotify.com/album/7ycpduyGX9OwJqkuYbVP8n"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 215196,
+      "name": "Be With You",
+      "url": "https://open.spotify.com/track/3v1tbHo7KF5890cO0Q5jSP"
     },
     {
       "added_at": "2026-04-05 21:06:28",
@@ -1943,22 +1943,6 @@
     {
       "added_at": "2026-04-05 21:06:28",
       "album": {
-        "name": "I Love Rock 'N' Roll (Expanded Edition)",
-        "url": "https://open.spotify.com/album/555qwe1qUgLdee80TZ2CQt"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 175173,
-      "name": "I Love Rock 'N Roll",
-      "url": "https://open.spotify.com/track/2Cdvbe2G4hZsnhNMKyGrie"
-    },
-    {
-      "added_at": "2026-04-05 21:06:28",
-      "album": {
         "name": "Finger Eleven",
         "url": "https://open.spotify.com/album/4KbP58I8HjOsd1S8J7Ahjx"
       },
@@ -2003,6 +1987,22 @@
       "duration_ms": 273906,
       "name": "In A Life",
       "url": "https://open.spotify.com/track/1fbIlgO7EgYsDzk3r3uRz2"
+    },
+    {
+      "added_at": "2026-04-05 21:06:28",
+      "album": {
+        "name": "I Love Rock 'N' Roll (Expanded Edition)",
+        "url": "https://open.spotify.com/album/555qwe1qUgLdee80TZ2CQt"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 175173,
+      "name": "I Love Rock 'N Roll",
+      "url": "https://open.spotify.com/track/2Cdvbe2G4hZsnhNMKyGrie"
     },
     {
       "added_at": "2026-04-05 21:06:28",

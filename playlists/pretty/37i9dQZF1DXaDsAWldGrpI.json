@@ -1,6 +1,6 @@
 {
   "description": "Your favorite artists, recorded live - just like you were there! Cover: Eric Church",
-  "num_followers": 143302,
+  "num_followers": 143296,
   "original_name": "Country Live",
   "owner": {
     "name": "Spotify",
@@ -539,22 +539,6 @@
     {
       "added_at": "2026-04-15 17:00:10",
       "album": {
-        "name": "I'm Still Fine (Live At The Ryman)",
-        "url": "https://open.spotify.com/album/1wjcntBiHDjUXWeuh1dWjn"
-      },
-      "artists": [
-        {
-          "name": "The Red Clay Strays",
-          "url": "https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ"
-        }
-      ],
-      "duration_ms": 295050,
-      "name": "I'm Still Fine - Live At The Ryman",
-      "url": "https://open.spotify.com/track/2r0xJVRBoEc6VuuLkVS9jC"
-    },
-    {
-      "added_at": "2026-04-15 17:00:10",
-      "album": {
         "name": "An Evening With John Denver",
         "url": "https://open.spotify.com/album/0KQsJk1cmfLUwNmuVZoqT4"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 220626,
       "name": "Thank God I'm a Country Boy - Live at the Universal Amphitheatre, Los Angeles, CA - August/September 1974",
       "url": "https://open.spotify.com/track/7sVfJHBjH9cr4XsTYAwNYI"
+    },
+    {
+      "added_at": "2026-04-15 17:00:10",
+      "album": {
+        "name": "I'm Still Fine (Live At The Ryman)",
+        "url": "https://open.spotify.com/album/1wjcntBiHDjUXWeuh1dWjn"
+      },
+      "artists": [
+        {
+          "name": "The Red Clay Strays",
+          "url": "https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ"
+        }
+      ],
+      "duration_ms": 295050,
+      "name": "I'm Still Fine - Live At The Ryman",
+      "url": "https://open.spotify.com/track/2r0xJVRBoEc6VuuLkVS9jC"
     },
     {
       "added_at": "2026-04-15 17:00:10",
@@ -763,18 +763,18 @@
     {
       "added_at": "2026-04-15 17:00:10",
       "album": {
-        "name": "Live From 2025",
-        "url": "https://open.spotify.com/album/3EGfky2LBE7t8mWKtHzNeg"
+        "name": "Bullets in the Gun",
+        "url": "https://open.spotify.com/album/7JGUB3wQUb5M9pdCw2HVCH"
       },
       "artists": [
         {
-          "name": "Sam Barber",
-          "url": "https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a"
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
         }
       ],
-      "duration_ms": 307387,
-      "name": "Man of the Year - Live From 2025",
-      "url": "https://open.spotify.com/track/367yl2jWYwN2R3jP1Sce3r"
+      "duration_ms": 273826,
+      "name": "Sundown - Live at the Fillmore New York at Irving Plaza, 2010",
+      "url": "https://open.spotify.com/track/2RBfevYbpxycnnzBXZUwEi"
     },
     {
       "added_at": "2026-04-15 17:00:10",
@@ -795,18 +795,18 @@
     {
       "added_at": "2026-04-15 17:00:10",
       "album": {
-        "name": "Bullets in the Gun",
-        "url": "https://open.spotify.com/album/7JGUB3wQUb5M9pdCw2HVCH"
+        "name": "Live From 2025",
+        "url": "https://open.spotify.com/album/3EGfky2LBE7t8mWKtHzNeg"
       },
       "artists": [
         {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+          "name": "Sam Barber",
+          "url": "https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a"
         }
       ],
-      "duration_ms": 273826,
-      "name": "Sundown - Live at the Fillmore New York at Irving Plaza, 2010",
-      "url": "https://open.spotify.com/track/2RBfevYbpxycnnzBXZUwEi"
+      "duration_ms": 307387,
+      "name": "Man of the Year - Live From 2025",
+      "url": "https://open.spotify.com/track/367yl2jWYwN2R3jP1Sce3r"
     },
     {
       "added_at": "2026-04-15 17:00:10",
@@ -931,6 +931,22 @@
     {
       "added_at": "2026-04-15 17:00:10",
       "album": {
+        "name": "Country Music - A Film by Ken Burns (The Soundtrack) [Deluxe]",
+        "url": "https://open.spotify.com/album/3ZAFnRYQRAiBplISQFj7nC"
+      },
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        }
+      ],
+      "duration_ms": 163040,
+      "name": "Folsom Prison Blues - Live at Folsom State Prison, Folsom, CA - January 1968",
+      "url": "https://open.spotify.com/track/55vr0rSNotM3KY1OB7H4zf"
+    },
+    {
+      "added_at": "2026-04-15 17:00:10",
+      "album": {
         "name": "In Your Love (Live From Radio City Music Hall)",
         "url": "https://open.spotify.com/album/1I20hO7qTPRcHrjDaDaeI9"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 199106,
       "name": "Luckenbach, Texas (Back to the Basics of Love) - Live at Nassau Coliseum, Uniondale, NY - March 1990",
       "url": "https://open.spotify.com/track/2wkfdRXeYncUBraBBjeMoI"
-    },
-    {
-      "added_at": "2026-04-15 17:00:10",
-      "album": {
-        "name": "Country Music - A Film by Ken Burns (The Soundtrack) [Deluxe]",
-        "url": "https://open.spotify.com/album/3ZAFnRYQRAiBplISQFj7nC"
-      },
-      "artists": [
-        {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        }
-      ],
-      "duration_ms": 163040,
-      "name": "Folsom Prison Blues - Live at Folsom State Prison, Folsom, CA - January 1968",
-      "url": "https://open.spotify.com/track/55vr0rSNotM3KY1OB7H4zf"
     },
     {
       "added_at": "2026-04-15 17:00:10",
@@ -1079,18 +1079,22 @@
     {
       "added_at": "2026-04-15 17:00:10",
       "album": {
-        "name": "Still The One: Live From Vegas",
-        "url": "https://open.spotify.com/album/7w8yxmTdAltZOJdzMMm3KC"
+        "name": "Nobody But You (Duet with Gwen Stefani) [Live]",
+        "url": "https://open.spotify.com/album/28JOBmOhSs9ssOBgbxGTrp"
       },
       "artists": [
         {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+          "name": "Blake Shelton",
+          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
+        },
+        {
+          "name": "Gwen Stefani",
+          "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
         }
       ],
-      "duration_ms": 270186,
-      "name": "Any Man Of Mine - Live",
-      "url": "https://open.spotify.com/track/5V9PVHVvD7He5oWUo69YsQ"
+      "duration_ms": 210880,
+      "name": "Nobody But You (Duet with Gwen Stefani) - Live",
+      "url": "https://open.spotify.com/track/3twoyaIBmqSyBkIxTQYl5m"
     },
     {
       "added_at": "2026-04-15 17:00:10",
@@ -1115,22 +1119,18 @@
     {
       "added_at": "2026-04-15 17:00:10",
       "album": {
-        "name": "Nobody But You (Duet with Gwen Stefani) [Live]",
-        "url": "https://open.spotify.com/album/28JOBmOhSs9ssOBgbxGTrp"
+        "name": "Still The One: Live From Vegas",
+        "url": "https://open.spotify.com/album/7w8yxmTdAltZOJdzMMm3KC"
       },
       "artists": [
         {
-          "name": "Blake Shelton",
-          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
-        },
-        {
-          "name": "Gwen Stefani",
-          "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 210880,
-      "name": "Nobody But You (Duet with Gwen Stefani) - Live",
-      "url": "https://open.spotify.com/track/3twoyaIBmqSyBkIxTQYl5m"
+      "duration_ms": 270186,
+      "name": "Any Man Of Mine - Live",
+      "url": "https://open.spotify.com/track/5V9PVHVvD7He5oWUo69YsQ"
     },
     {
       "added_at": "2026-04-15 17:00:10",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2026-04-15 17:00:10",
       "album": {
-        "name": "One Bad Habit (Live)",
-        "url": "https://open.spotify.com/album/2WHkHvzjILIUTrxNR7yq5Y"
-      },
-      "artists": [
-        {
-          "name": "Tim McGraw",
-          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
-        }
-      ],
-      "duration_ms": 196022,
-      "name": "One Bad Habit - Live",
-      "url": "https://open.spotify.com/track/459HlWTIWPXEPG5b6QXttu"
-    },
-    {
-      "added_at": "2026-04-15 17:00:10",
-      "album": {
         "name": "Live Anthology",
         "url": "https://open.spotify.com/album/0E8GZQAximOCOgCgfIM1Lx"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 207973,
       "name": "Rhinestone Cowboy",
       "url": "https://open.spotify.com/track/6AmEL7VekAzzEqfaSFlhXT"
+    },
+    {
+      "added_at": "2026-04-15 17:00:10",
+      "album": {
+        "name": "One Bad Habit (Live)",
+        "url": "https://open.spotify.com/album/2WHkHvzjILIUTrxNR7yq5Y"
+      },
+      "artists": [
+        {
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        }
+      ],
+      "duration_ms": 196022,
+      "name": "One Bad Habit - Live",
+      "url": "https://open.spotify.com/track/459HlWTIWPXEPG5b6QXttu"
     },
     {
       "added_at": "2026-04-15 17:00:10",

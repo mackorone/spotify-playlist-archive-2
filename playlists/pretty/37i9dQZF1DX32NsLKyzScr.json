@@ -1,6 +1,6 @@
 {
   "description": "Tap it back or go for a spin with these uptempo tracks!",
-  "num_followers": 2598491,
+  "num_followers": 2598530,
   "original_name": "Power Hour",
   "owner": {
     "name": "Spotify",
@@ -243,26 +243,6 @@
     {
       "added_at": "2026-05-22 04:00:26",
       "album": {
-        "name": "Still Into You",
-        "url": "https://open.spotify.com/album/12AGcC8vmuGnxLIoyJDrj5"
-      },
-      "artists": [
-        {
-          "name": "CYRIL",
-          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
-        },
-        {
-          "name": "maryjo",
-          "url": "https://open.spotify.com/artist/1s8g8pcFxAOyuQwG4Tku0H"
-        }
-      ],
-      "duration_ms": 151875,
-      "name": "Still Into You",
-      "url": "https://open.spotify.com/track/0GYx8Q9iS05CRe9kyzwAIL"
-    },
-    {
-      "added_at": "2026-05-22 04:00:26",
-      "album": {
         "name": "Repeat It",
         "url": "https://open.spotify.com/album/01deBuS0GqIpL6avvXaE11"
       },
@@ -279,6 +259,26 @@
       "duration_ms": 191716,
       "name": "Repeat It",
       "url": "https://open.spotify.com/track/5mX5bEYxObqukGlynRIVCj"
+    },
+    {
+      "added_at": "2026-05-22 04:00:26",
+      "album": {
+        "name": "Still Into You",
+        "url": "https://open.spotify.com/album/12AGcC8vmuGnxLIoyJDrj5"
+      },
+      "artists": [
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        },
+        {
+          "name": "maryjo",
+          "url": "https://open.spotify.com/artist/1s8g8pcFxAOyuQwG4Tku0H"
+        }
+      ],
+      "duration_ms": 151875,
+      "name": "Still Into You",
+      "url": "https://open.spotify.com/track/0GYx8Q9iS05CRe9kyzwAIL"
     },
     {
       "added_at": "2026-05-22 04:00:26",
@@ -395,30 +395,6 @@
     {
       "added_at": "2026-05-22 04:00:26",
       "album": {
-        "name": "ALL THE TIME",
-        "url": "https://open.spotify.com/album/6wDs2CP86hhNiDlySlMgZy"
-      },
-      "artists": [
-        {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        },
-        {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        },
-        {
-          "name": "Ilsey",
-          "url": "https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j"
-        }
-      ],
-      "duration_ms": 180340,
-      "name": "ALL THE TIME",
-      "url": "https://open.spotify.com/track/1V8eQfZ1zpcdA9ctIb6fY7"
-    },
-    {
-      "added_at": "2026-05-22 04:00:26",
-      "album": {
         "name": "Silence (John Summit Remix)",
         "url": "https://open.spotify.com/album/1aB8GfR2SZqPihzjfWDj9p"
       },
@@ -439,6 +415,30 @@
       "duration_ms": 274736,
       "name": "Silence - John Summit Remix",
       "url": "https://open.spotify.com/track/2OP7UAuQF1OJbjeYXa5fhm"
+    },
+    {
+      "added_at": "2026-05-22 04:00:26",
+      "album": {
+        "name": "ALL THE TIME",
+        "url": "https://open.spotify.com/album/6wDs2CP86hhNiDlySlMgZy"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "Ilsey",
+          "url": "https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j"
+        }
+      ],
+      "duration_ms": 180340,
+      "name": "ALL THE TIME",
+      "url": "https://open.spotify.com/track/1V8eQfZ1zpcdA9ctIb6fY7"
     },
     {
       "added_at": "2026-05-22 04:00:26",
@@ -495,6 +495,26 @@
     {
       "added_at": "2026-05-22 04:00:26",
       "album": {
+        "name": "Fancy $hit",
+        "url": "https://open.spotify.com/album/178hg0pgag9NoDE2WLabZP"
+      },
+      "artists": [
+        {
+          "name": "CID",
+          "url": "https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO"
+        },
+        {
+          "name": "Taylr Renee",
+          "url": "https://open.spotify.com/artist/27feHJH3VKyk8FgOndiWU8"
+        }
+      ],
+      "duration_ms": 168837,
+      "name": "Fancy $hit",
+      "url": "https://open.spotify.com/track/6Ar3apWGoJLPZ3zy6Eb94F"
+    },
+    {
+      "added_at": "2026-05-22 04:00:26",
+      "album": {
         "name": "CTRL ESCAPE",
         "url": "https://open.spotify.com/album/3M5cmrMP6IkqcrpHKOwO6e"
       },
@@ -515,26 +535,6 @@
       "duration_ms": 203076,
       "name": "SHADES OF BLUE",
       "url": "https://open.spotify.com/track/6Pr51Pbeeu9PXskLUBfaBf"
-    },
-    {
-      "added_at": "2026-05-22 04:00:26",
-      "album": {
-        "name": "Fancy $hit",
-        "url": "https://open.spotify.com/album/178hg0pgag9NoDE2WLabZP"
-      },
-      "artists": [
-        {
-          "name": "CID",
-          "url": "https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO"
-        },
-        {
-          "name": "Taylr Renee",
-          "url": "https://open.spotify.com/artist/27feHJH3VKyk8FgOndiWU8"
-        }
-      ],
-      "duration_ms": 168837,
-      "name": "Fancy $hit",
-      "url": "https://open.spotify.com/track/6Ar3apWGoJLPZ3zy6Eb94F"
     },
     {
       "added_at": "2026-05-22 04:00:26",
@@ -703,6 +703,22 @@
     {
       "added_at": "2026-05-22 04:00:26",
       "album": {
+        "name": "Comes and Goes",
+        "url": "https://open.spotify.com/album/4hKZm0EEZeOi7tbUhXTeCs"
+      },
+      "artists": [
+        {
+          "name": "KETTAMA",
+          "url": "https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4"
+        }
+      ],
+      "duration_ms": 262170,
+      "name": "Comes and Goes",
+      "url": "https://open.spotify.com/track/3xQPerJjDVZrSFVE340D8r"
+    },
+    {
+      "added_at": "2026-05-22 04:00:26",
+      "album": {
         "name": "ODYSSEY",
         "url": "https://open.spotify.com/album/1Y2uYmUgox5SpSMHXu8iPC"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 232796,
       "name": "Two Hearts",
       "url": "https://open.spotify.com/track/58BZYJxcZbDngJbBQN7wdL"
-    },
-    {
-      "added_at": "2026-05-22 04:00:26",
-      "album": {
-        "name": "Comes and Goes",
-        "url": "https://open.spotify.com/album/4hKZm0EEZeOi7tbUhXTeCs"
-      },
-      "artists": [
-        {
-          "name": "KETTAMA",
-          "url": "https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4"
-        }
-      ],
-      "duration_ms": 262170,
-      "name": "Comes and Goes",
-      "url": "https://open.spotify.com/track/3xQPerJjDVZrSFVE340D8r"
     },
     {
       "added_at": "2026-05-22 04:00:26",
@@ -1203,6 +1203,26 @@
     {
       "added_at": "2026-05-22 04:00:26",
       "album": {
+        "name": "Ghost Dance",
+        "url": "https://open.spotify.com/album/3OCShZ7NWWQIBte2YbBDZB"
+      },
+      "artists": [
+        {
+          "name": "Brunello",
+          "url": "https://open.spotify.com/artist/7FZIk8RSha4GBa4ZEPuytU"
+        },
+        {
+          "name": "Vargas",
+          "url": "https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb"
+        }
+      ],
+      "duration_ms": 372480,
+      "name": "Ghost Dance",
+      "url": "https://open.spotify.com/track/3x6CEyquRREaQ9ZBbBhrGe"
+    },
+    {
+      "added_at": "2026-05-22 04:00:26",
+      "album": {
         "name": "Lost In Time",
         "url": "https://open.spotify.com/album/1c7o9ajxJB1Cz3KuncnLDz"
       },
@@ -1223,6 +1243,26 @@
       "duration_ms": 147777,
       "name": "Lost In Time",
       "url": "https://open.spotify.com/track/4LcxZayrPlz96szZpTDvBV"
+    },
+    {
+      "added_at": "2026-05-22 04:00:26",
+      "album": {
+        "name": "Not A Place (feat. Oaks)",
+        "url": "https://open.spotify.com/album/55sBLTngKmRxlB4giUYxw1"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "Oaks",
+          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
+        }
+      ],
+      "duration_ms": 160601,
+      "name": "Not A Place (feat. Oaks)",
+      "url": "https://open.spotify.com/track/0M4PMD5RpCgtCt7sWffJbh"
     },
     {
       "added_at": "2026-05-22 04:00:26",
@@ -1251,46 +1291,6 @@
     {
       "added_at": "2026-05-22 04:00:26",
       "album": {
-        "name": "Not A Place (feat. Oaks)",
-        "url": "https://open.spotify.com/album/55sBLTngKmRxlB4giUYxw1"
-      },
-      "artists": [
-        {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
-        },
-        {
-          "name": "Oaks",
-          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
-        }
-      ],
-      "duration_ms": 160601,
-      "name": "Not A Place (feat. Oaks)",
-      "url": "https://open.spotify.com/track/0M4PMD5RpCgtCt7sWffJbh"
-    },
-    {
-      "added_at": "2026-05-22 04:00:26",
-      "album": {
-        "name": "Ghost Dance",
-        "url": "https://open.spotify.com/album/3OCShZ7NWWQIBte2YbBDZB"
-      },
-      "artists": [
-        {
-          "name": "Brunello",
-          "url": "https://open.spotify.com/artist/7FZIk8RSha4GBa4ZEPuytU"
-        },
-        {
-          "name": "Vargas",
-          "url": "https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb"
-        }
-      ],
-      "duration_ms": 372480,
-      "name": "Ghost Dance",
-      "url": "https://open.spotify.com/track/3x6CEyquRREaQ9ZBbBhrGe"
-    },
-    {
-      "added_at": "2026-05-22 04:00:26",
-      "album": {
         "name": "NEWORLD II",
         "url": "https://open.spotify.com/album/3MsGUzi6KydfvhUYVZBQhK"
       },
@@ -1307,26 +1307,6 @@
       "duration_ms": 169090,
       "name": "DONA",
       "url": "https://open.spotify.com/track/30Z6Dp5Ddy6FN3xjm1XXLS"
-    },
-    {
-      "added_at": "2026-05-22 04:00:26",
-      "album": {
-        "name": "Turn Up The Dose",
-        "url": "https://open.spotify.com/album/4QVwTM7fq8X71sXAPhMi7P"
-      },
-      "artists": [
-        {
-          "name": "KREAM",
-          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
-        },
-        {
-          "name": "SCRIPT",
-          "url": "https://open.spotify.com/artist/4CvDmoy5yE6L4hdBOHg1sz"
-        }
-      ],
-      "duration_ms": 172615,
-      "name": "Turn Up The Dose",
-      "url": "https://open.spotify.com/track/4IIb4DQxNBAowpUJmKYNMD"
     },
     {
       "added_at": "2026-05-22 04:00:26",
@@ -1395,6 +1375,26 @@
       "duration_ms": 261958,
       "name": "Ain't Letting You Down",
       "url": "https://open.spotify.com/track/1vQolNYci1yfPZccu6mqIB"
+    },
+    {
+      "added_at": "2026-05-22 04:00:26",
+      "album": {
+        "name": "Turn Up The Dose",
+        "url": "https://open.spotify.com/album/4QVwTM7fq8X71sXAPhMi7P"
+      },
+      "artists": [
+        {
+          "name": "KREAM",
+          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+        },
+        {
+          "name": "SCRIPT",
+          "url": "https://open.spotify.com/artist/4CvDmoy5yE6L4hdBOHg1sz"
+        }
+      ],
+      "duration_ms": 172615,
+      "name": "Turn Up The Dose",
+      "url": "https://open.spotify.com/track/4IIb4DQxNBAowpUJmKYNMD"
     },
     {
       "added_at": "2026-05-22 04:00:26",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2026-05-22 04:00:26",
       "album": {
+        "name": "For The Soul",
+        "url": "https://open.spotify.com/album/2aOqjUv4Fw2t7TuUoIujEW"
+      },
+      "artists": [
+        {
+          "name": "Tini Gessler",
+          "url": "https://open.spotify.com/artist/5k1fr2qbGZrk40njMAyv0x"
+        }
+      ],
+      "duration_ms": 175384,
+      "name": "For The Soul",
+      "url": "https://open.spotify.com/track/3tvfmoyEtk3kuktDUssJam"
+    },
+    {
+      "added_at": "2026-05-22 04:00:26",
+      "album": {
         "name": "Can't Stop Loving You",
         "url": "https://open.spotify.com/album/0B6h2urIr10tKp0Vzh02UX"
       },
@@ -1567,22 +1583,6 @@
       "duration_ms": 168923,
       "name": "Locked In (feat. Trippie Redd)",
       "url": "https://open.spotify.com/track/55oaId1IHZV9XfvHB3P7PJ"
-    },
-    {
-      "added_at": "2026-05-22 04:00:26",
-      "album": {
-        "name": "For The Soul",
-        "url": "https://open.spotify.com/album/2aOqjUv4Fw2t7TuUoIujEW"
-      },
-      "artists": [
-        {
-          "name": "Tini Gessler",
-          "url": "https://open.spotify.com/artist/5k1fr2qbGZrk40njMAyv0x"
-        }
-      ],
-      "duration_ms": 175384,
-      "name": "For The Soul",
-      "url": "https://open.spotify.com/track/3tvfmoyEtk3kuktDUssJam"
     },
     {
       "added_at": "2026-05-22 04:00:26",
@@ -1819,26 +1819,6 @@
     {
       "added_at": "2026-05-22 04:00:26",
       "album": {
-        "name": "When I Look In Your Eyes",
-        "url": "https://open.spotify.com/album/4UzLPqPG3qQ18R7SzcJREj"
-      },
-      "artists": [
-        {
-          "name": "Above & Beyond",
-          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
-        },
-        {
-          "name": "Justine Suissa",
-          "url": "https://open.spotify.com/artist/6UKSvQC8EQZUOKtUaj5uCj"
-        }
-      ],
-      "duration_ms": 213748,
-      "name": "When I Look In Your Eyes",
-      "url": "https://open.spotify.com/track/3WTvepgeDZ5Og5G5aNbIH8"
-    },
-    {
-      "added_at": "2026-05-22 04:00:26",
-      "album": {
         "name": "Dark Matter (Deluxe)",
         "url": "https://open.spotify.com/album/6PcXqjoJnFUdkhZcqRrgnm"
       },
@@ -1871,6 +1851,26 @@
     {
       "added_at": "2026-05-22 04:00:26",
       "album": {
+        "name": "When I Look In Your Eyes",
+        "url": "https://open.spotify.com/album/4UzLPqPG3qQ18R7SzcJREj"
+      },
+      "artists": [
+        {
+          "name": "Above & Beyond",
+          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
+        },
+        {
+          "name": "Justine Suissa",
+          "url": "https://open.spotify.com/artist/6UKSvQC8EQZUOKtUaj5uCj"
+        }
+      ],
+      "duration_ms": 213748,
+      "name": "When I Look In Your Eyes",
+      "url": "https://open.spotify.com/track/3WTvepgeDZ5Og5G5aNbIH8"
+    },
+    {
+      "added_at": "2026-05-22 04:00:26",
+      "album": {
         "name": "Destiny",
         "url": "https://open.spotify.com/album/0nU3kBbCtjjOXY4mQXK4Pc"
       },
@@ -1891,18 +1891,22 @@
     {
       "added_at": "2026-05-22 04:00:26",
       "album": {
-        "name": "Turbo Speed",
-        "url": "https://open.spotify.com/album/0K72EPIuZhMavGaAjIvuUX"
+        "name": "Arp12",
+        "url": "https://open.spotify.com/album/7Co7HPNp3CaE10oPWCGth4"
       },
       "artists": [
         {
-          "name": "Control Alt Delete",
-          "url": "https://open.spotify.com/artist/67vd9gNF4DOLk91mqL6Jkd"
+          "name": "Underworld",
+          "url": "https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa"
+        },
+        {
+          "name": "KI/KI",
+          "url": "https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS"
         }
       ],
-      "duration_ms": 168275,
-      "name": "Turbo Speed",
-      "url": "https://open.spotify.com/track/0j5CaQ9881LxFM8Cwh9JuH"
+      "duration_ms": 260053,
+      "name": "Arp12",
+      "url": "https://open.spotify.com/track/1uAqEwBLKdJw8N5T7qAWMX"
     },
     {
       "added_at": "2026-05-22 04:00:26",
@@ -1927,22 +1931,18 @@
     {
       "added_at": "2026-05-22 04:00:26",
       "album": {
-        "name": "Arp12",
-        "url": "https://open.spotify.com/album/7Co7HPNp3CaE10oPWCGth4"
+        "name": "Turbo Speed",
+        "url": "https://open.spotify.com/album/0K72EPIuZhMavGaAjIvuUX"
       },
       "artists": [
         {
-          "name": "Underworld",
-          "url": "https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa"
-        },
-        {
-          "name": "KI/KI",
-          "url": "https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS"
+          "name": "Control Alt Delete",
+          "url": "https://open.spotify.com/artist/67vd9gNF4DOLk91mqL6Jkd"
         }
       ],
-      "duration_ms": 260053,
-      "name": "Arp12",
-      "url": "https://open.spotify.com/track/1uAqEwBLKdJw8N5T7qAWMX"
+      "duration_ms": 168275,
+      "name": "Turbo Speed",
+      "url": "https://open.spotify.com/track/0j5CaQ9881LxFM8Cwh9JuH"
     },
     {
       "added_at": "2026-05-22 04:00:26",
@@ -2143,6 +2143,26 @@
     {
       "added_at": "2026-05-22 04:00:26",
       "album": {
+        "name": "Annihilation",
+        "url": "https://open.spotify.com/album/6y9alfpegbSRAG98P91Nk0"
+      },
+      "artists": [
+        {
+          "name": "KREAM",
+          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+        },
+        {
+          "name": "Korolova",
+          "url": "https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx"
+        }
+      ],
+      "duration_ms": 187384,
+      "name": "Annihilation",
+      "url": "https://open.spotify.com/track/42qH7RSRQBvrMiKfKNkUto"
+    },
+    {
+      "added_at": "2026-05-22 04:00:26",
+      "album": {
         "name": "A Feeling I Miss",
         "url": "https://open.spotify.com/album/62vGqBRWJcUF2rnBOH24Bq"
       },
@@ -2199,6 +2219,26 @@
     {
       "added_at": "2026-05-22 04:00:26",
       "album": {
+        "name": "Lost My Mind",
+        "url": "https://open.spotify.com/album/3vUMb6M2VrUH3750wk7HrV"
+      },
+      "artists": [
+        {
+          "name": "Massano",
+          "url": "https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ"
+        },
+        {
+          "name": "Y do I",
+          "url": "https://open.spotify.com/artist/4GVWch4tEmNGIx9gAWrnex"
+        }
+      ],
+      "duration_ms": 119869,
+      "name": "Lost My Mind",
+      "url": "https://open.spotify.com/track/7HyS0rgA4t34Ri1dYA95oH"
+    },
+    {
+      "added_at": "2026-05-22 04:00:26",
+      "album": {
         "name": "Pump Up The Jam",
         "url": "https://open.spotify.com/album/18KZc0cUxOnJnUdWnczZNO"
       },
@@ -2231,26 +2271,6 @@
     {
       "added_at": "2026-05-22 04:00:26",
       "album": {
-        "name": "Lost My Mind",
-        "url": "https://open.spotify.com/album/3vUMb6M2VrUH3750wk7HrV"
-      },
-      "artists": [
-        {
-          "name": "Massano",
-          "url": "https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ"
-        },
-        {
-          "name": "Y do I",
-          "url": "https://open.spotify.com/artist/4GVWch4tEmNGIx9gAWrnex"
-        }
-      ],
-      "duration_ms": 119869,
-      "name": "Lost My Mind",
-      "url": "https://open.spotify.com/track/7HyS0rgA4t34Ri1dYA95oH"
-    },
-    {
-      "added_at": "2026-05-22 04:00:26",
-      "album": {
         "name": "Endless",
         "url": "https://open.spotify.com/album/3ZzkgSv5FF4L7BKt0ZqzlV"
       },
@@ -2267,26 +2287,6 @@
       "duration_ms": 196691,
       "name": "Endless",
       "url": "https://open.spotify.com/track/1I7qxmsvOhsQpJLL5s7WET"
-    },
-    {
-      "added_at": "2026-05-22 04:00:26",
-      "album": {
-        "name": "Annihilation",
-        "url": "https://open.spotify.com/album/6y9alfpegbSRAG98P91Nk0"
-      },
-      "artists": [
-        {
-          "name": "KREAM",
-          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
-        },
-        {
-          "name": "Korolova",
-          "url": "https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx"
-        }
-      ],
-      "duration_ms": 187384,
-      "name": "Annihilation",
-      "url": "https://open.spotify.com/track/42qH7RSRQBvrMiKfKNkUto"
     },
     {
       "added_at": "2026-05-22 04:00:26",
@@ -2347,22 +2347,6 @@
     {
       "added_at": "2026-05-22 04:00:26",
       "album": {
-        "name": "I Never Want This To End EP",
-        "url": "https://open.spotify.com/album/1MUzPLuWVEHUBQo9O7i6Nw"
-      },
-      "artists": [
-        {
-          "name": "Amy Wiles",
-          "url": "https://open.spotify.com/artist/4ztolv1NbTfNxSjS1EgtOX"
-        }
-      ],
-      "duration_ms": 178793,
-      "name": "I Never Want This To End",
-      "url": "https://open.spotify.com/track/6UM6c1Ehi4AWYwJbuynuTe"
-    },
-    {
-      "added_at": "2026-05-22 04:00:26",
-      "album": {
         "name": "Pull Me Closer",
         "url": "https://open.spotify.com/album/05ZGMoxJwod7dDF2yRY6WK"
       },
@@ -2375,6 +2359,22 @@
       "duration_ms": 171562,
       "name": "Pull Me Closer",
       "url": "https://open.spotify.com/track/1XSh0fpZoJi70sudcWIpEa"
+    },
+    {
+      "added_at": "2026-05-22 04:00:26",
+      "album": {
+        "name": "I Never Want This To End EP",
+        "url": "https://open.spotify.com/album/1MUzPLuWVEHUBQo9O7i6Nw"
+      },
+      "artists": [
+        {
+          "name": "Amy Wiles",
+          "url": "https://open.spotify.com/artist/4ztolv1NbTfNxSjS1EgtOX"
+        }
+      ],
+      "duration_ms": 178793,
+      "name": "I Never Want This To End",
+      "url": "https://open.spotify.com/track/6UM6c1Ehi4AWYwJbuynuTe"
     },
     {
       "added_at": "2026-05-22 04:00:26",

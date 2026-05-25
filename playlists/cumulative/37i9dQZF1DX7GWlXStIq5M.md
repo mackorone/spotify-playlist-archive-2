@@ -4,7 +4,7 @@
 
 > Os hits e novos nomes do pop dividindo o mesmo palco! Foto: Capim Limão
 
-1,149 songs - 2 day 8 hr 55 min
+1,150 songs - 2 day 8 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -699,6 +699,7 @@
 | [Não pense](https://open.spotify.com/track/0NjqpVIPCSNvzobWScfi8r) | [Jovem Dionisio](https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ) | [Não pense](https://open.spotify.com/album/5fS3KNM1kDF5j1QU3uh4ug) | 2:55 | 2025-07-25 | 2026-04-11 |
 | [Não Posso](https://open.spotify.com/track/4csVDKebs4B1qjjQt2AoGV) | [Lucas Pretti](https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op) | [Não Posso](https://open.spotify.com/album/36h6bFDEj4yMrdbBTkaXIP) | 2:27 | 2024-12-06 | 2025-12-05 |
 | [Não Posta](https://open.spotify.com/track/58571DKOdX2Zp2NOe6R90m) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov), [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Não Posta](https://open.spotify.com/album/0V6jEkF2X1yk0gwRYLr4ha) | 3:25 | 2024-05-03 | 2024-07-12 |
+| [Não Solta Minha Mão](https://open.spotify.com/track/6xpnSqg4C2NRNke03phRFd) | [Dawid](https://open.spotify.com/artist/6yPULMo0iyCHRTSZmXmsjp) | [Não Solta Minha Mão](https://open.spotify.com/album/3n9S4UdRZhnt5rqksg3qVA) | 3:08 | 2026-05-22 |  |
 | [Não Sou De Me Entregar](https://open.spotify.com/track/0tCFKbw0cXe0TIa8PzQgc0) | [Jessé Aguiar](https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC), [Caike Souza](https://open.spotify.com/artist/6tjtXcfi8CU4froDsEydxa) | [Não Sou De Me Entregar](https://open.spotify.com/album/7nR8G0opjRd3AAtzkv3qbr) | 4:02 | 2023-07-14 | 2023-08-26 |
 | [Não Volto](https://open.spotify.com/track/0coMyavxt9GBli4voSWNgs) | [Felp 22](https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Marginal Supply](https://open.spotify.com/artist/1xezfhrRJTpRtYZPplWHcJ) | [Não Volto](https://open.spotify.com/album/0fCXdqv9FuTBhCujTgurSB) | 2:50 | 2020-10-20 | 2022-07-26 |
 | [Não Vou Mais Ceder](https://open.spotify.com/track/4iV9n0PFuhKaFYHv0FHUoM) | [GHABI](https://open.spotify.com/artist/1yzhaT2wIvdMuJdrd2iRPM) | [Não Vou Mais Ceder](https://open.spotify.com/album/1EYEen74TH7ONTnfLKYBaf) | 3:00 | 2023-02-14 | 2023-04-01 |
@@ -939,7 +940,7 @@
 | [Sem Ar](https://open.spotify.com/track/6pPvyR6XrMkJysTugwPos7) | [UM44K](https://open.spotify.com/artist/3zhKxZr516VdNDa8v3oft2) | [Rebordosa](https://open.spotify.com/album/6spETHfCgTYjnmuVLAD3md) | 2:42 | 2024-11-08 | 2025-02-01 |
 | [Sem Demandas](https://open.spotify.com/track/73PJMlUkA6WyeEZtEYweq7) | [Caio Prado](https://open.spotify.com/artist/5VR80ewg2Ki9zuaAkUkxxt), [Mousik](https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM) | [Caio em Ti](https://open.spotify.com/album/6CjknY8eSPQA7ByDbzzyag) | 3:23 | 2024-03-22 | 2024-04-20 |
 | [Sem Drama](https://open.spotify.com/track/7K18CcXhquMBcm125Gfl5z) | [Juyè](https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq), [Mc Rodrigo do CN](https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC), [Mc Laranjinha](https://open.spotify.com/artist/1JJq541frMPfUIQiUoVrnp) | [Sem Drama](https://open.spotify.com/album/7u7PfUGWTzDdG8FuPj2BtI) | 3:12 | 2024-04-26 | 2024-06-22 |
-| [Sem foto, sem vídeo](https://open.spotify.com/track/1qYD1qpRCi53yAfXrez1r8) | [SANTIN](https://open.spotify.com/artist/477D9liHuINESjeGNCN1wF), [Jade Baraldo](https://open.spotify.com/artist/5sz2Sp7OkasBBmDkKerv45) | [Sem foto, sem vídeo](https://open.spotify.com/album/1SverQN2YSrveKTN2cRtRh) | 3:14 | 2025-12-05 |  |
+| [Sem foto, sem vídeo](https://open.spotify.com/track/1qYD1qpRCi53yAfXrez1r8) | [SANTIN](https://open.spotify.com/artist/477D9liHuINESjeGNCN1wF), [Jade Baraldo](https://open.spotify.com/artist/5sz2Sp7OkasBBmDkKerv45) | [Sem foto, sem vídeo](https://open.spotify.com/album/1SverQN2YSrveKTN2cRtRh) | 3:14 | 2025-12-05 | 2026-05-25 |
 | [SEM FREIO](https://open.spotify.com/track/1kuiTcaBMjotQ4bBETv3jX) | [Mia Badgyal](https://open.spotify.com/artist/4fEVOU30FExLu4AzdKtyqc), [Lua de Santana](https://open.spotify.com/artist/1SCoi5U37R1KbEQHuKKgam), [CARLO](https://open.spotify.com/artist/0J4DHkFbIhACgOkPFvWl9Y) | [SEM FREIO](https://open.spotify.com/album/6FWnVkda0JnSyAmtHkxTvr) | 3:21 | 2025-08-15 | 2025-10-04 |
 | [Sem Hora Para Voltar](https://open.spotify.com/track/1UuXxtsxfwj5RpTccEDQIQ) | [Maria Maud](https://open.spotify.com/artist/2cEDFopNYB1CRgT5P8t1bM) | [MAUD](https://open.spotify.com/album/5Koq2MvYpESKDkSObQvLTC) | 2:49 | 2023-05-12 | 2023-06-17 |
 | [SEM ROTEIRO](https://open.spotify.com/track/2L22S6sgS9rTIrLV0m6eav) | [Gabriel Henriques](https://open.spotify.com/artist/2CFXlx3qilobAs8x2acmIe), [André Nine](https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq), [Ramiroquai Beats](https://open.spotify.com/artist/6ge1L5pIkjedqXFNZbBbSU) | [Sem Roteiro](https://open.spotify.com/album/1oCglryXjtrhK3kGkcPWie) | 2:45 | 2023-06-09 | 2023-07-08 |

@@ -1,6 +1,6 @@
 {
   "description": "The latest and greatest! Revive los \u00e9xitos latinos de los \u00faltimos meses.",
-  "num_followers": 837431,
+  "num_followers": 837677,
   "original_name": "Latin Hit Mix",
   "owner": {
     "name": "Spotify",
@@ -291,26 +291,6 @@
     {
       "added_at": "2026-05-04 19:03:42",
       "album": {
-        "name": "En Privado",
-        "url": "https://open.spotify.com/album/3XWtTmeGfsUMof0HvqvLEc"
-      },
-      "artists": [
-        {
-          "name": "Xavi",
-          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
-        },
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 199399,
-      "name": "En Privado",
-      "url": "https://open.spotify.com/track/2SkB7jADnfiWH8qAE9H8cO"
-    },
-    {
-      "added_at": "2026-05-04 19:03:42",
-      "album": {
         "name": "Tropicoqueta",
         "url": "https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab"
       },
@@ -327,6 +307,26 @@
       "duration_ms": 204794,
       "name": "Coleccionando Heridas",
       "url": "https://open.spotify.com/track/3ddJ8Vbc5tYPxq5zKRVke6"
+    },
+    {
+      "added_at": "2026-05-04 19:03:42",
+      "album": {
+        "name": "En Privado",
+        "url": "https://open.spotify.com/album/3XWtTmeGfsUMof0HvqvLEc"
+      },
+      "artists": [
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "duration_ms": 199399,
+      "name": "En Privado",
+      "url": "https://open.spotify.com/track/2SkB7jADnfiWH8qAE9H8cO"
     },
     {
       "added_at": "2026-05-04 19:03:42",
@@ -383,6 +383,26 @@
     {
       "added_at": "2026-05-04 19:03:42",
       "album": {
+        "name": "Tropicoqueta",
+        "url": "https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 210047,
+      "name": "Verano Rosa",
+      "url": "https://open.spotify.com/track/0nafF9MxcXJBQWv3BTKtdF"
+    },
+    {
+      "added_at": "2026-05-04 19:03:42",
+      "album": {
         "name": "YOGURCITO REMIX (feat. Kris R., ROA)",
         "url": "https://open.spotify.com/album/3VpceHZ7RMR5Te1GljOED9"
       },
@@ -415,26 +435,6 @@
       "duration_ms": 375381,
       "name": "YOGURCITO REMIX (feat. Kris R., ROA)",
       "url": "https://open.spotify.com/track/7nrd0eIftH3NQLfgk20Qp9"
-    },
-    {
-      "added_at": "2026-05-04 19:03:42",
-      "album": {
-        "name": "Tropicoqueta",
-        "url": "https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 210047,
-      "name": "Verano Rosa",
-      "url": "https://open.spotify.com/track/0nafF9MxcXJBQWv3BTKtdF"
     },
     {
       "added_at": "2026-05-04 19:03:42",
@@ -499,6 +499,22 @@
     {
       "added_at": "2026-05-04 19:03:42",
       "album": {
+        "name": "Si Antes Te Hubiera Conocido",
+        "url": "https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 195824,
+      "name": "Si Antes Te Hubiera Conocido",
+      "url": "https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k"
+    },
+    {
+      "added_at": "2026-05-04 19:03:42",
+      "album": {
         "name": "Daddy Yankee: Bzrp Music Sessions, Vol. 0/66",
         "url": "https://open.spotify.com/album/1lYZ1jkIDGcPVbBRIadB4t"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 151805,
       "name": "Daddy Yankee: Bzrp Music Sessions, Vol. 0/66",
       "url": "https://open.spotify.com/track/2uPMsTEKx79gJ8rB3AcT0v"
-    },
-    {
-      "added_at": "2026-05-04 19:03:42",
-      "album": {
-        "name": "Si Antes Te Hubiera Conocido",
-        "url": "https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 195824,
-      "name": "Si Antes Te Hubiera Conocido",
-      "url": "https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k"
     },
     {
       "added_at": "2026-05-04 19:03:42",
@@ -599,6 +599,22 @@
     {
       "added_at": "2026-05-04 19:03:42",
       "album": {
+        "name": "Tropicoqueta",
+        "url": "https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 222458,
+      "name": "Ivonny Bonita",
+      "url": "https://open.spotify.com/track/6Sv0CzVqzydd7NYQgAG70c"
+    },
+    {
+      "added_at": "2026-05-04 19:03:42",
+      "album": {
         "name": "ISLAND BOYZ",
         "url": "https://open.spotify.com/album/3YC3UkufiKRSwdBA1BDfHj"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 218305,
       "name": "SOLEAO",
       "url": "https://open.spotify.com/track/4OsBqqMwFabHATATT527tH"
-    },
-    {
-      "added_at": "2026-05-04 19:03:42",
-      "album": {
-        "name": "Tropicoqueta",
-        "url": "https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 222458,
-      "name": "Ivonny Bonita",
-      "url": "https://open.spotify.com/track/6Sv0CzVqzydd7NYQgAG70c"
     },
     {
       "added_at": "2026-05-04 19:03:42",
@@ -1375,26 +1375,6 @@
     {
       "added_at": "2026-05-04 19:03:42",
       "album": {
-        "name": "1+1",
-        "url": "https://open.spotify.com/album/2DIxLzdiEgIh7Bh9XIv4E1"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        },
-        {
-          "name": "Kany Garc\u00eda",
-          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
-        }
-      ],
-      "duration_ms": 186047,
-      "name": "1+1",
-      "url": "https://open.spotify.com/track/4IIVfcAGxVXGMbwIpj6ZXJ"
-    },
-    {
-      "added_at": "2026-05-04 19:03:42",
-      "album": {
         "name": "CAMBIAR\u00c9",
         "url": "https://open.spotify.com/album/6ZXLMVFtEzgYNQlbUMlzAU"
       },
@@ -1431,6 +1411,26 @@
       "duration_ms": 271801,
       "name": "NUBES",
       "url": "https://open.spotify.com/track/31we7ZzWdSBEOKs5Ln6QVF"
+    },
+    {
+      "added_at": "2026-05-04 19:03:42",
+      "album": {
+        "name": "1+1",
+        "url": "https://open.spotify.com/album/2DIxLzdiEgIh7Bh9XIv4E1"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+        }
+      ],
+      "duration_ms": 186047,
+      "name": "1+1",
+      "url": "https://open.spotify.com/track/4IIVfcAGxVXGMbwIpj6ZXJ"
     },
     {
       "added_at": "2026-05-04 19:03:42",
@@ -1635,6 +1635,46 @@
     {
       "added_at": "2026-05-04 19:03:42",
       "album": {
+        "name": "LA CIUDAD",
+        "url": "https://open.spotify.com/album/18Fki3SqVPkAlPosQoQe5L"
+      },
+      "artists": [
+        {
+          "name": "Alleh",
+          "url": "https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p"
+        },
+        {
+          "name": "Yorghaki",
+          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
+        }
+      ],
+      "duration_ms": 165120,
+      "name": "la culpa (track 11)",
+      "url": "https://open.spotify.com/track/24XwHoTZKMFVwdIMGyEz39"
+    },
+    {
+      "added_at": "2026-05-04 19:03:42",
+      "album": {
+        "name": "FAN\u00c1TICO",
+        "url": "https://open.spotify.com/album/5i1q6psK3WZa28SOSqeZ8z"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "J Alvarez",
+          "url": "https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY"
+        }
+      ],
+      "duration_ms": 235102,
+      "name": "FAN\u00c1TICO",
+      "url": "https://open.spotify.com/track/0e3d2UZRjtvviXWWMRYGQo"
+    },
+    {
+      "added_at": "2026-05-04 19:03:42",
+      "album": {
         "name": "CANCI\u00d3N PARA REGRESAR",
         "url": "https://open.spotify.com/album/6ahlEbmAQ9NfewACpSbqG7"
       },
@@ -1663,58 +1703,22 @@
     {
       "added_at": "2026-05-04 19:03:42",
       "album": {
-        "name": "FAN\u00c1TICO",
-        "url": "https://open.spotify.com/album/5i1q6psK3WZa28SOSqeZ8z"
+        "name": "TU TU TU",
+        "url": "https://open.spotify.com/album/4WkJSoeofaut2WwjCfa6p0"
       },
       "artists": [
         {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+          "name": "Clave Especial",
+          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
         },
         {
-          "name": "J Alvarez",
-          "url": "https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY"
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
         }
       ],
-      "duration_ms": 235102,
-      "name": "FAN\u00c1TICO",
-      "url": "https://open.spotify.com/track/0e3d2UZRjtvviXWWMRYGQo"
-    },
-    {
-      "added_at": "2026-05-04 19:03:42",
-      "album": {
-        "name": "LA CIUDAD",
-        "url": "https://open.spotify.com/album/18Fki3SqVPkAlPosQoQe5L"
-      },
-      "artists": [
-        {
-          "name": "Alleh",
-          "url": "https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p"
-        },
-        {
-          "name": "Yorghaki",
-          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
-        }
-      ],
-      "duration_ms": 165120,
-      "name": "la culpa (track 11)",
-      "url": "https://open.spotify.com/track/24XwHoTZKMFVwdIMGyEz39"
-    },
-    {
-      "added_at": "2026-05-04 19:03:42",
-      "album": {
-        "name": "Quiero +",
-        "url": "https://open.spotify.com/album/3eF6EiinfXf9fXbyLTxFDv"
-      },
-      "artists": [
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        }
-      ],
-      "duration_ms": 128487,
-      "name": "Quiero +",
-      "url": "https://open.spotify.com/track/3qwEwtnOb6TyJkSGYEm02h"
+      "duration_ms": 151570,
+      "name": "TU TU TU",
+      "url": "https://open.spotify.com/track/5sK3SqHia7p5dXjdq1dluB"
     },
     {
       "added_at": "2026-05-04 19:03:42",
@@ -1739,22 +1743,18 @@
     {
       "added_at": "2026-05-04 19:03:42",
       "album": {
-        "name": "TU TU TU",
-        "url": "https://open.spotify.com/album/4WkJSoeofaut2WwjCfa6p0"
+        "name": "Quiero +",
+        "url": "https://open.spotify.com/album/3eF6EiinfXf9fXbyLTxFDv"
       },
       "artists": [
         {
-          "name": "Clave Especial",
-          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
-        },
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
         }
       ],
-      "duration_ms": 151570,
-      "name": "TU TU TU",
-      "url": "https://open.spotify.com/track/5sK3SqHia7p5dXjdq1dluB"
+      "duration_ms": 128487,
+      "name": "Quiero +",
+      "url": "https://open.spotify.com/track/3qwEwtnOb6TyJkSGYEm02h"
     },
     {
       "added_at": "2026-05-04 19:03:42",
@@ -1871,22 +1871,18 @@
     {
       "added_at": "2026-05-04 19:03:42",
       "album": {
-        "name": "AMISTA",
-        "url": "https://open.spotify.com/album/12kivfRERofKpsDpcinrmE"
+        "name": "BRONCEADOR",
+        "url": "https://open.spotify.com/album/1xMXyKKRsXoPe34kS7w2SF"
       },
       "artists": [
         {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        },
-        {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
         }
       ],
-      "duration_ms": 177882,
-      "name": "AMISTA",
-      "url": "https://open.spotify.com/track/1TzQqJ4hme55ZKnM86Xyw0"
+      "duration_ms": 149387,
+      "name": "BRONCEADOR",
+      "url": "https://open.spotify.com/track/6LYg8Ks95O7GNNLfB6kh4j"
     }
   ],
   "unique_name": "Latin Hit Mix",

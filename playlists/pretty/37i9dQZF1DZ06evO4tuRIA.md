@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4tuRIA.md) - [plain]
 
 > This is LEGADO 7\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,275 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,326 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4tuRIA.md) - [plain]
 | 24 | [7 BESOS](https://open.spotify.com/track/5HxaCLNA9iBqiV9nnCgfup) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [7 BESOS](https://open.spotify.com/album/63CiGFfHN0bfwDNWJB4CGE) | 3:21 |
 | 25 | [En La Bola \(feat\. El De La Guitarra\)](https://open.spotify.com/track/1MKSWLFVyxgdLKE8YUby50) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Pura Lumbre](https://open.spotify.com/album/5kyGKlaPLJ3SQB8KfZCcbz) | 2:50 |
 | 26 | [Todo A Su Tiempo](https://open.spotify.com/track/6EZXRINHTCGDwZzboCgDML) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [José Mejía](https://open.spotify.com/artist/111WEufNVhB1lRCVHAqEve), [Nivel](https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK) | [Todo A Su Tiempo](https://open.spotify.com/album/6YMvCl7JdI3KIOEwuz0b2g) | 3:37 |
-| 27 | [El Charal](https://open.spotify.com/track/0LbActOj7FMkOCwvzhvNIt) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Herencia De Grandes](https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz) | [El Charal](https://open.spotify.com/album/6oAFiQX6QKlUDv4A0NHKHQ) | 3:22 |
-| 28 | [Chevrolet 4X4](https://open.spotify.com/track/6kZs6GbMlGVkMpf6jWPGnq) | [LOS DOS DE TAMAULIPAS](https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Fácil no Fue](https://open.spotify.com/album/7iDmmYU7GgNkR7AmVlSIZ7) | 3:14 |
+| 27 | [Chevrolet 4X4](https://open.spotify.com/track/6kZs6GbMlGVkMpf6jWPGnq) | [LOS DOS DE TAMAULIPAS](https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Fácil no Fue](https://open.spotify.com/album/7iDmmYU7GgNkR7AmVlSIZ7) | 3:14 |
+| 28 | [El Charal](https://open.spotify.com/track/0LbActOj7FMkOCwvzhvNIt) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Herencia De Grandes](https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz) | [El Charal](https://open.spotify.com/album/6oAFiQX6QKlUDv4A0NHKHQ) | 3:22 |
 | 29 | [El Amor No Va Conmigo](https://open.spotify.com/track/5BC3WcsvtWm3d7nVuyAGMe) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Un Chamaco Sin Futuro](https://open.spotify.com/album/0I8yvmHFAvAnyKFxHd5KSI) | 2:21 |
 | 30 | [Soy de Michoacan](https://open.spotify.com/track/5ZwLG5AaxZuRLoIBZE5KR4) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Soy de Michoacan](https://open.spotify.com/album/6JNBghccdWUKfOdfVXDS5A) | 2:42 |
 | 31 | [BARBAS](https://open.spotify.com/track/4pr58HZduqoPXqe04ILjOr) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [BARBAS](https://open.spotify.com/album/2ttACERvbFesn4xcMfsatr) | 2:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4tuRIA.md) - [plain]
 | 49 | [MIKE TYSON](https://open.spotify.com/track/1iMecXQc0ajPS2by6Bzp5B) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [L7X](https://open.spotify.com/album/4mJCWEIyFuWVG0gNqtb8Eo) | 2:48 |
 | 50 | [Chambeando Recio](https://open.spotify.com/track/5GUn6oyW713HWxE9F1Xp0T) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Chambeando Recio](https://open.spotify.com/album/5iYuRSAA6tEhTDAOBhTDff) | 2:37 |
 
-Snapshot ID: `ag+cgAAAAABIJiIkVpsNm8lv7/8YrOle`
+Snapshot ID: `ahDuAAAAAADTjhDZAd0SpdZ1yzYQECRA`

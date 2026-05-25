@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2bQuX4pBHH.md) - [plain]
 
 > Essential tracks of Shah Rukh Khan, all in one playlist
 
-[Spotify](https://open.spotify.com/user/spotify) - 332,415 likes - 50 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 332,475 likes - 50 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2bQuX4pBHH.md) - [plain]
 | 34 | [Ek Din Aap](https://open.spotify.com/track/5fq7CGNYZKJm38HbLwMg9h) | [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn), [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz) | [Yes Boss \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4f0ooiboxVpTb7Y1jI5WH8) | 4:26 |
 | 35 | [It's the Time to Disco](https://open.spotify.com/track/3hCUkos0NxuSFl73oOHJzb) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Vasundhara Das](https://open.spotify.com/artist/0myVJmNOHZ7v7g8JVWGw8H), [KK](https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp), [Shaan](https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m), [Loy Mendonsa](https://open.spotify.com/artist/1KIKn2xA1mgC7uJTcS1hEU) | [Kal Ho Naa Ho \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6H71erprmvRxnWs3XqC8uE) | 5:33 |
 | 36 | [Tujhe Dekha To](https://open.spotify.com/track/6dFQ3W3xuG4ll7cNjIsN2Q) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn) | [Dilwale Dulhania Le Jayenge](https://open.spotify.com/album/3Z7oFffem6DRMmaVfEvm9B) | 5:02 |
-| 37 | [Mere Naam Tu](https://open.spotify.com/track/5fZ0oNVVUQe11KGpgcDCrY) | [Abhay Jodhpurkar](https://open.spotify.com/artist/27rK4pP0VMqWiRe7pamKe5) | [Zero](https://open.spotify.com/album/5z2yHjVO0vVLaFodbgdtJf) | 5:38 |
-| 38 | [Aaj Ki Raat](https://open.spotify.com/track/4bPF3oy4JsKK1UeMMn7Byf) | [Alisha Chinai](https://open.spotify.com/artist/4mBxoO0pAcMbAwuTcrcLMc), [Mahalakshmi Iyer](https://open.spotify.com/artist/0Yb0T3wUUNiIvHjqnfkbuH), [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2) | [Don](https://open.spotify.com/album/6TeyEvfuNNKYhRZpJt9BZm) | 6:08 |
+| 37 | [Aaj Ki Raat](https://open.spotify.com/track/4bPF3oy4JsKK1UeMMn7Byf) | [Alisha Chinai](https://open.spotify.com/artist/4mBxoO0pAcMbAwuTcrcLMc), [Mahalakshmi Iyer](https://open.spotify.com/artist/0Yb0T3wUUNiIvHjqnfkbuH), [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2) | [Don](https://open.spotify.com/album/6TeyEvfuNNKYhRZpJt9BZm) | 6:08 |
+| 38 | [Mere Naam Tu](https://open.spotify.com/track/5fZ0oNVVUQe11KGpgcDCrY) | [Abhay Jodhpurkar](https://open.spotify.com/artist/27rK4pP0VMqWiRe7pamKe5) | [Zero](https://open.spotify.com/album/5z2yHjVO0vVLaFodbgdtJf) | 5:38 |
 | 39 | [Suniye To](https://open.spotify.com/track/5VOnTAe9SMM6RBtq0C9wmf) | [Abhijeet](https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj) | [Yes Boss \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4f0ooiboxVpTb7Y1jI5WH8) | 5:14 |
 | 40 | [Pretty Woman](https://open.spotify.com/track/3rsx3pDYM3a08O0Yu3Tq6V) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a), [Ravi "Rags" Khote](https://open.spotify.com/artist/7jhqJGN86YT2lS3i1HgO13) | [Kal Ho Naa Ho \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6H71erprmvRxnWs3XqC8uE) | 5:53 |
 | 41 | [Ho Gaya Hai Tujhko To Pyar Sajna](https://open.spotify.com/track/2MjnGtsgfqllql2ndWdGn8) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K) | [Dilwale Dulhania Le Jayenge](https://open.spotify.com/album/3Z7oFffem6DRMmaVfEvm9B) | 5:47 |

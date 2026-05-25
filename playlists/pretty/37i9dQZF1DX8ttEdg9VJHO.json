@@ -1,6 +1,6 @@
 {
   "description": "F\u00fcr ein bisschen mehr Leichtigkeit.",
-  "num_followers": 368942,
+  "num_followers": 368961,
   "original_name": "Feelgood Pop",
   "owner": {
     "name": "Spotify",
@@ -111,6 +111,22 @@
     {
       "added_at": "2026-05-21 22:00:57",
       "album": {
+        "name": "Midnight Sun",
+        "url": "https://open.spotify.com/album/2IdHrETl3jsOYQRsF0nV16"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 189898,
+      "name": "Midnight Sun",
+      "url": "https://open.spotify.com/track/1qRV1dKLOfH1s00b9J2LUQ"
+    },
+    {
+      "added_at": "2026-05-21 22:00:57",
+      "album": {
         "name": "SHE DID IT AGAIN (feat. Zara Larsson)",
         "url": "https://open.spotify.com/album/13DVwg7TPRUC8BnLjblv5B"
       },
@@ -127,22 +143,6 @@
       "duration_ms": 213241,
       "name": "SHE DID IT AGAIN (feat. Zara Larsson)",
       "url": "https://open.spotify.com/track/3jucj0h0tajme6rUEadmWN"
-    },
-    {
-      "added_at": "2026-05-21 22:00:57",
-      "album": {
-        "name": "Midnight Sun",
-        "url": "https://open.spotify.com/album/2IdHrETl3jsOYQRsF0nV16"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 189898,
-      "name": "Midnight Sun",
-      "url": "https://open.spotify.com/track/1qRV1dKLOfH1s00b9J2LUQ"
     },
     {
       "added_at": "2026-05-21 22:00:57",
@@ -855,18 +855,18 @@
     {
       "added_at": "2026-05-21 22:00:57",
       "album": {
-        "name": "Someday Soon",
-        "url": "https://open.spotify.com/album/04IbgD1muDZCVoku5hkns4"
+        "name": "Faded Love",
+        "url": "https://open.spotify.com/album/4bX8UQWtlQQPrJunO3K345"
       },
       "artists": [
         {
-          "name": "ClockClock",
-          "url": "https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk"
+          "name": "Leony",
+          "url": "https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC"
         }
       ],
-      "duration_ms": 204802,
-      "name": "Someday Soon",
-      "url": "https://open.spotify.com/track/4rscYJB15d31PhkminLefg"
+      "duration_ms": 148345,
+      "name": "Faded Love",
+      "url": "https://open.spotify.com/track/0HzHUF33G1dPmd2eNULyfa"
     },
     {
       "added_at": "2026-05-21 22:00:57",
@@ -887,34 +887,18 @@
     {
       "added_at": "2026-05-21 22:00:57",
       "album": {
-        "name": "Faded Love",
-        "url": "https://open.spotify.com/album/4bX8UQWtlQQPrJunO3K345"
+        "name": "Someday Soon",
+        "url": "https://open.spotify.com/album/04IbgD1muDZCVoku5hkns4"
       },
       "artists": [
         {
-          "name": "Leony",
-          "url": "https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC"
+          "name": "ClockClock",
+          "url": "https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk"
         }
       ],
-      "duration_ms": 148345,
-      "name": "Faded Love",
-      "url": "https://open.spotify.com/track/0HzHUF33G1dPmd2eNULyfa"
-    },
-    {
-      "added_at": "2026-05-21 22:00:57",
-      "album": {
-        "name": "Let Me Love You",
-        "url": "https://open.spotify.com/album/105LdQFucx264gr5MMo2AX"
-      },
-      "artists": [
-        {
-          "name": "Otis Kane",
-          "url": "https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl"
-        }
-      ],
-      "duration_ms": 193181,
-      "name": "Let Me Love You",
-      "url": "https://open.spotify.com/track/4X2wd4grYiRaGjS75UncRA"
+      "duration_ms": 204802,
+      "name": "Someday Soon",
+      "url": "https://open.spotify.com/track/4rscYJB15d31PhkminLefg"
     },
     {
       "added_at": "2026-05-21 22:00:57",
@@ -935,26 +919,6 @@
     {
       "added_at": "2026-05-21 22:00:57",
       "album": {
-        "name": "No Sleep",
-        "url": "https://open.spotify.com/album/4PxjS1j0oU4kMgPTRTeSfy"
-      },
-      "artists": [
-        {
-          "name": "Alexandra Stan",
-          "url": "https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL"
-        },
-        {
-          "name": "FAULHABER",
-          "url": "https://open.spotify.com/artist/49T8i1paijMAK9rYtjO4lu"
-        }
-      ],
-      "duration_ms": 145846,
-      "name": "No Sleep",
-      "url": "https://open.spotify.com/track/6HKNYBGRBvofWjSHmfkVvE"
-    },
-    {
-      "added_at": "2026-05-21 22:00:57",
-      "album": {
         "name": "Flashback",
         "url": "https://open.spotify.com/album/5zg1NLMl5KghK5QPq9hMuV"
       },
@@ -971,6 +935,22 @@
     {
       "added_at": "2026-05-21 22:00:57",
       "album": {
+        "name": "Let Me Love You",
+        "url": "https://open.spotify.com/album/105LdQFucx264gr5MMo2AX"
+      },
+      "artists": [
+        {
+          "name": "Otis Kane",
+          "url": "https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl"
+        }
+      ],
+      "duration_ms": 193181,
+      "name": "Let Me Love You",
+      "url": "https://open.spotify.com/track/4X2wd4grYiRaGjS75UncRA"
+    },
+    {
+      "added_at": "2026-05-21 22:00:57",
+      "album": {
         "name": "last night's mascara",
         "url": "https://open.spotify.com/album/603gGKsBlrCJf6WIHbpsDk"
       },
@@ -983,6 +963,26 @@
       "duration_ms": 177350,
       "name": "last night's mascara",
       "url": "https://open.spotify.com/track/2lqoRoUIVwJZrDzmNOTQZP"
+    },
+    {
+      "added_at": "2026-05-21 22:00:57",
+      "album": {
+        "name": "No Sleep",
+        "url": "https://open.spotify.com/album/4PxjS1j0oU4kMgPTRTeSfy"
+      },
+      "artists": [
+        {
+          "name": "Alexandra Stan",
+          "url": "https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL"
+        },
+        {
+          "name": "FAULHABER",
+          "url": "https://open.spotify.com/artist/49T8i1paijMAK9rYtjO4lu"
+        }
+      ],
+      "duration_ms": 145846,
+      "name": "No Sleep",
+      "url": "https://open.spotify.com/track/6HKNYBGRBvofWjSHmfkVvE"
     },
     {
       "added_at": "2026-05-21 22:00:57",
@@ -1067,6 +1067,26 @@
     {
       "added_at": "2026-05-21 22:00:57",
       "album": {
+        "name": "Ride",
+        "url": "https://open.spotify.com/album/7dPtQ96HtsmPSq8oWsmkJv"
+      },
+      "artists": [
+        {
+          "name": "Nico Santos",
+          "url": "https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz"
+        },
+        {
+          "name": "ClockClock",
+          "url": "https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk"
+        }
+      ],
+      "duration_ms": 169866,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/0JmcyemnP0RT5C6QdOMjxA"
+    },
+    {
+      "added_at": "2026-05-21 22:00:57",
+      "album": {
         "name": "Sains et saufs (Deluxe)",
         "url": "https://open.spotify.com/album/7hvRy12Y34qbVmG0WzC4Rb"
       },
@@ -1103,22 +1123,18 @@
     {
       "added_at": "2026-05-21 22:00:57",
       "album": {
-        "name": "Ride",
-        "url": "https://open.spotify.com/album/7dPtQ96HtsmPSq8oWsmkJv"
+        "name": "Vertigo",
+        "url": "https://open.spotify.com/album/6itWOqDXkixKxRimD02770"
       },
       "artists": [
         {
-          "name": "Nico Santos",
-          "url": "https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz"
-        },
-        {
-          "name": "ClockClock",
-          "url": "https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk"
+          "name": "Dominic Neill",
+          "url": "https://open.spotify.com/artist/4PIv3Lyk3erxjcwBZFVNgi"
         }
       ],
-      "duration_ms": 169866,
-      "name": "Changes",
-      "url": "https://open.spotify.com/track/0JmcyemnP0RT5C6QdOMjxA"
+      "duration_ms": 180071,
+      "name": "Vertigo",
+      "url": "https://open.spotify.com/track/4ZrMY6RcgUPNftOt1nsyhd"
     },
     {
       "added_at": "2026-05-21 22:00:57",
@@ -1167,22 +1183,6 @@
       "duration_ms": 175413,
       "name": "Mehr davon",
       "url": "https://open.spotify.com/track/7rwAzZpANJEN0vn0pzYONW"
-    },
-    {
-      "added_at": "2026-05-21 22:00:57",
-      "album": {
-        "name": "Vertigo",
-        "url": "https://open.spotify.com/album/6itWOqDXkixKxRimD02770"
-      },
-      "artists": [
-        {
-          "name": "Dominic Neill",
-          "url": "https://open.spotify.com/artist/4PIv3Lyk3erxjcwBZFVNgi"
-        }
-      ],
-      "duration_ms": 180071,
-      "name": "Vertigo",
-      "url": "https://open.spotify.com/track/4ZrMY6RcgUPNftOt1nsyhd"
     }
   ],
   "unique_name": "Feelgood Pop",

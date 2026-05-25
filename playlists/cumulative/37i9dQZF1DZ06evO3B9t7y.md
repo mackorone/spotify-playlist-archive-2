@@ -4,7 +4,7 @@
 
 > This is Carín León\. The essential tracks, all in one playlist.
 
-205 songs - 10 hr 50 min
+206 songs - 10 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Amorcito Mio \- En Vivo](https://open.spotify.com/track/31UICcEejwN9HFOgbc17KS) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Encerrados Pero Enfiestados, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/6eMs2ZZt8PDdOj9QKNjhfg) | 3:23 | 2023-08-25 | 2024-12-27 |
 | [Amorcito Mío \- Live](https://open.spotify.com/track/0iOZvZee49EgTNJEBm1VbC) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Encerrados Pero Enfiestados Vol\. 1 \(Live\)](https://open.spotify.com/album/3EznPHQJtIYF3OH2gFUt9K) | 3:23 | 2022-06-01 | 2023-08-26 |
 | [Aunque tú no lo sepas](https://open.spotify.com/track/1sZzTN6MOnagdaHMd0n5lm) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Boca Chueca, Vol\. 1](https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU) | 3:14 | 2025-10-13 |  |
+| [Bingo](https://open.spotify.com/track/3W9cyjAeiXQP2cHsmAtImn) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [MUDA](https://open.spotify.com/album/2BiSmMZggEAlIKOFJATxut) | 2:35 | 2026-05-25 |  |
 | [Buenos Tiempos](https://open.spotify.com/track/7pDRRilFOcD5JZUuKWkDzx) | [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Buenos Tiempos](https://open.spotify.com/album/0JZFAmJrauExEk4sR9YzzV) | 3:48 | 2024-05-05 | 2024-08-06 |
 | [CAMBIA!](https://open.spotify.com/track/5cNJO43VKHxD0XGbkhboZu) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [El Madrileño](https://open.spotify.com/album/52QyC9nSbgtHFXyQRHsXJ9) | 3:08 | 2022-06-01 | 2023-05-23 |
 | [Casi oficial](https://open.spotify.com/track/1tpTj9NAKWUFEabYfkzmRH) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Boca Chueca, Vol\. 1](https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU) | 3:47 | 2024-06-06 |  |
@@ -161,7 +162,7 @@
 | [Ruca](https://open.spotify.com/track/73Iis0jeK8GvqybSakXRHd) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Ruca](https://open.spotify.com/album/6fsNOWfqMS95siXiT0XSQn) | 3:01 | 2026-05-03 |  |
 | [Secuelas De Amor](https://open.spotify.com/track/0F0vbaAjqfjK1kKH9Wyymn) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Inédito](https://open.spotify.com/album/0GjbNjkZ7Bp8rvzU6y8L4w) | 2:34 | 2022-06-01 | 2023-08-26 |
 | [Secuelas De Amor](https://open.spotify.com/track/3wavwOSbjbDahGOI16fpgG) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Inédito](https://open.spotify.com/album/2OsszrrYft2W0pprUj7jyX) | 2:34 | 2023-08-25 | 2026-04-24 |
-| [Secuelas De Amor](https://open.spotify.com/track/6d0omwCMQwRVOexEPsWAcv) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Inédito](https://open.spotify.com/album/3HRaYFwtWL2bgtnYiTpUUW) | 2:34 | 2026-04-25 |  |
+| [Secuelas De Amor](https://open.spotify.com/track/6d0omwCMQwRVOexEPsWAcv) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Inédito](https://open.spotify.com/album/3HRaYFwtWL2bgtnYiTpUUW) | 2:34 | 2026-04-25 | 2026-05-25 |
 | [Según Quién](https://open.spotify.com/track/6fNCrsrdIcgVd2aZZ0nnz4) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Según Quién](https://open.spotify.com/album/5Fqjf9AmZPobGPRuyO2fJf) | 2:22 | 2023-08-21 | 2023-12-14 |
 | [Según Quién](https://open.spotify.com/track/4bw8mcDUSRWfQo63ZTYRnU) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Don Juan](https://open.spotify.com/album/3Fk8yQvPlCHgwR2pNhEIRA) | 2:22 | 2023-12-13 |  |
 | [Señora Elegante](https://open.spotify.com/track/5u8rAoGTVaXBhwn6FZARPQ) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [El Malo](https://open.spotify.com/album/4fvBzXczcpD346IFgtWnaI) | 2:47 | 2022-06-01 | 2023-05-30 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQFcRGVLkSji.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6M7L8SMVEFvblfFmcNtgaV">BNYX®</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 394 likes - 173 songs - 8 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 395 likes - 173 songs - 8 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQFcRGVLkSji.md) - [plain]
 | 72 | [Rocket Power](https://open.spotify.com/track/4wmanmyr7qybonPp2WT5WW) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Rocket Power](https://open.spotify.com/album/0HRZ0CldV3tp7U2sTomtIf) | 3:36 |
 | 73 | [Tallër](https://open.spotify.com/track/2RYuJMA76j0mFiVbOIJWnR) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [ADL](https://open.spotify.com/album/6sKe2lWmQxRYhhUnN7dln3) | 2:48 |
 | 74 | [SUPERBOY](https://open.spotify.com/track/4YtYrEB1utkTC75rvlsH97) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [INSANO \(NITRO MEGA\)](https://open.spotify.com/album/6ofMZXVeY7dABB00zHp8WV) | 5:07 |
-| 75 | [Social Cues](https://open.spotify.com/track/7MG77R5GjIEWkAhtCdvs6v) | [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [Social Cues](https://open.spotify.com/album/72McTB3Zkf7Jek6iKiT5zV) | 3:10 |
-| 76 | [CREEPIN](https://open.spotify.com/track/2xsKrCvpBqEKPzVAodigtx) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [CREEPIN](https://open.spotify.com/album/0u7WydbfGigOa5IMHs0vbS) | 2:21 |
+| 75 | [CREEPIN](https://open.spotify.com/track/2xsKrCvpBqEKPzVAodigtx) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [CREEPIN](https://open.spotify.com/album/0u7WydbfGigOa5IMHs0vbS) | 2:21 |
+| 76 | [Social Cues](https://open.spotify.com/track/7MG77R5GjIEWkAhtCdvs6v) | [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [Social Cues](https://open.spotify.com/album/72McTB3Zkf7Jek6iKiT5zV) | 3:10 |
 | 77 | [Overthinking \(with H.E.R.\)](https://open.spotify.com/track/5IaKG7RVFKddipzaOeide9) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Trendsetter](https://open.spotify.com/album/5diRNQUhdOVkGo8TbWnMIx) | 3:10 |
 | 78 | [SMOKING IN THE RAIN \(feat\. Lil Yachty\)](https://open.spotify.com/track/6lislq9SZH4CTFXq6opVwh) | [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [SMOKING IN THE RAIN \(feat\. Lil Yachty\)](https://open.spotify.com/album/0LTKr6CYodMykZ1spMEEKF) | 1:50 |
 | 79 | [Celebrate Life](https://open.spotify.com/track/7oONzp6SJp9WcemNauVWW9) | [Charlie Heat](https://open.spotify.com/artist/0bbguzUos4LO6NikkdXdzw), [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8), [Ant Beale](https://open.spotify.com/artist/14piOhWdd0MbAPVmUqGLhH) | [Celebrate Life](https://open.spotify.com/album/0OxXoSTpr6ht78O9o216M3) | 3:19 |
@@ -182,4 +182,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQFcRGVLkSji.md) - [plain]
 | 172 | [Teach Me.](https://open.spotify.com/track/6lk7eNQnklTjsEx30gUJ80) | [Ant Beale](https://open.spotify.com/artist/14piOhWdd0MbAPVmUqGLhH) | [Life's a Hazard](https://open.spotify.com/album/0UqowJBThZPMFlqPorNSR1) | 5:00 |
 | 173 | [Divided](https://open.spotify.com/track/6NJOdQyw2EPnRAstnXNTDG) | [Warner Meadows](https://open.spotify.com/artist/0FzMywSPPmb2hqv2gvcIFk) | [Divided](https://open.spotify.com/album/2zCmstd1DA381t9zoW8QDr) | 1:44 |
 
-Snapshot ID: `AcSTEAAAAABHj/8RhBZHlnZeo6cDRnoa`
+Snapshot ID: `AcSYsAAAAAAWuSKFzk/34N+BENb8XDHs`

@@ -1,12 +1,12 @@
 {
   "description": "New and recent favorites of Prog Metal. Cover: Periphery",
-  "num_followers": 569416,
+  "num_followers": 569449,
   "original_name": "Progressive Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALNa7fyZ+N2MZBF+p3Ut6w2VhBBY",
+  "snapshot_id": "AAAAAFLHPPDYVfupjbv5vorBumXAuluy",
   "tracks": [
     {
       "added_at": "2026-05-15 04:02:10",
@@ -947,22 +947,6 @@
     {
       "added_at": "2026-05-15 04:02:10",
       "album": {
-        "name": "OXYGEN!",
-        "url": "https://open.spotify.com/album/7sEkwo3nFDzAILuvSvCzf8"
-      },
-      "artists": [
-        {
-          "name": "Evergrey",
-          "url": "https://open.spotify.com/artist/4S0foX2r0RlC12KBW8u73D"
-        }
-      ],
-      "duration_ms": 380480,
-      "name": "OXYGEN!",
-      "url": "https://open.spotify.com/track/01OuTCfQH5RKwMDaVvNEZ1"
-    },
-    {
-      "added_at": "2026-05-15 04:02:10",
-      "album": {
         "name": "To You, Author of My Fade",
         "url": "https://open.spotify.com/album/2apM6rDpbU4nU8nn0338c8"
       },
@@ -979,18 +963,34 @@
     {
       "added_at": "2026-05-15 04:02:10",
       "album": {
-        "name": "The Phantom Void",
-        "url": "https://open.spotify.com/album/3i6luWWKFx8rfVYfdfNV7E"
+        "name": "OXYGEN!",
+        "url": "https://open.spotify.com/album/7sEkwo3nFDzAILuvSvCzf8"
       },
       "artists": [
         {
-          "name": "Long Distance Calling",
-          "url": "https://open.spotify.com/artist/3SiCxhceGZgzusCLHd4Zz6"
+          "name": "Evergrey",
+          "url": "https://open.spotify.com/artist/4S0foX2r0RlC12KBW8u73D"
         }
       ],
-      "duration_ms": 473426,
-      "name": "Phantom Void",
-      "url": "https://open.spotify.com/track/5Q46MHpnqwiFcMIMGMjNVU"
+      "duration_ms": 380480,
+      "name": "OXYGEN!",
+      "url": "https://open.spotify.com/track/01OuTCfQH5RKwMDaVvNEZ1"
+    },
+    {
+      "added_at": "2026-05-15 04:02:10",
+      "album": {
+        "name": "Charismatic Leaders",
+        "url": "https://open.spotify.com/album/6cEt44K9fifMdnTxMEyds7"
+      },
+      "artists": [
+        {
+          "name": "Wheel",
+          "url": "https://open.spotify.com/artist/4msm1QtpV7zMReePhbEQ6H"
+        }
+      ],
+      "duration_ms": 260860,
+      "name": "Empire",
+      "url": "https://open.spotify.com/track/16nbE9hcJZ8OIYxmtAFOio"
     },
     {
       "added_at": "2026-05-15 04:02:10",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2026-05-15 04:02:10",
       "album": {
+        "name": "The Phantom Void",
+        "url": "https://open.spotify.com/album/3i6luWWKFx8rfVYfdfNV7E"
+      },
+      "artists": [
+        {
+          "name": "Long Distance Calling",
+          "url": "https://open.spotify.com/artist/3SiCxhceGZgzusCLHd4Zz6"
+        }
+      ],
+      "duration_ms": 473426,
+      "name": "Phantom Void",
+      "url": "https://open.spotify.com/track/5Q46MHpnqwiFcMIMGMjNVU"
+    },
+    {
+      "added_at": "2026-05-15 04:02:10",
+      "album": {
         "name": "I Am",
         "url": "https://open.spotify.com/album/7sJ0AkZceIdAKYiYYjKlwp"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 247506,
       "name": "Don't Wake The Dead",
       "url": "https://open.spotify.com/track/1AxTJaBxuMzdXFhRHQfUMz"
-    },
-    {
-      "added_at": "2026-05-15 04:02:10",
-      "album": {
-        "name": "Charismatic Leaders",
-        "url": "https://open.spotify.com/album/6cEt44K9fifMdnTxMEyds7"
-      },
-      "artists": [
-        {
-          "name": "Wheel",
-          "url": "https://open.spotify.com/artist/4msm1QtpV7zMReePhbEQ6H"
-        }
-      ],
-      "duration_ms": 260860,
-      "name": "Empire",
-      "url": "https://open.spotify.com/track/16nbE9hcJZ8OIYxmtAFOio"
     },
     {
       "added_at": "2026-05-15 04:02:10",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2026-05-15 04:02:10",
       "album": {
-        "name": "Ember",
-        "url": "https://open.spotify.com/album/29oysxY69oKBVkuY1BvDJc"
-      },
-      "artists": [
-        {
-          "name": "Plini",
-          "url": "https://open.spotify.com/artist/3Gs10XJ4S4OEFrMRqZJcic"
-        }
-      ],
-      "duration_ms": 359333,
-      "name": "Ember",
-      "url": "https://open.spotify.com/track/3eD7Z4qOcBitNcL5WRfTJR"
-    },
-    {
-      "added_at": "2026-05-15 04:02:10",
-      "album": {
         "name": "Charismatic Leaders",
         "url": "https://open.spotify.com/album/6cEt44K9fifMdnTxMEyds7"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 646400,
       "name": "Submission",
       "url": "https://open.spotify.com/track/75vZMlMCz2GUmfPtaDNAA2"
+    },
+    {
+      "added_at": "2026-05-15 04:02:10",
+      "album": {
+        "name": "Ember",
+        "url": "https://open.spotify.com/album/29oysxY69oKBVkuY1BvDJc"
+      },
+      "artists": [
+        {
+          "name": "Plini",
+          "url": "https://open.spotify.com/artist/3Gs10XJ4S4OEFrMRqZJcic"
+        }
+      ],
+      "duration_ms": 359333,
+      "name": "Ember",
+      "url": "https://open.spotify.com/track/3eD7Z4qOcBitNcL5WRfTJR"
     },
     {
       "added_at": "2026-05-15 04:02:10",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2026-05-15 04:02:10",
       "album": {
-        "name": "Noir",
-        "url": "https://open.spotify.com/album/4OsCLyDn92nl4vJp7FH41u"
-      },
-      "artists": [
-        {
-          "name": "Port Noir",
-          "url": "https://open.spotify.com/artist/6s6x6p9qZFaPfeALpVvcpR"
-        }
-      ],
-      "duration_ms": 292093,
-      "name": "Noir",
-      "url": "https://open.spotify.com/track/7L3ocnzkhY2BXKKWBd7xOY"
-    },
-    {
-      "added_at": "2026-05-15 04:02:10",
-      "album": {
         "name": "mnemonic",
         "url": "https://open.spotify.com/album/2QiKnj6bf2La7Jow51PYJG"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 226285,
       "name": "Glass",
       "url": "https://open.spotify.com/track/6JQlRaRd38T5DhUaDnR5yG"
+    },
+    {
+      "added_at": "2026-05-15 04:02:10",
+      "album": {
+        "name": "Noir",
+        "url": "https://open.spotify.com/album/4OsCLyDn92nl4vJp7FH41u"
+      },
+      "artists": [
+        {
+          "name": "Port Noir",
+          "url": "https://open.spotify.com/artist/6s6x6p9qZFaPfeALpVvcpR"
+        }
+      ],
+      "duration_ms": 292093,
+      "name": "Noir",
+      "url": "https://open.spotify.com/track/7L3ocnzkhY2BXKKWBd7xOY"
     },
     {
       "added_at": "2026-05-15 04:02:10",
@@ -1419,6 +1419,22 @@
     {
       "added_at": "2026-05-15 04:02:10",
       "album": {
+        "name": "Cinemetal",
+        "url": "https://open.spotify.com/album/51GYAV50CwKzPmKEXtu3ap"
+      },
+      "artists": [
+        {
+          "name": "Galactic Empire",
+          "url": "https://open.spotify.com/artist/07uYEzcM2ZbY0XacOINjUY"
+        }
+      ],
+      "duration_ms": 260204,
+      "name": "Godzilla",
+      "url": "https://open.spotify.com/track/1TaT6WIQxVVrg6YLvDGkY3"
+    },
+    {
+      "added_at": "2026-05-15 04:02:10",
+      "album": {
         "name": "XII: A gy\u00f6ny\u00f6r\u0171 \u00e1lmok ezut\u00e1n j\u00f6nnek",
         "url": "https://open.spotify.com/album/5egKYbgsHtB0WSi6tLDAVu"
       },
@@ -1451,22 +1467,6 @@
     {
       "added_at": "2026-05-15 04:02:10",
       "album": {
-        "name": "Cinemetal",
-        "url": "https://open.spotify.com/album/51GYAV50CwKzPmKEXtu3ap"
-      },
-      "artists": [
-        {
-          "name": "Galactic Empire",
-          "url": "https://open.spotify.com/artist/07uYEzcM2ZbY0XacOINjUY"
-        }
-      ],
-      "duration_ms": 260204,
-      "name": "Godzilla",
-      "url": "https://open.spotify.com/track/1TaT6WIQxVVrg6YLvDGkY3"
-    },
-    {
-      "added_at": "2026-05-15 04:02:10",
-      "album": {
         "name": "Psychotic Banana",
         "url": "https://open.spotify.com/album/1qDg0ds6zDDmYT7nCv9ccw"
       },
@@ -1479,22 +1479,6 @@
       "duration_ms": 229442,
       "name": "Hug My Death",
       "url": "https://open.spotify.com/track/5farC9XCNm6mDJ341fgoFu"
-    },
-    {
-      "added_at": "2026-05-15 04:02:10",
-      "album": {
-        "name": "Mirrorman",
-        "url": "https://open.spotify.com/album/0mxQqt7GimKgHaWDCaxojH"
-      },
-      "artists": [
-        {
-          "name": "Black Orchid Empire",
-          "url": "https://open.spotify.com/artist/4TrfxRxjCvOFprX1W2V8k1"
-        }
-      ],
-      "duration_ms": 305360,
-      "name": "Mirrorman",
-      "url": "https://open.spotify.com/track/5kYZdoxmF1ECBiBXVhKqXP"
     },
     {
       "added_at": "2026-05-15 04:02:10",
@@ -1531,6 +1515,22 @@
       "duration_ms": 230160,
       "name": "Break My Lying Tongue",
       "url": "https://open.spotify.com/track/5mkuAmQFK8QxgH1FVlJhAF"
+    },
+    {
+      "added_at": "2026-05-15 04:02:10",
+      "album": {
+        "name": "Mirrorman",
+        "url": "https://open.spotify.com/album/0mxQqt7GimKgHaWDCaxojH"
+      },
+      "artists": [
+        {
+          "name": "Black Orchid Empire",
+          "url": "https://open.spotify.com/artist/4TrfxRxjCvOFprX1W2V8k1"
+        }
+      ],
+      "duration_ms": 305360,
+      "name": "Mirrorman",
+      "url": "https://open.spotify.com/track/5kYZdoxmF1ECBiBXVhKqXP"
     },
     {
       "added_at": "2026-05-15 04:02:10",
@@ -1583,6 +1583,22 @@
     {
       "added_at": "2026-05-15 04:02:10",
       "album": {
+        "name": "Terror Management Theory",
+        "url": "https://open.spotify.com/album/3bYYm98M9pcR3gZl9AZGEI"
+      },
+      "artists": [
+        {
+          "name": "TEMIC",
+          "url": "https://open.spotify.com/artist/21VXRBFEQrR6Xrot1y5t7I"
+        }
+      ],
+      "duration_ms": 421601,
+      "name": "Through the Sands of Time",
+      "url": "https://open.spotify.com/track/4O5eORcT2dZTZ5RWJcELzJ"
+    },
+    {
+      "added_at": "2026-05-15 04:02:10",
+      "album": {
         "name": "Your Little Suburbia Is In Ruins",
         "url": "https://open.spotify.com/album/0vXAO3JDpkIOZgaXD4Hg1N"
       },
@@ -1611,22 +1627,6 @@
       "duration_ms": 500088,
       "name": "The Stargate [Tablet I]",
       "url": "https://open.spotify.com/track/6FCnWu5zcWDoeScwYayLv6"
-    },
-    {
-      "added_at": "2026-05-15 04:02:10",
-      "album": {
-        "name": "Terror Management Theory",
-        "url": "https://open.spotify.com/album/3bYYm98M9pcR3gZl9AZGEI"
-      },
-      "artists": [
-        {
-          "name": "TEMIC",
-          "url": "https://open.spotify.com/artist/21VXRBFEQrR6Xrot1y5t7I"
-        }
-      ],
-      "duration_ms": 421601,
-      "name": "Through the Sands of Time",
-      "url": "https://open.spotify.com/track/4O5eORcT2dZTZ5RWJcELzJ"
     },
     {
       "added_at": "2026-05-15 04:02:10",
@@ -1843,22 +1843,6 @@
     {
       "added_at": "2026-05-15 04:02:10",
       "album": {
-        "name": "Lovebite",
-        "url": "https://open.spotify.com/album/7l5C0M00szx06bZBiRfitX"
-      },
-      "artists": [
-        {
-          "name": "Haken",
-          "url": "https://open.spotify.com/artist/2SRIVGDkdqQnrQdaXxDkJt"
-        }
-      ],
-      "duration_ms": 229440,
-      "name": "Lovebite",
-      "url": "https://open.spotify.com/track/5eF04x4p4bLw6rpaNcMX8n"
-    },
-    {
-      "added_at": "2026-05-15 04:02:10",
-      "album": {
         "name": "At Races",
         "url": "https://open.spotify.com/album/1YXeMcK6jeDBQ41M3DpSZ3"
       },
@@ -1875,18 +1859,18 @@
     {
       "added_at": "2026-05-15 04:02:10",
       "album": {
-        "name": "From Nothing",
-        "url": "https://open.spotify.com/album/6NBzyj5wkRF2ILEoAaIQRQ"
+        "name": "Lovebite",
+        "url": "https://open.spotify.com/album/7l5C0M00szx06bZBiRfitX"
       },
       "artists": [
         {
-          "name": "Benthos",
-          "url": "https://open.spotify.com/artist/0A7v88d7h8uYeGaBhflb45"
+          "name": "Haken",
+          "url": "https://open.spotify.com/artist/2SRIVGDkdqQnrQdaXxDkJt"
         }
       ],
-      "duration_ms": 341480,
-      "name": "From Nothing",
-      "url": "https://open.spotify.com/track/3nr4oL6HxiQjged4NWngEs"
+      "duration_ms": 229440,
+      "name": "Lovebite",
+      "url": "https://open.spotify.com/track/5eF04x4p4bLw6rpaNcMX8n"
     },
     {
       "added_at": "2026-05-15 04:02:10",
@@ -1903,6 +1887,22 @@
       "duration_ms": 640306,
       "name": "Winds of Time",
       "url": "https://open.spotify.com/track/7piaXNn95jDeesxcdLca7E"
+    },
+    {
+      "added_at": "2026-05-15 04:02:10",
+      "album": {
+        "name": "From Nothing",
+        "url": "https://open.spotify.com/album/6NBzyj5wkRF2ILEoAaIQRQ"
+      },
+      "artists": [
+        {
+          "name": "Benthos",
+          "url": "https://open.spotify.com/artist/0A7v88d7h8uYeGaBhflb45"
+        }
+      ],
+      "duration_ms": 341480,
+      "name": "From Nothing",
+      "url": "https://open.spotify.com/track/3nr4oL6HxiQjged4NWngEs"
     },
     {
       "added_at": "2026-05-15 04:02:10",
@@ -1967,22 +1967,6 @@
     {
       "added_at": "2026-05-15 04:02:10",
       "album": {
-        "name": "Innocence Was Long Forgotten",
-        "url": "https://open.spotify.com/album/59i8Qqzatwq6dKpHDsrjcU"
-      },
-      "artists": [
-        {
-          "name": "Swallow The Sun",
-          "url": "https://open.spotify.com/artist/0ulKlNlo0iPx5ZS6VMTHWQ"
-        }
-      ],
-      "duration_ms": 260013,
-      "name": "Innocence Was Long Forgotten",
-      "url": "https://open.spotify.com/track/38xswHmNWqoAFznp81djgj"
-    },
-    {
-      "added_at": "2026-05-15 04:02:10",
-      "album": {
         "name": "Let The Truth Speak",
         "url": "https://open.spotify.com/album/4VDOK5SlUOZUvncenGt6JR"
       },
@@ -2003,6 +1987,22 @@
       "duration_ms": 647855,
       "name": "Let The Truth Speak",
       "url": "https://open.spotify.com/track/4g7bZNzADI6lzEbGQSyXsB"
+    },
+    {
+      "added_at": "2026-05-15 04:02:10",
+      "album": {
+        "name": "Innocence Was Long Forgotten",
+        "url": "https://open.spotify.com/album/59i8Qqzatwq6dKpHDsrjcU"
+      },
+      "artists": [
+        {
+          "name": "Swallow The Sun",
+          "url": "https://open.spotify.com/artist/0ulKlNlo0iPx5ZS6VMTHWQ"
+        }
+      ],
+      "duration_ms": 260013,
+      "name": "Innocence Was Long Forgotten",
+      "url": "https://open.spotify.com/track/38xswHmNWqoAFznp81djgj"
     },
     {
       "added_at": "2026-05-15 04:02:10",
@@ -2075,22 +2075,6 @@
     {
       "added_at": "2026-05-15 04:02:10",
       "album": {
-        "name": "Into the Light",
-        "url": "https://open.spotify.com/album/2jnmtzzMUJhgPmcYD62WVV"
-      },
-      "artists": [
-        {
-          "name": "Myrath",
-          "url": "https://open.spotify.com/artist/72500XOYPw5e7OgFWuW2Gl"
-        }
-      ],
-      "duration_ms": 295866,
-      "name": "Into the Light",
-      "url": "https://open.spotify.com/track/0i0XScjsRN92yj56FR2N7t"
-    },
-    {
-      "added_at": "2026-05-15 04:02:10",
-      "album": {
         "name": "The Approbation",
         "url": "https://open.spotify.com/album/5LZWPBSDx7v6HPO2DdiLPs"
       },
@@ -2103,6 +2087,22 @@
       "duration_ms": 340720,
       "name": "Isolation",
       "url": "https://open.spotify.com/track/5iTztoAvuVIYXByMIKbpAO"
+    },
+    {
+      "added_at": "2026-05-15 04:02:10",
+      "album": {
+        "name": "Into the Light",
+        "url": "https://open.spotify.com/album/2jnmtzzMUJhgPmcYD62WVV"
+      },
+      "artists": [
+        {
+          "name": "Myrath",
+          "url": "https://open.spotify.com/artist/72500XOYPw5e7OgFWuW2Gl"
+        }
+      ],
+      "duration_ms": 295866,
+      "name": "Into the Light",
+      "url": "https://open.spotify.com/track/0i0XScjsRN92yj56FR2N7t"
     },
     {
       "added_at": "2026-05-15 04:02:10",
@@ -2187,22 +2187,6 @@
     {
       "added_at": "2026-05-15 04:02:10",
       "album": {
-        "name": "of the Last Human Being",
-        "url": "https://open.spotify.com/album/21sPynlIngwnuIOcltyRjv"
-      },
-      "artists": [
-        {
-          "name": "Sleepytime Gorilla Museum",
-          "url": "https://open.spotify.com/artist/74KPeP60dRLSAAk7sFtWTC"
-        }
-      ],
-      "duration_ms": 390762,
-      "name": "Salamander in Two Worlds",
-      "url": "https://open.spotify.com/track/3ZaIvAnZRhxLNemyyRErHH"
-    },
-    {
-      "added_at": "2026-05-15 04:02:10",
-      "album": {
         "name": "Guardian",
         "url": "https://open.spotify.com/album/7HhZ4OMQ4ZSGifamWSeJ9k"
       },
@@ -2215,6 +2199,22 @@
       "duration_ms": 227186,
       "name": "Be My Guest",
       "url": "https://open.spotify.com/track/7LH01CRu66ymwEol1s71yr"
+    },
+    {
+      "added_at": "2026-05-15 04:02:10",
+      "album": {
+        "name": "of the Last Human Being",
+        "url": "https://open.spotify.com/album/21sPynlIngwnuIOcltyRjv"
+      },
+      "artists": [
+        {
+          "name": "Sleepytime Gorilla Museum",
+          "url": "https://open.spotify.com/artist/74KPeP60dRLSAAk7sFtWTC"
+        }
+      ],
+      "duration_ms": 390762,
+      "name": "Salamander in Two Worlds",
+      "url": "https://open.spotify.com/track/3ZaIvAnZRhxLNemyyRErHH"
     },
     {
       "added_at": "2026-05-15 04:02:10",
@@ -2443,18 +2443,18 @@
     {
       "added_at": "2026-05-15 04:02:10",
       "album": {
-        "name": "Moral and Consequence",
-        "url": "https://open.spotify.com/album/04miOpfHNxtzJXZ0KEywz0"
+        "name": "Piros kocsi, fekete \u00e9j",
+        "url": "https://open.spotify.com/album/0jLHOyvimhtp1UQEGfTF9z"
       },
       "artists": [
         {
-          "name": "Frost*",
-          "url": "https://open.spotify.com/artist/1Ha9FtCeuoajMbOG4Kz2d7"
+          "name": "Thy Catafalque",
+          "url": "https://open.spotify.com/artist/4sgTqbA7htxYkRRJBPZIom"
         }
       ],
-      "duration_ms": 493223,
-      "name": "Moral and Consequence",
-      "url": "https://open.spotify.com/track/3cOfZRIrGGGnNdkndnmtEC"
+      "duration_ms": 252237,
+      "name": "Piros kocsi, fekete \u00e9j",
+      "url": "https://open.spotify.com/track/5n4TEThz5HOTIohhi2PBr5"
     },
     {
       "added_at": "2026-05-15 04:02:10",
@@ -2483,18 +2483,18 @@
     {
       "added_at": "2026-05-15 04:02:10",
       "album": {
-        "name": "Piros kocsi, fekete \u00e9j",
-        "url": "https://open.spotify.com/album/0jLHOyvimhtp1UQEGfTF9z"
+        "name": "Moral and Consequence",
+        "url": "https://open.spotify.com/album/04miOpfHNxtzJXZ0KEywz0"
       },
       "artists": [
         {
-          "name": "Thy Catafalque",
-          "url": "https://open.spotify.com/artist/4sgTqbA7htxYkRRJBPZIom"
+          "name": "Frost*",
+          "url": "https://open.spotify.com/artist/1Ha9FtCeuoajMbOG4Kz2d7"
         }
       ],
-      "duration_ms": 252237,
-      "name": "Piros kocsi, fekete \u00e9j",
-      "url": "https://open.spotify.com/track/5n4TEThz5HOTIohhi2PBr5"
+      "duration_ms": 493223,
+      "name": "Moral and Consequence",
+      "url": "https://open.spotify.com/track/3cOfZRIrGGGnNdkndnmtEC"
     },
     {
       "added_at": "2026-05-15 04:02:10",

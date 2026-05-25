@@ -1,12 +1,12 @@
 {
   "description": "This is Durand Bernarr. The essential tracks, all in one playlist.",
-  "num_followers": 7217,
+  "num_followers": 7223,
   "original_name": "This Is Durand Bernarr",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ag+cgAAAAADJc3HV98zxwrD5lIE/p077",
+  "snapshot_id": "ahDuAAAAAACylo54knRwj3Dc3LetpjCp",
   "tracks": [
     {
       "added_at": null,
@@ -99,26 +99,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "TIMELESS",
-        "url": "https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh"
-      },
-      "artists": [
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        },
-        {
-          "name": "Durand Bernarr",
-          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        }
-      ],
-      "duration_ms": 207318,
-      "name": "Weird (feat. Durand Bernarr)",
-      "url": "https://open.spotify.com/track/7zvpJRsDXAwwe2nLXUP7v4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "EP 8",
         "url": "https://open.spotify.com/album/5uerg4BPdbjGolQbku0DN4"
       },
@@ -135,6 +115,26 @@
       "duration_ms": 184295,
       "name": "Self Aware",
       "url": "https://open.spotify.com/track/6EZhDRvp7JE0wb2wDsxkuc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TIMELESS",
+        "url": "https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh"
+      },
+      "artists": [
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        }
+      ],
+      "duration_ms": 207318,
+      "name": "Weird (feat. Durand Bernarr)",
+      "url": "https://open.spotify.com/track/7zvpJRsDXAwwe2nLXUP7v4"
     },
     {
       "added_at": null,
@@ -379,18 +379,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wanderlust",
-        "url": "https://open.spotify.com/album/1rTKMaQeug98fbSH29NoaG"
+        "name": "Fist Bump (feat. Free Nationals) (Radio Edit)",
+        "url": "https://open.spotify.com/album/2KKfaCj1zRMDHuCa2fmlZa"
       },
       "artists": [
         {
           "name": "Durand Bernarr",
           "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        },
+        {
+          "name": "Free Nationals",
+          "url": "https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj"
         }
       ],
-      "duration_ms": 353242,
-      "name": "Leveled",
-      "url": "https://open.spotify.com/track/7z9id29USnlNeXzmLctJXZ"
+      "duration_ms": 213000,
+      "name": "Fist Bump (feat. Free Nationals) - Radio Edit",
+      "url": "https://open.spotify.com/track/5El5mxXJzfYYr0PM61xrvn"
     },
     {
       "added_at": null,
@@ -411,22 +415,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fist Bump (feat. Free Nationals) (Radio Edit)",
-        "url": "https://open.spotify.com/album/2KKfaCj1zRMDHuCa2fmlZa"
+        "name": "Wanderlust",
+        "url": "https://open.spotify.com/album/1rTKMaQeug98fbSH29NoaG"
       },
       "artists": [
         {
           "name": "Durand Bernarr",
           "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        },
-        {
-          "name": "Free Nationals",
-          "url": "https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj"
         }
       ],
-      "duration_ms": 213000,
-      "name": "Fist Bump (feat. Free Nationals) - Radio Edit",
-      "url": "https://open.spotify.com/track/5El5mxXJzfYYr0PM61xrvn"
+      "duration_ms": 353242,
+      "name": "Leveled",
+      "url": "https://open.spotify.com/track/7z9id29USnlNeXzmLctJXZ"
     },
     {
       "added_at": null,

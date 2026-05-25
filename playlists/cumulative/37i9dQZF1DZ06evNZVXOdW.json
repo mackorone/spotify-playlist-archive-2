@@ -358,6 +358,28 @@
     {
       "album": {
         "name": "SPELLJAMS",
+        "url": "https://open.spotify.com/album/6V9QKCve0x4VTzOW8K4DK4"
+      },
+      "artists": [
+        {
+          "name": "Deru",
+          "url": "https://open.spotify.com/artist/4GolrXXRODq7bAGCod4JoV"
+        },
+        {
+          "name": "Arooj Aftab",
+          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        }
+      ],
+      "date_added": "2026-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 469421,
+      "name": "Forgotten Land",
+      "url": "https://open.spotify.com/track/5HYvoAY6OwZp4hKHUA5rtV"
+    },
+    {
+      "album": {
+        "name": "SPELLJAMS",
         "url": "https://open.spotify.com/album/3HAMuPpHQQKKKJcH2dUNsa"
       },
       "artists": [

@@ -4,7 +4,7 @@
 
 > 
 
-207 songs - 10 hr 47 min
+209 songs - 10 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,6 +153,7 @@
 | [Que Somos](https://open.spotify.com/track/1QoB6CQN6Z1FLbiOQSfRVk) | [Cuppi](https://open.spotify.com/artist/7qJ7rS141xQGiTS3n1VnNz) | [Que Somos](https://open.spotify.com/album/36rJf96FhE3in0acXjO42K) | 2:42 | 2026-03-25 |  |
 | [Que somos¿](https://open.spotify.com/track/0SARdMrIILVY8go5R421YG) | [Marche](https://open.spotify.com/artist/5x8Xce2apfeu5ETjcA0Das) | [Que somos¿](https://open.spotify.com/album/7kQMcWVDuXVW9ZIebJFIRp) | 1:59 | 2025-03-12 |  |
 | [Quien Te Azota?](https://open.spotify.com/track/1PvuFHjDJii2tFTeqP4yVq) | [FARDY](https://open.spotify.com/artist/46YEtFyBgkWpFLkEE5C4Hc), [Adal Palacios](https://open.spotify.com/artist/1ybBqXrXyErUMB9DchGSjc), [El HA](https://open.spotify.com/artist/4aOhbiEACFgXO6CzfZiPGL) | [PERREKE MEXA](https://open.spotify.com/album/6DvAY3z2vHQQLi7dPaW5HP) | 2:23 | 2026-04-02 |  |
+| [Quién Fue](https://open.spotify.com/track/45bjTeHE9rTMRRK7nOoYmg) | [Morales](https://open.spotify.com/artist/1ZzjFl9TaQcLtzxOhStXg7) | [Quién Fue](https://open.spotify.com/album/4d319p2fIRlckRPAoWVIYV) | 2:30 | 2026-05-24 |  |
 | [Qué](https://open.spotify.com/track/0lUqFiMk0tBvz4RpWnvC1V) | [«nila»](https://open.spotify.com/artist/2m4t4EiUFYIY811xfsZN8L) | [Acto I](https://open.spotify.com/album/07e5UtPSZL1Mq5FT9kUqvS) | 4:02 | 2025-04-01 |  |
 | [Rarin 2 Go](https://open.spotify.com/track/4Dk2rnFHeevPMNXOSHwOFG) | [Gran Fenwick](https://open.spotify.com/artist/0VEN5dR1HedhA1jEGYMRcz) | [Rarin 2 Go](https://open.spotify.com/album/3YcjoAKw196XeiA03g1CVr) | 4:16 | 2026-03-06 |  |
 | [RECONSIDER EVERYTHING](https://open.spotify.com/track/3cRRXFl6HJYXZD2dRxqtQO) | [Mainframe Bird](https://open.spotify.com/artist/7zrn1RRWZSyZM6SgNmcrWt) | [BLURRY](https://open.spotify.com/album/58mFWI4ZlgDeQLleTCZ3do) | 3:50 | 2026-05-06 |  |
@@ -163,6 +164,7 @@
 | [Rip Tides \- Mikheil Music Remix](https://open.spotify.com/track/4EoPJZ8emPBql4Dt3km1Hb) | [Mira Sthira](https://open.spotify.com/artist/2hFK4B23ncCVrAqT29eqiq), [Mikheil Music](https://open.spotify.com/artist/5sYglx5GgL1LmCxXBfymsY) | [Rip Tides \(Mikheil Music Remix\)](https://open.spotify.com/album/7CKIh8AKK0owogevQTRqnM) | 5:16 | 2025-12-22 |  |
 | [Rosemary Gold](https://open.spotify.com/track/0KRNkNKm0l88HTP56Xfso7) | [FXCELESS](https://open.spotify.com/artist/20PXVmxGDqANBC2SSezzSl) | [Rosemary Gold](https://open.spotify.com/album/4e0XQZiKL95mxpnpDFjDAg) | 2:10 | 2026-01-09 |  |
 | [ROTO](https://open.spotify.com/track/5EATqvvq7FvnNxtTYymbfe) | [Ecuaxel](https://open.spotify.com/artist/752FyhTCidwubenzuTtLtk) | [ROTO](https://open.spotify.com/album/4lleNR7Guf06eqPT1sEtKd) | 2:57 | 2026-01-18 |  |
+| [rush touch](https://open.spotify.com/track/4JXstHX6Tv9ocTYt86oEE3) | [Rafael Dies](https://open.spotify.com/artist/4td046m3qUPVqi53lzbw3N) | [rush touch](https://open.spotify.com/album/7e433qsvsyuanoOFJAgkKZ) | 2:33 | 2026-05-24 |  |
 | [russian roulette](https://open.spotify.com/track/6FKpFWybDMmj3dH9Uap2E8) | [Rafael Dies](https://open.spotify.com/artist/4td046m3qUPVqi53lzbw3N) | [russian roulette](https://open.spotify.com/album/5FJsgeXI6L9CMot8JMQZQL) | 2:20 | 2026-03-25 |  |
 | [Save the Grin](https://open.spotify.com/track/2hOlF6gN2O5N1iPcuXbu7d) | [The Thick Uns'](https://open.spotify.com/artist/6ccHRbcIouqzsSExLYiRCq) | [Deadly Bargain](https://open.spotify.com/album/5vphnozEZ5bBylR35UxvG2) | 4:05 | 2026-04-07 |  |
 | [Shadow On That Wall](https://open.spotify.com/track/26Hnnzyv8G31g3pLs8YZ2X) | [Skyyy](https://open.spotify.com/artist/4EmOC9W13wmWQyJTYyqyXo) | [Shadow On That Wall](https://open.spotify.com/album/4nssfVrog8nSlQYmJbw3pI) | 4:49 | 2026-04-12 |  |

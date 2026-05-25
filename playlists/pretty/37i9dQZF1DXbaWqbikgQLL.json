@@ -1,6 +1,6 @@
 {
   "description": "Antes de entrar, permita salir.",
-  "num_followers": 81629,
+  "num_followers": 81681,
   "original_name": "Coraz\u00f3n Chilango",
   "owner": {
     "name": "Spotify",
@@ -319,22 +319,6 @@
     {
       "added_at": "2025-09-26 06:00:27",
       "album": {
-        "name": "Avalancha de \u00e9xitos",
-        "url": "https://open.spotify.com/album/33iiSdb0XhQI0dSstspDls"
-      },
-      "artists": [
-        {
-          "name": "Caf\u00e9 Tacvba",
-          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
-        }
-      ],
-      "duration_ms": 214880,
-      "name": "Como te extra\u00f1o mi amor",
-      "url": "https://open.spotify.com/track/6hFHsQWB7HdVrSe7efRR82"
-    },
-    {
-      "added_at": "2025-09-26 06:00:27",
-      "album": {
         "name": "Tus Jefes No Me Quieren. Lleg\u00f3 la Cumbia",
         "url": "https://open.spotify.com/album/59DJY70HuReCmWs6EzRoNA"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 226346,
       "name": "Tus Jefes No Me Quieren",
       "url": "https://open.spotify.com/track/5ZkVnHs6BZViyXnl4LmRXh"
+    },
+    {
+      "added_at": "2025-09-26 06:00:27",
+      "album": {
+        "name": "Avalancha de \u00e9xitos",
+        "url": "https://open.spotify.com/album/33iiSdb0XhQI0dSstspDls"
+      },
+      "artists": [
+        {
+          "name": "Caf\u00e9 Tacvba",
+          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
+        }
+      ],
+      "duration_ms": 214880,
+      "name": "Como te extra\u00f1o mi amor",
+      "url": "https://open.spotify.com/track/6hFHsQWB7HdVrSe7efRR82"
     },
     {
       "added_at": "2025-09-26 06:00:27",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2025-09-26 06:00:27",
       "album": {
-        "name": "Sue\u00f1os de Anoche",
-        "url": "https://open.spotify.com/album/5B2tIZLviuK1wYbrxA9cff"
-      },
-      "artists": [
-        {
-          "name": "Los Estramboticos",
-          "url": "https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx"
-        }
-      ],
-      "duration_ms": 237666,
-      "name": "La Herida",
-      "url": "https://open.spotify.com/track/0vQfzyjQFHQ208JCNjcE5H"
-    },
-    {
-      "added_at": "2025-09-26 06:00:27",
-      "album": {
         "name": "Espantan (Remix)",
         "url": "https://open.spotify.com/album/0JRUGOfvqo7A2l6NYPnjY5"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 218019,
       "name": "Espantan - Remix",
       "url": "https://open.spotify.com/track/2EocM6oTLy6WUBTCipObqj"
+    },
+    {
+      "added_at": "2025-09-26 06:00:27",
+      "album": {
+        "name": "Sue\u00f1os de Anoche",
+        "url": "https://open.spotify.com/album/5B2tIZLviuK1wYbrxA9cff"
+      },
+      "artists": [
+        {
+          "name": "Los Estramboticos",
+          "url": "https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx"
+        }
+      ],
+      "duration_ms": 237666,
+      "name": "La Herida",
+      "url": "https://open.spotify.com/track/0vQfzyjQFHQ208JCNjcE5H"
     },
     {
       "added_at": "2025-09-26 06:00:27",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2025-09-26 06:00:27",
       "album": {
-        "name": "Cumbia Buena",
-        "url": "https://open.spotify.com/album/2hKZd4cGeRpBrO8R8YegAB"
-      },
-      "artists": [
-        {
-          "name": "Grupo la Cumbia",
-          "url": "https://open.spotify.com/artist/4pInEVYnkBM7SjkcNrS33s"
-        }
-      ],
-      "duration_ms": 213791,
-      "name": "Cumbia Buena",
-      "url": "https://open.spotify.com/track/74pSi4Ukm4geJABToCxGgr"
-    },
-    {
-      "added_at": "2025-09-26 06:00:27",
-      "album": {
         "name": "Mar\u00eda (Remastered)",
         "url": "https://open.spotify.com/album/0hIFRE4KyYl4RZHASuJYgF"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 264289,
       "name": "Mar\u00eda",
       "url": "https://open.spotify.com/track/0GMNzFmH1JTNBbA09az4Vw"
+    },
+    {
+      "added_at": "2025-09-26 06:00:27",
+      "album": {
+        "name": "Cumbia Buena",
+        "url": "https://open.spotify.com/album/2hKZd4cGeRpBrO8R8YegAB"
+      },
+      "artists": [
+        {
+          "name": "Grupo la Cumbia",
+          "url": "https://open.spotify.com/artist/4pInEVYnkBM7SjkcNrS33s"
+        }
+      ],
+      "duration_ms": 213791,
+      "name": "Cumbia Buena",
+      "url": "https://open.spotify.com/track/74pSi4Ukm4geJABToCxGgr"
     },
     {
       "added_at": "2025-09-26 06:00:27",
@@ -1579,6 +1579,22 @@
     {
       "added_at": "2025-09-26 06:00:27",
       "album": {
+        "name": "Fantasma El\u00e9ctrico",
+        "url": "https://open.spotify.com/album/58OQyZOmn9v9LteNvknpxl"
+      },
+      "artists": [
+        {
+          "name": "Interpuesto",
+          "url": "https://open.spotify.com/artist/2BbXMNKjkmAw56U7oXQDLB"
+        }
+      ],
+      "duration_ms": 200063,
+      "name": "Quien Te Cantara",
+      "url": "https://open.spotify.com/track/5VNbwfrRBUJfUcwH8nFs1v"
+    },
+    {
+      "added_at": "2025-09-26 06:00:27",
+      "album": {
         "name": "Piel A Piel",
         "url": "https://open.spotify.com/album/0wY4TCOxdgOSvWimtb3iRA"
       },
@@ -1595,22 +1611,6 @@
       "duration_ms": 222773,
       "name": "Te Vas",
       "url": "https://open.spotify.com/track/4f9eB0jXvDMNgSZdiEez6K"
-    },
-    {
-      "added_at": "2025-09-26 06:00:27",
-      "album": {
-        "name": "Fantasma El\u00e9ctrico",
-        "url": "https://open.spotify.com/album/58OQyZOmn9v9LteNvknpxl"
-      },
-      "artists": [
-        {
-          "name": "Interpuesto",
-          "url": "https://open.spotify.com/artist/2BbXMNKjkmAw56U7oXQDLB"
-        }
-      ],
-      "duration_ms": 200063,
-      "name": "Quien Te Cantara",
-      "url": "https://open.spotify.com/track/5VNbwfrRBUJfUcwH8nFs1v"
     },
     {
       "added_at": "2025-09-26 06:00:27",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2025-09-26 06:00:27",
       "album": {
-        "name": "Folklore Tropical",
-        "url": "https://open.spotify.com/album/3U8KQJKMc4G13gGkVYgDRq"
-      },
-      "artists": [
-        {
-          "name": "Aaron Y Su Grupo Ilusion",
-          "url": "https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ"
-        }
-      ],
-      "duration_ms": 283226,
-      "name": "No Voy A Llorar",
-      "url": "https://open.spotify.com/track/2hlpyDeBu0KnJHv5dqHvgh"
-    },
-    {
-      "added_at": "2025-09-26 06:00:27",
-      "album": {
         "name": "Avalancha de \u00e9xitos",
         "url": "https://open.spotify.com/album/33iiSdb0XhQI0dSstspDls"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 212066,
       "name": "Chilanga banda",
       "url": "https://open.spotify.com/track/6004tMws4nCQqtGBaInsF0"
+    },
+    {
+      "added_at": "2025-09-26 06:00:27",
+      "album": {
+        "name": "Folklore Tropical",
+        "url": "https://open.spotify.com/album/3U8KQJKMc4G13gGkVYgDRq"
+      },
+      "artists": [
+        {
+          "name": "Aaron Y Su Grupo Ilusion",
+          "url": "https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ"
+        }
+      ],
+      "duration_ms": 283226,
+      "name": "No Voy A Llorar",
+      "url": "https://open.spotify.com/track/2hlpyDeBu0KnJHv5dqHvgh"
     },
     {
       "added_at": "2025-09-26 06:00:27",
@@ -1855,22 +1855,6 @@
     {
       "added_at": "2025-09-26 06:00:27",
       "album": {
-        "name": "Del Barrio Bravo para el Mundo",
-        "url": "https://open.spotify.com/album/4VttcAL7Sf7W7qUVei2bYT"
-      },
-      "artists": [
-        {
-          "name": "Son Tepito",
-          "url": "https://open.spotify.com/artist/5YkLIvSOwaDZjeI0YwiZ3m"
-        }
-      ],
-      "duration_ms": 249080,
-      "name": "Marisol",
-      "url": "https://open.spotify.com/track/12sPhdO6ShhswdebUQGArQ"
-    },
-    {
-      "added_at": "2025-09-26 06:00:27",
-      "album": {
         "name": "15 Grandes \u00c9xitos",
         "url": "https://open.spotify.com/album/5gd5kQbqAKWxckZvtSTtA0"
       },
@@ -1883,6 +1867,22 @@
       "duration_ms": 255746,
       "name": "Vaquero Rockanrolero",
       "url": "https://open.spotify.com/track/6imxKxbwy0GI2nU5tfIs27"
+    },
+    {
+      "added_at": "2025-09-26 06:00:27",
+      "album": {
+        "name": "Del Barrio Bravo para el Mundo",
+        "url": "https://open.spotify.com/album/4VttcAL7Sf7W7qUVei2bYT"
+      },
+      "artists": [
+        {
+          "name": "Son Tepito",
+          "url": "https://open.spotify.com/artist/5YkLIvSOwaDZjeI0YwiZ3m"
+        }
+      ],
+      "duration_ms": 249080,
+      "name": "Marisol",
+      "url": "https://open.spotify.com/track/12sPhdO6ShhswdebUQGArQ"
     },
     {
       "added_at": "2025-09-26 06:00:27",

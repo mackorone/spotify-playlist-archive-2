@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > Listen to women at full volume\. Cover: Quiet Light
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,108 likes - 54 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,113 likes - 54 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 21 | [Time Will Tell](https://open.spotify.com/track/1v9OAyGabSeIOH2VWIJ0wx) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Empty Hands](https://open.spotify.com/album/5lBm36eO5Us3NpTXaA9t9C) | 3:27 |
 | 22 | [You Can Have Him](https://open.spotify.com/track/2Fk3aGFUTMniC8tNSJWe4S) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [You Can Have Him](https://open.spotify.com/album/2sLwRHswcURQ3Oe0chhcN8) | 3:15 |
 | 23 | [Curious](https://open.spotify.com/track/4riWIw7bjHRKCWeeCFxV3o) | [Emyrson Flora](https://open.spotify.com/artist/7ojpclnAqwGSfHaSDKDRNW) | [Aren't You Curious?](https://open.spotify.com/album/5Fdzfm44sC8htznFfFdAqA) | 3:04 |
-| 24 | [Testimony](https://open.spotify.com/track/57raDV5u2fktsZTXZTqnpI) | [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP), [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Testimony](https://open.spotify.com/album/5U2jgBcYY2ajkqFfzGvAsc) | 4:02 |
-| 25 | [Don’t Make Me Love U](https://open.spotify.com/track/5RCxs4hI3l01zASQkClUnm) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Don’t Make Me Love U](https://open.spotify.com/album/5QQH6wCepwybR1tvROlfKy) | 3:25 |
+| 24 | [Don’t Make Me Love U](https://open.spotify.com/track/5RCxs4hI3l01zASQkClUnm) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Don’t Make Me Love U](https://open.spotify.com/album/5QQH6wCepwybR1tvROlfKy) | 3:25 |
+| 25 | [Testimony](https://open.spotify.com/track/57raDV5u2fktsZTXZTqnpI) | [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP), [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Testimony](https://open.spotify.com/album/5U2jgBcYY2ajkqFfzGvAsc) | 4:02 |
 | 26 | [kiss goodbye](https://open.spotify.com/track/2fv6il8oAlsoOP7sKohscF) | [The Two Lips](https://open.spotify.com/artist/0jtiZkDcuWRf647co8id50) | [kiss goodbye / brb](https://open.spotify.com/album/45omOM9b7ujbjudttnasFa) | 2:43 |
 | 27 | [Addicted](https://open.spotify.com/track/14yugoFdkgO8ZUxLlX6fpJ) | [Jackie Hollander](https://open.spotify.com/artist/5ykY9Uweo3gl5VFpb6z6pQ) | [Addicted](https://open.spotify.com/album/3BxfwMC0HjWxk7muzxUqyk) | 2:43 |
 | 28 | [Oops](https://open.spotify.com/track/5HUqlNEKgLwBiPfpK9wBaX) | [Momo Boyd](https://open.spotify.com/artist/5gqxLVfjWfNZ6dsKL05NKd), [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Miss Michigan](https://open.spotify.com/album/403xK3xBydTLfaBxctsZ2X) | 2:26 |
@@ -50,16 +50,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 40 | [SURFBOARD](https://open.spotify.com/track/4Qos8gdRj92oPPNplKREFj) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [AMOR & DROGA](https://open.spotify.com/album/2nEcbAjssahw9l2VdiZswg) | 3:31 |
 | 41 | [You Remain](https://open.spotify.com/track/3266gTer0klnum066VVwlB) | [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP) | [You Remain](https://open.spotify.com/album/16zT4Ip6VV3DeWDzPfYjsb) | 2:57 |
 | 42 | [\(ENAMORADA\)](https://open.spotify.com/track/2KUW8OQ0zoE6zTCXx2bYpk) | [nic](https://open.spotify.com/artist/3wvB1waB73AEUljz3Gl5Ph) | [\(enamorada\)](https://open.spotify.com/album/1IMEV21sysi2IQjjOaarS7) | 4:01 |
-| 43 | [Don't Stop](https://open.spotify.com/track/2JgqwzlOSIxq5WmXKJdnVp) | [HoneyLuv](https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Don't Stop](https://open.spotify.com/album/0194cIBrgVyNYXLk0csjjF) | 2:55 |
-| 44 | [Una Vez Y Ya](https://open.spotify.com/track/6joFkH4jcJwW4QefTVphZD) | [RIA](https://open.spotify.com/artist/21suutlchqrS2j8b2tjEWt) | [Una Vez Y Ya](https://open.spotify.com/album/3H0L8xL0Ha6FhfycLHz5oR) | 2:34 |
+| 43 | [Una Vez Y Ya](https://open.spotify.com/track/6joFkH4jcJwW4QefTVphZD) | [RIA](https://open.spotify.com/artist/21suutlchqrS2j8b2tjEWt) | [Una Vez Y Ya](https://open.spotify.com/album/3H0L8xL0Ha6FhfycLHz5oR) | 2:34 |
+| 44 | [Don't Stop](https://open.spotify.com/track/2JgqwzlOSIxq5WmXKJdnVp) | [HoneyLuv](https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Don't Stop](https://open.spotify.com/album/0194cIBrgVyNYXLk0csjjF) | 2:55 |
 | 45 | [just friends](https://open.spotify.com/track/0sP4yWgpbVOTq5ttjo4lSW) | [camille blackman](https://open.spotify.com/artist/5jswcyyCL6uoFlF9TaEtHc) | [just friends](https://open.spotify.com/album/6wQxgwBgSGrktX8yuskrX8) | 3:28 |
 | 46 | [6ft Under](https://open.spotify.com/track/23u8tBDy1IBq0VajnoDQzx) | [KELS](https://open.spotify.com/artist/0JzgaVLxpCeDg5WIm06DsU) | [6ft Under](https://open.spotify.com/album/5LaPPtttpfc4UHqKWQUJkX) | 3:30 |
 | 47 | [Drunk Cigs](https://open.spotify.com/track/6cwCpbUf4SNAl4GxnQnJfL) | [Mackenzie Carpenter](https://open.spotify.com/artist/1gYlQ5LjfQz9QPaCApCsDZ) | [Drunk Cigs](https://open.spotify.com/album/1SBpNaoGLqkAPhN88qIXCP) | 3:41 |
 | 48 | [People Like Us](https://open.spotify.com/track/4OtVMOooJI6jPn6jvAT9k2) | [Jackie Hollander](https://open.spotify.com/artist/5ykY9Uweo3gl5VFpb6z6pQ), [Charlie Shell](https://open.spotify.com/artist/1hxWpdJKpsP6vKbnwhSlwk) | [People Like Us](https://open.spotify.com/album/5hv79KtUL5zPYmNHaexXoM) | 3:12 |
 | 49 | [Growing Down](https://open.spotify.com/track/4sSoej1nVKu9pmN7yI9CD1) | [Robyn Ottolini](https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb) | [Growing Down](https://open.spotify.com/album/3iajKt3PJf8HHpfjagIjHQ) | 3:17 |
 | 50 | [Clink](https://open.spotify.com/track/60eUWIGVnOBdVOs14dz0UP) | [See You Next Year](https://open.spotify.com/artist/6NV0b1K9BhoZYSBk9ZPnWv), [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed) | [SYNY 3 ACT III](https://open.spotify.com/album/4HGO4xsnxiXdUylihPjTUB) | 2:40 |
-| 51 | [Mine](https://open.spotify.com/track/6V09S8iaQsKap9oL42kFOB) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Música Para Abrir El Cielo: Act 2](https://open.spotify.com/album/5ldBkVAD5y37hG1ymDlzCh) | 2:27 |
-| 52 | [WEAPON](https://open.spotify.com/track/0PAQ2onMF2K69b2IYtK8yX) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Somewhere In Between](https://open.spotify.com/album/5KJPUWvsYR8QKCITHAY9zG) | 2:27 |
+| 51 | [WEAPON](https://open.spotify.com/track/0PAQ2onMF2K69b2IYtK8yX) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Somewhere In Between](https://open.spotify.com/album/5KJPUWvsYR8QKCITHAY9zG) | 2:27 |
+| 52 | [Mine](https://open.spotify.com/track/6V09S8iaQsKap9oL42kFOB) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Música Para Abrir El Cielo: Act 2](https://open.spotify.com/album/5ldBkVAD5y37hG1ymDlzCh) | 2:27 |
 | 53 | [Dead End](https://open.spotify.com/track/2DcJRwVK6Qlk3h6lXWQvE4) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Dead End](https://open.spotify.com/album/3wDIP40j3CcyfvmVjiN6v9) | 4:05 |
 | 54 | [Your Mother](https://open.spotify.com/track/7eq64AWsnSuYEE2861FRuD) | [Rita Wilson](https://open.spotify.com/artist/60LfX8q7jliswygVxBPIL4) | [Sound of a Woman](https://open.spotify.com/album/1EXvOPcWpUOV0rU44OXDHD) | 5:16 |
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2Gh2QglGo.md) - [plain]
 
 > The home of Canadian country music\. Cover: Brandi Caroline
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,981 likes - 154 songs - 8 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,972 likes - 154 songs - 8 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

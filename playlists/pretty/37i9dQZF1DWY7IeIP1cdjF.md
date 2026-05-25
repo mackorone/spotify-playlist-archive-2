@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7IeIP1cdjF.md) - [plain]
 
 > Reggaeton hits from Maisak, Maluma & Feid, Jay Wheeler, Omar Courtz , Bad Bunny and more\. 🔥🍑
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,327,679 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,327,598 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

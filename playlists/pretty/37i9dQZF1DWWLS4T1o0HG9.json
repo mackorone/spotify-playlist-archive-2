@@ -1,6 +1,6 @@
 {
   "description": "The essential pop rock songs from the 80s. Cover: The Go-Go's",
-  "num_followers": 558871,
+  "num_followers": 559162,
   "original_name": "80s Pop Rock",
   "owner": {
     "name": "Spotify",
@@ -363,22 +363,6 @@
     {
       "added_at": "2024-06-26 01:58:02",
       "album": {
-        "name": "Ghost In The Machine (Remastered 2003)",
-        "url": "https://open.spotify.com/album/5jkwdY6jS1Hzi8epr6HW7h"
-      },
-      "artists": [
-        {
-          "name": "The Police",
-          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
-        }
-      ],
-      "duration_ms": 260573,
-      "name": "Every Little Thing She Does Is Magic",
-      "url": "https://open.spotify.com/track/44aTAUBF0g6sMkMNE8I5kd"
-    },
-    {
-      "added_at": "2024-06-26 01:58:02",
-      "album": {
         "name": "Greatest Hits: Huey Lewis And The News",
         "url": "https://open.spotify.com/album/0u34k1ANjgZ47uQfG9yaLj"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 234333,
       "name": "The Power Of Love",
       "url": "https://open.spotify.com/track/2olVm1lHicpveMAo4AUDRB"
+    },
+    {
+      "added_at": "2024-06-26 01:58:02",
+      "album": {
+        "name": "Ghost In The Machine (Remastered 2003)",
+        "url": "https://open.spotify.com/album/5jkwdY6jS1Hzi8epr6HW7h"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "duration_ms": 260573,
+      "name": "Every Little Thing She Does Is Magic",
+      "url": "https://open.spotify.com/track/44aTAUBF0g6sMkMNE8I5kd"
     },
     {
       "added_at": "2024-06-26 01:58:02",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2024-06-26 01:58:02",
       "album": {
-        "name": "Kilroy Was Here",
-        "url": "https://open.spotify.com/album/0fRptUxZ5A1EAJww9bcqu6"
-      },
-      "artists": [
-        {
-          "name": "Styx",
-          "url": "https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh"
-        }
-      ],
-      "duration_ms": 328706,
-      "name": "Mr. Roboto",
-      "url": "https://open.spotify.com/track/7C0rG4oWO7VeZcffyW1sK9"
-    },
-    {
-      "added_at": "2024-06-26 01:58:02",
-      "album": {
         "name": "Cosmic Thing",
         "url": "https://open.spotify.com/album/5BAzAODqIwttjj7wxmlNMS"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 295133,
       "name": "Roam",
       "url": "https://open.spotify.com/track/5fqcIHU6DhQtFKVO5XSdQs"
+    },
+    {
+      "added_at": "2024-06-26 01:58:02",
+      "album": {
+        "name": "Kilroy Was Here",
+        "url": "https://open.spotify.com/album/0fRptUxZ5A1EAJww9bcqu6"
+      },
+      "artists": [
+        {
+          "name": "Styx",
+          "url": "https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh"
+        }
+      ],
+      "duration_ms": 328706,
+      "name": "Mr. Roboto",
+      "url": "https://open.spotify.com/track/7C0rG4oWO7VeZcffyW1sK9"
     },
     {
       "added_at": "2024-06-26 01:58:02",
@@ -1455,6 +1455,22 @@
     {
       "added_at": "2024-06-26 01:58:02",
       "album": {
+        "name": "Autoamerican (Remastered 2001)",
+        "url": "https://open.spotify.com/album/1VuNXmZV6eIfUwglRlM9Ya"
+      },
+      "artists": [
+        {
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+        }
+      ],
+      "duration_ms": 280266,
+      "name": "The Tide Is High - Remastered 2001",
+      "url": "https://open.spotify.com/track/3lGBRoe3c6oV398Xwgf7c7"
+    },
+    {
+      "added_at": "2024-06-26 01:58:02",
+      "album": {
         "name": "The Nylon Curtain",
         "url": "https://open.spotify.com/album/50bajZpetfL5T0iRCOR74J"
       },
@@ -1471,18 +1487,18 @@
     {
       "added_at": "2024-06-26 01:58:02",
       "album": {
-        "name": "Autoamerican (Remastered 2001)",
-        "url": "https://open.spotify.com/album/1VuNXmZV6eIfUwglRlM9Ya"
+        "name": "Tango in the Night (2017 Remaster)",
+        "url": "https://open.spotify.com/album/7CWZNdANL2ZYQs3JfdxoM5"
       },
       "artists": [
         {
-          "name": "Blondie",
-          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
         }
       ],
-      "duration_ms": 280266,
-      "name": "The Tide Is High - Remastered 2001",
-      "url": "https://open.spotify.com/track/3lGBRoe3c6oV398Xwgf7c7"
+      "duration_ms": 226653,
+      "name": "Everywhere - 2017 Remaster",
+      "url": "https://open.spotify.com/track/4k5FeWIdUaBx5OZdvrSYP1"
     },
     {
       "added_at": "2024-06-26 01:58:02",
@@ -1503,22 +1519,6 @@
       "duration_ms": 240826,
       "name": "The Warrior (feat. Patty Smyth)",
       "url": "https://open.spotify.com/track/2hQnLzly0jRPpLPp23sA4i"
-    },
-    {
-      "added_at": "2024-06-26 01:58:02",
-      "album": {
-        "name": "Tango in the Night (2017 Remaster)",
-        "url": "https://open.spotify.com/album/7CWZNdANL2ZYQs3JfdxoM5"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 226653,
-      "name": "Everywhere - 2017 Remaster",
-      "url": "https://open.spotify.com/track/4k5FeWIdUaBx5OZdvrSYP1"
     },
     {
       "added_at": "2024-06-26 01:58:02",

@@ -1,6 +1,6 @@
 {
   "description": "A taste of today's best bluegrass instrumentals. ",
-  "num_followers": 62208,
+  "num_followers": 62220,
   "original_name": "Instrumental Bluegrass",
   "owner": {
     "name": "Spotify",
@@ -395,6 +395,22 @@
     {
       "added_at": "2026-05-22 00:00:20",
       "album": {
+        "name": "How To Grow A Woman From The Ground",
+        "url": "https://open.spotify.com/album/3UVP898xdmvyLVE1OLCLh4"
+      },
+      "artists": [
+        {
+          "name": "Chris Thile",
+          "url": "https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF"
+        }
+      ],
+      "duration_ms": 254226,
+      "name": "Watch 'At Breakdown",
+      "url": "https://open.spotify.com/track/4NgHCEYBTA4ZzYa2tzOYyy"
+    },
+    {
+      "added_at": "2026-05-22 00:00:20",
+      "album": {
         "name": "Moon in Motion 1",
         "url": "https://open.spotify.com/album/6xUMxx04zJslYt50p1Ugkp"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 251000,
       "name": "Moon in Motion 1",
       "url": "https://open.spotify.com/track/4JL65cYynb4QVhdM4nBM5M"
-    },
-    {
-      "added_at": "2026-05-22 00:00:20",
-      "album": {
-        "name": "How To Grow A Woman From The Ground",
-        "url": "https://open.spotify.com/album/3UVP898xdmvyLVE1OLCLh4"
-      },
-      "artists": [
-        {
-          "name": "Chris Thile",
-          "url": "https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF"
-        }
-      ],
-      "duration_ms": 254226,
-      "name": "Watch 'At Breakdown",
-      "url": "https://open.spotify.com/track/4NgHCEYBTA4ZzYa2tzOYyy"
     },
     {
       "added_at": "2026-05-22 00:00:20",
@@ -483,22 +483,6 @@
     {
       "added_at": "2026-05-22 00:00:20",
       "album": {
-        "name": "Black Banjo",
-        "url": "https://open.spotify.com/album/60WtwjOc8WzjAIixV2r5X2"
-      },
-      "artists": [
-        {
-          "name": "Tray Wellington",
-          "url": "https://open.spotify.com/artist/5aqFCmHlaXKczjY9MT2QUh"
-        }
-      ],
-      "duration_ms": 198478,
-      "name": "Crooked Mind",
-      "url": "https://open.spotify.com/track/3k70wq0lztvq5kxpkAAs0g"
-    },
-    {
-      "added_at": "2026-05-22 00:00:20",
-      "album": {
         "name": "Sun and Water (Here Comes the Sun/Waters of March)",
         "url": "https://open.spotify.com/album/7DLOyhTDSOM0hkocckdZjh"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 214546,
       "name": "Sun and Water (Here Comes the Sun/Waters of March)",
       "url": "https://open.spotify.com/track/1B2SiSOvDp0GYQQyLCl7LI"
+    },
+    {
+      "added_at": "2026-05-22 00:00:20",
+      "album": {
+        "name": "Black Banjo",
+        "url": "https://open.spotify.com/album/60WtwjOc8WzjAIixV2r5X2"
+      },
+      "artists": [
+        {
+          "name": "Tray Wellington",
+          "url": "https://open.spotify.com/artist/5aqFCmHlaXKczjY9MT2QUh"
+        }
+      ],
+      "duration_ms": 198478,
+      "name": "Crooked Mind",
+      "url": "https://open.spotify.com/track/3k70wq0lztvq5kxpkAAs0g"
     },
     {
       "added_at": "2026-05-22 00:00:20",
@@ -655,38 +655,6 @@
     {
       "added_at": "2026-05-22 00:00:20",
       "album": {
-        "name": "58957: The Bluegrass Guitar Collection",
-        "url": "https://open.spotify.com/album/2Ii3WXidbwtPzdiWEmDOmG"
-      },
-      "artists": [
-        {
-          "name": "Tony Rice Unit",
-          "url": "https://open.spotify.com/artist/4Of7rb2VkamHYwHhBjbwYg"
-        }
-      ],
-      "duration_ms": 156932,
-      "name": "Blackberry Blossom",
-      "url": "https://open.spotify.com/track/3rGzzWcBktMg6x1yyTiTLA"
-    },
-    {
-      "added_at": "2026-05-22 00:00:20",
-      "album": {
-        "name": "Fork In The Road",
-        "url": "https://open.spotify.com/album/3u5KHo4q2j8QEsp1mePjes"
-      },
-      "artists": [
-        {
-          "name": "The Infamous Stringdusters",
-          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
-        }
-      ],
-      "duration_ms": 288480,
-      "name": "No Resolution",
-      "url": "https://open.spotify.com/track/1ZkurUyIfW1wESFJp7GXgK"
-    },
-    {
-      "added_at": "2026-05-22 00:00:20",
-      "album": {
         "name": "Taxland (feat. Sierra Hull)",
         "url": "https://open.spotify.com/album/2iLeCeTTnWphyWDZfXnOrn"
       },
@@ -715,6 +683,38 @@
       "duration_ms": 205586,
       "name": "Taxland (feat. Sierra Hull)",
       "url": "https://open.spotify.com/track/7rYO8GdgPhBot0vfZQNizW"
+    },
+    {
+      "added_at": "2026-05-22 00:00:20",
+      "album": {
+        "name": "Fork In The Road",
+        "url": "https://open.spotify.com/album/3u5KHo4q2j8QEsp1mePjes"
+      },
+      "artists": [
+        {
+          "name": "The Infamous Stringdusters",
+          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
+        }
+      ],
+      "duration_ms": 288480,
+      "name": "No Resolution",
+      "url": "https://open.spotify.com/track/1ZkurUyIfW1wESFJp7GXgK"
+    },
+    {
+      "added_at": "2026-05-22 00:00:20",
+      "album": {
+        "name": "58957: The Bluegrass Guitar Collection",
+        "url": "https://open.spotify.com/album/2Ii3WXidbwtPzdiWEmDOmG"
+      },
+      "artists": [
+        {
+          "name": "Tony Rice Unit",
+          "url": "https://open.spotify.com/artist/4Of7rb2VkamHYwHhBjbwYg"
+        }
+      ],
+      "duration_ms": 156932,
+      "name": "Blackberry Blossom",
+      "url": "https://open.spotify.com/track/3rGzzWcBktMg6x1yyTiTLA"
     },
     {
       "added_at": "2026-05-22 00:00:20",
@@ -875,18 +875,26 @@
     {
       "added_at": "2026-05-22 00:00:20",
       "album": {
-        "name": "20/20",
-        "url": "https://open.spotify.com/album/3CuNjXwzIwLwm40nfGuFge"
+        "name": "Lonesome Whistle",
+        "url": "https://open.spotify.com/album/70j39BrYZ8wglzYVvpPflz"
       },
       "artists": [
         {
-          "name": "The Infamous Stringdusters",
-          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
+          "name": "Mark Howard",
+          "url": "https://open.spotify.com/artist/7xn0dNayS3daHN5MrgmIrc"
+        },
+        {
+          "name": "Stuart Duncan",
+          "url": "https://open.spotify.com/artist/53pmIwVqcTM68qW6PVhjW2"
+        },
+        {
+          "name": "Sam Bush",
+          "url": "https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm"
         }
       ],
-      "duration_ms": 217733,
-      "name": "Live Rosin",
-      "url": "https://open.spotify.com/track/4JcbTKzMIyJoholKWBtxYF"
+      "duration_ms": 166720,
+      "name": "City Of New Orleans - Instrumental",
+      "url": "https://open.spotify.com/track/2rrPQlivP17rTDAaRopUsE"
     },
     {
       "added_at": "2026-05-22 00:00:20",
@@ -931,26 +939,18 @@
     {
       "added_at": "2026-05-22 00:00:20",
       "album": {
-        "name": "Lonesome Whistle",
-        "url": "https://open.spotify.com/album/70j39BrYZ8wglzYVvpPflz"
+        "name": "20/20",
+        "url": "https://open.spotify.com/album/3CuNjXwzIwLwm40nfGuFge"
       },
       "artists": [
         {
-          "name": "Mark Howard",
-          "url": "https://open.spotify.com/artist/7xn0dNayS3daHN5MrgmIrc"
-        },
-        {
-          "name": "Stuart Duncan",
-          "url": "https://open.spotify.com/artist/53pmIwVqcTM68qW6PVhjW2"
-        },
-        {
-          "name": "Sam Bush",
-          "url": "https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm"
+          "name": "The Infamous Stringdusters",
+          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
         }
       ],
-      "duration_ms": 166720,
-      "name": "City Of New Orleans - Instrumental",
-      "url": "https://open.spotify.com/track/2rrPQlivP17rTDAaRopUsE"
+      "duration_ms": 217733,
+      "name": "Live Rosin",
+      "url": "https://open.spotify.com/track/4JcbTKzMIyJoholKWBtxYF"
     },
     {
       "added_at": "2026-05-22 00:00:20",
@@ -971,6 +971,22 @@
       "duration_ms": 218500,
       "name": "Grassy Cove",
       "url": "https://open.spotify.com/track/72n4HTYiKIvYKKDh9MgRIh"
+    },
+    {
+      "added_at": "2026-05-22 00:00:20",
+      "album": {
+        "name": "The American Fiddler",
+        "url": "https://open.spotify.com/album/3VbD9iUP0p5WmVXsp9crms"
+      },
+      "artists": [
+        {
+          "name": "Andy Leftwich",
+          "url": "https://open.spotify.com/artist/2fcTqa79dTOAF6kJrDltQa"
+        }
+      ],
+      "duration_ms": 250500,
+      "name": "The American Fiddler",
+      "url": "https://open.spotify.com/track/1FiewdnqC7YSLNSmIP6Z8g"
     },
     {
       "added_at": "2026-05-22 00:00:20",
@@ -1003,22 +1019,6 @@
       "duration_ms": 305160,
       "name": "Blue Men Of The Sahara",
       "url": "https://open.spotify.com/track/47SuIHxH6MpjCUH2Drb4Ct"
-    },
-    {
-      "added_at": "2026-05-22 00:00:20",
-      "album": {
-        "name": "The American Fiddler",
-        "url": "https://open.spotify.com/album/3VbD9iUP0p5WmVXsp9crms"
-      },
-      "artists": [
-        {
-          "name": "Andy Leftwich",
-          "url": "https://open.spotify.com/artist/2fcTqa79dTOAF6kJrDltQa"
-        }
-      ],
-      "duration_ms": 250500,
-      "name": "The American Fiddler",
-      "url": "https://open.spotify.com/track/1FiewdnqC7YSLNSmIP6Z8g"
     },
     {
       "added_at": "2026-05-22 00:00:20",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2026-05-22 00:00:20",
       "album": {
-        "name": "The View From Here",
-        "url": "https://open.spotify.com/album/6AAVj79p20sOf0LKBeqZyQ"
-      },
-      "artists": [
-        {
-          "name": "Matt Flinner",
-          "url": "https://open.spotify.com/artist/79K2moZrEqMShMOlkq5A3J"
-        }
-      ],
-      "duration_ms": 213666,
-      "name": "Black's Fork",
-      "url": "https://open.spotify.com/track/1fz9jPBvfUrtNesuU5UHaT"
-    },
-    {
-      "added_at": "2026-05-22 00:00:20",
-      "album": {
         "name": "Donner Pass",
         "url": "https://open.spotify.com/album/1pUHvl6AWvntcSdQ7Bfdpx"
       },
@@ -1263,6 +1247,46 @@
       "duration_ms": 283000,
       "name": "Donner Pass",
       "url": "https://open.spotify.com/track/1gavgGR6CXhtXbeJMLxWnQ"
+    },
+    {
+      "added_at": "2026-05-22 00:00:20",
+      "album": {
+        "name": "Now They Are Four",
+        "url": "https://open.spotify.com/album/30YVehEEp82UN9otkEdZhj"
+      },
+      "artists": [
+        {
+          "name": "Dan Crary",
+          "url": "https://open.spotify.com/artist/7MNoJalBLtqKoDbjvjPqt5"
+        },
+        {
+          "name": "Byron Berline",
+          "url": "https://open.spotify.com/artist/6NZD4FCwmNsEIS1CL1Y3io"
+        },
+        {
+          "name": "John Hickman",
+          "url": "https://open.spotify.com/artist/32wFBGZOIY1FRH7ioqKGJD"
+        }
+      ],
+      "duration_ms": 177493,
+      "name": "Santa Ana",
+      "url": "https://open.spotify.com/track/3TSAh9y768l565Dm9Awod2"
+    },
+    {
+      "added_at": "2026-05-22 00:00:20",
+      "album": {
+        "name": "The View From Here",
+        "url": "https://open.spotify.com/album/6AAVj79p20sOf0LKBeqZyQ"
+      },
+      "artists": [
+        {
+          "name": "Matt Flinner",
+          "url": "https://open.spotify.com/artist/79K2moZrEqMShMOlkq5A3J"
+        }
+      ],
+      "duration_ms": 213666,
+      "name": "Black's Fork",
+      "url": "https://open.spotify.com/track/1fz9jPBvfUrtNesuU5UHaT"
     },
     {
       "added_at": "2026-05-22 00:00:20",
@@ -1311,30 +1335,6 @@
       "duration_ms": 304613,
       "name": "Look Again",
       "url": "https://open.spotify.com/track/6NJqzY3usmKs12re8cJSBB"
-    },
-    {
-      "added_at": "2026-05-22 00:00:20",
-      "album": {
-        "name": "Now They Are Four",
-        "url": "https://open.spotify.com/album/30YVehEEp82UN9otkEdZhj"
-      },
-      "artists": [
-        {
-          "name": "Dan Crary",
-          "url": "https://open.spotify.com/artist/7MNoJalBLtqKoDbjvjPqt5"
-        },
-        {
-          "name": "Byron Berline",
-          "url": "https://open.spotify.com/artist/6NZD4FCwmNsEIS1CL1Y3io"
-        },
-        {
-          "name": "John Hickman",
-          "url": "https://open.spotify.com/artist/32wFBGZOIY1FRH7ioqKGJD"
-        }
-      ],
-      "duration_ms": 177493,
-      "name": "Santa Ana",
-      "url": "https://open.spotify.com/track/3TSAh9y768l565Dm9Awod2"
     },
     {
       "added_at": "2026-05-22 00:00:20",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2026-05-22 00:00:20",
       "album": {
-        "name": "The Seven",
-        "url": "https://open.spotify.com/album/2aZ9rHIJrLCkAUVJ45i7OP"
-      },
-      "artists": [
-        {
-          "name": "Fireside Collective",
-          "url": "https://open.spotify.com/artist/5pTVgcphr57bYahGLO4bSC"
-        }
-      ],
-      "duration_ms": 327586,
-      "name": "The Seven",
-      "url": "https://open.spotify.com/track/1GiuDgDa11wut9Wpwrtcha"
-    },
-    {
-      "added_at": "2026-05-22 00:00:20",
-      "album": {
         "name": "Up All Night",
         "url": "https://open.spotify.com/album/1MKqppAnggvYNrKE2HGILZ"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 233000,
       "name": "It's A String Thing",
       "url": "https://open.spotify.com/track/4c26BHbxtSuWTYdiRvyQ15"
+    },
+    {
+      "added_at": "2026-05-22 00:00:20",
+      "album": {
+        "name": "The Seven",
+        "url": "https://open.spotify.com/album/2aZ9rHIJrLCkAUVJ45i7OP"
+      },
+      "artists": [
+        {
+          "name": "Fireside Collective",
+          "url": "https://open.spotify.com/artist/5pTVgcphr57bYahGLO4bSC"
+        }
+      ],
+      "duration_ms": 327586,
+      "name": "The Seven",
+      "url": "https://open.spotify.com/track/1GiuDgDa11wut9Wpwrtcha"
     },
     {
       "added_at": "2026-05-22 00:00:20",
@@ -1543,6 +1543,38 @@
     {
       "added_at": "2026-05-22 00:00:20",
       "album": {
+        "name": "Simple Pleasures (Remixed and Remastered)",
+        "url": "https://open.spotify.com/album/25R5C5ORk9TBUabLhSrbb7"
+      },
+      "artists": [
+        {
+          "name": "Alison Brown",
+          "url": "https://open.spotify.com/artist/01ts5a7R3WkeE2oKIouXEK"
+        }
+      ],
+      "duration_ms": 176693,
+      "name": "Wolf Moon - Remixed and Remastered",
+      "url": "https://open.spotify.com/track/4fO0pFeZ8VQ0QoV8473zH1"
+    },
+    {
+      "added_at": "2026-05-22 00:00:20",
+      "album": {
+        "name": "Details",
+        "url": "https://open.spotify.com/album/4SVwFCQW8ao3s1TBZxqhO3"
+      },
+      "artists": [
+        {
+          "name": "Nick Dumas",
+          "url": "https://open.spotify.com/artist/58w8rt4sUw7FQDNEucD4ab"
+        }
+      ],
+      "duration_ms": 254906,
+      "name": "Bozeman",
+      "url": "https://open.spotify.com/track/2ieYVBhGy8PEOPEl3ZLCZO"
+    },
+    {
+      "added_at": "2026-05-22 00:00:20",
+      "album": {
         "name": "Wind Tunnel",
         "url": "https://open.spotify.com/album/0ZGG9f1w3ZxUYUJuUe0UTg"
       },
@@ -1567,38 +1599,6 @@
       "duration_ms": 351888,
       "name": "Wind Tunnel",
       "url": "https://open.spotify.com/track/1nosba6oFDm3xidiQ6BTHO"
-    },
-    {
-      "added_at": "2026-05-22 00:00:20",
-      "album": {
-        "name": "Details",
-        "url": "https://open.spotify.com/album/4SVwFCQW8ao3s1TBZxqhO3"
-      },
-      "artists": [
-        {
-          "name": "Nick Dumas",
-          "url": "https://open.spotify.com/artist/58w8rt4sUw7FQDNEucD4ab"
-        }
-      ],
-      "duration_ms": 254906,
-      "name": "Bozeman",
-      "url": "https://open.spotify.com/track/2ieYVBhGy8PEOPEl3ZLCZO"
-    },
-    {
-      "added_at": "2026-05-22 00:00:20",
-      "album": {
-        "name": "Simple Pleasures (Remixed and Remastered)",
-        "url": "https://open.spotify.com/album/25R5C5ORk9TBUabLhSrbb7"
-      },
-      "artists": [
-        {
-          "name": "Alison Brown",
-          "url": "https://open.spotify.com/artist/01ts5a7R3WkeE2oKIouXEK"
-        }
-      ],
-      "duration_ms": 176693,
-      "name": "Wolf Moon - Remixed and Remastered",
-      "url": "https://open.spotify.com/track/4fO0pFeZ8VQ0QoV8473zH1"
     },
     {
       "added_at": "2026-05-22 00:00:20",
@@ -1699,6 +1699,22 @@
     {
       "added_at": "2026-05-22 00:00:20",
       "album": {
+        "name": "Saltbush Express",
+        "url": "https://open.spotify.com/album/3B5GKENfkULk2sCtCEitvQ"
+      },
+      "artists": [
+        {
+          "name": "Michael Fix",
+          "url": "https://open.spotify.com/artist/2NPDDS5mWRp1JgtOj9iRci"
+        }
+      ],
+      "duration_ms": 171823,
+      "name": "Saltbush Express",
+      "url": "https://open.spotify.com/track/1G0Oc8cVKAnAUZFrVwOwH7"
+    },
+    {
+      "added_at": "2026-05-22 00:00:20",
+      "album": {
         "name": "Bop Your Head",
         "url": "https://open.spotify.com/album/420mYWvOmXSapn5DlOawVJ"
       },
@@ -1727,22 +1743,6 @@
       "duration_ms": 244111,
       "name": "Bluegrass Ben",
       "url": "https://open.spotify.com/track/5tdtneO3Sd5mLyIy7AMScq"
-    },
-    {
-      "added_at": "2026-05-22 00:00:20",
-      "album": {
-        "name": "Saltbush Express",
-        "url": "https://open.spotify.com/album/3B5GKENfkULk2sCtCEitvQ"
-      },
-      "artists": [
-        {
-          "name": "Michael Fix",
-          "url": "https://open.spotify.com/artist/2NPDDS5mWRp1JgtOj9iRci"
-        }
-      ],
-      "duration_ms": 171823,
-      "name": "Saltbush Express",
-      "url": "https://open.spotify.com/track/1G0Oc8cVKAnAUZFrVwOwH7"
     },
     {
       "added_at": "2026-05-22 00:00:20",
@@ -1839,22 +1839,42 @@
     {
       "added_at": "2026-05-22 00:00:20",
       "album": {
-        "name": "Marigold Hair",
-        "url": "https://open.spotify.com/album/494Hi8VBSjlfPs8a7BKKtZ"
+        "name": "EMD",
+        "url": "https://open.spotify.com/album/6EvXb5NjFdjQfLGIPttxcF"
       },
       "artists": [
         {
-          "name": "David Brimer",
-          "url": "https://open.spotify.com/artist/668Oojl6P3J0BOUymsWnOh"
+          "name": "Pinecastle Records",
+          "url": "https://open.spotify.com/artist/05ohk4u1CL6VHaZP0VyWMG"
         },
         {
-          "name": "Mark Grundhoefer",
-          "url": "https://open.spotify.com/artist/2oyvJcvWPCBKVW9tnvAC5w"
+          "name": "Scott Vestal",
+          "url": "https://open.spotify.com/artist/6dnbsL19QVqDqacfrak5IC"
+        },
+        {
+          "name": "Randy Kohrs",
+          "url": "https://open.spotify.com/artist/1u6uhZzou3OAmwvAiOTunN"
+        },
+        {
+          "name": "Tim Crouch",
+          "url": "https://open.spotify.com/artist/1q7fFBA1aUDCQMhpUAIMxb"
+        },
+        {
+          "name": "Cody Kilby",
+          "url": "https://open.spotify.com/artist/128a425UwZIlWs3LTWeRpP"
+        },
+        {
+          "name": "Byron House",
+          "url": "https://open.spotify.com/artist/6lSbVfPSL0Pa9z1fQfTwfE"
+        },
+        {
+          "name": "Jonah Horton",
+          "url": "https://open.spotify.com/artist/7fqInLhy184lhVDLjSKYal"
         }
       ],
-      "duration_ms": 153622,
-      "name": "Marigold Hair",
-      "url": "https://open.spotify.com/track/4evoXHr5WuKuSWR7nAFAtD"
+      "duration_ms": 229480,
+      "name": "EMD",
+      "url": "https://open.spotify.com/track/2VLV2108fW3ZwYIAYpZYHb"
     }
   ],
   "unique_name": "Instrumental Bluegrass",

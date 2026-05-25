@@ -1,6 +1,6 @@
 {
   "description": "\ud83c\udf3a\ud83c\udf3a\ud83c\udf3a",
-  "num_followers": 39535,
+  "num_followers": 39537,
   "original_name": "\u0412\u0435\u0441\u043d\u044f\u043d\u0438\u0439 \u0440\u0435\u043b\u0430\u043a\u0441",
   "owner": {
     "name": "Spotify",
@@ -363,22 +363,18 @@
     {
       "added_at": "2026-04-11 07:38:45",
       "album": {
-        "name": "\u0422\u0438 \u0432\u0438\u043d\u0435\u043d \u0441\u0430\u043c",
-        "url": "https://open.spotify.com/album/70xcGE515etdEXFKJT6Sps"
+        "name": "The Table",
+        "url": "https://open.spotify.com/album/2vmyJbe35Nv4DDyOkTR5Ku"
       },
       "artists": [
         {
-          "name": "Shmiska",
-          "url": "https://open.spotify.com/artist/0896FugzPOpBDwYEfhMAVY"
-        },
-        {
-          "name": "\u0430\u043d\u0430\u0441\u0442\u0438\u043c\u043e\u0437\u0430",
-          "url": "https://open.spotify.com/artist/387gWxnXhGdDQFO7Ld3mLZ"
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
         }
       ],
-      "duration_ms": 202400,
-      "name": "\u0422\u0438 \u0432\u0438\u043d\u0435\u043d \u0441\u0430\u043c",
-      "url": "https://open.spotify.com/track/4EWPpDlKICw2jMyGBgYHZ9"
+      "duration_ms": 173952,
+      "name": "The Table",
+      "url": "https://open.spotify.com/track/5pCd4dfI9bQ9H3U1EiaLXv"
     },
     {
       "added_at": "2026-04-11 07:38:45",
@@ -399,18 +395,22 @@
     {
       "added_at": "2026-04-11 07:38:45",
       "album": {
-        "name": "The Table",
-        "url": "https://open.spotify.com/album/2vmyJbe35Nv4DDyOkTR5Ku"
+        "name": "\u0422\u0438 \u0432\u0438\u043d\u0435\u043d \u0441\u0430\u043c",
+        "url": "https://open.spotify.com/album/70xcGE515etdEXFKJT6Sps"
       },
       "artists": [
         {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+          "name": "Shmiska",
+          "url": "https://open.spotify.com/artist/0896FugzPOpBDwYEfhMAVY"
+        },
+        {
+          "name": "\u0430\u043d\u0430\u0441\u0442\u0438\u043c\u043e\u0437\u0430",
+          "url": "https://open.spotify.com/artist/387gWxnXhGdDQFO7Ld3mLZ"
         }
       ],
-      "duration_ms": 173952,
-      "name": "The Table",
-      "url": "https://open.spotify.com/track/5pCd4dfI9bQ9H3U1EiaLXv"
+      "duration_ms": 202400,
+      "name": "\u0422\u0438 \u0432\u0438\u043d\u0435\u043d \u0441\u0430\u043c",
+      "url": "https://open.spotify.com/track/4EWPpDlKICw2jMyGBgYHZ9"
     },
     {
       "added_at": "2026-04-11 07:38:45",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55uyETlpZlJ.md) - [plain]
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Vasuki Vaibhav
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,948 likes - 75 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,956 likes - 75 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55uyETlpZlJ.md) - [plain]
 | 4 | [Maaye](https://open.spotify.com/track/35ZHQmmw1gdZZRebhOZoQV) | [Vishak Nagalapura](https://open.spotify.com/artist/6bfkyWyRl7vgkQlV0gy57S), [Sumveditha Subhash](https://open.spotify.com/artist/387lWEfFDmxDhckWU9n5kn), [MAD\-D](https://open.spotify.com/artist/3UsL1DCgQGOJdiUfn80wCb), [Padani Tales](https://open.spotify.com/artist/60jAGG92GWc2lCjX2SYIw3) | [Maaye](https://open.spotify.com/album/4Q1AMpdHAQhapMHws822Ry) | 3:25 |
 | 5 | [Manase](https://open.spotify.com/track/6H5eVwMQDwRQdC3B0cOYz3) | [Curry](https://open.spotify.com/artist/1sHWKJ2CYul8vAS8wL2Yl5) | [Manase](https://open.spotify.com/album/0e9uHHGtQuAg9fPKTqJp2l) | 3:33 |
 | 6 | [Mysore Scene](https://open.spotify.com/track/6dQamSMR2TDsHYoSMrZZvb) | [Irfan Qureshi](https://open.spotify.com/artist/2tdPLV4fYx001QLlXimTBf) | [Mysore Scene](https://open.spotify.com/album/3ayFDNZ1CpDTdgEa9VacSp) | 3:29 |
-| 7 | [RODHNE](https://open.spotify.com/track/4D2Kf5W2cXbH5QYGfwhYYU) | [H18](https://open.spotify.com/artist/1Eh2sOlDATyNUt19twP1x3) | [RODHNE](https://open.spotify.com/album/5JSoTwbYB3usoGJbHtXsPU) | 2:56 |
+| 7 | [RODHNE](https://open.spotify.com/track/4D2Kf5W2cXbH5QYGfwhYYU) | [H18](https://open.spotify.com/artist/1Eh2sOlDATyNUt19twP1x3) | [RODHNE](https://open.spotify.com/album/5JSoTwbYB3usoGJbHtXsPU) | 3:16 |
 | 8 | [Menace](https://open.spotify.com/track/0qPN8o1cxVZr8IlUKxIj5K) | [CHARLIE](https://open.spotify.com/artist/4lab8XoG0x9TbeClnEHmFA) | [Menace](https://open.spotify.com/album/068DUvPlsJwTz6WNo3IH2k) | 2:24 |
 | 9 | [Bhagyada Lakshmi Baramma](https://open.spotify.com/track/4L4KOOtknWmZpvrBrJHj5Y) | [Yuga Singun](https://open.spotify.com/artist/6TfrYmPdpQnfmDlPaxRJQ7) | [Bhagyada Lakshmi Baramma](https://open.spotify.com/album/3gLcN66uUZ3HbzgIrCeibz) | 5:50 |
 | 10 | [Jackie](https://open.spotify.com/track/0lEoPX5L4n7z0uR5hAuQUX) | [Chirayu](https://open.spotify.com/artist/6ATwCoaGJH1ah0xWbhpaBZ) | [Jackie](https://open.spotify.com/album/6twlnoJaSTERleg8VUAzBl) | 2:24 |

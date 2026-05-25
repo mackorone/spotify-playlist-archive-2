@@ -11713,6 +11713,32 @@
     },
     {
       "album": {
+        "name": "Imagination",
+        "url": "https://open.spotify.com/album/0GmTEDii8a1j4O8geUc1LG"
+      },
+      "artists": [
+        {
+          "name": "DOREY",
+          "url": "https://open.spotify.com/artist/5P7dSJOFqnDQ3oY1Q7z0id"
+        },
+        {
+          "name": "Amy Wiles",
+          "url": "https://open.spotify.com/artist/4ztolv1NbTfNxSjS1EgtOX"
+        },
+        {
+          "name": "KLP",
+          "url": "https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222978,
+      "name": "Imagination",
+      "url": "https://open.spotify.com/track/1eZVcDPxhC6lMYJvUZrmOy"
+    },
+    {
+      "album": {
         "name": "Immortal (Ruben de Ronde presents NRG2000 Remix)",
         "url": "https://open.spotify.com/album/3K6B4Gzpm3YiJ46iBy4uhP"
       },
@@ -15490,7 +15516,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-25",
       "duration_ms": 190308,
       "name": "Monolith",
       "url": "https://open.spotify.com/track/2Bam0TVEexdTbaC2s8V3xY"

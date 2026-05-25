@@ -1,12 +1,12 @@
 {
   "description": "This is 2Baba. The essential tracks, all in one playlist.",
-  "num_followers": 8371,
+  "num_followers": 8375,
   "original_name": "This Is 2Baba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ag+cgAAAAACloYk6Htib7LA1q2hWbifc",
+  "snapshot_id": "ahDuAAAAAADHK4vdKeQ5GUA0GtxOy/4m",
   "tracks": [
     {
       "added_at": null,
@@ -176,13 +176,13 @@
           "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
         },
         {
-          "name": "Peruzzi",
-          "url": "https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf"
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         }
       ],
-      "duration_ms": 227683,
-      "name": "Amaka (feat. Peruzzi)",
-      "url": "https://open.spotify.com/track/2F5EpzUXZBX46ruU0muOx0"
+      "duration_ms": 227971,
+      "name": "Opo (feat. Wizkid)",
+      "url": "https://open.spotify.com/track/1aPT4OyFWsqPp004pH2DuY"
     },
     {
       "added_at": null,
@@ -248,13 +248,13 @@
           "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
         },
         {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+          "name": "Peruzzi",
+          "url": "https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf"
         }
       ],
-      "duration_ms": 227971,
-      "name": "Opo (feat. Wizkid)",
-      "url": "https://open.spotify.com/track/1aPT4OyFWsqPp004pH2DuY"
+      "duration_ms": 227683,
+      "name": "Amaka (feat. Peruzzi)",
+      "url": "https://open.spotify.com/track/2F5EpzUXZBX46ruU0muOx0"
     },
     {
       "added_at": null,
@@ -591,6 +591,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "KUKU GOOGLE AM",
+        "url": "https://open.spotify.com/album/6XLYPGlLqeNDHp79xoqOvX"
+      },
+      "artists": [
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        }
+      ],
+      "duration_ms": 210250,
+      "name": "KUKU GOOGLE AM",
+      "url": "https://open.spotify.com/track/2KRAQNY4WrlkrhZUg205co"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Face 2 Face 10.0",
         "url": "https://open.spotify.com/album/1PdMP3dtb5w0z4f2jVgXzF"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 228571,
       "name": "Dance Go (Eau De Vie)",
       "url": "https://open.spotify.com/track/4SV4FQoKZ6wH8osLAo3exO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "KUKU GOOGLE AM",
-        "url": "https://open.spotify.com/album/6XLYPGlLqeNDHp79xoqOvX"
-      },
-      "artists": [
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        }
-      ],
-      "duration_ms": 210250,
-      "name": "KUKU GOOGLE AM",
-      "url": "https://open.spotify.com/track/2KRAQNY4WrlkrhZUg205co"
     },
     {
       "added_at": null,

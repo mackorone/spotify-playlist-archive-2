@@ -1,12 +1,12 @@
 {
   "description": "The best new songs from modern singer-songwriters. Cover: Tyler Ballgame",
-  "num_followers": 88927,
+  "num_followers": 88943,
   "original_name": "Today's Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAD3UPbOc69QIJ7IJirabzSRM1JaO",
+  "snapshot_id": "AAAAAHiyUsA9uWaX4TwT6O++9iLoovoP",
   "tracks": [
     {
       "added_at": "2026-05-15 15:12:25",
@@ -555,22 +555,6 @@
     {
       "added_at": "2026-05-15 15:12:25",
       "album": {
-        "name": "Double Infinity",
-        "url": "https://open.spotify.com/album/1yEo1ZJE5ZgIF7LYrDTbMK"
-      },
-      "artists": [
-        {
-          "name": "Big Thief",
-          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
-        }
-      ],
-      "duration_ms": 237134,
-      "name": "Los Angeles",
-      "url": "https://open.spotify.com/track/5TSj6ySt4WqDuljv61Q4D5"
-    },
-    {
-      "added_at": "2026-05-15 15:12:25",
-      "album": {
         "name": "EURO-COUNTRY",
         "url": "https://open.spotify.com/album/6p8GFQi9D44s9ODeml47ag"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 272266,
       "name": "When A Good Man Cries",
       "url": "https://open.spotify.com/track/6VXIZWHmdOTHIFhsSkYFgQ"
+    },
+    {
+      "added_at": "2026-05-15 15:12:25",
+      "album": {
+        "name": "Double Infinity",
+        "url": "https://open.spotify.com/album/1yEo1ZJE5ZgIF7LYrDTbMK"
+      },
+      "artists": [
+        {
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+        }
+      ],
+      "duration_ms": 237134,
+      "name": "Los Angeles",
+      "url": "https://open.spotify.com/track/5TSj6ySt4WqDuljv61Q4D5"
     },
     {
       "added_at": "2026-05-15 15:12:25",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2026-05-15 15:12:25",
       "album": {
-        "name": "The Surface",
-        "url": "https://open.spotify.com/album/08x9Txl6jTNKIgfL64iwaG"
-      },
-      "artists": [
-        {
-          "name": "Alice Phoebe Lou",
-          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
-        }
-      ],
-      "duration_ms": 235000,
-      "name": "The Surface",
-      "url": "https://open.spotify.com/track/4329XA7OGxcJXruj4nirnn"
-    },
-    {
-      "added_at": "2026-05-15 15:12:25",
-      "album": {
         "name": "Returning To Myself",
         "url": "https://open.spotify.com/album/59fZ3nKVEopfpxyRRr1Ksl"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 257760,
       "name": "Returning To Myself",
       "url": "https://open.spotify.com/track/1AMUwhjbPqBvcPW4itoNXB"
+    },
+    {
+      "added_at": "2026-05-15 15:12:25",
+      "album": {
+        "name": "The Surface",
+        "url": "https://open.spotify.com/album/08x9Txl6jTNKIgfL64iwaG"
+      },
+      "artists": [
+        {
+          "name": "Alice Phoebe Lou",
+          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
+        }
+      ],
+      "duration_ms": 235000,
+      "name": "The Surface",
+      "url": "https://open.spotify.com/track/4329XA7OGxcJXruj4nirnn"
     },
     {
       "added_at": "2026-05-15 15:12:25",

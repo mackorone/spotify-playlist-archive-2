@@ -1,6 +1,6 @@
 {
   "description": "For tiny adventures disguised as errands.",
-  "num_followers": 100985,
+  "num_followers": 100981,
   "original_name": "Tote ",
   "owner": {
     "name": "Spotify",
@@ -43,22 +43,6 @@
     {
       "added_at": "2025-03-21 14:13:29",
       "album": {
-        "name": "French Exit",
-        "url": "https://open.spotify.com/album/4Hai0uVzRbyTSaTPzxTY4e"
-      },
-      "artists": [
-        {
-          "name": "TV Girl",
-          "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
-        }
-      ],
-      "duration_ms": 213920,
-      "name": "Lovers Rock",
-      "url": "https://open.spotify.com/track/6dBUzqjtbnIa1TwYbyw5CM"
-    },
-    {
-      "added_at": "2025-03-21 14:13:29",
-      "album": {
         "name": "Torches",
         "url": "https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 239600,
       "name": "Pumped Up Kicks",
       "url": "https://open.spotify.com/track/7w87IxuO7BDcJ3YUqCyMTT"
+    },
+    {
+      "added_at": "2025-03-21 14:13:29",
+      "album": {
+        "name": "French Exit",
+        "url": "https://open.spotify.com/album/4Hai0uVzRbyTSaTPzxTY4e"
+      },
+      "artists": [
+        {
+          "name": "TV Girl",
+          "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
+        }
+      ],
+      "duration_ms": 213920,
+      "name": "Lovers Rock",
+      "url": "https://open.spotify.com/track/6dBUzqjtbnIa1TwYbyw5CM"
     },
     {
       "added_at": "2025-03-21 14:13:29",
@@ -171,22 +171,6 @@
     {
       "added_at": "2025-03-21 14:13:29",
       "album": {
-        "name": "Running",
-        "url": "https://open.spotify.com/album/2dEf6lN5qYFQQy3Jd3ScHG"
-      },
-      "artists": [
-        {
-          "name": "Cafun\u00e9",
-          "url": "https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu"
-        }
-      ],
-      "duration_ms": 191823,
-      "name": "Tek It",
-      "url": "https://open.spotify.com/track/751srcHf5tUqcEa9pRCQwP"
-    },
-    {
-      "added_at": "2025-03-21 14:13:29",
-      "album": {
         "name": "What Do You Think About the Car?",
         "url": "https://open.spotify.com/album/3HJiLDJgWA9Z0MvCxlzHYQ"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 252305,
       "name": "Brazil",
       "url": "https://open.spotify.com/track/4sNG6zQBmtq7M8aeeKJRMQ"
+    },
+    {
+      "added_at": "2025-03-21 14:13:29",
+      "album": {
+        "name": "Running",
+        "url": "https://open.spotify.com/album/2dEf6lN5qYFQQy3Jd3ScHG"
+      },
+      "artists": [
+        {
+          "name": "Cafun\u00e9",
+          "url": "https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu"
+        }
+      ],
+      "duration_ms": 191823,
+      "name": "Tek It",
+      "url": "https://open.spotify.com/track/751srcHf5tUqcEa9pRCQwP"
     },
     {
       "added_at": "2025-03-21 14:13:29",
@@ -949,22 +949,6 @@
       "url": "https://open.spotify.com/track/63EUqnpcphhZh8SbXagArw"
     },
     {
-      "added_at": "2025-03-21 14:13:29",
-      "album": {
-        "name": "Montgomery Ricky",
-        "url": "https://open.spotify.com/album/25paSmOYSF03s81DCNqQn3"
-      },
-      "artists": [
-        {
-          "name": "Ricky Montgomery",
-          "url": "https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw"
-        }
-      ],
-      "duration_ms": 184866,
-      "name": "My Heart Is Buried in Venice",
-      "url": "https://open.spotify.com/track/02H1K5Cw9Ar89b35XwSEw6"
-    },
-    {
       "added_at": "2025-03-28 22:32:56",
       "album": {
         "name": "You and Your Friends",
@@ -979,6 +963,22 @@
       "duration_ms": 224266,
       "name": "Shampoo Bottles",
       "url": "https://open.spotify.com/track/2INUkDPCO1eQlOFmIN5VAC"
+    },
+    {
+      "added_at": "2025-03-21 14:13:29",
+      "album": {
+        "name": "Montgomery Ricky",
+        "url": "https://open.spotify.com/album/25paSmOYSF03s81DCNqQn3"
+      },
+      "artists": [
+        {
+          "name": "Ricky Montgomery",
+          "url": "https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw"
+        }
+      ],
+      "duration_ms": 184866,
+      "name": "My Heart Is Buried in Venice",
+      "url": "https://open.spotify.com/track/02H1K5Cw9Ar89b35XwSEw6"
     },
     {
       "added_at": "2025-03-21 14:13:29",

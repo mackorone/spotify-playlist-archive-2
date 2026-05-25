@@ -4428,7 +4428,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-25",
       "duration_ms": 161076,
       "name": "BIMEL.",
       "url": "https://open.spotify.com/track/2KpWqlm7ceW9erFeHFvCNP"
@@ -5788,7 +5788,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-23",
+      "date_removed": null,
       "duration_ms": 173858,
       "name": "capaz (merengueton)",
       "url": "https://open.spotify.com/track/2dd3G3ZqEcG2cNS1tp3oEk"
@@ -8106,7 +8106,7 @@
       ],
       "date_added": "2026-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-24",
+      "date_removed": null,
       "duration_ms": 223448,
       "name": "Dai Dai",
       "url": "https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL"
@@ -9886,7 +9886,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-24",
+      "date_removed": null,
       "duration_ms": 237117,
       "name": "DtMF",
       "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
@@ -11528,7 +11528,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-25",
       "duration_ms": 214198,
       "name": "EN LA MISMA CIUDAD.",
       "url": "https://open.spotify.com/track/2Q9rXVj8oiRW4P0J8By3sY"
@@ -20812,7 +20812,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-25",
       "duration_ms": 196920,
       "name": "MALASNOTICIAS.",
       "url": "https://open.spotify.com/track/7giI2ndmt3L5QiMB8v3McO"
@@ -21326,7 +21326,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-25",
       "duration_ms": 153142,
       "name": "MDF.",
       "url": "https://open.spotify.com/track/1lq3A0xNLJ2n3mUa9MGXiU"
@@ -23149,6 +23149,32 @@
     },
     {
       "album": {
+        "name": "M\u00c1S DE AH\u00cd (Remix)",
+        "url": "https://open.spotify.com/album/7vNpgZdlMDiRwaASBm706E"
+      },
+      "artists": [
+        {
+          "name": "Topboy TGR",
+          "url": "https://open.spotify.com/artist/1HYdJRbyNCkiko7TAw9rei"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "date_added": "2026-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245052,
+      "name": "M\u00c1S DE AH\u00cd - Remix",
+      "url": "https://open.spotify.com/track/1aPvpAAX9lB2WpEqkK012u"
+    },
+    {
+      "album": {
         "name": "LO MISMO DE SIEMPRE",
         "url": "https://open.spotify.com/album/3beZ5DRcWVTpXaU3ViLIF6"
       },
@@ -23896,7 +23922,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-25",
       "duration_ms": 203184,
       "name": "NO PODEMOS SER AMIGOS.",
       "url": "https://open.spotify.com/track/4T31PPb8DMhzTp7kUZ3U42"
@@ -25917,6 +25943,40 @@
     },
     {
       "album": {
+        "name": "Parchamos",
+        "url": "https://open.spotify.com/album/1YSJWfQFRCAQ8uWJ6Qumea"
+      },
+      "artists": [
+        {
+          "name": "Yemil",
+          "url": "https://open.spotify.com/artist/7g4cPtKxNx146qdaY90TG4"
+        },
+        {
+          "name": "Mole",
+          "url": "https://open.spotify.com/artist/63IHQNSZV6VYMqeRZjMAxq"
+        },
+        {
+          "name": "Kabliz",
+          "url": "https://open.spotify.com/artist/0wGBm2CPjVcX983nxL0iTy"
+        },
+        {
+          "name": "Tiffany Selenne",
+          "url": "https://open.spotify.com/artist/7G3RwF8CDWEXU1fbitN46s"
+        },
+        {
+          "name": "Rebel",
+          "url": "https://open.spotify.com/artist/20gPmRxrxvYMftosVhYbO5"
+        }
+      ],
+      "date_added": "2026-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331785,
+      "name": "Parchamos",
+      "url": "https://open.spotify.com/track/5DIMJPgwqHQGcnnFr61f3M"
+    },
+    {
+      "album": {
         "name": "Pareja Del A\u00f1o",
         "url": "https://open.spotify.com/album/202FLmfHxcvLHPiqmAjWyJ"
       },
@@ -26794,7 +26854,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-25",
       "duration_ms": 243319,
       "name": "PERDISTE EL EMMY.",
       "url": "https://open.spotify.com/track/13ZG0ttABjb0rpL84bOBm6"
@@ -27250,7 +27310,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-25",
       "duration_ms": 208999,
       "name": "PIENSO EN TI.",
       "url": "https://open.spotify.com/track/6P5J1CxWKrJLunXdSu5HRd"
@@ -32542,7 +32602,7 @@
       ],
       "date_added": "2025-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-24",
+      "date_removed": null,
       "duration_ms": 184547,
       "name": "si te pillara",
       "url": "https://open.spotify.com/track/1C7NXX8UJ6pgNx8EkmyZDd"
@@ -32752,7 +32812,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-25",
       "duration_ms": 116612,
       "name": "SICHEF.",
       "url": "https://open.spotify.com/track/0yUBEGAfkMwDod0wuEHR1e"
@@ -34194,7 +34254,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-24",
+      "date_removed": null,
       "duration_ms": 172035,
       "name": "Tata",
       "url": "https://open.spotify.com/track/3wycbFMiYqkov2PPU1Eaej"
@@ -35526,7 +35586,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-24",
+      "date_removed": null,
       "duration_ms": 189456,
       "name": "top diesel",
       "url": "https://open.spotify.com/track/2QP041AcWg8PwPIWP95RKN"

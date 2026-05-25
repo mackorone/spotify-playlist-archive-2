@@ -1632,7 +1632,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-25",
       "duration_ms": 192000,
       "name": "Afro Beat",
       "url": "https://open.spotify.com/track/6vXcUUwsnBlOcXXT22ZIGT"
@@ -2478,7 +2478,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-22",
+      "date_removed": null,
       "duration_ms": 130869,
       "name": "Ap\u00e1ly",
       "url": "https://open.spotify.com/track/156AeYPPIRgeYJWmC3JUbO"
@@ -3216,7 +3216,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-25",
       "duration_ms": 183826,
       "name": "Bad Boyz",
       "url": "https://open.spotify.com/track/1hu77lKSi2nViKzWsAJJzY"
@@ -13138,7 +13138,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-25",
       "duration_ms": 248201,
       "name": "hamupip\u0151ke",
       "url": "https://open.spotify.com/track/1T8FpKsW8aH6wiV8SjNXQx"
@@ -16922,7 +16922,7 @@
       ],
       "date_added": "2026-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-03",
+      "date_removed": null,
       "duration_ms": 135000,
       "name": "Kimarad\u00e1s",
       "url": "https://open.spotify.com/track/4WM4yywmndp5m8pEEzpxzu"
@@ -17148,7 +17148,7 @@
       ],
       "date_added": "2026-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-22",
+      "date_removed": null,
       "duration_ms": 140689,
       "name": "Klitorisz",
       "url": "https://open.spotify.com/track/40qz2m8ecdUSKSsMcCeqNN"
@@ -23211,6 +23211,28 @@
     },
     {
       "album": {
+        "name": "Love?",
+        "url": "https://open.spotify.com/album/3sysiYphqNRQw7VKLCg1yE"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        }
+      ],
+      "date_added": "2026-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284866,
+      "name": "On The Floor",
+      "url": "https://open.spotify.com/track/3C0nOe05EIt1390bVABLyN"
+    },
+    {
+      "album": {
         "name": "Ghetto Fabulous",
         "url": "https://open.spotify.com/album/2D1j7mjB55lvygjMmYgTYT"
       },
@@ -25720,7 +25742,7 @@
       ],
       "date_added": "2024-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-24",
+      "date_removed": null,
       "duration_ms": 130679,
       "name": "PROSECCO",
       "url": "https://open.spotify.com/track/6iiW35hSlD0H9AAWpcv9Ii"
@@ -31096,7 +31118,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-25",
       "duration_ms": 144203,
       "name": "S\u00d6T\u00c9T",
       "url": "https://open.spotify.com/track/68SnGU5Oa3SEV7y8w1L9bk"
@@ -32102,7 +32124,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-25",
       "duration_ms": 297090,
       "name": "the cure",
       "url": "https://open.spotify.com/track/4EoJ151oQ5jY48z4RhSE96"
@@ -36630,7 +36652,7 @@
       ],
       "date_added": "2026-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-23",
+      "date_removed": null,
       "duration_ms": 229894,
       "name": "xXx",
       "url": "https://open.spotify.com/track/0YCpCi4UlDUIpxCRg9jOsK"
@@ -36648,7 +36670,7 @@
       ],
       "date_added": "2026-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-25",
       "duration_ms": 229894,
       "name": "xXx",
       "url": "https://open.spotify.com/track/2TakLZRzWUxCPWpoXlVvj5"

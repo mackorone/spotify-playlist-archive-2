@@ -4,7 +4,7 @@
 
 > Essential tunes for time with the family.
 
-227 songs - 17 hr 4 min
+228 songs - 17 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Before I Let Go](https://open.spotify.com/track/6WUSbDYeGsieoWyEpfgRAF) | [Maze](https://open.spotify.com/artist/3DvdryKH4O95ZnsUZJKXpt) | [Essence Music Festival, Vol\. 1: Songs From Our Triumphant Return to New Orleans](https://open.spotify.com/album/5Mz1QHTcG5xMha6mvcPkjz) | 3:55 | 2021-07-01 | 2022-11-13 |
 | [Before I Let Go](https://open.spotify.com/track/6e9xnBJPs0y9omrSU3C3N4) | [Maze](https://open.spotify.com/artist/3DvdryKH4O95ZnsUZJKXpt), [Frankie Beverly](https://open.spotify.com/artist/6rXycobs8wkWicUGLtmB0n) | [Great R&B](https://open.spotify.com/album/0ToSKqQnHTBeIVybrONR8V) | 3:56 | 2021-07-01 | 2023-06-17 |
 | [Before I Let Go \- Edit/Remastered](https://open.spotify.com/track/5Cz3z2cS7vOafvQHgxbOjn) | [Maze](https://open.spotify.com/artist/3DvdryKH4O95ZnsUZJKXpt), [Frankie Beverly](https://open.spotify.com/artist/6rXycobs8wkWicUGLtmB0n) | [Greatest Hits: 35 Years Of Soul](https://open.spotify.com/album/3qQtlOHTQpAaHZoEkPS7pe) | 3:54 | 2021-07-01 | 2022-07-29 |
-| [Before I Let Go \- Homecoming Live Bonus Track](https://open.spotify.com/track/7LikBkHerFGZ58QHVOKp1t) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [HOMECOMING: THE LIVE ALBUM](https://open.spotify.com/album/35S1JCj5paIfElT2GODl6x) | 4:00 | 2020-07-23 |  |
+| [Before I Let Go \- Homecoming Live Bonus Track](https://open.spotify.com/track/7LikBkHerFGZ58QHVOKp1t) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [HOMECOMING: THE LIVE ALBUM](https://open.spotify.com/album/35S1JCj5paIfElT2GODl6x) | 4:00 | 2020-07-23 | 2026-05-25 |
 | [Between the Sheets](https://open.spotify.com/track/3ApIYu95WxjzpQCnsLBbrv) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [Between the Sheets](https://open.spotify.com/album/35EP5dBkQWS0Lta6GE2VOu) | 5:40 | 2023-06-16 |  |
 | [BLACK PARADE](https://open.spotify.com/track/2qzUpSVI4NnPyWxbXwumTj) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [BLACK PARADE](https://open.spotify.com/album/3MJxH055n52Rbm8RLlpJcN) | 4:41 | 2023-06-16 | 2023-08-31 |
 | [Boogie Wonderland \(with The Emotions\) \- Single Version](https://open.spotify.com/track/6ztstiyZL6FXzh4aG46ZPD) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg), [The Emotions](https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr) | [I Am](https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt) | 4:48 | 2023-06-16 |  |
@@ -185,6 +185,7 @@
 | [Right Here \- Human Nature Radio Mix](https://open.spotify.com/track/7tUEDtHchueeUJTfEFEhii) | [SWV](https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa) | [It's About Time](https://open.spotify.com/album/2BBrAtWY0c6dPio5b2JYFK) | 3:46 | 2020-07-23 |  |
 | [Risin' to the Top](https://open.spotify.com/track/5iVxHPyHVO7vWSDnRpNH5d) | [Keni Burke](https://open.spotify.com/artist/1EVOoMiMrmOEYXHd36poF2) | [Changes \(Expanded Edition\)](https://open.spotify.com/album/0hpXGYRKh9jmWz5ueqKaqh) | 5:14 | 2021-07-01 | 2023-06-17 |
 | [Salt Shaker](https://open.spotify.com/track/4Kd0FzFpOgIGxlBl4HXuFn) | [Ying Yang Twins](https://open.spotify.com/artist/44PA0rCQXikgOWbfY7Fq7m), [Lil Jon & The East Side Boyz](https://open.spotify.com/artist/3ciRvbBIVz9fBoPbtSYq4x) | [Me & My Brother](https://open.spotify.com/album/2SS2QYikI1mNohhyPN2v95) | 4:12 | 2023-08-30 | 2023-10-21 |
+| [Saturday Love](https://open.spotify.com/track/2CMBjJ59FVIVDTeJvlkJCz) | [Cherrelle](https://open.spotify.com/artist/4R2ZUCVWjJs5ef9pjnCVC4), [Alexander O'Neal](https://open.spotify.com/artist/047D9GgqEzyMoULd2oKr7G) | [High Priority](https://open.spotify.com/album/5DGaIxGdx1b0SGeZyF8yg5) | 6:30 | 2023-06-16 |  |
 | [September](https://open.spotify.com/track/3kXoKlD84c6OmIcOLfrfEs) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [September \(sped up + slowed\)](https://open.spotify.com/album/3p90GIjEg4gXpnLmwGGvzI) | 3:36 | 2023-06-16 |  |
 | [Shawty \(feat\. T Pain\)](https://open.spotify.com/track/0mYoKqA23wUUj7BTEgNzjg) | [Plies](https://open.spotify.com/artist/3jksrX4oBklxR78ft8gv3j), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [The Real Testament](https://open.spotify.com/album/3NoUdjYUcUuRMpOzyapnYW) | 4:15 | 2023-08-30 | 2023-10-21 |
 | [Shoop](https://open.spotify.com/track/4kmdGkuOADvkkzZihupF5J) | [Salt\-N\-Pepa](https://open.spotify.com/artist/7wqtxqI3eo7Gn1P7SpP6cQ) | [ICON](https://open.spotify.com/album/7zfonpZL5ifWI7OforkczO) | 4:06 | 2021-07-01 | 2022-11-13 |

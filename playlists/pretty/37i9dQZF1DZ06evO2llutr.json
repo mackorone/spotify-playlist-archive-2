@@ -1,12 +1,12 @@
 {
   "description": "This is Zach Bryan. The essential tracks, all in one playlist.",
-  "num_followers": 659608,
+  "num_followers": 659784,
   "original_name": "This Is Zach Bryan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ag+cgAAAAAABoDGOtYx8on/L5h6su7i7",
+  "snapshot_id": "ahDuAAAAAACSLe+TeWN774HcY0MIKkBR",
   "tracks": [
     {
       "added_at": null,
@@ -651,22 +651,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Boys Of Faith (feat. Bon Iver)",
-        "url": "https://open.spotify.com/album/4h4A1l4ReII0UD3wtOPI3q"
+        "name": "High Road",
+        "url": "https://open.spotify.com/album/5cWglkyJvWPOeH14VLvbeu"
       },
       "artists": [
         {
           "name": "Zach Bryan",
           "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        },
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
         }
       ],
-      "duration_ms": 170824,
-      "name": "Boys Of Faith (feat. Bon Iver)",
-      "url": "https://open.spotify.com/track/4Zj2uX6ApCFK9XzjwIhCIr"
+      "duration_ms": 199893,
+      "name": "High Road",
+      "url": "https://open.spotify.com/track/4CcozggmhXmndssEDH6YHR"
     },
     {
       "added_at": null,
@@ -687,34 +683,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "High Road",
-        "url": "https://open.spotify.com/album/5cWglkyJvWPOeH14VLvbeu"
+        "name": "Boys Of Faith (feat. Bon Iver)",
+        "url": "https://open.spotify.com/album/4h4A1l4ReII0UD3wtOPI3q"
       },
       "artists": [
         {
           "name": "Zach Bryan",
           "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 199893,
-      "name": "High Road",
-      "url": "https://open.spotify.com/track/4CcozggmhXmndssEDH6YHR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Summertime Blues",
-        "url": "https://open.spotify.com/album/2qPki6xBkJ1Mbra43t7hnA"
-      },
-      "artists": [
+        },
         {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
         }
       ],
-      "duration_ms": 199500,
-      "name": "All the Time",
-      "url": "https://open.spotify.com/track/1ldUPmqrCvk6thNYe0oUen"
+      "duration_ms": 170824,
+      "name": "Boys Of Faith (feat. Bon Iver)",
+      "url": "https://open.spotify.com/track/4Zj2uX6ApCFK9XzjwIhCIr"
     },
     {
       "added_at": null,
@@ -731,6 +715,22 @@
       "duration_ms": 209089,
       "name": "Let You Down",
       "url": "https://open.spotify.com/track/1HMFdKHDiHY0qmqdVH710d"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Summertime Blues",
+        "url": "https://open.spotify.com/album/2qPki6xBkJ1Mbra43t7hnA"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 199500,
+      "name": "All the Time",
+      "url": "https://open.spotify.com/track/1ldUPmqrCvk6thNYe0oUen"
     },
     {
       "added_at": null,
@@ -767,6 +767,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Quiet, Heavy Dreams",
+        "url": "https://open.spotify.com/album/70KAbDjO08A8nfTLShbraZ"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 197226,
+      "name": "Crooked Teeth",
+      "url": "https://open.spotify.com/track/0Is8zshpnWUiFQJIYAMrQN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Summertime Blues",
         "url": "https://open.spotify.com/album/2qPki6xBkJ1Mbra43t7hnA"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 220057,
       "name": "Jamie (feat. Charles Wesley Godwin)",
       "url": "https://open.spotify.com/track/11xeawurZXUDqRPxCasaDt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Quiet, Heavy Dreams",
-        "url": "https://open.spotify.com/album/70KAbDjO08A8nfTLShbraZ"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 197226,
-      "name": "Crooked Teeth",
-      "url": "https://open.spotify.com/track/0Is8zshpnWUiFQJIYAMrQN"
     },
     {
       "added_at": null,

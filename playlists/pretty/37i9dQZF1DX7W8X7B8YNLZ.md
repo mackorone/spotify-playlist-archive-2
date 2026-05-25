@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7W8X7B8YNLZ.md) - [plain]
 
 > Les plus grands tubes français des années 70\. Photo : Dalida
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,254 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,285 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7W8X7B8YNLZ.md) - [plain]
 | 39 | [Le mal aimé](https://open.spotify.com/track/36JTsxq9ywTGHpBjg3Wf4J) | [Claude François](https://open.spotify.com/artist/0P2p1bqVyP2EgqubwjTBUJ) | [Le mal aimé / Le téléphone pleure](https://open.spotify.com/album/2nNfGK1Gcwie6YAiwZ1chD) | 2:39 |
 | 40 | [L'aigle noir](https://open.spotify.com/track/1GAMoIHawNWhdq0a22vT4E) | [Barbara](https://open.spotify.com/artist/4TNiKyCX2oCvdo1sTgHcRw) | [Les 50 Plus Belles Chansons De Barbara](https://open.spotify.com/album/23ZuuZarpj66WtoFqbmN12) | 4:54 |
 | 41 | [Où sont les femmes](https://open.spotify.com/track/0aWA84zzPPadF7I0N9tSRb) | [Patrick Juvet](https://open.spotify.com/artist/7c5wlQVkajxJG0X13D0Fpc) | [Paris By Night](https://open.spotify.com/album/7wMa3V484gRTpUFKvZ8GkZ) | 6:16 |
-| 42 | [Les Rois mages \- Remasterisé en 2006](https://open.spotify.com/track/2y31xdqCINOlMWeR7sfR23) | [Sheila](https://open.spotify.com/artist/5fhRcv2KU96vbXqNE2FEdu) | [Love](https://open.spotify.com/album/4tDE4kPJZBjZ8MJpF1ABUt) | 3:24 |
-| 43 | [C'est moi](https://open.spotify.com/track/6GGTIbx1HkiJybU8yaRqZX) | [C\. Jérôme](https://open.spotify.com/artist/4tJSPijz99rQ8cNtr7DYMH) | [Baby Boy](https://open.spotify.com/album/1rvuEe2N58ujU6CjRRTUni) | 2:52 |
+| 42 | [C'est moi](https://open.spotify.com/track/6GGTIbx1HkiJybU8yaRqZX) | [C\. Jérôme](https://open.spotify.com/artist/4tJSPijz99rQ8cNtr7DYMH) | [Baby Boy](https://open.spotify.com/album/1rvuEe2N58ujU6CjRRTUni) | 2:52 |
+| 43 | [Les Rois mages \- Remasterisé en 2006](https://open.spotify.com/track/2y31xdqCINOlMWeR7sfR23) | [Sheila](https://open.spotify.com/artist/5fhRcv2KU96vbXqNE2FEdu) | [Love](https://open.spotify.com/album/4tDE4kPJZBjZ8MJpF1ABUt) | 3:24 |
 | 44 | [Le téléphone pleure](https://open.spotify.com/track/4cAeq0pjjvWxFfy7NL3XSD) | [Claude François](https://open.spotify.com/artist/0P2p1bqVyP2EgqubwjTBUJ), [Frédérique](https://open.spotify.com/artist/38dqh4zX6r6OBMW0cjtjSI) | [Le mal aimé / Le téléphone pleure](https://open.spotify.com/album/2nNfGK1Gcwie6YAiwZ1chD) | 4:05 |
 | 45 | [Ça balance pas mal à Paris \- Remasterisé en 2002](https://open.spotify.com/track/3MyUnoqEPeCANpFyLYXBhN) | [Michel Berger](https://open.spotify.com/artist/5skauLarl8sqqUFypECtP4), [France Gall](https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I) | [Pour me comprendre \(40 titres\)](https://open.spotify.com/album/1Nkz53Btm6laHVLRo595DZ) | 2:16 |
 | 46 | [Sea, Sex And Sun](https://open.spotify.com/track/2RJBXZ8bWc6DDOuIlPdF7R) | [Serge Gainsbourg](https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo) | [Comme un boomerang](https://open.spotify.com/album/7IoGi1b3jxA6FXOaoa66iK) | 3:39 |

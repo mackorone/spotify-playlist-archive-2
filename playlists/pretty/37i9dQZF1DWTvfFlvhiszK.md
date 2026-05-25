@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvfFlvhiszK.md) - [plain]
 
 > Old school jams to kick nostalgia up a notch.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,246 likes - 50 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,255 likes - 50 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,13 +36,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvfFlvhiszK.md) - [plain]
 | 26 | [Abiba](https://open.spotify.com/track/6F0D7wS8XbrClBxhC4Okex) | [Rex Omar](https://open.spotify.com/artist/4IPHkdjugU9e3ACphVpX3s) | [The Collection](https://open.spotify.com/album/0g60elM8DKMcjusfaaQi8x) | 4:55 |
 | 27 | [Africa Money](https://open.spotify.com/track/6zhfuaevbv2CGBmvLv11l6) | [Sidney Barima Oppong](https://open.spotify.com/artist/6flAiqO3WySVk4w8xAEu6W) | [Ghana Awake, Vol\. 1](https://open.spotify.com/album/7HzECIqKqXIIdXACUpzvKO) | 4:43 |
 | 28 | [Ngozi](https://open.spotify.com/track/687b1ZxrRmzvodBCxrpBG4) | [Micheal Dwamena](https://open.spotify.com/artist/6sJP5qdmdznP6PrOkdPwAB) | [Owo Moti](https://open.spotify.com/album/5PcYQfVWxpa7WjjqGSWmYO) | 5:34 |
-| 29 | [Boom Boom Tah](https://open.spotify.com/track/1urrkZaxQUFsoQD54wvjY3) | [Mista Silva](https://open.spotify.com/artist/2h3gbLjsYV1bTFr0qGYNb5), [Skob](https://open.spotify.com/artist/3Pyjqc00tBElP4O9VUpyNY), [Kwamz N Flava](https://open.spotify.com/artist/4xvJi4sfP4v2ab7nH3utp8) | [Full Vim](https://open.spotify.com/album/0DTMTBEMABaQYdkPCGYnFu) | 4:20 |
-| 30 | [Abeiku](https://open.spotify.com/track/0R55ud90TSQNXeqLeepXPq) | [Nana Tuffour](https://open.spotify.com/artist/0QMTuZV7F8J6b6eE97shGv) | [Abeiku](https://open.spotify.com/album/2oIwt5wf1BMRe3m386BrBT) | 5:42 |
+| 29 | [Abeiku](https://open.spotify.com/track/0R55ud90TSQNXeqLeepXPq) | [Nana Tuffour](https://open.spotify.com/artist/0QMTuZV7F8J6b6eE97shGv) | [Abeiku](https://open.spotify.com/album/2oIwt5wf1BMRe3m386BrBT) | 5:42 |
+| 30 | [Boom Boom Tah](https://open.spotify.com/track/1urrkZaxQUFsoQD54wvjY3) | [Mista Silva](https://open.spotify.com/artist/2h3gbLjsYV1bTFr0qGYNb5), [Skob](https://open.spotify.com/artist/3Pyjqc00tBElP4O9VUpyNY), [Kwamz N Flava](https://open.spotify.com/artist/4xvJi4sfP4v2ab7nH3utp8) | [Full Vim](https://open.spotify.com/album/0DTMTBEMABaQYdkPCGYnFu) | 4:20 |
 | 31 | [I Think I Like Am \(Radio Edit\)](https://open.spotify.com/track/1des1aVesUVx42QDkrMkYK) | [VIP](https://open.spotify.com/artist/38wGnQ9uC7XyV0TFHaEiO4) | [Progress](https://open.spotify.com/album/0xqUYNcjJFagQmOfPYNvzP) | 3:36 |
 | 32 | [Kangaroo \- feat\. Batman](https://open.spotify.com/track/7CMHjhDTiJbvMkomXUodis) | [Tic Tac](https://open.spotify.com/artist/7xtmj62gTz59CEBTSDOiML), [Batman](https://open.spotify.com/artist/3PTvxYMFgNGE9bQdlDT9Wx) | [Black Stars – Ghana’s Hiplife Generation](https://open.spotify.com/album/6jdTD8R5rYp5Gs3WRuZyR9) | 3:31 |
 | 33 | [Odo](https://open.spotify.com/track/4kbszKEvLCtJ020xd0OVDX) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4) | [Odo](https://open.spotify.com/album/2zqYXrJGUYjaB3RxkfFH4O) | 3:53 |
-| 34 | [Esi](https://open.spotify.com/track/7gfdnU3uY17MoCcCjESPq7) | [Kontihene](https://open.spotify.com/artist/0uKjsrSxXWqfWF2mFyehs7), [Kwabena Kwabena](https://open.spotify.com/artist/6zKu61RG80pBKOMUbBKNMr) | [Esi](https://open.spotify.com/album/6Oqh2P8A4E7yMKTcmtOEcK) | 6:14 |
-| 35 | [Baba God \(feat\. Sk\)](https://open.spotify.com/track/2DFOj2Uu3q3MQ2l4z5fQaS) | [Afro B](https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC), [S.K](https://open.spotify.com/artist/1XSI8OJNq5sTxe3WYp0fCc) | [Baba God \(feat\. Sk\)](https://open.spotify.com/album/23HN2hlDmjkLYRhBM1y4zF) | 4:14 |
+| 34 | [Baba God \(feat\. Sk\)](https://open.spotify.com/track/2DFOj2Uu3q3MQ2l4z5fQaS) | [Afro B](https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC), [S.K](https://open.spotify.com/artist/1XSI8OJNq5sTxe3WYp0fCc) | [Baba God \(feat\. Sk\)](https://open.spotify.com/album/23HN2hlDmjkLYRhBM1y4zF) | 4:14 |
+| 35 | [Esi](https://open.spotify.com/track/7gfdnU3uY17MoCcCjESPq7) | [Kontihene](https://open.spotify.com/artist/0uKjsrSxXWqfWF2mFyehs7), [Kwabena Kwabena](https://open.spotify.com/artist/6zKu61RG80pBKOMUbBKNMr) | [Esi](https://open.spotify.com/album/6Oqh2P8A4E7yMKTcmtOEcK) | 6:14 |
 | 36 | [Wadi Mi Sika](https://open.spotify.com/track/24QOYBHFbneNWWmZLcDLGS) | [Vibe Squad](https://open.spotify.com/artist/2R0aMpj0PzJr86oWENCRDV), [DeeVS](https://open.spotify.com/artist/2HPEFGX2Lt2sLPsABvxsgD), [Mista Silva](https://open.spotify.com/artist/2h3gbLjsYV1bTFr0qGYNb5), [Kwamz & Flava](https://open.spotify.com/artist/3RdldZQW8cYFLEDEH7haJe) | [Wadi Mi Sika \- EP](https://open.spotify.com/album/14jKUJ46QFu7a10JAzrYYT) | 4:20 |
 | 37 | [Alkayida \(Boy Abre\)](https://open.spotify.com/track/7xAHWYJhJQLM83eDaerhS2) | [Guru](https://open.spotify.com/artist/1c9Ya9GKcFOLh4gixxivdk) | [Alkayida \(Boy Abre\)](https://open.spotify.com/album/3ejLKMcv8zl0FKgv1QBzGn) | 3:38 |
 | 38 | [Mood](https://open.spotify.com/track/6MxDZfKKNsiYwescOFGyY0) | [Mr Drew](https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK) | [Mood](https://open.spotify.com/album/5bonVIdxHsDgtdmzdLzVSp) | 2:36 |

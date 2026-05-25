@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ag+cgAAAAACazep36aBRbnyVdyjtyQHw",
+  "snapshot_id": "ahDuAAAAAACT9TNvY1u0svDH91aLRp6F",
   "tracks": [
     {
       "added_at": null,
@@ -444,9 +444,9 @@
           "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
         }
       ],
-      "duration_ms": 162346,
-      "name": "Se Me Olvid\u00f3 Otra Vez - En Vivo",
-      "url": "https://open.spotify.com/track/4Sa4JAiKTorCrmduJ2M1uH"
+      "duration_ms": 186389,
+      "name": "La L\u00e1mpara - En Vivo",
+      "url": "https://open.spotify.com/track/2PM1Kgq4zH5xu0or4GCUB0"
     },
     {
       "added_at": null,
@@ -508,9 +508,9 @@
           "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
         }
       ],
-      "duration_ms": 186389,
-      "name": "La L\u00e1mpara - En Vivo",
-      "url": "https://open.spotify.com/track/2PM1Kgq4zH5xu0or4GCUB0"
+      "duration_ms": 173365,
+      "name": "Destino Cruel - En Vivo",
+      "url": "https://open.spotify.com/track/6BJ2kSTuPGWNb9bXkCwpMt"
     },
     {
       "added_at": null,
@@ -535,22 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mas Alla del Sol",
-        "url": "https://open.spotify.com/album/3THdqyXhZA40YyCaWzbqhn"
-      },
-      "artists": [
-        {
-          "name": "Cheli Madrid",
-          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
-        }
-      ],
-      "duration_ms": 202315,
-      "name": "Mas Alla del Sol",
-      "url": "https://open.spotify.com/track/40iIeuFv70pS0qvC0kgIye"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Canciones de Oro (En Vivo)",
         "url": "https://open.spotify.com/album/4tNcPSxJTuAtb6kHPZ7awr"
       },
@@ -567,6 +551,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mas Alla del Sol",
+        "url": "https://open.spotify.com/album/3THdqyXhZA40YyCaWzbqhn"
+      },
+      "artists": [
+        {
+          "name": "Cheli Madrid",
+          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
+        }
+      ],
+      "duration_ms": 202315,
+      "name": "Mas Alla del Sol",
+      "url": "https://open.spotify.com/track/40iIeuFv70pS0qvC0kgIye"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rancheritas Con Guitarras (En Vivo)",
         "url": "https://open.spotify.com/album/1k5ZkRpfQdmmi8dje17FCw"
       },
@@ -576,41 +576,9 @@
           "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
         }
       ],
-      "duration_ms": 173365,
-      "name": "Destino Cruel - En Vivo",
-      "url": "https://open.spotify.com/track/6BJ2kSTuPGWNb9bXkCwpMt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Confidente",
-        "url": "https://open.spotify.com/album/3sjxwy2kUx9tuWXztPExlP"
-      },
-      "artists": [
-        {
-          "name": "Cheli Madrid",
-          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
-        }
-      ],
-      "duration_ms": 168096,
-      "name": "El Hubiera No Existe",
-      "url": "https://open.spotify.com/track/5mAEsGkI4nuo2fSdpwIVkK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nunca Voy A Olvidarte",
-        "url": "https://open.spotify.com/album/29MifvAXK7oL3zBiKfpdMV"
-      },
-      "artists": [
-        {
-          "name": "Cheli Madrid",
-          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
-        }
-      ],
-      "duration_ms": 185208,
-      "name": "Nunca Voy A Olvidarte",
-      "url": "https://open.spotify.com/track/1ZhEWbMrnxuA5tY2UfIvD0"
+      "duration_ms": 162346,
+      "name": "Se Me Olvid\u00f3 Otra Vez - En Vivo",
+      "url": "https://open.spotify.com/track/4Sa4JAiKTorCrmduJ2M1uH"
     },
     {
       "added_at": null,
@@ -631,6 +599,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Confidente",
+        "url": "https://open.spotify.com/album/3sjxwy2kUx9tuWXztPExlP"
+      },
+      "artists": [
+        {
+          "name": "Cheli Madrid",
+          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
+        }
+      ],
+      "duration_ms": 168096,
+      "name": "El Hubiera No Existe",
+      "url": "https://open.spotify.com/track/5mAEsGkI4nuo2fSdpwIVkK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Canciones de Oro (En Vivo)",
         "url": "https://open.spotify.com/album/4tNcPSxJTuAtb6kHPZ7awr"
       },
@@ -640,9 +624,25 @@
           "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
         }
       ],
-      "duration_ms": 246917,
-      "name": "Para Morir Iguales - Versi\u00f3n Banda En Vivo",
-      "url": "https://open.spotify.com/track/5JPZL1qwDXOnYt6w4Rg7gy"
+      "duration_ms": 197733,
+      "name": "Animas Que No Amanezca - Versi\u00f3n Norte\u00f1o En Vivo",
+      "url": "https://open.spotify.com/track/3XMBTKx7OIGhGIrcyvcwCs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nunca Voy A Olvidarte",
+        "url": "https://open.spotify.com/album/29MifvAXK7oL3zBiKfpdMV"
+      },
+      "artists": [
+        {
+          "name": "Cheli Madrid",
+          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
+        }
+      ],
+      "duration_ms": 185208,
+      "name": "Nunca Voy A Olvidarte",
+      "url": "https://open.spotify.com/track/1ZhEWbMrnxuA5tY2UfIvD0"
     },
     {
       "added_at": null,
@@ -816,6 +816,22 @@
           "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
         }
       ],
+      "duration_ms": 200704,
+      "name": "Extra\u00f1a Manera - En Vivo",
+      "url": "https://open.spotify.com/track/2TwbZlvEyVpYDtMY6dsHMP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Canciones de Oro, Vol. 2 (En Vivo)",
+        "url": "https://open.spotify.com/album/3aABuHHm5yN2SsSTIdupOw"
+      },
+      "artists": [
+        {
+          "name": "Cheli Madrid",
+          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
+        }
+      ],
       "duration_ms": 161621,
       "name": "Coraz\u00f3n De Oropel - En Vivo",
       "url": "https://open.spotify.com/track/0hHpTNFOXCksQqWLrmzo8s"
@@ -851,22 +867,6 @@
       "duration_ms": 153701,
       "name": "Tengo Miedo - En Vivo",
       "url": "https://open.spotify.com/track/5ZKuMhwEnR3KZnsi8sacfE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Canciones de Oro, Vol. 2 (En Vivo)",
-        "url": "https://open.spotify.com/album/3aABuHHm5yN2SsSTIdupOw"
-      },
-      "artists": [
-        {
-          "name": "Cheli Madrid",
-          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
-        }
-      ],
-      "duration_ms": 200704,
-      "name": "Extra\u00f1a Manera - En Vivo",
-      "url": "https://open.spotify.com/track/2TwbZlvEyVpYDtMY6dsHMP"
     }
   ],
   "unique_name": "This Is Cheli Madrid",

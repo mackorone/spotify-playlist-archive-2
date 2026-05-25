@@ -1,6 +1,6 @@
 {
   "description": "This is what folk sounds like en espa\u00f1ol. Cover: selines",
-  "num_followers": 34609,
+  "num_followers": 34622,
   "original_name": "Latin Folk",
   "owner": {
     "name": "Spotify",
@@ -111,18 +111,18 @@
     {
       "added_at": "2026-05-08 04:03:16",
       "album": {
-        "name": "Sin Final Feliz",
-        "url": "https://open.spotify.com/album/2AoNm9wXhQQPQrbS963xJH"
+        "name": "Peregrino",
+        "url": "https://open.spotify.com/album/0SeDqeZyGYdkNPXChFJ8xJ"
       },
       "artists": [
         {
-          "name": "El David",
-          "url": "https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b"
+          "name": "Carlos Ares",
+          "url": "https://open.spotify.com/artist/3eReTIjhrje1sk2hFQgwhI"
         }
       ],
-      "duration_ms": 144215,
-      "name": "Qu\u00e9 bonito fue",
-      "url": "https://open.spotify.com/track/3ppzEzYnSKIBZ2tndbmOLp"
+      "duration_ms": 294500,
+      "name": "Peregrino",
+      "url": "https://open.spotify.com/track/1TsBj3J4sVPO5KeydxbhD1"
     },
     {
       "added_at": "2026-05-08 04:03:16",
@@ -183,18 +183,18 @@
     {
       "added_at": "2026-05-08 04:03:16",
       "album": {
-        "name": "Peregrino",
-        "url": "https://open.spotify.com/album/0SeDqeZyGYdkNPXChFJ8xJ"
+        "name": "Sin Final Feliz",
+        "url": "https://open.spotify.com/album/2AoNm9wXhQQPQrbS963xJH"
       },
       "artists": [
         {
-          "name": "Carlos Ares",
-          "url": "https://open.spotify.com/artist/3eReTIjhrje1sk2hFQgwhI"
+          "name": "El David",
+          "url": "https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b"
         }
       ],
-      "duration_ms": 294500,
-      "name": "Peregrino",
-      "url": "https://open.spotify.com/track/1TsBj3J4sVPO5KeydxbhD1"
+      "duration_ms": 144215,
+      "name": "Qu\u00e9 bonito fue",
+      "url": "https://open.spotify.com/track/3ppzEzYnSKIBZ2tndbmOLp"
     },
     {
       "added_at": "2026-05-08 04:03:16",
@@ -419,22 +419,6 @@
     {
       "added_at": "2026-05-08 04:03:16",
       "album": {
-        "name": "Wacha Checa",
-        "url": "https://open.spotify.com/album/72q9OpG5SNz6dZeT6gFVKY"
-      },
-      "artists": [
-        {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
-        }
-      ],
-      "duration_ms": 217693,
-      "name": "Wacha Checa",
-      "url": "https://open.spotify.com/track/6jLWCKkuqRS9zKd0PcdvdN"
-    },
-    {
-      "added_at": "2026-05-08 04:03:16",
-      "album": {
         "name": "Romancera",
         "url": "https://open.spotify.com/album/427UD26U4IkJqIUicqVMZ9"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 232493,
       "name": "Romancera",
       "url": "https://open.spotify.com/track/4HED7T9WqduhZ6TgMl7ugE"
+    },
+    {
+      "added_at": "2026-05-08 04:03:16",
+      "album": {
+        "name": "Wacha Checa",
+        "url": "https://open.spotify.com/album/72q9OpG5SNz6dZeT6gFVKY"
+      },
+      "artists": [
+        {
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+        }
+      ],
+      "duration_ms": 217693,
+      "name": "Wacha Checa",
+      "url": "https://open.spotify.com/track/6jLWCKkuqRS9zKd0PcdvdN"
     },
     {
       "added_at": "2026-05-08 04:03:16",
@@ -855,22 +855,6 @@
     {
       "added_at": "2026-05-08 04:03:16",
       "album": {
-        "name": "D\u00e9jenme Llorar",
-        "url": "https://open.spotify.com/album/6BZkhYCGp75O2R4oX25nve"
-      },
-      "artists": [
-        {
-          "name": "Carla Morrison",
-          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
-        }
-      ],
-      "duration_ms": 244973,
-      "name": "Disfruto",
-      "url": "https://open.spotify.com/track/6UR5tB1wVm7qvH4xfsHr8m"
-    },
-    {
-      "added_at": "2026-05-08 04:03:16",
-      "album": {
         "name": "hastalamadre",
         "url": "https://open.spotify.com/album/3b3iMyMBwjPko7SBusTHTQ"
       },
@@ -891,22 +875,18 @@
     {
       "added_at": "2026-05-08 04:03:16",
       "album": {
-        "name": "TRES",
-        "url": "https://open.spotify.com/album/51rakYlQnb8n9t74lBPKEu"
+        "name": "D\u00e9jenme Llorar",
+        "url": "https://open.spotify.com/album/6BZkhYCGp75O2R4oX25nve"
       },
       "artists": [
         {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        },
-        {
-          "name": "Ivana",
-          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
         }
       ],
-      "duration_ms": 206040,
-      "name": "\u00bfQu\u00e9 Ser\u00e1 De M\u00ed?",
-      "url": "https://open.spotify.com/track/0LpvtGk7G8MhRB5bczQe8p"
+      "duration_ms": 244973,
+      "name": "Disfruto",
+      "url": "https://open.spotify.com/track/6UR5tB1wVm7qvH4xfsHr8m"
     },
     {
       "added_at": "2026-05-08 04:03:16",
@@ -923,6 +903,26 @@
       "duration_ms": 210030,
       "name": "Tab\u00fa",
       "url": "https://open.spotify.com/track/2pLkuaMACGAuRvuu159qwB"
+    },
+    {
+      "added_at": "2026-05-08 04:03:16",
+      "album": {
+        "name": "TRES",
+        "url": "https://open.spotify.com/album/51rakYlQnb8n9t74lBPKEu"
+      },
+      "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        },
+        {
+          "name": "Ivana",
+          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
+        }
+      ],
+      "duration_ms": 206040,
+      "name": "\u00bfQu\u00e9 Ser\u00e1 De M\u00ed?",
+      "url": "https://open.spotify.com/track/0LpvtGk7G8MhRB5bczQe8p"
     },
     {
       "added_at": "2026-05-08 04:03:16",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2026-05-08 04:03:16",
       "album": {
-        "name": "me va a costar",
-        "url": "https://open.spotify.com/album/7MgPJ608fJvGMf7xCJlPq9"
-      },
-      "artists": [
-        {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
-        }
-      ],
-      "duration_ms": 228266,
-      "name": "me va a costar",
-      "url": "https://open.spotify.com/track/0Y7NqQ9RNoHZHDTeDS4UnO"
-    },
-    {
-      "added_at": "2026-05-08 04:03:16",
-      "album": {
         "name": "Caf\u00e9 Conmigo",
         "url": "https://open.spotify.com/album/22jSbACBDtGXlqMbZPeIu5"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 176238,
       "name": "Caf\u00e9 Conmigo",
       "url": "https://open.spotify.com/track/3X6zoxS109LGpWrz7WysW0"
+    },
+    {
+      "added_at": "2026-05-08 04:03:16",
+      "album": {
+        "name": "me va a costar",
+        "url": "https://open.spotify.com/album/7MgPJ608fJvGMf7xCJlPq9"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "duration_ms": 228266,
+      "name": "me va a costar",
+      "url": "https://open.spotify.com/track/0Y7NqQ9RNoHZHDTeDS4UnO"
     },
     {
       "added_at": "2026-05-08 04:03:16",
@@ -1163,26 +1163,6 @@
     {
       "added_at": "2026-05-08 04:03:16",
       "album": {
-        "name": "todos menos yo",
-        "url": "https://open.spotify.com/album/0LNQEWpmVnfqfncP5KE7Ag"
-      },
-      "artists": [
-        {
-          "name": "Anna Garc\u00eda",
-          "url": "https://open.spotify.com/artist/7BaSeoQcti9uDTykvmXC0e"
-        },
-        {
-          "name": "Abraham G\u00dc",
-          "url": "https://open.spotify.com/artist/1nlD2cwx9JW48o2obtOvVc"
-        }
-      ],
-      "duration_ms": 196675,
-      "name": "todos menos yo",
-      "url": "https://open.spotify.com/track/0h0Yt8CZxudSESeTFfRclh"
-    },
-    {
-      "added_at": "2026-05-08 04:03:16",
-      "album": {
         "name": "OTRX",
         "url": "https://open.spotify.com/album/6AS4KbrYma83kDn1WORqly"
       },
@@ -1199,6 +1179,26 @@
       "duration_ms": 175412,
       "name": "Ficci\u00f3n",
       "url": "https://open.spotify.com/track/6lqD2TljGW0XoWTxhYs5Yj"
+    },
+    {
+      "added_at": "2026-05-08 04:03:16",
+      "album": {
+        "name": "todos menos yo",
+        "url": "https://open.spotify.com/album/0LNQEWpmVnfqfncP5KE7Ag"
+      },
+      "artists": [
+        {
+          "name": "Anna Garc\u00eda",
+          "url": "https://open.spotify.com/artist/7BaSeoQcti9uDTykvmXC0e"
+        },
+        {
+          "name": "Abraham G\u00dc",
+          "url": "https://open.spotify.com/artist/1nlD2cwx9JW48o2obtOvVc"
+        }
+      ],
+      "duration_ms": 196675,
+      "name": "todos menos yo",
+      "url": "https://open.spotify.com/track/0h0Yt8CZxudSESeTFfRclh"
     },
     {
       "added_at": "2026-05-08 04:03:16",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2026-05-08 04:03:16",
       "album": {
-        "name": "Te mereces un amor",
-        "url": "https://open.spotify.com/album/4pZWUWPYGu8tglUI2e8pVF"
-      },
-      "artists": [
-        {
-          "name": "Vivir Quintana",
-          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
-        }
-      ],
-      "duration_ms": 224160,
-      "name": "La Casa de la Esquina",
-      "url": "https://open.spotify.com/track/20WdW4UdJHtYcaQEyEktaa"
-    },
-    {
-      "added_at": "2026-05-08 04:03:16",
-      "album": {
         "name": "Uno De Nosotros",
         "url": "https://open.spotify.com/album/6iuV4lcwsjoBSNCPRo8Z4N"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 209200,
       "name": "Recuerdo",
       "url": "https://open.spotify.com/track/3LMgh9j8noZZnredEUYlDC"
+    },
+    {
+      "added_at": "2026-05-08 04:03:16",
+      "album": {
+        "name": "Te mereces un amor",
+        "url": "https://open.spotify.com/album/4pZWUWPYGu8tglUI2e8pVF"
+      },
+      "artists": [
+        {
+          "name": "Vivir Quintana",
+          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
+        }
+      ],
+      "duration_ms": 224160,
+      "name": "La Casa de la Esquina",
+      "url": "https://open.spotify.com/track/20WdW4UdJHtYcaQEyEktaa"
     },
     {
       "added_at": "2026-05-08 04:03:16",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2026-05-08 04:03:16",
       "album": {
-        "name": "Ni\u00f1a de Mis Ojos",
-        "url": "https://open.spotify.com/album/4qx9aRb19XNXAkmKU4QJj6"
-      },
-      "artists": [
-        {
-          "name": "La Isla Centeno",
-          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
-        }
-      ],
-      "duration_ms": 193545,
-      "name": "Ni\u00f1a de Mis Ojos",
-      "url": "https://open.spotify.com/track/4hjxm4OOqQcwB0Oi8wDV2N"
-    },
-    {
-      "added_at": "2026-05-08 04:03:16",
-      "album": {
         "name": "Valles",
         "url": "https://open.spotify.com/album/07QLMgEF08qGJldtkjoNzm"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 165715,
       "name": "Luces de bengala",
       "url": "https://open.spotify.com/track/7F2wex0mYEbekHkmCuaUMy"
+    },
+    {
+      "added_at": "2026-05-08 04:03:16",
+      "album": {
+        "name": "Ni\u00f1a de Mis Ojos",
+        "url": "https://open.spotify.com/album/4qx9aRb19XNXAkmKU4QJj6"
+      },
+      "artists": [
+        {
+          "name": "La Isla Centeno",
+          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
+        }
+      ],
+      "duration_ms": 193545,
+      "name": "Ni\u00f1a de Mis Ojos",
+      "url": "https://open.spotify.com/track/4hjxm4OOqQcwB0Oi8wDV2N"
     },
     {
       "added_at": "2026-05-08 04:03:16",

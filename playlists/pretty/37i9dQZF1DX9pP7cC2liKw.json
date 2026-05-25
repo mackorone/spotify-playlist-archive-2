@@ -1,6 +1,6 @@
 {
   "description": "Immerse yourself in the mysticism of Tulum!",
-  "num_followers": 448771,
+  "num_followers": 449092,
   "original_name": "Tulum Vibes",
   "owner": {
     "name": "Spotify",
@@ -549,26 +549,6 @@
       "url": "https://open.spotify.com/track/6F42K33jC5A2brWORXT8nE"
     },
     {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
-        "name": "R\u00fambala (Jiony Remix)",
-        "url": "https://open.spotify.com/album/5iQO617zEZbSQyNbLPAjrN"
-      },
-      "artists": [
-        {
-          "name": "Eva de Marce",
-          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
-        },
-        {
-          "name": "Jiony",
-          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
-        }
-      ],
-      "duration_ms": 231764,
-      "name": "R\u00fambala - Jiony Remix",
-      "url": "https://open.spotify.com/track/7mtMy47wBdLVuFg5ZxkYAa"
-    },
-    {
       "added_at": "2023-10-24 02:03:26",
       "album": {
         "name": "Carrossel Do Tempo",
@@ -587,6 +567,26 @@
       "duration_ms": 297440,
       "name": "Carrossel Do Tempo",
       "url": "https://open.spotify.com/track/6R3a2hraPYMwVCHfRw9hNr"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "R\u00fambala (Jiony Remix)",
+        "url": "https://open.spotify.com/album/5iQO617zEZbSQyNbLPAjrN"
+      },
+      "artists": [
+        {
+          "name": "Eva de Marce",
+          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
+        },
+        {
+          "name": "Jiony",
+          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
+        }
+      ],
+      "duration_ms": 231764,
+      "name": "R\u00fambala - Jiony Remix",
+      "url": "https://open.spotify.com/track/7mtMy47wBdLVuFg5ZxkYAa"
     },
     {
       "added_at": "2024-06-27 19:57:19",
@@ -933,6 +933,22 @@
       "url": "https://open.spotify.com/track/4qPzX5KPnxMcDE1uxxwiap"
     },
     {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Hybridism",
+        "url": "https://open.spotify.com/album/34ZtJJKrCWgno0vQYtDN5H"
+      },
+      "artists": [
+        {
+          "name": "Nicola Cruz",
+          "url": "https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn"
+        }
+      ],
+      "duration_ms": 308813,
+      "name": "Aima",
+      "url": "https://open.spotify.com/track/2ZLSvb7IJl7k9FDDuO0P3q"
+    },
+    {
       "added_at": "2023-03-24 19:15:37",
       "album": {
         "name": "La de la terraza",
@@ -951,22 +967,6 @@
       "duration_ms": 163730,
       "name": "La de la terraza",
       "url": "https://open.spotify.com/track/2gRGnFeaYf0IbzujjrHGAd"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
-        "name": "Hybridism",
-        "url": "https://open.spotify.com/album/34ZtJJKrCWgno0vQYtDN5H"
-      },
-      "artists": [
-        {
-          "name": "Nicola Cruz",
-          "url": "https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn"
-        }
-      ],
-      "duration_ms": 308813,
-      "name": "Aima",
-      "url": "https://open.spotify.com/track/2ZLSvb7IJl7k9FDDuO0P3q"
     },
     {
       "added_at": "2023-10-10 03:31:09",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1RMsso.md) - [plain]
 
 > This is John Williams\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,229 likes - 45 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,236 likes - 45 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1RMsso.md) - [plain]
 | 44 | [I Could Have Done More](https://open.spotify.com/track/52PSKy15gHNoaidUT4i5vt) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [Itzhak Perlman](https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA), [Boston Symphony Orchestra](https://open.spotify.com/artist/0K23lQ2hSQAlxSEeZ05bjI) | [Schindler's List](https://open.spotify.com/album/1I3unGxGIIxCQkYPlzzaL8) | 5:52 |
 | 45 | [If I Were A Rich Man](https://open.spotify.com/track/76FAfdFlazdZxS63izv3j4) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [Chaim Topol](https://open.spotify.com/artist/5q9IltAhi9vdKqIGVQIasU), ["Fiddler On The Roof” Motion Picture Orchestra](https://open.spotify.com/artist/0yultMio5TntZCl8JRRibP) | [Fiddler On The Roof \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/06ZOoSKNVRocMIxCrZnl1v) | 5:24 |
 
-Snapshot ID: `ag+cgAAAAABOLx5vz/ify3k2BgmI8kl3`
+Snapshot ID: `ahDuAAAAAAD4ZjjGrvTWrhHKmvhePpuS`

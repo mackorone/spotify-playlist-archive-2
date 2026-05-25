@@ -1,12 +1,12 @@
 {
   "description": "This is Brian Eno. The essential tracks, all in one playlist.",
-  "num_followers": 48038,
+  "num_followers": 48041,
   "original_name": "This Is Brian Eno",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ag+cgAAAAAAnyY2yPTEWjxPnmG+Rx/ej",
+  "snapshot_id": "ahDuAAAAAADBtxLFLucdfmj5SaAViSEA",
   "tracks": [
     {
       "added_at": null,
@@ -395,18 +395,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Apollo",
-        "url": "https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E"
+        "name": "Mixing Colours",
+        "url": "https://open.spotify.com/album/20WDVLmfzGI6vlXNGoLyxf"
       },
       "artists": [
+        {
+          "name": "Roger Eno",
+          "url": "https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo"
+        },
         {
           "name": "Brian Eno",
           "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
         }
       ],
-      "duration_ms": 238773,
-      "name": "Deep Blue Day - Remastered 2005",
-      "url": "https://open.spotify.com/track/50mL6pbI0uI6YX1xbSer7g"
+      "duration_ms": 173933,
+      "name": "Iris",
+      "url": "https://open.spotify.com/track/5gFsbxI10eCm40nP6GapHi"
     },
     {
       "added_at": null,
@@ -447,22 +451,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mixing Colours",
-        "url": "https://open.spotify.com/album/20WDVLmfzGI6vlXNGoLyxf"
+        "name": "Apollo",
+        "url": "https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E"
       },
       "artists": [
-        {
-          "name": "Roger Eno",
-          "url": "https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo"
-        },
         {
           "name": "Brian Eno",
           "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
         }
       ],
-      "duration_ms": 173933,
-      "name": "Iris",
-      "url": "https://open.spotify.com/track/5gFsbxI10eCm40nP6GapHi"
+      "duration_ms": 238773,
+      "name": "Deep Blue Day - Remastered 2005",
+      "url": "https://open.spotify.com/track/50mL6pbI0uI6YX1xbSer7g"
     },
     {
       "added_at": null,

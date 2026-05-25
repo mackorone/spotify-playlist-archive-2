@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3B9t7y.md) - [plain]
 
 > This is Carín León\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,141,606 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,141,870 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3B9t7y.md) - [plain]
 | 15 | [Necesito Encontrarte](https://open.spotify.com/track/7Fge718eSrqrCmaJykEmsR) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Colmillo De Leche](https://open.spotify.com/album/6TsExCpZJTDj7Fd0ez2knv) | 3:20 |
 | 16 | [El Amor De Mi Herida](https://open.spotify.com/track/0QCTjU9xOvdDfe9LXEmxeT) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Palabra De To's](https://open.spotify.com/album/2ZzClIM2jdVPjt7HBICDQP) | 2:07 |
 | 17 | [Casi oficial](https://open.spotify.com/track/1tpTj9NAKWUFEabYfkzmRH) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Boca Chueca, Vol\. 1](https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU) | 3:47 |
-| 18 | [El vino de tu boca](https://open.spotify.com/track/3EmjfGS6Qf5PwFhFlYsCc0) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [El vino de tu boca](https://open.spotify.com/album/1OtgzBjIfr4RmvtkBI4tEP) | 2:49 |
-| 19 | [Desde Que Te Tengo](https://open.spotify.com/track/27aIkG6qb03S40uNAorXkM) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [MUDA](https://open.spotify.com/album/2BiSmMZggEAlIKOFJATxut) | 3:46 |
+| 18 | [Desde Que Te Tengo](https://open.spotify.com/track/27aIkG6qb03S40uNAorXkM) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [MUDA](https://open.spotify.com/album/2BiSmMZggEAlIKOFJATxut) | 3:46 |
+| 19 | [El vino de tu boca](https://open.spotify.com/track/3EmjfGS6Qf5PwFhFlYsCc0) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [El vino de tu boca](https://open.spotify.com/album/1OtgzBjIfr4RmvtkBI4tEP) | 2:49 |
 | 20 | [Ese Vato No Te Queda](https://open.spotify.com/track/4Ndjd6DhKIC5IPoBIrMQuX) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Ese Vato No Te Queda](https://open.spotify.com/album/4Z9Ib007Z7ZFmYLfyp2qH9) | 3:18 |
 | 21 | [Alch Si](https://open.spotify.com/track/5cWgwbui8BasfjCXvBZ7UA) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Alch Si](https://open.spotify.com/album/7rCPyUIciqYswpRXTa1JYc) | 2:33 |
 | 22 | [Vivir Sin Aire](https://open.spotify.com/track/5cPfJH1aUu9kIZyvZS7Ps7) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Noches De Cantina](https://open.spotify.com/album/7s4iqJ8ygSoGZJuKm21v1g) | 3:53 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3B9t7y.md) - [plain]
 | 41 | [Dame un Beso y Dime Adios \(En Vivo\)](https://open.spotify.com/track/1JV3RpUoEppOj6jEQgWOor) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Grupo Yndio](https://open.spotify.com/artist/2ExqFhtOJ3rXrYJkBMqAxD) | [Cura Local \(En Vivo\)](https://open.spotify.com/album/3GttJ01ZFSI4Cse6ZCqqg2) | 3:59 |
 | 42 | [Decreté](https://open.spotify.com/track/0JhtY0uWW7GINu2aMAtgFx) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Palabra De To's](https://open.spotify.com/album/2ZzClIM2jdVPjt7HBICDQP) | 2:34 |
 | 43 | [Indispensable](https://open.spotify.com/track/7aGd2n90JJZ5QliVEDcuPz) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Colmillo De Leche](https://open.spotify.com/album/6TsExCpZJTDj7Fd0ez2knv) | 2:33 |
-| 44 | [Aunque tú no lo sepas](https://open.spotify.com/track/1sZzTN6MOnagdaHMd0n5lm) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Boca Chueca, Vol\. 1](https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU) | 3:14 |
-| 45 | [El Correcto](https://open.spotify.com/track/0rvGl8ZQBLhOZcqc33gPbw) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Panorama](https://open.spotify.com/album/4ktP2lR8aPjwFORYmyV1bD) | 2:48 |
-| 46 | [Entregame Tu Amor \(En Vivo\)](https://open.spotify.com/track/1lqFHuu7RlnccwOMMpL0oB) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [UVV Vol\. 8 \(En Vivo\)](https://open.spotify.com/album/270yHmtmUVaxF0nSm1J21K) | 4:41 |
-| 47 | [Otra como tú \(feat\. Carín León\)](https://open.spotify.com/track/24KctiI2TNMOonbsSEQ6vQ) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [UNA HISTORIA IMPORTANTE](https://open.spotify.com/album/0yzfuInZ8RVSXEaNWTJR54) | 4:21 |
-| 48 | [Vuelve o Vete](https://open.spotify.com/track/3veYAXkDS2BIxK9RwamGhQ) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [MUDA](https://open.spotify.com/album/2BiSmMZggEAlIKOFJATxut) | 3:36 |
-| 49 | [Como Lo Hice Yo](https://open.spotify.com/track/6YNTL320OEMAg4ORqGYt1v) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Así de Enamorados](https://open.spotify.com/album/6cjoz33o9RqcKCgo7zDXxK) | 2:57 |
-| 50 | [Secuelas De Amor](https://open.spotify.com/track/6d0omwCMQwRVOexEPsWAcv) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Inédito](https://open.spotify.com/album/3HRaYFwtWL2bgtnYiTpUUW) | 2:34 |
+| 44 | [El Correcto](https://open.spotify.com/track/0rvGl8ZQBLhOZcqc33gPbw) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Panorama](https://open.spotify.com/album/4ktP2lR8aPjwFORYmyV1bD) | 2:48 |
+| 45 | [Vuelve o Vete](https://open.spotify.com/track/3veYAXkDS2BIxK9RwamGhQ) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [MUDA](https://open.spotify.com/album/2BiSmMZggEAlIKOFJATxut) | 3:36 |
+| 46 | [Aunque tú no lo sepas](https://open.spotify.com/track/1sZzTN6MOnagdaHMd0n5lm) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Boca Chueca, Vol\. 1](https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU) | 3:14 |
+| 47 | [Entregame Tu Amor \(En Vivo\)](https://open.spotify.com/track/1lqFHuu7RlnccwOMMpL0oB) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [UVV Vol\. 8 \(En Vivo\)](https://open.spotify.com/album/270yHmtmUVaxF0nSm1J21K) | 4:41 |
+| 48 | [Otra como tú \(feat\. Carín León\)](https://open.spotify.com/track/24KctiI2TNMOonbsSEQ6vQ) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [UNA HISTORIA IMPORTANTE](https://open.spotify.com/album/0yzfuInZ8RVSXEaNWTJR54) | 4:21 |
+| 49 | [Bingo](https://open.spotify.com/track/3W9cyjAeiXQP2cHsmAtImn) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [MUDA](https://open.spotify.com/album/2BiSmMZggEAlIKOFJATxut) | 2:35 |
+| 50 | [Como Lo Hice Yo](https://open.spotify.com/track/6YNTL320OEMAg4ORqGYt1v) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Así de Enamorados](https://open.spotify.com/album/6cjoz33o9RqcKCgo7zDXxK) | 2:57 |
 
-Snapshot ID: `ag+cgAAAAACyXUNye1PpwKe1UWn8b7nQ`
+Snapshot ID: `ahDuAAAAAABFhyCW/8TQXI9gw005hTK2`

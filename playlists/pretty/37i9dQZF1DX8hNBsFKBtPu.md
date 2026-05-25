@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hNBsFKBtPu.md) - [plain]
 
 > We got you! Den bedste nye pop er samlet her 💋 eee gee på coveret
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,232 likes - 173 songs - 8 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,231 likes - 173 songs - 8 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

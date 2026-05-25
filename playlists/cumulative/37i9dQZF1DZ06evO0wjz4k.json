@@ -875,6 +875,24 @@
     },
     {
       "album": {
+        "name": "Parker McCollum (The Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4WISa1TyvE8My12P4ie0Ql"
+      },
+      "artists": [
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        }
+      ],
+      "date_added": "2026-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293173,
+      "name": "New York Is On Fire",
+      "url": "https://open.spotify.com/track/5PpeFaW7pWQre11m6eg3e2"
+    },
+    {
+      "album": {
         "name": "Paper Umbrellas",
         "url": "https://open.spotify.com/album/1alHcx2t1SKjGgF4P9Q0pz"
       },

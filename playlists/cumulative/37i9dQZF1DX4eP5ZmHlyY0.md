@@ -4,7 +4,7 @@
 
 > Boys groups/solo artists shining beyond borders\.  グローバルに活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Cover: Jay Park & LNGSHOT
 
-996 songs - 2 day 6 hr 10 min
+999 songs - 2 day 6 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [BANANA](https://open.spotify.com/track/0TX8pkIb7yJrMAx5hMacxh) | [KEIGO](https://open.spotify.com/artist/2R3B9TCBBnvAEoCu5KpecB) | [BANANA](https://open.spotify.com/album/5rM3gYVTRkvg4MdSNFu5Hx) | 3:29 | 2025-05-06 | 2025-08-01 |
 | [BANG OUT](https://open.spotify.com/track/1j3LL3k27QqSybTw31RSCk) | [RAG POUND](https://open.spotify.com/artist/6L0V9bXK9LPjR1dBtlWTdP) | [BANG OUT](https://open.spotify.com/album/22KdV7IgT63odz3k4ovT4X) | 3:36 | 2024-02-01 | 2024-02-07 |
 | [BANG!](https://open.spotify.com/track/5GhMwDsrBKBN56PgVXYCA6) | [TEMPEST](https://open.spotify.com/artist/1iyFL3CRuKW7PXgPH4VxSP) | [BANG!](https://open.spotify.com/album/6FgXRc5VEzawOjf3EWWYqB) | 3:22 | 2024-04-02 | 2024-06-05 |
-| [BANG!!](https://open.spotify.com/track/5wHQmGFml0oDSqv7Q4nixp) | [Snow Man](https://open.spotify.com/artist/0UuiWPm9FpWvRuWNrXO98N) | [BANG!!](https://open.spotify.com/album/5vkSBmbkFqg9ByvMe0o4Zu) | 3:24 | 2026-05-04 |  |
+| [BANG!!](https://open.spotify.com/track/5wHQmGFml0oDSqv7Q4nixp) | [Snow Man](https://open.spotify.com/artist/0UuiWPm9FpWvRuWNrXO98N) | [BANG!!](https://open.spotify.com/album/5vkSBmbkFqg9ByvMe0o4Zu) | 3:24 | 2026-05-04 | 2026-05-25 |
 | [BANQUET BANG](https://open.spotify.com/track/151HCBi3kmWRVSpSKo0fdX) | [MAZZEL](https://open.spotify.com/artist/5Zy2tdfVQKbDwpqWcjXg42) | [BANQUET BANG](https://open.spotify.com/album/6JG34ilizU0ZNXAK2z7ehB) | 3:23 | 2026-02-01 | 2026-03-24 |
 | [BBUU!](https://open.spotify.com/track/5aVJRrcywxt8dtjkgihKsF) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [PLBBUU](https://open.spotify.com/album/4Cl8PGyGfzPPa2y76nEYAU) | 2:52 | 2025-11-09 | 2026-01-15 |
 | [Be brave!](https://open.spotify.com/track/6kFeAaicIz6Z3w3mwuPbu4) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [Be brave!](https://open.spotify.com/album/7eMyEWqVqpX6Bjeh9PBP8l) | 3:24 | 2025-05-12 | 2025-08-19 |
@@ -313,6 +313,7 @@
 | [GOD\_i](https://open.spotify.com/track/2r9FKxbJqkKMhCc5RMUVQg) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [No.Ⅱ](https://open.spotify.com/album/14nvfkvkYheGoYCbhLL5ZE) | 3:35 | 2025-11-05 | 2025-12-01 |
 | [GOD\_i](https://open.spotify.com/track/6xLSq48LkhwFTwKx442veN) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [GOD\_i](https://open.spotify.com/album/4fU7LKsNvfSiqBWreDtW1I) | 3:35 | 2025-01-28 | 2025-05-07 |
 | [GOING SOUTH](https://open.spotify.com/track/5vB7OHNcFXpd4I7Ocv5Xbw) | [JUSTB](https://open.spotify.com/artist/2f0bPttugNpkg34HIxBIWe) | [GOING SOUTH](https://open.spotify.com/album/4wYNiaqZxi4TodXu1xqUKH) | 2:09 | 2025-10-24 | 2025-12-10 |
+| [Good Boys Anthem](https://open.spotify.com/track/6TIKxwgorfSVrDIg7ywq00) | [STARGLOW](https://open.spotify.com/artist/1iw2iFU0Tpq7xvkX4VZyfZ) | [Good Boys Anthem](https://open.spotify.com/album/3FvMmC8dFu24jkoIZMwRk6) | 3:16 | 2026-05-25 |  |
 | [GOOD DAY](https://open.spotify.com/track/4Zw2b1jp0KrXcrsUeX9As2) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [AND,](https://open.spotify.com/album/3Hs8WBB47spgGcUhtQ9rXB) | 2:52 | 2024-07-09 | 2025-03-07 |
 | [Good Day \(Feat\. Jay Park, 1iL\)](https://open.spotify.com/track/4lveRzAWbl6pNLITlfiW9A) | [DONGHAE](https://open.spotify.com/artist/4TSRZ3mVg0Lu0qmtJPiPEY), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [1iL](https://open.spotify.com/artist/0aLwY7iJg9JPeLOX8Rf5iP) | [Good Day \(Feat\. Jay Park, 1iL\)](https://open.spotify.com/album/432CGZ4tKvuyizD5MSW5iW) | 3:38 | 2026-04-08 | 2026-04-21 |
 | [Good Liar](https://open.spotify.com/track/0wUKi6FP0BvXUS8vCeiCPI) | [WONHO](https://open.spotify.com/artist/6pC3vnUgNVITdYMMXefi6D) | [Good Liar](https://open.spotify.com/album/3UEpsPGGiDg0YRsbdHgd7U) | 2:50 | 2025-10-03 | 2025-11-03 |
@@ -368,6 +369,7 @@
 | [I don't care](https://open.spotify.com/track/6X0i1lqSjA3GYqaBGhZHNx) | [WATWING](https://open.spotify.com/artist/7hkQYkktyo9LEAE5aIwi6e) | [I don't care](https://open.spotify.com/album/3N8AiWK07df0p8gwIuCy9Z) | 2:53 | 2023-12-14 | 2023-12-20 |
 | [I Feel Good](https://open.spotify.com/track/1klePVubVctBqhlKJvibil) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [No Genre](https://open.spotify.com/album/2E8hkTJKnSCv69mjVAh6hL) | 2:35 | 2025-05-13 | 2025-09-09 |
 | [I Got It](https://open.spotify.com/track/5yHvX9AFnONMXwBhDGwJ5R) | [IMP.](https://open.spotify.com/artist/2ahbTOVqWJKyj6TUXqFcf1) | [I Got It](https://open.spotify.com/album/1OwQ3QCxyB8QwkSPzfo4sI) | 3:20 | 2023-12-07 | 2024-05-27 |
+| [I Got Ways](https://open.spotify.com/track/7B2chBAErZdXILliqiulDH) | [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb) | [I Got Ways](https://open.spotify.com/album/1xP6XNCIJCNFaIRz422fPc) | 2:51 | 2026-05-25 |  |
 | [I Know](https://open.spotify.com/track/1H6SLuE3e50BS0V8Na1XzQ) | [King & Prince](https://open.spotify.com/artist/1nzId6SLDDTUTRV7lNbgxp) | [I Know](https://open.spotify.com/album/1UGkTP9bmeLABz5TIeLwiz) | 2:18 | 2025-07-31 | 2025-12-18 |
 | [I Want You Back](https://open.spotify.com/track/735mGGdbUzNDUg9IHPaVaV) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [I Want You Back](https://open.spotify.com/album/6694Ri652nB0EFEsAQLjpB) | 2:49 | 2025-10-26 | 2025-12-08 |
 | [I wonder](https://open.spotify.com/track/00Q3uYmFKFVYTRjbsnUq7H) | [Da\-iCE](https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH) | [I wonder](https://open.spotify.com/album/2Pwsp7jElXMU0fUwzHo1je) | 2:37 | 2024-04-16 | 2025-03-07 |
@@ -659,7 +661,7 @@
 | [ROSES](https://open.spotify.com/track/6N4bKr0NJtNad2aPl0KAqm) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [ROSES](https://open.spotify.com/album/0QqZQlP3TnrGvWpxKzOV96) | 2:21 | 2026-01-23 | 2026-02-03 |
 | [Royal](https://open.spotify.com/track/0NR5Ps5s2hpfZ8Ysmp3dTF) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L), [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Royal](https://open.spotify.com/album/1YKSS88CPp87pKphKTZMTd) | 3:42 | 2024-09-03 | 2025-03-07 |
 | [RU\-PUM PUM \- Japanese ver.](https://open.spotify.com/track/6DHzcm29i8oid8To18mMxx) | [8TURN](https://open.spotify.com/artist/7tCg9aiVKZ5Cmhbfb7UoqM) | [RU\-PUM PUM \(Japanese ver.\)](https://open.spotify.com/album/5OurfkN4UO7DRPnIkfODcA) | 3:22 | 2024-03-05 | 2024-03-27 |
-| [Run It Back](https://open.spotify.com/track/2DHlMEVSmWkmffblREZazJ) | [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb) | [Run It Back](https://open.spotify.com/album/1r0FKtz7RlCiLJVDbwYVSk) | 2:26 | 2026-01-15 |  |
+| [Run It Back](https://open.spotify.com/track/2DHlMEVSmWkmffblREZazJ) | [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb) | [Run It Back](https://open.spotify.com/album/1r0FKtz7RlCiLJVDbwYVSk) | 2:26 | 2026-01-15 | 2026-05-25 |
 | [Running to Future](https://open.spotify.com/track/4GoHlroPFfWSJzp6PSZEzU) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [Running to Future](https://open.spotify.com/album/4UwJN15Kj788q1cr5X2j5T) | 3:19 | 2026-01-15 | 2026-01-24 |
 | [Running Wild](https://open.spotify.com/track/4p7DTkyrKqT98xlIwYYfXz) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Happy](https://open.spotify.com/album/0fKlaQuBMQYFo5aIFoGIXt) | 2:31 | 2025-03-06 | 2025-03-24 |
 | [SADISTIC](https://open.spotify.com/track/11umzbLG97P5FTncGcjUhl) | [JASP.ER](https://open.spotify.com/artist/1wBe2nbEVc01LGBk4YCxER) | [SADISTIC](https://open.spotify.com/album/7BBhwoonSRzWEohQIcHDkY) | 3:04 | 2025-03-06 | 2025-09-14 |
@@ -669,6 +671,7 @@
 | [Same Sky](https://open.spotify.com/track/0FAUYnNFMlHteLJ11r5Ix8) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [Same Sky](https://open.spotify.com/album/6aQ2GvMtXtrVACouE8pba7) | 3:04 | 2026-02-26 | 2026-03-18 |
 | [SANE](https://open.spotify.com/track/1xvKv2s1glXmM7r7onnU0s) | [ONE PACT](https://open.spotify.com/artist/6ypgjfzuOVkVw9FEyh2UD5) | [1'ONLY](https://open.spotify.com/album/6Edlwp9FVbvlxF0JYAUqg9) | 2:18 | 2026-02-26 |  |
 | [Saucin'](https://open.spotify.com/track/7jVr1ZipYJJR4qHxZcQjqa) | [LNGSHOT](https://open.spotify.com/artist/2F4oTJOWkcD1JaTeKEa9h6) | [Saucin'](https://open.spotify.com/album/5y364Kj24BuuitP830bMnM) | 2:53 | 2026-01-15 | 2026-01-17 |
+| [SAVE YOUR HEART](https://open.spotify.com/track/1OapSRCeIO6x802zzQbg5R) | [Snow Man](https://open.spotify.com/artist/0UuiWPm9FpWvRuWNrXO98N) | [SAVE YOUR HEART](https://open.spotify.com/album/6qiYRd1slkVkoOOe5vGsPP) | 3:11 | 2026-05-25 |  |
 | [SAVIOR](https://open.spotify.com/track/3GujwZryUismW6xKOn309M) | [ONE N' ONLY](https://open.spotify.com/artist/6Pob63g9NOdT7moTAUZ4GB) | [SAVIOR](https://open.spotify.com/album/3iXdmJU9Ya628gLjlgoWZr) | 2:59 | 2025-01-14 | 2025-02-10 |
 | [SAY CHEESE!](https://open.spotify.com/track/5K7Mt6iXdKKJV08fn1aFdb) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [SAY CHEESE!](https://open.spotify.com/album/5r8SFpLS1F2UtCgI9pVAGQ) | 2:52 | 2025-11-09 | 2026-02-07 |
 | [Say I do](https://open.spotify.com/track/5XKjC9HCdGdGyltKvsqNdb) | [Travis Japan](https://open.spotify.com/artist/28IJpwoVi5R92MtHxkj2Lk) | [Say I do](https://open.spotify.com/album/31CPmLdGSzZ6MHRCIOVhsO) | 4:02 | 2025-03-06 | 2025-04-16 |
@@ -823,7 +826,7 @@
 | [Up All Night](https://open.spotify.com/track/2652PzGxxU8jzARLLubmjD) | [xikers](https://open.spotify.com/artist/6QHP8St0MzfNDqjKpwtMht) | [Up All Night](https://open.spotify.com/album/0L0CetqAg2aiFsC5lHBbyh) | 3:35 | 2025-07-14 | 2025-08-01 |
 | [Upside Down](https://open.spotify.com/track/5a5QwAcEmYGYpE0nt14up9) | [CHANYEOL](https://open.spotify.com/artist/6jV25rzTKQ2zMgrqHha1V5) | [Upside Down \- The 2nd Mini Album](https://open.spotify.com/album/6QCntvulIht3aec99G4Wrd) | 2:40 | 2025-08-24 | 2025-09-26 |
 | [Use Your Body](https://open.spotify.com/track/5jJanCOrDYbqfWO85B6XzJ) | [DA PUMP](https://open.spotify.com/artist/3NRXKeatDxKe4apH6XawKX) | [Use Your Body / E\-NERGY BOYS](https://open.spotify.com/album/7pVVu6AwIlArQyTUq8jpqu) | 2:59 | 2024-02-20 | 2024-03-13 |
-| [USOTSUKI](https://open.spotify.com/track/6JzydmDkNhr2fl8wYFPMCO) | [STARGLOW](https://open.spotify.com/artist/1iw2iFU0Tpq7xvkX4VZyfZ) | [USOTSUKI](https://open.spotify.com/album/1jnOrGnTSSRUvrpLgCxJ0b) | 2:52 | 2026-03-30 |  |
+| [USOTSUKI](https://open.spotify.com/track/6JzydmDkNhr2fl8wYFPMCO) | [STARGLOW](https://open.spotify.com/artist/1iw2iFU0Tpq7xvkX4VZyfZ) | [USOTSUKI](https://open.spotify.com/album/1jnOrGnTSSRUvrpLgCxJ0b) | 2:52 | 2026-03-30 | 2026-05-25 |
 | [UV](https://open.spotify.com/track/6eKBXC5KEbiS3gNLgWWtyk) | [MASHIHO](https://open.spotify.com/artist/0pxEGHaPCDvpHEyXGc7xlc) | [ULTRA VIOLET](https://open.spotify.com/album/5JJb0PsoRNXCTNVU1leKiq) | 2:47 | 2025-03-25 | 2025-05-30 |
 | [Vanilla](https://open.spotify.com/track/40Sa8TQixEoPFU7kosThge) | [A.B.C\-Z](https://open.spotify.com/artist/4HXPfWNUCAFpjMoWyTWz5i) | [BEST OF A.B.C\-Z](https://open.spotify.com/album/0yk8RjLmJXhB9S5A0czgN1) | 4:43 | 2024-04-30 | 2024-05-15 |
 | [Veil](https://open.spotify.com/track/3s0eqXMoij2RmAz2qiN3Bq) | [TAEMIN](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) | [Veil](https://open.spotify.com/album/245a7QKvETcXIn3iilhU3T) | 2:52 | 2025-09-16 | 2026-02-27 |

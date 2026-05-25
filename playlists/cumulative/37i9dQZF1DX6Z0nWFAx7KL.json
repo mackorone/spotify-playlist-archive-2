@@ -926,7 +926,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-25",
       "duration_ms": 152000,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/1KO6Kk23aYLrkmaDIjA4jf"
@@ -3626,6 +3626,28 @@
       "duration_ms": 289000,
       "name": "It's Alright - Original Mix",
       "url": "https://open.spotify.com/track/3ABPEz0ASeocrzXOHZix5D"
+    },
+    {
+      "album": {
+        "name": "IYA (In Your Arms)",
+        "url": "https://open.spotify.com/album/0y35B7RSVegNOiOXy2MLVx"
+      },
+      "artists": [
+        {
+          "name": "Bolier",
+          "url": "https://open.spotify.com/artist/65NscqgsoMPqBtoLbkP3jD"
+        },
+        {
+          "name": "Solar State",
+          "url": "https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152542,
+      "name": "IYA (In Your Arms)",
+      "url": "https://open.spotify.com/track/37lDsKatjqAxlTXb9ZGpFO"
     },
     {
       "album": {

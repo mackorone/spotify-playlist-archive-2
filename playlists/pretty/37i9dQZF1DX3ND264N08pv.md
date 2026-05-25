@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 
 > Hardcore, Frenchcore and uptempo to get you pumped
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,140 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,148 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 | 24 | [BEAST INSIDE ME](https://open.spotify.com/track/2Zvcq8xex05KRqhDbmZtZr) | [The Dark Horror](https://open.spotify.com/artist/3e7LfI39pUL22PeGn1mlFa) | [BEAST INSIDE ME](https://open.spotify.com/album/3rdnLNBB2fsRfinDMEUxlQ) | 3:04 |
 | 25 | [RECKLESS](https://open.spotify.com/track/5JeMxnOJoVRRCupHZTLXEw) | [TOZA](https://open.spotify.com/artist/4EGv5uSV4xrFpAfrkvW71L), [Lil Texas](https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5) | [RECKLESS](https://open.spotify.com/album/2gWiPWgY15f84iCo3LP4CE) | 2:40 |
 | 26 | [Burn Out](https://open.spotify.com/track/1nN8uMR9h1pk6wvXYuLG5R) | [N\-Vitral](https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3), [Lekkerfaces](https://open.spotify.com/artist/45Meh6B3L1TNh03On3y349), [BOMBSQUAD](https://open.spotify.com/artist/7fyZZzdEhPZmZWrqrYS0tl) | [Burn Out](https://open.spotify.com/album/0qTZSwiA8pCbsKxbWOSE7w) | 2:41 |
-| 27 | [Midnight Rain](https://open.spotify.com/track/79oDrnQGemv6utpCywBUvJ) | [Miss K8](https://open.spotify.com/artist/776uRsooWrGiVZkVWtvfgO) | [Midnight Rain](https://open.spotify.com/album/1mmrfH43IiAI7uuQCqrapO) | 3:44 |
-| 28 | [Una Hora Más \- Dimitri K & The Dark Horror Remix](https://open.spotify.com/track/6l6z5YY5uJCjWenk71Fm7f) | [Dimitri K](https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E), [The Dark Horror](https://open.spotify.com/artist/3e7LfI39pUL22PeGn1mlFa), [The Rocketman](https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V) | [Una Hora Más \(Dimitri K & The Dark Horror Remix\)](https://open.spotify.com/album/5dCqGrC8C7PBSNHN7j3vxL) | 3:36 |
+| 27 | [Una Hora Más \- Dimitri K & The Dark Horror Remix](https://open.spotify.com/track/6l6z5YY5uJCjWenk71Fm7f) | [Dimitri K](https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E), [The Dark Horror](https://open.spotify.com/artist/3e7LfI39pUL22PeGn1mlFa), [The Rocketman](https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V) | [Una Hora Más \(Dimitri K & The Dark Horror Remix\)](https://open.spotify.com/album/5dCqGrC8C7PBSNHN7j3vxL) | 3:36 |
+| 28 | [Midnight Rain](https://open.spotify.com/track/79oDrnQGemv6utpCywBUvJ) | [Miss K8](https://open.spotify.com/artist/776uRsooWrGiVZkVWtvfgO) | [Midnight Rain](https://open.spotify.com/album/1mmrfH43IiAI7uuQCqrapO) | 3:44 |
 | 29 | [Dark Smile](https://open.spotify.com/track/73zL3n9NzWIXVtvhlUnsXB) | [The Dark Horror](https://open.spotify.com/artist/3e7LfI39pUL22PeGn1mlFa), [IMHAPPY](https://open.spotify.com/artist/610Cl4EOB0UT1FSg8zjedB) | [Dark Smile](https://open.spotify.com/album/7FUkQyx2A9SfDaBWpvbEFc) | 3:36 |
 | 30 | [Round My Mind](https://open.spotify.com/track/4j8CfFD1QzZrQqm0srghvN) | [Revealer](https://open.spotify.com/artist/2QNMNOR2Sbsedf6pxxACgN) | [Round My Mind](https://open.spotify.com/album/2jW0vRxCDQkL1o9js2JUeI) | 3:36 |
 | 31 | [Make It Fucking Harder!](https://open.spotify.com/track/4atDi2L3enDcDZdJ1PxCdl) | [D\-Fence](https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv), [Barber](https://open.spotify.com/artist/55yd56lRrN815OEFUOrC1W) | [Make It Fucking Harder!](https://open.spotify.com/album/2F9VvuvmaxTpYNwTEmK8uv) | 2:53 |

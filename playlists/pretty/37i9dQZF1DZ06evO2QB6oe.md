@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QB6oe.md) - [plain]
 
 > This is Pedro Capó\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,698 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,696 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QB6oe.md) - [plain]
 | 43 | [El Aprendiz \(with Pedro Capó\) \- En Vivo Desde Guanajuato](https://open.spotify.com/track/6wC2vAyhQo40HeENRI23aq) | [Samo](https://open.spotify.com/artist/68QUssU8KffP7KmgO3Z6Ye), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Me Quito el Sombrero \(En Vivo Desde Guanajuato\)](https://open.spotify.com/album/7cT5blE7IUCgqb20TzbQiJ) | 4:23 |
 | 44 | [Libre](https://open.spotify.com/track/4kmeo6vgaOwksRN95HgY9E) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Aquila](https://open.spotify.com/album/6kNA5bH9hxoZuoUHZJt3fI) | 3:58 |
 | 45 | [Volver a Casa](https://open.spotify.com/track/0fiY9KBlMWgK1xrQTlmzyS) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [La Neta](https://open.spotify.com/album/4jL4G1XbqAKQjp3irG9kl1) | 2:53 |
-| 46 | [Besos Escondíos \(feat\. Pedro Capó\)](https://open.spotify.com/track/2GzZdNShX80JKeeGSwYtCu) | [India Martinez](https://open.spotify.com/artist/6FOpWOxsjQxKEbLiJpU1xV), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Palmeras](https://open.spotify.com/album/44T0wt9lD2FnxPg5d2qXJL) | 2:42 |
-| 47 | [La Carretera](https://open.spotify.com/track/42ch5aWgNSzXlTgNpWM2kY) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [La Carretera](https://open.spotify.com/album/5rVIdtoCee1JB1OaLkTo00) | 3:15 |
-| 48 | [Estoy Enamorado \- En Vivo](https://open.spotify.com/track/4IeTtjvqaCbWUzL1m2NPTM) | [Corazón Serrano](https://open.spotify.com/artist/4UuICMmKQKNyCJfBg6lFFD), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Estoy Enamorado \(En Vivo\)](https://open.spotify.com/album/3obr3RWtDcd4nZq36HqsWw) | 3:03 |
+| 46 | [Estoy Enamorado \- En Vivo](https://open.spotify.com/track/4IeTtjvqaCbWUzL1m2NPTM) | [Corazón Serrano](https://open.spotify.com/artist/4UuICMmKQKNyCJfBg6lFFD), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Estoy Enamorado \(En Vivo\)](https://open.spotify.com/album/3obr3RWtDcd4nZq36HqsWw) | 3:03 |
+| 47 | [Besos Escondíos \(feat\. Pedro Capó\)](https://open.spotify.com/track/2GzZdNShX80JKeeGSwYtCu) | [India Martinez](https://open.spotify.com/artist/6FOpWOxsjQxKEbLiJpU1xV), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Palmeras](https://open.spotify.com/album/44T0wt9lD2FnxPg5d2qXJL) | 2:42 |
+| 48 | [La Carretera](https://open.spotify.com/track/42ch5aWgNSzXlTgNpWM2kY) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [La Carretera](https://open.spotify.com/album/5rVIdtoCee1JB1OaLkTo00) | 3:15 |
 | 49 | [Piel Canela \(Casa Sole\)](https://open.spotify.com/track/44WRi9pjOVWlAv3tmYKOln) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy), [Chango Spasiuk](https://open.spotify.com/artist/0qGRkfnUqWeG49vbCv6rMY) | [Piel Canela \(Casa Sole\)](https://open.spotify.com/album/5HuL8cVtREOCRVr60LcUtU) | 3:12 |
 | 50 | [¿De qué vamos a hablar?](https://open.spotify.com/track/3Ra7HSy3xOJo3gkdXFZ3NB) | [Camilú](https://open.spotify.com/artist/305uX4OPy99KGVU2dhE2AF), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [¿De qué vamos a hablar?](https://open.spotify.com/album/1dexhNnGvId5xMSu1hlTqh) | 3:05 |
 
-Snapshot ID: `ag+cgAAAAAD0LjqHtAjLAFHGZBZ+gYNC`
+Snapshot ID: `ahDuAAAAAAAUWghNGf+E6HH3nWg5ddAK`

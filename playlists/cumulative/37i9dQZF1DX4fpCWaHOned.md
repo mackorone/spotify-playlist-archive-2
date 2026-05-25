@@ -4,7 +4,7 @@
 
 > Sabrina Carpenter\. Period.
 
-609 songs - 1 day 9 hr 14 min
+610 songs - 1 day 9 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [Electric \- Pokemon 25 Version](https://open.spotify.com/track/63eV5hreY9feQP2CmYavpj) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Electric](https://open.spotify.com/album/2kjyPzcMPYUZlB9CJzu10f) | 3:13 | 2021-05-22 | 2022-07-29 |
 | [Electricity \(with Dua Lipa\)](https://open.spotify.com/track/5N4erncE7kuUccm7zEmwzk) | [Silk City](https://open.spotify.com/artist/2X97ZAqRKRMYFIDqtvGgGc), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp) | [Electricity \(with Dua Lipa\)](https://open.spotify.com/album/429B3se6xtZuvblNnS2iy7) | 3:58 | 2019-07-29\* | 2021-05-28 |
 | [End Of An Era](https://open.spotify.com/track/1YrY0vjHWp672gt0crtj5A) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Radical Optimism](https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc) | 3:16 | 2024-05-03 | 2024-05-25 |
+| [EPA](https://open.spotify.com/track/1DtGtvgGRxsfHfwQu3cqfw) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [EPA](https://open.spotify.com/album/42bmZVf8s1S0wMhY7HrBGZ) | 3:22 | 2026-05-15 |  |
 | [Escapism.](https://open.spotify.com/track/5mHdCZtVyb4DcJw8799hZp) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 4:32 | 2023-08-04 |  |
 | [EveryTime I Cry](https://open.spotify.com/track/0mV43B6pJWRjcM5TmzNe6d) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [EveryTime I Cry](https://open.spotify.com/album/5W79aGcuoBYk0Mb2QL2Jcw) | 2:57 | 2021-06-12 | 2022-02-04 |
 | [Ex's & Oh's](https://open.spotify.com/track/2vW5tqS1EFel9yYOQ7WZmE) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Love Stuff \(Japan Version\)](https://open.spotify.com/album/7m4d3jbswZ7fy8aeLAcbsa) | 3:22 | 2021-02-27 | 2022-04-19 |
@@ -514,7 +515,7 @@
 | [Take It or Leave It](https://open.spotify.com/track/1M65QIDUGHX5iccsPZ83hd) | [Aleyna Tilki](https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn) | [Take It or Leave It](https://open.spotify.com/album/1UPZDcfjJ7M6fQTJkFNxUe) | 2:28 | 2022-04-15 | 2022-04-21 |
 | [Take My Breath](https://open.spotify.com/track/6OGogr19zPTM4BALXuMQpF) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Take My Breath](https://open.spotify.com/album/6DmXKM13nNgIIby2FdK0f8) | 3:40 | 2021-10-09 | 2022-01-15 |
 | [Talk That Talk](https://open.spotify.com/track/4MPEYbqv4tAuLagNNmukjy) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Talk That Talk \(Explicit\)](https://open.spotify.com/album/16ySsalaP2FiKVDlYCWnYh) | 3:29 | 2022-03-25 | 2022-04-14 |
-| [Taste](https://open.spotify.com/track/1d7Ptw3qYcfpdLNL5REhtJ) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/4B4Elma4nNDUyl6D5PvQkj) | 2:37 | 2024-08-23 |  |
+| [Taste](https://open.spotify.com/track/1d7Ptw3qYcfpdLNL5REhtJ) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/4B4Elma4nNDUyl6D5PvQkj) | 2:37 | 2024-08-23 | 2026-05-25 |
 | [Tears](https://open.spotify.com/track/42VUCXerQ5qTr4Qp6PhKo4) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend](https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop) | 2:40 | 2025-09-08 |  |
 | [Tell Me I'm Pretty](https://open.spotify.com/track/4gfqsWnwbhyeXGBtyLTonu) | [Brynn Elliott](https://open.spotify.com/artist/43AN9FNovCCWxPX4talyzz) | [Tell Me I'm Pretty](https://open.spotify.com/album/4xCdy8RgwS1k4pJI6ScvUh) | 3:08 | 2021-01-23 | 2022-07-29 |
 | [That's My Girl](https://open.spotify.com/track/2ACOWPLUe4A4KuQ5ioD2od) | [Fifth Harmony](https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt) | [7/27 \(Deluxe\)](https://open.spotify.com/album/0pF0oyuPNdOObniB1Ng0kW) | 3:24 | 2022-02-03 |  |

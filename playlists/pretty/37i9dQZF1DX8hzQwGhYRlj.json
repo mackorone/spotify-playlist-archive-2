@@ -615,26 +615,6 @@
     {
       "added_at": "2025-12-15 11:39:00",
       "album": {
-        "name": "The Best of Grieg",
-        "url": "https://open.spotify.com/album/2h6NFBOLseZmvXlQWZkWC0"
-      },
-      "artists": [
-        {
-          "name": "Edvard Grieg",
-          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
-        },
-        {
-          "name": "Zolt\u00e1n Kocsis",
-          "url": "https://open.spotify.com/artist/5Gi9bw3svtZMwonzcQG2wm"
-        }
-      ],
-      "duration_ms": 104600,
-      "name": "Lyric Pieces III, Op. 43: 4. Little Bird",
-      "url": "https://open.spotify.com/track/1QIxNcM4KHTIJ1GXeo6aIN"
-    },
-    {
-      "added_at": "2025-12-15 11:39:00",
-      "album": {
         "name": "Grieg: Lyric Pieces; Sonata; Fugues",
         "url": "https://open.spotify.com/album/17YxMaI0YHCEWsmoslhZt8"
       },
@@ -651,6 +631,26 @@
       "duration_ms": 181506,
       "name": "Lyric Pieces, Op. 43: VI. To the Spring",
       "url": "https://open.spotify.com/track/7FdTdDt7bRTFo4x4hmdadD"
+    },
+    {
+      "added_at": "2025-12-15 11:39:00",
+      "album": {
+        "name": "The Best of Grieg",
+        "url": "https://open.spotify.com/album/2h6NFBOLseZmvXlQWZkWC0"
+      },
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "Zolt\u00e1n Kocsis",
+          "url": "https://open.spotify.com/artist/5Gi9bw3svtZMwonzcQG2wm"
+        }
+      ],
+      "duration_ms": 104600,
+      "name": "Lyric Pieces III, Op. 43: 4. Little Bird",
+      "url": "https://open.spotify.com/track/1QIxNcM4KHTIJ1GXeo6aIN"
     },
     {
       "added_at": "2025-12-15 11:39:00",

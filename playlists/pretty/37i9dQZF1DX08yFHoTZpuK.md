@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08yFHoTZpuK.md) - [plain]
 
 > Cutting\-edge dance music emerging from Japan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,885 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,937 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,9 +48,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08yFHoTZpuK.md) - [plain]
 | 38 | [OB PKWY](https://open.spotify.com/track/1Gqe0o6Fy8qPMRdqiwQDTo) | [banvox](https://open.spotify.com/artist/1o2aYT0R8jCzs5q1rEA0gY) | [OB PKWY](https://open.spotify.com/album/3bsT90Ei5T9QhYUs2mRw21) | 3:55 |
 | 39 | [Clockwork Dub](https://open.spotify.com/track/13rcE5fNdeR8fL7Y7DwSaA) | [Stones Taro](https://open.spotify.com/artist/2lVqmVhV77js7wdmzUVdyB) | [Lost City Archives, Vol\. 4](https://open.spotify.com/album/6K44LrVGB7csp6698Bly9a) | 4:54 |
 | 40 | [不夜城 \- FUYAJO feat\. Tyler Carter](https://open.spotify.com/track/7BCI2eDGqx0lzZbUc0hACt) | [TYT](https://open.spotify.com/artist/2qtG3DmCMRD23hlbK1DdJw), [DJ TORA](https://open.spotify.com/artist/3hBt6RvhQQlRIeDiNH2HeS), [YAKSA](https://open.spotify.com/artist/74UHQxfQtHHY7FgP7qkRzR), [TJO](https://open.spotify.com/artist/1VMMPq9feNkGKD1MUDsdXN), [Tyler Carter](https://open.spotify.com/artist/4VCAHkdzvJBHJAcPyvWY5s) | [不夜城 \- FUYAJO feat\. Tyler Carter](https://open.spotify.com/album/2HMM8JWRjH5ElRHJJ2pGoO) | 3:58 |
-| 41 | [Keep us in the loop](https://open.spotify.com/track/6O5GLEknWy44xP432YP2Ex) | [AmPm](https://open.spotify.com/artist/5Xcbv83o11Ez2XPHa1n8Pf) | [Keep us in the loop](https://open.spotify.com/album/4iphPY2yjE09hS7vDryfmU) | 3:15 |
-| 42 | [DOSHABURI \(feat\. JUMADIBA\) \- PAS TASTA Remix](https://open.spotify.com/track/60iwtXuUHtepUcIHXiSrfv) | [kZm](https://open.spotify.com/artist/4hg5WX4ro6OVIg66dcYUk4), [PAS TASTA](https://open.spotify.com/artist/38XISC5BMSTkAuKwniV2AS), [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj) | [DOSHABURI \(feat\. JUMADIBA\) \[PAS TASTA Remix\]](https://open.spotify.com/album/7By1ykbXs5wNZ9VPty1ubR) | 2:58 |
-| 43 | [Dry Action Pump](https://open.spotify.com/track/0nonTTE1UucPmcFJOyns1n) | [TESTSET](https://open.spotify.com/artist/5yNHyOo143SXywbGvCAXhD) | [ALL HAZE](https://open.spotify.com/album/6rQIB992oYHKN1TZvf1DsJ) | 4:19 |
+| 41 | [DOSHABURI \(feat\. JUMADIBA\) \- PAS TASTA Remix](https://open.spotify.com/track/60iwtXuUHtepUcIHXiSrfv) | [kZm](https://open.spotify.com/artist/4hg5WX4ro6OVIg66dcYUk4), [PAS TASTA](https://open.spotify.com/artist/38XISC5BMSTkAuKwniV2AS), [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj) | [DOSHABURI \(feat\. JUMADIBA\) \[PAS TASTA Remix\]](https://open.spotify.com/album/7By1ykbXs5wNZ9VPty1ubR) | 2:58 |
+| 42 | [Dry Action Pump](https://open.spotify.com/track/0nonTTE1UucPmcFJOyns1n) | [TESTSET](https://open.spotify.com/artist/5yNHyOo143SXywbGvCAXhD) | [ALL HAZE](https://open.spotify.com/album/6rQIB992oYHKN1TZvf1DsJ) | 4:19 |
+| 43 | [Keep us in the loop](https://open.spotify.com/track/6O5GLEknWy44xP432YP2Ex) | [AmPm](https://open.spotify.com/artist/5Xcbv83o11Ez2XPHa1n8Pf) | [Keep us in the loop](https://open.spotify.com/album/4iphPY2yjE09hS7vDryfmU) | 3:15 |
 | 44 | [Life, Dream, Love](https://open.spotify.com/track/0M6Xd82gmkSV5dvA6Jht3r) | [Daishi Dance](https://open.spotify.com/artist/01HEACGPo5xyiXgAJKEvxQ), [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [Oh Jieun](https://open.spotify.com/artist/0yhoq5pPSa7eCpA65358cU), [Himekami](https://open.spotify.com/artist/7F1bUE2y2JjoReZ4hESAAV) | [Life, Dream, Love](https://open.spotify.com/album/0qUWCYFJilaDox1l7PAF8P) | 3:52 |
 | 45 | [Attracted to you](https://open.spotify.com/track/0Bb9a95zKTFs7E6ecyDYea) | [Uilou](https://open.spotify.com/artist/3CdEu2bSpVDTmpSMWqFKCL), [AFAMoo](https://open.spotify.com/artist/3A45aBAjydAM6h6iic8GOl), [Lily June](https://open.spotify.com/artist/0bspB4ERg4mbPRwlsYW8k6) | [Attracted to you](https://open.spotify.com/album/30ZNvOTFgeEcXI2oMq4N9z) | 2:42 |
 | 46 | [SWARMER](https://open.spotify.com/track/29YUKiGMxEvmtXml3egDpE) | [SYCLES](https://open.spotify.com/artist/6gJjkwWveT0RtNy6FsRG4I) | [SWARMER](https://open.spotify.com/album/0DknbcyRqXrm11Zs1wZps6) | 6:01 |

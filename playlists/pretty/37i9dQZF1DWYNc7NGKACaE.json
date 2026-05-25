@@ -1,6 +1,6 @@
 {
   "description": "essa \u00e9 s\u00f3 pra quem vive no 2.0x\n",
-  "num_followers": 83522,
+  "num_followers": 83508,
   "original_name": "speed BR",
   "owner": {
     "name": "Spotify",
@@ -827,6 +827,22 @@
     {
       "added_at": "2024-07-08 19:10:57",
       "album": {
+        "name": "BOMBEI AQUELA MSC DO INVEJOSO",
+        "url": "https://open.spotify.com/album/6kaffiAaI4xC57IQRemunE"
+      },
+      "artists": [
+        {
+          "name": "ARTHUR DE AFC",
+          "url": "https://open.spotify.com/artist/187YBR2vRDJhfZ2AddqoBb"
+        }
+      ],
+      "duration_ms": 149538,
+      "name": "BOMBEI AQUELA MSC DO INVEJOSO",
+      "url": "https://open.spotify.com/track/2z4Z6cYzwjD9cRhNVWPj6W"
+    },
+    {
+      "added_at": "2024-07-08 19:10:57",
+      "album": {
         "name": "Felina, Ai Meu Deus",
         "url": "https://open.spotify.com/album/3nGpC3zbNobY1JLQzd5MFt"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 147840,
       "name": "Felina, Ai Meu Deus",
       "url": "https://open.spotify.com/track/4mXao1gU5PKbwEd5oi1JBP"
-    },
-    {
-      "added_at": "2024-07-08 19:10:57",
-      "album": {
-        "name": "BOMBEI AQUELA MSC DO INVEJOSO",
-        "url": "https://open.spotify.com/album/6kaffiAaI4xC57IQRemunE"
-      },
-      "artists": [
-        {
-          "name": "ARTHUR DE AFC",
-          "url": "https://open.spotify.com/artist/187YBR2vRDJhfZ2AddqoBb"
-        }
-      ],
-      "duration_ms": 149538,
-      "name": "BOMBEI AQUELA MSC DO INVEJOSO",
-      "url": "https://open.spotify.com/track/2z4Z6cYzwjD9cRhNVWPj6W"
     },
     {
       "added_at": "2024-07-08 19:10:57",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BCd5Q12fpZ.md) - [plain]
 
 > Floor fillers from the long, illustrious history of the show\. Cover: Loreen
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,478 likes - 75 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,487 likes - 75 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BCd5Q12fpZ.md) - [plain]
 | 31 | [Jaja Ding Dong](https://open.spotify.com/track/4QWRvlXU8dRUobH9YCDrIY) | [Will Ferrell](https://open.spotify.com/artist/7xF6Psrf6yNOBkB9jpMRa0), [My Marianne](https://open.spotify.com/artist/26a4tbq9f4QZCHArsoQkWn) | [Eurovision Song Contest: The Story of Fire Saga \(Music from the Netflix Film\)](https://open.spotify.com/album/0u6ppFo3gWA3vTiGeDTWXl) | 1:37 |
 | 32 | [Replay](https://open.spotify.com/track/2UOyQB26wSQzM0jiTcUg50) | [Tamta](https://open.spotify.com/artist/0VGybH10ziMPo99SYOwMoQ) | [Replay](https://open.spotify.com/album/4CfWfExyyIuTxTXd7jjmy7) | 2:53 |
 | 33 | [Trenulețul \(cu Frații Advahov\)](https://open.spotify.com/track/63idiVcxkGB3hgH6n3qKqM) | [Zdob si Zdub](https://open.spotify.com/artist/21fmCv0mg9Xwnv3WE4mFKu), [Fratii Advahov](https://open.spotify.com/artist/6oOzBkBGHImHS8cdjO8AqC) | [Trenulețul](https://open.spotify.com/album/7fM5IQBccLOksJ96AMl0xv) | 3:00 |
-| 34 | [La La Love](https://open.spotify.com/track/3rhnT5RoN7bvPUpMHt1aM9) | [Ivi Adamou](https://open.spotify.com/artist/2arQ0lfcNGLrJOHoJksWOw) | [La La Love](https://open.spotify.com/album/6xJymtqqQWpwKmJzIies07) | 3:02 |
-| 35 | [If Love Was a Crime \- Eurovision 2016 \- Bulgaria](https://open.spotify.com/track/1G5qDCiqei7ozj5ku43TuR) | [Poli Genova](https://open.spotify.com/artist/0KTsEyWGtkglulYb0INR5g) | [If Love Was a Crime \(Eurovision 2016 \- Bulgaria\)](https://open.spotify.com/album/1CeeOXzTsGhGGvjIaDiocW) | 2:59 |
+| 34 | [If Love Was a Crime \- Eurovision 2016 \- Bulgaria](https://open.spotify.com/track/1G5qDCiqei7ozj5ku43TuR) | [Poli Genova](https://open.spotify.com/artist/0KTsEyWGtkglulYb0INR5g) | [If Love Was a Crime \(Eurovision 2016 \- Bulgaria\)](https://open.spotify.com/album/1CeeOXzTsGhGGvjIaDiocW) | 2:59 |
+| 35 | [La La Love](https://open.spotify.com/track/3rhnT5RoN7bvPUpMHt1aM9) | [Ivi Adamou](https://open.spotify.com/artist/2arQ0lfcNGLrJOHoJksWOw) | [La La Love](https://open.spotify.com/album/6xJymtqqQWpwKmJzIies07) | 3:02 |
 | 36 | [Hold Me Closer \- Eurovision Version](https://open.spotify.com/track/6cTWJgNkmhATsI6RJgTPH4) | [Cornelia Jakobs](https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4) | [Hold Me Closer \(Eurovision Version\)](https://open.spotify.com/album/1DUJ7u6fKeEkfVeTvE3FAq) | 3:00 |
 | 37 | [Adrenalina](https://open.spotify.com/track/5sckZhskSmeF8TFJ05oSCB) | [Senhit](https://open.spotify.com/artist/0kgOnYSaZeTf3ZnErgwkGT), [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY) | [Adrenalina](https://open.spotify.com/album/7aEMUNrcbMQtaVsBvJUGlO) | 2:59 |
 | 38 | [Främling](https://open.spotify.com/track/17zFOtbuquEAAxSttpfWWl) | [Carola](https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt) | [Främling 25 år](https://open.spotify.com/album/4cotyYQgYleaHbqQEgU9Hv) | 2:57 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BCd5Q12fpZ.md) - [plain]
 | 64 | [My Heart Goes Boom](https://open.spotify.com/track/6GViWczPtH2ky3RBYycDhI) | [Charmed](https://open.spotify.com/artist/438uz6Ss2rTiWYPw0dDwF8) | [Charmed](https://open.spotify.com/album/1dl3hAtvGLmsuDJVzJcY9D) | 3:03 |
 | 65 | [Where Are You](https://open.spotify.com/track/1GrTNrHkL2WlK1rNp7OBs8) | [Imaani](https://open.spotify.com/artist/0dQzwkQ8ESNa3Uz9NIWEEi) | [Classic Dance Essentials](https://open.spotify.com/album/0Accg6wst7dQsa1nT4fxvf) | 3:14 |
 | 66 | [Is It True?](https://open.spotify.com/track/4uaMcAjtOhaYYpd36DmxbI) | [Yohanna](https://open.spotify.com/artist/1aGU3AHmLXWR7JcAXiG3t3) | [Is It True?](https://open.spotify.com/album/04BCoECaXxVHpWxJRb3qqt) | 3:00 |
-| 67 | [Take Me to Your Heaven](https://open.spotify.com/track/6Phb8GhIzQKi6O7VOGj0QU) | [Charlotte Perrelli](https://open.spotify.com/artist/39Waq6UmqYCBEuyv8M8kjl) | [Take Me To Your Heaven](https://open.spotify.com/album/1oV6KRIP47RM7SdIcDBYm6) | 3:03 |
-| 68 | [Verona \- Eurovision 2017 \- Estonia](https://open.spotify.com/track/6xGmMh9K4Z3oeLCwzIuCaD) | [Laura](https://open.spotify.com/artist/4PIW6aNu2AfeKQqkMGWVmS), [KOIT TOOME](https://open.spotify.com/artist/5eRi1IKofAOO9rEGHCgOGc) | [Verona](https://open.spotify.com/album/4ctbznUsA8d2ZEqXzuy7iY) | 3:02 |
+| 67 | [Verona \- Eurovision 2017 \- Estonia](https://open.spotify.com/track/6xGmMh9K4Z3oeLCwzIuCaD) | [Laura](https://open.spotify.com/artist/4PIW6aNu2AfeKQqkMGWVmS), [KOIT TOOME](https://open.spotify.com/artist/5eRi1IKofAOO9rEGHCgOGc) | [Verona](https://open.spotify.com/album/4ctbznUsA8d2ZEqXzuy7iY) | 3:02 |
+| 68 | [Take Me to Your Heaven](https://open.spotify.com/track/6Phb8GhIzQKi6O7VOGj0QU) | [Charlotte Perrelli](https://open.spotify.com/artist/39Waq6UmqYCBEuyv8M8kjl) | [Take Me To Your Heaven](https://open.spotify.com/album/1oV6KRIP47RM7SdIcDBYm6) | 3:03 |
 | 69 | [What about my dreams? \- Main](https://open.spotify.com/track/4coje85K8iSAup8z4G9y64) | [Kati Wolf](https://open.spotify.com/artist/0XjBRZN6v699jxgtiEBuHM) | [What About My Dreams?](https://open.spotify.com/album/70sLEEOucejT9jhRDmPNAW) | 4:09 |
 | 70 | [Takes 2 To Tango](https://open.spotify.com/track/5zxDXyjuvm6EHOvypeZFEP) | [Jari Sillanpää](https://open.spotify.com/artist/6pNVccgyfPKwhKeyPlCPmv) | [Albumi](https://open.spotify.com/album/6zu7ipmaYCsYjzFwwli2zL) | 3:01 |
 | 71 | [Beg, Steal or Borrow \(Rerecorded\)](https://open.spotify.com/track/5Tz3t51jlmiXT8vLudREpx) | [The New Seekers](https://open.spotify.com/artist/4jrTNltJtTMUfXybDdsHDn) | [Their Very Best \(Rerecorded Version\)](https://open.spotify.com/album/5CmrPJKCdMBVigrFkhUMYd) | 2:43 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0kIwz3r2VE9uNuYqS5uGRW.md) - [plain]
 
 > 
 
-[CerVon Campbell](https://open.spotify.com/user/1275620579) - 524 likes - 214 songs - 11 hr 10 min
+[CerVon Campbell](https://open.spotify.com/user/1275620579) - 524 likes - 216 songs - 11 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -222,5 +222,7 @@ pretty - [cumulative](/playlists/cumulative/0kIwz3r2VE9uNuYqS5uGRW.md) - [plain]
 | 212 | [keep your head up, bitch](https://open.spotify.com/track/14P02Pz06wm2Mnov97XFyg) | [NikhiL Keolan Gounden](https://open.spotify.com/artist/1ZcgW5GN8CCg2vANZwMgG1) | [BROKEN SIGNALS](https://open.spotify.com/album/7o3fL9GzxzP2RwnPwALHUB) | 3:06 |
 | 213 | [NOW THAT I’M UP](https://open.spotify.com/track/4fMExohtJgou8vc2nV9QSI) | [Swízzy](https://open.spotify.com/artist/0UECTvB4F2xASEH91yftgO) | [NOW THAT I’M UP](https://open.spotify.com/album/5E3haJjBqElPzW9nR5Q0i2) | 2:25 |
 | 214 | [Why did you Leave me?](https://open.spotify.com/track/5uZbQPdLJ7gnhpdecwNSgw) | [Callum Renshaw](https://open.spotify.com/artist/3Ujsrfs3QjtIok8isfMXej) | [Why did you Leave me?](https://open.spotify.com/album/29Ame1VezxvtLjQmbuHZxz) | 3:03 |
+| 215 | [Quién Fue](https://open.spotify.com/track/45bjTeHE9rTMRRK7nOoYmg) | [Morales](https://open.spotify.com/artist/1ZzjFl9TaQcLtzxOhStXg7) | [Quién Fue](https://open.spotify.com/album/4d319p2fIRlckRPAoWVIYV) | 2:30 |
+| 216 | [rush touch](https://open.spotify.com/track/4JXstHX6Tv9ocTYt86oEE3) | [Rafael Dies](https://open.spotify.com/artist/4td046m3qUPVqi53lzbw3N) | [rush touch](https://open.spotify.com/album/7e433qsvsyuanoOFJAgkKZ) | 2:33 |
 
-Snapshot ID: `AAAV3OmBkfML0R929RpWpJeF6FrELOmo`
+Snapshot ID: `AAAV3ucGB1rpwycpWGTvvU1FqVG95bqu`

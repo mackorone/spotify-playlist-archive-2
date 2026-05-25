@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 
 > The new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: Siraheem
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,672 likes - 80 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,680 likes - 80 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,9 +50,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 | 40 | [Don't Go Far](https://open.spotify.com/track/33qLiRPjkus5clxQvBBLgW) | [Falana](https://open.spotify.com/artist/1OzwSkNJ5OCaMAgdnBFguj) | [Don't Go Far](https://open.spotify.com/album/1ujn7USDCKuolHuK5UE8Fn) | 3:18 |
 | 41 | [Follow Follow \(feat\. Deela & Paxslim\)](https://open.spotify.com/track/7mJACMFhTNQHae48V6L6g4) | [Somadina](https://open.spotify.com/artist/4C9EX8d2FnWMV2yQZqeG8U), [Le Mav](https://open.spotify.com/artist/59MU62wyOLf8FlV7l8fewL), [DEELA](https://open.spotify.com/artist/10yLOgKTy2iAtvIqkow5l4), [Paxslim](https://open.spotify.com/artist/4XE6eLUu1pp5rcI1cpDpWy) | [Follow Follow \(feat\. Deela & Paxslim\)](https://open.spotify.com/album/3PjgNY7sOacUiwYQhEabxB) | 2:54 |
 | 42 | [Whine Am](https://open.spotify.com/track/7GvlEVyj6lqf4FPLeomoHx) | [SuperJazzClub](https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp) | [Whine Am](https://open.spotify.com/album/2I2BeesRbfvWYzqxbrw4ky) | 2:56 |
-| 43 | [Popstar Party](https://open.spotify.com/track/6ijobO5xJ1NgPGiC7evca8) | [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA) | [Popstar Party](https://open.spotify.com/album/5qbv9ptUdlcivvSSOXc7UG) | 3:08 |
+| 43 | [Yapa Yapa](https://open.spotify.com/track/7ksVRiH1HIMc9HbUO6qNH0) | [Jiire Smith](https://open.spotify.com/artist/0VX3LwYsAeOKY4sKXLp9Nc) | [Diamond in a Process](https://open.spotify.com/album/5DJMJRwCb46P2lo5Nf2O1n) | 2:25 |
 | 44 | [Nasty](https://open.spotify.com/track/1xAKbuqVAmKTH7beQe7VRJ) | [Fimi](https://open.spotify.com/artist/4ZnAdq8niwc3MnthK4ujdr) | [Nasty](https://open.spotify.com/album/2yzE0FVIVvSPPtJEWaFd7Z) | 2:41 |
-| 45 | [Yapa Yapa](https://open.spotify.com/track/7ksVRiH1HIMc9HbUO6qNH0) | [Jiire Smith](https://open.spotify.com/artist/0VX3LwYsAeOKY4sKXLp9Nc) | [Diamond in a Process](https://open.spotify.com/album/5DJMJRwCb46P2lo5Nf2O1n) | 2:25 |
+| 45 | [Popstar Party](https://open.spotify.com/track/6ijobO5xJ1NgPGiC7evca8) | [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA) | [Popstar Party](https://open.spotify.com/album/5qbv9ptUdlcivvSSOXc7UG) | 3:08 |
 | 46 | [The Midnight Wanderer](https://open.spotify.com/track/1WiAWAb50cD1eLqstTFer4) | [LUUKHANYO](https://open.spotify.com/artist/7G3XzYYbpwW7C8Ejjf137k) | [LUCKY UU](https://open.spotify.com/album/7jyadlhqz4EylDsyD77vwx) | 3:06 |
 | 47 | [Sex on the Beach](https://open.spotify.com/track/1Sf8Ze5NuNkqbO8QtkpFzd) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Sex on the Beach](https://open.spotify.com/album/3A7E83wdmhD0rW9vHknShB) | 2:51 |
 | 48 | [SHAKE'A](https://open.spotify.com/track/4n59HhKzaFoU3OBfTGyZe9) | [Babble Hume](https://open.spotify.com/artist/0MNTYPj8oFIXGQf7R6d4VP) | [SHAKE'A](https://open.spotify.com/album/36eZ0yL8lksOYqPnJ66fpF) | 2:20 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 | 54 | [Second Thoughts](https://open.spotify.com/track/1LKGPZBZTeFrsSevbGqVz9) | [AYLØ](https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd), [Le Mav](https://open.spotify.com/artist/59MU62wyOLf8FlV7l8fewL), [Naya Akanji](https://open.spotify.com/artist/6m06UHY5Bn1VmA91oCukAm) | [Second Thoughts](https://open.spotify.com/album/7kxDk3xWnJBvecCkH13NVw) | 2:17 |
 | 55 | [Twin Peaks](https://open.spotify.com/track/3ShgDnsDUt3p8gp8eg7K3O) | [Øbed](https://open.spotify.com/artist/401y2oVJbv5VrskZIMGZm9) | [Twin Peaks](https://open.spotify.com/album/7MWF2QqZsOEMuwCcD8Fvvq) | 3:12 |
 | 56 | [Prime](https://open.spotify.com/track/3e9nDsU4bvLBcucvpuwDpB) | [Suté Iwar](https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu), [Raytheboffin](https://open.spotify.com/artist/0Z7d6NoIt6baFGelxJyy1r) | [Prime](https://open.spotify.com/album/3AYdprmzxKsiZZdYpNeJar) | 2:08 |
-| 57 | [Tropicana](https://open.spotify.com/track/1wTupR6XF1y1yduWbrBa1x) | [Sinachi](https://open.spotify.com/artist/3Oo9PudiVUZjuCdJBBn4si), [Oshunda](https://open.spotify.com/artist/3EcVhJ5cGXTuufus6nko8C), [9roovy](https://open.spotify.com/artist/1vcTEePkCTv3XMyuVNSAMy) | [Tropicana](https://open.spotify.com/album/3iESACtNvFj9ow5aQOTicl) | 2:27 |
-| 58 | [General](https://open.spotify.com/track/0aG4heCOR0XzZqU7HmDLjt) | [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD) | [Cavy In The City](https://open.spotify.com/album/1RMuLxHOH6unGqvqGlzvRa) | 2:31 |
+| 57 | [General](https://open.spotify.com/track/0aG4heCOR0XzZqU7HmDLjt) | [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD) | [Cavy In The City](https://open.spotify.com/album/1RMuLxHOH6unGqvqGlzvRa) | 2:31 |
+| 58 | [Tropicana](https://open.spotify.com/track/1wTupR6XF1y1yduWbrBa1x) | [Sinachi](https://open.spotify.com/artist/3Oo9PudiVUZjuCdJBBn4si), [Oshunda](https://open.spotify.com/artist/3EcVhJ5cGXTuufus6nko8C), [9roovy](https://open.spotify.com/artist/1vcTEePkCTv3XMyuVNSAMy) | [Tropicana](https://open.spotify.com/album/3iESACtNvFj9ow5aQOTicl) | 2:27 |
 | 59 | [SAME TIME](https://open.spotify.com/track/4eiXWCDaKqPSatZwFU0HGb) | [Chie](https://open.spotify.com/artist/51aVuIZ1VIS3LTKkxXJzUm) | [SAME TIME](https://open.spotify.com/album/1Cgfvc3oOpSa0UBlYyWqjl) | 1:56 |
 | 60 | [Clear Mind](https://open.spotify.com/track/1LW3d8wiel1KrGM8MgxIXy) | [Bolu Ajibade](https://open.spotify.com/artist/44HFYth2ExH9jiZrlLjxTg) | [Clear Mind](https://open.spotify.com/album/5FacPr0HFLxZwXo49lhK2g) | 2:40 |
 | 61 | [Try Me](https://open.spotify.com/track/4DlM9d78S4HMaWnEHrVmRM) | [DOLV GVNG](https://open.spotify.com/artist/3MCYloql4KzM3HVyE8L39Z), [TILYA](https://open.spotify.com/artist/5kpD7yRaPpg749YCFdN2Dl), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV) | [Try Me](https://open.spotify.com/album/7buvO2dAe29hXmWVd5g2iE) | 1:59 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 | 70 | [STYLO](https://open.spotify.com/track/3IAPorNgZ8uAr7pfmMYfZO) | [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV), [UNiTY Originaal](https://open.spotify.com/artist/485fRmt9X7md56mWTeen5V), [BayO](https://open.spotify.com/artist/2sxBe3sK3BbxcZ9QGDiSCi), [Kavali King](https://open.spotify.com/artist/72NnAw7RD362zfQsBPvoPn) | [STYLO](https://open.spotify.com/album/2ucxizxSDZPeSVCB5Gsjtj) | 3:22 |
 | 71 | [RUSH](https://open.spotify.com/track/1ggt5hR3JoPr8xeggK5z7s) | [Sam Opoku](https://open.spotify.com/artist/5NDzGl3leOCXxfUcyQC0sv), [Hunter Drake](https://open.spotify.com/artist/6CrFflMdudrIwHQIeQnxe8) | [RUSH](https://open.spotify.com/album/2LQyWkXGeGOuLoqtSegnwX) | 4:13 |
 | 72 | [Paris](https://open.spotify.com/track/7dYVHl9iCM6SFaiQ6KpJ8k) | [Øbed](https://open.spotify.com/artist/401y2oVJbv5VrskZIMGZm9) | [Paris](https://open.spotify.com/album/2Og60Asyn30jSOaR7NLwR1) | 3:20 |
-| 73 | [Nana](https://open.spotify.com/track/4jZb5ARAPY47dZOr8nqIJa) | [Thee Diane](https://open.spotify.com/artist/7DcE4JnEVxd3ZHlA5TVBK5), [Sabrina Bellaouel](https://open.spotify.com/artist/1TI3pJmtWgehlVMJzKJaJB) | [Nana](https://open.spotify.com/album/1tFYuZ0v7O2x34L0XlKEMC) | 3:13 |
-| 74 | [Italawa](https://open.spotify.com/track/3P2eWhx3G91lOwuv95NHw9) | [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD) | [Italawa](https://open.spotify.com/album/2TSeiQDOkAsmIrNuk329fn) | 2:52 |
+| 73 | [Italawa](https://open.spotify.com/track/3P2eWhx3G91lOwuv95NHw9) | [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD) | [Italawa](https://open.spotify.com/album/2TSeiQDOkAsmIrNuk329fn) | 2:52 |
+| 74 | [Nana](https://open.spotify.com/track/4jZb5ARAPY47dZOr8nqIJa) | [Thee Diane](https://open.spotify.com/artist/7DcE4JnEVxd3ZHlA5TVBK5), [Sabrina Bellaouel](https://open.spotify.com/artist/1TI3pJmtWgehlVMJzKJaJB) | [Nana](https://open.spotify.com/album/1tFYuZ0v7O2x34L0XlKEMC) | 3:13 |
 | 75 | [DUA PA](https://open.spotify.com/track/7o3tTomsCsKOf7B0LUsCpM) | [Bapi Joss](https://open.spotify.com/artist/650EjRE3msuYaSw2hWLVPH) | [DUA PA](https://open.spotify.com/album/1kNArpDMACRIn6AcsfE4Or) | 2:06 |
 | 76 | [Soho](https://open.spotify.com/track/5MAWpKLbJn5XOOm3AIUCW5) | [AYLØ](https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd) | [Cold](https://open.spotify.com/album/3YhdPIPXx8bjOTwONdViH4) | 2:28 |
 | 77 | [If You Try](https://open.spotify.com/track/5vDaZI2RvpevJq7xUWkKSI) | [Ogeezy](https://open.spotify.com/artist/0SatsvdVxN5iPo2VTGPuVY), [Soundlykbb](https://open.spotify.com/artist/2izHnGuv9KzbPbfX6KsoTG), [Joka](https://open.spotify.com/artist/7umpHJB8guUwgjaP2ZryKw) | [If You Try](https://open.spotify.com/album/0iF3xgiDeR9hqRi3c62NdQ) | 2:56 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 | 79 | [LAGOS](https://open.spotify.com/track/3H5ua10iU8NTD93zawcnVo) | [SuperJazzClub](https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp), [TR1GGA](https://open.spotify.com/artist/4VQFYrDf3IMmLPbQOF7Ve3) | [LAGOS](https://open.spotify.com/album/0kOF0DfPNby1aHYAIi4FXn) | 3:00 |
 | 80 | [Emefa's Revenge](https://open.spotify.com/track/1BixnXufFnYkbhpToboElg) | [M3NSA](https://open.spotify.com/artist/5GQSDYH4c2IB7RBZD5Lb2s) | [Emefa's Revenge](https://open.spotify.com/album/4wEEWn3n3LkmmqamkKpzlR) | 3:31 |
 
-Snapshot ID: `AAAAAM3KX1bbx0uK9zb542FNWQMBxGeK`
+Snapshot ID: `AAAAAC/CNPCXJgOJuk8bYNWvyjc6P3Ih`

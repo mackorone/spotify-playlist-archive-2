@@ -11467,6 +11467,24 @@
     },
     {
       "album": {
+        "name": "Cyber War",
+        "url": "https://open.spotify.com/album/6s0SZMQ3plk02FvwNO5dWF"
+      },
+      "artists": [
+        {
+          "name": "Cyber Gunz",
+          "url": "https://open.spotify.com/artist/3KWdlsF1TJIys0XwnpbiOr"
+        }
+      ],
+      "date_added": "2026-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191609,
+      "name": "Cyber War",
+      "url": "https://open.spotify.com/track/460oWKJs8r3u08ZbwndzbU"
+    },
+    {
+      "album": {
         "name": "Cybernetics DOGMA",
         "url": "https://open.spotify.com/album/2DUEaHo0eY9xHuzRu7OXz1"
       },
@@ -15810,8 +15828,8 @@
       },
       "artists": [
         {
-          "name": "Breeze",
-          "url": "https://open.spotify.com/artist/4NQZbpX2Kc5iQqna5szbEp"
+          "name": "BREEZE",
+          "url": "https://open.spotify.com/artist/0n0jgfh1mfOrSVMBN7Bgp9"
         },
         {
           "name": "KIYOTO",
@@ -57572,6 +57590,32 @@
       "duration_ms": 163500,
       "name": "TURN THE MUSIC UP",
       "url": "https://open.spotify.com/track/18pwSYg3sjPJuZPv2xsr9X"
+    },
+    {
+      "album": {
+        "name": "Cyber War",
+        "url": "https://open.spotify.com/album/6s0SZMQ3plk02FvwNO5dWF"
+      },
+      "artists": [
+        {
+          "name": "Cyber Gunz",
+          "url": "https://open.spotify.com/artist/3KWdlsF1TJIys0XwnpbiOr"
+        },
+        {
+          "name": "RWF",
+          "url": "https://open.spotify.com/artist/5SSccKfaWK4yIu8TsqUtac"
+        },
+        {
+          "name": "KIOR",
+          "url": "https://open.spotify.com/artist/5T4JS1DKk850DNKpQoIbYJ"
+        }
+      ],
+      "date_added": "2026-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178670,
+      "name": "Turn the Tide",
+      "url": "https://open.spotify.com/track/41xptomAuNGKBU6g00EoLv"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The best new independent songs\. New tracks every month.
 
-1,089 songs - 2 day 15 hr 44 min
+1,093 songs - 2 day 15 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,6 +155,7 @@
 | [Centrale nucleare di Hanul](https://open.spotify.com/track/2mGN4pEO1AHFq0zigfuCSM) | [Depa](https://open.spotify.com/artist/4x43pEZCm3mKW7gBBScLs3) | [Centrale nucleare di Hanul](https://open.spotify.com/album/4izN0xiPRgVbjtoetRy1Yu) | 5:52 | 2026-04-27 |  |
 | [Cerimony for "The Chinese"](https://open.spotify.com/track/1k63sjTtq3pkzrd9fUHD9I) | [Bob Salmieri Bastarduna Quintet](https://open.spotify.com/artist/3IdFWdDrVGP4KOF3F6BHc3), [Alfredo Posillipo](https://open.spotify.com/artist/7t7CJWtF302EBxxrIefxC0), [Danilo Gambardella](https://open.spotify.com/artist/79S5c90qxy2Bo0AxYfZMJE) | [Cerimony for "The Chinese"](https://open.spotify.com/album/1RyqSDdWLWG1WWpoj6lDQs) | 6:02 | 2023-04-27 | 2025-11-29 |
 | [Chainsaws And Machetes \- CRISISBEATZZ & PROD\. MYKEY Remix Version](https://open.spotify.com/track/3Nq7RhYY4RtdQ627ijEpg4) | [M\-Cray](https://open.spotify.com/artist/0Pjtw8hYTa1OlObMo8sMcD), [Crisisbeatzz](https://open.spotify.com/artist/4477MF4pLmodsnC5bLBM4x), [Prod\. MyKey](https://open.spotify.com/artist/5EihbHGDf7x0IUptnEGvFm) | [Chainsaws And Machetes \(CRISISBEATZZ & PROD\. MYKEY Remix Version\)](https://open.spotify.com/album/6sCVnNzWzE0Ig3HM4JomcV) | 1:27 | 2025-09-11 | 2025-12-21 |
+| [Chamberlain](https://open.spotify.com/track/6RzVj1GlldWzLeNvmpsaPL) | [Katrina](https://open.spotify.com/artist/2hpCkArHzQ852NRLx6TG2o) | [Chamberlain](https://open.spotify.com/album/5wbDeuswW2DxwN5IL3GTrV) | 3:01 | 2026-05-24 |  |
 | [Chameleon](https://open.spotify.com/track/0854rJz7ZGPmB3MLFjnUix) | [Othy k](https://open.spotify.com/artist/3GeCRJaGrkzdNO0deIDPlv) | [Chameleon](https://open.spotify.com/album/5eh3fy6t871p8EIDxcMf4a) | 3:34 | 2025-12-04 | 2026-01-05 |
 | [Chance It](https://open.spotify.com/track/2Zo3WV1uxQtpecOW90meze) | [David Bluefield](https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0) | [Chance It](https://open.spotify.com/album/4RRJetrxk1v6h5an2w83fH) | 2:56 | 2025-12-10 | 2026-01-05 |
 | [Chasing The Wolf](https://open.spotify.com/track/5JlwkkUdSL94Mo6PQURSU9) | [A.C.C.](https://open.spotify.com/artist/60HIwZ2n7gFMDB77rLfAYH) | [Chasing The Wolf](https://open.spotify.com/album/3WbumANahke2nr9AMJsCzC) | 3:52 | 2025-10-02 | 2025-11-29 |
@@ -693,6 +694,7 @@
 | [Painful Land \(Remix\)](https://open.spotify.com/track/7AWEkXIKu3GhUAGhod0aHB) | [Erodoto Project](https://open.spotify.com/artist/0xRMcCIFa30RXvMGpTaDir), [Bob Salmieri](https://open.spotify.com/artist/13WVJToFNF7CLqefdFdoqa) | [Painful Land \(Remix\)](https://open.spotify.com/album/6eKOaer6ZYqLnkuljSpWCK) | 4:57 | 2023-04-20 | 2025-11-29 |
 | [para la niña que un día fui](https://open.spotify.com/track/02kulGMAiGlCqFvoPq2FqY) | [SISSIE](https://open.spotify.com/artist/1eJKvBgKswZlJd4N0j3Nar) | [para el lugar que me vio crecer](https://open.spotify.com/album/0VSwRX6zQRkhIECkP0huhH) | 2:19 | 2026-01-24 | 2026-02-20 |
 | [Paradise](https://open.spotify.com/track/5MxbHfOqvSdP1c33DBdma6) | [Miss Marielle](https://open.spotify.com/artist/4jDARgo4Odf7OslYnqZVlx) | [Detached](https://open.spotify.com/album/4VpODvxBTAEv2PVNXSTjYC) | 3:10 | 2026-02-12 | 2026-03-15 |
+| [Pardon My French](https://open.spotify.com/track/2DCQbWFEmKvCe4Bt02Bz7o) | [Ndukwe](https://open.spotify.com/artist/5bTGf4KBDXwVohbzdfapB0) | [Pardon My French](https://open.spotify.com/album/3cBPOh4GAVucPEVj30BPcu) | 2:57 | 2026-05-24 |  |
 | [Partido Alto](https://open.spotify.com/track/5GyuwWevZ2KdHF6XBvAnCz) | [Salvatore Nanè](https://open.spotify.com/artist/2OyUGRvXMkmSHMSjacXjNZ), [Andrea Maia](https://open.spotify.com/artist/0GKHbfqyqJ3ViQi45PopsQ) | [Partido Alto](https://open.spotify.com/album/6WUZTgzABSTItMZ4sBXA0X) | 2:57 | 2023-04-20 | 2025-11-29 |
 | [Party girl](https://open.spotify.com/track/2k0hFFHvtXgMhNyEfC75g5) | [Deadarchives](https://open.spotify.com/artist/74kszt2wmigyELkurcdEdi) | [Party girl](https://open.spotify.com/album/51ZqJeqymp7UtdybBk9jxx) | 1:50 | 2025-11-21 | 2026-01-05 |
 | [Party's Over \- Memorial Mix](https://open.spotify.com/track/75bHj8yW2FhPVVxwOQcyqb) | [Worldview](https://open.spotify.com/artist/53AOSoE3dHnIV5IO2F1A0J) | [Alt Worlds 2005 \- 2025](https://open.spotify.com/album/2GJMD8MwCDgquGfUs3EJHo) | 4:15 | 2026-03-16 | 2026-04-12 |
@@ -796,6 +798,7 @@
 | [SET APART](https://open.spotify.com/track/1iFBIwAwVhLlNyWy9wAcrv) | [C\-Zero](https://open.spotify.com/artist/5I8EdBtHPl24xU2dysCj3o) | [SET APART](https://open.spotify.com/album/00n26sNAHM2F0KMenRBrEz) | 2:17 | 2026-03-27 | 2026-05-03 |
 | [Set Me Free](https://open.spotify.com/track/1vMqPyUqPNh3OLIfVncwbq) | [Ann\-Cathrin](https://open.spotify.com/artist/09jiC9LTOdLtVGfEcjMO5t) | [Set Me Free](https://open.spotify.com/album/6kPhXCOUlM3ISPqo031y2W) | 3:13 | 2026-01-06 | 2026-02-03 |
 | [Shadow](https://open.spotify.com/track/3tDLdShqj7TznUapECPj1R) | [Nick McKerl](https://open.spotify.com/artist/0CC7zycAVnJGnQgj3jPIeR) | [Shadow](https://open.spotify.com/album/2zF7oQgZ12NPariEMMRupj) | 3:00 | 2025-11-24 | 2026-01-05 |
+| [Shadows in the Rain](https://open.spotify.com/track/5H1h9lPxcjDFHcF0AcUlQb) | [Nights Like Thieves](https://open.spotify.com/artist/4Cko9sylBuS1mZsqiU9692) | [Shadows in the Rain](https://open.spotify.com/album/5sRVHNjuHYpe18uOAZLBtu) | 3:37 | 2026-05-24 |  |
 | [Shakin'](https://open.spotify.com/track/60YO17Cz85qfjJgkkplEnj) | [W\. Charles Hall](https://open.spotify.com/artist/1YJgR9U2T5deghpvxv7VSj) | [Shakin'](https://open.spotify.com/album/24jIAykL2F0SzJZrRMnjhQ) | 3:05 | 2026-04-21 |  |
 | [Shimmer](https://open.spotify.com/track/1US4crD9pXZuIHEGBTGOmV) | [The Multides](https://open.spotify.com/artist/0EBOhu8N5TYGpwRIWe1oQG) | [Shimmer](https://open.spotify.com/album/03NF1wfBJToukVqmRD1G62) | 4:13 | 2026-05-03 |  |
 | [Should I have said hello](https://open.spotify.com/track/76S02LgBBCBwEiY8lH2AZT) | [NYROS RAY](https://open.spotify.com/artist/04yVrTH59bbO6VJXQvpdZv) | [Should I have said hello](https://open.spotify.com/album/33LXVslfjxyguGWpsuj71f) | 2:48 | 2026-04-27 |  |
@@ -986,6 +989,7 @@
 | [Tut mir leid](https://open.spotify.com/track/6Y8OfVGlXQ0EBgatNnHj1q) | [Echoes](https://open.spotify.com/artist/2GWVNTXG7FrVBtb2mCrnPd) | [Tut mir leid](https://open.spotify.com/album/0n9XCoVEilAtTja23wEBhw) | 5:54 | 2026-02-09 |  |
 | [Twinski](https://open.spotify.com/track/5l03og7WPmgomYbfhkEYLI) | [Kenniigram](https://open.spotify.com/artist/21ZA59JOT9aofUdUj2daa5) | [Swaggernista](https://open.spotify.com/album/4ZSEQM1mr5MRg52c7ay9ID) | 1:49 | 2026-01-14 | 2026-02-20 |
 | [Twisters](https://open.spotify.com/track/5mJejnNmyuVyz4ZPRnOFVi) | [RDC Music Cove](https://open.spotify.com/artist/3Oyfp9uC2fdI4kIY1hvAeo) | [Twisters](https://open.spotify.com/album/40L0Ft7mgPOAG3fmwWQwmL) | 4:35 | 2026-03-09 | 2026-04-12 |
+| [Two natural satellites](https://open.spotify.com/track/41p5ITHv0bIhmevEixtsVO) | [Lucia Longhi](https://open.spotify.com/artist/0NkaQYJrOuGSeE6HFjBiqx) | [Two natural satellites](https://open.spotify.com/album/4YFslr8eZMvkCTb9GWVKRQ) | 3:49 | 2026-05-24 |  |
 | [Tüm Aşklara](https://open.spotify.com/track/6Sn4TSB7bhoCgqv8Y5xIL7) | [Engin Erg](https://open.spotify.com/artist/38iOgsod2sPlSBLdjUYcu5) | [Tüm Aşklara](https://open.spotify.com/album/44g3O3T5pC0ToiqjJVZ41V) | 3:31 | 2026-03-13 | 2026-04-12 |
 | [U Spusaliziu](https://open.spotify.com/track/4g3rqJiWl1IelcneNaEgfx) | [Milagro Acustico](https://open.spotify.com/artist/3DGNC89jMak25ZrNzdfnjs) | [The Golden Age, Vol\. 1](https://open.spotify.com/album/0iMPNCPmESC621cb8jVKfX) | 3:32 | 2023-12-14 | 2025-11-29 |
 | [UH HUH](https://open.spotify.com/track/5wufjtva81eRadg2fEgVzt) | [Michael Paul Binz](https://open.spotify.com/artist/5O2KNKnPVqW5RcOwOvPCRl) | [LET ME BE](https://open.spotify.com/album/580qg1xelP5QfdPFDvJacY) | 4:25 | 2026-02-08 | 2026-03-25 |

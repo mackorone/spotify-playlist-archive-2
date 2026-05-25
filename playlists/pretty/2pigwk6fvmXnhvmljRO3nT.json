@@ -6,7 +6,7 @@
     "name": "deet",
     "url": "https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh"
   },
-  "snapshot_id": "AAAL2CmQrgQnWMvrPB2zUmLh+MBZqgZE",
+  "snapshot_id": "AAAL2sc7YkvTaeXgxua0Qlsp3v/4kRVU",
   "tracks": [
     {
       "added_at": "2024-12-05 07:59:22",
@@ -149979,6 +149979,38 @@
       "duration_ms": 410213,
       "name": "Sparkle - Original Version",
       "url": "https://open.spotify.com/track/1HNvADmPBGAExeyIHkcJtd"
+    },
+    {
+      "added_at": "2026-05-25 00:10:25",
+      "album": {
+        "name": "TRUE the BEST",
+        "url": "https://open.spotify.com/album/6lLjLTD2mRzNzXaiJTHDwW"
+      },
+      "artists": [
+        {
+          "name": "TRUE",
+          "url": "https://open.spotify.com/artist/0UwVT0iMLLAa9SUNENg4te"
+        }
+      ],
+      "duration_ms": 209833,
+      "name": "\u30d5\u30ed\u30fc\u30ba\u30f3",
+      "url": "https://open.spotify.com/track/6t5sxWjiUbIRQQL9QxwbsV"
+    },
+    {
+      "added_at": "2026-05-25 00:18:47",
+      "album": {
+        "name": "Blue Archive 3rd Anniversary (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2IoxB3yDVX8syf1cOHqxcu"
+      },
+      "artists": [
+        {
+          "name": "Mitsukiyo",
+          "url": "https://open.spotify.com/artist/0cdpFI2dZC34peIkjI1rLs"
+        }
+      ],
+      "duration_ms": 120707,
+      "name": "Unwelcome School",
+      "url": "https://open.spotify.com/track/2Qc23ytxTlv8Db3mAP8SSw"
     }
   ],
   "unique_name": "Purge",

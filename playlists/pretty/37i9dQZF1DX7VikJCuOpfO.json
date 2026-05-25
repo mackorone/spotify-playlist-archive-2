@@ -1,6 +1,6 @@
 {
   "description": "Lo nuevo y lo mejor en el estilo mariachi. Cover: Christian Nodal\ud83d\udcf8",
-  "num_followers": 367640,
+  "num_followers": 367655,
   "original_name": "Mariachi 2026",
   "owner": {
     "name": "Spotify",
@@ -383,22 +383,6 @@
     {
       "added_at": "2026-05-22 06:00:32",
       "album": {
-        "name": "Si Nos Dejan",
-        "url": "https://open.spotify.com/album/5j9hSlNRtpGy9I3g3Yl9wN"
-      },
-      "artists": [
-        {
-          "name": "Michelle Maciel",
-          "url": "https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6"
-        }
-      ],
-      "duration_ms": 154903,
-      "name": "Si Nos Dejan",
-      "url": "https://open.spotify.com/track/6vjXvBlZCDxWhHinj2UkSl"
-    },
-    {
-      "added_at": "2026-05-22 06:00:32",
-      "album": {
         "name": "Cas\u00ed 16",
         "url": "https://open.spotify.com/album/1RTYkT9Z40oP1lASdKEGhB"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 192928,
       "name": "Cas\u00ed 16",
       "url": "https://open.spotify.com/track/1HnlNGgq9Y0tRJdh1jqz8i"
+    },
+    {
+      "added_at": "2026-05-22 06:00:32",
+      "album": {
+        "name": "Si Nos Dejan",
+        "url": "https://open.spotify.com/album/5j9hSlNRtpGy9I3g3Yl9wN"
+      },
+      "artists": [
+        {
+          "name": "Michelle Maciel",
+          "url": "https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6"
+        }
+      ],
+      "duration_ms": 154903,
+      "name": "Si Nos Dejan",
+      "url": "https://open.spotify.com/track/6vjXvBlZCDxWhHinj2UkSl"
     },
     {
       "added_at": "2026-05-22 06:00:32",
@@ -431,22 +431,6 @@
     {
       "added_at": "2026-05-22 06:00:32",
       "album": {
-        "name": "Bien, \u00bfy t\u00fa?",
-        "url": "https://open.spotify.com/album/6LSXEs2Wn7csYdSpDYOjDg"
-      },
-      "artists": [
-        {
-          "name": "Kakalo",
-          "url": "https://open.spotify.com/artist/4cR0sNwjMo1dqRs0Z5lMHs"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Bien, \u00bfy t\u00fa?",
-      "url": "https://open.spotify.com/track/1OeX0eRRvPohNW6aaYDeZP"
-    },
-    {
-      "added_at": "2026-05-22 06:00:32",
-      "album": {
         "name": "D\u00f3nde y Cu\u00e1ndo",
         "url": "https://open.spotify.com/album/3ZwteVEY5IEjLNwDSKyKzN"
       },
@@ -463,18 +447,18 @@
     {
       "added_at": "2026-05-22 06:00:32",
       "album": {
-        "name": "Ley De La Atracci\u00f3n",
-        "url": "https://open.spotify.com/album/7J4uEvrBfiJWH0R5P4vW7S"
+        "name": "Bien, \u00bfy t\u00fa?",
+        "url": "https://open.spotify.com/album/6LSXEs2Wn7csYdSpDYOjDg"
       },
       "artists": [
         {
-          "name": "Nico Hern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip"
+          "name": "Kakalo",
+          "url": "https://open.spotify.com/artist/4cR0sNwjMo1dqRs0Z5lMHs"
         }
       ],
-      "duration_ms": 163354,
-      "name": "Ley De La Atracci\u00f3n",
-      "url": "https://open.spotify.com/track/7EK5XYbnRtUIytfF8mtRaR"
+      "duration_ms": 180000,
+      "name": "Bien, \u00bfy t\u00fa?",
+      "url": "https://open.spotify.com/track/1OeX0eRRvPohNW6aaYDeZP"
     },
     {
       "added_at": "2026-05-22 06:00:32",
@@ -495,18 +479,18 @@
     {
       "added_at": "2026-05-22 06:00:32",
       "album": {
-        "name": "De Qu\u00e9 Manera Te Olvido",
-        "url": "https://open.spotify.com/album/3ZdsQ9qRiqlzaIeRVdvC65"
+        "name": "Ley De La Atracci\u00f3n",
+        "url": "https://open.spotify.com/album/7J4uEvrBfiJWH0R5P4vW7S"
       },
       "artists": [
         {
-          "name": "Elias Medina",
-          "url": "https://open.spotify.com/artist/7c6AUl38S5Xo8t6fvGKJDJ"
+          "name": "Nico Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip"
         }
       ],
-      "duration_ms": 174250,
-      "name": "De Qu\u00e9 Manera Te Olvido",
-      "url": "https://open.spotify.com/track/7r6np7igPeQkUB2UKYHW1U"
+      "duration_ms": 163354,
+      "name": "Ley De La Atracci\u00f3n",
+      "url": "https://open.spotify.com/track/7EK5XYbnRtUIytfF8mtRaR"
     },
     {
       "added_at": "2026-05-22 06:00:32",
@@ -527,6 +511,22 @@
       "duration_ms": 174133,
       "name": "Malagradecido",
       "url": "https://open.spotify.com/track/09GKeaFkvYFasYLWC0S0Fm"
+    },
+    {
+      "added_at": "2026-05-22 06:00:32",
+      "album": {
+        "name": "De Qu\u00e9 Manera Te Olvido",
+        "url": "https://open.spotify.com/album/3ZdsQ9qRiqlzaIeRVdvC65"
+      },
+      "artists": [
+        {
+          "name": "Elias Medina",
+          "url": "https://open.spotify.com/artist/7c6AUl38S5Xo8t6fvGKJDJ"
+        }
+      ],
+      "duration_ms": 174250,
+      "name": "De Qu\u00e9 Manera Te Olvido",
+      "url": "https://open.spotify.com/track/7r6np7igPeQkUB2UKYHW1U"
     },
     {
       "added_at": "2026-05-22 06:00:32",
@@ -579,22 +579,6 @@
     {
       "added_at": "2026-05-22 06:00:32",
       "album": {
-        "name": "El Hombre Que Yo Amo",
-        "url": "https://open.spotify.com/album/4ArEpA1Bc0YsOi4Z9buUaF"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Contreras",
-          "url": "https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By"
-        }
-      ],
-      "duration_ms": 235338,
-      "name": "El Hombre Que Yo Amo",
-      "url": "https://open.spotify.com/track/1RNvvxEefsU6PmBJDVcT4I"
-    },
-    {
-      "added_at": "2026-05-22 06:00:32",
-      "album": {
         "name": "Coleccionando Corazones",
         "url": "https://open.spotify.com/album/2Lkkjn0SYlRVUksgK3CWhd"
       },
@@ -611,6 +595,22 @@
     {
       "added_at": "2026-05-22 06:00:32",
       "album": {
+        "name": "El Hombre Que Yo Amo",
+        "url": "https://open.spotify.com/album/4ArEpA1Bc0YsOi4Z9buUaF"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Contreras",
+          "url": "https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By"
+        }
+      ],
+      "duration_ms": 235338,
+      "name": "El Hombre Que Yo Amo",
+      "url": "https://open.spotify.com/track/1RNvvxEefsU6PmBJDVcT4I"
+    },
+    {
+      "added_at": "2026-05-22 06:00:32",
+      "album": {
         "name": "Rolitas Para Mis Abuelos",
         "url": "https://open.spotify.com/album/5usns2sPfiQDKJBVWXLZ4U"
       },
@@ -623,6 +623,22 @@
       "duration_ms": 230802,
       "name": "100 Horas",
       "url": "https://open.spotify.com/track/4H6mswx8rA37krmNa0Q6JD"
+    },
+    {
+      "added_at": "2026-05-22 06:00:32",
+      "album": {
+        "name": "No soy para ti",
+        "url": "https://open.spotify.com/album/1IrCd6P6dHbnSJdFa3ndoT"
+      },
+      "artists": [
+        {
+          "name": "Ivanna",
+          "url": "https://open.spotify.com/artist/0KR7rS2uTkP6Ct1a7YCnx4"
+        }
+      ],
+      "duration_ms": 124785,
+      "name": "No soy para ti",
+      "url": "https://open.spotify.com/track/5ZDdNrpUuCZfbSbkHYpmWi"
     },
     {
       "added_at": "2026-05-22 06:00:32",
@@ -647,22 +663,6 @@
     {
       "added_at": "2026-05-22 06:00:32",
       "album": {
-        "name": "No soy para ti",
-        "url": "https://open.spotify.com/album/1IrCd6P6dHbnSJdFa3ndoT"
-      },
-      "artists": [
-        {
-          "name": "Ivanna",
-          "url": "https://open.spotify.com/artist/0KR7rS2uTkP6Ct1a7YCnx4"
-        }
-      ],
-      "duration_ms": 124785,
-      "name": "No soy para ti",
-      "url": "https://open.spotify.com/track/5ZDdNrpUuCZfbSbkHYpmWi"
-    },
-    {
-      "added_at": "2026-05-22 06:00:32",
-      "album": {
         "name": "La Nostalgia",
         "url": "https://open.spotify.com/album/3kX6Sov6xamwye4u7n5aJr"
       },
@@ -675,38 +675,6 @@
       "duration_ms": 149569,
       "name": "\u2060Cuatro Caminos",
       "url": "https://open.spotify.com/track/1yVjUAt8Jn2ZCwXpWJ8Ohp"
-    },
-    {
-      "added_at": "2026-05-22 06:00:32",
-      "album": {
-        "name": "Angelito Sin Alas",
-        "url": "https://open.spotify.com/album/1X1ruDoYErT8r1phWKwTI5"
-      },
-      "artists": [
-        {
-          "name": "Las Posada",
-          "url": "https://open.spotify.com/artist/4A9rAqUsLJOh3tEr5YTyll"
-        }
-      ],
-      "duration_ms": 168238,
-      "name": "Angelito Sin Alas",
-      "url": "https://open.spotify.com/track/3qSXwUNvSMFAfmrs1m4FIp"
-    },
-    {
-      "added_at": "2026-05-22 06:00:32",
-      "album": {
-        "name": "Un Abrazo (Versi\u00f3n Regional)",
-        "url": "https://open.spotify.com/album/5gwNUXcnQpmaik21UHDS5H"
-      },
-      "artists": [
-        {
-          "name": "Gloria Trevi",
-          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
-        }
-      ],
-      "duration_ms": 238500,
-      "name": "Un Abrazo - Versi\u00f3n Regional",
-      "url": "https://open.spotify.com/track/0QO0d6FjUjvcb65xu832YQ"
     },
     {
       "added_at": "2026-05-22 06:00:32",
@@ -727,6 +695,22 @@
     {
       "added_at": "2026-05-22 06:00:32",
       "album": {
+        "name": "Un Abrazo (Versi\u00f3n Regional)",
+        "url": "https://open.spotify.com/album/5gwNUXcnQpmaik21UHDS5H"
+      },
+      "artists": [
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+        }
+      ],
+      "duration_ms": 238500,
+      "name": "Un Abrazo - Versi\u00f3n Regional",
+      "url": "https://open.spotify.com/track/0QO0d6FjUjvcb65xu832YQ"
+    },
+    {
+      "added_at": "2026-05-22 06:00:32",
+      "album": {
         "name": "Emilia",
         "url": "https://open.spotify.com/album/55kC2mytSmuqEkW4YkbhOz"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 221848,
       "name": "Emilia",
       "url": "https://open.spotify.com/track/5AVezBQITmD27pmvzKULgm"
+    },
+    {
+      "added_at": "2026-05-22 06:00:32",
+      "album": {
+        "name": "Angelito Sin Alas",
+        "url": "https://open.spotify.com/album/1X1ruDoYErT8r1phWKwTI5"
+      },
+      "artists": [
+        {
+          "name": "Las Posada",
+          "url": "https://open.spotify.com/artist/4A9rAqUsLJOh3tEr5YTyll"
+        }
+      ],
+      "duration_ms": 168238,
+      "name": "Angelito Sin Alas",
+      "url": "https://open.spotify.com/track/3qSXwUNvSMFAfmrs1m4FIp"
     },
     {
       "added_at": "2026-05-22 06:00:32",
@@ -871,22 +871,6 @@
     {
       "added_at": "2026-05-22 06:00:32",
       "album": {
-        "name": "Caballero",
-        "url": "https://open.spotify.com/album/0uMwiQiHNtJcaofBMEobOj"
-      },
-      "artists": [
-        {
-          "name": "Mariachi Internacional CHG De Gamaliel Contreras Huerta",
-          "url": "https://open.spotify.com/artist/4Z0ZWO0lp2z7HqhAs9kVSw"
-        }
-      ],
-      "duration_ms": 227338,
-      "name": "Caballero",
-      "url": "https://open.spotify.com/track/5Y5ruNeWwtOxIIPN9x2GAt"
-    },
-    {
-      "added_at": "2026-05-22 06:00:32",
-      "album": {
         "name": "Ebrio de Amor",
         "url": "https://open.spotify.com/album/0wceLScJ01XKGDkHFctkuc"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 173291,
       "name": "Le Hace Falta un Beso",
       "url": "https://open.spotify.com/track/28zdZevsnKflm8GL4z1uwB"
+    },
+    {
+      "added_at": "2026-05-22 06:00:32",
+      "album": {
+        "name": "Caballero",
+        "url": "https://open.spotify.com/album/0uMwiQiHNtJcaofBMEobOj"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Internacional CHG De Gamaliel Contreras Huerta",
+          "url": "https://open.spotify.com/artist/4Z0ZWO0lp2z7HqhAs9kVSw"
+        }
+      ],
+      "duration_ms": 227338,
+      "name": "Caballero",
+      "url": "https://open.spotify.com/track/5Y5ruNeWwtOxIIPN9x2GAt"
     },
     {
       "added_at": "2026-05-22 06:00:32",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2026-05-22 06:00:32",
       "album": {
-        "name": "\u00bfQui\u00e9n Es Usted?",
-        "url": "https://open.spotify.com/album/5IcZe5B1FZzVRtKT8sNYgS"
-      },
-      "artists": [
-        {
-          "name": "Ximena Ocampo",
-          "url": "https://open.spotify.com/artist/3NWb6W7xGBAxFUGp2e21ho"
-        }
-      ],
-      "duration_ms": 195245,
-      "name": "\u00bfQui\u00e9n Es Usted?",
-      "url": "https://open.spotify.com/track/5KWvrJF3O2w5niGvaaZt9K"
-    },
-    {
-      "added_at": "2026-05-22 06:00:32",
-      "album": {
         "name": "Cuando Ama Una Mujer",
         "url": "https://open.spotify.com/album/53jbTsa1xsKMIMhCh7HtEp"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 150880,
       "name": "Cuando Ama Una Mujer",
       "url": "https://open.spotify.com/track/28prtlzyG5n8cItBlePn9o"
+    },
+    {
+      "added_at": "2026-05-22 06:00:32",
+      "album": {
+        "name": "\u00bfQui\u00e9n Es Usted?",
+        "url": "https://open.spotify.com/album/5IcZe5B1FZzVRtKT8sNYgS"
+      },
+      "artists": [
+        {
+          "name": "Ximena Ocampo",
+          "url": "https://open.spotify.com/artist/3NWb6W7xGBAxFUGp2e21ho"
+        }
+      ],
+      "duration_ms": 195245,
+      "name": "\u00bfQui\u00e9n Es Usted?",
+      "url": "https://open.spotify.com/track/5KWvrJF3O2w5niGvaaZt9K"
     },
     {
       "added_at": "2026-05-22 06:00:32",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2026-05-22 06:00:32",
       "album": {
-        "name": "Pintando sue\u00f1os",
-        "url": "https://open.spotify.com/album/14V5KPb8H43N7f5ND1JF3x"
-      },
-      "artists": [
-        {
-          "name": "Mariacho Ay Ay Ay",
-          "url": "https://open.spotify.com/artist/4JyndRgkNK1KbUyMEm0Oy2"
-        }
-      ],
-      "duration_ms": 222080,
-      "name": "Pintando sue\u00f1os",
-      "url": "https://open.spotify.com/track/4UKmYn5sjGpalQ30l1ixwG"
-    },
-    {
-      "added_at": "2026-05-22 06:00:32",
-      "album": {
         "name": "All\u00e1 Donde Vayas",
         "url": "https://open.spotify.com/album/6w4pWVHHj7Adwh3Pe8u9fn"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 213316,
       "name": "All\u00e1 Donde Vayas",
       "url": "https://open.spotify.com/track/2ZWIqmP9Y9AChlfMp9G9Jl"
+    },
+    {
+      "added_at": "2026-05-22 06:00:32",
+      "album": {
+        "name": "Pintando sue\u00f1os",
+        "url": "https://open.spotify.com/album/14V5KPb8H43N7f5ND1JF3x"
+      },
+      "artists": [
+        {
+          "name": "Mariacho Ay Ay Ay",
+          "url": "https://open.spotify.com/artist/4JyndRgkNK1KbUyMEm0Oy2"
+        }
+      ],
+      "duration_ms": 222080,
+      "name": "Pintando sue\u00f1os",
+      "url": "https://open.spotify.com/track/4UKmYn5sjGpalQ30l1ixwG"
     },
     {
       "added_at": "2026-05-22 06:00:32",

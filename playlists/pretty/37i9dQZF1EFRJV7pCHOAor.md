@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRJV7pCHOAor.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/79M2N87L8igKvfAOgqndLY">Carter Lang</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 746 likes - 207 songs - 11 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 747 likes - 207 songs - 11 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRJV7pCHOAor.md) - [plain]
 | 63 | [VOID](https://open.spotify.com/track/3e6ebtUCZ0tZL1J7wvM8Xi) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 4:08 |
 | 64 | [Mad](https://open.spotify.com/track/4NONTWamwnOVRi0qk6B8hf) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [BITE ME](https://open.spotify.com/album/6ULnaZahd0zTGVUBVQO6mN) | 2:54 |
 | 65 | [Cinderella Story](https://open.spotify.com/track/18AIesWCXvIbXu8RqQw1E1) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Artist 2.0](https://open.spotify.com/album/0cZAE6guibfcYmTZD7hiae) | 3:05 |
-| 66 | [405](https://open.spotify.com/track/7gCautqfD7CCdrN33GrRd8) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG](https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ) | 3:32 |
-| 67 | [EVERYTHING HALLELUJAH](https://open.spotify.com/track/5AwNJ5mr7mHyIhlKnQICEJ) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG II](https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS) | 4:08 |
+| 66 | [EVERYTHING HALLELUJAH](https://open.spotify.com/track/5AwNJ5mr7mHyIhlKnQICEJ) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG II](https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS) | 4:08 |
+| 67 | [405](https://open.spotify.com/track/7gCautqfD7CCdrN33GrRd8) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG](https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ) | 3:32 |
 | 68 | [I DO](https://open.spotify.com/track/2arETTjDUyUqXR0x5g6E8U) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG II](https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS) | 3:43 |
 | 69 | [LIFE AFTER SALEM](https://open.spotify.com/track/6D3t4w54PgLNGQ48R7th7R) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 3:30 |
 | 70 | [BETTER MAN](https://open.spotify.com/track/26MqDvGIe4A4UZpF5J2Ame) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG II](https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS) | 2:49 |
@@ -92,11 +92,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRJV7pCHOAor.md) - [plain]
 | 82 | [MOTHER IN YOU](https://open.spotify.com/track/2IXltsrRPTEeCjy8mH9UAm) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG II](https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS) | 3:25 |
 | 83 | [Remind Me](https://open.spotify.com/track/1Ky8xo7X6SeebLT1Co4RXX) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Give Or Take](https://open.spotify.com/album/64LkgCfNbLqjclQYCTid8L) | 3:24 |
 | 84 | [ZUMA HOUSE](https://open.spotify.com/track/3xytfOwki3uHqzhvMWI6HN) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG](https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ) | 1:23 |
-| 85 | [Archetype](https://open.spotify.com/track/5Cyy8UMG6ch51oXYenPGzN) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory \(Marfil\)](https://open.spotify.com/album/3ZexesAv5PN4RPMiEkOEXC) | 2:48 |
-| 86 | [BABIECA!](https://open.spotify.com/track/45VlOHY7pEd6IC3plYeKZ3) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Spanish Leather](https://open.spotify.com/album/1inJBfnZWe33KcXl6TNaXV) | 2:46 |
+| 85 | [BABIECA!](https://open.spotify.com/track/45VlOHY7pEd6IC3plYeKZ3) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Spanish Leather](https://open.spotify.com/album/1inJBfnZWe33KcXl6TNaXV) | 2:46 |
+| 86 | [Archetype](https://open.spotify.com/track/5Cyy8UMG6ch51oXYenPGzN) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory \(Marfil\)](https://open.spotify.com/album/3ZexesAv5PN4RPMiEkOEXC) | 2:48 |
 | 87 | [Good Books](https://open.spotify.com/track/7qqDAVEq3y8yKmEMVMJ6Wf) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [This Wasn't Meant For You Anyway](https://open.spotify.com/album/3uTpTaMOynCYKV5AtgeO2U) | 4:14 |
-| 88 | [Come For Me \(Unlocked\) \(feat\. Khalid & Lucky Daye\)](https://open.spotify.com/track/0GDTDoQIJPk8zKBK4r1pzK) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [KEYS](https://open.spotify.com/album/76vpmS3ZCGm4hN8QtbnedX) | 3:29 |
-| 89 | [BAD HONEY](https://open.spotify.com/track/2Rv2EIpEmEi5fGVtr5KVgI) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG II](https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS) | 2:36 |
+| 88 | [BAD HONEY](https://open.spotify.com/track/2Rv2EIpEmEi5fGVtr5KVgI) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG II](https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS) | 2:36 |
+| 89 | [Come For Me \(Unlocked\) \(feat\. Khalid & Lucky Daye\)](https://open.spotify.com/track/0GDTDoQIJPk8zKBK4r1pzK) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [KEYS](https://open.spotify.com/album/76vpmS3ZCGm4hN8QtbnedX) | 3:29 |
 | 90 | [Petrified](https://open.spotify.com/track/0G41EUi3xiwUR6iOtXAQCz) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:17 |
 | 91 | [Full time papi](https://open.spotify.com/track/5tXoi9LUv2Eniq6h0OHoVN) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Spanish Leather](https://open.spotify.com/album/1inJBfnZWe33KcXl6TNaXV) | 2:47 |
 | 92 | [NEED IT](https://open.spotify.com/track/5NZWHlQy5PKxQ1DcQ9EFbL) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG II](https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS) | 3:39 |
@@ -121,8 +121,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRJV7pCHOAor.md) - [plain]
 | 111 | [Zanies and Fools](https://open.spotify.com/track/5G3KW2F4wG36rSD92z8lNf) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [DIXSON](https://open.spotify.com/artist/61677A13kBwbTfqECI65p8), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [The Big Day](https://open.spotify.com/album/27Z9dFpWc5c1cW7axN9Dy6) | 5:23 |
 | 112 | [LYIN'](https://open.spotify.com/track/61xjj1xvLBn43Jn2E3RzbB) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG II](https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS) | 3:06 |
 | 113 | [Crush](https://open.spotify.com/track/19ddrF8BsiVVYszpeWjb6y) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [This Wasn't Meant For You Anyway](https://open.spotify.com/album/3uTpTaMOynCYKV5AtgeO2U) | 3:46 |
-| 114 | [No Good Reason](https://open.spotify.com/track/4RLl6YFuMKbHOhg9twznvJ) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 1:48 |
-| 115 | [MOVING FAST](https://open.spotify.com/track/49la9sBOr2hm9T3CZibj22) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG II](https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS) | 3:21 |
+| 114 | [MOVING FAST](https://open.spotify.com/track/49la9sBOr2hm9T3CZibj22) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG II](https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS) | 3:21 |
+| 115 | [No Good Reason](https://open.spotify.com/track/4RLl6YFuMKbHOhg9twznvJ) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 1:48 |
 | 116 | [Morning Sex](https://open.spotify.com/track/4Vfs046cJ4foUV2mqB6vHU) | [Joey Purp](https://open.spotify.com/artist/1ewyVtTZBqFYWIcepopRhp) | [iiiDrops](https://open.spotify.com/album/6McWou8VeXcVNGQVOiqhZd) | 3:31 |
 | 117 | [Talk](https://open.spotify.com/track/3wXft3pfqMptVjxzEDi8be) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 2:37 |
 | 118 | [Pipe dream](https://open.spotify.com/track/0lC8GvPMAQUEFJB9eZC8VS) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Spanish Leather](https://open.spotify.com/album/1inJBfnZWe33KcXl6TNaXV) | 2:37 |
@@ -167,8 +167,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRJV7pCHOAor.md) - [plain]
 | 157 | [Thirst \- EP Version](https://open.spotify.com/track/66YWmARKaVgVYW7ZVPCQUM) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Midnight Moonlight EP](https://open.spotify.com/album/5NylLkiLTn2sF3U8mZ9bd7) | 2:56 |
 | 158 | [Helium \(feat\. X Ambassadors\)](https://open.spotify.com/track/2ej8Av0xMTBQwNIt0QeLbS) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Helium](https://open.spotify.com/album/22N0FVAflIZLGdkCm7Np2U) | 2:48 |
 | 159 | [Ain't No Doubts](https://open.spotify.com/track/7l1zrOWUZSCW49QlvrfP2D) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [BOSS MAN](https://open.spotify.com/album/3jPpeRUHcgC8ZkDT7MgUg3) | 2:23 |
-| 160 | [Conversation](https://open.spotify.com/track/5LmRRJ2MfXxhmZfwcsvLad) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection: The Album](https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9) | 3:08 |
-| 161 | [Calypso](https://open.spotify.com/track/0xDX2eQsx9F4xHVMNPvVge) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Calypso](https://open.spotify.com/album/7rfrQpTh58BeQfjmA4n2Yi) | 2:31 |
+| 160 | [Calypso](https://open.spotify.com/track/0xDX2eQsx9F4xHVMNPvVge) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Calypso](https://open.spotify.com/album/7rfrQpTh58BeQfjmA4n2Yi) | 2:31 |
+| 161 | [Conversation](https://open.spotify.com/track/5LmRRJ2MfXxhmZfwcsvLad) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection: The Album](https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9) | 3:08 |
 | 162 | [Pilot](https://open.spotify.com/track/6RDQ9fbqfotomSGBL6UX7E) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Live For Me](https://open.spotify.com/album/4CBFkLLUglKClajY5weXhY) | 4:06 |
 | 163 | [Girl With the Gold Wrist](https://open.spotify.com/track/0WmQv2LUlJTBTjkOCoETaf) | [Injury Reserve](https://open.spotify.com/artist/3nf2EaHj8HikLNdaiW3v73) | [Floss](https://open.spotify.com/album/67sUOjUevVJGgfCj1N2e4N) | 3:19 |
 | 164 | [While U Can](https://open.spotify.com/track/4xRHL8plvkNMq36UMO47bp) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [God Said No](https://open.spotify.com/album/0bIXnppwOEeFqEUV0vqJJn) | 3:06 |
@@ -216,4 +216,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRJV7pCHOAor.md) - [plain]
 | 206 | [In the Dark \(Originally Performed by Swae Lee & Jhené Aiko\) \[Instrumental Version\]](https://open.spotify.com/track/3mBIGDPh57hQiy0tkFPe6G) | [Backing Business](https://open.spotify.com/artist/2X7pI6n8xuBbsdry2JHoju) | [Pristine Karaoke, Vol\. 46](https://open.spotify.com/album/7gSaZP3yShQTGSN8vXXZNv) | 3:05 |
 | 207 | [Without You \- Downtempo Workout Mix](https://open.spotify.com/track/09dEqoOt2ERaafwHplzjAf) | [Workout Music](https://open.spotify.com/artist/5njMahLKD1tLJ5bejvqseV) | [50 Pop Workout Downtempo](https://open.spotify.com/album/6kuOWQcfva1CAmyJ3IifMN) | 4:36 |
 
-Snapshot ID: `AcSS8gAAAABdtk950N0LaT0j1id2gnCo`
+Snapshot ID: `AcSYzgAAAAAsjqFa6XZYonLcIiuUmPU6`

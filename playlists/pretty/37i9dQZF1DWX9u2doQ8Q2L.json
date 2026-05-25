@@ -1,6 +1,6 @@
 {
   "description": "Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.",
-  "num_followers": 394749,
+  "num_followers": 394754,
   "original_name": "Tokyo Rising",
   "owner": {
     "name": "Spotify",
@@ -907,22 +907,6 @@
     {
       "added_at": "2026-05-09 03:57:50",
       "album": {
-        "name": "Burning",
-        "url": "https://open.spotify.com/album/5ASAZ96MqDUBXSpa5pwCyc"
-      },
-      "artists": [
-        {
-          "name": "Hitsujibungaku",
-          "url": "https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n"
-        }
-      ],
-      "duration_ms": 231250,
-      "name": "Burning",
-      "url": "https://open.spotify.com/track/0DCUrM5omLum9e4UXCKhEM"
-    },
-    {
-      "added_at": "2026-05-09 03:57:50",
-      "album": {
         "name": "\u30e1\u30ed\u30c9\u30e9\u30de",
         "url": "https://open.spotify.com/album/7qsBdy6BHYRsXg9gaHiLY3"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 227575,
       "name": "\u30e1\u30ed\u30c9\u30e9\u30de",
       "url": "https://open.spotify.com/track/5tbjzfU2ATpTT16qR30bKa"
+    },
+    {
+      "added_at": "2026-05-09 03:57:50",
+      "album": {
+        "name": "Burning",
+        "url": "https://open.spotify.com/album/5ASAZ96MqDUBXSpa5pwCyc"
+      },
+      "artists": [
+        {
+          "name": "Hitsujibungaku",
+          "url": "https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n"
+        }
+      ],
+      "duration_ms": 231250,
+      "name": "Burning",
+      "url": "https://open.spotify.com/track/0DCUrM5omLum9e4UXCKhEM"
     },
     {
       "added_at": "2026-05-09 03:57:50",
@@ -991,22 +991,6 @@
     {
       "added_at": "2026-05-09 03:57:50",
       "album": {
-        "name": "\u4fee\u7f85",
-        "url": "https://open.spotify.com/album/19ZpB6am7neMPrehzujnrU"
-      },
-      "artists": [
-        {
-          "name": "\u30e8\u30eb\u30b7\u30ab",
-          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
-        }
-      ],
-      "duration_ms": 236083,
-      "name": "\u4fee\u7f85",
-      "url": "https://open.spotify.com/track/3ZDeWNiSmXUFr98iTQKf0p"
-    },
-    {
-      "added_at": "2026-05-09 03:57:50",
-      "album": {
         "name": "Speed Tape",
         "url": "https://open.spotify.com/album/0pYpedPWmSW8BABYhG4QDD"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 185034,
       "name": "Wind Rise",
       "url": "https://open.spotify.com/track/7ft8cpFbv0E9SOUiUMcPuW"
+    },
+    {
+      "added_at": "2026-05-09 03:57:50",
+      "album": {
+        "name": "\u4fee\u7f85",
+        "url": "https://open.spotify.com/album/19ZpB6am7neMPrehzujnrU"
+      },
+      "artists": [
+        {
+          "name": "\u30e8\u30eb\u30b7\u30ab",
+          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
+        }
+      ],
+      "duration_ms": 236083,
+      "name": "\u4fee\u7f85",
+      "url": "https://open.spotify.com/track/3ZDeWNiSmXUFr98iTQKf0p"
     },
     {
       "added_at": "2026-05-09 03:57:50",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2026-05-09 03:57:50",
       "album": {
-        "name": "THRIFTED",
-        "url": "https://open.spotify.com/album/5OM7oXECyQH2QM6YQcnpMq"
-      },
-      "artists": [
-        {
-          "name": "Ayumu Imazu",
-          "url": "https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM"
-        }
-      ],
-      "duration_ms": 161066,
-      "name": "THRIFTED",
-      "url": "https://open.spotify.com/track/3c2cj9EqxPVMNEKdEexCX0"
-    },
-    {
-      "added_at": "2026-05-09 03:57:50",
-      "album": {
         "name": "99.9 Psychic Radio",
         "url": "https://open.spotify.com/album/0am7ZAy4aq4sAS4ThW4ZhB"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 191132,
       "name": "Just Like Dat feat. JP THE WAVY",
       "url": "https://open.spotify.com/track/44jt5m1pRE0rI4VixZbWF6"
+    },
+    {
+      "added_at": "2026-05-09 03:57:50",
+      "album": {
+        "name": "THRIFTED",
+        "url": "https://open.spotify.com/album/5OM7oXECyQH2QM6YQcnpMq"
+      },
+      "artists": [
+        {
+          "name": "Ayumu Imazu",
+          "url": "https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM"
+        }
+      ],
+      "duration_ms": 161066,
+      "name": "THRIFTED",
+      "url": "https://open.spotify.com/track/3c2cj9EqxPVMNEKdEexCX0"
     },
     {
       "added_at": "2026-05-09 03:57:50",
@@ -1363,18 +1363,18 @@
     {
       "added_at": "2026-05-09 03:57:50",
       "album": {
-        "name": "\u6d77\u99ac\u6210\u9577\u75db",
-        "url": "https://open.spotify.com/album/7dadhbl044I5VImuYGBzuv"
+        "name": "by my side",
+        "url": "https://open.spotify.com/album/5awZWNPfit7cn7YQQwEfi6"
       },
       "artists": [
         {
-          "name": "ZUTOMAYO",
-          "url": "https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj"
+          "name": "SUTEZENI",
+          "url": "https://open.spotify.com/artist/5M4LfrkfAT02o9M5HCI3Mt"
         }
       ],
-      "duration_ms": 189533,
-      "name": "\u6d77\u99ac\u6210\u9577\u75db",
-      "url": "https://open.spotify.com/track/1YfXeoQ39zL9IWHOTrL8bg"
+      "duration_ms": 289713,
+      "name": "by my side",
+      "url": "https://open.spotify.com/track/47FdTZdjdRJikiBNA8LXdu"
     },
     {
       "added_at": "2026-05-09 03:57:50",
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2026-05-09 03:57:50",
       "album": {
+        "name": "\u6d77\u99ac\u6210\u9577\u75db",
+        "url": "https://open.spotify.com/album/7dadhbl044I5VImuYGBzuv"
+      },
+      "artists": [
+        {
+          "name": "ZUTOMAYO",
+          "url": "https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj"
+        }
+      ],
+      "duration_ms": 189533,
+      "name": "\u6d77\u99ac\u6210\u9577\u75db",
+      "url": "https://open.spotify.com/track/1YfXeoQ39zL9IWHOTrL8bg"
+    },
+    {
+      "added_at": "2026-05-09 03:57:50",
+      "album": {
         "name": "\u30a2\u30ca\u30b6\u30fc\u30c0\u30a4\u30d0\u30fc\u30b7\u30c6\u30a3",
         "url": "https://open.spotify.com/album/7DsLGDK8qjjgQTMO8iLHkz"
       },
@@ -1407,22 +1423,6 @@
       "duration_ms": 227360,
       "name": "\u30ab\u30c6\u30b4\u30e9\u30a4\u30ba",
       "url": "https://open.spotify.com/track/2XNMG5FlJvFSnn6PiHnvjk"
-    },
-    {
-      "added_at": "2026-05-09 03:57:50",
-      "album": {
-        "name": "by my side",
-        "url": "https://open.spotify.com/album/5awZWNPfit7cn7YQQwEfi6"
-      },
-      "artists": [
-        {
-          "name": "SUTEZENI",
-          "url": "https://open.spotify.com/artist/5M4LfrkfAT02o9M5HCI3Mt"
-        }
-      ],
-      "duration_ms": 289713,
-      "name": "by my side",
-      "url": "https://open.spotify.com/track/47FdTZdjdRJikiBNA8LXdu"
     },
     {
       "added_at": "2026-05-09 03:57:50",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2026-05-09 03:57:50",
       "album": {
-        "name": "D o n\u2019 t \u200c \u200c \u200cL a u g h \u200c \u200c \u200cI t \u200c \u200c \u200cO f f",
-        "url": "https://open.spotify.com/album/1CxJmFEE2xsYSTxpJaOG6P"
-      },
-      "artists": [
-        {
-          "name": "Hitsujibungaku",
-          "url": "https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n"
-        }
-      ],
-      "duration_ms": 152546,
-      "name": "\u3044\u3068\u304a\u3057\u3044\u65e5\u3005",
-      "url": "https://open.spotify.com/track/0QeD68D7Up78qybkCsGFBI"
-    },
-    {
-      "added_at": "2026-05-09 03:57:50",
-      "album": {
         "name": "Love seeker",
         "url": "https://open.spotify.com/album/0fcbyNShvGubuLdQqpMSbF"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 174226,
       "name": "Love seeker",
       "url": "https://open.spotify.com/track/3tmFGmmYcYdI8tZRSLlc0G"
+    },
+    {
+      "added_at": "2026-05-09 03:57:50",
+      "album": {
+        "name": "D o n\u2019 t \u200c \u200c \u200cL a u g h \u200c \u200c \u200cI t \u200c \u200c \u200cO f f",
+        "url": "https://open.spotify.com/album/1CxJmFEE2xsYSTxpJaOG6P"
+      },
+      "artists": [
+        {
+          "name": "Hitsujibungaku",
+          "url": "https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n"
+        }
+      ],
+      "duration_ms": 152546,
+      "name": "\u3044\u3068\u304a\u3057\u3044\u65e5\u3005",
+      "url": "https://open.spotify.com/track/0QeD68D7Up78qybkCsGFBI"
     },
     {
       "added_at": "2026-05-09 03:57:50",

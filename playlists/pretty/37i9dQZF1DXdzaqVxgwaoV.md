@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzaqVxgwaoV.md) - [plain]
 
 > ¡Música tropical, cumbia, guasca y de carrilera para recordar y disfrutar!
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,102 likes - 80 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,093 likes - 80 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,13 +45,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzaqVxgwaoV.md) - [plain]
 | 35 | [Tu Hora Pasó](https://open.spotify.com/track/0CVLRvqGHaG38Mw86QVhuo) | [Fernando Burbano](https://open.spotify.com/artist/23nWkdjjAlopi1pF5KwrD6) | [Grandes Exitos](https://open.spotify.com/album/0QPKuA73byh081OeZVmHxI) | 3:04 |
 | 36 | [El Mujeriego](https://open.spotify.com/track/66hMCXEj9s7yMfMUa0HCEY) | [Jhonny Rivera](https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx) | [El Mujeriego](https://open.spotify.com/album/2txJvfyWUlQSjWV6RNtHiv) | 3:01 |
 | 37 | [Viejo Juguete](https://open.spotify.com/track/3T5b76vKa8URdXJ0PF5oPG) | [El Caballero Gaucho](https://open.spotify.com/artist/1Y8tkL7bBifF9JiCcEzo70) | [Coleccion Grandes Figuras](https://open.spotify.com/album/4nSqh2gtrHCfGsxisJXsUe) | 1:53 |
-| 38 | [Quiero Que Sepas](https://open.spotify.com/track/3rKAnW24I1KT8uoKllBB8B) | [Lupe Y Polo](https://open.spotify.com/artist/7B3FM4BQ27FOhvWDZSslsS) | [Los Exitazos De Lupe Y Polo](https://open.spotify.com/album/4L3qgi5ztCfcWmT1aN3znS) | 2:30 |
-| 39 | [Veinte Años](https://open.spotify.com/track/5bkfp7VLBka3b2tqLjC0Au) | [Romulo Caicedo](https://open.spotify.com/artist/7gr3mvchhyMrwNRvNUT2YF) | [Grandes Éxitos](https://open.spotify.com/album/2PfUQSQlXgkhCkEdCfBNmL) | 3:01 |
+| 38 | [Veinte Años](https://open.spotify.com/track/5bkfp7VLBka3b2tqLjC0Au) | [Romulo Caicedo](https://open.spotify.com/artist/7gr3mvchhyMrwNRvNUT2YF) | [Grandes Éxitos](https://open.spotify.com/album/2PfUQSQlXgkhCkEdCfBNmL) | 3:01 |
+| 39 | [Quiero Que Sepas](https://open.spotify.com/track/3rKAnW24I1KT8uoKllBB8B) | [Lupe Y Polo](https://open.spotify.com/artist/7B3FM4BQ27FOhvWDZSslsS) | [Los Exitazos De Lupe Y Polo](https://open.spotify.com/album/4L3qgi5ztCfcWmT1aN3znS) | 2:30 |
 | 40 | [La Ley del Amor](https://open.spotify.com/track/0nqAV0N6RFf23OUAK2XLPR) | [Fernando Burbano](https://open.spotify.com/artist/23nWkdjjAlopi1pF5KwrD6) | [Grandes Exitos](https://open.spotify.com/album/0QPKuA73byh081OeZVmHxI) | 3:10 |
 | 41 | [Se Me Perdio La Cadenita](https://open.spotify.com/track/0vtaaIAwWzIQgdSMG59KGx) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw) | [Narcos, Vol\. 2 \(More Music from the Netflix Original Series\)](https://open.spotify.com/album/0EJRlYjvVcym9K4wrww9vB) | 2:37 |
 | 42 | [Si Pudiera](https://open.spotify.com/track/0ElVpWQhNKrkoGUvDBpr1y) | [Jose Miguel Class](https://open.spotify.com/artist/1bLcdHalDusGM70EM8oxmk) | [Los Grandes Éxitos de Jose Miguel Class](https://open.spotify.com/album/3WJlGjYRBaNKHGOsiNK7lt) | 2:53 |
-| 43 | [De Lejos Tierras](https://open.spotify.com/track/6J97uiyHlGoZFxYwWwU4fN) | [Lupe Y Polo](https://open.spotify.com/artist/7B3FM4BQ27FOhvWDZSslsS) | [15 Éxitos](https://open.spotify.com/album/6uowaVidZAFQIyT1jTkYBy) | 2:36 |
-| 44 | [Dos Corazones](https://open.spotify.com/track/5rWn5d15wwORV1EVq3BlQT) | [Franktony](https://open.spotify.com/artist/67IOCc98AI69iJ67L6eMO0) | [Frank Tony y sus Reales: el Pueblo te Aclama](https://open.spotify.com/album/29ooa0WuZbI0vGJiJvpAal) | 3:03 |
+| 43 | [Dos Corazones](https://open.spotify.com/track/5rWn5d15wwORV1EVq3BlQT) | [Franktony](https://open.spotify.com/artist/67IOCc98AI69iJ67L6eMO0) | [Frank Tony y sus Reales: el Pueblo te Aclama](https://open.spotify.com/album/29ooa0WuZbI0vGJiJvpAal) | 3:03 |
+| 44 | [De Lejos Tierras](https://open.spotify.com/track/6J97uiyHlGoZFxYwWwU4fN) | [Lupe Y Polo](https://open.spotify.com/artist/7B3FM4BQ27FOhvWDZSslsS) | [15 Éxitos](https://open.spotify.com/album/6uowaVidZAFQIyT1jTkYBy) | 2:36 |
 | 45 | [Era un Domingo](https://open.spotify.com/track/6kO9XmOlD4VI3WSrqgbq6W) | [Los Alegres Cordillera](https://open.spotify.com/artist/4ZlDiExFa7Zjiu9Y65V608) | [Mano a Mano](https://open.spotify.com/album/3CaNT6kMdKV5QA7RktoDqh) | 3:05 |
 | 46 | [Las Cuatro Fiestas](https://open.spotify.com/track/6saaz6xf1KVaSWT4Geb5L6) | [Diomedes Diaz](https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG), [Juancho Rois](https://open.spotify.com/artist/0ZDAU5BLvLXTYqlrjW6KF1) | [Las Que Faltaban](https://open.spotify.com/album/6pbYCrwIfYWmp0Tz4V7CRw) | 4:34 |
 | 47 | [Mi Gran Secreto](https://open.spotify.com/track/1w7HjjEcAgbB4BF5haaPvn) | [Fernando Burbano](https://open.spotify.com/artist/23nWkdjjAlopi1pF5KwrD6) | [Grandes Exitos](https://open.spotify.com/album/0QPKuA73byh081OeZVmHxI) | 2:48 |
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzaqVxgwaoV.md) - [plain]
 | 73 | [Lejos del Tambo](https://open.spotify.com/track/2sJh7SIghOD2eOxAkHXa5p) | [El Caballero Gaucho](https://open.spotify.com/artist/1Y8tkL7bBifF9JiCcEzo70) | [Los Más Grandes Éxitos](https://open.spotify.com/album/2Tq2ArF6n3cLMX22XBKANR) | 2:52 |
 | 74 | [Matemos las Ganas](https://open.spotify.com/track/0bID0lGh8aR5jc6PkiyPUN) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Matemos las Ganas](https://open.spotify.com/album/4F9KrbhXKsZaHMv5R0zmom) | 3:02 |
 | 75 | [Tabaco y Ron](https://open.spotify.com/track/0yR6g8tt0IzisAPcizD4xz) | [Rodolfo Aicardi](https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414), [La Tipica Ra7](https://open.spotify.com/artist/0WJbT6T0nkWfYO5zEbUPOG) | [Muy Tropical y Bailable](https://open.spotify.com/album/4FTPpblS9F4DOT7o46A9cU) | 4:02 |
-| 76 | [La Burrita](https://open.spotify.com/track/3mXlm2lIp3leSWzv1vqN2k) | [Los Corraleros De Majagual](https://open.spotify.com/artist/4gUlOT8yUtjFDWKlkEpLI4), [Eliseo Herrera](https://open.spotify.com/artist/3YpIrDTEyfabU64t89sani) | [Época de Oro 16 Éxitos](https://open.spotify.com/album/2fbH7juIgtukbOBqEOx9eY) | 2:37 |
-| 77 | [Maldita Traicion](https://open.spotify.com/track/1vBkb5uekLodTDjvHWwnm4) | [Alzate](https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu) | [Maldita Traicion](https://open.spotify.com/album/1s5tPLQ8CZguYP8Skuwgas) | 3:08 |
+| 76 | [Maldita Traicion](https://open.spotify.com/track/1vBkb5uekLodTDjvHWwnm4) | [Alzate](https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu) | [Maldita Traicion](https://open.spotify.com/album/1s5tPLQ8CZguYP8Skuwgas) | 3:08 |
+| 77 | [La Burrita](https://open.spotify.com/track/3mXlm2lIp3leSWzv1vqN2k) | [Los Corraleros De Majagual](https://open.spotify.com/artist/4gUlOT8yUtjFDWKlkEpLI4), [Eliseo Herrera](https://open.spotify.com/artist/3YpIrDTEyfabU64t89sani) | [Época de Oro 16 Éxitos](https://open.spotify.com/album/2fbH7juIgtukbOBqEOx9eY) | 2:37 |
 | 78 | [De Bar En Bar](https://open.spotify.com/track/17OmeFVo1HtzsRFWJM1lfY) | [Jhon Alex Castaño](https://open.spotify.com/artist/5pbzj8JGUpUCMHESd1yHFv) | [De Vuelta Al Bar](https://open.spotify.com/album/0h0SCGByCzX6jWufSy6EvN) | 2:47 |
 | 79 | [Repítela](https://open.spotify.com/track/6syqaRHW4FsOgdGgoWvAb1) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Repítela](https://open.spotify.com/album/1S3Ao9VsfFF9v8azLqaM29) | 3:29 |
 | 80 | [La Vamo a Tumbar](https://open.spotify.com/track/5dmXJosu601fRpmS0FBMbj) | [Grupo Saboreo](https://open.spotify.com/artist/1jBovgyZEnLlMQIXRUN1G9) | [Exploring Latin Heritage, Vol.3](https://open.spotify.com/album/4YwD0uyRlvqtXsNVkzwY2a) | 5:35 |

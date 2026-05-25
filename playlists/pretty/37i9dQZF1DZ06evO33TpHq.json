@@ -1,12 +1,12 @@
 {
   "description": "This is Phil Wickham. The essential tracks, all in one playlist.",
-  "num_followers": 64608,
+  "num_followers": 64628,
   "original_name": "This Is Phil Wickham",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ag+cgAAAAABFQY/01AyPVqjxzoF10C0o",
+  "snapshot_id": "ahDuAAAAAACUEb/InnfyHdS/X727Al1B",
   "tracks": [
     {
       "added_at": null,
@@ -547,8 +547,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Believe",
-        "url": "https://open.spotify.com/album/3pp2YfqjfhCB8erfKpncIc"
+        "name": "Hymn Of Heaven (Acoustic Sessions)",
+        "url": "https://open.spotify.com/album/2vo5O7TN9M2ukYs8ZmTNqj"
       },
       "artists": [
         {
@@ -556,9 +556,9 @@
           "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
         }
       ],
-      "duration_ms": 258946,
-      "name": "Isn't He Good",
-      "url": "https://open.spotify.com/track/1nhxzfAFAw2ksi0Rajd693"
+      "duration_ms": 272391,
+      "name": "Reason I Sing - Acoustic",
+      "url": "https://open.spotify.com/track/43OioCdtXLa0YuS8tgBGAY"
     },
     {
       "added_at": null,
@@ -579,8 +579,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hymn Of Heaven (Acoustic Sessions)",
-        "url": "https://open.spotify.com/album/2vo5O7TN9M2ukYs8ZmTNqj"
+        "name": "I Believe",
+        "url": "https://open.spotify.com/album/3pp2YfqjfhCB8erfKpncIc"
       },
       "artists": [
         {
@@ -588,9 +588,9 @@
           "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
         }
       ],
-      "duration_ms": 272391,
-      "name": "Reason I Sing - Acoustic",
-      "url": "https://open.spotify.com/track/43OioCdtXLa0YuS8tgBGAY"
+      "duration_ms": 258946,
+      "name": "Isn't He Good",
+      "url": "https://open.spotify.com/track/1nhxzfAFAw2ksi0Rajd693"
     },
     {
       "added_at": null,
@@ -791,22 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heaven & Earth",
-        "url": "https://open.spotify.com/album/1REUtxsMboujnyPU1laW6v"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 244546,
-      "name": "Heaven Song",
-      "url": "https://open.spotify.com/track/39yNGLlopJa3q3brHLUrlc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fear Has No Power",
         "url": "https://open.spotify.com/album/6QKXUS981SnxMrwd6CkkOo"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 257266,
       "name": "Fear Has No Power",
       "url": "https://open.spotify.com/track/5Tsftbxui79a8Ccydcle46"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Heaven & Earth",
+        "url": "https://open.spotify.com/album/1REUtxsMboujnyPU1laW6v"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 244546,
+      "name": "Heaven Song",
+      "url": "https://open.spotify.com/track/39yNGLlopJa3q3brHLUrlc"
     },
     {
       "added_at": null,

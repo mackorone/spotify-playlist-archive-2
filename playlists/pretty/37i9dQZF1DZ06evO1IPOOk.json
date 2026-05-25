@@ -1,12 +1,12 @@
 {
   "description": "This is Kendrick Lamar. The essential tracks, all in one playlist.",
-  "num_followers": 1921949,
+  "num_followers": 1922006,
   "original_name": "This Is Kendrick Lamar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ag+cgAAAAABIIfn9WBLwMm3FeKCNA/VS",
+  "snapshot_id": "ahDuAAAAAAC0bs51FE75/TffnGU8Wwt7",
   "tracks": [
     {
       "added_at": null,
@@ -251,6 +251,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Red Pill Blues (Deluxe)",
+        "url": "https://open.spotify.com/album/1Li4rADxSxjT2g4xqUcMYh"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 214265,
+      "name": "Don't Wanna Know (feat. Kendrick Lamar)",
+      "url": "https://open.spotify.com/track/5o3GnrcFtvkdf3zFznuSbA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ca$ino",
         "url": "https://open.spotify.com/album/21xGzx6HTydCnvfZTvLf6b"
       },
@@ -271,26 +291,6 @@
       "duration_ms": 232424,
       "name": "Good Flirts (feat. Kendrick Lamar & Momo Boyd)",
       "url": "https://open.spotify.com/track/5sHeIGDbdzw8DeO57XZKIy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Red Pill Blues (Deluxe)",
-        "url": "https://open.spotify.com/album/1Li4rADxSxjT2g4xqUcMYh"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        },
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 214265,
-      "name": "Don't Wanna Know (feat. Kendrick Lamar)",
-      "url": "https://open.spotify.com/track/5o3GnrcFtvkdf3zFznuSbA"
     },
     {
       "added_at": null,
@@ -695,6 +695,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "i",
+        "url": "https://open.spotify.com/album/51C65YqHrDODM1hD5FEL5x"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 231933,
+      "name": "i",
+      "url": "https://open.spotify.com/track/7wdzLe2Gsx1RGqbvYZHASz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Starboy",
         "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
       },
@@ -715,18 +731,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "i",
-        "url": "https://open.spotify.com/album/51C65YqHrDODM1hD5FEL5x"
+        "name": "This Is Acting (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX"
       },
       "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        },
         {
           "name": "Kendrick Lamar",
           "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
         }
       ],
-      "duration_ms": 231933,
-      "name": "i",
-      "url": "https://open.spotify.com/track/7wdzLe2Gsx1RGqbvYZHASz"
+      "duration_ms": 210226,
+      "name": "The Greatest (feat. Kendrick Lamar)",
+      "url": "https://open.spotify.com/track/7xHWNBFm6ObGEQPaUxHuKO"
     },
     {
       "added_at": null,
@@ -751,26 +771,6 @@
       "duration_ms": 287360,
       "name": "Wesley's Theory",
       "url": "https://open.spotify.com/track/7Ks4VCY1wFebnOdJrM13t6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "This Is Acting (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        },
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 210226,
-      "name": "The Greatest (feat. Kendrick Lamar)",
-      "url": "https://open.spotify.com/track/7xHWNBFm6ObGEQPaUxHuKO"
     },
     {
       "added_at": null,
@@ -819,26 +819,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "HUMBLE. (SKRILLEX REMIX)",
-        "url": "https://open.spotify.com/album/1X4aaOIXvs6gWtQZQpln4V"
-      },
-      "artists": [
-        {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
-        },
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 156800,
-      "name": "HUMBLE. - SKRILLEX REMIX",
-      "url": "https://open.spotify.com/track/65ES1qwOB577ZnTkizMXJJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ctrl",
         "url": "https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh"
       },
@@ -855,6 +835,26 @@
       "duration_ms": 266072,
       "name": "Doves In The Wind (feat. Kendrick Lamar)",
       "url": "https://open.spotify.com/track/593W4qZOwwdqF6YnimJjL6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HUMBLE. (SKRILLEX REMIX)",
+        "url": "https://open.spotify.com/album/1X4aaOIXvs6gWtQZQpln4V"
+      },
+      "artists": [
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 156800,
+      "name": "HUMBLE. - SKRILLEX REMIX",
+      "url": "https://open.spotify.com/track/65ES1qwOB577ZnTkizMXJJ"
     },
     {
       "added_at": null,

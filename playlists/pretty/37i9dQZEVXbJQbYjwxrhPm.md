@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Bulgaria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,726 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,728 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 | 49 | [Джумбаре](https://open.spotify.com/track/1qKImzYMfCmhZWYZ4hmYOq) | [Krissy](https://open.spotify.com/artist/1tQw6OfMksrYe6ZipFVFzo), [Selina](https://open.spotify.com/artist/583wxBpo6S1maGz1bqYekZ) | [Джумбаре](https://open.spotify.com/album/2sZEOvZ7WBU6SsWD8yNc8d) | 2:40 |
 | 50 | [Dirty Diana \- 2012 Remaster](https://open.spotify.com/track/0AcgKF7kbSoCkh3n7vlHwK) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Bad \(Remastered\)](https://open.spotify.com/album/3Us57CjssWnHjTUIXBuIeH) | 4:40 |
 
-Snapshot ID: `MaUc0AAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MaZzAAAAAAAAAAAAAAAAAAAAAAAAAGVu`

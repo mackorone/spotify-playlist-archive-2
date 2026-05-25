@@ -1,6 +1,6 @@
 {
   "description": "The gentle sound of some of the greatest voices and instrumentalists in Jazz. Your Jazz dinner soundtrack. ",
-  "num_followers": 86763,
+  "num_followers": 86779,
   "original_name": "Dinner Jazz",
   "owner": {
     "name": "Spotify",
@@ -99,6 +99,22 @@
     {
       "added_at": "2025-02-04 08:46:28",
       "album": {
+        "name": "Swingin' Easy",
+        "url": "https://open.spotify.com/album/3uja6kKhz0bUcAZ7lTHvju"
+      },
+      "artists": [
+        {
+          "name": "Sarah Vaughan",
+          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
+        }
+      ],
+      "duration_ms": 275600,
+      "name": "Words Can't Describe",
+      "url": "https://open.spotify.com/track/2ZVo4KkwzAWImTGirpOt6P"
+    },
+    {
+      "added_at": "2025-02-04 08:46:28",
+      "album": {
         "name": "A Jazz Portrait Of Frank Sinatra",
         "url": "https://open.spotify.com/album/5JXjrJw1ziAWR0AczH5SfM"
       },
@@ -131,22 +147,6 @@
     {
       "added_at": "2025-02-04 08:46:28",
       "album": {
-        "name": "Swingin' Easy",
-        "url": "https://open.spotify.com/album/3uja6kKhz0bUcAZ7lTHvju"
-      },
-      "artists": [
-        {
-          "name": "Sarah Vaughan",
-          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
-        }
-      ],
-      "duration_ms": 275600,
-      "name": "Words Can't Describe",
-      "url": "https://open.spotify.com/track/2ZVo4KkwzAWImTGirpOt6P"
-    },
-    {
-      "added_at": "2025-02-04 08:46:28",
-      "album": {
         "name": "Graceful Rhapsody",
         "url": "https://open.spotify.com/album/0nSIdCAU3WMSoCuIM9Fzfm"
       },
@@ -159,6 +159,22 @@
       "duration_ms": 162708,
       "name": "Graceful Rhapsody",
       "url": "https://open.spotify.com/track/3VRTgB7okjGGrRg4pTFC8r"
+    },
+    {
+      "added_at": "2025-02-04 08:46:28",
+      "album": {
+        "name": "The Hawk Relaxes",
+        "url": "https://open.spotify.com/album/3fRgp7LyVaJow0lcZ9dZyH"
+      },
+      "artists": [
+        {
+          "name": "Coleman Hawkins",
+          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
+        }
+      ],
+      "duration_ms": 276266,
+      "name": "Under A Blanket Of Blue",
+      "url": "https://open.spotify.com/track/2WesYvXttArUlbpOGDCwR3"
     },
     {
       "added_at": "2025-02-04 08:46:28",
@@ -191,22 +207,6 @@
       "duration_ms": 211079,
       "name": "Mystic Moonlight Groove",
       "url": "https://open.spotify.com/track/4DySf1DPVMOVl04WBvSvqi"
-    },
-    {
-      "added_at": "2025-02-04 08:46:28",
-      "album": {
-        "name": "The Hawk Relaxes",
-        "url": "https://open.spotify.com/album/3fRgp7LyVaJow0lcZ9dZyH"
-      },
-      "artists": [
-        {
-          "name": "Coleman Hawkins",
-          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
-        }
-      ],
-      "duration_ms": 276266,
-      "name": "Under A Blanket Of Blue",
-      "url": "https://open.spotify.com/track/2WesYvXttArUlbpOGDCwR3"
     },
     {
       "added_at": "2025-02-04 08:46:28",
@@ -307,22 +307,6 @@
     {
       "added_at": "2025-02-04 08:46:28",
       "album": {
-        "name": "Journeying",
-        "url": "https://open.spotify.com/album/3P9JiFggKtxEEdi9l67JRp"
-      },
-      "artists": [
-        {
-          "name": "The Don Mason Trio",
-          "url": "https://open.spotify.com/artist/0lKn6bgPn1MwQE2L2OGjUf"
-        }
-      ],
-      "duration_ms": 231130,
-      "name": "Journeying",
-      "url": "https://open.spotify.com/track/0rxrNlowteTww0qD51gmJC"
-    },
-    {
-      "added_at": "2025-02-04 08:46:28",
-      "album": {
         "name": "Love To Be Happy",
         "url": "https://open.spotify.com/album/4by10y5bBBZtlfRzUicL60"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 195276,
       "name": "Love To Be Happy",
       "url": "https://open.spotify.com/track/3wMe1lySKxJeH9iMWXDqgx"
+    },
+    {
+      "added_at": "2025-02-04 08:46:28",
+      "album": {
+        "name": "Journeying",
+        "url": "https://open.spotify.com/album/3P9JiFggKtxEEdi9l67JRp"
+      },
+      "artists": [
+        {
+          "name": "The Don Mason Trio",
+          "url": "https://open.spotify.com/artist/0lKn6bgPn1MwQE2L2OGjUf"
+        }
+      ],
+      "duration_ms": 231130,
+      "name": "Journeying",
+      "url": "https://open.spotify.com/track/0rxrNlowteTww0qD51gmJC"
     },
     {
       "added_at": "2025-02-04 08:46:28",
@@ -795,22 +795,6 @@
     {
       "added_at": "2025-02-04 08:46:28",
       "album": {
-        "name": "Don't Go To Strangers (Rudy Van Gelder Remaster)",
-        "url": "https://open.spotify.com/album/5haiDu2ti0IHBHchx7dNjt"
-      },
-      "artists": [
-        {
-          "name": "Etta Jones",
-          "url": "https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0"
-        }
-      ],
-      "duration_ms": 218773,
-      "name": "Where Or When",
-      "url": "https://open.spotify.com/track/6jjSixNkatL28IaOxbej8T"
-    },
-    {
-      "added_at": "2025-02-04 08:46:28",
-      "album": {
         "name": "Solitude",
         "url": "https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp"
       },
@@ -827,18 +811,18 @@
     {
       "added_at": "2025-02-04 08:46:28",
       "album": {
-        "name": "Prismatic Patterns",
-        "url": "https://open.spotify.com/album/2KxfRZS092AuJpZPndNq2z"
+        "name": "Don't Go To Strangers (Rudy Van Gelder Remaster)",
+        "url": "https://open.spotify.com/album/5haiDu2ti0IHBHchx7dNjt"
       },
       "artists": [
         {
-          "name": "The Belleville Band",
-          "url": "https://open.spotify.com/artist/06ZTM5bZGUrNwBobE5eVBW"
+          "name": "Etta Jones",
+          "url": "https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0"
         }
       ],
-      "duration_ms": 144991,
-      "name": "Prismatic Patterns",
-      "url": "https://open.spotify.com/track/4p1JSJ4KvxfADfuskXlTgT"
+      "duration_ms": 218773,
+      "name": "Where Or When",
+      "url": "https://open.spotify.com/track/6jjSixNkatL28IaOxbej8T"
     },
     {
       "added_at": "2025-02-04 08:46:28",
@@ -871,6 +855,22 @@
       "duration_ms": 189226,
       "name": "Dancing on the Ceiling",
       "url": "https://open.spotify.com/track/27j5vjWiTCnys8U2AJQnJ3"
+    },
+    {
+      "added_at": "2025-02-04 08:46:28",
+      "album": {
+        "name": "Prismatic Patterns",
+        "url": "https://open.spotify.com/album/2KxfRZS092AuJpZPndNq2z"
+      },
+      "artists": [
+        {
+          "name": "The Belleville Band",
+          "url": "https://open.spotify.com/artist/06ZTM5bZGUrNwBobE5eVBW"
+        }
+      ],
+      "duration_ms": 144991,
+      "name": "Prismatic Patterns",
+      "url": "https://open.spotify.com/track/4p1JSJ4KvxfADfuskXlTgT"
     },
     {
       "added_at": "2025-02-04 08:46:28",
@@ -955,6 +955,26 @@
     {
       "added_at": "2025-02-04 08:46:28",
       "album": {
+        "name": "The President Plays With The Oscar Peterson Trio",
+        "url": "https://open.spotify.com/album/7JkisS9bjzaQCgJ9btGjfq"
+      },
+      "artists": [
+        {
+          "name": "Lester Young",
+          "url": "https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm"
+        },
+        {
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+        }
+      ],
+      "duration_ms": 203933,
+      "name": "On The Sunny Side Of The Street",
+      "url": "https://open.spotify.com/track/42glcnGSZYpv5kg9izfAuP"
+    },
+    {
+      "added_at": "2025-02-04 08:46:28",
+      "album": {
         "name": "Tranquility",
         "url": "https://open.spotify.com/album/01rtNCqJHkyaggjCKe5T8V"
       },
@@ -987,22 +1007,18 @@
     {
       "added_at": "2025-02-04 08:46:28",
       "album": {
-        "name": "The President Plays With The Oscar Peterson Trio",
-        "url": "https://open.spotify.com/album/7JkisS9bjzaQCgJ9btGjfq"
+        "name": "Ella Sings Gershwin",
+        "url": "https://open.spotify.com/album/3DJYxksYYP018jgpOTVXqO"
       },
       "artists": [
         {
-          "name": "Lester Young",
-          "url": "https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm"
-        },
-        {
-          "name": "Oscar Peterson Trio",
-          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
         }
       ],
-      "duration_ms": 203933,
-      "name": "On The Sunny Side Of The Street",
-      "url": "https://open.spotify.com/track/42glcnGSZYpv5kg9izfAuP"
+      "duration_ms": 167293,
+      "name": "Soon",
+      "url": "https://open.spotify.com/track/6FWtmmLX3pJEhKdS0OwPTc"
     },
     {
       "added_at": "2025-02-04 08:46:28",
@@ -1023,22 +1039,6 @@
     {
       "added_at": "2025-02-04 08:46:28",
       "album": {
-        "name": "Ella Sings Gershwin",
-        "url": "https://open.spotify.com/album/3DJYxksYYP018jgpOTVXqO"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        }
-      ],
-      "duration_ms": 167293,
-      "name": "Soon",
-      "url": "https://open.spotify.com/track/6FWtmmLX3pJEhKdS0OwPTc"
-    },
-    {
-      "added_at": "2025-02-04 08:46:28",
-      "album": {
         "name": "For Those In Love (Expanded Edition)",
         "url": "https://open.spotify.com/album/79co4mGqrQdDK93j5ZuqH2"
       },
@@ -1051,38 +1051,6 @@
       "duration_ms": 381373,
       "name": "I Get A Kick Out Of You",
       "url": "https://open.spotify.com/track/2nik1V49EZiLQd2XkTpR2T"
-    },
-    {
-      "added_at": "2025-02-04 08:46:28",
-      "album": {
-        "name": "Silky Smooth",
-        "url": "https://open.spotify.com/album/1yvVjaJnkvezldKwO31Y5C"
-      },
-      "artists": [
-        {
-          "name": "Eira Eld",
-          "url": "https://open.spotify.com/artist/1Ry53E1vatWPQYpL9DXlQn"
-        }
-      ],
-      "duration_ms": 164440,
-      "name": "Silky Smooth",
-      "url": "https://open.spotify.com/track/71m0kBDhVhtjFcBCJLFTKc"
-    },
-    {
-      "added_at": "2025-02-04 08:46:28",
-      "album": {
-        "name": "Blue Midnight",
-        "url": "https://open.spotify.com/album/7MRGlwATlHi5bLlAE15AAp"
-      },
-      "artists": [
-        {
-          "name": "James Leeluck",
-          "url": "https://open.spotify.com/artist/4ny5CQ4SQz5jW9YKbXJ3sZ"
-        }
-      ],
-      "duration_ms": 189134,
-      "name": "Blue Midnight",
-      "url": "https://open.spotify.com/track/77b7vqhEpGFSiCoeWnExeZ"
     },
     {
       "added_at": "2025-02-04 08:46:28",
@@ -1107,6 +1075,38 @@
     {
       "added_at": "2025-02-04 08:46:28",
       "album": {
+        "name": "Blue Midnight",
+        "url": "https://open.spotify.com/album/7MRGlwATlHi5bLlAE15AAp"
+      },
+      "artists": [
+        {
+          "name": "James Leeluck",
+          "url": "https://open.spotify.com/artist/4ny5CQ4SQz5jW9YKbXJ3sZ"
+        }
+      ],
+      "duration_ms": 189134,
+      "name": "Blue Midnight",
+      "url": "https://open.spotify.com/track/77b7vqhEpGFSiCoeWnExeZ"
+    },
+    {
+      "added_at": "2025-02-04 08:46:28",
+      "album": {
+        "name": "Silky Smooth",
+        "url": "https://open.spotify.com/album/1yvVjaJnkvezldKwO31Y5C"
+      },
+      "artists": [
+        {
+          "name": "Eira Eld",
+          "url": "https://open.spotify.com/artist/1Ry53E1vatWPQYpL9DXlQn"
+        }
+      ],
+      "duration_ms": 164440,
+      "name": "Silky Smooth",
+      "url": "https://open.spotify.com/track/71m0kBDhVhtjFcBCJLFTKc"
+    },
+    {
+      "added_at": "2025-02-04 08:46:28",
+      "album": {
         "name": "Sunset over Paris",
         "url": "https://open.spotify.com/album/0VBhxJPWzkCEEuRMlOKpTF"
       },
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2025-02-04 08:46:28",
       "album": {
-        "name": "Blues-A-Plenty",
-        "url": "https://open.spotify.com/album/43tAFmiohGIyehQQdd3Fps"
-      },
-      "artists": [
-        {
-          "name": "Johnny Hodges & His Orchestra",
-          "url": "https://open.spotify.com/artist/586u2f7H540oCefUIazflT"
-        }
-      ],
-      "duration_ms": 219680,
-      "name": "Don't Take Your Love From Me",
-      "url": "https://open.spotify.com/track/0yMntBQvB8hIcsrt5YSVIE"
-    },
-    {
-      "added_at": "2025-02-04 08:46:28",
-      "album": {
         "name": "Soulville",
         "url": "https://open.spotify.com/album/6JyAtY4rZhDFfOR3aRBVBc"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 271893,
       "name": "Makin' Whoopee",
       "url": "https://open.spotify.com/track/6tL1ZlPRSihc6gyWhVfA8X"
+    },
+    {
+      "added_at": "2025-02-04 08:46:28",
+      "album": {
+        "name": "Blues-A-Plenty",
+        "url": "https://open.spotify.com/album/43tAFmiohGIyehQQdd3Fps"
+      },
+      "artists": [
+        {
+          "name": "Johnny Hodges & His Orchestra",
+          "url": "https://open.spotify.com/artist/586u2f7H540oCefUIazflT"
+        }
+      ],
+      "duration_ms": 219680,
+      "name": "Don't Take Your Love From Me",
+      "url": "https://open.spotify.com/track/0yMntBQvB8hIcsrt5YSVIE"
     },
     {
       "added_at": "2025-02-04 08:46:28",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2025-02-04 08:46:28",
       "album": {
-        "name": "Soliloquy",
-        "url": "https://open.spotify.com/album/1VFMQG2BAGIE3xBp1ejr34"
-      },
-      "artists": [
-        {
-          "name": "Jennie Reigen",
-          "url": "https://open.spotify.com/artist/4gefXT9y8hdGtxBmkHN2HA"
-        }
-      ],
-      "duration_ms": 143757,
-      "name": "Soliloquy",
-      "url": "https://open.spotify.com/track/0te1ho7v4bPASest2eI0q3"
-    },
-    {
-      "added_at": "2025-02-04 08:46:28",
-      "album": {
         "name": "Sings... Me And The Blues",
         "url": "https://open.spotify.com/album/5vc8CnGTsboRWY5ckBUt7u"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 190040,
       "name": "Can't We Be Friends",
       "url": "https://open.spotify.com/track/6GkriQILiLxQqhvAfXYpmB"
+    },
+    {
+      "added_at": "2025-02-04 08:46:28",
+      "album": {
+        "name": "Soliloquy",
+        "url": "https://open.spotify.com/album/1VFMQG2BAGIE3xBp1ejr34"
+      },
+      "artists": [
+        {
+          "name": "Jennie Reigen",
+          "url": "https://open.spotify.com/artist/4gefXT9y8hdGtxBmkHN2HA"
+        }
+      ],
+      "duration_ms": 143757,
+      "name": "Soliloquy",
+      "url": "https://open.spotify.com/track/0te1ho7v4bPASest2eI0q3"
     },
     {
       "added_at": "2025-02-04 08:46:28",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2025-02-04 08:46:28",
       "album": {
-        "name": "Count Me In",
-        "url": "https://open.spotify.com/album/4J7FQxTSNaZTGx9oppZbk4"
-      },
-      "artists": [
-        {
-          "name": "Taylor Owen Trio",
-          "url": "https://open.spotify.com/artist/5pCUMgtJ7hUMrCDeYm96Ca"
-        }
-      ],
-      "duration_ms": 217085,
-      "name": "Count Me In",
-      "url": "https://open.spotify.com/track/76rD8liEuU0louCpIXDSKv"
-    },
-    {
-      "added_at": "2025-02-04 08:46:28",
-      "album": {
         "name": "Lady Sings The Blues",
         "url": "https://open.spotify.com/album/4Es5UWdUtj8CYn99AqCWPo"
       },
@@ -1315,6 +1299,22 @@
     {
       "added_at": "2025-02-04 08:46:28",
       "album": {
+        "name": "Count Me In",
+        "url": "https://open.spotify.com/album/4J7FQxTSNaZTGx9oppZbk4"
+      },
+      "artists": [
+        {
+          "name": "Taylor Owen Trio",
+          "url": "https://open.spotify.com/artist/5pCUMgtJ7hUMrCDeYm96Ca"
+        }
+      ],
+      "duration_ms": 217085,
+      "name": "Count Me In",
+      "url": "https://open.spotify.com/track/76rD8liEuU0louCpIXDSKv"
+    },
+    {
+      "added_at": "2025-02-04 08:46:28",
+      "album": {
         "name": "Forever and Always",
         "url": "https://open.spotify.com/album/4nglRTnyGlgMkRGJf35pzU"
       },
@@ -1327,22 +1327,6 @@
       "duration_ms": 238970,
       "name": "Forever and Always",
       "url": "https://open.spotify.com/track/5SLaynsQunaaRIQ6uhCJu6"
-    },
-    {
-      "added_at": "2025-02-04 08:46:28",
-      "album": {
-        "name": "Hello, Young Lovers",
-        "url": "https://open.spotify.com/album/4lkUwuT4R63CpwvTPse8aU"
-      },
-      "artists": [
-        {
-          "name": "Southside Players",
-          "url": "https://open.spotify.com/artist/2uQxsyKZGF2T1q5j0NI4fh"
-        }
-      ],
-      "duration_ms": 234585,
-      "name": "Hello, Young Lovers",
-      "url": "https://open.spotify.com/track/1WvROGTTw41o8BQ2zHx6sg"
     },
     {
       "added_at": "2025-02-04 08:46:28",
@@ -1367,18 +1351,18 @@
     {
       "added_at": "2025-02-04 08:46:28",
       "album": {
-        "name": "A Lonely Room",
-        "url": "https://open.spotify.com/album/7mUS2pWrG0NSt9ln7mFOAu"
+        "name": "Hello, Young Lovers",
+        "url": "https://open.spotify.com/album/4lkUwuT4R63CpwvTPse8aU"
       },
       "artists": [
         {
-          "name": "Wildflower Trio",
-          "url": "https://open.spotify.com/artist/201JTvpknVv2BZgtwDaQH6"
+          "name": "Southside Players",
+          "url": "https://open.spotify.com/artist/2uQxsyKZGF2T1q5j0NI4fh"
         }
       ],
-      "duration_ms": 224297,
-      "name": "A Lonely Room",
-      "url": "https://open.spotify.com/track/5ISolGrawI8flAsU6KftfC"
+      "duration_ms": 234585,
+      "name": "Hello, Young Lovers",
+      "url": "https://open.spotify.com/track/1WvROGTTw41o8BQ2zHx6sg"
     },
     {
       "added_at": "2025-02-04 08:46:28",
@@ -1395,6 +1379,22 @@
       "duration_ms": 214236,
       "name": "'Round Midnight",
       "url": "https://open.spotify.com/track/5rVp4lUeVnreDokWtWJ08a"
+    },
+    {
+      "added_at": "2025-02-04 08:46:28",
+      "album": {
+        "name": "A Lonely Room",
+        "url": "https://open.spotify.com/album/7mUS2pWrG0NSt9ln7mFOAu"
+      },
+      "artists": [
+        {
+          "name": "Wildflower Trio",
+          "url": "https://open.spotify.com/artist/201JTvpknVv2BZgtwDaQH6"
+        }
+      ],
+      "duration_ms": 224297,
+      "name": "A Lonely Room",
+      "url": "https://open.spotify.com/track/5ISolGrawI8flAsU6KftfC"
     },
     {
       "added_at": "2025-02-04 08:46:28",
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2025-02-04 08:46:28",
       "album": {
+        "name": "Your Laugh",
+        "url": "https://open.spotify.com/album/1zdhx2ty0QErwb2BvtFqTL"
+      },
+      "artists": [
+        {
+          "name": "Trio Del Norte",
+          "url": "https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO"
+        }
+      ],
+      "duration_ms": 207931,
+      "name": "Right Now Right Here",
+      "url": "https://open.spotify.com/track/0ruQME0dBzzcbdYCqD6x0j"
+    },
+    {
+      "added_at": "2025-02-04 08:46:28",
+      "album": {
         "name": "Roots",
         "url": "https://open.spotify.com/album/7ACxyKjhzgOkPDU95nIOdP"
       },
@@ -1503,18 +1519,18 @@
     {
       "added_at": "2025-02-04 08:46:28",
       "album": {
-        "name": "Your Laugh",
-        "url": "https://open.spotify.com/album/1zdhx2ty0QErwb2BvtFqTL"
+        "name": "Trio 64",
+        "url": "https://open.spotify.com/album/4rLPJEiZuhRRswnBGBgVvv"
       },
       "artists": [
         {
-          "name": "Trio Del Norte",
-          "url": "https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO"
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
         }
       ],
-      "duration_ms": 207931,
-      "name": "Right Now Right Here",
-      "url": "https://open.spotify.com/track/0ruQME0dBzzcbdYCqD6x0j"
+      "duration_ms": 264533,
+      "name": "For Heaven's Sake",
+      "url": "https://open.spotify.com/track/3AoSr3DDqb78fQVeE41e1V"
     },
     {
       "added_at": "2025-02-04 08:46:28",
@@ -1531,22 +1547,6 @@
       "duration_ms": 171960,
       "name": "Teach Me Tonight",
       "url": "https://open.spotify.com/track/391jzZNqMz98LcEPFQuBvr"
-    },
-    {
-      "added_at": "2025-02-04 08:46:28",
-      "album": {
-        "name": "Trio 64",
-        "url": "https://open.spotify.com/album/4rLPJEiZuhRRswnBGBgVvv"
-      },
-      "artists": [
-        {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
-        }
-      ],
-      "duration_ms": 264533,
-      "name": "For Heaven's Sake",
-      "url": "https://open.spotify.com/track/3AoSr3DDqb78fQVeE41e1V"
     },
     {
       "added_at": "2025-02-04 08:46:28",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2025-02-04 08:46:28",
       "album": {
-        "name": "Una Mas",
-        "url": "https://open.spotify.com/album/478lLfwrnUMDKIgaLCPTIy"
-      },
-      "artists": [
-        {
-          "name": "Kenny Dorham",
-          "url": "https://open.spotify.com/artist/2fMvylhnE23sAlyePKK8er"
-        }
-      ],
-      "duration_ms": 309266,
-      "name": "If Ever I Would Leave You - Remasted 1998/ Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/2DPcK58j3Zms6ybVIKSIIY"
-    },
-    {
-      "added_at": "2025-02-04 08:46:28",
-      "album": {
         "name": "The Complete Dinah Washington On Mercury, Vol.4 (1954-1956)",
         "url": "https://open.spotify.com/album/7MpI5x3ALFKVNTO0OZ7NfB"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 287826,
       "name": "If I Had You",
       "url": "https://open.spotify.com/track/4YGHdT126xB7nAfUWM1Hf0"
+    },
+    {
+      "added_at": "2025-02-04 08:46:28",
+      "album": {
+        "name": "Una Mas",
+        "url": "https://open.spotify.com/album/478lLfwrnUMDKIgaLCPTIy"
+      },
+      "artists": [
+        {
+          "name": "Kenny Dorham",
+          "url": "https://open.spotify.com/artist/2fMvylhnE23sAlyePKK8er"
+        }
+      ],
+      "duration_ms": 309266,
+      "name": "If Ever I Would Leave You - Remasted 1998/ Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/2DPcK58j3Zms6ybVIKSIIY"
     },
     {
       "added_at": "2025-02-04 08:46:28",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2025-02-04 08:46:28",
       "album": {
-        "name": "Promenade With You",
-        "url": "https://open.spotify.com/album/5JQlQVIftPyM62yCSXYDVY"
-      },
-      "artists": [
-        {
-          "name": "Trio Rosa",
-          "url": "https://open.spotify.com/artist/74qiJSjWdILIXAVQ99np5q"
-        }
-      ],
-      "duration_ms": 220403,
-      "name": "Promenade With You",
-      "url": "https://open.spotify.com/track/3Dz2EW0ND8Mfc41DxtoWQH"
-    },
-    {
-      "added_at": "2025-02-04 08:46:28",
-      "album": {
         "name": "Inside Out",
         "url": "https://open.spotify.com/album/6TiMFHnW1Ce36USbc8FAoC"
       },
@@ -1751,6 +1735,22 @@
       "duration_ms": 278666,
       "name": "I Sing This Song for You",
       "url": "https://open.spotify.com/track/2p0MYtfsZq2Rz6yd1WUXAA"
+    },
+    {
+      "added_at": "2025-02-04 08:46:28",
+      "album": {
+        "name": "Promenade With You",
+        "url": "https://open.spotify.com/album/5JQlQVIftPyM62yCSXYDVY"
+      },
+      "artists": [
+        {
+          "name": "Trio Rosa",
+          "url": "https://open.spotify.com/artist/74qiJSjWdILIXAVQ99np5q"
+        }
+      ],
+      "duration_ms": 220403,
+      "name": "Promenade With You",
+      "url": "https://open.spotify.com/track/3Dz2EW0ND8Mfc41DxtoWQH"
     },
     {
       "added_at": "2025-02-04 08:46:28",

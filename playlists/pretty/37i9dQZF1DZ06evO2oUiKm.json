@@ -1,12 +1,12 @@
 {
   "description": "This is Cynthia Erivo. The essential tracks, all in one playlist.",
-  "num_followers": 11543,
+  "num_followers": 11541,
   "original_name": "This Is Cynthia Erivo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ag+cgAAAAAB3gEVJ6khyQw2OjpvdVvPp",
+  "snapshot_id": "ahDuAAAAAABXCL4/FsQiS2rTnV+L+brH",
   "tracks": [
     {
       "added_at": null,
@@ -588,9 +588,9 @@
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
         }
       ],
-      "duration_ms": 207500,
-      "name": "Worst Of Me",
-      "url": "https://open.spotify.com/track/3eHHJqCt5LNTvvmPCCvLuB"
+      "duration_ms": 207750,
+      "name": "Best For Me",
+      "url": "https://open.spotify.com/track/1zyCndCb7MukzzGlhhuz4E"
     },
     {
       "added_at": null,
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
         }
       ],
-      "duration_ms": 207750,
-      "name": "Best For Me",
-      "url": "https://open.spotify.com/track/1zyCndCb7MukzzGlhhuz4E"
+      "duration_ms": 207500,
+      "name": "Worst Of Me",
+      "url": "https://open.spotify.com/track/3eHHJqCt5LNTvvmPCCvLuB"
     },
     {
       "added_at": null,
@@ -687,22 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bad Times At The El Royale (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/61RD050Ag1j9bhnGI1Hc1f"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        }
-      ],
-      "duration_ms": 183973,
-      "name": "This Old Heart Of Mine (Is Weak For You)",
-      "url": "https://open.spotify.com/track/2hbx1CTHTETXS3BFszVQcO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Color Purple (New Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/2bzQfE92hKUBxYiNkFTq5W"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 234731,
       "name": "The Color Purple (Reprise)",
       "url": "https://open.spotify.com/track/4v92TDdqX3VlFyeEA5sOfy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bad Times At The El Royale (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/61RD050Ag1j9bhnGI1Hc1f"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "duration_ms": 183973,
+      "name": "This Old Heart Of Mine (Is Weak For You)",
+      "url": "https://open.spotify.com/track/2hbx1CTHTETXS3BFszVQcO"
     },
     {
       "added_at": null,
@@ -755,22 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bad Times At The El Royale (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/61RD050Ag1j9bhnGI1Hc1f"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        }
-      ],
-      "duration_ms": 167693,
-      "name": "Hold On I'm Coming",
-      "url": "https://open.spotify.com/track/3Saj1U3DNCB8wf5KFiaYto"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Color Purple (New Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/2bzQfE92hKUBxYiNkFTq5W"
       },
@@ -791,6 +775,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bad Times At The El Royale (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/61RD050Ag1j9bhnGI1Hc1f"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "duration_ms": 167693,
+      "name": "Hold On I'm Coming",
+      "url": "https://open.spotify.com/track/3Saj1U3DNCB8wf5KFiaYto"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I Forgive You",
         "url": "https://open.spotify.com/album/4FpWxfojxH2a3S5OBrMYoj"
       },
@@ -800,9 +800,9 @@
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
         }
       ],
-      "duration_ms": 230088,
-      "name": "What You Want",
-      "url": "https://open.spotify.com/track/6pY9lAonJTA77BApQBt7z1"
+      "duration_ms": 163704,
+      "name": "She Said",
+      "url": "https://open.spotify.com/track/2uJ8sLJW0otjZ33RjMfwuP"
     },
     {
       "added_at": null,
@@ -827,22 +827,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Beyond The Lights (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/76IoyEyJjmgL6vLAK6a6EI"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        }
-      ],
-      "duration_ms": 183506,
-      "name": "Fly Before You Fall",
-      "url": "https://open.spotify.com/track/6Ch1e7h3b19r8HnR6HD1MW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ch. 1 Vs. 1",
         "url": "https://open.spotify.com/album/0KeLt7XCGtfAKAbrmM59De"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 232896,
       "name": "Glowing Up",
       "url": "https://open.spotify.com/track/5aeUHbWlVXp0TZ0L1tuKsc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Beyond The Lights (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/76IoyEyJjmgL6vLAK6a6EI"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "duration_ms": 183506,
+      "name": "Fly Before You Fall",
+      "url": "https://open.spotify.com/track/6Ch1e7h3b19r8HnR6HD1MW"
     },
     {
       "added_at": null,
@@ -895,22 +895,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "She is Risen: Volume One",
-        "url": "https://open.spotify.com/album/2uJcWqNs9jz23tEzpXe6IE"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        }
-      ],
-      "duration_ms": 259900,
-      "name": "I Don't Know How to Love Him",
-      "url": "https://open.spotify.com/track/1L0hiMmrYoWBn5NKOECpKF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ch. 1 Vs. 1",
         "url": "https://open.spotify.com/album/0KeLt7XCGtfAKAbrmM59De"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 220972,
       "name": "A Window",
       "url": "https://open.spotify.com/track/188okkDkaxhuwQyNOiqr07"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "She is Risen: Volume One",
+        "url": "https://open.spotify.com/album/2uJcWqNs9jz23tEzpXe6IE"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "duration_ms": 259900,
+      "name": "I Don't Know How to Love Him",
+      "url": "https://open.spotify.com/track/1L0hiMmrYoWBn5NKOECpKF"
     },
     {
       "added_at": null,

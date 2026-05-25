@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXhcuQw7KIeM.md) - [plain]
 
 > From the very deep spirit of the almighty North.
 
-[Spotify](https://open.spotify.com/user/spotify) - 586,753 likes - 75 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 586,861 likes - 75 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXhcuQw7KIeM.md) - [plain]
 | 35 | [Stay](https://open.spotify.com/track/3foIGbQ1FPZYJJ7RQ6v4Nj) | [Numenorean](https://open.spotify.com/artist/2qBGuYUZX53HN4Vk7Msjlc) | [Adore](https://open.spotify.com/album/4Yf0HZRHPCZvRteeDMLcul) | 2:21 |
 | 36 | [The Elm](https://open.spotify.com/track/6kGb58FphWqHUAbDQyw72G) | [Suldusk](https://open.spotify.com/artist/27bhelNsrdlX5Y5H7yigfg) | [Lunar Falls](https://open.spotify.com/album/1HUzttzwHcJeFyIBGeLXL3) | 3:30 |
 | 37 | [Umai](https://open.spotify.com/track/3C821qtpWKmA0acEYMjXLQ) | [Shireen](https://open.spotify.com/artist/5seY97ZUURo9gKO34z2G06) | [Matriarch](https://open.spotify.com/album/4ENwBjtTvOOWfl0hrbVAyD) | 6:18 |
-| 38 | [Mandara](https://open.spotify.com/track/5U0awMJOLy123ikEFUIfHt) | [Vas](https://open.spotify.com/artist/7bUGU28qbm4vGTSrha1H55) | [Feast Of Silence](https://open.spotify.com/album/1QTNlTne1hb0WHJe0sF6K4) | 6:23 |
-| 39 | [Vindr](https://open.spotify.com/track/6zcPcvIJ1pf9eAdrWFHdgR) | [Asynje](https://open.spotify.com/artist/42mveNsBgkZr7J2aMZQouQ), [Nanna Barslev](https://open.spotify.com/artist/5icXwn4kNVG6IZz7TmaaFI) | [Galdr](https://open.spotify.com/album/5EIujAPdoMNJepCWvKA6Tn) | 5:18 |
+| 38 | [Vindr](https://open.spotify.com/track/6zcPcvIJ1pf9eAdrWFHdgR) | [Asynje](https://open.spotify.com/artist/42mveNsBgkZr7J2aMZQouQ), [Nanna Barslev](https://open.spotify.com/artist/5icXwn4kNVG6IZz7TmaaFI) | [Galdr](https://open.spotify.com/album/5EIujAPdoMNJepCWvKA6Tn) | 5:18 |
+| 39 | [Mandara](https://open.spotify.com/track/5U0awMJOLy123ikEFUIfHt) | [Vas](https://open.spotify.com/artist/7bUGU28qbm4vGTSrha1H55) | [Feast Of Silence](https://open.spotify.com/album/1QTNlTne1hb0WHJe0sF6K4) | 6:23 |
 | 40 | [Blot](https://open.spotify.com/track/0YYZwCwlj4LVEsQxPPJJmf) | [Faun](https://open.spotify.com/artist/2wPOgnQ6eW3X73uIJZ4YFE) | [Blot](https://open.spotify.com/album/1ADhesMd0cTTjL8Vv44Idf) | 5:13 |
 | 41 | [Spine](https://open.spotify.com/track/5RH4pMfRt8d0jZQjk0fx3q) | [Myrkur](https://open.spotify.com/artist/3544ImlskUwZqWJTmqWUsa) | [Spine](https://open.spotify.com/album/4suNaIAqTmYMRHobGkoNQK) | 4:03 |
 | 42 | [Unnr \| MINDBEACH](https://open.spotify.com/track/38oAbSWuIpMZB7Ny0Z42zC) | [Kati Ran](https://open.spotify.com/artist/6Ug5CwD7oxSB5WNQH69NUJ), [Borgar Magnason](https://open.spotify.com/artist/0UvE0FOPYcShzzE4IYmD5n), [Gaahls WYRD](https://open.spotify.com/artist/7h8V7XHdJ3akShW3uFaZyn), [Theodor Bastard](https://open.spotify.com/artist/2PQ9UX4kWDE3mf2fYGRzqF) | [Unnr \| MINDBEACH](https://open.spotify.com/album/5B2Gsb3s1p0sNtPbj8HT4Y) | 9:36 |
@@ -77,11 +77,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXhcuQw7KIeM.md) - [plain]
 | 67 | [Crystalline](https://open.spotify.com/track/40Wmu8qja6oJYzDsZ4jek5) | [Suldusk](https://open.spotify.com/artist/27bhelNsrdlX5Y5H7yigfg) | [Crystalline](https://open.spotify.com/album/4qhT2L4SCZdvBz51rkdJ6u) | 5:48 |
 | 68 | [Malströmsbrus](https://open.spotify.com/track/2iaTeZJ8QD2ZS312KQTBgV) | [Vintersorg](https://open.spotify.com/artist/6LfdGx71ZHRWgP4tBRmQf6) | [Malströmsbrus](https://open.spotify.com/album/4961f5lFlgmf38sd9K5wgl) | 6:43 |
 | 69 | [Die Welle](https://open.spotify.com/track/3r46i87MmG57Nmrrnfo2Mj) | [Rauhbein](https://open.spotify.com/artist/0neCOkQjYXJMLW7cvOw6fe) | [Die Welle](https://open.spotify.com/album/7KTsLcGCa66kwmjYsXCTZl) | 4:42 |
-| 70 | [Wulfwiga](https://open.spotify.com/track/37g06WD4w62ipxpBIbQN16) | [Sowulo](https://open.spotify.com/artist/4BkdqpIEhl0tKZ5xpAo5pR) | [Mann](https://open.spotify.com/album/7K6iSnHtArU3SaXBFseCob) | 4:16 |
+| 70 | [Helvegen](https://open.spotify.com/track/3TEHaGREmft4lec2TrcR8C) | [Wardruna](https://open.spotify.com/artist/0NJ6wlOAsAJ1PN4VRdTPKA) | [Runaljod – Yggdrasil](https://open.spotify.com/album/0rA5rQVW5kPq0SmUGFtbO1) | 7:11 |
 | 71 | [Midvinter](https://open.spotify.com/track/1qlSpiCwjxCsD2VVWpJV1H) | [Ereb Altor](https://open.spotify.com/artist/11sL6ZJmmfutSoWopcXbFm) | [Midvinter](https://open.spotify.com/album/6OPbBT3bjSX3Md6lPIznjy) | 6:32 |
-| 72 | [Ymir](https://open.spotify.com/track/6OMd2Tyoo1t331SqqnTdKR) | [Danheim](https://open.spotify.com/artist/1J1DiyVfll4d0cos64VSZb), [Gealdýr](https://open.spotify.com/artist/0T3UezATgzQo2sJkjzEsmM) | [Ymir](https://open.spotify.com/album/4nlE0mUHyiIe7Tdk6Jse5o) | 4:17 |
-| 73 | [Helvegen](https://open.spotify.com/track/3TEHaGREmft4lec2TrcR8C) | [Wardruna](https://open.spotify.com/artist/0NJ6wlOAsAJ1PN4VRdTPKA) | [Runaljod – Yggdrasil](https://open.spotify.com/album/0rA5rQVW5kPq0SmUGFtbO1) | 7:11 |
-| 74 | [Snake Pit Poetry](https://open.spotify.com/track/3HLTjYKY7P2O35QyPr70Xz) | [Einar Selvik](https://open.spotify.com/artist/4QwiYnKp4dh2PTv1Vgw3c5), [Hilda Örvarsdóttir](https://open.spotify.com/artist/6K1UpnQXOyZtQYjydqbHS1) | [Snake Pit Poetry](https://open.spotify.com/album/0Yc1J017Kb0vwAZiak3w4Z) | 7:08 |
+| 72 | [Wulfwiga](https://open.spotify.com/track/37g06WD4w62ipxpBIbQN16) | [Sowulo](https://open.spotify.com/artist/4BkdqpIEhl0tKZ5xpAo5pR) | [Mann](https://open.spotify.com/album/7K6iSnHtArU3SaXBFseCob) | 4:16 |
+| 73 | [Snake Pit Poetry](https://open.spotify.com/track/3HLTjYKY7P2O35QyPr70Xz) | [Einar Selvik](https://open.spotify.com/artist/4QwiYnKp4dh2PTv1Vgw3c5), [Hilda Örvarsdóttir](https://open.spotify.com/artist/6K1UpnQXOyZtQYjydqbHS1) | [Snake Pit Poetry](https://open.spotify.com/album/0Yc1J017Kb0vwAZiak3w4Z) | 7:08 |
+| 74 | [Ymir](https://open.spotify.com/track/6OMd2Tyoo1t331SqqnTdKR) | [Danheim](https://open.spotify.com/artist/1J1DiyVfll4d0cos64VSZb), [Gealdýr](https://open.spotify.com/artist/0T3UezATgzQo2sJkjzEsmM) | [Ymir](https://open.spotify.com/album/4nlE0mUHyiIe7Tdk6Jse5o) | 4:17 |
 | 75 | [Valhalla Rising](https://open.spotify.com/track/6gSM7SxQDHbBibGoUrxWbO) | [Nytt Land](https://open.spotify.com/artist/6NQ701XGEJodDZ5lqVtrBp) | [Valhalla Rising](https://open.spotify.com/album/78glhD3Zl57f1MeXjESFKI) | 7:03 |
 
 Snapshot ID: `AAAAAOIaNZmlIkqLyHeTv3KMI2LpJtjY`

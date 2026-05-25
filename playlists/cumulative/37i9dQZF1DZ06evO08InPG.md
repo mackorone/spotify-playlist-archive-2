@@ -4,7 +4,7 @@
 
 > This is Machine Head\. The essential tracks, all in one playlist.
 
-104 songs - 8 hr 42 min
+105 songs - 8 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,8 @@
 | [Iconoclast](https://open.spotify.com/track/2I0caLwd3Rc84Hr147WH6S) | [Decapitated](https://open.spotify.com/artist/17MbhJOaaPHuWnRaWU9xkc), [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Cancer Culture](https://open.spotify.com/album/1h4pyfLZgGi11i560BmZp0) | 4:49 | 2022-05-30 |  |
 | [Imperium](https://open.spotify.com/track/2WK78upCkuvhkJcrHlEEyI) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Through the Ashes of Empires](https://open.spotify.com/album/6LTkG6sc02q4L1zCm3jD6d) | 6:41 | 2022-05-30 |  |
 | [In Comes The Flood](https://open.spotify.com/track/4fRjDaOvF4TxU88P2bdkMx) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Bloodstone & Diamonds](https://open.spotify.com/album/5LflIRpgFkIkwXZHiXqyoX) | 7:22 | 2022-05-30 | 2022-10-13 |
-| [Invoke War \(feat\. Machine Head\)](https://open.spotify.com/track/1SXUHKMHyDvUTMbiRgLGmj) | [Frozen Soul](https://open.spotify.com/artist/1hwwmQI1vhQamuIksyDKG6), [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Invoke War \(feat\. Machine Head\)](https://open.spotify.com/album/0HCDE7zV8S6614zHMTj58Z) | 3:16 | 2026-04-03 |  |
+| [Invoke War \(feat\. Machine Head\)](https://open.spotify.com/track/1SXUHKMHyDvUTMbiRgLGmj) | [Frozen Soul](https://open.spotify.com/artist/1hwwmQI1vhQamuIksyDKG6), [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Invoke War \(feat\. Machine Head\)](https://open.spotify.com/album/0HCDE7zV8S6614zHMTj58Z) | 3:16 | 2026-04-03 | 2026-05-25 |
+| [Invoke War \(feat\. Machine Head\)](https://open.spotify.com/track/6QwzbZRyFpJCS9YFYkU5Qy) | [Frozen Soul](https://open.spotify.com/artist/1hwwmQI1vhQamuIksyDKG6), [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [No Place of Warmth](https://open.spotify.com/album/5ncedT7f0ZDQAZhVOALo5M) | 3:16 | 2026-05-25 |  |
 | [Is There Anybody Out There?](https://open.spotify.com/track/5aeIj88MLdekYvObw5Yisk) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Is There Anybody Out There?](https://open.spotify.com/album/07lqIOrFHB6XAKq1rrIe8G) | 4:32 | 2022-05-30 |  |
 | [Kaleidoscope](https://open.spotify.com/track/2fNqGK13Fde9WpJ1naARev) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Catharsis](https://open.spotify.com/album/5OhAVXSslPqvWkh7XEj4Wq) | 4:03 | 2022-05-30 | 2025-06-06 |
 | [KILL THY ENEMIES](https://open.spotify.com/track/21vXYqCyYT8HtYxuRF2a1B) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [ØF KINGDØM AND CRØWN](https://open.spotify.com/album/6duwuU8xgK7ShKMCrUxfBi) | 5:40 | 2022-08-29 | 2022-09-09 |

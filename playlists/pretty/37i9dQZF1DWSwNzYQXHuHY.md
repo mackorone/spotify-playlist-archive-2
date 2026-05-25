@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 
 > 썸타고 계신가요? 설레임이 담긴 노래들을 만나보세요\. \(There is something between us\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,525 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,532 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,12 +18,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 | 8 | [Your Shampoo Scent In The Flowers](https://open.spotify.com/track/49jhaFKylisSzgaReEP2Jt) | [Jang Beom June](https://open.spotify.com/artist/529ZdRwFoSKtQ0LPwKxGiu) | [Be Melodramatic \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/5ceWbG2nV9xM9z9ZYdD3Mg) | 2:48 |
 | 9 | [Slightly Tipsy \(She is My Type♡ X SANDEUL\)](https://open.spotify.com/track/1xWVYPdaLm909DbFmuPGOR) | [Sandeul](https://open.spotify.com/artist/2QeJBmgBdpH4i3uJns5Rdx) | [Slightly Tipsy \(She is My Type♡ X SANDEUL\)](https://open.spotify.com/album/2bal48tjyi26OAxY2KxwFL) | 3:47 |
 | 10 | [MOVIE](https://open.spotify.com/track/51kQvG4aghW17VSZKkfxTp) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [MOVIE](https://open.spotify.com/album/2yqOMxorfrYXbnVkjcaq5y) | 3:03 |
-| 11 | [Introduce me a good person](https://open.spotify.com/track/2OAEKEb0778gsDaCef7MLI) | [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [HOSPITAL PLAYLIST \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/2ulXYvZjbc3y12LiwWKXP4) | 3:03 |
-| 12 | [You Are Spring](https://open.spotify.com/track/0LaFsGJoSqJtrwFeuytslG) | [SUNG HAN BIN](https://open.spotify.com/artist/2nklCgDz87eN9JcPTlWFEp) | [Spring Fever, Pt\. 5 \(Original Soundtrack\)](https://open.spotify.com/album/0pvUvyCFRyYzFPXLAuZQcN) | 3:47 |
+| 11 | [You Are Spring](https://open.spotify.com/track/0LaFsGJoSqJtrwFeuytslG) | [SUNG HAN BIN](https://open.spotify.com/artist/2nklCgDz87eN9JcPTlWFEp) | [Spring Fever, Pt\. 5 \(Original Soundtrack\)](https://open.spotify.com/album/0pvUvyCFRyYzFPXLAuZQcN) | 3:47 |
+| 12 | [Introduce me a good person](https://open.spotify.com/track/2OAEKEb0778gsDaCef7MLI) | [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [HOSPITAL PLAYLIST \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/2ulXYvZjbc3y12LiwWKXP4) | 3:03 |
 | 13 | [Good Person \(2022\)](https://open.spotify.com/track/0lbtRkC7Bs9aR3ZYvtZydi) | [HAECHAN](https://open.spotify.com/artist/1pHMYguhayIoXmPjoOUyu3) | [Good Person \(2022\)](https://open.spotify.com/album/5RZrivX6GuIijYW0A2ippm) | 4:40 |
 | 14 | [Do you want to walk with me? \(Romance 101 X Jukjae\)](https://open.spotify.com/track/1hyyH6xSgtcgwpNOR9cX1t) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [Do you want to walk with me? \(Romance 101 X Jukjae\)](https://open.spotify.com/album/6Mt17o8mnGYTu8jryXZaZX) | 3:46 |
-| 15 | [Question Marks \(Feat\. Paul Kim\)](https://open.spotify.com/track/1juxNlpwdGRJ2byuFW7RBC) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN), [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [LOVE CATCHER](https://open.spotify.com/album/1IxQnpYIIFY9F2IVVsD27F) | 2:46 |
-| 16 | [A midsummer night's sweetness](https://open.spotify.com/track/3gug38ZhXQWJbwN7sh0YRR) | [San E](https://open.spotify.com/artist/61MMiylth1injW39oZBuYB), [Raina](https://open.spotify.com/artist/21dQ70DS91icGLN9J4mH7h) | [San E, Raina Project Single 'A midsummer night's sweetness'](https://open.spotify.com/album/1srZhGQymoN6YQksduox2J) | 3:53 |
+| 15 | [A midsummer night's sweetness](https://open.spotify.com/track/3gug38ZhXQWJbwN7sh0YRR) | [San E](https://open.spotify.com/artist/61MMiylth1injW39oZBuYB), [Raina](https://open.spotify.com/artist/21dQ70DS91icGLN9J4mH7h) | [San E, Raina Project Single 'A midsummer night's sweetness'](https://open.spotify.com/album/1srZhGQymoN6YQksduox2J) | 3:53 |
+| 16 | [Question Marks \(Feat\. Paul Kim\)](https://open.spotify.com/track/1juxNlpwdGRJ2byuFW7RBC) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN), [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [LOVE CATCHER](https://open.spotify.com/album/1IxQnpYIIFY9F2IVVsD27F) | 2:46 |
 | 17 | [May I Love You?](https://open.spotify.com/track/3yByTfbbmapjLSzGUw6S67) | [UMJI](https://open.spotify.com/artist/2yExPRQtV9wSUqASXj9q1e) | [Lovely Runner, Pt\. 4 \(Original Soundtrack\)](https://open.spotify.com/album/5imt2fu9plNVvxIsHqdqpX) | 3:18 |
 | 18 | [Paint on Spring](https://open.spotify.com/track/6HpDaHOApCbCgu5AyyRv6v) | [Martin Smith](https://open.spotify.com/artist/3ISWX9gKLGkhlgS5AhvlTd) | [Paint on Spring](https://open.spotify.com/album/3wHPgbPG7fuBktQszASI1I) | 3:52 |
 | 19 | [Special Day](https://open.spotify.com/track/70EAgvy4fUexEViBeylMzS) | [Kim Min Seok \(MeloMance\)](https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA) | [Dynamite Kiss \(Original Television Soundtrack\), Pt.3](https://open.spotify.com/album/1wD9dXi6cZXqbAueDxpvuS) | 3:18 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 | 47 | [Friends to Lovers](https://open.spotify.com/track/7mH3OUMmYMRUNW8kNXyKtU) | [B.D.U](https://open.spotify.com/artist/1SRmmtrnAo0UK0NUROJRjz) | [Friends to Lovers](https://open.spotify.com/album/3pQ3m6kI9K3N47rXgQkeNQ) | 2:56 |
 | 48 | [Love Frequency](https://open.spotify.com/track/0JpjJ135Rg9wIzl8FPB9Rw) | [RESCENE](https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S) | [Love Frequency \(Original Soundtrack from Just For Meeting You\)](https://open.spotify.com/album/3cgYAtoLlt8nO7YdoEuY2l) | 2:43 |
 | 49 | [Message \(with Gist\)](https://open.spotify.com/track/5qYfMMCvenoDhXp6upn3iL) | [Suen](https://open.spotify.com/artist/6eaZmfhIThboEez0pzz7Vi), [Gist](https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk) | [Message \(with Gist\)](https://open.spotify.com/album/3yUzjFo7J9UHdxUeYrkpeW) | 2:50 |
-| 50 | [Go for Love](https://open.spotify.com/track/5pC9c5HlVuifY319wqBMzb) | [Minsu](https://open.spotify.com/artist/1o13ZguNtAOcOe1k0chkta) | [Go for Love](https://open.spotify.com/album/7ag0W3hrGjOF486km90W0K) | 2:43 |
+| 50 | [그렇게 됐어 It just happened](https://open.spotify.com/track/1aMxvF0VxH9uyTCRFceyfm) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht), [Young K](https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe) | [It just happened](https://open.spotify.com/album/5EUfw7eDDUmSqSy0FN0AGh) | 2:36 |
 
 Snapshot ID: `AAAAAPaudLskfzMLbgkty0G4D/X978Qq`

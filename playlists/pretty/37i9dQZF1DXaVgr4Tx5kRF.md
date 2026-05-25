@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaVgr4Tx5kRF.md) - [plain]
 
 > The songs that defined a golden era of British indie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 666,334 likes - 65 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 666,378 likes - 65 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,13 +65,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaVgr4Tx5kRF.md) - [plain]
 | 55 | [The Drugs Don't Work](https://open.spotify.com/track/2KArbNRAnfGcnZ1gSYhVy5) | [The Verve](https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84) | [Urban Hymns](https://open.spotify.com/album/2okCg9scHue9GNELoB8U9g) | 5:05 |
 | 56 | [One To Another](https://open.spotify.com/track/5nvy5ir4RWTgI4hC8dnsQP) | [The Charlatans](https://open.spotify.com/artist/5fScAXreYFnuqwOgBsJgSd) | [Tellin' Stories](https://open.spotify.com/album/5Z1qbz6SLdQnWiVMEJ5MNK) | 4:29 |
 | 57 | [Babies](https://open.spotify.com/track/1pUNeXXcmAJOyK6TiVL49n) | [Pulp](https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD) | [His 'N' Hers](https://open.spotify.com/album/4YhFzXoRDlowowzzNnNnP5) | 4:04 |
-| 58 | [Sit Down](https://open.spotify.com/track/3idthQ24V2aPRcthv7Aq5o) | [James](https://open.spotify.com/artist/0qLNsNKm8bQcMoRFkR8Hmh) | [Gold Mother](https://open.spotify.com/album/47lo706CUDxRCsQNSADyd6) | 4:04 |
+| 58 | [Good Enough](https://open.spotify.com/track/1QdbOe3o38SdDOxgMSfRGd) | [Dodgy](https://open.spotify.com/artist/1dekSPU23UC5hw5b8Uxk9W) | [Ace A's + Killer B's](https://open.spotify.com/album/1mkXcNQ9jiQmyHDugV7vGf) | 3:59 |
 | 59 | [Rock ‘n’ Roll Star \- Remastered](https://open.spotify.com/track/1lCuf3uU0ZdAiqxVuZUv67) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Definitely Maybe \(Remastered\) \[Deluxe Edition Remastered\]](https://open.spotify.com/album/3F7qb5AiQdWxuMgSyQ9zyg) | 5:22 |
-| 60 | [The Life Of Riley](https://open.spotify.com/track/6uAoFqSLH9UjCPn4yo4HMh) | [The Lightning Seeds](https://open.spotify.com/artist/67YNiSqhrx1P8oPvIIvbP5) | [Life Of Riley \- The Lightning Seeds Collection](https://open.spotify.com/album/0akFniXaXu6PZb8o7VUGZd) | 4:04 |
-| 61 | [Rocks](https://open.spotify.com/track/2C1LBnSUybZIGRJUkSK2GC) | [Primal Scream](https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze), [George Drakoulias](https://open.spotify.com/artist/7gypIdzrRa5Qn38DR8ounG), [David Bianco](https://open.spotify.com/artist/6ups229w24QPVgpwi1Hha6) | [Give Out But Don't Give Up](https://open.spotify.com/album/5MieoQokjgz4vqjyGgeVFZ) | 3:35 |
-| 62 | [Good Enough](https://open.spotify.com/track/1QdbOe3o38SdDOxgMSfRGd) | [Dodgy](https://open.spotify.com/artist/1dekSPU23UC5hw5b8Uxk9W) | [Ace A's + Killer B's](https://open.spotify.com/album/1mkXcNQ9jiQmyHDugV7vGf) | 3:59 |
-| 63 | [Trash](https://open.spotify.com/track/0eyTLxTwEYvqWm6NYSvA01) | [Suede](https://open.spotify.com/artist/6PHIK3kjWggLtVygsOtpqS) | [The Best Of](https://open.spotify.com/album/6IKWPpfzzSqLSgbIfvCrhO) | 4:05 |
-| 64 | [Wide Open Space](https://open.spotify.com/track/6qDcBy0eHAJW3xoezLs9Ik) | [Mansun](https://open.spotify.com/artist/7rqRuB0wgUaStDN73PlV4U) | [Attack of the Grey Lantern](https://open.spotify.com/album/76kwuhhXHxnimY5aiKdvZJ) | 4:31 |
-| 65 | [Tattva](https://open.spotify.com/track/4i29BhzyX52me3XNatwkWe) | [Kula Shaker](https://open.spotify.com/artist/6bGcpvHbRHg8s0wiNyIZK1) | [Kollected \- The Best Of Kula Shaker](https://open.spotify.com/album/6TTUtIFLwkgKJGrjoAbq8q) | 3:44 |
+| 60 | [Sit Down](https://open.spotify.com/track/3idthQ24V2aPRcthv7Aq5o) | [James](https://open.spotify.com/artist/0qLNsNKm8bQcMoRFkR8Hmh) | [Gold Mother](https://open.spotify.com/album/47lo706CUDxRCsQNSADyd6) | 4:04 |
+| 61 | [The Life Of Riley](https://open.spotify.com/track/6uAoFqSLH9UjCPn4yo4HMh) | [The Lightning Seeds](https://open.spotify.com/artist/67YNiSqhrx1P8oPvIIvbP5) | [Life Of Riley \- The Lightning Seeds Collection](https://open.spotify.com/album/0akFniXaXu6PZb8o7VUGZd) | 4:04 |
+| 62 | [Rocks](https://open.spotify.com/track/2C1LBnSUybZIGRJUkSK2GC) | [Primal Scream](https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze), [George Drakoulias](https://open.spotify.com/artist/7gypIdzrRa5Qn38DR8ounG), [David Bianco](https://open.spotify.com/artist/6ups229w24QPVgpwi1Hha6) | [Give Out But Don't Give Up](https://open.spotify.com/album/5MieoQokjgz4vqjyGgeVFZ) | 3:35 |
+| 63 | [Chasing Rainbows](https://open.spotify.com/track/5l6ab2amq8jjuNqaxFsVrl) | [Shed Seven](https://open.spotify.com/artist/3iejrAcqxYoVgyxp6zkWgs) | [Let It Ride](https://open.spotify.com/album/7wTnoelmadLnvEXH8Je1nA) | 4:25 |
+| 64 | [Trash](https://open.spotify.com/track/0eyTLxTwEYvqWm6NYSvA01) | [Suede](https://open.spotify.com/artist/6PHIK3kjWggLtVygsOtpqS) | [The Best Of](https://open.spotify.com/album/6IKWPpfzzSqLSgbIfvCrhO) | 4:05 |
+| 65 | [Staying Out For The Summer](https://open.spotify.com/track/59GIjxze4m7lutOfemmKvu) | [Dodgy](https://open.spotify.com/artist/1dekSPU23UC5hw5b8Uxk9W) | [The Collection](https://open.spotify.com/album/2ThnpEHmCmIHJuzAx9nQxt) | 3:05 |
 
 Snapshot ID: `AAAAAA55IOvgsOgVSaC/3R34Kd0KQ8ft`

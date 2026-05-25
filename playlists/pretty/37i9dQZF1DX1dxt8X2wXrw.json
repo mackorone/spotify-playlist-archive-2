@@ -1,6 +1,6 @@
 {
   "description": "catch a vibe \ud83c\udf39",
-  "num_followers": 81312,
+  "num_followers": 81310,
   "original_name": "crush",
   "owner": {
     "name": "Spotify",
@@ -383,22 +383,6 @@
     {
       "added_at": "2026-04-21 07:35:35",
       "album": {
-        "name": "MUTT",
-        "url": "https://open.spotify.com/album/0b64yYszabe2wxhG1PiSQo"
-      },
-      "artists": [
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 193333,
-      "name": "MUTT",
-      "url": "https://open.spotify.com/track/1mh9eHVRdNhzryG43PXdW1"
-    },
-    {
-      "added_at": "2026-04-21 07:35:35",
-      "album": {
         "name": "99.9%",
         "url": "https://open.spotify.com/album/6JD4Qerb8IcaAzFgpFw0sa"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 227706,
       "name": "YOU'RE THE ONE",
       "url": "https://open.spotify.com/track/70kdJnm1X6eEM8DbWa8Mnc"
+    },
+    {
+      "added_at": "2026-04-21 07:35:35",
+      "album": {
+        "name": "MUTT",
+        "url": "https://open.spotify.com/album/0b64yYszabe2wxhG1PiSQo"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 193333,
+      "name": "MUTT",
+      "url": "https://open.spotify.com/track/1mh9eHVRdNhzryG43PXdW1"
     },
     {
       "added_at": "2026-04-21 07:35:35",
@@ -675,22 +675,6 @@
     {
       "added_at": "2026-04-21 07:35:35",
       "album": {
-        "name": "JAMIE",
-        "url": "https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "Destroy Myself Just For You",
-      "url": "https://open.spotify.com/track/40Fmr4mXhz4PtrMAPTnoXB"
-    },
-    {
-      "added_at": "2026-04-21 07:35:35",
-      "album": {
         "name": "Holy Blindfold",
         "url": "https://open.spotify.com/album/21148QXr6aXsBfN9P7N6X9"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 344680,
       "name": "Masterpiece",
       "url": "https://open.spotify.com/track/07qj9w93jk1eA2TGAd6kxj"
+    },
+    {
+      "added_at": "2026-04-21 07:35:35",
+      "album": {
+        "name": "JAMIE",
+        "url": "https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "Destroy Myself Just For You",
+      "url": "https://open.spotify.com/track/40Fmr4mXhz4PtrMAPTnoXB"
     },
     {
       "added_at": "2026-04-21 07:35:35",
@@ -927,22 +927,6 @@
     {
       "added_at": "2026-04-21 07:35:35",
       "album": {
-        "name": "FLAMES",
-        "url": "https://open.spotify.com/album/42s2X3WQppxdHafUT2dfmF"
-      },
-      "artists": [
-        {
-          "name": "BINI",
-          "url": "https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga"
-        }
-      ],
-      "duration_ms": 180727,
-      "name": "Sweet Tooth",
-      "url": "https://open.spotify.com/track/4255eE0aWSyfbIWTpIE1qu"
-    },
-    {
-      "added_at": "2026-04-21 07:35:35",
-      "album": {
         "name": "i like just how you like me",
         "url": "https://open.spotify.com/album/6kmbGstkhw2sC5v1D41yoH"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 140689,
       "name": "i like just how you like me",
       "url": "https://open.spotify.com/track/5kJ45QtERi21dHsz2rrOyG"
+    },
+    {
+      "added_at": "2026-04-21 07:35:35",
+      "album": {
+        "name": "FLAMES",
+        "url": "https://open.spotify.com/album/42s2X3WQppxdHafUT2dfmF"
+      },
+      "artists": [
+        {
+          "name": "BINI",
+          "url": "https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga"
+        }
+      ],
+      "duration_ms": 180727,
+      "name": "Sweet Tooth",
+      "url": "https://open.spotify.com/track/4255eE0aWSyfbIWTpIE1qu"
     },
     {
       "added_at": "2026-04-21 07:35:35",
@@ -1259,18 +1259,18 @@
     {
       "added_at": "2026-04-21 07:35:35",
       "album": {
-        "name": "I Love You Out Loud",
-        "url": "https://open.spotify.com/album/4duEYFqitqYj9e7jD2B80M"
+        "name": "pretty",
+        "url": "https://open.spotify.com/album/2xpgb8R0BXVS2e1XnXI9xZ"
       },
       "artists": [
         {
-          "name": "Larissa Lambert",
-          "url": "https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47"
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
         }
       ],
-      "duration_ms": 213023,
-      "name": "I Love You Out Loud",
-      "url": "https://open.spotify.com/track/7svayygEZXPdOBQ2MoH2ZP"
+      "duration_ms": 166849,
+      "name": "breath away",
+      "url": "https://open.spotify.com/track/1oic0Wedm3XeHxwaxmwO91"
     }
   ],
   "unique_name": "crush",

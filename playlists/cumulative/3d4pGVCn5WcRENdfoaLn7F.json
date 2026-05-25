@@ -2745,6 +2745,24 @@
     },
     {
       "album": {
+        "name": "Just Kids",
+        "url": "https://open.spotify.com/album/7l7Zykod8wQDXnpXridxy8"
+      },
+      "artists": [
+        {
+          "name": "The Homme",
+          "url": "https://open.spotify.com/artist/4U836xTjRfFYfYctNxJFmm"
+        }
+      ],
+      "date_added": "2026-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226352,
+      "name": "Just Kids",
+      "url": "https://open.spotify.com/track/3L37KpIq1wOhstRffRSFUf"
+    },
+    {
+      "album": {
         "name": "Just Let It Go",
         "url": "https://open.spotify.com/album/50TsgNRCRfPWhO8dy9YERH"
       },

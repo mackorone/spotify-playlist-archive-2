@@ -1,6 +1,6 @@
 {
   "description": "The new wave of Garage - an evolution of the classic UK dancefloor sound. Cover: J Wax",
-  "num_followers": 105189,
+  "num_followers": 105210,
   "original_name": "New UK Garage",
   "owner": {
     "name": "Spotify",
@@ -579,6 +579,22 @@
     {
       "added_at": "2026-05-21 23:00:30",
       "album": {
+        "name": "What's A Girl To Do (feat. DRIIA)",
+        "url": "https://open.spotify.com/album/3XRAWTnyUDiIA3LSfgxBfi"
+      },
+      "artists": [
+        {
+          "name": "IsGwan",
+          "url": "https://open.spotify.com/artist/6Ma2SwwsytVh9Uq915R5Mz"
+        }
+      ],
+      "duration_ms": 221642,
+      "name": "What's A Girl To Do",
+      "url": "https://open.spotify.com/track/189M4F08qXZh02rjz8Qsdy"
+    },
+    {
+      "added_at": "2026-05-21 23:00:30",
+      "album": {
         "name": "XTZY",
         "url": "https://open.spotify.com/album/6tRhAkDXXNQgHUpy00cGZo"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 167492,
       "name": "XTZY",
       "url": "https://open.spotify.com/track/7vpT5MttwN5SRk0eTqECQr"
-    },
-    {
-      "added_at": "2026-05-21 23:00:30",
-      "album": {
-        "name": "What's A Girl To Do (feat. DRIIA)",
-        "url": "https://open.spotify.com/album/3XRAWTnyUDiIA3LSfgxBfi"
-      },
-      "artists": [
-        {
-          "name": "IsGwan",
-          "url": "https://open.spotify.com/artist/6Ma2SwwsytVh9Uq915R5Mz"
-        }
-      ],
-      "duration_ms": 221642,
-      "name": "What's A Girl To Do",
-      "url": "https://open.spotify.com/track/189M4F08qXZh02rjz8Qsdy"
     },
     {
       "added_at": "2026-05-21 23:00:30",
@@ -883,30 +883,6 @@
     {
       "added_at": "2026-05-21 23:00:30",
       "album": {
-        "name": "Lose My Mind",
-        "url": "https://open.spotify.com/album/1dkMg6enDSv6bjEBBqnt8c"
-      },
-      "artists": [
-        {
-          "name": "Champion",
-          "url": "https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR"
-        },
-        {
-          "name": "Interplanetary Criminal",
-          "url": "https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI"
-        },
-        {
-          "name": "Crookers",
-          "url": "https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C"
-        }
-      ],
-      "duration_ms": 199411,
-      "name": "Lose My Mind",
-      "url": "https://open.spotify.com/track/1LdRvKZka9ZHunz6eoH5B9"
-    },
-    {
-      "added_at": "2026-05-21 23:00:30",
-      "album": {
         "name": "Supa Smoov (Bumpa's Xtra Smoov Mix)",
         "url": "https://open.spotify.com/album/0S1uf6gfZYHzSjkhHcsSWf"
       },
@@ -927,6 +903,30 @@
       "duration_ms": 163555,
       "name": "Supa Smoov - Bumpa's Xtra Smoov Mix",
       "url": "https://open.spotify.com/track/3qcZkQELHhpYTMYWPM1BT7"
+    },
+    {
+      "added_at": "2026-05-21 23:00:30",
+      "album": {
+        "name": "Lose My Mind",
+        "url": "https://open.spotify.com/album/1dkMg6enDSv6bjEBBqnt8c"
+      },
+      "artists": [
+        {
+          "name": "Champion",
+          "url": "https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR"
+        },
+        {
+          "name": "Interplanetary Criminal",
+          "url": "https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI"
+        },
+        {
+          "name": "Crookers",
+          "url": "https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C"
+        }
+      ],
+      "duration_ms": 199411,
+      "name": "Lose My Mind",
+      "url": "https://open.spotify.com/track/1LdRvKZka9ZHunz6eoH5B9"
     },
     {
       "added_at": "2026-05-21 23:00:30",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2026-05-21 23:00:30",
       "album": {
+        "name": "Melon",
+        "url": "https://open.spotify.com/album/6zlg3V43JYvY7HMhFsv6D3"
+      },
+      "artists": [
+        {
+          "name": "Lockerz",
+          "url": "https://open.spotify.com/artist/1LuS7XrtiwtzvdAnZPC6BN"
+        }
+      ],
+      "duration_ms": 207761,
+      "name": "Melon",
+      "url": "https://open.spotify.com/track/3z9QZsBbiHrYi25dsxKG3M"
+    },
+    {
+      "added_at": "2026-05-21 23:00:30",
+      "album": {
         "name": "Motion Sickness",
         "url": "https://open.spotify.com/album/0WfMQgxZsTquXJbqmj4Nj8"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 200571,
       "name": "Motion Sickness",
       "url": "https://open.spotify.com/track/1XWmqyDgC9pZfAjkgMmj18"
-    },
-    {
-      "added_at": "2026-05-21 23:00:30",
-      "album": {
-        "name": "Melon",
-        "url": "https://open.spotify.com/album/6zlg3V43JYvY7HMhFsv6D3"
-      },
-      "artists": [
-        {
-          "name": "Lockerz",
-          "url": "https://open.spotify.com/artist/1LuS7XrtiwtzvdAnZPC6BN"
-        }
-      ],
-      "duration_ms": 207761,
-      "name": "Melon",
-      "url": "https://open.spotify.com/track/3z9QZsBbiHrYi25dsxKG3M"
     },
     {
       "added_at": "2026-05-21 23:00:30",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2026-05-21 23:00:30",
       "album": {
-        "name": "See Thru",
-        "url": "https://open.spotify.com/album/0Dgr5QpgjUOa45upuXnCXO"
-      },
-      "artists": [
-        {
-          "name": "Megan Wroe",
-          "url": "https://open.spotify.com/artist/2wIBVipx8Fv5orv4uzPW4C"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "See Thru",
-      "url": "https://open.spotify.com/track/5bt6nQxl5CP7gfz4JSqGR5"
-    },
-    {
-      "added_at": "2026-05-21 23:00:30",
-      "album": {
         "name": "Big Truck",
         "url": "https://open.spotify.com/album/090rtFIJpMnIczAXQWlHmi"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 111428,
       "name": "Big Truck",
       "url": "https://open.spotify.com/track/7l5BqPuW0i8ZTqfTgH5oxn"
+    },
+    {
+      "added_at": "2026-05-21 23:00:30",
+      "album": {
+        "name": "See Thru",
+        "url": "https://open.spotify.com/album/0Dgr5QpgjUOa45upuXnCXO"
+      },
+      "artists": [
+        {
+          "name": "Megan Wroe",
+          "url": "https://open.spotify.com/artist/2wIBVipx8Fv5orv4uzPW4C"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "See Thru",
+      "url": "https://open.spotify.com/track/5bt6nQxl5CP7gfz4JSqGR5"
     },
     {
       "added_at": "2026-05-21 23:00:30",

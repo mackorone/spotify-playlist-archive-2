@@ -5173,6 +5173,24 @@
     },
     {
       "album": {
+        "name": "MIDNIGHT WHEELS",
+        "url": "https://open.spotify.com/album/221cfYszp8e0WF8ltJp5Ns"
+      },
+      "artists": [
+        {
+          "name": "MARYLANE",
+          "url": "https://open.spotify.com/artist/5r45fyB9QJhHBZHinKcqyY"
+        }
+      ],
+      "date_added": "2026-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278560,
+      "name": "MIDNIGHT WHEELS",
+      "url": "https://open.spotify.com/track/3OWpxlReVR8TdHPhAQyxY9"
+    },
+    {
+      "album": {
         "name": "Might",
         "url": "https://open.spotify.com/album/3kzrk1s5s52bPX4RJlXBme"
       },
@@ -7558,6 +7576,28 @@
       "duration_ms": 221858,
       "name": "Sorry Not Sorry",
       "url": "https://open.spotify.com/track/4qBf2gBewjF1tnoUzR6n3g"
+    },
+    {
+      "album": {
+        "name": "Sparks in this Town",
+        "url": "https://open.spotify.com/album/4WXHNk60Qd7lnwzWpjgsAZ"
+      },
+      "artists": [
+        {
+          "name": "Fionn Camp",
+          "url": "https://open.spotify.com/artist/2zlENRxJLJxwUaKpKBT38L"
+        },
+        {
+          "name": "Brandon Bing",
+          "url": "https://open.spotify.com/artist/3iZ4FWTAjIRDhQI9El9dlR"
+        }
+      ],
+      "date_added": "2026-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223181,
+      "name": "Sparks in this Town",
+      "url": "https://open.spotify.com/track/3RqIdENWmSSxFVbkAYNFnZ"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2tnu2T.md) - [plain]
 
 > This is Absolutely\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,230 likes - 26 songs - 1 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,239 likes - 26 songs - 1 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,4 +35,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2tnu2T.md) - [plain]
 | 25 | [Daylight](https://open.spotify.com/track/5gFQ0Gt2IO9qsf5z8LClso) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [CEREBRUM](https://open.spotify.com/album/3NY3LrCmVkMoUKrAc9wSPQ) | 3:31 |
 | 26 | [Glass](https://open.spotify.com/track/4DHMDRYAzaFq3k1STg2qSb) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [CEREBRUM](https://open.spotify.com/album/3NY3LrCmVkMoUKrAc9wSPQ) | 3:18 |
 
-Snapshot ID: `ag+cgAAAAAD81LtsSFhahmU8gbiL2xPz`
+Snapshot ID: `ahDuAAAAAABWH7l+7f9syfY3I2S3QOxN`

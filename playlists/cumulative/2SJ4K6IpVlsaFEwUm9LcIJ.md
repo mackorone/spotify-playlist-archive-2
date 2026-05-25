@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to: may\-june 2026 \(previous playlists archived on my profile\)
 
-1,012 songs - 2 day 13 hr 21 min
+1,014 songs - 2 day 13 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -243,6 +243,7 @@
 | [Early Morning Play Ground](https://open.spotify.com/track/0PyPskqahKHpjkkocj5Xtv) | [red go\-cart](https://open.spotify.com/artist/3bh4sa1uDFgiarsXJtqv2z) | [Very Beginning of Red Go\-Cart](https://open.spotify.com/album/63BMtPFOOm2sqMkdEID25P) | 2:17 | 2026-04-23 | 2026-05-06 |
 | [Ease the Work](https://open.spotify.com/track/71YNoaT0JZ1UUqX00lluRp) | [Hour](https://open.spotify.com/artist/4o9osC05KC6Gayy2WN78p3) | [Ease the Work](https://open.spotify.com/album/6NjKoUqVBjCROQR34U1iE0) | 3:54 | 2024-07-17 | 2024-09-08 |
 | [Easy](https://open.spotify.com/track/7ljOUUgZGtG5euoSjAwBKU) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [Big city life](https://open.spotify.com/album/6C14WjZp4TYn9AXkhdx5Qd) | 3:15 | 2025-05-23 | 2025-07-04 |
+| [Easy to Be Around](https://open.spotify.com/track/6KfTmqUnDOoiLFBofHtHk0) | [Diane Cluck](https://open.spotify.com/artist/6Luf1q47JKj9GmkUuV4cj5) | [Oh Vanille / Ova Nil](https://open.spotify.com/album/5RKz0BpZamfsNAkeVZZ2th) | 3:37 | 2026-05-24 |  |
 | [Echo](https://open.spotify.com/track/3ypXaNibspfxvUIKpzUkfz) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [Morning View](https://open.spotify.com/album/1rQZbncicoXyB64DqoH7OY) | 3:34 | 2025-07-27 | 2025-09-11 |
 | [Echo Tricks Me](https://open.spotify.com/track/5FYdwJ6ZFmB8o5LTdeyiNR) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ) | [PHASOR](https://open.spotify.com/album/0iIfsqcMuRwzmseYvSZw9S) | 4:09 | 2024-02-09 | 2024-03-10 |
 | [Elastic Dance](https://open.spotify.com/track/0WteRY4jMvEd1zEAdmlfhe) | [African Head Charge](https://open.spotify.com/artist/4eOZAQytg3U2l0WTClghDQ) | [My Life In A Hole In The Ground](https://open.spotify.com/album/39ritWVnJCxRNhyj8mRSI8) | 3:58 | 2025-03-01 | 2025-05-09 |
@@ -740,6 +741,7 @@
 | [Sambinha](https://open.spotify.com/track/2EHXd5o9sBnGRhgSxULQYJ) | [Tenorio Jr.](https://open.spotify.com/artist/5RYHqDtvrm4QLsvcoOHmR9) | [Embalo](https://open.spotify.com/album/6nSnQ6vyh0glT2MqpLQmsO) | 2:44 | 2025-06-25 | 2025-07-04 |
 | [SAME THING](https://open.spotify.com/track/5z3s5KcMf7rIItfjGJoWqF) | [LUCY \(Cooper B\. Handy\)](https://open.spotify.com/artist/16j0wVUk9UOoYEDknfb9rK), [SURF GANG](https://open.spotify.com/artist/0rTeZQSxEg1XzZ1dFz6Moz) | [SAME THING](https://open.spotify.com/album/11Fi8BwZJ7bb9U5a37VM6x) | 1:49 | 2024-06-24 | 2024-07-12 |
 | [Sandhills](https://open.spotify.com/track/6dBkJ5LGEm5oaR3CxAR7yg) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Sandhills](https://open.spotify.com/album/1ZTd9cM6FPWW4ZP0qUwhpF) | 3:15 | 2024-04-27 | 2024-05-16 |
+| [Sandy Ree](https://open.spotify.com/track/0tdA1KH9iQVWbKxR7X4JuZ) | [Diane Cluck](https://open.spotify.com/artist/6Luf1q47JKj9GmkUuV4cj5) | [Oh Vanille / Ova Nil](https://open.spotify.com/album/5RKz0BpZamfsNAkeVZZ2th) | 3:21 | 2026-05-24 |  |
 | [Sarra](https://open.spotify.com/track/1jE72J1IkFypVBhAt4EnIv) | [Gary Davenport](https://open.spotify.com/artist/49c7NHtdbavJhYgbbSMqDN) | [Scattered Thoughts](https://open.spotify.com/album/5ESXATt30MXodjyyubLgx2) | 5:04 | 2025-11-20 | 2026-01-15 |
 | [Schoolyard](https://open.spotify.com/track/5M6OssO7gXnLr6n3NwJwfa) | [Purr](https://open.spotify.com/artist/25AQuae8HK3syxqOJuODit) | [Whales Lead to the Deep Sea](https://open.spotify.com/album/39UFo0EWgnNRGq6vnITFwr) | 4:52 | 2025-02-14 | 2025-03-02 |
 | [Secant](https://open.spotify.com/track/5xQi0S19LLAy7EXIapTYY0) | [Akusmi](https://open.spotify.com/artist/34uth6SLb5I9CKoCBMqDPS) | [Secant](https://open.spotify.com/album/1j63BB3wTzgbKJPvlup2ov) | 6:49 | 2024-09-30 | 2024-11-14 |

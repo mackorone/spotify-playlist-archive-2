@@ -1,6 +1,6 @@
 {
   "description": "The easy listening sound of Jazz. Cover: Norah Jones",
-  "num_followers": 719485,
+  "num_followers": 719678,
   "original_name": "Easy Jazz",
   "owner": {
     "name": "Spotify",
@@ -431,22 +431,6 @@
     {
       "added_at": "2026-05-22 09:39:37",
       "album": {
-        "name": "On The Moon",
-        "url": "https://open.spotify.com/album/7HFqV8NOZJ4fWXbz79tvws"
-      },
-      "artists": [
-        {
-          "name": "Peter Cincotti",
-          "url": "https://open.spotify.com/artist/1PjKnsWzJra4dV8OXiNC5F"
-        }
-      ],
-      "duration_ms": 212426,
-      "name": "Some Kind Of Wonderful",
-      "url": "https://open.spotify.com/track/1bDQlSam1rz9QQYzXzmFr9"
-    },
-    {
-      "added_at": "2026-05-22 09:39:37",
-      "album": {
         "name": "Mother and Brother",
         "url": "https://open.spotify.com/album/5fjoxztU1qKAYHLgHiFh6o"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 219773,
       "name": "The Sun Is Shining for Our Love",
       "url": "https://open.spotify.com/track/1TT7MMEeEz2W4jxaQxU7lZ"
+    },
+    {
+      "added_at": "2026-05-22 09:39:37",
+      "album": {
+        "name": "On The Moon",
+        "url": "https://open.spotify.com/album/7HFqV8NOZJ4fWXbz79tvws"
+      },
+      "artists": [
+        {
+          "name": "Peter Cincotti",
+          "url": "https://open.spotify.com/artist/1PjKnsWzJra4dV8OXiNC5F"
+        }
+      ],
+      "duration_ms": 212426,
+      "name": "Some Kind Of Wonderful",
+      "url": "https://open.spotify.com/track/1bDQlSam1rz9QQYzXzmFr9"
     },
     {
       "added_at": "2026-05-22 09:39:37",
@@ -639,22 +639,6 @@
     {
       "added_at": "2026-05-22 09:39:37",
       "album": {
-        "name": "Grace",
-        "url": "https://open.spotify.com/album/2U1zLHhEmPFEOoZTezdXQg"
-      },
-      "artists": [
-        {
-          "name": "Lizz Wright",
-          "url": "https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW"
-        }
-      ],
-      "duration_ms": 232280,
-      "name": "Stars Fell On Alabama",
-      "url": "https://open.spotify.com/track/3q634ZiAdA9bcg135bdJxo"
-    },
-    {
-      "added_at": "2026-05-22 09:39:37",
-      "album": {
         "name": "Light Out Of Darkness (A Tribute To Ray Charles)",
         "url": "https://open.spotify.com/album/1lSUbhc28a8hfMmaXQH7fc"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 191826,
       "name": "Hit The Road Jack",
       "url": "https://open.spotify.com/track/3Ix0grk4L4iofIaYRTWR7S"
+    },
+    {
+      "added_at": "2026-05-22 09:39:37",
+      "album": {
+        "name": "Grace",
+        "url": "https://open.spotify.com/album/2U1zLHhEmPFEOoZTezdXQg"
+      },
+      "artists": [
+        {
+          "name": "Lizz Wright",
+          "url": "https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW"
+        }
+      ],
+      "duration_ms": 232280,
+      "name": "Stars Fell On Alabama",
+      "url": "https://open.spotify.com/track/3q634ZiAdA9bcg135bdJxo"
     },
     {
       "added_at": "2026-05-22 09:39:37",
@@ -719,22 +719,6 @@
     {
       "added_at": "2026-05-22 09:39:37",
       "album": {
-        "name": "Dreaming Wide Awake",
-        "url": "https://open.spotify.com/album/7AhMtlYN5CdfxJPVYzbjA9"
-      },
-      "artists": [
-        {
-          "name": "Lizz Wright",
-          "url": "https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW"
-        }
-      ],
-      "duration_ms": 178240,
-      "name": "I'm Confessin'",
-      "url": "https://open.spotify.com/track/5mgx7i86Ei9kDDrbm9LrRn"
-    },
-    {
-      "added_at": "2026-05-22 09:39:37",
-      "album": {
         "name": "The Complete Great American Songbook",
         "url": "https://open.spotify.com/album/3xUOObdRU9f2wblHafYx0j"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 186880,
       "name": "I'm In The Mood For Love",
       "url": "https://open.spotify.com/track/7s5Xd6BLaZfkr6C3tgR4Ow"
+    },
+    {
+      "added_at": "2026-05-22 09:39:37",
+      "album": {
+        "name": "Dreaming Wide Awake",
+        "url": "https://open.spotify.com/album/7AhMtlYN5CdfxJPVYzbjA9"
+      },
+      "artists": [
+        {
+          "name": "Lizz Wright",
+          "url": "https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW"
+        }
+      ],
+      "duration_ms": 178240,
+      "name": "I'm Confessin'",
+      "url": "https://open.spotify.com/track/5mgx7i86Ei9kDDrbm9LrRn"
     },
     {
       "added_at": "2026-05-22 09:39:37",
@@ -967,6 +967,22 @@
     {
       "added_at": "2026-05-22 09:39:37",
       "album": {
+        "name": "They Oughta Write a Song",
+        "url": "https://open.spotify.com/album/2u0m5eHHen8w42k7lZB46i"
+      },
+      "artists": [
+        {
+          "name": "Halie Loren",
+          "url": "https://open.spotify.com/artist/1Fcd5av0AI3xn05b3hrQfI"
+        }
+      ],
+      "duration_ms": 283026,
+      "name": "A Whiter Shade of Pale",
+      "url": "https://open.spotify.com/track/39hPwPyP8GMOSnfS9tJ4qH"
+    },
+    {
+      "added_at": "2026-05-22 09:39:37",
+      "album": {
         "name": "Suzanne",
         "url": "https://open.spotify.com/album/6ZzCxDsaWHAK4kKcjep4iQ"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 273626,
       "name": "Suzanne (feat. Gregory Porter)",
       "url": "https://open.spotify.com/track/2IYWqinJpFhid2qRqnqPDA"
-    },
-    {
-      "added_at": "2026-05-22 09:39:37",
-      "album": {
-        "name": "They Oughta Write a Song",
-        "url": "https://open.spotify.com/album/2u0m5eHHen8w42k7lZB46i"
-      },
-      "artists": [
-        {
-          "name": "Halie Loren",
-          "url": "https://open.spotify.com/artist/1Fcd5av0AI3xn05b3hrQfI"
-        }
-      ],
-      "duration_ms": 283026,
-      "name": "A Whiter Shade of Pale",
-      "url": "https://open.spotify.com/track/39hPwPyP8GMOSnfS9tJ4qH"
     },
     {
       "added_at": "2026-05-22 09:39:37",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2026-05-22 09:39:37",
       "album": {
-        "name": "Castles in the Air",
-        "url": "https://open.spotify.com/album/1gqx5mQl7BM8A1j5QtZt0S"
-      },
-      "artists": [
-        {
-          "name": "Laura & Anton",
-          "url": "https://open.spotify.com/artist/5zhAV9E0xJDguU5SBk39Zy"
-        }
-      ],
-      "duration_ms": 233848,
-      "name": "Castles in the Air",
-      "url": "https://open.spotify.com/track/2EHOINS6ULWahXvResI7mo"
-    },
-    {
-      "added_at": "2026-05-22 09:39:37",
-      "album": {
         "name": "Yours",
         "url": "https://open.spotify.com/album/2Xe4xUaQClQbY5KN9OBaZM"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 214893,
       "name": "You Are My Sunshine",
       "url": "https://open.spotify.com/track/2bAdCQPyUANc4oxnR7ZsfI"
+    },
+    {
+      "added_at": "2026-05-22 09:39:37",
+      "album": {
+        "name": "Castles in the Air",
+        "url": "https://open.spotify.com/album/1gqx5mQl7BM8A1j5QtZt0S"
+      },
+      "artists": [
+        {
+          "name": "Laura & Anton",
+          "url": "https://open.spotify.com/artist/5zhAV9E0xJDguU5SBk39Zy"
+        }
+      ],
+      "duration_ms": 233848,
+      "name": "Castles in the Air",
+      "url": "https://open.spotify.com/track/2EHOINS6ULWahXvResI7mo"
     },
     {
       "added_at": "2026-05-22 09:39:37",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2026-05-22 09:39:37",
       "album": {
+        "name": "Passion World",
+        "url": "https://open.spotify.com/album/2pSQtV2WOa5tKWhaFaZqBi"
+      },
+      "artists": [
+        {
+          "name": "Kurt Elling",
+          "url": "https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61"
+        }
+      ],
+      "duration_ms": 492520,
+      "name": "La Vie En Rose",
+      "url": "https://open.spotify.com/track/6kEi3816EhM1usV0W3DWGD"
+    },
+    {
+      "added_at": "2026-05-22 09:39:37",
+      "album": {
         "name": "On Vacation",
         "url": "https://open.spotify.com/album/0lkjkN4nOGZeFr0hxaMQDY"
       },
@@ -1275,22 +1291,6 @@
       "duration_ms": 326729,
       "name": "Save Your Love for Me",
       "url": "https://open.spotify.com/track/3aqnw5JOWwyLli3SPAwtc1"
-    },
-    {
-      "added_at": "2026-05-22 09:39:37",
-      "album": {
-        "name": "Passion World",
-        "url": "https://open.spotify.com/album/2pSQtV2WOa5tKWhaFaZqBi"
-      },
-      "artists": [
-        {
-          "name": "Kurt Elling",
-          "url": "https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61"
-        }
-      ],
-      "duration_ms": 492520,
-      "name": "La Vie En Rose",
-      "url": "https://open.spotify.com/track/6kEi3816EhM1usV0W3DWGD"
     },
     {
       "added_at": "2026-05-22 09:39:37",
@@ -1459,18 +1459,22 @@
     {
       "added_at": "2026-05-22 09:39:37",
       "album": {
-        "name": "Lucky",
-        "url": "https://open.spotify.com/album/5vcx9N4JdtWLR0ewlPIHdy"
+        "name": "I Will Wait for You (with Nils Landgren & FleshQuartet)",
+        "url": "https://open.spotify.com/album/3qZhst0qZ2bq0VXr135meE"
       },
       "artists": [
         {
-          "name": "Molly Johnson",
-          "url": "https://open.spotify.com/artist/0OhbmRARz9nrChla8W2OGU"
+          "name": "Rigmor Gustafsson",
+          "url": "https://open.spotify.com/artist/4PVhLylgFzJbW165GuwMzU"
+        },
+        {
+          "name": "Nils Landgren",
+          "url": "https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP"
         }
       ],
-      "duration_ms": 160626,
-      "name": "Lucky",
-      "url": "https://open.spotify.com/track/6JaM5Mg9evBEMXSYxEJAEX"
+      "duration_ms": 242666,
+      "name": "Fire and Rain",
+      "url": "https://open.spotify.com/track/4WQnAZU9ydRZ7XCwj4aEB5"
     },
     {
       "added_at": "2026-05-22 09:39:37",
@@ -1491,22 +1495,18 @@
     {
       "added_at": "2026-05-22 09:39:37",
       "album": {
-        "name": "I Will Wait for You (with Nils Landgren & FleshQuartet)",
-        "url": "https://open.spotify.com/album/3qZhst0qZ2bq0VXr135meE"
+        "name": "Lucky",
+        "url": "https://open.spotify.com/album/5vcx9N4JdtWLR0ewlPIHdy"
       },
       "artists": [
         {
-          "name": "Rigmor Gustafsson",
-          "url": "https://open.spotify.com/artist/4PVhLylgFzJbW165GuwMzU"
-        },
-        {
-          "name": "Nils Landgren",
-          "url": "https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP"
+          "name": "Molly Johnson",
+          "url": "https://open.spotify.com/artist/0OhbmRARz9nrChla8W2OGU"
         }
       ],
-      "duration_ms": 242666,
-      "name": "Fire and Rain",
-      "url": "https://open.spotify.com/track/4WQnAZU9ydRZ7XCwj4aEB5"
+      "duration_ms": 160626,
+      "name": "Lucky",
+      "url": "https://open.spotify.com/track/6JaM5Mg9evBEMXSYxEJAEX"
     },
     {
       "added_at": "2026-05-22 09:39:37",
@@ -1599,22 +1599,22 @@
     {
       "added_at": "2026-05-22 09:39:37",
       "album": {
-        "name": "Misty Blue",
-        "url": "https://open.spotify.com/album/6p3WU83zSriSXPAMxGZRhQ"
+        "name": "It's Oh So Quiet",
+        "url": "https://open.spotify.com/album/6C6nBYHDXsWFUAp7D45Pwv"
       },
       "artists": [
         {
-          "name": "Maria Kim",
-          "url": "https://open.spotify.com/artist/6xjz1I1bvEizO8r7S6VncB"
+          "name": "Lyambiko",
+          "url": "https://open.spotify.com/artist/6ffhnheAv6MHO3B0ybBpnK"
         },
         {
-          "name": "Benny Benack III",
-          "url": "https://open.spotify.com/artist/4qinsDOSZCJRirJq6Pm8SG"
+          "name": "WDR Funkhausorchester",
+          "url": "https://open.spotify.com/artist/24dGgI2Wdq3EF0oqq3lhM9"
         }
       ],
-      "duration_ms": 320100,
-      "name": "You're Mine, You (feat. Benny Benack III)",
-      "url": "https://open.spotify.com/track/5yLgk5IBFonUyOUuFoBY16"
+      "duration_ms": 228174,
+      "name": "It's Oh So Quiet",
+      "url": "https://open.spotify.com/track/0HRkVSOxjs9qdvAUKc603s"
     },
     {
       "added_at": "2026-05-22 09:39:37",
@@ -1639,22 +1639,22 @@
     {
       "added_at": "2026-05-22 09:39:37",
       "album": {
-        "name": "It's Oh So Quiet",
-        "url": "https://open.spotify.com/album/6C6nBYHDXsWFUAp7D45Pwv"
+        "name": "Misty Blue",
+        "url": "https://open.spotify.com/album/6p3WU83zSriSXPAMxGZRhQ"
       },
       "artists": [
         {
-          "name": "Lyambiko",
-          "url": "https://open.spotify.com/artist/6ffhnheAv6MHO3B0ybBpnK"
+          "name": "Maria Kim",
+          "url": "https://open.spotify.com/artist/6xjz1I1bvEizO8r7S6VncB"
         },
         {
-          "name": "WDR Funkhausorchester",
-          "url": "https://open.spotify.com/artist/24dGgI2Wdq3EF0oqq3lhM9"
+          "name": "Benny Benack III",
+          "url": "https://open.spotify.com/artist/4qinsDOSZCJRirJq6Pm8SG"
         }
       ],
-      "duration_ms": 228174,
-      "name": "It's Oh So Quiet",
-      "url": "https://open.spotify.com/track/0HRkVSOxjs9qdvAUKc603s"
+      "duration_ms": 320100,
+      "name": "You're Mine, You (feat. Benny Benack III)",
+      "url": "https://open.spotify.com/track/5yLgk5IBFonUyOUuFoBY16"
     },
     {
       "added_at": "2026-05-22 09:39:37",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2026-05-22 09:39:37",
       "album": {
-        "name": "I Only Have Eyes For You",
-        "url": "https://open.spotify.com/album/131VG5VwoQVANxBMPQ5fZF"
-      },
-      "artists": [
-        {
-          "name": "Chris Weeks",
-          "url": "https://open.spotify.com/artist/1L1rPFMZ3V9GktNny7JkVO"
-        }
-      ],
-      "duration_ms": 250745,
-      "name": "I Only Have Eyes For You",
-      "url": "https://open.spotify.com/track/7JiRVbyQC6P4tiP4ODmrXo"
-    },
-    {
-      "added_at": "2026-05-22 09:39:37",
-      "album": {
         "name": "I've Got You Under My Skin",
         "url": "https://open.spotify.com/album/4ygkbddQCe8tUTaaRdpppP"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 209848,
       "name": "I've Got You Under My Skin",
       "url": "https://open.spotify.com/track/0YtdBOitNPB7oYgLvm2z8g"
+    },
+    {
+      "added_at": "2026-05-22 09:39:37",
+      "album": {
+        "name": "I Only Have Eyes For You",
+        "url": "https://open.spotify.com/album/131VG5VwoQVANxBMPQ5fZF"
+      },
+      "artists": [
+        {
+          "name": "Chris Weeks",
+          "url": "https://open.spotify.com/artist/1L1rPFMZ3V9GktNny7JkVO"
+        }
+      ],
+      "duration_ms": 250745,
+      "name": "I Only Have Eyes For You",
+      "url": "https://open.spotify.com/track/7JiRVbyQC6P4tiP4ODmrXo"
     },
     {
       "added_at": "2026-05-22 09:39:37",
@@ -1735,6 +1735,22 @@
       "duration_ms": 283413,
       "name": "Mr. Bojangles",
       "url": "https://open.spotify.com/track/3vUiGKmDz5Nef45PoYvrgh"
+    },
+    {
+      "added_at": "2026-05-22 09:39:37",
+      "album": {
+        "name": "Lips Can Lie",
+        "url": "https://open.spotify.com/album/6LvGAaHEC2H8zl4K5DOtBM"
+      },
+      "artists": [
+        {
+          "name": "Karen Souza",
+          "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
+        }
+      ],
+      "duration_ms": 229596,
+      "name": "Lips Can Lie",
+      "url": "https://open.spotify.com/track/0fhfZFkNjIlCgpQSoazP2M"
     },
     {
       "added_at": "2026-05-22 09:39:37",
@@ -1787,22 +1803,6 @@
       "duration_ms": 280312,
       "name": "The Shadow of Your Smile",
       "url": "https://open.spotify.com/track/3f8XyknPqIZStelk8c04tE"
-    },
-    {
-      "added_at": "2026-05-22 09:39:37",
-      "album": {
-        "name": "Lips Can Lie",
-        "url": "https://open.spotify.com/album/6LvGAaHEC2H8zl4K5DOtBM"
-      },
-      "artists": [
-        {
-          "name": "Karen Souza",
-          "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
-        }
-      ],
-      "duration_ms": 229596,
-      "name": "Lips Can Lie",
-      "url": "https://open.spotify.com/track/0fhfZFkNjIlCgpQSoazP2M"
     },
     {
       "added_at": "2026-05-22 09:39:37",
@@ -1971,6 +1971,34 @@
     {
       "added_at": "2026-05-22 09:39:37",
       "album": {
+        "name": "Burgundy",
+        "url": "https://open.spotify.com/album/0kKAsVURzU5scFPBk5wU9p"
+      },
+      "artists": [
+        {
+          "name": "Lauren Henderson",
+          "url": "https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l"
+        },
+        {
+          "name": "Sullivan Fortner",
+          "url": "https://open.spotify.com/artist/2kQZjl1wnD42U6rKhAHmz5"
+        },
+        {
+          "name": "Dezron Douglas",
+          "url": "https://open.spotify.com/artist/3HtyiTNRFO5HOPU5Cj3at7"
+        },
+        {
+          "name": "Joe Dyson",
+          "url": "https://open.spotify.com/artist/62eXeNUScwDhx0IsHwfxKS"
+        }
+      ],
+      "duration_ms": 260144,
+      "name": "Burgundy",
+      "url": "https://open.spotify.com/track/5sgaaqksfnewIky3AUrYFI"
+    },
+    {
+      "added_at": "2026-05-22 09:39:37",
+      "album": {
         "name": "Still Life",
         "url": "https://open.spotify.com/album/0Yly6QXR76EpiQtG51yenm"
       },
@@ -2079,34 +2107,6 @@
     {
       "added_at": "2026-05-22 09:39:37",
       "album": {
-        "name": "Burgundy",
-        "url": "https://open.spotify.com/album/0kKAsVURzU5scFPBk5wU9p"
-      },
-      "artists": [
-        {
-          "name": "Lauren Henderson",
-          "url": "https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l"
-        },
-        {
-          "name": "Sullivan Fortner",
-          "url": "https://open.spotify.com/artist/2kQZjl1wnD42U6rKhAHmz5"
-        },
-        {
-          "name": "Dezron Douglas",
-          "url": "https://open.spotify.com/artist/3HtyiTNRFO5HOPU5Cj3at7"
-        },
-        {
-          "name": "Joe Dyson",
-          "url": "https://open.spotify.com/artist/62eXeNUScwDhx0IsHwfxKS"
-        }
-      ],
-      "duration_ms": 260144,
-      "name": "Burgundy",
-      "url": "https://open.spotify.com/track/5sgaaqksfnewIky3AUrYFI"
-    },
-    {
-      "added_at": "2026-05-22 09:39:37",
-      "album": {
         "name": "Lemons",
         "url": "https://open.spotify.com/album/3jzKOypFUMLgtgUutC0rY8"
       },
@@ -2195,6 +2195,22 @@
     {
       "added_at": "2026-05-22 09:39:37",
       "album": {
+        "name": "The Molly Johnson Songbook",
+        "url": "https://open.spotify.com/album/14ApZhAAcQQ3JFUlYatLEn"
+      },
+      "artists": [
+        {
+          "name": "Molly Johnson",
+          "url": "https://open.spotify.com/artist/0OhbmRARz9nrChla8W2OGU"
+        }
+      ],
+      "duration_ms": 205040,
+      "name": "But Not For Me",
+      "url": "https://open.spotify.com/track/2H26DBC5PrgzmBkvRHqmGx"
+    },
+    {
+      "added_at": "2026-05-22 09:39:37",
+      "album": {
         "name": "There Is No Future",
         "url": "https://open.spotify.com/album/29uDWhdwCQ3aC6NspRGkfV"
       },
@@ -2219,22 +2235,6 @@
       "duration_ms": 300826,
       "name": "There Is No Future",
       "url": "https://open.spotify.com/track/4GNxanwS4whzAEAwGg6xDK"
-    },
-    {
-      "added_at": "2026-05-22 09:39:37",
-      "album": {
-        "name": "The Molly Johnson Songbook",
-        "url": "https://open.spotify.com/album/14ApZhAAcQQ3JFUlYatLEn"
-      },
-      "artists": [
-        {
-          "name": "Molly Johnson",
-          "url": "https://open.spotify.com/artist/0OhbmRARz9nrChla8W2OGU"
-        }
-      ],
-      "duration_ms": 205040,
-      "name": "But Not For Me",
-      "url": "https://open.spotify.com/track/2H26DBC5PrgzmBkvRHqmGx"
     },
     {
       "added_at": "2026-05-22 09:39:37",

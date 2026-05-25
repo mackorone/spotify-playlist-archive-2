@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4szXk9xARLm.md) - [plain]
 
 > Your essential Ramadan Series songs! Cover: Ramy Sabry
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,252 likes - 60 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,258 likes - 60 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4szXk9xARLm.md) - [plain]
 | 28 | [باصه لقدام](https://open.spotify.com/track/4RIjRRRruXWFBTsqSQcKT2) | [Maha Ftouni](https://open.spotify.com/artist/2alZWWB8btL8F9NCeoR1Xn) | [باصه لقدام](https://open.spotify.com/album/7I4i1yuip9AW9ZqR6Nex51) | 3:49 |
 | 29 | [Millionaire \- Music from 100 Wesh TV Series](https://open.spotify.com/track/7vuO4IR9VCoXa1NvlgOISv) | [El Madfaagya](https://open.spotify.com/artist/7Dw6fBcDUSorbHGdg1gsub) | [Millionaire \(Music from 100 Wesh TV Series\)](https://open.spotify.com/album/6aA8kq3KuqnDQNlg0gVY0L) | 4:41 |
 | 30 | [اخوات \( مسلسل اولاد الراعي \)](https://open.spotify.com/track/5sVpQ01m4UtgUtfz8JAJ7b) | [Ibrahim Al Hakami](https://open.spotify.com/artist/1nkFB1AViz5JhlAB4RIUzh) | [اخوات \( مسلسل اولاد الراعي \)](https://open.spotify.com/album/6RrNsYTBtTXjgHGE6s0kNS) | 4:16 |
-| 31 | [واحشني نفسي \- تتر بدايه مسلسل جعفر العمده](https://open.spotify.com/track/1WxfSAzZvFpAskwfTQcd58) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [واحشني نفسي \(تتر بدايه مسلسل جعفر العمده\)](https://open.spotify.com/album/3NkID0eCtnmq4UIky0SfYe) | 3:51 |
-| 32 | [تربية حيه \(تتر مسلسل علي كلاي\)](https://open.spotify.com/track/1xl7SZhnqXn5yordCRTqdA) | [Yara Mohamed](https://open.spotify.com/artist/29nvzTxUgaF2Hjka84IgkD) | [تربية حيه \(تتر مسلسل علي كلاي\)](https://open.spotify.com/album/5DtWvEsLjdEV049XMAhElr) | 3:35 |
+| 31 | [تربية حيه \(تتر مسلسل علي كلاي\)](https://open.spotify.com/track/1xl7SZhnqXn5yordCRTqdA) | [Yara Mohamed](https://open.spotify.com/artist/29nvzTxUgaF2Hjka84IgkD) | [تربية حيه \(تتر مسلسل علي كلاي\)](https://open.spotify.com/album/5DtWvEsLjdEV049XMAhElr) | 3:35 |
+| 32 | [واحشني نفسي \- تتر بدايه مسلسل جعفر العمده](https://open.spotify.com/track/1WxfSAzZvFpAskwfTQcd58) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [واحشني نفسي \(تتر بدايه مسلسل جعفر العمده\)](https://open.spotify.com/album/3NkID0eCtnmq4UIky0SfYe) | 3:51 |
 | 33 | [Taht Sabeh Ared](https://open.spotify.com/track/0gH9krYOtjKAox1RIzc8BP) | [AL SHAMI](https://open.spotify.com/artist/597R32EkdYgLMf1tQcHF8k) | [Taht Sabeh Ared](https://open.spotify.com/album/4kWsTh3dTg3KykBmE8pmAp) | 3:14 |
 | 34 | [قالتلي لا لا \- من مسلسل العتاولة ٢](https://open.spotify.com/track/1570e9oi9j2eJflDGtkBX7) | [Eslam Saso](https://open.spotify.com/artist/5wqG0tvzxTrS4iGciGGIDk), [مصطفى ابو سريع](https://open.spotify.com/artist/33x0PBqHDjYcm5JpNlyK5d) | [قالتلي لا لا \(من مسلسل العتاولة ٢\)](https://open.spotify.com/album/11dWPCENI07626fPX39wJD) | 2:04 |
 | 35 | [على قد الحب](https://open.spotify.com/track/0lRT9EvCTvW9pQFZqxbDum) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [على قد الحب](https://open.spotify.com/album/22DrlBN2ME6ESMMLt7eMLH) | 3:24 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4szXk9xARLm.md) - [plain]
 | 46 | [Mabrouk](https://open.spotify.com/track/7f5j6xiIAFtuPrzxdGaoGz) | [Hatim Ammor](https://open.spotify.com/artist/32CwjdHMHSpEkC3UAyIwPp) | [Mabrouk](https://open.spotify.com/album/4mkwlYIgQ4zHk5Xkz6Ih96) | 2:37 |
 | 47 | [ياما نفسي اقولك \- من مسلسل عايشة الدور](https://open.spotify.com/track/59cwzz2NQK3P67tajUi05K) | [Donia Samir Ghanem](https://open.spotify.com/artist/1ieloBuwzXdMn9VPOufDvB) | [ياما نفسي اقولك \(من مسلسل عايشة الدور\)](https://open.spotify.com/album/6qSeWoOhTW8AfeH1Ox9Xth) | 3:03 |
 | 48 | [Etdaret](https://open.spotify.com/track/1ZIMGfxWPLxHSuSE4n4ac5) | [Sharnouby](https://open.spotify.com/artist/7zUEJRavunKtqi2n029IHn) | [Etdaret](https://open.spotify.com/album/2P84vDRWZnTXM3T8ijm6nE) | 3:43 |
-| 49 | [تعيش وتجرح \(من مسلسل علي كلاي\)](https://open.spotify.com/track/0kSArG59KlX6jJ6DOntupm) | [Yara Mohamed](https://open.spotify.com/artist/29nvzTxUgaF2Hjka84IgkD) | [تعيش وتجرح \(من مسلسل علي كلاي\)](https://open.spotify.com/album/2pwRgWHyD8acTHCFw8LXzU) | 2:07 |
-| 50 | [Al Kaysar](https://open.spotify.com/track/0NTIqYkabZBj6jlSSaGshQ) | [Assala](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Al Kaysar](https://open.spotify.com/album/2nLOFHz8g2kP99PX5HyKPQ) | 4:40 |
+| 49 | [Al Kaysar](https://open.spotify.com/track/0NTIqYkabZBj6jlSSaGshQ) | [Assala](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Al Kaysar](https://open.spotify.com/album/2nLOFHz8g2kP99PX5HyKPQ) | 4:40 |
+| 50 | [تعيش وتجرح \(من مسلسل علي كلاي\)](https://open.spotify.com/track/0kSArG59KlX6jJ6DOntupm) | [Yara Mohamed](https://open.spotify.com/artist/29nvzTxUgaF2Hjka84IgkD) | [تعيش وتجرح \(من مسلسل علي كلاي\)](https://open.spotify.com/album/2pwRgWHyD8acTHCFw8LXzU) | 2:07 |
 | 51 | [محدش مرتاح](https://open.spotify.com/track/0XdQriStcL1WXypbanUGbJ) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [محدش مرتاح](https://open.spotify.com/album/4osmODYCVbGqmWomQzQUAc) | 3:58 |
 | 52 | [Al Atawla Theme Song \(From Al Atawla Series Season 2\)](https://open.spotify.com/track/5IwnvJkaFtYMoX7r1JvWmV) | [Reda El Bahrawy](https://open.spotify.com/artist/3gCqbhXmiSto3R8U9YZcZM) | [Al Atawla Theme Song \(From Al Atawla Series Season 2\)](https://open.spotify.com/album/4WOWre299bgCLkY3UzqTmc) | 2:11 |
 | 53 | [زمن الكاش \- من مسلسل حد اقصى](https://open.spotify.com/track/3fJ1VawOuSN6pEVHk7WSDM) | [عمر الكروان](https://open.spotify.com/artist/7fy9dCQmfD23GoGEL23Uq7), [Ahmed Sheba](https://open.spotify.com/artist/7BugP3twaHMfVgDlgiEvLc) | [زمن الكاش \(من مسلسل حد اقصى\)](https://open.spotify.com/album/3eRDaBbzfVHWxjYtQr79nb) | 2:37 |

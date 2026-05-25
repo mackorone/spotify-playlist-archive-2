@@ -1,12 +1,12 @@
 {
   "description": "This is G Herbo. The essential tracks, all in one playlist.",
-  "num_followers": 35959,
+  "num_followers": 35964,
   "original_name": "This Is G Herbo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ag+cgAAAAACdDhzsG3Shr8SPC/wEgc6Q",
+  "snapshot_id": "ahDuAAAAAABqOxgByK/gM3xtgljhXrrC",
   "tracks": [
     {
       "added_at": null,
@@ -423,26 +423,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Zavier",
-        "url": "https://open.spotify.com/album/5ZcuJ1sGBS0tl32RnHUNx1"
-      },
-      "artists": [
-        {
-          "name": "Fetty Wap",
-          "url": "https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 328574,
-      "name": "I Remember/Dear Zavier (feat. G Herbo)",
-      "url": "https://open.spotify.com/track/4cuvj5fiaO0jAiodMUJHWp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Me vs. Myself",
         "url": "https://open.spotify.com/album/2vM2H6lyPfitmNZlc1Vrxv"
       },
@@ -459,6 +439,26 @@
       "duration_ms": 179209,
       "name": "Last Time (feat. G Herbo)",
       "url": "https://open.spotify.com/track/5rDt0wjt4BrYGrveWoIKXB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Zavier",
+        "url": "https://open.spotify.com/album/5ZcuJ1sGBS0tl32RnHUNx1"
+      },
+      "artists": [
+        {
+          "name": "Fetty Wap",
+          "url": "https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 328574,
+      "name": "I Remember/Dear Zavier (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/4cuvj5fiaO0jAiodMUJHWp"
     },
     {
       "added_at": null,
@@ -523,6 +523,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "PTSD",
+        "url": "https://open.spotify.com/album/14YY4ksyKkVbBsZ5TJt0Zr"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 164770,
+      "name": "High Speed",
+      "url": "https://open.spotify.com/track/6CibhjvNeSRJRy6XGshcZ4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "AREA 41",
         "url": "https://open.spotify.com/album/2Hn5BTivLqJy8bkKN3cUCI"
       },
@@ -555,18 +571,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "PTSD",
-        "url": "https://open.spotify.com/album/14YY4ksyKkVbBsZ5TJt0Zr"
+        "name": "Welcome to Fazoland",
+        "url": "https://open.spotify.com/album/5T1xg0VySf2wbzswK84Lbl"
       },
       "artists": [
         {
           "name": "G Herbo",
           "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "Lil Bibby",
+          "url": "https://open.spotify.com/artist/4uSN8Y3kgFNVULUWsZEAVW"
         }
       ],
-      "duration_ms": 164770,
-      "name": "High Speed",
-      "url": "https://open.spotify.com/track/6CibhjvNeSRJRy6XGshcZ4"
+      "duration_ms": 179444,
+      "name": "Kill Shit (feat. Lil Bibby) (Bonus Track)",
+      "url": "https://open.spotify.com/track/4DLO89J3G62BcXy6coIukw"
     },
     {
       "added_at": null,
@@ -587,26 +607,6 @@
       "duration_ms": 215000,
       "name": "Ain't Easy",
       "url": "https://open.spotify.com/track/3dTs6hT4HPJvcZcE6pU2Um"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Welcome to Fazoland",
-        "url": "https://open.spotify.com/album/5T1xg0VySf2wbzswK84Lbl"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        },
-        {
-          "name": "Lil Bibby",
-          "url": "https://open.spotify.com/artist/4uSN8Y3kgFNVULUWsZEAVW"
-        }
-      ],
-      "duration_ms": 179444,
-      "name": "Kill Shit (feat. Lil Bibby) (Bonus Track)",
-      "url": "https://open.spotify.com/track/4DLO89J3G62BcXy6coIukw"
     },
     {
       "added_at": null,

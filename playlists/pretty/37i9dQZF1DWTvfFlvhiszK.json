@@ -1,6 +1,6 @@
 {
   "description": "Old school jams to kick nostalgia up a notch. ",
-  "num_followers": 22246,
+  "num_followers": 22255,
   "original_name": "Ghana Throwback Party ",
   "owner": {
     "name": "Spotify",
@@ -475,6 +475,22 @@
     {
       "added_at": "2026-03-16 11:45:06",
       "album": {
+        "name": "Abeiku",
+        "url": "https://open.spotify.com/album/2oIwt5wf1BMRe3m386BrBT"
+      },
+      "artists": [
+        {
+          "name": "Nana Tuffour",
+          "url": "https://open.spotify.com/artist/0QMTuZV7F8J6b6eE97shGv"
+        }
+      ],
+      "duration_ms": 342960,
+      "name": "Abeiku",
+      "url": "https://open.spotify.com/track/0R55ud90TSQNXeqLeepXPq"
+    },
+    {
+      "added_at": "2026-03-16 11:45:06",
+      "album": {
         "name": "Full Vim",
         "url": "https://open.spotify.com/album/0DTMTBEMABaQYdkPCGYnFu"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 260257,
       "name": "Boom Boom Tah",
       "url": "https://open.spotify.com/track/1urrkZaxQUFsoQD54wvjY3"
-    },
-    {
-      "added_at": "2026-03-16 11:45:06",
-      "album": {
-        "name": "Abeiku",
-        "url": "https://open.spotify.com/album/2oIwt5wf1BMRe3m386BrBT"
-      },
-      "artists": [
-        {
-          "name": "Nana Tuffour",
-          "url": "https://open.spotify.com/artist/0QMTuZV7F8J6b6eE97shGv"
-        }
-      ],
-      "duration_ms": 342960,
-      "name": "Abeiku",
-      "url": "https://open.spotify.com/track/0R55ud90TSQNXeqLeepXPq"
     },
     {
       "added_at": "2026-03-16 11:45:06",
@@ -567,26 +567,6 @@
     {
       "added_at": "2026-03-16 11:45:06",
       "album": {
-        "name": "Esi",
-        "url": "https://open.spotify.com/album/6Oqh2P8A4E7yMKTcmtOEcK"
-      },
-      "artists": [
-        {
-          "name": "Kontihene",
-          "url": "https://open.spotify.com/artist/0uKjsrSxXWqfWF2mFyehs7"
-        },
-        {
-          "name": "Kwabena Kwabena",
-          "url": "https://open.spotify.com/artist/6zKu61RG80pBKOMUbBKNMr"
-        }
-      ],
-      "duration_ms": 374700,
-      "name": "Esi",
-      "url": "https://open.spotify.com/track/7gfdnU3uY17MoCcCjESPq7"
-    },
-    {
-      "added_at": "2026-03-16 11:45:06",
-      "album": {
         "name": "Baba God (feat. Sk)",
         "url": "https://open.spotify.com/album/23HN2hlDmjkLYRhBM1y4zF"
       },
@@ -603,6 +583,26 @@
       "duration_ms": 254458,
       "name": "Baba God (feat. Sk)",
       "url": "https://open.spotify.com/track/2DFOj2Uu3q3MQ2l4z5fQaS"
+    },
+    {
+      "added_at": "2026-03-16 11:45:06",
+      "album": {
+        "name": "Esi",
+        "url": "https://open.spotify.com/album/6Oqh2P8A4E7yMKTcmtOEcK"
+      },
+      "artists": [
+        {
+          "name": "Kontihene",
+          "url": "https://open.spotify.com/artist/0uKjsrSxXWqfWF2mFyehs7"
+        },
+        {
+          "name": "Kwabena Kwabena",
+          "url": "https://open.spotify.com/artist/6zKu61RG80pBKOMUbBKNMr"
+        }
+      ],
+      "duration_ms": 374700,
+      "name": "Esi",
+      "url": "https://open.spotify.com/track/7gfdnU3uY17MoCcCjESPq7"
     },
     {
       "added_at": "2026-03-16 11:45:06",

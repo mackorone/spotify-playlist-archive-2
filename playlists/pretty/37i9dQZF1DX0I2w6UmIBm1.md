@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0I2w6UmIBm1.md) - [plain]
 
 > Uplift your spirit with these faith\-filled folk melodies\. Cover: Josiah Queen
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,278 likes - 75 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,331 likes - 75 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

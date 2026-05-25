@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNc7NGKACaE.md) - [plain]
 
 > essa é só pra quem vive no 2.0x
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,522 likes - 66 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,508 likes - 66 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNc7NGKACaE.md) - [plain]
 | 38 | [Rede Social \- Speed](https://open.spotify.com/track/0FIjebtfvcayZNDzG993SH) | [Cryzin](https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH), [Noemi Leal](https://open.spotify.com/artist/15elHVyIMS1aobjNNJXcvK) | [Rede Social \(Speed\)](https://open.spotify.com/album/01iSILkAS9K13llC2AEWZJ) | 2:34 |
 | 39 | [Florxs Speed Up](https://open.spotify.com/track/2rIcX0NTuATrrIFUcC5pdz) | [Thxuzz](https://open.spotify.com/artist/6TsiOiUUPJYw90hx3aAb0q) | [Florxs Speed Up](https://open.spotify.com/album/5ZqrLDiksNLzdO5EVQ3lNW) | 2:56 |
 | 40 | [SEGREDO VERSÃO BH](https://open.spotify.com/track/7KJ3zD65Na61RsIcqfEfQr) | [Dj Vr Silva](https://open.spotify.com/artist/0IT4DLPp12S9xBzobzce1I), [Karui](https://open.spotify.com/artist/6pJDaYMxmgvbKfRXFkAVYw) | [SEGREDO VERSÃO BH](https://open.spotify.com/album/7Mkqs7f1Ut0cXuKUz3TKMs) | 2:36 |
-| 41 | [Felina, Ai Meu Deus](https://open.spotify.com/track/4mXao1gU5PKbwEd5oi1JBP) | [DJ MT SILVÉRIO](https://open.spotify.com/artist/3BYtk2sGyLpV9UfmCghNSd), [ARTHUR DE AFC](https://open.spotify.com/artist/187YBR2vRDJhfZ2AddqoBb) | [Felina, Ai Meu Deus](https://open.spotify.com/album/3nGpC3zbNobY1JLQzd5MFt) | 2:27 |
-| 42 | [BOMBEI AQUELA MSC DO INVEJOSO](https://open.spotify.com/track/2z4Z6cYzwjD9cRhNVWPj6W) | [ARTHUR DE AFC](https://open.spotify.com/artist/187YBR2vRDJhfZ2AddqoBb) | [BOMBEI AQUELA MSC DO INVEJOSO](https://open.spotify.com/album/6kaffiAaI4xC57IQRemunE) | 2:29 |
+| 41 | [BOMBEI AQUELA MSC DO INVEJOSO](https://open.spotify.com/track/2z4Z6cYzwjD9cRhNVWPj6W) | [ARTHUR DE AFC](https://open.spotify.com/artist/187YBR2vRDJhfZ2AddqoBb) | [BOMBEI AQUELA MSC DO INVEJOSO](https://open.spotify.com/album/6kaffiAaI4xC57IQRemunE) | 2:29 |
+| 42 | [Felina, Ai Meu Deus](https://open.spotify.com/track/4mXao1gU5PKbwEd5oi1JBP) | [DJ MT SILVÉRIO](https://open.spotify.com/artist/3BYtk2sGyLpV9UfmCghNSd), [ARTHUR DE AFC](https://open.spotify.com/artist/187YBR2vRDJhfZ2AddqoBb) | [Felina, Ai Meu Deus](https://open.spotify.com/album/3nGpC3zbNobY1JLQzd5MFt) | 2:27 |
 | 43 | [NICOTINA \- Speed](https://open.spotify.com/track/3t9hTeE5S3xPukz92FFRhU) | [JOTTAH](https://open.spotify.com/artist/0RF6epzmUunILCJbvVdUhN) | [NICOTINA](https://open.spotify.com/album/7LKZ9qghbdNjUoJbgB7NqN) | 1:30 |
 | 44 | [Sustenta a Botada \- Speed](https://open.spotify.com/track/3NasCuQlgrfNliqJT9pSG9) | [Nino Leone](https://open.spotify.com/artist/3WhUu0CKDwlQL9UDMccCCx), [Dj Garay Beats](https://open.spotify.com/artist/1lwdU9Q6yv7LyXqGER8D5G) | [Sustenta a Botada](https://open.spotify.com/album/3Tu7tNLNVCZ4jREeuNDgde) | 2:24 |
 | 45 | [Me Deixei Levar \- Speed](https://open.spotify.com/track/1R2tR76ixjc4upkRz5LDNh) | [7Seven](https://open.spotify.com/artist/2p5u1gM4gSvT7rM6zbjfV1) | [Me Deixei Levar](https://open.spotify.com/album/2Buy6we9bBklwZmo9nrNBc) | 1:36 |

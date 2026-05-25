@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMVK39I3IIK.md) - [plain]
 
 > de skarpeste knive i dansk musik  📸    Cover: A Good Year
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,142 likes - 70 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,143 likes - 70 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,9 +24,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMVK39I3IIK.md) - [plain]
 | 14 | [Hvad Nu Hvis](https://open.spotify.com/track/0duVSc8MQzBa1mbcDel12P) | [Ella Augusta](https://open.spotify.com/artist/77Y8znH6FsXmoGzwxbFlOz) | [Sytten](https://open.spotify.com/album/0GI9UH21kp6Gp2dEwrll0J) | 3:14 |
 | 15 | [Gav Det Et Skud](https://open.spotify.com/track/0GTdMP7x3g3sqWfc90C6il) | [August Høyen](https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm) | [Gav Det Et Skud](https://open.spotify.com/album/5VSbZUKdlrZpXEOub9OEZJ) | 2:56 |
 | 16 | [Dagdrømmeri](https://open.spotify.com/track/5FooCMWZhjFYZsTbarkJkA) | [KEDDE](https://open.spotify.com/artist/1Vh77WpgUBG9bYi1X0kMQZ) | [Dagdrømmeri](https://open.spotify.com/album/34HwCKrjkrUfx102qz7grK) | 3:08 |
-| 17 | [Skyklapper](https://open.spotify.com/track/5nkDngxLSMwnNbJ7YkomTA) | [Rosa](https://open.spotify.com/artist/5RacSDArd3wuqKnWx46sTM) | [Skyklapper](https://open.spotify.com/album/4ap5LraN4yGYC0my4WUmkz) | 2:53 |
+| 17 | [Undskyld](https://open.spotify.com/track/6Wau9vZtw62qiHfBOFnsfy) | [Karoline Mousing](https://open.spotify.com/artist/0BqpiQJEK4jycSLmjLN6z0) | [Undskyld](https://open.spotify.com/album/2TURzDtJyIqpYaU7NFhmkb) | 2:34 |
 | 18 | [Mig Og Min Mund](https://open.spotify.com/track/6zJFMDkfoTGtCW9mUZurqn) | [APHACA](https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9) | [Mig Og Min Mund](https://open.spotify.com/album/08AZxKNYc8cCbqYpBDqi3Q) | 2:39 |
-| 19 | [Undskyld](https://open.spotify.com/track/6Wau9vZtw62qiHfBOFnsfy) | [Karoline Mousing](https://open.spotify.com/artist/0BqpiQJEK4jycSLmjLN6z0) | [Undskyld](https://open.spotify.com/album/2TURzDtJyIqpYaU7NFhmkb) | 2:34 |
+| 19 | [Skyklapper](https://open.spotify.com/track/5nkDngxLSMwnNbJ7YkomTA) | [Rosa](https://open.spotify.com/artist/5RacSDArd3wuqKnWx46sTM) | [Skyklapper](https://open.spotify.com/album/4ap5LraN4yGYC0my4WUmkz) | 2:53 |
 | 20 | [Det Hele Handler Om Dig](https://open.spotify.com/track/58DQTjsvh0005Us6pEc1OL) | [August Høyen](https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm) | [Det Hele Handler Om Dig](https://open.spotify.com/album/7vBik5UaEa7RClvhh4xkSS) | 3:18 |
 | 21 | [Tag Mig Som Jeg Er](https://open.spotify.com/track/7aSvvFYDuR8fCurPx6hqwl) | [KALASET](https://open.spotify.com/artist/2Wqxw6V3d9ZzAf32jTjwW7) | [Tag Mig Som Jeg Er](https://open.spotify.com/album/5cgv7qdPVxJS9jN50kr3nH) | 3:15 |
 | 22 | [Alt hvad jeg vil](https://open.spotify.com/track/7LXkZBJYXjXIYCV9sUpNNk) | [Von Quar](https://open.spotify.com/artist/5B7f5pkLEMpnY20go77xX3) | [Alt hvad jeg vil](https://open.spotify.com/album/1TqxFYrfpBc3OYJTPatQhF) | 3:44 |
@@ -35,10 +35,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMVK39I3IIK.md) - [plain]
 | 25 | [En Stor Lykkelig Familie](https://open.spotify.com/track/4djG0CzBPUSugXvokqz3mr) | [Mathias Ranch](https://open.spotify.com/artist/1mWocDhzyzvNZJD0T2poQ8) | [En Stor Lykkelig Familie](https://open.spotify.com/album/2EwuPoBKkcHDwIx6xTH4Vh) | 3:15 |
 | 26 | [Uendelighed](https://open.spotify.com/track/21O5X4CcPTXfeD5CYZJJ7Q) | [Ella Augusta](https://open.spotify.com/artist/77Y8znH6FsXmoGzwxbFlOz) | [Uendelighed](https://open.spotify.com/album/3kBaB5xqZQj2Qtq3WG5HRX) | 2:53 |
 | 27 | [blå nætter](https://open.spotify.com/track/5QnW9XOkrkOF4l3KciQwOu) | [Lea Eyðbjørg](https://open.spotify.com/artist/5UTFhx3pJkrUHKlM4gd2rv), [Østen](https://open.spotify.com/artist/0dMc2FDDeU7OzAn5EsYKuU) | [blå nætter](https://open.spotify.com/album/1Rb8lqf2mIY0DyerLKkVhS) | 2:38 |
-| 28 | [Ring, når du har tid](https://open.spotify.com/track/5Ptfc4dFINCiNvxh8gbGI4) | [Guldimund](https://open.spotify.com/artist/5269oiQ5yjMDcgXoJr6zkw), [Kristoffer Jessen](https://open.spotify.com/artist/5Y5GcPvX5dQ3mSE8LGxQLC), [Pernille Rosendahl](https://open.spotify.com/artist/17ytgaxAbm2QUG4rvzO6CE), [Pia Raug](https://open.spotify.com/artist/3MijIIZW05AY9gC0rpdPbm), [Søren Huss](https://open.spotify.com/artist/4c5YsU2iQX3LvAKdPa0A8P) | [Ring, når du har tid](https://open.spotify.com/album/4YkLjRt3x0ppUXeI9yIWyy) | 6:34 |
-| 29 | [Synger Bare](https://open.spotify.com/track/7Icr3LYFjfg1XFeMX1vPZV) | [APHACA](https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9) | [Synger Bare](https://open.spotify.com/album/6GB6K47CUmUged4NVsNPuO) | 1:47 |
-| 30 | [Mandag Til Fredag](https://open.spotify.com/track/2LA30t2wNFyjgvbyms415y) | [Asger](https://open.spotify.com/artist/63ROoz2PyporZ9RAkffc1d) | [Mandag Til Fredag](https://open.spotify.com/album/4RXOrQQ1XUGZkn4klKcIem) | 3:17 |
-| 31 | [lao shi](https://open.spotify.com/track/6Z3mpXWlxpH91pkxtvhfYK) | [Helena Gao](https://open.spotify.com/artist/2s2ztYpVGqV3BWDbAcd35h) | [lao shi](https://open.spotify.com/album/2QAToXwax3o7UkhpMZSsW3) | 2:11 |
+| 28 | [lao shi](https://open.spotify.com/track/6Z3mpXWlxpH91pkxtvhfYK) | [Helena Gao](https://open.spotify.com/artist/2s2ztYpVGqV3BWDbAcd35h) | [lao shi](https://open.spotify.com/album/2QAToXwax3o7UkhpMZSsW3) | 2:11 |
+| 29 | [Ring, når du har tid](https://open.spotify.com/track/5Ptfc4dFINCiNvxh8gbGI4) | [Guldimund](https://open.spotify.com/artist/5269oiQ5yjMDcgXoJr6zkw), [Kristoffer Jessen](https://open.spotify.com/artist/5Y5GcPvX5dQ3mSE8LGxQLC), [Pernille Rosendahl](https://open.spotify.com/artist/17ytgaxAbm2QUG4rvzO6CE), [Pia Raug](https://open.spotify.com/artist/3MijIIZW05AY9gC0rpdPbm), [Søren Huss](https://open.spotify.com/artist/4c5YsU2iQX3LvAKdPa0A8P) | [Ring, når du har tid](https://open.spotify.com/album/4YkLjRt3x0ppUXeI9yIWyy) | 6:34 |
+| 30 | [Synger Bare](https://open.spotify.com/track/7Icr3LYFjfg1XFeMX1vPZV) | [APHACA](https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9) | [Synger Bare](https://open.spotify.com/album/6GB6K47CUmUged4NVsNPuO) | 1:47 |
+| 31 | [Mandag Til Fredag](https://open.spotify.com/track/2LA30t2wNFyjgvbyms415y) | [Asger](https://open.spotify.com/artist/63ROoz2PyporZ9RAkffc1d) | [Mandag Til Fredag](https://open.spotify.com/album/4RXOrQQ1XUGZkn4klKcIem) | 3:17 |
 | 32 | [Sætter Sig Fast](https://open.spotify.com/track/0ueHqqPHinLsblBWQ0cjmW) | [will](https://open.spotify.com/artist/6CVpx38ZMlFNcepKyWTcfB) | [Sætter Sig Fast](https://open.spotify.com/album/6kPWRAW8tNgqcCyHMK6pM4) | 2:56 |
 | 33 | [Folk Forsvinder](https://open.spotify.com/track/1ahsG679rkCBohS1CRjbnr) | [Chris Burton](https://open.spotify.com/artist/4xEK7RZaPr5EblYHsaeBWo) | [Folk Forsvinder](https://open.spotify.com/album/3epMbIVpnO7V1854Efwfpc) | 2:53 |
 | 34 | [Ender Altid Hos Dig](https://open.spotify.com/track/4Zp401EEGLDe557Jx7uaLv) | [Dos Santos](https://open.spotify.com/artist/5MCNh315T9Mi2yQTD4bYkn) | [4CANTOS](https://open.spotify.com/album/1QSx9yNnaglCCs2hMb3qBw) | 2:20 |
@@ -74,9 +74,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMVK39I3IIK.md) - [plain]
 | 64 | [Et Sted på Vesterbro](https://open.spotify.com/track/1gWXpKhwYDqAT0Ct29NjdZ) | [Augusta Schackinger](https://open.spotify.com/artist/0A1gtg9Bzgv4Tlpn0D9IVm) | [Et Sted på Vesterbro](https://open.spotify.com/album/6b4gxg1zLkUbY68IrQgYRn) | 2:28 |
 | 65 | [Den Lykkelige Ungdom](https://open.spotify.com/track/1AL7r6OKkjW77eRDaTZsSI) | [Pauline](https://open.spotify.com/artist/1FdCucmAi2Z2N4hOThl4Zl) | [Den Lykkelige Ungdom](https://open.spotify.com/album/3fJ3oOrnnde9HHFCzu0xfo) | 2:43 |
 | 66 | [Vilde Svaner](https://open.spotify.com/track/1yCjEZoEg0hICScFrASlMg) | [Knægt](https://open.spotify.com/artist/2ma469IFw27u95sH9V72l6) | [Vilde Svaner](https://open.spotify.com/album/0HXtOt97IMGoJgvjok6MKO) | 3:27 |
-| 67 | [Mareridt](https://open.spotify.com/track/6hhNPBPQDhO0WYbhVFFCIM) | [BJØRN](https://open.spotify.com/artist/6JgNOXKB2X1JjGYReJIa9D) | [Mareridt](https://open.spotify.com/album/2fTcRdTAQuCADEZj5KZGLf) | 3:03 |
-| 68 | [Til Enden Og Tilbage \(feat\. Ungklang\)](https://open.spotify.com/track/6YBPH4jB34gdSdDJE1ktKc) | [Cyd](https://open.spotify.com/artist/6JYcDUfoOtgxTCnAJU9O3A), [Ungklang](https://open.spotify.com/artist/4g6UJfNBiSyqnvK3sJOSnD) | [Til Enden Og Tilbage \(feat\. Ungklang\)](https://open.spotify.com/album/6AyEcAj5lzs9BxxavSUpAu) | 3:09 |
-| 69 | [Eleanor's Escape](https://open.spotify.com/track/21LcmaUSmbrzdxqHUEhi8B) | [100%WET](https://open.spotify.com/artist/00NfekFQ6GejpGDubQhgN2) | [Eleanor's Escape](https://open.spotify.com/album/639kU4PVltUCtPQOL7rNUL) | 4:16 |
-| 70 | [Bye Sofia](https://open.spotify.com/track/6hSPxHXE1atS2bMY53MPZW) | [Emily Bowen](https://open.spotify.com/artist/4IcbSUnp61Iqco9c8OsTUc) | [The Way She Says Goodbye](https://open.spotify.com/album/55Z9H1tbXpvoExNlFG1ShB) | 2:45 |
+| 67 | [Til Enden Og Tilbage \(feat\. Ungklang\)](https://open.spotify.com/track/6YBPH4jB34gdSdDJE1ktKc) | [Cyd](https://open.spotify.com/artist/6JYcDUfoOtgxTCnAJU9O3A), [Ungklang](https://open.spotify.com/artist/4g6UJfNBiSyqnvK3sJOSnD) | [Til Enden Og Tilbage \(feat\. Ungklang\)](https://open.spotify.com/album/6AyEcAj5lzs9BxxavSUpAu) | 3:09 |
+| 68 | [Mareridt](https://open.spotify.com/track/6hhNPBPQDhO0WYbhVFFCIM) | [BJØRN](https://open.spotify.com/artist/6JgNOXKB2X1JjGYReJIa9D) | [Mareridt](https://open.spotify.com/album/2fTcRdTAQuCADEZj5KZGLf) | 3:03 |
+| 69 | [Se Mig](https://open.spotify.com/track/3CRPUerlCUYbY8yzOelA7R) | [Joyce](https://open.spotify.com/artist/20EE1CtwqBTCrJraz6uSow) | [Elsk Mig](https://open.spotify.com/album/4z0LnHvRDMkYd6K0ZytZVU) | 3:56 |
+| 70 | [Eleanor's Escape](https://open.spotify.com/track/21LcmaUSmbrzdxqHUEhi8B) | [100%WET](https://open.spotify.com/artist/00NfekFQ6GejpGDubQhgN2) | [Eleanor's Escape](https://open.spotify.com/album/639kU4PVltUCtPQOL7rNUL) | 4:16 |
 
 Snapshot ID: `AAAAAMbaUYC4ABXEpqnZ6GZ/o/fze6UI`

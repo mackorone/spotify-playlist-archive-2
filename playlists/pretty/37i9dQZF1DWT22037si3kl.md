@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 
 > pralém de outfit\. AURA\. Foto: Brandão85
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,931 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,934 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 | 37 | [Alta Massa \(ATM\)](https://open.spotify.com/track/6NmhXdIUkHYO8gojTVaAMM) | [Emitê Único](https://open.spotify.com/artist/4z8ieq95PTFrqoxYhozY75) | [Alta Massa \(ATM\)](https://open.spotify.com/album/0Twjd4TvTqehiFjeaKPiAE) | 2:17 |
 | 38 | [SP](https://open.spotify.com/track/3FGySXuYYgAco8XpOYaxhf) | [Danzo](https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE), [Labbel Rec](https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX), [Torelli](https://open.spotify.com/artist/5JXS7XaVoUTFBUHaS4RMxu), [Stick](https://open.spotify.com/artist/06DkLIR1RQFV7kEom04Frt), [Honaiser](https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT) | [SP](https://open.spotify.com/album/7rEaFJDwmU1ThmYoheDUfX) | 2:35 |
 | 39 | [COMME DES GARÇONS](https://open.spotify.com/track/4yC4sRDhK1uXLW9B14jyQl) | [FAB GODAMN](https://open.spotify.com/artist/7g4bHpDdeUyNES1eX8BQ3g), [C4rlinhxs](https://open.spotify.com/artist/2d7vU3M4WY23wRN1nAqEwp) | [FATALFATALFATAL](https://open.spotify.com/album/6mVG3MQDjFsJwSsZDxfXfm) | 1:40 |
-| 40 | [MODA 2](https://open.spotify.com/track/66zJjDbdSX8EGyDLtKcCZw) | [Nebrugg](https://open.spotify.com/artist/2UD8upUvL1eqllSlMpDIeC) | [MODA 2](https://open.spotify.com/album/0ABSk1qJrZkcUXcusEEDwK) | 1:36 |
-| 41 | [GET RICH](https://open.spotify.com/track/02n0kRA0M2Gs83V9QtWw0v) | [TheJovemJota](https://open.spotify.com/artist/4IdpYE1f4LlAOuVVJqCcvV), [Mvt](https://open.spotify.com/artist/6Kl9FDZ096aIBZr7Qq6bcZ), [Kenji](https://open.spotify.com/artist/4CraoGHLUgiiUxEaataOGO) | [GET RICH](https://open.spotify.com/album/6Ju8WvKcYuBLWrC3AGDlzm) | 2:19 |
+| 40 | [GET RICH](https://open.spotify.com/track/02n0kRA0M2Gs83V9QtWw0v) | [TheJovemJota](https://open.spotify.com/artist/4IdpYE1f4LlAOuVVJqCcvV), [Mvt](https://open.spotify.com/artist/6Kl9FDZ096aIBZr7Qq6bcZ), [Kenji](https://open.spotify.com/artist/4CraoGHLUgiiUxEaataOGO) | [GET RICH](https://open.spotify.com/album/6Ju8WvKcYuBLWrC3AGDlzm) | 2:19 |
+| 41 | [MODA 2](https://open.spotify.com/track/66zJjDbdSX8EGyDLtKcCZw) | [Nebrugg](https://open.spotify.com/artist/2UD8upUvL1eqllSlMpDIeC) | [MODA 2](https://open.spotify.com/album/0ABSk1qJrZkcUXcusEEDwK) | 1:36 |
 | 42 | [IMPÉRIO](https://open.spotify.com/track/5DC5J4ki3mJHGjbaegsD3L) | [M'DEP](https://open.spotify.com/artist/15kozB9dePAB5UgN0umJcS), [Zion](https://open.spotify.com/artist/4mzvw0V6YE2OkbXZmIXnh6) | [IMPÉRIO](https://open.spotify.com/album/4HQ1aKcnPhlsHawRiBBs7S) | 2:30 |
 | 43 | [Moncler](https://open.spotify.com/track/5qxLT4qC7xkWttnBYgT4xL) | [PL Quest](https://open.spotify.com/artist/6J6U2JAv7LUF0cSQ98gpjM), [Menor MC](https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS), [Chris Beats Zn](https://open.spotify.com/artist/0YOr5sV4zMMyj5xviWiFjW), [DJ Matt D](https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5) | [ELA É RIO](https://open.spotify.com/album/5jkeTUtKTpSgM7B5XRK9U1) | 3:21 |
 | 44 | [Ciclo](https://open.spotify.com/track/5k7JkpDlo6o9HJ1i8Wj8Mn) | [PJ HOUDINI](https://open.spotify.com/artist/3nfVTPYDnppERKGCRS4vim), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [Viper](https://open.spotify.com/artist/7lr4WifTmPssQJgBmbjiJq) | [Ciclo](https://open.spotify.com/album/2Pg63mnbvo0XuEbwA5YbkK) | 1:55 |

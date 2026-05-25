@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1m1kAx.md) - [plain]
 
 > This is 2Baba\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,371 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,375 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,11 +16,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1m1kAx.md) - [plain]
 | 6 | [See Me So](https://open.spotify.com/track/0RdXMS28fH63l6Is3eHZXM) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [VIP](https://open.spotify.com/artist/38wGnQ9uC7XyV0TFHaEiO4) | [Grass 2 Grace](https://open.spotify.com/album/37wGpWfZrk5wZax5cdJVSA) | 4:40 |
 | 7 | [Possibility](https://open.spotify.com/track/3wsj3rTvMRTtsyisz3urrj) | [P\-Square](https://open.spotify.com/artist/42IUN9kTPdUdI1kre6L7Wk), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Danger](https://open.spotify.com/album/13yKq0XTkdxftNDr4vsi7e) | 5:03 |
 | 8 | [Nfana Ibaga \- No Problem](https://open.spotify.com/track/4K7YdhjGizm9Qp1aNLGnRj) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [BEENIE MAN,KUNLE,O.J.B.,BLACK FACE,DE NATIVES,FREESTYL,E.T.C.](https://open.spotify.com/artist/19cKseNCx5VEeRRLEYPybV) | [Face 2 Face](https://open.spotify.com/album/5K1zEMnLKKLcoFUbR4GEOw) | 4:26 |
-| 9 | [Amaka \(feat\. Peruzzi\)](https://open.spotify.com/track/2F5EpzUXZBX46ruU0muOx0) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Peruzzi](https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf) | [Warriors](https://open.spotify.com/album/5NqcaCfak06QPIY7gXFnsK) | 3:47 |
+| 9 | [Opo \(feat\. Wizkid\)](https://open.spotify.com/track/1aPT4OyFWsqPp004pH2DuY) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Warriors](https://open.spotify.com/album/5NqcaCfak06QPIY7gXFnsK) | 3:47 |
 | 10 | [True Love](https://open.spotify.com/track/64Abyr4HpkCBbT0DqBp1dx) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [VIP](https://open.spotify.com/artist/38wGnQ9uC7XyV0TFHaEiO4) | [Grass 2 Grace](https://open.spotify.com/album/37wGpWfZrk5wZax5cdJVSA) | 4:22 |
 | 11 | [Implication](https://open.spotify.com/track/5IqNkwrtuPjlYJFc4a2JRq) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Unstoppable International](https://open.spotify.com/album/5EGrHCpoECndjmQC33KFiY) | 3:29 |
 | 12 | [Ihe Ne Me](https://open.spotify.com/track/3sSakgujWHyqR7j1mEUbs5) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [AWAY & BEYOND](https://open.spotify.com/album/584KPtSKilxTAGAhzttVP6) | 4:13 |
-| 13 | [Opo \(feat\. Wizkid\)](https://open.spotify.com/track/1aPT4OyFWsqPp004pH2DuY) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Warriors](https://open.spotify.com/album/5NqcaCfak06QPIY7gXFnsK) | 3:47 |
+| 13 | [Amaka \(feat\. Peruzzi\)](https://open.spotify.com/track/2F5EpzUXZBX46ruU0muOx0) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Peruzzi](https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf) | [Warriors](https://open.spotify.com/album/5NqcaCfak06QPIY7gXFnsK) | 3:47 |
 | 14 | [4 Instance](https://open.spotify.com/track/7FQecMcIQ2oB7dMaW0MYJ2) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [VIP](https://open.spotify.com/artist/38wGnQ9uC7XyV0TFHaEiO4) | [Grass 2 Grace](https://open.spotify.com/album/37wGpWfZrk5wZax5cdJVSA) | 3:47 |
 | 15 | [Raindrops](https://open.spotify.com/track/3mhjJw2JU1cpTfrPA29Jcc) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Unstoppable International](https://open.spotify.com/album/5EGrHCpoECndjmQC33KFiY) | 4:49 |
 | 16 | [Ole](https://open.spotify.com/track/1aKQJXeEs0OyaFumj4W3WZ) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Freestyle](https://open.spotify.com/artist/6OjW9olmgqjpkqGCzQYT9D) | [Face 2 Face](https://open.spotify.com/album/5K1zEMnLKKLcoFUbR4GEOw) | 4:51 |
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1m1kAx.md) - [plain]
 | 28 | [Be There](https://open.spotify.com/track/6DpcgxMU0KZjDmFlXrU2xN) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Unstoppable International](https://open.spotify.com/album/5EGrHCpoECndjmQC33KFiY) | 3:11 |
 | 29 | [Iworiwo](https://open.spotify.com/track/0RiVIkA5HT68LJ4keelVqa) | [Larry Gaaga](https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Iworiwo](https://open.spotify.com/album/0ILFTgu6ivf2nIzqckeoel) | 4:02 |
 | 30 | [Gaga Shuffle](https://open.spotify.com/track/0XEaIqAvu2Z0GepEXNWzHd) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Gaga Shuffle](https://open.spotify.com/album/0OoIp7iVPm1c1JYSgl4jEO) | 3:41 |
-| 31 | [Dance Go \(Eau De Vie\)](https://open.spotify.com/track/4SV4FQoKZ6wH8osLAo3exO) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Face 2 Face 10.0](https://open.spotify.com/album/1PdMP3dtb5w0z4f2jVgXzF) | 3:48 |
-| 32 | [KUKU GOOGLE AM](https://open.spotify.com/track/2KRAQNY4WrlkrhZUg205co) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [KUKU GOOGLE AM](https://open.spotify.com/album/6XLYPGlLqeNDHp79xoqOvX) | 3:30 |
+| 31 | [KUKU GOOGLE AM](https://open.spotify.com/track/2KRAQNY4WrlkrhZUg205co) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [KUKU GOOGLE AM](https://open.spotify.com/album/6XLYPGlLqeNDHp79xoqOvX) | 3:30 |
+| 32 | [Dance Go \(Eau De Vie\)](https://open.spotify.com/track/4SV4FQoKZ6wH8osLAo3exO) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Face 2 Face 10.0](https://open.spotify.com/album/1PdMP3dtb5w0z4f2jVgXzF) | 3:48 |
 | 33 | [Worry Me](https://open.spotify.com/track/1l1iB9yTcm1oDex1ZwKOwu) | [DJ Jimmy Jatt](https://open.spotify.com/artist/1ZwLoNSj1T8R4D303zVVMp), [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Worry Me](https://open.spotify.com/album/6XUaZvaQMG42gPY1KqVP9p) | 3:13 |
 | 34 | [We Must Groove \(feat\. Burna Boy\)](https://open.spotify.com/track/7gcSJyitQE3OUWhEI7YTkB) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Warriors](https://open.spotify.com/album/5NqcaCfak06QPIY7gXFnsK) | 3:45 |
 | 35 | [Oya Come Make We Go](https://open.spotify.com/track/0jYQc5rfIJNgbwyDwQHS4m) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo) | [Oya Come Make We Go](https://open.spotify.com/album/56knvwpmyWDP0TKmsWubT1) | 4:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1m1kAx.md) - [plain]
 | 49 | [Officially Blind](https://open.spotify.com/track/1sEG4j3BPpYyT4hFBQ2M4N) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Officially Blind](https://open.spotify.com/album/4VbAu57Fzi3DRW6opWs0C9) | 3:07 |
 | 50 | [Abeg Abeg \(feat\. 2Baba & Timaya\)](https://open.spotify.com/track/0T4qEpN66j63wGvh3jIryW) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [L.I.F.E \- Leaving an Impact for Eternity \(Deluxe Edition\)](https://open.spotify.com/album/7pqUKMWH6P7AJPIjUiphTS) | 3:32 |
 
-Snapshot ID: `ag+cgAAAAACloYk6Htib7LA1q2hWbifc`
+Snapshot ID: `ahDuAAAAAADHK4vdKeQ5GUA0GtxOy/4m`

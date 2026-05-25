@@ -4,7 +4,7 @@
 
 > New music by Greeicy, Alvaro Diaz, Xavi, ELENA ROSE, and more.
 
-12,161 songs - 26 day 9 hr 11 min
+12,163 songs - 26 day 9 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -9416,6 +9416,7 @@
 | [Rewind](https://open.spotify.com/track/5zhd3Dd2CMkKKhCnuqOlsC) | [FLAK](https://open.spotify.com/artist/0xbgMUKzFqdkvlh6cA32rh), [Johnny Sky](https://open.spotify.com/artist/3EVZsBWq5KqdtS6eVNHN8d) | [Rewind](https://open.spotify.com/album/2wc1qVXdnyInAoGh6lo8pN) | 3:50 | 2025-02-21 | 2025-03-01 |
 | [REWIND](https://open.spotify.com/track/4ftd7yHL6WyeBVvGQHIoJl) | [YoGambii](https://open.spotify.com/artist/5RuWFvTN5tmKqn0KUfNruD) | [GANGSTA LOVE](https://open.spotify.com/album/1dRAMRY0meZGMHo1zKhqR3) | 2:36 | 2024-08-09 | 2024-08-17 |
 | [Rey](https://open.spotify.com/track/69FwmM0iXHNwN0G3zGwFmi) | [NOREH](https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg), [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [Rey](https://open.spotify.com/album/2bKy9kHpuQpAJ79wJwBqmV) | 2:34 | 2025-03-21 | 2025-03-29 |
+| [Rey & Peón](https://open.spotify.com/track/1oPzOv1roMQfUgHBRiCYMg) | [Mar Lara](https://open.spotify.com/artist/54wQCXd1UjjcMcQx0PNMlj) | [Pesa Más La Duda](https://open.spotify.com/album/3EhfRQEKxbVrbLgtFzG8Ul) | 3:20 | 2026-05-24 |  |
 | [Reyimiller \- A COLORS SHOW](https://open.spotify.com/track/4tkTw8GLVmn7nPKhQ0pd5i) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Reyimiller \- A COLORS SHOW](https://open.spotify.com/album/1oz46z0MSiPSpKiMrWctWV) | 3:21 | 2025-12-19 | 2026-01-15 |
 | [Reza](https://open.spotify.com/track/2b02LWTnZy2sPFxgnr4ptR) | [Paradize](https://open.spotify.com/artist/3aSBi6CYiiMGBgXnGB0Ej4), [Lisux](https://open.spotify.com/artist/5Mm1kH3hYXtxTGrOI98Dmj) | [Reza](https://open.spotify.com/album/2soFZlcqhynXLAEZecaluM) | 3:18 | 2023-04-14 | 2023-04-22 |
 | [Rial](https://open.spotify.com/track/2wbYhkwk2cpVRNoH4cxREv) | [Sanchz](https://open.spotify.com/artist/0G35WrrhXWCv2Un6ImamhF) | [Rial](https://open.spotify.com/album/6Vx8Y11fNDGR7XoDJOPGH0) | 2:27 | 2025-05-23 | 2025-05-31 |
@@ -10609,6 +10610,7 @@
 | [TE PERDÍ](https://open.spotify.com/track/3zjCSAxk4aqbltVRG4o3KZ) | [JC Karo](https://open.spotify.com/artist/2MNRfUsu9bA4gzehlJc8hl), [Leisley](https://open.spotify.com/artist/5aRtrcGhtNrjVmmGihilvt) | [TE PERDÍ](https://open.spotify.com/album/2QH0ZFrFtOabu5vW4n1SKv) | 2:34 | 2023-06-02 | 2023-06-10 |
 | [Te Perdí](https://open.spotify.com/track/7gqScn2vC9FD8tBrhD9MJ4) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR), [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Te Perdí](https://open.spotify.com/album/1lRJqVJ2VkDy9q7UKhlnMy) | 3:59 | 2024-08-23 | 2024-08-31 |
 | [Te pienso](https://open.spotify.com/track/2pWLaSbA60jXkEl9NEqr7D) | [Beangel](https://open.spotify.com/artist/0r4vWhARLwFqZ8hCzPKryf), [Kelvis Ochoa](https://open.spotify.com/artist/3Q2MVC1NWIzEyUytnlFBKm), [Randy Malcom](https://open.spotify.com/artist/3yjUmIEZOYU9i9cU9uJGIZ) | [Te pienso](https://open.spotify.com/album/4nOU0iFB27BWBv073KClFI) | 3:45 | 2023-02-17 | 2023-02-25 |
+| [Te Pienso](https://open.spotify.com/track/6MON32A2dx1iYrGC0t2s33) | [Dj Tra](https://open.spotify.com/artist/50Bp1VBNQjtWsicbvoUI0A), [Hector Nazza](https://open.spotify.com/artist/1WGxt0iUo8qfQlzwIAlxQB), [Luister La Voz](https://open.spotify.com/artist/4FoMtKClFtTNsfQN7ivDII), [ANDY ALASKA](https://open.spotify.com/artist/4Khd0aexSTIiryfokru56l) | [Te Pienso](https://open.spotify.com/album/4FiR626V8Dv2dLenhSE5Ut) | 3:00 | 2026-05-24 |  |
 | [Te Pienso](https://open.spotify.com/track/49VPPkddlCf799FKXHsSyN) | [Nigel](https://open.spotify.com/artist/1CEX09QFQGNdyIzFLKYksf), [Pacho El Antifeka](https://open.spotify.com/artist/03Enzet8KLMkjdeQnbqbmn) | [Te Pienso](https://open.spotify.com/album/6J5QXN6M6vDyc6ftM51ZwI) | 3:26 | 2022-10-07 | 2022-10-15 |
 | [Te Pintaron Pajaritos](https://open.spotify.com/track/1mCP18TJkQJR7wUkCQACQL) | [Las Villa](https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM) | [SONATA DE UN PERREO](https://open.spotify.com/album/3jv58ipbjbKf1yREKQLnQE) | 2:19 | 2024-07-12 | 2024-07-19 |
 | [Te Pregunto](https://open.spotify.com/track/7t8mCx8GXayFA4FstW6ny2) | [Jory Boy](https://open.spotify.com/artist/5lFhCi03HDneWzvCxGctrT) | [Te Pregunto](https://open.spotify.com/album/6XDLgNKVXh7EEQCoDo8acg) | 2:43 | 2024-08-30 | 2024-09-07 |

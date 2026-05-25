@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ag+cgAAAAADP8DS7jz0fn486SWvJ/HeE",
+  "snapshot_id": "ahDuAAAAAADiDfcAg8vrPq4Hwnle9F2X",
   "tracks": [
     {
       "added_at": null,
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
         }
       ],
-      "duration_ms": 238426,
-      "name": "Futures",
-      "url": "https://open.spotify.com/track/6vkN5oRi56GK0lPX0X0EZN"
+      "duration_ms": 206373,
+      "name": "Just Tonight",
+      "url": "https://open.spotify.com/track/5ZLwbxq5jydIxksfX6ezAn"
     },
     {
       "added_at": null,
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
         }
       ],
-      "duration_ms": 206373,
-      "name": "Just Tonight",
-      "url": "https://open.spotify.com/track/5ZLwbxq5jydIxksfX6ezAn"
+      "duration_ms": 238426,
+      "name": "Futures",
+      "url": "https://open.spotify.com/track/6vkN5oRi56GK0lPX0X0EZN"
     },
     {
       "added_at": null,
@@ -568,9 +568,9 @@
           "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
         }
       ],
-      "duration_ms": 171648,
-      "name": "Through",
-      "url": "https://open.spotify.com/track/4Iydh0QUgxeOB1o5oKAzAr"
+      "duration_ms": 234511,
+      "name": "It Matters",
+      "url": "https://open.spotify.com/track/6gXzzIJs34eYV6CnpiJsP2"
     },
     {
       "added_at": null,
@@ -632,9 +632,9 @@
           "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
         }
       ],
-      "duration_ms": 234511,
-      "name": "It Matters",
-      "url": "https://open.spotify.com/track/6gXzzIJs34eYV6CnpiJsP2"
+      "duration_ms": 171648,
+      "name": "Through",
+      "url": "https://open.spotify.com/track/4Iydh0QUgxeOB1o5oKAzAr"
     },
     {
       "added_at": null,
@@ -687,8 +687,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Static Prevails (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/08EiadO7jxgjbJJdzX8mem"
+        "name": "Damage",
+        "url": "https://open.spotify.com/album/3cTKLglWH2XfDfbwqXvaGo"
       },
       "artists": [
         {
@@ -696,9 +696,9 @@
           "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
         }
       ],
-      "duration_ms": 219906,
-      "name": "Claire",
-      "url": "https://open.spotify.com/track/1bCXKWb5TTlhRgdrF3CUzW"
+      "duration_ms": 187800,
+      "name": "Damage",
+      "url": "https://open.spotify.com/track/3T1mwQ0XLG4WhF8jO9FQ7G"
     },
     {
       "added_at": null,
@@ -751,22 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Damage",
-        "url": "https://open.spotify.com/album/3cTKLglWH2XfDfbwqXvaGo"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Eat World",
-          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
-        }
-      ],
-      "duration_ms": 187800,
-      "name": "Damage",
-      "url": "https://open.spotify.com/track/3T1mwQ0XLG4WhF8jO9FQ7G"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Static Prevails (Bonus Track Version)",
         "url": "https://open.spotify.com/album/08EiadO7jxgjbJJdzX8mem"
       },
@@ -776,9 +760,25 @@
           "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
         }
       ],
-      "duration_ms": 154666,
-      "name": "What Would I Say To You Now",
-      "url": "https://open.spotify.com/track/6oqqQReeSBmu1TwSjtj1Vc"
+      "duration_ms": 219906,
+      "name": "Claire",
+      "url": "https://open.spotify.com/track/1bCXKWb5TTlhRgdrF3CUzW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Damage",
+        "url": "https://open.spotify.com/album/3cTKLglWH2XfDfbwqXvaGo"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Appreciation",
+      "url": "https://open.spotify.com/track/0laArkVVQj7e5ld4oiN615"
     },
     {
       "added_at": null,

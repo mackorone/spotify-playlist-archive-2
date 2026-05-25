@@ -1,6 +1,6 @@
 {
   "description": "Chillout to the coolest Korean folk/acoustic tunes. (Cover: \ubc15\ucc2c\uc601(Park Chan Young)) \uac10\ubbf8\ub86d\uace0 \ubd80\ub4dc\ub7ec\uc6b4 \ud55c\uad6d \ud3ec\ud06c/\uc5b4\ucfe0\uc2a4\ud2f1 \uc74c\uc545\uacfc \ud568\uaed8\ud558\uc138\uc694.",
-  "num_followers": 298766,
+  "num_followers": 298785,
   "original_name": "K-Folk/Acoustic",
   "owner": {
     "name": "Spotify",
@@ -443,22 +443,6 @@
     {
       "added_at": "2026-05-20 00:38:17",
       "album": {
-        "name": "LOVE SHOT\u2013 The 5th Album Repackage",
-        "url": "https://open.spotify.com/album/3r5m8utqRZYJnpep7xxVyq"
-      },
-      "artists": [
-        {
-          "name": "EXO",
-          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
-        }
-      ],
-      "duration_ms": 248768,
-      "name": "Wait",
-      "url": "https://open.spotify.com/track/1gyhtYG9OWOZvhZzDVF6lq"
-    },
-    {
-      "added_at": "2026-05-20 00:38:17",
-      "album": {
         "name": "Just 10 centimeters",
         "url": "https://open.spotify.com/album/5tu1i1zZVNP5aZ7UNrAviL"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 195506,
       "name": "Just 10 centimeters",
       "url": "https://open.spotify.com/track/4FKmrrI6y8REWoCyV5tAhY"
+    },
+    {
+      "added_at": "2026-05-20 00:38:17",
+      "album": {
+        "name": "LOVE SHOT\u2013 The 5th Album Repackage",
+        "url": "https://open.spotify.com/album/3r5m8utqRZYJnpep7xxVyq"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "duration_ms": 248768,
+      "name": "Wait",
+      "url": "https://open.spotify.com/track/1gyhtYG9OWOZvhZzDVF6lq"
     },
     {
       "added_at": "2026-05-20 00:38:17",
@@ -695,22 +695,6 @@
     {
       "added_at": "2026-05-20 00:38:17",
       "album": {
-        "name": "Change",
-        "url": "https://open.spotify.com/album/5IKR5OzEVQApwgp7mjWBK6"
-      },
-      "artists": [
-        {
-          "name": "10CM",
-          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "First Date (2026 ver.)",
-      "url": "https://open.spotify.com/track/47so8QhBwzJYh211xsnljl"
-    },
-    {
-      "added_at": "2026-05-20 00:38:17",
-      "album": {
         "name": "NEXT EPISODE",
         "url": "https://open.spotify.com/album/0Pt0eGpyNO5dDN8PORypSy"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 195882,
       "name": "EVEREST (with Sam Kim)",
       "url": "https://open.spotify.com/track/1c3WMOE7Q0dCFN6bjT8KWo"
+    },
+    {
+      "added_at": "2026-05-20 00:38:17",
+      "album": {
+        "name": "Change",
+        "url": "https://open.spotify.com/album/5IKR5OzEVQApwgp7mjWBK6"
+      },
+      "artists": [
+        {
+          "name": "10CM",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "First Date (2026 ver.)",
+      "url": "https://open.spotify.com/track/47so8QhBwzJYh211xsnljl"
     },
     {
       "added_at": "2026-05-20 00:38:17",

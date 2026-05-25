@@ -4,7 +4,7 @@
 
 > This is Harold Melvin & The Blue Notes\. The essential tracks, all in one playlist.
 
-110 songs - 8 hr 8 min
+111 songs - 8 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [A House Is Not A Home \- Live](https://open.spotify.com/track/1RSo4zPAo4BlHaZwldlzRp) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv), [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Sharon Paige](https://open.spotify.com/artist/112QjqKDa4MQbs0FhOAgNk) | [The Intruders vs Harold Melvin's Blue Notes \(Live In Concert\)](https://open.spotify.com/album/1UWBEyPgg7GaXRAx2JV4QN) | 8:18 | 2022-05-25 |  |
 | [A Nice Girl Like You \- Live](https://open.spotify.com/track/3y9AVMDrZImpdf4h00peV2) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv), [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Sharon Paige](https://open.spotify.com/artist/112QjqKDa4MQbs0FhOAgNk) | [The Intruders vs Harold Melvin's Blue Notes \(Live In Concert\)](https://open.spotify.com/album/1UWBEyPgg7GaXRAx2JV4QN) | 3:49 | 2024-04-08 | 2024-04-10 |
 | [After You Love Me, Why Do You Leave Me](https://open.spotify.com/track/5H2LSOqGNgfcD8DRjeWTrZ) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy) | [The ABC's Of Soul, Vol\. 3 \(Classics From The ABC Records Catalog 1975\-1979\)](https://open.spotify.com/album/3pbZUEap46WPw4nxrSjP4n) | 4:45 | 2022-05-25 |  |
-| [Ain't No Stoppin' Us Now](https://open.spotify.com/track/0YSF0I9rIHhZR4LDac3xKa) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy) | [Harold Melvin & The Blue Notes Greatest Hits](https://open.spotify.com/album/6LOvh9NqZLp9TKglDySzEP) | 3:45 | 2024-02-21 |  |
+| [Ain't No Stoppin' Us Now](https://open.spotify.com/track/0YSF0I9rIHhZR4LDac3xKa) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy) | [Harold Melvin & The Blue Notes Greatest Hits](https://open.spotify.com/album/6LOvh9NqZLp9TKglDySzEP) | 3:45 | 2024-02-21 | 2026-05-25 |
+| [Ain't No Stoppin' Us Now \- Rerecorded](https://open.spotify.com/track/2qTuDMi8b2mQNzTp4J2DDS) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy) | [Golden Disco Days: 25 Dancefloor Hits from the 70s, Vol\. 2](https://open.spotify.com/album/2eDju0zji7UJ7toNzfcHVN) | 3:45 | 2026-05-25 |  |
 | [Ain't No Stoppin' Us Now \- Rerecorded](https://open.spotify.com/track/3Qs8JAcb0sFYXSt6husd3f) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy) | [Harold Melvin & The Blue Notes](https://open.spotify.com/album/3mfHEkuBkfqNzHsgVNybOr) | 3:45 | 2022-05-26 | 2023-12-16 |
 | [Ain't No Stoppin' Us Now \- Rerecorded](https://open.spotify.com/track/4bPsYicJ4OoYjPGvuvfyLW) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy) | [Golden Disco Days: 25 Dancefloor Hits from the 70s, Vol\. 2](https://open.spotify.com/album/4vkZVNXRRoJeOtpePA1Bep) | 3:45 | 2024-05-07 | 2025-09-06 |
 | [All Night Love](https://open.spotify.com/track/22gYBY9H7vxZYMjB9THXL5) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy) | [Philadelphia Soul](https://open.spotify.com/album/3dMZCIfXUns8VppCaP53Av) | 5:56 | 2022-05-25 |  |

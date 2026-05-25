@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17hgFa.md) - [plain]
 
 > This is Billie Holiday\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,449 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,465 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17hgFa.md) - [plain]
 | 14 | [P.S\. I Love You](https://open.spotify.com/track/7vmC7JVs2lGtdaE3vg8aPp) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [The Complete Billie Holiday On Verve 1945 \- 1959](https://open.spotify.com/album/0IDzonuhaUBQp0zB03t6tC) | 3:34 |
 | 15 | [Moonglow](https://open.spotify.com/track/1rUpHU45dBawthkWVugcQn) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Solitude](https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp) | 2:59 |
 | 16 | [I'll Look Around](https://open.spotify.com/track/1wAURZCIA0k5RNwaJN3dH3) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [The Lady Sings](https://open.spotify.com/album/12Ie61TJvvha9qm27suytg) | 3:15 |
-| 17 | [Crazy He Calls Me](https://open.spotify.com/track/4mQz22nF9cyWqwuErTqc6V) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Lover Man](https://open.spotify.com/album/7tsBTgXE5wZggdmh5qBhZH) | 3:05 |
-| 18 | [Easy Living](https://open.spotify.com/track/0XsbCr34semDxq0ZX84BCh) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Billie Holiday Love Songs](https://open.spotify.com/album/3MXpFQDq1cTE4WfGZDAsY4) | 3:01 |
+| 17 | [Easy Living](https://open.spotify.com/track/0XsbCr34semDxq0ZX84BCh) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Billie Holiday Love Songs](https://open.spotify.com/album/3MXpFQDq1cTE4WfGZDAsY4) | 3:01 |
+| 18 | [Crazy He Calls Me](https://open.spotify.com/track/4mQz22nF9cyWqwuErTqc6V) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Lover Man](https://open.spotify.com/album/7tsBTgXE5wZggdmh5qBhZH) | 3:05 |
 | 19 | [On The Sunny Side Of The Street](https://open.spotify.com/track/16ARXAJAcL8ubHDpBLcqDQ) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Billie Holiday](https://open.spotify.com/album/4MkdTflpaaGGcXb5vtOYRs) | 2:59 |
 | 20 | [Easy To Love](https://open.spotify.com/track/5FVAdaE6kYzs49jpQviM05) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Solitude](https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp) | 2:59 |
 | 21 | [Love Is Here To Stay](https://open.spotify.com/track/1OO3dnVkQTe3gQM1ItasyR) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [All Or Nothing At All](https://open.spotify.com/album/1q9Yh4EDALgMa8VYsI7bn5) | 3:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17hgFa.md) - [plain]
 | 49 | [Willow Weep For Me](https://open.spotify.com/track/4W6g5kfwp0LVBFauBSdx08) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Lady Sings The Blues](https://open.spotify.com/album/4Es5UWdUtj8CYn99AqCWPo) | 3:06 |
 | 50 | [Gloomy Sunday \(with Teddy Wilson & His Orchestra\) \- Take 1](https://open.spotify.com/track/41CHb7F7SXcmkj0h8wekeF) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp), [Teddy Wilson](https://open.spotify.com/artist/0tg5uVI4VjzZOFzBryJZii) | [Lady Day: The Complete Billie Holiday On Columbia \(1933\-1944\)](https://open.spotify.com/album/7pBwUBRsdgtIyX7tGOmaoy) | 3:10 |
 
-Snapshot ID: `ag+cgAAAAADa9yklUlLYX4YsYMivzCLz`
+Snapshot ID: `ahDuAAAAAAA7q1ZWYsW50Fhaj9nbUorl`

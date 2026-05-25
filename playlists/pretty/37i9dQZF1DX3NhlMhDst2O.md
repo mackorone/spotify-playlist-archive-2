@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NhlMhDst2O.md) - [plain]
 
 > Sintoniza los éxitos románticos del siglo pasado 🥀
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,007 likes - 125 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,060 likes - 125 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NhlMhDst2O.md) - [plain]
 | 68 | [Tú Eres](https://open.spotify.com/track/3XR3LkDvFIs32jEz1KdzTx) | [Generacion 2000](https://open.spotify.com/artist/0EFNcc6Ju1d2Ik5i1jHrCd) | [Solo Para Ti](https://open.spotify.com/album/3LRXbYxa6LgY8W7jUHYNnk) | 2:20 |
 | 69 | [Asi Te Quiero \- Con Mariachi](https://open.spotify.com/track/6Giyrsy6YvS27OceT6jm16) | [Los Yonic's](https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt) | [16 Exitos De Oro](https://open.spotify.com/album/0H7gQr029I6IVxfcHNXS3d) | 3:53 |
 | 70 | [Cuando Tu Cariño](https://open.spotify.com/track/1eVAsvppzlVxt1BK3JbCLJ) | [Rigo Tovar](https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx) | [Recordando Monterrey](https://open.spotify.com/album/2n1CryXhnIVXisogTOd9JF) | 2:45 |
-| 71 | [Corazón De Roca](https://open.spotify.com/track/6Ee814wVq9qxN9qW2KGtru) | [Los Fresno](https://open.spotify.com/artist/1SKoHnOYqNnRyPjKiiX7pU) | [Emonciones Sin Limite \(Volumen 5\)](https://open.spotify.com/album/4JdwBtjOiUEPiRfBYT5D42) | 3:15 |
-| 72 | [Eres Mi Mundo](https://open.spotify.com/track/5hkA0x4asdvj5V3cR8V1Si) | [Grupo Yndio](https://open.spotify.com/artist/2ExqFhtOJ3rXrYJkBMqAxD) | [Éxitos De Época \(De Colección\)](https://open.spotify.com/album/1G7SdOH7XOFgNnzB9bgSAw) | 2:48 |
+| 71 | [Eres Mi Mundo](https://open.spotify.com/track/5hkA0x4asdvj5V3cR8V1Si) | [Grupo Yndio](https://open.spotify.com/artist/2ExqFhtOJ3rXrYJkBMqAxD) | [Éxitos De Época \(De Colección\)](https://open.spotify.com/album/1G7SdOH7XOFgNnzB9bgSAw) | 2:48 |
+| 72 | [Corazón De Roca](https://open.spotify.com/track/6Ee814wVq9qxN9qW2KGtru) | [Los Fresno](https://open.spotify.com/artist/1SKoHnOYqNnRyPjKiiX7pU) | [Emonciones Sin Limite \(Volumen 5\)](https://open.spotify.com/album/4JdwBtjOiUEPiRfBYT5D42) | 3:15 |
 | 73 | [Corazón Limpio](https://open.spotify.com/track/2oziP5rlqR0kKHbGzIOL0b) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd), [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Por Amor A Mi Pueblo](https://open.spotify.com/album/6Fzh7DxhjZ1fImQAHBe8od) | 2:59 |
 | 74 | [Pecado Mortal](https://open.spotify.com/track/3uJW3j46luxDB4CrJY90l5) | [Los Barbaros](https://open.spotify.com/artist/1YOOqViXEnQ7gHpezp34TX) | [Solo Para Ti](https://open.spotify.com/album/3LRXbYxa6LgY8W7jUHYNnk) | 3:26 |
 | 75 | [Como Me Gusta Quererte](https://open.spotify.com/track/1HZ95xv94RiBl0hwjs4EpY) | [Los Bondadosos](https://open.spotify.com/artist/0YUKqx7Lwb3synsaME2kQE) | [17 Super Exitos](https://open.spotify.com/album/4T3cjmsFQWzFkJaeDU2IUu) | 3:26 |

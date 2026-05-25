@@ -1,6 +1,6 @@
 {
   "description": "mate- Bus stop!",
-  "num_followers": 20612,
+  "num_followers": 20624,
   "original_name": "Troski Rhythms",
   "owner": {
     "name": "Spotify",
@@ -583,6 +583,26 @@
     {
       "added_at": "2026-05-22 00:02:07",
       "album": {
+        "name": "Sweet Boy",
+        "url": "https://open.spotify.com/album/5bemAcOU06NptwvjYE3lLs"
+      },
+      "artists": [
+        {
+          "name": "Kuami Eugene",
+          "url": "https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl"
+        },
+        {
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+        }
+      ],
+      "duration_ms": 175148,
+      "name": "Stranger",
+      "url": "https://open.spotify.com/track/242WBNiAmAI4iF41XEr4Vx"
+    },
+    {
+      "added_at": "2026-05-22 00:02:07",
+      "album": {
         "name": "Violence (feat. Kweku Smoke)",
         "url": "https://open.spotify.com/album/5osGGqJwqY0RIDmJxOyjfq"
       },
@@ -599,22 +619,6 @@
       "duration_ms": 185806,
       "name": "Violence (feat. Kweku Smoke)",
       "url": "https://open.spotify.com/track/7g7xysGXIN9YwwgpKhfV1Z"
-    },
-    {
-      "added_at": "2026-05-22 00:02:07",
-      "album": {
-        "name": "CAME OF AGE",
-        "url": "https://open.spotify.com/album/1WEt6ZRsPzCTQqmRGgaRID"
-      },
-      "artists": [
-        {
-          "name": "O'Kenneth",
-          "url": "https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM"
-        }
-      ],
-      "duration_ms": 167067,
-      "name": "EASY",
-      "url": "https://open.spotify.com/track/0zGx4JuFITnZggFoEWuXUh"
     },
     {
       "added_at": "2026-05-22 00:02:07",
@@ -655,22 +659,18 @@
     {
       "added_at": "2026-05-22 00:02:07",
       "album": {
-        "name": "Sweet Boy",
-        "url": "https://open.spotify.com/album/5bemAcOU06NptwvjYE3lLs"
+        "name": "CAME OF AGE",
+        "url": "https://open.spotify.com/album/1WEt6ZRsPzCTQqmRGgaRID"
       },
       "artists": [
         {
-          "name": "Kuami Eugene",
-          "url": "https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl"
-        },
-        {
-          "name": "Gyakie",
-          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+          "name": "O'Kenneth",
+          "url": "https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM"
         }
       ],
-      "duration_ms": 175148,
-      "name": "Stranger",
-      "url": "https://open.spotify.com/track/242WBNiAmAI4iF41XEr4Vx"
+      "duration_ms": 167067,
+      "name": "EASY",
+      "url": "https://open.spotify.com/track/0zGx4JuFITnZggFoEWuXUh"
     },
     {
       "added_at": "2026-05-22 00:02:07",
@@ -727,6 +727,30 @@
     {
       "added_at": "2026-05-22 00:02:07",
       "album": {
+        "name": "Aso II",
+        "url": "https://open.spotify.com/album/4b5WPLK3aUss1Thmu6v6HQ"
+      },
+      "artists": [
+        {
+          "name": "Kwabena Kwabena",
+          "url": "https://open.spotify.com/artist/6zKu61RG80pBKOMUbBKNMr"
+        },
+        {
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+        },
+        {
+          "name": "Kofi Kinaata",
+          "url": "https://open.spotify.com/artist/6TQW172m1l4Tf4Hp55ZdDm"
+        }
+      ],
+      "duration_ms": 266967,
+      "name": "Aso II",
+      "url": "https://open.spotify.com/track/2OAZTmQH3HwsVzDYeK3LDw"
+    },
+    {
+      "added_at": "2026-05-22 00:02:07",
+      "album": {
         "name": "BALENCIAGA II",
         "url": "https://open.spotify.com/album/4ZDzI9tLDiRfd2zL5XmQug"
       },
@@ -755,30 +779,6 @@
       "duration_ms": 301530,
       "name": "BALENCIAGA II",
       "url": "https://open.spotify.com/track/1NPH6x3Pb3ByklHyaA5MGV"
-    },
-    {
-      "added_at": "2026-05-22 00:02:07",
-      "album": {
-        "name": "Aso II",
-        "url": "https://open.spotify.com/album/4b5WPLK3aUss1Thmu6v6HQ"
-      },
-      "artists": [
-        {
-          "name": "Kwabena Kwabena",
-          "url": "https://open.spotify.com/artist/6zKu61RG80pBKOMUbBKNMr"
-        },
-        {
-          "name": "Stonebwoy",
-          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
-        },
-        {
-          "name": "Kofi Kinaata",
-          "url": "https://open.spotify.com/artist/6TQW172m1l4Tf4Hp55ZdDm"
-        }
-      ],
-      "duration_ms": 266967,
-      "name": "Aso II",
-      "url": "https://open.spotify.com/track/2OAZTmQH3HwsVzDYeK3LDw"
     },
     {
       "added_at": "2026-05-22 00:02:07",
@@ -855,22 +855,6 @@
     {
       "added_at": "2026-05-22 00:02:07",
       "album": {
-        "name": "BALENCIAGA",
-        "url": "https://open.spotify.com/album/4xA3y8qPxOG6zRjk1ZE0G9"
-      },
-      "artists": [
-        {
-          "name": "O'Kenneth",
-          "url": "https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM"
-        }
-      ],
-      "duration_ms": 140014,
-      "name": "BALENCIAGA",
-      "url": "https://open.spotify.com/track/1v50F7vK31Czts54YID73W"
-    },
-    {
-      "added_at": "2026-05-22 00:02:07",
-      "album": {
         "name": "Habit",
         "url": "https://open.spotify.com/album/6c98Q6htS2zxyjaPT8vrJS"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 173033,
       "name": "Habit",
       "url": "https://open.spotify.com/track/1NtUT0I0TUPZB6OrN4dbkc"
+    },
+    {
+      "added_at": "2026-05-22 00:02:07",
+      "album": {
+        "name": "BALENCIAGA",
+        "url": "https://open.spotify.com/album/4xA3y8qPxOG6zRjk1ZE0G9"
+      },
+      "artists": [
+        {
+          "name": "O'Kenneth",
+          "url": "https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM"
+        }
+      ],
+      "duration_ms": 140014,
+      "name": "BALENCIAGA",
+      "url": "https://open.spotify.com/track/1v50F7vK31Czts54YID73W"
     },
     {
       "added_at": "2026-05-22 00:02:07",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2026-05-22 00:02:07",
       "album": {
+        "name": "TORCHER II",
+        "url": "https://open.spotify.com/album/5OKoGIvE7RR2RMVyuYPUhD"
+      },
+      "artists": [
+        {
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+        }
+      ],
+      "duration_ms": 179368,
+      "name": "Many Times",
+      "url": "https://open.spotify.com/track/1Z1qgSImhoKPVPgSDuXlrY"
+    },
+    {
+      "added_at": "2026-05-22 00:02:07",
+      "album": {
         "name": "Put It On God",
         "url": "https://open.spotify.com/album/5Lj5IvWqfZkWjbbYIu0wCH"
       },
@@ -1075,22 +1091,6 @@
       "duration_ms": 214426,
       "name": "Put It On God",
       "url": "https://open.spotify.com/track/0NdcAYoqISuYatf5IDQ7FK"
-    },
-    {
-      "added_at": "2026-05-22 00:02:07",
-      "album": {
-        "name": "TORCHER II",
-        "url": "https://open.spotify.com/album/5OKoGIvE7RR2RMVyuYPUhD"
-      },
-      "artists": [
-        {
-          "name": "Stonebwoy",
-          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
-        }
-      ],
-      "duration_ms": 179368,
-      "name": "Many Times",
-      "url": "https://open.spotify.com/track/1Z1qgSImhoKPVPgSDuXlrY"
     },
     {
       "added_at": "2026-05-22 00:02:07",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2026-05-22 00:02:07",
       "album": {
+        "name": "TORCHER II",
+        "url": "https://open.spotify.com/album/5OKoGIvE7RR2RMVyuYPUhD"
+      },
+      "artists": [
+        {
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+        }
+      ],
+      "duration_ms": 150535,
+      "name": "Yire (Fanfooler)",
+      "url": "https://open.spotify.com/track/1390ovzn0DCki8MOIUJ185"
+    },
+    {
+      "added_at": "2026-05-22 00:02:07",
+      "album": {
         "name": "Peace Of Mind",
         "url": "https://open.spotify.com/album/6XeLqCyD4eWpW45Y0YMgit"
       },
@@ -1163,22 +1179,6 @@
     {
       "added_at": "2026-05-22 00:02:07",
       "album": {
-        "name": "TORCHER II",
-        "url": "https://open.spotify.com/album/5OKoGIvE7RR2RMVyuYPUhD"
-      },
-      "artists": [
-        {
-          "name": "Stonebwoy",
-          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
-        }
-      ],
-      "duration_ms": 150535,
-      "name": "Yire (Fanfooler)",
-      "url": "https://open.spotify.com/track/1390ovzn0DCki8MOIUJ185"
-    },
-    {
-      "added_at": "2026-05-22 00:02:07",
-      "album": {
         "name": "The Matter",
         "url": "https://open.spotify.com/album/5a0AR2levIpBbG7n9qcvLp"
       },
@@ -1191,26 +1191,6 @@
       "duration_ms": 181968,
       "name": "The Matter",
       "url": "https://open.spotify.com/track/6tcy7IvK0ncegksr9YxNz0"
-    },
-    {
-      "added_at": "2026-05-22 00:02:07",
-      "album": {
-        "name": "Fallen Angel",
-        "url": "https://open.spotify.com/album/3O8VIa31ZtEh5DKRhMzp2m"
-      },
-      "artists": [
-        {
-          "name": "Smallgod",
-          "url": "https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP"
-        },
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        }
-      ],
-      "duration_ms": 200869,
-      "name": "Fallen Angel",
-      "url": "https://open.spotify.com/track/3XFc1Q32ssmKglaZKI5iTI"
     },
     {
       "added_at": "2026-05-22 00:02:07",
@@ -1231,18 +1211,22 @@
     {
       "added_at": "2026-05-22 00:02:07",
       "album": {
-        "name": "Tomorrow",
-        "url": "https://open.spotify.com/album/0UZfeZizENHfRbHmrCXbV6"
+        "name": "Fallen Angel",
+        "url": "https://open.spotify.com/album/3O8VIa31ZtEh5DKRhMzp2m"
       },
       "artists": [
         {
-          "name": "AlorG",
-          "url": "https://open.spotify.com/artist/3XVsxJ7cSnDnHtssbKiIPb"
+          "name": "Smallgod",
+          "url": "https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP"
+        },
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
         }
       ],
-      "duration_ms": 146000,
-      "name": "Tomorrow",
-      "url": "https://open.spotify.com/track/6NymBsuoyIsjNxZFZRmynz"
+      "duration_ms": 200869,
+      "name": "Fallen Angel",
+      "url": "https://open.spotify.com/track/3XFc1Q32ssmKglaZKI5iTI"
     },
     {
       "added_at": "2026-05-22 00:02:07",
@@ -1283,6 +1267,22 @@
     {
       "added_at": "2026-05-22 00:02:07",
       "album": {
+        "name": "Tomorrow",
+        "url": "https://open.spotify.com/album/0UZfeZizENHfRbHmrCXbV6"
+      },
+      "artists": [
+        {
+          "name": "AlorG",
+          "url": "https://open.spotify.com/artist/3XVsxJ7cSnDnHtssbKiIPb"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "Tomorrow",
+      "url": "https://open.spotify.com/track/6NymBsuoyIsjNxZFZRmynz"
+    },
+    {
+      "added_at": "2026-05-22 00:02:07",
+      "album": {
         "name": "WEATHER FOR 2",
         "url": "https://open.spotify.com/album/6NxHxVF09p78d9qBXFvJyX"
       },
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2026-05-22 00:02:07",
       "album": {
-        "name": "Agya",
-        "url": "https://open.spotify.com/album/5RRH1A3hPL1TvcOseyuEOn"
-      },
-      "artists": [
-        {
-          "name": "Kofi Mole",
-          "url": "https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac"
-        }
-      ],
-      "duration_ms": 138035,
-      "name": "Agya",
-      "url": "https://open.spotify.com/track/3mkxopCUD9KXldJJ1c743w"
-    },
-    {
-      "added_at": "2026-05-22 00:02:07",
-      "album": {
         "name": "Out The Mud",
         "url": "https://open.spotify.com/album/2zUbYr0EsC9FcatnR2AT3A"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 194307,
       "name": "Out The Mud",
       "url": "https://open.spotify.com/track/0ew3fsc3ljIZlb46OeTKJs"
+    },
+    {
+      "added_at": "2026-05-22 00:02:07",
+      "album": {
+        "name": "Agya",
+        "url": "https://open.spotify.com/album/5RRH1A3hPL1TvcOseyuEOn"
+      },
+      "artists": [
+        {
+          "name": "Kofi Mole",
+          "url": "https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac"
+        }
+      ],
+      "duration_ms": 138035,
+      "name": "Agya",
+      "url": "https://open.spotify.com/track/3mkxopCUD9KXldJJ1c743w"
     },
     {
       "added_at": "2026-05-22 00:02:07",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2026-05-22 00:02:07",
       "album": {
+        "name": "Matter",
+        "url": "https://open.spotify.com/album/05O6DVCuHwbJJKE6lj4VRb"
+      },
+      "artists": [
+        {
+          "name": "Tekno",
+          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
+        }
+      ],
+      "duration_ms": 169541,
+      "name": "Matter",
+      "url": "https://open.spotify.com/track/1LtqcH7fpqyIiGUgJvNIbM"
+    },
+    {
+      "added_at": "2026-05-22 00:02:07",
+      "album": {
         "name": "Outside / obaa sima",
         "url": "https://open.spotify.com/album/2KiBlKHtsrlaJIwriKI1Qi"
       },
@@ -1415,18 +1431,22 @@
     {
       "added_at": "2026-05-22 00:02:07",
       "album": {
-        "name": "Genesis 2 Revelation (Shatta Music)",
-        "url": "https://open.spotify.com/album/4A6r0SnmhQPRvXV9Vgbmyr"
+        "name": "Akua Broni",
+        "url": "https://open.spotify.com/album/0DL4sDESnkZXriFwYpvjVb"
       },
       "artists": [
         {
-          "name": "Shatta Wale",
-          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
+          "name": "Moon Byni",
+          "url": "https://open.spotify.com/artist/3qfpTiMILzhUEZWlQaM229"
+        },
+        {
+          "name": "Olivetheboy",
+          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
         }
       ],
-      "duration_ms": 129399,
-      "name": "Genesis 2 Revelation (Shatta Music)",
-      "url": "https://open.spotify.com/track/2LN77vL94QO4VixjDpqY89"
+      "duration_ms": 156428,
+      "name": "Akua Broni",
+      "url": "https://open.spotify.com/track/06qbJEpg6a4HTPYS8nSqMN"
     },
     {
       "added_at": "2026-05-22 00:02:07",
@@ -1447,26 +1467,6 @@
       "duration_ms": 197264,
       "name": "Fully Active (feat. Lalid)",
       "url": "https://open.spotify.com/track/1wA4YRKjoBgvkO7NoviGmN"
-    },
-    {
-      "added_at": "2026-05-22 00:02:07",
-      "album": {
-        "name": "Wins & Losses",
-        "url": "https://open.spotify.com/album/57SzMLliAmulps9UDpDOLk"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Yaadman fka Yung L",
-          "url": "https://open.spotify.com/artist/0XnH3M78JKVEjutHn1146c"
-        }
-      ],
-      "duration_ms": 179825,
-      "name": "Wins & Losses",
-      "url": "https://open.spotify.com/track/7ax7PkGEpJueZLT0nD6sBS"
     }
   ],
   "unique_name": "Troski Rhythms",

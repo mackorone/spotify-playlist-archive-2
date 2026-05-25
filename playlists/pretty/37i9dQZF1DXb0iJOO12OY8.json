@@ -1,6 +1,6 @@
 {
   "description": "\ud83e\udd1d",
-  "num_followers": 210811,
+  "num_followers": 210806,
   "original_name": "ung, dum & lovende",
   "owner": {
     "name": "Spotify",
@@ -783,6 +783,22 @@
     {
       "added_at": "2026-03-26 23:00:13",
       "album": {
+        "name": "Sorgenfri",
+        "url": "https://open.spotify.com/album/4n8prSVQyN3Cp4KcfCRyEi"
+      },
+      "artists": [
+        {
+          "name": "Beathoven",
+          "url": "https://open.spotify.com/artist/6w6TB0XMM0VZ3oDsy7tUYJ"
+        }
+      ],
+      "duration_ms": 149173,
+      "name": "Vin",
+      "url": "https://open.spotify.com/track/4UGiylwOx9pBF0D6VlnhpR"
+    },
+    {
+      "added_at": "2026-03-26 23:00:13",
+      "album": {
         "name": "Heartless",
         "url": "https://open.spotify.com/album/2WXVkG3pCRkjcAYJfcKk1m"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 146918,
       "name": "En million",
       "url": "https://open.spotify.com/track/3g6rsowrMVbPmCtuelXhjR"
-    },
-    {
-      "added_at": "2026-03-26 23:00:13",
-      "album": {
-        "name": "Sorgenfri",
-        "url": "https://open.spotify.com/album/4n8prSVQyN3Cp4KcfCRyEi"
-      },
-      "artists": [
-        {
-          "name": "Beathoven",
-          "url": "https://open.spotify.com/artist/6w6TB0XMM0VZ3oDsy7tUYJ"
-        }
-      ],
-      "duration_ms": 149173,
-      "name": "Vin",
-      "url": "https://open.spotify.com/track/4UGiylwOx9pBF0D6VlnhpR"
     },
     {
       "added_at": "2026-03-26 23:00:13",

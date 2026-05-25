@@ -1,6 +1,6 @@
 {
   "description": "Pos\u0142uchaj nominowanych do nagr\u00f3d Fryderyk w kategorii muzyka rozrywkowa i jazz.",
-  "num_followers": 19773,
+  "num_followers": 19932,
   "original_name": "Fryderyk 2026",
   "owner": {
     "name": "Spotify",
@@ -871,22 +871,6 @@
     {
       "added_at": "2026-05-13 08:19:16",
       "album": {
-        "name": "Fly High-Fi!",
-        "url": "https://open.spotify.com/album/1PDdmD6r7XGmMHos1YZeTF"
-      },
-      "artists": [
-        {
-          "name": "Vavamuffin",
-          "url": "https://open.spotify.com/artist/2Lm3vSenofPiawS8U58tMD"
-        }
-      ],
-      "duration_ms": 230124,
-      "name": "Dubbrat",
-      "url": "https://open.spotify.com/track/07tSNivehfYJ52SPt1ta2Q"
-    },
-    {
-      "added_at": "2026-05-13 08:19:16",
-      "album": {
         "name": "BUNT",
         "url": "https://open.spotify.com/album/15gTLiKvDdaG9kxU86rv1I"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 326653,
       "name": "Aport",
       "url": "https://open.spotify.com/track/7akEAUYosmzkXTpYvmfahf"
+    },
+    {
+      "added_at": "2026-05-13 08:19:16",
+      "album": {
+        "name": "Fly High-Fi!",
+        "url": "https://open.spotify.com/album/1PDdmD6r7XGmMHos1YZeTF"
+      },
+      "artists": [
+        {
+          "name": "Vavamuffin",
+          "url": "https://open.spotify.com/artist/2Lm3vSenofPiawS8U58tMD"
+        }
+      ],
+      "duration_ms": 230124,
+      "name": "Dubbrat",
+      "url": "https://open.spotify.com/track/07tSNivehfYJ52SPt1ta2Q"
     },
     {
       "added_at": "2026-05-13 08:19:16",
@@ -1075,22 +1075,18 @@
     {
       "added_at": "2026-05-13 08:19:16",
       "album": {
-        "name": "Fryderyk LIS",
-        "url": "https://open.spotify.com/album/1SfN921eAsd9laV3u0PX71"
+        "name": "Pianorizon",
+        "url": "https://open.spotify.com/album/3wAHEPL9ZlVZ1ru4jUtHa1"
       },
       "artists": [
         {
-          "name": "LIS",
-          "url": "https://open.spotify.com/artist/2GUiiK3uiO9aRJbWkCOGju"
-        },
-        {
-          "name": "Zuzanna Malisz",
-          "url": "https://open.spotify.com/artist/4jsgm84uldfJKyy0lSOF3A"
+          "name": "Bartek W\u0105sik",
+          "url": "https://open.spotify.com/artist/0ciNlHAkUTkFrV92LGRDDo"
         }
       ],
-      "duration_ms": 251447,
-      "name": "Etiuda f-moll z Trois Nouvelles \u00c9tudes nr 1 Dbop. 36A",
-      "url": "https://open.spotify.com/track/0j3xAlkbbM0ZTgBm8yYLeK"
+      "duration_ms": 165376,
+      "name": "Song Without Words",
+      "url": "https://open.spotify.com/track/3jy4CgcQrdkju4htINevNG"
     },
     {
       "added_at": "2026-05-13 08:19:16",
@@ -1115,18 +1111,22 @@
     {
       "added_at": "2026-05-13 08:19:16",
       "album": {
-        "name": "Pianorizon",
-        "url": "https://open.spotify.com/album/3wAHEPL9ZlVZ1ru4jUtHa1"
+        "name": "Fryderyk LIS",
+        "url": "https://open.spotify.com/album/1SfN921eAsd9laV3u0PX71"
       },
       "artists": [
         {
-          "name": "Bartek W\u0105sik",
-          "url": "https://open.spotify.com/artist/0ciNlHAkUTkFrV92LGRDDo"
+          "name": "LIS",
+          "url": "https://open.spotify.com/artist/2GUiiK3uiO9aRJbWkCOGju"
+        },
+        {
+          "name": "Zuzanna Malisz",
+          "url": "https://open.spotify.com/artist/4jsgm84uldfJKyy0lSOF3A"
         }
       ],
-      "duration_ms": 165376,
-      "name": "Song Without Words",
-      "url": "https://open.spotify.com/track/3jy4CgcQrdkju4htINevNG"
+      "duration_ms": 251447,
+      "name": "Etiuda f-moll z Trois Nouvelles \u00c9tudes nr 1 Dbop. 36A",
+      "url": "https://open.spotify.com/track/0j3xAlkbbM0ZTgBm8yYLeK"
     },
     {
       "added_at": "2026-05-13 08:19:16",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2026-05-13 08:19:16",
       "album": {
+        "name": "Romeo i Julia \u017cyj\u0105",
+        "url": "https://open.spotify.com/album/6ku8fzO1axKBuidY8MJcI3"
+      },
+      "artists": [
+        {
+          "name": "Arek Jakubik",
+          "url": "https://open.spotify.com/artist/2LYq9SQ6sfDsHl2PwN1PFh"
+        }
+      ],
+      "duration_ms": 333250,
+      "name": "Sonda uliczna",
+      "url": "https://open.spotify.com/track/4z9pOWfoOflplzmjjRYefx"
+    },
+    {
+      "added_at": "2026-05-13 08:19:16",
+      "album": {
         "name": "Agma",
         "url": "https://open.spotify.com/album/4AQeD34OK5WncJ4yzOpJOk"
       },
@@ -1195,6 +1211,22 @@
     {
       "added_at": "2026-05-13 08:19:16",
       "album": {
+        "name": "CITY CLUSTER",
+        "url": "https://open.spotify.com/album/3AnVflrT0bjMfbEGKsFfuU"
+      },
+      "artists": [
+        {
+          "name": "Micha\u0142 FOX Kr\u00f3l",
+          "url": "https://open.spotify.com/artist/5sQT3ksKgSbif3ykU1tMek"
+        }
+      ],
+      "duration_ms": 253000,
+      "name": "UP & DOWN",
+      "url": "https://open.spotify.com/track/6tfwKz3crWeA0PIF5OnS4F"
+    },
+    {
+      "added_at": "2026-05-13 08:19:16",
+      "album": {
         "name": "No Return No Karma",
         "url": "https://open.spotify.com/album/6UO4PU9xukOuML8enQAEBB"
       },
@@ -1215,38 +1247,6 @@
     {
       "added_at": "2026-05-13 08:19:16",
       "album": {
-        "name": "Romeo i Julia \u017cyj\u0105",
-        "url": "https://open.spotify.com/album/6ku8fzO1axKBuidY8MJcI3"
-      },
-      "artists": [
-        {
-          "name": "Arek Jakubik",
-          "url": "https://open.spotify.com/artist/2LYq9SQ6sfDsHl2PwN1PFh"
-        }
-      ],
-      "duration_ms": 333250,
-      "name": "Sonda uliczna",
-      "url": "https://open.spotify.com/track/4z9pOWfoOflplzmjjRYefx"
-    },
-    {
-      "added_at": "2026-05-13 08:19:16",
-      "album": {
-        "name": "CITY CLUSTER",
-        "url": "https://open.spotify.com/album/3AnVflrT0bjMfbEGKsFfuU"
-      },
-      "artists": [
-        {
-          "name": "Micha\u0142 FOX Kr\u00f3l",
-          "url": "https://open.spotify.com/artist/5sQT3ksKgSbif3ykU1tMek"
-        }
-      ],
-      "duration_ms": 253000,
-      "name": "UP & DOWN",
-      "url": "https://open.spotify.com/track/6tfwKz3crWeA0PIF5OnS4F"
-    },
-    {
-      "added_at": "2026-05-13 08:19:16",
-      "album": {
         "name": "Pami\u0119tam twoje oczy",
         "url": "https://open.spotify.com/album/3dDdRaotev2wwa1UzS98Tx"
       },
@@ -1259,6 +1259,26 @@
       "duration_ms": 181812,
       "name": "Pami\u0119tam twoje oczy",
       "url": "https://open.spotify.com/track/2QHokdfFac8aYoGuqbI9uk"
+    },
+    {
+      "added_at": "2026-05-13 08:19:16",
+      "album": {
+        "name": "Budy\u0144 o smaku Mickiewicza",
+        "url": "https://open.spotify.com/album/4v1jN87zI3hmMraLsmTAPK"
+      },
+      "artists": [
+        {
+          "name": "Nikola Ko\u0142odziejczyk Orchestra",
+          "url": "https://open.spotify.com/artist/3k2YeYtwjRmIHv6FjlCmhy"
+        },
+        {
+          "name": "Tomasz Organek",
+          "url": "https://open.spotify.com/artist/3uw2vI1IAQ7DPUY4g3p5FR"
+        }
+      ],
+      "duration_ms": 701500,
+      "name": "\u015awitezianka",
+      "url": "https://open.spotify.com/track/0kPDGa8tW4fFPifXwo8F8M"
     },
     {
       "added_at": "2026-05-13 08:19:16",
@@ -1295,6 +1315,26 @@
     {
       "added_at": "2026-05-13 08:19:16",
       "album": {
+        "name": "Czas rozpali\u0107 piec",
+        "url": "https://open.spotify.com/album/5KUnvYAdCfl0TLTyIMzJSR"
+      },
+      "artists": [
+        {
+          "name": "W\u0142odzimierz Nahorny",
+          "url": "https://open.spotify.com/artist/5FyRYKbSP4L7sNE9UtWoSS"
+        },
+        {
+          "name": "Nula Stankiewicz",
+          "url": "https://open.spotify.com/artist/5ZlNdUfmPM28gBb2rdkulS"
+        }
+      ],
+      "duration_ms": 250359,
+      "name": "Czas rozpali\u0107 piec",
+      "url": "https://open.spotify.com/track/4y2okX9U20zbJWZYSaBAE2"
+    },
+    {
+      "added_at": "2026-05-13 08:19:16",
+      "album": {
         "name": "No Return No Karma",
         "url": "https://open.spotify.com/album/6UO4PU9xukOuML8enQAEBB"
       },
@@ -1315,26 +1355,6 @@
     {
       "added_at": "2026-05-13 08:19:16",
       "album": {
-        "name": "Budy\u0144 o smaku Mickiewicza",
-        "url": "https://open.spotify.com/album/4v1jN87zI3hmMraLsmTAPK"
-      },
-      "artists": [
-        {
-          "name": "Nikola Ko\u0142odziejczyk Orchestra",
-          "url": "https://open.spotify.com/artist/3k2YeYtwjRmIHv6FjlCmhy"
-        },
-        {
-          "name": "Tomasz Organek",
-          "url": "https://open.spotify.com/artist/3uw2vI1IAQ7DPUY4g3p5FR"
-        }
-      ],
-      "duration_ms": 701500,
-      "name": "\u015awitezianka",
-      "url": "https://open.spotify.com/track/0kPDGa8tW4fFPifXwo8F8M"
-    },
-    {
-      "added_at": "2026-05-13 08:19:16",
-      "album": {
         "name": "Tequila Songs & Desert Winds",
         "url": "https://open.spotify.com/album/1oH0rDXXFWqpn2Bkdgil3F"
       },
@@ -1347,26 +1367,6 @@
       "duration_ms": 218193,
       "name": "Tequila, Mezcal",
       "url": "https://open.spotify.com/track/7xrvlfztFkz35612nYlHHz"
-    },
-    {
-      "added_at": "2026-05-13 08:19:16",
-      "album": {
-        "name": "Czas rozpali\u0107 piec",
-        "url": "https://open.spotify.com/album/5KUnvYAdCfl0TLTyIMzJSR"
-      },
-      "artists": [
-        {
-          "name": "W\u0142odzimierz Nahorny",
-          "url": "https://open.spotify.com/artist/5FyRYKbSP4L7sNE9UtWoSS"
-        },
-        {
-          "name": "Nula Stankiewicz",
-          "url": "https://open.spotify.com/artist/5ZlNdUfmPM28gBb2rdkulS"
-        }
-      ],
-      "duration_ms": 250359,
-      "name": "Czas rozpali\u0107 piec",
-      "url": "https://open.spotify.com/track/4y2okX9U20zbJWZYSaBAE2"
     },
     {
       "added_at": "2026-05-13 08:19:16",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2026-05-13 08:19:16",
       "album": {
-        "name": "No Return No Karma",
-        "url": "https://open.spotify.com/album/6UO4PU9xukOuML8enQAEBB"
-      },
-      "artists": [
-        {
-          "name": "Micha\u0142 Bara\u0144ski",
-          "url": "https://open.spotify.com/artist/6oH0zM5dxLJn7DSHsKuM0A"
-        }
-      ],
-      "duration_ms": 415693,
-      "name": "Seventh Sand",
-      "url": "https://open.spotify.com/track/5WzkuUQM1dj3IQIpI8Poey"
-    },
-    {
-      "added_at": "2026-05-13 08:19:16",
-      "album": {
         "name": "Fallen Angel",
         "url": "https://open.spotify.com/album/1G84svAz13TPJdzEIPNOmV"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 188516,
       "name": "Fallen Angel: IV. Fire",
       "url": "https://open.spotify.com/track/77FPbX7cVpo3S35cmHfrhZ"
+    },
+    {
+      "added_at": "2026-05-13 08:19:16",
+      "album": {
+        "name": "No Return No Karma",
+        "url": "https://open.spotify.com/album/6UO4PU9xukOuML8enQAEBB"
+      },
+      "artists": [
+        {
+          "name": "Micha\u0142 Bara\u0144ski",
+          "url": "https://open.spotify.com/artist/6oH0zM5dxLJn7DSHsKuM0A"
+        }
+      ],
+      "duration_ms": 415693,
+      "name": "Seventh Sand",
+      "url": "https://open.spotify.com/track/5WzkuUQM1dj3IQIpI8Poey"
     },
     {
       "added_at": "2026-05-13 08:19:16",

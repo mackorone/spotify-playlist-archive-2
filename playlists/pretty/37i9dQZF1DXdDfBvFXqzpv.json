@@ -1,6 +1,6 @@
 {
   "description": "Discover your personalized playlist of tracks from FIFA '98 to FIFA '23.",
-  "num_followers": 105861,
+  "num_followers": 105867,
   "original_name": "EA SPORTS FIFA Mix",
   "owner": {
     "name": "Spotify",
@@ -687,22 +687,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "Don't You Worry, Honey",
-        "url": "https://open.spotify.com/album/5VvCD7gVffRgdPfExxLfF4"
-      },
-      "artists": [
-        {
-          "name": "Sir Sly",
-          "url": "https://open.spotify.com/artist/3DFoVPonoAAt4EZ1FEI8ue"
-        }
-      ],
-      "duration_ms": 226587,
-      "name": "&Run",
-      "url": "https://open.spotify.com/track/0w4m3Xp4svlIoyL94Zjlyd"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "Fresh",
         "url": "https://open.spotify.com/album/3EfRjYnoNrTohOPCjVFhR5"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 179853,
       "name": "Cobrastyle (feat. Mad Cobra)",
       "url": "https://open.spotify.com/track/45sdD9GjryujVOcRJ4YQRQ"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "Don't You Worry, Honey",
+        "url": "https://open.spotify.com/album/5VvCD7gVffRgdPfExxLfF4"
+      },
+      "artists": [
+        {
+          "name": "Sir Sly",
+          "url": "https://open.spotify.com/artist/3DFoVPonoAAt4EZ1FEI8ue"
+        }
+      ],
+      "duration_ms": 226587,
+      "name": "&Run",
+      "url": "https://open.spotify.com/track/0w4m3Xp4svlIoyL94Zjlyd"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -743,22 +743,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "Shine A Light",
-        "url": "https://open.spotify.com/album/5dHZd6w1IlNc4W0JInztkG"
-      },
-      "artists": [
-        {
-          "name": "BANNERS",
-          "url": "https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX"
-        }
-      ],
-      "duration_ms": 225120,
-      "name": "Shine A Light",
-      "url": "https://open.spotify.com/track/1fDtoTPDyzkNOfFIRXxsC5"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "Beamer (Bad Boys)",
         "url": "https://open.spotify.com/album/2H2xvktwcRVmjsIn9KnOhh"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 195047,
       "name": "Beamer (Bad Boys)",
       "url": "https://open.spotify.com/track/1pkNZFVhcshcvN5I6Nvb0q"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "Shine A Light",
+        "url": "https://open.spotify.com/album/5dHZd6w1IlNc4W0JInztkG"
+      },
+      "artists": [
+        {
+          "name": "BANNERS",
+          "url": "https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX"
+        }
+      ],
+      "duration_ms": 225120,
+      "name": "Shine A Light",
+      "url": "https://open.spotify.com/track/1fDtoTPDyzkNOfFIRXxsC5"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -863,26 +863,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "CAPRISONGS",
-        "url": "https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM"
-      },
-      "artists": [
-        {
-          "name": "FKA twigs",
-          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
-        },
-        {
-          "name": "Shygirl",
-          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
-        }
-      ],
-      "duration_ms": 220040,
-      "name": "papi bones (feat. shygirl)",
-      "url": "https://open.spotify.com/track/5W2s4S60GoNsUthU51aUb8"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "Raging (feat. Kodaline)",
         "url": "https://open.spotify.com/album/1lmuf0jQIFOnFOSV2x4RyX"
       },
@@ -899,6 +879,42 @@
       "duration_ms": 224486,
       "name": "Raging (feat. Kodaline)",
       "url": "https://open.spotify.com/track/6DsFZITJMPnh8z5XewfVmL"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "Scissor Sisters",
+        "url": "https://open.spotify.com/album/65Fllu4vQdZQOh6id0YwIM"
+      },
+      "artists": [
+        {
+          "name": "Scissor Sisters",
+          "url": "https://open.spotify.com/artist/3Y10boYzeuFCJ4Qgp53w6o"
+        }
+      ],
+      "duration_ms": 271906,
+      "name": "Take Your Mama",
+      "url": "https://open.spotify.com/track/0LAfANg75hYiV1IAEP3vY6"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "CAPRISONGS",
+        "url": "https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM"
+      },
+      "artists": [
+        {
+          "name": "FKA twigs",
+          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
+        },
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        }
+      ],
+      "duration_ms": 220040,
+      "name": "papi bones (feat. shygirl)",
+      "url": "https://open.spotify.com/track/5W2s4S60GoNsUthU51aUb8"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -951,22 +967,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "Scissor Sisters",
-        "url": "https://open.spotify.com/album/65Fllu4vQdZQOh6id0YwIM"
-      },
-      "artists": [
-        {
-          "name": "Scissor Sisters",
-          "url": "https://open.spotify.com/artist/3Y10boYzeuFCJ4Qgp53w6o"
-        }
-      ],
-      "duration_ms": 271906,
-      "name": "Take Your Mama",
-      "url": "https://open.spotify.com/track/0LAfANg75hYiV1IAEP3vY6"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "A Deeper Understanding",
         "url": "https://open.spotify.com/album/4TkmrrpjlPoCPpGyDN3rkF"
       },
@@ -983,22 +983,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "1977",
-        "url": "https://open.spotify.com/album/3ZhTbUZNobDXuzcYWGzxA3"
-      },
-      "artists": [
-        {
-          "name": "Ana Tijoux",
-          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
-        }
-      ],
-      "duration_ms": 201986,
-      "name": "1977",
-      "url": "https://open.spotify.com/track/7tOAN6w4a1LD0iqkRnIrhZ"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "Emergency EP",
         "url": "https://open.spotify.com/album/1hZkAUxHrsteOYTCnrdD6J"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 169617,
       "name": "Emergency",
       "url": "https://open.spotify.com/track/6E7oFW7xTK6Ghucsq6tMUj"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "1977",
+        "url": "https://open.spotify.com/album/3ZhTbUZNobDXuzcYWGzxA3"
+      },
+      "artists": [
+        {
+          "name": "Ana Tijoux",
+          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
+        }
+      ],
+      "duration_ms": 201986,
+      "name": "1977",
+      "url": "https://open.spotify.com/track/7tOAN6w4a1LD0iqkRnIrhZ"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "She Don't Dance",
-        "url": "https://open.spotify.com/album/7JuHmjs1ho2kL6DvGWvnmH"
-      },
-      "artists": [
-        {
-          "name": "Everyone You Know",
-          "url": "https://open.spotify.com/artist/4UAnAM35NDxEWd5WXKv7jM"
-        }
-      ],
-      "duration_ms": 226610,
-      "name": "She Don't Dance",
-      "url": "https://open.spotify.com/track/4XOc8gjhKl7FvdD4CHBYIy"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "A Hundred Days Off",
         "url": "https://open.spotify.com/album/5n192ghquuwEFORZEtNyLg"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 548560,
       "name": "Two Months Off",
       "url": "https://open.spotify.com/track/4zI0wuANmj9DNkBOgXU5Wh"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "She Don't Dance",
+        "url": "https://open.spotify.com/album/7JuHmjs1ho2kL6DvGWvnmH"
+      },
+      "artists": [
+        {
+          "name": "Everyone You Know",
+          "url": "https://open.spotify.com/artist/4UAnAM35NDxEWd5WXKv7jM"
+        }
+      ],
+      "duration_ms": 226610,
+      "name": "She Don't Dance",
+      "url": "https://open.spotify.com/track/4XOc8gjhKl7FvdD4CHBYIy"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "Yesterday",
-        "url": "https://open.spotify.com/album/2VZolgD2RKzb5F4gSNkx1Y"
-      },
-      "artists": [
-        {
-          "name": "Loyle Carner",
-          "url": "https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k"
-        }
-      ],
-      "duration_ms": 168654,
-      "name": "Yesterday",
-      "url": "https://open.spotify.com/track/0pRyOQjr12h9RBEFmhbTQc"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "A Little Deeper",
         "url": "https://open.spotify.com/album/3R6aIbq0UGfht1x0rck5Tn"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 217466,
       "name": "Dy-Na-Mi-Tee",
       "url": "https://open.spotify.com/track/3cCjEDTIWSNr5stzGhiRWI"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "Yesterday",
+        "url": "https://open.spotify.com/album/2VZolgD2RKzb5F4gSNkx1Y"
+      },
+      "artists": [
+        {
+          "name": "Loyle Carner",
+          "url": "https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k"
+        }
+      ],
+      "duration_ms": 168654,
+      "name": "Yesterday",
+      "url": "https://open.spotify.com/track/0pRyOQjr12h9RBEFmhbTQc"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "The Ride",
-        "url": "https://open.spotify.com/album/07IHAhsG4FnnfHQSb3bbAZ"
-      },
-      "artists": [
-        {
-          "name": "Catfish and the Bottlemen",
-          "url": "https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD"
-        }
-      ],
-      "duration_ms": 245533,
-      "name": "Postpone",
-      "url": "https://open.spotify.com/track/1IMtCtSqlw3VJv3IvCxkaz"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "Laughter, Tears & Goosebumps",
         "url": "https://open.spotify.com/album/4dZjYBEciWomanesAv3fie"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 164000,
       "name": "Scatter",
       "url": "https://open.spotify.com/track/0s3ZpsAaVCbWxDhLq2B2wh"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "The Ride",
+        "url": "https://open.spotify.com/album/07IHAhsG4FnnfHQSb3bbAZ"
+      },
+      "artists": [
+        {
+          "name": "Catfish and the Bottlemen",
+          "url": "https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD"
+        }
+      ],
+      "duration_ms": 245533,
+      "name": "Postpone",
+      "url": "https://open.spotify.com/track/1IMtCtSqlw3VJv3IvCxkaz"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "Talkie Walkie",
-        "url": "https://open.spotify.com/album/0hQOqvZv1nQvPiBjzyn363"
-      },
-      "artists": [
-        {
-          "name": "Air",
-          "url": "https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ"
-        }
-      ],
-      "duration_ms": 223373,
-      "name": "Surfing on a Rocket",
-      "url": "https://open.spotify.com/track/0RFduQOfkrP1jhoV0m8US2"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "ErruDumEllaHvad",
         "url": "https://open.spotify.com/album/6X1t3OqSHWM8zFEjGKHcyN"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 148942,
       "name": "ErruDumEllaHvad",
       "url": "https://open.spotify.com/track/5qaaQp6KvkEdB2q7SKQAcJ"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "Talkie Walkie",
+        "url": "https://open.spotify.com/album/0hQOqvZv1nQvPiBjzyn363"
+      },
+      "artists": [
+        {
+          "name": "Air",
+          "url": "https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ"
+        }
+      ],
+      "duration_ms": 223373,
+      "name": "Surfing on a Rocket",
+      "url": "https://open.spotify.com/track/0RFduQOfkrP1jhoV0m8US2"
     },
     {
       "added_at": "2022-11-02 14:00:00",

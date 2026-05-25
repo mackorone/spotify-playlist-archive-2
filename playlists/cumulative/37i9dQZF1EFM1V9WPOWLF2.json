@@ -273,6 +273,24 @@
     },
     {
       "album": {
+        "name": "Confesiones de las que me voy a arrepentir",
+        "url": "https://open.spotify.com/album/5OFNXI0QU9h4LTj9FIlTqE"
+      },
+      "artists": [
+        {
+          "name": "EMJAY",
+          "url": "https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn"
+        }
+      ],
+      "date_added": "2026-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160496,
+      "name": "bellaka",
+      "url": "https://open.spotify.com/track/3SXcjqgF74D9saMLxD9GGC"
+    },
+    {
+      "album": {
         "name": "Bendito",
         "url": "https://open.spotify.com/album/42WSpAwE63w2ahuZvpD4mo"
       },

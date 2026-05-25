@@ -4,7 +4,7 @@
 
 > Chill techno, melodic house and tech house.
 
-783 songs - 3 day 1 hr 6 min
+785 songs - 3 day 1 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Anela](https://open.spotify.com/track/5rCiW9SxiexqstBZXPLXyQ) | [Rey&Kjavik](https://open.spotify.com/artist/0R7kz98b2zjiuU3AffoeYz) | [Anela](https://open.spotify.com/album/6HsLLJb23YKIokQFg1ZIts) | 7:05 | 2019-08-06\* | 2020-06-11 |
 | [Animus \- Shorter](https://open.spotify.com/track/24rpWUub8ylST1yoHJ9p7Y) | [Polynation](https://open.spotify.com/artist/4Rcol4u0q89lypqKI83GDz) | [Animus](https://open.spotify.com/album/60aRhWwK8oAVRzpLKugTHs) | 4:11 | 2020-01-01 | 2021-02-27 |
 | [Anna Painting](https://open.spotify.com/track/4Q8LnVINko045PEZ9pul8v) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Anna Painting](https://open.spotify.com/album/0CTMk3XKsfG1LfmKu1KCCA) | 7:41 | 2019-09-19 | 2019-09-27 |
+| [Annihilation](https://open.spotify.com/track/42qH7RSRQBvrMiKfKNkUto) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5), [Korolova](https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx) | [Annihilation](https://open.spotify.com/album/6y9alfpegbSRAG98P91Nk0) | 3:07 | 2026-05-22 |  |
 | [Another Life](https://open.spotify.com/track/5HZbrOgpctobRrFdksmlWc) | [Korolova](https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx) | [Another Life](https://open.spotify.com/album/3II7Hydkx3F4yOXdUGntwJ) | 3:52 | 2026-05-01 |  |
 | [Another Life](https://open.spotify.com/track/1Ikxe4XFu0B5zW3FJX7PUO) | [Martin Badder](https://open.spotify.com/artist/6YDB8EqiwJvkIzXUtYgpA8), [Stealth](https://open.spotify.com/artist/6f3R3mqKR3kHp1KBNMUn80) | [Another Life](https://open.spotify.com/album/7658gfBxb1ZihgN0BA1CDg) | 6:24 | 2022-07-01 | 2023-09-30 |
 | [Answers](https://open.spotify.com/track/3O9u7F1dv9WVskCVlcLWmv) | [Paradoks](https://open.spotify.com/artist/0wKUDx34qpJqHSSGOFSAkf) | [Answers](https://open.spotify.com/album/6aLGXRE7kVWMS3zVjnfF2X) | 3:19 | 2025-07-18 |  |
@@ -49,7 +50,7 @@
 | [Arena](https://open.spotify.com/track/76CKJfYgZ17WZn6HQHszxT) | [Teho](https://open.spotify.com/artist/7uZckwZIIL89Paj8E1GEFO) | [Polytone](https://open.spotify.com/album/0LSCZqG1dAwWKeBqDvmiTh) | 6:15 | 2020-02-29 | 2021-10-14 |
 | [Articulation](https://open.spotify.com/track/1yVxLul2a4s6icKnMJsb93) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Articulation](https://open.spotify.com/album/5gI4vXb0TDc2vW0VVZIELj) | 6:30 | 2020-06-12 | 2021-05-28 |
 | [As We Roll](https://open.spotify.com/track/0wtVKPi0ctiZTlntlHjxLM) | [Peer Kusiv](https://open.spotify.com/artist/0yTV2etph4xN8PXPLPeEG5), [Diana Miro](https://open.spotify.com/artist/7HKB2dr6EceAJM8xRlXYlK) | [As We Roll](https://open.spotify.com/album/4L6AsmCj0aKipkcfA4Ug1d) | 6:52 | 2021-12-17 | 2022-07-28 |
-| [Ascension](https://open.spotify.com/track/6Gi53jMV1JLVFYOS2iywxA) | [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp), [Volen Sentir](https://open.spotify.com/artist/7scXA3hBD8JyGGajVR9q9l) | [Ascension](https://open.spotify.com/album/6mhiuF8VWrCnXFyX8UpPVS) | 4:04 | 2024-10-25 |  |
+| [Ascension](https://open.spotify.com/track/6Gi53jMV1JLVFYOS2iywxA) | [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp), [Volen Sentir](https://open.spotify.com/artist/7scXA3hBD8JyGGajVR9q9l) | [Ascension](https://open.spotify.com/album/6mhiuF8VWrCnXFyX8UpPVS) | 4:04 | 2024-10-25 | 2026-05-25 |
 | [Ashes in Paradise](https://open.spotify.com/track/2aa3mL5s2oZ5Z8irf9lDoI) | [Lauren Mia](https://open.spotify.com/artist/5HWKpmCYAFYybu5WKtxnnq) | [Ashes in Paradise](https://open.spotify.com/album/0GTW43ocEzYd18jSbdNU8z) | 6:30 | 2023-11-27 | 2024-06-22 |
 | [Asiri](https://open.spotify.com/track/4bdbWkbYxmGDOA7jLq5DdA) | [Joep Mencke](https://open.spotify.com/artist/0GapyFJVUjxdA2a4NlnhRm) | [Asiri](https://open.spotify.com/album/77PSTw3UsjsWTcxfgnDw72) | 9:38 | 2019-08-06\* | 2019-12-07 |
 | [Assaya \- Original Mix](https://open.spotify.com/track/13mciLwmOHd3gPWoHxwwuS) | [TH;EN](https://open.spotify.com/artist/6UbcuFp6HP6InTAbPASxff) | [Assaya](https://open.spotify.com/album/54FKQZNSDsGKTBG5X6MfI4) | 6:32 | 2019-08-06\* | 2019-08-15 |
@@ -534,7 +535,7 @@
 | [Protection](https://open.spotify.com/track/6gR1tZQ9cs1I6Ln7soMYLL) | [Henri Bergmann](https://open.spotify.com/artist/1FiAkaEAyepvi57FmYvJqo), [Wennink](https://open.spotify.com/artist/5ABv9Z75CGfgyALYFpB6Qk) | [Protection](https://open.spotify.com/album/6OKyLjichDzXZrbQF5TyTc) | 4:17 | 2021-08-05 | 2022-07-28 |
 | [Pulses](https://open.spotify.com/track/6QC45Bx01nZVaurY7rpF9p) | [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht) | [Pulses](https://open.spotify.com/album/3aMIEUER4eu1mukTRb766f) | 6:04 | 2022-10-28 | 2024-05-25 |
 | [Pulsing](https://open.spotify.com/track/5uy5YwhwkiuihoJQdEiuws) | [Fejká](https://open.spotify.com/artist/0VWvUvjaHaW1OeXtcVISu9) | [Pulsing](https://open.spotify.com/album/4WI3S9WHdO0wPocxqSXh4E) | 3:57 | 2022-07-08 | 2022-11-28 |
-| [Pump Up The Jam](https://open.spotify.com/track/4ksPwUFgqXopEItcz0sqEQ) | [Laherte](https://open.spotify.com/artist/1iHLjX5K4nfcDZGj0Z2lkP) | [Pump Up The Jam](https://open.spotify.com/album/18KZc0cUxOnJnUdWnczZNO) | 3:27 | 2026-01-09 |  |
+| [Pump Up The Jam](https://open.spotify.com/track/4ksPwUFgqXopEItcz0sqEQ) | [Laherte](https://open.spotify.com/artist/1iHLjX5K4nfcDZGj0Z2lkP) | [Pump Up The Jam](https://open.spotify.com/album/18KZc0cUxOnJnUdWnczZNO) | 3:27 | 2026-01-09 | 2026-05-25 |
 | [Pumpin'](https://open.spotify.com/track/3JrNYsMLZxd3R56UzjM4PL) | [Across Boundaries](https://open.spotify.com/artist/05LFLggIBdr1eWwonERbmT), [Chris Stussy](https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So), [Locklead](https://open.spotify.com/artist/14X4Rn0s4EuGtizL0l8IIw) | [Synergy](https://open.spotify.com/album/6uPaQH6cFgD0hNBqGePfG0) | 5:34 | 2024-06-21 | 2026-01-15 |
 | [Pure](https://open.spotify.com/track/3yICreqWo6oaNU136hP3u2) | [pølaroit](https://open.spotify.com/artist/3B1BQHf6ExWixwqy9zRDZm) | [Pure](https://open.spotify.com/album/78y3GpzYgLJWmZsbpaDqP1) | 6:05 | 2020-09-26 | 2022-10-31 |
 | [Pythia](https://open.spotify.com/track/5yxmvgjZR4hmlC1nryQaQp) | [Stil & Bense](https://open.spotify.com/artist/5nuJOwgBqKBIWyCr0dQgEH) | [Pythia](https://open.spotify.com/album/6N1z29blqEy549cmtpV8JW) | 7:46 | 2020-07-31 | 2020-09-26 |
@@ -610,6 +611,7 @@
 | [Slipstream \(feat\. Julia Church\)](https://open.spotify.com/track/64krw31lp3jUOuZHvGtgkB) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Slipstream \(feat\. Julia Church\)](https://open.spotify.com/album/0HpYLxmywUQw8Yg8bCfq5o) | 4:12 | 2023-11-11 | 2025-04-14 |
 | [SLOWLY](https://open.spotify.com/track/4R4ZU6XOQTNqNlADVcRLxp) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys), [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5) | [SLOWLY](https://open.spotify.com/album/3VmoOOqgRIipO0Qy2k9jE2) | 2:48 | 2025-08-15 | 2026-02-05 |
 | [Smiling Birds](https://open.spotify.com/track/222a7UeWbEtafZgtG5Jk8L) | [Ron Flatter](https://open.spotify.com/artist/0HZ3FXXgXyKoMHKwKSZOpq) | [Smiling Birds](https://open.spotify.com/album/17ikFw6pP5z3wNHP0uLEnZ) | 7:01 | 2021-11-23 | 2022-03-21 |
+| [So Good \(feat\. Kuuda\)](https://open.spotify.com/track/6CR63qhTJnek9DDejDemiY) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Josh Gigante](https://open.spotify.com/artist/7dcUWT1KmxjXieEnzFSjeH), [Kuuda](https://open.spotify.com/artist/2aPOSo3CvB3a15zDorFBCh) | [So Good \(feat\. Kuuda\)](https://open.spotify.com/album/5bbz0vL4jSp7q9qpKo7UU8) | 3:03 | 2026-05-22 |  |
 | [Solar](https://open.spotify.com/track/2GBRDBk7T7S9HH2qnb7hGz) | [Moritz Hofbauer](https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE) | [Solar](https://open.spotify.com/album/1XuAu9y2hafCD9euPlTjd2) | 5:03 | 2022-04-04 | 2022-04-17 |
 | [Solid](https://open.spotify.com/track/62DY8pd5ZcJSgytchGNuzP) | [Benzsoul](https://open.spotify.com/artist/0XXC5Wa9jqrU83q3lwGAhf) | [Solid](https://open.spotify.com/album/1okpvJ1vOGSnq0BGJgVcxy) | 6:44 | 2023-04-05 | 2023-04-29 |
 | [Someone Else](https://open.spotify.com/track/02pzOX3OB9N8psnEpmeD3a) | [Carlo Whale](https://open.spotify.com/artist/42J0pSvJGXvErpfYL1Nodj) | [Someone Else](https://open.spotify.com/album/4oXObLe6qLx9Z58eIMvRMW) | 6:18 | 2020-06-20 | 2020-07-18 |

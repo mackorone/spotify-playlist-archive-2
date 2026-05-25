@@ -1,12 +1,12 @@
 {
   "description": "This is Halestorm. The essential tracks, all in one playlist.",
-  "num_followers": 116063,
+  "num_followers": 116065,
   "original_name": "This Is Halestorm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ag+cgAAAAACCrMwnE1hRrKoZuNeJpX94",
+  "snapshot_id": "ahDuAAAAAAALU3hEnSdgxbi1byQ4gNgm",
   "tracks": [
     {
       "added_at": null,
@@ -207,8 +207,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Everest",
-        "url": "https://open.spotify.com/album/5i8fhyMoVuH1O3pofbxywv"
+        "name": "Into the Wild Life (Deluxe)",
+        "url": "https://open.spotify.com/album/7xJnw5LC1xpAsue1TIt36J"
       },
       "artists": [
         {
@@ -216,9 +216,9 @@
           "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
         }
       ],
-      "duration_ms": 262195,
-      "name": "Like A Woman Can",
-      "url": "https://open.spotify.com/track/2a938Z2yqpxHAyNLjJHymh"
+      "duration_ms": 178226,
+      "name": "Amen",
+      "url": "https://open.spotify.com/track/4CGTnYsVUV8QxRh8DxpU9a"
     },
     {
       "added_at": null,
@@ -239,8 +239,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Into the Wild Life (Deluxe)",
-        "url": "https://open.spotify.com/album/7xJnw5LC1xpAsue1TIt36J"
+        "name": "Everest",
+        "url": "https://open.spotify.com/album/5i8fhyMoVuH1O3pofbxywv"
       },
       "artists": [
         {
@@ -248,9 +248,9 @@
           "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
         }
       ],
-      "duration_ms": 178226,
-      "name": "Amen",
-      "url": "https://open.spotify.com/track/4CGTnYsVUV8QxRh8DxpU9a"
+      "duration_ms": 262195,
+      "name": "Like A Woman Can",
+      "url": "https://open.spotify.com/track/2a938Z2yqpxHAyNLjJHymh"
     },
     {
       "added_at": null,
@@ -319,6 +319,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Back From the Dead",
+        "url": "https://open.spotify.com/album/27Bw4tTQWjEv3jpp6ynGfu"
+      },
+      "artists": [
+        {
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+        }
+      ],
+      "duration_ms": 198799,
+      "name": "Raise Your Horns",
+      "url": "https://open.spotify.com/track/4YwXnWv3lnSFxpW9bO18hJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Shatter Me (Deluxe)",
         "url": "https://open.spotify.com/album/3iZrxTBRLvQ2b9W7sAwDBe"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 278800,
       "name": "Shatter Me",
       "url": "https://open.spotify.com/track/5TSnqybKlP8IKZT3uGjr7G"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Back From the Dead",
-        "url": "https://open.spotify.com/album/27Bw4tTQWjEv3jpp6ynGfu"
-      },
-      "artists": [
-        {
-          "name": "Halestorm",
-          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
-        }
-      ],
-      "duration_ms": 198799,
-      "name": "Raise Your Horns",
-      "url": "https://open.spotify.com/track/4YwXnWv3lnSFxpW9bO18hJ"
     },
     {
       "added_at": null,
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Halestorm (Deluxe)",
-        "url": "https://open.spotify.com/album/5iMlDARMRcsRn0hvFMgDfS"
-      },
-      "artists": [
-        {
-          "name": "Halestorm",
-          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
-        }
-      ],
-      "duration_ms": 194866,
-      "name": "I'm Not an Angel",
-      "url": "https://open.spotify.com/track/5vujcl17dn04lMgBGtI3Kf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Back From the Dead",
         "url": "https://open.spotify.com/album/27Bw4tTQWjEv3jpp6ynGfu"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 205228,
       "name": "Psycho Crazy",
       "url": "https://open.spotify.com/track/5TAdz0I4uEIOnUiJ3Q6YPd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Halestorm (Deluxe)",
+        "url": "https://open.spotify.com/album/5iMlDARMRcsRn0hvFMgDfS"
+      },
+      "artists": [
+        {
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+        }
+      ],
+      "duration_ms": 194866,
+      "name": "I'm Not an Angel",
+      "url": "https://open.spotify.com/track/5vujcl17dn04lMgBGtI3Kf"
     },
     {
       "added_at": null,
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vicious",
-        "url": "https://open.spotify.com/album/6hIMdrqgLXY73T9411Y7Ux"
-      },
-      "artists": [
-        {
-          "name": "Halestorm",
-          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Vicious",
-      "url": "https://open.spotify.com/track/1nbK54b5KkCw3CoJxFWxEg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Back From the Dead",
         "url": "https://open.spotify.com/album/27Bw4tTQWjEv3jpp6ynGfu"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 206959,
       "name": "Wicked Ways",
       "url": "https://open.spotify.com/track/7dIObUjmQfXbs56UsaBIHT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vicious",
+        "url": "https://open.spotify.com/album/6hIMdrqgLXY73T9411Y7Ux"
+      },
+      "artists": [
+        {
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Vicious",
+      "url": "https://open.spotify.com/track/1nbK54b5KkCw3CoJxFWxEg"
     },
     {
       "added_at": null,
@@ -655,8 +655,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Into the Wild Life (Deluxe)",
-        "url": "https://open.spotify.com/album/6jPjpEJBxT0HN71TAEohZ0"
+        "name": "Halestorm (Deluxe)",
+        "url": "https://open.spotify.com/album/5iMlDARMRcsRn0hvFMgDfS"
       },
       "artists": [
         {
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
         }
       ],
-      "duration_ms": 216760,
-      "name": "Mayhem",
-      "url": "https://open.spotify.com/track/6ubqrTIJwspBSqx8XQHN2K"
+      "duration_ms": 223213,
+      "name": "Bet U Wish U Had Me Back",
+      "url": "https://open.spotify.com/track/1ubMuTK0tZPAA1DqQia1WY"
     },
     {
       "added_at": null,
@@ -687,8 +687,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Halestorm (Deluxe)",
-        "url": "https://open.spotify.com/album/5iMlDARMRcsRn0hvFMgDfS"
+        "name": "Into the Wild Life (Deluxe)",
+        "url": "https://open.spotify.com/album/6jPjpEJBxT0HN71TAEohZ0"
       },
       "artists": [
         {
@@ -696,9 +696,9 @@
           "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
         }
       ],
-      "duration_ms": 223213,
-      "name": "Bet U Wish U Had Me Back",
-      "url": "https://open.spotify.com/track/1ubMuTK0tZPAA1DqQia1WY"
+      "duration_ms": 216760,
+      "name": "Mayhem",
+      "url": "https://open.spotify.com/track/6ubqrTIJwspBSqx8XQHN2K"
     },
     {
       "added_at": null,
@@ -715,38 +715,6 @@
       "duration_ms": 254838,
       "name": "Rain Your Blood On Me",
       "url": "https://open.spotify.com/track/7dIuRuZCs8MeF8BjOsGW3l"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Into the Wild Life (Deluxe)",
-        "url": "https://open.spotify.com/album/6jPjpEJBxT0HN71TAEohZ0"
-      },
-      "artists": [
-        {
-          "name": "Halestorm",
-          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
-        }
-      ],
-      "duration_ms": 207666,
-      "name": "Sick Individual",
-      "url": "https://open.spotify.com/track/5dPRMnwZ7CeQF4oolO8lYo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vicious",
-        "url": "https://open.spotify.com/album/6hIMdrqgLXY73T9411Y7Ux"
-      },
-      "artists": [
-        {
-          "name": "Halestorm",
-          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
-        }
-      ],
-      "duration_ms": 209133,
-      "name": "White Dress",
-      "url": "https://open.spotify.com/track/5URMqI3NUqQxSyTh5NjcnT"
     },
     {
       "added_at": null,
@@ -771,6 +739,38 @@
       "duration_ms": 254887,
       "name": "Out In the Rain",
       "url": "https://open.spotify.com/track/3OEbly55618a1uDTP3Pd4a"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vicious",
+        "url": "https://open.spotify.com/album/6hIMdrqgLXY73T9411Y7Ux"
+      },
+      "artists": [
+        {
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+        }
+      ],
+      "duration_ms": 209133,
+      "name": "White Dress",
+      "url": "https://open.spotify.com/track/5URMqI3NUqQxSyTh5NjcnT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Into the Wild Life (Deluxe)",
+        "url": "https://open.spotify.com/album/6jPjpEJBxT0HN71TAEohZ0"
+      },
+      "artists": [
+        {
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+        }
+      ],
+      "duration_ms": 207666,
+      "name": "Sick Individual",
+      "url": "https://open.spotify.com/track/5dPRMnwZ7CeQF4oolO8lYo"
     },
     {
       "added_at": null,
@@ -807,22 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Into the Wild Life (Deluxe)",
-        "url": "https://open.spotify.com/album/6jPjpEJBxT0HN71TAEohZ0"
-      },
-      "artists": [
-        {
-          "name": "Halestorm",
-          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
-        }
-      ],
-      "duration_ms": 212973,
-      "name": "What Sober Couldn't Say",
-      "url": "https://open.spotify.com/track/3ONPIg5DWB6V0QFUwKq8jQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Shooting Star",
         "url": "https://open.spotify.com/album/1RVbpAB5qeezJb1Ka1z4Wp"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 395880,
       "name": "Shooting Star",
       "url": "https://open.spotify.com/track/0gxgmkQJPIUqgHCmzHYRBW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Into the Wild Life (Deluxe)",
+        "url": "https://open.spotify.com/album/6jPjpEJBxT0HN71TAEohZ0"
+      },
+      "artists": [
+        {
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+        }
+      ],
+      "duration_ms": 212973,
+      "name": "What Sober Couldn't Say",
+      "url": "https://open.spotify.com/track/3ONPIg5DWB6V0QFUwKq8jQ"
     }
   ],
   "unique_name": "This Is Halestorm",

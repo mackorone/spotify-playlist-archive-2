@@ -4,7 +4,7 @@
 
 > La playlist del jazz italiano, passato e presente\. Cover: Carolina Bubbico
 
-566 songs - 1 day 18 hr 3 min
+567 songs - 1 day 18 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,7 @@
 | [Carol Of The Bells](https://open.spotify.com/track/4s6oQ7wdy7jOv53weBiPli) | [Wynton Marsalis](https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7) | [Crescent City Christmas Card](https://open.spotify.com/album/2NByhuKF7RIqf9OQhs6rJ6) | 4:52 | 2023-12-05 | 2024-03-29 |
 | [Catania Experiment](https://open.spotify.com/track/4EZNflW5g6YyicH1yZmtZL) | [Cratere Centrale](https://open.spotify.com/artist/6OOqYmtw4mK6PQd20NyddO) | [Cratere Centrale](https://open.spotify.com/album/5VdV9S4HoedNeuLPTOxyhX) | 5:40 | 2024-06-28 | 2024-10-15 |
 | [Celesti tesoru](https://open.spotify.com/track/6txzUozc87T8UgL7NEu0KV) | [Elena Ledda](https://open.spotify.com/artist/2rHPaRrsgoK3ixbLV8dhs2) | [Cantendi a Deus](https://open.spotify.com/album/71JgvRWWDZjLehv4z97hbJ) | 3:29 | 2022-12-05 | 2023-02-01 |
-| [Certi angoli segreti](https://open.spotify.com/track/0TgOi4joOrp0spXM754Z8X) | [Enrico Rava](https://open.spotify.com/artist/0NLlZlYs28ClkYXasvqmjy), [Stefano Bollani](https://open.spotify.com/artist/6LO13YjxG7x8waq1RGOYI7), [Mark Turner](https://open.spotify.com/artist/36kfddkWcVc6XrzNN9BsTP), [Larry Grenadier](https://open.spotify.com/artist/4HGsz6HI7mw7t14Fb2irLV), [Paul Motian](https://open.spotify.com/artist/4VIPZJwfn4EGbJxYVHJ0WX) | [New York Days](https://open.spotify.com/album/5qIvcmHXW5Av8XQGCAmeIK) | 10:53 | 2024-03-28 |  |
+| [Certi angoli segreti](https://open.spotify.com/track/0TgOi4joOrp0spXM754Z8X) | [Enrico Rava](https://open.spotify.com/artist/0NLlZlYs28ClkYXasvqmjy), [Stefano Bollani](https://open.spotify.com/artist/6LO13YjxG7x8waq1RGOYI7), [Mark Turner](https://open.spotify.com/artist/36kfddkWcVc6XrzNN9BsTP), [Larry Grenadier](https://open.spotify.com/artist/4HGsz6HI7mw7t14Fb2irLV), [Paul Motian](https://open.spotify.com/artist/4VIPZJwfn4EGbJxYVHJ0WX) | [New York Days](https://open.spotify.com/album/5qIvcmHXW5Av8XQGCAmeIK) | 10:53 | 2024-03-28 | 2026-05-25 |
 | [Ch'è duci stu figghiu](https://open.spotify.com/track/1N9P0vcObstZFONeE4yOcl) | [Adela](https://open.spotify.com/artist/0XYMKJKN3UvObdxZM3LgUF) | [Ti Cantu la ninna](https://open.spotify.com/album/5UQ2NjGmtlIzMf57UmB1bR) | 4:44 | 2022-12-05 | 2023-02-01 |
 | [chiquilín de bachín](https://open.spotify.com/track/482bT2u015ShiWjWuxtwkN) | [Paolo Fresu](https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi), [David Linx](https://open.spotify.com/artist/2k1nZ9A4l6tQLfrVABHwcL), [Gustavo Beytelmann](https://open.spotify.com/artist/2PH8EDFFaImOaGSe0yXVVu) | [Trama Latina](https://open.spotify.com/album/6yPxl2kSktRRwdsHGP52pY) | 6:10 | 2026-04-24 |  |
 | [Chit\-Car](https://open.spotify.com/track/7ufkOpkWNHUMn3TCRKdVdU) | [Franco Cerri](https://open.spotify.com/artist/1kk5a0EzDK5su94EBYUKPw) | [Franco Cerri](https://open.spotify.com/album/71NSr0QKuDPdtPbnN4M3a7) | 2:51 | 2023-06-04 | 2023-09-18 |
@@ -123,6 +123,7 @@
 | [Come \- Di](https://open.spotify.com/track/3J8ZG8iS0AjctaEvplLRCK) | [Paolo Conte](https://open.spotify.com/artist/7bAIYB0KGbYXlGbIjyFAcI) | [Zazzarazàz \- Uno Spettacolo D'arte Varia \(Deluxe\)](https://open.spotify.com/album/27Z6mdIhCmLKgrs13yp19s) | 4:05 | 2022-08-31 | 2022-10-01 |
 | [Come un ritratto](https://open.spotify.com/track/1xD323f4XEBlW1lfOeKtts) | [Maria Pia De Vito](https://open.spotify.com/artist/2WdJBOMuv70FribaCLT5vE), [Rita Marcotulli](https://open.spotify.com/artist/1KaiGnVyxEODkywQQBoSZJ) | [Nauplia](https://open.spotify.com/album/0kOi2BR2cvfhtqBi7e7CqR) | 4:08 | 2022-09-30 | 2025-03-27 |
 | [Concept creep](https://open.spotify.com/track/62Fp0TjYrCq5rfSx9wO9F2) | [Giulio Stermieri Yabai](https://open.spotify.com/artist/7Etm1LfVxuxFit5vU2bFU3), [Giulio Stermieri](https://open.spotify.com/artist/3JNA0rWIF3SoVj75lyVVHs) | [Crops and Sports](https://open.spotify.com/album/0uafazXJfz4NA3p3APqC95) | 4:37 | 2024-04-04 | 2024-05-12 |
+| [Contigo Mi Vida](https://open.spotify.com/track/77yfpdIrZ9MtKfaUpf6O3G) | [Gabriele Poso](https://open.spotify.com/artist/2yApCA4GzuGb9oDS5I5Fjp) | [Contigo Mi Vida](https://open.spotify.com/album/41Rp1C4bwyciU2xyhs0ja1) | 4:09 | 2026-05-21 |  |
 | [Controvento](https://open.spotify.com/track/0POCITSdyoT7p8xxb4sls0) | [Carolina Bubbico](https://open.spotify.com/artist/0HWrWCAD8nN3DnbR02wVxW) | [Controvento](https://open.spotify.com/album/2SQcKBmV7Iot09xujhc8fh) | 3:36 | 2024-03-28 | 2024-04-19 |
 | [Cornettology](https://open.spotify.com/track/1B33DpXeN6I9yo0txJSx6Z) | [Enrico Rava](https://open.spotify.com/artist/0NLlZlYs28ClkYXasvqmjy), [Stefano Bollani](https://open.spotify.com/artist/6LO13YjxG7x8waq1RGOYI7), [Paul Motian](https://open.spotify.com/artist/4VIPZJwfn4EGbJxYVHJ0WX) | [Tati](https://open.spotify.com/album/2IMWVfOAIMlDL7SEpXtFVh) | 6:32 | 2024-03-28 | 2024-11-13 |
 | [CORRI](https://open.spotify.com/track/4neBNkqlzqkJRsuUpte3Fp) | [Studio Murena](https://open.spotify.com/artist/1rWbZmR5D63aZU60lMtVZx) | [CORRI](https://open.spotify.com/album/1N1byTuOKyJu0IHiwaoLLP) | 3:54 | 2022-11-07 | 2022-12-06 |

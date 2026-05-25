@@ -4,7 +4,7 @@
 
 > This is Binomio de Oro\. The essential tracks, all in one playlist.
 
-86 songs - 6 hr 10 min
+87 songs - 6 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [Necesito De Ti](https://open.spotify.com/track/0uvfz0GVoasVTt4d67X3pY) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Por Lo Alto](https://open.spotify.com/album/0Cf0Q1ZyT4jiamI2P58nIs) | 3:55 | 2025-03-23 | 2025-04-21 |
 | [No Pasará Lo Mismo](https://open.spotify.com/track/3uhP3dgMShzyoZadWtK2QZ) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Binomio De Oro 1986](https://open.spotify.com/album/356uekEIUBT3sL3Xtu5dL5) | 4:04 | 2022-12-16 |  |
 | [No Se Pedir Perdón](https://open.spotify.com/track/2SBtTElyn8VqS31GhD4dnF) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Somos El Vallenato](https://open.spotify.com/album/3ZFGRFlSAdYUPmTHXJTUfr) | 4:47 | 2022-12-16 |  |
-| [No Vale Quererla](https://open.spotify.com/track/7zZpuiZ1T8aMtyo2Edrc1E) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [De Exportación](https://open.spotify.com/album/3CHxVT00FhsFpNPh7iQvdp) | 4:55 | 2022-12-17 |  |
+| [No Vale Quererla](https://open.spotify.com/track/7zZpuiZ1T8aMtyo2Edrc1E) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [De Exportación](https://open.spotify.com/album/3CHxVT00FhsFpNPh7iQvdp) | 4:55 | 2022-12-17 | 2026-05-25 |
 | [Nostalgia](https://open.spotify.com/track/35oUEXOfzoNUFtKDdHdQxl) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [De Fiesta Con El Binomio De Oro](https://open.spotify.com/album/76WWdL5GKIAP7OiSCCOeOy) | 4:57 | 2022-12-16 | 2023-11-11 |
 | [Nostalgia](https://open.spotify.com/track/2QsMoDPNqfTz2kasOmBP1E) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W), [Ivan Villazon](https://open.spotify.com/artist/0gudLEFCyMFIBCt1EQaMh7) | [Para Siempre Rafael Orozco Binomio De Oro](https://open.spotify.com/album/6PYwZuAWfqOJhS7L6JEop2) | 4:51 | 2023-11-10 |  |
 | [Nuestra Separación](https://open.spotify.com/track/098CkrzOpQ4vP4FieXch5c) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Internacional](https://open.spotify.com/album/7eAMaa3wNUuI2NBVeeaRB0) | 4:11 | 2022-12-16 |  |
@@ -90,6 +90,7 @@
 | [Te seguiré queriendo](https://open.spotify.com/track/2gKbEyLGCz7s5rTLEIE1UM) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [5 Años de Oro](https://open.spotify.com/album/33ra8x4umh40bQgZGQiu5d) | 4:58 | 2022-12-16 |  |
 | [Te Tengo Que Olvidar](https://open.spotify.com/track/6QGKlYOWR2TZ6LGkBLMt3h) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Corazón de Miel](https://open.spotify.com/album/4weZETiw9gWzR49pzM027d) | 4:12 | 2024-06-23 | 2024-08-03 |
 | [Tu Dueño](https://open.spotify.com/track/4uMySFBukKl2QC2eVbn9yA) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Super Vallenato](https://open.spotify.com/album/2bHLevxqV0xTrGXzxRYMOk) | 4:48 | 2022-12-16 |  |
+| [Tuya Es Mi Vida](https://open.spotify.com/track/5dmwMyT6X11BTW4NRnmxbu) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Mucha Calidad](https://open.spotify.com/album/2uW4TXsdJu4EmTVGaql57E) | 4:45 | 2026-05-25 |  |
 | [Tú No Notas](https://open.spotify.com/track/1mNMgUsVZGUmmPDuOld9qT) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Binomio De Oro 1986](https://open.spotify.com/album/356uekEIUBT3sL3Xtu5dL5) | 4:22 | 2023-12-13 |  |
 | [Un Poquito Más](https://open.spotify.com/track/0F97INEkwz8j8srltTnixX) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [De Exportación](https://open.spotify.com/album/3CHxVT00FhsFpNPh7iQvdp) | 3:57 | 2025-03-21 | 2025-07-20 |
 | [Viejos Anhelos](https://open.spotify.com/track/2EBmqILt0H7NQq5IZ72NZr) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [5 Años de Oro](https://open.spotify.com/album/33ra8x4umh40bQgZGQiu5d) | 5:13 | 2024-12-23 | 2025-02-25 |

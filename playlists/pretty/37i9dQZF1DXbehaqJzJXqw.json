@@ -1,6 +1,6 @@
 {
   "description": "You are sipping on your coffee in a caf\u00e9 in Paris while a Jazz band plays somewhere in the background. ",
-  "num_followers": 680407,
+  "num_followers": 680794,
   "original_name": "French Jazz Caf\u00e9",
   "owner": {
     "name": "Spotify",
@@ -291,6 +291,22 @@
     {
       "added_at": "2026-02-13 08:51:02",
       "album": {
+        "name": "Ilo Veyou",
+        "url": "https://open.spotify.com/album/0tOFyyQeAYENYub9DDloWP"
+      },
+      "artists": [
+        {
+          "name": "Camille",
+          "url": "https://open.spotify.com/artist/0gOsZcHl7H3ewXVIEnWFZX"
+        }
+      ],
+      "duration_ms": 223880,
+      "name": "Que je t'aime",
+      "url": "https://open.spotify.com/track/2wqHH4mITmvGf0ogwCzS5r"
+    },
+    {
+      "added_at": "2026-02-13 08:51:02",
+      "album": {
         "name": "Splendor in the Grass",
         "url": "https://open.spotify.com/album/7gZtYR8vztnBIiJYDsmIyF"
       },
@@ -307,22 +323,6 @@
       "duration_ms": 252653,
       "name": "O\u00f9 est ma t\u00eate?",
       "url": "https://open.spotify.com/track/30N6mzmZPQ0fUGW59krTc0"
-    },
-    {
-      "added_at": "2026-02-13 08:51:02",
-      "album": {
-        "name": "Ilo Veyou",
-        "url": "https://open.spotify.com/album/0tOFyyQeAYENYub9DDloWP"
-      },
-      "artists": [
-        {
-          "name": "Camille",
-          "url": "https://open.spotify.com/artist/0gOsZcHl7H3ewXVIEnWFZX"
-        }
-      ],
-      "duration_ms": 223880,
-      "name": "Que je t'aime",
-      "url": "https://open.spotify.com/track/2wqHH4mITmvGf0ogwCzS5r"
     },
     {
       "added_at": "2026-02-13 08:51:02",
@@ -427,22 +427,6 @@
     {
       "added_at": "2026-02-13 08:51:02",
       "album": {
-        "name": "Manquait Plus Qu'Ca",
-        "url": "https://open.spotify.com/album/6BC71aPYFPdAhUshOVkRjf"
-      },
-      "artists": [
-        {
-          "name": "Sandrine Kiberlain",
-          "url": "https://open.spotify.com/artist/4uLmJeWlUtfcMwAZo1ZS2l"
-        }
-      ],
-      "duration_ms": 155120,
-      "name": "M'envoyer des fleurs",
-      "url": "https://open.spotify.com/track/5SBePmCKYQUyfq71djPNF8"
-    },
-    {
-      "added_at": "2026-02-13 08:51:02",
-      "album": {
         "name": "Cajueiro",
         "url": "https://open.spotify.com/album/7un05z7dVN0agNGXD6G8Yq"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 201807,
       "name": "Paris",
       "url": "https://open.spotify.com/track/0uziRA46wxFQvNRtArLcZ4"
+    },
+    {
+      "added_at": "2026-02-13 08:51:02",
+      "album": {
+        "name": "Manquait Plus Qu'Ca",
+        "url": "https://open.spotify.com/album/6BC71aPYFPdAhUshOVkRjf"
+      },
+      "artists": [
+        {
+          "name": "Sandrine Kiberlain",
+          "url": "https://open.spotify.com/artist/4uLmJeWlUtfcMwAZo1ZS2l"
+        }
+      ],
+      "duration_ms": 155120,
+      "name": "M'envoyer des fleurs",
+      "url": "https://open.spotify.com/track/5SBePmCKYQUyfq71djPNF8"
     },
     {
       "added_at": "2026-02-13 08:51:02",
@@ -767,22 +767,6 @@
     {
       "added_at": "2026-02-13 08:51:02",
       "album": {
-        "name": "No. 8",
-        "url": "https://open.spotify.com/album/5wM7VT1oyFSNxd03PW3IfM"
-      },
-      "artists": [
-        {
-          "name": "Juliette Gr\u00e9co",
-          "url": "https://open.spotify.com/artist/7j237zyOedtfrugnWFJKOJ"
-        }
-      ],
-      "duration_ms": 149986,
-      "name": "La javanaise",
-      "url": "https://open.spotify.com/track/65iTlX5095wn9JwqlDaFt4"
-    },
-    {
-      "added_at": "2026-02-13 08:51:02",
-      "album": {
         "name": "Lovely Difficult",
         "url": "https://open.spotify.com/album/19vR7lLDnkhfmcdEYmXOtB"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 227026,
       "name": "Les mots d'amour",
       "url": "https://open.spotify.com/track/5wWsPTSLg9gLuD39EjCxB4"
+    },
+    {
+      "added_at": "2026-02-13 08:51:02",
+      "album": {
+        "name": "No. 8",
+        "url": "https://open.spotify.com/album/5wM7VT1oyFSNxd03PW3IfM"
+      },
+      "artists": [
+        {
+          "name": "Juliette Gr\u00e9co",
+          "url": "https://open.spotify.com/artist/7j237zyOedtfrugnWFJKOJ"
+        }
+      ],
+      "duration_ms": 149986,
+      "name": "La javanaise",
+      "url": "https://open.spotify.com/track/65iTlX5095wn9JwqlDaFt4"
     },
     {
       "added_at": "2026-02-13 08:51:02",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2026-02-13 08:51:02",
       "album": {
-        "name": "A Fraction Of You",
-        "url": "https://open.spotify.com/album/64gdIpI1MJzTjRo2yZFBwS"
-      },
-      "artists": [
-        {
-          "name": "Fredrika Stahl",
-          "url": "https://open.spotify.com/artist/3hWWpC6XAABcySpC1id9Q5"
-        }
-      ],
-      "duration_ms": 217960,
-      "name": "Les jeux sont faits",
-      "url": "https://open.spotify.com/track/7JTyXQErhpjBJMVKEmL2MZ"
-    },
-    {
-      "added_at": "2026-02-13 08:51:02",
-      "album": {
         "name": "B Bardot - CD Story",
         "url": "https://open.spotify.com/album/0moSn0vXjIrzWZH0weiFif"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 196906,
       "name": "Le soleil",
       "url": "https://open.spotify.com/track/1ddDudbgEXIFqMJQzHxidQ"
+    },
+    {
+      "added_at": "2026-02-13 08:51:02",
+      "album": {
+        "name": "A Fraction Of You",
+        "url": "https://open.spotify.com/album/64gdIpI1MJzTjRo2yZFBwS"
+      },
+      "artists": [
+        {
+          "name": "Fredrika Stahl",
+          "url": "https://open.spotify.com/artist/3hWWpC6XAABcySpC1id9Q5"
+        }
+      ],
+      "duration_ms": 217960,
+      "name": "Les jeux sont faits",
+      "url": "https://open.spotify.com/track/7JTyXQErhpjBJMVKEmL2MZ"
     },
     {
       "added_at": "2026-02-13 08:51:02",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2026-02-13 08:51:02",
       "album": {
-        "name": "A Fraction Of You",
-        "url": "https://open.spotify.com/album/64gdIpI1MJzTjRo2yZFBwS"
-      },
-      "artists": [
-        {
-          "name": "Fredrika Stahl",
-          "url": "https://open.spotify.com/artist/3hWWpC6XAABcySpC1id9Q5"
-        }
-      ],
-      "duration_ms": 211160,
-      "name": "O\u00f9 veux-tu aller ?",
-      "url": "https://open.spotify.com/track/3MrZpuWijCWDsCPl6bqDqc"
-    },
-    {
-      "added_at": "2026-02-13 08:51:02",
-      "album": {
         "name": "Chansons sans \u00e9poques: 1964 - 1968 (Remasteris\u00e9 en 2017)",
         "url": "https://open.spotify.com/album/0lFb6bBBCGagIFrblxhjE3"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 193586,
       "name": "Si tu vas \u00e0 Paris - Remasteris\u00e9 en 2017",
       "url": "https://open.spotify.com/track/0WYNxfmeHtYss2iUaiEDCJ"
+    },
+    {
+      "added_at": "2026-02-13 08:51:02",
+      "album": {
+        "name": "A Fraction Of You",
+        "url": "https://open.spotify.com/album/64gdIpI1MJzTjRo2yZFBwS"
+      },
+      "artists": [
+        {
+          "name": "Fredrika Stahl",
+          "url": "https://open.spotify.com/artist/3hWWpC6XAABcySpC1id9Q5"
+        }
+      ],
+      "duration_ms": 211160,
+      "name": "O\u00f9 veux-tu aller ?",
+      "url": "https://open.spotify.com/track/3MrZpuWijCWDsCPl6bqDqc"
     },
     {
       "added_at": "2026-02-13 08:51:02",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2026-02-13 08:51:02",
       "album": {
-        "name": "Le Paris De ... Montand",
-        "url": "https://open.spotify.com/album/1e6B5D1rQMaxUoCVGCjPdK"
-      },
-      "artists": [
-        {
-          "name": "Yves Montand",
-          "url": "https://open.spotify.com/artist/5ru2x3pjrNn67D22BRwlFP"
-        }
-      ],
-      "duration_ms": 174773,
-      "name": "Sous le ciel de Paris",
-      "url": "https://open.spotify.com/track/6R3rjjQzKSwmDffEUHegDE"
-    },
-    {
-      "added_at": "2026-02-13 08:51:02",
-      "album": {
         "name": "Comme Un Manouche Sans Guitare",
         "url": "https://open.spotify.com/album/4AMq62xQ6mKVqgfDwvbY4Z"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 130186,
       "name": "J'suis pas d'ici",
       "url": "https://open.spotify.com/track/4p1jq0itFZ9DLtVU6HCYdr"
+    },
+    {
+      "added_at": "2026-02-13 08:51:02",
+      "album": {
+        "name": "Le Paris De ... Montand",
+        "url": "https://open.spotify.com/album/1e6B5D1rQMaxUoCVGCjPdK"
+      },
+      "artists": [
+        {
+          "name": "Yves Montand",
+          "url": "https://open.spotify.com/artist/5ru2x3pjrNn67D22BRwlFP"
+        }
+      ],
+      "duration_ms": 174773,
+      "name": "Sous le ciel de Paris",
+      "url": "https://open.spotify.com/track/6R3rjjQzKSwmDffEUHegDE"
     },
     {
       "added_at": "2026-02-13 08:51:02",

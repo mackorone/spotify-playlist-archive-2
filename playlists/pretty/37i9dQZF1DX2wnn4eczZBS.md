@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnn4eczZBS.md) - [plain]
 
 > Indiepop in het Nederlands\. Cover: Eva van Manen
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,395 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,397 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,16 +34,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnn4eczZBS.md) - [plain]
 | 24 | [Offline](https://open.spotify.com/track/7BG9Fh8c3swsY2auGk0Q9E) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp), [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [Frok en Stien](https://open.spotify.com/album/7gNXQXUyuylGHvns5yJSeZ) | 2:29 |
 | 25 | [TIJDSGEEST](https://open.spotify.com/track/3uKQQH67pV4dsJIR6SML8z) | [Abel](https://open.spotify.com/artist/0JRVrJQNnlSl10wEsioxOJ), [Sef](https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0), [IJSLAND](https://open.spotify.com/artist/6qldO9Y7hb0qI9J50uR1zW) | [IJSLAND 2](https://open.spotify.com/album/1qwQoDUVZNAGP8g9vBoHug) | 3:19 |
 | 26 | [Giftig](https://open.spotify.com/track/0KfzPMMjRQw9Vh3J8rzTDK) | [Flaire](https://open.spotify.com/artist/24prX5FxY9YygEvM0AkXOH), [Wally](https://open.spotify.com/artist/5sKJpW8V9gGDpLIaBYbr8x) | [Giftig](https://open.spotify.com/album/6XjQOyWXlcCjgKzivTgUl2) | 2:52 |
-| 27 | [Praat Te Veel](https://open.spotify.com/track/1U5e0L9t9393QN0FrzPa6h) | [jet van der steen](https://open.spotify.com/artist/60bPC311AlvVdIzqQZyeHo) | [Praat Te Veel](https://open.spotify.com/album/5fcW10KqULqNexBgtsehXY) | 2:22 |
-| 28 | [Als Het Donker Wordt](https://open.spotify.com/track/4nz0xR3gS5OfFOYo8OmWDu) | [Pip Lieke Lucas](https://open.spotify.com/artist/3eWGqcshWI4ujDmuzyKYl0) | [Als Het Donker Wordt](https://open.spotify.com/album/5w1GDsb8nCcvajsVwuVfMY) | 2:13 |
+| 27 | [Als Het Donker Wordt](https://open.spotify.com/track/4nz0xR3gS5OfFOYo8OmWDu) | [Pip Lieke Lucas](https://open.spotify.com/artist/3eWGqcshWI4ujDmuzyKYl0) | [Als Het Donker Wordt](https://open.spotify.com/album/5w1GDsb8nCcvajsVwuVfMY) | 2:13 |
+| 28 | [Praat Te Veel](https://open.spotify.com/track/1U5e0L9t9393QN0FrzPa6h) | [jet van der steen](https://open.spotify.com/artist/60bPC311AlvVdIzqQZyeHo) | [Praat Te Veel](https://open.spotify.com/album/5fcW10KqULqNexBgtsehXY) | 2:22 |
 | 29 | [Ze Wil](https://open.spotify.com/track/1bFZsGUtQZvYgEKzFmBRpB) | [Gotu Jim](https://open.spotify.com/artist/5rpTehBPpr3mo7L0ZDZhrQ), [Faberyayo](https://open.spotify.com/artist/3tSNYodPp4woMbWy6XZQG0) | [YAYO HARTJE JIMMY](https://open.spotify.com/album/4KQi6IZPWkdWJs6QD32I3v) | 3:09 |
 | 30 | [Winterkind](https://open.spotify.com/track/3EAK7oSLalIonAaeiLAYGm) | [Lindi](https://open.spotify.com/artist/5Hvge2fZ3VfkwUhXaXCnpR) | [Winterkind](https://open.spotify.com/album/2zwHRzS6FnqAuMR4NKyE0P) | 2:45 |
 | 31 | [Opscheer](https://open.spotify.com/track/0UHJ1EeeObYXPkO1Dscxtz) | [Het Algoritme](https://open.spotify.com/artist/0Iivrm0lwA0QXN0C4AlO8i), [Klangstof](https://open.spotify.com/artist/25lIYhqIj0R1AnnmqsTrtO), [Freez](https://open.spotify.com/artist/3Wg7xRNLUhziX8sgdRKEyg) | [Opscheer](https://open.spotify.com/album/4G7LZsI57TjTz8epjLN2Wz) | 2:48 |
 | 32 | [Rode Seks Feeks](https://open.spotify.com/track/3om5HZ8ueyHTzqyGNOPCfw) | [MEROL](https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO) | [Rode Seks Feeks](https://open.spotify.com/album/5qp1z7oKUeWaCHGIp2JBsu) | 2:47 |
 | 33 | [Vlijmscherp](https://open.spotify.com/track/2z8ic05oQ1YZgV3nWE6f2a) | [Eefje de Visser](https://open.spotify.com/artist/33KABng8GO42ojFJVcABxQ) | [Vlijmscherp](https://open.spotify.com/album/1RTQqQrsiaNvJdCdTMBfhb) | 4:31 |
 | 34 | [Aerobics](https://open.spotify.com/track/1OVuAEWyMXoZbsRtXqpUta) | [Kaat Van Stralen](https://open.spotify.com/artist/4iJk7vDVSLy3X0lBdOKKuF) | [Aerobics](https://open.spotify.com/album/6alYHotSin9ZeOVGssuWaM) | 2:47 |
-| 35 | [CONFLICT](https://open.spotify.com/track/6rhUciq7H7uz6WjEckuk0S) | [Ploegendienst](https://open.spotify.com/artist/2aJUvAtem0t0zRKxJsRoea) | [GEEN TITEL](https://open.spotify.com/album/3hioypt7zKgNZT5JTUwXsx) | 2:32 |
-| 36 | [slecht idee \(let’s do it\)](https://open.spotify.com/track/1wn2yb8Bw8OGclpBSPFGGu) | [Elmer](https://open.spotify.com/artist/1ESdlHhFi2Ww9jt8qLOyYp) | [slecht idee \(let’s do it\)](https://open.spotify.com/album/5Yd2L868mazpTakzdThS4t) | 3:11 |
+| 35 | [slecht idee \(let’s do it\)](https://open.spotify.com/track/1wn2yb8Bw8OGclpBSPFGGu) | [Elmer](https://open.spotify.com/artist/1ESdlHhFi2Ww9jt8qLOyYp) | [slecht idee \(let’s do it\)](https://open.spotify.com/album/5Yd2L868mazpTakzdThS4t) | 3:11 |
+| 36 | [CONFLICT](https://open.spotify.com/track/6rhUciq7H7uz6WjEckuk0S) | [Ploegendienst](https://open.spotify.com/artist/2aJUvAtem0t0zRKxJsRoea) | [GEEN TITEL](https://open.spotify.com/album/3hioypt7zKgNZT5JTUwXsx) | 2:32 |
 | 37 | [Behang](https://open.spotify.com/track/2OLkJvUzbNZNTft8kfEri3) | [WIES](https://open.spotify.com/artist/4kswme1Kl2NXRCJ326f14n) | [AH!](https://open.spotify.com/album/0csMfna0Qy1dVDGQO0PVPX) | 2:33 |
 | 38 | [Als Hij dan echt bestaat](https://open.spotify.com/track/0SjMOL8eZxHwzy463e8nbe) | [Sophie Straat](https://open.spotify.com/artist/6SU1jFBqw4tZJQDT8iQ6Nw) | [Wie de fak is Sophie Straat](https://open.spotify.com/album/2ZOvFH4sVhpFstklFMQUGk) | 3:09 |
 | 39 | [Hou Me Vast](https://open.spotify.com/track/4NWbfobiaeNThKKKMJvSWw) | [Wende](https://open.spotify.com/artist/3SCB3V2d5Loauz5tfo6Y5G), [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [Vrijplaats II](https://open.spotify.com/album/3SFpV9JpcDmKoWEJYnH8Ts) | 3:01 |

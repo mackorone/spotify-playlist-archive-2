@@ -78,7 +78,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-24",
+      "date_removed": null,
       "duration_ms": 178626,
       "name": "7 rings",
       "url": "https://open.spotify.com/track/6ocbgoVGwYJhOv1GgI9NsF"
@@ -100,7 +100,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-25",
       "duration_ms": 178640,
       "name": "7 rings (feat. 2 Chainz) - Remix",
       "url": "https://open.spotify.com/track/6AyI8UGx8Y4peb7pLOy2pf"
@@ -118,7 +118,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-11",
+      "date_removed": null,
       "duration_ms": 286093,
       "name": "A Fellow Needs A Girl",
       "url": "https://open.spotify.com/track/7C7lRq6GjavadXmQQ0kEey"
@@ -136,7 +136,7 @@
       ],
       "date_added": "2025-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-25",
       "duration_ms": 297560,
       "name": "A Fellow Needs A Girl",
       "url": "https://open.spotify.com/track/2h85GfydrYHNA5m90Mr5zC"
@@ -1904,6 +1904,40 @@
     {
       "album": {
         "name": "Rodgers & Hammerstein's Oklahoma! (Complete original score)",
+        "url": "https://open.spotify.com/album/3qnosBXmoUyEN2ZODIZliz"
+      },
+      "artists": [
+        {
+          "name": "Richard Rodgers",
+          "url": "https://open.spotify.com/artist/4IbAZwt75dpehMOgcC3GnP"
+        },
+        {
+          "name": "John Wilson Oklahoma! Cast",
+          "url": "https://open.spotify.com/artist/3KnLLM5E2p2ue2vRGPitpP"
+        },
+        {
+          "name": "'Oklahoma!' Ensemble",
+          "url": "https://open.spotify.com/artist/4TMksGG4nFKuYN2hXGeLCH"
+        },
+        {
+          "name": "Sinfonia Of London",
+          "url": "https://open.spotify.com/artist/14WdLIrDMYGjtKZIrgQg4z"
+        },
+        {
+          "name": "John Wilson",
+          "url": "https://open.spotify.com/artist/1Y6MR8p9QIPxDXS99IYmyh"
+        }
+      ],
+      "date_added": "2026-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 67653,
+      "name": "No. 28, Oklahoma (Encore)",
+      "url": "https://open.spotify.com/track/0DmlnqIVssAuN73KG5kvpf"
+    },
+    {
+      "album": {
+        "name": "Rodgers & Hammerstein's Oklahoma! (Complete original score)",
         "url": "https://open.spotify.com/album/5U6rQfszCCOmD6MMFayqQb"
       },
       "artists": [
@@ -1930,7 +1964,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-25",
       "duration_ms": 67653,
       "name": "No. 28, Oklahoma (Encore)",
       "url": "https://open.spotify.com/track/5i8TNBJ4nq29KMVwxg7iBA"
@@ -3456,7 +3490,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-11",
+      "date_removed": null,
       "duration_ms": 143506,
       "name": "Wanting You",
       "url": "https://open.spotify.com/track/3kkV3aYb7bPJ168rz1tjpM"
@@ -3474,7 +3508,7 @@
       ],
       "date_added": "2025-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-25",
       "duration_ms": 152537,
       "name": "Wanting You",
       "url": "https://open.spotify.com/track/5Qj7ykJM4r7PXkcg8oq7D3"

@@ -1,6 +1,6 @@
 {
   "description": "viral, trend ve y\u00fckselenler.  Kapak: Simge",
-  "num_followers": 580328,
+  "num_followers": 580446,
   "original_name": "trend 2026",
   "owner": {
     "name": "Spotify",
@@ -303,6 +303,22 @@
     {
       "added_at": "2026-05-21 21:00:27",
       "album": {
+        "name": "Amat\u00f6r",
+        "url": "https://open.spotify.com/album/1XfKv2avb7ICbTN97X58Bc"
+      },
+      "artists": [
+        {
+          "name": "manifest",
+          "url": "https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf"
+        }
+      ],
+      "duration_ms": 163809,
+      "name": "Amat\u00f6r",
+      "url": "https://open.spotify.com/track/4yHSp3OunMQmvSbIgy2Hhm"
+    },
+    {
+      "added_at": "2026-05-21 21:00:27",
+      "album": {
         "name": "PARDON MUTLULUKLAR",
         "url": "https://open.spotify.com/album/2YGROYa6Vg9KXEcr9DwYBP"
       },
@@ -343,38 +359,6 @@
     {
       "added_at": "2026-05-21 21:00:27",
       "album": {
-        "name": "Amat\u00f6r",
-        "url": "https://open.spotify.com/album/1XfKv2avb7ICbTN97X58Bc"
-      },
-      "artists": [
-        {
-          "name": "manifest",
-          "url": "https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf"
-        }
-      ],
-      "duration_ms": 163809,
-      "name": "Amat\u00f6r",
-      "url": "https://open.spotify.com/track/4yHSp3OunMQmvSbIgy2Hhm"
-    },
-    {
-      "added_at": "2026-05-21 21:00:27",
-      "album": {
-        "name": "Yeni \u00c7\u0131kt\u0131",
-        "url": "https://open.spotify.com/album/1dXa3OLrAab1cYhKfBa5mZ"
-      },
-      "artists": [
-        {
-          "name": "Simge",
-          "url": "https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu"
-        }
-      ],
-      "duration_ms": 203778,
-      "name": "Misafir",
-      "url": "https://open.spotify.com/track/71rwEX50AtpDKdGTRguRLs"
-    },
-    {
-      "added_at": "2026-05-21 21:00:27",
-      "album": {
         "name": "valiz",
         "url": "https://open.spotify.com/album/2NuUVdCdwgNBS3YeEFmMb7"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 125538,
       "name": "yan\u0131lm\u0131\u015f\u0131m",
       "url": "https://open.spotify.com/track/4W445XWByCeN8CH6uexxLW"
+    },
+    {
+      "added_at": "2026-05-21 21:00:27",
+      "album": {
+        "name": "Yeni \u00c7\u0131kt\u0131",
+        "url": "https://open.spotify.com/album/1dXa3OLrAab1cYhKfBa5mZ"
+      },
+      "artists": [
+        {
+          "name": "Simge",
+          "url": "https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu"
+        }
+      ],
+      "duration_ms": 203778,
+      "name": "Misafir",
+      "url": "https://open.spotify.com/track/71rwEX50AtpDKdGTRguRLs"
     },
     {
       "added_at": "2026-05-21 21:00:27",
@@ -627,30 +627,18 @@
     {
       "added_at": "2026-05-21 21:00:27",
       "album": {
-        "name": "sanma ki ya\u015f\u0131yorum",
-        "url": "https://open.spotify.com/album/2LEhF3vteB6Yd6Nqgliq6G"
+        "name": "Yang\u0131n Yeri",
+        "url": "https://open.spotify.com/album/7t0enz3EMgiyTsLGkbwzuj"
       },
       "artists": [
         {
-          "name": "AKDO",
-          "url": "https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0"
-        },
-        {
-          "name": "ASLAR",
-          "url": "https://open.spotify.com/artist/2sQAXdjNpwvs57LUxYzFdA"
-        },
-        {
-          "name": "Lessio",
-          "url": "https://open.spotify.com/artist/7sD4ByMNKsrb4dDBmZxam1"
-        },
-        {
-          "name": "Astral",
-          "url": "https://open.spotify.com/artist/7g6rPQyaKLwHpM6JB4lByD"
+          "name": "Elif Buse Do\u011fan",
+          "url": "https://open.spotify.com/artist/56hgP8k96P8s7hQyMvXCHS"
         }
       ],
-      "duration_ms": 149567,
-      "name": "sanma ki ya\u015f\u0131yorum",
-      "url": "https://open.spotify.com/track/7zH71HbdpGVES8lVRIcDDs"
+      "duration_ms": 151318,
+      "name": "Yang\u0131n Yeri",
+      "url": "https://open.spotify.com/track/1NR60P6PMHaFJpuATZG7Bg"
     },
     {
       "added_at": "2026-05-21 21:00:27",
@@ -675,18 +663,30 @@
     {
       "added_at": "2026-05-21 21:00:27",
       "album": {
-        "name": "Yang\u0131n Yeri",
-        "url": "https://open.spotify.com/album/7t0enz3EMgiyTsLGkbwzuj"
+        "name": "sanma ki ya\u015f\u0131yorum",
+        "url": "https://open.spotify.com/album/2LEhF3vteB6Yd6Nqgliq6G"
       },
       "artists": [
         {
-          "name": "Elif Buse Do\u011fan",
-          "url": "https://open.spotify.com/artist/56hgP8k96P8s7hQyMvXCHS"
+          "name": "AKDO",
+          "url": "https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0"
+        },
+        {
+          "name": "ASLAR",
+          "url": "https://open.spotify.com/artist/2sQAXdjNpwvs57LUxYzFdA"
+        },
+        {
+          "name": "Lessio",
+          "url": "https://open.spotify.com/artist/7sD4ByMNKsrb4dDBmZxam1"
+        },
+        {
+          "name": "Astral",
+          "url": "https://open.spotify.com/artist/7g6rPQyaKLwHpM6JB4lByD"
         }
       ],
-      "duration_ms": 151318,
-      "name": "Yang\u0131n Yeri",
-      "url": "https://open.spotify.com/track/1NR60P6PMHaFJpuATZG7Bg"
+      "duration_ms": 149567,
+      "name": "sanma ki ya\u015f\u0131yorum",
+      "url": "https://open.spotify.com/track/7zH71HbdpGVES8lVRIcDDs"
     },
     {
       "added_at": "2026-05-21 21:00:27",
@@ -743,26 +743,6 @@
     {
       "added_at": "2026-05-21 21:00:27",
       "album": {
-        "name": "\u015eark\u0131lar Sokaklara Ait",
-        "url": "https://open.spotify.com/album/34hptGPWx0q7xhZ4AXJPzg"
-      },
-      "artists": [
-        {
-          "name": "UZI",
-          "url": "https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1"
-        },
-        {
-          "name": "Motive",
-          "url": "https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP"
-        }
-      ],
-      "duration_ms": 175143,
-      "name": "\u015eark\u0131lar Sokaklara Ait",
-      "url": "https://open.spotify.com/track/2HjJTdEdEApv1QrKcMXKqo"
-    },
-    {
-      "added_at": "2026-05-21 21:00:27",
-      "album": {
         "name": "BURADA SOKAKLAR",
         "url": "https://open.spotify.com/album/3XJWLy10bubUmpdIuWP7m2"
       },
@@ -783,6 +763,26 @@
       "duration_ms": 139833,
       "name": "BURADA SOKAKLAR",
       "url": "https://open.spotify.com/track/2vPA1SN0fPjevTyvWIJNO4"
+    },
+    {
+      "added_at": "2026-05-21 21:00:27",
+      "album": {
+        "name": "\u015eark\u0131lar Sokaklara Ait",
+        "url": "https://open.spotify.com/album/34hptGPWx0q7xhZ4AXJPzg"
+      },
+      "artists": [
+        {
+          "name": "UZI",
+          "url": "https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1"
+        },
+        {
+          "name": "Motive",
+          "url": "https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP"
+        }
+      ],
+      "duration_ms": 175143,
+      "name": "\u015eark\u0131lar Sokaklara Ait",
+      "url": "https://open.spotify.com/track/2HjJTdEdEApv1QrKcMXKqo"
     },
     {
       "added_at": "2026-05-21 21:00:27",

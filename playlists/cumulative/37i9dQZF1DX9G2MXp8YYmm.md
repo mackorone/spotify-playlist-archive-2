@@ -4,7 +4,7 @@
 
 > Pop'un sevilen isimleri\. Kapak: Tuğba Özerk
 
-600 songs - 1 day 6 hr 28 min
+601 songs - 1 day 6 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -243,6 +243,7 @@
 | [Gönülçelen](https://open.spotify.com/track/5GULUNzxgcqWxmtNM2gXee) | [M Lisa](https://open.spotify.com/artist/7CLojerj7StFcAX03tA8Pc), [Teoman](https://open.spotify.com/artist/40KlwpvpKEQtZTJgbml8lT) | [Gönülçelen](https://open.spotify.com/album/3iixZa6YcKHwIj2RYPBJs7) | 2:51 | 2026-03-13 | 2026-05-02 |
 | [Görmem Böylesini](https://open.spotify.com/track/52EgkN1E6pqOJ0AL2YWxfs) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ), [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu) | [Görmem Böylesini](https://open.spotify.com/album/0ZR3vgtrtcwpKWZ9Naiic0) | 3:12 | 2024-06-27 | 2025-07-18 |
 | [Görmeyeli](https://open.spotify.com/track/3kUWBHDjX87A7TcqlazzaB) | [Nazan Öncel](https://open.spotify.com/artist/4li4dx5mFgZlMVeHlARBHP) | [Görmeyeli](https://open.spotify.com/album/0Y1iRff0MBlxV8v8RdcFxL) | 3:00 | 2025-10-23 | 2025-11-06 |
+| [Gözlerin Lazım](https://open.spotify.com/track/61WXoK5Lu4xI9fjXkWlL70) | [Çodur](https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg), [Mavi Gri](https://open.spotify.com/artist/4otJVkrLLqDF8OxFJOigme) | [Gözlerin Lazım](https://open.spotify.com/album/0Ll45DLQRvuqeJtMmag0a9) | 2:59 | 2026-05-22 |  |
 | [Gözlerin Silah](https://open.spotify.com/track/3g2CDmjkF0Jbn4a7znSH0F) | [Kurtuluş Kuş](https://open.spotify.com/artist/4jF4tHJlYKS5Z9xdEatCfq), [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz) | [Gözlerin Silah](https://open.spotify.com/album/40vrmeBLOD6yG33ADnmumm) | 2:07 | 2024-12-05 | 2025-01-27 |
 | [Gözlerinden Gözlerine](https://open.spotify.com/track/3XZDLNS43nxBJ6HmAlVMGp) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Gözlerinden Gözlerine](https://open.spotify.com/album/2FMZfDpMhD6ZCzb1eolrYU) | 2:56 | 2025-01-31 | 2026-04-10 |
 | [Gözü Kara](https://open.spotify.com/track/26LTXFcJXonSIOPWGaXHRw) | [Demet Özdemir](https://open.spotify.com/artist/5RT8kelYwxEFA2udosMx6Q) | [Gözü Kara](https://open.spotify.com/album/3qklIaqqkwJUbuhWHyQYro) | 2:58 | 2026-01-12 | 2026-03-20 |
@@ -416,7 +417,7 @@
 | [pişman...](https://open.spotify.com/track/1vHyuIpmhC2TWrQHWPNxBA) | [Sena Şahin](https://open.spotify.com/artist/40VwjQ6yxDV90bjbDU124W) | [pişman...](https://open.spotify.com/album/1D8mP2XsFgTuFDsgXsyz0G) | 1:50 | 2025-03-06 | 2025-03-14 |
 | [Rakıya Meze Olalım](https://open.spotify.com/track/0PTpHlfm7cqG69tKyIuu7r) | [Zara](https://open.spotify.com/artist/1B4KdcJA6Dh1MlAiezqc08), [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz), [Kurtuluş Kuş](https://open.spotify.com/artist/4jF4tHJlYKS5Z9xdEatCfq) | [Rakıya Meze Olalım](https://open.spotify.com/album/5s1VUKfu8QHcTddbf1co5K) | 2:09 | 2024-10-03 | 2025-01-16 |
 | [Renklensin](https://open.spotify.com/track/1d02igesB9DREknAVXRiBd) | [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [Renklensin](https://open.spotify.com/album/5QTNMJkssQOVw7DZhzHQNL) | 3:10 | 2024-06-27 | 2024-08-02 |
-| [RUJ](https://open.spotify.com/track/3SJ6Dk9v81DxV9ugOTXSZk) | [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg) | [RUJ](https://open.spotify.com/album/0uDGWW5KwPWZz7uffY647c) | 3:08 | 2025-06-26 |  |
+| [RUJ](https://open.spotify.com/track/3SJ6Dk9v81DxV9ugOTXSZk) | [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg) | [RUJ](https://open.spotify.com/album/0uDGWW5KwPWZz7uffY647c) | 3:08 | 2025-06-26 | 2026-05-25 |
 | [Sabrettim](https://open.spotify.com/track/1PkXm3F4IHE4cwm3D9y1tr) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp), [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ), [Büken](https://open.spotify.com/artist/5xvFmfo6COwVZoN8GHaBLs) | [Sabrettim](https://open.spotify.com/album/1F9mSnW3E9HjHLAzqO0cjP) | 3:05 | 2025-08-15 |  |
 | [Sahipsiz](https://open.spotify.com/track/0kxbEY08FagNJ6XSh1XHGo) | [Hande Yener](https://open.spotify.com/artist/08mjMUUjyTchMHCW7evc3R), [Lil Zey](https://open.spotify.com/artist/7Gx2wDVHyW5HJh7dc2t5h7) | [Sahipsiz](https://open.spotify.com/album/1NVLQP0ioRk7TnvZeYtp5p) | 2:59 | 2025-01-16 | 2025-04-16 |
 | [Sahte Sonbahar](https://open.spotify.com/track/1ACI7zmoUY34xcrKrYeypb) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Geçiyor Zaman](https://open.spotify.com/album/0flBR9Gz8N0UXPplEbrP1p) | 2:55 | 2024-08-08 | 2026-02-27 |

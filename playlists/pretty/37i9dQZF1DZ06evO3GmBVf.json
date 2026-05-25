@@ -1,12 +1,12 @@
 {
   "description": "This is Lefty Sm. The essential tracks, all in one playlist.",
-  "num_followers": 215743,
+  "num_followers": 215766,
   "original_name": "This Is Lefty Sm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ag+cgAAAAABQxbiRt/SvDYcLw88SPwCq",
+  "snapshot_id": "ahDuAAAAAACLqFLAoItAGwnj1yu63TZf",
   "tracks": [
     {
       "added_at": null,
@@ -679,6 +679,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Avion de Papel",
+        "url": "https://open.spotify.com/album/0evS315cwdXX3oCPw5lRD9"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 194899,
+      "name": "Quien Te Viera",
+      "url": "https://open.spotify.com/track/7bNh1GMNO05HFyOiFqVqIw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ahora Estoy Mejor",
         "url": "https://open.spotify.com/album/5BsrTRp4TvgUwRLsvlyKuF"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 274172,
       "name": "Ahora Estoy Mejor",
       "url": "https://open.spotify.com/track/0Wg5AVKIIrnGq25aYU7Inp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Avion de Papel",
-        "url": "https://open.spotify.com/album/0evS315cwdXX3oCPw5lRD9"
-      },
-      "artists": [
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 194899,
-      "name": "Quien Te Viera",
-      "url": "https://open.spotify.com/track/7bNh1GMNO05HFyOiFqVqIw"
     },
     {
       "added_at": null,
@@ -835,6 +835,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lonestar Luchador",
+        "url": "https://open.spotify.com/album/1tX0d5OqKOCkif6yja3TpK"
+      },
+      "artists": [
+        {
+          "name": "That Mexican OT",
+          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
+        },
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 144414,
+      "name": "Barrio (with Lefty Sm)",
+      "url": "https://open.spotify.com/track/31L6JkBku2Oq4D5IvuOvYv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Fiest\u00f3n",
         "url": "https://open.spotify.com/album/6oUqqtcH3bsQYsRXypgWvx"
       },
@@ -867,26 +887,6 @@
       "duration_ms": 202500,
       "name": "El Fiest\u00f3n",
       "url": "https://open.spotify.com/track/4Vjn04mr4e3VMw5fbO2EVP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lonestar Luchador",
-        "url": "https://open.spotify.com/album/1tX0d5OqKOCkif6yja3TpK"
-      },
-      "artists": [
-        {
-          "name": "That Mexican OT",
-          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
-        },
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 144414,
-      "name": "Barrio (with Lefty Sm)",
-      "url": "https://open.spotify.com/track/31L6JkBku2Oq4D5IvuOvYv"
     },
     {
       "added_at": null,

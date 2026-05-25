@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2X2YHi92QqA.md) - [plain]
 
 > 🌺🌺🌺
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,535 likes - 60 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,537 likes - 60 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,9 +29,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2X2YHi92QqA.md) - [plain]
 | 19 | [I DON'T WANNA FEEL THAT WAY](https://open.spotify.com/track/4Co67jPlW5wF3vW5gye8cO) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn), [NASAYA](https://open.spotify.com/artist/5932gYdqLCu1ftKVXf1PO4) | [LIFELINE](https://open.spotify.com/album/3kBuRWAR5eqO29Yr0tzkJi) | 3:51 |
 | 20 | [Будь зі мною](https://open.spotify.com/track/0dLBJzY1JLNTXdyN3oEZ1d) | [Grohotsky](https://open.spotify.com/artist/42GlDtFvb6lgqHj7oc4SSi) | [Будь зі мною](https://open.spotify.com/album/16G0KLEpkwOfJPZripKxnl) | 3:33 |
 | 21 | [Вродлива](https://open.spotify.com/track/714gZqwzaj9MrjyDGPWq1c) | [YAKTAK](https://open.spotify.com/artist/5zjgy7grnZbt2L12meuxog) | [Вродлива](https://open.spotify.com/album/30CrSBR6y6TGFq9WHBHuHI) | 2:30 |
-| 22 | [Ти винен сам](https://open.spotify.com/track/4EWPpDlKICw2jMyGBgYHZ9) | [Shmiska](https://open.spotify.com/artist/0896FugzPOpBDwYEfhMAVY), [анастимоза](https://open.spotify.com/artist/387gWxnXhGdDQFO7Ld3mLZ) | [Ти винен сам](https://open.spotify.com/album/70xcGE515etdEXFKJT6Sps) | 3:22 |
+| 22 | [The Table](https://open.spotify.com/track/5pCd4dfI9bQ9H3U1EiaLXv) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [The Table](https://open.spotify.com/album/2vmyJbe35Nv4DDyOkTR5Ku) | 2:53 |
 | 23 | [Бути простим](https://open.spotify.com/track/7sd4YTOKjvwHOXnWQw5CDb) | [KOLA](https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh) | [Бути простим](https://open.spotify.com/album/1Fy0CYAFIRLbwsoejhHU4S) | 2:31 |
-| 24 | [The Table](https://open.spotify.com/track/5pCd4dfI9bQ9H3U1EiaLXv) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [The Table](https://open.spotify.com/album/2vmyJbe35Nv4DDyOkTR5Ku) | 2:53 |
+| 24 | [Ти винен сам](https://open.spotify.com/track/4EWPpDlKICw2jMyGBgYHZ9) | [Shmiska](https://open.spotify.com/artist/0896FugzPOpBDwYEfhMAVY), [анастимоза](https://open.spotify.com/artist/387gWxnXhGdDQFO7Ld3mLZ) | [Ти винен сам](https://open.spotify.com/album/70xcGE515etdEXFKJT6Sps) | 3:22 |
 | 25 | [Lucerna](https://open.spotify.com/track/27b7hrOY8fkjVom9DGyXO8) | [LATEXFAUNA](https://open.spotify.com/artist/23z16jDNwdZLV9fvE7KliP) | [Lucerna](https://open.spotify.com/album/19yBWt7K3v0P5Oox896P3X) | 6:16 |
 | 26 | [Мені тебе бракує](https://open.spotify.com/track/4AS9O91OqMi1gZ4zq2UiA0) | [Phil It](https://open.spotify.com/artist/0mJGrzOVeAMwrtlQZaNyUe), [ROXOLANA](https://open.spotify.com/artist/2N0mbAIb33TV4rvt4TOXe4) | [Коли квітне папороть](https://open.spotify.com/album/4Sue4Nkc79cFi44txiLEL6) | 3:38 |
 | 27 | [Відлюбилося](https://open.spotify.com/track/34b1BsvwGHVsZ63g7MaKHF) | [Averin](https://open.spotify.com/artist/5yDenXpJFxaiNa57V8Tvtx), [CHURSANOV](https://open.spotify.com/artist/5UqC0WSLyRoS6xGD8NA55e) | [Відлюбилося](https://open.spotify.com/album/7Drh1GDYNdKQKjahIjDwPw) | 2:33 |

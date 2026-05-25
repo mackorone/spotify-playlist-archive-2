@@ -1,12 +1,12 @@
 {
   "description": "This is Bon Iver. The essential tracks, all in one playlist.",
-  "num_followers": 290436,
+  "num_followers": 290463,
   "original_name": "This Is Bon Iver",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ag+cgAAAAAAufQaUp0wfcdNMNS0MQjT0",
+  "snapshot_id": "ahDuAAAAAADr6hJ7bonYbFQlK8OOjbvq",
   "tracks": [
     {
       "added_at": null,
@@ -119,38 +119,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "For Emma, Forever Ago",
-        "url": "https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 401413,
-      "name": "Re: Stacks",
-      "url": "https://open.spotify.com/track/20AC70RUlVz6A6dCcQ5tRS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bon Iver, Bon Iver",
-        "url": "https://open.spotify.com/album/2LpfNj3vB5rOXfaawLcOBg"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 298586,
-      "name": "Wash.",
-      "url": "https://open.spotify.com/track/7rIhp6EWLNtM8qFIQruJPT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Son Of Spergy",
         "url": "https://open.spotify.com/album/2LKW0m9cC63QzEI9tJH3ql"
       },
@@ -171,8 +139,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "SABLE, fABLE",
-        "url": "https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T"
+        "name": "Bon Iver, Bon Iver",
+        "url": "https://open.spotify.com/album/2LpfNj3vB5rOXfaawLcOBg"
       },
       "artists": [
         {
@@ -180,9 +148,9 @@
           "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
         }
       ],
-      "duration_ms": 209077,
-      "name": "S P E Y S I D E",
-      "url": "https://open.spotify.com/track/4FeYX8QKpNA1Nof6XLsMnv"
+      "duration_ms": 298586,
+      "name": "Wash.",
+      "url": "https://open.spotify.com/track/7rIhp6EWLNtM8qFIQruJPT"
     },
     {
       "added_at": null,
@@ -196,9 +164,25 @@
           "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
         }
       ],
-      "duration_ms": 220720,
-      "name": "For Emma",
-      "url": "https://open.spotify.com/track/2nilAlGEZmwyaLTMMyDdLo"
+      "duration_ms": 401413,
+      "name": "Re: Stacks",
+      "url": "https://open.spotify.com/track/20AC70RUlVz6A6dCcQ5tRS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SABLE, fABLE",
+        "url": "https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 209077,
+      "name": "S P E Y S I D E",
+      "url": "https://open.spotify.com/track/4FeYX8QKpNA1Nof6XLsMnv"
     },
     {
       "added_at": null,
@@ -251,6 +235,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "For Emma, Forever Ago",
+        "url": "https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 220720,
+      "name": "For Emma",
+      "url": "https://open.spotify.com/track/2nilAlGEZmwyaLTMMyDdLo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SABLE, fABLE",
         "url": "https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T"
       },
@@ -263,22 +263,6 @@
       "duration_ms": 182607,
       "name": "From",
       "url": "https://open.spotify.com/track/5agmWuBAor2UQcNqByOvWC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "For Emma, Forever Ago",
-        "url": "https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 219000,
-      "name": "Flume",
-      "url": "https://open.spotify.com/track/0bhBtXHQX3u6dSAPF59qGx"
     },
     {
       "added_at": null,
@@ -319,6 +303,22 @@
       "duration_ms": 304106,
       "name": "evermore (feat. Bon Iver)",
       "url": "https://open.spotify.com/track/0AaV4MJrgmLV3XhoiWXjjb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "For Emma, Forever Ago",
+        "url": "https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "Flume",
+      "url": "https://open.spotify.com/track/0bhBtXHQX3u6dSAPF59qGx"
     },
     {
       "added_at": null,
@@ -667,22 +667,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Laugh Track",
-        "url": "https://open.spotify.com/album/7re8T0K3s8v3S3xeiQcOYi"
+        "name": "Of Earth & Wires",
+        "url": "https://open.spotify.com/album/3qNTvRIpk5NhtwDOAUMeMx"
       },
       "artists": [
         {
-          "name": "The National",
-          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+          "name": "Dua Saleh",
+          "url": "https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB"
         },
         {
           "name": "Bon Iver",
           "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
         }
       ],
-      "duration_ms": 303173,
-      "name": "Weird Goodbyes (feat. Bon Iver)",
-      "url": "https://open.spotify.com/track/75JaY0e1HDkTfetsrQ5vUR"
+      "duration_ms": 122200,
+      "name": "Keep Away (feat. Bon Iver)",
+      "url": "https://open.spotify.com/track/6wpZpVB1xZCOJBKFo9WSPX"
     },
     {
       "added_at": null,
@@ -703,6 +703,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Laugh Track",
+        "url": "https://open.spotify.com/album/7re8T0K3s8v3S3xeiQcOYi"
+      },
+      "artists": [
+        {
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+        },
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 303173,
+      "name": "Weird Goodbyes (feat. Bon Iver)",
+      "url": "https://open.spotify.com/track/75JaY0e1HDkTfetsrQ5vUR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "22, A Million",
         "url": "https://open.spotify.com/album/4bJCKmpKgti10f3ltz6LLl"
       },
@@ -715,26 +735,6 @@
       "duration_ms": 245200,
       "name": "29 #Strafford APTS",
       "url": "https://open.spotify.com/track/5qngJJcuGPqUyX3VPKvH11"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Of Earth & Wires",
-        "url": "https://open.spotify.com/album/3qNTvRIpk5NhtwDOAUMeMx"
-      },
-      "artists": [
-        {
-          "name": "Dua Saleh",
-          "url": "https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB"
-        },
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 122200,
-      "name": "Keep Away (feat. Bon Iver)",
-      "url": "https://open.spotify.com/track/6wpZpVB1xZCOJBKFo9WSPX"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWubjQuAKF1.md) - [plain]
 
 > świeże brzmienia na horyzoncie ✨ Cover: Ania Szlagowska
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,864 likes - 65 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,866 likes - 65 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,9 +22,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWubjQuAKF1.md) - [plain]
 | 12 | [Gotham](https://open.spotify.com/track/0z96iKCMr5H0js13xzklJe) | [MECNER](https://open.spotify.com/artist/2JwBk7ukopCrUjaw2mHZQf) | [Gotham](https://open.spotify.com/album/7tAIDXIVVN2IzLOKDPqCEU) | 2:55 |
 | 13 | [What's the Point!](https://open.spotify.com/track/5yYGr8R31sQLOMVIgNCnrN) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [What's the Point!](https://open.spotify.com/album/0QFm3m1Wa8IMkUe1s8YLeS) | 2:43 |
 | 14 | [Stygnie lato](https://open.spotify.com/track/4XeZLZoNzLd1fKxpLTEqE0) | [Kuba i Kuba](https://open.spotify.com/artist/43i9C47bAIVm8jKgEKYPfh) | [Stygnie lato](https://open.spotify.com/album/2DGpH0QbyyUEZYRL88lQxn) | 3:01 |
-| 15 | [TV](https://open.spotify.com/track/6RLMAUSoJP0GZZAnnLrTlX) | [Olga Myko](https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm) | [TV](https://open.spotify.com/album/6c91028rOTzQnHvmYgK6I4) | 3:15 |
+| 15 | [Cztery pory roku](https://open.spotify.com/track/64WQcLBIXbjsAA6bh7uHmH) | [Wiktor Waligóra](https://open.spotify.com/artist/10PLt1zAFo8GDQlo0VD4iL), [DrySkull](https://open.spotify.com/artist/3wdl0d5sycxPazuAEBTxEp) | [Cztery pory roku](https://open.spotify.com/album/6Bc7mrgqOHPkiELJbPZt0x) | 2:52 |
 | 16 | [Steady](https://open.spotify.com/track/4PZQtsDTNlq5hFWmdBb5xh) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [a couple minutes out](https://open.spotify.com/album/13sFSgU0S2NUdpv4BbLN0t) | 3:26 |
-| 17 | [Cztery pory roku](https://open.spotify.com/track/64WQcLBIXbjsAA6bh7uHmH) | [Wiktor Waligóra](https://open.spotify.com/artist/10PLt1zAFo8GDQlo0VD4iL), [DrySkull](https://open.spotify.com/artist/3wdl0d5sycxPazuAEBTxEp) | [Cztery pory roku](https://open.spotify.com/album/6Bc7mrgqOHPkiELJbPZt0x) | 2:52 |
+| 17 | [TV](https://open.spotify.com/track/6RLMAUSoJP0GZZAnnLrTlX) | [Olga Myko](https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm) | [TV](https://open.spotify.com/album/6c91028rOTzQnHvmYgK6I4) | 3:15 |
 | 18 | [BLOODY MARY](https://open.spotify.com/track/445swxbKlkXgrIbRPpPYrL) | [Ella Boh](https://open.spotify.com/artist/3UWNE3idxa2v2TMzrBRX11) | [BLURRY](https://open.spotify.com/album/4KnNtQ9m2ya5CVz4HdDcqU) | 3:02 |
 | 19 | [Why Am I Here](https://open.spotify.com/track/5BaG5aMYeyOCfix0eTJXKz) | [Presley Regier](https://open.spotify.com/artist/7AAHfakMQan4p04ozZhhwc) | [Sensitive to the room](https://open.spotify.com/album/2HD4BmFejncyUP0fhoes6Q) | 3:17 |
 | 20 | [PRICE TAG](https://open.spotify.com/track/6ea45jrg9LYFUapPi4B0sC) | [Sara James](https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV) | [PRICE TAG](https://open.spotify.com/album/4zLvUo0kxF4ULzX0XL3bui) | 3:10 |
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWubjQuAKF1.md) - [plain]
 | 23 | [STARLET](https://open.spotify.com/track/7fRaZXWjyVuJX9vkzGv0Dw) | [Ella Boh](https://open.spotify.com/artist/3UWNE3idxa2v2TMzrBRX11) | [STARLET](https://open.spotify.com/album/7jG25C6PpgXzeZsXfyN47R) | 2:39 |
 | 24 | [Heavenly](https://open.spotify.com/track/0WAfD3WFJgV5qT39XQlU6v) | [LUNA](https://open.spotify.com/artist/0AZgkXW6n0zfyOhVAnIopA) | [Heavenly](https://open.spotify.com/album/1bdyX4COcfl10V9uceQgnk) | 2:42 |
 | 25 | [Talking To Jesus](https://open.spotify.com/track/52cTqjEjB5PEftPWqKxmgD) | [Amma](https://open.spotify.com/artist/6rYqTmpl2LNEovR30mauo2) | [Middle Child](https://open.spotify.com/album/40UETJYLuyi0ys3kWhFuXM) | 3:32 |
-| 26 | [fuck, i’m yours?](https://open.spotify.com/track/1qsncTDPTkXKYIiNpi3WdJ) | [bartek turski](https://open.spotify.com/artist/5HArWtrcYhpxplTtZ848wR) | [fuck, i’m yours?](https://open.spotify.com/album/3tNuN7r0HFJJxzfz05dVcm) | 2:47 |
-| 27 | [Odkochaj](https://open.spotify.com/track/0ALsDccwFMj8QznHPah8fn) | [Marissa](https://open.spotify.com/artist/7lRC2ICJeiCyz2wSU6BVkH) | [Odkochaj](https://open.spotify.com/album/536Y6k6glJY1fMr8jlyZPO) | 2:43 |
+| 26 | [Odkochaj](https://open.spotify.com/track/0ALsDccwFMj8QznHPah8fn) | [Marissa](https://open.spotify.com/artist/7lRC2ICJeiCyz2wSU6BVkH) | [Odkochaj](https://open.spotify.com/album/536Y6k6glJY1fMr8jlyZPO) | 2:43 |
+| 27 | [fuck, i’m yours?](https://open.spotify.com/track/1qsncTDPTkXKYIiNpi3WdJ) | [bartek turski](https://open.spotify.com/artist/5HArWtrcYhpxplTtZ848wR) | [fuck, i’m yours?](https://open.spotify.com/album/3tNuN7r0HFJJxzfz05dVcm) | 2:47 |
 | 28 | [PAMIĘTAJ](https://open.spotify.com/track/5xGpJoxIzALCGEVreG4KoW) | [pszona](https://open.spotify.com/artist/4aDCdXr7zIjjO8zk9URwMq), [FANKA](https://open.spotify.com/artist/5wUmzMcZxXPMi2qpddL0wg) | [PAMIĘTAJ](https://open.spotify.com/album/3FWEcL3khaOowLFFzgNDLE) | 2:48 |
 | 29 | [have fun bby](https://open.spotify.com/track/1HEBn1kTxE6fwDofeN1abq) | [Julia Pośnik](https://open.spotify.com/artist/4fCtCAiaIqqRuUiSjIYPMX) | [have fun bby](https://open.spotify.com/album/2dyS6p9Ng1KLP5JGMVlgx6) | 2:36 |
 | 30 | [PASTEL SKIES](https://open.spotify.com/track/3dMD87OLuqQfvm5EjNQiuH) | [PIXY](https://open.spotify.com/artist/5AGVMquElW7QIas7i21Xmz) | [XY](https://open.spotify.com/album/1yiVOuCt6cgP6lHVNALOrV) | 2:28 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWubjQuAKF1.md) - [plain]
 | 33 | [ASFALT](https://open.spotify.com/track/0Izx0GM7me01DxEZKLkRup) | [Hugo Tarres](https://open.spotify.com/artist/6VaYrjshHIPyNBnmVdLdgQ) | [ASFALT](https://open.spotify.com/album/0WmjnvRqQU6Pt4ZJ6cWPMF) | 2:33 |
 | 34 | [Dom](https://open.spotify.com/track/0rkj5f4oLCYbver5KyDZza) | [Krystian Embradora](https://open.spotify.com/artist/2qc8UnBYc6e5uBRUXfTh1Z) | [Dom](https://open.spotify.com/album/5la4J8vKDZwNe4wvh8e4Cr) | 2:34 |
 | 35 | [Zły, najgorszy sen](https://open.spotify.com/track/53DdqsoSrwQIa1gphtIJgF) | [maks.tachasiuk](https://open.spotify.com/artist/14RpuKZYyyikmsRU3zPoWz) | [Wieje](https://open.spotify.com/album/5tpWJuzhUJ4PrQp3WeZ8ap) | 4:13 |
-| 36 | [Siódma Sosna](https://open.spotify.com/track/4bLfMCa2nYQnWOeMcqLiY9) | [Natalia Marczuk](https://open.spotify.com/artist/5WQXxSI1Mw50K1bAo7rd62), [Mateusz Gędek](https://open.spotify.com/artist/1cfpfsSRiNBDnteA7s1hQD) | [Siódma Sosna](https://open.spotify.com/album/3yFJzPRH0w3EEhb0zxJa63) | 2:44 |
-| 37 | [Wołam](https://open.spotify.com/track/5M0i5vz49eMK6iMKJZul1y) | [Maciej Skiba](https://open.spotify.com/artist/0cCuYYHtLT5cQJsdIj04Tq) | [Wołam](https://open.spotify.com/album/5OPhfeaaotZnwRn5fx0m41) | 2:46 |
+| 36 | [Wołam](https://open.spotify.com/track/5M0i5vz49eMK6iMKJZul1y) | [Maciej Skiba](https://open.spotify.com/artist/0cCuYYHtLT5cQJsdIj04Tq) | [Wołam](https://open.spotify.com/album/5OPhfeaaotZnwRn5fx0m41) | 2:46 |
+| 37 | [Siódma Sosna](https://open.spotify.com/track/4bLfMCa2nYQnWOeMcqLiY9) | [Natalia Marczuk](https://open.spotify.com/artist/5WQXxSI1Mw50K1bAo7rd62), [Mateusz Gędek](https://open.spotify.com/artist/1cfpfsSRiNBDnteA7s1hQD) | [Siódma Sosna](https://open.spotify.com/album/3yFJzPRH0w3EEhb0zxJa63) | 2:44 |
 | 38 | [W snach](https://open.spotify.com/track/5FpxCMdHZTVGvHJVtrkBDk) | [Daniel Godson](https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU) | [Pytania](https://open.spotify.com/album/6gDgbvpxYVyCTwJ1oLifF5) | 3:23 |
 | 39 | [Bilet](https://open.spotify.com/track/244KMK3CqSVycNOfVJoSs8) | [Wiktor Sas](https://open.spotify.com/artist/5eMGKtyT2PGPjBbNOcaktT) | [Bilet](https://open.spotify.com/album/6ZkKH54YNc9alqdm5sAPo5) | 2:40 |
 | 40 | [Z cukrem mylę lód](https://open.spotify.com/track/335yWRhRBaHbyzmPyFJ0nj) | [Miłosz Skierski](https://open.spotify.com/artist/0aEvxy0vmxXQixOiE9qyhJ) | [Eksperyment](https://open.spotify.com/album/2OvhnHJfqojWQkbRMAXSDO) | 3:22 |
@@ -65,13 +65,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWubjQuAKF1.md) - [plain]
 | 55 | [halo Houston](https://open.spotify.com/track/4kIqI8h1bxOgrI9siEkD62) | [Jasiek Piwowarczyk](https://open.spotify.com/artist/705MUvkld29STeOVijPoTe) | [halo Houston](https://open.spotify.com/album/0ASB9yWOXdBFSnjKlZmI87) | 2:23 |
 | 56 | [drinkłykshot](https://open.spotify.com/track/40I9oJKHZUGWA3QYDVTJhb) | [emi](https://open.spotify.com/artist/1cIGr563sge3dInoMsn0Cu) | [drinkłykshot](https://open.spotify.com/album/1kolE1AX5sUoKmnh7eyGzM) | 2:29 |
 | 57 | [powiem/nie powiem](https://open.spotify.com/track/509mth4lw2dQQcGXtKMHDc) | [Frank Leen](https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4) | [powiem/nie powiem](https://open.spotify.com/album/1wnV3DSxRwQzSiPEkQzQ4t) | 3:28 |
-| 58 | [Lustro](https://open.spotify.com/track/1juFCYbgxY2JQRXAmDoQey) | [Sad Smiles](https://open.spotify.com/artist/5LISNIIF2dVg8fxzZImkzo) | [Lustro](https://open.spotify.com/album/3W91mDbnv8CLmX75f9RtO8) | 2:53 |
-| 59 | [lepiej](https://open.spotify.com/track/7GCE9OgHlDaXOWaq1b0vU6) | [imasleep](https://open.spotify.com/artist/1hAUIs8Rpq6kpNHqlwJW4i) | [lepiej](https://open.spotify.com/album/2qq3p36UTibQYlpu0IV6R0) | 2:15 |
+| 58 | [lepiej](https://open.spotify.com/track/7GCE9OgHlDaXOWaq1b0vU6) | [imasleep](https://open.spotify.com/artist/1hAUIs8Rpq6kpNHqlwJW4i) | [lepiej](https://open.spotify.com/album/2qq3p36UTibQYlpu0IV6R0) | 2:15 |
+| 59 | [Lustro](https://open.spotify.com/track/1juFCYbgxY2JQRXAmDoQey) | [Sad Smiles](https://open.spotify.com/artist/5LISNIIF2dVg8fxzZImkzo) | [Lustro](https://open.spotify.com/album/3W91mDbnv8CLmX75f9RtO8) | 2:53 |
 | 60 | [Aparat](https://open.spotify.com/track/4RGV9aOG8RG9Wu8Vyg9x7p) | [huskie](https://open.spotify.com/artist/7qAmqo6RdMhZmRWNSIK8kS) | [Między słowami](https://open.spotify.com/album/7H594gTYomUcEtTL08ZRtr) | 3:22 |
 | 61 | [PORTO](https://open.spotify.com/track/2yC6IrXdV3w6AaReClZIMY) | [Kuba Szmajkowsky](https://open.spotify.com/artist/6VMslcLSscfWZSy98JfNiQ) | [PORTO](https://open.spotify.com/album/67Xlepgco8TLDEqBMFZqdn) | 2:29 |
-| 62 | [Wspaniały to był rok](https://open.spotify.com/track/4068vxwJ0XFCw4M5qtanIV) | [Leon Krześniak](https://open.spotify.com/artist/1otG4oP2AJMnYAW0ufLKEU) | [Wspaniały to był rok](https://open.spotify.com/album/33qGHKDZZixVbdIJWPICV4) | 2:52 |
-| 63 | [Na stacji paliw](https://open.spotify.com/track/1VzgaKsDOrRe3Gucc0e6Ti) | [Miłosz Skierski](https://open.spotify.com/artist/0aEvxy0vmxXQixOiE9qyhJ) | [Na stacji paliw](https://open.spotify.com/album/5EDPDKxzeq5njUIfbQZhx5) | 3:03 |
+| 62 | [kochaj mnie](https://open.spotify.com/track/6ZXczp4DXqMxbaVlEhtMCc) | [Kajetan Wolas](https://open.spotify.com/artist/6tpxFh5TlBxnHzrAfFlCXj), [Moo Latte](https://open.spotify.com/artist/3gNjxcKLkMfZYKlLxn0O9F) | [kochaj mnie](https://open.spotify.com/album/3URaw7BgvY2vh5EtECHnta) | 2:31 |
+| 63 | [Wspaniały to był rok](https://open.spotify.com/track/4068vxwJ0XFCw4M5qtanIV) | [Leon Krześniak](https://open.spotify.com/artist/1otG4oP2AJMnYAW0ufLKEU) | [Wspaniały to był rok](https://open.spotify.com/album/33qGHKDZZixVbdIJWPICV4) | 2:52 |
 | 64 | [TopOff](https://open.spotify.com/track/6EmqcmEbc9XHhleW2rBfvm) | [Zaleś](https://open.spotify.com/artist/3IQIVYEmRr7wZnEqpSjfV5) | [TopOff](https://open.spotify.com/album/6hIBQMP2jZYOZHf9UTWwZb) | 2:39 |
-| 65 | [Palę żale](https://open.spotify.com/track/3AomUcaIEH9zIrrj2oKir5) | [Amelia And](https://open.spotify.com/artist/58wKaNZ5iuXaeelRtHzEsk), [Filipek](https://open.spotify.com/artist/5hqRsNHDZH1jHzI9LgxFRZ) | [Palę żale](https://open.spotify.com/album/7zbbNbDzQyLjbJFznvNwfU) | 2:26 |
+| 65 | [Na stacji paliw](https://open.spotify.com/track/1VzgaKsDOrRe3Gucc0e6Ti) | [Miłosz Skierski](https://open.spotify.com/artist/0aEvxy0vmxXQixOiE9qyhJ) | [Na stacji paliw](https://open.spotify.com/album/5EDPDKxzeq5njUIfbQZhx5) | 3:03 |
 
 Snapshot ID: `AAAAAGmDxW9sexFLSmgv08dlkrxvGEFq`

@@ -1,12 +1,12 @@
 {
   "description": "This is Noah Kahan. The essential tracks, all in one playlist.",
-  "num_followers": 439830,
+  "num_followers": 440196,
   "original_name": "This Is Noah Kahan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ag+cgAAAAACBR9yKdfshmsaIGrvipbWI",
+  "snapshot_id": "ahDuAAAAAAADZdAyo92jpM3ploloGgY5",
   "tracks": [
     {
       "added_at": null,
@@ -307,18 +307,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stick Season (We'll All Be Here Forever)",
-        "url": "https://open.spotify.com/album/1pb3je8gXTs5dpRRTKhHRC"
+        "name": "Sarah's Place (feat. Noah Kahan)",
+        "url": "https://open.spotify.com/album/4nCpzKTB9VoZF1hsogANQi"
       },
       "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
         {
           "name": "Noah Kahan",
           "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
         }
       ],
-      "duration_ms": 278670,
-      "name": "Call Your Mom",
-      "url": "https://open.spotify.com/track/3yn01PcU95PTbiZ3xvop2j"
+      "duration_ms": 214056,
+      "name": "Sarah's Place (feat. Noah Kahan)",
+      "url": "https://open.spotify.com/track/1fvC3CmNAbsx0V9ULMU8NB"
     },
     {
       "added_at": null,
@@ -339,22 +343,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sarah's Place (feat. Noah Kahan)",
-        "url": "https://open.spotify.com/album/4nCpzKTB9VoZF1hsogANQi"
+        "name": "Stick Season (We'll All Be Here Forever)",
+        "url": "https://open.spotify.com/album/1pb3je8gXTs5dpRRTKhHRC"
       },
       "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        },
         {
           "name": "Noah Kahan",
           "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
         }
       ],
-      "duration_ms": 214056,
-      "name": "Sarah's Place (feat. Noah Kahan)",
-      "url": "https://open.spotify.com/track/1fvC3CmNAbsx0V9ULMU8NB"
+      "duration_ms": 278670,
+      "name": "Call Your Mom",
+      "url": "https://open.spotify.com/track/3yn01PcU95PTbiZ3xvop2j"
     },
     {
       "added_at": null,

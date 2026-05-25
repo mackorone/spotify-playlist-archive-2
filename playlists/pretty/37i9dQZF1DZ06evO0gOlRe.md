@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gOlRe.md) - [plain]
 
 > This is Alexander Stewart\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,640 likes - 43 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,644 likes - 43 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,18 +38,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gOlRe.md) - [plain]
 | 28 | [broken by you](https://open.spotify.com/track/1rbaFEbVhbv1jCc2Dg63Qq) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [bleeding heart](https://open.spotify.com/album/53eFX3b6OFPpKi2SEkS0au) | 2:52 |
 | 29 | [His Problem Instead](https://open.spotify.com/track/75UcWeilf2s0ZxzNBJLrJA) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [His Problem Instead](https://open.spotify.com/album/5fZOdQPitNTyse0FdA02B7) | 2:43 |
 | 30 | [Pathetic](https://open.spotify.com/track/6ChfyB2KfEqBDp6gDm82es) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [What If?](https://open.spotify.com/album/3NQLzsml2l8kwASLKj3Av5) | 2:46 |
-| 31 | [october](https://open.spotify.com/track/65MVDci6jCmNj55alfHx3E) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [if you only knew](https://open.spotify.com/album/4b2PgBQEZbvwkKwNPlqrBy) | 2:47 |
-| 32 | [Put You First](https://open.spotify.com/track/3q0DAFFiVacfGS4TuWiEdx) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Put You First](https://open.spotify.com/album/68oLkuSbS2IYOFSbX6aLQd) | 2:20 |
+| 31 | [Put You First](https://open.spotify.com/track/3q0DAFFiVacfGS4TuWiEdx) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Put You First](https://open.spotify.com/album/68oLkuSbS2IYOFSbX6aLQd) | 2:20 |
+| 32 | [october](https://open.spotify.com/track/65MVDci6jCmNj55alfHx3E) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [if you only knew](https://open.spotify.com/album/4b2PgBQEZbvwkKwNPlqrBy) | 2:47 |
 | 33 | [said so](https://open.spotify.com/track/20NwaHJSTOimYki0KmlMSo) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [bleeding heart](https://open.spotify.com/album/53eFX3b6OFPpKi2SEkS0au) | 3:06 |
 | 34 | [when you love someone](https://open.spotify.com/track/0RcBg00iWhPxRbR7mm8q2Z) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [when you love someone](https://open.spotify.com/album/6DJ9hc2PzwTGMLdy1yZ7jB) | 2:53 |
-| 35 | [drunk thought](https://open.spotify.com/track/0LDgdxnp94Ut3f5d4Yxzcb) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [if you only knew](https://open.spotify.com/album/4b2PgBQEZbvwkKwNPlqrBy) | 2:35 |
-| 36 | [back to you](https://open.spotify.com/track/4a1BeAIF3COAK52u6xwO55) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [back to you](https://open.spotify.com/album/64IQBabtZ8YzeZVMuxoS5z) | 2:49 |
+| 35 | [back to you](https://open.spotify.com/track/4a1BeAIF3COAK52u6xwO55) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [back to you](https://open.spotify.com/album/64IQBabtZ8YzeZVMuxoS5z) | 2:49 |
+| 36 | [drunk thought](https://open.spotify.com/track/0LDgdxnp94Ut3f5d4Yxzcb) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [if you only knew](https://open.spotify.com/album/4b2PgBQEZbvwkKwNPlqrBy) | 2:35 |
 | 37 | [reflection](https://open.spotify.com/track/1jYPnvtdMWvCOTJtQVPZZn) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [bleeding heart](https://open.spotify.com/album/53eFX3b6OFPpKi2SEkS0au) | 2:40 |
 | 38 | [This Is Your Life](https://open.spotify.com/track/6wC22rOiOSbpwiAxAxG0kP) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [This Is Your Life](https://open.spotify.com/album/1HKJnTZ2cEEE6ufiKTwzwP) | 2:35 |
-| 39 | [knowing you exist](https://open.spotify.com/track/2TRtmJg3JGtfKKnNOkU5Dn) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [if you only knew](https://open.spotify.com/album/4b2PgBQEZbvwkKwNPlqrBy) | 2:24 |
-| 40 | [Shy](https://open.spotify.com/track/1tT0zPG5V9Qt5VjDlAmlez) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Backwards](https://open.spotify.com/album/6aoNAm8yGoOu1E0ct0gsOi) | 3:32 |
+| 39 | [Shy](https://open.spotify.com/track/1tT0zPG5V9Qt5VjDlAmlez) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Backwards](https://open.spotify.com/album/6aoNAm8yGoOu1E0ct0gsOi) | 3:32 |
+| 40 | [knowing you exist](https://open.spotify.com/track/2TRtmJg3JGtfKKnNOkU5Dn) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [if you only knew](https://open.spotify.com/album/4b2PgBQEZbvwkKwNPlqrBy) | 2:24 |
 | 41 | [Crossfire](https://open.spotify.com/track/2M9g1BMhqVT51XpDw1gThu) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [ORIGIN \(Deluxe\)](https://open.spotify.com/album/72wRkJIO27W7JPUEQ0r3sK) | 3:07 |
 | 42 | [24 Hours](https://open.spotify.com/track/1ZGxwxXbpeydURjPS9mrmL) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [24 Hours](https://open.spotify.com/album/1huVzctnZbPXdXws24VOwz) | 3:18 |
 | 43 | [Aftermath](https://open.spotify.com/track/1JsXnvR7rYhrwMCsOtScOX) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Aftermath](https://open.spotify.com/album/4vgRDVOUwJNYN5fbWsvka3) | 3:40 |
 
-Snapshot ID: `ag+cgAAAAAAbnDbW7n8JCoISVACcbi7R`
+Snapshot ID: `ahDuAAAAAACaDix5Gr3rGeK5W7s252QS`

@@ -3495,6 +3495,24 @@
     },
     {
       "album": {
+        "name": "mi hombre",
+        "url": "https://open.spotify.com/album/5dc6hRpUCVz9r0pcvTITKg"
+      },
+      "artists": [
+        {
+          "name": "Manu Manzo",
+          "url": "https://open.spotify.com/artist/7EbduPILtytQAiMYt3nBb3"
+        }
+      ],
+      "date_added": "2026-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176509,
+      "name": "my man",
+      "url": "https://open.spotify.com/track/4C18zbNTQR9Y36GDYXQAq7"
+    },
+    {
+      "album": {
         "name": "PERO NO TE ENAMORES",
         "url": "https://open.spotify.com/album/3iRQdNKyI5Pf78jWYI1tFv"
       },
@@ -4568,7 +4586,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-25",
       "duration_ms": 200785,
       "name": "Ram Pam Pam",
       "url": "https://open.spotify.com/track/4DHDIdeayp8xvlyg22wREO"
@@ -5461,6 +5479,36 @@
     },
     {
       "album": {
+        "name": "Tiene Tumbao",
+        "url": "https://open.spotify.com/album/2PuvBdtes8F2KaQ2HsN9Ho"
+      },
+      "artists": [
+        {
+          "name": "Boy Wonder CF",
+          "url": "https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF"
+        },
+        {
+          "name": "Amara La Negra",
+          "url": "https://open.spotify.com/artist/6cdcTRFv0nFBQZPmTLWhRh"
+        },
+        {
+          "name": "Bigoblin",
+          "url": "https://open.spotify.com/artist/38m9i1Ro4UpoMLGuRm6bwq"
+        },
+        {
+          "name": "Kreizy k",
+          "url": "https://open.spotify.com/artist/3Z8i7zAQr7lPwH7pUQnlXJ"
+        }
+      ],
+      "date_added": "2026-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129836,
+      "name": "Tiene Tumbao",
+      "url": "https://open.spotify.com/track/2Zg5eXtjIWzIqdIXe1DosI"
+    },
+    {
+      "album": {
         "name": "Tiki Taka",
         "url": "https://open.spotify.com/album/7q1LgwudtZxkSfLcedzr9U"
       },
@@ -5538,7 +5586,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-25",
       "duration_ms": 208000,
       "name": "TODO O NADA",
       "url": "https://open.spotify.com/track/59rjsHYxdxeUG6gd43Emzs"

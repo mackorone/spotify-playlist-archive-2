@@ -1,12 +1,12 @@
 {
   "description": "This is George Michael. The essential tracks, all in one playlist.",
-  "num_followers": 596934,
+  "num_followers": 596944,
   "original_name": "This Is George Michael",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ag+cgAAAAADwyJ4j1JGO6zUKcCkDRjhw",
+  "snapshot_id": "ahDuAAAAAACS3poCGXD6FPIk7wzISTdQ",
   "tracks": [
     {
       "added_at": null,
@@ -599,22 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Faith",
-        "url": "https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 276200,
-      "name": "Hand to Mouth - Remastered",
-      "url": "https://open.spotify.com/track/4wLjiz87aGbmDhADeMQWwt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Older + Upper",
         "url": "https://open.spotify.com/album/0Vw6FmuN5pWZQbW5ztqOfk"
       },
@@ -631,6 +615,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Faith",
+        "url": "https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 276200,
+      "name": "Hand to Mouth - Remastered",
+      "url": "https://open.spotify.com/track/4wLjiz87aGbmDhADeMQWwt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Listen Without Prejudice Vol. 1 (Remastered)",
         "url": "https://open.spotify.com/album/3wefJju6OeLfLCd5KJWi7o"
       },
@@ -640,9 +640,9 @@
           "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
         }
       ],
-      "duration_ms": 239174,
-      "name": "Mothers Pride - Remastered",
-      "url": "https://open.spotify.com/track/2IodPJuxlrUkZvAiAPMUJv"
+      "duration_ms": 147482,
+      "name": "Waiting (Reprise) - Remastered",
+      "url": "https://open.spotify.com/track/6pqUpNXOsFWqMtPonvLJOe"
     },
     {
       "added_at": null,
@@ -704,9 +704,9 @@
           "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
         }
       ],
-      "duration_ms": 147482,
-      "name": "Waiting (Reprise) - Remastered",
-      "url": "https://open.spotify.com/track/6pqUpNXOsFWqMtPonvLJOe"
+      "duration_ms": 239174,
+      "name": "Mothers Pride - Remastered",
+      "url": "https://open.spotify.com/track/2IodPJuxlrUkZvAiAPMUJv"
     },
     {
       "added_at": null,

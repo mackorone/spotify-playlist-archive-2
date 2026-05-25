@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95vhptNy3YE.md) - [plain]
 
 > Budah, AJULLIACOSTA, Franco, the Sir! e mais artistas da cultura preta brasileira, puxando o bonde pra geral ganhar o mundão.
 
-[Spotify](https://open.spotify.com/user/spotify) - 443,020 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 443,010 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

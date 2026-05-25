@@ -1,12 +1,12 @@
 {
   "description": "This is P-Lo. The essential tracks, all in one playlist.",
-  "num_followers": 5744,
+  "num_followers": 5747,
   "original_name": "This Is P-Lo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ag+cgAAAAAD1nExF88V9b9MX+LV30sAp",
+  "snapshot_id": "ahDuAAAAAACUG9drJtNJfRuM6Tnl5EZE",
   "tracks": [
     {
       "added_at": null,
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PRIME",
-        "url": "https://open.spotify.com/album/6hXlWzbFJ2JNBi3BWnEEyL"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 159064,
-      "name": "bamboo",
-      "url": "https://open.spotify.com/track/17Rcrd4ARqY9CkQGUFPhJS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Feel Me?",
         "url": "https://open.spotify.com/album/319EhuTWQQRHTQqSutFXsl"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 139427,
       "name": "Feel Me?",
       "url": "https://open.spotify.com/track/5LGJYig5XDRbS0f5pXGmmH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PRIME",
+        "url": "https://open.spotify.com/album/6hXlWzbFJ2JNBi3BWnEEyL"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 159064,
+      "name": "bamboo",
+      "url": "https://open.spotify.com/track/17Rcrd4ARqY9CkQGUFPhJS"
     },
     {
       "added_at": null,
@@ -775,26 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Out The Box (feat. Bosko)",
-        "url": "https://open.spotify.com/album/3tJqpSeV4fXw2wZS1Yc28S"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        },
-        {
-          "name": "Bosko",
-          "url": "https://open.spotify.com/artist/16PgF1vgup7ohBZnteQGvx"
-        }
-      ],
-      "duration_ms": 162804,
-      "name": "Out The Box (feat. Bosko)",
-      "url": "https://open.spotify.com/track/2E8AxnMhRi71GN6eLS2HEq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "It Ain't Nothin",
         "url": "https://open.spotify.com/album/2CSm8CtXCnwr3d3hQpWsQF"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 147169,
       "name": "It Ain't Nothin",
       "url": "https://open.spotify.com/track/3Fuoa0izWFVmfKzXSg37To"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Out The Box (feat. Bosko)",
+        "url": "https://open.spotify.com/album/3tJqpSeV4fXw2wZS1Yc28S"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        },
+        {
+          "name": "Bosko",
+          "url": "https://open.spotify.com/artist/16PgF1vgup7ohBZnteQGvx"
+        }
+      ],
+      "duration_ms": 162804,
+      "name": "Out The Box (feat. Bosko)",
+      "url": "https://open.spotify.com/track/2E8AxnMhRi71GN6eLS2HEq"
     },
     {
       "added_at": null,
@@ -839,26 +839,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SHINE",
-        "url": "https://open.spotify.com/album/5LECWxPVK3XQs2YssYLeJW"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        },
-        {
-          "name": "Mike Sherm",
-          "url": "https://open.spotify.com/artist/3tqosLbNFNekyZyO2KJ6qd"
-        }
-      ],
-      "duration_ms": 144459,
-      "name": "House",
-      "url": "https://open.spotify.com/track/5nRBPZM5rclpEnvkvwetVx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Good Life",
         "url": "https://open.spotify.com/album/73UMkXyGZFvTlZLk3cdw7j"
       },
@@ -875,6 +855,26 @@
       "duration_ms": 175354,
       "name": "Level",
       "url": "https://open.spotify.com/track/2bfLEoVYRuKmOA4eNe6qLT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SHINE",
+        "url": "https://open.spotify.com/album/5LECWxPVK3XQs2YssYLeJW"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        },
+        {
+          "name": "Mike Sherm",
+          "url": "https://open.spotify.com/artist/3tqosLbNFNekyZyO2KJ6qd"
+        }
+      ],
+      "duration_ms": 144459,
+      "name": "House",
+      "url": "https://open.spotify.com/track/5nRBPZM5rclpEnvkvwetVx"
     },
     {
       "added_at": null,
@@ -927,22 +927,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SHINE",
-        "url": "https://open.spotify.com/album/5LECWxPVK3XQs2YssYLeJW"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 139041,
-      "name": "Type Beat",
-      "url": "https://open.spotify.com/track/4oKB9qJo3HC2AqeOgu4AbR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PUSH & PAINT",
         "url": "https://open.spotify.com/album/6a9MlvLY4lDVRZFGvujtd0"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 171428,
       "name": "Ole Girl (feat. P-LO)",
       "url": "https://open.spotify.com/track/2bgNoj2vfQtLzNqsp6tvWe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SHINE",
+        "url": "https://open.spotify.com/album/5LECWxPVK3XQs2YssYLeJW"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 139041,
+      "name": "Type Beat",
+      "url": "https://open.spotify.com/track/4oKB9qJo3HC2AqeOgu4AbR"
     },
     {
       "added_at": null,
@@ -1003,6 +1003,26 @@
       "duration_ms": 158693,
       "name": "Lightswitch",
       "url": "https://open.spotify.com/track/5PrCTQ0qYN9UJWVuAfTuMR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LEMONADE FREESTYLE (Remix)",
+        "url": "https://open.spotify.com/album/2tnu3sjltkTWvLZ6R1meLT"
+      },
+      "artists": [
+        {
+          "name": "Darrell Medellin",
+          "url": "https://open.spotify.com/artist/1AaJ2wvoRTdxYhmGa4Akwl"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 142654,
+      "name": "LEMONADE FREESTYLE - Remix",
+      "url": "https://open.spotify.com/track/0XyaOS7RzOSqvcdRmpa7em"
     },
     {
       "added_at": null,
@@ -1071,26 +1091,6 @@
       "duration_ms": 177000,
       "name": "Mack",
       "url": "https://open.spotify.com/track/1lv6YHO3cxqQ8o2tG9xTAK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LEMONADE FREESTYLE (Remix)",
-        "url": "https://open.spotify.com/album/2tnu3sjltkTWvLZ6R1meLT"
-      },
-      "artists": [
-        {
-          "name": "Darrell Medellin",
-          "url": "https://open.spotify.com/artist/1AaJ2wvoRTdxYhmGa4Akwl"
-        },
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 142654,
-      "name": "LEMONADE FREESTYLE - Remix",
-      "url": "https://open.spotify.com/track/0XyaOS7RzOSqvcdRmpa7em"
     }
   ],
   "unique_name": "This Is P-Lo",

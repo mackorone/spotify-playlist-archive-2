@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNw9eeM3mpo.md) - [plain]
 
 > 100% ska en español\. Vicente Cifuentes y Joselo Osses en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 488,673 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 488,691 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,16 +97,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNw9eeM3mpo.md) - [plain]
 | 87 | [Quiero Bailar Ska!!!](https://open.spotify.com/track/6nltOspNKN9Vt1MLONvoZT) | [Boxer](https://open.spotify.com/artist/2CboRkb4SB7Xhca2WhpLDD) | [Quiero Bailar Ska!!!](https://open.spotify.com/album/2mJm3RcjlckzPcupdolmmx) | 3:19 |
 | 88 | [Un Amor Violento](https://open.spotify.com/track/3NX364scO2GnsYW0ux81Pc) | [The Skatalites](https://open.spotify.com/artist/4og9jrin5xH5JiFPbeGUPb), [Alvaro Henriquez](https://open.spotify.com/artist/45H7NFSk6h7YyYP6BiB3EP) | [Un Amor Violento](https://open.spotify.com/album/6GNEPdeN4MKdGwVKnMwnC1) | 4:49 |
 | 89 | [El Amor No Es para Tibios \(Este Año Es el Bueno\)](https://open.spotify.com/track/7xUJ7xDiITKkziExo8TolF) | [Raztlan](https://open.spotify.com/artist/4bm76UqljC1NEUS1yahaxE), [Melodycans](https://open.spotify.com/artist/1kjHfeJNTbCFiDwz0xJbNF) | [El Amor No Es para Tibios \(Este Año Es el Bueno\)](https://open.spotify.com/album/1e3dZ3V9acJz1nJRCjsZXO) | 3:33 |
-| 90 | [PASO AL AIRE](https://open.spotify.com/track/0EcQoH6cU0Ph8f9tFZruac) | [Timo Pacheco](https://open.spotify.com/artist/1MKcc3IUoKOJFhoJ59wKWl) | [PASO AL AIRE](https://open.spotify.com/album/00FkxF6xOtTDNB9AGniV0z) | 3:30 |
-| 91 | [Siente El Movimiento](https://open.spotify.com/track/1fzfB7aBWRIYBHVRD19Lp3) | [La Santísima Voladora](https://open.spotify.com/artist/4gRK50jqC4k8yGS2aEG2F0) | [Siente El Movimiento](https://open.spotify.com/album/10UTgoc7mdWI0YRpNq5MTC) | 3:06 |
-| 92 | [Criminales Sudamericanos](https://open.spotify.com/track/1DzEPtqVgNL85O0mwtOAk4) | [Los Intocables](https://open.spotify.com/artist/1DVzzjpINLQBDKIF4FRPrD) | [Antihéroes](https://open.spotify.com/album/6VLbykpS9CuA5RE03ab8yd) | 3:19 |
-| 93 | [La Ranchera](https://open.spotify.com/track/1A8MVDv6OMaKvTo1FvXNzt) | [Estopa](https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai), [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [La Ranchera](https://open.spotify.com/album/5kGQqjz7CaLrMwjXAbCQ9V) | 3:07 |
+| 90 | [La Ranchera](https://open.spotify.com/track/1A8MVDv6OMaKvTo1FvXNzt) | [Estopa](https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai), [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [La Ranchera](https://open.spotify.com/album/5kGQqjz7CaLrMwjXAbCQ9V) | 3:07 |
+| 91 | [Criminales Sudamericanos](https://open.spotify.com/track/1DzEPtqVgNL85O0mwtOAk4) | [Los Intocables](https://open.spotify.com/artist/1DVzzjpINLQBDKIF4FRPrD) | [Antihéroes](https://open.spotify.com/album/6VLbykpS9CuA5RE03ab8yd) | 3:19 |
+| 92 | [Siente El Movimiento](https://open.spotify.com/track/1fzfB7aBWRIYBHVRD19Lp3) | [La Santísima Voladora](https://open.spotify.com/artist/4gRK50jqC4k8yGS2aEG2F0) | [Siente El Movimiento](https://open.spotify.com/album/10UTgoc7mdWI0YRpNq5MTC) | 3:06 |
+| 93 | [PASO AL AIRE](https://open.spotify.com/track/0EcQoH6cU0Ph8f9tFZruac) | [Timo Pacheco](https://open.spotify.com/artist/1MKcc3IUoKOJFhoJ59wKWl) | [PASO AL AIRE](https://open.spotify.com/album/00FkxF6xOtTDNB9AGniV0z) | 3:30 |
 | 94 | [Don\`t Worry Be Happy](https://open.spotify.com/track/6jo4CR3Efx6g2peyiXmzAU) | [The Locos](https://open.spotify.com/artist/1Z4sHcpzg0xnN8X3WYzvgx) | [Don't Worry Be Happy](https://open.spotify.com/album/5FexSOMJcqzhSt3NFXqbLY) | 3:45 |
 | 95 | [El Ático](https://open.spotify.com/track/01L1D88jqcMuAOvLRyYVbj) | [Ska\-P](https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl) | [El Ático](https://open.spotify.com/album/6u178zpBY3ZU10qIjYjzbm) | 4:02 |
 | 96 | [Soy](https://open.spotify.com/track/1Uf7Ccb8iZRmrG8GyoaO89) | [Noara Trip](https://open.spotify.com/artist/32HhLpJoXdkHXj326hUyph) | [Soy](https://open.spotify.com/album/1lcAhCLAEM0CJyxlSANSzU) | 2:16 |
 | 97 | [La Locura](https://open.spotify.com/track/5uIMadseIX9NkZN6lX6UrM) | [La Marmita](https://open.spotify.com/artist/5TT38W8qp72XwEz7ngbC06), [Parabellum](https://open.spotify.com/artist/0JbJ9sG3cB719QmmkIRTPQ), [Salida Nula](https://open.spotify.com/artist/6PhjQPENxSE6grsBqEq1Ph), [RUMBO PARAISO](https://open.spotify.com/artist/3GYSokGF7qreR0VULuHC8U), [Sinaia](https://open.spotify.com/artist/0B1wJktoH76W0tLHB75BTG) | [La Locura](https://open.spotify.com/album/0ucmcAv5JbhfwWf0dnTW7e) | 4:09 |
 | 98 | [La Manifestacion](https://open.spotify.com/track/1eQ9gQAcNDVSNqVHREotR9) | [Skampida](https://open.spotify.com/artist/2gFTHPd5iboV0IvQgsATno) | [Inflammable](https://open.spotify.com/album/4jaLhhO7r5c920fcAaW0Al) | 2:51 |
 | 99 | [Que Se Joda el Amor](https://open.spotify.com/track/1V8NAzFN4MsVo1mOcHOOYO) | [Los De Abajo](https://open.spotify.com/artist/45fwElEp0loQ0FdpvpOgsW) | [Que Se Joda el Amor](https://open.spotify.com/album/0zOcy4urH5uwcHuvpGhDSt) | 2:31 |
-| 100 | [Eu Nasci Há Dez Mil Anos Atrás](https://open.spotify.com/track/1wzoyCLQEleUN366W2LinG) | [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb), [Raul Seixas](https://open.spotify.com/artist/7jrRQZg4FZq6dwpi3baKcu) | [Raul 80](https://open.spotify.com/album/06IdI1z4rnehKaSUsXJSlP) | 4:00 |
+| 100 | [Todo Crazy](https://open.spotify.com/track/00xO4aLAM1baaX7HX3y1Dw) | [Gallo Rojo](https://open.spotify.com/artist/5snI6175hjbf6Du8Z2E5Mk), [Triciclo Circus Band](https://open.spotify.com/artist/6Kkbu7QNMwiSeQxTJ8hFZt) | [Todo Crazy](https://open.spotify.com/album/1xwLD4K1UR04tqUKcAYy9a) | 2:55 |
 
 Snapshot ID: `AAAAAD4npx2rvcf7sUayntozqTBPBRpE`

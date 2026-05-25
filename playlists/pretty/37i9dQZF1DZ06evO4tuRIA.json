@@ -1,12 +1,12 @@
 {
   "description": "This is LEGADO 7. The essential tracks, all in one playlist.",
-  "num_followers": 104275,
+  "num_followers": 104326,
   "original_name": "This Is LEGADO 7",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ag+cgAAAAABIJiIkVpsNm8lv7/8YrOle",
+  "snapshot_id": "ahDuAAAAAADTjhDZAd0SpdZ1yzYQECRA",
   "tracks": [
     {
       "added_at": null,
@@ -511,26 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Charal",
-        "url": "https://open.spotify.com/album/6oAFiQX6QKlUDv4A0NHKHQ"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        },
-        {
-          "name": "Herencia De Grandes",
-          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
-        }
-      ],
-      "duration_ms": 202026,
-      "name": "El Charal",
-      "url": "https://open.spotify.com/track/0LbActOj7FMkOCwvzhvNIt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "F\u00e1cil no Fue",
         "url": "https://open.spotify.com/album/7iDmmYU7GgNkR7AmVlSIZ7"
       },
@@ -547,6 +527,26 @@
       "duration_ms": 194929,
       "name": "Chevrolet 4X4",
       "url": "https://open.spotify.com/track/6kZs6GbMlGVkMpf6jWPGnq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Charal",
+        "url": "https://open.spotify.com/album/6oAFiQX6QKlUDv4A0NHKHQ"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        },
+        {
+          "name": "Herencia De Grandes",
+          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
+        }
+      ],
+      "duration_ms": 202026,
+      "name": "El Charal",
+      "url": "https://open.spotify.com/track/0LbActOj7FMkOCwvzhvNIt"
     },
     {
       "added_at": null,

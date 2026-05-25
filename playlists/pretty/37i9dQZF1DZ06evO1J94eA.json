@@ -1,12 +1,12 @@
 {
   "description": "This is Herbie Hancock. The essential tracks, all in one playlist.",
-  "num_followers": 42437,
+  "num_followers": 42447,
   "original_name": "This Is Herbie Hancock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ag+cgAAAAADt3Oedo/kHwmkBI+QsHh11",
+  "snapshot_id": "ahDuAAAAAADpz66f5OQhhFiZEZ7RxmNN",
   "tracks": [
     {
       "added_at": null,
@@ -63,22 +63,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Takin' Off (Expanded Edition)",
-        "url": "https://open.spotify.com/album/61bXefFZqGbVkmb7qzIIOl"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 389773,
-      "name": "Alone And I - Remastered 2007",
-      "url": "https://open.spotify.com/track/4IXZjNVYILadTUH7AaF32o"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Maiden Voyage (Remastered 1999/Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/7huPJTTsWVt854oZkr88mf"
       },
@@ -91,6 +75,22 @@
       "duration_ms": 477093,
       "name": "Maiden Voyage - Remastered 1999/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/0T1EaGm6b9eM7xBf4F1hlc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Takin' Off (Expanded Edition)",
+        "url": "https://open.spotify.com/album/61bXefFZqGbVkmb7qzIIOl"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 389773,
+      "name": "Alone And I - Remastered 2007",
+      "url": "https://open.spotify.com/track/4IXZjNVYILadTUH7AaF32o"
     },
     {
       "added_at": null,
@@ -131,22 +131,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Takin' Off (Expanded Edition)",
-        "url": "https://open.spotify.com/album/61bXefFZqGbVkmb7qzIIOl"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 417693,
-      "name": "Driftin' - Remastered 2007",
-      "url": "https://open.spotify.com/track/4Vyq3McGW0wr0sGLHYXys7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fat Albert Rotunda",
         "url": "https://open.spotify.com/album/0EfpGDmzg4uuqLW7ucWCyE"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 229026,
       "name": "Fat Mama",
       "url": "https://open.spotify.com/track/2UiZAyT2L529zh4PuDvH4J"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Takin' Off (Expanded Edition)",
+        "url": "https://open.spotify.com/album/61bXefFZqGbVkmb7qzIIOl"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 417693,
+      "name": "Driftin' - Remastered 2007",
+      "url": "https://open.spotify.com/track/4Vyq3McGW0wr0sGLHYXys7"
     },
     {
       "added_at": null,
@@ -415,22 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Speak Like A Child (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5KnNC5kCRiEGk7dZMjr07r"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 470853,
-      "name": "Speak Like A Child",
-      "url": "https://open.spotify.com/track/6GSBBmqOX009TUtParZf2a"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Imagine Project",
         "url": "https://open.spotify.com/album/418IYElTJziJTcSaxJy2PA"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 448866,
       "name": "Don't give up",
       "url": "https://open.spotify.com/track/6tNodrmrsA206cZ0MTJNFN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Speak Like A Child (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5KnNC5kCRiEGk7dZMjr07r"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 470853,
+      "name": "Speak Like A Child",
+      "url": "https://open.spotify.com/track/6GSBBmqOX009TUtParZf2a"
     },
     {
       "added_at": null,
@@ -619,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mr. Hands",
-        "url": "https://open.spotify.com/album/0ZzOJ3XuyVDBIWxrA17YE5"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 385048,
-      "name": "Spiraling Prism",
-      "url": "https://open.spotify.com/track/1FeJFOwVnDVgXA5VCORBtY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Empyrean Isles (Expanded Edition)",
         "url": "https://open.spotify.com/album/5HCi1WVOT9SGks2deeceFu"
       },
@@ -667,6 +651,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mr. Hands",
+        "url": "https://open.spotify.com/album/0ZzOJ3XuyVDBIWxrA17YE5"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 385048,
+      "name": "Spiraling Prism",
+      "url": "https://open.spotify.com/track/1FeJFOwVnDVgXA5VCORBtY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Possibilities",
         "url": "https://open.spotify.com/album/7MEY24jBSYdNHh5XezNWUH"
       },
@@ -687,22 +687,6 @@
       "duration_ms": 293800,
       "name": "Don't Explain (feat. Damien Rice & Lisa Hannigan)",
       "url": "https://open.spotify.com/track/27lQw3vZM8nWPweH7nxnox"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fat Albert Rotunda",
-        "url": "https://open.spotify.com/album/0EfpGDmzg4uuqLW7ucWCyE"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 389200,
-      "name": "Fat Albert Rotunda",
-      "url": "https://open.spotify.com/track/4K4S4huHJhTmbm0G8eF7rP"
     },
     {
       "added_at": null,
@@ -739,6 +723,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fat Albert Rotunda",
+        "url": "https://open.spotify.com/album/0EfpGDmzg4uuqLW7ucWCyE"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 389200,
+      "name": "Fat Albert Rotunda",
+      "url": "https://open.spotify.com/track/4K4S4huHJhTmbm0G8eF7rP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mr. Hands",
         "url": "https://open.spotify.com/album/0ZzOJ3XuyVDBIWxrA17YE5"
       },
@@ -751,6 +751,22 @@
       "duration_ms": 456104,
       "name": "Just Around the Corner",
       "url": "https://open.spotify.com/track/157EYJlm1CLRdjmEw3dCqG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Thrust",
+        "url": "https://open.spotify.com/album/00Uf5PRAinCJ0oiCX1Cv2k"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 581715,
+      "name": "Actual Proof",
+      "url": "https://open.spotify.com/track/1Aix42Q7mxGLMDglHhIOg3"
     },
     {
       "added_at": null,
@@ -791,22 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Thrust",
-        "url": "https://open.spotify.com/album/00Uf5PRAinCJ0oiCX1Cv2k"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 581715,
-      "name": "Actual Proof",
-      "url": "https://open.spotify.com/track/1Aix42Q7mxGLMDglHhIOg3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mr. Hands",
         "url": "https://open.spotify.com/album/0ZzOJ3XuyVDBIWxrA17YE5"
       },
@@ -823,6 +823,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Thrust",
+        "url": "https://open.spotify.com/album/00Uf5PRAinCJ0oiCX1Cv2k"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 677893,
+      "name": "Butterfly",
+      "url": "https://open.spotify.com/track/2YQBDxMbQbOsdXixdL4ZyE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Monster",
         "url": "https://open.spotify.com/album/42qcX8LprsyIPdjzlQyZ8e"
       },
@@ -835,26 +851,6 @@
       "duration_ms": 424560,
       "name": "Stars in Your Eyes",
       "url": "https://open.spotify.com/track/3VWsDvM1GGEp9OYYlphhi3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gershwin's World",
-        "url": "https://open.spotify.com/album/6IySeurw1LfTolgz9EjUSG"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        },
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 349160,
-      "name": "St. Louis Blues",
-      "url": "https://open.spotify.com/track/1rzV9wr9myXgDWvTcfIiq4"
     }
   ],
   "unique_name": "This Is Herbie Hancock",

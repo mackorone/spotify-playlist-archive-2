@@ -1,12 +1,12 @@
 {
   "description": "This is Ravyn Lenae. The essential tracks, all in one playlist.",
-  "num_followers": 10646,
+  "num_followers": 10655,
   "original_name": "This Is Ravyn Lenae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ag+cgAAAAAAyeK/5lMS1M7XyWUOz5SzN",
+  "snapshot_id": "ahDuAAAAAACzM/PxrB5AYqu2I+tzqTrw",
   "tracks": [
     {
       "added_at": null,
@@ -311,22 +311,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fancy Some More?",
-        "url": "https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF"
+        "name": "Crush EP",
+        "url": "https://open.spotify.com/album/7jxrYnrAa06rekcs1cxp7i"
       },
       "artists": [
         {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
-        },
-        {
           "name": "Ravyn Lenae",
           "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        },
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
         }
       ],
-      "duration_ms": 132925,
-      "name": "Romeo + Ravyn Lenae",
-      "url": "https://open.spotify.com/track/5kXkNj56XlSPdHVj5RW5O9"
+      "duration_ms": 220100,
+      "name": "4 Leaf Clover (feat. Steve Lacy)",
+      "url": "https://open.spotify.com/track/1To829onYmL63wLNtU7Zm8"
     },
     {
       "added_at": null,
@@ -363,22 +363,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Crush EP",
-        "url": "https://open.spotify.com/album/7jxrYnrAa06rekcs1cxp7i"
+        "name": "Fancy Some More?",
+        "url": "https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF"
       },
       "artists": [
         {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
         },
         {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
         }
       ],
-      "duration_ms": 220100,
-      "name": "4 Leaf Clover (feat. Steve Lacy)",
-      "url": "https://open.spotify.com/track/1To829onYmL63wLNtU7Zm8"
+      "duration_ms": 132925,
+      "name": "Romeo + Ravyn Lenae",
+      "url": "https://open.spotify.com/track/5kXkNj56XlSPdHVj5RW5O9"
     },
     {
       "added_at": null,
@@ -847,8 +847,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Soulection White Label - Monte Booker",
-        "url": "https://open.spotify.com/album/6bzDf8hYZbCuwjLoEPRvtE"
+        "name": "noise (meaning)",
+        "url": "https://open.spotify.com/album/1Nf0sJqlnFFlUOYDMJR8LJ"
       },
       "artists": [
         {
@@ -860,9 +860,9 @@
           "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
         }
       ],
-      "duration_ms": 186647,
-      "name": "Baby",
-      "url": "https://open.spotify.com/track/1AQtWYUKvPw5wYThfi5Uyo"
+      "duration_ms": 127297,
+      "name": "awake",
+      "url": "https://open.spotify.com/track/54khAg8INVTBMSWOUcETdB"
     },
     {
       "added_at": null,
@@ -883,8 +883,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "noise (meaning)",
-        "url": "https://open.spotify.com/album/1Nf0sJqlnFFlUOYDMJR8LJ"
+        "name": "Soulection White Label - Monte Booker",
+        "url": "https://open.spotify.com/album/6bzDf8hYZbCuwjLoEPRvtE"
       },
       "artists": [
         {
@@ -896,9 +896,9 @@
           "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
         }
       ],
-      "duration_ms": 127297,
-      "name": "awake",
-      "url": "https://open.spotify.com/track/54khAg8INVTBMSWOUcETdB"
+      "duration_ms": 186647,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/1AQtWYUKvPw5wYThfi5Uyo"
     },
     {
       "added_at": null,

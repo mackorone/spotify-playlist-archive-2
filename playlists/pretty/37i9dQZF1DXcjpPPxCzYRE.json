@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica tranquila para evadirse.",
-  "num_followers": 441812,
+  "num_followers": 441859,
   "original_name": "Relax en casa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALI8roYAoqX9D0uXL4YeQzBWdNnx",
+  "snapshot_id": "AAAAAEITkk8Q+//5uszcl61tqOBExmgE",
   "tracks": [
     {
       "added_at": "2026-05-14 22:01:47",
@@ -675,22 +675,6 @@
     {
       "added_at": "2026-05-14 22:01:47",
       "album": {
-        "name": "Blow My Mind",
-        "url": "https://open.spotify.com/album/642ce0QAKRa0LYwIVwPK6w"
-      },
-      "artists": [
-        {
-          "name": "Robyn",
-          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
-        }
-      ],
-      "duration_ms": 177500,
-      "name": "Blow My Mind",
-      "url": "https://open.spotify.com/track/0VBACXaInM2kzjIpklxIG2"
-    },
-    {
-      "added_at": "2026-05-14 22:01:47",
-      "album": {
         "name": "Unchained Melody",
         "url": "https://open.spotify.com/album/7BKTOFQtwCo78sCpM7woOG"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 156000,
       "name": "Unchained Melody",
       "url": "https://open.spotify.com/track/2eH4LAMhD20bl8tQseKckb"
+    },
+    {
+      "added_at": "2026-05-14 22:01:47",
+      "album": {
+        "name": "Blow My Mind",
+        "url": "https://open.spotify.com/album/642ce0QAKRa0LYwIVwPK6w"
+      },
+      "artists": [
+        {
+          "name": "Robyn",
+          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
+        }
+      ],
+      "duration_ms": 177500,
+      "name": "Blow My Mind",
+      "url": "https://open.spotify.com/track/0VBACXaInM2kzjIpklxIG2"
     },
     {
       "added_at": "2026-05-14 22:01:47",
@@ -727,22 +727,6 @@
     {
       "added_at": "2026-05-14 22:01:47",
       "album": {
-        "name": "Memory Be a Blade",
-        "url": "https://open.spotify.com/album/459tZ5BMnPXsDQpLsfTI00"
-      },
-      "artists": [
-        {
-          "name": "waterbaby",
-          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
-        }
-      ],
-      "duration_ms": 221066,
-      "name": "Memory Be a Blade",
-      "url": "https://open.spotify.com/track/6kM3Uqz3MRTVGTzu93EZIA"
-    },
-    {
-      "added_at": "2026-05-14 22:01:47",
-      "album": {
         "name": "Les jolies choses",
         "url": "https://open.spotify.com/album/57xYVd9eZHdrETN1HlLkPI"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 222373,
       "name": "Les jolies choses",
       "url": "https://open.spotify.com/track/03WMhty0KQ2ppU30LiyKy4"
+    },
+    {
+      "added_at": "2026-05-14 22:01:47",
+      "album": {
+        "name": "Memory Be a Blade",
+        "url": "https://open.spotify.com/album/459tZ5BMnPXsDQpLsfTI00"
+      },
+      "artists": [
+        {
+          "name": "waterbaby",
+          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
+        }
+      ],
+      "duration_ms": 221066,
+      "name": "Memory Be a Blade",
+      "url": "https://open.spotify.com/track/6kM3Uqz3MRTVGTzu93EZIA"
     },
     {
       "added_at": "2026-05-14 22:01:47",
@@ -807,22 +807,6 @@
     {
       "added_at": "2026-05-14 22:01:47",
       "album": {
-        "name": "Even In The Quiet",
-        "url": "https://open.spotify.com/album/2gvO56GUca2zlnDP6sb7XM"
-      },
-      "artists": [
-        {
-          "name": "Serebii",
-          "url": "https://open.spotify.com/artist/7JKAIlZcxCK8hSIHiSp4ms"
-        }
-      ],
-      "duration_ms": 212861,
-      "name": "Even In The Quiet",
-      "url": "https://open.spotify.com/track/5ZIYdecFkCGyT6Tbyk7rAq"
-    },
-    {
-      "added_at": "2026-05-14 22:01:47",
-      "album": {
         "name": "girlhood",
         "url": "https://open.spotify.com/album/3bfl3J5n57QdWtbaelu5RH"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 231910,
       "name": "girlhood",
       "url": "https://open.spotify.com/track/38PXyRblkgEYvJRAwX6XGD"
+    },
+    {
+      "added_at": "2026-05-14 22:01:47",
+      "album": {
+        "name": "Even In The Quiet",
+        "url": "https://open.spotify.com/album/2gvO56GUca2zlnDP6sb7XM"
+      },
+      "artists": [
+        {
+          "name": "Serebii",
+          "url": "https://open.spotify.com/artist/7JKAIlZcxCK8hSIHiSp4ms"
+        }
+      ],
+      "duration_ms": 212861,
+      "name": "Even In The Quiet",
+      "url": "https://open.spotify.com/track/5ZIYdecFkCGyT6Tbyk7rAq"
     },
     {
       "added_at": "2026-05-14 22:01:47",
@@ -947,22 +947,6 @@
     {
       "added_at": "2026-05-14 22:01:47",
       "album": {
-        "name": "No One's Gonna Love You (Stockholm Version)",
-        "url": "https://open.spotify.com/album/5Dw1GPGxKN6LfNoiFj3LJY"
-      },
-      "artists": [
-        {
-          "name": "Band of Horses",
-          "url": "https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF"
-        }
-      ],
-      "duration_ms": 228646,
-      "name": "No One's Gonna Love You (Stockholm Version)",
-      "url": "https://open.spotify.com/track/371akJ9fYgSkrAFMyWoTdL"
-    },
-    {
-      "added_at": "2026-05-14 22:01:47",
-      "album": {
         "name": "Ave de Paso",
         "url": "https://open.spotify.com/album/5AwzxGNJnTMx94XOB0wUKG"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 230588,
       "name": "Ave de Paso",
       "url": "https://open.spotify.com/track/2RmeHwa9PczrBGmYJFdRgA"
+    },
+    {
+      "added_at": "2026-05-14 22:01:47",
+      "album": {
+        "name": "No One's Gonna Love You (Stockholm Version)",
+        "url": "https://open.spotify.com/album/5Dw1GPGxKN6LfNoiFj3LJY"
+      },
+      "artists": [
+        {
+          "name": "Band of Horses",
+          "url": "https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF"
+        }
+      ],
+      "duration_ms": 228646,
+      "name": "No One's Gonna Love You (Stockholm Version)",
+      "url": "https://open.spotify.com/track/371akJ9fYgSkrAFMyWoTdL"
     },
     {
       "added_at": "2026-05-14 22:01:47",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2026-05-14 22:01:47",
       "album": {
-        "name": "Endlings",
-        "url": "https://open.spotify.com/album/5v6P6f9bt9tBOUXzuMoVEC"
-      },
-      "artists": [
-        {
-          "name": "The Well Pennies",
-          "url": "https://open.spotify.com/artist/1bkuqagwavNQJVWEmYDoQi"
-        }
-      ],
-      "duration_ms": 228173,
-      "name": "The Echo & The Shadow",
-      "url": "https://open.spotify.com/track/6FytDcO847O1h7JlWbY838"
-    },
-    {
-      "added_at": "2026-05-14 22:01:47",
-      "album": {
         "name": "Dreamers",
         "url": "https://open.spotify.com/album/56iF3zN01TJO6yhr1HCVfA"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 252293,
       "name": "The Great Unknown",
       "url": "https://open.spotify.com/track/7CeJuYHjC7wmtwMWBDKcvV"
+    },
+    {
+      "added_at": "2026-05-14 22:01:47",
+      "album": {
+        "name": "Endlings",
+        "url": "https://open.spotify.com/album/5v6P6f9bt9tBOUXzuMoVEC"
+      },
+      "artists": [
+        {
+          "name": "The Well Pennies",
+          "url": "https://open.spotify.com/artist/1bkuqagwavNQJVWEmYDoQi"
+        }
+      ],
+      "duration_ms": 228173,
+      "name": "The Echo & The Shadow",
+      "url": "https://open.spotify.com/track/6FytDcO847O1h7JlWbY838"
     },
     {
       "added_at": "2026-05-14 22:01:47",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2026-05-14 22:01:47",
       "album": {
-        "name": "Mentirosa",
-        "url": "https://open.spotify.com/album/0ZD649L9iJC2K7ta70vxNc"
-      },
-      "artists": [
-        {
-          "name": "Russian Red",
-          "url": "https://open.spotify.com/artist/47wB3vlOd130dM3k5fADQw"
-        }
-      ],
-      "duration_ms": 140800,
-      "name": "Mentirosa",
-      "url": "https://open.spotify.com/track/1SP4AUMwLa5TSH4C754DOH"
-    },
-    {
-      "added_at": "2026-05-14 22:01:47",
-      "album": {
         "name": "El Vac\u00edo",
         "url": "https://open.spotify.com/album/6skDBDXe2ZXw7m5TLbOyux"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 154187,
       "name": "El Vac\u00edo",
       "url": "https://open.spotify.com/track/68PCxfDSBboppXCEFPgGrn"
+    },
+    {
+      "added_at": "2026-05-14 22:01:47",
+      "album": {
+        "name": "Mentirosa",
+        "url": "https://open.spotify.com/album/0ZD649L9iJC2K7ta70vxNc"
+      },
+      "artists": [
+        {
+          "name": "Russian Red",
+          "url": "https://open.spotify.com/artist/47wB3vlOd130dM3k5fADQw"
+        }
+      ],
+      "duration_ms": 140800,
+      "name": "Mentirosa",
+      "url": "https://open.spotify.com/track/1SP4AUMwLa5TSH4C754DOH"
     },
     {
       "added_at": "2026-05-14 22:01:47",
@@ -1643,6 +1643,22 @@
     {
       "added_at": "2026-05-14 22:01:47",
       "album": {
+        "name": "Misma Liga",
+        "url": "https://open.spotify.com/album/44Wotv6bcdehfOEZjWXvQs"
+      },
+      "artists": [
+        {
+          "name": "Hnos Munoz",
+          "url": "https://open.spotify.com/artist/4ePbu0sj0JjaPgGkoRDDdU"
+        }
+      ],
+      "duration_ms": 167750,
+      "name": "Misma Liga",
+      "url": "https://open.spotify.com/track/6pnKysbThfUJQgJQot20iv"
+    },
+    {
+      "added_at": "2026-05-14 22:01:47",
+      "album": {
         "name": "El final",
         "url": "https://open.spotify.com/album/5fXUKHOIBvJwR4SvcCyxpD"
       },
@@ -1659,18 +1675,18 @@
     {
       "added_at": "2026-05-14 22:01:47",
       "album": {
-        "name": "Misma Liga",
-        "url": "https://open.spotify.com/album/44Wotv6bcdehfOEZjWXvQs"
+        "name": "Pladur",
+        "url": "https://open.spotify.com/album/26IiZG99hRsi2Ut7jexoNm"
       },
       "artists": [
         {
-          "name": "Hnos Munoz",
-          "url": "https://open.spotify.com/artist/4ePbu0sj0JjaPgGkoRDDdU"
+          "name": "Paco Moreno",
+          "url": "https://open.spotify.com/artist/1yLrA8a9c6qikBV0THGnux"
         }
       ],
-      "duration_ms": 167750,
-      "name": "Misma Liga",
-      "url": "https://open.spotify.com/track/6pnKysbThfUJQgJQot20iv"
+      "duration_ms": 162750,
+      "name": "Pladur",
+      "url": "https://open.spotify.com/track/4NZwZYP1ZLdyenCTO7UFsI"
     },
     {
       "added_at": "2026-05-14 22:01:47",
@@ -1691,22 +1707,6 @@
       "duration_ms": 186737,
       "name": "1 Dolor",
       "url": "https://open.spotify.com/track/6lNBceAGdl6t9slEQQc9UC"
-    },
-    {
-      "added_at": "2026-05-14 22:01:47",
-      "album": {
-        "name": "Pladur",
-        "url": "https://open.spotify.com/album/26IiZG99hRsi2Ut7jexoNm"
-      },
-      "artists": [
-        {
-          "name": "Paco Moreno",
-          "url": "https://open.spotify.com/artist/1yLrA8a9c6qikBV0THGnux"
-        }
-      ],
-      "duration_ms": 162750,
-      "name": "Pladur",
-      "url": "https://open.spotify.com/track/4NZwZYP1ZLdyenCTO7UFsI"
     },
     {
       "added_at": "2026-05-14 22:01:47",
@@ -1895,6 +1895,22 @@
     {
       "added_at": "2026-05-14 22:01:47",
       "album": {
+        "name": "TRES",
+        "url": "https://open.spotify.com/album/1gBxtmX08ZwNWBXH8a3qX6"
+      },
+      "artists": [
+        {
+          "name": "Calequi y Las Panteras",
+          "url": "https://open.spotify.com/artist/1ktDK2MSGJMNB2hBgmki5u"
+        }
+      ],
+      "duration_ms": 212958,
+      "name": "La herida que prefiero",
+      "url": "https://open.spotify.com/track/4OEpTmPCpKZpYneJoyhV2k"
+    },
+    {
+      "added_at": "2026-05-14 22:01:47",
+      "album": {
         "name": "DeSAFINADO",
         "url": "https://open.spotify.com/album/2FdMgZJD8hglucdGdPPT6a"
       },
@@ -1927,22 +1943,6 @@
       "duration_ms": 201441,
       "name": "No quiero olvidar",
       "url": "https://open.spotify.com/track/3TQsgWjUstxYOHnX45kG6j"
-    },
-    {
-      "added_at": "2026-05-14 22:01:47",
-      "album": {
-        "name": "TRES",
-        "url": "https://open.spotify.com/album/1gBxtmX08ZwNWBXH8a3qX6"
-      },
-      "artists": [
-        {
-          "name": "Calequi y Las Panteras",
-          "url": "https://open.spotify.com/artist/1ktDK2MSGJMNB2hBgmki5u"
-        }
-      ],
-      "duration_ms": 212958,
-      "name": "La herida que prefiero",
-      "url": "https://open.spotify.com/track/4OEpTmPCpKZpYneJoyhV2k"
     },
     {
       "added_at": "2026-05-14 22:01:47",
@@ -2043,6 +2043,22 @@
     {
       "added_at": "2026-05-14 22:01:47",
       "album": {
+        "name": "Sendero",
+        "url": "https://open.spotify.com/album/6t2TdfdAexix1Q4RQtl5VG"
+      },
+      "artists": [
+        {
+          "name": "Twanguero",
+          "url": "https://open.spotify.com/artist/1qupsn74dUofcXCZCBEwMS"
+        }
+      ],
+      "duration_ms": 292393,
+      "name": "Sendero",
+      "url": "https://open.spotify.com/track/1VMZhU40aZ47lvM0IE67M6"
+    },
+    {
+      "added_at": "2026-05-14 22:01:47",
+      "album": {
         "name": "En el Puerto",
         "url": "https://open.spotify.com/album/0mbFMcXCLyJNieSTaT2sM4"
       },
@@ -2103,22 +2119,6 @@
       "duration_ms": 180808,
       "name": "Illusion",
       "url": "https://open.spotify.com/track/08IHvtg3uEKTxdF6MRi20d"
-    },
-    {
-      "added_at": "2026-05-14 22:01:47",
-      "album": {
-        "name": "Sendero",
-        "url": "https://open.spotify.com/album/6t2TdfdAexix1Q4RQtl5VG"
-      },
-      "artists": [
-        {
-          "name": "Twanguero",
-          "url": "https://open.spotify.com/artist/1qupsn74dUofcXCZCBEwMS"
-        }
-      ],
-      "duration_ms": 292393,
-      "name": "Sendero",
-      "url": "https://open.spotify.com/track/1VMZhU40aZ47lvM0IE67M6"
     },
     {
       "added_at": "2026-05-14 22:01:47",

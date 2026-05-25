@@ -110,7 +110,7 @@
       ],
       "date_added": "2026-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-25",
       "duration_ms": 328610,
       "name": "A so-Called Normal Life",
       "url": "https://open.spotify.com/track/6TqIHczrifhw7EfC3r8UjD"
@@ -150,7 +150,7 @@
       ],
       "date_added": "2026-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-23",
+      "date_removed": null,
       "duration_ms": 298602,
       "name": "A Story About A Girl (Live in Saskatoon, SK 2025)",
       "url": "https://open.spotify.com/track/6AgGKDLLmFzwd20vrCRjfi"
@@ -276,7 +276,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-30",
+      "date_removed": null,
       "duration_ms": 236000,
       "name": "Alles Historie",
       "url": "https://open.spotify.com/track/6jL04UjI8xLC9FOzL6iQVA"
@@ -706,7 +706,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-24",
+      "date_removed": null,
       "duration_ms": 240000,
       "name": "Beyond the Mirrors",
       "url": "https://open.spotify.com/track/5kl6kB7l36sDkOfestcW0e"
@@ -2256,7 +2256,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-23",
+      "date_removed": null,
       "duration_ms": 249000,
       "name": "Dopey Smile",
       "url": "https://open.spotify.com/track/2LfwnrLRn0SfPCgGQ1pvkp"
@@ -3593,6 +3593,24 @@
     },
     {
       "album": {
+        "name": "Frost Upon The Longships",
+        "url": "https://open.spotify.com/album/2XoupfZQMGFB9si6mIAKRD"
+      },
+      "artists": [
+        {
+          "name": "Clive Nolan",
+          "url": "https://open.spotify.com/artist/4th15MtvMpTr1qza1bwwS3"
+        }
+      ],
+      "date_added": "2026-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241558,
+      "name": "Frost Upon The Longships",
+      "url": "https://open.spotify.com/track/77FAbjrKGLobbU26aL6BFZ"
+    },
+    {
+      "album": {
         "name": "Stilla, vacker, o\u00e4ndlig",
         "url": "https://open.spotify.com/album/1BH4GvK6lKNH764J58wz1K"
       },
@@ -3622,7 +3640,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-25",
       "duration_ms": 139000,
       "name": "Fucka Det Opp",
       "url": "https://open.spotify.com/track/5iEGcUqLqIcAURV1rnqWIe"
@@ -3676,7 +3694,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-25",
       "duration_ms": 138070,
       "name": "F\u00f6rnedringen",
       "url": "https://open.spotify.com/track/4x9QBTz7ub8ts2qB7BBtgx"
@@ -3828,7 +3846,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-24",
+      "date_removed": null,
       "duration_ms": 248451,
       "name": "Goddess",
       "url": "https://open.spotify.com/track/7unT6Ykkw38roexHf453ur"
@@ -4726,7 +4744,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-25",
       "duration_ms": 248165,
       "name": "Intention",
       "url": "https://open.spotify.com/track/3q1xGTBDoR35bV7kfHRi9e"
@@ -4892,7 +4910,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-24",
+      "date_removed": null,
       "duration_ms": 208065,
       "name": "Joy and Pain",
       "url": "https://open.spotify.com/track/5RmyY86zrPFIERkdmQDECs"
@@ -5340,7 +5358,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-24",
+      "date_removed": null,
       "duration_ms": 275670,
       "name": "Let the Rain Fall",
       "url": "https://open.spotify.com/track/6XLUesMlr0D29UU7OjGfHQ"
@@ -5688,7 +5706,7 @@
       ],
       "date_added": "2026-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-25",
       "duration_ms": 274066,
       "name": "Lord of the Underground",
       "url": "https://open.spotify.com/track/4dIb7ZZS8Nn65uIh4m7QhM"
@@ -5832,7 +5850,7 @@
       ],
       "date_added": "2026-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-25",
       "duration_ms": 289500,
       "name": "Lucky Ducker",
       "url": "https://open.spotify.com/track/7l5HGxhiXZP3vSHMeyX39H"
@@ -6338,7 +6356,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-25",
       "duration_ms": 221867,
       "name": "Mona Lisa Smile",
       "url": "https://open.spotify.com/track/3Z9zw1N9xvhZ9y3r9ch7bi"
@@ -7384,7 +7402,7 @@
       ],
       "date_added": "2025-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-24",
+      "date_removed": null,
       "duration_ms": 249272,
       "name": "Only What You Love",
       "url": "https://open.spotify.com/track/7joAUdC9IjE7kkpA14WV9Q"
@@ -7492,7 +7510,7 @@
       ],
       "date_added": "2026-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-25",
       "duration_ms": 239745,
       "name": "Paint it Black",
       "url": "https://open.spotify.com/track/1ItCQTLYxbRTw4BTgh8E8G"
@@ -7680,6 +7698,24 @@
       "duration_ms": 209986,
       "name": "Pav",
       "url": "https://open.spotify.com/track/1HHBk3iIoFmwSH7CE6DmfD"
+    },
+    {
+      "album": {
+        "name": "Penger",
+        "url": "https://open.spotify.com/album/5BdkgTMyQHCMzc3X7MdFnu"
+      },
+      "artists": [
+        {
+          "name": "Pinned Comment",
+          "url": "https://open.spotify.com/artist/7qGO6E5AG3eiCwdeop9VpV"
+        }
+      ],
+      "date_added": "2026-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130000,
+      "name": "Penger",
+      "url": "https://open.spotify.com/track/3nW6IQCKryhAYgTnsk0zVr"
     },
     {
       "album": {
@@ -8550,7 +8586,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-25",
       "duration_ms": 319590,
       "name": "Sera-(The Dance of War)",
       "url": "https://open.spotify.com/track/3IoGv5RPjVw1eGfFqwQUvk"
@@ -8716,7 +8752,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-25",
       "duration_ms": 341659,
       "name": "She's a Killer",
       "url": "https://open.spotify.com/track/3HRQ6CkJzKk2pdiTy5FUQS"
@@ -8882,6 +8918,24 @@
       "duration_ms": 298903,
       "name": "Snijeg",
       "url": "https://open.spotify.com/track/5hN7JhizAin1GqUfT8vWGH"
+    },
+    {
+      "album": {
+        "name": "Sn\u00f8r i Helvete",
+        "url": "https://open.spotify.com/album/7206ZPU72lQzRTkqgSlWbl"
+      },
+      "artists": [
+        {
+          "name": "Autoimmune",
+          "url": "https://open.spotify.com/artist/5SUSfFv6OjcSdt6lWX0YZc"
+        }
+      ],
+      "date_added": "2026-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251281,
+      "name": "Sn\u00f8r i Helvete",
+      "url": "https://open.spotify.com/track/38ehb2DHLwwVAPr0rD0IjR"
     },
     {
       "album": {
@@ -9220,7 +9274,7 @@
       ],
       "date_added": "2026-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-23",
+      "date_removed": null,
       "duration_ms": 365902,
       "name": "Station To Station - 50th Anniversary",
       "url": "https://open.spotify.com/track/1TRnxAoUZWXLUHH2jYeXq7"
@@ -9358,6 +9412,24 @@
       "duration_ms": 331440,
       "name": "Stranden",
       "url": "https://open.spotify.com/track/7v05GxuaQtCW32RuhPThPa"
+    },
+    {
+      "album": {
+        "name": "Stranger No More",
+        "url": "https://open.spotify.com/album/7xsUrRC46UUBUQoR7vlHs2"
+      },
+      "artists": [
+        {
+          "name": "Alexander King",
+          "url": "https://open.spotify.com/artist/1V2Izta7uyUGFHwPKyPM9i"
+        }
+      ],
+      "date_added": "2026-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262622,
+      "name": "Stranger No More",
+      "url": "https://open.spotify.com/track/05ge9yVtSfjcdlq5t4suer"
     },
     {
       "album": {
@@ -9870,7 +9942,7 @@
       ],
       "date_added": "2026-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-25",
       "duration_ms": 219873,
       "name": "The Dream Membrane",
       "url": "https://open.spotify.com/track/277FhswBeevKWr67iFVM9w"
@@ -10176,7 +10248,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-22",
+      "date_removed": null,
       "duration_ms": 136615,
       "name": "The magic juice",
       "url": "https://open.spotify.com/track/6Jx1x1y4H1wc0UxPAeJyei"
@@ -10314,7 +10386,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-25",
       "duration_ms": 319892,
       "name": "The Scavengers",
       "url": "https://open.spotify.com/track/60CFVzMTsZhBZixZcMyGbC"
@@ -10542,7 +10614,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-16",
+      "date_removed": null,
       "duration_ms": 174481,
       "name": "The Year Of The Snake",
       "url": "https://open.spotify.com/track/3H4GFRUJlKdpf09kvj2YUW"
@@ -10578,7 +10650,7 @@
       ],
       "date_added": "2026-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-25",
       "duration_ms": 177297,
       "name": "This Is Not Everything I Expected",
       "url": "https://open.spotify.com/track/0vVIh3MHwwSOTu4utJXlAq"
@@ -12290,7 +12362,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-25",
       "duration_ms": 208660,
       "name": "Zerrissen",
       "url": "https://open.spotify.com/track/6ZUbmwyM3p0YGQLZcq59Yw"
@@ -12540,7 +12612,7 @@
       ],
       "date_added": "2026-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-25",
       "duration_ms": 247011,
       "name": "\u0428\u043f\u0438\u043e\u043d",
       "url": "https://open.spotify.com/track/61vRefWDirGGrAk4YnTDFs"

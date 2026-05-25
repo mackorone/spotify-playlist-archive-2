@@ -4,7 +4,7 @@
 
 > This is Craig David\. The essential tracks, all in one playlist.
 
-63 songs - 3 hr 45 min
+64 songs - 3 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,12 +49,13 @@
 | [Obvious \- feat\. Muni Long](https://open.spotify.com/track/5hIYTHpbKZp5Rq1amDLL9i) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [22 \(Deluxe\)](https://open.spotify.com/album/4VUkXDCZR2aBe28zoIHHnJ) | 3:39 | 2025-08-02 |  |
 | [Officially Yours](https://open.spotify.com/track/4sofx1s0nDS4LG1Tx3uxpG) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Trust Me](https://open.spotify.com/album/0J9SVTShbzWaOhogFHXJ9K) | 3:55 | 2025-08-02 |  |
 | [Perfect Love](https://open.spotify.com/track/2bFeml4Q8bOqXuy6Lybz7L) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Commitment](https://open.spotify.com/album/16HdYzqJybsKkJSeEV0Woi) | 3:27 | 2025-08-13 | 2025-11-02 |
-| [Rain](https://open.spotify.com/track/7kY1WABmdU172DhChtsdAP) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Rain](https://open.spotify.com/album/6effz36583EebaQcS3ZOrM) | 3:34 | 2025-08-06 |  |
+| [Rain](https://open.spotify.com/track/7kY1WABmdU172DhChtsdAP) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Rain](https://open.spotify.com/album/6effz36583EebaQcS3ZOrM) | 3:34 | 2025-08-06 | 2026-05-25 |
 | [Re\-Rewind \(The Crowd Say Bo Selecta\) \(feat\. Craig David\) \- Radio Edit](https://open.spotify.com/track/4xXRTJXGxt7UBAVVOTV6ZN) | [Artful Dodger](https://open.spotify.com/artist/4L8MIM7AXmq6jb0tRix4JT), [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Re\-Rewind \(The Crowd Say Bo Selecta\) \(feat\. Craig David\)](https://open.spotify.com/album/4d76RCnCY0TcxGYbyS7vLV) | 4:00 | 2025-08-02 |  |
 | [Really Love \- feat\. Craig David & Digital Farm Animals](https://open.spotify.com/track/6SMrCFJ0zMxDwoqOHG8Sme) | [KSI](https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z), [Digital Farm Animals](https://open.spotify.com/artist/5fyDppLDl1juIu1BcUT5zh), [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [All Over The Place \(Platinum VIP Edition\)](https://open.spotify.com/album/4MGvFyMua1aBO0hDNafkp5) | 2:57 | 2025-08-02 |  |
 | [Rendezvous](https://open.spotify.com/track/6QaOU7xPK3UJKsoNroRCWn) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Born to Do It](https://open.spotify.com/album/5TedEgCbtmvDnXzUtXEFJY) | 4:37 | 2025-08-02 |  |
 | [Rewind](https://open.spotify.com/track/5hultE7GeExA3RkTvtsear) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Born to Do It](https://open.spotify.com/album/5TedEgCbtmvDnXzUtXEFJY) | 5:33 | 2025-08-02 |  |
 | [Rise & Fall \(feat\. Sting\)](https://open.spotify.com/track/23ehR4jpFQFMfDADgFdXR7) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [Slicker than Your Average](https://open.spotify.com/album/6USRXUZXe4keGs2yUj3Fis) | 4:47 | 2025-08-02 |  |
+| [Separate Ways](https://open.spotify.com/track/4LA0Pv5ftyW8rnDuVNWOF0) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [The Story Goes...](https://open.spotify.com/album/3tzENLaGyi3Jrb5AaoKrGG) | 4:00 | 2026-05-25 |  |
 | [SOS](https://open.spotify.com/track/5pbHdA34hiAuLEsJFp8sgl) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [SOS](https://open.spotify.com/album/7aaihvQBAqCeeaCsfjFqkq) | 3:30 | 2025-08-02 |  |
 | [Spanish](https://open.spotify.com/track/30QxFizyyxB7sPE8n7RWNJ) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Slicker than Your Average](https://open.spotify.com/album/6USRXUZXe4keGs2yUj3Fis) | 5:03 | 2025-08-02 |  |
 | [This Is the Girl \(with Kano\)](https://open.spotify.com/track/1vKTU8e7tC851a8tMzc8NY) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [Kano](https://open.spotify.com/artist/50nN8IFD4xA67fI4jYbLV4) | [Trust Me](https://open.spotify.com/album/0J9SVTShbzWaOhogFHXJ9K) | 4:10 | 2025-08-02 |  |

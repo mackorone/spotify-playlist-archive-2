@@ -1,6 +1,6 @@
 {
   "description": "The best of every corner of modern punk rock. Cover: XCOMM",
-  "num_followers": 472972,
+  "num_followers": 472983,
   "original_name": "Today's Punk",
   "owner": {
     "name": "Spotify",
@@ -699,38 +699,6 @@
     {
       "added_at": "2026-05-22 04:01:10",
       "album": {
-        "name": "Pynch",
-        "url": "https://open.spotify.com/album/0x4t7PC63dP513jBiZFIHU"
-      },
-      "artists": [
-        {
-          "name": "Drug Church",
-          "url": "https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Pynch",
-      "url": "https://open.spotify.com/track/4359J1fh99ckEMTzApV5pE"
-    },
-    {
-      "added_at": "2026-05-22 04:01:10",
-      "album": {
-        "name": "BOMBS AWAY",
-        "url": "https://open.spotify.com/album/0x7TGV64ILCVcXVyYHq0BP"
-      },
-      "artists": [
-        {
-          "name": "Winona Fighter",
-          "url": "https://open.spotify.com/artist/1u5SWpU4mZSziEz2hdPSWQ"
-        }
-      ],
-      "duration_ms": 185828,
-      "name": "BOMBS AWAY",
-      "url": "https://open.spotify.com/track/4YDpxvr0V6Qpfxj9FpvjRc"
-    },
-    {
-      "added_at": "2026-05-22 04:01:10",
-      "album": {
         "name": "Nobody's Coming To Save You",
         "url": "https://open.spotify.com/album/08GMRYh0ZUnEE9w7y9S0CF"
       },
@@ -763,22 +731,34 @@
     {
       "added_at": "2026-05-22 04:01:10",
       "album": {
-        "name": "Never Alone",
-        "url": "https://open.spotify.com/album/376ZC8whCIAiEIbT3pgPGw"
+        "name": "BOMBS AWAY",
+        "url": "https://open.spotify.com/album/0x7TGV64ILCVcXVyYHq0BP"
       },
       "artists": [
         {
-          "name": "Dead Pioneers",
-          "url": "https://open.spotify.com/artist/3t0cq15eUtB2wvb1wJARsv"
-        },
-        {
-          "name": "The Interrupters",
-          "url": "https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF"
+          "name": "Winona Fighter",
+          "url": "https://open.spotify.com/artist/1u5SWpU4mZSziEz2hdPSWQ"
         }
       ],
-      "duration_ms": 181162,
-      "name": "Never Alone",
-      "url": "https://open.spotify.com/track/7gN2poKbj3R3CJD9HCkv4i"
+      "duration_ms": 185828,
+      "name": "BOMBS AWAY",
+      "url": "https://open.spotify.com/track/4YDpxvr0V6Qpfxj9FpvjRc"
+    },
+    {
+      "added_at": "2026-05-22 04:01:10",
+      "album": {
+        "name": "Pynch",
+        "url": "https://open.spotify.com/album/0x4t7PC63dP513jBiZFIHU"
+      },
+      "artists": [
+        {
+          "name": "Drug Church",
+          "url": "https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Pynch",
+      "url": "https://open.spotify.com/track/4359J1fh99ckEMTzApV5pE"
     },
     {
       "added_at": "2026-05-22 04:01:10",
@@ -795,6 +775,26 @@
       "duration_ms": 191475,
       "name": "Common Sense",
       "url": "https://open.spotify.com/track/6I9nwHabyomUdktg1UdRB6"
+    },
+    {
+      "added_at": "2026-05-22 04:01:10",
+      "album": {
+        "name": "Never Alone",
+        "url": "https://open.spotify.com/album/376ZC8whCIAiEIbT3pgPGw"
+      },
+      "artists": [
+        {
+          "name": "Dead Pioneers",
+          "url": "https://open.spotify.com/artist/3t0cq15eUtB2wvb1wJARsv"
+        },
+        {
+          "name": "The Interrupters",
+          "url": "https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF"
+        }
+      ],
+      "duration_ms": 181162,
+      "name": "Never Alone",
+      "url": "https://open.spotify.com/track/7gN2poKbj3R3CJD9HCkv4i"
     },
     {
       "added_at": "2026-05-22 04:01:10",
@@ -847,22 +847,6 @@
     {
       "added_at": "2026-05-22 04:01:10",
       "album": {
-        "name": "I Don't Wanna Go!",
-        "url": "https://open.spotify.com/album/11vz5r57TsCFxG5QGy0585"
-      },
-      "artists": [
-        {
-          "name": "Lina-Mariah",
-          "url": "https://open.spotify.com/artist/3oCoTG5YGC6Z8cqH942oav"
-        }
-      ],
-      "duration_ms": 159315,
-      "name": "I Don't Wanna Go!",
-      "url": "https://open.spotify.com/track/27FgGNuuHsFs84Gzhhs1x0"
-    },
-    {
-      "added_at": "2026-05-22 04:01:10",
-      "album": {
         "name": "Fast Forward, Rewind",
         "url": "https://open.spotify.com/album/34wGqmggdRFxX9goi6Cx3q"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 224004,
       "name": "You Should See Me Now",
       "url": "https://open.spotify.com/track/2F9c0gRcMvPm8AinfcuJek"
+    },
+    {
+      "added_at": "2026-05-22 04:01:10",
+      "album": {
+        "name": "I Don't Wanna Go!",
+        "url": "https://open.spotify.com/album/11vz5r57TsCFxG5QGy0585"
+      },
+      "artists": [
+        {
+          "name": "Lina-Mariah",
+          "url": "https://open.spotify.com/artist/3oCoTG5YGC6Z8cqH942oav"
+        }
+      ],
+      "duration_ms": 159315,
+      "name": "I Don't Wanna Go!",
+      "url": "https://open.spotify.com/track/27FgGNuuHsFs84Gzhhs1x0"
     },
     {
       "added_at": "2026-05-22 04:01:10",
@@ -927,22 +927,6 @@
     {
       "added_at": "2026-05-22 04:01:10",
       "album": {
-        "name": "Whatever",
-        "url": "https://open.spotify.com/album/1BaR0QSNMtVK3mn0fIyDlt"
-      },
-      "artists": [
-        {
-          "name": "Lina-Mariah",
-          "url": "https://open.spotify.com/artist/3oCoTG5YGC6Z8cqH942oav"
-        }
-      ],
-      "duration_ms": 168552,
-      "name": "Whatever",
-      "url": "https://open.spotify.com/track/3wUqbA1hc4bu2R0KiM0TTi"
-    },
-    {
-      "added_at": "2026-05-22 04:01:10",
-      "album": {
         "name": "Oxy Moron",
         "url": "https://open.spotify.com/album/3lVC4YhcGK3nmktbvCTts6"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 230800,
       "name": "You've Got My Number",
       "url": "https://open.spotify.com/track/5VJS4UH2VccJoUgc9bsIPW"
+    },
+    {
+      "added_at": "2026-05-22 04:01:10",
+      "album": {
+        "name": "Whatever",
+        "url": "https://open.spotify.com/album/1BaR0QSNMtVK3mn0fIyDlt"
+      },
+      "artists": [
+        {
+          "name": "Lina-Mariah",
+          "url": "https://open.spotify.com/artist/3oCoTG5YGC6Z8cqH942oav"
+        }
+      ],
+      "duration_ms": 168552,
+      "name": "Whatever",
+      "url": "https://open.spotify.com/track/3wUqbA1hc4bu2R0KiM0TTi"
     },
     {
       "added_at": "2026-05-22 04:01:10",
@@ -1235,18 +1235,18 @@
     {
       "added_at": "2026-05-22 04:01:10",
       "album": {
-        "name": "Limb From Limb / Mechanically Separated",
-        "url": "https://open.spotify.com/album/757tW1HgmEk6NhXZk0kcHt"
+        "name": "Crystallize",
+        "url": "https://open.spotify.com/album/1kPzcJdjjihNY2HjERXFu3"
       },
       "artists": [
         {
-          "name": "Heart Attack Man",
-          "url": "https://open.spotify.com/artist/5esKrGWvWmBAmjnao5jInN"
+          "name": "Quicksand",
+          "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
         }
       ],
-      "duration_ms": 184000,
-      "name": "Limb From Limb",
-      "url": "https://open.spotify.com/track/22w3dwj3nC5XjF7NdSJwrY"
+      "duration_ms": 138000,
+      "name": "Crystallize",
+      "url": "https://open.spotify.com/track/4tHPDcaQEV9pi8veAeSZRz"
     },
     {
       "added_at": "2026-05-22 04:01:10",
@@ -1263,6 +1263,38 @@
       "duration_ms": 177914,
       "name": "WAVES OF FIRE",
       "url": "https://open.spotify.com/track/62suCfrMdxkGEg5sLnMg4A"
+    },
+    {
+      "added_at": "2026-05-22 04:01:10",
+      "album": {
+        "name": "Limb From Limb / Mechanically Separated",
+        "url": "https://open.spotify.com/album/757tW1HgmEk6NhXZk0kcHt"
+      },
+      "artists": [
+        {
+          "name": "Heart Attack Man",
+          "url": "https://open.spotify.com/artist/5esKrGWvWmBAmjnao5jInN"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Limb From Limb",
+      "url": "https://open.spotify.com/track/22w3dwj3nC5XjF7NdSJwrY"
+    },
+    {
+      "added_at": "2026-05-22 04:01:10",
+      "album": {
+        "name": "when we were friends",
+        "url": "https://open.spotify.com/album/0EKr0IF82LGWsTFMJJygT3"
+      },
+      "artists": [
+        {
+          "name": "Pinkshift",
+          "url": "https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P"
+        }
+      ],
+      "duration_ms": 145800,
+      "name": "when we were friends",
+      "url": "https://open.spotify.com/track/6VleKNFc2xxqiQSAPUBnRR"
     },
     {
       "added_at": "2026-05-22 04:01:10",
@@ -1315,22 +1347,6 @@
     {
       "added_at": "2026-05-22 04:01:10",
       "album": {
-        "name": "when we were friends",
-        "url": "https://open.spotify.com/album/0EKr0IF82LGWsTFMJJygT3"
-      },
-      "artists": [
-        {
-          "name": "Pinkshift",
-          "url": "https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P"
-        }
-      ],
-      "duration_ms": 145800,
-      "name": "when we were friends",
-      "url": "https://open.spotify.com/track/6VleKNFc2xxqiQSAPUBnRR"
-    },
-    {
-      "added_at": "2026-05-22 04:01:10",
-      "album": {
         "name": "Nice to Know Ya",
         "url": "https://open.spotify.com/album/7A5LHfw0Txz9HOzZ8S9e6p"
       },
@@ -1343,22 +1359,6 @@
       "duration_ms": 179454,
       "name": "Nice to Know Ya",
       "url": "https://open.spotify.com/track/0p7Rs24bhNP9iY4TVoFYDe"
-    },
-    {
-      "added_at": "2026-05-22 04:01:10",
-      "album": {
-        "name": "Crystallize",
-        "url": "https://open.spotify.com/album/1kPzcJdjjihNY2HjERXFu3"
-      },
-      "artists": [
-        {
-          "name": "Quicksand",
-          "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "Crystallize",
-      "url": "https://open.spotify.com/track/4tHPDcaQEV9pi8veAeSZRz"
     },
     {
       "added_at": "2026-05-22 04:01:10",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2026-05-22 04:01:10",
       "album": {
+        "name": "HELLHOUND",
+        "url": "https://open.spotify.com/album/1oa3NykGHO2mXkEGN3AIVj"
+      },
+      "artists": [
+        {
+          "name": "VIAL",
+          "url": "https://open.spotify.com/artist/7soK35m8BosPkMQ67t7bqf"
+        }
+      ],
+      "duration_ms": 146359,
+      "name": "INFECTED",
+      "url": "https://open.spotify.com/track/3p9FdKbV4rIeIiJUjtr4Dm"
+    },
+    {
+      "added_at": "2026-05-22 04:01:10",
+      "album": {
         "name": "This Thing Is Old",
         "url": "https://open.spotify.com/album/4h66SvKR1zrVWH8SgOW2Oo"
       },
@@ -1443,22 +1459,6 @@
       "duration_ms": 171808,
       "name": "Smoke Screen",
       "url": "https://open.spotify.com/track/0www1z9xa39bNmz7fCmyaJ"
-    },
-    {
-      "added_at": "2026-05-22 04:01:10",
-      "album": {
-        "name": "HELLHOUND",
-        "url": "https://open.spotify.com/album/1oa3NykGHO2mXkEGN3AIVj"
-      },
-      "artists": [
-        {
-          "name": "VIAL",
-          "url": "https://open.spotify.com/artist/7soK35m8BosPkMQ67t7bqf"
-        }
-      ],
-      "duration_ms": 146359,
-      "name": "INFECTED",
-      "url": "https://open.spotify.com/track/3p9FdKbV4rIeIiJUjtr4Dm"
     },
     {
       "added_at": "2026-05-22 04:01:10",
@@ -1611,18 +1611,18 @@
     {
       "added_at": "2026-05-22 04:01:10",
       "album": {
-        "name": "Inner Peace",
-        "url": "https://open.spotify.com/album/64JgToGRjAxCDBuDGZ7g15"
+        "name": "Taking Inventory Of A Frozen Lake",
+        "url": "https://open.spotify.com/album/0UvHCTESDa8zKUFDIDsW8u"
       },
       "artists": [
         {
-          "name": "The Flatliners",
-          "url": "https://open.spotify.com/artist/6bx5jeXP6LSRVY29adUFdB"
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
         }
       ],
-      "duration_ms": 156670,
-      "name": "Inner Peace",
-      "url": "https://open.spotify.com/track/6Z0x4SRIbLvjvIkFzLdbN4"
+      "duration_ms": 257084,
+      "name": "Taking Inventory Of A Frozen Lake",
+      "url": "https://open.spotify.com/track/6qEhqLzsiYzipyTdOR0YKe"
     },
     {
       "added_at": "2026-05-22 04:01:10",
@@ -1675,18 +1675,18 @@
     {
       "added_at": "2026-05-22 04:01:10",
       "album": {
-        "name": "Taking Inventory Of A Frozen Lake",
-        "url": "https://open.spotify.com/album/0UvHCTESDa8zKUFDIDsW8u"
+        "name": "Inner Peace",
+        "url": "https://open.spotify.com/album/64JgToGRjAxCDBuDGZ7g15"
       },
       "artists": [
         {
-          "name": "Thursday",
-          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
+          "name": "The Flatliners",
+          "url": "https://open.spotify.com/artist/6bx5jeXP6LSRVY29adUFdB"
         }
       ],
-      "duration_ms": 257084,
-      "name": "Taking Inventory Of A Frozen Lake",
-      "url": "https://open.spotify.com/track/6qEhqLzsiYzipyTdOR0YKe"
+      "duration_ms": 156670,
+      "name": "Inner Peace",
+      "url": "https://open.spotify.com/track/6Z0x4SRIbLvjvIkFzLdbN4"
     },
     {
       "added_at": "2026-05-22 04:01:10",
@@ -1835,6 +1835,22 @@
     {
       "added_at": "2026-05-22 04:01:10",
       "album": {
+        "name": "Nobody\u2019s",
+        "url": "https://open.spotify.com/album/46e2HEQghpFuXNVHTNz6hT"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "duration_ms": 135897,
+      "name": "Nobody\u2019s",
+      "url": "https://open.spotify.com/track/609A6oa4P6iD0YY8cxNeMU"
+    },
+    {
+      "added_at": "2026-05-22 04:01:10",
+      "album": {
         "name": "Bite Harder Than You Bleed",
         "url": "https://open.spotify.com/album/0b2GduToVZmx1XjEsd8szn"
       },
@@ -1867,22 +1883,6 @@
       "duration_ms": 218434,
       "name": "in tandem - feat. Haste The Day",
       "url": "https://open.spotify.com/track/4yNuCWk2TYw39StgjHvz5i"
-    },
-    {
-      "added_at": "2026-05-22 04:01:10",
-      "album": {
-        "name": "Nobody\u2019s",
-        "url": "https://open.spotify.com/album/46e2HEQghpFuXNVHTNz6hT"
-      },
-      "artists": [
-        {
-          "name": "Touch\u00e9 Amor\u00e9",
-          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
-        }
-      ],
-      "duration_ms": 135897,
-      "name": "Nobody\u2019s",
-      "url": "https://open.spotify.com/track/609A6oa4P6iD0YY8cxNeMU"
     },
     {
       "added_at": "2026-05-22 04:01:10",
@@ -1935,22 +1935,6 @@
     {
       "added_at": "2026-05-22 04:01:10",
       "album": {
-        "name": "Will",
-        "url": "https://open.spotify.com/album/1YAmfQGybwywqGhljGAwhe"
-      },
-      "artists": [
-        {
-          "name": "Love Rarely",
-          "url": "https://open.spotify.com/artist/3vfL7qtWVnyObFrObnBkmM"
-        }
-      ],
-      "duration_ms": 198983,
-      "name": "Will",
-      "url": "https://open.spotify.com/track/2yYos0GmwgrPZAHOnpsSdM"
-    },
-    {
-      "added_at": "2026-05-22 04:01:10",
-      "album": {
         "name": "Life's Close",
         "url": "https://open.spotify.com/album/5vndvBcY2I58HwULOwRPzL"
       },
@@ -1963,6 +1947,22 @@
       "duration_ms": 148666,
       "name": "Life's Close",
       "url": "https://open.spotify.com/track/5YV615cDSYrOUoPcAb3dD5"
+    },
+    {
+      "added_at": "2026-05-22 04:01:10",
+      "album": {
+        "name": "Will",
+        "url": "https://open.spotify.com/album/1YAmfQGybwywqGhljGAwhe"
+      },
+      "artists": [
+        {
+          "name": "Love Rarely",
+          "url": "https://open.spotify.com/artist/3vfL7qtWVnyObFrObnBkmM"
+        }
+      ],
+      "duration_ms": 198983,
+      "name": "Will",
+      "url": "https://open.spotify.com/track/2yYos0GmwgrPZAHOnpsSdM"
     },
     {
       "added_at": "2026-05-22 04:01:10",
@@ -2175,22 +2175,6 @@
     {
       "added_at": "2026-05-22 04:01:10",
       "album": {
-        "name": "Drive Faster",
-        "url": "https://open.spotify.com/album/6SwOIjBSWCncTbFtLFzcsG"
-      },
-      "artists": [
-        {
-          "name": "Good Riddance",
-          "url": "https://open.spotify.com/artist/1Yunxnwa5znrQ9Ha7dZeHO"
-        }
-      ],
-      "duration_ms": 161979,
-      "name": "There's Still Tonight",
-      "url": "https://open.spotify.com/track/3UGfNbrYAi9Ix3YinvsAn3"
-    },
-    {
-      "added_at": "2026-05-22 04:01:10",
-      "album": {
         "name": "FEVEREATEN",
         "url": "https://open.spotify.com/album/4wunBLhO4A7vHDAo6gmiiK"
       },
@@ -2203,6 +2187,22 @@
       "duration_ms": 265429,
       "name": "FEVEREATEN",
       "url": "https://open.spotify.com/track/07vgtbLvGFM4bdJGMVaKkI"
+    },
+    {
+      "added_at": "2026-05-22 04:01:10",
+      "album": {
+        "name": "Drive Faster",
+        "url": "https://open.spotify.com/album/6SwOIjBSWCncTbFtLFzcsG"
+      },
+      "artists": [
+        {
+          "name": "Good Riddance",
+          "url": "https://open.spotify.com/artist/1Yunxnwa5znrQ9Ha7dZeHO"
+        }
+      ],
+      "duration_ms": 161979,
+      "name": "There's Still Tonight",
+      "url": "https://open.spotify.com/track/3UGfNbrYAi9Ix3YinvsAn3"
     },
     {
       "added_at": "2026-05-22 04:01:10",

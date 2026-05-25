@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4RSQdk2ty0YkO97WejZkdJ">Michael Pollack</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-553 songs - 1 day 6 hr 21 min
+554 songs - 1 day 6 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -479,7 +479,8 @@
 | [Sunset Blvd](https://open.spotify.com/track/2kpUNuingcchFIhLrbWxIO) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [Sunset Blvd](https://open.spotify.com/album/4JCaqlPDBeT9kizAc3PGwL) | 2:47 | 2025-03-19 | 2025-03-24 |
 | [Superhero](https://open.spotify.com/track/1Fo4OvzP9PThFKMeMIAEYu) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Superhero](https://open.spotify.com/album/1Xf5RZ7zQjF2WEkk7KpZVi) | 2:59 | 2021-12-27 | 2022-11-03 |
 | [Superhero](https://open.spotify.com/track/6mipiX3H43Lz4vIJTG6cdO) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Superhero](https://open.spotify.com/album/3CzwQEWpViOABDuwIPmlNW) | 2:59 | 2022-11-02 |  |
-| [Sway](https://open.spotify.com/track/3RzRdMqYzVOtAqsCk5vuQp) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dean's Best Hits: Legendary Jazz Love Songs & the 50's Sound](https://open.spotify.com/album/6YpWqOuSallsE1rbPs414O) | 2:52 | 2026-02-19 |  |
+| [Sway](https://open.spotify.com/track/0wtUHJEdlPn2xdam9EwXab) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dean Martin Best Ever Collection!](https://open.spotify.com/album/6rjv4jQEQ7Y16WVEEYL6Da) | 2:44 | 2026-05-24 |  |
+| [Sway](https://open.spotify.com/track/3RzRdMqYzVOtAqsCk5vuQp) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dean's Best Hits: Legendary Jazz Love Songs & the 50's Sound](https://open.spotify.com/album/6YpWqOuSallsE1rbPs414O) | 2:52 | 2026-02-19 | 2026-05-25 |
 | [Sway](https://open.spotify.com/track/50fkbi4bdAMoFnzandxQ9a) | [Dean Martin And Jerry Lewis](https://open.spotify.com/artist/7bXOsohZLsQVxjFv9pbW42) | [Dean's Romantic Ballads: Vintage Love & Sentimental Hits](https://open.spotify.com/album/38wNtulBMnbm8Nume4CnbX) | 2:52 | 2025-09-29 | 2026-02-20 |
 | [Sway \(feat\. Quavo & Lil Yachty\)](https://open.spotify.com/track/4QeBlVCl2KzUEcQZiuskRd) | [NexXthursday](https://open.spotify.com/artist/07Y8trtAhW1FFUPqZYTosy), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Sway \(feat\. Quavo & Lil Yachty\)](https://open.spotify.com/album/0i9TSDm7kuCNRsaw8rSca2) | 4:04 | 2021-12-27 |  |
 | [Sway \(Quien Sera\)](https://open.spotify.com/track/4nbILrYODP667b3d66ZMzI) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Hey, Brother Pour The Wine](https://open.spotify.com/album/4FGYCziMpKskiKoujCTMj8) | 2:42 | 2025-04-26 | 2025-09-30 |

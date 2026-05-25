@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLcGGC0HJbc.md) - [plain]
 
 > Voor boslucht, koffie en kalmte.
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,124 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,130 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLcGGC0HJbc.md) - [plain]
 | 20 | [garden green eyes](https://open.spotify.com/track/76ubvikrOTzDV73Wvi4mkA) | [Orange Oak](https://open.spotify.com/artist/622vfvXmIK16EfIZszsVYy) | [garden green eyes](https://open.spotify.com/album/5pH4FPzMU4Wnuo2g5pv2jn) | 2:58 |
 | 21 | [confession](https://open.spotify.com/track/41mNpjh7C4mAzAHXOiA0fn) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [confession](https://open.spotify.com/album/20leNPAVftANfsWCY2hCfJ) | 1:24 |
 | 22 | [Mind Reader](https://open.spotify.com/track/0k8QlJE37M1euY9L3rsZNE) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Oblivion](https://open.spotify.com/album/3QCJELG1LLOrUDzGnskiIa) | 2:43 |
-| 23 | [Follow On](https://open.spotify.com/track/3Qlk110ZID5OoWwjv5eUcj) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx) | [Follow On](https://open.spotify.com/album/1ulTuIbasaEcvtUs9BBBKq) | 3:48 |
-| 24 | [Santiago](https://open.spotify.com/track/311eCUllypOnSLZH7Xbd32) | [Richy Mitch & The Coal Miners](https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau) | [Colorado's On Fire Again](https://open.spotify.com/album/2cP15DvWBWQuNF4wnFxq5n) | 2:44 |
+| 23 | [Santiago](https://open.spotify.com/track/311eCUllypOnSLZH7Xbd32) | [Richy Mitch & The Coal Miners](https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau) | [Colorado's On Fire Again](https://open.spotify.com/album/2cP15DvWBWQuNF4wnFxq5n) | 2:44 |
+| 24 | [Follow On](https://open.spotify.com/track/3Qlk110ZID5OoWwjv5eUcj) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx) | [Follow On](https://open.spotify.com/album/1ulTuIbasaEcvtUs9BBBKq) | 3:48 |
 | 25 | [Another Year Will Pass](https://open.spotify.com/track/2kK1NHAOsnl4WmRf4Zlv9B) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [Another Year Will Pass](https://open.spotify.com/album/5upyUvc97PJ25cRb1vLLDI) | 3:15 |
 | 26 | [When You Tie Your Hair Up](https://open.spotify.com/track/3qZeprTEN2hAWi19KZbcMg) | [Dove Ellis](https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9) | [Blizzard](https://open.spotify.com/album/3Brw2Xdmo6VRPWwOBNye0i) | 4:28 |
 | 27 | [Seeing You](https://open.spotify.com/track/7jjQcyGSb1rNGdUmoQuBuk) | [hey, nothing](https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI) | [Seeing You](https://open.spotify.com/album/5PMPqKGwQCGAbZhl9qdLbP) | 3:18 |

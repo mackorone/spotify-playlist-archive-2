@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Tedua, IvanBi,  Vegas Jones, FreshMula, Silent Bob e molti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,512 likes - 109 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,519 likes - 109 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

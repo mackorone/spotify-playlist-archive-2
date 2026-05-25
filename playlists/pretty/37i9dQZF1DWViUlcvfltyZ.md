@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > Brao Krano, te te si merità el David de Donateo par "Le città di pianura" 🎸
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,692 likes - 111 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,687 likes - 111 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

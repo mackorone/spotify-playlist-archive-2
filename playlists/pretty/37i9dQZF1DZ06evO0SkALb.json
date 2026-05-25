@@ -1,12 +1,12 @@
 {
   "description": "This is Lou Rawls. The essential tracks, all in one playlist.",
-  "num_followers": 12816,
+  "num_followers": 12821,
   "original_name": "This Is Lou Rawls",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ag+cgAAAAABJSNQDeYdLdBrry+OdSOFV",
+  "snapshot_id": "ahDuAAAAAABcaV2qZLSn816Cz7eD5KKs",
   "tracks": [
     {
       "added_at": null,
@@ -387,8 +387,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "All Things In Time",
-        "url": "https://open.spotify.com/album/3JWeH3xgkigYvXdNQCFx1m"
+        "name": "Brotherman!: Lou Rawls Sings His Hits",
+        "url": "https://open.spotify.com/album/2dQjiU3OspVulLuFoGXBvI"
       },
       "artists": [
         {
@@ -396,9 +396,9 @@
           "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
         }
       ],
-      "duration_ms": 305053,
-      "name": "This Song Will Last Forever",
-      "url": "https://open.spotify.com/track/4iuXDdLvdWLg5hSHz90ii2"
+      "duration_ms": 154333,
+      "name": "The Letter",
+      "url": "https://open.spotify.com/track/1CDke7GKa0x4PheMWoIkuH"
     },
     {
       "added_at": null,
@@ -419,8 +419,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Brotherman!: Lou Rawls Sings His Hits",
-        "url": "https://open.spotify.com/album/2dQjiU3OspVulLuFoGXBvI"
+        "name": "All Things In Time",
+        "url": "https://open.spotify.com/album/3JWeH3xgkigYvXdNQCFx1m"
       },
       "artists": [
         {
@@ -428,9 +428,9 @@
           "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
         }
       ],
-      "duration_ms": 154333,
-      "name": "The Letter",
-      "url": "https://open.spotify.com/track/1CDke7GKa0x4PheMWoIkuH"
+      "duration_ms": 305053,
+      "name": "This Song Will Last Forever",
+      "url": "https://open.spotify.com/track/4iuXDdLvdWLg5hSHz90ii2"
     },
     {
       "added_at": null,
@@ -659,54 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tobacco Road",
-        "url": "https://open.spotify.com/album/5HlnBTb2vJjwCr25XVVmwh"
-      },
-      "artists": [
-        {
-          "name": "Lou Rawls",
-          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
-        }
-      ],
-      "duration_ms": 199573,
-      "name": "Georgia On My Mind - Remastered 2006",
-      "url": "https://open.spotify.com/track/1v0PObRGQRpv6foapH9F35"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Anthology-Lou Rawls",
-        "url": "https://open.spotify.com/album/6RZbUqqODcPvuxw6zAD5fX"
-      },
-      "artists": [
-        {
-          "name": "Lou Rawls",
-          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "A Whole Lotta Woman - Digitally Remastered 00",
-      "url": "https://open.spotify.com/track/5Nz0stfqxqsfynmfwCtv0E"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Shades of Blue",
-        "url": "https://open.spotify.com/album/6thOuxCNeHuZpvyw90JlnN"
-      },
-      "artists": [
-        {
-          "name": "Lou Rawls",
-          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
-        }
-      ],
-      "duration_ms": 232346,
-      "name": "I Go Crazy",
-      "url": "https://open.spotify.com/track/2bElJW7i0Sq8xME6Tk4qiK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stormy Monday",
         "url": "https://open.spotify.com/album/2E5VtJahYu8mM1fjycL5ds"
       },
@@ -723,6 +675,38 @@
       "duration_ms": 357040,
       "name": "Willow Weep For Me",
       "url": "https://open.spotify.com/track/2hS8iHYwvSCJCimtWJbjun"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tobacco Road",
+        "url": "https://open.spotify.com/album/5HlnBTb2vJjwCr25XVVmwh"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "duration_ms": 199573,
+      "name": "Georgia On My Mind - Remastered 2006",
+      "url": "https://open.spotify.com/track/1v0PObRGQRpv6foapH9F35"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shades of Blue",
+        "url": "https://open.spotify.com/album/6thOuxCNeHuZpvyw90JlnN"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "duration_ms": 232346,
+      "name": "I Go Crazy",
+      "url": "https://open.spotify.com/track/2bElJW7i0Sq8xME6Tk4qiK"
     },
     {
       "added_at": null,
@@ -747,8 +731,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Can't Make It Alone: The Axelrod Years",
-        "url": "https://open.spotify.com/album/1Kx9ACe5cRS0qlwUDp15MU"
+        "name": "Anthology-Lou Rawls",
+        "url": "https://open.spotify.com/album/6RZbUqqODcPvuxw6zAD5fX"
       },
       "artists": [
         {
@@ -756,9 +740,9 @@
           "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
         }
       ],
-      "duration_ms": 156133,
-      "name": "Evil Woman",
-      "url": "https://open.spotify.com/track/7j4uxZq7o8QtoYzrTlYNtZ"
+      "duration_ms": 160000,
+      "name": "A Whole Lotta Woman - Digitally Remastered 00",
+      "url": "https://open.spotify.com/track/5Nz0stfqxqsfynmfwCtv0E"
     },
     {
       "added_at": null,
@@ -772,9 +756,9 @@
           "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
         }
       ],
-      "duration_ms": 232826,
-      "name": "Wind Beneath My Wings - Single Version",
-      "url": "https://open.spotify.com/track/3U5Lm60H6RteX9C0dpi7QT"
+      "duration_ms": 203706,
+      "name": "That Would Do It for Me",
+      "url": "https://open.spotify.com/track/018N2ZUUruZrwLHPDtuwj0"
     },
     {
       "added_at": null,
@@ -795,6 +779,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "I Can't Make It Alone: The Axelrod Years",
+        "url": "https://open.spotify.com/album/1Kx9ACe5cRS0qlwUDp15MU"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "duration_ms": 156133,
+      "name": "Evil Woman",
+      "url": "https://open.spotify.com/track/7j4uxZq7o8QtoYzrTlYNtZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sit Down and Talk to Me",
         "url": "https://open.spotify.com/album/0ptfSwqXv2Jm93lXyY2bXD"
       },
@@ -811,8 +811,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Essential Lou Rawls",
-        "url": "https://open.spotify.com/album/6vhHreCbPvwLXDreRFHcdG"
+        "name": "Lou Rawls - The Very Best Of",
+        "url": "https://open.spotify.com/album/0fHzoR2PfTW5FhpVBcNJVN"
       },
       "artists": [
         {
@@ -820,9 +820,9 @@
           "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
         }
       ],
-      "duration_ms": 256160,
-      "name": "We Understand Each Other",
-      "url": "https://open.spotify.com/track/7em6KhKMrKS8svfEuKgXLJ"
+      "duration_ms": 232826,
+      "name": "Wind Beneath My Wings - Single Version",
+      "url": "https://open.spotify.com/track/3U5Lm60H6RteX9C0dpi7QT"
     }
   ],
   "unique_name": "This Is Lou Rawls",

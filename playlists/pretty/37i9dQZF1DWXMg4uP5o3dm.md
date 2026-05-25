@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMg4uP5o3dm.md) - [plain]
 
 > alternative meets electronic.
 
-[Spotify](https://open.spotify.com/user/spotify) - 497,297 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 497,317 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,10 +80,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMg4uP5o3dm.md) - [plain]
 | 70 | [lost cause// \(with grandson\)](https://open.spotify.com/track/1zXoU7XohkF9xLMu5LHZ2G) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM), [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [lost cause// \(with grandson\)](https://open.spotify.com/album/30pzFBCamJulEWfJTco52K) | 2:51 |
 | 71 | [Lightning Over Mexico](https://open.spotify.com/track/3IxeUGg5HDUz6jhfr66m4A) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [The Bloody Beetroots](https://open.spotify.com/artist/0QJKELJZZuLAjqLOOixJm5), [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [The Catastrophists EP](https://open.spotify.com/album/6Kl5tzEtLjRKTPBtjw8NQr) | 4:11 |
 | 72 | [Drinking with Cupid](https://open.spotify.com/track/7dooLmazlQIYM9Wo7FRQR7) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD) | [Drinking with Cupid](https://open.spotify.com/album/7nOgBpquyvxeBgbgowVUJD) | 2:52 |
-| 73 | [BELIEVE](https://open.spotify.com/track/2VpyqzXj9ZGTSy2JVkVD2z) | [NEFFEX](https://open.spotify.com/artist/3z97WMRi731dCvKklIf2X6) | [BELIEVE](https://open.spotify.com/album/0BvaFK2hTZ13TeTFkPEdHK) | 2:36 |
-| 74 | [ORDINARY LOSS](https://open.spotify.com/track/4qUrMbUVDxaMZy2zPB6mD7) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth) | [ORDINARY LOSS](https://open.spotify.com/album/1YFzAHHi7bCILUDIuJFpF6) | 3:53 |
+| 73 | [Dreamstate](https://open.spotify.com/track/5Gggw8WykNhnZsYExUVYxy) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Tim Henson](https://open.spotify.com/artist/2cMK99GYN2qw5buZecbKH4), [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [IT'S NOT A PHASE](https://open.spotify.com/album/5etGhl198ycQOkK4mt8B1w) | 3:12 |
+| 74 | [BELIEVE](https://open.spotify.com/track/2VpyqzXj9ZGTSy2JVkVD2z) | [NEFFEX](https://open.spotify.com/artist/3z97WMRi731dCvKklIf2X6) | [BELIEVE](https://open.spotify.com/album/0BvaFK2hTZ13TeTFkPEdHK) | 2:36 |
 | 75 | [Palm Reader](https://open.spotify.com/track/729lI4P82NDXNQljBDmkmU) | [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A), [Big Boi](https://open.spotify.com/artist/2ht3wxeT69CzyKFChNnNAB), [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Palm Reader](https://open.spotify.com/album/1QQRNBDVBOA4uomdDG2MxZ) | 3:00 |
-| 76 | [Dreamstate](https://open.spotify.com/track/5Gggw8WykNhnZsYExUVYxy) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Tim Henson](https://open.spotify.com/artist/2cMK99GYN2qw5buZecbKH4), [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [IT'S NOT A PHASE](https://open.spotify.com/album/5etGhl198ycQOkK4mt8B1w) | 3:12 |
+| 76 | [ORDINARY LOSS](https://open.spotify.com/track/4qUrMbUVDxaMZy2zPB6mD7) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth) | [ORDINARY LOSS](https://open.spotify.com/album/1YFzAHHi7bCILUDIuJFpF6) | 3:53 |
 | 77 | [i’ve left my body](https://open.spotify.com/track/7f7GRJ5KnqQyjlI9SxLCnm) | [RJ Pasin](https://open.spotify.com/artist/3BTY807ipaaT6QHW1tHTt0), [ivri](https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS), [Nextime](https://open.spotify.com/artist/6Kwqn9ZUZvG9lz4InvATNj) | [The Indomitable Human Spirit](https://open.spotify.com/album/0b2X0hMvpZJRKItQIqdDcd) | 2:12 |
 | 78 | [Speeding Fast](https://open.spotify.com/track/3QTK0aSjMeCsja2oxkPGxp) | [dapurr](https://open.spotify.com/artist/3Dn91YO242mHAywGp5Tptt) | [1](https://open.spotify.com/album/2yfYHs5lPBh6YJbwXF4rOg) | 3:23 |
 | 79 | [Freefall \(feat\. Oliver Tree\)](https://open.spotify.com/track/5VsZwt7AyePLXFrlHhMvoI) | [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Freefall \(feat\. Oliver Tree\)](https://open.spotify.com/album/2IBBJbVcT3jBmbkf1HChaU) | 2:35 |

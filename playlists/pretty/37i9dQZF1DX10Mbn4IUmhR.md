@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10Mbn4IUmhR.md) - [plain]
 
 > Your frequency for today's hottest pop tracks in Mzansi\. Cover: Ben Rodrigues
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,546 likes - 80 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,547 likes - 80 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10Mbn4IUmhR.md) - [plain]
 | 65 | [If U Love Me Now](https://open.spotify.com/track/7ejMPghq8mBbo6QzIAWWmi) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [About U](https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY) | 4:14 |
 | 66 | [Popstar Party](https://open.spotify.com/track/6ijobO5xJ1NgPGiC7evca8) | [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA) | [Popstar Party](https://open.spotify.com/album/5qbv9ptUdlcivvSSOXc7UG) | 3:08 |
 | 67 | [Letting go](https://open.spotify.com/track/4nYZTjP9ueozE3FIzzaQLg) | [Stephen Willo](https://open.spotify.com/artist/34uEJg0k0siI2NxKK2TeHa) | [Letting go](https://open.spotify.com/album/3aRWXtqMee8FRTTqcgtu0c) | 2:40 |
-| 68 | [My Sweet Lullaby](https://open.spotify.com/track/3BDgGxMhSXgN09ZoePXBp4) | [Anacy](https://open.spotify.com/artist/2oXqSYj1115os7ZUoEAEd0) | [My Sweet Lullaby](https://open.spotify.com/album/2ajFNHtrid9V6L7xpJArQ5) | 3:25 |
-| 69 | [Neverland](https://open.spotify.com/track/2pYeCSz1jCLtz2GDioZEfs) | [Tatum Tides](https://open.spotify.com/artist/730X1kWAiAf4vUtlUs1nWY) | [Neverland](https://open.spotify.com/album/1FjqFA9fMXRjm5le1dROMY) | 3:08 |
+| 68 | [Neverland](https://open.spotify.com/track/2pYeCSz1jCLtz2GDioZEfs) | [Tatum Tides](https://open.spotify.com/artist/730X1kWAiAf4vUtlUs1nWY) | [Neverland](https://open.spotify.com/album/1FjqFA9fMXRjm5le1dROMY) | 3:08 |
+| 69 | [My Sweet Lullaby](https://open.spotify.com/track/3BDgGxMhSXgN09ZoePXBp4) | [Anacy](https://open.spotify.com/artist/2oXqSYj1115os7ZUoEAEd0) | [My Sweet Lullaby](https://open.spotify.com/album/2ajFNHtrid9V6L7xpJArQ5) | 3:25 |
 | 70 | [Untimely Disclosure](https://open.spotify.com/track/7g6WhPV8EJb2Lxs1AX9Mho) | [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq), [Jesse Clegg](https://open.spotify.com/artist/4UDaVZj9eMOfZFEGrcrwqv) | [Untimely Disclosure](https://open.spotify.com/album/6bt64LXnIIgNvpF5nzrKaq) | 3:43 |
 | 71 | [Ted Mosby](https://open.spotify.com/track/0MEHbAg96M5HJMsRYPVDeU) | [Sir Silly](https://open.spotify.com/artist/0HwrBLxXMAzq5e7hfYgHcO) | [Ted Mosby](https://open.spotify.com/album/3eEH6dpJaarICwy9yp2vKC) | 2:51 |
 | 72 | [Give It To Me](https://open.spotify.com/track/4SxNIsYJVeKx7crMsMNjf8) | [Jada Faith](https://open.spotify.com/artist/1Y1heq4pqZt7bF5lKZCDfL), [Lucky Jones](https://open.spotify.com/artist/3kRrXk5mL3cBvrMaN18Tet) | [Give It To Me](https://open.spotify.com/album/0Muk4t1czK2RNtrisFJ4sV) | 2:28 |

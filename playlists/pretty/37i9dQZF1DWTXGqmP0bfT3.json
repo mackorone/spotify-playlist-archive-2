@@ -1,6 +1,6 @@
 {
   "description": "brutal breakdowns and riffs to amp you up.",
-  "num_followers": 562379,
+  "num_followers": 562513,
   "original_name": "Energy Booster: Metal",
   "owner": {
     "name": "Spotify",
@@ -935,22 +935,6 @@
     {
       "added_at": "2026-03-06 18:04:08",
       "album": {
-        "name": "The Death We Seek",
-        "url": "https://open.spotify.com/album/0llAadNufIDvVRzWfSxQxC"
-      },
-      "artists": [
-        {
-          "name": "Currents",
-          "url": "https://open.spotify.com/artist/5pqvAI85RMxL9K0xHvSwGu"
-        }
-      ],
-      "duration_ms": 244254,
-      "name": "Remember Me",
-      "url": "https://open.spotify.com/track/3zwdN4h7DNlGlm3w4KylOM"
-    },
-    {
-      "added_at": "2026-03-06 18:04:08",
-      "album": {
         "name": "Death Magnetic",
         "url": "https://open.spotify.com/album/3bK58rVcWBh3V3vxMLzi0V"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 477026,
       "name": "All Nightmare Long",
       "url": "https://open.spotify.com/track/3e7wv9TChjWrnXHrk5NyBU"
+    },
+    {
+      "added_at": "2026-03-06 18:04:08",
+      "album": {
+        "name": "The Death We Seek",
+        "url": "https://open.spotify.com/album/0llAadNufIDvVRzWfSxQxC"
+      },
+      "artists": [
+        {
+          "name": "Currents",
+          "url": "https://open.spotify.com/artist/5pqvAI85RMxL9K0xHvSwGu"
+        }
+      ],
+      "duration_ms": 244254,
+      "name": "Remember Me",
+      "url": "https://open.spotify.com/track/3zwdN4h7DNlGlm3w4KylOM"
     },
     {
       "added_at": "2026-03-06 18:04:08",
@@ -1143,6 +1143,34 @@
     {
       "added_at": "2026-03-06 18:04:08",
       "album": {
+        "name": "Rumble of Thunder (Deluxe)",
+        "url": "https://open.spotify.com/album/1WmySyMyPGVPlCpKQGQaEp"
+      },
+      "artists": [
+        {
+          "name": "The HU",
+          "url": "https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc"
+        },
+        {
+          "name": "Serj Tankian",
+          "url": "https://open.spotify.com/artist/0BEI7i5sgUuivcfwXLzFmM"
+        },
+        {
+          "name": "Bad Wolves",
+          "url": "https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1"
+        },
+        {
+          "name": "Daniel Laskiewicz",
+          "url": "https://open.spotify.com/artist/4mZxb8qEgT8nkvrNaQFiMQ"
+        }
+      ],
+      "duration_ms": 268744,
+      "name": "Black Thunder (feat. Serj Tankian and DL of Bad Wolves)",
+      "url": "https://open.spotify.com/track/7nqgVLMje8RzKrmNH2D6dg"
+    },
+    {
+      "added_at": "2026-03-06 18:04:08",
+      "album": {
         "name": "Fatalism",
         "url": "https://open.spotify.com/album/6yMmUKkAfVoHJT71ZpoBi5"
       },
@@ -1171,34 +1199,6 @@
       "duration_ms": 237300,
       "name": "Meet Your Maker",
       "url": "https://open.spotify.com/track/5qZMqZspIglsy4SJxtJt0S"
-    },
-    {
-      "added_at": "2026-03-06 18:04:08",
-      "album": {
-        "name": "Rumble of Thunder (Deluxe)",
-        "url": "https://open.spotify.com/album/1WmySyMyPGVPlCpKQGQaEp"
-      },
-      "artists": [
-        {
-          "name": "The HU",
-          "url": "https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc"
-        },
-        {
-          "name": "Serj Tankian",
-          "url": "https://open.spotify.com/artist/0BEI7i5sgUuivcfwXLzFmM"
-        },
-        {
-          "name": "Bad Wolves",
-          "url": "https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1"
-        },
-        {
-          "name": "Daniel Laskiewicz",
-          "url": "https://open.spotify.com/artist/4mZxb8qEgT8nkvrNaQFiMQ"
-        }
-      ],
-      "duration_ms": 268744,
-      "name": "Black Thunder (feat. Serj Tankian and DL of Bad Wolves)",
-      "url": "https://open.spotify.com/track/7nqgVLMje8RzKrmNH2D6dg"
     },
     {
       "added_at": "2026-03-06 18:04:08",
@@ -1795,6 +1795,22 @@
     {
       "added_at": "2026-03-06 18:04:08",
       "album": {
+        "name": "Firepower",
+        "url": "https://open.spotify.com/album/7p3G0OCxtlWyJcPE1FxnyB"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "duration_ms": 209453,
+      "name": "Lightning Strike",
+      "url": "https://open.spotify.com/track/6qopop1Rc9r1RjEIBQhc8d"
+    },
+    {
+      "added_at": "2026-03-06 18:04:08",
+      "album": {
         "name": "The Reckoning",
         "url": "https://open.spotify.com/album/2UAqWPHRSXHBHkCxsL3oMj"
       },
@@ -1815,18 +1831,18 @@
     {
       "added_at": "2026-03-06 18:04:08",
       "album": {
-        "name": "Firepower",
-        "url": "https://open.spotify.com/album/7p3G0OCxtlWyJcPE1FxnyB"
+        "name": "No Grave but the Sea (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6leGMq1KVN1SWHScCunixS"
       },
       "artists": [
         {
-          "name": "Judas Priest",
-          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+          "name": "Alestorm",
+          "url": "https://open.spotify.com/artist/3OpqU68JpZlzvjAJj3B2Da"
         }
       ],
-      "duration_ms": 209453,
-      "name": "Lightning Strike",
-      "url": "https://open.spotify.com/track/6qopop1Rc9r1RjEIBQhc8d"
+      "duration_ms": 236786,
+      "name": "Alestorm",
+      "url": "https://open.spotify.com/track/6Br1VbTp9OptQn0uTQcil0"
     },
     {
       "added_at": "2026-03-06 18:04:08",
@@ -1843,22 +1859,6 @@
       "duration_ms": 261573,
       "name": "Rats",
       "url": "https://open.spotify.com/track/0g49s0Nl5LTXLKATAZ7Vfx"
-    },
-    {
-      "added_at": "2026-03-06 18:04:08",
-      "album": {
-        "name": "No Grave but the Sea (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6leGMq1KVN1SWHScCunixS"
-      },
-      "artists": [
-        {
-          "name": "Alestorm",
-          "url": "https://open.spotify.com/artist/3OpqU68JpZlzvjAJj3B2Da"
-        }
-      ],
-      "duration_ms": 236786,
-      "name": "Alestorm",
-      "url": "https://open.spotify.com/track/6Br1VbTp9OptQn0uTQcil0"
     },
     {
       "added_at": "2026-03-06 18:04:08",
@@ -2107,22 +2107,6 @@
     {
       "added_at": "2026-03-06 18:04:08",
       "album": {
-        "name": "Doom (Original Game Soundtrack)",
-        "url": "https://open.spotify.com/album/0KQyC28P9808r0oKKNgHvp"
-      },
-      "artists": [
-        {
-          "name": "Mick Gordon",
-          "url": "https://open.spotify.com/artist/13ab1LgQZ3tQOhkDRRYB8Y"
-        }
-      ],
-      "duration_ms": 257734,
-      "name": "Rip & Tear",
-      "url": "https://open.spotify.com/track/5soMJpcVhSrGrB4prvPL6P"
-    },
-    {
-      "added_at": "2026-03-06 18:04:08",
-      "album": {
         "name": "Dark Void",
         "url": "https://open.spotify.com/album/78j5yRbo6TI6xpPJoRjSWH"
       },
@@ -2135,6 +2119,22 @@
       "duration_ms": 232258,
       "name": "Dark Void",
       "url": "https://open.spotify.com/track/5qI0O2liRuEC6Mnv8BKl0S"
+    },
+    {
+      "added_at": "2026-03-06 18:04:08",
+      "album": {
+        "name": "Doom (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/0KQyC28P9808r0oKKNgHvp"
+      },
+      "artists": [
+        {
+          "name": "Mick Gordon",
+          "url": "https://open.spotify.com/artist/13ab1LgQZ3tQOhkDRRYB8Y"
+        }
+      ],
+      "duration_ms": 257734,
+      "name": "Rip & Tear",
+      "url": "https://open.spotify.com/track/5soMJpcVhSrGrB4prvPL6P"
     },
     {
       "added_at": "2026-03-06 18:04:08",

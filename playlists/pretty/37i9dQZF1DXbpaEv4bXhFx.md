@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpaEv4bXhFx.md) - [plain]
 
 > 빗방울대신 감성을 맞는 시간\. \(Listen to K\-Pop rainy day songs.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,204 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,202 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,9 +15,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpaEv4bXhFx.md) - [plain]
 | 5 | [Rainy Day](https://open.spotify.com/track/0rX74bZo4y2pdUZ01LmYoA) | [KIM YOUNGHEUM](https://open.spotify.com/artist/4aIJgOMlBlNDc7pxXKGJeW) | [Project Weather Forecast Ⅹ 7th](https://open.spotify.com/album/5WOexkyaHu75qQ8l8MrLBs) | 4:26 |
 | 6 | [Love Me Again](https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m) | 3:02 |
 | 7 | [Rain Arrives \(Prod\. JUNGKEY\)](https://open.spotify.com/track/3yZqvuuda0vm2otILTFCci) | [Yang Da Il](https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt) | [Rain Arrives](https://open.spotify.com/album/172fqqFFdbkIYVeXPfHFVK) | 3:39 |
-| 8 | [Forest](https://open.spotify.com/track/33xRp6ZX1DKraRFHR9ZDck) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [Stroll](https://open.spotify.com/album/2zTRBl0d9LGCNwuwlf63Wx) | 3:48 |
+| 8 | [You, Clouds, Rain](https://open.spotify.com/track/6FZAc2XaVYc8G8jaDnBshv) | [Heize](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [Shin Yong Jae](https://open.spotify.com/artist/2frFGmni9tkRgXYdXmzQvR) | [/// \(You, Clouds, Rain\)](https://open.spotify.com/album/7ANb4BnhkVoBO4RDSJ6uSs) | 3:25 |
 | 9 | [Left in the Rain](https://open.spotify.com/track/1TPHGTbSlEiZh9MvQDpMcY) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [IM HERO 2](https://open.spotify.com/album/19z4SOpETLOt3bKKcJJ84O) | 4:14 |
-| 10 | [You, Clouds, Rain](https://open.spotify.com/track/6FZAc2XaVYc8G8jaDnBshv) | [Heize](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [Shin Yong Jae](https://open.spotify.com/artist/2frFGmni9tkRgXYdXmzQvR) | [/// \(You, Clouds, Rain\)](https://open.spotify.com/album/7ANb4BnhkVoBO4RDSJ6uSs) | 3:25 |
+| 10 | [Forest](https://open.spotify.com/track/33xRp6ZX1DKraRFHR9ZDck) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [Stroll](https://open.spotify.com/album/2zTRBl0d9LGCNwuwlf63Wx) | 3:48 |
 | 11 | [It's Raining](https://open.spotify.com/track/0x3tMyh5OmG7wG4aEq6Xgt) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [Spring Again](https://open.spotify.com/album/1lyirN2uEAOt9M6CvkY9Rk) | 3:33 |
 | 12 | [Rainy Days](https://open.spotify.com/track/5ydjxBSUIDn26MFzU3asP4) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m) | 2:59 |
 | 13 | [Rain and You](https://open.spotify.com/track/4ribiWWnI451QMRdOgByIP) | [LEE MU JIN](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [HOSPITAL PLAYLIST Season2, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/2pJhtrlZZvxFi818EMvKAY) | 4:22 |

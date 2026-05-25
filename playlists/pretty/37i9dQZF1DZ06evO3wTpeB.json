@@ -1,12 +1,12 @@
 {
   "description": "This is Ali Aka Mind. The essential tracks, all in one playlist.",
-  "num_followers": 4915,
+  "num_followers": 4917,
   "original_name": "This Is Ali Aka Mind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ag+cgAAAAAD0POA7O8GoUgFTgSpWQfVK",
+  "snapshot_id": "ahDuAAAAAABKuxE5qmfu9pomsTfDOP9W",
   "tracks": [
     {
       "added_at": null,
@@ -407,26 +407,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dolor",
-        "url": "https://open.spotify.com/album/1QXRglXocvvIB7lroBNUc8"
-      },
-      "artists": [
-        {
-          "name": "Ali Aka Mind",
-          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
-        },
-        {
-          "name": "Laberinto ELC",
-          "url": "https://open.spotify.com/artist/1Cd5Kq0yfp0WqfiryLu4bu"
-        }
-      ],
-      "duration_ms": 265747,
-      "name": "Dolor",
-      "url": "https://open.spotify.com/track/4fCg5TdCsAaf2sizMKYFjm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Palabras del Alma",
         "url": "https://open.spotify.com/album/4JTGFe7NhpEVSInPEasMhV"
       },
@@ -443,34 +423,6 @@
       "duration_ms": 205293,
       "name": "Yo Me Identifico",
       "url": "https://open.spotify.com/track/25fyXzQ48jehni3yxFT2mt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Honesty",
-        "url": "https://open.spotify.com/album/1T8KlnyoPrbDgv01kVSFHB"
-      },
-      "artists": [
-        {
-          "name": "Ali Aka Mind",
-          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
-        },
-        {
-          "name": "T-Chord",
-          "url": "https://open.spotify.com/artist/3GvdERCXrDLLTKzngNIyMW"
-        },
-        {
-          "name": "Dj J.L.P",
-          "url": "https://open.spotify.com/artist/43Qj6bVsqyHRirGYVeP4Ij"
-        },
-        {
-          "name": "Alka Produce",
-          "url": "https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q"
-        }
-      ],
-      "duration_ms": 194341,
-      "name": "La Ansiedad y Yo",
-      "url": "https://open.spotify.com/track/6RxBmdpKc3lVGGJm8ajMRg"
     },
     {
       "added_at": null,
@@ -539,6 +491,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Honesty",
+        "url": "https://open.spotify.com/album/1T8KlnyoPrbDgv01kVSFHB"
+      },
+      "artists": [
+        {
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        },
+        {
+          "name": "T-Chord",
+          "url": "https://open.spotify.com/artist/3GvdERCXrDLLTKzngNIyMW"
+        },
+        {
+          "name": "Dj J.L.P",
+          "url": "https://open.spotify.com/artist/43Qj6bVsqyHRirGYVeP4Ij"
+        },
+        {
+          "name": "Alka Produce",
+          "url": "https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q"
+        }
+      ],
+      "duration_ms": 194341,
+      "name": "La Ansiedad y Yo",
+      "url": "https://open.spotify.com/track/6RxBmdpKc3lVGGJm8ajMRg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Medallo Finest - Cypher",
         "url": "https://open.spotify.com/album/3cri0TxB5nxq3SK2zVm4v0"
       },
@@ -571,6 +551,26 @@
       "duration_ms": 314000,
       "name": "Medallo Finest - Cypher",
       "url": "https://open.spotify.com/track/0GgKbQrvXc5ejyHCcsEkHf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dolor",
+        "url": "https://open.spotify.com/album/1QXRglXocvvIB7lroBNUc8"
+      },
+      "artists": [
+        {
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        },
+        {
+          "name": "Laberinto ELC",
+          "url": "https://open.spotify.com/artist/1Cd5Kq0yfp0WqfiryLu4bu"
+        }
+      ],
+      "duration_ms": 265747,
+      "name": "Dolor",
+      "url": "https://open.spotify.com/track/4fCg5TdCsAaf2sizMKYFjm"
     },
     {
       "added_at": null,
@@ -651,18 +651,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Una Oportunidad",
-        "url": "https://open.spotify.com/album/4siy0X5dG8LiSX2EbGYbV7"
+        "name": "Manjit",
+        "url": "https://open.spotify.com/album/5kWtTiaGy7fsc8SRzP5Grr"
       },
       "artists": [
         {
           "name": "Ali Aka Mind",
           "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        },
+        {
+          "name": "T-Chord",
+          "url": "https://open.spotify.com/artist/3GvdERCXrDLLTKzngNIyMW"
         }
       ],
-      "duration_ms": 213333,
-      "name": "Una Oportunidad",
-      "url": "https://open.spotify.com/track/5bJvvd2M5byWc8t8DJ5dwr"
+      "duration_ms": 201804,
+      "name": "Uno",
+      "url": "https://open.spotify.com/track/61EDQPLruQ9gKRNLTndsGi"
     },
     {
       "added_at": null,
@@ -687,22 +691,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Manjit",
-        "url": "https://open.spotify.com/album/5kWtTiaGy7fsc8SRzP5Grr"
+        "name": "Una Oportunidad",
+        "url": "https://open.spotify.com/album/4siy0X5dG8LiSX2EbGYbV7"
       },
       "artists": [
         {
           "name": "Ali Aka Mind",
           "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
-        },
-        {
-          "name": "T-Chord",
-          "url": "https://open.spotify.com/artist/3GvdERCXrDLLTKzngNIyMW"
         }
       ],
-      "duration_ms": 201804,
-      "name": "Uno",
-      "url": "https://open.spotify.com/track/61EDQPLruQ9gKRNLTndsGi"
+      "duration_ms": 213333,
+      "name": "Una Oportunidad",
+      "url": "https://open.spotify.com/track/5bJvvd2M5byWc8t8DJ5dwr"
     },
     {
       "added_at": null,
@@ -823,46 +823,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Como Un Im\u00e1n",
-        "url": "https://open.spotify.com/album/3H5zHjtNNxTUod4Jev6K27"
-      },
-      "artists": [
-        {
-          "name": "Ali Aka Mind",
-          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
-        },
-        {
-          "name": "Nach",
-          "url": "https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "Como Un Im\u00e1n",
-      "url": "https://open.spotify.com/track/65iaEKnaGA22vX6ahS2RaS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mestizo",
-        "url": "https://open.spotify.com/album/3q3CUqz2XqQwDOFjmWphbw"
-      },
-      "artists": [
-        {
-          "name": "Ali Aka Mind",
-          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
-        },
-        {
-          "name": "Rakaa de Dilated Peoples",
-          "url": "https://open.spotify.com/artist/7Bp2zDaEOWhyWRJOEEUUo0"
-        }
-      ],
-      "duration_ms": 234278,
-      "name": "Nada Nos Para",
-      "url": "https://open.spotify.com/track/5odmSa7DCFFDofSpYgzCik"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cypher Lado B",
         "url": "https://open.spotify.com/album/6EWQflQucPkygMGtzzeVce"
       },
@@ -927,6 +887,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mestizo",
+        "url": "https://open.spotify.com/album/3q3CUqz2XqQwDOFjmWphbw"
+      },
+      "artists": [
+        {
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        },
+        {
+          "name": "Rakaa de Dilated Peoples",
+          "url": "https://open.spotify.com/artist/7Bp2zDaEOWhyWRJOEEUUo0"
+        }
+      ],
+      "duration_ms": 234278,
+      "name": "Nada Nos Para",
+      "url": "https://open.spotify.com/track/5odmSa7DCFFDofSpYgzCik"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Como Un Im\u00e1n",
+        "url": "https://open.spotify.com/album/3H5zHjtNNxTUod4Jev6K27"
+      },
+      "artists": [
+        {
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        },
+        {
+          "name": "Nach",
+          "url": "https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "Como Un Im\u00e1n",
+      "url": "https://open.spotify.com/track/65iaEKnaGA22vX6ahS2RaS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sobrevivente",
         "url": "https://open.spotify.com/album/6m0g5Ap0yUoXH6SoHPAlkW"
       },
@@ -951,6 +951,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Palabras del Alma",
+        "url": "https://open.spotify.com/album/4JTGFe7NhpEVSInPEasMhV"
+      },
+      "artists": [
+        {
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        }
+      ],
+      "duration_ms": 215240,
+      "name": "Palabras del Alma",
+      "url": "https://open.spotify.com/track/503bBnziEGq0pxwV5DHacZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rap Conciencia",
         "url": "https://open.spotify.com/album/6CVQjIWT0jNTyFVcsJfksR"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 232560,
       "name": "Las Cinco Rosas",
       "url": "https://open.spotify.com/track/4KOVgUVYnmcdRdc908Gojp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Palabras del Alma",
-        "url": "https://open.spotify.com/album/4JTGFe7NhpEVSInPEasMhV"
-      },
-      "artists": [
-        {
-          "name": "Ali Aka Mind",
-          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
-        }
-      ],
-      "duration_ms": 215240,
-      "name": "Palabras del Alma",
-      "url": "https://open.spotify.com/track/503bBnziEGq0pxwV5DHacZ"
     },
     {
       "added_at": null,
@@ -1027,26 +1027,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Universos Mixtape",
-        "url": "https://open.spotify.com/album/0CIIttetz5Ts1zwEBki0rN"
-      },
-      "artists": [
-        {
-          "name": "Ali Aka Mind",
-          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
-        },
-        {
-          "name": "Andrade A.K.A Doble A",
-          "url": "https://open.spotify.com/artist/7b9fbzEOUa59TNhgCVIGLU"
-        }
-      ],
-      "duration_ms": 170527,
-      "name": "Otra Pa' Mi Cuenta",
-      "url": "https://open.spotify.com/track/37dPkMfAhfvH3Ndl8ev0cv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "For\u00e1neos",
         "url": "https://open.spotify.com/album/0M5qXlASVuTQd6qu7tf0Fq"
       },
@@ -1067,6 +1047,26 @@
       "duration_ms": 186106,
       "name": "For\u00e1neos",
       "url": "https://open.spotify.com/track/2MOupuZ5SXzWtlE03VN9Ke"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Universos Mixtape",
+        "url": "https://open.spotify.com/album/0CIIttetz5Ts1zwEBki0rN"
+      },
+      "artists": [
+        {
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        },
+        {
+          "name": "Andrade A.K.A Doble A",
+          "url": "https://open.spotify.com/artist/7b9fbzEOUa59TNhgCVIGLU"
+        }
+      ],
+      "duration_ms": 170527,
+      "name": "Otra Pa' Mi Cuenta",
+      "url": "https://open.spotify.com/track/37dPkMfAhfvH3Ndl8ev0cv"
     },
     {
       "added_at": null,

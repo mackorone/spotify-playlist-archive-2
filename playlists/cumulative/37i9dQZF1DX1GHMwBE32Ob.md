@@ -4,7 +4,7 @@
 
 > From the trenches\. Through the streets.<br/>Cover: CKay
 
-482 songs - 22 hr 1 min
+483 songs - 22 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -254,7 +254,7 @@
 | [Juju Pro](https://open.spotify.com/track/0N7DEvhWW02wnppAzxNhF5) | [PRA](https://open.spotify.com/artist/6iQXgvrjqZRVmKjDljaePY), [Smur Lee](https://open.spotify.com/artist/5jF4VfE2TZtAXWYQLe3F8A) | [Juju Pro](https://open.spotify.com/album/1j7jtuErCBXVBpY0WyHDBx) | 2:53 | 2025-08-15 | 2025-09-05 |
 | [JUNGLE](https://open.spotify.com/track/6hp8DmDElPmM53iOP5ZMq9) | [Ayox](https://open.spotify.com/artist/1lxw1eewbvAVmEwJrYUDEx) | [JUNGLE](https://open.spotify.com/album/6mGPEzv6LoeyV9u2hiyty4) | 2:40 | 2024-11-07 |  |
 | [Jungle](https://open.spotify.com/track/4sDJ96gu68rfMzlDNLh5M5) | [Balloranking](https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP) | [Jungle](https://open.spotify.com/album/5aVMinMjVyCFBRAAIlfXNS) | 2:35 | 2025-11-21 | 2026-01-15 |
-| [Kaizen's Intro](https://open.spotify.com/track/05wzOC5B76dXhpT2z9xgKO) | [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN) | [Kaizen](https://open.spotify.com/album/7oxgkgER8SwORZr7Yejlmu) | 2:54 | 2025-11-07 |  |
+| [Kaizen's Intro](https://open.spotify.com/track/05wzOC5B76dXhpT2z9xgKO) | [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN) | [Kaizen](https://open.spotify.com/album/7oxgkgER8SwORZr7Yejlmu) | 2:54 | 2025-11-07 | 2026-05-25 |
 | [Kan Ye \(with Minz\)](https://open.spotify.com/track/1Sy0TOykPMdoVFivlhpsb3) | [10Ten](https://open.spotify.com/artist/7urO0i2T8Ta9E9xAuOD1d6), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [Kan Ye \(with Minz\)](https://open.spotify.com/album/3BobEjjYPHa1ct0bCGC30N) | 2:08 | 2025-10-10 | 2025-11-07 |
 | [KELEBU](https://open.spotify.com/track/6aoKNOL481xVNuqeayQjPj) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [KELEBU](https://open.spotify.com/album/0dTlxJzKKFaUdPoW7aIQIa) | 2:52 | 2025-08-01 | 2026-01-15 |
 | [Kelegbe](https://open.spotify.com/track/0cyG4z70VsqPCjC61v1Oz7) | [21 Payne](https://open.spotify.com/artist/3emxEA3Ja0Ul61lHUIDwuE), [Hotkeed](https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj) | [Kelegbe](https://open.spotify.com/album/5kUKkIrrkJ43rhmDkEP3UW) | 3:00 | 2024-09-13 | 2024-09-20 |
@@ -284,6 +284,7 @@
 | [Loading](https://open.spotify.com/track/558ULLj8yY2vT8XGtgY0q9) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Bad Boy Timz](https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS) | [Carpe Diem](https://open.spotify.com/album/6fG2eFCgUmytQWL6umtsCh) | 3:14 | 2022-06-29 | 2023-11-03 |
 | [Logba](https://open.spotify.com/track/7AP9pu6RfGxLDOZQNLdVhp) | [Kashcoming](https://open.spotify.com/artist/5yJLqKU6LRfzliSQIVnJMI), [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL) | [Logba](https://open.spotify.com/album/2a7nu2JTVltWK2HPN9i34z) | 2:15 | 2024-11-15 | 2024-11-23 |
 | [Logba](https://open.spotify.com/track/0CFGblEeQi2k9563fd95wi) | [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL), [Dj 4kerty](https://open.spotify.com/artist/0xJqq4oOJVpnnUv8h7dOwG), [Kashcoming](https://open.spotify.com/artist/5yJLqKU6LRfzliSQIVnJMI) | [Pawon Boy Vol.1](https://open.spotify.com/album/5dOM4EFOJqqWwK61p7NHO6) | 2:53 | 2024-11-22 | 2025-01-31 |
+| [LOL](https://open.spotify.com/track/0SIYATXVKxxgu5zYTQhAma) | [EMO Grae](https://open.spotify.com/artist/706g3hauVcGV8Ops9uNzMv), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [LOL](https://open.spotify.com/album/7KqiS61BAqMuVru4FSG5X3) | 2:46 | 2026-05-22 |  |
 | [Lonely Road](https://open.spotify.com/track/2aCskdq9N9RczrwEujAV13) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC), [Llona](https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc) | [Lonely Road](https://open.spotify.com/album/4zldXsyHbRQL9nP17xiFom) | 2:37 | 2025-10-10 | 2026-01-15 |
 | [Loner](https://open.spotify.com/track/4VG9WzSYRAsHIVgkZXRX1C) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Loner](https://open.spotify.com/album/3HYQbRL63e1oc98lBQu7gH) | 2:37 | 2024-03-15 |  |
 | [Lotto](https://open.spotify.com/track/4BWX21Z66fCp2y7IxZjJOW) | [Bad Boy Timz](https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS), [Mixtape Madness](https://open.spotify.com/artist/4ocdD0Bi1syVqLs1GiHqQ9) | [Lotto](https://open.spotify.com/album/6trpH2gOheocHdjxeotCNZ) | 3:05 | 2023-08-17 | 2023-09-28 |

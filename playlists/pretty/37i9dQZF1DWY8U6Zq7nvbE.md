@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 
 > Soft and cozy acoustic covers of famous songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,468,279 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,468,489 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 | 15 | [End of Beginning](https://open.spotify.com/track/4V1yfubkZxKCJCMi04I9X2) | [Mellow Boo](https://open.spotify.com/artist/5CHDQxGo8jQFR57do29LMp) | [End of Beginning](https://open.spotify.com/album/2ns3pZFMMaMKf3LbKAFqup) | 2:36 |
 | 16 | [she's all i wanna be](https://open.spotify.com/track/6Dbz3vfI07Ox7QDZTSkNuJ) | [who's heather](https://open.spotify.com/artist/7LCGqAuRA0aJc7pQYfJSq8) | [she's all i wanna be](https://open.spotify.com/album/4yCSGabeo8VEeETk6fg6ul) | 3:17 |
 | 17 | [Don't Start Now](https://open.spotify.com/track/2dIL35obnWkkaMcTqTZUIe) | [Scottie](https://open.spotify.com/artist/5LPJmnBnq8R8c5qG3B7K2K) | [Don't Start Now](https://open.spotify.com/album/4R3pHbMmVbzremPQBw5FQ9) | 2:52 |
-| 18 | [APT.](https://open.spotify.com/track/6gyLIjJ6LI7lCLR7fTJaIs) | [SƎLFISH](https://open.spotify.com/artist/5OkQrED6g8Ui4HyRXFESAP) | [APT.](https://open.spotify.com/album/0bykfqEsCpbW2cETLvIal7) | 2:12 |
-| 19 | [Sex is on fire](https://open.spotify.com/track/32zqCfMfVFcitjp8BMEWv1) | [Isaac Hale](https://open.spotify.com/artist/6Rsd9PL48rBbTSgG75Yjy4) | [Sex is on fire](https://open.spotify.com/album/1NRuLsxSpZ3gMJMyKgN93e) | 2:43 |
+| 18 | [Sex is on fire](https://open.spotify.com/track/32zqCfMfVFcitjp8BMEWv1) | [Isaac Hale](https://open.spotify.com/artist/6Rsd9PL48rBbTSgG75Yjy4) | [Sex is on fire](https://open.spotify.com/album/1NRuLsxSpZ3gMJMyKgN93e) | 2:43 |
+| 19 | [APT.](https://open.spotify.com/track/6gyLIjJ6LI7lCLR7fTJaIs) | [SƎLFISH](https://open.spotify.com/artist/5OkQrED6g8Ui4HyRXFESAP) | [APT.](https://open.spotify.com/album/0bykfqEsCpbW2cETLvIal7) | 2:12 |
 | 20 | [Only Girl In The World](https://open.spotify.com/track/0KOLKV454e5cN98pyHGMjL) | [Norah Davis](https://open.spotify.com/artist/22BqfoPGcFnnj0ldab5D9G) | [Only Girl In The World](https://open.spotify.com/album/3AjamrNkp98f9m0QEDXCDG) | 3:46 |
 | 21 | [Black Hole](https://open.spotify.com/track/4z1iPL7rPrCDcqcKErCArw) | [Jessy Hayden](https://open.spotify.com/artist/5tKkv3I1ZCWfNewxsYdKZi) | [Black Hole](https://open.spotify.com/album/5LRVDPaNyPwACyF9ARWcbr) | 3:22 |
 | 22 | [Girls Just Want to Have Fun](https://open.spotify.com/track/6CEzzw32qK4EqmmdFXaGEv) | [everlow](https://open.spotify.com/artist/6J0QEb88vQc3qthztPSYWd) | [Girls Just Want to Have Fun](https://open.spotify.com/album/0ANpeLpdSK3wVjIt8nJgI4) | 2:53 |

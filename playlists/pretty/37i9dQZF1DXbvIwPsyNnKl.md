@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvIwPsyNnKl.md) - [plain]
 
 > The place for the very best of Pinoy hip\-hop\. Kalye Natin 'To\. Cover: Nik Makino
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,504,171 likes - 51 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,504,468 likes - 51 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "Voices that are elevating nuestra cultura. Cuco en portada. ",
-  "num_followers": 2897,
+  "num_followers": 2899,
   "original_name": "Our Voice",
   "owner": {
     "name": "Spotify",
@@ -319,6 +319,22 @@
     {
       "added_at": "2025-10-10 17:36:00",
       "album": {
+        "name": "COMO DIABLOS",
+        "url": "https://open.spotify.com/album/2w9SPe6QrjqMXXm7eQJxO0"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "duration_ms": 193446,
+      "name": "COMO DIABLOS",
+      "url": "https://open.spotify.com/track/78zXzoQ0TqqfEZKzW03VqA"
+    },
+    {
+      "added_at": "2025-10-10 17:36:00",
+      "album": {
         "name": "DESDE MI HABITACI\u00d3N",
         "url": "https://open.spotify.com/album/3ZxjhNBeDioj81Ft175XPE"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 225537,
       "name": "TE XTRA\u00d1O (With Eslabon Armado)",
       "url": "https://open.spotify.com/track/4ySUM7Cv2sEnNhsmBF0vJd"
-    },
-    {
-      "added_at": "2025-10-10 17:36:00",
-      "album": {
-        "name": "COMO DIABLOS",
-        "url": "https://open.spotify.com/album/2w9SPe6QrjqMXXm7eQJxO0"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        }
-      ],
-      "duration_ms": 193446,
-      "name": "COMO DIABLOS",
-      "url": "https://open.spotify.com/track/78zXzoQ0TqqfEZKzW03VqA"
     },
     {
       "added_at": "2025-10-10 17:36:00",
@@ -535,6 +535,26 @@
     {
       "added_at": "2025-10-10 17:36:00",
       "album": {
+        "name": "centro aLt",
+        "url": "https://open.spotify.com/album/5vAhVxOilOOTVt0lUJEo47"
+      },
+      "artists": [
+        {
+          "name": "aLex vs aLex",
+          "url": "https://open.spotify.com/artist/5faWaRmwlvIin04bFM0tfM"
+        },
+        {
+          "name": "S.3.R",
+          "url": "https://open.spotify.com/artist/1ygBBLwpjIkQl1a7FQ9ljZ"
+        }
+      ],
+      "duration_ms": 174545,
+      "name": "centro aLt",
+      "url": "https://open.spotify.com/track/3AxHAdyJrz8gZ1Yr981KA5"
+    },
+    {
+      "added_at": "2025-10-10 17:36:00",
+      "album": {
         "name": "NOS SOLTAMOS chiliado",
         "url": "https://open.spotify.com/album/3Mmkzg9JwpsW5tMFXdR9TU"
       },
@@ -555,26 +575,6 @@
       "duration_ms": 222806,
       "name": "NOS SOLTAMOS chiliado",
       "url": "https://open.spotify.com/track/3TIpyCI4AWifaJdIlNmTdv"
-    },
-    {
-      "added_at": "2025-10-10 17:36:00",
-      "album": {
-        "name": "centro aLt",
-        "url": "https://open.spotify.com/album/5vAhVxOilOOTVt0lUJEo47"
-      },
-      "artists": [
-        {
-          "name": "aLex vs aLex",
-          "url": "https://open.spotify.com/artist/5faWaRmwlvIin04bFM0tfM"
-        },
-        {
-          "name": "S.3.R",
-          "url": "https://open.spotify.com/artist/1ygBBLwpjIkQl1a7FQ9ljZ"
-        }
-      ],
-      "duration_ms": 174545,
-      "name": "centro aLt",
-      "url": "https://open.spotify.com/track/3AxHAdyJrz8gZ1Yr981KA5"
     },
     {
       "added_at": "2025-10-10 17:36:00",

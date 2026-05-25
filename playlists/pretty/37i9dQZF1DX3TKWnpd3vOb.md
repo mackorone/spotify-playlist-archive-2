@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TKWnpd3vOb.md) - [plain]
 
 > Encuentra un mix de clásicos y nuevos talentos\. Foto: Los Tres
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,407 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,414 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,12 +21,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TKWnpd3vOb.md) - [plain]
 | 11 | [Noviembre](https://open.spotify.com/track/4tmRbBGXBf7UZTjcRHOMdY) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [Noviembre](https://open.spotify.com/album/0dlauudMf58IRyIAxj5knN) | 3:51 |
 | 12 | [Nunca Nunca](https://open.spotify.com/track/0o7JL5BSJuW43aeQI5cP3B) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [NUNCA NUNCA](https://open.spotify.com/album/3wpT1eo3XhqomrxIiaLLj1) | 4:41 |
 | 13 | [¡Respira!](https://open.spotify.com/track/6sOOUEkE4AF4BIdC7U1Hqv) | [Beto Cuevas](https://open.spotify.com/artist/0kUZTk2JLPEAUyCWoN6eoL) | [¡Respira!](https://open.spotify.com/album/4s2waJJMAp7DCJrJ50GudD) | 4:02 |
-| 14 | [La Torre de Babel \(Revuelta en vivo\)](https://open.spotify.com/track/4PRLV1XqwcU8hlbix9UB9f) | [Los Tres](https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S) | [Revuelta En Vivo](https://open.spotify.com/album/2ym8AVQH15hneb9a4des9V) | 3:30 |
+| 14 | [Un Amor Violento \(Revuelta en vivo\)](https://open.spotify.com/track/7Be5ECa3Cs7VfORwZxJs0I) | [Los Tres](https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S) | [Revuelta En Vivo](https://open.spotify.com/album/2ym8AVQH15hneb9a4des9V) | 4:51 |
 | 15 | [Te Amodio](https://open.spotify.com/track/4TLJbIecJRSJqCXbX5bYHi) | [Sinergia](https://open.spotify.com/artist/1OgaghfYd1qr8DFoNrfDNk) | [Te Amodio](https://open.spotify.com/album/4ChALgLMpdJnzpROKqVtes) | 3:14 |
 | 16 | [Rey](https://open.spotify.com/track/3rS6pLKhoZ8m0Z5vqgoCfc) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [Rey](https://open.spotify.com/album/5IMv5sPdSP7leaSaehgacp) | 3:43 |
 | 17 | [LA WEÁ](https://open.spotify.com/track/4hy5vm3FW1Mk6S58vq6MVk) | [Plumas](https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg), [Marki](https://open.spotify.com/artist/6OiBMIN8nDABlTUSSLGgVj), [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf) | [LA WEÁ](https://open.spotify.com/album/5JYpBK9MW7ia6Nn95jy0Nv) | 2:50 |
 | 18 | [Ella es de Ella](https://open.spotify.com/track/3NBJ3ZHjVLKhROv9vyB449) | [Chinoy](https://open.spotify.com/artist/7ah2GYpn05JkpAIk7vop8g) | [Ella es de Ella](https://open.spotify.com/album/0ysyQSkGKg5GxdlrbxDwyp) | 4:32 |
-| 19 | [Un Amor Violento \(Revuelta en vivo\)](https://open.spotify.com/track/7Be5ECa3Cs7VfORwZxJs0I) | [Los Tres](https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S) | [Revuelta En Vivo](https://open.spotify.com/album/2ym8AVQH15hneb9a4des9V) | 4:51 |
+| 19 | [La Torre de Babel \(Revuelta en vivo\)](https://open.spotify.com/track/4PRLV1XqwcU8hlbix9UB9f) | [Los Tres](https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S) | [Revuelta En Vivo](https://open.spotify.com/album/2ym8AVQH15hneb9a4des9V) | 3:30 |
 | 20 | [Traicionarse](https://open.spotify.com/track/0qG3gzcSJSs80Ln7kHPiIL) | [Los Animales También Se Suicidan](https://open.spotify.com/artist/18FgNgLaepUxsAIWuD8K9T) | [Traicionarse](https://open.spotify.com/album/3U7I3y7jTE2IRQp7n7mfeU) | 3:13 |
 | 21 | [Infiel](https://open.spotify.com/track/6wKBgNVGgDT1wT6dQhJa2Q) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [Infiel](https://open.spotify.com/album/1EL3qmK14CMawfXH5hlAFb) | 4:13 |
 | 22 | [Te van a olvidar](https://open.spotify.com/track/2cZjl4wIclVjzFzCZYVQRP) | [Plumas](https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg), [Pedro Piedra](https://open.spotify.com/artist/18rP7uwYEhsn4DdRCxEVf3) | [Te van a olvidar](https://open.spotify.com/album/458faUpDTootevU4wWRBY9) | 4:01 |

@@ -9035,6 +9035,24 @@
     },
     {
       "album": {
+        "name": "Dean Martin Best Ever Collection!",
+        "url": "https://open.spotify.com/album/6rjv4jQEQ7Y16WVEEYL6Da"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "date_added": "2026-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164800,
+      "name": "Sway",
+      "url": "https://open.spotify.com/track/0wtUHJEdlPn2xdam9EwXab"
+    },
+    {
+      "album": {
         "name": "Dean's Best Hits: Legendary Jazz Love Songs & the 50's Sound",
         "url": "https://open.spotify.com/album/6YpWqOuSallsE1rbPs414O"
       },
@@ -9046,7 +9064,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-25",
       "duration_ms": 172381,
       "name": "Sway",
       "url": "https://open.spotify.com/track/3RzRdMqYzVOtAqsCk5vuQp"

@@ -4,7 +4,7 @@
 
 > If you're blessed!
 
-616 songs - 1 day 16 hr 59 min
+617 songs - 1 day 17 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Baba Ibeji](https://open.spotify.com/track/11L9IIVIAKloKykPmMUeD6) | [Mike Abdul](https://open.spotify.com/artist/2xsK8uSdgTzy65SicS3LzK) | [Baba Ibeji](https://open.spotify.com/album/65jLZyoYDzF5ch4AgO8cU2) | 4:14 | 2025-09-26 | 2025-11-07 |
 | [Baba Modupe](https://open.spotify.com/track/5eHL0zrUKt5X0t2EBUVVi4) | [Tkeyz](https://open.spotify.com/artist/6MRNiMCUDv9mDmMcaXhjgI), [Gaise Baba](https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo) | [Baba Modupe](https://open.spotify.com/album/3CN7WpsAVuE4CLmBRr90lj) | 3:05 | 2026-01-16 | 2026-02-27 |
 | [Baba/you make me wonder/Somebody say baba \- Medley](https://open.spotify.com/track/5FcbPL756b2dcFx4je23yt) | [Aghogho](https://open.spotify.com/artist/4yAFPEJ5k77Ev31V4e5POh) | [Baba/you make me wonder/Somebody say baba \(Medley\)](https://open.spotify.com/album/1pPixdneRSUufeEM1D00JQ) | 7:58 | 2025-12-12 | 2026-02-06 |
+| [BASKET OF PRAISE 3.0](https://open.spotify.com/track/6qpKHL8qjscYrzfYoSJoG9) | [Deborah Ajayi](https://open.spotify.com/artist/5BSaqURPjcHhZCV7wgOYSA) | [BASKET OF PRAISE 3.0](https://open.spotify.com/album/1AxiH14ITXCa3JU25v8ZTT) | 26:55 | 2026-05-22 |  |
 | [Beautiful](https://open.spotify.com/track/7j34VbruHObgUOHIaxpMMw) | [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu), [Chizie](https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE) | [Colors of Grace](https://open.spotify.com/album/6Zo1lc8tSnw61EOjjPWcN0) | 2:25 | 2024-11-15 | 2025-02-28 |
 | [Before I Pray](https://open.spotify.com/track/0NVbSTEsMZMevw6OiOeLFa) | [MUNACHi4u](https://open.spotify.com/artist/6xOOLSoOB6VI4n6X5pexao), [Munachi](https://open.spotify.com/artist/0leZlPELCIzuli3P2BltF8) | [From The East](https://open.spotify.com/album/5JcwlqoGbAXqAv5WOP1PPj) | 2:08 | 2025-10-24 | 2026-01-15 |
 | [Benefit](https://open.spotify.com/track/36sznNt2BniOB8BWYpWYmP) | [Rotimikeys](https://open.spotify.com/artist/6kMfCacgijUReCAskGVQwR), [Gaise Baba](https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo) | [Benefit](https://open.spotify.com/album/67V2Bol3ar6ZqB5PXL7MQ8) | 6:59 | 2025-10-17 |  |
@@ -533,7 +534,7 @@
 | [The Blessing \(Live\)](https://open.spotify.com/track/5O306r2a9Nl7rm5ZlaTqka) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2), [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Graves Into Gardens \(Live\)](https://open.spotify.com/album/3obyvHd0Ja2gZaPQMerTU6) | 8:27 | 2024-09-27 |  |
 | [The Journey](https://open.spotify.com/track/1BwtXJJhh2WHMCzGEmOr3X) | [Vic Lucas](https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG), [Victorious Lucas](https://open.spotify.com/artist/1pHZMBHrislFKRnW5mto8q), [House of Faith](https://open.spotify.com/artist/2gd3Nx0mLp4GLIODtehPDy) | [The Journey](https://open.spotify.com/album/6rlWTLxhAEjkWyF3LACWRL) | 3:26 | 2025-10-31 | 2025-11-14 |
 | [The Love Medley](https://open.spotify.com/track/1osUJMsDdl3AGiMaiiYmpe) | [KobbySalm](https://open.spotify.com/artist/0O4MEIc9HB5MiTfQX5eKNB), [Achiaamusic](https://open.spotify.com/artist/5xPYTQWXbUEcjrT6pMrksd) | [The Love Medley](https://open.spotify.com/album/6K3j3yUQ6XPZH9uR49ZsDn) | 5:46 | 2025-02-14 | 2025-03-21 |
-| [The Lover](https://open.spotify.com/track/6v4W9CW3BzHU6a38FaIq7v) | [Frank Edwards](https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg) | [The Lover](https://open.spotify.com/album/3HCRvYPY5SQhWZZBaD8Xkd) | 2:55 | 2025-11-28 |  |
+| [The Lover](https://open.spotify.com/track/6v4W9CW3BzHU6a38FaIq7v) | [Frank Edwards](https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg) | [The Lover](https://open.spotify.com/album/3HCRvYPY5SQhWZZBaD8Xkd) | 2:55 | 2025-11-28 | 2026-05-25 |
 | [The Promise](https://open.spotify.com/track/6VxdkBsUSPrYrUMz05jX6G) | [ECHO EDGE](https://open.spotify.com/artist/1hlvpNS7MoN7MlfxcxxQ8j), [Beauty Ben](https://open.spotify.com/artist/5r4o4ePBQDLWdQe1ALggze), [Spillz Ochai](https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q) | [The Promise](https://open.spotify.com/album/1gPSuc4rq8vsCIyDAB8RPZ) | 2:37 | 2025-07-18 | 2025-08-16 |
 | [The Sheep's song](https://open.spotify.com/track/0tOHTAHJL0T5szANGPQ5aK) | [Maikon West](https://open.spotify.com/artist/3QKJ7PXenJvvf1MiicgBIG), [Kris Grant](https://open.spotify.com/artist/3ohMd9D8nMYIxHbV9eS0AQ) | [Shepherd Vol\. 2](https://open.spotify.com/album/7rDnwsjzCSWokOQDmaq631) | 2:39 | 2024-11-08 | 2025-02-07 |
 | [the sound of being okay](https://open.spotify.com/track/3SwukFJJk27HmmDnhaBImE) | [Rhea Marcia](https://open.spotify.com/artist/4Bo5E56WyNTJjVyxbRhksJ) | [the sound of being okay](https://open.spotify.com/album/5bmY6uvR88LXQUldxjMwPt) | 3:17 | 2025-12-19 | 2026-04-03 |

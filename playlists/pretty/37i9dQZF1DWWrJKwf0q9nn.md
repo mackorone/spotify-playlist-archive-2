@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrJKwf0q9nn.md) - [plain]
 
 > Wekelijkse update! Cover: Robin Schulz & BARBZ
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,256 likes - 102 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,261 likes - 102 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

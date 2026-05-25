@@ -1,6 +1,6 @@
 {
   "description": "The rule breakers who shaped the punk rock ethos, and the artists who carry it forward today. Cover: Amy Taylor (Amyl and The Sniffers)",
-  "num_followers": 14513,
+  "num_followers": 14678,
   "original_name": "Women of Punk",
   "owner": {
     "name": "Spotify",
@@ -855,22 +855,6 @@
     {
       "added_at": "2026-03-05 23:16:41",
       "album": {
-        "name": "Pottymouth",
-        "url": "https://open.spotify.com/album/7lzJitndL2gmgt4cP4tmnj"
-      },
-      "artists": [
-        {
-          "name": "Bratmobile",
-          "url": "https://open.spotify.com/artist/3GTaO7e3uPaG0SJR7Hxy8L"
-        }
-      ],
-      "duration_ms": 123200,
-      "name": "Cool Schmool",
-      "url": "https://open.spotify.com/track/65bY1D2pZJkNTDrxWncY8W"
-    },
-    {
-      "added_at": "2026-03-05 23:16:41",
-      "album": {
         "name": "Worldwide",
         "url": "https://open.spotify.com/album/1Lej9DPOh2ljmeiyKTFHrz"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 154195,
       "name": "Worldwide",
       "url": "https://open.spotify.com/track/05TRbrINOYAeoOCRy4jbMW"
+    },
+    {
+      "added_at": "2026-03-05 23:16:41",
+      "album": {
+        "name": "Pottymouth",
+        "url": "https://open.spotify.com/album/7lzJitndL2gmgt4cP4tmnj"
+      },
+      "artists": [
+        {
+          "name": "Bratmobile",
+          "url": "https://open.spotify.com/artist/3GTaO7e3uPaG0SJR7Hxy8L"
+        }
+      ],
+      "duration_ms": 123200,
+      "name": "Cool Schmool",
+      "url": "https://open.spotify.com/track/65bY1D2pZJkNTDrxWncY8W"
     },
     {
       "added_at": "2026-03-05 23:16:41",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2026-03-05 23:16:41",
       "album": {
-        "name": "Last Breath",
-        "url": "https://open.spotify.com/album/1ABI2KGtoAW8aiJZ8KZyap"
-      },
-      "artists": [
-        {
-          "name": "Upchuck",
-          "url": "https://open.spotify.com/artist/7mhCgHESQzEKKyWshkMTwW"
-        }
-      ],
-      "duration_ms": 110758,
-      "name": "Last Breath",
-      "url": "https://open.spotify.com/track/7xcWsqQONJZtcOdduYsdko"
-    },
-    {
-      "added_at": "2026-03-05 23:16:41",
-      "album": {
         "name": "Cut (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6ppPT0aXOtsAlG1QQVB9E0"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 95960,
       "name": "Shoplifting",
       "url": "https://open.spotify.com/track/6pY6AdtuZixaErD7xLt5Z6"
+    },
+    {
+      "added_at": "2026-03-05 23:16:41",
+      "album": {
+        "name": "Last Breath",
+        "url": "https://open.spotify.com/album/1ABI2KGtoAW8aiJZ8KZyap"
+      },
+      "artists": [
+        {
+          "name": "Upchuck",
+          "url": "https://open.spotify.com/artist/7mhCgHESQzEKKyWshkMTwW"
+        }
+      ],
+      "duration_ms": 110758,
+      "name": "Last Breath",
+      "url": "https://open.spotify.com/track/7xcWsqQONJZtcOdduYsdko"
     },
     {
       "added_at": "2026-03-05 23:16:41",

@@ -4,7 +4,7 @@
 
 > De stærkeste nye sange fra de seneste par måneder\. Så er du opdateret!
 
-1,105 songs - 2 day 9 hr 43 min
+1,106 songs - 2 day 9 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [2 The Moon](https://open.spotify.com/track/5fbigfxYwz6fGGxe8Py57t) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [DJ Buddha](https://open.spotify.com/artist/2m7JzVtYyAwdU0CnET9IvA) | [2 The Moon](https://open.spotify.com/album/4jl6uAmBT25q5BtSxz2rRZ) | 3:05 | 2024-07-31 | 2024-08-24 |
 | [2008](https://open.spotify.com/track/5S2fYAHI2zwSIc2RWcFL7V) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [The Alexander Technique](https://open.spotify.com/album/5HSZsS7TGsyMvur547zjVe) | 2:33 | 2024-09-12 | 2024-10-19 |
 | [21st Century Cool Girl](https://open.spotify.com/track/5dUOWlWWYdAgqeXwTgbaKt) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [21st Century Cool Girl](https://open.spotify.com/album/7ktbGLp7ZUIsBMo97MHXVO) | 3:17 | 2025-01-24 | 2025-03-09 |
+| [24 Hours](https://open.spotify.com/track/3xucyI8yC8RNSaE5QOeFxB) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [24 Hours](https://open.spotify.com/album/6h8MihL1baSyYITmOxrIxP) | 3:17 | 2026-05-21 |  |
 | [2SIDED](https://open.spotify.com/track/1kdHE79HtKUGmJ1vDyp69j) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [2SIDED](https://open.spotify.com/album/7c96M3LIPAXq2J7I8dR8SL) | 2:57 | 2026-01-15 | 2026-04-12 |
 | [4 Kampé II](https://open.spotify.com/track/2fhVsI54lSCFyW7sw5WPfR) | [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [4 Kampé II](https://open.spotify.com/album/15TFuzRGsXwFuW1HzwoQNk) | 3:31 | 2025-03-31 | 2025-04-15 |
 | [4 LIFE](https://open.spotify.com/track/0o5ibKv2wHgbjYXtGuKQ2r) | [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82), [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt) | [4 LIFE](https://open.spotify.com/album/3y3ecFqLH3IcIMr6owmcQL) | 2:46 | 2024-09-11 | 2024-11-15 |
@@ -374,7 +375,7 @@
 | [Før Vi Går Hjem](https://open.spotify.com/track/2qG6vr8fMq2abvKu7qXVuQ) | [Søren Torpegaard Lund](https://open.spotify.com/artist/3rsoXGq0iJcc5zK4RRKg1Z) | [Før Vi Går Hjem](https://open.spotify.com/album/6DIbkPf3IfXlhovI4F25Pb) | 2:54 | 2026-05-14 |  |
 | [Før Vi Går Hjem](https://open.spotify.com/track/6KnX2pkecFELGtegM26ezf) | [Søren Torpegaard Lund](https://open.spotify.com/artist/3rsoXGq0iJcc5zK4RRKg1Z) | [Før Vi Går Hjem](https://open.spotify.com/album/0eacHMmOEg0lccpmgf0do3) | 2:54 | 2026-02-16 | 2026-05-08 |
 | [Galt Med Mig](https://open.spotify.com/track/5NgJ6hUZAmgr7baIMxfNKO) | [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82) | [Galt Med Mig](https://open.spotify.com/album/6oUMRdYiNFCiBCS5BHIFAU) | 2:55 | 2026-03-19 | 2026-03-27 |
-| [Game On \(ft\. JT\)](https://open.spotify.com/track/7EI4Scb5kZkSeympsOtP9h) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m) | [Sugar Girl](https://open.spotify.com/album/1CJBeo8t68wKcsvN4QRuLI) | 2:29 | 2026-05-21 |  |
+| [Game On \(ft\. JT\)](https://open.spotify.com/track/7EI4Scb5kZkSeympsOtP9h) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m) | [Sugar Girl](https://open.spotify.com/album/1CJBeo8t68wKcsvN4QRuLI) | 2:29 | 2026-05-21 | 2026-05-25 |
 | [GBP \(feat\. 21 Savage\)](https://open.spotify.com/track/5emD8K39MmotlCLOx9qzCH) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [GBP \(feat\. 21 Savage\)](https://open.spotify.com/album/4Ep5kfo5Z40qVV0vBYC8De) | 2:34 | 2025-01-17 | 2025-04-01 |
 | [Gemt Dit Nummer](https://open.spotify.com/track/5oLLC1Enkdr3TB03wFHFx0) | [Burhan G](https://open.spotify.com/artist/14nVYgOiwVBJIEATXIDYC8), [Medina](https://open.spotify.com/artist/7c7ZeiPKWHf2E1rsf1P4VF) | [Gemt Dit Nummer](https://open.spotify.com/album/1FJeiGJjSMBPV4Z3qwc9Xv) | 2:47 | 2026-04-17 |  |
 | [Georgia Ways \(with Teddy Swims & Luke Bryan\)](https://open.spotify.com/track/64YCRnMmAcj4982RtwNaag) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Georgia Ways \(with Teddy Swims & Luke Bryan\)](https://open.spotify.com/album/4MvWcgCB3dBfSgW8dctJ2h) | 2:48 | 2024-12-06 | 2025-02-25 |

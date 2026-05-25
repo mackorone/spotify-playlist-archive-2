@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCRpjXigf8o.md) - [plain]
 
 > 爽やかな1日を、スロー〜ミッドテンポな音楽と共に心地よくスタートしませんか？？
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,942 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,946 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCRpjXigf8o.md) - [plain]
 | 64 | [黄昏メロウ](https://open.spotify.com/track/3QHjbtUyJkPhycNxnygPT0) | [Ohashi Trio](https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E) | [カラタチの夢](https://open.spotify.com/album/0GQmfz006T3QqIQ1bRMdVv) | 4:25 |
 | 65 | [唄が歩く時](https://open.spotify.com/track/79EUfmvj3VwRlbzke3s4HO) | [YONA YONA WEEKENDERS](https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR) | [唄が歩く時](https://open.spotify.com/album/4VAkCYiPGkPOPGdloGVZwY) | 3:50 |
 | 66 | [Apple](https://open.spotify.com/track/0SvDsyzmibzVFrG3pl167V) | [Haruy](https://open.spotify.com/artist/1fUfOzkQ6XFNv0JMdl3afw) | [Apple](https://open.spotify.com/album/0LLoFRBwIW3CtFmzBF0MHu) | 4:08 |
-| 67 | [all my perfects](https://open.spotify.com/track/1FGx26WseTAqrpd0pR03JW) | [lovlaine](https://open.spotify.com/artist/4vQImXwkGScLSMJGLdFaXx) | [lovlaine \(The Deluxe Album\)](https://open.spotify.com/album/4wf7qqSLhddnZm9gF6u1Na) | 3:38 |
-| 68 | [PERFECT](https://open.spotify.com/track/0HjrhgjXi2yKUm1lTlm2Cq) | [Nenashi](https://open.spotify.com/artist/675S7vvHTkabWlPQinidmX) | [TIME SLIP](https://open.spotify.com/album/0vS4ZBuvy8i8dibPsAp8fo) | 4:28 |
+| 67 | [PERFECT](https://open.spotify.com/track/0HjrhgjXi2yKUm1lTlm2Cq) | [Nenashi](https://open.spotify.com/artist/675S7vvHTkabWlPQinidmX) | [TIME SLIP](https://open.spotify.com/album/0vS4ZBuvy8i8dibPsAp8fo) | 4:28 |
+| 68 | [all my perfects](https://open.spotify.com/track/1FGx26WseTAqrpd0pR03JW) | [lovlaine](https://open.spotify.com/artist/4vQImXwkGScLSMJGLdFaXx) | [lovlaine \(The Deluxe Album\)](https://open.spotify.com/album/4wf7qqSLhddnZm9gF6u1Na) | 3:38 |
 | 69 | [My Way Home](https://open.spotify.com/track/1PmHzy1AebjGRue4hYVkpM) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx) | [Wonder, Won't You?](https://open.spotify.com/album/3aVD5rqyzp6fzi4do8MI1y) | 3:37 |
 | 70 | [Pools of Colour](https://open.spotify.com/track/4ivOVhC9eZzzK28qQMZdoC) | [junodream](https://open.spotify.com/artist/4jPWi4cSe5zK2dUCLWiBaN) | [Pools of Colour](https://open.spotify.com/album/2q5a2Z5nnjRDwdvHIRfJcL) | 3:48 |
 | 71 | [Move On](https://open.spotify.com/track/09PNPXGzX8BQuCcbpDz3ul) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [Move On](https://open.spotify.com/album/1MSNZN04MIYi6g61BXO54t) | 2:42 |
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCRpjXigf8o.md) - [plain]
 | 84 | [夢にならないように](https://open.spotify.com/track/7FZEAOoUYZiIhvQCxzUPV0) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [夢にならないように](https://open.spotify.com/album/6fselSaEhSSEmnzcEyNfTV) | 4:28 |
 | 85 | [Time](https://open.spotify.com/track/6SxkiETU36VnbiJk9jNxQ8) | [Eels](https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl) | [TIME](https://open.spotify.com/album/1TWjKSJNJ7WUbSxSqelrES) | 2:25 |
 | 86 | [maybe](https://open.spotify.com/track/40MvEAg63reIXptL6U0ksZ) | [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb) | [maybe](https://open.spotify.com/album/0crSGw57b2pARwMMz3qnBF) | 3:41 |
-| 87 | [Tanana](https://open.spotify.com/track/5U1bU8Km0S3jrMfY0udtsu) | [Masakatsu Takagi](https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N), [Clémentine](https://open.spotify.com/artist/6A03sWpZmAsYFVV5f6IGVQ) | [スタジオ地図 Music Journey Vol\. 2 \- 高木正勝 うたの時間](https://open.spotify.com/album/5nV7q6plyHYqgHdWlTHDl4) | 3:31 |
-| 88 | [朝日のあたる道](https://open.spotify.com/track/5jEMga8fWv3tNHVq2EISKr) | [Original Love](https://open.spotify.com/artist/76QaFuQNldIJkAkDmaMAck) | [オリジナルラヴ・アーリーコンプリート](https://open.spotify.com/album/6HlglVJs9ZhhqlN42ocK26) | 5:03 |
+| 87 | [朝日のあたる道](https://open.spotify.com/track/5jEMga8fWv3tNHVq2EISKr) | [Original Love](https://open.spotify.com/artist/76QaFuQNldIJkAkDmaMAck) | [オリジナルラヴ・アーリーコンプリート](https://open.spotify.com/album/6HlglVJs9ZhhqlN42ocK26) | 5:03 |
+| 88 | [Tanana](https://open.spotify.com/track/5U1bU8Km0S3jrMfY0udtsu) | [Masakatsu Takagi](https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N), [Clémentine](https://open.spotify.com/artist/6A03sWpZmAsYFVV5f6IGVQ) | [スタジオ地図 Music Journey Vol\. 2 \- 高木正勝 うたの時間](https://open.spotify.com/album/5nV7q6plyHYqgHdWlTHDl4) | 3:31 |
 | 89 | [Easy](https://open.spotify.com/track/1gIPa9lKYq33Y7B9bJoBau) | [TAIKING](https://open.spotify.com/artist/5HLC9fMLoFX5wSst6we011) | [Easy](https://open.spotify.com/album/2kKGCcO1yYBdkbUMRb2VxJ) | 3:58 |
 | 90 | [Cuero Dudes](https://open.spotify.com/track/4z3zFBYGC4x4esUbnjqsva) | [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [Cuero Dudes / Beauty Opens Doors](https://open.spotify.com/album/08zvbZIUq3mHkIF7uDVgVr) | 4:58 |
 | 91 | [君は言うかな](https://open.spotify.com/track/41hpqH0V4sz4FvZ2JOfBDb) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [君は言うかな](https://open.spotify.com/album/2RH9084rMEQaLhFSIeEHny) | 4:27 |

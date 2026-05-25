@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLJ0paT1JkgZ.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Chile.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,784 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,783 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLJ0paT1JkgZ.md) - [plain]
 | 49 | [La Plena \- W Sound 05](https://open.spotify.com/track/6iOndD4OFo7GkaDypWQIou) | [W Sound](https://open.spotify.com/artist/5uwa6tAMMfNbBFIHiI6NV4), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [La Plena \(W Sound 05\)](https://open.spotify.com/album/4Xdo78uvvt1P7rWRX8TOPt) | 2:30 |
 | 50 | [HOTEL](https://open.spotify.com/track/72Cp6EZ55iI9ZyO7WEBZtr) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Tobal Mj](https://open.spotify.com/artist/2BJWqrBKEqtZUKWtzmpPDj), [Lyon la f](https://open.spotify.com/artist/55gv2ZtVnRE0Hd8LwvXTye), [Nacho G Flow](https://open.spotify.com/artist/6RGDPzIqEVP895rTeeYk2Q) | [JEREMIAS](https://open.spotify.com/album/3DShOnGU64m1mESFNJoOA0) | 3:10 |
 
-Snapshot ID: `MaUfKAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MaZzAAAAAAAAAAAAAAAAAAAAAAAAAGVu`

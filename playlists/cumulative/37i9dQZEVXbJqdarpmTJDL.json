@@ -308,7 +308,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-25",
       "duration_ms": 136363,
       "name": "1312",
       "url": "https://open.spotify.com/track/69chHeg2r9vrkkEhGcmxdg"
@@ -6406,7 +6406,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-24",
+      "date_removed": null,
       "duration_ms": 161952,
       "name": "BADMAN",
       "url": "https://open.spotify.com/track/0B015hZa7aYSZCpPAa4iPy"
@@ -10862,7 +10862,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-24",
+      "date_removed": null,
       "duration_ms": 203244,
       "name": "CHATGPT",
       "url": "https://open.spotify.com/track/5m9pK3a3oMIbZHThbyraDi"
@@ -20060,7 +20060,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-25",
       "duration_ms": 160515,
       "name": "FRISBEE",
       "url": "https://open.spotify.com/track/4YMgCGFIl1sN6cVI842du9"
@@ -29232,6 +29232,28 @@
       "duration_ms": 154705,
       "name": "KOUKLA",
       "url": "https://open.spotify.com/track/2OtlJi8vzajxp51W9gYwCO"
+    },
+    {
+      "album": {
+        "name": "XWRA TOU POTE",
+        "url": "https://open.spotify.com/album/3kVd0M1tWpCiT2io2OsIqE"
+      },
+      "artists": [
+        {
+          "name": "Sicario",
+          "url": "https://open.spotify.com/artist/6x0pz3N2n51qG75kjMR4uV"
+        },
+        {
+          "name": "Beyond",
+          "url": "https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP"
+        }
+      ],
+      "date_added": "2026-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154705,
+      "name": "KOUKLA",
+      "url": "https://open.spotify.com/track/46jdCQtmK4V8sfJVerFY7g"
     },
     {
       "album": {
@@ -42194,7 +42216,7 @@
       ],
       "date_added": "2025-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-24",
+      "date_removed": null,
       "duration_ms": 208000,
       "name": "PARADISO",
       "url": "https://open.spotify.com/track/74eCVhPx2IXqqrqLxGLiPN"
@@ -50890,7 +50912,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-25",
       "duration_ms": 182727,
       "name": "spastoSPASTO",
       "url": "https://open.spotify.com/track/53NL9kIqpbSb09msCKBaT5"
@@ -51846,7 +51868,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-25",
       "duration_ms": 145479,
       "name": "STRATOSFERA",
       "url": "https://open.spotify.com/track/5JYJrPJ9A0LiUsM3lrVJMx"
@@ -52338,7 +52360,7 @@
       ],
       "date_added": "2026-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-24",
+      "date_removed": null,
       "duration_ms": 153070,
       "name": "SUPERSTAR",
       "url": "https://open.spotify.com/track/0W3PAUx1JAwQLaSom4Q8jA"
@@ -61156,7 +61178,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-25",
       "duration_ms": 139793,
       "name": "ZORO",
       "url": "https://open.spotify.com/track/4EyUAzD2ctcDjrZ1aeowYC"

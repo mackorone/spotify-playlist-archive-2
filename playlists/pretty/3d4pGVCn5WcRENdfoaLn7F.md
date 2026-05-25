@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 
 > These are some independent alternative rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 672 likes - 116 songs - 6 hr 40 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 676 likes - 117 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,5 +124,6 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 | 114 | [We Met In Our Eyes](https://open.spotify.com/track/6HZjgiD2rvIILnO0Mza8nf) | [Starikova](https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA) | [We Met In Our Eyes](https://open.spotify.com/album/0evetXbbhKlMFJNwwiVXwx) | 4:21 |
 | 115 | [Solid Ground](https://open.spotify.com/track/0NM15moIfu431ttU9B4aTs) | [Summer's Brother](https://open.spotify.com/artist/3UWbg10eG8C4P0PYUONcRe) | [Solid Ground](https://open.spotify.com/album/1SrzDxhLRSaHJUgBWo4PJb) | 3:25 |
 | 116 | [Lunacy](https://open.spotify.com/track/7DtuvDVcRivrUi3APqZGV4) | [Fawn Breaks](https://open.spotify.com/artist/4mknVe62YqncX0zyrabvaP) | [Ram](https://open.spotify.com/album/5szsh2mU4FCxvelrOBiLyY) | 3:15 |
+| 117 | [Just Kids](https://open.spotify.com/track/3L37KpIq1wOhstRffRSFUf) | [The Homme](https://open.spotify.com/artist/4U836xTjRfFYfYctNxJFmm) | [Just Kids](https://open.spotify.com/album/7l7Zykod8wQDXnpXridxy8) | 3:46 |
 
-Snapshot ID: `AAADfJ2c8RwBWJKYYNk/W4S+82pB9oIF`
+Snapshot ID: `AAADfXMBmuL85CECHicpqLOvVSknepzx`

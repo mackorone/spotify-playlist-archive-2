@@ -1,6 +1,6 @@
 {
   "description": "Grab a drink and relax to the Jazz played in the background at the bar.",
-  "num_followers": 196592,
+  "num_followers": 196638,
   "original_name": "Jazz Bar",
   "owner": {
     "name": "Spotify",
@@ -115,22 +115,6 @@
     {
       "added_at": "2026-04-01 09:07:54",
       "album": {
-        "name": "Something Nice",
-        "url": "https://open.spotify.com/album/1eudqXesmmxC08VZaNtEaq"
-      },
-      "artists": [
-        {
-          "name": "Etta Jones",
-          "url": "https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0"
-        }
-      ],
-      "duration_ms": 126293,
-      "name": "Till There Was You",
-      "url": "https://open.spotify.com/track/7n8HjcaEQzwwpyxHdjWjQq"
-    },
-    {
-      "added_at": "2026-04-01 09:07:54",
-      "album": {
         "name": "Nancy Wilson/Cannonball Adderley",
         "url": "https://open.spotify.com/album/6yyNgCQNsJ3VJ9PP7CmvLJ"
       },
@@ -147,6 +131,22 @@
       "duration_ms": 258106,
       "name": "The Masquerade Is Over",
       "url": "https://open.spotify.com/track/1jf3wYtynxiPOdhqAp3cUN"
+    },
+    {
+      "added_at": "2026-04-01 09:07:54",
+      "album": {
+        "name": "Something Nice",
+        "url": "https://open.spotify.com/album/1eudqXesmmxC08VZaNtEaq"
+      },
+      "artists": [
+        {
+          "name": "Etta Jones",
+          "url": "https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0"
+        }
+      ],
+      "duration_ms": 126293,
+      "name": "Till There Was You",
+      "url": "https://open.spotify.com/track/7n8HjcaEQzwwpyxHdjWjQq"
     },
     {
       "added_at": "2026-04-01 09:07:54",
@@ -287,22 +287,6 @@
     {
       "added_at": "2026-04-01 09:07:54",
       "album": {
-        "name": "Volume 2",
-        "url": "https://open.spotify.com/album/01EFyT5MpC3LYaOzws2Yjv"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 209012,
-      "name": "I Waited For You",
-      "url": "https://open.spotify.com/track/5h7ww9vWMlfYJ2cPhmt9pz"
-    },
-    {
-      "added_at": "2026-04-01 09:07:54",
-      "album": {
         "name": "Hank Mobley Quintet (Remastered)",
         "url": "https://open.spotify.com/album/56h5AtHRt7XJISUiOK1VHb"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 399573,
       "name": "Fin De L'Affaire - Rudy Van Gelder Edition, 2008 Digital Remaster",
       "url": "https://open.spotify.com/track/3waqKUvxlNkmw3MCIDDMVl"
+    },
+    {
+      "added_at": "2026-04-01 09:07:54",
+      "album": {
+        "name": "Volume 2",
+        "url": "https://open.spotify.com/album/01EFyT5MpC3LYaOzws2Yjv"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 209012,
+      "name": "I Waited For You",
+      "url": "https://open.spotify.com/track/5h7ww9vWMlfYJ2cPhmt9pz"
     },
     {
       "added_at": "2026-04-01 09:07:54",
@@ -523,22 +523,6 @@
     {
       "added_at": "2026-04-01 09:07:54",
       "album": {
-        "name": "Helen Merrill With Strings",
-        "url": "https://open.spotify.com/album/1ZCXk8phZLNQSpOOMhIbWG"
-      },
-      "artists": [
-        {
-          "name": "Helen Merrill",
-          "url": "https://open.spotify.com/artist/4JHlHSUko0ivu6fXYT8J2q"
-        }
-      ],
-      "duration_ms": 187266,
-      "name": "Anything Goes",
-      "url": "https://open.spotify.com/track/7G7aecTWvlnJoLUJi7tn7f"
-    },
-    {
-      "added_at": "2026-04-01 09:07:54",
-      "album": {
         "name": "Loads Of Love",
         "url": "https://open.spotify.com/album/4Wb8zemQ91ofj5B74Y82IY"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 177666,
       "name": "Do It Again",
       "url": "https://open.spotify.com/track/0NaArK8e9ovK75lLRU0OWM"
+    },
+    {
+      "added_at": "2026-04-01 09:07:54",
+      "album": {
+        "name": "Helen Merrill With Strings",
+        "url": "https://open.spotify.com/album/1ZCXk8phZLNQSpOOMhIbWG"
+      },
+      "artists": [
+        {
+          "name": "Helen Merrill",
+          "url": "https://open.spotify.com/artist/4JHlHSUko0ivu6fXYT8J2q"
+        }
+      ],
+      "duration_ms": 187266,
+      "name": "Anything Goes",
+      "url": "https://open.spotify.com/track/7G7aecTWvlnJoLUJi7tn7f"
     },
     {
       "added_at": "2026-04-01 09:07:54",
@@ -751,6 +751,22 @@
     {
       "added_at": "2026-04-01 09:07:54",
       "album": {
+        "name": "Loads Of Love",
+        "url": "https://open.spotify.com/album/4Wb8zemQ91ofj5B74Y82IY"
+      },
+      "artists": [
+        {
+          "name": "Shirley Horn",
+          "url": "https://open.spotify.com/artist/0x9L9ChXVAf3hFOb0CbRmd"
+        }
+      ],
+      "duration_ms": 231826,
+      "name": "Love For Sale",
+      "url": "https://open.spotify.com/track/3dxAt1su013e3GZyBUL9bP"
+    },
+    {
+      "added_at": "2026-04-01 09:07:54",
+      "album": {
         "name": "Sings The Winners",
         "url": "https://open.spotify.com/album/5EC5UZWQEWFyKy2Kq4ibWB"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 191240,
       "name": "Early Autumn",
       "url": "https://open.spotify.com/track/1tj5ZJB9BhKlIBsi5mhI8b"
-    },
-    {
-      "added_at": "2026-04-01 09:07:54",
-      "album": {
-        "name": "Loads Of Love",
-        "url": "https://open.spotify.com/album/4Wb8zemQ91ofj5B74Y82IY"
-      },
-      "artists": [
-        {
-          "name": "Shirley Horn",
-          "url": "https://open.spotify.com/artist/0x9L9ChXVAf3hFOb0CbRmd"
-        }
-      ],
-      "duration_ms": 231826,
-      "name": "Love For Sale",
-      "url": "https://open.spotify.com/track/3dxAt1su013e3GZyBUL9bP"
     },
     {
       "added_at": "2026-04-01 09:07:54",
@@ -851,22 +851,6 @@
     {
       "added_at": "2026-04-01 09:07:54",
       "album": {
-        "name": "Jazz 'N' Samba",
-        "url": "https://open.spotify.com/album/75ZXFJKRQvlXnHxF8fgRHG"
-      },
-      "artists": [
-        {
-          "name": "Milt Jackson",
-          "url": "https://open.spotify.com/artist/23i8EixXKG0EWGRCfHlUGN"
-        }
-      ],
-      "duration_ms": 277013,
-      "name": "I Love You",
-      "url": "https://open.spotify.com/track/220ZfJj309AIx2dUXJ2JoW"
-    },
-    {
-      "added_at": "2026-04-01 09:07:54",
-      "album": {
         "name": "Great Ladies Of Song / Spotlight On Dinah Shore",
         "url": "https://open.spotify.com/album/5ilLtUVtszxkepkVCrqECy"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 204866,
       "name": "It Had To Be You",
       "url": "https://open.spotify.com/track/6nRX1T6aaqZLIA4KUldLTC"
+    },
+    {
+      "added_at": "2026-04-01 09:07:54",
+      "album": {
+        "name": "Jazz 'N' Samba",
+        "url": "https://open.spotify.com/album/75ZXFJKRQvlXnHxF8fgRHG"
+      },
+      "artists": [
+        {
+          "name": "Milt Jackson",
+          "url": "https://open.spotify.com/artist/23i8EixXKG0EWGRCfHlUGN"
+        }
+      ],
+      "duration_ms": 277013,
+      "name": "I Love You",
+      "url": "https://open.spotify.com/track/220ZfJj309AIx2dUXJ2JoW"
     },
     {
       "added_at": "2026-04-01 09:07:54",

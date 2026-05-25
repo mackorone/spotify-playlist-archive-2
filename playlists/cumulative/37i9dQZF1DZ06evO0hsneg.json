@@ -89,6 +89,76 @@
     },
     {
       "album": {
+        "name": "Musikal Polarisasi",
+        "url": "https://open.spotify.com/album/4frxq3cCVeuUkqdvrcCHvv"
+      },
+      "artists": [
+        {
+          "name": "Andovi Da Lopez",
+          "url": "https://open.spotify.com/artist/78YCBDppsIfw325GY2r1jh"
+        },
+        {
+          "name": "Jovial Da Lopez",
+          "url": "https://open.spotify.com/artist/68seNZaZQOe55RJZQlax92"
+        },
+        {
+          "name": "Kristo Immanuel",
+          "url": "https://open.spotify.com/artist/01ddrP6wnDYbqpI3WbhSCZ"
+        },
+        {
+          "name": "Andreas Prasetya",
+          "url": "https://open.spotify.com/artist/0455GIsNR6OELD384Txpog"
+        },
+        {
+          "name": "Celloszxz",
+          "url": "https://open.spotify.com/artist/42SaWtBQ4qxq4t0SOfTzpx"
+        },
+        {
+          "name": "Iben Ma",
+          "url": "https://open.spotify.com/artist/0I2e5uQyGM5DPmdNkE2dMB"
+        },
+        {
+          "name": "Tretan Muslim",
+          "url": "https://open.spotify.com/artist/1A75hEZ3dML6Hs11oaVoaf"
+        },
+        {
+          "name": "Coki Pardede",
+          "url": "https://open.spotify.com/artist/2fR8UEnyiDLyUYhhx9OmM7"
+        },
+        {
+          "name": "Rayi Putra",
+          "url": "https://open.spotify.com/artist/3FduEXHFSq8Hboekc8JMUR"
+        },
+        {
+          "name": "Agung Hapsah",
+          "url": "https://open.spotify.com/artist/0yTMR0uHl4OdzJmvbp0PMz"
+        },
+        {
+          "name": "Saykoji",
+          "url": "https://open.spotify.com/artist/6N981Y5JhkKTEH37pq4ImZ"
+        },
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        },
+        {
+          "name": "Laze",
+          "url": "https://open.spotify.com/artist/13j9IvxPSTtgKOAxP5J9B0"
+        },
+        {
+          "name": "Basboi",
+          "url": "https://open.spotify.com/artist/0mmlthXmJKSeIhvmXso3z9"
+        }
+      ],
+      "date_added": "2026-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 494040,
+      "name": "Anies Prabowo Ganjar - Epic Rap Battles Of Presidency 2024",
+      "url": "https://open.spotify.com/track/1JzD2zrVQzsx75eupEWt2s"
+    },
+    {
+      "album": {
         "name": "Anies Prabowo Ganjar - Epic Rap Battles Of Presidency 2024",
         "url": "https://open.spotify.com/album/5P1mmHbUhZvuSKaUkClFSH"
       },
@@ -152,7 +222,7 @@
       ],
       "date_added": "2024-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-25",
       "duration_ms": 494040,
       "name": "Anies Prabowo Ganjar - Epic Rap Battles Of Presidency 2024",
       "url": "https://open.spotify.com/track/2txTcANEn1Ygdxk16g4ieG"
@@ -422,7 +492,7 @@
       ],
       "date_added": "2024-08-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-18",
+      "date_removed": null,
       "duration_ms": 204486,
       "name": "COPYCAT",
       "url": "https://open.spotify.com/track/2qAjQut5DrJ3o6X7QwKxXR"
@@ -1486,7 +1556,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-25",
       "duration_ms": 165067,
       "name": "whats ur problem",
       "url": "https://open.spotify.com/track/4Ktfx7qkCY1PkH3HwLkUU7"

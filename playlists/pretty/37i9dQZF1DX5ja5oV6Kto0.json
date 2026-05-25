@@ -1,12 +1,12 @@
 {
   "description": "The new wave of alternative, genre-bending and creative afro-fusion music. Cover: Siraheem",
-  "num_followers": 111672,
+  "num_followers": 111680,
   "original_name": "Alt\u00e9 Cruise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAM3KX1bbx0uK9zb542FNWQMBxGeK",
+  "snapshot_id": "AAAAAC/CNPCXJgOJuk8bYNWvyjc6P3Ih",
   "tracks": [
     {
       "added_at": "2026-05-15 00:01:17",
@@ -803,18 +803,18 @@
     {
       "added_at": "2026-05-15 00:01:17",
       "album": {
-        "name": "Popstar Party",
-        "url": "https://open.spotify.com/album/5qbv9ptUdlcivvSSOXc7UG"
+        "name": "Diamond in a Process",
+        "url": "https://open.spotify.com/album/5DJMJRwCb46P2lo5Nf2O1n"
       },
       "artists": [
         {
-          "name": "taves",
-          "url": "https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA"
+          "name": "Jiire Smith",
+          "url": "https://open.spotify.com/artist/0VX3LwYsAeOKY4sKXLp9Nc"
         }
       ],
-      "duration_ms": 188764,
-      "name": "Popstar Party",
-      "url": "https://open.spotify.com/track/6ijobO5xJ1NgPGiC7evca8"
+      "duration_ms": 145426,
+      "name": "Yapa Yapa",
+      "url": "https://open.spotify.com/track/7ksVRiH1HIMc9HbUO6qNH0"
     },
     {
       "added_at": "2026-05-15 00:01:17",
@@ -835,18 +835,18 @@
     {
       "added_at": "2026-05-15 00:01:17",
       "album": {
-        "name": "Diamond in a Process",
-        "url": "https://open.spotify.com/album/5DJMJRwCb46P2lo5Nf2O1n"
+        "name": "Popstar Party",
+        "url": "https://open.spotify.com/album/5qbv9ptUdlcivvSSOXc7UG"
       },
       "artists": [
         {
-          "name": "Jiire Smith",
-          "url": "https://open.spotify.com/artist/0VX3LwYsAeOKY4sKXLp9Nc"
+          "name": "taves",
+          "url": "https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA"
         }
       ],
-      "duration_ms": 145426,
-      "name": "Yapa Yapa",
-      "url": "https://open.spotify.com/track/7ksVRiH1HIMc9HbUO6qNH0"
+      "duration_ms": 188764,
+      "name": "Popstar Party",
+      "url": "https://open.spotify.com/track/6ijobO5xJ1NgPGiC7evca8"
     },
     {
       "added_at": "2026-05-15 00:01:17",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2026-05-15 00:01:17",
       "album": {
+        "name": "Cavy In The City",
+        "url": "https://open.spotify.com/album/1RMuLxHOH6unGqvqGlzvRa"
+      },
+      "artists": [
+        {
+          "name": "The Cavemen.",
+          "url": "https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD"
+        }
+      ],
+      "duration_ms": 151529,
+      "name": "General",
+      "url": "https://open.spotify.com/track/0aG4heCOR0XzZqU7HmDLjt"
+    },
+    {
+      "added_at": "2026-05-15 00:01:17",
+      "album": {
         "name": "Tropicana",
         "url": "https://open.spotify.com/album/3iESACtNvFj9ow5aQOTicl"
       },
@@ -1091,22 +1107,6 @@
       "duration_ms": 147152,
       "name": "Tropicana",
       "url": "https://open.spotify.com/track/1wTupR6XF1y1yduWbrBa1x"
-    },
-    {
-      "added_at": "2026-05-15 00:01:17",
-      "album": {
-        "name": "Cavy In The City",
-        "url": "https://open.spotify.com/album/1RMuLxHOH6unGqvqGlzvRa"
-      },
-      "artists": [
-        {
-          "name": "The Cavemen.",
-          "url": "https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD"
-        }
-      ],
-      "duration_ms": 151529,
-      "name": "General",
-      "url": "https://open.spotify.com/track/0aG4heCOR0XzZqU7HmDLjt"
     },
     {
       "added_at": "2026-05-15 00:01:17",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2026-05-15 00:01:17",
       "album": {
+        "name": "Italawa",
+        "url": "https://open.spotify.com/album/2TSeiQDOkAsmIrNuk329fn"
+      },
+      "artists": [
+        {
+          "name": "Show Dem Camp",
+          "url": "https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD"
+        }
+      ],
+      "duration_ms": 172634,
+      "name": "Italawa",
+      "url": "https://open.spotify.com/track/3P2eWhx3G91lOwuv95NHw9"
+    },
+    {
+      "added_at": "2026-05-15 00:01:17",
+      "album": {
         "name": "Nana",
         "url": "https://open.spotify.com/album/1tFYuZ0v7O2x34L0XlKEMC"
       },
@@ -1383,22 +1399,6 @@
       "duration_ms": 193453,
       "name": "Nana",
       "url": "https://open.spotify.com/track/4jZb5ARAPY47dZOr8nqIJa"
-    },
-    {
-      "added_at": "2026-05-15 00:01:17",
-      "album": {
-        "name": "Italawa",
-        "url": "https://open.spotify.com/album/2TSeiQDOkAsmIrNuk329fn"
-      },
-      "artists": [
-        {
-          "name": "Show Dem Camp",
-          "url": "https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD"
-        }
-      ],
-      "duration_ms": 172634,
-      "name": "Italawa",
-      "url": "https://open.spotify.com/track/3P2eWhx3G91lOwuv95NHw9"
     },
     {
       "added_at": "2026-05-15 00:01:17",

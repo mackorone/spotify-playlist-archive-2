@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcRvrGIEgliU.md) - [plain]
 
 > Celebrating 10 years of <a href="https://open.spotify.com/genre/0JQ5DAqbMKFImHYGo3eTSg">independent artist discovery</a>\. Cover: Laufey
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,076 likes - 150 songs - 7 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,108 likes - 150 songs - 7 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcRvrGIEgliU.md) - [plain]
 | 82 | [Late to the Party](https://open.spotify.com/track/7hdMPlOGOngKH3mj4pVLcG) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Late to the Party](https://open.spotify.com/album/1g9Kxqn7NNZyHB2dGtlbmR) | 2:57 |
 | 83 | [Fuckthepopulation](https://open.spotify.com/track/0XfsT6rbC7myipngFhWa9T) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [My Liver Will Handle What My Heart Can't](https://open.spotify.com/album/2VrpzWjnsiELWKXOJAFhme) | 2:30 |
 | 84 | [Robin Hood](https://open.spotify.com/track/5dyihZecYMcEPq09Bk2OL2) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Robin Hood](https://open.spotify.com/album/0mVaxvFtKPMSLCNmyEmh6l) | 3:41 |
-| 85 | [High](https://open.spotify.com/track/3GaamyFHQYbQi1ykc4nV4o) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Big Day](https://open.spotify.com/album/40cS75mUmnhW7W4L1ZCBLj) | 2:32 |
-| 86 | [Lamhey](https://open.spotify.com/track/5Z2GQ0eBKoatNYqbGayihP) | [Anubha Bajaj](https://open.spotify.com/artist/1jR0u53xF6iccwKAu9SD3H) | [Lamhey](https://open.spotify.com/album/1jZWNePo4dPSElLKJ0I2zA) | 2:28 |
+| 85 | [Lamhey](https://open.spotify.com/track/5Z2GQ0eBKoatNYqbGayihP) | [Anubha Bajaj](https://open.spotify.com/artist/1jR0u53xF6iccwKAu9SD3H) | [Lamhey](https://open.spotify.com/album/1jZWNePo4dPSElLKJ0I2zA) | 2:28 |
+| 86 | [High](https://open.spotify.com/track/3GaamyFHQYbQi1ykc4nV4o) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Big Day](https://open.spotify.com/album/40cS75mUmnhW7W4L1ZCBLj) | 2:32 |
 | 87 | [zarcillos de plata](https://open.spotify.com/track/2Wvs8qJJKrKGB6uZGMTDZB) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [Bodhiria](https://open.spotify.com/album/3fVXh36WypsZR2JGathvkq) | 3:18 |
 | 88 | [Rồi Ta Sẽ Ngắm Pháo Hoa Cùng Nhau](https://open.spotify.com/track/6azvhyagGek75gi0pLyl30) | [Olew](https://open.spotify.com/artist/4APrfmUo8KRrjCVuyoKvwY) | [Rồi Ta Sẽ Ngắm Pháo Hoa Cùng Nhau](https://open.spotify.com/album/67zICJlL1ZcLe7aCWXLsSF) | 4:38 |
 | 89 | [Off My Mind](https://open.spotify.com/track/7n6QMW76A5qgfn0Mb4aL7i) | [Joe P](https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x) | [Emily Can't Sing](https://open.spotify.com/album/4KTZrjVFSMS2TqNAGVxMfJ) | 3:33 |
@@ -109,8 +109,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcRvrGIEgliU.md) - [plain]
 | 99 | [Dhak Dhak](https://open.spotify.com/track/7iIEFHrNvn6buQdP9dJY1N) | [Aanchal Tyagi](https://open.spotify.com/artist/2Zk1S1jMx7YNHnGQi07off), [Raga](https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO), [Rusha & Blizza](https://open.spotify.com/artist/2HrvJh5lOdSH1DLlWCAtJI), [Abhijeet Srivastava](https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C) | [Dhak Dhak](https://open.spotify.com/album/1bfaIV1LAAiy22ZGGHzSq2) | 3:22 |
 | 100 | [I'm All Fucked Up](https://open.spotify.com/track/2p1EDUqcrCjrIf3oTgGW85) | [This Is Lorelei](https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun) | [Box for Buddy, Box for Star](https://open.spotify.com/album/3wSIO65dy3pAoBjKBybOcV) | 4:33 |
 | 101 | [Tirando Balas](https://open.spotify.com/track/15I8CL9krCHIiwZvac61yl) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [Tirando Balas](https://open.spotify.com/album/1LZ1gCEC2vlZa1BwL96S5P) | 2:53 |
-| 102 | [12:34 AM](https://open.spotify.com/track/16iNVfWKKZPDjctIcd0KMn) | [Billy Lemos](https://open.spotify.com/artist/7ebBg3BuRFa2satTcY8whC), [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO), [Maxwell Young](https://open.spotify.com/artist/5HONdRTLNvBjlD2LirKp0q) | [12:34 AM](https://open.spotify.com/album/4bJGMpZ7LqygIsCM3G9ZYQ) | 2:07 |
-| 103 | [Sao Em Lại Tắt Máy?](https://open.spotify.com/track/3Rf4rNtuMuSQ9mr6hmhIIB) | [Phạm Nguyên Ngọc](https://open.spotify.com/artist/2Xlia1jlI7JDki4Xa42uyK), [VAnh](https://open.spotify.com/artist/4QC9UUJeYEo4wnbTvuOHLo), [BMZ](https://open.spotify.com/artist/3euFcFd5Dc7JAz6t7oKg7m) | [Sao Em Lại Tắt Máy?](https://open.spotify.com/album/01q7dE8UcVZpykFNzBnGP1) | 3:18 |
+| 102 | [Sao Em Lại Tắt Máy?](https://open.spotify.com/track/3Rf4rNtuMuSQ9mr6hmhIIB) | [Phạm Nguyên Ngọc](https://open.spotify.com/artist/2Xlia1jlI7JDki4Xa42uyK), [VAnh](https://open.spotify.com/artist/4QC9UUJeYEo4wnbTvuOHLo), [BMZ](https://open.spotify.com/artist/3euFcFd5Dc7JAz6t7oKg7m) | [Sao Em Lại Tắt Máy?](https://open.spotify.com/album/01q7dE8UcVZpykFNzBnGP1) | 3:18 |
+| 103 | [12:34 AM](https://open.spotify.com/track/16iNVfWKKZPDjctIcd0KMn) | [Billy Lemos](https://open.spotify.com/artist/7ebBg3BuRFa2satTcY8whC), [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO), [Maxwell Young](https://open.spotify.com/artist/5HONdRTLNvBjlD2LirKp0q) | [12:34 AM](https://open.spotify.com/album/4bJGMpZ7LqygIsCM3G9ZYQ) | 2:07 |
 | 104 | [Flight of the Crows](https://open.spotify.com/track/2SgpLPEfLGWDMkCT9nFAO6) | [Jhariah](https://open.spotify.com/artist/5iMYu8Sj8dZEDsWJxSFwPP) | [A BEGINNER'S GUIDE TO FAKING YOUR DEATH](https://open.spotify.com/album/4Xfd2a497pZksMAx2BHqrv) | 2:38 |
 | 105 | [All Is Well](https://open.spotify.com/track/1wDSBJSCKxB8qZR6jnfqgt) | [Hans Williams](https://open.spotify.com/artist/3SEkDN2vusR7CIyehzfJaj) | [All Is Well](https://open.spotify.com/album/7IAZgH8L6M6sOVx3I0FPWo) | 2:30 |
 | 106 | [safety](https://open.spotify.com/track/455NN00cexwUiy0CkRbgqe) | [greek](https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY) | [EXTC](https://open.spotify.com/album/5U3qHK1s6FljIZNrNCFyk1) | 3:03 |
@@ -145,8 +145,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcRvrGIEgliU.md) - [plain]
 | 135 | [Midnight Snack](https://open.spotify.com/track/3e6ysBefdwwkpdA7ciaN5i) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6), [Jacob Latimore](https://open.spotify.com/artist/7t7KCNFOwuMChaQg6L8I69) | [Midnight Snack](https://open.spotify.com/album/2DMG0zobpx4Yv0eOux8mUc) | 3:47 |
 | 136 | [Shawty](https://open.spotify.com/track/3tCCH9aaiKRmwOjvIKq76d) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Shawty](https://open.spotify.com/album/2kF6bikHMAry39BlUpZkes) | 3:17 |
 | 137 | [Second hand embarrassment](https://open.spotify.com/track/1PEPcLm2QEo0HCRIhQjPq1) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [fishmonger](https://open.spotify.com/album/5o9aTepLhqQL2gXuKPhd8g) | 2:17 |
-| 138 | [Liham Sa Ulap](https://open.spotify.com/track/5M0k1RUg9C8Ls6qu6RPbnD) | [KYLIX](https://open.spotify.com/artist/4ctUJBW9vL0fY7jeEtzAMs) | [Liham Sa Ulap](https://open.spotify.com/album/7szlH8D5RCUNOowIPhtc3I) | 3:08 |
-| 139 | [Koszulka](https://open.spotify.com/track/58GULPDRRkVUMm2AKaBEMm) | [Dawid Tyszkowski](https://open.spotify.com/artist/2Lp4rVUJ5ZRZfT8wkWF81K) | [Koszulka](https://open.spotify.com/album/0GY7Jpt1L0C891A5WdgUPe) | 4:12 |
+| 138 | [Koszulka](https://open.spotify.com/track/58GULPDRRkVUMm2AKaBEMm) | [Dawid Tyszkowski](https://open.spotify.com/artist/2Lp4rVUJ5ZRZfT8wkWF81K) | [Koszulka](https://open.spotify.com/album/0GY7Jpt1L0C891A5WdgUPe) | 4:12 |
+| 139 | [Liham Sa Ulap](https://open.spotify.com/track/5M0k1RUg9C8Ls6qu6RPbnD) | [KYLIX](https://open.spotify.com/artist/4ctUJBW9vL0fY7jeEtzAMs) | [Liham Sa Ulap](https://open.spotify.com/album/7szlH8D5RCUNOowIPhtc3I) | 3:08 |
 | 140 | [FEVER](https://open.spotify.com/track/7xkOsl8tMeZRGeTO0PZoPI) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [THE RUSH](https://open.spotify.com/album/2tdu1jCUYmUPB5FvqDHhnD) | 2:10 |
 | 141 | [Little Bit](https://open.spotify.com/track/0spXmYRCgO10zVvQwkj4hZ) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Essentials](https://open.spotify.com/album/6AYAMoty9hbhfzRKWaILTW) | 4:46 |
 | 142 | [gimme all ur luv](https://open.spotify.com/track/1gaJMN7d2pSBnhx9oEQZbi) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [going...going...GONE!](https://open.spotify.com/album/6hnlO74dZkXLCk8dQNjLjf) | 2:52 |
@@ -157,6 +157,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcRvrGIEgliU.md) - [plain]
 | 147 | [Space Makes Me Sad](https://open.spotify.com/track/5Op3wFn328uL17aJUIGJx3) | [Fiji Blue](https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe) | [Space Makes Me Sad](https://open.spotify.com/album/4qW3WrCTZT7RcRkdHmikBX) | 2:16 |
 | 148 | [Lotto](https://open.spotify.com/track/5F8zXCNHA4Xzoqi3NR9kUK) | [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW) | [34Corine](https://open.spotify.com/album/652rsvEfjS9L8RD2gEqJhL) | 2:27 |
 | 149 | [Ditch](https://open.spotify.com/track/6075pGQxRNkWdteEz4Hfwb) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Ditch](https://open.spotify.com/album/4LQi2uo2316ZzEpQO3oh59) | 3:30 |
-| 150 | [EXCITED!](https://open.spotify.com/track/3qE98sHohjBGmohgKOSK01) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [COLORWAY](https://open.spotify.com/album/4cGY0jqWYTCIPwQRXHgKvy) | 1:37 |
+| 150 | [Daughter Of The Sun](https://open.spotify.com/track/07x5IGHde3C9DdVGojqG5B) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Daughter Of The Sun](https://open.spotify.com/album/2vyy1M855VK7gP1yQF6AbS) | 3:57 |
 
 Snapshot ID: `AAAAACv9AaK9FykFSRcSypcyMfg6yXz/`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX442zFw7L5ce.md) - [plain]
 
 > Get ready to these songs that'll make you feel like you're the QUEEEEN! <br/>Cover : Sreeleela
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,252 likes - 50 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,270 likes - 50 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,10 +47,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX442zFw7L5ce.md) - [plain]
 | 37 | [Vachindamma](https://open.spotify.com/track/6obKaXHU2avqfLZFPjGm4K) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Geetha Govindam](https://open.spotify.com/album/4X8f6Xj3EHnv6haTEByM3X) | 4:10 |
 | 38 | [Chitti Nadumune](https://open.spotify.com/track/4NugyVw9Of2Z4uyBXf33tX) | [Mallikarjun](https://open.spotify.com/artist/40Ce6P4AGMq3NXCDXVSZaa), [Premgi Amaren](https://open.spotify.com/artist/4GxNKj50amLne9azxcrqK2) | [Gudumba Shankar](https://open.spotify.com/album/330aGp8Rl5dhqKoPRsY203) | 5:54 |
 | 39 | [Nammavemo](https://open.spotify.com/track/5DN8dF1Q0K8G6pgCQjqVvF) | [Saketh Naidu](https://open.spotify.com/artist/6Xwwyea7gPu9LG0nWWHg0v) | [Parugu](https://open.spotify.com/album/7eJXTAO0qIPduGIE4Pqk5C) | 4:46 |
-| 40 | [Buggey Bangarama](https://open.spotify.com/track/18RUE4llLj46NIQKojerlw) | [Rajesh](https://open.spotify.com/artist/6aQ5LDX0WlnyDLI8TGU0wK) | [Chandamama](https://open.spotify.com/album/2eASY2UZa4O8pdXvK9SNgC) | 4:32 |
+| 40 | [Vayari Bhama](https://open.spotify.com/track/4K4gYMKbZFMKh4ePHzXTQu) | [Ramana Gogula](https://open.spotify.com/artist/4TkLTkst9LQlJ0zAmXtXmv) | [Thammudu](https://open.spotify.com/album/0BoUUhoyOBz3lNJH1wl5Dh) | 5:16 |
 | 41 | [Bapu Gari Bommo](https://open.spotify.com/track/1e3pqyiPgPzqnDm8m91x5F) | [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a) | [Attarrintiki Daaredi](https://open.spotify.com/album/4rjF7pEttnd3hMEt7iuzgk) | 4:40 |
-| 42 | [Aakasam](https://open.spotify.com/track/4wKiaLGUIAdgRBSv80aeBW) | [Sumangaly](https://open.spotify.com/artist/0WpkyIAATl5W540KCSEUwX), [Kid Sathya](https://open.spotify.com/artist/2nzTUPkoUDOpQsQWzIUEQn) | [Kalusukovalani](https://open.spotify.com/album/2z84b5n0ZwZa3exP90AHiu) | 4:46 |
-| 43 | [Vayari Bhama](https://open.spotify.com/track/4K4gYMKbZFMKh4ePHzXTQu) | [Ramana Gogula](https://open.spotify.com/artist/4TkLTkst9LQlJ0zAmXtXmv) | [Thammudu](https://open.spotify.com/album/0BoUUhoyOBz3lNJH1wl5Dh) | 5:16 |
+| 42 | [Buggey Bangarama](https://open.spotify.com/track/18RUE4llLj46NIQKojerlw) | [Rajesh](https://open.spotify.com/artist/6aQ5LDX0WlnyDLI8TGU0wK) | [Chandamama](https://open.spotify.com/album/2eASY2UZa4O8pdXvK9SNgC) | 4:32 |
+| 43 | [Aakasam](https://open.spotify.com/track/4wKiaLGUIAdgRBSv80aeBW) | [Sumangaly](https://open.spotify.com/artist/0WpkyIAATl5W540KCSEUwX), [Kid Sathya](https://open.spotify.com/artist/2nzTUPkoUDOpQsQWzIUEQn) | [Kalusukovalani](https://open.spotify.com/album/2z84b5n0ZwZa3exP90AHiu) | 4:46 |
 | 44 | [Emaindhi Eevela](https://open.spotify.com/track/3E8mVTnCMmXJNq6Pbcfkp7) | [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K) | [Aadavari Matalaku Ardhalu Veruley](https://open.spotify.com/album/2MsMl4xvzwGfgaIy1BLm0u) | 5:19 |
 | 45 | [Andaala Raakshsive](https://open.spotify.com/track/5xUZRi3ph5h01vbgx3u65X) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8), [Harini](https://open.spotify.com/artist/41BeeC5hYqvtGkM79RYvN4) | [Oke Okkadu](https://open.spotify.com/album/1WCAy8NWpdJ0NtzBTtxXvu) | 6:13 |
 | 46 | [Beautiful Girl](https://open.spotify.com/track/3P8sXN7vsucV5k80lReeeq) | [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD) | [Life Is Beautiful](https://open.spotify.com/album/1Hd2y0smTAvVSTvJeXj5lW) | 4:43 |

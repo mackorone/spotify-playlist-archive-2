@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5e23vWCjL5N.md) - [plain]
 
 > Punchline, storytelling, rap italiano\. Tedua in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,315 likes - 102 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,313 likes - 102 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

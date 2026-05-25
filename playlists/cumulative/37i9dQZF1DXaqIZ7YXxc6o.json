@@ -73453,6 +73453,28 @@
     },
     {
       "album": {
+        "name": "The Ceiling",
+        "url": "https://open.spotify.com/album/4O7TcNg3Kn7mSW4Ouhakgt"
+      },
+      "artists": [
+        {
+          "name": "Westend",
+          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
+        },
+        {
+          "name": "Olivia Sebastianelli",
+          "url": "https://open.spotify.com/artist/0DCRUk25XIiRFiNtiuR8OR"
+        }
+      ],
+      "date_added": "2026-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198524,
+      "name": "The Ceiling",
+      "url": "https://open.spotify.com/track/08jOMh0SuNltPqEBuMd0Nb"
+    },
+    {
+      "album": {
         "name": "Accepted Concept",
         "url": "https://open.spotify.com/album/5026e5pinYOgls5mjv1duU"
       },
@@ -78318,7 +78340,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-25",
       "duration_ms": 182571,
       "name": "Untouched (feat. The Veronicas)",
       "url": "https://open.spotify.com/track/3oXTMVnWGWLY4mzTFhc7PN"

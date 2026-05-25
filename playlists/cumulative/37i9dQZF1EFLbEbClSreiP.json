@@ -983,6 +983,24 @@
     },
     {
       "album": {
+        "name": "Florescence",
+        "url": "https://open.spotify.com/album/0MOWqwwatV0LXDxhBZg5qO"
+      },
+      "artists": [
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        }
+      ],
+      "date_added": "2026-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200013,
+      "name": "Vampire Time",
+      "url": "https://open.spotify.com/track/5yDVOzmgF2jVaz7ilmm7IY"
+    },
+    {
+      "album": {
         "name": "One Foot In Front Of The Other",
         "url": "https://open.spotify.com/album/6CR4ozv4yOdaA3f6PPQepA"
       },

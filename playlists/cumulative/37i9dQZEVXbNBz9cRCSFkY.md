@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Philippines.
 
-1,191 songs - 3 day 0 hr 1 min
+1,192 songs - 3 day 0 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,7 +174,7 @@
 | [Build a Bitch](https://open.spotify.com/track/7BoobGhD4x5K96Me0hqC8Q) | [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) | [Build a Bitch](https://open.spotify.com/album/5YKqfiQdPYWJ0kZ5pttY5o) | 2:02 | 2021-05-16 | 2021-09-05 |
 | [Bulong](https://open.spotify.com/track/5rV7xueHNNXaZqOLroaUta) | [December Avenue](https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m) | [Langit Mong Bughaw](https://open.spotify.com/album/7eXlJM2M5i3iDd8xgd0qwr) | 4:30 | 2024-12-27 | 2026-05-23 |
 | [Burgis](https://open.spotify.com/track/3O5P2ZDUwExzcIdZkJwFq1) | [Flow G](https://open.spotify.com/artist/3PDFGpPl4ienSn5Vwisfrh), [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T) | [Burgis](https://open.spotify.com/album/3rucLazJL4NKIiF6DBp5Fa) | 3:29 | 2024-04-02 | 2025-02-10 |
-| [Burnout](https://open.spotify.com/track/6Srj2NoAIGgBFORh6r5Whs) | [Sugarfree](https://open.spotify.com/artist/5I3uAFbAOhuVSKdrcG5mgy) | [Sa Wakas](https://open.spotify.com/album/2gJJfKzy0fHjhy8AR8lhym) | 3:29 | 2025-10-10 |  |
+| [Burnout](https://open.spotify.com/track/6Srj2NoAIGgBFORh6r5Whs) | [Sugarfree](https://open.spotify.com/artist/5I3uAFbAOhuVSKdrcG5mgy) | [Sa Wakas](https://open.spotify.com/album/2gJJfKzy0fHjhy8AR8lhym) | 3:29 | 2025-10-10 | 2026-05-25 |
 | [Burnout](https://open.spotify.com/track/0ZCCbW4Aym7b5QdQUKfVdv) | [Sugarfree](https://open.spotify.com/artist/5I3uAFbAOhuVSKdrcG5mgy) | [Sa Wakas](https://open.spotify.com/album/5TgWcKNeogXr2cPNDcXZRb) | 3:30 | 2025-01-08 | 2025-10-05 |
 | [But Daddy I Love Him](https://open.spotify.com/track/5og4Qzt92jJzVDkOtSEilb) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 5:40 | 2024-04-20 | 2024-04-27 |
 | [Butter](https://open.spotify.com/track/1mWdTewIgB3gtBM3TOSFhB) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Butter \(Hotter, Sweeter, Cooler\)](https://open.spotify.com/album/0PBQ3Cp6NG8WX0G9KQVNMP) | 2:44 | 2021-12-18 | 2022-01-03 |
@@ -273,6 +273,7 @@
 | [double take](https://open.spotify.com/track/47isJpIIO8m7BJEhiFhnaf) | [dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [double take](https://open.spotify.com/album/27CpJBNdYYtW84EQjBHS6q) | 2:51 | 2021-10-27 | 2022-01-23 |
 | [Down Bad](https://open.spotify.com/track/2F3N9tdombb64aW6VtZOdo) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 4:21 | 2024-04-20 | 2024-05-19 |
 | [Dreamers \[Music from the FIFA World Cup Qatar 2022 Official Soundtrack\]](https://open.spotify.com/track/1RDvyOk4WtPCtoqciJwVn8) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [FIFA Sound](https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH) | [Dreamers \[Music from the FIFA World Cup Qatar 2022 Official Soundtrack\]](https://open.spotify.com/album/0gr5OmB74UhoANEXwYT3gE) | 3:21 | 2022-11-21 | 2022-12-21 |
+| [Driftstar](https://open.spotify.com/track/4FuM2scDnJbWn6Az9UQ6aD) | [Flow G](https://open.spotify.com/artist/3PDFGpPl4ienSn5Vwisfrh) | [Driftstar](https://open.spotify.com/album/0i4ZN9hKhb9sSM9ovAoZG4) | 2:51 | 2026-05-24 |  |
 | [drivers license](https://open.spotify.com/track/5wANPM4fQCJwkGd4rN57mH) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 4:02 | 2021-05-23 | 2021-12-12 |
 | [drivers license](https://open.spotify.com/track/7lPN2DXiMsVn7XUKtOW1CS) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [drivers license](https://open.spotify.com/album/66FPnVL9G4CMKy3wvaGTcr) | 4:02 | 2021-03-27\* | 2021-05-23 |
 | [drop dead](https://open.spotify.com/track/6gkbtMtioHgtyGjrMel6ei) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [drop dead](https://open.spotify.com/album/4OMvPbXaYlbUm6TnwyXGct) | 3:44 | 2026-04-18 | 2026-04-26 |
@@ -478,7 +479,7 @@
 | [Ikaw Lamang](https://open.spotify.com/track/2v5VIWMjZxeiG52KckiXxS) | [Silent Sanctuary](https://open.spotify.com/artist/4nGp682WMiKS4X217kPw8C) | [Fuchsiang Pag\-Ibig](https://open.spotify.com/album/08SEZDvRXrrNs1C2y73MLi) | 5:06 | 2022-03-27 | 2022-04-17 |
 | [Ikaw Lang](https://open.spotify.com/track/16iRlyUMJVPqz62DlomMre) | [NOBITA](https://open.spotify.com/artist/5GVk1KCKa1tdHRev4bMw7V) | [Ikaw Lang](https://open.spotify.com/album/1nft8RTZE2QYeDPPNEnCBx) | 4:23 | 2021-06-12 | 2025-03-26 |
 | [Ikaw Lang](https://open.spotify.com/track/4legZBvlei0pwnrzzxMzol) | [NOBITA](https://open.spotify.com/artist/5GVk1KCKa1tdHRev4bMw7V) | [Ikaw Lang](https://open.spotify.com/album/2uac9Zt7Zz2icXylMwHOEf) | 4:23 | 2025-03-25 | 2026-03-19 |
-| [Ikaw Lang Patutunguhan](https://open.spotify.com/track/7rpQzmMwS1yW1f0oWxBS9z) | [Amiel Sol](https://open.spotify.com/artist/4iXntje546XRJmmMTjTO7g) | [Ikaw Lang Patutunguhan](https://open.spotify.com/album/6uC3JseWzNKLhK2uW9VntG) | 5:26 | 2025-02-18 | 2026-05-24 |
+| [Ikaw Lang Patutunguhan](https://open.spotify.com/track/7rpQzmMwS1yW1f0oWxBS9z) | [Amiel Sol](https://open.spotify.com/artist/4iXntje546XRJmmMTjTO7g) | [Ikaw Lang Patutunguhan](https://open.spotify.com/album/6uC3JseWzNKLhK2uW9VntG) | 5:26 | 2025-02-18 |  |
 | [Ikaw Pa Rin](https://open.spotify.com/track/4z7xboLD3PqY9dOUscS2ly) | [mrld](https://open.spotify.com/artist/31fsDbpNPKe346urriO4ma) | [Ikaw Pa Rin](https://open.spotify.com/album/6yoXzcdZwga0Gqmmqkvz1k) | 3:11 | 2022-11-18 | 2023-05-05 |
 | [Ikaw Pa Rin Ang Pipiliin Ko](https://open.spotify.com/track/3LvrJEPQ61Vvj1t3Edg20X) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN) | [Ikaw Pa Rin Ang Pipiliin Ko](https://open.spotify.com/album/6P8VL5hDXBJODIAOBuPJV4) | 4:22 | 2025-04-08 | 2025-07-27 |
 | [Ikaw Sana \- Live](https://open.spotify.com/track/1RtiAzLeYtfJN6VOi2LkxW) | [Rob Deniel](https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT) | [Ikaw Sana \(Live\)](https://open.spotify.com/album/0QEX4myyLGNddWabjawOJW) | 6:27 | 2025-09-20 | 2025-12-14 |
@@ -1124,7 +1125,7 @@
 | [Walang Alam](https://open.spotify.com/track/4wZTvLi0khNRqqz4i5XhdV) | [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T) | [Kung Alam Mo Lang](https://open.spotify.com/album/36OmXvGRKAY2zICbVtItoa) | 3:05 | 2024-01-23 | 2025-01-15 |
 | [Walang Kapalit](https://open.spotify.com/track/0CqRHcenv90Z44VSdE417W) | [Arthur Miguel](https://open.spotify.com/artist/62CyDMdOyI53kBCXfplnZy) | [The Best](https://open.spotify.com/album/7qnlpwpjqIWA4TViSyshYI) | 3:38 | 2023-09-13 | 2023-09-29 |
 | [Walang Kapalit \(AM VER.\)](https://open.spotify.com/track/4HxaLxk986KQdqNIyI4KUb) | [Arthur Miguel](https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce) | [Walang Kapalit \(AM VER.\)](https://open.spotify.com/album/6SgJspX5hiL8lPcd6shyAs) | 3:38 | 2023-08-04 | 2023-10-13 |
-| [Waltz of Four Left Feet](https://open.spotify.com/track/29eiVZ3R6iJcXB01dOAl6H) | [shirebound](https://open.spotify.com/artist/5F6Eu8EFrLQXOqgEj5gbhJ) | [For Princesses, By Thieves \(O Mga Awit ng Hiraya Para sa Guni\-guning Sinta\)](https://open.spotify.com/album/3vnLVB3AJ8MMiSgGN01Dtd) | 5:37 | 2025-06-13 |  |
+| [Waltz of Four Left Feet](https://open.spotify.com/track/29eiVZ3R6iJcXB01dOAl6H) | [shirebound](https://open.spotify.com/artist/5F6Eu8EFrLQXOqgEj5gbhJ) | [For Princesses, By Thieves \(O Mga Awit ng Hiraya Para sa Guni\-guning Sinta\)](https://open.spotify.com/album/3vnLVB3AJ8MMiSgGN01Dtd) | 5:37 | 2025-06-13 | 2026-05-25 |
 | [warm](https://open.spotify.com/track/0BeR2fJmYnKNn7IORw3GR9) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine deluxe: brighter days ahead](https://open.spotify.com/album/6cbwstHlsAIIWurIIXXBPd) | 3:21 | 2025-03-29 | 2025-03-31 |
 | [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 | 2023-10-10 | 2024-02-12 |
 | [We Are Never Ever Getting Back Together \(Taylor's Version\)](https://open.spotify.com/track/31CdkzHnMbvJuKZvtCQfR6) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6x9s2ObPdpATZgrwxsk9c0) | 3:13 | 2021-11-14 | 2021-11-14 |

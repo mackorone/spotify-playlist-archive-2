@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Ljg6k.md) - [plain]
 
 > This is D'Angelo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,341 likes - 35 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,389 likes - 35 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Ljg6k.md) - [plain]
 | 34 | [Ain't That Easy](https://open.spotify.com/track/2yx7XX9v7M6yhm2fBG7K3E) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Black Messiah](https://open.spotify.com/album/5Hfbag0SsHxafx1SySFSX6) | 4:49 |
 | 35 | [Jonz In My Bones \- Live At The Jazz Cafe, London/1995](https://open.spotify.com/track/0cUMdJl2C1WFcnSsgYjBF9) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Live At The Jazz Cafe, London](https://open.spotify.com/album/6CJecR5ViEgD3KxVGMmiRi) | 3:55 |
 
-Snapshot ID: `ag+cgAAAAADzh2zhSt4e4XHkvYS26h5P`
+Snapshot ID: `ahDuAAAAAACN9+jzfnvZkWq161t+O7CZ`

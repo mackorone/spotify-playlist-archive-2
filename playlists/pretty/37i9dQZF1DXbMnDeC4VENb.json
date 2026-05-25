@@ -1,6 +1,6 @@
 {
   "description": "Una euf\u00f3rica dosis de urbano rom\u00e1ntico en espa\u00f1ol.  ",
-  "num_followers": 197757,
+  "num_followers": 197781,
   "original_name": "Rimas Pa'l Cora",
   "owner": {
     "name": "Spotify",
@@ -2651,26 +2651,6 @@
     {
       "added_at": "2026-02-06 06:00:20",
       "album": {
-        "name": "Ella Es",
-        "url": "https://open.spotify.com/album/4FZHnZPGheiOd83ZGrTZ1P"
-      },
-      "artists": [
-        {
-          "name": "Santa RM",
-          "url": "https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc"
-        },
-        {
-          "name": "Smoky",
-          "url": "https://open.spotify.com/artist/1P184E1yqU3hzj71d1oOzb"
-        }
-      ],
-      "duration_ms": 229717,
-      "name": "Ella Es",
-      "url": "https://open.spotify.com/track/4wNwmejbGQkgk8qIsqWRqy"
-    },
-    {
-      "added_at": "2026-02-06 06:00:20",
-      "album": {
         "name": "No Es Mala Idea",
         "url": "https://open.spotify.com/album/5DwBczskT737Pj0enuIXew"
       },
@@ -2695,18 +2675,22 @@
     {
       "added_at": "2026-02-06 06:00:20",
       "album": {
-        "name": "0cm",
-        "url": "https://open.spotify.com/album/5TTk79eZvPAB7D6PvrdANe"
+        "name": "Ella Es",
+        "url": "https://open.spotify.com/album/4FZHnZPGheiOd83ZGrTZ1P"
       },
       "artists": [
         {
-          "name": "Ad\u00e1n Cruz",
-          "url": "https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR"
+          "name": "Santa RM",
+          "url": "https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc"
+        },
+        {
+          "name": "Smoky",
+          "url": "https://open.spotify.com/artist/1P184E1yqU3hzj71d1oOzb"
         }
       ],
-      "duration_ms": 158658,
-      "name": "0cm",
-      "url": "https://open.spotify.com/track/4WCk2VAPDqySlBSxZTlNjK"
+      "duration_ms": 229717,
+      "name": "Ella Es",
+      "url": "https://open.spotify.com/track/4wNwmejbGQkgk8qIsqWRqy"
     },
     {
       "added_at": "2026-02-06 06:00:20",
@@ -2727,6 +2711,22 @@
       "duration_ms": 200535,
       "name": "La Vida No Es F\u00e1cil",
       "url": "https://open.spotify.com/track/55LnB8MUmxwH4XTNyDuWK2"
+    },
+    {
+      "added_at": "2026-02-06 06:00:20",
+      "album": {
+        "name": "0cm",
+        "url": "https://open.spotify.com/album/5TTk79eZvPAB7D6PvrdANe"
+      },
+      "artists": [
+        {
+          "name": "Ad\u00e1n Cruz",
+          "url": "https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR"
+        }
+      ],
+      "duration_ms": 158658,
+      "name": "0cm",
+      "url": "https://open.spotify.com/track/4WCk2VAPDqySlBSxZTlNjK"
     },
     {
       "added_at": "2026-02-06 06:00:20",
@@ -2775,26 +2775,6 @@
     {
       "added_at": "2026-02-06 06:00:20",
       "album": {
-        "name": "Contacto",
-        "url": "https://open.spotify.com/album/3cK989DH6rMeR7qTmsEMhm"
-      },
-      "artists": [
-        {
-          "name": "Leonel Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay"
-        },
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 162807,
-      "name": "Contacto",
-      "url": "https://open.spotify.com/track/5Gi5Cd3jpRM1wSOJBFOJXi"
-    },
-    {
-      "added_at": "2026-02-06 06:00:20",
-      "album": {
         "name": "Quieres",
         "url": "https://open.spotify.com/album/3u4CFQKwkrcGCCM1VCmXsw"
       },
@@ -2811,6 +2791,26 @@
       "duration_ms": 230769,
       "name": "Quieres",
       "url": "https://open.spotify.com/track/5o6YxpVNGZ0lF0RyFksspd"
+    },
+    {
+      "added_at": "2026-02-06 06:00:20",
+      "album": {
+        "name": "Contacto",
+        "url": "https://open.spotify.com/album/3cK989DH6rMeR7qTmsEMhm"
+      },
+      "artists": [
+        {
+          "name": "Leonel Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay"
+        },
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 162807,
+      "name": "Contacto",
+      "url": "https://open.spotify.com/track/5Gi5Cd3jpRM1wSOJBFOJXi"
     },
     {
       "added_at": "2026-02-06 06:00:20",
@@ -2871,22 +2871,6 @@
     {
       "added_at": "2026-02-06 06:00:20",
       "album": {
-        "name": "Cada D\u00eda Te Quiero M\u00e1s",
-        "url": "https://open.spotify.com/album/5x4CBMHXg9zVY37KEZSS3J"
-      },
-      "artists": [
-        {
-          "name": "Robot95",
-          "url": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
-        }
-      ],
-      "duration_ms": 192418,
-      "name": "Cada D\u00eda Te Quiero M\u00e1s",
-      "url": "https://open.spotify.com/track/3cj60CwhSsrMr0nxMRIGKP"
-    },
-    {
-      "added_at": "2026-02-06 06:00:20",
-      "album": {
         "name": "T\u00f3xico",
         "url": "https://open.spotify.com/album/6SDbcVYvCEx7tBMzpMJLyf"
       },
@@ -2903,6 +2887,22 @@
       "duration_ms": 145427,
       "name": "T\u00f3xico",
       "url": "https://open.spotify.com/track/6I8eZgiw5o84fI3eA0vqVG"
+    },
+    {
+      "added_at": "2026-02-06 06:00:20",
+      "album": {
+        "name": "Cada D\u00eda Te Quiero M\u00e1s",
+        "url": "https://open.spotify.com/album/5x4CBMHXg9zVY37KEZSS3J"
+      },
+      "artists": [
+        {
+          "name": "Robot95",
+          "url": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
+        }
+      ],
+      "duration_ms": 192418,
+      "name": "Cada D\u00eda Te Quiero M\u00e1s",
+      "url": "https://open.spotify.com/track/3cj60CwhSsrMr0nxMRIGKP"
     },
     {
       "added_at": "2026-02-06 06:00:20",
@@ -3039,22 +3039,6 @@
     {
       "added_at": "2026-02-06 06:00:20",
       "album": {
-        "name": "Se Te Olvid\u00f3 Que Te Gustaba",
-        "url": "https://open.spotify.com/album/57Iwb7f2hNb3LnrIG1Zct3"
-      },
-      "artists": [
-        {
-          "name": "Solitario Mondragon",
-          "url": "https://open.spotify.com/artist/4KXpp5lz2MakNFcTszi2B9"
-        }
-      ],
-      "duration_ms": 176678,
-      "name": "Se Te Olvid\u00f3 Que Te Gustaba",
-      "url": "https://open.spotify.com/track/7yd58ySNvnAnrGQfxlo6qN"
-    },
-    {
-      "added_at": "2026-02-06 06:00:20",
-      "album": {
         "name": "TE IMAGINO (para mi kryptonita <3)",
         "url": "https://open.spotify.com/album/64Vng5YGgJIhnkg8eNY0ZR"
       },
@@ -3071,6 +3055,22 @@
       "duration_ms": 228750,
       "name": "TE IMAGINO (para mi kryptonita <3)",
       "url": "https://open.spotify.com/track/65yeUC7ktm44ZhPUFlFYzn"
+    },
+    {
+      "added_at": "2026-02-06 06:00:20",
+      "album": {
+        "name": "Se Te Olvid\u00f3 Que Te Gustaba",
+        "url": "https://open.spotify.com/album/57Iwb7f2hNb3LnrIG1Zct3"
+      },
+      "artists": [
+        {
+          "name": "Solitario Mondragon",
+          "url": "https://open.spotify.com/artist/4KXpp5lz2MakNFcTszi2B9"
+        }
+      ],
+      "duration_ms": 176678,
+      "name": "Se Te Olvid\u00f3 Que Te Gustaba",
+      "url": "https://open.spotify.com/track/7yd58ySNvnAnrGQfxlo6qN"
     },
     {
       "added_at": "2026-02-06 06:00:20",
@@ -3127,22 +3127,6 @@
     {
       "added_at": "2026-02-06 06:00:20",
       "album": {
-        "name": "Nuestro Amor Vol\u00e1til",
-        "url": "https://open.spotify.com/album/37c0n3SwXNrs2KXX7qqGEu"
-      },
-      "artists": [
-        {
-          "name": "Oscar Lee",
-          "url": "https://open.spotify.com/artist/4xYRQAYVpIJvtM28VM76cz"
-        }
-      ],
-      "duration_ms": 132732,
-      "name": "Nuestro Amor Vol\u00e1til",
-      "url": "https://open.spotify.com/track/59ycq0jxTFpWC65UWegROp"
-    },
-    {
-      "added_at": "2026-02-06 06:00:20",
-      "album": {
         "name": "Me Haces Bien",
         "url": "https://open.spotify.com/album/6Ruqdzq72gVxv0cwv1zdqC"
       },
@@ -3167,6 +3151,22 @@
       "duration_ms": 207499,
       "name": "Me Haces Bien",
       "url": "https://open.spotify.com/track/4atv9K7c3t74jl9H7ZSdcu"
+    },
+    {
+      "added_at": "2026-02-06 06:00:20",
+      "album": {
+        "name": "Nuestro Amor Vol\u00e1til",
+        "url": "https://open.spotify.com/album/37c0n3SwXNrs2KXX7qqGEu"
+      },
+      "artists": [
+        {
+          "name": "Oscar Lee",
+          "url": "https://open.spotify.com/artist/4xYRQAYVpIJvtM28VM76cz"
+        }
+      ],
+      "duration_ms": 132732,
+      "name": "Nuestro Amor Vol\u00e1til",
+      "url": "https://open.spotify.com/track/59ycq0jxTFpWC65UWegROp"
     },
     {
       "added_at": "2026-02-06 06:00:20",
@@ -3707,22 +3707,6 @@
     {
       "added_at": "2026-02-06 06:00:20",
       "album": {
-        "name": "Sigo Zo\u00f1ando",
-        "url": "https://open.spotify.com/album/5f8yNSQjmOMbR6WcbGqkoi"
-      },
-      "artists": [
-        {
-          "name": "Alak",
-          "url": "https://open.spotify.com/artist/0lnmuoifLjmlIHwd7H5AS1"
-        }
-      ],
-      "duration_ms": 149578,
-      "name": "Sigo Zo\u00f1ando",
-      "url": "https://open.spotify.com/track/1FrLqoMJqg8PhpCZzgvv9K"
-    },
-    {
-      "added_at": "2026-02-06 06:00:20",
-      "album": {
         "name": "Nunca Imagin\u00e9",
         "url": "https://open.spotify.com/album/55Nln3fDBB6t8qRphZuikc"
       },
@@ -3739,6 +3723,22 @@
       "duration_ms": 205609,
       "name": "Nunca Imagin\u00e9",
       "url": "https://open.spotify.com/track/6ecb4V91cxHT9aJquEMLun"
+    },
+    {
+      "added_at": "2026-02-06 06:00:20",
+      "album": {
+        "name": "Sigo Zo\u00f1ando",
+        "url": "https://open.spotify.com/album/5f8yNSQjmOMbR6WcbGqkoi"
+      },
+      "artists": [
+        {
+          "name": "Alak",
+          "url": "https://open.spotify.com/artist/0lnmuoifLjmlIHwd7H5AS1"
+        }
+      ],
+      "duration_ms": 149578,
+      "name": "Sigo Zo\u00f1ando",
+      "url": "https://open.spotify.com/track/1FrLqoMJqg8PhpCZzgvv9K"
     },
     {
       "added_at": "2026-02-06 06:00:20",
@@ -3903,6 +3903,22 @@
     {
       "added_at": "2026-02-06 06:00:20",
       "album": {
+        "name": "Lo que se va, Se va",
+        "url": "https://open.spotify.com/album/6UUxwfBnujPq9EuEkMRBnS"
+      },
+      "artists": [
+        {
+          "name": "Nuco",
+          "url": "https://open.spotify.com/artist/2FCR4hKgXtEmNCRH8pyENS"
+        }
+      ],
+      "duration_ms": 177274,
+      "name": "Lo que se va, Se va",
+      "url": "https://open.spotify.com/track/6PpKIQMYfMdJM9G9Cll9Lz"
+    },
+    {
+      "added_at": "2026-02-06 06:00:20",
+      "album": {
         "name": "Flakita",
         "url": "https://open.spotify.com/album/4S4cvQx7xl3BqA39CrsuJN"
       },
@@ -3923,22 +3939,6 @@
       "duration_ms": 171050,
       "name": "Flakita",
       "url": "https://open.spotify.com/track/75GPUVRzfOBic0OXkuO313"
-    },
-    {
-      "added_at": "2026-02-06 06:00:20",
-      "album": {
-        "name": "Lo que se va, Se va",
-        "url": "https://open.spotify.com/album/6UUxwfBnujPq9EuEkMRBnS"
-      },
-      "artists": [
-        {
-          "name": "Nuco",
-          "url": "https://open.spotify.com/artist/2FCR4hKgXtEmNCRH8pyENS"
-        }
-      ],
-      "duration_ms": 177274,
-      "name": "Lo que se va, Se va",
-      "url": "https://open.spotify.com/track/6PpKIQMYfMdJM9G9Cll9Lz"
     },
     {
       "added_at": "2026-02-06 06:00:20",
@@ -4527,22 +4527,6 @@
     {
       "added_at": "2026-02-06 06:00:20",
       "album": {
-        "name": "Confesiones",
-        "url": "https://open.spotify.com/album/22ObA67YK8nPGwvkligBMb"
-      },
-      "artists": [
-        {
-          "name": "Alem\u00e1n",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-        }
-      ],
-      "duration_ms": 203150,
-      "name": "SE MARCHIT\u00d3 LA FLOR",
-      "url": "https://open.spotify.com/track/1oYEK1fIfaA8UofLu1Phu8"
-    },
-    {
-      "added_at": "2026-02-06 06:00:20",
-      "album": {
         "name": "Te Marqu\u00e9 Pedo",
         "url": "https://open.spotify.com/album/5whw8haonqjs15S7DzG4Pv"
       },
@@ -4559,6 +4543,22 @@
       "duration_ms": 216000,
       "name": "Te Marqu\u00e9 Pedo",
       "url": "https://open.spotify.com/track/4JfWJOuhXu0QVnev3jgC9S"
+    },
+    {
+      "added_at": "2026-02-06 06:00:20",
+      "album": {
+        "name": "Confesiones",
+        "url": "https://open.spotify.com/album/22ObA67YK8nPGwvkligBMb"
+      },
+      "artists": [
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        }
+      ],
+      "duration_ms": 203150,
+      "name": "SE MARCHIT\u00d3 LA FLOR",
+      "url": "https://open.spotify.com/track/1oYEK1fIfaA8UofLu1Phu8"
     },
     {
       "added_at": "2026-02-06 06:00:20",

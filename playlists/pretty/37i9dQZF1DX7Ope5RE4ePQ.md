@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Ope5RE4ePQ.md) - [plain]
 
 > masquerades, moonlit encounters, and locking eyes across the ballroom
 
-[Spotify](https://open.spotify.com/user/spotify) - 540,295 likes - 84 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 540,369 likes - 84 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,6 +91,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Ope5RE4ePQ.md) - [plain]
 | 81 | [Nocturne No\. 19 in E Minor, Op\. 72 No\. 1](https://open.spotify.com/track/64LTn5fTsPR0QLy7bVYl9w) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Benjamin Grosvenor](https://open.spotify.com/artist/4imd50KIbHcyrStbIuZswj) | [Benjamin Grosvenor: Chopin, Liszt, Ravel](https://open.spotify.com/album/5MyejkHGSoo5IfTum4VMiw) | 4:01 |
 | 82 | [Song on the Beach](https://open.spotify.com/track/606R1WLtU2hPgl0YNfSJ4j) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB), [Owen Pallett](https://open.spotify.com/artist/77Rj6PHmQJFb8nbSH62y68) | [Her \(Original Score\)](https://open.spotify.com/album/7xBJ2XXlDFfACXAnOE86t8) | 3:35 |
 | 83 | [The Carnival of the Animals, R\. 125: VII\. Aquarium](https://open.spotify.com/track/66EQLGUGxCKXzuLj1Zkt1E) | [Camille Saint\-Saëns](https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0), [Isata Kanneh\-Mason](https://open.spotify.com/artist/7FEzSfCBSOo0wAmdk9pQ6M), [Konya Kanneh\-Mason](https://open.spotify.com/artist/1iVdpAhwFutZ7dAknlpFnM), [Braimah Kanneh\-Mason](https://open.spotify.com/artist/3sNaER8L3Qd0fkdP52pGUV), [Ayla Sahin](https://open.spotify.com/artist/5G9xcPomA602qWNDRFKDiI), [Timothy Ridout](https://open.spotify.com/artist/5Ff3ExmaueX5f8ROQjeB4g), [Sheku Kanneh\-Mason](https://open.spotify.com/artist/6OTr0YwLwGdv7mlmX27hRX), [Adam Walker](https://open.spotify.com/artist/3nA5eiHOCzRHRqzSBW5A5b), [Alasdair Malloy](https://open.spotify.com/artist/0soLS6zGYaACSyh2TSrdVq) | [Saint\-Saëns: Carnival of the Animals: Aquarium](https://open.spotify.com/album/6fEeyD9Te6vp8J7db5Hz7L) | 2:46 |
-| 84 | [Vocalise, Op\. 34, No\. 14](https://open.spotify.com/track/56uWqDzSqIMbdi3ItnG481) | [Sergei Rachmaninoff](https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51), [Nikolaj Znaider](https://open.spotify.com/artist/34bsUBJpRrFZQRZ15hYqMV) | [Bravo! Virtuoso And Romantic Encores For Violin](https://open.spotify.com/album/1QoCZzbSlfjhyRpEBxOKT4) | 4:50 |
+| 84 | [Vocalise, Op\. 34, No\. 14](https://open.spotify.com/track/56uWqDzSqIMbdi3ItnG481) | [Sergei Rachmaninoff](https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51), [Nikolaj Znaider](https://open.spotify.com/artist/34bsUBJpRrFZQRZ15hYqMV), [Daniel Gortler](https://open.spotify.com/artist/2fkifp4HOv2erKIIG22893) | [Bravo! Virtuoso And Romantic Encores For Violin](https://open.spotify.com/album/1QoCZzbSlfjhyRpEBxOKT4) | 4:50 |
 
 Snapshot ID: `AAAAAFG3Wh1hRLAkOivlBZPRHMYU83MM`

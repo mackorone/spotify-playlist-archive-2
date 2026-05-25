@@ -1,6 +1,6 @@
 {
   "description": "Try a little tenderness. Cover: 54 Ultra",
-  "num_followers": 55879,
+  "num_followers": 55920,
   "original_name": "soulful",
   "owner": {
     "name": "Spotify",
@@ -627,22 +627,6 @@
     {
       "added_at": "2026-01-23 01:47:43",
       "album": {
-        "name": "Never Be Yours",
-        "url": "https://open.spotify.com/album/3KWfY3MZ8PGDfjQSwqIxJF"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 196025,
-      "name": "Never Be Yours",
-      "url": "https://open.spotify.com/track/3cKnHNL40tqnmjXiv4FOlk"
-    },
-    {
-      "added_at": "2026-01-23 01:47:43",
-      "album": {
         "name": "Remember Me",
         "url": "https://open.spotify.com/album/15ejkGAzLKHl2S1jvXWb1u"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 423028,
       "name": "Remember Me - Original Mix",
       "url": "https://open.spotify.com/track/7MwPTFInd4Y3q1ZtwgzG57"
+    },
+    {
+      "added_at": "2026-01-23 01:47:43",
+      "album": {
+        "name": "Never Be Yours",
+        "url": "https://open.spotify.com/album/3KWfY3MZ8PGDfjQSwqIxJF"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 196025,
+      "name": "Never Be Yours",
+      "url": "https://open.spotify.com/track/3cKnHNL40tqnmjXiv4FOlk"
     },
     {
       "added_at": "2026-01-23 01:47:43",
@@ -759,6 +759,22 @@
     {
       "added_at": "2026-01-23 01:47:43",
       "album": {
+        "name": "Beats, Rhymes & Life",
+        "url": "https://open.spotify.com/album/0EguP4tsJurU5I8ocCxdyb"
+      },
+      "artists": [
+        {
+          "name": "A Tribe Called Quest",
+          "url": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+        }
+      ],
+      "duration_ms": 207466,
+      "name": "The Hop",
+      "url": "https://open.spotify.com/track/7f1UEGMBMuXfLBP5XANfrW"
+    },
+    {
+      "added_at": "2026-01-23 01:47:43",
+      "album": {
         "name": "Illadelph Halflife",
         "url": "https://open.spotify.com/album/4hkERQVrmM9JQ9g2eie2tL"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 175813,
       "name": "Chameleon",
       "url": "https://open.spotify.com/track/5MJuuUnNuOv3O1fJrLaEYk"
-    },
-    {
-      "added_at": "2026-01-23 01:47:43",
-      "album": {
-        "name": "Beats, Rhymes & Life",
-        "url": "https://open.spotify.com/album/0EguP4tsJurU5I8ocCxdyb"
-      },
-      "artists": [
-        {
-          "name": "A Tribe Called Quest",
-          "url": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
-        }
-      ],
-      "duration_ms": 207466,
-      "name": "The Hop",
-      "url": "https://open.spotify.com/track/7f1UEGMBMuXfLBP5XANfrW"
     },
     {
       "added_at": "2026-01-23 01:47:43",
@@ -877,38 +877,6 @@
       "url": "https://open.spotify.com/track/00kvKlIvfzQLSi6T2zwXuS"
     },
     {
-      "added_at": "2026-04-16 14:00:34",
-      "album": {
-        "name": "Superbloom",
-        "url": "https://open.spotify.com/album/56sKKg6lpmwyvbvLw3nVCN"
-      },
-      "artists": [
-        {
-          "name": "Jessie Ware",
-          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
-        }
-      ],
-      "duration_ms": 251200,
-      "name": "Superbloom",
-      "url": "https://open.spotify.com/track/56imCiO83oUJj6z9favCWt"
-    },
-    {
-      "added_at": "2026-01-23 01:47:43",
-      "album": {
-        "name": "When I Get Home",
-        "url": "https://open.spotify.com/album/4WF4HvVT7VjGnVjxjoCR6w"
-      },
-      "artists": [
-        {
-          "name": "Solange",
-          "url": "https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU"
-        }
-      ],
-      "duration_ms": 236120,
-      "name": "Almeda",
-      "url": "https://open.spotify.com/track/6IAgarq2wDeYzpsY2Kx0Hw"
-    },
-    {
       "added_at": "2026-01-23 01:47:43",
       "album": {
         "name": "Elegantly Wasted [Feat. Leon Bridges]",
@@ -931,6 +899,38 @@
     {
       "added_at": "2026-01-23 01:47:43",
       "album": {
+        "name": "When I Get Home",
+        "url": "https://open.spotify.com/album/4WF4HvVT7VjGnVjxjoCR6w"
+      },
+      "artists": [
+        {
+          "name": "Solange",
+          "url": "https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU"
+        }
+      ],
+      "duration_ms": 236120,
+      "name": "Almeda",
+      "url": "https://open.spotify.com/track/6IAgarq2wDeYzpsY2Kx0Hw"
+    },
+    {
+      "added_at": "2026-04-16 14:00:34",
+      "album": {
+        "name": "Superbloom",
+        "url": "https://open.spotify.com/album/56sKKg6lpmwyvbvLw3nVCN"
+      },
+      "artists": [
+        {
+          "name": "Jessie Ware",
+          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+        }
+      ],
+      "duration_ms": 251200,
+      "name": "Superbloom",
+      "url": "https://open.spotify.com/track/56imCiO83oUJj6z9favCWt"
+    },
+    {
+      "added_at": "2026-01-23 01:47:43",
+      "album": {
         "name": "Loner",
         "url": "https://open.spotify.com/album/6aE10Kz82jIDkcOM2hRhR5"
       },
@@ -943,22 +943,6 @@
       "duration_ms": 231737,
       "name": "Childhood",
       "url": "https://open.spotify.com/track/3efypTRurdVvf2kCuUWr2Q"
-    },
-    {
-      "added_at": "2026-01-23 01:47:43",
-      "album": {
-        "name": "Low End Love Songs",
-        "url": "https://open.spotify.com/album/3BeoCT97pj90mbXYSTygee"
-      },
-      "artists": [
-        {
-          "name": "Pale Jay",
-          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
-        }
-      ],
-      "duration_ms": 227095,
-      "name": "The Garden",
-      "url": "https://open.spotify.com/track/6ZQucKTplXdpBJlnnpqQHI"
     },
     {
       "added_at": "2026-01-23 01:47:43",
@@ -991,6 +975,22 @@
       "duration_ms": 337200,
       "name": "The Truth",
       "url": "https://open.spotify.com/track/5l7icgnicl7JToRxPkSXyy"
+    },
+    {
+      "added_at": "2026-01-23 01:47:43",
+      "album": {
+        "name": "Low End Love Songs",
+        "url": "https://open.spotify.com/album/3BeoCT97pj90mbXYSTygee"
+      },
+      "artists": [
+        {
+          "name": "Pale Jay",
+          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
+        }
+      ],
+      "duration_ms": 227095,
+      "name": "The Garden",
+      "url": "https://open.spotify.com/track/6ZQucKTplXdpBJlnnpqQHI"
     },
     {
       "added_at": "2026-01-23 01:47:43",
@@ -1137,26 +1137,6 @@
       "url": "https://open.spotify.com/track/0iiB9CYptXO5Fz728LHHsQ"
     },
     {
-      "added_at": "2026-04-03 05:00:21",
-      "album": {
-        "name": "Ambiguous Desire",
-        "url": "https://open.spotify.com/album/2l7Qtf3Mffx6ZIDTpyaMtS"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        },
-        {
-          "name": "Sampha",
-          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
-        }
-      ],
-      "duration_ms": 242541,
-      "name": "Senses ft. Sampha",
-      "url": "https://open.spotify.com/track/53j4dcm9Jn47sFJx8nVz5X"
-    },
-    {
       "added_at": "2026-01-23 01:47:43",
       "album": {
         "name": "Buhloone Mindstate",
@@ -1193,6 +1173,26 @@
       "url": "https://open.spotify.com/track/228Ap7fHnb2BUsdopPrjxx"
     },
     {
+      "added_at": "2026-04-03 05:00:21",
+      "album": {
+        "name": "Ambiguous Desire",
+        "url": "https://open.spotify.com/album/2l7Qtf3Mffx6ZIDTpyaMtS"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        },
+        {
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+        }
+      ],
+      "duration_ms": 242541,
+      "name": "Senses ft. Sampha",
+      "url": "https://open.spotify.com/track/53j4dcm9Jn47sFJx8nVz5X"
+    },
+    {
       "added_at": "2026-01-23 01:47:43",
       "album": {
         "name": "Speakerboxxx/The Love Below",
@@ -1211,18 +1211,18 @@
     {
       "added_at": "2026-01-23 01:47:43",
       "album": {
-        "name": "Chapter 1",
-        "url": "https://open.spotify.com/album/5vhfMWKuCtnJJ3DW5FESGe"
+        "name": "Bonnie Raitt (2008 Remaster)",
+        "url": "https://open.spotify.com/album/4gjY9JfOCvVlr7yTIyl2e0"
       },
       "artists": [
         {
-          "name": "SAULT",
-          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
         }
       ],
-      "duration_ms": 246036,
-      "name": "Good Things Will Come After the Pressure",
-      "url": "https://open.spotify.com/track/1Q3UUPU4Pl4zVsmIDsQxDU"
+      "duration_ms": 170800,
+      "name": "Thank You - 2008 Remaster",
+      "url": "https://open.spotify.com/track/2zLIjfjQ8kMy7WSSLmF0I2"
     }
   ],
   "unique_name": "soulful",

@@ -4,7 +4,7 @@
 
 > Lasă\-te inspirat pe ritmuri de hip\-hop\. Cover: Guess Who
 
-279 songs - 13 hr 38 min
+280 songs - 13 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,7 +177,7 @@
 | [O Mie de Ori](https://open.spotify.com/track/048y8xZzdbr484c9k0eeRA) | [YNY Sebi](https://open.spotify.com/artist/5BUJV1dbGNb61hYPK6rhtM) | [O Mie de Ori](https://open.spotify.com/album/1xIRkMzL7v4NPaq2tVkTHB) | 3:39 | 2025-02-13 | 2025-02-15 |
 | [O sa fim OK](https://open.spotify.com/track/6oumHjnIBCqmT42OemJrCX) | [Marko Glass](https://open.spotify.com/artist/07nCYoPlXkWlhC2FHm1INS), [Bvcovia](https://open.spotify.com/artist/5CqmNRrmp3UP3NGccmlKHR) | [Mixed Feelings](https://open.spotify.com/album/7JBYVxFbTK3ppMZ2QB2hsc) | 2:52 | 2026-04-30 | 2026-05-15 |
 | [Oameni putini](https://open.spotify.com/track/4AoebUxOmHZlZi2qdS3J8e) | [Bitza](https://open.spotify.com/artist/38D4CP96Q3tn48qOGA6wbZ) | [Oameni putini](https://open.spotify.com/album/6vSVl9iF3C4R2oxSDzzrmY) | 3:06 | 2024-10-03 | 2024-11-29 |
-| [Obsedat](https://open.spotify.com/track/5XeIbePKKTlw9HFTJbFcYG) | [Lazy Ed](https://open.spotify.com/artist/23l5vFzRRC5iUKVCH2eb4T) | [Obsedat](https://open.spotify.com/album/72ZWJM2PXdHCmAZQrlIqeM) | 3:01 | 2025-08-28 |  |
+| [Obsedat](https://open.spotify.com/track/5XeIbePKKTlw9HFTJbFcYG) | [Lazy Ed](https://open.spotify.com/artist/23l5vFzRRC5iUKVCH2eb4T) | [Obsedat](https://open.spotify.com/album/72ZWJM2PXdHCmAZQrlIqeM) | 3:01 | 2025-08-28 | 2026-05-25 |
 | [OCHI ALBAȘTRI](https://open.spotify.com/track/2TPCbtaXlKvgyBOedKQ3yX) | [Petre Stefan](https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh), [Bianca Ionescu](https://open.spotify.com/artist/6FjEnxqyibwj2OM2WQg8hU) | [OCHI ALBAȘTRI](https://open.spotify.com/album/6ZhrWAL2jz0MqctVKSayK3) | 3:52 | 2024-06-27 |  |
 | [Ochii](https://open.spotify.com/track/3UNTY9uqkDM24KQXN0RnTB) | [Satoshi](https://open.spotify.com/artist/0kTRvNtdn5mubSQfVoZffv) | [Ochii](https://open.spotify.com/album/0TTXBQGbMeXpr75X7uCj7Z) | 3:16 | 2024-06-27 | 2025-11-07 |
 | [Ochii care nu se văd](https://open.spotify.com/track/40VQXiJYyLIsqOZvBTmLDd) | [Criss Blaziny](https://open.spotify.com/artist/5FhmWWRpvTGJweL2wklh1e), [GINIA](https://open.spotify.com/artist/1giHQkT7XkpCarE8kyA6DL) | [Ochii care nu se văd](https://open.spotify.com/album/5p8fQCvnHnXHlnyvRH0QrJ) | 2:30 | 2025-07-31 | 2025-09-12 |
@@ -214,6 +214,7 @@
 | [Sa MM Care Pleaca](https://open.spotify.com/track/2sCUjlQUEVP8Sn4Lfk71T6) | [Sami G](https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr) | [Sa MM Care Pleaca](https://open.spotify.com/album/641PCOIaSeSDJaqczpIZds) | 1:59 | 2024-09-19 |  |
 | [Saint Levant](https://open.spotify.com/track/5RMJ3nZM3g5NZvM4grURlM) | [Marko Glass](https://open.spotify.com/artist/07nCYoPlXkWlhC2FHm1INS), [Stefan Costea](https://open.spotify.com/artist/3w8r8LEPG3zHNvRCj92b58) | [Mixed Feelings](https://open.spotify.com/album/7JBYVxFbTK3ppMZ2QB2hsc) | 4:56 | 2026-04-30 | 2026-05-15 |
 | [Salut Aparte](https://open.spotify.com/track/68NSzRvmWOpZ17Ell1sj6f) | [B.U.G\. Mafia](https://open.spotify.com/artist/4RAbHb0oHO62If4S7h18L0), [SanBaro](https://open.spotify.com/artist/3LfMuvMmDGJJwIvdv8ao4K) | [Salut Aparte](https://open.spotify.com/album/0Zglp8T8MKFT4VoDjLlnnb) | 3:48 | 2025-05-15 | 2025-05-17 |
+| [Scandal](https://open.spotify.com/track/1XaX10K3ed5guoy4sNgfTM) | [Guess Who](https://open.spotify.com/artist/2CIhA8Jh3xrpFrHYMjYzBy), [Bahoi](https://open.spotify.com/artist/0amWfb7MqNPnGi4SdCucIj), [IDK](https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP) | [Scandal](https://open.spotify.com/album/2IDxe57SCMfEJqfX4Vssph) | 3:31 | 2026-05-21 |  |
 | [Scandal](https://open.spotify.com/track/3zXbl7MWZJR7uyPwMqtRFU) | [Sapte](https://open.spotify.com/artist/5nbi8ytYDMpqTmmeufTwcG), [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM) | [Scandal](https://open.spotify.com/album/5aLIlfIdT9HKXksk98qG3q) | 3:16 | 2024-06-27 | 2025-04-18 |
 | [SCHINDLER'S LIST](https://open.spotify.com/track/0v985X0RLuuoma0yZjOhAQ) | [Aris & Edi](https://open.spotify.com/artist/0FdLRLoI0r4yqlUPzKufFo) | [SCHINDLER'S LIST](https://open.spotify.com/album/3xFX8rN3YH9E5DRksDDK6q) | 2:03 | 2026-04-30 | 2026-05-15 |
 | [SCI\-FI \(cu IRAIDA\)](https://open.spotify.com/track/3okomQtoPOKU2MZARYyPiS) | [Serotone](https://open.spotify.com/artist/7nN2m7VvqkvB9bbFVgzBYn), [IRAIDA](https://open.spotify.com/artist/4vlWcKDxlW0shCIXLuBuov) | [SCI\-FI \(cu IRAIDA\)](https://open.spotify.com/album/2DIGNFof9SDrDuzf1PZpyd) | 2:40 | 2024-08-01 | 2024-08-23 |

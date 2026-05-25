@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1hGVuX.md) - [plain]
 
 > This is Ana Roxanne\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 227 likes - 27 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 230 likes - 27 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,4 +36,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1hGVuX.md) - [plain]
 | 26 | [Consolación](https://open.spotify.com/track/62r4Voa3btkLgyWDbE2nlX) | [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [Bravespace \(Presented by the Smithsonian Asian Pacific American Center\)](https://open.spotify.com/album/70eaiN3oZg5g34RMOAO2HY) | 8:50 |
 | 27 | [Natural Wonder Beauty Concept](https://open.spotify.com/track/1womnt3S3SEd8vl43UwwlH) | [Natural Wonder Beauty Concept](https://open.spotify.com/artist/5fuCjaj3t1OkkrMH7EjuLu), [DJ Python](https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl), [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [Natural Wonder Beauty Concept](https://open.spotify.com/album/0W8AIAf0mUGX4VZ0jH31FX) | 4:24 |
 
-Snapshot ID: `ag+cgAAAAABjYJ2zZQJTDqJ6KorQQQpl`
+Snapshot ID: `ahDuAAAAAACC7KhnfgwvJZOuFWP1SAkR`

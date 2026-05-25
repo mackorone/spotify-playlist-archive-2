@@ -1,12 +1,12 @@
 {
   "description": "This is Bear McCreary. The essential tracks, all in one playlist.",
-  "num_followers": 11528,
+  "num_followers": 11531,
   "original_name": "This Is Bear McCreary",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ag+cgAAAAACRSt0LPTYJeJl17kc4hjW5",
+  "snapshot_id": "ahDuAAAAAAA9bPjIQ7i66GQvg2kg0w9A",
   "tracks": [
     {
       "added_at": null,
@@ -758,15 +758,11 @@
         {
           "name": "Bear McCreary",
           "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        },
-        {
-          "name": "Benjamin Walker",
-          "url": "https://open.spotify.com/artist/7lqxJdBjjbhT7Ap9XJAYDw"
         }
       ],
-      "duration_ms": 198872,
-      "name": "Golden Leaves (feat. Benjamin Walker)",
-      "url": "https://open.spotify.com/track/0Zajq1D26zg3VXxr22Lr1l"
+      "duration_ms": 160069,
+      "name": "Forgiveness Takes an Age",
+      "url": "https://open.spotify.com/track/667hyG6LZ5wlyWEusTen9s"
     },
     {
       "added_at": null,
@@ -830,11 +826,15 @@
         {
           "name": "Bear McCreary",
           "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        },
+        {
+          "name": "Benjamin Walker",
+          "url": "https://open.spotify.com/artist/7lqxJdBjjbhT7Ap9XJAYDw"
         }
       ],
-      "duration_ms": 160069,
-      "name": "Forgiveness Takes an Age",
-      "url": "https://open.spotify.com/track/667hyG6LZ5wlyWEusTen9s"
+      "duration_ms": 198872,
+      "name": "Golden Leaves (feat. Benjamin Walker)",
+      "url": "https://open.spotify.com/track/0Zajq1D26zg3VXxr22Lr1l"
     },
     {
       "added_at": null,

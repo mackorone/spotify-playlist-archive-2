@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 
 > rølp og sånt
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,832 likes - 70 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,842 likes - 70 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,14 +40,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 | 30 | [Cowboyhatten](https://open.spotify.com/track/3t6vxZjhkjadUP9G1vfEl9) | [ZadeKing](https://open.spotify.com/artist/1HFOFTPBhTc2hxFWJw1yzw), [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt) | [Cowboyhatten](https://open.spotify.com/album/73IJih4EONlwyZpKRHqGuS) | 2:51 |
 | 31 | [Promiskiøs \(PM\)](https://open.spotify.com/track/7mcqtWKOrilDtC5kwYSsvK) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [Promiskiøs \(PM\)](https://open.spotify.com/album/4QRaRM4D3IkojdJb5wzSfp) | 2:33 |
 | 32 | [En dårlig idé](https://open.spotify.com/track/1yO0uF7h54wlwKvc4rjwi5) | [Børse](https://open.spotify.com/artist/62RvsqaxYtpDuCSwc0w5dl), [Madeléne](https://open.spotify.com/artist/7HbJecOAhTcyj5x9P95kQz) | [En dårlig idé](https://open.spotify.com/album/4Y2TYeSlK4dEM89Yece7dy) | 2:37 |
-| 33 | [Går det bra?](https://open.spotify.com/track/70wiewm1Q3ivY2dqTDTFzP) | [Katastrofe](https://open.spotify.com/artist/48XeauxB5rhLPXPtACuuUR) | [Går det bra?](https://open.spotify.com/album/77Dqvy9w0TCF3eT9RJGnYp) | 2:23 |
-| 34 | [Sånn So Det Va Før](https://open.spotify.com/track/4s6yGnZ8L7PqTsKftYgADQ) | [Vassendgutane](https://open.spotify.com/artist/5sSnMyOXFRHWNFcC2LgdT2) | [Sånn So Det Va Før](https://open.spotify.com/album/2rFaiP1auuPxt7AdDRwnDm) | 4:38 |
+| 33 | [Sånn So Det Va Før](https://open.spotify.com/track/4s6yGnZ8L7PqTsKftYgADQ) | [Vassendgutane](https://open.spotify.com/artist/5sSnMyOXFRHWNFcC2LgdT2) | [Sånn So Det Va Før](https://open.spotify.com/album/2rFaiP1auuPxt7AdDRwnDm) | 4:38 |
+| 34 | [Går det bra?](https://open.spotify.com/track/70wiewm1Q3ivY2dqTDTFzP) | [Katastrofe](https://open.spotify.com/artist/48XeauxB5rhLPXPtACuuUR) | [Går det bra?](https://open.spotify.com/album/77Dqvy9w0TCF3eT9RJGnYp) | 2:23 |
 | 35 | [Slåss för dig](https://open.spotify.com/track/3cm5WFZ2flczXiGq671KkY) | [LOAM](https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P), [Kudos](https://open.spotify.com/artist/2uz5pGGHltzQNOmxOd95g7) | [Slåss för dig](https://open.spotify.com/album/0kYxCy6xwAHN70YtRFMRG5) | 2:11 |
 | 36 | [Flaska](https://open.spotify.com/track/5PIXzeI6g83I0QkD7z7orD) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [Flaska](https://open.spotify.com/album/6OI7fl4jpZBEiEGWwTyK9I) | 2:31 |
 | 37 | [Konge på bøgda](https://open.spotify.com/track/1UJAtQo720sOej8mfEjck3) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Konge på bøgda](https://open.spotify.com/album/5usqJIXSD19j31MtHaBQlb) | 3:00 |
 | 38 | [Dum i haue](https://open.spotify.com/track/02V2PBxnk14EbrOaDmI0gU) | [Sandra Lyng](https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf), [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW) | [Dum i haue](https://open.spotify.com/album/3OLp95GgOiPnnmiU0C5SFU) | 2:24 |
-| 39 | [Pickup truck](https://open.spotify.com/track/2fEdh5vSdab16mxuTHsnsg) | [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt) | [Pickup truck](https://open.spotify.com/album/2rz9Gjby7rlkDJk3ERaFqx) | 3:30 |
-| 40 | [Dans med meg](https://open.spotify.com/track/2g7232WSHdTpsh3br3ueXt) | [Tigergutt101](https://open.spotify.com/artist/1tjaYa0dBPYGvEHOVUMX5K) | [Dans med meg](https://open.spotify.com/album/7muCKlH36eZGABYNxTy3vl) | 2:20 |
+| 39 | [Dans med meg](https://open.spotify.com/track/2g7232WSHdTpsh3br3ueXt) | [Tigergutt101](https://open.spotify.com/artist/1tjaYa0dBPYGvEHOVUMX5K) | [Dans med meg](https://open.spotify.com/album/7muCKlH36eZGABYNxTy3vl) | 2:20 |
+| 40 | [Pickup truck](https://open.spotify.com/track/2fEdh5vSdab16mxuTHsnsg) | [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt) | [Pickup truck](https://open.spotify.com/album/2rz9Gjby7rlkDJk3ERaFqx) | 3:30 |
 | 41 | [Helg](https://open.spotify.com/track/7iWb4MyDsYf0GcE6mCCsJc) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL), [Stavangerkameratene](https://open.spotify.com/artist/4tJ6n38cpgqKuzjSX24BJA) | [Helg](https://open.spotify.com/album/4Dgeqd8AMBpeYz2UWYiphl) | 2:51 |
 | 42 | [Livet Slik Det Var \(feat\. Madeléne\)](https://open.spotify.com/track/2UX3g1DDHIx13BmxCs6SN1) | [El Papi](https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV), [Madeléne](https://open.spotify.com/artist/7HbJecOAhTcyj5x9P95kQz) | [Livet Slik Det Var \(feat\. Madeléne\)](https://open.spotify.com/album/3CtVuAavZZ0w3xcQgTaiKd) | 2:40 |
 | 43 | [Flesk og Duppe](https://open.spotify.com/track/6fQFJFQ32fixoWCwQs234R) | [Plumbo](https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9), [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk), [Rune Rudberg](https://open.spotify.com/artist/5vViCpDnSSDRHtSmFhrKfY) | [Flesk og Duppe](https://open.spotify.com/album/1bSyEIvEBHKiCUMe44Ft4Y) | 3:26 |
@@ -73,10 +73,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 | 63 | [Svære Pupper](https://open.spotify.com/track/77WdMakzs7lQvUagvlz4fD) | [KOKKOS](https://open.spotify.com/artist/6EnV0svWRA9J0T3ALASlkk) | [Svære Pupper](https://open.spotify.com/album/17bmLiibdB9L5lrwi3EY1h) | 2:18 |
 | 64 | [Er det lov å leva](https://open.spotify.com/track/3KKdDF5B4kjkC0zWR4SKZs) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Er det lov å leva](https://open.spotify.com/album/3O2Rjh8vKAAK5fndtSKSzU) | 2:11 |
 | 65 | [Ja vi elsker \(Typisk Norsk 2019\)](https://open.spotify.com/track/57kBFnmwCPxjkaIWPnhhkl) | [Plumbo](https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9) | [Ja vi elsker \(Typisk Norsk 2019\)](https://open.spotify.com/album/51IOa1Q0fzTyqCebspEkxV) | 2:44 |
-| 66 | [Kunna vorre vær](https://open.spotify.com/track/0ZsuXLSv1szZycoL5x9zOV) | [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt) | [Kunna vorre vær](https://open.spotify.com/album/6IlY83C4YmJPr27MsYlfgt) | 2:18 |
-| 67 | [Nå er det freda'n igjen](https://open.spotify.com/track/096d1z40MQXAEZALorCnC4) | [Rune Rudberg](https://open.spotify.com/artist/5vViCpDnSSDRHtSmFhrKfY) | [Tro](https://open.spotify.com/album/688QJHvwDmWMfILIRPq4rY) | 2:50 |
-| 68 | [Ryker på'a igjen](https://open.spotify.com/track/1fvSW9yqJQI37iL5HaEuRr) | [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Ryker på'a igjen](https://open.spotify.com/album/33tldhAaMzfe8yJ7L3fVqf) | 2:25 |
+| 66 | [Nå er det freda'n igjen](https://open.spotify.com/track/096d1z40MQXAEZALorCnC4) | [Rune Rudberg](https://open.spotify.com/artist/5vViCpDnSSDRHtSmFhrKfY) | [Tro](https://open.spotify.com/album/688QJHvwDmWMfILIRPq4rY) | 2:50 |
+| 67 | [Ryker på'a igjen](https://open.spotify.com/track/1fvSW9yqJQI37iL5HaEuRr) | [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Ryker på'a igjen](https://open.spotify.com/album/33tldhAaMzfe8yJ7L3fVqf) | 2:25 |
+| 68 | [Kunna vorre vær](https://open.spotify.com/track/0ZsuXLSv1szZycoL5x9zOV) | [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt) | [Kunna vorre vær](https://open.spotify.com/album/6IlY83C4YmJPr27MsYlfgt) | 2:18 |
 | 69 | [Ola](https://open.spotify.com/track/4xjEz1oESbKlbge5czJUa6) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Ola](https://open.spotify.com/album/6aSofv0Ux8UAd2d9SLjgFG) | 3:24 |
-| 70 | [Disco](https://open.spotify.com/track/36TVxmoxPFB5Gk2jX2I5ht) | [Knivblad](https://open.spotify.com/artist/5B9QPiKMDIOkjg3Mu1hQng) | [Pistol og gevær](https://open.spotify.com/album/193V5itOrcLtewjKM0VhYv) | 3:11 |
+| 70 | [En gammal Amazon](https://open.spotify.com/track/7Dw2Wx4UKt2tDxvcfFD4Va) | [Strög1](https://open.spotify.com/artist/4b86UHGZJ59ZjOZWZeT9zF) | [En gammal Amazon](https://open.spotify.com/album/0VQnyab7Lu6lj0z362cHxa) | 2:46 |
 
 Snapshot ID: `AAAAAHecckqLxrb4LAIfLtZc1dGpAsLV`

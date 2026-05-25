@@ -922,6 +922,24 @@
       },
       "artists": [
         {
+          "name": "R\u00e9mi Chass\u00e9",
+          "url": "https://open.spotify.com/artist/4ZHPSX8wbALZv186ysJ37P"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133240,
+      "name": "Chanson de No\u00ebl",
+      "url": "https://open.spotify.com/track/5borCmWBLvd8FjYjJlbIIq"
+    },
+    {
+      "album": {
+        "name": "L'\u00e9trange No\u00ebl d'Amandine et de G\u00e9d\u00e9on",
+        "url": "https://open.spotify.com/album/4Dlto9hf8TyXoiX3ASO2Rv"
+      },
+      "artists": [
+        {
           "name": "Guylaine Tremblay",
           "url": "https://open.spotify.com/artist/0xoUoGFFPr2ll9d6kXA0sq"
         }
@@ -2782,7 +2800,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-25",
       "duration_ms": 170052,
       "name": "La radio me chante No\u00ebl",
       "url": "https://open.spotify.com/track/22huwaaCC4duxZSUXugPpJ"

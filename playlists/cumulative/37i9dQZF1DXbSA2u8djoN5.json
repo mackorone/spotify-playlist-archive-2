@@ -3610,7 +3610,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-25",
       "duration_ms": 181052,
       "name": "Obsedat",
       "url": "https://open.spotify.com/track/5XeIbePKKTlw9HFTJbFcYG"
@@ -4358,6 +4358,32 @@
       "duration_ms": 228046,
       "name": "Salut Aparte",
       "url": "https://open.spotify.com/track/68NSzRvmWOpZ17Ell1sj6f"
+    },
+    {
+      "album": {
+        "name": "Scandal",
+        "url": "https://open.spotify.com/album/2IDxe57SCMfEJqfX4Vssph"
+      },
+      "artists": [
+        {
+          "name": "Guess Who",
+          "url": "https://open.spotify.com/artist/2CIhA8Jh3xrpFrHYMjYzBy"
+        },
+        {
+          "name": "Bahoi",
+          "url": "https://open.spotify.com/artist/0amWfb7MqNPnGi4SdCucIj"
+        },
+        {
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211549,
+      "name": "Scandal",
+      "url": "https://open.spotify.com/track/1XaX10K3ed5guoy4sNgfTM"
     },
     {
       "album": {

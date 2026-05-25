@@ -1,6 +1,6 @@
 {
   "description": "Praise and Worship the Almighty God with the best songs. A mix of both African and International songs. ",
-  "num_followers": 309930,
+  "num_followers": 310162,
   "original_name": "Praise and Worship",
   "owner": {
     "name": "Spotify",
@@ -685,6 +685,22 @@
       "url": "https://open.spotify.com/track/0mxvkw5NNGXugvh5qVORjx"
     },
     {
+      "added_at": "2025-10-24 00:01:23",
+      "album": {
+        "name": "A NEW DAWN",
+        "url": "https://open.spotify.com/album/7yzhKRm8sJIL8h4AmqW6b6"
+      },
+      "artists": [
+        {
+          "name": "Nothando Hlophe",
+          "url": "https://open.spotify.com/artist/252fChrCEm5fhuaMTnowg9"
+        }
+      ],
+      "duration_ms": 535310,
+      "name": "Methodist Medley",
+      "url": "https://open.spotify.com/track/4iitLhHIPZIyTPt9HfsykG"
+    },
+    {
       "added_at": "2024-02-16 00:01:00",
       "album": {
         "name": "Cornerstone (Live)",
@@ -703,22 +719,6 @@
       "duration_ms": 346346,
       "name": "I Surrender - Live",
       "url": "https://open.spotify.com/track/4irEfIEfEXuaPVOYDCw5Rm"
-    },
-    {
-      "added_at": "2025-10-24 00:01:23",
-      "album": {
-        "name": "A NEW DAWN",
-        "url": "https://open.spotify.com/album/7yzhKRm8sJIL8h4AmqW6b6"
-      },
-      "artists": [
-        {
-          "name": "Nothando Hlophe",
-          "url": "https://open.spotify.com/artist/252fChrCEm5fhuaMTnowg9"
-        }
-      ],
-      "duration_ms": 535310,
-      "name": "Methodist Medley",
-      "url": "https://open.spotify.com/track/4iitLhHIPZIyTPt9HfsykG"
     },
     {
       "added_at": "2024-08-21 10:42:09",
@@ -901,6 +901,22 @@
       "url": "https://open.spotify.com/track/2taXjxwpS0Mrl3PqdwWHPu"
     },
     {
+      "added_at": "2025-08-22 00:01:27",
+      "album": {
+        "name": "Too Faithful",
+        "url": "https://open.spotify.com/album/1ELb6tHupgVxBvvSURINnN"
+      },
+      "artists": [
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        }
+      ],
+      "duration_ms": 370964,
+      "name": "Too Faithful",
+      "url": "https://open.spotify.com/track/0XmK2zPgY1t1msdf1jyhHw"
+    },
+    {
       "added_at": "2024-05-03 00:01:00",
       "album": {
         "name": "The Great Commission",
@@ -919,22 +935,6 @@
       "duration_ms": 808677,
       "name": "Worthy of My Praise",
       "url": "https://open.spotify.com/track/2TfDq6YUBAiX09xTlH2bhX"
-    },
-    {
-      "added_at": "2025-08-22 00:01:27",
-      "album": {
-        "name": "Too Faithful",
-        "url": "https://open.spotify.com/album/1ELb6tHupgVxBvvSURINnN"
-      },
-      "artists": [
-        {
-          "name": "Moses Bliss",
-          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
-        }
-      ],
-      "duration_ms": 370964,
-      "name": "Too Faithful",
-      "url": "https://open.spotify.com/track/0XmK2zPgY1t1msdf1jyhHw"
     },
     {
       "added_at": "2026-05-01 00:02:04",
@@ -985,26 +985,6 @@
       "url": "https://open.spotify.com/track/1aQZLDDr7jzMNbU4pzv92M"
     },
     {
-      "added_at": "2026-03-06 00:01:06",
-      "album": {
-        "name": "Baruch Hashem Adonai (Live)",
-        "url": "https://open.spotify.com/album/2VS8HyIhoys9tLoUG7Ati5"
-      },
-      "artists": [
-        {
-          "name": "Dunsin Oyekan",
-          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
-        },
-        {
-          "name": "THEOPHILUS SUNDAY",
-          "url": "https://open.spotify.com/artist/4cPMN7Bzz4cSb3KilevhaB"
-        }
-      ],
-      "duration_ms": 1143786,
-      "name": "Baruch Hashem Adonai - Live",
-      "url": "https://open.spotify.com/track/1VEagF1oSqLgm5Y6lH32mS"
-    },
-    {
       "added_at": "2024-02-16 00:01:00",
       "album": {
         "name": "No Longer Bound (I'm Free)",
@@ -1027,6 +1007,26 @@
       "duration_ms": 175188,
       "name": "No Longer Bound (I'm Free)",
       "url": "https://open.spotify.com/track/2GGvmXF70zQ13NS86nOw7k"
+    },
+    {
+      "added_at": "2026-03-06 00:01:06",
+      "album": {
+        "name": "Baruch Hashem Adonai (Live)",
+        "url": "https://open.spotify.com/album/2VS8HyIhoys9tLoUG7Ati5"
+      },
+      "artists": [
+        {
+          "name": "Dunsin Oyekan",
+          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
+        },
+        {
+          "name": "THEOPHILUS SUNDAY",
+          "url": "https://open.spotify.com/artist/4cPMN7Bzz4cSb3KilevhaB"
+        }
+      ],
+      "duration_ms": 1143786,
+      "name": "Baruch Hashem Adonai - Live",
+      "url": "https://open.spotify.com/track/1VEagF1oSqLgm5Y6lH32mS"
     },
     {
       "added_at": "2025-06-06 00:01:28",
@@ -1153,22 +1153,6 @@
       "url": "https://open.spotify.com/track/6SmLWZs2HkAX17zcvFGcln"
     },
     {
-      "added_at": "2025-01-10 12:57:52",
-      "album": {
-        "name": "Let It Show (Live)",
-        "url": "https://open.spotify.com/album/1yorjTPD4R9JExtEfY70ka"
-      },
-      "artists": [
-        {
-          "name": "kaestrings",
-          "url": "https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC"
-        }
-      ],
-      "duration_ms": 479824,
-      "name": "Let It Show (Live)",
-      "url": "https://open.spotify.com/track/0qShlAPNKT5UHib8bLn3X2"
-    },
-    {
       "added_at": "2024-02-16 00:01:00",
       "album": {
         "name": "COAT OF MANY COLORS",
@@ -1185,24 +1169,20 @@
       "url": "https://open.spotify.com/track/5v5njFL7J6kb2ncCsgXszl"
     },
     {
-      "added_at": "2024-02-16 00:01:00",
+      "added_at": "2025-01-10 12:57:52",
       "album": {
-        "name": "Spirit of Praise, Vol. 8 (Live)",
-        "url": "https://open.spotify.com/album/4Z6tN4BRewPxqkuZqJzopt"
+        "name": "Let It Show (Live)",
+        "url": "https://open.spotify.com/album/1yorjTPD4R9JExtEfY70ka"
       },
       "artists": [
         {
-          "name": "Spirit Of Praise",
-          "url": "https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa"
-        },
-        {
-          "name": "Mpumi Mtsweni",
-          "url": "https://open.spotify.com/artist/2dvEcjYqeOiyOEq3VprQLJ"
+          "name": "kaestrings",
+          "url": "https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC"
         }
       ],
-      "duration_ms": 475664,
-      "name": "Thath'Indawo (Live)",
-      "url": "https://open.spotify.com/track/7wcjeveluiW5djtxLCxNSx"
+      "duration_ms": 479824,
+      "name": "Let It Show (Live)",
+      "url": "https://open.spotify.com/track/0qShlAPNKT5UHib8bLn3X2"
     },
     {
       "added_at": "2025-11-14 00:01:35",
@@ -1223,6 +1203,26 @@
       "duration_ms": 190293,
       "name": "Anchor of My Strength",
       "url": "https://open.spotify.com/track/4TEFKBeXAE20j69TpHFFK7"
+    },
+    {
+      "added_at": "2024-02-16 00:01:00",
+      "album": {
+        "name": "Spirit of Praise, Vol. 8 (Live)",
+        "url": "https://open.spotify.com/album/4Z6tN4BRewPxqkuZqJzopt"
+      },
+      "artists": [
+        {
+          "name": "Spirit Of Praise",
+          "url": "https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa"
+        },
+        {
+          "name": "Mpumi Mtsweni",
+          "url": "https://open.spotify.com/artist/2dvEcjYqeOiyOEq3VprQLJ"
+        }
+      ],
+      "duration_ms": 475664,
+      "name": "Thath'Indawo (Live)",
+      "url": "https://open.spotify.com/track/7wcjeveluiW5djtxLCxNSx"
     },
     {
       "added_at": "2024-02-16 00:01:00",
@@ -1265,22 +1265,6 @@
       "url": "https://open.spotify.com/track/55qF5hzyM6Vv02DOchu0jN"
     },
     {
-      "added_at": "2025-03-28 00:01:10",
-      "album": {
-        "name": "Tare (Live)",
-        "url": "https://open.spotify.com/album/1rlFzowjP2vHdilHAvSU7v"
-      },
-      "artists": [
-        {
-          "name": "kaestrings",
-          "url": "https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC"
-        }
-      ],
-      "duration_ms": 477280,
-      "name": "Tare (Live)",
-      "url": "https://open.spotify.com/track/4KtT8dN9QaCPNwxtJwhKmB"
-    },
-    {
       "added_at": "2024-02-16 00:01:00",
       "album": {
         "name": "That's My King",
@@ -1295,6 +1279,22 @@
       "duration_ms": 250477,
       "name": "That's My King",
       "url": "https://open.spotify.com/track/7kfKCB4MvQJCrMy8pQlWiQ"
+    },
+    {
+      "added_at": "2025-03-28 00:01:10",
+      "album": {
+        "name": "Tare (Live)",
+        "url": "https://open.spotify.com/album/1rlFzowjP2vHdilHAvSU7v"
+      },
+      "artists": [
+        {
+          "name": "kaestrings",
+          "url": "https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC"
+        }
+      ],
+      "duration_ms": 477280,
+      "name": "Tare (Live)",
+      "url": "https://open.spotify.com/track/4KtT8dN9QaCPNwxtJwhKmB"
     },
     {
       "added_at": "2024-07-19 00:01:00",
@@ -1473,6 +1473,22 @@
       "url": "https://open.spotify.com/track/7LcoRUZI1URqzeumgGbKWp"
     },
     {
+      "added_at": "2024-11-15 00:01:00",
+      "album": {
+        "name": "Holy Spirit",
+        "url": "https://open.spotify.com/album/0dcPOadAg4gyXkKiSoa6N0"
+      },
+      "artists": [
+        {
+          "name": "Sunmisola Agbebi",
+          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
+        }
+      ],
+      "duration_ms": 351666,
+      "name": "Holy Spirit",
+      "url": "https://open.spotify.com/track/77I6qSpZcwJoEhxNo0yCQ9"
+    },
+    {
       "added_at": "2026-04-03 00:01:44",
       "album": {
         "name": "New Wine (Live)",
@@ -1487,22 +1503,6 @@
       "duration_ms": 888860,
       "name": "Praise The Lord - Live",
       "url": "https://open.spotify.com/track/5k9ILrXNbOOaaJUQkVtYSd"
-    },
-    {
-      "added_at": "2026-04-17 00:01:34",
-      "album": {
-        "name": "Oranmonise",
-        "url": "https://open.spotify.com/album/5rH2z6G9wONmPLzbBNPJsd"
-      },
-      "artists": [
-        {
-          "name": "Sunmisola Agbebi",
-          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
-        }
-      ],
-      "duration_ms": 578901,
-      "name": "Oranmonise",
-      "url": "https://open.spotify.com/track/17rXiC1IuXGJ0FBDrzSMKN"
     },
     {
       "added_at": "2025-08-22 00:01:27",

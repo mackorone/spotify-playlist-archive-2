@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PSDDh80gxI.md) - [plain]
 
 > Coez in cover di Indie Italia e noi tutti laureati 🎓
 
-[Spotify](https://open.spotify.com/user/spotify) - 455,004 likes - 81 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 455,012 likes - 81 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

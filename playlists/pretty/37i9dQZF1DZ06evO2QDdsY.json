@@ -1,12 +1,12 @@
 {
   "description": "This is Valerie June. The essential tracks, all in one playlist.",
-  "num_followers": 16764,
+  "num_followers": 16766,
   "original_name": "This Is Valerie June",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ag+cgAAAAACxM7g2YjN9EGbWtfThiHWb",
+  "snapshot_id": "ahDuAAAAAABKGzkK4ElywGl6naSP3Rbz",
   "tracks": [
     {
       "added_at": null,
@@ -380,9 +380,9 @@
           "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
         }
       ],
-      "duration_ms": 205506,
-      "name": "Why The Bright Stars Glow",
-      "url": "https://open.spotify.com/track/7gYMQltOReqftzZDH3jWs8"
+      "duration_ms": 251333,
+      "name": "Two Roads",
+      "url": "https://open.spotify.com/track/70mQOpzNZzO7FJvjmMWbY7"
     },
     {
       "added_at": null,
@@ -444,9 +444,9 @@
           "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
         }
       ],
-      "duration_ms": 251333,
-      "name": "Two Roads",
-      "url": "https://open.spotify.com/track/70mQOpzNZzO7FJvjmMWbY7"
+      "duration_ms": 205506,
+      "name": "Why The Bright Stars Glow",
+      "url": "https://open.spotify.com/track/7gYMQltOReqftzZDH3jWs8"
     },
     {
       "added_at": null,
@@ -492,9 +492,9 @@
           "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
         }
       ],
-      "duration_ms": 216586,
-      "name": "I Am In Love",
-      "url": "https://open.spotify.com/track/4K2uJNcCPOEa3o6lMAOZSm"
+      "duration_ms": 163760,
+      "name": "All I Really Wanna Do",
+      "url": "https://open.spotify.com/track/6zwaAZzlDrap10CYFQQIsq"
     },
     {
       "added_at": null,
@@ -556,9 +556,9 @@
           "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
         }
       ],
-      "duration_ms": 163760,
-      "name": "All I Really Wanna Do",
-      "url": "https://open.spotify.com/track/6zwaAZzlDrap10CYFQQIsq"
+      "duration_ms": 216586,
+      "name": "I Am In Love",
+      "url": "https://open.spotify.com/track/4K2uJNcCPOEa3o6lMAOZSm"
     },
     {
       "added_at": null,
@@ -579,26 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Home Inside (with Valerie June) (From \u201cNorah Jones is Playing Along\u201d Podcast)",
-        "url": "https://open.spotify.com/album/7zAu6xxacBn0nzZbwSZHEK"
-      },
-      "artists": [
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        },
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 139043,
-      "name": "Home Inside (with Valerie June) (From \u201cNorah Jones is Playing Along\u201d Podcast)",
-      "url": "https://open.spotify.com/track/2e8hzjW6K0TFPZkwIa38o0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "High Note [Feat. Stax Music Academy]",
         "url": "https://open.spotify.com/album/4vB0ksPKPmBGnv4FTn227w"
       },
@@ -615,6 +595,26 @@
       "duration_ms": 182099,
       "name": "High Note [Feat. Stax Music Academy]",
       "url": "https://open.spotify.com/track/74XZykTeeq5oGRfNcXN3Zf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Home Inside (with Valerie June) (From \u201cNorah Jones is Playing Along\u201d Podcast)",
+        "url": "https://open.spotify.com/album/7zAu6xxacBn0nzZbwSZHEK"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        },
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 139043,
+      "name": "Home Inside (with Valerie June) (From \u201cNorah Jones is Playing Along\u201d Podcast)",
+      "url": "https://open.spotify.com/track/2e8hzjW6K0TFPZkwIa38o0"
     },
     {
       "added_at": null,
@@ -715,6 +715,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Moon And Stars: Prescriptions For Dreamers (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1zShXPlRJNXANZolct3VzL"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 242840,
+      "name": "Within You - Moon And Stars / Acoustic",
+      "url": "https://open.spotify.com/track/3CGswhS4HazxivUCTfDlZq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cheese (feat. PawPaw Rod & Valerie June)",
         "url": "https://open.spotify.com/album/3qSABvJGms0qKHNI6aqYov"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 201921,
       "name": "Up and Rolling (feat. Son Little and Valerie June)",
       "url": "https://open.spotify.com/track/2Z76Gvp5iZcEkszy10LNQp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Moon And Stars: Prescriptions For Dreamers (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1zShXPlRJNXANZolct3VzL"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 242840,
-      "name": "Within You - Moon And Stars / Acoustic",
-      "url": "https://open.spotify.com/track/3CGswhS4HazxivUCTfDlZq"
     },
     {
       "added_at": null,
@@ -859,8 +859,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Under Cover",
-        "url": "https://open.spotify.com/album/6vw0q0HwJCJUmSfkjCKtwH"
+        "name": "Red Hot: A Memphis Celebration of Sun Records",
+        "url": "https://open.spotify.com/album/5i5GqRNs1ifV07HCQLQH6c"
       },
       "artists": [
         {
@@ -868,9 +868,9 @@
           "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
         }
       ],
-      "duration_ms": 187880,
-      "name": "Imagine",
-      "url": "https://open.spotify.com/track/4xUsxA83y9Ea5qC6v8m6VG"
+      "duration_ms": 171693,
+      "name": "Sure to Fall",
+      "url": "https://open.spotify.com/track/13RQs1T5nEDGq5JVBFHJEo"
     }
   ],
   "unique_name": "This Is Valerie June",

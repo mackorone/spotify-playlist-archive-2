@@ -1925,6 +1925,24 @@
     },
     {
       "album": {
+        "name": "How It Was Before",
+        "url": "https://open.spotify.com/album/7kv6ul5aK5WUJD7cgWiM15"
+      },
+      "artists": [
+        {
+          "name": "Tom Gregory",
+          "url": "https://open.spotify.com/artist/6Rmg5JiRphFMlhkwGNl9Fu"
+        }
+      ],
+      "date_added": "2026-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170704,
+      "name": "How It Was Before",
+      "url": "https://open.spotify.com/track/19oXrZhSs9V7jk0GwYp24M"
+    },
+    {
+      "album": {
         "name": "How Love Works",
         "url": "https://open.spotify.com/album/5LZtErW9Uxo4cUSA11ZFHk"
       },

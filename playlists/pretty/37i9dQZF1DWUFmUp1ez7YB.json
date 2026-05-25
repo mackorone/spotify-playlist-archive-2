@@ -1,12 +1,12 @@
 {
   "description": "Los \u00e9xitos de la salsa de ayer y hoy en un s\u00f3lo lugar. Foto: Willie Col\u00f3n\n",
-  "num_followers": 1116166,
+  "num_followers": 1116353,
   "original_name": "Dame Salsa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAK+UFKQgHGMWqmvow9Fo55XsqKwF",
+  "snapshot_id": "AAAAAF+XRt7MPM7FIeMCtgbgu9xQ0FSU",
   "tracks": [
     {
       "added_at": "2026-05-15 05:35:27",
@@ -779,22 +779,6 @@
     {
       "added_at": "2026-05-15 05:35:27",
       "album": {
-        "name": "Oro Salsero",
-        "url": "https://open.spotify.com/album/5X1QYXR9eQO3cYZrqeoIYE"
-      },
-      "artists": [
-        {
-          "name": "Rey Ruiz",
-          "url": "https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ"
-        }
-      ],
-      "duration_ms": 289586,
-      "name": "No Me Acostumbro",
-      "url": "https://open.spotify.com/track/4SjBGbtJz77ximBiOZcIn6"
-    },
-    {
-      "added_at": "2026-05-15 05:35:27",
-      "album": {
         "name": "Grandes Exitos",
         "url": "https://open.spotify.com/album/20o8eVLMPNGaa5Lp5W2a51"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 287893,
       "name": "Rebeli\u00f3n",
       "url": "https://open.spotify.com/track/3v32VtMTRZbIQJUFsQpeJD"
+    },
+    {
+      "added_at": "2026-05-15 05:35:27",
+      "album": {
+        "name": "Oro Salsero",
+        "url": "https://open.spotify.com/album/5X1QYXR9eQO3cYZrqeoIYE"
+      },
+      "artists": [
+        {
+          "name": "Rey Ruiz",
+          "url": "https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ"
+        }
+      ],
+      "duration_ms": 289586,
+      "name": "No Me Acostumbro",
+      "url": "https://open.spotify.com/track/4SjBGbtJz77ximBiOZcIn6"
     },
     {
       "added_at": "2026-05-15 05:35:27",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2026-05-15 05:35:27",
       "album": {
-        "name": "Dicen Que Soy",
-        "url": "https://open.spotify.com/album/5Bj8dRzPK5F1ozrV5IPb4u"
-      },
-      "artists": [
-        {
-          "name": "LA INDIA",
-          "url": "https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck"
-        }
-      ],
-      "duration_ms": 280013,
-      "name": "Ese Hombre",
-      "url": "https://open.spotify.com/track/1BK353EYyBMkDd80kmfrqA"
-    },
-    {
-      "added_at": "2026-05-15 05:35:27",
-      "album": {
         "name": "Salsa",
         "url": "https://open.spotify.com/album/5Q5kjxNsrkZ2ImkRUi7w3c"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 386853,
       "name": "La Cartera",
       "url": "https://open.spotify.com/track/1mpKcP8f2gQrInkh2FLb1N"
+    },
+    {
+      "added_at": "2026-05-15 05:35:27",
+      "album": {
+        "name": "Dicen Que Soy",
+        "url": "https://open.spotify.com/album/5Bj8dRzPK5F1ozrV5IPb4u"
+      },
+      "artists": [
+        {
+          "name": "LA INDIA",
+          "url": "https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck"
+        }
+      ],
+      "duration_ms": 280013,
+      "name": "Ese Hombre",
+      "url": "https://open.spotify.com/track/1BK353EYyBMkDd80kmfrqA"
     },
     {
       "added_at": "2026-05-15 05:35:27",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2026-05-15 05:35:27",
       "album": {
+        "name": "Mis 30 Mejores Canciones",
+        "url": "https://open.spotify.com/album/6fuOt44vgqDnAnZguOJecP"
+      },
+      "artists": [
+        {
+          "name": "Jerry Rivera",
+          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
+        }
+      ],
+      "duration_ms": 223440,
+      "name": "Casi un Hechizo",
+      "url": "https://open.spotify.com/track/2VyxUBO64ggj5uFJJN5KyF"
+    },
+    {
+      "added_at": "2026-05-15 05:35:27",
+      "album": {
         "name": "Desde Un Principio / From The Beginning",
         "url": "https://open.spotify.com/album/5d7Tr9DguGh9z9oByKWYoI"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 366200,
       "name": "Vivir Lo Nuestro",
       "url": "https://open.spotify.com/track/0LIZVQBQtDi4lLhB83qJIp"
-    },
-    {
-      "added_at": "2026-05-15 05:35:27",
-      "album": {
-        "name": "Mis 30 Mejores Canciones",
-        "url": "https://open.spotify.com/album/6fuOt44vgqDnAnZguOJecP"
-      },
-      "artists": [
-        {
-          "name": "Jerry Rivera",
-          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
-        }
-      ],
-      "duration_ms": 223440,
-      "name": "Casi un Hechizo",
-      "url": "https://open.spotify.com/track/2VyxUBO64ggj5uFJJN5KyF"
     },
     {
       "added_at": "2026-05-15 05:35:27",

@@ -1,6 +1,6 @@
 {
   "description": "afrobeats daqui, de fora, de todos os cantos",
-  "num_followers": 23199,
+  "num_followers": 23202,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
@@ -231,62 +231,6 @@
     {
       "added_at": "2026-05-22 03:01:20",
       "album": {
-        "name": "Aye Kan (Are You Coming Back?) [feat. Ayra Starr]",
-        "url": "https://open.spotify.com/album/6qg58bqEAREvTlAo0ytie9"
-      },
-      "artists": [
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 184653,
-      "name": "Aye Kan (Are You Coming Back?) [feat. Ayra Starr]",
-      "url": "https://open.spotify.com/track/25jdAC3wA5yiwKkGD1n7t2"
-    },
-    {
-      "added_at": "2026-05-22 03:01:20",
-      "album": {
-        "name": "EXPECTATIVAS",
-        "url": "https://open.spotify.com/album/172ipzW34GEnl38MHofXcf"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 202893,
-      "name": "EXPECTATIVAS",
-      "url": "https://open.spotify.com/track/6pFD81uwGh25w62Ut3XSqd"
-    },
-    {
-      "added_at": "2026-05-22 03:01:20",
-      "album": {
-        "name": "KayBlack & Burna Boy - Spotify Sessions",
-        "url": "https://open.spotify.com/album/72I7qkTVZYZZX3WaRkXB1Z"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        },
-        {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
-        }
-      ],
-      "duration_ms": 165540,
-      "name": "TaTaTa - Spotify Sessions",
-      "url": "https://open.spotify.com/track/06sFcSZXIEGVgebMjnRwXr"
-    },
-    {
-      "added_at": "2026-05-22 03:01:20",
-      "album": {
         "name": "AFRICAN GIRLS",
         "url": "https://open.spotify.com/album/7F76UW4g4Mq8rRLznvAAuc"
       },
@@ -319,6 +263,62 @@
       "duration_ms": 125560,
       "name": "Mal o Bien",
       "url": "https://open.spotify.com/track/2EzovFuGDAcjzMGuz39pt4"
+    },
+    {
+      "added_at": "2026-05-22 03:01:20",
+      "album": {
+        "name": "KayBlack & Burna Boy - Spotify Sessions",
+        "url": "https://open.spotify.com/album/72I7qkTVZYZZX3WaRkXB1Z"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        }
+      ],
+      "duration_ms": 165540,
+      "name": "TaTaTa - Spotify Sessions",
+      "url": "https://open.spotify.com/track/06sFcSZXIEGVgebMjnRwXr"
+    },
+    {
+      "added_at": "2026-05-22 03:01:20",
+      "album": {
+        "name": "Aye Kan (Are You Coming Back?) [feat. Ayra Starr]",
+        "url": "https://open.spotify.com/album/6qg58bqEAREvTlAo0ytie9"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 184653,
+      "name": "Aye Kan (Are You Coming Back?) [feat. Ayra Starr]",
+      "url": "https://open.spotify.com/track/25jdAC3wA5yiwKkGD1n7t2"
+    },
+    {
+      "added_at": "2026-05-22 03:01:20",
+      "album": {
+        "name": "EXPECTATIVAS",
+        "url": "https://open.spotify.com/album/172ipzW34GEnl38MHofXcf"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 202893,
+      "name": "EXPECTATIVAS",
+      "url": "https://open.spotify.com/track/6pFD81uwGh25w62Ut3XSqd"
     },
     {
       "added_at": "2026-05-22 03:01:20",
@@ -619,6 +619,26 @@
     {
       "added_at": "2026-05-22 03:01:20",
       "album": {
+        "name": "P\u00f4kas / Mfalme",
+        "url": "https://open.spotify.com/album/3NSNBHp6tJvSswP4TIagVh"
+      },
+      "artists": [
+        {
+          "name": "Amiri",
+          "url": "https://open.spotify.com/artist/21AJ8DDu51y8XYvVRjHU4p"
+        },
+        {
+          "name": "Deryck Cabrera",
+          "url": "https://open.spotify.com/artist/14SCQ3mQawCGO2ktCRGgGd"
+        }
+      ],
+      "duration_ms": 345022,
+      "name": "P\u00f4kas",
+      "url": "https://open.spotify.com/track/7rxlGOl1BGVdCcV3uC0KQN"
+    },
+    {
+      "added_at": "2026-05-22 03:01:20",
+      "album": {
         "name": "Grande",
         "url": "https://open.spotify.com/album/1eUicFF5r32q4NLYguMtiW"
       },
@@ -643,26 +663,6 @@
       "duration_ms": 234000,
       "name": "Me Balan\u00e7a Toda",
       "url": "https://open.spotify.com/track/0RILtthfBvGM3FpX7GkI4p"
-    },
-    {
-      "added_at": "2026-05-22 03:01:20",
-      "album": {
-        "name": "P\u00f4kas / Mfalme",
-        "url": "https://open.spotify.com/album/3NSNBHp6tJvSswP4TIagVh"
-      },
-      "artists": [
-        {
-          "name": "Amiri",
-          "url": "https://open.spotify.com/artist/21AJ8DDu51y8XYvVRjHU4p"
-        },
-        {
-          "name": "Deryck Cabrera",
-          "url": "https://open.spotify.com/artist/14SCQ3mQawCGO2ktCRGgGd"
-        }
-      ],
-      "duration_ms": 345022,
-      "name": "P\u00f4kas",
-      "url": "https://open.spotify.com/track/7rxlGOl1BGVdCcV3uC0KQN"
     },
     {
       "added_at": "2026-05-22 03:01:20",
@@ -815,26 +815,22 @@
     {
       "added_at": "2026-05-22 03:01:20",
       "album": {
-        "name": "A Beira Mar",
-        "url": "https://open.spotify.com/album/3aNKW005bNZTANO5mEAO7N"
+        "name": "12 de Junho",
+        "url": "https://open.spotify.com/album/5bHkLSLhWDFZq9OsMwjgs4"
       },
       "artists": [
         {
-          "name": "Jhayam",
-          "url": "https://open.spotify.com/artist/4Ekm84CINBTMHbhVJXh16I"
+          "name": "Muse Maya",
+          "url": "https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm"
         },
         {
-          "name": "Zeferina",
-          "url": "https://open.spotify.com/artist/0R5sBkXY9VEYCpsheNOiDr"
-        },
-        {
-          "name": "D3jav\u00fa",
-          "url": "https://open.spotify.com/artist/06T09O5s3kk54TE8jrCngJ"
+          "name": "808 Luke",
+          "url": "https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa"
         }
       ],
-      "duration_ms": 228735,
-      "name": "A Beira Mar",
-      "url": "https://open.spotify.com/track/0LqjYe7SBezeZEDvnC2USH"
+      "duration_ms": 190588,
+      "name": "12 de Junho",
+      "url": "https://open.spotify.com/track/7EzBbffkrBToB3Gh7kvP8c"
     },
     {
       "added_at": "2026-05-22 03:01:20",
@@ -859,22 +855,26 @@
     {
       "added_at": "2026-05-22 03:01:20",
       "album": {
-        "name": "12 de Junho",
-        "url": "https://open.spotify.com/album/5bHkLSLhWDFZq9OsMwjgs4"
+        "name": "A Beira Mar",
+        "url": "https://open.spotify.com/album/3aNKW005bNZTANO5mEAO7N"
       },
       "artists": [
         {
-          "name": "Muse Maya",
-          "url": "https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm"
+          "name": "Jhayam",
+          "url": "https://open.spotify.com/artist/4Ekm84CINBTMHbhVJXh16I"
         },
         {
-          "name": "808 Luke",
-          "url": "https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa"
+          "name": "Zeferina",
+          "url": "https://open.spotify.com/artist/0R5sBkXY9VEYCpsheNOiDr"
+        },
+        {
+          "name": "D3jav\u00fa",
+          "url": "https://open.spotify.com/artist/06T09O5s3kk54TE8jrCngJ"
         }
       ],
-      "duration_ms": 190588,
-      "name": "12 de Junho",
-      "url": "https://open.spotify.com/track/7EzBbffkrBToB3Gh7kvP8c"
+      "duration_ms": 228735,
+      "name": "A Beira Mar",
+      "url": "https://open.spotify.com/track/0LqjYe7SBezeZEDvnC2USH"
     },
     {
       "added_at": "2026-05-22 03:01:20",

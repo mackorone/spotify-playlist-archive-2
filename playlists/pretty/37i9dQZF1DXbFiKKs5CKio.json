@@ -1,6 +1,6 @@
 {
   "description": "Muito romance, groove suave e R&B feitos no Brasil. ",
-  "num_followers": 72633,
+  "num_followers": 72638,
   "original_name": "su\u00edte.",
   "owner": {
     "name": "Spotify",
@@ -307,6 +307,26 @@
     {
       "added_at": "2026-05-22 03:01:26",
       "album": {
+        "name": "Fiquei assim",
+        "url": "https://open.spotify.com/album/6lwP5k0KjFzM2Rk1sIdCfN"
+      },
+      "artists": [
+        {
+          "name": "THAMI",
+          "url": "https://open.spotify.com/artist/6fupiyOvfbI12eijANkwZL"
+        },
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        }
+      ],
+      "duration_ms": 218662,
+      "name": "Fiquei assim",
+      "url": "https://open.spotify.com/track/4F9xeQ3OJF2DOtdZdcCxnz"
+    },
+    {
+      "added_at": "2026-05-22 03:01:26",
+      "album": {
         "name": "FORA DA LEI",
         "url": "https://open.spotify.com/album/2cV1oGBot85ZGwuTqOVz2E"
       },
@@ -339,22 +359,22 @@
     {
       "added_at": "2026-05-22 03:01:26",
       "album": {
-        "name": "Fiquei assim",
-        "url": "https://open.spotify.com/album/6lwP5k0KjFzM2Rk1sIdCfN"
+        "name": "Neverl\u00e2ndia Sessions (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4HRRpkcYLFCJgGKBSviGkT"
       },
       "artists": [
         {
-          "name": "THAMI",
-          "url": "https://open.spotify.com/artist/6fupiyOvfbI12eijANkwZL"
+          "name": "Reis do Nada",
+          "url": "https://open.spotify.com/artist/53uVJS9yN2F0iVsZU05or3"
         },
         {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+          "name": "NUNES",
+          "url": "https://open.spotify.com/artist/4FRO1O8sl4JqvXrJSNGqPr"
         }
       ],
-      "duration_ms": 218662,
-      "name": "Fiquei assim",
-      "url": "https://open.spotify.com/track/4F9xeQ3OJF2DOtdZdcCxnz"
+      "duration_ms": 206000,
+      "name": "Vai dar Bom (Ao Vivo)",
+      "url": "https://open.spotify.com/track/4Z21ly8fVtNB282CwwTknZ"
     },
     {
       "added_at": "2026-05-22 03:01:26",
@@ -375,26 +395,6 @@
       "duration_ms": 223676,
       "name": "sinais",
       "url": "https://open.spotify.com/track/75YxsDYdCVXE8bYQtGFtJd"
-    },
-    {
-      "added_at": "2026-05-22 03:01:26",
-      "album": {
-        "name": "Neverl\u00e2ndia Sessions (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4HRRpkcYLFCJgGKBSviGkT"
-      },
-      "artists": [
-        {
-          "name": "Reis do Nada",
-          "url": "https://open.spotify.com/artist/53uVJS9yN2F0iVsZU05or3"
-        },
-        {
-          "name": "NUNES",
-          "url": "https://open.spotify.com/artist/4FRO1O8sl4JqvXrJSNGqPr"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Vai dar Bom (Ao Vivo)",
-      "url": "https://open.spotify.com/track/4Z21ly8fVtNB282CwwTknZ"
     },
     {
       "added_at": "2026-05-22 03:01:26",
@@ -527,18 +527,22 @@
     {
       "added_at": "2026-05-22 03:01:26",
       "album": {
-        "name": "93",
-        "url": "https://open.spotify.com/album/2sbYShIsSsFnm62JKjTqUJ"
+        "name": "Dissolu\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/7m90r6b0oCcJlMPMzW9NXB"
       },
       "artists": [
         {
-          "name": "Kynnie",
-          "url": "https://open.spotify.com/artist/20JcWtWgwyxcfUg8SyKwjy"
+          "name": "Beb\u00e9",
+          "url": "https://open.spotify.com/artist/3u7JauDo3fDN6HBNtRTAFu"
+        },
+        {
+          "name": "Tassia Reis",
+          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
         }
       ],
-      "duration_ms": 226073,
-      "name": "Me Curar",
-      "url": "https://open.spotify.com/track/0cS24SOojuYiP5OIP3ikxO"
+      "duration_ms": 179586,
+      "name": "Compartilhando o c\u00e9u",
+      "url": "https://open.spotify.com/track/79o4A5fUPdeniOCFNIb4Ag"
     },
     {
       "added_at": "2026-05-22 03:01:26",
@@ -563,6 +567,22 @@
     {
       "added_at": "2026-05-22 03:01:26",
       "album": {
+        "name": "93",
+        "url": "https://open.spotify.com/album/2sbYShIsSsFnm62JKjTqUJ"
+      },
+      "artists": [
+        {
+          "name": "Kynnie",
+          "url": "https://open.spotify.com/artist/20JcWtWgwyxcfUg8SyKwjy"
+        }
+      ],
+      "duration_ms": 226073,
+      "name": "Me Curar",
+      "url": "https://open.spotify.com/track/0cS24SOojuYiP5OIP3ikxO"
+    },
+    {
+      "added_at": "2026-05-22 03:01:26",
+      "album": {
         "name": "Hip Hop Machine #18",
         "url": "https://open.spotify.com/album/0piuFU4SnOxlIQ6izGufoS"
       },
@@ -583,26 +603,6 @@
       "duration_ms": 357248,
       "name": "Se Foi",
       "url": "https://open.spotify.com/track/4vmSWLtbmDu1jGG13EeCis"
-    },
-    {
-      "added_at": "2026-05-22 03:01:26",
-      "album": {
-        "name": "Dissolu\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/7m90r6b0oCcJlMPMzW9NXB"
-      },
-      "artists": [
-        {
-          "name": "Beb\u00e9",
-          "url": "https://open.spotify.com/artist/3u7JauDo3fDN6HBNtRTAFu"
-        },
-        {
-          "name": "Tassia Reis",
-          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
-        }
-      ],
-      "duration_ms": 179586,
-      "name": "Compartilhando o c\u00e9u",
-      "url": "https://open.spotify.com/track/79o4A5fUPdeniOCFNIb4Ag"
     },
     {
       "added_at": "2026-05-22 03:01:26",
@@ -671,22 +671,18 @@
     {
       "added_at": "2026-05-22 03:01:26",
       "album": {
-        "name": "V\u00edcios q eu gosto",
-        "url": "https://open.spotify.com/album/5VabHZWJ63oMysUQC7ULsN"
+        "name": "Esse \u00c9 Meu Mundo Deluxe (DELUXE)",
+        "url": "https://open.spotify.com/album/5WcwM4mohIDlkFdcRwsHfJ"
       },
       "artists": [
         {
-          "name": "ogoin",
-          "url": "https://open.spotify.com/artist/31lFbAIACVCAY9J0JoLbCy"
-        },
-        {
-          "name": "Linguini",
-          "url": "https://open.spotify.com/artist/3VNJeULanp6BoL1MOConoz"
+          "name": "Paige",
+          "url": "https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9"
         }
       ],
-      "duration_ms": 152571,
-      "name": "V\u00edcios q eu gosto",
-      "url": "https://open.spotify.com/track/7E2VYyqSttr2ixmQuVKkmJ"
+      "duration_ms": 183000,
+      "name": "Azul",
+      "url": "https://open.spotify.com/track/1nsjzuCsNlpx2fk0rkcr87"
     },
     {
       "added_at": "2026-05-22 03:01:26",
@@ -707,6 +703,26 @@
     {
       "added_at": "2026-05-22 03:01:26",
       "album": {
+        "name": "V\u00edcios q eu gosto",
+        "url": "https://open.spotify.com/album/5VabHZWJ63oMysUQC7ULsN"
+      },
+      "artists": [
+        {
+          "name": "ogoin",
+          "url": "https://open.spotify.com/artist/31lFbAIACVCAY9J0JoLbCy"
+        },
+        {
+          "name": "Linguini",
+          "url": "https://open.spotify.com/artist/3VNJeULanp6BoL1MOConoz"
+        }
+      ],
+      "duration_ms": 152571,
+      "name": "V\u00edcios q eu gosto",
+      "url": "https://open.spotify.com/track/7E2VYyqSttr2ixmQuVKkmJ"
+    },
+    {
+      "added_at": "2026-05-22 03:01:26",
+      "album": {
         "name": "reconectar",
         "url": "https://open.spotify.com/album/0xOIStBgV4x85AeYWrtXmI"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 168275,
       "name": "reconectar",
       "url": "https://open.spotify.com/track/3weVtoWNEdLnqrJ4qrw6G2"
-    },
-    {
-      "added_at": "2026-05-22 03:01:26",
-      "album": {
-        "name": "Esse \u00c9 Meu Mundo Deluxe (DELUXE)",
-        "url": "https://open.spotify.com/album/5WcwM4mohIDlkFdcRwsHfJ"
-      },
-      "artists": [
-        {
-          "name": "Paige",
-          "url": "https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "Azul",
-      "url": "https://open.spotify.com/track/1nsjzuCsNlpx2fk0rkcr87"
     },
     {
       "added_at": "2026-05-22 03:01:26",

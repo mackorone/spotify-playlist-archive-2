@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-516 songs - 1 day 8 hr 4 min
+518 songs - 1 day 8 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -288,6 +288,7 @@
 | [Mercy's Song \(Psalm 6\)](https://open.spotify.com/track/580tHG3i04jZw2O1fwnJXy) | [RedemptionRising](https://open.spotify.com/artist/40yxohQeJ1MJhlJhzAj5Ty) | [Mercy's Song \(Psalm 6\)](https://open.spotify.com/album/5H78VfPQjOt1RG7EmiPo57) | 3:48 | 2025-09-07 |  |
 | [Message Through Time](https://open.spotify.com/track/4BPrHDgqGxnWANdMphAbNQ) | [Groove Vultures](https://open.spotify.com/artist/4mxU5Dnd342CsqAS6viJuj) | [Message Through Time](https://open.spotify.com/album/45LoKgIdcZiDUrx7V5HbuC) | 5:21 | 2025-11-02 | 2025-12-17 |
 | [Mi Porción Del Cielo](https://open.spotify.com/track/0j2FJ9VZRxyveO8nm28o1p) | [Jimmy Molina](https://open.spotify.com/artist/3mVMWQayvasA1ugv6dy35e) | [Mi Porción Del Cielo](https://open.spotify.com/album/2IcSq6ZZPiJGoaIFBFuAl5) | 2:40 | 2025-12-24 | 2026-03-18 |
+| [MIDNIGHT WHEELS](https://open.spotify.com/track/3OWpxlReVR8TdHPhAQyxY9) | [MARYLANE](https://open.spotify.com/artist/5r45fyB9QJhHBZHinKcqyY) | [MIDNIGHT WHEELS](https://open.spotify.com/album/221cfYszp8e0WF8ltJp5Ns) | 4:38 | 2026-05-24 |  |
 | [Might](https://open.spotify.com/track/29tEoaOohhs9T5KzL5nwSp) | [CousinRay](https://open.spotify.com/artist/1a6zRnXwYNfgmQwGCe7aZZ), [Drew Nold](https://open.spotify.com/artist/33aaruu0jaWNP2jmw03YL9), [Steam Slicer](https://open.spotify.com/artist/1BrdiIVdlnhJZRJkLCb5TI) | [Might](https://open.spotify.com/album/3kzrk1s5s52bPX4RJlXBme) | 4:00 | 2025-09-30 | 2025-12-17 |
 | [Miss Reaper](https://open.spotify.com/track/6ukgL9GrdN3UjlarTh8siP) | [Lota](https://open.spotify.com/artist/2v9VcYjEiEp8VweMp3LV5W) | [Miss Reaper](https://open.spotify.com/album/1Y8qZkQo1yJk6f28WINpTr) | 3:29 | 2026-05-02 |  |
 | [Mojo On](https://open.spotify.com/track/3TdRMlfp6LGeAtOASCN8nx) | [Luback](https://open.spotify.com/artist/7A4hy5k2AzVjPu8yjXnZr9), [The Clics](https://open.spotify.com/artist/0haX6u2d6rCkAXWJB4d9sO) | [Mojo On](https://open.spotify.com/album/22flR5Lny2T7GFrDKLxxUD) | 4:21 | 2025-11-02 | 2025-12-17 |
@@ -418,6 +419,7 @@
 | [Sonnenbrille im Club](https://open.spotify.com/track/5Jf9zLu8K5JYqFU9MK1bEW) | [ENFYS](https://open.spotify.com/artist/6mHsW7x3l8WQb2LQC1xAXd), [BrainDamage](https://open.spotify.com/artist/4SlcBG3iScSBYLtfoYpDDk) | [Sonnenbrille im Club](https://open.spotify.com/album/3C9W4naev7opKIi9mknkLJ) | 4:08 | 2026-04-27 |  |
 | [Sons of Gondor](https://open.spotify.com/track/6hqcv7K8f3QaoQF8acXZMP) | [Echoes & Wine](https://open.spotify.com/artist/3CETJ19bzJyAxO7Alv7Xp7) | [Sons of Gondor](https://open.spotify.com/album/79niMGbAoMuNwF4iJS2idh) | 4:47 | 2025-12-31 | 2026-03-18 |
 | [Sorry Not Sorry](https://open.spotify.com/track/4qBf2gBewjF1tnoUzR6n3g) | [the dt's](https://open.spotify.com/artist/4nZVHrZrnqw6nNruvY3G0t) | [Sorry Not Sorry](https://open.spotify.com/album/1bHQETnkpeyWRLFJSbBuOt) | 3:41 | 2026-01-13 | 2026-03-18 |
+| [Sparks in this Town](https://open.spotify.com/track/3RqIdENWmSSxFVbkAYNFnZ) | [Fionn Camp](https://open.spotify.com/artist/2zlENRxJLJxwUaKpKBT38L), [Brandon Bing](https://open.spotify.com/artist/3iZ4FWTAjIRDhQI9El9dlR) | [Sparks in this Town](https://open.spotify.com/album/4WXHNk60Qd7lnwzWpjgsAZ) | 3:43 | 2026-05-24 |  |
 | [Spine](https://open.spotify.com/track/23DvAjrBATcWGDy6U9CqDB) | [Les Hommes Crabes](https://open.spotify.com/artist/4ULwrrKmZDTybXbNDC3xGL) | [GALAK 51](https://open.spotify.com/album/5advJux4HnBDXaLvUovkq6) | 4:29 | 2026-01-25 |  |
 | [Stay Back](https://open.spotify.com/track/02wm1989sxHOnZJK9IY0EU) | [Jenny Scara](https://open.spotify.com/artist/0F4yegE6Xa3vC2KvCoJTGw) | [I've Got a Story to Tell](https://open.spotify.com/album/5Ssz0Vi0rbAGXRkF4hhOoX) | 2:25 | 2026-04-30 |  |
 | [Sternschnuppenmoment](https://open.spotify.com/track/5BVOoeObY2AYkSTQlokJxM) | [Foreignson and his Ghosts](https://open.spotify.com/artist/6mHpLUCFZ6U5aOY4Qmjy3h) | [Sternschnuppenmoment](https://open.spotify.com/album/43vzqAlHnIQKFRF8aK8hTk) | 3:52 | 2026-03-24 | 2026-04-21 |

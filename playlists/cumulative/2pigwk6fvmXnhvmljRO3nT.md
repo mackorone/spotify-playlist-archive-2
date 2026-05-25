@@ -4,7 +4,7 @@
 
 > 
 
-8,632 songs - 21 day 23 hr 56 min
+8,634 songs - 22 day 0 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -6877,6 +6877,7 @@
 | [untitled 06 \| 06.30.2014.](https://open.spotify.com/track/4M2t7bP4Mq87mGMn0PObUX) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [untitled unmastered.](https://open.spotify.com/album/0kL3TYRsSXnu0iJvFO3rud) | 3:28 | 2025-01-03 |  |
 | [untitled 07 \| 2014 \- 2016](https://open.spotify.com/track/40IQooNkPRVtn4zlE3ZFpA) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [untitled unmastered.](https://open.spotify.com/album/0kL3TYRsSXnu0iJvFO3rud) | 8:16 | 2025-01-03 |  |
 | [untitled 08 \| 09.06.2014.](https://open.spotify.com/track/5bBUDJUfGcG7eFy3Bf4fXv) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [untitled unmastered.](https://open.spotify.com/album/0kL3TYRsSXnu0iJvFO3rud) | 3:55 | 2025-01-03 |  |
+| [Unwelcome School](https://open.spotify.com/track/2Qc23ytxTlv8Db3mAP8SSw) | [Mitsukiyo](https://open.spotify.com/artist/0cdpFI2dZC34peIkjI1rLs) | [Blue Archive 3rd Anniversary \(Original Soundtrack\)](https://open.spotify.com/album/2IoxB3yDVX8syf1cOHqxcu) | 2:00 | 2026-05-25 |  |
 | [Unwritten](https://open.spotify.com/track/1D1nixOVWOxvNfWi0UD7VX) | [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [Unwritten](https://open.spotify.com/album/1meis09isQJFDA65afUTt8) | 4:19 | 2025-01-25 | 2025-04-23 |
 | [Unwritten](https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf) | [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [Unwritten](https://open.spotify.com/album/3PEzTAuPW5IjLJ58FzwQeL) | 4:19 | 2025-01-04 |  |
 | [Up](https://open.spotify.com/track/1wGGSBs8LqZ2rFJnLEFBxW) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Slime Season 2](https://open.spotify.com/album/4N6sTUH8VjSMJrMLseaNWz) | 3:34 | 2025-01-15 |  |
@@ -7804,6 +7805,7 @@
 | [フライデー・ナイト](https://open.spotify.com/track/4W3rP2KZkKEykdWvlWLgyc) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [劇場](https://open.spotify.com/album/2bazvx0V9FTIKmJ9biVQtc) | 2:56 | 2026-04-07 |  |
 | [フラッシュバッカー](https://open.spotify.com/track/2qdPWFrknWyLXYIPpbtAgD) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンド](https://open.spotify.com/album/5ZGzGGNAB6U7QlKpdaMu0d) | 4:35 | 2025-01-03 |  |
 | [フロム](https://open.spotify.com/track/7DcD23bIJfEbM9W2xCgVxe) | [TRUE](https://open.spotify.com/artist/0UwVT0iMLLAa9SUNENg4te) | [Lonely Queen's Liberation Party](https://open.spotify.com/album/4QP8jwitKgzWaNONjLof5h) | 4:15 | 2025-01-15 |  |
+| [フローズン](https://open.spotify.com/track/6t5sxWjiUbIRQQL9QxwbsV) | [TRUE](https://open.spotify.com/artist/0UwVT0iMLLAa9SUNENg4te) | [TRUE the BEST](https://open.spotify.com/album/6lLjLTD2mRzNzXaiJTHDwW) | 3:29 | 2026-05-25 |  |
 | [ブリキノダンス](https://open.spotify.com/track/6r2sPO4Uk9w9v3UMBU3DyZ) | [Kuroneko](https://open.spotify.com/artist/6Tz3nFnN2k3qvsjgJuCO1p) | [嘘の火花 \(Special Edition\)](https://open.spotify.com/album/0l7jwt10x92VsNQdBgiKfC) | 3:19 | 2025-10-02 |  |
 | [ブルーと踊って](https://open.spotify.com/track/4SzKPPrrFSebHA5RmbVN7d) | [UWANOSORA](https://open.spotify.com/artist/5cyWYZjbXR0b9yY7HztDFI) | [ブルーと踊って](https://open.spotify.com/album/2OR5lg8Fxhs6EZRpkHL5Dp) | 4:00 | 2025-11-22 |  |
 | [ブルーバード](https://open.spotify.com/track/2XpV9sHBexcNrz0Gyf3l18) | [Ikimonogakari](https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ) | [Chou Ikimonobakari Tennen Kinen Members Best Selection](https://open.spotify.com/album/6CM8A3Uhws8mAcNOxpBRNq) | 3:35 | 2025-01-03 |  |

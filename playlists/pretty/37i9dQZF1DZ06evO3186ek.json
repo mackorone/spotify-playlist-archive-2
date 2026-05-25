@@ -1,12 +1,12 @@
 {
   "description": "This is Maverick City Music. The essential tracks, all in one playlist.",
-  "num_followers": 165474,
+  "num_followers": 165489,
   "original_name": "This Is Maverick City Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ag+cgAAAAADD2KsdFbxin6VeeA+BPd5l",
+  "snapshot_id": "ahDuAAAAAABhr9PDjA9Triz8N4qrsr/A",
   "tracks": [
     {
       "added_at": null,
@@ -915,26 +915,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kingdom Book One",
-        "url": "https://open.spotify.com/album/4H7cvd7qmzOX4o1R8GS3X3"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 565833,
-      "name": "Kingdom(feat. Chandler Moore, Naomi Raine)",
-      "url": "https://open.spotify.com/track/1pAyPMHDHBOR3zlTK1eUb4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jubilee: Juneteenth Edition",
         "url": "https://open.spotify.com/album/6wjcKFIUSu5mz1CcN7CcZH"
       },
@@ -951,6 +931,26 @@
       "duration_ms": 360451,
       "name": "Jireh (feat. Mav City Gospel Choir, Chandler Moore, Naomi Raine)",
       "url": "https://open.spotify.com/track/2MYjytJWL1cXiv3jWvCqzZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kingdom Book One",
+        "url": "https://open.spotify.com/album/4H7cvd7qmzOX4o1R8GS3X3"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 565833,
+      "name": "Kingdom(feat. Chandler Moore, Naomi Raine)",
+      "url": "https://open.spotify.com/track/1pAyPMHDHBOR3zlTK1eUb4"
     },
     {
       "added_at": null,

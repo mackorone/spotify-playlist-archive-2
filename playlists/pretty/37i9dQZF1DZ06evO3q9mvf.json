@@ -1,12 +1,12 @@
 {
   "description": "This is The Slits. The essential tracks, all in one playlist.",
-  "num_followers": 3238,
+  "num_followers": 3237,
   "original_name": "This Is The Slits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ag+cgAAAAAA2nYlsR0u+Ul/vqK2VrLLk",
+  "snapshot_id": "ahDuAAAAAAD9Z6fWCdc2AIbdHnWCANNO",
   "tracks": [
     {
       "added_at": null,
@@ -235,70 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live at the Gibus Club",
-        "url": "https://open.spotify.com/album/04pZjd4uyJqPWNQ6gJLuQ9"
-      },
-      "artists": [
-        {
-          "name": "The Slits",
-          "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
-        }
-      ],
-      "duration_ms": 55293,
-      "name": "Une Homme et Un Slit (Live at The Gibus Club, 1978)",
-      "url": "https://open.spotify.com/track/0QC6haYulTktRMrYjunZJ8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Return of the Giant Slits",
-        "url": "https://open.spotify.com/album/4FDegVqIcHDBVQDWdLX3OX"
-      },
-      "artists": [
-        {
-          "name": "The Slits",
-          "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
-        }
-      ],
-      "duration_ms": 267293,
-      "name": "Improperly Dressed",
-      "url": "https://open.spotify.com/track/6hp8fyy5Yx1VUjA7EeCXzN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cut (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6ppPT0aXOtsAlG1QQVB9E0"
-      },
-      "artists": [
-        {
-          "name": "The Slits",
-          "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
-        }
-      ],
-      "duration_ms": 160213,
-      "name": "So Tough",
-      "url": "https://open.spotify.com/track/37djIDiwXDcazfaKVy6bu6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cut",
-        "url": "https://open.spotify.com/album/0TfUvdJAj5ggwaLihQQ5qs"
-      },
-      "artists": [
-        {
-          "name": "The Slits",
-          "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
-        }
-      ],
-      "duration_ms": 284400,
-      "name": "Liebe And Romanze - Slow Version",
-      "url": "https://open.spotify.com/track/3x66JmjdpL74nL44lmqYiW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "From The Basement",
         "url": "https://open.spotify.com/album/0l0EeFMVOi3oIpVEx4wtVs"
       },
@@ -343,6 +279,70 @@
       "duration_ms": 228160,
       "name": "Newtown",
       "url": "https://open.spotify.com/track/1e3ifvbu3nfTHFAN3qvS94"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cut",
+        "url": "https://open.spotify.com/album/0TfUvdJAj5ggwaLihQQ5qs"
+      },
+      "artists": [
+        {
+          "name": "The Slits",
+          "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
+        }
+      ],
+      "duration_ms": 284400,
+      "name": "Liebe And Romanze - Slow Version",
+      "url": "https://open.spotify.com/track/3x66JmjdpL74nL44lmqYiW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live at the Gibus Club",
+        "url": "https://open.spotify.com/album/04pZjd4uyJqPWNQ6gJLuQ9"
+      },
+      "artists": [
+        {
+          "name": "The Slits",
+          "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
+        }
+      ],
+      "duration_ms": 55293,
+      "name": "Une Homme et Un Slit (Live at The Gibus Club, 1978)",
+      "url": "https://open.spotify.com/track/0QC6haYulTktRMrYjunZJ8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Return of the Giant Slits",
+        "url": "https://open.spotify.com/album/4FDegVqIcHDBVQDWdLX3OX"
+      },
+      "artists": [
+        {
+          "name": "The Slits",
+          "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
+        }
+      ],
+      "duration_ms": 267293,
+      "name": "Improperly Dressed",
+      "url": "https://open.spotify.com/track/6hp8fyy5Yx1VUjA7EeCXzN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cut (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6ppPT0aXOtsAlG1QQVB9E0"
+      },
+      "artists": [
+        {
+          "name": "The Slits",
+          "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
+        }
+      ],
+      "duration_ms": 160213,
+      "name": "So Tough",
+      "url": "https://open.spotify.com/track/37djIDiwXDcazfaKVy6bu6"
     },
     {
       "added_at": null,
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
         }
       ],
-      "duration_ms": 180786,
-      "name": "A Boring Life",
-      "url": "https://open.spotify.com/track/20ISwjERE9iu3WodlBuifQ"
+      "duration_ms": 365293,
+      "name": "In The Beginning",
+      "url": "https://open.spotify.com/track/6psWuKnXsVNryfsHLAGvIV"
     },
     {
       "added_at": null,
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
         }
       ],
-      "duration_ms": 365293,
-      "name": "In The Beginning",
-      "url": "https://open.spotify.com/track/6psWuKnXsVNryfsHLAGvIV"
+      "duration_ms": 180786,
+      "name": "A Boring Life",
+      "url": "https://open.spotify.com/track/20ISwjERE9iu3WodlBuifQ"
     }
   ],
   "unique_name": "This Is The Slits",

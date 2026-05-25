@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71VcjjnyaBQ.md) - [plain]
 
 > Jazz for breakfast to start your day right.
 
-[Spotify](https://open.spotify.com/user/spotify) - 442,443 likes - 75 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 442,509 likes - 75 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71VcjjnyaBQ.md) - [plain]
 | 12 | [Quiet Sense \(feat\. Paolo Fresu\)](https://open.spotify.com/track/56OCZENfcrmeCpufvWZd0P) | [Triosence](https://open.spotify.com/artist/2NxFqOk7uZCe0hxfohdWJX), [Paolo Fresu](https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi) | [Quiet Sense \(feat\. Paolo Fresu\)](https://open.spotify.com/album/7BisVv834vN4y1h8CcWhjC) | 4:43 |
 | 13 | [Frere Jacques](https://open.spotify.com/track/4SwwjgzWcTeCw1xT9VTP6D) | [Ben Paterson](https://open.spotify.com/artist/0MHewfujqaxL7anJWkbnJG) | [Jazz Lullaby](https://open.spotify.com/album/0wDnMx1ZIjpH2TJSm6PCR7) | 3:09 |
 | 14 | [Nothing Happens Here](https://open.spotify.com/track/2sdeVQEoohNkfZFrVsoYkc) | [Julian Lage](https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT) | [Nothing Happens Here](https://open.spotify.com/album/1b1WrvvhpxD794cnkbes4K) | 4:14 |
-| 15 | [When I Fell for You](https://open.spotify.com/track/5o7zflAK8LxDYuqpSDmwhM) | [David Hazeltine](https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q) | [When I Fell for You](https://open.spotify.com/album/6v6O5lQqx8E3PqENPC7hAk) | 5:22 |
-| 16 | [End Of Summer](https://open.spotify.com/track/5Awwc8XXZPub32TbLWyOPp) | [Espen Eriksen Trio](https://open.spotify.com/artist/57BkYLMXOYqJ7KHFhd1VST) | [End of Summer](https://open.spotify.com/album/2LleX2N1IzAe93C0qpBxuZ) | 3:55 |
+| 15 | [End Of Summer](https://open.spotify.com/track/5Awwc8XXZPub32TbLWyOPp) | [Espen Eriksen Trio](https://open.spotify.com/artist/57BkYLMXOYqJ7KHFhd1VST) | [End of Summer](https://open.spotify.com/album/2LleX2N1IzAe93C0qpBxuZ) | 3:55 |
+| 16 | [When I Fell for You](https://open.spotify.com/track/5o7zflAK8LxDYuqpSDmwhM) | [David Hazeltine](https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q) | [When I Fell for You](https://open.spotify.com/album/6v6O5lQqx8E3PqENPC7hAk) | 5:22 |
 | 17 | [Deep in a Dream](https://open.spotify.com/track/069VcK8RjjzhZK3UT3A8ja) | [Dmitry Baevsky](https://open.spotify.com/artist/728obCMssc3nIbC1qyaWJq), [Clovis Nicolas](https://open.spotify.com/artist/5JsYUdqyzTibf8j5w3PXKh), [Jason Brown](https://open.spotify.com/artist/2MYIvlQlzAXcgIlS4qqflY), [Stéphane Belmondo](https://open.spotify.com/artist/7uHyUkVGYl24xpCzTGZlzQ) | [Deep in a Dream](https://open.spotify.com/album/3kvH4Zr11zkfvUtwGS2Z7F) | 5:40 |
 | 18 | [Glade](https://open.spotify.com/track/3KGpKf2fo1UM661ptimvoD) | [Fergus McCreadie](https://open.spotify.com/artist/5Yb1aFMX9xNtjFVDSdt2ZL) | [Forest Floor](https://open.spotify.com/album/7obbpxRcY0VOg5M7fzXwUi) | 5:42 |
 | 19 | [Softly As In A Morning Sunrise](https://open.spotify.com/track/6BnDMyRz4KY8g9SoWlUfjq) | [Wynton Kelly](https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0) | [Kelly Blue \(Keepnews Collection\)](https://open.spotify.com/album/0mgUrEyxaymxq5hCKqNQ9B) | 6:33 |

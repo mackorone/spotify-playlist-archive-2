@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Wc5ry.md) - [plain]
 
 > This is Outkast\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,042 likes - 50 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,057 likes - 50 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,9 +19,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Wc5ry.md) - [plain]
 | 9 | [Roses](https://open.spotify.com/track/6bUNEbXT7HovLW6BgPCBsb) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Speakerboxxx/The Love Below](https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r) | 6:09 |
 | 10 | [B.O.B\. \- Bombs Over Baghdad](https://open.spotify.com/track/3WibbMr6canxRJXhNtAvLU) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Stankonia](https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj) | 5:04 |
 | 11 | [Rosa Parks](https://open.spotify.com/track/0shK5iZQppbHPQYiy60xs9) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Aquemini](https://open.spotify.com/album/5ceB3rxgXqIRpsOvVzTG28) | 5:24 |
-| 12 | [Player's Ball](https://open.spotify.com/track/1RXEb6UTxJ05RffnAWfUOE) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Southernplayalisticadillacmuzik](https://open.spotify.com/album/3l5AwLKqQ42VJbc5lTuP8G) | 4:21 |
+| 12 | [Elevators \(Me & You\)](https://open.spotify.com/track/2oLwDI8tZUOh6SmTMRRfKs) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [ATLiens](https://open.spotify.com/album/1IaBCF26OjgYwUCEPaIyC0) | 4:25 |
 | 13 | [Prototype](https://open.spotify.com/track/1QJb6LWvPXZpTMiqqODqkH) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Speakerboxxx/The Love Below](https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r) | 5:26 |
-| 14 | [Elevators \(Me & You\)](https://open.spotify.com/track/2oLwDI8tZUOh6SmTMRRfKs) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [ATLiens](https://open.spotify.com/album/1IaBCF26OjgYwUCEPaIyC0) | 4:25 |
+| 14 | [Player's Ball](https://open.spotify.com/track/1RXEb6UTxJ05RffnAWfUOE) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Southernplayalisticadillacmuzik](https://open.spotify.com/album/3l5AwLKqQ42VJbc5lTuP8G) | 4:21 |
 | 15 | [SpottieOttieDopaliscious](https://open.spotify.com/track/4GdB5M7GbwLZLouktYocFC) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Aquemini](https://open.spotify.com/album/5ceB3rxgXqIRpsOvVzTG28) | 7:06 |
 | 16 | [The Whole World \(feat\. Killer Mike\)](https://open.spotify.com/track/074v54tSEWLbq3Hu5wf6uh) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7), [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI) | [Big Boi & Dre Present...OutKast](https://open.spotify.com/album/5OJKj1KGQEM1pnHtuvY0It) | 4:55 |
 | 17 | [GhettoMusick](https://open.spotify.com/track/1zb9cdsTMrEEL2Ut8rmTb6) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Speakerboxxx/The Love Below](https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r) | 3:56 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Wc5ry.md) - [plain]
 | 47 | [Hollywood Divorce \(feat\. Snoop Dogg & Lil' Wayne\)](https://open.spotify.com/track/1gZZyC3EEw8hwqoYRZqypC) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Idlewild](https://open.spotify.com/album/3L6JBfRxhzGzhhRDlTEdBz) | 5:23 |
 | 48 | [Speedballin'](https://open.spotify.com/track/6JyWKkyjS2wazRaPuRPQFP) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Stankonia \(25th Anniversary\)](https://open.spotify.com/album/6k5p5oU3jFqUc3p8U7qYwA) | 5:04 |
 | 49 | [Watch for the Hook \(Dungeon Family Mix\)](https://open.spotify.com/track/5CNBjdmp5aZdW2Nu6f0Xav) | [Cool Breeze](https://open.spotify.com/artist/1hTh4ZmK0tdbocmMgM2bSO), [Goodie Mob](https://open.spotify.com/artist/3F2Y683ovlWT53WKCeq0oj), [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7), [Witchdoctor](https://open.spotify.com/artist/0CSW4YWldpNnpaqYJJXSto) | [East Point's Greatest Hit](https://open.spotify.com/album/1xnatTs8lRun69YT1tleCS) | 4:31 |
-| 50 | [Mighty "O"](https://open.spotify.com/track/25EtWmcUALs9Gtfiv7Bcab) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Idlewild](https://open.spotify.com/album/3L6JBfRxhzGzhhRDlTEdBz) | 4:16 |
+| 50 | [Movin' Cool \(The After Party\)](https://open.spotify.com/track/4voVMCnHRiN0EEyRt3Gwni) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Big Boi & Dre Present...OutKast](https://open.spotify.com/album/5OJKj1KGQEM1pnHtuvY0It) | 3:59 |
 
-Snapshot ID: `ag+cgAAAAAAdax8vfbs1ESJS4ZZuMjdJ`
+Snapshot ID: `ahDuAAAAAAAbWct36MbUGl9/DZMnO5GB`

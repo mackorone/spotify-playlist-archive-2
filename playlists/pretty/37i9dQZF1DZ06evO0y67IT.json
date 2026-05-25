@@ -1,12 +1,12 @@
 {
   "description": "This is Hawthorne Heights. The essential tracks, all in one playlist.",
-  "num_followers": 9660,
+  "num_followers": 9662,
   "original_name": "This Is Hawthorne Heights",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ag+cgAAAAABGzoZ1hnxCkSMEOvSIDVnt",
+  "snapshot_id": "ahDuAAAAAABikqExd4vOwgmv2N5smQjv",
   "tracks": [
     {
       "added_at": null,
@@ -539,6 +539,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bad Frequencies",
+        "url": "https://open.spotify.com/album/1Nlnc7r6wgmpnUFKQ9gEAf"
+      },
+      "artists": [
+        {
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        }
+      ],
+      "duration_ms": 249000,
+      "name": "The Perfect Way to Fall Apart",
+      "url": "https://open.spotify.com/track/1PLqYyRbCsteMhCLMn4g2X"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nine Reasons To Say Goodbye",
         "url": "https://open.spotify.com/album/3r203Kg2OfitDSvIWv8vSx"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 46493,
       "name": "The Death Of A Dream",
       "url": "https://open.spotify.com/track/18kZbAPeeqHowdnC8wF9tq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bad Frequencies",
-        "url": "https://open.spotify.com/album/1Nlnc7r6wgmpnUFKQ9gEAf"
-      },
-      "artists": [
-        {
-          "name": "Hawthorne Heights",
-          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
-        }
-      ],
-      "duration_ms": 249000,
-      "name": "The Perfect Way to Fall Apart",
-      "url": "https://open.spotify.com/track/1PLqYyRbCsteMhCLMn4g2X"
     },
     {
       "added_at": null,
@@ -603,6 +603,22 @@
       "duration_ms": 222673,
       "name": "Holy Coast",
       "url": "https://open.spotify.com/track/0DEODVT0D0J1JU04ePb4KR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fragile Future",
+        "url": "https://open.spotify.com/album/6qSnFu0JkOOV0FoWpMsbRZ"
+      },
+      "artists": [
+        {
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        }
+      ],
+      "duration_ms": 226826,
+      "name": "The Business Of Paper Stars",
+      "url": "https://open.spotify.com/track/4XS6rBFtB8gZ2DQe3RFrLP"
     },
     {
       "added_at": null,
@@ -643,22 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fragile Future",
-        "url": "https://open.spotify.com/album/6qSnFu0JkOOV0FoWpMsbRZ"
-      },
-      "artists": [
-        {
-          "name": "Hawthorne Heights",
-          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
-        }
-      ],
-      "duration_ms": 226826,
-      "name": "The Business Of Paper Stars",
-      "url": "https://open.spotify.com/track/4XS6rBFtB8gZ2DQe3RFrLP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Rain Just Follows Me",
         "url": "https://open.spotify.com/album/1jCGtVCGyczQy3obBbxARG"
       },
@@ -679,6 +679,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lost Frequencies",
+        "url": "https://open.spotify.com/album/6pxt2kDstPNxPQXmcRmHta"
+      },
+      "artists": [
+        {
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        }
+      ],
+      "duration_ms": 180093,
+      "name": "So Hopelessly",
+      "url": "https://open.spotify.com/track/3rdiIX9ZHQ3PcxWcmCl8Zz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nine Reasons To Say Goodbye",
         "url": "https://open.spotify.com/album/3r203Kg2OfitDSvIWv8vSx"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 133440,
       "name": "Control Alt Delete",
       "url": "https://open.spotify.com/track/74a24lwWJ7buVc5su1gGUT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lost Frequencies",
-        "url": "https://open.spotify.com/album/6pxt2kDstPNxPQXmcRmHta"
-      },
-      "artists": [
-        {
-          "name": "Hawthorne Heights",
-          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
-        }
-      ],
-      "duration_ms": 180093,
-      "name": "So Hopelessly",
-      "url": "https://open.spotify.com/track/3rdiIX9ZHQ3PcxWcmCl8Zz"
     },
     {
       "added_at": null,
@@ -747,6 +747,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lost Frequencies",
+        "url": "https://open.spotify.com/album/6pxt2kDstPNxPQXmcRmHta"
+      },
+      "artists": [
+        {
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        }
+      ],
+      "duration_ms": 217113,
+      "name": "Pet Sematary",
+      "url": "https://open.spotify.com/track/2JSJ8qYk6Kvzmb87pTRsjn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nine Reasons To Say Goodbye",
         "url": "https://open.spotify.com/album/3r203Kg2OfitDSvIWv8vSx"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 186120,
       "name": "Do You Have A Map, Because I'm Lost In Your Eyes",
       "url": "https://open.spotify.com/track/7MhBjBtRuhiZBZO4b3tpXv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lost Frequencies",
-        "url": "https://open.spotify.com/album/6pxt2kDstPNxPQXmcRmHta"
-      },
-      "artists": [
-        {
-          "name": "Hawthorne Heights",
-          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
-        }
-      ],
-      "duration_ms": 217113,
-      "name": "Pet Sematary",
-      "url": "https://open.spotify.com/track/2JSJ8qYk6Kvzmb87pTRsjn"
     },
     {
       "added_at": null,
@@ -815,6 +815,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hate",
+        "url": "https://open.spotify.com/album/1aM7YH1Onu5blNUOPkvFjh"
+      },
+      "artists": [
+        {
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        }
+      ],
+      "duration_ms": 178677,
+      "name": "Four White Walls",
+      "url": "https://open.spotify.com/track/2040q4zSC7ipniAuswCWqe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nine Reasons To Say Goodbye",
         "url": "https://open.spotify.com/album/3r203Kg2OfitDSvIWv8vSx"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 155173,
       "name": "I'm Not Crying, My Eyeballs Are Sweating",
       "url": "https://open.spotify.com/track/1DfUSYZzZ2S1e1aD6JzAD8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hate",
-        "url": "https://open.spotify.com/album/1aM7YH1Onu5blNUOPkvFjh"
-      },
-      "artists": [
-        {
-          "name": "Hawthorne Heights",
-          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
-        }
-      ],
-      "duration_ms": 178677,
-      "name": "Four White Walls",
-      "url": "https://open.spotify.com/track/2040q4zSC7ipniAuswCWqe"
     }
   ],
   "unique_name": "This Is Hawthorne Heights",

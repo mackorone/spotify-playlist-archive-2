@@ -4,7 +4,7 @@
 
 > 감성 가득한 노래와 함께 부드럽게 핸들을 돌려보세요.
 
-308 songs - 19 hr 28 min
+309 songs - 19 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,7 @@
 | [Dear my X](https://open.spotify.com/track/0UnOf7i44YK0ULpkEGHe4R) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [Dear my X](https://open.spotify.com/album/5BOrfMmeO7t7pDqhZNIhej) | 3:07 | 2023-11-03 |  |
 | [Deeper](https://open.spotify.com/track/6LyZwzZAu3DP7RSMJcsy6D) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [Deeper](https://open.spotify.com/album/7Av1NlOPnL2EwQ8GqkbmFD) | 2:57 | 2023-11-03 | 2023-11-18 |
 | [Destiny \(2025\)](https://open.spotify.com/track/0LLd9oghk9adWYmou7YQnV) | [Monday Kiz](https://open.spotify.com/artist/24jJXZRz3aGvjVvZ4OoerD), [Lee Yi Kyung](https://open.spotify.com/artist/3VNRGqfUpv4TSkcJjnt9qd) | [Monday Kiz's Footprints Vol.1 With Lee Yi Kyung](https://open.spotify.com/album/6tdMpoiWbTxx6otgWj2bmF) | 4:18 | 2025-08-04 |  |
-| [Dial Your Number](https://open.spotify.com/track/1j9WEdAk0W4n7kPgir3pyq) | [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk) | [Dial Your Number](https://open.spotify.com/album/6tsig8yLsCng3ZGcQcmK3g) | 4:18 | 2026-03-13 |  |
+| [Dial Your Number](https://open.spotify.com/track/1j9WEdAk0W4n7kPgir3pyq) | [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk) | [Dial Your Number](https://open.spotify.com/album/6tsig8yLsCng3ZGcQcmK3g) | 4:18 | 2026-03-13 | 2026-05-25 |
 | [DIE 4 YOU](https://open.spotify.com/track/7yZD4AVfQtAZD4cG8eRnPk) | [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF) | [DIE 4 YOU](https://open.spotify.com/album/0FMkdX3YNx7Ez7pv3XRGzr) | 3:14 | 2024-02-21 |  |
 | [Do you want to hear](https://open.spotify.com/track/68QnW4ShMGTk9vvE3Tihng) | [M.O.M](https://open.spotify.com/artist/0JnspQOKIcEUcw8GWSIqtn) | [Do you want to hear](https://open.spotify.com/album/1tFJR4bNSvL6UpCNWEC8K5) | 2:47 | 2025-11-21 |  |
 | [Don't be mad](https://open.spotify.com/track/4lXl37xDrmVwoz4CuninfI) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Don't be mad](https://open.spotify.com/album/0sIbn4BGuc7oG21Fkl5x46) | 3:04 | 2023-11-03 | 2024-01-07 |
@@ -193,6 +193,7 @@
 | [Never Loved This Way Before](https://open.spotify.com/track/1cgtNgk0bkBjKaHmhes7f0) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [Never Loved This Way Before \(Odd Girl Out X BOYNEXTDOOR\) \[Original Soundtrack\]](https://open.spotify.com/album/0k95tVxkzquZHZpCPNu9lH) | 4:25 | 2025-04-03 |  |
 | [Nightmare](https://open.spotify.com/track/0g6LJdn1CGodzl5zDB2IHi) | [JIHYO](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL) | [ZONE](https://open.spotify.com/album/1GIkapvyAw5lwdNw66hI44) | 3:35 | 2023-11-03 | 2024-08-11 |
 | [Nights Into Days \(Prod\. by Naul\)](https://open.spotify.com/track/7yMSnQEier8Kp4iQuIvt0t) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Naul <Ballad Pop City>](https://open.spotify.com/album/5KN5V04kjs7YeTVyQcpqqZ) | 4:20 | 2023-11-03 | 2024-05-13 |
+| [No More Encore](https://open.spotify.com/track/3W2kHl0GltIhAxO1zNqOxY) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [Bloom Again](https://open.spotify.com/album/2Ki6NwC0tAoWpIQIW5at94) | 4:05 | 2026-05-21 |  |
 | [No Sad Song For My Broken Heart](https://open.spotify.com/track/68jFZoDvQrM4QUwZuC6oLa) | [K.Will](https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t) | [All The Way](https://open.spotify.com/album/1s3QsCUiHLP0kbKUulGUMc) | 3:09 | 2024-08-10 | 2025-09-25 |
 | [No Words Can Say](https://open.spotify.com/track/1xkhh2mQI71CJJUrIbyKwk) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [No Words Can Say](https://open.spotify.com/album/2d96sKtYbxVpOQVFetsaOr) | 3:56 | 2025-11-10 |  |
 | [NORMAL](https://open.spotify.com/track/4B4Q7zfd0aHcuhQBfCRnH5) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h) | 3:01 | 2026-03-26 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
-  "num_followers": 3910156,
+  "num_followers": 3910104,
   "original_name": "Chill Tracks",
   "owner": {
     "name": "Spotify",
@@ -611,6 +611,22 @@
     {
       "added_at": "2026-05-08 04:03:49",
       "album": {
+        "name": "ABOUT YOU",
+        "url": "https://open.spotify.com/album/4EisehMLZwMwc8lgLU3mWE"
+      },
+      "artists": [
+        {
+          "name": "AVAION",
+          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
+        }
+      ],
+      "duration_ms": 211875,
+      "name": "ABOUT YOU",
+      "url": "https://open.spotify.com/track/3WtsCUlsCUhmhHRY7gh97V"
+    },
+    {
+      "added_at": "2026-05-08 04:03:49",
+      "album": {
         "name": "Blue",
         "url": "https://open.spotify.com/album/66nEONspKcrUL2BiKo0U4t"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 200637,
       "name": "When You're Gone",
       "url": "https://open.spotify.com/track/1CfsBC96b0vxey9aVAkQlg"
-    },
-    {
-      "added_at": "2026-05-08 04:03:49",
-      "album": {
-        "name": "ABOUT YOU",
-        "url": "https://open.spotify.com/album/4EisehMLZwMwc8lgLU3mWE"
-      },
-      "artists": [
-        {
-          "name": "AVAION",
-          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
-        }
-      ],
-      "duration_ms": 211875,
-      "name": "ABOUT YOU",
-      "url": "https://open.spotify.com/track/3WtsCUlsCUhmhHRY7gh97V"
     },
     {
       "added_at": "2026-05-08 04:03:49",
@@ -979,26 +979,6 @@
     {
       "added_at": "2026-05-08 04:03:49",
       "album": {
-        "name": "Fire To The Water",
-        "url": "https://open.spotify.com/album/04iAq9moWG9qAJhTfeiRUV"
-      },
-      "artists": [
-        {
-          "name": "Hugo Cantarra",
-          "url": "https://open.spotify.com/artist/7bI21Y9xsFRFVtt3cWf73n"
-        },
-        {
-          "name": "Eli & Fur",
-          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
-        }
-      ],
-      "duration_ms": 222148,
-      "name": "Fire To The Water",
-      "url": "https://open.spotify.com/track/27UCnwXjQnIhBaqdJgYvCi"
-    },
-    {
-      "added_at": "2026-05-08 04:03:49",
-      "album": {
         "name": "Lifeline",
         "url": "https://open.spotify.com/album/4K96SVUxHrerdL8nWqbUsQ"
       },
@@ -1015,6 +995,26 @@
       "duration_ms": 199756,
       "name": "Lifeline",
       "url": "https://open.spotify.com/track/5qGZ2P45XqoFC1yVzRYDjm"
+    },
+    {
+      "added_at": "2026-05-08 04:03:49",
+      "album": {
+        "name": "Fire To The Water",
+        "url": "https://open.spotify.com/album/04iAq9moWG9qAJhTfeiRUV"
+      },
+      "artists": [
+        {
+          "name": "Hugo Cantarra",
+          "url": "https://open.spotify.com/artist/7bI21Y9xsFRFVtt3cWf73n"
+        },
+        {
+          "name": "Eli & Fur",
+          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
+        }
+      ],
+      "duration_ms": 222148,
+      "name": "Fire To The Water",
+      "url": "https://open.spotify.com/track/27UCnwXjQnIhBaqdJgYvCi"
     },
     {
       "added_at": "2026-05-08 04:03:49",
@@ -1343,6 +1343,26 @@
     {
       "added_at": "2026-05-08 04:03:49",
       "album": {
+        "name": "Rabbit Hole",
+        "url": "https://open.spotify.com/album/4DRQYxf3qpxyiMkKuPIcU2"
+      },
+      "artists": [
+        {
+          "name": "Marsh",
+          "url": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
+        },
+        {
+          "name": "ALLKNIGHT",
+          "url": "https://open.spotify.com/artist/28Upea6Tkq0l5oTu0dtX1c"
+        }
+      ],
+      "duration_ms": 251303,
+      "name": "Rabbit Hole",
+      "url": "https://open.spotify.com/track/7IdzWFKqSfRJnWesOlaeuW"
+    },
+    {
+      "added_at": "2026-05-08 04:03:49",
+      "album": {
         "name": "the art of letting go",
         "url": "https://open.spotify.com/album/5WCpvkfEHDsZ1dF63DwLcG"
       },
@@ -1367,22 +1387,18 @@
     {
       "added_at": "2026-05-08 04:03:49",
       "album": {
-        "name": "Rabbit Hole",
-        "url": "https://open.spotify.com/album/4DRQYxf3qpxyiMkKuPIcU2"
+        "name": "Next To You",
+        "url": "https://open.spotify.com/album/6M6bP82QvaUCx7AanqLBub"
       },
       "artists": [
         {
-          "name": "Marsh",
-          "url": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
-        },
-        {
-          "name": "ALLKNIGHT",
-          "url": "https://open.spotify.com/artist/28Upea6Tkq0l5oTu0dtX1c"
+          "name": "Romain Garcia",
+          "url": "https://open.spotify.com/artist/7iCW4xyVOIklzZ2qc7pS5h"
         }
       ],
-      "duration_ms": 251303,
-      "name": "Rabbit Hole",
-      "url": "https://open.spotify.com/track/7IdzWFKqSfRJnWesOlaeuW"
+      "duration_ms": 203572,
+      "name": "Next To You",
+      "url": "https://open.spotify.com/track/0Zo0QQMAV1zsImiaol6pI7"
     },
     {
       "added_at": "2026-05-08 04:03:49",
@@ -1407,22 +1423,6 @@
       "duration_ms": 265408,
       "name": "alone",
       "url": "https://open.spotify.com/track/53xTITGQAR4vklxEoP6qwZ"
-    },
-    {
-      "added_at": "2026-05-08 04:03:49",
-      "album": {
-        "name": "Next To You",
-        "url": "https://open.spotify.com/album/6M6bP82QvaUCx7AanqLBub"
-      },
-      "artists": [
-        {
-          "name": "Romain Garcia",
-          "url": "https://open.spotify.com/artist/7iCW4xyVOIklzZ2qc7pS5h"
-        }
-      ],
-      "duration_ms": 203572,
-      "name": "Next To You",
-      "url": "https://open.spotify.com/track/0Zo0QQMAV1zsImiaol6pI7"
     },
     {
       "added_at": "2026-05-08 04:03:49",
@@ -1503,6 +1503,22 @@
     {
       "added_at": "2026-05-08 04:03:49",
       "album": {
+        "name": "All Is Right",
+        "url": "https://open.spotify.com/album/6HdiXCbG1eU2Y6SDyXsRE4"
+      },
+      "artists": [
+        {
+          "name": "Thysma",
+          "url": "https://open.spotify.com/artist/38rkVgCX1c5TUzFNRwfexd"
+        }
+      ],
+      "duration_ms": 210500,
+      "name": "All Is Right",
+      "url": "https://open.spotify.com/track/1rsJB19a3FfYdLKK2mjMfU"
+    },
+    {
+      "added_at": "2026-05-08 04:03:49",
+      "album": {
         "name": "Love Pains",
         "url": "https://open.spotify.com/album/1ZvlhFHnqn8ktyV1UzGNx9"
       },
@@ -1523,22 +1539,6 @@
       "duration_ms": 265161,
       "name": "Love Pains",
       "url": "https://open.spotify.com/track/6juK43DmhqHK7FsAecv92Q"
-    },
-    {
-      "added_at": "2026-05-08 04:03:49",
-      "album": {
-        "name": "All Is Right",
-        "url": "https://open.spotify.com/album/6HdiXCbG1eU2Y6SDyXsRE4"
-      },
-      "artists": [
-        {
-          "name": "Thysma",
-          "url": "https://open.spotify.com/artist/38rkVgCX1c5TUzFNRwfexd"
-        }
-      ],
-      "duration_ms": 210500,
-      "name": "All Is Right",
-      "url": "https://open.spotify.com/track/1rsJB19a3FfYdLKK2mjMfU"
     },
     {
       "added_at": "2026-05-08 04:03:49",
@@ -1807,26 +1807,6 @@
     {
       "added_at": "2026-05-08 04:03:49",
       "album": {
-        "name": "Light in the Dark",
-        "url": "https://open.spotify.com/album/0EBLHOBqzQAy27J7mBzaId"
-      },
-      "artists": [
-        {
-          "name": "Nicky Elisabeth",
-          "url": "https://open.spotify.com/artist/7nt1M2NuH98Fr9c69lscEE"
-        },
-        {
-          "name": "Nathan Ball",
-          "url": "https://open.spotify.com/artist/5a1CkvrJSjRH8ZzWTMRsCd"
-        }
-      ],
-      "duration_ms": 210967,
-      "name": "Light in the Dark",
-      "url": "https://open.spotify.com/track/4Ujt0vphNuVoXIaxkfKcwM"
-    },
-    {
-      "added_at": "2026-05-08 04:03:49",
-      "album": {
         "name": "To The Heart / We Go Again",
         "url": "https://open.spotify.com/album/1HPZApJZpFhqV4WFtnjRkR"
       },
@@ -1851,22 +1831,22 @@
     {
       "added_at": "2026-05-08 04:03:49",
       "album": {
-        "name": "blinded",
-        "url": "https://open.spotify.com/album/068Ad4vmafuvDv2AARyYLM"
+        "name": "Light in the Dark",
+        "url": "https://open.spotify.com/album/0EBLHOBqzQAy27J7mBzaId"
       },
       "artists": [
         {
-          "name": "Le Youth",
-          "url": "https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx"
+          "name": "Nicky Elisabeth",
+          "url": "https://open.spotify.com/artist/7nt1M2NuH98Fr9c69lscEE"
         },
         {
-          "name": "Orem",
-          "url": "https://open.spotify.com/artist/1HjQ6IQwNatqgTtFnklIoL"
+          "name": "Nathan Ball",
+          "url": "https://open.spotify.com/artist/5a1CkvrJSjRH8ZzWTMRsCd"
         }
       ],
-      "duration_ms": 259400,
-      "name": "blinded",
-      "url": "https://open.spotify.com/track/0RExYs6iWZwRpIMRnbofMi"
+      "duration_ms": 210967,
+      "name": "Light in the Dark",
+      "url": "https://open.spotify.com/track/4Ujt0vphNuVoXIaxkfKcwM"
     },
     {
       "added_at": "2026-05-08 04:03:49",
@@ -1891,6 +1871,26 @@
       "duration_ms": 234204,
       "name": "Fool",
       "url": "https://open.spotify.com/track/5SaA31HzAQSJbLInxhXHOP"
+    },
+    {
+      "added_at": "2026-05-08 04:03:49",
+      "album": {
+        "name": "blinded",
+        "url": "https://open.spotify.com/album/068Ad4vmafuvDv2AARyYLM"
+      },
+      "artists": [
+        {
+          "name": "Le Youth",
+          "url": "https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx"
+        },
+        {
+          "name": "Orem",
+          "url": "https://open.spotify.com/artist/1HjQ6IQwNatqgTtFnklIoL"
+        }
+      ],
+      "duration_ms": 259400,
+      "name": "blinded",
+      "url": "https://open.spotify.com/track/0RExYs6iWZwRpIMRnbofMi"
     },
     {
       "added_at": "2026-05-08 04:03:49",

@@ -1,6 +1,6 @@
 {
   "description": "Folksy takes on your favorite tracks. Cover: The Brudi Brothers",
-  "num_followers": 442766,
+  "num_followers": 442762,
   "original_name": "Folksy Covers",
   "owner": {
     "name": "Spotify",
@@ -199,22 +199,6 @@
     {
       "added_at": "2026-05-01 04:03:53",
       "album": {
-        "name": "Between The Bars (EP)",
-        "url": "https://open.spotify.com/album/3N99UWfASH8iTQqGoFV7q5"
-      },
-      "artists": [
-        {
-          "name": "The Civil Wars",
-          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
-        }
-      ],
-      "duration_ms": 260066,
-      "name": "Billie Jean",
-      "url": "https://open.spotify.com/track/4zzi2eD2cEPpQ3a307mPPj"
-    },
-    {
-      "added_at": "2026-05-01 04:03:53",
-      "album": {
         "name": "Heroes",
         "url": "https://open.spotify.com/album/4pwOr5WCJyqrFxwYLFB2nT"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 243436,
       "name": "Just Breathe",
       "url": "https://open.spotify.com/track/3rIgqH7rTzpB7Gtvo6oDsA"
+    },
+    {
+      "added_at": "2026-05-01 04:03:53",
+      "album": {
+        "name": "Between The Bars (EP)",
+        "url": "https://open.spotify.com/album/3N99UWfASH8iTQqGoFV7q5"
+      },
+      "artists": [
+        {
+          "name": "The Civil Wars",
+          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
+        }
+      ],
+      "duration_ms": 260066,
+      "name": "Billie Jean",
+      "url": "https://open.spotify.com/track/4zzi2eD2cEPpQ3a307mPPj"
     },
     {
       "added_at": "2026-05-01 04:03:53",
@@ -671,22 +671,6 @@
     {
       "added_at": "2026-05-01 04:03:53",
       "album": {
-        "name": "A Complete Unknown (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/21abnHIwhrjqFs4Yywsm9t"
-      },
-      "artists": [
-        {
-          "name": "Timoth\u00e9e Chalamet",
-          "url": "https://open.spotify.com/artist/6XowGYJnrtyso0fKDfK7xb"
-        }
-      ],
-      "duration_ms": 184546,
-      "name": "A Hard Rain's A-Gonna Fall",
-      "url": "https://open.spotify.com/track/3F544tk9EjPIxsSCyNW1KQ"
-    },
-    {
-      "added_at": "2026-05-01 04:03:53",
-      "album": {
         "name": "Listen To The Radio",
         "url": "https://open.spotify.com/album/6RdQfXUPxhbauUanaotuJg"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 240386,
       "name": "Listen To The Radio",
       "url": "https://open.spotify.com/track/6n9PvbAoQtDe3AEMbS8v70"
+    },
+    {
+      "added_at": "2026-05-01 04:03:53",
+      "album": {
+        "name": "A Complete Unknown (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/21abnHIwhrjqFs4Yywsm9t"
+      },
+      "artists": [
+        {
+          "name": "Timoth\u00e9e Chalamet",
+          "url": "https://open.spotify.com/artist/6XowGYJnrtyso0fKDfK7xb"
+        }
+      ],
+      "duration_ms": 184546,
+      "name": "A Hard Rain's A-Gonna Fall",
+      "url": "https://open.spotify.com/track/3F544tk9EjPIxsSCyNW1KQ"
     },
     {
       "added_at": "2026-05-01 04:03:53",
@@ -787,6 +787,22 @@
     {
       "added_at": "2026-05-01 04:03:53",
       "album": {
+        "name": "Harvest",
+        "url": "https://open.spotify.com/album/44w53chsw9RSUKkKeN3aw7"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 196437,
+      "name": "Harvest",
+      "url": "https://open.spotify.com/track/7GSqPshxQCT92AV7ROD9VE"
+    },
+    {
+      "added_at": "2026-05-01 04:03:53",
+      "album": {
         "name": "Let Down",
         "url": "https://open.spotify.com/album/6Uvyjoy9ump42mVK1pGksP"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 237013,
       "name": "Let Down",
       "url": "https://open.spotify.com/track/3OvHirYV8mduJlkjwttxbo"
-    },
-    {
-      "added_at": "2026-05-01 04:03:53",
-      "album": {
-        "name": "Harvest",
-        "url": "https://open.spotify.com/album/44w53chsw9RSUKkKeN3aw7"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 196437,
-      "name": "Harvest",
-      "url": "https://open.spotify.com/track/7GSqPshxQCT92AV7ROD9VE"
     },
     {
       "added_at": "2026-05-01 04:03:53",
@@ -1059,38 +1059,6 @@
     {
       "added_at": "2026-05-01 04:03:53",
       "album": {
-        "name": "I Will Follow You Into The Dark",
-        "url": "https://open.spotify.com/album/3oa1lLhRWZ390b2CeoXndA"
-      },
-      "artists": [
-        {
-          "name": "Mipso",
-          "url": "https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A"
-        }
-      ],
-      "duration_ms": 224692,
-      "name": "I Will Follow You Into The Dark",
-      "url": "https://open.spotify.com/track/3Jmc6qadrwk3pg30iQPs5j"
-    },
-    {
-      "added_at": "2026-05-01 04:03:53",
-      "album": {
-        "name": "The Age Of Worry",
-        "url": "https://open.spotify.com/album/2sK9FA8u60GpTqusHp8GqN"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 167186,
-      "name": "The Age Of Worry",
-      "url": "https://open.spotify.com/track/7ltM6d3uA0lUBCPfJTyc1N"
-    },
-    {
-      "added_at": "2026-05-01 04:03:53",
-      "album": {
         "name": "Southern Family",
         "url": "https://open.spotify.com/album/2cKzkXbgcoQjaFMCPbJDdi"
       },
@@ -1111,6 +1079,38 @@
       "duration_ms": 373266,
       "name": "You Are My Sunshine (with Chris Stapleton)",
       "url": "https://open.spotify.com/track/0JqHPXj2YlV0oIbWleZjDS"
+    },
+    {
+      "added_at": "2026-05-01 04:03:53",
+      "album": {
+        "name": "The Age Of Worry",
+        "url": "https://open.spotify.com/album/2sK9FA8u60GpTqusHp8GqN"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 167186,
+      "name": "The Age Of Worry",
+      "url": "https://open.spotify.com/track/7ltM6d3uA0lUBCPfJTyc1N"
+    },
+    {
+      "added_at": "2026-05-01 04:03:53",
+      "album": {
+        "name": "I Will Follow You Into The Dark",
+        "url": "https://open.spotify.com/album/3oa1lLhRWZ390b2CeoXndA"
+      },
+      "artists": [
+        {
+          "name": "Mipso",
+          "url": "https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A"
+        }
+      ],
+      "duration_ms": 224692,
+      "name": "I Will Follow You Into The Dark",
+      "url": "https://open.spotify.com/track/3Jmc6qadrwk3pg30iQPs5j"
     },
     {
       "added_at": "2026-05-01 04:03:53",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2026-05-01 04:03:53",
       "album": {
-        "name": "So Low",
-        "url": "https://open.spotify.com/album/2NBpiTeWOyrP088gUj6J2y"
-      },
-      "artists": [
-        {
-          "name": "Lowland Hum",
-          "url": "https://open.spotify.com/artist/37YxyxKbCL7as3bH2adwQE"
-        }
-      ],
-      "duration_ms": 264930,
-      "name": "Sledgehammer",
-      "url": "https://open.spotify.com/track/7cWTvfOdnO2slD9Xm7DK87"
-    },
-    {
-      "added_at": "2026-05-01 04:03:53",
-      "album": {
         "name": "Love At The Five & Dime",
         "url": "https://open.spotify.com/album/3h3OflWVSlb7gvhVQ2qJQn"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 289186,
       "name": "Love At The Five & Dime",
       "url": "https://open.spotify.com/track/1XwqNMe7dcylnzQD4w8Ctk"
+    },
+    {
+      "added_at": "2026-05-01 04:03:53",
+      "album": {
+        "name": "So Low",
+        "url": "https://open.spotify.com/album/2NBpiTeWOyrP088gUj6J2y"
+      },
+      "artists": [
+        {
+          "name": "Lowland Hum",
+          "url": "https://open.spotify.com/artist/37YxyxKbCL7as3bH2adwQE"
+        }
+      ],
+      "duration_ms": 264930,
+      "name": "Sledgehammer",
+      "url": "https://open.spotify.com/track/7cWTvfOdnO2slD9Xm7DK87"
     },
     {
       "added_at": "2026-05-01 04:03:53",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2026-05-01 04:03:53",
       "album": {
-        "name": "A Long December",
-        "url": "https://open.spotify.com/album/4FSXo1nSy4io1w2NUfxMJt"
-      },
-      "artists": [
-        {
-          "name": "Mary Bragg",
-          "url": "https://open.spotify.com/artist/72FO0BvoMxHvbQwbNrKqtj"
-        }
-      ],
-      "duration_ms": 260812,
-      "name": "A Long December",
-      "url": "https://open.spotify.com/track/5MbfStLnmOTHdAc9cftGyR"
-    },
-    {
-      "added_at": "2026-05-01 04:03:53",
-      "album": {
         "name": "Crooked Tree (Deluxe Edition)",
         "url": "https://open.spotify.com/album/03FcU0bBSsfRgn6bSObIY6"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 212251,
       "name": "Dire Wolf - Bonus Track",
       "url": "https://open.spotify.com/track/7JMZ6bCzD1nENedrV3njJi"
+    },
+    {
+      "added_at": "2026-05-01 04:03:53",
+      "album": {
+        "name": "A Long December",
+        "url": "https://open.spotify.com/album/4FSXo1nSy4io1w2NUfxMJt"
+      },
+      "artists": [
+        {
+          "name": "Mary Bragg",
+          "url": "https://open.spotify.com/artist/72FO0BvoMxHvbQwbNrKqtj"
+        }
+      ],
+      "duration_ms": 260812,
+      "name": "A Long December",
+      "url": "https://open.spotify.com/track/5MbfStLnmOTHdAc9cftGyR"
     },
     {
       "added_at": "2026-05-01 04:03:53",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2026-05-01 04:03:53",
       "album": {
-        "name": "We Don't Eat",
-        "url": "https://open.spotify.com/album/0F9QZJSssWELg5ZTJp1NQy"
-      },
-      "artists": [
-        {
-          "name": "James Vincent McMorrow",
-          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
-        }
-      ],
-      "duration_ms": 215589,
-      "name": "Higher Love",
-      "url": "https://open.spotify.com/track/35dMUmp6Jh3AE9IaqM0Osn"
-    },
-    {
-      "added_at": "2026-05-01 04:03:53",
-      "album": {
         "name": "Other People's Songs",
         "url": "https://open.spotify.com/album/5287cTjfvK8SVYe6cXsEUD"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 288764,
       "name": "Don\u2019t It Feel Good",
       "url": "https://open.spotify.com/track/54MnItgRx6drIxYDu9Sb1d"
+    },
+    {
+      "added_at": "2026-05-01 04:03:53",
+      "album": {
+        "name": "We Don't Eat",
+        "url": "https://open.spotify.com/album/0F9QZJSssWELg5ZTJp1NQy"
+      },
+      "artists": [
+        {
+          "name": "James Vincent McMorrow",
+          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
+        }
+      ],
+      "duration_ms": 215589,
+      "name": "Higher Love",
+      "url": "https://open.spotify.com/track/35dMUmp6Jh3AE9IaqM0Osn"
     },
     {
       "added_at": "2026-05-01 04:03:53",
@@ -1599,6 +1599,22 @@
     {
       "added_at": "2026-05-01 04:03:53",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4jnG99bP9dsXWi49WeEKIr"
+      },
+      "artists": [
+        {
+          "name": "Henry Jamison",
+          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
+        }
+      ],
+      "duration_ms": 189799,
+      "name": "The Partisan - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/2xMzN3uUtCxyHpR5L8Tril"
+    },
+    {
+      "added_at": "2026-05-01 04:03:53",
+      "album": {
         "name": "Muzzle of Bees (with Jeff Tweedy) [From \u201cNorah Jones is Playing Along\u201d Podcast]",
         "url": "https://open.spotify.com/album/0s6uYTYfUTkTqAamELsOiZ"
       },
@@ -1615,22 +1631,6 @@
       "duration_ms": 251057,
       "name": "Muzzle of Bees (with Jeff Tweedy) [From \u201cNorah Jones is Playing Along\u201d Podcast]",
       "url": "https://open.spotify.com/track/351445Kofxc3BN2T27beOv"
-    },
-    {
-      "added_at": "2026-05-01 04:03:53",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4jnG99bP9dsXWi49WeEKIr"
-      },
-      "artists": [
-        {
-          "name": "Henry Jamison",
-          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
-        }
-      ],
-      "duration_ms": 189799,
-      "name": "The Partisan - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/2xMzN3uUtCxyHpR5L8Tril"
     },
     {
       "added_at": "2026-05-01 04:03:53",
@@ -1823,6 +1823,22 @@
     {
       "added_at": "2026-05-01 04:03:53",
       "album": {
+        "name": "To Ramona",
+        "url": "https://open.spotify.com/album/0JNGjWHIOEzGbjmakQvzBU"
+      },
+      "artists": [
+        {
+          "name": "Courtney Marie Andrews",
+          "url": "https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H"
+        }
+      ],
+      "duration_ms": 217586,
+      "name": "To Ramona",
+      "url": "https://open.spotify.com/track/5YL8nR0e3zF5fFqvBmSKDI"
+    },
+    {
+      "added_at": "2026-05-01 04:03:53",
+      "album": {
         "name": "Cover to Cover",
         "url": "https://open.spotify.com/album/4N2eJ7m1ziNW5ODI6jGOTB"
       },
@@ -1839,18 +1855,18 @@
     {
       "added_at": "2026-05-01 04:03:53",
       "album": {
-        "name": "To Ramona",
-        "url": "https://open.spotify.com/album/0JNGjWHIOEzGbjmakQvzBU"
+        "name": "Minnesota Beatle Project, Vol. 5",
+        "url": "https://open.spotify.com/album/2nMvFsZ2L6Svr8tOMg4XiC"
       },
       "artists": [
         {
-          "name": "Courtney Marie Andrews",
-          "url": "https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H"
+          "name": "The Cactus Blossoms",
+          "url": "https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S"
         }
       ],
-      "duration_ms": 217586,
-      "name": "To Ramona",
-      "url": "https://open.spotify.com/track/5YL8nR0e3zF5fFqvBmSKDI"
+      "duration_ms": 145546,
+      "name": "This Boy",
+      "url": "https://open.spotify.com/track/5qeCOqTsPfj0TzLt9JMelA"
     },
     {
       "added_at": "2026-05-01 04:03:53",
@@ -1891,38 +1907,6 @@
     {
       "added_at": "2026-05-01 04:03:53",
       "album": {
-        "name": "Minnesota Beatle Project, Vol. 5",
-        "url": "https://open.spotify.com/album/2nMvFsZ2L6Svr8tOMg4XiC"
-      },
-      "artists": [
-        {
-          "name": "The Cactus Blossoms",
-          "url": "https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S"
-        }
-      ],
-      "duration_ms": 145546,
-      "name": "This Boy",
-      "url": "https://open.spotify.com/track/5qeCOqTsPfj0TzLt9JMelA"
-    },
-    {
-      "added_at": "2026-05-01 04:03:53",
-      "album": {
-        "name": "Look At Miss Ohio",
-        "url": "https://open.spotify.com/album/7LuDUHiZQ3e2OcrbwgzHIE"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 205760,
-      "name": "Look At Miss Ohio",
-      "url": "https://open.spotify.com/track/4V7GKEwhd4NTF6xBbQq1tF"
-    },
-    {
-      "added_at": "2026-05-01 04:03:53",
-      "album": {
         "name": "good 4 u / Dooley's Farm (Spotify Singles)",
         "url": "https://open.spotify.com/album/65mrgLaC6S4drN9PoJRxKm"
       },
@@ -1939,6 +1923,22 @@
       "duration_ms": 216343,
       "name": "good 4 u - Spotify Sessions",
       "url": "https://open.spotify.com/track/3ruHm5bxqfPnAO14kYGvFx"
+    },
+    {
+      "added_at": "2026-05-01 04:03:53",
+      "album": {
+        "name": "Look At Miss Ohio",
+        "url": "https://open.spotify.com/album/7LuDUHiZQ3e2OcrbwgzHIE"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 205760,
+      "name": "Look At Miss Ohio",
+      "url": "https://open.spotify.com/track/4V7GKEwhd4NTF6xBbQq1tF"
     },
     {
       "added_at": "2026-05-01 04:03:53",

@@ -1,6 +1,6 @@
 {
   "description": "Afrobeats' hottest singles. Cover: Blaqbonez",
-  "num_followers": 222506,
+  "num_followers": 222635,
   "original_name": "Gbedu",
   "owner": {
     "name": "Spotify",
@@ -175,6 +175,26 @@
     {
       "added_at": "2026-05-22 00:01:54",
       "album": {
+        "name": "5ive",
+        "url": "https://open.spotify.com/album/4jzhMxpTkAm2pxUuamulT8"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "OMAH LAY",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 136036,
+      "name": "With You (feat. Omah Lay)",
+      "url": "https://open.spotify.com/track/5GyaXqMfcIGHfmTUITFacS"
+    },
+    {
+      "added_at": "2026-05-22 00:01:54",
+      "album": {
         "name": "SOUTH GIDI",
         "url": "https://open.spotify.com/album/5hgdQMsPGxPnhZrAMi1IUQ"
       },
@@ -199,26 +219,6 @@
       "duration_ms": 375535,
       "name": "MONEY CONSTANT",
       "url": "https://open.spotify.com/track/12jMMRyPNMTNp3CRmdWMve"
-    },
-    {
-      "added_at": "2026-05-22 00:01:54",
-      "album": {
-        "name": "5ive",
-        "url": "https://open.spotify.com/album/4jzhMxpTkAm2pxUuamulT8"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "OMAH LAY",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 136036,
-      "name": "With You (feat. Omah Lay)",
-      "url": "https://open.spotify.com/track/5GyaXqMfcIGHfmTUITFacS"
     },
     {
       "added_at": "2026-05-22 00:01:54",
@@ -843,22 +843,6 @@
     {
       "added_at": "2026-05-22 00:01:54",
       "album": {
-        "name": "Jiggy Forever",
-        "url": "https://open.spotify.com/album/6xr2tWr8pg5ndECtOD66lp"
-      },
-      "artists": [
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        }
-      ],
-      "duration_ms": 141818,
-      "name": "Stronger",
-      "url": "https://open.spotify.com/track/4KZMoDuxwSYP63bhbnMqe3"
-    },
-    {
-      "added_at": "2026-05-22 00:01:54",
-      "album": {
         "name": "Intentions (feat. Urban Chords)",
         "url": "https://open.spotify.com/album/0iuYoM9hvRfBXYQiBRYZPW"
       },
@@ -879,18 +863,18 @@
     {
       "added_at": "2026-05-22 00:01:54",
       "album": {
-        "name": "Where Do We Go",
-        "url": "https://open.spotify.com/album/22G67mCJChTPDKcEan8LOh"
+        "name": "Jiggy Forever",
+        "url": "https://open.spotify.com/album/6xr2tWr8pg5ndECtOD66lp"
       },
       "artists": [
         {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
         }
       ],
-      "duration_ms": 176470,
-      "name": "Where Do We Go",
-      "url": "https://open.spotify.com/track/3sCinQALcMKnL6b6nYDnMb"
+      "duration_ms": 141818,
+      "name": "Stronger",
+      "url": "https://open.spotify.com/track/4KZMoDuxwSYP63bhbnMqe3"
     },
     {
       "added_at": "2026-05-22 00:01:54",
@@ -935,6 +919,22 @@
       "duration_ms": 180765,
       "name": "Ewo",
       "url": "https://open.spotify.com/track/3w0eFAME3IxlonearUIaXJ"
+    },
+    {
+      "added_at": "2026-05-22 00:01:54",
+      "album": {
+        "name": "Where Do We Go",
+        "url": "https://open.spotify.com/album/22G67mCJChTPDKcEan8LOh"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 176470,
+      "name": "Where Do We Go",
+      "url": "https://open.spotify.com/track/3sCinQALcMKnL6b6nYDnMb"
     },
     {
       "added_at": "2026-05-22 00:01:54",
@@ -1159,6 +1159,26 @@
     {
       "added_at": "2026-05-22 00:01:54",
       "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/0SSa5t24QuJPYXCDCgJadM"
+      },
+      "artists": [
+        {
+          "name": "J Hus",
+          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 188263,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/0BzX5iHjzOJw3j9xK4B5pq"
+    },
+    {
+      "added_at": "2026-05-22 00:01:54",
+      "album": {
         "name": "WHY LOVE",
         "url": "https://open.spotify.com/album/5bQKiaMHTdJcn4fxPs9MCk"
       },
@@ -1191,26 +1211,6 @@
       "duration_ms": 156666,
       "name": "Formation",
       "url": "https://open.spotify.com/track/687RJSOAS8xDed1hoFxum1"
-    },
-    {
-      "added_at": "2026-05-22 00:01:54",
-      "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/0SSa5t24QuJPYXCDCgJadM"
-      },
-      "artists": [
-        {
-          "name": "J Hus",
-          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
-        },
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 188263,
-      "name": "Gold",
-      "url": "https://open.spotify.com/track/0BzX5iHjzOJw3j9xK4B5pq"
     },
     {
       "added_at": "2026-05-22 00:01:54",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2026-05-22 00:01:54",
       "album": {
+        "name": "FOR YOU",
+        "url": "https://open.spotify.com/album/6hFthTS1JDZZeXmNHNCXpV"
+      },
+      "artists": [
+        {
+          "name": "Khaid",
+          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
+        }
+      ],
+      "duration_ms": 148672,
+      "name": "FOR YOU",
+      "url": "https://open.spotify.com/track/4oACaY1ep3NULWvjh9xqak"
+    },
+    {
+      "added_at": "2026-05-22 00:01:54",
+      "album": {
         "name": "99 (feat. Daecolm)",
         "url": "https://open.spotify.com/album/2BhFjpBKVdJxl1U4XqiIUv"
       },
@@ -1339,42 +1355,22 @@
     {
       "added_at": "2026-05-22 00:01:54",
       "album": {
-        "name": "FOR YOU",
-        "url": "https://open.spotify.com/album/6hFthTS1JDZZeXmNHNCXpV"
+        "name": "No Excuses",
+        "url": "https://open.spotify.com/album/307ndfsqUj3MF4y0uHsinE"
       },
       "artists": [
         {
-          "name": "Khaid",
-          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
-        }
-      ],
-      "duration_ms": 148672,
-      "name": "FOR YOU",
-      "url": "https://open.spotify.com/track/4oACaY1ep3NULWvjh9xqak"
-    },
-    {
-      "added_at": "2026-05-22 00:01:54",
-      "album": {
-        "name": "SHABA",
-        "url": "https://open.spotify.com/album/1yQJjYlbpPEsepf57EsyHA"
-      },
-      "artists": [
-        {
-          "name": "SPINALL",
-          "url": "https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP"
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
         },
         {
-          "name": "Mavo",
-          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
-        },
-        {
-          "name": "DETO BLACK",
-          "url": "https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT"
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
         }
       ],
-      "duration_ms": 121338,
-      "name": "SHABA",
-      "url": "https://open.spotify.com/track/3Mkn6UjdPtKdySe78jVfxg"
+      "duration_ms": 218947,
+      "name": "Despacito (feat. FOLA)",
+      "url": "https://open.spotify.com/track/0HlF88ZuW0yTty8fogzpaG"
     },
     {
       "added_at": "2026-05-22 00:01:54",
@@ -1399,22 +1395,26 @@
     {
       "added_at": "2026-05-22 00:01:54",
       "album": {
-        "name": "No Excuses",
-        "url": "https://open.spotify.com/album/307ndfsqUj3MF4y0uHsinE"
+        "name": "SHABA",
+        "url": "https://open.spotify.com/album/1yQJjYlbpPEsepf57EsyHA"
       },
       "artists": [
         {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+          "name": "SPINALL",
+          "url": "https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP"
         },
         {
-          "name": "FOLA",
-          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+          "name": "Mavo",
+          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+        },
+        {
+          "name": "DETO BLACK",
+          "url": "https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT"
         }
       ],
-      "duration_ms": 218947,
-      "name": "Despacito (feat. FOLA)",
-      "url": "https://open.spotify.com/track/0HlF88ZuW0yTty8fogzpaG"
+      "duration_ms": 121338,
+      "name": "SHABA",
+      "url": "https://open.spotify.com/track/3Mkn6UjdPtKdySe78jVfxg"
     },
     {
       "added_at": "2026-05-22 00:01:54",

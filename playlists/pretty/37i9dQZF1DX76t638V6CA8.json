@@ -1,6 +1,6 @@
 {
   "description": "Big rap for big reps. You got this.",
-  "num_followers": 2586112,
+  "num_followers": 2586350,
   "original_name": "Rap Workout",
   "owner": {
     "name": "Spotify",
@@ -755,22 +755,6 @@
     {
       "added_at": "2026-03-30 10:03:22",
       "album": {
-        "name": "Ca$ino",
-        "url": "https://open.spotify.com/album/21xGzx6HTydCnvfZTvLf6b"
-      },
-      "artists": [
-        {
-          "name": "Baby Keem",
-          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
-        }
-      ],
-      "duration_ms": 260825,
-      "name": "Ca$ino",
-      "url": "https://open.spotify.com/track/3VW6HJYa5l0uzGcCRA222P"
-    },
-    {
-      "added_at": "2026-03-30 10:03:22",
-      "album": {
         "name": "BLAME IT ON BABY",
         "url": "https://open.spotify.com/album/623PL2MBg50Br5dLXC9E9e"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 181733,
       "name": "ROCKSTAR (feat. Roddy Ricch)",
       "url": "https://open.spotify.com/track/7ytR5pFWmSjzHJIeQkgog4"
+    },
+    {
+      "added_at": "2026-03-30 10:03:22",
+      "album": {
+        "name": "Ca$ino",
+        "url": "https://open.spotify.com/album/21xGzx6HTydCnvfZTvLf6b"
+      },
+      "artists": [
+        {
+          "name": "Baby Keem",
+          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
+        }
+      ],
+      "duration_ms": 260825,
+      "name": "Ca$ino",
+      "url": "https://open.spotify.com/track/3VW6HJYa5l0uzGcCRA222P"
     },
     {
       "added_at": "2026-03-30 10:03:22",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2026-03-30 10:03:22",
       "album": {
-        "name": "Keep Their Heads Ringin'",
-        "url": "https://open.spotify.com/album/74iv82AYPjxyWpGbt9LNuP"
-      },
-      "artists": [
-        {
-          "name": "Dr. Dre",
-          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
-        }
-      ],
-      "duration_ms": 310226,
-      "name": "Keep Their Heads Ringin'",
-      "url": "https://open.spotify.com/track/1rylJ0VXvhOzLGNm401iaI"
-    },
-    {
-      "added_at": "2026-03-30 10:03:22",
-      "album": {
         "name": "Come Home The Kids Miss You",
         "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 309327,
       "name": "Churchill Downs (feat. Drake)",
       "url": "https://open.spotify.com/track/3EMp20j5E42MxfFbsEsIvD"
+    },
+    {
+      "added_at": "2026-03-30 10:03:22",
+      "album": {
+        "name": "Keep Their Heads Ringin'",
+        "url": "https://open.spotify.com/album/74iv82AYPjxyWpGbt9LNuP"
+      },
+      "artists": [
+        {
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        }
+      ],
+      "duration_ms": 310226,
+      "name": "Keep Their Heads Ringin'",
+      "url": "https://open.spotify.com/track/1rylJ0VXvhOzLGNm401iaI"
     },
     {
       "added_at": "2026-03-30 10:03:22",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2026-03-30 10:03:22",
       "album": {
+        "name": "Full Clip: A Decade Of Gang Starr",
+        "url": "https://open.spotify.com/album/0TMIeuykc2gfMc68YGppoh"
+      },
+      "artists": [
+        {
+          "name": "Gang Starr",
+          "url": "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
+        }
+      ],
+      "duration_ms": 217440,
+      "name": "Full Clip",
+      "url": "https://open.spotify.com/track/30oTS7bm0aH3p7lqjEIu8q"
+    },
+    {
+      "added_at": "2026-03-30 10:03:22",
+      "album": {
         "name": "Ramen & OJ",
         "url": "https://open.spotify.com/album/48ahZJLcagb8VTgRAuv6WQ"
       },
@@ -1351,22 +1367,6 @@
       "duration_ms": 218447,
       "name": "Ramen & OJ",
       "url": "https://open.spotify.com/track/4TIqzdAssasqx3DAe6cG9J"
-    },
-    {
-      "added_at": "2026-03-30 10:03:22",
-      "album": {
-        "name": "Full Clip: A Decade Of Gang Starr",
-        "url": "https://open.spotify.com/album/0TMIeuykc2gfMc68YGppoh"
-      },
-      "artists": [
-        {
-          "name": "Gang Starr",
-          "url": "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
-        }
-      ],
-      "duration_ms": 217440,
-      "name": "Full Clip",
-      "url": "https://open.spotify.com/track/30oTS7bm0aH3p7lqjEIu8q"
     },
     {
       "added_at": "2026-03-30 10:03:22",
@@ -1427,26 +1427,6 @@
     {
       "added_at": "2026-03-30 10:03:22",
       "album": {
-        "name": "family ties (with Kendrick Lamar)",
-        "url": "https://open.spotify.com/album/3HqmX8hGcbbQZODgayNEYx"
-      },
-      "artists": [
-        {
-          "name": "Baby Keem",
-          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
-        },
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 252069,
-      "name": "family ties (with Kendrick Lamar)",
-      "url": "https://open.spotify.com/track/7Bpx2vsWfQFBACRz4h3IqH"
-    },
-    {
-      "added_at": "2026-03-30 10:03:22",
-      "album": {
         "name": "The Last Wun",
         "url": "https://open.spotify.com/album/6l2aad6LJghHkbd0KX1f7w"
       },
@@ -1463,6 +1443,26 @@
       "duration_ms": 193466,
       "name": "at my purest (feat. Offset)",
       "url": "https://open.spotify.com/track/338HvC3y58zPScamNZu4Dr"
+    },
+    {
+      "added_at": "2026-03-30 10:03:22",
+      "album": {
+        "name": "family ties (with Kendrick Lamar)",
+        "url": "https://open.spotify.com/album/3HqmX8hGcbbQZODgayNEYx"
+      },
+      "artists": [
+        {
+          "name": "Baby Keem",
+          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 252069,
+      "name": "family ties (with Kendrick Lamar)",
+      "url": "https://open.spotify.com/track/7Bpx2vsWfQFBACRz4h3IqH"
     },
     {
       "added_at": "2026-03-30 10:03:22",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2026-03-30 10:03:22",
       "album": {
-        "name": "Sugar Honey Iced Tea",
-        "url": "https://open.spotify.com/album/1S9LGRodo5jsXGsMeVaYNp"
-      },
-      "artists": [
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 217613,
-      "name": "Brokey",
-      "url": "https://open.spotify.com/track/1JF8LkQWZ8grXb2emqrNKn"
-    },
-    {
-      "added_at": "2026-03-30 10:03:22",
-      "album": {
         "name": "him all along",
         "url": "https://open.spotify.com/album/5HoNV9xqGbGufrIFH271dR"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 158666,
       "name": "him all along",
       "url": "https://open.spotify.com/track/2EKL77lwxvo615Ga7VjEUl"
+    },
+    {
+      "added_at": "2026-03-30 10:03:22",
+      "album": {
+        "name": "Sugar Honey Iced Tea",
+        "url": "https://open.spotify.com/album/1S9LGRodo5jsXGsMeVaYNp"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 217613,
+      "name": "Brokey",
+      "url": "https://open.spotify.com/track/1JF8LkQWZ8grXb2emqrNKn"
     },
     {
       "added_at": "2026-03-30 10:03:22",
@@ -1615,6 +1615,22 @@
     {
       "added_at": "2026-03-30 10:03:22",
       "album": {
+        "name": "GOT DAMN",
+        "url": "https://open.spotify.com/album/6HO6ObAHr6Yf03scMOWFec"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 156800,
+      "name": "GOT DAMN",
+      "url": "https://open.spotify.com/track/6D1Pr14PtFHoj6gBEoOfQP"
+    },
+    {
+      "added_at": "2026-03-30 10:03:22",
+      "album": {
         "name": "Life of a DON",
         "url": "https://open.spotify.com/album/2WmJ5wp5wKBlIJE6FDAIBJ"
       },
@@ -1631,22 +1647,6 @@
       "duration_ms": 183513,
       "name": "Flocky Flocky (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/25r6MZ4Gtd76l43qnZI1DG"
-    },
-    {
-      "added_at": "2026-03-30 10:03:22",
-      "album": {
-        "name": "GOT DAMN",
-        "url": "https://open.spotify.com/album/6HO6ObAHr6Yf03scMOWFec"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 156800,
-      "name": "GOT DAMN",
-      "url": "https://open.spotify.com/track/6D1Pr14PtFHoj6gBEoOfQP"
     },
     {
       "added_at": "2026-03-30 10:03:22",
@@ -1879,6 +1879,22 @@
     {
       "added_at": "2026-03-30 10:03:22",
       "album": {
+        "name": "Who is Nardo Wick?? (Deluxe)",
+        "url": "https://open.spotify.com/album/47Thm1tltjJVofuRumhfmi"
+      },
+      "artists": [
+        {
+          "name": "Nardo Wick",
+          "url": "https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN"
+        }
+      ],
+      "duration_ms": 151776,
+      "name": "Dah Dah DahDah",
+      "url": "https://open.spotify.com/track/2TSfStvlAMLw89u3tali79"
+    },
+    {
+      "added_at": "2026-03-30 10:03:22",
+      "album": {
         "name": "Free Dem Boyz",
         "url": "https://open.spotify.com/album/4zJiUubJvgUJNq0BVD9Mvs"
       },
@@ -1895,22 +1911,6 @@
       "duration_ms": 199093,
       "name": "Maybach (feat. Future)",
       "url": "https://open.spotify.com/track/2Qt8qG9SWPdtRiaWcPNJRm"
-    },
-    {
-      "added_at": "2026-03-30 10:03:22",
-      "album": {
-        "name": "Who is Nardo Wick?? (Deluxe)",
-        "url": "https://open.spotify.com/album/47Thm1tltjJVofuRumhfmi"
-      },
-      "artists": [
-        {
-          "name": "Nardo Wick",
-          "url": "https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN"
-        }
-      ],
-      "duration_ms": 151776,
-      "name": "Dah Dah DahDah",
-      "url": "https://open.spotify.com/track/2TSfStvlAMLw89u3tali79"
     }
   ],
   "unique_name": "Rap Workout",

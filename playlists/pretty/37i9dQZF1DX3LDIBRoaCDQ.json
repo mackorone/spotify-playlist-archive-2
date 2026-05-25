@@ -1,6 +1,6 @@
 {
   "description": "Classic songs that built the foundations of punk. Cover: The Damned from DB Burkeman's <a href=\"https://www.blurringbooks.com/book/crash\"> Crash Bang</a>, a book filled with photos & culture from the late \u201970s/early \u201980s New York, LA & London punk scenes.",
-  "num_followers": 1604185,
+  "num_followers": 1604232,
   "original_name": "Classic Punk",
   "owner": {
     "name": "Spotify",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "Unknown Pleasures",
-        "url": "https://open.spotify.com/album/0cbpcdI4UySacPh5RCpDfo"
-      },
-      "artists": [
-        {
-          "name": "Joy Division",
-          "url": "https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5"
-        }
-      ],
-      "duration_ms": 209039,
-      "name": "Disorder - 2007 Remaster",
-      "url": "https://open.spotify.com/track/38wCbVfMreML5ZhF5iQuKA"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
         "name": "13 Songs",
         "url": "https://open.spotify.com/album/21wERoyBas2JCRCgysPDJX"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 173266,
       "name": "Waiting Room",
       "url": "https://open.spotify.com/track/5FFowl1Ve4S5OehL6OywSg"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
+        "name": "Unknown Pleasures",
+        "url": "https://open.spotify.com/album/0cbpcdI4UySacPh5RCpDfo"
+      },
+      "artists": [
+        {
+          "name": "Joy Division",
+          "url": "https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5"
+        }
+      ],
+      "duration_ms": 209039,
+      "name": "Disorder - 2007 Remaster",
+      "url": "https://open.spotify.com/track/38wCbVfMreML5ZhF5iQuKA"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -1363,6 +1363,22 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
+        "name": "13 Songs",
+        "url": "https://open.spotify.com/album/21wERoyBas2JCRCgysPDJX"
+      },
+      "artists": [
+        {
+          "name": "Fugazi",
+          "url": "https://open.spotify.com/artist/62sC6lUEWRjbFqXpMmOk4G"
+        }
+      ],
+      "duration_ms": 155626,
+      "name": "Bad Mouth",
+      "url": "https://open.spotify.com/track/44qEQsgGIiKEE6oYwOGo2s"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
         "name": "Rhino Hi-Five: Ramones",
         "url": "https://open.spotify.com/album/5J9I5RkAe6EMWb4aZxAKYl"
       },
@@ -1443,22 +1459,6 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "13 Songs",
-        "url": "https://open.spotify.com/album/21wERoyBas2JCRCgysPDJX"
-      },
-      "artists": [
-        {
-          "name": "Fugazi",
-          "url": "https://open.spotify.com/artist/62sC6lUEWRjbFqXpMmOk4G"
-        }
-      ],
-      "duration_ms": 155626,
-      "name": "Bad Mouth",
-      "url": "https://open.spotify.com/track/44qEQsgGIiKEE6oYwOGo2s"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
         "name": "Violent Femmes",
         "url": "https://open.spotify.com/album/2G9onFLGqlMJd1ThYf0vIB"
       },
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "Bad Brains",
-        "url": "https://open.spotify.com/album/2GHBFUAIQGSVJtZnwdnEAc"
-      },
-      "artists": [
-        {
-          "name": "Bad Brains",
-          "url": "https://open.spotify.com/artist/1oVj9JmPUPg4SQ2uerV2xc"
-        }
-      ],
-      "duration_ms": 132786,
-      "name": "Banned In D.C.",
-      "url": "https://open.spotify.com/track/6MYusHmom4vpQN4qGyHl0h"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
         "name": "Blank Generation",
         "url": "https://open.spotify.com/album/6rpdyABuweUAGy1ZG63nMw"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 163000,
       "name": "Blank Generation",
       "url": "https://open.spotify.com/track/7wLBPjReJhdkFtrGHgUcxG"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
+        "name": "Bad Brains",
+        "url": "https://open.spotify.com/album/2GHBFUAIQGSVJtZnwdnEAc"
+      },
+      "artists": [
+        {
+          "name": "Bad Brains",
+          "url": "https://open.spotify.com/artist/1oVj9JmPUPg4SQ2uerV2xc"
+        }
+      ],
+      "duration_ms": 132786,
+      "name": "Banned In D.C.",
+      "url": "https://open.spotify.com/track/6MYusHmom4vpQN4qGyHl0h"
     },
     {
       "added_at": "2024-11-29 00:00:00",

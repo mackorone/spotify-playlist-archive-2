@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVceT0UosQME.md) - [plain]
 
 > instrumental study beats for deep focus and concentration\. lock in, max productivity 📚 🎧 u got this!
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,155 likes - 100 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,172 likes - 100 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVceT0UosQME.md) - [plain]
 | 12 | [freshly brewed](https://open.spotify.com/track/3d81nukVAtikqcvAhU8sSz) | [May\-Flowa](https://open.spotify.com/artist/3nYAsFmuTO2M6A9Gpb8CCr) | [freshly brewed](https://open.spotify.com/album/21V8dZHwZksAJ4j5rJAQEm) | 2:09 |
 | 13 | [Stones](https://open.spotify.com/track/1EDesWUrHjghCMZb0jjbS3) | [W8lss](https://open.spotify.com/artist/5WNLGMfzBzzqeRuODrfQZ7) | [Stones](https://open.spotify.com/album/5PUftgP7uBfDuHrkzer3vV) | 2:17 |
 | 14 | [my own practice](https://open.spotify.com/track/1vM9obDatOvogSVdo1hxDR) | [hoodeeny](https://open.spotify.com/artist/7BCtXoU5pnFzU38zvpl6Cg) | [my own practice](https://open.spotify.com/album/2jR5TfovSo1aUGyPFlBIbe) | 2:12 |
-| 15 | [Gentle Shore](https://open.spotify.com/track/4XPCGhCvkLHjByEVsWNdY6) | [lilhugz](https://open.spotify.com/artist/3MjTMOiHklTmUksExsbTwq) | [Gentle Shore](https://open.spotify.com/album/7r9en8Xo1JxfJQu92R2C6D) | 2:15 |
-| 16 | [another time, another place](https://open.spotify.com/track/6A0Nu9iDYTjeCVXCm2fplq) | [olbejom](https://open.spotify.com/artist/6ZVFQS79wada5T9YGOqqfq) | [another time, another place](https://open.spotify.com/album/4dWPNuUqkN1yPICPJFFFTi) | 2:45 |
+| 15 | [another time, another place](https://open.spotify.com/track/6A0Nu9iDYTjeCVXCm2fplq) | [olbejom](https://open.spotify.com/artist/6ZVFQS79wada5T9YGOqqfq) | [another time, another place](https://open.spotify.com/album/4dWPNuUqkN1yPICPJFFFTi) | 2:45 |
+| 16 | [Gentle Shore](https://open.spotify.com/track/4XPCGhCvkLHjByEVsWNdY6) | [lilhugz](https://open.spotify.com/artist/3MjTMOiHklTmUksExsbTwq) | [Gentle Shore](https://open.spotify.com/album/7r9en8Xo1JxfJQu92R2C6D) | 2:15 |
 | 17 | [Cozy Vinylesque](https://open.spotify.com/track/4JVpk5H3oHWR55l1etHslh) | [ax am](https://open.spotify.com/artist/1aYBi1snyye9aYO5Vs3OTO) | [Cozy Vinylesque](https://open.spotify.com/album/4lIGVP2TKRTKycSpdTOIoH) | 3:14 |
 | 18 | [late night walking](https://open.spotify.com/track/0jaGw9MKg6t9z9wfzWAK0a) | [Rustique Beats](https://open.spotify.com/artist/6i2uc5LaqqgBJ6SozGzryq) | [here for the night](https://open.spotify.com/album/56tYkRHV0lVGnbamKT2LJw) | 1:59 |
 | 19 | [Shifting Sands](https://open.spotify.com/track/4oikNLzA8VDnsEXrsiHQA9) | [G:sson](https://open.spotify.com/artist/6CrxpBxPlsZeW6Ss9mgoU8) | [Shifting Sands](https://open.spotify.com/album/3gEyvquozZ9YafoVW5Xlq2) | 2:27 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVceT0UosQME.md) - [plain]
 | 37 | [neutron](https://open.spotify.com/track/0EctAgmIOVOUkyliA8Wgx4) | [Cyan\_95](https://open.spotify.com/artist/2F0ArRuBoD4jl4bM8fNyiU) | [neutron](https://open.spotify.com/album/1qmY4LfYonUmUXm2rHq9y5) | 2:07 |
 | 38 | [Still Dock](https://open.spotify.com/track/6CvradJS3BYVT3sjrz6y6n) | [Half Memory](https://open.spotify.com/artist/5oDGsGsO36Sruc5NNySUTe) | [Still Dock](https://open.spotify.com/album/0S3NzJXHH92qA9LNui23nG) | 2:02 |
 | 39 | [vinyl](https://open.spotify.com/track/3ZDHugxhMsEaSQ2xhH8dzM) | [faux kitsune](https://open.spotify.com/artist/77wxmMCyAJ6Nvkw8isSUNv) | [vinyl](https://open.spotify.com/album/14LEzEOuAfXpNFhDr9bfGU) | 2:06 |
-| 40 | [Melt](https://open.spotify.com/track/63q1dd02dA3rd9edigSUoZ) | [eze east](https://open.spotify.com/artist/6YzTTKadB6WR8IWvDoZNth) | [Melt](https://open.spotify.com/album/3DIVjgLOSD8HeuNaIIEJzS) | 2:06 |
-| 41 | [Sunny Walk](https://open.spotify.com/track/7EccAFIyTAXrxfvrkZdDNU) | [pipetiger](https://open.spotify.com/artist/12HMurN87aQV1xBcqfcjnL) | [Sunny Walk](https://open.spotify.com/album/6JvavHc9LVWO0fksFQviHS) | 1:46 |
+| 40 | [Sunny Walk](https://open.spotify.com/track/7EccAFIyTAXrxfvrkZdDNU) | [pipetiger](https://open.spotify.com/artist/12HMurN87aQV1xBcqfcjnL) | [Sunny Walk](https://open.spotify.com/album/6JvavHc9LVWO0fksFQviHS) | 1:46 |
+| 41 | [Melt](https://open.spotify.com/track/63q1dd02dA3rd9edigSUoZ) | [eze east](https://open.spotify.com/artist/6YzTTKadB6WR8IWvDoZNth) | [Melt](https://open.spotify.com/album/3DIVjgLOSD8HeuNaIIEJzS) | 2:06 |
 | 42 | [Lisabon](https://open.spotify.com/track/08PythMQ97nIacc0AdIdnF) | [cmd f](https://open.spotify.com/artist/6Ykg4VJZl1anZljuqAJU25) | [Lisabon](https://open.spotify.com/album/7mMzc1YjMfdgLJ2wzckN86) | 2:29 |
 | 43 | [Piano Roll](https://open.spotify.com/track/1mgu8HfJP14u5czwRJlGVp) | [Vancgroover](https://open.spotify.com/artist/4oAJgYdsGm7zkJgZTCPA0a) | [Piano Roll](https://open.spotify.com/album/1pMPBn1X8SgzmIHSafKXLt) | 2:05 |
 | 44 | [projection](https://open.spotify.com/track/5ot2Nv3COru7DqNd8PaFy5) | [love\_eight](https://open.spotify.com/artist/2cCbtvKbNfKnKuMfEeyvJE) | [projection](https://open.spotify.com/album/64wr6u8ng4pFUfCvtLIbJ8) | 2:38 |
@@ -64,13 +64,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVceT0UosQME.md) - [plain]
 | 54 | [Peachy](https://open.spotify.com/track/2WRKH5AuRG6c0uG1dQs9rh) | [cloud minor](https://open.spotify.com/artist/3l5LfIhzi10fJD4DJzW4ll) | [Peachy](https://open.spotify.com/album/1Hy7DveUNMzyX0dxU2BAYS) | 3:04 |
 | 55 | [roadtrip](https://open.spotify.com/track/0V54RaK7KhF3vzydplIOyk) | [Trixie Muff](https://open.spotify.com/artist/4ot82BIcenSoR26rIlbvDd) | [roadtrip](https://open.spotify.com/album/7tRFa38uNSAOwEiZsEgnbu) | 2:19 |
 | 56 | [head in the clouds](https://open.spotify.com/track/0GdZ6vlb3nC8t5B5MP6TqP) | [drewbee](https://open.spotify.com/artist/0bRyibPzrRlfTwKe7oUXzR) | [head in the clouds](https://open.spotify.com/album/341MeGEteHymZVwmd0xspK) | 2:14 |
-| 57 | [Inner Peace](https://open.spotify.com/track/547YTV2dWMOpgxdjGi8Nn8) | [Moon Cheese](https://open.spotify.com/artist/7DKpSnYTZwZiyleLd4rh0S) | [Inner Peace](https://open.spotify.com/album/72rdiIaTtw02OfQiCXQPGf) | 3:52 |
-| 58 | [Incredibly happy](https://open.spotify.com/track/6FVL1EGTz7nWEzuUz6VpvF) | [Silk Soul](https://open.spotify.com/artist/2DgL3THTMvM0MfSTaYYMAI) | [Incredibly happy](https://open.spotify.com/album/4aE1MMVBFm1WESG0pRYHJs) | 2:39 |
+| 57 | [Incredibly happy](https://open.spotify.com/track/6FVL1EGTz7nWEzuUz6VpvF) | [Silk Soul](https://open.spotify.com/artist/2DgL3THTMvM0MfSTaYYMAI) | [Incredibly happy](https://open.spotify.com/album/4aE1MMVBFm1WESG0pRYHJs) | 2:39 |
+| 58 | [Inner Peace](https://open.spotify.com/track/547YTV2dWMOpgxdjGi8Nn8) | [Moon Cheese](https://open.spotify.com/artist/7DKpSnYTZwZiyleLd4rh0S) | [Inner Peace](https://open.spotify.com/album/72rdiIaTtw02OfQiCXQPGf) | 3:52 |
 | 59 | [letter to amtis](https://open.spotify.com/track/1xrkythjTGJM8rClZQdZ5V) | [nightnotes](https://open.spotify.com/artist/334qcUILkYr6OYnqTi1DD3) | [letter to amtis](https://open.spotify.com/album/0IBF3TM8KHfBL1NyK7zVkf) | 1:34 |
 | 60 | [Undeniable](https://open.spotify.com/track/4VkuebWvS2LlxmnMjukZ21) | [Chill Def](https://open.spotify.com/artist/596T1bfXEgZ7Rm0SVY9W41), [Choftus Leek](https://open.spotify.com/artist/5oc0NyRrTn4F7cVJg1rTdl) | [Undeniable](https://open.spotify.com/album/6Yi9YIuFueT15dls1lblx2) | 2:34 |
 | 61 | [no way but up](https://open.spotify.com/track/4M7gbh6sluTRP6BXnYpzyz) | [Phresh Milk](https://open.spotify.com/artist/4U5mB170iJgggrvfl1bdCX) | [no way but up](https://open.spotify.com/album/197jKvvY3xuS1ggGpcEdGW) | 1:46 |
-| 62 | [The City](https://open.spotify.com/track/4lZQn9ZVkTbzehDoj3SQin) | [Audio Phill](https://open.spotify.com/artist/3X8s6pf8NBV2nl9Gvcbptb) | [The City](https://open.spotify.com/album/4mEfZGlxMcC0EioQfzvnyx) | 2:02 |
-| 63 | [High five, low\-fi](https://open.spotify.com/track/6mCHWvDL7kXZdVhc8ovk0y) | [Dusty Kadinsky](https://open.spotify.com/artist/6DhRdG6ckA1u7hxnZzF2VL) | [High five, low\-fi](https://open.spotify.com/album/0XqcEKC7xJg1bN9dp8tKVo) | 2:08 |
+| 62 | [High five, low\-fi](https://open.spotify.com/track/6mCHWvDL7kXZdVhc8ovk0y) | [Dusty Kadinsky](https://open.spotify.com/artist/6DhRdG6ckA1u7hxnZzF2VL) | [High five, low\-fi](https://open.spotify.com/album/0XqcEKC7xJg1bN9dp8tKVo) | 2:08 |
+| 63 | [The City](https://open.spotify.com/track/4lZQn9ZVkTbzehDoj3SQin) | [Audio Phill](https://open.spotify.com/artist/3X8s6pf8NBV2nl9Gvcbptb) | [The City](https://open.spotify.com/album/4mEfZGlxMcC0EioQfzvnyx) | 2:02 |
 | 64 | [warm & orange](https://open.spotify.com/track/6wXSZsRZ1vxooWZ4W9yWHG) | [AUIIRA](https://open.spotify.com/artist/3qmmaE4hDMkylgYQC5VrKU) | [warm & orange](https://open.spotify.com/album/4jvL1JGNrNs90TPPvE6iXW) | 3:06 |
 | 65 | [Don’t Forget Me](https://open.spotify.com/track/3OjultkM3CXtK0JFmCO5Ux) | [Popcorn Trees](https://open.spotify.com/artist/3dENObUHDNLm5lxRoPn2p1) | [Don’t Forget Me](https://open.spotify.com/album/6x2eS7AgwuPqpGkbb3jloG) | 1:49 |
 | 66 | [Memories & Notes](https://open.spotify.com/track/0LJeA9BFfwRfsOTxzhWzCF) | [Juliette](https://open.spotify.com/artist/2A9ozO2R5liuK6dMrhJwnQ) | [Memories & Notes](https://open.spotify.com/album/3EeK9doDTJjMcpLw7gDQbt) | 1:53 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVceT0UosQME.md) - [plain]
 | 80 | [Peter Ran](https://open.spotify.com/track/0WLk5AGaZMeiQSRInu129w) | [Beats Me, Innit?](https://open.spotify.com/artist/5szil3lhFSrW575RVEyPle) | [Peter Ran](https://open.spotify.com/album/6PBbVsmxuTSPiSb9urnRXp) | 2:21 |
 | 81 | [comply](https://open.spotify.com/track/2rm5C58P9UDchlcKdV0Bzn) | [Flower Chanel.](https://open.spotify.com/artist/7qnkTNSjbkAfmWRjjs9yq4) | [comply](https://open.spotify.com/album/6DjUY2UsJxbITCNZUv1RtO) | 2:04 |
 | 82 | [Bareru Rōru](https://open.spotify.com/track/2euw7YmuTYRuBx0DQTgvqq) | [d.w.h](https://open.spotify.com/artist/2Mv14rolxu9z56WEkPIhZd) | [Bareru Rōru](https://open.spotify.com/album/4UDE3AKNXjv7rFvv4T5KKO) | 2:38 |
-| 83 | [Crimson Red](https://open.spotify.com/track/6CgcuC8yOCXVzJZVuhRlSx) | [Euphemism](https://open.spotify.com/artist/2LjnVIznJsfd8XzrUqXHTr) | [Road to Emmaus](https://open.spotify.com/album/1VQRmpVXZTjLs4ZW42mmwT) | 1:55 |
-| 84 | [once upon a time](https://open.spotify.com/track/4h1kjj76abuzotO1l1b4UK) | [Cheeky Beez](https://open.spotify.com/artist/2bsxN6WcHThnyAuPiLscbA) | [once upon a time](https://open.spotify.com/album/5YTL2uewGmx1D5GJcQSZ2w) | 2:24 |
+| 83 | [once upon a time](https://open.spotify.com/track/4h1kjj76abuzotO1l1b4UK) | [Cheeky Beez](https://open.spotify.com/artist/2bsxN6WcHThnyAuPiLscbA) | [once upon a time](https://open.spotify.com/album/5YTL2uewGmx1D5GJcQSZ2w) | 2:24 |
+| 84 | [Crimson Red](https://open.spotify.com/track/6CgcuC8yOCXVzJZVuhRlSx) | [Euphemism](https://open.spotify.com/artist/2LjnVIznJsfd8XzrUqXHTr) | [Road to Emmaus](https://open.spotify.com/album/1VQRmpVXZTjLs4ZW42mmwT) | 1:55 |
 | 85 | [Downtown](https://open.spotify.com/track/0F3Bo3HVGi2fzCU67Z6rDv) | [1930](https://open.spotify.com/artist/04qLskUo3x0vMixvZxCK78) | [Downtown](https://open.spotify.com/album/6KDVzfdX9UGMaDP5K9zREY) | 1:51 |
 | 86 | [Miss Blue](https://open.spotify.com/track/5MJfUP3yb2DNxGs88epnBY) | [yoranda](https://open.spotify.com/artist/6RASfL9QFAOiqYdKetXooz) | [Miss Blue](https://open.spotify.com/album/1edQQwUOQyYfD5wtP42Up7) | 2:57 |
 | 87 | [Planka på tricken](https://open.spotify.com/track/6rqgMboy3Kc7vVFZeeJnp9) | [Alek Faith](https://open.spotify.com/artist/3TPr8KDYLfhwXdYOuUoFdi) | [Planka på tricken](https://open.spotify.com/album/34L7eNGbFJoqVkoK8E9SeM) | 2:04 |

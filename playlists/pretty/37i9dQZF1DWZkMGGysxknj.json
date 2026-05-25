@@ -1,6 +1,6 @@
 {
   "description": "Caf\u00e9 caliente, sill\u00f3n blandito y la mejor lectura o compa\u00f1\u00eda.",
-  "num_followers": 823385,
+  "num_followers": 823375,
   "original_name": "Caf\u00e9, Libros.",
   "owner": {
     "name": "Spotify",
@@ -835,22 +835,6 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Sunday Best (Acoustic Version)",
-        "url": "https://open.spotify.com/album/0RlzFvBDjmOP8LGXvOoJhu"
-      },
-      "artists": [
-        {
-          "name": "Brandon Chase",
-          "url": "https://open.spotify.com/artist/3qXWWITvZcTD1M2QmXszJK"
-        }
-      ],
-      "duration_ms": 150538,
-      "name": "Sunday Best - Acoustic Version",
-      "url": "https://open.spotify.com/track/5OfJhmXJMOrmRqNqYWkXBk"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
         "name": "Anyone",
         "url": "https://open.spotify.com/album/0KtdvlGTljVZ4D5Jarm4m8"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 172766,
       "name": "Anyone",
       "url": "https://open.spotify.com/track/0YhsOegsemgmT7ZHdWheUy"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
+        "name": "Sunday Best (Acoustic Version)",
+        "url": "https://open.spotify.com/album/0RlzFvBDjmOP8LGXvOoJhu"
+      },
+      "artists": [
+        {
+          "name": "Brandon Chase",
+          "url": "https://open.spotify.com/artist/3qXWWITvZcTD1M2QmXszJK"
+        }
+      ],
+      "duration_ms": 150538,
+      "name": "Sunday Best - Acoustic Version",
+      "url": "https://open.spotify.com/track/5OfJhmXJMOrmRqNqYWkXBk"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -963,22 +963,6 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Paolo Velera",
-        "url": "https://open.spotify.com/album/3vHWDnKJ7yBYDy5W3D85pC"
-      },
-      "artists": [
-        {
-          "name": "Paolo Velera",
-          "url": "https://open.spotify.com/artist/6IA4Wsjyp72OYkvWlkwyeH"
-        }
-      ],
-      "duration_ms": 206557,
-      "name": "Life on Mars",
-      "url": "https://open.spotify.com/track/2VxuqHEeXHxGMWZN6CqFcT"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
         "name": "Brindo",
         "url": "https://open.spotify.com/album/5cUw4tjXsOcrS5Jd2zEzDn"
       },
@@ -995,18 +979,18 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Summertime",
-        "url": "https://open.spotify.com/album/0XtsrrGHxCK1UTMhdL4x7A"
+        "name": "Paolo Velera",
+        "url": "https://open.spotify.com/album/3vHWDnKJ7yBYDy5W3D85pC"
       },
       "artists": [
         {
-          "name": "Gil Cohen",
-          "url": "https://open.spotify.com/artist/3RIFM8s5jyChTKVnP0ZeDe"
+          "name": "Paolo Velera",
+          "url": "https://open.spotify.com/artist/6IA4Wsjyp72OYkvWlkwyeH"
         }
       ],
-      "duration_ms": 227250,
-      "name": "Summertime",
-      "url": "https://open.spotify.com/track/0kucUUkDimdEREo8hsXOng"
+      "duration_ms": 206557,
+      "name": "Life on Mars",
+      "url": "https://open.spotify.com/track/2VxuqHEeXHxGMWZN6CqFcT"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -1039,6 +1023,22 @@
       "duration_ms": 242776,
       "name": "If I Can't Have You",
       "url": "https://open.spotify.com/track/0NREkFloGwchkD4AKHZ10Y"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
+        "name": "Summertime",
+        "url": "https://open.spotify.com/album/0XtsrrGHxCK1UTMhdL4x7A"
+      },
+      "artists": [
+        {
+          "name": "Gil Cohen",
+          "url": "https://open.spotify.com/artist/3RIFM8s5jyChTKVnP0ZeDe"
+        }
+      ],
+      "duration_ms": 227250,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/0kucUUkDimdEREo8hsXOng"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Youngblood",
-        "url": "https://open.spotify.com/album/4LKwkGDfN1OXZy1qXRAQZm"
-      },
-      "artists": [
-        {
-          "name": "Angus & Julia Stone",
-          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
-        }
-      ],
-      "duration_ms": 232746,
-      "name": "Youngblood",
-      "url": "https://open.spotify.com/track/2z1ZySfX3m36YL1XfwM84d"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
         "name": "Downtown (Acoustic Version)",
         "url": "https://open.spotify.com/album/3hj8ZTcYFuTmJqnrmeecKJ"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 214143,
       "name": "Feels - Acoustic",
       "url": "https://open.spotify.com/track/2dOhS9p28YanQHsI2sl2Th"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
+        "name": "Youngblood",
+        "url": "https://open.spotify.com/album/4LKwkGDfN1OXZy1qXRAQZm"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "duration_ms": 232746,
+      "name": "Youngblood",
+      "url": "https://open.spotify.com/track/2z1ZySfX3m36YL1XfwM84d"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Heather",
-        "url": "https://open.spotify.com/album/79Dfqa8MfZI5x3mH5uBkA6"
-      },
-      "artists": [
-        {
-          "name": "The Mayries",
-          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
-        }
-      ],
-      "duration_ms": 198007,
-      "name": "Heather - Acoustic",
-      "url": "https://open.spotify.com/track/1J7KtoM0AB2Slp1pK9USJS"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
         "name": "Tren Al Sur",
         "url": "https://open.spotify.com/album/0oAqAR2iInqVKbSZgBdiNS"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 235982,
       "name": "Tren Al Sur",
       "url": "https://open.spotify.com/track/3hyKH9IW6LUHg8eTFagrpj"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
+        "name": "Heather",
+        "url": "https://open.spotify.com/album/79Dfqa8MfZI5x3mH5uBkA6"
+      },
+      "artists": [
+        {
+          "name": "The Mayries",
+          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
+        }
+      ],
+      "duration_ms": 198007,
+      "name": "Heather - Acoustic",
+      "url": "https://open.spotify.com/track/1J7KtoM0AB2Slp1pK9USJS"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "New Rules",
-        "url": "https://open.spotify.com/album/3YJr0IXRu7iHCe2iQ6I9hA"
-      },
-      "artists": [
-        {
-          "name": "Postcards & Polaroids",
-          "url": "https://open.spotify.com/artist/5ccCHLpAxCdSMFHeeLUPrw"
-        }
-      ],
-      "duration_ms": 194285,
-      "name": "New Rules",
-      "url": "https://open.spotify.com/track/4ebS9j23Z1sQQtjsK06vD2"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
         "name": "Giant",
         "url": "https://open.spotify.com/album/4kYVsOEw017rNxlcMscLak"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 179510,
       "name": "Giant",
       "url": "https://open.spotify.com/track/1ir0M7NQAr7r5mLit1xUq3"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
+        "name": "New Rules",
+        "url": "https://open.spotify.com/album/3YJr0IXRu7iHCe2iQ6I9hA"
+      },
+      "artists": [
+        {
+          "name": "Postcards & Polaroids",
+          "url": "https://open.spotify.com/artist/5ccCHLpAxCdSMFHeeLUPrw"
+        }
+      ],
+      "duration_ms": 194285,
+      "name": "New Rules",
+      "url": "https://open.spotify.com/track/4ebS9j23Z1sQQtjsK06vD2"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Atlas: Seven",
-        "url": "https://open.spotify.com/album/3xyLM733s9O4Is7m4VgaQi"
-      },
-      "artists": [
-        {
-          "name": "Sleeping At Last",
-          "url": "https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g"
-        }
-      ],
-      "duration_ms": 263124,
-      "name": "Atlas: Seven",
-      "url": "https://open.spotify.com/track/2LzOMk2irKa51zmGyQKNmK"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
         "name": "Where Our Hearts Will Go (To Providence)",
         "url": "https://open.spotify.com/album/4pou3y0tzhknpZFcY7yYQE"
       },
@@ -1799,6 +1783,22 @@
       "duration_ms": 252874,
       "name": "Where Our Hearts Will Go (To Providence)",
       "url": "https://open.spotify.com/track/0CRIiLoZLK9WLCziBamUvH"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
+        "name": "Atlas: Seven",
+        "url": "https://open.spotify.com/album/3xyLM733s9O4Is7m4VgaQi"
+      },
+      "artists": [
+        {
+          "name": "Sleeping At Last",
+          "url": "https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g"
+        }
+      ],
+      "duration_ms": 263124,
+      "name": "Atlas: Seven",
+      "url": "https://open.spotify.com/track/2LzOMk2irKa51zmGyQKNmK"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -1867,22 +1867,6 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Limoneros",
-        "url": "https://open.spotify.com/album/4EifjjgUQ3Fp0CUNLUXqJb"
-      },
-      "artists": [
-        {
-          "name": "Borneo",
-          "url": "https://open.spotify.com/artist/0w9lu4ZDXuidfh3SfJ7Bdz"
-        }
-      ],
-      "duration_ms": 175786,
-      "name": "Limoneros",
-      "url": "https://open.spotify.com/track/1CzjmKHAE1phlC2meLmdCJ"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
         "name": "Hablar de M\u00e1s",
         "url": "https://open.spotify.com/album/7sJ562pCwgxEBYhNkYqLOD"
       },
@@ -1899,18 +1883,18 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Saturday Nights",
-        "url": "https://open.spotify.com/album/2wkUj7y8b9yZZqjhfScAHv"
+        "name": "Limoneros",
+        "url": "https://open.spotify.com/album/4EifjjgUQ3Fp0CUNLUXqJb"
       },
       "artists": [
         {
-          "name": "Amanda Yang",
-          "url": "https://open.spotify.com/artist/2hM7Rb0V5wKjvDEgYt1zed"
+          "name": "Borneo",
+          "url": "https://open.spotify.com/artist/0w9lu4ZDXuidfh3SfJ7Bdz"
         }
       ],
-      "duration_ms": 178852,
-      "name": "Saturday Nights",
-      "url": "https://open.spotify.com/track/7d3s1XpWyIHZq20ie2ghSp"
+      "duration_ms": 175786,
+      "name": "Limoneros",
+      "url": "https://open.spotify.com/track/1CzjmKHAE1phlC2meLmdCJ"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -1931,6 +1915,22 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
+        "name": "Saturday Nights",
+        "url": "https://open.spotify.com/album/2wkUj7y8b9yZZqjhfScAHv"
+      },
+      "artists": [
+        {
+          "name": "Amanda Yang",
+          "url": "https://open.spotify.com/artist/2hM7Rb0V5wKjvDEgYt1zed"
+        }
+      ],
+      "duration_ms": 178852,
+      "name": "Saturday Nights",
+      "url": "https://open.spotify.com/track/7d3s1XpWyIHZq20ie2ghSp"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
         "name": "Graveyard",
         "url": "https://open.spotify.com/album/5ikC0QzKV75C5uXx7aTOq1"
       },
@@ -1947,22 +1947,6 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Rare",
-        "url": "https://open.spotify.com/album/0hJGqWWnuXvTBTNAq4b5Ak"
-      },
-      "artists": [
-        {
-          "name": "Nina Olivia",
-          "url": "https://open.spotify.com/artist/1pXIOLVqMBX1gWRyEJLBF9"
-        }
-      ],
-      "duration_ms": 224722,
-      "name": "Rare",
-      "url": "https://open.spotify.com/track/4uhT2J1yUZkSDuETxsKq9P"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
         "name": "Voices In The Sky",
         "url": "https://open.spotify.com/album/3xbtHD6AtuBZia9256EhML"
       },
@@ -1975,6 +1959,22 @@
       "duration_ms": 206584,
       "name": "Never My Love",
       "url": "https://open.spotify.com/track/4zRkmGHVgGGnJMhemMXD6I"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
+        "name": "Rare",
+        "url": "https://open.spotify.com/album/0hJGqWWnuXvTBTNAq4b5Ak"
+      },
+      "artists": [
+        {
+          "name": "Nina Olivia",
+          "url": "https://open.spotify.com/artist/1pXIOLVqMBX1gWRyEJLBF9"
+        }
+      ],
+      "duration_ms": 224722,
+      "name": "Rare",
+      "url": "https://open.spotify.com/track/4uhT2J1yUZkSDuETxsKq9P"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -2015,22 +2015,6 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Eastside",
-        "url": "https://open.spotify.com/album/40Oh0dhENJI14y6hluK0Py"
-      },
-      "artists": [
-        {
-          "name": "Ben & Tim",
-          "url": "https://open.spotify.com/artist/0gb9yVmQVwhLVMMGKgXYnv"
-        }
-      ],
-      "duration_ms": 210580,
-      "name": "Eastside",
-      "url": "https://open.spotify.com/track/1i4I5mPDn6GdHlO43c2O27"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2M8YCuo32nPRMyIXdq6aCX"
       },
@@ -2043,6 +2027,22 @@
       "duration_ms": 277674,
       "name": "Ganas - Spotify Singles",
       "url": "https://open.spotify.com/track/57i3tg8kJYRL13vZqoq0kC"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
+        "name": "Eastside",
+        "url": "https://open.spotify.com/album/40Oh0dhENJI14y6hluK0Py"
+      },
+      "artists": [
+        {
+          "name": "Ben & Tim",
+          "url": "https://open.spotify.com/artist/0gb9yVmQVwhLVMMGKgXYnv"
+        }
+      ],
+      "duration_ms": 210580,
+      "name": "Eastside",
+      "url": "https://open.spotify.com/track/1i4I5mPDn6GdHlO43c2O27"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -2159,22 +2159,6 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "x tu amor",
-        "url": "https://open.spotify.com/album/7mBz4JHXuotY2hVpQBtsFN"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9s Zavala",
-          "url": "https://open.spotify.com/artist/2eU9yUF9QzF2V35XmWbgs2"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "x tu amor",
-      "url": "https://open.spotify.com/track/5sG7D67ZXhZSLYDNaZeKJR"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
         "name": "Fin",
         "url": "https://open.spotify.com/album/1x2xsNNECv8DSisudpo0Nm"
       },
@@ -2187,6 +2171,22 @@
       "duration_ms": 216746,
       "name": "Fin",
       "url": "https://open.spotify.com/track/3yxoXsE9d1DTg6f1TGESig"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
+        "name": "x tu amor",
+        "url": "https://open.spotify.com/album/7mBz4JHXuotY2hVpQBtsFN"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Zavala",
+          "url": "https://open.spotify.com/artist/2eU9yUF9QzF2V35XmWbgs2"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "x tu amor",
+      "url": "https://open.spotify.com/track/5sG7D67ZXhZSLYDNaZeKJR"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -2435,22 +2435,6 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Don\u2019t You Look At Me That Way",
-        "url": "https://open.spotify.com/album/5GGnarWGlNGFEGOo5ztQH2"
-      },
-      "artists": [
-        {
-          "name": "flora cash",
-          "url": "https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd"
-        }
-      ],
-      "duration_ms": 200686,
-      "name": "Don\u2019t You Look At Me That Way",
-      "url": "https://open.spotify.com/track/0lAyS09c8EUBC9hJgjBM1U"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
         "name": "better on my own (na podstawie serii \"Friends\" Aleksandry Negro\u0144skiej)",
         "url": "https://open.spotify.com/album/66X3yLH2L4fkv8k6xo4J6i"
       },
@@ -2467,6 +2451,22 @@
       "duration_ms": 228520,
       "name": "better on my own - na podstawie serii \"Friends\" Aleksandry Negro\u0144skiej",
       "url": "https://open.spotify.com/track/48FWPEjsIDprp1iS743vQn"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
+        "name": "Don\u2019t You Look At Me That Way",
+        "url": "https://open.spotify.com/album/5GGnarWGlNGFEGOo5ztQH2"
+      },
+      "artists": [
+        {
+          "name": "flora cash",
+          "url": "https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd"
+        }
+      ],
+      "duration_ms": 200686,
+      "name": "Don\u2019t You Look At Me That Way",
+      "url": "https://open.spotify.com/track/0lAyS09c8EUBC9hJgjBM1U"
     },
     {
       "added_at": "2025-06-20 16:07:31",

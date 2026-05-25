@@ -1,6 +1,6 @@
 {
   "description": "Os hits e novos nomes do pop dividindo o mesmo palco! Foto: Capim Lim\u00e3o",
-  "num_followers": 361680,
+  "num_followers": 361673,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
@@ -383,6 +383,30 @@
     {
       "added_at": "2026-05-22 03:00:41",
       "album": {
+        "name": "Meu Bem",
+        "url": "https://open.spotify.com/album/1IJ4gunXDSfzjxloxvWY07"
+      },
+      "artists": [
+        {
+          "name": "Mariana Nolasco",
+          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
+        },
+        {
+          "name": "IVYSON",
+          "url": "https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu"
+        },
+        {
+          "name": "Joyce Alane",
+          "url": "https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG"
+        }
+      ],
+      "duration_ms": 134755,
+      "name": "Meu Bem",
+      "url": "https://open.spotify.com/track/75JqbHbQztZgSS3nZEcHU7"
+    },
+    {
+      "added_at": "2026-05-22 03:00:41",
+      "album": {
         "name": "Fim Do Mundo",
         "url": "https://open.spotify.com/album/4awLAGhKdYZx9vi4tneHEe"
       },
@@ -407,30 +431,6 @@
       "duration_ms": 148571,
       "name": "Fim Do Mundo",
       "url": "https://open.spotify.com/track/1TXGRZDEFUtF58mLjsB5Gm"
-    },
-    {
-      "added_at": "2026-05-22 03:00:41",
-      "album": {
-        "name": "Meu Bem",
-        "url": "https://open.spotify.com/album/1IJ4gunXDSfzjxloxvWY07"
-      },
-      "artists": [
-        {
-          "name": "Mariana Nolasco",
-          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
-        },
-        {
-          "name": "IVYSON",
-          "url": "https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu"
-        },
-        {
-          "name": "Joyce Alane",
-          "url": "https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG"
-        }
-      ],
-      "duration_ms": 134755,
-      "name": "Meu Bem",
-      "url": "https://open.spotify.com/track/75JqbHbQztZgSS3nZEcHU7"
     },
     {
       "added_at": "2026-05-22 03:00:41",
@@ -535,6 +535,22 @@
     {
       "added_at": "2026-05-22 03:00:41",
       "album": {
+        "name": "Saudade",
+        "url": "https://open.spotify.com/album/3GGUhsGGdHx4LFSJRNEFK8"
+      },
+      "artists": [
+        {
+          "name": "Ana Laura Lopes",
+          "url": "https://open.spotify.com/artist/0uGD30yANzeWbNUAQoiJF2"
+        }
+      ],
+      "duration_ms": 236495,
+      "name": "Saudade",
+      "url": "https://open.spotify.com/track/7GG0LrteBlJ1Rvkn33S4tf"
+    },
+    {
+      "added_at": "2026-05-22 03:00:41",
+      "album": {
         "name": "Clube dos Cora\u00e7\u00f5es Partidos",
         "url": "https://open.spotify.com/album/5d7BXUEK9UPxdWYEP2KCXI"
       },
@@ -567,6 +583,22 @@
     {
       "added_at": "2026-05-22 03:00:41",
       "album": {
+        "name": "Del\u00edrio Favorito",
+        "url": "https://open.spotify.com/album/2yj64rYACA151NjzLpZo2a"
+      },
+      "artists": [
+        {
+          "name": "UANA",
+          "url": "https://open.spotify.com/artist/2fHwMQjss3D6RfkPN0ZkwO"
+        }
+      ],
+      "duration_ms": 195692,
+      "name": "Del\u00edrio Favorito",
+      "url": "https://open.spotify.com/track/7BJ0CO6cBxEC3g8as2M8zC"
+    },
+    {
+      "added_at": "2026-05-22 03:00:41",
+      "album": {
         "name": "Descomplica",
         "url": "https://open.spotify.com/album/5eYtbArx818qyC8Tjm2Nt5"
       },
@@ -583,22 +615,6 @@
       "duration_ms": 212500,
       "name": "Descomplica",
       "url": "https://open.spotify.com/track/5EtFeOIW4qKLYlMKnE343d"
-    },
-    {
-      "added_at": "2026-05-22 03:00:41",
-      "album": {
-        "name": "Del\u00edrio Favorito",
-        "url": "https://open.spotify.com/album/2yj64rYACA151NjzLpZo2a"
-      },
-      "artists": [
-        {
-          "name": "UANA",
-          "url": "https://open.spotify.com/artist/2fHwMQjss3D6RfkPN0ZkwO"
-        }
-      ],
-      "duration_ms": 195692,
-      "name": "Del\u00edrio Favorito",
-      "url": "https://open.spotify.com/track/7BJ0CO6cBxEC3g8as2M8zC"
     },
     {
       "added_at": "2026-05-22 03:00:41",
@@ -699,38 +715,6 @@
     {
       "added_at": "2026-05-22 03:00:41",
       "album": {
-        "name": "Saudade",
-        "url": "https://open.spotify.com/album/3GGUhsGGdHx4LFSJRNEFK8"
-      },
-      "artists": [
-        {
-          "name": "Ana Laura Lopes",
-          "url": "https://open.spotify.com/artist/0uGD30yANzeWbNUAQoiJF2"
-        }
-      ],
-      "duration_ms": 236495,
-      "name": "Saudade",
-      "url": "https://open.spotify.com/track/7GG0LrteBlJ1Rvkn33S4tf"
-    },
-    {
-      "added_at": "2026-05-22 03:00:41",
-      "album": {
-        "name": "Balelo",
-        "url": "https://open.spotify.com/album/5h91bT30As9hPOjFRPhvOM"
-      },
-      "artists": [
-        {
-          "name": "Bia Marques",
-          "url": "https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R"
-        }
-      ],
-      "duration_ms": 170234,
-      "name": "Balelo",
-      "url": "https://open.spotify.com/track/2QEGxX5uZecGEDRQ8hhmsK"
-    },
-    {
-      "added_at": "2026-05-22 03:00:41",
-      "album": {
         "name": "Inimagin\u00e1vel",
         "url": "https://open.spotify.com/album/5on2cyZTeIfRnXYngdxnz2"
       },
@@ -755,6 +739,22 @@
     {
       "added_at": "2026-05-22 03:00:41",
       "album": {
+        "name": "Balelo",
+        "url": "https://open.spotify.com/album/5h91bT30As9hPOjFRPhvOM"
+      },
+      "artists": [
+        {
+          "name": "Bia Marques",
+          "url": "https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R"
+        }
+      ],
+      "duration_ms": 170234,
+      "name": "Balelo",
+      "url": "https://open.spotify.com/track/2QEGxX5uZecGEDRQ8hhmsK"
+    },
+    {
+      "added_at": "2026-05-22 03:00:41",
+      "album": {
         "name": "no seu tempo",
         "url": "https://open.spotify.com/album/53O6paNKGZJT6rnyQuZaSg"
       },
@@ -767,22 +767,6 @@
       "duration_ms": 158922,
       "name": "no seu tempo",
       "url": "https://open.spotify.com/track/6KwCZfifvEqY083x0zcQjk"
-    },
-    {
-      "added_at": "2026-05-22 03:00:41",
-      "album": {
-        "name": "PASSARINHO",
-        "url": "https://open.spotify.com/album/1GkRQZoM0BzLpn5RkQ5VX8"
-      },
-      "artists": [
-        {
-          "name": "Dora Sanches",
-          "url": "https://open.spotify.com/artist/229B0BZwb8NWvQpmt5rXJR"
-        }
-      ],
-      "duration_ms": 201783,
-      "name": "PASSARINHO",
-      "url": "https://open.spotify.com/track/5xnUZDsZHLVzOoSevGTNSl"
     },
     {
       "added_at": "2026-05-22 03:00:41",
@@ -803,6 +787,42 @@
       "duration_ms": 127600,
       "name": "Volta",
       "url": "https://open.spotify.com/track/2M5BehhFtfmxQrW7vBTK5G"
+    },
+    {
+      "added_at": "2026-05-22 03:00:41",
+      "album": {
+        "name": "PASSARINHO",
+        "url": "https://open.spotify.com/album/1GkRQZoM0BzLpn5RkQ5VX8"
+      },
+      "artists": [
+        {
+          "name": "Dora Sanches",
+          "url": "https://open.spotify.com/artist/229B0BZwb8NWvQpmt5rXJR"
+        }
+      ],
+      "duration_ms": 201783,
+      "name": "PASSARINHO",
+      "url": "https://open.spotify.com/track/5xnUZDsZHLVzOoSevGTNSl"
+    },
+    {
+      "added_at": "2026-05-22 03:00:41",
+      "album": {
+        "name": "Ressaca da Saudade",
+        "url": "https://open.spotify.com/album/4rxQw8zsbGpGalUhER4aoj"
+      },
+      "artists": [
+        {
+          "name": "Aram\u00e0",
+          "url": "https://open.spotify.com/artist/2M2lDprCQRdjvgo0yDsdTD"
+        },
+        {
+          "name": "Enme",
+          "url": "https://open.spotify.com/artist/3ttiKwSvGG74O588DvPIG8"
+        }
+      ],
+      "duration_ms": 172395,
+      "name": "Ressaca da Saudade",
+      "url": "https://open.spotify.com/track/0AHJZmcGTNmpNXqXqgLnl6"
     },
     {
       "added_at": "2026-05-22 03:00:41",
@@ -871,22 +891,34 @@
     {
       "added_at": "2026-05-22 03:00:41",
       "album": {
-        "name": "Ressaca da Saudade",
-        "url": "https://open.spotify.com/album/4rxQw8zsbGpGalUhER4aoj"
+        "name": "Quando me ver passar",
+        "url": "https://open.spotify.com/album/2xUiJzdSoTEB16fD117fR7"
       },
       "artists": [
         {
-          "name": "Aram\u00e0",
-          "url": "https://open.spotify.com/artist/2M2lDprCQRdjvgo0yDsdTD"
-        },
-        {
-          "name": "Enme",
-          "url": "https://open.spotify.com/artist/3ttiKwSvGG74O588DvPIG8"
+          "name": "Bryan Behr",
+          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
         }
       ],
-      "duration_ms": 172395,
-      "name": "Ressaca da Saudade",
-      "url": "https://open.spotify.com/track/0AHJZmcGTNmpNXqXqgLnl6"
+      "duration_ms": 134753,
+      "name": "Quando me ver passar",
+      "url": "https://open.spotify.com/track/2CUIL76u0Nh37k1hcIwC4P"
+    },
+    {
+      "added_at": "2026-05-22 03:00:41",
+      "album": {
+        "name": "vou dar",
+        "url": "https://open.spotify.com/album/6nzC1iVoGmATyDJu9BRH4n"
+      },
+      "artists": [
+        {
+          "name": "Clau",
+          "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
+        }
+      ],
+      "duration_ms": 143018,
+      "name": "vou dar",
+      "url": "https://open.spotify.com/track/6YNmbPdo0ofu27ODq8BRUJ"
     },
     {
       "added_at": "2026-05-22 03:00:41",
@@ -931,18 +963,18 @@
     {
       "added_at": "2026-05-22 03:00:41",
       "album": {
-        "name": "vou dar",
-        "url": "https://open.spotify.com/album/6nzC1iVoGmATyDJu9BRH4n"
+        "name": "como foi pra vc?",
+        "url": "https://open.spotify.com/album/4LNAl7KuM6AOQkn6qFZmsJ"
       },
       "artists": [
         {
-          "name": "Clau",
-          "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
+          "name": "Tot\u00f4 de Babalong",
+          "url": "https://open.spotify.com/artist/0zsgeSGGHL9FLxTBcfNd2x"
         }
       ],
-      "duration_ms": 143018,
-      "name": "vou dar",
-      "url": "https://open.spotify.com/track/6YNmbPdo0ofu27ODq8BRUJ"
+      "duration_ms": 243428,
+      "name": "como foi pra vc?",
+      "url": "https://open.spotify.com/track/2ytDhsNAq1koytijhuTaO4"
     },
     {
       "added_at": "2026-05-22 03:00:41",
@@ -963,22 +995,6 @@
     {
       "added_at": "2026-05-22 03:00:41",
       "album": {
-        "name": "Manh\u00e3 de Sol",
-        "url": "https://open.spotify.com/album/3112UESU5WJFX24ulal6XM"
-      },
-      "artists": [
-        {
-          "name": "Doral",
-          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
-        }
-      ],
-      "duration_ms": 181666,
-      "name": "Manh\u00e3 de Sol",
-      "url": "https://open.spotify.com/track/6IK8FcpWZ1j6VJvAqnjH0g"
-    },
-    {
-      "added_at": "2026-05-22 03:00:41",
-      "album": {
         "name": "TANTAS FORMAS DE DIZER ADEUS",
         "url": "https://open.spotify.com/album/4YPY6oJnQiB8Lg3GoXgdqi"
       },
@@ -991,6 +1007,22 @@
       "duration_ms": 160741,
       "name": "Coincidentemente (Tirando Certas Coisas)",
       "url": "https://open.spotify.com/track/6jRuKl48CmDvAKh7fBSI6z"
+    },
+    {
+      "added_at": "2026-05-22 03:00:41",
+      "album": {
+        "name": "Manh\u00e3 de Sol",
+        "url": "https://open.spotify.com/album/3112UESU5WJFX24ulal6XM"
+      },
+      "artists": [
+        {
+          "name": "Doral",
+          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
+        }
+      ],
+      "duration_ms": 181666,
+      "name": "Manh\u00e3 de Sol",
+      "url": "https://open.spotify.com/track/6IK8FcpWZ1j6VJvAqnjH0g"
     },
     {
       "added_at": "2026-05-22 03:00:41",
@@ -1011,22 +1043,6 @@
     {
       "added_at": "2026-05-22 03:00:41",
       "album": {
-        "name": "Quando me ver passar",
-        "url": "https://open.spotify.com/album/2xUiJzdSoTEB16fD117fR7"
-      },
-      "artists": [
-        {
-          "name": "Bryan Behr",
-          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
-        }
-      ],
-      "duration_ms": 134753,
-      "name": "Quando me ver passar",
-      "url": "https://open.spotify.com/track/2CUIL76u0Nh37k1hcIwC4P"
-    },
-    {
-      "added_at": "2026-05-22 03:00:41",
-      "album": {
         "name": "Seda de Casulo",
         "url": "https://open.spotify.com/album/65GZdJGVYl19N72Wf0HskJ"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 150422,
       "name": "Ningu\u00e9m Morre de Amor",
       "url": "https://open.spotify.com/track/3wSeJH8vZyhWmvIU0QubWo"
-    },
-    {
-      "added_at": "2026-05-22 03:00:41",
-      "album": {
-        "name": "como foi pra vc?",
-        "url": "https://open.spotify.com/album/4LNAl7KuM6AOQkn6qFZmsJ"
-      },
-      "artists": [
-        {
-          "name": "Tot\u00f4 de Babalong",
-          "url": "https://open.spotify.com/artist/0zsgeSGGHL9FLxTBcfNd2x"
-        }
-      ],
-      "duration_ms": 243428,
-      "name": "como foi pra vc?",
-      "url": "https://open.spotify.com/track/2ytDhsNAq1koytijhuTaO4"
     },
     {
       "added_at": "2026-05-22 03:00:41",
@@ -1195,6 +1195,26 @@
     {
       "added_at": "2026-05-22 03:00:41",
       "album": {
+        "name": "LUMINOSA, ATO II: SOL",
+        "url": "https://open.spotify.com/album/0jjFw0lrAwiOvXgbnvOp2D"
+      },
+      "artists": [
+        {
+          "name": "Ana Cacimba",
+          "url": "https://open.spotify.com/artist/2VUDolPxpoiwL3oOXVst58"
+        },
+        {
+          "name": "Big Up",
+          "url": "https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0"
+        }
+      ],
+      "duration_ms": 179259,
+      "name": "Sorte",
+      "url": "https://open.spotify.com/track/28xVmDFPHeRgYHo1Nfv27d"
+    },
+    {
+      "added_at": "2026-05-22 03:00:41",
+      "album": {
         "name": "Energy",
         "url": "https://open.spotify.com/album/2AkCaeXRWht0pyc4SHzGGr"
       },
@@ -1231,26 +1251,6 @@
       "duration_ms": 152000,
       "name": "GPS",
       "url": "https://open.spotify.com/track/3lVIndILaskUQfGRVqDvrc"
-    },
-    {
-      "added_at": "2026-05-22 03:00:41",
-      "album": {
-        "name": "LUMINOSA, ATO II: SOL",
-        "url": "https://open.spotify.com/album/0jjFw0lrAwiOvXgbnvOp2D"
-      },
-      "artists": [
-        {
-          "name": "Ana Cacimba",
-          "url": "https://open.spotify.com/artist/2VUDolPxpoiwL3oOXVst58"
-        },
-        {
-          "name": "Big Up",
-          "url": "https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0"
-        }
-      ],
-      "duration_ms": 179259,
-      "name": "Sorte",
-      "url": "https://open.spotify.com/track/28xVmDFPHeRgYHo1Nfv27d"
     },
     {
       "added_at": "2026-05-22 03:00:41",
@@ -1299,26 +1299,6 @@
     {
       "added_at": "2026-05-22 03:00:41",
       "album": {
-        "name": "Sem foto, sem v\u00eddeo",
-        "url": "https://open.spotify.com/album/1SverQN2YSrveKTN2cRtRh"
-      },
-      "artists": [
-        {
-          "name": "SANTIN",
-          "url": "https://open.spotify.com/artist/477D9liHuINESjeGNCN1wF"
-        },
-        {
-          "name": "Jade Baraldo",
-          "url": "https://open.spotify.com/artist/5sz2Sp7OkasBBmDkKerv45"
-        }
-      ],
-      "duration_ms": 194407,
-      "name": "Sem foto, sem v\u00eddeo",
-      "url": "https://open.spotify.com/track/1qYD1qpRCi53yAfXrez1r8"
-    },
-    {
-      "added_at": "2026-05-22 03:00:41",
-      "album": {
         "name": "Deixa eu te sentir",
         "url": "https://open.spotify.com/album/3l9x2o5TnRTnQyfm3PdneQ"
       },
@@ -1331,6 +1311,22 @@
       "duration_ms": 161419,
       "name": "Deixa eu te sentir",
       "url": "https://open.spotify.com/track/3oE47KzHTOBEA5utcirjGy"
+    },
+    {
+      "added_at": "2026-05-22 03:00:41",
+      "album": {
+        "name": "N\u00e3o Solta Minha M\u00e3o",
+        "url": "https://open.spotify.com/album/3n9S4UdRZhnt5rqksg3qVA"
+      },
+      "artists": [
+        {
+          "name": "Dawid",
+          "url": "https://open.spotify.com/artist/6yPULMo0iyCHRTSZmXmsjp"
+        }
+      ],
+      "duration_ms": 188556,
+      "name": "N\u00e3o Solta Minha M\u00e3o",
+      "url": "https://open.spotify.com/track/6xpnSqg4C2NRNke03phRFd"
     }
   ],
   "unique_name": "Palco POP",

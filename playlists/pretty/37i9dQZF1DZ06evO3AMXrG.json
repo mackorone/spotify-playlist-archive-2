@@ -1,13 +1,29 @@
 {
   "description": "This is Cultura Prof\u00e9tica. The essential tracks, all in one playlist.",
-  "num_followers": 249665,
+  "num_followers": 249685,
   "original_name": "This Is Cultura Prof\u00e9tica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ag+cgAAAAAC+CQTiRa6qI0NsuZdyljpM",
+  "snapshot_id": "ahDuAAAAAACCU8pCGw/iS62J4L32nWIw",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Dulzura",
+        "url": "https://open.spotify.com/album/6R4h5bssC4MAg5B6v4MhSZ"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "duration_ms": 306005,
+      "name": "Ilegal",
+      "url": "https://open.spotify.com/track/4G957N5nUzj1RBIvbWxbyy"
+    },
     {
       "added_at": null,
       "album": {
@@ -27,22 +43,6 @@
       "duration_ms": 254740,
       "name": "Mantis",
       "url": "https://open.spotify.com/track/6ImCkOkytyhBDWDU3a26iL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Dulzura",
-        "url": "https://open.spotify.com/album/6R4h5bssC4MAg5B6v4MhSZ"
-      },
-      "artists": [
-        {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
-        }
-      ],
-      "duration_ms": 306005,
-      "name": "Ilegal",
-      "url": "https://open.spotify.com/track/4G957N5nUzj1RBIvbWxbyy"
     },
     {
       "added_at": null,
@@ -83,22 +83,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "M. O. T. A.",
-        "url": "https://open.spotify.com/album/6vhnau5N0tJQLP26LVJLn7"
-      },
-      "artists": [
-        {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
-        }
-      ],
-      "duration_ms": 322866,
-      "name": "Un Deseo",
-      "url": "https://open.spotify.com/track/0d70EuIo3ziqTj5LvMYZCl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Dulzura",
         "url": "https://open.spotify.com/album/6R4h5bssC4MAg5B6v4MhSZ"
       },
@@ -111,6 +95,22 @@
       "duration_ms": 364959,
       "name": "La Complicidad",
       "url": "https://open.spotify.com/track/0BM1KdSASETfvFIZu4jK6l"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "M. O. T. A.",
+        "url": "https://open.spotify.com/album/6vhnau5N0tJQLP26LVJLn7"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "duration_ms": 322866,
+      "name": "Un Deseo",
+      "url": "https://open.spotify.com/track/0d70EuIo3ziqTj5LvMYZCl"
     },
     {
       "added_at": null,
@@ -151,22 +151,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "D\u00e9jame Entrar",
-        "url": "https://open.spotify.com/album/256bVkeTRjNNDaZL1hOtUV"
-      },
-      "artists": [
-        {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
-        }
-      ],
-      "duration_ms": 250347,
-      "name": "D\u00e9jame Entrar",
-      "url": "https://open.spotify.com/track/46kTKtI83CZZfGadbVe9Cu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Dulzura",
         "url": "https://open.spotify.com/album/6R4h5bssC4MAg5B6v4MhSZ"
       },
@@ -179,6 +163,22 @@
       "duration_ms": 266026,
       "name": "Baja la Tensi\u00f3n",
       "url": "https://open.spotify.com/track/3Ppo2RC5ViwcJWJ6A1obDN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "D\u00e9jame Entrar",
+        "url": "https://open.spotify.com/album/256bVkeTRjNNDaZL1hOtUV"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "duration_ms": 250347,
+      "name": "D\u00e9jame Entrar",
+      "url": "https://open.spotify.com/track/46kTKtI83CZZfGadbVe9Cu"
     },
     {
       "added_at": null,
@@ -215,6 +215,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Dulzura",
+        "url": "https://open.spotify.com/album/6R4h5bssC4MAg5B6v4MhSZ"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "duration_ms": 187481,
+      "name": "Rimas Pa' Seducir",
+      "url": "https://open.spotify.com/track/1lCi1FeDd3STjGmEpLkYLB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Momento",
         "url": "https://open.spotify.com/album/6JUteqYW61MphFHmJe5AAU"
       },
@@ -231,22 +247,6 @@
       "duration_ms": 235466,
       "name": "S\u00f3lo Por Ti",
       "url": "https://open.spotify.com/track/58ujE3lNtea4uCKJ05gUvg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Dulzura",
-        "url": "https://open.spotify.com/album/6R4h5bssC4MAg5B6v4MhSZ"
-      },
-      "artists": [
-        {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
-        }
-      ],
-      "duration_ms": 187481,
-      "name": "Rimas Pa' Seducir",
-      "url": "https://open.spotify.com/track/1lCi1FeDd3STjGmEpLkYLB"
     },
     {
       "added_at": null,
@@ -287,22 +287,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Diario",
-        "url": "https://open.spotify.com/album/29N2zEcNkyFcgy0dIhqY91"
-      },
-      "artists": [
-        {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
-        }
-      ],
-      "duration_ms": 283466,
-      "name": "Donde No Alcanza Mi Verso",
-      "url": "https://open.spotify.com/track/7gQbpyb0GTNOu8XVWwLfwK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Dulzura",
         "url": "https://open.spotify.com/album/6R4h5bssC4MAg5B6v4MhSZ"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 296618,
       "name": "Para Estar",
       "url": "https://open.spotify.com/track/5rYS63g3KKshTaKPhyeHj6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Diario",
+        "url": "https://open.spotify.com/album/29N2zEcNkyFcgy0dIhqY91"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "duration_ms": 283466,
+      "name": "Donde No Alcanza Mi Verso",
+      "url": "https://open.spotify.com/track/7gQbpyb0GTNOu8XVWwLfwK"
     },
     {
       "added_at": null,
@@ -351,22 +351,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Diario",
-        "url": "https://open.spotify.com/album/29N2zEcNkyFcgy0dIhqY91"
-      },
-      "artists": [
-        {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
-        }
-      ],
-      "duration_ms": 287160,
-      "name": "Inspiraci\u00f3n",
-      "url": "https://open.spotify.com/track/4RdHhgBW4eWV5PohRNYkNl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Dulzura",
         "url": "https://open.spotify.com/album/6R4h5bssC4MAg5B6v4MhSZ"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 171536,
       "name": "Me Faltabas T\u00fa",
       "url": "https://open.spotify.com/track/7kuICQNYqWwhN9elL39HVu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Diario",
+        "url": "https://open.spotify.com/album/29N2zEcNkyFcgy0dIhqY91"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "duration_ms": 287160,
+      "name": "Inspiraci\u00f3n",
+      "url": "https://open.spotify.com/track/4RdHhgBW4eWV5PohRNYkNl"
     },
     {
       "added_at": null,
@@ -683,22 +683,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desahogo",
-        "url": "https://open.spotify.com/album/3NKiKaXsCZTih6ZklMdJBN"
+        "name": "L\u00e1grimas",
+        "url": "https://open.spotify.com/album/07AdSSqAECv1zjfmAxjYsu"
       },
       "artists": [
         {
-          "name": "Vico C",
-          "url": "https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6"
+          "name": "Jowell & Randy",
+          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
         },
         {
           "name": "Cultura Prof\u00e9tica",
           "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
         }
       ],
-      "duration_ms": 316720,
-      "name": "Te Me Puedo Escapar",
-      "url": "https://open.spotify.com/track/762XrYAcOYyYTQl9Ziypct"
+      "duration_ms": 280000,
+      "name": "L\u00e1grimas",
+      "url": "https://open.spotify.com/track/0jY3QomRqGPCDBhaIkcndk"
     },
     {
       "added_at": null,
@@ -719,22 +719,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "L\u00e1grimas",
-        "url": "https://open.spotify.com/album/07AdSSqAECv1zjfmAxjYsu"
+        "name": "Desahogo",
+        "url": "https://open.spotify.com/album/3NKiKaXsCZTih6ZklMdJBN"
       },
       "artists": [
         {
-          "name": "Jowell & Randy",
-          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
+          "name": "Vico C",
+          "url": "https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6"
         },
         {
           "name": "Cultura Prof\u00e9tica",
           "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
         }
       ],
-      "duration_ms": 280000,
-      "name": "L\u00e1grimas",
-      "url": "https://open.spotify.com/track/0jY3QomRqGPCDBhaIkcndk"
+      "duration_ms": 316720,
+      "name": "Te Me Puedo Escapar",
+      "url": "https://open.spotify.com/track/762XrYAcOYyYTQl9Ziypct"
     },
     {
       "added_at": null,

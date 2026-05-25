@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSM0Vq39VM1S.md) - [plain]
 
 > C'est parti pour une bonne journée.
 
-[Spotify](https://open.spotify.com/user/spotify) - 388,804 likes - 60 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 388,864 likes - 60 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSM0Vq39VM1S.md) - [plain]
 | 44 | [Crown](https://open.spotify.com/track/7xTplcuSNquTW0mpuikq1E) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Crown](https://open.spotify.com/album/07gjkxd6XpuPOYPjx11iDY) | 2:22 |
 | 45 | [My Whole Life](https://open.spotify.com/track/34GAk6onUPTSyOsISSQY3L) | [Octave Lissner](https://open.spotify.com/artist/0EzrGrgoaRfFelIQgRBIt7) | [Learning to Live](https://open.spotify.com/album/74g5xcLgklxM0bu3UxBCCs) | 3:05 |
 | 46 | [Your Woman](https://open.spotify.com/track/1PJEzOSG67yPOarjKAlvg6) | [Annie Lalalove](https://open.spotify.com/artist/0rXEHQAzDXBvblE2EZRBjL) | [Your Woman](https://open.spotify.com/album/63f4ACjDE8ucRFZgnglWOm) | 3:48 |
-| 47 | [If Only](https://open.spotify.com/track/6Lo1FtdhJ4htWxJrDBED7c) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [If Only](https://open.spotify.com/album/56c8txn6KCWuukEMSvoegl) | 3:28 |
-| 48 | [Ricordo tattile](https://open.spotify.com/track/3Gk1uoZYoQ3dq3UqCEHdDC) | [Andrea Laszlo De Simone](https://open.spotify.com/artist/2InNZR52CaeutuA8BjbfSh) | [Una lunghissima ombra](https://open.spotify.com/album/53VuM2XxkSpzalMQqmM7Jb) | 6:29 |
+| 47 | [Ricordo tattile](https://open.spotify.com/track/3Gk1uoZYoQ3dq3UqCEHdDC) | [Andrea Laszlo De Simone](https://open.spotify.com/artist/2InNZR52CaeutuA8BjbfSh) | [Una lunghissima ombra](https://open.spotify.com/album/53VuM2XxkSpzalMQqmM7Jb) | 6:29 |
+| 48 | [If Only](https://open.spotify.com/track/6Lo1FtdhJ4htWxJrDBED7c) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [If Only](https://open.spotify.com/album/56c8txn6KCWuukEMSvoegl) | 3:28 |
 | 49 | [Yours Or Mine](https://open.spotify.com/track/6uJ1XDLc1xsAD7TqnAFLP4) | [Hajaj](https://open.spotify.com/artist/08yjRkGm8KNsShKjtbEmt6) | [Yours Or Mine](https://open.spotify.com/album/4TeFGNjeEzZytPpGiw81M2) | 3:50 |
 | 50 | [you chose this](https://open.spotify.com/track/12CcA3RDkKo5U0lbNsCbSX) | [Emelie Trahan](https://open.spotify.com/artist/26ZYSsr8RPofalTXPh4yyq) | [you chose this](https://open.spotify.com/album/1xSeDb9h7JclM6c7qhAEGL) | 2:38 |
 | 51 | [Smoke](https://open.spotify.com/track/36FBF9QJIxMIGh3uTnUAH1) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [Smoke](https://open.spotify.com/album/2ATkJp3riBcNpJ153QTrif) | 3:21 |

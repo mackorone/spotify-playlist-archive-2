@@ -1,12 +1,12 @@
 {
   "description": "This is Alexis Ffrench. The essential tracks, all in one playlist.",
-  "num_followers": 25851,
+  "num_followers": 25887,
   "original_name": "This Is Alexis Ffrench",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ag+cgAAAAACavb+ILow9wrEFUwb3pyW9",
+  "snapshot_id": "ahDuAAAAAAA1h/vWc08KGyK3tQ2fHt0E",
   "tracks": [
     {
       "added_at": null,
@@ -764,9 +764,9 @@
           "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
         }
       ],
-      "duration_ms": 202069,
-      "name": "Still Life",
-      "url": "https://open.spotify.com/track/5Zo96jw2gqhA6JpUsmPrSu"
+      "duration_ms": 170032,
+      "name": "Evermore",
+      "url": "https://open.spotify.com/track/15AZSOh1vE8gmwdhLrfaQM"
     },
     {
       "added_at": null,
@@ -848,9 +848,9 @@
           "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
         }
       ],
-      "duration_ms": 170032,
-      "name": "Evermore",
-      "url": "https://open.spotify.com/track/15AZSOh1vE8gmwdhLrfaQM"
+      "duration_ms": 202069,
+      "name": "Still Life",
+      "url": "https://open.spotify.com/track/5Zo96jw2gqhA6JpUsmPrSu"
     }
   ],
   "unique_name": "This Is Alexis Ffrench",

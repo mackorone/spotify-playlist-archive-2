@@ -1,6 +1,6 @@
 {
   "description": "\u015bwie\u017ce brzmienia na horyzoncie \u2728 Cover: Ania Szlagowska",
-  "num_followers": 25864,
+  "num_followers": 25866,
   "original_name": "up next",
   "owner": {
     "name": "Spotify",
@@ -243,18 +243,22 @@
     {
       "added_at": "2026-05-21 22:02:05",
       "album": {
-        "name": "TV",
-        "url": "https://open.spotify.com/album/6c91028rOTzQnHvmYgK6I4"
+        "name": "Cztery pory roku",
+        "url": "https://open.spotify.com/album/6Bc7mrgqOHPkiELJbPZt0x"
       },
       "artists": [
         {
-          "name": "Olga Myko",
-          "url": "https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm"
+          "name": "Wiktor Walig\u00f3ra",
+          "url": "https://open.spotify.com/artist/10PLt1zAFo8GDQlo0VD4iL"
+        },
+        {
+          "name": "DrySkull",
+          "url": "https://open.spotify.com/artist/3wdl0d5sycxPazuAEBTxEp"
         }
       ],
-      "duration_ms": 195018,
-      "name": "TV",
-      "url": "https://open.spotify.com/track/6RLMAUSoJP0GZZAnnLrTlX"
+      "duration_ms": 172852,
+      "name": "Cztery pory roku",
+      "url": "https://open.spotify.com/track/64WQcLBIXbjsAA6bh7uHmH"
     },
     {
       "added_at": "2026-05-21 22:02:05",
@@ -275,22 +279,18 @@
     {
       "added_at": "2026-05-21 22:02:05",
       "album": {
-        "name": "Cztery pory roku",
-        "url": "https://open.spotify.com/album/6Bc7mrgqOHPkiELJbPZt0x"
+        "name": "TV",
+        "url": "https://open.spotify.com/album/6c91028rOTzQnHvmYgK6I4"
       },
       "artists": [
         {
-          "name": "Wiktor Walig\u00f3ra",
-          "url": "https://open.spotify.com/artist/10PLt1zAFo8GDQlo0VD4iL"
-        },
-        {
-          "name": "DrySkull",
-          "url": "https://open.spotify.com/artist/3wdl0d5sycxPazuAEBTxEp"
+          "name": "Olga Myko",
+          "url": "https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm"
         }
       ],
-      "duration_ms": 172852,
-      "name": "Cztery pory roku",
-      "url": "https://open.spotify.com/track/64WQcLBIXbjsAA6bh7uHmH"
+      "duration_ms": 195018,
+      "name": "TV",
+      "url": "https://open.spotify.com/track/6RLMAUSoJP0GZZAnnLrTlX"
     },
     {
       "added_at": "2026-05-21 22:02:05",
@@ -423,22 +423,6 @@
     {
       "added_at": "2026-05-21 22:02:05",
       "album": {
-        "name": "fuck, i\u2019m yours?",
-        "url": "https://open.spotify.com/album/3tNuN7r0HFJJxzfz05dVcm"
-      },
-      "artists": [
-        {
-          "name": "bartek turski",
-          "url": "https://open.spotify.com/artist/5HArWtrcYhpxplTtZ848wR"
-        }
-      ],
-      "duration_ms": 167500,
-      "name": "fuck, i\u2019m yours?",
-      "url": "https://open.spotify.com/track/1qsncTDPTkXKYIiNpi3WdJ"
-    },
-    {
-      "added_at": "2026-05-21 22:02:05",
-      "album": {
         "name": "Odkochaj",
         "url": "https://open.spotify.com/album/536Y6k6glJY1fMr8jlyZPO"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 163200,
       "name": "Odkochaj",
       "url": "https://open.spotify.com/track/0ALsDccwFMj8QznHPah8fn"
+    },
+    {
+      "added_at": "2026-05-21 22:02:05",
+      "album": {
+        "name": "fuck, i\u2019m yours?",
+        "url": "https://open.spotify.com/album/3tNuN7r0HFJJxzfz05dVcm"
+      },
+      "artists": [
+        {
+          "name": "bartek turski",
+          "url": "https://open.spotify.com/artist/5HArWtrcYhpxplTtZ848wR"
+        }
+      ],
+      "duration_ms": 167500,
+      "name": "fuck, i\u2019m yours?",
+      "url": "https://open.spotify.com/track/1qsncTDPTkXKYIiNpi3WdJ"
     },
     {
       "added_at": "2026-05-21 22:02:05",
@@ -607,6 +607,22 @@
     {
       "added_at": "2026-05-21 22:02:05",
       "album": {
+        "name": "Wo\u0142am",
+        "url": "https://open.spotify.com/album/5OPhfeaaotZnwRn5fx0m41"
+      },
+      "artists": [
+        {
+          "name": "Maciej Skiba",
+          "url": "https://open.spotify.com/artist/0cCuYYHtLT5cQJsdIj04Tq"
+        }
+      ],
+      "duration_ms": 166315,
+      "name": "Wo\u0142am",
+      "url": "https://open.spotify.com/track/5M0i5vz49eMK6iMKJZul1y"
+    },
+    {
+      "added_at": "2026-05-21 22:02:05",
+      "album": {
         "name": "Si\u00f3dma Sosna",
         "url": "https://open.spotify.com/album/3yFJzPRH0w3EEhb0zxJa63"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 164949,
       "name": "Si\u00f3dma Sosna",
       "url": "https://open.spotify.com/track/4bLfMCa2nYQnWOeMcqLiY9"
-    },
-    {
-      "added_at": "2026-05-21 22:02:05",
-      "album": {
-        "name": "Wo\u0142am",
-        "url": "https://open.spotify.com/album/5OPhfeaaotZnwRn5fx0m41"
-      },
-      "artists": [
-        {
-          "name": "Maciej Skiba",
-          "url": "https://open.spotify.com/artist/0cCuYYHtLT5cQJsdIj04Tq"
-        }
-      ],
-      "duration_ms": 166315,
-      "name": "Wo\u0142am",
-      "url": "https://open.spotify.com/track/5M0i5vz49eMK6iMKJZul1y"
     },
     {
       "added_at": "2026-05-21 22:02:05",
@@ -971,22 +971,6 @@
     {
       "added_at": "2026-05-21 22:02:05",
       "album": {
-        "name": "Lustro",
-        "url": "https://open.spotify.com/album/3W91mDbnv8CLmX75f9RtO8"
-      },
-      "artists": [
-        {
-          "name": "Sad Smiles",
-          "url": "https://open.spotify.com/artist/5LISNIIF2dVg8fxzZImkzo"
-        }
-      ],
-      "duration_ms": 173100,
-      "name": "Lustro",
-      "url": "https://open.spotify.com/track/1juFCYbgxY2JQRXAmDoQey"
-    },
-    {
-      "added_at": "2026-05-21 22:02:05",
-      "album": {
         "name": "lepiej",
         "url": "https://open.spotify.com/album/2qq3p36UTibQYlpu0IV6R0"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 135388,
       "name": "lepiej",
       "url": "https://open.spotify.com/track/7GCE9OgHlDaXOWaq1b0vU6"
+    },
+    {
+      "added_at": "2026-05-21 22:02:05",
+      "album": {
+        "name": "Lustro",
+        "url": "https://open.spotify.com/album/3W91mDbnv8CLmX75f9RtO8"
+      },
+      "artists": [
+        {
+          "name": "Sad Smiles",
+          "url": "https://open.spotify.com/artist/5LISNIIF2dVg8fxzZImkzo"
+        }
+      ],
+      "duration_ms": 173100,
+      "name": "Lustro",
+      "url": "https://open.spotify.com/track/1juFCYbgxY2JQRXAmDoQey"
     },
     {
       "added_at": "2026-05-21 22:02:05",
@@ -1035,6 +1035,26 @@
     {
       "added_at": "2026-05-21 22:02:05",
       "album": {
+        "name": "kochaj mnie",
+        "url": "https://open.spotify.com/album/3URaw7BgvY2vh5EtECHnta"
+      },
+      "artists": [
+        {
+          "name": "Kajetan Wolas",
+          "url": "https://open.spotify.com/artist/6tpxFh5TlBxnHzrAfFlCXj"
+        },
+        {
+          "name": "Moo Latte",
+          "url": "https://open.spotify.com/artist/3gNjxcKLkMfZYKlLxn0O9F"
+        }
+      ],
+      "duration_ms": 151547,
+      "name": "kochaj mnie",
+      "url": "https://open.spotify.com/track/6ZXczp4DXqMxbaVlEhtMCc"
+    },
+    {
+      "added_at": "2026-05-21 22:02:05",
+      "album": {
         "name": "Wspania\u0142y to by\u0142 rok",
         "url": "https://open.spotify.com/album/33qGHKDZZixVbdIJWPICV4"
       },
@@ -1047,22 +1067,6 @@
       "duration_ms": 172193,
       "name": "Wspania\u0142y to by\u0142 rok",
       "url": "https://open.spotify.com/track/4068vxwJ0XFCw4M5qtanIV"
-    },
-    {
-      "added_at": "2026-05-21 22:02:05",
-      "album": {
-        "name": "Na stacji paliw",
-        "url": "https://open.spotify.com/album/5EDPDKxzeq5njUIfbQZhx5"
-      },
-      "artists": [
-        {
-          "name": "Mi\u0142osz Skierski",
-          "url": "https://open.spotify.com/artist/0aEvxy0vmxXQixOiE9qyhJ"
-        }
-      ],
-      "duration_ms": 183260,
-      "name": "Na stacji paliw",
-      "url": "https://open.spotify.com/track/1VzgaKsDOrRe3Gucc0e6Ti"
     },
     {
       "added_at": "2026-05-21 22:02:05",
@@ -1083,22 +1087,18 @@
     {
       "added_at": "2026-05-21 22:02:05",
       "album": {
-        "name": "Pal\u0119 \u017cale",
-        "url": "https://open.spotify.com/album/7zbbNbDzQyLjbJFznvNwfU"
+        "name": "Na stacji paliw",
+        "url": "https://open.spotify.com/album/5EDPDKxzeq5njUIfbQZhx5"
       },
       "artists": [
         {
-          "name": "Amelia And",
-          "url": "https://open.spotify.com/artist/58wKaNZ5iuXaeelRtHzEsk"
-        },
-        {
-          "name": "Filipek",
-          "url": "https://open.spotify.com/artist/5hqRsNHDZH1jHzI9LgxFRZ"
+          "name": "Mi\u0142osz Skierski",
+          "url": "https://open.spotify.com/artist/0aEvxy0vmxXQixOiE9qyhJ"
         }
       ],
-      "duration_ms": 146272,
-      "name": "Pal\u0119 \u017cale",
-      "url": "https://open.spotify.com/track/3AomUcaIEH9zIrrj2oKir5"
+      "duration_ms": 183260,
+      "name": "Na stacji paliw",
+      "url": "https://open.spotify.com/track/1VzgaKsDOrRe3Gucc0e6Ti"
     }
   ],
   "unique_name": "up next",

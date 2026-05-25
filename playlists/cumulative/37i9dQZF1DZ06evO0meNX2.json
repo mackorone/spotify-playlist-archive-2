@@ -1228,7 +1228,7 @@
       ],
       "date_added": "2025-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-25",
       "duration_ms": 198325,
       "name": "Parque De Diversiones",
       "url": "https://open.spotify.com/track/791oMvyY57IAKN31XYJ2PE"
@@ -1320,6 +1320,28 @@
       "duration_ms": 177720,
       "name": "Relojito Adiamantado",
       "url": "https://open.spotify.com/track/1AUb1vYXNAsD9phjOWocu0"
+    },
+    {
+      "album": {
+        "name": "DOSIS",
+        "url": "https://open.spotify.com/album/3ubgQrcjkyLeiRuTSfOR3Z"
+      },
+      "artists": [
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        },
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "date_added": "2026-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214403,
+      "name": "Se Me Amanece",
+      "url": "https://open.spotify.com/track/17LTvUNcDekp4pivzWQ283"
     },
     {
       "album": {

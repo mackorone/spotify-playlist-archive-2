@@ -1,6 +1,6 @@
 {
   "description": "The Indie highlights of 2015. Cover: Tame Impala\n\n\n\n\n\n",
-  "num_followers": 83997,
+  "num_followers": 84019,
   "original_name": "Best of Indie 2015",
   "owner": {
     "name": "Spotify",
@@ -1563,6 +1563,22 @@
     {
       "added_at": "2024-03-18 13:24:52",
       "album": {
+        "name": "Vallis Alps",
+        "url": "https://open.spotify.com/album/0s2fghAEEk3Uzz1IbGMDlq"
+      },
+      "artists": [
+        {
+          "name": "Vallis Alps",
+          "url": "https://open.spotify.com/artist/7qhWa7UI1QNZNDnzYwAYZm"
+        }
+      ],
+      "duration_ms": 324122,
+      "name": "Young",
+      "url": "https://open.spotify.com/track/3u4rIcRR7gSoJdkJIx9zpu"
+    },
+    {
+      "added_at": "2024-03-18 13:24:52",
+      "album": {
         "name": "Carrie & Lowell",
         "url": "https://open.spotify.com/album/0U8DeqqKDgIhIiWOdqiQXE"
       },
@@ -1607,22 +1623,6 @@
       "duration_ms": 227368,
       "name": "Painting Greys",
       "url": "https://open.spotify.com/track/6kUohQ7py1XEcQAhUgf2Zz"
-    },
-    {
-      "added_at": "2024-03-18 13:24:52",
-      "album": {
-        "name": "Art Angels",
-        "url": "https://open.spotify.com/album/5hB4jVN4ZHpubyiMmW81K1"
-      },
-      "artists": [
-        {
-          "name": "Grimes",
-          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
-        }
-      ],
-      "duration_ms": 198337,
-      "name": "California",
-      "url": "https://open.spotify.com/track/3zxqTbepxLQesm41y2NoE4"
     }
   ],
   "unique_name": "Best of Indie 2015",

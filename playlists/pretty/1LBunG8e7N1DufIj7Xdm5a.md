@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 280 likes - 4,474 songs - 9 day 22 hr 50 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 280 likes - 4,477 songs - 9 day 22 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4482,5 +4482,8 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4472 | [Fire on the Black Flags](https://open.spotify.com/track/2BZvjrW4tUWtkdMzSgS6Ua) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [PROVAI SPRING](https://open.spotify.com/album/3RLTwcxszKpeAT8bBoFdDV) | 2:49 |
 | 4473 | [Night Spiral](https://open.spotify.com/track/04R6sCNhelPB7fjEviIWMi) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [PROVAI SPRING](https://open.spotify.com/album/3RLTwcxszKpeAT8bBoFdDV) | 2:50 |
 | 4474 | [ENKI](https://open.spotify.com/track/78aPKQHPUrYPXvA9XteGcv) | [MX the American](https://open.spotify.com/artist/3NpREW3KO3Lp6K9BP5DJvU) | [The Sun In The 12th House](https://open.spotify.com/album/3bMk0D70P4yVp4Zmn6Dey7) | 4:48 |
+| 4475 | [That Kind of Girl](https://open.spotify.com/track/1SBp4oHlw8taa64WenMBgp) | [Sugarcane Hangover](https://open.spotify.com/artist/4apvzNrF5euN4Sy6oTgBZ3) | [That Kind of Girl](https://open.spotify.com/album/2lVSHtPcmY03BOPELzR6cf) | 3:22 |
+| 4476 | [100 Hod](https://open.spotify.com/track/0iV71apxpIvDdd4vLdj4wr) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [100 Hod](https://open.spotify.com/album/62pqGsxT3FIQJdCv6unCH9) | 2:31 |
+| 4477 | [证明我真的活着入门票一个](https://open.spotify.com/track/5Ui2iclOehI6HjZozdorOK) | [陶铭西](https://open.spotify.com/artist/7jUnGkOKbLiiaoat6VXIMW) | [证明我真的活着入门票一个](https://open.spotify.com/album/55ni3VEWMtNnJ4cabLqeP0) | 3:16 |
 
-Snapshot ID: `AAAIsgT+UAAGSz4Fxj98+78LkDp1hce5`
+Snapshot ID: `AAAItSyIRGtBpbv2z22FAWoQWFECDG5S`

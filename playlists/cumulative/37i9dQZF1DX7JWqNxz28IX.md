@@ -4,7 +4,7 @@
 
 > 𝖋𝖚𝖈𝖐 𝖑𝖔𝖛𝖊
 
-355 songs - 16 hr 9 min
+356 songs - 16 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [1Respiro](https://open.spotify.com/track/6CZ1kdM8FnERWwoI2bf891) | [Arssalendo](https://open.spotify.com/artist/54LmkGE6kI6eoaPdd6XiEd) | [Puoi chiamare se hai paura](https://open.spotify.com/album/70xMEfj93xmLgby2fZcfuw) | 2:50 | 2025-07-11 | 2025-07-25 |
 | [2NITE](https://open.spotify.com/track/46sLYtdbVx5EkGZDgTwZ5E) | [LA SAD](https://open.spotify.com/artist/1y5nSaw0Am7fIEDAkrfgjY) | [STO NELLA SAD](https://open.spotify.com/album/5wRGqfBO1sjjq8Gsa71bQn) | 2:59 | 2024-01-19 | 2025-07-12 |
 | [:RRaGNaTELa](https://open.spotify.com/track/5kI5Dm8y6dV3Aqx9fPJqhN) | [EMMA](https://open.spotify.com/artist/7LmO2BJsbObtMqCPcpjjhq) | [ERA L’INIZIO](https://open.spotify.com/album/2RgzZRAkdstoKe6NgpTrga) | 3:49 | 2025-07-11 |  |
+| [Acqua Fredda](https://open.spotify.com/track/56uVp5ERZsLrZyhUbMTmzb) | [Leevio](https://open.spotify.com/artist/5en4eW7F1gbtY1tazWg14O) | [Acqua Fredda](https://open.spotify.com/album/4AU5GCrPCn9DOyqS5XD36m) | 2:39 | 2026-05-21 |  |
 | [Acqua salata](https://open.spotify.com/track/0OghnnKcBKwlKlGdNVhbXS) | [chiello](https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h) | [Acqua salata](https://open.spotify.com/album/08yGuN1G7NZ2go5RTHbycv) | 3:49 | 2022-10-10 | 2023-10-27 |
 | [Acqua Salata](https://open.spotify.com/track/4FgLocnzkfcDbEjKU9Q2ts) | [chiello](https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h) | [Acqua Salata](https://open.spotify.com/album/3wpFDAZw49DchQMUWfi0iY) | 3:52 | 2025-07-11 |  |
 | [ALESSIA](https://open.spotify.com/track/2wfjLU8g13JsfNEj7jfrCz) | [Sally Cruz](https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc), [Mike Defunto](https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx) | [CONFESSIONE](https://open.spotify.com/album/0cDiwdOYaCtEc97xbdAxPH) | 2:24 | 2024-01-19 |  |
@@ -33,7 +34,7 @@
 | [APNEA \- MTV Unplugged](https://open.spotify.com/track/3DP8cUzSO9tJx7tGShuS4c) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3) | [TAXI DRIVER \(MTV Unplugged\)](https://open.spotify.com/album/3cZPj6lCLw8aia3nAiNKo8) | 3:25 | 2022-07-28 | 2025-07-12 |
 | [ASPETTANDO IL MIRACOLO](https://open.spotify.com/track/4HRrnbzrZJEXJYYuI1HU2S) | [Jellish](https://open.spotify.com/artist/33D8InnKCbdhCPUls8B4NU), [FREESO](https://open.spotify.com/artist/0oeY7yydJwva0gTUVN5vsI) | [ASPETTANDO IL MIRACOLO](https://open.spotify.com/album/1ENGxtMXehMFKiMtvLnD1Y) | 3:10 | 2023-02-23 | 2023-04-28 |
 | [Atlantico](https://open.spotify.com/track/5iCAVJsoCu15BJSVsUZJ47) | [Nisba](https://open.spotify.com/artist/0rAJoDmXBTVc0FSkEnbnQa) | [Atlantico](https://open.spotify.com/album/6p0QSYcbHPZ26dbKVAGqEb) | 3:16 | 2023-11-24 | 2025-08-08 |
-| [Attacco di Panico](https://open.spotify.com/track/16w3jEiUvbHNYtEajmzh86) | [Lost Kids](https://open.spotify.com/artist/5ly3ec0V7ETrC9fSvOX9G6) | [Attacco di Panico](https://open.spotify.com/album/32S1XPsFLlpWzKXHhfHpli) | 2:25 | 2022-09-29 |  |
+| [Attacco di Panico](https://open.spotify.com/track/16w3jEiUvbHNYtEajmzh86) | [Lost Kids](https://open.spotify.com/artist/5ly3ec0V7ETrC9fSvOX9G6) | [Attacco di Panico](https://open.spotify.com/album/32S1XPsFLlpWzKXHhfHpli) | 2:25 | 2022-09-29 | 2026-05-25 |
 | [au revoir \(feat\. Dreno & Naver\)](https://open.spotify.com/track/5R6CBDrtdq73zYmSs3BgTR) | [Dr\. Wesh](https://open.spotify.com/artist/5qTA5yhqkIYIwFNwdCLFP0), [Naver](https://open.spotify.com/artist/5uAeyLL0e4StdJe6JvhLep), [Dreno](https://open.spotify.com/artist/2fUb7chMl4K5DQ3NwX2GgW) | [au revoir \(feat\. Dreno & Naver\)](https://open.spotify.com/album/1StOOfB2TRMIYzHQaq6kNU) | 2:26 | 2022-12-05 | 2023-03-25 |
 | [Aurora](https://open.spotify.com/track/5yhmgsfH8EhS0mAOIb1n6T) | [Elteep](https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB), [Lil Sanax](https://open.spotify.com/artist/08kfcguo6aDqrugFck6JwI) | [Aurora](https://open.spotify.com/album/43ynx05t8Kyc34nLqcrCB9) | 2:54 | 2022-04-21 | 2025-10-10 |
 | [Autodistruzione](https://open.spotify.com/track/3IE4l7yd9Ez4a0XXjRvQDF) | [AUTOSTIMA](https://open.spotify.com/artist/5kXkrD3qvUVaANqQoPCbae) | [Autodistruzione](https://open.spotify.com/album/3Ul8ixMEyurYLf4y2qMDX1) | 2:34 | 2022-09-08 | 2023-02-01 |

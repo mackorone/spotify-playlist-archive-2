@@ -1,6 +1,6 @@
 {
   "description": "Ritmos c\u00e1lidos y alternativos para relajarte y tirarse bajo el sol \ud83c\udf3a\u2600\ufe0f\ud83c\udf34\ud83c\udfb6 Rels B en portada.",
-  "num_followers": 40420,
+  "num_followers": 40427,
   "original_name": "tropic.alt",
   "owner": {
     "name": "Spotify",
@@ -315,6 +315,22 @@
     {
       "added_at": "2026-05-08 06:00:13",
       "album": {
+        "name": "Pan",
+        "url": "https://open.spotify.com/album/2Z7Q2m7lLYBHJlZWRMENft"
+      },
+      "artists": [
+        {
+          "name": "Chuwi",
+          "url": "https://open.spotify.com/artist/6wF1Cz760dpdbX9RJIDpQW"
+        }
+      ],
+      "duration_ms": 221656,
+      "name": "Tikiri",
+      "url": "https://open.spotify.com/track/3x6mcLgaZNaBGONTG2Ebb1"
+    },
+    {
+      "added_at": "2026-05-08 06:00:13",
+      "album": {
         "name": "PIDA LO QUE QUIERA MAMI - A COLORS SHOW",
         "url": "https://open.spotify.com/album/7Dlm8O7WcrSuY3OKtPE7BK"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 207035,
       "name": "PIDA LO QUE QUIERA MAMI - A COLORS SHOW",
       "url": "https://open.spotify.com/track/0PAqSz4d5lJfAscDDmIxzX"
-    },
-    {
-      "added_at": "2026-05-08 06:00:13",
-      "album": {
-        "name": "Pan",
-        "url": "https://open.spotify.com/album/2Z7Q2m7lLYBHJlZWRMENft"
-      },
-      "artists": [
-        {
-          "name": "Chuwi",
-          "url": "https://open.spotify.com/artist/6wF1Cz760dpdbX9RJIDpQW"
-        }
-      ],
-      "duration_ms": 221656,
-      "name": "Tikiri",
-      "url": "https://open.spotify.com/track/3x6mcLgaZNaBGONTG2Ebb1"
     },
     {
       "added_at": "2026-05-08 06:00:13",
@@ -903,6 +903,42 @@
     {
       "added_at": "2026-05-08 06:00:13",
       "album": {
+        "name": "Gritar",
+        "url": "https://open.spotify.com/album/0yPQu50ZdM0TGGwSa8tHy8"
+      },
+      "artists": [
+        {
+          "name": "Pahua",
+          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Gritar",
+      "url": "https://open.spotify.com/track/5r1JdY6MDonNCHvv8cUS9g"
+    },
+    {
+      "added_at": "2026-05-08 06:00:13",
+      "album": {
+        "name": "En Cantos",
+        "url": "https://open.spotify.com/album/0HzCpuCil6dqEF5SZXJaxl"
+      },
+      "artists": [
+        {
+          "name": "iLe",
+          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 212958,
+      "name": "En Cantos",
+      "url": "https://open.spotify.com/track/6VeRaKlXkQKS2TO2zAn7UJ"
+    },
+    {
+      "added_at": "2026-05-08 06:00:13",
+      "album": {
         "name": "R.D.L.D.",
         "url": "https://open.spotify.com/album/76SWVH2hqd0ZSSn2Z94nU6"
       },
@@ -931,42 +967,6 @@
     {
       "added_at": "2026-05-08 06:00:13",
       "album": {
-        "name": "En Cantos",
-        "url": "https://open.spotify.com/album/0HzCpuCil6dqEF5SZXJaxl"
-      },
-      "artists": [
-        {
-          "name": "iLe",
-          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
-        },
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 212958,
-      "name": "En Cantos",
-      "url": "https://open.spotify.com/track/6VeRaKlXkQKS2TO2zAn7UJ"
-    },
-    {
-      "added_at": "2026-05-08 06:00:13",
-      "album": {
-        "name": "Gritar",
-        "url": "https://open.spotify.com/album/0yPQu50ZdM0TGGwSa8tHy8"
-      },
-      "artists": [
-        {
-          "name": "Pahua",
-          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Gritar",
-      "url": "https://open.spotify.com/track/5r1JdY6MDonNCHvv8cUS9g"
-    },
-    {
-      "added_at": "2026-05-08 06:00:13",
-      "album": {
         "name": "Harta",
         "url": "https://open.spotify.com/album/7xxEXEwifY6NE0sEmIybSg"
       },
@@ -979,22 +979,6 @@
       "duration_ms": 185083,
       "name": "Harta",
       "url": "https://open.spotify.com/track/1J4xv5V5dzkA8UGtXSbCNU"
-    },
-    {
-      "added_at": "2026-05-08 06:00:13",
-      "album": {
-        "name": "Isla Disco",
-        "url": "https://open.spotify.com/album/3MGE8NyRqx5lbGIWEAGF6K"
-      },
-      "artists": [
-        {
-          "name": "Los W\u00e1lters",
-          "url": "https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY"
-        }
-      ],
-      "duration_ms": 214363,
-      "name": "Mayag\u00fcez",
-      "url": "https://open.spotify.com/track/63UyxCwQAk7Uzpiw6nZxtl"
     },
     {
       "added_at": "2026-05-08 06:00:13",
@@ -1015,6 +999,22 @@
       "duration_ms": 177099,
       "name": "Poco a Poco - Remix",
       "url": "https://open.spotify.com/track/08qHgtCajTGcNWFbn0HQXT"
+    },
+    {
+      "added_at": "2026-05-08 06:00:13",
+      "album": {
+        "name": "Isla Disco",
+        "url": "https://open.spotify.com/album/3MGE8NyRqx5lbGIWEAGF6K"
+      },
+      "artists": [
+        {
+          "name": "Los W\u00e1lters",
+          "url": "https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY"
+        }
+      ],
+      "duration_ms": 214363,
+      "name": "Mayag\u00fcez",
+      "url": "https://open.spotify.com/track/63UyxCwQAk7Uzpiw6nZxtl"
     },
     {
       "added_at": "2026-05-08 06:00:13",
@@ -1167,26 +1167,6 @@
     {
       "added_at": "2026-05-08 06:00:13",
       "album": {
-        "name": "LLUVIA",
-        "url": "https://open.spotify.com/album/0FtB0rq1WIiKjr8eBDoxwy"
-      },
-      "artists": [
-        {
-          "name": "GRTSCH",
-          "url": "https://open.spotify.com/artist/0UuPYvwZmo6lXXvi1S5mLK"
-        },
-        {
-          "name": "Karen y Los Remedios",
-          "url": "https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv"
-        }
-      ],
-      "duration_ms": 221033,
-      "name": "LLUVIA",
-      "url": "https://open.spotify.com/track/6Rd4gsyAv0VmhzK89dU5Yj"
-    },
-    {
-      "added_at": "2026-05-08 06:00:13",
-      "album": {
         "name": "Flores",
         "url": "https://open.spotify.com/album/06zb5wzVXKeWRFQaI6XaV4"
       },
@@ -1199,22 +1179,6 @@
       "duration_ms": 198048,
       "name": "Flores",
       "url": "https://open.spotify.com/track/1XB0OXfVYNloMACdpwKckR"
-    },
-    {
-      "added_at": "2026-05-08 06:00:13",
-      "album": {
-        "name": "Nacarile",
-        "url": "https://open.spotify.com/album/0pRdkDSMZds1G61wXr2U6i"
-      },
-      "artists": [
-        {
-          "name": "iLe",
-          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
-        }
-      ],
-      "duration_ms": 174080,
-      "name": "(Escap\u00e1ndome) de m\u00ed",
-      "url": "https://open.spotify.com/track/3FuzX5N7VSnhSj1x3hQYje"
     },
     {
       "added_at": "2026-05-08 06:00:13",
@@ -1235,6 +1199,42 @@
       "duration_ms": 220480,
       "name": "El Muchacho De Los Ojos Tristes",
       "url": "https://open.spotify.com/track/7KiiGywtmd0l1fQTWfN5yM"
+    },
+    {
+      "added_at": "2026-05-08 06:00:13",
+      "album": {
+        "name": "LLUVIA",
+        "url": "https://open.spotify.com/album/0FtB0rq1WIiKjr8eBDoxwy"
+      },
+      "artists": [
+        {
+          "name": "GRTSCH",
+          "url": "https://open.spotify.com/artist/0UuPYvwZmo6lXXvi1S5mLK"
+        },
+        {
+          "name": "Karen y Los Remedios",
+          "url": "https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv"
+        }
+      ],
+      "duration_ms": 221033,
+      "name": "LLUVIA",
+      "url": "https://open.spotify.com/track/6Rd4gsyAv0VmhzK89dU5Yj"
+    },
+    {
+      "added_at": "2026-05-08 06:00:13",
+      "album": {
+        "name": "Nacarile",
+        "url": "https://open.spotify.com/album/0pRdkDSMZds1G61wXr2U6i"
+      },
+      "artists": [
+        {
+          "name": "iLe",
+          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
+        }
+      ],
+      "duration_ms": 174080,
+      "name": "(Escap\u00e1ndome) de m\u00ed",
+      "url": "https://open.spotify.com/track/3FuzX5N7VSnhSj1x3hQYje"
     },
     {
       "added_at": "2026-05-08 06:00:13",
@@ -1407,26 +1407,22 @@
     {
       "added_at": "2026-05-08 06:00:13",
       "album": {
-        "name": "Tormenta Solar",
-        "url": "https://open.spotify.com/album/30lTmvLqiQOniFpRN5KGjK"
+        "name": "Palo Santo",
+        "url": "https://open.spotify.com/album/5BMEsXWO3zjkKHnVfCC7GO"
       },
       "artists": [
         {
-          "name": "DUSU",
-          "url": "https://open.spotify.com/artist/2C6vqUrtXufvoUk5iwJ2KX"
+          "name": "Simon Grossmann",
+          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
         },
         {
-          "name": "Terror/Cactus",
-          "url": "https://open.spotify.com/artist/6zDCcrKdLCpKPtgFcD26rq"
-        },
-        {
-          "name": "MJ Baez",
-          "url": "https://open.spotify.com/artist/0Pror4vlY4kxMAStXy9faN"
+          "name": "Pj Sin Suela",
+          "url": "https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df"
         }
       ],
-      "duration_ms": 293739,
-      "name": "Tormenta Solar",
-      "url": "https://open.spotify.com/track/16pt6SWkfn0kPlL3cSHSaB"
+      "duration_ms": 184000,
+      "name": "Palo Santo",
+      "url": "https://open.spotify.com/track/402e0mc3vfmrSZHsh0TlN2"
     }
   ],
   "unique_name": "tropic.alt",

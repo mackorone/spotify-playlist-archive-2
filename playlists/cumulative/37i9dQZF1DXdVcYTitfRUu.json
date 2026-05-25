@@ -1188,7 +1188,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-25",
       "duration_ms": 258665,
       "name": "Dial Your Number",
       "url": "https://open.spotify.com/track/1j9WEdAk0W4n7kPgir3pyq"
@@ -3436,6 +3436,24 @@
       "duration_ms": 260668,
       "name": "Nights Into Days (Prod. by Naul)",
       "url": "https://open.spotify.com/track/7yMSnQEier8Kp4iQuIvt0t"
+    },
+    {
+      "album": {
+        "name": "Bloom Again",
+        "url": "https://open.spotify.com/album/2Ki6NwC0tAoWpIQIW5at94"
+      },
+      "artists": [
+        {
+          "name": "Roy Kim",
+          "url": "https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245000,
+      "name": "No More Encore",
+      "url": "https://open.spotify.com/track/3W2kHl0GltIhAxO1zNqOxY"
     },
     {
       "album": {

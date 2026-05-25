@@ -1,6 +1,6 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Nenny",
-  "num_followers": 54775,
+  "num_followers": 54781,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
@@ -583,6 +583,22 @@
     {
       "added_at": "2026-05-21 23:00:23",
       "album": {
+        "name": "Agradecido",
+        "url": "https://open.spotify.com/album/4xqDWbbExMyT3F6Z8hz7wa"
+      },
+      "artists": [
+        {
+          "name": "Plutonio",
+          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
+        }
+      ],
+      "duration_ms": 294368,
+      "name": "Agradecido",
+      "url": "https://open.spotify.com/track/2qeTrAkcS5cFP8ptFix18T"
+    },
+    {
+      "added_at": "2026-05-21 23:00:23",
+      "album": {
         "name": "SUPER",
         "url": "https://open.spotify.com/album/4eTP8dIvGNdgYAf0D1ixNJ"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 222315,
       "name": "SUPER",
       "url": "https://open.spotify.com/track/7G4Icmrbwe5jQTVMOQ5NbV"
-    },
-    {
-      "added_at": "2026-05-21 23:00:23",
-      "album": {
-        "name": "Agradecido",
-        "url": "https://open.spotify.com/album/4xqDWbbExMyT3F6Z8hz7wa"
-      },
-      "artists": [
-        {
-          "name": "Plutonio",
-          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
-        }
-      ],
-      "duration_ms": 294368,
-      "name": "Agradecido",
-      "url": "https://open.spotify.com/track/2qeTrAkcS5cFP8ptFix18T"
     },
     {
       "added_at": "2026-05-21 23:00:23",
@@ -691,6 +691,26 @@
     {
       "added_at": "2026-05-21 23:00:23",
       "album": {
+        "name": "Ondas Do Mar",
+        "url": "https://open.spotify.com/album/0duqET8wyzZEZSMNua9qVe"
+      },
+      "artists": [
+        {
+          "name": "Anna Joyce",
+          "url": "https://open.spotify.com/artist/0TFtGB2jsMA97sNDTLJ8QX"
+        },
+        {
+          "name": "Ivandro",
+          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
+        }
+      ],
+      "duration_ms": 224017,
+      "name": "Ondas Do Mar",
+      "url": "https://open.spotify.com/track/1qtVkgHcV2xFsi5kWoiCy8"
+    },
+    {
+      "added_at": "2026-05-21 23:00:23",
+      "album": {
         "name": "I'm Sorry",
         "url": "https://open.spotify.com/album/6xbIjf6sv5M4I9GT0NuEcj"
       },
@@ -711,26 +731,6 @@
       "duration_ms": 202280,
       "name": "I'm Sorry",
       "url": "https://open.spotify.com/track/3aml52yDe6ff32XOgZQ0Cb"
-    },
-    {
-      "added_at": "2026-05-21 23:00:23",
-      "album": {
-        "name": "Ondas Do Mar",
-        "url": "https://open.spotify.com/album/0duqET8wyzZEZSMNua9qVe"
-      },
-      "artists": [
-        {
-          "name": "Anna Joyce",
-          "url": "https://open.spotify.com/artist/0TFtGB2jsMA97sNDTLJ8QX"
-        },
-        {
-          "name": "Ivandro",
-          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
-        }
-      ],
-      "duration_ms": 224017,
-      "name": "Ondas Do Mar",
-      "url": "https://open.spotify.com/track/1qtVkgHcV2xFsi5kWoiCy8"
     },
     {
       "added_at": "2026-05-21 23:00:23",
@@ -943,6 +943,22 @@
     {
       "added_at": "2026-05-21 23:00:23",
       "album": {
+        "name": "Sometimes",
+        "url": "https://open.spotify.com/album/5KtyAVXpW4uqD2TG02NTA4"
+      },
+      "artists": [
+        {
+          "name": "Julinho Ksd",
+          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/5ZU1TW5KbwOb7r0ZDILy7c"
+    },
+    {
+      "added_at": "2026-05-21 23:00:23",
+      "album": {
         "name": "FIM DO NADA DELUXE",
         "url": "https://open.spotify.com/album/4IV29ZB0IT2qKAnbFze2KO"
       },
@@ -967,22 +983,6 @@
     {
       "added_at": "2026-05-21 23:00:23",
       "album": {
-        "name": "Sometimes",
-        "url": "https://open.spotify.com/album/5KtyAVXpW4uqD2TG02NTA4"
-      },
-      "artists": [
-        {
-          "name": "Julinho Ksd",
-          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Sometimes",
-      "url": "https://open.spotify.com/track/5ZU1TW5KbwOb7r0ZDILy7c"
-    },
-    {
-      "added_at": "2026-05-21 23:00:23",
-      "album": {
         "name": "Ninfoman\u00edaca",
         "url": "https://open.spotify.com/album/7zrFlnyvrKnh8yx0xQvhEP"
       },
@@ -1003,26 +1003,6 @@
       "duration_ms": 171000,
       "name": "Ninfoman\u00edaca",
       "url": "https://open.spotify.com/track/6HJCS09anJ7CAZhinCxxuB"
-    },
-    {
-      "added_at": "2026-05-21 23:00:23",
-      "album": {
-        "name": "ROSAS",
-        "url": "https://open.spotify.com/album/2R7iGYEwaSDTW68ucY9W4E"
-      },
-      "artists": [
-        {
-          "name": "Kappa Jotta",
-          "url": "https://open.spotify.com/artist/2MREhFiavCOZXs0thPLuWu"
-        },
-        {
-          "name": "MUN",
-          "url": "https://open.spotify.com/artist/0XWmIDUMxka9p2aayQ9MOr"
-        }
-      ],
-      "duration_ms": 177272,
-      "name": "ROSAS",
-      "url": "https://open.spotify.com/track/0elz4WC9ZtAOzqP4fgt8T5"
     },
     {
       "added_at": "2026-05-21 23:00:23",
@@ -1063,6 +1043,26 @@
     {
       "added_at": "2026-05-21 23:00:23",
       "album": {
+        "name": "ROSAS",
+        "url": "https://open.spotify.com/album/2R7iGYEwaSDTW68ucY9W4E"
+      },
+      "artists": [
+        {
+          "name": "Kappa Jotta",
+          "url": "https://open.spotify.com/artist/2MREhFiavCOZXs0thPLuWu"
+        },
+        {
+          "name": "MUN",
+          "url": "https://open.spotify.com/artist/0XWmIDUMxka9p2aayQ9MOr"
+        }
+      ],
+      "duration_ms": 177272,
+      "name": "ROSAS",
+      "url": "https://open.spotify.com/track/0elz4WC9ZtAOzqP4fgt8T5"
+    },
+    {
+      "added_at": "2026-05-21 23:00:23",
+      "album": {
         "name": "Perigo",
         "url": "https://open.spotify.com/album/7h1u6IDHNug7uk2Nj5GCJH"
       },
@@ -1083,18 +1083,26 @@
     {
       "added_at": "2026-05-21 23:00:23",
       "album": {
-        "name": "Bon Vivan",
-        "url": "https://open.spotify.com/album/7J2ZbDOKBqeBGwtSKLcT7p"
+        "name": "Animal",
+        "url": "https://open.spotify.com/album/5PlBBuCOH1dJfUMGN6eTIs"
       },
       "artists": [
         {
-          "name": "Lhast",
-          "url": "https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw"
+          "name": "Soarito",
+          "url": "https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv"
+        },
+        {
+          "name": "Prod\u00edgio",
+          "url": "https://open.spotify.com/artist/0Zsw8N0usCdHtEtFtwZKg5"
+        },
+        {
+          "name": "Shalom Beatz",
+          "url": "https://open.spotify.com/artist/6u7nHw6ucOBFUxpTr5LmWI"
         }
       ],
-      "duration_ms": 137910,
-      "name": "Bon Vivan",
-      "url": "https://open.spotify.com/track/4AJCfH6VKefdRWsEyrhufE"
+      "duration_ms": 198409,
+      "name": "Animal",
+      "url": "https://open.spotify.com/track/6L1SFlHI9H7cH4bTcBtvNw"
     },
     {
       "added_at": "2026-05-21 23:00:23",
@@ -1123,26 +1131,18 @@
     {
       "added_at": "2026-05-21 23:00:23",
       "album": {
-        "name": "Animal",
-        "url": "https://open.spotify.com/album/5PlBBuCOH1dJfUMGN6eTIs"
+        "name": "Bon Vivan",
+        "url": "https://open.spotify.com/album/7J2ZbDOKBqeBGwtSKLcT7p"
       },
       "artists": [
         {
-          "name": "Soarito",
-          "url": "https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv"
-        },
-        {
-          "name": "Prod\u00edgio",
-          "url": "https://open.spotify.com/artist/0Zsw8N0usCdHtEtFtwZKg5"
-        },
-        {
-          "name": "Shalom Beatz",
-          "url": "https://open.spotify.com/artist/6u7nHw6ucOBFUxpTr5LmWI"
+          "name": "Lhast",
+          "url": "https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw"
         }
       ],
-      "duration_ms": 198409,
-      "name": "Animal",
-      "url": "https://open.spotify.com/track/6L1SFlHI9H7cH4bTcBtvNw"
+      "duration_ms": 137910,
+      "name": "Bon Vivan",
+      "url": "https://open.spotify.com/track/4AJCfH6VKefdRWsEyrhufE"
     },
     {
       "added_at": "2026-05-21 23:00:23",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2026-05-21 23:00:23",
       "album": {
+        "name": "Sei-te de Cor",
+        "url": "https://open.spotify.com/album/0EfndHIa8rIjSWDoJtoGcg"
+      },
+      "artists": [
+        {
+          "name": "Arag\u00e3o",
+          "url": "https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4"
+        }
+      ],
+      "duration_ms": 219692,
+      "name": "Sei-te de Cor",
+      "url": "https://open.spotify.com/track/2ZIWYtx82CrNATOhUeAJpv"
+    },
+    {
+      "added_at": "2026-05-21 23:00:23",
+      "album": {
         "name": "Violetta",
         "url": "https://open.spotify.com/album/2bxwGAO6LDVzSjPoEggQ58"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 214065,
       "name": "FIM DA NOITE",
       "url": "https://open.spotify.com/track/31pd4crQES4hOaWHGIpzXI"
-    },
-    {
-      "added_at": "2026-05-21 23:00:23",
-      "album": {
-        "name": "Sei-te de Cor",
-        "url": "https://open.spotify.com/album/0EfndHIa8rIjSWDoJtoGcg"
-      },
-      "artists": [
-        {
-          "name": "Arag\u00e3o",
-          "url": "https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4"
-        }
-      ],
-      "duration_ms": 219692,
-      "name": "Sei-te de Cor",
-      "url": "https://open.spotify.com/track/2ZIWYtx82CrNATOhUeAJpv"
     },
     {
       "added_at": "2026-05-21 23:00:23",

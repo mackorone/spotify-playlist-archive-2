@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RrjZR06viH.md) - [plain]
 
 > 🌱🌸🌾🌼
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,345 likes - 84 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,332 likes - 84 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,9 +21,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RrjZR06viH.md) - [plain]
 | 11 | [Varmt](https://open.spotify.com/track/2inXtsjX3V451FOIYUL6UQ) | [Tigergutt101](https://open.spotify.com/artist/1tjaYa0dBPYGvEHOVUMX5K) | [Varmt](https://open.spotify.com/album/48N7GYYLw9yU3PwdJeMVUW) | 2:07 |
 | 12 | [Smørblomst](https://open.spotify.com/track/3cXcQOss7BOAAWha842Eh6) | [GOLF](https://open.spotify.com/artist/1Kj6Km5IuLGKt2cxuhSgLm) | [Drømmen jeg vil selge](https://open.spotify.com/album/5qVnxEMGTPKzskjKY7gTNv) | 3:06 |
 | 13 | [Onenon](https://open.spotify.com/track/7Aw5qQy9zeg9ZGtsOQAcQA) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [People of the Moon](https://open.spotify.com/album/7b2loBX3KU66zmHk4UI30K) | 4:04 |
-| 14 | [What I Want \(feat\. Tate McRae\)](https://open.spotify.com/track/04emojnbYkrRmv5qtJcgVP) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [I’m The Problem](https://open.spotify.com/album/5IZ8sY5FjtL9hloXpv0XbD) | 3:04 |
+| 14 | [Material Lover](https://open.spotify.com/track/2NT5EOtSEOrjfisvwmSv5S) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [The Devil Wears Prada 2 \(Music From The Motion Picture\)](https://open.spotify.com/album/5FKnRUB5lt7z5ac1lmu3BE) | 2:58 |
 | 15 | [Happy Now](https://open.spotify.com/track/0XRf5KvljGef9eVvuT14yx) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Happy Now](https://open.spotify.com/album/2QTQJB2vF5vtpHoWgzQwQP) | 2:42 |
-| 16 | [Material Lover](https://open.spotify.com/track/2NT5EOtSEOrjfisvwmSv5S) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [The Devil Wears Prada 2 \(Music From The Motion Picture\)](https://open.spotify.com/album/5FKnRUB5lt7z5ac1lmu3BE) | 2:58 |
+| 16 | [What I Want \(feat\. Tate McRae\)](https://open.spotify.com/track/04emojnbYkrRmv5qtJcgVP) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [I’m The Problem](https://open.spotify.com/album/5IZ8sY5FjtL9hloXpv0XbD) | 3:04 |
 | 17 | [Koko](https://open.spotify.com/track/5KcDHgEfD0uLZufIM5i11Z) | [Nils Bech](https://open.spotify.com/artist/57QhXfAsLsIRtgC1VfHu1F) | [Koko](https://open.spotify.com/album/7tpyddbQDi2ScOdJ5crJmR) | 2:58 |
 | 18 | [The Fate of Ophelia](https://open.spotify.com/track/31TXxq8gfgYyrYClnYY48m) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/1W57oNaAkGObOQKBTxg4e9) | 3:46 |
 | 19 | [Heimakjær](https://open.spotify.com/track/258occ3LpS8xVXHxbFMMIX) | [Tobias Sten](https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz) | [Heimakjær](https://open.spotify.com/album/4lo5Iyfly4dZwraeiSAWfV) | 4:45 |
@@ -56,9 +56,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RrjZR06viH.md) - [plain]
 | 46 | [Heavy Hearts](https://open.spotify.com/track/6nIJe0uujNETpZWWMlDazL) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Nobody Lives Here](https://open.spotify.com/album/779IZOhupymkjX6dzygMl9) | 2:57 |
 | 47 | [Kite](https://open.spotify.com/track/0irVirJrUjHFk3ywECVsGT) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Kite](https://open.spotify.com/album/3g4q3F07QmUyPBzWlMXhq4) | 2:46 |
 | 48 | [American Wedding](https://open.spotify.com/track/0hGpO1KkCV1DKmIp0Nt942) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [American Wedding](https://open.spotify.com/album/4zczMW68cS6edG4PEwrw8G) | 3:11 |
-| 49 | [Automatic](https://open.spotify.com/track/0PEcIO2gpBApHbsVSlRaPh) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Automatic](https://open.spotify.com/album/43UHKjoE3zZjtiD9nmIt0A) | 2:57 |
+| 49 | [10 kniver i hjertet](https://open.spotify.com/track/5aFGctSPjWXPiFX5HupQuS) | [Madeléne](https://open.spotify.com/artist/7HbJecOAhTcyj5x9P95kQz) | [10 kniver i hjertet](https://open.spotify.com/album/1wMpMqsuPkVm4xfwM7y8JJ) | 2:52 |
 | 50 | [SKJORTE & SLIPS](https://open.spotify.com/track/0XX70hZPPFTnPQRL7NlWYO) | [Ramón](https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL) | [SKJORTE & SLIPS](https://open.spotify.com/album/2EmNWkiQvPfcyXZqbVsNnM) | 3:02 |
-| 51 | [10 kniver i hjertet](https://open.spotify.com/track/5aFGctSPjWXPiFX5HupQuS) | [Madeléne](https://open.spotify.com/artist/7HbJecOAhTcyj5x9P95kQz) | [10 kniver i hjertet](https://open.spotify.com/album/1wMpMqsuPkVm4xfwM7y8JJ) | 2:52 |
+| 51 | [Automatic](https://open.spotify.com/track/0PEcIO2gpBApHbsVSlRaPh) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Automatic](https://open.spotify.com/album/43UHKjoE3zZjtiD9nmIt0A) | 2:57 |
 | 52 | [Det går bra](https://open.spotify.com/track/1a7vBJg7GDMy5ClHexkfvv) | [Julie Bergan](https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv), [Ruben](https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM) | [Det går bra](https://open.spotify.com/album/3QIyVTcQmGRyUPjzvw6PwF) | 3:17 |
 | 53 | [Siste første dans](https://open.spotify.com/track/7EnHeRdXqIAMGDL7sT8Ba9) | [Chris Holsten](https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF) | [Bedre dager](https://open.spotify.com/album/5HHcnHBqXIUVRMnhPiBco4) | 3:40 |
 | 54 | [Don't Let Me Go](https://open.spotify.com/track/6syQOKJfd5BR6z5YAGzQaa) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Don't Let Me Go](https://open.spotify.com/album/5ipsC4SrBYv87aO75cHV7o) | 4:52 |
@@ -75,12 +75,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RrjZR06viH.md) - [plain]
 | 65 | [Hjemme](https://open.spotify.com/track/6FPKJnJMghrBQUQuSY5nnQ) | [Gabrielle](https://open.spotify.com/artist/4OovmAu23KrDlDQI2UbneL) | [Hjemme](https://open.spotify.com/album/5EVeTeHyY3IvVXYmz29rZr) | 3:56 |
 | 66 | [Venter du](https://open.spotify.com/track/4MWldeK06AisUkSYARj8YD) | [Randi Oline](https://open.spotify.com/artist/5O7vw7DOXDVSqVWWc8FpYV), [Oscar Zia](https://open.spotify.com/artist/42TbHQxJ8d94CD93vAoDgl) | [Venter du](https://open.spotify.com/album/33rnPbG5uBGM1klUO46Arc) | 2:37 |
 | 67 | [jeg holder pusten til du drar](https://open.spotify.com/track/17p6Y3tYZpnESAcFIMDPOJ) | [Ramón](https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL) | [jeg holder pusten til du drar](https://open.spotify.com/album/3o43FGM9DQK2wqq27KBUxx) | 3:05 |
-| 68 | [Delt i to](https://open.spotify.com/track/0kL2WXiMfgkDZFYwyRjvxZ) | [Ingrid Vårvik](https://open.spotify.com/artist/0EZzUcdUUvHZbw77Cmy5uU) | [Delt i to](https://open.spotify.com/album/1HZ2QKz0QAnDM7O6nk1cSN) | 3:15 |
-| 69 | [Volare](https://open.spotify.com/track/2g11HhWmh6h2EgnMK3WWSu) | [Delara](https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg) | [Volare](https://open.spotify.com/album/0pjIyeItcmwcyGjyYElzEg) | 2:38 |
+| 68 | [Volare](https://open.spotify.com/track/2g11HhWmh6h2EgnMK3WWSu) | [Delara](https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg) | [Volare](https://open.spotify.com/album/0pjIyeItcmwcyGjyYElzEg) | 2:38 |
+| 69 | [Delt i to](https://open.spotify.com/track/0kL2WXiMfgkDZFYwyRjvxZ) | [Ingrid Vårvik](https://open.spotify.com/artist/0EZzUcdUUvHZbw77Cmy5uU) | [Delt i to](https://open.spotify.com/album/1HZ2QKz0QAnDM7O6nk1cSN) | 3:15 |
 | 70 | [Never Be Friends](https://open.spotify.com/track/3gu4FgP94Z453ng3eM0IOk) | [Emelie Trahan](https://open.spotify.com/artist/26ZYSsr8RPofalTXPh4yyq) | [Never Be Friends](https://open.spotify.com/album/25xUgydy4RfI3TQ3q9P8xD) | 2:59 |
 | 71 | [Her vil e vær](https://open.spotify.com/track/1kuBj9IjKtP64mKrHIuBYX) | [Synne Vo](https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9) | [Her vil e vær](https://open.spotify.com/album/3ksUT0ilC4HVItX51CEHvN) | 2:25 |
-| 72 | [Rosary](https://open.spotify.com/track/1UT5wJDwXkSeMT0zsW9J3y) | [Kyle Alessandro](https://open.spotify.com/artist/4KfEG606HYb1TLQhq7NbDl) | [Rosary](https://open.spotify.com/album/1psqIPAeNCLC2w7oY7VL0W) | 2:22 |
-| 73 | [Milk and Honey](https://open.spotify.com/track/4CYhRXlYS1PMIvqF2XCDjK) | [Ruben](https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM) | [Milk and Honey](https://open.spotify.com/album/7HCxPekCpgu7wlhahLmxFf) | 3:30 |
+| 72 | [Milk and Honey](https://open.spotify.com/track/4CYhRXlYS1PMIvqF2XCDjK) | [Ruben](https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM) | [Milk and Honey](https://open.spotify.com/album/7HCxPekCpgu7wlhahLmxFf) | 3:30 |
+| 73 | [Rosary](https://open.spotify.com/track/1UT5wJDwXkSeMT0zsW9J3y) | [Kyle Alessandro](https://open.spotify.com/artist/4KfEG606HYb1TLQhq7NbDl) | [Rosary](https://open.spotify.com/album/1psqIPAeNCLC2w7oY7VL0W) | 2:22 |
 | 74 | [Oppe på månen](https://open.spotify.com/track/4PtFehKH1ric4In2Mc5Asg) | [Chris Holsten](https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF) | [Oppe på månen](https://open.spotify.com/album/2D2Q25zXzCo9uu8OydjVyl) | 3:35 |
 | 75 | [Lykke til pappa](https://open.spotify.com/track/2i8HqCbclrZUaN1PexNjy9) | [Musti](https://open.spotify.com/artist/5bgVMXG2OsJuKvkD9VMpZ6), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Lykke til pappa](https://open.spotify.com/album/1C7ut96iQoRm9adHiyukPU) | 2:39 |
 | 76 | [Clean](https://open.spotify.com/track/0tBXqaYjAqaQp55uRdhgAt) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Love & Hyperbole \(Deluxe\)](https://open.spotify.com/album/6rBEtMQZsYPe9xtPpP9QdC) | 3:12 |
@@ -91,6 +91,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RrjZR06viH.md) - [plain]
 | 81 | [Gjesten på festen](https://open.spotify.com/track/4SzHLgDM3mRV8WAuZXbBRs) | [Synne Vo](https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9) | [Kanskje det går te helvete](https://open.spotify.com/album/0PEq6f5FdryrgjnQaZxJt8) | 2:26 |
 | 82 | [Alchemy \(Living Is Not For The Heart\)](https://open.spotify.com/track/3kkoHaiT9qQkEyMBNkdDxQ) | [Iris Caltwait](https://open.spotify.com/artist/5jOiYJPp5e84cnK2KO1aNz) | [Again, for the first time](https://open.spotify.com/album/395n7Rh9sxYRP7n9ylsNVd) | 3:39 |
 | 83 | [Neste Stasjon](https://open.spotify.com/track/77PiddX78Zwf0RThBBmytY) | [Emelie Hollow](https://open.spotify.com/artist/61pvU6ZLOF3bl0IOtbmME7) | [Neste Stasjon](https://open.spotify.com/album/2pgbVdXdl68canQtk1rLRw) | 2:34 |
-| 84 | [Never have I ever](https://open.spotify.com/track/0IcgxTESfN2LKZZC7l6Mw4) | [Marit Larsen](https://open.spotify.com/artist/0SGEunj6EBwdWMNCdWSrPg), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Never have I ever](https://open.spotify.com/album/4PjHE0kHGMXGfzqHUnevHg) | 3:27 |
+| 84 | [Late Bloomer](https://open.spotify.com/track/2O5HmTtJOZaRQ6TMOKf4Gg) | [Randi Oline](https://open.spotify.com/artist/5O7vw7DOXDVSqVWWc8FpYV) | [Jeg vil ikke stå i ro lenger](https://open.spotify.com/album/5tOX3r3JMbo4tCYOuExN8A) | 2:53 |
 
 Snapshot ID: `AAAAAPESJHiCfAEmtdcrp7ju1QRKV8zw`

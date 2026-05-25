@@ -1,6 +1,6 @@
 {
   "description": "Las grandes canciones escritas por El Buki.",
-  "num_followers": 304504,
+  "num_followers": 304607,
   "original_name": "Cancionero Marco Antonio Solis",
   "owner": {
     "name": "Spotify",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2026-03-10 01:21:38",
       "album": {
-        "name": "Y Yo Sin Ti",
-        "url": "https://open.spotify.com/album/3jCQKwXBTIMy13TfEAxKhl"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 198133,
-      "name": "Y Yo Sin Ti",
-      "url": "https://open.spotify.com/track/33mNMJ2UUE9uLPMNabxgGq"
-    },
-    {
-      "added_at": "2026-03-10 01:21:38",
-      "album": {
         "name": "Todos Somos MAS",
         "url": "https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 258493,
       "name": "Y Ahora Te Vas",
       "url": "https://open.spotify.com/track/7ddotqHpNB4DEEyqyqADGv"
+    },
+    {
+      "added_at": "2026-03-10 01:21:38",
+      "album": {
+        "name": "Y Yo Sin Ti",
+        "url": "https://open.spotify.com/album/3jCQKwXBTIMy13TfEAxKhl"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 198133,
+      "name": "Y Yo Sin Ti",
+      "url": "https://open.spotify.com/track/33mNMJ2UUE9uLPMNabxgGq"
     },
     {
       "added_at": "2026-03-10 01:21:38",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2026-03-10 01:21:38",
       "album": {
-        "name": "Pura Pieza De Mi Gusto, Vol. 2",
-        "url": "https://open.spotify.com/album/3a2YWdEmXOfQdLsbuNU98W"
-      },
-      "artists": [
-        {
-          "name": "Cornelio Vega y su Dinastia",
-          "url": "https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d"
-        }
-      ],
-      "duration_ms": 207342,
-      "name": "Presiento Que Voy A Llorar",
-      "url": "https://open.spotify.com/track/1DWjy0daLwn2RT94kodyty"
-    },
-    {
-      "added_at": "2026-03-10 01:21:38",
-      "album": {
         "name": "Nuestras Favoritas De Marco Antonio Solis",
         "url": "https://open.spotify.com/album/2zjpWBGbBXHNervP77MSOn"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 234920,
       "name": "Extra\u00f1\u00e1ndote",
       "url": "https://open.spotify.com/track/3r0FRf0nVEpKA3OcMVjZiO"
+    },
+    {
+      "added_at": "2026-03-10 01:21:38",
+      "album": {
+        "name": "Pura Pieza De Mi Gusto, Vol. 2",
+        "url": "https://open.spotify.com/album/3a2YWdEmXOfQdLsbuNU98W"
+      },
+      "artists": [
+        {
+          "name": "Cornelio Vega y su Dinastia",
+          "url": "https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d"
+        }
+      ],
+      "duration_ms": 207342,
+      "name": "Presiento Que Voy A Llorar",
+      "url": "https://open.spotify.com/track/1DWjy0daLwn2RT94kodyty"
     },
     {
       "added_at": "2026-03-10 01:21:38",
@@ -1556,9 +1556,9 @@
           "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
         }
       ],
-      "duration_ms": 162560,
-      "name": "Morenita",
-      "url": "https://open.spotify.com/track/5zfHspXrhASrnhkEOpxvAs"
+      "duration_ms": 183333,
+      "name": "Si Ya No Te Vuelvo A Ver",
+      "url": "https://open.spotify.com/track/0hF3fxYz8y2ylDQ66a3PuV"
     },
     {
       "added_at": "2026-03-10 01:21:38",
@@ -1640,9 +1640,9 @@
           "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
         }
       ],
-      "duration_ms": 183333,
-      "name": "Si Ya No Te Vuelvo A Ver",
-      "url": "https://open.spotify.com/track/0hF3fxYz8y2ylDQ66a3PuV"
+      "duration_ms": 162560,
+      "name": "Morenita",
+      "url": "https://open.spotify.com/track/5zfHspXrhASrnhkEOpxvAs"
     },
     {
       "added_at": "2026-03-10 01:21:38",
@@ -2095,8 +2095,8 @@
     {
       "added_at": "2026-03-10 01:21:38",
       "album": {
-        "name": "M\u00e1s De Marco Antonio Sol\u00eds",
-        "url": "https://open.spotify.com/album/3SmxMoLAhe29pR4LNsVkcA"
+        "name": "En Pleno Vuelo",
+        "url": "https://open.spotify.com/album/5fWaew2IpKu89VnhyCFTV9"
       },
       "artists": [
         {
@@ -2104,9 +2104,9 @@
           "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
         }
       ],
-      "duration_ms": 271640,
-      "name": "Cuando Te Acuerdes De Mi",
-      "url": "https://open.spotify.com/track/45eKmLp6uFaMQAY2oHihIt"
+      "duration_ms": 259773,
+      "name": "As\u00ed Como Te Conoc\u00ed",
+      "url": "https://open.spotify.com/track/6xQGFNUwaPUsdIfmmzzRcr"
     }
   ],
   "unique_name": "Cancionero Marco Antonio Solis",

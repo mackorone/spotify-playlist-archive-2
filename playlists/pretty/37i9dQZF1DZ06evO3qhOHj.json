@@ -1,12 +1,12 @@
 {
   "description": "This is Mr. Big. The essential tracks, all in one playlist.",
-  "num_followers": 30825,
+  "num_followers": 30829,
   "original_name": "This Is Mr. Big",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ag+cgAAAAACYPNxmXjLtXyn3k437GL/F",
+  "snapshot_id": "ahDuAAAAAADV7IT7rKpo1e3a0sJIPitI",
   "tracks": [
     {
       "added_at": null,
@@ -747,8 +747,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Actual Size",
-        "url": "https://open.spotify.com/album/3l02aZ9l93Pyoq2nXkfQPq"
+        "name": "...The Stories We Could Tell",
+        "url": "https://open.spotify.com/album/7n9ucIrj2GIE0VpLSU8Wpe"
       },
       "artists": [
         {
@@ -756,9 +756,9 @@
           "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
         }
       ],
-      "duration_ms": 292026,
-      "name": "Lost In America",
-      "url": "https://open.spotify.com/track/3JG9t9qhTYktLGEA3UXZYr"
+      "duration_ms": 259293,
+      "name": "Just Let Your Heart Decide",
+      "url": "https://open.spotify.com/track/0kHY2RwiRyOvL0WX9C7Brn"
     },
     {
       "added_at": null,
@@ -779,8 +779,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "...The Stories We Could Tell",
-        "url": "https://open.spotify.com/album/7n9ucIrj2GIE0VpLSU8Wpe"
+        "name": "Actual Size",
+        "url": "https://open.spotify.com/album/3l02aZ9l93Pyoq2nXkfQPq"
       },
       "artists": [
         {
@@ -788,9 +788,9 @@
           "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
         }
       ],
-      "duration_ms": 259293,
-      "name": "Just Let Your Heart Decide",
-      "url": "https://open.spotify.com/track/0kHY2RwiRyOvL0WX9C7Brn"
+      "duration_ms": 292026,
+      "name": "Lost In America",
+      "url": "https://open.spotify.com/track/3JG9t9qhTYktLGEA3UXZYr"
     },
     {
       "added_at": null,

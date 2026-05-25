@@ -1,6 +1,6 @@
 {
   "description": "Alternative / Indie / Folk cuts from the continent and diaspora to dive into. Cover: Dumama",
-  "num_followers": 1813,
+  "num_followers": 1830,
   "original_name": "Afro Indie",
   "owner": {
     "name": "Spotify",
@@ -147,46 +147,6 @@
     {
       "added_at": "2026-05-07 22:03:31",
       "album": {
-        "name": "Honey",
-        "url": "https://open.spotify.com/album/4dTauHF2YOIwiHCoP8vk1O"
-      },
-      "artists": [
-        {
-          "name": "Billy Raffoul",
-          "url": "https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP"
-        },
-        {
-          "name": "Booshle G.",
-          "url": "https://open.spotify.com/artist/1QSMqcINjuDyxFbacapl0s"
-        },
-        {
-          "name": "Tatum Tides",
-          "url": "https://open.spotify.com/artist/730X1kWAiAf4vUtlUs1nWY"
-        }
-      ],
-      "duration_ms": 140952,
-      "name": "Honey",
-      "url": "https://open.spotify.com/track/1seToxjaUog9m1scdsu4yP"
-    },
-    {
-      "added_at": "2026-05-22 11:02:07",
-      "album": {
-        "name": "Let There Be Peace",
-        "url": "https://open.spotify.com/album/3hKFC7E37UxuewgLYLnY4A"
-      },
-      "artists": [
-        {
-          "name": "Vusi Mahlasela",
-          "url": "https://open.spotify.com/artist/7tUdxVCUWjTPf3Ic90eWDJ"
-        }
-      ],
-      "duration_ms": 213817,
-      "name": "Let There Be Peace",
-      "url": "https://open.spotify.com/track/3dSaO6ZsDQ0ITEzeZqNSIo"
-    },
-    {
-      "added_at": "2026-05-07 22:03:31",
-      "album": {
         "name": "Afro G Western",
         "url": "https://open.spotify.com/album/1Wq4oDNU0UB0C3HhknCAOZ"
       },
@@ -207,6 +167,46 @@
       "duration_ms": 223000,
       "name": "Afro G Western",
       "url": "https://open.spotify.com/track/5R4DPXz4KnCyJXYuMJNd23"
+    },
+    {
+      "added_at": "2026-05-22 11:02:07",
+      "album": {
+        "name": "Let There Be Peace",
+        "url": "https://open.spotify.com/album/3hKFC7E37UxuewgLYLnY4A"
+      },
+      "artists": [
+        {
+          "name": "Vusi Mahlasela",
+          "url": "https://open.spotify.com/artist/7tUdxVCUWjTPf3Ic90eWDJ"
+        }
+      ],
+      "duration_ms": 213817,
+      "name": "Let There Be Peace",
+      "url": "https://open.spotify.com/track/3dSaO6ZsDQ0ITEzeZqNSIo"
+    },
+    {
+      "added_at": "2026-05-07 22:03:31",
+      "album": {
+        "name": "Honey",
+        "url": "https://open.spotify.com/album/4dTauHF2YOIwiHCoP8vk1O"
+      },
+      "artists": [
+        {
+          "name": "Billy Raffoul",
+          "url": "https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP"
+        },
+        {
+          "name": "Booshle G.",
+          "url": "https://open.spotify.com/artist/1QSMqcINjuDyxFbacapl0s"
+        },
+        {
+          "name": "Tatum Tides",
+          "url": "https://open.spotify.com/artist/730X1kWAiAf4vUtlUs1nWY"
+        }
+      ],
+      "duration_ms": 140952,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/1seToxjaUog9m1scdsu4yP"
     },
     {
       "added_at": "2026-05-22 11:02:07",
@@ -447,18 +447,18 @@
     {
       "added_at": "2026-05-07 22:03:31",
       "album": {
-        "name": "ODO",
-        "url": "https://open.spotify.com/album/767cvHiLzCJBzufXLwZg7i"
+        "name": "Djanne",
+        "url": "https://open.spotify.com/album/3QkxgYHkAYDUQY3NxCZOdx"
       },
       "artists": [
         {
-          "name": "A\u1e63a",
-          "url": "https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc"
+          "name": "Fatoumata Diawara",
+          "url": "https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC"
         }
       ],
-      "duration_ms": 198620,
-      "name": "ODO",
-      "url": "https://open.spotify.com/track/5rRKhpWLZzDp8a7KZ4wPYO"
+      "duration_ms": 162707,
+      "name": "Djanne",
+      "url": "https://open.spotify.com/track/6A28wYLJErEQD6UryKE8Ct"
     },
     {
       "added_at": "2026-05-22 11:02:07",
@@ -479,18 +479,18 @@
     {
       "added_at": "2026-05-07 22:03:31",
       "album": {
-        "name": "Power",
-        "url": "https://open.spotify.com/album/0fgTLT9KhNRuSOy5U7cBuc"
+        "name": "ODO",
+        "url": "https://open.spotify.com/album/767cvHiLzCJBzufXLwZg7i"
       },
       "artists": [
         {
-          "name": "Kwartengg",
-          "url": "https://open.spotify.com/artist/5dppxSKCDPqIAoJQXuZ5HE"
+          "name": "A\u1e63a",
+          "url": "https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc"
         }
       ],
-      "duration_ms": 165782,
-      "name": "Power",
-      "url": "https://open.spotify.com/track/7glOULcqZVCqFylW8w3ZXX"
+      "duration_ms": 198620,
+      "name": "ODO",
+      "url": "https://open.spotify.com/track/5rRKhpWLZzDp8a7KZ4wPYO"
     },
     {
       "added_at": "2026-05-22 11:02:07",
@@ -511,18 +511,18 @@
     {
       "added_at": "2026-05-07 22:03:31",
       "album": {
-        "name": "Day Dreamer",
-        "url": "https://open.spotify.com/album/1RHOujtZ6kG3ev2M4Sv2OW"
+        "name": "Power",
+        "url": "https://open.spotify.com/album/0fgTLT9KhNRuSOy5U7cBuc"
       },
       "artists": [
         {
-          "name": "Sean Koch",
-          "url": "https://open.spotify.com/artist/4sOLJi96MhdlMv5Iz9YZT9"
+          "name": "Kwartengg",
+          "url": "https://open.spotify.com/artist/5dppxSKCDPqIAoJQXuZ5HE"
         }
       ],
-      "duration_ms": 192174,
-      "name": "Day Dreamer",
-      "url": "https://open.spotify.com/track/6zqplY3N7clSXQx0sEaUsv"
+      "duration_ms": 165782,
+      "name": "Power",
+      "url": "https://open.spotify.com/track/7glOULcqZVCqFylW8w3ZXX"
     },
     {
       "added_at": "2026-05-22 11:02:07",
@@ -543,18 +543,18 @@
     {
       "added_at": "2026-05-07 22:03:31",
       "album": {
-        "name": "Djanne",
-        "url": "https://open.spotify.com/album/3QkxgYHkAYDUQY3NxCZOdx"
+        "name": "Day Dreamer",
+        "url": "https://open.spotify.com/album/1RHOujtZ6kG3ev2M4Sv2OW"
       },
       "artists": [
         {
-          "name": "Fatoumata Diawara",
-          "url": "https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC"
+          "name": "Sean Koch",
+          "url": "https://open.spotify.com/artist/4sOLJi96MhdlMv5Iz9YZT9"
         }
       ],
-      "duration_ms": 162707,
-      "name": "Djanne",
-      "url": "https://open.spotify.com/track/6A28wYLJErEQD6UryKE8Ct"
+      "duration_ms": 192174,
+      "name": "Day Dreamer",
+      "url": "https://open.spotify.com/track/6zqplY3N7clSXQx0sEaUsv"
     },
     {
       "added_at": "2026-05-22 11:02:07",
@@ -879,22 +879,6 @@
     {
       "added_at": "2026-05-07 22:03:31",
       "album": {
-        "name": "DRIVE",
-        "url": "https://open.spotify.com/album/5O8MapuKShYfk0gOpHGU8M"
-      },
-      "artists": [
-        {
-          "name": "Hannovr",
-          "url": "https://open.spotify.com/artist/0o2zqxVB0ofk28wqpPzFZf"
-        }
-      ],
-      "duration_ms": 255624,
-      "name": "DRIVE",
-      "url": "https://open.spotify.com/track/6eJ0U0TczrBdDuqowey6uv"
-    },
-    {
-      "added_at": "2026-05-07 22:03:31",
-      "album": {
         "name": "Old Friend",
         "url": "https://open.spotify.com/album/1Vv7pCT3NRnkznBwdWyejW"
       },
@@ -911,34 +895,18 @@
     {
       "added_at": "2026-05-07 22:03:31",
       "album": {
-        "name": "SORE LOSER",
-        "url": "https://open.spotify.com/album/6Tu7is64Q8AV8UPKEUI72d"
+        "name": "DRIVE",
+        "url": "https://open.spotify.com/album/5O8MapuKShYfk0gOpHGU8M"
       },
       "artists": [
         {
-          "name": "tg.blk",
-          "url": "https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm"
+          "name": "Hannovr",
+          "url": "https://open.spotify.com/artist/0o2zqxVB0ofk28wqpPzFZf"
         }
       ],
-      "duration_ms": 126226,
-      "name": "SORE LOSER",
-      "url": "https://open.spotify.com/track/6paTU1UcsB6fLsygUYZpQ4"
-    },
-    {
-      "added_at": "2026-05-07 22:03:31",
-      "album": {
-        "name": "REST OF YOUR LIFE",
-        "url": "https://open.spotify.com/album/1kX8emZvIDGcAUhkObEaFz"
-      },
-      "artists": [
-        {
-          "name": "CON THE ARTIST",
-          "url": "https://open.spotify.com/artist/7LVgykYWodtSi56b9cf9nz"
-        }
-      ],
-      "duration_ms": 271838,
-      "name": "Rest Of Your Life",
-      "url": "https://open.spotify.com/track/5SbqZBOTw1mVo7ZVbQCgki"
+      "duration_ms": 255624,
+      "name": "DRIVE",
+      "url": "https://open.spotify.com/track/6eJ0U0TczrBdDuqowey6uv"
     },
     {
       "added_at": "2026-05-07 22:03:31",
@@ -959,6 +927,38 @@
       "duration_ms": 122374,
       "name": "Panic Island",
       "url": "https://open.spotify.com/track/03TKqOsWlyjFA5IhWflp5t"
+    },
+    {
+      "added_at": "2026-05-07 22:03:31",
+      "album": {
+        "name": "REST OF YOUR LIFE",
+        "url": "https://open.spotify.com/album/1kX8emZvIDGcAUhkObEaFz"
+      },
+      "artists": [
+        {
+          "name": "CON THE ARTIST",
+          "url": "https://open.spotify.com/artist/7LVgykYWodtSi56b9cf9nz"
+        }
+      ],
+      "duration_ms": 271838,
+      "name": "Rest Of Your Life",
+      "url": "https://open.spotify.com/track/5SbqZBOTw1mVo7ZVbQCgki"
+    },
+    {
+      "added_at": "2026-05-07 22:03:31",
+      "album": {
+        "name": "SORE LOSER",
+        "url": "https://open.spotify.com/album/6Tu7is64Q8AV8UPKEUI72d"
+      },
+      "artists": [
+        {
+          "name": "tg.blk",
+          "url": "https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm"
+        }
+      ],
+      "duration_ms": 126226,
+      "name": "SORE LOSER",
+      "url": "https://open.spotify.com/track/6paTU1UcsB6fLsygUYZpQ4"
     },
     {
       "added_at": "2026-05-07 22:03:31",
@@ -995,6 +995,26 @@
     {
       "added_at": "2026-05-07 22:03:31",
       "album": {
+        "name": "showmetheway !!",
+        "url": "https://open.spotify.com/album/3JYPab6Bqkk4BXdvdinw5G"
+      },
+      "artists": [
+        {
+          "name": "Cruel Santino",
+          "url": "https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih"
+        },
+        {
+          "name": "Poco Lee",
+          "url": "https://open.spotify.com/artist/63NVCM00HP3vWokNnWQAIc"
+        }
+      ],
+      "duration_ms": 140800,
+      "name": "showmetheway !!",
+      "url": "https://open.spotify.com/track/6JRfbZ9d0Caw35pbCsOTSL"
+    },
+    {
+      "added_at": "2026-05-07 22:03:31",
+      "album": {
         "name": "Souls x Mates",
         "url": "https://open.spotify.com/album/56sY9khk2hWWxssbXtnAaA"
       },
@@ -1027,26 +1047,6 @@
       "duration_ms": 236080,
       "name": "Faya",
       "url": "https://open.spotify.com/track/6bS5s8LrmKI5ZV7RxyFmlm"
-    },
-    {
-      "added_at": "2026-05-07 22:03:31",
-      "album": {
-        "name": "showmetheway !!",
-        "url": "https://open.spotify.com/album/3JYPab6Bqkk4BXdvdinw5G"
-      },
-      "artists": [
-        {
-          "name": "Cruel Santino",
-          "url": "https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih"
-        },
-        {
-          "name": "Poco Lee",
-          "url": "https://open.spotify.com/artist/63NVCM00HP3vWokNnWQAIc"
-        }
-      ],
-      "duration_ms": 140800,
-      "name": "showmetheway !!",
-      "url": "https://open.spotify.com/track/6JRfbZ9d0Caw35pbCsOTSL"
     },
     {
       "added_at": "2026-05-07 22:03:31",

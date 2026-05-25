@@ -1,12 +1,12 @@
 {
   "description": "This is Salif Keita. The essential tracks, all in one playlist.",
-  "num_followers": 13798,
+  "num_followers": 13802,
   "original_name": "This Is Salif Keita",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ag+cgAAAAADzk/DsP3N89SPay3K8rnDw",
+  "snapshot_id": "ahDuAAAAAAArSOM2C//QdIG+TgGUHZgM",
   "tracks": [
     {
       "added_at": null,
@@ -695,22 +695,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Djourou",
-        "url": "https://open.spotify.com/album/1wqZp9tG65T3FjKAPd5a5u"
+        "name": "Betece - All Stars",
+        "url": "https://open.spotify.com/album/5RKQ7g6iYe2l6tlUfAwXsf"
       },
       "artists": [
         {
-          "name": "Ballak\u00e9 Sissoko",
-          "url": "https://open.spotify.com/artist/0OQeMFqoRD5clB0cPYVbxY"
+          "name": "Africando",
+          "url": "https://open.spotify.com/artist/0ffXAvDlWnqwiciaBFek6V"
         },
         {
           "name": "Salif Keita",
           "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
         }
       ],
-      "duration_ms": 332361,
-      "name": "Guelen",
-      "url": "https://open.spotify.com/track/2glWeR2NkywIUE7zzMR6Xb"
+      "duration_ms": 303773,
+      "name": "Ntoman",
+      "url": "https://open.spotify.com/track/6AOlffSmJ6QNAzPV4SnmKQ"
     },
     {
       "added_at": null,
@@ -731,22 +731,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Betece - All Stars",
-        "url": "https://open.spotify.com/album/5RKQ7g6iYe2l6tlUfAwXsf"
+        "name": "Djourou",
+        "url": "https://open.spotify.com/album/1wqZp9tG65T3FjKAPd5a5u"
       },
       "artists": [
         {
-          "name": "Africando",
-          "url": "https://open.spotify.com/artist/0ffXAvDlWnqwiciaBFek6V"
+          "name": "Ballak\u00e9 Sissoko",
+          "url": "https://open.spotify.com/artist/0OQeMFqoRD5clB0cPYVbxY"
         },
         {
           "name": "Salif Keita",
           "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
         }
       ],
-      "duration_ms": 303773,
-      "name": "Ntoman",
-      "url": "https://open.spotify.com/track/6AOlffSmJ6QNAzPV4SnmKQ"
+      "duration_ms": 332361,
+      "name": "Guelen",
+      "url": "https://open.spotify.com/track/2glWeR2NkywIUE7zzMR6Xb"
     },
     {
       "added_at": null,
@@ -851,22 +851,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tassi",
-        "url": "https://open.spotify.com/album/3gSUL69CSDeIOCgXYUlaXS"
-      },
-      "artists": [
-        {
-          "name": "Salif Keita",
-          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
-        }
-      ],
-      "duration_ms": 283720,
-      "name": "Tassi",
-      "url": "https://open.spotify.com/track/5WfeCCpif2aYodXapvRv96"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Folon",
         "url": "https://open.spotify.com/album/29kRIxD16ZaWot5NKCtS9O"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 378706,
       "name": "Nyanyama",
       "url": "https://open.spotify.com/track/358m8bL9LwONarIDQxHWUA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tassi",
+        "url": "https://open.spotify.com/album/3gSUL69CSDeIOCgXYUlaXS"
+      },
+      "artists": [
+        {
+          "name": "Salif Keita",
+          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+        }
+      ],
+      "duration_ms": 283720,
+      "name": "Tassi",
+      "url": "https://open.spotify.com/track/5WfeCCpif2aYodXapvRv96"
     },
     {
       "added_at": null,

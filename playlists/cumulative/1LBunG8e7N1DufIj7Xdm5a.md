@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,407 songs - 9 day 19 hr 24 min
+4,410 songs - 9 day 19 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [\(You’ve Been a\) Shit To Me](https://open.spotify.com/track/34X4KcxVMjC844cSAPeij0) | [The Lovely Eggs](https://open.spotify.com/artist/4DO9uZBipcWHEfMXo87yhS) | [Bin Juice](https://open.spotify.com/album/23O2GkJX92vYDabrLwdzVe) | 2:52 | 2025-11-04 |  |
 | [.Waves of Tomorrow](https://open.spotify.com/track/17chWXAbyBFjclJgPo7bEo) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Contemporary New Wave](https://open.spotify.com/album/032BuKEVgSbHk3EPcbSZQc) | 2:59 | 2025-09-19 |  |
 | [100](https://open.spotify.com/track/3xfYZ7C2oZmElosQK6STR9) | [I\-Voltage](https://open.spotify.com/artist/2hWpm5e3As9l7pwZ3Pt1TP) | [100](https://open.spotify.com/album/56leTp9GIRivs1gbvoZl93) | 2:41 | 2025-06-04 |  |
+| [100 Hod](https://open.spotify.com/track/0iV71apxpIvDdd4vLdj4wr) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [100 Hod](https://open.spotify.com/album/62pqGsxT3FIQJdCv6unCH9) | 2:31 | 2026-05-24 |  |
 | [100k notti](https://open.spotify.com/track/0nV38qVfxPsQXpXzJIZPru) | [Jerry Spaggiari](https://open.spotify.com/artist/373KRO4MSO2oVp6GdqRunP) | [100k notti](https://open.spotify.com/album/6VLx0mKilNn27T0JbHHgGp) | 3:23 | 2026-01-04 |  |
 | [122](https://open.spotify.com/track/29Unpsj8867bTZHmKEnp4l) | [LEONE PRIMO](https://open.spotify.com/artist/0IlaTQDcOlHYtNdnSoUYfe) | [NON SONO IL PAPA \(Deluxe Edition\)](https://open.spotify.com/album/29s0ZAydytxQoqxqEhI4Mv) | 2:01 | 2025-04-04 |  |
 | [13 inviernos y una primavera](https://open.spotify.com/track/5LmRuuIjZx1exRHaFUh8Rh) | [CAPITÁN MOSCÚ](https://open.spotify.com/artist/2lsoOFuNDdLyToS0R3M05p) | [13 inviernos y una primavera](https://open.spotify.com/album/40i8yNTfyY3XhJ7TxVCCL2) | 3:45 | 2025-06-25 |  |
@@ -3759,6 +3760,7 @@
 | [Thank You God for the Stars](https://open.spotify.com/track/3IONN7D7JMLQEEBoFyWdT9) | [Willow Creek](https://open.spotify.com/artist/1Dl4eYUATA4sTfXHPYEZnF) | [Unfolding Joy](https://open.spotify.com/album/1qPiWwek5lSYMsWgc5juKW) | 5:14 | 2026-04-29 |  |
 | [Thank You Life](https://open.spotify.com/track/5ZQlfJktZStufDHddWpypW) | [Tess Mac Keen](https://open.spotify.com/artist/77mpUoVwkQ9qs9b4AQiDin) | [Thank You Life](https://open.spotify.com/album/41NFgg2nXwEJVlQaGNnA8M) | 3:18 | 2025-06-13 |  |
 | [Thank You, Stars](https://open.spotify.com/track/42N7EX8uc41OePTIlncCvO) | [Willow Creek](https://open.spotify.com/artist/1Dl4eYUATA4sTfXHPYEZnF) | [Unfolding Joy](https://open.spotify.com/album/1qPiWwek5lSYMsWgc5juKW) | 4:36 | 2026-04-29 |  |
+| [That Kind of Girl](https://open.spotify.com/track/1SBp4oHlw8taa64WenMBgp) | [Sugarcane Hangover](https://open.spotify.com/artist/4apvzNrF5euN4Sy6oTgBZ3) | [That Kind of Girl](https://open.spotify.com/album/2lVSHtPcmY03BOPELzR6cf) | 3:22 | 2026-05-24 |  |
 | [That's All](https://open.spotify.com/track/5ORKszvLlq6O63KofHqrF5) | [Tess Mac Keen](https://open.spotify.com/artist/77mpUoVwkQ9qs9b4AQiDin) | [That's All](https://open.spotify.com/album/0xBbxIBfU3C7lYqri5SICg) | 3:00 | 2025-06-03 |  |
 | [That's the Way](https://open.spotify.com/track/2pNaBTVWNk3T02RrZ7HQr3) | [Chemical Prisoner](https://open.spotify.com/artist/4HA8dUaEJfdKGwWq9aHTCi) | [That's the Way](https://open.spotify.com/album/6QvOtLnAeTVXmH6H0J9KaO) | 1:38 | 2026-01-17 |  |
 | [The 250th Finale](https://open.spotify.com/track/4uU3CxzXHiFEjbOWcO6b6k) | [The second coast](https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi) | [SEMIQUINCENTENNIAL VOICES](https://open.spotify.com/album/4q3D0mA0dP458GXE7Z6NIE) | 2:46 | 2026-04-13 |  |
@@ -4415,5 +4417,6 @@
 | [月下漫步 \(another\)](https://open.spotify.com/track/4Shzj1qYE0PErhWQKbxu6W) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Chinese pop](https://open.spotify.com/album/4MkiXf4mBvJbxE3zZtwrqn) | 3:33 | 2025-09-15 |  |
 | [梦的翅膀 \(Wings of Dreams\)](https://open.spotify.com/track/2AZy5ILoXfbaQ7mJC9zUAg) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Chinese pop](https://open.spotify.com/album/4MkiXf4mBvJbxE3zZtwrqn) | 3:29 | 2025-09-15 |  |
 | [梦的翅膀 \(Wings of Dreams\) \(another\)](https://open.spotify.com/track/0CXQM6uxUpQDxh1OxUUDNs) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Chinese pop](https://open.spotify.com/album/4MkiXf4mBvJbxE3zZtwrqn) | 3:13 | 2025-09-10 |  |
+| [证明我真的活着入门票一个](https://open.spotify.com/track/5Ui2iclOehI6HjZozdorOK) | [陶铭西](https://open.spotify.com/artist/7jUnGkOKbLiiaoat6VXIMW) | [证明我真的活着入门票一个](https://open.spotify.com/album/55ni3VEWMtNnJ4cabLqeP0) | 3:16 | 2026-05-24 |  |
 
 \*This playlist was first scraped on 2025-11-19. Prior content cannot be recovered.

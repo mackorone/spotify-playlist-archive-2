@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeaMD6NdSui3.md) - [plain]
 
 > Texas Blues at its best.
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,180 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,213 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,13 +39,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeaMD6NdSui3.md) - [plain]
 | 29 | [Shakin' Dem Bones](https://open.spotify.com/track/6kz99KqDf43kfDGF2R7qsf) | [U.P\. Wilson](https://open.spotify.com/artist/6Nuiw9n4KzWqrcfn2m4u3F) | [Best Of \- The Texas Blues Guitar Tornado](https://open.spotify.com/album/3YNjUN1C7ZqYanMOcKdcOs) | 3:47 |
 | 30 | [La Grange \- 2005 Remaster](https://open.spotify.com/track/70YvYr2hGlS01bKRIho1HM) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Tres Hombres \(Expanded 2006 Remaster\)](https://open.spotify.com/album/0Em8m9kRctyH9S3MTXAHvY) | 3:50 |
 | 31 | [Scratch My Back](https://open.spotify.com/track/6f3OYG5R630tjwFIHIE7j2) | [The Fabulous Thunderbirds](https://open.spotify.com/artist/6zmLTiN3NBNCDECRbbJKkT) | [The Fabulous Thunderbirds](https://open.spotify.com/album/0eukg8bhyBLRYCPoDpPBgs) | 3:52 |
-| 32 | [Have Blues, Will Travel](https://open.spotify.com/track/5uQmSlxgnr19AMo2D5rBqX) | [Smokin' Joe Kubek & Bnois King](https://open.spotify.com/artist/0nMA4cLQjSiZspsoI70aut) | [Have Blues, Will Travel](https://open.spotify.com/album/1aIpCxCpnB70PClhPolZhj) | 4:07 |
-| 33 | [I Ain't Drunk](https://open.spotify.com/track/6MsrmoeiVpoNUAc4FsNPPP) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Cold Snap](https://open.spotify.com/album/5huupthUYwYsiR9jGyxm0O) | 4:07 |
+| 32 | [Cold, Cold Feeling](https://open.spotify.com/track/7sheAObhEOIqDY8YFu3HJf) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Ice Pickin'](https://open.spotify.com/album/5iFF3KWzukkaBLA6bDGoGw) | 5:19 |
+| 33 | [Have Blues, Will Travel](https://open.spotify.com/track/5uQmSlxgnr19AMo2D5rBqX) | [Smokin' Joe Kubek & Bnois King](https://open.spotify.com/artist/0nMA4cLQjSiZspsoI70aut) | [Have Blues, Will Travel](https://open.spotify.com/album/1aIpCxCpnB70PClhPolZhj) | 4:07 |
 | 34 | [Texas](https://open.spotify.com/track/04kG9s73OxBkpC701Ifp62) | [Eric Johnson](https://open.spotify.com/artist/4CxobvwTpmfpIEbkYh4pAb), [Steve Miller](https://open.spotify.com/artist/7bMi7pddqeilAI6V9LWZaW), [Jimmie Vaughan](https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae) | [Up Close](https://open.spotify.com/album/6KTqSghfCNMlYRBNQytty9) | 6:02 |
 | 35 | [Sugar Coated Love](https://open.spotify.com/track/1G6ZoDvjFAReEI3R6kHZrm) | [Lou Ann Barton](https://open.spotify.com/artist/0uIrm4Ub9qBmp4t7A2Rchk) | [Read My Lips](https://open.spotify.com/album/6SjrPRIoiQnQsokUpFc5hN) | 3:56 |
 | 36 | [Wait On Time](https://open.spotify.com/track/71ptjbbVkrMPebtE3CgBZS) | [The Fabulous Thunderbirds](https://open.spotify.com/artist/6zmLTiN3NBNCDECRbbJKkT) | [The Fabulous Thunderbirds](https://open.spotify.com/album/0eukg8bhyBLRYCPoDpPBgs) | 3:03 |
-| 37 | [Mojo Boogie](https://open.spotify.com/track/0tsKu0o04uNgkXpP8mP6tQ) | [Johnny Winter](https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO) | [3rd Degree](https://open.spotify.com/album/6dVzmBcjw1033jfE8erIH4) | 4:53 |
-| 38 | [Cold, Cold Feeling](https://open.spotify.com/track/7sheAObhEOIqDY8YFu3HJf) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Ice Pickin'](https://open.spotify.com/album/5iFF3KWzukkaBLA6bDGoGw) | 5:19 |
+| 37 | [I Ain't Drunk](https://open.spotify.com/track/6MsrmoeiVpoNUAc4FsNPPP) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Cold Snap](https://open.spotify.com/album/5huupthUYwYsiR9jGyxm0O) | 4:07 |
+| 38 | [Mojo Boogie](https://open.spotify.com/track/0tsKu0o04uNgkXpP8mP6tQ) | [Johnny Winter](https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO) | [3rd Degree](https://open.spotify.com/album/6dVzmBcjw1033jfE8erIH4) | 4:53 |
 | 39 | [Why Don't You Eat Where You Slept Last Night?](https://open.spotify.com/track/2WdjmV6o9JeFqQIKQvF2ej) | [Zuzu Bollin](https://open.spotify.com/artist/4T7XsMXUOYlL1FlvqL3SIQ) | [Texas Bluesman](https://open.spotify.com/album/2xw1vOxRhhr9iywYKcI18h) | 2:54 |
 | 40 | [Arrested for Driving While Blind](https://open.spotify.com/track/5J0LnWOXiQY2usZd2SFDdn) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [The Very Baddest of..\. ZZ Top](https://open.spotify.com/album/0P7d8Q1oSVDhrpUkJLwbNn) | 3:06 |
 | 41 | [I Got My Mojo Working](https://open.spotify.com/track/6WDP4QrxAU1vRM9zITElCg) | [Clarence "Gatemouth" Brown](https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo) | [Standing My Ground](https://open.spotify.com/album/3EdxMYZBAb4XhFeZFCNT5q) | 4:46 |

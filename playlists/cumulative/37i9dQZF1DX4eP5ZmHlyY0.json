@@ -1196,7 +1196,7 @@
       ],
       "date_added": "2026-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-25",
       "duration_ms": 204576,
       "name": "BANG!!",
       "url": "https://open.spotify.com/track/5wHQmGFml0oDSqv7Q4nixp"
@@ -5663,6 +5663,24 @@
     },
     {
       "album": {
+        "name": "Good Boys Anthem",
+        "url": "https://open.spotify.com/album/3FvMmC8dFu24jkoIZMwRk6"
+      },
+      "artists": [
+        {
+          "name": "STARGLOW",
+          "url": "https://open.spotify.com/artist/1iw2iFU0Tpq7xvkX4VZyfZ"
+        }
+      ],
+      "date_added": "2026-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196030,
+      "name": "Good Boys Anthem",
+      "url": "https://open.spotify.com/track/6TIKxwgorfSVrDIg7ywq00"
+    },
+    {
+      "album": {
         "name": "AND,",
         "url": "https://open.spotify.com/album/3Hs8WBB47spgGcUhtQ9rXB"
       },
@@ -6722,6 +6740,24 @@
       "duration_ms": 200824,
       "name": "I Got It",
       "url": "https://open.spotify.com/track/5yHvX9AFnONMXwBhDGwJ5R"
+    },
+    {
+      "album": {
+        "name": "I Got Ways",
+        "url": "https://open.spotify.com/album/1xP6XNCIJCNFaIRz422fPc"
+      },
+      "artists": [
+        {
+          "name": "PSYCHIC FEVER from EXILE TRIBE",
+          "url": "https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb"
+        }
+      ],
+      "date_added": "2026-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171083,
+      "name": "I Got Ways",
+      "url": "https://open.spotify.com/track/7B2chBAErZdXILliqiulDH"
     },
     {
       "album": {
@@ -12214,7 +12250,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-25",
       "duration_ms": 146030,
       "name": "Run It Back",
       "url": "https://open.spotify.com/track/2DHlMEVSmWkmffblREZazJ"
@@ -12380,6 +12416,24 @@
       "duration_ms": 173041,
       "name": "Saucin'",
       "url": "https://open.spotify.com/track/7jVr1ZipYJJR4qHxZcQjqa"
+    },
+    {
+      "album": {
+        "name": "SAVE YOUR HEART",
+        "url": "https://open.spotify.com/album/6qiYRd1slkVkoOOe5vGsPP"
+      },
+      "artists": [
+        {
+          "name": "Snow Man",
+          "url": "https://open.spotify.com/artist/0UuiWPm9FpWvRuWNrXO98N"
+        }
+      ],
+      "date_added": "2026-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191888,
+      "name": "SAVE YOUR HEART",
+      "url": "https://open.spotify.com/track/1OapSRCeIO6x802zzQbg5R"
     },
     {
       "album": {
@@ -15290,7 +15344,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-25",
       "duration_ms": 172866,
       "name": "USOTSUKI",
       "url": "https://open.spotify.com/track/6JzydmDkNhr2fl8wYFPMCO"

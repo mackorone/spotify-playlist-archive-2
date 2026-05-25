@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYHO8PTSQ9fM.md) - [plain]
 
 > The hottest hits right now\. Cover: Drake
 
-[Spotify](https://open.spotify.com/user/spotify) - 679,752 likes - 46 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 679,732 likes - 46 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYHO8PTSQ9fM.md) - [plain]
 | 45 | [Tout donner](https://open.spotify.com/track/6a5pKXuDODMRubAW7aXYOO) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Dégât](https://open.spotify.com/album/3fshOF9fI7Z5P1GSPKvcZ4) | 2:25 |
 | 46 | [TA3AL](https://open.spotify.com/track/1EACavreLWxuxCd6Xzdaxj) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [TA3AL](https://open.spotify.com/album/4NUYyvXa1Qm8S9CQfK1ERB) | 2:19 |
 
-Snapshot ID: `AAAAAMfMtCvU86wFfuIBmaxNfkWRIBRT`
+Snapshot ID: `AAAAAAFrtZVllPVuDAwwDh1GSeKw8x6i`

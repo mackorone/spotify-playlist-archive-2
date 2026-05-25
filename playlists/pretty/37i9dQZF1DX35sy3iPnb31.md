@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 
 > The best Canadian songs of the month, handpicked by Spotify Canada editors\. Cover: Angine de Poitrine
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,782 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,796 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 | 40 | [Fix This Mess](https://open.spotify.com/track/2bZVZFXbZJ26P0x5VJTIAl) | [j ember](https://open.spotify.com/artist/4UUDpbs7gikfzHz0CRvdnv) | [Fix This Mess](https://open.spotify.com/album/06kpT326WfFpxbh2qecbZO) | 3:33 |
 | 41 | [Mercy on the Skyline](https://open.spotify.com/track/7MZlYIv52fVAEN9voOhCKV) | [Noah Derksen](https://open.spotify.com/artist/31wEHfLGUKIlJAayR6K936), [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [Mercy on the Skyline](https://open.spotify.com/album/3UQcepdvrX3mnYHcCbQML2) | 4:42 |
 | 42 | [SkiDay](https://open.spotify.com/track/1v4m28NkQN4jCW4DwCMSPo) | [Charlie Houston](https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR) | [SkiDay](https://open.spotify.com/album/2D1mvRiFSFc6s9NkPArGDK) | 2:47 |
-| 43 | [Correct](https://open.spotify.com/track/3rePvNyj1VwHKnlMngBrUk) | [Les Louanges](https://open.spotify.com/artist/57GQLJX1O8guO5PVj46e6l) | [Correct](https://open.spotify.com/album/3FyxSOLf5zrWgC7Osw3peU) | 4:46 |
-| 44 | [Milkman](https://open.spotify.com/track/6HoUzmc0wu7zjKgjnKKTLX) | [Mah Moud](https://open.spotify.com/artist/5GrZNbHTzxnbHge9Ytafdf) | [Alexander Mure's Songs in the Key of C\-Minus!](https://open.spotify.com/album/04GJJ7V0sBgkRREWsBJHZf) | 2:50 |
+| 43 | [Milkman](https://open.spotify.com/track/6HoUzmc0wu7zjKgjnKKTLX) | [Mah Moud](https://open.spotify.com/artist/5GrZNbHTzxnbHge9Ytafdf) | [Alexander Mure's Songs in the Key of C\-Minus!](https://open.spotify.com/album/04GJJ7V0sBgkRREWsBJHZf) | 2:50 |
+| 44 | [Correct](https://open.spotify.com/track/3rePvNyj1VwHKnlMngBrUk) | [Les Louanges](https://open.spotify.com/artist/57GQLJX1O8guO5PVj46e6l) | [Correct](https://open.spotify.com/album/3FyxSOLf5zrWgC7Osw3peU) | 4:46 |
 | 45 | [a million](https://open.spotify.com/track/1JCon4olkEHqtle2sz5xwS) | [harper](https://open.spotify.com/artist/4N6xX91ZPlHR2YZ2RBOdPK) | [a million](https://open.spotify.com/album/0XXVIcn7nvspjZYcqSJUl9) | 2:32 |
 | 46 | [Can't Shake This Feeling](https://open.spotify.com/track/1grXmYQ0WLIfKzZp4ahtO0) | [Carly Hann](https://open.spotify.com/artist/5vxDMnh02mh7RQ9c2wiT6b) | [Can't Shake This Feeling](https://open.spotify.com/album/4PQOJiIIvUYNaFQbe0F8Sd) | 3:29 |
 | 47 | [GEAR](https://open.spotify.com/track/34V32D276vNbF2WUtDWluJ) | [Bluefold](https://open.spotify.com/artist/7Ev5EGcO8uOOyJ7OrOuDy7) | [GEAR](https://open.spotify.com/album/1V9dhGe30LAZxCDgSEtOMW) | 1:52 |

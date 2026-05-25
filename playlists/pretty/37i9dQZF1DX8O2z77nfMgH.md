@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Puros lanzamientos\. Lo nuevo de toda Iberoamérica\. Portada: Fito Paez
 
-[Spotify](https://open.spotify.com/user/spotify) - 846,843 likes - 81 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 846,842 likes - 81 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

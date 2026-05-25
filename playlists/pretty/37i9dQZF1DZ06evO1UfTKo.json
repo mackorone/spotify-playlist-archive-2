@@ -1,12 +1,12 @@
 {
   "description": "This is Los Tigres Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 771912,
+  "num_followers": 772035,
   "original_name": "This Is Los Tigres Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ag+cgAAAAADNg9YEgIT4Tr02HA5kxbpc",
+  "snapshot_id": "ahDuAAAAAABe4hoHOqoIMAEJ+VeFndy5",
   "tracks": [
     {
       "added_at": null,
@@ -155,22 +155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Ejemplo",
-        "url": "https://open.spotify.com/album/1P96z53SwJ2Q0298WPBdUB"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
-        }
-      ],
-      "duration_ms": 227960,
-      "name": "Golpes En El Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/50cYfOvLztlxfHMX1klklK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corridos Prohibidos",
         "url": "https://open.spotify.com/album/6ur3OZ3UXA4Y4IgLpMW5Rw"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 195613,
       "name": "La Camioneta Gris",
       "url": "https://open.spotify.com/track/7e9vWIQWNE6r74PBC7ixdS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Ejemplo",
+        "url": "https://open.spotify.com/album/1P96z53SwJ2Q0298WPBdUB"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "duration_ms": 227960,
+      "name": "Golpes En El Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/50cYfOvLztlxfHMX1klklK"
     },
     {
       "added_at": null,
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Reuni\u00f3n (Deluxe)",
-        "url": "https://open.spotify.com/album/3yIX4FmlUxf2E1UK2fURll"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
-        }
-      ],
-      "duration_ms": 176760,
-      "name": "\u00bfEn D\u00f3nde Estabas?",
-      "url": "https://open.spotify.com/track/4yZQMrO8OJ8oj9HZqUZ3QN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Un Dia A La Vez",
         "url": "https://open.spotify.com/album/7dNBtrYe7XJMTTjuTtWp1U"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 192493,
       "name": "La Fuga Del Rojo",
       "url": "https://open.spotify.com/track/0V0YkCQBSXaStCEDQttZgy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Reuni\u00f3n (Deluxe)",
+        "url": "https://open.spotify.com/album/3yIX4FmlUxf2E1UK2fURll"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "duration_ms": 176760,
+      "name": "\u00bfEn D\u00f3nde Estabas?",
+      "url": "https://open.spotify.com/track/4yZQMrO8OJ8oj9HZqUZ3QN"
     },
     {
       "added_at": null,
@@ -855,22 +855,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Garra De...",
-        "url": "https://open.spotify.com/album/36X48S9LwuT4hOF9igko7Y"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
-        }
-      ],
-      "duration_ms": 172666,
-      "name": "Cari\u00f1o Donde Andaras",
-      "url": "https://open.spotify.com/track/5yAD0PU10aCA2ZNH14HvV4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mi Buena Suerte",
         "url": "https://open.spotify.com/album/3Ucu7Yp0cBJvikdVn5qsUA"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 190706,
       "name": "Diamante Negro",
       "url": "https://open.spotify.com/track/74rP4kWouBsBlHPQxXvvqC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Garra De...",
+        "url": "https://open.spotify.com/album/36X48S9LwuT4hOF9igko7Y"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "duration_ms": 172666,
+      "name": "Cari\u00f1o Donde Andaras",
+      "url": "https://open.spotify.com/track/5yAD0PU10aCA2ZNH14HvV4"
     }
   ],
   "unique_name": "This Is Los Tigres Del Norte",

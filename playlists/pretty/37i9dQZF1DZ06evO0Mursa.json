@@ -1,12 +1,12 @@
 {
   "description": "This is Karl Jenkins. The essential tracks, all in one playlist.",
-  "num_followers": 11073,
+  "num_followers": 11075,
   "original_name": "This Is Karl Jenkins",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ag+cgAAAAACvW0XQr4tZlK9ggMLI7eZz",
+  "snapshot_id": "ahDuAAAAAACP4lWunmM+fNnhDlTQwAM4",
   "tracks": [
     {
       "added_at": null,
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/6xKwhcvmdKIDdEGbSwh1gh"
         }
       ],
-      "duration_ms": 272426,
-      "name": "Rain Dance",
-      "url": "https://open.spotify.com/track/5IztdN9OdOroPGNH73RVT8"
+      "duration_ms": 279066,
+      "name": "Zarabanda (Saraband)",
+      "url": "https://open.spotify.com/track/2SEHhHjRmbaNIbNccvoUeR"
     },
     {
       "added_at": null,
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/6xKwhcvmdKIDdEGbSwh1gh"
         }
       ],
-      "duration_ms": 279066,
-      "name": "Zarabanda (Saraband)",
-      "url": "https://open.spotify.com/track/2SEHhHjRmbaNIbNccvoUeR"
+      "duration_ms": 272426,
+      "name": "Rain Dance",
+      "url": "https://open.spotify.com/track/5IztdN9OdOroPGNH73RVT8"
     },
     {
       "added_at": null,
@@ -1607,8 +1607,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Adiemus IV - The Eternal Knot",
-        "url": "https://open.spotify.com/album/1VsVrkxUBJuLlqTiiApYLx"
+        "name": "The Very Best Of Karl Jenkins",
+        "url": "https://open.spotify.com/album/1bkmidVr5K4lPXKnK8VPXp"
       },
       "artists": [
         {
@@ -1620,37 +1620,21 @@
           "url": "https://open.spotify.com/artist/73GJmUlQIaIhau1wiDsXVB"
         },
         {
-          "name": "Davy Spillane",
-          "url": "https://open.spotify.com/artist/4BEaTskgF4brSLE7FPvfDx"
-        },
-        {
-          "name": "Pamela Thorby",
-          "url": "https://open.spotify.com/artist/2bYLKlxYrygI6cFZVtsfRP"
-        },
-        {
-          "name": "Martin Taylor",
-          "url": "https://open.spotify.com/artist/3ZNRPH9WeMybGggbmNOE62"
-        },
-        {
-          "name": "Jody Jenkins",
-          "url": "https://open.spotify.com/artist/5wvFd7EQe05xbDXUfZqRTu"
-        },
-        {
-          "name": "Adiemus Orchestra",
-          "url": "https://open.spotify.com/artist/6BTVcb228WGbBFjPOihsiM"
-        },
-        {
           "name": "Miriam Stockley",
           "url": "https://open.spotify.com/artist/3yBHmpIPyOHa80cQxSedau"
         },
         {
-          "name": "Mary Carewe",
-          "url": "https://open.spotify.com/artist/2ZYdpQgTZ31R3tjiX25XNT"
+          "name": "London Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA"
+        },
+        {
+          "name": "Jody K. Jenkins",
+          "url": "https://open.spotify.com/artist/4FjeS3mNCRfJqN4jRTr4Er"
         }
       ],
-      "duration_ms": 324213,
-      "name": "The Wooing Of \u00c9ta\u00edn",
-      "url": "https://open.spotify.com/track/4ixkcDJ1RScB0XemRG8QS2"
+      "duration_ms": 301786,
+      "name": "Beyond The Century",
+      "url": "https://open.spotify.com/track/4h5tf5dKXg1O0rLSTy6Fum"
     }
   ],
   "unique_name": "This Is Karl Jenkins",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2NufN6.md) - [plain]
 
 > This is Mac Miller\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 989,333 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 989,416 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2NufN6.md) - [plain]
 | 38 | [Rain \(feat\. Vince Staples\)](https://open.spotify.com/track/5P4Dow1Jc2NhkknIuPi5Nd) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [Faces](https://open.spotify.com/album/5SKnXCvB4fcGSZu32o3LRY) | 2:33 |
 | 39 | [Programs](https://open.spotify.com/track/1883mCuSqnfnrWoq8i3myH) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Programs](https://open.spotify.com/album/4RRqzZEFULTx6pafDBvOqZ) | 3:10 |
 | 40 | [Funny Papers](https://open.spotify.com/track/4pu58kqegTnOxPNJpY3kr9) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Balloonerism](https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY) | 4:23 |
-| 41 | [Ascension](https://open.spotify.com/track/19CkkPInDRDIOlqfrz1mVn) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [GO:OD AM](https://open.spotify.com/album/2Tyx5dLhHYkx6zeAdVaTzN) | 4:52 |
+| 41 | [Objects in the Mirror](https://open.spotify.com/track/4zlfuYV39hjCa5RbgdhVCr) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Watching Movies with the Sound Off](https://open.spotify.com/album/4iwdNpYgW4MwnJ3q1JZ88U) | 4:19 |
 | 42 | [Diablo](https://open.spotify.com/track/3BDpkLMkgrtrM3HckrVIXr) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Faces](https://open.spotify.com/album/5SKnXCvB4fcGSZu32o3LRY) | 3:18 |
-| 43 | [Buttons](https://open.spotify.com/track/0ZBchpb4CLk5Qqu3895Etp) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Buttons](https://open.spotify.com/album/7GrWzoQHbx463gP1E6HFSp) | 3:48 |
-| 44 | [Objects in the Mirror](https://open.spotify.com/track/5Tvqb0G5ePEWiOB6Gh2o3d) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Watching Movies with the Sound Off](https://open.spotify.com/album/6iJ9Zu9fujJ9HHNt7cRauP) | 4:19 |
+| 43 | [Ascension](https://open.spotify.com/track/19CkkPInDRDIOlqfrz1mVn) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [GO:OD AM](https://open.spotify.com/album/2Tyx5dLhHYkx6zeAdVaTzN) | 4:52 |
+| 44 | [Buttons](https://open.spotify.com/track/0ZBchpb4CLk5Qqu3895Etp) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Buttons](https://open.spotify.com/album/7GrWzoQHbx463gP1E6HFSp) | 3:48 |
 | 45 | [The Mourning After](https://open.spotify.com/track/7zQeDqDlb49AkPCoyXhZf0) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Macadelic](https://open.spotify.com/album/5uLB6ONw5NOYUNaKlnH7S1) | 3:08 |
-| 46 | [Clubhouse](https://open.spotify.com/track/7rdyAfIm1t6h6I1gyLtD17) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [GO:OD AM](https://open.spotify.com/album/2Tyx5dLhHYkx6zeAdVaTzN) | 3:00 |
-| 47 | [Right](https://open.spotify.com/track/165cwz4wGlGz0uDBhxdKLY) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Circles \(Deluxe\)](https://open.spotify.com/album/1YZ3k65Mqw3G8FzYlW1mmp) | 4:47 |
+| 46 | [Right](https://open.spotify.com/track/165cwz4wGlGz0uDBhxdKLY) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Circles \(Deluxe\)](https://open.spotify.com/album/1YZ3k65Mqw3G8FzYlW1mmp) | 4:47 |
+| 47 | [Clubhouse](https://open.spotify.com/track/7rdyAfIm1t6h6I1gyLtD17) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [GO:OD AM](https://open.spotify.com/album/2Tyx5dLhHYkx6zeAdVaTzN) | 3:00 |
 | 48 | [Funeral](https://open.spotify.com/track/2CNaYt7KbFqUrATbZZPY21) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Faces](https://open.spotify.com/album/5SKnXCvB4fcGSZu32o3LRY) | 3:43 |
 | 49 | [Loud](https://open.spotify.com/track/1RcCApDP3AP7bAm81iYsJ3) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Macadelic](https://open.spotify.com/album/5uLB6ONw5NOYUNaKlnH7S1) | 2:50 |
-| 50 | [Rush Hour](https://open.spotify.com/track/09VACB0akCnPueTFnjN5Pn) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [GO:OD AM](https://open.spotify.com/album/2Tyx5dLhHYkx6zeAdVaTzN) | 3:21 |
+| 50 | [Best Day Ever](https://open.spotify.com/track/2nm4Ma3r1LrR84cFUJZLSZ) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Best Day Ever \(5th Anniversary Remastered Edition\)](https://open.spotify.com/album/2OxW8MjnnNSAvFoG7igg7M) | 2:39 |
 
-Snapshot ID: `ag+cgAAAAABp31g1Vau+zRWzCDUGF83W`
+Snapshot ID: `ahDuAAAAAAC1j7Jr4QRaICqpij5/UY8Y`

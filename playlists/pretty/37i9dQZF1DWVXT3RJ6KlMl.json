@@ -1,6 +1,6 @@
 {
   "description": "Beste Nederlandstalige songs uit de 70's! Cover: Rob de Nijs",
-  "num_followers": 37190,
+  "num_followers": 37207,
   "original_name": "70's Nederlandstalig",
   "owner": {
     "name": "Spotify",
@@ -731,6 +731,22 @@
     {
       "added_at": "2024-07-09 16:51:18",
       "album": {
+        "name": "Het Beste van Het Radi Ensemble",
+        "url": "https://open.spotify.com/album/6d4uDH6iAXsXuNxNBhgLxh"
+      },
+      "artists": [
+        {
+          "name": "Het Radi Ensemble",
+          "url": "https://open.spotify.com/artist/1XZvpxU8Nw3JoySQ6ocjzd"
+        }
+      ],
+      "duration_ms": 193704,
+      "name": "Wacht Op Mij, Mona Lisa",
+      "url": "https://open.spotify.com/track/5izSNO4bW1SU7FXcnsMp3S"
+    },
+    {
+      "added_at": "2024-07-09 16:51:18",
+      "album": {
         "name": "De Singles",
         "url": "https://open.spotify.com/album/3kTkS0et9ZhrwEmunEoQk2"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 295680,
       "name": "Veronica 538",
       "url": "https://open.spotify.com/track/4UpxV7NEhLLHWDnLZvIkXM"
-    },
-    {
-      "added_at": "2024-07-09 16:51:18",
-      "album": {
-        "name": "Het Beste van Het Radi Ensemble",
-        "url": "https://open.spotify.com/album/6d4uDH6iAXsXuNxNBhgLxh"
-      },
-      "artists": [
-        {
-          "name": "Het Radi Ensemble",
-          "url": "https://open.spotify.com/artist/1XZvpxU8Nw3JoySQ6ocjzd"
-        }
-      ],
-      "duration_ms": 193704,
-      "name": "Wacht Op Mij, Mona Lisa",
-      "url": "https://open.spotify.com/track/5izSNO4bW1SU7FXcnsMp3S"
     },
     {
       "added_at": "2024-07-09 16:51:18",

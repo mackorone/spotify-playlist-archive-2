@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Wiz Khalifa and Curren$y
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,565,856 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,565,832 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 49 | [P.O](https://open.spotify.com/track/7KIriYANPEsBGTZoF5WwUB) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo), [Likkle Jordee](https://open.spotify.com/artist/67nc9inFEDdyhAXaFXqUZB) | [e.t.d.s\. A Mixtape by .idk.](https://open.spotify.com/album/0CfaDINhy5bFTz9UwM7WAF) | 2:58 |
 | 50 | [Die Together](https://open.spotify.com/track/4mtpjNb1aZ5TVBpqCGtqv0) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [2014 Forest Hills Drive \(10 Year Anniversary Edition\)](https://open.spotify.com/album/2fSAC0ZiYnwKfzLEvyaMm8) | 3:44 |
 
-Snapshot ID: `AAAAAL2XViyVx7QzZY7pTCQWiAV7IV5o`
+Snapshot ID: `AAAAAHiBBKAEzMXGCsFz94rJt8qvC0j0`

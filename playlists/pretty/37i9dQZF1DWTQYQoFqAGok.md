@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQYQoFqAGok.md) - [plain]
 
 > Descubre la escena del jazz en México 🎷🎹🎶🇲🇽
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,404 likes - 50 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,414 likes - 50 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQYQoFqAGok.md) - [plain]
 | 12 | [Dejé mi amor en San Francisco \(I Left My Heart in San Francisco\)](https://open.spotify.com/track/0cPLgRRnadBPngTCXW8IQp) | [Tommy Rodriguez Y Su Saxofon Magico](https://open.spotify.com/artist/4a4AdYSuTDT446pbyqJYZJ) | [Grandes de la Musica Instrumental](https://open.spotify.com/album/2ZYPcXGFMkEnwcrTjxXgUP) | 1:53 |
 | 13 | [Al Son de la Marimba](https://open.spotify.com/track/2ASMYuPSrYkM3zk3E8uBWh) | [Na'rimbo](https://open.spotify.com/artist/3WM7lsbcWyFWHFYmwTQKLt) | [...Un Poco Más](https://open.spotify.com/album/5lAACEe8qGeTZhrzlCr8wM) | 6:10 |
 | 14 | [Piscis](https://open.spotify.com/track/7MYFwzSj7n5NkDKoKlQL94) | [Orestes Gomez](https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1) | [Ascendentes](https://open.spotify.com/album/4wDsQfo6S0LjKnGlI9E0Jm) | 3:34 |
-| 15 | [Los Pequeños Detalles](https://open.spotify.com/track/7JIuo1FbYeIdJlwXXztn01) | [Iraida Noriega](https://open.spotify.com/artist/5nOZrHmLp5IoE7ZzJYZOfi), [Zinco Big Band](https://open.spotify.com/artist/3cj2yEjzcCZVRaIuPgfkfv) | [Así Era Entonces, Ahora...](https://open.spotify.com/album/7DvwqriKTJbGOnrXQot7tX) | 4:30 |
-| 16 | [Jazztepec](https://open.spotify.com/track/5Nc8wh3jl4WBljqnUZpPBS) | [Chill&Go](https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h) | [El Patio](https://open.spotify.com/album/72cn2tHaOSrNwNioPNfA31) | 3:58 |
+| 15 | [Jazztepec](https://open.spotify.com/track/5Nc8wh3jl4WBljqnUZpPBS) | [Chill&Go](https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h) | [El Patio](https://open.spotify.com/album/72cn2tHaOSrNwNioPNfA31) | 3:58 |
+| 16 | [Los Pequeños Detalles](https://open.spotify.com/track/7JIuo1FbYeIdJlwXXztn01) | [Iraida Noriega](https://open.spotify.com/artist/5nOZrHmLp5IoE7ZzJYZOfi), [Zinco Big Band](https://open.spotify.com/artist/3cj2yEjzcCZVRaIuPgfkfv) | [Así Era Entonces, Ahora...](https://open.spotify.com/album/7DvwqriKTJbGOnrXQot7tX) | 4:30 |
 | 17 | [Susano's Calipso](https://open.spotify.com/track/5qAQXLoUQrLpfyst5PNFnB) | [Cristobal Lopez](https://open.spotify.com/artist/5NI5xhoDsyrbcnBYH6UNmI) | [Dream Maker \(Guitar Smooth Jazz\)](https://open.spotify.com/album/3lU5UO8Orf9biP3BjftPWc) | 3:22 |
 | 18 | [La Iguana](https://open.spotify.com/track/0QRhTIZqt5vbQopG9BriGY) | [Mexkla](https://open.spotify.com/artist/0HbMViY5BXuI41PlC3UM5u) | [Bernalejo](https://open.spotify.com/album/1VOZpjDfViAEiNwDPNSs1G) | 4:24 |
 | 19 | [Más Allá](https://open.spotify.com/track/6PvNfcKE6gzNR7UfJoWXfp) | [Donna Pierrot](https://open.spotify.com/artist/557yY63lk0c4El1sfFiroj) | [Retazos](https://open.spotify.com/album/671dTPcf4XRmzfCWTMgGAb) | 4:29 |

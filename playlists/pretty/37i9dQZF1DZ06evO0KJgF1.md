@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0KJgF1.md) - [plain]
 
 > This is Siouxsie and the Banshees\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,829 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,840 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,11 +42,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0KJgF1.md) - [plain]
 | 32 | [Cannons](https://open.spotify.com/track/1sO7AFRF0DG9TFsjGL0Zmt) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Tinderbox](https://open.spotify.com/album/4JLLAw7R40SnvwkUt9B63N) | 3:14 |
 | 33 | [She's A Carnival](https://open.spotify.com/track/4LZsBU2b1qVAJGpX7kXkkL) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [A Kiss In The Dreamhouse](https://open.spotify.com/album/5J3l9yLV2sMfZPEGcUmdz1) | 3:39 |
 | 34 | [Stargazer](https://open.spotify.com/track/0JoshvvOkRzlbbrrveImUE) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [The Rapture \(Remastered / Expanded\)](https://open.spotify.com/album/0w03cDwFhaT9BKE12PSvMJ) | 3:17 |
-| 35 | [Mirage](https://open.spotify.com/track/48dL6SIUIqTS4XIUYIQBSI) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [The Scream](https://open.spotify.com/album/3uMr78kOScjc6eLHMYcVl4) | 2:50 |
+| 35 | [Jigsaw Feeling](https://open.spotify.com/track/6Mg9BV9tuZyBwKzxx2rHVS) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [The Scream](https://open.spotify.com/album/3uMr78kOScjc6eLHMYcVl4) | 4:38 |
 | 36 | [Ornaments Of Gold](https://open.spotify.com/track/7tomZBMWdeFHTIitQ5Eyar) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Peepshow \(Remastered And Expanded\)](https://open.spotify.com/album/4g4aSVUuOJCoW2vKhTavXp) | 3:49 |
 | 37 | [Painted Bird](https://open.spotify.com/track/7HilLn7wds2U0jUJGBBVXw) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [A Kiss In The Dreamhouse](https://open.spotify.com/album/5J3l9yLV2sMfZPEGcUmdz1) | 4:15 |
 | 38 | [Love In A Void](https://open.spotify.com/track/3iDWWZIkshPqItx3wBCiFf) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Join Hands](https://open.spotify.com/album/4FnKGH6piIJse7MUiYtQfj) | 2:34 |
-| 39 | [Jigsaw Feeling](https://open.spotify.com/track/6Mg9BV9tuZyBwKzxx2rHVS) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [The Scream](https://open.spotify.com/album/3uMr78kOScjc6eLHMYcVl4) | 4:38 |
+| 39 | [Mirage](https://open.spotify.com/track/48dL6SIUIqTS4XIUYIQBSI) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [The Scream](https://open.spotify.com/album/3uMr78kOScjc6eLHMYcVl4) | 2:50 |
 | 40 | [Dizzy](https://open.spotify.com/track/3cm2QfZeXa9Kk1au1tYgKH) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [The Best Of...](https://open.spotify.com/album/7AfRVBG3Kgmo9TkX4pChPX) | 3:10 |
 | 41 | [The Last Beat Of My Heart](https://open.spotify.com/track/1V1YzBdPZB1DVowObsInWF) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Peepshow \(Remastered And Expanded\)](https://open.spotify.com/album/4g4aSVUuOJCoW2vKhTavXp) | 4:30 |
 | 42 | [Shadowtime](https://open.spotify.com/track/1tf394pxbmBkyJ37AUVWXi) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Superstition \(Expanded Edition\)](https://open.spotify.com/album/0MNKE093cSDfCrABTCCXwP) | 4:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0KJgF1.md) - [plain]
 | 49 | [Metal Postcard \(Mittageisen\)](https://open.spotify.com/track/58JjV3gddrK1BLNsz5Qzez) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [The Scream](https://open.spotify.com/album/3uMr78kOScjc6eLHMYcVl4) | 4:14 |
 | 50 | [Placebo Effect](https://open.spotify.com/track/3KRbrv6dHumhyyYTu97OqG) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Join Hands](https://open.spotify.com/album/4FnKGH6piIJse7MUiYtQfj) | 4:37 |
 
-Snapshot ID: `ag+cgAAAAAAZmqelGnFGkUwXbvrWZXdx`
+Snapshot ID: `ahDuAAAAAACWnIplqu7MvmWruRyk4xxI`

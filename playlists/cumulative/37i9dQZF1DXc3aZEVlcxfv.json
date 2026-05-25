@@ -925,6 +925,24 @@
     },
     {
       "album": {
+        "name": "BASKET OF PRAISE 3.0",
+        "url": "https://open.spotify.com/album/1AxiH14ITXCa3JU25v8ZTT"
+      },
+      "artists": [
+        {
+          "name": "Deborah Ajayi",
+          "url": "https://open.spotify.com/artist/5BSaqURPjcHhZCV7wgOYSA"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1615365,
+      "name": "BASKET OF PRAISE 3.0",
+      "url": "https://open.spotify.com/track/6qpKHL8qjscYrzfYoSJoG9"
+    },
+    {
+      "album": {
         "name": "Colors of Grace",
         "url": "https://open.spotify.com/album/6Zo1lc8tSnw61EOjjPWcN0"
       },
@@ -11018,7 +11036,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-25",
       "duration_ms": 175645,
       "name": "The Lover",
       "url": "https://open.spotify.com/track/6v4W9CW3BzHU6a38FaIq7v"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZFZauB74Yho.md) - [plain]
 
 > The latest releases from bluegrass and string bands alike\. Cover: Old Crow Medicine Show
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,614 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,617 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZFZauB74Yho.md) - [plain]
 | 99 | [Annie Moved On](https://open.spotify.com/track/0PI01kUDFXITjLh0tLNqqh) | [Full Cord](https://open.spotify.com/artist/0IfvCXwxVGv9Eh26bgmGFr) | [Annie Moved On](https://open.spotify.com/album/19mLxms7msUbWwwwSmursp) | 3:39 |
 | 100 | [Don’t Let Your Deal Go Down](https://open.spotify.com/track/6xshRwvEkTAJQoClIFGyFS) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Trail Of Flowers \(Deluxe Edition\)](https://open.spotify.com/album/5aMgz7gGUkMDHYbr3eNxkg) | 3:38 |
 
-Snapshot ID: `AAAAAJ8pmW2Hma2wQYDwOstfGTW9stEq`
+Snapshot ID: `AAAAAOF1SxAJnWcRr2uUF5mFcMSZ4FyM`

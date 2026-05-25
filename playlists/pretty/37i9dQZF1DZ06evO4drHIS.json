@@ -1,12 +1,12 @@
 {
   "description": "This is Majo Aguilar. The essential tracks, all in one playlist.",
-  "num_followers": 19559,
+  "num_followers": 19568,
   "original_name": "This Is Majo Aguilar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ag+cgAAAAADQ+PABglnq3/BqQO4KoxZU",
+  "snapshot_id": "ahDuAAAAAADssOOQnoYWZca9DR3eWb2A",
   "tracks": [
     {
       "added_at": null,
@@ -379,22 +379,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Ning\u00fan Lugar",
-        "url": "https://open.spotify.com/album/4nprLl0cQBLb3YS2FmcTYR"
+        "name": "Vete",
+        "url": "https://open.spotify.com/album/2MowOz3kjdjFX9zs8BgZvq"
       },
       "artists": [
-        {
-          "name": "Zemmoa",
-          "url": "https://open.spotify.com/artist/3QxmgpgW3C6Bfwm8ajcUJP"
-        },
         {
           "name": "Majo Aguilar",
           "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
         }
       ],
-      "duration_ms": 167156,
-      "name": "A Ning\u00fan Lugar",
-      "url": "https://open.spotify.com/track/5EQYAVVQZe9EI5AMjkkqA8"
+      "duration_ms": 183993,
+      "name": "Vete",
+      "url": "https://open.spotify.com/track/4XMpHNazONIhzh3hr2TQmF"
     },
     {
       "added_at": null,
@@ -415,18 +411,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vete",
-        "url": "https://open.spotify.com/album/2MowOz3kjdjFX9zs8BgZvq"
+        "name": "A Ning\u00fan Lugar",
+        "url": "https://open.spotify.com/album/4nprLl0cQBLb3YS2FmcTYR"
       },
       "artists": [
+        {
+          "name": "Zemmoa",
+          "url": "https://open.spotify.com/artist/3QxmgpgW3C6Bfwm8ajcUJP"
+        },
         {
           "name": "Majo Aguilar",
           "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
         }
       ],
-      "duration_ms": 183993,
-      "name": "Vete",
-      "url": "https://open.spotify.com/track/4XMpHNazONIhzh3hr2TQmF"
+      "duration_ms": 167156,
+      "name": "A Ning\u00fan Lugar",
+      "url": "https://open.spotify.com/track/5EQYAVVQZe9EI5AMjkkqA8"
     },
     {
       "added_at": null,
@@ -639,22 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Herencia, Mi Sangre",
-        "url": "https://open.spotify.com/album/7Fx68oIAPZovKJIIzaL1OH"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 186880,
-      "name": "As\u00ed Es La Vida",
-      "url": "https://open.spotify.com/track/5rreZRW9fX4aurmLt1e1m1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pa'l Norte (En Vivo Desde Pa\u2019l Norte)",
         "url": "https://open.spotify.com/album/0iZIWj3Tkg2Ja7d45qPm0g"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 199973,
       "name": "\u00c9chame A M\u00ed La Culpa - En Vivo Desde Pa\u2019l Norte",
       "url": "https://open.spotify.com/track/2FR0aP9ppAiu2LYH122ZFa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mi Herencia, Mi Sangre",
+        "url": "https://open.spotify.com/album/7Fx68oIAPZovKJIIzaL1OH"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 186880,
+      "name": "As\u00ed Es La Vida",
+      "url": "https://open.spotify.com/track/5rreZRW9fX4aurmLt1e1m1"
     },
     {
       "added_at": null,
@@ -703,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Se Canta Con El Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/3eLptwXDjQjRRXdDTxpKKd"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 239453,
-      "name": "No Te Apartes De M\u00ed",
-      "url": "https://open.spotify.com/track/1YVXnczV8oqpMqn8RVsW35"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mariachi Y Tequila (Deluxe)",
         "url": "https://open.spotify.com/album/1CWzi6omgWhMTbaeSzraSr"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 187720,
       "name": "Nos Gan\u00f3 El Amor",
       "url": "https://open.spotify.com/track/4DFFXmo4Dj30hcVEm3IU0L"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Se Canta Con El Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/3eLptwXDjQjRRXdDTxpKKd"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 239453,
+      "name": "No Te Apartes De M\u00ed",
+      "url": "https://open.spotify.com/track/1YVXnczV8oqpMqn8RVsW35"
     },
     {
       "added_at": null,

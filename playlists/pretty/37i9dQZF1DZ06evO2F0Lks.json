@@ -1,12 +1,12 @@
 {
   "description": "This is Carrie Underwood. The essential tracks, all in one playlist.",
-  "num_followers": 152093,
+  "num_followers": 152096,
   "original_name": "This Is Carrie Underwood",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ag+cgAAAAADSuh0xC6kMwuesz1qgk1Uz",
+  "snapshot_id": "ahDuAAAAAADww/HcmJ+2r7dlb8wwjirm",
   "tracks": [
     {
       "added_at": null,
@@ -399,8 +399,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Savior",
-        "url": "https://open.spotify.com/album/4Dep4FHb2IMFImgEhs83ww"
+        "name": "Cry Pretty",
+        "url": "https://open.spotify.com/album/6LURWtPusB5fGenqj0lbFd"
       },
       "artists": [
         {
@@ -408,9 +408,9 @@
           "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
         }
       ],
-      "duration_ms": 287506,
-      "name": "Because He Lives",
-      "url": "https://open.spotify.com/track/0IssjoPK88JuZug9zYkwcC"
+      "duration_ms": 202853,
+      "name": "Southbound",
+      "url": "https://open.spotify.com/track/7qXPZxXn6Xmv1sjh03skiW"
     },
     {
       "added_at": null,
@@ -431,8 +431,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cry Pretty",
-        "url": "https://open.spotify.com/album/6LURWtPusB5fGenqj0lbFd"
+        "name": "My Savior",
+        "url": "https://open.spotify.com/album/4Dep4FHb2IMFImgEhs83ww"
       },
       "artists": [
         {
@@ -440,9 +440,9 @@
           "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
         }
       ],
-      "duration_ms": 202853,
-      "name": "Southbound",
-      "url": "https://open.spotify.com/track/7qXPZxXn6Xmv1sjh03skiW"
+      "duration_ms": 176440,
+      "name": "Amazing Grace",
+      "url": "https://open.spotify.com/track/0i67q5f6SBh6QvDgJV4f1v"
     },
     {
       "added_at": null,
@@ -459,22 +459,6 @@
       "duration_ms": 238173,
       "name": "Something in the Water",
       "url": "https://open.spotify.com/track/10RQKVSr4rS0coExTmi4dF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "My Savior",
-        "url": "https://open.spotify.com/album/4Dep4FHb2IMFImgEhs83ww"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 176440,
-      "name": "Amazing Grace",
-      "url": "https://open.spotify.com/track/0i67q5f6SBh6QvDgJV4f1v"
     },
     {
       "added_at": null,
@@ -511,6 +495,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "My Savior",
+        "url": "https://open.spotify.com/album/4Dep4FHb2IMFImgEhs83ww"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 287506,
+      "name": "Because He Lives",
+      "url": "https://open.spotify.com/track/0IssjoPK88JuZug9zYkwcC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Greatest Hits: Decade #1",
         "url": "https://open.spotify.com/album/3TqvvuCMcTpSjFvAToQT8A"
       },
@@ -523,22 +523,6 @@
       "duration_ms": 210760,
       "name": "Little Toy Guns",
       "url": "https://open.spotify.com/track/4lnnde7PnrXR3pUzQKBe6X"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "My Savior",
-        "url": "https://open.spotify.com/album/4Dep4FHb2IMFImgEhs83ww"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 210840,
-      "name": "Nothing But The Blood Of Jesus",
-      "url": "https://open.spotify.com/track/1TMD9dsPs6s16QyPa1VqS4"
     },
     {
       "added_at": null,
@@ -575,6 +559,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "My Savior",
+        "url": "https://open.spotify.com/album/4Dep4FHb2IMFImgEhs83ww"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 210840,
+      "name": "Nothing But The Blood Of Jesus",
+      "url": "https://open.spotify.com/track/1TMD9dsPs6s16QyPa1VqS4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Denim & Rhinestones",
         "url": "https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u"
       },
@@ -587,22 +587,6 @@
       "duration_ms": 183573,
       "name": "Hate My Heart",
       "url": "https://open.spotify.com/track/4oGCfTHN1hmXGy5mqmJVc3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "My Savior",
-        "url": "https://open.spotify.com/album/4Dep4FHb2IMFImgEhs83ww"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 237600,
-      "name": "Blessed Assurance",
-      "url": "https://open.spotify.com/track/1b8eNyAT5BW8xOeWUsNahv"
     },
     {
       "added_at": null,
@@ -639,6 +623,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "My Savior",
+        "url": "https://open.spotify.com/album/4Dep4FHb2IMFImgEhs83ww"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 237600,
+      "name": "Blessed Assurance",
+      "url": "https://open.spotify.com/track/1b8eNyAT5BW8xOeWUsNahv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Play On",
         "url": "https://open.spotify.com/album/3iLrVuA1k7onNmZTuUQH4u"
       },
@@ -671,22 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Some Hearts",
-        "url": "https://open.spotify.com/album/0kys2jaKAiDPfNBd4z7LAg"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 240258,
-      "name": "Don't Forget to Remember Me",
-      "url": "https://open.spotify.com/track/0SCtEUwSkgavjuzebBznX5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Carnival Ride",
         "url": "https://open.spotify.com/album/5HwzpaqYOZABPnmvl5JYFX"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 226493,
       "name": "So Small",
       "url": "https://open.spotify.com/track/6xfL1KzGxg48ACVlQE9qXr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Some Hearts",
+        "url": "https://open.spotify.com/album/0kys2jaKAiDPfNBd4z7LAg"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 240258,
+      "name": "Don't Forget to Remember Me",
+      "url": "https://open.spotify.com/track/0SCtEUwSkgavjuzebBznX5"
     },
     {
       "added_at": null,
@@ -735,22 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ghost Story",
-        "url": "https://open.spotify.com/album/7jiRQ5lBRvqoqSsPldfHjc"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 181400,
-      "name": "Ghost Story",
-      "url": "https://open.spotify.com/track/2FGOg7uYBfnspkPOISXTFY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Carnival Ride",
         "url": "https://open.spotify.com/album/5HwzpaqYOZABPnmvl5JYFX"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 259466,
       "name": "I Told You So",
       "url": "https://open.spotify.com/track/3ZK8icmaq8PMW686smPDVL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ghost Story",
+        "url": "https://open.spotify.com/album/7jiRQ5lBRvqoqSsPldfHjc"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 181400,
+      "name": "Ghost Story",
+      "url": "https://open.spotify.com/track/2FGOg7uYBfnspkPOISXTFY"
     },
     {
       "added_at": null,
@@ -835,18 +835,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Storyteller",
-        "url": "https://open.spotify.com/album/4q3SkZWPYJtKno1RbnrjL4"
+        "name": "Duets II",
+        "url": "https://open.spotify.com/album/5ktAYFq8wJ1hcWHaxl6AQf"
       },
       "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        },
         {
           "name": "Carrie Underwood",
           "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
         }
       ],
-      "duration_ms": 210600,
-      "name": "Choctaw County Affair",
-      "url": "https://open.spotify.com/track/31qhbcGwJRQAe8bITyTQAt"
+      "duration_ms": 228853,
+      "name": "It Had to Be You",
+      "url": "https://open.spotify.com/track/328dqlTGkTgH5GPrsQusql"
     }
   ],
   "unique_name": "This Is Carrie Underwood",

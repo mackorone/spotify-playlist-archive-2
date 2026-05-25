@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ASuQophyb3.md) - [plain]
 
 > Türkçe pop'un hit şarkıları ve zirveye oynayanlar\.  Kapak: Berkay
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,553,575 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,553,666 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ASuQophyb3.md) - [plain]
 | 10 | [BENDEN SORULUR](https://open.spotify.com/track/455NNWme98zt6Fbwrvy06C) | [Gökhan Özen](https://open.spotify.com/artist/3QLMLmISoZnFxUdzSoT6JB), [Demet Akalın](https://open.spotify.com/artist/1U449OOb70EZlElNjLMwCM) | [BENDEN SORULUR](https://open.spotify.com/album/3WAyAI3mFZErrD65mm31PD) | 2:31 |
 | 11 | [Doludizgin](https://open.spotify.com/track/3X4fZAVg4f0EWfJfqIPS26) | [Rafet El Roman](https://open.spotify.com/artist/5gs9qloTR5m6dM0ScMty3H) | [Doludizgin](https://open.spotify.com/album/30I6Nz6TlWZlf8NKgf35eF) | 2:32 |
 | 12 | [TÜRKLER GELİYOR](https://open.spotify.com/track/6rvuKL1E0PieqFPqL9dz8j) | [Sinan Akçıl](https://open.spotify.com/artist/31czVneIywpUwJTNOVviJx) | [TÜRKLER GELİYOR](https://open.spotify.com/album/2WJVAv15rHOy0gDkTtl7aB) | 2:52 |
-| 13 | [Kalpsiz](https://open.spotify.com/track/6R2JXcMqO5aeNEfDARgGph) | [Gülden](https://open.spotify.com/artist/1aQhhnH3sUteqgE1EbmPec), [Aydın Kurtoğlu](https://open.spotify.com/artist/7ymCV8co6nSwmYFEyGmVvJ) | [Gülden'e Geldik X Aydın Kurtoğlu](https://open.spotify.com/album/7zNGdNHnNaM73HouQ0WGvR) | 3:40 |
+| 13 | [Kalpsiz](https://open.spotify.com/track/6R2JXcMqO5aeNEfDARgGph) | [Gülden](https://open.spotify.com/artist/1aQhhnH3sUteqgE1EbmPec), [Aydın Kurtoğlu](https://open.spotify.com/artist/7ymCV8co6nSwmYFEyGmVvJ) | [Gülden'e Geldik X Aydın Kurtoğlu](https://open.spotify.com/album/7zNGdNHnNaM73HouQ0WGvR) | 3:44 |
 | 14 | [Yangın Yeri](https://open.spotify.com/track/1NR60P6PMHaFJpuATZG7Bg) | [Elif Buse Doğan](https://open.spotify.com/artist/56hgP8k96P8s7hQyMvXCHS) | [Yangın Yeri](https://open.spotify.com/album/7t0enz3EMgiyTsLGkbwzuj) | 2:31 |
 | 15 | [UYUYAMADIN DİMİ?](https://open.spotify.com/track/6ldLZlXIkKaaM9Y4bErh07) | [Poizi](https://open.spotify.com/artist/250LLR8V4fFq1XFzAB1ZN5) | [PARDON MUTLULUKLAR](https://open.spotify.com/album/2YGROYa6Vg9KXEcr9DwYBP) | 2:38 |
 | 16 | [Yılan](https://open.spotify.com/track/019yqquQcEMQOGx90hvXHO) | [Ferhat Göçer](https://open.spotify.com/artist/13jj3uGldU7cSQLaFkf2Zm) | [Yılan](https://open.spotify.com/album/6VKtnBmD4iAX0JGqfRvsSQ) | 2:46 |

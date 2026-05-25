@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Uutta musaa tarjoilevat Minttu, Costi, Darude..\. ja moni muu  🎶
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,096 likes - 99 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,106 likes - 99 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "It's just us.",
-  "num_followers": 1143324,
+  "num_followers": 1143353,
   "original_name": "You & Me",
   "owner": {
     "name": "Spotify",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2026-02-18 18:45:42",
       "album": {
+        "name": "Singles",
+        "url": "https://open.spotify.com/album/1dKh4z5Aayt8FFDWjO5FDh"
+      },
+      "artists": [
+        {
+          "name": "Future Islands",
+          "url": "https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz"
+        }
+      ],
+      "duration_ms": 226440,
+      "name": "Seasons (Waiting On You)",
+      "url": "https://open.spotify.com/track/41X9To0bQ4fpoSRri4NHiI"
+    },
+    {
+      "added_at": "2026-02-18 18:45:42",
+      "album": {
         "name": "Sadnecessary",
         "url": "https://open.spotify.com/album/5D20ZzsNB377xbshIFP9Nb"
       },
@@ -1383,22 +1399,6 @@
       "duration_ms": 336613,
       "name": "Holocene",
       "url": "https://open.spotify.com/track/4fbvXwMTXPWaFyaMWUm9CR"
-    },
-    {
-      "added_at": "2026-02-18 18:45:42",
-      "album": {
-        "name": "Singles",
-        "url": "https://open.spotify.com/album/1dKh4z5Aayt8FFDWjO5FDh"
-      },
-      "artists": [
-        {
-          "name": "Future Islands",
-          "url": "https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz"
-        }
-      ],
-      "duration_ms": 226440,
-      "name": "Seasons (Waiting On You)",
-      "url": "https://open.spotify.com/track/41X9To0bQ4fpoSRri4NHiI"
     },
     {
       "added_at": "2026-02-18 18:45:42",
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2026-02-18 18:45:42",
       "album": {
+        "name": "Something",
+        "url": "https://open.spotify.com/album/4nYzn3xOXQsltWZ5AIQns7"
+      },
+      "artists": [
+        {
+          "name": "Chairlift",
+          "url": "https://open.spotify.com/artist/7hAolICGSgXJuM6DUpK5rp"
+        }
+      ],
+      "duration_ms": 207306,
+      "name": "I Belong in Your Arms",
+      "url": "https://open.spotify.com/track/0aqRkWPAL9BGCvvdSiXaE9"
+    },
+    {
+      "added_at": "2026-02-18 18:45:42",
+      "album": {
         "name": "Paint My Bedroom Black",
         "url": "https://open.spotify.com/album/0o9lEiGZLsVcfTwl6z77oB"
       },
@@ -1483,22 +1499,6 @@
       "duration_ms": 151792,
       "name": "Superbloodmoon (feat. D4vd)",
       "url": "https://open.spotify.com/track/2yBiwYEX680zQLrHwdV1aT"
-    },
-    {
-      "added_at": "2026-02-18 18:45:42",
-      "album": {
-        "name": "Something",
-        "url": "https://open.spotify.com/album/4nYzn3xOXQsltWZ5AIQns7"
-      },
-      "artists": [
-        {
-          "name": "Chairlift",
-          "url": "https://open.spotify.com/artist/7hAolICGSgXJuM6DUpK5rp"
-        }
-      ],
-      "duration_ms": 207306,
-      "name": "I Belong in Your Arms",
-      "url": "https://open.spotify.com/track/0aqRkWPAL9BGCvvdSiXaE9"
     },
     {
       "added_at": "2026-02-18 18:45:42",

@@ -1,6 +1,6 @@
 {
   "description": "Popronde is een jaarlijks reizend festival in NL met de grootste talenten. Cover: Igor ",
-  "num_followers": 1991,
+  "num_followers": 1992,
   "original_name": "Popronde 2026",
   "owner": {
     "name": "Spotify",
@@ -359,22 +359,6 @@
     {
       "added_at": "2026-05-15 13:17:51",
       "album": {
-        "name": "Gebruiksaanwijzing",
-        "url": "https://open.spotify.com/album/53LhDdESqVsnqNCvbnVvA7"
-      },
-      "artists": [
-        {
-          "name": "Marieke Schenk",
-          "url": "https://open.spotify.com/artist/0SYFuJ8cP1yG4Xp88SjEcb"
-        }
-      ],
-      "duration_ms": 162321,
-      "name": "Gebruiksaanwijzing",
-      "url": "https://open.spotify.com/track/1eECMIf2lHQAY97FHouysE"
-    },
-    {
-      "added_at": "2026-05-15 13:17:51",
-      "album": {
         "name": "Money Rain",
         "url": "https://open.spotify.com/album/7vskvCoVOcvR6UN9kIkW4M"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 143061,
       "name": "Money Rain",
       "url": "https://open.spotify.com/track/6nQBeKREBjEQj7ked6fYod"
+    },
+    {
+      "added_at": "2026-05-15 13:17:51",
+      "album": {
+        "name": "Gebruiksaanwijzing",
+        "url": "https://open.spotify.com/album/53LhDdESqVsnqNCvbnVvA7"
+      },
+      "artists": [
+        {
+          "name": "Marieke Schenk",
+          "url": "https://open.spotify.com/artist/0SYFuJ8cP1yG4Xp88SjEcb"
+        }
+      ],
+      "duration_ms": 162321,
+      "name": "Gebruiksaanwijzing",
+      "url": "https://open.spotify.com/track/1eECMIf2lHQAY97FHouysE"
     },
     {
       "added_at": "2026-05-15 13:17:51",
@@ -423,22 +423,6 @@
     {
       "added_at": "2026-05-15 13:17:51",
       "album": {
-        "name": "No Profit",
-        "url": "https://open.spotify.com/album/4ctjWefHbDBYal1EqWEZ8R"
-      },
-      "artists": [
-        {
-          "name": "MAHA",
-          "url": "https://open.spotify.com/artist/5gPTyE1PeMWs2oVCtwY4G4"
-        }
-      ],
-      "duration_ms": 151111,
-      "name": "No Profit",
-      "url": "https://open.spotify.com/track/2mCBVMTa6e7VcQzdvvJegO"
-    },
-    {
-      "added_at": "2026-05-15 13:17:51",
-      "album": {
         "name": "SKIN",
         "url": "https://open.spotify.com/album/4Xh0HmsYyQN41QfbfMqrnn"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 149070,
       "name": "SKIN",
       "url": "https://open.spotify.com/track/3qsdHJxDcAmKP0WD7U6R0P"
+    },
+    {
+      "added_at": "2026-05-15 13:17:51",
+      "album": {
+        "name": "No Profit",
+        "url": "https://open.spotify.com/album/4ctjWefHbDBYal1EqWEZ8R"
+      },
+      "artists": [
+        {
+          "name": "MAHA",
+          "url": "https://open.spotify.com/artist/5gPTyE1PeMWs2oVCtwY4G4"
+        }
+      ],
+      "duration_ms": 151111,
+      "name": "No Profit",
+      "url": "https://open.spotify.com/track/2mCBVMTa6e7VcQzdvvJegO"
     },
     {
       "added_at": "2026-05-15 13:17:51",
@@ -619,22 +619,6 @@
     {
       "added_at": "2026-05-15 13:17:51",
       "album": {
-        "name": "The Circle Ends Where It Began",
-        "url": "https://open.spotify.com/album/4bLRgf3ADRInRkYznOLT3J"
-      },
-      "artists": [
-        {
-          "name": "Semuta",
-          "url": "https://open.spotify.com/artist/7doMHVicETTTudF6j6jXYI"
-        }
-      ],
-      "duration_ms": 253292,
-      "name": "This Change Is Bigger Than Us",
-      "url": "https://open.spotify.com/track/4EG10CbmpwvUuZpCYEVd5L"
-    },
-    {
-      "added_at": "2026-05-15 13:17:51",
-      "album": {
         "name": "kom is dromen",
         "url": "https://open.spotify.com/album/1I6KrCPnCTxGvjZEXcoN6T"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 217781,
       "name": "de franse",
       "url": "https://open.spotify.com/track/7uHsmPCZPQEfxRbzDqOJVj"
+    },
+    {
+      "added_at": "2026-05-15 13:17:51",
+      "album": {
+        "name": "The Circle Ends Where It Began",
+        "url": "https://open.spotify.com/album/4bLRgf3ADRInRkYznOLT3J"
+      },
+      "artists": [
+        {
+          "name": "Semuta",
+          "url": "https://open.spotify.com/artist/7doMHVicETTTudF6j6jXYI"
+        }
+      ],
+      "duration_ms": 253292,
+      "name": "This Change Is Bigger Than Us",
+      "url": "https://open.spotify.com/track/4EG10CbmpwvUuZpCYEVd5L"
     },
     {
       "added_at": "2026-05-15 13:17:51",
@@ -707,22 +707,6 @@
     {
       "added_at": "2026-05-15 13:17:51",
       "album": {
-        "name": "Holes",
-        "url": "https://open.spotify.com/album/0MzBPDnz6TRkL6TqmD68QS"
-      },
-      "artists": [
-        {
-          "name": "FEMI",
-          "url": "https://open.spotify.com/artist/0d4PHPVdZaJylLDOJUd2Yw"
-        }
-      ],
-      "duration_ms": 231000,
-      "name": "Holes",
-      "url": "https://open.spotify.com/track/2uJr0wiHkkMYUkesFLkHFT"
-    },
-    {
-      "added_at": "2026-05-15 13:17:51",
-      "album": {
         "name": "Bad Mood",
         "url": "https://open.spotify.com/album/0s7FGOz0lzMPPFqpeK8rlU"
       },
@@ -739,18 +723,18 @@
     {
       "added_at": "2026-05-15 13:17:51",
       "album": {
-        "name": "Chemicals",
-        "url": "https://open.spotify.com/album/5gQxxMdJzf5mNQWDX1Daw1"
+        "name": "Holes",
+        "url": "https://open.spotify.com/album/0MzBPDnz6TRkL6TqmD68QS"
       },
       "artists": [
         {
-          "name": "Grandad",
-          "url": "https://open.spotify.com/artist/3cYgV9Bxor0DFHme9eLbD0"
+          "name": "FEMI",
+          "url": "https://open.spotify.com/artist/0d4PHPVdZaJylLDOJUd2Yw"
         }
       ],
-      "duration_ms": 216000,
-      "name": "Chemicals",
-      "url": "https://open.spotify.com/track/1byGTZVTR9oQkgIapiLsLu"
+      "duration_ms": 231000,
+      "name": "Holes",
+      "url": "https://open.spotify.com/track/2uJr0wiHkkMYUkesFLkHFT"
     },
     {
       "added_at": "2026-05-15 13:17:51",
@@ -767,6 +751,22 @@
       "duration_ms": 164333,
       "name": "Crane",
       "url": "https://open.spotify.com/track/5eICNslaj4U86WXF1g0fHa"
+    },
+    {
+      "added_at": "2026-05-15 13:17:51",
+      "album": {
+        "name": "Chemicals",
+        "url": "https://open.spotify.com/album/5gQxxMdJzf5mNQWDX1Daw1"
+      },
+      "artists": [
+        {
+          "name": "Grandad",
+          "url": "https://open.spotify.com/artist/3cYgV9Bxor0DFHme9eLbD0"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Chemicals",
+      "url": "https://open.spotify.com/track/1byGTZVTR9oQkgIapiLsLu"
     },
     {
       "added_at": "2026-05-15 13:17:51",
@@ -851,6 +851,22 @@
     {
       "added_at": "2026-05-15 13:17:51",
       "album": {
+        "name": "Way Out",
+        "url": "https://open.spotify.com/album/0C8G0veIQjoen0waDLfhU8"
+      },
+      "artists": [
+        {
+          "name": "Wilson A.",
+          "url": "https://open.spotify.com/artist/5brK3zQCrbjQMdfAaiwlL2"
+        }
+      ],
+      "duration_ms": 191945,
+      "name": "Way Out",
+      "url": "https://open.spotify.com/track/6k0Yi9T1s1PAlYxTDHjRZt"
+    },
+    {
+      "added_at": "2026-05-15 13:17:51",
+      "album": {
         "name": "Kleine Liefde",
         "url": "https://open.spotify.com/album/6sFDVWQB3cmpkCSlTuDJ5t"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 235789,
       "name": "ZO MOE",
       "url": "https://open.spotify.com/track/48BI01laihNq62N9Z0pPrb"
-    },
-    {
-      "added_at": "2026-05-15 13:17:51",
-      "album": {
-        "name": "Way Out",
-        "url": "https://open.spotify.com/album/0C8G0veIQjoen0waDLfhU8"
-      },
-      "artists": [
-        {
-          "name": "Wilson A.",
-          "url": "https://open.spotify.com/artist/5brK3zQCrbjQMdfAaiwlL2"
-        }
-      ],
-      "duration_ms": 191945,
-      "name": "Way Out",
-      "url": "https://open.spotify.com/track/6k0Yi9T1s1PAlYxTDHjRZt"
     },
     {
       "added_at": "2026-05-15 13:17:51",
@@ -951,22 +951,6 @@
     {
       "added_at": "2026-05-15 13:17:51",
       "album": {
-        "name": "ep1",
-        "url": "https://open.spotify.com/album/6iBPEwVuaVaFOHMbSSCjq0"
-      },
-      "artists": [
-        {
-          "name": "tenderblom",
-          "url": "https://open.spotify.com/artist/4dMNV1VtL3ST2YgEJhzxKl"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "fornow",
-      "url": "https://open.spotify.com/track/480gKBqtmTwVhwexz1how7"
-    },
-    {
-      "added_at": "2026-05-15 13:17:51",
-      "album": {
         "name": "deadbeat (how long)",
         "url": "https://open.spotify.com/album/5I59rSj4lUsrpoam0Ae23c"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 240233,
       "name": "deadbeat (how long)",
       "url": "https://open.spotify.com/track/48F4w5Wxe5jCpjv2pl9bep"
+    },
+    {
+      "added_at": "2026-05-15 13:17:51",
+      "album": {
+        "name": "ep1",
+        "url": "https://open.spotify.com/album/6iBPEwVuaVaFOHMbSSCjq0"
+      },
+      "artists": [
+        {
+          "name": "tenderblom",
+          "url": "https://open.spotify.com/artist/4dMNV1VtL3ST2YgEJhzxKl"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "fornow",
+      "url": "https://open.spotify.com/track/480gKBqtmTwVhwexz1how7"
     },
     {
       "added_at": "2026-05-15 13:17:51",
@@ -1015,38 +1015,6 @@
     {
       "added_at": "2026-05-15 13:17:51",
       "album": {
-        "name": "Red Car",
-        "url": "https://open.spotify.com/album/0a2L8sKFL6M1bRMAFUVjRo"
-      },
-      "artists": [
-        {
-          "name": "The Hook",
-          "url": "https://open.spotify.com/artist/66y3ZygySfpK16S3oZvumu"
-        }
-      ],
-      "duration_ms": 149479,
-      "name": "Red Car",
-      "url": "https://open.spotify.com/track/7beZWdJVztwfhrhobHRuYF"
-    },
-    {
-      "added_at": "2026-05-15 13:17:51",
-      "album": {
-        "name": "Wistful Way",
-        "url": "https://open.spotify.com/album/3490a2LWidSgSyEhqdV1Af"
-      },
-      "artists": [
-        {
-          "name": "Wolfgang",
-          "url": "https://open.spotify.com/artist/6n7KpxSt6D6BAmwZu4pj7C"
-        }
-      ],
-      "duration_ms": 223000,
-      "name": "The Crow Won't Cry",
-      "url": "https://open.spotify.com/track/5V2BQayOMDJ5vrNHVsxdA7"
-    },
-    {
-      "added_at": "2026-05-15 13:17:51",
-      "album": {
         "name": "Comfort on its Knees",
         "url": "https://open.spotify.com/album/09VUFdPP1EKvhNHVZ5oRvm"
       },
@@ -1059,6 +1027,22 @@
       "duration_ms": 288952,
       "name": "Brother Please",
       "url": "https://open.spotify.com/track/6hnYOM7IWCuKnbInSrY6jY"
+    },
+    {
+      "added_at": "2026-05-15 13:17:51",
+      "album": {
+        "name": "Red Car",
+        "url": "https://open.spotify.com/album/0a2L8sKFL6M1bRMAFUVjRo"
+      },
+      "artists": [
+        {
+          "name": "The Hook",
+          "url": "https://open.spotify.com/artist/66y3ZygySfpK16S3oZvumu"
+        }
+      ],
+      "duration_ms": 149479,
+      "name": "Red Car",
+      "url": "https://open.spotify.com/track/7beZWdJVztwfhrhobHRuYF"
     },
     {
       "added_at": "2026-05-15 13:17:51",
@@ -1091,6 +1075,22 @@
       "duration_ms": 114260,
       "name": "Nothing Means Anything",
       "url": "https://open.spotify.com/track/0QW8TkIi5e3c5dhBVhA285"
+    },
+    {
+      "added_at": "2026-05-15 13:17:51",
+      "album": {
+        "name": "Wistful Way",
+        "url": "https://open.spotify.com/album/3490a2LWidSgSyEhqdV1Af"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang",
+          "url": "https://open.spotify.com/artist/6n7KpxSt6D6BAmwZu4pj7C"
+        }
+      ],
+      "duration_ms": 223000,
+      "name": "The Crow Won't Cry",
+      "url": "https://open.spotify.com/track/5V2BQayOMDJ5vrNHVsxdA7"
     },
     {
       "added_at": "2026-05-15 13:17:51",

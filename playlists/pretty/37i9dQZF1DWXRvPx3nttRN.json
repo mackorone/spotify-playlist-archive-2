@@ -1,6 +1,6 @@
 {
   "description": "Acoustic rock and pop that makes you feel good.",
-  "num_followers": 615553,
+  "num_followers": 615604,
   "original_name": "Feel Good Acoustic",
   "owner": {
     "name": "Spotify",
@@ -423,22 +423,6 @@
     {
       "added_at": "2026-01-26 17:25:39",
       "album": {
-        "name": "Who You Are (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0FQIdb4PLexlIf7cGrsf2b"
-      },
-      "artists": [
-        {
-          "name": "Jessie J",
-          "url": "https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou"
-        }
-      ],
-      "duration_ms": 198720,
-      "name": "Price Tag - Acoustic Version",
-      "url": "https://open.spotify.com/track/3GoAxXQ1JATxMJAtIT7hnX"
-    },
-    {
-      "added_at": "2026-01-26 17:25:39",
-      "album": {
         "name": "Castle on the Hill (Acoustic)",
         "url": "https://open.spotify.com/album/3Zq8gpa3P0UM8H6XIY39Sn"
       },
@@ -455,18 +439,34 @@
     {
       "added_at": "2026-01-26 17:25:39",
       "album": {
-        "name": "Anti-Hero (Acoustic Version)",
-        "url": "https://open.spotify.com/album/5vgWXUueeEU2labRz6TlNv"
+        "name": "Who You Are (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0FQIdb4PLexlIf7cGrsf2b"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Jessie J",
+          "url": "https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou"
         }
       ],
-      "duration_ms": 196473,
-      "name": "Anti-Hero - Acoustic Version",
-      "url": "https://open.spotify.com/track/2d3d9xZutJjmUpntiyHt3F"
+      "duration_ms": 198720,
+      "name": "Price Tag - Acoustic Version",
+      "url": "https://open.spotify.com/track/3GoAxXQ1JATxMJAtIT7hnX"
+    },
+    {
+      "added_at": "2026-01-26 17:25:39",
+      "album": {
+        "name": "In My Blood (Acoustic)",
+        "url": "https://open.spotify.com/album/7Hj0BDJ7shYnMRlzEpvVW7"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "duration_ms": 212933,
+      "name": "In My Blood - Acoustic",
+      "url": "https://open.spotify.com/track/6Pce5yn5oOSDB6hZm8Ou2U"
     },
     {
       "added_at": "2026-01-26 17:25:39",
@@ -487,18 +487,18 @@
     {
       "added_at": "2026-01-26 17:25:39",
       "album": {
-        "name": "In My Blood (Acoustic)",
-        "url": "https://open.spotify.com/album/7Hj0BDJ7shYnMRlzEpvVW7"
+        "name": "Anti-Hero (Acoustic Version)",
+        "url": "https://open.spotify.com/album/5vgWXUueeEU2labRz6TlNv"
       },
       "artists": [
         {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 212933,
-      "name": "In My Blood - Acoustic",
-      "url": "https://open.spotify.com/track/6Pce5yn5oOSDB6hZm8Ou2U"
+      "duration_ms": 196473,
+      "name": "Anti-Hero - Acoustic Version",
+      "url": "https://open.spotify.com/track/2d3d9xZutJjmUpntiyHt3F"
     },
     {
       "added_at": "2026-01-26 17:25:39",
@@ -535,22 +535,6 @@
     {
       "added_at": "2026-01-26 17:25:39",
       "album": {
-        "name": "Lavender Haze (Acoustic Version)",
-        "url": "https://open.spotify.com/album/6eKdbTio5viiwJ5FE5J8wU"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 174375,
-      "name": "Lavender Haze - Acoustic Version",
-      "url": "https://open.spotify.com/track/05kJkr80XEaZeN8kxyQoFp"
-    },
-    {
-      "added_at": "2026-01-26 17:25:39",
-      "album": {
         "name": "Payphone",
         "url": "https://open.spotify.com/album/50MkaMTSbHu9O2f4puTIiv"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 285902,
       "name": "I'll Be Seeing You",
       "url": "https://open.spotify.com/track/0yyFpden41F1GBOjst2KkZ"
+    },
+    {
+      "added_at": "2026-01-26 17:25:39",
+      "album": {
+        "name": "Lavender Haze (Acoustic Version)",
+        "url": "https://open.spotify.com/album/6eKdbTio5viiwJ5FE5J8wU"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 174375,
+      "name": "Lavender Haze - Acoustic Version",
+      "url": "https://open.spotify.com/track/05kJkr80XEaZeN8kxyQoFp"
     },
     {
       "added_at": "2026-01-26 17:25:39",
@@ -811,22 +811,6 @@
     {
       "added_at": "2026-01-26 17:25:39",
       "album": {
-        "name": "The Temple EP",
-        "url": "https://open.spotify.com/album/6mFi7ayKBXA3tz9ucQ9mb9"
-      },
-      "artists": [
-        {
-          "name": "Parson James",
-          "url": "https://open.spotify.com/artist/48sLioddyaXkuhyHXSkpsB"
-        }
-      ],
-      "duration_ms": 232379,
-      "name": "Waiting Game",
-      "url": "https://open.spotify.com/track/2qLCoKtnmGCzV8fqG6HeR6"
-    },
-    {
-      "added_at": "2026-01-26 17:25:39",
-      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/5ota1DtixKfUcrsiazzgcK"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 174373,
       "name": "Stay With Me - Live From Spotify Berlin",
       "url": "https://open.spotify.com/track/6itWAD2WxmAVQgWuk85yXx"
+    },
+    {
+      "added_at": "2026-01-26 17:25:39",
+      "album": {
+        "name": "The Temple EP",
+        "url": "https://open.spotify.com/album/6mFi7ayKBXA3tz9ucQ9mb9"
+      },
+      "artists": [
+        {
+          "name": "Parson James",
+          "url": "https://open.spotify.com/artist/48sLioddyaXkuhyHXSkpsB"
+        }
+      ],
+      "duration_ms": 232379,
+      "name": "Waiting Game",
+      "url": "https://open.spotify.com/track/2qLCoKtnmGCzV8fqG6HeR6"
     },
     {
       "added_at": "2026-01-26 17:25:39",
@@ -907,22 +907,6 @@
     {
       "added_at": "2026-01-26 17:25:39",
       "album": {
-        "name": "Rescue Me (Acoustic)",
-        "url": "https://open.spotify.com/album/4FKJzm7dX080AbyIJd6VKZ"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 164351,
-      "name": "Rescue Me - Acoustic",
-      "url": "https://open.spotify.com/track/3LS8Asffy5knMgZu4wrePz"
-    },
-    {
-      "added_at": "2026-01-26 17:25:39",
-      "album": {
         "name": "All My Broken Pieces",
         "url": "https://open.spotify.com/album/4sbMRC8gsLRdloSLdNlwif"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 242220,
       "name": "All My Broken Pieces",
       "url": "https://open.spotify.com/track/4VmFqEEqbLReGKJQhDl9c0"
+    },
+    {
+      "added_at": "2026-01-26 17:25:39",
+      "album": {
+        "name": "Rescue Me (Acoustic)",
+        "url": "https://open.spotify.com/album/4FKJzm7dX080AbyIJd6VKZ"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 164351,
+      "name": "Rescue Me - Acoustic",
+      "url": "https://open.spotify.com/track/3LS8Asffy5knMgZu4wrePz"
     },
     {
       "added_at": "2026-01-26 17:25:39",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2026-01-26 17:25:39",
       "album": {
-        "name": "Strange Trails",
-        "url": "https://open.spotify.com/album/1SUC3BzNqa5Kna2bZAsAK8"
-      },
-      "artists": [
-        {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
-        }
-      ],
-      "duration_ms": 208211,
-      "name": "The Night We Met",
-      "url": "https://open.spotify.com/track/6mORGLOz79w6VsCRLWYYuK"
-    },
-    {
-      "added_at": "2026-01-26 17:25:39",
-      "album": {
         "name": "Every Second Counts",
         "url": "https://open.spotify.com/album/5UdU4dmcRw1TG3oVZf9ZvT"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 232853,
       "name": "Hey There Delilah",
       "url": "https://open.spotify.com/track/0xM88xobymkMgg46MStfnV"
+    },
+    {
+      "added_at": "2026-01-26 17:25:39",
+      "album": {
+        "name": "Strange Trails",
+        "url": "https://open.spotify.com/album/1SUC3BzNqa5Kna2bZAsAK8"
+      },
+      "artists": [
+        {
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        }
+      ],
+      "duration_ms": 208211,
+      "name": "The Night We Met",
+      "url": "https://open.spotify.com/track/6mORGLOz79w6VsCRLWYYuK"
     },
     {
       "added_at": "2026-01-26 17:25:39",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2026-01-26 17:25:39",
       "album": {
-        "name": "First Impressions",
-        "url": "https://open.spotify.com/album/6ZPn3tnyLZAbgLFy3GSkqT"
-      },
-      "artists": [
-        {
-          "name": "James TW",
-          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
-        }
-      ],
-      "duration_ms": 216373,
-      "name": "When You Love Someone",
-      "url": "https://open.spotify.com/track/5fX2oPyLCe5mBKqGDbOWqC"
-    },
-    {
-      "added_at": "2026-01-26 17:25:39",
-      "album": {
         "name": "Hold My Girl (Acoustic Version)",
         "url": "https://open.spotify.com/album/5BCRmDymzplgBFTNWBYMj6"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 211715,
       "name": "Hold My Girl (Acoustic Version)",
       "url": "https://open.spotify.com/track/6jR6rBNVF9bHpvdNNqOjvg"
+    },
+    {
+      "added_at": "2026-01-26 17:25:39",
+      "album": {
+        "name": "First Impressions",
+        "url": "https://open.spotify.com/album/6ZPn3tnyLZAbgLFy3GSkqT"
+      },
+      "artists": [
+        {
+          "name": "James TW",
+          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
+        }
+      ],
+      "duration_ms": 216373,
+      "name": "When You Love Someone",
+      "url": "https://open.spotify.com/track/5fX2oPyLCe5mBKqGDbOWqC"
     },
     {
       "added_at": "2026-01-26 17:25:39",

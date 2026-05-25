@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2Vat2fAlBoK41CLxIW1DAB.md) - [plain]
 
 > 
 
-[Nitro Square](https://open.spotify.com/user/31axnmyfs3rzdpedj6kiuibxqy6a) - 1,593 likes - 1,004 songs - 2 day 15 hr 13 min
+[Nitro Square](https://open.spotify.com/user/31axnmyfs3rzdpedj6kiuibxqy6a) - 1,593 likes - 1,014 songs - 2 day 15 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1012,5 +1012,15 @@ pretty - [cumulative](/playlists/cumulative/2Vat2fAlBoK41CLxIW1DAB.md) - [plain]
 | 1002 | [Chameleon](https://open.spotify.com/track/3cHgPTTUVaXXuXPRjLFQvQ) | [Barny Holmes](https://open.spotify.com/artist/5VVqpAN9Tx5L60NOHqiMXi) | [Chameleon](https://open.spotify.com/album/1J2fR4ljSgbw9HJETIw0we) | 3:45 |
 | 1003 | [När kommer du hem till mig igen?](https://open.spotify.com/track/5KbhspQpwoUFChZhOh63zs) | [Going Big](https://open.spotify.com/artist/17zEnHkf1boWQ8Ll9yhysp) | [När kommer du hem till mig igen?](https://open.spotify.com/album/5LYBq6tfJhUqYertG0Dj7p) | 2:49 |
 | 1004 | [Galaxy Of Delights](https://open.spotify.com/track/1sHlpl3JBOzquWXye4KQ7j) | [Shayan Regan](https://open.spotify.com/artist/4MqBmgnfLeYmizJVpJz65k) | [Zero Hour: Genesis](https://open.spotify.com/album/4TRnRuOoJeCcsQNRTuLd2r) | 3:31 |
+| 1005 | [Escuro da Alma](https://open.spotify.com/track/0iOk7RAfkeunvWakadvF4L) | [Mil Faces](https://open.spotify.com/artist/478FpY2HAVJbQt0cGbb8JB) | [Escuro da Alma](https://open.spotify.com/album/5SPQgMncZGSoMB86BJcEkn) | 3:23 |
+| 1006 | [Drunk on Expectations](https://open.spotify.com/track/4i2M8BK7EBbkuZxn2CFcia) | [Amity Hayze](https://open.spotify.com/artist/5NMNo5sQFABJdY3jHH53wf) | [Drunk on Expectations](https://open.spotify.com/album/2y8QEB1F7eDQNYNmZhwEGz) | 2:57 |
+| 1007 | [Butterfly](https://open.spotify.com/track/6PeePM62VCME64vXtK9feK) | [Morwëna](https://open.spotify.com/artist/2vG7p8ihVMYrJibA9rhs6U) | [Morwëna](https://open.spotify.com/album/4yCcplnApHoEBASJXFOEbm) | 3:30 |
+| 1008 | [Abuse Me](https://open.spotify.com/track/6pXlghlS89h0rKaOTFV6MD) | [Noiz Ritual](https://open.spotify.com/artist/2RQ8ipqWpztVcqcT5iz0e6) | [Abuse Me](https://open.spotify.com/album/4mUsCsrkgTdmleGkxP8EH1) | 3:24 |
+| 1009 | [El Cauce](https://open.spotify.com/track/0IqQIvP5zJoD7rM5VigmL6) | [Optional Ganesh](https://open.spotify.com/artist/3hSejCXiZtx3chBHEwFsB5), [Rodrick Leite](https://open.spotify.com/artist/3l5mp6ljFSyV0bFYqxYCj8) | [El Cauce](https://open.spotify.com/album/0I8pgwBcfsAXK6VKtKc2z6) | 3:36 |
+| 1010 | [Sign Language](https://open.spotify.com/track/5yyqPxOBTO1thUhQOuwCtg) | [Black Halo](https://open.spotify.com/artist/2Vzqi1AZ8PcAt5Br2wGtjL) | [Utopia](https://open.spotify.com/album/0KeGc1yVXJ5qIqahtkkHEw) | 6:29 |
+| 1011 | [You Got the Feeling](https://open.spotify.com/track/4k6zhS7VG4AadaoJHpcb3k) | [The Steel](https://open.spotify.com/artist/0o8mtfGFaxEYBF5TtoVOGY) | [The Evolution of Love](https://open.spotify.com/album/3lal0yLRsw3QQ1PiuqN3aL) | 4:13 |
+| 1012 | [Trastorno Límite](https://open.spotify.com/track/2uPvmyFZ7mHiE23sbDddj1) | [Soporte 68](https://open.spotify.com/artist/7o3krkEDErKnl4s0D7JpSJ) | [Tras las Vías](https://open.spotify.com/album/2hQ1snLP14MEsk32QQXEA6) | 3:34 |
+| 1013 | [Out Of Control](https://open.spotify.com/track/1ASe0n6FmLqBKBsUttd1Qj) | [Plastic Mars](https://open.spotify.com/artist/0kytnNMCogQmGjxi273K0A) | [Out Of Control](https://open.spotify.com/album/1JmCXandNM9LP8I04nW29E) | 3:33 |
+| 1014 | [Callistoa's Odyssey](https://open.spotify.com/track/355OHsMp3zMrGNLe3mhpvQ) | [Shayan Regan](https://open.spotify.com/artist/4MqBmgnfLeYmizJVpJz65k) | [Zero Hour: Genesis](https://open.spotify.com/album/4TRnRuOoJeCcsQNRTuLd2r) | 4:04 |
 
-Snapshot ID: `AAAEEECV2ZLaVdZ12KMtBwXn8fNjkzlL`
+Snapshot ID: `AAAEHJvClsj8yccP6Tuta589lc+eRbUo`

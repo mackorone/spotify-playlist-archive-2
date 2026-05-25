@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4nbpc2ldpGh1THRHf14KsI">Finn Keane</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-86 songs - 4 hr 14 min
+87 songs - 4 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Precious](https://open.spotify.com/track/4PpurS5c7TgFOSAbw0Z6X2) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [TOTAL SELLOUT](https://open.spotify.com/album/1b4DpY9UqW2Sau2q0YH9pl) | 3:20 | 2026-01-22 |  |
 | [Punk](https://open.spotify.com/track/0tWjWVYAUOIDUEOhW8xTS1) | [Jalle](https://open.spotify.com/artist/3NiL0OfaA5v0eK59rJgAvB) | [I’m Sorry](https://open.spotify.com/album/1qm7E3fh18mC8VyagVrdVS) | 2:17 | 2025-01-17 |  |
 | [Reign](https://open.spotify.com/track/4OQJXtEezYsScUaWoQJWtf) | [Thy Slaughter](https://open.spotify.com/artist/4tXmMY3u0qbzec7aocHPPt), [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8), [Finn Keane](https://open.spotify.com/artist/2IRRnJ7AkcLnqMX8jvQqrW) | [Soft Rock](https://open.spotify.com/album/5lgqJ8vLfDGbL1AFHgj2o1) | 2:26 | 2025-01-17 |  |
+| [Rock Music](https://open.spotify.com/track/3cWQRSutAjP6PY3kPzgi2b) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Rock Music](https://open.spotify.com/album/1Ct1PzrmnTxWE8w0PTTa4w) | 1:55 | 2026-05-24 |  |
 | [Running Out](https://open.spotify.com/track/5QbaDpfGa06GNxSVNfmz4P) | [Finn Keane](https://open.spotify.com/artist/2IRRnJ7AkcLnqMX8jvQqrW) | [ACOUSTIC](https://open.spotify.com/album/6GaiPPXFiQrZ6mXs6BLGl5) | 3:24 | 2025-01-17 |  |
 | [Seeing Things](https://open.spotify.com/track/41UuruzhR2WLb917UbbcqS) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Wuthering Heights](https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e) | 2:30 | 2026-03-02 |  |
 | [Sentence](https://open.spotify.com/track/4tGtEGg2A20DKXGMZFpf0F) | [Thy Slaughter](https://open.spotify.com/artist/4tXmMY3u0qbzec7aocHPPt), [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8), [Finn Keane](https://open.spotify.com/artist/2IRRnJ7AkcLnqMX8jvQqrW) | [Soft Rock](https://open.spotify.com/album/5lgqJ8vLfDGbL1AFHgj2o1) | 2:23 | 2025-01-17 |  |
@@ -88,7 +89,7 @@
 | [THAT GIRL](https://open.spotify.com/track/6CxNuPyJT0eqePcocLEoHa) | [Bree Runway](https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w) | [THAT GIRL](https://open.spotify.com/album/3iShY0nkuliVn2PiAjySC2) | 2:07 | 2025-01-17 |  |
 | [They’re So Smart](https://open.spotify.com/track/5fZJZbIM6GWLmPZG2EcXxs) | [Finn Keane](https://open.spotify.com/artist/2IRRnJ7AkcLnqMX8jvQqrW) | [ACOUSTIC](https://open.spotify.com/album/6GaiPPXFiQrZ6mXs6BLGl5) | 2:29 | 2025-01-17 |  |
 | [Think Of Us](https://open.spotify.com/track/4jpNmNXMzO3aVgJhy8sdxL) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [Summertime Friends](https://open.spotify.com/album/06NJ4sxQJg1BiSGH9WkzRE) | 2:50 | 2025-01-17 |  |
-| [Von dutch](https://open.spotify.com/track/3Y1EvIgEVw51XtgNEgpz5c) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:44 | 2025-01-17 | 2026-05-24 |
+| [Von dutch](https://open.spotify.com/track/3Y1EvIgEVw51XtgNEgpz5c) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:44 | 2025-01-17 |  |
 | [Von dutch a\. g\. cook remix featuring addison rae](https://open.spotify.com/track/6nx4f2nVmFNWquoMtUrdYX) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP), [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/36P07bti6xD99o7S1acmin) | 2:37 | 2025-01-17 |  |
 | [Wall of Sound](https://open.spotify.com/track/4llQhQnQ0xKel20HqjZyMt) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Wuthering Heights](https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e) | 2:24 | 2026-02-16 |  |
 | [You for Me](https://open.spotify.com/track/0YYftFKuZmU06epZRCYuYO) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Every Cloud \- Silver Linings](https://open.spotify.com/album/6OU7EFtbj258KWnSd0SJFo) | 2:55 | 2025-01-17 |  |

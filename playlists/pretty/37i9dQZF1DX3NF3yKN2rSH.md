@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NF3yKN2rSH.md) - [plain]
 
 > New and classic Gospel songs to celebrate the Easter season.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,176 likes - 100 songs - 9 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,174 likes - 100 songs - 9 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NF3yKN2rSH.md) - [plain]
 | 63 | [Born To Die](https://open.spotify.com/track/5LhzfQIdF2E7WQvRQNH3TB) | [Hezekiah Walker](https://open.spotify.com/artist/0pXt4sMs2oRnt528LTYgyd), [The Love Fellowship Crusade Choir](https://open.spotify.com/artist/3xrX4BvsX5AqroXDkwVmw1) | [Verity Records: The First Decade, A Celebration Of Christmas](https://open.spotify.com/album/0nn0Wkf7YNHAZzgW0qirAx) | 4:50 |
 | 64 | [Mnini Mandla Onke](https://open.spotify.com/track/3iUoxbl0P0vhtzQwvYzpVb) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Mnini Mandla Onke](https://open.spotify.com/album/2xiGM8C7m3AAqUTfyBIT5Z) | 5:03 |
 | 65 | [Calvary](https://open.spotify.com/track/6VZNytD5nlpuLRV2btnA0w) | [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe), [Jo Deep](https://open.spotify.com/artist/6JmdRYb0w7KXprNnxUOj8o) | [Revival Is In The Air \(RIITA\)](https://open.spotify.com/album/0orflQml5JM4Qj6C1OttFB) | 4:32 |
-| 66 | [Calvary](https://open.spotify.com/track/2kUwyQh2FseRy8UgboN9T0) | [Richard Smallwood](https://open.spotify.com/artist/4WIRlLxuzmZciQ8JS2b3jP) | [Beginnings](https://open.spotify.com/album/1dWfCCgAXOSfOcyHEXbJYR) | 5:48 |
-| 67 | [He Proved His Love](https://open.spotify.com/track/4OMAO6F57zBkgyakZjscTl) | [Ron Winans](https://open.spotify.com/artist/67B5eSkw1ckwkAVi278b2s) | [Family & Friends Choir III](https://open.spotify.com/album/2HqJpxkdEf5FRDJsxkkZrj) | 5:25 |
+| 66 | [He Proved His Love](https://open.spotify.com/track/4OMAO6F57zBkgyakZjscTl) | [Ron Winans](https://open.spotify.com/artist/67B5eSkw1ckwkAVi278b2s) | [Family & Friends Choir III](https://open.spotify.com/album/2HqJpxkdEf5FRDJsxkkZrj) | 5:25 |
+| 67 | [Calvary](https://open.spotify.com/track/2kUwyQh2FseRy8UgboN9T0) | [Richard Smallwood](https://open.spotify.com/artist/4WIRlLxuzmZciQ8JS2b3jP) | [Beginnings](https://open.spotify.com/album/1dWfCCgAXOSfOcyHEXbJYR) | 5:48 |
 | 68 | [The Old Rugged Cross](https://open.spotify.com/track/5aDPMyBFhThZrjRJXrrGy7) | [Rev\. James Moore](https://open.spotify.com/artist/2r7fA3DrMO5JXl3uoOLkaN) | [Live In Detroit \(Live\)](https://open.spotify.com/album/0uKzIXtrSUvzRCFHSOv1vv) | 8:16 |
 | 69 | [I Know It Was the Blood](https://open.spotify.com/track/3OK5efpJzgvpqzgTsSvgaP) | [Deitrick Haddon](https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9) | [Sing A Nu Song](https://open.spotify.com/album/2Pq4TiBAMv0r7WD0DmMp6t) | 6:10 |
 | 70 | [God Is Not Dead](https://open.spotify.com/track/64u71Ii45f6Pa3BPwIvYul) | [Joshua's Troop](https://open.spotify.com/artist/4ejvtrRzhIaqGb7YhTLUsV) | [Joshua's Troop](https://open.spotify.com/album/3XYaQRnY5ha54xB4x2gbgT) | 5:11 |

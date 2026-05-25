@@ -1,12 +1,12 @@
 {
   "description": "This is BL\u00d8F. The essential tracks, all in one playlist.",
-  "num_followers": 94145,
+  "num_followers": 94146,
   "original_name": "This Is BL\u00d8F",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ag+cgAAAAACVsPrgOR+Zk7JUeHvBskNa",
+  "snapshot_id": "ahDuAAAAAAC+37C5rVYtrUdnm0bR27f1",
   "tracks": [
     {
       "added_at": null,
@@ -639,6 +639,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "April",
+        "url": "https://open.spotify.com/album/0UqJJtE2gbrSpmEJEn6ete"
+      },
+      "artists": [
+        {
+          "name": "BL\u00d8F",
+          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
+        }
+      ],
+      "duration_ms": 205080,
+      "name": "Vandaag",
+      "url": "https://open.spotify.com/track/5wHiVi4aj4J0fO8c4xB99G"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Radio Berlijn",
         "url": "https://open.spotify.com/album/5QjzQDyPWc4R9vM5L6Reqq"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 277053,
       "name": "Meer Kan Het Niet Zijn",
       "url": "https://open.spotify.com/track/0MJHuOJOkiNIGSXmch1z0l"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "April",
-        "url": "https://open.spotify.com/album/0UqJJtE2gbrSpmEJEn6ete"
-      },
-      "artists": [
-        {
-          "name": "BL\u00d8F",
-          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
-        }
-      ],
-      "duration_ms": 205080,
-      "name": "Vandaag",
-      "url": "https://open.spotify.com/track/5wHiVi4aj4J0fO8c4xB99G"
     },
     {
       "added_at": null,
@@ -707,22 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Omarm",
-        "url": "https://open.spotify.com/album/6oVjwkupd3MfWrNgH1pCKv"
-      },
-      "artists": [
-        {
-          "name": "BL\u00d8F",
-          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
-        }
-      ],
-      "duration_ms": 434680,
-      "name": "De Mooiste Verliezers",
-      "url": "https://open.spotify.com/track/3fLDw6PS213U606WPG0qn8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "April",
         "url": "https://open.spotify.com/album/0UqJJtE2gbrSpmEJEn6ete"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 210883,
       "name": "Midzomernacht",
       "url": "https://open.spotify.com/track/3TFsLvUmCf0f8gAs3BCuDo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Omarm",
+        "url": "https://open.spotify.com/album/6oVjwkupd3MfWrNgH1pCKv"
+      },
+      "artists": [
+        {
+          "name": "BL\u00d8F",
+          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
+        }
+      ],
+      "duration_ms": 434680,
+      "name": "De Mooiste Verliezers",
+      "url": "https://open.spotify.com/track/3fLDw6PS213U606WPG0qn8"
     },
     {
       "added_at": null,
@@ -779,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Grasbroek Sessies",
-        "url": "https://open.spotify.com/album/45dg5PNF7RTfYQxM0zgm9b"
-      },
-      "artists": [
-        {
-          "name": "BL\u00d8F",
-          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
-        }
-      ],
-      "duration_ms": 198826,
-      "name": "Vroeg of Laat",
-      "url": "https://open.spotify.com/track/408DiEYD84e2MvSs0FYaWf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Live op Concert at SEA 2015",
         "url": "https://open.spotify.com/album/1E2BoVBA043DwqPEdSWNsI"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 282866,
       "name": "Holiday In Spain (feat. Counting Crows) - Live op Concert at SEA 2015",
       "url": "https://open.spotify.com/track/1f3GoYVrEBNdrfNuxGpwQr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "De Grasbroek Sessies",
+        "url": "https://open.spotify.com/album/45dg5PNF7RTfYQxM0zgm9b"
+      },
+      "artists": [
+        {
+          "name": "BL\u00d8F",
+          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
+        }
+      ],
+      "duration_ms": 198826,
+      "name": "Vroeg of Laat",
+      "url": "https://open.spotify.com/track/408DiEYD84e2MvSs0FYaWf"
     },
     {
       "added_at": null,

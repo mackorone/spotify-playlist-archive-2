@@ -1,6 +1,6 @@
 {
   "description": "All the best new songs from the pop punk scene. Cover: Koyo",
-  "num_followers": 603408,
+  "num_followers": 603429,
   "original_name": "Pop Punk's Not Dead",
   "owner": {
     "name": "Spotify",
@@ -371,22 +371,6 @@
     {
       "added_at": "2026-05-09 04:00:04",
       "album": {
-        "name": "I Don\u2019t Think It\u2019s the Right Time for Emojis",
-        "url": "https://open.spotify.com/album/6UTpeoExGxb3SK82OsDOXV"
-      },
-      "artists": [
-        {
-          "name": "Hot Mulligan",
-          "url": "https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI"
-        }
-      ],
-      "duration_ms": 132400,
-      "name": "I Don\u2019t Think It\u2019s the Right Time for Emojis",
-      "url": "https://open.spotify.com/track/3fHEfRMc4AbKCENtLnbkse"
-    },
-    {
-      "added_at": "2026-05-09 04:00:04",
-      "album": {
         "name": "This Is Why",
         "url": "https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 204966,
       "name": "Figure 8",
       "url": "https://open.spotify.com/track/2Jb3hVkRFoiiwXYcELiBfC"
+    },
+    {
+      "added_at": "2026-05-09 04:00:04",
+      "album": {
+        "name": "I Don\u2019t Think It\u2019s the Right Time for Emojis",
+        "url": "https://open.spotify.com/album/6UTpeoExGxb3SK82OsDOXV"
+      },
+      "artists": [
+        {
+          "name": "Hot Mulligan",
+          "url": "https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI"
+        }
+      ],
+      "duration_ms": 132400,
+      "name": "I Don\u2019t Think It\u2019s the Right Time for Emojis",
+      "url": "https://open.spotify.com/track/3fHEfRMc4AbKCENtLnbkse"
     },
     {
       "added_at": "2026-05-09 04:00:04",
@@ -419,22 +419,6 @@
     {
       "added_at": "2026-05-09 04:00:04",
       "album": {
-        "name": "Go For Broke",
-        "url": "https://open.spotify.com/album/7lQDeso2WxVQ4RZFjxlMp7"
-      },
-      "artists": [
-        {
-          "name": "Knox",
-          "url": "https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX"
-        }
-      ],
-      "duration_ms": 170181,
-      "name": "Go For Broke",
-      "url": "https://open.spotify.com/track/3pVLl6PaU1IVVGt4aqFxg7"
-    },
-    {
-      "added_at": "2026-05-09 04:00:04",
-      "album": {
         "name": "Set It Off",
         "url": "https://open.spotify.com/album/28gwagtRnT8MlpgP6sMfNX"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 200841,
       "name": "Wolf In Sheep's Clothing [REBORN]",
       "url": "https://open.spotify.com/track/0mszqYzxUniJzEqXEXn1wh"
+    },
+    {
+      "added_at": "2026-05-09 04:00:04",
+      "album": {
+        "name": "Go For Broke",
+        "url": "https://open.spotify.com/album/7lQDeso2WxVQ4RZFjxlMp7"
+      },
+      "artists": [
+        {
+          "name": "Knox",
+          "url": "https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX"
+        }
+      ],
+      "duration_ms": 170181,
+      "name": "Go For Broke",
+      "url": "https://open.spotify.com/track/3pVLl6PaU1IVVGt4aqFxg7"
     },
     {
       "added_at": "2026-05-09 04:00:04",
@@ -723,22 +723,6 @@
     {
       "added_at": "2026-05-09 04:00:04",
       "album": {
-        "name": "Still There\u2019s a Glow",
-        "url": "https://open.spotify.com/album/6Xx2GugbRprNzLpleBpepd"
-      },
-      "artists": [
-        {
-          "name": "Sweet Pill",
-          "url": "https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa"
-        }
-      ],
-      "duration_ms": 168365,
-      "name": "Sunblind",
-      "url": "https://open.spotify.com/track/22dSB54PbIpU2mgGqYhCaT"
-    },
-    {
-      "added_at": "2026-05-09 04:00:04",
-      "album": {
         "name": "There's A Whole World Out There",
         "url": "https://open.spotify.com/album/6Z5Wqu7fduJ0GHt1JgCFQE"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 250172,
       "name": "Fatal Flaw",
       "url": "https://open.spotify.com/track/7iOmNAV74wgniReAH65opV"
+    },
+    {
+      "added_at": "2026-05-09 04:00:04",
+      "album": {
+        "name": "Still There\u2019s a Glow",
+        "url": "https://open.spotify.com/album/6Xx2GugbRprNzLpleBpepd"
+      },
+      "artists": [
+        {
+          "name": "Sweet Pill",
+          "url": "https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa"
+        }
+      ],
+      "duration_ms": 168365,
+      "name": "Sunblind",
+      "url": "https://open.spotify.com/track/22dSB54PbIpU2mgGqYhCaT"
     },
     {
       "added_at": "2026-05-09 04:00:04",
@@ -927,22 +927,6 @@
     {
       "added_at": "2026-05-09 04:00:04",
       "album": {
-        "name": "I Don't Wanna Go!",
-        "url": "https://open.spotify.com/album/11vz5r57TsCFxG5QGy0585"
-      },
-      "artists": [
-        {
-          "name": "Lina-Mariah",
-          "url": "https://open.spotify.com/artist/3oCoTG5YGC6Z8cqH942oav"
-        }
-      ],
-      "duration_ms": 159315,
-      "name": "I Don't Wanna Go!",
-      "url": "https://open.spotify.com/track/27FgGNuuHsFs84Gzhhs1x0"
-    },
-    {
-      "added_at": "2026-05-09 04:00:04",
-      "album": {
         "name": "Pick Your Poison",
         "url": "https://open.spotify.com/album/0UUc2qq43lHwDaRIy4y4zA"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 159151,
       "name": "Pick Your Poison",
       "url": "https://open.spotify.com/track/2wJSA9ujmuRvfnBq0dlokx"
+    },
+    {
+      "added_at": "2026-05-09 04:00:04",
+      "album": {
+        "name": "I Don't Wanna Go!",
+        "url": "https://open.spotify.com/album/11vz5r57TsCFxG5QGy0585"
+      },
+      "artists": [
+        {
+          "name": "Lina-Mariah",
+          "url": "https://open.spotify.com/artist/3oCoTG5YGC6Z8cqH942oav"
+        }
+      ],
+      "duration_ms": 159315,
+      "name": "I Don't Wanna Go!",
+      "url": "https://open.spotify.com/track/27FgGNuuHsFs84Gzhhs1x0"
     },
     {
       "added_at": "2026-05-09 04:00:04",
@@ -991,6 +991,22 @@
     {
       "added_at": "2026-05-09 04:00:04",
       "album": {
+        "name": "The Worst Thing I've Ever Done",
+        "url": "https://open.spotify.com/album/5DEDPreakXMEueOkLL3XbU"
+      },
+      "artists": [
+        {
+          "name": "Games We Play",
+          "url": "https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40"
+        }
+      ],
+      "duration_ms": 196608,
+      "name": "The Worst Thing I've Ever Done",
+      "url": "https://open.spotify.com/track/0VUkY6Uga7OmNWxcfyjAvj"
+    },
+    {
+      "added_at": "2026-05-09 04:00:04",
+      "album": {
         "name": "Bexy",
         "url": "https://open.spotify.com/album/3UY7suuL86SR3nx5aJziXV"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 168552,
       "name": "Whatever",
       "url": "https://open.spotify.com/track/3wUqbA1hc4bu2R0KiM0TTi"
-    },
-    {
-      "added_at": "2026-05-09 04:00:04",
-      "album": {
-        "name": "The Worst Thing I've Ever Done",
-        "url": "https://open.spotify.com/album/5DEDPreakXMEueOkLL3XbU"
-      },
-      "artists": [
-        {
-          "name": "Games We Play",
-          "url": "https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40"
-        }
-      ],
-      "duration_ms": 196608,
-      "name": "The Worst Thing I've Ever Done",
-      "url": "https://open.spotify.com/track/0VUkY6Uga7OmNWxcfyjAvj"
     },
     {
       "added_at": "2026-05-09 04:00:04",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2026-05-09 04:00:04",
       "album": {
-        "name": "Oxy Moron",
-        "url": "https://open.spotify.com/album/3lVC4YhcGK3nmktbvCTts6"
-      },
-      "artists": [
-        {
-          "name": "Cartel",
-          "url": "https://open.spotify.com/artist/6wQMF27xWhSyJFnO9L5mQk"
-        }
-      ],
-      "duration_ms": 246433,
-      "name": "Oxy Moron",
-      "url": "https://open.spotify.com/track/3JTy5HftSASB9yTXwoRTAn"
-    },
-    {
-      "added_at": "2026-05-09 04:00:04",
-      "album": {
         "name": "Sad",
         "url": "https://open.spotify.com/album/7AglGpevhw3sJGjgYKVgW9"
       },
@@ -1175,26 +1159,18 @@
     {
       "added_at": "2026-05-09 04:00:04",
       "album": {
-        "name": "Burst & Decay (Volume III)",
-        "url": "https://open.spotify.com/album/11W6aNHzzqbf5McbVF9eex"
+        "name": "Oxy Moron",
+        "url": "https://open.spotify.com/album/3lVC4YhcGK3nmktbvCTts6"
       },
       "artists": [
         {
-          "name": "The Wonder Years",
-          "url": "https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K"
-        },
-        {
-          "name": "Origami Angel",
-          "url": "https://open.spotify.com/artist/0cmSXx965Hnm6fP42oW6vY"
-        },
-        {
-          "name": "Little Kruta",
-          "url": "https://open.spotify.com/artist/4l8UYHbQb1jHjm7evMT1Oe"
+          "name": "Cartel",
+          "url": "https://open.spotify.com/artist/6wQMF27xWhSyJFnO9L5mQk"
         }
       ],
-      "duration_ms": 233040,
-      "name": "I Don't Like Who I Was Then (feat. Ryland Heagy of Origami Angel)",
-      "url": "https://open.spotify.com/track/0htUcqJJfwYWFhb4W8T7M2"
+      "duration_ms": 246433,
+      "name": "Oxy Moron",
+      "url": "https://open.spotify.com/track/3JTy5HftSASB9yTXwoRTAn"
     },
     {
       "added_at": "2026-05-09 04:00:04",
@@ -1215,6 +1191,30 @@
       "duration_ms": 173842,
       "name": "77 - feat. Avril Lavigne",
       "url": "https://open.spotify.com/track/6cEG5stzTtXrrCLgWKYV6j"
+    },
+    {
+      "added_at": "2026-05-09 04:00:04",
+      "album": {
+        "name": "Burst & Decay (Volume III)",
+        "url": "https://open.spotify.com/album/11W6aNHzzqbf5McbVF9eex"
+      },
+      "artists": [
+        {
+          "name": "The Wonder Years",
+          "url": "https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K"
+        },
+        {
+          "name": "Origami Angel",
+          "url": "https://open.spotify.com/artist/0cmSXx965Hnm6fP42oW6vY"
+        },
+        {
+          "name": "Little Kruta",
+          "url": "https://open.spotify.com/artist/4l8UYHbQb1jHjm7evMT1Oe"
+        }
+      ],
+      "duration_ms": 233040,
+      "name": "I Don't Like Who I Was Then (feat. Ryland Heagy of Origami Angel)",
+      "url": "https://open.spotify.com/track/0htUcqJJfwYWFhb4W8T7M2"
     },
     {
       "added_at": "2026-05-09 04:00:04",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2026-05-09 04:00:04",
       "album": {
+        "name": "oxygen.",
+        "url": "https://open.spotify.com/album/7qNk0bAQVJOWegN9uUCII9"
+      },
+      "artists": [
+        {
+          "name": "OUT IN FRONT",
+          "url": "https://open.spotify.com/artist/7s6QINQAMIPJtlAK4lrKdx"
+        }
+      ],
+      "duration_ms": 168472,
+      "name": "oxygen.",
+      "url": "https://open.spotify.com/track/1ljRD49oOvvX8TFCvGSJY8"
+    },
+    {
+      "added_at": "2026-05-09 04:00:04",
+      "album": {
         "name": "Not The Doctor ('Mile End Kicks' - Music Inspired by the Motion Picture)",
         "url": "https://open.spotify.com/album/4W622Tk0Epvc3bSZXtPN42"
       },
@@ -1315,22 +1331,6 @@
       "duration_ms": 222550,
       "name": "Not The Doctor ('Mile End Kicks' - Music Inspired by the Motion Picture)",
       "url": "https://open.spotify.com/track/49uuAUIKXWeG4e8xStGKEB"
-    },
-    {
-      "added_at": "2026-05-09 04:00:04",
-      "album": {
-        "name": "oxygen.",
-        "url": "https://open.spotify.com/album/7qNk0bAQVJOWegN9uUCII9"
-      },
-      "artists": [
-        {
-          "name": "OUT IN FRONT",
-          "url": "https://open.spotify.com/artist/7s6QINQAMIPJtlAK4lrKdx"
-        }
-      ],
-      "duration_ms": 168472,
-      "name": "oxygen.",
-      "url": "https://open.spotify.com/track/1ljRD49oOvvX8TFCvGSJY8"
     }
   ],
   "unique_name": "Pop Punk's Not Dead",

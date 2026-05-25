@@ -4,7 +4,7 @@
 
 > e don cast
 
-295 songs - 15 hr 3 min
+296 songs - 15 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Baby I'm Jealous](https://open.spotify.com/track/5lAOltJO0aw2FUP5Use4cD) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [emPawa Africa](https://open.spotify.com/artist/4lJlIZfH7NKzwWizTDuYmN), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [One Day You Will Understand](https://open.spotify.com/album/6Z22tsn1nyT9CmcTZa8ZEC) | 2:30 | 2022-02-11 | 2024-06-21 |
 | [Baby I'm Still Jealous](https://open.spotify.com/track/7CXSw6Gifu5xrPQwW3zxSp) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [See What We've Done](https://open.spotify.com/album/7t2OiJ1lU1nvmdHB1oOf0d) | 1:50 | 2026-04-17 | 2026-05-22 |
 | [Back To You](https://open.spotify.com/track/3CyrVEkcaJdSh8cM8IcRdD) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Back To You](https://open.spotify.com/album/5fVmQPX1qAqAq42Sl3ho89) | 3:30 | 2024-10-25 | 2026-05-22 |
+| [BAD GIRL](https://open.spotify.com/track/5zQZDxmfSGutv2RG1x57Xb) | [Mckay](https://open.spotify.com/artist/25HwdWPhsQyAgTcOy4IW71) | [BAD GIRL](https://open.spotify.com/album/1R2WMCImWOIUOqh599TORo) | 2:46 | 2026-05-22 |  |
 | [Bad Influence](https://open.spotify.com/track/2c00DlvpzthGKcyXpe5GHa) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Bad Influence](https://open.spotify.com/album/6rgGPAYSh9ViRtQG2zSJLy) | 2:18 | 2024-03-05 | 2024-04-19 |
 | [Bad Influence](https://open.spotify.com/track/6DFM9BKkKDGHoGoavIPV3c) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Get Layd](https://open.spotify.com/album/1WtsIAJMX3vtk7Gjpftyyu) | 2:18 | 2024-04-19 | 2024-06-07 |
 | [Bad To Me](https://open.spotify.com/track/2pUlBBWq8R10ylbBvZJV9j) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Bad To Me](https://open.spotify.com/album/15hz0gTEdD5H9taOgDdrfJ) | 2:56 | 2022-09-19 |  |
@@ -88,7 +89,7 @@
 | [EX BOYFRIEND](https://open.spotify.com/track/3pcITc6cPAvj5JtOnXiB1X) | [Raybekah](https://open.spotify.com/artist/0SwPkNmxB2YGHWVJMI8kpW) | [EX BOYFRIEND](https://open.spotify.com/album/1OVZQ2AGHb6fQM0CFAviQq) | 2:14 | 2022-06-30 | 2026-05-15 |
 | [Eyes Dried Over \(feat\. Tom Walker\)](https://open.spotify.com/track/5ApdHdkOmIGoEBIjvdA2Cp) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [True To Self \(Deluxe\)](https://open.spotify.com/album/0FKIhRZXxjDsxccQLiUlbz) | 2:44 | 2024-12-16 | 2025-03-21 |
 | [Feel Different](https://open.spotify.com/track/0nTgtjFQzLhvU3VLciMPlN) | [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Maleek Berry](https://open.spotify.com/artist/520qA5VGL9iI0SbmEnTVNg) | [Feel Different](https://open.spotify.com/album/3WkYJGUSNOTvGoe4YkIVjM) | 2:59 | 2023-06-09 | 2026-05-15 |
-| [Fire Wood](https://open.spotify.com/track/4z7OibjcVz9QvNEYywHynf) | [Sholz](https://open.spotify.com/artist/3DcibggJwwufI8QNBYnq67), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Valentino Rose](https://open.spotify.com/artist/0qIB4W2DllGjdIdeDK4l8t) | [Breakfast in Lagos](https://open.spotify.com/album/2DW4TpRD2uABgICIMdiB5u) | 2:21 | 2024-01-08 |  |
+| [Fire Wood](https://open.spotify.com/track/4z7OibjcVz9QvNEYywHynf) | [Sholz](https://open.spotify.com/artist/3DcibggJwwufI8QNBYnq67), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Valentino Rose](https://open.spotify.com/artist/0qIB4W2DllGjdIdeDK4l8t) | [Breakfast in Lagos](https://open.spotify.com/album/2DW4TpRD2uABgICIMdiB5u) | 2:21 | 2024-01-08 | 2026-05-25 |
 | [Fool Me Once](https://open.spotify.com/track/2MGB1GwWIX0MZMvy5eGFOi) | [Joyce Olong](https://open.spotify.com/artist/60SeWhyUgLfPOiRnZwrzVj) | [Fool Me Once](https://open.spotify.com/album/2KEKoEZzlzfhlkS4SkM3NX) | 3:53 | 2025-04-18 | 2025-10-09 |
 | [For Days](https://open.spotify.com/track/7sSpKoxxtecQry1wxVmpIz) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [For Days](https://open.spotify.com/album/0B2ciZrwX6zv2ADSniu4i2) | 2:44 | 2024-03-05 |  |
 | [Forgiveness](https://open.spotify.com/track/07OJogL5UIkQJSMsrheV8S) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Forgiveness](https://open.spotify.com/album/0M6PAfVvTAVT9uUtYDiOd9) | 3:20 | 2024-10-18 | 2025-02-22 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVH0qr6kxbHI.md) - [plain]
 
 > Canciones inmortales, sentimientos a flor de piel y figuras gigantescas de nuestra música\. Foto: Rocío Jurado
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,782 likes - 75 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,803 likes - 75 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVH0qr6kxbHI.md) - [plain]
 | 20 | [Como Yo Te Amo \- Remasterizado](https://open.spotify.com/track/3pBmaSZCoLF0drPRuf85O5) | [Rocío Jurado](https://open.spotify.com/artist/1FlYevYLENR3IMgMlnMvf9) | [Canciones Entrañables \(Remasterizado\)](https://open.spotify.com/album/5w7W7a6Khy2SK7WHVcnBoV) | 4:40 |
 | 21 | [Cómo Quieres Que Te Quiera](https://open.spotify.com/track/6jAs8GeDUmnr6l7u1HU2zB) | [Rosario](https://open.spotify.com/artist/05xSLrRgGwm2nCH2SmnNMW) | [Muchas Flores](https://open.spotify.com/album/5sQsi6UbT9nYh72ziLRivg) | 4:27 |
 | 22 | [Sarandonga](https://open.spotify.com/track/2zNDRGoRkNEkMhO5fcGTMv) | [Lolita](https://open.spotify.com/artist/1Jl0XzEt7csnco2FUybCrK) | [Lola Lolita Lola](https://open.spotify.com/album/4NLreQcjpcQESB7yvGU8RY) | 4:00 |
-| 23 | [Te amaré, te amo, y te querré](https://open.spotify.com/track/7niuvgIISf1vGrnh00cVuQ) | [Mari Trini](https://open.spotify.com/artist/0CVHw8AAgA5brxfblp1lsQ) | [Oraciones de amor](https://open.spotify.com/album/7LO9wG4cG5xUNC01xUVwdg) | 4:41 |
-| 24 | [Se acabó](https://open.spotify.com/track/7pIfwKV8EOPmJlConSHk2E) | [María Jiménez](https://open.spotify.com/artist/3xg8yTZPuoRF0uFGl1O0FS) | [Se acabo](https://open.spotify.com/album/4UoCMapaoydM9D71jdg9Hn) | 3:02 |
+| 23 | [Se acabó](https://open.spotify.com/track/7pIfwKV8EOPmJlConSHk2E) | [María Jiménez](https://open.spotify.com/artist/3xg8yTZPuoRF0uFGl1O0FS) | [Se acabo](https://open.spotify.com/album/4UoCMapaoydM9D71jdg9Hn) | 3:02 |
+| 24 | [Te amaré, te amo, y te querré](https://open.spotify.com/track/7niuvgIISf1vGrnh00cVuQ) | [Mari Trini](https://open.spotify.com/artist/0CVHw8AAgA5brxfblp1lsQ) | [Oraciones de amor](https://open.spotify.com/album/7LO9wG4cG5xUNC01xUVwdg) | 4:41 |
 | 25 | [Juntos](https://open.spotify.com/track/7jK3BKP4SDY3MGHKgbGcp9) | [Paloma San Basilio](https://open.spotify.com/artist/1QcwtcwAClkmeaVofZ4zUn) | [Ahora](https://open.spotify.com/album/03jfAsOja8CyyOmPgOqzNe) | 4:21 |
 | 26 | [Cuando Te Beso](https://open.spotify.com/track/5XqlTeL5oyxqSJsD6D7XVP) | [Niña Pastori](https://open.spotify.com/artist/6UelqIK8qwhWFc2f6nSEh8) | [La Orilla de Mi Pelo](https://open.spotify.com/album/6NtCvKJZsZG1QqCJVMeOhy) | 3:35 |
 | 27 | [Marinero de Luces](https://open.spotify.com/track/24UBqV1xJwNUns7nJVIbDu) | [Isabel Pantoja](https://open.spotify.com/artist/0G2qO3Wbj6WmCTFgcsJ1Eo) | [Marinero De Luces](https://open.spotify.com/album/6GaZ5DXUNwP3hcOybqht3w) | 3:02 |
@@ -72,9 +72,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVH0qr6kxbHI.md) - [plain]
 | 62 | [Baladilla De Los Tres Ríos](https://open.spotify.com/track/4LExk9S2etjsOKYQnipaar) | [Pasión Vega](https://open.spotify.com/artist/1SP2KiLZvq07zY1KUoZ3ey) | [Baladilla De Los Tres Ríos](https://open.spotify.com/album/1i9rCl0H6r9v33Bo2LV5lh) | 3:12 |
 | 63 | [La Violetera](https://open.spotify.com/track/63OP6ToFMyPZJ8TFC0fm24) | [Sara Montiel](https://open.spotify.com/artist/4wQ4PEx8pDp2f0wpsvaSDF), [Juan Quintero](https://open.spotify.com/artist/3No5HqLrMqJbmpJ1nUjUiM), [Greg Segura](https://open.spotify.com/artist/6c56bTIooYywJzaP8tURJ7) | [La Violetera \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/40w3Abk3i32h9Mylnn6Vrp) | 3:45 |
 | 64 | [El Talismán](https://open.spotify.com/track/2DY2ZBvw0YK4fha1Ou5zNv) | [Sole Gimenez](https://open.spotify.com/artist/56FObtReljLqgs2bgQ0kZS) | [Mujeres de Música](https://open.spotify.com/album/3R5uLGZ1DpE9HqG7Vgcoim) | 4:03 |
-| 65 | [A Tu Vera](https://open.spotify.com/track/4awJGQ6TIS542X4XS7PWu7) | [Lola Flores](https://open.spotify.com/artist/1ZcvF2meiXi5UPDJWxrKR5) | [La Inimitable](https://open.spotify.com/album/1XgissTsraQasZKaNzxWvZ) | 3:28 |
-| 66 | [HEY](https://open.spotify.com/track/1XxRrTL5TWbR5kuY5RB0Ck) | [Tamara Jerez](https://open.spotify.com/artist/2FPHGOUBcRzwPfXwqt3Ie7) | [HEY](https://open.spotify.com/album/7EP44d7bse5iPx1xv3LWK9) | 4:43 |
-| 67 | [Amigo Conductor](https://open.spotify.com/track/27m6FU6uMMmrhiOwgIQAjh) | [Perlita de Huelva](https://open.spotify.com/artist/5zTPEWVkwm8Bl7ORmaPyyk) | [Amigo Conductor](https://open.spotify.com/album/3o56rtilWI16b1gFSKK1Ub) | 3:33 |
+| 65 | [Amigo Conductor](https://open.spotify.com/track/27m6FU6uMMmrhiOwgIQAjh) | [Perlita de Huelva](https://open.spotify.com/artist/5zTPEWVkwm8Bl7ORmaPyyk) | [Amigo Conductor](https://open.spotify.com/album/3o56rtilWI16b1gFSKK1Ub) | 3:33 |
+| 66 | [A Tu Vera](https://open.spotify.com/track/4awJGQ6TIS542X4XS7PWu7) | [Lola Flores](https://open.spotify.com/artist/1ZcvF2meiXi5UPDJWxrKR5) | [La Inimitable](https://open.spotify.com/album/1XgissTsraQasZKaNzxWvZ) | 3:28 |
+| 67 | [HEY](https://open.spotify.com/track/1XxRrTL5TWbR5kuY5RB0Ck) | [Tamara Jerez](https://open.spotify.com/artist/2FPHGOUBcRzwPfXwqt3Ie7) | [HEY](https://open.spotify.com/album/7EP44d7bse5iPx1xv3LWK9) | 4:43 |
 | 68 | [Atrévete Otra Vez](https://open.spotify.com/track/0pSE8F90YFpOFeUM4jzWCc) | [Sara Montiel](https://open.spotify.com/artist/4wQ4PEx8pDp2f0wpsvaSDF) | [Purísimo Sara](https://open.spotify.com/album/4DA9Khggt2SPrKLYHGYOQm) | 4:27 |
 | 69 | [Ponte la Mano en el Pecho](https://open.spotify.com/track/5R9D7LIue9bA2acd75Tfuv) | [María Jiménez](https://open.spotify.com/artist/3xg8yTZPuoRF0uFGl1O0FS) | [Decálogo \(Sus 10 Mayores Éxitos\)](https://open.spotify.com/album/1hCgERvuup6uAg45GpwrL7) | 3:31 |
 | 70 | [Cántame](https://open.spotify.com/track/6p78Dg7LQNMwkVMj0O1Xso) | [Maria Del Monte](https://open.spotify.com/artist/1WUrbWXyKy3FNdiLuRhlwW) | [Mis Mejores Canciones, Vol\. I](https://open.spotify.com/album/7wnuSmCov535RfdpKzDENF) | 4:01 |

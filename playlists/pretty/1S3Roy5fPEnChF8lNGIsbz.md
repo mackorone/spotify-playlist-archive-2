@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1S3Roy5fPEnChF8lNGIsbz.md) - [plain]
 
 > 
 
-[Glitch&Gold Magazine](https://open.spotify.com/user/31jnz6gb3osfynb3qtvugfnc6syq) - 905 likes - 4 songs - 19 min 11 sec
+[Glitch&Gold Magazine](https://open.spotify.com/user/31jnz6gb3osfynb3qtvugfnc6syq) - 906 likes - 4 songs - 19 min 11 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,4 +13,4 @@ pretty - [cumulative](/playlists/cumulative/1S3Roy5fPEnChF8lNGIsbz.md) - [plain]
 | 3 | [Broken Man](https://open.spotify.com/track/3Wyyc0MckP2OB99DSse1Ca) | [Matt Andersen](https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5) | [Something In Between](https://open.spotify.com/album/2N6ChanFjgXlob2MVfNESv) | 3:33 |
 | 4 | [Crossroad](https://open.spotify.com/track/0Ox96DaSeLbMpyJNSLcPOj) | [Calvin Russell](https://open.spotify.com/artist/0CxkJJXf9zMpnszEvhSNmL) | [Sounds from the fourth world](https://open.spotify.com/album/2AOggDP8vFTn6mXEH8F3yQ) | 7:30 |
 
-Snapshot ID: `AAAI+093c69I7lK3QZnI+ZDl1yrZsPu/`
+Snapshot ID: `AAAI/SQZgnhS2F+uIyTnhlRmlCr/LRbl`

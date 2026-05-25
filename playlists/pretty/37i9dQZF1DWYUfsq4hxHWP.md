@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 
 > Fresh country music by independent artists every Wednesday\. Cover: Dear Tommie, Artwork: Fanélie Muselier
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,963 likes - 73 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,032 likes - 73 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

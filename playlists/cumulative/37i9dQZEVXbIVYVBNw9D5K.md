@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-1,548 songs - 3 day 5 hr 54 min
+1,549 songs - 3 day 5 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -327,7 +327,7 @@
 | [Bu Son Olsun](https://open.spotify.com/track/5QfhqYAS8wmNnvFuOgLNRs) | [Cem Karaca](https://open.spotify.com/artist/1lIbZfJvMQRqzhtCQsg5EI) | [Bu Son Olsun](https://open.spotify.com/album/30oGctq0ESNTuT5zX5SYfp) | 2:46 | 2021-08-27 | 2022-03-02 |
 | [Bu Yaz](https://open.spotify.com/track/5R4IMqppkpo0rBBHja7j7J) | [Bahadır Tatlıöz](https://open.spotify.com/artist/2cJHtXWQuFgxQ0GkpE7dNR) | [Bu Yaz](https://open.spotify.com/album/7fegHq2yToExda8Z6Ds37N) | 3:02 | 2025-06-04 | 2025-06-26 |
 | [Bu Yüzden](https://open.spotify.com/track/4EstSHM71cWOVCvIG4pTVB) | [Güncel Gürsel Artıktay](https://open.spotify.com/artist/0zG7sxSKeAruWiPCDGiKS1) | [Bekliyorum, Öyleyse Yoksun](https://open.spotify.com/album/3qCFtgdLIDnmPldKDWbhXL) | 4:21 | 2021-05-10 | 2021-05-19 |
-| [Bu Yüzden](https://open.spotify.com/track/7ARNzfrqpURb3Era5uY7rX) | [Hande Yener](https://open.spotify.com/artist/08mjMUUjyTchMHCW7evc3R) | [Aşk Kadın Ruhundan Anlamıyor](https://open.spotify.com/album/0co4E8uXbdpyFIBnId7Naa) | 3:25 | 2026-05-19 |  |
+| [Bu Yüzden](https://open.spotify.com/track/7ARNzfrqpURb3Era5uY7rX) | [Hande Yener](https://open.spotify.com/artist/08mjMUUjyTchMHCW7evc3R) | [Aşk Kadın Ruhundan Anlamıyor](https://open.spotify.com/album/0co4E8uXbdpyFIBnId7Naa) | 3:25 | 2026-05-19 | 2026-05-25 |
 | [Bul Beni](https://open.spotify.com/track/1riBwVUqVsk5RGJ9iLN8cG) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Bul Beni](https://open.spotify.com/album/79oroEdFGvT0h2a3QH9KEk) | 2:34 | 2021-07-04 | 2022-03-01 |
 | [Bulamazdım](https://open.spotify.com/track/7Cj6NfRguxo57WTRjtKfV7) | [Faruk Sabanci](https://open.spotify.com/artist/7nPbrzSt1apQM9rY5DVqQZ), [Norm Ender](https://open.spotify.com/artist/3S6gaE89XewFAvZqsMuJDJ) | [Bulamazdım](https://open.spotify.com/album/0YsZjSFLSY1fj2P4evAcZY) | 2:45 | 2021-05-16 | 2021-06-27 |
 | [Bulamazsın](https://open.spotify.com/track/3MBxOQ98vv9szf1s3DOY0n) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Bulamazsın](https://open.spotify.com/album/4SgjgMKovidKmdAYsxSUEm) | 2:35 | 2025-04-26 | 2025-06-08 |
@@ -584,6 +584,7 @@
 | [Geççek](https://open.spotify.com/track/7qT1uoiwvXEHSjaiHbw0n1) | [Tarkan](https://open.spotify.com/artist/2yMN0IP20GOaN6q0p0zL5k) | [Geççek](https://open.spotify.com/album/7vbykiNDCY72e48gKcNsf4) | 3:14 | 2022-02-18 | 2023-05-17 |
 | [Ghetto](https://open.spotify.com/track/1AU0gqFQ1sWXT2c84yBDvw) | [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3) | [Ghetto](https://open.spotify.com/album/2pERxA6Rq3GWyRkT71DEPF) | 2:42 | 2021-11-14 | 2021-12-02 |
 | [Gibi](https://open.spotify.com/track/77zviObPi2tu9F5JvwwLAq) | [Keskin](https://open.spotify.com/artist/76gCQtIoyzxs0HDKIyQC66) | [Gibi](https://open.spotify.com/album/76JYUj6Tp6mHJwmknYgIYW) | 2:53 | 2026-03-14 | 2026-03-18 |
+| [Gidenlerden \- Mustafa Sandal Saygı 1](https://open.spotify.com/track/4OtrYpdRaOpB9xgaKKbIKc) | [Melek Mosso](https://open.spotify.com/artist/5IAxUWLiTMsvc1oWPrczNj), [Mustafa Sandal](https://open.spotify.com/artist/0mkH5jj3goQ51JtPKVodTo) | [Gidenlerden \(Mustafa Sandal Saygı 1\)](https://open.spotify.com/album/6DTMzTVNsImy4lsywTdTJ3) | 3:22 | 2026-05-24 |  |
 | [git](https://open.spotify.com/track/1RwVkonL4anIGeNZo0OPp1) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [Virtüöz](https://open.spotify.com/album/2FClckZh5zvtW9vjKbc5bZ) | 2:38 | 2025-07-19 | 2026-05-02 |
 | [Gitme](https://open.spotify.com/track/4Sng3wnol2Gb2yXgFdr9lj) | [Dolu Kadehi Ters Tut](https://open.spotify.com/artist/0PhqM7UAxtvWYi5j4MwxSl), [Sedef Sebüktekin](https://open.spotify.com/artist/1dvuibBCx9TnbCKIdOEF4l) | [Karanlık](https://open.spotify.com/album/6XQYptMz07Qqlcj6FthKpS) | 3:27 | 2021-11-02 | 2025-11-10 |
 | [Gitme](https://open.spotify.com/track/42boV2FGsztYnQMAeoAjb6) | [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [Gitme](https://open.spotify.com/album/2PbxeqlKK3G3MzRCJbBnVW) | 2:50 | 2023-09-10 | 2024-05-03 |

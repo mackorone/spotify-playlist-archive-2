@@ -4,7 +4,7 @@
 
 > 
 
-3,056 songs - 6 day 13 hr 48 min
+3,058 songs - 6 day 13 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -569,6 +569,7 @@
 | [Cupid](https://open.spotify.com/track/5H79VdIzJcH0EiDnp31Q8E) | [RiraN](https://open.spotify.com/artist/4TNYuh9JZdMQgkrLl6d5U2), [まるもこ](https://open.spotify.com/artist/2pruHeEpdprFAPsOpM7A9m) | [Cupid](https://open.spotify.com/album/5v0iXRnLn32ORC73sWB5au) | 2:15 | 2025-09-26 |  |
 | [Cupid \- Hardstyle Mix](https://open.spotify.com/track/179bBZ35CMHbuYbFXdahL5) | [Inquisitive](https://open.spotify.com/artist/6K4XQXfV7Gill2ULeRu6fw), [Shirina](https://open.spotify.com/artist/7kCdcgzkZC4E78Xgv3Re8I) | [Cupid \(Hardstyle Mix\)](https://open.spotify.com/album/6YxqKLRphopiR3IlirRPZS) | 2:07 | 2023-11-13 |  |
 | [Cyaegha \[feat\. Laur\] \- Laur Remix](https://open.spotify.com/track/64a9a6WHMZI8qCegkXfkB5) | [USAO](https://open.spotify.com/artist/25iPl8VJFDu38JMFF6uMXI), [Laur](https://open.spotify.com/artist/5fxJUmn4RTMzD0XPkTUpK3) | [XTREME](https://open.spotify.com/album/0ng8yv4WB9DP5W6xRmMLaE) | 2:59 | 2022-08-11 |  |
+| [Cyber War](https://open.spotify.com/track/460oWKJs8r3u08ZbwndzbU) | [Cyber Gunz](https://open.spotify.com/artist/3KWdlsF1TJIys0XwnpbiOr) | [Cyber War](https://open.spotify.com/album/6s0SZMQ3plk02FvwNO5dWF) | 3:11 | 2026-05-24 |  |
 | [Cybernetics DOGMA](https://open.spotify.com/track/38wU4VkOBApPtclc462B1N) | [DJ Genki](https://open.spotify.com/artist/787mj6iFvEpBBuQQRDdMXB) | [Cybernetics DOGMA](https://open.spotify.com/album/2DUEaHo0eY9xHuzRu7OXz1) | 3:48 | 2023-03-30 |  |
 | [Cyberself](https://open.spotify.com/track/4bFcJS4NNuI4bzTjivLNYH) | [Anderex](https://open.spotify.com/artist/7wXBtpPB5GFddtz9OeBlPW), [Mutilator](https://open.spotify.com/artist/3AkGIMk9xwDj4A5ttNBPiN) | [Cyberself](https://open.spotify.com/album/2Gr98DOReLkCV6w7jhGT4a) | 3:22 | 2023-06-02 |  |
 | [Cyclops](https://open.spotify.com/track/71J6W6Jgc3WlN4TDrqARBy) | [USAO](https://open.spotify.com/artist/25iPl8VJFDu38JMFF6uMXI) | [Kick's For Liberation 7](https://open.spotify.com/album/5xOr34N3SqxVt3Yh8LjQ8D) | 3:25 | 2022-11-29 |  |
@@ -776,7 +777,7 @@
 | [Ease My Mind \(Barber Remix\)](https://open.spotify.com/track/24H7fAmZTQK0k1qqBQS91H) | [Juliëx](https://open.spotify.com/artist/3RTCQDInBbA9wEuRrhRLTq), [Sjammienators](https://open.spotify.com/artist/2gRSrXu8APvASvSMZK1hO2), [Barber](https://open.spotify.com/artist/55yd56lRrN815OEFUOrC1W) | [A New Beginning](https://open.spotify.com/album/43iVtS44j58pYt6KPhuchb) | 2:51 | 2022-09-09 |  |
 | [Eat My Shit](https://open.spotify.com/track/6mhqWAUiEa9nRiPZQd5CGO) | [Zatox](https://open.spotify.com/artist/27Z5l2Kfy1IaYZMg5INWqO) | [Eat My Shit](https://open.spotify.com/album/6m6srzVOxusuCpTui3axmV) | 3:51 | 2023-02-11 |  |
 | [Eat You Alive](https://open.spotify.com/track/4cGtPqOLPDems22CYZeXdH) | [Amduscias](https://open.spotify.com/artist/2s2uHpjXIyzhPIXkm8iP2y) | [Eat You Alive](https://open.spotify.com/album/2EAE31wP5zekoO8PhJUywH) | 3:02 | 2025-02-07 |  |
-| [ECHO](https://open.spotify.com/track/2cF6jY4pTi4GKbpb0fNONO) | [Breeze](https://open.spotify.com/artist/4NQZbpX2Kc5iQqna5szbEp), [KIYOTO](https://open.spotify.com/artist/5uxop8n7axixBHd562LYrR) | [ECHO](https://open.spotify.com/album/6peMuAUN9KJJdJBasI4yL8) | 2:51 | 2025-06-01 |  |
+| [ECHO](https://open.spotify.com/track/2cF6jY4pTi4GKbpb0fNONO) | [BREEZE](https://open.spotify.com/artist/0n0jgfh1mfOrSVMBN7Bgp9), [KIYOTO](https://open.spotify.com/artist/5uxop8n7axixBHd562LYrR) | [ECHO](https://open.spotify.com/album/6peMuAUN9KJJdJBasI4yL8) | 2:51 | 2025-06-01 |  |
 | [ECHO LAYER](https://open.spotify.com/track/2mmkZnsi7GJOhqBtfq6HwF) | [Water Spirit](https://open.spotify.com/artist/6kDrYhgzsmoiuwHbzWgA41), [Quarkee](https://open.spotify.com/artist/1NQPJdIztOWNObtnFy3hvY) | [ECHO LAYER](https://open.spotify.com/album/2Xtcg2HfUZROqvLvN3lpuL) | 3:07 | 2025-11-22 |  |
 | [Echoes of Unity \(Official Toxicator 2023 Anthem\)](https://open.spotify.com/track/5dwBjzLjqbhIPeTHrFY3ny) | [Namara](https://open.spotify.com/artist/50PTSnRJgyVGs9O6Kj9Jd1) | [Echoes of Unity \(Official Toxicator 2023 Anthem\)](https://open.spotify.com/album/6L5eWhkdwPFpSEtMOkG34G) | 3:56 | 2023-11-13 |  |
 | [Echoes of Yesterday](https://open.spotify.com/track/7f6cMhV17EQv1N2NvRGRaI) | [Dual Damage](https://open.spotify.com/artist/05bETZtzSdUI5fconFIKRX) | [Echoes of Yesterday](https://open.spotify.com/album/64eujl8HVFhVnVtDjOIhlU) | 2:34 | 2025-08-02 |  |
@@ -2779,6 +2780,7 @@
 | [Turn The F Bass Up](https://open.spotify.com/track/5kNXmloCtElpwS8aNqEkbH) | [DRS](https://open.spotify.com/artist/3ipAwQsSahvSht3Bb8SpLs), [Reflexx](https://open.spotify.com/artist/3jQC1xm2BCJY3T5mG66pZ0) | [Turn The F Bass Up](https://open.spotify.com/album/5opIHOpOPX7SYX64fxKSm6) | 3:05 | 2025-06-01 |  |
 | [Turn The Fucking Place Up](https://open.spotify.com/track/3xAjp5YYsfbJr1P4J3eI96) | [D\-Fence](https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv) | [Turn The Fucking Place Up](https://open.spotify.com/album/5J6ioX0QFaWJ0oKTjmeq8K) | 3:15 | 2024-04-19 |  |
 | [TURN THE MUSIC UP](https://open.spotify.com/track/18pwSYg3sjPJuZPv2xsr9X) | [Dead X](https://open.spotify.com/artist/1viO40zvthKBg0VNEnJoma) | [TURN THE MUSIC UP](https://open.spotify.com/album/65WaOzpXFsnebqKA9kyfx0) | 2:43 | 2025-02-28 |  |
+| [Turn the Tide](https://open.spotify.com/track/41xptomAuNGKBU6g00EoLv) | [Cyber Gunz](https://open.spotify.com/artist/3KWdlsF1TJIys0XwnpbiOr), [RWF](https://open.spotify.com/artist/5SSccKfaWK4yIu8TsqUtac), [KIOR](https://open.spotify.com/artist/5T4JS1DKk850DNKpQoIbYJ) | [Cyber War](https://open.spotify.com/album/6s0SZMQ3plk02FvwNO5dWF) | 2:58 | 2026-05-24 |  |
 | [Turn The Tide](https://open.spotify.com/track/4XEXr4wfMqqwxubPieTTXd) | [RAYZEN](https://open.spotify.com/artist/2x7wHChcawAYikCTKfhjId) | [Turn The Tide](https://open.spotify.com/album/4kGYzcQkiL2NKzqniRqCOl) | 2:45 | 2024-09-06 |  |
 | [Turn Up the Bass](https://open.spotify.com/track/3rJgXbdGP8ip29TJgzYuA8) | [Sandro Cardio](https://open.spotify.com/artist/2zdIePmkWwpZote67KM17v), [NO RULES SOUND](https://open.spotify.com/artist/4ZYpceTd0FQmD7bLuEDhSO) | [Turn Up the Bass](https://open.spotify.com/album/2F8K8V7rw5kyX0vjPaoD00) | 3:56 | 2026-02-16 |  |
 | [TURN UP THE MUSIC](https://open.spotify.com/track/6ZSWaurLsV9pAX2QD8QPsf) | [SL Complex](https://open.spotify.com/artist/1K24lyixWU3NZMhevM0UQW) | [TURN UP THE MUSIC](https://open.spotify.com/album/32MFKqo5HOdoNiGLy2Z9ZE) | 2:27 | 2025-10-18 |  |

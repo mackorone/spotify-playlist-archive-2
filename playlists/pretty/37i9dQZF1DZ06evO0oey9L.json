@@ -1,12 +1,12 @@
 {
   "description": "This is El de La Guitarra. The essential tracks, all in one playlist.",
-  "num_followers": 100313,
+  "num_followers": 100323,
   "original_name": "This Is El de La Guitarra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ag+cgAAAAABgq9pT9WbiLWeBFwLD/d9p",
+  "snapshot_id": "ahDuAAAAAABmxXsiRm4r32MLUvLvNB/S",
   "tracks": [
     {
       "added_at": null,
@@ -611,8 +611,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "De La Escuelita Graduado",
-        "url": "https://open.spotify.com/album/5WCODFEvrpKj4Aifd1Fxnp"
+        "name": "Va Por Todos",
+        "url": "https://open.spotify.com/album/5Yzvp7ml8IarfxxghAB4BA"
       },
       "artists": [
         {
@@ -620,9 +620,9 @@
           "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
         }
       ],
-      "duration_ms": 163918,
-      "name": "De La Escuelita Graduado",
-      "url": "https://open.spotify.com/track/7t78b9kNHPzECSZ0wyzTc3"
+      "duration_ms": 148344,
+      "name": "La Fiesta Ya Empezo",
+      "url": "https://open.spotify.com/track/3m30n1vtmAZsLhONgZ1P5d"
     },
     {
       "added_at": null,
@@ -643,8 +643,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Va Por Todos",
-        "url": "https://open.spotify.com/album/5Yzvp7ml8IarfxxghAB4BA"
+        "name": "De La Escuelita Graduado",
+        "url": "https://open.spotify.com/album/5WCODFEvrpKj4Aifd1Fxnp"
       },
       "artists": [
         {
@@ -652,9 +652,9 @@
           "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
         }
       ],
-      "duration_ms": 148344,
-      "name": "La Fiesta Ya Empezo",
-      "url": "https://open.spotify.com/track/3m30n1vtmAZsLhONgZ1P5d"
+      "duration_ms": 163918,
+      "name": "De La Escuelita Graduado",
+      "url": "https://open.spotify.com/track/7t78b9kNHPzECSZ0wyzTc3"
     },
     {
       "added_at": null,
@@ -723,22 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Musas",
-        "url": "https://open.spotify.com/album/03H8sPu8hNwdAW7SiGZXGi"
-      },
-      "artists": [
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 144903,
-      "name": "Musas",
-      "url": "https://open.spotify.com/track/6cqXMULD4XYoQQyEUmL49M"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Paris & Grecia",
         "url": "https://open.spotify.com/album/3kufVIruxrPYRml0XECQka"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 160153,
       "name": "El Exceso Me Encanto",
       "url": "https://open.spotify.com/track/3W0Lld0K5FHecRyfOxhZ4x"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Musas",
+        "url": "https://open.spotify.com/album/03H8sPu8hNwdAW7SiGZXGi"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 144903,
+      "name": "Musas",
+      "url": "https://open.spotify.com/track/6cqXMULD4XYoQQyEUmL49M"
     },
     {
       "added_at": null,

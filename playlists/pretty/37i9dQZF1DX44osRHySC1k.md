@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44osRHySC1k.md) - [plain]
 
 > Sleep is the best Medicine
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,586 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,587 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,21 +22,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44osRHySC1k.md) - [plain]
 | 12 | [Vespers](https://open.spotify.com/track/2lzoxR34ISyzfi91kDdAit) | [Vincent Novaes](https://open.spotify.com/artist/1bWtods7s54SaWI5MyYTFA) | [Vespers](https://open.spotify.com/album/6r2xNpVGI01U4w2M3e0CfL) | 2:34 |
 | 13 | [At Dawn](https://open.spotify.com/track/6sSFbKl9oQ7ToYxBeTQZvw) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Fragment](https://open.spotify.com/album/4hDrHeKxgRFP07lI6RAkoE) | 2:16 |
 | 14 | [A Clear Mind](https://open.spotify.com/track/2pypBNUUzViaP7Dswi9zpF) | [Julius Aston](https://open.spotify.com/artist/6evK56MPQbVzQaWuGcS4Rm) | [A Clear Mind](https://open.spotify.com/album/6HTDJSCj481qL4ruvh68IQ) | 2:53 |
-| 15 | [Soft Night](https://open.spotify.com/track/5hAsWMGQXBjDjYMoIlP9Ak) | [Elskavon](https://open.spotify.com/artist/5vDfVxwAH8ANpuIKKxfOeq) | [Traditions & Traitors](https://open.spotify.com/album/2exRntMmxw6A5AQoNiIG3f) | 2:35 |
-| 16 | [Beneath your Beutiful](https://open.spotify.com/track/4vWbR3IiMfIbZ3xWh2zpYH) | [Rita May](https://open.spotify.com/artist/7aHv2HgCuDTe3VU99UWkLm) | [Modern Classics](https://open.spotify.com/album/1gpSsZXNXdGb2FujzivQHD) | 3:44 |
+| 15 | [Beneath your Beutiful](https://open.spotify.com/track/4vWbR3IiMfIbZ3xWh2zpYH) | [Rita May](https://open.spotify.com/artist/7aHv2HgCuDTe3VU99UWkLm) | [Modern Classics](https://open.spotify.com/album/1gpSsZXNXdGb2FujzivQHD) | 3:44 |
+| 16 | [Soft Night](https://open.spotify.com/track/5hAsWMGQXBjDjYMoIlP9Ak) | [Elskavon](https://open.spotify.com/artist/5vDfVxwAH8ANpuIKKxfOeq) | [Traditions & Traitors](https://open.spotify.com/album/2exRntMmxw6A5AQoNiIG3f) | 2:35 |
 | 17 | [Loving\-Kindness](https://open.spotify.com/track/4YQn86jDGtlXovQJT9nwiB) | [Vimassana](https://open.spotify.com/artist/1JwJysIUFMsM5HjV5fJvGv) | [Loving\-Kindness](https://open.spotify.com/album/0cHpCmG4oLbGPStNrpdgMD) | 2:50 |
 | 18 | [Onthou](https://open.spotify.com/track/0CoSBNNeO8JgayAfLttECk) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Traces](https://open.spotify.com/album/06LJIRUxKqN78v72GCeEuW) | 2:08 |
 | 19 | [Sea Of Tranquility](https://open.spotify.com/track/5nzGBQeLesWrD0J8Ctz75z) | [Julius Aston](https://open.spotify.com/artist/6evK56MPQbVzQaWuGcS4Rm) | [Sea Of Tranquility](https://open.spotify.com/album/6FunWbzr82EBe87wjbq3I3) | 2:55 |
 | 20 | [In the Far Away Distance](https://open.spotify.com/track/1oHDNBIxtHai4IcMQ4mJuL) | [Zen Gaya](https://open.spotify.com/artist/5zC4k86g6y3NsIvUwFVX1G) | [In the Far Away Distance](https://open.spotify.com/album/6hxNWvBvsKr4mV1YAjz9HS) | 2:56 |
 | 21 | [Time Travel](https://open.spotify.com/track/1aa3A3F6b5FZFtXAhtrybK) | [Antologie](https://open.spotify.com/artist/6T31mMEmlR4YDtVTQtpPyc) | [Time Travel](https://open.spotify.com/album/52vkIdfOyHog6vAGTru68z) | 3:04 |
-| 22 | [Untitled](https://open.spotify.com/track/3tCBeat5YZBwLf61yoQJ9v) | [Jupiter Grains](https://open.spotify.com/artist/6uq3FetPGtr1PNJ4bOzF85) | [Untitled](https://open.spotify.com/album/2aMPmCJLYROlZZMjF92w32) | 1:52 |
-| 23 | [You'll Be In My Heart](https://open.spotify.com/track/48TkJSl7gj38DZ8AMoI9Fs) | [Daavid Laaksonen](https://open.spotify.com/artist/4EOykGH38DFfCDrP5xkFhK) | [You'll Be In My Heart](https://open.spotify.com/album/6ryxDYCLluZ4E9s8xlQGNU) | 4:32 |
+| 22 | [You'll Be In My Heart](https://open.spotify.com/track/48TkJSl7gj38DZ8AMoI9Fs) | [Daavid Laaksonen](https://open.spotify.com/artist/4EOykGH38DFfCDrP5xkFhK) | [You'll Be In My Heart](https://open.spotify.com/album/6ryxDYCLluZ4E9s8xlQGNU) | 4:32 |
+| 23 | [Untitled](https://open.spotify.com/track/3tCBeat5YZBwLf61yoQJ9v) | [Jupiter Grains](https://open.spotify.com/artist/6uq3FetPGtr1PNJ4bOzF85) | [Untitled](https://open.spotify.com/album/2aMPmCJLYROlZZMjF92w32) | 1:52 |
 | 24 | [Atmosphere](https://open.spotify.com/track/55EbjQa4Th0gmzKQdSnMrw) | [Tejal Yann](https://open.spotify.com/artist/6eGKvCZdc06HkiwZKFlcBY) | [Newborn Soul](https://open.spotify.com/album/5AtAU8ju6CMZKMEELFbDOR) | 4:07 |
 | 25 | [Sentiment](https://open.spotify.com/track/7wd5Xpj9J0ekJY2htpCsv9) | [Sufi Sheman](https://open.spotify.com/artist/4hWBezYoYKyxns86q3P9ok) | [Sentiment](https://open.spotify.com/album/7ccpFpZ8vOqBmsvVsGxr4w) | 2:10 |
 | 26 | [Dawn Dusk Divinity](https://open.spotify.com/track/3Gs2uBopmgSkqI6Ww2IYnm) | [Devansh Tushar](https://open.spotify.com/artist/6A6XOlnYgaiM9qfRvSIHQL) | [Happy](https://open.spotify.com/album/6FXJ200cFy73fvSBZm0xfJ) | 2:59 |
 | 27 | [Falling Stars](https://open.spotify.com/track/6nx6oC4HgnZOxC4dgsPiIU) | [Delle Alpi](https://open.spotify.com/artist/6F3AbMb1nVGlPROQ0nQBqU) | [Falling Stars](https://open.spotify.com/album/54v5ne5y23CTRYnaU2yyQS) | 2:38 |
-| 28 | [Pads of Redemption](https://open.spotify.com/track/5I3JZ3zvxKQMdp9rEcGkiR) | [Masala Roo](https://open.spotify.com/artist/3A81JSAePWWFgyybGr8zIE) | [Pads of Redemption](https://open.spotify.com/album/2XCWjHkbcCvT4WXFwnY253) | 2:48 |
-| 29 | [Goodnight](https://open.spotify.com/track/2rro7SoKEWIrhUl1xcXOIT) | [Alfredo Evans](https://open.spotify.com/artist/6E0oDTO8ChQDFTsHLuUlNL) | [Goodnight](https://open.spotify.com/album/1EWPWjrRLNYdQwYurmSEMT) | 2:37 |
+| 28 | [Goodnight](https://open.spotify.com/track/2rro7SoKEWIrhUl1xcXOIT) | [Alfredo Evans](https://open.spotify.com/artist/6E0oDTO8ChQDFTsHLuUlNL) | [Goodnight](https://open.spotify.com/album/1EWPWjrRLNYdQwYurmSEMT) | 2:37 |
+| 29 | [Pads of Redemption](https://open.spotify.com/track/5I3JZ3zvxKQMdp9rEcGkiR) | [Masala Roo](https://open.spotify.com/artist/3A81JSAePWWFgyybGr8zIE) | [Pads of Redemption](https://open.spotify.com/album/2XCWjHkbcCvT4WXFwnY253) | 2:48 |
 | 30 | [Under A Smiling Moon](https://open.spotify.com/track/0aqmVdsk85uvygzAxpJENH) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai) | [A Scandinavian Thing](https://open.spotify.com/album/0qy8kSH76bUb9abjOjfh7W) | 4:23 |
 | 31 | [Petals](https://open.spotify.com/track/4EQeE98JeOcxg9YI5k8WV1) | [Floriscope](https://open.spotify.com/artist/0G4MXHhzyHUB9XexNNg2Sw) | [Petals](https://open.spotify.com/album/4xZ39MdrmOgVVCNt7UUL1L) | 2:37 |
 | 32 | [This night](https://open.spotify.com/track/7DtluO7XUoL5wf2imEgkXl) | [Leny Bhoelai](https://open.spotify.com/artist/1b8ShuRcCfZswFuIjEWsvS) | [This night](https://open.spotify.com/album/4wEvwj51552ftkdHoXQm1G) | 3:10 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44osRHySC1k.md) - [plain]
 | 54 | [Astral Therapy](https://open.spotify.com/track/17Wjmh3nZzAywevzFHqJnx) | [Primer Dia](https://open.spotify.com/artist/5kXyMVyXSK2cHnjOja5hRJ) | [Floating, Always](https://open.spotify.com/album/6JeuzF0f5ALtSsXnXVBckB) | 2:17 |
 | 55 | [Eternal Thoughts](https://open.spotify.com/track/6b0o30D3HsAsyk0RCocgJ1) | [Orbit Release](https://open.spotify.com/artist/2FBNGiujxsVznAFGo4YvuG) | [Eternal Thoughts](https://open.spotify.com/album/3GG1avkDFt0F0Hub7GV3HP) | 4:01 |
 | 56 | [Dream Voucher](https://open.spotify.com/track/2T6wyxLBkQ4Y2ZjTbpuYfr) | [Rannar Sillard](https://open.spotify.com/artist/3WIjOR36QpKStT6hfxguh5) | [Dream Voucher](https://open.spotify.com/album/2okoZfiEKs54ajikpoc9WZ) | 2:35 |
-| 57 | [Close your eyes](https://open.spotify.com/track/53Mz4V3XL02YupbVnJKfMl) | [Koby Laver](https://open.spotify.com/artist/639xerhpqwPMYay6bkjz75) | [Close your eyes](https://open.spotify.com/album/7n60AHGWLfjBq8eEdTbja0) | 3:12 |
-| 58 | [Violin Lullaby](https://open.spotify.com/track/4j48DHJh8QgMeLJyScpRAd) | [Josep Alba](https://open.spotify.com/artist/67X3gp8Bvmxl4fmYcuX7JG) | [Sleep Well](https://open.spotify.com/album/3dTunlZ8wSkLIT53kwCeAx) | 2:26 |
+| 57 | [Violin Lullaby](https://open.spotify.com/track/4j48DHJh8QgMeLJyScpRAd) | [Josep Alba](https://open.spotify.com/artist/67X3gp8Bvmxl4fmYcuX7JG) | [Sleep Well](https://open.spotify.com/album/3dTunlZ8wSkLIT53kwCeAx) | 2:26 |
+| 58 | [Close your eyes](https://open.spotify.com/track/53Mz4V3XL02YupbVnJKfMl) | [Koby Laver](https://open.spotify.com/artist/639xerhpqwPMYay6bkjz75) | [Close your eyes](https://open.spotify.com/album/7n60AHGWLfjBq8eEdTbja0) | 3:12 |
 | 59 | [REM Phase](https://open.spotify.com/track/5FCWldM6RuGxv20AbPZ0c8) | [Jardim Zen](https://open.spotify.com/artist/7chlUvSubjJ7objJy2ccCu) | [Deep Mental Stillness 50](https://open.spotify.com/album/1TJJbIu53P16HREaOnr1m2) | 4:09 |
 | 60 | [Quiet Nights](https://open.spotify.com/track/0Xn2rEgAEJ82XKXLttBNEv) | [The Only Star In The Sky](https://open.spotify.com/artist/0V0CTs5Y6qKqbzZ7lomgkz) | [Wave After Wave EP](https://open.spotify.com/album/2BTITyM3Rlo6tL1Z2wnZj2) | 3:06 |
 | 61 | [My Sleeping Rose](https://open.spotify.com/track/7vfYsS34eZojVLXsknEj1J) | [Havanna Chandri](https://open.spotify.com/artist/7L19dBW5AbTgQvjXFGaOF6) | [My Sleeping Rose](https://open.spotify.com/album/7ApqGcvgxT7rQ5ukCqgh6w) | 2:07 |

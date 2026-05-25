@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rtJ8m.md) - [plain]
 
 > This is Big Thief\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,705 likes - 43 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,714 likes - 43 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,11 +36,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rtJ8m.md) - [plain]
 | 26 | [How Could I Have Known](https://open.spotify.com/track/17tN4TOGM562ach3uvZZUi) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Double Infinity](https://open.spotify.com/album/1yEo1ZJE5ZgIF7LYrDTbMK) | 4:48 |
 | 27 | [Forgotten Eyes](https://open.spotify.com/track/3uVlbYb1nUwwcYziaJk9LD) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Two Hands](https://open.spotify.com/album/5pp7px9MITK2MqeFVbRWGo) | 3:31 |
 | 28 | [Real Love \- 2023 Remaster](https://open.spotify.com/track/7LTUCZcEv05vnvyEsn9HBT) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Masterpiece \(2023 Remaster\)](https://open.spotify.com/album/3dtiO2Vs4YZQOFCOCDgtxL) | 4:17 |
-| 29 | [Pretty Things](https://open.spotify.com/track/31AqPCVn9DPDiq4IfBU6WG) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Capacity](https://open.spotify.com/album/0ttVHlYJDFPoy54J3uziQd) | 3:04 |
+| 29 | [Mary](https://open.spotify.com/track/67bAFRTpTgZU00FUUEhvKE) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Capacity](https://open.spotify.com/album/0ttVHlYJDFPoy54J3uziQd) | 5:30 |
 | 30 | [UFOF](https://open.spotify.com/track/3Hbwbuk3ChdUf7M6Cn7uQB) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [U.F.O.F.](https://open.spotify.com/album/0sLnNGW4PzCYFQ4Pn7aVCP) | 3:08 |
 | 31 | [Rock and Sing](https://open.spotify.com/track/5kfH55pli3gCkprV3OJerd) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Two Hands](https://open.spotify.com/album/5pp7px9MITK2MqeFVbRWGo) | 2:03 |
 | 32 | [Lorraine \- 2023 Remaster](https://open.spotify.com/track/2slEcqyUG0Hvf8xsFva4tG) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Masterpiece \(2023 Remaster\)](https://open.spotify.com/album/3dtiO2Vs4YZQOFCOCDgtxL) | 1:53 |
-| 33 | [Mary](https://open.spotify.com/track/67bAFRTpTgZU00FUUEhvKE) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Capacity](https://open.spotify.com/album/0ttVHlYJDFPoy54J3uziQd) | 5:30 |
+| 33 | [Pretty Things](https://open.spotify.com/track/31AqPCVn9DPDiq4IfBU6WG) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Capacity](https://open.spotify.com/album/0ttVHlYJDFPoy54J3uziQd) | 3:04 |
 | 34 | [Orange](https://open.spotify.com/track/4xaVx8jb12zUS6l2Ckx6nW) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [U.F.O.F.](https://open.spotify.com/album/0sLnNGW4PzCYFQ4Pn7aVCP) | 3:30 |
 | 35 | [Two Hands](https://open.spotify.com/track/75Y8OgF0HypPrCKcbYu3no) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Two Hands](https://open.spotify.com/album/5pp7px9MITK2MqeFVbRWGo) | 3:52 |
 | 36 | [Breathe in My Lungs](https://open.spotify.com/track/6sSlJJp9lHRL1tPY1QEUmB) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Mythological Beauty](https://open.spotify.com/album/407CZIQW4o1sEzxA4NFoph) | 2:52 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rtJ8m.md) - [plain]
 | 42 | [Century](https://open.spotify.com/track/5VgHyTScSLqpTai6oQjird) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [U.F.O.F.](https://open.spotify.com/album/0sLnNGW4PzCYFQ4Pn7aVCP) | 3:07 |
 | 43 | [Strange](https://open.spotify.com/track/0y8c74ezNCYou4FrX4xI8v) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [U.F.O.F.](https://open.spotify.com/album/0sLnNGW4PzCYFQ4Pn7aVCP) | 3:41 |
 
-Snapshot ID: `ag+cgAAAAAB7MfPwnFtMiyNac7nfpjP6`
+Snapshot ID: `ahDuAAAAAABBMo4pLj1KtTHzCaJBQ0d9`

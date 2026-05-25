@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW5NxMJ2fu7Y.md) - [plain]
 
 > mood:  😎✈️
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,345 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,357 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW5NxMJ2fu7Y.md) - [plain]
 | 18 | [INARA](https://open.spotify.com/track/5WDpxxOIYliyYQ4HSHwKvv) | [SCOOL BOY](https://open.spotify.com/artist/5suJPIX3Y4r4hEIrz60szV) | [INARA](https://open.spotify.com/album/5M63aDrFG28FQFYrAAcwEq) | 3:06 |
 | 19 | [No Complaints](https://open.spotify.com/track/0E7vM9JTF6RQ0Mb7cZmP8V) | [Madd](https://open.spotify.com/artist/7DBIKXxSh2BMPqSN7UB4rS) | [Sēnsus](https://open.spotify.com/album/20mtZtrBWCXfMHJbDNywwS) | 2:50 |
 | 20 | [Gharam](https://open.spotify.com/track/5rgsmHsWUhmTWTb1i5dNJH) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [Gharam](https://open.spotify.com/album/65buUKao3hIRYbi3Wi3W2g) | 3:02 |
-| 21 | [أفشتني](https://open.spotify.com/track/0TLJPWdBF6S1dLrPixXWMV) | [Shinigami](https://open.spotify.com/artist/0ENNdQNQ6dlTit1exQNrL0), [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn) | [أفشتني](https://open.spotify.com/album/4sVSTpSXH7u7MCsXEkTlHy) | 3:25 |
-| 22 | [Moral](https://open.spotify.com/track/4dkAVeT8SCueEWoKK3Q2R0) | [Dada](https://open.spotify.com/artist/7prKK2GchmQEkgUsAFXEz0) | [Moral](https://open.spotify.com/album/7HLi5EsiOyBzQWaQzZUnYY) | 3:22 |
+| 21 | [Moral](https://open.spotify.com/track/4dkAVeT8SCueEWoKK3Q2R0) | [Dada](https://open.spotify.com/artist/7prKK2GchmQEkgUsAFXEz0) | [Moral](https://open.spotify.com/album/7HLi5EsiOyBzQWaQzZUnYY) | 3:22 |
+| 22 | [أفشتني](https://open.spotify.com/track/0TLJPWdBF6S1dLrPixXWMV) | [Shinigami](https://open.spotify.com/artist/0ENNdQNQ6dlTit1exQNrL0), [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn) | [أفشتني](https://open.spotify.com/album/4sVSTpSXH7u7MCsXEkTlHy) | 3:25 |
 | 23 | [Marceline](https://open.spotify.com/track/5eqhJGx7N5bXvLmO7jc9CR) | [Valerieblud](https://open.spotify.com/artist/2sAr8PmoTckWWSYzAEf5nX) | [Marceline](https://open.spotify.com/album/7xfJ3XGJxiXPB5qqTZkxxS) | 2:55 |
 | 24 | [Ah Bon](https://open.spotify.com/track/0yYoSGrzF15p22ow5wbcSJ) | [Raste](https://open.spotify.com/artist/7hblKQxMowm5BZpxUjcYQT), [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn) | [Ah Bon](https://open.spotify.com/album/0qSLkM5OH8bhCkyxPwEGxC) | 3:42 |
 | 25 | [L](https://open.spotify.com/track/3t5rxFCtPFSUULtNAaARXz) | [Madd](https://open.spotify.com/artist/7DBIKXxSh2BMPqSN7UB4rS) | [L](https://open.spotify.com/album/3L6hcHjXIAQimZpiOMr9Hg) | 3:04 |

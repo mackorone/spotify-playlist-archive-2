@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Wynp5mlXCZ.md) - [plain]
 
 > Українські та світові артисти в добірці найцікавіших поп треків\. Обкладинка: OSTY
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,127 likes - 70 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,136 likes - 70 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Wynp5mlXCZ.md) - [plain]
 | 60 | [Закоханий](https://open.spotify.com/track/6CIjysLIbpQTdkeZ6HiWFi) | [MAX BARSKIH](https://open.spotify.com/artist/5zXGVPJHUzQPUXKA7AlTi5) | [Закоханий](https://open.spotify.com/album/3bKoHfmc6fSHfONIgPelfb) | 3:48 |
 | 61 | [Мила моя](https://open.spotify.com/track/4gmYoD8EB3ATqJJHuj354Q) | [TVORCHI](https://open.spotify.com/artist/0jWniZlqlLCZY3xSPwPXz5) | [Мила моя](https://open.spotify.com/album/0n4s3uO21LE59oTzMCoQ3x) | 2:58 |
 | 62 | [take it all](https://open.spotify.com/track/1Nk0YsyiGEBFrpgtn5255k) | [emi](https://open.spotify.com/artist/5yUvntXwc1otvnZ8Bhxo85), [lucidbeatz](https://open.spotify.com/artist/4jEwTCIHu0hdDbamxScpou) | [take it all](https://open.spotify.com/album/3c51Ub9FOWweulJSekANCO) | 2:30 |
-| 63 | [CATHARTICUS \(prayer\)](https://open.spotify.com/track/0h515vyyNVzcmpkSB1r2Oh) | [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr) | [CATHARTICUS \(prayer\)](https://open.spotify.com/album/6BaxdtefdTdELBbxuIdM2K) | 3:01 |
-| 64 | [Твій аромат](https://open.spotify.com/track/2XuMhr7BgehygNPq1ffQqF) | [CHEEV](https://open.spotify.com/artist/0PWfuxCvPtyeCLLWjf4EzJ) | [Romcom](https://open.spotify.com/album/13ynoeCvmsVqsU5P8BLd9d) | 3:13 |
+| 63 | [Твій аромат](https://open.spotify.com/track/2XuMhr7BgehygNPq1ffQqF) | [CHEEV](https://open.spotify.com/artist/0PWfuxCvPtyeCLLWjf4EzJ) | [Romcom](https://open.spotify.com/album/13ynoeCvmsVqsU5P8BLd9d) | 3:13 |
+| 64 | [CATHARTICUS \(prayer\)](https://open.spotify.com/track/0h515vyyNVzcmpkSB1r2Oh) | [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr) | [CATHARTICUS \(prayer\)](https://open.spotify.com/album/6BaxdtefdTdELBbxuIdM2K) | 3:01 |
 | 65 | [HORA](https://open.spotify.com/track/5PBohl4TCGfmUkDxsYgAuk) | [Irina Rimes](https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj), [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr) | [HORA](https://open.spotify.com/album/1zvYTSGjOKxgoEque7gpHu) | 2:25 |
 | 66 | [Ау ау](https://open.spotify.com/track/6LNfmj0I41Q9b1ePvZldeX) | [Sasha Norova](https://open.spotify.com/artist/5r3KBbCjpkNxIQ37XnzThR), [Adam](https://open.spotify.com/artist/19JYV5zLhGkyqClNjdSfdb) | [Культурне диско](https://open.spotify.com/album/6LPyqyRY4IdJOMm3aVUo0l) | 2:12 |
 | 67 | [Хто якщо не ми](https://open.spotify.com/track/191XHBxla6n4hyz7x3NssJ) | [Golubenko](https://open.spotify.com/artist/5XPjmh7BsTQfSfp9wqSoJQ), [Shmiska](https://open.spotify.com/artist/0896FugzPOpBDwYEfhMAVY) | [Хто якщо не ми](https://open.spotify.com/album/1Oaf7lnKX6HOXDIAEhDwc3) | 2:43 |

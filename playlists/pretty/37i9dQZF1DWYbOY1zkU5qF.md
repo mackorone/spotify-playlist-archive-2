@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbOY1zkU5qF.md) - [plain]
 
 > Versiones acústicas de tus canciones favoritas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,228 likes - 80 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,300 likes - 80 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbOY1zkU5qF.md) - [plain]
 | 65 | [A Donde Vamos A Parar](https://open.spotify.com/track/4Zr7wmru0BGM1H6w5hayJ0) | [Xochi Krausse](https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh) | [A Donde Vamos A Parar](https://open.spotify.com/album/4nGO0YbAEosTUlngS6m5HL) | 4:23 |
 | 66 | [Vete](https://open.spotify.com/track/1dyeQq5l5dxAcMPxFhE3pM) | [Alfa Omega](https://open.spotify.com/artist/40U0n49Vb1zjKZq3mQmKxo), [Cláudia Nunes](https://open.spotify.com/artist/23Q6X7fvKHUilv3ii6VFMl) | [Vete](https://open.spotify.com/album/1bJebMwImKlh4wNpHj9hHb) | 3:34 |
 | 67 | [Ahora Dice](https://open.spotify.com/track/08sswdOXk4nu7sYFIVU6f6) | [Alex Coppel](https://open.spotify.com/artist/1QBIsAL0onqKUjlO8Nl9IM) | [Ahora Dice](https://open.spotify.com/album/2xB066cl8FPGnXxMQfB8JL) | 3:21 |
-| 68 | [Soñe](https://open.spotify.com/track/35tKDCAmNFueq5KmvGkzRr) | [Aline Terrein](https://open.spotify.com/artist/1KHhTDB0lBCXqm54Fseodx) | [Soñé](https://open.spotify.com/album/3zGPOSwv1krOcKkv8QgpBs) | 2:29 |
-| 69 | [Otro trago](https://open.spotify.com/track/6VFsWv9LkBMAnSE4vVqvJV) | [Xandra Garsem](https://open.spotify.com/artist/14HpVzsOYc0nufSwtkMp1s), [Paul Fourmy](https://open.spotify.com/artist/0wEhgN98ys7Fzv7FIKUAQo) | [Otro trago](https://open.spotify.com/album/6YjTRY19KnNn9hU04Uq9Gx) | 2:47 |
+| 68 | [Otro trago](https://open.spotify.com/track/6VFsWv9LkBMAnSE4vVqvJV) | [Xandra Garsem](https://open.spotify.com/artist/14HpVzsOYc0nufSwtkMp1s), [Paul Fourmy](https://open.spotify.com/artist/0wEhgN98ys7Fzv7FIKUAQo) | [Otro trago](https://open.spotify.com/album/6YjTRY19KnNn9hU04Uq9Gx) | 2:47 |
+| 69 | [Soñe](https://open.spotify.com/track/35tKDCAmNFueq5KmvGkzRr) | [Aline Terrein](https://open.spotify.com/artist/1KHhTDB0lBCXqm54Fseodx) | [Soñé](https://open.spotify.com/album/3zGPOSwv1krOcKkv8QgpBs) | 2:29 |
 | 70 | [Enamórate de Alguien Más](https://open.spotify.com/track/3i2C6htxWCFRNhGK7d8ZvS) | [Melanie Espinosa](https://open.spotify.com/artist/2ZfqsIUeid08QO6i4Bqbi6) | [Enamórate de Alguien Más](https://open.spotify.com/album/2ikNJTLWpYfUerZClTyIS0) | 2:46 |
 | 71 | [Con El Tiempo \- Acústica](https://open.spotify.com/track/3KJ9H8TGD7HaX759mjD5r5) | [Charlie Rodd](https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762) | [Con El Tiempo \(Acústica\)](https://open.spotify.com/album/2jH6zcdv1e8vLkye1MuFDb) | 2:52 |
 | 72 | [Pobre De Ti](https://open.spotify.com/track/1BfG1GebmxE0OWl0lz1E3l) | [Eloise Freud](https://open.spotify.com/artist/4fCVdhbvs0qYEAQozKSyOh) | [Pobre De Ti](https://open.spotify.com/album/2wCNlBIDraaqMYzy6GV4sX) | 3:50 |

@@ -4,7 +4,7 @@
 
 > świeże brzmienia na horyzoncie ✨ Cover: Ania Szlagowska
 
-850 songs - 1 day 17 hr 28 min
+851 songs - 1 day 17 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -329,6 +329,7 @@
 | [Kiss And Fly](https://open.spotify.com/track/5d4WpBQcZOCRo0wepc7ojd) | [Viki Gabor](https://open.spotify.com/artist/3yCRvilOBzRkyxOsOi4tsR) | [Terminal 3](https://open.spotify.com/album/1gSTT7TKMLWf5UOeP9vIcS) | 2:37 | 2024-06-28 | 2024-10-26 |
 | [Kiss Kiss Goodbye](https://open.spotify.com/track/2ceIi1kJxozE30OURIMkfN) | [ADONXS](https://open.spotify.com/artist/2Wipb14FDfbuu8b8LWpiNM) | [Kiss Kiss Goodbye](https://open.spotify.com/album/2YR32G3rgCmK8MmUsSUsXD) | 2:56 | 2025-03-06 | 2025-07-04 |
 | [Klub Złamanych Serc](https://open.spotify.com/track/3pfOeXoXWDeLoUSvVagqTM) | [MAJA](https://open.spotify.com/artist/7qAu2kYGjO28g0CJERiQhM) | [Klub Złamanych Serc](https://open.spotify.com/album/6UTzEyPvtpmAW3Xp8y4HcU) | 2:08 | 2024-06-28 | 2024-09-14 |
+| [kochaj mnie](https://open.spotify.com/track/6ZXczp4DXqMxbaVlEhtMCc) | [Kajetan Wolas](https://open.spotify.com/artist/6tpxFh5TlBxnHzrAfFlCXj), [Moo Latte](https://open.spotify.com/artist/3gNjxcKLkMfZYKlLxn0O9F) | [kochaj mnie](https://open.spotify.com/album/3URaw7BgvY2vh5EtECHnta) | 2:31 | 2026-05-21 |  |
 | [kochaj na serio](https://open.spotify.com/track/4BYly5wqMJiOAqcNGTN5EJ) | [Norbert Wronka](https://open.spotify.com/artist/5jPmnL6vRtGz8pNWsv7ujq) | [kochaj na serio](https://open.spotify.com/album/581rUrcXqf5JvYMVT4abjE) | 2:40 | 2024-09-19 | 2025-01-24 |
 | [Kolejny Marzec](https://open.spotify.com/track/5GWUjRd631GZnTXftVudEJ) | [Artur Sikorski](https://open.spotify.com/artist/0IGDk5SQHJVCpiSTLDGs5A) | [Kolejny Marzec](https://open.spotify.com/album/37bVRC9MrNGXpU0ITCmRYA) | 2:50 | 2024-06-28 | 2024-07-19 |
 | [Kompleks Boga](https://open.spotify.com/track/25xdnX6NokQxIylrlcrURn) | [Hania](https://open.spotify.com/artist/4orDCRH2msx7nvHsbWP2aa), [Szymon Pałyz](https://open.spotify.com/artist/6hyNPMwg4ERl3hk2W4Kxdz) | [Kompleks Boga](https://open.spotify.com/album/0VztBtq2zkNSBwVrcUDktK) | 3:07 | 2025-07-31 | 2025-11-19 |
@@ -529,7 +530,7 @@
 | [P\*RNSTAR](https://open.spotify.com/track/0IVAYMUDvpzFxIEuGc71SM) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [AFTERCARE](https://open.spotify.com/album/6h9oVEkQTYEL3aoVAnfpub) | 2:29 | 2025-01-23 | 2025-01-31 |
 | [pajęcze lilie](https://open.spotify.com/track/6Y6f7kQa1kj0tvY2rVN5hu) | [irys](https://open.spotify.com/artist/4oUskmafCJAJzSKYxhia6U), [Marcin Przybyłowicz](https://open.spotify.com/artist/07vycW8ICLf5hKb22PFWXw) | [pajęcze lilie](https://open.spotify.com/album/5wEivRW2GnR1Hl7IHCXxZ1) | 3:52 | 2024-09-27 | 2025-01-24 |
 | [PALO SANTO](https://open.spotify.com/track/2STHRcJesfqpaDIdbGk9i7) | [Kajetan Wolas](https://open.spotify.com/artist/6tpxFh5TlBxnHzrAfFlCXj), [Moo Latte](https://open.spotify.com/artist/3gNjxcKLkMfZYKlLxn0O9F) | [PALO SANTO](https://open.spotify.com/album/18grvDifqNzAlYNdTOufLK) | 2:40 | 2025-05-01 | 2025-07-25 |
-| [Palę żale](https://open.spotify.com/track/3AomUcaIEH9zIrrj2oKir5) | [Amelia And](https://open.spotify.com/artist/58wKaNZ5iuXaeelRtHzEsk), [Filipek](https://open.spotify.com/artist/5hqRsNHDZH1jHzI9LgxFRZ) | [Palę żale](https://open.spotify.com/album/7zbbNbDzQyLjbJFznvNwfU) | 2:26 | 2026-04-17 |  |
+| [Palę żale](https://open.spotify.com/track/3AomUcaIEH9zIrrj2oKir5) | [Amelia And](https://open.spotify.com/artist/58wKaNZ5iuXaeelRtHzEsk), [Filipek](https://open.spotify.com/artist/5hqRsNHDZH1jHzI9LgxFRZ) | [Palę żale](https://open.spotify.com/album/7zbbNbDzQyLjbJFznvNwfU) | 2:26 | 2026-04-17 | 2026-05-25 |
 | [PAMIĘTAJ](https://open.spotify.com/track/5xGpJoxIzALCGEVreG4KoW) | [pszona](https://open.spotify.com/artist/4aDCdXr7zIjjO8zk9URwMq), [FANKA](https://open.spotify.com/artist/5wUmzMcZxXPMi2qpddL0wg) | [PAMIĘTAJ](https://open.spotify.com/album/3FWEcL3khaOowLFFzgNDLE) | 2:48 | 2026-03-26 |  |
 | [Pamiętasz nas?](https://open.spotify.com/track/6HvzmkNyvkqBa3GBUiCjjp) | [Kajetan Wolas](https://open.spotify.com/artist/6tpxFh5TlBxnHzrAfFlCXj), [Kuba Karaś](https://open.spotify.com/artist/39ycziDyXzRblGDq5L243I), [Zuza Jabłońska](https://open.spotify.com/artist/2obyllmx54A5zB0yZe5ikt) | [Pamiętasz nas?](https://open.spotify.com/album/7c9gbhkW4siOnhnezkPV64) | 3:11 | 2024-06-28 | 2024-07-12 |
 | [pamiętasz?](https://open.spotify.com/track/17oBC8vG7zlS0e7V0pBIQP) | [Alicja](https://open.spotify.com/artist/1QDigvoDqzcojpLCK6soAb), [Bartek Królik](https://open.spotify.com/artist/4rE8hvv3ZvCVAyaxZVtmTT) | [nie wracam](https://open.spotify.com/album/4Zmx2snI7W2imHGADlCup1) | 2:42 | 2024-06-28 | 2024-11-22 |

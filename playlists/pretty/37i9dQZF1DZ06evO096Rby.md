@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO096Rby.md) - [plain]
 
 > This is Edgardo Nuñez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,439 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,467 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO096Rby.md) - [plain]
 | 26 | [Yo Soy El Pirata](https://open.spotify.com/track/5rzULa4UZ6XbWLIxoMdukv) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Yo Soy El Pirata](https://open.spotify.com/album/3I5LuSJcPwnlA3VFwnQXuh) | 2:48 |
 | 27 | [Vencedor](https://open.spotify.com/track/50oepi2tLLJMl8rAsEyRRy) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Vencedor](https://open.spotify.com/album/6cDOkIgadHgQ30JIaxGTAV) | 3:03 |
 | 28 | [De Que Color Es La Suerte](https://open.spotify.com/track/2RhyI9fUK2bEn6blowOh9w) | [Los Alegres Del Barranco](https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [De Que Color Es La Suerte](https://open.spotify.com/album/7Luhi6dMH1sWR1KhrWrGOD) | 3:41 |
-| 29 | [Mi Pasado y Mi Presente \- En Vivo](https://open.spotify.com/track/2aCHeupWslL71PoSuNIxTN) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Desde Houston \(En Vivo\)](https://open.spotify.com/album/7aWO3kNcUbNO7UlLqWlwOp) | 4:25 |
-| 30 | [El Don Nadie \- En Vivo](https://open.spotify.com/track/3AxzKzoESCwJcwFFpXlQNE) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [En Vivo Con Banda y Norteño](https://open.spotify.com/album/6ofKDT8xaWhO6VIpaf3wdp) | 3:00 |
+| 29 | [El Don Nadie \- En Vivo](https://open.spotify.com/track/3AxzKzoESCwJcwFFpXlQNE) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [En Vivo Con Banda y Norteño](https://open.spotify.com/album/6ofKDT8xaWhO6VIpaf3wdp) | 3:00 |
+| 30 | [Mi Pasado y Mi Presente \- En Vivo](https://open.spotify.com/track/2aCHeupWslL71PoSuNIxTN) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Desde Houston \(En Vivo\)](https://open.spotify.com/album/7aWO3kNcUbNO7UlLqWlwOp) | 4:25 |
 | 31 | [Sentimientos De Carton \- En Vivo](https://open.spotify.com/track/2I24ChV8vV9MFxT3ju4Z54) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602 Vol.3 \(En Vivo\)](https://open.spotify.com/album/1BqEmjAfzAAtKWULjOW0z8) | 3:21 |
 | 32 | [Y Ahora Te Vas \- En Vivo](https://open.spotify.com/track/19qba16XwdaHTXVrmPKZcM) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Sin Miedo \(En Vivo\)](https://open.spotify.com/album/6jPw6jBlRWQGnoaFzf2Ve5) | 3:54 |
 | 33 | [Polvo Soy](https://open.spotify.com/track/7rzEV4j9gxblnC9DHN53iC) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Polvo Soy](https://open.spotify.com/album/3SWmKgWCz1IOYbkdPjqVc7) | 2:53 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO096Rby.md) - [plain]
 | 46 | [A Dios Le Pedía](https://open.spotify.com/track/65keL132eDsLtq1fWZXCz3) | [Emmanuel Cortes](https://open.spotify.com/artist/7hDt3OE2ubsKzO9rMYPXox), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Amor x Dosis](https://open.spotify.com/album/2rt2XjqNWSZuETGY8ldVny) | 3:18 |
 | 47 | [Pongase Bien Chula](https://open.spotify.com/track/2Jp6ClwLW6AWEmCGSNOFm4) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Pongase Bien Chula](https://open.spotify.com/album/3FQ4rPKYElCuLXD6FztfoF) | 2:44 |
 | 48 | [La Hija Del Señor](https://open.spotify.com/track/2DMb5Q3RcI8fR12AKbtMPH) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Calmados y No Dejados](https://open.spotify.com/album/3Yo3eHcPwmb9727m6Fd12d) | 3:13 |
-| 49 | [Es Por Ti](https://open.spotify.com/track/1wAa4SwcmuffVDXwL6PpPY) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Juanpa Salazar](https://open.spotify.com/artist/6r92NGrlnmNvFJA9Kl0PAx) | [Es Por Ti](https://open.spotify.com/album/4oGlytrjITiA75RXzWJt3f) | 2:35 |
-| 50 | [HDTPM](https://open.spotify.com/track/0V1Pq0ToZh1ZP5VCSxgWA5) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [HDTPM](https://open.spotify.com/album/3LEGUBBcYTvxISyzxYanZ1) | 2:37 |
+| 49 | [HDTPM](https://open.spotify.com/track/0V1Pq0ToZh1ZP5VCSxgWA5) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [HDTPM](https://open.spotify.com/album/3LEGUBBcYTvxISyzxYanZ1) | 2:37 |
+| 50 | [Es Por Ti](https://open.spotify.com/track/1wAa4SwcmuffVDXwL6PpPY) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Juanpa Salazar](https://open.spotify.com/artist/6r92NGrlnmNvFJA9Kl0PAx) | [Es Por Ti](https://open.spotify.com/album/4oGlytrjITiA75RXzWJt3f) | 2:35 |
 
-Snapshot ID: `ag+cgAAAAACwPlaiQYUL6lKZB2dzVi+P`
+Snapshot ID: `ahDuAAAAAAAR8rwoy1d0Br4jwD7zVoBH`

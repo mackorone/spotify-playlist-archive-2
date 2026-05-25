@@ -1,12 +1,12 @@
 {
   "description": "This is Asake. The essential tracks, all in one playlist.",
-  "num_followers": 77112,
+  "num_followers": 77200,
   "original_name": "This Is Asake",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ag+cgAAAAAAm30TSlDe1H9CMwEhKTVwQ",
+  "snapshot_id": "ahDuAAAAAACWgBKdszMU9VW76D91UNMo",
   "tracks": [
     {
       "added_at": null,
@@ -39,6 +39,26 @@
       "duration_ms": 169911,
       "name": "Gratitude",
       "url": "https://open.spotify.com/track/7hiRlw64LXcHpGAVJ6eUzv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chanel (feat. Asake)",
+        "url": "https://open.spotify.com/album/3ctssLn3Uq8WPudSkMrzWT"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 150260,
+      "name": "Chanel (feat. Asake)",
+      "url": "https://open.spotify.com/track/6JVQBlA628faJmvQbeyBHT"
     },
     {
       "added_at": null,
@@ -79,6 +99,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "M$NEY",
+        "url": "https://open.spotify.com/album/07iqzVICrgPFOpXem6MEpU"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 170526,
+      "name": "MCBH",
+      "url": "https://open.spotify.com/track/36PS8XCemqmPvigIL8S40B"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Jogodo",
         "url": "https://open.spotify.com/album/5X7g2w1hllfIhYhbyMSLpx"
       },
@@ -95,22 +131,6 @@
       "duration_ms": 188861,
       "name": "Jogodo",
       "url": "https://open.spotify.com/track/2njWzPDRRhsXOUhiA42e62"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "M$NEY",
-        "url": "https://open.spotify.com/album/07iqzVICrgPFOpXem6MEpU"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 170526,
-      "name": "MCBH",
-      "url": "https://open.spotify.com/track/36PS8XCemqmPvigIL8S40B"
     },
     {
       "added_at": null,
@@ -147,26 +167,6 @@
       "duration_ms": 155773,
       "name": "Alaye",
       "url": "https://open.spotify.com/track/1juUeg0oAfCwO8xWj4rzZg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chanel (feat. Asake)",
-        "url": "https://open.spotify.com/album/3ctssLn3Uq8WPudSkMrzWT"
-      },
-      "artists": [
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        },
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 150260,
-      "name": "Chanel (feat. Asake)",
-      "url": "https://open.spotify.com/track/6JVQBlA628faJmvQbeyBHT"
     },
     {
       "added_at": null,

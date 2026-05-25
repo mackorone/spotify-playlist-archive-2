@@ -1,6 +1,6 @@
 {
   "description": "Where hip-hop and soul meets jazz. Cover: Digable Planets",
-  "num_followers": 383928,
+  "num_followers": 384038,
   "original_name": "Acid Jazz",
   "owner": {
     "name": "Spotify",
@@ -587,22 +587,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Here Come The Lords",
-        "url": "https://open.spotify.com/album/15nPVESpZNf0QBRwu2sMbI"
-      },
-      "artists": [
-        {
-          "name": "Lords Of The Underground",
-          "url": "https://open.spotify.com/artist/17Q9sCBpIyS6yM2YyaI6R4"
-        }
-      ],
-      "duration_ms": 166400,
-      "name": "Lord Jazz Hit Me One Time (Make It Funky)",
-      "url": "https://open.spotify.com/track/2vWaZmzwxRDNYySRGUdq3N"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Adrenalin",
         "url": "https://open.spotify.com/album/79JZAbb01l4hyVs0JNJJEe"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 355373,
       "name": "Love Will Bring Us Back Together",
       "url": "https://open.spotify.com/track/2LCsNgUX2qsEbKZ9yLRUJq"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Here Come The Lords",
+        "url": "https://open.spotify.com/album/15nPVESpZNf0QBRwu2sMbI"
+      },
+      "artists": [
+        {
+          "name": "Lords Of The Underground",
+          "url": "https://open.spotify.com/artist/17Q9sCBpIyS6yM2YyaI6R4"
+        }
+      ],
+      "duration_ms": 166400,
+      "name": "Lord Jazz Hit Me One Time (Make It Funky)",
+      "url": "https://open.spotify.com/track/2vWaZmzwxRDNYySRGUdq3N"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -779,22 +779,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "In the Hand of the Inevitable",
-        "url": "https://open.spotify.com/album/4XTXpbLvjAvzyzInkgK992"
-      },
-      "artists": [
-        {
-          "name": "James Taylor Quartet",
-          "url": "https://open.spotify.com/artist/4yJ5JaEQvtAynbcucAiN0R"
-        }
-      ],
-      "duration_ms": 294240,
-      "name": "Free Your Mind",
-      "url": "https://open.spotify.com/track/6YjqkGsBgRHqdnbCS4pbjs"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "urban lounge",
         "url": "https://open.spotify.com/album/18S1slBXavEGjhjJgVEPhr"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 240053,
       "name": "Apparently Nothin' - Edit",
       "url": "https://open.spotify.com/track/5OpfYk7WM53sDn3GQdrnZt"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "In the Hand of the Inevitable",
+        "url": "https://open.spotify.com/album/4XTXpbLvjAvzyzInkgK992"
+      },
+      "artists": [
+        {
+          "name": "James Taylor Quartet",
+          "url": "https://open.spotify.com/artist/4yJ5JaEQvtAynbcucAiN0R"
+        }
+      ],
+      "duration_ms": 294240,
+      "name": "Free Your Mind",
+      "url": "https://open.spotify.com/track/6YjqkGsBgRHqdnbCS4pbjs"
     },
     {
       "added_at": "2022-07-14 19:24:43",

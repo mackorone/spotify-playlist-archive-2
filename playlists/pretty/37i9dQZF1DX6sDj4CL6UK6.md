@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sDj4CL6UK6.md) - [plain]
 
 > English songs from Indian artists.<br/>Cover: Prateek Kuhad
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,893 likes - 71 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,894 likes - 71 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,16 +25,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sDj4CL6UK6.md) - [plain]
 | 15 | [I'm Coming Home](https://open.spotify.com/track/2jSzZzNlmi9kIh1QHGUYNg) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [I'm Coming Home](https://open.spotify.com/album/0FBJyrE6rFKntb4lRDA9GA) | 2:45 |
 | 16 | [I'm Someone New](https://open.spotify.com/track/7hG3voGIQnOEYRqcUQ5hbD) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [I'm Someone New](https://open.spotify.com/album/5QwDXdYTzUiaY6geFpTgZX) | 4:13 |
 | 17 | [Halfway](https://open.spotify.com/track/3o3GYMcTzZi3bowHsoGAbi) | [Taba Chake](https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy) | [Halfway](https://open.spotify.com/album/7grcqqugy7VGt4GV72oxpC) | 3:28 |
-| 18 | [again...](https://open.spotify.com/track/0RQ0T4W9TsdZW9AjAv4LBl) | [Aarya](https://open.spotify.com/artist/0hiGMrsjO7uwlfNq4NS7wf) | [again...](https://open.spotify.com/album/5yS0RM2MKru6bQdYLq1k2V) | 2:57 |
-| 19 | [People Never Change \- Radio Edit](https://open.spotify.com/track/0BEU8reIpQUKYtFg6O7fU9) | [Peter Cat Recording Co.](https://open.spotify.com/artist/41Nu7NgAj9rJxjj7JDuXrV) | [People Never Change](https://open.spotify.com/album/44fRKtfgTRHDYyUnC0N4LR) | 2:45 |
+| 18 | [People Never Change \- Radio Edit](https://open.spotify.com/track/0BEU8reIpQUKYtFg6O7fU9) | [Peter Cat Recording Co.](https://open.spotify.com/artist/41Nu7NgAj9rJxjj7JDuXrV) | [People Never Change](https://open.spotify.com/album/44fRKtfgTRHDYyUnC0N4LR) | 2:45 |
+| 19 | [again...](https://open.spotify.com/track/0RQ0T4W9TsdZW9AjAv4LBl) | [Aarya](https://open.spotify.com/artist/0hiGMrsjO7uwlfNq4NS7wf) | [again...](https://open.spotify.com/album/5yS0RM2MKru6bQdYLq1k2V) | 2:57 |
 | 20 | [NOT A ROCKSTAR](https://open.spotify.com/track/3A8cLBzIsB5iIr8Byu5eqE) | [Shikhar](https://open.spotify.com/artist/0P5toqZxqkmKyhFXYES2k9), [Janisht Joshi](https://open.spotify.com/artist/0lxFJDXOwwxbYpo0EnA51Z) | [NOT A ROCKSTAR](https://open.spotify.com/album/2NrjqOYMj6FQzf7SwRg3IR) | 2:46 |
 | 21 | [Find Me](https://open.spotify.com/track/3kItJhN5lLgF2J97BiemJe) | [Trance Effect](https://open.spotify.com/artist/21P08lfKfkMN14Fs25E93A), [MongDoll](https://open.spotify.com/artist/7b4YrLbDfaE2rbhbWZvTYf) | [Find Me](https://open.spotify.com/album/72RTHcmSea8xyDuVzDWTnm) | 3:01 |
 | 22 | [Over the Moon](https://open.spotify.com/track/47m0YD9ERn5IZIjRcxxJ9B) | [axe.shay](https://open.spotify.com/artist/5nGvxnSGQEICmBXZojfqH7) | [Over the Moon](https://open.spotify.com/album/0f7P0KplCgbOXCuZ2RCPQJ) | 3:56 |
 | 23 | [You’re Not Sorry](https://open.spotify.com/track/7khy0rHAOfdbIjjOtSHCmC) | [Abdon Mech](https://open.spotify.com/artist/7GY6RgfJdJDs2euNW5Scv4) | [Not Overthinking This](https://open.spotify.com/album/5II8XlsVFGRtwt7cKTOOhV) | 3:25 |
 | 24 | [Kindergarten Juliet](https://open.spotify.com/track/5hpvF3zigqgwOicVeeyMoX) | [Janisht Joshi](https://open.spotify.com/artist/0lxFJDXOwwxbYpo0EnA51Z), [Timothy Thampy](https://open.spotify.com/artist/516N84Zm8jTFBAIDSK3uLK) | [Kindergarten Juliet](https://open.spotify.com/album/71UxutgcpGPi7IvNc4d8sk) | 2:54 |
 | 25 | [My Last Cigarette](https://open.spotify.com/track/1RAQBHitlcTb4MJVxoLQ2n) | [Frizzell D'souza](https://open.spotify.com/artist/17j8WfojaUlIDrnDG7IfIQ) | [My Last Cigarette](https://open.spotify.com/album/0t1TJ4kb04P7rcIkVSzue0) | 4:37 |
-| 26 | [Hourglass](https://open.spotify.com/track/2XoGeM2c6R2UFz8SKnJ0WV) | [Run it's the Kid](https://open.spotify.com/artist/36057fby7tY856T2vg7jQj) | [Hourglass](https://open.spotify.com/album/2XYwu6Gzx44CvbVCdjhWGE) | 2:56 |
-| 27 | [Unicorn and the Sheep](https://open.spotify.com/track/4YWeZa7AfJArkijVVq8ayc) | [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN) | [Unicorn And The Sheep](https://open.spotify.com/album/1Gd4ISqgkzf5WZHLjzUaHI) | 2:31 |
+| 26 | [Unicorn and the Sheep](https://open.spotify.com/track/4YWeZa7AfJArkijVVq8ayc) | [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN) | [Unicorn And The Sheep](https://open.spotify.com/album/1Gd4ISqgkzf5WZHLjzUaHI) | 2:31 |
+| 27 | [Hourglass](https://open.spotify.com/track/2XoGeM2c6R2UFz8SKnJ0WV) | [Run it's the Kid](https://open.spotify.com/artist/36057fby7tY856T2vg7jQj) | [Hourglass](https://open.spotify.com/album/2XYwu6Gzx44CvbVCdjhWGE) | 2:56 |
 | 28 | [No One's Baby](https://open.spotify.com/track/7jBaw5iWZmvbga7nIbp7Y4) | [Kiara Chettri](https://open.spotify.com/artist/6bO1Y6AkZ6jtWqmktvmmJ5) | [No One's Baby](https://open.spotify.com/album/6nMYUfTcGxnYyfjUxj0RJI) | 3:26 |
 | 29 | [La La Land](https://open.spotify.com/track/4ntSlRcL76zb4dhiBycTUo) | [Taba Chake](https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy) | [Khud Ko Miloon](https://open.spotify.com/album/4a8jBar9By0bgZnzgsKp29) | 2:40 |
 | 30 | [a hiatus](https://open.spotify.com/track/1pqqrwwQrb3HW9ctIN3K2E) | [sudan](https://open.spotify.com/artist/7xLQxBMXlCJT50jWVZfSME), [Tejas](https://open.spotify.com/artist/4CK1oDthUad8mQBb8GAcfl) | [pocket friendly: volume i](https://open.spotify.com/album/6X1Y8C2xvh0yWYj1MrQZOh) | 2:47 |

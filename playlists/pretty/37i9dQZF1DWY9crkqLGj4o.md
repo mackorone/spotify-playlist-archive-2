@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9crkqLGj4o.md) - [plain]
 
 > Lavando e louvando a Deus com grandes hinos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 449,294 likes - 75 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 449,308 likes - 75 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9crkqLGj4o.md) - [plain]
 | 57 | [A Promessa](https://open.spotify.com/track/1fRw17yPVFjRS6lPovRbrL) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld), [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Vai Valer a Pena](https://open.spotify.com/album/16y13iFjoAQcnTveRj0eCx) | 4:09 |
 | 58 | [Teu Santo Nome \- Ao Vivo](https://open.spotify.com/track/0CP4vevAzKaN0M5SXEGMXh) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Até Transbordar \(Ao Vivo\)](https://open.spotify.com/album/3HjpM1erx8nlbEgmNKpIj0) | 7:16 |
 | 59 | [Deus Vai Chegar Primeiro \- Ao Vivo](https://open.spotify.com/track/09raNwSAWTI0H0wYwVZhoR) | [Leandro Borges](https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ) | [A Igreja Canta \(Ao Vivo\)](https://open.spotify.com/album/5N8VNemVfa6Si2s95CriSq) | 5:47 |
-| 60 | [Eu Me Rendo](https://open.spotify.com/track/3UrnpCBQyiWGCbZvsJsdck) | [Renascer Praise](https://open.spotify.com/artist/2eYrf1zekGvHGRkl9DZyGR) | [Renascer Praise 13: A Colheita](https://open.spotify.com/album/5F2jRc40cXhteOGtOvsDA1) | 6:12 |
-| 61 | [TRAIÇÃO NA MESA](https://open.spotify.com/track/5klH9yQ6VRFvfdP654eIg4) | [Israel Santos](https://open.spotify.com/artist/4YI34fXVNnt3gsRhXjRcSu) | [TRAIÇÃO NA MESA](https://open.spotify.com/album/0Eqbeu7lWpuIW2Kgsy3MOo) | 3:03 |
+| 60 | [TRAIÇÃO NA MESA](https://open.spotify.com/track/5klH9yQ6VRFvfdP654eIg4) | [Israel Santos](https://open.spotify.com/artist/4YI34fXVNnt3gsRhXjRcSu) | [TRAIÇÃO NA MESA](https://open.spotify.com/album/0Eqbeu7lWpuIW2Kgsy3MOo) | 3:03 |
+| 61 | [Eu Me Rendo](https://open.spotify.com/track/3UrnpCBQyiWGCbZvsJsdck) | [Renascer Praise](https://open.spotify.com/artist/2eYrf1zekGvHGRkl9DZyGR) | [Renascer Praise 13: A Colheita](https://open.spotify.com/album/5F2jRc40cXhteOGtOvsDA1) | 6:12 |
 | 62 | [Louvemos Ao Senhor](https://open.spotify.com/track/2oecUNxFC5Pyvs63LGkfGa) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Memórias Deluxe](https://open.spotify.com/album/3b9hU8E13bsYweRr3Bsj7Y) | 4:31 |
 | 63 | [Pai Presente](https://open.spotify.com/track/17A6kCom591jICydbChxCk) | [Ton Carfi](https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756), [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Pai Presente](https://open.spotify.com/album/682eYG75UszY1zmE0yHhys) | 4:53 |
 | 64 | [Vem Dando Glória \- Ao Vivo](https://open.spotify.com/track/13cRpWPJjyC6aFqNKNX9aO) | [Néia Do Surdo](https://open.spotify.com/artist/52yjuIfCOxTgugRDIxZvCw), [Pagodah](https://open.spotify.com/artist/47a5fNlYub0UA5ZEbjA11c) | [Vem Dando Glória \(Ao Vivo\)](https://open.spotify.com/album/5S7hBEDl08T6ekDrqg5N4H) | 4:19 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdT1jOpMhU1J.md) - [plain]
 
 > Canções de ninar para o seu bebê ter um sono profundo
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,591 likes - 134 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,601 likes - 134 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

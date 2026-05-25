@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3grxzg.md) - [plain]
 
 > This is Danna Paola\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 235,568 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 235,561 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3grxzg.md) - [plain]
 | 16 | [tqum \(feat\. Kim Petras\) \- Remix](https://open.spotify.com/track/4XkGvXQm7GKZDZkQ6CgMDN) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [tqum \(feat\. Kim Petras\) \[Remix\]](https://open.spotify.com/album/3AkqnUN42HjnrhzjDOA8IS) | 2:29 |
 | 17 | [Si Tu Vuelas \- Hadal Ahbek \[Alok Remix\]](https://open.spotify.com/track/5UzmjsUHQDr6hYuZbXfXoT) | [Issam Alnajjar](https://open.spotify.com/artist/6dO0RkhFhjMwLtLQqNgL8r), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [BAREE?](https://open.spotify.com/album/1gZW7IiLxwvWx0VAR9HK3X) | 3:17 |
 | 18 | [Welcome](https://open.spotify.com/track/6XHAknr2XSEmfN09SRHyJa) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB), [Las Divinas](https://open.spotify.com/artist/5GsCDlhZrJrmJi3EaSS5oY), [Las Populares](https://open.spotify.com/artist/2DUNKEtgbgyBJA7TdX3bcX), [Los Klasicos](https://open.spotify.com/artist/3zE35VTA8dJXtbx8YTHzBq), [Los Basikos](https://open.spotify.com/artist/2tDH13R8KOOQlWh3qnNOC2) | [Atrévete A Soñar 2](https://open.spotify.com/album/12ZHvtCWmZqtud4TndhrSS) | 3:52 |
-| 19 | [Cuándo empezaré a vivir](https://open.spotify.com/track/01U7QYOVuLq4awzs5Z7z4s) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Disney Princesas: Canciones de las Princesas](https://open.spotify.com/album/3nDUYzBoVY7wDSRAtyKgR0) | 2:28 |
-| 20 | [Paranoia](https://open.spotify.com/track/3fteNuQG0KtROKx1Egd5NT) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [HiROQUEST 2: Double Helix](https://open.spotify.com/album/4pkSnhESY9LSZUk1n0pLTT) | 3:00 |
+| 19 | [Paranoia](https://open.spotify.com/track/3fteNuQG0KtROKx1Egd5NT) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [HiROQUEST 2: Double Helix](https://open.spotify.com/album/4pkSnhESY9LSZUk1n0pLTT) | 3:00 |
+| 20 | [Cuándo empezaré a vivir](https://open.spotify.com/track/01U7QYOVuLq4awzs5Z7z4s) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Disney Princesas: Canciones de las Princesas](https://open.spotify.com/album/3nDUYzBoVY7wDSRAtyKgR0) | 2:28 |
 | 21 | [Nada](https://open.spotify.com/track/5f2LcI06r5cpp99ozVVuM4) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Cali Y El Dandee: Fiesta](https://open.spotify.com/album/0tb6uSXTCSnViCjTJo0hwb) | 2:54 |
 | 22 | [Azul Como El Cielo](https://open.spotify.com/track/4VcZEDgmzHll1eKhY8OzyW) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB), [Tatiana](https://open.spotify.com/artist/60alJNnwGVBdNXrx4kOfW0) | [Amy La Niña De La Mochila Azul Vol.1](https://open.spotify.com/album/2ERfJwem9i66Ax0b1is8Iw) | 3:36 |
 | 23 | [Quiero, Quiero](https://open.spotify.com/track/1x9JnlRBGxftp0okw81go2) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB), [Las Divinas](https://open.spotify.com/artist/5GsCDlhZrJrmJi3EaSS5oY), [Las Populares](https://open.spotify.com/artist/2DUNKEtgbgyBJA7TdX3bcX), [Los Klasicos](https://open.spotify.com/artist/3zE35VTA8dJXtbx8YTHzBq), [Los Basikos](https://open.spotify.com/artist/2tDH13R8KOOQlWh3qnNOC2) | [Atrévete A Soñar](https://open.spotify.com/album/571Z1f9GtauZi0OmKUyPu6) | 2:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3grxzg.md) - [plain]
 | 49 | [Pablo Y Andrea](https://open.spotify.com/track/7q0iEiiHZgofj5gzkXmHkG) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [A Romper La Piñata](https://open.spotify.com/album/3GNl89v4dDBIoH91sXvazf) | 2:45 |
 | 50 | [La Fogata](https://open.spotify.com/track/5oFMxXRAwhoqZXAXTOjWwU) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB), [Lilibeth Lilibeth](https://open.spotify.com/artist/07UPbQXEAp4kUeJ27mmfI3), [Luis Fernando Madriz](https://open.spotify.com/artist/6xBIGCZWv0dIYUubdTpVNC) | [AmyLla Niña De La Mochila Azul Vol.2](https://open.spotify.com/album/0NuxVwqO5z5khKtDgS2EdW) | 2:00 |
 
-Snapshot ID: `ag+cgAAAAADt2i8zb8027XQQ55KivQWs`
+Snapshot ID: `ahDuAAAAAACxbjLajtEukih8zki3wkoj`

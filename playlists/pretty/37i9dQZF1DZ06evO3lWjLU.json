@@ -1,12 +1,12 @@
 {
   "description": "This is Danny Ocean. The essential tracks, all in one playlist.",
-  "num_followers": 329005,
+  "num_followers": 329090,
   "original_name": "This Is Danny Ocean",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ag+cgAAAAADtdIOlmS3DUGXKplQjwKpv",
+  "snapshot_id": "ahDuAAAAAADXfaIrJnPIQUMajtvXxaQi",
   "tracks": [
     {
       "added_at": null,
@@ -715,26 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ESA NOCHE TERMIN\u00d3 DE D\u00cdA",
-        "url": "https://open.spotify.com/album/685PBfRH0QRFMf7ieMAOYv"
-      },
-      "artists": [
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        },
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 161454,
-      "name": "3AM - TE 100PRE",
-      "url": "https://open.spotify.com/track/36VDFqRKppSVbrCo23SC6p"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Correcaminos",
         "url": "https://open.spotify.com/album/5URH83B2vJrrZ47uTOb3zQ"
       },
@@ -751,6 +731,26 @@
       "duration_ms": 182106,
       "name": "Correcaminos",
       "url": "https://open.spotify.com/track/3aCLD0IqnpnG09ZhfyUqIC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ESA NOCHE TERMIN\u00d3 DE D\u00cdA",
+        "url": "https://open.spotify.com/album/685PBfRH0QRFMf7ieMAOYv"
+      },
+      "artists": [
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        },
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 161454,
+      "name": "3AM - TE 100PRE",
+      "url": "https://open.spotify.com/track/36VDFqRKppSVbrCo23SC6p"
     },
     {
       "added_at": null,

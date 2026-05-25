@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Bunfq.md) - [plain]
 
 > This is Dharius\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,679 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,698 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Bunfq.md) - [plain]
 | 26 | [Ve Como Ando](https://open.spotify.com/track/40PRueUeMTIsPHvJs2dUFz) | [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [Tiro Loko](https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx) | [Ve Como Ando](https://open.spotify.com/album/41CDstL6US0TQ9hVrIJJBL) | 3:14 |
 | 27 | [VNDO](https://open.spotify.com/track/62lcIAirqahXFb9EM2gNjP) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [VNDO](https://open.spotify.com/album/6IMVC2fXSxKfLJ8FI2rYp3) | 3:51 |
 | 28 | [Te Gustan Malos](https://open.spotify.com/track/6VexUh4HjrQOBEGhLKspoS) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Mala Fama, Buena Vidha](https://open.spotify.com/album/6HDPRXDl3Vsj8ksZyfpP5V) | 4:06 |
-| 29 | [LA PARRANDHA](https://open.spotify.com/track/6XFTqMW87jrYBQ3SS8vYpZ) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [LA PARRANDHA](https://open.spotify.com/album/2OrhT6OwvY3Hdm3EFoW9iM) | 3:58 |
-| 30 | [Recia](https://open.spotify.com/track/1BXba3d3aIzvM4wgn8hSVC) | [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Recia](https://open.spotify.com/album/2lCjZdvsSzI9W79U5nmp5p) | 3:57 |
+| 29 | [Recia](https://open.spotify.com/track/1BXba3d3aIzvM4wgn8hSVC) | [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Recia](https://open.spotify.com/album/2lCjZdvsSzI9W79U5nmp5p) | 3:57 |
+| 30 | [LA PARRANDHA](https://open.spotify.com/track/6XFTqMW87jrYBQ3SS8vYpZ) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [LA PARRANDHA](https://open.spotify.com/album/2OrhT6OwvY3Hdm3EFoW9iM) | 3:58 |
 | 31 | [Sin Dormir \(Ya Se Armó\)](https://open.spotify.com/track/1HfHDbNHzafjjxnLoAobRA) | [Jayrick](https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Estrafalario](https://open.spotify.com/album/7lO0gX1rSWXYO9gnUqpY1p) | 2:40 |
 | 32 | [MSD](https://open.spotify.com/track/6NKoySwuX4k0UivbwQ9DyY) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [MSD](https://open.spotify.com/album/2wdRzxF9wnFKapjvdrNPpb) | 2:49 |
 | 33 | [No te puedo olvidar](https://open.spotify.com/track/1CGKE1aNJ9gW2jRsfD0mZv) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [El Diablo, La Muerte y Yo](https://open.spotify.com/album/5S1xpCaPIqh72xLdFRGNvj) | 3:34 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Bunfq.md) - [plain]
 | 42 | [Bien Loco](https://open.spotify.com/track/67iARlR1cb2fAovBwluJLA) | [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [D\-Sides](https://open.spotify.com/artist/5vakO9fG4OZarrMqZlXbcl) | [Bien Loco](https://open.spotify.com/album/4ZmFdjdojnPfXISVRDgCeA) | 2:49 |
 | 43 | [Tony Montana \(feat\. Tornillo\)](https://open.spotify.com/track/1gY3TMlLkEujxg0g5vSlTw) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL) | [El Diablo, La Muerte y Yo](https://open.spotify.com/album/5S1xpCaPIqh72xLdFRGNvj) | 3:47 |
 | 44 | [Mecha Corta](https://open.spotify.com/track/0eOv02uWpROIogqqzGLGyH) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Mecha Corta](https://open.spotify.com/album/08U3yHqqKgyDm0LLwH0gAA) | 3:30 |
-| 45 | [Para Olvidarme De Tus Besos](https://open.spotify.com/track/4CB7M0J9NNubspCy0WDlNL) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Una Historia Mal Contada](https://open.spotify.com/album/5lYcalORluIjuBEKJflc88) | 3:17 |
-| 46 | [El Perdedor](https://open.spotify.com/track/5QKymytqsCOJX5Jw7vQYCi) | [Tiro Loko](https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [El Perdedor](https://open.spotify.com/album/0J3NgEahBI5Hst8QJEY821) | 3:48 |
+| 45 | [El Perdedor](https://open.spotify.com/track/5QKymytqsCOJX5Jw7vQYCi) | [Tiro Loko](https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [El Perdedor](https://open.spotify.com/album/0J3NgEahBI5Hst8QJEY821) | 3:48 |
+| 46 | [Para Olvidarme De Tus Besos](https://open.spotify.com/track/4CB7M0J9NNubspCy0WDlNL) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Una Historia Mal Contada](https://open.spotify.com/album/5lYcalORluIjuBEKJflc88) | 3:17 |
 | 47 | [Qué Buen Fiestón](https://open.spotify.com/track/4wunXNPvuNXmqY6NzT1CIC) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Directo Hasta Arriba](https://open.spotify.com/album/15StyDArmT6s2A3zaiI552) | 2:49 |
 | 48 | [La Misión \(Episodio 2\)](https://open.spotify.com/track/63Ue3S576DpaAaDIZlMYsF) | [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [La Misión \(Episodio 2\)](https://open.spotify.com/album/07gHdHOclypZGhqlaRmuSi) | 5:23 |
 | 49 | [Relax](https://open.spotify.com/track/2OtKy3OiSyHPWyOqF9T2LF) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [El Diablo, La Muerte y Yo](https://open.spotify.com/album/5S1xpCaPIqh72xLdFRGNvj) | 3:13 |
 | 50 | [Esto Revienta](https://open.spotify.com/track/0eAgZ5JyKuowgYO9aZYsL9) | [Beto Sierra](https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Esto Revienta](https://open.spotify.com/album/7sIju5560ZxxmUtY7Ah3bO) | 2:51 |
 
-Snapshot ID: `ag+cgAAAAADn+rO01Y46hWVK7PGd40jc`
+Snapshot ID: `ahDuAAAAAACcOJLkL1kV9j775gc/zK/P`

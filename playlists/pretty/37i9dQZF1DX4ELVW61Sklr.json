@@ -1,6 +1,6 @@
 {
   "description": "A collection of R&B, Soul and Gospel flavored Christmas songs for the holidays.",
-  "num_followers": 236067,
+  "num_followers": 236062,
   "original_name": "R&B Christmas",
   "owner": {
     "name": "Spotify",
@@ -963,18 +963,18 @@
     {
       "added_at": "2025-10-24 15:07:41",
       "album": {
-        "name": "Let it Snow",
-        "url": "https://open.spotify.com/album/2cSUo8xgm6TmYfsLH4HVgm"
+        "name": "Mrs Clause",
+        "url": "https://open.spotify.com/album/3AeSLsmkyRANALmJEzDeOL"
       },
       "artists": [
         {
-          "name": "Josh Levi",
-          "url": "https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz"
+          "name": "NYA",
+          "url": "https://open.spotify.com/artist/5uERvTFbsm2Py897MvRSAs"
         }
       ],
-      "duration_ms": 202135,
-      "name": "Let it Snow",
-      "url": "https://open.spotify.com/track/40YWflAnC2hb8Ohz19YfUY"
+      "duration_ms": 223071,
+      "name": "Mrs Clause",
+      "url": "https://open.spotify.com/track/2z0I9SPBe6WBGaFki1NxvA"
     },
     {
       "added_at": "2025-10-24 15:07:41",
@@ -995,18 +995,18 @@
     {
       "added_at": "2025-10-24 15:07:41",
       "album": {
-        "name": "Mrs Clause",
-        "url": "https://open.spotify.com/album/3AeSLsmkyRANALmJEzDeOL"
+        "name": "Let it Snow",
+        "url": "https://open.spotify.com/album/2cSUo8xgm6TmYfsLH4HVgm"
       },
       "artists": [
         {
-          "name": "NYA",
-          "url": "https://open.spotify.com/artist/5uERvTFbsm2Py897MvRSAs"
+          "name": "Josh Levi",
+          "url": "https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz"
         }
       ],
-      "duration_ms": 223071,
-      "name": "Mrs Clause",
-      "url": "https://open.spotify.com/track/2z0I9SPBe6WBGaFki1NxvA"
+      "duration_ms": 202135,
+      "name": "Let it Snow",
+      "url": "https://open.spotify.com/track/40YWflAnC2hb8Ohz19YfUY"
     },
     {
       "added_at": "2025-10-24 15:07:41",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2025-10-24 15:07:41",
       "album": {
-        "name": "Your Favorite Christmas Songs",
-        "url": "https://open.spotify.com/album/2J4yoqNkSjA6zI4PYtdAy2"
-      },
-      "artists": [
-        {
-          "name": "Eric Bellinger",
-          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
-        }
-      ],
-      "duration_ms": 160083,
-      "name": "Deck the Halls",
-      "url": "https://open.spotify.com/track/7C1BWH7olUUDG2IeSY2KUP"
-    },
-    {
-      "added_at": "2025-10-24 15:07:41",
-      "album": {
         "name": "Jermaine Dupri Presents Twelve Soulful Nights Of Christmas",
         "url": "https://open.spotify.com/album/22oRE6gxAk1cTDbvffIDxm"
       },
@@ -1375,6 +1359,22 @@
     {
       "added_at": "2025-10-24 15:07:41",
       "album": {
+        "name": "Your Favorite Christmas Songs",
+        "url": "https://open.spotify.com/album/2J4yoqNkSjA6zI4PYtdAy2"
+      },
+      "artists": [
+        {
+          "name": "Eric Bellinger",
+          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
+        }
+      ],
+      "duration_ms": 160083,
+      "name": "Deck the Halls",
+      "url": "https://open.spotify.com/track/7C1BWH7olUUDG2IeSY2KUP"
+    },
+    {
+      "added_at": "2025-10-24 15:07:41",
+      "album": {
         "name": "Merry Like This",
         "url": "https://open.spotify.com/album/3n9bv3VnbOhJQu6KG2XM4c"
       },
@@ -1387,22 +1387,6 @@
       "duration_ms": 180588,
       "name": "Merry Like This",
       "url": "https://open.spotify.com/track/1BvOIRGQwiPsL3XPOdpZad"
-    },
-    {
-      "added_at": "2025-10-24 15:07:41",
-      "album": {
-        "name": "This Holiday",
-        "url": "https://open.spotify.com/album/0PqbB0pvi22Y4I1P2ecr6z"
-      },
-      "artists": [
-        {
-          "name": "WanMor",
-          "url": "https://open.spotify.com/artist/5XmuuM2C6t4HSPa3FSuU3h"
-        }
-      ],
-      "duration_ms": 176786,
-      "name": "This Holiday",
-      "url": "https://open.spotify.com/track/3IFrqRG94j0CCZwGJgVQlx"
     },
     {
       "added_at": "2025-10-24 15:07:41",
@@ -1427,6 +1411,38 @@
     {
       "added_at": "2025-10-24 15:07:41",
       "album": {
+        "name": "This Holiday",
+        "url": "https://open.spotify.com/album/0PqbB0pvi22Y4I1P2ecr6z"
+      },
+      "artists": [
+        {
+          "name": "WanMor",
+          "url": "https://open.spotify.com/artist/5XmuuM2C6t4HSPa3FSuU3h"
+        }
+      ],
+      "duration_ms": 176786,
+      "name": "This Holiday",
+      "url": "https://open.spotify.com/track/3IFrqRG94j0CCZwGJgVQlx"
+    },
+    {
+      "added_at": "2025-10-24 15:07:41",
+      "album": {
+        "name": "The Best Man Holiday: Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/1oV4pg51THaPN4eJveWxHt"
+      },
+      "artists": [
+        {
+          "name": "Monica",
+          "url": "https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2"
+        }
+      ],
+      "duration_ms": 165453,
+      "name": "Have Yourself a Merry Little Christmas",
+      "url": "https://open.spotify.com/track/7nWvhavXdp87bFQYrMXr9y"
+    },
+    {
+      "added_at": "2025-10-24 15:07:41",
+      "album": {
         "name": "Eazy Christmas",
         "url": "https://open.spotify.com/album/3l8Bbp0kaZXMhUCWKFx2FT"
       },
@@ -1439,22 +1455,6 @@
       "duration_ms": 179435,
       "name": "Kisses On Christmas",
       "url": "https://open.spotify.com/track/2zE7DVdqQxtcZ9LCuRpf0m"
-    },
-    {
-      "added_at": "2025-10-24 15:07:41",
-      "album": {
-        "name": "Christmas, Love And You",
-        "url": "https://open.spotify.com/album/55oTFa7qZbJW50tVnrJpN8"
-      },
-      "artists": [
-        {
-          "name": "Will Downing",
-          "url": "https://open.spotify.com/artist/69k2JfIQxMpBbc1wtmHWZY"
-        }
-      ],
-      "duration_ms": 261213,
-      "name": "Christmas, Love, and You",
-      "url": "https://open.spotify.com/track/7Inmp1hBrwS1PnV0zCxYwX"
     },
     {
       "added_at": "2025-10-24 15:07:41",
@@ -1475,18 +1475,18 @@
     {
       "added_at": "2025-10-24 15:07:41",
       "album": {
-        "name": "The Best Man Holiday: Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/1oV4pg51THaPN4eJveWxHt"
+        "name": "Christmas, Love And You",
+        "url": "https://open.spotify.com/album/55oTFa7qZbJW50tVnrJpN8"
       },
       "artists": [
         {
-          "name": "Monica",
-          "url": "https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2"
+          "name": "Will Downing",
+          "url": "https://open.spotify.com/artist/69k2JfIQxMpBbc1wtmHWZY"
         }
       ],
-      "duration_ms": 165453,
-      "name": "Have Yourself a Merry Little Christmas",
-      "url": "https://open.spotify.com/track/7nWvhavXdp87bFQYrMXr9y"
+      "duration_ms": 261213,
+      "name": "Christmas, Love, and You",
+      "url": "https://open.spotify.com/track/7Inmp1hBrwS1PnV0zCxYwX"
     },
     {
       "added_at": "2025-10-24 15:07:41",

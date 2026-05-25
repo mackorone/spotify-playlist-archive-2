@@ -1,6 +1,6 @@
 {
   "description": "Let go and let God.",
-  "num_followers": 346420,
+  "num_followers": 346412,
   "original_name": "Be Still",
   "owner": {
     "name": "Spotify",
@@ -531,18 +531,22 @@
     {
       "added_at": "2026-04-17 06:49:13",
       "album": {
-        "name": "Praise",
-        "url": "https://open.spotify.com/album/5jQqrndG6bMYnzNoeb6hZs"
+        "name": "Walking Each Other Home",
+        "url": "https://open.spotify.com/album/66MK44Etnba6obuePImbiy"
       },
       "artists": [
         {
-          "name": "Megan Tibbits",
-          "url": "https://open.spotify.com/artist/3J84729yu2ddpUVNcbqeWQ"
+          "name": "Emma Nissen",
+          "url": "https://open.spotify.com/artist/1DnRR6YVHXOJJ960ZKUzGS"
+        },
+        {
+          "name": "the postcards",
+          "url": "https://open.spotify.com/artist/7gX5xoV3AknQLhAXXQ8n32"
         }
       ],
-      "duration_ms": 278035,
-      "name": "Praise",
-      "url": "https://open.spotify.com/track/7pG1MzJgF91mS2PNAZ4LXd"
+      "duration_ms": 186374,
+      "name": "Walking Each Other Home",
+      "url": "https://open.spotify.com/track/0bKRWcR62BCpaUxKqumMdh"
     },
     {
       "added_at": "2026-04-17 06:49:13",
@@ -563,22 +567,18 @@
     {
       "added_at": "2026-04-17 06:49:13",
       "album": {
-        "name": "Walking Each Other Home",
-        "url": "https://open.spotify.com/album/66MK44Etnba6obuePImbiy"
+        "name": "Praise",
+        "url": "https://open.spotify.com/album/5jQqrndG6bMYnzNoeb6hZs"
       },
       "artists": [
         {
-          "name": "Emma Nissen",
-          "url": "https://open.spotify.com/artist/1DnRR6YVHXOJJ960ZKUzGS"
-        },
-        {
-          "name": "the postcards",
-          "url": "https://open.spotify.com/artist/7gX5xoV3AknQLhAXXQ8n32"
+          "name": "Megan Tibbits",
+          "url": "https://open.spotify.com/artist/3J84729yu2ddpUVNcbqeWQ"
         }
       ],
-      "duration_ms": 186374,
-      "name": "Walking Each Other Home",
-      "url": "https://open.spotify.com/track/0bKRWcR62BCpaUxKqumMdh"
+      "duration_ms": 278035,
+      "name": "Praise",
+      "url": "https://open.spotify.com/track/7pG1MzJgF91mS2PNAZ4LXd"
     },
     {
       "added_at": "2026-04-17 06:49:13",
@@ -615,18 +615,18 @@
     {
       "added_at": "2026-04-17 06:49:13",
       "album": {
-        "name": "I Remind Myself (Live)",
-        "url": "https://open.spotify.com/album/3YQj4UXmkPQ6d46bfXa0ob"
+        "name": "God Has Done",
+        "url": "https://open.spotify.com/album/1ziaEKFSpubNis50aiMcrg"
       },
       "artists": [
         {
-          "name": "LO Worship",
-          "url": "https://open.spotify.com/artist/3W1GhZUgWMZBqYwH42Ycuq"
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
         }
       ],
-      "duration_ms": 245989,
-      "name": "I Remind Myself - Live",
-      "url": "https://open.spotify.com/track/1u0bArttdfyhYH29gR23Zu"
+      "duration_ms": 179817,
+      "name": "God Has Done",
+      "url": "https://open.spotify.com/track/3k3Ax0x2M9OJGLOEtix5YB"
     },
     {
       "added_at": "2026-04-17 06:49:13",
@@ -647,22 +647,6 @@
     {
       "added_at": "2026-04-17 06:49:13",
       "album": {
-        "name": "God Has Done",
-        "url": "https://open.spotify.com/album/1ziaEKFSpubNis50aiMcrg"
-      },
-      "artists": [
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        }
-      ],
-      "duration_ms": 179817,
-      "name": "God Has Done",
-      "url": "https://open.spotify.com/track/3k3Ax0x2M9OJGLOEtix5YB"
-    },
-    {
-      "added_at": "2026-04-17 06:49:13",
-      "album": {
         "name": "If it wasn't for Jesus",
         "url": "https://open.spotify.com/album/1ZL9ejiRgiehK2F65ywwQ4"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 229800,
       "name": "If it wasn't for Jesus",
       "url": "https://open.spotify.com/track/7FVckXqUw0kkUU00TxCvV4"
+    },
+    {
+      "added_at": "2026-04-17 06:49:13",
+      "album": {
+        "name": "I Remind Myself (Live)",
+        "url": "https://open.spotify.com/album/3YQj4UXmkPQ6d46bfXa0ob"
+      },
+      "artists": [
+        {
+          "name": "LO Worship",
+          "url": "https://open.spotify.com/artist/3W1GhZUgWMZBqYwH42Ycuq"
+        }
+      ],
+      "duration_ms": 245989,
+      "name": "I Remind Myself - Live",
+      "url": "https://open.spotify.com/track/1u0bArttdfyhYH29gR23Zu"
     },
     {
       "added_at": "2026-04-17 06:49:13",
@@ -815,22 +815,6 @@
     {
       "added_at": "2026-04-17 06:49:13",
       "album": {
-        "name": "LOVER",
-        "url": "https://open.spotify.com/album/3NkS2GvxK92mCRj3uZqUeE"
-      },
-      "artists": [
-        {
-          "name": "Sondae",
-          "url": "https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "LOVER",
-      "url": "https://open.spotify.com/track/7HAbiaGuKiebH5AE3xSNzZ"
-    },
-    {
-      "added_at": "2026-04-17 06:49:13",
-      "album": {
         "name": "Here's to the Almosts",
         "url": "https://open.spotify.com/album/1whhv4WYV1FBw9jjelTIKV"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 239600,
       "name": "Here's to the Almosts",
       "url": "https://open.spotify.com/track/1sdqtL34eheja6evtbVSQk"
+    },
+    {
+      "added_at": "2026-04-17 06:49:13",
+      "album": {
+        "name": "LOVER",
+        "url": "https://open.spotify.com/album/3NkS2GvxK92mCRj3uZqUeE"
+      },
+      "artists": [
+        {
+          "name": "Sondae",
+          "url": "https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "LOVER",
+      "url": "https://open.spotify.com/track/7HAbiaGuKiebH5AE3xSNzZ"
     },
     {
       "added_at": "2026-04-17 06:49:13",
@@ -895,22 +895,6 @@
     {
       "added_at": "2026-04-17 06:49:13",
       "album": {
-        "name": "SANCTIFY ME LORD, AGAIN",
-        "url": "https://open.spotify.com/album/0V0Xz6kWb9Ve1Se9X4BAej"
-      },
-      "artists": [
-        {
-          "name": "Sondae",
-          "url": "https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp"
-        }
-      ],
-      "duration_ms": 186349,
-      "name": "SANCTIFY ME LORD, AGAIN",
-      "url": "https://open.spotify.com/track/43xzXTBZXz9rSw6mNc88S1"
-    },
-    {
-      "added_at": "2026-04-17 06:49:13",
-      "album": {
         "name": "UNION",
         "url": "https://open.spotify.com/album/0NNV9E7n3DiKP7bUZxXo20"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 246170,
       "name": "UNION",
       "url": "https://open.spotify.com/track/1hUMw4pYM4Gy5xDGC4TaNZ"
+    },
+    {
+      "added_at": "2026-04-17 06:49:13",
+      "album": {
+        "name": "SANCTIFY ME LORD, AGAIN",
+        "url": "https://open.spotify.com/album/0V0Xz6kWb9Ve1Se9X4BAej"
+      },
+      "artists": [
+        {
+          "name": "Sondae",
+          "url": "https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp"
+        }
+      ],
+      "duration_ms": 186349,
+      "name": "SANCTIFY ME LORD, AGAIN",
+      "url": "https://open.spotify.com/track/43xzXTBZXz9rSw6mNc88S1"
     },
     {
       "added_at": "2026-04-17 06:49:13",
@@ -999,42 +999,6 @@
     {
       "added_at": "2026-04-17 06:49:13",
       "album": {
-        "name": "Table for 2 - EP",
-        "url": "https://open.spotify.com/album/3szrQXWIEnBG8cizfBKsuD"
-      },
-      "artists": [
-        {
-          "name": "Laura Ehio",
-          "url": "https://open.spotify.com/artist/0E9rEf1UV4n8IqTEgPuKTn"
-        },
-        {
-          "name": "Paulade",
-          "url": "https://open.spotify.com/artist/47FIkKjgZpNkMg1XcEqVdK"
-        }
-      ],
-      "duration_ms": 181481,
-      "name": "Zero Time",
-      "url": "https://open.spotify.com/track/5AyLPGTVX1WfYomPlsg8xO"
-    },
-    {
-      "added_at": "2026-04-17 06:49:13",
-      "album": {
-        "name": "Faithful (To The End)",
-        "url": "https://open.spotify.com/album/0C7WzdyLTAtRyJ7ZNS3Bqp"
-      },
-      "artists": [
-        {
-          "name": "MUCH MORE",
-          "url": "https://open.spotify.com/artist/0B1cF1eekag30vXyt0YWMs"
-        }
-      ],
-      "duration_ms": 190133,
-      "name": "Faithful (To The End)",
-      "url": "https://open.spotify.com/track/6bp5xcAS8GhJA3ndU1L4xE"
-    },
-    {
-      "added_at": "2026-04-17 06:49:13",
-      "album": {
         "name": "Goodbye Yesterday",
         "url": "https://open.spotify.com/album/3wrSWEbC9DSO09KnV9bDoI"
       },
@@ -1067,18 +1031,22 @@
     {
       "added_at": "2026-04-17 06:49:13",
       "album": {
-        "name": "wake up",
-        "url": "https://open.spotify.com/album/1Pnu2EthKCf1TTFkecWL4c"
+        "name": "Table for 2 - EP",
+        "url": "https://open.spotify.com/album/3szrQXWIEnBG8cizfBKsuD"
       },
       "artists": [
         {
-          "name": "Cade Biers",
-          "url": "https://open.spotify.com/artist/4s8x6Fq67IQGuLVQUYUuPj"
+          "name": "Laura Ehio",
+          "url": "https://open.spotify.com/artist/0E9rEf1UV4n8IqTEgPuKTn"
+        },
+        {
+          "name": "Paulade",
+          "url": "https://open.spotify.com/artist/47FIkKjgZpNkMg1XcEqVdK"
         }
       ],
-      "duration_ms": 186558,
-      "name": "wake up",
-      "url": "https://open.spotify.com/track/1qzWO4HCAMVwGEHaoqhnLb"
+      "duration_ms": 181481,
+      "name": "Zero Time",
+      "url": "https://open.spotify.com/track/5AyLPGTVX1WfYomPlsg8xO"
     },
     {
       "added_at": "2026-04-17 06:49:13",
@@ -1095,6 +1063,38 @@
       "duration_ms": 267282,
       "name": "Wings",
       "url": "https://open.spotify.com/track/0pNTmhJMiheKKVjaOTwxbC"
+    },
+    {
+      "added_at": "2026-04-17 06:49:13",
+      "album": {
+        "name": "Faithful (To The End)",
+        "url": "https://open.spotify.com/album/0C7WzdyLTAtRyJ7ZNS3Bqp"
+      },
+      "artists": [
+        {
+          "name": "MUCH MORE",
+          "url": "https://open.spotify.com/artist/0B1cF1eekag30vXyt0YWMs"
+        }
+      ],
+      "duration_ms": 190133,
+      "name": "Faithful (To The End)",
+      "url": "https://open.spotify.com/track/6bp5xcAS8GhJA3ndU1L4xE"
+    },
+    {
+      "added_at": "2026-04-17 06:49:13",
+      "album": {
+        "name": "wake up",
+        "url": "https://open.spotify.com/album/1Pnu2EthKCf1TTFkecWL4c"
+      },
+      "artists": [
+        {
+          "name": "Cade Biers",
+          "url": "https://open.spotify.com/artist/4s8x6Fq67IQGuLVQUYUuPj"
+        }
+      ],
+      "duration_ms": 186558,
+      "name": "wake up",
+      "url": "https://open.spotify.com/track/1qzWO4HCAMVwGEHaoqhnLb"
     },
     {
       "added_at": "2026-04-17 06:49:13",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2026-04-17 06:49:13",
       "album": {
+        "name": "All Blessing",
+        "url": "https://open.spotify.com/album/0gmV0YaQmCDasG9wmMgqpG"
+      },
+      "artists": [
+        {
+          "name": "Anna Childs",
+          "url": "https://open.spotify.com/artist/3uLkyG01b7EWl1e1RM3Jck"
+        }
+      ],
+      "duration_ms": 256190,
+      "name": "All Blessing",
+      "url": "https://open.spotify.com/track/77akNBdUgVyOW1ECLt94BX"
+    },
+    {
+      "added_at": "2026-04-17 06:49:13",
+      "album": {
         "name": "Precious Gold",
         "url": "https://open.spotify.com/album/7suFMd6EWH8KZuCHdKa02J"
       },
@@ -1307,18 +1323,18 @@
     {
       "added_at": "2026-04-17 06:49:13",
       "album": {
-        "name": "All Blessing",
-        "url": "https://open.spotify.com/album/0gmV0YaQmCDasG9wmMgqpG"
+        "name": "PERFECT LOVE",
+        "url": "https://open.spotify.com/album/0PMxARqTORfITZcNB0DXKl"
       },
       "artists": [
         {
-          "name": "Anna Childs",
-          "url": "https://open.spotify.com/artist/3uLkyG01b7EWl1e1RM3Jck"
+          "name": "MARV",
+          "url": "https://open.spotify.com/artist/4jBiLv1a8QGElMKTozxv35"
         }
       ],
-      "duration_ms": 256190,
-      "name": "All Blessing",
-      "url": "https://open.spotify.com/track/77akNBdUgVyOW1ECLt94BX"
+      "duration_ms": 195683,
+      "name": "PERFECT LOVE",
+      "url": "https://open.spotify.com/track/4P5H3ON3UdK7RevB4Pad7j"
     },
     {
       "added_at": "2026-04-17 06:49:13",
@@ -1335,22 +1351,6 @@
       "duration_ms": 215000,
       "name": "Orange Streetlights - Acoustic Version",
       "url": "https://open.spotify.com/track/7ARJORinm3hArKdebAj4AT"
-    },
-    {
-      "added_at": "2026-04-17 06:49:13",
-      "album": {
-        "name": "PERFECT LOVE",
-        "url": "https://open.spotify.com/album/0PMxARqTORfITZcNB0DXKl"
-      },
-      "artists": [
-        {
-          "name": "MARV",
-          "url": "https://open.spotify.com/artist/4jBiLv1a8QGElMKTozxv35"
-        }
-      ],
-      "duration_ms": 195683,
-      "name": "PERFECT LOVE",
-      "url": "https://open.spotify.com/track/4P5H3ON3UdK7RevB4Pad7j"
     },
     {
       "added_at": "2026-04-17 06:49:13",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2026-04-17 06:49:13",
       "album": {
-        "name": "God Is Love",
-        "url": "https://open.spotify.com/album/1qo1kILODkFrkg5oJTNGzL"
-      },
-      "artists": [
-        {
-          "name": "Paul Zach",
-          "url": "https://open.spotify.com/artist/6OXhFcIGqhYoum3CZBPF38"
-        }
-      ],
-      "duration_ms": 308560,
-      "name": "God Is Love",
-      "url": "https://open.spotify.com/track/4q5xJZOlHLtlnrN8P3oAXJ"
-    },
-    {
-      "added_at": "2026-04-17 06:49:13",
-      "album": {
         "name": "i love You",
         "url": "https://open.spotify.com/album/67GpvgOPbnO9MA0emsa4RI"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 188463,
       "name": "i love You",
       "url": "https://open.spotify.com/track/6FNPc4wx2qyz3AGrJKepNO"
+    },
+    {
+      "added_at": "2026-04-17 06:49:13",
+      "album": {
+        "name": "God Is Love",
+        "url": "https://open.spotify.com/album/1qo1kILODkFrkg5oJTNGzL"
+      },
+      "artists": [
+        {
+          "name": "Paul Zach",
+          "url": "https://open.spotify.com/artist/6OXhFcIGqhYoum3CZBPF38"
+        }
+      ],
+      "duration_ms": 308560,
+      "name": "God Is Love",
+      "url": "https://open.spotify.com/track/4q5xJZOlHLtlnrN8P3oAXJ"
     },
     {
       "added_at": "2026-04-17 06:49:13",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2026-04-17 06:49:13",
       "album": {
-        "name": "Ordinary Miracle",
-        "url": "https://open.spotify.com/album/2QkrEOaBQb6PxUslSGu3Yu"
-      },
-      "artists": [
-        {
-          "name": "The Gray Havens",
-          "url": "https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC"
-        }
-      ],
-      "duration_ms": 224350,
-      "name": "Ordinary Miracle",
-      "url": "https://open.spotify.com/track/1Tu6GUElqFOmZLvFvv3u0C"
-    },
-    {
-      "added_at": "2026-04-17 06:49:13",
-      "album": {
         "name": "searching",
         "url": "https://open.spotify.com/album/2cmVsjln1umP4LzUmn9DbK"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 279935,
       "name": "searching",
       "url": "https://open.spotify.com/track/7JI8f3m5ur75iRRWZpj8sm"
+    },
+    {
+      "added_at": "2026-04-17 06:49:13",
+      "album": {
+        "name": "Ordinary Miracle",
+        "url": "https://open.spotify.com/album/2QkrEOaBQb6PxUslSGu3Yu"
+      },
+      "artists": [
+        {
+          "name": "The Gray Havens",
+          "url": "https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC"
+        }
+      ],
+      "duration_ms": 224350,
+      "name": "Ordinary Miracle",
+      "url": "https://open.spotify.com/track/1Tu6GUElqFOmZLvFvv3u0C"
     },
     {
       "added_at": "2026-04-17 06:49:13",
@@ -2267,22 +2267,6 @@
     {
       "added_at": "2026-04-17 06:49:13",
       "album": {
-        "name": "How Long?",
-        "url": "https://open.spotify.com/album/48hqK0OMQ1PTPcZFXHNWCq"
-      },
-      "artists": [
-        {
-          "name": "Sarah Juers",
-          "url": "https://open.spotify.com/artist/39mgk0y3gWDfKqHTAcc2LG"
-        }
-      ],
-      "duration_ms": 126000,
-      "name": "How Long?",
-      "url": "https://open.spotify.com/track/0q26Gae4J6oq6BswvzIu2l"
-    },
-    {
-      "added_at": "2026-04-17 06:49:13",
-      "album": {
         "name": "All My Love",
         "url": "https://open.spotify.com/album/1RZZDgzZS5YuNydRqvV8jg"
       },
@@ -2295,6 +2279,22 @@
       "duration_ms": 161500,
       "name": "All My Love",
       "url": "https://open.spotify.com/track/16V6PZgE0c35dOdiWXvWuA"
+    },
+    {
+      "added_at": "2026-04-17 06:49:13",
+      "album": {
+        "name": "How Long?",
+        "url": "https://open.spotify.com/album/48hqK0OMQ1PTPcZFXHNWCq"
+      },
+      "artists": [
+        {
+          "name": "Sarah Juers",
+          "url": "https://open.spotify.com/artist/39mgk0y3gWDfKqHTAcc2LG"
+        }
+      ],
+      "duration_ms": 126000,
+      "name": "How Long?",
+      "url": "https://open.spotify.com/track/0q26Gae4J6oq6BswvzIu2l"
     },
     {
       "added_at": "2026-04-17 06:49:13",
@@ -2527,22 +2527,6 @@
     {
       "added_at": "2026-04-17 06:49:13",
       "album": {
-        "name": "Like Everybody Else",
-        "url": "https://open.spotify.com/album/6ZeGqLGUopeVokA6dQQUVK"
-      },
-      "artists": [
-        {
-          "name": "Sam Wilson",
-          "url": "https://open.spotify.com/artist/1xMJN0U9b27oxBXc4KYhP5"
-        }
-      ],
-      "duration_ms": 192500,
-      "name": "Like Everybody Else",
-      "url": "https://open.spotify.com/track/2aOAMQcIW3tiPNomNPsuZy"
-    },
-    {
-      "added_at": "2026-04-17 06:49:13",
-      "album": {
         "name": "Faithfulness & Kem Di Hallelujah",
         "url": "https://open.spotify.com/album/3QMYzQvw4pFbV3H5ZUJgw8"
       },
@@ -2559,6 +2543,22 @@
       "duration_ms": 262631,
       "name": "Faithfulness",
       "url": "https://open.spotify.com/track/672qx8wmGouDn56vewnHQn"
+    },
+    {
+      "added_at": "2026-04-17 06:49:13",
+      "album": {
+        "name": "Like Everybody Else",
+        "url": "https://open.spotify.com/album/6ZeGqLGUopeVokA6dQQUVK"
+      },
+      "artists": [
+        {
+          "name": "Sam Wilson",
+          "url": "https://open.spotify.com/artist/1xMJN0U9b27oxBXc4KYhP5"
+        }
+      ],
+      "duration_ms": 192500,
+      "name": "Like Everybody Else",
+      "url": "https://open.spotify.com/track/2aOAMQcIW3tiPNomNPsuZy"
     },
     {
       "added_at": "2026-04-17 06:49:13",
@@ -2651,18 +2651,26 @@
     {
       "added_at": "2026-04-17 06:49:13",
       "album": {
-        "name": "Limbo",
-        "url": "https://open.spotify.com/album/3qIJgc6Rtd0fJKAKUeBRSP"
+        "name": "Precious Wine",
+        "url": "https://open.spotify.com/album/5aZ4Gy4rkDIdmcpVmwNRAn"
       },
       "artists": [
         {
-          "name": "Rachel Morley",
-          "url": "https://open.spotify.com/artist/79vNtKxpQNwJMHhbxkYaMk"
+          "name": "Kieran De La Harpe",
+          "url": "https://open.spotify.com/artist/0ga5nCOIYGuTbCaY6yHIOl"
+        },
+        {
+          "name": "Eliza King",
+          "url": "https://open.spotify.com/artist/3b3oceAq7kCrQBmrsWOtMa"
+        },
+        {
+          "name": "Rothbury",
+          "url": "https://open.spotify.com/artist/5e4UQky2DVDYIDLwxzZsye"
         }
       ],
-      "duration_ms": 212462,
-      "name": "Limbo",
-      "url": "https://open.spotify.com/track/3vD7RwSB9qjbnGn5mAcdjn"
+      "duration_ms": 378181,
+      "name": "Precious Wine",
+      "url": "https://open.spotify.com/track/0nkjRQ02czr5R11E0EeWCb"
     }
   ],
   "unique_name": "Be Still",

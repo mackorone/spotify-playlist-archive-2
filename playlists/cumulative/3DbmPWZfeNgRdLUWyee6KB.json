@@ -2911,6 +2911,24 @@
     },
     {
       "album": {
+        "name": "Chamberlain",
+        "url": "https://open.spotify.com/album/5wbDeuswW2DxwN5IL3GTrV"
+      },
+      "artists": [
+        {
+          "name": "Katrina",
+          "url": "https://open.spotify.com/artist/2hpCkArHzQ852NRLx6TG2o"
+        }
+      ],
+      "date_added": "2026-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181699,
+      "name": "Chamberlain",
+      "url": "https://open.spotify.com/track/6RzVj1GlldWzLeNvmpsaPL"
+    },
+    {
+      "album": {
         "name": "Chameleon",
         "url": "https://open.spotify.com/album/5eh3fy6t871p8EIDxcMf4a"
       },
@@ -13135,6 +13153,24 @@
     },
     {
       "album": {
+        "name": "Pardon My French",
+        "url": "https://open.spotify.com/album/3cBPOh4GAVucPEVj30BPcu"
+      },
+      "artists": [
+        {
+          "name": "Ndukwe",
+          "url": "https://open.spotify.com/artist/5bTGf4KBDXwVohbzdfapB0"
+        }
+      ],
+      "date_added": "2026-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177190,
+      "name": "Pardon My French",
+      "url": "https://open.spotify.com/track/2DCQbWFEmKvCe4Bt02Bz7o"
+    },
+    {
+      "album": {
         "name": "Partido Alto",
         "url": "https://open.spotify.com/album/6WUZTgzABSTItMZ4sBXA0X"
       },
@@ -15086,6 +15122,24 @@
       "duration_ms": 180613,
       "name": "Shadow",
       "url": "https://open.spotify.com/track/3tDLdShqj7TznUapECPj1R"
+    },
+    {
+      "album": {
+        "name": "Shadows in the Rain",
+        "url": "https://open.spotify.com/album/5sRVHNjuHYpe18uOAZLBtu"
+      },
+      "artists": [
+        {
+          "name": "Nights Like Thieves",
+          "url": "https://open.spotify.com/artist/4Cko9sylBuS1mZsqiU9692"
+        }
+      ],
+      "date_added": "2026-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217500,
+      "name": "Shadows in the Rain",
+      "url": "https://open.spotify.com/track/5H1h9lPxcjDFHcF0AcUlQb"
     },
     {
       "album": {
@@ -18818,6 +18872,24 @@
       "duration_ms": 275815,
       "name": "Twisters",
       "url": "https://open.spotify.com/track/5mJejnNmyuVyz4ZPRnOFVi"
+    },
+    {
+      "album": {
+        "name": "Two natural satellites",
+        "url": "https://open.spotify.com/album/4YFslr8eZMvkCTb9GWVKRQ"
+      },
+      "artists": [
+        {
+          "name": "Lucia Longhi",
+          "url": "https://open.spotify.com/artist/0NkaQYJrOuGSeE6HFjBiqx"
+        }
+      ],
+      "date_added": "2026-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229560,
+      "name": "Two natural satellites",
+      "url": "https://open.spotify.com/track/41p5ITHv0bIhmevEixtsVO"
     },
     {
       "album": {

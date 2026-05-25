@@ -1,6 +1,6 @@
 {
   "description": "Here's to the groom! Enjoy your day with the boys!",
-  "num_followers": 101596,
+  "num_followers": 101615,
   "original_name": "Bachelor Party",
   "owner": {
     "name": "Spotify",
@@ -473,26 +473,6 @@
       "url": "https://open.spotify.com/track/2SAqBLGA283SUiwJ3xOUVI"
     },
     {
-      "added_at": "2024-03-25 17:39:42",
-      "album": {
-        "name": "GEMINI",
-        "url": "https://open.spotify.com/album/72qA6s4fjF8Y2VX1UDMfp2"
-      },
-      "artists": [
-        {
-          "name": "Macklemore",
-          "url": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
-        },
-        {
-          "name": "Skylar Grey",
-          "url": "https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV"
-        }
-      ],
-      "duration_ms": 220454,
-      "name": "Glorious (feat. Skylar Grey)",
-      "url": "https://open.spotify.com/track/0CokSRCu5hZgPxcZBaEzVE"
-    },
-    {
       "added_at": "2022-05-11 15:37:27",
       "album": {
         "name": "Some Nights",
@@ -511,6 +491,26 @@
       "duration_ms": 250626,
       "name": "We Are Young (feat. Janelle Mon\u00e1e)",
       "url": "https://open.spotify.com/track/7a86XRg84qjasly9f6bPSD"
+    },
+    {
+      "added_at": "2024-03-25 17:39:42",
+      "album": {
+        "name": "GEMINI",
+        "url": "https://open.spotify.com/album/72qA6s4fjF8Y2VX1UDMfp2"
+      },
+      "artists": [
+        {
+          "name": "Macklemore",
+          "url": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
+        },
+        {
+          "name": "Skylar Grey",
+          "url": "https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV"
+        }
+      ],
+      "duration_ms": 220454,
+      "name": "Glorious (feat. Skylar Grey)",
+      "url": "https://open.spotify.com/track/0CokSRCu5hZgPxcZBaEzVE"
     },
     {
       "added_at": "2024-03-25 17:39:42",
@@ -779,22 +779,6 @@
     {
       "added_at": "2022-05-11 15:37:27",
       "album": {
-        "name": "Hold My Home",
-        "url": "https://open.spotify.com/album/2H09itV5a5yUcGyk9u9HwY"
-      },
-      "artists": [
-        {
-          "name": "Cold War Kids",
-          "url": "https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC"
-        }
-      ],
-      "duration_ms": 200360,
-      "name": "First",
-      "url": "https://open.spotify.com/track/3omXshBamrREltcf24gYDC"
-    },
-    {
-      "added_at": "2022-05-11 15:37:27",
-      "album": {
         "name": "Snap Yo Fingers - Single",
         "url": "https://open.spotify.com/album/5ot3hAGLgvrmfZ3ddosFZf"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 274386,
       "name": "Snap Yo Fingers",
       "url": "https://open.spotify.com/track/6o3s08kk2fQI37vxGZDrJ1"
+    },
+    {
+      "added_at": "2022-05-11 15:37:27",
+      "album": {
+        "name": "Hold My Home",
+        "url": "https://open.spotify.com/album/2H09itV5a5yUcGyk9u9HwY"
+      },
+      "artists": [
+        {
+          "name": "Cold War Kids",
+          "url": "https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC"
+        }
+      ],
+      "duration_ms": 200360,
+      "name": "First",
+      "url": "https://open.spotify.com/track/3omXshBamrREltcf24gYDC"
     },
     {
       "added_at": "2022-05-11 15:37:27",

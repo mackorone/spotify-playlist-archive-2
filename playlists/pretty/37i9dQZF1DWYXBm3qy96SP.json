@@ -1,6 +1,6 @@
 {
   "description": "\u4e16\u754c\u4e2d\u306e\u30ed\u30c3\u30af\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u8a71\u984c\u66f2\u3092\u30c1\u30a7\u30c3\u30af\u3002Cover: Bleachers",
-  "num_followers": 261677,
+  "num_followers": 261664,
   "original_name": "Rock The World",
   "owner": {
     "name": "Spotify",
@@ -539,22 +539,6 @@
     {
       "added_at": "2026-05-23 03:38:00",
       "album": {
-        "name": "Reward the Scars",
-        "url": "https://open.spotify.com/album/3BXffIPyB5ihJw0Zu7uWYl"
-      },
-      "artists": [
-        {
-          "name": "Korn",
-          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
-        }
-      ],
-      "duration_ms": 215455,
-      "name": "Reward the Scars",
-      "url": "https://open.spotify.com/track/4oZFqhv200v5rOCPHfwIec"
-    },
-    {
-      "added_at": "2026-05-23 03:38:00",
-      "album": {
         "name": "Spring Forward",
         "url": "https://open.spotify.com/album/61NGKj9SdXHHxDWU8ZsnaS"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 212538,
       "name": "Hanging Out To Dry",
       "url": "https://open.spotify.com/track/1GZ5KqHOdkU0cZoz1JfQo8"
+    },
+    {
+      "added_at": "2026-05-23 03:38:00",
+      "album": {
+        "name": "Reward the Scars",
+        "url": "https://open.spotify.com/album/3BXffIPyB5ihJw0Zu7uWYl"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "duration_ms": 215455,
+      "name": "Reward the Scars",
+      "url": "https://open.spotify.com/track/4oZFqhv200v5rOCPHfwIec"
     },
     {
       "added_at": "2026-05-23 03:38:00",
@@ -883,22 +883,18 @@
     {
       "added_at": "2026-05-23 03:38:00",
       "album": {
-        "name": "Nine Inch Noize",
-        "url": "https://open.spotify.com/album/7lcpCG4RBy3njzxHXlhOnp"
+        "name": "heaven and hell",
+        "url": "https://open.spotify.com/album/66DuEtdWi7VhBZjKvnNgC3"
       },
       "artists": [
         {
-          "name": "Nine Inch Nails",
-          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
-        },
-        {
-          "name": "Boys Noize",
-          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
+          "name": "wave to earth",
+          "url": "https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg"
         }
       ],
-      "duration_ms": 237956,
-      "name": "Heresy - Nine Inch Noize Version",
-      "url": "https://open.spotify.com/track/4paDQCBB9KvSFlvMWUclFV"
+      "duration_ms": 268388,
+      "name": "heaven and hell",
+      "url": "https://open.spotify.com/track/5FZoGATKGIzrC7seHkZmfP"
     },
     {
       "added_at": "2026-05-23 03:38:00",
@@ -919,6 +915,26 @@
     {
       "added_at": "2026-05-23 03:38:00",
       "album": {
+        "name": "Nine Inch Noize",
+        "url": "https://open.spotify.com/album/7lcpCG4RBy3njzxHXlhOnp"
+      },
+      "artists": [
+        {
+          "name": "Nine Inch Nails",
+          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
+        },
+        {
+          "name": "Boys Noize",
+          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
+        }
+      ],
+      "duration_ms": 237956,
+      "name": "Heresy - Nine Inch Noize Version",
+      "url": "https://open.spotify.com/track/4paDQCBB9KvSFlvMWUclFV"
+    },
+    {
+      "added_at": "2026-05-23 03:38:00",
+      "album": {
         "name": "KINDA HARD",
         "url": "https://open.spotify.com/album/6bJif35DxJzpXob5HfMzqU"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 167554,
       "name": "ROCK BOTTOM",
       "url": "https://open.spotify.com/track/0jZFZA3lTGL5SM3GEgNGSy"
-    },
-    {
-      "added_at": "2026-05-23 03:38:00",
-      "album": {
-        "name": "heaven and hell",
-        "url": "https://open.spotify.com/album/66DuEtdWi7VhBZjKvnNgC3"
-      },
-      "artists": [
-        {
-          "name": "wave to earth",
-          "url": "https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg"
-        }
-      ],
-      "duration_ms": 268388,
-      "name": "heaven and hell",
-      "url": "https://open.spotify.com/track/5FZoGATKGIzrC7seHkZmfP"
     },
     {
       "added_at": "2026-05-23 03:38:00",
@@ -1111,18 +1111,22 @@
     {
       "added_at": "2026-05-23 03:38:00",
       "album": {
-        "name": "Bones For The Crows",
-        "url": "https://open.spotify.com/album/1jKDs3Oq7HAY05DffoP4Fg"
+        "name": "Hive Mind (feat. Denzel Curry)",
+        "url": "https://open.spotify.com/album/6eNCE2Inl49H7U8L0YaaRg"
       },
       "artists": [
         {
-          "name": "Nickelback",
-          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
+          "name": "Knocked Loose",
+          "url": "https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw"
+        },
+        {
+          "name": "Denzel Curry",
+          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
         }
       ],
-      "duration_ms": 244638,
-      "name": "Bones For The Crows",
-      "url": "https://open.spotify.com/track/37vEcnzAkAOdb7zqxLqHvb"
+      "duration_ms": 206161,
+      "name": "Hive Mind (feat. Denzel Curry)",
+      "url": "https://open.spotify.com/track/4jfzIzQiUabe8PDNo0O66j"
     },
     {
       "added_at": "2026-05-23 03:38:00",
@@ -1159,26 +1163,6 @@
     {
       "added_at": "2026-05-23 03:38:00",
       "album": {
-        "name": "Hive Mind (feat. Denzel Curry)",
-        "url": "https://open.spotify.com/album/6eNCE2Inl49H7U8L0YaaRg"
-      },
-      "artists": [
-        {
-          "name": "Knocked Loose",
-          "url": "https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw"
-        },
-        {
-          "name": "Denzel Curry",
-          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
-        }
-      ],
-      "duration_ms": 206161,
-      "name": "Hive Mind (feat. Denzel Curry)",
-      "url": "https://open.spotify.com/track/4jfzIzQiUabe8PDNo0O66j"
-    },
-    {
-      "added_at": "2026-05-23 03:38:00",
-      "album": {
         "name": "Do You Really Love Her",
         "url": "https://open.spotify.com/album/574rsOAjtvMf9Y8DuYl0HN"
       },
@@ -1195,18 +1179,18 @@
     {
       "added_at": "2026-05-23 03:38:00",
       "album": {
-        "name": "IT CALLS ME BY NAME",
-        "url": "https://open.spotify.com/album/0dGjNVNmtc3ZkrK6YgwjLL"
+        "name": "Bones For The Crows",
+        "url": "https://open.spotify.com/album/1jKDs3Oq7HAY05DffoP4Fg"
       },
       "artists": [
         {
-          "name": "Wage War",
-          "url": "https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6"
+          "name": "Nickelback",
+          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
         }
       ],
-      "duration_ms": 194827,
-      "name": "BLINDFOLD",
-      "url": "https://open.spotify.com/track/14CHUiA5TOvpYvIl63TSI6"
+      "duration_ms": 244638,
+      "name": "Bones For The Crows",
+      "url": "https://open.spotify.com/track/37vEcnzAkAOdb7zqxLqHvb"
     },
     {
       "added_at": "2026-05-23 03:38:00",
@@ -1223,6 +1207,22 @@
       "duration_ms": 234055,
       "name": "I'll Let You Finish",
       "url": "https://open.spotify.com/track/4rie7uUf3XRgxK92tAMjCt"
+    },
+    {
+      "added_at": "2026-05-23 03:38:00",
+      "album": {
+        "name": "IT CALLS ME BY NAME",
+        "url": "https://open.spotify.com/album/0dGjNVNmtc3ZkrK6YgwjLL"
+      },
+      "artists": [
+        {
+          "name": "Wage War",
+          "url": "https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6"
+        }
+      ],
+      "duration_ms": 194827,
+      "name": "BLINDFOLD",
+      "url": "https://open.spotify.com/track/14CHUiA5TOvpYvIl63TSI6"
     },
     {
       "added_at": "2026-05-23 03:38:00",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2026-05-23 03:38:00",
       "album": {
+        "name": "Pure Ecstasy",
+        "url": "https://open.spotify.com/album/7LaRPSnFbhbbDVAPf6ewX3"
+      },
+      "artists": [
+        {
+          "name": "Beartooth",
+          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
+        }
+      ],
+      "duration_ms": 185425,
+      "name": "Pure Ecstasy",
+      "url": "https://open.spotify.com/track/3IoUXFzfbzbi1XIfosP0AP"
+    },
+    {
+      "added_at": "2026-05-23 03:38:00",
+      "album": {
         "name": "Icarus",
         "url": "https://open.spotify.com/album/3QjSKOqpzIVjUbBNYLiwde"
       },
@@ -1271,54 +1287,6 @@
       "duration_ms": 207313,
       "name": "Icarus",
       "url": "https://open.spotify.com/track/3WKgc30jlMOs6iJB7rOPpZ"
-    },
-    {
-      "added_at": "2026-05-23 03:38:00",
-      "album": {
-        "name": "Broken Record",
-        "url": "https://open.spotify.com/album/4GF7FP9ViwD2yTyDGcgY7S"
-      },
-      "artists": [
-        {
-          "name": "Alemeda",
-          "url": "https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8"
-        }
-      ],
-      "duration_ms": 145181,
-      "name": "Broken Record",
-      "url": "https://open.spotify.com/track/187PhQNVowHs4jJj4Ebzzu"
-    },
-    {
-      "added_at": "2026-05-23 03:38:00",
-      "album": {
-        "name": "Jane!",
-        "url": "https://open.spotify.com/album/2dKFGp34DsNa9bzZ3NoTC5"
-      },
-      "artists": [
-        {
-          "name": "The Long Faces",
-          "url": "https://open.spotify.com/artist/1DhiWyne1hHwVHTti49o40"
-        }
-      ],
-      "duration_ms": 186986,
-      "name": "Jane!",
-      "url": "https://open.spotify.com/track/5BdTXOmNx4NANVF4IMitQQ"
-    },
-    {
-      "added_at": "2026-05-23 03:38:00",
-      "album": {
-        "name": "speed",
-        "url": "https://open.spotify.com/album/4D2i96fOirLLCHYAbf8lA0"
-      },
-      "artists": [
-        {
-          "name": "Evan Fong",
-          "url": "https://open.spotify.com/artist/74pDNLCBUxYeDepGvZP2KP"
-        }
-      ],
-      "duration_ms": 205106,
-      "name": "mailman",
-      "url": "https://open.spotify.com/track/7idTksaN3JHW4hIxucaUv9"
     },
     {
       "added_at": "2026-05-23 03:38:00",
@@ -1339,18 +1307,66 @@
     {
       "added_at": "2026-05-23 03:38:00",
       "album": {
-        "name": "Pure Ecstasy",
-        "url": "https://open.spotify.com/album/7LaRPSnFbhbbDVAPf6ewX3"
+        "name": "speed",
+        "url": "https://open.spotify.com/album/4D2i96fOirLLCHYAbf8lA0"
       },
       "artists": [
         {
-          "name": "Beartooth",
-          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
+          "name": "Evan Fong",
+          "url": "https://open.spotify.com/artist/74pDNLCBUxYeDepGvZP2KP"
         }
       ],
-      "duration_ms": 185425,
-      "name": "Pure Ecstasy",
-      "url": "https://open.spotify.com/track/3IoUXFzfbzbi1XIfosP0AP"
+      "duration_ms": 205106,
+      "name": "mailman",
+      "url": "https://open.spotify.com/track/7idTksaN3JHW4hIxucaUv9"
+    },
+    {
+      "added_at": "2026-05-23 03:38:00",
+      "album": {
+        "name": "Broken Record",
+        "url": "https://open.spotify.com/album/4GF7FP9ViwD2yTyDGcgY7S"
+      },
+      "artists": [
+        {
+          "name": "Alemeda",
+          "url": "https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8"
+        }
+      ],
+      "duration_ms": 145181,
+      "name": "Broken Record",
+      "url": "https://open.spotify.com/track/187PhQNVowHs4jJj4Ebzzu"
+    },
+    {
+      "added_at": "2026-05-23 03:38:00",
+      "album": {
+        "name": "Can\u2019t Miss You",
+        "url": "https://open.spotify.com/album/1HcwraITfQ87kS5yYhYPcw"
+      },
+      "artists": [
+        {
+          "name": "Sublime",
+          "url": "https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J"
+        }
+      ],
+      "duration_ms": 152826,
+      "name": "Can\u2019t Miss You",
+      "url": "https://open.spotify.com/track/1TUTNM3CpHprIlMq3BPlNd"
+    },
+    {
+      "added_at": "2026-05-23 03:38:00",
+      "album": {
+        "name": "Jane!",
+        "url": "https://open.spotify.com/album/2dKFGp34DsNa9bzZ3NoTC5"
+      },
+      "artists": [
+        {
+          "name": "The Long Faces",
+          "url": "https://open.spotify.com/artist/1DhiWyne1hHwVHTti49o40"
+        }
+      ],
+      "duration_ms": 186986,
+      "name": "Jane!",
+      "url": "https://open.spotify.com/track/5BdTXOmNx4NANVF4IMitQQ"
     },
     {
       "added_at": "2026-05-23 03:38:00",
@@ -1367,6 +1383,26 @@
       "duration_ms": 162309,
       "name": "Fuck The Whole World",
       "url": "https://open.spotify.com/track/4Z6VhX6RFl1rT6CUbtTVkr"
+    },
+    {
+      "added_at": "2026-05-23 03:38:00",
+      "album": {
+        "name": "Home to Us",
+        "url": "https://open.spotify.com/album/1FZqNQGtTdGPWyvkYCzgjP"
+      },
+      "artists": [
+        {
+          "name": "Paul McCartney",
+          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+        },
+        {
+          "name": "Ringo Starr",
+          "url": "https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8"
+        }
+      ],
+      "duration_ms": 191325,
+      "name": "Home to Us",
+      "url": "https://open.spotify.com/track/6dG0y3fCXIc5rl56dhQfuX"
     },
     {
       "added_at": "2026-05-23 03:38:00",
@@ -1407,26 +1443,6 @@
     {
       "added_at": "2026-05-23 03:38:00",
       "album": {
-        "name": "Home to Us",
-        "url": "https://open.spotify.com/album/1FZqNQGtTdGPWyvkYCzgjP"
-      },
-      "artists": [
-        {
-          "name": "Paul McCartney",
-          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
-        },
-        {
-          "name": "Ringo Starr",
-          "url": "https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8"
-        }
-      ],
-      "duration_ms": 191325,
-      "name": "Home to Us",
-      "url": "https://open.spotify.com/track/6dG0y3fCXIc5rl56dhQfuX"
-    },
-    {
-      "added_at": "2026-05-23 03:38:00",
-      "album": {
         "name": "Days Of Ash EP",
         "url": "https://open.spotify.com/album/3vgnEcyvM5xJ479leSdeVT"
       },
@@ -1439,38 +1455,6 @@
       "duration_ms": 235413,
       "name": "Song Of The Future",
       "url": "https://open.spotify.com/track/3xbZa70HOBQpGQcaR3HqW1"
-    },
-    {
-      "added_at": "2026-05-23 03:38:00",
-      "album": {
-        "name": "Can\u2019t Miss You",
-        "url": "https://open.spotify.com/album/1HcwraITfQ87kS5yYhYPcw"
-      },
-      "artists": [
-        {
-          "name": "Sublime",
-          "url": "https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J"
-        }
-      ],
-      "duration_ms": 152826,
-      "name": "Can\u2019t Miss You",
-      "url": "https://open.spotify.com/track/1TUTNM3CpHprIlMq3BPlNd"
-    },
-    {
-      "added_at": "2026-05-23 03:38:00",
-      "album": {
-        "name": "dirty wedding dress",
-        "url": "https://open.spotify.com/album/7BQpzzWLy9yszbY5k6790w"
-      },
-      "artists": [
-        {
-          "name": "Bleachers",
-          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
-        }
-      ],
-      "duration_ms": 289424,
-      "name": "dirty wedding dress",
-      "url": "https://open.spotify.com/track/75GyGLjB9yFLTVltUlDVKI"
     },
     {
       "added_at": "2026-05-23 03:38:00",
@@ -1491,18 +1475,18 @@
     {
       "added_at": "2026-05-23 03:38:00",
       "album": {
-        "name": "Shine Again",
-        "url": "https://open.spotify.com/album/6HqfvcCZYZMzTCbfWwu153"
+        "name": "dirty wedding dress",
+        "url": "https://open.spotify.com/album/7BQpzzWLy9yszbY5k6790w"
       },
       "artists": [
         {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
         }
       ],
-      "duration_ms": 245564,
-      "name": "Shine Again",
-      "url": "https://open.spotify.com/track/1C8ywgYYblKrskpRggjNRV"
+      "duration_ms": 289424,
+      "name": "dirty wedding dress",
+      "url": "https://open.spotify.com/track/75GyGLjB9yFLTVltUlDVKI"
     },
     {
       "added_at": "2026-05-23 03:38:00",
@@ -1519,6 +1503,22 @@
       "duration_ms": 191568,
       "name": "Punching the Flowers",
       "url": "https://open.spotify.com/track/56es3ImztwXSwpYmtS6c4A"
+    },
+    {
+      "added_at": "2026-05-23 03:38:00",
+      "album": {
+        "name": "Shine Again",
+        "url": "https://open.spotify.com/album/6HqfvcCZYZMzTCbfWwu153"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 245564,
+      "name": "Shine Again",
+      "url": "https://open.spotify.com/track/1C8ywgYYblKrskpRggjNRV"
     },
     {
       "added_at": "2026-05-23 03:38:00",
@@ -1575,6 +1575,22 @@
     {
       "added_at": "2026-05-23 03:38:00",
       "album": {
+        "name": "Riptides",
+        "url": "https://open.spotify.com/album/5GBDzuHE3dMAauYKN8FvrN"
+      },
+      "artists": [
+        {
+          "name": "Death Cab for Cutie",
+          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
+        }
+      ],
+      "duration_ms": 197089,
+      "name": "Riptides",
+      "url": "https://open.spotify.com/track/34HWkEfh1KRkw5hReCVtcz"
+    },
+    {
+      "added_at": "2026-05-23 03:38:00",
+      "album": {
         "name": "Easter Lily EP",
         "url": "https://open.spotify.com/album/1DY06ZzIoHYFQ83jPfm9aF"
       },
@@ -1591,18 +1607,22 @@
     {
       "added_at": "2026-05-23 03:38:00",
       "album": {
-        "name": "Riptides",
-        "url": "https://open.spotify.com/album/5GBDzuHE3dMAauYKN8FvrN"
+        "name": "VINDICATE",
+        "url": "https://open.spotify.com/album/2bvKgi1cdJbaURY2bN7y4p"
       },
       "artists": [
         {
-          "name": "Death Cab for Cutie",
-          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
+          "name": "Black Veil Brides",
+          "url": "https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs"
+        },
+        {
+          "name": "Lilith Czar",
+          "url": "https://open.spotify.com/artist/2tMZ37dVy1DzZjXXCjhgFq"
         }
       ],
-      "duration_ms": 197089,
-      "name": "Riptides",
-      "url": "https://open.spotify.com/track/34HWkEfh1KRkw5hReCVtcz"
+      "duration_ms": 239825,
+      "name": "Cut",
+      "url": "https://open.spotify.com/track/5DDN7RGlnJSDGF5abfvoqp"
     },
     {
       "added_at": "2026-05-23 03:38:00",
@@ -1639,26 +1659,6 @@
       "duration_ms": 241100,
       "name": "2515",
       "url": "https://open.spotify.com/track/6oJRAA2pF2VK8fmxTncqiG"
-    },
-    {
-      "added_at": "2026-05-23 03:38:00",
-      "album": {
-        "name": "VINDICATE",
-        "url": "https://open.spotify.com/album/2bvKgi1cdJbaURY2bN7y4p"
-      },
-      "artists": [
-        {
-          "name": "Black Veil Brides",
-          "url": "https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs"
-        },
-        {
-          "name": "Lilith Czar",
-          "url": "https://open.spotify.com/artist/2tMZ37dVy1DzZjXXCjhgFq"
-        }
-      ],
-      "duration_ms": 239825,
-      "name": "Cut",
-      "url": "https://open.spotify.com/track/5DDN7RGlnJSDGF5abfvoqp"
     }
   ],
   "unique_name": "Rock The World",

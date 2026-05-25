@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 
 > Lo mejor de mayo 2026\. Cover: Alvaro Diaz & LATIN MAFIA
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,558,653 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,558,662 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,14 +19,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 | 9 | [Que vuelta vox](https://open.spotify.com/track/50QNXm5mb1sUNhI4iTSzl9) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [EL GREEN PRINT: La Saga \(Disc 1\) — FEID VS FERXXO](https://open.spotify.com/album/2TXU5Ie2RcPLT1cp7ztKXa) | 2:49 |
 | 10 | [BIAF <3](https://open.spotify.com/track/2niaqfUN4XWJ6BuDEm77Vh) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [BIAF <3](https://open.spotify.com/album/0GnGHUSD8DxEU0ejWjvCNA) | 2:50 |
 | 11 | [PONGO](https://open.spotify.com/track/3vohqCtAozZw4ifTAtwbxu) | [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [PONGO](https://open.spotify.com/album/2enHgKCtJSopIOoi0uhy0Y) | 3:09 |
-| 12 | [Choka Choka](https://open.spotify.com/track/7CBWajKPyBA0GFtxmTzLBV) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Choka Choka](https://open.spotify.com/album/0ei3ArgXpn3uFZwxs90ySw) | 2:11 |
-| 13 | [TURRAZO](https://open.spotify.com/track/7MUu6jrCvu48LSrMRDQKv0) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [TURR4ZO](https://open.spotify.com/album/5nUfysd9pD76m2nxU0qHmU) | 2:18 |
+| 12 | [TURRAZO](https://open.spotify.com/track/7MUu6jrCvu48LSrMRDQKv0) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [TURR4ZO](https://open.spotify.com/album/5nUfysd9pD76m2nxU0qHmU) | 2:18 |
+| 13 | [Choka Choka](https://open.spotify.com/track/7CBWajKPyBA0GFtxmTzLBV) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Choka Choka](https://open.spotify.com/album/0ei3ArgXpn3uFZwxs90ySw) | 2:11 |
 | 14 | [TRANKAITO](https://open.spotify.com/track/3MHWnw2doUPj2ILmsyRhhN) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [EL GREEN PRINT: La Saga \(Disc 1\) — FEID VS FERXXO](https://open.spotify.com/album/2TXU5Ie2RcPLT1cp7ztKXa) | 2:42 |
 | 15 | [Balenciaga](https://open.spotify.com/track/4VGFK69hVzkQ4K5qR4ypdF) | [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Balenciaga](https://open.spotify.com/album/3pJMrZyVDFg8HTNjsDrTq3) | 2:33 |
 | 16 | [Pa' la seca](https://open.spotify.com/track/2339A6X4fGkSpjeF63gsll) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Pa' la seca](https://open.spotify.com/album/11Wh4dbrBu8VSZ7wMDV8wQ) | 3:04 |
 | 17 | [CULE POCO \(sirena\_besarico\_costeña\)](https://open.spotify.com/track/3j0avHj4G5EPk6sCCj8NdQ) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [CULE POCO \(sirena\_besarico\_costeña\)](https://open.spotify.com/album/2AjV3IQ9rioKsjNPW2JiPC) | 2:20 |
-| 18 | [Apambichao](https://open.spotify.com/track/2bGtRhJdSGIjxrBtewOJqV) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Apambichao](https://open.spotify.com/album/48mh6SriOYbsgsJ5KgdV4B) | 2:27 |
-| 19 | [EA EA EA](https://open.spotify.com/track/4tz67i4hMleL46wToRT1Ak) | [Clave Especial](https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26) | [AFTERAFTER](https://open.spotify.com/album/5SF4i0tWsZqNQ8wymtauRZ) | 2:42 |
+| 18 | [EA EA EA](https://open.spotify.com/track/4tz67i4hMleL46wToRT1Ak) | [Clave Especial](https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26) | [AFTERAFTER](https://open.spotify.com/album/5SF4i0tWsZqNQ8wymtauRZ) | 2:42 |
+| 19 | [Apambichao](https://open.spotify.com/track/2bGtRhJdSGIjxrBtewOJqV) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Apambichao](https://open.spotify.com/album/48mh6SriOYbsgsJ5KgdV4B) | 2:27 |
 | 20 | [Vida Loca](https://open.spotify.com/track/5dNky6SuEfNBan5perlSGl) | [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX) | [FREE SPIRITS](https://open.spotify.com/album/2lbCB2zwGvqqn7IkRQGaEo) | 2:35 |
 | 21 | [QHP PIÑATA](https://open.spotify.com/track/39PTRADxy0eQrK2CBTmyeG) | [Sky Rompiendo](https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW), [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [QHP PIÑATA](https://open.spotify.com/album/4bEPyt76DUgLvsQsZ2czkf) | 3:38 |
 | 22 | [X UNAS LLANTAS](https://open.spotify.com/track/0uniUBcZwEwycJAMgFF8x0) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [X UNAS LLANTAS](https://open.spotify.com/album/6yfOnX63qyUDHSQMEzHpxl) | 2:43 |

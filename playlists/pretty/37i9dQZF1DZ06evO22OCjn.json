@@ -1,12 +1,12 @@
 {
   "description": "This is Burna Boy. The essential tracks, all in one playlist.",
-  "num_followers": 339713,
+  "num_followers": 339769,
   "original_name": "This Is Burna Boy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ag+cgAAAAACqYetWxYlvg0PfAd2f40Bm",
+  "snapshot_id": "ahDuAAAAAABn9PWJ+D4jCf5hphA1Bw6R",
   "tracks": [
     {
       "added_at": null,
@@ -167,26 +167,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Fall-Off",
-        "url": "https://open.spotify.com/album/4jI9SU1GmpIVhHMuYZuvX7"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        },
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 286866,
-      "name": "Only You (with Burna Boy)",
-      "url": "https://open.spotify.com/track/0nn0Z1o1WI01pB7oEPiJeE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Justice",
         "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
       },
@@ -203,6 +183,26 @@
       "duration_ms": 159250,
       "name": "Loved By You (feat. Burna Boy)",
       "url": "https://open.spotify.com/track/2tB9OFgAHjAds3cqquLlvp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Fall-Off",
+        "url": "https://open.spotify.com/album/4jI9SU1GmpIVhHMuYZuvX7"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 286866,
+      "name": "Only You (with Burna Boy)",
+      "url": "https://open.spotify.com/track/0nn0Z1o1WI01pB7oEPiJeE"
     },
     {
       "added_at": null,
@@ -383,26 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mr. Money With The Vibe",
-        "url": "https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        },
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Sungba (feat. Burna Boy) - Remix",
-      "url": "https://open.spotify.com/track/4k4pdUWX8632g7yByxC3rS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Be Honest (feat. Burna Boy)",
         "url": "https://open.spotify.com/album/4d2oTHRFwGifGFgve7zSGC"
       },
@@ -419,6 +399,26 @@
       "duration_ms": 207030,
       "name": "Be Honest (feat. Burna Boy)",
       "url": "https://open.spotify.com/track/5pAbCxt9e3f81lOmjIXwzd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mr. Money With The Vibe",
+        "url": "https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Sungba (feat. Burna Boy) - Remix",
+      "url": "https://open.spotify.com/track/4k4pdUWX8632g7yByxC3rS"
     },
     {
       "added_at": null,
@@ -479,6 +479,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "African Giant",
+        "url": "https://open.spotify.com/album/79lrrUvUyIuOD12b5taQVP"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 187609,
+      "name": "Gbona",
+      "url": "https://open.spotify.com/track/1PlYxNrefqOBvk52umixt9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I Told Them...",
         "url": "https://open.spotify.com/album/5PKl5yyetQ6mFeWK6ONbSH"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 179485,
       "name": "Giza (feat. Seyi Vibez)",
       "url": "https://open.spotify.com/track/0UdBaetogSoEIO7fSD1334"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "African Giant",
-        "url": "https://open.spotify.com/album/79lrrUvUyIuOD12b5taQVP"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 187609,
-      "name": "Gbona",
-      "url": "https://open.spotify.com/track/1PlYxNrefqOBvk52umixt9"
     },
     {
       "added_at": null,
@@ -551,22 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Told Them...",
-        "url": "https://open.spotify.com/album/51r39Gm18d7yIS3PC1QD8B"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 220394,
-      "name": "Tested, Approved & Trusted",
-      "url": "https://open.spotify.com/track/05A6mr7C2bP7uPrEQrj9qk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "African Giant",
         "url": "https://open.spotify.com/album/277z75G1Gdz0SWN9pegrrs"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 225407,
       "name": "Dangote",
       "url": "https://open.spotify.com/track/7JbaXy70jy2d2kHLvks8Ei"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Told Them...",
+        "url": "https://open.spotify.com/album/51r39Gm18d7yIS3PC1QD8B"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 220394,
+      "name": "Tested, Approved & Trusted",
+      "url": "https://open.spotify.com/track/05A6mr7C2bP7uPrEQrj9qk"
     },
     {
       "added_at": null,
@@ -623,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Sign Of Weakness",
-        "url": "https://open.spotify.com/album/2fXaK76zsSLaAMwCyCqKQL"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 192158,
-      "name": "Dem Dey",
-      "url": "https://open.spotify.com/track/27N2fW3NXw9cvzTHtRSgKR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "African Giant",
         "url": "https://open.spotify.com/album/277z75G1Gdz0SWN9pegrrs"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 188178,
       "name": "Wetin Man Go Do",
       "url": "https://open.spotify.com/track/6NnJHQwkeU20eZ5GVbXxw4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Sign Of Weakness",
+        "url": "https://open.spotify.com/album/2fXaK76zsSLaAMwCyCqKQL"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 192158,
+      "name": "Dem Dey",
+      "url": "https://open.spotify.com/track/27N2fW3NXw9cvzTHtRSgKR"
     },
     {
       "added_at": null,
@@ -695,22 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Sign Of Weakness",
-        "url": "https://open.spotify.com/album/2fXaK76zsSLaAMwCyCqKQL"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 200768,
-      "name": "Buy You Life",
-      "url": "https://open.spotify.com/track/5gL6LKibckV3dDAEkiNnZv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tshwala Bam (feat. S.N.E)",
         "url": "https://open.spotify.com/album/1ZyNY4zHrl8MMzZ5li2Pm2"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 203571,
       "name": "Tshwala Bam (feat. S.N.E)",
       "url": "https://open.spotify.com/track/6cyXHTix4NQ069gKJEYv41"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Sign Of Weakness",
+        "url": "https://open.spotify.com/album/2fXaK76zsSLaAMwCyCqKQL"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 200768,
+      "name": "Buy You Life",
+      "url": "https://open.spotify.com/track/5gL6LKibckV3dDAEkiNnZv"
     },
     {
       "added_at": null,

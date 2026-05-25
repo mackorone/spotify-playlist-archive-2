@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhejoFhUUFy.md) - [plain]
 
 > Soft chill for the dreamy  ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,510 likes - 75 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,554 likes - 75 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhejoFhUUFy.md) - [plain]
 | 25 | [Agar Tum Saath Ho \(From "Tamasha"\)](https://open.spotify.com/track/2FCXQHugkoHE1K3tiDu8pu) | [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Love Forever With Arijit Singh](https://open.spotify.com/album/5Wm1nhxZqx7i0Hp6ZBqe9T) | 5:41 |
 | 26 | [Hawayein](https://open.spotify.com/track/0l6g8Z8mqGbGXFOjigYetD) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Jab Harry Met Sejal \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4I39l0YJ7tmSBXZGZamN5E) | 4:50 |
 | 27 | [Co2](https://open.spotify.com/track/3hB9lDLyAClYVZivMMl20N) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [The Way That Lovers Do](https://open.spotify.com/album/4WLh56ZjwINYBNhaxLvEhA) | 2:43 |
-| 28 | [Dil Tu Jaan Tu](https://open.spotify.com/track/69Qzz3yyQSsA0T95jLDoPL) | [Gurnazar](https://open.spotify.com/artist/682M6cmwGHOyAB1ZmPv38W), [Chet Singh](https://open.spotify.com/artist/5aWkTGq5O45ES0fDFmN1Wv) | [Dil Tu Jaan Tu](https://open.spotify.com/album/4UPEfC1TJNAlObvA9a5Fkx) | 3:57 |
-| 29 | [Qaafirana](https://open.spotify.com/track/7BCp5hEiiDSmXsxsXkvYff) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH) | [Kedarnath \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5tr2QN1s6pREyv0Kc39Zpm) | 5:41 |
+| 28 | [Qaafirana](https://open.spotify.com/track/7BCp5hEiiDSmXsxsXkvYff) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH) | [Kedarnath \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5tr2QN1s6pREyv0Kc39Zpm) | 5:41 |
+| 29 | [Dil Tu Jaan Tu](https://open.spotify.com/track/69Qzz3yyQSsA0T95jLDoPL) | [Gurnazar](https://open.spotify.com/artist/682M6cmwGHOyAB1ZmPv38W), [Chet Singh](https://open.spotify.com/artist/5aWkTGq5O45ES0fDFmN1Wv) | [Dil Tu Jaan Tu](https://open.spotify.com/album/4UPEfC1TJNAlObvA9a5Fkx) | 3:57 |
 | 30 | [Tose Naina \(From "Mickey Virus\)](https://open.spotify.com/track/2fMlezwwP5Hr1UwuAknN4o) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Love Dose Arijit Singh](https://open.spotify.com/album/5aRPSAhsXgpXhxRF8q1aLI) | 4:23 |
 | 31 | [Aankhon Se Batana](https://open.spotify.com/track/1ZiReD9pPTttQWwSoYqdyH) | [Dikshant](https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR) | [Aankhon Se Batana](https://open.spotify.com/album/57FSK7an8LmvStMZviJ8Ws) | 3:41 |
 | 32 | [Chaand Baaliyan](https://open.spotify.com/track/0snQrp1VaY5Pj1YIHRJpRJ) | [Aditya A](https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw) | [Chaand Baaliyan](https://open.spotify.com/album/6AJaDEafyyyWWXHZQtcFGe) | 1:43 |

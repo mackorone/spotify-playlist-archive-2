@@ -1,12 +1,12 @@
 {
   "description": "This is Jelly Roll. The essential tracks, all in one playlist.",
-  "num_followers": 339322,
+  "num_followers": 339369,
   "original_name": "This Is Jelly Roll",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ag+cgAAAAADL4BPTQLJl7vFPZ38Wl/FC",
+  "snapshot_id": "ahDuAAAAAAA6xQLrt+/CbcMLq+8+KY8F",
   "tracks": [
     {
       "added_at": null,
@@ -267,8 +267,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Run It",
-        "url": "https://open.spotify.com/album/1GM66MYIbWfSdPLop4vXym"
+        "name": "A Beautiful Disaster",
+        "url": "https://open.spotify.com/album/5NaOVfywXItXB2KMRj8aMZ"
       },
       "artists": [
         {
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
         }
       ],
-      "duration_ms": 159208,
-      "name": "Run It",
-      "url": "https://open.spotify.com/track/5GwOJaOWIuRi5eebSRnstT"
+      "duration_ms": 172421,
+      "name": "Bottle and Mary Jane",
+      "url": "https://open.spotify.com/track/5MbtltJOrf5hTldbvaEqdV"
     },
     {
       "added_at": null,
@@ -299,8 +299,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Beautiful Disaster",
-        "url": "https://open.spotify.com/album/5NaOVfywXItXB2KMRj8aMZ"
+        "name": "Run It",
+        "url": "https://open.spotify.com/album/1GM66MYIbWfSdPLop4vXym"
       },
       "artists": [
         {
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
         }
       ],
-      "duration_ms": 172421,
-      "name": "Bottle and Mary Jane",
-      "url": "https://open.spotify.com/track/5MbtltJOrf5hTldbvaEqdV"
+      "duration_ms": 159208,
+      "name": "Run It",
+      "url": "https://open.spotify.com/track/5GwOJaOWIuRi5eebSRnstT"
     },
     {
       "added_at": null,

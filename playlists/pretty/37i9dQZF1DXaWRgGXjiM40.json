@@ -1,6 +1,6 @@
 {
   "description": "Uma sele\u00e7\u00e3o sertaneja para voc\u00ea curtir a sua paix\u00e3o sem limites.",
-  "num_followers": 952377,
+  "num_followers": 952395,
   "original_name": "Paix\u00e3o Bandida",
   "owner": {
     "name": "Spotify",
@@ -203,22 +203,6 @@
     {
       "added_at": "2026-05-08 03:03:31",
       "album": {
-        "name": "Magia das Estrelas, Vol. 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4ZFPMOKBs7Qv6dfUjrOqxc"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9 Neto & Cristiano",
-          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
-        }
-      ],
-      "duration_ms": 171207,
-      "name": "Escondendo o Ouro - Ao Vivo",
-      "url": "https://open.spotify.com/track/0IBCX7PC9NcfFLuyoHxTNt"
-    },
-    {
-      "added_at": "2026-05-08 03:03:31",
-      "album": {
         "name": "Ao Vivo Em Goi\u00e2nia",
         "url": "https://open.spotify.com/album/61KUhWve8zR7CreNCWZcha"
       },
@@ -231,22 +215,6 @@
       "duration_ms": 174920,
       "name": "Medo Bobo - Ao Vivo",
       "url": "https://open.spotify.com/track/2CW04trIoYMbroZWDzPAjs"
-    },
-    {
-      "added_at": "2026-05-08 03:03:31",
-      "album": {
-        "name": "10 Anos (Ao Vivo | Deluxe)",
-        "url": "https://open.spotify.com/album/0wiTSo8xXBIvvkhZNJFWCm"
-      },
-      "artists": [
-        {
-          "name": "Jorge & Mateus",
-          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
-        }
-      ],
-      "duration_ms": 228350,
-      "name": "Pergunta Boba - Ao Vivo",
-      "url": "https://open.spotify.com/track/36OBPVuz58hAsKxgLCKer6"
     },
     {
       "added_at": "2026-05-08 03:03:31",
@@ -267,6 +235,38 @@
       "duration_ms": 179164,
       "name": "Len\u00e7ol Dobrado",
       "url": "https://open.spotify.com/track/72xB2J9ZeBl0Rzxq2XmzdY"
+    },
+    {
+      "added_at": "2026-05-08 03:03:31",
+      "album": {
+        "name": "10 Anos (Ao Vivo | Deluxe)",
+        "url": "https://open.spotify.com/album/0wiTSo8xXBIvvkhZNJFWCm"
+      },
+      "artists": [
+        {
+          "name": "Jorge & Mateus",
+          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+        }
+      ],
+      "duration_ms": 228350,
+      "name": "Pergunta Boba - Ao Vivo",
+      "url": "https://open.spotify.com/track/36OBPVuz58hAsKxgLCKer6"
+    },
+    {
+      "added_at": "2026-05-08 03:03:31",
+      "album": {
+        "name": "Magia das Estrelas, Vol. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4ZFPMOKBs7Qv6dfUjrOqxc"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Neto & Cristiano",
+          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
+        }
+      ],
+      "duration_ms": 171207,
+      "name": "Escondendo o Ouro - Ao Vivo",
+      "url": "https://open.spotify.com/track/0IBCX7PC9NcfFLuyoHxTNt"
     },
     {
       "added_at": "2026-05-08 03:03:31",

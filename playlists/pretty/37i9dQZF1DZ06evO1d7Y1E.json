@@ -1,12 +1,12 @@
 {
   "description": "This is Mc Poze do Rodo. The essential tracks, all in one playlist.",
-  "num_followers": 117466,
+  "num_followers": 117469,
   "original_name": "This Is Mc Poze do Rodo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ag+cgAAAAADDbbhx1mxPfEdToBx7EH9z",
+  "snapshot_id": "ahDuAAAAAABBmYXP8v21KyD5eHp8u64a",
   "tracks": [
     {
       "added_at": null,
@@ -251,38 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Liberdade (Deluxe)",
-        "url": "https://open.spotify.com/album/7zw5XT3YDZs9pIPqtyA1NN"
-      },
-      "artists": [
-        {
-          "name": "Oruam",
-          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
-        },
-        {
-          "name": "Elow",
-          "url": "https://open.spotify.com/artist/4kwNNzG6OKspwezw3Exfyk"
-        },
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "Real Fuba",
-          "url": "https://open.spotify.com/artist/0PjEY1nAycpN9PeI3zOtdb"
-        },
-        {
-          "name": "MUC4",
-          "url": "https://open.spotify.com/artist/45tpYMlsyruhEpOVf6rE8M"
-        }
-      ],
-      "duration_ms": 325039,
-      "name": "Manifesto #1 - A Rua Cercada por Divis\u00e3o",
-      "url": "https://open.spotify.com/track/3a1UkFymv1PL28nJHfqQO4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Cara do Crime (N\u00f3s Incomoda)",
         "url": "https://open.spotify.com/album/75IYhNYhWnTAgVYyaHGzga"
       },
@@ -315,6 +283,38 @@
       "duration_ms": 302117,
       "name": "A Cara do Crime (N\u00f3s Incomoda)",
       "url": "https://open.spotify.com/track/0wRn3ggAY1fIupTaVigdza"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Liberdade (Deluxe)",
+        "url": "https://open.spotify.com/album/7zw5XT3YDZs9pIPqtyA1NN"
+      },
+      "artists": [
+        {
+          "name": "Oruam",
+          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
+        },
+        {
+          "name": "Elow",
+          "url": "https://open.spotify.com/artist/4kwNNzG6OKspwezw3Exfyk"
+        },
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "Real Fuba",
+          "url": "https://open.spotify.com/artist/0PjEY1nAycpN9PeI3zOtdb"
+        },
+        {
+          "name": "MUC4",
+          "url": "https://open.spotify.com/artist/45tpYMlsyruhEpOVf6rE8M"
+        }
+      ],
+      "duration_ms": 325039,
+      "name": "Manifesto #1 - A Rua Cercada por Divis\u00e3o",
+      "url": "https://open.spotify.com/track/3a1UkFymv1PL28nJHfqQO4"
     },
     {
       "added_at": null,
@@ -1483,22 +1483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "T\u00e1 Fluindo",
-        "url": "https://open.spotify.com/album/0Mw3N6i9NxXULaYEBigTjk"
-      },
-      "artists": [
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        }
-      ],
-      "duration_ms": 159157,
-      "name": "T\u00e1 Fluindo",
-      "url": "https://open.spotify.com/track/3J9RgzjfVuVnGlPjenqVho"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ordem do Mano",
         "url": "https://open.spotify.com/album/7A6mhzGxqp111NGQ5q1fGF"
       },
@@ -1527,22 +1511,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me D\u00e1 Sua M\u00e3o",
-        "url": "https://open.spotify.com/album/2TPngKT3Xh3JMDpwcPrwqB"
+        "name": "T\u00e1 Fluindo",
+        "url": "https://open.spotify.com/album/0Mw3N6i9NxXULaYEBigTjk"
       },
       "artists": [
         {
           "name": "Mc Poze do Rodo",
           "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "Mainstreet",
-          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
         }
       ],
-      "duration_ms": 162413,
-      "name": "Me D\u00e1 Sua M\u00e3o",
-      "url": "https://open.spotify.com/track/3by89k8zGClgmQgz9SbtKp"
+      "duration_ms": 159157,
+      "name": "T\u00e1 Fluindo",
+      "url": "https://open.spotify.com/track/3J9RgzjfVuVnGlPjenqVho"
     },
     {
       "added_at": null,
@@ -1567,6 +1547,26 @@
       "duration_ms": 142564,
       "name": "Metflix - Remix",
       "url": "https://open.spotify.com/track/5pCJL7iUT48OC56cAyWtuz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Me D\u00e1 Sua M\u00e3o",
+        "url": "https://open.spotify.com/album/2TPngKT3Xh3JMDpwcPrwqB"
+      },
+      "artists": [
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        }
+      ],
+      "duration_ms": 162413,
+      "name": "Me D\u00e1 Sua M\u00e3o",
+      "url": "https://open.spotify.com/track/3by89k8zGClgmQgz9SbtKp"
     },
     {
       "added_at": null,
@@ -1623,38 +1623,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Toma Jack",
-        "url": "https://open.spotify.com/album/2RtehDMWnoR1NIKmS1oAJ7"
+        "name": "Pacman de Panicat",
+        "url": "https://open.spotify.com/album/7C0YBv6bvhfQpItU7Pfqoj"
       },
       "artists": [
         {
-          "name": "Bielzin",
-          "url": "https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP"
-        },
-        {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+          "name": "DJ Japa NK",
+          "url": "https://open.spotify.com/artist/1bpnl8qbR9GxmiNlkEufW6"
         },
         {
           "name": "Mc Poze do Rodo",
           "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
         },
         {
-          "name": "Mc Don Juan",
-          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
         },
         {
-          "name": "Portugal No Beat",
-          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
-        },
-        {
-          "name": "Galdino",
-          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
+          "name": "Mc Rodrigo do CN",
+          "url": "https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC"
         }
       ],
-      "duration_ms": 246153,
-      "name": "Toma Jack",
-      "url": "https://open.spotify.com/track/3UsIef0hR8Hroi9tw9Zoef"
+      "duration_ms": 251539,
+      "name": "Pacman de Panicat",
+      "url": "https://open.spotify.com/track/4cH7c8Zox7sBysrSnjzdXr"
     },
     {
       "added_at": null,

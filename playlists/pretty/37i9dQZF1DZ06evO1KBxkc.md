@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1KBxkc.md) - [plain]
 
 > This is A Boogie Wit da Hoodie\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,198 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,197 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1KBxkc.md) - [plain]
 | 28 | [Skeezers](https://open.spotify.com/track/2A4vCndSkZ3jd5nfh3a8gc) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Hoodie SZN](https://open.spotify.com/album/3r5hf3Cj3EMh1C2saQ8jyt) | 3:18 |
 | 29 | [Pills & Automobiles \(feat\. Yo Gotti, A Boogie Wit Da Hoodie & Kodak Black\)](https://open.spotify.com/track/5gx2E5aIXMRBellPZW1up5) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Heartbreak on a Full Moon](https://open.spotify.com/album/3zak0kNLcOY5vFcB3Ipskp) | 4:53 |
 | 30 | [Baguettes in the Face \(feat\. NAV, Playboi Carti & A Boogie Wit da Hoodie\)](https://open.spotify.com/track/2zjGJ0dChMR0KxBZS15aqo) | [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Perfect Ten](https://open.spotify.com/album/2WrNHOba5u6P9S9xEboaUy) | 2:54 |
-| 31 | [PGD \(feat\. Kyle Richh & ZEDDY WILL\)](https://open.spotify.com/track/2qxaBUnihi6tbLnAUE2pye) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU), [ZEDDY WILL](https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf) | [PGD \(feat\. Kyle Richh & ZEDDY WILL\)](https://open.spotify.com/album/55PVyRV3IhOpKAzLcPxFs3) | 3:37 |
-| 32 | [Man in the Mirror](https://open.spotify.com/track/7uLFOXgLrS90tEYPO1DGXy) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [B4 AVA](https://open.spotify.com/album/1VxVQAgekwkFo8yoXvFZ8o) | 3:35 |
+| 31 | [Man in the Mirror](https://open.spotify.com/track/7uLFOXgLrS90tEYPO1DGXy) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [B4 AVA](https://open.spotify.com/album/1VxVQAgekwkFo8yoXvFZ8o) | 3:35 |
+| 32 | [PGD \(feat\. Kyle Richh & ZEDDY WILL\)](https://open.spotify.com/track/2qxaBUnihi6tbLnAUE2pye) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU), [ZEDDY WILL](https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf) | [PGD \(feat\. Kyle Richh & ZEDDY WILL\)](https://open.spotify.com/album/55PVyRV3IhOpKAzLcPxFs3) | 3:37 |
 | 33 | [Show Me Something Real](https://open.spotify.com/track/3LQf1YMwVTO7owyfsVbVae) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Before Artistry](https://open.spotify.com/album/3H9jMWGLMhckbBFWdTV0ez) | 3:11 |
 | 34 | [Not a Regular Person](https://open.spotify.com/track/0KfgfxTnqfX4IfhVDpPYTd) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Not a Regular Person](https://open.spotify.com/album/2rclhJv98oCvlhYLG9tioj) | 3:06 |
 | 35 | [Blood On My Denim](https://open.spotify.com/track/0LHWHUcUYhFAUkCt2q4Gad) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Artist 2.0](https://open.spotify.com/album/0cZAE6guibfcYmTZD7hiae) | 3:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1KBxkc.md) - [plain]
 | 49 | [Say A'](https://open.spotify.com/track/3AMnOVxEHUgVrythGgqPhI) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [The Bigger Artist](https://open.spotify.com/album/3HHp5I6Q6SEyU5bkvoCtnV) | 3:34 |
 | 50 | [Last Time \(feat\. G Herbo\)](https://open.spotify.com/track/5rDt0wjt4BrYGrveWoIKXB) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Me vs\. Myself](https://open.spotify.com/album/2vM2H6lyPfitmNZlc1Vrxv) | 2:59 |
 
-Snapshot ID: `ag+cgAAAAAA8IGb2726RgOchUZwIha9n`
+Snapshot ID: `ahDuAAAAAAB8vsbrP/zStJnz4NrEF79y`

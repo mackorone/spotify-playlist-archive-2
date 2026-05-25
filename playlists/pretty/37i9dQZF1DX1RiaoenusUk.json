@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica groovera, for the true Funk Soldiers!",
-  "num_followers": 34976,
+  "num_followers": 34978,
   "original_name": "Nota Funk",
   "owner": {
     "name": "Spotify",
@@ -487,26 +487,6 @@
     {
       "added_at": "2026-03-20 03:00:24",
       "album": {
-        "name": "La Iguana en el Jard\u00edn",
-        "url": "https://open.spotify.com/album/2UVA2n1nfEu6Xemet5VwjH"
-      },
-      "artists": [
-        {
-          "name": "Claudio Taddei",
-          "url": "https://open.spotify.com/artist/7nn8SAjbKT0CMqRyRhMpAh"
-        },
-        {
-          "name": "Ruben Rada",
-          "url": "https://open.spotify.com/artist/5AfGpwSbYKelc5nJjUVRmb"
-        }
-      ],
-      "duration_ms": 184111,
-      "name": "Estoy Contento, Nena",
-      "url": "https://open.spotify.com/track/3nN9r5nOaA16ev82clDomt"
-    },
-    {
-      "added_at": "2026-03-20 03:00:24",
-      "album": {
         "name": "Lev\u00e1ntate y Anda",
         "url": "https://open.spotify.com/album/49OWyv7bujYuq4ipISG2pW"
       },
@@ -527,6 +507,26 @@
       "duration_ms": 188730,
       "name": "Lev\u00e1ntate y Anda",
       "url": "https://open.spotify.com/track/4s5x65KhC8IATvwQtTaXbR"
+    },
+    {
+      "added_at": "2026-03-20 03:00:24",
+      "album": {
+        "name": "La Iguana en el Jard\u00edn",
+        "url": "https://open.spotify.com/album/2UVA2n1nfEu6Xemet5VwjH"
+      },
+      "artists": [
+        {
+          "name": "Claudio Taddei",
+          "url": "https://open.spotify.com/artist/7nn8SAjbKT0CMqRyRhMpAh"
+        },
+        {
+          "name": "Ruben Rada",
+          "url": "https://open.spotify.com/artist/5AfGpwSbYKelc5nJjUVRmb"
+        }
+      ],
+      "duration_ms": 184111,
+      "name": "Estoy Contento, Nena",
+      "url": "https://open.spotify.com/track/3nN9r5nOaA16ev82clDomt"
     },
     {
       "added_at": "2026-03-20 03:00:24",
@@ -767,22 +767,6 @@
     {
       "added_at": "2026-03-20 03:00:24",
       "album": {
-        "name": "Combustication",
-        "url": "https://open.spotify.com/album/409EgDFqusiF1kmmm3NBzN"
-      },
-      "artists": [
-        {
-          "name": "Medeski, Martin & Wood",
-          "url": "https://open.spotify.com/artist/2Hg4SUNDuIn8xIidz9GxFw"
-        }
-      ],
-      "duration_ms": 237106,
-      "name": "Coconut Boogaloo",
-      "url": "https://open.spotify.com/track/0yoEamYgfqtyvU05cmPUbv"
-    },
-    {
-      "added_at": "2026-03-20 03:00:24",
-      "album": {
         "name": "Musica Pa'l Mundo",
         "url": "https://open.spotify.com/album/1fFE1eKtIxh4ILklmzLoiv"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 293013,
       "name": "Liviano Como el Viento",
       "url": "https://open.spotify.com/track/3rtUCQlFu2MUoiqiLB4tGR"
+    },
+    {
+      "added_at": "2026-03-20 03:00:24",
+      "album": {
+        "name": "Combustication",
+        "url": "https://open.spotify.com/album/409EgDFqusiF1kmmm3NBzN"
+      },
+      "artists": [
+        {
+          "name": "Medeski, Martin & Wood",
+          "url": "https://open.spotify.com/artist/2Hg4SUNDuIn8xIidz9GxFw"
+        }
+      ],
+      "duration_ms": 237106,
+      "name": "Coconut Boogaloo",
+      "url": "https://open.spotify.com/track/0yoEamYgfqtyvU05cmPUbv"
     },
     {
       "added_at": "2026-03-20 03:00:24",
@@ -851,22 +851,6 @@
     {
       "added_at": "2026-03-20 03:00:24",
       "album": {
-        "name": "One Night",
-        "url": "https://open.spotify.com/album/7pxArAvPLT49D1pujkSm9P"
-      },
-      "artists": [
-        {
-          "name": "N\u00fakuma",
-          "url": "https://open.spotify.com/artist/52HtCVkBSfLDGRHlugmOlg"
-        }
-      ],
-      "duration_ms": 274102,
-      "name": "One Night",
-      "url": "https://open.spotify.com/track/6bDvwo63vUW9qWUUgWGBby"
-    },
-    {
-      "added_at": "2026-03-20 03:00:24",
-      "album": {
         "name": "Tony 70",
         "url": "https://open.spotify.com/album/6BKVskjcx78fG8bPWQ3Ypx"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 233373,
       "name": "Simon Freak",
       "url": "https://open.spotify.com/track/6mYRXQDxEpeVLMcDBi7zlr"
+    },
+    {
+      "added_at": "2026-03-20 03:00:24",
+      "album": {
+        "name": "One Night",
+        "url": "https://open.spotify.com/album/7pxArAvPLT49D1pujkSm9P"
+      },
+      "artists": [
+        {
+          "name": "N\u00fakuma",
+          "url": "https://open.spotify.com/artist/52HtCVkBSfLDGRHlugmOlg"
+        }
+      ],
+      "duration_ms": 274102,
+      "name": "One Night",
+      "url": "https://open.spotify.com/track/6bDvwo63vUW9qWUUgWGBby"
     },
     {
       "added_at": "2026-03-20 03:00:24",
@@ -951,22 +951,6 @@
     {
       "added_at": "2026-03-20 03:00:24",
       "album": {
-        "name": "Los Funktasticos Genitales",
-        "url": "https://open.spotify.com/album/2SsjQc8kaNFCK5awLHLS1b"
-      },
-      "artists": [
-        {
-          "name": "Los Funktasticos Genitales",
-          "url": "https://open.spotify.com/artist/4R74HSH7siBB8VjKf1dJN2"
-        }
-      ],
-      "duration_ms": 190790,
-      "name": "Aceituna",
-      "url": "https://open.spotify.com/track/4XoUJQXuI2HPlUUMcl2mDX"
-    },
-    {
-      "added_at": "2026-03-20 03:00:24",
-      "album": {
         "name": "Good to Know",
         "url": "https://open.spotify.com/album/3mDoV6YTDo4ScALjvx4UBQ"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 237426,
       "name": "Good to Know",
       "url": "https://open.spotify.com/track/5TYO9JsmiDUGpA6BNQhD0m"
+    },
+    {
+      "added_at": "2026-03-20 03:00:24",
+      "album": {
+        "name": "Los Funktasticos Genitales",
+        "url": "https://open.spotify.com/album/2SsjQc8kaNFCK5awLHLS1b"
+      },
+      "artists": [
+        {
+          "name": "Los Funktasticos Genitales",
+          "url": "https://open.spotify.com/artist/4R74HSH7siBB8VjKf1dJN2"
+        }
+      ],
+      "duration_ms": 190790,
+      "name": "Aceituna",
+      "url": "https://open.spotify.com/track/4XoUJQXuI2HPlUUMcl2mDX"
     },
     {
       "added_at": "2026-03-20 03:00:24",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2026-03-20 03:00:24",
       "album": {
-        "name": "Los Funktasticos Genitales",
-        "url": "https://open.spotify.com/album/2SsjQc8kaNFCK5awLHLS1b"
-      },
-      "artists": [
-        {
-          "name": "Los Funktasticos Genitales",
-          "url": "https://open.spotify.com/artist/4R74HSH7siBB8VjKf1dJN2"
-        }
-      ],
-      "duration_ms": 236858,
-      "name": "Alergica",
-      "url": "https://open.spotify.com/track/29BXe34owrTnjMoF9EHfaG"
-    },
-    {
-      "added_at": "2026-03-20 03:00:24",
-      "album": {
         "name": "Env\u00e9s",
         "url": "https://open.spotify.com/album/0Jm4WmRMz3UrUxr4llIcrK"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 378213,
       "name": "Maybe I'm Leo",
       "url": "https://open.spotify.com/track/7gqKNXv1P6oN0KAXnjxsLW"
+    },
+    {
+      "added_at": "2026-03-20 03:00:24",
+      "album": {
+        "name": "Los Funktasticos Genitales",
+        "url": "https://open.spotify.com/album/2SsjQc8kaNFCK5awLHLS1b"
+      },
+      "artists": [
+        {
+          "name": "Los Funktasticos Genitales",
+          "url": "https://open.spotify.com/artist/4R74HSH7siBB8VjKf1dJN2"
+        }
+      ],
+      "duration_ms": 236858,
+      "name": "Alergica",
+      "url": "https://open.spotify.com/track/29BXe34owrTnjMoF9EHfaG"
     },
     {
       "added_at": "2026-03-20 03:00:24",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2026-03-20 03:00:24",
       "album": {
-        "name": "Ya Lo Estoy Deseando",
-        "url": "https://open.spotify.com/album/2JfuVBf1o45hGZb70w4RoX"
-      },
-      "artists": [
-        {
-          "name": "Los Funktasticos Genitales",
-          "url": "https://open.spotify.com/artist/4R74HSH7siBB8VjKf1dJN2"
-        }
-      ],
-      "duration_ms": 202591,
-      "name": "C\u00f3mo",
-      "url": "https://open.spotify.com/track/1sjMSLp2rgGxokLnllBEje"
-    },
-    {
-      "added_at": "2026-03-20 03:00:24",
-      "album": {
         "name": "Espacios",
         "url": "https://open.spotify.com/album/5A4yvDpvsq7aWY7DwMCSC6"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 178000,
       "name": "Debilidad",
       "url": "https://open.spotify.com/track/382BrveYviOFjqpqA5d1M2"
+    },
+    {
+      "added_at": "2026-03-20 03:00:24",
+      "album": {
+        "name": "Ya Lo Estoy Deseando",
+        "url": "https://open.spotify.com/album/2JfuVBf1o45hGZb70w4RoX"
+      },
+      "artists": [
+        {
+          "name": "Los Funktasticos Genitales",
+          "url": "https://open.spotify.com/artist/4R74HSH7siBB8VjKf1dJN2"
+        }
+      ],
+      "duration_ms": 202591,
+      "name": "C\u00f3mo",
+      "url": "https://open.spotify.com/track/1sjMSLp2rgGxokLnllBEje"
     },
     {
       "added_at": "2026-03-20 03:00:24",
@@ -1351,18 +1351,18 @@
     {
       "added_at": "2026-03-20 03:00:24",
       "album": {
-        "name": "F\u00e1bulas",
-        "url": "https://open.spotify.com/album/5Pdxguuof4JROwJrq0zgRX"
+        "name": "No la Ves",
+        "url": "https://open.spotify.com/album/0ja7i6140pD18DMHukGkeP"
       },
       "artists": [
         {
-          "name": "Alumine",
-          "url": "https://open.spotify.com/artist/0x4dM35LYvFkgWINvnRdt3"
+          "name": "Warlock ARG",
+          "url": "https://open.spotify.com/artist/3Et7l92EvT83F7NsmtDYzV"
         }
       ],
-      "duration_ms": 259318,
-      "name": "F\u00e1bulas",
-      "url": "https://open.spotify.com/track/5ItspG9yWaTOa5ofnd0AV6"
+      "duration_ms": 259553,
+      "name": "No la Ves",
+      "url": "https://open.spotify.com/track/4ql5SX2c5PVj8FDYRGmdLX"
     },
     {
       "added_at": "2026-03-20 03:00:24",
@@ -1411,18 +1411,18 @@
     {
       "added_at": "2026-03-20 03:00:24",
       "album": {
-        "name": "No la Ves",
-        "url": "https://open.spotify.com/album/0ja7i6140pD18DMHukGkeP"
+        "name": "F\u00e1bulas",
+        "url": "https://open.spotify.com/album/5Pdxguuof4JROwJrq0zgRX"
       },
       "artists": [
         {
-          "name": "Warlock ARG",
-          "url": "https://open.spotify.com/artist/3Et7l92EvT83F7NsmtDYzV"
+          "name": "Alumine",
+          "url": "https://open.spotify.com/artist/0x4dM35LYvFkgWINvnRdt3"
         }
       ],
-      "duration_ms": 259553,
-      "name": "No la Ves",
-      "url": "https://open.spotify.com/track/4ql5SX2c5PVj8FDYRGmdLX"
+      "duration_ms": 259318,
+      "name": "F\u00e1bulas",
+      "url": "https://open.spotify.com/track/5ItspG9yWaTOa5ofnd0AV6"
     },
     {
       "added_at": "2026-03-20 03:00:24",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2026-03-20 03:00:24",
       "album": {
-        "name": "Ando Buscando",
-        "url": "https://open.spotify.com/album/2tVhz3vgd1Ic2PpTH10SU1"
-      },
-      "artists": [
-        {
-          "name": "Flor Lovaglio",
-          "url": "https://open.spotify.com/artist/3ZeKtTdfEsMQX1SlnK5BWU"
-        }
-      ],
-      "duration_ms": 206142,
-      "name": "Ando Buscando",
-      "url": "https://open.spotify.com/track/7nBwBoDKXzHVKwfmR4fiFk"
-    },
-    {
-      "added_at": "2026-03-20 03:00:24",
-      "album": {
         "name": "7 Am",
         "url": "https://open.spotify.com/album/18Gy6Xx7OqnlKksIerzJQN"
       },
@@ -1503,18 +1487,18 @@
     {
       "added_at": "2026-03-20 03:00:24",
       "album": {
-        "name": "Sepia",
-        "url": "https://open.spotify.com/album/7n8DQxmEU59eGsqK89zqaE"
+        "name": "Ando Buscando",
+        "url": "https://open.spotify.com/album/2tVhz3vgd1Ic2PpTH10SU1"
       },
       "artists": [
         {
-          "name": "Ekath\u00e9",
-          "url": "https://open.spotify.com/artist/2QodtlX1l4FWXEETTWtLvz"
+          "name": "Flor Lovaglio",
+          "url": "https://open.spotify.com/artist/3ZeKtTdfEsMQX1SlnK5BWU"
         }
       ],
-      "duration_ms": 326661,
-      "name": "Sepia",
-      "url": "https://open.spotify.com/track/5tNssisrG10u3i8M2tuK8X"
+      "duration_ms": 206142,
+      "name": "Ando Buscando",
+      "url": "https://open.spotify.com/track/7nBwBoDKXzHVKwfmR4fiFk"
     },
     {
       "added_at": "2026-03-20 03:00:24",
@@ -1535,6 +1519,22 @@
     {
       "added_at": "2026-03-20 03:00:24",
       "album": {
+        "name": "Sepia",
+        "url": "https://open.spotify.com/album/7n8DQxmEU59eGsqK89zqaE"
+      },
+      "artists": [
+        {
+          "name": "Ekath\u00e9",
+          "url": "https://open.spotify.com/artist/2QodtlX1l4FWXEETTWtLvz"
+        }
+      ],
+      "duration_ms": 326661,
+      "name": "Sepia",
+      "url": "https://open.spotify.com/track/5tNssisrG10u3i8M2tuK8X"
+    },
+    {
+      "added_at": "2026-03-20 03:00:24",
+      "album": {
         "name": "Crisis",
         "url": "https://open.spotify.com/album/4vux7VUf8tpFUNa1dcHgRU"
       },
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2026-03-20 03:00:24",
       "album": {
-        "name": "Solo por Hoy",
-        "url": "https://open.spotify.com/album/25l2D0cKKCqvt51QEpPbfS"
-      },
-      "artists": [
-        {
-          "name": "Flor Lovaglio",
-          "url": "https://open.spotify.com/artist/3ZeKtTdfEsMQX1SlnK5BWU"
-        }
-      ],
-      "duration_ms": 210566,
-      "name": "Solo por Hoy",
-      "url": "https://open.spotify.com/track/1oc52lK8E79KL18Uj3TfBn"
-    },
-    {
-      "added_at": "2026-03-20 03:00:24",
-      "album": {
         "name": "El Efecto Calma",
         "url": "https://open.spotify.com/album/5MZ84i6SVe1rGiEjdHVtVp"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 246085,
       "name": "El Efecto Calma",
       "url": "https://open.spotify.com/track/0uCIPALeUXwguTSHuwvXN6"
+    },
+    {
+      "added_at": "2026-03-20 03:00:24",
+      "album": {
+        "name": "Solo por Hoy",
+        "url": "https://open.spotify.com/album/25l2D0cKKCqvt51QEpPbfS"
+      },
+      "artists": [
+        {
+          "name": "Flor Lovaglio",
+          "url": "https://open.spotify.com/artist/3ZeKtTdfEsMQX1SlnK5BWU"
+        }
+      ],
+      "duration_ms": 210566,
+      "name": "Solo por Hoy",
+      "url": "https://open.spotify.com/track/1oc52lK8E79KL18Uj3TfBn"
     },
     {
       "added_at": "2026-03-20 03:00:24",

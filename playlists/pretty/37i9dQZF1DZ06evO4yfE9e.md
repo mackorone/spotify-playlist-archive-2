@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4yfE9e.md) - [plain]
 
 > This is bludnymph\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,820 likes - 31 songs - 1 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,821 likes - 31 songs - 1 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4yfE9e.md) - [plain]
 | 18 | [Grim Reaper](https://open.spotify.com/track/01oMLMNHELVNL9lSRwppo3) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Grim Reaper](https://open.spotify.com/album/6GvKpU2mHudChGG6DzOZug) | 2:50 |
 | 19 | [Incognito](https://open.spotify.com/track/7y1XREM9DIRIH5FwQcwOaB) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [FEAST \(Let’s Eat Yuh Yuh\)](https://open.spotify.com/album/6AaZk65wZdhu7GtKTM9dPx) | 2:39 |
 | 20 | [Lickity Splickity](https://open.spotify.com/track/2subOu3jev6n2eftUkyZ1A) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Lickity Splickity](https://open.spotify.com/album/42v0j9VZLeGOY4NcjO1cYP) | 2:29 |
-| 21 | [Popsicle](https://open.spotify.com/track/7BcQVXI8S1PQVNhuX3Z6uH) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Popsicle \(Extra Sticky\)](https://open.spotify.com/album/0eM1beQrKuuFSAWCqBHWlg) | 1:50 |
-| 22 | [ENEMIES \(feat\. bludnymph & Shift K3Y\)](https://open.spotify.com/track/3iOSOAFB0Rv1cNZM5Jwy4P) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX), [Shift K3Y](https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM) | [PULSE](https://open.spotify.com/album/1w6FcPbvr0g1PlinZesFKt) | 2:26 |
+| 21 | [ENEMIES \(feat\. bludnymph & Shift K3Y\)](https://open.spotify.com/track/3iOSOAFB0Rv1cNZM5Jwy4P) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX), [Shift K3Y](https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM) | [PULSE](https://open.spotify.com/album/1w6FcPbvr0g1PlinZesFKt) | 2:26 |
+| 22 | [Popsicle](https://open.spotify.com/track/7BcQVXI8S1PQVNhuX3Z6uH) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Popsicle \(Extra Sticky\)](https://open.spotify.com/album/0eM1beQrKuuFSAWCqBHWlg) | 1:50 |
 | 23 | [Praise](https://open.spotify.com/track/2qovhIwmJitHmE9D8P9EjK) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2), [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n), [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [GRACE](https://open.spotify.com/album/7iT2FObD258Tu1W2YUHZg5) | 3:44 |
 | 24 | [DarkMagicSillySexy \(origin story\)](https://open.spotify.com/track/5zf0I513OSe5u5C3Czc3bc) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [DROOL](https://open.spotify.com/album/46uDWaLv4goRceYW9atPaI) | 2:45 |
 | 25 | [Bizarre feat\. 6arelyhuman](https://open.spotify.com/track/1GFec99STPgAqDBqiitcLt) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX), [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN) | [Bizarre feat\. 6arelyhuman](https://open.spotify.com/album/6qewFXnzaboTiupNP8r6nn) | 2:43 |
@@ -40,4 +40,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4yfE9e.md) - [plain]
 | 30 | [Steve Aoki \(feat\. bludnymph\)](https://open.spotify.com/track/5Vf85Sp6tL4z87tAL5thDx) | [Wreckno](https://open.spotify.com/artist/6j78LtFLqDG65Ju57NUM5N), [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Steve Aoki \(feat\. bludnymph\)](https://open.spotify.com/album/3KHtnDwODoQvyY7mB2FtC6) | 2:30 |
 | 31 | [Wishin](https://open.spotify.com/track/0jXAVglTzvblAEV8ctD5ou) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX), [Indigowavv](https://open.spotify.com/artist/2yzeix2G6wK5nEJAudnC4Z) | [Wishin](https://open.spotify.com/album/4MuJLxFax2HZAMwl8xdhzv) | 2:53 |
 
-Snapshot ID: `ag+cgAAAAAAkK/NGHaLhn0ti3QwJNIr/`
+Snapshot ID: `ahDuAAAAAADdt8YfdX4hvLlRk+yyA2Q4`

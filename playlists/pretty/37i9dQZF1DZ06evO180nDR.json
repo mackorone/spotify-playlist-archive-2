@@ -1,12 +1,12 @@
 {
   "description": "This is Los Dareyes De La Sierra. The essential tracks, all in one playlist.",
-  "num_followers": 74480,
+  "num_followers": 74572,
   "original_name": "This Is Los Dareyes De La Sierra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ag+cgAAAAAAQGZzFOZSkrTM7l6e4toG9",
+  "snapshot_id": "ahDuAAAAAACLH8cCq2WuIynw/MGh4bQk",
   "tracks": [
     {
       "added_at": null,
@@ -755,26 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Polvo Soy",
-        "url": "https://open.spotify.com/album/3SWmKgWCz1IOYbkdPjqVc7"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        },
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 173793,
-      "name": "Polvo Soy",
-      "url": "https://open.spotify.com/track/7rzEV4j9gxblnC9DHN53iC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Las 745",
         "url": "https://open.spotify.com/album/7n51uT7Fh9ck9ysRCyxftg"
       },
@@ -791,6 +771,26 @@
       "duration_ms": 163073,
       "name": "Las 745",
       "url": "https://open.spotify.com/track/2qYB75lMyKTsejklUVuxSH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Polvo Soy",
+        "url": "https://open.spotify.com/album/3SWmKgWCz1IOYbkdPjqVc7"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        },
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 173793,
+      "name": "Polvo Soy",
+      "url": "https://open.spotify.com/track/7rzEV4j9gxblnC9DHN53iC"
     },
     {
       "added_at": null,

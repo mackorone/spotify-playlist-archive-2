@@ -1,6 +1,6 @@
 {
   "description": "SPINGERE",
-  "num_followers": 114957,
+  "num_followers": 114968,
   "original_name": "Club Rap ",
   "owner": {
     "name": "Spotify",
@@ -487,6 +487,26 @@
     {
       "added_at": "2026-05-21 23:01:21",
       "album": {
+        "name": "ASPETTANDO LA BELLA VITA",
+        "url": "https://open.spotify.com/album/7kPBwGRrSCDXGUuxcD6AWb"
+      },
+      "artists": [
+        {
+          "name": "Artie 5ive",
+          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+        },
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+        }
+      ],
+      "duration_ms": 189015,
+      "name": "ANELLI E COLLANE (feat. ANNA)",
+      "url": "https://open.spotify.com/track/0YI32qkEhhUjoGVMGXDm8b"
+    },
+    {
+      "added_at": "2026-05-21 23:01:21",
+      "album": {
         "name": "Nerissima",
         "url": "https://open.spotify.com/album/4aVP5OanDJz1dXGV1Y0TER"
       },
@@ -507,26 +527,6 @@
       "duration_ms": 147396,
       "name": "Bacio del Cobra (feat. Artie 5ive)",
       "url": "https://open.spotify.com/track/00b18mcpPYwLZtFYWqbDgN"
-    },
-    {
-      "added_at": "2026-05-21 23:01:21",
-      "album": {
-        "name": "ASPETTANDO LA BELLA VITA",
-        "url": "https://open.spotify.com/album/7kPBwGRrSCDXGUuxcD6AWb"
-      },
-      "artists": [
-        {
-          "name": "Artie 5ive",
-          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
-        },
-        {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
-        }
-      ],
-      "duration_ms": 189015,
-      "name": "ANELLI E COLLANE (feat. ANNA)",
-      "url": "https://open.spotify.com/track/0YI32qkEhhUjoGVMGXDm8b"
     },
     {
       "added_at": "2026-05-21 23:01:21",
@@ -647,6 +647,26 @@
       "duration_ms": 121804,
       "name": "ZE PEQUENO",
       "url": "https://open.spotify.com/track/0BTaf9B2reL6S8Ep82XMcO"
+    },
+    {
+      "added_at": "2026-05-21 23:01:21",
+      "album": {
+        "name": "RYAN TED",
+        "url": "https://open.spotify.com/album/2U9mwmcJrUmkIpJm9gq8n7"
+      },
+      "artists": [
+        {
+          "name": "Tedua",
+          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
+        },
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+        }
+      ],
+      "duration_ms": 124464,
+      "name": "Felpa Nera (feat. ANNA)",
+      "url": "https://open.spotify.com/track/168t3ud7jZIslO0P5ZDKnj"
     },
     {
       "added_at": "2026-05-21 23:01:21",
@@ -839,26 +859,6 @@
     {
       "added_at": "2026-05-21 23:01:21",
       "album": {
-        "name": "RYAN TED",
-        "url": "https://open.spotify.com/album/2U9mwmcJrUmkIpJm9gq8n7"
-      },
-      "artists": [
-        {
-          "name": "Tedua",
-          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
-        },
-        {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
-        }
-      ],
-      "duration_ms": 124464,
-      "name": "Felpa Nera (feat. ANNA)",
-      "url": "https://open.spotify.com/track/168t3ud7jZIslO0P5ZDKnj"
-    },
-    {
-      "added_at": "2026-05-21 23:01:21",
-      "album": {
         "name": "In Italia 2024 (feat. Emma & Baby Gang)",
         "url": "https://open.spotify.com/album/312tEWGsN8ssJGl3aHZWuU"
       },
@@ -923,6 +923,26 @@
     {
       "added_at": "2026-05-21 23:01:21",
       "album": {
+        "name": "LISTA 47",
+        "url": "https://open.spotify.com/album/3MMMbRt5PJf5zXmFoe94D4"
+      },
+      "artists": [
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+        },
+        {
+          "name": "MamboLosco",
+          "url": "https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41"
+        }
+      ],
+      "duration_ms": 183038,
+      "name": "ADVICE",
+      "url": "https://open.spotify.com/track/3gQkyNcw4YuyeUcFM5d9TB"
+    },
+    {
+      "added_at": "2026-05-21 23:01:21",
+      "album": {
         "name": "Fuego Del Calor (feat. Ozuna, Tyga & Capo Plaza)",
         "url": "https://open.spotify.com/album/6O7pWTHLRiNKcHPkonDJWz"
       },
@@ -947,26 +967,6 @@
       "duration_ms": 196000,
       "name": "Fuego Del Calor (feat. Ozuna, Tyga & Capo Plaza)",
       "url": "https://open.spotify.com/track/7FX4EvQht57zUc2P313cEZ"
-    },
-    {
-      "added_at": "2026-05-21 23:01:21",
-      "album": {
-        "name": "LISTA 47",
-        "url": "https://open.spotify.com/album/3MMMbRt5PJf5zXmFoe94D4"
-      },
-      "artists": [
-        {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
-        },
-        {
-          "name": "MamboLosco",
-          "url": "https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41"
-        }
-      ],
-      "duration_ms": 183038,
-      "name": "ADVICE",
-      "url": "https://open.spotify.com/track/3gQkyNcw4YuyeUcFM5d9TB"
     },
     {
       "added_at": "2026-05-21 23:01:21",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2026-05-21 23:01:21",
       "album": {
+        "name": "Haribo",
+        "url": "https://open.spotify.com/album/033qgPue0caWczYCMdcfFa"
+      },
+      "artists": [
+        {
+          "name": "VillaBanks",
+          "url": "https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL"
+        }
+      ],
+      "duration_ms": 136633,
+      "name": "Haribo",
+      "url": "https://open.spotify.com/track/1DiQcyWAklUoTLmBVVvTU6"
+    },
+    {
+      "added_at": "2026-05-21 23:01:21",
+      "album": {
         "name": "MACHETE MIXTAPE 4",
         "url": "https://open.spotify.com/album/5OOd2aAkgZJlYRqYlT1Axz"
       },
@@ -1179,22 +1195,6 @@
       "duration_ms": 177036,
       "name": "HO PAURA DI USCIRE 2 - prod. Mace",
       "url": "https://open.spotify.com/track/0nFCpnM7nistUWXRZpzOWM"
-    },
-    {
-      "added_at": "2026-05-21 23:01:21",
-      "album": {
-        "name": "Haribo",
-        "url": "https://open.spotify.com/album/033qgPue0caWczYCMdcfFa"
-      },
-      "artists": [
-        {
-          "name": "VillaBanks",
-          "url": "https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL"
-        }
-      ],
-      "duration_ms": 136633,
-      "name": "Haribo",
-      "url": "https://open.spotify.com/track/1DiQcyWAklUoTLmBVVvTU6"
     },
     {
       "added_at": "2026-05-21 23:01:21",
@@ -1275,26 +1275,6 @@
     {
       "added_at": "2026-05-21 23:01:21",
       "album": {
-        "name": "X2VR",
-        "url": "https://open.spotify.com/album/3ilgQgVMtxAxN2Jmb1OM29"
-      },
-      "artists": [
-        {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
-        },
-        {
-          "name": "Gu\u00e8",
-          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
-        }
-      ],
-      "duration_ms": 217538,
-      "name": "Gol",
-      "url": "https://open.spotify.com/track/1F4ARcz5U9kgtcjpcYNzTH"
-    },
-    {
-      "added_at": "2026-05-21 23:01:21",
-      "album": {
         "name": "TRAVESURAS (feat. MV Killa, Yung Snapp, Lele Blade, Vale Lambo)",
         "url": "https://open.spotify.com/album/068WIA490RGoZi1ZObrv9e"
       },
@@ -1323,6 +1303,26 @@
       "duration_ms": 265637,
       "name": "TRAVESURAS (feat. MV Killa, Yung Snapp, Lele Blade, Vale Lambo)",
       "url": "https://open.spotify.com/track/7IrtgihaMKV0DOVcB0TcBG"
+    },
+    {
+      "added_at": "2026-05-21 23:01:21",
+      "album": {
+        "name": "X2VR",
+        "url": "https://open.spotify.com/album/3ilgQgVMtxAxN2Jmb1OM29"
+      },
+      "artists": [
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        },
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        }
+      ],
+      "duration_ms": 217538,
+      "name": "Gol",
+      "url": "https://open.spotify.com/track/1F4ARcz5U9kgtcjpcYNzTH"
     },
     {
       "added_at": "2026-05-21 23:01:21",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2026-05-21 23:01:21",
       "album": {
+        "name": "Madreperla",
+        "url": "https://open.spotify.com/album/5FnVg6RBrEFUIEpHRw8EB1"
+      },
+      "artists": [
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        }
+      ],
+      "duration_ms": 155133,
+      "name": "Mollami Pt.2",
+      "url": "https://open.spotify.com/track/3uQLQ73joqyMYDhI2UaBOq"
+    },
+    {
+      "added_at": "2026-05-21 23:01:21",
+      "album": {
         "name": "XDVR Reloaded",
         "url": "https://open.spotify.com/album/45rG8pfk8nga2wfRcAqC9l"
       },
@@ -1407,22 +1423,6 @@
       "duration_ms": 232000,
       "name": "Mercedes Nero",
       "url": "https://open.spotify.com/track/7kck8Amf3NpSGASoFuKIcl"
-    },
-    {
-      "added_at": "2026-05-21 23:01:21",
-      "album": {
-        "name": "Madreperla",
-        "url": "https://open.spotify.com/album/5FnVg6RBrEFUIEpHRw8EB1"
-      },
-      "artists": [
-        {
-          "name": "Gu\u00e8",
-          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
-        }
-      ],
-      "duration_ms": 155133,
-      "name": "Mollami Pt.2",
-      "url": "https://open.spotify.com/track/3uQLQ73joqyMYDhI2UaBOq"
     },
     {
       "added_at": "2026-05-21 23:01:21",

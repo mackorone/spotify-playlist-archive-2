@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WbnZpHWMaI.md) - [plain]
 
 > Celebrating women at the center of innovation in electronic music\. Featuring Azzecca.
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,217 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,222 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WbnZpHWMaI.md) - [plain]
 | 99 | [Fun Times](https://open.spotify.com/track/7LD3zycYhQNEkvSaDXwFv2) | [Marie Davidson](https://open.spotify.com/artist/7xJVICbAWizNBKBD3mRWjF) | [Fun Times](https://open.spotify.com/album/6cNNIC4lX9MjSyGTXLA1MS) | 4:13 |
 | 100 | [Icónica](https://open.spotify.com/track/07nrSqKLnekzCGvIJhe8db) | [MJ Nebreda](https://open.spotify.com/artist/1h6b4y2ObngnFpgEwry7Fy) | [Corazón Club Vol\. 1](https://open.spotify.com/album/4Xdwjql5l2lTbXPsAYSRdP) | 3:09 |
 
-Snapshot ID: `AAAAAF6PNqqyGwIXWn5Q2zQtJUP+ZJ65`
+Snapshot ID: `AAAAAMwSbnDsOtrMHTTEuTGoIF6IXT+r`

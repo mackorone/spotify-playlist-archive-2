@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGD5E6N09jj1.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2YMfVMHfyhZ8nNwKmfbrZi">Charli XCX</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,993 likes - 215 songs - 11 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,995 likes - 215 songs - 11 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -200,8 +200,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGD5E6N09jj1.md) - [plain]
 | 190 | [Caught in the Middle](https://open.spotify.com/track/1A2b8eLK2qaMCExzHhq8mF) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [SUCKER](https://open.spotify.com/album/0DgLboDoKVcueitwtpQxe2) | 3:01 |
 | 191 | [Hand in the Fire \(feat\. Charli XCX\)](https://open.spotify.com/track/5QPRuZbi5lG1xb2j8vxP4v) | [Mr\. Oizo](https://open.spotify.com/artist/0b9ukmbg0MO5eMlorcgOwz), [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Hand in the Fire](https://open.spotify.com/album/68m5OyVhf41Va2TYVBkwvA) | 2:59 |
 | 192 | [Die Tonight](https://open.spotify.com/track/4BoixPGKvuCbngjx1no6yB) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [SUCKER](https://open.spotify.com/album/0DgLboDoKVcueitwtpQxe2) | 2:51 |
-| 193 | [Tears & Tantrums](https://open.spotify.com/track/3Jc6Bdhc4QDQwal1urpuNk) | [XYLØ](https://open.spotify.com/artist/6ioOEWNNGK40H8xrGj6XPW) | [Tears & Tantrums](https://open.spotify.com/album/346DA0O1oivOnbEkt9b3qj) | 3:18 |
-| 194 | [Burial](https://open.spotify.com/track/5tmtdhte0DNmEBBIi2QhdO) | [Anne Hathaway](https://open.spotify.com/artist/0nIyPY7J7G68WgQEOLHn0x) | [Mother Mary: Greatest Hits](https://open.spotify.com/album/4Fwk57YUcfsa6EvZJSLwVq) | 3:09 |
+| 193 | [Burial](https://open.spotify.com/track/5tmtdhte0DNmEBBIi2QhdO) | [Anne Hathaway](https://open.spotify.com/artist/0nIyPY7J7G68WgQEOLHn0x) | [Mother Mary: Greatest Hits](https://open.spotify.com/album/4Fwk57YUcfsa6EvZJSLwVq) | 3:09 |
+| 194 | [Tears & Tantrums](https://open.spotify.com/track/3Jc6Bdhc4QDQwal1urpuNk) | [XYLØ](https://open.spotify.com/artist/6ioOEWNNGK40H8xrGj6XPW) | [Tears & Tantrums](https://open.spotify.com/album/346DA0O1oivOnbEkt9b3qj) | 3:18 |
 | 195 | [How Can I](https://open.spotify.com/track/2b8ntbMqIrXSPRNbPg2nGb) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [True Romance](https://open.spotify.com/album/5t7Bn5XfE7yj2rqydVq0Ue) | 3:55 |
 | 196 | [Explode \- From The Angry Birds Movie Soundtrack](https://open.spotify.com/track/2UgpoYhtdOZqVw3lFoqMck) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [The Angry Birds Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4Sp6HR4bYIsiOBO9pPaZv8) | 3:45 |
 | 197 | [Jealous](https://open.spotify.com/track/5ITmoGvDwaiUMF1iuAJtmU) | [AlunaGeorge](https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38) | [I Remember](https://open.spotify.com/album/6KuHbuDiJNcgEvnLTnfQcY) | 3:21 |
@@ -224,4 +224,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGD5E6N09jj1.md) - [plain]
 | 214 | [Moonlight](https://open.spotify.com/track/5G1VHdOog0ZhnaURm9CoK3) | [Lil XanniK](https://open.spotify.com/artist/3ahjZbbalgCMwieFg3GrCu) | [S4D](https://open.spotify.com/album/4kgFAxFqpRmn5Qw69NwZTM) | 1:30 |
 | 215 | [Friss meine Shorts](https://open.spotify.com/track/52sdkW14TkAL1lURxnPsgW) | [Bart](https://open.spotify.com/artist/27T8KFq2GCENrgbvjioqIb) | [The Voices of Springfield](https://open.spotify.com/album/2geQRLxx4XzNZHwGYVHVVl) | 2:40 |
 
-Snapshot ID: `AcSTEAAAAACCKdG8FWio14ngtVvY3igI`
+Snapshot ID: `AcSYsAAAAAC1obr8EoupC9BX4lCzdmE2`

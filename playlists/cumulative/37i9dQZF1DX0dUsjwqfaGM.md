@@ -2,7 +2,7 @@
 
 ### [RADAR Vietnam](https://open.spotify.com/playlist/37i9dQZF1DX0dUsjwqfaGM)
 
-> Thế hệ nghệ sĩ mới\. Ảnh bìa: CoolKid
+> Thế hệ nghệ sĩ mới\. Ảnh bìa: GUrbane
 
 183 songs - 10 hr 34 min
 
@@ -97,7 +97,7 @@
 | [Hãy Để Chúng Ta Được Có Thêm Thời Gian](https://open.spotify.com/track/1BL5MlpmXKaFrK04HaCw3d) | [Haisam](https://open.spotify.com/artist/5h0cBKxBX54CqPaQU6tJhk), [Tez](https://open.spotify.com/artist/1yWLf9thhwjqScDt6Az4Z9) | [Hãy Để Chúng Ta Được Có Thêm Thời Gian](https://open.spotify.com/album/4tjAKvxiGK7nv1TfDz9aIi) | 3:43 | 2022-09-09 | 2023-06-23 |
 | [Hãy Để Chúng Ta Được Có Thêm Thời Gian \- Acoustic Version](https://open.spotify.com/track/1IuQ1QnMRuISpiS7BMjpS7) | [Haisam](https://open.spotify.com/artist/5h0cBKxBX54CqPaQU6tJhk) | [Sâmflowers](https://open.spotify.com/album/4r2sh8ZMxq8yc3qT19bM3m) | 3:51 | 2022-09-09 | 2023-09-15 |
 | [Hướng Dương](https://open.spotify.com/track/65uxT4ZGe6eOABj1g5V2Fj) | [Changg](https://open.spotify.com/artist/1nX1HVIUo1Zfs3e2v3lFb9) | [Hướng Dương](https://open.spotify.com/album/6sUgmtdrcZRJxRsfbxUxqc) | 3:39 | 2022-09-09 | 2024-09-27 |
-| [hắt xì hơi](https://open.spotify.com/track/3aEs5WVHT8oBPA95izGmIi) | [m tú](https://open.spotify.com/artist/7a6FvNRlbkR8oBXKIHUGr6) | [hắt xì hơi](https://open.spotify.com/album/1fiCWNNHDB9Fb4fhWN8KzE) | 3:35 | 2024-04-02 | 2025-05-28 |
+| [hắt xì hơi](https://open.spotify.com/track/3aEs5WVHT8oBPA95izGmIi) | [m tú](https://open.spotify.com/artist/7a6FvNRlbkR8oBXKIHUGr6) | [hắt xì hơi](https://open.spotify.com/album/1fiCWNNHDB9Fb4fhWN8KzE) | 3:35 | 2024-04-02 |  |
 | [HỶ 1](https://open.spotify.com/track/2dSCUWDMhmnjNCl8yMg0TO) | [Lazii](https://open.spotify.com/artist/2mrZ4gGfWba9oB1mfm9j90), [Drixen](https://open.spotify.com/artist/0gsKMaZgIDuvSSlXR1IJKd) | [HỶ 1](https://open.spotify.com/album/3iBR8YCFMyHMr92Kz5BO1Y) | 2:29 | 2023-11-21 | 2024-12-05 |
 | [I Should've Known](https://open.spotify.com/track/2d7BDniXFXApGT1ggmF7BN) | [MINH](https://open.spotify.com/artist/0RzxSfLRSQmRJ3fFabRMsT) | [I Should've Known](https://open.spotify.com/album/2zL7QvM658iVV9rLCsAfbb) | 4:09 | 2022-09-09 | 2024-04-03 |
 | [If You Said So \(feat\. Wxrdie & 2Pillz\)](https://open.spotify.com/track/0HoW6vYSTE9eutD16ZpXv0) | [Coldzy](https://open.spotify.com/artist/401ikVSob52311M6Fwnunt), [2pillz](https://open.spotify.com/artist/0XtC2d9ZVigYA7iMy5YkW0), [Wxrdie](https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw) | [If You Said So \(feat\. Wxrdie & 2Pillz\)](https://open.spotify.com/album/6AtPsc69M5XW9Uib4mA2qi) | 2:36 | 2023-04-13 | 2024-12-05 |
@@ -170,7 +170,7 @@
 | [Ulala \(feat\. T.R.I\)](https://open.spotify.com/track/1RV2oiNHqagcwOAvLN9qeX) | [Kim Kunni](https://open.spotify.com/artist/2OONhLKGZlcgaA9PQ2e64g), [T.R.I](https://open.spotify.com/artist/2rVYwIYNEsMxtt8j5yemHb) | [Ulala](https://open.spotify.com/album/6T4E1Vk1gP5LM300KhSW6I) | 3:02 | 2023-07-25 | 2024-04-03 |
 | [UMBALA \- Acoustic version](https://open.spotify.com/track/0ubZvjPkpi7mJxAI9PkCtd) | [kidsai](https://open.spotify.com/artist/6kkA6laUMR0hzML9YY98CQ), [Bbynascar](https://open.spotify.com/artist/70xqUA23Q0PdxUOMqUCkqR) | [UMBALA \(Acoustic version\)](https://open.spotify.com/album/6xQVtFRH4WGlHTpuZ4U7oi) | 3:34 | 2023-11-21 | 2024-12-05 |
 | [UP](https://open.spotify.com/track/0dZ6FTTzEKWxvWeSjuLxrm) | [Teddie J](https://open.spotify.com/artist/5L6kiKUKCDWxCg3gOKDEMk), [Hunter Ska](https://open.spotify.com/artist/3FMFRrACgsv8lLH1jMpRJJ) | [UP](https://open.spotify.com/album/7e3aXX2fXPfkFei2CnNd14) | 3:14 | 2024-12-04 | 2025-03-28 |
-| [UPTOWNINTRO](https://open.spotify.com/track/6sg0BSU861E6o7QP3N3B8o) | [SIXTYUPTOWN](https://open.spotify.com/artist/6uAa2LaYiWLsy8FlwtKvay) | [Siêu Trộm Kid \- The EP](https://open.spotify.com/album/6usk9OKVtyVMq6yd16tM8v) | 2:37 | 2024-12-04 |  |
+| [UPTOWNINTRO](https://open.spotify.com/track/6sg0BSU861E6o7QP3N3B8o) | [SIXTYUPTOWN](https://open.spotify.com/artist/6uAa2LaYiWLsy8FlwtKvay) | [Siêu Trộm Kid \- The EP](https://open.spotify.com/album/6usk9OKVtyVMq6yd16tM8v) | 2:37 | 2024-12-04 | 2026-05-25 |
 | [USO](https://open.spotify.com/track/2qhK89eyBbw7Xb1nZOMLh7) | [Ánh Sáng AZA](https://open.spotify.com/artist/0agWx6vy0Ss4FGafO8bEYc) | [AZA](https://open.spotify.com/album/0UYMVOjA0TrgUdu3eWLO22) | 3:29 | 2025-03-27 |  |
 | [vaicaunoicokhiennguoithaydoi](https://open.spotify.com/track/25h0TqC9H3BcMA7KjK5nHK) | [GREY D](https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV), [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR) | [vaicaunoicokhiennguoithaydoi](https://open.spotify.com/album/5Gu0Ldddj2f6a0q5gitIok) | 3:45 | 2022-09-09 | 2024-09-27 |
 | [vaicaunoicokhiennguoithaydoi](https://open.spotify.com/track/5PLjpBivzvuaIIqqkQgnRK) | [GREY D](https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV), [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR) | [vaicaunoicokhiennguoithaydoi](https://open.spotify.com/album/2ozchu3Zz56PixMzMP8r94) | 3:45 | 2024-02-01 | 2024-04-19 |

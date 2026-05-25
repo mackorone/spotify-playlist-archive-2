@@ -1763,6 +1763,24 @@
     },
     {
       "album": {
+        "name": "back to friends",
+        "url": "https://open.spotify.com/album/58E4vTcilqcUj8O0hoiq5t"
+      },
+      "artists": [
+        {
+          "name": "Shoby",
+          "url": "https://open.spotify.com/artist/1VF2jmv5aWGszBtIVPt2fT"
+        }
+      ],
+      "date_added": "2026-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126982,
+      "name": "back to friends",
+      "url": "https://open.spotify.com/track/0OyBlGcqesDjFsJZF96Myu"
+    },
+    {
+      "album": {
         "name": "Back to Summer",
         "url": "https://open.spotify.com/album/585JNE5aaruJLObK5M6Srj"
       },
@@ -1858,7 +1876,7 @@
       ],
       "date_added": "2026-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-25",
       "duration_ms": 139545,
       "name": "Bad Luck",
       "url": "https://open.spotify.com/track/0rxPGcTaSNgrlcqkLekb5l"
@@ -2802,6 +2820,32 @@
       "duration_ms": 136200,
       "name": "Breathing",
       "url": "https://open.spotify.com/track/19s7wAYW0yKLiHzKUZKs08"
+    },
+    {
+      "album": {
+        "name": "Brighter Days",
+        "url": "https://open.spotify.com/album/5tfPrrgYcZ1ua27OF1aQM4"
+      },
+      "artists": [
+        {
+          "name": "MCN2",
+          "url": "https://open.spotify.com/artist/343xgiGnBTnEyNmf0N6aeh"
+        },
+        {
+          "name": "rivve",
+          "url": "https://open.spotify.com/artist/4mH4QjsUfCleAq6wz2QOJV"
+        },
+        {
+          "name": "Menza",
+          "url": "https://open.spotify.com/artist/1He0fcv3xRjliYzR7I84q7"
+        }
+      ],
+      "date_added": "2026-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156923,
+      "name": "Brighter Days",
+      "url": "https://open.spotify.com/track/1sGWDDWP8GZsVi88T8I92q"
     },
     {
       "album": {
@@ -25098,7 +25142,7 @@
       ],
       "date_added": "2026-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-25",
       "duration_ms": 144000,
       "name": "Symphony",
       "url": "https://open.spotify.com/track/4v5RMvSiVz0hYBQFhvnh82"
@@ -26726,6 +26770,24 @@
       "duration_ms": 173477,
       "name": "Tore Me Up",
       "url": "https://open.spotify.com/track/2lzE9brm1tR9gCv1Ibbo9g"
+    },
+    {
+      "album": {
+        "name": "Torn",
+        "url": "https://open.spotify.com/album/19zPp8Aw1ISgJCg4hFziCT"
+      },
+      "artists": [
+        {
+          "name": "Goldaine",
+          "url": "https://open.spotify.com/artist/1QftYA5x2E5cUTutfjtcfg"
+        }
+      ],
+      "date_added": "2026-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139872,
+      "name": "Torn",
+      "url": "https://open.spotify.com/track/13kXzUvY9xA1FdeJD3nMcc"
     },
     {
       "album": {
@@ -28442,7 +28504,7 @@
       ],
       "date_added": "2026-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-25",
       "duration_ms": 151071,
       "name": "Where Did We Go Wrong",
       "url": "https://open.spotify.com/track/7dj1j46FIwnRkfv2BEULbm"

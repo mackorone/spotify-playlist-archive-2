@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6V1wC4TTOfO.md) - [plain]
 
 > <a href="spotify:artist:249QVZLSwrDyleKNapaapm">SAFAR</a>'s favorite tracks\. Updated regularly\. Curated by SAFAR\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,279 likes - 50 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,327 likes - 50 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

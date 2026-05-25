@@ -1,6 +1,6 @@
 {
   "description": "pov: minhas favs / Foto: Olivia Rodrigo",
-  "num_followers": 1072192,
+  "num_followers": 1072152,
   "original_name": "pov",
   "owner": {
     "name": "Spotify",
@@ -883,26 +883,6 @@
     {
       "added_at": "2026-05-22 13:48:15",
       "album": {
-        "name": "Home (feat. Hikaru Utada)",
-        "url": "https://open.spotify.com/album/3jIzQAsO6agpgpWRMOO8uF"
-      },
-      "artists": [
-        {
-          "name": "Charlie Puth",
-          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
-        },
-        {
-          "name": "Hikaru Utada",
-          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
-        }
-      ],
-      "duration_ms": 224946,
-      "name": "Home (feat. Hikaru Utada)",
-      "url": "https://open.spotify.com/track/4V9fJ12KcWd78OSAqYNO9r"
-    },
-    {
-      "added_at": "2026-05-22 13:48:15",
-      "album": {
         "name": "Eternity",
         "url": "https://open.spotify.com/album/1arG3K4COe0kCEU9NqPF5S"
       },
@@ -919,6 +899,26 @@
       "duration_ms": 203474,
       "name": "Eternity",
       "url": "https://open.spotify.com/track/438QRARw2l8mc0TyFk8BLy"
+    },
+    {
+      "added_at": "2026-05-22 13:48:15",
+      "album": {
+        "name": "Home (feat. Hikaru Utada)",
+        "url": "https://open.spotify.com/album/3jIzQAsO6agpgpWRMOO8uF"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        },
+        {
+          "name": "Hikaru Utada",
+          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
+        }
+      ],
+      "duration_ms": 224946,
+      "name": "Home (feat. Hikaru Utada)",
+      "url": "https://open.spotify.com/track/4V9fJ12KcWd78OSAqYNO9r"
     },
     {
       "added_at": "2026-05-22 13:48:15",
@@ -1135,6 +1135,30 @@
     {
       "added_at": "2026-05-22 13:48:15",
       "album": {
+        "name": "Dua Lipa - Live From Mexico",
+        "url": "https://open.spotify.com/album/3rvZld1RX30IVhuaLkYKnZ"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        },
+        {
+          "name": "Fher de Man\u00e1",
+          "url": "https://open.spotify.com/artist/67dkjmTVB5JjU5S0BIkCs7"
+        }
+      ],
+      "duration_ms": 303489,
+      "name": "Oye Mi Amor (feat. Fher de Man\u00e1) [Live From Mexico]",
+      "url": "https://open.spotify.com/track/6UNEcWHoSn6RGk43mGjQnO"
+    },
+    {
+      "added_at": "2026-05-22 13:48:15",
+      "album": {
         "name": "after the sun goes down",
         "url": "https://open.spotify.com/album/4PPuC1eL0wWfqBijzhbOWg"
       },
@@ -1163,30 +1187,6 @@
       "duration_ms": 181586,
       "name": "Fast",
       "url": "https://open.spotify.com/track/0o7fAE9dLRLx4kGMh3QFot"
-    },
-    {
-      "added_at": "2026-05-22 13:48:15",
-      "album": {
-        "name": "Dua Lipa - Live From Mexico",
-        "url": "https://open.spotify.com/album/3rvZld1RX30IVhuaLkYKnZ"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        },
-        {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        },
-        {
-          "name": "Fher de Man\u00e1",
-          "url": "https://open.spotify.com/artist/67dkjmTVB5JjU5S0BIkCs7"
-        }
-      ],
-      "duration_ms": 303489,
-      "name": "Oye Mi Amor (feat. Fher de Man\u00e1) [Live From Mexico]",
-      "url": "https://open.spotify.com/track/6UNEcWHoSn6RGk43mGjQnO"
     },
     {
       "added_at": "2026-05-22 13:48:15",

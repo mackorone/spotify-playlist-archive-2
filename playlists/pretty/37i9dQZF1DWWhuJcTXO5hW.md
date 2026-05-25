@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhuJcTXO5hW.md) - [plain]
 
 > The most chill instrumental oud sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,377 likes - 50 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,385 likes - 50 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhuJcTXO5hW.md) - [plain]
 | 12 | [Zourouni](https://open.spotify.com/track/4J7npFq7vLfUxuWvOq4Ttx) | [Munir Bachir](https://open.spotify.com/artist/5Of0ZWqauwYLFzmRtjAHKy) | [Aoud Around the Arab World](https://open.spotify.com/album/7yzLWWPh9Aq0sXSTiA5GyD) | 2:38 |
 | 13 | [Syrian Blues](https://open.spotify.com/track/4qUWmZRExYRJPI0N1Jluqk) | [TootArd](https://open.spotify.com/artist/7nSWA1659h0Vb1EyjJdSFV) | [Laissez passer](https://open.spotify.com/album/0acmEZwZrpPj30Tpp1MyAD) | 4:54 |
 | 14 | [Caravan](https://open.spotify.com/track/6pbcfkv8cVwksZWoqSbf9a) | [Omar Bashir](https://open.spotify.com/artist/4IRXGwXby9WAyL7hrgLOQH) | [The Dancing Oud](https://open.spotify.com/album/2v6zc4jQl8G9WoPX9lxnuk) | 6:22 |
-| 15 | [That Moment When](https://open.spotify.com/track/5D6pCmqhtc7UT470FPQbL0) | [Adnan Joubran](https://open.spotify.com/artist/4KFaYjtHWI85JjkeHWyaih) | [Borders Behind](https://open.spotify.com/album/0F2DIyzw0isWT9wC4ldz5G) | 4:12 |
-| 16 | [Taqsîm en maqâm : Nahawand\-kabîr](https://open.spotify.com/track/6UWZUL60UVWXE2CwbntY7B) | [Munir Bashir](https://open.spotify.com/artist/7u3rioJ6JfINqENIQ67k6A) | [Iraq \- Irak : The Art of the 'ûd \(Collection Ocora Radio\-France\)](https://open.spotify.com/album/2M1g6EKg4ZfqH5mOI87e9x) | 9:35 |
+| 15 | [Taqsîm en maqâm : Nahawand\-kabîr](https://open.spotify.com/track/6UWZUL60UVWXE2CwbntY7B) | [Munir Bashir](https://open.spotify.com/artist/7u3rioJ6JfINqENIQ67k6A) | [Iraq \- Irak : The Art of the 'ûd \(Collection Ocora Radio\-France\)](https://open.spotify.com/album/2M1g6EKg4ZfqH5mOI87e9x) | 9:35 |
+| 16 | [That Moment When](https://open.spotify.com/track/5D6pCmqhtc7UT470FPQbL0) | [Adnan Joubran](https://open.spotify.com/artist/4KFaYjtHWI85JjkeHWyaih) | [Borders Behind](https://open.spotify.com/album/0F2DIyzw0isWT9wC4ldz5G) | 4:12 |
 | 17 | [Oud](https://open.spotify.com/track/593oXWVJyDjwXp5kXDNDIV) | [Alireza Ghorbani](https://open.spotify.com/artist/5tJdqzQYWhaBSWzGVhqGUX), [Siavash Valipour](https://open.spotify.com/artist/6HSDx33y4kIdNiHYqvUuRT), [Bamdad Ensemble](https://open.spotify.com/artist/17CJ0zntg7PBWajbWGXReN) | [Singing with Swallows of Sigh](https://open.spotify.com/album/2eg7r3MdlXP54QWH9sOKzX) | 3:10 |
 | 18 | [L'obstinée I](https://open.spotify.com/track/6r31Pw3pw6N8i6kwfc2kx2) | [Le Trio Joubran](https://open.spotify.com/artist/4TKtK5MMFFrQjhPvvu5YRI), [Chkrrr](https://open.spotify.com/artist/5YiDQX5JOajMOvlQsf2PrB) | [The Last Flight \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5ATO4rHQtMdrZ5c7p3abPA) | 1:52 |
 | 19 | [Zeynep's Romance](https://open.spotify.com/track/46SUVokaUmUCcGTRqX7fM3) | [Brian Keane](https://open.spotify.com/artist/0YF3htY87UKOd5AOQwEuPh), [Omar Faruk Tekbilek](https://open.spotify.com/artist/0PLhi5tAE8QcXnuEMui2Oe) | [Kelebek / The Butterfly \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/23treRoNBDr6nTpG9zp12k) | 4:07 |

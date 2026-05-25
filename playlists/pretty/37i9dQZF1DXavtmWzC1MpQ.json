@@ -1,6 +1,6 @@
 {
   "description": "",
-  "num_followers": 154967,
+  "num_followers": 154978,
   "original_name": "Sons da Natureza",
   "owner": {
     "name": "Spotify",
@@ -467,22 +467,6 @@
     {
       "added_at": "2026-04-02 09:58:26",
       "album": {
-        "name": "The Millpond XI",
-        "url": "https://open.spotify.com/album/26YJnlSqCFh2jdkCql4hMh"
-      },
-      "artists": [
-        {
-          "name": "Elberry",
-          "url": "https://open.spotify.com/artist/3HcvBTK8MOcYl9cVEg45vP"
-        }
-      ],
-      "duration_ms": 125610,
-      "name": "The Millpond XI",
-      "url": "https://open.spotify.com/track/3eeuBEStklq9Kjf7Bknx8K"
-    },
-    {
-      "added_at": "2026-04-02 09:58:26",
-      "album": {
         "name": "Jungle Midnight Calm, Borneo",
         "url": "https://open.spotify.com/album/6bHAVMbGHxv0dx4BZnSk8b"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 154499,
       "name": "Jungle Midnight Calm, Borneo",
       "url": "https://open.spotify.com/track/2rIFfdTbET7IDjZjIcGFy4"
+    },
+    {
+      "added_at": "2026-04-02 09:58:26",
+      "album": {
+        "name": "The Millpond XI",
+        "url": "https://open.spotify.com/album/26YJnlSqCFh2jdkCql4hMh"
+      },
+      "artists": [
+        {
+          "name": "Elberry",
+          "url": "https://open.spotify.com/artist/3HcvBTK8MOcYl9cVEg45vP"
+        }
+      ],
+      "duration_ms": 125610,
+      "name": "The Millpond XI",
+      "url": "https://open.spotify.com/track/3eeuBEStklq9Kjf7Bknx8K"
     },
     {
       "added_at": "2026-04-02 09:58:26",
@@ -663,22 +663,6 @@
     {
       "added_at": "2026-04-02 09:58:26",
       "album": {
-        "name": "Catskill Forest Preserve",
-        "url": "https://open.spotify.com/album/3hXgvl77LoBLLxZ83jfxb8"
-      },
-      "artists": [
-        {
-          "name": "Waveseekers",
-          "url": "https://open.spotify.com/artist/02ucRkp1Tm4yA5ZZwfG184"
-        }
-      ],
-      "duration_ms": 247466,
-      "name": "Catskill Forest Preserve",
-      "url": "https://open.spotify.com/track/13NGtQYPvPqAt4e02LpDJz"
-    },
-    {
-      "added_at": "2026-04-02 09:58:26",
-      "album": {
         "name": "Sleepy Stream XII",
         "url": "https://open.spotify.com/album/7z9Hcy68xQKt5RNOb2wiQh"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 112000,
       "name": "Sleepy Stream XII",
       "url": "https://open.spotify.com/track/64CfWuXsaL2nEgmrY33Ojm"
+    },
+    {
+      "added_at": "2026-04-02 09:58:26",
+      "album": {
+        "name": "Catskill Forest Preserve",
+        "url": "https://open.spotify.com/album/3hXgvl77LoBLLxZ83jfxb8"
+      },
+      "artists": [
+        {
+          "name": "Waveseekers",
+          "url": "https://open.spotify.com/artist/02ucRkp1Tm4yA5ZZwfG184"
+        }
+      ],
+      "duration_ms": 247466,
+      "name": "Catskill Forest Preserve",
+      "url": "https://open.spotify.com/track/13NGtQYPvPqAt4e02LpDJz"
     },
     {
       "added_at": "2026-04-02 09:58:26",
@@ -711,6 +711,22 @@
       "duration_ms": 158037,
       "name": "Piqueros",
       "url": "https://open.spotify.com/track/0APpPwuIGFmDOvZjhOp6iH"
+    },
+    {
+      "added_at": "2026-04-02 09:58:26",
+      "album": {
+        "name": "3D Audio Textures of Birds & Water",
+        "url": "https://open.spotify.com/album/0IVTahDgPVYrsC56rid7Mu"
+      },
+      "artists": [
+        {
+          "name": "Shaman",
+          "url": "https://open.spotify.com/artist/35P36DZtjEMEP2KOO9759M"
+        }
+      ],
+      "duration_ms": 192250,
+      "name": "Close to the River, Birds Watching",
+      "url": "https://open.spotify.com/track/05K6un84uxHhHlmel2WWnu"
     },
     {
       "added_at": "2026-04-02 09:58:26",
@@ -743,22 +759,6 @@
       "duration_ms": 194995,
       "name": "Lastovo Island Summer Bird Song",
       "url": "https://open.spotify.com/track/3j8Sl52J5JhGx8k7WpIJiI"
-    },
-    {
-      "added_at": "2026-04-02 09:58:26",
-      "album": {
-        "name": "3D Audio Textures of Birds & Water",
-        "url": "https://open.spotify.com/album/0IVTahDgPVYrsC56rid7Mu"
-      },
-      "artists": [
-        {
-          "name": "Shaman",
-          "url": "https://open.spotify.com/artist/35P36DZtjEMEP2KOO9759M"
-        }
-      ],
-      "duration_ms": 192250,
-      "name": "Close to the River, Birds Watching",
-      "url": "https://open.spotify.com/track/05K6un84uxHhHlmel2WWnu"
     },
     {
       "added_at": "2026-04-02 09:58:26",
@@ -811,18 +811,18 @@
     {
       "added_at": "2026-04-02 09:58:26",
       "album": {
-        "name": "Sunny Windy Day",
-        "url": "https://open.spotify.com/album/573klMlAI4BNEDicxHqZ9g"
+        "name": "Bird Life",
+        "url": "https://open.spotify.com/album/2ycYa4LRKTCXRa1lu8gCiL"
       },
       "artists": [
         {
-          "name": "Natural Song",
-          "url": "https://open.spotify.com/artist/3ztSSZCBD8e03TBMqPTQF3"
+          "name": "Beyond North",
+          "url": "https://open.spotify.com/artist/6onIiLSkWuZJipFErBA0dk"
         }
       ],
-      "duration_ms": 248000,
-      "name": "Sunny Windy Day",
-      "url": "https://open.spotify.com/track/2Eej9iJAvO0Ar1RYrwfTl5"
+      "duration_ms": 146000,
+      "name": "Bird Life",
+      "url": "https://open.spotify.com/track/5I9JyCa5yjW8p3K5CUXIrH"
     }
   ],
   "unique_name": "Sons da Natureza",

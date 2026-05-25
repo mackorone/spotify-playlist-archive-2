@@ -1,6 +1,6 @@
 {
   "description": "Alaba al Se\u0144or con estas canciones cl\u00e1sicas! Foto: Marcela Gandara",
-  "num_followers": 512023,
+  "num_followers": 512125,
   "original_name": "Cl\u00e1sicos Cristianos",
   "owner": {
     "name": "Spotify",
@@ -859,26 +859,6 @@
     {
       "added_at": "2026-05-12 05:08:23",
       "album": {
-        "name": "Esto Es Jesus Culture",
-        "url": "https://open.spotify.com/album/2RNvr92S3rufXeAYnHr8qY"
-      },
-      "artists": [
-        {
-          "name": "Jesus Culture",
-          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
-        },
-        {
-          "name": "Chris Quilala",
-          "url": "https://open.spotify.com/artist/45HXIkMqrQerbaPuw6FgKD"
-        }
-      ],
-      "duration_ms": 382026,
-      "name": "Cantamos A \u00c9l",
-      "url": "https://open.spotify.com/track/77QumYYpnP6uONSEJxSFug"
-    },
-    {
-      "added_at": "2026-05-12 05:08:23",
-      "album": {
         "name": "No Lo Has Visto A\u00fan",
         "url": "https://open.spotify.com/album/30BsuKRAa8cxAsVkghAbFK"
       },
@@ -895,6 +875,26 @@
       "duration_ms": 245163,
       "name": "No Lo Has Visto A\u00fan",
       "url": "https://open.spotify.com/track/4C7cPjGcerqjg0cy9hW33k"
+    },
+    {
+      "added_at": "2026-05-12 05:08:23",
+      "album": {
+        "name": "Esto Es Jesus Culture",
+        "url": "https://open.spotify.com/album/2RNvr92S3rufXeAYnHr8qY"
+      },
+      "artists": [
+        {
+          "name": "Jesus Culture",
+          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
+        },
+        {
+          "name": "Chris Quilala",
+          "url": "https://open.spotify.com/artist/45HXIkMqrQerbaPuw6FgKD"
+        }
+      ],
+      "duration_ms": 382026,
+      "name": "Cantamos A \u00c9l",
+      "url": "https://open.spotify.com/track/77QumYYpnP6uONSEJxSFug"
     },
     {
       "added_at": "2026-05-12 05:08:23",

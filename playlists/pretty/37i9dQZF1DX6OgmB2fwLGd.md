@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 
 > hyper\_sleaze.electro\-glitch.wiredheadphones.v2008.zip.\[FINAL\]\_\[REAL\]\_\_coverartist.the sound chalk makes
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,360,952 likes - 90 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,360,905 likes - 90 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

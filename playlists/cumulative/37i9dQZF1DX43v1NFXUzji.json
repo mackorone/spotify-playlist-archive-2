@@ -2473,6 +2473,28 @@
     },
     {
       "album": {
+        "name": "Bugatti",
+        "url": "https://open.spotify.com/album/3urId0HzIQ0MkOanMyul7D"
+      },
+      "artists": [
+        {
+          "name": "Huan62",
+          "url": "https://open.spotify.com/artist/08yYd8o1CrOjIpGHP2I6zU"
+        },
+        {
+          "name": "Little Homie",
+          "url": "https://open.spotify.com/artist/7HDjs7xzL0m2IbJcg3qnky"
+        }
+      ],
+      "date_added": "2026-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184055,
+      "name": "Bugatti",
+      "url": "https://open.spotify.com/track/5qhZuGE1kjJVhxaDznyCSA"
+    },
+    {
+      "album": {
         "name": "Contradi\u00e7\u00f5es",
         "url": "https://open.spotify.com/album/1vR5pzEPXx1i7h8zwosa7D"
       },
@@ -2800,7 +2822,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-25",
       "duration_ms": 171162,
       "name": "Cero - Remix",
       "url": "https://open.spotify.com/track/1d2yY2RDleLOkYxEpMuy1Y"
@@ -3644,7 +3666,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-25",
       "duration_ms": 163527,
       "name": "Cuando Ella Se Va",
       "url": "https://open.spotify.com/track/5d2NpYRSedleVRVzQUxCNI"
@@ -5145,6 +5167,24 @@
     },
     {
       "album": {
+        "name": "El Virus",
+        "url": "https://open.spotify.com/album/4EicaSGbg2BLwp2fYEg48q"
+      },
+      "artists": [
+        {
+          "name": "Moris",
+          "url": "https://open.spotify.com/artist/0FOLAubOdWPFIBTEUJsAYY"
+        }
+      ],
+      "date_added": "2026-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115312,
+      "name": "El Virus",
+      "url": "https://open.spotify.com/track/3wXYQ4zXLdEwSTyLBle4li"
+    },
+    {
+      "album": {
         "name": "Eladio Carrion: Bzrp Music Sessions, Vol. 40",
         "url": "https://open.spotify.com/album/4b2xHCwmoOeGHbo15dtqfb"
       },
@@ -5532,7 +5572,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-25",
       "duration_ms": 188759,
       "name": "Esc\u00e1ndalo",
       "url": "https://open.spotify.com/track/3m8momUN2p0pi5ErGfiKJd"
@@ -6919,6 +6959,28 @@
     },
     {
       "album": {
+        "name": "HBU",
+        "url": "https://open.spotify.com/album/52UL8EHKzDRYx84XqNnRiq"
+      },
+      "artists": [
+        {
+          "name": "R\u00d8Z",
+          "url": "https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI"
+        },
+        {
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
+        }
+      ],
+      "date_added": "2026-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248391,
+      "name": "HBU",
+      "url": "https://open.spotify.com/track/6ygKKiviQlrJgSOH7a3zbM"
+    },
+    {
+      "album": {
         "name": "HELLCAT",
         "url": "https://open.spotify.com/album/4vb14fg6oTyXWeMAz4DqnV"
       },
@@ -6964,6 +7026,24 @@
       "duration_ms": 196600,
       "name": "Hey Mor",
       "url": "https://open.spotify.com/track/1zsPaEkglFvxjAhrM8yhpr"
+    },
+    {
+      "album": {
+        "name": "HIJO DE P",
+        "url": "https://open.spotify.com/album/5QFjECtvdCEB4XVJAOWCFY"
+      },
+      "artists": [
+        {
+          "name": "Kevis & Maykyy",
+          "url": "https://open.spotify.com/artist/0q32VhVNSEcCRpQaYE1VGH"
+        }
+      ],
+      "date_added": "2026-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181132,
+      "name": "HIJO DE P",
+      "url": "https://open.spotify.com/track/5iIpWGnsZM6Em76qUAIcRz"
     },
     {
       "album": {
@@ -10406,7 +10486,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-25",
       "duration_ms": 284285,
       "name": "Mi Vicio - Remix",
       "url": "https://open.spotify.com/track/7tpeqecMwVxj1iQHDQt2TI"
@@ -10660,7 +10740,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-25",
       "duration_ms": 107130,
       "name": "Misi\u00f3n S******",
       "url": "https://open.spotify.com/track/6XR4OCEF7S6UyI6XkDcLnd"
@@ -10986,6 +11066,32 @@
       "duration_ms": 180374,
       "name": "Movezz en silencio",
       "url": "https://open.spotify.com/track/1Hrucz5n0cjYuPApCk8VkL"
+    },
+    {
+      "album": {
+        "name": "M\u00c1S DE AH\u00cd (Remix)",
+        "url": "https://open.spotify.com/album/7vNpgZdlMDiRwaASBm706E"
+      },
+      "artists": [
+        {
+          "name": "Topboy TGR",
+          "url": "https://open.spotify.com/artist/1HYdJRbyNCkiko7TAw9rei"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "date_added": "2026-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245052,
+      "name": "M\u00c1S DE AH\u00cd - Remix",
+      "url": "https://open.spotify.com/track/1aPvpAAX9lB2WpEqkK012u"
     },
     {
       "album": {
@@ -12349,6 +12455,24 @@
     },
     {
       "album": {
+        "name": "PARTY ALL DAY",
+        "url": "https://open.spotify.com/album/5eHFQQjgy6FzxAnkC0lH3S"
+      },
+      "artists": [
+        {
+          "name": "Topboy TGR",
+          "url": "https://open.spotify.com/artist/1HYdJRbyNCkiko7TAw9rei"
+        }
+      ],
+      "date_added": "2026-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144544,
+      "name": "PARTY ALL DAY",
+      "url": "https://open.spotify.com/track/2NsPRU3huaZ8O1R010evAl"
+    },
+    {
+      "album": {
         "name": "Party en el Barrio (feat. Duki)",
         "url": "https://open.spotify.com/album/2alxO71ik8lO8YIuNT2LKn"
       },
@@ -13170,7 +13294,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-25",
       "duration_ms": 175440,
       "name": "PUCHAINA",
       "url": "https://open.spotify.com/track/0YuON5Dv7TWnFRXJEVHom4"
@@ -13350,7 +13474,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-25",
       "duration_ms": 133635,
       "name": "Puto",
       "url": "https://open.spotify.com/track/79joHwLFdt7hLWuVyPhUVl"
@@ -13380,6 +13504,32 @@
       "duration_ms": 143529,
       "name": "PU\u00d1OS PULSERAS Y PALETAS",
       "url": "https://open.spotify.com/track/3ZSVSvD86WfSiKD6ubOygJ"
+    },
+    {
+      "album": {
+        "name": "Q Hubo Amor (Medell\u00edn)",
+        "url": "https://open.spotify.com/album/7lNBB4Mr7IaN4CYh6lQL2o"
+      },
+      "artists": [
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        },
+        {
+          "name": "Jere Klein",
+          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
+        },
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        }
+      ],
+      "date_added": "2026-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172072,
+      "name": "Q Hubo Amor (Medell\u00edn)",
+      "url": "https://open.spotify.com/track/0HHRmqcKYBUAsMXgXdvxx8"
     },
     {
       "album": {
@@ -14788,7 +14938,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-25",
       "duration_ms": 272400,
       "name": "Si O Si - Remix",
       "url": "https://open.spotify.com/track/1HfmblNnew8ommGB1wt8PF"
@@ -14888,6 +15038,36 @@
       "duration_ms": 204906,
       "name": "Si Te Vas",
       "url": "https://open.spotify.com/track/6Y4PDQv4XjYjHLeLmvyOt0"
+    },
+    {
+      "album": {
+        "name": "Si Te Vas 2.0",
+        "url": "https://open.spotify.com/album/09dwuvmgiuuelm2IclhO0f"
+      },
+      "artists": [
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        },
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        },
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        },
+        {
+          "name": "Ramma",
+          "url": "https://open.spotify.com/artist/7b0pdDyPV9f9hyDXAhk4Sg"
+        }
+      ],
+      "date_added": "2026-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259500,
+      "name": "Si Te Vas 2.0",
+      "url": "https://open.spotify.com/track/69NUba8fukuax13XWCaXva"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSSKiqqNKSC.md) - [plain]
 
 > ¡Lo mejor de la Salsa Cubana! Celia Cruz en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 531,009 likes - 48 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 531,054 likes - 48 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSSKiqqNKSC.md) - [plain]
 | 15 | [Temba, Tumba, Timba](https://open.spotify.com/track/621LLhcTYkEbt1fwJuSdWi) | [Los Van Van](https://open.spotify.com/artist/4B5PkQ1wMjo1siTN9yD9Ds) | [Llego..\. Van Van](https://open.spotify.com/album/39Bn2tQqMTFkJvPPPKkiwW) | 4:48 |
 | 16 | [Lola Lola](https://open.spotify.com/track/6fHZOWvumsFiRgThPknxlj) | [David Calzado y su Charanga Habanera](https://open.spotify.com/artist/1AqDIElf5SS51c2fpG6WQw) | [Live In The USA](https://open.spotify.com/album/6MtMZryAJrkwQAavMO3JJi) | 7:56 |
 | 17 | [La Boda de Belén](https://open.spotify.com/track/5M7SeoXBCxjNdP6R7Rb6y1) | [Manolito y Su Trabuco](https://open.spotify.com/artist/2UKgoW1uMnooKQtjLjnAWW) | [Grandes Éxitos](https://open.spotify.com/album/0jydiznOtgqLLEj6ZBJQA3) | 5:26 |
-| 18 | [Ya Tú No Coronas](https://open.spotify.com/track/3rhuPie2HVWD1yJ8NASOCV) | [Maykel Blanco Y Su Salsa Mayor](https://open.spotify.com/artist/20dWMesxpdRWQifq11soyp) | [Que Tiene Que Te Mueve](https://open.spotify.com/album/2Pyrt9J4FuEFe8Ks2rSq6P) | 4:49 |
-| 19 | [Qué Pasa Loco](https://open.spotify.com/track/5evx5is4W5iLY7A5zv82Ut) | [Issac Delgado](https://open.spotify.com/artist/2NssDL7cTwvfQm01xvepBQ) | [Grandes Exitos Vol\. 1](https://open.spotify.com/album/2qIauTRLruweUbBVZrQkF9) | 6:18 |
+| 18 | [Qué Pasa Loco](https://open.spotify.com/track/5evx5is4W5iLY7A5zv82Ut) | [Issac Delgado](https://open.spotify.com/artist/2NssDL7cTwvfQm01xvepBQ) | [Grandes Exitos Vol\. 1](https://open.spotify.com/album/2qIauTRLruweUbBVZrQkF9) | 6:18 |
+| 19 | [Ya Tú No Coronas](https://open.spotify.com/track/3rhuPie2HVWD1yJ8NASOCV) | [Maykel Blanco Y Su Salsa Mayor](https://open.spotify.com/artist/20dWMesxpdRWQifq11soyp) | [Que Tiene Que Te Mueve](https://open.spotify.com/album/2Pyrt9J4FuEFe8Ks2rSq6P) | 4:49 |
 | 20 | [El Negro Esta Cocinando](https://open.spotify.com/track/0id4prYPcy8PkGkbWy4bcP) | [Los Van Van](https://open.spotify.com/artist/4B5PkQ1wMjo1siTN9yD9Ds) | [Llego..\. Van Van](https://open.spotify.com/album/39Bn2tQqMTFkJvPPPKkiwW) | 5:28 |
 | 21 | [Amiga Mia](https://open.spotify.com/track/3bpJ7IwjJtyTIf6clZ9GUl) | [Formell y los Van Van](https://open.spotify.com/artist/7CyI9iSxzxeZssDSrQv8Z4) | [Legado](https://open.spotify.com/album/1zkrBmI2CMM3z3fGoZVReP) | 6:20 |
 | 22 | [Después de todo](https://open.spotify.com/track/4IDiFHGCutb8eNZYEBxHOV) | [Juan Formell y Los Van Van](https://open.spotify.com/artist/1qekCz7F0WsQICLJSVlmpy) | [Chapeando](https://open.spotify.com/album/45niWlDdAcXhbXdxaqRD78) | 6:08 |
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSSKiqqNKSC.md) - [plain]
 | 29 | [Agua Pa'yemayá](https://open.spotify.com/track/5IAyGQsiGj4AkCIjetvVsu) | [Elito Revé y su Charangón](https://open.spotify.com/artist/2hIYHAObXRLZ2WVUJZ499Z) | [¿De Qué Estamos Hablando?](https://open.spotify.com/album/1rxujYMjuCYbaiU3AWFNQy) | 5:23 |
 | 30 | [Abreme la puerta](https://open.spotify.com/track/4ZgjTLfyE1APbEH0njzRpo) | [Calle Real](https://open.spotify.com/artist/2e6cE2efCe83qgcAd8mlWU) | [Me Lo Gané](https://open.spotify.com/album/2jCnW88GKL1Bs5yhklRemb) | 6:34 |
 | 31 | [Historia de un Amor](https://open.spotify.com/track/5YkbsYoT60QOccHeKbDnUY) | [Leo Marini](https://open.spotify.com/artist/3Y5vifXLGyyHfY99BH73Ld), [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD) | [Latin Trumpets \- Bolero](https://open.spotify.com/album/3E15XVDoZD3HO4rmbxN27K) | 2:48 |
-| 32 | [Señora](https://open.spotify.com/track/7jaeXpnMexADJXoIsMfS21) | [David Calzado y su Charanga Habanera](https://open.spotify.com/artist/1AqDIElf5SS51c2fpG6WQw) | [El Charanguero Mayor](https://open.spotify.com/album/4YK55BcJGzust6FxGEIYn4) | 6:32 |
-| 33 | [Como Fue](https://open.spotify.com/track/6BDI8tJZLePuf70SzCiX42) | [Beny Moré](https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw) | [Romántico](https://open.spotify.com/album/5vF1wkyOrXRdnu3o3QNjNk) | 2:56 |
+| 32 | [Como Fue](https://open.spotify.com/track/6BDI8tJZLePuf70SzCiX42) | [Beny Moré](https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw) | [Romántico](https://open.spotify.com/album/5vF1wkyOrXRdnu3o3QNjNk) | 2:56 |
+| 33 | [Señora](https://open.spotify.com/track/7jaeXpnMexADJXoIsMfS21) | [David Calzado y su Charanga Habanera](https://open.spotify.com/artist/1AqDIElf5SS51c2fpG6WQw) | [El Charanguero Mayor](https://open.spotify.com/album/4YK55BcJGzust6FxGEIYn4) | 6:32 |
 | 34 | [1999 \(feat\. Alexander Delgado \(Gente D' Zona\) & Serguei Yera Madera\)](https://open.spotify.com/track/0UFbt4HV3VdgLS4tbh7CqM) | [Elito Revé y su Charangón](https://open.spotify.com/artist/2hIYHAObXRLZ2WVUJZ499Z), [Alexander Delgado \(Gente D' Zona\)](https://open.spotify.com/artist/6ZjuWHUKpIArEL6GrBeaOh), [Serguei Yera Madera](https://open.spotify.com/artist/2vDi85b8goHBFqRLs1dMjM) | [La Salsa Tiene mi Son](https://open.spotify.com/album/1cyF9OgODjh488BmdN1xmH) | 4:45 |
 | 35 | [Esto Está](https://open.spotify.com/track/6aOj5462zikA3VwXxv2fQb) | [Maykel Blanco Y Su Salsa Mayor](https://open.spotify.com/artist/20dWMesxpdRWQifq11soyp) | [Recoge y Vete](https://open.spotify.com/album/5mLkOShl9aG9Ikyj38AQVU) | 5:51 |
 | 36 | [Puro Teatro](https://open.spotify.com/track/0DzEFFdQvaL47DD1B8bJ5C) | [La Lupe](https://open.spotify.com/artist/5YR49Hzg7h990JxfXuxm3a) | [Laberinto de Pasiones](https://open.spotify.com/album/2A99uuzdqdWZg9wZh12Nyv) | 2:57 |

@@ -5946,7 +5946,7 @@
       ],
       "date_added": "2025-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-17",
+      "date_removed": null,
       "duration_ms": 367725,
       "name": "BAILE INoLVIDABLE",
       "url": "https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2"
@@ -9022,7 +9022,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-25",
       "duration_ms": 175101,
       "name": "Buon Vento",
       "url": "https://open.spotify.com/track/5vdmfjy5CVrV0xYEcO2f4Q"
@@ -9802,7 +9802,7 @@
       ],
       "date_added": "2026-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-24",
+      "date_removed": null,
       "duration_ms": 239330,
       "name": "Cantilene",
       "url": "https://open.spotify.com/track/3yaRrdo3DDeKgDaubuBsId"
@@ -11396,7 +11396,7 @@
       ],
       "date_added": "2026-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-24",
+      "date_removed": null,
       "duration_ms": 194307,
       "name": "Che fastidio!",
       "url": "https://open.spotify.com/track/7FhkA9JPIn1aXFGA6qRysu"
@@ -23310,7 +23310,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-25",
       "duration_ms": 183424,
       "name": "Giovane e Bello (feat. Sayf)",
       "url": "https://open.spotify.com/track/4C7gfeBMc99YlcAwckZ9gG"
@@ -23662,7 +23662,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-25",
       "duration_ms": 92130,
       "name": "Gli Anni",
       "url": "https://open.spotify.com/track/61x2LTkdo6FUoOdtmYTHjX"
@@ -24180,7 +24180,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-25",
       "duration_ms": 156921,
       "name": "Gravit\u00e0 (feat. Latrelle)",
       "url": "https://open.spotify.com/track/1cz6WntXGLT6hDJmgZ6GsI"
@@ -24702,7 +24702,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-25",
       "duration_ms": 137960,
       "name": "Halo",
       "url": "https://open.spotify.com/track/7kS3DibMOhqxUQBo9kckSl"
@@ -25608,7 +25608,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-25",
       "duration_ms": 159312,
       "name": "Hoola Hop (feat. Ernia)",
       "url": "https://open.spotify.com/track/5JDy1S1EjyqbjvWCKjUxK6"
@@ -29794,7 +29794,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-24",
+      "date_removed": null,
       "duration_ms": 211453,
       "name": "L'Amore Non Mi Basta",
       "url": "https://open.spotify.com/track/01PuEcSSxP84CO9yaXtsyp"
@@ -40204,7 +40204,7 @@
       ],
       "date_added": "2025-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-24",
+      "date_removed": null,
       "duration_ms": 226906,
       "name": "NEON",
       "url": "https://open.spotify.com/track/0jkAr7eZsvWDLYiQCfaxak"
@@ -43557,6 +43557,28 @@
     },
     {
       "album": {
+        "name": "Love?",
+        "url": "https://open.spotify.com/album/3sysiYphqNRQw7VKLCg1yE"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        }
+      ],
+      "date_added": "2026-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284866,
+      "name": "On The Floor",
+      "url": "https://open.spotify.com/track/3C0nOe05EIt1390bVABLyN"
+    },
+    {
+      "album": {
         "name": "Ciao America",
         "url": "https://open.spotify.com/album/2k5f61zin5MPVPJUMsFbsY"
       },
@@ -45654,7 +45676,7 @@
       ],
       "date_added": "2026-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-24",
+      "date_removed": null,
       "duration_ms": 192001,
       "name": "Peccati",
       "url": "https://open.spotify.com/track/1V8SElaiJmR7SJiGELr6Rc"
@@ -46414,7 +46436,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-24",
+      "date_removed": null,
       "duration_ms": 244244,
       "name": "Perdutamente",
       "url": "https://open.spotify.com/track/5pk3bAZLMs1PqdMuHITZU9"
@@ -47468,7 +47490,7 @@
       ],
       "date_added": "2026-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-24",
+      "date_removed": null,
       "duration_ms": 183333,
       "name": "Poesie Clandestine",
       "url": "https://open.spotify.com/track/14DFx4gDrW7b84MziUD6aM"
@@ -49620,7 +49642,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-25",
       "duration_ms": 91489,
       "name": "Rap Leggenda",
       "url": "https://open.spotify.com/track/1x5zRG6qXF5PoaPqruSaqv"
@@ -51304,7 +51326,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-25",
       "duration_ms": 167876,
       "name": "Ryan Ted Freestyle",
       "url": "https://open.spotify.com/track/6xyco3qjTY4RjPpYFOy7Uj"
@@ -52942,7 +52964,7 @@
       ],
       "date_added": "2026-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-24",
+      "date_removed": null,
       "duration_ms": 196434,
       "name": "Serenamente",
       "url": "https://open.spotify.com/track/5ZliWdrEfiHceXVGnGzlxA"
@@ -57460,7 +57482,7 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-24",
+      "date_removed": null,
       "duration_ms": 191076,
       "name": "Talk To You (ft. 54 Ultra)",
       "url": "https://open.spotify.com/track/0kl6Ozan3fuUdCl6TlB15v"
@@ -58918,7 +58940,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-25",
       "duration_ms": 137999,
       "name": "Too Late",
       "url": "https://open.spotify.com/track/1uT82ueY3VgRkN30shACCj"
@@ -61948,7 +61970,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-25",
       "duration_ms": 173536,
       "name": "Veliero di Carta",
       "url": "https://open.spotify.com/track/1tslB5YE0OqWUzBLrmz2uK"
@@ -63040,7 +63062,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-25",
       "duration_ms": 151247,
       "name": "Volare",
       "url": "https://open.spotify.com/track/2QKgQOxXoIGq711vdah54G"

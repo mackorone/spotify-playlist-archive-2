@@ -4,7 +4,7 @@
 
 > Aquelas pra começar o dia de alma leve
 
-323 songs - 18 hr 11 min
+324 songs - 18 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Coragem](https://open.spotify.com/track/1V3JPg2FrfvpJi7v27N9Jh) | [Leandro Léo](https://open.spotify.com/artist/4VdN6acIkpyHgNCeCCGIYh) | [Coragem](https://open.spotify.com/album/1nlkvskl6untUR98IWBiZP) | 3:18 | 2024-10-25 | 2024-11-02 |
 | [Coração Radiante](https://open.spotify.com/track/1TtDOwQNcxT3YJjXcHUo80) | [Mart'nália](https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX) | [Coração Radiante](https://open.spotify.com/album/4TDg5WJgrlQVTWKwT6bMEg) | 3:11 | 2024-10-25 |  |
 | [Corcovado](https://open.spotify.com/track/5y4OLeQ9cwyhFXQgdOQgSY) | [MAR ABERTO](https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO) | [Corcovado](https://open.spotify.com/album/5hhug6SmgmQh1NDueAwCgA) | 2:31 | 2022-02-18 | 2022-07-29 |
+| [Corpo Suado](https://open.spotify.com/track/60HKq194AJUnsiyogk99uL) | [Ryan Fidelis](https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm), [Nina](https://open.spotify.com/artist/7fA6EAOeE7G5HmvBgbwND5) | [Tons de Marrom](https://open.spotify.com/album/2Ws5rlczmp2G60lDPJyrsZ) | 3:13 | 2026-05-22 |  |
 | [Cortejo](https://open.spotify.com/track/4DDcCzpOGXzS3MKV4piwdu) | [Filipe Toca](https://open.spotify.com/artist/0jODqzGbGbc5yl0nfnGhVZ), [Clara Valverde](https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn) | [Cortejo](https://open.spotify.com/album/61yXu0dB7zgnJE613AJQCF) | 2:49 | 2023-12-01 | 2024-01-13 |
 | [Cruel](https://open.spotify.com/track/3xJygPEkeDUonwKS5rnn7j) | [Nina Fernandes](https://open.spotify.com/artist/3KrkRHLMHe2nzcpcvIJmDP) | [Cruel](https://open.spotify.com/album/4cdC6A0Dhofn5M0Qm1tr6H) | 3:40 | 2022-04-01 |  |
 | [Cuida](https://open.spotify.com/track/7GgHgbGXgb306cL2FkD0TD) | [Fernando Pivelli](https://open.spotify.com/artist/3H6J7EMkKAnFukJQwpk0j9), [Brolo Gonzalez](https://open.spotify.com/artist/2cvrwb2vQUWPlPy53354Bg) | [Cuida](https://open.spotify.com/album/6sBPgcZUeScOtbUBUN5ZgF) | 2:59 | 2022-02-18 | 2022-06-24 |
@@ -262,7 +263,7 @@
 | [Se Fosse Normal Ser Louco?](https://open.spotify.com/track/71gGD458tFryCohEK1iJy3) | [LoreB](https://open.spotify.com/artist/7MjaGpdVZenDgXEUF4CXSz), [Cris Braun](https://open.spotify.com/artist/2JgOpjAclT7MnRKsYekXuf), [Fernando Nunes](https://open.spotify.com/artist/3JkbXt88UMxAQouuL7QwI9) | [Cheio de Vazio](https://open.spotify.com/album/0WXeAvwodZTkZg1HpFVGr0) | 2:46 | 2022-04-01 | 2022-04-20 |
 | [Se Perder](https://open.spotify.com/track/4no2z9sJGD1O2iHCCDDgEC) | [OUTROEU](https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo), [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [Se Perder](https://open.spotify.com/album/4elS2JhpQVGLNOH2Xr0pkg) | 3:12 | 2022-02-18 | 2022-07-28 |
 | [Se Todos Fossem Iguais a Você](https://open.spotify.com/track/5KCyS9wZaKo5T6AnKMQ1uG) | [Nana Caymmi](https://open.spotify.com/artist/1hQT9TlJXMBP6Dy4lExSKn) | [Nana, Tom, Vinicius](https://open.spotify.com/album/73qo38bDY4G4RczOWQxDtI) | 2:58 | 2022-04-01 |  |
-| [Se Um Dia Chorei](https://open.spotify.com/track/5dpNzysolHR2xCJKj4VCWZ) | [Claudia Leitte](https://open.spotify.com/artist/2OjoIDVPQKT9B7loZbPEfp) | [Especiarias \- Ato I](https://open.spotify.com/album/5Rw3dZWSJklE8o8k6iVRnG) | 2:41 | 2025-10-03 |  |
+| [Se Um Dia Chorei](https://open.spotify.com/track/5dpNzysolHR2xCJKj4VCWZ) | [Claudia Leitte](https://open.spotify.com/artist/2OjoIDVPQKT9B7loZbPEfp) | [Especiarias \- Ato I](https://open.spotify.com/album/5Rw3dZWSJklE8o8k6iVRnG) | 2:41 | 2025-10-03 | 2026-05-25 |
 | [Segredos da Vida](https://open.spotify.com/track/3Z3H3L0BMPjnq8Ktsws8tm) | [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK) | [Segredos da Vida](https://open.spotify.com/album/4pProUWceVTYKHJEfvKs8u) | 2:22 | 2023-12-01 | 2024-01-13 |
 | [Sem Lei](https://open.spotify.com/track/6C8H63gGFeDqAYJ75uLPA6) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Coisas Naturais](https://open.spotify.com/album/2PRDU8Oeb9f0lpgSjbaJXE) | 2:53 | 2025-04-04 |  |
 | [Sem Tu \- Acoustic](https://open.spotify.com/track/1BL0EKvMbaLfKt6FtwtzbF) | [Sarita Lorena](https://open.spotify.com/artist/5V9JsrZb5RjuvbzvJsA5gp) | [Sem Tu](https://open.spotify.com/album/1Rf40QwzPmtbpSxkbd9Hhh) | 2:40 | 2022-04-01 | 2022-04-19 |

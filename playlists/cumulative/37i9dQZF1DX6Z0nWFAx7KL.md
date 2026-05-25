@@ -4,7 +4,7 @@
 
 > easy breezy music ☀️☺️
 
-374 songs - 18 hr 28 min
+375 songs - 18 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [Black & Blue](https://open.spotify.com/track/2NjqrHNV2jedO8CKw3ABgZ) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Black & Blue](https://open.spotify.com/album/5I0bMSjljTeXa0v1FzgivU) | 2:28 | 2022-09-15 | 2024-10-04 |
 | [Blindly \[Thom Merlin Remix\]](https://open.spotify.com/track/6l6viiPh9iUZbXuprWe0Dt) | [Dukewood](https://open.spotify.com/artist/0saU1gJBLlM25GZ4h0cC7b), [De Hofnar](https://open.spotify.com/artist/1LFGVkNRmXz8jIkyPjaGNL), [Kav Verhouzer](https://open.spotify.com/artist/1yYBD4cVxCxXQXi4QGZfSo), [Thom Merlin](https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC) | [Blindly \[Thom Merlin Remix\]](https://open.spotify.com/album/1xJv5nuu2wpxNZReOAuzuJ) | 3:02 | 2023-01-19 | 2023-03-18 |
 | [Blood & Bones](https://open.spotify.com/track/5Hxtysk3LR8P1psVZtikua) | [Twan Ray](https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr) | [Blood & Bones](https://open.spotify.com/album/0dHrUxujzudylcwsq6OZYW) | 3:12 | 2025-01-10 | 2026-03-22 |
-| [Bloom](https://open.spotify.com/track/1KO6Kk23aYLrkmaDIjA4jf) | [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B), [LAST CALL](https://open.spotify.com/artist/2LoibTtixf5tjTYORAxbtN), [Horxata](https://open.spotify.com/artist/3QkSqgd7THUtqWlJjL4iRn) | [Bloom](https://open.spotify.com/album/59T2jCjBGnIFlizQggbrSd) | 2:32 | 2024-09-19 |  |
+| [Bloom](https://open.spotify.com/track/1KO6Kk23aYLrkmaDIjA4jf) | [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B), [LAST CALL](https://open.spotify.com/artist/2LoibTtixf5tjTYORAxbtN), [Horxata](https://open.spotify.com/artist/3QkSqgd7THUtqWlJjL4iRn) | [Bloom](https://open.spotify.com/album/59T2jCjBGnIFlizQggbrSd) | 2:32 | 2024-09-19 | 2026-05-25 |
 | [Bloom \(nowifi Remix\)](https://open.spotify.com/track/4Hqznl1iOMNK4Yr2e4H0D4) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B), [nowifi](https://open.spotify.com/artist/5wxw2CQKTIOSkPFJbTYVzl) | [Bloom \(nowifi Remix\)](https://open.spotify.com/album/2TevphOQe7SmNqX7dVLYkk) | 2:01 | 2022-09-15 | 2024-08-31 |
 | [Body Language](https://open.spotify.com/track/5RS5whcXwDoZpwXk12zGPj) | [Safe Wave](https://open.spotify.com/artist/05odA2enUG7IgOm5SI9Oh6) | [Body Language](https://open.spotify.com/album/3vb3BBR8GER9qqqfEtPlIi) | 2:02 | 2024-11-14 | 2025-05-19 |
 | [Body on Fire](https://open.spotify.com/track/5Bl32FoKm0kTiMe6hcRNkV) | [SOMMA](https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3), [Dillistone](https://open.spotify.com/artist/7ypPN35cJ9wfF2Zs7aYS33) | [Body on Fire](https://open.spotify.com/album/3B90f5X9qYr2MFflbC8tRu) | 2:39 | 2022-09-15 | 2024-03-21 |
@@ -174,6 +174,7 @@
 | [Is It All](https://open.spotify.com/track/010l3mhzEoYzVy1XuOJSPK) | [PLVTO](https://open.spotify.com/artist/2bFnCC8oPXbNJJ6V8e32XH), [houselife](https://open.spotify.com/artist/2ZMVshOlD7ULhDmDjgOF3h) | [Is It All](https://open.spotify.com/album/3mS24Mj9B2t4VekyKjko2c) | 2:55 | 2023-05-18 | 2023-06-28 |
 | [Is It All](https://open.spotify.com/track/1x1x0iaQx8peMU7wYVxfXH) | [PLVTO](https://open.spotify.com/artist/2bFnCC8oPXbNJJ6V8e32XH), [houselife](https://open.spotify.com/artist/2ZMVshOlD7ULhDmDjgOF3h) | [Is It All](https://open.spotify.com/album/4fc5iBGvs6R2JP7JHZddS5) | 2:55 | 2023-05-18 | 2024-12-13 |
 | [It's Alright \- Original Mix](https://open.spotify.com/track/3ABPEz0ASeocrzXOHZix5D) | [Marc Brauner](https://open.spotify.com/artist/6HX3fbKCin6OPe6ZFZ8qsf) | [Radiant EP](https://open.spotify.com/album/43ZuCqtg7zu8dhpvZTJVf2) | 4:49 | 2025-11-06 |  |
+| [IYA \(In Your Arms\)](https://open.spotify.com/track/37lDsKatjqAxlTXb9ZGpFO) | [Bolier](https://open.spotify.com/artist/65NscqgsoMPqBtoLbkP3jD), [Solar State](https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu) | [IYA \(In Your Arms\)](https://open.spotify.com/album/0y35B7RSVegNOiOXy2MLVx) | 2:32 | 2026-05-21 |  |
 | [Jameela \- Bolier Remix](https://open.spotify.com/track/6fYlQCa2G8euJYgaIJa5ha) | [BLR](https://open.spotify.com/artist/6eZxwKfQWK4d5sLOlauR1Y), [Bolier](https://open.spotify.com/artist/65NscqgsoMPqBtoLbkP3jD) | [Jameela \(Bolier Remix\)](https://open.spotify.com/album/77fkSbSnSPtcStsBFoL1Kx) | 3:34 | 2024-07-26 | 2024-08-02 |
 | [Jazz Trumpet](https://open.spotify.com/track/07pOBQWh8PgFR5TC0KMgBq) | [SIQUE](https://open.spotify.com/artist/5kI4yBIQJPlI00krjJ98NB) | [Jazz Trumpet](https://open.spotify.com/album/5j5KW1mpcGUXsjWjm7Gszb) | 2:00 | 2024-06-20 | 2025-09-05 |
 | [Juno Love](https://open.spotify.com/track/7qC70bOUaH16OI6VXuiqGy) | [Nico Morano](https://open.spotify.com/artist/4tgKBxZIclHP0c2Tp8yyyz), [Mewhy](https://open.spotify.com/artist/2haudpnLQ5Kjt6fplURp31) | [Juno Love](https://open.spotify.com/album/2sTtx0M9ePDqz3wpDX7L38) | 7:26 | 2023-04-06 | 2024-02-08 |

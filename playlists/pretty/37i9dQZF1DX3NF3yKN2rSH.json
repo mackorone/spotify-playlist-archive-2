@@ -1,6 +1,6 @@
 {
   "description": "New and classic Gospel songs to celebrate the Easter season.",
-  "num_followers": 56176,
+  "num_followers": 56174,
   "original_name": "Easter Gospel",
   "owner": {
     "name": "Spotify",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2026-04-04 06:06:32",
       "album": {
-        "name": "Beginnings",
-        "url": "https://open.spotify.com/album/1dWfCCgAXOSfOcyHEXbJYR"
-      },
-      "artists": [
-        {
-          "name": "Richard Smallwood",
-          "url": "https://open.spotify.com/artist/4WIRlLxuzmZciQ8JS2b3jP"
-        }
-      ],
-      "duration_ms": 348773,
-      "name": "Calvary",
-      "url": "https://open.spotify.com/track/2kUwyQh2FseRy8UgboN9T0"
-    },
-    {
-      "added_at": "2026-04-04 06:06:32",
-      "album": {
         "name": "Family & Friends Choir III",
         "url": "https://open.spotify.com/album/2HqJpxkdEf5FRDJsxkkZrj"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 325666,
       "name": "He Proved His Love",
       "url": "https://open.spotify.com/track/4OMAO6F57zBkgyakZjscTl"
+    },
+    {
+      "added_at": "2026-04-04 06:06:32",
+      "album": {
+        "name": "Beginnings",
+        "url": "https://open.spotify.com/album/1dWfCCgAXOSfOcyHEXbJYR"
+      },
+      "artists": [
+        {
+          "name": "Richard Smallwood",
+          "url": "https://open.spotify.com/artist/4WIRlLxuzmZciQ8JS2b3jP"
+        }
+      ],
+      "duration_ms": 348773,
+      "name": "Calvary",
+      "url": "https://open.spotify.com/track/2kUwyQh2FseRy8UgboN9T0"
     },
     {
       "added_at": "2026-04-04 06:06:32",

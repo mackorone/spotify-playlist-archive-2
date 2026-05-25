@@ -1,12 +1,12 @@
 {
   "description": "This is Muddy Waters. The essential tracks, all in one playlist.",
-  "num_followers": 52306,
+  "num_followers": 52310,
   "original_name": "This Is Muddy Waters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ag+cgAAAAAAfyLQrPcoixif9fLVMmZIS",
+  "snapshot_id": "ahDuAAAAAAD595AQoT9qE6yKek1k1dmW",
   "tracks": [
     {
       "added_at": null,
@@ -59,8 +59,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "After The Rain",
-        "url": "https://open.spotify.com/album/0EPqCz0qUIjjdxU010PP2Q"
+        "name": "Muddy Waters Sings Big Bill Broonzy",
+        "url": "https://open.spotify.com/album/2ULAVn0TXR0ISBy9v8iCrU"
       },
       "artists": [
         {
@@ -68,9 +68,9 @@
           "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
         }
       ],
-      "duration_ms": 290026,
-      "name": "Rollin' And Tumblin'",
-      "url": "https://open.spotify.com/track/61jqhIAyuxQarayIki3Ko4"
+      "duration_ms": 174573,
+      "name": "I Feel So Good",
+      "url": "https://open.spotify.com/track/2pdRmHCY8d3u4oEVLWvws2"
     },
     {
       "added_at": null,
@@ -123,8 +123,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Muddy Waters Sings Big Bill Broonzy",
-        "url": "https://open.spotify.com/album/2ULAVn0TXR0ISBy9v8iCrU"
+        "name": "After The Rain",
+        "url": "https://open.spotify.com/album/0EPqCz0qUIjjdxU010PP2Q"
       },
       "artists": [
         {
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
         }
       ],
-      "duration_ms": 174573,
-      "name": "I Feel So Good",
-      "url": "https://open.spotify.com/track/2pdRmHCY8d3u4oEVLWvws2"
+      "duration_ms": 290026,
+      "name": "Rollin' And Tumblin'",
+      "url": "https://open.spotify.com/track/61jqhIAyuxQarayIki3Ko4"
     },
     {
       "added_at": null,
@@ -343,22 +343,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Chess Box",
-        "url": "https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 188160,
-      "name": "Rollin' Stone",
-      "url": "https://open.spotify.com/track/61K6lqGyrl2Aerk0LjAZem"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Burning Spider",
         "url": "https://open.spotify.com/album/3L2tN4l4TGO4SZTsdY7zwM"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 184520,
       "name": "Soul Fever Blues (feat. Muddy Waters)",
       "url": "https://open.spotify.com/track/5NMxSNy8w2Zv4RZ2A5kRid"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Chess Box",
+        "url": "https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 188160,
+      "name": "Rollin' Stone",
+      "url": "https://open.spotify.com/track/61K6lqGyrl2Aerk0LjAZem"
     },
     {
       "added_at": null,
@@ -415,22 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Chess Box",
-        "url": "https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 198626,
-      "name": "She's Nineteen Years Old",
-      "url": "https://open.spotify.com/track/30A9AnKtDJVZY1tzRauhSx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Super Super Blues Band",
         "url": "https://open.spotify.com/album/3hYDvg91x5TuC0G7m7Ubyc"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 445026,
       "name": "The Red Rooster",
       "url": "https://open.spotify.com/track/1qdLSzpYZBqJcSBKbSc4e6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Chess Box",
+        "url": "https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 198626,
+      "name": "She's Nineteen Years Old",
+      "url": "https://open.spotify.com/track/30A9AnKtDJVZY1tzRauhSx"
     },
     {
       "added_at": null,
@@ -595,8 +595,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Chess Box",
-        "url": "https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB"
+        "name": "Voodoo Blues",
+        "url": "https://open.spotify.com/album/5IbFDbi2vYfzmgrOaxaelo"
       },
       "artists": [
         {
@@ -604,9 +604,9 @@
           "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
         }
       ],
-      "duration_ms": 165106,
-      "name": "You Need Love",
-      "url": "https://open.spotify.com/track/7Ak1aR9cK5b4yKHdhIhNVq"
+      "duration_ms": 164560,
+      "name": "Spoonful'",
+      "url": "https://open.spotify.com/track/43usRpZqz4BqLrgKEpzaIQ"
     },
     {
       "added_at": null,
@@ -627,8 +627,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Voodoo Blues",
-        "url": "https://open.spotify.com/album/5IbFDbi2vYfzmgrOaxaelo"
+        "name": "The Chess Box",
+        "url": "https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB"
       },
       "artists": [
         {
@@ -636,9 +636,9 @@
           "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
         }
       ],
-      "duration_ms": 164560,
-      "name": "Spoonful'",
-      "url": "https://open.spotify.com/track/43usRpZqz4BqLrgKEpzaIQ"
+      "duration_ms": 165106,
+      "name": "You Need Love",
+      "url": "https://open.spotify.com/track/7Ak1aR9cK5b4yKHdhIhNVq"
     },
     {
       "added_at": null,
@@ -735,22 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Real Folk Blues",
-        "url": "https://open.spotify.com/album/0CFpUxbVKTYbqpEiaXAyZT"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 164293,
-      "name": "Walkin' Thru The Park",
-      "url": "https://open.spotify.com/track/4MWQ0HRkPlWq70BKxeY1S1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Muddy Waters: Live (At Mr. Kelly's) [Reissue]",
         "url": "https://open.spotify.com/album/4aOBXSIhfR0jqT0cLdHXqk"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 280293,
       "name": "What Is That She Got - Live At Mr. Kelly's/1971",
       "url": "https://open.spotify.com/track/6f42YOJ6Lc3s6osTbVQAZ5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Real Folk Blues",
+        "url": "https://open.spotify.com/album/0CFpUxbVKTYbqpEiaXAyZT"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 164293,
+      "name": "Walkin' Thru The Park",
+      "url": "https://open.spotify.com/track/4MWQ0HRkPlWq70BKxeY1S1"
     },
     {
       "added_at": null,
@@ -807,22 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Real Folk Blues",
-        "url": "https://open.spotify.com/album/0CFpUxbVKTYbqpEiaXAyZT"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 178600,
-      "name": "Walkin' Blues",
-      "url": "https://open.spotify.com/track/2xF0ubRru7TwLHdqFwH6Uo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Super Super Blues Band",
         "url": "https://open.spotify.com/album/3hYDvg91x5TuC0G7m7Ubyc"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 394173,
       "name": "Ooh, Baby / Wrecking My Love Life - Medley",
       "url": "https://open.spotify.com/track/0lp6c7BBYNlDVksKGQqy8X"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Real Folk Blues",
+        "url": "https://open.spotify.com/album/0CFpUxbVKTYbqpEiaXAyZT"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 178600,
+      "name": "Walkin' Blues",
+      "url": "https://open.spotify.com/track/2xF0ubRru7TwLHdqFwH6Uo"
     },
     {
       "added_at": null,
