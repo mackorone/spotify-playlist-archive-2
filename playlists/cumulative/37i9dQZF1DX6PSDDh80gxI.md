@@ -2,7 +2,7 @@
 
 ### [Indie Italia](https://open.spotify.com/playlist/37i9dQZF1DX6PSDDh80gxI)
 
-> Coez in cover di Indie Italia e noi tutti laureati 🎓
+> Chi era sotto palco sa ❤️‍🩹 cover: faccianuvola al MI AMI Festival \(credits: Ouael Ben Salah\)
 
 558 songs - 1 day 5 hr 55 min
 

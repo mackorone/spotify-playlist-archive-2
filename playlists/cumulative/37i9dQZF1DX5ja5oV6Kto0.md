@@ -4,7 +4,7 @@
 
 > The new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: Siraheem
 
-1,084 songs - 2 day 4 hr 21 min
+1,085 songs - 2 day 4 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -302,7 +302,7 @@
 | [Ei voi \(feat\. Luwa.Mp4\)](https://open.spotify.com/track/6xpZg3sfg49gNihQZGLsl1) | [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp), [Luwa.Mp4](https://open.spotify.com/artist/6CS6NjMmo93ligNiiZ97LZ) | [Ei voi \(feat\. Luwa.Mp4\)](https://open.spotify.com/album/2hdZSRF3c42AzLGRrCuvDG) | 3:10 | 2026-04-10 |  |
 | [El Chapo](https://open.spotify.com/track/22cpDkwxFPGpD0zu0bhoyZ) | [Reechdee](https://open.spotify.com/artist/3PaWKH51rpBK83eeFtTQki), [Ice Prince](https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn) | [El Chapo](https://open.spotify.com/album/4YaVtmZTvCrrPI9uNiJSmT) | 2:22 | 2024-01-05 | 2024-01-09 |
 | [Electric \(feat\. Wizkid & London\)](https://open.spotify.com/track/2g59YEtG3OZq3lp4eDj97p) | [StarBoy](https://open.spotify.com/artist/6w2IGYYbcQENdjdjU2IFo4), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [London](https://open.spotify.com/artist/48XO5sXDsZ0NgyVmGT5qxW) | [SoundMan Vol\. 1](https://open.spotify.com/album/5nhLODdncnkg3rVlzva3YY) | 2:58 | 2024-03-21 | 2024-03-25 |
-| [Emefa's Revenge](https://open.spotify.com/track/1BixnXufFnYkbhpToboElg) | [M3NSA](https://open.spotify.com/artist/5GQSDYH4c2IB7RBZD5Lb2s) | [Emefa's Revenge](https://open.spotify.com/album/4wEEWn3n3LkmmqamkKpzlR) | 3:31 | 2026-04-17 |  |
+| [Emefa's Revenge](https://open.spotify.com/track/1BixnXufFnYkbhpToboElg) | [M3NSA](https://open.spotify.com/artist/5GQSDYH4c2IB7RBZD5Lb2s) | [Emefa's Revenge](https://open.spotify.com/album/4wEEWn3n3LkmmqamkKpzlR) | 3:31 | 2026-04-17 | 2026-05-26 |
 | [End You](https://open.spotify.com/track/6H9j5IHCgn6JRYSsBdIiW9) | [Waye](https://open.spotify.com/artist/4xB0OZoxh4Kv0dbn4YDT4v) | [End You](https://open.spotify.com/album/4UxwablSV5mMR5M9f9NDK1) | 1:35 | 2024-05-10 | 2024-10-19 |
 | [Escapism \(feat\. Fave & Tay Iwar\)](https://open.spotify.com/track/0ixcA2mSYrHIu5RNgJ2vBB) | [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K), [FAVE](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Escapism \(feat\. Fave & Tay Iwar\)](https://open.spotify.com/album/1pXxUkUcfkvbCTeCRPRHVe) | 3:25 | 2023-11-10 | 2024-05-17 |
 | [Ethiopia](https://open.spotify.com/track/6lx4aUEcnR7sojpxEQu4mV) | [Alewya](https://open.spotify.com/artist/0wcjJjpvnHb5vK4iwKfxPm) | [Panther in Mode](https://open.spotify.com/album/23J7otrnhFa80hs2xCpKw1) | 3:05 | 2021-11-18 | 2022-01-14 |
@@ -847,6 +847,7 @@
 | [Selfish](https://open.spotify.com/track/47c3T4umi0phpbU6lrR9iY) | [AYLØ](https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd) | [Selfish](https://open.spotify.com/album/0NB2SFsGwFANKEOjGt56tc) | 2:42 | 2024-11-08 | 2025-08-27 |
 | [september rush](https://open.spotify.com/track/0aSkyAsDk2e2RG1R62kTjp) | [Baves O](https://open.spotify.com/artist/42tS8RFwfqTZFuyW0FrPIs), [M.anifest](https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX) | [september rush](https://open.spotify.com/album/7gdMifqpW7gUeSePcGlDWA) | 2:17 | 2026-02-27 |  |
 | [Serenade](https://open.spotify.com/track/0Hv7LgRPIYEJMpjQkGIWTi) | [Begho](https://open.spotify.com/artist/3TTy6LYKVib6oOmyEq0QZb), [Loti](https://open.spotify.com/artist/68vnTeEFYHwyYIviDda37B) | [Serenade](https://open.spotify.com/album/7AsdQ9pfh57nuYV6vZedF9) | 2:23 | 2021-07-02 | 2022-01-28 |
+| [Serial Kisser](https://open.spotify.com/track/6xpOCLTrc9IEuwPuFuGO6F) | [Rukmani](https://open.spotify.com/artist/4lz2CgyavcVw3XfnvID7FV), [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW) | [HIH & Serial Kisser](https://open.spotify.com/album/2L8m2nH21rqTK30vMUyGfA) | 3:01 | 2026-05-25 |  |
 | [Serpent](https://open.spotify.com/track/75sj0jvAGespYP7lcm4iQR) | [Ayüü](https://open.spotify.com/artist/3FsvslOG6CKAJF9TZ5N9f7) | [Toxic Sweet](https://open.spotify.com/album/6XZEdNXjaagyQVpbi5aioZ) | 1:42 | 2022-09-29 | 2023-01-07 |
 | [SEX APPEAL](https://open.spotify.com/track/3zP864oEbAOOJm168btZfG) | [MOJO AF](https://open.spotify.com/artist/2yqao6RwwtBnyKy9XA2p3J), [Ronehi](https://open.spotify.com/artist/41h99u87ioeyoCZh7XTshv) | [SEX APPEAL](https://open.spotify.com/album/1wqYr4iyCkkYPKzLMIoPMM) | 2:58 | 2023-05-11 | 2023-06-17 |
 | [Sex on the Beach](https://open.spotify.com/track/1Sf8Ze5NuNkqbO8QtkpFzd) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Sex on the Beach](https://open.spotify.com/album/3A7E83wdmhD0rW9vHknShB) | 2:51 | 2025-12-12 |  |

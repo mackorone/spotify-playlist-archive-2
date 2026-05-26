@@ -272,7 +272,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 207881,
       "name": "Age of Aquarius",
       "url": "https://open.spotify.com/track/240S4AH0AvoM75oZ7PDk2Y"
@@ -492,7 +492,7 @@
       ],
       "date_added": "2026-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 245266,
       "name": "America",
       "url": "https://open.spotify.com/track/1lF0cXPNLyNUmvcgS7kUwp"
@@ -564,7 +564,7 @@
       ],
       "date_added": "2026-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 261439,
       "name": "Another Day Is Gone",
       "url": "https://open.spotify.com/track/0HS4fqcRazWuujB0aTdwiD"
@@ -1778,7 +1778,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 218304,
       "name": "Crushwhore",
       "url": "https://open.spotify.com/track/3g9dkoiaCGaaAAX8WS88c5"
@@ -2372,7 +2372,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 237818,
       "name": "Dying to be Seen",
       "url": "https://open.spotify.com/track/4PCb7XTmOpoh4Gxda9tuvN"
@@ -2408,7 +2408,7 @@
       ],
       "date_added": "2026-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 202339,
       "name": "Echo",
       "url": "https://open.spotify.com/track/3uWbd2PbEScUsakim9ChzO"
@@ -2894,7 +2894,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 219272,
       "name": "Full Sway",
       "url": "https://open.spotify.com/track/3Rki4S4PaAnrsceZ58IIE0"
@@ -3020,7 +3020,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 196082,
       "name": "Ghost Inside",
       "url": "https://open.spotify.com/track/4SHiHRp5IWJJdwwZdSv0RV"
@@ -3344,7 +3344,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 217429,
       "name": "Haunted",
       "url": "https://open.spotify.com/track/7zoHmY3t1BKRyRADFjiK3P"
@@ -4226,7 +4226,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 180000,
       "name": "Lifeless",
       "url": "https://open.spotify.com/track/39zRV9wo9QfVPAGOJhW5aI"
@@ -4305,6 +4305,24 @@
     },
     {
       "album": {
+        "name": "Breaking Crests",
+        "url": "https://open.spotify.com/album/2dLSlsENTZgScQ0gyNwmcN"
+      },
+      "artists": [
+        {
+          "name": "KXENIA",
+          "url": "https://open.spotify.com/artist/4xGnce5EXkdJNeOxaZeYTL"
+        }
+      ],
+      "date_added": "2026-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176208,
+      "name": "LIGHTHOUSE",
+      "url": "https://open.spotify.com/track/3grAFJ4WFMWqUxEAzmhbjE"
+    },
+    {
+      "album": {
         "name": "Line Them Up",
         "url": "https://open.spotify.com/album/7xXnNyCNRY0vortmzd7shM"
       },
@@ -4316,7 +4334,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 167205,
       "name": "Line Them Up",
       "url": "https://open.spotify.com/track/1qpnSa87IPUX0u5xl0JIMx"
@@ -4388,7 +4406,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 279579,
       "name": "Lonely Spaceman",
       "url": "https://open.spotify.com/track/2zqjUfdbnpfFCzwMmIYjbD"
@@ -4478,7 +4496,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 212719,
       "name": "Lost On Queen Street",
       "url": "https://open.spotify.com/track/6qD5nfAKKmTjs5IoUaHJS3"
@@ -4886,7 +4904,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 174374,
       "name": "My Own Bunker",
       "url": "https://open.spotify.com/track/2rLebuakIprXtEJYanD9mP"
@@ -5156,7 +5174,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 145000,
       "name": "NORMIE FUCK",
       "url": "https://open.spotify.com/track/5HJyslBPhejHh1p2VlPWuC"
@@ -5506,7 +5524,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 201751,
       "name": "Patroklos",
       "url": "https://open.spotify.com/track/60rTJmGVhv7t5czioq3Tgc"
@@ -5560,7 +5578,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 199569,
       "name": "Perspectives",
       "url": "https://open.spotify.com/track/4E5vUYWAQPmRHDbVZriqt1"
@@ -6284,7 +6302,7 @@
       ],
       "date_added": "2026-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 208190,
       "name": "Set Your Life On Fire",
       "url": "https://open.spotify.com/track/5Nx6BHTGLSITqrERad64nk"
@@ -6410,7 +6428,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 191946,
       "name": "SHARPEN",
       "url": "https://open.spotify.com/track/2Dfv6jg3y2YChiyeGXTOby"
@@ -6554,7 +6572,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 168888,
       "name": "sidewalk",
       "url": "https://open.spotify.com/track/4FnSCqwqISEZxG1WUBPxuS"
@@ -6914,7 +6932,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 145157,
       "name": "Stay Back",
       "url": "https://open.spotify.com/track/02wm1989sxHOnZJK9IY0EU"
@@ -8052,7 +8070,7 @@
       ],
       "date_added": "2026-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 204271,
       "name": "Tommy and Gina",
       "url": "https://open.spotify.com/track/1z9H58eKt42OUphDl0lcCV"
@@ -8196,7 +8214,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 144243,
       "name": "Uncrumpled",
       "url": "https://open.spotify.com/track/5Pv86y8cdyKj1VbKVrrJK9"
@@ -8762,7 +8780,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 215098,
       "name": "With You",
       "url": "https://open.spotify.com/track/7LLHGsm4xICcdq84TIYvF4"
@@ -9036,7 +9054,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 197284,
       "name": "\u00c4ngste",
       "url": "https://open.spotify.com/track/5uWyW8ndF4m6Q56T3RhUke"

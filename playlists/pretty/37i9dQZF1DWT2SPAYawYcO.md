@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > Brand new music from: Olivia Rodrigo, Lola Young, Ecca Vandal, Kylie Minogue, Charli xcx, Stormzy, ODEAL, KETTAMA + more
 
-[Spotify](https://open.spotify.com/user/spotify) - 452,895 likes - 104 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 452,888 likes - 104 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

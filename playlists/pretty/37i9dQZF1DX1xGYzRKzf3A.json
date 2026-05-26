@@ -1,6 +1,6 @@
 {
   "description": "Tierra linda que siempre sue\u00f1o, y que muy dentro llevo. Ciudad de Monterrey \u2665\ufe0f",
-  "num_followers": 171477,
+  "num_followers": 171491,
   "original_name": "Coraz\u00f3n Regio ",
   "owner": {
     "name": "Spotify",
@@ -695,22 +695,6 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
-        "name": "Carmes\u00ed",
-        "url": "https://open.spotify.com/album/5RmsoBvb9J2pFUJpLOG1eN"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Madero",
-          "url": "https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw"
-        }
-      ],
-      "duration_ms": 210186,
-      "name": "Plural Siendo Singular",
-      "url": "https://open.spotify.com/track/13vs8iIpPs7E625qGqgpUm"
-    },
-    {
-      "added_at": "2025-11-09 06:50:57",
-      "album": {
         "name": "La Macarena con Lara Campos, HK3 y Saritah Beb\u00e9",
         "url": "https://open.spotify.com/album/4aCLzmiviceQxBujmGd29s"
       },
@@ -739,22 +723,18 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
-        "name": "Canciones Mamalonas",
-        "url": "https://open.spotify.com/album/6OIteXjnMqe4RQT6QfWE3x"
+        "name": "Carmes\u00ed",
+        "url": "https://open.spotify.com/album/5RmsoBvb9J2pFUJpLOG1eN"
       },
       "artists": [
         {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        },
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+          "name": "Jos\u00e9 Madero",
+          "url": "https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw"
         }
       ],
-      "duration_ms": 193421,
-      "name": "Desde Cero (feat. Santa Fe Klan)",
-      "url": "https://open.spotify.com/track/4sPJjs8vUK0tt9mIrpq6Ye"
+      "duration_ms": 210186,
+      "name": "Plural Siendo Singular",
+      "url": "https://open.spotify.com/track/13vs8iIpPs7E625qGqgpUm"
     },
     {
       "added_at": "2025-11-09 06:50:57",
@@ -775,6 +755,26 @@
       "duration_ms": 223912,
       "name": "El Empresario",
       "url": "https://open.spotify.com/track/2HXqNMrEBpxfDHVlz9CEgC"
+    },
+    {
+      "added_at": "2025-11-09 06:50:57",
+      "album": {
+        "name": "Canciones Mamalonas",
+        "url": "https://open.spotify.com/album/6OIteXjnMqe4RQT6QfWE3x"
+      },
+      "artists": [
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "duration_ms": 193421,
+      "name": "Desde Cero (feat. Santa Fe Klan)",
+      "url": "https://open.spotify.com/track/4sPJjs8vUK0tt9mIrpq6Ye"
     },
     {
       "added_at": "2025-11-09 06:50:57",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
+        "name": "Adiamantado",
+        "url": "https://open.spotify.com/album/0x1egjkD9PUoH2w5nKyIp6"
+      },
+      "artists": [
+        {
+          "name": "Sahir Montoya",
+          "url": "https://open.spotify.com/artist/7x5TwK8zGLmVk8k8zIEIrX"
+        }
+      ],
+      "duration_ms": 171971,
+      "name": "Mustangson",
+      "url": "https://open.spotify.com/track/20Btm1q3Si7jvfAWNzDYLd"
+    },
+    {
+      "added_at": "2025-11-09 06:50:57",
+      "album": {
         "name": "Marybel (Remix)",
         "url": "https://open.spotify.com/album/17cVR6PmWZBTbiIV3NH3yU"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 160367,
       "name": "Deb\u00ed Suponerlo - Versi\u00f3n Mariachi",
       "url": "https://open.spotify.com/track/6NyJ0XuEuryK0kpxgv0flT"
-    },
-    {
-      "added_at": "2025-11-09 06:50:57",
-      "album": {
-        "name": "Adiamantado",
-        "url": "https://open.spotify.com/album/0x1egjkD9PUoH2w5nKyIp6"
-      },
-      "artists": [
-        {
-          "name": "Sahir Montoya",
-          "url": "https://open.spotify.com/artist/7x5TwK8zGLmVk8k8zIEIrX"
-        }
-      ],
-      "duration_ms": 171971,
-      "name": "Mustangson",
-      "url": "https://open.spotify.com/track/20Btm1q3Si7jvfAWNzDYLd"
     },
     {
       "added_at": "2025-11-09 06:50:57",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
-        "name": "Paso A Paso",
-        "url": "https://open.spotify.com/album/1Z4GW8yaeLCATggV1IE9FZ"
-      },
-      "artists": [
-        {
-          "name": "Pasabordo",
-          "url": "https://open.spotify.com/artist/6tYuW96NhiYI3sAxEDsqK4"
-        }
-      ],
-      "duration_ms": 190453,
-      "name": "Quisiera",
-      "url": "https://open.spotify.com/track/56FmkP3sycSEX5ZvrPN1hR"
-    },
-    {
-      "added_at": "2025-11-09 06:50:57",
-      "album": {
         "name": "Heaven",
         "url": "https://open.spotify.com/album/1TrdljUtzilxGZqXKXjRxh"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 217619,
       "name": "Endless",
       "url": "https://open.spotify.com/track/0AKsM62IUY8IaOqGtB0u8n"
+    },
+    {
+      "added_at": "2025-11-09 06:50:57",
+      "album": {
+        "name": "Paso A Paso",
+        "url": "https://open.spotify.com/album/1Z4GW8yaeLCATggV1IE9FZ"
+      },
+      "artists": [
+        {
+          "name": "Pasabordo",
+          "url": "https://open.spotify.com/artist/6tYuW96NhiYI3sAxEDsqK4"
+        }
+      ],
+      "duration_ms": 190453,
+      "name": "Quisiera",
+      "url": "https://open.spotify.com/track/56FmkP3sycSEX5ZvrPN1hR"
     },
     {
       "added_at": "2025-11-09 06:50:57",
@@ -1479,26 +1479,6 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
-        "name": "Epicentro Live (Desde Monterrey, M\u00e9xico)",
-        "url": "https://open.spotify.com/album/4Y3TnnR2RL0CvLayGIqqbw"
-      },
-      "artists": [
-        {
-          "name": "V\u00e1stago Epicentro",
-          "url": "https://open.spotify.com/artist/2QsFnVJDNGsrjUWB4q6GVT"
-        },
-        {
-          "name": "Melissa Romero",
-          "url": "https://open.spotify.com/artist/4SdbDEZNjyPme83PlLVilY"
-        }
-      ],
-      "duration_ms": 278720,
-      "name": "Quiero Volver - Live",
-      "url": "https://open.spotify.com/track/0kqd5SeMisUXEHxwHVNXVZ"
-    },
-    {
-      "added_at": "2025-11-09 06:50:57",
-      "album": {
         "name": "Lento y Bajate",
         "url": "https://open.spotify.com/album/1IUbPwspn9MznXqU4AgaNI"
       },
@@ -1519,6 +1499,26 @@
       "duration_ms": 150000,
       "name": "Lento y Bajate",
       "url": "https://open.spotify.com/track/1tlKM10MeYT1WbxbV5hx2j"
+    },
+    {
+      "added_at": "2025-11-09 06:50:57",
+      "album": {
+        "name": "Epicentro Live (Desde Monterrey, M\u00e9xico)",
+        "url": "https://open.spotify.com/album/4Y3TnnR2RL0CvLayGIqqbw"
+      },
+      "artists": [
+        {
+          "name": "V\u00e1stago Epicentro",
+          "url": "https://open.spotify.com/artist/2QsFnVJDNGsrjUWB4q6GVT"
+        },
+        {
+          "name": "Melissa Romero",
+          "url": "https://open.spotify.com/artist/4SdbDEZNjyPme83PlLVilY"
+        }
+      ],
+      "duration_ms": 278720,
+      "name": "Quiero Volver - Live",
+      "url": "https://open.spotify.com/track/0kqd5SeMisUXEHxwHVNXVZ"
     },
     {
       "added_at": "2025-11-09 06:50:57",
@@ -1907,22 +1907,18 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
-        "name": "Busc\u00e1ndome",
-        "url": "https://open.spotify.com/album/7pHZZSTcBjvvDlSQbgQQit"
+        "name": "Bien Te Va",
+        "url": "https://open.spotify.com/album/5HmP591qMqeCO3nGINsOFx"
       },
       "artists": [
         {
-          "name": "Pato Shoucair",
-          "url": "https://open.spotify.com/artist/5PBJkBd4ipAxK7D36jkJNC"
-        },
-        {
-          "name": "xHEIDIx",
-          "url": "https://open.spotify.com/artist/5cZ3ADw8t6lZQSyBXmFe4j"
+          "name": "Nyquest",
+          "url": "https://open.spotify.com/artist/001KkBGwhLqBrFXyhsnxsH"
         }
       ],
-      "duration_ms": 256086,
-      "name": "Busc\u00e1ndome",
-      "url": "https://open.spotify.com/track/3TT6iiwXxxo1RaERWyeeqK"
+      "duration_ms": 134760,
+      "name": "Bien Te Va",
+      "url": "https://open.spotify.com/track/0nBLZAAWxLXCt15rncjtoE"
     },
     {
       "added_at": "2025-11-09 06:50:57",
@@ -1947,34 +1943,22 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
-        "name": "Pr\u00e9stame Tu Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/193sAyinQJCfAe9rWjUH36"
+        "name": "Busc\u00e1ndome",
+        "url": "https://open.spotify.com/album/7pHZZSTcBjvvDlSQbgQQit"
       },
       "artists": [
         {
-          "name": "Efecto Elegante",
-          "url": "https://open.spotify.com/artist/0NHX4tbvyRotP1QBhjTHX3"
-        }
-      ],
-      "duration_ms": 182073,
-      "name": "Pr\u00e9stame Tu Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/1bnSKjuPEd8FPACxqA5Mos"
-    },
-    {
-      "added_at": "2025-11-09 06:50:57",
-      "album": {
-        "name": "Bien Te Va",
-        "url": "https://open.spotify.com/album/5HmP591qMqeCO3nGINsOFx"
-      },
-      "artists": [
+          "name": "Pato Shoucair",
+          "url": "https://open.spotify.com/artist/5PBJkBd4ipAxK7D36jkJNC"
+        },
         {
-          "name": "Nyquest",
-          "url": "https://open.spotify.com/artist/001KkBGwhLqBrFXyhsnxsH"
+          "name": "xHEIDIx",
+          "url": "https://open.spotify.com/artist/5cZ3ADw8t6lZQSyBXmFe4j"
         }
       ],
-      "duration_ms": 134760,
-      "name": "Bien Te Va",
-      "url": "https://open.spotify.com/track/0nBLZAAWxLXCt15rncjtoE"
+      "duration_ms": 256086,
+      "name": "Busc\u00e1ndome",
+      "url": "https://open.spotify.com/track/3TT6iiwXxxo1RaERWyeeqK"
     },
     {
       "added_at": "2025-11-09 06:50:57",
@@ -2031,6 +2015,22 @@
       "duration_ms": 237333,
       "name": "Gitana (feat. Jeis, Pao Alvarado & Charly Romero)",
       "url": "https://open.spotify.com/track/36sCyXGpgGVkiPaTObxvVT"
+    },
+    {
+      "added_at": "2025-11-09 06:50:57",
+      "album": {
+        "name": "Pr\u00e9stame Tu Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/193sAyinQJCfAe9rWjUH36"
+      },
+      "artists": [
+        {
+          "name": "Efecto Elegante",
+          "url": "https://open.spotify.com/artist/0NHX4tbvyRotP1QBhjTHX3"
+        }
+      ],
+      "duration_ms": 182073,
+      "name": "Pr\u00e9stame Tu Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/1bnSKjuPEd8FPACxqA5Mos"
     },
     {
       "added_at": "2025-11-09 06:50:57",
@@ -2347,6 +2347,22 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
+        "name": "Que Lloro (En Vivo)",
+        "url": "https://open.spotify.com/album/6RKtNmEOsNbukmtmPeHdz0"
+      },
+      "artists": [
+        {
+          "name": "Juan Moya Y Los Del Valle",
+          "url": "https://open.spotify.com/artist/6FmKCCqWSQAhxF0bkObz4b"
+        }
+      ],
+      "duration_ms": 254537,
+      "name": "Que Lloro - En Vivo",
+      "url": "https://open.spotify.com/track/3xgbyHmM087foQxOfJQuI4"
+    },
+    {
+      "added_at": "2025-11-09 06:50:57",
+      "album": {
         "name": "Lote",
         "url": "https://open.spotify.com/album/6A43lhFwLJobtSkNHfiSei"
       },
@@ -2363,22 +2379,6 @@
       "duration_ms": 142000,
       "name": "Maquilar",
       "url": "https://open.spotify.com/track/7M1rwbtZ1CAofElsRcqzxW"
-    },
-    {
-      "added_at": "2025-11-09 06:50:57",
-      "album": {
-        "name": "Que Lloro (En Vivo)",
-        "url": "https://open.spotify.com/album/6RKtNmEOsNbukmtmPeHdz0"
-      },
-      "artists": [
-        {
-          "name": "Juan Moya Y Los Del Valle",
-          "url": "https://open.spotify.com/artist/6FmKCCqWSQAhxF0bkObz4b"
-        }
-      ],
-      "duration_ms": 254537,
-      "name": "Que Lloro - En Vivo",
-      "url": "https://open.spotify.com/track/3xgbyHmM087foQxOfJQuI4"
     },
     {
       "added_at": "2025-11-09 06:50:57",
@@ -2407,22 +2407,6 @@
       "duration_ms": 150591,
       "name": "A Gozar",
       "url": "https://open.spotify.com/track/2i7sKsVOXtrhBdQGMWNTcp"
-    },
-    {
-      "added_at": "2025-11-09 06:50:57",
-      "album": {
-        "name": "Prom",
-        "url": "https://open.spotify.com/album/3C9JUf1lop0U0NlwxSEJjX"
-      },
-      "artists": [
-        {
-          "name": "Los Caliz",
-          "url": "https://open.spotify.com/artist/4S7g1b3zVElT70kZGKkXiz"
-        }
-      ],
-      "duration_ms": 142500,
-      "name": "Prom",
-      "url": "https://open.spotify.com/track/0fcSrSjsn3davHBci18iT0"
     },
     {
       "added_at": "2025-11-09 06:50:57",
@@ -2467,6 +2451,22 @@
       "duration_ms": 203624,
       "name": "AM\u00c1NDOTE",
       "url": "https://open.spotify.com/track/7EVthSAJmY0wjQPJourU0N"
+    },
+    {
+      "added_at": "2025-11-09 06:50:57",
+      "album": {
+        "name": "Prom",
+        "url": "https://open.spotify.com/album/3C9JUf1lop0U0NlwxSEJjX"
+      },
+      "artists": [
+        {
+          "name": "Los Caliz",
+          "url": "https://open.spotify.com/artist/4S7g1b3zVElT70kZGKkXiz"
+        }
+      ],
+      "duration_ms": 142500,
+      "name": "Prom",
+      "url": "https://open.spotify.com/track/0fcSrSjsn3davHBci18iT0"
     }
   ],
   "unique_name": "Coraz\u00f3n Regio ",

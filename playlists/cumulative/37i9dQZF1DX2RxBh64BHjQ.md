@@ -4,7 +4,7 @@
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:0SL3lfuoRP67mrvkdnwIMA">slayr</a>
 
-2,870 songs - 5 day 6 hr 14 min
+2,871 songs - 5 day 6 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1434,6 +1434,7 @@
 | [Lifted](https://open.spotify.com/track/0zMzOp7GY9yBrTFB8ZKtpK) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI) | [PICASSO: SLUFFIN SZN X SLUT SZN](https://open.spotify.com/album/5XKf4jhGXPuxuUcv32bxe8) | 3:50 | 2024-12-27 | 2025-01-25 |
 | [Light Breeze](https://open.spotify.com/track/3NWOO9SW0Irf9aUUC3om4i) | [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly) | [Light Breeze](https://open.spotify.com/album/0N1u2tCscAuCsNYia6HAM4) | 2:38 | 2022-07-22 | 2022-08-20 |
 | [Lights](https://open.spotify.com/track/1FXvRJJIgwFaxGBGmDpCVh) | [Seddy Hendrinx](https://open.spotify.com/artist/4TYOMrAFzxu8wO0yLIpOm4) | [Lights](https://open.spotify.com/album/1a8oQ1RHBGXlwepKtMjAfg) | 3:49 | 2022-06-10 | 2022-09-03 |
+| [Like A Virgin](https://open.spotify.com/track/3zSLxRr6oagNkmKINPW3uu) | [fakemink](https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi) | [Terrified .](https://open.spotify.com/album/1Uwd64LlYKeBEVpZ4civSQ) | 2:34 | 2026-05-25 |  |
 | [like bow](https://open.spotify.com/track/49jpdovhmgQGrBUjQqLwLy) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p) | [nights and weekends](https://open.spotify.com/album/39jNh5MndiuFTNjDjuWnDQ) | 1:56 | 2024-03-22 | 2024-07-13 |
 | [Like Dat](https://open.spotify.com/track/6k0uXMxdOgkz4w3fCKB2iX) | [Fenix Flexin](https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb), [Cypress Moreno](https://open.spotify.com/artist/4jE7aARJBLLaGyKNhEm6jk) | [Like Dat](https://open.spotify.com/album/12HPKBvQUIpg0c3BfQaeCs) | 2:34 | 2022-12-09 | 2023-02-25 |
 | [Like Dat](https://open.spotify.com/track/0Jpy3D9eHScoriQ8VJaJN8) | [Stunna Girl](https://open.spotify.com/artist/4eEkR7IDAXyGngHvnJZpdV) | [Like Dat](https://open.spotify.com/album/3vUjwG73H1QBNs3W3HuyNn) | 2:45 | 2023-06-09 | 2023-07-22 |
@@ -1713,7 +1714,7 @@
 | [NEXT BESTFRIEND](https://open.spotify.com/track/1EoVqDBqErndK4zxCCJG9E) | [Kee Nola](https://open.spotify.com/artist/4v5hbcPtrVfLlI011eQrER) | [PARTYLAND](https://open.spotify.com/album/1Fj0KeuWt1GTTMDm6ZtmBY) | 2:33 | 2025-04-18 | 2025-04-26 |
 | [Nice Guy](https://open.spotify.com/track/3zVBnFMVe9XMOLigMPjpsv) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA) | [Nice Guy](https://open.spotify.com/album/1qGq80zAWFFmOTXQ7Iqvh8) | 2:53 | 2022-10-21 | 2022-12-17 |
 | [Nicky Nine Door](https://open.spotify.com/track/0UMmJaSuRVNYlUv47XTZt8) | [Smiley](https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR) | [Nicky Nine Door](https://open.spotify.com/album/4xdOcLPursBFxoEArmUPPa) | 2:08 | 2023-04-07 | 2023-05-06 |
-| [Night , Blooming Jasmine .](https://open.spotify.com/track/4WKUmjoUeYkzyoEvTbiVdW) | [fakemink](https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi) | [Night , Blooming Jasmine .](https://open.spotify.com/album/5bajUbQGZ7f98jo1gfX0hc) | 2:58 | 2026-05-22 |  |
+| [Night , Blooming Jasmine .](https://open.spotify.com/track/4WKUmjoUeYkzyoEvTbiVdW) | [fakemink](https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi) | [Night , Blooming Jasmine .](https://open.spotify.com/album/5bajUbQGZ7f98jo1gfX0hc) | 2:58 | 2026-05-22 | 2026-05-26 |
 | [Nightmare On Yo Street](https://open.spotify.com/track/1kN8soMYCBGxmCpim1oiMm) | [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [Nightmare On Yo Street](https://open.spotify.com/album/6jheLAaTRwGlPuBegNNyqw) | 2:36 | 2024-11-01 | 2024-11-09 |
 | [Nino](https://open.spotify.com/track/3vkQqaIM82rW6ovsT2Paeg) | [BigWalkDog](https://open.spotify.com/artist/5RivQkx7CAT7TSVFJKvbDz) | [Nino](https://open.spotify.com/album/12iv9VXqpbk8zTormKRAno) | 2:29 | 2022-04-08 | 2022-06-11 |
 | [NISSAN ALTIMA](https://open.spotify.com/track/2dKkVF2m160z0RNDN2dddc) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Alligator Bites Never Heal](https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc) | 2:06 | 2024-09-06 | 2025-01-07 |

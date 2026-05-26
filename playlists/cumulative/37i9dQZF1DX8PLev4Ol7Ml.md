@@ -2,7 +2,7 @@
 
 ### [アイドルポップ：ジャパン](https://open.spotify.com/playlist/37i9dQZF1DX8PLev4Ol7Ml)
 
-> 日本独自のポップカルチャー=アイドル。"楽曲推し"でお届けします。Cover: 高嶺のなでしこ
+> 日本独自のポップカルチャー=アイドル。"楽曲推し"でお届けします。Cover: 櫻坂46
 
 617 songs - 1 day 14 hr 37 min
 

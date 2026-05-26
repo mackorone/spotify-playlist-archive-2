@@ -64,7 +64,7 @@
 | [Ubiquitous](https://open.spotify.com/track/6AA44gTSmQ6S2aMUsjd3ZG) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn) | [Holotropica](https://open.spotify.com/album/2W4n1zPDKzqGpbMKU21mBu) | 3:49 | 2026-03-19 |  |
 | [Vidsyn](https://open.spotify.com/track/3WTuJZxHjTFUeyHywToGVB) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn) | [Hidden Terraces](https://open.spotify.com/album/2POudgO00jsxmmUAwJhh7c) | 18:22 | 2026-05-02 | 2026-05-08 |
 | [Whisper Fold Brush, Pt\. One](https://open.spotify.com/track/2onDSsrIdCaAm9p5ji0bbk) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn) | [Whisper Fold Brush](https://open.spotify.com/album/1VRGRbyHmvPuuelNSIj8m7) | 19:50 | 2026-03-19 |  |
-| [Whisper Fold Brush, Pt\. Two](https://open.spotify.com/track/5fObGDdLnL4AmGJb1OxEEF) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn) | [Whisper Fold Brush](https://open.spotify.com/album/1VRGRbyHmvPuuelNSIj8m7) | 18:27 | 2026-04-30 |  |
+| [Whisper Fold Brush, Pt\. Two](https://open.spotify.com/track/5fObGDdLnL4AmGJb1OxEEF) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn) | [Whisper Fold Brush](https://open.spotify.com/album/1VRGRbyHmvPuuelNSIj8m7) | 18:27 | 2026-04-30 | 2026-05-26 |
 | [You Make Me Care More](https://open.spotify.com/track/5lMn3bwb5eE3Dn1xRmfjjA) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn), [Johan Carøe](https://open.spotify.com/artist/3l6IHjr0ouXmcLF1eY1Kxw) | [Calibrating Senses](https://open.spotify.com/album/4bkwSPS4JuOPwU9eoCpb7Z) | 1:29 | 2026-03-19 |  |
 
 \*This playlist was first scraped on 2026-03-19. Prior content cannot be recovered.

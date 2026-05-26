@@ -1,6 +1,6 @@
 {
   "description": "When the dancefloor calls your name, that's amore.",
-  "num_followers": 402955,
+  "num_followers": 403227,
   "original_name": "Italo Disco",
   "owner": {
     "name": "Spotify",
@@ -791,6 +791,22 @@
     {
       "added_at": "2026-05-21 22:02:57",
       "album": {
+        "name": "The Division",
+        "url": "https://open.spotify.com/album/5F0AZDt29jRBR1PktMX5PV"
+      },
+      "artists": [
+        {
+          "name": "Krystal Klear",
+          "url": "https://open.spotify.com/artist/0jqr8aeeHSn5pMEVD4aTrI"
+        }
+      ],
+      "duration_ms": 396435,
+      "name": "Neutron Dance",
+      "url": "https://open.spotify.com/track/2dxiLe0Pq6pG058eYMbrn7"
+    },
+    {
+      "added_at": "2026-05-21 22:02:57",
+      "album": {
         "name": "Magico\u2026 di notte (Pekka Remix)",
         "url": "https://open.spotify.com/album/33prMFWRolx0tl0Wqi6hw4"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 183515,
       "name": "Magico\u2026 di notte - Pekka Remix",
       "url": "https://open.spotify.com/track/6J4aJyqlNCaWUrbxphFEGs"
-    },
-    {
-      "added_at": "2026-05-21 22:02:57",
-      "album": {
-        "name": "The Division",
-        "url": "https://open.spotify.com/album/5F0AZDt29jRBR1PktMX5PV"
-      },
-      "artists": [
-        {
-          "name": "Krystal Klear",
-          "url": "https://open.spotify.com/artist/0jqr8aeeHSn5pMEVD4aTrI"
-        }
-      ],
-      "duration_ms": 396435,
-      "name": "Neutron Dance",
-      "url": "https://open.spotify.com/track/2dxiLe0Pq6pG058eYMbrn7"
     },
     {
       "added_at": "2026-05-21 22:02:57",
@@ -1287,18 +1287,18 @@
     {
       "added_at": "2026-05-21 22:02:57",
       "album": {
-        "name": "Dancefleur Dream (Dance Rituals)",
-        "url": "https://open.spotify.com/album/4Wppqf7QALWWe22dRrhSS4"
+        "name": "Caf\u00e8",
+        "url": "https://open.spotify.com/album/1vv5SsVv82uIMDMme0ow28"
       },
       "artists": [
         {
-          "name": "Pellegrino",
-          "url": "https://open.spotify.com/artist/7vCQ7NQVgCumcAWj8aaVow"
+          "name": "Dd Sound",
+          "url": "https://open.spotify.com/artist/7q9FUGUCmVh5kVfXJyCADD"
         }
       ],
-      "duration_ms": 196190,
-      "name": "Dancefleur Dream - Dance Rituals",
-      "url": "https://open.spotify.com/track/7xnnj73WCoRnWUveOWrS9f"
+      "duration_ms": 393773,
+      "name": "Caf\u00e8 - Original 1979 Version",
+      "url": "https://open.spotify.com/track/6bKOUB4zXxYFhG4a3x6JGZ"
     },
     {
       "added_at": "2026-05-21 22:02:57",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKxc7ZObqeH.md) - [plain]
 
 > Relaxing jazz for warm summer days.
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,069 likes - 45 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,106 likes - 44 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,24 +34,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKxc7ZObqeH.md) - [plain]
 | 24 | [My Ideal](https://open.spotify.com/track/7auDnLAZDuygfAcDyaRwIN) | [Jacob Baron](https://open.spotify.com/artist/1b247H1F1igDlEYanjyJD2) | [My Ideal](https://open.spotify.com/album/1UPIz7n0yAGGuMaonT6Vho) | 3:20 |
 | 25 | [Fading Skies](https://open.spotify.com/track/1dyjTzH2OBunqoXYhDPRUn) | [Eric Rowland](https://open.spotify.com/artist/5FIDlggUrA2hkb9B1MGdK0) | [Fading Skies](https://open.spotify.com/album/10t4J4mFT0ChaEJUnSYpdF) | 3:01 |
 | 26 | [Nothin' but the Blues](https://open.spotify.com/track/1cNwoSp2ZOxN2EOtq1gzsO) | [Megan Wofford](https://open.spotify.com/artist/3ac7SLoq4Rbms8XZE0rdkA) | [Nothin' but the Blues](https://open.spotify.com/album/4qxBgtoyUKAXTXXkzwBR4g) | 3:32 |
-| 27 | [Gone With The Wind](https://open.spotify.com/track/3XI87Etehc7cnY3mUSrLBl) | [Gene Hart Trio](https://open.spotify.com/artist/5iUzoJfVuTECa0aM3nCCCh) | [Gone With The Wind](https://open.spotify.com/album/46eUBYqO4qQSYyi25RUPwa) | 3:41 |
-| 28 | [What room you in?](https://open.spotify.com/track/0aq8Ox33II1IE0fubT3YDe) | [Ornette Haynes](https://open.spotify.com/artist/5Fb5lnOYweoOU7Xt5qQ1h6) | [What room you in?](https://open.spotify.com/album/2pJzyAeVLq0Ms0xA258gHE) | 3:17 |
-| 29 | [Strolling With My Poodle](https://open.spotify.com/track/6484o0lZWJpQPsyRDx2oaC) | [Billy Hicks Quartet](https://open.spotify.com/artist/5Ygo7dMjlqex2mD2Ah7h1J) | [Strolling With My Poodle](https://open.spotify.com/album/06P4zROTzjwZ06mHs30mKQ) | 3:58 |
-| 30 | [Love in Every Note](https://open.spotify.com/track/3e3kxS4vezz8jZ1ZatEVTm) | [Novo Stella](https://open.spotify.com/artist/1YrNSfkC8jWJm1rfvOKN32) | [Love in Every Note](https://open.spotify.com/album/6vjvGen7r24reBFgR4oJLA) | 2:35 |
-| 31 | [Love Walked In](https://open.spotify.com/track/1H460eor4CG8p8OAz7TGYM) | [Gene Hart Trio](https://open.spotify.com/artist/5iUzoJfVuTECa0aM3nCCCh) | [Love Walked In](https://open.spotify.com/album/47lb71I4VeNVfdXZma2o3M) | 3:40 |
-| 32 | [Distracting Myself](https://open.spotify.com/track/5TlNodOiMdtKag4o312jwh) | [Ben Lively](https://open.spotify.com/artist/4v25mHy55qBXJ4WZg3O7UV) | [Distracting Myself](https://open.spotify.com/album/0zppZ3MWAJT9FpmfiJuxL0) | 3:43 |
-| 33 | [How Deep Is The Ocean](https://open.spotify.com/track/3Cx9inYYVQw4VEUrwKgPuX) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [Explorations \[Original Jazz Classics Remasters\]](https://open.spotify.com/album/3PGsNODk3bl8GYvAtgbBBw) | 3:33 |
-| 34 | [All My Tomorrows](https://open.spotify.com/track/4WnBYBYzYhS2I838VTxhaN) | [Figgy Mold](https://open.spotify.com/artist/1nr44rcCUJR2qL0SKfCOYF) | [All My Tomorrows](https://open.spotify.com/album/5kICb2TJOeFRTCvJsI1ldJ) | 3:21 |
-| 35 | [Have You Met Miss Jones](https://open.spotify.com/track/3hS9SHf90Uyt2ejCTuO4Jo) | [Nordic Light Trio](https://open.spotify.com/artist/2BcQKRbEFJJaMcad1CRZ35) | [Have You Met Miss Jones](https://open.spotify.com/album/3dBfU9Aecon59ibocb2nkE) | 3:08 |
-| 36 | [Misty](https://open.spotify.com/track/78K54LEyjSttk9UTE8PR9r) | [Steve Blumenthal](https://open.spotify.com/artist/59z8p2IU8agbAddmgLVAXE) | [Misty](https://open.spotify.com/album/7vEoSNuCi4Hh899wvGY7Ct) | 4:12 |
-| 37 | [Baubles, Bangles & Beads](https://open.spotify.com/track/7hOfHLHUyYaOVuL8MxzoLv) | [Nick Osman Trio](https://open.spotify.com/artist/2Al01GKqZ47q0irdqBXMQr) | [Baubles, Bangles & Beads](https://open.spotify.com/album/52l4zyCJJLLl93HezGeAoG) | 3:22 |
-| 38 | [In The Still Of The Night](https://open.spotify.com/track/5x8pXMRzCReGp5ZEa97IE2) | [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Oscar Peterson Plays The Cole Porter Songbook](https://open.spotify.com/album/3AiM3u6eHEuZWYCKNjBFK7) | 2:49 |
-| 39 | [Could It Be You](https://open.spotify.com/track/0g27tgo8UmdZBECgdglKi6) | [Benjamine Leroy Quartet](https://open.spotify.com/artist/0HsfmmG8LqKOxS2LBIO9bM) | [Could It Be You](https://open.spotify.com/album/4KBJDdFu6PY1z0pOHWv9WT) | 3:42 |
-| 40 | [Love For Sale](https://open.spotify.com/track/5BN4nwzPH9mjT9uJLI2HUx) | [Pablo Ilanda Trio](https://open.spotify.com/artist/0LPXBwpZDAUDpz9Jqo3aON) | [Love For Sale](https://open.spotify.com/album/4qsdh6qILDPYgRXxo5ZRqO) | 3:52 |
-| 41 | [Velvet Nightfall](https://open.spotify.com/track/44H2n9uGagQmP9k6TvAJ13) | [Megan Wofford](https://open.spotify.com/artist/3ac7SLoq4Rbms8XZE0rdkA) | [Sapphire Dreams](https://open.spotify.com/album/3j4YOkM5ZR0yybllI5FiQO) | 3:59 |
-| 42 | [How High The Moon](https://open.spotify.com/track/0OXt9xqBmwPwDXIbioz38B) | [High North Trio](https://open.spotify.com/artist/4ecpTLtCqe62hwHasUcfUY) | [How High The Moon](https://open.spotify.com/album/20V8WVUaQLHsBpmvkQzIrM) | 3:02 |
-| 43 | [Isn't It Romantic](https://open.spotify.com/track/3Uz925kI3Q0ADapdHKp0bv) | [Saginaw Society](https://open.spotify.com/artist/6DZHD4qSGUFPJVZZARcJDY) | [Isn't It Romantic](https://open.spotify.com/album/0Zbrl83MIzepE4WOtn7pd4) | 3:33 |
-| 44 | [Do Nothin' Til You Hear from Me](https://open.spotify.com/track/3nWyP7orBO4WCuAfIetpX1) | [Denzel Sachs](https://open.spotify.com/artist/3SB6ICG4p7cvBEjSLNSBMw) | [Do Nothin' Til You Hear from Me](https://open.spotify.com/album/1ounwufvmQ9EfCEbBboss3) | 2:43 |
-| 45 | [Li´l Darlin](https://open.spotify.com/track/1lEcERHb1xMw2pxYKIE9qw) | [The Collective](https://open.spotify.com/artist/36tnEBoX2HE41bmQi1xWKP) | [Li´l Darlin](https://open.spotify.com/album/4RKdiX9Za8FoqUmNjU3yJZ) | 3:43 |
+| 27 | [What room you in?](https://open.spotify.com/track/0aq8Ox33II1IE0fubT3YDe) | [Ornette Haynes](https://open.spotify.com/artist/5Fb5lnOYweoOU7Xt5qQ1h6) | [What room you in?](https://open.spotify.com/album/2pJzyAeVLq0Ms0xA258gHE) | 3:17 |
+| 28 | [Strolling With My Poodle](https://open.spotify.com/track/6484o0lZWJpQPsyRDx2oaC) | [Billy Hicks Quartet](https://open.spotify.com/artist/5Ygo7dMjlqex2mD2Ah7h1J) | [Strolling With My Poodle](https://open.spotify.com/album/06P4zROTzjwZ06mHs30mKQ) | 3:58 |
+| 29 | [Love in Every Note](https://open.spotify.com/track/3e3kxS4vezz8jZ1ZatEVTm) | [Novo Stella](https://open.spotify.com/artist/1YrNSfkC8jWJm1rfvOKN32) | [Love in Every Note](https://open.spotify.com/album/6vjvGen7r24reBFgR4oJLA) | 2:35 |
+| 30 | [Love Walked In](https://open.spotify.com/track/1H460eor4CG8p8OAz7TGYM) | [Gene Hart Trio](https://open.spotify.com/artist/5iUzoJfVuTECa0aM3nCCCh) | [Love Walked In](https://open.spotify.com/album/47lb71I4VeNVfdXZma2o3M) | 3:40 |
+| 31 | [Distracting Myself](https://open.spotify.com/track/5TlNodOiMdtKag4o312jwh) | [Ben Lively](https://open.spotify.com/artist/4v25mHy55qBXJ4WZg3O7UV) | [Distracting Myself](https://open.spotify.com/album/0zppZ3MWAJT9FpmfiJuxL0) | 3:43 |
+| 32 | [How Deep Is The Ocean](https://open.spotify.com/track/3Cx9inYYVQw4VEUrwKgPuX) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [Explorations \[Original Jazz Classics Remasters\]](https://open.spotify.com/album/3PGsNODk3bl8GYvAtgbBBw) | 3:33 |
+| 33 | [All My Tomorrows](https://open.spotify.com/track/4WnBYBYzYhS2I838VTxhaN) | [Figgy Mold](https://open.spotify.com/artist/1nr44rcCUJR2qL0SKfCOYF) | [All My Tomorrows](https://open.spotify.com/album/5kICb2TJOeFRTCvJsI1ldJ) | 3:21 |
+| 34 | [Have You Met Miss Jones](https://open.spotify.com/track/3hS9SHf90Uyt2ejCTuO4Jo) | [Nordic Light Trio](https://open.spotify.com/artist/2BcQKRbEFJJaMcad1CRZ35) | [Have You Met Miss Jones](https://open.spotify.com/album/3dBfU9Aecon59ibocb2nkE) | 3:08 |
+| 35 | [Misty](https://open.spotify.com/track/78K54LEyjSttk9UTE8PR9r) | [Steve Blumenthal](https://open.spotify.com/artist/59z8p2IU8agbAddmgLVAXE) | [Misty](https://open.spotify.com/album/7vEoSNuCi4Hh899wvGY7Ct) | 4:12 |
+| 36 | [Baubles, Bangles & Beads](https://open.spotify.com/track/7hOfHLHUyYaOVuL8MxzoLv) | [Nick Osman Trio](https://open.spotify.com/artist/2Al01GKqZ47q0irdqBXMQr) | [Baubles, Bangles & Beads](https://open.spotify.com/album/52l4zyCJJLLl93HezGeAoG) | 3:22 |
+| 37 | [In The Still Of The Night](https://open.spotify.com/track/5x8pXMRzCReGp5ZEa97IE2) | [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Oscar Peterson Plays The Cole Porter Songbook](https://open.spotify.com/album/3AiM3u6eHEuZWYCKNjBFK7) | 2:49 |
+| 38 | [Could It Be You](https://open.spotify.com/track/0g27tgo8UmdZBECgdglKi6) | [Benjamine Leroy Quartet](https://open.spotify.com/artist/0HsfmmG8LqKOxS2LBIO9bM) | [Could It Be You](https://open.spotify.com/album/4KBJDdFu6PY1z0pOHWv9WT) | 3:42 |
+| 39 | [Love For Sale](https://open.spotify.com/track/5BN4nwzPH9mjT9uJLI2HUx) | [Pablo Ilanda Trio](https://open.spotify.com/artist/0LPXBwpZDAUDpz9Jqo3aON) | [Love For Sale](https://open.spotify.com/album/4qsdh6qILDPYgRXxo5ZRqO) | 3:52 |
+| 40 | [Velvet Nightfall](https://open.spotify.com/track/44H2n9uGagQmP9k6TvAJ13) | [Megan Wofford](https://open.spotify.com/artist/3ac7SLoq4Rbms8XZE0rdkA) | [Sapphire Dreams](https://open.spotify.com/album/3j4YOkM5ZR0yybllI5FiQO) | 3:59 |
+| 41 | [How High The Moon](https://open.spotify.com/track/0OXt9xqBmwPwDXIbioz38B) | [High North Trio](https://open.spotify.com/artist/4ecpTLtCqe62hwHasUcfUY) | [How High The Moon](https://open.spotify.com/album/20V8WVUaQLHsBpmvkQzIrM) | 3:02 |
+| 42 | [Isn't It Romantic](https://open.spotify.com/track/3Uz925kI3Q0ADapdHKp0bv) | [Saginaw Society](https://open.spotify.com/artist/6DZHD4qSGUFPJVZZARcJDY) | [Isn't It Romantic](https://open.spotify.com/album/0Zbrl83MIzepE4WOtn7pd4) | 3:33 |
+| 43 | [Do Nothin' Til You Hear from Me](https://open.spotify.com/track/3nWyP7orBO4WCuAfIetpX1) | [Denzel Sachs](https://open.spotify.com/artist/3SB6ICG4p7cvBEjSLNSBMw) | [Do Nothin' Til You Hear from Me](https://open.spotify.com/album/1ounwufvmQ9EfCEbBboss3) | 2:43 |
+| 44 | [Li´l Darlin](https://open.spotify.com/track/1lEcERHb1xMw2pxYKIE9qw) | [The Collective](https://open.spotify.com/artist/36tnEBoX2HE41bmQi1xWKP) | [Li´l Darlin](https://open.spotify.com/album/4RKdiX9Za8FoqUmNjU3yJZ) | 3:43 |
 
-Snapshot ID: `AAAAAK05N8WLlh15wOji1pW2KHPXaQIN`
+Snapshot ID: `AAAAAMHhD0jhVKa7DH6sbGvkh4wPAIw6`

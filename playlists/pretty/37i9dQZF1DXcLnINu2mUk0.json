@@ -1,6 +1,6 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Nenny",
-  "num_followers": 54781,
+  "num_followers": 54785,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
@@ -891,22 +891,6 @@
     {
       "added_at": "2026-05-21 23:00:23",
       "album": {
-        "name": "M\u00e3o de Sonhos",
-        "url": "https://open.spotify.com/album/1P4rGS3xRlS9qOqglHFGFe"
-      },
-      "artists": [
-        {
-          "name": "Arag\u00e3o",
-          "url": "https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4"
-        }
-      ],
-      "duration_ms": 194655,
-      "name": "M\u00e3o de Sonhos",
-      "url": "https://open.spotify.com/track/4AmFBFSgOrk0ZBvk0tjCy8"
-    },
-    {
-      "added_at": "2026-05-21 23:00:23",
-      "album": {
         "name": "Dama & Vagabundo",
         "url": "https://open.spotify.com/album/4BKUmz50VANU1McCxFG9oM"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 313825,
       "name": "Dama & Vagabundo",
       "url": "https://open.spotify.com/track/2u1LLm7B1yUggZfMyaZjk9"
+    },
+    {
+      "added_at": "2026-05-21 23:00:23",
+      "album": {
+        "name": "M\u00e3o de Sonhos",
+        "url": "https://open.spotify.com/album/1P4rGS3xRlS9qOqglHFGFe"
+      },
+      "artists": [
+        {
+          "name": "Arag\u00e3o",
+          "url": "https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4"
+        }
+      ],
+      "duration_ms": 194655,
+      "name": "M\u00e3o de Sonhos",
+      "url": "https://open.spotify.com/track/4AmFBFSgOrk0ZBvk0tjCy8"
     },
     {
       "added_at": "2026-05-21 23:00:23",
@@ -1043,6 +1043,30 @@
     {
       "added_at": "2026-05-21 23:00:23",
       "album": {
+        "name": "Animal",
+        "url": "https://open.spotify.com/album/5PlBBuCOH1dJfUMGN6eTIs"
+      },
+      "artists": [
+        {
+          "name": "Soarito",
+          "url": "https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv"
+        },
+        {
+          "name": "Prod\u00edgio",
+          "url": "https://open.spotify.com/artist/0Zsw8N0usCdHtEtFtwZKg5"
+        },
+        {
+          "name": "Shalom Beatz",
+          "url": "https://open.spotify.com/artist/6u7nHw6ucOBFUxpTr5LmWI"
+        }
+      ],
+      "duration_ms": 198409,
+      "name": "Animal",
+      "url": "https://open.spotify.com/track/6L1SFlHI9H7cH4bTcBtvNw"
+    },
+    {
+      "added_at": "2026-05-21 23:00:23",
+      "album": {
         "name": "ROSAS",
         "url": "https://open.spotify.com/album/2R7iGYEwaSDTW68ucY9W4E"
       },
@@ -1083,26 +1107,18 @@
     {
       "added_at": "2026-05-21 23:00:23",
       "album": {
-        "name": "Animal",
-        "url": "https://open.spotify.com/album/5PlBBuCOH1dJfUMGN6eTIs"
+        "name": "Bon Vivan",
+        "url": "https://open.spotify.com/album/7J2ZbDOKBqeBGwtSKLcT7p"
       },
       "artists": [
         {
-          "name": "Soarito",
-          "url": "https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv"
-        },
-        {
-          "name": "Prod\u00edgio",
-          "url": "https://open.spotify.com/artist/0Zsw8N0usCdHtEtFtwZKg5"
-        },
-        {
-          "name": "Shalom Beatz",
-          "url": "https://open.spotify.com/artist/6u7nHw6ucOBFUxpTr5LmWI"
+          "name": "Lhast",
+          "url": "https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw"
         }
       ],
-      "duration_ms": 198409,
-      "name": "Animal",
-      "url": "https://open.spotify.com/track/6L1SFlHI9H7cH4bTcBtvNw"
+      "duration_ms": 137910,
+      "name": "Bon Vivan",
+      "url": "https://open.spotify.com/track/4AJCfH6VKefdRWsEyrhufE"
     },
     {
       "added_at": "2026-05-21 23:00:23",
@@ -1127,22 +1143,6 @@
       "duration_ms": 196912,
       "name": "Aguarela",
       "url": "https://open.spotify.com/track/7d0P02kHN2V2dD4LRFqF2S"
-    },
-    {
-      "added_at": "2026-05-21 23:00:23",
-      "album": {
-        "name": "Bon Vivan",
-        "url": "https://open.spotify.com/album/7J2ZbDOKBqeBGwtSKLcT7p"
-      },
-      "artists": [
-        {
-          "name": "Lhast",
-          "url": "https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw"
-        }
-      ],
-      "duration_ms": 137910,
-      "name": "Bon Vivan",
-      "url": "https://open.spotify.com/track/4AJCfH6VKefdRWsEyrhufE"
     },
     {
       "added_at": "2026-05-21 23:00:23",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2026-05-21 23:00:23",
       "album": {
-        "name": "Sei-te de Cor",
-        "url": "https://open.spotify.com/album/0EfndHIa8rIjSWDoJtoGcg"
-      },
-      "artists": [
-        {
-          "name": "Arag\u00e3o",
-          "url": "https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4"
-        }
-      ],
-      "duration_ms": 219692,
-      "name": "Sei-te de Cor",
-      "url": "https://open.spotify.com/track/2ZIWYtx82CrNATOhUeAJpv"
-    },
-    {
-      "added_at": "2026-05-21 23:00:23",
-      "album": {
         "name": "Violetta",
         "url": "https://open.spotify.com/album/2bxwGAO6LDVzSjPoEggQ58"
       },
@@ -1243,22 +1227,18 @@
     {
       "added_at": "2026-05-21 23:00:23",
       "album": {
-        "name": "FIM DA NOITE",
-        "url": "https://open.spotify.com/album/3CqyVBp2IjCB9ZbhqPv4a1"
+        "name": "Sei-te de Cor",
+        "url": "https://open.spotify.com/album/0EfndHIa8rIjSWDoJtoGcg"
       },
       "artists": [
         {
-          "name": "Kappa Jotta",
-          "url": "https://open.spotify.com/artist/2MREhFiavCOZXs0thPLuWu"
-        },
-        {
-          "name": "Bispo",
-          "url": "https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY"
+          "name": "Arag\u00e3o",
+          "url": "https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4"
         }
       ],
-      "duration_ms": 214065,
-      "name": "FIM DA NOITE",
-      "url": "https://open.spotify.com/track/31pd4crQES4hOaWHGIpzXI"
+      "duration_ms": 219692,
+      "name": "Sei-te de Cor",
+      "url": "https://open.spotify.com/track/2ZIWYtx82CrNATOhUeAJpv"
     },
     {
       "added_at": "2026-05-21 23:00:23",
@@ -1299,6 +1279,26 @@
     {
       "added_at": "2026-05-21 23:00:23",
       "album": {
+        "name": "FIM DA NOITE",
+        "url": "https://open.spotify.com/album/3CqyVBp2IjCB9ZbhqPv4a1"
+      },
+      "artists": [
+        {
+          "name": "Kappa Jotta",
+          "url": "https://open.spotify.com/artist/2MREhFiavCOZXs0thPLuWu"
+        },
+        {
+          "name": "Bispo",
+          "url": "https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY"
+        }
+      ],
+      "duration_ms": 214065,
+      "name": "FIM DA NOITE",
+      "url": "https://open.spotify.com/track/31pd4crQES4hOaWHGIpzXI"
+    },
+    {
+      "added_at": "2026-05-21 23:00:23",
+      "album": {
         "name": "Chama",
         "url": "https://open.spotify.com/album/7c0pS0w9PBaIobszlefBT7"
       },
@@ -1335,22 +1335,22 @@
     {
       "added_at": "2026-05-21 23:00:23",
       "album": {
-        "name": "Flexin On U",
-        "url": "https://open.spotify.com/album/483ljN85NtrrdrvsNSXF8u"
+        "name": "Perfume (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5tE6GbtjP4htGoyrT5H78A"
       },
       "artists": [
         {
-          "name": "X-Tense",
-          "url": "https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF"
+          "name": "Ivandro",
+          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
         },
         {
-          "name": "Tatiana Duarte",
-          "url": "https://open.spotify.com/artist/78o0thKbUQAtuBKIy9FwdT"
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
         }
       ],
-      "duration_ms": 271500,
-      "name": "Flexin On U",
-      "url": "https://open.spotify.com/track/21WFD8glO3k4hYmOiprEFF"
+      "duration_ms": 174428,
+      "name": "Perfume - Ao Vivo",
+      "url": "https://open.spotify.com/track/5RrkZPErBSiNW8OjRxnkId"
     },
     {
       "added_at": "2026-05-21 23:00:23",
@@ -1375,42 +1375,38 @@
     {
       "added_at": "2026-05-21 23:00:23",
       "album": {
-        "name": "Perfume (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5tE6GbtjP4htGoyrT5H78A"
+        "name": "Flexin On U",
+        "url": "https://open.spotify.com/album/483ljN85NtrrdrvsNSXF8u"
       },
       "artists": [
         {
-          "name": "Ivandro",
-          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
+          "name": "X-Tense",
+          "url": "https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF"
         },
         {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+          "name": "Tatiana Duarte",
+          "url": "https://open.spotify.com/artist/78o0thKbUQAtuBKIy9FwdT"
         }
       ],
-      "duration_ms": 174428,
-      "name": "Perfume - Ao Vivo",
-      "url": "https://open.spotify.com/track/5RrkZPErBSiNW8OjRxnkId"
+      "duration_ms": 271500,
+      "name": "Flexin On U",
+      "url": "https://open.spotify.com/track/21WFD8glO3k4hYmOiprEFF"
     },
     {
       "added_at": "2026-05-21 23:00:23",
       "album": {
-        "name": "Bairrista de Luxo",
-        "url": "https://open.spotify.com/album/1Pu5zlwPj47xao8R3EYydN"
+        "name": "Entre N\u00f3s (Deluxe)",
+        "url": "https://open.spotify.com/album/6KVnoibLe6O76o6GjwZCj6"
       },
       "artists": [
         {
-          "name": "bapcat",
-          "url": "https://open.spotify.com/artist/02Qg3L9GCPXeVQFxZ1b4ou"
-        },
-        {
-          "name": "Joint One",
-          "url": "https://open.spotify.com/artist/5W4i9lwHlsuhSL6Mw4KvCQ"
+          "name": "Bispo",
+          "url": "https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY"
         }
       ],
-      "duration_ms": 135804,
-      "name": "Bairrista de Luxo",
-      "url": "https://open.spotify.com/track/1bR7HU0o2tgFcHUZsgqQ0t"
+      "duration_ms": 212200,
+      "name": "Sobre n\u00f3s",
+      "url": "https://open.spotify.com/track/0qXdFerKyoeBIvTq76XlEt"
     }
   ],
   "unique_name": "Seda",

@@ -4,7 +4,7 @@
 
 > Stompers, floaters and floorshakers \- these are the tracks that defined the Northern Soul movement.
 
-103 songs - 4 hr 46 min
+104 songs - 4 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Dance Dance Dance \- Mono](https://open.spotify.com/track/7iuAY5WizVCVyuIu5RfNGL) | [The Casualeers](https://open.spotify.com/artist/47EA8efzXvcP3prDhNdRgh) | [The Roulette Story](https://open.spotify.com/album/6KRBqK0UvfDCATk8ORdC73) | 2:41 | 2024-03-22 |  |
 | [Do I Love You \(Indeed I Do\)](https://open.spotify.com/track/7hjNENnHW5O7Jxg8gkZliS) | [Frank Wilson](https://open.spotify.com/artist/7Emrl5SyjpneJuRdHqBKRN) | [Wigan Casino 40th Anniversary Album](https://open.spotify.com/album/2sPZKGxvg2RZF4d2ioEYjz) | 2:24 | 2024-03-22 |  |
 | [Get Ready](https://open.spotify.com/track/2Kxh6HuGxouqloIspfjGP1) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella](https://open.spotify.com/album/1gIOAaCU8xAxXqxpVBrvK7) | 2:34 | 2024-03-22 |  |
+| [Girls Are Out to Get You](https://open.spotify.com/track/0JpUdYW1hKU1fGqjy0xvHY) | [The Andantes](https://open.spotify.com/artist/1JYHTYpWbYyOgYK3eAJgqK) | [Northern Soul Sensations](https://open.spotify.com/album/1LM4xOS5sNcoykJvQ7zXNu) | 3:23 | 2024-03-22 |  |
 | [Give Me Just A Little More Time](https://open.spotify.com/track/6qbtTps7ZebLrWtqtu1joj) | [Chairmen Of The Board](https://open.spotify.com/artist/69g2TelswPN1IiFDKvaoSL) | [Soul Agenda](https://open.spotify.com/album/3bsK8mvliXMvVPPiMgeIYq) | 2:40 | 2024-03-22 |  |
 | [Gonna Get Along Without You Now \- Single Version](https://open.spotify.com/track/1qgtXp0dM8HSxlnbSQZDuc) | [The Vibrations](https://open.spotify.com/artist/3BLqcKdqgBI3oJvVg7Odz8) | [New Vibrations](https://open.spotify.com/album/17pK7FO1957b0Ap3PubWOh) | 2:07 | 2024-03-22 |  |
 | [Gotta Have Your Love](https://open.spotify.com/track/4BkHHw26fIlHEdcUqeCkgv) | [The Sapphires](https://open.spotify.com/artist/7hsuVq0DQonl3PnP7qkfvP) | [Best Of The Sapphires](https://open.spotify.com/album/5oaRhxwbicB0jaeEHYhq8q) | 2:16 | 2024-03-22 |  |
@@ -84,7 +85,7 @@
 | [Suspicion](https://open.spotify.com/track/7neHlDOzLf0qFgEzeK8L8t) | [The Originals](https://open.spotify.com/artist/11EZGTWr2pY0VZPlWokAbl) | [Northern Soul: 20 Original Classics](https://open.spotify.com/album/0WaJQ19J0GfyGfuVIE1SrK) | 3:04 | 2024-03-22 |  |
 | [Tainted Love](https://open.spotify.com/track/2ADfheRRkK5P2f1t8si3Lj) | [Gloria Jones](https://open.spotify.com/artist/08BQmH2M3Ew9XjMHaHsl1l) | [Vixen](https://open.spotify.com/album/0vBH7dsa3ZY44AeGimirdZ) | 2:42 | 2024-03-22 |  |
 | [Temptation Is Calling My Name \- Single Version](https://open.spotify.com/track/6pOJd5tcIdae5RFprqyHHw) | [Lee David](https://open.spotify.com/artist/7AZpPOy6ZtFoPS4hBxpZSQ) | [Haynes Ultimate Guide to Northern Soul](https://open.spotify.com/album/2YZ5MjpwfRaCd1hunGOZzH) | 2:21 | 2024-03-22 |  |
-| [That's Loving You](https://open.spotify.com/track/29VOAxTNBfotCtsQKTufEz) | [Percy Wiggins](https://open.spotify.com/artist/3OsBOLBZNtkXBVZqiV02mC) | [Uptown, Down South](https://open.spotify.com/album/5lYrlYsHIAMBOs7Q10e1bu) | 2:15 | 2024-03-22 |  |
+| [That's Loving You](https://open.spotify.com/track/29VOAxTNBfotCtsQKTufEz) | [Percy Wiggins](https://open.spotify.com/artist/3OsBOLBZNtkXBVZqiV02mC) | [Uptown, Down South](https://open.spotify.com/album/5lYrlYsHIAMBOs7Q10e1bu) | 2:15 | 2024-03-22 | 2026-05-26 |
 | [The Girl Across the Street](https://open.spotify.com/track/5fWk1AxtnjbWEwUH6midXi) | [Moses Smith](https://open.spotify.com/artist/1q5eOP35Tzhrxj84h7eNzj) | [The Northern Side of Philly Soul](https://open.spotify.com/album/5dXHhdu8IbqOVcsZJ8eeJw) | 4:12 | 2024-03-22 |  |
 | [The Night](https://open.spotify.com/track/28k2ktADh2z4cRyAzQCyrf) | [Frankie Valli & The Four Seasons](https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou) | [The Magic Of Motown \(Chunky Repackaged\)](https://open.spotify.com/album/7jmpVfmFahtBSxGFWR9V2N) | 3:20 | 2024-03-22 |  |
 | [The Snake](https://open.spotify.com/track/338Sl7svvkz6ihfAYn1kvI) | [Al Wilson](https://open.spotify.com/artist/2RwV62DIxFGEn8aWO3iaMM) | [The Snake](https://open.spotify.com/album/0jrvi8BZ1v5TBximaRfGzL) | 3:29 | 2024-03-22 |  |

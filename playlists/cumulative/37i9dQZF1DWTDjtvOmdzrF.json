@@ -1053,6 +1053,28 @@
     },
     {
       "album": {
+        "name": "Ilmu Padi (Acoustic Version)",
+        "url": "https://open.spotify.com/album/6x9v5H5basSUZJZsOL2gFe"
+      },
+      "artists": [
+        {
+          "name": "Didik Budi",
+          "url": "https://open.spotify.com/artist/4sy1TsEotKwjBHrQGPIwzZ"
+        },
+        {
+          "name": "Sadewok",
+          "url": "https://open.spotify.com/artist/2Y62Y7xOCtcI57gEbnD7DR"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277843,
+      "name": "Ilmu Padi - Acoustic Version",
+      "url": "https://open.spotify.com/track/6zlS5eEAMAw8URlrIRugHQ"
+    },
+    {
+      "album": {
         "name": "Indah Pada Waktunya",
         "url": "https://open.spotify.com/album/58N9l8IdTOtwOk2C9FEdA4"
       },
@@ -1820,7 +1842,7 @@
       ],
       "date_added": "2025-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 229632,
       "name": "Menunggu Kamu - OST Jelita Sejuba",
       "url": "https://open.spotify.com/track/5LP6x0DRwi69MGAYen999y"

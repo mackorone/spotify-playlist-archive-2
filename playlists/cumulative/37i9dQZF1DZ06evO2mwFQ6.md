@@ -4,7 +4,7 @@
 
 > This is Adam Brand\. The essential tracks, all in one playlist.
 
-147 songs - 8 hr 31 min
+148 songs - 8 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Come On Home](https://open.spotify.com/track/2DjD8x8YzAbkk2C7irEIKd) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Get Loud](https://open.spotify.com/album/55v8wSxTXUkuuZq9BaUe51) | 4:16 | 2023-11-10 | 2024-02-14 |
 | [Comin' From / Khe Sanh \- Medley](https://open.spotify.com/track/5lotEi7KPbW8VYwyKhV8bW) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Blame It On Eve](https://open.spotify.com/album/7m3qvKAyHoJWjwM16COHHu) | 4:13 | 2025-10-21 |  |
 | [Comin' From / Khe Sanh \- Medley](https://open.spotify.com/track/1aaVmTR7WXYDoSUpnGAknS) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [You're A Revhead](https://open.spotify.com/album/6to8LTBnNwNJiRJz6HKg6c) | 4:14 | 2023-06-17 | 2025-10-21 |
+| [Cowboy Tequila](https://open.spotify.com/track/0Mw9aXWgVIBBl9aEaVh8Uv) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Get Loud](https://open.spotify.com/album/79nJV2y658fgNuiZL3Lbv8) | 4:00 | 2026-05-26 |  |
 | [Cowboy Tequila](https://open.spotify.com/track/4yWIzGVaS4k4sHEPtBB0Vx) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Get Loud](https://open.spotify.com/album/55v8wSxTXUkuuZq9BaUe51) | 4:00 | 2024-10-19 | 2024-10-21 |
 | [Crazy Like That](https://open.spotify.com/track/6NDEXdeJc2Dv5M1a5XtTKj) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Hell Of A Ride](https://open.spotify.com/album/3Fa0QVFiC0v3FiS5gIJiyo) | 3:57 | 2025-09-27 | 2025-10-26 |
 | [Dirt Racer](https://open.spotify.com/track/5UkNfI7pKdJWjqX3tTdOCs) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [You're A Revhead](https://open.spotify.com/album/6to8LTBnNwNJiRJz6HKg6c) | 4:12 | 2023-06-29 | 2025-08-30 |
@@ -63,7 +64,7 @@
 | [Good Year for the Outlaw](https://open.spotify.com/track/1zow1J6ivxXvaqyEYmxbn4) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia), [The Outlaws](https://open.spotify.com/artist/2GNgLedxhidCGAbrUfR9iY) | [Adam Brand and The Outlaws](https://open.spotify.com/album/4T2RGByox3Mf1gy23ZlE0h) | 3:34 | 2024-12-14 | 2026-04-19 |
 | [Grandpa's Piano](https://open.spotify.com/track/1g11wqJpt5T3TpDlgreQvj) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Adam Brand \(Special Bonus Tour Edition\)](https://open.spotify.com/album/6gbQrmthnmtDT6soaOitlD) | 3:23 | 2025-10-25 |  |
 | [Grandpa's Piano](https://open.spotify.com/track/6NWWyD73Tb728WqsWQz9eg) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Adam Brand](https://open.spotify.com/album/7xuAD3xXT9OjNqF4qqjRPK) | 3:23 | 2023-06-17 | 2025-10-25 |
-| [Hearts I Leave Behind](https://open.spotify.com/track/1XRAMlvsJa0frnT5So3Fho) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [My Side of the Street](https://open.spotify.com/album/6oGvE1KPgvRNJnHJ3dshMF) | 3:14 | 2024-12-13 |  |
+| [Hearts I Leave Behind](https://open.spotify.com/track/1XRAMlvsJa0frnT5So3Fho) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [My Side of the Street](https://open.spotify.com/album/6oGvE1KPgvRNJnHJ3dshMF) | 3:14 | 2024-12-13 | 2026-05-26 |
 | [Hearts I Leave Behind](https://open.spotify.com/track/0lkAvMfm03vdKGNLe3Bvas) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [My Side Of The Street](https://open.spotify.com/album/0OZoX1Vpoi1SSv64fLJcxF) | 3:14 | 2023-06-17 | 2024-12-07 |
 | [Hell Of A Ride](https://open.spotify.com/track/4otOE0MImXP2YqqXDW0Ogi) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Hell Of A Ride](https://open.spotify.com/album/3jr1KlG1KMAwn0DdrdKdlD) | 3:56 | 2025-10-26 |  |
 | [Hell Of A Ride](https://open.spotify.com/track/73LVeeNwkY1C0qAkV6H99y) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Hell Of A Ride](https://open.spotify.com/album/3Fa0QVFiC0v3FiS5gIJiyo) | 3:56 | 2023-06-17 | 2025-10-26 |

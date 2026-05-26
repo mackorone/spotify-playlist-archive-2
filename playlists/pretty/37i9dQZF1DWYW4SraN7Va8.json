@@ -1,6 +1,6 @@
 {
   "description": "Nacimos para rodar en el asfalto. ",
-  "num_followers": 206300,
+  "num_followers": 206387,
   "original_name": "Las Choppers",
   "owner": {
     "name": "Spotify",
@@ -507,22 +507,6 @@
     {
       "added_at": "2026-02-06 06:00:21",
       "album": {
-        "name": "Piece of Mind (2015 Remaster)",
-        "url": "https://open.spotify.com/album/7I9Wh2IgvI3Nnr8Z1ZSWby"
-      },
-      "artists": [
-        {
-          "name": "Iron Maiden",
-          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
-        }
-      ],
-      "duration_ms": 230760,
-      "name": "Flight of Icarus - 2015 Remaster",
-      "url": "https://open.spotify.com/track/3vhKrSxe3fRuS5Ogis76VO"
-    },
-    {
-      "added_at": "2026-02-06 06:00:21",
-      "album": {
         "name": "Freedom",
         "url": "https://open.spotify.com/album/3uOOKcr91I3Br0Rtmu4zdT"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 281853,
       "name": "Rockin' in the Free World",
       "url": "https://open.spotify.com/track/4Y7fEQ4PAzhlLnLviRw2P4"
+    },
+    {
+      "added_at": "2026-02-06 06:00:21",
+      "album": {
+        "name": "Piece of Mind (2015 Remaster)",
+        "url": "https://open.spotify.com/album/7I9Wh2IgvI3Nnr8Z1ZSWby"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "duration_ms": 230760,
+      "name": "Flight of Icarus - 2015 Remaster",
+      "url": "https://open.spotify.com/track/3vhKrSxe3fRuS5Ogis76VO"
     },
     {
       "added_at": "2026-02-06 06:00:21",
@@ -1199,18 +1199,18 @@
     {
       "added_at": "2026-02-06 06:00:21",
       "album": {
-        "name": "Whitesnake's Greatest Hits",
-        "url": "https://open.spotify.com/album/0Z5nu6FcdcWtmzvQ7uK0qJ"
+        "name": "Stone Cold Killer",
+        "url": "https://open.spotify.com/album/513s8ALXQ5VxaIYNXTUKUb"
       },
       "artists": [
         {
-          "name": "Whitesnake",
-          "url": "https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP"
+          "name": "The Heavy",
+          "url": "https://open.spotify.com/artist/0bZCak2tcRMY1dzEIuwF42"
         }
       ],
-      "duration_ms": 232800,
-      "name": "Here I Go Again",
-      "url": "https://open.spotify.com/track/1tQ5TSr1tyeQUbHKBee0jv"
+      "duration_ms": 188733,
+      "name": "Stone Cold Killer",
+      "url": "https://open.spotify.com/track/19upAEqeqyWplsN9UXcA12"
     }
   ],
   "unique_name": "Las Choppers",

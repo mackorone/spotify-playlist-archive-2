@@ -4,7 +4,7 @@
 
 > A trilha perfeita pra embalar seu sono.
 
-1,036 songs - 2 day 1 hr 30 min
+1,038 songs - 2 day 1 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -337,7 +337,7 @@
 | [Etherealism](https://open.spotify.com/track/5xcMiHMYeXbjdcYUDYzZzL) | [Chakra Tides](https://open.spotify.com/artist/7gfe0wDVyfNBiAWSVQyZRk) | [Etherealism](https://open.spotify.com/album/2uk1QgUcIbDYyrFmrnVNEn) | 3:30 | 2024-08-02 | 2025-04-13 |
 | [Etoile](https://open.spotify.com/track/683qBY5WPSLBPfgDioGVmS) | [Eztebe Matia](https://open.spotify.com/artist/3n2j9RLqJFPzyI8WGn94bm) | [Etoile](https://open.spotify.com/album/4s0qbwDBSI2z9tjahbd4WT) | 2:15 | 2023-03-23 | 2024-05-05 |
 | [Etéreo](https://open.spotify.com/track/332LsZnqbuZPRiiknROvfy) | [Constantine Lupo](https://open.spotify.com/artist/1RMseCll3Wq0FsAIrkPmdn) | [Etéreo](https://open.spotify.com/album/6iUYSrnRQ5BKvECnWParnE) | 3:16 | 2023-03-23 | 2024-03-21 |
-| [Euclid](https://open.spotify.com/track/56mK5RyrLDDcuMOHPXoKbN) | [turquoise waters](https://open.spotify.com/artist/3N7b5YuDB0LngChyXbKZZK) | [Euclid](https://open.spotify.com/album/34k8LhrSkwluEKrqT0Eeej) | 2:27 | 2024-12-17 |  |
+| [Euclid](https://open.spotify.com/track/56mK5RyrLDDcuMOHPXoKbN) | [turquoise waters](https://open.spotify.com/artist/3N7b5YuDB0LngChyXbKZZK) | [Euclid](https://open.spotify.com/album/34k8LhrSkwluEKrqT0Eeej) | 2:27 | 2024-12-17 | 2026-05-26 |
 | [Eudaimonia](https://open.spotify.com/track/6KU6lJNEwpHSB8EdI6klNN) | [Gaea Antoniou](https://open.spotify.com/artist/3L8lia6SiogIvkEl2qQ32d) | [Eudaimonia](https://open.spotify.com/album/09qRQwHteDmqgCTEe2HcYl) | 2:57 | 2023-03-23 | 2024-02-09 |
 | [Evangeline](https://open.spotify.com/track/2qO8aQQot1zPqyh02831Xs) | [Armonía Astral](https://open.spotify.com/artist/4SFy2zTDkBKrQ8vzuINBVf) | [Evangeline](https://open.spotify.com/album/0YiP5Q7LDtmMmZgl1aZ3gq) | 2:57 | 2024-03-20 | 2025-03-20 |
 | [Evenfall](https://open.spotify.com/track/386KJq3D6hXX3BWiPbTnKl) | [Aurora Aeterna](https://open.spotify.com/artist/4PRv41OfpEkorKofIv7DV8) | [Evenfall](https://open.spotify.com/album/6U7bC6k2lRuvJlDyK24TpP) | 2:32 | 2026-02-25 |  |
@@ -680,7 +680,7 @@
 | [Oxygen](https://open.spotify.com/track/6LJueYS7PEtp9VEnClV0da) | [Joseph Alphane](https://open.spotify.com/artist/65IJPn3wYi35Qpov4MXcFr) | [Oxygen](https://open.spotify.com/album/5QTd2js25VRvD3ZK5DYWeu) | 2:43 | 2023-03-23 | 2024-01-18 |
 | [Paintings](https://open.spotify.com/track/4z9T5rLKI42F1Pm4JMPFlY) | [Ookean](https://open.spotify.com/artist/3RRjbAYUzANb74qkNyT7vF) | [Paintings](https://open.spotify.com/album/3dN2zzbNXmMGDuAYABHGOe) | 2:41 | 2023-03-23 | 2024-02-09 |
 | [Pale Hours](https://open.spotify.com/track/3NSH95SaYGg7OLiC8bVtcx) | [Kaiser Hulenstadt](https://open.spotify.com/artist/1oFe0IcP3ZDv5MK0sbq8tS) | [Pale Hours](https://open.spotify.com/album/2Dp8o5PeMIUL8FEoqU4xvs) | 2:31 | 2025-10-08 |  |
-| [Pale Memory](https://open.spotify.com/track/7rhwr3FfXyso3CpR5d3X97) | [Astral Steps](https://open.spotify.com/artist/1F2Bnj5hR7xoWkRVrtfROZ) | [Pale Memory](https://open.spotify.com/album/3xdgL0gjv3u3wjvzqh0CJI) | 2:37 | 2025-11-12 |  |
+| [Pale Memory](https://open.spotify.com/track/7rhwr3FfXyso3CpR5d3X97) | [Astral Steps](https://open.spotify.com/artist/1F2Bnj5hR7xoWkRVrtfROZ) | [Pale Memory](https://open.spotify.com/album/3xdgL0gjv3u3wjvzqh0CJI) | 2:37 | 2025-11-12 | 2026-05-26 |
 | [Panacea](https://open.spotify.com/track/7IW97SFUISAWehSIW1eJvM) | [Benjin Blund](https://open.spotify.com/artist/4X7C94aG7ctqFboeUcc1Q1) | [Panacea](https://open.spotify.com/album/4rX9W4lpiQetnlHm7CgsgG) | 2:51 | 2025-03-05 | 2026-03-21 |
 | [Paper Planes](https://open.spotify.com/track/6K3GQ0EUISQazk67bWfWCB) | [Gerda Holmes](https://open.spotify.com/artist/7dEtbCkGOQo1nDl8YweUnL) | [Paper Planes](https://open.spotify.com/album/3kBoTpDPMvijOGBClK9uKQ) | 3:30 | 2023-03-23 | 2023-09-01 |
 | [Paradigm](https://open.spotify.com/track/5rD6luPJeHWNs3VNPqtNEu) | [iavú](https://open.spotify.com/artist/4HLXt5FajZmG37fZb3E2my) | [Paradigm](https://open.spotify.com/album/05RwFQSvi4XzEPlkoFsH0H) | 3:00 | 2025-01-22 | 2025-07-06 |
@@ -817,6 +817,7 @@
 | [Silk Dreams](https://open.spotify.com/track/3b7oasEPdgnvPiq3JxCvMA) | [Sleepwear](https://open.spotify.com/artist/2FZAnYg9alDc7hUebvR9Ph) | [Silk Dreams](https://open.spotify.com/album/4FlPvNG5wdOTzs0sxUPloK) | 3:08 | 2025-01-22 | 2025-11-30 |
 | [Silken Shades](https://open.spotify.com/track/3gaKlnfQPnP5vyCmYmmeWv) | [Spatia Sonica](https://open.spotify.com/artist/52CWUxOpQe9GHy9aCN0Irk) | [Silken Shades](https://open.spotify.com/album/2T6xVMu4W1Qwy3tDYIhiJX) | 3:00 | 2024-05-20 | 2025-10-03 |
 | [Silver Lining](https://open.spotify.com/track/3Eb5LRtd8qIpq4CP5a3Pt7) | [Sleepy Jay](https://open.spotify.com/artist/4C0u713lpHyNuwztM1NZZY) | [Silver Lining](https://open.spotify.com/album/3Vi7QZP8evfJuHpsQFvQpE) | 3:06 | 2024-02-08 | 2025-02-18 |
+| [Silver Wakes](https://open.spotify.com/track/0BIsSTUGjOy6vSPHDoRQaI) | [Cael Lunor](https://open.spotify.com/artist/2LpnVQdlKLHTJZSd68cARu) | [Silver Wakes](https://open.spotify.com/album/3KaPWa1a2R40H52NbqCcBN) | 2:24 | 2026-05-13 |  |
 | [Simien](https://open.spotify.com/track/3tf0epgGh6Zbh2skKajYjw) | [Petros Idris](https://open.spotify.com/artist/2KPSqFXX8R2WJ72KyFFEdc) | [Simien](https://open.spotify.com/album/0vS0WdECffLMWHgYQEacuP) | 3:30 | 2023-03-23 | 2024-03-21 |
 | [Simplicity](https://open.spotify.com/track/0LdLscWL2kMfEgTNKTe9n5) | [Filippa Greer](https://open.spotify.com/artist/2nbErRms1OxHurL1yna5ov) | [Simplicity](https://open.spotify.com/album/2epRyfhK3oBrbBnHRvjXTM) | 3:25 | 2023-03-23 | 2024-07-10 |
 | [Simulacrum](https://open.spotify.com/track/4wEbipetGjPZ1YFGT2v34O) | [Richter Gravitas](https://open.spotify.com/artist/2DLiGfmS8hciTINAkqY2XG) | [Simulacrum](https://open.spotify.com/album/6h05jReEpu0Cri0gZkV7N4) | 3:05 | 2024-07-09 | 2025-01-09 |
@@ -833,6 +834,7 @@
 | [Sleepy Journey](https://open.spotify.com/track/3r1ZQqUe14xxssPt2Rkd6j) | [Cokobi](https://open.spotify.com/artist/3PUoyrYPm3P6HQAPEFwdyg) | [Sleepy Journey](https://open.spotify.com/album/0kRsorTUtJsNOFYaHc9KAO) | 2:50 | 2023-03-23 | 2024-01-18 |
 | [Sleepyhead](https://open.spotify.com/track/3s2wuyhnAeoE3XGjYNFlVQ) | [Vindviska](https://open.spotify.com/artist/49ZUaDbjVFmr85mRlqw76O) | [Sleepyhead](https://open.spotify.com/album/4ou8Pt8fwv2djnK0CH8Gec) | 2:30 | 2025-10-08 | 2026-01-17 |
 | [Slope Angle](https://open.spotify.com/track/4PAnqov2s1DU04SRdu8wVt) | [Gateway IV](https://open.spotify.com/artist/4YoqgU4m9qY7tUO4iwIM45) | [Slope Angle](https://open.spotify.com/album/2me4c6Lqt8n2D00edBgz3B) | 2:36 | 2026-01-27 | 2026-03-12 |
+| [Slow Aurora](https://open.spotify.com/track/0GTzpZ9fzlIYIpd9p0iMUk) | [Evensia](https://open.spotify.com/artist/2Idc0PVXaZL5nPv8IjcJru) | [Slow Aurora](https://open.spotify.com/album/02skpzvRhbUGU20qbHM9u0) | 2:13 | 2026-05-13 |  |
 | [Slow Down the Night](https://open.spotify.com/track/70EFtngIf7REQH2ZfkiVLB) | [Maximilian Sievert](https://open.spotify.com/artist/1KLfI1v6hjVZ1UCyrLJrC8) | [Slow Down The Night](https://open.spotify.com/album/5nE8ZiMK0GJHk6FmX17hDU) | 3:40 | 2023-03-23 | 2024-02-09 |
 | [Slowly Drifting](https://open.spotify.com/track/4szbOIFw8z36kyR5rOxWMJ) | [Mirelio](https://open.spotify.com/artist/6HwQXwozxzsGeHM56IUJCm) | [Slowly Drifting](https://open.spotify.com/album/5jgv7o7Z4MlPAiS43hFdkZ) | 2:06 | 2025-11-12 |  |
 | [Slumber](https://open.spotify.com/track/79VaizbXk2cpZy3nzUxjN7) | [Celestros](https://open.spotify.com/artist/67aZiwEIyJelBQiBjcvZ6V) | [Slumber](https://open.spotify.com/album/4O2LD8nIKfma74ymQ9qDtF) | 2:41 | 2024-06-18 | 2025-10-12 |

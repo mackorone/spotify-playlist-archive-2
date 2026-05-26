@@ -1,6 +1,6 @@
 {
   "description": "Back to the golden age of the scene. Cover: Underoath",
-  "num_followers": 534426,
+  "num_followers": 534453,
   "original_name": "Chaos Anthems",
   "owner": {
     "name": "Spotify",
@@ -271,22 +271,6 @@
     {
       "added_at": "2025-11-24 12:49:27",
       "album": {
-        "name": "Don't You Fake It",
-        "url": "https://open.spotify.com/album/6TyPSzd5rA2rQ9yLJJ1Gg2"
-      },
-      "artists": [
-        {
-          "name": "The Red Jumpsuit Apparatus",
-          "url": "https://open.spotify.com/artist/1SImpQO0GbjRgvlwCcCtFo"
-        }
-      ],
-      "duration_ms": 149640,
-      "name": "False Pretense",
-      "url": "https://open.spotify.com/track/2ZICF8SFI5tHttaLJKMY1X"
-    },
-    {
-      "added_at": "2025-11-24 12:49:27",
-      "album": {
         "name": "Tell All Your Friends (Remastered)",
         "url": "https://open.spotify.com/album/0gBSoXYKsE3HHZNbgMPnEg"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 181336,
       "name": "You're So Last Summer - Remastered 2019",
       "url": "https://open.spotify.com/track/0cY6CAgB5wShSOTT3lQl2t"
+    },
+    {
+      "added_at": "2025-11-24 12:49:27",
+      "album": {
+        "name": "Don't You Fake It",
+        "url": "https://open.spotify.com/album/6TyPSzd5rA2rQ9yLJJ1Gg2"
+      },
+      "artists": [
+        {
+          "name": "The Red Jumpsuit Apparatus",
+          "url": "https://open.spotify.com/artist/1SImpQO0GbjRgvlwCcCtFo"
+        }
+      ],
+      "duration_ms": 149640,
+      "name": "False Pretense",
+      "url": "https://open.spotify.com/track/2ZICF8SFI5tHttaLJKMY1X"
     },
     {
       "added_at": "2025-11-24 12:49:27",
@@ -367,6 +367,22 @@
     {
       "added_at": "2025-11-24 12:49:27",
       "album": {
+        "name": "In Keeping Secrets Of Silent Earth: 3",
+        "url": "https://open.spotify.com/album/2oWXmi9uLRKn60yRmY22MB"
+      },
+      "artists": [
+        {
+          "name": "Coheed and Cambria",
+          "url": "https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8"
+        }
+      ],
+      "duration_ms": 234702,
+      "name": "A Favor House Atlantic",
+      "url": "https://open.spotify.com/track/4KliQFRlvNKnlVYzMMbSMq"
+    },
+    {
+      "added_at": "2025-11-24 12:49:27",
+      "album": {
         "name": "Define The Great Line",
         "url": "https://open.spotify.com/album/6YQu7tXYfN1r2NLx8tfEI6"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 217524,
       "name": "Voices",
       "url": "https://open.spotify.com/track/71U9X93wy4BQGyvmjFqApv"
-    },
-    {
-      "added_at": "2025-11-24 12:49:27",
-      "album": {
-        "name": "In Keeping Secrets Of Silent Earth: 3",
-        "url": "https://open.spotify.com/album/2oWXmi9uLRKn60yRmY22MB"
-      },
-      "artists": [
-        {
-          "name": "Coheed and Cambria",
-          "url": "https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8"
-        }
-      ],
-      "duration_ms": 234702,
-      "name": "A Favor House Atlantic",
-      "url": "https://open.spotify.com/track/4KliQFRlvNKnlVYzMMbSMq"
     },
     {
       "added_at": "2025-11-24 12:49:27",
@@ -447,22 +447,6 @@
     {
       "added_at": "2025-11-24 12:49:27",
       "album": {
-        "name": "They're Only Chasing Safety",
-        "url": "https://open.spotify.com/album/5GeXnKDk6sD6RnkPVwFi19"
-      },
-      "artists": [
-        {
-          "name": "Underoath",
-          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
-        }
-      ],
-      "duration_ms": 262573,
-      "name": "Reinventing Your Exit",
-      "url": "https://open.spotify.com/track/591vJuuep0gfPhx9p8WPD5"
-    },
-    {
-      "added_at": "2025-11-24 12:49:27",
-      "album": {
         "name": "In Love and Death",
         "url": "https://open.spotify.com/album/10Mw53MGdbK8KjIhBM0Wx2"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 205160,
       "name": "I Caught Fire",
       "url": "https://open.spotify.com/track/6z2Fx4b0hjqLdsJQOrNxbM"
+    },
+    {
+      "added_at": "2025-11-24 12:49:27",
+      "album": {
+        "name": "They're Only Chasing Safety",
+        "url": "https://open.spotify.com/album/5GeXnKDk6sD6RnkPVwFi19"
+      },
+      "artists": [
+        {
+          "name": "Underoath",
+          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
+        }
+      ],
+      "duration_ms": 262573,
+      "name": "Reinventing Your Exit",
+      "url": "https://open.spotify.com/track/591vJuuep0gfPhx9p8WPD5"
     },
     {
       "added_at": "2025-11-24 12:49:27",
@@ -527,22 +527,6 @@
     {
       "added_at": "2025-11-24 12:49:27",
       "album": {
-        "name": "All's Well That Ends Well",
-        "url": "https://open.spotify.com/album/0OEsBt4DiKAGACbzmhwbaS"
-      },
-      "artists": [
-        {
-          "name": "Chiodos",
-          "url": "https://open.spotify.com/artist/4ZIBrskTJWmkJUvM7uAu1o"
-        }
-      ],
-      "duration_ms": 216293,
-      "name": "The Words \"Best Friend\" Become Redefined",
-      "url": "https://open.spotify.com/track/6GKhlcZeyEW9Y5ZLZ37HZ3"
-    },
-    {
-      "added_at": "2025-11-24 12:49:27",
-      "album": {
         "name": "The Used",
         "url": "https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 176373,
       "name": "A Box Full of Sharp Objects",
       "url": "https://open.spotify.com/track/6IK1mlU9pJPPjkYD6jrRR5"
+    },
+    {
+      "added_at": "2025-11-24 12:49:27",
+      "album": {
+        "name": "All's Well That Ends Well",
+        "url": "https://open.spotify.com/album/0OEsBt4DiKAGACbzmhwbaS"
+      },
+      "artists": [
+        {
+          "name": "Chiodos",
+          "url": "https://open.spotify.com/artist/4ZIBrskTJWmkJUvM7uAu1o"
+        }
+      ],
+      "duration_ms": 216293,
+      "name": "The Words \"Best Friend\" Become Redefined",
+      "url": "https://open.spotify.com/track/6GKhlcZeyEW9Y5ZLZ37HZ3"
     },
     {
       "added_at": "2025-11-24 12:49:27",
@@ -1439,6 +1439,22 @@
     {
       "added_at": "2025-11-24 12:49:27",
       "album": {
+        "name": "I'm Only A Man",
+        "url": "https://open.spotify.com/album/15Ws2c78QkSmzZ9HNr5PCq"
+      },
+      "artists": [
+        {
+          "name": "Emery",
+          "url": "https://open.spotify.com/artist/4feAxLUxIU7G4KXhH0h2ni"
+        }
+      ],
+      "duration_ms": 211453,
+      "name": "The Party Song",
+      "url": "https://open.spotify.com/track/4IYJ0fEY4zoetmq1jVyiud"
+    },
+    {
+      "added_at": "2025-11-24 12:49:27",
+      "album": {
         "name": "The Anti Mother",
         "url": "https://open.spotify.com/album/0GZJgWLGPiJi8TTp5hDnY4"
       },
@@ -1471,22 +1487,6 @@
     {
       "added_at": "2025-11-24 12:49:27",
       "album": {
-        "name": "I'm Only A Man",
-        "url": "https://open.spotify.com/album/15Ws2c78QkSmzZ9HNr5PCq"
-      },
-      "artists": [
-        {
-          "name": "Emery",
-          "url": "https://open.spotify.com/artist/4feAxLUxIU7G4KXhH0h2ni"
-        }
-      ],
-      "duration_ms": 211453,
-      "name": "The Party Song",
-      "url": "https://open.spotify.com/track/4IYJ0fEY4zoetmq1jVyiud"
-    },
-    {
-      "added_at": "2025-11-24 12:49:27",
-      "album": {
         "name": "Casually Dressed And Deep In Conversation",
         "url": "https://open.spotify.com/album/5RoKtuFghXVMHrtOf0CBKN"
       },
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2025-11-24 12:49:27",
       "album": {
-        "name": "The Big Dirty",
-        "url": "https://open.spotify.com/album/6Bl4e9l92OjIZIGYMVR4AN"
-      },
-      "artists": [
-        {
-          "name": "Every Time I Die",
-          "url": "https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM"
-        }
-      ],
-      "duration_ms": 203426,
-      "name": "No Son Of Mine",
-      "url": "https://open.spotify.com/track/6vQ4wyy3AKpajRqqZxyJaW"
-    },
-    {
-      "added_at": "2025-11-24 12:49:27",
-      "album": {
         "name": "Trainwreck",
         "url": "https://open.spotify.com/album/1uFmJTSJEEm0mdjDERdg8P"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 240186,
       "name": "Medicating",
       "url": "https://open.spotify.com/track/7FTORbr7wFdglftJdbz1dw"
+    },
+    {
+      "added_at": "2025-11-24 12:49:27",
+      "album": {
+        "name": "The Big Dirty",
+        "url": "https://open.spotify.com/album/6Bl4e9l92OjIZIGYMVR4AN"
+      },
+      "artists": [
+        {
+          "name": "Every Time I Die",
+          "url": "https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM"
+        }
+      ],
+      "duration_ms": 203426,
+      "name": "No Son Of Mine",
+      "url": "https://open.spotify.com/track/6vQ4wyy3AKpajRqqZxyJaW"
     },
     {
       "added_at": "2025-11-24 12:49:27",
@@ -1599,18 +1599,18 @@
     {
       "added_at": "2025-11-24 12:49:27",
       "album": {
-        "name": "Heroine",
-        "url": "https://open.spotify.com/album/77vtFRBkyaKfj899Gp0xZ4"
+        "name": "Between the Heart and the Synapse",
+        "url": "https://open.spotify.com/album/1M5DYiubn2ko8OpUs0lhEt"
       },
       "artists": [
         {
-          "name": "From First To Last",
-          "url": "https://open.spotify.com/artist/5n71fmAB8Un2IfAPn64erN"
+          "name": "The Receiving End Of Sirens",
+          "url": "https://open.spotify.com/artist/57fbnHozNJMl16yNzt4agV"
         }
       ],
-      "duration_ms": 199080,
-      "name": "The Latest Plague",
-      "url": "https://open.spotify.com/track/3gYpsnUoDr1XJLw7f4EpZT"
+      "duration_ms": 318120,
+      "name": "Planning a Prison Break",
+      "url": "https://open.spotify.com/track/02bp2Aq5cFTUfDnOYJxuuL"
     }
   ],
   "unique_name": "Chaos Anthems",

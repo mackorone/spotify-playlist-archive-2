@@ -1,6 +1,6 @@
 {
   "description": "No, el punk espa\u00f1ol NO EST\u00c1 MUERTO. Foto: Non Servium.",
-  "num_followers": 115810,
+  "num_followers": 115821,
   "original_name": "Punk Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -655,22 +655,6 @@
     {
       "added_at": "2026-05-07 22:02:22",
       "album": {
-        "name": "Vivir la Vida",
-        "url": "https://open.spotify.com/album/21LP92m9L3r5rY8zxF3uLF"
-      },
-      "artists": [
-        {
-          "name": "Kaos Et\u00edliko",
-          "url": "https://open.spotify.com/artist/5y9aHzw345UfAGA1Db5BPy"
-        }
-      ],
-      "duration_ms": 172360,
-      "name": "Vivir la Vida",
-      "url": "https://open.spotify.com/track/4CeVTya5DmyswFPaiukYJ7"
-    },
-    {
-      "added_at": "2026-05-07 22:02:22",
-      "album": {
         "name": "Cicatriz en la Matrix",
         "url": "https://open.spotify.com/album/51o67b23wyqqkYGN738zMG"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 118986,
       "name": "Tenemos a la Pasma",
       "url": "https://open.spotify.com/track/2yGO1zOQ3psTV42DxtzF85"
+    },
+    {
+      "added_at": "2026-05-07 22:02:22",
+      "album": {
+        "name": "Vivir la Vida",
+        "url": "https://open.spotify.com/album/21LP92m9L3r5rY8zxF3uLF"
+      },
+      "artists": [
+        {
+          "name": "Kaos Et\u00edliko",
+          "url": "https://open.spotify.com/artist/5y9aHzw345UfAGA1Db5BPy"
+        }
+      ],
+      "duration_ms": 172360,
+      "name": "Vivir la Vida",
+      "url": "https://open.spotify.com/track/4CeVTya5DmyswFPaiukYJ7"
     },
     {
       "added_at": "2026-05-07 22:02:22",
@@ -959,6 +959,22 @@
     {
       "added_at": "2026-05-07 22:02:22",
       "album": {
+        "name": "La Prospe",
+        "url": "https://open.spotify.com/album/2Zf0oDGiTkLe5QXidCzLi8"
+      },
+      "artists": [
+        {
+          "name": "Gautxori",
+          "url": "https://open.spotify.com/artist/0P67TAOO0GVonby7kuMdqh"
+        }
+      ],
+      "duration_ms": 122640,
+      "name": "La Prospe",
+      "url": "https://open.spotify.com/track/5YBtaF5CJ5pVUMt4z58eDN"
+    },
+    {
+      "added_at": "2026-05-07 22:02:22",
+      "album": {
         "name": "Sudapollismo Ilustrado",
         "url": "https://open.spotify.com/album/4vkp4b9gVT5Lg8E5ppkLsr"
       },
@@ -1007,22 +1023,6 @@
     {
       "added_at": "2026-05-07 22:02:22",
       "album": {
-        "name": "La Prospe",
-        "url": "https://open.spotify.com/album/2Zf0oDGiTkLe5QXidCzLi8"
-      },
-      "artists": [
-        {
-          "name": "Gautxori",
-          "url": "https://open.spotify.com/artist/0P67TAOO0GVonby7kuMdqh"
-        }
-      ],
-      "duration_ms": 122640,
-      "name": "La Prospe",
-      "url": "https://open.spotify.com/track/5YBtaF5CJ5pVUMt4z58eDN"
-    },
-    {
-      "added_at": "2026-05-07 22:02:22",
-      "album": {
         "name": "ANTIFASCISTA",
         "url": "https://open.spotify.com/album/7FxgIAAIqupAq0Nslf1VCv"
       },
@@ -1035,26 +1035,6 @@
       "duration_ms": 273052,
       "name": "ANTIFASCISTA",
       "url": "https://open.spotify.com/track/0yIxWJRf96RJds9DQ3tLG3"
-    },
-    {
-      "added_at": "2026-05-07 22:02:22",
-      "album": {
-        "name": "Ana Curra y los 13 Ap\u00f3stoles Presentan: La \u00daltima Cena de Par\u00e1lisis Permanente",
-        "url": "https://open.spotify.com/album/0COz15FUuwBr02ogUbGdJA"
-      },
-      "artists": [
-        {
-          "name": "Ana Curra",
-          "url": "https://open.spotify.com/artist/17GqenWaUzLjbkH0IKJA5m"
-        },
-        {
-          "name": "Bala",
-          "url": "https://open.spotify.com/artist/5Cqy5kUi1EY01scjbz87eJ"
-        }
-      ],
-      "duration_ms": 189493,
-      "name": "Adictos a la Lujuria - con \u00c1nxela (Bala)",
-      "url": "https://open.spotify.com/track/36aKaIj6aD2MLkBiCTT1hZ"
     },
     {
       "added_at": "2026-05-07 22:02:22",
@@ -1079,6 +1059,26 @@
       "duration_ms": 230724,
       "name": "Amaneceres",
       "url": "https://open.spotify.com/track/6gKydiml5drraNpPnAaAWb"
+    },
+    {
+      "added_at": "2026-05-07 22:02:22",
+      "album": {
+        "name": "Ana Curra y los 13 Ap\u00f3stoles Presentan: La \u00daltima Cena de Par\u00e1lisis Permanente",
+        "url": "https://open.spotify.com/album/0COz15FUuwBr02ogUbGdJA"
+      },
+      "artists": [
+        {
+          "name": "Ana Curra",
+          "url": "https://open.spotify.com/artist/17GqenWaUzLjbkH0IKJA5m"
+        },
+        {
+          "name": "Bala",
+          "url": "https://open.spotify.com/artist/5Cqy5kUi1EY01scjbz87eJ"
+        }
+      ],
+      "duration_ms": 189493,
+      "name": "Adictos a la Lujuria - con \u00c1nxela (Bala)",
+      "url": "https://open.spotify.com/track/36aKaIj6aD2MLkBiCTT1hZ"
     },
     {
       "added_at": "2026-05-07 22:02:22",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2026-05-07 22:02:22",
       "album": {
-        "name": "Toma y Calla",
-        "url": "https://open.spotify.com/album/3KPGgatu9C4itTLoZdvtRA"
-      },
-      "artists": [
-        {
-          "name": "Palazo En Las Kostillas",
-          "url": "https://open.spotify.com/artist/6RKNVlujqe5qGNzx81OVbg"
-        }
-      ],
-      "duration_ms": 163920,
-      "name": "Ibertrola",
-      "url": "https://open.spotify.com/track/5YgRL4B64QejhddfcnERqm"
-    },
-    {
-      "added_at": "2026-05-07 22:02:22",
-      "album": {
         "name": "Una y Nos Vamos (Versi\u00f3n 2024)",
         "url": "https://open.spotify.com/album/6xPQrDpm7oCRNRpJOyWkdK"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 220942,
       "name": "Una y Nos Vamos - Versi\u00f3n 2024",
       "url": "https://open.spotify.com/track/1ojM4BgQqqAMeOVhuoSaqx"
+    },
+    {
+      "added_at": "2026-05-07 22:02:22",
+      "album": {
+        "name": "Toma y Calla",
+        "url": "https://open.spotify.com/album/3KPGgatu9C4itTLoZdvtRA"
+      },
+      "artists": [
+        {
+          "name": "Palazo En Las Kostillas",
+          "url": "https://open.spotify.com/artist/6RKNVlujqe5qGNzx81OVbg"
+        }
+      ],
+      "duration_ms": 163920,
+      "name": "Ibertrola",
+      "url": "https://open.spotify.com/track/5YgRL4B64QejhddfcnERqm"
     },
     {
       "added_at": "2026-05-07 22:02:22",

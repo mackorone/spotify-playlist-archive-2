@@ -4,7 +4,7 @@
 
 > 50 найгарячіших пісень в Україні\. Обкладинка: DARA
 
-204 songs - 10 hr 15 min
+205 songs - 10 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,7 +126,7 @@
 | [Залишайся](https://open.spotify.com/track/4TGTna6ft6UaFobFf1FcHK) | [Boombox](https://open.spotify.com/artist/2c3PFZtun8HemDbDfRPV6G) | [Живий](https://open.spotify.com/album/3QRFj9rOsprsmXz7fOWgTQ) | 3:52 | 2026-05-14 |  |
 | [ЗВ'ЯЗОК](https://open.spotify.com/track/5151tSCaX6klN5wcC3wPkf) | [MamaRika](https://open.spotify.com/artist/6N2neiZftq16Phw99zxLDS) | [ЗВ'ЯЗОК](https://open.spotify.com/album/3u2uYEE3stbH7w5SLNcZ2j) | 2:44 | 2025-04-10 |  |
 | [Знайди мене](https://open.spotify.com/track/2xmQMKTjiOdkdGVgqDzezo) | [Klavdia Petrivna](https://open.spotify.com/artist/5BwbVAdT6rFF2vGVE8su2y) | [Бережи мене](https://open.spotify.com/album/7re2czLU735n5zlY6uGRBb) | 2:30 | 2024-06-27 | 2025-08-22 |
-| [Зупини її](https://open.spotify.com/track/74B82JctlL09EYkeTEqhtG) | [Nikow](https://open.spotify.com/artist/1ewZuAmm3Em0KlM0pIBwVe) | [Сонь, ти спиш?](https://open.spotify.com/album/5SOprLKOOiyW248WNOnf9d) | 2:37 | 2025-12-01 |  |
+| [Зупини її](https://open.spotify.com/track/74B82JctlL09EYkeTEqhtG) | [Nikow](https://open.spotify.com/artist/1ewZuAmm3Em0KlM0pIBwVe) | [Сонь, ти спиш?](https://open.spotify.com/album/5SOprLKOOiyW248WNOnf9d) | 2:37 | 2025-12-01 | 2026-05-26 |
 | [Зцапала\-злапала](https://open.spotify.com/track/2dopO0qCoX7qoTbIriIf3q) | [Boombox](https://open.spotify.com/artist/2c3PFZtun8HemDbDfRPV6G) | [Family бізнес](https://open.spotify.com/album/3m2nS5L5E0DGr4yQDukEEY) | 3:23 | 2025-03-10 |  |
 | [Зірочка палай](https://open.spotify.com/track/4J7GqAqdOfYrcOKJIp4m8U) | [Анна Трінчер](https://open.spotify.com/artist/71Lczal1i7u1Emcp0UfY9E) | [Зірочка палай](https://open.spotify.com/album/0Q3gO9yOWmX5yrGf1DrVHe) | 2:08 | 2025-04-14 |  |
 | [Касета](https://open.spotify.com/track/4MQmxIxM5CXKjdq4IrCWhd) | [SadSvit](https://open.spotify.com/artist/2ojY7fXJxZQhg8Rx5e8h9G) | [Cassette](https://open.spotify.com/album/0Wn5sHYtC7vPPX0n2AVJmF) | 2:24 | 2024-12-12 | 2026-04-28 |
@@ -182,6 +182,7 @@
 | [Смарагдове небо](https://open.spotify.com/track/29qDVTQqe4jWIiPzQcQOev) | [Drevo](https://open.spotify.com/artist/2FbcO51yLIYdfqIQXocwVg) | [Смарагдове небо](https://open.spotify.com/album/1rKN15if8zlJbuBVyKb6fw) | 3:06 | 2025-05-26 |  |
 | [СНІГ](https://open.spotify.com/track/7jsPtPItlDphgbk6eo7VUn) | [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr) | [СНІГ](https://open.spotify.com/album/1fz1Cjx3zu6ehoF1Y8NNjs) | 3:26 | 2024-12-30 | 2025-03-14 |
 | [Спалахи](https://open.spotify.com/track/6sVoLpo3i7p2WCaU3bpvpF) | [POSITIFF](https://open.spotify.com/artist/3f7zhsCueKsjZbwOkoTsME) | [Спалахи](https://open.spotify.com/album/4DgFv3Bs9zX3QhK7iaKD1d) | 2:11 | 2024-06-27 | 2024-12-13 |
+| [спокуслива](https://open.spotify.com/track/68KvH33avv12vQopmu3EdG) | [Nikow](https://open.spotify.com/artist/1ewZuAmm3Em0KlM0pIBwVe) | [спокуслива](https://open.spotify.com/album/2ylnLPDS2p7uuX4bJg1wFT) | 2:22 | 2026-05-25 |  |
 | [Стерва](https://open.spotify.com/track/0EFwdcg2SJjINoW2wPLANa) | [Tina Karol](https://open.spotify.com/artist/0W3C8tSz8ERP2t37m6Ru6r), [SHUMEI](https://open.spotify.com/artist/1BtGSVQey2HyYbFiw8O1mz) | [ТРОЯНДИ](https://open.spotify.com/album/1FhzXPtyqJbf59X5vreUig) | 3:03 | 2024-06-27 | 2024-10-04 |
 | [Схожі](https://open.spotify.com/track/2sK5Kc4hRLm53oUu1wIsIu) | [Lida Lee](https://open.spotify.com/artist/0YwrOhohoMLyIKD9OvUIuy) | [Схожі](https://open.spotify.com/album/76ID1R9c35UKtIbf78ljbG) | 2:13 | 2026-01-15 | 2026-02-13 |
 | [Таку як є](https://open.spotify.com/track/64vbnvKJMPgLHBkvLjKQao) | [Adam](https://open.spotify.com/artist/19JYV5zLhGkyqClNjdSfdb) | [Чюзмюз](https://open.spotify.com/album/51JgUGWfAX3Ny4h7P1YIwx) | 3:10 | 2025-12-11 |  |

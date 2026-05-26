@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5uUVyS9PTP8pXBi5nuwLZP.md) - [plain]
 
 > Some favorites across multiple genres\. Songs distributed by DistroKid, playlist curated by the public\. To vote, head to: distrokid.com/spotlight
 
-[DistroKid](https://open.spotify.com/user/bxv6myddmviz546hlcxia9t5g) - 574,716 likes - 82 songs - 5 hr 20 min
+[DistroKid](https://open.spotify.com/user/bxv6myddmviz546hlcxia9t5g) - 574,922 likes - 82 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/5uUVyS9PTP8pXBi5nuwLZP.md) - [plain]
 | 22 | [Capitan Cane](https://open.spotify.com/track/53Z7HYbcZYEeVSZmNiikH3) | [Vez&Peak](https://open.spotify.com/artist/0qAfpZQ5kvNyGIt9oTwYxY) | [Capitan Cane](https://open.spotify.com/album/1KGUkSfJFwOfbl9Zo4DQXd) | 2:30 |
 | 23 | [Where the Sun Don't Shine](https://open.spotify.com/track/54Lhf5loSqdjnhKUGOoGWZ) | [DEKAII SOUL](https://open.spotify.com/artist/4Hb3s8ZwiSc11BZOs2C99p) | [MA](https://open.spotify.com/album/3OXyOt1n0VZ6o3svtWze7x) | 3:21 |
 | 24 | [Saturday Clothes](https://open.spotify.com/track/0LtKI1u0h4x9U4O9R9Bqy7) | [Pollen Jesus](https://open.spotify.com/artist/3iAK7jQmqmvxcWO6ZYnu05) | [Saturday Clothes](https://open.spotify.com/album/0FlvSqTnmU3WjODa50lvDc) | 3:28 |
-| 25 | [The Daughters March](https://open.spotify.com/track/2kLQYYe3Xf4pnnZ7QJZev9) | [Som Futuro](https://open.spotify.com/artist/2w367VqkBXNgoZ08WRDngd) | [Salt In The Crown](https://open.spotify.com/album/1YK0bwrDu29Ck4sJ4Ht0LF) | 2:52 |
+| 25 | [The Daughters March](https://open.spotify.com/track/2kLQYYe3Xf4pnnZ7QJZev9) | [Som Futuro Folk](https://open.spotify.com/artist/46KBoxirIQP5wOd4lXMsee) | [Salt In The Crown](https://open.spotify.com/album/1YK0bwrDu29Ck4sJ4Ht0LF) | 2:52 |
 | 26 | [Perfect Day Wasted](https://open.spotify.com/track/3inMRTXDYs3xvySC2NyuHz) | [Carl Hashmi](https://open.spotify.com/artist/4UPwdOduHmyagyphA2fIVA) | [Perfect Day Wasted](https://open.spotify.com/album/0H2yjfvwI9KDw2XgLA9mAY) | 2:42 |
 | 27 | [Je vous écris madame](https://open.spotify.com/track/3K5rSVCuZsXXavxGcp17E3) | [RECIF](https://open.spotify.com/artist/0ZW2BWkHjDoMhAIlberBhs) | [1000 Vies l'EP](https://open.spotify.com/album/1ID6kykhPUtWveeOXoxOi0) | 3:07 |
 | 28 | [Sexy Love \- Move Your Body Mix](https://open.spotify.com/track/4ypxE7r6VAsAAMiJ5W15T6) | [DJ DANIEL B](https://open.spotify.com/artist/0zRCOx3MKV8nupoUEtISGp) | [Sexy Love](https://open.spotify.com/album/7AE7h3XD4CBd831xPGA9MT) | 3:52 |

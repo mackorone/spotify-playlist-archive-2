@@ -1,6 +1,6 @@
 {
   "description": "Un \u00edcono que marc\u00f3 la m\u00fasica para siempre, gracias Willie Col\u00f3n. \ud83d\udd4a\ufe0f",
-  "num_followers": 1879271,
+  "num_followers": 1879288,
   "original_name": "Salsa Nation",
   "owner": {
     "name": "Spotify",
@@ -143,6 +143,22 @@
     {
       "added_at": "2026-05-08 04:03:11",
       "album": {
+        "name": "Aqui No Se Sienta Nadie!",
+        "url": "https://open.spotify.com/album/18m4lag970uk1AMSvaUZmg"
+      },
+      "artists": [
+        {
+          "name": "El Gran Combo De Puerto Rico",
+          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
+        }
+      ],
+      "duration_ms": 205813,
+      "name": "Brujeria",
+      "url": "https://open.spotify.com/track/0k1hbeZodoEw34FAdbh8xM"
+    },
+    {
+      "added_at": "2026-05-08 04:03:11",
+      "album": {
         "name": "CAMBIAR\u00c9",
         "url": "https://open.spotify.com/album/6ZXLMVFtEzgYNQlbUMlzAU"
       },
@@ -159,22 +175,6 @@
       "duration_ms": 181237,
       "name": "CAMBIAR\u00c9",
       "url": "https://open.spotify.com/track/0DHkA97Q6SWz7uanmsCy8u"
-    },
-    {
-      "added_at": "2026-05-08 04:03:11",
-      "album": {
-        "name": "Aqui No Se Sienta Nadie!",
-        "url": "https://open.spotify.com/album/18m4lag970uk1AMSvaUZmg"
-      },
-      "artists": [
-        {
-          "name": "El Gran Combo De Puerto Rico",
-          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
-        }
-      ],
-      "duration_ms": 205813,
-      "name": "Brujeria",
-      "url": "https://open.spotify.com/track/0k1hbeZodoEw34FAdbh8xM"
     },
     {
       "added_at": "2026-05-08 04:03:11",
@@ -363,22 +363,6 @@
     {
       "added_at": "2026-05-08 04:03:11",
       "album": {
-        "name": "El Sonero Quel El Pueblo Prefiere",
-        "url": "https://open.spotify.com/album/4UCOrGLB3LoRAeHPWA4O3G"
-      },
-      "artists": [
-        {
-          "name": "Raulin Rosendo",
-          "url": "https://open.spotify.com/artist/4pYTSh5LpqCVVSejQ4v6AF"
-        }
-      ],
-      "duration_ms": 332493,
-      "name": "Uno Se Cura",
-      "url": "https://open.spotify.com/track/2jIeTDKCMcpyEzR3KCnIfW"
-    },
-    {
-      "added_at": "2026-05-08 04:03:11",
-      "album": {
         "name": "32 Ca\u00f1onazos",
         "url": "https://open.spotify.com/album/6ubTK1qVLWQSblspjFxtZn"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 312480,
       "name": "En Barranquilla Me Quedo",
       "url": "https://open.spotify.com/track/3WXfQDsASfXrSojk9WB3aR"
+    },
+    {
+      "added_at": "2026-05-08 04:03:11",
+      "album": {
+        "name": "El Sonero Quel El Pueblo Prefiere",
+        "url": "https://open.spotify.com/album/4UCOrGLB3LoRAeHPWA4O3G"
+      },
+      "artists": [
+        {
+          "name": "Raulin Rosendo",
+          "url": "https://open.spotify.com/artist/4pYTSh5LpqCVVSejQ4v6AF"
+        }
+      ],
+      "duration_ms": 332493,
+      "name": "Uno Se Cura",
+      "url": "https://open.spotify.com/track/2jIeTDKCMcpyEzR3KCnIfW"
     },
     {
       "added_at": "2026-05-08 04:03:11",
@@ -563,26 +563,6 @@
     {
       "added_at": "2026-05-08 04:03:11",
       "album": {
-        "name": "F.A.M.E.",
-        "url": "https://open.spotify.com/album/6MoaDh76Fsg0ogW2l7HAFx"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        },
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 242319,
-      "name": "Felices los 4 (feat. Marc Anthony) - Salsa Version",
-      "url": "https://open.spotify.com/track/6PNG5G1v7pU74I13KkvAIo"
-    },
-    {
-      "added_at": "2026-05-08 04:03:11",
-      "album": {
         "name": "Grandes Exitos",
         "url": "https://open.spotify.com/album/20o8eVLMPNGaa5Lp5W2a51"
       },
@@ -599,6 +579,26 @@
       "duration_ms": 287893,
       "name": "Rebeli\u00f3n",
       "url": "https://open.spotify.com/track/3v32VtMTRZbIQJUFsQpeJD"
+    },
+    {
+      "added_at": "2026-05-08 04:03:11",
+      "album": {
+        "name": "F.A.M.E.",
+        "url": "https://open.spotify.com/album/6MoaDh76Fsg0ogW2l7HAFx"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 242319,
+      "name": "Felices los 4 (feat. Marc Anthony) - Salsa Version",
+      "url": "https://open.spotify.com/track/6PNG5G1v7pU74I13KkvAIo"
     },
     {
       "added_at": "2026-05-08 04:03:11",
@@ -659,6 +659,22 @@
     {
       "added_at": "2026-05-08 04:03:11",
       "album": {
+        "name": "Pare Cochero",
+        "url": "https://open.spotify.com/album/1tABZ6rAzFtf9fizgXslIU"
+      },
+      "artists": [
+        {
+          "name": "La Gloria Matancera",
+          "url": "https://open.spotify.com/artist/4dCNiyQXmtiWA157q3uFyj"
+        }
+      ],
+      "duration_ms": 217773,
+      "name": "Con la Punta del Pie",
+      "url": "https://open.spotify.com/track/4rt2zpNhFBayp948Pi6liZ"
+    },
+    {
+      "added_at": "2026-05-08 04:03:11",
+      "album": {
         "name": "La F\u00f3rmula",
         "url": "https://open.spotify.com/album/5BMotNmzFRoGABaWM6YFI2"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 267016,
       "name": "La F\u00f3rmula",
       "url": "https://open.spotify.com/track/5Fh9fyHRnSwKLo4asG6fEX"
-    },
-    {
-      "added_at": "2026-05-08 04:03:11",
-      "album": {
-        "name": "Pare Cochero",
-        "url": "https://open.spotify.com/album/1tABZ6rAzFtf9fizgXslIU"
-      },
-      "artists": [
-        {
-          "name": "La Gloria Matancera",
-          "url": "https://open.spotify.com/artist/4dCNiyQXmtiWA157q3uFyj"
-        }
-      ],
-      "duration_ms": 217773,
-      "name": "Con la Punta del Pie",
-      "url": "https://open.spotify.com/track/4rt2zpNhFBayp948Pi6liZ"
     },
     {
       "added_at": "2026-05-08 04:03:11",
@@ -987,6 +987,22 @@
     {
       "added_at": "2026-05-08 04:03:11",
       "album": {
+        "name": "Pa'lante",
+        "url": "https://open.spotify.com/album/5iphNcNTNLbwxGKmEnlVu3"
+      },
+      "artists": [
+        {
+          "name": "Willy Chirino",
+          "url": "https://open.spotify.com/artist/4dvonCK12HCv1UUryzRppO"
+        }
+      ],
+      "duration_ms": 258933,
+      "name": "Los Campeones De La Salsa",
+      "url": "https://open.spotify.com/track/4Ii4Fk8ylnGcPn0zQ8WIdB"
+    },
+    {
+      "added_at": "2026-05-08 04:03:11",
+      "album": {
         "name": "La Tierra del Olvido (Versi\u00f3n Salsa)",
         "url": "https://open.spotify.com/album/7i5VBSsrtK8bD7QAkMmFMx"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 262641,
       "name": "La Tierra del Olvido - Versi\u00f3n Salsa",
       "url": "https://open.spotify.com/track/1GyiVfgqFkIlGkN0FDnJJQ"
-    },
-    {
-      "added_at": "2026-05-08 04:03:11",
-      "album": {
-        "name": "Pa'lante",
-        "url": "https://open.spotify.com/album/5iphNcNTNLbwxGKmEnlVu3"
-      },
-      "artists": [
-        {
-          "name": "Willy Chirino",
-          "url": "https://open.spotify.com/artist/4dvonCK12HCv1UUryzRppO"
-        }
-      ],
-      "duration_ms": 258933,
-      "name": "Los Campeones De La Salsa",
-      "url": "https://open.spotify.com/track/4Ii4Fk8ylnGcPn0zQ8WIdB"
     },
     {
       "added_at": "2026-05-08 04:03:11",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2026-05-08 04:03:11",
       "album": {
+        "name": "Leyendas: Salsa Rom\u00e1ntica",
+        "url": "https://open.spotify.com/album/7bbQ7eKGlor2Bz8R3gHN2X"
+      },
+      "artists": [
+        {
+          "name": "Jerry Rivera",
+          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
+        }
+      ],
+      "duration_ms": 304533,
+      "name": "Cuenta Conmigo",
+      "url": "https://open.spotify.com/track/27Xz47Suj0sTwK933U7GdT"
+    },
+    {
+      "added_at": "2026-05-08 04:03:11",
+      "album": {
         "name": "Para Siempre (Salsa Version)",
         "url": "https://open.spotify.com/album/1lWsVWyrhSDvw4YGO00qC8"
       },
@@ -1291,22 +1307,6 @@
       "duration_ms": 269720,
       "name": "Para Siempre - Salsa Version",
       "url": "https://open.spotify.com/track/19vnwyhSF3mVIgF6b3wEw1"
-    },
-    {
-      "added_at": "2026-05-08 04:03:11",
-      "album": {
-        "name": "Leyendas: Salsa Rom\u00e1ntica",
-        "url": "https://open.spotify.com/album/7bbQ7eKGlor2Bz8R3gHN2X"
-      },
-      "artists": [
-        {
-          "name": "Jerry Rivera",
-          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
-        }
-      ],
-      "duration_ms": 304533,
-      "name": "Cuenta Conmigo",
-      "url": "https://open.spotify.com/track/27Xz47Suj0sTwK933U7GdT"
     },
     {
       "added_at": "2026-05-08 04:03:11",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2026-05-08 04:03:11",
       "album": {
-        "name": "GRIS",
-        "url": "https://open.spotify.com/album/7gQT5v5aHRnoHJ7Py2h25f"
-      },
-      "artists": [
-        {
-          "name": "Luis Figueroa",
-          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
-        }
-      ],
-      "duration_ms": 239106,
-      "name": "C\u00f3mo Se Compara",
-      "url": "https://open.spotify.com/track/0NsJ0CkYwNzgKXKWv8ErKd"
-    },
-    {
-      "added_at": "2026-05-08 04:03:11",
-      "album": {
         "name": "LVEU: VIVE LA TUYA...NO LA MIA",
         "url": "https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2"
       },
@@ -1595,22 +1579,18 @@
     {
       "added_at": "2026-05-08 04:03:11",
       "album": {
-        "name": "Lo Esencial",
-        "url": "https://open.spotify.com/album/0xgbPkhH5Hvuqa0hBGjpj3"
+        "name": "GRIS",
+        "url": "https://open.spotify.com/album/7gQT5v5aHRnoHJ7Py2h25f"
       },
       "artists": [
         {
-          "name": "Huey Dunbar",
-          "url": "https://open.spotify.com/artist/6fhCq41xOJnMGIvFd13Oft"
-        },
-        {
-          "name": "Eddie Santiago",
-          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
+          "name": "Luis Figueroa",
+          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
         }
       ],
-      "duration_ms": 296240,
-      "name": "Que Locura Enamorarme De Ti (feat. Eddie Santiago)",
-      "url": "https://open.spotify.com/track/2UN8K1VKiiKiEimbxa7Fpv"
+      "duration_ms": 239106,
+      "name": "C\u00f3mo Se Compara",
+      "url": "https://open.spotify.com/track/0NsJ0CkYwNzgKXKWv8ErKd"
     },
     {
       "added_at": "2026-05-08 04:03:11",
@@ -1631,6 +1611,26 @@
       "duration_ms": 216626,
       "name": "Mira - Versi\u00f3n Salsa",
       "url": "https://open.spotify.com/track/4nYuL6R1SuWAOJRwAWasct"
+    },
+    {
+      "added_at": "2026-05-08 04:03:11",
+      "album": {
+        "name": "Lo Esencial",
+        "url": "https://open.spotify.com/album/0xgbPkhH5Hvuqa0hBGjpj3"
+      },
+      "artists": [
+        {
+          "name": "Huey Dunbar",
+          "url": "https://open.spotify.com/artist/6fhCq41xOJnMGIvFd13Oft"
+        },
+        {
+          "name": "Eddie Santiago",
+          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
+        }
+      ],
+      "duration_ms": 296240,
+      "name": "Que Locura Enamorarme De Ti (feat. Eddie Santiago)",
+      "url": "https://open.spotify.com/track/2UN8K1VKiiKiEimbxa7Fpv"
     },
     {
       "added_at": "2026-05-08 04:03:11",
@@ -1687,6 +1687,22 @@
     {
       "added_at": "2026-05-08 04:03:11",
       "album": {
+        "name": "Soy La Candela",
+        "url": "https://open.spotify.com/album/7yx4SxwUnCKxIecRpCGkR5"
+      },
+      "artists": [
+        {
+          "name": "Edwin Bonilla",
+          "url": "https://open.spotify.com/artist/2bf5VxFC3tr25BxumNDQxM"
+        }
+      ],
+      "duration_ms": 341760,
+      "name": "Cuenta Bien",
+      "url": "https://open.spotify.com/track/5uAUdYqKxwofLV0p47ED5Y"
+    },
+    {
+      "added_at": "2026-05-08 04:03:11",
+      "album": {
         "name": "Como Olvidarte",
         "url": "https://open.spotify.com/album/32uPouQihQTzUcgZCPXJY9"
       },
@@ -1703,22 +1719,6 @@
       "duration_ms": 188078,
       "name": "Como Olvidarte",
       "url": "https://open.spotify.com/track/4BqXG8Al1bDML9J8Ywapt7"
-    },
-    {
-      "added_at": "2026-05-08 04:03:11",
-      "album": {
-        "name": "Soy La Candela",
-        "url": "https://open.spotify.com/album/7yx4SxwUnCKxIecRpCGkR5"
-      },
-      "artists": [
-        {
-          "name": "Edwin Bonilla",
-          "url": "https://open.spotify.com/artist/2bf5VxFC3tr25BxumNDQxM"
-        }
-      ],
-      "duration_ms": 341760,
-      "name": "Cuenta Bien",
-      "url": "https://open.spotify.com/track/5uAUdYqKxwofLV0p47ED5Y"
     },
     {
       "added_at": "2026-05-08 04:03:11",

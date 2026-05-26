@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2w6SaJ.md) - [plain]
 
 > This is Crazy Town\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,495 likes - 39 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,496 likes - 39 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,9 +33,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2w6SaJ.md) - [plain]
 | 23 | [Baby You Don't Know](https://open.spotify.com/track/347222YpEP2tSehBnN8b3T) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se), [Fann](https://open.spotify.com/artist/45R5D1DlUbEW43Q1OHA3ft) | [The Brimstone Sluggers](https://open.spotify.com/album/39d86x9uCuHaMr8kt9uxAp) | 3:09 |
 | 24 | [Tattoo Dreams](https://open.spotify.com/track/2TMiO4a3idv2vBOpIa7AQ3) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [The Harvest](https://open.spotify.com/album/3yPR90KJOLOvnWqoQHsmAH) | 3:31 |
 | 25 | [Leeches](https://open.spotify.com/track/54wyAgc6pQzXTBOjgN38vg) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se), [Ray Garrison](https://open.spotify.com/artist/5fGAVtBGeVBBMSmQCF9Q64) | [Leeches](https://open.spotify.com/album/57CQYU02aEtsqazAwDllv7) | 3:32 |
-| 26 | [Trigger Happy](https://open.spotify.com/track/5cpCqwZTCBJtqoRVFDCMjb) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [Flirting With Disaster](https://open.spotify.com/album/7BnOxkZFFS8gT83TTmLhcC) | 3:01 |
+| 26 | [Decorated](https://open.spotify.com/track/04jBnYdyN86CGnQjh9OJ8t) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [darkhorse](https://open.spotify.com/album/6sVanbHiwxboqqELYWIk3b) | 3:06 |
 | 27 | [A Little More Time](https://open.spotify.com/track/5uu3JPIIjqRL6Z2Dvmq8qn) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se), [Koko LaRoo](https://open.spotify.com/artist/4ldIyz6hptVfXelMQcdae2) | [The Brimstone Sluggers](https://open.spotify.com/album/39d86x9uCuHaMr8kt9uxAp) | 3:39 |
-| 28 | [Decorated](https://open.spotify.com/track/04jBnYdyN86CGnQjh9OJ8t) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [darkhorse](https://open.spotify.com/album/6sVanbHiwxboqqELYWIk3b) | 3:06 |
+| 28 | [Trigger Happy](https://open.spotify.com/track/5cpCqwZTCBJtqoRVFDCMjb) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [Flirting With Disaster](https://open.spotify.com/album/7BnOxkZFFS8gT83TTmLhcC) | 3:01 |
 | 29 | [Deja Vu](https://open.spotify.com/track/1R5VItfeA25A8TeUDb5QZY) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [Drowning](https://open.spotify.com/album/0XmL70HMqx3x1BezPYxogJ) | 2:38 |
 | 30 | [Fly Away](https://open.spotify.com/track/7np2dkTK85z7i6GPjimhNO) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se), [Tanner Alexander](https://open.spotify.com/artist/41lO2rd2y2DXgZfoZ85MgP) | [Fly Away](https://open.spotify.com/album/3Je2lBhHDy2fokqXDJjjyN) | 3:47 |
 | 31 | [Come Inside](https://open.spotify.com/track/2JiR5ZnuHagOzZHSKfmpqk) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [The Brimstone Sluggers](https://open.spotify.com/album/39d86x9uCuHaMr8kt9uxAp) | 3:18 |
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2w6SaJ.md) - [plain]
 | 38 | [Take It To The Bridge](https://open.spotify.com/track/51pnpNaAkB5YWAXZhsW3Fh) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [darkhorse](https://open.spotify.com/album/6sVanbHiwxboqqELYWIk3b) | 3:16 |
 | 39 | [Beautiful](https://open.spotify.com/track/2irE2loA3ZcWIcBDUdmyID) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [darkhorse](https://open.spotify.com/album/6sVanbHiwxboqqELYWIk3b) | 3:16 |
 
-Snapshot ID: `ahDuAAAAAAC6NrY0gPjCvcTmskqIzumJ`
+Snapshot ID: `ahI/gAAAAAB8jSowFoBvhO3D90sJZwzr`

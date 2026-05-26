@@ -1,12 +1,12 @@
 {
   "description": "This is Ingrid Andress. The essential tracks, all in one playlist.",
-  "num_followers": 9237,
+  "num_followers": 9238,
   "original_name": "This Is Ingrid Andress",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahDuAAAAAAAWXb8xjnWTz3WTB7DaGYFs",
+  "snapshot_id": "ahI/gAAAAAAoVx/WSjyP5kOH1kXB84ni",
   "tracks": [
     {
       "added_at": null,
@@ -131,6 +131,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "All The Best",
+        "url": "https://open.spotify.com/album/2Hrp51zwvCVyTTyGXlPUKH"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        }
+      ],
+      "duration_ms": 198340,
+      "name": "All The Best",
+      "url": "https://open.spotify.com/track/4vZa4UhA0s6nHzoC2CavxY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Taillights",
         "url": "https://open.spotify.com/album/3TwRph25WYSUaoYqhedZ9g"
       },
@@ -143,22 +159,6 @@
       "duration_ms": 179551,
       "name": "Taillights",
       "url": "https://open.spotify.com/track/38vArX5IoSoYL9r2lkn0P5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3Teo9qaJ93m4gDLmmAH7GS"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Andress",
-          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
-        }
-      ],
-      "duration_ms": 191444,
-      "name": "Don't Start Now",
-      "url": "https://open.spotify.com/track/4RftloQV6tARnLrBuXKzMr"
     },
     {
       "added_at": null,
@@ -179,6 +179,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3Teo9qaJ93m4gDLmmAH7GS"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        }
+      ],
+      "duration_ms": 191444,
+      "name": "Don't Start Now",
+      "url": "https://open.spotify.com/track/4RftloQV6tARnLrBuXKzMr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Now I Know",
         "url": "https://open.spotify.com/album/4I5Ed6aPOc9hruSfmYjK6a"
       },
@@ -191,22 +207,6 @@
       "duration_ms": 211925,
       "name": "Now I Know",
       "url": "https://open.spotify.com/track/7HMn8iu3nnEUTmmQkklQ0c"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "All The Best",
-        "url": "https://open.spotify.com/album/2Hrp51zwvCVyTTyGXlPUKH"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Andress",
-          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
-        }
-      ],
-      "duration_ms": 198340,
-      "name": "All The Best",
-      "url": "https://open.spotify.com/track/4vZa4UhA0s6nHzoC2CavxY"
     },
     {
       "added_at": null,

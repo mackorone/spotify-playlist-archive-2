@@ -15635,6 +15635,32 @@
     },
     {
       "album": {
+        "name": "Hellallallo (From \"Peddi\") [KANNADA]",
+        "url": "https://open.spotify.com/album/2pFADLJunl7Bsc82xeCG4a"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Rakshita Suresh",
+          "url": "https://open.spotify.com/artist/76Z6SMQPibr8qI24AhdvbJ"
+        },
+        {
+          "name": "Varadaraj Chikkaballapura",
+          "url": "https://open.spotify.com/artist/26UIfqGxK7O4AV0cDkN5uo"
+        }
+      ],
+      "date_added": "2026-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228048,
+      "name": "Hellallallo (From \"Peddi\") [KANNADA]",
+      "url": "https://open.spotify.com/track/5xKA3HFZ0UTKFJ1zxGJrby"
+    },
+    {
+      "album": {
         "name": "Kaadaadi (Kannada)",
         "url": "https://open.spotify.com/album/4gyWCcJQBXuSAp0dVijaw1"
       },
@@ -16676,7 +16702,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 253677,
       "name": "Hoovina",
       "url": "https://open.spotify.com/track/4tBcWtckdZbsOyHq3tU0LI"
@@ -18838,6 +18864,32 @@
       "duration_ms": 262512,
       "name": "Jahapanah (from \"Sugar Factory\")",
       "url": "https://open.spotify.com/track/1hIToKt93BWgWbrR8dzfHi"
+    },
+    {
+      "album": {
+        "name": "Jai Anjaneya (From \"Shrimathi Sindhoora\")",
+        "url": "https://open.spotify.com/album/6MMetR1fuZK5fq7ZBsDJ6Y"
+      },
+      "artists": [
+        {
+          "name": "Rajesh Ramnath",
+          "url": "https://open.spotify.com/artist/16LPsxS42glKWRU6GVoaTC"
+        },
+        {
+          "name": "Manjunath Kabse",
+          "url": "https://open.spotify.com/artist/7MzhpWShPEDbNVNwMr5QJv"
+        },
+        {
+          "name": "Kailash Kher",
+          "url": "https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4"
+        }
+      ],
+      "date_added": "2026-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 386078,
+      "name": "Jai Anjaneya (From \"Shrimathi Sindhoora\")",
+      "url": "https://open.spotify.com/track/46AI3mUgYzB2ym6es1wZ8S"
     },
     {
       "album": {
@@ -41628,7 +41680,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 272000,
       "name": "Siddayya Swamy (From \"The Rise Of Ashoka - Kannada\")",
       "url": "https://open.spotify.com/track/2hqggQy0jisTdJyUBcWZic"

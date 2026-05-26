@@ -1,6 +1,6 @@
 {
   "description": "\uc0c8\ubcbd \uac10\uc131. Issa Vibe.",
-  "num_followers": 147184,
+  "num_followers": 147180,
   "original_name": "4:00 AM GROOVE",
   "owner": {
     "name": "Spotify",
@@ -723,6 +723,22 @@
     {
       "added_at": "2026-04-01 10:59:09",
       "album": {
+        "name": "Shin Ji Hoon 1st Album 'Stars and Memories and Poetry'",
+        "url": "https://open.spotify.com/album/6ow1N25ns0kjoNm9S32BuJ"
+      },
+      "artists": [
+        {
+          "name": "Shin Ji Hoon",
+          "url": "https://open.spotify.com/artist/0RpcAXbMHCcEEurjyHvuyg"
+        }
+      ],
+      "duration_ms": 264720,
+      "name": "The Night\u2019s Window",
+      "url": "https://open.spotify.com/track/2d2o64u52bqWpICVM7s4e2"
+    },
+    {
+      "added_at": "2026-04-01 10:59:09",
+      "album": {
         "name": "stars burn out",
         "url": "https://open.spotify.com/album/7zR88DU7qfwRM8LujvL4EZ"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 215852,
       "name": "stars burn out",
       "url": "https://open.spotify.com/track/2SZkuX2KgTCugNYcKCoEqH"
-    },
-    {
-      "added_at": "2026-04-01 10:59:09",
-      "album": {
-        "name": "Shin Ji Hoon 1st Album 'Stars and Memories and Poetry'",
-        "url": "https://open.spotify.com/album/6ow1N25ns0kjoNm9S32BuJ"
-      },
-      "artists": [
-        {
-          "name": "Shin Ji Hoon",
-          "url": "https://open.spotify.com/artist/0RpcAXbMHCcEEurjyHvuyg"
-        }
-      ],
-      "duration_ms": 264720,
-      "name": "The Night\u2019s Window",
-      "url": "https://open.spotify.com/track/2d2o64u52bqWpICVM7s4e2"
     },
     {
       "added_at": "2026-04-01 10:59:09",

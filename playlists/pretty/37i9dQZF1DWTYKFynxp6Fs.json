@@ -1,12 +1,12 @@
 {
   "description": "Every song that's Trending NOW from Malayalam! \nCover: Vaazha 2",
-  "num_followers": 680752,
+  "num_followers": 681377,
   "original_name": "Trending Now Malayalam",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFLBDzVhh9no8d/OnOarKKSfe/rT",
+  "snapshot_id": "AAAAANUqXB6Qch+1ERxJMMwpKCwom8V3",
   "tracks": [
     {
       "added_at": "2026-04-27 08:02:00",
@@ -115,6 +115,34 @@
       "duration_ms": 244571,
       "name": "Koodappirannor",
       "url": "https://open.spotify.com/track/4zeA83WTPlKCkag4utanxx"
+    },
+    {
+      "added_at": "2026-05-25 06:53:57",
+      "album": {
+        "name": "Elelam Kili - Malayalam",
+        "url": "https://open.spotify.com/album/3bIXSdeuRCcQ8QFIalr6Xn"
+      },
+      "artists": [
+        {
+          "name": "Project Malabaricus",
+          "url": "https://open.spotify.com/artist/68cQOO7OM5QMcokboxwp1l"
+        },
+        {
+          "name": "B.K. Harinarayanan",
+          "url": "https://open.spotify.com/artist/2NwWBme8V5okH9vQWrNxAV"
+        },
+        {
+          "name": "Sithara Krishnakumar",
+          "url": "https://open.spotify.com/artist/6fvMFyB3RMPEyKyLJAS79c"
+        },
+        {
+          "name": "Gana Vimala",
+          "url": "https://open.spotify.com/artist/6dIbB2yuIeQ9pHCPWn522k"
+        }
+      ],
+      "duration_ms": 343111,
+      "name": "Elelam Kili - Malayalam",
+      "url": "https://open.spotify.com/track/3EwVRpzsoeXQeAZCTXkoSr"
     },
     {
       "added_at": "2026-04-17 11:39:21",
@@ -247,26 +275,6 @@
       "duration_ms": 174315,
       "name": "Akale",
       "url": "https://open.spotify.com/track/7sNZfck5oFf1Rt1e8MCVIa"
-    },
-    {
-      "added_at": "2026-03-31 05:14:52",
-      "album": {
-        "name": "Chorkk",
-        "url": "https://open.spotify.com/album/6xxH1kXfHyT0qVjWMYUCu9"
-      },
-      "artists": [
-        {
-          "name": "MBL_",
-          "url": "https://open.spotify.com/artist/2O4n1UEgFiUF7nRYOH114z"
-        },
-        {
-          "name": "ABRAW",
-          "url": "https://open.spotify.com/artist/2MAFVN4H9fnFcLlPYb1T6L"
-        }
-      ],
-      "duration_ms": 207499,
-      "name": "Chorkk",
-      "url": "https://open.spotify.com/track/683W4wM6HZ3OLMk6z0wh9V"
     },
     {
       "added_at": "2026-02-09 06:30:29",

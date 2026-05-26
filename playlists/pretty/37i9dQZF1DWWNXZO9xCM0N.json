@@ -1,6 +1,6 @@
 {
   "description": "Para subir la temperatura. Foto: Lebr\u00f3n Brothers",
-  "num_followers": 124264,
+  "num_followers": 124308,
   "original_name": "Salsa Brava",
   "owner": {
     "name": "Spotify",
@@ -419,22 +419,6 @@
     {
       "added_at": "2024-06-24 22:23:31",
       "album": {
-        "name": "Determination",
-        "url": "https://open.spotify.com/album/3mK3WV1mMPficcGR6WmhCK"
-      },
-      "artists": [
-        {
-          "name": "Sonora Ponce\u00f1a",
-          "url": "https://open.spotify.com/artist/39qcQ01yJQbaMje70kIiFa"
-        }
-      ],
-      "duration_ms": 383533,
-      "name": "Yambeque",
-      "url": "https://open.spotify.com/track/1FbwbKzs9Qrg9ZXaYlP164"
-    },
-    {
-      "added_at": "2024-06-24 22:23:31",
-      "album": {
         "name": "V\u00e1monos Pa'l Monte",
         "url": "https://open.spotify.com/album/4fIT7FtkFbq19m1lZyExAK"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 426840,
       "name": "V\u00e1monos Pa'l Monte",
       "url": "https://open.spotify.com/track/65kCIrgNhXeufeG2WVmHId"
+    },
+    {
+      "added_at": "2024-06-24 22:23:31",
+      "album": {
+        "name": "Determination",
+        "url": "https://open.spotify.com/album/3mK3WV1mMPficcGR6WmhCK"
+      },
+      "artists": [
+        {
+          "name": "Sonora Ponce\u00f1a",
+          "url": "https://open.spotify.com/artist/39qcQ01yJQbaMje70kIiFa"
+        }
+      ],
+      "duration_ms": 383533,
+      "name": "Yambeque",
+      "url": "https://open.spotify.com/track/1FbwbKzs9Qrg9ZXaYlP164"
     },
     {
       "added_at": "2024-06-24 22:23:31",

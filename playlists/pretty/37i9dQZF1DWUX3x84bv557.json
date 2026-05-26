@@ -1,12 +1,12 @@
 {
   "description": "Frisse Nederlandse pop. Cover: Bankzitters",
-  "num_followers": 246864,
+  "num_followers": 246851,
   "original_name": "Je Moerstaal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAe+oh5jOcU3k2zYCh8P7p3lVxy/",
+  "snapshot_id": "AAAAALYPjQ8hDxPwOMGfXi/vrHu95a04",
   "tracks": [
     {
       "added_at": "2026-05-21 22:01:44",
@@ -115,6 +115,22 @@
     {
       "added_at": "2026-05-21 22:01:44",
       "album": {
+        "name": "Jij Brak Mij Eerst",
+        "url": "https://open.spotify.com/album/3JdXDVYJfpB1iJoPE64yoo"
+      },
+      "artists": [
+        {
+          "name": "VALERIE",
+          "url": "https://open.spotify.com/artist/5ezjMqj9XmWro3bbvSP4qe"
+        }
+      ],
+      "duration_ms": 177166,
+      "name": "Jij Brak Mij Eerst",
+      "url": "https://open.spotify.com/track/7ifh5eOXY31vZbECM4zis8"
+    },
+    {
+      "added_at": "2026-05-21 22:01:44",
+      "album": {
         "name": "Zwak Voor Jou",
         "url": "https://open.spotify.com/album/5smyylzp4G8pAPK1AppKNP"
       },
@@ -207,6 +223,22 @@
     {
       "added_at": "2026-05-21 22:01:44",
       "album": {
+        "name": "Theetje",
+        "url": "https://open.spotify.com/album/6ll8bW8LRTjjY3sWr8e8WR"
+      },
+      "artists": [
+        {
+          "name": "LUUK",
+          "url": "https://open.spotify.com/artist/6mnQ1c9XT8X5tZ3pZYzue1"
+        }
+      ],
+      "duration_ms": 155221,
+      "name": "Theetje",
+      "url": "https://open.spotify.com/track/6kXZPkenUAtaESF0gNoY1x"
+    },
+    {
+      "added_at": "2026-05-21 22:01:44",
+      "album": {
         "name": "Soms",
         "url": "https://open.spotify.com/album/5OupzoEuekilLgAEaNAfkq"
       },
@@ -255,6 +287,22 @@
     {
       "added_at": "2026-05-21 22:01:44",
       "album": {
+        "name": "Vespa",
+        "url": "https://open.spotify.com/album/5MYGAgMj7Z46h0znl6eeMb"
+      },
+      "artists": [
+        {
+          "name": "Dave Dekker",
+          "url": "https://open.spotify.com/artist/56M6joy09OXF448uVNKZ04"
+        }
+      ],
+      "duration_ms": 184580,
+      "name": "Vespa",
+      "url": "https://open.spotify.com/track/2zvXfv3Cog6MIVEnPDzbp4"
+    },
+    {
+      "added_at": "2026-05-21 22:01:44",
+      "album": {
         "name": "Roulette",
         "url": "https://open.spotify.com/album/0dD84yXv3JlqH49B0J34DW"
       },
@@ -267,22 +315,6 @@
       "duration_ms": 137538,
       "name": "Roulette",
       "url": "https://open.spotify.com/track/7rZ40tv8wag9JkyQelJ4o9"
-    },
-    {
-      "added_at": "2026-05-21 22:01:44",
-      "album": {
-        "name": "Theetje",
-        "url": "https://open.spotify.com/album/6ll8bW8LRTjjY3sWr8e8WR"
-      },
-      "artists": [
-        {
-          "name": "LUUK",
-          "url": "https://open.spotify.com/artist/6mnQ1c9XT8X5tZ3pZYzue1"
-        }
-      ],
-      "duration_ms": 155221,
-      "name": "Theetje",
-      "url": "https://open.spotify.com/track/6kXZPkenUAtaESF0gNoY1x"
     },
     {
       "added_at": "2026-05-21 22:01:44",
@@ -315,22 +347,6 @@
       "duration_ms": 161750,
       "name": "Goed In Bed",
       "url": "https://open.spotify.com/track/54paMo4UsPOsR7aVNlGbIc"
-    },
-    {
-      "added_at": "2026-05-21 22:01:44",
-      "album": {
-        "name": "Vespa",
-        "url": "https://open.spotify.com/album/5MYGAgMj7Z46h0znl6eeMb"
-      },
-      "artists": [
-        {
-          "name": "Dave Dekker",
-          "url": "https://open.spotify.com/artist/56M6joy09OXF448uVNKZ04"
-        }
-      ],
-      "duration_ms": 184580,
-      "name": "Vespa",
-      "url": "https://open.spotify.com/track/2zvXfv3Cog6MIVEnPDzbp4"
     },
     {
       "added_at": "2026-05-21 22:01:44",
@@ -419,6 +435,22 @@
       "duration_ms": 187488,
       "name": "Jong & Dom",
       "url": "https://open.spotify.com/track/4Sr55tCgF7I1gEr9YJ7Xng"
+    },
+    {
+      "added_at": "2026-05-21 22:01:44",
+      "album": {
+        "name": "Achterbank",
+        "url": "https://open.spotify.com/album/0dUbHeTKK4QUnzuwShg4y0"
+      },
+      "artists": [
+        {
+          "name": "Tessa June",
+          "url": "https://open.spotify.com/artist/67UrL3cZJQ2WhwqdikarKk"
+        }
+      ],
+      "duration_ms": 168260,
+      "name": "Achterbank",
+      "url": "https://open.spotify.com/track/3BCCcJO19QKG54M2EAgGMT"
     },
     {
       "added_at": "2026-05-21 22:01:44",
@@ -579,22 +611,6 @@
       "duration_ms": 161109,
       "name": "Wervelwind",
       "url": "https://open.spotify.com/track/0gi4485KEYx85w5NQ7wLLU"
-    },
-    {
-      "added_at": "2026-05-21 22:01:44",
-      "album": {
-        "name": "Achterbank",
-        "url": "https://open.spotify.com/album/0dUbHeTKK4QUnzuwShg4y0"
-      },
-      "artists": [
-        {
-          "name": "Tessa June",
-          "url": "https://open.spotify.com/artist/67UrL3cZJQ2WhwqdikarKk"
-        }
-      ],
-      "duration_ms": 168260,
-      "name": "Achterbank",
-      "url": "https://open.spotify.com/track/3BCCcJO19QKG54M2EAgGMT"
     },
     {
       "added_at": "2026-05-21 22:01:44",
@@ -1063,22 +1079,6 @@
     {
       "added_at": "2026-05-21 22:01:44",
       "album": {
-        "name": "Jij Brak Mij Eerst",
-        "url": "https://open.spotify.com/album/3JdXDVYJfpB1iJoPE64yoo"
-      },
-      "artists": [
-        {
-          "name": "VALERIE",
-          "url": "https://open.spotify.com/artist/5ezjMqj9XmWro3bbvSP4qe"
-        }
-      ],
-      "duration_ms": 177166,
-      "name": "Jij Brak Mij Eerst",
-      "url": "https://open.spotify.com/track/7ifh5eOXY31vZbECM4zis8"
-    },
-    {
-      "added_at": "2026-05-21 22:01:44",
-      "album": {
         "name": "Komt Goed",
         "url": "https://open.spotify.com/album/1lmA667UeqzMD0YYAMYzFs"
       },
@@ -1127,22 +1127,6 @@
       "duration_ms": 149280,
       "name": "Los Los Vast",
       "url": "https://open.spotify.com/track/1DQnGDeNZrFOlEfj5wWlGJ"
-    },
-    {
-      "added_at": "2026-05-21 22:01:44",
-      "album": {
-        "name": "Laat Het Licht Aan",
-        "url": "https://open.spotify.com/album/04rBOWpJpSp3pDFU5EGXb4"
-      },
-      "artists": [
-        {
-          "name": "Snelle",
-          "url": "https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Laat Het Licht Aan",
-      "url": "https://open.spotify.com/track/3m7590UqY1VXNtF6axoWj1"
     },
     {
       "added_at": "2026-05-21 22:01:44",

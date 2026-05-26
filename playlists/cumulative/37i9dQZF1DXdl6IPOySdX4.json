@@ -386,7 +386,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 135570,
       "name": "ALL I WANT IS YOU",
       "url": "https://open.spotify.com/track/77Fi5t6oOR6mdAHD2WA08Z"
@@ -623,6 +623,24 @@
     },
     {
       "album": {
+        "name": "Angel Eyes",
+        "url": "https://open.spotify.com/album/3K7zpVgBTbQMAGMFuKd8yx"
+      },
+      "artists": [
+        {
+          "name": "Jared Benjamin",
+          "url": "https://open.spotify.com/artist/0pu0ZEMZtgePMOE6m19Cne"
+        }
+      ],
+      "date_added": "2026-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164906,
+      "name": "Angel Eyes",
+      "url": "https://open.spotify.com/track/5T0arBnfDpk9Svm1S6wiHG"
+    },
+    {
+      "album": {
         "name": "Angel Like You",
         "url": "https://open.spotify.com/album/30hbgiCYPsTvBOK8egXWcC"
       },
@@ -818,7 +836,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 143529,
       "name": "Bad 4 Me",
       "url": "https://open.spotify.com/track/77M91bANCutKuN5JoTB6hU"
@@ -890,7 +908,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 190000,
       "name": "BEAUTY QUEEN",
       "url": "https://open.spotify.com/track/1LywLmiRljnPwvwGVXrHih"
@@ -952,7 +970,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-18",
+      "date_removed": null,
       "duration_ms": 209831,
       "name": "Best Part (feat. H.E.R.)",
       "url": "https://open.spotify.com/track/1RMJOxR6GRPsBHL8qeC2ux"
@@ -1516,7 +1534,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-01",
+      "date_removed": null,
       "duration_ms": 234213,
       "name": "Close",
       "url": "https://open.spotify.com/track/2wJhFcye5iiW2mVBpGednz"
@@ -2388,7 +2406,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-20",
+      "date_removed": null,
       "duration_ms": 214840,
       "name": "DIRTY LITTLE SECRET",
       "url": "https://open.spotify.com/track/1YLzM2u0jpPxKTcrovSSZP"
@@ -2746,7 +2764,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 230373,
       "name": "Dress",
       "url": "https://open.spotify.com/track/6oVxXO5oQ4pTpO8RSnkzvv"
@@ -3510,7 +3528,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-11",
+      "date_removed": null,
       "duration_ms": 230010,
       "name": "Friends",
       "url": "https://open.spotify.com/track/2jQiSYrwJehQAcuaaQrXnS"
@@ -3992,7 +4010,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 155957,
       "name": "Good Girls Go To Heaven",
       "url": "https://open.spotify.com/track/3oQgpTQNgoz4PbdEfiPIZA"
@@ -4740,7 +4758,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-18",
+      "date_removed": null,
       "duration_ms": 226666,
       "name": "I Was Made for Loving You",
       "url": "https://open.spotify.com/track/77YB9Zep5ZAMIpMwYWSV4b"
@@ -5120,7 +5138,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 240491,
       "name": "It's You - from \"Heated Rivalry\"",
       "url": "https://open.spotify.com/track/6mCpjU7bPQgImcu7iW7rDD"
@@ -5514,7 +5532,7 @@
       ],
       "date_added": "2025-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-24",
+      "date_removed": null,
       "duration_ms": 223853,
       "name": "Let Me Love You",
       "url": "https://open.spotify.com/track/1WMQTjW0oRA66XdtmVUKi8"
@@ -5688,7 +5706,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 237506,
       "name": "Losin Control",
       "url": "https://open.spotify.com/track/4cxMGhkinTocPSVVKWIw0d"
@@ -6326,10 +6344,32 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 228157,
       "name": "milk & honey",
       "url": "https://open.spotify.com/track/1BuR2D1PYh37x2vAPCVvo7"
+    },
+    {
+      "album": {
+        "name": "miss me, babe?",
+        "url": "https://open.spotify.com/album/2x7NA1oGO1wKbWFvzbhdaK"
+      },
+      "artists": [
+        {
+          "name": "bartek turski",
+          "url": "https://open.spotify.com/artist/5HArWtrcYhpxplTtZ848wR"
+        },
+        {
+          "name": "Hera Lind",
+          "url": "https://open.spotify.com/artist/3PZ3vAfXQJEABZKKsAO6we"
+        }
+      ],
+      "date_added": "2026-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183750,
+      "name": "miss me, babe?",
+      "url": "https://open.spotify.com/track/51kgPfVqfuHq05QT5kUP1m"
     },
     {
       "album": {
@@ -6626,7 +6666,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 176027,
       "name": "Nasty",
       "url": "https://open.spotify.com/track/6NjWCIYu1W8xa3HIvcIhd4"
@@ -6902,7 +6942,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-12",
+      "date_removed": null,
       "duration_ms": 180110,
       "name": "obsessed",
       "url": "https://open.spotify.com/track/3TKakBgJaTH5INk0WhU4xP"
@@ -7350,7 +7390,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 153387,
       "name": "OXYGEN",
       "url": "https://open.spotify.com/track/6oFtJZflSe8puNfzt89VCu"
@@ -8455,6 +8495,24 @@
     },
     {
       "album": {
+        "name": "Sex with my Ex",
+        "url": "https://open.spotify.com/album/7jP9XkCEvIOjPmCIgScNDA"
+      },
+      "artists": [
+        {
+          "name": "Henry Morris",
+          "url": "https://open.spotify.com/artist/1SgGcKiYCO55coa8sdiamq"
+        }
+      ],
+      "date_added": "2026-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179726,
+      "name": "Sex with my Ex",
+      "url": "https://open.spotify.com/track/36LKcafeByy2ybG5783w7e"
+    },
+    {
+      "album": {
         "name": "Shameless",
         "url": "https://open.spotify.com/album/1cHm86on0UXY0KepCk1xui"
       },
@@ -8560,7 +8618,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 192572,
       "name": "Sideways",
       "url": "https://open.spotify.com/track/6oddAlRHDuiFVDdUZJlrZ6"
@@ -10002,6 +10060,24 @@
       "duration_ms": 190392,
       "name": "Truth or Dare",
       "url": "https://open.spotify.com/track/1whAXVGN8AdfrnoXNIXfJf"
+    },
+    {
+      "album": {
+        "name": "Twizzler",
+        "url": "https://open.spotify.com/album/2F1Za0y4KX2xJifGiCg47z"
+      },
+      "artists": [
+        {
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+        }
+      ],
+      "date_added": "2026-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174349,
+      "name": "Twizzler",
+      "url": "https://open.spotify.com/track/55kn7P8aUDI3CyGx1jlCLT"
     },
     {
       "album": {

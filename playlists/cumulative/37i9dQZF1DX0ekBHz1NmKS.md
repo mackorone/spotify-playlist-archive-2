@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-2,271 songs - 4 day 21 hr 53 min
+2,273 songs - 4 day 21 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -427,6 +427,7 @@
 | [Din egen sol](https://open.spotify.com/track/0xlJhFNQkS15bFqiuzlcAH) | [Moonica Mac](https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n) | [Din egen sol](https://open.spotify.com/album/3Sai4ZZurorGQHEZQAUL7W) | 3:51 | 2025-04-24 | 2025-08-10 |
 | [Din låt](https://open.spotify.com/track/3xPsqMJQNM14OrawTBiK4G) | [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO), [Einár](https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ) | [Din låt](https://open.spotify.com/album/02kiu1rc2gbB4gAEtPWqi7) | 2:45 | 2022-07-21 | 2023-10-06 |
 | [Din Sång](https://open.spotify.com/track/07V09KDvkEzG77VHbfaCNg) | [Kevin Jansson](https://open.spotify.com/artist/2MMvUIvS0qebMm75cT8I4y) | [Din Sång](https://open.spotify.com/album/0HStWEVo5p03Jc5MeXMNDF) | 2:41 | 2024-04-25 | 2024-05-24 |
+| [Din Värld](https://open.spotify.com/track/6CZQHFOGwdQnKl6EsTRBAq) | [Klaudy](https://open.spotify.com/artist/7mV5Ag4VyHBPfUtpekZGyd) | [Din Värld](https://open.spotify.com/album/6pAskf2ezVoyxVRZxLlfrG) | 2:14 | 2026-05-21 |  |
 | [dina armar](https://open.spotify.com/track/3tfqBXCA2HlQ5GldoqrWUc) | [Olivia Lobato](https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0) | [dina armar](https://open.spotify.com/album/6ICpgNNwn9bPnZQYwzIUaV) | 3:16 | 2024-05-23 | 2024-06-21 |
 | [Dina fula skor](https://open.spotify.com/track/3A5ECccn0LQaSPG29KC9Gw) | [Theo](https://open.spotify.com/artist/5vBoU7A2kwbTXyUPZK5Gq1) | [Dina fula skor](https://open.spotify.com/album/32avdeLOrRCjugz8bB3fIX) | 2:18 | 2025-06-26 | 2025-10-10 |
 | [Dirt](https://open.spotify.com/track/2xGG2OZyI8Z5jlWRBAdfFa) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Dirt](https://open.spotify.com/album/193Hqvyp5LbPRv9jBd03uB) | 3:38 | 2023-11-09 | 2024-02-09 |
@@ -770,7 +771,7 @@
 | [Gudarna](https://open.spotify.com/track/2vvPotS4SkvC51ArWhTso9) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Gudarna](https://open.spotify.com/album/4ihQSOM5BigfwUe2bFtcx5) | 3:33 | 2025-09-18 | 2025-11-14 |
 | [Guilt](https://open.spotify.com/track/2Pk3SRbA8lGwwuf0MNvqEJ) | [Cazzi Opeia](https://open.spotify.com/artist/1OKyf1iS27lqvUFebKrbee) | [Nothing Lasts Forever](https://open.spotify.com/album/6w59ZRQ1ySHhUIT7vYa6nq) | 3:14 | 2026-05-14 |  |
 | [Gula löv i juli](https://open.spotify.com/track/1hJO3bkGwDV8JXELn6Qq1H) | [Olle Grafström](https://open.spotify.com/artist/4HUAGSGdrbp5JKBEClSIiG) | [Fegis](https://open.spotify.com/album/7MHJTM5ivTcBbE5eTfkvyU) | 2:12 | 2024-05-23 | 2024-06-28 |
-| [Gullmar Gospel](https://open.spotify.com/track/1UNyMoHUNzdaxaKGMNc3Xk) | [Joel Alme](https://open.spotify.com/artist/6hSnbFV44BMzWgP9alWsTc) | [Gullmar Gospel](https://open.spotify.com/album/70FLBezfgY07tPfguRRhq9) | 4:32 | 2026-03-12 |  |
+| [Gullmar Gospel](https://open.spotify.com/track/1UNyMoHUNzdaxaKGMNc3Xk) | [Joel Alme](https://open.spotify.com/artist/6hSnbFV44BMzWgP9alWsTc) | [Gullmar Gospel](https://open.spotify.com/album/70FLBezfgY07tPfguRRhq9) | 4:32 | 2026-03-12 | 2026-05-26 |
 | [Gåshud](https://open.spotify.com/track/645fENOPS8d6qMzvHvp1ZL) | [Sebastian Walldén](https://open.spotify.com/artist/6nVppoLxZQC587nnLTQcKx) | [Gåshud](https://open.spotify.com/album/0wwgyVOVXQtEvA30BgmX4Q) | 3:35 | 2021-12-16 | 2022-01-12 |
 | [h4msterb0y <3 Canada](https://open.spotify.com/track/3tj6aTMyJBKaELb1Jj280s) | [Virgin Miri](https://open.spotify.com/artist/4b9493bfuOM9WoRZU6X3Sm), [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx), [Madelline](https://open.spotify.com/artist/7t6dcfG1BhMh3LTAXhxmeL) | [h4msterb0y <3 Canada](https://open.spotify.com/album/68a1344ExnvtFpRfrM1aUu) | 3:22 | 2023-10-05 | 2023-12-02 |
 | [Habits \(Stay High\) \- Spotify Singles](https://open.spotify.com/track/3NsqsLwmAxIhduuV9gK7SH) | [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [Habits \(Stay High\) \- Spotify Singles](https://open.spotify.com/album/0M0MROPnqYuHEK5R16YCxk) | 3:31 | 2024-10-10 | 2025-04-18 |
@@ -808,6 +809,7 @@
 | [Havanna](https://open.spotify.com/track/0ZN8XG8KwLP0gXOcLFETDA) | [Daniela Rathana](https://open.spotify.com/artist/5U2TzkbKD84n8gHhZtL3Ui) | [Havanna](https://open.spotify.com/album/4mBLs4HnnkV71UtvwdTRqg) | 3:31 | 2021-12-16 | 2022-03-10 |
 | [Hazy Eyes](https://open.spotify.com/track/6LC1blcEVm5CcChPJlMuhA) | [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [Hazy Eyes](https://open.spotify.com/album/2UrQrExipPqMumIA5bzYOc) | 3:10 | 2025-11-13 | 2026-03-20 |
 | [Headed North](https://open.spotify.com/track/6JnGmZTooUN8UW37syo8mV) | [NOEL](https://open.spotify.com/artist/15JdzpiJMd44n9p7TbFI9p) | [Headed North](https://open.spotify.com/album/3h9JCAbfodHxKpFVT5oXiL) | 2:56 | 2023-10-13 | 2024-01-26 |
+| [Headline](https://open.spotify.com/track/2DWBlKb2mIAkWh6mcO2vzM) | [Theo](https://open.spotify.com/artist/5vBoU7A2kwbTXyUPZK5Gq1) | [Headline](https://open.spotify.com/album/3Ni9i98siKghg0FR68BbtV) | 2:32 | 2026-05-21 |  |
 | [Hear Me Out](https://open.spotify.com/track/2DPvoJDAidOfXnB0QuFQiy) | [San Sebastian](https://open.spotify.com/artist/3i5CinvLDgkzioyuI1oa1E) | [Hear Me Out](https://open.spotify.com/album/1WRUI0cnE0LH0J9TJkNeQa) | 3:04 | 2024-06-13 | 2024-08-16 |
 | [Heart Full of Ghosts](https://open.spotify.com/track/79ckLAB8lpUqG508kAr1hV) | [NOEL](https://open.spotify.com/artist/15JdzpiJMd44n9p7TbFI9p) | [Mementos](https://open.spotify.com/album/5pVtLU7A9EufwffUMIFoDT) | 3:09 | 2024-11-14 | 2024-11-22 |
 | [Heartbeat](https://open.spotify.com/track/7GK7HWp2xsLkVGU2apwFan) | [Rebecca & Fiona](https://open.spotify.com/artist/6rgEPiKjowlMKZC1DF6W75) | [Heartbeat](https://open.spotify.com/album/7hmdO5DOqskwVbiLPs2YGV) | 4:02 | 2024-06-13 | 2024-08-16 |
@@ -2183,7 +2185,7 @@
 | [Wait So Long \(Why Do I Have To\)](https://open.spotify.com/track/1UlkpIKiVchDMB03AN6LmT) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs) | [Wait So Long \(Why Do I Have To\)](https://open.spotify.com/album/4iJYUempAYp2xtPrUX5qKl) | 3:19 | 2025-06-19 | 2026-01-15 |
 | [Waiting For A Star To Fall](https://open.spotify.com/track/5aC3iodGKBkpvw1V72crkD) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X), [Alida](https://open.spotify.com/artist/1kiq2kUV0cbLUhJsr7cpW0) | [Waiting For A Star To Fall](https://open.spotify.com/album/7vRRyAIjUrdVy40CeqV8yF) | 2:46 | 2025-08-08 | 2026-01-15 |
 | [Waiting on Your Love](https://open.spotify.com/track/24Xb1t3v9EmLIxGrkezlys) | [Victor Crone](https://open.spotify.com/artist/6TlWqqdj65mppNUHZVkjaq) | [Waiting on Your Love](https://open.spotify.com/album/5W5j070IXwKqX2mq6laTwX) | 3:12 | 2021-12-16 | 2022-03-11 |
-| [WAKE UP](https://open.spotify.com/track/6ca7VFQyvV38QvWlZauvIj) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [WAKE UP](https://open.spotify.com/album/3cnpSI76GaDuSYDuhFEtEy) | 3:04 | 2026-01-01 |  |
+| [WAKE UP](https://open.spotify.com/track/6ca7VFQyvV38QvWlZauvIj) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [WAKE UP](https://open.spotify.com/album/3cnpSI76GaDuSYDuhFEtEy) | 3:04 | 2026-01-01 | 2026-05-26 |
 | [Walk](https://open.spotify.com/track/35zaTORnMc0IqYbgOAeZGN) | [Isak Benjamin](https://open.spotify.com/artist/7D4TM2uAKuP21SZw2G9V4C) | [Walk](https://open.spotify.com/album/7aoFAfqHjoHj8SyKR8lJEQ) | 3:45 | 2025-05-29 | 2025-09-19 |
 | [Walk Away](https://open.spotify.com/track/2HjiabJKOLvVze6mEZ7Yrk) | [Nicole Sabouné](https://open.spotify.com/artist/2lPG3ptKlBdxvQ8XlH8nEk) | [Kismet](https://open.spotify.com/album/2ZFspo0XyOmNF2YUpjosCl) | 4:10 | 2023-10-19 | 2023-10-27 |
 | [Want Your Love](https://open.spotify.com/track/0nf2kysFoQ7dZeGsJzMZ3R) | [Mollie Minott](https://open.spotify.com/artist/5qEUQIObnjiIqKMQtbxvTl) | [Want Your Love](https://open.spotify.com/album/06hTi27qfrfZY68OGzbBCG) | 2:42 | 2024-05-02 | 2024-06-01 |

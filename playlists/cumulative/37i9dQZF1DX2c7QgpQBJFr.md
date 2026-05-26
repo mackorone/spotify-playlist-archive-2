@@ -2,9 +2,9 @@
 
 ### [nuovo pop 🇮🇹](https://open.spotify.com/playlist/37i9dQZF1DX2c7QgpQBJFr)
 
-> La nuova scena pop italiana 🇮🇹 cover: Sayf
+> la nuova scena pop italiana 🇮🇹 cover: Sara Gioielli al MI AMI Festival \(credits: Kimberley Ross\)
 
-1,357 songs - 2 day 16 hr 44 min
+1,358 songs - 2 day 16 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -909,6 +909,7 @@
 | [PAPAYA](https://open.spotify.com/track/23IDTfnF9ieL3H4GosMIyt) | [MATILDE](https://open.spotify.com/artist/3fefLfPrUjeLE1EVbVCdtJ) | [PAPAYA](https://open.spotify.com/album/3ScWAyRbzHbQ1CVtV5GCpZ) | 3:06 | 2025-10-16 | 2025-11-14 |
 | [Paradiso](https://open.spotify.com/track/1C6llxLuSiq6DMTLV4sMdB) | [Diora Madama](https://open.spotify.com/artist/7wOA7etbtOByr52HImiMI2) | [Paradiso](https://open.spotify.com/album/4DTwNCS6X0QaAM1xcG9gjI) | 2:33 | 2025-02-06 | 2025-04-11 |
 | [paradiso](https://open.spotify.com/track/0Mbu7beOY6V435dfnqSAHB) | [prima stanza a destra](https://open.spotify.com/artist/2mCfJF2n60STC46nVkhuq5) | [paradiso](https://open.spotify.com/album/6zyF02pm0tFZolZHy7LoT0) | 2:44 | 2025-11-27 | 2026-02-06 |
+| [Paramia](https://open.spotify.com/track/1RwFjtqHnZAlVbZmupmSkK) | [Sara Gioielli](https://open.spotify.com/artist/6Q1qRPuPuwJH0QPvdAPqtI) | [Gioielli Neri](https://open.spotify.com/album/6tNSiiQ7xp1an19SzdFRQt) | 3:28 | 2026-05-25 |  |
 | [Paraíso \(feat\. PRACI\)](https://open.spotify.com/track/3oFDugsZh7LccP3xzhOvYe) | [Cate Lumina](https://open.spotify.com/artist/3EAlQVh9v7qGWoImwqgrYf), [PRACI](https://open.spotify.com/artist/4mW1PRTVIA38Yv9ZDezrj5) | [CATALINA](https://open.spotify.com/album/7fqG8FHvN56MVDBZy08u1F) | 2:34 | 2026-05-14 |  |
 | [Pari o Dispari](https://open.spotify.com/track/5XpWQOMGtzj182L7qbePrD) | [Dennis](https://open.spotify.com/artist/1vnH30sVlnl0NIuGUcLz3y) | [Pari o Dispari](https://open.spotify.com/album/10Kjjz2O6Nzj5ciQ9KylKN) | 2:54 | 2025-05-08 | 2025-06-27 |
 | [Parlami D’Amore](https://open.spotify.com/track/0w5UfYUtSObxDkmdb1wBZA) | [KIMONO](https://open.spotify.com/artist/5uIBCnjr8sCPeOOhQFY3Xm), [Aria](https://open.spotify.com/artist/3QptZmsuqUYGVDlrC02wdD) | [Parlami D’Amore](https://open.spotify.com/album/5GR3BGXxLJGznDcYSbMquo) | 2:54 | 2025-12-11 | 2026-02-13 |

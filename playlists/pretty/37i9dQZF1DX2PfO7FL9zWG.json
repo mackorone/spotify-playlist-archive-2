@@ -1,6 +1,6 @@
 {
   "description": "Revisit stand out songs from these singer/songwriters. Cover: Noah Kahan",
-  "num_followers": 78317,
+  "num_followers": 78327,
   "original_name": "Folk Favourites",
   "owner": {
     "name": "Spotify",
@@ -733,6 +733,22 @@
       "url": "https://open.spotify.com/track/47cNDW1xyM03mT2kseO41a"
     },
     {
+      "added_at": "2026-05-07 21:15:58",
+      "album": {
+        "name": "Bloodline",
+        "url": "https://open.spotify.com/album/7Ln3LF8E2WFUZENabeVuIX"
+      },
+      "artists": [
+        {
+          "name": "Mon Rov\u00eea",
+          "url": "https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos"
+        }
+      ],
+      "duration_ms": 180459,
+      "name": "Bloodline",
+      "url": "https://open.spotify.com/track/40ZNzxRpzGOnLw0ylcVueQ"
+    },
+    {
       "added_at": "2025-02-14 17:00:13",
       "album": {
         "name": "boygenius",
@@ -759,22 +775,6 @@
       "duration_ms": 206465,
       "name": "Me & My Dog",
       "url": "https://open.spotify.com/track/74uoN2UfgdUAzwVeFaRUE2"
-    },
-    {
-      "added_at": "2026-05-07 21:15:58",
-      "album": {
-        "name": "Bloodline",
-        "url": "https://open.spotify.com/album/7Ln3LF8E2WFUZENabeVuIX"
-      },
-      "artists": [
-        {
-          "name": "Mon Rov\u00eea",
-          "url": "https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos"
-        }
-      ],
-      "duration_ms": 180459,
-      "name": "Bloodline",
-      "url": "https://open.spotify.com/track/40ZNzxRpzGOnLw0ylcVueQ"
     },
     {
       "added_at": "2025-02-14 17:00:13",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2025-02-14 17:00:13",
       "album": {
+        "name": "Bring Me Your Love (Special Edition)",
+        "url": "https://open.spotify.com/album/1GYDVFWPK1HFI3TRWmj7hr"
+      },
+      "artists": [
+        {
+          "name": "City and Colour",
+          "url": "https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR"
+        }
+      ],
+      "duration_ms": 360106,
+      "name": "The Girl",
+      "url": "https://open.spotify.com/track/1IFRVS4t1olI0XG9RBWdKH"
+    },
+    {
+      "added_at": "2025-02-14 17:00:13",
+      "album": {
         "name": "Nina Cried Power - EP",
         "url": "https://open.spotify.com/album/78o6vcPIRwoph8a3StqaTU"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 319053,
       "name": "Atlantis",
       "url": "https://open.spotify.com/track/4Lp2SmcFyyMiWzfsDV2Qzh"
-    },
-    {
-      "added_at": "2025-02-14 17:00:13",
-      "album": {
-        "name": "Bring Me Your Love (Special Edition)",
-        "url": "https://open.spotify.com/album/1GYDVFWPK1HFI3TRWmj7hr"
-      },
-      "artists": [
-        {
-          "name": "City and Colour",
-          "url": "https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR"
-        }
-      ],
-      "duration_ms": 360106,
-      "name": "The Girl",
-      "url": "https://open.spotify.com/track/1IFRVS4t1olI0XG9RBWdKH"
     },
     {
       "added_at": "2025-02-14 17:00:13",

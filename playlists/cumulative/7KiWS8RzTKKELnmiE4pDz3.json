@@ -10899,6 +10899,24 @@
     },
     {
       "album": {
+        "name": "Hecha Pa' Mi",
+        "url": "https://open.spotify.com/album/0Nlac12HchvCla00JkCnls"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "date_added": "2026-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195845,
+      "name": "Hecha Pa' M\u00ed",
+      "url": "https://open.spotify.com/track/3AIVCSqTfDX9NxStqhi80S"
+    },
+    {
+      "album": {
         "name": "Hell Night",
         "url": "https://open.spotify.com/album/5EwJMf9I4CfMZEEV133gJG"
       },

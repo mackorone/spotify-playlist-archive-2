@@ -1,6 +1,6 @@
 {
   "description": "bailando en el antro con GRTSCH hasta el amanecer ",
-  "num_followers": 24452,
+  "num_followers": 24455,
   "original_name": "ANTRO ",
   "owner": {
     "name": "Spotify",
@@ -463,26 +463,6 @@
     {
       "added_at": "2026-05-22 06:00:49",
       "album": {
-        "name": "No Hay Nah",
-        "url": "https://open.spotify.com/album/76k7mBdvyAxpkBjQ8FOu1W"
-      },
-      "artists": [
-        {
-          "name": "Sayuri & Sopholov",
-          "url": "https://open.spotify.com/artist/6IcW0vncoYwp4NQWSm4uXc"
-        },
-        {
-          "name": "Fuentes Prod",
-          "url": "https://open.spotify.com/artist/6nLUmIv3Hi88nYI0Xn67XV"
-        }
-      ],
-      "duration_ms": 188764,
-      "name": "No Hay Nah",
-      "url": "https://open.spotify.com/track/1k2Q7IJ6zqeM6gA4POyC1v"
-    },
-    {
-      "added_at": "2026-05-22 06:00:49",
-      "album": {
         "name": "Millonari",
         "url": "https://open.spotify.com/album/6A7j3iU4dHUmnLeRANOpio"
       },
@@ -503,6 +483,26 @@
       "duration_ms": 156444,
       "name": "Millonari",
       "url": "https://open.spotify.com/track/4bUZERmbU1gjvQlGv5JKSb"
+    },
+    {
+      "added_at": "2026-05-22 06:00:49",
+      "album": {
+        "name": "No Hay Nah",
+        "url": "https://open.spotify.com/album/76k7mBdvyAxpkBjQ8FOu1W"
+      },
+      "artists": [
+        {
+          "name": "Sayuri & Sopholov",
+          "url": "https://open.spotify.com/artist/6IcW0vncoYwp4NQWSm4uXc"
+        },
+        {
+          "name": "Fuentes Prod",
+          "url": "https://open.spotify.com/artist/6nLUmIv3Hi88nYI0Xn67XV"
+        }
+      ],
+      "duration_ms": 188764,
+      "name": "No Hay Nah",
+      "url": "https://open.spotify.com/track/1k2Q7IJ6zqeM6gA4POyC1v"
     },
     {
       "added_at": "2026-05-22 06:00:49",
@@ -655,46 +655,6 @@
     {
       "added_at": "2026-05-22 06:00:49",
       "album": {
-        "name": "betty boop",
-        "url": "https://open.spotify.com/album/3IBmnh1aOLBHUfwHfuHrLt"
-      },
-      "artists": [
-        {
-          "name": "STRANGEHUMAN",
-          "url": "https://open.spotify.com/artist/0MlQeZCQnaFSGv9gRiE1rD"
-        },
-        {
-          "name": "Lidanza",
-          "url": "https://open.spotify.com/artist/5DQI4y2nm1O1MKtVZFL61y"
-        }
-      ],
-      "duration_ms": 156444,
-      "name": "betty boop",
-      "url": "https://open.spotify.com/track/6BPb0paX49gCXAO0BPytiL"
-    },
-    {
-      "added_at": "2026-05-22 06:00:49",
-      "album": {
-        "name": "Ricota",
-        "url": "https://open.spotify.com/album/0IBSOQFCbrtAMcfjygozLN"
-      },
-      "artists": [
-        {
-          "name": "ZULAN",
-          "url": "https://open.spotify.com/artist/2Yz9F5lQVc0p6SDxkw2BvF"
-        },
-        {
-          "name": "Debians",
-          "url": "https://open.spotify.com/artist/09qVSIokv31IKHQGv7PkNd"
-        }
-      ],
-      "duration_ms": 145853,
-      "name": "Ricota",
-      "url": "https://open.spotify.com/track/4uZh7m5a3DFqI1WCUniio6"
-    },
-    {
-      "added_at": "2026-05-22 06:00:49",
-      "album": {
         "name": "Gaga",
         "url": "https://open.spotify.com/album/0s0AvUobBkq1X2wIyapBME"
       },
@@ -715,6 +675,26 @@
     {
       "added_at": "2026-05-22 06:00:49",
       "album": {
+        "name": "betty boop",
+        "url": "https://open.spotify.com/album/3IBmnh1aOLBHUfwHfuHrLt"
+      },
+      "artists": [
+        {
+          "name": "STRANGEHUMAN",
+          "url": "https://open.spotify.com/artist/0MlQeZCQnaFSGv9gRiE1rD"
+        },
+        {
+          "name": "Lidanza",
+          "url": "https://open.spotify.com/artist/5DQI4y2nm1O1MKtVZFL61y"
+        }
+      ],
+      "duration_ms": 156444,
+      "name": "betty boop",
+      "url": "https://open.spotify.com/track/6BPb0paX49gCXAO0BPytiL"
+    },
+    {
+      "added_at": "2026-05-22 06:00:49",
+      "album": {
         "name": "bestia",
         "url": "https://open.spotify.com/album/3g7qNB5LqZlkp72mvCXYj6"
       },
@@ -731,6 +711,26 @@
       "duration_ms": 220638,
       "name": "bestia",
       "url": "https://open.spotify.com/track/2HZ5HcjkncmwlEh6dNG5Ra"
+    },
+    {
+      "added_at": "2026-05-22 06:00:49",
+      "album": {
+        "name": "Ricota",
+        "url": "https://open.spotify.com/album/0IBSOQFCbrtAMcfjygozLN"
+      },
+      "artists": [
+        {
+          "name": "ZULAN",
+          "url": "https://open.spotify.com/artist/2Yz9F5lQVc0p6SDxkw2BvF"
+        },
+        {
+          "name": "Debians",
+          "url": "https://open.spotify.com/artist/09qVSIokv31IKHQGv7PkNd"
+        }
+      ],
+      "duration_ms": 145853,
+      "name": "Ricota",
+      "url": "https://open.spotify.com/track/4uZh7m5a3DFqI1WCUniio6"
     },
     {
       "added_at": "2026-05-22 06:00:49",
@@ -779,22 +779,6 @@
     {
       "added_at": "2026-05-22 06:00:49",
       "album": {
-        "name": "LA CIUDAD NUNCA DUERME*",
-        "url": "https://open.spotify.com/album/6q0eNeShaKS7mRom4HunuI"
-      },
-      "artists": [
-        {
-          "name": "Young Cister",
-          "url": "https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq"
-        }
-      ],
-      "duration_ms": 111875,
-      "name": "nunca me duermo!*",
-      "url": "https://open.spotify.com/track/4n1Oy3PZtUp0yHid1hJ0e0"
-    },
-    {
-      "added_at": "2026-05-22 06:00:49",
-      "album": {
         "name": "Confesiones de las que me voy a arrepentir",
         "url": "https://open.spotify.com/album/5OFNXI0QU9h4LTj9FIlTqE"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 160496,
       "name": "bellaka",
       "url": "https://open.spotify.com/track/3SXcjqgF74D9saMLxD9GGC"
+    },
+    {
+      "added_at": "2026-05-22 06:00:49",
+      "album": {
+        "name": "LA CIUDAD NUNCA DUERME*",
+        "url": "https://open.spotify.com/album/6q0eNeShaKS7mRom4HunuI"
+      },
+      "artists": [
+        {
+          "name": "Young Cister",
+          "url": "https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq"
+        }
+      ],
+      "duration_ms": 111875,
+      "name": "nunca me duermo!*",
+      "url": "https://open.spotify.com/track/4n1Oy3PZtUp0yHid1hJ0e0"
     },
     {
       "added_at": "2026-05-22 06:00:49",
@@ -967,6 +967,22 @@
     {
       "added_at": "2026-05-22 06:00:49",
       "album": {
+        "name": "record\u00e9 y me enoj\u00e9",
+        "url": "https://open.spotify.com/album/714m3ZtwXAvfpynvNmRbAt"
+      },
+      "artists": [
+        {
+          "name": "Nana Nina",
+          "url": "https://open.spotify.com/artist/51NvNgCzRqXjxfklCa8TVB"
+        }
+      ],
+      "duration_ms": 150240,
+      "name": "record\u00e9 y me enoj\u00e9",
+      "url": "https://open.spotify.com/track/0D3RX1V8dsj3YdWfqdyApr"
+    },
+    {
+      "added_at": "2026-05-22 06:00:49",
+      "album": {
         "name": "Porque Quise DELUXE",
         "url": "https://open.spotify.com/album/78Ok3vPNjR0K0WKVz4wYNm"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 126000,
       "name": "Puta & Rock Anthem",
       "url": "https://open.spotify.com/track/5Kv2lXC0Ve1maYx8qAGjRw"
-    },
-    {
-      "added_at": "2026-05-22 06:00:49",
-      "album": {
-        "name": "record\u00e9 y me enoj\u00e9",
-        "url": "https://open.spotify.com/album/714m3ZtwXAvfpynvNmRbAt"
-      },
-      "artists": [
-        {
-          "name": "Nana Nina",
-          "url": "https://open.spotify.com/artist/51NvNgCzRqXjxfklCa8TVB"
-        }
-      ],
-      "duration_ms": 150240,
-      "name": "record\u00e9 y me enoj\u00e9",
-      "url": "https://open.spotify.com/track/0D3RX1V8dsj3YdWfqdyApr"
     },
     {
       "added_at": "2026-05-22 06:00:49",
@@ -1055,26 +1055,6 @@
     {
       "added_at": "2026-05-22 06:00:49",
       "album": {
-        "name": "Jenni Rivera",
-        "url": "https://open.spotify.com/album/3TxgKrJOzELj9jp06lytkm"
-      },
-      "artists": [
-        {
-          "name": "FLVCKKA",
-          "url": "https://open.spotify.com/artist/12fZoiFXBSs7aVMxGKQgBN"
-        },
-        {
-          "name": "Fhany Santin",
-          "url": "https://open.spotify.com/artist/7pymJP5fuOGdIIJ4RbtG9h"
-        }
-      ],
-      "duration_ms": 156466,
-      "name": "Jenni Rivera",
-      "url": "https://open.spotify.com/track/5iyLTZ1YvtSYMdHsrwzuA3"
-    },
-    {
-      "added_at": "2026-05-22 06:00:49",
-      "album": {
         "name": "ROKALETA!",
         "url": "https://open.spotify.com/album/0lvjK0WwoO0eKXScQaPQlI"
       },
@@ -1091,6 +1071,26 @@
       "duration_ms": 168058,
       "name": "ROKALETA!",
       "url": "https://open.spotify.com/track/0lt39TTaP09rUJspqQxvQa"
+    },
+    {
+      "added_at": "2026-05-22 06:00:49",
+      "album": {
+        "name": "Jenni Rivera",
+        "url": "https://open.spotify.com/album/3TxgKrJOzELj9jp06lytkm"
+      },
+      "artists": [
+        {
+          "name": "FLVCKKA",
+          "url": "https://open.spotify.com/artist/12fZoiFXBSs7aVMxGKQgBN"
+        },
+        {
+          "name": "Fhany Santin",
+          "url": "https://open.spotify.com/artist/7pymJP5fuOGdIIJ4RbtG9h"
+        }
+      ],
+      "duration_ms": 156466,
+      "name": "Jenni Rivera",
+      "url": "https://open.spotify.com/track/5iyLTZ1YvtSYMdHsrwzuA3"
     },
     {
       "added_at": "2026-05-22 06:00:49",
@@ -1423,6 +1423,30 @@
     {
       "added_at": "2026-05-22 06:00:49",
       "album": {
+        "name": "Sucia",
+        "url": "https://open.spotify.com/album/3RCECf2DGS5O9MhxaAda7g"
+      },
+      "artists": [
+        {
+          "name": "Ms Nina",
+          "url": "https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ"
+        },
+        {
+          "name": "Isabella Lovestory",
+          "url": "https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt"
+        },
+        {
+          "name": "King Doudou",
+          "url": "https://open.spotify.com/artist/3aVceD1iZNjO7INFdXQaeZ"
+        }
+      ],
+      "duration_ms": 179072,
+      "name": "Sucia",
+      "url": "https://open.spotify.com/track/1KbCxoe5kxoILsvoSfKDN7"
+    },
+    {
+      "added_at": "2026-05-22 06:00:49",
+      "album": {
         "name": "PERDIDO",
         "url": "https://open.spotify.com/album/2ZBWXM9PcYCAbS0XQd9EQw"
       },
@@ -1459,30 +1483,6 @@
       "duration_ms": 192000,
       "name": "NO S\u00c9 NI C\u00d3MO EST\u00c1S",
       "url": "https://open.spotify.com/track/1lwrgze63fFxlH9F8g4Pzx"
-    },
-    {
-      "added_at": "2026-05-22 06:00:49",
-      "album": {
-        "name": "Sucia",
-        "url": "https://open.spotify.com/album/3RCECf2DGS5O9MhxaAda7g"
-      },
-      "artists": [
-        {
-          "name": "Ms Nina",
-          "url": "https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ"
-        },
-        {
-          "name": "Isabella Lovestory",
-          "url": "https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt"
-        },
-        {
-          "name": "King Doudou",
-          "url": "https://open.spotify.com/artist/3aVceD1iZNjO7INFdXQaeZ"
-        }
-      ],
-      "duration_ms": 179072,
-      "name": "Sucia",
-      "url": "https://open.spotify.com/track/1KbCxoe5kxoILsvoSfKDN7"
     },
     {
       "added_at": "2026-05-22 06:00:49",

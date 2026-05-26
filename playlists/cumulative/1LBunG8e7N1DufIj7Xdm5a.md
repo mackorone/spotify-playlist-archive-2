@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,410 songs - 9 day 19 hr 33 min
+4,413 songs - 9 day 19 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2220,6 +2220,7 @@
 | [Llamas \(another\)](https://open.spotify.com/track/1VArQpgtBGiNyyJJ26i2Hu) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Viral music in spanish 2025 \(Música viral en español 2025\)](https://open.spotify.com/album/35uL77785maVg1GbjzSdxk) | 2:41 | 2025-09-17 |  |
 | [Llegar a Vos](https://open.spotify.com/track/5ccNIobrt6giwhj7wL7emP) | [Lenoise](https://open.spotify.com/artist/1zbtdItCDLhQLlyL3ASTZG) | [Claroscuro](https://open.spotify.com/album/3w4KZQa7mGwhjPhuFAWR8P) | 4:33 | 2025-12-23 |  |
 | [Llorando](https://open.spotify.com/track/3uZa2EJqoB6ZogdUicADFK) | [Rata Negra](https://open.spotify.com/artist/7KjdFWj7ujhSLbzWYAAgVe) | [Una Vida Vulgar](https://open.spotify.com/album/2NphwCKzmjWfEO2NzrfJm8) | 2:56 | 2025-11-04 |  |
+| [Llueve En Mi Corazón](https://open.spotify.com/track/2qxx7egCVi63AHGwnZfyvt) | [Visitantes](https://open.spotify.com/artist/0nynsqah3R512QB7VBtvvT) | [Luces Y Sombras](https://open.spotify.com/album/4HiXj2zc8KpxhU2QdouKWP) | 4:59 | 2026-05-25 |  |
 | [Lluvia](https://open.spotify.com/track/60DXXvorxvgU7L0gzpkyrr) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Puzzles](https://open.spotify.com/album/7e2bA6vx7HTLvrOtyFLChY) | 2:47 | 2026-03-15 |  |
 | [Lo malo de haberte conocido](https://open.spotify.com/track/7losmL09ObC0qr1Qf69ivi) | [Sebastián Emilio Alvarez Parafita](https://open.spotify.com/artist/2eNK11WGWZMF8rCVjxwh3j) | [Amor = Triste Agonía](https://open.spotify.com/album/029GPDxDNEeaaWgkAvdpIg) | 2:55 | 2025-07-16 |  |
 | [Lo Scommettitore](https://open.spotify.com/track/5yhORNbr09IhXeSqicL2BE) | [LEONE PRIMO](https://open.spotify.com/artist/0IlaTQDcOlHYtNdnSoUYfe) | [Lo Scommettitore](https://open.spotify.com/album/5IfnJZpGKhohKV3yjQUuc0) | 2:45 | 2025-04-04 |  |
@@ -3116,6 +3117,7 @@
 | [rifle crew](https://open.spotify.com/track/5JL77p8CYEt7vHEBS9eyVB) | [sniper2004](https://open.spotify.com/artist/7EjJ8vM2BQi4Oxrxm2ytYT) | [i wanna be a sniperrrrr](https://open.spotify.com/album/3hqf7upVvfJhXJDgBfmBMq) | 2:03 | 2025-07-28 |  |
 | [Riflesso di me](https://open.spotify.com/track/5jXmMokEYA03s3KYMg9lUB) | [Ivan PolliX](https://open.spotify.com/artist/59dMTfr8L1qzJaGPpzwzZt) | [Riflesso di me](https://open.spotify.com/album/1ZMzareBq5KUc7C89dbAMH) | 3:22 | 2026-01-31 |  |
 | [Right Foot](https://open.spotify.com/track/6n2oGIs0n0O97RLXRBy0py) | [TheOtherGuyz](https://open.spotify.com/artist/7JYdSgTEAuN5lW87o8y0QZ) | [Right Foot](https://open.spotify.com/album/2XSyRXxcqK4RHDm7ziTraM) | 5:06 | 2025-08-06 |  |
+| [Right Mistake](https://open.spotify.com/track/70YqemM7cakJXXkuzgRvkr) | [VALENTINA](https://open.spotify.com/artist/0WiCcHD8qE3NzAuynddh92) | [Right Mistake](https://open.spotify.com/album/4fayL23DsuBXoCvMqJQFod) | 4:47 | 2026-05-25 |  |
 | [RIMA IMPERFETTA](https://open.spotify.com/track/5ehttmA33mV9jNBhfpTATm) | [An I me Elegantia](https://open.spotify.com/artist/4DbDGP98nZYmeovM56sg0i) | [RIMA IMPERFETTA](https://open.spotify.com/album/5yp9qdMcwWlxShR5O1gtvr) | 3:27 | 2026-02-13 |  |
 | [Rimedio D'amore](https://open.spotify.com/track/2iGxhQIkhHZ2PQiVlckF34) | [Cristina Lizzul](https://open.spotify.com/artist/4Bn67qpfGeAhkbINuqnxze) | [Rimedio D'amore](https://open.spotify.com/album/6OfvuNhqlXQCqpheXq3pt7) | 3:41 | 2025-06-06 |  |
 | [Ringtone](https://open.spotify.com/track/4ullO8vkl2maUfY4I0l6Os) | [murCATolog](https://open.spotify.com/artist/2KoZ9RKRH2ktVlVpDEUoYj) | [Ringtone](https://open.spotify.com/album/3xtBNCSwAZtr3i41VCtKgv) | 3:52 | 2025-06-05 |  |
@@ -3609,6 +3611,7 @@
 | [Sto bene](https://open.spotify.com/track/19E8ChjGPz0ndKJMKIC4G2) | [Dave Bolo](https://open.spotify.com/artist/7fCRAaXZoFGb21FJqY9ihn) | [Sto bene](https://open.spotify.com/album/3N7sL4sTcMEnoSfTvNrIot) | 3:44 | 2025-06-06 |  |
 | [Stockholm Syndrome](https://open.spotify.com/track/7AnnurFLjLNAhOqyI5KSHR) | [Arnold Alaniz](https://open.spotify.com/artist/0Ma0R8ZNejeGKEI4YMnVll) | [Stockholm Syndrome](https://open.spotify.com/album/4LFyHeD7q5FruRYXWW0WuB) | 3:17 | 2025-12-21 |  |
 | [Stoning Glass Temples](https://open.spotify.com/track/3erGCvVFjZK0TNwb8NGruZ) | [MAUL](https://open.spotify.com/artist/4fg9ukckfeMoTQsXmiQZi0) | [Stoning Glass Temples](https://open.spotify.com/album/4GH8KxhYCVLBMjtUkLK8Yy) | 3:08 | 2026-05-19 |  |
+| [STOP](https://open.spotify.com/track/74AI6IwRwBsnzPFWDfjBLy) | [Blue Cabs](https://open.spotify.com/artist/6mF5Cb0gYrse7CzbffqwqK) | [STOP](https://open.spotify.com/album/0wfOhUJJKk74S3c6q7WeSP) | 3:11 | 2026-05-25 |  |
 | [Stop Me](https://open.spotify.com/track/4CuXQ9mercSGlJj0n7yOfw) | [Loris](https://open.spotify.com/artist/0NNVqu4vFNvDhWFfaHmXGB) | [Stop Me](https://open.spotify.com/album/2KEXeYDi8pDJIPSDxR61b6) | 3:38 | 2025-06-05 |  |
 | [Stop What You're doing](https://open.spotify.com/track/5mcRtAZ9gOwLf2CkINf5NS) | [Patrick DeVille](https://open.spotify.com/artist/4viUY1EItvZqlpcFk8BDpy) | [Stop What You're doing](https://open.spotify.com/album/0vlImhxJOVAkfi2Z9tAIRM) | 2:30 | 2025-08-19 |  |
 | [Stories](https://open.spotify.com/track/4dbT44ru3cBCaZF3xmRHwy) | [The second coast](https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi) | [SEMIQUINCENTENNIAL VOICES](https://open.spotify.com/album/4q3D0mA0dP458GXE7Z6NIE) | 2:42 | 2026-04-13 |  |

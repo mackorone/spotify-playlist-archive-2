@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Maiara & Maraisa, Ariana Grande, Felipe Amorim com Luísa Sonza, Budah com AJULLIACOSTA e Franco, the Sir! e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,287,261 likes - 99 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,287,198 likes - 99 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 66 | [Te vi lá no Site](https://open.spotify.com/track/4jiI22iczGZ1FfITZfrxP9) | [Shenlong](https://open.spotify.com/artist/6Dzh6uXgA0QKVg1eIWxdDY), [Portugal No Beat](https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q) | [Te vi lá no Site](https://open.spotify.com/album/3XnWWrxSRW23SYzsJq6pW0) | 2:37 |
 | 67 | [Papel e Tinta](https://open.spotify.com/track/4Nw8uLpFOWU9Zge14Z1njW) | [Sotam](https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l), [Rob](https://open.spotify.com/artist/2erZl4yKXwwHO92guRhDPw), [Felipe Phyre](https://open.spotify.com/artist/1WSSOsnMl5OIaxB7xrY9dc) | [Papel e Tinta](https://open.spotify.com/album/6UbzdpIorBGJZuopM2cu8O) | 2:23 |
 | 68 | [Na Onde Nóis Mora](https://open.spotify.com/track/7Bsh0lTH0Yw0B8NV5xWNKQ) | [DJ JB Mix](https://open.spotify.com/artist/7wLAecYIgstxcjqe6JwT3w), [Salvador Da Rima](https://open.spotify.com/artist/3zUcyANWSbo98ikca4ugrV), [MC Fr da Norte](https://open.spotify.com/artist/4s6x9M7UXoKy12iOrDILhj), [Prado](https://open.spotify.com/artist/5I7db10XSG06FrAHzC36Wq) | [Nóis Ta Diferente](https://open.spotify.com/album/0RCnF3Q6LvxCcMbv5fN8Bk) | 2:42 |
-| 69 | [Ambition](https://open.spotify.com/track/7eTAQXLwh0nNxj7DviZHO0) | [Boaventura](https://open.spotify.com/artist/0HNv7LfoPFCBtfdeiFIXPe), [Drummond](https://open.spotify.com/artist/11SKuSqWt1KyNO22CSTsiq) | [Ambition](https://open.spotify.com/album/17rFNQc7hKd2jcRyP1S1BF) | 2:23 |
+| 69 | [Ambition](https://open.spotify.com/track/7eTAQXLwh0nNxj7DviZHO0) | [Boaventura](https://open.spotify.com/artist/0HNv7LfoPFCBtfdeiFIXPe) | [Ambition](https://open.spotify.com/album/17rFNQc7hKd2jcRyP1S1BF) | 2:23 |
 | 70 | [The Waves \(feat\. Solann\)](https://open.spotify.com/track/0Hcr3kdSB9NVQmFckRsgSD) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb), [Solann](https://open.spotify.com/artist/17u6mMCLx4RTzjIKRaTRIv) | [The Waves \(feat\. Solann\)](https://open.spotify.com/album/2xhsIO7LVY0B6ELCQgiupH) | 5:29 |
 | 71 | [Milicítico \(2026\)](https://open.spotify.com/track/03pxiqFTSWTjgeF8fgBNAI) | [MV Bill](https://open.spotify.com/artist/4oE4ASN8auDhoW9vsXp3VJ) | [MV 30](https://open.spotify.com/album/6AHOdvGEgtbRClWd6sBFA4) | 2:55 |
 | 72 | [Algo Me Diz](https://open.spotify.com/track/0I2Qjv3OpCJ8kGN7emPUtz) | [Balara](https://open.spotify.com/artist/3jPnaM0ap5aM9xEe16hjgp), [Jorge Vercillo](https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs) | [Algo Me Diz](https://open.spotify.com/album/6thHdBENSsVg9O5elJfW8I) | 3:30 |

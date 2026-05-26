@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,234 songs - 2 day 20 hr 38 min
+1,235 songs - 2 day 20 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -965,6 +965,7 @@
 | [Skyline](https://open.spotify.com/track/1FmxHYqNEeMq6KBb3F5dlK) | [Mango](https://open.spotify.com/artist/5x6H8meBBWk6J8qcIWxW7w) | [Skyline](https://open.spotify.com/album/4U6Fs0ZXg4IgHXwNqZBOkb) | 3:37 | 2022-10-14 | 2022-12-14 |
 | [Slaughter](https://open.spotify.com/track/3vQnA7IY2a12sXXJKuCZu2) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [Vastive](https://open.spotify.com/artist/5dqKDhDTrjMvSExBmfMNeH) | [Slaughter](https://open.spotify.com/album/2FwvuABjqUv9FzLkt9DhAc) | 3:08 | 2024-07-26 | 2024-10-18 |
 | [SLEEPER](https://open.spotify.com/track/5vkaCS15NjWCJzEAEFbP4q) | [Godlands](https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8) | [SLEEPER / SICKO](https://open.spotify.com/album/5ucMWsUY72QfFAHonYLrUY) | 2:52 | 2022-10-20 | 2023-01-07 |
+| [Sleepless](https://open.spotify.com/track/025rVqgYpAB1U5toovqASa) | [Benda](https://open.spotify.com/artist/0md3NIXueJZSFZ82HMu26M), [Z3LLA](https://open.spotify.com/artist/5GsXRkwr74MAPYBjrgUT02) | [Sleepless](https://open.spotify.com/album/156MLIjzxFGluyeaVzJKdX) | 2:59 | 2026-05-25 |  |
 | [Slip Away](https://open.spotify.com/track/316uf691AwTyNmSmcr6ceL) | [Arlow](https://open.spotify.com/artist/0UUg4WqiuFaqavE3JSZtHQ), [Kid Spirit](https://open.spotify.com/artist/6biLxqgIjSH15QbzXE8v8A) | [Slip Away](https://open.spotify.com/album/7zLGfYzZkeMd6rVaYgA2c9) | 3:22 | 2022-10-18 | 2022-12-17 |
 | [Slow Burn](https://open.spotify.com/track/2fqjgv5ZhAzR0fXC5WrrPT) | [Last Heroes](https://open.spotify.com/artist/3HHfEn7yPOy3IiHS6CHG97), [Midnight Kids](https://open.spotify.com/artist/5w39eY1aNDybnDGTNgVt3r) | [Slow Burn](https://open.spotify.com/album/3n8WLww6y3YDe9hjPDGaQT) | 3:26 | 2026-04-02 |  |
 | [Smile](https://open.spotify.com/track/5P45OGJSEG8LUsdulhp6sJ) | [Spag Heddy](https://open.spotify.com/artist/043Bey7ngSGRFpJftAlKpi), [Lalo](https://open.spotify.com/artist/2of5gwyLkBz7D4phC09h3f) | [Smile](https://open.spotify.com/album/7qTMw9yGynm49gjq2MyUC2) | 3:25 | 2022-09-08 | 2022-11-09 |

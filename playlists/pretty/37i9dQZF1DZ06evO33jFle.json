@@ -1,12 +1,12 @@
 {
   "description": "This is Jenni Rivera. The essential tracks, all in one playlist.",
-  "num_followers": 549834,
+  "num_followers": 549909,
   "original_name": "This Is Jenni Rivera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahDuAAAAAABzzg4iQFJra52Or+XMsB27",
+  "snapshot_id": "ahI/gAAAAAD03NiiuUsVKIMVrIWhTH8A",
   "tracks": [
     {
       "added_at": null,
@@ -175,22 +175,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Joyas Prestadas - Banda",
-        "url": "https://open.spotify.com/album/2S1InqamaQuotpISCqos3W"
+        "name": "Simplemente la Mejor",
+        "url": "https://open.spotify.com/album/598e7UqBzKqD8st5MZbXwu"
       },
       "artists": [
         {
           "name": "Jenni Rivera",
           "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
-        },
-        {
-          "name": "Marco Antonio Sol\u00eds",
-          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
         }
       ],
-      "duration_ms": 265840,
-      "name": "Como Tu Mujer - Banda",
-      "url": "https://open.spotify.com/track/2q13QRhe7cgmZNjUmwbn4p"
+      "duration_ms": 263893,
+      "name": "Amiga Si Lo Ves",
+      "url": "https://open.spotify.com/track/5FSZ1u0m46BQPGNXZEO5AS"
     },
     {
       "added_at": null,
@@ -211,18 +207,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Simplemente la Mejor",
-        "url": "https://open.spotify.com/album/598e7UqBzKqD8st5MZbXwu"
+        "name": "Joyas Prestadas - Banda",
+        "url": "https://open.spotify.com/album/2S1InqamaQuotpISCqos3W"
       },
       "artists": [
         {
           "name": "Jenni Rivera",
           "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        },
+        {
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
         }
       ],
-      "duration_ms": 263893,
-      "name": "Amiga Si Lo Ves",
-      "url": "https://open.spotify.com/track/5FSZ1u0m46BQPGNXZEO5AS"
+      "duration_ms": 265840,
+      "name": "Como Tu Mujer - Banda",
+      "url": "https://open.spotify.com/track/2q13QRhe7cgmZNjUmwbn4p"
     },
     {
       "added_at": null,
@@ -243,8 +243,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Joyas Prestadas - Banda",
-        "url": "https://open.spotify.com/album/2S1InqamaQuotpISCqos3W"
+        "name": "Mi Vida Loca",
+        "url": "https://open.spotify.com/album/6T7KG6x0FdyEhDLaCJ1xmM"
       },
       "artists": [
         {
@@ -252,9 +252,9 @@
           "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
         }
       ],
-      "duration_ms": 264186,
-      "name": "A Cambio de Qu\u00e9 - Banda",
-      "url": "https://open.spotify.com/track/0KJukOSRpRffsmjG3KB9L7"
+      "duration_ms": 223920,
+      "name": "Mirame",
+      "url": "https://open.spotify.com/track/2lxiwqCxyXDxL8xks4aXBu"
     },
     {
       "added_at": null,
@@ -275,8 +275,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Vida Loca",
-        "url": "https://open.spotify.com/album/6T7KG6x0FdyEhDLaCJ1xmM"
+        "name": "Joyas Prestadas - Banda",
+        "url": "https://open.spotify.com/album/2S1InqamaQuotpISCqos3W"
       },
       "artists": [
         {
@@ -284,9 +284,9 @@
           "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
         }
       ],
-      "duration_ms": 223920,
-      "name": "Mirame",
-      "url": "https://open.spotify.com/track/2lxiwqCxyXDxL8xks4aXBu"
+      "duration_ms": 264186,
+      "name": "A Cambio de Qu\u00e9 - Banda",
+      "url": "https://open.spotify.com/track/0KJukOSRpRffsmjG3KB9L7"
     },
     {
       "added_at": null,
@@ -307,8 +307,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Joyas Prestadas - Banda",
-        "url": "https://open.spotify.com/album/2S1InqamaQuotpISCqos3W"
+        "name": "Mi Vida Loca",
+        "url": "https://open.spotify.com/album/6T7KG6x0FdyEhDLaCJ1xmM"
       },
       "artists": [
         {
@@ -316,9 +316,9 @@
           "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
         }
       ],
-      "duration_ms": 242226,
-      "name": "A Que No Le Cuentas - Banda",
-      "url": "https://open.spotify.com/track/6JcN0pwRcegqH1hyZcID15"
+      "duration_ms": 218280,
+      "name": "Ahora Que Estuviste Lejos",
+      "url": "https://open.spotify.com/track/0mVNDYnQh9Dcdl3M2fRts1"
     },
     {
       "added_at": null,
@@ -339,8 +339,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Vida Loca",
-        "url": "https://open.spotify.com/album/6T7KG6x0FdyEhDLaCJ1xmM"
+        "name": "Joyas Prestadas - Banda",
+        "url": "https://open.spotify.com/album/2S1InqamaQuotpISCqos3W"
       },
       "artists": [
         {
@@ -348,9 +348,9 @@
           "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
         }
       ],
-      "duration_ms": 218280,
-      "name": "Ahora Que Estuviste Lejos",
-      "url": "https://open.spotify.com/track/0mVNDYnQh9Dcdl3M2fRts1"
+      "duration_ms": 242226,
+      "name": "A Que No Le Cuentas - Banda",
+      "url": "https://open.spotify.com/track/6JcN0pwRcegqH1hyZcID15"
     },
     {
       "added_at": null,

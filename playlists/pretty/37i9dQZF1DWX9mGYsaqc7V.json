@@ -1,6 +1,6 @@
 {
   "description": "Dim the lights and chill with these classic slow jamz.",
-  "num_followers": 480521,
+  "num_followers": 480539,
   "original_name": "Slow Jamz",
   "owner": {
     "name": "Spotify",
@@ -559,6 +559,22 @@
     {
       "added_at": "2025-05-01 13:20:41",
       "album": {
+        "name": "Bluestars",
+        "url": "https://open.spotify.com/album/5Kexjw3aLUrvDNAGrUMAmE"
+      },
+      "artists": [
+        {
+          "name": "Pretty Ricky",
+          "url": "https://open.spotify.com/artist/6XwcepfAsPhrvwziGxhwju"
+        }
+      ],
+      "duration_ms": 237733,
+      "name": "Grind With Me",
+      "url": "https://open.spotify.com/track/3B7i9OKRRmIsSBHEbJz58Y"
+    },
+    {
+      "added_at": "2025-05-01 13:20:41",
+      "album": {
         "name": "Share My World",
         "url": "https://open.spotify.com/album/11s3RAPMk0LpsZhuniepSW"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 286400,
       "name": "I Can Love You",
       "url": "https://open.spotify.com/track/4MTHIKGWNTBoubzDMkXFfa"
-    },
-    {
-      "added_at": "2025-05-01 13:20:41",
-      "album": {
-        "name": "Bluestars",
-        "url": "https://open.spotify.com/album/5Kexjw3aLUrvDNAGrUMAmE"
-      },
-      "artists": [
-        {
-          "name": "Pretty Ricky",
-          "url": "https://open.spotify.com/artist/6XwcepfAsPhrvwziGxhwju"
-        }
-      ],
-      "duration_ms": 237733,
-      "name": "Grind With Me",
-      "url": "https://open.spotify.com/track/3B7i9OKRRmIsSBHEbJz58Y"
     },
     {
       "added_at": "2025-05-01 13:20:41",
@@ -783,22 +783,6 @@
     {
       "added_at": "2025-05-01 13:20:41",
       "album": {
-        "name": "Secrets",
-        "url": "https://open.spotify.com/album/6rxtWZH5ua9eANwWdwwf9o"
-      },
-      "artists": [
-        {
-          "name": "Toni Braxton",
-          "url": "https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe"
-        }
-      ],
-      "duration_ms": 267440,
-      "name": "You're Makin' Me High",
-      "url": "https://open.spotify.com/track/5bJ796cOnGBzSN5bm4mwMj"
-    },
-    {
-      "added_at": "2025-05-01 13:20:41",
-      "album": {
         "name": "I Wanna Go There",
         "url": "https://open.spotify.com/album/3skbBjGnAOqfy6ndwwOT4G"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 294693,
       "name": "How You Gonna Act Like That",
       "url": "https://open.spotify.com/track/3OUApyz3jDB3syGUNGqB1d"
+    },
+    {
+      "added_at": "2025-05-01 13:20:41",
+      "album": {
+        "name": "Secrets",
+        "url": "https://open.spotify.com/album/6rxtWZH5ua9eANwWdwwf9o"
+      },
+      "artists": [
+        {
+          "name": "Toni Braxton",
+          "url": "https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe"
+        }
+      ],
+      "duration_ms": 267440,
+      "name": "You're Makin' Me High",
+      "url": "https://open.spotify.com/track/5bJ796cOnGBzSN5bm4mwMj"
     },
     {
       "added_at": "2025-05-01 13:20:41",
@@ -975,22 +975,6 @@
     {
       "added_at": "2025-05-01 13:20:41",
       "album": {
-        "name": "Voodoo",
-        "url": "https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8"
-      },
-      "artists": [
-        {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
-        }
-      ],
-      "duration_ms": 430800,
-      "name": "Untitled (How Does It Feel)",
-      "url": "https://open.spotify.com/track/4oPNN7syJYSjzDhRerF966"
-    },
-    {
-      "added_at": "2025-05-01 13:20:41",
-      "album": {
         "name": "The Day",
         "url": "https://open.spotify.com/album/66Vhr3F0vp90jhQUlcf4Sk"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 296266,
       "name": "Every Time I Close My Eyes (with Kenny G)",
       "url": "https://open.spotify.com/track/2ezqQeBiC72gwMJoO4w1hA"
+    },
+    {
+      "added_at": "2025-05-01 13:20:41",
+      "album": {
+        "name": "Voodoo",
+        "url": "https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8"
+      },
+      "artists": [
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "duration_ms": 430800,
+      "name": "Untitled (How Does It Feel)",
+      "url": "https://open.spotify.com/track/4oPNN7syJYSjzDhRerF966"
     },
     {
       "added_at": "2025-05-01 13:20:41",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2025-05-01 13:20:41",
       "album": {
-        "name": "Corinne Bailey Rae",
-        "url": "https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg"
-      },
-      "artists": [
-        {
-          "name": "Corinne Bailey Rae",
-          "url": "https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn"
-        }
-      ],
-      "duration_ms": 243213,
-      "name": "Like A Star",
-      "url": "https://open.spotify.com/track/5Anh8jULgeUgciLHCR25Mk"
-    },
-    {
-      "added_at": "2025-05-01 13:20:41",
-      "album": {
         "name": "From The Bottom Up",
         "url": "https://open.spotify.com/album/4AqJY8SxoiR6MWWfawrxVz"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 304160,
       "name": "If You Love Me",
       "url": "https://open.spotify.com/track/0BTGqPIW9acmhhUmENkq5r"
+    },
+    {
+      "added_at": "2025-05-01 13:20:41",
+      "album": {
+        "name": "Corinne Bailey Rae",
+        "url": "https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg"
+      },
+      "artists": [
+        {
+          "name": "Corinne Bailey Rae",
+          "url": "https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn"
+        }
+      ],
+      "duration_ms": 243213,
+      "name": "Like A Star",
+      "url": "https://open.spotify.com/track/5Anh8jULgeUgciLHCR25Mk"
     },
     {
       "added_at": "2025-05-01 13:20:41",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2025-05-01 13:20:41",
       "album": {
-        "name": "SAVAGE",
-        "url": "https://open.spotify.com/album/2P723Vzun1R14cqiwfX7Fa"
-      },
-      "artists": [
-        {
-          "name": "Tank",
-          "url": "https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l"
-        }
-      ],
-      "duration_ms": 309120,
-      "name": "When We",
-      "url": "https://open.spotify.com/track/2HWelwHQS4EdRqIycZOc3O"
-    },
-    {
-      "added_at": "2025-05-01 13:20:41",
-      "album": {
         "name": "Make It Last Forever",
         "url": "https://open.spotify.com/album/1UwtBNOPmXRtdxPJAiNryN"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 296400,
       "name": "Make It Last Forever (with Jacci McGhee)",
       "url": "https://open.spotify.com/track/7vVIj8Tm1wCawjvwVZdeLD"
+    },
+    {
+      "added_at": "2025-05-01 13:20:41",
+      "album": {
+        "name": "SAVAGE",
+        "url": "https://open.spotify.com/album/2P723Vzun1R14cqiwfX7Fa"
+      },
+      "artists": [
+        {
+          "name": "Tank",
+          "url": "https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l"
+        }
+      ],
+      "duration_ms": 309120,
+      "name": "When We",
+      "url": "https://open.spotify.com/track/2HWelwHQS4EdRqIycZOc3O"
     },
     {
       "added_at": "2025-05-01 13:20:41",
@@ -1663,18 +1663,18 @@
     {
       "added_at": "2025-05-01 13:20:41",
       "album": {
-        "name": "I Wanna Go There",
-        "url": "https://open.spotify.com/album/3skbBjGnAOqfy6ndwwOT4G"
+        "name": "Burn",
+        "url": "https://open.spotify.com/album/5adyyJ9rxUeRoDcCz19Ke1"
       },
       "artists": [
         {
-          "name": "Tyrese",
-          "url": "https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ"
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
         }
       ],
-      "duration_ms": 245893,
-      "name": "Signs of Love Makin'",
-      "url": "https://open.spotify.com/track/6RYynPLHZLnpwjejfGWpQl"
+      "duration_ms": 256653,
+      "name": "Burn - Radio Mix",
+      "url": "https://open.spotify.com/track/6gpEUabUe4Qtc0jek4BC50"
     }
   ],
   "unique_name": "Slow Jamz",

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd2Vmhfon1w.md) - [plain]
 
 > Lo mejor del hip hop español\. Feat\. Elio Toffana
 
-[Spotify](https://open.spotify.com/user/spotify) - 532,671 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 532,678 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [ES ASÍ](https://open.spotify.com/track/7BJCw12eTZOambUbPxBrOq) | [Elio Toffana](https://open.spotify.com/artist/3iaWOU36p7W4oqHLDoBQmr), [Cruz Cafuné](https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3), [Israel B](https://open.spotify.com/artist/16M8fuShcwX8uBDdmFZH9B), [Lil Supa](https://open.spotify.com/artist/0qHbO3z6lgLE6ZYCkQBo1K), [Ill Pekeño](https://open.spotify.com/artist/3T4KspU3H8Ya6sgxexg9F8), [Ergo Pro](https://open.spotify.com/artist/6RGXMZ5gUtYKHpG3RQ9fM4), [El Secreto Produce](https://open.spotify.com/artist/4yj1qiNZsw5eXOWhEBbAfR), [Govea La Firma](https://open.spotify.com/artist/2fvNE0HlLU5xViGXVN6zfG), [Dano](https://open.spotify.com/artist/3lIsPQW0jN6sMpiWuiShF0) | [GRAVITAS](https://open.spotify.com/album/6isZxUm1nytbX1fFi6E4G3) | 2:46 |
-| 2 | [Por Si Muero Mañana](https://open.spotify.com/track/50wxzf0nRsbcFZcw1gBUKN) | [Reality](https://open.spotify.com/artist/0FvRr7kKHIwQJxpRwf5OCw) | [POR SI MUERO MAÑANA](https://open.spotify.com/album/08p0HYnhmDt1GE54sHC8nu) | 2:36 |
-| 3 | [I'm So High](https://open.spotify.com/track/20Kch1lUnS2OVduVqEo7P2) | [EZVIT 810](https://open.spotify.com/artist/20taoPw3DvVajnkUySMckx) | [I'm So High](https://open.spotify.com/album/45RXqCNUNlftv6t4UBntRN) | 4:26 |
-| 4 | [El Diario del Loco](https://open.spotify.com/track/6HlX2bpBirY8SBoBMc69nj) | [Blake](https://open.spotify.com/artist/2FwMmxiCWQhEyO9k0nOyNF), [Kandas](https://open.spotify.com/artist/4gMZApWfk1wPyjVnS8LUjP) | [El Diario del Loco](https://open.spotify.com/album/56BZCljC5qDOpNuyHlNzQ9) | 3:40 |
+| 1 | [Por Si Muero Mañana](https://open.spotify.com/track/50wxzf0nRsbcFZcw1gBUKN) | [Reality](https://open.spotify.com/artist/0FvRr7kKHIwQJxpRwf5OCw) | [POR SI MUERO MAÑANA](https://open.spotify.com/album/08p0HYnhmDt1GE54sHC8nu) | 2:36 |
+| 2 | [I'm So High](https://open.spotify.com/track/20Kch1lUnS2OVduVqEo7P2) | [EZVIT 810](https://open.spotify.com/artist/20taoPw3DvVajnkUySMckx) | [I'm So High](https://open.spotify.com/album/45RXqCNUNlftv6t4UBntRN) | 4:26 |
+| 3 | [El Diario del Loco](https://open.spotify.com/track/6HlX2bpBirY8SBoBMc69nj) | [Blake](https://open.spotify.com/artist/2FwMmxiCWQhEyO9k0nOyNF), [Kandas](https://open.spotify.com/artist/4gMZApWfk1wPyjVnS8LUjP) | [El Diario del Loco](https://open.spotify.com/album/56BZCljC5qDOpNuyHlNzQ9) | 3:40 |
+| 4 | [ES ASÍ](https://open.spotify.com/track/7BJCw12eTZOambUbPxBrOq) | [Elio Toffana](https://open.spotify.com/artist/3iaWOU36p7W4oqHLDoBQmr), [Cruz Cafuné](https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3), [Israel B](https://open.spotify.com/artist/16M8fuShcwX8uBDdmFZH9B), [Lil Supa](https://open.spotify.com/artist/0qHbO3z6lgLE6ZYCkQBo1K), [Ill Pekeño](https://open.spotify.com/artist/3T4KspU3H8Ya6sgxexg9F8), [Ergo Pro](https://open.spotify.com/artist/6RGXMZ5gUtYKHpG3RQ9fM4), [El Secreto Produce](https://open.spotify.com/artist/4yj1qiNZsw5eXOWhEBbAfR), [Govea La Firma](https://open.spotify.com/artist/2fvNE0HlLU5xViGXVN6zfG), [Dano](https://open.spotify.com/artist/3lIsPQW0jN6sMpiWuiShF0) | [GRAVITAS](https://open.spotify.com/album/6isZxUm1nytbX1fFi6E4G3) | 2:46 |
 | 5 | [La última que te escribo](https://open.spotify.com/track/6FUyTjzljGsCPfLHDd8IKw) | [Reality](https://open.spotify.com/artist/0FvRr7kKHIwQJxpRwf5OCw), [NeURO](https://open.spotify.com/artist/1dwEsns205j4fqya0jZNq7) | [La última que te escribo](https://open.spotify.com/album/5xdyqD2SGwRmUgvc2399pp) | 2:28 |
 | 6 | [Si Me Arde la Piel](https://open.spotify.com/track/6BRUBWw1XBd6VYYK0hLR0w) | [Cocco Lexa](https://open.spotify.com/artist/5WMoWNq8DuL9pob4qu7mau) | [Si Me Arde la Piel](https://open.spotify.com/album/1DcYmRXZAwLFfTF9q8Cjti) | 2:07 |
 | 7 | [Genius](https://open.spotify.com/track/0VLnWtNcdBYnYX10B2ieUK) | [Blake](https://open.spotify.com/artist/2FwMmxiCWQhEyO9k0nOyNF) | [Genius](https://open.spotify.com/album/3NhJX4hxNbaQd2P3b1X2EA) | 3:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd2Vmhfon1w.md) - [plain]
 | 49 | [TE AVISÉ](https://open.spotify.com/track/0vKUYpGQCiBv8vF3AsEfMF) | [FERNANDOCOSTA](https://open.spotify.com/artist/5dC7EcwWdf9Qj4VvJab4rZ) | [TE AVISÉ](https://open.spotify.com/album/3seP3Ha297n63rbx8KV1rb) | 4:46 |
 | 50 | [PALERMO](https://open.spotify.com/track/5xXXaPbML5So9vw0FgKT50) | [GRECAS](https://open.spotify.com/artist/3DhrvmXFJs6QKCSafoPhl4) | [PALERMO](https://open.spotify.com/album/4q8eseeOihjl2dmv8RpuY2) | 2:19 |
 
-Snapshot ID: `AAAAAIownjNThEzMFqjbN16Z3yIQcb9z`
+Snapshot ID: `AAAAAIU6tglhTOgIG6IKr/USavckIXqk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFO7Uzjunmbbs.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/21JhxcGHq3awKEjLrsnRD8">Emily Weisband</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,039 likes - 215 songs - 12 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,040 likes - 215 songs - 12 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -147,8 +147,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFO7Uzjunmbbs.md) - [plain]
 | 137 | [To Be Honest](https://open.spotify.com/track/5TFu4FGmslo543UyEuxS9l) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [to be honest](https://open.spotify.com/album/3m59dkD0z3TuzwwZSEGt25) | 3:25 |
 | 138 | [Off The Highway](https://open.spotify.com/track/3COk8dMEndoyUTFdCxHHN8) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Chapter & Verse](https://open.spotify.com/album/4pfspuo0DUzho0hGtZHI9r) | 2:58 |
 | 139 | [Infatuation \- Spanish Remix](https://open.spotify.com/track/4HXzOlC2lMEmn2JEumzbNt) | [Angie Rose](https://open.spotify.com/artist/2vOqb0eO8aBj2dLpxlmscX) | [Unstoppable \(United We Can\)](https://open.spotify.com/album/6SzzbmZsFQcrpDkezXtnYU) | 2:55 |
-| 140 | [How This Ends](https://open.spotify.com/track/4vSCO0f8BurJVGYlY4OVkZ) | [Grayson Reed](https://open.spotify.com/artist/0ZqF46gvYuIgK5S5LjsUjk) | [Walk](https://open.spotify.com/album/65bBOu1yEq9ioTCPLM7yPo) | 3:41 |
-| 141 | [24/7/365](https://open.spotify.com/track/3gCc5wOvttknEvHjmhJ4Us) | [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [24/7/365](https://open.spotify.com/album/1jOM9xUic19PwkEHu7KzxH) | 3:05 |
+| 140 | [24/7/365](https://open.spotify.com/track/3gCc5wOvttknEvHjmhJ4Us) | [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [24/7/365](https://open.spotify.com/album/1jOM9xUic19PwkEHu7KzxH) | 3:05 |
+| 141 | [How This Ends](https://open.spotify.com/track/4vSCO0f8BurJVGYlY4OVkZ) | [Grayson Reed](https://open.spotify.com/artist/0ZqF46gvYuIgK5S5LjsUjk) | [Walk](https://open.spotify.com/album/65bBOu1yEq9ioTCPLM7yPo) | 3:41 |
 | 142 | [Something I'm Not](https://open.spotify.com/track/6HQMEEo4h1EIp8JfzwHZKQ) | [Emily Weisband](https://open.spotify.com/artist/1am9EW2QubqpkCbg29vu5n) | [Identity Crisis](https://open.spotify.com/album/3lbaOO0V8HmnSDcmd85QAw) | 3:16 |
 | 143 | [Dumber](https://open.spotify.com/track/74TqdcqLHGDAJ9xnmWCMFF) | [Emily Weisband](https://open.spotify.com/artist/1am9EW2QubqpkCbg29vu5n) | [Dumber](https://open.spotify.com/album/117DyJhEs1TkpAsughPA4n) | 3:30 |
 | 144 | [Anywhere for You](https://open.spotify.com/track/6TORZWko3D8kIzfQ5S7uyd) | [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [MacKenzie Porter](https://open.spotify.com/album/7JnxsKJF4RXlmEJAUYRsFX) | 3:28 |
@@ -224,4 +224,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFO7Uzjunmbbs.md) - [plain]
 | 214 | [Fade](https://open.spotify.com/track/1C9Wc3BTnDUHZk3GIkgbZN) | [The Economy](https://open.spotify.com/artist/0paX1HpZropGQVJ08G2WRG) | [The Early Hours](https://open.spotify.com/album/2gTjxjSENo91JkJRVRkhNK) | 5:10 |
 | 215 | [Heartache](https://open.spotify.com/track/1ANoywqSXzofnUGE2ZXENq) | [Lil JJ Reynolds](https://open.spotify.com/artist/6tOlcdCH7l4MwVW8EyHBDC) | [Heartache](https://open.spotify.com/album/0R8XSYdAgRsBc5saCdVQUl) | 3:12 |
 
-Snapshot ID: `AcSYnAAAAADk0DtiJ39xvsD1dIRg+6rW`
+Snapshot ID: `AcSeMgAAAACNF+LHUQoGN9Qsj9ycQzED`

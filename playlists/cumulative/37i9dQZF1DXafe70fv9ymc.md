@@ -4,7 +4,7 @@
 
 > NSFW
 
-215 songs - 10 hr 41 min
+216 songs - 10 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Buss It](https://open.spotify.com/track/1lHKhXQaVQEF9TRzspZw4N) | [GoodGirl LA](https://open.spotify.com/artist/62HQP03xtoXexSY1Kp0cdS) | [Goodgirl](https://open.spotify.com/album/1kl2GoivQlzwmw77mq9ejm) | 2:47 | 2025-07-04 |  |
 | [Call It What It Is](https://open.spotify.com/track/6RKSqt3uJIix0bFspWCHCm) | [Phiwo](https://open.spotify.com/artist/1qoXgLST4EUgUB9Ml5jVOp) | [Missed Calls](https://open.spotify.com/album/06pfB7hTyBYlV9RblGKzDE) | 4:01 | 2025-08-15 | 2025-11-14 |
 | [CERTAIN](https://open.spotify.com/track/4Jf7bLNxng8WtEdbC4gSn7) | [UAX](https://open.spotify.com/artist/5KIcYbv98M0MozhLs5lHnT), [Winny](https://open.spotify.com/artist/6QjsZEGqDMbzKvCdfFN5nz) | [LOVE & HUSTLE \(DELUXE\)](https://open.spotify.com/album/7fBwEgjC3GVNG1ojYz1vcQ) | 3:02 | 2025-07-11 | 2026-03-27 |
-| [Cherry](https://open.spotify.com/track/2jKM4QHpRExHWHQ5rd9BPy) | [Sante SVM](https://open.spotify.com/artist/7azRGJNhemWWnc0pN4Q0w1) | [Cherry](https://open.spotify.com/album/19y2pdapQQdE0aNAHwydny) | 2:20 | 2026-04-17 |  |
+| [Cherry](https://open.spotify.com/track/2jKM4QHpRExHWHQ5rd9BPy) | [Sante SVM](https://open.spotify.com/artist/7azRGJNhemWWnc0pN4Q0w1) | [Cherry](https://open.spotify.com/album/19y2pdapQQdE0aNAHwydny) | 2:20 | 2026-04-17 | 2026-05-26 |
 | [Chill](https://open.spotify.com/track/5J2EQqHiopKv9cHX3zLSZg) | [Jasën Blu](https://open.spotify.com/artist/6IdeXkZ2Kk6CtIKe9QUePe) | [Chill](https://open.spotify.com/album/3hAvR6hXAumr2FaeDnmbNf) | 3:58 | 2024-02-09 | 2024-06-28 |
 | [Chocolati](https://open.spotify.com/track/2GnmljVcpgOs1kX2ysKazT) | [Azekel](https://open.spotify.com/artist/446nYwuXzCKnDwZUu4kGQA), [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Analyze Love](https://open.spotify.com/album/3tMt7EOBb1KBbfiKKJaWKj) | 2:20 | 2024-02-09 | 2024-02-23 |
 | [chokehold](https://open.spotify.com/track/1sTHELUvMf848Hr5b2ekav) | [Zowie Kengocha](https://open.spotify.com/artist/2lwHCnbymJQL6WUDaEKdci), [NGE\-THE\-PRODUCER](https://open.spotify.com/artist/5oV5Wd6ZbxfzzlHqlOchXS) | [Nightshot](https://open.spotify.com/album/0L9LtAbap45bpiJsqX05fG) | 4:02 | 2024-02-09 | 2025-03-29 |
@@ -165,6 +165,7 @@
 | [SA RO](https://open.spotify.com/track/1vgu72yPGBz3gOFD3SXaVA) | [Bolu Ajibade](https://open.spotify.com/artist/44HFYth2ExH9jiZrlLjxTg), [Bala](https://open.spotify.com/artist/5Ec31Oisu03xyaUlt2FGla) | [SA RO](https://open.spotify.com/album/2UBOv8lqdU5fY0ouPtErN5) | 2:49 | 2025-10-17 | 2026-03-20 |
 | [Samory](https://open.spotify.com/track/50IoIPZlen5UAnmsAYRzEM) | [Dahvi](https://open.spotify.com/artist/0NNZ9fgoCQAhNosJJH9CKt) | [Samory](https://open.spotify.com/album/2zGag5WZkERb7PpoVu2SuP) | 2:41 | 2025-05-09 | 2025-05-17 |
 | [Second Thoughts](https://open.spotify.com/track/1LKGPZBZTeFrsSevbGqVz9) | [AYLØ](https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd), [Le Mav](https://open.spotify.com/artist/59MU62wyOLf8FlV7l8fewL), [Naya Akanji](https://open.spotify.com/artist/6m06UHY5Bn1VmA91oCukAm) | [Second Thoughts](https://open.spotify.com/album/7kxDk3xWnJBvecCkH13NVw) | 2:17 | 2026-03-06 |  |
+| [Serial Kisser](https://open.spotify.com/track/6xpOCLTrc9IEuwPuFuGO6F) | [Rukmani](https://open.spotify.com/artist/4lz2CgyavcVw3XfnvID7FV), [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW) | [HIH & Serial Kisser](https://open.spotify.com/album/2L8m2nH21rqTK30vMUyGfA) | 3:01 | 2026-05-25 |  |
 | [Sex on the Beach](https://open.spotify.com/track/1Sf8Ze5NuNkqbO8QtkpFzd) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Sex on the Beach](https://open.spotify.com/album/3A7E83wdmhD0rW9vHknShB) | 2:51 | 2025-12-12 | 2026-02-20 |
 | [Sexual Healing](https://open.spotify.com/track/5UlIQlThsFv7qCEhQbR5EG) | [Eli Jae](https://open.spotify.com/artist/6dBO8lveHpWKwMEMXnWIjQ) | [Sexual Healing](https://open.spotify.com/album/0B3HUlpNETv0FAF7grb0Sd) | 2:55 | 2025-03-28 | 2026-02-20 |
 | [SHABA](https://open.spotify.com/track/3Mkn6UjdPtKdySe78jVfxg) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9), [DETO BLACK](https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT) | [SHABA](https://open.spotify.com/album/1yQJjYlbpPEsepf57EsyHA) | 2:01 | 2026-04-17 |  |

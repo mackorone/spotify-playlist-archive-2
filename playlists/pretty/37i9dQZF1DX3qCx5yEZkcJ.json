@@ -1,6 +1,6 @@
 {
   "description": "Stay relaxed with these low-key beats and instrumentals.",
-  "num_followers": 1473369,
+  "num_followers": 1473355,
   "original_name": "Mellow Beats",
   "owner": {
     "name": "Spotify",
@@ -251,22 +251,6 @@
     {
       "added_at": "2026-05-12 11:52:15",
       "album": {
-        "name": "BIG BLUE",
-        "url": "https://open.spotify.com/album/5N20fAevDwj4glrtlKdCzl"
-      },
-      "artists": [
-        {
-          "name": "Yakkle",
-          "url": "https://open.spotify.com/artist/3mjx8PSsyldIILTLtw2Nap"
-        }
-      ],
-      "duration_ms": 166392,
-      "name": "BIG BLUE",
-      "url": "https://open.spotify.com/track/5EWpiLgQ6WYrvp7DbYhj70"
-    },
-    {
-      "added_at": "2026-05-12 11:52:15",
-      "album": {
         "name": "Zoning Out Vol. 2",
         "url": "https://open.spotify.com/album/5otufrAYStK1GqtwpRyTTn"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 125474,
       "name": "Please Chill",
       "url": "https://open.spotify.com/track/1ndEnRNcXCZWJIz8x6YEQH"
+    },
+    {
+      "added_at": "2026-05-12 11:52:15",
+      "album": {
+        "name": "BIG BLUE",
+        "url": "https://open.spotify.com/album/5N20fAevDwj4glrtlKdCzl"
+      },
+      "artists": [
+        {
+          "name": "Yakkle",
+          "url": "https://open.spotify.com/artist/3mjx8PSsyldIILTLtw2Nap"
+        }
+      ],
+      "duration_ms": 166392,
+      "name": "BIG BLUE",
+      "url": "https://open.spotify.com/track/5EWpiLgQ6WYrvp7DbYhj70"
     },
     {
       "added_at": "2026-05-12 11:52:15",
@@ -555,6 +555,30 @@
     {
       "added_at": "2026-05-12 11:52:15",
       "album": {
+        "name": "Sanctuary",
+        "url": "https://open.spotify.com/album/6tMN6g7mEtMIBGeQPjYDYy"
+      },
+      "artists": [
+        {
+          "name": "Seizan Ishigaki",
+          "url": "https://open.spotify.com/artist/2YVKRBTfIy4rKoqpwzkbO0"
+        },
+        {
+          "name": "Lola",
+          "url": "https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT"
+        },
+        {
+          "name": "Devaloop",
+          "url": "https://open.spotify.com/artist/0eEQAbC1TFqlGdqIa5YjKY"
+        }
+      ],
+      "duration_ms": 139320,
+      "name": "Sanctuary",
+      "url": "https://open.spotify.com/track/17fdQzkqBqZq7HLYgXdmwk"
+    },
+    {
+      "added_at": "2026-05-12 11:52:15",
+      "album": {
         "name": "Tangerine Hues",
         "url": "https://open.spotify.com/album/78zuWk8ZgaMMLlTMtIMsT5"
       },
@@ -571,30 +595,6 @@
       "duration_ms": 184346,
       "name": "Tangerine Hues",
       "url": "https://open.spotify.com/track/4fImJZBA2TopABdxAEg1in"
-    },
-    {
-      "added_at": "2026-05-12 11:52:15",
-      "album": {
-        "name": "Azure",
-        "url": "https://open.spotify.com/album/2qDTdW3kp496Ebr6edjM62"
-      },
-      "artists": [
-        {
-          "name": "Seizan Ishigaki",
-          "url": "https://open.spotify.com/artist/2YVKRBTfIy4rKoqpwzkbO0"
-        },
-        {
-          "name": "Lola",
-          "url": "https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT"
-        },
-        {
-          "name": "Devaloop",
-          "url": "https://open.spotify.com/artist/0eEQAbC1TFqlGdqIa5YjKY"
-        }
-      ],
-      "duration_ms": 139508,
-      "name": "Azure",
-      "url": "https://open.spotify.com/track/0Yo1t0lsn2vqvZLd0kxJ5P"
     },
     {
       "added_at": "2026-05-12 11:52:15",
@@ -659,24 +659,8 @@
     {
       "added_at": "2026-05-12 11:52:15",
       "album": {
-        "name": "Life in the Wild Garden",
-        "url": "https://open.spotify.com/album/7igj3j6IZ7YGUiHzbp7Rqb"
-      },
-      "artists": [
-        {
-          "name": "Savages",
-          "url": "https://open.spotify.com/artist/4opwQe0g9rAbtbsAErAOdS"
-        }
-      ],
-      "duration_ms": 95000,
-      "name": "Viva la Vida",
-      "url": "https://open.spotify.com/track/5evpVv0ztB0Fp9LM35bqZO"
-    },
-    {
-      "added_at": "2026-05-12 11:52:15",
-      "album": {
-        "name": "Sanctuary",
-        "url": "https://open.spotify.com/album/6tMN6g7mEtMIBGeQPjYDYy"
+        "name": "Azure",
+        "url": "https://open.spotify.com/album/2qDTdW3kp496Ebr6edjM62"
       },
       "artists": [
         {
@@ -692,9 +676,25 @@
           "url": "https://open.spotify.com/artist/0eEQAbC1TFqlGdqIa5YjKY"
         }
       ],
-      "duration_ms": 139320,
-      "name": "Sanctuary",
-      "url": "https://open.spotify.com/track/17fdQzkqBqZq7HLYgXdmwk"
+      "duration_ms": 139508,
+      "name": "Azure",
+      "url": "https://open.spotify.com/track/0Yo1t0lsn2vqvZLd0kxJ5P"
+    },
+    {
+      "added_at": "2026-05-12 11:52:15",
+      "album": {
+        "name": "Life in the Wild Garden",
+        "url": "https://open.spotify.com/album/7igj3j6IZ7YGUiHzbp7Rqb"
+      },
+      "artists": [
+        {
+          "name": "Savages",
+          "url": "https://open.spotify.com/artist/4opwQe0g9rAbtbsAErAOdS"
+        }
+      ],
+      "duration_ms": 95000,
+      "name": "Viva la Vida",
+      "url": "https://open.spotify.com/track/5evpVv0ztB0Fp9LM35bqZO"
     },
     {
       "added_at": "2026-05-12 11:52:15",
@@ -735,22 +735,6 @@
     {
       "added_at": "2026-05-12 11:52:15",
       "album": {
-        "name": "Next to Nothing (Instrumental)",
-        "url": "https://open.spotify.com/album/3rLvFBULjCUBLKmiB7zYB2"
-      },
-      "artists": [
-        {
-          "name": "SoulChef",
-          "url": "https://open.spotify.com/artist/7rdiGVXL2fFyONexHzfKFS"
-        }
-      ],
-      "duration_ms": 110500,
-      "name": "Next to Nothing - Instrumental",
-      "url": "https://open.spotify.com/track/4oVvF4NSVB48GXqpQU5d0T"
-    },
-    {
-      "added_at": "2026-05-12 11:52:15",
-      "album": {
         "name": "Primo",
         "url": "https://open.spotify.com/album/0yQ2Z7C1W9zjXnRcVWkln4"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 162324,
       "name": "Primo",
       "url": "https://open.spotify.com/track/2uCgOs0VUkQYlnXtfi4uuK"
+    },
+    {
+      "added_at": "2026-05-12 11:52:15",
+      "album": {
+        "name": "Next to Nothing (Instrumental)",
+        "url": "https://open.spotify.com/album/3rLvFBULjCUBLKmiB7zYB2"
+      },
+      "artists": [
+        {
+          "name": "SoulChef",
+          "url": "https://open.spotify.com/artist/7rdiGVXL2fFyONexHzfKFS"
+        }
+      ],
+      "duration_ms": 110500,
+      "name": "Next to Nothing - Instrumental",
+      "url": "https://open.spotify.com/track/4oVvF4NSVB48GXqpQU5d0T"
     },
     {
       "added_at": "2026-05-12 11:52:15",
@@ -875,22 +875,6 @@
     {
       "added_at": "2026-05-12 11:52:15",
       "album": {
-        "name": "Whatsreal",
-        "url": "https://open.spotify.com/album/0orlhyvabLSgFZMzDAoy0T"
-      },
-      "artists": [
-        {
-          "name": "Psalm Trees",
-          "url": "https://open.spotify.com/artist/5pmXkV6A8yQdoa64xzvZ0S"
-        }
-      ],
-      "duration_ms": 148124,
-      "name": "Whatsreal",
-      "url": "https://open.spotify.com/track/61lsEaRkz1gXrfEoQ5yUzt"
-    },
-    {
-      "added_at": "2026-05-12 11:52:15",
-      "album": {
         "name": "The Scenic Route",
         "url": "https://open.spotify.com/album/7wbY6nhgh48vz5QGOGJDEo"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 173296,
       "name": "Recuring Dream",
       "url": "https://open.spotify.com/track/6dB6YYgBOPtzt37Fa0M8Eh"
+    },
+    {
+      "added_at": "2026-05-12 11:52:15",
+      "album": {
+        "name": "Whatsreal",
+        "url": "https://open.spotify.com/album/0orlhyvabLSgFZMzDAoy0T"
+      },
+      "artists": [
+        {
+          "name": "Psalm Trees",
+          "url": "https://open.spotify.com/artist/5pmXkV6A8yQdoa64xzvZ0S"
+        }
+      ],
+      "duration_ms": 148124,
+      "name": "Whatsreal",
+      "url": "https://open.spotify.com/track/61lsEaRkz1gXrfEoQ5yUzt"
     },
     {
       "added_at": "2026-05-12 11:52:15",
@@ -1043,6 +1043,30 @@
     {
       "added_at": "2026-05-12 11:52:15",
       "album": {
+        "name": "Flow Motion",
+        "url": "https://open.spotify.com/album/4cJ8GhgQkfaoQLpHcESCJB"
+      },
+      "artists": [
+        {
+          "name": "Seizan Ishigaki",
+          "url": "https://open.spotify.com/artist/2YVKRBTfIy4rKoqpwzkbO0"
+        },
+        {
+          "name": "Jikuru",
+          "url": "https://open.spotify.com/artist/2KV1oZF072xUfPJbNti3Gp"
+        },
+        {
+          "name": "Lola",
+          "url": "https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT"
+        }
+      ],
+      "duration_ms": 132152,
+      "name": "Flow Motion",
+      "url": "https://open.spotify.com/track/6letr2UF42D0KowDsi8IRN"
+    },
+    {
+      "added_at": "2026-05-12 11:52:15",
+      "album": {
         "name": "6F Encounters",
         "url": "https://open.spotify.com/album/6qDq0f7Oa3CpQGnTyT5qug"
       },
@@ -1147,30 +1171,6 @@
     {
       "added_at": "2026-05-12 11:52:15",
       "album": {
-        "name": "Flow Motion",
-        "url": "https://open.spotify.com/album/4cJ8GhgQkfaoQLpHcESCJB"
-      },
-      "artists": [
-        {
-          "name": "Seizan Ishigaki",
-          "url": "https://open.spotify.com/artist/2YVKRBTfIy4rKoqpwzkbO0"
-        },
-        {
-          "name": "Jikuru",
-          "url": "https://open.spotify.com/artist/2KV1oZF072xUfPJbNti3Gp"
-        },
-        {
-          "name": "Lola",
-          "url": "https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT"
-        }
-      ],
-      "duration_ms": 132152,
-      "name": "Flow Motion",
-      "url": "https://open.spotify.com/track/6letr2UF42D0KowDsi8IRN"
-    },
-    {
-      "added_at": "2026-05-12 11:52:15",
-      "album": {
         "name": "Hip Shop",
         "url": "https://open.spotify.com/album/0KRl72v3V3cZHeGVlRqDvC"
       },
@@ -1191,6 +1191,30 @@
       "duration_ms": 123008,
       "name": "Hip Shop",
       "url": "https://open.spotify.com/track/169xT0Be1P2Hgjd9hq5Lk1"
+    },
+    {
+      "added_at": "2026-05-12 11:52:15",
+      "album": {
+        "name": "Scintillate",
+        "url": "https://open.spotify.com/album/0adv9JqoGDSm3WhTL3jzcq"
+      },
+      "artists": [
+        {
+          "name": "Seizan Ishigaki",
+          "url": "https://open.spotify.com/artist/2YVKRBTfIy4rKoqpwzkbO0"
+        },
+        {
+          "name": "Lola",
+          "url": "https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT"
+        },
+        {
+          "name": "Devaloop",
+          "url": "https://open.spotify.com/artist/0eEQAbC1TFqlGdqIa5YjKY"
+        }
+      ],
+      "duration_ms": 173367,
+      "name": "Scintillate",
+      "url": "https://open.spotify.com/track/0I8lF4sOSnxssc99KxcBqU"
     },
     {
       "added_at": "2026-05-12 11:52:15",
@@ -1287,46 +1311,6 @@
     {
       "added_at": "2026-05-12 11:52:15",
       "album": {
-        "name": "Just a Lullaby",
-        "url": "https://open.spotify.com/album/7xmauQdCVxrTlyYu4i6qMd"
-      },
-      "artists": [
-        {
-          "name": "Justnormal",
-          "url": "https://open.spotify.com/artist/2YCz7aHoRoAZ435UDLOKOs"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "Quiet in the Garden",
-      "url": "https://open.spotify.com/track/0VDIK5NEwSkD6A4Dj7FRo8"
-    },
-    {
-      "added_at": "2026-05-12 11:52:15",
-      "album": {
-        "name": "Scintillate",
-        "url": "https://open.spotify.com/album/0adv9JqoGDSm3WhTL3jzcq"
-      },
-      "artists": [
-        {
-          "name": "Seizan Ishigaki",
-          "url": "https://open.spotify.com/artist/2YVKRBTfIy4rKoqpwzkbO0"
-        },
-        {
-          "name": "Lola",
-          "url": "https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT"
-        },
-        {
-          "name": "Devaloop",
-          "url": "https://open.spotify.com/artist/0eEQAbC1TFqlGdqIa5YjKY"
-        }
-      ],
-      "duration_ms": 173367,
-      "name": "Scintillate",
-      "url": "https://open.spotify.com/track/0I8lF4sOSnxssc99KxcBqU"
-    },
-    {
-      "added_at": "2026-05-12 11:52:15",
-      "album": {
         "name": "Hotel Melancholia",
         "url": "https://open.spotify.com/album/4tFdtVgyhHP4x9yWdcWGH0"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 147200,
       "name": "Faded Curtains",
       "url": "https://open.spotify.com/track/3oCd3FOFHmHna7DDGXosAJ"
+    },
+    {
+      "added_at": "2026-05-12 11:52:15",
+      "album": {
+        "name": "Just a Lullaby",
+        "url": "https://open.spotify.com/album/7xmauQdCVxrTlyYu4i6qMd"
+      },
+      "artists": [
+        {
+          "name": "Justnormal",
+          "url": "https://open.spotify.com/artist/2YCz7aHoRoAZ435UDLOKOs"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Quiet in the Garden",
+      "url": "https://open.spotify.com/track/0VDIK5NEwSkD6A4Dj7FRo8"
     },
     {
       "added_at": "2026-05-12 11:52:15",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2026-05-12 11:52:15",
       "album": {
-        "name": "UH OH",
-        "url": "https://open.spotify.com/album/2DbeT39Hbj8CLOssoeQBZB"
-      },
-      "artists": [
-        {
-          "name": "twuan",
-          "url": "https://open.spotify.com/artist/5T0wPeBVC0F7uEbIr8JKE5"
-        }
-      ],
-      "duration_ms": 110561,
-      "name": "UH OH",
-      "url": "https://open.spotify.com/track/48JxEAGsZtyzRPvX2PCbyC"
-    },
-    {
-      "added_at": "2026-05-12 11:52:15",
-      "album": {
         "name": "glow",
         "url": "https://open.spotify.com/album/01am4qkInFPSjZfREM4qxH"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 249717,
       "name": "glow",
       "url": "https://open.spotify.com/track/4wreXhAAcTh0WdYecOuuFj"
+    },
+    {
+      "added_at": "2026-05-12 11:52:15",
+      "album": {
+        "name": "UH OH",
+        "url": "https://open.spotify.com/album/2DbeT39Hbj8CLOssoeQBZB"
+      },
+      "artists": [
+        {
+          "name": "twuan",
+          "url": "https://open.spotify.com/artist/5T0wPeBVC0F7uEbIr8JKE5"
+        }
+      ],
+      "duration_ms": 110561,
+      "name": "UH OH",
+      "url": "https://open.spotify.com/track/48JxEAGsZtyzRPvX2PCbyC"
     },
     {
       "added_at": "2026-05-12 11:52:15",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-09",
-  "description": "canzoni per una primavera non proprio felice (giuse the lizia in cover) ",
+  "description": "canzoni per una primavera non proprio felice \ud83e\udd40 cover: EMMA al MI AMI Festival (credits: Giovanni Paracini)",
   "name": "sanguegiovane \ud83e\ude78",
   "tracks": [
     {
@@ -14255,6 +14255,24 @@
     },
     {
       "album": {
+        "name": "ERA L\u2019INIZIO",
+        "url": "https://open.spotify.com/album/2RgzZRAkdstoKe6NgpTrga"
+      },
+      "artists": [
+        {
+          "name": "EMMA",
+          "url": "https://open.spotify.com/artist/7LmO2BJsbObtMqCPcpjjhq"
+        }
+      ],
+      "date_added": "2026-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223427,
+      "name": "IL MONDO DEI BACi",
+      "url": "https://open.spotify.com/track/5RcybKkwmCrOU0CMGEmSdg"
+    },
+    {
+      "album": {
         "name": "IL MONDO DEI BACi",
         "url": "https://open.spotify.com/album/3B9hBYNxVTD1GAHmOHFzo3"
       },
@@ -14284,7 +14302,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-16",
+      "date_removed": null,
       "duration_ms": 257156,
       "name": "IL MONDO FUORi : .. ?",
       "url": "https://open.spotify.com/track/4KhQFg7o7JRJWiI8zQmxIf"

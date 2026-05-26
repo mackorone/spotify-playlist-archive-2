@@ -1,6 +1,6 @@
 {
   "description": "It's just us.",
-  "num_followers": 1143353,
+  "num_followers": 1143365,
   "original_name": "You & Me",
   "owner": {
     "name": "Spotify",
@@ -547,6 +547,22 @@
     {
       "added_at": "2026-02-18 18:45:42",
       "album": {
+        "name": "Broken Machine (Deluxe)",
+        "url": "https://open.spotify.com/album/0r7wrRVD77lNrD9t2QgZrq"
+      },
+      "artists": [
+        {
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+        }
+      ],
+      "duration_ms": 235884,
+      "name": "Particles",
+      "url": "https://open.spotify.com/track/1W2TYUenzUdOOuATtQIWS2"
+    },
+    {
+      "added_at": "2026-02-18 18:45:42",
+      "album": {
         "name": "Nine Types of Light",
         "url": "https://open.spotify.com/album/0FvrvaVsWQ7kTdGzipW6HV"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 261869,
       "name": "Liar",
       "url": "https://open.spotify.com/track/7EUhSxz4srS8pqh1cENbLB"
-    },
-    {
-      "added_at": "2026-02-18 18:45:42",
-      "album": {
-        "name": "Broken Machine (Deluxe)",
-        "url": "https://open.spotify.com/album/0r7wrRVD77lNrD9t2QgZrq"
-      },
-      "artists": [
-        {
-          "name": "Nothing But Thieves",
-          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
-        }
-      ],
-      "duration_ms": 235884,
-      "name": "Particles",
-      "url": "https://open.spotify.com/track/1W2TYUenzUdOOuATtQIWS2"
     },
     {
       "added_at": "2026-02-18 18:45:42",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2026-02-18 18:45:42",
       "album": {
-        "name": "My Honest Face",
-        "url": "https://open.spotify.com/album/52fKsRuzOum7y9iGC67GSn"
-      },
-      "artists": [
-        {
-          "name": "Inhaler",
-          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
-        }
-      ],
-      "duration_ms": 453600,
-      "name": "There's No Other Place",
-      "url": "https://open.spotify.com/track/2pFPvMME9cynR1dokBTHJJ"
-    },
-    {
-      "added_at": "2026-02-18 18:45:42",
-      "album": {
         "name": "Perfume",
         "url": "https://open.spotify.com/album/7tbsKocOD59BcX2FJKfqUH"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 219964,
       "name": "Perfume",
       "url": "https://open.spotify.com/track/5CBZHzvgJ7bOB9WPWmWbwq"
+    },
+    {
+      "added_at": "2026-02-18 18:45:42",
+      "album": {
+        "name": "My Honest Face",
+        "url": "https://open.spotify.com/album/52fKsRuzOum7y9iGC67GSn"
+      },
+      "artists": [
+        {
+          "name": "Inhaler",
+          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
+        }
+      ],
+      "duration_ms": 453600,
+      "name": "There's No Other Place",
+      "url": "https://open.spotify.com/track/2pFPvMME9cynR1dokBTHJJ"
     },
     {
       "added_at": "2026-02-18 18:45:42",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2026-02-18 18:45:42",
       "album": {
-        "name": "Shake! Shake! Shake!",
-        "url": "https://open.spotify.com/album/0hO7tdTpSVN1ADtLbvJiQ5"
-      },
-      "artists": [
-        {
-          "name": "Bronze Radio Return",
-          "url": "https://open.spotify.com/artist/2ic4xySjQ39N7DJ0HZemeG"
-        }
-      ],
-      "duration_ms": 163236,
-      "name": "Shake, Shake, Shake",
-      "url": "https://open.spotify.com/track/4dI4oscajpdtjpg2dP1x28"
-    },
-    {
-      "added_at": "2026-02-18 18:45:42",
-      "album": {
         "name": "Emergency Contact",
         "url": "https://open.spotify.com/album/2qfjFXv3HIl5IsFcfp74RH"
       },
@@ -1551,6 +1535,22 @@
     {
       "added_at": "2026-02-18 18:45:42",
       "album": {
+        "name": "Shake! Shake! Shake!",
+        "url": "https://open.spotify.com/album/0hO7tdTpSVN1ADtLbvJiQ5"
+      },
+      "artists": [
+        {
+          "name": "Bronze Radio Return",
+          "url": "https://open.spotify.com/artist/2ic4xySjQ39N7DJ0HZemeG"
+        }
+      ],
+      "duration_ms": 163236,
+      "name": "Shake, Shake, Shake",
+      "url": "https://open.spotify.com/track/4dI4oscajpdtjpg2dP1x28"
+    },
+    {
+      "added_at": "2026-02-18 18:45:42",
+      "album": {
         "name": "The Lumineers",
         "url": "https://open.spotify.com/album/155N1gV0cIFYaLiy3I5d83"
       },
@@ -1563,6 +1563,22 @@
       "duration_ms": 109735,
       "name": "Flowers in Your Hair",
       "url": "https://open.spotify.com/track/4BDpHt1JrVQzaU7E6RBbXh"
+    },
+    {
+      "added_at": "2026-02-18 18:45:42",
+      "album": {
+        "name": "Guru",
+        "url": "https://open.spotify.com/album/3rgAzv3ZIHp9ENbiUJYuIR"
+      },
+      "artists": [
+        {
+          "name": "Coast Modern",
+          "url": "https://open.spotify.com/artist/4wYk01oPJNfaEssVFL46oQ"
+        }
+      ],
+      "duration_ms": 204466,
+      "name": "Guru",
+      "url": "https://open.spotify.com/track/7ygO2E3yfwZVYbzaPdGzed"
     },
     {
       "added_at": "2026-02-18 18:45:42",
@@ -1611,22 +1627,6 @@
       "duration_ms": 321453,
       "name": "Hanging On",
       "url": "https://open.spotify.com/track/6o4lFpp8OAFhBqGQbWyAob"
-    },
-    {
-      "added_at": "2026-02-18 18:45:42",
-      "album": {
-        "name": "Guru",
-        "url": "https://open.spotify.com/album/3rgAzv3ZIHp9ENbiUJYuIR"
-      },
-      "artists": [
-        {
-          "name": "Coast Modern",
-          "url": "https://open.spotify.com/artist/4wYk01oPJNfaEssVFL46oQ"
-        }
-      ],
-      "duration_ms": 204466,
-      "name": "Guru",
-      "url": "https://open.spotify.com/track/7ygO2E3yfwZVYbzaPdGzed"
     }
   ],
   "unique_name": "You & Me",

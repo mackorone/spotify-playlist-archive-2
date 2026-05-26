@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,310 likes - 168 songs - 9 hr 57 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,311 likes - 174 songs - 10 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -176,5 +176,11 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 166 | [Pardon My French](https://open.spotify.com/track/2DCQbWFEmKvCe4Bt02Bz7o) | [Ndukwe](https://open.spotify.com/artist/5bTGf4KBDXwVohbzdfapB0) | [Pardon My French](https://open.spotify.com/album/3cBPOh4GAVucPEVj30BPcu) | 2:57 |
 | 167 | [Two natural satellites](https://open.spotify.com/track/41p5ITHv0bIhmevEixtsVO) | [Lucia Longhi](https://open.spotify.com/artist/0NkaQYJrOuGSeE6HFjBiqx) | [Two natural satellites](https://open.spotify.com/album/4YFslr8eZMvkCTb9GWVKRQ) | 3:49 |
 | 168 | [Chamberlain](https://open.spotify.com/track/6RzVj1GlldWzLeNvmpsaPL) | [Katrina](https://open.spotify.com/artist/2hpCkArHzQ852NRLx6TG2o) | [Chamberlain](https://open.spotify.com/album/5wbDeuswW2DxwN5IL3GTrV) | 3:01 |
+| 169 | [Madeline](https://open.spotify.com/track/6YsMdG5E0jebOiFBDIIN5y) | [Silver Atom](https://open.spotify.com/artist/0JmgYnUa2o1dEDrxRgIl1B) | [Neon Heartbeats](https://open.spotify.com/album/6gsxqACTSgmkSQwERVY8Vd) | 3:20 |
+| 170 | [Kabungah \(Happiness\)](https://open.spotify.com/track/0VsPnsXdo8mMDDUgIYYZFb) | [Nirvan Channel](https://open.spotify.com/artist/5CrcSowv9jp8dX1WCmoB5x) | [Kabungah \(Happiness\)](https://open.spotify.com/album/5xHDhkusrljpHJVwZMjp5X) | 4:09 |
+| 171 | [Hazte oir](https://open.spotify.com/track/1dfB3PNQCu7FMhf9xae073) | [Marcoo](https://open.spotify.com/artist/78r09t3sUYBpJSrYZqeAxb) | [Hazte oir](https://open.spotify.com/album/0iqOcbtUyjYtnHZgU8Jdzv) | 3:09 |
+| 172 | [DP på SnapChat](https://open.spotify.com/track/3RaNiI1jFzzMDYFQoP188X) | [G.M.L.](https://open.spotify.com/artist/4H1Hn4nIuzTyDQY2RuGUYC) | [DP på SnapChat](https://open.spotify.com/album/2wS6Uswi0fPri5cWSIdNkz) | 3:06 |
+| 173 | [I Don't Care](https://open.spotify.com/track/23uw1PtbzbMTBVWh9ybfKq) | [GoodboyDess](https://open.spotify.com/artist/2lp0si4MShPt81ftDdaopu) | [Chronicles](https://open.spotify.com/album/3SXQw872Qse1aMo2QHkNYE) | 6:19 |
+| 174 | [Amori inutili](https://open.spotify.com/track/5siNyqczRiqtJ0nboaUpNY) | [Tommaso Giusti](https://open.spotify.com/artist/45gWIaYD5ih9QCHoBxEy3a) | [Amori inutili](https://open.spotify.com/album/5P6RxvlC9MP9nwo0BpBD12) | 3:18 |
 
-Snapshot ID: `AAAUUgMC/cVS2u0HgLDE/qRurcJnDVan`
+Snapshot ID: `AAAUWI0+85VSDvmWDTVxYt+Pavxt5D/b`

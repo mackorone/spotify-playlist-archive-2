@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahDuAAAAAAB6cPnSf/a+syqk4RGM4Y4S",
+  "snapshot_id": "ahI/gAAAAAA1bqdGTRKAz7AE4493m3ed",
   "tracks": [
     {
       "added_at": null,
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
         }
       ],
-      "duration_ms": 252160,
-      "name": "Ever After",
-      "url": "https://open.spotify.com/track/7FcOEkthAu7DrEKJt4qqYB"
+      "duration_ms": 221293,
+      "name": "Costa da Caparica",
+      "url": "https://open.spotify.com/track/0a9louq1zctSt5SA7z4cUY"
     },
     {
       "added_at": null,
@@ -552,9 +552,9 @@
           "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
         }
       ],
-      "duration_ms": 221293,
-      "name": "Costa da Caparica",
-      "url": "https://open.spotify.com/track/0a9louq1zctSt5SA7z4cUY"
+      "duration_ms": 252160,
+      "name": "Ever After",
+      "url": "https://open.spotify.com/track/7FcOEkthAu7DrEKJt4qqYB"
     },
     {
       "added_at": null,

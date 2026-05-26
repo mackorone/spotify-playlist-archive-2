@@ -4855,6 +4855,28 @@
     },
     {
       "album": {
+        "name": "EL BACHAT\u00d3N DE LA L",
+        "url": "https://open.spotify.com/album/65gUW0rI0yrnYpZUSS4Us2"
+      },
+      "artists": [
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        },
+        {
+          "name": "Lucho RK",
+          "url": "https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ"
+        }
+      ],
+      "date_added": "2026-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201233,
+      "name": "EL BACHAT\u00d3N DE LA L",
+      "url": "https://open.spotify.com/track/3RHT8N9fhgqsD6KGDrquaW"
+    },
+    {
+      "album": {
         "name": "el cielo",
         "url": "https://open.spotify.com/album/4B4pbYnJhKVPT2wuuwp0Pk"
       },
@@ -6840,7 +6862,7 @@
       ],
       "date_added": "2026-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 177284,
       "name": "Hasta el amanecer",
       "url": "https://open.spotify.com/track/5If7vNORe998euLypIYeN8"
@@ -7132,6 +7154,24 @@
       "duration_ms": 179074,
       "name": "Ibiza",
       "url": "https://open.spotify.com/track/5YpDCc4c7XCcJ3Pj9kd7r8"
+    },
+    {
+      "album": {
+        "name": "id\u00edlico",
+        "url": "https://open.spotify.com/album/2vG92IEqkH1Dzqp1yQDMBS"
+      },
+      "artists": [
+        {
+          "name": "Pol Granch",
+          "url": "https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0"
+        }
+      ],
+      "date_added": "2026-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180016,
+      "name": "id\u00edlico",
+      "url": "https://open.spotify.com/track/4YaQNwsHa9nphKfOAaMMww"
     },
     {
       "album": {
@@ -7692,6 +7732,32 @@
       "duration_ms": 165300,
       "name": "LA FKN VIBRA",
       "url": "https://open.spotify.com/track/27jPEr2DWvpzcvEjW1OFPJ"
+    },
+    {
+      "album": {
+        "name": "La flor de la Vida",
+        "url": "https://open.spotify.com/album/5fbuCzhbAVE6xLxR5xagtQ"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9rica",
+          "url": "https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo"
+        },
+        {
+          "name": "Salistre",
+          "url": "https://open.spotify.com/artist/7cwETpw63qjveV8UjEHds0"
+        },
+        {
+          "name": "Pikeras",
+          "url": "https://open.spotify.com/artist/3Rk6ZWHH97W7zdoehmzt5G"
+        }
+      ],
+      "date_added": "2026-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164444,
+      "name": "La flor de la Vida",
+      "url": "https://open.spotify.com/track/4266j8xOKPHvR6WzajBl6f"
     },
     {
       "album": {
@@ -9470,7 +9536,7 @@
       ],
       "date_added": "2026-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 145882,
       "name": "Mallorca",
       "url": "https://open.spotify.com/track/5z29X1D6L7tKcBbjAmD13n"
@@ -10484,7 +10550,7 @@
       ],
       "date_added": "2026-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 215552,
       "name": "mis amigos",
       "url": "https://open.spotify.com/track/0OpN5ZPDa4iI7Hk10d9ptO"
@@ -10996,6 +11062,24 @@
       "duration_ms": 195279,
       "name": "NEXO 01. Me acuerdo de ti",
       "url": "https://open.spotify.com/track/4qmNeOovGFdhsiBgPKxlTQ"
+    },
+    {
+      "album": {
+        "name": "NEXO",
+        "url": "https://open.spotify.com/album/13DC8FvfF9hHnP1NzTF9eY"
+      },
+      "artists": [
+        {
+          "name": "Nil Moliner",
+          "url": "https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD"
+        }
+      ],
+      "date_added": "2026-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144253,
+      "name": "NEXO 02. Nuestro jard\u00edn",
+      "url": "https://open.spotify.com/track/1pxLvHAGFMaAGHPJgGc58y"
     },
     {
       "album": {
@@ -11688,7 +11772,7 @@
       ],
       "date_added": "2026-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 161747,
       "name": "no te imagino lejos",
       "url": "https://open.spotify.com/track/3ndDFI5s5eAr991FQpIlW8"
@@ -15436,7 +15520,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 170823,
       "name": "Subconsciente",
       "url": "https://open.spotify.com/track/0ufyXmU9YtFUPzSkUrnQRn"
@@ -16918,6 +17002,24 @@
       "duration_ms": 141040,
       "name": "Un Momento",
       "url": "https://open.spotify.com/track/5Gp3koyDVex3ocaWA78Dni"
+    },
+    {
+      "album": {
+        "name": "UN RATITO +",
+        "url": "https://open.spotify.com/album/01BGi8T6G205EtFgTo9r1X"
+      },
+      "artists": [
+        {
+          "name": "Chema Rivas",
+          "url": "https://open.spotify.com/artist/1tMWkquIkQtVD6vaZlDbSQ"
+        }
+      ],
+      "date_added": "2026-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181997,
+      "name": "UN RATITO +",
+      "url": "https://open.spotify.com/track/1uPGcTUU69uNucKVml8GhO"
     },
     {
       "album": {

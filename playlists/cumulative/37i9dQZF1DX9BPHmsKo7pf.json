@@ -809,6 +809,24 @@
     },
     {
       "album": {
+        "name": "Bangaranga",
+        "url": "https://open.spotify.com/album/2RRFlY4QIXwpfa6fZwfih8"
+      },
+      "artists": [
+        {
+          "name": "DARA",
+          "url": "https://open.spotify.com/artist/6WRl7KUrzOq7GpY97KrYxi"
+        }
+      ],
+      "date_added": "2026-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177995,
+      "name": "Bangaranga",
+      "url": "https://open.spotify.com/track/6SvlfrQYzUsW5UQUpUpy26"
+    },
+    {
+      "album": {
         "name": "BANI",
         "url": "https://open.spotify.com/album/79KZPsFWGYMZnGHVze8JZq"
       },
@@ -824,7 +842,7 @@
       ],
       "date_added": "2026-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 177087,
       "name": "BANI",
       "url": "https://open.spotify.com/track/6FzUYYKruUXMeBYBBT4kHV"
@@ -1435,6 +1453,24 @@
     },
     {
       "album": {
+        "name": "Choke Me",
+        "url": "https://open.spotify.com/album/1yzM3NW5HL2wlQPW2yvoxW"
+      },
+      "artists": [
+        {
+          "name": "Alexandra C\u0103pit\u0103nescu",
+          "url": "https://open.spotify.com/artist/6C2GlsTc6EVC7uKar8F1G0"
+        }
+      ],
+      "date_added": "2026-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180725,
+      "name": "Choke Me",
+      "url": "https://open.spotify.com/track/0itI8ykSUDp4dfwiHY6fnw"
+    },
+    {
+      "album": {
         "name": "Cine N-a Gresit Vreodata",
         "url": "https://open.spotify.com/album/5YUQ5Ez8erJt1jilUbDBUh"
       },
@@ -1700,7 +1736,7 @@
       ],
       "date_added": "2026-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 190857,
       "name": "CUBA",
       "url": "https://open.spotify.com/track/2LPxsYSkDeSeLgb70iR5O7"
@@ -2013,6 +2049,28 @@
     },
     {
       "album": {
+        "name": "DEUCESS",
+        "url": "https://open.spotify.com/album/6SE2oTrP4JD72LLpxVRitu"
+      },
+      "artists": [
+        {
+          "name": "Berechet",
+          "url": "https://open.spotify.com/artist/50vNYJ9Cj5MfsFqGqI7JXQ"
+        },
+        {
+          "name": "VANILLA",
+          "url": "https://open.spotify.com/artist/1fofiypUoSWqYH2i4frmHn"
+        }
+      ],
+      "date_added": "2026-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174362,
+      "name": "DEUCESS",
+      "url": "https://open.spotify.com/track/60TKXYXSnKsHYsWTDZwnrT"
+    },
+    {
+      "album": {
         "name": "Did It First (with Central Cee)",
         "url": "https://open.spotify.com/album/1SiWjniEb94wSFZ5YjZDHr"
       },
@@ -2243,6 +2301,24 @@
     },
     {
       "album": {
+        "name": "Sweet Boy",
+        "url": "https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Todd",
+          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
+        }
+      ],
+      "date_added": "2026-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151500,
+      "name": "Earrings",
+      "url": "https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ"
+    },
+    {
+      "album": {
         "name": "Echo",
         "url": "https://open.spotify.com/album/7mYcHs6sJgYiVmAOBTgemf"
       },
@@ -2392,6 +2468,24 @@
       "duration_ms": 183928,
       "name": "EVIL J0RDAN",
       "url": "https://open.spotify.com/track/6iycYUk3oB0NPMdaDUrN1w"
+    },
+    {
+      "album": {
+        "name": "Exist\u0103",
+        "url": "https://open.spotify.com/album/3PBiW9sBszy0NVZGUjZB47"
+      },
+      "artists": [
+        {
+          "name": "Irina Rimes",
+          "url": "https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj"
+        }
+      ],
+      "date_added": "2026-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231074,
+      "name": "Exist\u0103",
+      "url": "https://open.spotify.com/track/4tWJxQ0SccyaFWVO3aNfXY"
     },
     {
       "album": {
@@ -3049,6 +3143,24 @@
     },
     {
       "album": {
+        "name": "ICEMAN",
+        "url": "https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2026-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237344,
+      "name": "Janice STFU",
+      "url": "https://open.spotify.com/track/514joG57v4yKTsfQmz7stz"
+    },
+    {
+      "album": {
         "name": "Jeleu (From \"Candidatul Perfect\" The Movie)",
         "url": "https://open.spotify.com/album/4gk3J91ui1WaYvBk7eF893"
       },
@@ -3669,6 +3781,28 @@
     },
     {
       "album": {
+        "name": "MDS",
+        "url": "https://open.spotify.com/album/0brffAQ1q3pYTL3B2bimVF"
+      },
+      "artists": [
+        {
+          "name": "AdelinMM",
+          "url": "https://open.spotify.com/artist/6QAHe9M8Tp7mSnS9tupSHU"
+        },
+        {
+          "name": "RAVA",
+          "url": "https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6"
+        }
+      ],
+      "date_added": "2026-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208695,
+      "name": "MDS",
+      "url": "https://open.spotify.com/track/7d90mcFcXgy1L4BJqiAoLX"
+    },
+    {
+      "album": {
         "name": "Meneaito",
         "url": "https://open.spotify.com/album/7nAYBo6ma8p4sGj9cig5Bb"
       },
@@ -4100,7 +4234,7 @@
       ],
       "date_added": "2026-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 179477,
       "name": "NEW YORK",
       "url": "https://open.spotify.com/track/1izIwskWBBffJJK9NqV6JD"
@@ -4330,7 +4464,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 137045,
       "name": "Parai",
       "url": "https://open.spotify.com/track/0DIzZP6fBEyud8dJV10M75"
@@ -4396,7 +4530,7 @@
       ],
       "date_added": "2025-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 127200,
       "name": "PETER PARKER",
       "url": "https://open.spotify.com/track/6IMQap1ZjMh6KR5Is2rhuR"
@@ -4744,7 +4878,7 @@
       ],
       "date_added": "2026-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 247183,
       "name": "Ran To Atlanta (feat. Future & Molly Santana)",
       "url": "https://open.spotify.com/track/3DK90400cDlV5WUJPraMph"
@@ -5162,7 +5296,7 @@
       ],
       "date_added": "2025-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 158437,
       "name": "SLABICIUNEA MEA",
       "url": "https://open.spotify.com/track/6tAU3VBu82Yu1FG2TXuYJM"
@@ -5701,6 +5835,24 @@
     },
     {
       "album": {
+        "name": "the cure",
+        "url": "https://open.spotify.com/album/6zme2NwcaBxbn3mWOcMY8y"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2026-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297090,
+      "name": "the cure",
+      "url": "https://open.spotify.com/track/4EoJ151oQ5jY48z4RhSE96"
+    },
+    {
+      "album": {
         "name": "The Emptiness Machine",
         "url": "https://open.spotify.com/album/6W0Gabv5f3ugnckc6YgfJQ"
       },
@@ -5908,7 +6060,7 @@
       ],
       "date_added": "2026-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 221981,
       "name": "Tot Ce E Frumos",
       "url": "https://open.spotify.com/track/1uzp0dlT8GjBalvJhVGREv"

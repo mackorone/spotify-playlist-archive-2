@@ -1,12 +1,12 @@
 {
   "description": "heartbreak feels good in a place like sad hour, with Asha Banks",
-  "num_followers": 2394278,
+  "num_followers": 2394290,
   "original_name": "sad hour",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKWJE2x0qMA7SEeWO7fvgHkM75qa",
+  "snapshot_id": "AAAAAKtZzmT9PdJClDHSsr+HGz4uOfx8",
   "tracks": [
     {
       "added_at": "2026-05-15 04:16:24",
@@ -189,22 +189,6 @@
       "url": "https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG"
     },
     {
-      "added_at": "2026-04-10 04:35:08",
-      "album": {
-        "name": "The Visitor",
-        "url": "https://open.spotify.com/album/1vcbnpnQfghE8vRxhvUF60"
-      },
-      "artists": [
-        {
-          "name": "SIENNA SPIRO",
-          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
-        }
-      ],
-      "duration_ms": 228908,
-      "name": "The Visitor",
-      "url": "https://open.spotify.com/track/36OpC3NK7kQzcOo8qiCHaA"
-    },
-    {
       "added_at": "2024-09-13 04:05:55",
       "album": {
         "name": "The Land Is Inhospitable and So Are We",
@@ -219,6 +203,22 @@
       "duration_ms": 137773,
       "name": "My Love Mine All Mine",
       "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
+    },
+    {
+      "added_at": "2026-04-10 04:35:08",
+      "album": {
+        "name": "The Visitor",
+        "url": "https://open.spotify.com/album/1vcbnpnQfghE8vRxhvUF60"
+      },
+      "artists": [
+        {
+          "name": "SIENNA SPIRO",
+          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
+        }
+      ],
+      "duration_ms": 228908,
+      "name": "The Visitor",
+      "url": "https://open.spotify.com/track/36OpC3NK7kQzcOo8qiCHaA"
     },
     {
       "added_at": "2024-09-13 04:05:55",
@@ -905,22 +905,6 @@
       "url": "https://open.spotify.com/track/4pwJ6OujVQL3IpCr8KeXIg"
     },
     {
-      "added_at": "2024-09-13 04:05:55",
-      "album": {
-        "name": "something to remember",
-        "url": "https://open.spotify.com/album/1XReJJvzNwuKvwcGtSbdfo"
-      },
-      "artists": [
-        {
-          "name": "Matt Hansen",
-          "url": "https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ"
-        }
-      ],
-      "duration_ms": 162224,
-      "name": "something to remember",
-      "url": "https://open.spotify.com/track/6eI8B3QW20P68MCYMb4Etd"
-    },
-    {
       "added_at": "2025-06-13 04:00:59",
       "album": {
         "name": "Zombie",
@@ -935,6 +919,22 @@
       "duration_ms": 246946,
       "name": "Zombie",
       "url": "https://open.spotify.com/track/7DQotDUGnJkXgNJv363GXF"
+    },
+    {
+      "added_at": "2024-09-13 04:05:55",
+      "album": {
+        "name": "something to remember",
+        "url": "https://open.spotify.com/album/1XReJJvzNwuKvwcGtSbdfo"
+      },
+      "artists": [
+        {
+          "name": "Matt Hansen",
+          "url": "https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ"
+        }
+      ],
+      "duration_ms": 162224,
+      "name": "something to remember",
+      "url": "https://open.spotify.com/track/6eI8B3QW20P68MCYMb4Etd"
     },
     {
       "added_at": "2026-02-13 05:26:33",
@@ -1129,22 +1129,6 @@
       "url": "https://open.spotify.com/track/2qLyo5FeWquE7HBUbcVnEy"
     },
     {
-      "added_at": "2025-08-17 04:45:45",
-      "album": {
-        "name": "savior",
-        "url": "https://open.spotify.com/album/79VhbqI5lGEoOPosTHHghp"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 180626,
-      "name": "savior",
-      "url": "https://open.spotify.com/track/2cPgl2d9IPeNB8794NftZT"
-    },
-    {
       "added_at": "2025-08-22 04:00:20",
       "album": {
         "name": "A Matter of Time",
@@ -1161,6 +1145,22 @@
       "url": "https://open.spotify.com/track/3zTnSPti5JjNsowJH4SS3u"
     },
     {
+      "added_at": "2025-08-17 04:45:45",
+      "album": {
+        "name": "savior",
+        "url": "https://open.spotify.com/album/79VhbqI5lGEoOPosTHHghp"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 180626,
+      "name": "savior",
+      "url": "https://open.spotify.com/track/2cPgl2d9IPeNB8794NftZT"
+    },
+    {
       "added_at": "2024-09-13 04:05:55",
       "album": {
         "name": "SOS",
@@ -1175,22 +1175,6 @@
       "duration_ms": 158840,
       "name": "Special",
       "url": "https://open.spotify.com/track/6RQ5IwG7uADz9LDWliJGjU"
-    },
-    {
-      "added_at": "2026-02-27 05:19:15",
-      "album": {
-        "name": "Nightingale Lane.",
-        "url": "https://open.spotify.com/album/22FLublraJkicHyrK2egu0"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 302623,
-      "name": "Nightingale Lane.",
-      "url": "https://open.spotify.com/track/7j7J2M3ZsKOsrhBueDjhqF"
     },
     {
       "added_at": "2024-09-13 04:05:55",
@@ -1211,6 +1195,22 @@
       "duration_ms": 208293,
       "name": "28 (with Dean Lewis)",
       "url": "https://open.spotify.com/track/3fajzhEHSdlSmY31dORz9M"
+    },
+    {
+      "added_at": "2026-02-27 05:19:15",
+      "album": {
+        "name": "Nightingale Lane.",
+        "url": "https://open.spotify.com/album/22FLublraJkicHyrK2egu0"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 302623,
+      "name": "Nightingale Lane.",
+      "url": "https://open.spotify.com/track/7j7J2M3ZsKOsrhBueDjhqF"
     },
     {
       "added_at": "2025-09-05 04:00:27",
@@ -1491,6 +1491,22 @@
     {
       "added_at": "2024-09-13 04:05:55",
       "album": {
+        "name": "never knew a heart could break itself",
+        "url": "https://open.spotify.com/album/7nRAoFQVg6Sv2Qm31Vgup6"
+      },
+      "artists": [
+        {
+          "name": "Zach Hood",
+          "url": "https://open.spotify.com/artist/5aHlyw2WWqZW0HLICBuv7U"
+        }
+      ],
+      "duration_ms": 155223,
+      "name": "never knew a heart could break itself",
+      "url": "https://open.spotify.com/track/4d2ZJ9W7dkQuITwUCTuD5n"
+    },
+    {
+      "added_at": "2024-09-13 04:05:55",
+      "album": {
         "name": "Built To Be Bad (with Alex Sampson)",
         "url": "https://open.spotify.com/album/3PYiHvRl0dwJJIVHm0FpeY"
       },
@@ -1509,20 +1525,20 @@
       "url": "https://open.spotify.com/track/6tqSQ7LWVgmVyf41tFAqHV"
     },
     {
-      "added_at": "2024-09-13 04:05:55",
+      "added_at": "2026-05-25 17:49:02",
       "album": {
-        "name": "never knew a heart could break itself",
-        "url": "https://open.spotify.com/album/7nRAoFQVg6Sv2Qm31Vgup6"
+        "name": "Delete Ya",
+        "url": "https://open.spotify.com/album/3UJpgWYwRE9ctZEBmHZeVK"
       },
       "artists": [
         {
-          "name": "Zach Hood",
-          "url": "https://open.spotify.com/artist/5aHlyw2WWqZW0HLICBuv7U"
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
         }
       ],
-      "duration_ms": 155223,
-      "name": "never knew a heart could break itself",
-      "url": "https://open.spotify.com/track/4d2ZJ9W7dkQuITwUCTuD5n"
+      "duration_ms": 203349,
+      "name": "Delete Ya",
+      "url": "https://open.spotify.com/track/03y6MsaseYEO7DfwqsgcAI"
     },
     {
       "added_at": "2024-09-13 04:05:55",
@@ -1841,22 +1857,6 @@
       "url": "https://open.spotify.com/track/2m6HgwjakjAXimujX8m4sk"
     },
     {
-      "added_at": "2024-09-13 04:05:55",
-      "album": {
-        "name": "i wish u knew",
-        "url": "https://open.spotify.com/album/4REQNLInKvPQtTVec1cLll"
-      },
-      "artists": [
-        {
-          "name": "vaultboy",
-          "url": "https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB"
-        }
-      ],
-      "duration_ms": 193429,
-      "name": "i wish u knew",
-      "url": "https://open.spotify.com/track/56OcHDP7SgOY8hf4glCEDH"
-    },
-    {
       "added_at": "2025-03-14 04:00:03",
       "album": {
         "name": "Want Me",
@@ -1871,6 +1871,22 @@
       "duration_ms": 213419,
       "name": "Want Me",
       "url": "https://open.spotify.com/track/4jM8r5G6yNfLbhf3kPm2s9"
+    },
+    {
+      "added_at": "2024-09-13 04:05:55",
+      "album": {
+        "name": "i wish u knew",
+        "url": "https://open.spotify.com/album/4REQNLInKvPQtTVec1cLll"
+      },
+      "artists": [
+        {
+          "name": "vaultboy",
+          "url": "https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB"
+        }
+      ],
+      "duration_ms": 193429,
+      "name": "i wish u knew",
+      "url": "https://open.spotify.com/track/56OcHDP7SgOY8hf4glCEDH"
     },
     {
       "added_at": "2024-09-13 04:05:55",
@@ -1997,6 +2013,22 @@
       "url": "https://open.spotify.com/track/23oYG6HAbahMQEtjk0M7GK"
     },
     {
+      "added_at": "2025-04-25 04:00:38",
+      "album": {
+        "name": "ILYSMIH",
+        "url": "https://open.spotify.com/album/4vRXm1xnqxUkBUeeSqIS5e"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 213030,
+      "name": "ILYSMIH",
+      "url": "https://open.spotify.com/track/3WvPycGo4WJEEGYP429aap"
+    },
+    {
       "added_at": "2026-04-10 04:36:33",
       "album": {
         "name": "Miss Michigan",
@@ -2015,22 +2047,6 @@
       "duration_ms": 204374,
       "name": "Cold Hands",
       "url": "https://open.spotify.com/track/2ZaTomBYLVmHjC3SCfjfl6"
-    },
-    {
-      "added_at": "2025-04-25 04:00:38",
-      "album": {
-        "name": "ILYSMIH",
-        "url": "https://open.spotify.com/album/4vRXm1xnqxUkBUeeSqIS5e"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 213030,
-      "name": "ILYSMIH",
-      "url": "https://open.spotify.com/track/3WvPycGo4WJEEGYP429aap"
     },
     {
       "added_at": "2026-02-20 05:13:45",
@@ -2065,22 +2081,6 @@
       "url": "https://open.spotify.com/track/2fa8SftlyWKUaBfRyCjPiq"
     },
     {
-      "added_at": "2026-04-10 04:36:33",
-      "album": {
-        "name": "Space",
-        "url": "https://open.spotify.com/album/54RtrbYATxDdYX9C4kjlOd"
-      },
-      "artists": [
-        {
-          "name": "charlieonnafriday",
-          "url": "https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA"
-        }
-      ],
-      "duration_ms": 186368,
-      "name": "Space",
-      "url": "https://open.spotify.com/track/0oxjPQUPHUZmHbAdTqvqaV"
-    },
-    {
       "added_at": "2026-02-13 05:00:48",
       "album": {
         "name": "Better Off",
@@ -2095,6 +2095,22 @@
       "duration_ms": 231724,
       "name": "Better Off",
       "url": "https://open.spotify.com/track/1MJIGHlxwwTop0ZCuePe3Y"
+    },
+    {
+      "added_at": "2026-04-10 04:36:33",
+      "album": {
+        "name": "Space",
+        "url": "https://open.spotify.com/album/54RtrbYATxDdYX9C4kjlOd"
+      },
+      "artists": [
+        {
+          "name": "charlieonnafriday",
+          "url": "https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA"
+        }
+      ],
+      "duration_ms": 186368,
+      "name": "Space",
+      "url": "https://open.spotify.com/track/0oxjPQUPHUZmHbAdTqvqaV"
     },
     {
       "added_at": "2026-01-16 05:00:45",
@@ -2313,22 +2329,6 @@
       "url": "https://open.spotify.com/track/2VYIeZGLDsSn8wubtWuT1V"
     },
     {
-      "added_at": "2024-09-13 04:05:55",
-      "album": {
-        "name": "eternal sunshine",
-        "url": "https://open.spotify.com/album/71PfP4E9roOXAudea1aPGw"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 153633,
-      "name": "i wish i hated you",
-      "url": "https://open.spotify.com/track/6ktoQBpMjWdKbfOdHeudpE"
-    },
-    {
       "added_at": "2026-02-20 05:13:45",
       "album": {
         "name": "The Summer I Turned Pretty",
@@ -2343,6 +2343,22 @@
       "duration_ms": 193040,
       "name": "The Summer I Turned Pretty",
       "url": "https://open.spotify.com/track/105SJWvzj7LVZt0AuQD2tf"
+    },
+    {
+      "added_at": "2024-09-13 04:05:55",
+      "album": {
+        "name": "eternal sunshine",
+        "url": "https://open.spotify.com/album/71PfP4E9roOXAudea1aPGw"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 153633,
+      "name": "i wish i hated you",
+      "url": "https://open.spotify.com/track/6ktoQBpMjWdKbfOdHeudpE"
     },
     {
       "added_at": "2025-11-07 05:00:51",
@@ -2455,22 +2471,6 @@
       "duration_ms": 194474,
       "name": "29",
       "url": "https://open.spotify.com/track/7dNqvoB3wIUp4w60Lo8r2Y"
-    },
-    {
-      "added_at": "2025-07-18 04:02:26",
-      "album": {
-        "name": "I Tried",
-        "url": "https://open.spotify.com/album/151XFBOwvm6LvudHhqDlNP"
-      },
-      "artists": [
-        {
-          "name": "Sadie Jean",
-          "url": "https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d"
-        }
-      ],
-      "duration_ms": 152815,
-      "name": "I Tried",
-      "url": "https://open.spotify.com/track/7GvGFGMeck6jUymfuqDUTc"
     }
   ],
   "unique_name": "sad hour",

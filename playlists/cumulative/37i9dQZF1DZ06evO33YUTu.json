@@ -129,6 +129,28 @@
     },
     {
       "album": {
+        "name": "CANDELA",
+        "url": "https://open.spotify.com/album/0W4uzJosq3k7sQTilfzo3t"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        },
+        {
+          "name": "Branbel",
+          "url": "https://open.spotify.com/artist/1VmUUb7wBfRQKnq1hgVaGS"
+        }
+      ],
+      "date_added": "2026-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214035,
+      "name": "Al Lado De Usted",
+      "url": "https://open.spotify.com/track/0lsP1iCoXTbXiEGYhmdtnz"
+    },
+    {
+      "album": {
         "name": "Amantes",
         "url": "https://open.spotify.com/album/4tkqeWRaQHPzPRQFX8o9Vi"
       },
@@ -1616,7 +1638,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 137386,
       "name": "Qu\u00edmica",
       "url": "https://open.spotify.com/track/36Q9lqAIlk20KTdctJyJW0"

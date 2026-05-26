@@ -1,12 +1,12 @@
 {
   "description": "This is Yaeji. The essential tracks, all in one playlist.",
-  "num_followers": 9671,
+  "num_followers": 9673,
   "original_name": "This Is Yaeji",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahDuAAAAAACqH2KFXZnt81vAIvXsHtzN",
+  "snapshot_id": "ahI/gAAAAABMBieGbZI6Tu4Cp0+ez3+U",
   "tracks": [
     {
       "added_at": null,
@@ -535,26 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "What a Joy",
-        "url": "https://open.spotify.com/album/66awLlAFni3514drN79wdh"
-      },
-      "artists": [
-        {
-          "name": "Ellie Herring",
-          "url": "https://open.spotify.com/artist/3CsuIezRpqLyi8gCer8ENB"
-        },
-        {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        }
-      ],
-      "duration_ms": 208173,
-      "name": "Swim Me",
-      "url": "https://open.spotify.com/track/3hqQkn1Mbb2nNZyeJfNrb5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "RAVE:N, The Remixes",
         "url": "https://open.spotify.com/album/6UDDsErmUUyEwQ4Oxs8INi"
       },
@@ -571,6 +551,26 @@
       "duration_ms": 149982,
       "name": "Enough For Love - Yaeji heart+beat Remix",
       "url": "https://open.spotify.com/track/4IjNSEP03dDNFAcQVgUfXH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "What a Joy",
+        "url": "https://open.spotify.com/album/66awLlAFni3514drN79wdh"
+      },
+      "artists": [
+        {
+          "name": "Ellie Herring",
+          "url": "https://open.spotify.com/artist/3CsuIezRpqLyi8gCer8ENB"
+        },
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "duration_ms": 208173,
+      "name": "Swim Me",
+      "url": "https://open.spotify.com/track/3hqQkn1Mbb2nNZyeJfNrb5"
     },
     {
       "added_at": null,
@@ -671,6 +671,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Yaeji",
+        "url": "https://open.spotify.com/album/50gVMffcuo28DBd6GCSlZk"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "duration_ms": 205677,
+      "name": "Noonside",
+      "url": "https://open.spotify.com/track/6fMipfFtGlw86Bzf5EMGPB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Jentry Chau vs the Underworld (Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/4P9WQMZEzV2J85acpvbJXO"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 127487,
       "name": "Do You See Me",
       "url": "https://open.spotify.com/track/2Qq4cHhvAKu55LDU5kzijB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Yaeji",
-        "url": "https://open.spotify.com/album/50gVMffcuo28DBd6GCSlZk"
-      },
-      "artists": [
-        {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        }
-      ],
-      "duration_ms": 205677,
-      "name": "Noonside",
-      "url": "https://open.spotify.com/track/6fMipfFtGlw86Bzf5EMGPB"
     },
     {
       "added_at": null,

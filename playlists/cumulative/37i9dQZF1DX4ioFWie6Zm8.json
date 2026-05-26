@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "A Different Corner",
+        "url": "https://open.spotify.com/album/04KqIOGtMv9uJkagkupONe"
+      },
+      "artists": [
+        {
+          "name": "Nakhane",
+          "url": "https://open.spotify.com/artist/2nrShcJFP8D5bQT8RgdBhH"
+        }
+      ],
+      "date_added": "2026-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239415,
+      "name": "A Different Corner",
+      "url": "https://open.spotify.com/track/7bt4SUQM5Mh6CIlFLkXHdn"
+    },
+    {
+      "album": {
         "name": "Spanish Villager No. 3",
         "url": "https://open.spotify.com/album/1wTobCIdhZP6Y0pOSZK0IU"
       },
@@ -376,7 +394,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 327040,
       "name": "Awa",
       "url": "https://open.spotify.com/track/75G3E59I9CGpFQMgtdahOk"
@@ -394,7 +412,7 @@
       ],
       "date_added": "2024-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 225026,
       "name": "Awash - 1973",
       "url": "https://open.spotify.com/track/2eUUSMhQajBogKnpu3WPKx"
@@ -1340,6 +1358,24 @@
       "duration_ms": 228048,
       "name": "Gb\u00ea",
       "url": "https://open.spotify.com/track/3uwaKT9AIPP2fhi9pLBALu"
+    },
+    {
+      "album": {
+        "name": "God Loves When You're Dancing",
+        "url": "https://open.spotify.com/album/0NSossGPF4S7c60AacPQJE"
+      },
+      "artists": [
+        {
+          "name": "Tommy W\u00c1",
+          "url": "https://open.spotify.com/artist/17e35Wp915ZK8I2wCBT1Kd"
+        }
+      ],
+      "date_added": "2026-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313454,
+      "name": "God Loves When You're Dancing",
+      "url": "https://open.spotify.com/track/5V0NHPKnWPID3uSu3qMtOt"
     },
     {
       "album": {
@@ -3081,6 +3117,24 @@
     },
     {
       "album": {
+        "name": "Maame",
+        "url": "https://open.spotify.com/album/2rvkp4MkA0p0pM7cECZcIJ"
+      },
+      "artists": [
+        {
+          "name": "Cheikh L\u00f4",
+          "url": "https://open.spotify.com/artist/6CFWXwqEBUi0UFoIIxmg9h"
+        }
+      ],
+      "date_added": "2026-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222160,
+      "name": "Ndeketeyoo",
+      "url": "https://open.spotify.com/track/2kFGfCMd60vv0L7tpNTMIu"
+    },
+    {
+      "album": {
         "name": "Ndule",
         "url": "https://open.spotify.com/album/6lnThR6HzhkQUv577UqWhG"
       },
@@ -3128,7 +3182,7 @@
       ],
       "date_added": "2024-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 321178,
       "name": "Nefs Nat",
       "url": "https://open.spotify.com/track/3Z4iTnS8ghRrWBgKUQzsSy"
@@ -3238,6 +3292,24 @@
       "duration_ms": 190219,
       "name": "NOFLAYE",
       "url": "https://open.spotify.com/track/27yaJMsvRyTfnhbhm4UXys"
+    },
+    {
+      "album": {
+        "name": "TV DREAMS",
+        "url": "https://open.spotify.com/album/2cdXDRhZF4KQdzBiCukdzD"
+      },
+      "artists": [
+        {
+          "name": "Negro Impacto",
+          "url": "https://open.spotify.com/artist/1IjrqJ8pikzpEzaTdiLbHw"
+        }
+      ],
+      "date_added": "2026-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249851,
+      "name": "NWANNE",
+      "url": "https://open.spotify.com/track/5WmlObC2frm0zlHuKiTyIV"
     },
     {
       "album": {
@@ -3856,7 +3928,7 @@
       ],
       "date_added": "2024-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 312600,
       "name": "Shellela",
       "url": "https://open.spotify.com/track/69xPvlP5i5Rado4veDUQUc"

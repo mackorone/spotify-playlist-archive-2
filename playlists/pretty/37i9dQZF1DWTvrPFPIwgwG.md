@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvrPFPIwgwG.md) - [plain]
 
 > Ouça as novidades e grandes louvores Pentecostais\. Foto: Sara Evelyn
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,690 likes - 80 songs - 7 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,782 likes - 80 songs - 7 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvrPFPIwgwG.md) - [plain]
 | 71 | [Águas Purificadoras \- Ao Vivo](https://open.spotify.com/track/1MFs9xeuKZlp74cV7OmeSu) | [Momento Solene](https://open.spotify.com/artist/54zL5JenxhZlJS9kHdSlwu), [Hananiel Eduardo](https://open.spotify.com/artist/6jcaFu5t6OajYlT3inEMkM), [Juliana Kontopp](https://open.spotify.com/artist/4wI3Jgf2m5qf5Zb76UzP0J) | [Momento Solene \- Vol 1 \(Ao Vivo\)](https://open.spotify.com/album/2lJ8G5FVkvDpKCd2Xi5OTD) | 8:30 |
 | 72 | [Dependente \(Ao Vivo\)](https://open.spotify.com/track/2b30Def2AnAOJC5tiJyj7u) | [Eurice Diniz](https://open.spotify.com/artist/4NdrEKAXRsAWjuA5ojUlWF), [Gislaine e Mylena](https://open.spotify.com/artist/0JoSPTks4LpgpfOGvQbbGk) | [Dependente \(Ao Vivo\)](https://open.spotify.com/album/7qHGquEd06kYoHL2m21VyK) | 4:00 |
 | 73 | [Minha Adoração](https://open.spotify.com/track/1uLGapMMnKlayfxgcMWMKH) | [Eula Cris](https://open.spotify.com/artist/0XQgPT3Tn4phmgHSL7iwGt) | [Minha Adoração](https://open.spotify.com/album/27KiQW9c0B3oUD8lgzwQeo) | 3:50 |
-| 74 | [Ora Que Melhora \- Ao Vivo](https://open.spotify.com/track/6i3XCmIMFZiyRZQlatuWmW) | [Ariely Bonatti](https://open.spotify.com/artist/4OyTlvqTXUeLEiyOq7KLNU), [Graça Music](https://open.spotify.com/artist/1VIjLJfUSIouLqdLQqT9U1) | [Ora Que Melhora](https://open.spotify.com/album/20gcNbc4MlDGwXKKWUi7xy) | 5:17 |
-| 75 | [A Promessa Está de Pé \(Ao Vivo\)](https://open.spotify.com/track/2dU1myKI3jBTUL7qihW36S) | [Polyana Martins](https://open.spotify.com/artist/7ECTf4oBo2jD5mRpL6Ik8x), [Paulo Neto](https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko) | [A Promessa Está de Pé \(Ao Vivo\)](https://open.spotify.com/album/1PNy00WY2GINNmKOrMBQEw) | 5:03 |
+| 74 | [A Promessa Está de Pé \(Ao Vivo\)](https://open.spotify.com/track/2dU1myKI3jBTUL7qihW36S) | [Polyana Martins](https://open.spotify.com/artist/7ECTf4oBo2jD5mRpL6Ik8x), [Paulo Neto](https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko) | [A Promessa Está de Pé \(Ao Vivo\)](https://open.spotify.com/album/1PNy00WY2GINNmKOrMBQEw) | 5:03 |
+| 75 | [Ora Que Melhora \- Ao Vivo](https://open.spotify.com/track/6i3XCmIMFZiyRZQlatuWmW) | [Ariely Bonatti](https://open.spotify.com/artist/4OyTlvqTXUeLEiyOq7KLNU), [Graça Music](https://open.spotify.com/artist/1VIjLJfUSIouLqdLQqT9U1) | [Ora Que Melhora](https://open.spotify.com/album/20gcNbc4MlDGwXKKWUi7xy) | 5:17 |
 | 76 | [Casinha](https://open.spotify.com/track/4JQBhlLb8HtfbcxkgW32Cq) | [Amanda Ferrari](https://open.spotify.com/artist/75wI9bTpjKQgKTBfYNzs4W) | [Casinha](https://open.spotify.com/album/7jBDXpre1faySyuL8MFAHA) | 5:25 |
 | 77 | [Apocalipse \- Ao Vivo](https://open.spotify.com/track/7LPHrgdhNhECxxvHYI4y11) | [Mara Souza](https://open.spotify.com/artist/4bw52hHES9kCJ1T0ILDxPw), [Vanessa Cavalcante](https://open.spotify.com/artist/3b9sDZuaG4AYqiLSK1H6Kc), [Louvor Eterno](https://open.spotify.com/artist/2vLe8zH15xtqw8jKRmmKAw) | [Apocalipse \(43 Anos Louvor Eterno\) \[Ao Vivo, Curitiba, Teatro Positivo, 2025\]](https://open.spotify.com/album/2LDrK6Gh3zQuy02aYkcTuw) | 6:16 |
 | 78 | [Ele Chegou](https://open.spotify.com/track/6czsbtcl0WM4v9ZQxtUNvL) | [Thalita Roberta](https://open.spotify.com/artist/1yZUa312JkTmgQCEzp8QTc) | [Ele Chegou](https://open.spotify.com/album/7bcEptglfy57a0Amos1PXx) | 4:24 |

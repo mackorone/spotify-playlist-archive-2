@@ -3487,6 +3487,24 @@
     },
     {
       "album": {
+        "name": "Grateful",
+        "url": "https://open.spotify.com/album/73GQBZ5nJxcsc5YWvba688"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "date_added": "2026-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138989,
+      "name": "Grateful",
+      "url": "https://open.spotify.com/track/18M8lkxW7epH3aR6Lr0hff"
+    },
+    {
+      "album": {
         "name": "Guter Mond",
         "url": "https://open.spotify.com/album/4wHNTqDEhq31SF5Q2TmcOR"
       },
@@ -7756,6 +7774,28 @@
       "duration_ms": 100786,
       "name": "Sinfonia in D Major: Grave",
       "url": "https://open.spotify.com/track/6LSFhFuvlKaTyUcKrIUPb5"
+    },
+    {
+      "album": {
+        "name": "Sing Gently",
+        "url": "https://open.spotify.com/album/55TGl3eLHEOV5Mkf2ekEQY"
+      },
+      "artists": [
+        {
+          "name": "Eric Whitacre",
+          "url": "https://open.spotify.com/artist/5TWpCLIhvGlbJmLK1zNpiL"
+        },
+        {
+          "name": "Lavinia Meijer",
+          "url": "https://open.spotify.com/artist/1QpDFI4PxPwdv2E3iS6pCp"
+        }
+      ],
+      "date_added": "2026-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225235,
+      "name": "Sing Gently",
+      "url": "https://open.spotify.com/track/1inuj7hFiczkKp8yNmnRLr"
     },
     {
       "album": {

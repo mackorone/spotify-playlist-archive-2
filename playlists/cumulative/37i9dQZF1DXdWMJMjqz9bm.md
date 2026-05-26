@@ -4,7 +4,7 @@
 
 > A little bit of pop, a little bit of rap, a little bit of country? Cover: Yeat
 
-854 songs - 1 day 15 hr 1 min
+855 songs - 1 day 15 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -339,7 +339,7 @@
 | [Head Shot / Gas In The Truck](https://open.spotify.com/track/369I51M6XDujuwDlj3GW6R) | [IShowSpeed](https://open.spotify.com/artist/0V5bkwV2Bd90bMLMc8JFeS) | [Head Shot / Gas In The Truck](https://open.spotify.com/album/3RZnt9xmpoUJC5RoxpPcqx) | 3:57 | 2025-10-20 | 2026-05-23 |
 | [Heartbreak](https://open.spotify.com/track/2XwrBmeW2JdWFBUhwXAnzd) | [Alex Parker](https://open.spotify.com/artist/7oOfZSYouCcyk13dNrOpiX), [Matthew Bento](https://open.spotify.com/artist/1lz8mmm4zJ07PO9sgaNjdY), [AdyB](https://open.spotify.com/artist/6uPDO8HMJ8MVqcn9PxdLXk) | [Heartbreak](https://open.spotify.com/album/6HOGyMg8PuJ8gc3favXLoD) | 3:13 | 2026-02-23 |  |
 | [Heartbreak Milkshake](https://open.spotify.com/track/3Klxo1C5XO8U2l6ez0HB6u) | [Aze](https://open.spotify.com/artist/71JJal5W3D0YNB3IUPfIE3) | [Heartbreak Milkshake](https://open.spotify.com/album/7BAQ06lcT73SVjXA1iCcyt) | 2:40 | 2024-02-16 | 2024-06-01 |
-| [Heat Check](https://open.spotify.com/track/2pY0N4P2lb9bEGvXB1v8Cf) | [Frak](https://open.spotify.com/artist/36joSnhVlKcmbsnFBM8Uz8), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [Heat Check](https://open.spotify.com/album/6W7NVmtGfStCFofp8tPkWa) | 2:44 | 2026-01-28 |  |
+| [Heat Check](https://open.spotify.com/track/2pY0N4P2lb9bEGvXB1v8Cf) | [Frak](https://open.spotify.com/artist/36joSnhVlKcmbsnFBM8Uz8), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [Heat Check](https://open.spotify.com/album/6W7NVmtGfStCFofp8tPkWa) | 2:44 | 2026-01-28 | 2026-05-26 |
 | [Helium Balloon](https://open.spotify.com/track/5TmWbWEMCwzfeFWOt9AmGI) | [Cody Lovaas](https://open.spotify.com/artist/7fWrZ2q4fGZAnuCPfgSU52), [BabyJake](https://open.spotify.com/artist/07Asx51VtMw5kbNXKrpZlq) | [Helium Balloon](https://open.spotify.com/album/4YZLWuNbv1nSZcejTR8Kko) | 3:11 | 2022-02-04 | 2022-07-02 |
 | [Here](https://open.spotify.com/track/64rXwox33vcb7IKEPWZjeD) | [Porsh Bet$](https://open.spotify.com/artist/6744gF2rjCRtqwbMb9ldk4) | [Things In The Way](https://open.spotify.com/album/2bGtxkYsnt72Vl7GejjZYD) | 2:16 | 2022-02-18 | 2022-06-18 |
 | [hideaway](https://open.spotify.com/track/5mfEcAbAcufmTpMQJrq6K5) | [Marino](https://open.spotify.com/artist/3HedFe4b2Nqeg1CEzmt6ZI) | [hideaway](https://open.spotify.com/album/3mqmg0f0fbHtqHQ3c8yPAf) | 2:04 | 2025-05-16 | 2025-08-09 |
@@ -568,6 +568,7 @@
 | [One And Only](https://open.spotify.com/track/4OY3LbPQOaKeYsrDXw7zFD) | [Bazanji](https://open.spotify.com/artist/3L8FZaw2Rg1oUw3vB4gUME) | [One And Only](https://open.spotify.com/album/6Fs4X3h9vh39knVFomfcEV) | 2:50 | 2022-01-14 | 2022-06-04 |
 | [One Mistake](https://open.spotify.com/track/4Issv5lPDAGvAAy2fE7EAX) | [Kidd Snooze](https://open.spotify.com/artist/6muTs32QJ0ZGYTJnhFit9Z) | [One Mistake](https://open.spotify.com/album/2U47BWP4k3a4uWNAKA3fMu) | 2:41 | 2022-07-11 | 2022-10-15 |
 | [ONE NIGHT STAND](https://open.spotify.com/track/4r4elMbKSh5xpHHlyepogf) | [COTIS](https://open.spotify.com/artist/63CZNEytugjFnZBdjBmWc8) | [ONE NIGHT STAND](https://open.spotify.com/album/21M5jk3ITk4J3bAh9BLQ7A) | 3:04 | 2021-11-16 | 2022-02-19 |
+| [ONE of ONE](https://open.spotify.com/track/6eNfM7yVZ8LxO3dCnh3kup) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [ONE of ONE](https://open.spotify.com/album/5MYjtiBFrowd2rML0p8hyG) | 2:51 | 2026-05-25 |  |
 | [ONE PUNCH](https://open.spotify.com/track/6LN15vwkSE1ZiA8IdBjl7k) | [Aries](https://open.spotify.com/artist/3hOdow4ZPmrby7Q1wfPLEy) | [ONE PUNCH](https://open.spotify.com/album/06qAr8048ptTbaxUNvWHOz) | 2:25 | 2021-11-16 | 2022-02-26 |
 | [ORANGE SODA](https://open.spotify.com/track/5FkoSXiJPKTNyYgALRJFhD) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [DIE FOR MY BITCH](https://open.spotify.com/album/7Cw4LObzgnVqSlkuIyywtI) | 2:09 | 2022-05-19 | 2022-06-04 |
 | [OUT OF MY MIND](https://open.spotify.com/track/5GKdWRbTtj6D6gKM9455j5) | [little image](https://open.spotify.com/artist/5Ljgq0b8I3YkUwp3gtB1wm) | [OUT OF MY MIND](https://open.spotify.com/album/5FpxsZzxLCY08VOZURcr1G) | 2:40 | 2023-04-04 | 2024-06-01 |

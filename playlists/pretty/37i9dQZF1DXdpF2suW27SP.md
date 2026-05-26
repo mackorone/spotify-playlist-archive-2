@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 
 > Richie Campbell entra na zona.
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,396 likes - 70 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,404 likes - 70 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 4 | [Love Me Now \(feat\. Chronic Law\)](https://open.spotify.com/track/6NUstHvzEruoMgH1qX9Ndy) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS), [Chronic Law](https://open.spotify.com/artist/3zorWCDx017sz4UYP2fC9w) | [Love Me Now \(feat\. Chronic Law\)](https://open.spotify.com/album/0mhc4M8apBFKiNYjb815up) | 3:28 |
 | 5 | [Bem Zen](https://open.spotify.com/track/0EheRsG3tZgIYAVP3m9b0u) | [Deejay Telio](https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n), [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [+ Reservado](https://open.spotify.com/album/65EamwZnZsgVnompZedhm4) | 2:55 |
 | 6 | [Partir Coração](https://open.spotify.com/track/0mHTeaDy95c90zuiYQVWUG) | [Agir](https://open.spotify.com/artist/6CDebPALpa0iwJyx0IgnaC), [EMMVR](https://open.spotify.com/artist/4NRTBluAEQVhhSOA5yinWI) | [Partir Coração](https://open.spotify.com/album/5geqAXS9s16v1F8rDsoW2Z) | 2:42 |
-| 7 | [ELA É ESSA](https://open.spotify.com/track/14gNAxfsRlDHvHVyP2vh62) | [bapcat](https://open.spotify.com/artist/02Qg3L9GCPXeVQFxZ1b4ou), [ICARO](https://open.spotify.com/artist/6ih0GTEQYgmqCjrXSZUlbZ) | [ELA É ESSA](https://open.spotify.com/album/1IknDznQR4P91pvhGueFpX) | 2:36 |
+| 7 | [ELA É ESSA](https://open.spotify.com/track/3myDC0hr8oRTamQzjmGPzX) | [bapcat](https://open.spotify.com/artist/02Qg3L9GCPXeVQFxZ1b4ou), [ICARO](https://open.spotify.com/artist/6ih0GTEQYgmqCjrXSZUlbZ) | [ELA É ESSA](https://open.spotify.com/album/7yLh0f66gyeDEs5V9xeF99) | 2:36 |
 | 8 | [Alta Cultura \- Fica Calmo](https://open.spotify.com/track/39nLLHYcvJNgvQMck0Kd0S) | [Jimmy P](https://open.spotify.com/artist/0Odg6UKDVyJQruefzF19FU), [Prodígio](https://open.spotify.com/artist/0Zsw8N0usCdHtEtFtwZKg5) | [Alta Cultura \- Fica Calmo](https://open.spotify.com/album/1AcdTHA1wuXeI2uYzM5SU1) | 2:27 |
 | 9 | [É Tuga Ou Nada](https://open.spotify.com/track/5C8KvpfGAYpa0iEwWouzLw) | [Sir Scratch](https://open.spotify.com/artist/5rvP5KtLM6n8xOUDqhmq4i), [Gson](https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj), [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY), [Papillon](https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d), [Sam The Kid](https://open.spotify.com/artist/3NEQ5t2FprBMLmDAP0EPcE) | [É Tuga Ou Nada](https://open.spotify.com/album/3d6vK6jqTCFBQmCfDRfGwf) | 3:28 |
 | 10 | [O Teu Momento](https://open.spotify.com/track/6butiaHwyWIvNLcbiNrWx8) | [Dealema](https://open.spotify.com/artist/2UCac8rxE1lJ1lQHhZ3l7I), [Bezegol](https://open.spotify.com/artist/6lCt4RGbnTCT1NN2lEENh5) | [O Teu Momento](https://open.spotify.com/album/39SS964Uba08Gvul3YZScX) | 4:39 |

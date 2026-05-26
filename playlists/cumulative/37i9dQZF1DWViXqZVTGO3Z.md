@@ -2,7 +2,7 @@
 
 ### [Christmas Spirit](https://open.spotify.com/playlist/37i9dQZF1DWViXqZVTGO3Z)
 
-> Get in the Christmas spirit while listening to some of your favorite Christian artists sing and celebrate the birth of Jesus\. Cover: CeCe Winans
+> Get in the Christmas spirit while listening to some of your favorite Christian artists sing and celebrate the birth of Jesus\. Cover: Katy Nichole
 
 518 songs - 1 day 9 hr 32 min
 
@@ -165,7 +165,7 @@
 | [Gratitude / Worthy of it All / You’re Worthy of My Praise \(feat\. Brandon Lake, Natalie Grant & Mav City Gospel Choir\)](https://open.spotify.com/track/0KWGmjdgmpuovXuwWDrDt4) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh), [Mav City Gospel Choir](https://open.spotify.com/artist/4h77nHXzQBpUySMOwo5UgD) | [A Very Maverick Christmas](https://open.spotify.com/album/6Z3lZl48YoYESThd0iKkyQ) | 13:12 | 2021-12-24 | 2024-08-01 |
 | [Great Christmas](https://open.spotify.com/track/6pt8hwewlxOm7UZfEsx9t4) | [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [Great Christmas](https://open.spotify.com/album/1BBSnDN7zRzoBf4bQncMGw) | 2:47 | 2022-11-26 | 2025-05-08 |
 | [Grown Up Christmas List](https://open.spotify.com/track/56Yve1cQYZywRfpOTZO6e0) | [Trinity Anderson](https://open.spotify.com/artist/6dCn9t1NVjEKPvsBzxrf0h) | [Grown Up Christmas List](https://open.spotify.com/album/541QpGKQxmRPUfirkoUsd4) | 5:06 | 2021-12-11 | 2022-07-26 |
-| [Hallelujah](https://open.spotify.com/track/5tlL8n5XPi4ZfpA43RGMgD) | [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe) | [Hallelujah](https://open.spotify.com/album/6qrtrMU2yTrCylSHwBjmdV) | 3:13 | 2025-12-12 |  |
+| [Hallelujah](https://open.spotify.com/track/5tlL8n5XPi4ZfpA43RGMgD) | [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe) | [Hallelujah](https://open.spotify.com/album/6qrtrMU2yTrCylSHwBjmdV) | 3:13 | 2025-12-12 | 2026-05-26 |
 | [Hallelujah Our King](https://open.spotify.com/track/0Zy6MFHQQv5saKuM0vxAli) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA) | [Joy To Our World](https://open.spotify.com/album/6rwwb34IZFoebbkLoMNwn4) | 4:07 | 2022-11-26 |  |
 | [Hallelujah, Christ Is Born](https://open.spotify.com/track/5E7epWuX7iVC2kNfo1NMWc) | [Caroline Cobb](https://open.spotify.com/artist/1qjWvtEJlR1dAEAL4A3IOM) | [Hallelujah, Christ Is Born](https://open.spotify.com/album/2AOCGDHqtGYNUbg7y12ZI6) | 4:28 | 2021-12-11 | 2025-11-09 |
 | [Hallelujah, Jesus Christ Was Born](https://open.spotify.com/track/4MMnoxIZB5CgStUUWfErvt) | [Mat and Savanna Shaw](https://open.spotify.com/artist/4F8dV25EPLvvKVABCaSr8b) | [A Christmas We'll Remember](https://open.spotify.com/album/31aFyRNbhfzszhXSVBcd45) | 3:22 | 2023-11-27 | 2023-12-03 |
@@ -509,7 +509,7 @@
 | [What Child Is This?](https://open.spotify.com/track/3zcK5rkivIL6bomdnNRyoL) | [Shamina](https://open.spotify.com/artist/2fgTVQWUfT8Mz9B9baFjMb) | [What Child Is This?](https://open.spotify.com/album/5zS0XfUA5Eozusrsw3s4sz) | 3:29 | 2021-12-24 | 2022-07-25 |
 | [What Christmas Is All About](https://open.spotify.com/track/3PhrcJwFctvygMmBkbrIal) | [Coby James](https://open.spotify.com/artist/3DFvLbBG5R981eicF3i31J) | [What Christmas Is All About](https://open.spotify.com/album/2V2iD07k1eyamnVHAWcZDY) | 3:15 | 2024-07-31 |  |
 | [What Christmas Means to Me](https://open.spotify.com/track/7cIXP0NlDmF1MYy9rMrvLA) | [Marc Martel](https://open.spotify.com/artist/2JddlNuXFdAGQorDMTAOmy) | [The Christmas Collection, Vol\. II](https://open.spotify.com/album/6NgePcACnWDn6juiNatZc9) | 2:44 | 2022-12-11 |  |
-| [What Is Christmas Without You](https://open.spotify.com/track/1HYW69lkHD3HXLsipXbUr8) | [Tamela Mann](https://open.spotify.com/artist/6ZyV955Ypf3JAKInn1a0dt) | [What Is Christmas Without You](https://open.spotify.com/album/1kFeM5XI4ISUVpixpdMmkY) | 3:20 | 2025-12-12 | 2026-05-01 |
+| [What Is Christmas Without You](https://open.spotify.com/track/1HYW69lkHD3HXLsipXbUr8) | [Tamela Mann](https://open.spotify.com/artist/6ZyV955Ypf3JAKInn1a0dt) | [What Is Christmas Without You](https://open.spotify.com/album/1kFeM5XI4ISUVpixpdMmkY) | 3:20 | 2025-12-12 |  |
 | [When I Think Of Christmas](https://open.spotify.com/track/6o2GLLmYIkzbtqxotheeKe) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [When I Think Of Christmas](https://open.spotify.com/album/52MmmN7xVswjL4XVBixhzK) | 3:25 | 2024-09-12 |  |
 | [When We Behold \(In Excelsis\)](https://open.spotify.com/track/6JkMwbDl9MW7yM3T4mz82K) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ), [Jon Guerra](https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o) | [In Excelsis](https://open.spotify.com/album/19d9wjK2XjvUCZdKizwY6m) | 4:25 | 2024-11-17 | 2025-05-21 |
 | [When You Arrived](https://open.spotify.com/track/5uXXiltB1lMHiTwooFrqta) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs), [Ashton Hage](https://open.spotify.com/artist/3rYGsqNL97zjO7mru5Zefg), [Sydney James](https://open.spotify.com/artist/0Hv0lVzc1FOqtBajPTUOVQ) | [When You Arrived](https://open.spotify.com/album/57Dhoe3fx4QxIq1JnMzJdc) | 4:32 | 2025-11-08 |  |

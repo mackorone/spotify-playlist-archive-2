@@ -4,7 +4,7 @@
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-705 songs - 1 day 12 hr 16 min
+706 songs - 1 day 12 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,8 @@
 | [Aliens](https://open.spotify.com/track/5tg21NdePCn5m8F9BXOEeJ) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h) | 2:47 | 2026-03-27 | 2026-04-25 |
 | [ALUGA\-SE \- Ao Vivo](https://open.spotify.com/track/2yx7F8ISwZ3VMEi9VptQGm) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [LUAN AO VIVO NA LUA](https://open.spotify.com/album/0U69VPPPmw2VGsQW37Iy57) | 3:04 | 2025-02-21 | 2025-03-29 |
 | [Alô Virgínia \- Ao Vivo](https://open.spotify.com/track/75cbS6bJO0yUVXKVrRdSgv) | [Grupo Chocolate](https://open.spotify.com/artist/0yRgarxy0iN7x7U5VE6l7N), [Turma do Pagode](https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5) | [Alô Virgínia \(Ao Vivo\)](https://open.spotify.com/album/0Gl4layjofpmhBcDs8CRws) | 2:39 | 2025-12-26 | 2026-01-17 |
-| [Ama Um Maloqueiro](https://open.spotify.com/track/2ejSYn4SfoE07mXPlnYVED) | [Rafa e Junior](https://open.spotify.com/artist/583d9476xT4d6A0pADiRJg), [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl), [DJ Ari SL](https://open.spotify.com/artist/3la3vRfIuDMsydpPfUBryR) | [Ama Um Maloqueiro](https://open.spotify.com/album/2Gt4u2BoqtJMNQ63pKyh5S) | 2:42 | 2025-06-06 |  |
+| [Ama Um Maloqueiro](https://open.spotify.com/track/2ejSYn4SfoE07mXPlnYVED) | [Rafa e Junior](https://open.spotify.com/artist/583d9476xT4d6A0pADiRJg), [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl), [DJ Ari SL](https://open.spotify.com/artist/3la3vRfIuDMsydpPfUBryR) | [Ama Um Maloqueiro](https://open.spotify.com/album/2Gt4u2BoqtJMNQ63pKyh5S) | 2:42 | 2025-06-06 | 2026-05-26 |
+| [Ama Um Maloqueiro](https://open.spotify.com/track/48xNHMVSLiBI77VTH0Kfoc) | [Rafa e Junior](https://open.spotify.com/artist/583d9476xT4d6A0pADiRJg), [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl), [DJ Ari SL](https://open.spotify.com/artist/3la3vRfIuDMsydpPfUBryR) | [Ama Um Maloqueiro](https://open.spotify.com/album/38ye4dhsMJ6Wfl4IBZpUPt) | 2:42 | 2026-05-22 |  |
 | [Amigo Da Minha Saudade \- Ao Vivo](https://open.spotify.com/track/07kLShG3HTeLXTqnFCqNAJ) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Manifesto Musical 2 \(Ao Vivo / Vol.1\)](https://open.spotify.com/album/6ZzYIwoppAL4h1U777KuQn) | 2:30 | 2025-01-24 | 2025-12-27 |
 | [Amo Minha Favela](https://open.spotify.com/track/2FBgVaH95hUfKBK8GUbvju) | [DJ Japa NK](https://open.spotify.com/artist/1bpnl8qbR9GxmiNlkEufW6), [MC Meno K](https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK) | [Amo Minha Favela](https://open.spotify.com/album/0gQOFivOUvP08YHVZqX4mi) | 1:59 | 2026-02-27 |  |
 | [Amo Minha Favela](https://open.spotify.com/track/4S1SaaCxQ87nXpA2EfYFj4) | [DJ Japa NK](https://open.spotify.com/artist/1bpnl8qbR9GxmiNlkEufW6), [MC Meno K](https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK) | [Amo Minha Favela](https://open.spotify.com/album/20s95PaYtUZtoplbDIBetb) | 1:59 | 2025-12-26 | 2026-03-08 |

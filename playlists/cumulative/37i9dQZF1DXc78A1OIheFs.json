@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "24/7",
+        "url": "https://open.spotify.com/album/38k8b1MCCGb1zv7dFnlbOY"
+      },
+      "artists": [
+        {
+          "name": "Drax Project",
+          "url": "https://open.spotify.com/artist/6S0IvKlvPMX1RtAYtVpUV8"
+        }
+      ],
+      "date_added": "2026-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198109,
+      "name": "24/7",
+      "url": "https://open.spotify.com/track/4SQIvGBo1nkD5P1M3eb3Np"
+    },
+    {
+      "album": {
         "name": "A Thousand Years",
         "url": "https://open.spotify.com/album/2HtUSVtR5RtYmFUrOEzVkv"
       },
@@ -691,6 +709,24 @@
     },
     {
       "album": {
+        "name": "Brown Sugar",
+        "url": "https://open.spotify.com/album/05nJE7MpNns4boJRITmpJe"
+      },
+      "artists": [
+        {
+          "name": "lilbubblegum",
+          "url": "https://open.spotify.com/artist/5FF8xJSW4qUVU8bk79KYLT"
+        }
+      ],
+      "date_added": "2026-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189473,
+      "name": "Brown Sugar",
+      "url": "https://open.spotify.com/track/6L2Wi1vXE5jAzFOm2iOGqn"
+    },
+    {
+      "album": {
         "name": "BYOD",
         "url": "https://open.spotify.com/album/7K0PrHSmkeep8lxTWt2Zet"
       },
@@ -987,6 +1023,24 @@
     },
     {
       "album": {
+        "name": "Coats",
+        "url": "https://open.spotify.com/album/2MhzYUysgTkEC01pE2Sfjv"
+      },
+      "artists": [
+        {
+          "name": "Aldous Harding",
+          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
+        }
+      ],
+      "date_added": "2026-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208875,
+      "name": "Coats",
+      "url": "https://open.spotify.com/track/3Ms4gyZoCG0e63Guz3gkBM"
+    },
+    {
+      "album": {
         "name": "Come Find Me",
         "url": "https://open.spotify.com/album/44sMQlTP4ahbNno2fTfWZo"
       },
@@ -1034,7 +1088,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 201580,
       "name": "Commit",
       "url": "https://open.spotify.com/track/7gUkDBWUdzGnAQWSKuAHQm"
@@ -1540,6 +1594,24 @@
       "duration_ms": 219622,
       "name": "Done Did It - Revival 2.0",
       "url": "https://open.spotify.com/track/4xImn8Ug4PPnNepPt1tMzE"
+    },
+    {
+      "album": {
+        "name": "drag",
+        "url": "https://open.spotify.com/album/2nTAc6jYcRAHf7C7gf0tFu"
+      },
+      "artists": [
+        {
+          "name": "ratbag",
+          "url": "https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ"
+        }
+      ],
+      "date_added": "2026-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229683,
+      "name": "drag",
+      "url": "https://open.spotify.com/track/5VTEwE0fYvTNxwmIelS6XF"
     },
     {
       "album": {
@@ -2506,7 +2578,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 176326,
       "name": "Hold Up",
       "url": "https://open.spotify.com/track/4zHNBoWXRGv4D46AYgaT3x"
@@ -2528,7 +2600,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 152603,
       "name": "Holding Your Hand",
       "url": "https://open.spotify.com/track/1Ve2EdxdPBAA9wOiDdkS4y"
@@ -2764,7 +2836,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 214000,
       "name": "Icarus",
       "url": "https://open.spotify.com/track/7n428mAFxpfChekp39tLFT"
@@ -3008,7 +3080,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 154243,
       "name": "Knocking At Your Door",
       "url": "https://open.spotify.com/track/2OBGlsbiixDJUK9hZJMfvH"
@@ -3298,7 +3370,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 250217,
       "name": "lose her",
       "url": "https://open.spotify.com/track/3LSnjjRclQUlY3H94wuTc1"
@@ -4171,6 +4243,24 @@
     },
     {
       "album": {
+        "name": "Nothing Grows Here",
+        "url": "https://open.spotify.com/album/6bhiwrCxbq073VXQWE69jz"
+      },
+      "artists": [
+        {
+          "name": "Serebii",
+          "url": "https://open.spotify.com/artist/7JKAIlZcxCK8hSIHiSp4ms"
+        }
+      ],
+      "date_added": "2026-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197133,
+      "name": "Nothing Grows Here",
+      "url": "https://open.spotify.com/track/0IL8rcvdm2jKUzTLhSh0Lo"
+    },
+    {
+      "album": {
         "name": "While I'm Distracted",
         "url": "https://open.spotify.com/album/0FQHwsbrTKnBDeSHzGDtuO"
       },
@@ -4758,6 +4848,24 @@
       "duration_ms": 251575,
       "name": "Reggae Revival - Revival 2.0",
       "url": "https://open.spotify.com/track/0ASUvTVvEApBOGAV9O3mIg"
+    },
+    {
+      "album": {
+        "name": "Reins",
+        "url": "https://open.spotify.com/album/3CulHXRXKuVAZFQMpuKIkV"
+      },
+      "artists": [
+        {
+          "name": "Office Dog",
+          "url": "https://open.spotify.com/artist/1Jcg0RFzOa8f1VwmdWNEr5"
+        }
+      ],
+      "date_added": "2026-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175786,
+      "name": "Reins",
+      "url": "https://open.spotify.com/track/6KW9DXNen7rez44hKngtKJ"
     },
     {
       "album": {
@@ -5424,7 +5532,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 154673,
       "name": "Suckerpunch",
       "url": "https://open.spotify.com/track/2ByNFaZnv7IBDrVhsL6uuH"
@@ -5844,6 +5952,24 @@
       "duration_ms": 196267,
       "name": "TN's",
       "url": "https://open.spotify.com/track/3VMArMhE9WcFyEmcn2PXkh"
+    },
+    {
+      "album": {
+        "name": "tomato baby",
+        "url": "https://open.spotify.com/album/7J8vbSM16wFVxHnXfiLGIV"
+      },
+      "artists": [
+        {
+          "name": "hanbee",
+          "url": "https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk"
+        }
+      ],
+      "date_added": "2026-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168582,
+      "name": "tomato baby",
+      "url": "https://open.spotify.com/track/126hNkonJst3ARf4I2ACqW"
     },
     {
       "album": {

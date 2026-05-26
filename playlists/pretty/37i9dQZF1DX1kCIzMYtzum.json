@@ -1,6 +1,6 @@
 {
   "description": "Home is where the main stage is \u2764\ufe0f\u200d\ud83d\udd25 with John Summit",
-  "num_followers": 514882,
+  "num_followers": 515230,
   "original_name": "EDM 2026",
   "owner": {
     "name": "Spotify",
@@ -1115,26 +1115,6 @@
     {
       "added_at": "2026-05-22 04:01:18",
       "album": {
-        "name": "I Like It (with Nate Smith)",
-        "url": "https://open.spotify.com/album/2ENPW1y88zy7MAQJ7Vt5XC"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "Nate Smith",
-          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
-        }
-      ],
-      "duration_ms": 152349,
-      "name": "I Like It (with Nate Smith)",
-      "url": "https://open.spotify.com/track/3MBJxg2sT7CAdqYcdU8C5K"
-    },
-    {
-      "added_at": "2026-05-22 04:01:18",
-      "album": {
         "name": "Together",
         "url": "https://open.spotify.com/album/0mKkxxckoZDTcB1JhlCpcH"
       },
@@ -1155,6 +1135,26 @@
       "duration_ms": 153750,
       "name": "Together",
       "url": "https://open.spotify.com/track/3XJQz97R6A7bXn8awvFknM"
+    },
+    {
+      "added_at": "2026-05-22 04:01:18",
+      "album": {
+        "name": "I Like It (with Nate Smith)",
+        "url": "https://open.spotify.com/album/2ENPW1y88zy7MAQJ7Vt5XC"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
+        }
+      ],
+      "duration_ms": 152349,
+      "name": "I Like It (with Nate Smith)",
+      "url": "https://open.spotify.com/track/3MBJxg2sT7CAdqYcdU8C5K"
     },
     {
       "added_at": "2026-05-22 04:01:18",
@@ -1343,26 +1343,30 @@
     {
       "added_at": "2026-05-22 04:01:18",
       "album": {
-        "name": "Friday, I\u2019m In Luv (feat. bbyclose)",
-        "url": "https://open.spotify.com/album/7nbeiiC2yrhywoh1IdYsae"
+        "name": "Smells Like Teen Spirit",
+        "url": "https://open.spotify.com/album/2aCAmbrwRnlGVviMuAvTvY"
       },
       "artists": [
         {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+          "name": "Naeleck",
+          "url": "https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF"
         },
         {
-          "name": "Alan Fitzpatrick",
-          "url": "https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive"
+          "name": "Coopex",
+          "url": "https://open.spotify.com/artist/3UV0wVQkft6lKLDGioqnyO"
         },
         {
-          "name": "bbyclose",
-          "url": "https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH"
+          "name": "Dunc\u00e1n",
+          "url": "https://open.spotify.com/artist/4r47Uk509q9OwmR2PE6bqD"
+        },
+        {
+          "name": "Nito-Onna",
+          "url": "https://open.spotify.com/artist/79GiwayvvpyZVErpH6BLsY"
         }
       ],
-      "duration_ms": 145777,
-      "name": "Friday, I\u2019m In Luv (feat. bbyclose)",
-      "url": "https://open.spotify.com/track/28x5HxlPwaVrZZH5kgqvtV"
+      "duration_ms": 160758,
+      "name": "Smells Like Teen Spirit",
+      "url": "https://open.spotify.com/track/1h54366McXSNcici2LAiZP"
     },
     {
       "added_at": "2026-05-22 04:01:18",
@@ -1395,30 +1399,26 @@
     {
       "added_at": "2026-05-22 04:01:18",
       "album": {
-        "name": "Smells Like Teen Spirit",
-        "url": "https://open.spotify.com/album/2aCAmbrwRnlGVviMuAvTvY"
+        "name": "Friday, I\u2019m In Luv (feat. bbyclose)",
+        "url": "https://open.spotify.com/album/7nbeiiC2yrhywoh1IdYsae"
       },
       "artists": [
         {
-          "name": "Naeleck",
-          "url": "https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF"
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
         },
         {
-          "name": "Coopex",
-          "url": "https://open.spotify.com/artist/3UV0wVQkft6lKLDGioqnyO"
+          "name": "Alan Fitzpatrick",
+          "url": "https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive"
         },
         {
-          "name": "Dunc\u00e1n",
-          "url": "https://open.spotify.com/artist/4r47Uk509q9OwmR2PE6bqD"
-        },
-        {
-          "name": "Nito-Onna",
-          "url": "https://open.spotify.com/artist/79GiwayvvpyZVErpH6BLsY"
+          "name": "bbyclose",
+          "url": "https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH"
         }
       ],
-      "duration_ms": 160758,
-      "name": "Smells Like Teen Spirit",
-      "url": "https://open.spotify.com/track/1h54366McXSNcici2LAiZP"
+      "duration_ms": 145777,
+      "name": "Friday, I\u2019m In Luv (feat. bbyclose)",
+      "url": "https://open.spotify.com/track/28x5HxlPwaVrZZH5kgqvtV"
     },
     {
       "added_at": "2026-05-22 04:01:18",
@@ -1467,26 +1467,6 @@
     {
       "added_at": "2026-05-22 04:01:18",
       "album": {
-        "name": "Deep In Your Love",
-        "url": "https://open.spotify.com/album/3QkffLjHLnGMUgMAvrOgrs"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        }
-      ],
-      "duration_ms": 144500,
-      "name": "Deep In Your Love",
-      "url": "https://open.spotify.com/track/0sftzYE0YgPHXrvJyUyGjB"
-    },
-    {
-      "added_at": "2026-05-22 04:01:18",
-      "album": {
         "name": "Cash Out",
         "url": "https://open.spotify.com/album/3JijfF3CowsE5EUUmQQftR"
       },
@@ -1527,6 +1507,26 @@
       "duration_ms": 219047,
       "name": "Danza Kuduro - Ti\u00ebsto Remix",
       "url": "https://open.spotify.com/track/7mdDd1a4TtNGqDW1lXc14o"
+    },
+    {
+      "added_at": "2026-05-22 04:01:18",
+      "album": {
+        "name": "Deep In Your Love",
+        "url": "https://open.spotify.com/album/3QkffLjHLnGMUgMAvrOgrs"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        }
+      ],
+      "duration_ms": 144500,
+      "name": "Deep In Your Love",
+      "url": "https://open.spotify.com/track/0sftzYE0YgPHXrvJyUyGjB"
     },
     {
       "added_at": "2026-05-22 04:01:18",
@@ -2055,6 +2055,26 @@
     {
       "added_at": "2026-05-22 04:01:18",
       "album": {
+        "name": "Better Times (feat. BARBZ)",
+        "url": "https://open.spotify.com/album/2mmC7pH9VfseFT0xc0Byaq"
+      },
+      "artists": [
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "name": "BARBZ",
+          "url": "https://open.spotify.com/artist/0I570b72DF4WXlk8zcKaPc"
+        }
+      ],
+      "duration_ms": 188972,
+      "name": "Better Times (feat. BARBZ)",
+      "url": "https://open.spotify.com/track/3rzMJ9GVogl8CtcrxHRnIH"
+    },
+    {
+      "added_at": "2026-05-22 04:01:18",
+      "album": {
         "name": "Prismatic: Pack One",
         "url": "https://open.spotify.com/album/7CUOkVn3NrdH1Q6y2hmEQx"
       },
@@ -2111,30 +2131,6 @@
       "duration_ms": 151702,
       "name": "Better Off (Alone, Pt. III)",
       "url": "https://open.spotify.com/track/1P7hMSbpJOQy58eC78qx7s"
-    },
-    {
-      "added_at": "2026-05-22 04:01:18",
-      "album": {
-        "name": "One By One (feat. Oaks)",
-        "url": "https://open.spotify.com/album/0RkpyjWCTL4fkYUNSSbjwF"
-      },
-      "artists": [
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        },
-        {
-          "name": "Topic",
-          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
-        },
-        {
-          "name": "Oaks",
-          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
-        }
-      ],
-      "duration_ms": 161276,
-      "name": "One By One (feat. Oaks)",
-      "url": "https://open.spotify.com/track/2D1P2Y9RUxZW2Ch9A1rwHA"
     }
   ],
   "unique_name": "EDM 2026",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 
 > New & Hottest K\-Hip Hop is here\. \(Cover: Jay Park & LNGSHOT\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 772,252 likes - 114 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 772,209 likes - 114 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

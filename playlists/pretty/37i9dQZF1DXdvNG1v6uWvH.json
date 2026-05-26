@@ -1,6 +1,6 @@
 {
   "description": "Loksins New Music Friday! N\u00fd t\u00f3nlist Of Charli XCX, Olivia Rodrigo og m\u00f6rgum fleiri!",
-  "num_followers": 9649,
+  "num_followers": 9650,
   "original_name": "New Music Friday Iceland",
   "owner": {
     "name": "Spotify",
@@ -227,22 +227,6 @@
     {
       "added_at": "2026-05-22 00:00:21",
       "album": {
-        "name": "Florescence",
-        "url": "https://open.spotify.com/album/0MOWqwwatV0LXDxhBZg5qO"
-      },
-      "artists": [
-        {
-          "name": "Maisie Peters",
-          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
-        }
-      ],
-      "duration_ms": 187120,
-      "name": "Questions",
-      "url": "https://open.spotify.com/track/0eaFxL9uBQJlbt1mKXAdZI"
-    },
-    {
-      "added_at": "2026-05-22 00:00:21",
-      "album": {
         "name": "Movin' To The Sun",
         "url": "https://open.spotify.com/album/7sCzauzbInQn7NEsvTAtqq"
       },
@@ -267,6 +251,22 @@
     {
       "added_at": "2026-05-22 00:00:21",
       "album": {
+        "name": "Florescence",
+        "url": "https://open.spotify.com/album/0MOWqwwatV0LXDxhBZg5qO"
+      },
+      "artists": [
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        }
+      ],
+      "duration_ms": 187120,
+      "name": "Questions",
+      "url": "https://open.spotify.com/track/0eaFxL9uBQJlbt1mKXAdZI"
+    },
+    {
+      "added_at": "2026-05-22 00:00:21",
+      "album": {
         "name": "homerun",
         "url": "https://open.spotify.com/album/1ZSwcIjWK5XUBGTEYpKohe"
       },
@@ -283,38 +283,6 @@
       "duration_ms": 185806,
       "name": "homerun",
       "url": "https://open.spotify.com/track/5K0wB4fhXWhzoRVcSglURl"
-    },
-    {
-      "added_at": "2026-05-22 00:00:21",
-      "album": {
-        "name": "Evolution",
-        "url": "https://open.spotify.com/album/10reOzyrRiJQehulKminkn"
-      },
-      "artists": [
-        {
-          "name": "Nothing But Thieves",
-          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
-        }
-      ],
-      "duration_ms": 225229,
-      "name": "Evolution",
-      "url": "https://open.spotify.com/track/2vpO3zMJ82SxEY1MzjNNrp"
-    },
-    {
-      "added_at": "2026-05-22 00:00:21",
-      "album": {
-        "name": "\u00c1 t\u00f3nafl\u00f3\u00f0i",
-        "url": "https://open.spotify.com/album/09MVDyqf8va8CMTe2Pm2dY"
-      },
-      "artists": [
-        {
-          "name": "CeaseTone",
-          "url": "https://open.spotify.com/artist/2FfS4tGbyODPI92Baw7Ys8"
-        }
-      ],
-      "duration_ms": 170250,
-      "name": "\u00c1 t\u00f3nafl\u00f3\u00f0i",
-      "url": "https://open.spotify.com/track/1KaWmzDXEwQqpzWy3uh6Hr"
     },
     {
       "added_at": "2026-05-22 00:00:21",
@@ -343,6 +311,22 @@
     {
       "added_at": "2026-05-22 00:00:21",
       "album": {
+        "name": "\u00c1 t\u00f3nafl\u00f3\u00f0i",
+        "url": "https://open.spotify.com/album/09MVDyqf8va8CMTe2Pm2dY"
+      },
+      "artists": [
+        {
+          "name": "CeaseTone",
+          "url": "https://open.spotify.com/artist/2FfS4tGbyODPI92Baw7Ys8"
+        }
+      ],
+      "duration_ms": 170250,
+      "name": "\u00c1 t\u00f3nafl\u00f3\u00f0i",
+      "url": "https://open.spotify.com/track/1KaWmzDXEwQqpzWy3uh6Hr"
+    },
+    {
+      "added_at": "2026-05-22 00:00:21",
+      "album": {
         "name": "End of an Era",
         "url": "https://open.spotify.com/album/0FSyYdz0o2YFjPwFpdk5iO"
       },
@@ -359,18 +343,18 @@
     {
       "added_at": "2026-05-22 00:00:21",
       "album": {
-        "name": "everyone for ten minutes",
-        "url": "https://open.spotify.com/album/7fVpvNHItOKonMGgbhHL5o"
+        "name": "Evolution",
+        "url": "https://open.spotify.com/album/10reOzyrRiJQehulKminkn"
       },
       "artists": [
         {
-          "name": "Bleachers",
-          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
         }
       ],
-      "duration_ms": 184761,
-      "name": "we should talk",
-      "url": "https://open.spotify.com/track/5xqxq73BSIr3303mn1Dnqz"
+      "duration_ms": 225229,
+      "name": "Evolution",
+      "url": "https://open.spotify.com/track/2vpO3zMJ82SxEY1MzjNNrp"
     },
     {
       "added_at": "2026-05-22 00:00:21",
@@ -387,6 +371,22 @@
       "duration_ms": 249218,
       "name": "touch myself",
       "url": "https://open.spotify.com/track/3yftdtj8z7vS7M3EoPfVFK"
+    },
+    {
+      "added_at": "2026-05-22 00:00:21",
+      "album": {
+        "name": "everyone for ten minutes",
+        "url": "https://open.spotify.com/album/7fVpvNHItOKonMGgbhHL5o"
+      },
+      "artists": [
+        {
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+        }
+      ],
+      "duration_ms": 184761,
+      "name": "we should talk",
+      "url": "https://open.spotify.com/track/5xqxq73BSIr3303mn1Dnqz"
     },
     {
       "added_at": "2026-05-22 00:00:21",
@@ -411,22 +411,6 @@
     {
       "added_at": "2026-05-22 00:00:21",
       "album": {
-        "name": "Sulfur Surfer",
-        "url": "https://open.spotify.com/album/0ZegzmzVWw6wVsSeXK3OQE"
-      },
-      "artists": [
-        {
-          "name": "Bladee",
-          "url": "https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1"
-        }
-      ],
-      "duration_ms": 217672,
-      "name": "Versailles Flow",
-      "url": "https://open.spotify.com/track/2T1utvioehcgYAtQ6hjPOd"
-    },
-    {
-      "added_at": "2026-05-22 00:00:21",
-      "album": {
         "name": "White Flag",
         "url": "https://open.spotify.com/album/7gKMZSHTgUjLN32eMPFeXa"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 154480,
       "name": "White Flag",
       "url": "https://open.spotify.com/track/2CuM7FRomNSgZVF6QV5uLo"
+    },
+    {
+      "added_at": "2026-05-22 00:00:21",
+      "album": {
+        "name": "Sulfur Surfer",
+        "url": "https://open.spotify.com/album/0ZegzmzVWw6wVsSeXK3OQE"
+      },
+      "artists": [
+        {
+          "name": "Bladee",
+          "url": "https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1"
+        }
+      ],
+      "duration_ms": 217672,
+      "name": "Versailles Flow",
+      "url": "https://open.spotify.com/track/2T1utvioehcgYAtQ6hjPOd"
     },
     {
       "added_at": "2026-05-22 00:00:21",
@@ -495,22 +495,6 @@
     {
       "added_at": "2026-05-22 00:00:21",
       "album": {
-        "name": "KONNAKOL (Deluxe)",
-        "url": "https://open.spotify.com/album/5woNSjHHIY0L01V4Dj0AlM"
-      },
-      "artists": [
-        {
-          "name": "ZAYN",
-          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
-        }
-      ],
-      "duration_ms": 178144,
-      "name": "Daydreamin\u2019",
-      "url": "https://open.spotify.com/track/5m0UFKwzACWZBRACdP19kc"
-    },
-    {
-      "added_at": "2026-05-22 00:00:21",
-      "album": {
         "name": "HOES (feat. Sexyy Red) [From Scary Movie]",
         "url": "https://open.spotify.com/album/1fuVofIf79f9kg2CPH3LIt"
       },
@@ -531,6 +515,22 @@
     {
       "added_at": "2026-05-22 00:00:21",
       "album": {
+        "name": "KONNAKOL (Deluxe)",
+        "url": "https://open.spotify.com/album/5woNSjHHIY0L01V4Dj0AlM"
+      },
+      "artists": [
+        {
+          "name": "ZAYN",
+          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
+        }
+      ],
+      "duration_ms": 178144,
+      "name": "Daydreamin\u2019",
+      "url": "https://open.spotify.com/track/5m0UFKwzACWZBRACdP19kc"
+    },
+    {
+      "added_at": "2026-05-22 00:00:21",
+      "album": {
         "name": "Pretty Little Things",
         "url": "https://open.spotify.com/album/69UHydI2nE7iN0Idu3Apb7"
       },
@@ -543,6 +543,22 @@
       "duration_ms": 171304,
       "name": "Pretty Little Things",
       "url": "https://open.spotify.com/track/4cxp9FkxuUqcNxvgnfVKju"
+    },
+    {
+      "added_at": "2026-05-22 00:00:21",
+      "album": {
+        "name": "New York Confident",
+        "url": "https://open.spotify.com/album/4oDktJNg53nfidIcdeU1k2"
+      },
+      "artists": [
+        {
+          "name": "Mark Ambor",
+          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
+        }
+      ],
+      "duration_ms": 147394,
+      "name": "New York Confident",
+      "url": "https://open.spotify.com/track/5cILqtT5F6B35u7sawG9FR"
     },
     {
       "added_at": "2026-05-22 00:00:21",
@@ -563,22 +579,6 @@
       "duration_ms": 329440,
       "name": "The Waves (feat. Solann)",
       "url": "https://open.spotify.com/track/0Hcr3kdSB9NVQmFckRsgSD"
-    },
-    {
-      "added_at": "2026-05-22 00:00:21",
-      "album": {
-        "name": "New York Confident",
-        "url": "https://open.spotify.com/album/4oDktJNg53nfidIcdeU1k2"
-      },
-      "artists": [
-        {
-          "name": "Mark Ambor",
-          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
-        }
-      ],
-      "duration_ms": 147394,
-      "name": "New York Confident",
-      "url": "https://open.spotify.com/track/5cILqtT5F6B35u7sawG9FR"
     },
     {
       "added_at": "2026-05-22 00:00:21",
@@ -615,22 +615,6 @@
     {
       "added_at": "2026-05-22 00:00:21",
       "album": {
-        "name": "Lovebites",
-        "url": "https://open.spotify.com/album/5PjXhp79Cl4FB7qCDOkm4V"
-      },
-      "artists": [
-        {
-          "name": "Luvcat",
-          "url": "https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "Silent Killer",
-      "url": "https://open.spotify.com/track/30GeuZLcq4ORyG1mf5JeYT"
-    },
-    {
-      "added_at": "2026-05-22 00:00:21",
-      "album": {
         "name": "Fast Friends",
         "url": "https://open.spotify.com/album/4FWsKh09O9fr0CI7BeIC4X"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 158201,
       "name": "Fast Friends",
       "url": "https://open.spotify.com/track/70rBw5gmaGKuG6hU1upHiO"
+    },
+    {
+      "added_at": "2026-05-22 00:00:21",
+      "album": {
+        "name": "Lovebites",
+        "url": "https://open.spotify.com/album/5PjXhp79Cl4FB7qCDOkm4V"
+      },
+      "artists": [
+        {
+          "name": "Luvcat",
+          "url": "https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "Silent Killer",
+      "url": "https://open.spotify.com/track/30GeuZLcq4ORyG1mf5JeYT"
     },
     {
       "added_at": "2026-05-22 00:00:21",
@@ -687,22 +687,6 @@
     {
       "added_at": "2026-05-22 00:00:21",
       "album": {
-        "name": "Eyes Don't Lie",
-        "url": "https://open.spotify.com/album/1xsEi04labtfeYTv7D6uAZ"
-      },
-      "artists": [
-        {
-          "name": "JIREEL",
-          "url": "https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "Man",
-      "url": "https://open.spotify.com/track/0SBv4vF1SfMJHnzSmaElVh"
-    },
-    {
-      "added_at": "2026-05-22 00:00:21",
-      "album": {
         "name": "2POPS",
         "url": "https://open.spotify.com/album/3m6ZI3ziZdXZJKwJVZKghw"
       },
@@ -735,6 +719,38 @@
     {
       "added_at": "2026-05-22 00:00:21",
       "album": {
+        "name": "Eyes Don't Lie",
+        "url": "https://open.spotify.com/album/1xsEi04labtfeYTv7D6uAZ"
+      },
+      "artists": [
+        {
+          "name": "JIREEL",
+          "url": "https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "Man",
+      "url": "https://open.spotify.com/track/0SBv4vF1SfMJHnzSmaElVh"
+    },
+    {
+      "added_at": "2026-05-22 00:00:21",
+      "album": {
+        "name": "lao shi",
+        "url": "https://open.spotify.com/album/2QAToXwax3o7UkhpMZSsW3"
+      },
+      "artists": [
+        {
+          "name": "Helena Gao",
+          "url": "https://open.spotify.com/artist/2s2ztYpVGqV3BWDbAcd35h"
+        }
+      ],
+      "duration_ms": 131440,
+      "name": "lao shi",
+      "url": "https://open.spotify.com/track/6Z3mpXWlxpH91pkxtvhfYK"
+    },
+    {
+      "added_at": "2026-05-22 00:00:21",
+      "album": {
         "name": "Play",
         "url": "https://open.spotify.com/album/4mveLQ3t7GKHwuKDShwgzx"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 183788,
       "name": "Blue Flame",
       "url": "https://open.spotify.com/track/5R9utrfWW0T6GqAe3koh3o"
-    },
-    {
-      "added_at": "2026-05-22 00:00:21",
-      "album": {
-        "name": "lao shi",
-        "url": "https://open.spotify.com/album/2QAToXwax3o7UkhpMZSsW3"
-      },
-      "artists": [
-        {
-          "name": "Helena Gao",
-          "url": "https://open.spotify.com/artist/2s2ztYpVGqV3BWDbAcd35h"
-        }
-      ],
-      "duration_ms": 131440,
-      "name": "lao shi",
-      "url": "https://open.spotify.com/track/6Z3mpXWlxpH91pkxtvhfYK"
     },
     {
       "added_at": "2026-05-22 00:00:21",
@@ -947,18 +947,18 @@
     {
       "added_at": "2026-05-22 00:00:21",
       "album": {
-        "name": "Learn To Fly",
-        "url": "https://open.spotify.com/album/17Gvxor3jqibvQc7MtbycE"
+        "name": "Play",
+        "url": "https://open.spotify.com/album/4mveLQ3t7GKHwuKDShwgzx"
       },
       "artists": [
         {
-          "name": "Filip Gr\u00f6nlund",
-          "url": "https://open.spotify.com/artist/1u5org9Dl98ijRbdFzX3Om"
+          "name": "A Good Year",
+          "url": "https://open.spotify.com/artist/30F8R1qAerw8VvYtRGGg0j"
         }
       ],
-      "duration_ms": 161305,
-      "name": "You Make Me - Edit",
-      "url": "https://open.spotify.com/track/4CwEoJ6kAWFvTAfVCPbJeP"
+      "duration_ms": 128842,
+      "name": "Right Back",
+      "url": "https://open.spotify.com/track/5Zb0Y2rONP2gj3QAjiBP30"
     },
     {
       "added_at": "2026-05-22 00:00:21",
@@ -979,18 +979,18 @@
     {
       "added_at": "2026-05-22 00:00:21",
       "album": {
-        "name": "Play",
-        "url": "https://open.spotify.com/album/4mveLQ3t7GKHwuKDShwgzx"
+        "name": "Learn To Fly",
+        "url": "https://open.spotify.com/album/17Gvxor3jqibvQc7MtbycE"
       },
       "artists": [
         {
-          "name": "A Good Year",
-          "url": "https://open.spotify.com/artist/30F8R1qAerw8VvYtRGGg0j"
+          "name": "Filip Gr\u00f6nlund",
+          "url": "https://open.spotify.com/artist/1u5org9Dl98ijRbdFzX3Om"
         }
       ],
-      "duration_ms": 128842,
-      "name": "Right Back",
-      "url": "https://open.spotify.com/track/5Zb0Y2rONP2gj3QAjiBP30"
+      "duration_ms": 161305,
+      "name": "You Make Me - Edit",
+      "url": "https://open.spotify.com/track/4CwEoJ6kAWFvTAfVCPbJeP"
     },
     {
       "added_at": "2026-05-22 00:00:21",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2026-05-22 00:00:21",
       "album": {
-        "name": "Ripe Fruit",
-        "url": "https://open.spotify.com/album/0OrAuKQZzutYGtwCM3NxMt"
-      },
-      "artists": [
-        {
-          "name": "Luanna Elise",
-          "url": "https://open.spotify.com/artist/3HyeLobYzJezuXqKTHwem3"
-        }
-      ],
-      "duration_ms": 147567,
-      "name": "Ripe Fruit",
-      "url": "https://open.spotify.com/track/0AK4ZWwx7qkQQun81rynKw"
-    },
-    {
-      "added_at": "2026-05-22 00:00:21",
-      "album": {
         "name": "Sir' Det Bar' (Fra DR Ultra's \"Sir' Det Bar'\")",
         "url": "https://open.spotify.com/album/1kZVdCf3LbTFpmHRDeKdkR"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 136571,
       "name": "Ta' Min H\u00e5nd",
       "url": "https://open.spotify.com/track/1y3f3Pk3tZeJJEBb0RYRGe"
+    },
+    {
+      "added_at": "2026-05-22 00:00:21",
+      "album": {
+        "name": "Ripe Fruit",
+        "url": "https://open.spotify.com/album/0OrAuKQZzutYGtwCM3NxMt"
+      },
+      "artists": [
+        {
+          "name": "Luanna Elise",
+          "url": "https://open.spotify.com/artist/3HyeLobYzJezuXqKTHwem3"
+        }
+      ],
+      "duration_ms": 147567,
+      "name": "Ripe Fruit",
+      "url": "https://open.spotify.com/track/0AK4ZWwx7qkQQun81rynKw"
     },
     {
       "added_at": "2026-05-22 00:00:21",

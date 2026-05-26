@@ -4,7 +4,7 @@
 
 > Türkçe rap'in hit şarkıları ve zirveye oynayanlar\. Kapak: Patron
 
-999 songs - 1 day 20 hr 46 min
+1,000 songs - 1 day 20 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -500,7 +500,7 @@
 | [KARDEŞ](https://open.spotify.com/track/60L3b4EDrwenFFOY2eBqzm) | [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3), [Astral](https://open.spotify.com/artist/7g6rPQyaKLwHpM6JB4lByD) | [KARDEŞ](https://open.spotify.com/album/2aGaMtEzo1t5pQMQj9eiHl) | 2:01 | 2024-01-04 | 2024-02-09 |
 | [KASA ORIJINAL](https://open.spotify.com/track/6sVqMxZnOMyZrATLR6v5Ft) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [Arem Ozguc](https://open.spotify.com/artist/5JJc8is4VzgOz8ZanDj18J), [Arman Aydin](https://open.spotify.com/artist/4xklx5DAtVru5uf3vSXTgf) | [KASA ORIJINAL](https://open.spotify.com/album/1kIKNCYnhNNVSfE6E7U4fT) | 1:50 | 2024-10-03 | 2024-12-13 |
 | [KATANA](https://open.spotify.com/track/1lBFlo5LGdC6A5G7Dj1Cip) | [Rockywhereyoubeen](https://open.spotify.com/artist/5pieMKHiTXhVZEmlMT0ij7), [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj) | [KATANA](https://open.spotify.com/album/6TKb83p6EWwQPjUqT8lMYN) | 2:13 | 2025-11-27 | 2025-12-12 |
-| [Kaybet](https://open.spotify.com/track/2clKyB93M9tT80yraXSHWs) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Kaybet](https://open.spotify.com/album/51G4p4KQeDHKTkhf7mEpJS) | 2:51 | 2026-04-16 |  |
+| [Kaybet](https://open.spotify.com/track/2clKyB93M9tT80yraXSHWs) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Kaybet](https://open.spotify.com/album/51G4p4KQeDHKTkhf7mEpJS) | 2:51 | 2026-04-16 | 2026-05-26 |
 | [kaybolursun](https://open.spotify.com/track/7FM47IKI0QpQLQbU1ouayH) | [Stabil](https://open.spotify.com/artist/3XjAYzwW3zGIi0OetnEIvU) | [kaybolursun](https://open.spotify.com/album/5Rhuau8RgEU96cZqcoTdeB) | 3:16 | 2025-12-04 | 2025-12-19 |
 | [KAYKAY](https://open.spotify.com/track/6rRlb4jHYWovtdI4PJnr5q) | [Era7capone](https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM) | [KAYKAY](https://open.spotify.com/album/29kZS6Qv2zGpM8j0FbUDw1) | 1:47 | 2025-10-16 | 2025-12-05 |
 | [Kaynanam](https://open.spotify.com/track/0rjtocRvOFrYcsmJiAJP5V) | [ElMusto](https://open.spotify.com/artist/1Tjaa3WWIVU00kfZ8Dvpcl) | [Kaynanam](https://open.spotify.com/album/20FhWeR02sTa0j1MgetrkC) | 2:29 | 2024-04-11 | 2024-07-27 |
@@ -988,6 +988,7 @@
 | [ÇOK AĞLADIM](https://open.spotify.com/track/3iJA0Z7YyB9DrArNTvoDat) | [ERAY067](https://open.spotify.com/artist/7l1AEP7z8ERNZzknXqPUFT), [Mansur](https://open.spotify.com/artist/1nXS8JvKsTNSGw75Axv6rm) | [ÇOK AĞLADIM](https://open.spotify.com/album/3xDHI3UPennkKzJsmmtODd) | 1:54 | 2025-07-31 | 2025-12-26 |
 | [ÇOK İYİ](https://open.spotify.com/track/1LKV8a3oBspzpNe1avmSFv) | [Jeff Redd](https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx) | [ÇOK İYİ](https://open.spotify.com/album/3q9OE9lBGj5OmGyusWR8bp) | 1:54 | 2025-07-17 | 2025-08-08 |
 | [Çözemedim](https://open.spotify.com/track/75GfsNPBUObm1D1ryqjP1l) | [Ahiyan](https://open.spotify.com/artist/0U8sdaBYsYld98xOIX1nYB), [Mâi](https://open.spotify.com/artist/3d4FAb7KcuSi6WrVYuIDbk) | [Çözemedim](https://open.spotify.com/album/21h5KVYyc7C3MesqQ8D4f8) | 2:56 | 2025-12-18 | 2026-01-30 |
+| [Çıldırmamalıyım](https://open.spotify.com/track/5BZS5IvHJ4zKkG3YKB76a0) | [No.1](https://open.spotify.com/artist/4fR3W8XFXsqHB8f8IqEr1y) | [Çıldırmamalıyım](https://open.spotify.com/album/1HpH2Um0Z0YXc1GtS5g3Js) | 3:56 | 2026-05-25 |  |
 | [Öfkemin Esiri](https://open.spotify.com/track/6WOPjlggMQWbK2LplRS17z) | [Anıl Piyancı](https://open.spotify.com/artist/2u4xMsh0M2B7R8Wb3pEWae) | [Paradigma](https://open.spotify.com/album/5JEDimXEOMyW9q6NJwzpAq) | 3:33 | 2025-08-14 | 2025-09-06 |
 | [Öldürdün Beni](https://open.spotify.com/track/2KFH9ccit5Dx39CUfgCuT5) | [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS), [Ege Boran](https://open.spotify.com/artist/3fLOI9YQNiRAOCwUm75Zqn), [Kuty](https://open.spotify.com/artist/1spo5AJ302sAMnRXUPlSy1) | [Öldürdün Beni](https://open.spotify.com/album/0kOaweYy10G52cZg4Hqgi2) | 2:51 | 2023-08-10 | 2023-08-25 |
 | [Ölene Dek](https://open.spotify.com/track/7lDXQB6j2FVV6XQU1LKxt7) | [Aksan](https://open.spotify.com/artist/35vCEk68DtAxh7gDAzhoKK) | [Ölene Dek](https://open.spotify.com/album/4QBJ9P2jyS1t3b5gfQ1HVY) | 3:12 | 2026-02-19 | 2026-03-06 |

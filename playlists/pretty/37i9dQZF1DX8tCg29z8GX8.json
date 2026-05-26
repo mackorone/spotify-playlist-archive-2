@@ -1,6 +1,6 @@
 {
   "description": "mate- Bus stop!",
-  "num_followers": 20624,
+  "num_followers": 20625,
   "original_name": "Troski Rhythms",
   "owner": {
     "name": "Spotify",
@@ -551,6 +551,26 @@
     {
       "added_at": "2026-05-22 00:02:07",
       "album": {
+        "name": "Sweet Boy",
+        "url": "https://open.spotify.com/album/5bemAcOU06NptwvjYE3lLs"
+      },
+      "artists": [
+        {
+          "name": "Kuami Eugene",
+          "url": "https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl"
+        },
+        {
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+        }
+      ],
+      "duration_ms": 175148,
+      "name": "Stranger",
+      "url": "https://open.spotify.com/track/242WBNiAmAI4iF41XEr4Vx"
+    },
+    {
+      "added_at": "2026-05-22 00:02:07",
+      "album": {
         "name": "This Is Not the Tape III",
         "url": "https://open.spotify.com/album/6LyLd9gp7xoOKaFtPxI7PI"
       },
@@ -583,26 +603,6 @@
     {
       "added_at": "2026-05-22 00:02:07",
       "album": {
-        "name": "Sweet Boy",
-        "url": "https://open.spotify.com/album/5bemAcOU06NptwvjYE3lLs"
-      },
-      "artists": [
-        {
-          "name": "Kuami Eugene",
-          "url": "https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl"
-        },
-        {
-          "name": "Gyakie",
-          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
-        }
-      ],
-      "duration_ms": 175148,
-      "name": "Stranger",
-      "url": "https://open.spotify.com/track/242WBNiAmAI4iF41XEr4Vx"
-    },
-    {
-      "added_at": "2026-05-22 00:02:07",
-      "album": {
         "name": "Violence (feat. Kweku Smoke)",
         "url": "https://open.spotify.com/album/5osGGqJwqY0RIDmJxOyjfq"
       },
@@ -619,6 +619,22 @@
       "duration_ms": 185806,
       "name": "Violence (feat. Kweku Smoke)",
       "url": "https://open.spotify.com/track/7g7xysGXIN9YwwgpKhfV1Z"
+    },
+    {
+      "added_at": "2026-05-22 00:02:07",
+      "album": {
+        "name": "CAME OF AGE",
+        "url": "https://open.spotify.com/album/1WEt6ZRsPzCTQqmRGgaRID"
+      },
+      "artists": [
+        {
+          "name": "O'Kenneth",
+          "url": "https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM"
+        }
+      ],
+      "duration_ms": 167067,
+      "name": "EASY",
+      "url": "https://open.spotify.com/track/0zGx4JuFITnZggFoEWuXUh"
     },
     {
       "added_at": "2026-05-22 00:02:07",
@@ -655,22 +671,6 @@
       "duration_ms": 165981,
       "name": "Yawa (Hosanna)",
       "url": "https://open.spotify.com/track/6z8ar5d1V3YMtpa5KBWIAP"
-    },
-    {
-      "added_at": "2026-05-22 00:02:07",
-      "album": {
-        "name": "CAME OF AGE",
-        "url": "https://open.spotify.com/album/1WEt6ZRsPzCTQqmRGgaRID"
-      },
-      "artists": [
-        {
-          "name": "O'Kenneth",
-          "url": "https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM"
-        }
-      ],
-      "duration_ms": 167067,
-      "name": "EASY",
-      "url": "https://open.spotify.com/track/0zGx4JuFITnZggFoEWuXUh"
     },
     {
       "added_at": "2026-05-22 00:02:07",
@@ -727,30 +727,6 @@
     {
       "added_at": "2026-05-22 00:02:07",
       "album": {
-        "name": "Aso II",
-        "url": "https://open.spotify.com/album/4b5WPLK3aUss1Thmu6v6HQ"
-      },
-      "artists": [
-        {
-          "name": "Kwabena Kwabena",
-          "url": "https://open.spotify.com/artist/6zKu61RG80pBKOMUbBKNMr"
-        },
-        {
-          "name": "Stonebwoy",
-          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
-        },
-        {
-          "name": "Kofi Kinaata",
-          "url": "https://open.spotify.com/artist/6TQW172m1l4Tf4Hp55ZdDm"
-        }
-      ],
-      "duration_ms": 266967,
-      "name": "Aso II",
-      "url": "https://open.spotify.com/track/2OAZTmQH3HwsVzDYeK3LDw"
-    },
-    {
-      "added_at": "2026-05-22 00:02:07",
-      "album": {
         "name": "BALENCIAGA II",
         "url": "https://open.spotify.com/album/4ZDzI9tLDiRfd2zL5XmQug"
       },
@@ -783,6 +759,30 @@
     {
       "added_at": "2026-05-22 00:02:07",
       "album": {
+        "name": "Aso II",
+        "url": "https://open.spotify.com/album/4b5WPLK3aUss1Thmu6v6HQ"
+      },
+      "artists": [
+        {
+          "name": "Kwabena Kwabena",
+          "url": "https://open.spotify.com/artist/6zKu61RG80pBKOMUbBKNMr"
+        },
+        {
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+        },
+        {
+          "name": "Kofi Kinaata",
+          "url": "https://open.spotify.com/artist/6TQW172m1l4Tf4Hp55ZdDm"
+        }
+      ],
+      "duration_ms": 266967,
+      "name": "Aso II",
+      "url": "https://open.spotify.com/track/2OAZTmQH3HwsVzDYeK3LDw"
+    },
+    {
+      "added_at": "2026-05-22 00:02:07",
+      "album": {
         "name": "The Interface (Shatta Music Genre)",
         "url": "https://open.spotify.com/album/6m4SzULX5PaOIw6zQKmyFl"
       },
@@ -795,42 +795,6 @@
       "duration_ms": 151288,
       "name": "Yawa Ni (shatta music)",
       "url": "https://open.spotify.com/track/7IveKHTxWlPKm3TJOBqo27"
-    },
-    {
-      "added_at": "2026-05-22 00:02:07",
-      "album": {
-        "name": "See What We've Done",
-        "url": "https://open.spotify.com/album/5joD3BWyBtdMgOWX0HfT42"
-      },
-      "artists": [
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        },
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 185719,
-      "name": "See What We've Done",
-      "url": "https://open.spotify.com/track/3lwmzgzAU2IS0GLPGNdZ4b"
-    },
-    {
-      "added_at": "2026-05-22 00:02:07",
-      "album": {
-        "name": "The Odyssey",
-        "url": "https://open.spotify.com/album/1cMwW3RWNFCLR8A9gUQRVG"
-      },
-      "artists": [
-        {
-          "name": "AratheJay",
-          "url": "https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Ara No Dey Sleep",
-      "url": "https://open.spotify.com/track/3sQgX4EW0lnLYr0BAbPA9g"
     },
     {
       "added_at": "2026-05-22 00:02:07",
@@ -851,6 +815,42 @@
       "duration_ms": 168791,
       "name": "Mon B\u00e9b\u00e9 (with King Promise)",
       "url": "https://open.spotify.com/track/6WDxmvyUaZpxS9vCtfA5iC"
+    },
+    {
+      "added_at": "2026-05-22 00:02:07",
+      "album": {
+        "name": "The Odyssey",
+        "url": "https://open.spotify.com/album/1cMwW3RWNFCLR8A9gUQRVG"
+      },
+      "artists": [
+        {
+          "name": "AratheJay",
+          "url": "https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Ara No Dey Sleep",
+      "url": "https://open.spotify.com/track/3sQgX4EW0lnLYr0BAbPA9g"
+    },
+    {
+      "added_at": "2026-05-22 00:02:07",
+      "album": {
+        "name": "See What We've Done",
+        "url": "https://open.spotify.com/album/5joD3BWyBtdMgOWX0HfT42"
+      },
+      "artists": [
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 185719,
+      "name": "See What We've Done",
+      "url": "https://open.spotify.com/track/3lwmzgzAU2IS0GLPGNdZ4b"
     },
     {
       "added_at": "2026-05-22 00:02:07",
@@ -891,26 +891,6 @@
     {
       "added_at": "2026-05-22 00:02:07",
       "album": {
-        "name": "Perfect Combi & Naana",
-        "url": "https://open.spotify.com/album/6nFn6Yq8eq2UYaU0Lkteiv"
-      },
-      "artists": [
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        },
-        {
-          "name": "Gabzy",
-          "url": "https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62"
-        }
-      ],
-      "duration_ms": 181063,
-      "name": "Perfect Combi",
-      "url": "https://open.spotify.com/track/1rHPk2p3MQTh2wloo3P9zE"
-    },
-    {
-      "added_at": "2026-05-22 00:02:07",
-      "album": {
         "name": "After The Storm",
         "url": "https://open.spotify.com/album/0KAOzTgE6sRm9LKOoFsPW4"
       },
@@ -947,6 +927,26 @@
       "duration_ms": 201369,
       "name": "No Issues",
       "url": "https://open.spotify.com/track/4epMA12G6SPOTJryCZ4ouF"
+    },
+    {
+      "added_at": "2026-05-22 00:02:07",
+      "album": {
+        "name": "Perfect Combi & Naana",
+        "url": "https://open.spotify.com/album/6nFn6Yq8eq2UYaU0Lkteiv"
+      },
+      "artists": [
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        },
+        {
+          "name": "Gabzy",
+          "url": "https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62"
+        }
+      ],
+      "duration_ms": 181063,
+      "name": "Perfect Combi",
+      "url": "https://open.spotify.com/track/1rHPk2p3MQTh2wloo3P9zE"
     },
     {
       "added_at": "2026-05-22 00:02:07",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2026-05-22 00:02:07",
       "album": {
-        "name": "Babylon",
-        "url": "https://open.spotify.com/album/55CLjgXBq4zuAnGYeGM8VB"
-      },
-      "artists": [
-        {
-          "name": "KiDi",
-          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
-        }
-      ],
-      "duration_ms": 160800,
-      "name": "Babylon",
-      "url": "https://open.spotify.com/track/4FQD13B32eYtCBH7PDMYZw"
-    },
-    {
-      "added_at": "2026-05-22 00:02:07",
-      "album": {
         "name": "Sweet Songs 4 You",
         "url": "https://open.spotify.com/album/5dd9pjLKGfr6jDOr3ChACg"
       },
@@ -1035,6 +1019,38 @@
       "duration_ms": 170840,
       "name": "meet 4 corner",
       "url": "https://open.spotify.com/track/1xzClFt96f9K5mGCCAXTD8"
+    },
+    {
+      "added_at": "2026-05-22 00:02:07",
+      "album": {
+        "name": "Babylon",
+        "url": "https://open.spotify.com/album/55CLjgXBq4zuAnGYeGM8VB"
+      },
+      "artists": [
+        {
+          "name": "KiDi",
+          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
+        }
+      ],
+      "duration_ms": 160800,
+      "name": "Babylon",
+      "url": "https://open.spotify.com/track/4FQD13B32eYtCBH7PDMYZw"
+    },
+    {
+      "added_at": "2026-05-22 00:02:07",
+      "album": {
+        "name": "TORCHER II",
+        "url": "https://open.spotify.com/album/5OKoGIvE7RR2RMVyuYPUhD"
+      },
+      "artists": [
+        {
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+        }
+      ],
+      "duration_ms": 179368,
+      "name": "Many Times",
+      "url": "https://open.spotify.com/track/1Z1qgSImhoKPVPgSDuXlrY"
     },
     {
       "added_at": "2026-05-22 00:02:07",
@@ -1059,22 +1075,6 @@
     {
       "added_at": "2026-05-22 00:02:07",
       "album": {
-        "name": "TORCHER II",
-        "url": "https://open.spotify.com/album/5OKoGIvE7RR2RMVyuYPUhD"
-      },
-      "artists": [
-        {
-          "name": "Stonebwoy",
-          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
-        }
-      ],
-      "duration_ms": 179368,
-      "name": "Many Times",
-      "url": "https://open.spotify.com/track/1Z1qgSImhoKPVPgSDuXlrY"
-    },
-    {
-      "added_at": "2026-05-22 00:02:07",
-      "album": {
         "name": "Put It On God",
         "url": "https://open.spotify.com/album/5Lj5IvWqfZkWjbbYIu0wCH"
       },
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2026-05-22 00:02:07",
       "album": {
-        "name": "WALK WITH ME",
-        "url": "https://open.spotify.com/album/5AMNvhVAyOSfEwTtZ4lXdl"
-      },
-      "artists": [
-        {
-          "name": "Kweku Smoke",
-          "url": "https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO"
-        }
-      ],
-      "duration_ms": 221418,
-      "name": "Someday Soon",
-      "url": "https://open.spotify.com/track/1tefeAORT76SRH3r4Qoj0g"
-    },
-    {
-      "added_at": "2026-05-22 00:02:07",
-      "album": {
         "name": "Olivia",
         "url": "https://open.spotify.com/album/71LNcbKRpuxYZ3rfG8zZhm"
       },
@@ -1127,18 +1111,18 @@
     {
       "added_at": "2026-05-22 00:02:07",
       "album": {
-        "name": "Terminator",
-        "url": "https://open.spotify.com/album/6a3w9YAl8ZAloTczNVOwf3"
+        "name": "WALK WITH ME",
+        "url": "https://open.spotify.com/album/5AMNvhVAyOSfEwTtZ4lXdl"
       },
       "artists": [
         {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+          "name": "Kweku Smoke",
+          "url": "https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO"
         }
       ],
-      "duration_ms": 155897,
-      "name": "Terminator",
-      "url": "https://open.spotify.com/track/4vI2KCvXTAPR3vfiWg1J78"
+      "duration_ms": 221418,
+      "name": "Someday Soon",
+      "url": "https://open.spotify.com/track/1tefeAORT76SRH3r4Qoj0g"
     },
     {
       "added_at": "2026-05-22 00:02:07",
@@ -1155,6 +1139,22 @@
       "duration_ms": 150535,
       "name": "Yire (Fanfooler)",
       "url": "https://open.spotify.com/track/1390ovzn0DCki8MOIUJ185"
+    },
+    {
+      "added_at": "2026-05-22 00:02:07",
+      "album": {
+        "name": "Terminator",
+        "url": "https://open.spotify.com/album/6a3w9YAl8ZAloTczNVOwf3"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 155897,
+      "name": "Terminator",
+      "url": "https://open.spotify.com/track/4vI2KCvXTAPR3vfiWg1J78"
     },
     {
       "added_at": "2026-05-22 00:02:07",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2026-05-22 00:02:07",
       "album": {
+        "name": "TORCHER II",
+        "url": "https://open.spotify.com/album/5OKoGIvE7RR2RMVyuYPUhD"
+      },
+      "artists": [
+        {
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "Blood Don't Make Family",
+      "url": "https://open.spotify.com/track/6H6Maog5CLKlUix8TKGipZ"
+    },
+    {
+      "added_at": "2026-05-22 00:02:07",
+      "album": {
         "name": "Fallen Angel",
         "url": "https://open.spotify.com/album/3O8VIa31ZtEh5DKRhMzp2m"
       },
@@ -1227,22 +1243,6 @@
       "duration_ms": 200869,
       "name": "Fallen Angel",
       "url": "https://open.spotify.com/track/3XFc1Q32ssmKglaZKI5iTI"
-    },
-    {
-      "added_at": "2026-05-22 00:02:07",
-      "album": {
-        "name": "TORCHER II",
-        "url": "https://open.spotify.com/album/5OKoGIvE7RR2RMVyuYPUhD"
-      },
-      "artists": [
-        {
-          "name": "Stonebwoy",
-          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "Blood Don't Make Family",
-      "url": "https://open.spotify.com/track/6H6Maog5CLKlUix8TKGipZ"
     },
     {
       "added_at": "2026-05-22 00:02:07",
@@ -1283,26 +1283,6 @@
     {
       "added_at": "2026-05-22 00:02:07",
       "album": {
-        "name": "WEATHER FOR 2",
-        "url": "https://open.spotify.com/album/6NxHxVF09p78d9qBXFvJyX"
-      },
-      "artists": [
-        {
-          "name": "Kelvyn Boy",
-          "url": "https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy"
-        },
-        {
-          "name": "KOJO BLAK",
-          "url": "https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW"
-        }
-      ],
-      "duration_ms": 175135,
-      "name": "WEATHER FOR 2",
-      "url": "https://open.spotify.com/track/56qLZovBjCLJUBlGv1gER8"
-    },
-    {
-      "added_at": "2026-05-22 00:02:07",
-      "album": {
         "name": "Out The Mud",
         "url": "https://open.spotify.com/album/2zUbYr0EsC9FcatnR2AT3A"
       },
@@ -1323,6 +1303,26 @@
     {
       "added_at": "2026-05-22 00:02:07",
       "album": {
+        "name": "WEATHER FOR 2",
+        "url": "https://open.spotify.com/album/6NxHxVF09p78d9qBXFvJyX"
+      },
+      "artists": [
+        {
+          "name": "Kelvyn Boy",
+          "url": "https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy"
+        },
+        {
+          "name": "KOJO BLAK",
+          "url": "https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW"
+        }
+      ],
+      "duration_ms": 175135,
+      "name": "WEATHER FOR 2",
+      "url": "https://open.spotify.com/track/56qLZovBjCLJUBlGv1gER8"
+    },
+    {
+      "added_at": "2026-05-22 00:02:07",
+      "album": {
         "name": "Agya",
         "url": "https://open.spotify.com/album/5RRH1A3hPL1TvcOseyuEOn"
       },
@@ -1335,6 +1335,22 @@
       "duration_ms": 138035,
       "name": "Agya",
       "url": "https://open.spotify.com/track/3mkxopCUD9KXldJJ1c743w"
+    },
+    {
+      "added_at": "2026-05-22 00:02:07",
+      "album": {
+        "name": "Matter",
+        "url": "https://open.spotify.com/album/05O6DVCuHwbJJKE6lj4VRb"
+      },
+      "artists": [
+        {
+          "name": "Tekno",
+          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
+        }
+      ],
+      "duration_ms": 169541,
+      "name": "Matter",
+      "url": "https://open.spotify.com/track/1LtqcH7fpqyIiGUgJvNIbM"
     },
     {
       "added_at": "2026-05-22 00:02:07",
@@ -1375,6 +1391,42 @@
     {
       "added_at": "2026-05-22 00:02:07",
       "album": {
+        "name": "Give Up and See",
+        "url": "https://open.spotify.com/album/3pv7jABm0LT7rfYMcZ5BFf"
+      },
+      "artists": [
+        {
+          "name": "King Paluta",
+          "url": "https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "duration_ms": 216737,
+      "name": "Give Up and See",
+      "url": "https://open.spotify.com/track/7oeDsbL96qpvc19iGFp59f"
+    },
+    {
+      "added_at": "2026-05-22 00:02:07",
+      "album": {
+        "name": "Outside / obaa sima",
+        "url": "https://open.spotify.com/album/2KiBlKHtsrlaJIwriKI1Qi"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "obaa sima",
+      "url": "https://open.spotify.com/track/3DmBkPi3DjThsopnHVt2cA"
+    },
+    {
+      "added_at": "2026-05-22 00:02:07",
+      "album": {
         "name": "Jigi Jigi Vol. 2",
         "url": "https://open.spotify.com/album/3JJdqNu2sTAZhtv4hyrqwi"
       },
@@ -1399,38 +1451,6 @@
     {
       "added_at": "2026-05-22 00:02:07",
       "album": {
-        "name": "Matter",
-        "url": "https://open.spotify.com/album/05O6DVCuHwbJJKE6lj4VRb"
-      },
-      "artists": [
-        {
-          "name": "Tekno",
-          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
-        }
-      ],
-      "duration_ms": 169541,
-      "name": "Matter",
-      "url": "https://open.spotify.com/track/1LtqcH7fpqyIiGUgJvNIbM"
-    },
-    {
-      "added_at": "2026-05-22 00:02:07",
-      "album": {
-        "name": "Outside / obaa sima",
-        "url": "https://open.spotify.com/album/2KiBlKHtsrlaJIwriKI1Qi"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "obaa sima",
-      "url": "https://open.spotify.com/track/3DmBkPi3DjThsopnHVt2cA"
-    },
-    {
-      "added_at": "2026-05-22 00:02:07",
-      "album": {
         "name": "Akua Broni",
         "url": "https://open.spotify.com/album/0DL4sDESnkZXriFwYpvjVb"
       },
@@ -1447,26 +1467,6 @@
       "duration_ms": 156428,
       "name": "Akua Broni",
       "url": "https://open.spotify.com/track/06qbJEpg6a4HTPYS8nSqMN"
-    },
-    {
-      "added_at": "2026-05-22 00:02:07",
-      "album": {
-        "name": "Disturbation 2",
-        "url": "https://open.spotify.com/album/7B8dezihuew5DL9ztt1j7I"
-      },
-      "artists": [
-        {
-          "name": "Medikal",
-          "url": "https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL"
-        },
-        {
-          "name": "Lalid",
-          "url": "https://open.spotify.com/artist/18eUnEkhFO7mnMNDURU1UV"
-        }
-      ],
-      "duration_ms": 197264,
-      "name": "Fully Active (feat. Lalid)",
-      "url": "https://open.spotify.com/track/1wA4YRKjoBgvkO7NoviGmN"
     }
   ],
   "unique_name": "Troski Rhythms",

@@ -1,12 +1,12 @@
 {
   "description": "This is La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga. The essential tracks, all in one playlist.",
-  "num_followers": 48419,
+  "num_followers": 48429,
   "original_name": "This Is La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahDuAAAAAADvqfeZuO3HGagFAJt0Q4fi",
+  "snapshot_id": "ahI/gAAAAACgGyYwbL756FaxDhehYBBg",
   "tracks": [
     {
       "added_at": null,
@@ -351,22 +351,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Y Sigues Siendo T\u00fa",
-        "url": "https://open.spotify.com/album/6BLpmYtWTS9IdxVTsFQZdd"
-      },
-      "artists": [
-        {
-          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
-        }
-      ],
-      "duration_ms": 162911,
-      "name": "Y Sigues Siendo T\u00fa",
-      "url": "https://open.spotify.com/track/2csn0HOElqpk8gc8mhtGeN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "De Aqu\u00ed Pa'l Real",
         "url": "https://open.spotify.com/album/0JdVLsrQshSvoWiPSW6M8D"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 246746,
       "name": "Sin Permiso Para Amarte",
       "url": "https://open.spotify.com/track/3Dd6c1FZDaxvoPfPRLyhBa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Y Sigues Siendo T\u00fa",
+        "url": "https://open.spotify.com/album/6BLpmYtWTS9IdxVTsFQZdd"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "duration_ms": 162911,
+      "name": "Y Sigues Siendo T\u00fa",
+      "url": "https://open.spotify.com/track/2csn0HOElqpk8gc8mhtGeN"
     },
     {
       "added_at": null,
@@ -599,8 +599,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Arriba Sinaloa: Las Mejores Voces De Banda Sinaloense",
-        "url": "https://open.spotify.com/album/0KWZFuJ6Ye5QP1eHveu60F"
+        "name": "24 Kilates de Corridos",
+        "url": "https://open.spotify.com/album/7JIqZjAaoIeHWmnbzurcFs"
       },
       "artists": [
         {
@@ -608,9 +608,9 @@
           "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
         }
       ],
-      "duration_ms": 226866,
-      "name": "La Original",
-      "url": "https://open.spotify.com/track/3bb3PqcfIPpLgAJ62rL2eB"
+      "duration_ms": 215720,
+      "name": "Las Dos Plebes",
+      "url": "https://open.spotify.com/track/3kB3wftiZPmVym3UyoWkNM"
     },
     {
       "added_at": null,
@@ -631,8 +631,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "24 Kilates de Corridos",
-        "url": "https://open.spotify.com/album/7JIqZjAaoIeHWmnbzurcFs"
+        "name": "Arriba Sinaloa: Las Mejores Voces De Banda Sinaloense",
+        "url": "https://open.spotify.com/album/0KWZFuJ6Ye5QP1eHveu60F"
       },
       "artists": [
         {
@@ -640,9 +640,9 @@
           "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
         }
       ],
-      "duration_ms": 215720,
-      "name": "Las Dos Plebes",
-      "url": "https://open.spotify.com/track/3kB3wftiZPmVym3UyoWkNM"
+      "duration_ms": 226866,
+      "name": "La Original",
+      "url": "https://open.spotify.com/track/3bb3PqcfIPpLgAJ62rL2eB"
     },
     {
       "added_at": null,
@@ -767,6 +767,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Me Lo Contaron Ayer",
+        "url": "https://open.spotify.com/album/7hT6QaevlgYP5QcmCJBRDT"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "duration_ms": 182466,
+      "name": "Entre Perico y Perico",
+      "url": "https://open.spotify.com/track/0FF49nUUfvxTmLEGvzO8wv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "M\u00e1s Original Que Nunca",
         "url": "https://open.spotify.com/album/4eq9E7F1vZHHvnQwmfMjhJ"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 125533,
       "name": "Te Llegar\u00e1 Mi Olvido",
       "url": "https://open.spotify.com/track/1RFos4pteRCTVxd3jrqbLH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Me Lo Contaron Ayer",
-        "url": "https://open.spotify.com/album/7hT6QaevlgYP5QcmCJBRDT"
-      },
-      "artists": [
-        {
-          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
-        }
-      ],
-      "duration_ms": 182466,
-      "name": "Entre Perico y Perico",
-      "url": "https://open.spotify.com/track/0FF49nUUfvxTmLEGvzO8wv"
     },
     {
       "added_at": null,

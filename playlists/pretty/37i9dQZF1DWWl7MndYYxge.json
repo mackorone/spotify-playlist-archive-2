@@ -1,6 +1,6 @@
 {
   "description": "Le meilleur des ann\u00e9es 80 en 80 titres.",
-  "num_followers": 806432,
+  "num_followers": 806473,
   "original_name": "Ann\u00e9es 80",
   "owner": {
     "name": "Spotify",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2026-03-19 15:24:01",
       "album": {
-        "name": "The Essential Roy Orbison",
-        "url": "https://open.spotify.com/album/48CvRZSBT0FbOHKLFfHy0n"
-      },
-      "artists": [
-        {
-          "name": "Roy Orbison",
-          "url": "https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS"
-        }
-      ],
-      "duration_ms": 211226,
-      "name": "You Got It",
-      "url": "https://open.spotify.com/track/0RteYQqW1AOq3JNL0yMWYt"
-    },
-    {
-      "added_at": "2026-03-19 15:24:01",
-      "album": {
         "name": "Dure limite (Remasteris\u00e9 en 2015)",
         "url": "https://open.spotify.com/album/1ePKFTIr8ZODp91iwt4kVf"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 268560,
       "name": "\u00c7a (c'est vraiment toi) - Remasteris\u00e9 en 2015",
       "url": "https://open.spotify.com/track/7p5Na4GvFzP6M7i1ti2YRJ"
+    },
+    {
+      "added_at": "2026-03-19 15:24:01",
+      "album": {
+        "name": "The Essential Roy Orbison",
+        "url": "https://open.spotify.com/album/48CvRZSBT0FbOHKLFfHy0n"
+      },
+      "artists": [
+        {
+          "name": "Roy Orbison",
+          "url": "https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS"
+        }
+      ],
+      "duration_ms": 211226,
+      "name": "You Got It",
+      "url": "https://open.spotify.com/track/0RteYQqW1AOq3JNL0yMWYt"
     },
     {
       "added_at": "2026-03-19 15:24:01",

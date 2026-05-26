@@ -4,7 +4,7 @@
 
 > Pop'un sevilen isimleri\. Kapak: Tuğba Özerk
 
-601 songs - 1 day 6 hr 31 min
+602 songs - 1 day 6 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [Bir Gün Ölürsem](https://open.spotify.com/track/5dotbwu3G11fvSwpwltLGy) | [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg) | [Bir Gün Ölürsem](https://open.spotify.com/album/0IESWsxuJ693yBZ3ZRf075) | 2:36 | 2024-12-19 | 2025-05-26 |
 | [Bir Hayal](https://open.spotify.com/track/7M1Q7tQiYhEJzOMvT6nUQI) | [Tuğçe Kandemir](https://open.spotify.com/artist/50z4meqYMvVCXEv2jDneDN) | [Bir Hayal](https://open.spotify.com/album/5DHGd3CQhJ3gizWH4dAa83) | 2:43 | 2026-02-05 | 2026-04-13 |
 | [Bir Karanfil](https://open.spotify.com/track/0a56Y5XrlRQ0JYg6jse5QJ) | [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg) | [Bir Karanfil](https://open.spotify.com/album/3Yb6RlZyEkrXfbYjsqFzPb) | 2:53 | 2024-06-27 | 2025-08-01 |
+| [Bir Sigara Yaktım](https://open.spotify.com/track/5bPi0l7YuXrFpsVaBFZE9S) | [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz) | [Bir Sigara Yaktım](https://open.spotify.com/album/5Uqu265E05Dyv0sC7uV6wt) | 2:56 | 2026-05-22 |  |
 | [Bir Yol](https://open.spotify.com/track/5vqwKZgZjyhVLHMnzhQX6y) | [EDIS](https://open.spotify.com/artist/1AM52XHXnWAEqnQwpxTLWm) | [Bir Yol](https://open.spotify.com/album/0vkUpL4dSKdLFvcvTt1JbG) | 2:28 | 2025-07-03 | 2025-10-22 |
 | [Bir Çift Göz](https://open.spotify.com/track/0DDTcst1ymDkTla649Mu0H) | [Norm Ender](https://open.spotify.com/artist/3S6gaE89XewFAvZqsMuJDJ), [Ebru Gündeş](https://open.spotify.com/artist/5AboYJAlMb9FGadTTDKRoN) | [Bir Çift Göz](https://open.spotify.com/album/2LyB2W3XhNwMdZ2Ww9NlVH) | 3:27 | 2025-06-26 |  |
 | [Bir Çiçek Daha Aldım Kendime](https://open.spotify.com/track/4j1wr7DQM6OG2Rl5VErGM2) | [Halil Sezai](https://open.spotify.com/artist/0Aoou2kIWXrzTOfhFzmNqa) | [Bir Çiçek Daha Aldım Kendime](https://open.spotify.com/album/6jFGK9iyhU4DAcLLS0zPYY) | 3:54 | 2025-12-18 | 2026-01-16 |
@@ -325,7 +326,7 @@
 | [Kehribar](https://open.spotify.com/track/3wtOAcctakLBwmzbCkRSHR) | [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz), [Ebru Yaşar](https://open.spotify.com/artist/0Qbd0AGWuzggX61s306wZN) | [Kehribar](https://open.spotify.com/album/2vJqCgVaPM5YpMlp9laiEX) | 2:48 | 2024-06-27 | 2025-07-18 |
 | [Kendisi Çıktı Bu Yoldan](https://open.spotify.com/track/1Nt1tWcwS4NjjyHT29Osco) | [Melek Mosso](https://open.spotify.com/artist/5IAxUWLiTMsvc1oWPrczNj), [Cemre](https://open.spotify.com/artist/7DOyoizHnSQW6jMGndQ9pS) | [Kendisi Çıktı Bu Yoldan](https://open.spotify.com/album/5LLBJwrPLwWc2ro51AtFh1) | 2:30 | 2026-02-05 | 2026-02-28 |
 | [Kervan](https://open.spotify.com/track/4MsNwPBADIfVpQ9ZmXNc7B) | [Bengü](https://open.spotify.com/artist/6wxh9aTFgTS4OiyYlnQBq6), [Mustafa Ceceli](https://open.spotify.com/artist/3cNwyF5SboOs9icz2XyotE) | [Kervan](https://open.spotify.com/album/0xdqDsFfcbRRCYFVgeDr6P) | 2:34 | 2025-01-16 | 2026-04-10 |
-| [Kesin Bilgi \- Harbi Ile Barbi](https://open.spotify.com/track/0dDuOoafXsBVJxZ6zhcSjr) | [Ersay Üner](https://open.spotify.com/artist/6kf7koRM31Dgsj2WbByZpB), [Derya Uluğ](https://open.spotify.com/artist/7A6T0nTpXnPXDUGM1yEjEj) | [RUH HASSASI](https://open.spotify.com/album/2s8crPj9fbE1ErzejEj1gE) | 3:32 | 2026-05-11 |  |
+| [Kesin Bilgi \- Harbi Ile Barbi](https://open.spotify.com/track/0dDuOoafXsBVJxZ6zhcSjr) | [Ersay Üner](https://open.spotify.com/artist/6kf7koRM31Dgsj2WbByZpB), [Derya Uluğ](https://open.spotify.com/artist/7A6T0nTpXnPXDUGM1yEjEj) | [RUH HASSASI](https://open.spotify.com/album/2s8crPj9fbE1ErzejEj1gE) | 3:32 | 2026-05-11 | 2026-05-26 |
 | [Kim Derdi Ki](https://open.spotify.com/track/0eLRwnFU3tk2Tb0chKeCgC) | [Ece Mumay](https://open.spotify.com/artist/5FK1YzcREfjBuxM8i7UtBe) | [Kim Derdi Ki](https://open.spotify.com/album/0F1LjE01DyzK56QHmNMERj) | 3:29 | 2026-01-15 | 2026-01-23 |
 | [Kim Özleyecek](https://open.spotify.com/track/4CRdavZLSgH4oiUZxGx6lD) | [İrem Derici](https://open.spotify.com/artist/5h2jTdwf4p0dM34aBykPzZ) | [Kim Özleyecek](https://open.spotify.com/album/5GT9iBUJHUUVC4Y3BEvKuQ) | 2:48 | 2026-05-14 |  |
 | [Kimi Seviyorsun / Yanmışım Ben / Romeo \- Mashup 2026](https://open.spotify.com/track/6wW7aAHWeryP7BCRaApdLL) | [Ozan Bayraşa](https://open.spotify.com/artist/7uvZiKlqJAqWz1ldB1iZ1X), [Sezen Aksu](https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd), [Hande Yener](https://open.spotify.com/artist/08mjMUUjyTchMHCW7evc3R) | [Kimi Seviyorsun / Yanmışım Ben / Romeo \(Mashup 2026\)](https://open.spotify.com/album/0ZwTg5zMXKok2p3VbCAjsZ) | 3:03 | 2026-04-09 | 2026-05-22 |

@@ -1,18 +1,18 @@
 {
-  "description": "The hottest tracks in Ghana. Cover: Black Sherif",
-  "num_followers": 85327,
+  "description": "The hottest tracks in Ghana. Cover: KiDi & Lasmid",
+  "num_followers": 85389,
   "original_name": "Hot Hits Ghana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIBEEjYctZGrky3qMWuFE0SasdHd",
+  "snapshot_id": "AAAAACh7xS5biLXo6W63K3jYj/KiMca4",
   "tracks": [
     {
-      "added_at": "2026-05-18 14:28:32",
+      "added_at": "2026-05-25 09:25:53",
       "album": {
-        "name": "Gymnastic",
-        "url": "https://open.spotify.com/album/4vIBy4r7qrMAJDCCSLqVkT"
+        "name": "Signature (with Lasmid)",
+        "url": "https://open.spotify.com/album/38jBpb68a3lHX3yDkJvKoO"
       },
       "artists": [
         {
@@ -20,20 +20,16 @@
           "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
         },
         {
-          "name": "Olivetheboy",
-          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
-        },
-        {
-          "name": "KOJO BLAK",
-          "url": "https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW"
+          "name": "Lasmid",
+          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
         }
       ],
-      "duration_ms": 210566,
-      "name": "Gymnastic",
-      "url": "https://open.spotify.com/track/53ZyjcAefL9uRYtDFes78m"
+      "duration_ms": 162935,
+      "name": "Signature (with Lasmid)",
+      "url": "https://open.spotify.com/track/5lvBgJ7NIq4XTchoRJX4FJ"
     },
     {
-      "added_at": "2026-05-18 14:28:32",
+      "added_at": "2026-05-25 09:25:53",
       "album": {
         "name": "Darkest Style",
         "url": "https://open.spotify.com/album/7GvXEXzV1KzVVicSTLcge3"
@@ -53,7 +49,7 @@
       "url": "https://open.spotify.com/track/1PcHLgffCAgtPcHjFkIM0W"
     },
     {
-      "added_at": "2026-05-18 14:28:32",
+      "added_at": "2026-05-25 09:25:53",
       "album": {
         "name": "PopStar",
         "url": "https://open.spotify.com/album/7KZIeyxwBz47w5bWbAF7XL"
@@ -69,7 +65,7 @@
       "url": "https://open.spotify.com/track/2LO82nA2HMBbwqs0KNUeMx"
     },
     {
-      "added_at": "2026-05-18 14:28:32",
+      "added_at": "2026-05-25 09:25:53",
       "album": {
         "name": "Kakalika",
         "url": "https://open.spotify.com/album/2cb3UP2H7uVkZv1a2sLasK"
@@ -85,7 +81,7 @@
       "url": "https://open.spotify.com/track/1p5F0slR5AF49EDX5o125x"
     },
     {
-      "added_at": "2026-05-18 14:28:32",
+      "added_at": "2026-05-25 09:25:53",
       "album": {
         "name": "Wish I Had a Girlfriend",
         "url": "https://open.spotify.com/album/5JwvAk323bdKjwnSNiAwJw"
@@ -109,7 +105,7 @@
       "url": "https://open.spotify.com/track/7lONsH3aDoLHCBkAB3Pa4L"
     },
     {
-      "added_at": "2026-05-18 14:28:32",
+      "added_at": "2026-05-25 09:25:53",
       "album": {
         "name": "Big Bricks II",
         "url": "https://open.spotify.com/album/0Tn7DNclYEKxEduQipZBsz"
@@ -133,7 +129,7 @@
       "url": "https://open.spotify.com/track/6HFMRiaZhoAnOolrwYp9Yu"
     },
     {
-      "added_at": "2026-05-18 14:28:32",
+      "added_at": "2026-05-25 09:25:53",
       "album": {
         "name": "ODO PA",
         "url": "https://open.spotify.com/album/4B2Bs2cX0e7mhEeHyogBiz"
@@ -153,7 +149,7 @@
       "url": "https://open.spotify.com/track/4XyamF81pJyWkC8Q1ps1Ff"
     },
     {
-      "added_at": "2026-05-18 14:28:32",
+      "added_at": "2026-05-25 09:25:53",
       "album": {
         "name": "Laho II",
         "url": "https://open.spotify.com/album/5lpaf3GuS3ig1yXv56OLRR"
@@ -173,7 +169,27 @@
       "url": "https://open.spotify.com/track/4DREBgUie15tAPq9KQqe2c"
     },
     {
-      "added_at": "2026-05-18 14:28:32",
+      "added_at": "2026-05-25 09:25:53",
+      "album": {
+        "name": "Chanel (feat. Asake)",
+        "url": "https://open.spotify.com/album/3ctssLn3Uq8WPudSkMrzWT"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 150260,
+      "name": "Chanel (feat. Asake)",
+      "url": "https://open.spotify.com/track/6JVQBlA628faJmvQbeyBHT"
+    },
+    {
+      "added_at": "2026-05-25 09:25:53",
       "album": {
         "name": "CAME OF AGE",
         "url": "https://open.spotify.com/album/1WEt6ZRsPzCTQqmRGgaRID"
@@ -189,7 +205,7 @@
       "url": "https://open.spotify.com/track/7Drz9kZcuph4h7CXsBJkQt"
     },
     {
-      "added_at": "2026-05-18 14:28:32",
+      "added_at": "2026-05-25 09:25:53",
       "album": {
         "name": "sankofa",
         "url": "https://open.spotify.com/album/3LWU6KJE2nMfhQNI2pSVCY"
@@ -205,7 +221,7 @@
       "url": "https://open.spotify.com/track/0JwTlwOTMnxar1Sk0tBVaj"
     },
     {
-      "added_at": "2026-05-18 14:28:32",
+      "added_at": "2026-05-25 09:25:53",
       "album": {
         "name": "5ive",
         "url": "https://open.spotify.com/album/4jzhMxpTkAm2pxUuamulT8"
@@ -225,7 +241,7 @@
       "url": "https://open.spotify.com/track/5GyaXqMfcIGHfmTUITFacS"
     },
     {
-      "added_at": "2026-05-18 14:28:32",
+      "added_at": "2026-05-25 09:25:53",
       "album": {
         "name": "Nakupenda",
         "url": "https://open.spotify.com/album/3xbbiXWEHWpCqxDAXKUu5d"
@@ -261,23 +277,7 @@
       "url": "https://open.spotify.com/track/1p0zeYPLjmIGtw1DzmshZO"
     },
     {
-      "added_at": "2026-05-18 14:28:32",
-      "album": {
-        "name": "TORCHER II",
-        "url": "https://open.spotify.com/album/5OKoGIvE7RR2RMVyuYPUhD"
-      },
-      "artists": [
-        {
-          "name": "Stonebwoy",
-          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
-        }
-      ],
-      "duration_ms": 150535,
-      "name": "Yire (Fanfooler)",
-      "url": "https://open.spotify.com/track/1390ovzn0DCki8MOIUJ185"
-    },
-    {
-      "added_at": "2026-05-18 14:28:32",
+      "added_at": "2026-05-25 09:25:53",
       "album": {
         "name": "IRON BOY",
         "url": "https://open.spotify.com/album/3gi5efMf1SiQfnqpy1o0CK"
@@ -293,27 +293,7 @@
       "url": "https://open.spotify.com/track/7C2ld7CGhCilI6w07NG3jZ"
     },
     {
-      "added_at": "2026-05-18 14:28:32",
-      "album": {
-        "name": "Signature (with Lasmid)",
-        "url": "https://open.spotify.com/album/38jBpb68a3lHX3yDkJvKoO"
-      },
-      "artists": [
-        {
-          "name": "KiDi",
-          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
-        },
-        {
-          "name": "Lasmid",
-          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
-        }
-      ],
-      "duration_ms": 162935,
-      "name": "Signature (with Lasmid)",
-      "url": "https://open.spotify.com/track/5lvBgJ7NIq4XTchoRJX4FJ"
-    },
-    {
-      "added_at": "2026-05-18 14:28:32",
+      "added_at": "2026-05-25 09:25:53",
       "album": {
         "name": "IRON BOY",
         "url": "https://open.spotify.com/album/3gi5efMf1SiQfnqpy1o0CK"
@@ -329,7 +309,7 @@
       "url": "https://open.spotify.com/track/6QLkRE9Px8RvInJGvms5X6"
     },
     {
-      "added_at": "2026-05-18 14:28:32",
+      "added_at": "2026-05-25 09:25:53",
       "album": {
         "name": "Olivia",
         "url": "https://open.spotify.com/album/71LNcbKRpuxYZ3rfG8zZhm"
@@ -345,7 +325,7 @@
       "url": "https://open.spotify.com/track/1mUPiWUDXCQvkiNpzNa0yk"
     },
     {
-      "added_at": "2026-05-18 14:28:32",
+      "added_at": "2026-05-25 09:25:53",
       "album": {
         "name": "IRON BOY",
         "url": "https://open.spotify.com/album/3gi5efMf1SiQfnqpy1o0CK"
@@ -361,7 +341,7 @@
       "url": "https://open.spotify.com/track/3bdntVS2dHPTPitwms9gLK"
     },
     {
-      "added_at": "2026-05-18 14:28:32",
+      "added_at": "2026-05-25 09:25:53",
       "album": {
         "name": "Jesus Christ 2",
         "url": "https://open.spotify.com/album/13CeX9JSszCuegkdi883CA"
@@ -381,7 +361,7 @@
       "url": "https://open.spotify.com/track/0YgtgUHRS8vC9bytCETMZB"
     },
     {
-      "added_at": "2026-05-18 14:28:32",
+      "added_at": "2026-05-25 09:25:53",
       "album": {
         "name": "TORCHER II",
         "url": "https://open.spotify.com/album/5OKoGIvE7RR2RMVyuYPUhD"
@@ -397,7 +377,31 @@
       "url": "https://open.spotify.com/track/1Z1qgSImhoKPVPgSDuXlrY"
     },
     {
-      "added_at": "2026-05-18 14:28:32",
+      "added_at": "2026-05-25 09:25:53",
+      "album": {
+        "name": "Gymnastic",
+        "url": "https://open.spotify.com/album/4vIBy4r7qrMAJDCCSLqVkT"
+      },
+      "artists": [
+        {
+          "name": "KiDi",
+          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
+        },
+        {
+          "name": "Olivetheboy",
+          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
+        },
+        {
+          "name": "KOJO BLAK",
+          "url": "https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW"
+        }
+      ],
+      "duration_ms": 210566,
+      "name": "Gymnastic",
+      "url": "https://open.spotify.com/track/53ZyjcAefL9uRYtDFes78m"
+    },
+    {
+      "added_at": "2026-05-25 09:25:53",
       "album": {
         "name": "Out of the Blue",
         "url": "https://open.spotify.com/album/2DuSvcWHqhbLipYUewA9cA"
@@ -417,7 +421,7 @@
       "url": "https://open.spotify.com/track/5QtWGN5XskZE8xWoiVZWaN"
     },
     {
-      "added_at": "2026-05-18 14:28:32",
+      "added_at": "2026-05-25 09:25:53",
       "album": {
         "name": "Excellent",
         "url": "https://open.spotify.com/album/4HPBUH9zzG24I7ggx8f2P4"
@@ -437,7 +441,7 @@
       "url": "https://open.spotify.com/track/3Xa0qIUcRBZgOCs4XBqJdC"
     },
     {
-      "added_at": "2026-05-18 14:28:32",
+      "added_at": "2026-05-25 09:25:53",
       "album": {
         "name": "Habit",
         "url": "https://open.spotify.com/album/6c98Q6htS2zxyjaPT8vrJS"
@@ -457,7 +461,7 @@
       "url": "https://open.spotify.com/track/1NtUT0I0TUPZB6OrN4dbkc"
     },
     {
-      "added_at": "2026-05-18 14:28:32",
+      "added_at": "2026-05-25 09:25:53",
       "album": {
         "name": "Lomo Lomo",
         "url": "https://open.spotify.com/album/4MTFOFZPAkcVKhnk76J6EK"
@@ -477,7 +481,7 @@
       "url": "https://open.spotify.com/track/12jJRu9yInIX7oTxoXtM0S"
     },
     {
-      "added_at": "2026-05-18 14:28:32",
+      "added_at": "2026-05-25 09:25:53",
       "album": {
         "name": "Avana (Deluxe)",
         "url": "https://open.spotify.com/album/0Y6z5zNbCGEiD6dHeEUtgV"
@@ -493,7 +497,7 @@
       "url": "https://open.spotify.com/track/1Cek6PV24GtEk4GDWqFbCk"
     },
     {
-      "added_at": "2026-05-18 14:28:32",
+      "added_at": "2026-05-25 09:25:53",
       "album": {
         "name": "VOICE OF THE CROWN (African Dancehall)",
         "url": "https://open.spotify.com/album/0Aq2tzc8YQrh4WICENVYq5"
@@ -509,7 +513,7 @@
       "url": "https://open.spotify.com/track/0CrxD7ki46tFH3OzEgLJCK"
     },
     {
-      "added_at": "2026-05-18 14:28:32",
+      "added_at": "2026-05-25 09:25:53",
       "album": {
         "name": "This Is Not the Tape III",
         "url": "https://open.spotify.com/album/6LyLd9gp7xoOKaFtPxI7PI"
@@ -525,7 +529,7 @@
       "url": "https://open.spotify.com/track/2NQwFpvbOhJVVxm4Y4grEV"
     },
     {
-      "added_at": "2026-05-18 14:28:32",
+      "added_at": "2026-05-25 09:25:53",
       "album": {
         "name": "Violence (feat. Kweku Smoke)",
         "url": "https://open.spotify.com/album/5osGGqJwqY0RIDmJxOyjfq"
@@ -545,7 +549,7 @@
       "url": "https://open.spotify.com/track/7g7xysGXIN9YwwgpKhfV1Z"
     },
     {
-      "added_at": "2026-05-18 14:28:32",
+      "added_at": "2026-05-25 09:25:53",
       "album": {
         "name": "BALENCIAGA",
         "url": "https://open.spotify.com/album/4xA3y8qPxOG6zRjk1ZE0G9"
@@ -561,7 +565,7 @@
       "url": "https://open.spotify.com/track/1v50F7vK31Czts54YID73W"
     },
     {
-      "added_at": "2026-05-18 14:28:32",
+      "added_at": "2026-05-25 09:25:53",
       "album": {
         "name": "True To Self",
         "url": "https://open.spotify.com/album/3s7ciU4LPvI3mb8yufHJZ5"
@@ -585,7 +589,7 @@
       "url": "https://open.spotify.com/track/3KybqFROlrZOhTwyrByBPV"
     },
     {
-      "added_at": "2026-05-18 14:28:32",
+      "added_at": "2026-05-25 09:25:53",
       "album": {
         "name": "Crazy Love",
         "url": "https://open.spotify.com/album/5bolp7EDlLNan3nQIQwpOD"
@@ -605,7 +609,7 @@
       "url": "https://open.spotify.com/track/4sckyDjgswzH5RBBHTNlax"
     },
     {
-      "added_at": "2026-05-18 14:28:32",
+      "added_at": "2026-05-25 09:25:53",
       "album": {
         "name": "WALK WITH ME",
         "url": "https://open.spotify.com/album/5AMNvhVAyOSfEwTtZ4lXdl"
@@ -621,7 +625,7 @@
       "url": "https://open.spotify.com/track/1USHzKwx6N8MO9ePRnpqfo"
     },
     {
-      "added_at": "2026-05-18 14:28:32",
+      "added_at": "2026-05-25 09:25:53",
       "album": {
         "name": "Grind",
         "url": "https://open.spotify.com/album/2bnb70sPZf0WsxddiBpJDb"
@@ -641,7 +645,7 @@
       "url": "https://open.spotify.com/track/4CAXi46JbXUdtiqItkqUSD"
     },
     {
-      "added_at": "2026-05-18 14:28:32",
+      "added_at": "2026-05-25 09:25:53",
       "album": {
         "name": "EZIOKWU (UNCUT)",
         "url": "https://open.spotify.com/album/59oUX928TvSEtKvCPREKVW"
@@ -661,7 +665,7 @@
       "url": "https://open.spotify.com/track/2LP8KwtvzUx1onvXKQCoKR"
     },
     {
-      "added_at": "2026-05-18 14:28:32",
+      "added_at": "2026-05-25 09:25:53",
       "album": {
         "name": "THE TORCHER",
         "url": "https://open.spotify.com/album/0qkEheVRbwNHB4KIGDOpLT"
@@ -677,7 +681,7 @@
       "url": "https://open.spotify.com/track/6wwazcApg6C49jXx8iDGru"
     },
     {
-      "added_at": "2026-05-18 14:28:32",
+      "added_at": "2026-05-25 09:25:53",
       "album": {
         "name": "SAFA",
         "url": "https://open.spotify.com/album/4hY1NBroE5DijT1XbAX85n"
@@ -693,7 +697,7 @@
       "url": "https://open.spotify.com/track/5OypUWwk0Q0404YXjIeRQf"
     },
     {
-      "added_at": "2026-05-18 14:28:32",
+      "added_at": "2026-05-25 09:25:53",
       "album": {
         "name": "Real Thing",
         "url": "https://open.spotify.com/album/3eBBdUae9jnILYuCweK1yA"
@@ -713,7 +717,7 @@
       "url": "https://open.spotify.com/track/2FkPTIoTRM5oF0IzqdOp9e"
     },
     {
-      "added_at": "2026-05-18 14:28:32",
+      "added_at": "2026-05-25 09:25:53",
       "album": {
         "name": "ON GOD",
         "url": "https://open.spotify.com/album/1K8OZ2fJaZPumbxt9Wekvp"
@@ -729,7 +733,7 @@
       "url": "https://open.spotify.com/track/5kh0looY2WhYNZmmTqtTaP"
     },
     {
-      "added_at": "2026-05-18 14:28:32",
+      "added_at": "2026-05-25 09:25:53",
       "album": {
         "name": "Arike",
         "url": "https://open.spotify.com/album/10oRGnehj5sWYQ89KuLa0n"
@@ -745,7 +749,7 @@
       "url": "https://open.spotify.com/track/4WnlAkJ3S0r6C7ofHy6kNP"
     },
     {
-      "added_at": "2026-05-18 14:28:32",
+      "added_at": "2026-05-25 09:25:53",
       "album": {
         "name": "THE TORCHER",
         "url": "https://open.spotify.com/album/0qkEheVRbwNHB4KIGDOpLT"
@@ -761,7 +765,7 @@
       "url": "https://open.spotify.com/track/7HnodmlRRGTVfbmw6jdUsC"
     },
     {
-      "added_at": "2026-05-18 14:28:32",
+      "added_at": "2026-05-25 09:25:53",
       "album": {
         "name": "The Interface (Shatta Music Genre)",
         "url": "https://open.spotify.com/album/6m4SzULX5PaOIw6zQKmyFl"
@@ -777,7 +781,7 @@
       "url": "https://open.spotify.com/track/7IveKHTxWlPKm3TJOBqo27"
     },
     {
-      "added_at": "2026-05-18 14:28:32",
+      "added_at": "2026-05-25 09:25:53",
       "album": {
         "name": "Redemption Valley",
         "url": "https://open.spotify.com/album/5yrqs9rxblxjsZL7FEniJw"
@@ -793,7 +797,7 @@
       "url": "https://open.spotify.com/track/6z8ar5d1V3YMtpa5KBWIAP"
     },
     {
-      "added_at": "2026-05-18 14:28:32",
+      "added_at": "2026-05-25 09:25:53",
       "album": {
         "name": "The Odyssey",
         "url": "https://open.spotify.com/album/1cMwW3RWNFCLR8A9gUQRVG"
@@ -809,7 +813,7 @@
       "url": "https://open.spotify.com/track/3sQgX4EW0lnLYr0BAbPA9g"
     },
     {
-      "added_at": "2026-05-18 14:28:32",
+      "added_at": "2026-05-25 09:25:53",
       "album": {
         "name": "Sa Me",
         "url": "https://open.spotify.com/album/3oUyfdqXsO6o81sEHeiPtU"
@@ -837,7 +841,7 @@
       "url": "https://open.spotify.com/track/0BJBJ6hwuRhdjLwLPn5Usa"
     },
     {
-      "added_at": "2026-05-18 14:28:32",
+      "added_at": "2026-05-25 09:25:53",
       "album": {
         "name": "Too Late",
         "url": "https://open.spotify.com/album/7mQQiuo6jLbmE3aZeSaXaR"
@@ -853,7 +857,7 @@
       "url": "https://open.spotify.com/track/7krvWOVJSMcj3LHuxygzLh"
     },
     {
-      "added_at": "2026-05-18 14:28:32",
+      "added_at": "2026-05-25 09:25:53",
       "album": {
         "name": "Work Of Art",
         "url": "https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU"
@@ -869,7 +873,7 @@
       "url": "https://open.spotify.com/track/0Q1bMs3xLQiDEeaneehdxv"
     },
     {
-      "added_at": "2026-05-18 14:28:32",
+      "added_at": "2026-05-25 09:25:53",
       "album": {
         "name": "YIMAY\u0190",
         "url": "https://open.spotify.com/album/4dMSrWK0gFXU0T1787xfXl"
@@ -885,7 +889,7 @@
       "url": "https://open.spotify.com/track/03yfaEQV3q5aTgViBWgvy7"
     },
     {
-      "added_at": "2026-05-18 14:28:32",
+      "added_at": "2026-05-25 09:25:53",
       "album": {
         "name": "Babylon",
         "url": "https://open.spotify.com/album/55CLjgXBq4zuAnGYeGM8VB"
@@ -901,7 +905,7 @@
       "url": "https://open.spotify.com/track/4FQD13B32eYtCBH7PDMYZw"
     },
     {
-      "added_at": "2026-05-18 14:28:32",
+      "added_at": "2026-05-25 09:25:53",
       "album": {
         "name": "Hot Body",
         "url": "https://open.spotify.com/album/2SIm2REe2G7YxUuldtO98Z"
@@ -917,7 +921,7 @@
       "url": "https://open.spotify.com/track/04yGQ4xzVt9LVAqop42ja6"
     },
     {
-      "added_at": "2026-05-18 14:28:32",
+      "added_at": "2026-05-25 09:25:53",
       "album": {
         "name": "It Is Finished",
         "url": "https://open.spotify.com/album/1lYbe3Gt2yDLeBgR1rhEls"

@@ -186,7 +186,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 140707,
       "name": "Alive",
       "url": "https://open.spotify.com/track/3MwLu7gPqB81ql2AecxkFn"
@@ -8558,6 +8558,24 @@
       "duration_ms": 296320,
       "name": "Nara",
       "url": "https://open.spotify.com/track/4cOdaT4uVp3xzVqF9l3Xx0"
+    },
+    {
+      "album": {
+        "name": "Nara Ekele (Remix)",
+        "url": "https://open.spotify.com/album/3Y0QLwcmeLDBihKK027qD9"
+      },
+      "artists": [
+        {
+          "name": "Dr Paul Enenche",
+          "url": "https://open.spotify.com/artist/5bbq9LbEHKVq6FEpVLuz7i"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 392462,
+      "name": "Nara Ekele - Remix",
+      "url": "https://open.spotify.com/track/5z53vv2JHLryixAKAkduBN"
     },
     {
       "album": {

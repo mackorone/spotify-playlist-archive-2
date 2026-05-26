@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > Enjoy the freshest K\-Pop new releases \(Cover: TAEYONG\(태용\)\) \(국내 최신곡을 플레이리스트로 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 352,681 likes - 301 songs - 16 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 352,708 likes - 301 songs - 16 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 53 | [Would you?](https://open.spotify.com/track/6jWfqmdlDf0aVIW8vT9E0C) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv), [Jehwwn](https://open.spotify.com/artist/23SggfMMPHFR2lJaPCVIUw) | [Would you?](https://open.spotify.com/album/5cRbXO3l10xT8eiiSmrWgL) | 2:46 |
 | 54 | [Shooting Star](https://open.spotify.com/track/2zMkgJKT8Hrd42yfMNSvrp) | [스텔라이브](https://open.spotify.com/artist/4epcW7GdBzjUkKmU1hIcMP) | [Shooting Star](https://open.spotify.com/album/6gKG08rLPHtmZs2fHdrj0X) | 3:24 |
 | 55 | [Still here](https://open.spotify.com/track/7lDuoiFv1MzDDiYbzcvFe9) | [Minjeong](https://open.spotify.com/artist/0WAJv6luRzoOrN9DUEL8Ru) | [Still here](https://open.spotify.com/album/3wXPIqtWnG3gQKlqC1IqHx) | 3:02 |
-| 56 | [We Don’t Stop \(Lights Go On\)](https://open.spotify.com/track/4HN8wT80XPoaUB1QY79q1Z) | [Breeze](https://open.spotify.com/artist/7DChYA1xm1pcdZgpIp9Ktf), [XTC PROJECT](https://open.spotify.com/artist/76p3WwQdNzPkHtm4jphxGl) | [We Don’t Stop \(Lights Go On\)](https://open.spotify.com/album/6IzXJGQ6uj9QZIMQSMjrQV) | 2:48 |
+| 56 | [We Don’t Stop \(Lights Go On\)](https://open.spotify.com/track/4HN8wT80XPoaUB1QY79q1Z) | [BREEZE](https://open.spotify.com/artist/0n0jgfh1mfOrSVMBN7Bgp9), [XTC PROJECT](https://open.spotify.com/artist/76p3WwQdNzPkHtm4jphxGl) | [We Don’t Stop \(Lights Go On\)](https://open.spotify.com/album/6IzXJGQ6uj9QZIMQSMjrQV) | 2:48 |
 | 57 | [WYLD](https://open.spotify.com/track/1VkT7cfI4GQPj5aBVWj7vU) | [TAEYONG](https://open.spotify.com/artist/6SKusTjOAPsTZ6kareKQdm) | [WYLD \- The 1st Album](https://open.spotify.com/album/3MStQNoB6697D7M11xCqOl) | 2:41 |
 | 58 | [Motto](https://open.spotify.com/track/3jVTmARXF5p21gaP9CqITM) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Motto](https://open.spotify.com/album/2I5aOoyW9gzkOrWOuElNdj) | 3:13 |
 | 59 | [Motto](https://open.spotify.com/track/3H82Jpo0SI3UvWP6Ol8mWn) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Motto](https://open.spotify.com/album/4wDsCQv9qslV6MmlcWuCe9) | 3:13 |

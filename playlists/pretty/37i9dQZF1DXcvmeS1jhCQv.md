@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvmeS1jhCQv.md) - [plain]
 
 > New tunes from Ireland for your discovery\. Cover: Aby Coulibaly
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,829 likes - 78 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,821 likes - 78 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

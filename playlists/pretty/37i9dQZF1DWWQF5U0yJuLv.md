@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQF5U0yJuLv.md) - [plain]
 
 > Glitch and giggle with these whimsically warped bouncy bops 🤖
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,044 likes - 150 songs - 11 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,097 likes - 150 songs - 11 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,15 +25,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQF5U0yJuLv.md) - [plain]
 | 15 | [Age of Phase](https://open.spotify.com/track/0xIo8d1CLxARzQhaZwJ1RM) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Fragments](https://open.spotify.com/album/4KjbNbnTnJ97kZgQkOHr6v) | 5:42 |
 | 16 | [Fingerbib](https://open.spotify.com/track/2hcywxHZcxmX27lX5qm8MT) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Richard D\. James Album](https://open.spotify.com/album/77Lae5VorRCNpgZFMW8yRO) | 3:48 |
 | 17 | [Impressions](https://open.spotify.com/track/4l6gl1xs2TQx5SwBNdWEsv) | [Portico Quartet](https://open.spotify.com/artist/7sYipTRgDXS2JVOPEhRutx) | [Monument](https://open.spotify.com/album/5Q45lNUhaH40wPqhUgjJNC) | 3:44 |
-| 18 | [Hasty Boom Alert](https://open.spotify.com/track/4miEA9U9PZKBYryATLzCKC) | [µ\-Ziq](https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X) | [Lunatic Harness](https://open.spotify.com/album/5Rc5G86a4zX96HlyHYeGsX) | 5:15 |
-| 19 | [Aminals](https://open.spotify.com/track/2sNkvl4WwkVeJGyg4maxEp) | [Baths](https://open.spotify.com/artist/5zS8r5hRRk1jzD41yYS1NO) | [Cerulean](https://open.spotify.com/album/1jjUFDODxguSdb2hZLF2au) | 3:18 |
+| 18 | [Aminals](https://open.spotify.com/track/2sNkvl4WwkVeJGyg4maxEp) | [Baths](https://open.spotify.com/artist/5zS8r5hRRk1jzD41yYS1NO) | [Cerulean](https://open.spotify.com/album/1jjUFDODxguSdb2hZLF2au) | 3:18 |
+| 19 | [Theory of Colours](https://open.spotify.com/track/7nT24kprAb4l7tI5FSd9zU) | [Dauwd](https://open.spotify.com/artist/25TUFIkK2VpEjl6GnzrcEp) | [Theory of Colours](https://open.spotify.com/album/6oIrL0YBYT6T6tXVF3LBVY) | 5:27 |
 | 20 | [Volver \- Oboe Remix](https://open.spotify.com/track/0LB9eAqowGmeZlML4nbzuh) | [Hidrogenesse](https://open.spotify.com/artist/2vJ1aFdCPa1wYLqrlTvKuY) | [Volver](https://open.spotify.com/album/0fkdChNifpc3QI6UyXCDpo) | 3:41 |
-| 21 | [Theory of Colours](https://open.spotify.com/track/7nT24kprAb4l7tI5FSd9zU) | [Dauwd](https://open.spotify.com/artist/25TUFIkK2VpEjl6GnzrcEp) | [Theory of Colours](https://open.spotify.com/album/6oIrL0YBYT6T6tXVF3LBVY) | 5:27 |
+| 21 | [Hasty Boom Alert](https://open.spotify.com/track/4miEA9U9PZKBYryATLzCKC) | [µ\-Ziq](https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X) | [Lunatic Harness](https://open.spotify.com/album/5Rc5G86a4zX96HlyHYeGsX) | 5:15 |
 | 22 | [At Height](https://open.spotify.com/track/4n7Cl2IPm0wQpJq63moUKc) | [Inwards](https://open.spotify.com/artist/542nHHjo4wRmP3AbeJWkse) | [Bright Serpent](https://open.spotify.com/album/1VukT3w77oaLOgkQWkznwu) | 3:52 |
 | 23 | [The Elephant Never Forgets](https://open.spotify.com/track/5jEUZSxLX8EbuhcXncEnDE) | [Jean\-Jacques Perrey](https://open.spotify.com/artist/09x9KmiHgFJgWySzkMRNGx) | [Moog Indigo](https://open.spotify.com/album/6ByFx8BCQBpLVk3GiMkPx9) | 2:29 |
-| 24 | [Brace Yourself Jason](https://open.spotify.com/track/4Z8jptUDjJDuxBf0pSOvSi) | [µ\-Ziq](https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X) | [Lunatic Harness](https://open.spotify.com/album/5Rc5G86a4zX96HlyHYeGsX) | 6:22 |
+| 24 | [Faux savage](https://open.spotify.com/track/7KvVIORJJStrkmynVw2Y8r) | [Domenique Dumont](https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf) | [Miniatures de auto rhythm](https://open.spotify.com/album/4FzlCyvEDrvU8pHmgCUKkn) | 2:23 |
 | 25 | [Flatworm Meets Sea Slug](https://open.spotify.com/track/2SVKNL8UJ0s5r2VwTc81E2) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Worm](https://open.spotify.com/album/25tTdt9H8aE6B3xw9tKkr0) | 3:18 |
-| 26 | [Faux savage](https://open.spotify.com/track/7KvVIORJJStrkmynVw2Y8r) | [Domenique Dumont](https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf) | [Miniatures de auto rhythm](https://open.spotify.com/album/4FzlCyvEDrvU8pHmgCUKkn) | 2:23 |
+| 26 | [Brace Yourself Jason](https://open.spotify.com/track/4Z8jptUDjJDuxBf0pSOvSi) | [µ\-Ziq](https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X) | [Lunatic Harness](https://open.spotify.com/album/5Rc5G86a4zX96HlyHYeGsX) | 6:22 |
 | 27 | [Fahrenheit Fair Enough](https://open.spotify.com/track/43eLl2gwEr0fgbFgS11uOh) | [Telefon Tel Aviv](https://open.spotify.com/artist/53N4oJpWtmnB0KGLLserGC) | [Fahrenheit Fair Enough](https://open.spotify.com/album/27teXombBxDGNa9f5jtOr2) | 6:40 |
 | 28 | [Sister](https://open.spotify.com/track/2StEq5J2bCq5JiwCKbansz) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [Sister](https://open.spotify.com/album/4INuwtV1B2dNCUbFkUXtFL) | 4:28 |
 | 29 | [Lomas de Sotelo](https://open.spotify.com/track/0fLNVqhb5plIW4iSVfxAOP) | [AAAA](https://open.spotify.com/artist/3J5tbnuwDEYK5Mjl60hPYz) | [X Scroll Era](https://open.spotify.com/album/2mldw4RM7l1tr6762njYDo) | 3:47 |
@@ -106,8 +106,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQF5U0yJuLv.md) - [plain]
 | 96 | [Jump & Shuffle \- Live at the Hardware Store](https://open.spotify.com/track/2rL3vSTQbqpHnC5poWweIL) | [Kid Koala](https://open.spotify.com/artist/2s0438sn0pYL2OuukcFqPN) | [Jump & Shuffle \(Live at the Hardware Store\)](https://open.spotify.com/album/1uqxjNEEo4BqGcohTJ1uKb) | 3:22 |
 | 97 | [Together](https://open.spotify.com/track/5sw0c6FmdTgXlUyfy7YSc4) | [William Shatner](https://open.spotify.com/artist/2dPqql8xbby3nWuf98mAza) | [William Shatner Has Been](https://open.spotify.com/album/5K6Yuzk8t9t0B9WxI7WtpT) | 5:39 |
 | 98 | [Summer Places](https://open.spotify.com/track/5soyEYI9op1hiyqEhHbtOQ) | [Sam Prekop](https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk) | [Comma](https://open.spotify.com/album/48WQXkdyIVTEek2TTwXVkt) | 3:43 |
-| 99 | [Chirp](https://open.spotify.com/track/1cjYtL6yMFDLyZYn9bDkGo) | [C418](https://open.spotify.com/artist/4uFZsG1vXrPcvnZ4iSQyrx) | [Minecraft \- Volume Beta](https://open.spotify.com/album/7CYDRyFCKtAYJBSpfovLyX) | 3:06 |
-| 100 | [Tamagnocchi](https://open.spotify.com/track/01QJM4L9ysDoikSBKkDLvw) | [Mouse On Mars](https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f) | [Autoditacker](https://open.spotify.com/album/5P9DDpnB41FCcYQG3YkqQl) | 5:33 |
+| 99 | [Tamagnocchi](https://open.spotify.com/track/01QJM4L9ysDoikSBKkDLvw) | [Mouse On Mars](https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f) | [Autoditacker](https://open.spotify.com/album/5P9DDpnB41FCcYQG3YkqQl) | 5:33 |
+| 100 | [Chirp](https://open.spotify.com/track/1cjYtL6yMFDLyZYn9bDkGo) | [C418](https://open.spotify.com/artist/4uFZsG1vXrPcvnZ4iSQyrx) | [Minecraft \- Volume Beta](https://open.spotify.com/album/7CYDRyFCKtAYJBSpfovLyX) | 3:06 |
 | 101 | [Haynes Manor](https://open.spotify.com/track/1kcv0g6lPgGBGOPUSofwxq) | [Rich Ruth](https://open.spotify.com/artist/3fzSa1ee522CjcS8Fdo7dl) | [Calming Signals](https://open.spotify.com/album/3N2laGpXXnE29bfqpERjsR) | 5:06 |
 | 102 | [Red Kite](https://open.spotify.com/track/3I7n1t3f3mSJWeHAxILqSP) | [Plone](https://open.spotify.com/artist/28HqZ2RaUbI3uewbxWDW41) | [Puzzlewood](https://open.spotify.com/album/7kJ4lcPkAOebXxBxvOmaeq) | 3:28 |
 | 103 | [Journey to the Lemon Moon](https://open.spotify.com/track/0fwylEIJLVpQH4WwI0E3Oy) | [Misha Panfilov](https://open.spotify.com/artist/2mLgv6MF6Te16Qv6VOqx5p) | [Frutaria Electr​ó​nica](https://open.spotify.com/album/0OjFgKTNB0Ip1P5EdJnY23) | 3:30 |
@@ -122,9 +122,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQF5U0yJuLv.md) - [plain]
 | 112 | [Jolly Pranks](https://open.spotify.com/track/4QeUbmB2aKz1KOatrjLW1K) | [Ron Geesin](https://open.spotify.com/artist/4daGH8VML8ZuDWhWytZdGa) | [Kpm 1000 Series: Atmospheres](https://open.spotify.com/album/1WQBoxhs1nkpZLdSQrZo5u) | 2:09 |
 | 113 | [Z](https://open.spotify.com/track/19G1b84wBvs8AB4mpkaLQb) | [Entele](https://open.spotify.com/artist/5S4KGrV1TY9Dqi8dS5LbPo) | [Z](https://open.spotify.com/album/1V3eYXwUbFiGsdLrFp8efN) | 3:55 |
 | 114 | [St\. Tropez \- Instrumental](https://open.spotify.com/track/2gvfkfi3BvbFcDiW6c4Wos) | [Pink Skies](https://open.spotify.com/artist/52hSI2C4N5tiTqSRIvWfyV) | [SPECTRA x Instrumentals](https://open.spotify.com/album/3mwWHFJN7BT5lYioD42Mi9) | 4:16 |
-| 115 | [Bubbles](https://open.spotify.com/track/7s7vBGH4EDmq2WUAQPOOM8) | [Szymon Burnos](https://open.spotify.com/artist/0Bgh2Zr1hP7POdosvZmcJu) | [Bubbles](https://open.spotify.com/album/1lmV7sSifPK2VXyumvrNEb) | 4:26 |
+| 115 | [Fol\-de\-rol](https://open.spotify.com/track/4RZqAPcXS3eTasFttfgi1J) | [Belbury Poly](https://open.spotify.com/artist/0CiNWo5EYXqsHrRkmEBgSB) | [The Gone Away](https://open.spotify.com/album/0xd7v6oCe19dDOKz7Po6lv) | 3:48 |
 | 116 | [Meridians](https://open.spotify.com/track/0iJDit15B3kgxEvuSEzqK5) | [Holly Waxwing](https://open.spotify.com/artist/65vLeQ3wfcwF6NJobtlpBv) | [Meridians](https://open.spotify.com/album/0F5Aw2ovWdzcW7by2vEToC) | 4:43 |
-| 117 | [Fol\-de\-rol](https://open.spotify.com/track/4RZqAPcXS3eTasFttfgi1J) | [Belbury Poly](https://open.spotify.com/artist/0CiNWo5EYXqsHrRkmEBgSB) | [The Gone Away](https://open.spotify.com/album/0xd7v6oCe19dDOKz7Po6lv) | 3:48 |
+| 117 | [Bubbles](https://open.spotify.com/track/7s7vBGH4EDmq2WUAQPOOM8) | [Szymon Burnos](https://open.spotify.com/artist/0Bgh2Zr1hP7POdosvZmcJu) | [Bubbles](https://open.spotify.com/album/1lmV7sSifPK2VXyumvrNEb) | 4:26 |
 | 118 | [Krautzig](https://open.spotify.com/track/1ihvgQmJUbKpDpebjGVS9E) | [Mouse On Mars](https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f), [Drumno](https://open.spotify.com/artist/7FRYe3XueljQJFNtEWcOqC) | [Krautzig](https://open.spotify.com/album/5RQWpx0iEPdXkvInyzBkW0) | 4:07 |
 | 119 | [Morning Tremor](https://open.spotify.com/track/41rdl3Oiyz5o5todvKyOWA) | [Affelaye](https://open.spotify.com/artist/08Xoy5Glpl7MyzzZsRfRPJ) | [Thirsts](https://open.spotify.com/album/1Ju3IMjyQFXsrStPmrZX7j) | 6:15 |
 | 120 | [Ciutat de sorra \- Instrumental](https://open.spotify.com/track/43mIM61mitnuRzxRgttpek) | [Hidrogenesse](https://open.spotify.com/artist/2vJ1aFdCPa1wYLqrlTvKuY) | [Ciutat de sorra](https://open.spotify.com/album/13kC4ZFHI7cl31iBomSpEA) | 11:44 |

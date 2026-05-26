@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 242,297 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 242,348 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 13 | [Cheiro De Culpado \- Ao Vivo](https://open.spotify.com/track/6bor3RIvmpmz5c435liCs9) | [Júnior e Cézar](https://open.spotify.com/artist/5fWvTvWy2NCaVy8pFmWIvk) | [Cheiro De Culpado \(Ao Vivo\)](https://open.spotify.com/album/3hYI6LURMi5rdYRn9slfn6) | 2:41 |
 | 14 | [Deixa Eu \- Ao Vivo](https://open.spotify.com/track/2Hw0LzrD6ic8AckKBxJhiO) | [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz) | [Acústico \(Ao Vivo\)](https://open.spotify.com/album/2lmUmRXPsds8n2YU68dalX) | 2:38 |
 | 15 | [Não Mexe nas Minhas Gavetas \- Ao Vivo](https://open.spotify.com/track/1CqUGmt2Cyn2vvvAyQKJZQ) | [Danilo e Davi](https://open.spotify.com/artist/5DaqVKaxeqDbJuxaIP9m4u) | [Aliança \- Vol.1 \(Ao Vivo\)](https://open.spotify.com/album/5GAdbWrj64YwrmUh1HJtfE) | 2:06 |
-| 16 | [Ama Um Maloqueiro](https://open.spotify.com/track/2ejSYn4SfoE07mXPlnYVED) | [Rafa e Junior](https://open.spotify.com/artist/583d9476xT4d6A0pADiRJg), [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl), [DJ Ari SL](https://open.spotify.com/artist/3la3vRfIuDMsydpPfUBryR) | [Ama Um Maloqueiro](https://open.spotify.com/album/2Gt4u2BoqtJMNQ63pKyh5S) | 2:42 |
+| 16 | [Ama Um Maloqueiro](https://open.spotify.com/track/48xNHMVSLiBI77VTH0Kfoc) | [Rafa e Junior](https://open.spotify.com/artist/583d9476xT4d6A0pADiRJg), [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl), [DJ Ari SL](https://open.spotify.com/artist/3la3vRfIuDMsydpPfUBryR) | [Ama Um Maloqueiro](https://open.spotify.com/album/38ye4dhsMJ6Wfl4IBZpUPt) | 2:42 |
 | 17 | [Amo Minha Favela](https://open.spotify.com/track/2FBgVaH95hUfKBK8GUbvju) | [DJ Japa NK](https://open.spotify.com/artist/1bpnl8qbR9GxmiNlkEufW6), [MC Meno K](https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK) | [Amo Minha Favela](https://open.spotify.com/album/0gQOFivOUvP08YHVZqX4mi) | 1:59 |
 | 18 | [Posso Até Não Te Dar Flores](https://open.spotify.com/track/4tYCyoSpv0Ujpfwcneb02l) | [DJ Japa NK](https://open.spotify.com/artist/1bpnl8qbR9GxmiNlkEufW6), [MC Meno K](https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Mc Jacaré](https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW), [DJ DAVI DOGDOG](https://open.spotify.com/artist/5ffbqOCrcxCejQ7oqfWXm9) | [Posso Até Não Te Dar Flores](https://open.spotify.com/album/33n7tqtuoOf2t3ENdixO7B) | 2:42 |
 | 19 | [90/10 \- Ao Vivo em São Paulo](https://open.spotify.com/track/0OoK8jd334ch4BSuZxp1B0) | [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Melhor Que Imaginei \(Ao Vivo em São Paulo\)](https://open.spotify.com/album/665wxUWY7WxZmywBWF9VpO) | 3:06 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 49 | [Pela Última Vez \- Ao Vivo](https://open.spotify.com/track/6B7ot6Wlqf7zt3FCkYl2FJ) | [Grupo Menos É Mais](https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi), [NATTAN](https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT) | [MOLHO \(Ao Vivo\)](https://open.spotify.com/album/530bw7EzQLkhNq2zzD4ppi) | 2:42 |
 | 50 | [Beatriz](https://open.spotify.com/track/3RDv5uDgHJS8wBdPkoCXUF) | [2ZDinizz](https://open.spotify.com/artist/13zmjclMwzz8kIxRrN7JOV), [Leborato](https://open.spotify.com/artist/22YKiuRdkpMJ0yKO550zIq), [HHR](https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu) | [Beatriz](https://open.spotify.com/album/4ShDsc9HALU5W3i0l8rLup) | 4:07 |
 
-Snapshot ID: `MaZzAAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `Mae/0AAAAAAAAAAAAAAAAAAAAAAAAGVu`

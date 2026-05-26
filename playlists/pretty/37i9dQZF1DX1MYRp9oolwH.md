@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MYRp9oolwH.md) - [plain]
 
 > Bringing out the best of latest love tracks<br/>Cover : Ramani Kalyanam
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,527 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,536 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Kallolam \(From "Ramani Kalyanam"\)](https://open.spotify.com/track/0AX9anrs3Jh16pJcpYICBE) | [Sooraj S\. Kurup](https://open.spotify.com/artist/0wvji3X9BFRc6KORiVgN8p), [Kapil Kapilan](https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2), [Aavani Malhar](https://open.spotify.com/artist/2UhFPsbFyTC38N0EAv7cRG) | [Kallolam \(From "Ramani Kalyanam"\)](https://open.spotify.com/album/133vtLlwBqEMxjId30iayl) | 3:40 |
-| 2 | [Mondi Dhanive](https://open.spotify.com/track/0AYZrzMaJfOAvR5cMAIYsF) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om) | [Amaram](https://open.spotify.com/album/2H5R0QcLV0XeOEGIiupUuS) | 3:48 |
+| 2 | [Mondi Dhanive](https://open.spotify.com/track/0AYZrzMaJfOAvR5cMAIYsF) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om), [Mickey J\. Meyer](https://open.spotify.com/artist/0WiZi3Q419nMpAQEqfBCbk) | [Amaram](https://open.spotify.com/album/2H5R0QcLV0XeOEGIiupUuS) | 3:48 |
 | 3 | [Manga Manga \(From "Srinivasa Mangapuram"\)](https://open.spotify.com/track/32igh3Hc2LXrFU2BxOTRuC) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [L\. V\. Revanth](https://open.spotify.com/artist/2OrTfOi3k8VMFLuvC527bB), [Kasarla Shyam](https://open.spotify.com/artist/4wxBWsFkyA2K1BMBFj91qt) | [Manga Manga \(From "Srinivasa Mangapuram"\)](https://open.spotify.com/album/6qlNqqctixLvmk07Rnr3qU) | 3:05 |
 | 4 | [Andhee Andhani Andham \(From "Mareechika"\)](https://open.spotify.com/track/15j514qd14U4sC061jg0ds) | [Ilaiyaraaja](https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7), [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD), [Shweta Mohan](https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9), [Lakshmi Bhupala](https://open.spotify.com/artist/1pequ01qZIaAKj9XA4RxOX) | [Andhee Andhani Andham \(From "Mareechika"\)](https://open.spotify.com/album/7rWaCodWrVoYPi8U4iiPGD) | 4:27 |
 | 5 | [Rubaroo \(From "Dacoit \(Telugu\)"\)](https://open.spotify.com/track/3M3bCnAOydcZJ0pCUi04Qc) | [Bheems Ceciroleo](https://open.spotify.com/artist/0L5f9aJIaxQXTipZ7uQYiC), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ), [Bhaskarabhatla](https://open.spotify.com/artist/1BuW9BEbBIhDu6F13TVxpu) | [Rubaroo \[From "Dacoit \(Telugu\)"\]](https://open.spotify.com/album/6TTQVaiOWeUZIdnF1voJRJ) | 3:15 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7kiwPSdr2Bd.md) - [plain]
 
 > Ouça as principais vozes de adoradoras do gospel brasileiro\. Foto: Valesca Mayssa
 
-[Spotify](https://open.spotify.com/user/spotify) - 370,089 likes - 80 songs - 7 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 370,153 likes - 80 songs - 7 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7kiwPSdr2Bd.md) - [plain]
 | 71 | [Deus Está Fazendo \- Louvorzão 2023 \(Ao Vivo\)](https://open.spotify.com/track/1J0Gwf6r112PNnTz4E8BOx) | [Fabiana Sinfrônio](https://open.spotify.com/artist/1VS1qGtdEZNgEfyVhTVYBy) | [Deus Está Fazendo \- Louvorzão 2023 \(Ao Vivo\)](https://open.spotify.com/album/2zKXw5zKtzd4eblciO5qEg) | 4:24 |
 | 72 | [Coração que Sangra \- Ao Vivo](https://open.spotify.com/track/0MoEjiOO8k4u8OdcJfB3vh) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Coração que Sangra / Vem Me Consolar \(Ao Vivo\)](https://open.spotify.com/album/5Ui5tEKDYJXEz7BeSdgOv2) | 4:18 |
 | 73 | [Cadeias Quebrar \(Break Every Chain\) \- Ao Vivo](https://open.spotify.com/track/3AOZNOrvcNF5GivjNVhIQz) | [Carol Oliveira](https://open.spotify.com/artist/5e4zMhIzmAQBMv6nCzMNIe) | [Cadeias Quebrar \(Break Every Chain\) \[Ao Vivo\]](https://open.spotify.com/album/3SCcelwKxSgYhukS77lTWz) | 7:10 |
-| 74 | [Fonte](https://open.spotify.com/track/6eBkjWvTO2zMXMSyQfY5Vi) | [Gabriela Gomes](https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE) | [Manso E Humilde](https://open.spotify.com/album/6mQAsRSwFHCe48QvStlUDw) | 6:08 |
-| 75 | [Tão Bom Pra Mim \- Ao Vivo](https://open.spotify.com/track/2hleq4c5eQhYAZVicg6NT8) | [Nathalia Valencia](https://open.spotify.com/artist/09joQAVJ6oGbQdpTVjM2DK) | [Tão Bom Pra Mim \(Ao Vivo\)](https://open.spotify.com/album/4XbTXkGhSs2ojN7exXEAtV) | 8:16 |
+| 74 | [Tão Bom Pra Mim \- Ao Vivo](https://open.spotify.com/track/2hleq4c5eQhYAZVicg6NT8) | [Nathalia Valencia](https://open.spotify.com/artist/09joQAVJ6oGbQdpTVjM2DK) | [Tão Bom Pra Mim \(Ao Vivo\)](https://open.spotify.com/album/4XbTXkGhSs2ojN7exXEAtV) | 8:16 |
+| 75 | [Fonte](https://open.spotify.com/track/6eBkjWvTO2zMXMSyQfY5Vi) | [Gabriela Gomes](https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE) | [Manso E Humilde](https://open.spotify.com/album/6mQAsRSwFHCe48QvStlUDw) | 6:08 |
 | 76 | [Faz Chover de Novo \(Ao Vivo\)](https://open.spotify.com/track/4Nky8gQp0YnoakdjVlkVQL) | [Marine Friesen](https://open.spotify.com/artist/6RFrCjwbhgeUHmrD0KCKZz) | [Faz Chover de Novo \(Ao Vivo\)](https://open.spotify.com/album/2yOsWfVwLaGeiqpSqUWSak) | 6:25 |
 | 77 | [Não Paraliso](https://open.spotify.com/track/1hYfvLp7R7kiNWxkvpHMVb) | [Fernanda Reis](https://open.spotify.com/artist/3pvntESKhMEdfQcC3wj88N) | [Não Paraliso](https://open.spotify.com/album/48nUvEJhwxiy2tX52svFVk) | 3:16 |
 | 78 | [Levarei a Minha Cruz \- Ao Vivo](https://open.spotify.com/track/30TlkbKuy9weD2wqss6owW) | [Mayara Karolaine](https://open.spotify.com/artist/2CQGSc7wDD1TMHJvRO5P75), [Vivace Music](https://open.spotify.com/artist/2MTfVdhunAi8kbjOVZrmQs) | [Levarei a Minha Cruz \(Ao Vivo\)](https://open.spotify.com/album/5PFQ5bt8Gd5nuFnaW9NQRk) | 3:35 |

@@ -439,6 +439,22 @@
     {
       "added_at": "2026-04-09 22:12:46",
       "album": {
+        "name": "BIERZ TO NA WOLNO",
+        "url": "https://open.spotify.com/album/5brKAfr2gB7n3NHEmjLHvK"
+      },
+      "artists": [
+        {
+          "name": "vkie",
+          "url": "https://open.spotify.com/artist/3DPog7Ux8hRgsTWdlFDl7v"
+        }
+      ],
+      "duration_ms": 213272,
+      "name": "BIERZ TO NA WOLNO",
+      "url": "https://open.spotify.com/track/36WITNXdHFk6LaSeS4fJJp"
+    },
+    {
+      "added_at": "2026-04-09 22:12:46",
+      "album": {
         "name": "POKOLOROWANA",
         "url": "https://open.spotify.com/album/4jt1eGcqa1i36BAlXN8Dm1"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 191600,
       "name": "POKOLOROWANA",
       "url": "https://open.spotify.com/track/6mPLPjlONvnJTPtQo6ia8u"
-    },
-    {
-      "added_at": "2026-04-09 22:12:46",
-      "album": {
-        "name": "BIERZ TO NA WOLNO",
-        "url": "https://open.spotify.com/album/5brKAfr2gB7n3NHEmjLHvK"
-      },
-      "artists": [
-        {
-          "name": "vkie",
-          "url": "https://open.spotify.com/artist/3DPog7Ux8hRgsTWdlFDl7v"
-        }
-      ],
-      "duration_ms": 213272,
-      "name": "BIERZ TO NA WOLNO",
-      "url": "https://open.spotify.com/track/36WITNXdHFk6LaSeS4fJJp"
     },
     {
       "added_at": "2026-04-09 22:12:46",
@@ -595,22 +595,6 @@
     {
       "added_at": "2026-04-09 22:12:46",
       "album": {
-        "name": "NEXT",
-        "url": "https://open.spotify.com/album/2WO3Kt3oLo4ApWcy6nFkQo"
-      },
-      "artists": [
-        {
-          "name": "javier",
-          "url": "https://open.spotify.com/artist/7cLA1cTY8dCn9Kb8r8JdKY"
-        }
-      ],
-      "duration_ms": 113089,
-      "name": "SIE KLEI",
-      "url": "https://open.spotify.com/track/6hTcG0znsgf33wBAnf8P8y"
-    },
-    {
-      "added_at": "2026-04-09 22:12:46",
-      "album": {
         "name": "R\u00f3\u017cowe Diamenty",
         "url": "https://open.spotify.com/album/5FRwgkqHl0NWdawXB8m6q4"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 153402,
       "name": "R\u00f3\u017cowe Diamenty",
       "url": "https://open.spotify.com/track/3IXuxsI9ltJw3WpRzVtSPL"
+    },
+    {
+      "added_at": "2026-04-09 22:12:46",
+      "album": {
+        "name": "NEXT",
+        "url": "https://open.spotify.com/album/2WO3Kt3oLo4ApWcy6nFkQo"
+      },
+      "artists": [
+        {
+          "name": "javier",
+          "url": "https://open.spotify.com/artist/7cLA1cTY8dCn9Kb8r8JdKY"
+        }
+      ],
+      "duration_ms": 113089,
+      "name": "SIE KLEI",
+      "url": "https://open.spotify.com/track/6hTcG0znsgf33wBAnf8P8y"
     },
     {
       "added_at": "2026-04-09 22:12:46",

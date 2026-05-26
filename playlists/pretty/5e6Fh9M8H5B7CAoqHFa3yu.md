@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 322 likes - 2,331 songs - 5 day 17 hr 44 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 322 likes - 2,332 songs - 5 day 17 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2339,5 +2339,6 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2329 | [Kids On Fast\-Forward](https://open.spotify.com/track/0NGK0ahfImvD9RSoQtKIg9) | [Potao](https://open.spotify.com/artist/5GD2Wl5un0dmmR10arYp5P) | [Kids On Fast\-Forward](https://open.spotify.com/album/30w4d4Gv93dtP53186lz9A) | 2:41 |
 | 2330 | [Loop Me In Your Memory](https://open.spotify.com/track/51cjzKZtZrHNn2oSfcLbPf) | [Potao](https://open.spotify.com/artist/5GD2Wl5un0dmmR10arYp5P) | [Loop Me In Your Memory](https://open.spotify.com/album/7LsfTcQDIRNIBEAsDhFzVn) | 2:46 |
 | 2331 | [Le Parapluie](https://open.spotify.com/track/1og48AOvKt4JGcarqnem76) | [Chach'](https://open.spotify.com/artist/5zoGbldAsgbeYrOW4Zt0c2) | [Le Parapluie](https://open.spotify.com/album/5fwY9R5pySznHMN2SYq56x) | 3:26 |
+| 2332 | [ليل و سهر](https://open.spotify.com/track/1LpYFfXPmghqqxrSd8EoQz) | [Ahmed M Farid](https://open.spotify.com/artist/7I6twl0w4JIsFe7howLGLk), [AFROTO Beats](https://open.spotify.com/artist/3nCLSI5jV4qNit9F2hgrq0), [Super Mono](https://open.spotify.com/artist/76VzYrqb4WDRVNBimbYsWt) | [ليل و سهر](https://open.spotify.com/album/6f9FczaUDIwBd54D3k8RiG) | 2:59 |
 
-Snapshot ID: `AAAJw4Yb3rsNJFdl9PkRPtTWoiRhgIev`
+Snapshot ID: `AAAJxGunSz0+73kPKY8MgZoNix0CUn23`

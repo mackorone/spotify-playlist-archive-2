@@ -117,6 +117,24 @@
     },
     {
       "album": {
+        "name": "6ft Under",
+        "url": "https://open.spotify.com/album/5LaPPtttpfc4UHqKWQUJkX"
+      },
+      "artists": [
+        {
+          "name": "KELS",
+          "url": "https://open.spotify.com/artist/0JzgaVLxpCeDg5WIm06DsU"
+        }
+      ],
+      "date_added": "2026-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210040,
+      "name": "6ft Under",
+      "url": "https://open.spotify.com/track/23u8tBDy1IBq0VajnoDQzx"
+    },
+    {
+      "album": {
         "name": "Laid Black",
         "url": "https://open.spotify.com/album/3REq2IkHZ1fo8BNWnfGGNc"
       },
@@ -2551,6 +2569,24 @@
     },
     {
       "album": {
+        "name": "YIAN",
+        "url": "https://open.spotify.com/album/2ZEqm7UAvrdy4MQHITOiA6"
+      },
+      "artists": [
+        {
+          "name": "Lucinda Chua",
+          "url": "https://open.spotify.com/artist/3PaJIkKZtfopcZxWluQhzJ"
+        }
+      ],
+      "date_added": "2026-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245086,
+      "name": "Echo",
+      "url": "https://open.spotify.com/track/4rvjoSE0Vap2TkV5KqbiwK"
+    },
+    {
+      "album": {
         "name": "Parallel Universe",
         "url": "https://open.spotify.com/album/4ZEbUlAx8WKxp7pDlKQLeL"
       },
@@ -2570,6 +2606,24 @@
       "duration_ms": 264509,
       "name": "Eggun",
       "url": "https://open.spotify.com/track/3dCxmgKE8P86Eo4pW1PMij"
+    },
+    {
+      "album": {
+        "name": "Rammana",
+        "url": "https://open.spotify.com/album/1IaAUTHxdkp1agbRcscr9U"
+      },
+      "artists": [
+        {
+          "name": "Salin",
+          "url": "https://open.spotify.com/artist/190s2q06h5ztFSuGHOpmf3"
+        }
+      ],
+      "date_added": "2026-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250000,
+      "name": "Egungun",
+      "url": "https://open.spotify.com/track/75J6JK0dMUgjBP5lnVdaKx"
     },
     {
       "album": {
@@ -3318,6 +3372,28 @@
       "duration_ms": 244718,
       "name": "Go Forth and Learn to Live",
       "url": "https://open.spotify.com/track/5TCaruEPfsfSv2yxiCM1lq"
+    },
+    {
+      "album": {
+        "name": "TEN TOES & TESTIMONIES",
+        "url": "https://open.spotify.com/album/5NIl0HX7PvIT6LFzYGjBFq"
+      },
+      "artists": [
+        {
+          "name": "CHUNG",
+          "url": "https://open.spotify.com/artist/3JaOZg9OeS0sOnwz9MtvOe"
+        },
+        {
+          "name": "perutheproducer",
+          "url": "https://open.spotify.com/artist/7HZgGgNEM5zlE19qV12YWK"
+        }
+      ],
+      "date_added": "2026-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129192,
+      "name": "GO GETTA (GO GET HER)",
+      "url": "https://open.spotify.com/track/7KG53z3HkeZ0iazucFnO84"
     },
     {
       "album": {
@@ -4197,6 +4273,28 @@
     },
     {
       "album": {
+        "name": "Right Place Wrong Time",
+        "url": "https://open.spotify.com/album/6Flf0gMdqisOtbtPRgAqNQ"
+      },
+      "artists": [
+        {
+          "name": "The Liquor Store",
+          "url": "https://open.spotify.com/artist/1wTJHudeVpwXvplnDjtdRX"
+        },
+        {
+          "name": "Malia Laura",
+          "url": "https://open.spotify.com/artist/5mR2fZvW33l03cg7mzlwsG"
+        }
+      ],
+      "date_added": "2026-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272560,
+      "name": "If I Knew About It",
+      "url": "https://open.spotify.com/track/2tyxaDKdGtX7NnFEBdGLJM"
+    },
+    {
+      "album": {
         "name": "Perennial",
         "url": "https://open.spotify.com/album/3EsbfFgjvhdoBuoEJaYGOq"
       },
@@ -4848,6 +4946,24 @@
       "duration_ms": 236635,
       "name": "KISSING IN PUBLIC",
       "url": "https://open.spotify.com/track/6sJR82bgpwFPjzB1DHzGw8"
+    },
+    {
+      "album": {
+        "name": "Donte sann yo",
+        "url": "https://open.spotify.com/album/6EgDM1rpIDKLXqfvFHr7uq"
+      },
+      "artists": [
+        {
+          "name": "Bel and Quinn",
+          "url": "https://open.spotify.com/artist/2aClATF8usGeap1tNMYpfn"
+        }
+      ],
+      "date_added": "2026-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 407798,
+      "name": "L'\u00eele aux tambours",
+      "url": "https://open.spotify.com/track/242mrFCP8VWR4Q9R59Rt5u"
     },
     {
       "album": {
@@ -6305,6 +6421,24 @@
     },
     {
       "album": {
+        "name": "One Guitar Woman",
+        "url": "https://open.spotify.com/album/0xxa2KkIb7XgsaWIBrXWRy"
+      },
+      "artists": [
+        {
+          "name": "Sue Foley",
+          "url": "https://open.spotify.com/artist/6bp17u6Ya0RGnEobNVGvwS"
+        }
+      ],
+      "date_added": "2026-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187240,
+      "name": "Nothing In Rambling",
+      "url": "https://open.spotify.com/track/0jLAXfu0NO9bcxQ4NL0k0Q"
+    },
+    {
+      "album": {
         "name": "Nothing Left (Lonely Song)",
         "url": "https://open.spotify.com/album/43LrTSzFvVUX4fcZT4IeDP"
       },
@@ -7583,6 +7717,24 @@
     },
     {
       "album": {
+        "name": "Smash Combat",
+        "url": "https://open.spotify.com/album/3wb0gR13hzmsFExK0AWCEG"
+      },
+      "artists": [
+        {
+          "name": "Ping Pong Go",
+          "url": "https://open.spotify.com/artist/5C3BsAXPHbkUKm3wi8GUMG"
+        }
+      ],
+      "date_added": "2026-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217677,
+      "name": "Sam Bozen",
+      "url": "https://open.spotify.com/track/0PjcM5aPlG1exkKZVe1wyA"
+    },
+    {
+      "album": {
         "name": "The Essential Stanley Clarke",
         "url": "https://open.spotify.com/album/4658fdGxRPiSvcWb464SyS"
       },
@@ -7667,6 +7819,24 @@
     },
     {
       "album": {
+        "name": "Siwo boy",
+        "url": "https://open.spotify.com/album/6hsbjDPMM05ODFpm4Hs5ru"
+      },
+      "artists": [
+        {
+          "name": "Marvin Caleb",
+          "url": "https://open.spotify.com/artist/3vR1xfC7leN8JqtN7eFqlF"
+        }
+      ],
+      "date_added": "2026-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172285,
+      "name": "SE KON SA",
+      "url": "https://open.spotify.com/track/4gpIqftVShsU0O7mVAYS6Q"
+    },
+    {
+      "album": {
         "name": "Soul Street",
         "url": "https://open.spotify.com/album/0NPpgUwyc5KShmdlkQ8SPm"
       },
@@ -7682,6 +7852,24 @@
       "duration_ms": 266000,
       "name": "Searching for Answers",
       "url": "https://open.spotify.com/track/7zG8CARZq5k7HtrjE3vZSn"
+    },
+    {
+      "album": {
+        "name": "Second Hand",
+        "url": "https://open.spotify.com/album/0q9Y3XkOUcclX7l1HAqEBV"
+      },
+      "artists": [
+        {
+          "name": "Ana\u00efs Cardot",
+          "url": "https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU"
+        }
+      ],
+      "date_added": "2026-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204311,
+      "name": "Second Hand",
+      "url": "https://open.spotify.com/track/2QyBcS4FwJAnqyG4jDpfF5"
     },
     {
       "album": {
@@ -8297,6 +8485,24 @@
     },
     {
       "album": {
+        "name": "This Dirt Loves Me More Than You!",
+        "url": "https://open.spotify.com/album/3gAdffYNaQrk4PUHsAjuI3"
+      },
+      "artists": [
+        {
+          "name": "MonoNeon",
+          "url": "https://open.spotify.com/artist/3IuEuLez19teZSN32Pf70j"
+        }
+      ],
+      "date_added": "2026-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187050,
+      "name": "Stuck In A Cage of A Midnight Song",
+      "url": "https://open.spotify.com/track/2cHaQRrCjvys3y2UA07R7r"
+    },
+    {
+      "album": {
         "name": "Echoes and Other Songs",
         "url": "https://open.spotify.com/album/6pfEUFLGik0vypQgyQyAYL"
       },
@@ -8798,6 +9004,24 @@
       "duration_ms": 152586,
       "name": "The Fatalist Blues",
       "url": "https://open.spotify.com/track/37kYCbuyOEbLMOIs59FWfe"
+    },
+    {
+      "album": {
+        "name": "Fearless Movement",
+        "url": "https://open.spotify.com/album/0Jy18n9qpKS4RyDYmaPpdL"
+      },
+      "artists": [
+        {
+          "name": "Kamasi Washington",
+          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
+        }
+      ],
+      "date_added": "2026-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 400170,
+      "name": "The Garden Path",
+      "url": "https://open.spotify.com/track/1j6ElLo9Lp0m4AwdylsKUM"
     },
     {
       "album": {

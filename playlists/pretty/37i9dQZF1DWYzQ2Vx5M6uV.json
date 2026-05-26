@@ -1,6 +1,6 @@
 {
   "description": "Latin Afrobeats heat that will make you sweat \ud83e\udd75 Cover: Rvssian, Rauw Alejandro & Wizkid",
-  "num_followers": 143579,
+  "num_followers": 143582,
   "original_name": "Afro Ritmo",
   "owner": {
     "name": "Spotify",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2026-05-24 07:04:55",
       "album": {
+        "name": "Esa Nena",
+        "url": "https://open.spotify.com/album/48LyKkoGDfbBrlffR58PQV"
+      },
+      "artists": [
+        {
+          "name": "Dejota2021",
+          "url": "https://open.spotify.com/artist/5NpCde9H57MxIZqbmfkElY"
+        }
+      ],
+      "duration_ms": 158545,
+      "name": "Esa Nena",
+      "url": "https://open.spotify.com/track/3L9AvSMCtn6A8iL1iCj8v6"
+    },
+    {
+      "added_at": "2026-05-24 07:04:55",
+      "album": {
         "name": "Todav\u00eda",
         "url": "https://open.spotify.com/album/3z66QImSBHBA1V3gxYDbfx"
       },
@@ -1091,22 +1107,6 @@
       "duration_ms": 183278,
       "name": "todav\u00edA",
       "url": "https://open.spotify.com/track/570Q5CgBICftKsge5bPBDx"
-    },
-    {
-      "added_at": "2026-05-24 07:04:55",
-      "album": {
-        "name": "Esa Nena",
-        "url": "https://open.spotify.com/album/48LyKkoGDfbBrlffR58PQV"
-      },
-      "artists": [
-        {
-          "name": "Dejota2021",
-          "url": "https://open.spotify.com/artist/5NpCde9H57MxIZqbmfkElY"
-        }
-      ],
-      "duration_ms": 158545,
-      "name": "Esa Nena",
-      "url": "https://open.spotify.com/track/3L9AvSMCtn6A8iL1iCj8v6"
     },
     {
       "added_at": "2026-05-24 07:04:55",

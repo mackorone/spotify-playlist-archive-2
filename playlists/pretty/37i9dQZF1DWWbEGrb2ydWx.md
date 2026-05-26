@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWbEGrb2ydWx.md) - [plain]
 
 > <a href="spotify:artist:2EFsfh1zewsSWhDINv7j1I">Logic1000's </a> favourite tracks\.  Updated regularly\. Curated by Logic1000\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,498 likes - 90 songs - 7 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,500 likes - 90 songs - 7 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,7 +87,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWbEGrb2ydWx.md) - [plain]
 | 77 | [Downtown World, Pt\. 4](https://open.spotify.com/track/70pg0JK72l31vfVCThWMRv) | [Damon Wild](https://open.spotify.com/artist/1Ca2mQbNaKYrz62PT8sRq5) | [Downtown World](https://open.spotify.com/album/2E2MCCeeV6pyBxbfgFwTFX) | 4:47 |
 | 78 | [Let The Bass](https://open.spotify.com/track/6s5D2riEpAGU7X7w2p4qsb) | [Robbie Doherty](https://open.spotify.com/artist/2WuXRwEjXIjW5uVZOSxqYS), [Foley](https://open.spotify.com/artist/30D6A5migVTK2t14hZkXsZ) | [Let The Bass](https://open.spotify.com/album/0wJP2PJMzS86wxA1kVpl5s) | 5:46 |
 | 79 | [Muzik](https://open.spotify.com/track/6E6WyW3tLlJHwfmKPaHrNo) | [Jennifer Loveless](https://open.spotify.com/artist/2Vsiki0qM11ADccRwwvS1c) | [Muzik](https://open.spotify.com/album/1RclAlfbZu5BY5ZzYxPw44) | 5:51 |
-| 80 | [Do It Your Way \- Original Mix](https://open.spotify.com/track/6bxeekI9n4mFVw4GoeQZMa) | [Mood II Swing](https://open.spotify.com/artist/1ioarahrQVnmKor7JmN5Av), [John Ciafone](https://open.spotify.com/artist/3vESvN8vGnaIif4ZDOcxVC) | [Do It Your Way](https://open.spotify.com/album/2GeAr9D1kztZrxjuLfyYKv) | 9:32 |
+| 80 | [Do It Your Way](https://open.spotify.com/track/6bxeekI9n4mFVw4GoeQZMa) | [Mood II Swing](https://open.spotify.com/artist/1ioarahrQVnmKor7JmN5Av), [John Ciafone](https://open.spotify.com/artist/3vESvN8vGnaIif4ZDOcxVC) | [Do It Your Way](https://open.spotify.com/album/2GeAr9D1kztZrxjuLfyYKv) | 9:32 |
 | 81 | [Natural Wonder Beauty Concept](https://open.spotify.com/track/6ABsQgxBbFvgSPSvxv4PgM) | [Natural Wonder Beauty Concept](https://open.spotify.com/artist/5fuCjaj3t1OkkrMH7EjuLu), [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I), [DJ Python](https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl) | [Natural Wonder Beauty Concept](https://open.spotify.com/album/1yxb5o5htty9e6gw5f07qn) | 4:24 |
 | 82 | [Three Chains](https://open.spotify.com/track/4mtgNcMztMWMXHZeFBJMXu) | [Big Ever](https://open.spotify.com/artist/6S6PrVKF41V5qJxz4fZB56) | [Three Chains / Nature](https://open.spotify.com/album/3197zWxS0yTRUN3lH6YRNc) | 4:26 |
 | 83 | [Ackee](https://open.spotify.com/track/2kIgDJcUogfY1e7HoTufxL) | [Anthony Naples](https://open.spotify.com/artist/20bB5IFRjHw1EIAHvZ3tgd) | [orbs](https://open.spotify.com/album/2diDpno1K39g7HtGkPWiTe) | 4:42 |

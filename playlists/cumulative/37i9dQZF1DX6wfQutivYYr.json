@@ -2319,6 +2319,28 @@
     },
     {
       "album": {
+        "name": "RYAN TED",
+        "url": "https://open.spotify.com/album/2U9mwmcJrUmkIpJm9gq8n7"
+      },
+      "artists": [
+        {
+          "name": "Tedua",
+          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
+        },
+        {
+          "name": "Latrelle",
+          "url": "https://open.spotify.com/artist/2mUoO8KgRQOOzR0VoUWoEV"
+        }
+      ],
+      "date_added": "2026-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121450,
+      "name": "FaXXX (feat. Latrelle)",
+      "url": "https://open.spotify.com/track/6EGUow6OQ28at9wB2TTvyo"
+    },
+    {
+      "album": {
         "name": "Feeling",
         "url": "https://open.spotify.com/album/4sNOezg86EAOcM3iAEHy3d"
       },
@@ -5186,7 +5208,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 208626,
       "name": "QUESTA INSENSATA VOGLIA DI TE",
       "url": "https://open.spotify.com/track/3M5e1yWYMKQPE0IUePwdBt"
@@ -5360,6 +5382,24 @@
       "duration_ms": 277611,
       "name": "Ricordi (con Elisa)",
       "url": "https://open.spotify.com/track/3ocAmS2NnUlIrtwYdg89lU"
+    },
+    {
+      "album": {
+        "name": "ROMANTICA",
+        "url": "https://open.spotify.com/album/10y0yFd5imPOaVmDIQ2lP1"
+      },
+      "artists": [
+        {
+          "name": "Ultimo",
+          "url": "https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa"
+        }
+      ],
+      "date_added": "2026-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193226,
+      "name": "ROMANTICA",
+      "url": "https://open.spotify.com/track/3jG1o72wNvvjQn2kDoNsIu"
     },
     {
       "album": {
@@ -6116,7 +6156,7 @@
       ],
       "date_added": "2025-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 226073,
       "name": "The Fate of Ophelia",
       "url": "https://open.spotify.com/track/31TXxq8gfgYyrYClnYY48m"

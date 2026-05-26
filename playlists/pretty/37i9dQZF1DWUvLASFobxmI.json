@@ -1,6 +1,6 @@
 {
   "description": "Brav\u00edas, rom\u00e1nticas y rancheras, las mejores canciones norte\u00f1as. David Ornelas en portada.",
-  "num_followers": 530160,
+  "num_followers": 530172,
   "original_name": "Norte\u00f1o 2026",
   "owner": {
     "name": "Spotify",
@@ -251,22 +251,6 @@
     {
       "added_at": "2026-05-22 06:00:43",
       "album": {
-        "name": "EN HOT",
-        "url": "https://open.spotify.com/album/28h4cylRu35ifCbpcTWYsV"
-      },
-      "artists": [
-        {
-          "name": "C\u00f3digo FN",
-          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
-        }
-      ],
-      "duration_ms": 140945,
-      "name": "EN HOT",
-      "url": "https://open.spotify.com/track/7MfrxxkPMYfVnvFpNYIkqh"
-    },
-    {
-      "added_at": "2026-05-22 06:00:43",
-      "album": {
         "name": "Fuera Mas Feliz",
         "url": "https://open.spotify.com/album/1sEAPhutMLCyyChH05Moru"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 141285,
       "name": "Fuera Mas Feliz",
       "url": "https://open.spotify.com/track/03hxCxEXYvCBtoLizpPIzT"
+    },
+    {
+      "added_at": "2026-05-22 06:00:43",
+      "album": {
+        "name": "EN HOT",
+        "url": "https://open.spotify.com/album/28h4cylRu35ifCbpcTWYsV"
+      },
+      "artists": [
+        {
+          "name": "C\u00f3digo FN",
+          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
+        }
+      ],
+      "duration_ms": 140945,
+      "name": "EN HOT",
+      "url": "https://open.spotify.com/track/7MfrxxkPMYfVnvFpNYIkqh"
     },
     {
       "added_at": "2026-05-22 06:00:43",
@@ -491,6 +491,22 @@
     {
       "added_at": "2026-05-22 06:00:43",
       "album": {
+        "name": "Covers De Mi Gusto, Vol. 3 (En Vivo)",
+        "url": "https://open.spotify.com/album/6Eb7L6i4a2S0YsALJiY3Be"
+      },
+      "artists": [
+        {
+          "name": "JR Torres",
+          "url": "https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj"
+        }
+      ],
+      "duration_ms": 173621,
+      "name": "Eres - En Vivo",
+      "url": "https://open.spotify.com/track/4TYp9OgXHDdF75R8Ratby1"
+    },
+    {
+      "added_at": "2026-05-22 06:00:43",
+      "album": {
         "name": "Nomas Pa Que Sepan",
         "url": "https://open.spotify.com/album/5d4Z3mg8EZCx5jwOSQJWpY"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 169830,
       "name": "Nomas Pa Que Sepan",
       "url": "https://open.spotify.com/track/3Ge1XTAn1P33DaAaw4sjGu"
-    },
-    {
-      "added_at": "2026-05-22 06:00:43",
-      "album": {
-        "name": "Covers De Mi Gusto, Vol. 3 (En Vivo)",
-        "url": "https://open.spotify.com/album/6Eb7L6i4a2S0YsALJiY3Be"
-      },
-      "artists": [
-        {
-          "name": "JR Torres",
-          "url": "https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj"
-        }
-      ],
-      "duration_ms": 173621,
-      "name": "Eres - En Vivo",
-      "url": "https://open.spotify.com/track/4TYp9OgXHDdF75R8Ratby1"
     },
     {
       "added_at": "2026-05-22 06:00:43",
@@ -611,26 +611,6 @@
     {
       "added_at": "2026-05-22 06:00:43",
       "album": {
-        "name": "Pa' D\u00f3nde",
-        "url": "https://open.spotify.com/album/59EYpnVskaEs2RuFjwZ4fq"
-      },
-      "artists": [
-        {
-          "name": "Bohemio",
-          "url": "https://open.spotify.com/artist/2mtVUHNMxLAnBFD6wVmdEH"
-        },
-        {
-          "name": "Bolela",
-          "url": "https://open.spotify.com/artist/7K1DEVlWpm4Y5sKRNNoVIZ"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Pa' D\u00f3nde",
-      "url": "https://open.spotify.com/track/3LzovbiayjAF9NBNw9rJr3"
-    },
-    {
-      "added_at": "2026-05-22 06:00:43",
-      "album": {
         "name": "Sabor A Sonora (En Vivo)",
         "url": "https://open.spotify.com/album/6i7iwcGLHbQ81Y2X1eo5Jb"
       },
@@ -647,6 +627,26 @@
       "duration_ms": 143445,
       "name": "Sabor A Sonora - En Vivo",
       "url": "https://open.spotify.com/track/2hRW3tbYakHvX5pp6iOzJo"
+    },
+    {
+      "added_at": "2026-05-22 06:00:43",
+      "album": {
+        "name": "Pa' D\u00f3nde",
+        "url": "https://open.spotify.com/album/59EYpnVskaEs2RuFjwZ4fq"
+      },
+      "artists": [
+        {
+          "name": "Bohemio",
+          "url": "https://open.spotify.com/artist/2mtVUHNMxLAnBFD6wVmdEH"
+        },
+        {
+          "name": "Bolela",
+          "url": "https://open.spotify.com/artist/7K1DEVlWpm4Y5sKRNNoVIZ"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Pa' D\u00f3nde",
+      "url": "https://open.spotify.com/track/3LzovbiayjAF9NBNw9rJr3"
     },
     {
       "added_at": "2026-05-22 06:00:43",
@@ -939,22 +939,6 @@
     {
       "added_at": "2026-05-22 06:00:43",
       "album": {
-        "name": "Soy Tan Tuyo",
-        "url": "https://open.spotify.com/album/4zghh6p3DmXfCyRgXjBlgC"
-      },
-      "artists": [
-        {
-          "name": "Grupo Primer Grado",
-          "url": "https://open.spotify.com/artist/3eRCLeO8w7xvvg1o39acC7"
-        }
-      ],
-      "duration_ms": 220377,
-      "name": "Soy Tan Tuyo",
-      "url": "https://open.spotify.com/track/0m1iRpW2FHqTkqSFKeHlJM"
-    },
-    {
-      "added_at": "2026-05-22 06:00:43",
-      "album": {
         "name": "Con Los Ojos Cerrados",
         "url": "https://open.spotify.com/album/6IGg5yVMpBMZpgI02Ltb4f"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 185997,
       "name": "Con Los Ojos Cerrados",
       "url": "https://open.spotify.com/track/54xWzsmkmnYYDvi3GzdneW"
+    },
+    {
+      "added_at": "2026-05-22 06:00:43",
+      "album": {
+        "name": "Soy Tan Tuyo",
+        "url": "https://open.spotify.com/album/4zghh6p3DmXfCyRgXjBlgC"
+      },
+      "artists": [
+        {
+          "name": "Grupo Primer Grado",
+          "url": "https://open.spotify.com/artist/3eRCLeO8w7xvvg1o39acC7"
+        }
+      ],
+      "duration_ms": 220377,
+      "name": "Soy Tan Tuyo",
+      "url": "https://open.spotify.com/track/0m1iRpW2FHqTkqSFKeHlJM"
     },
     {
       "added_at": "2026-05-22 06:00:43",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2026-05-22 06:00:43",
       "album": {
-        "name": "Que Tonto He Sido",
-        "url": "https://open.spotify.com/album/4r1Q41YDVdGU3xlp1rZsz4"
-      },
-      "artists": [
-        {
-          "name": "Solido",
-          "url": "https://open.spotify.com/artist/2f6HJFmIQEIUdJGUAZcTIj"
-        }
-      ],
-      "duration_ms": 241333,
-      "name": "Que Tonto He Sido",
-      "url": "https://open.spotify.com/track/4aHqEkiwz5Ai7HC2vKendf"
-    },
-    {
-      "added_at": "2026-05-22 06:00:43",
-      "album": {
         "name": "Obvio No",
         "url": "https://open.spotify.com/album/5ZG8d0cWqDDzJHsKhxaz0Z"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 196166,
       "name": "Obvio No",
       "url": "https://open.spotify.com/track/0ggedvT3TQhCOti5AKrvVU"
+    },
+    {
+      "added_at": "2026-05-22 06:00:43",
+      "album": {
+        "name": "Que Tonto He Sido",
+        "url": "https://open.spotify.com/album/4r1Q41YDVdGU3xlp1rZsz4"
+      },
+      "artists": [
+        {
+          "name": "Solido",
+          "url": "https://open.spotify.com/artist/2f6HJFmIQEIUdJGUAZcTIj"
+        }
+      ],
+      "duration_ms": 241333,
+      "name": "Que Tonto He Sido",
+      "url": "https://open.spotify.com/track/4aHqEkiwz5Ai7HC2vKendf"
     },
     {
       "added_at": "2026-05-22 06:00:43",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2026-05-22 06:00:43",
       "album": {
-        "name": "Corridos y Canciones",
-        "url": "https://open.spotify.com/album/0LE1F6QFKhO9jvM1bX7Agx"
-      },
-      "artists": [
-        {
-          "name": "Los Varones de Culiacan",
-          "url": "https://open.spotify.com/artist/3Bz4vStA4p6jwPXL6SDZ9d"
-        }
-      ],
-      "duration_ms": 140928,
-      "name": "Princesa Hermosa",
-      "url": "https://open.spotify.com/track/3c5C37V1YYSAfh6wwb1k9s"
-    },
-    {
-      "added_at": "2026-05-22 06:00:43",
-      "album": {
         "name": "Borracho y Loco",
         "url": "https://open.spotify.com/album/2eIenGkP3a7WijVIOf5GVO"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 158559,
       "name": "Borracho y Loco",
       "url": "https://open.spotify.com/track/5vya4fm5iIzzJUAWlwWuDK"
+    },
+    {
+      "added_at": "2026-05-22 06:00:43",
+      "album": {
+        "name": "Corridos y Canciones",
+        "url": "https://open.spotify.com/album/0LE1F6QFKhO9jvM1bX7Agx"
+      },
+      "artists": [
+        {
+          "name": "Los Varones de Culiacan",
+          "url": "https://open.spotify.com/artist/3Bz4vStA4p6jwPXL6SDZ9d"
+        }
+      ],
+      "duration_ms": 140928,
+      "name": "Princesa Hermosa",
+      "url": "https://open.spotify.com/track/3c5C37V1YYSAfh6wwb1k9s"
     },
     {
       "added_at": "2026-05-22 06:00:43",

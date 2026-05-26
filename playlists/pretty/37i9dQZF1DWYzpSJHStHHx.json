@@ -1,6 +1,6 @@
 {
   "description": "All the sunny surf rock you need. ",
-  "num_followers": 484373,
+  "num_followers": 484381,
   "original_name": "Surf Rock Sunshine",
   "owner": {
     "name": "Spotify",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2026-04-09 14:00:34",
       "album": {
-        "name": "Guerreros del Sur",
-        "url": "https://open.spotify.com/album/4XwlF5au9UtkkM4XEluSf3"
-      },
-      "artists": [
-        {
-          "name": "O Tortuga",
-          "url": "https://open.spotify.com/artist/3mcduWnWZYTdZm0w2fuvhK"
-        }
-      ],
-      "duration_ms": 253440,
-      "name": "Guerreros del Sur",
-      "url": "https://open.spotify.com/track/66oxeoj6grFsgEPByCMX7E"
-    },
-    {
-      "added_at": "2026-04-09 14:00:34",
-      "album": {
         "name": "Tommy Bahama",
         "url": "https://open.spotify.com/album/28rGVwaeWzeUOlwaew40FW"
       },
@@ -1163,18 +1147,18 @@
     {
       "added_at": "2026-04-09 14:00:34",
       "album": {
-        "name": "Cigarettes In Space",
-        "url": "https://open.spotify.com/album/6j0YmnGZ7Qm2ZdtPMT1Gxu"
+        "name": "Guerreros del Sur",
+        "url": "https://open.spotify.com/album/4XwlF5au9UtkkM4XEluSf3"
       },
       "artists": [
         {
-          "name": "Summer Thieves",
-          "url": "https://open.spotify.com/artist/4WCnYYTO46t5FujuWKOc4W"
+          "name": "O Tortuga",
+          "url": "https://open.spotify.com/artist/3mcduWnWZYTdZm0w2fuvhK"
         }
       ],
-      "duration_ms": 210640,
-      "name": "Bali Nights",
-      "url": "https://open.spotify.com/track/0DbCQ19qemrwPFPeoXsZRP"
+      "duration_ms": 253440,
+      "name": "Guerreros del Sur",
+      "url": "https://open.spotify.com/track/66oxeoj6grFsgEPByCMX7E"
     },
     {
       "added_at": "2026-04-09 14:00:34",
@@ -1195,18 +1179,34 @@
     {
       "added_at": "2026-04-09 14:00:34",
       "album": {
-        "name": "Floating By",
-        "url": "https://open.spotify.com/album/1yYbgy37ZesTj0feuFkzJT"
+        "name": "Cigarettes In Space",
+        "url": "https://open.spotify.com/album/6j0YmnGZ7Qm2ZdtPMT1Gxu"
       },
       "artists": [
         {
-          "name": "Dawson James",
-          "url": "https://open.spotify.com/artist/07SRAC48eP073ob1v7iEuL"
+          "name": "Summer Thieves",
+          "url": "https://open.spotify.com/artist/4WCnYYTO46t5FujuWKOc4W"
         }
       ],
-      "duration_ms": 160703,
-      "name": "Floating By",
-      "url": "https://open.spotify.com/track/1GecdBfUVVohc8wdSaHvtg"
+      "duration_ms": 210640,
+      "name": "Bali Nights",
+      "url": "https://open.spotify.com/track/0DbCQ19qemrwPFPeoXsZRP"
+    },
+    {
+      "added_at": "2026-04-09 14:00:34",
+      "album": {
+        "name": "The Beach",
+        "url": "https://open.spotify.com/album/6G5mImkruaSprUxjInD0jY"
+      },
+      "artists": [
+        {
+          "name": "Warbaby",
+          "url": "https://open.spotify.com/artist/5l7abo4Er8M2z34HTCczEK"
+        }
+      ],
+      "duration_ms": 195766,
+      "name": "The Beach",
+      "url": "https://open.spotify.com/track/46EDkHBHvcrbvb6sCjGCwF"
     }
   ],
   "unique_name": "Surf Rock Sunshine",

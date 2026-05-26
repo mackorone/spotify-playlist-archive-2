@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO42EWMo.md) - [plain]
 
 > This is Amy Winehouse\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,203,406 likes - 45 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,203,482 likes - 45 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,15 +43,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO42EWMo.md) - [plain]
 | 33 | [Amy Amy Amy](https://open.spotify.com/track/6lX3i8dl8gsWMfaUIgcOl6) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Frank](https://open.spotify.com/album/3kGbxqlVl3LqjifxlubtcT) | 4:14 |
 | 34 | [Cherry Wine](https://open.spotify.com/track/4K7jd5Wm09iF9xum3gfExb) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Life Is Good](https://open.spotify.com/album/4tpG2K3nqcrFNGBikX3dc0) | 5:56 |
 | 35 | [Monkey Man](https://open.spotify.com/track/52fqquVYihRW17ySEcy5mA) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black \(Deluxe Edition\)](https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG) | 2:56 |
-| 36 | [Don't Go To Strangers \- Live On Jools Holland Hootenanny / 2006](https://open.spotify.com/track/3kt92YozPwnpnE5yQziJ60) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR), [Paul Weller](https://open.spotify.com/artist/7Lf3LOZp3U3u2f6cWMd3AH), [Jools Holland](https://open.spotify.com/artist/6eLbRJP12OhyvUv4ntto4e) | [At The BBC](https://open.spotify.com/album/741JhzvIOudONDzRg6wuWJ) | 4:36 |
+| 36 | [Rehab \- Live On Jools Holland](https://open.spotify.com/track/7E4dtl5gWROiMKibvedh0i) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [AMY \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5Fb59VtYjJNTXPcNGpoDU3) | 3:41 |
 | 37 | [Brother](https://open.spotify.com/track/56Arzti6qoYbWlU5cM5xQ9) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Frank](https://open.spotify.com/album/3kGbxqlVl3LqjifxlubtcT) | 4:13 |
-| 38 | [Rehab \- Live On Jools Holland](https://open.spotify.com/track/7E4dtl5gWROiMKibvedh0i) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [AMY \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5Fb59VtYjJNTXPcNGpoDU3) | 3:41 |
+| 38 | [Don't Go To Strangers \- Live On Jools Holland Hootenanny / 2006](https://open.spotify.com/track/3kt92YozPwnpnE5yQziJ60) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR), [Paul Weller](https://open.spotify.com/artist/7Lf3LOZp3U3u2f6cWMd3AH), [Jools Holland](https://open.spotify.com/artist/6eLbRJP12OhyvUv4ntto4e) | [At The BBC](https://open.spotify.com/album/741JhzvIOudONDzRg6wuWJ) | 4:36 |
 | 39 | [Hey Little Rich Girl](https://open.spotify.com/track/6huXEunO4jEFn9Q7WLoMZs) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR), [Ade Omotayo](https://open.spotify.com/artist/6vBEH6ztLks6Wa9CbTHrgI), [Zalon Thompson](https://open.spotify.com/artist/0zekQep7qKANc50WkNbqvP) | [Back To Black \(Deluxe Edition\)](https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG) | 3:35 |
-| 40 | [Tenderly \- Live On Later..\. With Jools Holland / 2006](https://open.spotify.com/track/2RtYWELB3znKy86yd9VTfI) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR), [Jools Holland](https://open.spotify.com/artist/6eLbRJP12OhyvUv4ntto4e) | [At The BBC](https://open.spotify.com/album/741JhzvIOudONDzRg6wuWJ) | 1:13 |
+| 40 | [Monkey Man](https://open.spotify.com/track/5JSJQNIlsfrfuXhjKTAfDa) | [Jools Holland](https://open.spotify.com/artist/6eLbRJP12OhyvUv4ntto4e), [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Sirens of Song](https://open.spotify.com/album/6V2rjEdJenqFpZDug9maSA) | 2:45 |
 | 41 | [You Sent Me Flying / Cherry](https://open.spotify.com/track/2XVLtD3PlpQTdh81UP2grX) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Frank](https://open.spotify.com/album/3kGbxqlVl3LqjifxlubtcT) | 6:50 |
-| 42 | [Monkey Man](https://open.spotify.com/track/5JSJQNIlsfrfuXhjKTAfDa) | [Jools Holland](https://open.spotify.com/artist/6eLbRJP12OhyvUv4ntto4e), [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Sirens of Song](https://open.spotify.com/album/6V2rjEdJenqFpZDug9maSA) | 2:45 |
+| 42 | [Tenderly \- Live On Later..\. With Jools Holland / 2006](https://open.spotify.com/track/2RtYWELB3znKy86yd9VTfI) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR), [Jools Holland](https://open.spotify.com/artist/6eLbRJP12OhyvUv4ntto4e) | [At The BBC](https://open.spotify.com/album/741JhzvIOudONDzRg6wuWJ) | 1:13 |
 | 43 | [What It Is](https://open.spotify.com/track/79dmkAahkE4zQfAWtk3hhF) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Stronger Than Me](https://open.spotify.com/album/17M1mlaV8mmeMt6oSHYxC7) | 4:43 |
 | 44 | [Lullaby Of Birdland \- Live From The Stables / 2004](https://open.spotify.com/track/52nsOnLZuRQSNJr7940Xyb) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [At The BBC](https://open.spotify.com/album/741JhzvIOudONDzRg6wuWJ) | 2:34 |
 | 45 | [Monkey Man \- Live On Jools Holland Hootenanny / 2006](https://open.spotify.com/track/11RwX2XrkrduAwdmug89ja) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR), [Jools Holland](https://open.spotify.com/artist/6eLbRJP12OhyvUv4ntto4e) | [At The BBC](https://open.spotify.com/album/741JhzvIOudONDzRg6wuWJ) | 3:19 |
 
-Snapshot ID: `ahDuAAAAAAD9WHQaPxApqhCbG7A/Vt/Y`
+Snapshot ID: `ahI/gAAAAADtcVkSx2WJRFPSIsVcYuXC`

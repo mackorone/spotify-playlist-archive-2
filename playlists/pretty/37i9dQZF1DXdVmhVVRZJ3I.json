@@ -1,6 +1,6 @@
 {
   "description": "Eletr\u00f4nico energ\u00e9tico para acompanhar a sua malha\u00e7\u00e3o di\u00e1ria. ",
-  "num_followers": 351968,
+  "num_followers": 352057,
   "original_name": "Treino Eletr\u00f4nico",
   "owner": {
     "name": "Spotify",
@@ -583,6 +583,22 @@
     {
       "added_at": "2026-05-04 13:53:01",
       "album": {
+        "name": "Last Time",
+        "url": "https://open.spotify.com/album/2qizgplRij9zCHIlp5SiXR"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        }
+      ],
+      "duration_ms": 214560,
+      "name": "Last Time",
+      "url": "https://open.spotify.com/track/54zJ1SxDe0CQhWRij7E0no"
+    },
+    {
+      "added_at": "2026-05-04 13:53:01",
+      "album": {
         "name": "Doin Nottin",
         "url": "https://open.spotify.com/album/0wQMycZ8ZsoRJDkKZdvpTQ"
       },
@@ -599,26 +615,6 @@
       "duration_ms": 146538,
       "name": "Doin Nottin",
       "url": "https://open.spotify.com/track/54J48WdbKeNTLBtBluuGcK"
-    },
-    {
-      "added_at": "2026-05-04 13:53:01",
-      "album": {
-        "name": "I Love It",
-        "url": "https://open.spotify.com/album/35VzFsBlvx9XGP2hziKKLh"
-      },
-      "artists": [
-        {
-          "name": "Dubdogz",
-          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
-        },
-        {
-          "name": "DLMT",
-          "url": "https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF"
-        }
-      ],
-      "duration_ms": 166299,
-      "name": "I Love It",
-      "url": "https://open.spotify.com/track/0XmQPFLkdMEsnKQOrqy9rU"
     },
     {
       "added_at": "2026-05-04 13:53:01",
@@ -643,18 +639,22 @@
     {
       "added_at": "2026-05-04 13:53:01",
       "album": {
-        "name": "Last Time",
-        "url": "https://open.spotify.com/album/2qizgplRij9zCHIlp5SiXR"
+        "name": "I Love It",
+        "url": "https://open.spotify.com/album/35VzFsBlvx9XGP2hziKKLh"
       },
       "artists": [
         {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+          "name": "Dubdogz",
+          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+        },
+        {
+          "name": "DLMT",
+          "url": "https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF"
         }
       ],
-      "duration_ms": 214560,
-      "name": "Last Time",
-      "url": "https://open.spotify.com/track/54zJ1SxDe0CQhWRij7E0no"
+      "duration_ms": 166299,
+      "name": "I Love It",
+      "url": "https://open.spotify.com/track/0XmQPFLkdMEsnKQOrqy9rU"
     },
     {
       "added_at": "2026-05-04 13:53:01",
@@ -695,26 +695,6 @@
     {
       "added_at": "2026-05-04 13:53:01",
       "album": {
-        "name": "Believe (Sevenn Remix)",
-        "url": "https://open.spotify.com/album/49yDdt1BfGEMyQPKQYvjDz"
-      },
-      "artists": [
-        {
-          "name": "Mida",
-          "url": "https://open.spotify.com/artist/4PpX7KnO2NEUYtPbW8y0XW"
-        },
-        {
-          "name": "Sevenn",
-          "url": "https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4"
-        }
-      ],
-      "duration_ms": 217920,
-      "name": "Believe - Sevenn Remix",
-      "url": "https://open.spotify.com/track/22iaFFYkob3pvTyDmBwxIi"
-    },
-    {
-      "added_at": "2026-05-04 13:53:01",
-      "album": {
         "name": "New Memories",
         "url": "https://open.spotify.com/album/1aTVxDieuETvXezEvjYmcI"
       },
@@ -731,6 +711,26 @@
       "duration_ms": 194655,
       "name": "New Memories",
       "url": "https://open.spotify.com/track/7C9SonafFzEtoheAQDQ2UW"
+    },
+    {
+      "added_at": "2026-05-04 13:53:01",
+      "album": {
+        "name": "Believe (Sevenn Remix)",
+        "url": "https://open.spotify.com/album/49yDdt1BfGEMyQPKQYvjDz"
+      },
+      "artists": [
+        {
+          "name": "Mida",
+          "url": "https://open.spotify.com/artist/4PpX7KnO2NEUYtPbW8y0XW"
+        },
+        {
+          "name": "Sevenn",
+          "url": "https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4"
+        }
+      ],
+      "duration_ms": 217920,
+      "name": "Believe - Sevenn Remix",
+      "url": "https://open.spotify.com/track/22iaFFYkob3pvTyDmBwxIi"
     },
     {
       "added_at": "2026-05-04 13:53:01",
@@ -939,6 +939,22 @@
     {
       "added_at": "2026-05-04 13:53:01",
       "album": {
+        "name": "Won't Back Down",
+        "url": "https://open.spotify.com/album/4rSbStRk8uNhSe1BrUPHII"
+      },
+      "artists": [
+        {
+          "name": "PRINSH",
+          "url": "https://open.spotify.com/artist/5h94tCQLiKuHEOlZMgMRJ4"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Won't Back Down",
+      "url": "https://open.spotify.com/track/58NXc2BrSHGkkPb1RWabkx"
+    },
+    {
+      "added_at": "2026-05-04 13:53:01",
+      "album": {
         "name": "Atomic Bomb (feat. Juan Alcasar)",
         "url": "https://open.spotify.com/album/4j9gMw9UoRS3xydzvmtnGX"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 129000,
       "name": "Atomic Bomb (feat. Juan Alcasar)",
       "url": "https://open.spotify.com/track/1Ge8px4DSNseb1atf9XumE"
-    },
-    {
-      "added_at": "2026-05-04 13:53:01",
-      "album": {
-        "name": "Won't Back Down",
-        "url": "https://open.spotify.com/album/4rSbStRk8uNhSe1BrUPHII"
-      },
-      "artists": [
-        {
-          "name": "PRINSH",
-          "url": "https://open.spotify.com/artist/5h94tCQLiKuHEOlZMgMRJ4"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Won't Back Down",
-      "url": "https://open.spotify.com/track/58NXc2BrSHGkkPb1RWabkx"
     },
     {
       "added_at": "2026-05-04 13:53:01",

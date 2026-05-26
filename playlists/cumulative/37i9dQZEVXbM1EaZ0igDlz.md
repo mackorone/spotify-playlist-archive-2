@@ -4,7 +4,7 @@
 
 > Your weekly update of the most played tracks right now \- Austria.
 
-1,000 songs - 2 day 3 hr 45 min
+1,001 songs - 2 day 3 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,7 +156,8 @@
 | [Born Again \(feat\. Doja Cat & RAYE\)](https://open.spotify.com/track/4CPuDVC8jhhK6lA2DIt8Cf) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Born Again \(feat\. Doja Cat & RAYE\)](https://open.spotify.com/album/5ADTbFCyP8cFAu59i4idiC) | 3:51 | 2025-02-14 | 2025-02-22 |
 | [BOTTEGA](https://open.spotify.com/track/3cmfbLQkCBkyAxVNlApBsP) | [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L) | [BOTTEGA](https://open.spotify.com/album/1nTDLd7iju1cTk1fiWm5tS) | 2:25 | 2025-06-13 | 2025-07-12 |
 | [BOTTEGA](https://open.spotify.com/track/3dK7WL6ZnK5EEuKaY7cam5) | [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L) | [FOREVER](https://open.spotify.com/album/2KDyOKoauaG76UbeQenJFX) | 2:25 | 2025-09-12 | 2025-09-20 |
-| [Boulevard of Broken Dreams](https://open.spotify.com/track/0U87auHx1iZTEFcq9KVdmO) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [American Idiot \(20th Anniversary Deluxe Edition\)](https://open.spotify.com/album/19ObsGobUuBr11M6ysFMug) | 4:20 | 2026-05-15 |  |
+| [Boulevard of Broken Dreams](https://open.spotify.com/track/0U87auHx1iZTEFcq9KVdmO) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [American Idiot \(20th Anniversary Deluxe Edition\)](https://open.spotify.com/album/19ObsGobUuBr11M6ysFMug) | 4:20 | 2026-05-15 | 2026-05-26 |
+| [Boulevard of Broken Dreams](https://open.spotify.com/track/5cbTCQ14BC974Zsx6OlXF8) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [American Idiot](https://open.spotify.com/album/01jrNa9Y7CLWnBMT3Fp5vR) | 4:20 | 2026-05-22 |  |
 | [Brazil Funk Freestyle \#2 🇧🇷](https://open.spotify.com/track/1kOpM4UO7iECg1BtljzH7f) | [Bobby Vandamme](https://open.spotify.com/artist/054k3bx4tpjx1tfypvq3eq), [Azet](https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh) | [Von Seite](https://open.spotify.com/album/0P0lyS2z2oaEPuhO3JIMtf) | 2:24 | 2025-10-31 | 2025-11-08 |
 | [Breakin' Dishes](https://open.spotify.com/track/3XeHVrTKlricOyk5VsVKxd) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Good Girl Gone Bad: Reloaded](https://open.spotify.com/album/1YhbfKnjrFgnYyWz6cn9mN) | 3:20 | 2025-10-10 | 2025-10-14 |
 | [Breakin' Dishes](https://open.spotify.com/track/46aZJc0z1HHHSFxaIRxYSP) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Good Girl Gone Bad: Reloaded](https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7) | 3:20 | 2025-01-10 | 2025-11-08 |

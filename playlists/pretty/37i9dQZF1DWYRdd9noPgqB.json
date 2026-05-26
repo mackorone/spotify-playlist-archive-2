@@ -1,6 +1,6 @@
 {
   "description": "La playlist qui fait du bien \u2600\ufe0f",
-  "num_followers": 299252,
+  "num_followers": 299253,
   "original_name": "Feel Good",
   "owner": {
     "name": "Spotify",
@@ -455,6 +455,22 @@
     {
       "added_at": "2026-05-21 22:00:17",
       "album": {
+        "name": "sailing",
+        "url": "https://open.spotify.com/album/73IJUW7XGzL2B8HMCKY39I"
+      },
+      "artists": [
+        {
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+        }
+      ],
+      "duration_ms": 244221,
+      "name": "sailing",
+      "url": "https://open.spotify.com/track/3Yp4Z4UhD7ymJiX83RgoGm"
+    },
+    {
+      "added_at": "2026-05-21 22:00:17",
+      "album": {
         "name": "the one",
         "url": "https://open.spotify.com/album/6Vqi6HvrkjM1MgdiZUfn6P"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 233113,
       "name": "Happy Birthday",
       "url": "https://open.spotify.com/track/2kNtiNtCbRbw3vP2qG6Ae9"
-    },
-    {
-      "added_at": "2026-05-21 22:00:17",
-      "album": {
-        "name": "sailing",
-        "url": "https://open.spotify.com/album/73IJUW7XGzL2B8HMCKY39I"
-      },
-      "artists": [
-        {
-          "name": "grentperez",
-          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
-        }
-      ],
-      "duration_ms": 244221,
-      "name": "sailing",
-      "url": "https://open.spotify.com/track/3Yp4Z4UhD7ymJiX83RgoGm"
     },
     {
       "added_at": "2026-05-21 22:00:17",
@@ -543,6 +543,30 @@
     {
       "added_at": "2026-05-21 22:00:17",
       "album": {
+        "name": "Downtown",
+        "url": "https://open.spotify.com/album/3HpHW9r9grbAHVflpDttMU"
+      },
+      "artists": [
+        {
+          "name": "Zeeba",
+          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
+        },
+        {
+          "name": "Izzy Bizu",
+          "url": "https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ"
+        },
+        {
+          "name": "Avi Snow",
+          "url": "https://open.spotify.com/artist/5pW2lVGlbVSVWi9086Xjfu"
+        }
+      ],
+      "duration_ms": 183157,
+      "name": "Downtown",
+      "url": "https://open.spotify.com/track/64RtBPP0NXkUA0N79pDE4P"
+    },
+    {
+      "added_at": "2026-05-21 22:00:17",
+      "album": {
         "name": "Departures & Arrivals: Adventures of Captain Curt",
         "url": "https://open.spotify.com/album/6kslXkHCr5rcOpf07Ss37k"
       },
@@ -575,26 +599,18 @@
     {
       "added_at": "2026-05-21 22:00:17",
       "album": {
-        "name": "Downtown",
-        "url": "https://open.spotify.com/album/3HpHW9r9grbAHVflpDttMU"
+        "name": "These Nights",
+        "url": "https://open.spotify.com/album/46G6H4DrWjY5nn046NEQt7"
       },
       "artists": [
         {
-          "name": "Zeeba",
-          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
-        },
-        {
-          "name": "Izzy Bizu",
-          "url": "https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ"
-        },
-        {
-          "name": "Avi Snow",
-          "url": "https://open.spotify.com/artist/5pW2lVGlbVSVWi9086Xjfu"
+          "name": "Cannons",
+          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
         }
       ],
-      "duration_ms": 183157,
-      "name": "Downtown",
-      "url": "https://open.spotify.com/track/64RtBPP0NXkUA0N79pDE4P"
+      "duration_ms": 279183,
+      "name": "These Nights",
+      "url": "https://open.spotify.com/track/2X9VQujRvSFqoKGp8Ye6Ms"
     },
     {
       "added_at": "2026-05-21 22:00:17",
@@ -611,22 +627,6 @@
       "duration_ms": 192495,
       "name": "Slow Tonight",
       "url": "https://open.spotify.com/track/2H3L0xj5L4OlYFlRjhJQN5"
-    },
-    {
-      "added_at": "2026-05-21 22:00:17",
-      "album": {
-        "name": "These Nights",
-        "url": "https://open.spotify.com/album/46G6H4DrWjY5nn046NEQt7"
-      },
-      "artists": [
-        {
-          "name": "Cannons",
-          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
-        }
-      ],
-      "duration_ms": 279183,
-      "name": "These Nights",
-      "url": "https://open.spotify.com/track/2X9VQujRvSFqoKGp8Ye6Ms"
     },
     {
       "added_at": "2026-05-21 22:00:17",
@@ -907,6 +907,30 @@
     {
       "added_at": "2026-05-21 22:00:17",
       "album": {
+        "name": "All The Feels",
+        "url": "https://open.spotify.com/album/04Si32XoV0WYgBMlX6q8xH"
+      },
+      "artists": [
+        {
+          "name": "Tonique & Man",
+          "url": "https://open.spotify.com/artist/42vNl6qfOzdJe4oiTPONpq"
+        },
+        {
+          "name": "Jean Tonique",
+          "url": "https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI"
+        },
+        {
+          "name": "Mi Man",
+          "url": "https://open.spotify.com/artist/2Jj0VBATkPlLpZ37IxUiA7"
+        }
+      ],
+      "duration_ms": 219506,
+      "name": "All The Feels",
+      "url": "https://open.spotify.com/track/0Hj3Q6sxr1U3cT4sJYzlqT"
+    },
+    {
+      "added_at": "2026-05-21 22:00:17",
+      "album": {
         "name": "Promises",
         "url": "https://open.spotify.com/album/5p7wQPXWtiOBVUb6X8BwBA"
       },
@@ -955,22 +979,6 @@
     {
       "added_at": "2026-05-21 22:00:17",
       "album": {
-        "name": "Electronicity",
-        "url": "https://open.spotify.com/album/3WPR5y3pK1RW3GMt9ivjUC"
-      },
-      "artists": [
-        {
-          "name": "Lewis OfMan",
-          "url": "https://open.spotify.com/artist/1hkRfKGoJisJDbo6eSf1pg"
-        }
-      ],
-      "duration_ms": 232373,
-      "name": "Electronicity",
-      "url": "https://open.spotify.com/track/12JADuvXNQXZFwLcfob4QY"
-    },
-    {
-      "added_at": "2026-05-21 22:00:17",
-      "album": {
         "name": "The House That Doesn\u2019t Exist",
         "url": "https://open.spotify.com/album/3KrWKehFGLzIywovhhRoUx"
       },
@@ -987,26 +995,18 @@
     {
       "added_at": "2026-05-21 22:00:17",
       "album": {
-        "name": "All The Feels",
-        "url": "https://open.spotify.com/album/04Si32XoV0WYgBMlX6q8xH"
+        "name": "Electronicity",
+        "url": "https://open.spotify.com/album/3WPR5y3pK1RW3GMt9ivjUC"
       },
       "artists": [
         {
-          "name": "Tonique & Man",
-          "url": "https://open.spotify.com/artist/42vNl6qfOzdJe4oiTPONpq"
-        },
-        {
-          "name": "Jean Tonique",
-          "url": "https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI"
-        },
-        {
-          "name": "Mi Man",
-          "url": "https://open.spotify.com/artist/2Jj0VBATkPlLpZ37IxUiA7"
+          "name": "Lewis OfMan",
+          "url": "https://open.spotify.com/artist/1hkRfKGoJisJDbo6eSf1pg"
         }
       ],
-      "duration_ms": 219506,
-      "name": "All The Feels",
-      "url": "https://open.spotify.com/track/0Hj3Q6sxr1U3cT4sJYzlqT"
+      "duration_ms": 232373,
+      "name": "Electronicity",
+      "url": "https://open.spotify.com/track/12JADuvXNQXZFwLcfob4QY"
     },
     {
       "added_at": "2026-05-21 22:00:17",

@@ -4661,6 +4661,28 @@
     },
     {
       "album": {
+        "name": "Bermuda Triangle",
+        "url": "https://open.spotify.com/album/6a7nrbUhXwFEJQ1xWCbNnh"
+      },
+      "artists": [
+        {
+          "name": "Cheema Y",
+          "url": "https://open.spotify.com/artist/0uOUeC51AxGnP6hB8gurwt"
+        },
+        {
+          "name": "Gur Sidhu",
+          "url": "https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5"
+        }
+      ],
+      "date_added": "2026-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "CEO",
+      "url": "https://open.spotify.com/track/1EffuiWpbTNLvEhr6dSQCM"
+    },
+    {
+      "album": {
         "name": "Chaand Baaliyan",
         "url": "https://open.spotify.com/album/6AJaDEafyyyWWXHZQtcFGe"
       },
@@ -4712,7 +4734,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 304899,
       "name": "Chahun Main Ya Naa (From \"Aashiqui 2\")",
       "url": "https://open.spotify.com/track/7Imk0IG6S5GA5iYWkjmMW5"
@@ -11948,6 +11970,28 @@
       "duration_ms": 192228,
       "name": "Jab Koi Baat - Recreated",
       "url": "https://open.spotify.com/track/43GfQ1SC17rBWiHkOtdwK8"
+    },
+    {
+      "album": {
+        "name": "Bermuda Triangle",
+        "url": "https://open.spotify.com/album/6a7nrbUhXwFEJQ1xWCbNnh"
+      },
+      "artists": [
+        {
+          "name": "Cheema Y",
+          "url": "https://open.spotify.com/artist/0uOUeC51AxGnP6hB8gurwt"
+        },
+        {
+          "name": "Gur Sidhu",
+          "url": "https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5"
+        }
+      ],
+      "date_added": "2026-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Jackpot",
+      "url": "https://open.spotify.com/track/0JOAMHwHFGKbPOwfM26fL7"
     },
     {
       "album": {
@@ -21814,7 +21858,7 @@
       ],
       "date_added": "2023-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 243578,
       "name": "Raabta",
       "url": "https://open.spotify.com/track/6FjbAnaPRPwiP3sciEYctO"
@@ -26142,7 +26186,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 309640,
       "name": "Tere Bina",
       "url": "https://open.spotify.com/track/37j9F77SglsxJruWdGUxIY"
@@ -26172,7 +26216,7 @@
       ],
       "date_added": "2025-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-25",
+      "date_removed": null,
       "duration_ms": 309640,
       "name": "Tere Bina",
       "url": "https://open.spotify.com/track/4FeczSomVWVyU4FW7xDeAI"
@@ -26574,7 +26618,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-25",
+      "date_removed": null,
       "duration_ms": 323520,
       "name": "Teri Deewani",
       "url": "https://open.spotify.com/track/2iNqdCchlUZEgjJbQyZf8T"
@@ -26600,7 +26644,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 323520,
       "name": "Teri Deewani",
       "url": "https://open.spotify.com/track/4IgRZYozl466yNlOnf8qRO"

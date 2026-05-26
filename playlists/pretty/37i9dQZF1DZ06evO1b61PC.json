@@ -1,12 +1,12 @@
 {
   "description": "This is Jai Wolf. The essential tracks, all in one playlist.",
-  "num_followers": 11388,
+  "num_followers": 11387,
   "original_name": "This Is Jai Wolf",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahDuAAAAAAAfxDv/wWqrWSFIxPzcNPFG",
+  "snapshot_id": "ahI/gAAAAAAHKubKBpHT4d9ky/Felhrz",
   "tracks": [
     {
       "added_at": null,
@@ -103,26 +103,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Afterlife",
-        "url": "https://open.spotify.com/album/5FvZBcWlokND0Y5fKcf85c"
-      },
-      "artists": [
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        },
-        {
-          "name": "Linney",
-          "url": "https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb"
-        }
-      ],
-      "duration_ms": 184163,
-      "name": "Afterlife",
-      "url": "https://open.spotify.com/track/1IATy9AtXQ96BqOAncqaal"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Cure To Loneliness",
         "url": "https://open.spotify.com/album/4xC8keq1HPNhkS1qMbLPjF"
       },
@@ -139,6 +119,26 @@
       "duration_ms": 258546,
       "name": "Lose My Mind (feat. Mr Gabriel)",
       "url": "https://open.spotify.com/track/7uPjBx5Dx46WXbSvnfkpbH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Afterlife",
+        "url": "https://open.spotify.com/album/5FvZBcWlokND0Y5fKcf85c"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        },
+        {
+          "name": "Linney",
+          "url": "https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb"
+        }
+      ],
+      "duration_ms": 184163,
+      "name": "Afterlife",
+      "url": "https://open.spotify.com/track/1IATy9AtXQ96BqOAncqaal"
     },
     {
       "added_at": null,
@@ -259,26 +259,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "trilogy remixes",
-        "url": "https://open.spotify.com/album/05H1dRhfSFcuWW1HD5Nama"
-      },
-      "artists": [
-        {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
-        },
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        }
-      ],
-      "duration_ms": 202666,
-      "name": "blue - Jai Wolf Remix",
-      "url": "https://open.spotify.com/track/0qoPwaD8mJz5tlfPF0hO2t"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lost (feat. Chelsea Jade)",
         "url": "https://open.spotify.com/album/6Vf8EPxLHlNIbOKGc2RKjH"
       },
@@ -295,6 +275,26 @@
       "duration_ms": 241040,
       "name": "Lost (feat. Chelsea Jade)",
       "url": "https://open.spotify.com/track/74QUrsUibuADACTNB14F1p"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "trilogy remixes",
+        "url": "https://open.spotify.com/album/05H1dRhfSFcuWW1HD5Nama"
+      },
+      "artists": [
+        {
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+        },
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        }
+      ],
+      "duration_ms": 202666,
+      "name": "blue - Jai Wolf Remix",
+      "url": "https://open.spotify.com/track/0qoPwaD8mJz5tlfPF0hO2t"
     },
     {
       "added_at": null,
@@ -319,6 +319,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Cure To Loneliness",
+        "url": "https://open.spotify.com/album/4xC8keq1HPNhkS1qMbLPjF"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        }
+      ],
+      "duration_ms": 229906,
+      "name": "Telepathy",
+      "url": "https://open.spotify.com/track/4q0OWYe7JIElF8lPaARHki"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Vertigo",
         "url": "https://open.spotify.com/album/4enJwfK8u2T1Z8OjOs26n5"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 182571,
       "name": "Vertigo",
       "url": "https://open.spotify.com/track/11h1KwP4Ii4ASDUxY9zpMg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Cure To Loneliness",
-        "url": "https://open.spotify.com/album/4xC8keq1HPNhkS1qMbLPjF"
-      },
-      "artists": [
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        }
-      ],
-      "duration_ms": 229906,
-      "name": "Telepathy",
-      "url": "https://open.spotify.com/track/4q0OWYe7JIElF8lPaARHki"
     },
     {
       "added_at": null,
@@ -399,6 +399,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Cure To Loneliness",
+        "url": "https://open.spotify.com/album/4xC8keq1HPNhkS1qMbLPjF"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        }
+      ],
+      "duration_ms": 286013,
+      "name": "Still Sleeping",
+      "url": "https://open.spotify.com/track/6slUs93MR48yfKjMlKz0UC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nothing Left To Lose",
         "url": "https://open.spotify.com/album/3BAKHZSPd3BVA9WccLo78l"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 180847,
       "name": "Looper",
       "url": "https://open.spotify.com/track/5tlWfIu4uaZthTMj7xKw8d"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Cure To Loneliness",
-        "url": "https://open.spotify.com/album/4xC8keq1HPNhkS1qMbLPjF"
-      },
-      "artists": [
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        }
-      ],
-      "duration_ms": 286013,
-      "name": "Still Sleeping",
-      "url": "https://open.spotify.com/track/6slUs93MR48yfKjMlKz0UC"
     },
     {
       "added_at": null,
@@ -475,6 +475,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Cure To Loneliness",
+        "url": "https://open.spotify.com/album/4xC8keq1HPNhkS1qMbLPjF"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        }
+      ],
+      "duration_ms": 176266,
+      "name": "It All Started With A Feeling",
+      "url": "https://open.spotify.com/track/4kcSs54jWjtJW5jRSfUz2q"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Drive",
         "url": "https://open.spotify.com/album/7hXfoE3qu0f1EOM1i5F7C4"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 298666,
       "name": "Drive",
       "url": "https://open.spotify.com/track/6uV2UyK8nCCTf4O510zrd8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Cure To Loneliness",
-        "url": "https://open.spotify.com/album/4xC8keq1HPNhkS1qMbLPjF"
-      },
-      "artists": [
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        }
-      ],
-      "duration_ms": 176266,
-      "name": "It All Started With A Feeling",
-      "url": "https://open.spotify.com/track/4kcSs54jWjtJW5jRSfUz2q"
     },
     {
       "added_at": null,
@@ -551,6 +551,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Cure To Loneliness",
+        "url": "https://open.spotify.com/album/4xC8keq1HPNhkS1qMbLPjF"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        }
+      ],
+      "duration_ms": 234813,
+      "name": "This Song Reminds Me Of You",
+      "url": "https://open.spotify.com/track/0pBUqvtpmhEqFxuhQLur8P"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "When I Fall Asleep (with Jai Wolf)",
         "url": "https://open.spotify.com/album/6Cx9GyscK87SElrrtHJd8u"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 193984,
       "name": "When I Fall Asleep (with Jai Wolf)",
       "url": "https://open.spotify.com/track/4tAoeWXn57YwKRNgSc6cBn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Cure To Loneliness",
-        "url": "https://open.spotify.com/album/4xC8keq1HPNhkS1qMbLPjF"
-      },
-      "artists": [
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        }
-      ],
-      "duration_ms": 234813,
-      "name": "This Song Reminds Me Of You",
-      "url": "https://open.spotify.com/track/0pBUqvtpmhEqFxuhQLur8P"
     },
     {
       "added_at": null,
@@ -715,6 +715,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Cure To Loneliness (5 Year Anniversary Deluxe)",
+        "url": "https://open.spotify.com/album/33grfTaPLm4SqiDAavBFFv"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        }
+      ],
+      "duration_ms": 294034,
+      "name": "Half Hearted - Demo",
+      "url": "https://open.spotify.com/track/6gJE6XB52DP0TefBjpO3fh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Easy For Me (Jai Wolf Club Babu Remix)",
         "url": "https://open.spotify.com/album/1fKNCfgQCgQkjwV0tMYbfY"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 229928,
       "name": "In The End - Jai Wolf Club Babu Remix",
       "url": "https://open.spotify.com/track/2fdN9YHdCMXdstUqmHAQUS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Cure To Loneliness (5 Year Anniversary Deluxe)",
-        "url": "https://open.spotify.com/album/33grfTaPLm4SqiDAavBFFv"
-      },
-      "artists": [
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        }
-      ],
-      "duration_ms": 294034,
-      "name": "Half Hearted - Demo",
-      "url": "https://open.spotify.com/track/6gJE6XB52DP0TefBjpO3fh"
     },
     {
       "added_at": null,

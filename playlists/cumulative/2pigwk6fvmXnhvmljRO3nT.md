@@ -4,7 +4,7 @@
 
 > 
 
-8,634 songs - 22 day 0 hr 1 min
+8,636 songs - 22 day 0 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4263,6 +4263,7 @@
 | [Money](https://open.spotify.com/track/3VIJBrMpvimHEw5wtPh2wB) | [The Drums](https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu) | [Portamento](https://open.spotify.com/album/4I7uuSfSkHKJjrr1vpu4mi) | 3:53 | 2025-01-03 |  |
 | [Money for Nothing](https://open.spotify.com/track/4yqtwO7MQIIXqoiRBPHAgR) | [Dire Straits](https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T) | [Brothers in Arms](https://open.spotify.com/album/7jvcSnCnugLcisBCNBm60s) | 8:26 | 2025-04-22 |  |
 | [Money In The Grave \(Drake ft\. Rick Ross\)](https://open.spotify.com/track/5ry2OE6R2zPQFDO85XkgRb) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [The Best In The World Pack](https://open.spotify.com/album/00HZxSA1sOS9T3nA950sg4) | 3:25 | 2025-01-03 |  |
+| [Money In The Grave x Last Christmas](https://open.spotify.com/track/7iGnm17hsZuhYQAGOukDux) | [Dorthy Kosmicki](https://open.spotify.com/artist/6InM4BGpjYuayjdHKfcCEH) | [Money In The Grave x Last Christmas](https://open.spotify.com/album/4PWOvP5VKJaNLd78vDD95u) | 2:56 | 2026-05-25 |  |
 | [Money Longer](https://open.spotify.com/track/0B8QzDH7YWih85V5SEMnyJ) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Lil Uzi Vert vs\. The World](https://open.spotify.com/album/7mgdTKTCdfnLoa1HXHvLYM) | 3:18 | 2025-01-03 |  |
 | [Money Man \(feat\. A$AP Rocky, A$AP Nast & Yung Lord\)](https://open.spotify.com/track/0foRpYmPs9PHIAMyXa5bTc) | [A$AP Mob](https://open.spotify.com/artist/7yO4IdJjCEPz7YgZMe25iS), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [A$AP NAST](https://open.spotify.com/artist/1uLYUm2A6kpFYAECfAFoH1), [Yung Lord](https://open.spotify.com/artist/7sqeOFdcvEUprvvEcLMYHO) | [Cozy Tapes: Vol\. 1 Friends \-](https://open.spotify.com/album/3RaACfwYTY9uiDy3VSWLLc) | 3:32 | 2024-12-05 |  |
 | [Money On My Mind](https://open.spotify.com/track/6Y6f7LSvHxUA61ItYiSMKE) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Tha Carter II](https://open.spotify.com/album/7slHgsEMuJfnuft5LAPyw6) | 4:31 | 2025-03-07 |  |
@@ -5692,6 +5693,7 @@
 | [Shooting Stars](https://open.spotify.com/track/1FoUJkjr1Y1PswDmHFV0nT) | [KARUT](https://open.spotify.com/artist/2RVXnU56kIClg1UbAW9ehz) | [Blue Archive 1st Anniversary \(Original Soundtrack\)](https://open.spotify.com/album/1SSgN0kVcWjFGkqMq8zdvz) | 1:56 | 2025-03-08 |  |
 | [Shooting Stars](https://open.spotify.com/track/40ylzMzusmG45S4bdDSnPz) | [KARUT](https://open.spotify.com/artist/2RVXnU56kIClg1UbAW9ehz) | [Blue Archive Original Soundtrack \(Vol.1 \~Longing for the memorable days\~\)](https://open.spotify.com/album/0BTiFYoYsuKefaM1HIQqCC) | 1:56 | 2025-03-08 |  |
 | [Shot You Down \(feat\. Jay Rock & ScHoolboy Q\)](https://open.spotify.com/track/01wKeKPgYxdPYA8rfMveYc) | [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM), [Jay Rock](https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3), [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [Cilvia Demo](https://open.spotify.com/album/6JF49ixyHmOgS0Rsda2k42) | 7:06 | 2025-01-03 |  |
+| [Shotta Flow](https://open.spotify.com/track/0VB3YI0Dl6TT3C7mIbHTs4) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Cottonwood](https://open.spotify.com/album/6li8kT6o9RM59IxRyZZJYh) | 2:40 | 2026-05-25 |  |
 | [sHouLd i B?](https://open.spotify.com/track/5lrorOJfDv5rGUKqLDKqo8) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Let’s Start Here.](https://open.spotify.com/album/6Per97deaWqrJlKQNX8RGK) | 2:48 | 2025-01-03 |  |
 | [shoulder](https://open.spotify.com/track/5J4URo0fvllD1FhBor1aY3) | [redveil](https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM), [Mekdelawit](https://open.spotify.com/artist/1NcsV1B4Nbno7guwy9wN1b), [Renaissance Mic](https://open.spotify.com/artist/0hGQfzbMfJjsclb1f1eogV) | [learn 2 swim](https://open.spotify.com/album/6UMelDEJAzDUlgUi9VxPFf) | 4:03 | 2025-01-15 |  |
 | [Shouldn't Have…](https://open.spotify.com/track/328QkpGncEcQWJj6NSCqDJ) | [Baek A Yeon](https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX), [Young K](https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe) | [Shouldn't Have…](https://open.spotify.com/album/663N3uMMM5eAj8Fh6KCvny) | 3:32 | 2025-03-24 |  |

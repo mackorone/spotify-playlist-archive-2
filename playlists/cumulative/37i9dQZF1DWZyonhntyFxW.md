@@ -2,7 +2,7 @@
 
 ### [ملوك السين](https://open.spotify.com/playlist/37i9dQZF1DWZyonhntyFxW)
 
-> أقوى تراكات الهيب هوب في مصر\. الغلاف: ليجي\-سي
+> أقوى تراكات الهيب هوب في مصر\. الغلاف: موند
 
 468 songs - 22 hr 45 min
 

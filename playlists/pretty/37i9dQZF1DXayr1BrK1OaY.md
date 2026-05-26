@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayr1BrK1OaY.md) - [plain]
 
 > let the dj set u free ❤️‍🩹
 
-[Spotify](https://open.spotify.com/user/spotify) - 852,629 likes - 125 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 852,647 likes - 125 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,9 +62,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayr1BrK1OaY.md) - [plain]
 | 52 | [I Hear No More](https://open.spotify.com/track/3oY5EVIaukufx6K7FNoNLK) | [Lumine](https://open.spotify.com/artist/2ZdXzNlryuJP0pnFn8CMAr), [Gino Ingrosso](https://open.spotify.com/artist/4hXieI14EhBCUy3h4y4hNu) | [I Hear No More](https://open.spotify.com/album/638b3Yd7HPTBCs9azC2Abo) | 2:47 |
 | 53 | [afters](https://open.spotify.com/track/1V9QgIqKy6Z24EKGgTpfws) | [Sonnee](https://open.spotify.com/artist/2QmItUyhRFr5NBHFTVOBxr), [Malaki](https://open.spotify.com/artist/6DWp3hFGq7c3nyQ3AT7RDF) | [afters](https://open.spotify.com/album/3A8zjiT2srTevPGcvrNf2j) | 2:47 |
 | 54 | [How Do You Know](https://open.spotify.com/track/4hRFcF6Ck7ng8cD8O14A9u) | [Albi](https://open.spotify.com/artist/7AANDBs83JY3hFkYl7T3kk), [Olivia Rose](https://open.spotify.com/artist/0TiRArM5MxSef6ntzpRWoK) | [How Do You Know](https://open.spotify.com/album/0haYGL3NdhAHygemXiqAzo) | 2:44 |
-| 55 | [Say No Prayer](https://open.spotify.com/track/3k9EAHWqEmKgPqsHUKNKOV) | [oskar med k](https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [Say No Prayer](https://open.spotify.com/album/6GyxOBOOGtlJMZzbyJ6vEc) | 2:29 |
+| 55 | [LEAVE IT ALL BEHIND](https://open.spotify.com/track/6UTUFQdLHBHKpvKDGqFwMq) | [Alex LeMirage](https://open.spotify.com/artist/2fYtH8OoLTeDIicmFH9dNu) | [LEAVE IT ALL BEHIND](https://open.spotify.com/album/6Y9HX9UwK5M6pwICoHkTNA) | 3:01 |
 | 56 | [Ventricle](https://open.spotify.com/track/6vrVUOH8GBueYVLXXOIlfe) | [Next To Blue](https://open.spotify.com/artist/651bTRrM7AWeYldvSxdHco) | [Ventricle](https://open.spotify.com/album/7JyLPiCcJmpKtndcjGwU87) | 3:34 |
-| 57 | [LEAVE IT ALL BEHIND](https://open.spotify.com/track/6UTUFQdLHBHKpvKDGqFwMq) | [Alex LeMirage](https://open.spotify.com/artist/2fYtH8OoLTeDIicmFH9dNu) | [LEAVE IT ALL BEHIND](https://open.spotify.com/album/6Y9HX9UwK5M6pwICoHkTNA) | 3:01 |
+| 57 | [Say No Prayer](https://open.spotify.com/track/3k9EAHWqEmKgPqsHUKNKOV) | [oskar med k](https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [Say No Prayer](https://open.spotify.com/album/6GyxOBOOGtlJMZzbyJ6vEc) | 2:29 |
 | 58 | [BROKEN](https://open.spotify.com/track/3n4FkCfKlscDqYPMcTBdXm) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [BROKEN](https://open.spotify.com/album/1aHlFkhxyz1Yxmb7sgQh24) | 4:31 |
 | 59 | [Hold On](https://open.spotify.com/track/72UYkWkClJ8YS2nGd4HTwV) | [Lucky Rose](https://open.spotify.com/artist/5ShkaitLUorYdZgJMqTF5E), [Faüna](https://open.spotify.com/artist/0lzKARKhaojkklWlFuLpBw) | [Hold On](https://open.spotify.com/album/40vyS2qyr6fTHqj93uTbX1) | 2:34 |
 | 60 | [Be With You](https://open.spotify.com/track/37Pz8jknbqdEudUXwgcmKQ) | [Aria Ohlsson](https://open.spotify.com/artist/4hFc1FC8qA7XFF1XrTwlsJ) | [Be With You](https://open.spotify.com/album/41zyGqITTH5ClFk2psfjv1) | 3:28 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayr1BrK1OaY.md) - [plain]
 | 66 | [Not Giving You Up](https://open.spotify.com/track/5s7KszYX1mfvpKA7XCMvfw) | [Rules](https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA) | [Not Giving You Up](https://open.spotify.com/album/5V3TvHdleNDEhSIC4g7IFM) | 2:52 |
 | 67 | [Nobody](https://open.spotify.com/track/6I3vPqMmEv0pjRBxKBnrk7) | [19Clouds](https://open.spotify.com/artist/0AWnGbHpn20wrP1nlFNSnF) | [Nobody](https://open.spotify.com/album/5H9WQRjWS7VmKHQusS3jXW) | 3:46 |
 | 68 | [DESCEND](https://open.spotify.com/track/1w8a2t4KPUD9e5Pv5uFNRP) | [Dezko](https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD) | [DESCEND](https://open.spotify.com/album/3cfa9GsEVzMU1tFt0TkDQY) | 3:40 |
-| 69 | [Tears \(with Paige Cavell\)](https://open.spotify.com/track/2NKwz3gyK8da44pR2ZbiM1) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Paige Cavell](https://open.spotify.com/artist/6K3xqGQiS7BLYG6llkAF24) | [Comfort In Chaos](https://open.spotify.com/album/2pHm3ZP2R3phzCYi7ilGN2) | 3:56 |
-| 70 | [More than enough...](https://open.spotify.com/track/3yKFnRfIRmSHMWMGvjannW) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [More than enough...](https://open.spotify.com/album/51K1isfES8v2BMcKI40kXP) | 3:32 |
+| 69 | [More than enough...](https://open.spotify.com/track/3yKFnRfIRmSHMWMGvjannW) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [More than enough...](https://open.spotify.com/album/51K1isfES8v2BMcKI40kXP) | 3:32 |
+| 70 | [Tears \(with Paige Cavell\)](https://open.spotify.com/track/2NKwz3gyK8da44pR2ZbiM1) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Paige Cavell](https://open.spotify.com/artist/6K3xqGQiS7BLYG6llkAF24) | [Comfort In Chaos](https://open.spotify.com/album/2pHm3ZP2R3phzCYi7ilGN2) | 3:56 |
 | 71 | [Take My Space](https://open.spotify.com/track/3cIbR7s1wSEhesuYLRD9ij) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV) | [Take My Space](https://open.spotify.com/album/62SfUalXptRGizTRybkeXH) | 2:23 |
 | 72 | [Nothing Left](https://open.spotify.com/track/7GQNTnBqlAPa3lQMWeIvUa) | [Rules](https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA), [Coldabank](https://open.spotify.com/artist/3JOvRLynmP4mA6dvlWARoA), [SHYA](https://open.spotify.com/artist/3bUHVz55uXLTtxggKQyXIO) | [Nothing Left](https://open.spotify.com/album/4DD6FbOoiOaBbLx6yGFJuS) | 3:00 |
 | 73 | [Only Friends](https://open.spotify.com/track/15a30YqNPApO8OS0RpqNND) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j) | [Only Friends](https://open.spotify.com/album/02Ood2KFnCMgpQY6SCL9YC) | 2:38 |

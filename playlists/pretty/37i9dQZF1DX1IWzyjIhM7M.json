@@ -1,6 +1,6 @@
 {
   "description": "Our editors' picks of best tracks of 2023 by independent, developing artists from around the world. Cover: Searows\n",
-  "num_followers": 10218,
+  "num_followers": 10221,
   "original_name": "Fresh Finds: Class of 2023",
   "owner": {
     "name": "Spotify",
@@ -67,22 +67,6 @@
     {
       "added_at": "2024-01-10 16:06:35",
       "album": {
-        "name": "Good Vibrations",
-        "url": "https://open.spotify.com/album/6OsiBdHNt2qPmSY06HYQYF"
-      },
-      "artists": [
-        {
-          "name": "Nectar Woode",
-          "url": "https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK"
-        }
-      ],
-      "duration_ms": 229444,
-      "name": "Good Vibrations",
-      "url": "https://open.spotify.com/track/3b1LOYktJgqGoy3QMyhOCk"
-    },
-    {
-      "added_at": "2024-01-10 16:06:35",
-      "album": {
         "name": "Tu hai kahan",
         "url": "https://open.spotify.com/album/73vfz6Szer7i3GFIesix6l"
       },
@@ -95,6 +79,22 @@
       "duration_ms": 263184,
       "name": "Tu hai kahan",
       "url": "https://open.spotify.com/track/3zSSCPpLZ5Oc8nelhhGjKz"
+    },
+    {
+      "added_at": "2024-01-10 16:06:35",
+      "album": {
+        "name": "Good Vibrations",
+        "url": "https://open.spotify.com/album/6OsiBdHNt2qPmSY06HYQYF"
+      },
+      "artists": [
+        {
+          "name": "Nectar Woode",
+          "url": "https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK"
+        }
+      ],
+      "duration_ms": 229444,
+      "name": "Good Vibrations",
+      "url": "https://open.spotify.com/track/3b1LOYktJgqGoy3QMyhOCk"
     },
     {
       "added_at": "2024-01-10 16:06:35",
@@ -527,18 +527,18 @@
     {
       "added_at": "2024-01-10 16:06:35",
       "album": {
-        "name": "Weird",
-        "url": "https://open.spotify.com/album/7n95zSWEhljBwhZnbteffk"
+        "name": "Advantage",
+        "url": "https://open.spotify.com/album/7A7pDwj28Ak57XiZeaUzPb"
       },
       "artists": [
         {
-          "name": "Hana Eid",
-          "url": "https://open.spotify.com/artist/4F6hNOg84kZIkE5LvLYOsr"
+          "name": "MiLES.",
+          "url": "https://open.spotify.com/artist/4Mt0UzpAedYJYAvDMNjx2I"
         }
       ],
-      "duration_ms": 216234,
-      "name": "Weird",
-      "url": "https://open.spotify.com/track/6fDLQn0vtJR94V55oBANZC"
+      "duration_ms": 205813,
+      "name": "Advantage",
+      "url": "https://open.spotify.com/track/4vxPfYUYtMNn3pCIjsIMG0"
     },
     {
       "added_at": "2024-01-10 16:06:35",
@@ -559,18 +559,18 @@
     {
       "added_at": "2024-01-10 16:06:35",
       "album": {
-        "name": "Advantage",
-        "url": "https://open.spotify.com/album/7A7pDwj28Ak57XiZeaUzPb"
+        "name": "Weird",
+        "url": "https://open.spotify.com/album/7n95zSWEhljBwhZnbteffk"
       },
       "artists": [
         {
-          "name": "MiLES.",
-          "url": "https://open.spotify.com/artist/4Mt0UzpAedYJYAvDMNjx2I"
+          "name": "Hana Eid",
+          "url": "https://open.spotify.com/artist/4F6hNOg84kZIkE5LvLYOsr"
         }
       ],
-      "duration_ms": 205813,
-      "name": "Advantage",
-      "url": "https://open.spotify.com/track/4vxPfYUYtMNn3pCIjsIMG0"
+      "duration_ms": 216234,
+      "name": "Weird",
+      "url": "https://open.spotify.com/track/6fDLQn0vtJR94V55oBANZC"
     },
     {
       "added_at": "2024-01-10 16:06:35",
@@ -803,22 +803,6 @@
     {
       "added_at": "2024-01-10 16:06:35",
       "album": {
-        "name": "Same Streets But I Don't See You Around",
-        "url": "https://open.spotify.com/album/5ZjT9pDdMBwGByS0DBRPZg"
-      },
-      "artists": [
-        {
-          "name": "Jasmine Jethwa",
-          "url": "https://open.spotify.com/artist/6FLqwgd1Ks0JvEmqpewIpv"
-        }
-      ],
-      "duration_ms": 173196,
-      "name": "Have I Ever Been",
-      "url": "https://open.spotify.com/track/2myy3lzRU87HPV9Gxs9ddQ"
-    },
-    {
-      "added_at": "2024-01-10 16:06:35",
-      "album": {
         "name": "Raining Tomorrow",
         "url": "https://open.spotify.com/album/3bG5fjCjRBLHq0b6p2oGBY"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 228484,
       "name": "Raining Tomorrow",
       "url": "https://open.spotify.com/track/6CBBTbmqTTSCzkSyfpUs8n"
+    },
+    {
+      "added_at": "2024-01-10 16:06:35",
+      "album": {
+        "name": "Same Streets But I Don't See You Around",
+        "url": "https://open.spotify.com/album/5ZjT9pDdMBwGByS0DBRPZg"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Jethwa",
+          "url": "https://open.spotify.com/artist/6FLqwgd1Ks0JvEmqpewIpv"
+        }
+      ],
+      "duration_ms": 173196,
+      "name": "Have I Ever Been",
+      "url": "https://open.spotify.com/track/2myy3lzRU87HPV9Gxs9ddQ"
     },
     {
       "added_at": "2024-01-10 16:06:35",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2024-01-10 16:06:35",
       "album": {
+        "name": "setar rock",
+        "url": "https://open.spotify.com/album/0sLE1MoYzMM6JgwuJR6Nzb"
+      },
+      "artists": [
+        {
+          "name": "Maral",
+          "url": "https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG"
+        }
+      ],
+      "duration_ms": 240250,
+      "name": "setar rock",
+      "url": "https://open.spotify.com/track/6MvywXbpxt5tYk1a5cA0rb"
+    },
+    {
+      "added_at": "2024-01-10 16:06:35",
+      "album": {
         "name": "Supply/Demand",
         "url": "https://open.spotify.com/album/71boRaJnmsU6419GQP4yBd"
       },
@@ -1231,22 +1247,6 @@
     {
       "added_at": "2024-01-10 16:06:35",
       "album": {
-        "name": "setar rock",
-        "url": "https://open.spotify.com/album/0sLE1MoYzMM6JgwuJR6Nzb"
-      },
-      "artists": [
-        {
-          "name": "Maral",
-          "url": "https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG"
-        }
-      ],
-      "duration_ms": 240250,
-      "name": "setar rock",
-      "url": "https://open.spotify.com/track/6MvywXbpxt5tYk1a5cA0rb"
-    },
-    {
-      "added_at": "2024-01-10 16:06:35",
-      "album": {
         "name": "styrofoam",
         "url": "https://open.spotify.com/album/0gSptDCMS0E8RuYLGr7WML"
       },
@@ -1259,22 +1259,6 @@
       "duration_ms": 184221,
       "name": "styrofoam",
       "url": "https://open.spotify.com/track/1ZakuNLOHhoPOlMjCNG5w9"
-    },
-    {
-      "added_at": "2024-01-10 16:06:35",
-      "album": {
-        "name": "She's Got Wings",
-        "url": "https://open.spotify.com/album/6ytsoe46SEx2xuQKkb9dGT"
-      },
-      "artists": [
-        {
-          "name": "Dipper",
-          "url": "https://open.spotify.com/artist/1FlF6uL7RBozryZZKSTOs5"
-        }
-      ],
-      "duration_ms": 206732,
-      "name": "She's Got Wings",
-      "url": "https://open.spotify.com/track/0T55onEUiLPP9GJ4mCJngr"
     },
     {
       "added_at": "2024-01-10 16:06:35",
@@ -1295,22 +1279,18 @@
     {
       "added_at": "2024-01-10 16:06:35",
       "album": {
-        "name": "Lose You - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/3MmtbPCisizJovsDUBQ1md"
+        "name": "She's Got Wings",
+        "url": "https://open.spotify.com/album/6ytsoe46SEx2xuQKkb9dGT"
       },
       "artists": [
         {
-          "name": "UNA MIA",
-          "url": "https://open.spotify.com/artist/0wWj7u5D7ksVZp8qVuCuz0"
-        },
-        {
-          "name": "COLORS",
-          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
+          "name": "Dipper",
+          "url": "https://open.spotify.com/artist/1FlF6uL7RBozryZZKSTOs5"
         }
       ],
-      "duration_ms": 199454,
-      "name": "Lose You - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/3QfI3tTncp1CjYLMypO2vA"
+      "duration_ms": 206732,
+      "name": "She's Got Wings",
+      "url": "https://open.spotify.com/track/0T55onEUiLPP9GJ4mCJngr"
     },
     {
       "added_at": "2024-01-10 16:06:35",
@@ -1327,6 +1307,26 @@
       "duration_ms": 231138,
       "name": "Colder in June",
       "url": "https://open.spotify.com/track/11ElSTjEBTXx3fGjSGphi5"
+    },
+    {
+      "added_at": "2024-01-10 16:06:35",
+      "album": {
+        "name": "Lose You - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/3MmtbPCisizJovsDUBQ1md"
+      },
+      "artists": [
+        {
+          "name": "UNA MIA",
+          "url": "https://open.spotify.com/artist/0wWj7u5D7ksVZp8qVuCuz0"
+        },
+        {
+          "name": "COLORS",
+          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
+        }
+      ],
+      "duration_ms": 199454,
+      "name": "Lose You - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/3QfI3tTncp1CjYLMypO2vA"
     },
     {
       "added_at": "2024-01-10 16:06:35",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2024-01-10 16:06:35",
       "album": {
-        "name": "what u like",
-        "url": "https://open.spotify.com/album/1j0dMjslAqM7ThtxAlcZpo"
-      },
-      "artists": [
-        {
-          "name": "Drewbyrd",
-          "url": "https://open.spotify.com/artist/67kmAPaXes2HLVDJphvWMH"
-        }
-      ],
-      "duration_ms": 168621,
-      "name": "what u like",
-      "url": "https://open.spotify.com/track/2cwSt9hOew2yfR3RMxDcHD"
-    },
-    {
-      "added_at": "2024-01-10 16:06:35",
-      "album": {
         "name": "Outside",
         "url": "https://open.spotify.com/album/4pWieE77CDQHT2UKff0WEy"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 147692,
       "name": "After The Day Party",
       "url": "https://open.spotify.com/track/2dYxccZjun7pzA4npfbKfb"
+    },
+    {
+      "added_at": "2024-01-10 16:06:35",
+      "album": {
+        "name": "what u like",
+        "url": "https://open.spotify.com/album/1j0dMjslAqM7ThtxAlcZpo"
+      },
+      "artists": [
+        {
+          "name": "Drewbyrd",
+          "url": "https://open.spotify.com/artist/67kmAPaXes2HLVDJphvWMH"
+        }
+      ],
+      "duration_ms": 168621,
+      "name": "what u like",
+      "url": "https://open.spotify.com/track/2cwSt9hOew2yfR3RMxDcHD"
     },
     {
       "added_at": "2024-01-10 16:06:35",

@@ -1,12 +1,12 @@
 {
   "description": "This is Victor Ray. The essential tracks, all in one playlist.",
-  "num_followers": 5933,
+  "num_followers": 5931,
   "original_name": "This Is Victor Ray",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahDuAAAAAAAJ8mr8IZIPX0vlsqRBMVOt",
+  "snapshot_id": "ahI/gAAAAAAFeu/oehZelUwZ7kIwJm83",
   "tracks": [
     {
       "added_at": null,
@@ -23,22 +23,6 @@
       "duration_ms": 190866,
       "name": "Stay For A While",
       "url": "https://open.spotify.com/track/6EtcuY72Byjg0BatJog9GM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Comfortable",
-        "url": "https://open.spotify.com/album/6k8uoIKgs0Qu2CuhNPMN6s"
-      },
-      "artists": [
-        {
-          "name": "Victor Ray",
-          "url": "https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ"
-        }
-      ],
-      "duration_ms": 228961,
-      "name": "Comfortable",
-      "url": "https://open.spotify.com/track/1BEioZa6o8AVDmOh5Sc86j"
     },
     {
       "added_at": null,
@@ -63,6 +47,22 @@
       "duration_ms": 142135,
       "name": "Space",
       "url": "https://open.spotify.com/track/43Gw9Yd4mYtpJ1AHFA00oY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Comfortable",
+        "url": "https://open.spotify.com/album/6k8uoIKgs0Qu2CuhNPMN6s"
+      },
+      "artists": [
+        {
+          "name": "Victor Ray",
+          "url": "https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ"
+        }
+      ],
+      "duration_ms": 228961,
+      "name": "Comfortable",
+      "url": "https://open.spotify.com/track/1BEioZa6o8AVDmOh5Sc86j"
     },
     {
       "added_at": null,

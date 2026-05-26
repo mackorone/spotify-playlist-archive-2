@@ -1,6 +1,6 @@
 {
   "description": "easy breezy music \u2600\ufe0f\u263a\ufe0f",
-  "num_followers": 168373,
+  "num_followers": 168367,
   "original_name": "Chill Dance",
   "owner": {
     "name": "Spotify",
@@ -207,6 +207,22 @@
     {
       "added_at": "2026-05-21 22:00:24",
       "album": {
+        "name": "Anywhere You Go",
+        "url": "https://open.spotify.com/album/44ttbL2Fz4egisPoRcNnkk"
+      },
+      "artists": [
+        {
+          "name": "Pastel",
+          "url": "https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO"
+        }
+      ],
+      "duration_ms": 180480,
+      "name": "Anywhere You Go",
+      "url": "https://open.spotify.com/track/6OzdWQeYMHqXsINla4BgP8"
+    },
+    {
+      "added_at": "2026-05-21 22:00:24",
+      "album": {
         "name": "Feel Like It",
         "url": "https://open.spotify.com/album/1KidEC954PkrMmsD1ZOL43"
       },
@@ -223,22 +239,6 @@
       "duration_ms": 140716,
       "name": "Feel Like It",
       "url": "https://open.spotify.com/track/6vej5gKy4oOEXQvovSZA6P"
-    },
-    {
-      "added_at": "2026-05-21 22:00:24",
-      "album": {
-        "name": "Pull Me Away",
-        "url": "https://open.spotify.com/album/59br7b2e3MO4Lw8ClkdjKo"
-      },
-      "artists": [
-        {
-          "name": "Tom Enzy",
-          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
-        }
-      ],
-      "duration_ms": 153000,
-      "name": "Pull Me Away",
-      "url": "https://open.spotify.com/track/6Tee5H62YsZdE7tBIH3Nql"
     },
     {
       "added_at": "2026-05-21 22:00:24",
@@ -267,18 +267,18 @@
     {
       "added_at": "2026-05-21 22:00:24",
       "album": {
-        "name": "Anywhere You Go",
-        "url": "https://open.spotify.com/album/44ttbL2Fz4egisPoRcNnkk"
+        "name": "Pull Me Away",
+        "url": "https://open.spotify.com/album/59br7b2e3MO4Lw8ClkdjKo"
       },
       "artists": [
         {
-          "name": "Pastel",
-          "url": "https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO"
+          "name": "Tom Enzy",
+          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
         }
       ],
-      "duration_ms": 180480,
-      "name": "Anywhere You Go",
-      "url": "https://open.spotify.com/track/6OzdWQeYMHqXsINla4BgP8"
+      "duration_ms": 153000,
+      "name": "Pull Me Away",
+      "url": "https://open.spotify.com/track/6Tee5H62YsZdE7tBIH3Nql"
     },
     {
       "added_at": "2026-05-21 22:00:24",
@@ -671,26 +671,6 @@
     {
       "added_at": "2026-05-21 22:00:24",
       "album": {
-        "name": "Rest Of My Life",
-        "url": "https://open.spotify.com/album/4LD7R2xePKw9LGjjIe8Urq"
-      },
-      "artists": [
-        {
-          "name": "Dela Utca",
-          "url": "https://open.spotify.com/artist/7zOMemJ8954AThsX1LfK4X"
-        },
-        {
-          "name": "SEM",
-          "url": "https://open.spotify.com/artist/0JpJNoSn9W5CtFDzjipKyD"
-        }
-      ],
-      "duration_ms": 154500,
-      "name": "Rest Of My Life",
-      "url": "https://open.spotify.com/track/4dq1p7vkO0hSUpcdfspqrK"
-    },
-    {
-      "added_at": "2026-05-21 22:00:24",
-      "album": {
         "name": "Alone With You",
         "url": "https://open.spotify.com/album/7Jq86ZKuOyQSRTEI0UzAhe"
       },
@@ -711,6 +691,26 @@
       "duration_ms": 208500,
       "name": "Alone With You",
       "url": "https://open.spotify.com/track/61C23J1jduYNQVe69XBupp"
+    },
+    {
+      "added_at": "2026-05-21 22:00:24",
+      "album": {
+        "name": "Rest Of My Life",
+        "url": "https://open.spotify.com/album/4LD7R2xePKw9LGjjIe8Urq"
+      },
+      "artists": [
+        {
+          "name": "Dela Utca",
+          "url": "https://open.spotify.com/artist/7zOMemJ8954AThsX1LfK4X"
+        },
+        {
+          "name": "SEM",
+          "url": "https://open.spotify.com/artist/0JpJNoSn9W5CtFDzjipKyD"
+        }
+      ],
+      "duration_ms": 154500,
+      "name": "Rest Of My Life",
+      "url": "https://open.spotify.com/track/4dq1p7vkO0hSUpcdfspqrK"
     },
     {
       "added_at": "2026-05-21 22:00:24",
@@ -871,30 +871,6 @@
     {
       "added_at": "2026-05-21 22:00:24",
       "album": {
-        "name": "Eyes All Over Mine",
-        "url": "https://open.spotify.com/album/2sin8txJflst7fhouxDKy6"
-      },
-      "artists": [
-        {
-          "name": "Dawty",
-          "url": "https://open.spotify.com/artist/0E4HZTP1Z1d4gOJmWrkZpe"
-        },
-        {
-          "name": "Joshua Robbie",
-          "url": "https://open.spotify.com/artist/63FGE7jdsJPFDjxbMspsfQ"
-        },
-        {
-          "name": "Preston Harris",
-          "url": "https://open.spotify.com/artist/7bHa4QW7xGwlDTHmmIvLV8"
-        }
-      ],
-      "duration_ms": 152943,
-      "name": "Eyes All Over Mine",
-      "url": "https://open.spotify.com/track/2IWHXB8dwvZR8cfdOx172B"
-    },
-    {
-      "added_at": "2026-05-21 22:00:24",
-      "album": {
         "name": "Radiant EP",
         "url": "https://open.spotify.com/album/43ZuCqtg7zu8dhpvZTJVf2"
       },
@@ -927,6 +903,30 @@
       "duration_ms": 129901,
       "name": "Loneliness",
       "url": "https://open.spotify.com/track/3PJbCJqnh9ShH17iE8k8lJ"
+    },
+    {
+      "added_at": "2026-05-21 22:00:24",
+      "album": {
+        "name": "Eyes All Over Mine",
+        "url": "https://open.spotify.com/album/2sin8txJflst7fhouxDKy6"
+      },
+      "artists": [
+        {
+          "name": "Dawty",
+          "url": "https://open.spotify.com/artist/0E4HZTP1Z1d4gOJmWrkZpe"
+        },
+        {
+          "name": "Joshua Robbie",
+          "url": "https://open.spotify.com/artist/63FGE7jdsJPFDjxbMspsfQ"
+        },
+        {
+          "name": "Preston Harris",
+          "url": "https://open.spotify.com/artist/7bHa4QW7xGwlDTHmmIvLV8"
+        }
+      ],
+      "duration_ms": 152943,
+      "name": "Eyes All Over Mine",
+      "url": "https://open.spotify.com/track/2IWHXB8dwvZR8cfdOx172B"
     },
     {
       "added_at": "2026-05-21 22:00:24",
@@ -967,6 +967,26 @@
     {
       "added_at": "2026-05-21 22:00:24",
       "album": {
+        "name": "IYA (In Your Arms)",
+        "url": "https://open.spotify.com/album/0y35B7RSVegNOiOXy2MLVx"
+      },
+      "artists": [
+        {
+          "name": "Bolier",
+          "url": "https://open.spotify.com/artist/65NscqgsoMPqBtoLbkP3jD"
+        },
+        {
+          "name": "Solar State",
+          "url": "https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu"
+        }
+      ],
+      "duration_ms": 152542,
+      "name": "IYA (In Your Arms)",
+      "url": "https://open.spotify.com/track/37lDsKatjqAxlTXb9ZGpFO"
+    },
+    {
+      "added_at": "2026-05-21 22:00:24",
+      "album": {
         "name": "Thinking About Us",
         "url": "https://open.spotify.com/album/3lQeHi7NWwG79z3YPBS23V"
       },
@@ -983,6 +1003,22 @@
       "duration_ms": 173500,
       "name": "Thinking About Us",
       "url": "https://open.spotify.com/track/1mgUDuwZU1tXbnWKKALx6m"
+    },
+    {
+      "added_at": "2026-05-21 22:00:24",
+      "album": {
+        "name": "Somebody Knows",
+        "url": "https://open.spotify.com/album/4fUdu5HvnHpYHPYonFVox5"
+      },
+      "artists": [
+        {
+          "name": "Drove",
+          "url": "https://open.spotify.com/artist/6gqVaWZY9PVt1Lf42j4sZI"
+        }
+      ],
+      "duration_ms": 228099,
+      "name": "Somebody Knows",
+      "url": "https://open.spotify.com/track/6ggn3nOmgJSGnA4FlGQVRc"
     },
     {
       "added_at": "2026-05-21 22:00:24",
@@ -1007,22 +1043,6 @@
       "duration_ms": 152195,
       "name": "Living At The Sea",
       "url": "https://open.spotify.com/track/5LI1FAgKgyU8vmziFY9XhX"
-    },
-    {
-      "added_at": "2026-05-21 22:00:24",
-      "album": {
-        "name": "Somebody Knows",
-        "url": "https://open.spotify.com/album/4fUdu5HvnHpYHPYonFVox5"
-      },
-      "artists": [
-        {
-          "name": "Drove",
-          "url": "https://open.spotify.com/artist/6gqVaWZY9PVt1Lf42j4sZI"
-        }
-      ],
-      "duration_ms": 228099,
-      "name": "Somebody Knows",
-      "url": "https://open.spotify.com/track/6ggn3nOmgJSGnA4FlGQVRc"
     },
     {
       "added_at": "2026-05-21 22:00:24",
@@ -1099,22 +1119,6 @@
     {
       "added_at": "2026-05-21 22:00:24",
       "album": {
-        "name": "Million Dollar Smile",
-        "url": "https://open.spotify.com/album/6ZaCi17yD3AYjAIoKI2pHl"
-      },
-      "artists": [
-        {
-          "name": "Jorden Dux",
-          "url": "https://open.spotify.com/artist/3c62o0pVkqhFkIsclgYcuf"
-        }
-      ],
-      "duration_ms": 148095,
-      "name": "Million Dollar Smile",
-      "url": "https://open.spotify.com/track/2N3S5G1dwo8t1Z3ai6ONHd"
-    },
-    {
-      "added_at": "2026-05-21 22:00:24",
-      "album": {
         "name": "Full Speed",
         "url": "https://open.spotify.com/album/2HzsnkOchlecG4I7smXiyq"
       },
@@ -1135,6 +1139,22 @@
     {
       "added_at": "2026-05-21 22:00:24",
       "album": {
+        "name": "Million Dollar Smile",
+        "url": "https://open.spotify.com/album/6ZaCi17yD3AYjAIoKI2pHl"
+      },
+      "artists": [
+        {
+          "name": "Jorden Dux",
+          "url": "https://open.spotify.com/artist/3c62o0pVkqhFkIsclgYcuf"
+        }
+      ],
+      "duration_ms": 148095,
+      "name": "Million Dollar Smile",
+      "url": "https://open.spotify.com/track/2N3S5G1dwo8t1Z3ai6ONHd"
+    },
+    {
+      "added_at": "2026-05-21 22:00:24",
+      "album": {
         "name": "Someday",
         "url": "https://open.spotify.com/album/4qxBwTSqsUTIy0NnThwvcE"
       },
@@ -1147,26 +1167,6 @@
       "duration_ms": 144412,
       "name": "Someday",
       "url": "https://open.spotify.com/track/3YyyrX4LkrEVTm5rFX3PBG"
-    },
-    {
-      "added_at": "2026-05-21 22:00:24",
-      "album": {
-        "name": "IYA (In Your Arms)",
-        "url": "https://open.spotify.com/album/0y35B7RSVegNOiOXy2MLVx"
-      },
-      "artists": [
-        {
-          "name": "Bolier",
-          "url": "https://open.spotify.com/artist/65NscqgsoMPqBtoLbkP3jD"
-        },
-        {
-          "name": "Solar State",
-          "url": "https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu"
-        }
-      ],
-      "duration_ms": 152542,
-      "name": "IYA (In Your Arms)",
-      "url": "https://open.spotify.com/track/37lDsKatjqAxlTXb9ZGpFO"
     },
     {
       "added_at": "2026-05-21 22:00:24",
@@ -1191,26 +1191,26 @@
     {
       "added_at": "2026-05-21 22:00:24",
       "album": {
-        "name": "Used To Love",
-        "url": "https://open.spotify.com/album/0FDjTnAxUsE0qfcrEAoArb"
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/59T2jCjBGnIFlizQggbrSd"
       },
       "artists": [
         {
-          "name": "The Palm Tree Boy",
-          "url": "https://open.spotify.com/artist/5lB74qNNVibQ8j05ckOWbP"
+          "name": "Deepend",
+          "url": "https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B"
         },
         {
-          "name": "SEM",
-          "url": "https://open.spotify.com/artist/0JpJNoSn9W5CtFDzjipKyD"
+          "name": "LAST CALL",
+          "url": "https://open.spotify.com/artist/2LoibTtixf5tjTYORAxbtN"
         },
         {
-          "name": "Sunflower",
-          "url": "https://open.spotify.com/artist/7o5NxGi8B81v8YfSO6LK5w"
+          "name": "Horxata",
+          "url": "https://open.spotify.com/artist/3QkSqgd7THUtqWlJjL4iRn"
         }
       ],
-      "duration_ms": 133000,
-      "name": "Used To Love",
-      "url": "https://open.spotify.com/track/6MLmmZchetJCwxsefFtSnl"
+      "duration_ms": 152000,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/1KO6Kk23aYLrkmaDIjA4jf"
     }
   ],
   "unique_name": "Chill Dance",

@@ -304,7 +304,7 @@
       ],
       "date_added": "2025-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-31",
+      "date_removed": null,
       "duration_ms": 157355,
       "name": "Bad Boy (with Young Thug)",
       "url": "https://open.spotify.com/track/43CIWpJaJHRcI4mUSjqgc2"
@@ -444,7 +444,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-17",
+      "date_removed": null,
       "duration_ms": 192040,
       "name": "Been Off (feat. Yeat)",
       "url": "https://open.spotify.com/track/1MTsf7pxtcAX2DVDVliJ2L"
@@ -1014,7 +1014,7 @@
       ],
       "date_added": "2025-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 136045,
       "name": "Disagree",
       "url": "https://open.spotify.com/track/0j1oCSyf33qqdmQ49Iro7r"
@@ -1338,7 +1338,7 @@
       ],
       "date_added": "2026-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 217360,
       "name": "Farewell and Goodbye",
       "url": "https://open.spotify.com/track/1A0Vlu1w8HALdhy8eGpMLf"
@@ -1830,7 +1830,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 108437,
       "name": "imposter",
       "url": "https://open.spotify.com/track/14DqYafHROsQH834bFBVbt"
@@ -1884,7 +1884,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-24",
+      "date_removed": null,
       "duration_ms": 143775,
       "name": "Intervals",
       "url": "https://open.spotify.com/track/7q90Gh6UiDVpC2ZGHdaxa9"
@@ -2544,7 +2544,7 @@
       ],
       "date_added": "2026-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 133391,
       "name": "NEED DAT",
       "url": "https://open.spotify.com/track/0CkmV66jmr4APBOJlG6e3h"
@@ -3654,7 +3654,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-25",
+      "date_removed": null,
       "duration_ms": 156815,
       "name": "Straight Forward",
       "url": "https://open.spotify.com/track/5QFebQipvG6fMprVVWlmvo"
@@ -3688,6 +3688,28 @@
       "duration_ms": 120963,
       "name": "Strawberry Rum",
       "url": "https://open.spotify.com/track/6bhhgoqvwKpjMgGlQdggxa"
+    },
+    {
+      "album": {
+        "name": "STRAY",
+        "url": "https://open.spotify.com/album/6Z4EP0qVNPqo3SJiC0P8iW"
+      },
+      "artists": [
+        {
+          "name": "Kabi Xenon",
+          "url": "https://open.spotify.com/artist/2KbQjT3SV75HCqiaQAIpMV"
+        },
+        {
+          "name": "KindlyNxsh",
+          "url": "https://open.spotify.com/artist/10G2iWM2FoafpNGqXZ9QMR"
+        }
+      ],
+      "date_added": "2026-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120039,
+      "name": "STRAY",
+      "url": "https://open.spotify.com/track/7LHUBKe1XBrTRy3RhkaFbR"
     },
     {
       "album": {
@@ -4060,7 +4082,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 211931,
       "name": "Trifling",
       "url": "https://open.spotify.com/track/3wMUXSD6foKvnl9asEbEA4"

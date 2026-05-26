@@ -4,7 +4,7 @@
 
 > If you're blessed!
 
-617 songs - 1 day 17 hr 26 min
+618 songs - 1 day 17 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Adonai](https://open.spotify.com/track/5q4o2JtCVOwoNAxpSkbfIn) | [Spirit of Prophecy](https://open.spotify.com/artist/47QqOqn5ySXFRyTezxJRBF) | [The Spirit of Prophecy](https://open.spotify.com/album/1Kkxf41K8ewlPrmuxOBjOr) | 3:26 | 2025-10-31 | 2026-01-16 |
 | [Again](https://open.spotify.com/track/3dasDAxhQpUu7OPQL1tOye) | [Oyije](https://open.spotify.com/artist/5yyv47kIRS1JBvjBzDOyGa), [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9) | [Again](https://open.spotify.com/album/0dXEeBNXzUCMCrCdFfbe3P) | 2:51 | 2025-06-20 | 2025-07-11 |
 | [Aileyipada](https://open.spotify.com/track/2VMV8JIa71bZVhR9C1cRfH) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [Aileyipada](https://open.spotify.com/album/2srl7GFgmEg0w9BleWvGOJ) | 6:35 | 2024-09-27 | 2025-02-07 |
-| [Alive](https://open.spotify.com/track/3MwLu7gPqB81ql2AecxkFn) | [Scott Evans](https://open.spotify.com/artist/7cNvuCgJHQfzdOZlhQ3W5r) | [Alive](https://open.spotify.com/album/22U2vWcz5CaxU9x6S9oehH) | 2:20 | 2026-04-03 |  |
+| [Alive](https://open.spotify.com/track/3MwLu7gPqB81ql2AecxkFn) | [Scott Evans](https://open.spotify.com/artist/7cNvuCgJHQfzdOZlhQ3W5r) | [Alive](https://open.spotify.com/album/22U2vWcz5CaxU9x6S9oehH) | 2:20 | 2026-04-03 | 2026-05-26 |
 | [Alive & Grateful \- Acoustic](https://open.spotify.com/track/1v8pPbs31czJDdA4B5P4bT) | [Lyrical HI](https://open.spotify.com/artist/3OznZXIgCjaZwePdGC5FNU), [TEHGAH](https://open.spotify.com/artist/4scHETu7kmTovJLCQq8Rla) | [Alive & Grateful \(Acoustic\)](https://open.spotify.com/album/7Frueb6SNxMKvNNX5nyaxn) | 9:15 | 2025-11-21 | 2026-01-15 |
 | [All Around](https://open.spotify.com/track/3OrBVGYz6opSiyzn4xruDa) | [Kojo Dave](https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce), [Jordan May](https://open.spotify.com/artist/0lx6baQe1oEBLm8jkDWI8v) | [All Around](https://open.spotify.com/album/5H0eZ8emSE3bW2QSkhuFZp) | 2:44 | 2025-07-25 | 2025-08-16 |
 | [All Joy](https://open.spotify.com/track/2Gpmj69SvjOvQ8VulFin1O) | [Laolu Adewumi](https://open.spotify.com/artist/4bLvRbw3aelMQlVPBnxFG7) | [All Joy](https://open.spotify.com/album/122hkcSAoi32jiFRRdCtLD) | 2:53 | 2025-03-07 | 2026-02-27 |
@@ -414,6 +414,7 @@
 | [Na Who You Be](https://open.spotify.com/track/5HeTS1sl4kfR8IC34EvQPK) | [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu) | [Come and See / Na Who You Be](https://open.spotify.com/album/7y06rcPwJmbHVibiNWEjCa) | 2:43 | 2025-03-28 | 2025-06-20 |
 | [Na You Dey Reign](https://open.spotify.com/track/66KhGOqJXHLZQCmfWKMdqC) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [SATISFIED](https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU) | 4:27 | 2024-09-27 | 2025-02-28 |
 | [Nara](https://open.spotify.com/track/4cOdaT4uVp3xzVqF9l3Xx0) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe) | [Nara](https://open.spotify.com/album/24dR45SETUfw44qynSI732) | 4:56 | 2024-09-27 |  |
+| [Nara Ekele \- Remix](https://open.spotify.com/track/5z53vv2JHLryixAKAkduBN) | [Dr Paul Enenche](https://open.spotify.com/artist/5bbq9LbEHKVq6FEpVLuz7i) | [Nara Ekele \(Remix\)](https://open.spotify.com/album/3Y0QLwcmeLDBihKK027qD9) | 6:32 | 2026-05-22 |  |
 | [Narekele](https://open.spotify.com/track/3aL0swlBPcBfUHatzrn9n8) | [Exouxia Wilson](https://open.spotify.com/artist/2OsGK8NBce8Tmx6Cyuc974) | [Narekele](https://open.spotify.com/album/5gyBvRvXbbelbUEPBg7QCm) | 6:24 | 2025-06-20 | 2025-07-11 |
 | [Ndichatarisa](https://open.spotify.com/track/70ZBUNVFSHZSmZqLPDKAzx) | [Gemma Griffiths](https://open.spotify.com/artist/1ho07fAwkrMIMAJId6DbCG) | [Ndichatarisa](https://open.spotify.com/album/10MaqFUzBYnSznaeJhkTDP) | 3:25 | 2024-09-30 | 2025-02-07 |
 | [Never Again \- Live](https://open.spotify.com/track/0avSfabWivCociv7l1vKRM) | [Anthony Kani](https://open.spotify.com/artist/7q7gcqRoGAPXojRY9EFJAO), [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [Never Again \(Live\)](https://open.spotify.com/album/2YUIEDZNAge8KlCfIC8oam) | 11:04 | 2025-06-06 | 2025-07-25 |

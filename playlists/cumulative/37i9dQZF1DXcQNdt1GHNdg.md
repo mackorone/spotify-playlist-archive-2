@@ -2,9 +2,9 @@
 
 ### [Punjabi Pump](https://open.spotify.com/playlist/37i9dQZF1DXcQNdt1GHNdg)
 
-> Pump up your adrenaline with Sidhu Moosewala & more!
+> Pump up your adrenaline with Cheema Y & more!
 
-338 songs - 16 hr 12 min
+339 songs - 16 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,7 +182,7 @@
 | [Jatt Nahi Dekhya](https://open.spotify.com/track/68WyNOcOccRnKe5EuLjf5i) | [Saabi Bhinder](https://open.spotify.com/artist/7balJhYEvDHAshA39peuCr), [Hukam](https://open.spotify.com/artist/70WmQLMY0YOyPHO4MLW8Pj) | [Jatt Nahi Dekhya](https://open.spotify.com/album/3ZILKKdWV01qFymHbZnT6m) | 2:27 | 2025-06-18 |  |
 | [Jawani](https://open.spotify.com/track/1WOz8NwADXFxRADQFVftxp) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Jawani](https://open.spotify.com/album/2JFhgDiyzo3bM2EEWedu6X) | 2:31 | 2023-07-18 | 2024-09-13 |
 | [Jawani](https://open.spotify.com/track/2RvFLJn8BJeBriyr9UmxUe) | [SABBA](https://open.spotify.com/artist/7tardcybPTgbQgPKAvydh8), [Deep Sra](https://open.spotify.com/artist/2osYSyOGZHqTsbgBxIIPrg), [Deep Jandu](https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3) | [Jawani](https://open.spotify.com/album/0PnBjgFDZksWEFlLu8vqFI) | 2:52 | 2026-02-25 | 2026-02-28 |
-| [Jawani](https://open.spotify.com/track/4zbWvyne1wLrmXdbuvTHgs) | [SABBA](https://open.spotify.com/artist/7tardcybPTgbQgPKAvydh8), [Meavin](https://open.spotify.com/artist/1nG9O8LanYlbxZVA28oYFV) | [Jawani](https://open.spotify.com/album/5klRDh8JxQOcXcc7Rxzjw5) | 3:26 | 2026-03-10 |  |
+| [Jawani](https://open.spotify.com/track/4zbWvyne1wLrmXdbuvTHgs) | [SABBA](https://open.spotify.com/artist/7tardcybPTgbQgPKAvydh8), [Meavin](https://open.spotify.com/artist/1nG9O8LanYlbxZVA28oYFV) | [Jawani](https://open.spotify.com/album/5klRDh8JxQOcXcc7Rxzjw5) | 3:26 | 2026-03-10 | 2026-05-26 |
 | [Jee La Leya](https://open.spotify.com/track/4IK66CIBMmtZ4mDpLzo4U6) | [SABBA](https://open.spotify.com/artist/7tardcybPTgbQgPKAvydh8), [Jasmeen Akhtar](https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C), [Meavin](https://open.spotify.com/artist/1nG9O8LanYlbxZVA28oYFV) | [Jee La Leya](https://open.spotify.com/album/4XBFEzjFChMDCkxSEPmo5x) | 2:55 | 2024-11-28 | 2024-12-11 |
 | [Jigra](https://open.spotify.com/track/4PlWvbhxBHxUbeAKyX5rVh) | [Dilpreet Dhillon](https://open.spotify.com/artist/5CGQa62CAweD76eHlDmp1m), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [Another Level](https://open.spotify.com/album/6GYai5E5mBTnottHe72eXm) | 2:37 | 2023-07-18 | 2024-01-31 |
 | [Jigre](https://open.spotify.com/track/2GUYaTIMOweN2qrpHbSQJS) | [Mani Longia](https://open.spotify.com/artist/4T8KtF2YGesSSw3jgAVura), [Azaad 4L](https://open.spotify.com/artist/1ldpy9FewJ95Fk8xniyxU6), [DesiFrenzy](https://open.spotify.com/artist/7gfgcUaGKOoCfKt1Yoi92E), [Shxxn](https://open.spotify.com/artist/2e7MteHx8L5XYlCa52qJnE) | [Jigre](https://open.spotify.com/album/78wnbPyqE9Bk5kj0ZHggmy) | 2:58 | 2026-01-23 | 2026-02-26 |
@@ -289,6 +289,7 @@
 | [RYDE OR DIE](https://open.spotify.com/track/7Gc2WlXhHEzYrlGl77tYag) | [Chinna](https://open.spotify.com/artist/33saytE0qGBD96vkPj4ALw), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS), [Karam Brar](https://open.spotify.com/artist/0XgLBVrCtSZJPvb0s33e79) | [A KID FROM GURDASPUR](https://open.spotify.com/album/6MBBnnY5Kacck7ATbIVTcJ) | 2:15 | 2025-02-03 |  |
 | [Saada Aura](https://open.spotify.com/track/1ocsN0Gh93gMgI3K0dumQ4) | [Dulla](https://open.spotify.com/artist/2zGP5dYW7vsTnCtjnhO8eo), [Shah Rehan](https://open.spotify.com/artist/2TFn1e5UTGZzzkt0TkGWPl) | [Entry Time](https://open.spotify.com/album/4CerdpywlcXRYTqwtld8mL) | 3:20 | 2025-08-04 | 2025-09-20 |
 | [Saade Bare](https://open.spotify.com/track/2KiNCxUZGLfFxxOhVAGLR4) | [Watan Sahi](https://open.spotify.com/artist/60AHsnenfij85IExxs2456), [Syphr](https://open.spotify.com/artist/1p0cpaSetvDyBCogumWAXM) | [Saade Bare](https://open.spotify.com/album/09WcJWL93lA6PgcBvhmK8X) | 2:29 | 2025-05-06 | 2025-06-04 |
+| [SAADI GALL](https://open.spotify.com/track/4ygU6V7LO5U4VBA20lMePa) | [Amrit Maan](https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [Maan Made](https://open.spotify.com/album/4f6X5dcoh29T7f8FGuXoO1) | 2:49 | 2026-05-25 |  |
 | [Safety Off](https://open.spotify.com/track/3NwmvlTYDZPRBGDMGgJH8K) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Leo](https://open.spotify.com/album/1h0Yw7Wm49GGiGpN2gd3o2) | 2:23 | 2024-02-02 |  |
 | [Saheli](https://open.spotify.com/track/0KyUsQ0oRP26V2ifUO5fYd) | [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4), [Kambi Rajpuria](https://open.spotify.com/artist/0D1zUm6fYTA4tzlGjmnYFw), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN) | [Summer Daze](https://open.spotify.com/album/1srOF2YIQ1dvb2lDqbJDSg) | 2:39 | 2024-08-30 | 2024-10-02 |
 | [Sawaal Puchdi \(Feat\. Bohemia\)](https://open.spotify.com/track/0W7oY8NwwVkEeUVsAwF19Z) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [Bohemia](https://open.spotify.com/artist/0SWOtgI95g7oVrP9halrmP) | [51 GLORIOUS DAYS](https://open.spotify.com/album/1EXPml909SRGpOVUGBPytW) | 4:09 | 2025-09-26 | 2025-10-25 |

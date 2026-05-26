@@ -1,12 +1,12 @@
 {
   "description": "This is Bob Marley & The Wailers. The essential tracks, all in one playlist.",
-  "num_followers": 2075964,
+  "num_followers": 2076009,
   "original_name": "This Is Bob Marley & The Wailers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahDuAAAAAAB7lw/U2mR2V2EFuz0mfaxs",
+  "snapshot_id": "ahI/gAAAAAC4P6jXGeQ7Mh1EfkUFeJLN",
   "tracks": [
     {
       "added_at": null,
@@ -203,8 +203,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rastaman Vibration",
-        "url": "https://open.spotify.com/album/1FictwFMH9Uv1LE8zw4pZu"
+        "name": "Uprising",
+        "url": "https://open.spotify.com/album/321q9p7PELvzcFAWxml7VX"
       },
       "artists": [
         {
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
         }
       ],
-      "duration_ms": 213920,
-      "name": "Positive Vibration",
-      "url": "https://open.spotify.com/track/2eHOlLD5glnSYlfWXYGTbd"
+      "duration_ms": 188313,
+      "name": "Real Situation",
+      "url": "https://open.spotify.com/track/6d4B82vt7pjdzumBmV6HiZ"
     },
     {
       "added_at": null,
@@ -235,8 +235,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Uprising",
-        "url": "https://open.spotify.com/album/321q9p7PELvzcFAWxml7VX"
+        "name": "Rastaman Vibration",
+        "url": "https://open.spotify.com/album/1FictwFMH9Uv1LE8zw4pZu"
       },
       "artists": [
         {
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
         }
       ],
-      "duration_ms": 188313,
-      "name": "Real Situation",
-      "url": "https://open.spotify.com/track/6d4B82vt7pjdzumBmV6HiZ"
+      "duration_ms": 213920,
+      "name": "Positive Vibration",
+      "url": "https://open.spotify.com/track/2eHOlLD5glnSYlfWXYGTbd"
     },
     {
       "added_at": null,

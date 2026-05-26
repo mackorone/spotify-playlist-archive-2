@@ -4,7 +4,7 @@
 
 > 𝖋𝖚𝖈𝖐 𝖑𝖔𝖛𝖊
 
-356 songs - 16 hr 12 min
+357 songs - 16 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [ALESSIA](https://open.spotify.com/track/4q0yteddAlr8X9MAv1GDXQ) | [Sally Cruz](https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc), [Mike Defunto](https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx) | [ALESSIA](https://open.spotify.com/album/2vcA80mMkhOmL3hi2xrMo2) | 2:24 | 2022-10-20 | 2024-01-26 |
 | [Amelie](https://open.spotify.com/track/6Avt6Pqv0LPcnzTJ6ertki) | [Nashley](https://open.spotify.com/artist/5RiGhrEoM1SBjZoY25lCfe) | [Amelie](https://open.spotify.com/album/6ecOxmrwND7LqAmig5AB0Q) | 3:18 | 2023-06-14 | 2025-07-12 |
 | [Amianto](https://open.spotify.com/track/5FeDmOkJlmFcb8arUhMi87) | [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [Spazio](https://open.spotify.com/album/1rF5ezgSerqkUK1Nc9Ft6p) | 2:59 | 2022-09-08 |  |
+| [Amore pericoloso](https://open.spotify.com/track/067uO64hZ5My9V2c4AXyM0) | [Satira](https://open.spotify.com/artist/2cwJY99c2eytSkVmppG6QH) | [Amore pericoloso](https://open.spotify.com/album/7s7cCiwhh4RH3dlRWLD6aG) | 2:12 | 2026-05-21 |  |
 | [Amsterdam](https://open.spotify.com/track/2BOzEweKLKbBdP6szSatP7) | [Nashley](https://open.spotify.com/artist/5RiGhrEoM1SBjZoY25lCfe) | [OSIRIDE](https://open.spotify.com/album/6jmB6f0AiVAAYZRAISXHwq) | 3:20 | 2022-04-21 |  |
 | [Anche se forte, l'amore non basta](https://open.spotify.com/track/6hL8EUDbMIMxVMAuS6E3s4) | [Solø](https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp) | [Anche se forte, l'amore non basta](https://open.spotify.com/album/2CeJaZSvISUSHXvFfIwsbc) | 2:18 | 2025-02-07 | 2025-03-08 |
 | [Angeli](https://open.spotify.com/track/6a2WBo4YCOL0hSD0i1ruxM) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Umile](https://open.spotify.com/album/1ewXxOuO1Oi9F8Wan0gEi9) | 3:17 | 2024-07-01 | 2025-03-22 |
@@ -130,7 +131,7 @@
 | [hammer](https://open.spotify.com/track/2Y4ol1FiPdSPMwaEMJgXMN) | [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P) | [ruiner](https://open.spotify.com/album/6YyFPAahBvVV74rRNdVmff) | 3:24 | 2025-07-11 |  |
 | [HAPPILY EVER AFTER](https://open.spotify.com/track/3A6wzTVEokDiEgDmAtd2gm) | [maxwell da costa](https://open.spotify.com/artist/7fBNjQ2hEvNyisqpp8o4ZT), [fil ricchiardi](https://open.spotify.com/artist/2Dgp0r5wvNCnj5XdvGaK7u) | [HAPPILY EVER AFTER](https://open.spotify.com/album/1G9ntbAXm8uYI1KRPRfNUg) | 3:05 | 2022-06-02 | 2023-03-10 |
 | [Hasta la Muerte](https://open.spotify.com/track/13ayZLGRDxX85NEG78hIjF) | [Ëgo](https://open.spotify.com/artist/0UzEWU7bayHtdSV0pi2aQd) | [Hasta la Muerte](https://open.spotify.com/album/5NNcyVXkfTUP2Y9ddLfAE0) | 2:00 | 2022-06-13 |  |
-| [Ho perso il cuore,](https://open.spotify.com/track/18BKych70MQEkZlH2RtNYO) | [Chakra](https://open.spotify.com/artist/78tkEnghpGYk8stmKlkxbv) | [non sto bene, va bene così](https://open.spotify.com/album/0AzsSCV3h667458lI3SgiN) | 1:53 | 2025-02-07 |  |
+| [Ho perso il cuore,](https://open.spotify.com/track/18BKych70MQEkZlH2RtNYO) | [Chakra](https://open.spotify.com/artist/78tkEnghpGYk8stmKlkxbv) | [non sto bene, va bene così](https://open.spotify.com/album/0AzsSCV3h667458lI3SgiN) | 1:53 | 2025-02-07 | 2026-05-26 |
 | [Horror \- Acoustic](https://open.spotify.com/track/1SoB0Ex6kDPwyY5D9nXucY) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [REBEL \(Deluxe\)](https://open.spotify.com/album/0BSVUwV411OWhUlAIK9epW) | 3:40 | 2023-11-09 |  |
 | [Hurt So Bad](https://open.spotify.com/track/61UW1ahvPB6hxLPxjM2VoK) | [RØNIN](https://open.spotify.com/artist/5AueQd01cgyqBRQ82ns5cd) | [Hurt So Bad](https://open.spotify.com/album/7lJSH2Ex6k51cNarafJkBQ) | 2:34 | 2024-01-19 | 2025-07-12 |
 | [I CAN FLY](https://open.spotify.com/track/2w16qcnjwjfBUvZRpGEC4b) | [Zyrtck](https://open.spotify.com/artist/4kzy5r1zhu4jC0LhQ15nti), [Sick Luke](https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb) | [MOVIMENTO + THE DAY AFTER](https://open.spotify.com/album/6w8utzyBFKX2ynQyGMeWcG) | 2:19 | 2022-05-24 | 2025-10-10 |

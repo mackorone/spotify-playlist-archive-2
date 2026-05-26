@@ -1,12 +1,12 @@
 {
   "description": "This is Kylie Minogue. The essential tracks, all in one playlist.",
-  "num_followers": 172227,
+  "num_followers": 172373,
   "original_name": "This Is Kylie Minogue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahDuAAAAAACnVX8OFQyirwcU6UHUrmXp",
+  "snapshot_id": "ahI/gAAAAAD45ltF9t1I2PL114ztfHQ4",
   "tracks": [
     {
       "added_at": null,
@@ -79,6 +79,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Kylie",
+        "url": "https://open.spotify.com/album/7lZXsT33rkuXF3WBZc5rQv"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 193540,
+      "name": "The Loco-Motion",
+      "url": "https://open.spotify.com/track/2hBR3npBmnfr1VWB3O64Jt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rokstarr (Special Edition)",
         "url": "https://open.spotify.com/album/3h80tQ7iMvnWIE7EdtRhEm"
       },
@@ -95,22 +111,6 @@
       "duration_ms": 187626,
       "name": "Higher",
       "url": "https://open.spotify.com/track/6AxCr5G75R5rqyNCYWVpTo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Kylie",
-        "url": "https://open.spotify.com/album/7lZXsT33rkuXF3WBZc5rQv"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 193540,
-      "name": "The Loco-Motion",
-      "url": "https://open.spotify.com/track/2hBR3npBmnfr1VWB3O64Jt"
     },
     {
       "added_at": null,
@@ -211,26 +211,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "last night i dreamt i fell in love",
-        "url": "https://open.spotify.com/album/2guIXbgAa9lVRKQSlb1uvA"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 126923,
-      "name": "last night i dreamt i fell in love",
-      "url": "https://open.spotify.com/track/6t1pBY6VYjNM9SJEBieyJw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Especially for You",
         "url": "https://open.spotify.com/album/0DXTYW6fxh7RmQbZwjGsqP"
       },
@@ -247,6 +227,26 @@
       "duration_ms": 240892,
       "name": "Especially for You",
       "url": "https://open.spotify.com/track/0mVEYOASqm8DX7mCmHgIWt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "last night i dreamt i fell in love",
+        "url": "https://open.spotify.com/album/2guIXbgAa9lVRKQSlb1uvA"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 126923,
+      "name": "last night i dreamt i fell in love",
+      "url": "https://open.spotify.com/track/6t1pBY6VYjNM9SJEBieyJw"
     },
     {
       "added_at": null,
@@ -335,6 +335,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Light Years",
+        "url": "https://open.spotify.com/album/7vPWwkCumK2sGsdADtBlwB"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 213160,
+      "name": "On a Night Like This",
+      "url": "https://open.spotify.com/track/5mu9hVvdpVnAXqbiQgPl4Y"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Stampede",
         "url": "https://open.spotify.com/album/3vi7hLbbjQBJypfAA2gafE"
       },
@@ -359,22 +375,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Light Years",
-        "url": "https://open.spotify.com/album/7vPWwkCumK2sGsdADtBlwB"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 213160,
-      "name": "On a Night Like This",
-      "url": "https://open.spotify.com/track/5mu9hVvdpVnAXqbiQgPl4Y"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Believe in You",
         "url": "https://open.spotify.com/album/0CiGpBVREJ9teXHMFMabgC"
       },
@@ -391,22 +391,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fever",
-        "url": "https://open.spotify.com/album/4WzTXHp8bVKkKNu3UQ2Fqu"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 241466,
-      "name": "Can't Get Blue Monday out of My Head",
-      "url": "https://open.spotify.com/track/3DBErzKR7FVxLJvdzGlCLx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rhythm of Love",
         "url": "https://open.spotify.com/album/30YW6lNcviVzg3FAF2kAXI"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 233362,
       "name": "Better the Devil You Know",
       "url": "https://open.spotify.com/track/1uiQNFERY6n5FxIEPGxzwA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fever",
+        "url": "https://open.spotify.com/album/4WzTXHp8bVKkKNu3UQ2Fqu"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 241466,
+      "name": "Can't Get Blue Monday out of My Head",
+      "url": "https://open.spotify.com/track/3DBErzKR7FVxLJvdzGlCLx"
     },
     {
       "added_at": null,
@@ -495,6 +495,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tension (Deluxe)",
+        "url": "https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 196213,
+      "name": "Story",
+      "url": "https://open.spotify.com/track/0dV9JbXkCeuQWjuxG8BtIS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tension II",
         "url": "https://open.spotify.com/album/0edaiVumHgKoTUCTfQXMuw"
       },
@@ -507,6 +523,22 @@
       "duration_ms": 162253,
       "name": "Lights Camera Action",
       "url": "https://open.spotify.com/track/1vbhiBKv5Tyfx75BOoTbdU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Body Language",
+        "url": "https://open.spotify.com/album/7vd7tsL9QEJSKX4nvkkP9T"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 193666,
+      "name": "Slow",
+      "url": "https://open.spotify.com/track/3Q88P7QB30k4iT4kty7nyZ"
     },
     {
       "added_at": null,
@@ -543,22 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Body Language",
-        "url": "https://open.spotify.com/album/7vd7tsL9QEJSKX4nvkkP9T"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 193666,
-      "name": "Slow",
-      "url": "https://open.spotify.com/track/3Q88P7QB30k4iT4kty7nyZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Godspeed",
         "url": "https://open.spotify.com/album/0WGs5bQx4HefdubdFh1kfE"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 206796,
       "name": "Edge of Saturday Night",
       "url": "https://open.spotify.com/track/2Ti9DOQRFRsrD1TIA3VjKw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tension (Deluxe)",
-        "url": "https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 196213,
-      "name": "Story",
-      "url": "https://open.spotify.com/track/0dV9JbXkCeuQWjuxG8BtIS"
     },
     {
       "added_at": null,
@@ -631,6 +631,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tension (Deluxe)",
+        "url": "https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 237866,
+      "name": "Hold On To Now",
+      "url": "https://open.spotify.com/track/2DNHzFyCUHNLl5IH1NSM8h"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "My Oh My (with Bebe Rexha & Tove Lo)",
         "url": "https://open.spotify.com/album/6L5PWde8zjpIa2C6SIjNv8"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 181146,
       "name": "My Oh My - with Bebe Rexha & Tove Lo",
       "url": "https://open.spotify.com/track/06spxvvLVo3m1GV3jT0ZjP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tension (Deluxe)",
-        "url": "https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 237866,
-      "name": "Hold On To Now",
-      "url": "https://open.spotify.com/track/2DNHzFyCUHNLl5IH1NSM8h"
     },
     {
       "added_at": null,
@@ -775,22 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Abbey Road Sessions",
-        "url": "https://open.spotify.com/album/1BdQWouNev422Pnyrse62b"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 247533,
-      "name": "Where the Wild Roses Grow",
-      "url": "https://open.spotify.com/track/4NtVhnFAJNzV9tCIOwdPcX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Enjoy Yourself",
         "url": "https://open.spotify.com/album/4oz4KLPtQlhuN392NqQVxx"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 231082,
       "name": "Hand on Your Heart",
       "url": "https://open.spotify.com/track/3pS5eiuBPsQn5ID6RElg9G"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Abbey Road Sessions",
+        "url": "https://open.spotify.com/album/1BdQWouNev422Pnyrse62b"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 247533,
+      "name": "Where the Wild Roses Grow",
+      "url": "https://open.spotify.com/track/4NtVhnFAJNzV9tCIOwdPcX"
     },
     {
       "added_at": null,

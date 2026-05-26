@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7tfbjVrTPnV.md) - [plain]
 
 > Enjoy new and classic releases from icons of folk and Americana\. Cover: Amy Grant
 
-[Spotify](https://open.spotify.com/user/spotify) - 237,130 likes - 150 songs - 9 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 237,163 likes - 150 songs - 9 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7tfbjVrTPnV.md) - [plain]
 | 11 | [Big Yellow Taxi](https://open.spotify.com/track/6UkMcAA19lTdjs22jtB7o2) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Ladies of the Canyon](https://open.spotify.com/album/7JOdtLDLyXJIppDRB7kxr9) | 2:14 |
 | 12 | [Paint This Town](https://open.spotify.com/track/0gdM5F5lfan6F7gPffEYwJ) | [Old Crow Medicine Show](https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi) | [Paint This Town](https://open.spotify.com/album/5K3qVf67xePI7R4g3jJ5gw) | 3:57 |
 | 13 | [Speed of the Sound of Loneliness](https://open.spotify.com/track/4wESSHqChrl4kwWmZ6otXc) | [Nanci Griffith](https://open.spotify.com/artist/5CAiy5rDr3LaSoGtJOq6A0) | [Other Voices, Other Rooms](https://open.spotify.com/album/7f6KnLDGh7SlqLPSpMLjEE) | 4:20 |
-| 14 | [The Other Side Of Blue](https://open.spotify.com/track/1orTjCUpOGDVxhpqqv6G9L) | [Melissa Etheridge](https://open.spotify.com/artist/01Ppu7N8uYJI8SAONo2YZA), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Rise](https://open.spotify.com/album/4eZanBieJfTfgXAcnk9uaf) | 4:02 |
-| 15 | [The Swimming Song](https://open.spotify.com/track/6scUEism6pBnY0IXYr8fw3) | [Loudon Wainwright III](https://open.spotify.com/artist/3loACRmkzdtOMNJEaB6j8L) | [Attempted Mustache](https://open.spotify.com/album/1AG8ibJ2nQF7iEMpu84LSM) | 2:27 |
+| 14 | [The Swimming Song](https://open.spotify.com/track/6scUEism6pBnY0IXYr8fw3) | [Loudon Wainwright III](https://open.spotify.com/artist/3loACRmkzdtOMNJEaB6j8L) | [Attempted Mustache](https://open.spotify.com/album/1AG8ibJ2nQF7iEMpu84LSM) | 2:27 |
+| 15 | [The Other Side Of Blue](https://open.spotify.com/track/1orTjCUpOGDVxhpqqv6G9L) | [Melissa Etheridge](https://open.spotify.com/artist/01Ppu7N8uYJI8SAONo2YZA), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Rise](https://open.spotify.com/album/4eZanBieJfTfgXAcnk9uaf) | 4:02 |
 | 16 | [Have A Little Faith In Me](https://open.spotify.com/track/23EgnmfkdOsDK96ftbVv0Q) | [John Hiatt](https://open.spotify.com/artist/4Sld5LOPbAm1QSq9U32fFV) | [Bring The Family](https://open.spotify.com/album/1S6p34YmdtR3KCSiSTjbgW) | 4:05 |
 | 17 | [Hello in There](https://open.spotify.com/track/7IijX5DkLaf3G4qF6xDLYa) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [John Prine](https://open.spotify.com/album/5t4FHrIAHI8nolSAOBRgPp) | 4:32 |
 | 18 | [If I Had A Boat](https://open.spotify.com/track/6oZaeLPOAb3Rn408f3IQiB) | [Lyle Lovett](https://open.spotify.com/artist/0zlJDQgqnr9AocrH9gs1Es) | [Pontiac](https://open.spotify.com/album/5vUis8FOVDqezxkJke9BOw) | 3:07 |

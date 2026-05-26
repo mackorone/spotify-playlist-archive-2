@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahDuAAAAAADCmvX0NjGyYklt8iy10eIB",
+  "snapshot_id": "ahI/gAAAAAB8pW71oa74WrephsbXmopj",
   "tracks": [
     {
       "added_at": null,
@@ -399,22 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "TELLY BAG",
-        "url": "https://open.spotify.com/album/40xQNubC2C2X2QcV3GQTTn"
-      },
-      "artists": [
-        {
-          "name": "BAYLI",
-          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
-        }
-      ],
-      "duration_ms": 114484,
-      "name": "TELLY BAG",
-      "url": "https://open.spotify.com/track/2fre7Ba0EuJp578flYyYlO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "stories from new york",
         "url": "https://open.spotify.com/album/7nkcfBIzLWqE9FaWf50AFt"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 137104,
       "name": "say it back",
       "url": "https://open.spotify.com/track/4QEeNtaEmDgP9BtiKArNo5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TELLY BAG",
+        "url": "https://open.spotify.com/album/40xQNubC2C2X2QcV3GQTTn"
+      },
+      "artists": [
+        {
+          "name": "BAYLI",
+          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        }
+      ],
+      "duration_ms": 114484,
+      "name": "TELLY BAG",
+      "url": "https://open.spotify.com/track/2fre7Ba0EuJp578flYyYlO"
     },
     {
       "added_at": null,
@@ -483,22 +483,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Busy (BAYLI Remix)",
-        "url": "https://open.spotify.com/album/4QItHH0p7qev4nWghJWNQe"
+        "name": "Whirlwind Of Malevolence",
+        "url": "https://open.spotify.com/album/1JeoBLRWk8AKSagFSNG5EC"
       },
       "artists": [
         {
-          "name": "Nina Las Vegas",
-          "url": "https://open.spotify.com/artist/3L2tOP2vRYfjXVW4W1tKEJ"
+          "name": "SONIKKU",
+          "url": "https://open.spotify.com/artist/31iYRMOM5mUFDxPMMljOZ9"
         },
         {
           "name": "BAYLI",
           "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
         }
       ],
-      "duration_ms": 165086,
-      "name": "Busy - BAYLI Remix",
-      "url": "https://open.spotify.com/track/7dgyEXVCMkwj3vj3Yy5hr7"
+      "duration_ms": 139090,
+      "name": "Enter The Chat",
+      "url": "https://open.spotify.com/track/1gBwEnUsHgGDp6WkrjxNo7"
     },
     {
       "added_at": null,
@@ -523,22 +523,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Whirlwind Of Malevolence",
-        "url": "https://open.spotify.com/album/1JeoBLRWk8AKSagFSNG5EC"
+        "name": "Busy (BAYLI Remix)",
+        "url": "https://open.spotify.com/album/4QItHH0p7qev4nWghJWNQe"
       },
       "artists": [
         {
-          "name": "SONIKKU",
-          "url": "https://open.spotify.com/artist/31iYRMOM5mUFDxPMMljOZ9"
+          "name": "Nina Las Vegas",
+          "url": "https://open.spotify.com/artist/3L2tOP2vRYfjXVW4W1tKEJ"
         },
         {
           "name": "BAYLI",
           "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
         }
       ],
-      "duration_ms": 139090,
-      "name": "Enter The Chat",
-      "url": "https://open.spotify.com/track/1gBwEnUsHgGDp6WkrjxNo7"
+      "duration_ms": 165086,
+      "name": "Busy - BAYLI Remix",
+      "url": "https://open.spotify.com/track/7dgyEXVCMkwj3vj3Yy5hr7"
     },
     {
       "added_at": null,

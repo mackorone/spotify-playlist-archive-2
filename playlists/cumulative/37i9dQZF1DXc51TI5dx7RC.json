@@ -1003,6 +1003,36 @@
     },
     {
       "album": {
+        "name": "Goals (FIFA World Cup 2026\u2122)",
+        "url": "https://open.spotify.com/album/32V31xJ7RTgNQB3qyMevei"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        },
+        {
+          "name": "FIFA Sound",
+          "url": "https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH"
+        }
+      ],
+      "date_added": "2026-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180345,
+      "name": "Goals",
+      "url": "https://open.spotify.com/track/3hdGyxmW0eNskNwTwmXOIQ"
+    },
+    {
+      "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
       },
@@ -2782,7 +2812,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 259380,
       "name": "Yours Ever",
       "url": "https://open.spotify.com/track/6BN3iFjclJ4teGlmB3fFvo"

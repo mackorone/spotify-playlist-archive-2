@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5P7I5ymjBC0.md) - [plain]
 
 > Fusion music for the soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,831 likes - 50 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,841 likes - 50 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5P7I5ymjBC0.md) - [plain]
 | 47 | [Tum Chatur Sughar](https://open.spotify.com/track/7adVzyJYNEWRbMokWBUpE1) | [Tanmay Deochake](https://open.spotify.com/artist/4ujl0vIPR8pYIPAHCPl7OR), [Sharayu Date](https://open.spotify.com/artist/23fgwjXNJCMTFy7S1l2pEC) | [Tum Chatur Sughar](https://open.spotify.com/album/1NiNbmVjuaQhb706ijfhEC) | 4:24 |
 | 48 | [SAANJH BHAYI](https://open.spotify.com/track/5FuvUFQ72H7rQOclk5squE) | [Nishtha Sharma](https://open.spotify.com/artist/6iWZHbyB2I9zNxfCJuSn10) | [SAANJH BHAYI](https://open.spotify.com/album/18W521Po5AvhnhO7hD7nim) | 3:27 |
 | 49 | [Rhydhun \- Nothing But Voice \(25th Anniversary Edition\)](https://open.spotify.com/track/2yjfILYBWMiMFFZEie0nH3) | [Taufiq Qureshi](https://open.spotify.com/artist/5pHGolVxp4QTvcuSnLCo2X), [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a) | [Rhydhun \- Nothing But Voice \(25th Anniversary Edition\)](https://open.spotify.com/album/1AVJRAtklKdSeNhrxpQzMJ) | 3:48 |
-| 50 | [We Are One \(Raghupati Raghava\)](https://open.spotify.com/track/0fE8GmOwbZXl6s6jH0W2TA) | [Ricky Kej](https://open.spotify.com/artist/2pG6h1xYYv5j7fuxackcfl), [Tina Guo](https://open.spotify.com/artist/46T4yCHjQfVxokuATj1SiV), [Masa Takumi](https://open.spotify.com/artist/232qTYJ9qlN1FUQyV9NERy), [Kailash Satyarthi](https://open.spotify.com/artist/3DHSvmqyBGYbxhTSho4Ftn), [Ronu Majumdar](https://open.spotify.com/artist/2BtkOvKNQUqyBvK5pnSx3P), [Erwilian](https://open.spotify.com/artist/2qmu9C9fWBAhbD4o4orObv), [Esin Aydıngöz](https://open.spotify.com/artist/6ZQWiuIwptdIdRiqchBR1p), [Adelmo Guidarelli](https://open.spotify.com/artist/0j9gsC4bDIBWR6YRTmLtpl) | [Gandhi \- Mantras Of Compassion](https://open.spotify.com/album/64nu6ReZ5mlP7saHh3sgVK) | 3:34 |
+| 50 | [Aye Na Baalam](https://open.spotify.com/track/33G967Z68M8rwvQGZe6WRk) | [The Bombay Chill](https://open.spotify.com/artist/05r5zMnYeosNIESUzhbHhd), [Aditya Pushkarna](https://open.spotify.com/artist/7vO600AV63IUH9QqHVAqJs), [Ajay Tiwari](https://open.spotify.com/artist/2lcUlawqk8jssyIOd7GTy5) | [Aye Na Baalam](https://open.spotify.com/album/6puODOC1EE1pJBbFAVq5q4) | 5:33 |
 
 Snapshot ID: `AAAAADu1NoYG7rMdnWIKnXqXWcPF+ZTy`

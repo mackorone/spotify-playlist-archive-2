@@ -4,7 +4,7 @@
 
 > Aquelas pra começar o dia de alma leve
 
-324 songs - 18 hr 14 min
+325 songs - 18 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,7 +137,7 @@
 | [Ela \- Unpeeled](https://open.spotify.com/track/3Vxt4RJ00AdZ8f7aKtrPXx) | [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [Ela \(Unpeeled\)](https://open.spotify.com/album/4cM3ItMRm0LK4LVS7km9Hi) | 2:59 | 2022-04-01 | 2022-04-19 |
 | [em nome da paz](https://open.spotify.com/track/49gZF7Z8n3ZKE3IybWod76) | [Os Garotin](https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP), [Anchietx](https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp), [Cupertino](https://open.spotify.com/artist/5olhfQdhVAQny8TB3eZrwD), [Leo Guima](https://open.spotify.com/artist/4i6YMhe65eKTuSFRKq0X1d) | [OS GAROTIN DE SÃO GONÇALO](https://open.spotify.com/album/07C0GZEXLAELHVNkBNeVXZ) | 3:10 | 2024-05-10 | 2024-07-12 |
 | [Em Você](https://open.spotify.com/track/5BrgjbuLt8jjE52IgzA7iR) | [Pedro Pondé](https://open.spotify.com/artist/6vIvJUBbfQsBZ9NiWxWoSl) | [Em Você](https://open.spotify.com/album/3ReDz50ziIEzT11g81ROPz) | 2:22 | 2023-09-08 | 2023-09-23 |
-| [Encantos Mil](https://open.spotify.com/track/58V27gOu67oPUHDFMKu28f) | [Mericia](https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS) | [Encantos Mil](https://open.spotify.com/album/2nXesv3OqUatWUViOpmSoq) | 2:48 | 2024-02-23 |  |
+| [Encantos Mil](https://open.spotify.com/track/58V27gOu67oPUHDFMKu28f) | [Mericia](https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS) | [Encantos Mil](https://open.spotify.com/album/2nXesv3OqUatWUViOpmSoq) | 2:48 | 2024-02-23 | 2026-05-26 |
 | [Esotérico](https://open.spotify.com/track/7uFykXsw7lchBQj2B4UbNR) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Um banda um](https://open.spotify.com/album/5UTteAAgtY5kX2vsb2EaWE) | 4:22 | 2022-04-01 | 2022-04-20 |
 | [Essa Menina Tem](https://open.spotify.com/track/2ARsMPrnmV21txHk4NTVAN) | [Nina Oliveira](https://open.spotify.com/artist/5VCRm5ymb1B8lybUhaDIN1) | [Essa Menina Tem](https://open.spotify.com/album/2F03u1NUKGaa3u7GW6jAlV) | 1:53 | 2024-10-18 | 2024-10-26 |
 | [estranha vontade louca](https://open.spotify.com/track/6OaT6IKxwpGv5K62axdX74) | [Os Garotin](https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP), [Anchietx](https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp), [Cupertino](https://open.spotify.com/artist/5olhfQdhVAQny8TB3eZrwD), [Leo Guima](https://open.spotify.com/artist/4i6YMhe65eKTuSFRKq0X1d) | [OS GAROTIN DE SÃO GONÇALO](https://open.spotify.com/album/07C0GZEXLAELHVNkBNeVXZ) | 2:45 | 2024-05-08 | 2024-05-11 |
@@ -259,6 +259,7 @@
 | [Romã](https://open.spotify.com/track/7ncPZIj5Dd2cB9LM9NOeyP) | [Bruna Magalhães](https://open.spotify.com/artist/108y6vREhgAIvgvm1Cq54p) | [Romã](https://open.spotify.com/album/0jJAlOVerPV2A29Y8qUaPR) | 3:14 | 2023-12-11 | 2024-01-13 |
 | [Rosa Maria](https://open.spotify.com/track/2dtqWQf6ye7d1k5bHxjJQI) | [Ryan Fidelis](https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm) | [Rosa Maria](https://open.spotify.com/album/1j3O7ndLOJazzQmfKh6FdT) | 3:52 | 2026-04-24 |  |
 | [Roupa Branca](https://open.spotify.com/track/1XWwzbDvvuRLFMRjoJ3ecC) | [Sued Nunes](https://open.spotify.com/artist/3CFyVJRAmjkptSfvwMljQi) | [Roupa Branca](https://open.spotify.com/album/6tlXAjDZUnoQmIP1lcrqMC) | 2:27 | 2023-09-22 | 2023-10-24 |
+| [Saudade](https://open.spotify.com/track/7GG0LrteBlJ1Rvkn33S4tf) | [Ana Laura Lopes](https://open.spotify.com/artist/0uGD30yANzeWbNUAQoiJF2) | [Saudade](https://open.spotify.com/album/3GGUhsGGdHx4LFSJRNEFK8) | 3:56 | 2026-05-22 |  |
 | [Se Acaso Você Chegasse](https://open.spotify.com/track/44zjrwmi6RjfZbGe1F0ymj) | [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs) | [Se Acaso Você Chegasse](https://open.spotify.com/album/6QVaN8Rem6eekBccoZTzDz) | 2:19 | 2024-11-01 | 2024-12-21 |
 | [Se Fosse Normal Ser Louco?](https://open.spotify.com/track/71gGD458tFryCohEK1iJy3) | [LoreB](https://open.spotify.com/artist/7MjaGpdVZenDgXEUF4CXSz), [Cris Braun](https://open.spotify.com/artist/2JgOpjAclT7MnRKsYekXuf), [Fernando Nunes](https://open.spotify.com/artist/3JkbXt88UMxAQouuL7QwI9) | [Cheio de Vazio](https://open.spotify.com/album/0WXeAvwodZTkZg1HpFVGr0) | 2:46 | 2022-04-01 | 2022-04-20 |
 | [Se Perder](https://open.spotify.com/track/4no2z9sJGD1O2iHCCDDgEC) | [OUTROEU](https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo), [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [Se Perder](https://open.spotify.com/album/4elS2JhpQVGLNOH2Xr0pkg) | 3:12 | 2022-02-18 | 2022-07-28 |

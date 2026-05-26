@@ -1609,6 +1609,24 @@
     },
     {
       "album": {
+        "name": "Oblivion",
+        "url": "https://open.spotify.com/album/4aGYvbV5eJs3cUSl0UznCX"
+      },
+      "artists": [
+        {
+          "name": "Andromedik",
+          "url": "https://open.spotify.com/artist/7miXLG9boDOGHJaEelSL7T"
+        }
+      ],
+      "date_added": "2026-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213873,
+      "name": "Oblivion",
+      "url": "https://open.spotify.com/track/1tDEBOvZKKzzSGvmvXldwl"
+    },
+    {
+      "album": {
         "name": "Survival Mode",
         "url": "https://open.spotify.com/album/3AK2abRr0WfTzH7aZZSda4"
       },

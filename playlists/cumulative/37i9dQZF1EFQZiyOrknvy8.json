@@ -2671,6 +2671,24 @@
     },
     {
       "album": {
+        "name": "Optimist",
+        "url": "https://open.spotify.com/album/36iy6HOYe9tweVVEHJo51b"
+      },
+      "artists": [
+        {
+          "name": "Nico Santos",
+          "url": "https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz"
+        }
+      ],
+      "date_added": "2026-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176394,
+      "name": "Optimist",
+      "url": "https://open.spotify.com/track/5CKNSvLw4A72l8ZGWD31Jz"
+    },
+    {
+      "album": {
         "name": "Restless (Deluxe)",
         "url": "https://open.spotify.com/album/1Nr0EKbE71nEAcbXN5jqi2"
       },

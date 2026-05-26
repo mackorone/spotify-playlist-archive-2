@@ -4,7 +4,7 @@
 
 > Novidades e hits do pop nacional pra te deixar mais leve\. Foto:  Ana Laura Lopes
 
-933 songs - 1 day 22 hr 37 min
+934 songs - 1 day 22 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,7 +184,7 @@
 | [Codinome Exagerado](https://open.spotify.com/track/1r5xSeHHrnnAPlZD8s03N1) | [HODARI](https://open.spotify.com/artist/21Z6OxfrB1jTI53TaDMm67), [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs) | [Codinome Exagerado](https://open.spotify.com/album/0d8FtFqVUeUvxMZjJl4peh) | 3:09 | 2024-04-09 | 2024-05-09 |
 | [Cofre](https://open.spotify.com/track/4p9aBRtgLpwtrfXRNubECr) | [Rebeca](https://open.spotify.com/artist/1n50LGC4ZlJrgHFjsurNWN) | [Cofre](https://open.spotify.com/album/5TLAQQvsUK7W9jKfPnbw6d) | 3:19 | 2023-09-15 | 2023-09-30 |
 | [Coisa Boa](https://open.spotify.com/track/0Z5IDWR4JHuJo7FBsSoM1k) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD) | [Depois do Fim](https://open.spotify.com/album/6Gh9k6PdqxQ6l3tZxZWSH9) | 2:19 | 2023-07-21 | 2023-11-07 |
-| [Coisa de Alma](https://open.spotify.com/track/6x3UHY7jsjP9JrrBJjQhf1) | [EDDU](https://open.spotify.com/artist/5yB3X7Vo6OL6PERnrgkjo5), [Edu4rd](https://open.spotify.com/artist/4QgUQWIl94bx29Hl3rBMui) | [Coisa de Alma](https://open.spotify.com/album/2ve6z3W7HC4kYKI08PonwD) | 2:29 | 2025-02-14 |  |
+| [Coisa de Alma](https://open.spotify.com/track/6x3UHY7jsjP9JrrBJjQhf1) | [EDDU](https://open.spotify.com/artist/5yB3X7Vo6OL6PERnrgkjo5), [Edu4rd](https://open.spotify.com/artist/4QgUQWIl94bx29Hl3rBMui) | [Coisa de Alma](https://open.spotify.com/album/2ve6z3W7HC4kYKI08PonwD) | 2:29 | 2025-02-14 | 2026-05-26 |
 | [Coisa de Casa](https://open.spotify.com/track/40ThoDlFwxdcQjIv3GsT7l) | [OUTROEU](https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo) | [Coisa de Casa](https://open.spotify.com/album/05C1IIsmM53FB4xhU9AhfZ) | 3:32 | 2024-11-22 | 2025-04-18 |
 | [Coisa de Cinema](https://open.spotify.com/track/0T0Q7fJ1lH09UEvG9MdNLb) | [Davi Shamá](https://open.spotify.com/artist/2VYUK62O7RydFXkOBS7rGV), [Tori](https://open.spotify.com/artist/4JnogHpZJqdZu7njKCOgch) | [Coisa de Cinema](https://open.spotify.com/album/37IH3KuZZiK3BI6yJXamQk) | 2:55 | 2024-10-04 | 2025-02-08 |
 | [Coisa Luz](https://open.spotify.com/track/7fOGpThy7S9B8bXkRftLXj) | [duogram](https://open.spotify.com/artist/3fuNvXraxWHImqMp0jfQ8Y) | [Coisa Luz](https://open.spotify.com/album/5gAMEcKyLLcSDjmIYi5con) | 2:52 | 2022-05-13 | 2022-10-11 |
@@ -672,6 +672,7 @@
 | [Qual Fita](https://open.spotify.com/track/2jWPvuNX5KKtEY0q6aym4V) | [Ceci Reis](https://open.spotify.com/artist/0dTOkpG8p4ZwjCA28HprBf) | [Que Fase](https://open.spotify.com/album/1XaXt76Sh007N2UPzgNJLU) | 2:19 | 2022-08-01 | 2023-01-28 |
 | [Quando](https://open.spotify.com/track/1hzBmDY92rHMRkWpydY120) | [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP), [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [Quando](https://open.spotify.com/album/2iwPRtSrvVoBU9VpAeylfY) | 3:14 | 2022-11-18 | 2023-01-28 |
 | [Quando a Gente Existe](https://open.spotify.com/track/5KUtfBqF5JICzTjwkZzi86) | [Lizandra](https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl) | [Quando a Gente Existe](https://open.spotify.com/album/3sRKFhPG58PWFG5lR5jzF5) | 3:24 | 2024-06-07 | 2024-10-12 |
+| [QUANDO ASSUM VOAR](https://open.spotify.com/track/5yNhzae5tKwrQgiXVJtpcq) | [LAURO](https://open.spotify.com/artist/0QDKEP0EJvT2EKXzLpBuNa), [CANETARIA](https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS) | [QUANDO ASSUM VOAR](https://open.spotify.com/album/0m909aW6kNTzgB05lzga06) | 2:55 | 2026-05-22 |  |
 | [Quando Cê Vem](https://open.spotify.com/track/0JOZdLi59b2Azx1O86L4lI) | [Liza Lou](https://open.spotify.com/artist/1cJ8ZMi37OSQUMRbqWGKu2), [Ariel Donato](https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ) | [Quando Cê Vem](https://open.spotify.com/album/6FfdfyjWxAlF3ctnKlgSOu) | 2:36 | 2023-10-27 | 2024-06-01 |
 | [Quando isso vai passar?](https://open.spotify.com/track/2ydOTMH0LViI8b9tRp1WOp) | [Bryan Behr](https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF) | [Quando isso vai passar?](https://open.spotify.com/album/66jTl9rLZaXN0yMH4j6biH) | 2:36 | 2023-12-08 | 2024-06-22 |
 | [Quando me ver passar](https://open.spotify.com/track/2CUIL76u0Nh37k1hcIwC4P) | [Bryan Behr](https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF) | [Quando me ver passar](https://open.spotify.com/album/2xUiJzdSoTEB16fD117fR7) | 2:14 | 2026-05-22 |  |

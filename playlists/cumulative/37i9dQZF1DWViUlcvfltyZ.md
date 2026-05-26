@@ -2,7 +2,7 @@
 
 ### [Rock Italia](https://open.spotify.com/playlist/37i9dQZF1DWViUlcvfltyZ)
 
-> Brao Krano, te te si merità el David de Donateo par "Le città di pianura" 🎸
+> Rock, indie e punk dall'Italia 🎸 cover: irossa al MI AMI Festival \(credits La Blet\)
 
 1,967 songs - 4 day 13 hr 53 min
 

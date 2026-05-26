@@ -1,61 +1,13 @@
 {
   "description": "Lo mejor del hip hop espa\u00f1ol. Feat. Elio Toffana",
-  "num_followers": 532671,
+  "num_followers": 532678,
   "original_name": "Rap Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIownjNThEzMFqjbN16Z3yIQcb9z",
+  "snapshot_id": "AAAAAIU6tglhTOgIG6IKr/USavckIXqk",
   "tracks": [
-    {
-      "added_at": "2026-05-21 22:00:42",
-      "album": {
-        "name": "GRAVITAS",
-        "url": "https://open.spotify.com/album/6isZxUm1nytbX1fFi6E4G3"
-      },
-      "artists": [
-        {
-          "name": "Elio Toffana",
-          "url": "https://open.spotify.com/artist/3iaWOU36p7W4oqHLDoBQmr"
-        },
-        {
-          "name": "Cruz Cafun\u00e9",
-          "url": "https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3"
-        },
-        {
-          "name": "Israel B",
-          "url": "https://open.spotify.com/artist/16M8fuShcwX8uBDdmFZH9B"
-        },
-        {
-          "name": "Lil Supa",
-          "url": "https://open.spotify.com/artist/0qHbO3z6lgLE6ZYCkQBo1K"
-        },
-        {
-          "name": "Ill Peke\u00f1o",
-          "url": "https://open.spotify.com/artist/3T4KspU3H8Ya6sgxexg9F8"
-        },
-        {
-          "name": "Ergo Pro",
-          "url": "https://open.spotify.com/artist/6RGXMZ5gUtYKHpG3RQ9fM4"
-        },
-        {
-          "name": "El Secreto Produce",
-          "url": "https://open.spotify.com/artist/4yj1qiNZsw5eXOWhEBbAfR"
-        },
-        {
-          "name": "Govea La Firma",
-          "url": "https://open.spotify.com/artist/2fvNE0HlLU5xViGXVN6zfG"
-        },
-        {
-          "name": "Dano",
-          "url": "https://open.spotify.com/artist/3lIsPQW0jN6sMpiWuiShF0"
-        }
-      ],
-      "duration_ms": 166773,
-      "name": "ES AS\u00cd",
-      "url": "https://open.spotify.com/track/7BJCw12eTZOambUbPxBrOq"
-    },
     {
       "added_at": "2026-05-21 22:00:42",
       "album": {
@@ -107,6 +59,54 @@
       "duration_ms": 220800,
       "name": "El Diario del Loco",
       "url": "https://open.spotify.com/track/6HlX2bpBirY8SBoBMc69nj"
+    },
+    {
+      "added_at": "2026-05-21 22:00:42",
+      "album": {
+        "name": "GRAVITAS",
+        "url": "https://open.spotify.com/album/6isZxUm1nytbX1fFi6E4G3"
+      },
+      "artists": [
+        {
+          "name": "Elio Toffana",
+          "url": "https://open.spotify.com/artist/3iaWOU36p7W4oqHLDoBQmr"
+        },
+        {
+          "name": "Cruz Cafun\u00e9",
+          "url": "https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3"
+        },
+        {
+          "name": "Israel B",
+          "url": "https://open.spotify.com/artist/16M8fuShcwX8uBDdmFZH9B"
+        },
+        {
+          "name": "Lil Supa",
+          "url": "https://open.spotify.com/artist/0qHbO3z6lgLE6ZYCkQBo1K"
+        },
+        {
+          "name": "Ill Peke\u00f1o",
+          "url": "https://open.spotify.com/artist/3T4KspU3H8Ya6sgxexg9F8"
+        },
+        {
+          "name": "Ergo Pro",
+          "url": "https://open.spotify.com/artist/6RGXMZ5gUtYKHpG3RQ9fM4"
+        },
+        {
+          "name": "El Secreto Produce",
+          "url": "https://open.spotify.com/artist/4yj1qiNZsw5eXOWhEBbAfR"
+        },
+        {
+          "name": "Govea La Firma",
+          "url": "https://open.spotify.com/artist/2fvNE0HlLU5xViGXVN6zfG"
+        },
+        {
+          "name": "Dano",
+          "url": "https://open.spotify.com/artist/3lIsPQW0jN6sMpiWuiShF0"
+        }
+      ],
+      "duration_ms": 166773,
+      "name": "ES AS\u00cd",
+      "url": "https://open.spotify.com/track/7BJCw12eTZOambUbPxBrOq"
     },
     {
       "added_at": "2026-05-21 22:00:42",

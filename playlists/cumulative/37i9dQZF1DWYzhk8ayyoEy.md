@@ -4,13 +4,14 @@
 
 > Warm, inspirational pop, that's good at heart\.  Cover: Nick Jonas
 
-207 songs - 11 hr 29 min
+208 songs - 11 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Light That Waits](https://open.spotify.com/track/58gVmfPYnafwxolIaPPqDo) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [A Light That Waits](https://open.spotify.com/album/6KCQ2KCGBL9dByWTy4Qdh6) | 3:23 | 2026-01-23 |  |
 | [A New Day Has Come](https://open.spotify.com/track/6LefIBy3hzTN6Yd1m81gpC) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [A New Day Has Come](https://open.spotify.com/album/1YQ5V21NSxR9ZauQ3RUbfZ) | 5:41 | 2024-05-13 |  |
 | [A Symptom Of Being Human](https://open.spotify.com/track/7xOB82ELg70RoIM3mMTkt4) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Planet Zero](https://open.spotify.com/album/7tWcsQLHpvXnUPN1jsSaGw) | 4:08 | 2024-02-16 |  |
+| [Alleluya \(Another World\)](https://open.spotify.com/track/7M2ThqUVttzAEZxf9XFF5Y) | [Tommy WÁ](https://open.spotify.com/artist/17e35Wp915ZK8I2wCBT1Kd) | [Alleluya \(Another World\)](https://open.spotify.com/album/4ZGcnoWB6M3CDYp3v1fNfV) | 3:30 | 2026-05-25 |  |
 | [ALWAYS](https://open.spotify.com/track/2MRm76TO0j4VBbyPj6lodc) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [ALWAYS](https://open.spotify.com/album/5Uja3ZpxQ6cF8IAakytXFP) | 2:38 | 2024-03-15 | 2024-07-27 |
 | [Anything Can Happen](https://open.spotify.com/track/5QpwOB8eAwbT3qIHO1LpEj) | [Tors](https://open.spotify.com/artist/41dCbpok7A4uyNqbo3VVZ0) | [Anything Can Happen \(Alt Versions\)](https://open.spotify.com/album/0zjPZCRrBDwrFjtLlsw7fN) | 3:09 | 2023-09-29 | 2023-11-05 |
 | [Anything Can Happen](https://open.spotify.com/track/5pXJ62pjtmNOLQ1nu3ctUj) | [Tors](https://open.spotify.com/artist/41dCbpok7A4uyNqbo3VVZ0) | [Anything Can Happen](https://open.spotify.com/album/1tND2eeINGrMm1ga2d6zC6) | 3:09 | 2023-09-29 | 2024-03-16 |
@@ -201,7 +202,7 @@
 | [Who I Am](https://open.spotify.com/track/5rnA7GuOZvPWYHuydZ08zx) | [Wyn Starks](https://open.spotify.com/artist/3rXMN9AbcZXln8vo79ufNQ) | [Black Is Golden](https://open.spotify.com/album/6jjBFckHG6PiKlHNGjvNQK) | 3:23 | 2024-07-01 |  |
 | [Who Knows](https://open.spotify.com/track/31P3lzjtP65naJF9LLnY2n) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Who Knows](https://open.spotify.com/album/1yFSk5BGw4B2fDnwJ7hulw) | 2:51 | 2025-05-27 |  |
 | [wildflower](https://open.spotify.com/track/2PtPgifaaf3zple5JmOu0m) | [Jordan Frye](https://open.spotify.com/artist/41IbYYlSlUZBjudQNAGvDu) | [wildflower](https://open.spotify.com/album/2Tbw2822fUUCPECiVspPM4) | 3:00 | 2025-01-03 |  |
-| [Winning Streak](https://open.spotify.com/track/4yAuMf5Nrp9j7CY0NOIaRh) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Beautifully Broken](https://open.spotify.com/album/0REXlSF3fDqqRrwOvlKhNd) | 3:14 | 2024-10-11 |  |
+| [Winning Streak](https://open.spotify.com/track/4yAuMf5Nrp9j7CY0NOIaRh) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Beautifully Broken](https://open.spotify.com/album/0REXlSF3fDqqRrwOvlKhNd) | 3:14 | 2024-10-11 | 2026-05-26 |
 | [Woke Up in Love](https://open.spotify.com/track/21H0pUV2uPIPcFnFhgTBjo) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Woke Up in Love](https://open.spotify.com/album/06q3cqjSYhkePDu6RW6Uoy) | 3:36 | 2023-01-04 | 2023-08-12 |
 | [Won't Let Go](https://open.spotify.com/track/4pRJMNLtar65GtT9vpzHu4) | [Jamie MacDonald](https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4) | [Jamie MacDonald](https://open.spotify.com/album/0y3pWJZ5j2JPYI2K3vPzZp) | 3:09 | 2026-01-23 |  |
 | [Wonder](https://open.spotify.com/track/5KCbr5ndeby4y4ggthdiAb) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Wonder](https://open.spotify.com/album/7vif3nVzXURIrjGjHeHytB) | 2:52 | 2023-05-05 |  |

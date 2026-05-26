@@ -31,4 +31,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0eSSRy.md) - [plain]
 | 21 | [Winona Ryder](https://open.spotify.com/track/3chwiu2j0vvNiOc5zvTnyY) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Semi Finalists](https://open.spotify.com/album/16RZf3BVDPmN4drdjiaxXY) | 4:14 |
 | 22 | [Albert Suffers](https://open.spotify.com/track/7JesfTaIawT1Uib0zuvwta) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Fixed It All](https://open.spotify.com/album/5GVTqRW3SJkS0oCU0YREVG) | 4:06 |
 
-Snapshot ID: `ahDuAAAAAAAznl5m+dUdZUwFZ/YybjgA`
+Snapshot ID: `ahI/gAAAAABwoThEiRwf1T50iI7z8uc4`

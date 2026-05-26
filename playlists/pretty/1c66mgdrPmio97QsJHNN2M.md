@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 
 > FREE SUBMISSIONS \- Got unreleased music in 2025 or like to hear unsigned artists?  30 days free promotion for new music\. Just submit via my linktree: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;Anythings.Possible.Music
 
-[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 5,562 likes - 283 songs - 15 hr 18 min
+[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 5,576 likes - 290 songs - 15 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 | 70 | [if i had you](https://open.spotify.com/track/5pPCbLQ1trQ56fzPrO2qpb) | [Logisrotting](https://open.spotify.com/artist/7g7f7dg6KSajgtY7lPctND) | [if i had you](https://open.spotify.com/album/6uvYHI1DjDiupU6zLVYEKl) | 3:38 |
 | 71 | [I Find My Song](https://open.spotify.com/track/1M0qYTLT54tub1POGPqpxq) | [Lisa Jo](https://open.spotify.com/artist/0dvzAmfBa1sWZUbowP6VPH), [SoundPulse Record Label LLC](https://open.spotify.com/artist/66zjIq3yG58uTzqyiTFHbn) | [I Find My Song](https://open.spotify.com/album/4mX4VMQAJZDFt0j25pU9Fg) | 2:18 |
 | 72 | [Rewind to nowhere](https://open.spotify.com/track/1xVmVelbSLvIcuQ8oLjupx) | [Blue Ringed Octopus](https://open.spotify.com/artist/4hSh0JAucj4p5RNAPwdYOK) | [Fading Echoes](https://open.spotify.com/album/3wGgehTmtA8BgBpfAwOKmH) | 2:36 |
-| 73 | [Lovebomb](https://open.spotify.com/track/0lyxfdzPgre3bAaRomdzge) | [Solaice](https://open.spotify.com/artist/6K2QpMUpUSobV5dKkVW7SX) | [Lovebomb](https://open.spotify.com/album/3ndbWFzOl2YMcxBj4f55qk) | 1:50 |
+| 73 | [Lovebomb](https://open.spotify.com/track/0lyxfdzPgre3bAaRomdzge) | [Solaice Fleur](https://open.spotify.com/artist/4sm7ThjShPw0xKkzUWYGcg) | [Lovebomb](https://open.spotify.com/album/3ndbWFzOl2YMcxBj4f55qk) | 1:50 |
 | 74 | [Coming Home To You](https://open.spotify.com/track/5EBOdiejA8xY61gCT5Sa9B) | [bullet 7](https://open.spotify.com/artist/6GCn8WZKbolndTfM4rxNJf) | [Just](https://open.spotify.com/album/1cQwFh0glcxrFd8npwHx04) | 2:49 |
 | 75 | [Reason I'm Still Here](https://open.spotify.com/track/7n47qbmUSGC1Dq93LrvDHK) | [Jokker Verse](https://open.spotify.com/artist/7DDxp41lhRbfWkJSpkp3c3) | [Holding Hurt & Hope](https://open.spotify.com/album/1UjTWrCU0yOhC22bFYuy25) | 2:35 |
 | 76 | [Vintage Heart](https://open.spotify.com/track/5hxPzu5XtGd21tsgwyJ7xs) | [MARIS BEN](https://open.spotify.com/artist/7I3i5jZW1EhGnam7NKyDt2) | [Vintage Heart](https://open.spotify.com/album/58Hm42A2HL02DUe5JGH8IE) | 3:17 |
@@ -291,5 +291,12 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 | 281 | [Pardon My French](https://open.spotify.com/track/2DCQbWFEmKvCe4Bt02Bz7o) | [Ndukwe](https://open.spotify.com/artist/5bTGf4KBDXwVohbzdfapB0) | [Pardon My French](https://open.spotify.com/album/3cBPOh4GAVucPEVj30BPcu) | 2:57 |
 | 282 | [Dance Wit Me](https://open.spotify.com/track/79DU8FIMzHGaii1TxbkK0W) | [xmusologyx](https://open.spotify.com/artist/2nZu9Sy2vwFosxR8eJuVq7) | [Dance Wit Me](https://open.spotify.com/album/6rO9mXy4nAOsw0AP1XWoZ4) | 2:59 |
 | 283 | [Eurobear Lisbon](https://open.spotify.com/track/6ClpZ2w9khUkoQga930BME) | [Mighty Bear](https://open.spotify.com/artist/1TUOL2jShvm4a1V06HWc2h) | [Eurobear Lisbon](https://open.spotify.com/album/6J7QaD17K7IBpgpp3DaOk8) | 5:07 |
+| 284 | [Sunray \(Show Me Where To Go\) \- Pop Rework](https://open.spotify.com/track/0spNYMW0IKjuG1Ca8NS8jF) | [Massimo Cambiano](https://open.spotify.com/artist/136mSgXwiauByJuEdXAkGz) | [Sunray \(Show Me Where To Go\) \(Pop Rework\)](https://open.spotify.com/album/7FGo5fkp1urfP9Qp1sUJwq) | 2:43 |
+| 285 | [Broken Hearts](https://open.spotify.com/track/4zoUcOXipFBK89Sxk1viho) | [Mahi C.](https://open.spotify.com/artist/6lhY9gJxBcDnQhqNwJBbQ5) | [Broken Hearts](https://open.spotify.com/album/2TX9ObajaRRKXS6c8NwF0i) | 3:07 |
+| 286 | [overstimulation\. \(overthinking, Pt\. 2\)](https://open.spotify.com/track/6WVlEjF7lBPQz4WdpdYJl5) | [Lil Nucleus](https://open.spotify.com/artist/23xK07bovUynQY9LDP6foQ) | [overstimulation\. \(overthinking, Pt\. 2\)](https://open.spotify.com/album/5pVF2KHIHIM7XOJyRCWx4u) | 1:04 |
+| 287 | [With You \(I Don't Care\) \- Reimagined](https://open.spotify.com/track/5R91LBZqM3WZDyiRupYtz1) | [Mike Byrne](https://open.spotify.com/artist/6svEovnBhWmRZWH5rfKzx9) | [With You \(I Don't Care\) \[Reimagined\]](https://open.spotify.com/album/0Po18BDZBgCBYE7cuS00Yd) | 3:28 |
+| 288 | [Not My Boyfriend](https://open.spotify.com/track/4jSCbJoSYnzecbIILbW3tk) | [Davi Crowne](https://open.spotify.com/artist/7MNZVfGPgjBa6VTM4hpc8s) | [Almost Always](https://open.spotify.com/album/22SDpoOZDMQHUkKHJeWoC5) | 2:49 |
+| 289 | [I Ain't Country But My Friends Are](https://open.spotify.com/track/2WJVd7kvQzHf7K8WiaSuwI) | [Jason Jarrett](https://open.spotify.com/artist/4rgw61pW4Elbxf14ssmWWO) | [I Ain't Country But My Friends Are](https://open.spotify.com/album/3R0IHEg0SvcUrkwnG0ehJO) | 3:37 |
+| 290 | [The Flame](https://open.spotify.com/track/5sv9RrS15XZmLv5k1llDTF) | [Fishburn](https://open.spotify.com/artist/2hZ0ipXOnImt0uNT9VbAhP) | [The Flame](https://open.spotify.com/album/44VJhlF31Rfvl7evnRFjjw) | 4:42 |
 
-Snapshot ID: `AAA4nwSW8zBUizuHFRWS9s+wHDdgby9f`
+Snapshot ID: `AAA4pq7WKZ4FeJq5dw6y2pY/yL5d93Jf`

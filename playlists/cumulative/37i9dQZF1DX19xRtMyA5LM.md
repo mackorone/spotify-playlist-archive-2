@@ -4,7 +4,7 @@
 
 > De beste tracks in WS❗️Cover: GEM\-Z: Burleson, Highguest, FJ & Quina01
 
-450 songs - 20 hr 9 min
+451 songs - 20 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [AMBIANCE](https://open.spotify.com/track/7twLk6frSaHq0184G0nwi1) | [Bartofso](https://open.spotify.com/artist/5EBNHekbDwV3Q9POxvSMBI) | [AMBIANCE](https://open.spotify.com/album/0O24lyA2ujee85xnSXWHMk) | 2:29 | 2026-03-26 | 2026-04-17 |
 | [AMG Met Matje](https://open.spotify.com/track/5ggvkkbCuV1rh01Ey8KoUY) | [Qlas](https://open.spotify.com/artist/4bB3nz947QqaXQ5DZFcZgS), [Mula B](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi) | [AMG Met Matje](https://open.spotify.com/album/2OAo3a49XmUBYcb5gAtOzP) | 3:27 | 2026-02-05 | 2026-04-17 |
 | [Annie](https://open.spotify.com/track/61zWhf6RKGGXcIONwtmMsK) | [Milolaathetlukken](https://open.spotify.com/artist/31RYhg7Auitqp3eg9rTB9i) | [Annie](https://open.spotify.com/album/4ib2gF1REV9lhSSRsfUA6E) | 1:57 | 2025-08-28 | 2025-09-26 |
-| [APPLE WATCH](https://open.spotify.com/track/0q3D0FlBgp7vdMErL6wt0J) | [Bartofso](https://open.spotify.com/artist/5EBNHekbDwV3Q9POxvSMBI) | [APPLE WATCH](https://open.spotify.com/album/1SzU7cYlTKGhpNKFcShSeT) | 2:30 | 2026-05-14 |  |
+| [APPLE WATCH](https://open.spotify.com/track/0q3D0FlBgp7vdMErL6wt0J) | [Bartofso](https://open.spotify.com/artist/5EBNHekbDwV3Q9POxvSMBI) | [APPLE WATCH](https://open.spotify.com/album/1SzU7cYlTKGhpNKFcShSeT) | 2:30 | 2026-05-14 | 2026-05-26 |
 | [Archives](https://open.spotify.com/track/7qqMHnEtc7uH0YpKDortUU) | [HIGH SOCIETY](https://open.spotify.com/artist/4jKqyxQfzYrfO3MvccH7Ps), [OYSTER](https://open.spotify.com/artist/5vxYgsUqkYuqL5nLzwnKsk), [Lostt](https://open.spotify.com/artist/2zvq4i4GGwZ6T5CmWcjJkk) | [Springplank 2](https://open.spotify.com/album/5RBDnynhE6JzqTX7crUAXd) | 3:15 | 2025-07-17 | 2025-08-08 |
 | [AUDI](https://open.spotify.com/track/2z4aCFqMlVPR4mFRLBYQsI) | [Rockywhereyoubeen](https://open.spotify.com/artist/5pieMKHiTXhVZEmlMT0ij7), [Orco](https://open.spotify.com/artist/0fu2mSZ27dPE5OElHvgQP7), [Avie](https://open.spotify.com/artist/3HjE47TE0eAsXavKpEOp7i) | [AUDI](https://open.spotify.com/album/5eqqiWRn7PWdM02BBbVqNM) | 2:06 | 2025-10-21 | 2025-12-05 |
 | [Aura](https://open.spotify.com/track/5zJbskfAwD56jTcJ6q13KU) | [MRD](https://open.spotify.com/artist/1Ph1cqOn7flTxltVNis2l9) | [Aura](https://open.spotify.com/album/6uLm8ur2Ma1RTuaXPEz9xn) | 2:49 | 2025-10-02 | 2025-11-14 |
@@ -363,6 +363,7 @@
 | [Seal](https://open.spotify.com/track/2s0G2cbPrXyjoAogoIEMyG) | [NOBODYPANICC](https://open.spotify.com/artist/4JIZ3k1lKVbM61RPGN6QTg) | [Seal](https://open.spotify.com/album/0DJ7H7ZndxMXvpYFyPLpgF) | 1:34 | 2025-11-13 | 2026-01-16 |
 | [Sensa](https://open.spotify.com/track/4OByoXgJXbXD4KXtHeA4Xi) | [Mensa](https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC), [3robi](https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o), [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q) | [Sensa](https://open.spotify.com/album/04aZ9bzLSxCBwKBmo7UXwW) | 2:02 | 2026-04-02 |  |
 | [Shoulder Lean](https://open.spotify.com/track/3FMy6QQ9L7DIKRwXeXvzpP) | [Siggy & D1ns](https://open.spotify.com/artist/7Hr9muVs27WNIcEqGVQGcm), [GP UIT G](https://open.spotify.com/artist/4dgbnJmnTFDiJiKloaWH2p), [Rijck](https://open.spotify.com/artist/0TzY5bHHF5sZsm1XV5UCzZ) | [Shoulder Lean](https://open.spotify.com/album/2LUOPrx3vuEzFGMqZeR0Hl) | 2:34 | 2026-02-26 | 2026-04-17 |
+| [Sicarios](https://open.spotify.com/track/4pwRMlvPuVEwBvyyq6N8Up) | [Djaga Djaga](https://open.spotify.com/artist/4mg1S6eUvRL9IZKzEShYB8), [Yssi SB](https://open.spotify.com/artist/0o1hCS1PDOc1UtVrcXB9s8), [Young Ellens](https://open.spotify.com/artist/0SuC1Z51R9kleDO1pj3Gub) | [Sicarios](https://open.spotify.com/album/5PI85NHJbG7BBYjvKU3jun) | 4:49 | 2026-05-25 |  |
 | [Single Als Een Pringle](https://open.spotify.com/track/4ufqOm0cENMXRiv99ATSW5) | [Qlas](https://open.spotify.com/artist/4bB3nz947QqaXQ5DZFcZgS) | [Single Als Een Pringle](https://open.spotify.com/album/1HguKOd3vz2q21y2USVlaP) | 2:25 | 2026-04-23 | 2026-05-22 |
 | [Skaten \(feat\. ADF Ricky & Ronnie Flex\)](https://open.spotify.com/track/4VuiIJ8tWsbmYlIePCDfSS) | [ADF Samski](https://open.spotify.com/artist/5qeFPM2PZUCzcpkY4e4RC8), [ADF Ricky](https://open.spotify.com/artist/2n4Ly3WB76aVYBJ2c97y0E), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [Fresh Prince Van Noord Deluxe](https://open.spotify.com/album/0I8EbLqQri54Ol6ywVEQ3x) | 1:20 | 2026-01-05 | 2026-01-30 |
 | [Sky Dweller](https://open.spotify.com/track/3zdwEr6ueR5VUeajFodUug) | [Chardy](https://open.spotify.com/artist/75TcM0uB8Oxfv6CyDzySDa) | [Sky Dweller](https://open.spotify.com/album/4E17M8EByWHHCGoScjnDhj) | 2:48 | 2025-07-17 | 2025-09-19 |

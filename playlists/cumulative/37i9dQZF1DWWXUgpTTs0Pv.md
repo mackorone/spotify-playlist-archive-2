@@ -4,7 +4,7 @@
 
 > Family friendly country songs to listen to together.
 
-175 songs - 10 hr 8 min
+176 songs - 10 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Check Yes Or No](https://open.spotify.com/track/6iy4PoAuZBMvtrlDX4VxC7) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Strait Out Of The Box](https://open.spotify.com/album/2j7URVIN8GPGqzb8xi2hYW) | 3:20 | 2024-01-15 |  |
 | [Chicken Fried](https://open.spotify.com/track/0LQtEJt7x0s6knb6RKdRYc) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [The Foundation](https://open.spotify.com/album/08XFx1OZMZnRCh0JrKTIgT) | 3:58 | 2024-01-15 | 2024-04-19 |
 | [Chicken Fried](https://open.spotify.com/track/4dGJf1SER1T6ooX46vwzRB) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [The Foundation](https://open.spotify.com/album/0Im5nUhAuNDSYVjfPh7RyS) | 3:58 | 2024-02-16 |  |
+| [Choosin' Texas](https://open.spotify.com/track/65DbTqJKhbwqYbZ1Okr0rc) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Choosin' Texas](https://open.spotify.com/album/4ggV0IaczfDFjVSwBM8yvi) | 3:52 | 2026-05-25 |  |
 | [Cold Feet](https://open.spotify.com/track/5y2KmB9m8alVWvoSrocKSW) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Rebel Child](https://open.spotify.com/album/4uviXxlPpQL2ZFy61fHMI6) | 3:26 | 2020-09-29 | 2022-07-29 |
 | [Cold Feet](https://open.spotify.com/track/3WzlvxFirQXdncjuLB5vzN) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Rebel Child \(Deluxe Edition\)](https://open.spotify.com/album/0SmntgjUR6subxN4PxyZSI) | 3:29 | 2020-09-29 | 2024-01-16 |
 | [Cold Feet](https://open.spotify.com/track/7eBFlgVVEyX4lQgK0RHDjg) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Rebel Child \(Deluxe Edition\)](https://open.spotify.com/album/5BCg4dSAwNSpLzyU9lJBN6) | 3:29 | 2020-09-29 | 2022-10-22 |
@@ -116,7 +117,7 @@
 | [Miss Me More](https://open.spotify.com/track/5NfJGBAL9mgFPRQxKJmiX2) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Unapologetically \(Deluxe Edition\)](https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA) | 3:12 | 2020-09-29 | 2025-03-06 |
 | [My Boy](https://open.spotify.com/track/47fyYjbsfq48e3fUys4Xaa) | [Elvie Shane](https://open.spotify.com/artist/2eIB6vFotL2su94z3pUC1j) | [Backslider](https://open.spotify.com/album/3ajAv3GaQivcQyU5JuE8eY) | 3:23 | 2023-07-12 | 2023-11-04 |
 | [My Boy](https://open.spotify.com/track/63QiiGGFUbVJMIG9Pw7Dna) | [Elvie Shane](https://open.spotify.com/artist/2eIB6vFotL2su94z3pUC1j) | [Backslider](https://open.spotify.com/album/0iyg3QqROay2R4ejj8GBqP) | 3:23 | 2023-08-18 | 2024-01-16 |
-| [My Church](https://open.spotify.com/track/1LM5zQv5pBKPyO7rm7Uz6U) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [HERO \(Deluxe Edition\)](https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK) | 3:17 | 2020-09-29 |  |
+| [My Church](https://open.spotify.com/track/1LM5zQv5pBKPyO7rm7Uz6U) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [HERO \(Deluxe Edition\)](https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK) | 3:17 | 2020-09-29 | 2026-05-26 |
 | [Neon Moon](https://open.spotify.com/track/2M38X60UJnupGPbFTkVPNQ) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz) | [Brand New Man](https://open.spotify.com/album/4cqxNQQB21g1jEWtnu3jN3) | 4:21 | 2024-02-16 |  |
 | [Nobody But You \(Duet with Gwen Stefani\)](https://open.spotify.com/track/5M8goiFYynmNxhueYW6grR) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw), [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [Fully Loaded: God's Country](https://open.spotify.com/album/4Kd33JPxTOcjTM29FrKoyT) | 3:14 | 2020-09-29 | 2026-01-19 |
 | [Nobody's Perfect](https://open.spotify.com/track/4vVfRWdlmutAeIDlSNJ4qw) | [The Reklaws](https://open.spotify.com/artist/37lYaYPWOHjKXBD33S6LNv) | [Freshman Year](https://open.spotify.com/album/5Q8FQbnx7oRBqKeIX8XoV7) | 3:06 | 2020-09-29 | 2024-01-16 |

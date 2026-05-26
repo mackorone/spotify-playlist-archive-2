@@ -42755,6 +42755,32 @@
     },
     {
       "album": {
+        "name": "\u0644\u064a\u0644 \u0648 \u0633\u0647\u0631",
+        "url": "https://open.spotify.com/album/6f9FczaUDIwBd54D3k8RiG"
+      },
+      "artists": [
+        {
+          "name": "Ahmed M Farid",
+          "url": "https://open.spotify.com/artist/7I6twl0w4JIsFe7howLGLk"
+        },
+        {
+          "name": "AFROTO Beats",
+          "url": "https://open.spotify.com/artist/3nCLSI5jV4qNit9F2hgrq0"
+        },
+        {
+          "name": "Super Mono",
+          "url": "https://open.spotify.com/artist/76VzYrqb4WDRVNBimbYsWt"
+        }
+      ],
+      "date_added": "2026-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179277,
+      "name": "\u0644\u064a\u0644 \u0648 \u0633\u0647\u0631",
+      "url": "https://open.spotify.com/track/1LpYFfXPmghqqxrSd8EoQz"
+    },
+    {
+      "album": {
         "name": "\u3042\u306a\u305f",
         "url": "https://open.spotify.com/album/1CZNZD1qvAbHlFcdByhbfR"
       },

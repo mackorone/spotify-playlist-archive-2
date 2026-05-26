@@ -4,23 +4,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 
 > De nieuwste Hollands & Volkspop releases\. Cover: Nelis Leeman
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,916 likes - 105 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,943 likes - 105 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ze Mogen Alles Van Me Krijgen](https://open.spotify.com/track/7bLNL1xHgJYwqyI3fQlRSo) | [Nelis Leeman](https://open.spotify.com/artist/4A3IBBCIWvHw5LowCbFVbE) | [Ze Mogen Alles Van Me Krijgen](https://open.spotify.com/album/7xJGSEqfNnPyM3RPB0JMJy) | 2:46 |
 | 2 | [In De Boeken](https://open.spotify.com/track/5iHmlYIg8FaLrfxjRbmj3M) | [RAYMON HERMANS](https://open.spotify.com/artist/74nbJZq9ryws0hx2U2CE8G) | [In De Boeken](https://open.spotify.com/album/6W57eI7WR2WhTTfcyyWhw2) | 2:41 |
-| 3 | [Ik Doe Wat Ik Wil](https://open.spotify.com/track/3QrDgyGRJOsDqOFUaAnxD9) | [Sieneke](https://open.spotify.com/artist/3AbzwHPIn3CHOZ91SstXk0) | [Ik Doe Wat Ik Wil](https://open.spotify.com/album/5mYxWHw4qS6KAfGCXZNcD4) | 2:55 |
-| 4 | [Mijn Manuela](https://open.spotify.com/track/4ESMSpof4BBHNvj1J99tBV) | [Mike Kanders](https://open.spotify.com/artist/0bLOBOM8xoHml0QBurC1ci) | [Mijn Manuela](https://open.spotify.com/album/0hVjy6ZHpV1gnhY4LF2Gly) | 3:09 |
-| 5 | [Ik Drink Rosé](https://open.spotify.com/track/44GKO40UgFA0cTOWeSLyPz) | [Wesly Bronkhorst](https://open.spotify.com/artist/6PBYhsdRwm1WbQC4GvNiCp) | [Ik Drink Rosé](https://open.spotify.com/album/4bDMJ32MzoEKI1h949iiyX) | 2:16 |
-| 6 | [Zwoele Zomernachten](https://open.spotify.com/track/6gtGFybqydN4OMfy8M6M4b) | [Rutger van Barneveld](https://open.spotify.com/artist/5N0fvYueADU53qanvPfmV7) | [Zwoele Zomernachten](https://open.spotify.com/album/1tosO6LN7sy2lKJ0Hx4dmT) | 3:15 |
-| 7 | [Waarom Ben Jij Gegaan \- Radio Edit](https://open.spotify.com/track/1SjVKQu9u0FzwrhDg5OKYd) | [Django Wagner](https://open.spotify.com/artist/2onmCslqboJDdDoCo7ZPd2) | [Waarom Ben Jij Gegaan \(Radio Edit\)](https://open.spotify.com/album/5qG5suXZn5bplJOdUg6wjy) | 2:35 |
-| 8 | [Jong & Dom](https://open.spotify.com/track/4Sr55tCgF7I1gEr9YJ7Xng) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4) | [Jong & Dom](https://open.spotify.com/album/00YkFHItYazV2hJ1SU6d9g) | 3:07 |
-| 9 | [Vespa](https://open.spotify.com/track/2zvXfv3Cog6MIVEnPDzbp4) | [Dave Dekker](https://open.spotify.com/artist/56M6joy09OXF448uVNKZ04) | [Vespa](https://open.spotify.com/album/5MYGAgMj7Z46h0znl6eeMb) | 3:04 |
-| 10 | [Als De Zon Schijnt](https://open.spotify.com/track/3peTzOA4EMrQejDWL31KMr) | [Marco Kraats](https://open.spotify.com/artist/1O2nfhQ9ZxTWY9eTC27dvp), [Lange Frans](https://open.spotify.com/artist/5I2d294l90n7EMWVNUZczE) | [Als De Zon Schijnt](https://open.spotify.com/album/6ksMXdJiJxIwCKL59GCxrH) | 2:17 |
-| 11 | [Griekse Nacht](https://open.spotify.com/track/104eV6ie6a5f3OqhNp1dMJ) | [Jeroen Van Zelst](https://open.spotify.com/artist/0wBzidLaREzN3M2UrjwbnR) | [Griekse Nacht](https://open.spotify.com/album/2WbdOFY5SqeLTZbvRrFBN4) | 2:53 |
-| 12 | [Menens](https://open.spotify.com/track/2gasGNrOoOHqb9gTJG4TJx) | [Mike Appelhof](https://open.spotify.com/artist/0bw5QUWR6fvaH1b5xf1CeQ) | [Menens](https://open.spotify.com/album/0cxgnecX7oaz2qOhnnjhcd) | 2:18 |
-| 13 | [Een Mooie Chica Zoals Zij](https://open.spotify.com/track/5zrEWCqBaMcLR2hJDwwMDP) | [Gerard Palts](https://open.spotify.com/artist/7agcYn7rMxlilM5iilw4qf), [Jaman](https://open.spotify.com/artist/6VIHmm4hJ3OG1yy9fGbECD) | [Een Mooie Chica Zoals Zij](https://open.spotify.com/album/27w8RpSc7otfzaI7bN2krC) | 2:32 |
+| 3 | [Als De Zon Schijnt](https://open.spotify.com/track/3peTzOA4EMrQejDWL31KMr) | [Marco Kraats](https://open.spotify.com/artist/1O2nfhQ9ZxTWY9eTC27dvp), [Lange Frans](https://open.spotify.com/artist/5I2d294l90n7EMWVNUZczE) | [Als De Zon Schijnt](https://open.spotify.com/album/6ksMXdJiJxIwCKL59GCxrH) | 2:17 |
+| 4 | [Zwoele Zomernachten](https://open.spotify.com/track/6gtGFybqydN4OMfy8M6M4b) | [Rutger van Barneveld](https://open.spotify.com/artist/5N0fvYueADU53qanvPfmV7) | [Zwoele Zomernachten](https://open.spotify.com/album/1tosO6LN7sy2lKJ0Hx4dmT) | 3:15 |
+| 5 | [Ik Doe Wat Ik Wil](https://open.spotify.com/track/3QrDgyGRJOsDqOFUaAnxD9) | [Sieneke](https://open.spotify.com/artist/3AbzwHPIn3CHOZ91SstXk0) | [Ik Doe Wat Ik Wil](https://open.spotify.com/album/5mYxWHw4qS6KAfGCXZNcD4) | 2:55 |
+| 6 | [Mijn Manuela](https://open.spotify.com/track/4ESMSpof4BBHNvj1J99tBV) | [Mike Kanders](https://open.spotify.com/artist/0bLOBOM8xoHml0QBurC1ci) | [Mijn Manuela](https://open.spotify.com/album/0hVjy6ZHpV1gnhY4LF2Gly) | 3:09 |
+| 7 | [Ik Drink Rosé](https://open.spotify.com/track/44GKO40UgFA0cTOWeSLyPz) | [Wesly Bronkhorst](https://open.spotify.com/artist/6PBYhsdRwm1WbQC4GvNiCp) | [Ik Drink Rosé](https://open.spotify.com/album/4bDMJ32MzoEKI1h949iiyX) | 2:16 |
+| 8 | [Waarom Ben Jij Gegaan \- Radio Edit](https://open.spotify.com/track/1SjVKQu9u0FzwrhDg5OKYd) | [Django Wagner](https://open.spotify.com/artist/2onmCslqboJDdDoCo7ZPd2) | [Waarom Ben Jij Gegaan \(Radio Edit\)](https://open.spotify.com/album/5qG5suXZn5bplJOdUg6wjy) | 2:35 |
+| 9 | [Een Mooie Chica Zoals Zij](https://open.spotify.com/track/5zrEWCqBaMcLR2hJDwwMDP) | [Gerard Palts](https://open.spotify.com/artist/7agcYn7rMxlilM5iilw4qf), [Jaman](https://open.spotify.com/artist/6VIHmm4hJ3OG1yy9fGbECD) | [Een Mooie Chica Zoals Zij](https://open.spotify.com/album/27w8RpSc7otfzaI7bN2krC) | 2:32 |
+| 10 | [Jong & Dom](https://open.spotify.com/track/4Sr55tCgF7I1gEr9YJ7Xng) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4) | [Jong & Dom](https://open.spotify.com/album/00YkFHItYazV2hJ1SU6d9g) | 3:07 |
+| 11 | [Vespa](https://open.spotify.com/track/2zvXfv3Cog6MIVEnPDzbp4) | [Dave Dekker](https://open.spotify.com/artist/56M6joy09OXF448uVNKZ04) | [Vespa](https://open.spotify.com/album/5MYGAgMj7Z46h0znl6eeMb) | 3:04 |
+| 12 | [Griekse Nacht](https://open.spotify.com/track/104eV6ie6a5f3OqhNp1dMJ) | [Jeroen Van Zelst](https://open.spotify.com/artist/0wBzidLaREzN3M2UrjwbnR) | [Griekse Nacht](https://open.spotify.com/album/2WbdOFY5SqeLTZbvRrFBN4) | 2:53 |
+| 13 | [Menens](https://open.spotify.com/track/2gasGNrOoOHqb9gTJG4TJx) | [Mike Appelhof](https://open.spotify.com/artist/0bw5QUWR6fvaH1b5xf1CeQ) | [Menens](https://open.spotify.com/album/0cxgnecX7oaz2qOhnnjhcd) | 2:18 |
 | 14 | [De Leeuw Komt Eraan](https://open.spotify.com/track/28GAHI5g37JbdtdwcTyfI7) | [Samuel Welten](https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9) | [De Leeuw Komt Eraan](https://open.spotify.com/album/2cYpryI2g6eu20whof2VI8) | 2:14 |
 | 15 | [Spreid Mijn Vleugels Uit](https://open.spotify.com/track/7wmCxH0kdh25z1JZQwz6WD) | [Manuel](https://open.spotify.com/artist/55exyuiyKcFgjaTEsxz8Vy) | [Spreid Mijn Vleugels Uit](https://open.spotify.com/album/0woe4G2WwiCMGzIuHMuOwz) | 3:06 |
 | 16 | [Die Laatste](https://open.spotify.com/track/3V6uUu5t0xy29cpeNJ2ain) | [Arjan Venemann](https://open.spotify.com/artist/58lFqjrtr45UKENdlfHNE6) | [Die Laatste](https://open.spotify.com/album/3OuJlaJLTENKLvVUCAHtEp) | 2:57 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 | 104 | [Avond voor in de Boeken](https://open.spotify.com/track/6ppgRsjpZzpJGGhzbQsTP9) | [Fons Veurink](https://open.spotify.com/artist/3rBMW23ztdIPx3poh9Z0G0) | [Avond voor in de Boeken](https://open.spotify.com/album/6EeWtkYsrjKAq2FkZ0OHPQ) | 2:55 |
 | 105 | [Rosalie](https://open.spotify.com/track/5y91VPHHl82NAmK60i1KFv) | [Jan van Est](https://open.spotify.com/artist/1feKpwHpzkvIwaG7a8KwhE) | [Rosalie](https://open.spotify.com/album/5rZVMifD7MBvqaQ0d3Tvcs) | 2:45 |
 
-Snapshot ID: `AAAAAIXY6gp6ac1c80ZJFNNh3GVwwqcO`
+Snapshot ID: `AAAAALIlBrsfxMlCn9RzgJvGSpldBhVu`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, pra você garimpar lançamentos\. Foto: KayBlack
 
-[Spotify](https://open.spotify.com/user/spotify) - 610,202 likes - 75 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 610,161 likes - 75 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 17 | [Vibração](https://open.spotify.com/track/7FmrORHUYaNlBF1lS0HayP) | [Gapes](https://open.spotify.com/artist/3ADff4whbAS71o4L1B3vYu) | [Vibração](https://open.spotify.com/album/5yNQz4Zf4SYwygZk7hTE7c) | 2:41 |
 | 18 | [Instinto \- A COLORS SHOW](https://open.spotify.com/track/5z1lDrpmvOgZuvjg4sVB7F) | [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Instinto \- A COLORS SHOW](https://open.spotify.com/album/5pegf29QfJ71h6D3Pu2xa7) | 2:21 |
 | 19 | [QUEM É BANDIDO NÃO FALA!](https://open.spotify.com/track/1HR4dYh0FSrkkBOIkW8Twj) | [MD Chefe](https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs), [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [ProdbyFp](https://open.spotify.com/artist/3ZvLD1r68ljiKAmPP399fK) | [QUEM É BANDIDO NÃO FALA!](https://open.spotify.com/album/2Qwhae5mBLsaPJ63W6Jbha) | 2:21 |
-| 20 | [MC Igu \- PENSE FORA DA CAIXA \#6](https://open.spotify.com/track/022EE1KMnbIqBiWNUPRvCd) | [THE BOX](https://open.spotify.com/artist/7gHzR22tDNSWGS4HkvvPgw), [MC Igu](https://open.spotify.com/artist/5K854sjdzabwOy9KltU3Po), [Prod.Chipzz](https://open.spotify.com/artist/034hICE3RKwd6hmV7N383u) | [MC Igu \- PENSE FORA DA CAIXA \#6](https://open.spotify.com/album/6mVOVHSSS0Zz5y1kz6eHVf) | 2:17 |
+| 20 | [MC Igu \- PENSE FORA DA CAIXA \#6](https://open.spotify.com/track/022EE1KMnbIqBiWNUPRvCd) | [THE BOX](https://open.spotify.com/artist/7gHzR22tDNSWGS4HkvvPgw), [MC Igu](https://open.spotify.com/artist/5K854sjdzabwOy9KltU3Po), [Prod.Chipzz](https://open.spotify.com/artist/034hICE3RKwd6hmV7N383u), [Blamecrxz](https://open.spotify.com/artist/5EtcGIS9EWCiIvdSr42BG5) | [MC Igu \- PENSE FORA DA CAIXA \#6](https://open.spotify.com/album/6mVOVHSSS0Zz5y1kz6eHVf) | 2:17 |
 | 21 | [SABOR CEREJA](https://open.spotify.com/track/5XpDjay2yMsNif4aqw7Vhs) | [CJota](https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [LYONS PROD.](https://open.spotify.com/artist/1uYUCETagKA8ukZ1VFmXzr) | [DE VOLTA A ESSÊNCIA](https://open.spotify.com/album/5EOeiIdMnCeTFFEaRbUwWT) | 2:33 |
 | 22 | [Blindado](https://open.spotify.com/track/4Hcw0S0bFvUvSjHldNlmMr) | [Gapes](https://open.spotify.com/artist/3ADff4whbAS71o4L1B3vYu), [Delua Og](https://open.spotify.com/artist/3FUntHc3JwWp9Ktf8R7gjd) | [Blindado & Garoa](https://open.spotify.com/album/0c4hIHNoKSEcelgCKXw1Ci) | 2:06 |
 | 23 | [VILA MENCK, OSASCO](https://open.spotify.com/track/3IZxVLDlrt6Dj3VLxtKVtF) | [Emitê Único](https://open.spotify.com/artist/4z8ieq95PTFrqoxYhozY75), [Neckklace](https://open.spotify.com/artist/3914e1ewXuF036M63rgK0d), [Salve Crazy](https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q) | [VILA MENCK, OSASCO](https://open.spotify.com/album/7xjTzzT6LBHYpdy4VmnAav) | 2:08 |

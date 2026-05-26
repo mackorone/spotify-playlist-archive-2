@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 
 > Os padres e nomes que movem multidões pelo país\. Foto: Comunidade Católica Shalom
 
-[Spotify](https://open.spotify.com/user/spotify) - 378,679 likes - 70 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 378,775 likes - 70 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 | 56 | [Seremos o Amor](https://open.spotify.com/track/7gbzb7eTvjIdI6uqI663TA) | [Ministério Reacender](https://open.spotify.com/artist/69I9OunTsBjEkPjKzuwHlX), [Paróquia Santa Terezinha](https://open.spotify.com/artist/2z82CXTLel1putelzeXQv8) | [Seremos o Amor](https://open.spotify.com/album/11269KCRvrv5jBX520lIDb) | 6:45 |
 | 57 | [Minha Vocação](https://open.spotify.com/track/2bb2BDNQXu3VJeuporvpoO) | [Juliana de Paula](https://open.spotify.com/artist/3gPXWkF4RfdzSRFBUGj481), [Pitter](https://open.spotify.com/artist/698WBQoZEhZKSCHpwoHZQ2), [Ana Lúcia](https://open.spotify.com/artist/24zpYD2LDhoI30qaUN6Qxi) | [Minha Vocação](https://open.spotify.com/album/0s95JwpzAH7S9PWV3tg5Yi) | 4:14 |
 | 58 | [Oração pela Paz](https://open.spotify.com/track/2iM87kL2SSVUoRD5v0Gp6M) | [Padre Diogo Albuquerque](https://open.spotify.com/artist/0qDsevmatzNXsSGjnN0g7b), [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s) | [Oração pela Paz](https://open.spotify.com/album/1uPyGym4lIjS2hOTYR0Gt1) | 3:41 |
-| 59 | [Essencial \- Ao Vivo](https://open.spotify.com/track/4GOPtH8a3VAgmtIPc5lzcQ) | [Ziza Fernandes](https://open.spotify.com/artist/1FpUYWktSYkpryKsKQFWiK), [Maninho](https://open.spotify.com/artist/14MVRoPX1LC6cm5su44CrM) | [Essencial \(Ao Vivo\)](https://open.spotify.com/album/5MPstyeFYs1xk8mI2PPErW) | 3:40 |
-| 60 | [Santa Rita de Cássia](https://open.spotify.com/track/3JVlroKYf2nrOEL2bA6Jv8) | [Eliana Ribeiro](https://open.spotify.com/artist/7ffqgUujPJ2BxcFc8BmG5y) | [Santa Rita de Cássia](https://open.spotify.com/album/2csSlHzHFqDWMTTI6ZPSPy) | 5:10 |
+| 59 | [Santa Rita de Cássia](https://open.spotify.com/track/3JVlroKYf2nrOEL2bA6Jv8) | [Eliana Ribeiro](https://open.spotify.com/artist/7ffqgUujPJ2BxcFc8BmG5y) | [Santa Rita de Cássia](https://open.spotify.com/album/2csSlHzHFqDWMTTI6ZPSPy) | 5:10 |
+| 60 | [Essencial \- Ao Vivo](https://open.spotify.com/track/4GOPtH8a3VAgmtIPc5lzcQ) | [Ziza Fernandes](https://open.spotify.com/artist/1FpUYWktSYkpryKsKQFWiK), [Maninho](https://open.spotify.com/artist/14MVRoPX1LC6cm5su44CrM) | [Essencial \(Ao Vivo\)](https://open.spotify.com/album/5MPstyeFYs1xk8mI2PPErW) | 3:40 |
 | 61 | [Não Há Mais Vendaval \(Ao Vivo\)](https://open.spotify.com/track/2X4O74zn405JrqhifUa3dk) | [Frei Gilson](https://open.spotify.com/artist/0jzTaWBcJ6h5ccHe04CcyX) | [Não Há Mais Vendaval \(Ao Vivo\)](https://open.spotify.com/album/2I4kBEgQH9wAhuHFt4HrUv) | 7:09 |
 | 62 | [Dias Melhores Virão](https://open.spotify.com/track/7t0v5FlY2xsSbLsjLuORkA) | [Juliana de Paula](https://open.spotify.com/artist/3gPXWkF4RfdzSRFBUGj481) | [Dias Melhores Virão](https://open.spotify.com/album/2iQCM13h3O2KOlyoLQxl2O) | 4:21 |
 | 63 | [Alma de Cristo](https://open.spotify.com/track/5biyHI1KgkgmP2Lh7qey2S) | [Comunidade Católica Shalom](https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin) | [Alma de Cristo](https://open.spotify.com/album/7sEqIY578bRcQMIRpD2jqA) | 3:52 |

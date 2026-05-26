@@ -1,6 +1,6 @@
 {
   "description": "lofi beats by Latinxs.",
-  "num_followers": 32939,
+  "num_followers": 32953,
   "original_name": "lofi latino",
   "owner": {
     "name": "Spotify",
@@ -271,22 +271,6 @@
     {
       "added_at": "2025-04-04 04:00:19",
       "album": {
-        "name": "El Comienzo",
-        "url": "https://open.spotify.com/album/79gNd42o0NZ3DjhLyrL6ZN"
-      },
-      "artists": [
-        {
-          "name": "Myst\u00e9rika",
-          "url": "https://open.spotify.com/artist/2gIrhYbETAlDYyqDaPaEvC"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "Estoy Ah\u00ed",
-      "url": "https://open.spotify.com/track/2m5dELAxkaPzylB1NLdZIz"
-    },
-    {
-      "added_at": "2025-04-04 04:00:19",
-      "album": {
         "name": "Mi Pueblo",
         "url": "https://open.spotify.com/album/02WfhEBpCed81725wg1lsx"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 114000,
       "name": "Mi Pueblo",
       "url": "https://open.spotify.com/track/6dStpu70kmcpJmCtVD8vbB"
+    },
+    {
+      "added_at": "2025-04-04 04:00:19",
+      "album": {
+        "name": "El Comienzo",
+        "url": "https://open.spotify.com/album/79gNd42o0NZ3DjhLyrL6ZN"
+      },
+      "artists": [
+        {
+          "name": "Myst\u00e9rika",
+          "url": "https://open.spotify.com/artist/2gIrhYbETAlDYyqDaPaEvC"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Estoy Ah\u00ed",
+      "url": "https://open.spotify.com/track/2m5dELAxkaPzylB1NLdZIz"
     },
     {
       "added_at": "2025-04-04 04:00:19",
@@ -403,22 +403,6 @@
     {
       "added_at": "2025-04-04 04:00:19",
       "album": {
-        "name": "Sosiego",
-        "url": "https://open.spotify.com/album/4mIrk8lk1woldQ7n5Gp0DV"
-      },
-      "artists": [
-        {
-          "name": "Dj 113",
-          "url": "https://open.spotify.com/artist/4HSmtHHiNWzGZRxxvk7nPG"
-        }
-      ],
-      "duration_ms": 108203,
-      "name": "Happiness",
-      "url": "https://open.spotify.com/track/5SBRYk2CBIozhelV45ACN4"
-    },
-    {
-      "added_at": "2025-04-04 04:00:19",
-      "album": {
         "name": "Brazilian Flavor",
         "url": "https://open.spotify.com/album/7KRW5vGGs4RUzv7r36FGRR"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 171870,
       "name": "Aubade",
       "url": "https://open.spotify.com/track/2w9EnlbbEahdgm3ZNj758B"
+    },
+    {
+      "added_at": "2025-04-04 04:00:19",
+      "album": {
+        "name": "Sosiego",
+        "url": "https://open.spotify.com/album/4mIrk8lk1woldQ7n5Gp0DV"
+      },
+      "artists": [
+        {
+          "name": "Dj 113",
+          "url": "https://open.spotify.com/artist/4HSmtHHiNWzGZRxxvk7nPG"
+        }
+      ],
+      "duration_ms": 108203,
+      "name": "Happiness",
+      "url": "https://open.spotify.com/track/5SBRYk2CBIozhelV45ACN4"
     },
     {
       "added_at": "2025-04-04 04:00:19",
@@ -555,6 +555,30 @@
     {
       "added_at": "2025-04-04 04:00:19",
       "album": {
+        "name": "La Diabla (lofi edit)",
+        "url": "https://open.spotify.com/album/1p4uLJLViOIyLrAMgeScZp"
+      },
+      "artists": [
+        {
+          "name": "The Remix Station",
+          "url": "https://open.spotify.com/artist/4JAIvx8vd1sMssmNTcwnPX"
+        },
+        {
+          "name": "LatinoFi",
+          "url": "https://open.spotify.com/artist/5J47VDjGjTRzUrjxiacTMo"
+        },
+        {
+          "name": "lofi.remixes",
+          "url": "https://open.spotify.com/artist/1p1HSX8hrWa7vUAhKW76W0"
+        }
+      ],
+      "duration_ms": 98630,
+      "name": "La Diabla - lofi edit",
+      "url": "https://open.spotify.com/track/7okx5ZYlnqOk4MubhZj6jG"
+    },
+    {
+      "added_at": "2025-04-04 04:00:19",
+      "album": {
         "name": "Girasoles",
         "url": "https://open.spotify.com/album/3Umn5tilaSDrOEdXObGBFv"
       },
@@ -583,30 +607,6 @@
     {
       "added_at": "2025-04-04 04:00:19",
       "album": {
-        "name": "La Diabla (lofi edit)",
-        "url": "https://open.spotify.com/album/1p4uLJLViOIyLrAMgeScZp"
-      },
-      "artists": [
-        {
-          "name": "The Remix Station",
-          "url": "https://open.spotify.com/artist/4JAIvx8vd1sMssmNTcwnPX"
-        },
-        {
-          "name": "LatinoFi",
-          "url": "https://open.spotify.com/artist/5J47VDjGjTRzUrjxiacTMo"
-        },
-        {
-          "name": "lofi.remixes",
-          "url": "https://open.spotify.com/artist/1p1HSX8hrWa7vUAhKW76W0"
-        }
-      ],
-      "duration_ms": 98630,
-      "name": "La Diabla - lofi edit",
-      "url": "https://open.spotify.com/track/7okx5ZYlnqOk4MubhZj6jG"
-    },
-    {
-      "added_at": "2025-04-04 04:00:19",
-      "album": {
         "name": "Guaguansoul",
         "url": "https://open.spotify.com/album/7xaShaNw21kWDYAhamPXka"
       },
@@ -619,6 +619,22 @@
       "duration_ms": 175156,
       "name": "Cat\u00e1 Surf",
       "url": "https://open.spotify.com/track/3UclRg5QnVn3ZArjOh3eBl"
+    },
+    {
+      "added_at": "2025-04-04 04:00:19",
+      "album": {
+        "name": "Ascendentes",
+        "url": "https://open.spotify.com/album/4wDsQfo6S0LjKnGlI9E0Jm"
+      },
+      "artists": [
+        {
+          "name": "Orestes Gomez",
+          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
+        }
+      ],
+      "duration_ms": 197588,
+      "name": "G\u00e9minis",
+      "url": "https://open.spotify.com/track/0wJ2hkKwN39pvyi2hTN1xy"
     },
     {
       "added_at": "2025-04-04 04:00:19",
@@ -643,22 +659,6 @@
       "duration_ms": 144333,
       "name": "Monstera",
       "url": "https://open.spotify.com/track/3EFGb8vn5z3sYG8QTVLb70"
-    },
-    {
-      "added_at": "2025-04-04 04:00:19",
-      "album": {
-        "name": "Ascendentes",
-        "url": "https://open.spotify.com/album/4wDsQfo6S0LjKnGlI9E0Jm"
-      },
-      "artists": [
-        {
-          "name": "Orestes Gomez",
-          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
-        }
-      ],
-      "duration_ms": 197588,
-      "name": "G\u00e9minis",
-      "url": "https://open.spotify.com/track/0wJ2hkKwN39pvyi2hTN1xy"
     },
     {
       "added_at": "2025-04-04 04:00:19",
@@ -731,22 +731,6 @@
     {
       "added_at": "2025-04-04 04:00:19",
       "album": {
-        "name": "El D\u00eda M\u00e1s Corto",
-        "url": "https://open.spotify.com/album/1BuMj28ClePeBCfnfkm4RF"
-      },
-      "artists": [
-        {
-          "name": "Pere George",
-          "url": "https://open.spotify.com/artist/6Ydc7A5Y0e2hWwGo14HSIF"
-        }
-      ],
-      "duration_ms": 193554,
-      "name": "Bolerodilla",
-      "url": "https://open.spotify.com/track/0NpP5A5umjhW2o8XiclxA9"
-    },
-    {
-      "added_at": "2025-04-04 04:00:19",
-      "album": {
         "name": "Bossa De Flauta",
         "url": "https://open.spotify.com/album/5MwIh4cqWfS4U7XlStZU6e"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 114418,
       "name": "Bossa De Flauta",
       "url": "https://open.spotify.com/track/4bURJNtMormiqKdJoq2vcu"
+    },
+    {
+      "added_at": "2025-04-04 04:00:19",
+      "album": {
+        "name": "El D\u00eda M\u00e1s Corto",
+        "url": "https://open.spotify.com/album/1BuMj28ClePeBCfnfkm4RF"
+      },
+      "artists": [
+        {
+          "name": "Pere George",
+          "url": "https://open.spotify.com/artist/6Ydc7A5Y0e2hWwGo14HSIF"
+        }
+      ],
+      "duration_ms": 193554,
+      "name": "Bolerodilla",
+      "url": "https://open.spotify.com/track/0NpP5A5umjhW2o8XiclxA9"
     },
     {
       "added_at": "2025-04-04 04:00:19",
@@ -795,26 +795,6 @@
     {
       "added_at": "2025-04-04 04:00:19",
       "album": {
-        "name": "Perdido en Memorias",
-        "url": "https://open.spotify.com/album/17VTCoOPYN8aFVk8Ah2V3A"
-      },
-      "artists": [
-        {
-          "name": "Jav Cast",
-          "url": "https://open.spotify.com/artist/4bkOWEgiKDhSsMCJGeAfxj"
-        },
-        {
-          "name": "DreamBetter",
-          "url": "https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi"
-        }
-      ],
-      "duration_ms": 129882,
-      "name": "Perdido en Memorias",
-      "url": "https://open.spotify.com/track/6hmIKNKSobnnSP3KGhHM0d"
-    },
-    {
-      "added_at": "2025-04-04 04:00:19",
-      "album": {
         "name": "De La Selva",
         "url": "https://open.spotify.com/album/0nOAvowyJmiZVhMvN5Y3Li"
       },
@@ -831,6 +811,26 @@
       "duration_ms": 240981,
       "name": "Chipek",
       "url": "https://open.spotify.com/track/2mH8lUthrUdYuahDXfJGlI"
+    },
+    {
+      "added_at": "2025-04-04 04:00:19",
+      "album": {
+        "name": "Perdido en Memorias",
+        "url": "https://open.spotify.com/album/17VTCoOPYN8aFVk8Ah2V3A"
+      },
+      "artists": [
+        {
+          "name": "Jav Cast",
+          "url": "https://open.spotify.com/artist/4bkOWEgiKDhSsMCJGeAfxj"
+        },
+        {
+          "name": "DreamBetter",
+          "url": "https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi"
+        }
+      ],
+      "duration_ms": 129882,
+      "name": "Perdido en Memorias",
+      "url": "https://open.spotify.com/track/6hmIKNKSobnnSP3KGhHM0d"
     },
     {
       "added_at": "2025-04-04 04:00:19",
@@ -927,22 +927,6 @@
     {
       "added_at": "2025-04-04 04:00:19",
       "album": {
-        "name": "Sunset on Vallarta",
-        "url": "https://open.spotify.com/album/0zst4Hkj5ewPQQXhJRNbbh"
-      },
-      "artists": [
-        {
-          "name": "Jouta",
-          "url": "https://open.spotify.com/artist/27eP37X13iXodHP9LFFkNd"
-        }
-      ],
-      "duration_ms": 145200,
-      "name": "Sunset on Vallarta",
-      "url": "https://open.spotify.com/track/5ZNrrgjATjnKl5z1urH5Eg"
-    },
-    {
-      "added_at": "2025-04-04 04:00:19",
-      "album": {
         "name": "Patadas de Ahogado",
         "url": "https://open.spotify.com/album/10Q9ERvl1qCJZPPcPIrxtY"
       },
@@ -959,18 +943,18 @@
     {
       "added_at": "2025-04-04 04:00:19",
       "album": {
-        "name": "Donde Estas?",
-        "url": "https://open.spotify.com/album/2pXU5wHU7XMwvl3xkZEN9j"
+        "name": "Sunset on Vallarta",
+        "url": "https://open.spotify.com/album/0zst4Hkj5ewPQQXhJRNbbh"
       },
       "artists": [
         {
-          "name": "Fallen Roses",
-          "url": "https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv"
+          "name": "Jouta",
+          "url": "https://open.spotify.com/artist/27eP37X13iXodHP9LFFkNd"
         }
       ],
-      "duration_ms": 124245,
-      "name": "Donde Estas?",
-      "url": "https://open.spotify.com/track/2mRYo91e0IZu9HPPAIxVAq"
+      "duration_ms": 145200,
+      "name": "Sunset on Vallarta",
+      "url": "https://open.spotify.com/track/5ZNrrgjATjnKl5z1urH5Eg"
     },
     {
       "added_at": "2025-04-04 04:00:19",
@@ -987,6 +971,22 @@
       "duration_ms": 116791,
       "name": "Wait 4 Me",
       "url": "https://open.spotify.com/track/5ecWbl0CpnRafOwDL4DnHO"
+    },
+    {
+      "added_at": "2025-04-04 04:00:19",
+      "album": {
+        "name": "Donde Estas?",
+        "url": "https://open.spotify.com/album/2pXU5wHU7XMwvl3xkZEN9j"
+      },
+      "artists": [
+        {
+          "name": "Fallen Roses",
+          "url": "https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv"
+        }
+      ],
+      "duration_ms": 124245,
+      "name": "Donde Estas?",
+      "url": "https://open.spotify.com/track/2mRYo91e0IZu9HPPAIxVAq"
     },
     {
       "added_at": "2025-04-04 04:00:19",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2025-04-04 04:00:19",
       "album": {
-        "name": "un atardecer a tu lado",
-        "url": "https://open.spotify.com/album/780CebS2TzpEVOOXivIY2l"
-      },
-      "artists": [
-        {
-          "name": "neptune kid",
-          "url": "https://open.spotify.com/artist/7GjoXTEjUzwT08uo4DRMRA"
-        }
-      ],
-      "duration_ms": 101065,
-      "name": "bailar contigo",
-      "url": "https://open.spotify.com/track/7eNyCZVfHBKAy6tko25z5G"
-    },
-    {
-      "added_at": "2025-04-04 04:00:19",
-      "album": {
         "name": "La Belleza de lo Cotidiano",
         "url": "https://open.spotify.com/album/3ZHXAtp3f7nd4vqgv9d2CC"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 128000,
       "name": "La Belleza de lo Cotidiano",
       "url": "https://open.spotify.com/track/13b0yCb3MXIg29tLhbHE7H"
+    },
+    {
+      "added_at": "2025-04-04 04:00:19",
+      "album": {
+        "name": "un atardecer a tu lado",
+        "url": "https://open.spotify.com/album/780CebS2TzpEVOOXivIY2l"
+      },
+      "artists": [
+        {
+          "name": "neptune kid",
+          "url": "https://open.spotify.com/artist/7GjoXTEjUzwT08uo4DRMRA"
+        }
+      ],
+      "duration_ms": 101065,
+      "name": "bailar contigo",
+      "url": "https://open.spotify.com/track/7eNyCZVfHBKAy6tko25z5G"
     },
     {
       "added_at": "2025-04-04 04:00:19",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2025-04-04 04:00:19",
       "album": {
+        "name": "Dia de Muertos",
+        "url": "https://open.spotify.com/album/3qOshgDfzLPSXgLhyKqn7V"
+      },
+      "artists": [
+        {
+          "name": "Stc Beats VB",
+          "url": "https://open.spotify.com/artist/19Z4hoa8UlKhu0SbffIj2P"
+        }
+      ],
+      "duration_ms": 108564,
+      "name": "Anoche",
+      "url": "https://open.spotify.com/track/5ENIG7tqeqXEFPMegmqBLy"
+    },
+    {
+      "added_at": "2025-04-04 04:00:19",
+      "album": {
         "name": "Playa del Amor",
         "url": "https://open.spotify.com/album/5LANlltyeFV9e2Waab8Jd7"
       },
@@ -1259,22 +1275,6 @@
       "duration_ms": 129565,
       "name": "Playa del Amor",
       "url": "https://open.spotify.com/track/3SL8twBcud5RDSqmwC1vVZ"
-    },
-    {
-      "added_at": "2025-04-04 04:00:19",
-      "album": {
-        "name": "Dia de Muertos",
-        "url": "https://open.spotify.com/album/3qOshgDfzLPSXgLhyKqn7V"
-      },
-      "artists": [
-        {
-          "name": "Stc Beats VB",
-          "url": "https://open.spotify.com/artist/19Z4hoa8UlKhu0SbffIj2P"
-        }
-      ],
-      "duration_ms": 108564,
-      "name": "Anoche",
-      "url": "https://open.spotify.com/track/5ENIG7tqeqXEFPMegmqBLy"
     },
     {
       "added_at": "2025-04-04 04:00:19",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2025-04-04 04:00:19",
       "album": {
-        "name": "Beautiful Lights",
-        "url": "https://open.spotify.com/album/3ok7EPy5XclmIyEs3XgPtR"
-      },
-      "artists": [
-        {
-          "name": "L.Rey",
-          "url": "https://open.spotify.com/artist/7dod8f4FPtAxq3Pk7SiMRM"
-        }
-      ],
-      "duration_ms": 148860,
-      "name": "Diamond Sparkle",
-      "url": "https://open.spotify.com/track/7d08Kkyq06ODhGR1wS7w1x"
-    },
-    {
-      "added_at": "2025-04-04 04:00:19",
-      "album": {
         "name": "are you kidding?",
         "url": "https://open.spotify.com/album/7rdMOiMtmsgBwEfbX2I19v"
       },
@@ -1347,18 +1331,18 @@
     {
       "added_at": "2025-04-04 04:00:19",
       "album": {
-        "name": "lucky monkey",
-        "url": "https://open.spotify.com/album/3elKgTM8xtD6DrNFP7Pb9I"
+        "name": "Beautiful Lights",
+        "url": "https://open.spotify.com/album/3ok7EPy5XclmIyEs3XgPtR"
       },
       "artists": [
         {
-          "name": "archipelago beats",
-          "url": "https://open.spotify.com/artist/7kv4vSxfaAfdzaq6Ogd272"
+          "name": "L.Rey",
+          "url": "https://open.spotify.com/artist/7dod8f4FPtAxq3Pk7SiMRM"
         }
       ],
-      "duration_ms": 133333,
-      "name": "lucky monkey",
-      "url": "https://open.spotify.com/track/4aSlHwyeGcDztZJCmt9QEU"
+      "duration_ms": 148860,
+      "name": "Diamond Sparkle",
+      "url": "https://open.spotify.com/track/7d08Kkyq06ODhGR1wS7w1x"
     },
     {
       "added_at": "2025-04-04 04:00:19",
@@ -1379,6 +1363,22 @@
       "duration_ms": 134918,
       "name": "Autumn",
       "url": "https://open.spotify.com/track/0WmBZJiCZBgkfNmT0Pms3Z"
+    },
+    {
+      "added_at": "2025-04-04 04:00:19",
+      "album": {
+        "name": "lucky monkey",
+        "url": "https://open.spotify.com/album/3elKgTM8xtD6DrNFP7Pb9I"
+      },
+      "artists": [
+        {
+          "name": "archipelago beats",
+          "url": "https://open.spotify.com/artist/7kv4vSxfaAfdzaq6Ogd272"
+        }
+      ],
+      "duration_ms": 133333,
+      "name": "lucky monkey",
+      "url": "https://open.spotify.com/track/4aSlHwyeGcDztZJCmt9QEU"
     },
     {
       "added_at": "2025-04-04 04:00:19",

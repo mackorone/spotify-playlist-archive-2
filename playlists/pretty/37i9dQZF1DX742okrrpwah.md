@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > Lola Young, Nono La Grinta et Joé Dwèt Filé au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 406,829 likes - 95 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 406,823 likes - 95 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

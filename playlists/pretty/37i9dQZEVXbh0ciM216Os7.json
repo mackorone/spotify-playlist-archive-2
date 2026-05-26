@@ -11,22 +11,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dear God",
-        "url": "https://open.spotify.com/album/4LqPNdoEBqxhaIAdrrstsu"
-      },
-      "artists": [
-        {
-          "name": "The Pretty Reckless",
-          "url": "https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq"
-        }
-      ],
-      "duration_ms": 368505,
-      "name": "Dear God",
-      "url": "https://open.spotify.com/track/1Sn2P4sUV3ii0ykOrST5t4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lost Soul (feat. Jonny Hawkins of NOTHING MORE)",
         "url": "https://open.spotify.com/album/5Z1VRg54WscbvqqXLfT0KX"
       },
@@ -51,22 +35,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "This Girl's in Love with You",
-        "url": "https://open.spotify.com/album/2zbGOQcdXloUxLQNA8yjIT"
+        "name": "Dear God",
+        "url": "https://open.spotify.com/album/4LqPNdoEBqxhaIAdrrstsu"
       },
       "artists": [
         {
-          "name": "De-Phazz",
-          "url": "https://open.spotify.com/artist/0WLS16S6MJvMgWXrUezleN"
-        },
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+          "name": "The Pretty Reckless",
+          "url": "https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq"
         }
       ],
-      "duration_ms": 237911,
-      "name": "This Girl's in Love with You - belooped RMX",
-      "url": "https://open.spotify.com/track/00D9y2Ovi9iu21ozGlIWft"
+      "duration_ms": 368505,
+      "name": "Dear God",
+      "url": "https://open.spotify.com/track/1Sn2P4sUV3ii0ykOrST5t4"
     },
     {
       "added_at": null,
@@ -87,22 +67,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "They Just Don't Make the Blues Like They Used To",
-        "url": "https://open.spotify.com/album/7GLQDgguhNXR9tBweRFhS7"
-      },
-      "artists": [
-        {
-          "name": "The Del McCoury Band",
-          "url": "https://open.spotify.com/artist/2fj5pzLyOKDpUOPZs9q3wt"
-        }
-      ],
-      "duration_ms": 209859,
-      "name": "They Just Don't Make the Blues Like They Used To",
-      "url": "https://open.spotify.com/track/6kVhQmwYfgXBWEZtmwPG7N"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "20th Century Masters: The Millennium Collection: Best Of The Temptations, Vol. 2 - The '70s, '80s, '90s",
         "url": "https://open.spotify.com/album/2kzUxFepw1uLjbgqV537eP"
       },
@@ -115,6 +79,26 @@
       "duration_ms": 419640,
       "name": "Papa Was A Rollin' Stone - Single Version",
       "url": "https://open.spotify.com/track/7MiLmLbwNoyf47xQ4TCVYp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "This Girl's in Love with You",
+        "url": "https://open.spotify.com/album/2zbGOQcdXloUxLQNA8yjIT"
+      },
+      "artists": [
+        {
+          "name": "De-Phazz",
+          "url": "https://open.spotify.com/artist/0WLS16S6MJvMgWXrUezleN"
+        },
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "duration_ms": 237911,
+      "name": "This Girl's in Love with You - belooped RMX",
+      "url": "https://open.spotify.com/track/00D9y2Ovi9iu21ozGlIWft"
     },
     {
       "added_at": null,
@@ -143,38 +127,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dua Lipa - Live From Mexico",
-        "url": "https://open.spotify.com/album/3rvZld1RX30IVhuaLkYKnZ"
+        "name": "They Just Don't Make the Blues Like They Used To",
+        "url": "https://open.spotify.com/album/7GLQDgguhNXR9tBweRFhS7"
       },
       "artists": [
         {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+          "name": "The Del McCoury Band",
+          "url": "https://open.spotify.com/artist/2fj5pzLyOKDpUOPZs9q3wt"
         }
       ],
-      "duration_ms": 250394,
-      "name": "Electricity (Live From Mexico)",
-      "url": "https://open.spotify.com/track/2XvO5LyGicTohfmfWL50xu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Satisfy (Extended Mix)",
-        "url": "https://open.spotify.com/album/6NQWpbD3tPZi9b0WoCOLVs"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Jazzy",
-          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
-        }
-      ],
-      "duration_ms": 269558,
-      "name": "Satisfy - Extended Mix",
-      "url": "https://open.spotify.com/track/20JGqofKNH4FPjO91u0zHL"
+      "duration_ms": 209859,
+      "name": "They Just Don't Make the Blues Like They Used To",
+      "url": "https://open.spotify.com/track/6kVhQmwYfgXBWEZtmwPG7N"
     },
     {
       "added_at": null,
@@ -199,26 +163,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Untouched (feat. The Veronicas)",
-        "url": "https://open.spotify.com/album/5Cvz9SgkkwHuy8G302pmsx"
-      },
-      "artists": [
-        {
-          "name": "Harrison",
-          "url": "https://open.spotify.com/artist/58O8UPrTdl4u2buM0skj94"
-        },
-        {
-          "name": "The Veronicas",
-          "url": "https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln"
-        }
-      ],
-      "duration_ms": 182571,
-      "name": "Untouched (feat. The Veronicas)",
-      "url": "https://open.spotify.com/track/3oXTMVnWGWLY4mzTFhc7PN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Monster 3",
         "url": "https://open.spotify.com/album/4uhn4zqvfn6CiI9q7Sv2is"
       },
@@ -235,6 +179,42 @@
       "duration_ms": 153000,
       "name": "We Bring Da Monster",
       "url": "https://open.spotify.com/track/6J73u0ecsNpW5lwPRZjERm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dua Lipa - Live From Mexico",
+        "url": "https://open.spotify.com/album/3rvZld1RX30IVhuaLkYKnZ"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 291472,
+      "name": "New Rules / Dance The Night Interlude (Live From Mexico)",
+      "url": "https://open.spotify.com/track/7f6k9rS1ah0QjYfw8gtMJi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Satisfy (Extended Mix)",
+        "url": "https://open.spotify.com/album/6NQWpbD3tPZi9b0WoCOLVs"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+        }
+      ],
+      "duration_ms": 269558,
+      "name": "Satisfy - Extended Mix",
+      "url": "https://open.spotify.com/track/20JGqofKNH4FPjO91u0zHL"
     },
     {
       "added_at": null,
@@ -271,6 +251,26 @@
       "duration_ms": 449093,
       "name": "Interface",
       "url": "https://open.spotify.com/track/2xRYcFN3AFUBnFw9JLIybi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Untouched (feat. The Veronicas)",
+        "url": "https://open.spotify.com/album/5Cvz9SgkkwHuy8G302pmsx"
+      },
+      "artists": [
+        {
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/58O8UPrTdl4u2buM0skj94"
+        },
+        {
+          "name": "The Veronicas",
+          "url": "https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln"
+        }
+      ],
+      "duration_ms": 182571,
+      "name": "Untouched (feat. The Veronicas)",
+      "url": "https://open.spotify.com/track/3oXTMVnWGWLY4mzTFhc7PN"
     },
     {
       "added_at": null,
@@ -315,18 +315,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "ICEMAN",
-        "url": "https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY"
+        "name": "IDEAR",
+        "url": "https://open.spotify.com/album/0AZOMZBxgdw9W53D0KG2XO"
       },
       "artists": [
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Cooper Alan",
+          "url": "https://open.spotify.com/artist/0AtQAehoytV7j1r4O16dRb"
         }
       ],
-      "duration_ms": 237344,
-      "name": "Janice STFU",
-      "url": "https://open.spotify.com/track/514joG57v4yKTsfQmz7stz"
+      "duration_ms": 121384,
+      "name": "IDEAR",
+      "url": "https://open.spotify.com/track/3d2LaKwruMSaImtP2pQdJK"
     },
     {
       "added_at": null,
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/7u12AuhJ5AaJIgZAZe0US8"
         }
       ],
-      "duration_ms": 173026,
-      "name": "Fansong - Remixed & Remastered",
-      "url": "https://open.spotify.com/track/2HomRMHxqBF3VPeBiEFqJC"
+      "duration_ms": 261680,
+      "name": "Go Forth and Die - Remixed & Remastered",
+      "url": "https://open.spotify.com/track/5699mNWw0hVsftDTfeqZl8"
     },
     {
       "added_at": null,
@@ -363,34 +363,6 @@
       "duration_ms": 244000,
       "name": "Onenon",
       "url": "https://open.spotify.com/track/7Aw5qQy9zeg9ZGtsOQAcQA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fat Joe (with Demrick & Kail Problems)",
-        "url": "https://open.spotify.com/album/4vNS1DSIf3M7v5z8CD6xmt"
-      },
-      "artists": [
-        {
-          "name": "Wax",
-          "url": "https://open.spotify.com/artist/36kzCQhGfJzrLuZzrHweNV"
-        },
-        {
-          "name": "DJ Hoppa",
-          "url": "https://open.spotify.com/artist/7zuoqJAXDtNaLzxxm4IShD"
-        },
-        {
-          "name": "Demrick",
-          "url": "https://open.spotify.com/artist/3hEgzEeaZ0hb3UXx1U1JRR"
-        },
-        {
-          "name": "Kail Problems",
-          "url": "https://open.spotify.com/artist/41HT5cCwGX155b8xvtvtON"
-        }
-      ],
-      "duration_ms": 239000,
-      "name": "Fat Joe (with Demrick & Kail Problems)",
-      "url": "https://open.spotify.com/track/59rfnata7uLr4h548K0vVf"
     },
     {
       "added_at": null,
@@ -431,22 +403,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "love love FLAKK",
-        "url": "https://open.spotify.com/album/59Y7MSsMSEG01NNANmK1Be"
+        "name": "Fat Joe (with Demrick & Kail Problems)",
+        "url": "https://open.spotify.com/album/4vNS1DSIf3M7v5z8CD6xmt"
       },
       "artists": [
         {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+          "name": "Wax",
+          "url": "https://open.spotify.com/artist/36kzCQhGfJzrLuZzrHweNV"
         },
         {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+          "name": "DJ Hoppa",
+          "url": "https://open.spotify.com/artist/7zuoqJAXDtNaLzxxm4IShD"
+        },
+        {
+          "name": "Demrick",
+          "url": "https://open.spotify.com/artist/3hEgzEeaZ0hb3UXx1U1JRR"
+        },
+        {
+          "name": "Kail Problems",
+          "url": "https://open.spotify.com/artist/41HT5cCwGX155b8xvtvtON"
         }
       ],
-      "duration_ms": 155039,
-      "name": "EL CIELO",
-      "url": "https://open.spotify.com/track/60QgNWmJnxSRqz9vbj6pWI"
+      "duration_ms": 239000,
+      "name": "Fat Joe (with Demrick & Kail Problems)",
+      "url": "https://open.spotify.com/track/59rfnata7uLr4h548K0vVf"
     },
     {
       "added_at": null,
@@ -463,26 +443,6 @@
       "duration_ms": 360613,
       "name": "Blurry Creatures",
       "url": "https://open.spotify.com/track/4efv0a4iPvex1Kx51KCkZf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Atmospheric River",
-        "url": "https://open.spotify.com/album/50gG3QfSCU2gGR8MYsrNcS"
-      },
-      "artists": [
-        {
-          "name": "Vansire",
-          "url": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
-        },
-        {
-          "name": "Eliza McLamb",
-          "url": "https://open.spotify.com/artist/5jy9tglmQRLmTmcqz2qyUa"
-        }
-      ],
-      "duration_ms": 195197,
-      "name": "Atmospheric River",
-      "url": "https://open.spotify.com/track/7kWyo0B3kBB1XgDMGbR8qA"
     },
     {
       "added_at": null,
@@ -507,46 +467,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Defected presents House Masters - Deetron",
-        "url": "https://open.spotify.com/album/1sJpcGSdQJoJmemolZhvo4"
+        "name": "Allen Ginsberg \u2013 One Hundred",
+        "url": "https://open.spotify.com/album/7MbynfPtG7yBC9H6ZBYhIR"
       },
       "artists": [
         {
-          "name": "Moby",
-          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
         },
         {
-          "name": "Anfisa Letyago",
-          "url": "https://open.spotify.com/artist/7icoOm5fKKPo49jVxoj1Cq"
+          "name": "Allen Ginsberg",
+          "url": "https://open.spotify.com/artist/1yA9QiqL6p9Qo3nHFb8DkT"
         },
         {
-          "name": "Deetron",
-          "url": "https://open.spotify.com/artist/0d4nL4lAEkHJIqLZSHBuav"
+          "name": "Anton Batagov",
+          "url": "https://open.spotify.com/artist/6ygtSGdFH18miXSoJCRFCX"
         }
       ],
-      "duration_ms": 330910,
-      "name": "You & Me - Deetron Extended Remix",
-      "url": "https://open.spotify.com/track/3OxkWuRJ4HmUgwvfIvhXxL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Brightside",
-        "url": "https://open.spotify.com/album/1i3CrWoE4leIYcXYqVt8fk"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        },
-        {
-          "name": "Big Boi",
-          "url": "https://open.spotify.com/artist/2ht3wxeT69CzyKFChNnNAB"
-        }
-      ],
-      "duration_ms": 247867,
-      "name": "Racism Is a Killa (feat. Big Boi)",
-      "url": "https://open.spotify.com/track/00LWbZ6vxawXdu1CVv91lX"
+      "duration_ms": 554733,
+      "name": "Have You Seen This Movie (Distant Figure)",
+      "url": "https://open.spotify.com/track/6KWQus6jYqnjsmIrMtHrtD"
     },
     {
       "added_at": null,
@@ -575,26 +515,86 @@
     {
       "added_at": null,
       "album": {
-        "name": "Allen Ginsberg \u2013 One Hundred",
-        "url": "https://open.spotify.com/album/7MbynfPtG7yBC9H6ZBYhIR"
+        "name": "Atmospheric River",
+        "url": "https://open.spotify.com/album/50gG3QfSCU2gGR8MYsrNcS"
       },
       "artists": [
         {
-          "name": "Philip Glass",
-          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+          "name": "Vansire",
+          "url": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
         },
         {
-          "name": "Allen Ginsberg",
-          "url": "https://open.spotify.com/artist/1yA9QiqL6p9Qo3nHFb8DkT"
-        },
-        {
-          "name": "Anton Batagov",
-          "url": "https://open.spotify.com/artist/6ygtSGdFH18miXSoJCRFCX"
+          "name": "Eliza McLamb",
+          "url": "https://open.spotify.com/artist/5jy9tglmQRLmTmcqz2qyUa"
         }
       ],
-      "duration_ms": 554733,
-      "name": "Have You Seen This Movie (Distant Figure)",
-      "url": "https://open.spotify.com/track/6KWQus6jYqnjsmIrMtHrtD"
+      "duration_ms": 195197,
+      "name": "Atmospheric River",
+      "url": "https://open.spotify.com/track/7kWyo0B3kBB1XgDMGbR8qA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Brightside",
+        "url": "https://open.spotify.com/album/1i3CrWoE4leIYcXYqVt8fk"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        },
+        {
+          "name": "Big Boi",
+          "url": "https://open.spotify.com/artist/2ht3wxeT69CzyKFChNnNAB"
+        }
+      ],
+      "duration_ms": 247867,
+      "name": "Racism Is a Killa (feat. Big Boi)",
+      "url": "https://open.spotify.com/track/00LWbZ6vxawXdu1CVv91lX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Defected presents House Masters - Deetron",
+        "url": "https://open.spotify.com/album/1sJpcGSdQJoJmemolZhvo4"
+      },
+      "artists": [
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        },
+        {
+          "name": "Anfisa Letyago",
+          "url": "https://open.spotify.com/artist/7icoOm5fKKPo49jVxoj1Cq"
+        },
+        {
+          "name": "Deetron",
+          "url": "https://open.spotify.com/artist/0d4nL4lAEkHJIqLZSHBuav"
+        }
+      ],
+      "duration_ms": 330910,
+      "name": "You & Me - Deetron Extended Remix",
+      "url": "https://open.spotify.com/track/3OxkWuRJ4HmUgwvfIvhXxL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "love love FLAKK",
+        "url": "https://open.spotify.com/album/59Y7MSsMSEG01NNANmK1Be"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        },
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 155039,
+      "name": "EL CIELO",
+      "url": "https://open.spotify.com/track/60QgNWmJnxSRqz9vbj6pWI"
     }
   ],
   "unique_name": "Release Radar (@ajcooke94)",

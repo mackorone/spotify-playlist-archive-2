@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2T25mA6YJhO.md) - [plain]
 
 > Súbete a la nueva ola del rock español\. Foto: shego.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,030 likes - 105 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,105 likes - 105 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

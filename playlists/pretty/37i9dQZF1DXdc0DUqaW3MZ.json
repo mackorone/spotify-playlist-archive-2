@@ -1,6 +1,6 @@
 {
   "description": "where future beats meet timeless soul.\n",
-  "num_followers": 376123,
+  "num_followers": 376143,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
@@ -591,22 +591,6 @@
     {
       "added_at": "2026-05-07 13:54:31",
       "album": {
-        "name": "Curses Broken",
-        "url": "https://open.spotify.com/album/0VKoTrkB7atHHNuJ2LRakY"
-      },
-      "artists": [
-        {
-          "name": "Gerry Read",
-          "url": "https://open.spotify.com/artist/5FIfw6s4iYUFu6tA3iIIOQ"
-        }
-      ],
-      "duration_ms": 277838,
-      "name": "Better Let It Go",
-      "url": "https://open.spotify.com/track/2G0aa0fdGyO6I1uQPB3czd"
-    },
-    {
-      "added_at": "2026-05-07 13:54:31",
-      "album": {
         "name": "TIMELESS",
         "url": "https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 134714,
       "name": "Still (feat. Charlotte Day Wilson)",
       "url": "https://open.spotify.com/track/099suT0NkLdJyKTa38oY0Q"
+    },
+    {
+      "added_at": "2026-05-07 13:54:31",
+      "album": {
+        "name": "Curses Broken",
+        "url": "https://open.spotify.com/album/0VKoTrkB7atHHNuJ2LRakY"
+      },
+      "artists": [
+        {
+          "name": "Gerry Read",
+          "url": "https://open.spotify.com/artist/5FIfw6s4iYUFu6tA3iIIOQ"
+        }
+      ],
+      "duration_ms": 277838,
+      "name": "Better Let It Go",
+      "url": "https://open.spotify.com/track/2G0aa0fdGyO6I1uQPB3czd"
     },
     {
       "added_at": "2026-05-07 13:54:31",
@@ -699,22 +699,6 @@
     {
       "added_at": "2026-05-07 13:54:31",
       "album": {
-        "name": "Static on My Tongue",
-        "url": "https://open.spotify.com/album/3QQvmDnFMMUb5QLpvooIxX"
-      },
-      "artists": [
-        {
-          "name": "Re:um",
-          "url": "https://open.spotify.com/artist/6gLleDsNwfehG7vWuK2zQe"
-        }
-      ],
-      "duration_ms": 179538,
-      "name": "Static on My Tongue",
-      "url": "https://open.spotify.com/track/4ucIiJKTWchQX37ik3Lx6r"
-    },
-    {
-      "added_at": "2026-05-07 13:54:31",
-      "album": {
         "name": "TIMELESS",
         "url": "https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 174562,
       "name": "More Than A Little Bit (feat. Tinashe)",
       "url": "https://open.spotify.com/track/5KZJIGQmNlBEcCljJLti9f"
+    },
+    {
+      "added_at": "2026-05-07 13:54:31",
+      "album": {
+        "name": "Static on My Tongue",
+        "url": "https://open.spotify.com/album/3QQvmDnFMMUb5QLpvooIxX"
+      },
+      "artists": [
+        {
+          "name": "Re:um",
+          "url": "https://open.spotify.com/artist/6gLleDsNwfehG7vWuK2zQe"
+        }
+      ],
+      "duration_ms": 179538,
+      "name": "Static on My Tongue",
+      "url": "https://open.spotify.com/track/4ucIiJKTWchQX37ik3Lx6r"
     },
     {
       "added_at": "2026-05-07 13:54:31",
@@ -1191,26 +1191,6 @@
     {
       "added_at": "2026-05-07 13:54:31",
       "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/4n2Esn2gvQ7ucpQZ2u59Ma"
-      },
-      "artists": [
-        {
-          "name": "Mak\u00e8z",
-          "url": "https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE"
-        },
-        {
-          "name": "AVA LAV\u00c1",
-          "url": "https://open.spotify.com/artist/7dybBlFFd4YZCbaImU9sDA"
-        }
-      ],
-      "duration_ms": 169943,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/2GdG2MGntB02SZwJynsDmP"
-    },
-    {
-      "added_at": "2026-05-07 13:54:31",
-      "album": {
         "name": "UP DOWN BOUNCE",
         "url": "https://open.spotify.com/album/4Dm17A5CiFkuDAVSRTPQNd"
       },
@@ -1227,6 +1207,26 @@
       "duration_ms": 188571,
       "name": "UP DOWN BOUNCE",
       "url": "https://open.spotify.com/track/1inQivxnbFbeUyfeCWgg3Y"
+    },
+    {
+      "added_at": "2026-05-07 13:54:31",
+      "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/4n2Esn2gvQ7ucpQZ2u59Ma"
+      },
+      "artists": [
+        {
+          "name": "Mak\u00e8z",
+          "url": "https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE"
+        },
+        {
+          "name": "AVA LAV\u00c1",
+          "url": "https://open.spotify.com/artist/7dybBlFFd4YZCbaImU9sDA"
+        }
+      ],
+      "duration_ms": 169943,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/2GdG2MGntB02SZwJynsDmP"
     },
     {
       "added_at": "2026-05-07 13:54:31",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2026-05-07 13:54:31",
       "album": {
+        "name": "DAY&NITE",
+        "url": "https://open.spotify.com/album/10hFZkOt9rGav70EtYdVuB"
+      },
+      "artists": [
+        {
+          "name": "Wilfy D",
+          "url": "https://open.spotify.com/artist/42RD2DVYDZPVEVPYsGpsMR"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "DAY&NITE",
+      "url": "https://open.spotify.com/track/0SPsbPw8Vmv1dgjgN86UgV"
+    },
+    {
+      "added_at": "2026-05-07 13:54:31",
+      "album": {
         "name": "Strike a Pose (feat. Camille Munn)",
         "url": "https://open.spotify.com/album/54ZxNpUzA5uPcWx7T0hfNE"
       },
@@ -1319,22 +1335,6 @@
       "duration_ms": 162439,
       "name": "DUN DI DUN",
       "url": "https://open.spotify.com/track/3Z9nSzxrucQVMXS8cfOYzr"
-    },
-    {
-      "added_at": "2026-05-07 13:54:31",
-      "album": {
-        "name": "DAY&NITE",
-        "url": "https://open.spotify.com/album/10hFZkOt9rGav70EtYdVuB"
-      },
-      "artists": [
-        {
-          "name": "Wilfy D",
-          "url": "https://open.spotify.com/artist/42RD2DVYDZPVEVPYsGpsMR"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "DAY&NITE",
-      "url": "https://open.spotify.com/track/0SPsbPw8Vmv1dgjgN86UgV"
     },
     {
       "added_at": "2026-05-07 13:54:31",

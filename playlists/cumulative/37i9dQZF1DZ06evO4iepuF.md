@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [14](https://open.spotify.com/track/2PXdncpwO9IpRe6f7QrIMC) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [14](https://open.spotify.com/album/23UWRHbBgmhCztyn8fzjwc) | 2:58 | 2024-12-14 | 2026-05-02 |
+| [14](https://open.spotify.com/track/2PXdncpwO9IpRe6f7QrIMC) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [14](https://open.spotify.com/album/23UWRHbBgmhCztyn8fzjwc) | 2:58 | 2024-12-14 |  |
 | [23 skidoo \(My 23rd Birthday song\)](https://open.spotify.com/track/2NwY0T1T7TeKORCA6WoBSu) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [23 skidoo \(My 23rd Birthday song\)](https://open.spotify.com/album/5YS75TyDzP63G8RyvBVXZe) | 1:49 | 2026-02-11 |  |
 | [a little silly :3](https://open.spotify.com/track/3cuRlDTFOqTJ6IihVzVILb) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [a little silly :3](https://open.spotify.com/album/3oROcqHWtydypLMjXGuHtK) | 1:30 | 2024-12-14 |  |
 | [a world](https://open.spotify.com/track/5qDFGZrvFVRsYldi2ujNdq) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [kittydog music album](https://open.spotify.com/album/3XA84Ccaw20UzDfJuGEkyk) | 1:43 | 2025-01-20 | 2025-10-27 |
@@ -104,7 +104,7 @@
 | [past present future](https://open.spotify.com/track/2rtde4rfw3x5zYGzVC3dJp) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [pastpresentfuture + instrumentals](https://open.spotify.com/album/4HXvFovkY1lLixUjvUPeE3) | 3:29 | 2025-03-03 | 2026-02-11 |
 | [perfect to me](https://open.spotify.com/track/776WFFOiyQLwxFMwK9qmK9) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [kd 2016\-18 sc songs \(compilation\)](https://open.spotify.com/album/1OgQ6zQhHTQzvuzrtzxyoH) | 1:13 | 2026-02-11 | 2026-02-16 |
 | [perfection DOESNT EXIST!!!!!!!!!!!!!!!!](https://open.spotify.com/track/4z2Cj48c3zw2TRKSSKc62C) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [perfection DOESNT EXIST!!!!!!!!!!!!!!!!](https://open.spotify.com/album/6wXmfsjzYp8tpmoIZr4WjJ) | 1:41 | 2024-12-14 |  |
-| [phoinky](https://open.spotify.com/track/6Bn7TTEgMp6ZjnFXHgUqXr) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [phoinky new beginning](https://open.spotify.com/album/1GwIoG4mDd0pCCg8ptEmiz) | 0:47 | 2024-12-14 |  |
+| [phoinky](https://open.spotify.com/track/6Bn7TTEgMp6ZjnFXHgUqXr) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [phoinky new beginning](https://open.spotify.com/album/1GwIoG4mDd0pCCg8ptEmiz) | 0:47 | 2024-12-14 | 2026-05-26 |
 | [Pity Party](https://open.spotify.com/track/1kcm01NZrEejx3PTaE7A0t) | [Belak](https://open.spotify.com/artist/2y83yKCgoia21m1ot4WxPL), [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [It's Been Fun](https://open.spotify.com/album/54xxREc9c1mjBqaOBlvf89) | 2:53 | 2025-03-06 | 2025-08-29 |
 | [plug me in](https://open.spotify.com/track/56lS40vp0sFpgFwvVle1I8) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [plug me in](https://open.spotify.com/album/66vy2eQCgPVxMWbf8XTZap) | 2:07 | 2024-12-14 |  |
 | [pocket dimension](https://open.spotify.com/track/3iyC5mynKGLzazQHARVcNN) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [pastpresentfuture + instrumentals](https://open.spotify.com/album/4HXvFovkY1lLixUjvUPeE3) | 2:20 | 2024-12-14 | 2026-05-11 |

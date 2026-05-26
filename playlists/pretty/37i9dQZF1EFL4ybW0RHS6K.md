@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFL4ybW0RHS6K.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/27oxH68ZhwZ4Td6jZztQqs">Caza</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71 likes - 97 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 70 likes - 97 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFL4ybW0RHS6K.md) - [plain]
 | 76 | [Gouden Lot](https://open.spotify.com/track/4tfvCPL49b7kvO4ShRoQmQ) | [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9) | [Gouden Lot](https://open.spotify.com/album/0p23OEMzHxFBEsEpNvt4za) | 2:09 |
 | 77 | [Highway](https://open.spotify.com/track/5FUcKAYzSPlMuGhQX2qGXf) | [Montana](https://open.spotify.com/artist/5JxBfSx4Hez2JQEqZy9xgb) | [Highway](https://open.spotify.com/album/5ClLCXGBlTH4YJeaGg9H1w) | 2:37 |
 | 78 | [Stripper Body](https://open.spotify.com/track/6SjBTwB9UIUgcV7gXMdqL8) | [Fabiola](https://open.spotify.com/artist/6CA2eS7cImKROD1MxahLgU) | [Stripper Body](https://open.spotify.com/album/7r1U399vMcdRfuJeikDLcB) | 2:00 |
-| 79 | [Poppen Aan Het Dansen](https://open.spotify.com/track/0rAHvfcZSkX8qWHfQPikXf) | [GLOWINTHEDARK](https://open.spotify.com/artist/2gLZZdgHD8ZbSAB2qQkr3P), [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9) | [Lituatie 2 Aftershock](https://open.spotify.com/album/2TunBtADntRoHSoGlBrwV5) | 3:22 |
-| 80 | [Alle Mannen Zijn Honden](https://open.spotify.com/track/5g3zVSmOnKKXBgbTM4l1ea) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj) | [Alle Mannen Zijn Honden](https://open.spotify.com/album/4ZBDiEfJCFnEDmGCGy9tFt) | 2:36 |
+| 79 | [Alle Mannen Zijn Honden](https://open.spotify.com/track/5g3zVSmOnKKXBgbTM4l1ea) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj) | [Alle Mannen Zijn Honden](https://open.spotify.com/album/4ZBDiEfJCFnEDmGCGy9tFt) | 2:36 |
+| 80 | [Poppen Aan Het Dansen](https://open.spotify.com/track/0rAHvfcZSkX8qWHfQPikXf) | [GLOWINTHEDARK](https://open.spotify.com/artist/2gLZZdgHD8ZbSAB2qQkr3P), [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9) | [Lituatie 2 Aftershock](https://open.spotify.com/album/2TunBtADntRoHSoGlBrwV5) | 3:22 |
 | 81 | [Oh Macarena \(feat\. F1rstman & Caza\)](https://open.spotify.com/track/2zopod0eSpiwtYCAHv52Yp) | [Diaz & Bruno](https://open.spotify.com/artist/6FGZPlL2dhssxgQlpb7I7W), [Rockywhereyoubeen](https://open.spotify.com/artist/5pieMKHiTXhVZEmlMT0ij7), [F1rstman](https://open.spotify.com/artist/0IA4SdCS8HBDX6oBoOlgaf), [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9) | [Oh Macarena \(feat\. F1rstman & Caza\)](https://open.spotify.com/album/5GbANsuEa38SzL7TcfTo0B) | 2:51 |
 | 82 | [HOCKEYTAS \(feat\. Caza, Makkie & Levy\)](https://open.spotify.com/track/0mrccrNBshJdcBQmDQn872) | [Kid de Blits](https://open.spotify.com/artist/5geBneZf2rfQaLDUVkQBFn), [Cartiez](https://open.spotify.com/artist/56ZZ26azsd2DweoNtobfa1), [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9), [Makkie](https://open.spotify.com/artist/3ZwM56IXFGMIsUFK0GEygo), [Levy](https://open.spotify.com/artist/7rKGfexDBEW4Ph0m7OkaWx) | [DSL](https://open.spotify.com/album/0eWVUKsMqv1fFsehw51Xh3) | 3:12 |
 | 83 | [Boulevard](https://open.spotify.com/track/3hv5Kl4L2JtDTnob2oUGvs) | [Cartiez](https://open.spotify.com/artist/56ZZ26azsd2DweoNtobfa1) | [De Wereld Is Gelogen](https://open.spotify.com/album/0cWEGi7wk3ZJSVLhjy4lnY) | 3:21 |
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFL4ybW0RHS6K.md) - [plain]
 | 96 | [ROTGANG](https://open.spotify.com/track/3VkJk9IL0R6lz6XLuFVlkp) | [BICKER](https://open.spotify.com/artist/19raC1VudCZeFylKrnBtr3) | [ROTGANG](https://open.spotify.com/album/0ZKzFgX27cLb6Z2x1e1zIJ) | 2:13 |
 | 97 | [Rudebwoy \(feat\. Kempi & Caza\) \- Instrumental](https://open.spotify.com/track/7gfwWdXbcjAfsOjqFhpHDG) | [Jiri11](https://open.spotify.com/artist/6RxMqY900Xpza3Kh9j86Mn), [Kempi](https://open.spotify.com/artist/0FWWBkIJD4tvlDzB4O8XT7), [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9) | [TRIFECTA Type Beat Volume 4](https://open.spotify.com/album/0N0MHtP27q7nwH0PVrqByX) | 3:09 |
 
-Snapshot ID: `AcSYnAAAAAAVxCTaO6PjaHfo5Uk5WKOG`
+Snapshot ID: `AcSePAAAAAAOyEasxq4WH6X2n4peQf5B`

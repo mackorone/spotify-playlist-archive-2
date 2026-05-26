@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ7FIErJiGPT.md) - [plain]
 | 79 | [Never Alone \- Radio Edit](https://open.spotify.com/track/4rM36Y3iFxwW4j1GBXoVSv) | [Thomas Gold](https://open.spotify.com/artist/1XLjkBxFokuDTlHt0mQkRe), [Deniz Koyu](https://open.spotify.com/artist/39PhMWg1aAuuZcph0OXGu6) | [Never Alone](https://open.spotify.com/album/0X6afcc8D5WXG0Imxg1Tqz) | 3:15 |
 | 80 | [Slower Than Usual](https://open.spotify.com/track/60cx2PZtQvADspR31CS4fo) | [Ariel Beesley](https://open.spotify.com/artist/6dyIDRZBYl5a0Y4SnucOMA) | [Slower Than Usual](https://open.spotify.com/album/4ZXcnFp8XcNsX5RIyq7nCL) | 3:58 |
 | 81 | [The Birds](https://open.spotify.com/track/56Gdp4KNxEE8owRsZvAPuC) | [Banx & Ranx](https://open.spotify.com/artist/2uFC1dAj5b0YU7vulKNZ0p), [Zach Zoya](https://open.spotify.com/artist/0lMsSW9R8prEif6Q3aVnEH) | [The Birds](https://open.spotify.com/album/1sAcHNDWJsKilDLzxBlBSF) | 2:27 |
-| 82 | [Way Too Good](https://open.spotify.com/track/1E87WkhGXw3iOn5b44NJRr) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [Isn’t It Strange?](https://open.spotify.com/album/7Cbvmfq9HowWpDXt2UXDW4) | 3:16 |
-| 83 | [What Could Possibly Go Wrong?](https://open.spotify.com/track/0xqULsi14wPaXT2p301s4B) | [Melanie C](https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df) | [Sweat](https://open.spotify.com/album/2ZrlQz1UiDn1pCThyICAeD) | 3:27 |
+| 82 | [What Could Possibly Go Wrong?](https://open.spotify.com/track/0xqULsi14wPaXT2p301s4B) | [Melanie C](https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df) | [Sweat](https://open.spotify.com/album/2ZrlQz1UiDn1pCThyICAeD) | 3:27 |
+| 83 | [Way Too Good](https://open.spotify.com/track/1E87WkhGXw3iOn5b44NJRr) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [Isn’t It Strange?](https://open.spotify.com/album/7Cbvmfq9HowWpDXt2UXDW4) | 3:16 |
 | 84 | [Thirsty](https://open.spotify.com/track/1Odcxt8jfkxwqlCIxXv4cn) | [FO&O](https://open.spotify.com/artist/5PldDs8KtXMy0KZ6due44x) | [Coordinates](https://open.spotify.com/album/2IidFea2wQ3kaD0EEtO27q) | 2:41 |
 | 85 | [Lover Like Me](https://open.spotify.com/track/5ridnYlD0YKj0N1vg3i5tB) | [Off Bloom](https://open.spotify.com/artist/78JRZ7S8obuhstD79Jmu8L) | [Lover Like Me](https://open.spotify.com/album/1UTDDoGZMIIlseBO4Lp9qa) | 3:10 |
 | 86 | [A Lover Like Me](https://open.spotify.com/track/11CpETSrp9Aso917ZYkzX8) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [TRANSPARENT](https://open.spotify.com/album/5Y5vhnNmouWotSd0Qj2jRK) | 2:52 |
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ7FIErJiGPT.md) - [plain]
 | 106 | [Take It As a Man](https://open.spotify.com/track/7D0NNAhOm46YZneCCplG2Z) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [TRANSPARENT](https://open.spotify.com/album/5Y5vhnNmouWotSd0Qj2jRK) | 2:46 |
 | 107 | [Dance With Myself](https://open.spotify.com/track/1w0yZ491kumXS2qSJUawHz) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [TRANSPARENT](https://open.spotify.com/album/5Y5vhnNmouWotSd0Qj2jRK) | 3:34 |
 
-Snapshot ID: `AcSYnAAAAACdwmCHT116pXLUSAb1I0IA`
+Snapshot ID: `AcSeMgAAAAAnfjbTbK1HrlXw3xqpPkVL`

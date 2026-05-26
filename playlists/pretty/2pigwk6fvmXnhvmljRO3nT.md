@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,444 songs - 21 day 12 hr 25 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,446 songs - 21 day 12 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -8452,5 +8452,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 8442 | [Sparkle \- Original Version](https://open.spotify.com/track/1HNvADmPBGAExeyIHkcJtd) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [Human Bloom](https://open.spotify.com/album/5TZ0bVy0tqIriXse4qk1HY) | 6:50 |
 | 8443 | [フローズン](https://open.spotify.com/track/6t5sxWjiUbIRQQL9QxwbsV) | [TRUE](https://open.spotify.com/artist/0UwVT0iMLLAa9SUNENg4te) | [TRUE the BEST](https://open.spotify.com/album/6lLjLTD2mRzNzXaiJTHDwW) | 3:29 |
 | 8444 | [Unwelcome School](https://open.spotify.com/track/2Qc23ytxTlv8Db3mAP8SSw) | [Mitsukiyo](https://open.spotify.com/artist/0cdpFI2dZC34peIkjI1rLs) | [Blue Archive 3rd Anniversary \(Original Soundtrack\)](https://open.spotify.com/album/2IoxB3yDVX8syf1cOHqxcu) | 2:00 |
+| 8445 | [Shotta Flow](https://open.spotify.com/track/0VB3YI0Dl6TT3C7mIbHTs4) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Cottonwood](https://open.spotify.com/album/6li8kT6o9RM59IxRyZZJYh) | 2:40 |
+| 8446 | [Money In The Grave x Last Christmas](https://open.spotify.com/track/7iGnm17hsZuhYQAGOukDux) | [Dorthy Kosmicki](https://open.spotify.com/artist/6InM4BGpjYuayjdHKfcCEH) | [Money In The Grave x Last Christmas](https://open.spotify.com/album/4PWOvP5VKJaNLd78vDD95u) | 2:56 |
 
-Snapshot ID: `AAAL2sc7YkvTaeXgxua0Qlsp3v/4kRVU`
+Snapshot ID: `AAAL3HR45L63E3lvdHNcnxjrVp5ge9Rb`

@@ -4,7 +4,7 @@
 
 > Today’s pop, plugged into the culture w/ Majid Jordan
 
-3,056 songs - 6 day 11 hr 5 min
+3,057 songs - 6 day 11 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -480,7 +480,7 @@
 | [Choke](https://open.spotify.com/track/3nYmUHg7YCAJxidL8al9kC) | [Alicia Moffet](https://open.spotify.com/artist/5ph9A8j6xyDlLNZTqYgNV1) | [Choke](https://open.spotify.com/album/559zxYFBos9pAJsoPCAm1b) | 2:43 | 2025-04-04 | 2025-05-03 |
 | [CHRONICALLY CAUTIOUS](https://open.spotify.com/track/73ZWAySu4UX5LkpCM6zjYh) | [Braden Bales](https://open.spotify.com/artist/3Ru5n2T3JIrjnSZhf2rinv) | [CHRONICALLY CAUTIOUS](https://open.spotify.com/album/418zZ5Y7Wds4r6JiIU0WEL) | 1:59 | 2023-03-03 | 2023-06-03 |
 | [chuck taylors](https://open.spotify.com/track/4tGb9FSVHRKmUIWsXxf7o6) | [Scott Helman](https://open.spotify.com/artist/2LgklPXmvWVOQfzPVkuChg) | [chuck taylors](https://open.spotify.com/album/4liRxZ74LiRx6k8WzAW1pf) | 2:42 | 2023-09-08 | 2023-12-02 |
-| [CHUCK THE MONEY](https://open.spotify.com/track/4dyG3W77oSZCxaU7SZC8Mj) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [CHUCK THE MONEY](https://open.spotify.com/album/3CSeM9Ufgof02QTlzL5TEm) | 2:44 | 2026-04-17 |  |
+| [CHUCK THE MONEY](https://open.spotify.com/track/4dyG3W77oSZCxaU7SZC8Mj) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [CHUCK THE MONEY](https://open.spotify.com/album/3CSeM9Ufgof02QTlzL5TEm) | 2:44 | 2026-04-17 | 2026-05-26 |
 | [Church](https://open.spotify.com/track/3Cz46bYvuuvDsUXDwrNFxn) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [THAT'S SHOWBIZ BABY! THE ENCORE](https://open.spotify.com/album/4MR10rSYnclQoPXq6O9sw0) | 3:40 | 2025-12-05 | 2026-02-07 |
 | [cinderella's dead](https://open.spotify.com/track/5MWXOo8DJwgODtPGaietNz) | [EMELINE](https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV) | [cinderella's dead](https://open.spotify.com/album/7xynMeclusR20e0CXvvSOS) | 2:00 | 2022-06-10 | 2022-08-27 |
 | [Cinnamon](https://open.spotify.com/track/3snrmj8vx2A3u70Lr5V4R3) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Cinnamon](https://open.spotify.com/album/7epoeWPFWTeHfuG8eR7HD3) | 2:42 | 2025-08-29 | 2025-10-21 |
@@ -594,6 +594,7 @@
 | [Dance To This](https://open.spotify.com/track/2uPLbkypIfozwjuiJcgMLC) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Dance To This](https://open.spotify.com/album/7cxNzqHMqDlojW7WilPoUN) | 2:54 | 2026-04-24 | 2026-05-02 |
 | [Dance With My Demons](https://open.spotify.com/track/1IhbOzJ43gqG683rQHOxaw) | [EMELINE](https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV) | [Dance With My Demons](https://open.spotify.com/album/2nABMq1ZNVsbH3fMSLXn0F) | 3:01 | 2026-02-13 | 2026-03-14 |
 | [Dance With You](https://open.spotify.com/track/2nsf0yZBCWNq20FvTUCXpe) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk), [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA), [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [Dance With You](https://open.spotify.com/album/4e0RTJEbQGd7cfGd2CHSm4) | 3:46 | 2022-06-24 | 2022-09-03 |
+| [DANCE...](https://open.spotify.com/track/5rfOARz6QO73wPATyMtQQZ) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [DANCE...](https://open.spotify.com/album/0aUf8eGa6qyxQT9OWZR09v) | 4:47 | 2026-05-25 |  |
 | [DANCE..\. \- Edit](https://open.spotify.com/track/1qN5HBXkNn8sq54AgM1ZJJ) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [DANCE...](https://open.spotify.com/album/0aUf8eGa6qyxQT9OWZR09v) | 3:56 | 2026-01-16 | 2026-01-24 |
 | [Dancer](https://open.spotify.com/track/04v7ZYv0TQHluugW9Tzccy) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [Dancer](https://open.spotify.com/album/21WB3xmAukyafQysJdV8C9) | 3:00 | 2025-08-17 | 2025-10-10 |
 | [Dancing and Crying](https://open.spotify.com/track/6PclnzE0BUZCBfgWqWZpXz) | [Kiesza](https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo) | [Dancing and Crying](https://open.spotify.com/album/3oMxQY4fUv2Y39BeE2qQXd) | 3:17 | 2024-02-23 | 2024-03-02 |

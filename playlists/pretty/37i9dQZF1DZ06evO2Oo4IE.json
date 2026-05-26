@@ -1,12 +1,12 @@
 {
   "description": "This is Janis Joplin. The essential tracks, all in one playlist.",
-  "num_followers": 190091,
+  "num_followers": 190093,
   "original_name": "This Is Janis Joplin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahDuAAAAAACGDOhgnPt/+YJt+6spW/F5",
+  "snapshot_id": "ahI/gAAAAAB51Qu6sYlOemHXJvaI0rXE",
   "tracks": [
     {
       "added_at": null,
@@ -467,22 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Janis Joplin's Greatest Hits",
-        "url": "https://open.spotify.com/album/4qHWXbp5TbUWqH35c6m8kN"
-      },
-      "artists": [
-        {
-          "name": "Janis Joplin",
-          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
-        }
-      ],
-      "duration_ms": 479600,
-      "name": "Ball and Chain - Live at McMahon Stadium, Calgary, Canada - July 1970",
-      "url": "https://open.spotify.com/track/50jPBJZNdoepXCb2j1Rzmp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Legendary Typewriter Tape: 6/25/64 Jorma's House",
         "url": "https://open.spotify.com/album/1jx4E5ox9tZxil897h13VF"
       },
@@ -503,22 +487,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Big Brother & The Holding Company",
-        "url": "https://open.spotify.com/album/4W821NJLoB9uHHkAFNXXKu"
+        "name": "Janis Joplin's Greatest Hits",
+        "url": "https://open.spotify.com/album/4qHWXbp5TbUWqH35c6m8kN"
       },
       "artists": [
-        {
-          "name": "Big Brother & The Holding Company",
-          "url": "https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo"
-        },
         {
           "name": "Janis Joplin",
           "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
         }
       ],
-      "duration_ms": 125065,
-      "name": "Blindman",
-      "url": "https://open.spotify.com/track/6aUAFC6ldgKCeSL3qcSVZQ"
+      "duration_ms": 479600,
+      "name": "Ball and Chain - Live at McMahon Stadium, Calgary, Canada - July 1970",
+      "url": "https://open.spotify.com/track/50jPBJZNdoepXCb2j1Rzmp"
     },
     {
       "added_at": null,
@@ -539,6 +519,26 @@
       "duration_ms": 183646,
       "name": "Flower In the Sun",
       "url": "https://open.spotify.com/track/3O59UWV5NDKZ6Td64Acpzv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Big Brother & The Holding Company",
+        "url": "https://open.spotify.com/album/4W821NJLoB9uHHkAFNXXKu"
+      },
+      "artists": [
+        {
+          "name": "Big Brother & The Holding Company",
+          "url": "https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo"
+        },
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "duration_ms": 125065,
+      "name": "Blindman",
+      "url": "https://open.spotify.com/track/6aUAFC6ldgKCeSL3qcSVZQ"
     },
     {
       "added_at": null,
@@ -572,9 +572,9 @@
           "url": "https://open.spotify.com/artist/55CXG5KDJpRYwBopfYAJHa"
         }
       ],
-      "duration_ms": 46964,
-      "name": "\"Are We Taping Now?\"",
-      "url": "https://open.spotify.com/track/3jpfF9gHUjuv2Tgc2tigNg"
+      "duration_ms": 173230,
+      "name": "Trouble in Mind",
+      "url": "https://open.spotify.com/track/48DDXcCW9tBv1I96Y83jJx"
     },
     {
       "added_at": null,
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/55CXG5KDJpRYwBopfYAJHa"
         }
       ],
-      "duration_ms": 173230,
-      "name": "Trouble in Mind",
-      "url": "https://open.spotify.com/track/48DDXcCW9tBv1I96Y83jJx"
+      "duration_ms": 46964,
+      "name": "\"Are We Taping Now?\"",
+      "url": "https://open.spotify.com/track/3jpfF9gHUjuv2Tgc2tigNg"
     },
     {
       "added_at": null,
@@ -759,18 +759,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Television Broadcast Sessions 1968 -1970",
-        "url": "https://open.spotify.com/album/7bZBijUEXmuM3ekfJ943oz"
+        "name": "Steve Mann: Alive And Pickin'",
+        "url": "https://open.spotify.com/album/2e82i0uQxkMwdJr8ASIvFe"
       },
       "artists": [
+        {
+          "name": "Steve Mann",
+          "url": "https://open.spotify.com/artist/2hcBQcl1OhkGXtcsuy2Mc1"
+        },
         {
           "name": "Janis Joplin",
           "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
         }
       ],
-      "duration_ms": 196507,
-      "name": "To Love Someboy (Live The Dick Cavett TV Show 8th July 1969]",
-      "url": "https://open.spotify.com/track/5oZKxXSTGwt769hWxadMLo"
+      "duration_ms": 187413,
+      "name": "Trouble In Mind",
+      "url": "https://open.spotify.com/track/0c3YbzSctWakEYtmjVzlWB"
     },
     {
       "added_at": null,
@@ -795,22 +799,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Steve Mann: Alive And Pickin'",
-        "url": "https://open.spotify.com/album/2e82i0uQxkMwdJr8ASIvFe"
+        "name": "The Television Broadcast Sessions 1968 -1970",
+        "url": "https://open.spotify.com/album/7bZBijUEXmuM3ekfJ943oz"
       },
       "artists": [
-        {
-          "name": "Steve Mann",
-          "url": "https://open.spotify.com/artist/2hcBQcl1OhkGXtcsuy2Mc1"
-        },
         {
           "name": "Janis Joplin",
           "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
         }
       ],
-      "duration_ms": 187413,
-      "name": "Trouble In Mind",
-      "url": "https://open.spotify.com/track/0c3YbzSctWakEYtmjVzlWB"
+      "duration_ms": 196507,
+      "name": "To Love Someboy (Live The Dick Cavett TV Show 8th July 1969]",
+      "url": "https://open.spotify.com/track/5oZKxXSTGwt769hWxadMLo"
     },
     {
       "added_at": null,

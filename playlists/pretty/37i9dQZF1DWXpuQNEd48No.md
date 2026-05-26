@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpuQNEd48No.md) - [plain]
 
 > Best of Haryanvi Hip\-Hop! Cover: DG IMMORTALS
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,051 likes - 75 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,066 likes - 75 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Knife Brows](https://open.spotify.com/track/5nIrIdLPPXeRMl8WXnnDv1) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [DNW Vol\. 1](https://open.spotify.com/album/2HKS1DAJvHmsYs2ORrMQE1) | 2:55 |
 | 2 | [No Guts No Glory](https://open.spotify.com/track/32OvzmMs6oBsa2MDPQw9bH) | [Addy Nagar](https://open.spotify.com/artist/1DctKQQOA4GfV6Pc9WngX5) | [No Guts No Glory](https://open.spotify.com/album/42xj8tt1FmuETtkQS43oCa) | 2:56 |
 | 3 | [Gaadi 150](https://open.spotify.com/track/0qNMptHdkQuZsWKxZ8rmW2) | [Vikram Sarkar](https://open.spotify.com/artist/4naSOUBsPQeISuibs56w6Y), [THOUGHT](https://open.spotify.com/artist/5GZklBtmZD8WZsLGVbHQqC) | [Gaadi 150](https://open.spotify.com/album/1Xp8PesszaBmk58MKYwgfy) | 2:34 |
-| 4 | [Psyco Jaatni](https://open.spotify.com/track/0LrOz07K5MKNKAfTj9Rgbp) | [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy), [Abhishek Raina](https://open.spotify.com/artist/11kJaZYEE0xblhOGLMrk1U), [Reet Gill](https://open.spotify.com/artist/3pT2oznYe3MtX8DV3O3KVE) | [Psyco Jaatni](https://open.spotify.com/album/10CLAtoUbv2JHL5F6SP75l) | 3:28 |
+| 4 | [Psyco Jaatni](https://open.spotify.com/track/0LrOz07K5MKNKAfTj9Rgbp) | [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy), [Abhishek Raina](https://open.spotify.com/artist/11kJaZYEE0xblhOGLMrk1U), [Reet Gill](https://open.spotify.com/artist/20xpX8flho3yNAcY9ynEsH) | [Psyco Jaatni](https://open.spotify.com/album/10CLAtoUbv2JHL5F6SP75l) | 3:28 |
 | 5 | [Odyssey](https://open.spotify.com/track/6OzdOx2THskGVrUrJHpAtz) | [Divesh Khatana](https://open.spotify.com/artist/3iKTund4Lk0ABArnhE53lX), [Miki Malang](https://open.spotify.com/artist/5vGjn7KpA1qJNuy2Ez9yRM) | [Odyssey](https://open.spotify.com/album/0KfFUrqBdQVZpXecdptUHd) | 2:21 |
 | 6 | [Aura](https://open.spotify.com/track/4xNej9XMwFfiw0BGxnd9NR) | [Krish Rao](https://open.spotify.com/artist/0iwEynjG3vgrTK0dj5QHxl) | [Aura](https://open.spotify.com/album/7LyrAkJF8KwU8aGu5cTDRb) | 2:41 |
 | 7 | [Illusion](https://open.spotify.com/track/1xssFYXbMSDstoyckUKDOV) | [Rawme Hooda](https://open.spotify.com/artist/7B6M2lrsO79XEw8xAbm4OE), [Riyaazi](https://open.spotify.com/artist/5LN6cFuEopifixZsRarBri), [Nishael](https://open.spotify.com/artist/3FDqg0UZYTSVzxDgREFPAX) | [Illusion](https://open.spotify.com/album/1yjPH9YNlv1hrq5NSELfrZ) | 4:13 |

@@ -1,6 +1,6 @@
 {
   "description": "Equal parts nostalgic synthwave sounds and modern production.",
-  "num_followers": 1098650,
+  "num_followers": 1098665,
   "original_name": "Retrowave // Outrun",
   "owner": {
     "name": "Spotify",
@@ -495,22 +495,6 @@
     {
       "added_at": "2025-12-09 19:15:38",
       "album": {
-        "name": "Fundamentals, Vol. III",
-        "url": "https://open.spotify.com/album/0gI1nOpgl8BJV9jIUM4suh"
-      },
-      "artists": [
-        {
-          "name": "Brothertiger",
-          "url": "https://open.spotify.com/artist/2MaMzvFmtu68r9zpdJ4tLE"
-        }
-      ],
-      "duration_ms": 316129,
-      "name": "Pel\u00e9e",
-      "url": "https://open.spotify.com/track/4Y6m4bvuII4X6UkeolyPOq"
-    },
-    {
-      "added_at": "2025-12-09 19:15:38",
-      "album": {
         "name": "Metropolis",
         "url": "https://open.spotify.com/album/2oiMBlKh5HoJED3egOSAO2"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 290526,
       "name": "Metropolis",
       "url": "https://open.spotify.com/track/7fX0UqkOmLh0YNlp5rq8h6"
+    },
+    {
+      "added_at": "2025-12-09 19:15:38",
+      "album": {
+        "name": "Fundamentals, Vol. III",
+        "url": "https://open.spotify.com/album/0gI1nOpgl8BJV9jIUM4suh"
+      },
+      "artists": [
+        {
+          "name": "Brothertiger",
+          "url": "https://open.spotify.com/artist/2MaMzvFmtu68r9zpdJ4tLE"
+        }
+      ],
+      "duration_ms": 316129,
+      "name": "Pel\u00e9e",
+      "url": "https://open.spotify.com/track/4Y6m4bvuII4X6UkeolyPOq"
     },
     {
       "added_at": "2025-12-09 19:15:38",
@@ -607,6 +607,22 @@
     {
       "added_at": "2025-12-09 19:15:38",
       "album": {
+        "name": "Getting Started",
+        "url": "https://open.spotify.com/album/2ve5ciAj64GM826NChWq6u"
+      },
+      "artists": [
+        {
+          "name": "The Toxic Avenger",
+          "url": "https://open.spotify.com/artist/5zExRf0VQCl3GO4Jrj8r0s"
+        }
+      ],
+      "duration_ms": 358413,
+      "name": "Getting Started",
+      "url": "https://open.spotify.com/track/49oqW7nyd1MvKCbVgiwYGY"
+    },
+    {
+      "added_at": "2025-12-09 19:15:38",
+      "album": {
         "name": "Flux",
         "url": "https://open.spotify.com/album/72tw9FXt9VsabfFSzAHXLO"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 288557,
       "name": "Breakthrough",
       "url": "https://open.spotify.com/track/4tNtBl6Y9TcInf3HNrOfJs"
-    },
-    {
-      "added_at": "2025-12-09 19:15:38",
-      "album": {
-        "name": "Getting Started",
-        "url": "https://open.spotify.com/album/2ve5ciAj64GM826NChWq6u"
-      },
-      "artists": [
-        {
-          "name": "The Toxic Avenger",
-          "url": "https://open.spotify.com/artist/5zExRf0VQCl3GO4Jrj8r0s"
-        }
-      ],
-      "duration_ms": 358413,
-      "name": "Getting Started",
-      "url": "https://open.spotify.com/track/49oqW7nyd1MvKCbVgiwYGY"
     },
     {
       "added_at": "2025-12-09 19:15:38",
@@ -771,26 +771,6 @@
     {
       "added_at": "2025-12-09 19:15:38",
       "album": {
-        "name": "Cosmic Voyage",
-        "url": "https://open.spotify.com/album/3nDvD4T8sB20QeF8XsFSQZ"
-      },
-      "artists": [
-        {
-          "name": "FM Attack",
-          "url": "https://open.spotify.com/artist/6nPggL1KGOD5Ba0yK0cxmb"
-        },
-        {
-          "name": "Betamaxx",
-          "url": "https://open.spotify.com/artist/3uIfha7lvdSsoFeJNJS3vJ"
-        }
-      ],
-      "duration_ms": 284892,
-      "name": "Cosmic Voyage",
-      "url": "https://open.spotify.com/track/5rZ4Y6hbo4URT781qcGlLB"
-    },
-    {
-      "added_at": "2025-12-09 19:15:38",
-      "album": {
         "name": "Daydream",
         "url": "https://open.spotify.com/album/2GJorQf4gLBvBzSucWHs8K"
       },
@@ -819,6 +799,26 @@
       "duration_ms": 309817,
       "name": "Love on a Real Train",
       "url": "https://open.spotify.com/track/0BVnj2LR0fptLTOgKh63VV"
+    },
+    {
+      "added_at": "2025-12-09 19:15:38",
+      "album": {
+        "name": "Cosmic Voyage",
+        "url": "https://open.spotify.com/album/3nDvD4T8sB20QeF8XsFSQZ"
+      },
+      "artists": [
+        {
+          "name": "FM Attack",
+          "url": "https://open.spotify.com/artist/6nPggL1KGOD5Ba0yK0cxmb"
+        },
+        {
+          "name": "Betamaxx",
+          "url": "https://open.spotify.com/artist/3uIfha7lvdSsoFeJNJS3vJ"
+        }
+      ],
+      "duration_ms": 284892,
+      "name": "Cosmic Voyage",
+      "url": "https://open.spotify.com/track/5rZ4Y6hbo4URT781qcGlLB"
     },
     {
       "added_at": "2025-12-09 19:15:38",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2025-12-09 19:15:38",
       "album": {
-        "name": "Contact",
-        "url": "https://open.spotify.com/album/3lzJ3fjoEil0E1K5VuI1aP"
-      },
-      "artists": [
-        {
-          "name": "Downtown Binary",
-          "url": "https://open.spotify.com/artist/0H4t3GcGse8cqfL222mfbv"
-        }
-      ],
-      "duration_ms": 237783,
-      "name": "Contact",
-      "url": "https://open.spotify.com/track/1j7YLlEbojw8RGhpqRSv0z"
-    },
-    {
-      "added_at": "2025-12-09 19:15:38",
-      "album": {
         "name": "Breathe",
         "url": "https://open.spotify.com/album/1bfAbOA2tIrr9RHx1WDprw"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 240000,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/7c2p2sUWE5gBMlXIFITBJG"
+    },
+    {
+      "added_at": "2025-12-09 19:15:38",
+      "album": {
+        "name": "Contact",
+        "url": "https://open.spotify.com/album/3lzJ3fjoEil0E1K5VuI1aP"
+      },
+      "artists": [
+        {
+          "name": "Downtown Binary",
+          "url": "https://open.spotify.com/artist/0H4t3GcGse8cqfL222mfbv"
+        }
+      ],
+      "duration_ms": 237783,
+      "name": "Contact",
+      "url": "https://open.spotify.com/track/1j7YLlEbojw8RGhpqRSv0z"
     },
     {
       "added_at": "2025-12-09 19:15:38",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2025-12-09 19:15:38",
       "album": {
+        "name": "Nostalgie",
+        "url": "https://open.spotify.com/album/5sXsIIlGgRm5rTuA4bYycO"
+      },
+      "artists": [
+        {
+          "name": "Atrey",
+          "url": "https://open.spotify.com/artist/73S1zHIBGAuJyjdDIEELqw"
+        }
+      ],
+      "duration_ms": 255000,
+      "name": "Nostalgie",
+      "url": "https://open.spotify.com/track/7yO4fWo877xXUlizCP2Xn0"
+    },
+    {
+      "added_at": "2025-12-09 19:15:38",
+      "album": {
         "name": "Lust",
         "url": "https://open.spotify.com/album/1gn9kq6O81y2pvguH15UtG"
       },
@@ -1323,22 +1339,6 @@
       "duration_ms": 346786,
       "name": "Lust",
       "url": "https://open.spotify.com/track/1mBBXvuinsqMYdvGK38Xe5"
-    },
-    {
-      "added_at": "2025-12-09 19:15:38",
-      "album": {
-        "name": "Nostalgie",
-        "url": "https://open.spotify.com/album/5sXsIIlGgRm5rTuA4bYycO"
-      },
-      "artists": [
-        {
-          "name": "Atrey",
-          "url": "https://open.spotify.com/artist/73S1zHIBGAuJyjdDIEELqw"
-        }
-      ],
-      "duration_ms": 255000,
-      "name": "Nostalgie",
-      "url": "https://open.spotify.com/track/7yO4fWo877xXUlizCP2Xn0"
     },
     {
       "added_at": "2025-12-09 19:15:38",
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2025-12-09 19:15:38",
       "album": {
+        "name": "D.I.V.I.N.E",
+        "url": "https://open.spotify.com/album/43qAcL5ZxeONy7X5yZbDBh"
+      },
+      "artists": [
+        {
+          "name": "DEPARTURE",
+          "url": "https://open.spotify.com/artist/1hKMcEF7YVRkjXMRpl6aqN"
+        }
+      ],
+      "duration_ms": 226064,
+      "name": "D.I.V.I.N.E",
+      "url": "https://open.spotify.com/track/2h5zgTg4wfn7UR1mzFrDZK"
+    },
+    {
+      "added_at": "2025-12-09 19:15:38",
+      "album": {
         "name": "Fractal Forms",
         "url": "https://open.spotify.com/album/7yhSFo6FnhnmWjjJc98do6"
       },
@@ -1415,22 +1431,6 @@
       "duration_ms": 235862,
       "name": "Fractal Forms",
       "url": "https://open.spotify.com/track/63ad26ATXX70Ra2GxCPvvx"
-    },
-    {
-      "added_at": "2025-12-09 19:15:38",
-      "album": {
-        "name": "D.I.V.I.N.E",
-        "url": "https://open.spotify.com/album/43qAcL5ZxeONy7X5yZbDBh"
-      },
-      "artists": [
-        {
-          "name": "DEPARTURE",
-          "url": "https://open.spotify.com/artist/1hKMcEF7YVRkjXMRpl6aqN"
-        }
-      ],
-      "duration_ms": 226064,
-      "name": "D.I.V.I.N.E",
-      "url": "https://open.spotify.com/track/2h5zgTg4wfn7UR1mzFrDZK"
     },
     {
       "added_at": "2025-12-09 19:15:38",
@@ -1507,26 +1507,6 @@
     {
       "added_at": "2025-12-09 19:15:38",
       "album": {
-        "name": "Parallel Reality",
-        "url": "https://open.spotify.com/album/0Az4ZauP73xbD8xGTgbRn0"
-      },
-      "artists": [
-        {
-          "name": "Cassetter",
-          "url": "https://open.spotify.com/artist/6rzOP8pWzUuXlniCGCtrcE"
-        },
-        {
-          "name": "Zane Alexander",
-          "url": "https://open.spotify.com/artist/3YZb2aI52lJJK9ektquNK7"
-        }
-      ],
-      "duration_ms": 406199,
-      "name": "Foggy Beach Memories",
-      "url": "https://open.spotify.com/track/5VnDVoshMrB0hv6xDZ37bx"
-    },
-    {
-      "added_at": "2025-12-09 19:15:38",
-      "album": {
         "name": "Succeed EP",
         "url": "https://open.spotify.com/album/6p5XNL1ONh2VxEdJaKmkPl"
       },
@@ -1543,6 +1523,26 @@
       "duration_ms": 422226,
       "name": "Succeed",
       "url": "https://open.spotify.com/track/2526hhBAM2AmBCfruVFR7n"
+    },
+    {
+      "added_at": "2025-12-09 19:15:38",
+      "album": {
+        "name": "Parallel Reality",
+        "url": "https://open.spotify.com/album/0Az4ZauP73xbD8xGTgbRn0"
+      },
+      "artists": [
+        {
+          "name": "Cassetter",
+          "url": "https://open.spotify.com/artist/6rzOP8pWzUuXlniCGCtrcE"
+        },
+        {
+          "name": "Zane Alexander",
+          "url": "https://open.spotify.com/artist/3YZb2aI52lJJK9ektquNK7"
+        }
+      ],
+      "duration_ms": 406199,
+      "name": "Foggy Beach Memories",
+      "url": "https://open.spotify.com/track/5VnDVoshMrB0hv6xDZ37bx"
     },
     {
       "added_at": "2025-12-09 19:15:38",
@@ -1891,6 +1891,30 @@
     {
       "added_at": "2025-12-09 19:15:38",
       "album": {
+        "name": "WUT",
+        "url": "https://open.spotify.com/album/0ooPfXfXVfkv8WjcMkOjnE"
+      },
+      "artists": [
+        {
+          "name": "Kalipo",
+          "url": "https://open.spotify.com/artist/7ud6dY3K4gi4Q0uVlLd8Hi"
+        },
+        {
+          "name": "Local Suicide",
+          "url": "https://open.spotify.com/artist/0oRegIGGmJDXVaVfgWuoz0"
+        },
+        {
+          "name": "Dina Summer",
+          "url": "https://open.spotify.com/artist/0s4dIi02iAv3SiJfBrNhHo"
+        }
+      ],
+      "duration_ms": 342031,
+      "name": "Echoes Of The Past",
+      "url": "https://open.spotify.com/track/25yFIb4x438niHV77uRU8p"
+    },
+    {
+      "added_at": "2025-12-09 19:15:38",
+      "album": {
         "name": "Timeshift / Cronos",
         "url": "https://open.spotify.com/album/3JGT90YgRLb62wTGhN4EOk"
       },
@@ -1923,30 +1947,6 @@
       "duration_ms": 210000,
       "name": "Days Away",
       "url": "https://open.spotify.com/track/5DNfjeNIHxY4WMA5yzBCFy"
-    },
-    {
-      "added_at": "2025-12-09 19:15:38",
-      "album": {
-        "name": "WUT",
-        "url": "https://open.spotify.com/album/0ooPfXfXVfkv8WjcMkOjnE"
-      },
-      "artists": [
-        {
-          "name": "Kalipo",
-          "url": "https://open.spotify.com/artist/7ud6dY3K4gi4Q0uVlLd8Hi"
-        },
-        {
-          "name": "Local Suicide",
-          "url": "https://open.spotify.com/artist/0oRegIGGmJDXVaVfgWuoz0"
-        },
-        {
-          "name": "Dina Summer",
-          "url": "https://open.spotify.com/artist/0s4dIi02iAv3SiJfBrNhHo"
-        }
-      ],
-      "duration_ms": 342031,
-      "name": "Echoes Of The Past",
-      "url": "https://open.spotify.com/track/25yFIb4x438niHV77uRU8p"
     },
     {
       "added_at": "2025-12-09 19:15:38",
@@ -2143,22 +2143,6 @@
     {
       "added_at": "2025-12-09 19:15:38",
       "album": {
-        "name": "Turnover",
-        "url": "https://open.spotify.com/album/16bG49PWd4y1CXAi9pTOzd"
-      },
-      "artists": [
-        {
-          "name": "Envotion",
-          "url": "https://open.spotify.com/artist/2TVhFzZ7bKLx162ooMcMMS"
-        }
-      ],
-      "duration_ms": 185100,
-      "name": "Turnover",
-      "url": "https://open.spotify.com/track/3gPnmov7t50dK8cwxTas4B"
-    },
-    {
-      "added_at": "2025-12-09 19:15:38",
-      "album": {
         "name": "feel you",
         "url": "https://open.spotify.com/album/5N2ZWLzgmo9IhGOuQeq1ou"
       },
@@ -2179,6 +2163,22 @@
       "duration_ms": 118064,
       "name": "feel you",
       "url": "https://open.spotify.com/track/2ZS6zsrVD0FT0D5HbDpky3"
+    },
+    {
+      "added_at": "2025-12-09 19:15:38",
+      "album": {
+        "name": "Turnover",
+        "url": "https://open.spotify.com/album/16bG49PWd4y1CXAi9pTOzd"
+      },
+      "artists": [
+        {
+          "name": "Envotion",
+          "url": "https://open.spotify.com/artist/2TVhFzZ7bKLx162ooMcMMS"
+        }
+      ],
+      "duration_ms": 185100,
+      "name": "Turnover",
+      "url": "https://open.spotify.com/track/3gPnmov7t50dK8cwxTas4B"
     },
     {
       "added_at": "2025-12-09 19:15:38",

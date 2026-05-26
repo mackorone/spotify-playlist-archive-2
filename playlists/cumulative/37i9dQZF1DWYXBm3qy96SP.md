@@ -4,7 +4,7 @@
 
 > 世界中のロックシーンを彩る話題曲をチェック。Cover: Bleachers
 
-2,058 songs - 4 day 23 hr 47 min
+2,060 songs - 4 day 23 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [2016 CAVALIERS \(Ohio\) \(feat\. Knox\)](https://open.spotify.com/track/4hothXhcXn6OmMXmN9A2cU) | [Bilmuri](https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89), [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [2016 CAVALIERS \(Ohio\) \(feat\. Knox\)](https://open.spotify.com/album/7E9rdvLTWHLxkk1dg3tZno) | 3:34 | 2024-06-21 | 2024-07-13 |
 | [2022](https://open.spotify.com/track/2bsMTraNEMpu6Z25bjWz2q) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf), [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ) | [2022](https://open.spotify.com/album/02mqlcxY1kqOBOtvtPBzXF) | 2:54 | 2025-09-25 | 2025-10-03 |
 | [25](https://open.spotify.com/track/1YSJWOAY8r5tWVOvekY9bi) | [Sugar House](https://open.spotify.com/artist/688OLNQQtC0VGgYhVXCYVP) | [Sugar House](https://open.spotify.com/album/76Ay3WdOwB9FZJ0mVaWxgx) | 3:44 | 2024-01-18 | 2024-01-26 |
-| [2515](https://open.spotify.com/track/6oJRAA2pF2VK8fmxTncqiG) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [2515](https://open.spotify.com/album/4n98iy8MVJkh2cELKgazOR) | 4:01 | 2026-04-02 |  |
+| [2515](https://open.spotify.com/track/6oJRAA2pF2VK8fmxTncqiG) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [2515](https://open.spotify.com/album/4n98iy8MVJkh2cELKgazOR) | 4:01 | 2026-04-02 | 2026-05-26 |
 | [3 DAY HEADACHE](https://open.spotify.com/track/5u4MPbgZPmajC5vVf1O5xb) | [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM) | [3 DAY HEADACHE](https://open.spotify.com/album/499mEC3ZLcprlNXqgHMZEK) | 1:54 | 2024-01-04 | 2024-01-12 |
 | [30 Somehow](https://open.spotify.com/track/7kr4xACIU9qq0FXnOFVSTZ) | [Nicotine Dolls](https://open.spotify.com/artist/72gC2IIj21UAPKneFwl4NM) | [How Do You Love Me](https://open.spotify.com/album/2fOuSjF8vzo5dptyMi8o5s) | 4:41 | 2023-12-07 | 2023-12-15 |
 | [3AM 2.0](https://open.spotify.com/track/4amf5XCRdFLIMyzx5TXaNL) | [Busted](https://open.spotify.com/artist/3Z6IRCo7umuk8K2XQy0ZDj), [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Greatest Hits 2.0 \(Guest Features Edition\)](https://open.spotify.com/album/2XWO1jEuigClyJgkMvk3rx) | 3:35 | 2023-09-15 | 2023-09-29 |
@@ -506,6 +506,7 @@
 | [DO THE DANCE](https://open.spotify.com/track/0bAUr8cmsxdjIIyGNJmc2F) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [DO THE DANCE](https://open.spotify.com/album/7iWCRdzPIQw6HiPFvTb5l2) | 3:16 | 2023-07-27 | 2023-08-11 |
 | [DO THE DANCE](https://open.spotify.com/track/6fqHrKRWVAobPJBPvgMEqM) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [PLAYDEAD](https://open.spotify.com/album/7tf9tNN8G9jS6kqCkbDy12) | 3:16 | 2023-07-27 | 2023-07-29 |
 | [Do What You Gotta \(feat\. Sunset Rollercoaster\)](https://open.spotify.com/track/5I25i7QQ0JyUHwovMJprfS) | [PREP](https://open.spotify.com/artist/31SBgHxc8eqZUk9MdveH42), [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Do What You Gotta \(feat\. Sunset Rollercoaster\)](https://open.spotify.com/album/4eXihWYidaaT9dIA25HxqN) | 3:08 | 2026-03-12 | 2026-04-03 |
+| [Do What You Gotta Do](https://open.spotify.com/track/2bpWY9SVsWt5etz8xJfQIU) | [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc) | [Do What You Gotta Do](https://open.spotify.com/album/3vQwZL77edVIs2uAvJqUaf) | 3:26 | 2026-05-23 |  |
 | [Do Ya Think I'm Sexy](https://open.spotify.com/track/2wUnbvxF5a25JuZp6Tzbpu) | [Hoobastank](https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO) | [The Reason \(20th Anniversary\)](https://open.spotify.com/album/3pCVjmRGVZ2mYuJN2R1wi8) | 4:16 | 2024-01-11 | 2024-04-12 |
 | [Do You Really Love Her](https://open.spotify.com/track/0taitulsqplmFbqzO8GEqa) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Do You Really Love Her](https://open.spotify.com/album/574rsOAjtvMf9Y8DuYl0HN) | 3:48 | 2026-03-12 |  |
 | [Dodging Sunshine \(Fever Dreams\)](https://open.spotify.com/track/1ln5j3zS7KDa4IYHJb2HyN) | [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A), [Robert DeLong](https://open.spotify.com/artist/42crL07E4WPfVovyUtMpvC) | [Dodging Sunshine \(Fever Dreams\)](https://open.spotify.com/album/44WZJyA2WFQyFoXvczQXGc) | 3:36 | 2023-06-01 | 2023-06-09 |
@@ -1081,7 +1082,7 @@
 | [Love Me](https://open.spotify.com/track/6P8GSsFudw7kcEmSyUT8Bb) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq) | [Love Me](https://open.spotify.com/album/7t0GsYTsTodsWg3Oyuhx4r) | 4:23 | 2026-04-27 | 2026-05-15 |
 | [Love Of A Girl](https://open.spotify.com/track/412lrhEHRGzaKKvKu49GDM) | [The Avett Brothers](https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q) | [Love Of A Girl](https://open.spotify.com/album/4IQ0aUYSOhj8kcLuWKcU3g) | 3:16 | 2024-02-29 | 2024-05-03 |
 | [LOVE ROCKETS](https://open.spotify.com/track/6stn0schvLBMoRHsDeYiIi) | [The Birthday](https://open.spotify.com/artist/58zME34zPsQx58YXCyFryH) | [LOVE ROCKETS](https://open.spotify.com/album/0wN4mrkQyl961vNqhchf7N) | 4:21 | 2023-05-25 | 2023-06-16 |
-| [Love To Be Loved](https://open.spotify.com/track/7L9Fgs88bbwSOIYGJHOIBs) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Love To Be Loved](https://open.spotify.com/album/7G3oABTzz3ZtRTwkdDMeoN) | 2:50 | 2026-02-05 |  |
+| [Love To Be Loved](https://open.spotify.com/track/7L9Fgs88bbwSOIYGJHOIBs) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Love To Be Loved](https://open.spotify.com/album/7G3oABTzz3ZtRTwkdDMeoN) | 2:50 | 2026-02-05 | 2026-05-26 |
 | [Love To Walk Away](https://open.spotify.com/track/7wykJuA5AbOMLTmsNSi1Cq) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [Love To Walk Away](https://open.spotify.com/album/3H3oeo1nVS1IzgQVOXcDdD) | 2:07 | 2023-12-07 | 2023-12-22 |
 | [Lovesick Lullaby](https://open.spotify.com/track/2LRSQhv3Vi8SkEllnvUhEK) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Lovesick Lullaby](https://open.spotify.com/album/3zwpHJVP5RXTpzQ7o2dpTu) | 2:55 | 2025-04-25 | 2025-06-20 |
 | [Low Again \(miss my dog\)](https://open.spotify.com/track/1e5SBnMu0FdtQ6PGXmRDE8) | [Kape Yeel](https://open.spotify.com/artist/4FKoVIKo6n8CqYJ9SlTmsH) | [Low Again \(miss my dog\)](https://open.spotify.com/album/4hoTPpQU43DVwmt8WgaOyl) | 3:00 | 2026-03-12 | 2026-03-20 |
@@ -1199,6 +1200,7 @@
 | [Never Better](https://open.spotify.com/track/7oYm171RmKxCSEwVAc4I3o) | [Lavalove](https://open.spotify.com/artist/3rqzavMb2twmjVAqvDyqq9) | [Never Better](https://open.spotify.com/album/4y4b3JMn304TCeyw5bF1Q3) | 2:17 | 2026-03-05 | 2026-03-13 |
 | [Never Ending Moment](https://open.spotify.com/track/4LltjSEOq80cOSFeIM6LOz) | [Des Rocs](https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8) | [Never Ending Moment](https://open.spotify.com/album/313xyg9CxQWvoeOvih1QOW) | 4:17 | 2023-04-27 | 2023-05-05 |
 | [NEVER ENOUGH](https://open.spotify.com/track/6ONyZXRIEiZWWnAA1F5YvH) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [NEVER ENOUGH](https://open.spotify.com/album/36RxuCAJGs9PaH4LQyYLRY) | 4:47 | 2025-04-10 | 2025-07-12 |
+| [Never Have I Ever](https://open.spotify.com/track/2Ojr742JINM4QEOk7vQGEh) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [Never Have I Ever](https://open.spotify.com/album/5c64n4bmCFpdsvenhcWp5z) | 2:54 | 2026-05-23 |  |
 | [Never Know](https://open.spotify.com/track/1qaFMnI1eVDa4arwNN8nMa) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Never Know](https://open.spotify.com/album/1wIKBow4Y0MtCFSWBdohuC) | 2:55 | 2025-01-30 | 2025-04-04 |
 | [Never With You Again](https://open.spotify.com/track/7cVufRmSWo6ogfYyuAJC0w) | [Chri$tian Gate$](https://open.spotify.com/artist/0OEYE03fBF2VoTBxGuaUxL) | [Never With You Again](https://open.spotify.com/album/5uk392dRRZMHJVM8PpyRTM) | 2:12 | 2023-03-16 | 2023-04-04 |
 | [NEW DAWN](https://open.spotify.com/track/71H3UvIlZRSifs0LNF2HKG) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [NEW DAWN](https://open.spotify.com/album/4IT98wMgoHu9O2Jx1EZIZ8) | 3:32 | 2023-08-03 | 2023-08-25 |

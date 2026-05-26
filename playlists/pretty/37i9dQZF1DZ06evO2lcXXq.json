@@ -1,12 +1,12 @@
 {
   "description": "This is Lauren Daigle. The essential tracks, all in one playlist.",
-  "num_followers": 368842,
+  "num_followers": 368834,
   "original_name": "This Is Lauren Daigle",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahDuAAAAAABopZA8KkIvk4gzbZL9j5L7",
+  "snapshot_id": "ahI/gAAAAAB+E+lSWu7UXzV7HjUaTmPk",
   "tracks": [
     {
       "added_at": null,
@@ -455,26 +455,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "You Lead Me",
-        "url": "https://open.spotify.com/album/26XQGLcx9C4eJYP4rezkXY"
+        "name": "EAT",
+        "url": "https://open.spotify.com/album/0USg7yhc0M9kTNDlzcMU7K"
       },
       "artists": [
+        {
+          "name": "Brooke Ligertwood",
+          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
+        },
         {
           "name": "Lauren Daigle",
           "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
         },
         {
-          "name": "House Of David",
-          "url": "https://open.spotify.com/artist/11AckhNQEhNwfFhuNmCJWH"
-        },
-        {
-          "name": "Wonder Project",
-          "url": "https://open.spotify.com/artist/2b16KxZlvk0C1YGnagXAx2"
+          "name": "The New Respects",
+          "url": "https://open.spotify.com/artist/5lwtznzBlmVM2IhgrCWbT9"
         }
       ],
-      "duration_ms": 254184,
-      "name": "You Lead Me",
-      "url": "https://open.spotify.com/track/2aDNgEU3yj4vUnh5ZWq4tD"
+      "duration_ms": 167254,
+      "name": "Watchmen",
+      "url": "https://open.spotify.com/track/48CJkDa7zpAX65uIWXyuHZ"
     },
     {
       "added_at": null,
@@ -511,26 +511,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "EAT",
-        "url": "https://open.spotify.com/album/0USg7yhc0M9kTNDlzcMU7K"
+        "name": "You Lead Me",
+        "url": "https://open.spotify.com/album/26XQGLcx9C4eJYP4rezkXY"
       },
       "artists": [
-        {
-          "name": "Brooke Ligertwood",
-          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
-        },
         {
           "name": "Lauren Daigle",
           "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
         },
         {
-          "name": "The New Respects",
-          "url": "https://open.spotify.com/artist/5lwtznzBlmVM2IhgrCWbT9"
+          "name": "House Of David",
+          "url": "https://open.spotify.com/artist/11AckhNQEhNwfFhuNmCJWH"
+        },
+        {
+          "name": "Wonder Project",
+          "url": "https://open.spotify.com/artist/2b16KxZlvk0C1YGnagXAx2"
         }
       ],
-      "duration_ms": 167254,
-      "name": "Watchmen",
-      "url": "https://open.spotify.com/track/48CJkDa7zpAX65uIWXyuHZ"
+      "duration_ms": 254184,
+      "name": "You Lead Me",
+      "url": "https://open.spotify.com/track/2aDNgEU3yj4vUnh5ZWq4tD"
     },
     {
       "added_at": null,

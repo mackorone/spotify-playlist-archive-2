@@ -1,6 +1,6 @@
 {
   "description": "La playlist del jazz italiano, passato e presente. Cover: Carolina Bubbico",
-  "num_followers": 34462,
+  "num_followers": 34471,
   "original_name": "Jazz Italia",
   "owner": {
     "name": "Spotify",
@@ -911,6 +911,26 @@
     {
       "added_at": "2026-05-21 22:02:54",
       "album": {
+        "name": "Prati Bagnati Del Monte Analogo",
+        "url": "https://open.spotify.com/album/61B1GQvwCDsQMEP6yaySOB"
+      },
+      "artists": [
+        {
+          "name": "Raul Lovisoni",
+          "url": "https://open.spotify.com/artist/14c03pepaaW7MNk7D5LG48"
+        },
+        {
+          "name": "Francesco Messina",
+          "url": "https://open.spotify.com/artist/0z1i074D0xFtfxWLgZ3sGj"
+        }
+      ],
+      "duration_ms": 566966,
+      "name": "Hula Om",
+      "url": "https://open.spotify.com/track/1xBke1qBIpQHmM9q3hKemz"
+    },
+    {
+      "added_at": "2026-05-21 22:02:54",
+      "album": {
         "name": "Trama Latina",
         "url": "https://open.spotify.com/album/6yPxl2kSktRRwdsHGP52pY"
       },
@@ -931,26 +951,6 @@
       "duration_ms": 370960,
       "name": "chiquil\u00edn de bach\u00edn",
       "url": "https://open.spotify.com/track/482bT2u015ShiWjWuxtwkN"
-    },
-    {
-      "added_at": "2026-05-21 22:02:54",
-      "album": {
-        "name": "Prati Bagnati Del Monte Analogo",
-        "url": "https://open.spotify.com/album/61B1GQvwCDsQMEP6yaySOB"
-      },
-      "artists": [
-        {
-          "name": "Raul Lovisoni",
-          "url": "https://open.spotify.com/artist/14c03pepaaW7MNk7D5LG48"
-        },
-        {
-          "name": "Francesco Messina",
-          "url": "https://open.spotify.com/artist/0z1i074D0xFtfxWLgZ3sGj"
-        }
-      ],
-      "duration_ms": 566966,
-      "name": "Hula Om",
-      "url": "https://open.spotify.com/track/1xBke1qBIpQHmM9q3hKemz"
     },
     {
       "added_at": "2026-05-21 22:02:54",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2026-05-21 22:02:54",
       "album": {
-        "name": "SANG",
-        "url": "https://open.spotify.com/album/0uu67DzeyjOUkXantXQSSH"
-      },
-      "artists": [
-        {
-          "name": "Dario Jacque",
-          "url": "https://open.spotify.com/artist/2zZOZjbIhOVjV9wdFEjwHm"
-        }
-      ],
-      "duration_ms": 151000,
-      "name": "notte brava",
-      "url": "https://open.spotify.com/track/0ChseX4Zj2Ix6bDOgXQN9m"
-    },
-    {
-      "added_at": "2026-05-21 22:02:54",
-      "album": {
         "name": "Studio Murena",
         "url": "https://open.spotify.com/album/5gAOUXIOjmeiyqK90I5ya8"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 244000,
       "name": "Long John Silver",
       "url": "https://open.spotify.com/track/0TmQwgmFMt3N8qgdNWofnx"
+    },
+    {
+      "added_at": "2026-05-21 22:02:54",
+      "album": {
+        "name": "SANG",
+        "url": "https://open.spotify.com/album/0uu67DzeyjOUkXantXQSSH"
+      },
+      "artists": [
+        {
+          "name": "Dario Jacque",
+          "url": "https://open.spotify.com/artist/2zZOZjbIhOVjV9wdFEjwHm"
+        }
+      ],
+      "duration_ms": 151000,
+      "name": "notte brava",
+      "url": "https://open.spotify.com/track/0ChseX4Zj2Ix6bDOgXQN9m"
     },
     {
       "added_at": "2026-05-21 22:02:54",
@@ -1167,26 +1167,6 @@
     {
       "added_at": "2026-05-21 22:02:54",
       "album": {
-        "name": "Quando le canzoni finiscono",
-        "url": "https://open.spotify.com/album/0pbaxeBm7EGjfBiiuD0LyE"
-      },
-      "artists": [
-        {
-          "name": "Carlo Corallo",
-          "url": "https://open.spotify.com/artist/5qkSgK2UUXXa0DDBks4vqt"
-        },
-        {
-          "name": "Funk Shui Project",
-          "url": "https://open.spotify.com/artist/38HGRU8SzSmL41dQT8Dh7E"
-        }
-      ],
-      "duration_ms": 238043,
-      "name": "Un giardino",
-      "url": "https://open.spotify.com/track/1xXKvZSKZGcBR4jNOvirl6"
-    },
-    {
-      "added_at": "2026-05-21 22:02:54",
-      "album": {
         "name": "Gigi",
         "url": "https://open.spotify.com/album/36xYaInaUB5pOuqVkJ0V5a"
       },
@@ -1203,6 +1183,26 @@
       "duration_ms": 434413,
       "name": "Gigi",
       "url": "https://open.spotify.com/track/0En4rr7N50o78ENfLnMptQ"
+    },
+    {
+      "added_at": "2026-05-21 22:02:54",
+      "album": {
+        "name": "Quando le canzoni finiscono",
+        "url": "https://open.spotify.com/album/0pbaxeBm7EGjfBiiuD0LyE"
+      },
+      "artists": [
+        {
+          "name": "Carlo Corallo",
+          "url": "https://open.spotify.com/artist/5qkSgK2UUXXa0DDBks4vqt"
+        },
+        {
+          "name": "Funk Shui Project",
+          "url": "https://open.spotify.com/artist/38HGRU8SzSmL41dQT8Dh7E"
+        }
+      ],
+      "duration_ms": 238043,
+      "name": "Un giardino",
+      "url": "https://open.spotify.com/track/1xXKvZSKZGcBR4jNOvirl6"
     },
     {
       "added_at": "2026-05-21 22:02:54",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2026-05-21 22:02:54",
       "album": {
-        "name": "Vitamin C",
-        "url": "https://open.spotify.com/album/7FkqxBByPespMKHZ0crqcX"
-      },
-      "artists": [
-        {
-          "name": "Calibro 35",
-          "url": "https://open.spotify.com/artist/7ueDbhgpZaiUxEbiHnwezi"
-        }
-      ],
-      "duration_ms": 209285,
-      "name": "Vitamin C",
-      "url": "https://open.spotify.com/track/7GYF79EYtDd8a574r1k2fe"
-    },
-    {
-      "added_at": "2026-05-21 22:02:54",
-      "album": {
         "name": "Liquid Portraits",
         "url": "https://open.spotify.com/album/19uGXP6YaIElZQ08aNLJwS"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 245200,
       "name": "Southern Dub",
       "url": "https://open.spotify.com/track/157HG6YWfRczb2oksDZXNZ"
+    },
+    {
+      "added_at": "2026-05-21 22:02:54",
+      "album": {
+        "name": "Vitamin C",
+        "url": "https://open.spotify.com/album/7FkqxBByPespMKHZ0crqcX"
+      },
+      "artists": [
+        {
+          "name": "Calibro 35",
+          "url": "https://open.spotify.com/artist/7ueDbhgpZaiUxEbiHnwezi"
+        }
+      ],
+      "duration_ms": 209285,
+      "name": "Vitamin C",
+      "url": "https://open.spotify.com/track/7GYF79EYtDd8a574r1k2fe"
     },
     {
       "added_at": "2026-05-21 22:02:54",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2026-05-21 22:02:54",
       "album": {
-        "name": "Le mie donne",
-        "url": "https://open.spotify.com/album/0nNoUuTnjhy6nsbrFHtAYY"
-      },
-      "artists": [
-        {
-          "name": "Sade Mangiaracina",
-          "url": "https://open.spotify.com/artist/4SE5avfQnwqWxmiGZI1WMb"
-        }
-      ],
-      "duration_ms": 236881,
-      "name": "Rosa",
-      "url": "https://open.spotify.com/track/3wO2S9SjQkG64qJv81S0ah"
-    },
-    {
-      "added_at": "2026-05-21 22:02:54",
-      "album": {
         "name": "Mister Magic",
         "url": "https://open.spotify.com/album/3KazG335xSdg28ntQU1XsJ"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 221660,
       "name": "Mister Magic",
       "url": "https://open.spotify.com/track/4rpPAx8ukinniDROqa7GGG"
+    },
+    {
+      "added_at": "2026-05-21 22:02:54",
+      "album": {
+        "name": "Le mie donne",
+        "url": "https://open.spotify.com/album/0nNoUuTnjhy6nsbrFHtAYY"
+      },
+      "artists": [
+        {
+          "name": "Sade Mangiaracina",
+          "url": "https://open.spotify.com/artist/4SE5avfQnwqWxmiGZI1WMb"
+        }
+      ],
+      "duration_ms": 236881,
+      "name": "Rosa",
+      "url": "https://open.spotify.com/track/3wO2S9SjQkG64qJv81S0ah"
     },
     {
       "added_at": "2026-05-21 22:02:54",
@@ -1727,8 +1727,8 @@
     {
       "added_at": "2026-05-21 22:02:54",
       "album": {
-        "name": "Ipnagogico",
-        "url": "https://open.spotify.com/album/5HHgjR7lVw20NfDrgXE3Ix"
+        "name": "Freaky People",
+        "url": "https://open.spotify.com/album/5GidaDXTEqFHHfhH5aTo44"
       },
       "artists": [
         {
@@ -1736,9 +1736,9 @@
           "url": "https://open.spotify.com/artist/3eL7WEdwv8YTlSsg5mqyF5"
         }
       ],
-      "duration_ms": 236146,
-      "name": "Party Cells",
-      "url": "https://open.spotify.com/track/31Hxf2u09SqBeFVxurc6yt"
+      "duration_ms": 348375,
+      "name": "Here We Gong",
+      "url": "https://open.spotify.com/track/5u0jFEGcdSiJgBFvZf0Waj"
     },
     {
       "added_at": "2026-05-21 22:02:54",
@@ -1791,26 +1791,18 @@
     {
       "added_at": "2026-05-21 22:02:54",
       "album": {
-        "name": "Norma (Arr. for Jazz Orchestra)",
-        "url": "https://open.spotify.com/album/6E5n7bwbyvjDeGj4IexGGl"
+        "name": "Contigo Mi Vida",
+        "url": "https://open.spotify.com/album/41Rp1C4bwyciU2xyhs0ja1"
       },
       "artists": [
         {
-          "name": "Orchestra Jazz del Mediterraneo",
-          "url": "https://open.spotify.com/artist/0Tb0g0i1vQhmpkEJK2jaRp"
-        },
-        {
-          "name": "Paolo Fresu",
-          "url": "https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi"
-        },
-        {
-          "name": "Paolo Silvestri",
-          "url": "https://open.spotify.com/artist/5lvL2BwPlgsY3QWfpikMJO"
+          "name": "Gabriele Poso",
+          "url": "https://open.spotify.com/artist/2yApCA4GzuGb9oDS5I5Fjp"
         }
       ],
-      "duration_ms": 584075,
-      "name": "Norma: Casta diva - Arr. for Jazz Orchestra",
-      "url": "https://open.spotify.com/track/6F2ZVnF2AXI3sG6bxq1o5x"
+      "duration_ms": 249720,
+      "name": "Contigo Mi Vida",
+      "url": "https://open.spotify.com/track/77yfpdIrZ9MtKfaUpf6O3G"
     },
     {
       "added_at": "2026-05-21 22:02:54",
@@ -1835,8 +1827,8 @@
     {
       "added_at": "2026-05-21 22:02:54",
       "album": {
-        "name": "Freaky People",
-        "url": "https://open.spotify.com/album/5GidaDXTEqFHHfhH5aTo44"
+        "name": "Ipnagogico",
+        "url": "https://open.spotify.com/album/5HHgjR7lVw20NfDrgXE3Ix"
       },
       "artists": [
         {
@@ -1844,9 +1836,33 @@
           "url": "https://open.spotify.com/artist/3eL7WEdwv8YTlSsg5mqyF5"
         }
       ],
-      "duration_ms": 348375,
-      "name": "Here We Gong",
-      "url": "https://open.spotify.com/track/5u0jFEGcdSiJgBFvZf0Waj"
+      "duration_ms": 236146,
+      "name": "Party Cells",
+      "url": "https://open.spotify.com/track/31Hxf2u09SqBeFVxurc6yt"
+    },
+    {
+      "added_at": "2026-05-21 22:02:54",
+      "album": {
+        "name": "Norma (Arr. for Jazz Orchestra)",
+        "url": "https://open.spotify.com/album/6E5n7bwbyvjDeGj4IexGGl"
+      },
+      "artists": [
+        {
+          "name": "Orchestra Jazz del Mediterraneo",
+          "url": "https://open.spotify.com/artist/0Tb0g0i1vQhmpkEJK2jaRp"
+        },
+        {
+          "name": "Paolo Fresu",
+          "url": "https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi"
+        },
+        {
+          "name": "Paolo Silvestri",
+          "url": "https://open.spotify.com/artist/5lvL2BwPlgsY3QWfpikMJO"
+        }
+      ],
+      "duration_ms": 584075,
+      "name": "Norma: Casta diva - Arr. for Jazz Orchestra",
+      "url": "https://open.spotify.com/track/6F2ZVnF2AXI3sG6bxq1o5x"
     },
     {
       "added_at": "2026-05-21 22:02:54",
@@ -1867,18 +1883,18 @@
     {
       "added_at": "2026-05-21 22:02:54",
       "album": {
-        "name": "Contigo Mi Vida",
-        "url": "https://open.spotify.com/album/41Rp1C4bwyciU2xyhs0ja1"
+        "name": "GAS",
+        "url": "https://open.spotify.com/album/7zzqn4dW49B9XEEdmO4Xfz"
       },
       "artists": [
         {
-          "name": "Gabriele Poso",
-          "url": "https://open.spotify.com/artist/2yApCA4GzuGb9oDS5I5Fjp"
+          "name": "Tare",
+          "url": "https://open.spotify.com/artist/4pY5WUGXSfiCUMFnb15oEB"
         }
       ],
-      "duration_ms": 249720,
-      "name": "Contigo Mi Vida",
-      "url": "https://open.spotify.com/track/77yfpdIrZ9MtKfaUpf6O3G"
+      "duration_ms": 180738,
+      "name": "Acqua alta",
+      "url": "https://open.spotify.com/track/5gpUzlhLYjc1x3yWfbv5nE"
     },
     {
       "added_at": "2026-05-21 22:02:54",
@@ -1895,22 +1911,6 @@
       "duration_ms": 124613,
       "name": "Harlem Nocturne",
       "url": "https://open.spotify.com/track/6Mho4z2FAGpMKcpZTeNbdw"
-    },
-    {
-      "added_at": "2026-05-21 22:02:54",
-      "album": {
-        "name": "GAS",
-        "url": "https://open.spotify.com/album/7zzqn4dW49B9XEEdmO4Xfz"
-      },
-      "artists": [
-        {
-          "name": "Tare",
-          "url": "https://open.spotify.com/artist/4pY5WUGXSfiCUMFnb15oEB"
-        }
-      ],
-      "duration_ms": 180738,
-      "name": "Acqua alta",
-      "url": "https://open.spotify.com/track/5gpUzlhLYjc1x3yWfbv5nE"
     }
   ],
   "unique_name": "Jazz Italia",

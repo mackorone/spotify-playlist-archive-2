@@ -553,6 +553,24 @@
     },
     {
       "album": {
+        "name": "Jazz Dance",
+        "url": "https://open.spotify.com/album/2Oeil5d7b7EV2bzUJYYCgF"
+      },
+      "artists": [
+        {
+          "name": "Red Astro",
+          "url": "https://open.spotify.com/artist/1S8Bv99u3ATbxn1t2uSvC0"
+        }
+      ],
+      "date_added": "2026-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183652,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/76FMB6uZRjaIFpDetn3oha"
+    },
+    {
+      "album": {
         "name": "Brushed",
         "url": "https://open.spotify.com/album/413eyQrwmLKmydZfH2iBhU"
       },
@@ -1596,7 +1614,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 144692,
       "name": "Foie Gras",
       "url": "https://open.spotify.com/track/33iiP4SI0wIiZcPdkkO3Td"
@@ -1954,7 +1972,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 176863,
       "name": "H\u014dr\u014dsha",
       "url": "https://open.spotify.com/track/3gu4pW8QMf0lGeHgXJUhdn"
@@ -2106,7 +2124,7 @@
       ],
       "date_added": "2025-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 198500,
       "name": "joycelyn's dance",
       "url": "https://open.spotify.com/track/3z0JwddAR5GASTxnKExIw1"
@@ -2146,6 +2164,32 @@
       "duration_ms": 136551,
       "name": "L'amour",
       "url": "https://open.spotify.com/track/4xtzWiQjZDRsw6yhhk2Nry"
+    },
+    {
+      "album": {
+        "name": "Last Call",
+        "url": "https://open.spotify.com/album/0qXcnkrQb1VAkRSFCoNagG"
+      },
+      "artists": [
+        {
+          "name": "philocalie",
+          "url": "https://open.spotify.com/artist/2xSEBQojyWTfoZ637ZjiZm"
+        },
+        {
+          "name": "Lennex",
+          "url": "https://open.spotify.com/artist/2eu54IIOLXr91ZaCG05vJK"
+        },
+        {
+          "name": "Erwo",
+          "url": "https://open.spotify.com/artist/5mVyynSAENFM48yJi70Fsq"
+        }
+      ],
+      "date_added": "2026-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155250,
+      "name": "Last Call",
+      "url": "https://open.spotify.com/track/2oNeJxWbFkL7457XgXsfw4"
     },
     {
       "album": {
@@ -2279,6 +2323,24 @@
     },
     {
       "album": {
+        "name": "Loris",
+        "url": "https://open.spotify.com/album/2gZKe8JrsKMXW1hvHjtvpn"
+      },
+      "artists": [
+        {
+          "name": "Gaston",
+          "url": "https://open.spotify.com/artist/5PV5HJ0ndL74ZdqKA1PqAr"
+        }
+      ],
+      "date_added": "2026-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230000,
+      "name": "Loris",
+      "url": "https://open.spotify.com/track/1aEuTNmtOkvIj4R50xKcNK"
+    },
+    {
+      "album": {
         "name": "Reverie",
         "url": "https://open.spotify.com/album/2qA7sxHXtX1SB3GZCtww4i"
       },
@@ -2294,6 +2356,28 @@
       "duration_ms": 228196,
       "name": "Lost In Tokyo",
       "url": "https://open.spotify.com/track/4m1tCwXJMp6r7Sn2W4vGVw"
+    },
+    {
+      "album": {
+        "name": "lost in translation (her)",
+        "url": "https://open.spotify.com/album/2N0mjXfRHkqf2ja5Y6RIYf"
+      },
+      "artists": [
+        {
+          "name": "STELLA.",
+          "url": "https://open.spotify.com/artist/7E4fw5nKeMuPzbvdn52nqa"
+        },
+        {
+          "name": "pedram",
+          "url": "https://open.spotify.com/artist/0sQSO9miTJGNBj9Kqxptfz"
+        }
+      ],
+      "date_added": "2026-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163140,
+      "name": "lost in translation (her)",
+      "url": "https://open.spotify.com/track/2rp4GUkwhR9YS11uJQsjOt"
     },
     {
       "album": {
@@ -2460,7 +2544,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 160909,
       "name": "Midnight Palms",
       "url": "https://open.spotify.com/track/0vpDJr6Nbqx4Opzfqavcue"
@@ -2508,6 +2592,28 @@
       "duration_ms": 194514,
       "name": "Might As Well Embrace It",
       "url": "https://open.spotify.com/track/2SXKHMIGU5Sjtcnm0o0wyq"
+    },
+    {
+      "album": {
+        "name": "mirage",
+        "url": "https://open.spotify.com/album/6vXkS3dFShQSyjY3JTik27"
+      },
+      "artists": [
+        {
+          "name": "Sweeps",
+          "url": "https://open.spotify.com/artist/1ZqVxe4j6KEwGA1WyJkw8t"
+        },
+        {
+          "name": "Keylime",
+          "url": "https://open.spotify.com/artist/57v3vXwYLAIYTJutWElFX3"
+        }
+      ],
+      "date_added": "2026-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143301,
+      "name": "mirage",
+      "url": "https://open.spotify.com/track/3s4kYELAbeoZbd5UHZ55yj"
     },
     {
       "album": {
@@ -2704,7 +2810,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 138000,
       "name": "Night Bloom (Remix)",
       "url": "https://open.spotify.com/track/51uGn1P2KylEBDVbsWhOHg"
@@ -2740,7 +2846,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 160052,
       "name": "Night Shenanigans",
       "url": "https://open.spotify.com/track/2JguynNmRKFkrINqp9vWZS"
@@ -3052,7 +3158,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 143459,
       "name": "Paradigms",
       "url": "https://open.spotify.com/track/4R5VUYBCtTuM8kRrv1bJFM"
@@ -3140,6 +3246,24 @@
       "duration_ms": 136271,
       "name": "pupillin",
       "url": "https://open.spotify.com/track/5vmFLRhUGSyK5CI7NI2t0g"
+    },
+    {
+      "album": {
+        "name": "Red Echo",
+        "url": "https://open.spotify.com/album/2VaF5zZsEqHsoWFKyNsL0W"
+      },
+      "artists": [
+        {
+          "name": "Friendly Mess",
+          "url": "https://open.spotify.com/artist/75tjiKokxal3wB5VudqkXp"
+        }
+      ],
+      "date_added": "2026-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142909,
+      "name": "Red Echo",
+      "url": "https://open.spotify.com/track/2D2l5hlMtsvQ09DaEvtrAy"
     },
     {
       "album": {
@@ -3334,7 +3458,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 162711,
       "name": "Sapphire",
       "url": "https://open.spotify.com/track/5d26dR65t03IsJpmRmehUe"
@@ -3356,6 +3480,24 @@
       "duration_ms": 258864,
       "name": "Saturday",
       "url": "https://open.spotify.com/track/2CW7PQ240Jwp3xzUoF8TR1"
+    },
+    {
+      "album": {
+        "name": "Unrushed",
+        "url": "https://open.spotify.com/album/0crHIp0JkZWRSaaKE90hUi"
+      },
+      "artists": [
+        {
+          "name": "Brassa",
+          "url": "https://open.spotify.com/artist/4DcjIeu1vnqF7VzqP4av3d"
+        }
+      ],
+      "date_added": "2026-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178158,
+      "name": "Second Pour",
+      "url": "https://open.spotify.com/track/5a2wRG4gofGW5zxpc0toGk"
     },
     {
       "album": {
@@ -3600,6 +3742,28 @@
       "duration_ms": 140689,
       "name": "Solara",
       "url": "https://open.spotify.com/track/0YXwdfm0KZf4PPyltKMeBy"
+    },
+    {
+      "album": {
+        "name": "Solf\u00e9rino",
+        "url": "https://open.spotify.com/album/3fEziY7SyKVQT6zjJlBOSA"
+      },
+      "artists": [
+        {
+          "name": "St-Amour",
+          "url": "https://open.spotify.com/artist/3GNaIZwqkfWnV63SE8nr96"
+        },
+        {
+          "name": "cezanne",
+          "url": "https://open.spotify.com/artist/4bNudtyn4yd44nhew3jnJS"
+        }
+      ],
+      "date_added": "2026-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177049,
+      "name": "Solf\u00e9rino",
+      "url": "https://open.spotify.com/track/40TUBTCP5yIDzwQAsQqxq4"
     },
     {
       "album": {
@@ -3965,6 +4129,24 @@
     },
     {
       "album": {
+        "name": "Terazza",
+        "url": "https://open.spotify.com/album/5IBwj5OT6YFdCTloxXhnfm"
+      },
+      "artists": [
+        {
+          "name": "Lazy Driver",
+          "url": "https://open.spotify.com/artist/3zkRucjAZeFDqyYYyUylmg"
+        }
+      ],
+      "date_added": "2026-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163950,
+      "name": "Terazza",
+      "url": "https://open.spotify.com/track/4WmKm3zNQ64SFLQUNV6Kwk"
+    },
+    {
+      "album": {
         "name": "Tomorrow",
         "url": "https://open.spotify.com/album/7lUzas492ModXZJrjCuXtw"
       },
@@ -4120,7 +4302,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 192000,
       "name": "Up To You",
       "url": "https://open.spotify.com/track/22naV1kLkISKMUDhxxHjm9"

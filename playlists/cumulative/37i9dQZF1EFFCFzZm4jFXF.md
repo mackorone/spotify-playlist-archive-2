@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/74wXW513Ovy4ux507Wo67A">Brad Mair</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-141 songs - 7 hr 43 min
+142 songs - 7 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Never Stood A Chance](https://open.spotify.com/track/3AgmA7OJFNok5iGIRJu5HE) | [Someone Else's Rain](https://open.spotify.com/artist/4TLkUSTypb5TnpKbGCsf6y) | [Never Stood A Chance](https://open.spotify.com/album/5bqv7OLX8iCZEzRMZuzXLe) | 2:50 | 2024-06-13 |  |
 | [No One But Yourself](https://open.spotify.com/track/5ep9D7x1FwCBy6INbF0Fad) | [Fredrik Ferrier](https://open.spotify.com/artist/2HkqD9bmnrPK7mXNMpZQIQ) | [No One But Yourself](https://open.spotify.com/album/4VDksPljHSEP0701PHsjj9) | 2:59 | 2024-06-13 |  |
 | [November](https://open.spotify.com/track/3GMqhioWAjpte7cyEYrOPP) | [NOVACUB](https://open.spotify.com/artist/5AgzqwERKzaLXw6wSL5LcO) | [Fantasies](https://open.spotify.com/album/5RnS2uqk10a4qrGxW84Xb4) | 3:13 | 2024-06-13 |  |
+| [Oblivion](https://open.spotify.com/track/1tDEBOvZKKzzSGvmvXldwl) | [Andromedik](https://open.spotify.com/artist/7miXLG9boDOGHJaEelSL7T) | [Oblivion](https://open.spotify.com/album/4aGYvbV5eJs3cUSl0UznCX) | 3:33 | 2026-05-25 |  |
 | [Off This Train](https://open.spotify.com/track/1imrBvb6Ac6P6b76dBhjNv) | [THE HARA](https://open.spotify.com/artist/2MizZlEPFQHeR3MndOyYoQ) | [Survival Mode](https://open.spotify.com/album/3AK2abRr0WfTzH7aZZSda4) | 1:59 | 2024-06-13 |  |
 | [Only You](https://open.spotify.com/track/3YecLfVpyotU0ve4Ln9Uds) | [Jazz Morley](https://open.spotify.com/artist/3oRBiqxwxW8BYQdWYtktZo) | [Only You](https://open.spotify.com/album/5Uq7opunP83SDVxYMm5ivO) | 3:33 | 2024-06-13 |  |
 | [Ordinary](https://open.spotify.com/track/3dyMYkb3IYg7q2PeE4VI87) | [Joe Waller](https://open.spotify.com/artist/6EArtsF80MWahDlAzo86ZS) | [Ordinary](https://open.spotify.com/album/4sJYgIunlnwpc2ZrKj1xju) | 3:00 | 2024-06-13 |  |

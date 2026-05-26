@@ -4,7 +4,7 @@
 
 > celebre seu dia no maior astral!
 
-320 songs - 18 hr 26 min
+321 songs - 18 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,7 +179,7 @@
 | [Memories Remix \(feat\. Nipsey Hussle & YG\)](https://open.spotify.com/track/3p4WMekidOIiyf8SFvfrIC) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [JORDI \(Deluxe\)](https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU) | 3:09 | 2023-04-07 | 2023-05-23 |
 | [menina solta](https://open.spotify.com/track/2MOq63fxuFLYQM3CsDcFs1) | [GIULIA BE](https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6) | [menina solta](https://open.spotify.com/album/5FRPzvOEvmhNvIHMwBp6nR) | 2:30 | 2022-02-04 | 2025-03-10 |
 | [Meu Abrigo](https://open.spotify.com/track/5oFywvlhKbgRT9WSE4VZkY) | [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [Melim](https://open.spotify.com/album/28N2a65qVEXfo3vl2McvY1) | 3:51 | 2022-02-04 | 2022-07-29 |
-| [Meu Esquema](https://open.spotify.com/track/40vRChgwsAB5kfPlN0Q9wS) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD) | [Meu Esquema](https://open.spotify.com/album/47XggkKShQh1cLWhGYOjmi) | 3:08 | 2025-02-21 |  |
+| [Meu Esquema](https://open.spotify.com/track/40vRChgwsAB5kfPlN0Q9wS) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD) | [Meu Esquema](https://open.spotify.com/album/47XggkKShQh1cLWhGYOjmi) | 3:08 | 2025-02-21 | 2026-05-26 |
 | [Meu talismã](https://open.spotify.com/track/5aayWOEE7u7bxZ3r7dwIrX) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Meu talismã](https://open.spotify.com/album/04v9Y24xkH51aIIixDzCAO) | 2:45 | 2022-02-04 | 2022-07-29 |
 | [moneydontfixlonely](https://open.spotify.com/track/35osKSAsV8WsOb80tb3Eex) | [Sophia Messa](https://open.spotify.com/artist/4EtJmdsecF1RlU8cOo6BBR) | [moneydontfixlonely](https://open.spotify.com/album/2kzdkDvawndpP52GKbiLAd) | 3:26 | 2022-03-24 | 2022-04-19 |
 | [Move On](https://open.spotify.com/track/3KTVQGLS2np8dWe5s4F9EN) | [Mike Posner](https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa) | [Move On](https://open.spotify.com/album/0gI0NIsHae9AQsu6Tmi4M4) | 2:58 | 2022-03-24 | 2022-04-18 |
@@ -238,6 +238,7 @@
 | [Santeria](https://open.spotify.com/track/2hnMS47jN0etwvFPzYk11f) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J) | [Sublime](https://open.spotify.com/album/14eK347GdWO4mBBx78tsut) | 3:02 | 2022-03-24 | 2024-04-19 |
 | [Santeria](https://open.spotify.com/track/6cJqlSO19vsfCsH1FeFI35) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J) | [Sublime \(Explicit Version\)](https://open.spotify.com/album/5dwkpREUiLdmPLy4POzFSa) | 3:03 | 2022-03-24 | 2022-04-17 |
 | [Satisfied \(feat\. MAX\)](https://open.spotify.com/track/57QXXEBy5apjgxsyXSb8YE) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [Satisfied \(feat\. MAX\) / Mama Look at Me Now](https://open.spotify.com/album/7sYMi1QPQnCL99k1VCaWTZ) | 2:35 | 2022-03-24 | 2022-04-20 |
+| [Saudade](https://open.spotify.com/track/1mcbaznRgBUaUNgnhKDQJj) | [Moyses Dos Santos](https://open.spotify.com/artist/5AehyVi8jNZTAFdqaXhFke), [Lynda Dawn](https://open.spotify.com/artist/63xKhLksCsaONI4pUNZJXM), [Arthur Verocai](https://open.spotify.com/artist/1tP3R35TdPW8BMwmTPOoVZ), [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm) | [Saudade](https://open.spotify.com/album/2x7UYCZdYIjdSRMok167LN) | 4:44 | 2026-05-25 |  |
 | [Say So](https://open.spotify.com/track/3Dv1eDb0MEgF93GpLXlucZ) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Hot Pink](https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3) | 3:57 | 2022-03-24 |  |
 | [se essa vida fosse um filme](https://open.spotify.com/track/0hDphSo7vI7gCjEPpD6gu0) | [GIULIA BE](https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6) | [se essa vida fosse um filme](https://open.spotify.com/album/1Ekb2K13vBO6VkILvBV6LI) | 2:05 | 2022-02-04 | 2022-07-29 |
 | [Sei Lá](https://open.spotify.com/track/6l1PdE7lQbodewVQh16GCM) | [Projota](https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K), [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP) | [Sei Lá](https://open.spotify.com/album/4LMsH7jGH7oD0CLA8My6Hf) | 3:10 | 2022-02-04 | 2022-07-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4szXk9xARLm.md) - [plain]
 
 > Your essential Ramadan Series songs! Cover: Ramy Sabry
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,258 likes - 60 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,276 likes - 60 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4szXk9xARLm.md) - [plain]
 | 24 | [زامباهولا](https://open.spotify.com/track/3GxSdwd4Y1i5xCOY2IDPh4) | [Akram Hosny](https://open.spotify.com/artist/0uFv3QyIZZuL1ZzT9J19Fi), [Sharmoofers](https://open.spotify.com/artist/0qZ24TkLCHoE3ajCzGItJ1) | [زامباهولا](https://open.spotify.com/album/29d089qSiwvpl7VZq1yeJa) | 2:54 |
 | 25 | [ana min \(‘bil dam’ series soundtrack\)](https://open.spotify.com/track/4b9XevTC3G9v8NdGms3Y9z) | [Marilyne Naaman](https://open.spotify.com/artist/65U0i2so4TBaFympLshw8s) | [ana min \(‘bil dam’ series soundtrack\)](https://open.spotify.com/album/0998OOSuYxxCvIJXSY8TbM) | 3:03 |
 | 26 | [Chou Nater \- ‘‘Bel Haram’’ Series Soundtrack](https://open.spotify.com/track/5edPMA7qQWgeqR5M4KqaUz) | [Wael Kfoury](https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws) | [Chou Nater \(‘‘Bel Haram’’ Series Soundtrack\)](https://open.spotify.com/album/1Ozz6B4Db11A8jdF2hVW9E) | 3:15 |
-| 27 | [كلكوا خاينين](https://open.spotify.com/track/5CxPmDlf5OyhaRbuh09tWj) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [كلكوا خاينين](https://open.spotify.com/album/53UzZGVZBY21TAdvcG4kZl) | 4:01 |
-| 28 | [باصه لقدام](https://open.spotify.com/track/4RIjRRRruXWFBTsqSQcKT2) | [Maha Ftouni](https://open.spotify.com/artist/2alZWWB8btL8F9NCeoR1Xn) | [باصه لقدام](https://open.spotify.com/album/7I4i1yuip9AW9ZqR6Nex51) | 3:49 |
+| 27 | [باصه لقدام](https://open.spotify.com/track/4RIjRRRruXWFBTsqSQcKT2) | [Maha Ftouni](https://open.spotify.com/artist/2alZWWB8btL8F9NCeoR1Xn) | [باصه لقدام](https://open.spotify.com/album/7I4i1yuip9AW9ZqR6Nex51) | 3:49 |
+| 28 | [كلكوا خاينين](https://open.spotify.com/track/5CxPmDlf5OyhaRbuh09tWj) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [كلكوا خاينين](https://open.spotify.com/album/53UzZGVZBY21TAdvcG4kZl) | 4:01 |
 | 29 | [Millionaire \- Music from 100 Wesh TV Series](https://open.spotify.com/track/7vuO4IR9VCoXa1NvlgOISv) | [El Madfaagya](https://open.spotify.com/artist/7Dw6fBcDUSorbHGdg1gsub) | [Millionaire \(Music from 100 Wesh TV Series\)](https://open.spotify.com/album/6aA8kq3KuqnDQNlg0gVY0L) | 4:41 |
 | 30 | [اخوات \( مسلسل اولاد الراعي \)](https://open.spotify.com/track/5sVpQ01m4UtgUtfz8JAJ7b) | [Ibrahim Al Hakami](https://open.spotify.com/artist/1nkFB1AViz5JhlAB4RIUzh) | [اخوات \( مسلسل اولاد الراعي \)](https://open.spotify.com/album/6RrNsYTBtTXjgHGE6s0kNS) | 4:16 |
 | 31 | [تربية حيه \(تتر مسلسل علي كلاي\)](https://open.spotify.com/track/1xl7SZhnqXn5yordCRTqdA) | [Yara Mohamed](https://open.spotify.com/artist/29nvzTxUgaF2Hjka84IgkD) | [تربية حيه \(تتر مسلسل علي كلاي\)](https://open.spotify.com/album/5DtWvEsLjdEV049XMAhElr) | 3:35 |
@@ -49,9 +49,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4szXk9xARLm.md) - [plain]
 | 39 | [عوضي على الله](https://open.spotify.com/track/0efourIzovJKGWQ1XuTuTg) | [Maha Ftouni](https://open.spotify.com/artist/2alZWWB8btL8F9NCeoR1Xn) | [عوضي على الله](https://open.spotify.com/album/4ZKhuztTCbtjtr1E1qloIY) | 3:16 |
 | 40 | [Mafish Haga Sa'ba \- Music From El Prince TV Series](https://open.spotify.com/track/3FBd67OrCib3IShiFipILU) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Mafish Haga Sa'ba \(Music From El Prince TV Series\)](https://open.spotify.com/album/0wWUuBkNWI9FEAvOPyrHaj) | 5:01 |
 | 41 | [حارق ناس كتير مسلسل إش إش](https://open.spotify.com/track/7BHh2MVbdnLphbXE3BqnMp) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6) | [حارق ناس كتير مسلسل إش إش](https://open.spotify.com/album/0wLRjwezgTD7FAY2m6dkKo) | 1:55 |
-| 42 | [L3adaw](https://open.spotify.com/track/6rWU0KVXrU3sYODH1hBcYo) | [Ta Ha](https://open.spotify.com/artist/63gB2Rrr0fOcwBa4zEspU4) | [L3adaw](https://open.spotify.com/album/5FW6OqBRURamAU7BmWBj3i) | 3:29 |
-| 43 | [اهل كايرو](https://open.spotify.com/track/2W2V8EqcsDvwVoQJSEnrPg) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [اهل كايرو](https://open.spotify.com/album/4w2BwFLNYzqJd28n4HDhfS) | 3:30 |
-| 44 | [Haseb Ya Tayeb \- Music from Khyanet Ahd TV Series](https://open.spotify.com/track/6a4fiwOKwLgTeZQX25P0vU) | [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52) | [Haseb Ya Tayeb \(Music from Khyanet Ahd TV Series\)](https://open.spotify.com/album/5UKvTirwj6tAdCYWfvOyvo) | 3:57 |
+| 42 | [اهل كايرو](https://open.spotify.com/track/2W2V8EqcsDvwVoQJSEnrPg) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [اهل كايرو](https://open.spotify.com/album/4w2BwFLNYzqJd28n4HDhfS) | 3:30 |
+| 43 | [Haseb Ya Tayeb \- Music from Khyanet Ahd TV Series](https://open.spotify.com/track/6a4fiwOKwLgTeZQX25P0vU) | [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52) | [Haseb Ya Tayeb \(Music from Khyanet Ahd TV Series\)](https://open.spotify.com/album/5UKvTirwj6tAdCYWfvOyvo) | 3:57 |
+| 44 | [L3adaw](https://open.spotify.com/track/6rWU0KVXrU3sYODH1hBcYo) | [Ta Ha](https://open.spotify.com/artist/63gB2Rrr0fOcwBa4zEspU4) | [L3adaw](https://open.spotify.com/album/5FW6OqBRURamAU7BmWBj3i) | 3:29 |
 | 45 | [Sahbek Rajel \(صاحبك راجل\)](https://open.spotify.com/track/31NbnvqbqAzvQ2nv301VZA) | [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Sahbek Rajel \(صاحبك راجل\)](https://open.spotify.com/album/2krftAwqsvgtMWh2e6RbTN) | 3:17 |
 | 46 | [Mabrouk](https://open.spotify.com/track/7f5j6xiIAFtuPrzxdGaoGz) | [Hatim Ammor](https://open.spotify.com/artist/32CwjdHMHSpEkC3UAyIwPp) | [Mabrouk](https://open.spotify.com/album/4mkwlYIgQ4zHk5Xkz6Ih96) | 2:37 |
 | 47 | [ياما نفسي اقولك \- من مسلسل عايشة الدور](https://open.spotify.com/track/59cwzz2NQK3P67tajUi05K) | [Donia Samir Ghanem](https://open.spotify.com/artist/1ieloBuwzXdMn9VPOufDvB) | [ياما نفسي اقولك \(من مسلسل عايشة الدور\)](https://open.spotify.com/album/6qSeWoOhTW8AfeH1Ox9Xth) | 3:03 |

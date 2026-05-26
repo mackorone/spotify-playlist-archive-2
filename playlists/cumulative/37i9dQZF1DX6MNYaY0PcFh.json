@@ -1570,7 +1570,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 169554,
       "name": "Dis Badman",
       "url": "https://open.spotify.com/track/67OlGJITLmRSqrFmI90Uc2"
@@ -5470,6 +5470,28 @@
       "duration_ms": 173538,
       "name": "Pingers",
       "url": "https://open.spotify.com/track/5H6hs8cw8QDcqWlyy2ifXH"
+    },
+    {
+      "album": {
+        "name": "Pingers",
+        "url": "https://open.spotify.com/album/48Gg8EbVBCsBpQAgfHl7ek"
+      },
+      "artists": [
+        {
+          "name": "Eliza Rose",
+          "url": "https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP"
+        },
+        {
+          "name": "CASISDEAD",
+          "url": "https://open.spotify.com/artist/0n7CYdHaJm01NFXRhwbbKs"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193384,
+      "name": "Pingers",
+      "url": "https://open.spotify.com/track/4NnHBVMaaNLXJ9oZKGK08k"
     },
     {
       "album": {

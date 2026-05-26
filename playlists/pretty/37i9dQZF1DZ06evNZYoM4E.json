@@ -1,12 +1,12 @@
 {
   "description": "This is Andre Hazes. The essential tracks, all in one playlist.",
-  "num_followers": 108512,
+  "num_followers": 108507,
   "original_name": "This Is Andre Hazes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahDuAAAAAADzF0ip/Q2V8+SqzyYVPWSt",
+  "snapshot_id": "ahI/gAAAAAB+CTfGVhdtJgPtZjSDiHBK",
   "tracks": [
     {
       "added_at": null,
@@ -123,54 +123,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "N Vriend",
-        "url": "https://open.spotify.com/album/12SKNd3eWiv0LAqHGEmJwb"
-      },
-      "artists": [
-        {
-          "name": "Andre Hazes",
-          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
-        }
-      ],
-      "duration_ms": 216400,
-      "name": "Wat Is Dan Liefde",
-      "url": "https://open.spotify.com/track/7lzSUHVotlqj0JSWIe5Q6D"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gewoon Andre",
-        "url": "https://open.spotify.com/album/6toU0S9DdSnpkwFaguQgIe"
-      },
-      "artists": [
-        {
-          "name": "Andre Hazes",
-          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
-        }
-      ],
-      "duration_ms": 254266,
-      "name": "Een Beetje Verliefd",
-      "url": "https://open.spotify.com/track/0XLlGrXn98Td1cPAeKcZns"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Alle 40 Goed",
-        "url": "https://open.spotify.com/album/176ACFYhpCwXy4vy6FS0yc"
-      },
-      "artists": [
-        {
-          "name": "Andre Hazes",
-          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
-        }
-      ],
-      "duration_ms": 219573,
-      "name": "De Vlieger",
-      "url": "https://open.spotify.com/track/6cMVopr4k5Fexl6zjB2EDr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Zomer In M'n Bol (feat. Andr\u00e9 Hazes)",
         "url": "https://open.spotify.com/album/0icN1DUr8DrI9W58Sc3DyH"
       },
@@ -199,22 +151,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "N Vriend",
-        "url": "https://open.spotify.com/album/12SKNd3eWiv0LAqHGEmJwb"
-      },
-      "artists": [
-        {
-          "name": "Andre Hazes",
-          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
-        }
-      ],
-      "duration_ms": 246706,
-      "name": "Het Is Koud Zonder Jou",
-      "url": "https://open.spotify.com/track/3K9DdzUlsLa1SynqM5XhLj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gewoon Andre",
         "url": "https://open.spotify.com/album/6toU0S9DdSnpkwFaguQgIe"
       },
@@ -224,9 +160,41 @@
           "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
         }
       ],
-      "duration_ms": 221626,
-      "name": "Als Ik Jou Vergeef",
-      "url": "https://open.spotify.com/track/24pNmGnmTN6qm8knOSw4Ey"
+      "duration_ms": 254266,
+      "name": "Een Beetje Verliefd",
+      "url": "https://open.spotify.com/track/0XLlGrXn98Td1cPAeKcZns"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "N Vriend",
+        "url": "https://open.spotify.com/album/12SKNd3eWiv0LAqHGEmJwb"
+      },
+      "artists": [
+        {
+          "name": "Andre Hazes",
+          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
+        }
+      ],
+      "duration_ms": 216400,
+      "name": "Wat Is Dan Liefde",
+      "url": "https://open.spotify.com/track/7lzSUHVotlqj0JSWIe5Q6D"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Alle 40 Goed",
+        "url": "https://open.spotify.com/album/176ACFYhpCwXy4vy6FS0yc"
+      },
+      "artists": [
+        {
+          "name": "Andre Hazes",
+          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
+        }
+      ],
+      "duration_ms": 219573,
+      "name": "De Vlieger",
+      "url": "https://open.spotify.com/track/6cMVopr4k5Fexl6zjB2EDr"
     },
     {
       "added_at": null,
@@ -247,8 +215,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Met Liefde",
-        "url": "https://open.spotify.com/album/0TAI03BMFuXUpu04Um3Od0"
+        "name": "Gewoon Andre",
+        "url": "https://open.spotify.com/album/6toU0S9DdSnpkwFaguQgIe"
       },
       "artists": [
         {
@@ -256,9 +224,9 @@
           "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
         }
       ],
-      "duration_ms": 226333,
-      "name": "Amor, Amor, Amor",
-      "url": "https://open.spotify.com/track/4j8nikxlbjLnJPT7dvxTYs"
+      "duration_ms": 221626,
+      "name": "Als Ik Jou Vergeef",
+      "url": "https://open.spotify.com/track/24pNmGnmTN6qm8knOSw4Ey"
     },
     {
       "added_at": null,
@@ -272,15 +240,15 @@
           "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
         }
       ],
-      "duration_ms": 240133,
-      "name": "Waarom",
-      "url": "https://open.spotify.com/track/2uVNFzJr9uzO0Nsi6G6oa1"
+      "duration_ms": 246706,
+      "name": "Het Is Koud Zonder Jou",
+      "url": "https://open.spotify.com/track/3K9DdzUlsLa1SynqM5XhLj"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Gewoon Andre",
-        "url": "https://open.spotify.com/album/6toU0S9DdSnpkwFaguQgIe"
+        "name": "Met Liefde",
+        "url": "https://open.spotify.com/album/0TAI03BMFuXUpu04Um3Od0"
       },
       "artists": [
         {
@@ -288,9 +256,9 @@
           "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
         }
       ],
-      "duration_ms": 260093,
-      "name": "Het Laatste Rondje",
-      "url": "https://open.spotify.com/track/4L2xU84Wbc37In2KXQdQMO"
+      "duration_ms": 226333,
+      "name": "Amor, Amor, Amor",
+      "url": "https://open.spotify.com/track/4j8nikxlbjLnJPT7dvxTYs"
     },
     {
       "added_at": null,
@@ -311,6 +279,38 @@
       "duration_ms": 241493,
       "name": "Blijf Bij Mij",
       "url": "https://open.spotify.com/track/4AQnXdOq7ChjMhibKrKne1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gewoon Andre",
+        "url": "https://open.spotify.com/album/6toU0S9DdSnpkwFaguQgIe"
+      },
+      "artists": [
+        {
+          "name": "Andre Hazes",
+          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
+        }
+      ],
+      "duration_ms": 260093,
+      "name": "Het Laatste Rondje",
+      "url": "https://open.spotify.com/track/4L2xU84Wbc37In2KXQdQMO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "N Vriend",
+        "url": "https://open.spotify.com/album/12SKNd3eWiv0LAqHGEmJwb"
+      },
+      "artists": [
+        {
+          "name": "Andre Hazes",
+          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
+        }
+      ],
+      "duration_ms": 240133,
+      "name": "Waarom",
+      "url": "https://open.spotify.com/track/2uVNFzJr9uzO0Nsi6G6oa1"
     },
     {
       "added_at": null,
@@ -363,22 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "N Vriend",
-        "url": "https://open.spotify.com/album/12SKNd3eWiv0LAqHGEmJwb"
-      },
-      "artists": [
-        {
-          "name": "Andre Hazes",
-          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
-        }
-      ],
-      "duration_ms": 297333,
-      "name": "'n Vriend",
-      "url": "https://open.spotify.com/track/08uynYGHmW0iPtuiQkrQM5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alleen Met Jou",
         "url": "https://open.spotify.com/album/7FHnCZ6jfC0iJ0FiZosHhL"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 257733,
       "name": "Dat Ene Moment",
       "url": "https://open.spotify.com/track/2KraLG62JBty0ccSnLjA0z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "N Vriend",
+        "url": "https://open.spotify.com/album/12SKNd3eWiv0LAqHGEmJwb"
+      },
+      "artists": [
+        {
+          "name": "Andre Hazes",
+          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
+        }
+      ],
+      "duration_ms": 297333,
+      "name": "'n Vriend",
+      "url": "https://open.spotify.com/track/08uynYGHmW0iPtuiQkrQM5"
     },
     {
       "added_at": null,
@@ -411,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Voor Jou",
-        "url": "https://open.spotify.com/album/0CGICmUeaDosEWgHfNu2IZ"
-      },
-      "artists": [
-        {
-          "name": "Andre Hazes",
-          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
-        }
-      ],
-      "duration_ms": 203933,
-      "name": "Ik Weet 'T Zeker",
-      "url": "https://open.spotify.com/track/3HMqLTb4D0l3D7vgMPofZX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Samen",
         "url": "https://open.spotify.com/album/2u9B11BYyxQGBvSzY3UPin"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 218826,
       "name": "Zomer",
       "url": "https://open.spotify.com/track/1C9vjvS6R8Qj8coU2Ifz6m"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Voor Jou",
+        "url": "https://open.spotify.com/album/0CGICmUeaDosEWgHfNu2IZ"
+      },
+      "artists": [
+        {
+          "name": "Andre Hazes",
+          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
+        }
+      ],
+      "duration_ms": 203933,
+      "name": "Ik Weet 'T Zeker",
+      "url": "https://open.spotify.com/track/3HMqLTb4D0l3D7vgMPofZX"
     },
     {
       "added_at": null,
@@ -475,6 +475,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Met Liefde",
+        "url": "https://open.spotify.com/album/0TAI03BMFuXUpu04Um3Od0"
+      },
+      "artists": [
+        {
+          "name": "Andre Hazes",
+          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
+        }
+      ],
+      "duration_ms": 227693,
+      "name": "Diep In Mijn Hart",
+      "url": "https://open.spotify.com/track/64Q455tYVAbZsRsPuqpW8s"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Voor Jou",
         "url": "https://open.spotify.com/album/0CGICmUeaDosEWgHfNu2IZ"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 151573,
       "name": "Speel Niet Met Vuur",
       "url": "https://open.spotify.com/track/7fshS3mr0mCoOsAs5kAcYF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Met Liefde",
-        "url": "https://open.spotify.com/album/0TAI03BMFuXUpu04Um3Od0"
-      },
-      "artists": [
-        {
-          "name": "Andre Hazes",
-          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
-        }
-      ],
-      "duration_ms": 221626,
-      "name": "Laat Me",
-      "url": "https://open.spotify.com/track/642MewtIduLhhM5CPbrE3O"
     },
     {
       "added_at": null,
@@ -539,26 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sorry (Holland Zingt Hazes)",
-        "url": "https://open.spotify.com/album/1FsuMZG5aE2KXOyN1MNIcu"
-      },
-      "artists": [
-        {
-          "name": "Roxeanne Hazes",
-          "url": "https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6"
-        },
-        {
-          "name": "Andre Hazes",
-          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
-        }
-      ],
-      "duration_ms": 220879,
-      "name": "Sorry - Holland Zingt Hazes",
-      "url": "https://open.spotify.com/track/3xLUNiJfFVfD9GEop7w8TW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Met Liefde",
         "url": "https://open.spotify.com/album/0TAI03BMFuXUpu04Um3Od0"
       },
@@ -568,9 +548,25 @@
           "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
         }
       ],
-      "duration_ms": 227693,
-      "name": "Diep In Mijn Hart",
-      "url": "https://open.spotify.com/track/64Q455tYVAbZsRsPuqpW8s"
+      "duration_ms": 221626,
+      "name": "Laat Me",
+      "url": "https://open.spotify.com/track/642MewtIduLhhM5CPbrE3O"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mijn Gevoel",
+        "url": "https://open.spotify.com/album/7egOHHWD0QAecudU4JjPTe"
+      },
+      "artists": [
+        {
+          "name": "Andre Hazes",
+          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
+        }
+      ],
+      "duration_ms": 215133,
+      "name": "Laat De Zon Maar Schijnen",
+      "url": "https://open.spotify.com/track/1rgBtqS3nUpVCfg3Xc7ybg"
     },
     {
       "added_at": null,
@@ -591,18 +587,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mijn Gevoel",
-        "url": "https://open.spotify.com/album/7egOHHWD0QAecudU4JjPTe"
+        "name": "Sorry (Holland Zingt Hazes)",
+        "url": "https://open.spotify.com/album/1FsuMZG5aE2KXOyN1MNIcu"
       },
       "artists": [
+        {
+          "name": "Roxeanne Hazes",
+          "url": "https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6"
+        },
         {
           "name": "Andre Hazes",
           "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
         }
       ],
-      "duration_ms": 215133,
-      "name": "Laat De Zon Maar Schijnen",
-      "url": "https://open.spotify.com/track/1rgBtqS3nUpVCfg3Xc7ybg"
+      "duration_ms": 220879,
+      "name": "Sorry - Holland Zingt Hazes",
+      "url": "https://open.spotify.com/track/3xLUNiJfFVfD9GEop7w8TW"
     },
     {
       "added_at": null,

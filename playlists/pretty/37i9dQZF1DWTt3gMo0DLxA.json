@@ -1,12 +1,12 @@
 {
   "description": "Trending songs from Tollywood! \nCover: Peddi",
-  "num_followers": 605546,
+  "num_followers": 605938,
   "original_name": "Trending Now Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABe/JX8Sev4/G99jaAA/L2J2Fjlp",
+  "snapshot_id": "AAAAAFe2nkzhxZAlobgRy4ivCqH+lVP5",
   "tracks": [
     {
       "added_at": "2025-11-11 06:12:33",
@@ -185,6 +185,30 @@
       "url": "https://open.spotify.com/track/3s3qs1nUuyvcGaaSLjlJxc"
     },
     {
+      "added_at": "2026-05-25 11:06:23",
+      "album": {
+        "name": "Athidhi",
+        "url": "https://open.spotify.com/album/7Gr5JwISZowhfa2CI0Nt4r"
+      },
+      "artists": [
+        {
+          "name": "Mani Sharma",
+          "url": "https://open.spotify.com/artist/3AMxH9QIPZbK8ND8C9j4Ss"
+        },
+        {
+          "name": "Ranjith Govind",
+          "url": "https://open.spotify.com/artist/7zFlr6Y537SdALqy0Xfvth"
+        },
+        {
+          "name": "Anushka Manchanda",
+          "url": "https://open.spotify.com/artist/4K4N32uNO1VRSY4hB7v8kg"
+        }
+      ],
+      "duration_ms": 286747,
+      "name": "Rathraina",
+      "url": "https://open.spotify.com/track/2h4zPplTjwQQADxnd7HJ9h"
+    },
+    {
       "added_at": "2026-02-16 13:08:30",
       "album": {
         "name": "Saahasam Swaasaga Saagipo",
@@ -231,6 +255,34 @@
       "duration_ms": 283483,
       "name": "Gira Gira Gingiraagirey (From \"Champion\")",
       "url": "https://open.spotify.com/track/7yFklz7NkEsgnIzsC08k4q"
+    },
+    {
+      "added_at": "2026-05-25 11:06:23",
+      "album": {
+        "name": "Khaleja (Deluxe Edition) [Original Motion Picture Soundtrack]",
+        "url": "https://open.spotify.com/album/6cuhdkxP4MDq8EAZ3B09MG"
+      },
+      "artists": [
+        {
+          "name": "Mani Sharma",
+          "url": "https://open.spotify.com/artist/3AMxH9QIPZbK8ND8C9j4Ss"
+        },
+        {
+          "name": "Hemachandra Vedala",
+          "url": "https://open.spotify.com/artist/26R3WRFIf6FbbNAQuMIjkN"
+        },
+        {
+          "name": "Shweta Mohan",
+          "url": "https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9"
+        },
+        {
+          "name": "Sirivennela Seetharama Sastry",
+          "url": "https://open.spotify.com/artist/6AgipdEVghvFGPxilhdrBO"
+        }
+      ],
+      "duration_ms": 340906,
+      "name": "Pileche",
+      "url": "https://open.spotify.com/track/0Ync0ziD4P60vFIL4aBTqg"
     },
     {
       "added_at": "2026-05-21 11:03:28",
@@ -351,6 +403,26 @@
       "duration_ms": 257411,
       "name": "Niharika",
       "url": "https://open.spotify.com/track/5CJcRxKy346HnGXtQsdgah"
+    },
+    {
+      "added_at": "2026-05-25 11:06:23",
+      "album": {
+        "name": "Okkadu",
+        "url": "https://open.spotify.com/album/4a4N9TFuHy8hmsUz9qp8nq"
+      },
+      "artists": [
+        {
+          "name": "Udit Narayan",
+          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
+        },
+        {
+          "name": "Sujatha",
+          "url": "https://open.spotify.com/artist/2JEjaa7hWhE1BbL3OcoeFR"
+        }
+      ],
+      "duration_ms": 330935,
+      "name": "Cheppave Chirugali",
+      "url": "https://open.spotify.com/track/2oYTG1BD9KM0CAuwqGPaKI"
     },
     {
       "added_at": "2026-04-09 09:26:01",
@@ -477,6 +549,26 @@
       "url": "https://open.spotify.com/track/7gVqTSJ4Mr5uKkM9yhQKop"
     },
     {
+      "added_at": "2026-05-25 11:06:23",
+      "album": {
+        "name": "Murari",
+        "url": "https://open.spotify.com/album/6kl5gAF0jqGb9iKdLVGBHr"
+      },
+      "artists": [
+        {
+          "name": "S.P. Charan",
+          "url": "https://open.spotify.com/artist/1BIAyVQxDuYrMqZ8H1Faja"
+        },
+        {
+          "name": "Harini",
+          "url": "https://open.spotify.com/artist/41BeeC5hYqvtGkM79RYvN4"
+        }
+      ],
+      "duration_ms": 371517,
+      "name": "Ekkada Ekkada",
+      "url": "https://open.spotify.com/track/7CwwtSBeTSglx1kDJ6owQ2"
+    },
+    {
       "added_at": "2026-03-23 09:56:42",
       "album": {
         "name": "Agnyaathavaasi",
@@ -579,6 +671,30 @@
       "duration_ms": 244186,
       "name": "Chirunavve Visirave",
       "url": "https://open.spotify.com/track/0dK5tdOm07A5sWZk0uS8Ny"
+    },
+    {
+      "added_at": "2026-05-25 11:06:23",
+      "album": {
+        "name": "Athidhi",
+        "url": "https://open.spotify.com/album/7Gr5JwISZowhfa2CI0Nt4r"
+      },
+      "artists": [
+        {
+          "name": "Mani Sharma",
+          "url": "https://open.spotify.com/artist/3AMxH9QIPZbK8ND8C9j4Ss"
+        },
+        {
+          "name": "Deepu",
+          "url": "https://open.spotify.com/artist/29umRgJCe6MeepDOqSaiRb"
+        },
+        {
+          "name": "Usha Munukutla",
+          "url": "https://open.spotify.com/artist/3ZuUs3HhXssOQ3mt9WpBfw"
+        }
+      ],
+      "duration_ms": 289786,
+      "name": "Satyam Yemito",
+      "url": "https://open.spotify.com/track/6I7t8AcvojHiXXGbQMbzpE"
     },
     {
       "added_at": "2026-04-22 09:15:28",
@@ -1041,30 +1157,6 @@
       "url": "https://open.spotify.com/track/6WSCOou2clUxTD6eiIPNAy"
     },
     {
-      "added_at": "2026-04-28 13:16:45",
-      "album": {
-        "name": "Yetta Yetta (From \"Lenin\")",
-        "url": "https://open.spotify.com/album/3j9dRlUxSullTEIPx4vtSw"
-      },
-      "artists": [
-        {
-          "name": "Thaman S",
-          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
-        },
-        {
-          "name": "Sri Krishna",
-          "url": "https://open.spotify.com/artist/06V3WlbxMpgl639AJoFH7C"
-        },
-        {
-          "name": "Bhaskarabhatla",
-          "url": "https://open.spotify.com/artist/1BuW9BEbBIhDu6F13TVxpu"
-        }
-      ],
-      "duration_ms": 203138,
-      "name": "Yetta Yetta (From \"Lenin\")",
-      "url": "https://open.spotify.com/track/31b5VAlGdyvuKbqrvAEwXs"
-    },
-    {
       "added_at": "2026-04-21 07:49:59",
       "album": {
         "name": "Kosindhi Koyagura (From \"Garividi Lakshmi\")",
@@ -1095,114 +1187,6 @@
       "duration_ms": 212227,
       "name": "Kosindhi Koyagura (From \"Garividi Lakshmi\")",
       "url": "https://open.spotify.com/track/5hJftuo0CalcpGfqZk87BO"
-    },
-    {
-      "added_at": "2026-04-14 05:50:29",
-      "album": {
-        "name": "Bride Song (From \"Gaayapadda Simham\")",
-        "url": "https://open.spotify.com/album/1FWny0iRfgIDRB8BegX9WU"
-      },
-      "artists": [
-        {
-          "name": "Sweekar Agasthi",
-          "url": "https://open.spotify.com/artist/7w4ACCsPEsD4KTxUNPXftc"
-        },
-        {
-          "name": "Manisha Eerabathini",
-          "url": "https://open.spotify.com/artist/7uTF7CgQzu55VR10qqG2yC"
-        },
-        {
-          "name": "Sreemani",
-          "url": "https://open.spotify.com/artist/4FMXVUiqvq8093FT0KBRza"
-        }
-      ],
-      "duration_ms": 196017,
-      "name": "Bride Song - From \"Gaayapadda Simham\"",
-      "url": "https://open.spotify.com/track/6TtJAaCHEiVBxxp1FBGN5W"
-    },
-    {
-      "added_at": "2026-04-28 13:16:45",
-      "album": {
-        "name": "Rara Dheevara (From \"Swayambhu\")",
-        "url": "https://open.spotify.com/album/4dh21VndXD7cqk0hVY7WEf"
-      },
-      "artists": [
-        {
-          "name": "Santhosh Venky",
-          "url": "https://open.spotify.com/artist/1gpRRYfNURm0XJCyxUuH8Q"
-        },
-        {
-          "name": "Ravi Basrur",
-          "url": "https://open.spotify.com/artist/2q1LRGJHpFxovU8Tz6OgRn"
-        },
-        {
-          "name": "Ramajogayya Sastry",
-          "url": "https://open.spotify.com/artist/4GISoVSxo2LkF5EyorXs9W"
-        }
-      ],
-      "duration_ms": 227332,
-      "name": "Rara Dheevara (From \"Swayambhu\")",
-      "url": "https://open.spotify.com/track/5O6YxRH7EMpyXvpeMwVwPh"
-    },
-    {
-      "added_at": "2026-04-21 07:49:59",
-      "album": {
-        "name": "Pillekkadundi (From \"Papam Prathap\")",
-        "url": "https://open.spotify.com/album/57Nr9uRdalXvXxgknDTtVc"
-      },
-      "artists": [
-        {
-          "name": "K M Radhakrishnan",
-          "url": "https://open.spotify.com/artist/579pH2PjdCVSkAyFBv2Z8g"
-        },
-        {
-          "name": "Ram Miriyala",
-          "url": "https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj"
-        },
-        {
-          "name": "Harini Ivaturi",
-          "url": "https://open.spotify.com/artist/1lr0MlyZ8Q24eFtn7gcMmI"
-        },
-        {
-          "name": "Suddala Ashok Teja",
-          "url": "https://open.spotify.com/artist/7bdzCvcQ1yv1KIJk5qsFi0"
-        }
-      ],
-      "duration_ms": 239101,
-      "name": "Pillekkadundi (From \"Papam Prathap\")",
-      "url": "https://open.spotify.com/track/1eoAbWthDE3bJfxfrx9NK1"
-    },
-    {
-      "added_at": "2026-05-05 07:47:45",
-      "album": {
-        "name": "Jingala (From \"Gaayapadda Simham\")",
-        "url": "https://open.spotify.com/album/06hAtQ523iLJGY9Ykqi4wW"
-      },
-      "artists": [
-        {
-          "name": "Nakash Aziz",
-          "url": "https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB"
-        },
-        {
-          "name": "Sweekar Agasthi",
-          "url": "https://open.spotify.com/artist/7w4ACCsPEsD4KTxUNPXftc"
-        },
-        {
-          "name": "Kasyap Sreenivas",
-          "url": "https://open.spotify.com/artist/5C3E7cuDvssrVfeREJcMdD"
-        },
-        {
-          "name": "Sunil Karamkanti",
-          "url": "https://open.spotify.com/artist/7srEUXZLsXMGknZuDLwzS8"
-        },
-        {
-          "name": "Srini Josyula",
-          "url": "https://open.spotify.com/artist/7kzKBqMZSOU7EvNPl2wgGq"
-        }
-      ],
-      "duration_ms": 244841,
-      "name": "Jingala - From \"Gaayapadda Simham\"",
-      "url": "https://open.spotify.com/track/5g2dQPSCxS8SmSbSGZ1EEt"
     }
   ],
   "unique_name": "Trending Now Telugu",

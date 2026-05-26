@@ -4,7 +4,7 @@
 
 > mate\- Bus stop!
 
-805 songs - 1 day 17 hr 24 min
+806 songs - 1 day 17 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -276,7 +276,7 @@
 | [Free My Mind \(Remix\)](https://open.spotify.com/track/7rFvHbi9PX9Ty17sIr4jR4) | [BHADMAYORS](https://open.spotify.com/artist/5hq1ZnGH5765wElD2lvjkT), [AlorG](https://open.spotify.com/artist/3XVsxJ7cSnDnHtssbKiIPb), [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA) | [Free My Mind \(Remix\)](https://open.spotify.com/album/0V2BjFs56DlRKs8NOfpoGp) | 3:44 | 2024-07-12 | 2024-08-30 |
 | [Friday Night](https://open.spotify.com/track/4lFOrIFSya1i1cBHMUFve8) | [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [Friday Night](https://open.spotify.com/album/1ZWld3Y1lv9rvkEivSpXMO) | 2:51 | 2022-06-20 | 2023-09-29 |
 | [Front Back](https://open.spotify.com/track/1dgV02EoMrLcF4za1RsTvX) | [Omar Sterling](https://open.spotify.com/artist/3hvJvURxBzOmRYDDEEIr7T) | [Vth 2](https://open.spotify.com/album/5BRuNa1MCmOQFc7164uNXd) | 2:42 | 2025-10-10 | 2025-10-26 |
-| [Fully Active \(feat\. Lalid\)](https://open.spotify.com/track/1wA4YRKjoBgvkO7NoviGmN) | [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL), [Lalid](https://open.spotify.com/artist/18eUnEkhFO7mnMNDURU1UV) | [Disturbation 2](https://open.spotify.com/album/7B8dezihuew5DL9ztt1j7I) | 3:17 | 2026-02-06 |  |
+| [Fully Active \(feat\. Lalid\)](https://open.spotify.com/track/1wA4YRKjoBgvkO7NoviGmN) | [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL), [Lalid](https://open.spotify.com/artist/18eUnEkhFO7mnMNDURU1UV) | [Disturbation 2](https://open.spotify.com/album/7B8dezihuew5DL9ztt1j7I) | 3:17 | 2026-02-06 | 2026-05-26 |
 | [Gabaya](https://open.spotify.com/track/4mSRQspSNU7xkAuCtdhggi) | [Jubed](https://open.spotify.com/artist/1cRKqHdKhNPTdouuF6HcbC) | [Gabaya](https://open.spotify.com/album/4LyY5dGgOvL0LzlT6NR4Wy) | 2:02 | 2025-06-27 | 2025-07-18 |
 | [Gbedu](https://open.spotify.com/track/7rl0Xnk0GstBbkJ853xx41) | [Ms Banks](https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC), [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [Snypa](https://open.spotify.com/artist/1wqYhpSZlIFP08MrmhKAQd), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ) | [Gbedu](https://open.spotify.com/album/2yitQbZzLOU5MhydiXzzC0) | 3:03 | 2023-01-20 | 2023-03-04 |
 | [Gbese](https://open.spotify.com/track/41DLxR8Dt5Fh6LpqBjAnnJ) | [Majeeed](https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Gbese](https://open.spotify.com/album/0BKZkxzh5KPV9CKQiQ23mC) | 2:42 | 2023-02-23 | 2023-09-28 |
@@ -288,6 +288,7 @@
 | [Girl Next Door](https://open.spotify.com/track/000N4CJL8IjQ0f2I4grgBO) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Girl Next Door](https://open.spotify.com/album/1FLS0YAOPY3Mcb0o5n5fl4) | 3:00 | 2023-05-11 | 2023-09-28 |
 | [Girlfriend](https://open.spotify.com/track/4MzOppXoeKvDsVaNMeOK3C) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [The Second Wave Deluxe](https://open.spotify.com/album/6dvqARQzWnVbGym9dEWw4Y) | 3:16 | 2022-06-16 | 2023-02-24 |
 | [Give Me Love](https://open.spotify.com/track/63GLHZWNbGyg0e4n07aIqA) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ) | [TOP BOY](https://open.spotify.com/album/7GmKqpAQbUw7Nr8SboaAPq) | 3:46 | 2023-02-16 | 2023-05-18 |
+| [Give Up and See](https://open.spotify.com/track/7oeDsbL96qpvc19iGFp59f) | [King Paluta](https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Give Up and See](https://open.spotify.com/album/3pv7jABm0LT7rfYMcZ5BFf) | 3:36 | 2026-05-22 |  |
 | [Go n Look](https://open.spotify.com/track/6uUh6ap9kH5Zuag6mFFW4w) | [Bisa Kdei](https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [Go n Look](https://open.spotify.com/album/0H4zop3iXGovw6xqjTLnjh) | 2:15 | 2026-04-10 | 2026-05-01 |
 | [God Abeg \(feat\. Kwesi Arthur, Joey B & Kay T\)](https://open.spotify.com/track/5WZXhQL346sTAQ4WKPUJpJ) | [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL), [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ), [Kay T](https://open.spotify.com/artist/65KHsymx2SxbuY1uaFZ2Rr) | [God Abeg \(feat\. Kwesi Arthur, Joey B & Kay T\)](https://open.spotify.com/album/30tV92VWx0ImjvBDCNiJJf) | 6:40 | 2023-04-27 | 2023-05-12 |
 | [Good Girl \(Evandy Girl\)](https://open.spotify.com/track/0S7PJaI9wUdua6uafHV9Xh) | [DJ Vyrusky](https://open.spotify.com/artist/20uZPZ6EXItffkdLevoEdV), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ), [Shaker](https://open.spotify.com/artist/5I1G1MSxXh3zrZsVZCPzZj) | [Good Girl \(Evandy Girl\)](https://open.spotify.com/album/0qP1Ep1na1g15udNUiIXOo) | 2:09 | 2025-03-14 | 2025-08-01 |

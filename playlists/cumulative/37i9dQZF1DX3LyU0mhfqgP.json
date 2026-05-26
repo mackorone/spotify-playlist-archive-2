@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Songs from LGBTQIA+ artists. Cover: Trucha",
+  "description": "Songs from LGBTQIA+ artists. Cover: FLOSS",
   "name": "GLOW",
   "tracks": [
     {
@@ -2173,6 +2173,24 @@
     },
     {
       "album": {
+        "name": "b0dy c0un1",
+        "url": "https://open.spotify.com/album/6BoHLJKs4A259rPClVixzv"
+      },
+      "artists": [
+        {
+          "name": "FLOSS",
+          "url": "https://open.spotify.com/artist/6J9jA7iSuf9a6Apk8sKqhJ"
+        }
+      ],
+      "date_added": "2026-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138697,
+      "name": "Avant-Garde",
+      "url": "https://open.spotify.com/track/1HD47Yxz6wBBDDBzNt29mO"
+    },
+    {
+      "album": {
         "name": "Madre Fundadora",
         "url": "https://open.spotify.com/album/0cW778aXsK6vVGu6QW6XUW"
       },
@@ -3608,7 +3626,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 197333,
       "name": "Bitter Tea",
       "url": "https://open.spotify.com/track/1SDajggyX8SjcW2kg3iS5P"
@@ -9201,6 +9219,24 @@
     },
     {
       "album": {
+        "name": "Stage Girl (Not A Dream Anymore)",
+        "url": "https://open.spotify.com/album/0hPLxwcufIj2AKy0a3uilI"
+      },
+      "artists": [
+        {
+          "name": "Eli",
+          "url": "https://open.spotify.com/artist/0phkgcpVchB7IJFJ7KcSP1"
+        }
+      ],
+      "date_added": "2026-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177746,
+      "name": "F**k the DJ",
+      "url": "https://open.spotify.com/track/7haEOYPwSnePvGhYUfVJsj"
+    },
+    {
+      "album": {
         "name": "Faded",
         "url": "https://open.spotify.com/album/0drD49MS1Um3TlYdJS9Ib3"
       },
@@ -9856,6 +9892,24 @@
       "duration_ms": 197302,
       "name": "Flicker",
       "url": "https://open.spotify.com/track/5GynUhuFgbs1GBwIjzRr8U"
+    },
+    {
+      "album": {
+        "name": "A SWAN FROM GATORLAND (Return of the Swan)",
+        "url": "https://open.spotify.com/album/7GgvEcpfL8PNghkY57XMVF"
+      },
+      "artists": [
+        {
+          "name": "Maxwell Luke",
+          "url": "https://open.spotify.com/artist/1LzbpVQTKYhHewqsn5DCnX"
+        }
+      ],
+      "date_added": "2026-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254424,
+      "name": "FLORIDA MAN",
+      "url": "https://open.spotify.com/track/7C5bt32X9IwDZqH3UNHZcU"
     },
     {
       "album": {
@@ -20872,7 +20926,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 231565,
       "name": "no outline",
       "url": "https://open.spotify.com/track/42VZ5I6wh4yuQ9YKI9ObWx"
@@ -28752,7 +28806,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 158906,
       "name": "Tan Lines",
       "url": "https://open.spotify.com/track/5oDT7KAJxuOy4kvat3bzlf"
@@ -30186,7 +30240,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 139086,
       "name": "trans",
       "url": "https://open.spotify.com/track/5jaTv4vXs6Bkx6i842hkOg"
@@ -33278,6 +33332,24 @@
       "duration_ms": 203670,
       "name": "Your Side of It",
       "url": "https://open.spotify.com/track/63M3e3sKF6Zp5u6Vmg0iv7"
+    },
+    {
+      "album": {
+        "name": "Your Whisper",
+        "url": "https://open.spotify.com/album/2U8XqrFNH8DjaW40cqJyjS"
+      },
+      "artists": [
+        {
+          "name": "Andrew Sa",
+          "url": "https://open.spotify.com/artist/6deCLrQTLyZTG8iNpirQ07"
+        }
+      ],
+      "date_added": "2026-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174918,
+      "name": "Your Whisper",
+      "url": "https://open.spotify.com/track/1OnnvgXF8Dm4IBVqitmi8L"
     },
     {
       "album": {

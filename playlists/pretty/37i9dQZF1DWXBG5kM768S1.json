@@ -1,6 +1,6 @@
 {
   "description": "Fantastiske viser fra noen av v\u00e5re aller beste artister.",
-  "num_followers": 81087,
+  "num_followers": 81092,
   "original_name": "Norske viser",
   "owner": {
     "name": "Spotify",
@@ -503,22 +503,6 @@
     {
       "added_at": "2026-03-12 23:00:43",
       "album": {
-        "name": "Hilsen Halvdan",
-        "url": "https://open.spotify.com/album/0aZwUrOFumqgQGdId4WDAy"
-      },
-      "artists": [
-        {
-          "name": "Halvdan Sivertsen",
-          "url": "https://open.spotify.com/artist/4si4vypZaD6Vk7TiHkEXeY"
-        }
-      ],
-      "duration_ms": 258638,
-      "name": "Sommerfuggel I Vinterland",
-      "url": "https://open.spotify.com/track/6TYTKJKCLhMely2cdBRorF"
-    },
-    {
-      "added_at": "2026-03-12 23:00:43",
-      "album": {
         "name": "Ta Meg Med",
         "url": "https://open.spotify.com/album/3pWcFE43bLCUJhpuziIvHP"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 194506,
       "name": "Vi Vandrar Saman (Eg F\u00f8lgjer Der Du G\u00e5r)",
       "url": "https://open.spotify.com/track/5b1AEdCpaCSNO8Z3i3SlFV"
+    },
+    {
+      "added_at": "2026-03-12 23:00:43",
+      "album": {
+        "name": "Hilsen Halvdan",
+        "url": "https://open.spotify.com/album/0aZwUrOFumqgQGdId4WDAy"
+      },
+      "artists": [
+        {
+          "name": "Halvdan Sivertsen",
+          "url": "https://open.spotify.com/artist/4si4vypZaD6Vk7TiHkEXeY"
+        }
+      ],
+      "duration_ms": 258638,
+      "name": "Sommerfuggel I Vinterland",
+      "url": "https://open.spotify.com/track/6TYTKJKCLhMely2cdBRorF"
     },
     {
       "added_at": "2026-03-12 23:00:43",
@@ -691,22 +691,6 @@
     {
       "added_at": "2026-03-12 23:00:43",
       "album": {
-        "name": "K\u00e6m va du?",
-        "url": "https://open.spotify.com/album/1AQXVLdZSRPpt1HviBevmZ"
-      },
-      "artists": [
-        {
-          "name": "Moddi",
-          "url": "https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM"
-        }
-      ],
-      "duration_ms": 179533,
-      "name": "Togsang",
-      "url": "https://open.spotify.com/track/5qSJ6zAlnBXmIQc8vBE72R"
-    },
-    {
-      "added_at": "2026-03-12 23:00:43",
-      "album": {
         "name": "Kom ut kom fram",
         "url": "https://open.spotify.com/album/211PaS9J8AAPWXCVkyIVkF"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 226760,
       "name": "Lilla vackra Anna",
       "url": "https://open.spotify.com/track/6fAsL3cjB7fMGrMlXwYFIg"
+    },
+    {
+      "added_at": "2026-03-12 23:00:43",
+      "album": {
+        "name": "K\u00e6m va du?",
+        "url": "https://open.spotify.com/album/1AQXVLdZSRPpt1HviBevmZ"
+      },
+      "artists": [
+        {
+          "name": "Moddi",
+          "url": "https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM"
+        }
+      ],
+      "duration_ms": 179533,
+      "name": "Togsang",
+      "url": "https://open.spotify.com/track/5qSJ6zAlnBXmIQc8vBE72R"
     },
     {
       "added_at": "2026-03-12 23:00:43",

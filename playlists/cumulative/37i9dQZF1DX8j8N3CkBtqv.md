@@ -4,7 +4,7 @@
 
 > Naye Indie gaano ka khazana, featuring Prateeksha Srivastava, Akanksha Bhandari and other exciting artists.
 
-1,454 songs - 3 day 7 hr 47 min
+1,455 songs - 3 day 7 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -958,7 +958,7 @@
 | [O Baalam](https://open.spotify.com/track/6mmysz9VDxzdzjZhFhxGMK) | [Sandesh Shandilya](https://open.spotify.com/artist/6AwwLwgIsTIXZ8kHWaZUj5), [Vedang Gaikwad](https://open.spotify.com/artist/75hdci5CS4NBDst8plfSza), [Shradha Mishra](https://open.spotify.com/artist/4nhFZoBTFnDpi17pbaDgd7), [Akshayraje Shinde](https://open.spotify.com/artist/4VrMHDJPCXIca1awQrc1wc), [Altamash Faridi](https://open.spotify.com/artist/38IHJBGBuaYXHEkIQd4DtF), [Yash Mishra](https://open.spotify.com/artist/70sU4yuUbhERtc7LQWuTQi), [Himalayan Harmonies](https://open.spotify.com/artist/2osVgMquKwmLorGHfA86aS) | [Harvest](https://open.spotify.com/album/5w1KwsCP121wXn37I6FguI) | 3:09 | 2024-10-11 | 2024-11-23 |
 | [O Dil](https://open.spotify.com/track/7ajb5k6A9qJPQvGaUu2Tq0) | [Utsavi Jha](https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX), [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN) | [O Dil](https://open.spotify.com/album/322g9WBJfBkjtsLbaklsvT) | 2:46 | 2025-12-05 | 2026-02-28 |
 | [O Maaa](https://open.spotify.com/track/3dTLzaV6YGQn6gOZ2j9t0L) | [Vinit Katariya](https://open.spotify.com/artist/23uaAA0nW31ZgSWg7DhctP), [Samyak Prasana](https://open.spotify.com/artist/64j5rJTsD25fTAcOiZWAiY), [Sarthak Hichkad](https://open.spotify.com/artist/59GrJmVi5YwyLJQIV0Cabl) | [O Maaa](https://open.spotify.com/album/2GjCniVKKT8c15EIP4CfBQ) | 3:00 | 2025-05-23 | 2025-08-23 |
-| [O Meena](https://open.spotify.com/track/2vxFkZeJU9RLkDzP0Gmr5i) | [Inayat](https://open.spotify.com/artist/5jbBzjNgAiqpsNEOmOP448) | [O Meena](https://open.spotify.com/album/0U3SwZ3I7KolJ0NECOEtww) | 3:35 | 2026-04-03 |  |
+| [O Meena](https://open.spotify.com/track/2vxFkZeJU9RLkDzP0Gmr5i) | [Inayat](https://open.spotify.com/artist/5jbBzjNgAiqpsNEOmOP448) | [O Meena](https://open.spotify.com/album/0U3SwZ3I7KolJ0NECOEtww) | 3:35 | 2026-04-03 | 2026-05-26 |
 | [O Meri Premika](https://open.spotify.com/track/1JOpVE7sWTH9JcgzXmakQf) | [Rahgir](https://open.spotify.com/artist/1CGbcdGB3aFFUCjaJimwER) | [O Meri Premika](https://open.spotify.com/album/59pyLJfCpjq1PdIB1USX8F) | 4:53 | 2023-09-29 | 2023-10-29 |
 | [O Piya](https://open.spotify.com/track/1KkRWq9CYNSiE6bRlmlHFB) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [O Piya](https://open.spotify.com/album/3BG5oKUAYWvOY9PxS1B9WS) | 2:52 | 2023-11-10 | 2024-01-06 |
 | [O Re Saavan](https://open.spotify.com/track/5EXcMk9ZlC5UlDU4jSZsm1) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [O Re Saavan](https://open.spotify.com/album/6PjAaPH6Fg68TjnSvCHK9I) | 2:38 | 2024-02-23 | 2024-07-27 |
@@ -1093,6 +1093,7 @@
 | [Saahiba](https://open.spotify.com/track/76z2uAcGGoOhIxSdOwxlQJ) | [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW), [Aditya Bisht](https://open.spotify.com/artist/4GWVSBpjtIxsL9ORD8rAxR), [Anurag Mishra](https://open.spotify.com/artist/3r80FQRtPJ8V5GrdDzNTWE) | [Saahiba](https://open.spotify.com/album/7mlb1stM6vE1g4vtHn0GBG) | 3:15 | 2024-01-12 | 2024-06-15 |
 | [Saaiyaan Ve](https://open.spotify.com/track/6gtd37ycQvDNh3tEKRnQdS) | [Abhishek Mathur](https://open.spotify.com/artist/2Mmj7hDaEvH6HhlUYKo3a3), [Arjit Srivastava](https://open.spotify.com/artist/1F3D5Gc6MToIAQoFOtYKkz) | [Saaiyaan Ve](https://open.spotify.com/album/6Crw6Uzyvt4FJ4ayhYgptR) | 3:00 | 2025-06-27 | 2025-07-06 |
 | [Saajan](https://open.spotify.com/track/7DlJqM9YWWBBx3HvqnrssC) | [Dikshant](https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR) | [Saajan](https://open.spotify.com/album/1jvGQ2YVEBh1CjGT9bpf1u) | 3:43 | 2026-02-20 | 2026-05-02 |
+| [Saajan Mora](https://open.spotify.com/track/08h4IJb0Ijr7w8900JJEts) | [SARTHAK BIJALWAN](https://open.spotify.com/artist/4BtjODiWrEDj3VJxK1jA01), [Dikshant](https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR) | [Saajan Mora](https://open.spotify.com/album/3dGeMcZek08ILRaGJV9dFe) | 3:12 | 2026-05-22 |  |
 | [Saajha Hua](https://open.spotify.com/track/7Ieqax5pQQmVB87IuvpS37) | [Sukrit Srivastava](https://open.spotify.com/artist/4fL2GzLhtLrapqKaYaRDj5), [Bhawnaa](https://open.spotify.com/artist/5nkoN9c6RPk5sBFByfpbLq), [Kajol Chatterjee](https://open.spotify.com/artist/4Li62BrnJU0dFuT40o4k19) | [Saajha Hua](https://open.spotify.com/album/1NKhmTR9rxeXXFqOT3L3N9) | 3:22 | 2026-03-20 | 2026-05-02 |
 | [Saajna](https://open.spotify.com/track/6pZa09ix3b8neGcd2npWVx) | [Ramya Ramkumar](https://open.spotify.com/artist/5mZttQqxgmGllfUyl4LSmQ) | [Saajna](https://open.spotify.com/album/60TbH0VAHFH6y6cat7rAuN) | 2:33 | 2026-02-06 | 2026-03-23 |
 | [Saalo Se](https://open.spotify.com/track/5V4BoefaIDvg3m3V6g9Cpf) | [THE 9TEEN](https://open.spotify.com/artist/4vLv0CXSxGB1PJijrfokwB) | [Saalo Se](https://open.spotify.com/album/4ngEajgZgykMDA11vydy0p) | 2:41 | 2024-09-13 | 2024-10-04 |

@@ -1,6 +1,6 @@
 {
   "description": "Enjoy new and classic releases from icons of folk and Americana. Cover: Amy Grant",
-  "num_followers": 237130,
+  "num_followers": 237163,
   "original_name": "Americana Icons",
   "owner": {
     "name": "Spotify",
@@ -227,6 +227,22 @@
     {
       "added_at": "2026-05-08 04:02:51",
       "album": {
+        "name": "Attempted Mustache",
+        "url": "https://open.spotify.com/album/1AG8ibJ2nQF7iEMpu84LSM"
+      },
+      "artists": [
+        {
+          "name": "Loudon Wainwright III",
+          "url": "https://open.spotify.com/artist/3loACRmkzdtOMNJEaB6j8L"
+        }
+      ],
+      "duration_ms": 147466,
+      "name": "The Swimming Song",
+      "url": "https://open.spotify.com/track/6scUEism6pBnY0IXYr8fw3"
+    },
+    {
+      "added_at": "2026-05-08 04:02:51",
+      "album": {
         "name": "Rise",
         "url": "https://open.spotify.com/album/4eZanBieJfTfgXAcnk9uaf"
       },
@@ -243,22 +259,6 @@
       "duration_ms": 242875,
       "name": "The Other Side Of Blue",
       "url": "https://open.spotify.com/track/1orTjCUpOGDVxhpqqv6G9L"
-    },
-    {
-      "added_at": "2026-05-08 04:02:51",
-      "album": {
-        "name": "Attempted Mustache",
-        "url": "https://open.spotify.com/album/1AG8ibJ2nQF7iEMpu84LSM"
-      },
-      "artists": [
-        {
-          "name": "Loudon Wainwright III",
-          "url": "https://open.spotify.com/artist/3loACRmkzdtOMNJEaB6j8L"
-        }
-      ],
-      "duration_ms": 147466,
-      "name": "The Swimming Song",
-      "url": "https://open.spotify.com/track/6scUEism6pBnY0IXYr8fw3"
     },
     {
       "added_at": "2026-05-08 04:02:51",

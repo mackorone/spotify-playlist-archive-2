@@ -1,12 +1,12 @@
 {
   "description": "The best new independent songs. New tracks every month.",
-  "num_followers": 1310,
+  "num_followers": 1311,
   "original_name": "New Indie Music",
   "owner": {
     "name": "Monnison",
     "url": "https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss"
   },
-  "snapshot_id": "AAAUUgMC/cVS2u0HgLDE/qRurcJnDVan",
+  "snapshot_id": "AAAUWI0+85VSDvmWDTVxYt+Pavxt5D/b",
   "tracks": [
     {
       "added_at": "2026-05-07 22:07:00",
@@ -2827,6 +2827,102 @@
       "duration_ms": 181699,
       "name": "Chamberlain",
       "url": "https://open.spotify.com/track/6RzVj1GlldWzLeNvmpsaPL"
+    },
+    {
+      "added_at": "2026-05-25 09:58:10",
+      "album": {
+        "name": "Neon Heartbeats",
+        "url": "https://open.spotify.com/album/6gsxqACTSgmkSQwERVY8Vd"
+      },
+      "artists": [
+        {
+          "name": "Silver Atom",
+          "url": "https://open.spotify.com/artist/0JmgYnUa2o1dEDrxRgIl1B"
+        }
+      ],
+      "duration_ms": 200783,
+      "name": "Madeline",
+      "url": "https://open.spotify.com/track/6YsMdG5E0jebOiFBDIIN5y"
+    },
+    {
+      "added_at": "2026-05-25 09:58:13",
+      "album": {
+        "name": "Kabungah (Happiness)",
+        "url": "https://open.spotify.com/album/5xHDhkusrljpHJVwZMjp5X"
+      },
+      "artists": [
+        {
+          "name": "Nirvan Channel",
+          "url": "https://open.spotify.com/artist/5CrcSowv9jp8dX1WCmoB5x"
+        }
+      ],
+      "duration_ms": 249194,
+      "name": "Kabungah (Happiness)",
+      "url": "https://open.spotify.com/track/0VsPnsXdo8mMDDUgIYYZFb"
+    },
+    {
+      "added_at": "2026-05-25 09:58:36",
+      "album": {
+        "name": "Hazte oir",
+        "url": "https://open.spotify.com/album/0iqOcbtUyjYtnHZgU8Jdzv"
+      },
+      "artists": [
+        {
+          "name": "Marcoo",
+          "url": "https://open.spotify.com/artist/78r09t3sUYBpJSrYZqeAxb"
+        }
+      ],
+      "duration_ms": 189765,
+      "name": "Hazte oir",
+      "url": "https://open.spotify.com/track/1dfB3PNQCu7FMhf9xae073"
+    },
+    {
+      "added_at": "2026-05-25 09:58:38",
+      "album": {
+        "name": "DP p\u00e5 SnapChat",
+        "url": "https://open.spotify.com/album/2wS6Uswi0fPri5cWSIdNkz"
+      },
+      "artists": [
+        {
+          "name": "G.M.L.",
+          "url": "https://open.spotify.com/artist/4H1Hn4nIuzTyDQY2RuGUYC"
+        }
+      ],
+      "duration_ms": 186400,
+      "name": "DP p\u00e5 SnapChat",
+      "url": "https://open.spotify.com/track/3RaNiI1jFzzMDYFQoP188X"
+    },
+    {
+      "added_at": "2026-05-25 09:58:48",
+      "album": {
+        "name": "Chronicles",
+        "url": "https://open.spotify.com/album/3SXQw872Qse1aMo2QHkNYE"
+      },
+      "artists": [
+        {
+          "name": "GoodboyDess",
+          "url": "https://open.spotify.com/artist/2lp0si4MShPt81ftDdaopu"
+        }
+      ],
+      "duration_ms": 379594,
+      "name": "I Don't Care",
+      "url": "https://open.spotify.com/track/23uw1PtbzbMTBVWh9ybfKq"
+    },
+    {
+      "added_at": "2026-05-25 09:59:49",
+      "album": {
+        "name": "Amori inutili",
+        "url": "https://open.spotify.com/album/5P6RxvlC9MP9nwo0BpBD12"
+      },
+      "artists": [
+        {
+          "name": "Tommaso Giusti",
+          "url": "https://open.spotify.com/artist/45gWIaYD5ih9QCHoBxEy3a"
+        }
+      ],
+      "duration_ms": 198159,
+      "name": "Amori inutili",
+      "url": "https://open.spotify.com/track/5siNyqczRiqtJ0nboaUpNY"
     }
   ],
   "unique_name": "New Indie Music",

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0TXhxoo7C4jisEGDp8fiUS">Kalli</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-187 songs - 9 hr 28 min
+188 songs - 9 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,6 +143,7 @@
 | [On My Mind](https://open.spotify.com/track/3yCcr891zvCOIlaadGZKuo) | [Sonny Alven](https://open.spotify.com/artist/2zHHEU3t9cutZFyG0fHdOR) | [On My Mind](https://open.spotify.com/album/2YoQ5WtQ3MClSxDuLElMHw) | 2:50 | 2024-01-29 |  |
 | [On My Own](https://open.spotify.com/track/78hj6ClFpaG2MuOaPCjlOo) | [Phil Soda](https://open.spotify.com/artist/6oOURapauLCNtDmaYMv78O) | [On My Own](https://open.spotify.com/album/46VvuVv2NV5Zm8W6b5YZze) | 2:21 | 2024-01-29 |  |
 | [One Day \(I'm Gonna Break Your Heart\)](https://open.spotify.com/track/17RvMTNV8cqEhlKnr65btb) | [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [Ride](https://open.spotify.com/album/7dPtQ96HtsmPSq8oWsmkJv) | 2:28 | 2024-01-29 |  |
+| [Optimist](https://open.spotify.com/track/5CKNSvLw4A72l8ZGWD31Jz) | [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [Optimist](https://open.spotify.com/album/36iy6HOYe9tweVVEHJo51b) | 2:56 | 2026-05-25 |  |
 | [Our Parade](https://open.spotify.com/track/5CZjFSunID1EGKCDJkMKpj) | [Elaiza](https://open.spotify.com/artist/3p45HHDBKyxCDJeOnOWuSo) | [Restless \(Deluxe\)](https://open.spotify.com/album/1Nr0EKbE71nEAcbXN5jqi2) | 3:09 | 2025-01-09 | 2025-04-12 |
 | [Paper Thin](https://open.spotify.com/track/5nyF7tFUt6fKgetq8MDGia) | [dePresno](https://open.spotify.com/artist/3DzvldYcKG83XYhYC0wfLn) | [Technicolor](https://open.spotify.com/album/0i8MMjp4O2ycsJpSLlZSTb) | 3:38 | 2024-01-29 |  |
 | [Paradise](https://open.spotify.com/track/6VwzQHIGN0ftc9IL3YsnhA) | [RANE](https://open.spotify.com/artist/4XXpC48bL6E032lJw4aSFz) | [Paradise](https://open.spotify.com/album/5sOwGpONKjXJNRRAGmdg5j) | 2:20 | 2025-08-14 |  |

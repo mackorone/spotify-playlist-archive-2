@@ -1898,7 +1898,7 @@
       ],
       "date_added": "2026-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-30",
+      "date_removed": null,
       "duration_ms": 222232,
       "name": "Left Behind",
       "url": "https://open.spotify.com/track/2CQlMyN2oEbCN2Rqg1uuzB"
@@ -2188,7 +2188,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 133750,
       "name": "My Roots",
       "url": "https://open.spotify.com/track/2plmtSZs7rXUTNHSjCo6Ws"
@@ -2578,10 +2578,32 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 136000,
       "name": "Rokda",
       "url": "https://open.spotify.com/track/4kmxcytcuMaPXFPrrJ3HaI"
+    },
+    {
+      "album": {
+        "name": "Maan Made",
+        "url": "https://open.spotify.com/album/4f6X5dcoh29T7f8FGuXoO1"
+      },
+      "artists": [
+        {
+          "name": "Amrit Maan",
+          "url": "https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj"
+        },
+        {
+          "name": "Deep Jandu",
+          "url": "https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3"
+        }
+      ],
+      "date_added": "2026-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169212,
+      "name": "RR",
+      "url": "https://open.spotify.com/track/0NIyZKeWOvCzgjiEwdL5ZM"
     },
     {
       "album": {

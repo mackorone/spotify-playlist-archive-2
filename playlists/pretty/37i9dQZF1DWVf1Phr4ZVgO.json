@@ -1,6 +1,6 @@
 {
   "description": "Big bands and tuxedos. The playlist for the wedding or just an elegant evening.",
-  "num_followers": 1198703,
+  "num_followers": 1198795,
   "original_name": "An Elegant Affair",
   "owner": {
     "name": "Spotify",
@@ -471,22 +471,6 @@
     {
       "added_at": "2026-02-09 08:20:39",
       "album": {
-        "name": "Unforgettable: With Love",
-        "url": "https://open.spotify.com/album/4ilUfGGQXin7hr1srDDXF0"
-      },
-      "artists": [
-        {
-          "name": "Natalie Cole",
-          "url": "https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9"
-        }
-      ],
-      "duration_ms": 181093,
-      "name": "Route 66",
-      "url": "https://open.spotify.com/track/6vn1eEGBbV1V4g2KKokQYW"
-    },
-    {
-      "added_at": "2026-02-09 08:20:39",
-      "album": {
         "name": "Begin The Beguine",
         "url": "https://open.spotify.com/album/3uXjIDVSLPp8niomuVDd5h"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 213333,
       "name": "Moonglow",
       "url": "https://open.spotify.com/track/5OxesorQA2Gu1r0bGRTkX0"
+    },
+    {
+      "added_at": "2026-02-09 08:20:39",
+      "album": {
+        "name": "Unforgettable: With Love",
+        "url": "https://open.spotify.com/album/4ilUfGGQXin7hr1srDDXF0"
+      },
+      "artists": [
+        {
+          "name": "Natalie Cole",
+          "url": "https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9"
+        }
+      ],
+      "duration_ms": 181093,
+      "name": "Route 66",
+      "url": "https://open.spotify.com/track/6vn1eEGBbV1V4g2KKokQYW"
     },
     {
       "added_at": "2026-02-09 08:20:39",
@@ -891,26 +891,6 @@
     {
       "added_at": "2026-02-09 08:20:39",
       "album": {
-        "name": "Boy Meets Girl: Sammy Davis Jr. And Carmen McRae On Decca",
-        "url": "https://open.spotify.com/album/4UIxdcJmqo5Qnqs1tLC2Ge"
-      },
-      "artists": [
-        {
-          "name": "Sammy Davis Jr.",
-          "url": "https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D"
-        },
-        {
-          "name": "Carmen McRae",
-          "url": "https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj"
-        }
-      ],
-      "duration_ms": 170506,
-      "name": "Two Sleepy People",
-      "url": "https://open.spotify.com/track/6Q1VnirK7zQeJs37siT92V"
-    },
-    {
-      "added_at": "2026-02-09 08:20:39",
-      "album": {
         "name": "Platinum Collection",
         "url": "https://open.spotify.com/album/6oDOhdspMCyj3grZIsUqaT"
       },
@@ -931,6 +911,26 @@
     {
       "added_at": "2026-02-09 08:20:39",
       "album": {
+        "name": "Boy Meets Girl: Sammy Davis Jr. And Carmen McRae On Decca",
+        "url": "https://open.spotify.com/album/4UIxdcJmqo5Qnqs1tLC2Ge"
+      },
+      "artists": [
+        {
+          "name": "Sammy Davis Jr.",
+          "url": "https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D"
+        },
+        {
+          "name": "Carmen McRae",
+          "url": "https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj"
+        }
+      ],
+      "duration_ms": 170506,
+      "name": "Two Sleepy People",
+      "url": "https://open.spotify.com/track/6Q1VnirK7zQeJs37siT92V"
+    },
+    {
+      "added_at": "2026-02-09 08:20:39",
+      "album": {
         "name": "Manilow Sings Sinatra",
         "url": "https://open.spotify.com/album/1VHZYvdQ2xcit0EkFzq0oj"
       },
@@ -940,9 +940,9 @@
           "url": "https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX"
         }
       ],
-      "duration_ms": 132466,
-      "name": "I've Got The World On A String",
-      "url": "https://open.spotify.com/track/2bksvLO7cIYbVxe6HcSS8Q"
+      "duration_ms": 179493,
+      "name": "You Make Me Feel So Young",
+      "url": "https://open.spotify.com/track/3BvRGVwn9sBfbxGClUEvD3"
     },
     {
       "added_at": "2026-02-09 08:20:39",
@@ -1024,9 +1024,9 @@
           "url": "https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX"
         }
       ],
-      "duration_ms": 179493,
-      "name": "You Make Me Feel So Young",
-      "url": "https://open.spotify.com/track/3BvRGVwn9sBfbxGClUEvD3"
+      "duration_ms": 132466,
+      "name": "I've Got The World On A String",
+      "url": "https://open.spotify.com/track/2bksvLO7cIYbVxe6HcSS8Q"
     },
     {
       "added_at": "2026-02-09 08:20:39",

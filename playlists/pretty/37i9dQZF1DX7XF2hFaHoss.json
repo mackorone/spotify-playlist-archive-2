@@ -287,22 +287,6 @@
     {
       "added_at": "2026-03-08 15:34:05",
       "album": {
-        "name": "My Ego Dies At The End",
-        "url": "https://open.spotify.com/album/5OBhCOu9PsEEcLldCbwDn8"
-      },
-      "artists": [
-        {
-          "name": "Jensen McRae",
-          "url": "https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj"
-        }
-      ],
-      "duration_ms": 242644,
-      "name": "My Ego Dies At The End",
-      "url": "https://open.spotify.com/track/7wWr0jb8Z1FZaEkb977AK0"
-    },
-    {
-      "added_at": "2026-03-08 15:34:05",
-      "album": {
         "name": "FLOWERS for VASES / descansos",
         "url": "https://open.spotify.com/album/3JSvIZCtxK4fUywBK41129"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 191949,
       "name": "Over Those Hills",
       "url": "https://open.spotify.com/track/5afKJ9yqFQ5L2FxuGiZMPQ"
+    },
+    {
+      "added_at": "2026-03-08 15:34:05",
+      "album": {
+        "name": "My Ego Dies At The End",
+        "url": "https://open.spotify.com/album/5OBhCOu9PsEEcLldCbwDn8"
+      },
+      "artists": [
+        {
+          "name": "Jensen McRae",
+          "url": "https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj"
+        }
+      ],
+      "duration_ms": 242644,
+      "name": "My Ego Dies At The End",
+      "url": "https://open.spotify.com/track/7wWr0jb8Z1FZaEkb977AK0"
     },
     {
       "added_at": "2026-03-08 15:34:05",
@@ -523,22 +523,6 @@
     {
       "added_at": "2026-03-08 15:34:05",
       "album": {
-        "name": "Older",
-        "url": "https://open.spotify.com/album/5Tz4JnX2qcVxDDLpG8d2LY"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 201303,
-      "name": "Older",
-      "url": "https://open.spotify.com/track/2EBtLxQSV8EHpk4gHoMnl3"
-    },
-    {
-      "added_at": "2026-03-08 15:34:05",
-      "album": {
         "name": "Crooked Tree",
         "url": "https://open.spotify.com/album/1lIZUzexPXR4Q7exPmNqCc"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 232827,
       "name": "Crooked Tree",
       "url": "https://open.spotify.com/track/1NlwiyN4GGn3gVgyZ8T5AW"
+    },
+    {
+      "added_at": "2026-03-08 15:34:05",
+      "album": {
+        "name": "Older",
+        "url": "https://open.spotify.com/album/5Tz4JnX2qcVxDDLpG8d2LY"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 201303,
+      "name": "Older",
+      "url": "https://open.spotify.com/track/2EBtLxQSV8EHpk4gHoMnl3"
     },
     {
       "added_at": "2026-03-08 15:34:05",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2026-03-08 15:34:05",
       "album": {
-        "name": "After a Time",
-        "url": "https://open.spotify.com/album/34V7OGom5kiDdY8xJVhMoW"
-      },
-      "artists": [
-        {
-          "name": "Holly Throsby",
-          "url": "https://open.spotify.com/artist/0ISl2YbBIgqW4IWbSJMn5g"
-        }
-      ],
-      "duration_ms": 231408,
-      "name": "Aeroplane",
-      "url": "https://open.spotify.com/track/2kipERgqD2j3zw9B4l9J6a"
-    },
-    {
-      "added_at": "2026-03-08 15:34:05",
-      "album": {
         "name": "My Full Name",
         "url": "https://open.spotify.com/album/6eyXLuSwlVNIOG8JxPVEpH"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 199520,
       "name": "My Full Name",
       "url": "https://open.spotify.com/track/3E0J3bhXAc5J7UCplVLcyS"
+    },
+    {
+      "added_at": "2026-03-08 15:34:05",
+      "album": {
+        "name": "After a Time",
+        "url": "https://open.spotify.com/album/34V7OGom5kiDdY8xJVhMoW"
+      },
+      "artists": [
+        {
+          "name": "Holly Throsby",
+          "url": "https://open.spotify.com/artist/0ISl2YbBIgqW4IWbSJMn5g"
+        }
+      ],
+      "duration_ms": 231408,
+      "name": "Aeroplane",
+      "url": "https://open.spotify.com/track/2kipERgqD2j3zw9B4l9J6a"
     },
     {
       "added_at": "2026-03-08 15:34:05",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2026-03-08 15:34:05",
       "album": {
-        "name": "Nothing We Say - EP",
-        "url": "https://open.spotify.com/album/5iHIUbynfBik6g0Ik3zhl7"
-      },
-      "artists": [
-        {
-          "name": "Courtney Hartman",
-          "url": "https://open.spotify.com/artist/0cncMmardvNmaTb9Jnq8w7"
-        }
-      ],
-      "duration_ms": 211186,
-      "name": "Nothing We Say",
-      "url": "https://open.spotify.com/track/2IoUZxXF26o9NIiYmfw34d"
-    },
-    {
-      "added_at": "2026-03-08 15:34:05",
-      "album": {
         "name": "Soundings",
         "url": "https://open.spotify.com/album/6knZI5Gkp0SvKHpTkwhiTC"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 175866,
       "name": "Soundings",
       "url": "https://open.spotify.com/track/0esMQejJS5rGbjbZlEjgkp"
+    },
+    {
+      "added_at": "2026-03-08 15:34:05",
+      "album": {
+        "name": "Nothing We Say - EP",
+        "url": "https://open.spotify.com/album/5iHIUbynfBik6g0Ik3zhl7"
+      },
+      "artists": [
+        {
+          "name": "Courtney Hartman",
+          "url": "https://open.spotify.com/artist/0cncMmardvNmaTb9Jnq8w7"
+        }
+      ],
+      "duration_ms": 211186,
+      "name": "Nothing We Say",
+      "url": "https://open.spotify.com/track/2IoUZxXF26o9NIiYmfw34d"
     },
     {
       "added_at": "2026-03-08 15:34:05",
@@ -1503,18 +1503,18 @@
     {
       "added_at": "2026-03-08 15:34:05",
       "album": {
-        "name": "Low",
-        "url": "https://open.spotify.com/album/1wMYbFE4Xxeb6qxe2nkeIX"
+        "name": "The Acoustic Guitar Project: Minneapolis 2014",
+        "url": "https://open.spotify.com/album/2qdU8Zs5lu87f49YCzNL8E"
       },
       "artists": [
         {
-          "name": "Angel Snow",
-          "url": "https://open.spotify.com/artist/4awtkia1cywuwJ2OrxNw6j"
+          "name": "Chastity Brown",
+          "url": "https://open.spotify.com/artist/6vRqjrYlvurWLEwRKvTdEw"
         }
       ],
-      "duration_ms": 231841,
-      "name": "Unsteady Ground",
-      "url": "https://open.spotify.com/track/5aU5EVIbdKn6Xg4ujLTrll"
+      "duration_ms": 242276,
+      "name": "How Could I Forget",
+      "url": "https://open.spotify.com/track/38Kbca2Yc3eGMwRYbbI8so"
     }
   ],
   "unique_name": "Women of Acoustic",

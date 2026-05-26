@@ -1,12 +1,12 @@
 {
   "description": "This is Angela Torres. The essential tracks, all in one playlist.",
-  "num_followers": 7829,
+  "num_followers": 7838,
   "original_name": "This Is Angela Torres",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahDuAAAAAACcgjW0ypkRqbTZ/EXtSbXP",
+  "snapshot_id": "ahI/gAAAAAD1rI5BOey8abPWuAt0awYM",
   "tracks": [
     {
       "added_at": null,
@@ -103,22 +103,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "NO ME OLVIDES",
-        "url": "https://open.spotify.com/album/13cf0Quqq45QP6RVHhAhkT"
-      },
-      "artists": [
-        {
-          "name": "Angela Torres",
-          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
-        }
-      ],
-      "duration_ms": 173453,
-      "name": "FAVORITA",
-      "url": "https://open.spotify.com/track/6EhX9FjpQZ5CohoGeqUM2u"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SINVERG\u00dcENZA - con Angela Torres",
         "url": "https://open.spotify.com/album/2j4yf0X00zieL424k90UVn"
       },
@@ -147,6 +131,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "NO ME OLVIDES",
+        "url": "https://open.spotify.com/album/13cf0Quqq45QP6RVHhAhkT"
+      },
+      "artists": [
+        {
+          "name": "Angela Torres",
+          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
+        }
+      ],
+      "duration_ms": 173453,
+      "name": "FAVORITA",
+      "url": "https://open.spotify.com/track/6EhX9FjpQZ5CohoGeqUM2u"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mejor Que Ayer",
         "url": "https://open.spotify.com/album/4V8VrdZELSBwlvKaEr4jNC"
       },
@@ -167,6 +167,26 @@
       "duration_ms": 199340,
       "name": "Las Leyes de La Vida",
       "url": "https://open.spotify.com/track/1E9mUWox7ZaSnfGS4P3fBp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FINGIA",
+        "url": "https://open.spotify.com/album/7cFQqo1RKjFHI8S2Kae7U0"
+      },
+      "artists": [
+        {
+          "name": "La Joaqui",
+          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
+        },
+        {
+          "name": "Angela Torres",
+          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "FINGIA",
+      "url": "https://open.spotify.com/track/2pZxYnAllqxKvuy7CSs6aA"
     },
     {
       "added_at": null,
@@ -199,26 +219,6 @@
       "duration_ms": 178016,
       "name": "VERTIGO",
       "url": "https://open.spotify.com/track/70BCmegyMAdPzFadlYGXfv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "FINGIA",
-        "url": "https://open.spotify.com/album/7cFQqo1RKjFHI8S2Kae7U0"
-      },
-      "artists": [
-        {
-          "name": "La Joaqui",
-          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
-        },
-        {
-          "name": "Angela Torres",
-          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "FINGIA",
-      "url": "https://open.spotify.com/track/2pZxYnAllqxKvuy7CSs6aA"
     },
     {
       "added_at": null,
@@ -259,22 +259,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "NO ME OLVIDES",
-        "url": "https://open.spotify.com/album/13cf0Quqq45QP6RVHhAhkT"
-      },
-      "artists": [
-        {
-          "name": "Angela Torres",
-          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
-        }
-      ],
-      "duration_ms": 152566,
-      "name": "FRIKI",
-      "url": "https://open.spotify.com/track/53HqSdI5pWQAnFebegmzZO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Deja Vu",
         "url": "https://open.spotify.com/album/2d5OQTVxmRIoYCSlwSOBOs"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 201951,
       "name": "Deja Vu",
       "url": "https://open.spotify.com/track/4uqc8T9Aq7k9wlNQeXxSuY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NO ME OLVIDES",
+        "url": "https://open.spotify.com/album/13cf0Quqq45QP6RVHhAhkT"
+      },
+      "artists": [
+        {
+          "name": "Angela Torres",
+          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
+        }
+      ],
+      "duration_ms": 152566,
+      "name": "FRIKI",
+      "url": "https://open.spotify.com/track/53HqSdI5pWQAnFebegmzZO"
     },
     {
       "added_at": null,
@@ -327,22 +327,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "NO ME OLVIDES",
-        "url": "https://open.spotify.com/album/13cf0Quqq45QP6RVHhAhkT"
-      },
-      "artists": [
-        {
-          "name": "Angela Torres",
-          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
-        }
-      ],
-      "duration_ms": 132290,
-      "name": "OOPS!",
-      "url": "https://open.spotify.com/track/3sSDoM8C5OyagBQHzBufW7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Kitty",
         "url": "https://open.spotify.com/album/6C7o5jeXJAAuQJ7RA6SHSi"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 129130,
       "name": "Kitty",
       "url": "https://open.spotify.com/track/3ElaFhLinetMp5S6pOWVcy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NO ME OLVIDES",
+        "url": "https://open.spotify.com/album/13cf0Quqq45QP6RVHhAhkT"
+      },
+      "artists": [
+        {
+          "name": "Angela Torres",
+          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
+        }
+      ],
+      "duration_ms": 132290,
+      "name": "OOPS!",
+      "url": "https://open.spotify.com/track/3sSDoM8C5OyagBQHzBufW7"
     },
     {
       "added_at": null,
@@ -391,22 +391,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "NO ME OLVIDES",
-        "url": "https://open.spotify.com/album/13cf0Quqq45QP6RVHhAhkT"
-      },
-      "artists": [
-        {
-          "name": "Angela Torres",
-          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
-        }
-      ],
-      "duration_ms": 151895,
-      "name": "PLACARD",
-      "url": "https://open.spotify.com/track/0r5cPFo2h0MWR7mHKpQF7o"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "FLOTANDO",
         "url": "https://open.spotify.com/album/2P2zEMA1YeWmLGNrxGvHBY"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 162000,
       "name": "FLOTANDO",
       "url": "https://open.spotify.com/track/40OkDypNOibhDLHZ94bKQc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NO ME OLVIDES",
+        "url": "https://open.spotify.com/album/13cf0Quqq45QP6RVHhAhkT"
+      },
+      "artists": [
+        {
+          "name": "Angela Torres",
+          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
+        }
+      ],
+      "duration_ms": 151895,
+      "name": "PLACARD",
+      "url": "https://open.spotify.com/track/0r5cPFo2h0MWR7mHKpQF7o"
     },
     {
       "added_at": null,
@@ -455,22 +455,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "NO ME OLVIDES",
-        "url": "https://open.spotify.com/album/13cf0Quqq45QP6RVHhAhkT"
-      },
-      "artists": [
-        {
-          "name": "Angela Torres",
-          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
-        }
-      ],
-      "duration_ms": 172766,
-      "name": "NO ME OLVIDES",
-      "url": "https://open.spotify.com/track/4HiMbzniEtE5memDJwvQDD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "mitad",
         "url": "https://open.spotify.com/album/7yBVnMTs3IbijMx8wsXyEp"
       },
@@ -491,6 +475,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "NO ME OLVIDES",
+        "url": "https://open.spotify.com/album/13cf0Quqq45QP6RVHhAhkT"
+      },
+      "artists": [
+        {
+          "name": "Angela Torres",
+          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
+        }
+      ],
+      "duration_ms": 172766,
+      "name": "NO ME OLVIDES",
+      "url": "https://open.spotify.com/track/4HiMbzniEtE5memDJwvQDD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "LA NI\u00d1A DE FUEGO",
         "url": "https://open.spotify.com/album/7aqGuXR2Aq76FtenpEEDRO"
       },
@@ -503,22 +503,6 @@
       "duration_ms": 160851,
       "name": "ARRABALERA",
       "url": "https://open.spotify.com/track/2s9cvQzfwAgdnFUaKNivfE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "AL\u00d3",
-        "url": "https://open.spotify.com/album/3qUJJlinoiociQmSFKhRbx"
-      },
-      "artists": [
-        {
-          "name": "Angela Torres",
-          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "AL\u00d3",
-      "url": "https://open.spotify.com/track/6w8Wm9LJmgGDJ4dK7SkLwo"
     },
     {
       "added_at": null,
@@ -547,6 +531,22 @@
       "duration_ms": 245538,
       "name": "Nasty Girl (feat. Ingratax)",
       "url": "https://open.spotify.com/track/3G8XMxse6i7UANaT9GT0jg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AL\u00d3",
+        "url": "https://open.spotify.com/album/3qUJJlinoiociQmSFKhRbx"
+      },
+      "artists": [
+        {
+          "name": "Angela Torres",
+          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "AL\u00d3",
+      "url": "https://open.spotify.com/track/6w8Wm9LJmgGDJ4dK7SkLwo"
     },
     {
       "added_at": null,

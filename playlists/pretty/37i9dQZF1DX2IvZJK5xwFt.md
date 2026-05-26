@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2IvZJK5xwFt.md) - [plain]
 
 ### [Just Rock!](https://open.spotify.com/playlist/37i9dQZF1DX2IvZJK5xwFt)
 
-> Only the best rock in the world\. Cover: Linkin Park
+> Only the best rock in the world\. Cover: Måneskin
 
-[Spotify](https://open.spotify.com/user/spotify) - 215,594 likes - 75 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 215,621 likes - 75 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2IvZJK5xwFt.md) - [plain]
 | 74 | [Running Up That Hill](https://open.spotify.com/track/2jg7LvBk23JEwUNSkemL1I) | [Bobby Amaru](https://open.spotify.com/artist/34PG4GDHF9s9LxgaMKiIVk), [Veda](https://open.spotify.com/artist/19kItlJC4xbvwxqEjrwMZr), [Saliva](https://open.spotify.com/artist/5S6hjAxgxjsLylsTtMIimO), [Judge & Jury](https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB) | [Running Up That Hill](https://open.spotify.com/album/5c18gnE5jNZH4nB9IafiJ1) | 3:36 |
 | 75 | [Big Dog](https://open.spotify.com/track/1tj4Kq6N4WKmO04hlI4LzX) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Big Dog](https://open.spotify.com/album/1k79RlHZDI58FbHus50Jz1) | 2:59 |
 
-Snapshot ID: `AAAAAEi1hwnaBUlBpDEBHyrUwJKdYlO5`
+Snapshot ID: `AAAAABLwFBWytKwmhCpSwZ7Z1sT5z1Mn`

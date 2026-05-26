@@ -1,12 +1,12 @@
 {
   "description": "This is Christina Aguilera. The essential tracks, all in one playlist.",
-  "num_followers": 278446,
+  "num_followers": 278454,
   "original_name": "This Is Christina Aguilera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahDuAAAAAACLrAum/1WpOMVLt7CN1ovY",
+  "snapshot_id": "ahI/gAAAAAA/oa+mv2GExtPpoeKH8iE6",
   "tracks": [
     {
       "added_at": null,
@@ -959,22 +959,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Get Down: Original Soundtrack From The Netflix Original Series (Deluxe Version)",
-        "url": "https://open.spotify.com/album/7ezeSBh9E63ijDAxn8Ke4P"
+        "name": "El Mejor Guerrero (De \"Mul\u00e1n\")",
+        "url": "https://open.spotify.com/album/4HyRb7YrqhfdFrxVzxjG7F"
       },
       "artists": [
         {
           "name": "Christina Aguilera",
           "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        },
-        {
-          "name": "Nile Rodgers",
-          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
         }
       ],
-      "duration_ms": 191933,
-      "name": "Telepathy (feat. Nile Rodgers)",
-      "url": "https://open.spotify.com/track/5vY0eZdiJSgEkIJN96y4MN"
+      "duration_ms": 163280,
+      "name": "El Mejor Guerrero - De \"Mul\u00e1n\"",
+      "url": "https://open.spotify.com/track/3HPX9a7oh0dvdokOUp85cL"
     }
   ],
   "unique_name": "This Is Christina Aguilera",

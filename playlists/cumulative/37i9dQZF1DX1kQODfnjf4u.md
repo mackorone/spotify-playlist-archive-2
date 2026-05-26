@@ -2,9 +2,9 @@
 
 ### [Hot Hits Česká republika](https://open.spotify.com/playlist/37i9dQZF1DX1kQODfnjf4u)
 
-> 50 nejžhavějších hitů v České republice\. Cover: Ewa Farna
+> 50 nejžhavějších hitů v České republice\. Cover: Victor Kal., juli koli
 
-225 songs - 10 hr 58 min
+226 songs - 11 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Drž Píču](https://open.spotify.com/track/2ZzfGLEbvSDoNEomyZqKvV) | [G1nter](https://open.spotify.com/artist/34VKnmbZyMrLr4Mwd13kOa) | [Drž Píču](https://open.spotify.com/album/5NlYE3vpzXpqKpLZ0bDeZm) | 1:58 | 2025-06-23 | 2025-06-25 |
 | [DTB for Life](https://open.spotify.com/track/0uqziJ0jXgIl13movC27ut) | [STEIN27](https://open.spotify.com/artist/2A3rmRL2kja5NoroAGdZPb) | [PRESIDENT OF SEXICO](https://open.spotify.com/album/3nkaxDNhc38JqBWqvHQACD) | 2:31 | 2024-07-01 | 2024-07-23 |
 | [DtMF](https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:57 | 2025-01-20 | 2025-02-11 |
+| [dva redbully](https://open.spotify.com/track/6QHcEvmMbexKDKwLGZJxry) | [Victor Kal.](https://open.spotify.com/artist/7tLaenA4I2OWx0FUaMo5in), [juli koli](https://open.spotify.com/artist/3F4MshW2XrEex8rNOrrU4w) | [dva redbully](https://open.spotify.com/album/1PvsDrVAanQ9LB3hjPG4DT) | 2:24 | 2026-05-25 |  |
 | [Elizabeth Taylor](https://open.spotify.com/track/1jgTiNob5cVyXeJ3WgX5bL) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 3:28 | 2025-10-06 | 2025-10-28 |
 | [End of Beginning](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:39 | 2024-07-01 |  |
 | [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 | 2024-07-01 | 2025-02-04 |
@@ -97,7 +98,7 @@
 | [i like the way you kiss me](https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [i like the way you kiss me](https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z) | 2:22 | 2024-07-01 | 2025-05-20 |
 | [Ice Baby Melt](https://open.spotify.com/track/2uXWBou22TwQ2O40B5dTm5) | [Loudz1](https://open.spotify.com/artist/2tYKs5FOsdGeRqjBkIDCiX), [Yzomandias](https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk) | [TOO LOUD](https://open.spotify.com/album/1QVYseairX2FD9USXcU0go) | 2:56 | 2025-02-10 | 2025-04-01 |
 | [Iné Plemená](https://open.spotify.com/track/0Bb5TRJzYDMOswry6GKDSr) | [Sara Rikas](https://open.spotify.com/artist/4TwaN115hEDGfkAtJG0USo), [Viktor Sheen](https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i) | [Iné Plemená](https://open.spotify.com/album/4Qbvqfwp9frD49exTkomCV) | 3:08 | 2024-12-16 | 2026-03-03 |
-| [Jak Robot](https://open.spotify.com/track/4QYBPf22ldsJoz2CObRU1H) | [GUFRAU](https://open.spotify.com/artist/0WpBMqO4ai8W3rh3ffW14Q), [Victor Kal.](https://open.spotify.com/artist/7tLaenA4I2OWx0FUaMo5in), [SIMILIVINLIFE](https://open.spotify.com/artist/1jHpBumJuu1B6LCJQVh49x) | [BOYBAND](https://open.spotify.com/album/1Pi6O60mJM4AWNhjShvdvB) | 2:26 | 2026-01-13 |  |
+| [Jak Robot](https://open.spotify.com/track/4QYBPf22ldsJoz2CObRU1H) | [GUFRAU](https://open.spotify.com/artist/0WpBMqO4ai8W3rh3ffW14Q), [Victor Kal.](https://open.spotify.com/artist/7tLaenA4I2OWx0FUaMo5in), [SIMILIVINLIFE](https://open.spotify.com/artist/1jHpBumJuu1B6LCJQVh49x) | [BOYBAND](https://open.spotify.com/album/1Pi6O60mJM4AWNhjShvdvB) | 2:26 | 2026-01-13 | 2026-05-26 |
 | [Jazda](https://open.spotify.com/track/6k0dWRI6L1sUxPwIcZH01F) | [CA$HANOVA BULHAR](https://open.spotify.com/artist/3aBiDlzy0xIlHfbHAWYton), [Calin](https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd) | [SWAG SIDE STORY](https://open.spotify.com/album/5u0q9Bie9brMl3dCdehhnt) | 2:35 | 2024-10-28 | 2024-12-17 |
 | [Jenom ať nesním.\. \(feat\. Calin\)](https://open.spotify.com/track/1xqRQAe2Gic8HJgg6uGKO2) | [KOJO](https://open.spotify.com/artist/0edxmbwC1I57fIyRCuz2FY), [Calin](https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd) | [blue.](https://open.spotify.com/album/21WNqI8VHCWS5vA8cJg7YU) | 2:32 | 2025-03-31 | 2025-09-11 |
 | [Just Keep Watching \(From F1® The Movie\)](https://open.spotify.com/track/2yWlGEgEfPot0lv3OAjuG3) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [Just Keep Watching \(From F1® The Movie\)](https://open.spotify.com/album/5aWEjuULckx3nnpAM9w6gY) | 2:22 | 2025-07-07 | 2026-04-21 |

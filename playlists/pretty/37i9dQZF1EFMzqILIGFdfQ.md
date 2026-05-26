@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMzqILIGFdfQ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6usZxRd8e7TQwcksnohR1U">Denisia "Blu June" Andrews</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,042 likes - 121 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,043 likes - 121 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -130,4 +130,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMzqILIGFdfQ.md) - [plain]
 | 120 | [Tattoo \(feat\. Jeremih\)](https://open.spotify.com/track/2A6ToOoGwznmWMhTM64Gud) | [Gillie Da Kid](https://open.spotify.com/artist/467NioAq9fvSiEnANCOGzE), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Welcome To Gilladelphia](https://open.spotify.com/album/0AH03qFsdih3raMGNMEpF2) | 3:36 |
 | 121 | [Afterparty](https://open.spotify.com/track/0ZeD7U7TTQECHW8bU3l0WM) | [chi](https://open.spotify.com/artist/0ObIepMcBwVZRtJUniGKiW) | [I've Seen The Lizard People](https://open.spotify.com/album/3T1lBPGKa3vEt2hIqrfzAf) | 2:16 |
 
-Snapshot ID: `AcSYsAAAAADD8/3elOvcR69OLinVq57b`
+Snapshot ID: `AcSeUAAAAADGVgJ66G8oorXGYPLoW8OM`

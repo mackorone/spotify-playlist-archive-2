@@ -2,16 +2,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyonhntyFxW.md) - [plain]
 
 ### [ملوك السين](https://open.spotify.com/playlist/37i9dQZF1DWZyonhntyFxW)
 
-> أقوى تراكات الهيب هوب في مصر\. الغلاف: ليجي\-سي
+> أقوى تراكات الهيب هوب في مصر\. الغلاف: موند
 
-[Spotify](https://open.spotify.com/user/spotify) - 423,185 likes - 40 songs - 1 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 423,316 likes - 40 songs - 1 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [MAFHOOM](https://open.spotify.com/track/0ncJHVZ8L6MAYJPAkA5bYk) | [Omar Keif](https://open.spotify.com/artist/2sc7PVTWRHueOWkvt4cxEf), [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [MAFHOOM](https://open.spotify.com/album/3ChfQ5spwL55P2xEKkhWsK) | 2:54 |
-| 2 | [Do](https://open.spotify.com/track/59548fTGuQyKSryFEOCnON) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [Do](https://open.spotify.com/album/7qkbB0Bcn6yzBt8fEcrfEE) | 3:27 |
-| 3 | [TRIP](https://open.spotify.com/track/0cqalBJaHnliD9jONcyplZ) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [TRIP](https://open.spotify.com/album/4E7Am2jijRKNoIa34cXgrp) | 2:21 |
-| 4 | [DENYA](https://open.spotify.com/track/4TlpHDwcmq6aCZhRVzHXDi) | [Mond](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ) | [DENYA](https://open.spotify.com/album/1t4vC8tZK7qnnFGfCN0iyA) | 2:52 |
+| 1 | [DENYA](https://open.spotify.com/track/4TlpHDwcmq6aCZhRVzHXDi) | [Mond](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ) | [DENYA](https://open.spotify.com/album/1t4vC8tZK7qnnFGfCN0iyA) | 2:52 |
+| 2 | [MAFHOOM](https://open.spotify.com/track/0ncJHVZ8L6MAYJPAkA5bYk) | [Omar Keif](https://open.spotify.com/artist/2sc7PVTWRHueOWkvt4cxEf), [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [MAFHOOM](https://open.spotify.com/album/3ChfQ5spwL55P2xEKkhWsK) | 2:54 |
+| 3 | [Do](https://open.spotify.com/track/59548fTGuQyKSryFEOCnON) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [Do](https://open.spotify.com/album/7qkbB0Bcn6yzBt8fEcrfEE) | 3:27 |
+| 4 | [TRIP](https://open.spotify.com/track/0cqalBJaHnliD9jONcyplZ) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [TRIP](https://open.spotify.com/album/4E7Am2jijRKNoIa34cXgrp) | 2:21 |
 | 5 | [Hara](https://open.spotify.com/track/7ub5fhbNNWur3SiI9d7JUI) | [Double Zuksh](https://open.spotify.com/artist/02T4vKIGje48LHpXmJoEwo), [ONUY](https://open.spotify.com/artist/33Dgas4QUk9jjh2TnolVwj), [ELKVP](https://open.spotify.com/artist/29LG4T58zgrsL4DD9BeABK) | [Hara](https://open.spotify.com/album/6WnlpolsQvUORW7LK64LTP) | 3:01 |
 | 6 | [BANATY](https://open.spotify.com/track/2MwSGlOF7IyO08qtGpSbTg) | [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM), [Omar Keif](https://open.spotify.com/artist/2sc7PVTWRHueOWkvt4cxEf) | [BANATY](https://open.spotify.com/album/4X6VG09XMAHdEy7Gj8fYql) | 1:57 |
 | 7 | [حكمدار](https://open.spotify.com/track/1nlHa661UVhIjfRAGymizV) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [٥ نظام](https://open.spotify.com/album/5AgqAqDuJ5dn6dlDD9oaax) | 2:12 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyonhntyFxW.md) - [plain]
 | 39 | [ع الأبيض \- 3L Abyad](https://open.spotify.com/track/70mx55jeb49jYJkjVbNR6W) | [Karim Osama](https://open.spotify.com/artist/4bQtsYtDirwKccFyRXzwUW), [Sulisizer](https://open.spotify.com/artist/5bih06rDRtnqB7v5S8MTSE) | [كي.أوه \(K.O\)](https://open.spotify.com/album/6E0BK1AIxnuZ24E8bOrhkg) | 3:32 |
 | 40 | [Wala Yehemak](https://open.spotify.com/track/7FeflOB46MGCh7Wzj1JuOW) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [6 Shohour](https://open.spotify.com/album/06wzYMLZWW2AawVYKlPkcz) | 1:58 |
 
-Snapshot ID: `AAAAAPH6aLw1sccNQ2OuOm7yGi2JLxQi`
+Snapshot ID: `AAAAAPW18Ys/JIRGipkApNOWiODbr9ar`

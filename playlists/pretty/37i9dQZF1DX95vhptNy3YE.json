@@ -1,6 +1,6 @@
 {
   "description": "Budah, AJULLIACOSTA, Franco, the Sir! e mais artistas da cultura preta brasileira, puxando o bonde pra geral ganhar o mund\u00e3o.",
-  "num_followers": 443010,
+  "num_followers": 442986,
   "original_name": "AMPLIFIKA",
   "owner": {
     "name": "Spotify",
@@ -575,6 +575,22 @@
     {
       "added_at": "2026-05-22 14:21:43",
       "album": {
+        "name": "Louco por voc\u00ea",
+        "url": "https://open.spotify.com/album/5AW92qkCXvj8lnkDMrzp19"
+      },
+      "artists": [
+        {
+          "name": "Cael Gomess",
+          "url": "https://open.spotify.com/artist/0VBhVrJk4DmO5k6di83coh"
+        }
+      ],
+      "duration_ms": 189178,
+      "name": "Louco por voc\u00ea",
+      "url": "https://open.spotify.com/track/7Dz7HqscJ0SnPV06jyVF52"
+    },
+    {
+      "added_at": "2026-05-22 14:21:43",
+      "album": {
         "name": "DOIS Quebrada Inteligente",
         "url": "https://open.spotify.com/album/00pkLBvnhBT2avjAwmcSwY"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 221706,
       "name": "Pente 270!",
       "url": "https://open.spotify.com/track/2j7pQPTsRj2k3XFU6Vkb8g"
-    },
-    {
-      "added_at": "2026-05-22 14:21:43",
-      "album": {
-        "name": "Louco por voc\u00ea",
-        "url": "https://open.spotify.com/album/5AW92qkCXvj8lnkDMrzp19"
-      },
-      "artists": [
-        {
-          "name": "Cael Gomess",
-          "url": "https://open.spotify.com/artist/0VBhVrJk4DmO5k6di83coh"
-        }
-      ],
-      "duration_ms": 189178,
-      "name": "Louco por voc\u00ea",
-      "url": "https://open.spotify.com/track/7Dz7HqscJ0SnPV06jyVF52"
     },
     {
       "added_at": "2026-05-22 14:21:43",

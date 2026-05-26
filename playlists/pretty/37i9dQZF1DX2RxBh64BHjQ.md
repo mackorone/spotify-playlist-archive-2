@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:0SL3lfuoRP67mrvkdnwIMA">slayr</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,731,342 likes - 100 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,731,374 likes - 100 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 9 | [Bitch You Weird](https://open.spotify.com/track/73csCra2J1nVwjnoKOLMeX) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi) | [Bitch You Weird](https://open.spotify.com/album/3vH1WsxMDci9qU3wmHwmQw) | 2:27 |
 | 10 | [No Trick \(feat\. Trim\)](https://open.spotify.com/track/10675f8RVNLuoz4cp2Jpc2) | [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz), [Trim](https://open.spotify.com/artist/1xkEwol8vsfO4m2WP8Dyk9) | [No Trick \(feat\. Trim\)](https://open.spotify.com/album/2Ef9wMwtKu70uEH2MUQDec) | 2:03 |
 | 11 | [Max Payne](https://open.spotify.com/track/4wcB0hfse716EJV75lx0ja) | [Enphamus](https://open.spotify.com/artist/1YuG9W2X7E1yLwM0qDeGUb), [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [Max Payne](https://open.spotify.com/album/5vNus37H5UHv6JqNgSnVdc) | 2:23 |
-| 12 | [Night , Blooming Jasmine .](https://open.spotify.com/track/4WKUmjoUeYkzyoEvTbiVdW) | [fakemink](https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi) | [Night , Blooming Jasmine .](https://open.spotify.com/album/5bajUbQGZ7f98jo1gfX0hc) | 2:58 |
-| 13 | [Da Problem Solva](https://open.spotify.com/track/6dXdZKMIWP78xQg2aMl89C) | [Thirteendegrees °](https://open.spotify.com/artist/2fZrEBAl5NNZCCl3KUOYsi) | [Clique City Vol\. 2](https://open.spotify.com/album/4StdrWDWy5MZRIjTl4Mtsm) | 2:20 |
+| 12 | [Da Problem Solva](https://open.spotify.com/track/6dXdZKMIWP78xQg2aMl89C) | [Thirteendegrees °](https://open.spotify.com/artist/2fZrEBAl5NNZCCl3KUOYsi) | [Clique City Vol\. 2](https://open.spotify.com/album/4StdrWDWy5MZRIjTl4Mtsm) | 2:20 |
+| 13 | [Like A Virgin](https://open.spotify.com/track/3zSLxRr6oagNkmKINPW3uu) | [fakemink](https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi) | [Terrified .](https://open.spotify.com/album/1Uwd64LlYKeBEVpZ4civSQ) | 2:34 |
 | 14 | [30 Days](https://open.spotify.com/track/4xC2eq5lA0CzDFZH7yk3Um) | [Raq baby](https://open.spotify.com/artist/2MEiPjmRDl1ftTEaBD3B7D) | [30 Days](https://open.spotify.com/album/4uWXP3dsrs3ipaZoP4ZP2b) | 2:16 |
 | 15 | [I Wanna Rock](https://open.spotify.com/track/6PetGqmYmxytj5TfEvHO5k) | [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [I Wanna Rock](https://open.spotify.com/album/5RvJlNjUyH6D7DEdbFjI1z) | 3:44 |
 | 16 | [Barbie Doll](https://open.spotify.com/track/21fyLmQranpgyoYHMMCIuq) | [Hurricane Wisdom](https://open.spotify.com/artist/4PooHx6BstbetDtBMrLyV7), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Barbie Doll](https://open.spotify.com/album/147rc4OmHtzzTxLObTAx15) | 2:46 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 99 | [Bout My Money \(feat\. Bossman Dlow\)](https://open.spotify.com/track/4HzMo8F6xAYOZGYy72CUjX) | [OT7 Quanny](https://open.spotify.com/artist/3dHnXBJdd4O9KXwP1kxF6L), [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc) | [Bout My Money \(feat\. Bossman Dlow\)](https://open.spotify.com/album/06hD4ATITFcIPIrwwGboAi) | 3:11 |
 | 100 | [WHIM WHAMIEE](https://open.spotify.com/track/4eULTkHVLAhn5J5DOSNbdP) | [PLUTO](https://open.spotify.com/artist/4uqHgaeBynLBQgfhMEIm1G), [YKNIECE](https://open.spotify.com/artist/0W1zQBUWnDofTkc0APdaog) | [WHIM WHAMIEE](https://open.spotify.com/album/0cU7tn9mTCW4cDQWsxrbWO) | 2:21 |
 
-Snapshot ID: `AAAAAL+btjKUR3X6q42UJAJPOs1JkZMF`
+Snapshot ID: `AAAAAJsJSGhEGuFpl1jYRswe6ffV1IXy`

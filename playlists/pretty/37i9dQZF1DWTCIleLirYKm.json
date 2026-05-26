@@ -1,6 +1,6 @@
 {
   "description": "a state of mind. Cover: Ryan Bingham",
-  "num_followers": 217604,
+  "num_followers": 217747,
   "original_name": "Outlaw ",
   "owner": {
     "name": "Spotify",
@@ -279,22 +279,6 @@
     {
       "added_at": "2026-05-15 04:01:27",
       "album": {
-        "name": "Sellout",
-        "url": "https://open.spotify.com/album/5lbVCoz3kk3ITB6BRBfBMy"
-      },
-      "artists": [
-        {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
-        }
-      ],
-      "duration_ms": 238211,
-      "name": "Drunk Driving",
-      "url": "https://open.spotify.com/track/3ERb3f5nGNwRcNLNoN3KRg"
-    },
-    {
-      "added_at": "2026-05-15 04:01:27",
-      "album": {
         "name": "Top Hat Crown & the Clapmaster's Son",
         "url": "https://open.spotify.com/album/0JGmK6gTeDeca4ijGPEUaf"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 319227,
       "name": "Hurricane",
       "url": "https://open.spotify.com/track/3s5NrHgyTkuinl0TgHCHeK"
+    },
+    {
+      "added_at": "2026-05-15 04:01:27",
+      "album": {
+        "name": "Sellout",
+        "url": "https://open.spotify.com/album/5lbVCoz3kk3ITB6BRBfBMy"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "duration_ms": 238211,
+      "name": "Drunk Driving",
+      "url": "https://open.spotify.com/track/3ERb3f5nGNwRcNLNoN3KRg"
     },
     {
       "added_at": "2026-05-15 04:01:27",
@@ -491,22 +491,6 @@
     {
       "added_at": "2026-05-15 04:01:27",
       "album": {
-        "name": "Good Godly Woman",
-        "url": "https://open.spotify.com/album/7iYaPN9HmhLoEPCnptvOfw"
-      },
-      "artists": [
-        {
-          "name": "The Red Clay Strays",
-          "url": "https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ"
-        }
-      ],
-      "duration_ms": 147598,
-      "name": "Good Godly Woman",
-      "url": "https://open.spotify.com/track/6GWMddXRoGtOQRMwxItviV"
-    },
-    {
-      "added_at": "2026-05-15 04:01:27",
-      "album": {
         "name": "Shotgun Willie",
         "url": "https://open.spotify.com/album/6ja7Fceq3F7Igb2DrLKN6y"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 247239,
       "name": "Whiskey River",
       "url": "https://open.spotify.com/track/6gS6XQ4OqMddkgzHNz40E5"
+    },
+    {
+      "added_at": "2026-05-15 04:01:27",
+      "album": {
+        "name": "Good Godly Woman",
+        "url": "https://open.spotify.com/album/7iYaPN9HmhLoEPCnptvOfw"
+      },
+      "artists": [
+        {
+          "name": "The Red Clay Strays",
+          "url": "https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ"
+        }
+      ],
+      "duration_ms": 147598,
+      "name": "Good Godly Woman",
+      "url": "https://open.spotify.com/track/6GWMddXRoGtOQRMwxItviV"
     },
     {
       "added_at": "2026-05-15 04:01:27",
@@ -1075,18 +1075,18 @@
     {
       "added_at": "2026-05-15 04:01:27",
       "album": {
-        "name": "Metamodern Sounds in Country Music",
-        "url": "https://open.spotify.com/album/4makbOuLd5SUdyHMaNM1Ag"
+        "name": "Them Dirty Roses",
+        "url": "https://open.spotify.com/album/0PqJlFAxw4V4sz3rEqUOQj"
       },
       "artists": [
         {
-          "name": "Sturgill Simpson",
-          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
+          "name": "Them Dirty Roses",
+          "url": "https://open.spotify.com/artist/6n9Ciz68f2aZF98RAdshe6"
         }
       ],
-      "duration_ms": 241320,
-      "name": "Long White Line",
-      "url": "https://open.spotify.com/track/40Xg69oisdpuP4C7xl3RkK"
+      "duration_ms": 240744,
+      "name": "Whiskey in My Cup",
+      "url": "https://open.spotify.com/track/5GszBUwWj4j942qzkIwQ2R"
     },
     {
       "added_at": "2026-05-15 04:01:27",
@@ -1123,18 +1123,18 @@
     {
       "added_at": "2026-05-15 04:01:27",
       "album": {
-        "name": "Them Dirty Roses",
-        "url": "https://open.spotify.com/album/0PqJlFAxw4V4sz3rEqUOQj"
+        "name": "Metamodern Sounds in Country Music",
+        "url": "https://open.spotify.com/album/4makbOuLd5SUdyHMaNM1Ag"
       },
       "artists": [
         {
-          "name": "Them Dirty Roses",
-          "url": "https://open.spotify.com/artist/6n9Ciz68f2aZF98RAdshe6"
+          "name": "Sturgill Simpson",
+          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
         }
       ],
-      "duration_ms": 240744,
-      "name": "Whiskey in My Cup",
-      "url": "https://open.spotify.com/track/5GszBUwWj4j942qzkIwQ2R"
+      "duration_ms": 241320,
+      "name": "Long White Line",
+      "url": "https://open.spotify.com/track/40Xg69oisdpuP4C7xl3RkK"
     },
     {
       "added_at": "2026-05-15 04:01:27",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2026-05-15 04:01:27",
       "album": {
-        "name": "High Top Mountain",
-        "url": "https://open.spotify.com/album/59ElPFKCqmH5nLRdWjyopf"
-      },
-      "artists": [
-        {
-          "name": "Sturgill Simpson",
-          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
-        }
-      ],
-      "duration_ms": 126466,
-      "name": "Life Ain't Fair and the World Is Mean",
-      "url": "https://open.spotify.com/track/3M97fwKZfzvQ8xppMoQ7a0"
-    },
-    {
-      "added_at": "2026-05-15 04:01:27",
-      "album": {
         "name": "Little Victories",
         "url": "https://open.spotify.com/album/2AQojGjLHM5zPgq9O5RpAQ"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 214253,
       "name": "Nothing On Me",
       "url": "https://open.spotify.com/track/3FHzMLL7hgeGdzLf6J6ajS"
+    },
+    {
+      "added_at": "2026-05-15 04:01:27",
+      "album": {
+        "name": "High Top Mountain",
+        "url": "https://open.spotify.com/album/59ElPFKCqmH5nLRdWjyopf"
+      },
+      "artists": [
+        {
+          "name": "Sturgill Simpson",
+          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
+        }
+      ],
+      "duration_ms": 126466,
+      "name": "Life Ain't Fair and the World Is Mean",
+      "url": "https://open.spotify.com/track/3M97fwKZfzvQ8xppMoQ7a0"
     },
     {
       "added_at": "2026-05-15 04:01:27",

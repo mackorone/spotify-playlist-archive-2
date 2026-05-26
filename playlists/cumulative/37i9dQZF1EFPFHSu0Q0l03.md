@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4Zbqt8mPfYuL4tGBq13sFT">Aaron Dessner</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-307 songs - 20 hr 18 min
+308 songs - 20 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,8 @@
 | [Cedar](https://open.spotify.com/track/479UZI7rBJRJwqB0UZyZ57) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Buccaneers: Season 1 \(Apple TV+ Original Series Soundtrack\)](https://open.spotify.com/album/0oYAtqsEaHuICtq1vwe8QZ) | 4:12 | 2024-04-25 |  |
 | [Change the Locks](https://open.spotify.com/track/1fgMGkGIzpjpwsqp85FDJP) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Hold On Baby](https://open.spotify.com/album/3Q998ztjKK3ybjToj0QL9c) | 4:29 | 2024-04-25 |  |
 | [Chloe or Sam or Sophia or Marcus](https://open.spotify.com/track/68LzKAXycMqT5FxhFsBf0Q) | [Ana Done](https://open.spotify.com/artist/6anugGmqslouP9IJwime7k) | [The Tortured Poets Department: The Anthology \(The Tortured Violinist Versions\)](https://open.spotify.com/album/1VF7h22wAbrpD5gpxh4Deu) | 3:33 | 2026-03-24 | 2026-05-16 |
-| [chloe or sam or sophia or marcus](https://open.spotify.com/track/0clFjz8fA9NgdouqFcuEus) | [louisette](https://open.spotify.com/artist/4sSXVgtPvhoAk6vZs7bJUk) | [the tortured poets department: the anthology, but synthwave](https://open.spotify.com/album/505mGBmSBB2gMf8yT547z7) | 2:12 | 2026-05-15 |  |
+| [chloe or sam or sophia or marcus](https://open.spotify.com/track/0clFjz8fA9NgdouqFcuEus) | [louisette](https://open.spotify.com/artist/4sSXVgtPvhoAk6vZs7bJUk) | [the tortured poets department: the anthology, but synthwave](https://open.spotify.com/album/505mGBmSBB2gMf8yT547z7) | 2:12 | 2026-05-15 | 2026-05-26 |
+| [Chloe or Sam or Sophia or Marcus](https://open.spotify.com/track/1rmEsOezwf2lmIZTMAO5Ag) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY](https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb) | 3:33 | 2026-05-25 |  |
 | [Clara Bow](https://open.spotify.com/track/1UlhrRvYzbHEyugEDspXUB) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 3:36 | 2024-05-04 |  |
 | [Close My Eyes](https://open.spotify.com/track/7bRRL2a7z2QvFtUUOIgXsz) | [Kelvin Harrison Jr.](https://open.spotify.com/artist/3Na7zsSOhsFVx9LXrvNNbK), [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0), [Sam Amidon](https://open.spotify.com/artist/6TTJ0xLPPNDyv4bXyukzU4), [Bryce Dessner](https://open.spotify.com/artist/5HHKeO04SOcxUxjruFXf5l), [Aaron Dessner](https://open.spotify.com/artist/2hSyEBc9TBb9j38FOCdkIf), [London Contemporary Orchestra](https://open.spotify.com/artist/1Uw2tN8RWQAKO3jtsqIJ8M) | [Cyrano \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7tK3QDXwCcgMl2bbgaZQD0) | 4:03 | 2024-04-25 |  |
 | [closure](https://open.spotify.com/track/3uayvzcbqFydIbgUeC6EJh) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [evermore](https://open.spotify.com/album/5jmVg7rwRcgd6ARPAeYNSm) | 3:00 | 2024-04-25 |  |

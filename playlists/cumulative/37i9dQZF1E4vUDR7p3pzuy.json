@@ -610,7 +610,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-25",
+      "date_removed": null,
       "duration_ms": 280798,
       "name": "Angel of Your Love",
       "url": "https://open.spotify.com/track/4p3n8QcFSSeyGFwvHIM2ph"
@@ -2396,7 +2396,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-14",
+      "date_removed": null,
       "duration_ms": 221679,
       "name": "contact",
       "url": "https://open.spotify.com/track/4huCxiN2GsEG6mY6yb73ih"
@@ -3646,7 +3646,7 @@
       ],
       "date_added": "2026-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 181615,
       "name": "Elixir - Cattac Remix",
       "url": "https://open.spotify.com/track/6V5btMqRC9NZVca9rn0ui5"
@@ -3664,7 +3664,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-25",
+      "date_removed": null,
       "duration_ms": 252461,
       "name": "Embers Are My Crown",
       "url": "https://open.spotify.com/track/21NMXyzPTTR5SQAMLzGqgL"
@@ -4046,7 +4046,7 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-18",
+      "date_removed": null,
       "duration_ms": 132250,
       "name": "Fear Of extinction",
       "url": "https://open.spotify.com/track/2HF3Ro2XlnqP1S5iFzxSQd"
@@ -4396,7 +4396,7 @@
       ],
       "date_added": "2026-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 260350,
       "name": "Forget",
       "url": "https://open.spotify.com/track/3CwcpO8SpJASl6l8hZfyAT"
@@ -4454,7 +4454,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 216032,
       "name": "Friday Escape",
       "url": "https://open.spotify.com/track/5OBnjLijavtXpnzEQKbYxL"
@@ -5730,7 +5730,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-25",
+      "date_removed": null,
       "duration_ms": 281500,
       "name": "I'm made for more",
       "url": "https://open.spotify.com/track/43qb7qNNuxjUq6Kq0APvcR"
@@ -5770,6 +5770,24 @@
       "duration_ms": 243840,
       "name": "If it isn't about YOU",
       "url": "https://open.spotify.com/track/1vqNhV7zSbbOFqqCzHT4pS"
+    },
+    {
+      "album": {
+        "name": "La Mordre",
+        "url": "https://open.spotify.com/album/1aJbiI5aXM95jXn30E2t3J"
+      },
+      "artists": [
+        {
+          "name": "SINE",
+          "url": "https://open.spotify.com/artist/5DKXx9g0oHUOY2ziWL42Pa"
+        }
+      ],
+      "date_added": "2026-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251373,
+      "name": "Immortal Disco",
+      "url": "https://open.spotify.com/track/6RCyip4C9g6Rl4x5eh7QSx"
     },
     {
       "album": {
@@ -6202,7 +6220,7 @@
       ],
       "date_added": "2026-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 210633,
       "name": "Juniper",
       "url": "https://open.spotify.com/track/5e7N4B0qgt1ZHPbE33mBP2"
@@ -6430,7 +6448,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 145320,
       "name": "Knocking Down Your Door",
       "url": "https://open.spotify.com/track/6Owpl9p8gD5N1EetFIGziX"
@@ -8418,7 +8436,7 @@
       ],
       "date_added": "2026-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 222560,
       "name": "Pacific City",
       "url": "https://open.spotify.com/track/7FwdrtJQammXYwsJcr0LdQ"
@@ -8758,7 +8776,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-22",
+      "date_removed": null,
       "duration_ms": 224396,
       "name": "Pretty When You Cry",
       "url": "https://open.spotify.com/track/5E8ycUXvH9SRjUFvln1Xly"
@@ -8812,7 +8830,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-25",
+      "date_removed": null,
       "duration_ms": 293931,
       "name": "Promise to Love You",
       "url": "https://open.spotify.com/track/7KF7eQ84C52Jid7Olt3FtI"
@@ -9224,7 +9242,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-12",
+      "date_removed": null,
       "duration_ms": 186549,
       "name": "Robey Ven",
       "url": "https://open.spotify.com/track/242Lof3nt3f8rFgauer135"
@@ -9838,7 +9856,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-23",
+      "date_removed": null,
       "duration_ms": 254200,
       "name": "Shadows",
       "url": "https://open.spotify.com/track/4y4amdocGo2Qs523vf8EGs"
@@ -10546,7 +10564,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 210202,
       "name": "Spellbound",
       "url": "https://open.spotify.com/track/0xClyT50QEG0EwFYsg2xds"
@@ -10658,7 +10676,7 @@
       ],
       "date_added": "2026-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 202875,
       "name": "Stay Golden",
       "url": "https://open.spotify.com/track/5Pjcc8Mt7JaKzARXjYNIUH"
@@ -11324,7 +11342,7 @@
       ],
       "date_added": "2026-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 343461,
       "name": "The Becoming",
       "url": "https://open.spotify.com/track/0bE2LFEgksd5KwAWvLnFuu"
@@ -11684,7 +11702,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 208703,
       "name": "The Long Drive",
       "url": "https://open.spotify.com/track/0ViZJbt9VJiWMX6WDFIJsb"
@@ -12218,7 +12236,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 206857,
       "name": "Through the Glass",
       "url": "https://open.spotify.com/track/4YAJwhrDUeu9PPohOU3Z6D"
@@ -13464,7 +13482,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-25",
+      "date_removed": null,
       "duration_ms": 171000,
       "name": "When You're Down",
       "url": "https://open.spotify.com/track/35eCarWbCxKpJD3im0JO65"

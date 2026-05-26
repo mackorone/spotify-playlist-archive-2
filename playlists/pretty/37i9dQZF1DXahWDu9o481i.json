@@ -1,6 +1,6 @@
 {
   "description": "The best new songs of the month, handpicked by Spotify editors. Cover: Momo Boyd",
-  "num_followers": 96682,
+  "num_followers": 96679,
   "original_name": "Editors' Picks: Best Songs of April",
   "owner": {
     "name": "Spotify",
@@ -171,6 +171,22 @@
     {
       "added_at": "2026-05-01 04:00:10",
       "album": {
+        "name": "CULE POCO (sirena_besarico_coste\u00f1a)",
+        "url": "https://open.spotify.com/album/2AjV3IQ9rioKsjNPW2JiPC"
+      },
+      "artists": [
+        {
+          "name": "ARIA VEGA",
+          "url": "https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X"
+        }
+      ],
+      "duration_ms": 140461,
+      "name": "CULE POCO (sirena_besarico_coste\u00f1a)",
+      "url": "https://open.spotify.com/track/3j0avHj4G5EPk6sCCj8NdQ"
+    },
+    {
+      "added_at": "2026-05-01 04:00:10",
+      "album": {
         "name": "Kehlani",
         "url": "https://open.spotify.com/album/2xkYTmqjear3lSGydIn7wh"
       },
@@ -187,22 +203,6 @@
       "duration_ms": 241927,
       "name": "Anotha Luva (feat. Lil Wayne)",
       "url": "https://open.spotify.com/track/1LCiGi699HYk4nznLRQovN"
-    },
-    {
-      "added_at": "2026-05-01 04:00:10",
-      "album": {
-        "name": "CULE POCO (sirena_besarico_coste\u00f1a)",
-        "url": "https://open.spotify.com/album/2AjV3IQ9rioKsjNPW2JiPC"
-      },
-      "artists": [
-        {
-          "name": "ARIA VEGA",
-          "url": "https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X"
-        }
-      ],
-      "duration_ms": 140461,
-      "name": "CULE POCO (sirena_besarico_coste\u00f1a)",
-      "url": "https://open.spotify.com/track/3j0avHj4G5EPk6sCCj8NdQ"
     },
     {
       "added_at": "2026-05-01 04:00:10",
@@ -395,22 +395,6 @@
     {
       "added_at": "2026-05-01 04:00:10",
       "album": {
-        "name": "babygirl",
-        "url": "https://open.spotify.com/album/31CPIp0vMvr5UNB0xvnMiL"
-      },
-      "artists": [
-        {
-          "name": "JPEGMAFIA",
-          "url": "https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO"
-        }
-      ],
-      "duration_ms": 147491,
-      "name": "babygirl",
-      "url": "https://open.spotify.com/track/5ouETFDqJv0SQMzwKlQLlP"
-    },
-    {
-      "added_at": "2026-05-01 04:00:10",
-      "album": {
         "name": "Nine Inch Noize",
         "url": "https://open.spotify.com/album/7lcpCG4RBy3njzxHXlhOnp"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 237956,
       "name": "Heresy - Nine Inch Noize Version",
       "url": "https://open.spotify.com/track/4paDQCBB9KvSFlvMWUclFV"
+    },
+    {
+      "added_at": "2026-05-01 04:00:10",
+      "album": {
+        "name": "babygirl",
+        "url": "https://open.spotify.com/album/31CPIp0vMvr5UNB0xvnMiL"
+      },
+      "artists": [
+        {
+          "name": "JPEGMAFIA",
+          "url": "https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO"
+        }
+      ],
+      "duration_ms": 147491,
+      "name": "babygirl",
+      "url": "https://open.spotify.com/track/5ouETFDqJv0SQMzwKlQLlP"
     },
     {
       "added_at": "2026-05-01 04:00:10",
@@ -655,22 +655,6 @@
     {
       "added_at": "2026-05-01 04:00:10",
       "album": {
-        "name": "SKIN CARE",
-        "url": "https://open.spotify.com/album/6TuYkWjoeAaCZvTxdXiyPP"
-      },
-      "artists": [
-        {
-          "name": "Cochise",
-          "url": "https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx"
-        }
-      ],
-      "duration_ms": 130216,
-      "name": "SKIN CARE",
-      "url": "https://open.spotify.com/track/5w5l2JFEJNAGEf3nR8iaZY"
-    },
-    {
-      "added_at": "2026-05-01 04:00:10",
-      "album": {
         "name": "CHR\u00d6ME (feat. slayr)",
         "url": "https://open.spotify.com/album/3qJ91i2zamDYcJ91J7PNHs"
       },
@@ -691,18 +675,18 @@
     {
       "added_at": "2026-05-01 04:00:10",
       "album": {
-        "name": "SORRY! CRASH!",
-        "url": "https://open.spotify.com/album/3XtL1iGsmeZFgTMSch4tvo"
+        "name": "SKIN CARE",
+        "url": "https://open.spotify.com/album/6TuYkWjoeAaCZvTxdXiyPP"
       },
       "artists": [
         {
-          "name": "Ecca Vandal",
-          "url": "https://open.spotify.com/artist/0NhKCHTPG7Sz62S3zxV1Cf"
+          "name": "Cochise",
+          "url": "https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx"
         }
       ],
-      "duration_ms": 189680,
-      "name": "SORRY! CRASH!",
-      "url": "https://open.spotify.com/track/1fmibwNXIJ4vSlZXS3ZqkH"
+      "duration_ms": 130216,
+      "name": "SKIN CARE",
+      "url": "https://open.spotify.com/track/5w5l2JFEJNAGEf3nR8iaZY"
     },
     {
       "added_at": "2026-05-01 04:00:10",
@@ -719,6 +703,22 @@
       "duration_ms": 188251,
       "name": "The Old Rugged Cross - Spotify Singles",
       "url": "https://open.spotify.com/track/7zvRdGXBx4ypKHzXwnmk58"
+    },
+    {
+      "added_at": "2026-05-01 04:00:10",
+      "album": {
+        "name": "SORRY! CRASH!",
+        "url": "https://open.spotify.com/album/3XtL1iGsmeZFgTMSch4tvo"
+      },
+      "artists": [
+        {
+          "name": "Ecca Vandal",
+          "url": "https://open.spotify.com/artist/0NhKCHTPG7Sz62S3zxV1Cf"
+        }
+      ],
+      "duration_ms": 189680,
+      "name": "SORRY! CRASH!",
+      "url": "https://open.spotify.com/track/1fmibwNXIJ4vSlZXS3ZqkH"
     },
     {
       "added_at": "2026-05-01 04:00:10",
@@ -771,22 +771,6 @@
     {
       "added_at": "2026-05-01 04:00:10",
       "album": {
-        "name": "Mr. Lovebomb",
-        "url": "https://open.spotify.com/album/6P5iNEDyHXsLhL781CJFyZ"
-      },
-      "artists": [
-        {
-          "name": "Isaia Huron",
-          "url": "https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6"
-        }
-      ],
-      "duration_ms": 227317,
-      "name": "side slider",
-      "url": "https://open.spotify.com/track/2O3zj9sxh8NcurUYDGfduH"
-    },
-    {
-      "added_at": "2026-05-01 04:00:10",
-      "album": {
         "name": "No Trick (feat. Trim)",
         "url": "https://open.spotify.com/album/2Ef9wMwtKu70uEH2MUQDec"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 123866,
       "name": "No Trick (feat. Trim)",
       "url": "https://open.spotify.com/track/10675f8RVNLuoz4cp2Jpc2"
+    },
+    {
+      "added_at": "2026-05-01 04:00:10",
+      "album": {
+        "name": "Mr. Lovebomb",
+        "url": "https://open.spotify.com/album/6P5iNEDyHXsLhL781CJFyZ"
+      },
+      "artists": [
+        {
+          "name": "Isaia Huron",
+          "url": "https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6"
+        }
+      ],
+      "duration_ms": 227317,
+      "name": "side slider",
+      "url": "https://open.spotify.com/track/2O3zj9sxh8NcurUYDGfduH"
     },
     {
       "added_at": "2026-05-01 04:00:10",
@@ -955,22 +955,6 @@
     {
       "added_at": "2026-05-01 04:00:10",
       "album": {
-        "name": "If You",
-        "url": "https://open.spotify.com/album/2KvJjcipHCM9DsjwEJXblM"
-      },
-      "artists": [
-        {
-          "name": "Ceri Wax",
-          "url": "https://open.spotify.com/artist/6m62Dx1zgJshfmKYQHImew"
-        }
-      ],
-      "duration_ms": 200348,
-      "name": "If You",
-      "url": "https://open.spotify.com/track/2PvVkI3P9Z2on1G1vNn2uB"
-    },
-    {
-      "added_at": "2026-05-01 04:00:10",
-      "album": {
         "name": "tangerine!",
         "url": "https://open.spotify.com/album/4e4WfNz2OUB7oqsRJL2PQl"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 158117,
       "name": "tangerine!",
       "url": "https://open.spotify.com/track/3CElLbVHAx5oqgDozDdpwR"
+    },
+    {
+      "added_at": "2026-05-01 04:00:10",
+      "album": {
+        "name": "If You",
+        "url": "https://open.spotify.com/album/2KvJjcipHCM9DsjwEJXblM"
+      },
+      "artists": [
+        {
+          "name": "Ceri Wax",
+          "url": "https://open.spotify.com/artist/6m62Dx1zgJshfmKYQHImew"
+        }
+      ],
+      "duration_ms": 200348,
+      "name": "If You",
+      "url": "https://open.spotify.com/track/2PvVkI3P9Z2on1G1vNn2uB"
     },
     {
       "added_at": "2026-05-01 04:00:10",

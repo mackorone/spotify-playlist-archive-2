@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW28hvtiO3j9.md) - [plain]
 
 > Explore the dazzling sound of Japanese City Pop from the ‘80s./ 都会の夜をクルージング、週末は海辺でリゾート気分。煌めきに満ちた毎日を彩った、黄金期のシティポップ 。
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,534 likes - 50 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,555 likes - 50 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW28hvtiO3j9.md) - [plain]
 | 45 | [タワー・サイド・メモリー](https://open.spotify.com/track/4DhKgRHv5MzNCzLhTEByZi) | [Yumi Matsutoya](https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU) | [昨晩お会いしましょう](https://open.spotify.com/album/1SOU69vRno4XD2yvz7zqF4) | 3:06 |
 | 46 | [Night Time](https://open.spotify.com/track/216Fc22fWQxAxlTxjtO8P2) | [DEW](https://open.spotify.com/artist/6s0EJ878jNWwfOMva62XgK) | [TOKYO 1980s Victor Edition \(The Compilation\) Boogie, Funk & Modern Soul from Japan](https://open.spotify.com/album/0v1MoZARbqi7wOeECMI8Up) | 4:14 |
 | 47 | [MIDNIGHT DRIVER](https://open.spotify.com/track/7mi8Ov1tSYL8ZO2zbNKroA) | [Minako Yoshida](https://open.spotify.com/artist/5vYmBw71RC0kABACDCq4Zi) | [MONOCHROME](https://open.spotify.com/album/0VtVYCQCmmmTaMytFTTvc0) | 7:44 |
-| 48 | [GATSBY WOMAN](https://open.spotify.com/track/72cpecSoAAUaluyL2GNJEd) | [Kingo Hamada](https://open.spotify.com/artist/2FdiOm1d5IVBdLlobhzlTF) | [ＭＵＧＳＨＯＴ](https://open.spotify.com/album/7u2JWvr9mkfzBbK7ZaoMpc) | 4:26 |
-| 49 | [カラパナ・ブラック・サンド・ビーチ](https://open.spotify.com/track/17LEN5pPeHU7b5rLgQupGO) | [Atsuko Nina](https://open.spotify.com/artist/6E3IfpRGFBLViCZZ5syIRj) | [ロコ・アイランド](https://open.spotify.com/album/61u9uutLeJHDzBL4Mm2TgA) | 4:13 |
+| 48 | [カラパナ・ブラック・サンド・ビーチ](https://open.spotify.com/track/17LEN5pPeHU7b5rLgQupGO) | [Atsuko Nina](https://open.spotify.com/artist/6E3IfpRGFBLViCZZ5syIRj) | [ロコ・アイランド](https://open.spotify.com/album/61u9uutLeJHDzBL4Mm2TgA) | 4:13 |
+| 49 | [GATSBY WOMAN](https://open.spotify.com/track/72cpecSoAAUaluyL2GNJEd) | [Kingo Hamada](https://open.spotify.com/artist/2FdiOm1d5IVBdLlobhzlTF) | [ＭＵＧＳＨＯＴ](https://open.spotify.com/album/7u2JWvr9mkfzBbK7ZaoMpc) | 4:26 |
 | 50 | [ようこそ輝く時間へ](https://open.spotify.com/track/359IiO08eIz2kcwoS74EkD) | [Yumi Matsutoya](https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU) | [PEARL PIERCE](https://open.spotify.com/album/2KftKQGKx6r6zREGJq1cLa) | 4:39 |
 
 Snapshot ID: `AAAAAPtIGWtsSkFG0oNWUbSM1Lh+wETB`

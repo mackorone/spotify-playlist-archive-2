@@ -1,12 +1,12 @@
 {
   "description": "You know em, you love em, these are indie pop hits. Cover: Malcolm Todd",
-  "num_followers": 249738,
+  "num_followers": 249808,
   "original_name": "Indie Pop Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFuE/23oWG8mwr+J1L4tbulKAbIO",
+  "snapshot_id": "AAAAADhTr+hPWtSXLYAPHYDIVrELnkZS",
   "tracks": [
     {
       "added_at": "2026-04-16 05:13:54",
@@ -393,20 +393,24 @@
       "url": "https://open.spotify.com/track/4E0P1xs3JNmsNr5c5nFTZJ"
     },
     {
-      "added_at": "2026-04-16 05:13:54",
+      "added_at": "2026-05-25 17:42:56",
       "album": {
-        "name": "HIT ME HARD AND SOFT",
-        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+        "name": "lucre",
+        "url": "https://open.spotify.com/album/76qQt7n5SKtIa38BmZxvl4"
       },
       "artists": [
         {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+          "name": "Dean Blunt",
+          "url": "https://open.spotify.com/artist/5CFSYjc0PAiQvndFjafabk"
+        },
+        {
+          "name": "Elias R\u00f8nnenfelt",
+          "url": "https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS"
         }
       ],
-      "duration_ms": 210373,
-      "name": "BIRDS OF A FEATHER",
-      "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
+      "duration_ms": 120500,
+      "name": "5",
+      "url": "https://open.spotify.com/track/7CK4bpTIiYWYp478jgSlgp"
     },
     {
       "added_at": "2026-04-16 05:13:54",

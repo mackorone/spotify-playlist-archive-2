@@ -3552,7 +3552,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 149026,
       "name": "Coisa de Alma",
       "url": "https://open.spotify.com/track/6x3UHY7jsjP9JrrBJjQhf1"
@@ -13250,6 +13250,28 @@
       "duration_ms": 204500,
       "name": "Quando a Gente Existe",
       "url": "https://open.spotify.com/track/5KUtfBqF5JICzTjwkZzi86"
+    },
+    {
+      "album": {
+        "name": "QUANDO ASSUM VOAR",
+        "url": "https://open.spotify.com/album/0m909aW6kNTzgB05lzga06"
+      },
+      "artists": [
+        {
+          "name": "LAURO",
+          "url": "https://open.spotify.com/artist/0QDKEP0EJvT2EKXzLpBuNa"
+        },
+        {
+          "name": "CANETARIA",
+          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175801,
+      "name": "QUANDO ASSUM VOAR",
+      "url": "https://open.spotify.com/track/5yNhzae5tKwrQgiXVJtpcq"
     },
     {
       "album": {

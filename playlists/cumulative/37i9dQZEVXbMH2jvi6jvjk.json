@@ -1960,7 +1960,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-13",
+      "date_removed": null,
       "duration_ms": 274026,
       "name": "All for You",
       "url": "https://open.spotify.com/track/3JyEmaZmPsuIvFivnwN22k"
@@ -16549,6 +16549,24 @@
     },
     {
       "album": {
+        "name": "Ezohlala Nawe",
+        "url": "https://open.spotify.com/album/19HJdQq2cDuNgN6VjT96P2"
+      },
+      "artists": [
+        {
+          "name": "MENZI MUSIC",
+          "url": "https://open.spotify.com/artist/5afMmKIQumBXjSdEpTzS0Q"
+        }
+      ],
+      "date_added": "2026-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308950,
+      "name": "Ezohlala Nawe",
+      "url": "https://open.spotify.com/track/7FUviW38N6A2UtkRnMkyKt"
+    },
+    {
+      "album": {
         "name": "Certified Lover Boy",
         "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
       },
@@ -20768,7 +20786,7 @@
       ],
       "date_added": "2026-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 386482,
       "name": "Head Movement",
       "url": "https://open.spotify.com/track/1uJXJdzBwA6Tx8WWi8ngBO"
@@ -26004,7 +26022,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-20",
+      "date_removed": null,
       "duration_ms": 240039,
       "name": "IVALENTINE (feat. Shenge wasehlalankosi)",
       "url": "https://open.spotify.com/track/42Z8LNtIBkHEMW5hguw0Fo"
@@ -26898,7 +26916,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 283637,
       "name": "Jiki jiki(Beke Le Beke)",
       "url": "https://open.spotify.com/track/59zPubYISrcbl7TMO72zF7"
@@ -27808,7 +27826,7 @@
       ],
       "date_added": "2026-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 279075,
       "name": "Ke bona wena fela",
       "url": "https://open.spotify.com/track/6U7oHl7p5fbsJaJouhVPSH"
@@ -34470,7 +34488,7 @@
       ],
       "date_added": "2025-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-24",
+      "date_removed": null,
       "duration_ms": 535310,
       "name": "Methodist Medley",
       "url": "https://open.spotify.com/track/4iitLhHIPZIyTPt9HfsykG"
@@ -40078,7 +40096,7 @@
       ],
       "date_added": "2026-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-17",
+      "date_removed": null,
       "duration_ms": 257192,
       "name": "Number 10",
       "url": "https://open.spotify.com/track/7qlcWgZgx3JMtAM1CVe2di"
@@ -61322,7 +61340,7 @@
       ],
       "date_added": "2026-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 194324,
       "name": "What Did I Miss?",
       "url": "https://open.spotify.com/track/7oDbkGSI3IRzKmhrTiQdID"
@@ -64048,7 +64066,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 302298,
       "name": "Zwo's Prayer for the nation",
       "url": "https://open.spotify.com/track/66csxfTZOMwerz9xAQAF9t"

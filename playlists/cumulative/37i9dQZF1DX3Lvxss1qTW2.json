@@ -3224,7 +3224,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 155744,
       "name": "Confession",
       "url": "https://open.spotify.com/track/0Z1NN59C1dt9NSpSR4xwMC"
@@ -3754,7 +3754,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 144916,
       "name": "Different",
       "url": "https://open.spotify.com/track/2QFHbLRafCdpCXFU4NTwQ1"
@@ -8972,7 +8972,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 170526,
       "name": "MCBH",
       "url": "https://open.spotify.com/track/36PS8XCemqmPvigIL8S40B"
@@ -12221,6 +12221,28 @@
     },
     {
       "album": {
+        "name": "HIH & Serial Kisser",
+        "url": "https://open.spotify.com/album/2L8m2nH21rqTK30vMUyGfA"
+      },
+      "artists": [
+        {
+          "name": "Rukmani",
+          "url": "https://open.spotify.com/artist/4lz2CgyavcVw3XfnvID7FV"
+        },
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        }
+      ],
+      "date_added": "2026-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181714,
+      "name": "Serial Kisser",
+      "url": "https://open.spotify.com/track/6xpOCLTrc9IEuwPuFuGO6F"
+    },
+    {
+      "album": {
         "name": "Sesi",
         "url": "https://open.spotify.com/album/3yBUvZ7lmnGicfM5Of3xTt"
       },
@@ -12990,6 +13012,32 @@
       "duration_ms": 153972,
       "name": "Stamina",
       "url": "https://open.spotify.com/track/4UEPWZ0NNJD3zSmSJeoaz1"
+    },
+    {
+      "album": {
+        "name": "Stars Misaligned II",
+        "url": "https://open.spotify.com/album/25PT7y0EZbv1qdfctSmvzc"
+      },
+      "artists": [
+        {
+          "name": "Shiloh Yodell\u00e9",
+          "url": "https://open.spotify.com/artist/3jVOOhEKCtuDzhB8w1iLkH"
+        },
+        {
+          "name": "oSHAMO",
+          "url": "https://open.spotify.com/artist/6T8LsW0wEmWLi2IriLoQgA"
+        },
+        {
+          "name": "Abefe",
+          "url": "https://open.spotify.com/artist/3I2EdUYrhKmG2ghjrSPojl"
+        }
+      ],
+      "date_added": "2026-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170679,
+      "name": "Stars Misaligned II",
+      "url": "https://open.spotify.com/track/0awbfWjQjaoogyh2VzUw9u"
     },
     {
       "album": {
@@ -13902,7 +13950,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 113776,
       "name": "TRABAYE",
       "url": "https://open.spotify.com/track/3w3oJEFGDUDHQ0tM6M5SWS"
@@ -15298,6 +15346,24 @@
       "duration_ms": 170856,
       "name": "YIMAY\u0190",
       "url": "https://open.spotify.com/track/03yfaEQV3q5aTgViBWgvy7"
+    },
+    {
+      "album": {
+        "name": "Yori yori",
+        "url": "https://open.spotify.com/album/50wmIHgKLfTkZowFcxlKaF"
+      },
+      "artists": [
+        {
+          "name": "Abefe",
+          "url": "https://open.spotify.com/artist/3I2EdUYrhKmG2ghjrSPojl"
+        }
+      ],
+      "date_added": "2026-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163809,
+      "name": "Yori yori",
+      "url": "https://open.spotify.com/track/3J7tMLaRYC6J8b2lBKEalx"
     },
     {
       "album": {

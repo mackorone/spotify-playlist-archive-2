@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:5lsC3H1vh9YSRQckyGv0Up">Ellen Allien</a>'s favorite tracks\. Updated regularly\. Curated by Ellen Allien\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-1,084 songs - 3 day 22 hr 25 min
+1,085 songs - 3 day 22 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -261,7 +261,7 @@
 | [Edison](https://open.spotify.com/track/7p3PXii2SSYPxnWnXRVmyl) | [Ellen Allien](https://open.spotify.com/artist/5lsC3H1vh9YSRQckyGv0Up), [Apparat](https://open.spotify.com/artist/40Ojab0UtVQFjA76qXr8Ot) | [Orchestra of Bubbles](https://open.spotify.com/album/6ZcgmpLCJlduucY4Vsd23F) | 3:46 | 2024-01-19 | 2024-03-14 |
 | [Effect 2](https://open.spotify.com/track/0XcDiAXPvYyLErphm1Stkz) | [Tensal](https://open.spotify.com/artist/3mRdWhXS0ujP6WUjpOiHB1) | [Mixmag Presents Ben Klock](https://open.spotify.com/album/6HkJq36kYwQWCyXWEePIRs) | 3:23 | 2023-02-10 | 2023-03-18 |
 | [Ego Acid \- Flotation Mix](https://open.spotify.com/track/3tLtDtZztMmvyKCKTzAZw0) | [Dan Zamani](https://open.spotify.com/artist/4s9VH3NmnzjYZbghHMVgeD), [The Pump Panel](https://open.spotify.com/artist/5shHW6tZOD95Q4LLDi7p7A), [Tim Taylor \(Missile Records\)](https://open.spotify.com/artist/3SDO9vtI8lg2xandf0TP30) | [Silver Axe](https://open.spotify.com/album/4O2dXrF54m1N0bdEyn3t1K) | 9:57 | 2023-05-25 | 2023-07-01 |
-| [Einsteigen](https://open.spotify.com/track/5TeTs9r2mygWN0RfMQqZNe) | [Ellen Allien](https://open.spotify.com/artist/5lsC3H1vh9YSRQckyGv0Up) | [Sool](https://open.spotify.com/album/5JGT4m1itljzsu4KFjNEDw) | 3:08 | 2026-04-07 |  |
+| [Einsteigen](https://open.spotify.com/track/5TeTs9r2mygWN0RfMQqZNe) | [Ellen Allien](https://open.spotify.com/artist/5lsC3H1vh9YSRQckyGv0Up) | [Sool](https://open.spotify.com/album/5JGT4m1itljzsu4KFjNEDw) | 3:08 | 2026-04-07 | 2026-05-26 |
 | [Elegance & You](https://open.spotify.com/track/0Up9O5R2q1FBJruTFKeI9r) | [Korine](https://open.spotify.com/artist/2kkHe1abWV084RUXhSEf2q) | [New Arrangements](https://open.spotify.com/album/38sduhFfrv6kjxB2sVnuHv) | 4:04 | 2024-12-13 | 2025-01-11 |
 | [Eleven](https://open.spotify.com/track/6n9A7jFhaxK2yH6fq6VnhZ) | [Z.I.P.P.O](https://open.spotify.com/artist/4eZ6EbyIqRsq67WRTV8AAc) | [Eleven](https://open.spotify.com/album/2GW3rQW9FrrH6TA8iHEXuM) | 5:03 | 2025-10-24 | 2026-04-08 |
 | [ELLEN NOIR SETCUT](https://open.spotify.com/track/5fkLWENspv7PNN3bJFde6p) | [ANTAGONIST](https://open.spotify.com/artist/1hPDcY8dmVco6c9eHiQ1ZU) | [ELLEN NOIR SETCUT](https://open.spotify.com/album/0R0aWv7pPlYtkiNdpEbMa1) | 9:53 | 2023-04-14 | 2023-05-26 |
@@ -543,6 +543,7 @@
 | [Love Crime](https://open.spotify.com/track/6RHKZkVoJy9zj5qNLkgZdr) | [Laval](https://open.spotify.com/artist/0CAPm37Mh2E8bYA9uBbINH), [Electric Rescue](https://open.spotify.com/artist/1vVMjCph2wKndDKiQpf0eo), [Kmyle](https://open.spotify.com/artist/0UYzG03DK6Tz6J6CzIz7dy) | [Love Crime](https://open.spotify.com/album/3MxjByW1uzKW4UsV26mnK5) | 6:44 | 2025-10-24 | 2026-04-08 |
 | [Love Distortion](https://open.spotify.com/track/1Pt6WjGiPeJl3Z5WAinBPC) | [Ellen Allien](https://open.spotify.com/artist/5lsC3H1vh9YSRQckyGv0Up) | [Alientronic](https://open.spotify.com/album/72KCHzc8HIXxkpkErPbnPy) | 7:39 | 2023-05-25 | 2023-07-01 |
 | [Love Leaked](https://open.spotify.com/track/7I2IjsgQiVV6zfpB1cbYhw) | [SALOME](https://open.spotify.com/artist/6r27qPL5CdAwLszXNgpRPV) | [HACKER](https://open.spotify.com/album/1zGwntMKBPrSGtRvdwmQA1) | 5:52 | 2024-11-08 | 2024-12-14 |
+| [Lox](https://open.spotify.com/track/35vj8QVGVMuMV1pSYfnBXR) | [Blawan](https://open.spotify.com/artist/64kN9EkSTHYhda2FupL0KI) | [Many Many Pings](https://open.spotify.com/album/36410ySvJGQFf8Ah17L2ey) | 5:59 | 2026-05-25 |  |
 | [LSP](https://open.spotify.com/track/478VdX9FsB2j6HNNPBouDW) | [Linear System](https://open.spotify.com/artist/5WMjkiHD0swlwFsPgUYqz1) | [SR043](https://open.spotify.com/album/1fWgNAMBG7HL1bZCT8G3Hm) | 5:50 | 2025-05-09 | 2025-07-19 |
 | [Lullaby](https://open.spotify.com/track/2WlXrm84ZmhuaVrh0Pi44D) | [Yan Cook](https://open.spotify.com/artist/7b85knFTqgPmQmbUt77rYy) | [Ellen Allien Presents We Are Not Alone, Pt\. 1](https://open.spotify.com/album/6DldQleQeja63hIZs2Id65) | 4:50 | 2025-01-10 | 2025-05-10 |
 | [Lust](https://open.spotify.com/track/3MCDgpQ2QV0tZf5v1z8f4Z) | [Ellen Allien](https://open.spotify.com/artist/5lsC3H1vh9YSRQckyGv0Up) | [Rave Luv](https://open.spotify.com/album/52pIgveH3h0BFRiEn2A78a) | 5:13 | 2024-03-22 | 2024-07-16 |

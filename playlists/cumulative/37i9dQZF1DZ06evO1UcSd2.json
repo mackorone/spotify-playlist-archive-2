@@ -234,7 +234,7 @@
       ],
       "date_added": "2024-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 210398,
       "name": "Belicotas",
       "url": "https://open.spotify.com/track/0jILXu7DxbxTy1HqlbEyuA"
@@ -600,6 +600,28 @@
       "duration_ms": 186972,
       "name": "DEL Rojo",
       "url": "https://open.spotify.com/track/4M4xMmMS8pMrffCzUHz5IG"
+    },
+    {
+      "album": {
+        "name": "X Aniversario",
+        "url": "https://open.spotify.com/album/6VV8sExAwhYbhqqGPrVwmc"
+      },
+      "artists": [
+        {
+          "name": "Grupo Clasificado",
+          "url": "https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9"
+        },
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "date_added": "2026-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168170,
+      "name": "Dicen Y Dicen",
+      "url": "https://open.spotify.com/track/6RzdMdzrkgEXAv5rISgzvB"
     },
     {
       "album": {

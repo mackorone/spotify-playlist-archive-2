@@ -2807,6 +2807,24 @@
     },
     {
       "album": {
+        "name": "Say No",
+        "url": "https://open.spotify.com/album/0SuU1lu4vJImcCotDdVa7a"
+      },
+      "artists": [
+        {
+          "name": "Tasya Kamila",
+          "url": "https://open.spotify.com/artist/3MCrMS3Xtw78DxaiH5KutJ"
+        }
+      ],
+      "date_added": "2026-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234000,
+      "name": "Say No",
+      "url": "https://open.spotify.com/track/6ICEluTQZZwk1Id0XpavZy"
+    },
+    {
+      "album": {
         "name": "Bercahaya",
         "url": "https://open.spotify.com/album/7Bk0NnaNXmQHq4WKHy8kWK"
       },
@@ -3750,6 +3768,24 @@
       "duration_ms": 241708,
       "name": "Terlalu Lama Sendiri",
       "url": "https://open.spotify.com/track/2UWxRkWLpzuxkr67LxPpad"
+    },
+    {
+      "album": {
+        "name": "Terpukau",
+        "url": "https://open.spotify.com/album/0SZMfhZNtHxdF7pYH1sirr"
+      },
+      "artists": [
+        {
+          "name": "Astrid",
+          "url": "https://open.spotify.com/artist/6GxmlugWFw4hmhUQ5uP93l"
+        }
+      ],
+      "date_added": "2026-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252093,
+      "name": "Terpukau",
+      "url": "https://open.spotify.com/track/0irPA8LmsoQYkqE5I7v3aj"
     },
     {
       "album": {

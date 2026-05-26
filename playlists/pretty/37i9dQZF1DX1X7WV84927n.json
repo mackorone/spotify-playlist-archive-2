@@ -1,6 +1,6 @@
 {
   "description": "For full-volume lovers. Cover: Breaking Benjamin\n",
-  "num_followers": 445456,
+  "num_followers": 445515,
   "original_name": "Hard Rock",
   "owner": {
     "name": "Spotify",
@@ -1027,26 +1027,6 @@
     {
       "added_at": "2026-05-23 01:28:00",
       "album": {
-        "name": "ENEMY (with blackbear)",
-        "url": "https://open.spotify.com/album/74o5SNrc5oqx67sWhrBqt4"
-      },
-      "artists": [
-        {
-          "name": "Sueco",
-          "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
-        },
-        {
-          "name": "blackbear",
-          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
-        }
-      ],
-      "duration_ms": 189390,
-      "name": "ENEMY (with blackbear)",
-      "url": "https://open.spotify.com/track/1VIcfFO1tnpfoSxaGaLzeW"
-    },
-    {
-      "added_at": "2026-05-23 01:28:00",
-      "album": {
         "name": "Free",
         "url": "https://open.spotify.com/album/6HGItoMgIv712ocI5drxDN"
       },
@@ -1063,18 +1043,22 @@
     {
       "added_at": "2026-05-23 01:28:00",
       "album": {
-        "name": "FAST LANE",
-        "url": "https://open.spotify.com/album/6h8SeMYQ0jjE9wmEsZrkbn"
+        "name": "ENEMY (with blackbear)",
+        "url": "https://open.spotify.com/album/74o5SNrc5oqx67sWhrBqt4"
       },
       "artists": [
         {
-          "name": "SCATTERBRAIN",
-          "url": "https://open.spotify.com/artist/1qpatyjM6ORYIn2BuQbEuZ"
+          "name": "Sueco",
+          "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
+        },
+        {
+          "name": "blackbear",
+          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
         }
       ],
-      "duration_ms": 213136,
-      "name": "FAST LANE",
-      "url": "https://open.spotify.com/track/3pYUTM7wzT7Z5GQAfPGWtl"
+      "duration_ms": 189390,
+      "name": "ENEMY (with blackbear)",
+      "url": "https://open.spotify.com/track/1VIcfFO1tnpfoSxaGaLzeW"
     },
     {
       "added_at": "2026-05-23 01:28:00",
@@ -1099,6 +1083,22 @@
     {
       "added_at": "2026-05-23 01:28:00",
       "album": {
+        "name": "FAST LANE",
+        "url": "https://open.spotify.com/album/6h8SeMYQ0jjE9wmEsZrkbn"
+      },
+      "artists": [
+        {
+          "name": "SCATTERBRAIN",
+          "url": "https://open.spotify.com/artist/1qpatyjM6ORYIn2BuQbEuZ"
+        }
+      ],
+      "duration_ms": 213136,
+      "name": "FAST LANE",
+      "url": "https://open.spotify.com/track/3pYUTM7wzT7Z5GQAfPGWtl"
+    },
+    {
+      "added_at": "2026-05-23 01:28:00",
+      "album": {
         "name": "For I Am Death",
         "url": "https://open.spotify.com/album/7LnfxsUCMGkJfwQm969CKM"
       },
@@ -1111,6 +1111,26 @@
       "duration_ms": 219395,
       "name": "For I Am Death",
       "url": "https://open.spotify.com/track/3K85nEutdOPbJuAJgoe2O4"
+    },
+    {
+      "added_at": "2026-05-23 01:28:00",
+      "album": {
+        "name": "VINDICATE",
+        "url": "https://open.spotify.com/album/2bvKgi1cdJbaURY2bN7y4p"
+      },
+      "artists": [
+        {
+          "name": "Black Veil Brides",
+          "url": "https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs"
+        },
+        {
+          "name": "Lilith Czar",
+          "url": "https://open.spotify.com/artist/2tMZ37dVy1DzZjXXCjhgFq"
+        }
+      ],
+      "duration_ms": 239825,
+      "name": "Cut",
+      "url": "https://open.spotify.com/track/5DDN7RGlnJSDGF5abfvoqp"
     },
     {
       "added_at": "2026-05-23 01:28:00",
@@ -1135,22 +1155,18 @@
     {
       "added_at": "2026-05-23 01:28:00",
       "album": {
-        "name": "VINDICATE",
-        "url": "https://open.spotify.com/album/2bvKgi1cdJbaURY2bN7y4p"
+        "name": "Control",
+        "url": "https://open.spotify.com/album/5Qw83IHn2c9UbIsSKuPGGN"
       },
       "artists": [
         {
-          "name": "Black Veil Brides",
-          "url": "https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs"
-        },
-        {
-          "name": "Lilith Czar",
-          "url": "https://open.spotify.com/artist/2tMZ37dVy1DzZjXXCjhgFq"
+          "name": "Catch Your Breath",
+          "url": "https://open.spotify.com/artist/2fqPOGxG12nEERj8YG7p22"
         }
       ],
-      "duration_ms": 239825,
-      "name": "Cut",
-      "url": "https://open.spotify.com/track/5DDN7RGlnJSDGF5abfvoqp"
+      "duration_ms": 161420,
+      "name": "Control",
+      "url": "https://open.spotify.com/track/454588Y9FY0pCMIg8rXVvE"
     },
     {
       "added_at": "2026-05-23 01:28:00",
@@ -1191,18 +1207,18 @@
     {
       "added_at": "2026-05-23 01:28:00",
       "album": {
-        "name": "Control",
-        "url": "https://open.spotify.com/album/5Qw83IHn2c9UbIsSKuPGGN"
+        "name": "BANGDYBANG",
+        "url": "https://open.spotify.com/album/2iHMyc9lLpPpB1K57pn7Rw"
       },
       "artists": [
         {
-          "name": "Catch Your Breath",
-          "url": "https://open.spotify.com/artist/2fqPOGxG12nEERj8YG7p22"
+          "name": "Jeris Johnson",
+          "url": "https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq"
         }
       ],
-      "duration_ms": 161420,
-      "name": "Control",
-      "url": "https://open.spotify.com/track/454588Y9FY0pCMIg8rXVvE"
+      "duration_ms": 198601,
+      "name": "BANGDYBANG",
+      "url": "https://open.spotify.com/track/5kKmaCUhMxGVgMOkruhMTp"
     },
     {
       "added_at": "2026-05-23 01:28:00",
@@ -1219,22 +1235,6 @@
       "duration_ms": 206229,
       "name": "Shelter",
       "url": "https://open.spotify.com/track/53ricdihmEjTUBtBGRWK5b"
-    },
-    {
-      "added_at": "2026-05-23 01:28:00",
-      "album": {
-        "name": "1x1",
-        "url": "https://open.spotify.com/album/7s5Wf966z06OIL7WTLEwts"
-      },
-      "artists": [
-        {
-          "name": "Hollywood Undead",
-          "url": "https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E"
-        }
-      ],
-      "duration_ms": 236775,
-      "name": "1x1",
-      "url": "https://open.spotify.com/track/1I85hmQ802nxEF0OAoUZxN"
     },
     {
       "added_at": "2026-05-23 01:28:00",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2026-05-23 01:28:00",
       "album": {
+        "name": "1x1",
+        "url": "https://open.spotify.com/album/7s5Wf966z06OIL7WTLEwts"
+      },
+      "artists": [
+        {
+          "name": "Hollywood Undead",
+          "url": "https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E"
+        }
+      ],
+      "duration_ms": 236775,
+      "name": "1x1",
+      "url": "https://open.spotify.com/track/1I85hmQ802nxEF0OAoUZxN"
+    },
+    {
+      "added_at": "2026-05-23 01:28:00",
+      "album": {
         "name": "Your Favorite Toy",
         "url": "https://open.spotify.com/album/1GlbwU0fG3s91TwcuTh4ea"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 176453,
       "name": "Your Favorite Toy",
       "url": "https://open.spotify.com/track/2ZSOU8Fx9uRBW57nwfPVAL"
-    },
-    {
-      "added_at": "2026-05-23 01:28:00",
-      "album": {
-        "name": "BANGDYBANG",
-        "url": "https://open.spotify.com/album/2iHMyc9lLpPpB1K57pn7Rw"
-      },
-      "artists": [
-        {
-          "name": "Jeris Johnson",
-          "url": "https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq"
-        }
-      ],
-      "duration_ms": 198601,
-      "name": "BANGDYBANG",
-      "url": "https://open.spotify.com/track/5kKmaCUhMxGVgMOkruhMTp"
     },
     {
       "added_at": "2026-05-23 01:28:00",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2026-05-23 01:28:00",
       "album": {
-        "name": "N0rth4evr",
-        "url": "https://open.spotify.com/album/1jkEEeWKAJiR0LQyOvtM7b"
-      },
-      "artists": [
-        {
-          "name": "North West",
-          "url": "https://open.spotify.com/artist/5NTFOMIZSgupSw6yfnD4E2"
-        }
-      ],
-      "duration_ms": 103000,
-      "name": "#N0rth4evr",
-      "url": "https://open.spotify.com/track/7sBX5hbKBg2uN3bQoZ2prv"
-    },
-    {
-      "added_at": "2026-05-23 01:28:00",
-      "album": {
         "name": "PHASES",
         "url": "https://open.spotify.com/album/2Th9N0sa9Xgp9KKUGvu6Qb"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 226316,
       "name": "PHASES",
       "url": "https://open.spotify.com/track/4lIN5l57LDzzyqKDADGpDN"
+    },
+    {
+      "added_at": "2026-05-23 01:28:00",
+      "album": {
+        "name": "N0rth4evr",
+        "url": "https://open.spotify.com/album/1jkEEeWKAJiR0LQyOvtM7b"
+      },
+      "artists": [
+        {
+          "name": "North West",
+          "url": "https://open.spotify.com/artist/5NTFOMIZSgupSw6yfnD4E2"
+        }
+      ],
+      "duration_ms": 103000,
+      "name": "#N0rth4evr",
+      "url": "https://open.spotify.com/track/7sBX5hbKBg2uN3bQoZ2prv"
     },
     {
       "added_at": "2026-05-23 01:28:00",
@@ -2059,6 +2059,26 @@
     {
       "added_at": "2026-05-23 01:28:00",
       "album": {
+        "name": "Power",
+        "url": "https://open.spotify.com/album/2SpLH0wo9nyBiEDYMzkOWT"
+      },
+      "artists": [
+        {
+          "name": "Jonny Hawkins",
+          "url": "https://open.spotify.com/artist/2cToF7GZou0LEixRBI9WVN"
+        },
+        {
+          "name": "Nathan James",
+          "url": "https://open.spotify.com/artist/0yvTRHK90NHy9NI4RhEEYS"
+        }
+      ],
+      "duration_ms": 224615,
+      "name": "Power",
+      "url": "https://open.spotify.com/track/0souAacIZZ6PPSSyayapSq"
+    },
+    {
+      "added_at": "2026-05-23 01:28:00",
+      "album": {
         "name": "Dance In The USA",
         "url": "https://open.spotify.com/album/5s1MU2zNr7wTsNBpGRgbXg"
       },
@@ -2071,22 +2091,6 @@
       "duration_ms": 179280,
       "name": "Dance In The USA",
       "url": "https://open.spotify.com/track/6OgQCTbeqEI2rjmmkfkFOV"
-    },
-    {
-      "added_at": "2026-05-23 01:28:00",
-      "album": {
-        "name": "Unknown",
-        "url": "https://open.spotify.com/album/0uvK2wQBgSodlCOc6hlkDM"
-      },
-      "artists": [
-        {
-          "name": "Fire From The Gods",
-          "url": "https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Unknown",
-      "url": "https://open.spotify.com/track/33Qjbv7LKxfKDYeB934hgO"
     },
     {
       "added_at": "2026-05-23 01:28:00",
@@ -2107,22 +2111,34 @@
     {
       "added_at": "2026-05-23 01:28:00",
       "album": {
-        "name": "Power",
-        "url": "https://open.spotify.com/album/2SpLH0wo9nyBiEDYMzkOWT"
+        "name": "Unknown",
+        "url": "https://open.spotify.com/album/0uvK2wQBgSodlCOc6hlkDM"
       },
       "artists": [
         {
-          "name": "Jonny Hawkins",
-          "url": "https://open.spotify.com/artist/2cToF7GZou0LEixRBI9WVN"
-        },
-        {
-          "name": "Nathan James",
-          "url": "https://open.spotify.com/artist/0yvTRHK90NHy9NI4RhEEYS"
+          "name": "Fire From The Gods",
+          "url": "https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS"
         }
       ],
-      "duration_ms": 224615,
-      "name": "Power",
-      "url": "https://open.spotify.com/track/0souAacIZZ6PPSSyayapSq"
+      "duration_ms": 180000,
+      "name": "Unknown",
+      "url": "https://open.spotify.com/track/33Qjbv7LKxfKDYeB934hgO"
+    },
+    {
+      "added_at": "2026-05-23 01:28:00",
+      "album": {
+        "name": "To The End",
+        "url": "https://open.spotify.com/album/4rvSdTaQFrOEhUljJDfA1X"
+      },
+      "artists": [
+        {
+          "name": "Silent Theory",
+          "url": "https://open.spotify.com/artist/5BKEV71K0K8ZhTbNRVRAXR"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "To The End",
+      "url": "https://open.spotify.com/track/0lPdPLiA9e3fGKHGqIuEvm"
     },
     {
       "added_at": "2026-05-23 01:28:00",
@@ -2147,18 +2163,34 @@
     {
       "added_at": "2026-05-23 01:28:00",
       "album": {
-        "name": "To The End",
-        "url": "https://open.spotify.com/album/4rvSdTaQFrOEhUljJDfA1X"
+        "name": "Dear God",
+        "url": "https://open.spotify.com/album/4LqPNdoEBqxhaIAdrrstsu"
       },
       "artists": [
         {
-          "name": "Silent Theory",
-          "url": "https://open.spotify.com/artist/5BKEV71K0K8ZhTbNRVRAXR"
+          "name": "The Pretty Reckless",
+          "url": "https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq"
         }
       ],
-      "duration_ms": 211000,
-      "name": "To The End",
-      "url": "https://open.spotify.com/track/0lPdPLiA9e3fGKHGqIuEvm"
+      "duration_ms": 368505,
+      "name": "Dear God",
+      "url": "https://open.spotify.com/track/1Sn2P4sUV3ii0ykOrST5t4"
+    },
+    {
+      "added_at": "2026-05-23 01:28:00",
+      "album": {
+        "name": "Fading Away",
+        "url": "https://open.spotify.com/album/3nPIwSiC9ZewTHMKuAjARd"
+      },
+      "artists": [
+        {
+          "name": "Dark Divine",
+          "url": "https://open.spotify.com/artist/3CMyREgx8ZErRUydXlmCDX"
+        }
+      ],
+      "duration_ms": 221119,
+      "name": "Fading Away",
+      "url": "https://open.spotify.com/track/5BipaoLmt78IRH7ApbFDC9"
     },
     {
       "added_at": "2026-05-23 01:28:00",
@@ -2195,18 +2227,18 @@
     {
       "added_at": "2026-05-23 01:28:00",
       "album": {
-        "name": "Fading Away",
-        "url": "https://open.spotify.com/album/3nPIwSiC9ZewTHMKuAjARd"
+        "name": "D\u00e9j\u00e0 Vu",
+        "url": "https://open.spotify.com/album/10fSnvxVFAJCm0DejVqnPc"
       },
       "artists": [
         {
-          "name": "Dark Divine",
-          "url": "https://open.spotify.com/artist/3CMyREgx8ZErRUydXlmCDX"
+          "name": "Escape the Fate",
+          "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum"
         }
       ],
-      "duration_ms": 221119,
-      "name": "Fading Away",
-      "url": "https://open.spotify.com/track/5BipaoLmt78IRH7ApbFDC9"
+      "duration_ms": 216685,
+      "name": "D\u00e9j\u00e0 Vu",
+      "url": "https://open.spotify.com/track/7dLAJQG3gkQxN08ReKQlch"
     },
     {
       "added_at": "2026-05-23 01:28:00",
@@ -2223,22 +2255,6 @@
       "duration_ms": 203200,
       "name": "DON'T B E L O N G",
       "url": "https://open.spotify.com/track/7cBK7AcFMiOhCCfMyA0xba"
-    },
-    {
-      "added_at": "2026-05-23 01:28:00",
-      "album": {
-        "name": "D\u00e9j\u00e0 Vu",
-        "url": "https://open.spotify.com/album/10fSnvxVFAJCm0DejVqnPc"
-      },
-      "artists": [
-        {
-          "name": "Escape the Fate",
-          "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum"
-        }
-      ],
-      "duration_ms": 216685,
-      "name": "D\u00e9j\u00e0 Vu",
-      "url": "https://open.spotify.com/track/7dLAJQG3gkQxN08ReKQlch"
     },
     {
       "added_at": "2026-05-23 01:28:00",
@@ -2275,6 +2291,22 @@
     {
       "added_at": "2026-05-23 01:28:00",
       "album": {
+        "name": "Mirror Touch",
+        "url": "https://open.spotify.com/album/5Waa2LRXcwvJT1nten7W5E"
+      },
+      "artists": [
+        {
+          "name": "Volumes",
+          "url": "https://open.spotify.com/artist/1DgmdsnwOexqTH8ohPCFAU"
+        }
+      ],
+      "duration_ms": 215132,
+      "name": "Adrenaline",
+      "url": "https://open.spotify.com/track/3kYsuovtIEXlz2ZIsEih73"
+    },
+    {
+      "added_at": "2026-05-23 01:28:00",
+      "album": {
         "name": "A.L.O.N.E.",
         "url": "https://open.spotify.com/album/1sDgdisZxO2s4AKt2TKUQf"
       },
@@ -2303,22 +2335,6 @@
       "duration_ms": 280786,
       "name": "It's A Sin",
       "url": "https://open.spotify.com/track/5e97Z51SUopBbANmwBBkSq"
-    },
-    {
-      "added_at": "2026-05-23 01:28:00",
-      "album": {
-        "name": "Mirror Touch",
-        "url": "https://open.spotify.com/album/5Waa2LRXcwvJT1nten7W5E"
-      },
-      "artists": [
-        {
-          "name": "Volumes",
-          "url": "https://open.spotify.com/artist/1DgmdsnwOexqTH8ohPCFAU"
-        }
-      ],
-      "duration_ms": 215132,
-      "name": "Adrenaline",
-      "url": "https://open.spotify.com/track/3kYsuovtIEXlz2ZIsEih73"
     },
     {
       "added_at": "2026-05-23 01:28:00",
@@ -2367,22 +2383,6 @@
       "duration_ms": 245660,
       "name": "Bored",
       "url": "https://open.spotify.com/track/3UHE8bxJihjE8WJHklarFG"
-    },
-    {
-      "added_at": "2026-05-23 01:28:00",
-      "album": {
-        "name": "Dear God",
-        "url": "https://open.spotify.com/album/4LqPNdoEBqxhaIAdrrstsu"
-      },
-      "artists": [
-        {
-          "name": "The Pretty Reckless",
-          "url": "https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq"
-        }
-      ],
-      "duration_ms": 368505,
-      "name": "Dear God",
-      "url": "https://open.spotify.com/track/1Sn2P4sUV3ii0ykOrST5t4"
     },
     {
       "added_at": "2026-05-23 01:28:00",
@@ -2483,22 +2483,6 @@
     {
       "added_at": "2026-05-23 01:28:00",
       "album": {
-        "name": "Construct",
-        "url": "https://open.spotify.com/album/6y15JONDCTH1V7mBrLWVao"
-      },
-      "artists": [
-        {
-          "name": "Sevendust",
-          "url": "https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2"
-        }
-      ],
-      "duration_ms": 237207,
-      "name": "Construct",
-      "url": "https://open.spotify.com/track/2MGhVrA4Th1xHGkdfdUZTk"
-    },
-    {
-      "added_at": "2026-05-23 01:28:00",
-      "album": {
         "name": "GLITCH BITCH",
         "url": "https://open.spotify.com/album/6IcihV7b8bv1SAas3hAYPt"
       },
@@ -2523,18 +2507,34 @@
     {
       "added_at": "2026-05-23 01:28:00",
       "album": {
-        "name": "Puppet Parade",
-        "url": "https://open.spotify.com/album/4c2I5KEpliGFpP3YGY2jMq"
+        "name": "Construct",
+        "url": "https://open.spotify.com/album/6y15JONDCTH1V7mBrLWVao"
       },
       "artists": [
         {
-          "name": "Megadeth",
-          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+          "name": "Sevendust",
+          "url": "https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2"
         }
       ],
-      "duration_ms": 280924,
-      "name": "Puppet Parade",
-      "url": "https://open.spotify.com/track/1wK0EaN9EAuSNSp3uB3rgs"
+      "duration_ms": 237207,
+      "name": "Construct",
+      "url": "https://open.spotify.com/track/2MGhVrA4Th1xHGkdfdUZTk"
+    },
+    {
+      "added_at": "2026-05-23 01:28:00",
+      "album": {
+        "name": "Lifeline",
+        "url": "https://open.spotify.com/album/3JRdgRJadvpTok118j293q"
+      },
+      "artists": [
+        {
+          "name": "Any Given Sin",
+          "url": "https://open.spotify.com/artist/1376cQHGVXyY9lSz0Wf900"
+        }
+      ],
+      "duration_ms": 214117,
+      "name": "Lifeline",
+      "url": "https://open.spotify.com/track/56pZATg2nMBcKwiyvvncRe"
     }
   ],
   "unique_name": "Hard Rock",

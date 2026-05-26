@@ -415,22 +415,6 @@
     {
       "added_at": "2026-04-21 15:00:41",
       "album": {
-        "name": "Mellow Addiction (Short ver.)",
-        "url": "https://open.spotify.com/album/5KAtG79YspWcsMaWn7j3wY"
-      },
-      "artists": [
-        {
-          "name": "MELLOW DEAR US",
-          "url": "https://open.spotify.com/artist/2oELvCzOFyhjzjq1qspx2h"
-        }
-      ],
-      "duration_ms": 134100,
-      "name": "Mellow Addiction - Short ver.",
-      "url": "https://open.spotify.com/track/3z7jW68dK4nQWY595nOA98"
-    },
-    {
-      "added_at": "2026-04-21 15:00:41",
-      "album": {
         "name": "null\u300c\u305d\u308c\u306f\u6b8b\u50cf\u306e\u6d88\u5931\u70b9\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 \u2060SELECTION 10 UNIT SONG",
         "url": "https://open.spotify.com/album/5XaAyKXoY3YK1xsYVSwHQ1"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 223542,
       "name": "\u305d\u308c\u306f\u6b8b\u50cf\u306e\u6d88\u5931\u70b9",
       "url": "https://open.spotify.com/track/0Lgflklr9PxS0DfESpU7Zo"
+    },
+    {
+      "added_at": "2026-04-21 15:00:41",
+      "album": {
+        "name": "Mellow Addiction (Short ver.)",
+        "url": "https://open.spotify.com/album/5KAtG79YspWcsMaWn7j3wY"
+      },
+      "artists": [
+        {
+          "name": "MELLOW DEAR US",
+          "url": "https://open.spotify.com/artist/2oELvCzOFyhjzjq1qspx2h"
+        }
+      ],
+      "duration_ms": 134100,
+      "name": "Mellow Addiction - Short ver.",
+      "url": "https://open.spotify.com/track/3z7jW68dK4nQWY595nOA98"
     },
     {
       "added_at": "2026-04-21 15:00:41",
@@ -511,22 +511,6 @@
     {
       "added_at": "2026-04-21 15:00:41",
       "album": {
-        "name": "Dear World (Short ver.)",
-        "url": "https://open.spotify.com/album/5Iibsmm600yJmx7VBUHTYV"
-      },
-      "artists": [
-        {
-          "name": "MELLOW DEAR US",
-          "url": "https://open.spotify.com/artist/2oELvCzOFyhjzjq1qspx2h"
-        }
-      ],
-      "duration_ms": 145300,
-      "name": "Dear World - Short ver.",
-      "url": "https://open.spotify.com/track/4WhbXvkphy7lrFzOVelHqX"
-    },
-    {
-      "added_at": "2026-04-21 15:00:41",
-      "album": {
         "name": "2wink\u300c\u6765\u6765\u26062wink\u30a4\u30ea\u30e5\u30fc\u30b8\u30e7\u30f3\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 season6",
         "url": "https://open.spotify.com/album/1UyoPG2KOKk1AUg0Zpt3mr"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 197963,
       "name": "\u6765\u6765\u26062wink\u30a4\u30ea\u30e5\u30fc\u30b8\u30e7\u30f3",
       "url": "https://open.spotify.com/track/1vIpkihzNMrKFdiC9KW87s"
+    },
+    {
+      "added_at": "2026-04-21 15:00:41",
+      "album": {
+        "name": "Dear World (Short ver.)",
+        "url": "https://open.spotify.com/album/5Iibsmm600yJmx7VBUHTYV"
+      },
+      "artists": [
+        {
+          "name": "MELLOW DEAR US",
+          "url": "https://open.spotify.com/artist/2oELvCzOFyhjzjq1qspx2h"
+        }
+      ],
+      "duration_ms": 145300,
+      "name": "Dear World - Short ver.",
+      "url": "https://open.spotify.com/track/4WhbXvkphy7lrFzOVelHqX"
     },
     {
       "added_at": "2026-04-21 15:00:41",
@@ -1235,26 +1235,6 @@
     {
       "added_at": "2026-04-21 15:00:41",
       "album": {
-        "name": "\u300c\u77ac\u304dSign\u2606\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 \u30d1\u30d5\u30a9\u30fc\u30de\u30f3\u30b9\u9078\u629c\u66f2",
-        "url": "https://open.spotify.com/album/22KZVcTQ9TclS3O8zRnlW7"
-      },
-      "artists": [
-        {
-          "name": "PIKAPIKA",
-          "url": "https://open.spotify.com/artist/3ArSSkmEcGsVIeGZqVyTRa"
-        },
-        {
-          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
-          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
-        }
-      ],
-      "duration_ms": 249173,
-      "name": "\u77ac\u304dSign\u2606",
-      "url": "https://open.spotify.com/track/01wK8qdoiA2FlYbSYQin0Y"
-    },
-    {
-      "added_at": "2026-04-21 15:00:41",
-      "album": {
         "name": "\u4f0f\u898b \u5f13\u5f26\u300cESCAPE\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 Solo -Bright me up!!-",
         "url": "https://open.spotify.com/album/1IK366qtRlSNECsDHqy94o"
       },
@@ -1271,6 +1251,26 @@
       "duration_ms": 210979,
       "name": "ESCAPE",
       "url": "https://open.spotify.com/track/7xEXC32aRjWrLLTGfwto2N"
+    },
+    {
+      "added_at": "2026-04-21 15:00:41",
+      "album": {
+        "name": "\u300c\u77ac\u304dSign\u2606\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 \u30d1\u30d5\u30a9\u30fc\u30de\u30f3\u30b9\u9078\u629c\u66f2",
+        "url": "https://open.spotify.com/album/22KZVcTQ9TclS3O8zRnlW7"
+      },
+      "artists": [
+        {
+          "name": "PIKAPIKA",
+          "url": "https://open.spotify.com/artist/3ArSSkmEcGsVIeGZqVyTRa"
+        },
+        {
+          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
+          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
+        }
+      ],
+      "duration_ms": 249173,
+      "name": "\u77ac\u304dSign\u2606",
+      "url": "https://open.spotify.com/track/01wK8qdoiA2FlYbSYQin0Y"
     },
     {
       "added_at": "2026-04-21 15:00:41",

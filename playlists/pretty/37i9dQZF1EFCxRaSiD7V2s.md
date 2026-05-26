@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCxRaSiD7V2s.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/71L6ZAisLtzcDO2PVDXkCl">Jenny Owen Youngs</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 545 likes - 279 songs - 14 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 546 likes - 279 songs - 14 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCxRaSiD7V2s.md) - [plain]
 | 54 | [Merry Go Round](https://open.spotify.com/track/4sMYfHAXlPOUzdHcjG5aRh) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Merry Go Round](https://open.spotify.com/album/2JDg4HHyjXlRBiXbLDh3dh) | 2:28 |
 | 55 | [If I Didn't Know](https://open.spotify.com/track/1Z4oulm2H19GRohq4y4oW1) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Transmitter Failure \(Bonus Track Version\)](https://open.spotify.com/album/66BFEncEfO6c8zgKXWKBrZ) | 4:09 |
 | 56 | [Skinny Dipping](https://open.spotify.com/track/3EZ0S3mfoXnHrLExD5p5LR) | [L.A\. Exes](https://open.spotify.com/artist/4UXwLNXFz8MTQ8X5NHQfMu) | [Get Some](https://open.spotify.com/album/7rdPIeFMS57uEnVATKUPW7) | 1:54 |
-| 57 | [Why You Fall](https://open.spotify.com/track/4WuC0yxuU6MT71nCgWODRp) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [An Unwavering Band of Light](https://open.spotify.com/album/3GyW6N5qgbZK33tUOaZT3N) | 5:21 |
-| 58 | [Temporary Goodbye](https://open.spotify.com/track/3T7BvwvgrFwBg8Cmyi6q6q) | [L.A\. Exes](https://open.spotify.com/artist/4UXwLNXFz8MTQ8X5NHQfMu) | [Get Some](https://open.spotify.com/album/7rdPIeFMS57uEnVATKUPW7) | 2:29 |
+| 57 | [Temporary Goodbye](https://open.spotify.com/track/3T7BvwvgrFwBg8Cmyi6q6q) | [L.A\. Exes](https://open.spotify.com/artist/4UXwLNXFz8MTQ8X5NHQfMu) | [Get Some](https://open.spotify.com/album/7rdPIeFMS57uEnVATKUPW7) | 2:29 |
+| 58 | [Why You Fall](https://open.spotify.com/track/4WuC0yxuU6MT71nCgWODRp) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [An Unwavering Band of Light](https://open.spotify.com/album/3GyW6N5qgbZK33tUOaZT3N) | 5:21 |
 | 59 | [Baby Let's Pretend](https://open.spotify.com/track/1W1sWmPOD8XFZ5GOQ3T9mn) | [L.A\. Exes](https://open.spotify.com/artist/4UXwLNXFz8MTQ8X5NHQfMu) | [Get Some](https://open.spotify.com/album/7rdPIeFMS57uEnVATKUPW7) | 2:31 |
 | 60 | [Nighty Night](https://open.spotify.com/track/2IwN0YJUCXz97UZVQV9MB0) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H), [Jukebox The Ghost](https://open.spotify.com/artist/0L8jXe7QeS9oYUoXbANmX4) | [Jukebox the Ghost & Jenny Owen Youngs](https://open.spotify.com/album/1uoCeITzSPJXxbmqn74P6X) | 3:04 |
 | 61 | [I Wish I Wanted To](https://open.spotify.com/track/4Q8ycVIJQ48jNX5wzLKmho) | [Ashley Campbell](https://open.spotify.com/artist/49mvmawPDTzmEaEPY5z0ew) | [The Lonely One](https://open.spotify.com/album/1cwovZdlVDJarqdYdRxeIh) | 3:35 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCxRaSiD7V2s.md) - [plain]
 | 95 | [Dream Was About](https://open.spotify.com/track/5455TYyWAmmR8cHhBidoGc) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Night Shift \(Extended Edition\)](https://open.spotify.com/album/68KgywE487zDBLlFQZdH0W) | 3:35 |
 | 96 | [Keys Out Lights On](https://open.spotify.com/track/0Ej6qIhc3k3Kky7UknNbav) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Batten The Hatches](https://open.spotify.com/album/5S0bU4MVkcdVBJo0c0horr) | 5:00 |
 | 97 | [Bad Girls](https://open.spotify.com/track/39pj9hEvopRtR9i7qLwGPL) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy), [Tancred](https://open.spotify.com/artist/4rdoYKpVduYtHfKJgUnOkS) | [Songs from Season Three](https://open.spotify.com/album/2CxpXm2MBLegKCUjpp0aPK) | 3:30 |
-| 98 | [Reptile Boy](https://open.spotify.com/track/6ZPvZ0xq3Tg9YGikHaD1Cq) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Two](https://open.spotify.com/album/5r0Xn9uTzTulJLEjY0WCSd) | 3:16 |
-| 99 | [Lost](https://open.spotify.com/track/5D2EvPaFfJN3dZ92rj4Wov) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [It's Dangerous To Go Alone](https://open.spotify.com/album/5c8RBZDglyFmPmQQl0QXDv) | 2:51 |
+| 98 | [Lost](https://open.spotify.com/track/5D2EvPaFfJN3dZ92rj4Wov) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [It's Dangerous To Go Alone](https://open.spotify.com/album/5c8RBZDglyFmPmQQl0QXDv) | 2:51 |
+| 99 | [Reptile Boy](https://open.spotify.com/track/6ZPvZ0xq3Tg9YGikHaD1Cq) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Two](https://open.spotify.com/album/5r0Xn9uTzTulJLEjY0WCSd) | 3:16 |
 | 100 | [When The Rain Comes Down](https://open.spotify.com/track/37QV0TKKkLTWo5ipfm0kAr) | [Alex Lahey](https://open.spotify.com/artist/5kdYrM3h2sB1Eid5tDf6Hk) | [The Answer Is Always Yes \(Expanded Edition\)](https://open.spotify.com/album/7Jz15loeFy1pRa5l3YpaQK) | 3:49 |
 | 101 | [Dragonborn](https://open.spotify.com/track/0Xa5h31hcfDb04bmMGkf2e) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H), [John Mark Nelson](https://open.spotify.com/artist/7JhOzFlNJjcRrFan1wlwYB) | [It's Dangerous To Go Alone](https://open.spotify.com/album/5c8RBZDglyFmPmQQl0QXDv) | 4:22 |
 | 102 | [Stillness](https://open.spotify.com/track/4GHyQJVNkZnXVZ91M7xSF5) | [Hrishikesh Hirway](https://open.spotify.com/artist/2nMDfp8TJzahlTJr5Hvetf) | [Rooms I Used to Call My Own](https://open.spotify.com/album/2LeDzfWieHtdO61gQhBYIj) | 4:04 |
@@ -288,4 +288,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCxRaSiD7V2s.md) - [plain]
 | 278 | [Patriarchy Reimagined](https://open.spotify.com/track/3Tlq3AOodvVeH7Byn92Z9g) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy), [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Once More With Once More, With Feeling](https://open.spotify.com/album/5H8RpSJqEcZxFz2FRhBrTQ) | 0:21 |
 | 279 | [Gaby's Ballet](https://open.spotify.com/track/1ixFhUXlqVvfftRnh9WZlq) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Once More With Once More, With Feeling](https://open.spotify.com/album/5H8RpSJqEcZxFz2FRhBrTQ) | 0:23 |
 
-Snapshot ID: `AcSYnAAAAACZnocU7JFYnyRjm1wprrw0`
+Snapshot ID: `AcSeMgAAAADPEVZCry2K1JUiJ5ZMDSjZ`

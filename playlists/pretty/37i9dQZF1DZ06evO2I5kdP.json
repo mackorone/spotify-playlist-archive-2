@@ -1,12 +1,12 @@
 {
   "description": "This is Christina Vantzou. The essential tracks, all in one playlist.",
-  "num_followers": 240,
+  "num_followers": 239,
   "original_name": "This Is Christina Vantzou",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahDuAAAAAAAOtfhDwRiOKs3gJxpfhL3p",
+  "snapshot_id": "ahI/gAAAAAArq96fsKddpf73ZzLGkdCj",
   "tracks": [
     {
       "added_at": null,
@@ -268,9 +268,9 @@
           "url": "https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR"
         }
       ],
-      "duration_ms": 290000,
-      "name": "Amour, a liquid state",
-      "url": "https://open.spotify.com/track/314lwa5x8khiqqWnzrWHF9"
+      "duration_ms": 146000,
+      "name": "A Secret",
+      "url": "https://open.spotify.com/track/1W36R0sUe6XOjOnpmMDRsc"
     },
     {
       "added_at": null,
@@ -307,6 +307,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "No. 3",
+        "url": "https://open.spotify.com/album/0IFAjnkr74T7JLEwGW8sia"
+      },
+      "artists": [
+        {
+          "name": "Christina Vantzou",
+          "url": "https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR"
+        }
+      ],
+      "duration_ms": 197697,
+      "name": "Pillar 5",
+      "url": "https://open.spotify.com/track/2KPFKegYsObGuujzTd4QGw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Reflections Vol. 3: Water Poems",
+        "url": "https://open.spotify.com/album/3OWKy0zcaRmi0mx4XCLTOF"
+      },
+      "artists": [
+        {
+          "name": "Felicia Atkinson",
+          "url": "https://open.spotify.com/artist/5YQURNvswNpWWUWyeNT7we"
+        },
+        {
+          "name": "Christina Vantzou",
+          "url": "https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR"
+        }
+      ],
+      "duration_ms": 290000,
+      "name": "Amour, a liquid state",
+      "url": "https://open.spotify.com/track/314lwa5x8khiqqWnzrWHF9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Landscape Architecture",
         "url": "https://open.spotify.com/album/4Efmy1cGT5PcyZY3dvHMRf"
       },
@@ -327,6 +363,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "No. 1",
+        "url": "https://open.spotify.com/album/3FpVOIZe9mD17Uti0CzXsD"
+      },
+      "artists": [
+        {
+          "name": "Christina Vantzou",
+          "url": "https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR"
+        }
+      ],
+      "duration_ms": 455109,
+      "name": "Adversary",
+      "url": "https://open.spotify.com/track/5vpIknqvBAu3UUmZtImOOx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u039a\u03bb\u03af\u03bc\u03b1 (Klima)",
+        "url": "https://open.spotify.com/album/3NexLrkzrFVDLZBbyLEfkN"
+      },
+      "artists": [
+        {
+          "name": "Christina Vantzou",
+          "url": "https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR"
+        },
+        {
+          "name": "John Also Bennett",
+          "url": "https://open.spotify.com/artist/763QqRidfZUpg74lK6k9rk"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Lands of Permanent Mist",
+      "url": "https://open.spotify.com/track/0OwyTY02B5VDsh9iRomy59"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Reflections Vol. 3: Water Poems",
         "url": "https://open.spotify.com/album/3OWKy0zcaRmi0mx4XCLTOF"
       },
@@ -340,41 +412,9 @@
           "url": "https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR"
         }
       ],
-      "duration_ms": 146000,
-      "name": "A Secret",
-      "url": "https://open.spotify.com/track/1W36R0sUe6XOjOnpmMDRsc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No. 3",
-        "url": "https://open.spotify.com/album/0IFAjnkr74T7JLEwGW8sia"
-      },
-      "artists": [
-        {
-          "name": "Christina Vantzou",
-          "url": "https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR"
-        }
-      ],
-      "duration_ms": 197697,
-      "name": "Pillar 5",
-      "url": "https://open.spotify.com/track/2KPFKegYsObGuujzTd4QGw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No. 1",
-        "url": "https://open.spotify.com/album/3FpVOIZe9mD17Uti0CzXsD"
-      },
-      "artists": [
-        {
-          "name": "Christina Vantzou",
-          "url": "https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR"
-        }
-      ],
-      "duration_ms": 455109,
-      "name": "Adversary",
-      "url": "https://open.spotify.com/track/5vpIknqvBAu3UUmZtImOOx"
+      "duration_ms": 238000,
+      "name": "Shines for Eternity",
+      "url": "https://open.spotify.com/track/17wS3gFjBUZpncmlh7ANlW"
     },
     {
       "added_at": null,
@@ -403,22 +443,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reflections Vol. 3: Water Poems",
-        "url": "https://open.spotify.com/album/3OWKy0zcaRmi0mx4XCLTOF"
+        "name": "No. 1",
+        "url": "https://open.spotify.com/album/3FpVOIZe9mD17Uti0CzXsD"
       },
       "artists": [
-        {
-          "name": "Felicia Atkinson",
-          "url": "https://open.spotify.com/artist/5YQURNvswNpWWUWyeNT7we"
-        },
         {
           "name": "Christina Vantzou",
           "url": "https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR"
         }
       ],
-      "duration_ms": 238000,
-      "name": "Shines for Eternity",
-      "url": "https://open.spotify.com/track/17wS3gFjBUZpncmlh7ANlW"
+      "duration_ms": 277082,
+      "name": "Super Interlude Pt. 2",
+      "url": "https://open.spotify.com/track/7xF09Ls3Ls1RGPnKoWgrO7"
     },
     {
       "added_at": null,
@@ -443,22 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No. 1",
-        "url": "https://open.spotify.com/album/3FpVOIZe9mD17Uti0CzXsD"
-      },
-      "artists": [
-        {
-          "name": "Christina Vantzou",
-          "url": "https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR"
-        }
-      ],
-      "duration_ms": 76949,
-      "name": "Super Interlude Pt. 1",
-      "url": "https://open.spotify.com/track/4IJ2Bbi3alh0JmMVuLAKzm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u039a\u03bb\u03af\u03bc\u03b1 (Klima)",
         "url": "https://open.spotify.com/album/3NexLrkzrFVDLZBbyLEfkN"
       },
@@ -472,9 +492,9 @@
           "url": "https://open.spotify.com/artist/763QqRidfZUpg74lK6k9rk"
         }
       ],
-      "duration_ms": 230000,
-      "name": "Lands of Permanent Mist",
-      "url": "https://open.spotify.com/track/0OwyTY02B5VDsh9iRomy59"
+      "duration_ms": 410000,
+      "name": "Pottery Fragments",
+      "url": "https://open.spotify.com/track/3y8XTCiPWQJkFEnKIahCJo"
     },
     {
       "added_at": null,
@@ -503,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No. 2",
-        "url": "https://open.spotify.com/album/6h5IpBvXZevQ0OWjEfVLby"
-      },
-      "artists": [
-        {
-          "name": "Christina Vantzou",
-          "url": "https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR"
-        }
-      ],
-      "duration_ms": 263440,
-      "name": "Going Backwards to Recover That Which Was Left Behind",
-      "url": "https://open.spotify.com/track/32zWDSTEpylABCnlrWaNV0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No. 4",
         "url": "https://open.spotify.com/album/34zrvcPKCD23KFMo8v0FEe"
       },
@@ -543,22 +547,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u039a\u03bb\u03af\u03bc\u03b1 (Klima)",
-        "url": "https://open.spotify.com/album/3NexLrkzrFVDLZBbyLEfkN"
+        "name": "No. 2",
+        "url": "https://open.spotify.com/album/6h5IpBvXZevQ0OWjEfVLby"
       },
       "artists": [
         {
           "name": "Christina Vantzou",
           "url": "https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR"
-        },
-        {
-          "name": "John Also Bennett",
-          "url": "https://open.spotify.com/artist/763QqRidfZUpg74lK6k9rk"
         }
       ],
-      "duration_ms": 410000,
-      "name": "Pottery Fragments",
-      "url": "https://open.spotify.com/track/3y8XTCiPWQJkFEnKIahCJo"
+      "duration_ms": 263440,
+      "name": "Going Backwards to Recover That Which Was Left Behind",
+      "url": "https://open.spotify.com/track/32zWDSTEpylABCnlrWaNV0"
     },
     {
       "added_at": null,
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/763QqRidfZUpg74lK6k9rk"
         }
       ],
-      "duration_ms": 68624,
-      "name": "Messengers of the Rains",
-      "url": "https://open.spotify.com/track/7nuyqnbGWKvtRxYLQZin5z"
+      "duration_ms": 125000,
+      "name": "\u039a\u03bb\u03af\u03bc\u03b1 (Klima)",
+      "url": "https://open.spotify.com/track/2ZXR6GNwSfgPuUa7KXr1Dk"
     },
     {
       "added_at": null,
@@ -768,9 +768,9 @@
           "url": "https://open.spotify.com/artist/763QqRidfZUpg74lK6k9rk"
         }
       ],
-      "duration_ms": 125000,
-      "name": "\u039a\u03bb\u03af\u03bc\u03b1 (Klima)",
-      "url": "https://open.spotify.com/track/2ZXR6GNwSfgPuUa7KXr1Dk"
+      "duration_ms": 68624,
+      "name": "Messengers of the Rains",
+      "url": "https://open.spotify.com/track/7nuyqnbGWKvtRxYLQZin5z"
     },
     {
       "added_at": null,
@@ -798,11 +798,19 @@
         {
           "name": "Christina Vantzou",
           "url": "https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR"
+        },
+        {
+          "name": "Steve Hauschildt",
+          "url": "https://open.spotify.com/artist/2L00vHmYcwC9OlsEv6M5UO"
+        },
+        {
+          "name": "Echo Collective",
+          "url": "https://open.spotify.com/artist/0vA5v6tBmGdzhupEeUDK9S"
         }
       ],
-      "duration_ms": 98106,
-      "name": "Percussion in Nonspace",
-      "url": "https://open.spotify.com/track/3zSk7VaJAbu4q1L4c083mx"
+      "duration_ms": 387613,
+      "name": "Remote Polyphony",
+      "url": "https://open.spotify.com/track/6lypDVMsRr7SCqt16HrXnZ"
     },
     {
       "added_at": null,
@@ -874,19 +882,11 @@
         {
           "name": "Christina Vantzou",
           "url": "https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR"
-        },
-        {
-          "name": "Steve Hauschildt",
-          "url": "https://open.spotify.com/artist/2L00vHmYcwC9OlsEv6M5UO"
-        },
-        {
-          "name": "Echo Collective",
-          "url": "https://open.spotify.com/artist/0vA5v6tBmGdzhupEeUDK9S"
         }
       ],
-      "duration_ms": 387613,
-      "name": "Remote Polyphony",
-      "url": "https://open.spotify.com/track/6lypDVMsRr7SCqt16HrXnZ"
+      "duration_ms": 98106,
+      "name": "Percussion in Nonspace",
+      "url": "https://open.spotify.com/track/3zSk7VaJAbu4q1L4c083mx"
     },
     {
       "added_at": null,
@@ -911,8 +911,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Multi Natural",
-        "url": "https://open.spotify.com/album/1TJEW0pNgHyAC2oacwNnoh"
+        "name": "SMM: Context",
+        "url": "https://open.spotify.com/album/2a97FawvuPFdfv2PNrOrPt"
       },
       "artists": [
         {
@@ -920,9 +920,9 @@
           "url": "https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR"
         }
       ],
-      "duration_ms": 182880,
-      "name": "Snow White",
-      "url": "https://open.spotify.com/track/14RJkqBkYRAvap3W20hMcj"
+      "duration_ms": 316816,
+      "name": "11 Generations Of My Fathers",
+      "url": "https://open.spotify.com/track/3HvyffCd77o1CHNuHIiX1w"
     },
     {
       "added_at": null,
@@ -943,8 +943,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "SMM: Context",
-        "url": "https://open.spotify.com/album/2a97FawvuPFdfv2PNrOrPt"
+        "name": "Multi Natural",
+        "url": "https://open.spotify.com/album/1TJEW0pNgHyAC2oacwNnoh"
       },
       "artists": [
         {
@@ -952,9 +952,9 @@
           "url": "https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR"
         }
       ],
-      "duration_ms": 316816,
-      "name": "11 Generations Of My Fathers",
-      "url": "https://open.spotify.com/track/3HvyffCd77o1CHNuHIiX1w"
+      "duration_ms": 182880,
+      "name": "Snow White",
+      "url": "https://open.spotify.com/track/14RJkqBkYRAvap3W20hMcj"
     }
   ],
   "unique_name": "This Is Christina Vantzou",

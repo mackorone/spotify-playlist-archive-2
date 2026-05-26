@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6E2JpQb9U9.md) - [plain]
 
 > Rock en vivo de la A a la Z, de ayer, de hoy y de siempre..\. ¡Canten ustedes! Foto: El Cuarteto de Nos
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,208 likes - 100 songs - 7 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,215 likes - 100 songs - 7 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6E2JpQb9U9.md) - [plain]
 | 44 | [DESCARTABLE \- En Vivo Estadio Racing Club](https://open.spotify.com/track/78S8Hb2Z1ERaTjKzxa5l5g) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [DESCARTABLE \(En Vivo Estadio Racing Club\)](https://open.spotify.com/album/6hO0rzpVAUGNy2h7qKd69p) | 3:06 |
 | 45 | [La Rueda Mágica \- En Vivo](https://open.spotify.com/track/4lhtqmdz80xSAKWMwDUcuK) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [El Amor Después Del Amor 20 Años \( En Vivo \)](https://open.spotify.com/album/69hkXFR8jgVt1cLqfQmKEj) | 4:07 |
 | 46 | [My Love \- Acústico Gran Rex Vol\. 2](https://open.spotify.com/track/3YmSjzUch6kPXI8gAc16Ug) | [Guasones](https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o) | [Acústico Gran Rex, Vol\. 2](https://open.spotify.com/album/5FhGXJP1oaVkRnjoloyz4u) | 4:38 |
-| 47 | [Cosa Linda/Clara \- En Vivo](https://open.spotify.com/track/48JNsIQ07dqVwpOdjjN8yu) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j), [Sebastián Teysera](https://open.spotify.com/artist/4TidDyz02XtlA9d32j1ZYK) | [MVD/05/03/05 \(En Vivo\)](https://open.spotify.com/album/3fV0us97rc1lbhjWVWQO2U) | 6:38 |
+| 47 | [Avanti Morocha \(En Vivo Provincia Emergente\)](https://open.spotify.com/track/7KEi5XL40fRcqyq9aUcDX6) | [Los Caballeros De La Quema](https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW) | [Provincia Emergente Estadio Unico de La Plata \(En Vivo\)](https://open.spotify.com/album/2VPSdVQuuSNyYPIgzxruqi) | 5:34 |
 | 48 | [Ya No Estás \- En Vivo en el Luna Park](https://open.spotify.com/track/3c8v1vkAFkEMn17asSMldf) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Vivo](https://open.spotify.com/album/49Y0JDS4o3itFl0aw1eD0o) | 3:34 |
-| 49 | [Avanti Morocha \(En Vivo Provincia Emergente\)](https://open.spotify.com/track/7KEi5XL40fRcqyq9aUcDX6) | [Los Caballeros De La Quema](https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW) | [Provincia Emergente Estadio Unico de La Plata \(En Vivo\)](https://open.spotify.com/album/2VPSdVQuuSNyYPIgzxruqi) | 5:34 |
+| 49 | [Cosa Linda/Clara \- En Vivo](https://open.spotify.com/track/48JNsIQ07dqVwpOdjjN8yu) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j), [Sebastián Teysera](https://open.spotify.com/artist/4TidDyz02XtlA9d32j1ZYK) | [MVD/05/03/05 \(En Vivo\)](https://open.spotify.com/album/3fV0us97rc1lbhjWVWQO2U) | 6:38 |
 | 50 | [Irresponsables \- En Vivo](https://open.spotify.com/track/27CiyWWdkSAM6mWfaNYaxt) | [Babasonicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Repuesto de Fe \(En Vivo\)](https://open.spotify.com/album/37T4qeUVTpx7Ps3HhSKdKc) | 2:44 |
 | 51 | [Magia Blanca \- En Vivo en el Teatro Ópera](https://open.spotify.com/track/1nYpwh84SyGAYDjOE5LNN0) | [Turf](https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1) | [En Vivo en el Teatro Ópera](https://open.spotify.com/album/7x0aE1wk7VQYNFtCES9nL6) | 5:04 |
 | 52 | [Solo Aqui \- En Vivo](https://open.spotify.com/track/1pIjHr3eZygWJ2DSisk7nJ) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Solo Aquí \(En Vivo\)](https://open.spotify.com/album/3vzJeKwWUT44LdPCQrUki0) | 4:07 |

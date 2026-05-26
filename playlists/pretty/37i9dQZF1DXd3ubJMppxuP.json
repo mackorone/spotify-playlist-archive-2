@@ -1,6 +1,6 @@
 {
   "description": "Hardstyle in het Nederlands. Feest!",
-  "num_followers": 87744,
+  "num_followers": 87758,
   "original_name": "Nederlandse Hardstyle",
   "owner": {
     "name": "Spotify",
@@ -679,6 +679,26 @@
     {
       "added_at": "2026-04-02 22:00:25",
       "album": {
+        "name": "Outsiders Remix EP",
+        "url": "https://open.spotify.com/album/4h8wUzTlXc3kMkc8ClRJPJ"
+      },
+      "artists": [
+        {
+          "name": "Donnie",
+          "url": "https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE"
+        },
+        {
+          "name": "Rene Froger",
+          "url": "https://open.spotify.com/artist/5MvyMusqNikgVgkKHLc3pb"
+        }
+      ],
+      "duration_ms": 226245,
+      "name": "Bon Gepakt (feat. Rene Froger) - Outsiders Remix",
+      "url": "https://open.spotify.com/track/1PciHKTKIJIUXNB459GHC1"
+    },
+    {
+      "added_at": "2026-04-02 22:00:25",
+      "album": {
         "name": "Van Goes Tot Purmerend (Altijd Larstig & Rob Gasd'rop en FeestDJRuud Remix)",
         "url": "https://open.spotify.com/album/6eauvU44jAYmb66jXi3ZMS"
       },
@@ -703,26 +723,6 @@
       "duration_ms": 150193,
       "name": "Van Goes Tot Purmerend - Altijd Larstig & Rob Gasd'rop en FeestDJRuud Remix",
       "url": "https://open.spotify.com/track/5M0ngOXI5ivJW4UJq5FwsS"
-    },
-    {
-      "added_at": "2026-04-02 22:00:25",
-      "album": {
-        "name": "Outsiders Remix EP",
-        "url": "https://open.spotify.com/album/4h8wUzTlXc3kMkc8ClRJPJ"
-      },
-      "artists": [
-        {
-          "name": "Donnie",
-          "url": "https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE"
-        },
-        {
-          "name": "Rene Froger",
-          "url": "https://open.spotify.com/artist/5MvyMusqNikgVgkKHLc3pb"
-        }
-      ],
-      "duration_ms": 226245,
-      "name": "Bon Gepakt (feat. Rene Froger) - Outsiders Remix",
-      "url": "https://open.spotify.com/track/1PciHKTKIJIUXNB459GHC1"
     },
     {
       "added_at": "2026-04-02 22:00:25",
@@ -835,26 +835,6 @@
     {
       "added_at": "2026-04-02 22:00:25",
       "album": {
-        "name": "Gas Erop",
-        "url": "https://open.spotify.com/album/42wrHk8tCw82Gn7OIsq4KB"
-      },
-      "artists": [
-        {
-          "name": "Hak op de Tak",
-          "url": "https://open.spotify.com/artist/4N4zllt2MXplNv5tciBn9e"
-        },
-        {
-          "name": "K-Liber",
-          "url": "https://open.spotify.com/artist/551ZoX3knGOBIB6HrPPgq2"
-        }
-      ],
-      "duration_ms": 179612,
-      "name": "Gas Erop",
-      "url": "https://open.spotify.com/track/3x2jNMSqQSjdEaUgj1oUWR"
-    },
-    {
-      "added_at": "2026-04-02 22:00:25",
-      "album": {
         "name": "Vette Boeren (Radio Edit - Daani Remix)",
         "url": "https://open.spotify.com/album/10pMdh864AvXkUekZiXI7p"
       },
@@ -871,6 +851,26 @@
       "duration_ms": 148235,
       "name": "Vette Boeren - Radio Edit - Daani Remix",
       "url": "https://open.spotify.com/track/3Nq60zJAV8QM3sJXa2pP4c"
+    },
+    {
+      "added_at": "2026-04-02 22:00:25",
+      "album": {
+        "name": "Gas Erop",
+        "url": "https://open.spotify.com/album/42wrHk8tCw82Gn7OIsq4KB"
+      },
+      "artists": [
+        {
+          "name": "Hak op de Tak",
+          "url": "https://open.spotify.com/artist/4N4zllt2MXplNv5tciBn9e"
+        },
+        {
+          "name": "K-Liber",
+          "url": "https://open.spotify.com/artist/551ZoX3knGOBIB6HrPPgq2"
+        }
+      ],
+      "duration_ms": 179612,
+      "name": "Gas Erop",
+      "url": "https://open.spotify.com/track/3x2jNMSqQSjdEaUgj1oUWR"
     },
     {
       "added_at": "2026-04-02 22:00:25",
@@ -919,26 +919,6 @@
     {
       "added_at": "2026-04-02 22:00:25",
       "album": {
-        "name": "Hey Meid (Total Loss Remix)",
-        "url": "https://open.spotify.com/album/1i0R7xiLKmZwYNWGmE598J"
-      },
-      "artists": [
-        {
-          "name": "PartyfrieX",
-          "url": "https://open.spotify.com/artist/1QXZ1BMJKU2dl2q6rDn1pB"
-        },
-        {
-          "name": "Total Loss",
-          "url": "https://open.spotify.com/artist/7r1uNv2eh16EPoBAEB1PLn"
-        }
-      ],
-      "duration_ms": 148800,
-      "name": "Hey Meid - Total Loss Remix",
-      "url": "https://open.spotify.com/track/3DEOsGeqcpHsN7DAgcWzkG"
-    },
-    {
-      "added_at": "2026-04-02 22:00:25",
-      "album": {
         "name": "Party All Night (Facking Feestje)",
         "url": "https://open.spotify.com/album/4vHJ9idSm97AgY9FUY5bvl"
       },
@@ -955,6 +935,26 @@
       "duration_ms": 176100,
       "name": "Party All Night (Facking Feestje)",
       "url": "https://open.spotify.com/track/3TMyHtHJDdIUJ2ZUvjSzcx"
+    },
+    {
+      "added_at": "2026-04-02 22:00:25",
+      "album": {
+        "name": "Hey Meid (Total Loss Remix)",
+        "url": "https://open.spotify.com/album/1i0R7xiLKmZwYNWGmE598J"
+      },
+      "artists": [
+        {
+          "name": "PartyfrieX",
+          "url": "https://open.spotify.com/artist/1QXZ1BMJKU2dl2q6rDn1pB"
+        },
+        {
+          "name": "Total Loss",
+          "url": "https://open.spotify.com/artist/7r1uNv2eh16EPoBAEB1PLn"
+        }
+      ],
+      "duration_ms": 148800,
+      "name": "Hey Meid - Total Loss Remix",
+      "url": "https://open.spotify.com/track/3DEOsGeqcpHsN7DAgcWzkG"
     },
     {
       "added_at": "2026-04-02 22:00:25",
@@ -1015,26 +1015,6 @@
     {
       "added_at": "2026-04-02 22:00:25",
       "album": {
-        "name": "Adio Amore (Hardstyle Remix)",
-        "url": "https://open.spotify.com/album/34VlLaD14KcAg5zCsVVxz2"
-      },
-      "artists": [
-        {
-          "name": "Zanger Alex",
-          "url": "https://open.spotify.com/artist/7dX46liQvHKgYXekJTB2lO"
-        },
-        {
-          "name": "Lanterfantje",
-          "url": "https://open.spotify.com/artist/3q6u7Aifk5DkiIMR7KtIT8"
-        }
-      ],
-      "duration_ms": 210105,
-      "name": "Adio Amore - Hardstyle Remix",
-      "url": "https://open.spotify.com/track/4fe1Rx9n6MwzeSPCgcn5mK"
-    },
-    {
-      "added_at": "2026-04-02 22:00:25",
-      "album": {
         "name": "Uit Elkaar",
         "url": "https://open.spotify.com/album/763my15VaOrjEhS87BKvgs"
       },
@@ -1051,6 +1031,26 @@
       "duration_ms": 230635,
       "name": "Uit Elkaar",
       "url": "https://open.spotify.com/track/57PxqUdFxBleX177r8TzzR"
+    },
+    {
+      "added_at": "2026-04-02 22:00:25",
+      "album": {
+        "name": "Adio Amore (Hardstyle Remix)",
+        "url": "https://open.spotify.com/album/34VlLaD14KcAg5zCsVVxz2"
+      },
+      "artists": [
+        {
+          "name": "Zanger Alex",
+          "url": "https://open.spotify.com/artist/7dX46liQvHKgYXekJTB2lO"
+        },
+        {
+          "name": "Lanterfantje",
+          "url": "https://open.spotify.com/artist/3q6u7Aifk5DkiIMR7KtIT8"
+        }
+      ],
+      "duration_ms": 210105,
+      "name": "Adio Amore - Hardstyle Remix",
+      "url": "https://open.spotify.com/track/4fe1Rx9n6MwzeSPCgcn5mK"
     },
     {
       "added_at": "2026-04-02 22:00:25",

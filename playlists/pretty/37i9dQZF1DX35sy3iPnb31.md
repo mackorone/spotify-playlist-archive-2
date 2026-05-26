@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 
 > The best Canadian songs of the month, handpicked by Spotify Canada editors\. Cover: Angine de Poitrine
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,796 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,813 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,14 +19,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 | 9 | [Lots of Love](https://open.spotify.com/track/3ZOgyddOAOBl3jpY6gLIC4) | [Brothers Macklovitch](https://open.spotify.com/artist/74ituHOQ0RtRfPGwyfZYPl), [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt) | [Lots of Love](https://open.spotify.com/album/50vTpftBnpvCMzTGLZ0cYH) | 3:07 |
 | 10 | [Outline](https://open.spotify.com/track/2Eb6bBgGcVm83xjI2IaTlr) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi), [Miette Hope](https://open.spotify.com/artist/4K61UysqQc1VRj8VsY76Qw) | [AMi Vol\. 1](https://open.spotify.com/album/4yZVkEpL1rV8n4KmSINpYb) | 4:10 |
 | 11 | [If Somebody Told Me You Were Dying](https://open.spotify.com/track/7AC8IxFKVkAbW7R8wJisUg) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [If Somebody Told Me You Were Dying](https://open.spotify.com/album/0izbYSBk32Aos3qHS2ZW1M) | 3:05 |
-| 12 | [Charlotte](https://open.spotify.com/track/5UrxRPPKl5EiLy1RTbobZl) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW) | [Charlotte](https://open.spotify.com/album/2BoIQZ3r83HbY0mYVXubDY) | 2:29 |
-| 13 | [All Day](https://open.spotify.com/track/20uABzxxuEjNVbMYgHUPa6) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [All Day](https://open.spotify.com/album/0zJrpG5MSBZ2qAiTYRFGmQ) | 2:17 |
+| 12 | [All Day](https://open.spotify.com/track/20uABzxxuEjNVbMYgHUPa6) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [All Day](https://open.spotify.com/album/0zJrpG5MSBZ2qAiTYRFGmQ) | 2:17 |
+| 13 | [Charlotte](https://open.spotify.com/track/5UrxRPPKl5EiLy1RTbobZl) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW) | [Charlotte](https://open.spotify.com/album/2BoIQZ3r83HbY0mYVXubDY) | 2:29 |
 | 14 | [Si on revenait en arrière](https://open.spotify.com/track/6hmxkqlC4SbeA2ZGykbQSP) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [Si on revenait en arrière](https://open.spotify.com/album/2449LHRK2A0B94ph3fdg76) | 2:19 |
 | 15 | [midnight moon](https://open.spotify.com/track/5fu8pfEsXXA9mY0F9grAce) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi) | [HOME WAS ALWAYS ME](https://open.spotify.com/album/3LjjkS2s2b2RdluM00NWLD) | 2:17 |
 | 16 | [collagen](https://open.spotify.com/track/2oD5n6V9bhvyUEdwFGvnu0) | [livingthing](https://open.spotify.com/artist/4DSxrJMbWwzezTooMm0ZTt) | [juniper ring](https://open.spotify.com/album/37SvCCNjOG3zMe2OH6xPVw) | 3:28 |
 | 17 | [SUGAR WATER](https://open.spotify.com/track/6zkoIozGGyFgk3EIAIs6oF) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt) | [SUGAR WATER](https://open.spotify.com/album/7bL5SEk32HW0e6WxePXWcZ) | 3:10 |
-| 18 | [Strangers](https://open.spotify.com/track/5ligHUBfOzXx0kv8QXRbQ0) | [Ghostly Kisses](https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj) | [Strangers](https://open.spotify.com/album/3btOASnrHiiMAsGX9MOFO6) | 3:19 |
-| 19 | [Le bon choix](https://open.spotify.com/track/0V2DYyeSvQeiMfq10ED6M6) | [Gabriel Fredette](https://open.spotify.com/artist/11PwmjAI0MyeST8BA7ipB4) | [Qui je suis](https://open.spotify.com/album/4GUr2nwOgVYxFAslKpFlw1) | 2:15 |
+| 18 | [Le bon choix](https://open.spotify.com/track/0V2DYyeSvQeiMfq10ED6M6) | [Gabriel Fredette](https://open.spotify.com/artist/11PwmjAI0MyeST8BA7ipB4) | [Qui je suis](https://open.spotify.com/album/4GUr2nwOgVYxFAslKpFlw1) | 2:15 |
+| 19 | [Strangers](https://open.spotify.com/track/5ligHUBfOzXx0kv8QXRbQ0) | [Ghostly Kisses](https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj) | [Strangers](https://open.spotify.com/album/3btOASnrHiiMAsGX9MOFO6) | 3:19 |
 | 20 | [Pink Living Room](https://open.spotify.com/track/1Eu49CiR5D5x85kymc70ar) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [Pink Living Room](https://open.spotify.com/album/6Sua86pFF6JuJzns3XEeRs) | 3:56 |
 | 21 | [lemonlime](https://open.spotify.com/track/68utYAhxFqE4xK7cmObExo) | [Purity Ring](https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4) | [lemonlime](https://open.spotify.com/album/4Wx1qHpwOLTt96L8I0Kt3u) | 3:25 |
 | 22 | [tangerine!](https://open.spotify.com/track/3CElLbVHAx5oqgDozDdpwR) | [Jahson Paynter](https://open.spotify.com/artist/73SbrIktK3Na0OTmhZpMy8) | [tangerine!](https://open.spotify.com/album/4e4WfNz2OUB7oqsRJL2PQl) | 2:38 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 | 34 | [I Been](https://open.spotify.com/track/25zKoVubfweF7RvWbdnII7) | [B.ROB](https://open.spotify.com/artist/1ok4DP80jKsX7GZZ6yr2xR) | [Through The Storm](https://open.spotify.com/album/18d8Y0CfIwSR1gr4nFkkrO) | 2:33 |
 | 35 | [Le Roi de la montagne](https://open.spotify.com/track/3Tj4NZCOKQXzG8FgZJ81fQ) | [Klô Pelgag](https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi) | [Le Roi de la montagne](https://open.spotify.com/album/4NdkaHhwYRFsMrk4HYEngI) | 3:42 |
 | 36 | [Oh, Ana](https://open.spotify.com/track/46G3dLvPYBjRB5WzyvWr32) | [Dominique Way](https://open.spotify.com/artist/5kROZ1F7ExRZyFnHvKdlJ7) | [Oh, Ana](https://open.spotify.com/album/7h9mJCFBWhaRdWHm28xIME) | 3:12 |
-| 37 | [Pain \- Lonesome Version](https://open.spotify.com/track/17PLTUNOheE8k9M2oOonFF) | [Fernie](https://open.spotify.com/artist/5PemoTSZMQp59WnXZZ4EhI) | [Pain \(Lonesome Version\)](https://open.spotify.com/album/7G2eiZtTNpFADoBqvzKFs6) | 4:23 |
-| 38 | [I WANNA DANCE](https://open.spotify.com/track/7meRbdhGSL33VwsUK9P2mB) | [Tallandskiinny](https://open.spotify.com/artist/7oV3ZD4d2onldb3N8DKQjm) | [I WANNA DANCE](https://open.spotify.com/album/0ERprW5OlF990S05xy6TEs) | 2:31 |
+| 37 | [I WANNA DANCE](https://open.spotify.com/track/7meRbdhGSL33VwsUK9P2mB) | [Tallandskiinny](https://open.spotify.com/artist/7oV3ZD4d2onldb3N8DKQjm) | [I WANNA DANCE](https://open.spotify.com/album/0ERprW5OlF990S05xy6TEs) | 2:31 |
+| 38 | [Pain \- Lonesome Version](https://open.spotify.com/track/17PLTUNOheE8k9M2oOonFF) | [Fernie](https://open.spotify.com/artist/5PemoTSZMQp59WnXZZ4EhI) | [Pain \(Lonesome Version\)](https://open.spotify.com/album/7G2eiZtTNpFADoBqvzKFs6) | 4:23 |
 | 39 | [No Wonder](https://open.spotify.com/track/20cteJb81MYmbLMiuft2EA) | [Diamond Cafe](https://open.spotify.com/artist/5iy5vWoWLniL8EMg5pFRrh) | [No Wonder](https://open.spotify.com/album/4sLCUGAZIFKoDkNLB9CEFs) | 2:21 |
 | 40 | [Fix This Mess](https://open.spotify.com/track/2bZVZFXbZJ26P0x5VJTIAl) | [j ember](https://open.spotify.com/artist/4UUDpbs7gikfzHz0CRvdnv) | [Fix This Mess](https://open.spotify.com/album/06kpT326WfFpxbh2qecbZO) | 3:33 |
 | 41 | [Mercy on the Skyline](https://open.spotify.com/track/7MZlYIv52fVAEN9voOhCKV) | [Noah Derksen](https://open.spotify.com/artist/31wEHfLGUKIlJAayR6K936), [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [Mercy on the Skyline](https://open.spotify.com/album/3UQcepdvrX3mnYHcCbQML2) | 4:42 |

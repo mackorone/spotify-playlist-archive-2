@@ -1,12 +1,12 @@
 {
   "description": "This is Cassiane. The essential tracks, all in one playlist.",
-  "num_followers": 38054,
+  "num_followers": 38060,
   "original_name": "This Is Cassiane",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahDuAAAAAABZ6wieMzes/lFlctUV4lq7",
+  "snapshot_id": "ahI/gAAAAAAyx+bmnhSZFBJ2odSaoBv0",
   "tracks": [
     {
       "added_at": null,
@@ -583,22 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Cura",
-        "url": "https://open.spotify.com/album/5EZolEeOn7mlVal992C5hP"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 411364,
-      "name": "A Cura",
-      "url": "https://open.spotify.com/track/7hX6Ctm6PJiAJdOBMoryJl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nada Pode Calar Um Adorador + Com Muito Louvor (Ao Vivo)",
         "url": "https://open.spotify.com/album/3kXK7gxzL8DPU3L8LTCATy"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 373933,
       "name": "Nada Pode Calar Um Adorador + Com Muito Louvor (Ao Vivo)",
       "url": "https://open.spotify.com/track/7kSlSqgTbzEnsVYJLiDpru"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Cura",
+        "url": "https://open.spotify.com/album/5EZolEeOn7mlVal992C5hP"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 325218,
+      "name": "Tremendo e Santo",
+      "url": "https://open.spotify.com/track/1uFqwxYga7H8rpUba6bsya"
     },
     {
       "added_at": null,
@@ -651,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Cura",
-        "url": "https://open.spotify.com/album/5EZolEeOn7mlVal992C5hP"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 325218,
-      "name": "Tremendo e Santo",
-      "url": "https://open.spotify.com/track/1uFqwxYga7H8rpUba6bsya"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Harpa Vol.2",
         "url": "https://open.spotify.com/album/5SUEVRCx1ccyoeWunYiZ9r"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 337803,
       "name": "A Face Adorada de Jesus",
       "url": "https://open.spotify.com/track/3UFnjCUJSvM0NbIeRlq0IF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Cura",
+        "url": "https://open.spotify.com/album/5EZolEeOn7mlVal992C5hP"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 411364,
+      "name": "A Cura",
+      "url": "https://open.spotify.com/track/7hX6Ctm6PJiAJdOBMoryJl"
     },
     {
       "added_at": null,

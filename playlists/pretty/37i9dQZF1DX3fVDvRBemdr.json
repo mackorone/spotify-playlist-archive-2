@@ -1,12 +1,12 @@
 {
   "description": "De nieuwste Hollands & Volkspop releases. Cover: Nelis Leeman",
-  "num_followers": 155916,
+  "num_followers": 155943,
   "original_name": "Liever Hollands",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIXY6gp6ac1c80ZJFNNh3GVwwqcO",
+  "snapshot_id": "AAAAALIlBrsfxMlCn9RzgJvGSpldBhVu",
   "tracks": [
     {
       "added_at": "2026-05-21 22:01:33",
@@ -39,6 +39,42 @@
       "duration_ms": 161884,
       "name": "In De Boeken",
       "url": "https://open.spotify.com/track/5iHmlYIg8FaLrfxjRbmj3M"
+    },
+    {
+      "added_at": "2026-05-21 22:01:33",
+      "album": {
+        "name": "Als De Zon Schijnt",
+        "url": "https://open.spotify.com/album/6ksMXdJiJxIwCKL59GCxrH"
+      },
+      "artists": [
+        {
+          "name": "Marco Kraats",
+          "url": "https://open.spotify.com/artist/1O2nfhQ9ZxTWY9eTC27dvp"
+        },
+        {
+          "name": "Lange Frans",
+          "url": "https://open.spotify.com/artist/5I2d294l90n7EMWVNUZczE"
+        }
+      ],
+      "duration_ms": 137725,
+      "name": "Als De Zon Schijnt",
+      "url": "https://open.spotify.com/track/3peTzOA4EMrQejDWL31KMr"
+    },
+    {
+      "added_at": "2026-05-21 22:01:33",
+      "album": {
+        "name": "Zwoele Zomernachten",
+        "url": "https://open.spotify.com/album/1tosO6LN7sy2lKJ0Hx4dmT"
+      },
+      "artists": [
+        {
+          "name": "Rutger van Barneveld",
+          "url": "https://open.spotify.com/artist/5N0fvYueADU53qanvPfmV7"
+        }
+      ],
+      "duration_ms": 195454,
+      "name": "Zwoele Zomernachten",
+      "url": "https://open.spotify.com/track/6gtGFybqydN4OMfy8M6M4b"
     },
     {
       "added_at": "2026-05-21 22:01:33",
@@ -91,22 +127,6 @@
     {
       "added_at": "2026-05-21 22:01:33",
       "album": {
-        "name": "Zwoele Zomernachten",
-        "url": "https://open.spotify.com/album/1tosO6LN7sy2lKJ0Hx4dmT"
-      },
-      "artists": [
-        {
-          "name": "Rutger van Barneveld",
-          "url": "https://open.spotify.com/artist/5N0fvYueADU53qanvPfmV7"
-        }
-      ],
-      "duration_ms": 195454,
-      "name": "Zwoele Zomernachten",
-      "url": "https://open.spotify.com/track/6gtGFybqydN4OMfy8M6M4b"
-    },
-    {
-      "added_at": "2026-05-21 22:01:33",
-      "album": {
         "name": "Waarom Ben Jij Gegaan (Radio Edit)",
         "url": "https://open.spotify.com/album/5qG5suXZn5bplJOdUg6wjy"
       },
@@ -119,6 +139,26 @@
       "duration_ms": 155744,
       "name": "Waarom Ben Jij Gegaan - Radio Edit",
       "url": "https://open.spotify.com/track/1SjVKQu9u0FzwrhDg5OKYd"
+    },
+    {
+      "added_at": "2026-05-21 22:01:33",
+      "album": {
+        "name": "Een Mooie Chica Zoals Zij",
+        "url": "https://open.spotify.com/album/27w8RpSc7otfzaI7bN2krC"
+      },
+      "artists": [
+        {
+          "name": "Gerard Palts",
+          "url": "https://open.spotify.com/artist/7agcYn7rMxlilM5iilw4qf"
+        },
+        {
+          "name": "Jaman",
+          "url": "https://open.spotify.com/artist/6VIHmm4hJ3OG1yy9fGbECD"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "Een Mooie Chica Zoals Zij",
+      "url": "https://open.spotify.com/track/5zrEWCqBaMcLR2hJDwwMDP"
     },
     {
       "added_at": "2026-05-21 22:01:33",
@@ -155,26 +195,6 @@
     {
       "added_at": "2026-05-21 22:01:33",
       "album": {
-        "name": "Als De Zon Schijnt",
-        "url": "https://open.spotify.com/album/6ksMXdJiJxIwCKL59GCxrH"
-      },
-      "artists": [
-        {
-          "name": "Marco Kraats",
-          "url": "https://open.spotify.com/artist/1O2nfhQ9ZxTWY9eTC27dvp"
-        },
-        {
-          "name": "Lange Frans",
-          "url": "https://open.spotify.com/artist/5I2d294l90n7EMWVNUZczE"
-        }
-      ],
-      "duration_ms": 137725,
-      "name": "Als De Zon Schijnt",
-      "url": "https://open.spotify.com/track/3peTzOA4EMrQejDWL31KMr"
-    },
-    {
-      "added_at": "2026-05-21 22:01:33",
-      "album": {
         "name": "Griekse Nacht",
         "url": "https://open.spotify.com/album/2WbdOFY5SqeLTZbvRrFBN4"
       },
@@ -203,26 +223,6 @@
       "duration_ms": 138000,
       "name": "Menens",
       "url": "https://open.spotify.com/track/2gasGNrOoOHqb9gTJG4TJx"
-    },
-    {
-      "added_at": "2026-05-21 22:01:33",
-      "album": {
-        "name": "Een Mooie Chica Zoals Zij",
-        "url": "https://open.spotify.com/album/27w8RpSc7otfzaI7bN2krC"
-      },
-      "artists": [
-        {
-          "name": "Gerard Palts",
-          "url": "https://open.spotify.com/artist/7agcYn7rMxlilM5iilw4qf"
-        },
-        {
-          "name": "Jaman",
-          "url": "https://open.spotify.com/artist/6VIHmm4hJ3OG1yy9fGbECD"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "Een Mooie Chica Zoals Zij",
-      "url": "https://open.spotify.com/track/5zrEWCqBaMcLR2hJDwwMDP"
     },
     {
       "added_at": "2026-05-21 22:01:33",

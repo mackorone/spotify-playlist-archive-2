@@ -1,6 +1,6 @@
 {
   "description": "Classics by the pioneers of the sound, and its modern-day icons. Cover: 100 gecs",
-  "num_followers": 94056,
+  "num_followers": 94062,
   "original_name": "Hyperpop Classics",
   "owner": {
     "name": "Spotify",
@@ -943,26 +943,6 @@
     {
       "added_at": "2024-10-09 21:55:22",
       "album": {
-        "name": "clueless",
-        "url": "https://open.spotify.com/album/6gtMMyI4wfLnfEDvtYNQpg"
-      },
-      "artists": [
-        {
-          "name": "kuru",
-          "url": "https://open.spotify.com/artist/1KJ5ZZBncdHtz60i3fiQYu"
-        },
-        {
-          "name": "kurtains",
-          "url": "https://open.spotify.com/artist/7b2FbxYmnpGMPqDe04QmyP"
-        }
-      ],
-      "duration_ms": 127634,
-      "name": "clueless",
-      "url": "https://open.spotify.com/track/2PlrJupGTWvgVlGXSK95Me"
-    },
-    {
-      "added_at": "2024-10-09 21:55:22",
-      "album": {
         "name": "Kyoto (Glitch Gum Remix)",
         "url": "https://open.spotify.com/album/3B83CmsoSCZUrzZfbt4RyX"
       },
@@ -979,6 +959,26 @@
       "duration_ms": 159813,
       "name": "Kyoto (Glitch Gum Remix)",
       "url": "https://open.spotify.com/track/0cYsiOzerJ7PvTyQdwASXl"
+    },
+    {
+      "added_at": "2024-10-09 21:55:22",
+      "album": {
+        "name": "clueless",
+        "url": "https://open.spotify.com/album/6gtMMyI4wfLnfEDvtYNQpg"
+      },
+      "artists": [
+        {
+          "name": "kuru",
+          "url": "https://open.spotify.com/artist/1KJ5ZZBncdHtz60i3fiQYu"
+        },
+        {
+          "name": "kurtains",
+          "url": "https://open.spotify.com/artist/7b2FbxYmnpGMPqDe04QmyP"
+        }
+      ],
+      "duration_ms": 127634,
+      "name": "clueless",
+      "url": "https://open.spotify.com/track/2PlrJupGTWvgVlGXSK95Me"
     },
     {
       "added_at": "2024-10-09 21:55:22",

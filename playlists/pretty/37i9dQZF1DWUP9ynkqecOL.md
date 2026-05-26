@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUP9ynkqecOL.md) - [plain]
 
 > Una mixtura de bombos, charangos y beats con los pies en la tierra y la mirada en el futuro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,258 likes - 80 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,263 likes - 80 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ay Que Sera Del Sol \- Original](https://open.spotify.com/track/2mDpaQWRfsXtymj7JhVOEE) | [Rodrigo Gallardo](https://open.spotify.com/artist/3fxdn6mfKvNFJ1Zx37On7W) | [Summer Sol](https://open.spotify.com/album/6iEbxNzIjuMk3oFWveulAn) | 6:30 |
 | 2 | [Uno Resuena](https://open.spotify.com/track/752FIpJwEwS2w1fhyvsRs6) | [Lulacruza](https://open.spotify.com/artist/4Tdm58O53huKPT2480fzjE) | [Orcas](https://open.spotify.com/album/474lLBbfJm8Y3zjSIXWgA3) | 5:35 |
 | 3 | [Canto Tehuelche](https://open.spotify.com/track/6mAHuu86f3XaKXssBvCppt) | [La Charo](https://open.spotify.com/artist/4kAM3B6DtYL1GZVIHBglKK) | [Canto Tehuelche](https://open.spotify.com/album/2M7tTALkfy3YZA4vJTWUKG) | 3:29 |
-| 4 | [Barro](https://open.spotify.com/track/3hAS0Wxq0wl0XCgy1B9ozN) | [Rumbo Tumba](https://open.spotify.com/artist/7rure1hFRz36lJv4LSTXxH) | [Río Adentro](https://open.spotify.com/album/4CWmh4MRXSPdToaX8mL3LA) | 3:08 |
-| 5 | [Soy la lluvia](https://open.spotify.com/track/6nBTtVXOr8tXZQaJRguy8r) | [Los Bosques](https://open.spotify.com/artist/49Pl9Au4UinKf0RVdBycOG), [Vicky Ripa](https://open.spotify.com/artist/6p4NHYSocHSiSm3FFz6uJr) | [Soy la lluvia](https://open.spotify.com/album/6Z8c45wjOmc0m8kFhyYrLB) | 5:27 |
+| 4 | [Soy la lluvia](https://open.spotify.com/track/6nBTtVXOr8tXZQaJRguy8r) | [Los Bosques](https://open.spotify.com/artist/49Pl9Au4UinKf0RVdBycOG), [Vicky Ripa](https://open.spotify.com/artist/6p4NHYSocHSiSm3FFz6uJr) | [Soy la lluvia](https://open.spotify.com/album/6Z8c45wjOmc0m8kFhyYrLB) | 5:27 |
+| 5 | [Barro](https://open.spotify.com/track/3hAS0Wxq0wl0XCgy1B9ozN) | [Rumbo Tumba](https://open.spotify.com/artist/7rure1hFRz36lJv4LSTXxH) | [Río Adentro](https://open.spotify.com/album/4CWmh4MRXSPdToaX8mL3LA) | 3:08 |
 | 6 | [Creo](https://open.spotify.com/track/4BhbOEiG8TIh244Keuvg44) | [Eruca Sativa](https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6) | [Seremos Primavera](https://open.spotify.com/album/0tSMSwjfT12rseYGq7I3SB) | 3:53 |
 | 7 | [Hijos De La Tierra](https://open.spotify.com/track/58tRMABfrG0aWsOtHR32R6) | [Seba Campos](https://open.spotify.com/artist/2ZX84ERPhemyyVHqUSK7bF), [Rodrigo Gallardo](https://open.spotify.com/artist/3fxdn6mfKvNFJ1Zx37On7W) | [Hijos De La Tierra](https://open.spotify.com/album/3J2zjgISIvNFv5te5f5MWT) | 5:36 |
 | 8 | [Sin darle motivo \- Derrok Remix](https://open.spotify.com/track/0pOy8zLbOSbIjVRxm4oqPP) | [Uji](https://open.spotify.com/artist/3BQDgh6CjxVXMhy00YEx3G), [La Charo](https://open.spotify.com/artist/4kAM3B6DtYL1GZVIHBglKK), [Derrok](https://open.spotify.com/artist/1Gqv9YkzHHS3jyQb0DvQTv) | [Sin darle motivo \(Derrok Remix\)](https://open.spotify.com/album/5CxO6iZLm3VFD7RCEOzNFa) | 5:28 |

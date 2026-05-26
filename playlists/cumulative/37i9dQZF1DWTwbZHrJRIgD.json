@@ -2581,6 +2581,36 @@
     },
     {
       "album": {
+        "name": "Hai Jawani Toh Ishq Hona Hai (Title Track)",
+        "url": "https://open.spotify.com/album/4QQtsnUQYb4RTAkITOvI8j"
+      },
+      "artists": [
+        {
+          "name": "Varun Dhawan",
+          "url": "https://open.spotify.com/artist/1P0xN5daAiUEebg0m8pY2O"
+        },
+        {
+          "name": "Anu Malik",
+          "url": "https://open.spotify.com/artist/71hjb5G92mGoKRSAW3Cj00"
+        },
+        {
+          "name": "Javed-Mohsin",
+          "url": "https://open.spotify.com/artist/2zvJLk0gTH7r7A5Q6X5Bq8"
+        },
+        {
+          "name": "Shankar Mahadevan",
+          "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
+        }
+      ],
+      "date_added": "2026-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165826,
+      "name": "Hai Jawani Toh Ishq Hona Hai (Title Track)",
+      "url": "https://open.spotify.com/track/4hzZCaJh4u0r4qxdtcy0Nz"
+    },
+    {
+      "album": {
         "name": "Hai Tu (From \"I Love You\")",
         "url": "https://open.spotify.com/album/5uTF3kFVCqFeB6e23epEY5"
       },
@@ -6182,7 +6212,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 200159,
       "name": "Rang De Lal (Oye Oye) (From \"Dhurandhar The Revenge\")",
       "url": "https://open.spotify.com/track/66jbypfLRHYRB3UwqklrYI"

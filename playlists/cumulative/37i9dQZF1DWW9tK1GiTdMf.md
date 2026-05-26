@@ -2,9 +2,9 @@
 
 ### [sanguegiovane 🩸](https://open.spotify.com/playlist/37i9dQZF1DWW9tK1GiTdMf)
 
-> canzoni per una primavera non proprio felice \(giuse the lizia in cover\)
+> canzoni per una primavera non proprio felice 🥀 cover: EMMA al MI AMI Festival \(credits: Giovanni Paracini\)
 
-1,703 songs - 3 day 6 hr 11 min
+1,704 songs - 3 day 6 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -725,8 +725,9 @@
 | [il mio cane](https://open.spotify.com/track/23sXcQxMAaTiQ8hLaMu2jm) | [Tripolare](https://open.spotify.com/artist/4QOWxkUYIKvnV7AcjF4k6w) | [il mio cane](https://open.spotify.com/album/1cHCrQNrYESEpIbpvSonQq) | 2:25 | 2022-12-15 | 2023-02-17 |
 | [IL MIO FUNERALE](https://open.spotify.com/track/41DJVZFS981Y0A6pIEejMo) | [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs) | [RADIO SAKURA](https://open.spotify.com/album/5MHSMa7gBXLoOGIPbNtOCo) | 2:35 | 2024-03-07 | 2024-10-18 |
 | [Il momento prima di un addio](https://open.spotify.com/track/4fyjv6VAMwcIcx4ASnemIN) | [Psyche](https://open.spotify.com/artist/0074TFvDGpuZ5tBTszIEh3), [Soave](https://open.spotify.com/artist/4lfpDO5m3RdKU2859LXmsN) | [DEEP SURFACE](https://open.spotify.com/album/7xnNJwdhRx7tatK0eFvHZs) | 2:45 | 2025-01-16 | 2025-03-28 |
+| [IL MONDO DEI BACi](https://open.spotify.com/track/5RcybKkwmCrOU0CMGEmSdg) | [EMMA](https://open.spotify.com/artist/7LmO2BJsbObtMqCPcpjjhq) | [ERA L’INIZIO](https://open.spotify.com/album/2RgzZRAkdstoKe6NgpTrga) | 3:43 | 2026-05-25 |  |
 | [IL MONDO DEI BACi](https://open.spotify.com/track/6ISrOSvLz0VQ2zEJjMj3GF) | [EMMA](https://open.spotify.com/artist/7LmO2BJsbObtMqCPcpjjhq) | [IL MONDO DEI BACi](https://open.spotify.com/album/3B9hBYNxVTD1GAHmOHFzo3) | 3:43 | 2024-05-23 | 2024-11-29 |
-| [IL MONDO FUORi : .\. ?](https://open.spotify.com/track/4KhQFg7o7JRJWiI8zQmxIf) | [EMMA](https://open.spotify.com/artist/7LmO2BJsbObtMqCPcpjjhq) | [ERA L’INIZIO](https://open.spotify.com/album/2RgzZRAkdstoKe6NgpTrga) | 4:17 | 2025-05-22 | 2026-01-16 |
+| [IL MONDO FUORi : .\. ?](https://open.spotify.com/track/4KhQFg7o7JRJWiI8zQmxIf) | [EMMA](https://open.spotify.com/artist/7LmO2BJsbObtMqCPcpjjhq) | [ERA L’INIZIO](https://open.spotify.com/album/2RgzZRAkdstoKe6NgpTrga) | 4:17 | 2025-05-22 |  |
 | [IL PASSO](https://open.spotify.com/track/5X9hnSATguhXalzjtQ4x5m) | [PSICOLOGI](https://open.spotify.com/artist/0fskdccy6fvnWMNMNPqEro) | [DIY](https://open.spotify.com/album/5oPWrMQXu1ixNSdsChS3aq) | 2:35 | 2024-11-28 |  |
 | [IL PEGGIO](https://open.spotify.com/track/5A7oNpnyyXrvgZh5myymAD) | [WENDY’S PARADE](https://open.spotify.com/artist/4rUdPudp1ZaBhsb5104EEN) | [IL PEGGIO](https://open.spotify.com/album/3KpL7mKRQqJyjPe75hfVBz) | 2:36 | 2023-04-13 | 2023-04-28 |
 | [il tuo corpo parla per noi](https://open.spotify.com/track/75KDvsdkRCbPpXWWLIsGEI) | [Lanyard](https://open.spotify.com/artist/6mWyG0mxArpvfGVLOx4qm1), [Luke Lecomte](https://open.spotify.com/artist/0R9RQ7VasOltY6d8I5g2Mc) | [il tuo corpo parla per noi](https://open.spotify.com/album/45ENHzP8TesNy5AZkHfBtx) | 2:55 | 2025-04-10 | 2025-06-27 |

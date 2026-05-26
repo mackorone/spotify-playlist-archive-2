@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR1U4quwaERH.md) - [plain]
 | 72 | [Walking and Whistling](https://open.spotify.com/track/680T0R2LxxBYOlkI1WCye9) | [The Toontown Tooners](https://open.spotify.com/artist/3skIyYGqzp3KSrfb2KfADr) | [Music from Mickey's Toontown](https://open.spotify.com/album/5bCGUsjittoLfG2La9JHPN) | 2:44 |
 | 73 | [Don't Stop](https://open.spotify.com/track/5draS2gXFNSnUazm4YHeiW) | [Donny Osmond](https://open.spotify.com/artist/5ZEAzHE2TzAwUcOj6jMIgf) | [Start Again](https://open.spotify.com/album/6UwelQHVWYMc580BAnq1av) | 3:09 |
 | 74 | [Just Like Magic](https://open.spotify.com/track/4qiyNCTRPTMQsWcANwYSMt) | [Lollia](https://open.spotify.com/artist/0TCuSgJzNaRyxjbvvLjBK3), [Genuine](https://open.spotify.com/artist/4nmRuRFucxxIWpYvlYyPcq) | [THE COLLECTIVE \(VOLUME 01\)](https://open.spotify.com/album/3h5rFOauIzjwqCUMWFNDLi) | 2:24 |
-| 75 | [Kettle](https://open.spotify.com/track/5LwGInwOgFjIIVer2kPxxW) | [enobe](https://open.spotify.com/artist/3LjyIM1dlfms7kJUqrBTXI), [Blush](https://open.spotify.com/artist/31rc0iQFBQBf1PcS7L3wIN) | [Fuck the Numbers](https://open.spotify.com/album/1kWoB4QqqP1Y30PAzEIGo7) | 2:40 |
-| 76 | [Multiplicity](https://open.spotify.com/track/5FJrp4xbFzQmup3qKAl3Zd) | [India Shawn](https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL) | [Subject To Change](https://open.spotify.com/album/1qcVJ1Bp9CmACPIj0jmbmr) | 3:22 |
+| 75 | [Multiplicity](https://open.spotify.com/track/5FJrp4xbFzQmup3qKAl3Zd) | [India Shawn](https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL) | [Subject To Change](https://open.spotify.com/album/1qcVJ1Bp9CmACPIj0jmbmr) | 3:22 |
+| 76 | [Kettle](https://open.spotify.com/track/5LwGInwOgFjIIVer2kPxxW) | [enobe](https://open.spotify.com/artist/3LjyIM1dlfms7kJUqrBTXI), [Blush](https://open.spotify.com/artist/31rc0iQFBQBf1PcS7L3wIN) | [Fuck the Numbers](https://open.spotify.com/album/1kWoB4QqqP1Y30PAzEIGo7) | 2:40 |
 | 77 | [Running](https://open.spotify.com/track/1xgcmWNoMwNVudxG5njIof) | [Marcus Santoro](https://open.spotify.com/artist/0cIOMm0D5wSyXMTcvnElUz), [Blush](https://open.spotify.com/artist/31rc0iQFBQBf1PcS7L3wIN) | [Running](https://open.spotify.com/album/2ZrRvBARtHGeWRTDe8P7fD) | 3:16 |
 | 78 | [Another Problem](https://open.spotify.com/track/4LtDlUC0G9gDANZX9hLWFD) | [Tucker Nichol](https://open.spotify.com/artist/3M9ugSI1Vjp5mg1YpSjrVL) | [i swear i'm fine](https://open.spotify.com/album/5vc312BLfbRpBvX3GLdfDs) | 2:12 |
 | 79 | [Chills](https://open.spotify.com/track/5GuyTA6IIhFpEUUG3SYP1s) | [Tucker Nichol](https://open.spotify.com/artist/3M9ugSI1Vjp5mg1YpSjrVL) | [can you keep a secret](https://open.spotify.com/album/4NykbCCKaLZyrEND5C2IOF) | 4:16 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR1U4quwaERH.md) - [plain]
 | 89 | [WADE](https://open.spotify.com/track/4oZRhm2x62qN6prKI3S4fO) | [Parker Phillips](https://open.spotify.com/artist/4G4U0Pmtl0I2JKqI7uvsJw) | [AWAKENING](https://open.spotify.com/album/4xblTWNkBQJQQF9l5p9suu) | 2:46 |
 | 90 | [Fire](https://open.spotify.com/track/3Ic9ajFl2aBmmQFXQus3Ed) | [Hawk Love](https://open.spotify.com/artist/3mNH3Eq13YnMTwo8vWwwTR) | [Fire](https://open.spotify.com/album/1h88EmeUgoP9Yjpdhz60Jh) | 4:16 |
 
-Snapshot ID: `AcSYnAAAAADh6kKdWf48hdTIc8gytg9U`
+Snapshot ID: `AcSeMgAAAABfqU4cqPcsZxdkYbxDAagT`

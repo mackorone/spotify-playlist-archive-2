@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWubjQuAKF1.md) - [plain]
 
 > świeże brzmienia na horyzoncie ✨ Cover: Ania Szlagowska
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,866 likes - 65 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,864 likes - 65 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,9 +50,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWubjQuAKF1.md) - [plain]
 | 40 | [Z cukrem mylę lód](https://open.spotify.com/track/335yWRhRBaHbyzmPyFJ0nj) | [Miłosz Skierski](https://open.spotify.com/artist/0aEvxy0vmxXQixOiE9qyhJ) | [Eksperyment](https://open.spotify.com/album/2OvhnHJfqojWQkbRMAXSDO) | 3:22 |
 | 41 | [Cinnamon](https://open.spotify.com/track/7CxcxeNMisYRbiXULp7L0L) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [Cinnamon](https://open.spotify.com/album/4BPGLP2hhaCWdkEJGqZ6sY) | 3:10 |
 | 42 | [cisza nocna](https://open.spotify.com/track/6c6lldByHVVBfqha25sOor) | [Hugo Tarres](https://open.spotify.com/artist/6VaYrjshHIPyNBnmVdLdgQ) | [cisza nocna](https://open.spotify.com/album/4QEgNqclBN0zi57MznoAZr) | 3:02 |
-| 43 | [Szerokości!](https://open.spotify.com/track/4EeBtVIBydAhMCXlykAUw8) | [Nita](https://open.spotify.com/artist/1AGR5KsqctsAYgxxINt5xi) | [Szerokości!](https://open.spotify.com/album/2SIVV4JMG2Yfc8ZAo96nZU) | 2:37 |
+| 43 | [Berlin](https://open.spotify.com/track/42ZIBzn36rjNhIg9TM6Bj4) | [Martyna Baranowska](https://open.spotify.com/artist/5qMLMV4Czbb9puv6O8Rd9b) | [Berlin](https://open.spotify.com/album/5J13FhMrY4J7bgenI6ipXa) | 2:55 |
 | 44 | [Tarantino](https://open.spotify.com/track/6odp7mRhkFB9GO3K0lG6ZF) | [BSK](https://open.spotify.com/artist/5yx3ksMAPQgeaCbT7pgko2), [Magiera](https://open.spotify.com/artist/3OFZwEYEAKMEmUheZ8TKso) | [Tarantino](https://open.spotify.com/album/3WBBAWjAnXfAqQzvVGTB3l) | 2:32 |
-| 45 | [Berlin](https://open.spotify.com/track/42ZIBzn36rjNhIg9TM6Bj4) | [Martyna Baranowska](https://open.spotify.com/artist/5qMLMV4Czbb9puv6O8Rd9b) | [Berlin](https://open.spotify.com/album/5J13FhMrY4J7bgenI6ipXa) | 2:55 |
+| 45 | [Szerokości!](https://open.spotify.com/track/4EeBtVIBydAhMCXlykAUw8) | [Nita](https://open.spotify.com/artist/1AGR5KsqctsAYgxxINt5xi) | [Szerokości!](https://open.spotify.com/album/2SIVV4JMG2Yfc8ZAo96nZU) | 2:37 |
 | 46 | [Egipt](https://open.spotify.com/track/0wl9FVdAtGE5lgRLVZUpjd) | [Przebiśniegi](https://open.spotify.com/artist/19lOxXnatl3J8HHKIqHoqx) | [Egipt](https://open.spotify.com/album/7omIQ3EMXxvYjlJUjcEQA6) | 2:39 |
 | 47 | [To nie koniec](https://open.spotify.com/track/6O4ipJ8bo5bb2KyKagk1Lv) | [Maciej Skiba](https://open.spotify.com/artist/0cCuYYHtLT5cQJsdIj04Tq) | [To nie koniec](https://open.spotify.com/album/4NAFphZqgSKwL8BFiOIbXG) | 2:52 |
 | 48 | [Lustro](https://open.spotify.com/track/5oX4vOfPBdUu43mO8gtv8o) | [Leon Krześniak](https://open.spotify.com/artist/1otG4oP2AJMnYAW0ufLKEU) | [Słoneczna strona ulicy](https://open.spotify.com/album/6WC2GVDGNhOPMyOPzSL31y) | 3:19 |
@@ -63,15 +63,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWubjQuAKF1.md) - [plain]
 | 53 | [Chciałbym być kotem](https://open.spotify.com/track/235BIVbYtJp4090aHD60VR) | [Wiktor Waligóra](https://open.spotify.com/artist/10PLt1zAFo8GDQlo0VD4iL) | [Chciałbym być kotem](https://open.spotify.com/album/0j3LDKTuqYsg3TbBnylyEB) | 3:09 |
 | 54 | [Chciałabym Ci powiedzieć](https://open.spotify.com/track/4NlptlNKseLr56hRa1Qfvt) | [Julia Wasielewska](https://open.spotify.com/artist/0BbWyb6ZMdisHe03Fy3v7I) | [Chciałabym Ci powiedzieć](https://open.spotify.com/album/11JIXjzepAvkXK20kKVOFg) | 2:36 |
 | 55 | [halo Houston](https://open.spotify.com/track/4kIqI8h1bxOgrI9siEkD62) | [Jasiek Piwowarczyk](https://open.spotify.com/artist/705MUvkld29STeOVijPoTe) | [halo Houston](https://open.spotify.com/album/0ASB9yWOXdBFSnjKlZmI87) | 2:23 |
-| 56 | [drinkłykshot](https://open.spotify.com/track/40I9oJKHZUGWA3QYDVTJhb) | [emi](https://open.spotify.com/artist/1cIGr563sge3dInoMsn0Cu) | [drinkłykshot](https://open.spotify.com/album/1kolE1AX5sUoKmnh7eyGzM) | 2:29 |
-| 57 | [powiem/nie powiem](https://open.spotify.com/track/509mth4lw2dQQcGXtKMHDc) | [Frank Leen](https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4) | [powiem/nie powiem](https://open.spotify.com/album/1wnV3DSxRwQzSiPEkQzQ4t) | 3:28 |
-| 58 | [lepiej](https://open.spotify.com/track/7GCE9OgHlDaXOWaq1b0vU6) | [imasleep](https://open.spotify.com/artist/1hAUIs8Rpq6kpNHqlwJW4i) | [lepiej](https://open.spotify.com/album/2qq3p36UTibQYlpu0IV6R0) | 2:15 |
-| 59 | [Lustro](https://open.spotify.com/track/1juFCYbgxY2JQRXAmDoQey) | [Sad Smiles](https://open.spotify.com/artist/5LISNIIF2dVg8fxzZImkzo) | [Lustro](https://open.spotify.com/album/3W91mDbnv8CLmX75f9RtO8) | 2:53 |
-| 60 | [Aparat](https://open.spotify.com/track/4RGV9aOG8RG9Wu8Vyg9x7p) | [huskie](https://open.spotify.com/artist/7qAmqo6RdMhZmRWNSIK8kS) | [Między słowami](https://open.spotify.com/album/7H594gTYomUcEtTL08ZRtr) | 3:22 |
-| 61 | [PORTO](https://open.spotify.com/track/2yC6IrXdV3w6AaReClZIMY) | [Kuba Szmajkowsky](https://open.spotify.com/artist/6VMslcLSscfWZSy98JfNiQ) | [PORTO](https://open.spotify.com/album/67Xlepgco8TLDEqBMFZqdn) | 2:29 |
-| 62 | [kochaj mnie](https://open.spotify.com/track/6ZXczp4DXqMxbaVlEhtMCc) | [Kajetan Wolas](https://open.spotify.com/artist/6tpxFh5TlBxnHzrAfFlCXj), [Moo Latte](https://open.spotify.com/artist/3gNjxcKLkMfZYKlLxn0O9F) | [kochaj mnie](https://open.spotify.com/album/3URaw7BgvY2vh5EtECHnta) | 2:31 |
-| 63 | [Wspaniały to był rok](https://open.spotify.com/track/4068vxwJ0XFCw4M5qtanIV) | [Leon Krześniak](https://open.spotify.com/artist/1otG4oP2AJMnYAW0ufLKEU) | [Wspaniały to był rok](https://open.spotify.com/album/33qGHKDZZixVbdIJWPICV4) | 2:52 |
-| 64 | [TopOff](https://open.spotify.com/track/6EmqcmEbc9XHhleW2rBfvm) | [Zaleś](https://open.spotify.com/artist/3IQIVYEmRr7wZnEqpSjfV5) | [TopOff](https://open.spotify.com/album/6hIBQMP2jZYOZHf9UTWwZb) | 2:39 |
+| 56 | [kochaj mnie](https://open.spotify.com/track/6ZXczp4DXqMxbaVlEhtMCc) | [Kajetan Wolas](https://open.spotify.com/artist/6tpxFh5TlBxnHzrAfFlCXj), [Moo Latte](https://open.spotify.com/artist/3gNjxcKLkMfZYKlLxn0O9F) | [kochaj mnie](https://open.spotify.com/album/3URaw7BgvY2vh5EtECHnta) | 2:31 |
+| 57 | [drinkłykshot](https://open.spotify.com/track/40I9oJKHZUGWA3QYDVTJhb) | [emi](https://open.spotify.com/artist/1cIGr563sge3dInoMsn0Cu) | [drinkłykshot](https://open.spotify.com/album/1kolE1AX5sUoKmnh7eyGzM) | 2:29 |
+| 58 | [Lustro](https://open.spotify.com/track/1juFCYbgxY2JQRXAmDoQey) | [Sad Smiles](https://open.spotify.com/artist/5LISNIIF2dVg8fxzZImkzo) | [Lustro](https://open.spotify.com/album/3W91mDbnv8CLmX75f9RtO8) | 2:53 |
+| 59 | [lepiej](https://open.spotify.com/track/7GCE9OgHlDaXOWaq1b0vU6) | [imasleep](https://open.spotify.com/artist/1hAUIs8Rpq6kpNHqlwJW4i) | [lepiej](https://open.spotify.com/album/2qq3p36UTibQYlpu0IV6R0) | 2:15 |
+| 60 | [powiem/nie powiem](https://open.spotify.com/track/509mth4lw2dQQcGXtKMHDc) | [Frank Leen](https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4) | [powiem/nie powiem](https://open.spotify.com/album/1wnV3DSxRwQzSiPEkQzQ4t) | 3:28 |
+| 61 | [Aparat](https://open.spotify.com/track/4RGV9aOG8RG9Wu8Vyg9x7p) | [huskie](https://open.spotify.com/artist/7qAmqo6RdMhZmRWNSIK8kS) | [Między słowami](https://open.spotify.com/album/7H594gTYomUcEtTL08ZRtr) | 3:22 |
+| 62 | [PORTO](https://open.spotify.com/track/2yC6IrXdV3w6AaReClZIMY) | [Kuba Szmajkowsky](https://open.spotify.com/artist/6VMslcLSscfWZSy98JfNiQ) | [PORTO](https://open.spotify.com/album/67Xlepgco8TLDEqBMFZqdn) | 2:29 |
+| 63 | [TopOff](https://open.spotify.com/track/6EmqcmEbc9XHhleW2rBfvm) | [Zaleś](https://open.spotify.com/artist/3IQIVYEmRr7wZnEqpSjfV5) | [TopOff](https://open.spotify.com/album/6hIBQMP2jZYOZHf9UTWwZb) | 2:39 |
+| 64 | [Wspaniały to był rok](https://open.spotify.com/track/4068vxwJ0XFCw4M5qtanIV) | [Leon Krześniak](https://open.spotify.com/artist/1otG4oP2AJMnYAW0ufLKEU) | [Wspaniały to był rok](https://open.spotify.com/album/33qGHKDZZixVbdIJWPICV4) | 2:52 |
 | 65 | [Na stacji paliw](https://open.spotify.com/track/1VzgaKsDOrRe3Gucc0e6Ti) | [Miłosz Skierski](https://open.spotify.com/artist/0aEvxy0vmxXQixOiE9qyhJ) | [Na stacji paliw](https://open.spotify.com/album/5EDPDKxzeq5njUIfbQZhx5) | 3:03 |
 
 Snapshot ID: `AAAAAGmDxW9sexFLSmgv08dlkrxvGEFq`

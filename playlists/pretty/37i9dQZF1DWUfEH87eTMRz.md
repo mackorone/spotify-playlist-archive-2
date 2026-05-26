@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUfEH87eTMRz.md) - [plain]
 
 > Parque Simón Bolívar, Marzo 20, 21 y 22.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,732 likes - 73 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,731 likes - 73 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUfEH87eTMRz.md) - [plain]
 | 40 | [Rest My Chemistry](https://open.spotify.com/track/2O5UcpKolgLT8l8yAvEmID) | [Interpol](https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B) | [Our Love To Admire](https://open.spotify.com/album/1gsoIHeBan6QywhysNgApK) | 5:01 |
 | 41 | [Romantika](https://open.spotify.com/track/4nOOoo9OJbgnTBNHe5b6nD) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [Eros Massacre](https://open.spotify.com/album/0ZVpEzmv3wYLL1waCPPf7V) | 4:10 |
 | 42 | [Conticinio](https://open.spotify.com/track/0GqylPxaT9i7pg6Kk0w8tm) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Conticinio](https://open.spotify.com/album/0cFY27iZrkhNUJnL90EwDA) | 3:32 |
-| 43 | [Man Made of Meat](https://open.spotify.com/track/5gR6gTGOGsg9zcR7JhvwQz) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [viagr aboys](https://open.spotify.com/album/0ibbISvq4loJXVtZquKrQB) | 3:09 |
-| 44 | [So Cold](https://open.spotify.com/track/297PYWIVLP38C1a92ND8Kv) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [So Cold](https://open.spotify.com/album/3YaYl0E68bxDnW1gutZAgs) | 3:21 |
+| 43 | [So Cold](https://open.spotify.com/track/297PYWIVLP38C1a92ND8Kv) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [So Cold](https://open.spotify.com/album/3YaYl0E68bxDnW1gutZAgs) | 3:21 |
+| 44 | [Man Made of Meat](https://open.spotify.com/track/5gR6gTGOGsg9zcR7JhvwQz) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [viagr aboys](https://open.spotify.com/album/0ibbISvq4loJXVtZquKrQB) | 3:09 |
 | 45 | [MORE](https://open.spotify.com/track/5IDRSA83ayUGCCRdfdl04z) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [Keep Me Fed](https://open.spotify.com/album/1rYHznqLeJVXuy0YqwERGv) | 3:07 |
 | 46 | [sueña lindo, corazón](https://open.spotify.com/track/0uq0OrFNaOhCDOlySbYTUx) | [Macario Martínez](https://open.spotify.com/artist/228pVneav5qwbCGQrrqQo4) | [sueña lindo, corazón / nuestra casa en el mar](https://open.spotify.com/album/7t3GAAbmZEmkiUlN7mss28) | 2:02 |
 | 47 | [Tearing Me Up](https://open.spotify.com/track/6NDt5z8GKIHub37hBQ4x18) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [Days Gone By](https://open.spotify.com/album/0u3Rl4KquP15smujFrgGz4) | 7:50 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUfEH87eTMRz.md) - [plain]
 | 59 | [Retrato & Son](https://open.spotify.com/track/4XQhhsiPQsnxLFHAWOXbZY) | [Error 999](https://open.spotify.com/artist/7lsntvM70w5zsPUbAFFFT0), [Métricas Frías](https://open.spotify.com/artist/10MeG72hSqEKGbUdBowf9k), [Doble Porcion](https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408) | [Retrato & Son](https://open.spotify.com/album/6CqdWdsbdpe3Gba32qH9YM) | 3:01 |
 | 60 | [La Oportunidad](https://open.spotify.com/track/1govqZeydQtqqJm1SLpX8l) | [Elniko Arias](https://open.spotify.com/artist/4K4vr85RRWEyiAajgpeMrR) | [La Oportunidad](https://open.spotify.com/album/0mkhgGt2bmsJta8uQ5WbMs) | 2:54 |
 | 61 | [TEKETEKE](https://open.spotify.com/track/57DVPc2raEhdYqNmEHuClm) | [WOST](https://open.spotify.com/artist/3kdAt1M24OsazoncWOFlFf) | [XOXO](https://open.spotify.com/album/7wn92jI9a19UFekP9Sa9oU) | 5:49 |
-| 62 | [TV](https://open.spotify.com/track/4hus902o8ejJ2cEz60CEky) | [Entreco](https://open.spotify.com/artist/2EKPkGtwjq8mnpTHOr2NfT) | [T.V](https://open.spotify.com/album/38P7PZHv0YUOLcBgBR33QI) | 3:30 |
-| 63 | [To\-k \- Radio Edit](https://open.spotify.com/track/01nmmlfOsNn7yNlk0FQarF) | [Dj Babatr](https://open.spotify.com/artist/2VAqLzkNHs0cre3T6i1PHD) | [The Guetto \(Radio Edits\)](https://open.spotify.com/album/4jIc1KJaBOdIKNGPMH84Fr) | 1:47 |
+| 62 | [To\-k \- Radio Edit](https://open.spotify.com/track/01nmmlfOsNn7yNlk0FQarF) | [Dj Babatr](https://open.spotify.com/artist/2VAqLzkNHs0cre3T6i1PHD) | [The Guetto \(Radio Edits\)](https://open.spotify.com/album/4jIc1KJaBOdIKNGPMH84Fr) | 1:47 |
+| 63 | [TV](https://open.spotify.com/track/4hus902o8ejJ2cEz60CEky) | [Entreco](https://open.spotify.com/artist/2EKPkGtwjq8mnpTHOr2NfT) | [T.V](https://open.spotify.com/album/38P7PZHv0YUOLcBgBR33QI) | 3:30 |
 | 64 | [Can't Stop The Bleeding](https://open.spotify.com/track/6nvby2z8Gx8lAPX3Oq5tA5) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp), [Gramatik](https://open.spotify.com/artist/179BpmLkQCRIoU68Co80f5) | [Can't Stop The Bleeding](https://open.spotify.com/album/4V6kISSEKInUDjZ8mst8KQ) | 4:38 |
 | 65 | [El Túnel](https://open.spotify.com/track/5Th66m2GLWVgsVb8pvcR3W) | [Nicolás y los Fumadores](https://open.spotify.com/artist/3Ed5mxWV908VkLCADsgqeh) | [Dios y La Mata de Lulo o ¿Qué hacer en caso de que haya perdido la luz?](https://open.spotify.com/album/568P4ZZ4SiNTFiigsiTI2A) | 3:57 |
 | 66 | [MC Dinero](https://open.spotify.com/track/5vDKAa8p9ect2w1D0jVLDa) | [ANTOPIKO3](https://open.spotify.com/artist/7pIvpBpGKSiazpGDqeuj3a) | [Enkryptada](https://open.spotify.com/album/7CT5a6r4GHKRK3UKb62G1p) | 1:19 |

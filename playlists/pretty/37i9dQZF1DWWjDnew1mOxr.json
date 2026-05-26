@@ -1,6 +1,6 @@
 {
   "description": "Music that means it. Cover: Modern Woman",
-  "num_followers": 130993,
+  "num_followers": 131004,
   "original_name": "Proper Belters",
   "owner": {
     "name": "Spotify",
@@ -447,22 +447,6 @@
     {
       "added_at": "2026-05-01 00:00:20",
       "album": {
-        "name": "Shaking Hips and Crashing Cars",
-        "url": "https://open.spotify.com/album/2njNFU26P0YiMlqzO77SH5"
-      },
-      "artists": [
-        {
-          "name": "The Royston Club",
-          "url": "https://open.spotify.com/artist/5N5jf98OOEf3uAIJpi1deD"
-        }
-      ],
-      "duration_ms": 219072,
-      "name": "I'm a Liar",
-      "url": "https://open.spotify.com/track/3NIphGz3IOMMasC5H3pary"
-    },
-    {
-      "added_at": "2026-05-01 00:00:20",
-      "album": {
         "name": "We Get By",
         "url": "https://open.spotify.com/album/7oxuY6hojOHrp5ID7baSOW"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 194059,
       "name": "This Place",
       "url": "https://open.spotify.com/track/3ikQWoaMOYK0NztKM1MM0R"
+    },
+    {
+      "added_at": "2026-05-01 00:00:20",
+      "album": {
+        "name": "Shaking Hips and Crashing Cars",
+        "url": "https://open.spotify.com/album/2njNFU26P0YiMlqzO77SH5"
+      },
+      "artists": [
+        {
+          "name": "The Royston Club",
+          "url": "https://open.spotify.com/artist/5N5jf98OOEf3uAIJpi1deD"
+        }
+      ],
+      "duration_ms": 219072,
+      "name": "I'm a Liar",
+      "url": "https://open.spotify.com/track/3NIphGz3IOMMasC5H3pary"
     },
     {
       "added_at": "2026-05-01 00:00:20",
@@ -959,22 +959,6 @@
     {
       "added_at": "2026-05-01 00:00:20",
       "album": {
-        "name": "Placebo",
-        "url": "https://open.spotify.com/album/6f6TCcTF2vjS2GxKlT7SBq"
-      },
-      "artists": [
-        {
-          "name": "VILLANELLE",
-          "url": "https://open.spotify.com/artist/3J9QwmRJDdn9Oq1fB6mfcF"
-        }
-      ],
-      "duration_ms": 290086,
-      "name": "Placebo",
-      "url": "https://open.spotify.com/track/6T4hTXGDgINTwLJCE0iv14"
-    },
-    {
-      "added_at": "2026-05-01 00:00:20",
-      "album": {
         "name": "Voice Of The Voiceless",
         "url": "https://open.spotify.com/album/4sjD6pJ90VtPPy2lnT6uwU"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 193612,
       "name": "Voice Of The Voiceless",
       "url": "https://open.spotify.com/track/1clBozMcdm8BPjda4Uh3mt"
+    },
+    {
+      "added_at": "2026-05-01 00:00:20",
+      "album": {
+        "name": "Placebo",
+        "url": "https://open.spotify.com/album/6f6TCcTF2vjS2GxKlT7SBq"
+      },
+      "artists": [
+        {
+          "name": "VILLANELLE",
+          "url": "https://open.spotify.com/artist/3J9QwmRJDdn9Oq1fB6mfcF"
+        }
+      ],
+      "duration_ms": 290086,
+      "name": "Placebo",
+      "url": "https://open.spotify.com/track/6T4hTXGDgINTwLJCE0iv14"
     },
     {
       "added_at": "2026-05-01 00:00:20",
@@ -1247,18 +1247,18 @@
     {
       "added_at": "2026-05-01 00:00:20",
       "album": {
-        "name": "Not My Friends",
-        "url": "https://open.spotify.com/album/6xYLt9hhDC5Kn4R4H4FPdK"
+        "name": "ASA",
+        "url": "https://open.spotify.com/album/6FDu9Qf4NbE4B64JrNF7yv"
       },
       "artists": [
         {
-          "name": "Fiona-Lee",
-          "url": "https://open.spotify.com/artist/50vlHl1iuV051WG7kRaCmQ"
+          "name": "Catfish and the Bottlemen",
+          "url": "https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD"
         }
       ],
-      "duration_ms": 208927,
-      "name": "Not My Friends",
-      "url": "https://open.spotify.com/track/6nsZO7sBNyWgREWxS3uOEy"
+      "duration_ms": 151280,
+      "name": "ASA",
+      "url": "https://open.spotify.com/track/5BQOoA3LtXzmPWHtBoAeyw"
     },
     {
       "added_at": "2026-05-01 00:00:20",
@@ -1295,34 +1295,18 @@
     {
       "added_at": "2026-05-01 00:00:20",
       "album": {
-        "name": "ASA",
-        "url": "https://open.spotify.com/album/6FDu9Qf4NbE4B64JrNF7yv"
+        "name": "Not My Friends",
+        "url": "https://open.spotify.com/album/6xYLt9hhDC5Kn4R4H4FPdK"
       },
       "artists": [
         {
-          "name": "Catfish and the Bottlemen",
-          "url": "https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD"
+          "name": "Fiona-Lee",
+          "url": "https://open.spotify.com/artist/50vlHl1iuV051WG7kRaCmQ"
         }
       ],
-      "duration_ms": 151280,
-      "name": "ASA",
-      "url": "https://open.spotify.com/track/5BQOoA3LtXzmPWHtBoAeyw"
-    },
-    {
-      "added_at": "2026-05-01 00:00:20",
-      "album": {
-        "name": "The Age of Innocence",
-        "url": "https://open.spotify.com/album/0RNPeJkIcoPbHfUtY2BS9b"
-      },
-      "artists": [
-        {
-          "name": "Tooth",
-          "url": "https://open.spotify.com/artist/7ALR0GlSnIni4l9iZwJW7s"
-        }
-      ],
-      "duration_ms": 153780,
-      "name": "The Age of Innocence",
-      "url": "https://open.spotify.com/track/5CpvAXYX4QYrmp8Z4jDaUV"
+      "duration_ms": 208927,
+      "name": "Not My Friends",
+      "url": "https://open.spotify.com/track/6nsZO7sBNyWgREWxS3uOEy"
     },
     {
       "added_at": "2026-05-01 00:00:20",
@@ -1355,6 +1339,22 @@
       "duration_ms": 229165,
       "name": "Discount De Kooning (Last One Standing)",
       "url": "https://open.spotify.com/track/7oGpYDcFyHQSQS0CvEejVB"
+    },
+    {
+      "added_at": "2026-05-01 00:00:20",
+      "album": {
+        "name": "The Age of Innocence",
+        "url": "https://open.spotify.com/album/0RNPeJkIcoPbHfUtY2BS9b"
+      },
+      "artists": [
+        {
+          "name": "Tooth",
+          "url": "https://open.spotify.com/artist/7ALR0GlSnIni4l9iZwJW7s"
+        }
+      ],
+      "duration_ms": 153780,
+      "name": "The Age of Innocence",
+      "url": "https://open.spotify.com/track/5CpvAXYX4QYrmp8Z4jDaUV"
     },
     {
       "added_at": "2026-05-01 00:00:20",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2026-05-01 00:00:20",
       "album": {
-        "name": "Finish Line",
-        "url": "https://open.spotify.com/album/3hSn5sirwtHG66b3pcnOTB"
-      },
-      "artists": [
-        {
-          "name": "CQ Wrestling",
-          "url": "https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC"
-        }
-      ],
-      "duration_ms": 303174,
-      "name": "Finish Line",
-      "url": "https://open.spotify.com/track/1iGDydzF1qxVqW7N1JdQP0"
-    },
-    {
-      "added_at": "2026-05-01 00:00:20",
-      "album": {
         "name": "Can't Say No",
         "url": "https://open.spotify.com/album/0eXqzpHZp49CthfRA4ggtN"
       },
@@ -1507,6 +1491,22 @@
     {
       "added_at": "2026-05-01 00:00:20",
       "album": {
+        "name": "Finish Line",
+        "url": "https://open.spotify.com/album/3hSn5sirwtHG66b3pcnOTB"
+      },
+      "artists": [
+        {
+          "name": "CQ Wrestling",
+          "url": "https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC"
+        }
+      ],
+      "duration_ms": 303174,
+      "name": "Finish Line",
+      "url": "https://open.spotify.com/track/1iGDydzF1qxVqW7N1JdQP0"
+    },
+    {
+      "added_at": "2026-05-01 00:00:20",
+      "album": {
         "name": "Breadline",
         "url": "https://open.spotify.com/album/0Oxox0LPqyimvSDEDz6te1"
       },
@@ -1519,6 +1519,22 @@
       "duration_ms": 194652,
       "name": "Breadline",
       "url": "https://open.spotify.com/track/6MSuabY3lmqyNCUhcCgQ5n"
+    },
+    {
+      "added_at": "2026-05-01 00:00:20",
+      "album": {
+        "name": "Mind Metro",
+        "url": "https://open.spotify.com/album/0y6PAKbgkGhPBsMwgJnYD2"
+      },
+      "artists": [
+        {
+          "name": "The Cheap Thrills",
+          "url": "https://open.spotify.com/artist/7Jsx5mYnjBs9G7bkq1JLVz"
+        }
+      ],
+      "duration_ms": 232197,
+      "name": "Calypso Blue",
+      "url": "https://open.spotify.com/track/1QzEHPk9Aep6lmKzgLUjPt"
     },
     {
       "added_at": "2026-05-01 00:00:20",
@@ -1555,22 +1571,6 @@
     {
       "added_at": "2026-05-01 00:00:20",
       "album": {
-        "name": "Mind Metro",
-        "url": "https://open.spotify.com/album/0y6PAKbgkGhPBsMwgJnYD2"
-      },
-      "artists": [
-        {
-          "name": "The Cheap Thrills",
-          "url": "https://open.spotify.com/artist/7Jsx5mYnjBs9G7bkq1JLVz"
-        }
-      ],
-      "duration_ms": 232197,
-      "name": "Calypso Blue",
-      "url": "https://open.spotify.com/track/1QzEHPk9Aep6lmKzgLUjPt"
-    },
-    {
-      "added_at": "2026-05-01 00:00:20",
-      "album": {
         "name": "Reeling",
         "url": "https://open.spotify.com/album/1hkGVzxg3aKTSj1B6EMyRh"
       },
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2026-05-01 00:00:20",
       "album": {
-        "name": "What Am I Missing?",
-        "url": "https://open.spotify.com/album/5WLErSynOR3zxGOeInLxNe"
-      },
-      "artists": [
-        {
-          "name": "Heidi Curtis",
-          "url": "https://open.spotify.com/artist/4Jc9s2qAwAsnS72FGbCrwZ"
-        }
-      ],
-      "duration_ms": 184082,
-      "name": "What Am I Missing?",
-      "url": "https://open.spotify.com/track/1SgHJN6WSyHaXMt62P6hyh"
-    },
-    {
-      "added_at": "2026-05-01 00:00:20",
-      "album": {
         "name": "Perfect Me",
         "url": "https://open.spotify.com/album/52Mane6O5Svocc9w3FhiCL"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 190486,
       "name": "Perfect Me",
       "url": "https://open.spotify.com/track/21f1QfiYHehakoXs0Zyeuz"
+    },
+    {
+      "added_at": "2026-05-01 00:00:20",
+      "album": {
+        "name": "What Am I Missing?",
+        "url": "https://open.spotify.com/album/5WLErSynOR3zxGOeInLxNe"
+      },
+      "artists": [
+        {
+          "name": "Heidi Curtis",
+          "url": "https://open.spotify.com/artist/4Jc9s2qAwAsnS72FGbCrwZ"
+        }
+      ],
+      "duration_ms": 184082,
+      "name": "What Am I Missing?",
+      "url": "https://open.spotify.com/track/1SgHJN6WSyHaXMt62P6hyh"
     }
   ],
   "unique_name": "Proper Belters",

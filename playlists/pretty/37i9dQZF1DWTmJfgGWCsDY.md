@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmJfgGWCsDY.md) - [plain]
 
 > This is Singeli\. High energy dance music echoing throughout the streets of Tanzania\. Cover: Kidene Fighter
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,151 likes - 75 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,163 likes - 75 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmJfgGWCsDY.md) - [plain]
 | 41 | [HASSANI](https://open.spotify.com/track/6CQlALBnuYZ91sv1qgefak) | [Meja Kunta](https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku) | [HASSANI](https://open.spotify.com/album/0gJNgqvpEbrfybrkpQyBhW) | 2:33 |
 | 42 | [Wanijue](https://open.spotify.com/track/0FWT88DvL90Ld82YF74iRO) | [Micky Singer](https://open.spotify.com/artist/4g0gCO59QKK7Sdt8M97eUG) | [Wanijue](https://open.spotify.com/album/7s4bUuBdyYqiYv2SWZR0MD) | 3:14 |
 | 43 | [Kuokota](https://open.spotify.com/track/66VHnhffxhc26mAnqeu6sF) | [Fama](https://open.spotify.com/artist/31gxuhZWlaTdq7awtYBkeE), [Marlaw](https://open.spotify.com/artist/2Mubfa0R9X7HoCHatHctGL), [TID](https://open.spotify.com/artist/7F9kZ1lQ6NS4kQrKXDeAkv) | [Kuokota](https://open.spotify.com/album/3qCkBRoCpgU297HVuKyiPT) | 4:02 |
-| 44 | [Stress](https://open.spotify.com/track/11ogL4EDviRvREmLPLZtIg) | [Balaa MC](https://open.spotify.com/artist/099c0S0PPscGtwAOW5mwZL) | [Stress](https://open.spotify.com/album/3ABUxuGydsu6SaXKSH21CD) | 4:12 |
-| 45 | [Ex Arudiwi](https://open.spotify.com/track/1nURRVhNIxYTnFGL3amjQh) | [AbduKiba](https://open.spotify.com/artist/61UXsInLB2mt0OynwmL75T), [D Voice](https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm) | [Ex Arudiwi](https://open.spotify.com/album/1wrIhtY5ABU4fmk26qKf2m) | 3:19 |
+| 44 | [Ex Arudiwi](https://open.spotify.com/track/1nURRVhNIxYTnFGL3amjQh) | [AbduKiba](https://open.spotify.com/artist/61UXsInLB2mt0OynwmL75T), [D Voice](https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm) | [Ex Arudiwi](https://open.spotify.com/album/1wrIhtY5ABU4fmk26qKf2m) | 3:19 |
+| 45 | [Stress](https://open.spotify.com/track/11ogL4EDviRvREmLPLZtIg) | [Balaa MC](https://open.spotify.com/artist/099c0S0PPscGtwAOW5mwZL) | [Stress](https://open.spotify.com/album/3ABUxuGydsu6SaXKSH21CD) | 4:12 |
 | 46 | [BELIEVE](https://open.spotify.com/track/1uUsDhq9xqnpH97Hb6BmAi) | [DJ Travella](https://open.spotify.com/artist/0PD7wCo7ybcKXouWDCWgfW) | [BELIEVE](https://open.spotify.com/album/0XampDY52VBFjRFWxuJOOB) | 1:41 |
 | 47 | [Sijafunzwa \(feat\. Mdogo Sajent\)](https://open.spotify.com/track/1mg5kAPAUafuzE44s9ejx5) | [Yammi](https://open.spotify.com/artist/6yV5HfoLnS2Yn7qKtS2fIK), [Mdogo sajent](https://open.spotify.com/artist/4jQmhz8hvgsFNcX05dBooC) | [After All](https://open.spotify.com/album/6skxQDk7Zs9qVRkQKPDNdf) | 2:32 |
 | 48 | [Hujanikomoa](https://open.spotify.com/track/32fa47Dvcz1YyqnCDCsB3Z) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Hujanikomoa](https://open.spotify.com/album/3wG7OVKa5pP6rl103ji9qM) | 5:59 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmJfgGWCsDY.md) - [plain]
 | 61 | [Hatujui](https://open.spotify.com/track/5TRX2T7BNBFINuTOCpb8ZN) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3), [Dulla Makabila](https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u) | [Maturity EP](https://open.spotify.com/album/55GR8hOcCxxiWApDdURREq) | 4:30 |
 | 62 | [Matunzo](https://open.spotify.com/track/4yGA9XnyM67FVaSmVq0ENG) | [D Voice](https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm) | [Matunzo](https://open.spotify.com/album/1pYwEft8Z5WFQFofED3Waj) | 3:03 |
 | 63 | [Dua](https://open.spotify.com/track/5CZXDKVNmd2NGJtrtuhnT1) | [Dulla Makabila](https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u) | [Dua](https://open.spotify.com/album/3zr0XmzcH06k2mejKtW2A7) | 4:42 |
-| 64 | [Rudi Tena](https://open.spotify.com/track/1DPac0fiYlY493E9QCdwY1) | [Ten Ballz](https://open.spotify.com/artist/67iMSibGgkEzemZCjlUHOz), [Dogo Elisha](https://open.spotify.com/artist/5CG6UhfNKkswvBkUwQ5P13), [Dj pacheko midundo](https://open.spotify.com/artist/26SAE5mEh0Cs7DJgSQk2SU), [Banx](https://open.spotify.com/artist/0BRornhoWDjWs0PP7Iw9va) | [Rudi Tena](https://open.spotify.com/album/5H4d2QdcvEgYhNHtLgb5Pa) | 3:46 |
-| 65 | [Mtaani Kwetu](https://open.spotify.com/track/7wHcrG6ULMo6MtPfVro6je) | [Kidene Fighter](https://open.spotify.com/artist/0ZIPH3FhzJYTmCMlZiSrLA) | [Kumi Za Moto](https://open.spotify.com/album/7vTszg8Bz4fiLkDqryx2xL) | 3:26 |
+| 64 | [Mtaani Kwetu](https://open.spotify.com/track/7wHcrG6ULMo6MtPfVro6je) | [Kidene Fighter](https://open.spotify.com/artist/0ZIPH3FhzJYTmCMlZiSrLA) | [Kumi Za Moto](https://open.spotify.com/album/7vTszg8Bz4fiLkDqryx2xL) | 3:26 |
+| 65 | [Rudi Tena](https://open.spotify.com/track/1DPac0fiYlY493E9QCdwY1) | [Ten Ballz](https://open.spotify.com/artist/67iMSibGgkEzemZCjlUHOz), [Dogo Elisha](https://open.spotify.com/artist/5CG6UhfNKkswvBkUwQ5P13), [Dj pacheko midundo](https://open.spotify.com/artist/26SAE5mEh0Cs7DJgSQk2SU), [Banx](https://open.spotify.com/artist/0BRornhoWDjWs0PP7Iw9va) | [Rudi Tena](https://open.spotify.com/album/5H4d2QdcvEgYhNHtLgb5Pa) | 3:46 |
 | 66 | [Chura](https://open.spotify.com/track/5NsYl2TsHcS8C68i9hiO7g) | [Snura](https://open.spotify.com/artist/7BameHT63FkDAmYuzxPkM9) | [Chura](https://open.spotify.com/album/42IUnXUa8lue5w3cMQn4Zm) | 4:32 |
 | 67 | [Maokoto](https://open.spotify.com/track/5NV9jkFToD1sqTwKqOTZUe) | [Mocco Genius](https://open.spotify.com/artist/0qR7Js4rYymyutq0Sh8Fz9) | [Maokoto](https://open.spotify.com/album/42BkNLDMP0zEbvzJaS3JuG) | 2:34 |
 | 68 | [Kijumbe](https://open.spotify.com/track/68I76ceLuHRfU9wqlA6wo4) | [MABANTU](https://open.spotify.com/artist/41d5wDbsNkjpFaRI7jUHl8) | [Kijumbe](https://open.spotify.com/album/2iQbLXbeyFsokSg0ENz5VR) | 3:29 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmJfgGWCsDY.md) - [plain]
 | 71 | [Natafuta Hela](https://open.spotify.com/track/3kKrn6c9edbzPVXnReWadK) | [DJ Jukk](https://open.spotify.com/artist/32nFfq390c9vyz1ZqDGpZl), [G Nako](https://open.spotify.com/artist/0ywwwX8jcXj6HW4l0xOzMC), [K Pizo](https://open.spotify.com/artist/2B5oYAod3fGCDamm4YdUWV) | [Natafuta Hela](https://open.spotify.com/album/1R7nqRuAyCeoox1AAo7zAp) | 3:44 |
 | 72 | [Makombolelo singeli version](https://open.spotify.com/track/7mA3HuBQGoPo2CQNg3MRqs) | [Mazegele Boy](https://open.spotify.com/artist/3w8cMeLYZiZ0k2N7wqhGZJ) | [Makombolelo singeli version](https://open.spotify.com/album/09SURbkZtHwTdhzZ2akoQb) | 2:13 |
 | 73 | [Jiangalie](https://open.spotify.com/track/70MUSJin8YD1Yt3MY6lh6Q) | [Nay Wa Mitego](https://open.spotify.com/artist/3P97oGJM0vr8VZEz1HX1aq), [D Voice](https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm) | [Jiangalie](https://open.spotify.com/album/13ANj5VXI99symiSXYggqI) | 3:49 |
-| 74 | [Niite Mbwa](https://open.spotify.com/track/4QQ4T0JTPZo9r3oLKH519H) | [Shilole](https://open.spotify.com/artist/5Kupo3eu25cR6dIkrmGof6), [Mchina Mweusi](https://open.spotify.com/artist/6wqKfNDWH5xwAuwOnoGPQe) | [Niite Mbwa](https://open.spotify.com/album/1uxo0zn1wEVsPGxXX1htQ9) | 3:48 |
-| 75 | [Lipa](https://open.spotify.com/track/7i06Ir6zXiN0gw9FVNVYgB) | [Kiwanda](https://open.spotify.com/artist/5WkPo47nFulbuDtjtjmxqT), [Aslam Tz](https://open.spotify.com/artist/5QgUWlRx4MXPcZNcAU8T3O) | [Lipa](https://open.spotify.com/album/4kDFP1HTXsGE8rsxZWxERH) | 3:43 |
+| 74 | [Lipa](https://open.spotify.com/track/7i06Ir6zXiN0gw9FVNVYgB) | [Kiwanda](https://open.spotify.com/artist/5WkPo47nFulbuDtjtjmxqT), [Aslam Tz](https://open.spotify.com/artist/5QgUWlRx4MXPcZNcAU8T3O) | [Lipa](https://open.spotify.com/album/4kDFP1HTXsGE8rsxZWxERH) | 3:43 |
+| 75 | [Niite Mbwa](https://open.spotify.com/track/4QQ4T0JTPZo9r3oLKH519H) | [Shilole](https://open.spotify.com/artist/5Kupo3eu25cR6dIkrmGof6), [Mchina Mweusi](https://open.spotify.com/artist/6wqKfNDWH5xwAuwOnoGPQe) | [Niite Mbwa](https://open.spotify.com/album/1uxo0zn1wEVsPGxXX1htQ9) | 3:48 |
 
 Snapshot ID: `AAAAAILXy2BoRrCyez/bCxJSULxKe20S`

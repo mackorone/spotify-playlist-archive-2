@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Arriesgado. The essential tracks, all in one playlist.",
-  "num_followers": 117920,
+  "num_followers": 117931,
   "original_name": "This Is Grupo Arriesgado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahDuAAAAAAAjAmbqovvm8ydw/zFep7W+",
+  "snapshot_id": "ahI/gAAAAAB92gknZNH6EGX7TSXptv95",
   "tracks": [
     {
       "added_at": null,
@@ -255,6 +255,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pistiando Con Mi Tata, Vol. 1 (En Vivo)",
+        "url": "https://open.spotify.com/album/5PGwa2q6KhQkBrQ7GbHzmD"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 167211,
+      "name": "Celos Del Viento (En vivo)",
+      "url": "https://open.spotify.com/track/68Hq2EtftSiWf5lRRfIbsc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nunca Me Quisiste",
         "url": "https://open.spotify.com/album/20uhkai4M2QzzVVrGK1dDL"
       },
@@ -271,22 +287,6 @@
       "duration_ms": 152789,
       "name": "Nunca Me Quisiste",
       "url": "https://open.spotify.com/track/0a5dX4BSWeqk9N5AUyZdGf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pistiando Con Mi Tata, Vol. 1 (En Vivo)",
-        "url": "https://open.spotify.com/album/5PGwa2q6KhQkBrQ7GbHzmD"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 167211,
-      "name": "Celos Del Viento (En vivo)",
-      "url": "https://open.spotify.com/track/68Hq2EtftSiWf5lRRfIbsc"
     },
     {
       "added_at": null,
@@ -347,26 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Solo Por Bonita",
-        "url": "https://open.spotify.com/album/7AYn3L69giDtaSue0qMEgI"
-      },
-      "artists": [
-        {
-          "name": "Conjunto Rienda Real",
-          "url": "https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3"
-        },
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 132711,
-      "name": "Solo Por Bonita",
-      "url": "https://open.spotify.com/track/2AVepiHwOMlNl1DnIttQYI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Sera y El Chavo (En Vivo)",
         "url": "https://open.spotify.com/album/5L6W0E2hMD2URy4uYbTOQh"
       },
@@ -383,6 +363,26 @@
       "duration_ms": 177000,
       "name": "El Sera y El Chavo (En Vivo)",
       "url": "https://open.spotify.com/track/0zF4ncyttvlP9whKdkEVlh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Solo Por Bonita",
+        "url": "https://open.spotify.com/album/7AYn3L69giDtaSue0qMEgI"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Rienda Real",
+          "url": "https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3"
+        },
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 132711,
+      "name": "Solo Por Bonita",
+      "url": "https://open.spotify.com/track/2AVepiHwOMlNl1DnIttQYI"
     },
     {
       "added_at": null,
@@ -439,6 +439,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "A La Sombra De Un \u00c1rbol, Vol. 2 (En Vivo)",
+        "url": "https://open.spotify.com/album/1XBHkino209lUqg5yra3wO"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 153344,
+      "name": "La Linea Directa (En Vivo)",
+      "url": "https://open.spotify.com/track/6xvbYCizfFTX6tn3N7iRbL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Se\u00f1or De La Monta\u00f1a (En Vivo)",
         "url": "https://open.spotify.com/album/0bY6JTncnH4stX8lYaIru8"
       },
@@ -463,22 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A La Sombra De Un \u00c1rbol, Vol. 2 (En Vivo)",
-        "url": "https://open.spotify.com/album/1XBHkino209lUqg5yra3wO"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 153344,
-      "name": "La Linea Directa (En Vivo)",
-      "url": "https://open.spotify.com/track/6xvbYCizfFTX6tn3N7iRbL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Playa",
         "url": "https://open.spotify.com/album/6w6RCUcKd1oiSK6eE2TBY1"
       },
@@ -491,6 +491,22 @@
       "duration_ms": 226208,
       "name": "La Playa",
       "url": "https://open.spotify.com/track/7qi4z99o4xMAYhcVOZrfDz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "De Aqui Soy",
+        "url": "https://open.spotify.com/album/6LTBwWPfJVQnvMp07CP6NP"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 168317,
+      "name": "De Aqui Soy",
+      "url": "https://open.spotify.com/track/4JB95jzbRRnCvcW4mA0Qel"
     },
     {
       "added_at": null,
@@ -511,22 +527,6 @@
       "duration_ms": 175162,
       "name": "Confidencial",
       "url": "https://open.spotify.com/track/2bnCDuFUHgg8d3ioiCFE63"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "De Aqui Soy",
-        "url": "https://open.spotify.com/album/6LTBwWPfJVQnvMp07CP6NP"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 168317,
-      "name": "De Aqui Soy",
-      "url": "https://open.spotify.com/track/4JB95jzbRRnCvcW4mA0Qel"
     },
     {
       "added_at": null,
@@ -639,22 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A La Sombra De Un \u00c1rbol, Vol. 2 (En Vivo)",
-        "url": "https://open.spotify.com/album/1XBHkino209lUqg5yra3wO"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 221504,
-      "name": "Coraz\u00f3n Ranchero (En Vivo)",
-      "url": "https://open.spotify.com/track/5Y7ph3ZXDOOAShgLyKLsHb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ya No Puedo Con Esto",
         "url": "https://open.spotify.com/album/0qkgWGO8CiNBF5R4TFoPVs"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 149952,
       "name": "Ya No Puedo Con Esto",
       "url": "https://open.spotify.com/track/5I7jr90pZABC2IOj7ElLQO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A La Sombra De Un \u00c1rbol, Vol. 2 (En Vivo)",
+        "url": "https://open.spotify.com/album/1XBHkino209lUqg5yra3wO"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 221504,
+      "name": "Coraz\u00f3n Ranchero (En Vivo)",
+      "url": "https://open.spotify.com/track/5Y7ph3ZXDOOAShgLyKLsHb"
     },
     {
       "added_at": null,
@@ -707,6 +707,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pistiando Con Mi Tata, Vol. 1 (En Vivo)",
+        "url": "https://open.spotify.com/album/5PGwa2q6KhQkBrQ7GbHzmD"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 149696,
+      "name": "La Pasadita (En vivo)",
+      "url": "https://open.spotify.com/track/2l9grS1b0xzLCKTWdWqeeO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Rapido (En Vivo)",
         "url": "https://open.spotify.com/album/4sVco7GWEEPfowzK2oMW1u"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 208405,
       "name": "El Rapido - En Vivo",
       "url": "https://open.spotify.com/track/5l3trGR8RlTZFuIg2p2GFJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pistiando Con Mi Tata, Vol. 1 (En Vivo)",
-        "url": "https://open.spotify.com/album/5PGwa2q6KhQkBrQ7GbHzmD"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 149696,
-      "name": "La Pasadita (En vivo)",
-      "url": "https://open.spotify.com/track/2l9grS1b0xzLCKTWdWqeeO"
     },
     {
       "added_at": null,

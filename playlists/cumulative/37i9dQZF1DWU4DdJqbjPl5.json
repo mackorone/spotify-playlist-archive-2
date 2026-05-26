@@ -9485,6 +9485,32 @@
     },
     {
       "album": {
+        "name": "Stars Misaligned II",
+        "url": "https://open.spotify.com/album/25PT7y0EZbv1qdfctSmvzc"
+      },
+      "artists": [
+        {
+          "name": "Shiloh Yodell\u00e9",
+          "url": "https://open.spotify.com/artist/3jVOOhEKCtuDzhB8w1iLkH"
+        },
+        {
+          "name": "oSHAMO",
+          "url": "https://open.spotify.com/artist/6T8LsW0wEmWLi2IriLoQgA"
+        },
+        {
+          "name": "Abefe",
+          "url": "https://open.spotify.com/artist/3I2EdUYrhKmG2ghjrSPojl"
+        }
+      ],
+      "date_added": "2026-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170679,
+      "name": "Stars Misaligned II",
+      "url": "https://open.spotify.com/track/0awbfWjQjaoogyh2VzUw9u"
+    },
+    {
+      "album": {
         "name": "Steady",
         "url": "https://open.spotify.com/album/1HuMESLFBWzyre7uhHjfwM"
       },

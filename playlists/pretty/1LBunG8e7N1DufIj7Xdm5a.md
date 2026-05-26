@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 280 likes - 4,477 songs - 9 day 22 hr 59 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 280 likes - 4,480 songs - 9 day 23 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4485,5 +4485,8 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4475 | [That Kind of Girl](https://open.spotify.com/track/1SBp4oHlw8taa64WenMBgp) | [Sugarcane Hangover](https://open.spotify.com/artist/4apvzNrF5euN4Sy6oTgBZ3) | [That Kind of Girl](https://open.spotify.com/album/2lVSHtPcmY03BOPELzR6cf) | 3:22 |
 | 4476 | [100 Hod](https://open.spotify.com/track/0iV71apxpIvDdd4vLdj4wr) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [100 Hod](https://open.spotify.com/album/62pqGsxT3FIQJdCv6unCH9) | 2:31 |
 | 4477 | [证明我真的活着入门票一个](https://open.spotify.com/track/5Ui2iclOehI6HjZozdorOK) | [陶铭西](https://open.spotify.com/artist/7jUnGkOKbLiiaoat6VXIMW) | [证明我真的活着入门票一个](https://open.spotify.com/album/55ni3VEWMtNnJ4cabLqeP0) | 3:16 |
+| 4478 | [Right Mistake](https://open.spotify.com/track/70YqemM7cakJXXkuzgRvkr) | [VALENTINA](https://open.spotify.com/artist/0WiCcHD8qE3NzAuynddh92) | [Right Mistake](https://open.spotify.com/album/4fayL23DsuBXoCvMqJQFod) | 4:47 |
+| 4479 | [Llueve En Mi Corazón](https://open.spotify.com/track/2qxx7egCVi63AHGwnZfyvt) | [Visitantes](https://open.spotify.com/artist/0nynsqah3R512QB7VBtvvT) | [Luces Y Sombras](https://open.spotify.com/album/4HiXj2zc8KpxhU2QdouKWP) | 4:59 |
+| 4480 | [STOP](https://open.spotify.com/track/74AI6IwRwBsnzPFWDfjBLy) | [Blue Cabs](https://open.spotify.com/artist/6mF5Cb0gYrse7CzbffqwqK) | [STOP](https://open.spotify.com/album/0wfOhUJJKk74S3c6q7WeSP) | 3:11 |
 
-Snapshot ID: `AAAItSyIRGtBpbv2z22FAWoQWFECDG5S`
+Snapshot ID: `AAAIuHyODD3fhToomptPHDVtYtdE5BQp`

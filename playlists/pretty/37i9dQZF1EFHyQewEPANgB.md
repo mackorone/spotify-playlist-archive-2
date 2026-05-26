@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHyQewEPANgB.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1t4poam1A1i9RT8MUOhfh2">Earlly Mac</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 186 likes - 90 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 187 likes - 90 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHyQewEPANgB.md) - [plain]
 | 89 | [W.H.E.W\. \(SouthWest Kesha Mission\)](https://open.spotify.com/track/2nXQCxv2VSlHZ1ELHpOnLo) | [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ) | [W.H.E.W.](https://open.spotify.com/album/5HOZdRUmU9xas3SRjQx5wE) | 1:27 |
 | 90 | [Super Up](https://open.spotify.com/track/4TLvEV4lAVbcBiEPeXFhQw) | [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ) | [Super Up](https://open.spotify.com/album/7gZM9w7M1e9qoYDoIc5QV0) | 2:16 |
 
-Snapshot ID: `AcSYnAAAAAD0hYtxPLodg6vzSl3mByKz`
+Snapshot ID: `AcSeMgAAAAB8ViMygF+s9OYwEYgP/9ld`

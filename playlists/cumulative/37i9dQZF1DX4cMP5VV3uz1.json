@@ -1519,6 +1519,24 @@
     },
     {
       "album": {
+        "name": "SPEEEDBUMP 01",
+        "url": "https://open.spotify.com/album/4Fz8otbOFmbFFelkTqmQYe"
+      },
+      "artists": [
+        {
+          "name": "Moody Good",
+          "url": "https://open.spotify.com/artist/3EN8pUGJtYWutzf2fUxrDH"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281142,
+      "name": "Blurry Flurry",
+      "url": "https://open.spotify.com/track/06Ib3OfxdvinrGtizQA5uP"
+    },
+    {
+      "album": {
         "name": "Body",
         "url": "https://open.spotify.com/album/1tsHo3JZ2AQrHdQczM812B"
       },
@@ -11672,7 +11690,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 165900,
       "name": "Stab Parade",
       "url": "https://open.spotify.com/track/0SKLS7D4P1MaLP8m7f8K6A"

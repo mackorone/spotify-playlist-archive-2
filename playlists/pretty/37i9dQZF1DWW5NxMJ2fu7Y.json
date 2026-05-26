@@ -1,6 +1,6 @@
 {
   "description": "mood:  \ud83d\ude0e\u2708\ufe0f",
-  "num_followers": 71357,
+  "num_followers": 71376,
   "original_name": "Tayer \u0637\u0627\u064a\u0631\u200e",
   "owner": {
     "name": "Spotify",
@@ -627,6 +627,22 @@
     {
       "added_at": "2026-01-28 06:22:05",
       "album": {
+        "name": "Kelma",
+        "url": "https://open.spotify.com/album/05C5ZLaQkfgFDWKFwRRNtH"
+      },
+      "artists": [
+        {
+          "name": "Snor",
+          "url": "https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "Kelma",
+      "url": "https://open.spotify.com/track/4vtD50wmruYW80fnTOWplJ"
+    },
+    {
+      "added_at": "2026-01-28 06:22:05",
+      "album": {
         "name": "A9RASS x PSYCHO",
         "url": "https://open.spotify.com/album/1SzqinDG9Pfvg59qYnwJHs"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 280424,
       "name": "Tab3ini 1",
       "url": "https://open.spotify.com/track/3ieQkUz7YJVTIqee3RIh8s"
-    },
-    {
-      "added_at": "2026-01-28 06:22:05",
-      "album": {
-        "name": "Kelma",
-        "url": "https://open.spotify.com/album/05C5ZLaQkfgFDWKFwRRNtH"
-      },
-      "artists": [
-        {
-          "name": "Snor",
-          "url": "https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "Kelma",
-      "url": "https://open.spotify.com/track/4vtD50wmruYW80fnTOWplJ"
     },
     {
       "added_at": "2026-01-28 06:22:05",

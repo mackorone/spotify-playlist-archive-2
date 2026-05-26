@@ -7316,7 +7316,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 247253,
       "name": "Jai Shivrai (Hindi) [From \"Raja Shivaji\"]",
       "url": "https://open.spotify.com/track/3CU4wG3VSO1ITyqXULwIU5"
@@ -15434,12 +15434,12 @@
       },
       "artists": [
         {
-          "name": "Ana Rehman",
-          "url": "https://open.spotify.com/artist/3GeB4PeRfwhRaI1Xtu7FIH"
-        },
-        {
           "name": "Shubham Shirule",
           "url": "https://open.spotify.com/artist/6beOaVvPVwBvJMHZZox3p1"
+        },
+        {
+          "name": "Ana Rehman",
+          "url": "https://open.spotify.com/artist/3GeB4PeRfwhRaI1Xtu7FIH"
         }
       ],
       "date_added": "2026-05-19",
@@ -17384,6 +17384,36 @@
       "duration_ms": 227317,
       "name": "Tu Te Sharab",
       "url": "https://open.spotify.com/track/2evJXd91G0qY062c2lxBEO"
+    },
+    {
+      "album": {
+        "name": "Tujhko (From \u201cCocktail 2\u201d)",
+        "url": "https://open.spotify.com/album/5UDscrlkAJfJPEGiKUdt3u"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Sunidhi Chauhan",
+          "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        }
+      ],
+      "date_added": "2026-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342400,
+      "name": "Tujhko - From \u201cCocktail 2\u201d",
+      "url": "https://open.spotify.com/track/34bZqssAITx04EAzcffySn"
     },
     {
       "album": {

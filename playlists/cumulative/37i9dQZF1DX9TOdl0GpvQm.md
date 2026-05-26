@@ -4,7 +4,7 @@
 
 > deep dark ambient and half\-remembered hypnagogic soundscapes.
 
-317 songs - 23 hr 40 min
+318 songs - 23 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,7 +181,7 @@
 | [Mogadon Coffee Morning](https://open.spotify.com/track/4qM00ki1r0Y94lqUkuedia) | [The Advisory Circle](https://open.spotify.com/artist/6W0YlZ9EupJ8kSsW97KG6S) | [Other Channels](https://open.spotify.com/album/5e8pjxQuuRyMf6FjjaQT3D) | 2:56 | 2021-10-27 |  |
 | [Monastic](https://open.spotify.com/track/4VZAiJm5BugPrnlsMzqgUu) | [Seefeel](https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f) | [Succour \(Redux\)](https://open.spotify.com/album/3Nrbrk8rTB1tI12OwvQ2PM) | 6:33 | 2021-10-27 | 2023-02-02 |
 | [Monastic](https://open.spotify.com/track/6hZtYl0fhKYJ3ptc6DiLnL) | [Seefeel](https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f) | [Succour \(Redux\)](https://open.spotify.com/album/0ZFh0hss22TukAygB7LufU) | 6:33 | 2021-10-27 | 2024-04-19 |
-| [Moogies Bloogies](https://open.spotify.com/track/6gaWoxdfAfB2yQKKBQeQ59) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8), [Anthony Newley](https://open.spotify.com/artist/5JXvJb6vQkSCFGCh4FCKOI) | [Moogies Bloogies](https://open.spotify.com/album/6m37XcSc4ltBFthDtMkMZ6) | 2:24 | 2021-10-27 |  |
+| [Moogies Bloogies](https://open.spotify.com/track/6gaWoxdfAfB2yQKKBQeQ59) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8), [Anthony Newley](https://open.spotify.com/artist/5JXvJb6vQkSCFGCh4FCKOI) | [Moogies Bloogies](https://open.spotify.com/album/6m37XcSc4ltBFthDtMkMZ6) | 2:24 | 2021-10-27 | 2026-05-26 |
 | [Moonlight and Magic](https://open.spotify.com/track/3cSV9CdfTgLo6z7NtFZjtK) | [The Night Monitor](https://open.spotify.com/artist/3CZX2LMIYMGF8CK70c6zMm) | [Their Dark Dominion](https://open.spotify.com/album/1iazXYZ9hqFnkapgU1BrBf) | 2:56 | 2022-04-06 | 2025-10-31 |
 | [My Beautiful White Dog](https://open.spotify.com/track/1EDWlisAe1lpsY6Rr7ubME) | [Vincent Gallo](https://open.spotify.com/artist/4nMMOojbg03LrgAN3uOjZF) | [When](https://open.spotify.com/album/1X94MbbHmlffXdGeAyxhNp) | 4:00 | 2021-10-27 | 2023-02-02 |
 | [My Beautiful White Dog](https://open.spotify.com/track/2GuZ0I1IToF2FTiXhfaRc6) | [Vincent Gallo](https://open.spotify.com/artist/4nMMOojbg03LrgAN3uOjZF) | [When](https://open.spotify.com/album/6Jd8jPjZp7sUxwmNa0R3de) | 4:00 | 2021-10-27 | 2024-04-19 |
@@ -296,6 +296,7 @@
 | [Track Of The Cat](https://open.spotify.com/track/26Z4ZAQqjy2B3d1WrTVbiL) | [Pram](https://open.spotify.com/artist/2aFm5gM8lQefcKzOvP2eH8) | [Dark Island](https://open.spotify.com/album/1GS1QP90A1LjCn8f7VO7nZ) | 4:13 | 2021-10-27 |  |
 | [Tragic Sublime 悲剧性崇高](https://open.spotify.com/track/3hwY98GTOANHIfLTIYzEZn) | [Yikii](https://open.spotify.com/artist/0WupbuT0axmYIRMOUtl9Bm) | [Tragic Sublime 悲剧性崇高](https://open.spotify.com/album/7cTIcwmmaCNbls2psGTQ5P) | 3:35 | 2023-02-15 | 2023-04-15 |
 | [Trececerotres](https://open.spotify.com/track/2YIhvE2LGV58BDeINvSRbx) | [Daniela Lalita](https://open.spotify.com/artist/2eblCDvXEKYYapO1uchGds) | [Trececerotres](https://open.spotify.com/album/5ENBXjQ6oBDLq0AD6YfPTO) | 2:15 | 2022-09-19 |  |
+| [Tráfico de Esclavos](https://open.spotify.com/track/0BprIJecaWxLhJ8gLsYR1T) | [Size](https://open.spotify.com/artist/4BPTzPG92NSGqAkegit5t4) | [Size](https://open.spotify.com/album/4cSZesj9ONrMsKSfM9QWl4) | 2:36 | 2025-11-14 |  |
 | [Ulan Bator](https://open.spotify.com/track/0LUDrOsKwecbJO5W0oUOCQ) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Aluminum Tunes \[Switched On Volume 3\]](https://open.spotify.com/album/2EeKgPJUsoy9PWhgVzlXI0) | 3:14 | 2021-10-27 | 2022-07-28 |
 | [Umbra](https://open.spotify.com/track/65oyZGxKUxzfv12LglkHbO) | [Monica Hapsari](https://open.spotify.com/artist/20A3XzYQEOFjheUWIfOK6j) | [Umbra](https://open.spotify.com/album/4JJ56IJQdwUNfcexYgJf3n) | 7:17 | 2022-06-08 | 2025-10-31 |
 | [Under the Midnight Sun](https://open.spotify.com/track/01OqcCMrDvoVvNdIPAy92B) | [Jeremiah Chiu](https://open.spotify.com/artist/1RpHbIW5eeEBs693nyrhSa), [Marta Sofia Honer](https://open.spotify.com/artist/0No4kFHG4fdYselL7OcAjv) | [Recordings from the Åland Islands](https://open.spotify.com/album/0Cxszkp832OLjhTQdTCEQI) | 3:42 | 2022-03-11 | 2024-04-19 |

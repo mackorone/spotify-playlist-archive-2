@@ -2171,6 +2171,60 @@
     },
     {
       "album": {
+        "name": "BELE",
+        "url": "https://open.spotify.com/album/4NqPDHUS2hhmRuWTdQNOXF"
+      },
+      "artists": [
+        {
+          "name": "Mahoota",
+          "url": "https://open.spotify.com/artist/4ak8w8LmNVLnT4sULNEimt"
+        },
+        {
+          "name": "Mark Khoza",
+          "url": "https://open.spotify.com/artist/788f3u39ABDYpjpz0HPXjD"
+        },
+        {
+          "name": "Uncool MC",
+          "url": "https://open.spotify.com/artist/6t3c6bpXVLzQGiKf00urM1"
+        },
+        {
+          "name": "Candy Flow RSA",
+          "url": "https://open.spotify.com/artist/1b5fRGLPLWV69MK4HGohFo"
+        },
+        {
+          "name": "Vetkuk",
+          "url": "https://open.spotify.com/artist/0N6CgWlBaskJj7kaAXSath"
+        },
+        {
+          "name": "Sheshy",
+          "url": "https://open.spotify.com/artist/30V6ypeu0szdh2dpD3725A"
+        },
+        {
+          "name": "Jaiva Sox",
+          "url": "https://open.spotify.com/artist/2hsljU3w8H0Ci3vaox31mo"
+        },
+        {
+          "name": "Druza",
+          "url": "https://open.spotify.com/artist/3gvg4SizYMzzdniS1mYtlj"
+        },
+        {
+          "name": "Sino Ndofaya",
+          "url": "https://open.spotify.com/artist/0e1DNpixRMBWGj3iLzSQHp"
+        },
+        {
+          "name": "Sportman Striker",
+          "url": "https://open.spotify.com/artist/53eNdRaI8QPR9yuYR1FV0M"
+        }
+      ],
+      "date_added": "2026-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360530,
+      "name": "BELE",
+      "url": "https://open.spotify.com/track/6oEHhZnufw9TNzvpACNGId"
+    },
+    {
+      "album": {
         "name": "Believe Me",
         "url": "https://open.spotify.com/album/4zG1SZyuLAzxwinmg9Z22F"
       },
@@ -5154,7 +5208,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 217269,
       "name": "EASY WITH ME",
       "url": "https://open.spotify.com/track/3gvi43dx7YWnQX0Tb5T2NV"
@@ -5444,7 +5498,7 @@
       ],
       "date_added": "2025-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 180765,
       "name": "Ewo",
       "url": "https://open.spotify.com/track/3w0eFAME3IxlonearUIaXJ"
@@ -6454,6 +6508,24 @@
       "duration_ms": 167627,
       "name": "Grateful",
       "url": "https://open.spotify.com/track/2K4PHy2VYIWTkyguN0PD79"
+    },
+    {
+      "album": {
+        "name": "M$NEY",
+        "url": "https://open.spotify.com/album/07iqzVICrgPFOpXem6MEpU"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "date_added": "2026-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169911,
+      "name": "Gratitude",
+      "url": "https://open.spotify.com/track/7hiRlw64LXcHpGAVJ6eUzv"
     },
     {
       "album": {
@@ -11824,7 +11896,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 484269,
       "name": "Ngbambe Duze (feat. MFR Souls & Dj Maphorisa)",
       "url": "https://open.spotify.com/track/0vwdMP1LbBDQCaICUHsxgU"
@@ -15236,6 +15308,28 @@
       "duration_ms": 310490,
       "name": "Slime You Out (feat. SZA)",
       "url": "https://open.spotify.com/track/3RaCGXCiiMufRPoexXxGkV"
+    },
+    {
+      "album": {
+        "name": "Slip & Slide",
+        "url": "https://open.spotify.com/album/682rd6EauPMGI3oDnT8FUE"
+      },
+      "artists": [
+        {
+          "name": "Masicka",
+          "url": "https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK"
+        },
+        {
+          "name": "Di Genius",
+          "url": "https://open.spotify.com/artist/08erObvNX7rs7d4pbuaRCQ"
+        }
+      ],
+      "date_added": "2026-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139377,
+      "name": "Slip & Slide",
+      "url": "https://open.spotify.com/track/5EJIznVELUzwHmEEAylB0M"
     },
     {
       "album": {

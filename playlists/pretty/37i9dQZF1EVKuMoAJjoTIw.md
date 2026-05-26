@@ -2,15 +2,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EVKuMoAJjoTIw.md) - [plain]
 
 ### [Sad Mix](https://open.spotify.com/playlist/37i9dQZF1EVKuMoAJjoTIw)
 
-> <a href=spotify:playlist:37i9dQZF1EIUY5V9mnUM6w>Junior H</a>, <a href=spotify:playlist:37i9dQZF1EIX7AhUgWTdp6>Hoobastank</a>, <a href=spotify:playlist:37i9dQZF1EIV1oCGxzhRed>Taylor Swift</a> and more
+> <a href=spotify:playlist:37i9dQZF1EIV5ihzgPnqBl>Olivia Rodrigo</a>, <a href=spotify:playlist:37i9dQZF1EIW59fyjC7s7V>Alex Warren</a>, <a href=spotify:playlist:37i9dQZF1EIYnCz0KRbdlN>Fuerza Regida</a> and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 0 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 0 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Y LLORO](https://open.spotify.com/track/6RcAHyC5sAUIbPTkhOQwd8) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [$AD BOYZ 4 LIFE II](https://open.spotify.com/album/7Lv6VzSqIz1sAssK2JUskG) | 2:59 |
-| 2 | [The Reason](https://open.spotify.com/track/5B5eTk7DF8KVp1zpQoY1XY) | [Hoobastank](https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO) | [The Reason \(20th Anniversary\)](https://open.spotify.com/album/3pCVjmRGVZ2mYuJN2R1wi8) | 3:52 |
-| 3 | [august](https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 4:21 |
+| 1 | [vampire](https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:39 |
+| 2 | [Ordinary](https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [You'll Be Alright, Kid \(Chapter 1\)](https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo) | 3:06 |
+| 3 | [ANSIEDAD](https://open.spotify.com/track/1a7onn7lPqqRWul5ogyMyX) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [111XPANTIA](https://open.spotify.com/album/1JpJzuM4uncCfCimVozkmy) | 2:31 |
 | 4 | [When I Close My Eyes](https://open.spotify.com/track/2llGNw4clBNOxpcORvUtYF) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [A Wonderful Life \(Epilogue\)](https://open.spotify.com/album/4J3ZHo7yt4nYpBPviWLRry) | 3:13 |
 | 5 | [you broke me first](https://open.spotify.com/track/4l0RmWt52FxpVxMNni6i63) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [TOO YOUNG TO BE SAD](https://open.spotify.com/album/1BaHo66NCQNx6ku0hPn9bR) | 2:50 |
 | 6 | [Makrehtosh](https://open.spotify.com/track/6ETTz69AD0SQzjxiCipq7g) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [Yaah](https://open.spotify.com/album/2oqZuAGuCqR2aYrfrUBXzR) | 3:32 |
@@ -25,16 +25,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EVKuMoAJjoTIw.md) - [plain]
 | 15 | [Mohabat](https://open.spotify.com/track/0aVpOPirZUdeJon1ikS9M5) | [Sucha Yaar](https://open.spotify.com/artist/3796Al8KerYiCPaOK1vHZJ) | [Mohabat](https://open.spotify.com/album/3iaLLjl5QBpuYMljsK9fOr) | 3:36 |
 | 16 | [Wasalt Ma3ak](https://open.spotify.com/track/1SRla7UVFXue89poJ52X4L) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [THE SORROWS ALBUM](https://open.spotify.com/album/7gSawX3Lw4xbpFUj8ZRtiN) | 4:42 |
 | 17 | [يا واحشني](https://open.spotify.com/track/7HVcU4Vl4OYxnTfNaz419u) | [Maha Ftouni](https://open.spotify.com/artist/2alZWWB8btL8F9NCeoR1Xn) | [يا واحشني](https://open.spotify.com/album/6JQv8gfhDLkDZ8CMUyeHA2) | 2:38 |
-| 18 | [drivers license](https://open.spotify.com/track/5wANPM4fQCJwkGd4rN57mH) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 4:02 |
-| 19 | [خلصت خلاص](https://open.spotify.com/track/6yduec6KSrZ66jR4YEaOYU) | [Ahmed Batshan](https://open.spotify.com/artist/3mw4hDoLzTBOieeN9XZBIz) | [خلصت خلاص](https://open.spotify.com/album/1Jzd1J3nYd6LcQugPYCKjX) | 4:29 |
-| 20 | [Paralyzed](https://open.spotify.com/track/5DHQKZCOZhGNTbYBCekWx0) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz) | [Mansion](https://open.spotify.com/album/3Qq4kVfHPrs8xPKIYKmctl) | 4:30 |
-| 21 | [CRY](https://open.spotify.com/track/3MVCR2UGxXtvdhqFFEzmGX) | [Parker Jack](https://open.spotify.com/artist/5COD136qwj9wtuea78EGbF) | [CRY](https://open.spotify.com/album/5OKFXrFjt1N8adFAWpp3NZ) | 2:15 |
-| 22 | [Wish You The Best](https://open.spotify.com/track/3gdPwk2wyOXNRnTA1KXnEr) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent](https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi) | 3:30 |
-| 23 | [Dueles](https://open.spotify.com/track/1iRvhKiXRElIH2Uf4gd95P) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Un Besito Más](https://open.spotify.com/album/6pmTwCb5SeTjV9wdnkbDo3) | 4:07 |
-| 24 | [Tadfe Gi](https://open.spotify.com/track/4qmnKakW5quqq15m1toRpH) | [Jorge Gill](https://open.spotify.com/artist/7D1zOODZVM2HxjVDsGX5L1), [Treff E](https://open.spotify.com/artist/3AFX0GCzHVW8n1KBTcod8a) | [Tadfe Gi](https://open.spotify.com/album/360wjdK53MHI3AWqAawfgD) | 4:15 |
-| 25 | [بتشبه عليا \- Betshbah Alaya](https://open.spotify.com/track/4hJqaGLdeBTJ8vedfgm8cy) | [Versus Music](https://open.spotify.com/artist/7lYo3vBvDbmhlgYhNBzM8V) | [بتشبه عليا \- Betshbah Alaya](https://open.spotify.com/album/6bR79GcOzXDs54CiziOOqD) | 3:22 |
-| 26 | [Bhulya Ki Ae](https://open.spotify.com/track/7rMrlBdUjpiU88rDEejqY6) | [HUSTINDER](https://open.spotify.com/artist/2f3dFiQ7uWMFKrbxK8LbkX) | [Saadiyan Gallan 3](https://open.spotify.com/album/4LhXlA5vD99Hcn63I1IcS6) | 3:15 |
-| 27 | [If I Died Last Night](https://open.spotify.com/track/4NpFdj4CHgVSoQ32yHVmNL) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [drowning](https://open.spotify.com/album/4MG8Z8BcUsNQFgJjMxzTWN) | 2:44 |
+| 18 | [خلصت خلاص](https://open.spotify.com/track/6yduec6KSrZ66jR4YEaOYU) | [Ahmed Batshan](https://open.spotify.com/artist/3mw4hDoLzTBOieeN9XZBIz) | [خلصت خلاص](https://open.spotify.com/album/1Jzd1J3nYd6LcQugPYCKjX) | 4:29 |
+| 19 | [Paralyzed](https://open.spotify.com/track/5DHQKZCOZhGNTbYBCekWx0) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz) | [Mansion](https://open.spotify.com/album/3Qq4kVfHPrs8xPKIYKmctl) | 4:30 |
+| 20 | [CRY](https://open.spotify.com/track/3MVCR2UGxXtvdhqFFEzmGX) | [Parker Jack](https://open.spotify.com/artist/5COD136qwj9wtuea78EGbF) | [CRY](https://open.spotify.com/album/5OKFXrFjt1N8adFAWpp3NZ) | 2:15 |
+| 21 | [Wish You The Best](https://open.spotify.com/track/3gdPwk2wyOXNRnTA1KXnEr) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent](https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi) | 3:30 |
+| 22 | [Dueles](https://open.spotify.com/track/1iRvhKiXRElIH2Uf4gd95P) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Un Besito Más](https://open.spotify.com/album/6pmTwCb5SeTjV9wdnkbDo3) | 4:07 |
+| 23 | [Tadfe Gi](https://open.spotify.com/track/4qmnKakW5quqq15m1toRpH) | [Jorge Gill](https://open.spotify.com/artist/7D1zOODZVM2HxjVDsGX5L1), [Treff E](https://open.spotify.com/artist/3AFX0GCzHVW8n1KBTcod8a) | [Tadfe Gi](https://open.spotify.com/album/360wjdK53MHI3AWqAawfgD) | 4:15 |
+| 24 | [بتشبه عليا \- Betshbah Alaya](https://open.spotify.com/track/4hJqaGLdeBTJ8vedfgm8cy) | [Versus Music](https://open.spotify.com/artist/7lYo3vBvDbmhlgYhNBzM8V) | [بتشبه عليا \- Betshbah Alaya](https://open.spotify.com/album/6bR79GcOzXDs54CiziOOqD) | 3:22 |
+| 25 | [Bhulya Ki Ae](https://open.spotify.com/track/7rMrlBdUjpiU88rDEejqY6) | [HUSTINDER](https://open.spotify.com/artist/2f3dFiQ7uWMFKrbxK8LbkX) | [Saadiyan Gallan 3](https://open.spotify.com/album/4LhXlA5vD99Hcn63I1IcS6) | 3:15 |
+| 26 | [If I Died Last Night](https://open.spotify.com/track/4NpFdj4CHgVSoQ32yHVmNL) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [drowning](https://open.spotify.com/album/4MG8Z8BcUsNQFgJjMxzTWN) | 2:44 |
+| 27 | [drivers license](https://open.spotify.com/track/5wANPM4fQCJwkGd4rN57mH) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 4:02 |
 | 28 | [Promises](https://open.spotify.com/track/55OfBElVAZDNBt1oCSungN) | [Sabi Bhinder](https://open.spotify.com/artist/5tzknsKlnqImFwdw2yn0ng) | [Promises](https://open.spotify.com/album/0Gm4NW8cWk2W3eUbapEWSD) | 3:04 |
 | 29 | [Menemukanmu](https://open.spotify.com/track/6IYoNF3OM00M8eJcjY9LuN) | [Seventeen](https://open.spotify.com/artist/5uUb3J6HqLhBWwzuh84LUZ) | [Dunia Yang Indah](https://open.spotify.com/album/0PAFGgXB2GM6llY8ZfzoW5) | 4:20 |
 | 30 | [Heal](https://open.spotify.com/track/4KlL5Bwlm4yHYxr0B2rHci) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Long Way Down \(Deluxe\)](https://open.spotify.com/album/0Gf1yE895FKK4YWVRuAeg8) | 3:13 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EVKuMoAJjoTIw.md) - [plain]
 | 42 | [بخاف من مسلسل سيد الناس](https://open.spotify.com/track/0fHBJnmzWkOhfkbKGBTVlW) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [بخاف من مسلسل سيد الناس](https://open.spotify.com/album/37Y9kPOLBf9mBHYX60YDVf) | 4:52 |
 | 43 | [أول حب](https://open.spotify.com/track/6m686JPy4eKbumXZ3Unf4n) | [Maha Ftouni](https://open.spotify.com/artist/2alZWWB8btL8F9NCeoR1Xn) | [أول حب](https://open.spotify.com/album/63ataOFd510uJ8XnLyW1WF) | 3:52 |
 | 44 | [Vellipoke](https://open.spotify.com/track/397ca8b09VvIeZtjVGcoRm) | [Ranjith Govind](https://open.spotify.com/artist/7zFlr6Y537SdALqy0Xfvth) | [Memu Vayasuku Vachham](https://open.spotify.com/album/2hgyE4PJD9S9fjmCeENRSL) | 4:37 |
-| 45 | [Kade Ta Tu Avenga](https://open.spotify.com/track/0oUlCdC6VZeWrep7k32t2a) | [Runbir](https://open.spotify.com/artist/5noqLj1lBL60sqwh4ydVch) | [Kade Ta Tu Avenga](https://open.spotify.com/album/1v5mfl7SWGmjMpCGqeQYux) | 3:31 |
-| 46 | [Hate Myself](https://open.spotify.com/track/5PdEiev2BkKiZtZFcNKjfM) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz) | [The Search](https://open.spotify.com/album/46xdC4Qcvscfs3Ai2RIHcv) | 4:20 |
+| 45 | [Hate Myself](https://open.spotify.com/track/5PdEiev2BkKiZtZFcNKjfM) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz) | [The Search](https://open.spotify.com/album/46xdC4Qcvscfs3Ai2RIHcv) | 4:20 |
+| 46 | [Kade Ta Tu Avenga](https://open.spotify.com/track/0oUlCdC6VZeWrep7k32t2a) | [Runbir](https://open.spotify.com/artist/5noqLj1lBL60sqwh4ydVch) | [Kade Ta Tu Avenga](https://open.spotify.com/album/1v5mfl7SWGmjMpCGqeQYux) | 3:31 |
 | 47 | [Hanju](https://open.spotify.com/track/5rJg0LdA2VtCtLeBWZycFd) | [Pardeep Sran](https://open.spotify.com/artist/4LUGmBDuNtbBZp5naOMEnC), [Sukh Lotey](https://open.spotify.com/artist/36HuUPCABTgaY4e8rgzSNG), [Geet](https://open.spotify.com/artist/3jWuXbAR2GuuGrY0WgDA7W) | [Hanju](https://open.spotify.com/album/5WOh8BWk78FhbsZZlIG6O9) | 2:49 |
 | 48 | [اتنسينا](https://open.spotify.com/track/0kZtRxxBDbMO4vZApAiNOZ) | [Youssif Elashry](https://open.spotify.com/artist/4IMgqWorWJUqUlbULGdoBa) | [اخر ما تبقي من احزاني](https://open.spotify.com/album/5TkHU9o2cEXhuC9yG1uDlh) | 2:31 |
 | 49 | [Kenangan Terindah](https://open.spotify.com/track/5TtmfZaNSYEcTR49cureT0) | [SAMSONS](https://open.spotify.com/artist/6HHje5tfmzWK8PsSaoJ9Xp) | [Naluri Lelaki \(Special Edition\)](https://open.spotify.com/album/7Ls7Id4vLjwONTyxywzrg7) | 4:07 |

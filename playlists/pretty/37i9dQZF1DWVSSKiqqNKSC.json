@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Lo mejor de la Salsa Cubana! Celia Cruz en portada.",
-  "num_followers": 531054,
+  "num_followers": 531100,
   "original_name": "Salsa Cubana",
   "owner": {
     "name": "Spotify",
@@ -43,8 +43,8 @@
     {
       "added_at": "2025-03-07 06:00:25",
       "album": {
-        "name": "La Negra Tiene Tumbao",
-        "url": "https://open.spotify.com/album/1206SPHFIi9EoXIEiqtHr9"
+        "name": "Mi Vida Es Cantar",
+        "url": "https://open.spotify.com/album/2clEi9iP3VkzZzkydAjFDA"
       },
       "artists": [
         {
@@ -52,9 +52,9 @@
           "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
         }
       ],
-      "duration_ms": 253346,
-      "name": "La Negra Tiene Tumbao",
-      "url": "https://open.spotify.com/track/2uzCfFYh6tSNFdz14ZIf3N"
+      "duration_ms": 275253,
+      "name": "La Vida Es Un Carnaval",
+      "url": "https://open.spotify.com/track/3Rjc14RoRucHhEWvv3W3xW"
     },
     {
       "added_at": "2025-03-07 06:00:25",
@@ -131,8 +131,8 @@
     {
       "added_at": "2025-03-07 06:00:25",
       "album": {
-        "name": "Mi Vida Es Cantar",
-        "url": "https://open.spotify.com/album/2clEi9iP3VkzZzkydAjFDA"
+        "name": "La Negra Tiene Tumbao",
+        "url": "https://open.spotify.com/album/1206SPHFIi9EoXIEiqtHr9"
       },
       "artists": [
         {
@@ -140,9 +140,9 @@
           "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
         }
       ],
-      "duration_ms": 275253,
-      "name": "La Vida Es Un Carnaval",
-      "url": "https://open.spotify.com/track/3Rjc14RoRucHhEWvv3W3xW"
+      "duration_ms": 253346,
+      "name": "La Negra Tiene Tumbao",
+      "url": "https://open.spotify.com/track/2uzCfFYh6tSNFdz14ZIf3N"
     },
     {
       "added_at": "2025-03-07 06:00:25",
@@ -387,6 +387,22 @@
     {
       "added_at": "2025-03-07 06:00:25",
       "album": {
+        "name": "Bueno",
+        "url": "https://open.spotify.com/album/3TdBztL3zrCPNaAHP7WKDg"
+      },
+      "artists": [
+        {
+          "name": "Descemer Bueno",
+          "url": "https://open.spotify.com/artist/5luyt0SUvGkDMY4ILP6Qhl"
+        }
+      ],
+      "duration_ms": 248586,
+      "name": "Tus Luces Sobre Mi",
+      "url": "https://open.spotify.com/track/7AdPaRTnk63nx1E8J6XMr6"
+    },
+    {
+      "added_at": "2025-03-07 06:00:25",
+      "album": {
         "name": "Que Tiene Que Te Mueve",
         "url": "https://open.spotify.com/album/2Pyrt9J4FuEFe8Ks2rSq6P"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 306449,
       "name": "Yo Comprendo",
       "url": "https://open.spotify.com/track/3CR63Hzo3LR40TdK4pf1hr"
-    },
-    {
-      "added_at": "2025-03-07 06:00:25",
-      "album": {
-        "name": "Bueno",
-        "url": "https://open.spotify.com/album/3TdBztL3zrCPNaAHP7WKDg"
-      },
-      "artists": [
-        {
-          "name": "Descemer Bueno",
-          "url": "https://open.spotify.com/artist/5luyt0SUvGkDMY4ILP6Qhl"
-        }
-      ],
-      "duration_ms": 248586,
-      "name": "Tus Luces Sobre Mi",
-      "url": "https://open.spotify.com/track/7AdPaRTnk63nx1E8J6XMr6"
     },
     {
       "added_at": "2025-03-07 06:00:25",

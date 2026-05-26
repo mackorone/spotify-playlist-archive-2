@@ -1,12 +1,12 @@
 {
   "description": "This is A Boogie Wit da Hoodie. The essential tracks, all in one playlist.",
-  "num_followers": 204197,
+  "num_followers": 204200,
   "original_name": "This Is A Boogie Wit da Hoodie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahDuAAAAAAB8vsbrP/zStJnz4NrEF79y",
+  "snapshot_id": "ahI/gAAAAABfjuS0Mdy0ESuIl1hrw2hD",
   "tracks": [
     {
       "added_at": null,
@@ -655,22 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Before Artistry",
-        "url": "https://open.spotify.com/album/3H9jMWGLMhckbBFWdTV0ez"
-      },
-      "artists": [
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        }
-      ],
-      "duration_ms": 191413,
-      "name": "Show Me Something Real",
-      "url": "https://open.spotify.com/track/3LQf1YMwVTO7owyfsVbVae"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Not a Regular Person",
         "url": "https://open.spotify.com/album/2rclhJv98oCvlhYLG9tioj"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 186456,
       "name": "Not a Regular Person",
       "url": "https://open.spotify.com/track/0KfgfxTnqfX4IfhVDpPYTd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Before Artistry",
+        "url": "https://open.spotify.com/album/3H9jMWGLMhckbBFWdTV0ez"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "duration_ms": 191413,
+      "name": "Show Me Something Real",
+      "url": "https://open.spotify.com/track/3LQf1YMwVTO7owyfsVbVae"
     },
     {
       "added_at": null,
@@ -727,22 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Before Artistry",
-        "url": "https://open.spotify.com/album/3H9jMWGLMhckbBFWdTV0ez"
-      },
-      "artists": [
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        }
-      ],
-      "duration_ms": 180466,
-      "name": "Glitchin",
-      "url": "https://open.spotify.com/track/5wXM2RNVFqFNPXNlLSDm1V"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Red Light (feat. Trippie Redd)",
         "url": "https://open.spotify.com/album/27TLYLViRV2CpzbFnOiVYQ"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 206222,
       "name": "Red Light (feat. Trippie Redd)",
       "url": "https://open.spotify.com/track/4LjylDK1ilK0Ab7ylRdO3Z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Before Artistry",
+        "url": "https://open.spotify.com/album/3H9jMWGLMhckbBFWdTV0ez"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "duration_ms": 180466,
+      "name": "Glitchin",
+      "url": "https://open.spotify.com/track/5wXM2RNVFqFNPXNlLSDm1V"
     },
     {
       "added_at": null,
@@ -823,22 +823,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Last Drink",
-        "url": "https://open.spotify.com/album/4RAAZcbae57tp6h2joUZuu"
-      },
-      "artists": [
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        }
-      ],
-      "duration_ms": 156734,
-      "name": "Last Drink",
-      "url": "https://open.spotify.com/track/6HNxPQ3Atlfq5yQa5LGMIj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "TBA",
         "url": "https://open.spotify.com/album/2apbRBAafIKmcWwESmLHJi"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 184000,
       "name": "Timeless (feat. DJ SPINKING)",
       "url": "https://open.spotify.com/track/0q5DrtpnnGpOvBy5nnPMbe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Last Drink",
+        "url": "https://open.spotify.com/album/4RAAZcbae57tp6h2joUZuu"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "duration_ms": 156734,
+      "name": "Last Drink",
+      "url": "https://open.spotify.com/track/6HNxPQ3Atlfq5yQa5LGMIj"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Ana Cacimba",
-  "num_followers": 290995,
+  "num_followers": 290982,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
@@ -315,6 +315,26 @@
     {
       "added_at": "2026-05-22 03:00:39",
       "album": {
+        "name": "Tons de Marrom",
+        "url": "https://open.spotify.com/album/2Ws5rlczmp2G60lDPJyrsZ"
+      },
+      "artists": [
+        {
+          "name": "Ryan Fidelis",
+          "url": "https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm"
+        },
+        {
+          "name": "Nina",
+          "url": "https://open.spotify.com/artist/7fA6EAOeE7G5HmvBgbwND5"
+        }
+      ],
+      "duration_ms": 193562,
+      "name": "Corpo Suado",
+      "url": "https://open.spotify.com/track/60HKq194AJUnsiyogk99uL"
+    },
+    {
+      "added_at": "2026-05-22 03:00:39",
+      "album": {
         "name": "Trama",
         "url": "https://open.spotify.com/album/0cjiJLtUVvsUtxuDfWn2a7"
       },
@@ -363,26 +383,6 @@
       "duration_ms": 194782,
       "name": "BASQUIAT",
       "url": "https://open.spotify.com/track/0gXPalg35be7z7TONlqJl0"
-    },
-    {
-      "added_at": "2026-05-22 03:00:39",
-      "album": {
-        "name": "Tons de Marrom",
-        "url": "https://open.spotify.com/album/2Ws5rlczmp2G60lDPJyrsZ"
-      },
-      "artists": [
-        {
-          "name": "Ryan Fidelis",
-          "url": "https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm"
-        },
-        {
-          "name": "Nina",
-          "url": "https://open.spotify.com/artist/7fA6EAOeE7G5HmvBgbwND5"
-        }
-      ],
-      "duration_ms": 193562,
-      "name": "Corpo Suado",
-      "url": "https://open.spotify.com/track/60HKq194AJUnsiyogk99uL"
     },
     {
       "added_at": "2026-05-22 03:00:39",
@@ -643,6 +643,22 @@
     {
       "added_at": "2026-05-22 03:00:39",
       "album": {
+        "name": "ELES N\u00c3O SABEM O QUE \u00c9 AMAR",
+        "url": "https://open.spotify.com/album/6gsHXxWasjJ5CJyg6NFW6V"
+      },
+      "artists": [
+        {
+          "name": "Manocchio",
+          "url": "https://open.spotify.com/artist/6eF2txpySndQt339aJjQE2"
+        }
+      ],
+      "duration_ms": 202713,
+      "name": "seguir sozinho",
+      "url": "https://open.spotify.com/track/6sT5GUsuZh3goVtsWwKmEN"
+    },
+    {
+      "added_at": "2026-05-22 03:00:39",
+      "album": {
         "name": "Barulho Das Ondas",
         "url": "https://open.spotify.com/album/4dz9jnGDmEIzi9YaKXC6c6"
       },
@@ -707,22 +723,6 @@
     {
       "added_at": "2026-05-22 03:00:39",
       "album": {
-        "name": "ELES N\u00c3O SABEM O QUE \u00c9 AMAR",
-        "url": "https://open.spotify.com/album/6gsHXxWasjJ5CJyg6NFW6V"
-      },
-      "artists": [
-        {
-          "name": "Manocchio",
-          "url": "https://open.spotify.com/artist/6eF2txpySndQt339aJjQE2"
-        }
-      ],
-      "duration_ms": 202713,
-      "name": "seguir sozinho",
-      "url": "https://open.spotify.com/track/6sT5GUsuZh3goVtsWwKmEN"
-    },
-    {
-      "added_at": "2026-05-22 03:00:39",
-      "album": {
         "name": "viciado em mim",
         "url": "https://open.spotify.com/album/4qwKGWfcXm2kZDygtI8YOg"
       },
@@ -763,30 +763,6 @@
     {
       "added_at": "2026-05-22 03:00:39",
       "album": {
-        "name": "Proposital (Cita\u00e7\u00e3o Aquele Abra\u00e7o)",
-        "url": "https://open.spotify.com/album/0jWlOY3pDrv5eQpoz9ds2X"
-      },
-      "artists": [
-        {
-          "name": "Vit\u00e3o",
-          "url": "https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP"
-        },
-        {
-          "name": "Ferrugem",
-          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
-        },
-        {
-          "name": "WC no Beat",
-          "url": "https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS"
-        }
-      ],
-      "duration_ms": 168448,
-      "name": "Proposital (Cita\u00e7\u00e3o Aquele Abra\u00e7o)",
-      "url": "https://open.spotify.com/track/4I1dCogzyGuaP5uIXrMTs2"
-    },
-    {
-      "added_at": "2026-05-22 03:00:39",
-      "album": {
         "name": "O Agora",
         "url": "https://open.spotify.com/album/2WWfpmd4ixsB2plCwPRsmC"
       },
@@ -807,6 +783,30 @@
       "duration_ms": 194730,
       "name": "O Agora",
       "url": "https://open.spotify.com/track/2h3rxJbIftSJCyIvae7rCU"
+    },
+    {
+      "added_at": "2026-05-22 03:00:39",
+      "album": {
+        "name": "Proposital (Cita\u00e7\u00e3o Aquele Abra\u00e7o)",
+        "url": "https://open.spotify.com/album/0jWlOY3pDrv5eQpoz9ds2X"
+      },
+      "artists": [
+        {
+          "name": "Vit\u00e3o",
+          "url": "https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP"
+        },
+        {
+          "name": "Ferrugem",
+          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
+        },
+        {
+          "name": "WC no Beat",
+          "url": "https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS"
+        }
+      ],
+      "duration_ms": 168448,
+      "name": "Proposital (Cita\u00e7\u00e3o Aquele Abra\u00e7o)",
+      "url": "https://open.spotify.com/track/4I1dCogzyGuaP5uIXrMTs2"
     },
     {
       "added_at": "2026-05-22 03:00:39",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2026-05-22 03:00:39",
       "album": {
+        "name": "Acordo Cedo",
+        "url": "https://open.spotify.com/album/058ktMlIudmSi3yvqOKFPB"
+      },
+      "artists": [
+        {
+          "name": "Sobral",
+          "url": "https://open.spotify.com/artist/1iffB8upqqDnx6UX8P3kz2"
+        }
+      ],
+      "duration_ms": 125186,
+      "name": "Acordo Cedo",
+      "url": "https://open.spotify.com/track/3fp09hk7iBE338wH4vbP2n"
+    },
+    {
+      "added_at": "2026-05-22 03:00:39",
+      "album": {
         "name": "Seu Z\u00e9",
         "url": "https://open.spotify.com/album/7s3KnsNmFhgSyUxhfLcS3N"
       },
@@ -1343,22 +1359,6 @@
       "duration_ms": 136430,
       "name": "Seu Z\u00e9",
       "url": "https://open.spotify.com/track/7uZm4WI4OqH25LFlNobiff"
-    },
-    {
-      "added_at": "2026-05-22 03:00:39",
-      "album": {
-        "name": "Acordo Cedo",
-        "url": "https://open.spotify.com/album/058ktMlIudmSi3yvqOKFPB"
-      },
-      "artists": [
-        {
-          "name": "Sobral",
-          "url": "https://open.spotify.com/artist/1iffB8upqqDnx6UX8P3kz2"
-        }
-      ],
-      "duration_ms": 125186,
-      "name": "Acordo Cedo",
-      "url": "https://open.spotify.com/track/3fp09hk7iBE338wH4vbP2n"
     },
     {
       "added_at": "2026-05-22 03:00:39",

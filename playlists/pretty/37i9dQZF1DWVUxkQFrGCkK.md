@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 
 > IBZ szn\. Cover: Samantha Loveridge
 
-[Spotify](https://open.spotify.com/user/spotify) - 410,951 likes - 72 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 410,977 likes - 72 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

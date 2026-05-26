@@ -7847,6 +7847,24 @@
     },
     {
       "album": {
+        "name": "Din V\u00e4rld",
+        "url": "https://open.spotify.com/album/6pAskf2ezVoyxVRZxLlfrG"
+      },
+      "artists": [
+        {
+          "name": "Klaudy",
+          "url": "https://open.spotify.com/artist/7mV5Ag4VyHBPfUtpekZGyd"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134000,
+      "name": "Din V\u00e4rld",
+      "url": "https://open.spotify.com/track/6CZQHFOGwdQnKl6EsTRBAq"
+    },
+    {
+      "album": {
         "name": "dina armar",
         "url": "https://open.spotify.com/album/6ICpgNNwn9bPnZQYwzIUaV"
       },
@@ -14268,7 +14286,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 272575,
       "name": "Gullmar Gospel",
       "url": "https://open.spotify.com/track/1UNyMoHUNzdaxaKGMNc3Xk"
@@ -14958,6 +14976,24 @@
       "duration_ms": 176044,
       "name": "Headed North",
       "url": "https://open.spotify.com/track/6JnGmZTooUN8UW37syo8mV"
+    },
+    {
+      "album": {
+        "name": "Headline",
+        "url": "https://open.spotify.com/album/3Ni9i98siKghg0FR68BbtV"
+      },
+      "artists": [
+        {
+          "name": "Theo",
+          "url": "https://open.spotify.com/artist/5vBoU7A2kwbTXyUPZK5Gq1"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152261,
+      "name": "Headline",
+      "url": "https://open.spotify.com/track/2DWBlKb2mIAkWh6mcO2vzM"
     },
     {
       "album": {
@@ -40682,7 +40718,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 184678,
       "name": "WAKE UP",
       "url": "https://open.spotify.com/track/6ca7VFQyvV38QvWlZauvIj"

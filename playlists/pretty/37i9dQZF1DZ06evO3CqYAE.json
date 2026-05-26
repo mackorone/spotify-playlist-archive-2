@@ -1,12 +1,12 @@
 {
   "description": "This is Mercy Chinwo. The essential tracks, all in one playlist.",
-  "num_followers": 14741,
+  "num_followers": 14750,
   "original_name": "This Is Mercy Chinwo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahDuAAAAAACfCUz9QrzezIM9iSAMt5Sm",
+  "snapshot_id": "ahI/gAAAAABB84RZi4zQNmBaXkoox80N",
   "tracks": [
     {
       "added_at": null,
@@ -315,22 +315,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Okemmuo (The Spirit of the Spirit)",
-        "url": "https://open.spotify.com/album/2hPoJ6ylg4KRyaWV7Qa832"
+        "name": "The Cross: My Gaze",
+        "url": "https://open.spotify.com/album/5d34SgN4PekfZSICW3Fytt"
       },
       "artists": [
-        {
-          "name": "Chioma Jesus",
-          "url": "https://open.spotify.com/artist/7GNY8eqnvkcMvJp1jrETa4"
-        },
         {
           "name": "Mercy Chinwo",
           "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
         }
       ],
-      "duration_ms": 354986,
-      "name": "Okemmuo (The Spirit of the Spirit)",
-      "url": "https://open.spotify.com/track/2B5bl6TenrogNpxgdCIPTw"
+      "duration_ms": 394170,
+      "name": "Omekannaya",
+      "url": "https://open.spotify.com/track/1ovRzUecowNFHf5vXUWWo3"
     },
     {
       "added_at": null,
@@ -355,18 +351,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Cross: My Gaze",
-        "url": "https://open.spotify.com/album/5d34SgN4PekfZSICW3Fytt"
+        "name": "Okemmuo (The Spirit of the Spirit)",
+        "url": "https://open.spotify.com/album/2hPoJ6ylg4KRyaWV7Qa832"
       },
       "artists": [
+        {
+          "name": "Chioma Jesus",
+          "url": "https://open.spotify.com/artist/7GNY8eqnvkcMvJp1jrETa4"
+        },
         {
           "name": "Mercy Chinwo",
           "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
         }
       ],
-      "duration_ms": 394170,
-      "name": "Omekannaya",
-      "url": "https://open.spotify.com/track/1ovRzUecowNFHf5vXUWWo3"
+      "duration_ms": 354986,
+      "name": "Okemmuo (The Spirit of the Spirit)",
+      "url": "https://open.spotify.com/track/2B5bl6TenrogNpxgdCIPTw"
     },
     {
       "added_at": null,

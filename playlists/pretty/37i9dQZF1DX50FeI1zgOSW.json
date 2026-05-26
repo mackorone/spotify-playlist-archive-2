@@ -1,12 +1,12 @@
 {
   "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : Vidusan Kaneswaran",
-  "num_followers": 19614,
+  "num_followers": 19653,
   "original_name": "RADAR Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFB9k+lOzXGsxKmrmNdiuqkH5YN7",
+  "snapshot_id": "AAAAAJkFIBfqOra08xU67w5aFguNZNS9",
   "tracks": [
     {
       "added_at": "2026-04-23 06:49:33",
@@ -149,7 +149,7 @@
         },
         {
           "name": "Fatin",
-          "url": "https://open.spotify.com/artist/4HeEXMr62GWTKpnqEiFOkC"
+          "url": "https://open.spotify.com/artist/6JoMFb4AKtxCuK1lMxwNeZ"
         }
       ],
       "duration_ms": 264309,
@@ -295,6 +295,34 @@
       "duration_ms": 272000,
       "name": "Komberi Mookan",
       "url": "https://open.spotify.com/track/6MpnkvHePziltlQjyZFKzn"
+    },
+    {
+      "added_at": "2026-05-25 17:31:55",
+      "album": {
+        "name": "Therukoothu",
+        "url": "https://open.spotify.com/album/087b0z1k8cyFS6kSH5IZxY"
+      },
+      "artists": [
+        {
+          "name": "Dyan",
+          "url": "https://open.spotify.com/artist/1TLSQUJMBlf02P5ssNrzgT"
+        },
+        {
+          "name": "Samyukth",
+          "url": "https://open.spotify.com/artist/08NdZBkoYy8lBBQXjRpBnM"
+        },
+        {
+          "name": "Raka Vee",
+          "url": "https://open.spotify.com/artist/0ykz6VAXmBscgEMmuLQwuG"
+        },
+        {
+          "name": "Sabby N",
+          "url": "https://open.spotify.com/artist/72HccuCTu2JLTAjXUTFcHs"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Therukoothu",
+      "url": "https://open.spotify.com/track/0vGYgdsbjZTDwrlNJofjuz"
     },
     {
       "added_at": "2026-04-22 09:22:45",

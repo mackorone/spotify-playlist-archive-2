@@ -4,7 +4,7 @@
 
 > Lagu\-lagu terpopuler dari dekade 2010an\. Cover: Fatin
 
-211 songs - 14 hr 27 min
+213 songs - 14 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,6 +159,7 @@
 | [Sampai Mati](https://open.spotify.com/track/0VMb5OupyZA27f2u6Sck01) | [Putih](https://open.spotify.com/artist/3Yn6aM7XCgMbWGmOrI7zTO) | [Apa Kabar Cinta](https://open.spotify.com/album/0uAfzhtdFkD5AfShuX8610) | 4:31 | 2024-01-05 | 2024-04-19 |
 | [Sang Penggoda](https://open.spotify.com/track/7uP1XTPVEI40AZGVKNzITm) | [Tata Janeeta](https://open.spotify.com/artist/6reQVU3OFzQdP0NqZCwrCz), [Maia Estianty](https://open.spotify.com/artist/5a4jEOtU2mISDG7jshDF0j) | [Sang Penggoda](https://open.spotify.com/album/2LtXJXiTmmd2mGbVi7PzLH) | 4:31 | 2025-01-24 |  |
 | [Satu Satunya Cinta](https://open.spotify.com/track/075wHMrSCuSvxkjk1nBinw) | [Maha Dewi](https://open.spotify.com/artist/6C8fWAXkiO9boKHvfwu25E) | [NAGASWARA HOT 1OO](https://open.spotify.com/album/7mGv7jCKHT44LuRgwp5WIa) | 4:15 | 2024-08-22 |  |
+| [Say No](https://open.spotify.com/track/6ICEluTQZZwk1Id0XpavZy) | [Tasya Kamila](https://open.spotify.com/artist/3MCrMS3Xtw78DxaiH5KutJ) | [Say No](https://open.spotify.com/album/0SuU1lu4vJImcCotDdVa7a) | 3:54 | 2026-05-25 |  |
 | [Sayang](https://open.spotify.com/track/1dDpZbX1MfvWNBqhJhvXgm) | [Supernova](https://open.spotify.com/artist/7kydkMNIMNhr7jDgeOQd4H) | [Bercahaya](https://open.spotify.com/album/7Bk0NnaNXmQHq4WKHy8kWK) | 3:54 | 2024-01-05 |  |
 | [Sayap Pelindungmu](https://open.spotify.com/track/3LhUsgwtftfxHIPgViaYxB) | [TheOvertunes](https://open.spotify.com/artist/3t4MHnVggiFLOuSSh4odBk) | [Selamanya](https://open.spotify.com/album/2xVaK1p7ooIIywF6YCSEh5) | 3:42 | 2024-01-05 |  |
 | [Seandainya](https://open.spotify.com/track/1FZQpbWv9WIi7xn2rguVDy) | [Vierra](https://open.spotify.com/artist/1WX2v0BiEW19Vw7xmznLdZ) | [My First Love](https://open.spotify.com/album/43XE7IVshsrjvuTvcLA5Hz) | 4:23 | 2024-07-18 |  |
@@ -210,6 +211,7 @@
 | [Terlalu Lama Sendiri](https://open.spotify.com/track/0UmeNfgZMk7ZSDodkkcTwH) | [Kunto Aji](https://open.spotify.com/artist/7dfFM5cBUOBmOH08sGNDcy) | [Terlalu Lama Sendiri](https://open.spotify.com/album/0GB76JaYDPhZJK5hvXGicY) | 4:01 | 2024-03-14 | 2024-03-30 |
 | [Terlalu Lama Sendiri](https://open.spotify.com/track/2BYjHJxyEgy5Bu8wFgeSAg) | [Kunto Aji](https://open.spotify.com/artist/7dfFM5cBUOBmOH08sGNDcy) | [Generation Y](https://open.spotify.com/album/6AsfYvHD9yFB7UrZLeWsuZ) | 4:01 | 2024-01-05 | 2024-04-19 |
 | [Terlalu Lama Sendiri](https://open.spotify.com/track/2UWxRkWLpzuxkr67LxPpad) | [Kunto Aji](https://open.spotify.com/artist/7dfFM5cBUOBmOH08sGNDcy) | [Terlalu Lama Sendiri](https://open.spotify.com/album/2ilx7t8uE5s0Ra3ZyJvnH9) | 4:01 | 2024-04-19 |  |
+| [Terpukau](https://open.spotify.com/track/0irPA8LmsoQYkqE5I7v3aj) | [Astrid](https://open.spotify.com/artist/6GxmlugWFw4hmhUQ5uP93l) | [Terpukau](https://open.spotify.com/album/0SZMfhZNtHxdF7pYH1sirr) | 4:12 | 2026-05-25 |  |
 | [Untuk Apa](https://open.spotify.com/track/4ZUsF6nwTh8OAmo6ckwIWd) | [Maudy Ayunda](https://open.spotify.com/artist/17Wt0hzZb6fAEVfIHffQFB) | [Moments](https://open.spotify.com/album/51PNqOMj1ttmbuZPzxOqSI) | 4:00 | 2024-11-22 |  |
 | [Untuk Perempuan Yang Sedang Di Pelukan](https://open.spotify.com/track/0urpBLpcm6DOGzs86rcKd8) | [Payung Teduh](https://open.spotify.com/artist/2Ooa3TrmlskyBftzenv6xQ) | [Dunia Batas](https://open.spotify.com/album/26FxxaKDiIGxEm549dRtaZ) | 5:42 | 2024-01-05 |  |
 | [Utuh](https://open.spotify.com/track/34KmUVWvZ4Gm60d4bRZBEu) | [Tangga](https://open.spotify.com/artist/2XcOYJZRPtn0BASWE7R66J) | [Utuh](https://open.spotify.com/album/0lWHzXhEsdp7kwBSjXSdsB) | 3:22 | 2024-04-03 |  |

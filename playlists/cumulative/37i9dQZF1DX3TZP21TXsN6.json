@@ -2138,7 +2138,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 133802,
       "name": "CANDYSHOP",
       "url": "https://open.spotify.com/track/5B85EVv8yr5O1eXyMlw9nc"
@@ -9269,6 +9269,32 @@
     },
     {
       "album": {
+        "name": "5 GR, Vol. 3",
+        "url": "https://open.spotify.com/album/0KvjD0ABlGGTZjYa5Qvrzq"
+      },
+      "artists": [
+        {
+          "name": "Jama MW",
+          "url": "https://open.spotify.com/artist/6NaZ5cHB2rJbBB2NU3T9VX"
+        },
+        {
+          "name": "Jea",
+          "url": "https://open.spotify.com/artist/5or8yHJVELOiVcb4FaraKJ"
+        },
+        {
+          "name": "Mesy",
+          "url": "https://open.spotify.com/artist/6bvQsgkkfaVQ5IljDVC5hk"
+        }
+      ],
+      "date_added": "2026-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175370,
+      "name": "Rondjes Op De Weg",
+      "url": "https://open.spotify.com/track/0E2oSqAIbIhro7hn5bPVvH"
+    },
+    {
+      "album": {
         "name": "Ruwe Diamanten",
         "url": "https://open.spotify.com/album/77Dce2kwAXSLRUG77NPNN3"
       },
@@ -11696,7 +11722,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 124615,
       "name": "Weshh",
       "url": "https://open.spotify.com/track/392bNA2SyTOQvMshkApsMN"
@@ -12054,7 +12080,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 120000,
       "name": "YES",
       "url": "https://open.spotify.com/track/5KfBJk28uTskDSe9Y6Y2BT"

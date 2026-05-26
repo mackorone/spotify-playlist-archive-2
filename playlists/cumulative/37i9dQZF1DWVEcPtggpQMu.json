@@ -16280,7 +16280,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 124724,
       "name": "PLAYMAKER",
       "url": "https://open.spotify.com/track/2nmgHVFopEAUWTRgBnwN2U"
@@ -18696,6 +18696,24 @@
       "duration_ms": 158769,
       "name": "Six",
       "url": "https://open.spotify.com/track/5fitiEwmfSL7U5fZLF5ilR"
+    },
+    {
+      "album": {
+        "name": "SixByNine Freestyle",
+        "url": "https://open.spotify.com/album/13MJ9o2yyUJiDgoAdQuD2k"
+      },
+      "artists": [
+        {
+          "name": "Kwesta",
+          "url": "https://open.spotify.com/artist/3Px6IenueysHsgCQf9xFVr"
+        }
+      ],
+      "date_added": "2026-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238064,
+      "name": "SixByNine Freestyle",
+      "url": "https://open.spotify.com/track/520RBhggShRP2LCWlFie9Z"
     },
     {
       "album": {

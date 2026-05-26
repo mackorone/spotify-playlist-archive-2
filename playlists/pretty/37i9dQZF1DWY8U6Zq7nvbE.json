@@ -1,6 +1,6 @@
 {
   "description": "Soft and cozy acoustic covers of famous songs.",
-  "num_followers": 2468489,
+  "num_followers": 2468714,
   "original_name": "Chill Acoustic Covers",
   "owner": {
     "name": "Spotify",
@@ -379,22 +379,6 @@
     {
       "added_at": "2026-03-19 12:18:11",
       "album": {
-        "name": "Here I Go Again - Acoustic EP",
-        "url": "https://open.spotify.com/album/5WFy0zXYRVXAdjhWgS3xJ3"
-      },
-      "artists": [
-        {
-          "name": "VDVM",
-          "url": "https://open.spotify.com/artist/4MPlssgWPLQ72k2JaQNnV4"
-        }
-      ],
-      "duration_ms": 252307,
-      "name": "Here I Go Again - Acoustic",
-      "url": "https://open.spotify.com/track/5UvJJ6UTSQsVVsq0WgUWRV"
-    },
-    {
-      "added_at": "2026-03-19 12:18:11",
-      "album": {
         "name": "Never Forget You",
         "url": "https://open.spotify.com/album/7BFZdaPawpH98vgHFhEors"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 191879,
       "name": "Never Forget You",
       "url": "https://open.spotify.com/track/7fH1He9bsEfczjdRHxVqmz"
+    },
+    {
+      "added_at": "2026-03-19 12:18:11",
+      "album": {
+        "name": "Here I Go Again - Acoustic EP",
+        "url": "https://open.spotify.com/album/5WFy0zXYRVXAdjhWgS3xJ3"
+      },
+      "artists": [
+        {
+          "name": "VDVM",
+          "url": "https://open.spotify.com/artist/4MPlssgWPLQ72k2JaQNnV4"
+        }
+      ],
+      "duration_ms": 252307,
+      "name": "Here I Go Again - Acoustic",
+      "url": "https://open.spotify.com/track/5UvJJ6UTSQsVVsq0WgUWRV"
     },
     {
       "added_at": "2026-03-19 12:18:11",
@@ -459,22 +459,6 @@
     {
       "added_at": "2026-03-19 12:18:11",
       "album": {
-        "name": "Espresso",
-        "url": "https://open.spotify.com/album/7eeKnwM9d6vsRL8F8dcqkS"
-      },
-      "artists": [
-        {
-          "name": "LAJKA",
-          "url": "https://open.spotify.com/artist/1TXoz9sNHLfykNUS07PZOh"
-        }
-      ],
-      "duration_ms": 160754,
-      "name": "Espresso",
-      "url": "https://open.spotify.com/track/68apIR6lcIdGZ50KWTfeO6"
-    },
-    {
-      "added_at": "2026-03-19 12:18:11",
-      "album": {
         "name": "Crazy",
         "url": "https://open.spotify.com/album/17xJ0M1bBeUxR7yrc7hMpp"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 203608,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/1xGVmK3MKRxlr5p9QQJ7hg"
+    },
+    {
+      "added_at": "2026-03-19 12:18:11",
+      "album": {
+        "name": "Espresso",
+        "url": "https://open.spotify.com/album/7eeKnwM9d6vsRL8F8dcqkS"
+      },
+      "artists": [
+        {
+          "name": "LAJKA",
+          "url": "https://open.spotify.com/artist/1TXoz9sNHLfykNUS07PZOh"
+        }
+      ],
+      "duration_ms": 160754,
+      "name": "Espresso",
+      "url": "https://open.spotify.com/track/68apIR6lcIdGZ50KWTfeO6"
     },
     {
       "added_at": "2026-03-19 12:18:11",

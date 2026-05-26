@@ -294,7 +294,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-16",
+      "date_removed": null,
       "duration_ms": 213333,
       "name": "Born to Shine",
       "url": "https://open.spotify.com/track/4XxfOvudrnBRdlgzEaq1sd"
@@ -830,7 +830,7 @@
       ],
       "date_added": "2025-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 185000,
       "name": "God Bless",
       "url": "https://open.spotify.com/track/1lP0yP0eN5Btj0zjFX72r6"
@@ -848,7 +848,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-20",
+      "date_removed": null,
       "duration_ms": 170882,
       "name": "Gulabi Pagg",
       "url": "https://open.spotify.com/track/35CTzZi7rJLBHvfVZZBrVr"
@@ -1338,7 +1338,7 @@
       ],
       "date_added": "2025-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 158000,
       "name": "Kufar",
       "url": "https://open.spotify.com/track/7oODxqLHmajTXnGK0hWfj1"
@@ -1466,7 +1466,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-28",
+      "date_removed": null,
       "duration_ms": 160500,
       "name": "Lalkara",
       "url": "https://open.spotify.com/track/2oenSXLDbWVaaL7QjSGYj5"
@@ -1546,7 +1546,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 161880,
       "name": "Love Ya",
       "url": "https://open.spotify.com/track/5RWZ6TVZ0HeFTdRWu3VQ7w"
@@ -1564,7 +1564,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-28",
+      "date_removed": null,
       "duration_ms": 190000,
       "name": "Lover",
       "url": "https://open.spotify.com/track/0XwRlvv3KlOu4HWlOH34XG"
@@ -1695,6 +1695,32 @@
     },
     {
       "album": {
+        "name": "The Call of Panjab",
+        "url": "https://open.spotify.com/album/58nSQhJ6jxFam34jgoZyul"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        },
+        {
+          "name": "Tru-Skool",
+          "url": "https://open.spotify.com/artist/0u7HSxKLO9fsEeD20dW4H2"
+        },
+        {
+          "name": "Chani Nattan",
+          "url": "https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp"
+        }
+      ],
+      "date_added": "2026-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205500,
+      "name": "Morni",
+      "url": "https://open.spotify.com/track/6dfkZxJZnj8lhDkSgl2H6j"
+    },
+    {
+      "album": {
         "name": "Muchh",
         "url": "https://open.spotify.com/album/6Tu3rISlgcL1tjBLb3jmuS"
       },
@@ -1732,7 +1758,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 180000,
       "name": "Naina (From \"Crew\")",
       "url": "https://open.spotify.com/track/1eZefeDb8uOsjvcbl1fJrG"
@@ -2416,7 +2442,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 168200,
       "name": "Tension",
       "url": "https://open.spotify.com/track/0BlESrrPor7TRRpRz3nRZ5"

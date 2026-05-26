@@ -6160,7 +6160,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-26",
       "duration_ms": 211636,
       "name": "Emefa's Revenge",
       "url": "https://open.spotify.com/track/1BixnXufFnYkbhpToboElg"
@@ -17440,6 +17440,28 @@
       "duration_ms": 143875,
       "name": "Serenade",
       "url": "https://open.spotify.com/track/0Hv7LgRPIYEJMpjQkGIWTi"
+    },
+    {
+      "album": {
+        "name": "HIH & Serial Kisser",
+        "url": "https://open.spotify.com/album/2L8m2nH21rqTK30vMUyGfA"
+      },
+      "artists": [
+        {
+          "name": "Rukmani",
+          "url": "https://open.spotify.com/artist/4lz2CgyavcVw3XfnvID7FV"
+        },
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        }
+      ],
+      "date_added": "2026-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181714,
+      "name": "Serial Kisser",
+      "url": "https://open.spotify.com/track/6xpOCLTrc9IEuwPuFuGO6F"
     },
     {
       "album": {

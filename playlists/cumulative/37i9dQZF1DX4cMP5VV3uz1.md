@@ -4,7 +4,7 @@
 
 > Filthy bass bangers to soundtrack your sesh
 
-651 songs - 1 day 13 hr 21 min
+652 songs - 1 day 13 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Blinded By The Lights 23](https://open.spotify.com/track/7qSeLqSb07k8qtL8LfMokD) | [Mixtress](https://open.spotify.com/artist/1Eviv9wjS232W0w0Sqy7Il), [Pete Cannon](https://open.spotify.com/artist/61S6bNsMZYtmojqjL43MkA) | [Blinded By The Lights 23](https://open.spotify.com/album/4RKZ3J38GOtJ76Br91HkwZ) | 3:14 | 2023-09-01 | 2024-07-27 |
 | [Blindspot](https://open.spotify.com/track/2oiGdzswferiaVunkD2C62) | [Formula](https://open.spotify.com/artist/6GkcKgyIKaZxmZGcKdJDxL) | [Blindspot / Impact Response](https://open.spotify.com/album/6HaImXzg6TPyW18gbhF5KB) | 3:20 | 2026-01-23 | 2026-03-28 |
 | [Block & Delete \(Edit\)](https://open.spotify.com/track/4kTina9NiDbq9uFNQnRyOZ) | [Emz](https://open.spotify.com/artist/42uWTOhFxOD21pXuBmuEp9), [Sam Binga](https://open.spotify.com/artist/2oyU4eToyQkxAFjkB3blsi), [BAKEY](https://open.spotify.com/artist/49du30vgnQZT13tyjnrspT) | [Block & Delete \(Edit\)](https://open.spotify.com/album/0l8t431pUG4ZHMqn7aFn6S) | 2:55 | 2024-01-26 | 2024-02-23 |
+| [Blurry Flurry](https://open.spotify.com/track/06Ib3OfxdvinrGtizQA5uP) | [Moody Good](https://open.spotify.com/artist/3EN8pUGJtYWutzf2fUxrDH) | [SPEEEDBUMP 01](https://open.spotify.com/album/4Fz8otbOFmbFFelkTqmQYe) | 4:41 | 2026-05-21 |  |
 | [Body](https://open.spotify.com/track/67k9vsfLokbNrOWXLIOxPh) | [Georgie Riot](https://open.spotify.com/artist/658we9fIJkrorlUIcDzsHi) | [Body](https://open.spotify.com/album/1tsHo3JZ2AQrHdQczM812B) | 2:17 | 2025-05-08 | 2025-08-29 |
 | [BODY DROP \(Won't Stop\)](https://open.spotify.com/track/6k65tpDYrP39jUPQcxvhmy) | [Pirapus](https://open.spotify.com/artist/7KgEOoJ0CawH7NOaLe34Qe) | [BODY DROP \(Won't Stop\)](https://open.spotify.com/album/02YJzamF4j3mvuxsKHaq5A) | 3:44 | 2025-07-03 | 2026-01-23 |
 | [Body Rok](https://open.spotify.com/track/47VeBx96ltjkp0VYDIm3It) | [Deekline](https://open.spotify.com/artist/1V9Bmg9gpcQDBfNZBQCWw7), [Freq Nasty](https://open.spotify.com/artist/5gv9zZbaJKdjKWNVwcDP2N), [Killa P](https://open.spotify.com/artist/0yZqTQF0ULKX2gFE6fBHXZ), [Dread MC](https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn) | [Body Rok](https://open.spotify.com/album/3N35DmV7b492f1BhEi5gFC) | 3:14 | 2025-10-09 | 2025-10-28 |
@@ -542,7 +543,7 @@
 | [Spillage](https://open.spotify.com/track/5DOkN9MW96CUYQcF8clpCb) | [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu) | [Spillage](https://open.spotify.com/album/1ZRyG1HPCcnAc74eVUvvcz) | 3:21 | 2024-09-12 | 2024-11-13 |
 | [Spire](https://open.spotify.com/track/7xkyuN2tM8gLQPuEDZFsRy) | [S.P.Y](https://open.spotify.com/artist/6aJAd8zM1s3Slw64KfsmaF) | [Spire](https://open.spotify.com/album/6VuVnFIFcz9c2egY9kJv6x) | 4:12 | 2024-12-13 | 2025-08-23 |
 | [Sprinta \(Bad Bad\)](https://open.spotify.com/track/3KJD2bb7mnH0fnLDGSJ2dn) | [Anaïs](https://open.spotify.com/artist/6o96xU0mXSSthZ01IGtn6k), [KIPPO](https://open.spotify.com/artist/4Bf3pfU2A6dHgR1eZwlE6N) | [Sprinta \(Bad Bad\)](https://open.spotify.com/album/7l0SqJre5CRZcGLcMztXrV) | 3:19 | 2024-09-12 | 2025-05-09 |
-| [Stab Parade](https://open.spotify.com/track/0SKLS7D4P1MaLP8m7f8K6A) | [FooR](https://open.spotify.com/artist/0TgZuVgRBjg6iLkZafbfmr), [CLSM](https://open.spotify.com/artist/4l2H79bDyhtxf87atRG8dk), [Tengu](https://open.spotify.com/artist/2W15C6WH5xh4r8aPGiiw4o) | [Stab Parade](https://open.spotify.com/album/5AQtEk7sZiBIkK79IaX9a3) | 2:45 | 2026-01-23 |  |
+| [Stab Parade](https://open.spotify.com/track/0SKLS7D4P1MaLP8m7f8K6A) | [FooR](https://open.spotify.com/artist/0TgZuVgRBjg6iLkZafbfmr), [CLSM](https://open.spotify.com/artist/4l2H79bDyhtxf87atRG8dk), [Tengu](https://open.spotify.com/artist/2W15C6WH5xh4r8aPGiiw4o) | [Stab Parade](https://open.spotify.com/album/5AQtEk7sZiBIkK79IaX9a3) | 2:45 | 2026-01-23 | 2026-05-26 |
 | [Stan Smith](https://open.spotify.com/track/0nCgsAki7e7I243CUblGxU) | [Alcemist](https://open.spotify.com/artist/6WzWO3A5YAYxLVD224S9P0), [Coco](https://open.spotify.com/artist/7q33wxvdJ95u6w3fY2q5ai) | [Stan Smith](https://open.spotify.com/album/2s7f4Qihh5MV7D6lKLPBjB) | 3:55 | 2022-09-30 | 2024-04-19 |
 | [Star 69 \- Shermanology Remix](https://open.spotify.com/track/1aolkrCy1LD4YBlS4gStSV) | [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW), [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Star 69 \(Shermanology Remix\)](https://open.spotify.com/album/0h9SrjcXezB7KkTDW4ZJpt) | 5:53 | 2023-07-27 | 2023-09-02 |
 | [Stars On The Roof \(feat\. MOMO\)](https://open.spotify.com/track/354Cv7huFJnlEdVAHvhH3Q) | [Alcemist](https://open.spotify.com/artist/6WzWO3A5YAYxLVD224S9P0), [MoMo](https://open.spotify.com/artist/1UjH8hHfaPKRnTg8FO0uaJ) | [Stars On The Roof \(feat\. MOMO\)](https://open.spotify.com/album/6o2oXNriDnljYllyCIaL99) | 4:02 | 2023-01-25 | 2024-07-27 |

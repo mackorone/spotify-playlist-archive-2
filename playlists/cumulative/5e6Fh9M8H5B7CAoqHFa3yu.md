@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,256 songs - 5 day 13 hr 20 min
+2,257 songs - 5 day 13 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2261,6 +2261,7 @@
 | [בסוף יהיה טוב](https://open.spotify.com/track/4pweKO7kjfKZ49RMXlMRcq) | [Bar Alfandari](https://open.spotify.com/artist/0GE2lMUi936oDHpSGEOaGH) | [קעקוע](https://open.spotify.com/album/2PVt35lk55xeksgl5yBiEN) | 3:20 | 2025-08-23 |  |
 | [שלוש שנים](https://open.spotify.com/track/3MeArNHAOCEo4wLhpg4hnh) | [Bar Alfandari](https://open.spotify.com/artist/0GE2lMUi936oDHpSGEOaGH) | [קעקוע](https://open.spotify.com/album/2PVt35lk55xeksgl5yBiEN) | 3:13 | 2025-08-30 |  |
 | [قولي لية \( السكة ضاقت \)](https://open.spotify.com/track/09SbdmnCu4cyMrrBynK5M5) | [AFROTO Beats](https://open.spotify.com/artist/3nCLSI5jV4qNit9F2hgrq0), [Super Mono](https://open.spotify.com/artist/76VzYrqb4WDRVNBimbYsWt), [Ahmed M Farid](https://open.spotify.com/artist/7I6twl0w4JIsFe7howLGLk) | [قولي لية \( السكة ضاقت \)](https://open.spotify.com/album/4a62YKi3au42STNxvedOZl) | 3:47 | 2026-04-10 |  |
+| [ليل و سهر](https://open.spotify.com/track/1LpYFfXPmghqqxrSd8EoQz) | [Ahmed M Farid](https://open.spotify.com/artist/7I6twl0w4JIsFe7howLGLk), [AFROTO Beats](https://open.spotify.com/artist/3nCLSI5jV4qNit9F2hgrq0), [Super Mono](https://open.spotify.com/artist/76VzYrqb4WDRVNBimbYsWt) | [ليل و سهر](https://open.spotify.com/album/6f9FczaUDIwBd54D3k8RiG) | 2:59 | 2026-05-25 |  |
 | [あなた](https://open.spotify.com/track/7HHPTTI8vesYK563qCNckR) | [yoursヅ](https://open.spotify.com/artist/6d43Wnj1AyDAGjumbWqivc) | [あなた](https://open.spotify.com/album/1CZNZD1qvAbHlFcdByhbfR) | 2:30 | 2025-06-09 |  |
 | [塩顔男子](https://open.spotify.com/track/0GSbY6mlGyfMNinV8YOlI1) | [yoursヅ](https://open.spotify.com/artist/6d43Wnj1AyDAGjumbWqivc) | [塩顔男子](https://open.spotify.com/album/5VPhR0H5oRNQue1bggcMlH) | 3:07 | 2025-08-25 |  |
 | [好きになったもん負け。なんて信じない！](https://open.spotify.com/track/1a5L2HXxeJRDrc8wJq6Z8C) | [yoursヅ](https://open.spotify.com/artist/6d43Wnj1AyDAGjumbWqivc) | [好きになったもん負け。なんて信じない！](https://open.spotify.com/album/7A1cBtzaQ5LwHMrPGtIdvx) | 4:37 | 2026-02-06 |  |

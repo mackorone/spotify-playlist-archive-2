@@ -1,6 +1,6 @@
 {
   "description": "essa \u00e9 pros apaixonados",
-  "num_followers": 833999,
+  "num_followers": 834048,
   "original_name": "Amor I Love You",
   "owner": {
     "name": "Spotify",
@@ -935,26 +935,6 @@
     {
       "added_at": "2026-05-08 03:01:19",
       "album": {
-        "name": "Multishow Ao Vivo Caetano e Maria Gad\u00fa",
-        "url": "https://open.spotify.com/album/4MbNm26ee65EJm8BKvftWH"
-      },
-      "artists": [
-        {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
-        },
-        {
-          "name": "Maria Gad\u00fa",
-          "url": "https://open.spotify.com/artist/3uCu2WgyG0Iw50ylOYDSpH"
-        }
-      ],
-      "duration_ms": 154826,
-      "name": "O Le\u00e3ozinho - Live",
-      "url": "https://open.spotify.com/track/0mDcMtuq4bJieP9LZqmaXZ"
-    },
-    {
-      "added_at": "2026-05-08 03:01:19",
-      "album": {
         "name": "Nenhuma Dor",
         "url": "https://open.spotify.com/album/3uv833F3xc92vzytEkbmN6"
       },
@@ -971,6 +951,26 @@
       "duration_ms": 237150,
       "name": "Baby",
       "url": "https://open.spotify.com/track/5zwoN1BAcMh2EcBpKhW7VT"
+    },
+    {
+      "added_at": "2026-05-08 03:01:19",
+      "album": {
+        "name": "Multishow Ao Vivo Caetano e Maria Gad\u00fa",
+        "url": "https://open.spotify.com/album/4MbNm26ee65EJm8BKvftWH"
+      },
+      "artists": [
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        },
+        {
+          "name": "Maria Gad\u00fa",
+          "url": "https://open.spotify.com/artist/3uCu2WgyG0Iw50ylOYDSpH"
+        }
+      ],
+      "duration_ms": 154826,
+      "name": "O Le\u00e3ozinho - Live",
+      "url": "https://open.spotify.com/track/0mDcMtuq4bJieP9LZqmaXZ"
     },
     {
       "added_at": "2026-05-08 03:01:19",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2026-05-08 03:01:19",
       "album": {
+        "name": "Musica para Churrasco, Vol. 2",
+        "url": "https://open.spotify.com/album/0uyJYHNFzapFWD6nZvFBZ3"
+      },
+      "artists": [
+        {
+          "name": "Seu Jorge",
+          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
+        }
+      ],
+      "duration_ms": 267413,
+      "name": "Felicidade",
+      "url": "https://open.spotify.com/track/2bDc2CMq7MMAURwnMJverx"
+    },
+    {
+      "added_at": "2026-05-08 03:01:19",
+      "album": {
         "name": "Partilhar",
         "url": "https://open.spotify.com/album/1pbjhsgtyc5hOVNaaz6tpN"
       },
@@ -1347,22 +1363,6 @@
       "duration_ms": 262552,
       "name": "Partilhar",
       "url": "https://open.spotify.com/track/1PQRwFvNM7xV65bIkHmDtx"
-    },
-    {
-      "added_at": "2026-05-08 03:01:19",
-      "album": {
-        "name": "Musica para Churrasco, Vol. 2",
-        "url": "https://open.spotify.com/album/0uyJYHNFzapFWD6nZvFBZ3"
-      },
-      "artists": [
-        {
-          "name": "Seu Jorge",
-          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
-        }
-      ],
-      "duration_ms": 267413,
-      "name": "Felicidade",
-      "url": "https://open.spotify.com/track/2bDc2CMq7MMAURwnMJverx"
     },
     {
       "added_at": "2026-05-08 03:01:19",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2026-05-08 03:01:19",
       "album": {
-        "name": "Pearl",
-        "url": "https://open.spotify.com/album/25fli8PlxpP10WpirvDpMT"
-      },
-      "artists": [
-        {
-          "name": "Rubel",
-          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
-        }
-      ],
-      "duration_ms": 394706,
-      "name": "Quando Bate Aquela Saudade",
-      "url": "https://open.spotify.com/track/76bcaYeKOKTrj9lEc9BZFU"
-    },
-    {
-      "added_at": "2026-05-08 03:01:19",
-      "album": {
         "name": "Remonta",
         "url": "https://open.spotify.com/album/0Ii4TGRRMO6hEKOu22d6CH"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 269120,
       "name": "Sem Nome, Mas Com Endere\u00e7o",
       "url": "https://open.spotify.com/track/6xh9JILM2rzAtRynrTAAhe"
+    },
+    {
+      "added_at": "2026-05-08 03:01:19",
+      "album": {
+        "name": "Pearl",
+        "url": "https://open.spotify.com/album/25fli8PlxpP10WpirvDpMT"
+      },
+      "artists": [
+        {
+          "name": "Rubel",
+          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
+        }
+      ],
+      "duration_ms": 394706,
+      "name": "Quando Bate Aquela Saudade",
+      "url": "https://open.spotify.com/track/76bcaYeKOKTrj9lEc9BZFU"
     },
     {
       "added_at": "2026-05-08 03:01:19",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2026-05-08 03:01:19",
       "album": {
-        "name": "Medo Bobo",
-        "url": "https://open.spotify.com/album/0vkxfAIsBXsbWO9DNVlUaV"
-      },
-      "artists": [
-        {
-          "name": "Rubel",
-          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
-        }
-      ],
-      "duration_ms": 198058,
-      "name": "Medo Bobo",
-      "url": "https://open.spotify.com/track/17dS7mrtNwH05RFjgMjLFi"
-    },
-    {
-      "added_at": "2026-05-08 03:01:19",
-      "album": {
         "name": "Melim",
         "url": "https://open.spotify.com/album/28N2a65qVEXfo3vl2McvY1"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 231616,
       "name": "Meu Abrigo",
       "url": "https://open.spotify.com/track/5oFywvlhKbgRT9WSE4VZkY"
+    },
+    {
+      "added_at": "2026-05-08 03:01:19",
+      "album": {
+        "name": "Medo Bobo",
+        "url": "https://open.spotify.com/album/0vkxfAIsBXsbWO9DNVlUaV"
+      },
+      "artists": [
+        {
+          "name": "Rubel",
+          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
+        }
+      ],
+      "duration_ms": 198058,
+      "name": "Medo Bobo",
+      "url": "https://open.spotify.com/track/17dS7mrtNwH05RFjgMjLFi"
     },
     {
       "added_at": "2026-05-08 03:01:19",

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8PLev4Ol7Ml.md) - [plain]
 
 ### [アイドルポップ：ジャパン](https://open.spotify.com/playlist/37i9dQZF1DX8PLev4Ol7Ml)
 
-> 日本独自のポップカルチャー=アイドル。"楽曲推し"でお届けします。Cover: 高嶺のなでしこ
+> 日本独自のポップカルチャー=アイドル。"楽曲推し"でお届けします。Cover: 櫻坂46
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,189 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,218 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8PLev4Ol7Ml.md) - [plain]
 | 49 | [日めくりカレンダー](https://open.spotify.com/track/52btxNPMplRvZK9zj0lbMh) | [HAPPY CREATORS](https://open.spotify.com/artist/0tLfyynve5EI2tZ26t2eNq) | [日めくりカレンダー](https://open.spotify.com/album/6Jkp3cOaWSaGRRHgDEO8NR) | 2:42 |
 | 50 | [未来の空](https://open.spotify.com/track/0Qff8M0HGcAHyPTyWpfTjX) | [ドラマチックレコード](https://open.spotify.com/artist/6ejhQtN5xfBEBeO93sDkmz) | [未来の空](https://open.spotify.com/album/22XgXvaSf7RDeygnqDxpvw) | 3:06 |
 
-Snapshot ID: `AAAAAI+aiEciTTCnixa/iRnErMMEbu79`
+Snapshot ID: `AAAAAHlA/oAiEo64TFrs+/R5kxNo0xex`

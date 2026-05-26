@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1qM6uIWT515JJgESWF8Qba.md) - [plain]
 
 > It&\#x27;s 5 o&\#x27;clock somewhere and best believe there&\#x27;s a local band there ready to rock when the sun goes down.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 447 likes - 53 songs - 3 hr 28 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 449 likes - 52 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,24 +42,23 @@ pretty - [cumulative](/playlists/cumulative/1qM6uIWT515JJgESWF8Qba.md) - [plain]
 | 32 | [Royal Kush](https://open.spotify.com/track/2wlWUxDcl8y3V2L5aQ3vOA) | [Space of a Day](https://open.spotify.com/artist/5nNOI6NL16ypK6js5aiheB) | [Royal Kush](https://open.spotify.com/album/32ik5Ith28fbWibQPqgazr) | 3:37 |
 | 33 | [Seven](https://open.spotify.com/track/7tdZEErExaYhQI2Oa3cqWg) | [On\-Off](https://open.spotify.com/artist/3Qb1E9hm1R0In79aIumUsR) | [Ribcrasher](https://open.spotify.com/album/1p1VeLJoQlDKiK1X90QCHK) | 3:50 |
 | 34 | [Pride](https://open.spotify.com/track/5fTYOxtkQXksKM7Pbj6SQy) | [AG Session](https://open.spotify.com/artist/2cG7L3KAgqNIDuR8Te8bGy) | [Guardians of the Phallicy](https://open.spotify.com/album/1onQnwCOdZxDvjoUS0YXJU) | 2:32 |
-| 35 | [No Angel Is Watching](https://open.spotify.com/track/3Cjct6UfADZsVdXdRHmOae) | [Ludwig Jonsson](https://open.spotify.com/artist/6pWJeM6v6cLKjblDNWYNdx) | [No Angel Is Watching](https://open.spotify.com/album/68XNOikZKxIdeg4OncW44B) | 2:55 |
-| 36 | [Walk Away](https://open.spotify.com/track/0goHckNxy52mUUqaSqJ0gN) | [Altered Edge](https://open.spotify.com/artist/1LK0zVegel8RFJsECz7QQ5) | [Walk Away](https://open.spotify.com/album/2EJUBIUDDBmmJm0qqN8eTJ) | 3:14 |
-| 37 | [The Runaway Song](https://open.spotify.com/track/2LdQb5Pm6m7Sbi1esrv3Wj) | [Hunter Road](https://open.spotify.com/artist/5aPH9KCyGCSIKUyrbsz1bn) | [The Runaway Song](https://open.spotify.com/album/1a5FKZRgTGoQCsLKFhDFcL) | 5:51 |
-| 38 | [188](https://open.spotify.com/track/51Pl4eyuqbLv74w3caC21w) | [Hag Roast](https://open.spotify.com/artist/7FN51i8wVHCTx72xQEOzEQ) | [188](https://open.spotify.com/album/5ZRSJkWE8UrXFkiy5S93Zx) | 3:09 |
-| 39 | [The End \(For You\)](https://open.spotify.com/track/0ihoMNxO7cS13uoxzTaUvp) | [The UNSOLVED](https://open.spotify.com/artist/2o8svnvt9r8DbgH2DHvtCO) | [The Gauntlet](https://open.spotify.com/album/0ZCGfrukq5jzMuymHqn9eb) | 3:06 |
-| 40 | [Silver Turns to Red](https://open.spotify.com/track/7jVXNz0jEKienLLq7zvVe5) | [Solar Flare Sunset](https://open.spotify.com/artist/5Rl6sxPtP6857bWDUdPN2r) | [Forever Waiting](https://open.spotify.com/album/4ZRB1AQmBiXeW21EFg0tWz) | 4:27 |
-| 41 | [Bad Omens](https://open.spotify.com/track/6avpcNvUmrYvdX0egVyjeU) | [The UNSOLVED](https://open.spotify.com/artist/2o8svnvt9r8DbgH2DHvtCO) | [Bad Omens](https://open.spotify.com/album/0uIbKWU808kXMrY9KJLRSD) | 3:53 |
-| 42 | [No Dice](https://open.spotify.com/track/1NGf8nUVTTLq9PUFdjFKfM) | [Touch of Red](https://open.spotify.com/artist/07GYobUq3xeoOIhrqJ2Bc1) | [In Our Nature](https://open.spotify.com/album/3OpeVn7ARilpWiXIgZS6j3) | 5:00 |
-| 43 | [The Sand](https://open.spotify.com/track/3kGvYan7NNd4I5Q12Tq4jW) | [Solar Flare Sunset](https://open.spotify.com/artist/5Rl6sxPtP6857bWDUdPN2r) | [Forever Waiting](https://open.spotify.com/album/4ZRB1AQmBiXeW21EFg0tWz) | 3:08 |
-| 44 | [Tanzt mit mir](https://open.spotify.com/track/2jjw1QuN1pdPGXgQnjjygt) | [Pro\|Contra](https://open.spotify.com/artist/3lpOrZS6jyCQVFQD01Usf0) | [Tanzt mit mir](https://open.spotify.com/album/19FUWJ7gwETtier4fAOpXQ) | 3:39 |
-| 45 | [Noir](https://open.spotify.com/track/4zuMFhWwNSNjv3JBEGu4mD) | [Summoners](https://open.spotify.com/artist/2Q9wu4il52v9GylIMrq8Mn) | [Noir](https://open.spotify.com/album/0u9Wfry4L6EIsPHohmYUN2) | 3:21 |
-| 46 | [Glide](https://open.spotify.com/track/7lBT4r2EB25JjsXzoDJjZ4) | [Lemon Knife](https://open.spotify.com/artist/2idkk1AQNbcJE4HPUrBUDC) | [Event Horizon](https://open.spotify.com/album/3QStexIRzKruswq8FDYp9S) | 3:21 |
-| 47 | [Going Down](https://open.spotify.com/track/7FMnpQg1vy0fc4sDaKUb5Q) | [On\-Off](https://open.spotify.com/artist/3Qb1E9hm1R0In79aIumUsR) | [A Big Dose of Speed](https://open.spotify.com/album/1sJx1TPuMDsgnayaMF2SF7) | 4:03 |
-| 48 | [Get Down](https://open.spotify.com/track/0hxmmV26stWU0p7nMENjt5) | [The Fuzes](https://open.spotify.com/artist/2FTrpNcKeBFvF9iKZa5kEA) | [Get Down](https://open.spotify.com/album/1fjOQHmwo9bT3RImgkOSEm) | 2:24 |
-| 49 | [90 Seconds for Panic](https://open.spotify.com/track/3JUfZLz6ONsDcW6CbYucwG) | [CIRCUS](https://open.spotify.com/artist/3mpN9JFZx0JdZvr4ZWvvf9) | [A Kiss Before Dying](https://open.spotify.com/album/43HQW7GQUlQEvisvnaT2dJ) | 4:34 |
-| 50 | [bad lover](https://open.spotify.com/track/4x6kXW5VVDFON1BaVI9OtG) | [Brake Loose](https://open.spotify.com/artist/0sklfNVhTLHQtAbLU1cqVA) | [bad lover](https://open.spotify.com/album/0M4u625Q69qPri1148zoe3) | 4:57 |
-| 51 | [Heart of a Coward](https://open.spotify.com/track/7vmfuBMDV2eQsjFm2rLPLv) | [Starikova](https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA) | [Heart of a Coward / Maelstrom](https://open.spotify.com/album/2GFTJ5HJLN861GRR7jpwGB) | 4:30 |
-| 52 | [Let's Do It Again](https://open.spotify.com/track/0tZ9lz19MPyCJDlOQ078NO) | [Pink Cliffs](https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR) | [Let's Do It Again](https://open.spotify.com/album/5cfYAyMa2BN1b8yup5F6TL) | 4:28 |
-| 53 | [Narcissus](https://open.spotify.com/track/3TEPXf5UCrgNTHo5iTZedr) | [X\-Rated 1994](https://open.spotify.com/artist/71QiZSo2Jl9MO98vg3JSO0) | [Narcissus](https://open.spotify.com/album/3zui8JpZjtJo7xpMezSukq) | 8:04 |
+| 35 | [Walk Away](https://open.spotify.com/track/0goHckNxy52mUUqaSqJ0gN) | [Altered Edge](https://open.spotify.com/artist/1LK0zVegel8RFJsECz7QQ5) | [Walk Away](https://open.spotify.com/album/2EJUBIUDDBmmJm0qqN8eTJ) | 3:14 |
+| 36 | [The Runaway Song](https://open.spotify.com/track/2LdQb5Pm6m7Sbi1esrv3Wj) | [Hunter Road](https://open.spotify.com/artist/5aPH9KCyGCSIKUyrbsz1bn) | [The Runaway Song](https://open.spotify.com/album/1a5FKZRgTGoQCsLKFhDFcL) | 5:51 |
+| 37 | [188](https://open.spotify.com/track/51Pl4eyuqbLv74w3caC21w) | [Hag Roast](https://open.spotify.com/artist/7FN51i8wVHCTx72xQEOzEQ) | [188](https://open.spotify.com/album/5ZRSJkWE8UrXFkiy5S93Zx) | 3:09 |
+| 38 | [The End \(For You\)](https://open.spotify.com/track/0ihoMNxO7cS13uoxzTaUvp) | [The UNSOLVED](https://open.spotify.com/artist/2o8svnvt9r8DbgH2DHvtCO) | [The Gauntlet](https://open.spotify.com/album/0ZCGfrukq5jzMuymHqn9eb) | 3:06 |
+| 39 | [Silver Turns to Red](https://open.spotify.com/track/7jVXNz0jEKienLLq7zvVe5) | [Solar Flare Sunset](https://open.spotify.com/artist/5Rl6sxPtP6857bWDUdPN2r) | [Forever Waiting](https://open.spotify.com/album/4ZRB1AQmBiXeW21EFg0tWz) | 4:27 |
+| 40 | [Bad Omens](https://open.spotify.com/track/6avpcNvUmrYvdX0egVyjeU) | [The UNSOLVED](https://open.spotify.com/artist/2o8svnvt9r8DbgH2DHvtCO) | [Bad Omens](https://open.spotify.com/album/0uIbKWU808kXMrY9KJLRSD) | 3:53 |
+| 41 | [No Dice](https://open.spotify.com/track/1NGf8nUVTTLq9PUFdjFKfM) | [Touch of Red](https://open.spotify.com/artist/07GYobUq3xeoOIhrqJ2Bc1) | [In Our Nature](https://open.spotify.com/album/3OpeVn7ARilpWiXIgZS6j3) | 5:00 |
+| 42 | [The Sand](https://open.spotify.com/track/3kGvYan7NNd4I5Q12Tq4jW) | [Solar Flare Sunset](https://open.spotify.com/artist/5Rl6sxPtP6857bWDUdPN2r) | [Forever Waiting](https://open.spotify.com/album/4ZRB1AQmBiXeW21EFg0tWz) | 3:08 |
+| 43 | [Tanzt mit mir](https://open.spotify.com/track/2jjw1QuN1pdPGXgQnjjygt) | [Pro\|Contra](https://open.spotify.com/artist/3lpOrZS6jyCQVFQD01Usf0) | [Tanzt mit mir](https://open.spotify.com/album/19FUWJ7gwETtier4fAOpXQ) | 3:39 |
+| 44 | [Noir](https://open.spotify.com/track/4zuMFhWwNSNjv3JBEGu4mD) | [Summoners](https://open.spotify.com/artist/2Q9wu4il52v9GylIMrq8Mn) | [Noir](https://open.spotify.com/album/0u9Wfry4L6EIsPHohmYUN2) | 3:21 |
+| 45 | [Glide](https://open.spotify.com/track/7lBT4r2EB25JjsXzoDJjZ4) | [Lemon Knife](https://open.spotify.com/artist/2idkk1AQNbcJE4HPUrBUDC) | [Event Horizon](https://open.spotify.com/album/3QStexIRzKruswq8FDYp9S) | 3:21 |
+| 46 | [Going Down](https://open.spotify.com/track/7FMnpQg1vy0fc4sDaKUb5Q) | [On\-Off](https://open.spotify.com/artist/3Qb1E9hm1R0In79aIumUsR) | [A Big Dose of Speed](https://open.spotify.com/album/1sJx1TPuMDsgnayaMF2SF7) | 4:03 |
+| 47 | [Get Down](https://open.spotify.com/track/0hxmmV26stWU0p7nMENjt5) | [The Fuzes](https://open.spotify.com/artist/2FTrpNcKeBFvF9iKZa5kEA) | [Get Down](https://open.spotify.com/album/1fjOQHmwo9bT3RImgkOSEm) | 2:24 |
+| 48 | [90 Seconds for Panic](https://open.spotify.com/track/3JUfZLz6ONsDcW6CbYucwG) | [CIRCUS](https://open.spotify.com/artist/3mpN9JFZx0JdZvr4ZWvvf9) | [A Kiss Before Dying](https://open.spotify.com/album/43HQW7GQUlQEvisvnaT2dJ) | 4:34 |
+| 49 | [bad lover](https://open.spotify.com/track/4x6kXW5VVDFON1BaVI9OtG) | [Brake Loose](https://open.spotify.com/artist/0sklfNVhTLHQtAbLU1cqVA) | [bad lover](https://open.spotify.com/album/0M4u625Q69qPri1148zoe3) | 4:57 |
+| 50 | [Heart of a Coward](https://open.spotify.com/track/7vmfuBMDV2eQsjFm2rLPLv) | [Starikova](https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA) | [Heart of a Coward / Maelstrom](https://open.spotify.com/album/2GFTJ5HJLN861GRR7jpwGB) | 4:30 |
+| 51 | [Let's Do It Again](https://open.spotify.com/track/0tZ9lz19MPyCJDlOQ078NO) | [Pink Cliffs](https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR) | [Let's Do It Again](https://open.spotify.com/album/5cfYAyMa2BN1b8yup5F6TL) | 4:28 |
+| 52 | [Narcissus](https://open.spotify.com/track/3TEPXf5UCrgNTHo5iTZedr) | [X\-Rated 1994](https://open.spotify.com/artist/71QiZSo2Jl9MO98vg3JSO0) | [Narcissus](https://open.spotify.com/album/3zui8JpZjtJo7xpMezSukq) | 8:04 |
 
-Snapshot ID: `AAABwc6c/87csWlCbun+2xYLsmVXFB51`
+Snapshot ID: `AAABwpKrrQWBjVrDzzw3d7bsew6ufUWS`

@@ -1,6 +1,6 @@
 {
   "description": "Laid back cratedigger hip-hop from around the world.",
-  "num_followers": 1581865,
+  "num_followers": 1581993,
   "original_name": "Jazz Rap",
   "owner": {
     "name": "Spotify",
@@ -1151,6 +1151,26 @@
     {
       "added_at": "2026-05-21 19:41:47",
       "album": {
+        "name": "3:AM (feat. Erykah Badu)",
+        "url": "https://open.spotify.com/album/4pTWXfffnCr06nRRkJyXFq"
+      },
+      "artists": [
+        {
+          "name": "Rapsody",
+          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
+        },
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "duration_ms": 213566,
+      "name": "3:AM (feat. Erykah Badu)",
+      "url": "https://open.spotify.com/track/5rnAG9S1dqU79m7HqTw688"
+    },
+    {
+      "added_at": "2026-05-21 19:41:47",
+      "album": {
         "name": "FASTLIFE 5 : Audio Luxury",
         "url": "https://open.spotify.com/album/0jdldWggjh2SDk71zCsu0T"
       },
@@ -1171,26 +1191,6 @@
       "duration_ms": 205727,
       "name": "Think About It (feat. Freddie Gibbs)",
       "url": "https://open.spotify.com/track/4SoFYjj0p7W1MRyZFF2fLk"
-    },
-    {
-      "added_at": "2026-05-21 19:41:47",
-      "album": {
-        "name": "3:AM (feat. Erykah Badu)",
-        "url": "https://open.spotify.com/album/4pTWXfffnCr06nRRkJyXFq"
-      },
-      "artists": [
-        {
-          "name": "Rapsody",
-          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
-        },
-        {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
-        }
-      ],
-      "duration_ms": 213566,
-      "name": "3:AM (feat. Erykah Badu)",
-      "url": "https://open.spotify.com/track/5rnAG9S1dqU79m7HqTw688"
     },
     {
       "added_at": "2026-05-21 19:41:47",
@@ -1311,26 +1311,6 @@
     {
       "added_at": "2026-05-21 19:41:47",
       "album": {
-        "name": "One of Those Feelings",
-        "url": "https://open.spotify.com/album/0XY4UL9J8m3twHBUCK3vit"
-      },
-      "artists": [
-        {
-          "name": "Classik",
-          "url": "https://open.spotify.com/artist/0yxqzeTXKE8mrIG2PCxyf6"
-        },
-        {
-          "name": "CrazyJaZz",
-          "url": "https://open.spotify.com/artist/7nT0BfoHBOjL5yGLTRLmhm"
-        }
-      ],
-      "duration_ms": 156342,
-      "name": "One of Those Feelings",
-      "url": "https://open.spotify.com/track/2H3E4e3q2Qdhz5cMCMh1xU"
-    },
-    {
-      "added_at": "2026-05-21 19:41:47",
-      "album": {
         "name": "You Don\u2019t Know",
         "url": "https://open.spotify.com/album/4NAKerTspkqyqopTNwT82Q"
       },
@@ -1351,6 +1331,26 @@
       "duration_ms": 250450,
       "name": "You Don't Know",
       "url": "https://open.spotify.com/track/6qCPW6pWrUNIESY7fp34D9"
+    },
+    {
+      "added_at": "2026-05-21 19:41:47",
+      "album": {
+        "name": "One of Those Feelings",
+        "url": "https://open.spotify.com/album/0XY4UL9J8m3twHBUCK3vit"
+      },
+      "artists": [
+        {
+          "name": "Classik",
+          "url": "https://open.spotify.com/artist/0yxqzeTXKE8mrIG2PCxyf6"
+        },
+        {
+          "name": "CrazyJaZz",
+          "url": "https://open.spotify.com/artist/7nT0BfoHBOjL5yGLTRLmhm"
+        }
+      ],
+      "duration_ms": 156342,
+      "name": "One of Those Feelings",
+      "url": "https://open.spotify.com/track/2H3E4e3q2Qdhz5cMCMh1xU"
     },
     {
       "added_at": "2026-05-21 19:41:47",

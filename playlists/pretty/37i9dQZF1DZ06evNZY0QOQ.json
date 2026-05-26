@@ -1,12 +1,12 @@
 {
   "description": "This is CKay. The essential tracks, all in one playlist.",
-  "num_followers": 24243,
+  "num_followers": 24244,
   "original_name": "This Is CKay",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahDuAAAAAACEDvsX9Faknh+9vF5JYutN",
+  "snapshot_id": "ahI/gAAAAABTt1xupPkDL6M7scU+o3T4",
   "tracks": [
     {
       "added_at": null,
@@ -627,26 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Black Panther: Wakanda Forever - Music From and Inspired By",
-        "url": "https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        },
-        {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
-        }
-      ],
-      "duration_ms": 188920,
-      "name": "Anya Mmiri",
-      "url": "https://open.spotify.com/track/4m8YqoUZLToSUjpNmb7m5X"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "love nwantiti x dumebi (Mid\u00e9 Naike Remix)",
         "url": "https://open.spotify.com/album/7AzISzDV84yvlneRn6OL3j"
       },
@@ -667,6 +647,26 @@
       "duration_ms": 194181,
       "name": "love nwantiti x dumebi - Mid\u00e9 Naike Remix",
       "url": "https://open.spotify.com/track/5h3lq0x9KKwYhPcWAUVdOj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Black Panther: Wakanda Forever - Music From and Inspired By",
+        "url": "https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        },
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        }
+      ],
+      "duration_ms": 188920,
+      "name": "Anya Mmiri",
+      "url": "https://open.spotify.com/track/4m8YqoUZLToSUjpNmb7m5X"
     },
     {
       "added_at": null,
@@ -855,6 +855,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "IS IT YOU? / MYSTERIOUS LOVE",
+        "url": "https://open.spotify.com/album/3nYZCI9RDtpcy5TtMKjwyS"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 152920,
+      "name": "MYSTERIOUS LOVE",
+      "url": "https://open.spotify.com/track/6E60TB6THcK8aglk78MHbS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Wayeh (feat. CKay) [Remix]",
         "url": "https://open.spotify.com/album/3heqtgQOgtvpVvTQomcBAo"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 175615,
       "name": "permit me",
       "url": "https://open.spotify.com/track/0UdlBInYiNqclTU4bGm7dN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "IS IT YOU? / MYSTERIOUS LOVE",
-        "url": "https://open.spotify.com/album/3nYZCI9RDtpcy5TtMKjwyS"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 152920,
-      "name": "MYSTERIOUS LOVE",
-      "url": "https://open.spotify.com/track/6E60TB6THcK8aglk78MHbS"
     },
     {
       "added_at": null,
@@ -955,22 +955,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "CKay The First",
-        "url": "https://open.spotify.com/album/6lheAtw3IcJvflIhLbykih"
+        "name": "IS IT YOU? / MYSTERIOUS LOVE",
+        "url": "https://open.spotify.com/album/3nYZCI9RDtpcy5TtMKjwyS"
       },
       "artists": [
         {
           "name": "CKay",
           "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        },
-        {
-          "name": "Dj Lambo",
-          "url": "https://open.spotify.com/artist/6UJMc7CLW0JpsbdIke13nU"
         }
       ],
-      "duration_ms": 152066,
-      "name": "way (feat. DJ Lambo)",
-      "url": "https://open.spotify.com/track/1aFnU8fcGS9EHUh36DJ8Ml"
+      "duration_ms": 183652,
+      "name": "IS IT YOU?",
+      "url": "https://open.spotify.com/track/3xmnR9kblvHlUWY2YDWkrE"
     }
   ],
   "unique_name": "This Is CKay",

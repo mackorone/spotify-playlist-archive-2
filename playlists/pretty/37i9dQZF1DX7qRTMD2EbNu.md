@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 
 > Hottest bars coming live from the 233\.  Cover: Joey B
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,709 likes - 68 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,730 likes - 68 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

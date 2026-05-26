@@ -1,12 +1,12 @@
 {
   "description": "This is blink-182. The essential tracks, all in one playlist.",
-  "num_followers": 624296,
+  "num_followers": 624343,
   "original_name": "This Is blink-182",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahDuAAAAAADsVGpfKrP/K8ZETTULUBJg",
+  "snapshot_id": "ahI/gAAAAADRnNNISTswRlkWauej3ZAw",
   "tracks": [
     {
       "added_at": null,
@@ -251,8 +251,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "blink-182",
-        "url": "https://open.spotify.com/album/6DMUAqxiFfLdqXv0vqcrQA"
+        "name": "The Mark, Tom And Travis Show (The Enema Strikes Back!) [Live]",
+        "url": "https://open.spotify.com/album/1rkcABZWlix3sYH6XLUSAz"
       },
       "artists": [
         {
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
         }
       ],
-      "duration_ms": 183786,
-      "name": "Down",
-      "url": "https://open.spotify.com/track/1e1krgHCTUGDhhIgsRVHJ0"
+      "duration_ms": 166733,
+      "name": "Man Overboard",
+      "url": "https://open.spotify.com/track/1PRknVhZ6BsVX61MPrrVsV"
     },
     {
       "added_at": null,
@@ -283,8 +283,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Mark, Tom And Travis Show (The Enema Strikes Back!) [Live]",
-        "url": "https://open.spotify.com/album/1rkcABZWlix3sYH6XLUSAz"
+        "name": "blink-182",
+        "url": "https://open.spotify.com/album/6DMUAqxiFfLdqXv0vqcrQA"
       },
       "artists": [
         {
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
         }
       ],
-      "duration_ms": 166733,
-      "name": "Man Overboard",
-      "url": "https://open.spotify.com/track/1PRknVhZ6BsVX61MPrrVsV"
+      "duration_ms": 183786,
+      "name": "Down",
+      "url": "https://open.spotify.com/track/1e1krgHCTUGDhhIgsRVHJ0"
     },
     {
       "added_at": null,

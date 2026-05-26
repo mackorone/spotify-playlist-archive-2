@@ -1,6 +1,6 @@
 {
   "description": "An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.",
-  "num_followers": 840955,
+  "num_followers": 840979,
   "original_name": "Feel Good Dinner",
   "owner": {
     "name": "Spotify",
@@ -523,22 +523,6 @@
     {
       "added_at": "2026-05-18 19:19:44",
       "album": {
-        "name": "Unicorn",
-        "url": "https://open.spotify.com/album/4DUTwccENusGfoeYUDVWe0"
-      },
-      "artists": [
-        {
-          "name": "RIO KOSTA",
-          "url": "https://open.spotify.com/artist/4xU7M9wEvpnvkNOyPdVi5y"
-        }
-      ],
-      "duration_ms": 216051,
-      "name": "Unicorn",
-      "url": "https://open.spotify.com/track/54Uw6SATImHdL9aKDJhgkh"
-    },
-    {
-      "added_at": "2026-05-18 19:19:44",
-      "album": {
         "name": "If My Wife New I'd Be Dead (Deluxe)",
         "url": "https://open.spotify.com/album/0xItOwIAddsdxIZBHJyJYh"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 244693,
       "name": "I Don't Really Care for You",
       "url": "https://open.spotify.com/track/38x9U1nlxCblWCmu6g4mPy"
+    },
+    {
+      "added_at": "2026-05-18 19:19:44",
+      "album": {
+        "name": "Unicorn",
+        "url": "https://open.spotify.com/album/4DUTwccENusGfoeYUDVWe0"
+      },
+      "artists": [
+        {
+          "name": "RIO KOSTA",
+          "url": "https://open.spotify.com/artist/4xU7M9wEvpnvkNOyPdVi5y"
+        }
+      ],
+      "duration_ms": 216051,
+      "name": "Unicorn",
+      "url": "https://open.spotify.com/track/54Uw6SATImHdL9aKDJhgkh"
     },
     {
       "added_at": "2026-05-18 19:19:44",
@@ -591,22 +591,6 @@
     {
       "added_at": "2026-05-18 19:19:44",
       "album": {
-        "name": "HEART OF THE MATTER",
-        "url": "https://open.spotify.com/album/0OOVrSL0zg5FMqus5AvW1b"
-      },
-      "artists": [
-        {
-          "name": "Sedric Perry",
-          "url": "https://open.spotify.com/artist/4Z6yPeF2Ytgp3tZATwf6Jw"
-        }
-      ],
-      "duration_ms": 226779,
-      "name": "HEART OF THE MATTER",
-      "url": "https://open.spotify.com/track/4HFhHdiyYQyPcvMmHOHjcz"
-    },
-    {
-      "added_at": "2026-05-18 19:19:44",
-      "album": {
         "name": "Sugar at the Gate",
         "url": "https://open.spotify.com/album/1alrC2sUf5sRGSvCV8I6Qh"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 174535,
       "name": "Petals",
       "url": "https://open.spotify.com/track/3Z6HMD0zTxTUqrmh9ZoIib"
+    },
+    {
+      "added_at": "2026-05-18 19:19:44",
+      "album": {
+        "name": "HEART OF THE MATTER",
+        "url": "https://open.spotify.com/album/0OOVrSL0zg5FMqus5AvW1b"
+      },
+      "artists": [
+        {
+          "name": "Sedric Perry",
+          "url": "https://open.spotify.com/artist/4Z6yPeF2Ytgp3tZATwf6Jw"
+        }
+      ],
+      "duration_ms": 226779,
+      "name": "HEART OF THE MATTER",
+      "url": "https://open.spotify.com/track/4HFhHdiyYQyPcvMmHOHjcz"
     },
     {
       "added_at": "2026-05-18 19:19:44",
@@ -831,18 +831,18 @@
     {
       "added_at": "2026-05-18 19:19:44",
       "album": {
-        "name": "I Got You",
-        "url": "https://open.spotify.com/album/2JmTTmTc2j0xWYba6DzqsX"
+        "name": "Music",
+        "url": "https://open.spotify.com/album/3Yt6hyKUIgAeg6BIr7aPmK"
       },
       "artists": [
         {
-          "name": "Dojo Cuts",
-          "url": "https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL"
+          "name": "Benny Sings",
+          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
         }
       ],
-      "duration_ms": 192000,
-      "name": "I Got You",
-      "url": "https://open.spotify.com/track/58CA5g0ZdqNs8muUjJOOBt"
+      "duration_ms": 171756,
+      "name": "Sunny Afternoon",
+      "url": "https://open.spotify.com/track/3Acg5sKJcCjUQBHA8KjX5F"
     },
     {
       "added_at": "2026-05-18 19:19:44",
@@ -867,18 +867,18 @@
     {
       "added_at": "2026-05-18 19:19:44",
       "album": {
-        "name": "Music",
-        "url": "https://open.spotify.com/album/3Yt6hyKUIgAeg6BIr7aPmK"
+        "name": "I Got You",
+        "url": "https://open.spotify.com/album/2JmTTmTc2j0xWYba6DzqsX"
       },
       "artists": [
         {
-          "name": "Benny Sings",
-          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
+          "name": "Dojo Cuts",
+          "url": "https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL"
         }
       ],
-      "duration_ms": 171756,
-      "name": "Sunny Afternoon",
-      "url": "https://open.spotify.com/track/3Acg5sKJcCjUQBHA8KjX5F"
+      "duration_ms": 192000,
+      "name": "I Got You",
+      "url": "https://open.spotify.com/track/58CA5g0ZdqNs8muUjJOOBt"
     },
     {
       "added_at": "2026-05-18 19:19:44",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2026-05-18 19:19:44",
       "album": {
-        "name": "Sounds Good",
-        "url": "https://open.spotify.com/album/6Jxt4spHx2WCH5WfapgUWD"
-      },
-      "artists": [
-        {
-          "name": "Brainstory",
-          "url": "https://open.spotify.com/artist/0EqBE2VOwsHgSOrjsQCs5j"
-        }
-      ],
-      "duration_ms": 134702,
-      "name": "Nobody But You",
-      "url": "https://open.spotify.com/track/5Mya4ekcEmKOluFYd8qX8Y"
-    },
-    {
-      "added_at": "2026-05-18 19:19:44",
-      "album": {
         "name": "RISE",
         "url": "https://open.spotify.com/album/3TWblAw43j83gbtK5IutiZ"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 279586,
       "name": "You Don't Have to Be a Star (To Be In My Show)",
       "url": "https://open.spotify.com/track/2JurHS80N98Yt3CdIBYz9M"
+    },
+    {
+      "added_at": "2026-05-18 19:19:44",
+      "album": {
+        "name": "Sounds Good",
+        "url": "https://open.spotify.com/album/6Jxt4spHx2WCH5WfapgUWD"
+      },
+      "artists": [
+        {
+          "name": "Brainstory",
+          "url": "https://open.spotify.com/artist/0EqBE2VOwsHgSOrjsQCs5j"
+        }
+      ],
+      "duration_ms": 134702,
+      "name": "Nobody But You",
+      "url": "https://open.spotify.com/track/5Mya4ekcEmKOluFYd8qX8Y"
     },
     {
       "added_at": "2026-05-18 19:19:44",
@@ -1791,22 +1791,6 @@
     {
       "added_at": "2026-05-18 19:19:44",
       "album": {
-        "name": "Picture Frame",
-        "url": "https://open.spotify.com/album/6LaTToJMRmCo1Wtxb2NyhU"
-      },
-      "artists": [
-        {
-          "name": "Hector Morlet",
-          "url": "https://open.spotify.com/artist/1xgCILfNVWEJx7EBN1rC2A"
-        }
-      ],
-      "duration_ms": 195276,
-      "name": "Picture Frame",
-      "url": "https://open.spotify.com/track/0DkZynmdHveUtwaas1Xj2m"
-    },
-    {
-      "added_at": "2026-05-18 19:19:44",
-      "album": {
         "name": "Quadron",
         "url": "https://open.spotify.com/album/5vtu0JY9LDxsJ7ynDSsTQJ"
       },
@@ -1819,6 +1803,22 @@
       "duration_ms": 272466,
       "name": "Slippin",
       "url": "https://open.spotify.com/track/1CMIoi2skjKw1G0R5pYWeg"
+    },
+    {
+      "added_at": "2026-05-18 19:19:44",
+      "album": {
+        "name": "Picture Frame",
+        "url": "https://open.spotify.com/album/6LaTToJMRmCo1Wtxb2NyhU"
+      },
+      "artists": [
+        {
+          "name": "Hector Morlet",
+          "url": "https://open.spotify.com/artist/1xgCILfNVWEJx7EBN1rC2A"
+        }
+      ],
+      "duration_ms": 195276,
+      "name": "Picture Frame",
+      "url": "https://open.spotify.com/track/0DkZynmdHveUtwaas1Xj2m"
     },
     {
       "added_at": "2026-05-18 19:19:44",
@@ -1923,22 +1923,6 @@
     {
       "added_at": "2026-05-18 19:19:44",
       "album": {
-        "name": "Bye Bye 17",
-        "url": "https://open.spotify.com/album/3lJgfGvlQIdJ9JdWAAape1"
-      },
-      "artists": [
-        {
-          "name": "Har Mar Superstar",
-          "url": "https://open.spotify.com/artist/5wjWLK4KMqmRbdUtTEV1BG"
-        }
-      ],
-      "duration_ms": 125962,
-      "name": "Late Night Morning Light",
-      "url": "https://open.spotify.com/track/36Jk4Gov47YOevltFX97sD"
-    },
-    {
-      "added_at": "2026-05-18 19:19:44",
-      "album": {
         "name": "My Dirty Desire / Dreaming In Slow Motion",
         "url": "https://open.spotify.com/album/4QfaBZBXxHeEGY6Me3damM"
       },
@@ -1951,6 +1935,22 @@
       "duration_ms": 206963,
       "name": "My Dirty Desire",
       "url": "https://open.spotify.com/track/2tFnhS8QB268yDYnwAUBdH"
+    },
+    {
+      "added_at": "2026-05-18 19:19:44",
+      "album": {
+        "name": "Bye Bye 17",
+        "url": "https://open.spotify.com/album/3lJgfGvlQIdJ9JdWAAape1"
+      },
+      "artists": [
+        {
+          "name": "Har Mar Superstar",
+          "url": "https://open.spotify.com/artist/5wjWLK4KMqmRbdUtTEV1BG"
+        }
+      ],
+      "duration_ms": 125962,
+      "name": "Late Night Morning Light",
+      "url": "https://open.spotify.com/track/36Jk4Gov47YOevltFX97sD"
     },
     {
       "added_at": "2026-05-18 19:19:44",
