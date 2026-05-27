@@ -1,12 +1,12 @@
 {
   "description": "These are some independent alternative rock bands you need to hear.",
-  "num_followers": 679,
+  "num_followers": 683,
   "original_name": "Unsigned Alternative Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAADgY5StCIY6DWU7RqTVsdHMZmDLdZE",
+  "snapshot_id": "AAADg5040zH1zf9SuKjdLZiLu3Vf7i1i",
   "tracks": [
     {
       "added_at": "2026-02-16 17:21:01",
@@ -1183,6 +1183,38 @@
       "duration_ms": 248200,
       "name": "Super 8",
       "url": "https://open.spotify.com/track/5RYqOCd159JIlWw7MDTPN0"
+    },
+    {
+      "added_at": "2026-05-26 18:12:15",
+      "album": {
+        "name": "Baby Girl (likes to lie)",
+        "url": "https://open.spotify.com/album/4dvAjPjQbA4PZMFXzguwHc"
+      },
+      "artists": [
+        {
+          "name": "Queen Anne",
+          "url": "https://open.spotify.com/artist/2BpcZGwpd2C95Nn109Fj7x"
+        }
+      ],
+      "duration_ms": 171471,
+      "name": "Baby Girl (likes to lie)",
+      "url": "https://open.spotify.com/track/40Ewc7646VmyGrrpFf7o4r"
+    },
+    {
+      "added_at": "2026-05-26 18:56:39",
+      "album": {
+        "name": "Fairy Wings",
+        "url": "https://open.spotify.com/album/2vyGVc7zSMlbPrQGRWX8Sd"
+      },
+      "artists": [
+        {
+          "name": "Ladat",
+          "url": "https://open.spotify.com/artist/2nX96XjXTUZvCoNWTNNun3"
+        }
+      ],
+      "duration_ms": 199640,
+      "name": "Fairy Wings",
+      "url": "https://open.spotify.com/track/0H6StvVWIN3LRcZNK3eAuG"
     }
   ],
   "unique_name": "Unsigned Alternative Rock",

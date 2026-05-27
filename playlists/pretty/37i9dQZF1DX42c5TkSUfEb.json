@@ -1,6 +1,6 @@
 {
   "description": "La playlist id\u00e9ale pour se d\u00e9tendre en musique.",
-  "num_followers": 897513,
+  "num_followers": 897523,
   "original_name": "Au calme",
   "owner": {
     "name": "Spotify",
@@ -235,22 +235,6 @@
     {
       "added_at": "2026-05-21 22:00:45",
       "album": {
-        "name": "The Freewheelin' Bob Dylan",
-        "url": "https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 168756,
-      "name": "Blowin' in the Wind",
-      "url": "https://open.spotify.com/track/18GiV1BaXzPVYpp9rmOg0E"
-    },
-    {
-      "added_at": "2026-05-21 22:00:45",
-      "album": {
         "name": "Twizzler",
         "url": "https://open.spotify.com/album/2F1Za0y4KX2xJifGiCg47z"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 174349,
       "name": "Twizzler",
       "url": "https://open.spotify.com/track/55kn7P8aUDI3CyGx1jlCLT"
+    },
+    {
+      "added_at": "2026-05-21 22:00:45",
+      "album": {
+        "name": "The Freewheelin' Bob Dylan",
+        "url": "https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 168756,
+      "name": "Blowin' in the Wind",
+      "url": "https://open.spotify.com/track/18GiV1BaXzPVYpp9rmOg0E"
     },
     {
       "added_at": "2026-05-21 22:00:45",
@@ -739,22 +739,6 @@
     {
       "added_at": "2026-05-21 22:00:45",
       "album": {
-        "name": "With You Around",
-        "url": "https://open.spotify.com/album/7fhO709Na7oHVFGtcXEuY6"
-      },
-      "artists": [
-        {
-          "name": "BANKS",
-          "url": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
-        }
-      ],
-      "duration_ms": 233218,
-      "name": "With You Around",
-      "url": "https://open.spotify.com/track/3KCCWIuxFn3ghegQfX2YaL"
-    },
-    {
-      "added_at": "2026-05-21 22:00:45",
-      "album": {
         "name": "Lovebites",
         "url": "https://open.spotify.com/album/5PjXhp79Cl4FB7qCDOkm4V"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 232000,
       "name": "Silent Killer",
       "url": "https://open.spotify.com/track/30GeuZLcq4ORyG1mf5JeYT"
+    },
+    {
+      "added_at": "2026-05-21 22:00:45",
+      "album": {
+        "name": "With You Around",
+        "url": "https://open.spotify.com/album/7fhO709Na7oHVFGtcXEuY6"
+      },
+      "artists": [
+        {
+          "name": "BANKS",
+          "url": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
+        }
+      ],
+      "duration_ms": 233218,
+      "name": "With You Around",
+      "url": "https://open.spotify.com/track/3KCCWIuxFn3ghegQfX2YaL"
     },
     {
       "added_at": "2026-05-21 22:00:45",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2026-05-21 22:00:45",
       "album": {
-        "name": "Prizefighter",
-        "url": "https://open.spotify.com/album/5Cq6LOKTeOqYypzygGJK5X"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 209733,
-      "name": "Prizefighter",
-      "url": "https://open.spotify.com/track/2cS7Mx24vjZQAPnWd2BwGK"
-    },
-    {
-      "added_at": "2026-05-21 22:00:45",
-      "album": {
         "name": "rose ave.",
         "url": "https://open.spotify.com/album/5roeGujs5AMWZHsxu0z1lZ"
       },
@@ -1263,18 +1247,18 @@
     {
       "added_at": "2026-05-21 22:00:45",
       "album": {
-        "name": "Seventeen",
-        "url": "https://open.spotify.com/album/5YwXFDSgMW3FBGAES2Kud3"
+        "name": "Prizefighter",
+        "url": "https://open.spotify.com/album/5Cq6LOKTeOqYypzygGJK5X"
       },
       "artists": [
         {
-          "name": "Nina Nesbitt",
-          "url": "https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd"
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
         }
       ],
-      "duration_ms": 182254,
-      "name": "Seventeen",
-      "url": "https://open.spotify.com/track/3Ac7dP08nPVC9Ti6RcTmcQ"
+      "duration_ms": 209733,
+      "name": "Prizefighter",
+      "url": "https://open.spotify.com/track/2cS7Mx24vjZQAPnWd2BwGK"
     },
     {
       "added_at": "2026-05-21 22:00:45",
@@ -1291,6 +1275,22 @@
       "duration_ms": 207702,
       "name": "the way you do",
       "url": "https://open.spotify.com/track/2Sgz95fxgQYxDAS2yKJLGL"
+    },
+    {
+      "added_at": "2026-05-21 22:00:45",
+      "album": {
+        "name": "Seventeen",
+        "url": "https://open.spotify.com/album/5YwXFDSgMW3FBGAES2Kud3"
+      },
+      "artists": [
+        {
+          "name": "Nina Nesbitt",
+          "url": "https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd"
+        }
+      ],
+      "duration_ms": 182254,
+      "name": "Seventeen",
+      "url": "https://open.spotify.com/track/3Ac7dP08nPVC9Ti6RcTmcQ"
     },
     {
       "added_at": "2026-05-21 22:00:45",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2026-05-21 22:00:45",
       "album": {
-        "name": "soft bleeding",
-        "url": "https://open.spotify.com/album/6xtHeOyNTAo3zRUU0bBReD"
-      },
-      "artists": [
-        {
-          "name": "Petit Biscuit",
-          "url": "https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2"
-        }
-      ],
-      "duration_ms": 176560,
-      "name": "soft bleeding",
-      "url": "https://open.spotify.com/track/0mVWOiuHCuYiSfuDhdjSO8"
-    },
-    {
-      "added_at": "2026-05-21 22:00:45",
-      "album": {
         "name": "One More Second",
         "url": "https://open.spotify.com/album/11wtIwzSbBoVffQGIEWfIN"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 322573,
       "name": "One More Second",
       "url": "https://open.spotify.com/track/6T8pTLAnRiN4LZKhN5ZrKE"
+    },
+    {
+      "added_at": "2026-05-21 22:00:45",
+      "album": {
+        "name": "soft bleeding",
+        "url": "https://open.spotify.com/album/6xtHeOyNTAo3zRUU0bBReD"
+      },
+      "artists": [
+        {
+          "name": "Petit Biscuit",
+          "url": "https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2"
+        }
+      ],
+      "duration_ms": 176560,
+      "name": "soft bleeding",
+      "url": "https://open.spotify.com/track/0mVWOiuHCuYiSfuDhdjSO8"
     },
     {
       "added_at": "2026-05-21 22:00:45",

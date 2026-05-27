@@ -4,7 +4,7 @@
 
 > These are some independent alternative rock bands you need to hear.
 
-362 songs - 21 hr 50 min
+364 songs - 21 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Asmodeus](https://open.spotify.com/track/5IiBhGeTLrzhqpIgnOWn4g) | [Anthony Menzia](https://open.spotify.com/artist/0GoKVhFED5mug4qsu3dlyy) | [Synth Noise](https://open.spotify.com/album/19mRhcI5wRUlZQuQB5ySJ8) | 2:07 | 2026-03-11 | 2026-04-15 |
 | [Autumn in the Storm](https://open.spotify.com/track/0tB90dlegD2EegT7EE2Bii) | [Breathing Tales](https://open.spotify.com/artist/2ZFi7bp6R1cFiPxT0Q7P0I) | [Autumn in the Storm](https://open.spotify.com/album/0PEP2Y4dCNhnc71M1SC8zo) | 2:32 | 2026-01-29 |  |
 | [Awhile Longer](https://open.spotify.com/track/2oIeeJEISUZqeEy0tP1KFV) | [Starikova](https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA) | [Mr\. Collision / Awhile Longer](https://open.spotify.com/album/2fZawAuY6K7uSCv7Jwb5gw) | 4:21 | 2026-02-13 | 2026-05-17 |
+| [Baby Girl \(likes to lie\)](https://open.spotify.com/track/40Ewc7646VmyGrrpFf7o4r) | [Queen Anne](https://open.spotify.com/artist/2BpcZGwpd2C95Nn109Fj7x) | [Baby Girl \(likes to lie\)](https://open.spotify.com/album/4dvAjPjQbA4PZMFXzguwHc) | 2:51 | 2026-05-26 |  |
 | [Back To The Void](https://open.spotify.com/track/7hKA7Lg3KfmdlFvq6wSLMF) | [Symbol Cult](https://open.spotify.com/artist/0gU1QispGh4FK7U6gwHeTQ) | [Back To The Void](https://open.spotify.com/album/4xctjWVrJGis1IAcP94Qjq) | 2:17 | 2025-11-11 | 2025-12-06 |
 | [bad lover](https://open.spotify.com/track/4x6kXW5VVDFON1BaVI9OtG) | [Brake Loose](https://open.spotify.com/artist/0sklfNVhTLHQtAbLU1cqVA) | [bad lover](https://open.spotify.com/album/0M4u625Q69qPri1148zoe3) | 4:57 | 2026-03-27 |  |
 | [Baked Beans](https://open.spotify.com/track/5bf1ZEPjEAO0lQ9B7QNyA6) | [Zerchronika](https://open.spotify.com/artist/0BW0PJS70OZ0T9AbX8xJU2), [Joseph Lawless](https://open.spotify.com/artist/6ymg9JY69Tc8uCPAnj1iVP) | [Baked Beans](https://open.spotify.com/album/302TmhIOH0hL6B0TDoSuNC) | 2:17 | 2026-05-06 | 2026-05-26 |
@@ -103,6 +104,7 @@
 | [Eliza](https://open.spotify.com/track/32JjgWkNFsHvnpkTw9HjkJ) | [If by Whiskey](https://open.spotify.com/artist/2BN3IyVjJZIgTjYeK2FEu5) | [Eliza](https://open.spotify.com/album/1fdfeMzHPdAI4JmFlslw7W) | 3:09 | 2025-09-11 | 2026-03-05 |
 | [elvira](https://open.spotify.com/track/1MN0j7rkRyjKHNnpPrRI6p) | [The Links](https://open.spotify.com/artist/2TFSpXVPNjJAFyFbzitt3c) | [elvira](https://open.spotify.com/album/51zYMlPIqJDH3m6h0QdJrI) | 4:13 | 2025-12-03 | 2026-01-05 |
 | [Erinnerungen](https://open.spotify.com/track/5AKMbE3VUKTQcaHPsb16k6) | [Seelenpein](https://open.spotify.com/artist/3zOFOdI46zJqqGMKYhUTDV) | [Erinnerungen](https://open.spotify.com/album/0bd8FyoYz7sC0zZl911zya) | 3:06 | 2026-01-15 | 2026-02-25 |
+| [Fairy Wings](https://open.spotify.com/track/0H6StvVWIN3LRcZNK3eAuG) | [Ladat](https://open.spotify.com/artist/2nX96XjXTUZvCoNWTNNun3) | [Fairy Wings](https://open.spotify.com/album/2vyGVc7zSMlbPrQGRWX8Sd) | 3:19 | 2026-05-26 |  |
 | [Fake](https://open.spotify.com/track/6ZiqkmLK7iMUwp4XrrmjMh) | [Tina Debs](https://open.spotify.com/artist/48c3LCh0VFH0nMeFnbyaMe) | [Fake](https://open.spotify.com/album/0uVwgFrjKFF0UVPFTtyltL) | 3:46 | 2026-02-16 | 2026-03-27 |
 | [False Prophet](https://open.spotify.com/track/3wE5xlV9u7L91aa7KfknwG) | [Holy Island](https://open.spotify.com/artist/4mDskLBS4JOyI52mzQ9H5m) | [False Prophet](https://open.spotify.com/album/29bErY1NGaYrHjmNIMvX7x) | 4:10 | 2026-04-24 | 2026-05-26 |
 | [Fetishize Me](https://open.spotify.com/track/7LyMFbtf8aiUgUtZYoXgXb) | [Sarah Hedger](https://open.spotify.com/artist/2CQDj93K4SEEYoQf96TjIy) | [Fetishize Me](https://open.spotify.com/album/79kv9dZL1zwHvcebBXMTnw) | 2:33 | 2026-04-11 | 2026-05-26 |

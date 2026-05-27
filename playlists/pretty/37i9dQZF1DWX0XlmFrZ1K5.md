@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0XlmFrZ1K5.md) - [plain]
 
 > Enjoy songs from artists appearing on THE GLOW 2026! \(THE GLOW 2026의 출연 아티스트 곡들을 즐겨보세요! \)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,535 likes - 76 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,542 likes - 76 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

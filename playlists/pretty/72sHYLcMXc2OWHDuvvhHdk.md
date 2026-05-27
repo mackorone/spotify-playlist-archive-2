@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-[Lucciago](https://open.spotify.com/user/1217609118) - 572 likes - 2,686 songs - 6 day 12 hr 32 min
+[Lucciago](https://open.spotify.com/user/1217609118) - 572 likes - 2,689 songs - 6 day 12 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2694,5 +2694,8 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 | 2684 | [Red Rose](https://open.spotify.com/track/4Z8U7coTzF2AcGpAfrMCOQ) | [Adina R](https://open.spotify.com/artist/20gyYigmFBuwiAW9VU0Z9P) | [Red Rose](https://open.spotify.com/album/23M8sNY7WUH4obb4JPeS4a) | 4:51 |
 | 2685 | [TIRED](https://open.spotify.com/track/46I6GgqCcnrSk2DiBRqvmZ) | [74DEN](https://open.spotify.com/artist/0a5Gjv3Kvy5VaFkD4xLIa3) | [TIRED](https://open.spotify.com/album/4cOafjG643Mo8kJKTxJ88T) | 2:14 |
 | 2686 | [Drop It Clear It](https://open.spotify.com/track/349iLKh4Cd1pUcsYjlfU3P) | [Grace & Badlove](https://open.spotify.com/artist/2sr0U0D0S7vnXh9epoKLVE), [Lolita Fiamma](https://open.spotify.com/artist/0u8bWPzFscvQGljoHXUsDW) | [Drop It Clear It](https://open.spotify.com/album/7orRCgcrwUm4NRj5QZbdcx) | 3:12 |
+| 2687 | [The Goonies Are Good Enough](https://open.spotify.com/track/27VOni0i9mmss8Hc5fchnG) | [Thirsty Curses](https://open.spotify.com/artist/3H2SNIWzM4KVAuKBC5i5f0) | [The Goonies Are Good Enough](https://open.spotify.com/album/3zp4sH0nh9faKVLurq1JGY) | 2:33 |
+| 2688 | [The Crow](https://open.spotify.com/track/56Aya5c9O6YvYoPkBzpYvW) | [Arn\-Identified Flying Objects and Alien Friends](https://open.spotify.com/artist/4qw8JsPgdrMpDFeTwaaCCD) | [The Crow](https://open.spotify.com/album/4ANC5ONS6tRUkZJHRON4E9) | 3:04 |
+| 2689 | [What's The Occasion?](https://open.spotify.com/track/69ivFCw2f8rfecFkgYSRJ8) | [Tennis Goth](https://open.spotify.com/artist/0ijRFpvZGGhqBwznExjALF) | [What's The Occasion?](https://open.spotify.com/album/425tJLypMQuVKrbYH0IQh0) | 2:35 |
 
-Snapshot ID: `AAALF25FgD9jqvmK5Sfv4JYdAJggjxjP`
+Snapshot ID: `AAALGk7FNumw+h6EF5eajWCOifYozrKU`

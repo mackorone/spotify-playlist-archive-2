@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002A Collection of Songs by Japanese Women Vocalists.  cover: 7co",
+  "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002A Collection of Songs by Japanese Women Vocalists.  cover: Chilli Beans.",
   "name": "Women's Voice",
   "tracks": [
     {
@@ -5418,6 +5418,24 @@
       "duration_ms": 236100,
       "name": "Break out of your bubble",
       "url": "https://open.spotify.com/track/1VquaVORRRCldISHOOJg7d"
+    },
+    {
+      "album": {
+        "name": "breath",
+        "url": "https://open.spotify.com/album/6pwa2k2KyX0NoeFT9FNrkH"
+      },
+      "artists": [
+        {
+          "name": "Chilli Beans.",
+          "url": "https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7"
+        }
+      ],
+      "date_added": "2026-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236300,
+      "name": "breath",
+      "url": "https://open.spotify.com/track/2NdAfTj6q6vNK7PHcYmCoL"
     },
     {
       "album": {
@@ -54470,7 +54488,7 @@
       ],
       "date_added": "2026-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-27",
       "duration_ms": 287120,
       "name": "\u30ec\u30a4\u30cb\u30fc\u30c7\u30a4",
       "url": "https://open.spotify.com/track/6p2SSslWSnBBBb5KKMcGBS"

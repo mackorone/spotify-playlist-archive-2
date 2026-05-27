@@ -4152,7 +4152,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-27",
       "duration_ms": 240060,
       "name": "Cheers and Cheers!!!",
       "url": "https://open.spotify.com/track/4gzXpytUhIWwr8roXjvzPf"
@@ -4844,7 +4844,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-27",
       "duration_ms": 89013,
       "name": "CUTIE SPHERE - TV size",
       "url": "https://open.spotify.com/track/4qu7V5Gbu5J1DBaHrr8y3I"
@@ -16860,6 +16860,24 @@
       "duration_ms": 121400,
       "name": "NewGame",
       "url": "https://open.spotify.com/track/3C30FJacKSEVBBgOkR8ctM"
+    },
+    {
+      "album": {
+        "name": "NEXT CARD",
+        "url": "https://open.spotify.com/album/6Y0QVClF7QrsHBvi3NMwO6"
+      },
+      "artists": [
+        {
+          "name": "AiScReam",
+          "url": "https://open.spotify.com/artist/5cW1SVDUXXzsj3eFT7Gmta"
+        }
+      ],
+      "date_added": "2026-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192859,
+      "name": "NEXT CARD",
+      "url": "https://open.spotify.com/track/6rZlzao97RWwllySqCEsDw"
     },
     {
       "album": {
@@ -33163,6 +33181,24 @@
     },
     {
       "album": {
+        "name": "\u30ad\u30e5\u30fc\u30c8\u306a\u30ad\u30e5\u30fc\u305f\u3044 / \u30ca\u30a4\u30b9\u3060\u306d",
+        "url": "https://open.spotify.com/album/5QyLCkfnwgEYLaf2ji21or"
+      },
+      "artists": [
+        {
+          "name": "CUTIE STREET",
+          "url": "https://open.spotify.com/artist/3PLCOySHJ9zwED5yZvDtPZ"
+        }
+      ],
+      "date_added": "2026-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236000,
+      "name": "\u30ad\u30e5\u30fc\u30c8\u306a\u30ad\u30e5\u30fc\u305f\u3044",
+      "url": "https://open.spotify.com/track/73rdU71fLEd0nW7HENRhKF"
+    },
+    {
+      "album": {
         "name": "\u30ad\u30e7\u30ea\u611f",
         "url": "https://open.spotify.com/album/2NfyjfSfTz6L1X16qxT0hq"
       },
@@ -35014,6 +35050,32 @@
       "duration_ms": 231886,
       "name": "\u30b9\u30fc\u30d1\u30fc\u30b9\u30bf\u30fc!!",
       "url": "https://open.spotify.com/track/5advyz09kWU8YaumAT5QV8"
+    },
+    {
+      "album": {
+        "name": "\u30bb\u30ab\u30a4\u30c4\u30ca\u30ac\u30ec",
+        "url": "https://open.spotify.com/album/6fkTCI9ds3hVBzv0FpD9pV"
+      },
+      "artists": [
+        {
+          "name": "HoneyWorks",
+          "url": "https://open.spotify.com/artist/40oxjbVm3kdeyJEiGsKrmd"
+        },
+        {
+          "name": "\u30ea\u30b3(CV:\u9234\u6728\u307f\u306e\u308a)",
+          "url": "https://open.spotify.com/artist/41iMg7aLYR9zoeTg3YG83s"
+        },
+        {
+          "name": "\u30ed\u30a4(CV:\u5bfa\u5d0e\u88d5\u9999)",
+          "url": "https://open.spotify.com/artist/7KHjxPdqQu8j5gigNdrZEi"
+        }
+      ],
+      "date_added": "2026-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213920,
+      "name": "\u30bb\u30ab\u30a4\u30c4\u30ca\u30ac\u30ec",
+      "url": "https://open.spotify.com/track/1QFHK7UfVpopTypPcg7zEp"
     },
     {
       "album": {
@@ -37488,7 +37550,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-27",
       "duration_ms": 257986,
       "name": "\u30dd\u30b1\u30e2\u30f3\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba1025 (213/1025)",
       "url": "https://open.spotify.com/track/3SCivGWuY95FJmXyGWaGDp"

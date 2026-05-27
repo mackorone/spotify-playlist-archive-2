@@ -510,10 +510,28 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-27",
       "duration_ms": 195298,
       "name": "Between You & Me",
       "url": "https://open.spotify.com/track/4wwrvn78l9BqCR00jhl043"
+    },
+    {
+      "album": {
+        "name": "Betty",
+        "url": "https://open.spotify.com/album/57YwDLyNeobBmbVfcOhLx4"
+      },
+      "artists": [
+        {
+          "name": "Betty Who",
+          "url": "https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB"
+        }
+      ],
+      "date_added": "2026-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195298,
+      "name": "Between You & Me",
+      "url": "https://open.spotify.com/track/6M0Y1H9RRUNLQwQMK0ygTD"
     },
     {
       "album": {

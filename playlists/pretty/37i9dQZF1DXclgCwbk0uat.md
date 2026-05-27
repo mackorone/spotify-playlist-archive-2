@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXclgCwbk0uat.md) - [plain]
 
 > ¡Escucha los éxitos de hoy! <br/>Foto: Kidd Voodoo
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,002,430 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,002,401 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Incondicional](https://open.spotify.com/track/0ccQ1CddR2I7vDaA9GoqZA) | [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Euforia](https://open.spotify.com/album/4DxyXoUaJ7fYUAC0FyShHI) | 4:16 |
-| 2 | [De Lejitos](https://open.spotify.com/track/3r2ZoCWlf9RewWlxxozfQ8) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [De Lejitos](https://open.spotify.com/album/4LsQOT9fxqBpZLVLV9Ib55) | 3:27 |
-| 3 | [POLLYPOCKET](https://open.spotify.com/track/0zGd3VAcooAZEKbSu5LETG) | [Martinwhite](https://open.spotify.com/artist/1PANUPmT5KUDGs3Xgkhw3T), [Katteyes](https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9) | [POLLYPOCKET](https://open.spotify.com/album/44LjdzXoDhXby4wzzfT8CD) | 2:32 |
-| 4 | [DUBAI](https://open.spotify.com/track/19AXdmWfIDChkG3Yw4We41) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Jairo Vera](https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc), [Gittobeatz](https://open.spotify.com/artist/4rRwh9ghjocFABAwIwnunp) | [DUBAI](https://open.spotify.com/album/34FICOMIaiIQXWb5czgi1o) | 2:43 |
-| 5 | [Medellin](https://open.spotify.com/track/3tXUrEg1wx5U8fZhDI12vh) | [1717177x](https://open.spotify.com/artist/5uIvZ6y0SpfMHObdzv5FMp) | [Medellin](https://open.spotify.com/album/1s8ffqrDaNiPKp3ZOGVAcv) | 2:18 |
+| 2 | [Q Hubo Amor \(Medellín\)](https://open.spotify.com/track/0HHRmqcKYBUAsMXgXdvxx8) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Q Hubo Amor \(Medellín\)](https://open.spotify.com/album/7lNBB4Mr7IaN4CYh6lQL2o) | 2:52 |
+| 3 | [De Lejitos](https://open.spotify.com/track/3r2ZoCWlf9RewWlxxozfQ8) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [De Lejitos](https://open.spotify.com/album/4LsQOT9fxqBpZLVLV9Ib55) | 3:27 |
+| 4 | [POLLYPOCKET](https://open.spotify.com/track/0zGd3VAcooAZEKbSu5LETG) | [Martinwhite](https://open.spotify.com/artist/1PANUPmT5KUDGs3Xgkhw3T), [Katteyes](https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9) | [POLLYPOCKET](https://open.spotify.com/album/44LjdzXoDhXby4wzzfT8CD) | 2:32 |
+| 5 | [DUBAI](https://open.spotify.com/track/19AXdmWfIDChkG3Yw4We41) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Jairo Vera](https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc), [Gittobeatz](https://open.spotify.com/artist/4rRwh9ghjocFABAwIwnunp) | [DUBAI](https://open.spotify.com/album/34FICOMIaiIQXWb5czgi1o) | 2:43 |
 | 6 | [KOKO](https://open.spotify.com/track/1tz7RZirwiuaJw2p0jbdHb) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [POR SI MAÑANA NO ESTOY](https://open.spotify.com/album/6A7uWpBb4nHbiBHWRlZi5f) | 3:15 |
 | 7 | [PATEK PHILIPPE](https://open.spotify.com/track/2KTELz5yDBJXUpTe8skjes) | [Lucky Brown](https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM), [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9) | [Color de Rosa](https://open.spotify.com/album/26s4ZoQn6uOCnTKaKsvKTf) | 2:07 |
 | 8 | [Dando Vueltas](https://open.spotify.com/track/7CzjUysf1fRnpX6aseOlts) | [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4), [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Dando Vueltas](https://open.spotify.com/album/7wYT2QR0HAARGKAbZR0xTk) | 3:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXclgCwbk0uat.md) - [plain]
 | 49 | [Tiene](https://open.spotify.com/track/1KfiYYMCZkP7no8DdkXFDl) | [Tobal Mj](https://open.spotify.com/artist/2BJWqrBKEqtZUKWtzmpPDj), [Lucky Brown](https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM), [Nacho G Flow](https://open.spotify.com/artist/6RGDPzIqEVP895rTeeYk2Q) | [Tiene](https://open.spotify.com/album/2ZVvRVuoh9lnke6EO9zDdt) | 3:45 |
 | 50 | [Hooligan](https://open.spotify.com/track/20dAJsyno9ZoBLJtqgQnUI) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h) | 3:02 |
 
-Snapshot ID: `AAAAAJAy7uFZtce0jt8PpZTlgwKi9+tP`
+Snapshot ID: `AAAAABskzOKCFMpxSsE93/AGcCX5atW7`

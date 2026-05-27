@@ -1,6 +1,6 @@
 {
   "description": "A new world of alternative electronic music. Cover: Surusinghe",
-  "num_followers": 129742,
+  "num_followers": 129740,
   "original_name": "Portal",
   "owner": {
     "name": "Spotify",
@@ -351,22 +351,6 @@
     {
       "added_at": "2026-05-06 00:22:41",
       "album": {
-        "name": "Archangel",
-        "url": "https://open.spotify.com/album/2EEBcfRDbyyZQDESqiT48d"
-      },
-      "artists": [
-        {
-          "name": "KETTAMA",
-          "url": "https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4"
-        }
-      ],
-      "duration_ms": 281500,
-      "name": "Man With a Second Face",
-      "url": "https://open.spotify.com/track/2vf8mbUbkwCMnW1jqRcKSO"
-    },
-    {
-      "added_at": "2026-05-06 00:22:41",
-      "album": {
         "name": "Tastes Like The 90s",
         "url": "https://open.spotify.com/album/0IZhc4XwdP5S3HADTrddV1"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 201247,
       "name": "Old' On",
       "url": "https://open.spotify.com/track/38zrbBzmIUC4OPL2NUBx4n"
+    },
+    {
+      "added_at": "2026-05-06 00:22:41",
+      "album": {
+        "name": "Archangel",
+        "url": "https://open.spotify.com/album/2EEBcfRDbyyZQDESqiT48d"
+      },
+      "artists": [
+        {
+          "name": "KETTAMA",
+          "url": "https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4"
+        }
+      ],
+      "duration_ms": 281500,
+      "name": "Man With a Second Face",
+      "url": "https://open.spotify.com/track/2vf8mbUbkwCMnW1jqRcKSO"
     },
     {
       "added_at": "2026-05-06 00:22:41",
@@ -607,26 +607,6 @@
     {
       "added_at": "2026-05-06 00:22:41",
       "album": {
-        "name": "Tracks of the Blue Sky",
-        "url": "https://open.spotify.com/album/5kCSdyvAeUACIFEspLwr83"
-      },
-      "artists": [
-        {
-          "name": "Demm Deep",
-          "url": "https://open.spotify.com/artist/1MzQYOcw4DMB9ISBhZTa7g"
-        },
-        {
-          "name": "Junes UB",
-          "url": "https://open.spotify.com/artist/32nH6vaVKn3iDyEYdlcBi5"
-        }
-      ],
-      "duration_ms": 199138,
-      "name": "Brazilian Sky",
-      "url": "https://open.spotify.com/track/5KF3ijg71YSKszvHuHdfZA"
-    },
-    {
-      "added_at": "2026-05-06 00:22:41",
-      "album": {
         "name": "Heaven Scent",
         "url": "https://open.spotify.com/album/4ZkLW5cSNvLXZC2pmRxLdV"
       },
@@ -643,6 +623,26 @@
       "duration_ms": 283424,
       "name": "Heaven Scent",
       "url": "https://open.spotify.com/track/4VY9yQMuC8izfcybXmhYOY"
+    },
+    {
+      "added_at": "2026-05-06 00:22:41",
+      "album": {
+        "name": "Tracks of the Blue Sky",
+        "url": "https://open.spotify.com/album/5kCSdyvAeUACIFEspLwr83"
+      },
+      "artists": [
+        {
+          "name": "Demm Deep",
+          "url": "https://open.spotify.com/artist/1MzQYOcw4DMB9ISBhZTa7g"
+        },
+        {
+          "name": "Junes UB",
+          "url": "https://open.spotify.com/artist/32nH6vaVKn3iDyEYdlcBi5"
+        }
+      ],
+      "duration_ms": 199138,
+      "name": "Brazilian Sky",
+      "url": "https://open.spotify.com/track/5KF3ijg71YSKszvHuHdfZA"
     },
     {
       "added_at": "2026-05-06 00:22:41",
@@ -881,6 +881,22 @@
       "url": "https://open.spotify.com/track/4i2PhAH8B2dOtPsRY5EluD"
     },
     {
+      "added_at": "2026-05-21 14:00:31",
+      "album": {
+        "name": "Spiralen",
+        "url": "https://open.spotify.com/album/1kEZXSkIPpoDcjEMsJVQLJ"
+      },
+      "artists": [
+        {
+          "name": "DJ Koze",
+          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
+        }
+      ],
+      "duration_ms": 437809,
+      "name": "Spiralen",
+      "url": "https://open.spotify.com/track/03ra0kWWPT8fW3sy6onMfc"
+    },
+    {
       "added_at": "2026-05-06 00:22:41",
       "album": {
         "name": "Who Are They?",
@@ -911,22 +927,6 @@
       "duration_ms": 286274,
       "name": "Birth4000",
       "url": "https://open.spotify.com/track/658gtQhSGDuPtIlpCSqNek"
-    },
-    {
-      "added_at": "2026-05-06 00:22:41",
-      "album": {
-        "name": "Fuck My Computer",
-        "url": "https://open.spotify.com/album/1oX8Dje3jHWVmKNfTbzrcy"
-      },
-      "artists": [
-        {
-          "name": "Ninajirachi",
-          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
-        }
-      ],
-      "duration_ms": 190577,
-      "name": "Fuck My Computer",
-      "url": "https://open.spotify.com/track/2Gt39sy5hTo4huF2Og9XEj"
     }
   ],
   "unique_name": "Portal",

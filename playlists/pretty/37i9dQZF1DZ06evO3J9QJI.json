@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahI/gAAAAABSXXLjpiBuK4cWa7tsEpVF",
+  "snapshot_id": "ahORAAAAAAAKkP6PpjMYVlewE3KsCTsz",
   "tracks": [
     {
       "added_at": null,
@@ -108,21 +108,21 @@
       },
       "artists": [
         {
-          "name": "Vita",
-          "url": "https://open.spotify.com/artist/3ot6fEzKvRrCnWy5BWlnxU"
-        },
-        {
           "name": "Irv Gotti",
           "url": "https://open.spotify.com/artist/6jBZBnyIYxyLIEFp6f2SbF"
         },
         {
-          "name": "Ronny Bumps",
-          "url": "https://open.spotify.com/artist/7ixk3IjGehM3J3LBrmtstu"
+          "name": "Chink Santana",
+          "url": "https://open.spotify.com/artist/2bm08yVyWSeEOygeQw8USU"
+        },
+        {
+          "name": "Caddillac Tah",
+          "url": "https://open.spotify.com/artist/4a7eqaOZbZrEj2J37FzJvl"
         }
       ],
-      "duration_ms": 233773,
-      "name": "Here We Come",
-      "url": "https://open.spotify.com/track/0TeEO7pnnKr9OnHyfCE3Hg"
+      "duration_ms": 278200,
+      "name": "Intro (Various Artists/Irv Gotti Presents... The Inc.)",
+      "url": "https://open.spotify.com/track/2nQvUJgNFgvdYGwGtLUUKh"
     },
     {
       "added_at": null,
@@ -170,11 +170,19 @@
         {
           "name": "Irv Gotti",
           "url": "https://open.spotify.com/artist/6jBZBnyIYxyLIEFp6f2SbF"
+        },
+        {
+          "name": "Caddillac Tah",
+          "url": "https://open.spotify.com/artist/4a7eqaOZbZrEj2J37FzJvl"
+        },
+        {
+          "name": "Black Child",
+          "url": "https://open.spotify.com/artist/6X2NavlZruxomYkfSaZiwN"
         }
       ],
-      "duration_ms": 42826,
-      "name": "Boss - Skit",
-      "url": "https://open.spotify.com/track/2x81bnQVQEqhV0IWIbsMQk"
+      "duration_ms": 169560,
+      "name": "O.G. - Remix",
+      "url": "https://open.spotify.com/track/6HWd3U8RC5hXcfj3c3Snfn"
     },
     {
       "added_at": null,
@@ -184,21 +192,21 @@
       },
       "artists": [
         {
+          "name": "Vita",
+          "url": "https://open.spotify.com/artist/3ot6fEzKvRrCnWy5BWlnxU"
+        },
+        {
           "name": "Irv Gotti",
           "url": "https://open.spotify.com/artist/6jBZBnyIYxyLIEFp6f2SbF"
         },
         {
-          "name": "Chink Santana",
-          "url": "https://open.spotify.com/artist/2bm08yVyWSeEOygeQw8USU"
-        },
-        {
-          "name": "Caddillac Tah",
-          "url": "https://open.spotify.com/artist/4a7eqaOZbZrEj2J37FzJvl"
+          "name": "Ronny Bumps",
+          "url": "https://open.spotify.com/artist/7ixk3IjGehM3J3LBrmtstu"
         }
       ],
-      "duration_ms": 278200,
-      "name": "Intro (Various Artists/Irv Gotti Presents... The Inc.)",
-      "url": "https://open.spotify.com/track/2nQvUJgNFgvdYGwGtLUUKh"
+      "duration_ms": 233773,
+      "name": "Here We Come",
+      "url": "https://open.spotify.com/track/0TeEO7pnnKr9OnHyfCE3Hg"
     },
     {
       "added_at": null,
@@ -250,19 +258,11 @@
         {
           "name": "Irv Gotti",
           "url": "https://open.spotify.com/artist/6jBZBnyIYxyLIEFp6f2SbF"
-        },
-        {
-          "name": "Caddillac Tah",
-          "url": "https://open.spotify.com/artist/4a7eqaOZbZrEj2J37FzJvl"
-        },
-        {
-          "name": "Black Child",
-          "url": "https://open.spotify.com/artist/6X2NavlZruxomYkfSaZiwN"
         }
       ],
-      "duration_ms": 169560,
-      "name": "O.G. - Remix",
-      "url": "https://open.spotify.com/track/6HWd3U8RC5hXcfj3c3Snfn"
+      "duration_ms": 42826,
+      "name": "Boss - Skit",
+      "url": "https://open.spotify.com/track/2x81bnQVQEqhV0IWIbsMQk"
     },
     {
       "added_at": null,

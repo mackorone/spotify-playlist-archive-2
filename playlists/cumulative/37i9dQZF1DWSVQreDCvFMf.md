@@ -4,7 +4,7 @@
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: ALYSON
 
-920 songs - 2 day 8 hr 51 min
+921 songs - 2 day 8 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -342,6 +342,7 @@
 | [Isang Sandali Pa](https://open.spotify.com/track/48SAJX6sI7Xaeb3XH3jp84) | [Leona](https://open.spotify.com/artist/40ulg2TTFpUOcGVyDu6iJO) | [Isang Sandali Pa](https://open.spotify.com/album/4T8DskzUA83SVvfJyrCymc) | 3:25 | 2026-03-09 | 2026-05-02 |
 | [Janice](https://open.spotify.com/track/0BewsYUbEIKdJmdap9oI7V) | [Dilaw](https://open.spotify.com/artist/6Dp4LInLyMVA2qhRqQ6AGL) | [Janice](https://open.spotify.com/album/1jUJQ4XUDTbGTq1hR33fR6) | 3:55 | 2024-07-02 | 2024-09-07 |
 | [jeep](https://open.spotify.com/track/5NgjXaVAsC3JIia1h9cxcG) | [rhodessa](https://open.spotify.com/artist/0XRPxTyrrVeDXLt6Wxw4UD) | [jeep](https://open.spotify.com/album/6WeVmgeFWZrMQAQBNHszqx) | 4:21 | 2024-10-04 | 2025-02-01 |
+| [JUSKO](https://open.spotify.com/track/6wFx1e82tdJK2bunrLgFjP) | [Mikee Sarmiento](https://open.spotify.com/artist/48rxnfZyO2oDLWaSaqgocx) | [JUSKO](https://open.spotify.com/album/4knGkF82Pdwi44mxiD0Xn5) | 3:01 | 2026-05-26 |  |
 | [just a song](https://open.spotify.com/track/29vLvd8V6Sg8OTbmWSNh71) | [Paolo Sandejas](https://open.spotify.com/artist/7aerdWadzubpu06Oxysg6R) | [just a song](https://open.spotify.com/album/2pcHVAGuqGS3A6p2JVGjCk) | 4:59 | 2024-10-18 | 2025-02-01 |
 | [K](https://open.spotify.com/track/78VwTvhDEgUe4etkxPyrMN) | [Eliza Maturan](https://open.spotify.com/artist/3C1ER0cuXc8dLtaI8RvLI6) | [K](https://open.spotify.com/album/5YxEY0VbeXcdmha670Hh6s) | 3:45 | 2025-03-28 | 2025-06-21 |
 | [Kaakit\-akit](https://open.spotify.com/track/6GPfKhdih8hhpC0MJXDu6G) | [Over October](https://open.spotify.com/artist/1hMAGfvamVXuSWBFQRFMeq) | [Kaakit\-akit](https://open.spotify.com/album/1CMNY2NlvTax6Tkb2X2ov2) | 4:06 | 2024-07-19 | 2024-11-09 |

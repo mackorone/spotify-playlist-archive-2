@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 
 > beautiful music that you can put on repeat
 
-[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 459 likes - 441 songs - 22 hr 15 min
+[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 459 likes - 445 songs - 22 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -449,5 +449,9 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 | 439 | [RUN IN THE WILD](https://open.spotify.com/track/4msWeNCVs5VtN2LcsbquH0) | [Miguel Divo](https://open.spotify.com/artist/3d5rFUrF9JeZTrulYoy8RY), [Jonnie Jupiter](https://open.spotify.com/artist/3EKsSsO1ne18gxzTHFmy6f) | [RUN IN THE WILD](https://open.spotify.com/album/3D1qkALCKgVVsyNZWhdkIr) | 7:22 |
 | 440 | [Rijmroepers](https://open.spotify.com/track/3YeZiX8DvV5h5RhiattMlY) | [Fijnproeverz](https://open.spotify.com/artist/3sV1Ese7wuMcBnfgpvwEV3), [Konstrukto](https://open.spotify.com/artist/3egDHOK0AUguQFMyCkKtoO), [LDB](https://open.spotify.com/artist/4OPzEBvFfoqsHgZ8ikuo1a), [Justus](https://open.spotify.com/artist/7lhtDGzUYStlW9LbsvwJYl), [Blits](https://open.spotify.com/artist/0mOQn2z1c9Aln8i0DJuNez) | [Tafelmanieren](https://open.spotify.com/album/0fJS0zz6IQ1HTO8qN9zShc) | 3:38 |
 | 441 | [Kraslot](https://open.spotify.com/track/1uWgGViVYYqfo71rmZpOvY) | [Fijnproeverz](https://open.spotify.com/artist/3sV1Ese7wuMcBnfgpvwEV3), [Blits](https://open.spotify.com/artist/0mOQn2z1c9Aln8i0DJuNez), [Konstrukto](https://open.spotify.com/artist/3egDHOK0AUguQFMyCkKtoO), [Skinny Bonez Tha Godfatha](https://open.spotify.com/artist/2NYrzwv4HQ9w2uuBUfOq5q) | [Kraslot](https://open.spotify.com/album/7exBbjgAfehvnt6E0ougnz) | 3:09 |
+| 442 | [How I Do](https://open.spotify.com/track/43nUq2roU0UbQOSGMH10DO) | [Amo G](https://open.spotify.com/artist/1OJejfvmJTuDp8RwUhmjo1) | [How I Do](https://open.spotify.com/album/4wzxN00Ejtf0k5G1TKgWBu) | 2:17 |
+| 443 | [dirt](https://open.spotify.com/track/0nAaYfzBYIiejTetZbDmrh) | [phiia](https://open.spotify.com/artist/4POwle9ofOoqfiZTAednVb) | [dirt](https://open.spotify.com/album/2xLezujQqsKsJ2FClwFHGR) | 3:12 |
+| 444 | [FREERAERAE](https://open.spotify.com/track/0xwttkGbl2pUusxmIHBwjT) | [Wravth](https://open.spotify.com/artist/0W5AVqvdvX4m9oXlnjELoz) | [FREERAERAE](https://open.spotify.com/album/1s8ao87bk5Zqsy3ZuiWBgo) | 2:20 |
+| 445 | [Poor](https://open.spotify.com/track/5BfUt2GUQD1ySNhadHSsFr) | [Nathaniel Bawden](https://open.spotify.com/artist/2Bqs2btB0esnZVHqHYU2aA) | [Poor](https://open.spotify.com/album/4q3IpWkAvxIlVelYNC0MPG) | 3:18 |
 
-Snapshot ID: `AAAcYarqYmsTu00cZN+uNB4EUloQ624o`
+Snapshot ID: `AAAcZW027mehmvljHZA0mRsL0L9AMs8x`

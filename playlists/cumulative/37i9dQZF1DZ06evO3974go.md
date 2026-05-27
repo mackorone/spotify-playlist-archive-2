@@ -4,7 +4,7 @@
 
 > This is Rich Homie Quan\. The essential tracks, all in one playlist.
 
-82 songs - 4 hr 51 min
+83 songs - 4 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [She wit the Shit \(feat\. Rich Homie Quan\)](https://open.spotify.com/track/74VrXbBnhFTVY6lXVT64YZ) | [Tank](https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l), [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Sex, Love & Pain II](https://open.spotify.com/album/58WvlSmvoKkrvUuZHw322D) | 3:37 | 2026-03-09 | 2026-03-15 |
 | [Song Cry](https://open.spotify.com/track/0OAKpmhof8rDnV9j91XxUl) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Song Cry](https://open.spotify.com/album/7ykcCIJqdcbmAS6GZ6xypx) | 2:49 | 2024-09-21 | 2026-05-25 |
 | [Spin](https://open.spotify.com/track/0NfuWZ3s2vWWyiNgNX9F5G) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Family & Mula \- Reloaded](https://open.spotify.com/album/3d6AohullgUBSkExjKWHf0) | 3:31 | 2024-09-08 | 2024-10-11 |
+| [Still Dead](https://open.spotify.com/track/137EDAXjvEQSjMFDDQ3SfZ) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Still Dead](https://open.spotify.com/album/5Aqj31jPQAuQmsgiIyJ78V) | 2:08 | 2026-05-27 |  |
 | [Still Sinning](https://open.spotify.com/track/3Z4rJ9p17DwHieAEYE2b2F) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Still Sinning](https://open.spotify.com/album/28BLEt8xrnPe59JC2YQspa) | 2:56 | 2024-09-07 | 2025-09-26 |
 | [Stressed](https://open.spotify.com/track/3XO41ZKnULP1KIhoLgnBzG) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Coma](https://open.spotify.com/album/5IwKLJtOvYIc6wPxHXdKDd) | 3:30 | 2024-09-07 |  |
 | [Suffocating](https://open.spotify.com/track/3VCWEq0O2sacNcPeIqWbnX) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Forever Goin In](https://open.spotify.com/album/2ckUVZOABzUQhe3nwihUrh) | 1:55 | 2024-10-11 | 2025-01-11 |
@@ -86,7 +87,7 @@
 | [Unlimited Budget](https://open.spotify.com/track/2HJMz5sKM456DXFNSk8Wz3) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Forever Goin In](https://open.spotify.com/album/2ckUVZOABzUQhe3nwihUrh) | 2:21 | 2024-10-07 | 2025-02-05 |
 | [Up Up And Away](https://open.spotify.com/track/2VBerpaTuZ0WXBREhe5eYw) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT), [Birdman](https://open.spotify.com/artist/35sCXuy5gN6Or69rZ9vqBs), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [RG2](https://open.spotify.com/album/2ppw6DFuPFHi4EOGLxHX2F) | 4:00 | 2026-03-22 |  |
 | [Walk Thru \(feat\. Problem\)](https://open.spotify.com/track/5259GVdvIOBkcqo6L2i9qw) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [I Promise I Will Never Stop Going In \(Deluxe Edition\)](https://open.spotify.com/album/2swWrUelezIoSdBWStNisb) | 3:07 | 2024-09-07 |  |
-| [We Good](https://open.spotify.com/track/11B2LpmjMH4BH1XwynLT9R) | [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy), [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [The Young OG Project](https://open.spotify.com/album/6x0bSKJ5z02Z5QsSPs9jg9) | 4:16 | 2024-09-07 |  |
+| [We Good](https://open.spotify.com/track/11B2LpmjMH4BH1XwynLT9R) | [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy), [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [The Young OG Project](https://open.spotify.com/album/6x0bSKJ5z02Z5QsSPs9jg9) | 4:16 | 2024-09-07 | 2026-05-27 |
 | [Word Around Town \(feat\. Rich Homie Quan\)](https://open.spotify.com/track/3FvVE0YTeiCFkThIT1nmTL) | [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe), [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Luca Brasi 2: Gangsta Grillz](https://open.spotify.com/album/4if4IsX36odNlcZF2kqgt3) | 3:11 | 2024-09-07 |  |
 | [WWYD](https://open.spotify.com/track/0HnXG2HfMQcsH4ab70JBX3) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [I Promise I Will Never Stop Going In \(Deluxe Edition\)](https://open.spotify.com/album/2swWrUelezIoSdBWStNisb) | 3:29 | 2024-09-07 |  |
 | [Wyb Quan](https://open.spotify.com/track/1aqBIKr0HZXaCFLGxj2RwQ) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT), [Quicktrip](https://open.spotify.com/artist/0G4e25O0rYC7iFkzYWWzbN) | [Forever Goin In](https://open.spotify.com/album/2ckUVZOABzUQhe3nwihUrh) | 3:22 | 2024-10-09 | 2025-05-16 |

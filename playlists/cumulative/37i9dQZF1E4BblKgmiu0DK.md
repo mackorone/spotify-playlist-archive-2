@@ -4,7 +4,7 @@
 
 > With Tssara, Crimson ValkyRies, Die Mannequin and more
 
-504 songs - 1 day 2 hr 46 min
+505 songs - 1 day 2 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Bad Fit](https://open.spotify.com/track/4vCgUOSK4Netdnut3HJbWX) | [About Bunny](https://open.spotify.com/artist/5Ywb0MRsHQdzngYBTZyuf9) | [Bad Fit](https://open.spotify.com/album/7EFu9KAZKLFvaFaw5hRkj6) | 3:14 | 2026-03-17 | 2026-05-07 |
 | [Bad Housewife Puppet](https://open.spotify.com/track/4DXajCGMerUqdFHVQAKFc2) | [Sarrenna](https://open.spotify.com/artist/60OVxvh5mtOFyXnbvYp2vW) | [Bad Housewife Puppet](https://open.spotify.com/album/6OGsrQHZTKcOhOfDJZ0NFd) | 3:14 | 2025-12-12 | 2026-01-15 |
 | [Bad Imprint](https://open.spotify.com/track/6Zqq753FL4ksrUPG8IDgR3) | [Fate's Bounty](https://open.spotify.com/artist/7EGMkIIoJ8HY6FajAxjm0c) | [House of Cards](https://open.spotify.com/album/2wIWvrYybBGoBTQZcrdDDP) | 2:34 | 2026-03-28 | 2026-04-07 |
-| [Bad Medicine](https://open.spotify.com/track/1PQbJ1dzfFfN8tOYKj3KsO) | [Die Mannequin](https://open.spotify.com/artist/4dsQdwx28xN2CRQn39V66C) | [FINO + BLEED](https://open.spotify.com/album/2BhBF3MkIPQiUroerXpjNA) | 3:29 | 2026-03-02 |  |
+| [Bad Medicine](https://open.spotify.com/track/1PQbJ1dzfFfN8tOYKj3KsO) | [Die Mannequin](https://open.spotify.com/artist/4dsQdwx28xN2CRQn39V66C) | [FINO + BLEED](https://open.spotify.com/album/2BhBF3MkIPQiUroerXpjNA) | 3:29 | 2026-03-02 | 2026-05-27 |
 | [Bandages](https://open.spotify.com/track/5cFTbfGt6A1t0vXl5hGHKH) | [Dead Code Romance](https://open.spotify.com/artist/0FWI5aCHKnGpEm9IdmXvoJ) | [Higher Than I Can Stand](https://open.spotify.com/album/1riNB9T1EODiimvfA9DiTt) | 3:34 | 2026-04-22 | 2026-05-04 |
 | [Beat Backwards](https://open.spotify.com/track/6H3YZW5aRxzZliGJjb0vlw) | [Renee Cassar](https://open.spotify.com/artist/5HZGH1vb26Yn4T6ec1Rcft) | [NIVEA Young Music compilation](https://open.spotify.com/album/17G9PQh01M2hgWt61b54pw) | 3:35 | 2025-11-19 |  |
 | [Beat Me Up](https://open.spotify.com/track/6iQ6uu9FSWPbt6BuX0XsjU) | [Allison Iraheta](https://open.spotify.com/artist/48E5csclQ92SrzSRQmEeC4) | [Just Like You](https://open.spotify.com/album/4CaDpxdeAQMrhuS5jBfEhE) | 2:44 | 2026-04-03 | 2026-05-17 |
@@ -179,7 +179,7 @@
 | [Full of Hate](https://open.spotify.com/track/784dUX0QsFOPg9gNI1U3E2) | [Ciclobeat](https://open.spotify.com/artist/1XuTB7ixrbW3YSTMcI0QJN) | [Full of Hate](https://open.spotify.com/album/0mP35D4ldWOZqRZps7a4np) | 2:51 | 2025-12-11 | 2026-02-14 |
 | [Functional Freeze](https://open.spotify.com/track/0pS2PV0j514rQM9O9SlDwP) | [Izzy and the Black Trees](https://open.spotify.com/artist/4ovgRYo5Ud9pCee7LoD2B3) | [Kisses to Chaos](https://open.spotify.com/album/5TevfgUiMg5KtkCK8ukrU4) | 3:25 | 2026-03-04 | 2026-03-13 |
 | [Funeral Of A Good Grrl](https://open.spotify.com/track/2UOEWzQIGIwxxBdT64ZV8J) | [Bif Naked](https://open.spotify.com/artist/02odAcSXGSPTSO4P44Ztuw) | [Superbeautifulmonster](https://open.spotify.com/album/7j1wE833kH2Bezi7W7nLyx) | 2:36 | 2026-04-12 | 2026-05-10 |
-| [Genevieve](https://open.spotify.com/track/3C85PexccMkdnlojcc3TCw) | [Hooked Like Helen](https://open.spotify.com/artist/4cZ0bm1KGhpaYNQ61oST96) | [Genevieve](https://open.spotify.com/album/3ovl7b7DdPmeR35W3M2etO) | 3:26 | 2026-05-23 |  |
+| [Genevieve](https://open.spotify.com/track/3C85PexccMkdnlojcc3TCw) | [Hooked Like Helen](https://open.spotify.com/artist/4cZ0bm1KGhpaYNQ61oST96) | [Genevieve](https://open.spotify.com/album/3ovl7b7DdPmeR35W3M2etO) | 3:26 | 2026-05-23 | 2026-05-27 |
 | [Get Ready](https://open.spotify.com/track/1qoFd6Z4dat4ccN8nIdCm0) | [Juliet Simms](https://open.spotify.com/artist/1hlXIybvN1I8r3ooBEkYRh) | [From the Grave](https://open.spotify.com/album/5DZwggP6PDtv9VMkAmpAsD) | 2:53 | 2025-11-20 | 2026-03-17 |
 | [Get Weird](https://open.spotify.com/track/3Wkni7PSIfbHRThUDI8QT1) | [The Dollyrots](https://open.spotify.com/artist/1TrzTUgWQlVRkoVGR0L7jy) | [Barefoot and Pregnant](https://open.spotify.com/album/5luiVWBFpAODZvAFZhwb24) | 3:13 | 2026-04-09 | 2026-04-10 |
 | [Get You Off](https://open.spotify.com/track/0ZgaHE56xKJQhV2wroTuH5) | [Fefe Dobson](https://open.spotify.com/artist/0mzTssRDPIQVH5wSNzOdFZ) | [Sunday Love](https://open.spotify.com/album/4LFgpooWdKKkdaFPLNhHWU) | 3:49 | 2026-02-18 | 2026-04-15 |
@@ -247,7 +247,7 @@
 | [In My Head](https://open.spotify.com/track/047s5yGstJlx2zQKy4cJP0) | [Rachel Lipsky](https://open.spotify.com/artist/72lIB60favYLpw2JC97iFE) | [In My Head](https://open.spotify.com/album/1TL6435AGMCwkTIXzXUhA7) | 3:08 | 2026-05-16 |  |
 | [Irish Goodbye](https://open.spotify.com/track/5kl6GxCwZSIXpIjaDCKZjT) | [NXXT Sarcasm](https://open.spotify.com/artist/5kqvbA8fTo1cDKrlxbg7nn) | [Error 404: Patience Not Found](https://open.spotify.com/album/50apzoCURxhJuxqF1ndshG) | 2:52 | 2026-02-19 | 2026-04-18 |
 | [It Is What It Is](https://open.spotify.com/track/7gp4yIc2FS3UDBOXHNBver) | [Funky Uncle Charlies Kittens](https://open.spotify.com/artist/0WvvSRkfVDtAnZ0TRCjs2c) | [It Is What It Is](https://open.spotify.com/album/5KFSqxPZRgKp0BS8pHWKIM) | 4:23 | 2026-03-18 | 2026-04-08 |
-| [It Takes One to Know One](https://open.spotify.com/track/6LQh4FDK5DkK1XNkN0wvup) | [The Donnas](https://open.spotify.com/artist/2c0qomdZabcCyqTZ5M9msd) | [Gold Medal \(U.S\. Version 83770\)](https://open.spotify.com/album/4XoZkJosiyfetLAe6FQ9KF) | 2:58 | 2025-11-22 | 2026-05-25 |
+| [It Takes One to Know One](https://open.spotify.com/track/6LQh4FDK5DkK1XNkN0wvup) | [The Donnas](https://open.spotify.com/artist/2c0qomdZabcCyqTZ5M9msd) | [Gold Medal \(U.S\. Version 83770\)](https://open.spotify.com/album/4XoZkJosiyfetLAe6FQ9KF) | 2:58 | 2025-11-22 |  |
 | [It's My Life](https://open.spotify.com/track/4NtZFmh1EST9OMwgfXaMwU) | [Cilver](https://open.spotify.com/artist/5fpD3Iuy3RvPzcbWiekX7h) | [Not The End Of The World](https://open.spotify.com/album/5R60KSP6KteDQOmbUfmrA4) | 3:39 | 2026-04-29 | 2026-05-05 |
 | [It's Not You](https://open.spotify.com/track/6RjSUGBSoURetoxEdJ5JPE) | [Renee Cassar](https://open.spotify.com/artist/5HZGH1vb26Yn4T6ec1Rcft) | [It's Not You](https://open.spotify.com/album/4P0JdSMtYHe9iUTYTxcNuD) | 3:33 | 2025-11-19 |  |
 | [It's Not You \- SC Radio Mix](https://open.spotify.com/track/1gswIHZ2LUd4YYTo2Rw5CV) | [Renee Cassar](https://open.spotify.com/artist/5HZGH1vb26Yn4T6ec1Rcft) | [It's Not You \(SC Radio Mix\)](https://open.spotify.com/album/1JDlPO6TgnZGI1dXPOqbut) | 3:33 | 2025-11-21 | 2026-05-02 |
@@ -373,6 +373,7 @@
 | [Party in Hell](https://open.spotify.com/track/4TOVRQJy5GhBpDbXV6BR8t) | [The Soap Girls](https://open.spotify.com/artist/1OLHfdAPzzmWwnOVSX67km) | [Societys Rejects](https://open.spotify.com/album/63KEdOR0MbE54hguE6AEqx) | 4:05 | 2026-02-10 | 2026-05-07 |
 | [Phase Transition](https://open.spotify.com/track/5126Zi3wuCY7NwZW8dsJIm) | [Georgina Jurd](https://open.spotify.com/artist/3MlCbbOOrs8vwgZh6xqqgr) | [Liquid Logic](https://open.spotify.com/album/6NpLeLaTsVaNL9sb6rTDiB) | 3:45 | 2025-12-23 | 2026-03-08 |
 | [Plastic Crown](https://open.spotify.com/track/62Iz1fH8PFyahb5YM5Jrlz) | [Alia Syntax](https://open.spotify.com/artist/6BFnkpB2JnCaR0o4pYn84A) | [Neon Decay](https://open.spotify.com/album/5BmTEHfgJm8S1mqWHvunkR) | 1:47 | 2026-02-11 | 2026-02-24 |
+| [Please](https://open.spotify.com/track/1mNEljsd4NIHWtd6VzpydD) | [Collective Kowalski](https://open.spotify.com/artist/1EGWjAAckfo0gZBdcatCqj), [Max Carola](https://open.spotify.com/artist/78UlXae5KbC3Lj17EkP8x6) | [A New Dawn](https://open.spotify.com/album/55Fr0QG4PuIXvwif8veu7m) | 6:43 | 2026-05-27 |  |
 | [Plugged in Riot](https://open.spotify.com/track/3DnirJo3W10Zq2lERV2FvK) | [blazingfairis](https://open.spotify.com/artist/6ajabFuu4RYCyadfv36oSe) | [nunca ando deciado](https://open.spotify.com/album/3sQsKrbn60LmDAuyzmh0Ks) | 1:27 | 2025-11-30 | 2026-04-28 |
 | [Poor Little Girl](https://open.spotify.com/track/3b3rs0TQ9spLHQItGQAfsH) | [Lillix](https://open.spotify.com/artist/00hKB8cu5lyBE35ilxyP7v) | [Inside The Hollow](https://open.spotify.com/album/04ZUaYNv07KLNMtKtQPCTG) | 2:54 | 2025-11-25 | 2025-12-07 |
 | [Por Qué Demoras](https://open.spotify.com/track/1KlDR4QHGK8TW5LOvoLCBH) | [EchoQueen](https://open.spotify.com/artist/386VOv5kGfvFaXYgHA1146) | [Vida Rapida](https://open.spotify.com/album/2YgvFe5WUdw3xoLOP1BUuS) | 2:12 | 2026-01-19 | 2026-02-14 |

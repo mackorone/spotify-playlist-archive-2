@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TZP21TXsN6.md) - [plain]
 
 > Nieuw: Rz, Getit, Bens en meer..
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,950 likes - 65 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,947 likes - 65 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

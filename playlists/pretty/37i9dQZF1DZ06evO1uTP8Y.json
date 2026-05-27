@@ -1,12 +1,12 @@
 {
   "description": "This is Odeal. The essential tracks, all in one playlist.",
-  "num_followers": 13932,
+  "num_followers": 13952,
   "original_name": "This Is Odeal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahI/gAAAAABW0CSG3gJ6YTsHEjNmljBt",
+  "snapshot_id": "ahORAAAAAADZ21OKvKPbXms4ZVhUNF3w",
   "tracks": [
     {
       "added_at": null,
@@ -187,18 +187,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Fall That Saved Us",
-        "url": "https://open.spotify.com/album/0xMQR9PD1M0Y70uP3VpyBl"
+        "name": "24 Hours",
+        "url": "https://open.spotify.com/album/6h8MihL1baSyYITmOxrIxP"
       },
       "artists": [
+        {
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+        },
         {
           "name": "Odeal",
           "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
         }
       ],
-      "duration_ms": 121120,
-      "name": "Blur",
-      "url": "https://open.spotify.com/track/26dCraicO5lIpioBMnO2dg"
+      "duration_ms": 197720,
+      "name": "24 Hours",
+      "url": "https://open.spotify.com/track/3xucyI8yC8RNSaE5QOeFxB"
     },
     {
       "added_at": null,
@@ -235,26 +239,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "24 Hours",
-        "url": "https://open.spotify.com/album/6h8MihL1baSyYITmOxrIxP"
-      },
-      "artists": [
-        {
-          "name": "Stormzy",
-          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
-        },
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        }
-      ],
-      "duration_ms": 197720,
-      "name": "24 Hours",
-      "url": "https://open.spotify.com/track/3xucyI8yC8RNSaE5QOeFxB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Fall That Saved Us",
         "url": "https://open.spotify.com/album/0xMQR9PD1M0Y70uP3VpyBl"
       },
@@ -264,9 +248,25 @@
           "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
         }
       ],
-      "duration_ms": 135466,
-      "name": "Molotov",
-      "url": "https://open.spotify.com/track/0e5wFBctpNlmDoZzLfgdwy"
+      "duration_ms": 121120,
+      "name": "Blur",
+      "url": "https://open.spotify.com/track/26dCraicO5lIpioBMnO2dg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ONOME",
+        "url": "https://open.spotify.com/album/5gqbbNfl0GtuK2Tl0tNwFy"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "duration_ms": 198545,
+      "name": "ONOME",
+      "url": "https://open.spotify.com/track/2AsdsBTAtp5EckmvsbUKtH"
     },
     {
       "added_at": null,
@@ -303,8 +303,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "ONOME",
-        "url": "https://open.spotify.com/album/5gqbbNfl0GtuK2Tl0tNwFy"
+        "name": "The Fall That Saved Us",
+        "url": "https://open.spotify.com/album/0xMQR9PD1M0Y70uP3VpyBl"
       },
       "artists": [
         {
@@ -312,9 +312,9 @@
           "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
         }
       ],
-      "duration_ms": 198545,
-      "name": "ONOME",
-      "url": "https://open.spotify.com/track/2AsdsBTAtp5EckmvsbUKtH"
+      "duration_ms": 135466,
+      "name": "Molotov",
+      "url": "https://open.spotify.com/track/0e5wFBctpNlmDoZzLfgdwy"
     },
     {
       "added_at": null,

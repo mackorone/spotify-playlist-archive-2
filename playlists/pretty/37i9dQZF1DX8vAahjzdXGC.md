@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari Olivia Rodrigo, Adrian Khalif, Isyana Sarasvati, Fabio Asher, Lola Young dan masih banyak lagi dari dalam dan mancanegara.
 
-[Spotify](https://open.spotify.com/user/spotify) - 243,100 likes - 117 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 243,112 likes - 117 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

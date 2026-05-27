@@ -1929,6 +1929,28 @@
     },
     {
       "album": {
+        "name": "can't love (feat. HAN (Stray Kids))",
+        "url": "https://open.spotify.com/album/0fJoozKZUNh31IdKsZ8lnm"
+      },
+      "artists": [
+        {
+          "name": "can\u2019t be blue ",
+          "url": "https://open.spotify.com/artist/32mluwkanSuuM3hm3d3Fh5"
+        },
+        {
+          "name": "HAN",
+          "url": "https://open.spotify.com/artist/46YvTuKiPBUu5KP9818J2F"
+        }
+      ],
+      "date_added": "2026-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "can't love (feat. HAN (Stray Kids))",
+      "url": "https://open.spotify.com/track/28his6ZYxU15m3bCUTUtFA"
+    },
+    {
+      "album": {
         "name": "Reality Check",
         "url": "https://open.spotify.com/album/1aWLDWVEHr87l5QuK1JUCA"
       },

@@ -1,6 +1,6 @@
 {
   "description": "Disco forever. Deeper cuts, forgotten gems and 8 minute versions.",
-  "num_followers": 73583,
+  "num_followers": 73587,
   "original_name": "Disco Decadence",
   "owner": {
     "name": "Spotify",
@@ -243,22 +243,6 @@
     {
       "added_at": "2026-01-15 16:33:26",
       "album": {
-        "name": "I Love The Nightlife",
-        "url": "https://open.spotify.com/album/6e42g4IxKHPNT6VsRMkP4v"
-      },
-      "artists": [
-        {
-          "name": "Alicia Bridges",
-          "url": "https://open.spotify.com/artist/1UY4oIFpjCKe5qIhKDcloe"
-        }
-      ],
-      "duration_ms": 187973,
-      "name": "I Love The Nightlife (Disco 'Round)",
-      "url": "https://open.spotify.com/track/6c0G8K6G2LlIfJTsRLJjfs"
-    },
-    {
-      "added_at": "2026-01-15 16:33:26",
-      "album": {
         "name": "Triumph (Expanded Version)",
         "url": "https://open.spotify.com/album/3CE276hNs9VVg3aWeBziL7"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 230967,
       "name": "Can You Feel It - 7\" Version",
       "url": "https://open.spotify.com/track/0GIk0Mm87D0CDyj57Urtt3"
+    },
+    {
+      "added_at": "2026-01-15 16:33:26",
+      "album": {
+        "name": "I Love The Nightlife",
+        "url": "https://open.spotify.com/album/6e42g4IxKHPNT6VsRMkP4v"
+      },
+      "artists": [
+        {
+          "name": "Alicia Bridges",
+          "url": "https://open.spotify.com/artist/1UY4oIFpjCKe5qIhKDcloe"
+        }
+      ],
+      "duration_ms": 187973,
+      "name": "I Love The Nightlife (Disco 'Round)",
+      "url": "https://open.spotify.com/track/6c0G8K6G2LlIfJTsRLJjfs"
     },
     {
       "added_at": "2026-01-15 16:33:26",
@@ -987,22 +987,6 @@
     {
       "added_at": "2026-01-15 16:33:26",
       "album": {
-        "name": "Love, Luther",
-        "url": "https://open.spotify.com/album/6jef6FlX6dgn07Ofvd1gVu"
-      },
-      "artists": [
-        {
-          "name": "Luther Vandross",
-          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
-        }
-      ],
-      "duration_ms": 339506,
-      "name": "Never Too Much - 12\" Version",
-      "url": "https://open.spotify.com/track/7tHT1v3DPsPCJV8U6DQOtQ"
-    },
-    {
-      "added_at": "2026-01-15 16:33:26",
-      "album": {
         "name": "Full Moon",
         "url": "https://open.spotify.com/album/1PbVQRjZQxRK6ml00vOKrp"
       },
@@ -1019,18 +1003,18 @@
     {
       "added_at": "2026-01-15 16:33:26",
       "album": {
-        "name": "More, More, More",
-        "url": "https://open.spotify.com/album/4xQKeiJzX2EmCXt5XdGiTN"
+        "name": "Love, Luther",
+        "url": "https://open.spotify.com/album/6jef6FlX6dgn07Ofvd1gVu"
       },
       "artists": [
         {
-          "name": "Andrea True Connection",
-          "url": "https://open.spotify.com/artist/3GHovBcEWpbnwCZDPF9GpM"
+          "name": "Luther Vandross",
+          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
         }
       ],
-      "duration_ms": 197096,
-      "name": "What's Your Name, What's Your Number",
-      "url": "https://open.spotify.com/track/0DFb31DLTYkgkNDJSqlPDH"
+      "duration_ms": 339506,
+      "name": "Never Too Much - 12\" Version",
+      "url": "https://open.spotify.com/track/7tHT1v3DPsPCJV8U6DQOtQ"
     },
     {
       "added_at": "2026-01-15 16:33:26",
@@ -1047,6 +1031,22 @@
       "duration_ms": 338973,
       "name": "Sinner Man",
       "url": "https://open.spotify.com/track/4ejEDBcfJgMXyBd9hooIp8"
+    },
+    {
+      "added_at": "2026-01-15 16:33:26",
+      "album": {
+        "name": "More, More, More",
+        "url": "https://open.spotify.com/album/4xQKeiJzX2EmCXt5XdGiTN"
+      },
+      "artists": [
+        {
+          "name": "Andrea True Connection",
+          "url": "https://open.spotify.com/artist/3GHovBcEWpbnwCZDPF9GpM"
+        }
+      ],
+      "duration_ms": 197096,
+      "name": "What's Your Name, What's Your Number",
+      "url": "https://open.spotify.com/track/0DFb31DLTYkgkNDJSqlPDH"
     },
     {
       "added_at": "2026-01-15 16:33:26",

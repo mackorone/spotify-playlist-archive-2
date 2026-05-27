@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 
 > Lmao \-.\-
 
-[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 490 songs - 1 day 4 hr 9 min
+[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 492 songs - 1 day 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -498,5 +498,7 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 | 488 | [ikanaide \(feat\. Kaai Yuki\)](https://open.spotify.com/track/1VcOWKCKiWShO8Gs3YRVvP) | [sohta](https://open.spotify.com/artist/76vFRXB0jZ5BkAATnYdUEa), [Yuki Kaai](https://open.spotify.com/artist/2VLQ72xXVYB1n8lvkEWOhS) | [shounen syoujo no kotoba](https://open.spotify.com/album/0HMPY6yDhBHW6xJkvChcR8) | 3:12 |
 | 489 | [スキスキ絶頂症](https://open.spotify.com/track/4ob8EMtGqQYlute1An2U9X) | [koyori](https://open.spotify.com/artist/6gZ9klmJVVAgpXEdL6sZQE), [Nameless](https://open.spotify.com/artist/7IrZTf8h2kmZq2p37NDs1m) | [Resonance](https://open.spotify.com/album/7DIkEiWd247bc48fvYUH0P) | 3:36 |
 | 490 | [Hymn to the Decadent Life](https://open.spotify.com/track/00qsiWwjbJgraBSZDvFz36) | [Ro2noki](https://open.spotify.com/artist/4yLOF9ZLc9gOubIyxAMgks) | [My Coffin, My Toy Box](https://open.spotify.com/album/4IlhbwPnhO6JNJVYEqKK7J) | 3:36 |
+| 491 | [君が死んでも許してあげるよ](https://open.spotify.com/track/3F402NDKGrJxIOaJbkXSeB) | [Kikuo](https://open.spotify.com/artist/5FhcqamaRFfpZb4VHV47fu) | [きくおミク2](https://open.spotify.com/album/26tBjFO9k2Aq7j72p0nTol) | 4:02 |
+| 492 | [MINAGOROSHI](https://open.spotify.com/track/1uC5OFXAwjhtToYXezTTZj) | [NAKISO](https://open.spotify.com/artist/0DzlKiHRe0HVfOiVlv23Rj) | [MINAGOROSHI](https://open.spotify.com/album/1k4Hs6tujNB331ASp8heM7) | 2:05 |
 
-Snapshot ID: `AAAKMpIESLwE/DKxl8sE6yMUlIlqd+Oy`
+Snapshot ID: `AAAKNLog24CFuoniDto6gC8ERbrJMU27`

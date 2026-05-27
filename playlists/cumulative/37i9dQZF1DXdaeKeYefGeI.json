@@ -1918,7 +1918,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-27",
       "duration_ms": 169456,
       "name": "Ik neem jou mee",
       "url": "https://open.spotify.com/track/1NEawk3FwC4DAte737OmtG"
@@ -4616,6 +4616,24 @@
       "duration_ms": 232403,
       "name": "Weg uit Nederland",
       "url": "https://open.spotify.com/track/28UygHbdYKz1IJwzt1MfEc"
+    },
+    {
+      "album": {
+        "name": "Ik neem jou mee",
+        "url": "https://open.spotify.com/album/3dnsEfOW87w8QI1xfyYrJB"
+      },
+      "artists": [
+        {
+          "name": "Leonie Meijer",
+          "url": "https://open.spotify.com/artist/2yAKMlQWwUyDSDly68F3ve"
+        }
+      ],
+      "date_added": "2026-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221461,
+      "name": "Welterusten, Mijnheer de president",
+      "url": "https://open.spotify.com/track/4r6tPkeVJBWm9eWdMTdNUm"
     },
     {
       "album": {

@@ -502,7 +502,7 @@
       ],
       "date_added": "2025-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-27",
       "duration_ms": 339512,
       "name": "Alma Negra - Original Mix",
       "url": "https://open.spotify.com/track/0mEMwGHGbgu5L6IqZbZn93"
@@ -8758,6 +8758,32 @@
       "duration_ms": 133596,
       "name": "SWTH",
       "url": "https://open.spotify.com/track/5ruMKE615XscqaRJsdfgdo"
+    },
+    {
+      "album": {
+        "name": "Take Me As I Am (Moodymann Remix)",
+        "url": "https://open.spotify.com/album/5PltFtYqgTbGmo9mU8H6cP"
+      },
+      "artists": [
+        {
+          "name": "Dames Brown",
+          "url": "https://open.spotify.com/artist/7Hgnu346InP2IcZoMGGT8B"
+        },
+        {
+          "name": "Amp Fiddler",
+          "url": "https://open.spotify.com/artist/39g75EmRFeFbvHhsGjUpLU"
+        },
+        {
+          "name": "Moodymann",
+          "url": "https://open.spotify.com/artist/6pohviZSNRueSX7uNu63ZX"
+        }
+      ],
+      "date_added": "2026-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221247,
+      "name": "Take Me As I Am - Moodymann Remix",
+      "url": "https://open.spotify.com/track/6QzmA0DbUUNs2glO2SL7Wf"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Christine D'Clario. The essential tracks, all in one playlist.",
-  "num_followers": 41936,
+  "num_followers": 41942,
   "original_name": "This Is Christine D'Clario",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahI/gAAAAADG1/rFUiI00MQWmAXFsafa",
+  "snapshot_id": "ahORAAAAAACB/Riac5cdJA0BPMDrCIMa",
   "tracks": [
     {
       "added_at": null,
@@ -31,6 +31,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Emanuel",
+        "url": "https://open.spotify.com/album/79SvnKvxBeFi7NrWIHbLef"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 316951,
+      "name": "Ya No Soy Esclavo",
+      "url": "https://open.spotify.com/track/1q3KDl1xS0ldFbNZ2eVfvT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Operaci\u00f3n Mundial",
         "url": "https://open.spotify.com/album/4cUzqa9eajPeshJ1LqZA6S"
       },
@@ -47,22 +63,6 @@
       "duration_ms": 270186,
       "name": "El Nombre De Jes\u00fas",
       "url": "https://open.spotify.com/track/3TV8XC0r6VPHSBLdR1Fi2v"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Emanuel",
-        "url": "https://open.spotify.com/album/79SvnKvxBeFi7NrWIHbLef"
-      },
-      "artists": [
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 316951,
-      "name": "Ya No Soy Esclavo",
-      "url": "https://open.spotify.com/track/1q3KDl1xS0ldFbNZ2eVfvT"
     },
     {
       "added_at": null,
@@ -747,6 +747,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pura Sal",
+        "url": "https://open.spotify.com/album/1dQgq5F2YZTFXr9arEe9RO"
+      },
+      "artists": [
+        {
+          "name": "Redimi2",
+          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
+        },
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        },
+        {
+          "name": "Julio Melgar",
+          "url": "https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2"
+        }
+      ],
+      "duration_ms": 266253,
+      "name": "Por la Eternidad",
+      "url": "https://open.spotify.com/track/1GdBhVp7tdfs33NdxdnUFZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Esa Es La Raz\u00f3n (Live)",
         "url": "https://open.spotify.com/album/5HTaOwYUl701aYLyxYlezf"
       },
@@ -771,30 +795,6 @@
       "duration_ms": 395757,
       "name": "Esa Es La Raz\u00f3n - Live",
       "url": "https://open.spotify.com/track/3lwiyQh8K7qWumYTiheXlq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pura Sal",
-        "url": "https://open.spotify.com/album/1dQgq5F2YZTFXr9arEe9RO"
-      },
-      "artists": [
-        {
-          "name": "Redimi2",
-          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
-        },
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        },
-        {
-          "name": "Julio Melgar",
-          "url": "https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2"
-        }
-      ],
-      "duration_ms": 266253,
-      "name": "Por la Eternidad",
-      "url": "https://open.spotify.com/track/1GdBhVp7tdfs33NdxdnUFZ"
     },
     {
       "added_at": null,

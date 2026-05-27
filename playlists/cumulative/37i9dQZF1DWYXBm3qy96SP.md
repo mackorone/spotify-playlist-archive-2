@@ -4,7 +4,7 @@
 
 > 世界中のロックシーンを彩る話題曲をチェック。Cover: Bleachers
 
-2,060 songs - 4 day 23 hr 53 min
+2,061 songs - 4 day 23 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1600,7 +1600,7 @@
 | [Son of a Gun](https://open.spotify.com/track/1R7bF2Oyyprr6BkMJhk9Yw) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ), [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Son of a Gun \(feat\. K.Flay\) / Starting Over](https://open.spotify.com/album/3ASVlbTNAtaWwROK1pK4u2) | 3:13 | 2023-11-09 | 2023-11-24 |
 | [Song 2 \- 2012 Remaster](https://open.spotify.com/track/1FTSo4v6BOZH9QxKc3MbVM) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Blur \(Special Edition\)](https://open.spotify.com/album/7HvIrSkKGJCzd8AKyjTJ6Q) | 2:01 | 2023-03-16 | 2023-05-19 |
 | [Song 3](https://open.spotify.com/track/7eDUTBIo76AMC5UYqkkzDL) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq), [Slaughter to Prevail](https://open.spotify.com/artist/24Oiw7BlvO1BETecDLJt6m) | [Song 3](https://open.spotify.com/album/0Cxa2LwLEBIpVglPWwiias) | 3:34 | 2025-05-29 | 2025-06-17 |
-| [Song For Hal](https://open.spotify.com/track/2VVWTCKDdJYxrF7TZtyUAH) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Easter Lily EP](https://open.spotify.com/album/1DY06ZzIoHYFQ83jPfm9aF) | 4:38 | 2026-04-03 |  |
+| [Song For Hal](https://open.spotify.com/track/2VVWTCKDdJYxrF7TZtyUAH) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Easter Lily EP](https://open.spotify.com/album/1DY06ZzIoHYFQ83jPfm9aF) | 4:38 | 2026-04-03 | 2026-05-27 |
 | [Song Of The Future](https://open.spotify.com/track/3xbZa70HOBQpGQcaR3HqW1) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Days Of Ash EP](https://open.spotify.com/album/3vgnEcyvM5xJ479leSdeVT) | 3:55 | 2026-02-19 |  |
 | [SONGS](https://open.spotify.com/track/0l93cYkJLTiSgHSBGful5p) | [Age Factory](https://open.spotify.com/artist/7pgRyTH4nTH4KoruoGuAQo) | [Songs](https://open.spotify.com/album/5KCNofx4mr0Blk7WXGiPXU) | 2:47 | 2024-02-22 | 2024-03-01 |
 | [Songs I'd Rather Not Sing](https://open.spotify.com/track/0sdDCmGW4QomnHcLvd3KCh) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [Songs I'd Rather Not Sing](https://open.spotify.com/album/1g2lIajRkoTuD6NuEYp11X) | 2:44 | 2025-11-27 | 2026-01-15 |
@@ -1791,6 +1791,7 @@
 | [Things](https://open.spotify.com/track/5ntTeuCMmKeTzjLk5f4hK3) | [Farveblind](https://open.spotify.com/artist/5AlPqg8caYE9Dc7r9pCN3g), [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Things](https://open.spotify.com/album/7kxSE9zfvdC0vs9kwF3Z8W) | 2:39 | 2026-03-12 | 2026-03-20 |
 | [Think Fast \(feat\. Weezer\)](https://open.spotify.com/track/4Z59a9hIn8EMsni3OiqGso) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs), [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Sunburn](https://open.spotify.com/album/2T7LuxZRr6SQMgABLtoYTH) | 3:42 | 2023-07-06 | 2024-05-03 |
 | [Thinking About You](https://open.spotify.com/track/0jRa46cR41F2r5liiHQblD) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Thinking About You](https://open.spotify.com/album/5EHtfFanIuTsXqKjvjgikB) | 3:07 | 2024-09-12 | 2024-09-27 |
+| [Third Side of the Moon](https://open.spotify.com/track/6FejTj8qZ51DhKMHYSOG4K) | [Modest Mouse](https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT) | [Third Side of the Moon](https://open.spotify.com/album/311t5nnuS4Fo6citMUuXMB) | 4:27 | 2026-05-23 |  |
 | [This](https://open.spotify.com/track/0N63RBpTovevPppc3D8NZj) | [OK Go](https://open.spotify.com/artist/3hozsZ9hqNq7CoBGYNlFTz) | [This](https://open.spotify.com/album/4xevMdJnWGbcTmYZRtctQE) | 4:02 | 2023-07-20 | 2023-07-28 |
 | [This Circle](https://open.spotify.com/track/5ygLBPgT9EFcgphNOubEqk) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [All We Know Is Falling \(Deluxe\)](https://open.spotify.com/album/4v7K8sgLM1fx69WSrQRKYo) | 4:06 | 2025-07-24 | 2025-08-10 |
 | [This Is Home \- Dark\-Side Mix](https://open.spotify.com/track/556w1qW5noqRaR9Brq1EOc) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [This Is Home \(Dark\-Side Mix\)](https://open.spotify.com/album/7wPxxeIyLPuRCcmNMFiw5t) | 5:04 | 2023-09-28 | 2023-10-06 |

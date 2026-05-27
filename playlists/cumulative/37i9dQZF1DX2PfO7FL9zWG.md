@@ -4,7 +4,7 @@
 
 > Revisit stand out songs from these singer/songwriters\. Cover: Noah Kahan
 
-383 songs - 1 day 0 hr 1 min
+384 songs - 1 day 0 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -341,7 +341,7 @@
 | [The Lullaby \(My Oldest Love\)](https://open.spotify.com/track/7kLmS1sVZJTzvHYdurvNyy) | [Rose Cousins](https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ), [Tim Baker](https://open.spotify.com/artist/2peeSULgQ6AFn3kHzvWQTq) | [The Lullaby \(My Oldest Love\)](https://open.spotify.com/album/2jhy4lO8S9wm6A3VJTIlU0) | 3:38 | 2022-04-15 | 2022-07-29 |
 | [The Magician](https://open.spotify.com/track/62x2pgvYu0cMP4gfNpbTP9) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [The Party](https://open.spotify.com/album/2EhgysAt5fY85LYceFFpbE) | 3:51 | 2024-10-25 | 2026-05-08 |
 | [The Meetings of the Waters](https://open.spotify.com/track/3wQXP3617fqclHgzA7dONN) | [Fionn Regan](https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy) | [The Meetings of the Waters](https://open.spotify.com/album/4cx595VqVPFHf5PwJjQ7lJ) | 5:00 | 2022-07-27 | 2023-04-01 |
-| [The Open Road](https://open.spotify.com/track/1Zc2f37KUAPwLEywMMHnbX) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [Moments](https://open.spotify.com/album/1woKCA8dTokL647kKXySq6) | 3:20 | 2022-04-15 |  |
+| [The Open Road](https://open.spotify.com/track/1Zc2f37KUAPwLEywMMHnbX) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [Moments](https://open.spotify.com/album/1woKCA8dTokL647kKXySq6) | 3:20 | 2022-04-15 | 2026-05-27 |
 | [The Open Road](https://open.spotify.com/track/2Dj9OOoQHG5f0jlL5vt7Ve) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [Moments](https://open.spotify.com/album/1AdV0dbxTNI6ihLCJYyE96) | 3:20 | 2022-07-27 | 2024-04-19 |
 | [The Pursuit of Happiness](https://open.spotify.com/track/5doM1qJXf7JN6kyGjRDlTq) | [Beyries](https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn) | [Landing](https://open.spotify.com/album/70gMWHmqFhPCpwJmdmTYxo) | 3:15 | 2023-03-31 | 2025-02-25 |
 | [The Roads](https://open.spotify.com/track/2bSaJE7jrTeDXW4bZB93Ji) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [The Roads](https://open.spotify.com/album/74Kn48bZ6koe1cWM3x29lU) | 4:10 | 2023-12-08 |  |
@@ -377,6 +377,7 @@
 | [Walking Wounded](https://open.spotify.com/track/1Csuelaz28su9FOIubAA7b) | [Jill Andrews](https://open.spotify.com/artist/35VpsbV6V2NdfTeNZEbKfc) | [Walking Wounded](https://open.spotify.com/album/7fs0iXeEDfTnA2J4elvZHu) | 2:50 | 2022-04-15 | 2022-06-28 |
 | [Watch You Shine](https://open.spotify.com/track/2BL1FgdIdPjNDc2C5UlPzP) | [Cujo Moon](https://open.spotify.com/artist/28PfPnmxT8rQJiLEByR81N) | [Watch You Shine](https://open.spotify.com/album/23FXFSwRSs9FvICnH6Z8ad) | 4:19 | 2022-05-12 | 2022-07-27 |
 | [We Can't Be Tamed](https://open.spotify.com/track/2GygOAZfu7hG7WULOP0bCq) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [Signs of Life](https://open.spotify.com/album/4MOkPB90s3AsnbjNmGJ5x2) | 3:03 | 2022-04-15 |  |
+| [Weighing Down](https://open.spotify.com/track/2nb4iYxCmA8Dh1a2Hz2inu) | [Julian Taylor](https://open.spotify.com/artist/35k2toFgs8gru6GMPChzo6) | [Pathways](https://open.spotify.com/album/3K1pEVfbFF5QbmXUpTH1WS) | 3:52 | 2026-05-26 |  |
 | [Wells](https://open.spotify.com/track/1WiVvolTPvAsVOd64HZi4X) | [Joshua Hyslop](https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu) | [Wells](https://open.spotify.com/album/0zCup7KY2DIa5td1IcFQDn) | 3:43 | 2022-07-27 | 2023-04-01 |
 | [What I Came Here For](https://open.spotify.com/track/73WvySq47nvcUvS6IONQ5z) | [Luca Fogale](https://open.spotify.com/artist/3GKdEPHUSBp3iNT4SG2Med) | [What I Came Here For](https://open.spotify.com/album/1SW9eGvdnTyLyR0sGLlNoZ) | 3:09 | 2022-04-15 | 2022-10-13 |
 | [When I Say You Are Killing Me](https://open.spotify.com/track/2uTasYs7GtJ7lZCx5ttnwe) | [Ten Kills the Pack](https://open.spotify.com/artist/73avNAcHbfmgcSGEjKit9l) | [When I Say You Are Killing Me](https://open.spotify.com/album/6ub91Y4lK0C5KUpYB1E6J2) | 3:13 | 2022-04-15 | 2022-07-25 |

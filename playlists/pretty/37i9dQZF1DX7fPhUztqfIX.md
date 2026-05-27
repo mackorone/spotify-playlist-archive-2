@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 
 > All new Worship songs on the rise! Cover: ELEVATION RHYTHM
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,765 likes - 100 songs - 9 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,777 likes - 100 songs - 9 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 | 99 | [For the Beauty of the Earth](https://open.spotify.com/track/4v9XGXfQL8iB9C0qjZDp8P) | [Sarah Kroger](https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH) | [For the Beauty of the Earth](https://open.spotify.com/album/3zFVqqj3rngtfLw7tN70Wl) | 4:22 |
 | 100 | [Altar](https://open.spotify.com/track/6ExZuWvdbRtgyUJJKdRbH9) | [Simply Worship](https://open.spotify.com/artist/5UucvApgxhrt1ZXON01nkM), [Ben Potter](https://open.spotify.com/artist/7MgoxvbWh0Svv2Yqt0V2iX) | [Altar](https://open.spotify.com/album/7bM0YzMuSP9fa34yZoGwYL) | 4:42 |
 
-Snapshot ID: `AAAAAGKbIPbR0xSDX/lsu5UijDWqAdDX`
+Snapshot ID: `AAAAAG+mKQ7sAuBnes9SnWwWBXyb3qZ+`

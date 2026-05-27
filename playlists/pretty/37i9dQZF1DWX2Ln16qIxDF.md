@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX2Ln16qIxDF.md) - [plain]
 
 > Canciones que tenés que escuchar  📸  La Joaqui & Angela Torres
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,205,649 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,205,627 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX2Ln16qIxDF.md) - [plain]
 | 38 | [Incondicional](https://open.spotify.com/track/0ccQ1CddR2I7vDaA9GoqZA) | [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Euforia](https://open.spotify.com/album/4DxyXoUaJ7fYUAC0FyShHI) | 4:16 |
 | 39 | [La Mala](https://open.spotify.com/track/5YckAHqUVvw9Xcgn5N2AH4) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [La Mala](https://open.spotify.com/album/7mpDCS3CqxlDWLbkxpvbDI) | 2:17 |
 | 40 | [Toda La Semana](https://open.spotify.com/track/3z5DRSkON15pLJ4mHQwhUs) | [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [CASA](https://open.spotify.com/album/4O7hvaH8dCZsFg1wpTF9Og) | 1:52 |
-| 41 | [PANTALOM](https://open.spotify.com/track/67UNrrGXa3BNg0KQQo3UQV) | [Six Sex](https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr) | [PANTALOM](https://open.spotify.com/album/3BjRBfKzPPSgWyApLAiVbI) | 1:48 |
+| 41 | [PANTALOM](https://open.spotify.com/track/67UNrrGXa3BNg0KQQo3UQV) | [Six Sex](https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr) | [PANTALOM](https://open.spotify.com/album/3BjRBfKzPPSgWyApLAiVbI) | 1:49 |
 | 42 | [Tonto](https://open.spotify.com/track/7mU1fei7P9h4mpjP2Otdw5) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [Tonto](https://open.spotify.com/album/2O4uIDxW5yiPcPiGFag99v) | 2:20 |
 | 43 | [Mírame Baby](https://open.spotify.com/track/0BTrUnm5ssK7MbC29xdIl1) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Mírame Baby](https://open.spotify.com/album/64Pzm1AlNSImt1DcCUuR3d) | 3:59 |
 | 44 | [Pal Agua](https://open.spotify.com/track/5oG6xYYuukHrsK1SLagCn0) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Pal Agua](https://open.spotify.com/album/3uOpta5cUNTRP3HFJzFMyt) | 3:26 |

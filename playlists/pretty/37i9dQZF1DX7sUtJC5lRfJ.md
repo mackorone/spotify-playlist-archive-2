@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sUtJC5lRfJ.md) - [plain]
 
 > Tập hợp các MV đỉnh nóc kịch trần\. Đăng ký Premium để xem\. Ảnh bìa: Hà An Huy
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,660 likes - 32 songs - 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,663 likes - 32 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,4 +41,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sUtJC5lRfJ.md) - [plain]
 | 31 | [SHINE](https://open.spotify.com/track/4ZKaAEohUMxGpsQNrw7Twp) | [Ánh Sáng AZA](https://open.spotify.com/artist/0agWx6vy0Ss4FGafO8bEYc) | [SHINE](https://open.spotify.com/album/4U6PGSTUQCzJvRNJ2Nd4b7) | 2:41 |
 | 32 | [How Have You Been? \- Chọn Gì? Chọn ĐI! Version](https://open.spotify.com/track/6qV70UwNiYdnmYAhy3RhYF) | [Chọn gì? Chọn đi!](https://open.spotify.com/artist/61ydMyohF67xBZmWSPA3YQ), [buitruonglinh](https://open.spotify.com/artist/7Cp2hGcriAaDUAWpXnSEwm), [Muộii](https://open.spotify.com/artist/0o3J7OHDa35b6AY7Ivj5j7) | [How Have You Been? \(Chọn Gì? Chọn ĐI! Version\)](https://open.spotify.com/album/1h1o57CXQe8iA9mTCtNbA7) | 4:37 |
 
-Snapshot ID: `AAAAAL1sTChkA5VZIs+CNVvXiUCiuZo/`
+Snapshot ID: `AAAAADkmlHetMm9VJ0CvhReAMPbpSpyr`

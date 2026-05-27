@@ -6321,6 +6321,24 @@
     },
     {
       "album": {
+        "name": "JUSKO",
+        "url": "https://open.spotify.com/album/4knGkF82Pdwi44mxiD0Xn5"
+      },
+      "artists": [
+        {
+          "name": "Mikee Sarmiento",
+          "url": "https://open.spotify.com/artist/48rxnfZyO2oDLWaSaqgocx"
+        }
+      ],
+      "date_added": "2026-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181512,
+      "name": "JUSKO",
+      "url": "https://open.spotify.com/track/6wFx1e82tdJK2bunrLgFjP"
+    },
+    {
+      "album": {
         "name": "just a song",
         "url": "https://open.spotify.com/album/2pcHVAGuqGS3A6p2JVGjCk"
       },

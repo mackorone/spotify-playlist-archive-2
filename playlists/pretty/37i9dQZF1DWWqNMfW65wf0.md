@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNMfW65wf0.md) - [plain]
 
 > you are feeling sleepy, just go to sleep 💤
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,930 likes - 215 songs - 10 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,993 likes - 215 songs - 10 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -224,4 +224,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNMfW65wf0.md) - [plain]
 | 214 | [Uferlos](https://open.spotify.com/track/1f2o75H7I9RgWzf076ZVzQ) | [The Sun Door](https://open.spotify.com/artist/4mIc8FKCkWqviS6jlZ4cyc) | [Uferlos](https://open.spotify.com/album/1zJ3zOQa4YXNn2yf89D0rN) | 3:26 |
 | 215 | [639 Hz Spiritual Discipline](https://open.spotify.com/track/0uF57Bd4CqhDefLhygLIfD) | [Elysian Path](https://open.spotify.com/artist/2uJNruaE1HA03dURbK5KRV) | [639 Hz Spiritual Discipline](https://open.spotify.com/album/7Isvf7Lu3bUQgTRznATyHC) | 3:28 |
 
-Snapshot ID: `AAAAAIta0kRXAAJTpKizBQCvOr42fGPp`
+Snapshot ID: `AAAAALhUCWzm99Nxic71r/ohWnDTfpMW`

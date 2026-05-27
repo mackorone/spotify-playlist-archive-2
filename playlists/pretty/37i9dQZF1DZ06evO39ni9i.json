@@ -1,12 +1,12 @@
 {
   "description": "This is Sly & The Family Stone. The essential tracks, all in one playlist.",
-  "num_followers": 30462,
+  "num_followers": 30461,
   "original_name": "This Is Sly & The Family Stone",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahI/gAAAAABh9Grp9tt4i9Y4BVr6wYI6",
+  "snapshot_id": "ahORAAAAAAA2b9DdCza3Y1Zt57f4bxiG",
   "tracks": [
     {
       "added_at": null,
@@ -411,8 +411,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/0UM9SydcBtsklCTFgGLvcT"
+        "name": "Stand",
+        "url": "https://open.spotify.com/album/7iwS1r6JHYJe9xpPjzmWqD"
       },
       "artists": [
         {
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
         }
       ],
-      "duration_ms": 181116,
-      "name": "Life",
-      "url": "https://open.spotify.com/track/0aI5KoqucjqXjPi7bFENFQ"
+      "duration_ms": 200333,
+      "name": "Somebody's Watching You",
+      "url": "https://open.spotify.com/track/5DCAUoDMRiBiezamBZX4yt"
     },
     {
       "added_at": null,
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stand",
-        "url": "https://open.spotify.com/album/7iwS1r6JHYJe9xpPjzmWqD"
-      },
-      "artists": [
-        {
-          "name": "Sly & The Family Stone",
-          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
-        }
-      ],
-      "duration_ms": 200333,
-      "name": "Somebody's Watching You",
-      "url": "https://open.spotify.com/track/5DCAUoDMRiBiezamBZX4yt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/0UM9SydcBtsklCTFgGLvcT"
       },
@@ -500,9 +484,25 @@
           "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
         }
       ],
-      "duration_ms": 144105,
-      "name": "Fun",
-      "url": "https://open.spotify.com/track/70AM9U6VMFtSyjCYc34srx"
+      "duration_ms": 181116,
+      "name": "Life",
+      "url": "https://open.spotify.com/track/0aI5KoqucjqXjPi7bFENFQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dance To The Music",
+        "url": "https://open.spotify.com/album/2j9rvROPPJGn3xaRztD1rX"
+      },
+      "artists": [
+        {
+          "name": "Sly & The Family Stone",
+          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
+        }
+      ],
+      "duration_ms": 157960,
+      "name": "Soul Clappin'",
+      "url": "https://open.spotify.com/track/5BL5MdCvMGykfaxPFtycG9"
     },
     {
       "added_at": null,
@@ -539,6 +539,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/0UM9SydcBtsklCTFgGLvcT"
+      },
+      "artists": [
+        {
+          "name": "Sly & The Family Stone",
+          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
+        }
+      ],
+      "duration_ms": 144105,
+      "name": "Fun",
+      "url": "https://open.spotify.com/track/70AM9U6VMFtSyjCYc34srx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Whole New Thing",
+        "url": "https://open.spotify.com/album/2Qxaq1aDwgNib9fm73rRGy"
+      },
+      "artists": [
+        {
+          "name": "Sly & The Family Stone",
+          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
+        }
+      ],
+      "duration_ms": 198933,
+      "name": "I Cannot Make It",
+      "url": "https://open.spotify.com/track/12guwaqWe3xZUPdnfSw0n4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dance To The Music",
         "url": "https://open.spotify.com/album/2j9rvROPPJGn3xaRztD1rX"
       },
@@ -548,9 +580,41 @@
           "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
         }
       ],
-      "duration_ms": 157960,
-      "name": "Soul Clappin'",
-      "url": "https://open.spotify.com/track/5BL5MdCvMGykfaxPFtycG9"
+      "duration_ms": 265240,
+      "name": "I Ain't Got Nobody (For Real)",
+      "url": "https://open.spotify.com/track/62yuJ7e3ULb6NFvRs13E9u"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Small Talk",
+        "url": "https://open.spotify.com/album/1KJAI0W9nvK2insqlsKacw"
+      },
+      "artists": [
+        {
+          "name": "Sly & The Family Stone",
+          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
+        }
+      ],
+      "duration_ms": 197173,
+      "name": "Time For Livin'",
+      "url": "https://open.spotify.com/track/1oQjAXbu9xARHLpKH73N1p"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Back On The Right Track",
+        "url": "https://open.spotify.com/album/1FQgfDq2fQT3YqrnBqhDVN"
+      },
+      "artists": [
+        {
+          "name": "Sly & The Family Stone",
+          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
+        }
+      ],
+      "duration_ms": 177640,
+      "name": "It Takes All Kinds",
+      "url": "https://open.spotify.com/track/17RLnWJ3HB1CrpLu6UMBcu"
     },
     {
       "added_at": null,
@@ -587,86 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Small Talk",
-        "url": "https://open.spotify.com/album/1KJAI0W9nvK2insqlsKacw"
-      },
-      "artists": [
-        {
-          "name": "Sly & The Family Stone",
-          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
-        }
-      ],
-      "duration_ms": 197173,
-      "name": "Time For Livin'",
-      "url": "https://open.spotify.com/track/1oQjAXbu9xARHLpKH73N1p"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dance To The Music",
-        "url": "https://open.spotify.com/album/2j9rvROPPJGn3xaRztD1rX"
-      },
-      "artists": [
-        {
-          "name": "Sly & The Family Stone",
-          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
-        }
-      ],
-      "duration_ms": 265240,
-      "name": "I Ain't Got Nobody (For Real)",
-      "url": "https://open.spotify.com/track/62yuJ7e3ULb6NFvRs13E9u"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Whole New Thing",
-        "url": "https://open.spotify.com/album/2Qxaq1aDwgNib9fm73rRGy"
-      },
-      "artists": [
-        {
-          "name": "Sly & The Family Stone",
-          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
-        }
-      ],
-      "duration_ms": 198933,
-      "name": "I Cannot Make It",
-      "url": "https://open.spotify.com/track/12guwaqWe3xZUPdnfSw0n4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The First Family: Live At Winchester Cathedral 1967",
-        "url": "https://open.spotify.com/album/2RKFmKwO5tdaXkIcsqXfd7"
-      },
-      "artists": [
-        {
-          "name": "Sly & The Family Stone",
-          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
-        }
-      ],
-      "duration_ms": 298080,
-      "name": "Show Me - Live At Winchester Cathedral 1967",
-      "url": "https://open.spotify.com/track/4A2rQDVPQGswdDxN9U2PjK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Back On The Right Track",
-        "url": "https://open.spotify.com/album/1FQgfDq2fQT3YqrnBqhDVN"
-      },
-      "artists": [
-        {
-          "name": "Sly & The Family Stone",
-          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
-        }
-      ],
-      "duration_ms": 177640,
-      "name": "It Takes All Kinds",
-      "url": "https://open.spotify.com/track/17RLnWJ3HB1CrpLu6UMBcu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dance To The Music",
         "url": "https://open.spotify.com/album/2j9rvROPPJGn3xaRztD1rX"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 188293,
       "name": "Color Me True",
       "url": "https://open.spotify.com/track/7e3gIQQIuGnVUUcGUOJNgM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Life",
+        "url": "https://open.spotify.com/album/2fWTszgtsvzlCwCdb3Tpru"
+      },
+      "artists": [
+        {
+          "name": "Sly & The Family Stone",
+          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
+        }
+      ],
+      "duration_ms": 163266,
+      "name": "Love City",
+      "url": "https://open.spotify.com/track/0RfvI47szEhLTEnD7WTIco"
     },
     {
       "added_at": null,
@@ -699,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Life",
-        "url": "https://open.spotify.com/album/2fWTszgtsvzlCwCdb3Tpru"
+        "name": "The First Family: Live At Winchester Cathedral 1967",
+        "url": "https://open.spotify.com/album/2RKFmKwO5tdaXkIcsqXfd7"
       },
       "artists": [
         {
@@ -708,25 +708,9 @@
           "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
         }
       ],
-      "duration_ms": 133000,
-      "name": "Into My Own Thing",
-      "url": "https://open.spotify.com/track/1jKFBuegXD4DPc7Gd8HhJm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "There's A Riot Goin' On (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0ihYToxMgYcuHuxOKjGQKO"
-      },
-      "artists": [
-        {
-          "name": "Sly & The Family Stone",
-          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
-        }
-      ],
-      "duration_ms": 252333,
-      "name": "That's Pretty Clean - Instrumental",
-      "url": "https://open.spotify.com/track/6vjrerhomI6csr34YQkzTp"
+      "duration_ms": 298080,
+      "name": "Show Me - Live At Winchester Cathedral 1967",
+      "url": "https://open.spotify.com/track/4A2rQDVPQGswdDxN9U2PjK"
     },
     {
       "added_at": null,
@@ -747,6 +731,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Life",
+        "url": "https://open.spotify.com/album/2fWTszgtsvzlCwCdb3Tpru"
+      },
+      "artists": [
+        {
+          "name": "Sly & The Family Stone",
+          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
+        }
+      ],
+      "duration_ms": 133000,
+      "name": "Into My Own Thing",
+      "url": "https://open.spotify.com/track/1jKFBuegXD4DPc7Gd8HhJm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Whole New Thing",
         "url": "https://open.spotify.com/album/2Qxaq1aDwgNib9fm73rRGy"
       },
@@ -763,8 +763,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Life",
-        "url": "https://open.spotify.com/album/2fWTszgtsvzlCwCdb3Tpru"
+        "name": "There's A Riot Goin' On (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0ihYToxMgYcuHuxOKjGQKO"
       },
       "artists": [
         {
@@ -772,9 +772,9 @@
           "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
         }
       ],
-      "duration_ms": 163266,
-      "name": "Love City",
-      "url": "https://open.spotify.com/track/0RfvI47szEhLTEnD7WTIco"
+      "duration_ms": 252333,
+      "name": "That's Pretty Clean - Instrumental",
+      "url": "https://open.spotify.com/track/6vjrerhomI6csr34YQkzTp"
     },
     {
       "added_at": null,

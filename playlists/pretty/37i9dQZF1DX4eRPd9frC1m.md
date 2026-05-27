@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eRPd9frC1m.md) - [plain]
 
 > Aggressive trap and bass for the <a href="spotify:genre:edm\_dance">gym</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,576,501 likes - 75 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,576,616 likes - 75 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eRPd9frC1m.md) - [plain]
 | 38 | [Pepper](https://open.spotify.com/track/0OCFIEsSrmKueOiPK6S3xq) | [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [Pepper](https://open.spotify.com/album/6Rg6yUy37Cb6Y1JeTRQv4Y) | 2:28 |
 | 39 | [FACEDOWN](https://open.spotify.com/track/5bBsJxig0Ls4USQqIukB6I) | [Kai Wachi](https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K), [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64) | [FACEDOWN](https://open.spotify.com/album/2ynrHhpM9WSDh9Snv0dz1c) | 2:36 |
 | 40 | [Burial \(feat\. Pusha T, Moody Good, TrollPhace\)](https://open.spotify.com/track/7DHX1Ng0V186U2idfFfjGi) | [Yogi](https://open.spotify.com/artist/0QiCCpzEYPFaWqkWtDQTmH), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Moody Good](https://open.spotify.com/artist/3EN8pUGJtYWutzf2fUxrDH), [Trollphace](https://open.spotify.com/artist/0OJ5ViZQUFL6ileg5HvKKy) | [Burial \(feat\. Pusha T, Moody Good, TrollPhace\)](https://open.spotify.com/album/3rOzXYxXqBUcw3u131mrjE) | 3:46 |
-| 41 | [Make You Move](https://open.spotify.com/track/5FwShfnXbAeoEVtS3d37cQ) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf) | [Make You Move](https://open.spotify.com/album/6Ivi4D1oC0lM7gDgyvq7gr) | 2:24 |
-| 42 | [Lock In](https://open.spotify.com/track/0A6IKTxklEXg3GhSZrudG7) | [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Wooli](https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc) | [Lock In](https://open.spotify.com/album/3n1XJnPD5bMzskwPLtgAoY) | 3:35 |
+| 41 | [Lock In](https://open.spotify.com/track/0A6IKTxklEXg3GhSZrudG7) | [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Wooli](https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc) | [Lock In](https://open.spotify.com/album/3n1XJnPD5bMzskwPLtgAoY) | 3:35 |
+| 42 | [Make You Move](https://open.spotify.com/track/5FwShfnXbAeoEVtS3d37cQ) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf) | [Make You Move](https://open.spotify.com/album/6Ivi4D1oC0lM7gDgyvq7gr) | 2:24 |
 | 43 | [Griztronics II \(Another Level\)](https://open.spotify.com/track/2il9NDpW87Hk2L9AjeDf8r) | [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut), [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO) | [Griztronics II \(Another Level\)](https://open.spotify.com/album/5X4WpuocAItWP0dtDT5BCw) | 2:45 |
 | 44 | [Name Drop](https://open.spotify.com/track/02yaX0Reb1fQYIQdri4Ow8) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [Wooli](https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc) | [Name Drop](https://open.spotify.com/album/6mrEmNiDqgKLM38kUpyrbp) | 3:48 |
 | 45 | [LIKE ME](https://open.spotify.com/track/3F6DRq9JshCbbjEFjcxHt5) | [Nikita, the Wicked](https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd) | [LIKE ME](https://open.spotify.com/album/4Yag5dp4W2D5lPy3OjjXT4) | 3:27 |

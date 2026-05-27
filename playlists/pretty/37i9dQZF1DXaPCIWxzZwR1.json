@@ -1,12 +1,12 @@
 {
   "description": "next gen pop\nCover: Emei",
-  "num_followers": 1259476,
+  "num_followers": 1259455,
   "original_name": "Pop Sauce",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEkLfVva37R1Kmsbi7zIL7lgeJI7",
+  "snapshot_id": "AAAAAOv7Iw8SKd4YDg0Qwg1QBxMRbFeF",
   "tracks": [
     {
       "added_at": "2026-05-08 04:04:35",
@@ -91,6 +91,22 @@
     {
       "added_at": "2026-05-22 04:02:10",
       "album": {
+        "name": "the cure",
+        "url": "https://open.spotify.com/album/6zme2NwcaBxbn3mWOcMY8y"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 297090,
+      "name": "the cure",
+      "url": "https://open.spotify.com/track/4EoJ151oQ5jY48z4RhSE96"
+    },
+    {
+      "added_at": "2026-05-22 04:02:10",
+      "album": {
         "name": "Hell's Belles",
         "url": "https://open.spotify.com/album/18OF7zAz0K20cklvIZXAWD"
       },
@@ -153,20 +169,20 @@
       "url": "https://open.spotify.com/track/1qxP9aigVY42COVRva1rO9"
     },
     {
-      "added_at": "2026-05-22 04:02:10",
+      "added_at": "2026-05-26 19:34:29",
       "album": {
-        "name": "the cure",
-        "url": "https://open.spotify.com/album/6zme2NwcaBxbn3mWOcMY8y"
+        "name": "Off Campus: The Mixtape",
+        "url": "https://open.spotify.com/album/5CJqPFrc9hPete87L5DFSN"
       },
       "artists": [
         {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+          "name": "Ella Bright",
+          "url": "https://open.spotify.com/artist/7bzIKcaSnlUfRLJ9m00XZr"
         }
       ],
-      "duration_ms": 297090,
-      "name": "the cure",
-      "url": "https://open.spotify.com/track/4EoJ151oQ5jY48z4RhSE96"
+      "duration_ms": 251639,
+      "name": "Girl That I Am",
+      "url": "https://open.spotify.com/track/7jZk5cOxV1LVZFG7RIOaHE"
     },
     {
       "added_at": "2026-03-27 04:00:22",

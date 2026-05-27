@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzFWXFlsp56.md) - [plain]
 
 > Descubre los nuevos talentos de Colombia, Ecuador, Venezuela y Perú\. Foto: Barboza.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,671 likes - 30 songs - 1 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,674 likes - 30 songs - 1 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzFWXFlsp56.md) - [plain]
 | 2 | [Parcerita](https://open.spotify.com/track/3YKLq5l1JnFWSKRH3wEUd5) | [Dahili](https://open.spotify.com/artist/6H8CeqAmIA9VtwSDSvrViE) | [Parcerita](https://open.spotify.com/album/01TdCOmEc5uKhqIH3fI1hM) | 2:46 |
 | 3 | [Devuelveme](https://open.spotify.com/track/7BOSHIJraE4JBE53v4sZPH) | [Nohaaddana](https://open.spotify.com/artist/2w4vDNeEe7xccBqtBNjPcA) | [Devuelveme](https://open.spotify.com/album/4feBnII78FM9Gcq2oEkvGT) | 2:55 |
 | 4 | [EL TRUQUITO](https://open.spotify.com/track/6HbTtr6J9DjX32eLrYzioX) | [Criss & Ronny](https://open.spotify.com/artist/04byNS8WxNRTr1Fy2oQPrq), [Lil Silvio](https://open.spotify.com/artist/0iEsMMMvNaDBX3l61sRkok), [Zaider](https://open.spotify.com/artist/5Wuz885csKSCJoBNsOSCxz), [ANDY ALASKA](https://open.spotify.com/artist/4Khd0aexSTIiryfokru56l), [La Colectiva Élite](https://open.spotify.com/artist/73RwFq5bmYCM3FRdYuuuHa) | [EL TRUQUITO](https://open.spotify.com/album/1j6PaTdMZ167e2xsNm6IdT) | 2:53 |
-| 5 | [NoNoNo](https://open.spotify.com/track/2nHLeUWCPePxL12o5JbHzZ) | [Ysa C](https://open.spotify.com/artist/6jmYNc5XuhmHOEf58AGeRk) | [NoNoNo](https://open.spotify.com/album/3cVp5DmksK8HNLRn8gPGyh) | 2:30 |
+| 5 | [Linda](https://open.spotify.com/track/77KDRAKMs1dRirOgKOKM9j) | [Barboza](https://open.spotify.com/artist/0HN3uHZSS2Bosw1cFImLVG) | [AFRO RED 2](https://open.spotify.com/album/2hbLXNfQdvgStp3QJN9HNg) | 2:23 |
 | 6 | [Como Tu No Hay Dos](https://open.spotify.com/track/77q8XUFA6W31Y6UPE7vnLc) | [Mc Car](https://open.spotify.com/artist/1vVqFZ65U41UO7RTT4egvl), [maikol el insoportable](https://open.spotify.com/artist/3VM367sQBq9n6bsyu5OWQr) | [Como Tu No Hay Dos](https://open.spotify.com/album/51aVAzspYQpJwRtejGdgdI) | 3:32 |
 | 7 | [SALIENDO ES SALIENDO](https://open.spotify.com/track/42hTaDpzhdAtYyyJjkmaZl) | [Keyvin Ce](https://open.spotify.com/artist/59ELR8A5JHmUK402NRjbOE), [maikol el insoportable](https://open.spotify.com/artist/3VM367sQBq9n6bsyu5OWQr) | [SALIENDO ES SALIENDO](https://open.spotify.com/album/7iLgX5nMfSYr9UiyHJYjuE) | 3:16 |
 | 8 | [Morbo](https://open.spotify.com/track/2ehN9itTDowbr3ncyzuUgD) | [Jheral](https://open.spotify.com/artist/4zsxko6Co1HikDuBTWcm7E) | [COMPLEX](https://open.spotify.com/album/3nMvDl8iQ7f2roQEAUOZmt) | 2:08 |
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzFWXFlsp56.md) - [plain]
 | 29 | [TRAMAO'](https://open.spotify.com/track/3roblIHJ5FBJSGHxrM2jN0) | [Cleyh](https://open.spotify.com/artist/0t4vLHyQH6collUSn8wU8G), [Jao Beats](https://open.spotify.com/artist/4Q53RDJb0LrokF4Ef2S3Wm) | [TRAMAO'](https://open.spotify.com/album/6k96gYdcDrSihNvqNxYlnB) | 2:38 |
 | 30 | [Amuleto](https://open.spotify.com/track/2Q5J4z8MvQWyLPXBJDPV0R) | [Osman Música](https://open.spotify.com/artist/5sqVJ7uoK1LNs9ztmrsvmC) | [Amuleto](https://open.spotify.com/album/3zVrOqtjzisY8C9Tt1yyeO) | 2:55 |
 
-Snapshot ID: `AAAAADM/gc6/BTAViOLjwMx3HGchsbjV`
+Snapshot ID: `AAAAAE735Tn+YymDLcKotoZjqmI6di82`

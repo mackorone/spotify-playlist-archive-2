@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Tedua, IvanBi,  Vegas Jones, FreshMula, Silent Bob e molti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,521 likes - 109 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,525 likes - 109 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 39 | [F.I.$\. \(feat\. Tedua\)](https://open.spotify.com/track/5UVUTLEL671Ozsqfh7Kin7) | [Sayf](https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB), [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [SANTISSIMO](https://open.spotify.com/album/0Ua2qdU4Z3xzdmcXFkDCgF) | 3:06 |
 | 40 | [QUINDICI](https://open.spotify.com/track/71p2PZls7lUVPUnsrfwGHb) | [Spampy](https://open.spotify.com/artist/3OrFZXaCLSMFGIoYvTHQOL) | [QUINDICI](https://open.spotify.com/album/1ipxFzTQGm1bqgLcn3HkPx) | 2:37 |
 | 41 | [PERFECT TIMING](https://open.spotify.com/track/62dt2VQkwrkfo0xhURE3F1) | [Blackmill](https://open.spotify.com/artist/5SeYas0LiuReImA5tTojc0) | [PERFECT TIMING](https://open.spotify.com/album/3eydafNopbO1Ma47OZPl45) | 3:10 |
-| 42 | [MONTAGNA](https://open.spotify.com/track/2po9ZE001hx0fMIJMAnxMR) | [Enzo Benz](https://open.spotify.com/artist/6JKLzRBKTJYf1Wko3cNr7P), [Side Baby](https://open.spotify.com/artist/6PXiPeUVFrlaC1n8511ijT), [Whellele](https://open.spotify.com/artist/0FLa2WN4PurUaFP24efaZF) | [MONTAGNA](https://open.spotify.com/album/1zIsm9UnJYUW9dU1rXKgiK) | 2:16 |
+| 42 | [MONTAGNA \(feat\. Side Baby\)](https://open.spotify.com/track/2po9ZE001hx0fMIJMAnxMR) | [Enzo Benz](https://open.spotify.com/artist/6JKLzRBKTJYf1Wko3cNr7P), [Side Baby](https://open.spotify.com/artist/6PXiPeUVFrlaC1n8511ijT), [Whellele](https://open.spotify.com/artist/0FLa2WN4PurUaFP24efaZF) | [MONTAGNA \(feat\. Side Baby\)](https://open.spotify.com/album/1zIsm9UnJYUW9dU1rXKgiK) | 2:16 |
 | 43 | [Casa vuota](https://open.spotify.com/track/28m7j6q7sQf7E7mEPawK6q) | [Holy Francisco](https://open.spotify.com/artist/5WChj7aRvGYS5DGf8gKu3I) | [Casa Vuota](https://open.spotify.com/album/7LqjPvnwnABHh5DbTAauOt) | 2:05 |
 | 44 | [LOVE ME](https://open.spotify.com/track/6Xd1mqYyMIK9LWrGUciP80) | [Carla Hero](https://open.spotify.com/artist/75zVVFZrepdsKuXaKDvJWu) | [LOVE ME](https://open.spotify.com/album/58arh5Ywb3hxmzDReTVuyJ) | 3:14 |
 | 45 | [Beef & Broccoli](https://open.spotify.com/track/7A6QsRonGGsDc4FbyGBTMZ) | [Rico Pmf](https://open.spotify.com/artist/1V3hNQCQ9ZrVmRbiSm1d1A), [13Joph](https://open.spotify.com/artist/2f0kV6av13bM9DiJOLXWsC) | [Beef & Broccoli](https://open.spotify.com/album/4ssvkRyUKBSXIZjCUltvZp) | 2:20 |

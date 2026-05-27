@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Blaqbonez & Asake, Zerrydl, Qing Madi, LISA, Rema & Anitta, Moelogo, Lola Young, 6lack and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,150 likes - 56 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,248 likes - 56 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 23 | [Body Tea \(feat\. J Hus\)](https://open.spotify.com/track/4foa1MtTVcTboTIigCbjJv) | [MoStack](https://open.spotify.com/artist/14H15rElxdGClICOZXEYHP), [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr) | [Bulletproof Disc](https://open.spotify.com/album/0X9zXdN9mAkszdZjsWWhKx) | 2:41 |
 | 24 | [HOES \(feat\. Sexyy Red\) \[From Scary Movie\]](https://open.spotify.com/track/1IMTFCCPDw0R3JT6jYMimo) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [HOES \(feat\. Sexyy Red\) \[From Scary Movie\]](https://open.spotify.com/album/1fuVofIf79f9kg2CPH3LIt) | 2:09 |
 | 25 | [Be A Lover](https://open.spotify.com/track/4ulgOCX4KPIPaEOpOS6QFd) | [Jembaa Groove](https://open.spotify.com/artist/2eI6PFBggdyKUDG93qJQGs), [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx), [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD) | [Be A Lover](https://open.spotify.com/album/4V0X4r6sBK4R5RIQdJnSB0) | 2:45 |
-| 26 | [Problem](https://open.spotify.com/track/3OD3UCsA4VQYhCW9r0xhpW) | [TROD](https://open.spotify.com/artist/5DKBmzEjdaNklJiEU0Mti1), [Rexxie](https://open.spotify.com/artist/7j7DM0J7tR53AkT6UVwEkP) | [Problem](https://open.spotify.com/album/7ItuuDwFBHKwGMFUBGUv5y) | 3:09 |
+| 26 | [Problem](https://open.spotify.com/track/3OD3UCsA4VQYhCW9r0xhpW) | [TROD](https://open.spotify.com/artist/5DKBmzEjdaNklJiEU0Mti1), [Rexxie](https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku) | [Problem](https://open.spotify.com/album/7ItuuDwFBHKwGMFUBGUv5y) | 3:09 |
 | 27 | [Back to Sender](https://open.spotify.com/track/64ZaQ1kHO8HbPLN2EHuvIi) | [Kameni](https://open.spotify.com/artist/6kzVncWDmhnNOtlfvgBpfg) | [Time](https://open.spotify.com/album/4ISipAfZoyyxMUG3fdEaUq) | 3:03 |
 | 28 | [Ndolo](https://open.spotify.com/track/3d9fVcAraiePVZpJtd4Ke2) | [Sandrine Nnanga](https://open.spotify.com/artist/41d6INqm6tGuJx3SYD0j3x) | [Ndolo](https://open.spotify.com/album/21l42KSajOsJCI0IHBMprv) | 3:26 |
 | 29 | [the cure](https://open.spotify.com/track/4EoJ151oQ5jY48z4RhSE96) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [the cure](https://open.spotify.com/album/6zme2NwcaBxbn3mWOcMY8y) | 4:57 |

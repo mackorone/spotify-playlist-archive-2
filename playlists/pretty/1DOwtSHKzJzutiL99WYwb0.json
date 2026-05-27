@@ -1,13 +1,153 @@
 {
-  "description": "Collections made with EVERY kind of newly released 'K-Pop Bias' all over the world. Cover: aespa",
+  "description": "Collections made with EVERY kind of newly released 'K-Pop Bias' all over the world. Cover: AND2BLE",
   "num_followers": 759,
   "original_name": "K-Pop Bias : KPOP ESSENTIAL",
   "owner": {
     "name": "K-Pop Bias",
     "url": "https://open.spotify.com/user/fo9j3i5p2w7xubdtzqpd4h0ta"
   },
-  "snapshot_id": "AAAIJEde2WyvjkW0MaHrWFRty8l2JvtL",
+  "snapshot_id": "AAAIL3uVdm+TKKVu2HZNLC98mAgpP0oV",
   "tracks": [
+    {
+      "added_at": "2026-05-26 09:18:26",
+      "album": {
+        "name": "Sequence 01: Curiosity",
+        "url": "https://open.spotify.com/album/5fCZmHJgVkaNIf2ZcmlmzD"
+      },
+      "artists": [
+        {
+          "name": "AND2BLE",
+          "url": "https://open.spotify.com/artist/3vAHTO5HJ4FmzrLmVbOKRF"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "Curious",
+      "url": "https://open.spotify.com/track/3rg00htlOp0UuBZcAMGkwJ"
+    },
+    {
+      "added_at": "2026-05-26 09:18:55",
+      "album": {
+        "name": "PERMISSION",
+        "url": "https://open.spotify.com/album/3jMu5Qgsbr56M6p4yO9u5O"
+      },
+      "artists": [
+        {
+          "name": "TAEMIN",
+          "url": "https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8"
+        }
+      ],
+      "duration_ms": 178400,
+      "name": "PERMISSION",
+      "url": "https://open.spotify.com/track/4o9rKegcsPEFeLt2TZNNpj"
+    },
+    {
+      "added_at": "2026-05-26 09:19:02",
+      "album": {
+        "name": "Something Special",
+        "url": "https://open.spotify.com/album/41ZXHq2R4nI3vUdywPlPMq"
+      },
+      "artists": [
+        {
+          "name": "FANDOM",
+          "url": "https://open.spotify.com/artist/2A854MGtNE2Gi7Tp9BMQuv"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        },
+        {
+          "name": "Ahn Hyo-seop",
+          "url": "https://open.spotify.com/artist/1TUrQeNhlJMcg9zl8yiW70"
+        }
+      ],
+      "duration_ms": 234111,
+      "name": "Something Special",
+      "url": "https://open.spotify.com/track/5DCJC6w5jAz0cvZSjud7pr"
+    },
+    {
+      "added_at": "2026-05-26 09:19:11",
+      "album": {
+        "name": "LOVE ME",
+        "url": "https://open.spotify.com/album/57zmbd2w37UozDUyd7ejZ4"
+      },
+      "artists": [
+        {
+          "name": "SHOWNU X HYUNGWON (MONSTA X)",
+          "url": "https://open.spotify.com/artist/3AFqxSVdKDJD9qPx3K8tKg"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Do You Love Me",
+      "url": "https://open.spotify.com/track/5WW5kgl26bQH50oPAaS8WB"
+    },
+    {
+      "added_at": "2026-05-26 09:19:18",
+      "album": {
+        "name": "BUMPA",
+        "url": "https://open.spotify.com/album/7je4W0rO93omBFfKDmkjNn"
+      },
+      "artists": [
+        {
+          "name": "BIBI",
+          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+        }
+      ],
+      "duration_ms": 218366,
+      "name": "BUMPA",
+      "url": "https://open.spotify.com/track/6GSdBUjAnJmIjxMAYz5WCa"
+    },
+    {
+      "added_at": "2026-05-26 09:19:45",
+      "album": {
+        "name": "ROUTE ZERO : The ORA",
+        "url": "https://open.spotify.com/album/6esUKJnrDupoFtrQdxYJik"
+      },
+      "artists": [
+        {
+          "name": "xikers",
+          "url": "https://open.spotify.com/artist/6QHP8St0MzfNDqjKpwtMht"
+        }
+      ],
+      "duration_ms": 181720,
+      "name": "OKay",
+      "url": "https://open.spotify.com/track/61QmuU6FVkY3HE6ecs3bmx"
+    },
+    {
+      "added_at": "2026-05-26 09:20:04",
+      "album": {
+        "name": "4SHOBOIZ Vol. 2: 4SHOVILLE",
+        "url": "https://open.spotify.com/album/2PmrRGuWioIjWlJGvftkRl"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "LNGSHOT",
+          "url": "https://open.spotify.com/artist/2F4oTJOWkcD1JaTeKEa9h6"
+        }
+      ],
+      "duration_ms": 184202,
+      "name": "YEAH! YEAH!",
+      "url": "https://open.spotify.com/track/7vmq3Ukd8csLDpCvoOM9Do"
+    },
+    {
+      "added_at": "2026-05-26 09:20:14",
+      "album": {
+        "name": "WYLD - The 1st Album",
+        "url": "https://open.spotify.com/album/3MStQNoB6697D7M11xCqOl"
+      },
+      "artists": [
+        {
+          "name": "TAEYONG",
+          "url": "https://open.spotify.com/artist/6SKusTjOAPsTZ6kareKQdm"
+        }
+      ],
+      "duration_ms": 161000,
+      "name": "WYLD",
+      "url": "https://open.spotify.com/track/1VkT7cfI4GQPj5aBVWj7vU"
+    },
     {
       "added_at": "2026-05-18 07:09:14",
       "album": {
@@ -1491,134 +1631,6 @@
       "duration_ms": 183013,
       "name": "Memory",
       "url": "https://open.spotify.com/track/4l3EaJebI5YOPEU4o0Xllr"
-    },
-    {
-      "added_at": "2025-06-12 00:30:15",
-      "album": {
-        "name": "3rd Mini Album 'In a million noises, I'll be your harmony'",
-        "url": "https://open.spotify.com/album/1kOSueM1uqixinJjvk6ivV"
-      },
-      "artists": [
-        {
-          "name": "QWER",
-          "url": "https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy"
-        }
-      ],
-      "duration_ms": 202026,
-      "name": "Dear",
-      "url": "https://open.spotify.com/track/2ryzy7LSXUDFg5G05znHsL"
-    },
-    {
-      "added_at": "2025-05-30 06:09:36",
-      "album": {
-        "name": "A flower bookmark, Pt. 3",
-        "url": "https://open.spotify.com/album/4TeDL95L9OTCpYnuQwlrwY"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 224026,
-      "name": "Never Ending Story",
-      "url": "https://open.spotify.com/track/3iJxBDym1SeqNqJqnvreHK"
-    },
-    {
-      "added_at": "2025-05-30 06:09:51",
-      "album": {
-        "name": "TILT - The 2nd Mini Album",
-        "url": "https://open.spotify.com/album/706xdC5SJBOk85HoJSFJeq"
-      },
-      "artists": [
-        {
-          "name": "Red Velvet - IRENE & SEULGI",
-          "url": "https://open.spotify.com/artist/6bwp9ObI8FWvMPCIWVBmhl"
-        }
-      ],
-      "duration_ms": 184013,
-      "name": "TILT",
-      "url": "https://open.spotify.com/track/1etiDVN61JMXErlRMia2oR"
-    },
-    {
-      "added_at": "2025-05-30 06:09:58",
-      "album": {
-        "name": "Poet | Artist",
-        "url": "https://open.spotify.com/album/2ZrLQa73Q3wW2SXZPkSVED"
-      },
-      "artists": [
-        {
-          "name": "SHINee",
-          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
-        }
-      ],
-      "duration_ms": 204026,
-      "name": "Poet | Artist",
-      "url": "https://open.spotify.com/track/2cCoa7dwECGNlmLVV1Fgjf"
-    },
-    {
-      "added_at": "2025-05-30 06:10:13",
-      "album": {
-        "name": "ODYSSEY - The 1st Album",
-        "url": "https://open.spotify.com/album/4YqJnxf3dYKhosGRrfoQQo"
-      },
-      "artists": [
-        {
-          "name": "RIIZE",
-          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
-        }
-      ],
-      "duration_ms": 178175,
-      "name": "Fly Up",
-      "url": "https://open.spotify.com/track/4rRDmXBKB2X2Jnb8yLzAKZ"
-    },
-    {
-      "added_at": "2025-05-30 06:10:19",
-      "album": {
-        "name": "We are",
-        "url": "https://open.spotify.com/album/4vj008nVDYfO4m75ZT1VBu"
-      },
-      "artists": [
-        {
-          "name": "i-dle",
-          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
-        }
-      ],
-      "duration_ms": 154386,
-      "name": "Good Thing",
-      "url": "https://open.spotify.com/track/6d8DgvFxp6lbdfOw9BVkLS"
-    },
-    {
-      "added_at": "2025-05-30 06:10:34",
-      "album": {
-        "name": "EVE: ROMANCE",
-        "url": "https://open.spotify.com/album/4OrisjS1FiGCNucXdwtd3Y"
-      },
-      "artists": [
-        {
-          "name": "BIBI",
-          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
-        }
-      ],
-      "duration_ms": 176735,
-      "name": "Apocalypse",
-      "url": "https://open.spotify.com/track/53bnkcyDpei0ZlC30au1t7"
-    },
-    {
-      "added_at": "2025-05-30 06:10:45",
-      "album": {
-        "name": "<ASSEMBLE25>",
-        "url": "https://open.spotify.com/album/4MGXby5GGnly4aVwdZuwak"
-      },
-      "artists": [
-        {
-          "name": "tripleS",
-          "url": "https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK"
-        }
-      ],
-      "duration_ms": 186720,
-      "name": "\uae68\uc5b4 (Are You Alive)",
-      "url": "https://open.spotify.com/track/0hRr7x68aApt0TX1AIAA9W"
     }
   ],
   "unique_name": "K-Pop Bias : KPOP ESSENTIAL",

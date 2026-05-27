@@ -1,6 +1,6 @@
 {
   "description": "wandering the forest as the fog floats through the trees",
-  "num_followers": 342238,
+  "num_followers": 342450,
   "original_name": "gloomcore",
   "owner": {
     "name": "Spotify",
@@ -435,22 +435,6 @@
     {
       "added_at": "2026-05-15 04:00:43",
       "album": {
-        "name": "Blues",
-        "url": "https://open.spotify.com/album/6QZT2zNFTKGtNy1xNCeAA2"
-      },
-      "artists": [
-        {
-          "name": "where??",
-          "url": "https://open.spotify.com/artist/6bUr4trSlpbXmrXvVhRuRL"
-        }
-      ],
-      "duration_ms": 172444,
-      "name": "Blues",
-      "url": "https://open.spotify.com/track/5fgLlepwOuApu2Cjej7EyG"
-    },
-    {
-      "added_at": "2026-05-15 04:00:43",
-      "album": {
         "name": "no good",
         "url": "https://open.spotify.com/album/5bXac2jAurbn7UhA9rhBRw"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 127792,
       "name": "no good",
       "url": "https://open.spotify.com/track/0K92IEnxQYmD0AByfk1EKZ"
+    },
+    {
+      "added_at": "2026-05-15 04:00:43",
+      "album": {
+        "name": "Blues",
+        "url": "https://open.spotify.com/album/6QZT2zNFTKGtNy1xNCeAA2"
+      },
+      "artists": [
+        {
+          "name": "where??",
+          "url": "https://open.spotify.com/artist/6bUr4trSlpbXmrXvVhRuRL"
+        }
+      ],
+      "duration_ms": 172444,
+      "name": "Blues",
+      "url": "https://open.spotify.com/track/5fgLlepwOuApu2Cjej7EyG"
     },
     {
       "added_at": "2026-05-15 04:00:43",
@@ -499,6 +499,22 @@
     {
       "added_at": "2026-05-15 04:00:43",
       "album": {
+        "name": "wake up",
+        "url": "https://open.spotify.com/album/6G6lpAPRRKhwH2HUtvskfz"
+      },
+      "artists": [
+        {
+          "name": "Blu Velvet",
+          "url": "https://open.spotify.com/artist/4GhQUESEKnWAUS4d9pcSS8"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "wake up",
+      "url": "https://open.spotify.com/track/1kABbt163rQnhsQ3rElVNu"
+    },
+    {
+      "added_at": "2026-05-15 04:00:43",
+      "album": {
         "name": "i was always there for you",
         "url": "https://open.spotify.com/album/2oC1HESuo0LqRgFdG6JmNZ"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 119600,
       "name": "i was always there for you",
       "url": "https://open.spotify.com/track/6BmYmf6Ns6Wnup6vpKm7SH"
-    },
-    {
-      "added_at": "2026-05-15 04:00:43",
-      "album": {
-        "name": "wake up",
-        "url": "https://open.spotify.com/album/6G6lpAPRRKhwH2HUtvskfz"
-      },
-      "artists": [
-        {
-          "name": "Blu Velvet",
-          "url": "https://open.spotify.com/artist/4GhQUESEKnWAUS4d9pcSS8"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "wake up",
-      "url": "https://open.spotify.com/track/1kABbt163rQnhsQ3rElVNu"
     },
     {
       "added_at": "2026-05-15 04:00:43",
@@ -643,22 +643,6 @@
     {
       "added_at": "2026-05-15 04:00:43",
       "album": {
-        "name": "try to find you",
-        "url": "https://open.spotify.com/album/2L6M7uhtmkIfnsFjezamjU"
-      },
-      "artists": [
-        {
-          "name": "Inlirium",
-          "url": "https://open.spotify.com/artist/066MLijKpVu3cOFCn0H4Ib"
-        }
-      ],
-      "duration_ms": 99493,
-      "name": "try to find you",
-      "url": "https://open.spotify.com/track/5YflECMsYbbO4ngUIhsCNX"
-    },
-    {
-      "added_at": "2026-05-15 04:00:43",
-      "album": {
         "name": "fly high",
         "url": "https://open.spotify.com/album/7g2YMNuWZaOxXLffXGa2v3"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 107056,
       "name": "fly high",
       "url": "https://open.spotify.com/track/2MZ5LDS1QzKIEWhkUPiyvp"
+    },
+    {
+      "added_at": "2026-05-15 04:00:43",
+      "album": {
+        "name": "try to find you",
+        "url": "https://open.spotify.com/album/2L6M7uhtmkIfnsFjezamjU"
+      },
+      "artists": [
+        {
+          "name": "Inlirium",
+          "url": "https://open.spotify.com/artist/066MLijKpVu3cOFCn0H4Ib"
+        }
+      ],
+      "duration_ms": 99493,
+      "name": "try to find you",
+      "url": "https://open.spotify.com/track/5YflECMsYbbO4ngUIhsCNX"
     },
     {
       "added_at": "2026-05-15 04:00:43",
@@ -823,26 +823,6 @@
     {
       "added_at": "2026-05-15 04:00:43",
       "album": {
-        "name": "losing",
-        "url": "https://open.spotify.com/album/5OQdqJJbbUlzw4ugElm7nR"
-      },
-      "artists": [
-        {
-          "name": "donnow.",
-          "url": "https://open.spotify.com/artist/0nHykAsmg6hq7h7OGazrME"
-        },
-        {
-          "name": "julez",
-          "url": "https://open.spotify.com/artist/72DZClrG6inu1xATuKl6lH"
-        }
-      ],
-      "duration_ms": 90861,
-      "name": "losing",
-      "url": "https://open.spotify.com/track/6VbCeNW181BuuT1ZymXxQG"
-    },
-    {
-      "added_at": "2026-05-15 04:00:43",
-      "album": {
         "name": "Melancholic Rain",
         "url": "https://open.spotify.com/album/7jNQLGLjxvpGT4TlYn9Zru"
       },
@@ -863,22 +843,22 @@
     {
       "added_at": "2026-05-15 04:00:43",
       "album": {
-        "name": "haunted, but it's ambient",
-        "url": "https://open.spotify.com/album/3cC0MalFj3LK0x2V5UZHgl"
+        "name": "losing",
+        "url": "https://open.spotify.com/album/5OQdqJJbbUlzw4ugElm7nR"
       },
       "artists": [
         {
-          "name": "MADEBYGODES",
-          "url": "https://open.spotify.com/artist/4OXlZUkQMXImUKcUGuukhc"
+          "name": "donnow.",
+          "url": "https://open.spotify.com/artist/0nHykAsmg6hq7h7OGazrME"
         },
         {
-          "name": "Sedogy Bedam",
-          "url": "https://open.spotify.com/artist/198xMLATWaPlxnxW6dzgWt"
+          "name": "julez",
+          "url": "https://open.spotify.com/artist/72DZClrG6inu1xATuKl6lH"
         }
       ],
-      "duration_ms": 136800,
-      "name": "haunted, but it's ambient",
-      "url": "https://open.spotify.com/track/7gQ4JFzIS4CcwbPntsVDsN"
+      "duration_ms": 90861,
+      "name": "losing",
+      "url": "https://open.spotify.com/track/6VbCeNW181BuuT1ZymXxQG"
     },
     {
       "added_at": "2026-05-15 04:00:43",
@@ -895,6 +875,26 @@
       "duration_ms": 141483,
       "name": "Maple Seed",
       "url": "https://open.spotify.com/track/0rZa2GnKCs1p622yxAnYs5"
+    },
+    {
+      "added_at": "2026-05-15 04:00:43",
+      "album": {
+        "name": "haunted, but it's ambient",
+        "url": "https://open.spotify.com/album/3cC0MalFj3LK0x2V5UZHgl"
+      },
+      "artists": [
+        {
+          "name": "MADEBYGODES",
+          "url": "https://open.spotify.com/artist/4OXlZUkQMXImUKcUGuukhc"
+        },
+        {
+          "name": "Sedogy Bedam",
+          "url": "https://open.spotify.com/artist/198xMLATWaPlxnxW6dzgWt"
+        }
+      ],
+      "duration_ms": 136800,
+      "name": "haunted, but it's ambient",
+      "url": "https://open.spotify.com/track/7gQ4JFzIS4CcwbPntsVDsN"
     },
     {
       "added_at": "2026-05-15 04:00:43",
@@ -931,22 +931,6 @@
       "duration_ms": 145454,
       "name": "silent",
       "url": "https://open.spotify.com/track/2TXXJo8xBzq3eszQkA391r"
-    },
-    {
-      "added_at": "2026-05-15 04:00:43",
-      "album": {
-        "name": "#bfbfbf (12:20:00pm - 05:07:53pm)",
-        "url": "https://open.spotify.com/album/1dqlAOTcIraLdy4oYUTGDm"
-      },
-      "artists": [
-        {
-          "name": "Jun Futamata",
-          "url": "https://open.spotify.com/artist/1gpvbGT0Zs5ClF9dcnH7fW"
-        }
-      ],
-      "duration_ms": 287913,
-      "name": "#bfbfbf (12:20:00pm - 05:07:53pm)",
-      "url": "https://open.spotify.com/track/0Xx2Wd7PnL9SrbW0cFiQsF"
     },
     {
       "added_at": "2026-05-15 04:00:43",
@@ -991,6 +975,22 @@
       "duration_ms": 98108,
       "name": "for us",
       "url": "https://open.spotify.com/track/45R6vmTyzezkT5I96ZJUvN"
+    },
+    {
+      "added_at": "2026-05-15 04:00:43",
+      "album": {
+        "name": "#bfbfbf (12:20:00pm - 05:07:53pm)",
+        "url": "https://open.spotify.com/album/1dqlAOTcIraLdy4oYUTGDm"
+      },
+      "artists": [
+        {
+          "name": "Jun Futamata",
+          "url": "https://open.spotify.com/artist/1gpvbGT0Zs5ClF9dcnH7fW"
+        }
+      ],
+      "duration_ms": 287913,
+      "name": "#bfbfbf (12:20:00pm - 05:07:53pm)",
+      "url": "https://open.spotify.com/track/0Xx2Wd7PnL9SrbW0cFiQsF"
     },
     {
       "added_at": "2026-05-15 04:00:43",
@@ -1131,22 +1131,22 @@
     {
       "added_at": "2026-05-15 04:00:43",
       "album": {
-        "name": "Decomposition: Fox on a Highway",
-        "url": "https://open.spotify.com/album/0Ml1fgzwzQBA0G7K12QGuB"
+        "name": "searching",
+        "url": "https://open.spotify.com/album/2cmVsjln1umP4LzUmn9DbK"
       },
       "artists": [
         {
-          "name": "Saapato",
-          "url": "https://open.spotify.com/artist/1zmmKdRwflRmJ8knfGlmYt"
+          "name": "Cephas Azariah",
+          "url": "https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG"
         },
         {
-          "name": "Ben Seretan",
-          "url": "https://open.spotify.com/artist/54N4voTBO17fp6dEegF4qa"
+          "name": "Elle Limebear",
+          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
         }
       ],
-      "duration_ms": 201423,
-      "name": "Fur and Exhaust",
-      "url": "https://open.spotify.com/track/6CjJAzQfMQnMsG36HDkxtS"
+      "duration_ms": 279935,
+      "name": "searching",
+      "url": "https://open.spotify.com/track/7JI8f3m5ur75iRRWZpj8sm"
     },
     {
       "added_at": "2026-05-15 04:00:43",
@@ -1171,22 +1171,22 @@
     {
       "added_at": "2026-05-15 04:00:43",
       "album": {
-        "name": "searching",
-        "url": "https://open.spotify.com/album/2cmVsjln1umP4LzUmn9DbK"
+        "name": "Decomposition: Fox on a Highway",
+        "url": "https://open.spotify.com/album/0Ml1fgzwzQBA0G7K12QGuB"
       },
       "artists": [
         {
-          "name": "Cephas Azariah",
-          "url": "https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG"
+          "name": "Saapato",
+          "url": "https://open.spotify.com/artist/1zmmKdRwflRmJ8knfGlmYt"
         },
         {
-          "name": "Elle Limebear",
-          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
+          "name": "Ben Seretan",
+          "url": "https://open.spotify.com/artist/54N4voTBO17fp6dEegF4qa"
         }
       ],
-      "duration_ms": 279935,
-      "name": "searching",
-      "url": "https://open.spotify.com/track/7JI8f3m5ur75iRRWZpj8sm"
+      "duration_ms": 201423,
+      "name": "Fur and Exhaust",
+      "url": "https://open.spotify.com/track/6CjJAzQfMQnMsG36HDkxtS"
     },
     {
       "added_at": "2026-05-15 04:00:43",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2026-05-15 04:00:43",
       "album": {
+        "name": "Heaven in Time",
+        "url": "https://open.spotify.com/album/50k7TzyHX3wq9auHlbsyUw"
+      },
+      "artists": [
+        {
+          "name": "BAILE",
+          "url": "https://open.spotify.com/artist/135mViPxje2MED7hOnn2j9"
+        }
+      ],
+      "duration_ms": 164386,
+      "name": "Heaven in Time",
+      "url": "https://open.spotify.com/track/6XNxEFDlgG6MVfay6uGf9d"
+    },
+    {
+      "added_at": "2026-05-15 04:00:43",
+      "album": {
         "name": "lost in the forest",
         "url": "https://open.spotify.com/album/6c1WtpUzNaEYRToR0NZZi5"
       },
@@ -1231,22 +1247,6 @@
       "duration_ms": 106675,
       "name": "lost in the forest",
       "url": "https://open.spotify.com/track/7nXa1PLguS1cJe1nrYJ321"
-    },
-    {
-      "added_at": "2026-05-15 04:00:43",
-      "album": {
-        "name": "Heaven in Time",
-        "url": "https://open.spotify.com/album/50k7TzyHX3wq9auHlbsyUw"
-      },
-      "artists": [
-        {
-          "name": "BAILE",
-          "url": "https://open.spotify.com/artist/135mViPxje2MED7hOnn2j9"
-        }
-      ],
-      "duration_ms": 164386,
-      "name": "Heaven in Time",
-      "url": "https://open.spotify.com/track/6XNxEFDlgG6MVfay6uGf9d"
     },
     {
       "added_at": "2026-05-15 04:00:43",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2026-05-15 04:00:43",
       "album": {
+        "name": "my last days on earth",
+        "url": "https://open.spotify.com/album/0KwmxR4yFvFRmbIACIBH89"
+      },
+      "artists": [
+        {
+          "name": "undercurrent.",
+          "url": "https://open.spotify.com/artist/1GadL8gKNORWAIsnnaJcpO"
+        }
+      ],
+      "duration_ms": 139200,
+      "name": "my last days on earth",
+      "url": "https://open.spotify.com/track/2yPZ665zeVWZErn9lNVzKF"
+    },
+    {
+      "added_at": "2026-05-15 04:00:43",
+      "album": {
         "name": "Nebel",
         "url": "https://open.spotify.com/album/4gyklZEAM1QW9lOiIPAZCO"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 194077,
       "name": "Nebel",
       "url": "https://open.spotify.com/track/5eT7cM9qUIZ8ruUkJilnCz"
-    },
-    {
-      "added_at": "2026-05-15 04:00:43",
-      "album": {
-        "name": "Vintage Well",
-        "url": "https://open.spotify.com/album/6Yq2E5sFMqeT3SsOsdVHTm"
-      },
-      "artists": [
-        {
-          "name": "Deaf Center",
-          "url": "https://open.spotify.com/artist/0GQJRlsTD8irKEDcClYiiA"
-        }
-      ],
-      "duration_ms": 170878,
-      "name": "Close",
-      "url": "https://open.spotify.com/track/2qZBYY1G1guH9FjToCn0g4"
     },
     {
       "added_at": "2026-05-15 04:00:43",
@@ -1347,18 +1347,18 @@
     {
       "added_at": "2026-05-15 04:00:43",
       "album": {
-        "name": "my last days on earth",
-        "url": "https://open.spotify.com/album/0KwmxR4yFvFRmbIACIBH89"
+        "name": "Vintage Well",
+        "url": "https://open.spotify.com/album/6Yq2E5sFMqeT3SsOsdVHTm"
       },
       "artists": [
         {
-          "name": "undercurrent.",
-          "url": "https://open.spotify.com/artist/1GadL8gKNORWAIsnnaJcpO"
+          "name": "Deaf Center",
+          "url": "https://open.spotify.com/artist/0GQJRlsTD8irKEDcClYiiA"
         }
       ],
-      "duration_ms": 139200,
-      "name": "my last days on earth",
-      "url": "https://open.spotify.com/track/2yPZ665zeVWZErn9lNVzKF"
+      "duration_ms": 170878,
+      "name": "Close",
+      "url": "https://open.spotify.com/track/2qZBYY1G1guH9FjToCn0g4"
     },
     {
       "added_at": "2026-05-15 04:00:43",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2026-05-15 04:00:43",
       "album": {
-        "name": "no service",
-        "url": "https://open.spotify.com/album/17wnWBr68OQoLFULf9uVXD"
-      },
-      "artists": [
-        {
-          "name": "Marcelo De Carvalho",
-          "url": "https://open.spotify.com/artist/4SoA6yxZqGoIm96Zjynd1o"
-        }
-      ],
-      "duration_ms": 170181,
-      "name": "no service",
-      "url": "https://open.spotify.com/track/2JfoV8oR2kQH5Zy2YWzIZx"
-    },
-    {
-      "added_at": "2026-05-15 04:00:43",
-      "album": {
         "name": "Love Is Colder Than Death",
         "url": "https://open.spotify.com/album/04G4BWBdbZSPZJPE3anfLb"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 213832,
       "name": "Out Of The Past",
       "url": "https://open.spotify.com/track/6iTpwzfupCsZWM7V67Okog"
+    },
+    {
+      "added_at": "2026-05-15 04:00:43",
+      "album": {
+        "name": "no service",
+        "url": "https://open.spotify.com/album/17wnWBr68OQoLFULf9uVXD"
+      },
+      "artists": [
+        {
+          "name": "Marcelo De Carvalho",
+          "url": "https://open.spotify.com/artist/4SoA6yxZqGoIm96Zjynd1o"
+        }
+      ],
+      "duration_ms": 170181,
+      "name": "no service",
+      "url": "https://open.spotify.com/track/2JfoV8oR2kQH5Zy2YWzIZx"
     },
     {
       "added_at": "2026-05-15 04:00:43",
@@ -1515,22 +1515,22 @@
     {
       "added_at": "2026-05-15 04:00:43",
       "album": {
-        "name": "Symmetry",
-        "url": "https://open.spotify.com/album/3tN4TSBqKFF2zEFMhVcvQG"
+        "name": "morning after midnight",
+        "url": "https://open.spotify.com/album/1XpDajCQvExEBbpynkalWP"
       },
       "artists": [
         {
-          "name": "Alexander John",
-          "url": "https://open.spotify.com/artist/2ngy5SYgu4IgNF7Zw9vbNt"
+          "name": "Eleftherios",
+          "url": "https://open.spotify.com/artist/6z7DDiVB1Cca0P1VcsvxM9"
         },
         {
-          "name": "Robot Koch",
-          "url": "https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI"
+          "name": "Droner",
+          "url": "https://open.spotify.com/artist/1XHCSxunHr6IVLuZ7FH5rl"
         }
       ],
-      "duration_ms": 199933,
-      "name": "Symmetry",
-      "url": "https://open.spotify.com/track/04xvAfowaRbutabkOUzILY"
+      "duration_ms": 136054,
+      "name": "morning after midnight",
+      "url": "https://open.spotify.com/track/5omO0sQ8qJK64CQrC4GoLY"
     },
     {
       "added_at": "2026-05-15 04:00:43",
@@ -1551,6 +1551,26 @@
     {
       "added_at": "2026-05-15 04:00:43",
       "album": {
+        "name": "Symmetry",
+        "url": "https://open.spotify.com/album/3tN4TSBqKFF2zEFMhVcvQG"
+      },
+      "artists": [
+        {
+          "name": "Alexander John",
+          "url": "https://open.spotify.com/artist/2ngy5SYgu4IgNF7Zw9vbNt"
+        },
+        {
+          "name": "Robot Koch",
+          "url": "https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI"
+        }
+      ],
+      "duration_ms": 199933,
+      "name": "Symmetry",
+      "url": "https://open.spotify.com/track/04xvAfowaRbutabkOUzILY"
+    },
+    {
+      "added_at": "2026-05-15 04:00:43",
+      "album": {
         "name": "Common",
         "url": "https://open.spotify.com/album/2hGtMdGoaRqKeADSD1KyPD"
       },
@@ -1563,26 +1583,6 @@
       "duration_ms": 155186,
       "name": "Common",
       "url": "https://open.spotify.com/track/37cddsvKZTPyYipLpzjpDx"
-    },
-    {
-      "added_at": "2026-05-15 04:00:43",
-      "album": {
-        "name": "morning after midnight",
-        "url": "https://open.spotify.com/album/1XpDajCQvExEBbpynkalWP"
-      },
-      "artists": [
-        {
-          "name": "Eleftherios",
-          "url": "https://open.spotify.com/artist/6z7DDiVB1Cca0P1VcsvxM9"
-        },
-        {
-          "name": "Droner",
-          "url": "https://open.spotify.com/artist/1XHCSxunHr6IVLuZ7FH5rl"
-        }
-      ],
-      "duration_ms": 136054,
-      "name": "morning after midnight",
-      "url": "https://open.spotify.com/track/5omO0sQ8qJK64CQrC4GoLY"
     },
     {
       "added_at": "2026-05-15 04:00:43",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2026-05-15 04:00:43",
       "album": {
-        "name": "Inertia",
-        "url": "https://open.spotify.com/album/2PWZDzv9Z2Sp58ISvcvbXm"
-      },
-      "artists": [
-        {
-          "name": "Nobuhiro Okahashi",
-          "url": "https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py"
-        }
-      ],
-      "duration_ms": 168480,
-      "name": "Inertia",
-      "url": "https://open.spotify.com/track/1cFOb7A2b3o5TnGsx3lG23"
-    },
-    {
-      "added_at": "2026-05-15 04:00:43",
-      "album": {
         "name": "Lonesome Sound",
         "url": "https://open.spotify.com/album/5frWXfCvYwKWOU3yjs6CGb"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 301863,
       "name": "Lonesome Sound",
       "url": "https://open.spotify.com/track/0W3XARJKAvikHEiOSgHl0z"
+    },
+    {
+      "added_at": "2026-05-15 04:00:43",
+      "album": {
+        "name": "Inertia",
+        "url": "https://open.spotify.com/album/2PWZDzv9Z2Sp58ISvcvbXm"
+      },
+      "artists": [
+        {
+          "name": "Nobuhiro Okahashi",
+          "url": "https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py"
+        }
+      ],
+      "duration_ms": 168480,
+      "name": "Inertia",
+      "url": "https://open.spotify.com/track/1cFOb7A2b3o5TnGsx3lG23"
     },
     {
       "added_at": "2026-05-15 04:00:43",

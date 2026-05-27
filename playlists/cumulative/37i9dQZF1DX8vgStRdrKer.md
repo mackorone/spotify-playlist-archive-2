@@ -4,7 +4,7 @@
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  Mercy Chinwo
 
-793 songs - 2 day 20 hr 20 min
+794 songs - 2 day 20 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -301,6 +301,7 @@
 | [Holy Ghost Help Me Pray \- Live](https://open.spotify.com/track/3gLseUrjaS7SyMinAyuE1l) | [Jimmy D Psalmist](https://open.spotify.com/artist/6weeLM99JwrUAncX6igRcs) | [Holy Ghost Help Me Pray \(Live\)](https://open.spotify.com/album/5gMjpCYEzyy2FwOGR4Zb27) | 10:56 | 2025-10-24 | 2025-12-12 |
 | [Holy Lion \- Live](https://open.spotify.com/track/1a5o3ggaPXvJQ4jpJse1G7) | [Esua](https://open.spotify.com/artist/4d4PXQtoasXLoQHuguk2U2) | [Holy Lion](https://open.spotify.com/album/0iPF450yj9uArQB1dzYGwP) | 8:36 | 2026-04-03 | 2026-05-22 |
 | [HOLY PLACE](https://open.spotify.com/track/5jkD22xzTiwTLp90CBpTmr) | [Grace Idowu](https://open.spotify.com/artist/77XL22LWpJkV8djPjCNoNH) | [HOLY PLACE](https://open.spotify.com/album/2opgoS8ibTjPJCU55jgkt4) | 4:17 | 2026-01-30 |  |
+| [Holy Pressure](https://open.spotify.com/track/5y7Ok74m78xZLLkdgulUzb) | [Emino](https://open.spotify.com/artist/3hYAcneDCX7ejZQfeZT3Fy), [Joebee](https://open.spotify.com/artist/2G7eSWBy0QnGT1Ot6HUbP1), [Emino Music](https://open.spotify.com/artist/65GNAr0aGMupyBKVZ4p98a) | [Holy Pressure](https://open.spotify.com/album/7IH7G3dtJBYnVh8H6F9z1n) | 2:30 | 2026-05-22 |  |
 | [Holy Spirit](https://open.spotify.com/track/77I6qSpZcwJoEhxNo0yCQ9) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [Holy Spirit](https://open.spotify.com/album/0dcPOadAg4gyXkKiSoa6N0) | 5:51 | 2024-11-15 | 2025-06-20 |
 | [HOLY SPIRIT](https://open.spotify.com/track/7e4oDgH2FoMXIa6mki1qfR) | [Uwa](https://open.spotify.com/artist/3PhBxIUdrJCXeEprUL5pkV), [Doris Joseph](https://open.spotify.com/artist/2gIZrTYURG6RxnI3mGFHEt) | [HOLY SPIRIT](https://open.spotify.com/album/2KDwgT9VlbZ8ofrqftFDvB) | 2:45 | 2025-08-01 | 2025-08-21 |
 | [Holy Spirit](https://open.spotify.com/track/6U2QzcexhOvb7Lxw8RaWsR) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Holy Spirit](https://open.spotify.com/album/7s4KFFw83SK8KLoNKJ6D1p) | 3:39 | 2026-03-06 | 2026-05-22 |
@@ -608,7 +609,7 @@
 | [Right On Time](https://open.spotify.com/track/1uF7QsPxujjCj8u65dgrl9) | [K3ndrick](https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5), [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC) | [Since No\. 11](https://open.spotify.com/album/6z12CVRJweLfcMg25JZxXP) | 2:47 | 2024-03-15 | 2024-07-23 |
 | [Rise Again](https://open.spotify.com/track/4QslrJv6HTxAvbVuGbGAzD) | [Noël Mio](https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta) | [Rise Again](https://open.spotify.com/album/4Jz256xiPaijzGdNvMS7V8) | 2:33 | 2025-07-18 | 2025-09-22 |
 | [Rise Up \(Lazarus\)](https://open.spotify.com/track/04LAy5aSyniUfX6sXnjsF5) | [Anthem Worship](https://open.spotify.com/artist/71LGmy4toAaXKJP7IK8xvG), [Remnant House](https://open.spotify.com/artist/0oCYQlLFMypU2RxjCRvpgR), [Mass Anthem](https://open.spotify.com/artist/0KVR8D2dx5Td8ONhNZRLkM) | [Rise Up \(Lazarus\)](https://open.spotify.com/album/03vhlBbQj9TOuyVVSv0D3J) | 2:45 | 2024-06-14 | 2024-07-12 |
-| [Ruach Elohim \- Live](https://open.spotify.com/track/4QDlHBxytxVy2xih18S6Qy) | [Faith Captain](https://open.spotify.com/artist/3w0OMqAlsf7zRV2GprZvJK) | [Ruach Elohim \(Live\)](https://open.spotify.com/album/5YXzvcAelTlwLiOMpVnESh) | 10:37 | 2025-10-31 |  |
+| [Ruach Elohim \- Live](https://open.spotify.com/track/4QDlHBxytxVy2xih18S6Qy) | [Faith Captain](https://open.spotify.com/artist/3w0OMqAlsf7zRV2GprZvJK) | [Ruach Elohim \(Live\)](https://open.spotify.com/album/5YXzvcAelTlwLiOMpVnESh) | 10:37 | 2025-10-31 | 2026-05-27 |
 | [Sacrifices](https://open.spotify.com/track/3ydFeDJhwMSWRFJFA3jsfG) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Jenge](https://open.spotify.com/artist/7u3MaCiypw3nu7mhEvFtdT), [Naffymar](https://open.spotify.com/artist/31XHZpkBidKYdb27RBePrr) | [Sacrifices](https://open.spotify.com/album/05jjR9mGXTvLf2x8QYoiOq) | 3:28 | 2023-09-29 | 2023-10-20 |
 | [Sagona](https://open.spotify.com/track/7q5Hub5C9r8H4BrICTufGV) | [Tio Nason](https://open.spotify.com/artist/44vOrGC9wQuBCQIeBUNc1O) | [Sagona](https://open.spotify.com/album/4ExhBArXnjrY9y3lvAZz1A) | 2:38 | 2025-08-01 | 2025-08-26 |
 | [Same God II \- Live](https://open.spotify.com/track/0ZfahO1B3nAo20FKUptVaa) | [Segun John](https://open.spotify.com/artist/5NZNxkH7KFr0xZ2yyZpOt2), [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [Same God II \(Live\)](https://open.spotify.com/album/5gzsOlYRoeQRVyoadlirOq) | 9:53 | 2025-10-31 | 2026-01-15 |

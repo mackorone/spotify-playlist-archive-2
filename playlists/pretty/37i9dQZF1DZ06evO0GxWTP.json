@@ -1,12 +1,12 @@
 {
   "description": "This is Bankzitters. The essential tracks, all in one playlist.",
-  "num_followers": 24689,
+  "num_followers": 24706,
   "original_name": "This Is Bankzitters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahI/gAAAAACiyynhDgLvTJHfinmnrC6H",
+  "snapshot_id": "ahORAAAAAABTAcCY31rgry8CtmPHV3jY",
   "tracks": [
     {
       "added_at": null,
@@ -151,6 +151,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Iconisch",
+        "url": "https://open.spotify.com/album/1gfcL8Tie2oJUhC0Y0ELCW"
+      },
+      "artists": [
+        {
+          "name": "Bankzitters",
+          "url": "https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB"
+        }
+      ],
+      "duration_ms": 141141,
+      "name": "Iconisch",
+      "url": "https://open.spotify.com/track/3cRns9obH2lGJ4fpInVxut"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Waarom Moet Ze Nou Een DJ Zijn",
         "url": "https://open.spotify.com/album/6gLC0qISl2lDP5xv6gS5HK"
       },
@@ -167,22 +183,6 @@
       "duration_ms": 154186,
       "name": "Waarom Moet Ze Nou Een DJ Zijn",
       "url": "https://open.spotify.com/track/5wicBOl9Ueuw1ziOEs4ZNH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Iconisch",
-        "url": "https://open.spotify.com/album/1gfcL8Tie2oJUhC0Y0ELCW"
-      },
-      "artists": [
-        {
-          "name": "Bankzitters",
-          "url": "https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB"
-        }
-      ],
-      "duration_ms": 141141,
-      "name": "Iconisch",
-      "url": "https://open.spotify.com/track/3cRns9obH2lGJ4fpInVxut"
     },
     {
       "added_at": null,
@@ -363,22 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Baldadig",
-        "url": "https://open.spotify.com/album/2VedHF82GU8j4TjX5u8GQW"
-      },
-      "artists": [
-        {
-          "name": "Bankzitters",
-          "url": "https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB"
-        }
-      ],
-      "duration_ms": 143542,
-      "name": "Baldadig",
-      "url": "https://open.spotify.com/track/4DcILDUsjnTbh5J0QPw4AW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stapelgek",
         "url": "https://open.spotify.com/album/4b6k5ntVgXMSoGuTUK6xv5"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 140202,
       "name": "Vader & zoon - Remix",
       "url": "https://open.spotify.com/track/6N2BPQA4VVtUWbBFlCw5rF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Baldadig",
+        "url": "https://open.spotify.com/album/2VedHF82GU8j4TjX5u8GQW"
+      },
+      "artists": [
+        {
+          "name": "Bankzitters",
+          "url": "https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB"
+        }
+      ],
+      "duration_ms": 143542,
+      "name": "Baldadig",
+      "url": "https://open.spotify.com/track/4DcILDUsjnTbh5J0QPw4AW"
     },
     {
       "added_at": null,

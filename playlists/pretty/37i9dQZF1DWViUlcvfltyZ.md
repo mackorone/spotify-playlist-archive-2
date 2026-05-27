@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > Rock, indie e punk dall'Italia 🎸 cover: irossa al MI AMI Festival \(credits La Blet\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,681 likes - 111 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,689 likes - 111 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "Les meilleurs airs d'autoroute.",
-  "num_followers": 183519,
+  "num_followers": 183547,
   "original_name": "Bleu Blanc Route",
   "owner": {
     "name": "Spotify",
@@ -627,22 +627,6 @@
     {
       "added_at": "2026-04-17 09:45:18",
       "album": {
-        "name": "Cach\u00e9 derri\u00e8re",
-        "url": "https://open.spotify.com/album/6Q4Tu5UQrWPQzaxyyoT1Ia"
-      },
-      "artists": [
-        {
-          "name": "Laurent Voulzy",
-          "url": "https://open.spotify.com/artist/6ogXCiVOaz2afPmMNHph7Z"
-        }
-      ],
-      "duration_ms": 215160,
-      "name": "Le pouvoir des fleurs",
-      "url": "https://open.spotify.com/track/4msnxiNpg9Mvm6f0NMYFKx"
-    },
-    {
-      "added_at": "2026-04-17 09:45:18",
-      "album": {
         "name": "Louane",
         "url": "https://open.spotify.com/album/7rDvst38yYrJFGqs4W25Y8"
       },
@@ -659,18 +643,34 @@
     {
       "added_at": "2026-04-17 09:45:18",
       "album": {
-        "name": "Juste Comme \u00c7a",
-        "url": "https://open.spotify.com/album/2fMnPZsQORaYp7SCPNAw03"
+        "name": "Cach\u00e9 derri\u00e8re",
+        "url": "https://open.spotify.com/album/6Q4Tu5UQrWPQzaxyyoT1Ia"
       },
       "artists": [
         {
-          "name": "Mickael Miro",
-          "url": "https://open.spotify.com/artist/0VtUo7KpkeFx3zwTmSwNQl"
+          "name": "Laurent Voulzy",
+          "url": "https://open.spotify.com/artist/6ogXCiVOaz2afPmMNHph7Z"
         }
       ],
-      "duration_ms": 205973,
-      "name": "L'horloge tourne",
-      "url": "https://open.spotify.com/track/1sphiFFp9zrlSLmpFhywRV"
+      "duration_ms": 215160,
+      "name": "Le pouvoir des fleurs",
+      "url": "https://open.spotify.com/track/4msnxiNpg9Mvm6f0NMYFKx"
+    },
+    {
+      "added_at": "2026-04-17 09:45:18",
+      "album": {
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/4YFkUluvUeyvsj20kYXeR1"
+      },
+      "artists": [
+        {
+          "name": "Tom Frager",
+          "url": "https://open.spotify.com/artist/1N9Xy6x2jTaxMU75aFshoq"
+        }
+      ],
+      "duration_ms": 191659,
+      "name": "Lady M\u00e9lody",
+      "url": "https://open.spotify.com/track/4LWVPTpGzQjKtwYmmx7Hbd"
     },
     {
       "added_at": "2026-04-17 09:45:18",
@@ -691,18 +691,18 @@
     {
       "added_at": "2026-04-17 09:45:18",
       "album": {
-        "name": "Better Days",
-        "url": "https://open.spotify.com/album/4YFkUluvUeyvsj20kYXeR1"
+        "name": "Juste Comme \u00c7a",
+        "url": "https://open.spotify.com/album/2fMnPZsQORaYp7SCPNAw03"
       },
       "artists": [
         {
-          "name": "Tom Frager",
-          "url": "https://open.spotify.com/artist/1N9Xy6x2jTaxMU75aFshoq"
+          "name": "Mickael Miro",
+          "url": "https://open.spotify.com/artist/0VtUo7KpkeFx3zwTmSwNQl"
         }
       ],
-      "duration_ms": 191659,
-      "name": "Lady M\u00e9lody",
-      "url": "https://open.spotify.com/track/4LWVPTpGzQjKtwYmmx7Hbd"
+      "duration_ms": 205973,
+      "name": "L'horloge tourne",
+      "url": "https://open.spotify.com/track/1sphiFFp9zrlSLmpFhywRV"
     },
     {
       "added_at": "2026-04-17 09:45:18",

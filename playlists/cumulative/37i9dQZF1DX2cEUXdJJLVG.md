@@ -4,7 +4,7 @@
 
 > Hand\-picked grooves.
 
-484 songs - 1 day 4 hr 47 min
+485 songs - 1 day 4 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [All The Things](https://open.spotify.com/track/0Wknp7wThnRkNl2xw4h19g) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn) | [All The Things](https://open.spotify.com/album/2RGi75eKSdLPC99WnzMggs) | 3:01 | 2026-05-15 |  |
 | [All the Time](https://open.spotify.com/track/19hkRoctnBAVQ7VnLYM6je) | [Later.](https://open.spotify.com/artist/1f5I47xuO3sDZm0hQ8y0nq) | [The Daydream](https://open.spotify.com/album/2iTYwxJ3AuZcxMCHlAsFuF) | 3:52 | 2022-09-09 | 2024-08-30 |
 | [All the Time](https://open.spotify.com/track/4NraPJT1UqJZG925x8JKs0) | [Later.](https://open.spotify.com/artist/1f5I47xuO3sDZm0hQ8y0nq) | [The Daydream](https://open.spotify.com/album/2x9gSrdY96RMCcg4N3QY3i) | 3:52 | 2023-05-25 | 2024-04-19 |
-| [Alma Negra \- Original Mix](https://open.spotify.com/track/0mEMwGHGbgu5L6IqZbZn93) | [Pietro Nicosia](https://open.spotify.com/artist/5ksf5Zro72jXPwmV8gnFGG) | [Alma Negra](https://open.spotify.com/album/7jCJcFtqu5mJ8ZNmUyHzeh) | 5:39 | 2025-05-19 |  |
+| [Alma Negra \- Original Mix](https://open.spotify.com/track/0mEMwGHGbgu5L6IqZbZn93) | [Pietro Nicosia](https://open.spotify.com/artist/5ksf5Zro72jXPwmV8gnFGG) | [Alma Negra](https://open.spotify.com/album/7jCJcFtqu5mJ8ZNmUyHzeh) | 5:39 | 2025-05-19 | 2026-05-27 |
 | [Am Ta](https://open.spotify.com/track/1kxD9cHzYspr92wMjTyUIu) | [United Freedom Collective](https://open.spotify.com/artist/37OT8Wms6fBIzNUJW0d1PW) | [Am Ta EP](https://open.spotify.com/album/3jWRdeKMHeSFTBzYvxWV9K) | 4:30 | 2022-09-29 | 2024-09-27 |
 | [Amazing](https://open.spotify.com/track/37Atk9zfwLjfdCfgNOwqEX) | [CASUAL](https://open.spotify.com/artist/2z28pJU1CDDelSqq2gFNgg) | [Amazing](https://open.spotify.com/album/5QgofZ3fgy3XQ4sWw9ZkuN) | 3:01 | 2022-09-09 | 2024-03-21 |
 | [AMAZING](https://open.spotify.com/track/6FtIK0IkmG33lKbc1pyAlZ) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [AMAZING](https://open.spotify.com/album/0iv1vqUOxADWV9vhTlF4Qe) | 3:29 | 2022-09-09 | 2024-04-11 |
@@ -424,6 +424,7 @@
 | [Sweet Harmony](https://open.spotify.com/track/5xu8FPfSTx6ntNts4LmHli) | [Sirens Of Lesbos](https://open.spotify.com/artist/18XyLuKeMMfkTNKTmc6yOU) | [Sweet Harmony](https://open.spotify.com/album/6Vggx6TgQ31vR9BwUPdoIQ) | 3:02 | 2023-02-16 | 2025-03-28 |
 | [Sweet Talking Honeys \(feat\. Max Tuohy\)](https://open.spotify.com/track/1aa6C8kTiQCjHulkxmMTbM) | [Nothing But Funk](https://open.spotify.com/artist/32RSzgTDqApMWHr6tLNLBF), [Max Tuohy](https://open.spotify.com/artist/6ll2ZlFzEpHh6WKZhXatK8) | [Sweet Talking Honeys \(feat\. Max Tuohy\)](https://open.spotify.com/album/1hso95vrFE15sn24uzWBum) | 3:32 | 2024-04-10 | 2025-06-20 |
 | [SWTH](https://open.spotify.com/track/5ruMKE615XscqaRJsdfgdo) | [J.A.D.E](https://open.spotify.com/artist/286YnD3iVn80KxG43TyBHH), [Noflik](https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt), [Showyou](https://open.spotify.com/artist/7KbVIv3ToW5rD8qJNnypKO) | [SWTH](https://open.spotify.com/album/5z01oX1fk4jBWIAhLkLc5Y) | 2:13 | 2023-05-19 | 2025-03-28 |
+| [Take Me As I Am \- Moodymann Remix](https://open.spotify.com/track/6QzmA0DbUUNs2glO2SL7Wf) | [Dames Brown](https://open.spotify.com/artist/7Hgnu346InP2IcZoMGGT8B), [Amp Fiddler](https://open.spotify.com/artist/39g75EmRFeFbvHhsGjUpLU), [Moodymann](https://open.spotify.com/artist/6pohviZSNRueSX7uNu63ZX) | [Take Me As I Am \(Moodymann Remix\)](https://open.spotify.com/album/5PltFtYqgTbGmo9mU8H6cP) | 3:41 | 2026-05-26 |  |
 | [Take My Heart](https://open.spotify.com/track/27WMHH5CMMwKQ0KubzdVWm) | [Alexander IV](https://open.spotify.com/artist/1ixOHjIh8RJkIUrBSBiYHi), [Josef Scott](https://open.spotify.com/artist/1Ety32ivSztP0Yc9Q8cBzS) | [Take My Heart](https://open.spotify.com/album/6Wjev7ICK3R0xvF8edS4nS) | 2:47 | 2025-06-06 |  |
 | [Take Time](https://open.spotify.com/track/5afQbpUjA9O6TGutLmWu1T) | [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR), [Daley](https://open.spotify.com/artist/13UXMns4uwUrEpIzY79Qgw), [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y) | [Take Time](https://open.spotify.com/album/2uP1o5pKpHBqvra8grlvqW) | 3:56 | 2024-03-07 | 2025-08-15 |
 | [Taste](https://open.spotify.com/track/1zYBjrDSq2aahfQyOdL0NB) | [Alannah Chapman](https://open.spotify.com/artist/0eiHbBXXBUIcn2b34Wmx9V) | [Taste](https://open.spotify.com/album/4z672AUDrtwAGo3xNRIe7A) | 2:07 | 2025-11-06 |  |

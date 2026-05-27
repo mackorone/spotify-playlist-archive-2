@@ -704,7 +704,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-27",
       "duration_ms": 209600,
       "name": "Bad Medicine",
       "url": "https://open.spotify.com/track/1PQbJ1dzfFfN8tOYKj3KsO"
@@ -3114,7 +3114,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-27",
       "duration_ms": 206677,
       "name": "Genevieve",
       "url": "https://open.spotify.com/track/3C85PexccMkdnlojcc3TCw"
@@ -4354,7 +4354,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-25",
+      "date_removed": null,
       "duration_ms": 178826,
       "name": "It Takes One to Know One",
       "url": "https://open.spotify.com/track/6LQh4FDK5DkK1XNkN0wvup"
@@ -6628,6 +6628,28 @@
       "duration_ms": 107599,
       "name": "Plastic Crown",
       "url": "https://open.spotify.com/track/62Iz1fH8PFyahb5YM5Jrlz"
+    },
+    {
+      "album": {
+        "name": "A New Dawn",
+        "url": "https://open.spotify.com/album/55Fr0QG4PuIXvwif8veu7m"
+      },
+      "artists": [
+        {
+          "name": "Collective Kowalski",
+          "url": "https://open.spotify.com/artist/1EGWjAAckfo0gZBdcatCqj"
+        },
+        {
+          "name": "Max Carola",
+          "url": "https://open.spotify.com/artist/78UlXae5KbC3Lj17EkP8x6"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 403285,
+      "name": "Please",
+      "url": "https://open.spotify.com/track/1mNEljsd4NIHWtd6VzpydD"
     },
     {
       "album": {

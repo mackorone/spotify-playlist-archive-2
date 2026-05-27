@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7l9UKjnGuGw5ZR7Lw66uIe.md) - [plain]
 
 > neler yaşamışım ben ya...
 
-[Çodur](https://open.spotify.com/user/mertcodur) - 382 likes - 36 songs - 1 hr 40 min
+[Çodur](https://open.spotify.com/user/mertcodur) - 382 likes - 37 songs - 1 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,8 @@ pretty - [cumulative](/playlists/cumulative/7l9UKjnGuGw5ZR7Lw66uIe.md) - [plain]
 | 32 | [sadaka](https://open.spotify.com/track/1WPTVorQB3KN3tOFIfhRdc) | [Çodur](https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg) | [sadaka](https://open.spotify.com/album/1hvfoWCce60Ymw4OwGaToA) | 2:25 |
 | 33 | [yarım kalan](https://open.spotify.com/track/0N4YwNQ0LkAF2YhIF8CbSF) | [Çodur](https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg) | [yarım kalan](https://open.spotify.com/album/5ovP7lEu6WG2NUAwLuRtVQ) | 2:33 |
 | 34 | [Harbiden](https://open.spotify.com/track/61P518MTME02qGi6MeTmYm) | [Cengiz Ateş](https://open.spotify.com/artist/6XsUIOewd3g4mNOwFXpNFy) | [Harbiden](https://open.spotify.com/album/0c8ArZ4B9F6iZaEveRiRR4) | 3:02 |
-| 35 | [Rüzgar](https://open.spotify.com/track/75LtlhYeSASffU7076kxqX) | [Cansu Esin](https://open.spotify.com/artist/1uoDHmd2nPKxqxh1bDKU6j) | [Rüzgar](https://open.spotify.com/album/7aGfnRVxMdMgaKKiHi4Nvw) | 3:06 |
-| 36 | [Vurgunum](https://open.spotify.com/track/1c6eJEK4sM98qjRcHkswQf) | [Ayberk Serin](https://open.spotify.com/artist/1Q8rbtdvSoGQj33lP2HcJF) | [Vurgunum](https://open.spotify.com/album/5KGbhBsixH1hWtN3Rwjt7K) | 2:06 |
+| 35 | [Suç Olur Mu?](https://open.spotify.com/track/0MbNxNddm6PEBT7n2BVfjm) | [Ayberk Serin](https://open.spotify.com/artist/1Q8rbtdvSoGQj33lP2HcJF) | [Suç Olur Mu?](https://open.spotify.com/album/5m0mAtur2cQZgd75ULo7eU) | 2:52 |
+| 36 | [Rüzgar](https://open.spotify.com/track/75LtlhYeSASffU7076kxqX) | [Cansu Esin](https://open.spotify.com/artist/1uoDHmd2nPKxqxh1bDKU6j) | [Rüzgar](https://open.spotify.com/album/7aGfnRVxMdMgaKKiHi4Nvw) | 3:06 |
+| 37 | [Vurgunum](https://open.spotify.com/track/1c6eJEK4sM98qjRcHkswQf) | [Ayberk Serin](https://open.spotify.com/artist/1Q8rbtdvSoGQj33lP2HcJF) | [Vurgunum](https://open.spotify.com/album/5KGbhBsixH1hWtN3Rwjt7K) | 2:06 |
 
-Snapshot ID: `AAAAv2HdYOjVgF9npS0I6IOFKOKjifwh`
+Snapshot ID: `AAAAwZU5ODdAz2A+pDL6L85Xje5eSd8k`

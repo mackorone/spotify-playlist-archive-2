@@ -1,6 +1,6 @@
 {
   "description": "La playlist que prende la fiesta.",
-  "num_followers": 696732,
+  "num_followers": 696726,
   "original_name": "Joda",
   "owner": {
     "name": "Spotify",
@@ -1435,6 +1435,26 @@
     {
       "added_at": "2026-02-20 03:00:09",
       "album": {
+        "name": "DJ ALEX, ALEJO ISAKK - INDIQUEN | E3",
+        "url": "https://open.spotify.com/album/0tR8VEP2fcNDGdQFEOpfAo"
+      },
+      "artists": [
+        {
+          "name": "DJ Alex",
+          "url": "https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI"
+        },
+        {
+          "name": "Alejo Isakk",
+          "url": "https://open.spotify.com/artist/2cdoH2XFAhj0LlSo4P2fJJ"
+        }
+      ],
+      "duration_ms": 160909,
+      "name": "DJ ALEX, ALEJO ISAKK - INDIQUEN | E3",
+      "url": "https://open.spotify.com/track/0mrioCB3wq09Zz7YN3Q4C4"
+    },
+    {
+      "added_at": "2026-02-20 03:00:09",
+      "album": {
         "name": "Vikingos",
         "url": "https://open.spotify.com/album/50fDCiIhdGoiJLSYXdLbt9"
       },
@@ -1455,26 +1475,6 @@
       "duration_ms": 166963,
       "name": "Vikingos",
       "url": "https://open.spotify.com/track/6t82eltBDEw70ePnk5GGe4"
-    },
-    {
-      "added_at": "2026-02-20 03:00:09",
-      "album": {
-        "name": "DJ ALEX, ALEJO ISAKK - INDIQUEN | E3",
-        "url": "https://open.spotify.com/album/0tR8VEP2fcNDGdQFEOpfAo"
-      },
-      "artists": [
-        {
-          "name": "DJ Alex",
-          "url": "https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI"
-        },
-        {
-          "name": "Alejo Isakk",
-          "url": "https://open.spotify.com/artist/2cdoH2XFAhj0LlSo4P2fJJ"
-        }
-      ],
-      "duration_ms": 160909,
-      "name": "DJ ALEX, ALEJO ISAKK - INDIQUEN | E3",
-      "url": "https://open.spotify.com/track/0mrioCB3wq09Zz7YN3Q4C4"
     },
     {
       "added_at": "2026-02-20 03:00:09",

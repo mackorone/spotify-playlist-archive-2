@@ -1,12 +1,12 @@
 {
   "description": "This is N\u00edvea Soares. The essential tracks, all in one playlist.",
-  "num_followers": 63502,
+  "num_followers": 63501,
   "original_name": "This Is N\u00edvea Soares",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahI/gAAAAAAHOH/Ost39YhxvJEJzOPcI",
+  "snapshot_id": "ahORAAAAAABMp9iAGndjQow0tX7nFin6",
   "tracks": [
     {
       "added_at": null,
@@ -215,22 +215,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gl\u00f3ria E Honra (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4TLWr1MWdEj98RHapVcnLm"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 334400,
-      "name": "Filho Do Deus Vivo - Ao Vivo",
-      "url": "https://open.spotify.com/track/06ZKQ9zWVEOR9C532mkj7K"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Maravilhado (Ao Vivo)",
         "url": "https://open.spotify.com/album/6GUZILTmS0r3OpUavt7qam"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 454587,
       "name": "Maravilhado - Ao Vivo",
       "url": "https://open.spotify.com/track/7nE1e60VdkncBBxQkqGxRY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gl\u00f3ria E Honra (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4TLWr1MWdEj98RHapVcnLm"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 334400,
+      "name": "Filho Do Deus Vivo - Ao Vivo",
+      "url": "https://open.spotify.com/track/06ZKQ9zWVEOR9C532mkj7K"
     },
     {
       "added_at": null,
@@ -687,6 +687,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Preto no Branco 3 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4HJ3j7O253RnPyu43mIicT"
+      },
+      "artists": [
+        {
+          "name": "Preto no Branco",
+          "url": "https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom"
+        },
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 285120,
+      "name": "Estado De Gra\u00e7a (feat. N\u00edvea Soares) - Ao Vivo",
+      "url": "https://open.spotify.com/track/4Lsq6TlJTt1pLZ2lTmGrZx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Ele a Gl\u00f3ria na Igreja",
         "url": "https://open.spotify.com/album/03Oehqdaqtyu4ubVUcBh7k"
       },
@@ -707,26 +727,6 @@
       "duration_ms": 904635,
       "name": "At\u00e9 que o Senhor venha + At\u00e9 que Ele venha + Ser achado Fiel",
       "url": "https://open.spotify.com/track/1iH4wVFCRPZjmL4VlyHiFs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Preto no Branco 3 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4HJ3j7O253RnPyu43mIicT"
-      },
-      "artists": [
-        {
-          "name": "Preto no Branco",
-          "url": "https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom"
-        },
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 285120,
-      "name": "Estado De Gra\u00e7a (feat. N\u00edvea Soares) - Ao Vivo",
-      "url": "https://open.spotify.com/track/4Lsq6TlJTt1pLZ2lTmGrZx"
     },
     {
       "added_at": null,
@@ -1023,22 +1023,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ousado Amor",
-        "url": "https://open.spotify.com/album/3KuWof0g5DAfFT931oMXCE"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 826880,
-      "name": "Ousado Amor",
-      "url": "https://open.spotify.com/track/7sXiDUR1TCstXHlqfyAHOB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Reino de Justi\u00e7a (Ao Vivo)",
         "url": "https://open.spotify.com/album/1w3UofqYh0InFfUymfhLCi"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 265586,
       "name": "Os Que Esperam - Ao Vivo",
       "url": "https://open.spotify.com/track/3cURlCdbyZ81pYQuI6iuP2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ousado Amor",
+        "url": "https://open.spotify.com/album/3KuWof0g5DAfFT931oMXCE"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 826880,
+      "name": "Ousado Amor",
+      "url": "https://open.spotify.com/track/7sXiDUR1TCstXHlqfyAHOB"
     },
     {
       "added_at": null,

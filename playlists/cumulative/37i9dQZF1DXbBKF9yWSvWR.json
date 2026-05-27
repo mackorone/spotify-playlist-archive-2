@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Wekelijkse update met de beste Indie releases. Cover: Min Taka & Airport Crush",
+  "description": "Wekelijkse update met de beste Indie releases. Cover: Sarah Julia (<a href=\"spotify:playlist:37i9dQZF1DXaxwXKCsImRe\">RADAR</a>-artiest)",
   "name": "Indie Update",
   "tracks": [
     {
@@ -568,6 +568,24 @@
       "duration_ms": 237000,
       "name": "Alien",
       "url": "https://open.spotify.com/track/2RjxEQRvSma9pVhmtVpEeR"
+    },
+    {
+      "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/31yC03QGDrq41epy9OCKap"
+      },
+      "artists": [
+        {
+          "name": "BLUAI",
+          "url": "https://open.spotify.com/artist/5CJhBRBaE9MaWfPwcg2WbF"
+        }
+      ],
+      "date_added": "2026-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208868,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/7yIIloSZGZJ864ABEnpIZl"
     },
     {
       "album": {
@@ -3446,7 +3464,7 @@
       ],
       "date_added": "2026-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-27",
       "duration_ms": 232790,
       "name": "Die Young",
       "url": "https://open.spotify.com/track/2hzpbfjj9cVCSB1EeHKGXt"
@@ -4388,6 +4406,24 @@
       "duration_ms": 143499,
       "name": "eYeSiGht",
       "url": "https://open.spotify.com/track/61PhLZbklL2DeRgvuESvFs"
+    },
+    {
+      "album": {
+        "name": "F U WANT IT",
+        "url": "https://open.spotify.com/album/4KkU2UMnOriWQAvm7gcZ76"
+      },
+      "artists": [
+        {
+          "name": "Soft Loft",
+          "url": "https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t"
+        }
+      ],
+      "date_added": "2026-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213516,
+      "name": "F U WANT IT",
+      "url": "https://open.spotify.com/track/5HmntMOWQF4ixQsOWooNkI"
     },
     {
       "album": {
@@ -5517,6 +5553,24 @@
     },
     {
       "album": {
+        "name": "I THINK WE SHOULD CHANGE THIS",
+        "url": "https://open.spotify.com/album/6xmdULbXe9tMKk1Q6SfIAw"
+      },
+      "artists": [
+        {
+          "name": "Norah Hendriks",
+          "url": "https://open.spotify.com/artist/7gaJhHLUBdH1EJNuRjEBXC"
+        }
+      ],
+      "date_added": "2026-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242446,
+      "name": "HANNAH MONTANA",
+      "url": "https://open.spotify.com/track/36dnmtvkyziG2MKXZe6xY4"
+    },
+    {
+      "album": {
         "name": "Happy",
         "url": "https://open.spotify.com/album/0B0floiGVspQNvqJAoODdD"
       },
@@ -5900,6 +5954,24 @@
       "duration_ms": 198386,
       "name": "Hocus Pocus",
       "url": "https://open.spotify.com/track/2ToN3eKF4xLBM0yihlNQB0"
+    },
+    {
+      "album": {
+        "name": "Hold Me How You Always Do",
+        "url": "https://open.spotify.com/album/6ppghl97uqXWuhPf52Y0Y2"
+      },
+      "artists": [
+        {
+          "name": "Muylike",
+          "url": "https://open.spotify.com/artist/4HL9htdNiAsJHadqEBvb7T"
+        }
+      ],
+      "date_added": "2026-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196310,
+      "name": "Hold Me How You Always Do",
+      "url": "https://open.spotify.com/track/2fUyO4uHRhKs9zuFWDAMhf"
     },
     {
       "album": {
@@ -7137,6 +7209,24 @@
     },
     {
       "album": {
+        "name": "Just My Friend",
+        "url": "https://open.spotify.com/album/5VQqBCiCDRrQJg3jFQvqli"
+      },
+      "artists": [
+        {
+          "name": "Jordan Patterson",
+          "url": "https://open.spotify.com/artist/2yKKMwAPgYB51wlkM3sY5G"
+        }
+      ],
+      "date_added": "2026-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186947,
+      "name": "Just My Friend",
+      "url": "https://open.spotify.com/track/7lbIYhWkuK5j96KeoUHgaW"
+    },
+    {
+      "album": {
         "name": "Comic Trip (Deluxe)",
         "url": "https://open.spotify.com/album/4Y4h2R0rC2HcnxVCrsmP4P"
       },
@@ -8014,7 +8104,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-27",
       "duration_ms": 158444,
       "name": "Lover, You Had To Throw It Away",
       "url": "https://open.spotify.com/track/37itSLLzoDPijtShGCcDey"
@@ -8742,7 +8832,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-27",
       "duration_ms": 204778,
       "name": "Miyazaki",
       "url": "https://open.spotify.com/track/4VdqXAgfC79LeweD9qVgVZ"
@@ -11950,7 +12040,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-27",
       "duration_ms": 301000,
       "name": "Six Missed Calls",
       "url": "https://open.spotify.com/track/3A11OV16IvmGERXBn8MjSV"
@@ -11986,10 +12076,36 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-27",
       "duration_ms": 192495,
       "name": "Slow Tonight",
       "url": "https://open.spotify.com/track/2H3L0xj5L4OlYFlRjhJQN5"
+    },
+    {
+      "album": {
+        "name": "small red tree",
+        "url": "https://open.spotify.com/album/1CFmptHduezSFacDTbc7Th"
+      },
+      "artists": [
+        {
+          "name": "Sam Nera",
+          "url": "https://open.spotify.com/artist/7BDMybq2ZrTJ9HH7vUMpRh"
+        },
+        {
+          "name": "Y.O.P.E.",
+          "url": "https://open.spotify.com/artist/7Ikgt4I9fVwzmFGCIb0aGX"
+        },
+        {
+          "name": "Avvnt MM",
+          "url": "https://open.spotify.com/artist/3SRbZ1VlhSvuMfLejFTZ4C"
+        }
+      ],
+      "date_added": "2026-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265969,
+      "name": "small red tree",
+      "url": "https://open.spotify.com/track/45vShxI8norxKMVdTWSs2P"
     },
     {
       "album": {
@@ -12390,7 +12506,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-27",
       "duration_ms": 214120,
       "name": "Srs Ice",
       "url": "https://open.spotify.com/track/7bzZs3kR7MbrfNFPtG8t7R"
@@ -14140,7 +14256,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-27",
       "duration_ms": 182906,
       "name": "Tiny Changes",
       "url": "https://open.spotify.com/track/5DyNPFCeW5RGDCpiK5ZwXv"
@@ -15070,6 +15186,24 @@
       "duration_ms": 230513,
       "name": "What You Need",
       "url": "https://open.spotify.com/track/2UvWkmIR6mUaOx7gkWWuCT"
+    },
+    {
+      "album": {
+        "name": "Whatever It Takes (Break Your Heart)",
+        "url": "https://open.spotify.com/album/56CtdMCjb4yQVBXSNXsFIM"
+      },
+      "artists": [
+        {
+          "name": "Sarah Julia",
+          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
+        }
+      ],
+      "date_added": "2026-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175588,
+      "name": "Whatever It Takes (Break Your Heart)",
+      "url": "https://open.spotify.com/track/5zmo0fUtVQfixc7by6G5NZ"
     },
     {
       "album": {

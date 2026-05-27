@@ -1,12 +1,12 @@
 {
   "description": "This Is Filipe Ret. Les titres incontournables, r\u00e9unis dans une seule et m\u00eame playlist.",
-  "num_followers": 324725,
+  "num_followers": 324732,
   "original_name": "This Is Filipe Ret",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahI/gAAAAACOj9xqF2K1Zgh4sDDyQd52",
+  "snapshot_id": "ahORAAAAAABYzQBzdUOM84hmDLUXVmfc",
   "tracks": [
     {
       "added_at": null,
@@ -1131,18 +1131,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Revel",
-        "url": "https://open.spotify.com/album/5XemDAjsXAgz0abzf5Adwq"
+        "name": "FRXV (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2qu44hB5GkwiKF9v4eQvPi"
       },
       "artists": [
         {
           "name": "Filipe Ret",
           "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
         }
       ],
-      "duration_ms": 220909,
-      "name": "Livre & Triste",
-      "url": "https://open.spotify.com/track/5Oe0bcaPy7N2NBwKdO6E4F"
+      "duration_ms": 224266,
+      "name": "Vivendo Avan\u00e7ado - Ao Vivo",
+      "url": "https://open.spotify.com/track/5DaJJxTkFXv2ymTfiqunQd"
     },
     {
       "added_at": null,
@@ -1191,22 +1195,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "FRXV (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2qu44hB5GkwiKF9v4eQvPi"
+        "name": "Revel",
+        "url": "https://open.spotify.com/album/5XemDAjsXAgz0abzf5Adwq"
       },
       "artists": [
         {
           "name": "Filipe Ret",
           "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        },
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
         }
       ],
-      "duration_ms": 224266,
-      "name": "Vivendo Avan\u00e7ado - Ao Vivo",
-      "url": "https://open.spotify.com/track/5DaJJxTkFXv2ymTfiqunQd"
+      "duration_ms": 220909,
+      "name": "Livre & Triste",
+      "url": "https://open.spotify.com/track/5Oe0bcaPy7N2NBwKdO6E4F"
     },
     {
       "added_at": null,

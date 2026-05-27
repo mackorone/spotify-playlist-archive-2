@@ -1,12 +1,12 @@
 {
   "description": "This is New Found Glory. The essential tracks, all in one playlist.",
-  "num_followers": 43803,
+  "num_followers": 43806,
   "original_name": "This Is New Found Glory",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahI/gAAAAACPIICGyqxsX+DQtw8iliuC",
+  "snapshot_id": "ahORAAAAAADa+2sWMWOo/21lPGqZagPk",
   "tracks": [
     {
       "added_at": null,
@@ -591,8 +591,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Catalyst",
-        "url": "https://open.spotify.com/album/07FMLDgJBRbgdWHHBmlTQy"
+        "name": "New Found Glory",
+        "url": "https://open.spotify.com/album/4lrBF0IWC9wZiF6btB68ua"
       },
       "artists": [
         {
@@ -600,9 +600,9 @@
           "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
         }
       ],
-      "duration_ms": 210093,
-      "name": "I Don't Wanna Know",
-      "url": "https://open.spotify.com/track/0w0EyGiutPSyk0RC51ZGN3"
+      "duration_ms": 168333,
+      "name": "Better Off Dead",
+      "url": "https://open.spotify.com/track/3D2ZhGxvaweSrZkFqoNblC"
     },
     {
       "added_at": null,
@@ -623,8 +623,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "New Found Glory",
-        "url": "https://open.spotify.com/album/4lrBF0IWC9wZiF6btB68ua"
+        "name": "Catalyst",
+        "url": "https://open.spotify.com/album/07FMLDgJBRbgdWHHBmlTQy"
       },
       "artists": [
         {
@@ -632,9 +632,9 @@
           "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
         }
       ],
-      "duration_ms": 168333,
-      "name": "Better Off Dead",
-      "url": "https://open.spotify.com/track/3D2ZhGxvaweSrZkFqoNblC"
+      "duration_ms": 210093,
+      "name": "I Don't Wanna Know",
+      "url": "https://open.spotify.com/track/0w0EyGiutPSyk0RC51ZGN3"
     },
     {
       "added_at": null,

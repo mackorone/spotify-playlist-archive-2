@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLboKmA6wlS.md) - [plain]
 
 > เพลงใหม่ที่ดีที่สุดจากศิลปินรุ่นใหม่ คัดสรรโดยบรรณาธิการ Spotify\. ศิลปิน: Gee Pussadee\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,293 likes - 35 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,294 likes - 35 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

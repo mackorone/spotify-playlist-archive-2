@@ -1,6 +1,6 @@
 {
   "description": "Os grandes hinos reunidos em um \u00fanico lugar. Foto: Gisele Nascimento, Anderson Freire",
-  "num_followers": 660283,
+  "num_followers": 660384,
   "original_name": "Gospel Cl\u00e1ssicos",
   "owner": {
     "name": "Spotify",
@@ -799,6 +799,22 @@
     {
       "added_at": "2025-10-17 18:07:08",
       "album": {
+        "name": "Apocalipse",
+        "url": "https://open.spotify.com/album/53aAt8WZafBGdivOlAwPZT"
+      },
+      "artists": [
+        {
+          "name": "Damares",
+          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        }
+      ],
+      "duration_ms": 322160,
+      "name": "Sabor de Mel",
+      "url": "https://open.spotify.com/track/50yPQZWDucOc6n1qdofN7T"
+    },
+    {
+      "added_at": "2025-10-17 18:07:08",
+      "album": {
         "name": "Santo Esp\u00edrito (Holy Spirit) (feat. Leonardo Gon\u00e7alves) [Ao Vivo]",
         "url": "https://open.spotify.com/album/4JSIBpnrE5KikTuUJz4q8j"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 513960,
       "name": "Santo Esp\u00edrito (Holy Spirit) (feat. Leonardo Gon\u00e7alves) - Ao Vivo",
       "url": "https://open.spotify.com/track/7gvMCmfFPtS1LY1PSWdmKT"
-    },
-    {
-      "added_at": "2025-10-17 18:07:08",
-      "album": {
-        "name": "Apocalipse",
-        "url": "https://open.spotify.com/album/53aAt8WZafBGdivOlAwPZT"
-      },
-      "artists": [
-        {
-          "name": "Damares",
-          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
-        }
-      ],
-      "duration_ms": 322160,
-      "name": "Sabor de Mel",
-      "url": "https://open.spotify.com/track/50yPQZWDucOc6n1qdofN7T"
     },
     {
       "added_at": "2025-10-17 18:07:08",

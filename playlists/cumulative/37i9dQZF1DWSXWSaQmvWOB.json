@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-03-25",
-  "description": "New soul-infused music! Cover: NYVE",
+  "description": "New soul-infused music! Cover: GIV\u0112ON",
   "name": "Soul 'n' the City",
   "tracks": [
     {
@@ -176,6 +176,24 @@
       "duration_ms": 195000,
       "name": "5 Minutes",
       "url": "https://open.spotify.com/track/5XUv1bnwbWqG59pzNVtocn"
+    },
+    {
+      "album": {
+        "name": "6 Years",
+        "url": "https://open.spotify.com/album/1pArqrd5AP2MuNvxAj6jDM"
+      },
+      "artists": [
+        {
+          "name": "Thee Marloes",
+          "url": "https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE"
+        }
+      ],
+      "date_added": "2026-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162920,
+      "name": "6 Years",
+      "url": "https://open.spotify.com/track/6092TzQMKn8WgJuHHsy84h"
     },
     {
       "album": {
@@ -384,7 +402,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-27",
       "duration_ms": 195453,
       "name": "A Way With My Heart",
       "url": "https://open.spotify.com/track/3qwb56omTzpzWixWNjQW9K"
@@ -2720,6 +2738,24 @@
       "duration_ms": 198360,
       "name": "Burning Up",
       "url": "https://open.spotify.com/track/1ZCtCHRB0FG0khp20Oq4hh"
+    },
+    {
+      "album": {
+        "name": "But, Nvm",
+        "url": "https://open.spotify.com/album/2YZZlQUGlQgf2xIiimUGlN"
+      },
+      "artists": [
+        {
+          "name": "Baby Rose",
+          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
+        }
+      ],
+      "date_added": "2026-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187266,
+      "name": "But, Nvm",
+      "url": "https://open.spotify.com/track/7ktnXbGn8XERn7H3LXWvJG"
     },
     {
       "album": {
@@ -7391,6 +7427,24 @@
     },
     {
       "album": {
+        "name": "G.Y.A.M.L (My Love)",
+        "url": "https://open.spotify.com/album/0xeEoXE1WXKkuYFh3bEZPc"
+      },
+      "artists": [
+        {
+          "name": "Glenn Lewis",
+          "url": "https://open.spotify.com/artist/28821fRwpAWk44HfJ96PGV"
+        }
+      ],
+      "date_added": "2026-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207459,
+      "name": "G.Y.A.M.L (My Love)",
+      "url": "https://open.spotify.com/track/76QPCZs6SWpfMJy7tylWj0"
+    },
+    {
+      "album": {
         "name": "GEEK OUT!",
         "url": "https://open.spotify.com/album/0pcNZasBNHBCU8MilSUv1X"
       },
@@ -10942,6 +10996,24 @@
       "duration_ms": 174213,
       "name": "JEWELZ",
       "url": "https://open.spotify.com/track/2IFFKj9orAsQOOS0JRhHAW"
+    },
+    {
+      "album": {
+        "name": "BELOVED: ACT II",
+        "url": "https://open.spotify.com/album/5qUp79PAejWMSXh0l04Zy9"
+      },
+      "artists": [
+        {
+          "name": "GIV\u0112ON",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+        }
+      ],
+      "date_added": "2026-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265127,
+      "name": "JEZEBEL",
+      "url": "https://open.spotify.com/track/50otYQj8x1wp6HpdRrLXpY"
     },
     {
       "album": {
@@ -16639,6 +16711,24 @@
     },
     {
       "album": {
+        "name": "Play",
+        "url": "https://open.spotify.com/album/1WiZseSOEpGzkfxQlVTvAs"
+      },
+      "artists": [
+        {
+          "name": "Jason Dhakal",
+          "url": "https://open.spotify.com/artist/7Hb2cm4pIeCUKwfzutKyjp"
+        }
+      ],
+      "date_added": "2026-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192954,
+      "name": "Play",
+      "url": "https://open.spotify.com/track/5tR2mt4gJ5JDMDfHg7EYTL"
+    },
+    {
+      "album": {
         "name": "Play If Off",
         "url": "https://open.spotify.com/album/5v47sGyouyxhq4xY8GTgq7"
       },
@@ -20580,7 +20670,7 @@
       ],
       "date_added": "2025-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-27",
       "duration_ms": 146680,
       "name": "Summertime",
       "url": "https://open.spotify.com/track/7lMUgnVPrgN3keoDiVFx3A"
@@ -21658,6 +21748,24 @@
       "duration_ms": 157800,
       "name": "The Loft",
       "url": "https://open.spotify.com/track/024wFPk5RAlh1aAtEctfsU"
+    },
+    {
+      "album": {
+        "name": "The Long Way",
+        "url": "https://open.spotify.com/album/2M0XXRvaqUvUWHHbdVI3zY"
+      },
+      "artists": [
+        {
+          "name": "Lee Lewis",
+          "url": "https://open.spotify.com/artist/3tRVUPgHPgsvchAc7zGu4D"
+        }
+      ],
+      "date_added": "2026-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147692,
+      "name": "The Long Way",
+      "url": "https://open.spotify.com/track/1QORbTycqHcsfL4bLVPtYb"
     },
     {
       "album": {
@@ -24470,6 +24578,24 @@
       "duration_ms": 288640,
       "name": "Wind Parade",
       "url": "https://open.spotify.com/track/0g941Kqd2InTMBbJO4eFlf"
+    },
+    {
+      "album": {
+        "name": "Window To The Soul",
+        "url": "https://open.spotify.com/album/1ng7DPYpbK1yhjGqL5oTcW"
+      },
+      "artists": [
+        {
+          "name": "Latanya Alberto",
+          "url": "https://open.spotify.com/artist/2gOETMfjAos2JU0cxHp357"
+        }
+      ],
+      "date_added": "2026-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296616,
+      "name": "Window To The Soul",
+      "url": "https://open.spotify.com/track/7wNqcryc6nxY7fXKm9Y6cr"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Wat kan het Nederlands toch mooi zijn\. Cover: Claudia de Breij
 
-262 songs - 15 hr 51 min
+263 songs - 15 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,7 @@
 | [Ik heb je vergeven](https://open.spotify.com/track/5eGNTkEgie3bPoQpuw07PE) | [Myra Pilar](https://open.spotify.com/artist/0XGEZus6caWFUFpPGYotPX) | [Ik heb je vergeven](https://open.spotify.com/album/0aEpho7U0oTDSQmophOKuH) | 3:32 | 2023-02-10 | 2023-04-07 |
 | [Ik Hobbel](https://open.spotify.com/track/6tpeejrVeDYkU8WhLpmWuV) | [Theun met een h](https://open.spotify.com/artist/0gPKa3T9bOhyyUkGeYcf2I) | [Ik Hobbel](https://open.spotify.com/album/4Dp6OZeo6qDXlRWm3YRPhK) | 3:02 | 2023-03-23 | 2025-04-26 |
 | [Ik Hou Van Mij](https://open.spotify.com/track/7sXPkx4uP9nGazTEe4VpIe) | [Harrie Jekkers](https://open.spotify.com/artist/4QAsKGyhi6ngDLGntc54ql) | [Mijn Ikken](https://open.spotify.com/album/2QwzUQVn18RHdDDCeqd5jd) | 2:35 | 2023-02-10 | 2025-11-07 |
-| [Ik neem jou mee](https://open.spotify.com/track/1NEawk3FwC4DAte737OmtG) | [Leonie Meijer](https://open.spotify.com/artist/2yAKMlQWwUyDSDly68F3ve) | [Ik neem jou mee](https://open.spotify.com/album/5IRN8OAVrY8gm2vjhCpp18) | 2:49 | 2025-02-27 |  |
+| [Ik neem jou mee](https://open.spotify.com/track/1NEawk3FwC4DAte737OmtG) | [Leonie Meijer](https://open.spotify.com/artist/2yAKMlQWwUyDSDly68F3ve) | [Ik neem jou mee](https://open.spotify.com/album/5IRN8OAVrY8gm2vjhCpp18) | 2:49 | 2025-02-27 | 2026-05-27 |
 | [Ik Was Amper 16 Jaar](https://open.spotify.com/track/11COH0WOgKJiFQBmJiqTU4) | [André van Duin](https://open.spotify.com/artist/1G2QbSM5dLTtqeZHYnxXsF) | [Ik Was Amper 16 Jaar](https://open.spotify.com/album/0v6neXuDhCvbs0OQmABhvA) | 3:18 | 2024-10-24 | 2025-04-18 |
 | [Ik Wil Niet Dat Je Liegt](https://open.spotify.com/track/5Txs0Hcm3Tr2tA5OOaGqDK) | [Paul de Leeuw](https://open.spotify.com/artist/2UWFwMXUXbEs79qbI4NdTT) | [ParaCDmol](https://open.spotify.com/album/6h8rFFOtR2m6N8d4FKCYkW) | 3:54 | 2023-02-10 | 2024-01-26 |
 | [IK ZEG HET TE WEINIG](https://open.spotify.com/track/0CGpjldNJedaNmhW5neQPZ) | [Simon Keizer](https://open.spotify.com/artist/2dUSZq5IktJI18xdpIEjs2) | [IK ZEG HET TE WEINIG](https://open.spotify.com/album/5Ukd8XCbHko4DH8p4pnm0V) | 2:45 | 2024-04-11 | 2025-04-04 |
@@ -253,6 +253,7 @@
 | [We Doen Alsof](https://open.spotify.com/track/0LJ1hlleIO9JARlO2eyo2g) | [Maaike Ouboter](https://open.spotify.com/artist/51jBhM2gW17sCGLI1eBkDn) | [We Doen Alsof](https://open.spotify.com/album/3gOXgH4AVBI1dpnKHoxT8x) | 4:06 | 2025-11-20 | 2026-01-15 |
 | [We Zijn Zo Jong](https://open.spotify.com/track/2WLeRA7JmcfiNTEmwVPvaR) | [Aafke Romeijn](https://open.spotify.com/artist/7JXt7NDSPYN39EDLs58huE) | [We Zijn Zo Jong](https://open.spotify.com/album/3UXzxYxaNa79mgiMXMjLvH) | 3:47 | 2024-07-18 | 2024-09-27 |
 | [Weg uit Nederland](https://open.spotify.com/track/28UygHbdYKz1IJwzt1MfEc) | [Leonie Meijer](https://open.spotify.com/artist/2yAKMlQWwUyDSDly68F3ve) | [Weg uit Nederland](https://open.spotify.com/album/4OjNZnxk3IANfpvbjMQiz1) | 3:52 | 2025-05-22 | 2025-07-18 |
+| [Welterusten, Mijnheer de president](https://open.spotify.com/track/4r6tPkeVJBWm9eWdMTdNUm) | [Leonie Meijer](https://open.spotify.com/artist/2yAKMlQWwUyDSDly68F3ve) | [Ik neem jou mee](https://open.spotify.com/album/3dnsEfOW87w8QI1xfyYrJB) | 3:41 | 2026-05-26 |  |
 | [Wie ben ik \(feat\. Red Limo Quartet\)](https://open.spotify.com/track/0Xo7vPmbVFIEgcyMHNH5sa) | [3JS](https://open.spotify.com/artist/2ZulgXPozVBLNaJPXR8MnV), [Red Limo Quartet](https://open.spotify.com/artist/2rdJcBg2tEvmo0lVpYDizQ) | [Wie ben ik \(feat\. Red Limo Quartet\)](https://open.spotify.com/album/0ZS7oHN6GyQfWcu6WHj6xm) | 3:45 | 2024-01-25 | 2024-03-08 |
 | [Wie Zal Je Ooit Vergeten](https://open.spotify.com/track/50EJs9YhrdEFWrDRkBqEtW) | [Henny Thijssen](https://open.spotify.com/artist/71MAww1vIzu0Akrk631fNB) | [Wie Zal Je Ooit Vergeten](https://open.spotify.com/album/63xt6zuAjPG1nn26n7JHSb) | 2:58 | 2024-09-26 | 2024-10-25 |
 | [Wonderkind](https://open.spotify.com/track/4bcwafLCp4X5Usloxiyvcs) | [FULCO](https://open.spotify.com/artist/6KXC42r3VuasqhvMOFKxJt) | [Wonderkind](https://open.spotify.com/album/2JflmVKhoTaR30gDqZf4h5) | 3:27 | 2025-02-20 | 2025-06-17 |

@@ -4,7 +4,7 @@
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Ivy Knight
 
-2,108 songs - 5 day 6 hr 3 min
+2,110 songs - 5 day 6 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -701,6 +701,7 @@
 | [Freckles](https://open.spotify.com/track/2qjFdx2prIhP2clsRFZc1M) | [Hetta Falzon](https://open.spotify.com/artist/3xBbk46U69gH13s4Mxw2SH) | [Freckles](https://open.spotify.com/album/6l01dnJwf9udW0SqdlAFAM) | 4:50 | 2025-07-09 | 2025-10-30 |
 | [free](https://open.spotify.com/track/1qWsVMgZZQWTg2XkSja0OU) | [Kara Jackson](https://open.spotify.com/artist/2lciIw4vq0jQqevXA2TEUl) | [Why Does the Earth Give Us People to Love?](https://open.spotify.com/album/2itoipNg0XOD1uwThhkVtO) | 7:02 | 2024-03-29 | 2024-06-20 |
 | [Free Association](https://open.spotify.com/track/63i5GiXxcmSyFIS2YKTV46) | [Friendship](https://open.spotify.com/artist/3IxsVnysqUrIyJ3eKdpugA) | [Free Association](https://open.spotify.com/album/0mzcMzHaNXNakINLBFV7JH) | 4:35 | 2025-02-26 | 2025-05-22 |
+| [Free Wheeling](https://open.spotify.com/track/43DKVQnMysID1lXOaHqG9n) | [Le Ren](https://open.spotify.com/artist/338ANSuWEHPphBye1qDGvF) | [Free Wheeling](https://open.spotify.com/album/2mRgxy62xHxJDtNMGB7mx3) | 3:49 | 2026-05-27 |  |
 | [Friday On My Mind](https://open.spotify.com/track/3GiGhA6VUi9xPXGUWg1Jds) | [Brògeal](https://open.spotify.com/artist/5E4chIX5W6JvTVtXXzG8TK) | [Friday On My Mind](https://open.spotify.com/album/0OfxgAV6PQcDKaxLwScMU6) | 2:34 | 2025-04-30 | 2025-07-24 |
 | [Friends](https://open.spotify.com/track/3hjmwXyfWcOVw6koezqigf) | [Mariah Odyssey](https://open.spotify.com/artist/1wU7DUkNXSRCM5jvO5mthV) | [Friends](https://open.spotify.com/album/4n1WUNNrO4IFiAve2AzXZl) | 2:57 | 2023-08-02 | 2023-10-05 |
 | [Friends on the Internet](https://open.spotify.com/track/7aYKCCeORfNzrMOzPgPSdi) | [Kris Ulrich](https://open.spotify.com/artist/49MmzOKdISsus72tEIhJQN) | [Big in the USA](https://open.spotify.com/album/2EdNo7ykBjuHpFFx28O4dY) | 2:56 | 2023-06-14 | 2023-08-10 |
@@ -1530,6 +1531,7 @@
 | [Reno](https://open.spotify.com/track/5Q083KrJvYXVXOXAKwLq9V) | [Hank Heaven](https://open.spotify.com/artist/6bsNV1qaLfpRFLI2eWIHkf) | [Reno](https://open.spotify.com/album/3JGHHexmF6YGRbXXtNKqEG) | 3:08 | 2024-05-08 | 2024-07-18 |
 | [resentme2](https://open.spotify.com/track/6ubGK2bazBd5iOCvRAmudE) | [Brett Seper](https://open.spotify.com/artist/0ha3FIe7oUSx86k9krBSKE) | [toxic ties & troubled minds](https://open.spotify.com/album/5x6eyMAnZ3fUu26mgqE9kP) | 2:48 | 2023-07-12 | 2024-01-11 |
 | [Residual Bliss](https://open.spotify.com/track/76vlleSRtF35kWczmAeETH) | [Gildor](https://open.spotify.com/artist/2DyS2mSsaFkj5nFB3P6KqU) | [Residual Bliss](https://open.spotify.com/album/6jwDQCYituamxr6cb6Mgpq) | 4:51 | 2024-02-14 | 2024-04-11 |
+| [Revolver](https://open.spotify.com/track/1qqnMYAYR2nNZyiGJzSTNU) | [Mallory Hawk](https://open.spotify.com/artist/54v01c74ZMDG5AsKmVQcvD) | [Revolver](https://open.spotify.com/album/7D9oDftpNeBHA5P4XN1AL3) | 4:28 | 2026-05-27 |  |
 | [Revolving Doors](https://open.spotify.com/track/19oLjdrND9714letLpvKZB) | [Lia Pappas\-Kemps](https://open.spotify.com/artist/7N15xabCPo5XjsUSTnGVes) | [Revolving Doors](https://open.spotify.com/album/0tneufRdXwq73to1Ni5K6t) | 4:00 | 2025-10-29 | 2025-12-04 |
 | [Rewarding Melody](https://open.spotify.com/track/7mf2ubTq7o3O9U9ql3CNPv) | [Luluc](https://open.spotify.com/artist/2Jtfa8vjvzAAGxDfgIkU72) | [Rewarding Melody](https://open.spotify.com/album/2z944o5q3z29mQaIwd58OG) | 2:32 | 2026-05-06 |  |
 | [Rewind](https://open.spotify.com/track/4cE5VRcJURYP6hIyFF29N4) | [Rosali](https://open.spotify.com/artist/2WpwNw5EKb52c1QlvnGqfs) | [Rewind](https://open.spotify.com/album/5a9UFfBfHCdeNNsDVtEOfm) | 4:48 | 2024-01-17 | 2024-03-21 |

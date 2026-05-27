@@ -1,13 +1,29 @@
 {
-  "description": "The best new music by independent artists and labels from the MENA region. Updates every Wednesday. Cover: Bloodymarry. Artwork: Isu Kim",
-  "num_followers": 13512,
+  "description": "The best new music by independent artists and labels from the MENA region. Updates every Wednesday. Cover: Jara. Artwork: Isu Kim",
+  "num_followers": 13515,
   "original_name": "Fresh Finds Arabia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABl9mwhi5bUahu9HyfW3UM3HkZW/",
+  "snapshot_id": "AAAAACItNgwijHwCdKiTsVnp+RfD6YKD",
   "tracks": [
+    {
+      "added_at": "2026-04-14 14:34:43",
+      "album": {
+        "name": "ASLI",
+        "url": "https://open.spotify.com/album/2anpPDMPSVCQnYe0SWXfVC"
+      },
+      "artists": [
+        {
+          "name": "Jara",
+          "url": "https://open.spotify.com/artist/4zr0ZwGKQPCPVGNOEAQ52U"
+        }
+      ],
+      "duration_ms": 169531,
+      "name": "ATTA",
+      "url": "https://open.spotify.com/track/2ybQ1O9yA8DobJqdBCXE8D"
+    },
     {
       "added_at": "2026-04-22 07:50:52",
       "album": {
@@ -427,22 +443,6 @@
       "duration_ms": 225116,
       "name": "Why?",
       "url": "https://open.spotify.com/track/7qFf6SSOAMxcg504aH6B24"
-    },
-    {
-      "added_at": "2026-04-14 14:34:43",
-      "album": {
-        "name": "ASLI",
-        "url": "https://open.spotify.com/album/2anpPDMPSVCQnYe0SWXfVC"
-      },
-      "artists": [
-        {
-          "name": "Jara",
-          "url": "https://open.spotify.com/artist/4zr0ZwGKQPCPVGNOEAQ52U"
-        }
-      ],
-      "duration_ms": 169531,
-      "name": "ATTA",
-      "url": "https://open.spotify.com/track/2ybQ1O9yA8DobJqdBCXE8D"
     },
     {
       "added_at": "2026-04-14 14:34:43",

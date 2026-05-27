@@ -4,7 +4,7 @@
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-481 songs - 1 day 2 hr 55 min
+487 songs - 1 day 3 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [Dreaming](https://open.spotify.com/track/2cFVv2XWyq8WFWA6nLm5gz) | [Joshua Pascua](https://open.spotify.com/artist/1TVYzXm40r4fagLpaUuCny) | [Dreaming](https://open.spotify.com/album/46qeTORxWn5S5DdtLA6796) | 3:12 | 2025-11-17 | 2026-01-05 |
 | [Duele Perderte](https://open.spotify.com/track/1FRAtpfHzFqkZ9BIO4psKO) | [Karlex Pitt](https://open.spotify.com/artist/6RZcX1OjxVzN6j1gycuevD) | [Duele Perderte](https://open.spotify.com/album/1aFUJwOV7nmapGzTHSjYYN) | 3:14 | 2026-02-20 | 2026-05-17 |
 | [Eerie Bells](https://open.spotify.com/track/1gaUWzXr4eZe5n3RDVU8Kr) | [IDŌL](https://open.spotify.com/artist/3nmBN4kK0iZ0yoYymH7RMS) | [Eerie Bells](https://open.spotify.com/album/3vTOBKNhl3rv4Yua9BUzMY) | 3:50 | 2025-11-08 | 2025-12-01 |
+| [El Camino](https://open.spotify.com/track/45OF12sFrMP8pnK3UCrhhl) | [Superstar Nomads](https://open.spotify.com/artist/1EoRqKFEnXxQIb815UlRtJ) | [El Camino](https://open.spotify.com/album/0UNEhnKevuAa8fAfUcPN1F) | 4:30 | 2026-05-26 |  |
 | [Electric Love](https://open.spotify.com/track/53JRwecCM69WPvzvokpKHy) | [Aynex](https://open.spotify.com/artist/0XKqBh66yNot6Om52W63rF), [Bella](https://open.spotify.com/artist/0OOnqKoht5Gj3cXtVAMYtN) | [Electric Love](https://open.spotify.com/album/177BhxFET5l4YG89GwFMIq) | 3:07 | 2025-11-08 | 2025-12-01 |
 | [En el mapa](https://open.spotify.com/track/1bDjpxKIyW1z5IzsMfjXmA) | [Dylan Vel](https://open.spotify.com/artist/1JZ7h4obyLusP8iJoX5lv5) | [En el mapa](https://open.spotify.com/album/3kl8Eo1zjyyBN6aIVcJfLQ) | 3:03 | 2025-11-01 | 2025-12-01 |
 | [Enséñame](https://open.spotify.com/track/4FKBpzuDfY5W38nU1R9nAz) | [Kirke](https://open.spotify.com/artist/2DqLLxyfyxRUodLixvd306) | [Enséñame](https://open.spotify.com/album/2ZRX2YE4E5qB4q6fvrKTB9) | 3:27 | 2026-04-28 |  |
@@ -151,6 +152,7 @@
 | [Fendi Flexin Freestyle](https://open.spotify.com/track/50ECzBqkUMZTlj8dThgCyJ) | [Young.Fendi](https://open.spotify.com/artist/7J8NCqwzHIYJGVbxvTLB9E) | [Fendi Flexin Freestyle](https://open.spotify.com/album/7bO7qVHwTVAJiV0hBrkIvc) | 2:01 | 2025-12-25 | 2026-01-15 |
 | [Festivus Rocks!](https://open.spotify.com/track/4PW4OeLpaAVituvNzEH6J5) | [The Lollygags](https://open.spotify.com/artist/2i8RjASHxZLub8hlOOHl6t) | [Festivus Rocks!](https://open.spotify.com/album/5elQ75PyN8McdSGT9WdtcK) | 2:17 | 2025-12-20 | 2026-01-15 |
 | [fm25\-brokenheart](https://open.spotify.com/track/7LEy7uZTkYTsIAxSbtkWGp) | [reul gg](https://open.spotify.com/artist/3nYdys8G6JBrefwLjv6WL3) | [fm25\-brokenheart](https://open.spotify.com/album/2hvwtQ14JcGXMykF0ObLqm) | 2:19 | 2025-11-22 | 2026-01-05 |
+| [Follow](https://open.spotify.com/track/3Hld2nGje5pWk66c3GAWOj) | [Vance](https://open.spotify.com/artist/11LpEjg6drv4G1kBItUSn6) | [Follow](https://open.spotify.com/album/6SvROxW4ZNQRkhesEl8lI9) | 3:58 | 2026-05-26 |  |
 | [Fool Me Once](https://open.spotify.com/track/0FQfOZAX6qhCQuXWKN34ts) | [Sean Blu](https://open.spotify.com/artist/5G0irBhjyBtG6hfg6fuBgx) | [Fool Me Once](https://open.spotify.com/album/0j9QcJzHJAB6e2CC689lKO) | 2:45 | 2026-02-08 | 2026-04-14 |
 | [For A Season](https://open.spotify.com/track/0wpGtY0s0bf7sOGau3zwYx) | [Nicky Jean](https://open.spotify.com/artist/4ecawqe1AHRUfnQeizauYD) | [For A Season](https://open.spotify.com/album/0hsm4XQOLAOPRhKJQRM7tp) | 3:50 | 2025-12-22 | 2026-01-25 |
 | [For Tonight](https://open.spotify.com/track/7vBLb4FAncwkvOegh7Mc4W) | [Vann's Nebula](https://open.spotify.com/artist/3weSFV7MGGpEDX60DTEzlM) | [Brother](https://open.spotify.com/album/5RV6Ggi9hnALeXXchpW37O) | 2:29 | 2025-12-20 | 2026-01-15 |
@@ -204,6 +206,7 @@
 | [I Am Myself](https://open.spotify.com/track/4epi22E8Nfxddq4sB3QmaL) | [Mc Lic](https://open.spotify.com/artist/1EsbQyIL0vr4ze4rKKVHoe), [7sete7](https://open.spotify.com/artist/201Meo78dft4fx9JCW9RwW) | [I Am Myself](https://open.spotify.com/album/1AKtzNNNJrLpSCmA3Coipz) | 2:27 | 2026-01-18 | 2026-02-21 |
 | [I Can See](https://open.spotify.com/track/3dq8Lc5qdHtvqYjABo6p2x) | [Ashstone](https://open.spotify.com/artist/47hrCicuIVVFh4Z7dVNNUG) | [I Can See](https://open.spotify.com/album/3EsMwipMnmMhMP9RWOHOPH) | 2:48 | 2025-12-22 | 2026-03-03 |
 | [i chose \(you\)](https://open.spotify.com/track/43FMQXLgPcXdA8GVXxrIJc) | [wone](https://open.spotify.com/artist/2lVHLWuHbuXUoldxPjT0xt) | [i chose \(you\)](https://open.spotify.com/album/2kZv9QPZ6UwPXdNiSBdpjc) | 1:58 | 2026-03-07 | 2026-05-26 |
+| [I Loved Her](https://open.spotify.com/track/1fEMJGdUuxd4UzKoH9RbBS) | [Corey Drumz of I.K.E.](https://open.spotify.com/artist/5abVgGaUWz6b9H7VDkdQDp), [Lee Boogz](https://open.spotify.com/artist/2guhQF0tAP6qNI8qDw6HkI) | [What Made Me](https://open.spotify.com/album/2Az9FZds2Cgj0e2m1ARzxq) | 3:29 | 2026-05-26 |  |
 | [I Scream at the Sky](https://open.spotify.com/track/0CLp865LeLrvTR4a5baLZe) | [Echo Boulevard](https://open.spotify.com/artist/1gALePO988dZS6ODOta7q4) | [I Scream at the Sky](https://open.spotify.com/album/5hmEYrCwecUfQUKhz3820H) | 2:06 | 2026-03-23 | 2026-05-26 |
 | [I'll Be Alright](https://open.spotify.com/track/07rCURpFsBIeD7R6jwsxp5) | [Rob Skinner](https://open.spotify.com/artist/13bCwVHw1MUQUDKj7NrWiT) | [I'll Be Alright](https://open.spotify.com/album/2G1b3ApnkYG52ydlyumBv0) | 4:00 | 2025-11-17 | 2026-01-05 |
 | [I'm Sorry It's Over](https://open.spotify.com/track/58kzecWPzOlCzpDzu32eDz) | [No Friends Left](https://open.spotify.com/artist/4SDEigdJCKwEnByUzQhgNj) | [I Wanna Be 16 Again!](https://open.spotify.com/album/62Y6hCa2mpdMYszePDaolr) | 3:06 | 2026-03-14 | 2026-05-26 |
@@ -345,6 +348,7 @@
 | [Recorramos La Ciudad](https://open.spotify.com/track/2zUAMwoBg9iC3Mhs9EiF9o) | [Cheo MC](https://open.spotify.com/artist/52uwZEe4PbjQGc2NshIbrM) | [Recorramos La Ciudad](https://open.spotify.com/album/04biMfu7QdHLpgR43tK4mf) | 3:16 | 2025-11-13 | 2026-01-05 |
 | [Regrets](https://open.spotify.com/track/5OcfEtuClISKPdL7oXhnnL) | [Sasha Renee](https://open.spotify.com/artist/2ZAYFh5BoAhA9fCjAcuxwu) | [Regrets](https://open.spotify.com/album/1bhiWsTcsqmYvv3WqCu7vb) | 2:07 | 2026-04-23 | 2026-05-26 |
 | [Remedy Show](https://open.spotify.com/track/2qkvsI8NAf5cq4qmNM2NZ5) | [The Fuzes](https://open.spotify.com/artist/2FTrpNcKeBFvF9iKZa5kEA) | [Remedy Show](https://open.spotify.com/album/6eaiUGRsmpH6UPPXRcsiWP) | 2:29 | 2026-03-07 | 2026-05-17 |
+| [Retazos](https://open.spotify.com/track/2W6RLkNVNJP9gNC7KLbN6a) | [RAN](https://open.spotify.com/artist/4tRHpUUjRHeWreweQxjMXa) | [Retazos](https://open.spotify.com/album/5WC2vaK0yh1TVUDOaGdJay) | 3:06 | 2026-05-26 |  |
 | [Ridiculous](https://open.spotify.com/track/47qSQWO2wok6EKRZV2ACII) | [Jody Lo](https://open.spotify.com/artist/3B0ssaf53mJDwpO1lXe2B2) | [Ridiculous](https://open.spotify.com/album/4p3IxHthUEfy1wUfUUchxH) | 2:28 | 2026-02-16 | 2026-03-10 |
 | [RIEN AU FINAL](https://open.spotify.com/track/6rmnhkP5lHQQXlA7SHfNUe) | [Dracy Drace](https://open.spotify.com/artist/1o6LtXhpbTN1DsxuXEJ0mr), [wiz beatz](https://open.spotify.com/artist/1M1KSRzo4svI2Pvp6s58Qo) | [A DEUX](https://open.spotify.com/album/7J56vsYcm4StAiKupVqoqh) | 2:38 | 2026-03-08 | 2026-04-14 |
 | [Robocop](https://open.spotify.com/track/1GQrrXpf35AYMDfuc4a5CW) | [Noiz Ritual](https://open.spotify.com/artist/2RQ8ipqWpztVcqcT5iz0e6) | [Embrace The Noiz](https://open.spotify.com/album/0rznfmsxNj6GewVHUoyP12) | 4:03 | 2025-11-01 | 2025-12-01 |
@@ -377,6 +381,7 @@
 | [Song of the Week \- \(Album Version\)](https://open.spotify.com/track/4Hh3cYCCSHebeaHB49YGsB) | [Kenny Mehler](https://open.spotify.com/artist/4N1Sigw37UfElIUUR981QS) | [Cornbread and Whiskey](https://open.spotify.com/album/5lGPPVdraaU7RikytucTCg) | 2:39 | 2025-11-01 | 2025-12-01 |
 | [Sorry Not Sorry](https://open.spotify.com/track/4qBf2gBewjF1tnoUzR6n3g) | [the dt's](https://open.spotify.com/artist/4nZVHrZrnqw6nNruvY3G0t) | [Sorry Not Sorry](https://open.spotify.com/album/1bHQETnkpeyWRLFJSbBuOt) | 3:41 | 2026-05-13 |  |
 | [Sotto la Pioggia](https://open.spotify.com/track/1E5cfhHQzQEGFrkCLCoJYK) | [Vacant Age](https://open.spotify.com/artist/4oRYX3WgCNT4BzcKXxLXPq) | [Sotto la Pioggia](https://open.spotify.com/album/2P2iK8WQH5ziCz9z91QcaC) | 3:16 | 2025-12-24 | 2026-01-15 |
+| [Soul'd Off](https://open.spotify.com/track/5yDps6fyhd80oH6xFhZioi) | [Corey Drumz](https://open.spotify.com/artist/1FahdwAmCrNJVrH1rHGlML) | [Soul'd Off](https://open.spotify.com/album/3UZUOsT9cTRr5jxbbf6Wfo) | 3:56 | 2026-05-26 |  |
 | [Spacing Out](https://open.spotify.com/track/77fhoJzb7s4oSw7zIrZNyz) | [JTL](https://open.spotify.com/artist/6DZYmpRaYs36tOF2w4RRrN) | [Spacing Out](https://open.spotify.com/album/4e7aOzK90rVVOHI10ogtGd) | 2:46 | 2026-05-19 |  |
 | [Special Request](https://open.spotify.com/track/32S5hZP2vnB2Lw49ZkZhvb) | [Kool Breed](https://open.spotify.com/artist/4Ul0KjB1HMg6ozrWCZOc28) | [Special Request Tape](https://open.spotify.com/album/6s4mnxf3T0QNppxWnwwAyQ) | 4:24 | 2026-05-19 |  |
 | [Spell On Me](https://open.spotify.com/track/1dU5H0mipa2uHxMOPVRSBr) | [Visiion](https://open.spotify.com/artist/1iGd2vsZFEL1h6APTFqSKC) | [Spell On Me](https://open.spotify.com/album/5cmBf5CAACoNL4ZfKrbKAr) | 1:53 | 2026-05-19 |  |
@@ -394,6 +399,7 @@
 | [Supporting Character](https://open.spotify.com/track/1vjwH3e6jYKecVfZhJ1c6V) | [TJ Juganas](https://open.spotify.com/artist/77DKnEff4JNbAbkDqb61re) | [Supporting Character](https://open.spotify.com/album/7mvQ18bOXnbwaeFz7bIzHg) | 3:49 | 2025-12-23 | 2026-01-15 |
 | [Take A Lil' Time](https://open.spotify.com/track/1oVCeQADHIZKSb492xwk1S) | [Tristan Hutton](https://open.spotify.com/artist/6bXZTbs3GVfsdT6HyQVw2w) | [Take A Lil' Time](https://open.spotify.com/album/4RAQc3RTorlP1eLpWwmVFV) | 4:00 | 2026-05-08 |  |
 | [Take Me There](https://open.spotify.com/track/0T540jldrQIbUy0WuZplnX) | [J.Soul](https://open.spotify.com/artist/5jdVWEJI1micvPRupftugZ) | [Take Me There](https://open.spotify.com/album/7B9n80xlWR68UQlaKMyHrE) | 4:16 | 2025-12-23 | 2026-01-15 |
+| [Take What Is Left](https://open.spotify.com/track/3NnzCY51DZrwFBNjcUozBP) | [Edgeline](https://open.spotify.com/artist/6rzkpsF9nG5ScJFYTGTUOB) | [Leave](https://open.spotify.com/album/3OgnRzvhhrrcaci5Qapuqr) | 4:19 | 2026-05-26 |  |
 | [Tanto](https://open.spotify.com/track/6zgyFi5AddkJEqazpqttKA) | [Anedonia](https://open.spotify.com/artist/0Aqh4GZUYMq4i6UH7ptaBP) | [Catarsis](https://open.spotify.com/album/2kswk3FL9QXty9kwJZdadg) | 4:20 | 2025-11-02 | 2025-12-01 |
 | [Tears](https://open.spotify.com/track/19ky0ma1R4uoD4Pr5qDZXM) | [Swink](https://open.spotify.com/artist/17UK86hbSdJ53N6jEHOLIB) | [Tears](https://open.spotify.com/album/0Y9gc7GLoIyCQBSEErfSxF) | 3:56 | 2025-12-04 | 2026-01-05 |
 | [Technicolor Wine](https://open.spotify.com/track/37zitPVqGB50b27TrvHjbg) | [Dizzy Daffodils](https://open.spotify.com/artist/1d6SQiQelLAdAjeiKX9CTm) | [Technicolor Wine](https://open.spotify.com/album/2LuUFZMvR9PSNdv4QDlhNk) | 3:46 | 2026-03-10 | 2026-04-14 |

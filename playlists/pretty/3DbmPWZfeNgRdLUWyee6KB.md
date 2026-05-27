@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,311 likes - 174 songs - 10 hr 21 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,312 likes - 183 songs - 10 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -182,5 +182,14 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 172 | [DP på SnapChat](https://open.spotify.com/track/3RaNiI1jFzzMDYFQoP188X) | [G.M.L.](https://open.spotify.com/artist/4H1Hn4nIuzTyDQY2RuGUYC) | [DP på SnapChat](https://open.spotify.com/album/2wS6Uswi0fPri5cWSIdNkz) | 3:06 |
 | 173 | [I Don't Care](https://open.spotify.com/track/23uw1PtbzbMTBVWh9ybfKq) | [GoodboyDess](https://open.spotify.com/artist/2lp0si4MShPt81ftDdaopu) | [Chronicles](https://open.spotify.com/album/3SXQw872Qse1aMo2QHkNYE) | 6:19 |
 | 174 | [Amori inutili](https://open.spotify.com/track/5siNyqczRiqtJ0nboaUpNY) | [Tommaso Giusti](https://open.spotify.com/artist/45gWIaYD5ih9QCHoBxEy3a) | [Amori inutili](https://open.spotify.com/album/5P6RxvlC9MP9nwo0BpBD12) | 3:18 |
+| 175 | [inside](https://open.spotify.com/track/3lNti0aGSklKtAKjvBoPtf) | [CELESTE](https://open.spotify.com/artist/0n3Ta8t4LZ4JVMIwYDPs2n) | [inside](https://open.spotify.com/album/1kUCOrM4nDBUec21uEzRgG) | 2:58 |
+| 176 | [Too Late](https://open.spotify.com/track/35sGt18IC60WKxa4yWPQ6k) | [NYROS RAY](https://open.spotify.com/artist/04yVrTH59bbO6VJXQvpdZv) | [Too Late](https://open.spotify.com/album/5mqUxIVALcXZijckupme57) | 3:13 |
+| 177 | [JOM MOLAH](https://open.spotify.com/track/6EmJZR5dr1dtTCXtOtoaNG) | [ROKSTA TINAMIILLU](https://open.spotify.com/artist/2QcAN6fRN0EC30KNT8x0Ue) | [JOM MOLAH](https://open.spotify.com/album/0fVd01ykFZl6GsjiYUyT0n) | 2:15 |
+| 178 | [Salga el sol](https://open.spotify.com/track/7kUMy7807NMwPbkU3oecpG) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Puzzles](https://open.spotify.com/album/7e2bA6vx7HTLvrOtyFLChY) | 2:25 |
+| 179 | [Anxiety You](https://open.spotify.com/track/470eynl4mNNwdfnjmpXP1M) | [Elysium](https://open.spotify.com/artist/2NC1GXUAZDH9D8uu809kXg) | [Anxiety You](https://open.spotify.com/album/03qy6zCm1Y7oMSZIFDXSax) | 5:32 |
+| 180 | [Superhero \- Acoustic](https://open.spotify.com/track/7nrFRSafHxawukv8qSqVeK) | [26 fingerprints](https://open.spotify.com/artist/67KHGhkPkdL1Afg4DQGMjM) | [Superhero \(Acoustic\)](https://open.spotify.com/album/2qghX842ealI9MXpzX1G7K) | 3:12 |
+| 181 | [Vollgasliebe \- Radio Edit](https://open.spotify.com/track/5xy4fW5f6OYzX5ju4JCHMm) | [SOUTHDOGROCK](https://open.spotify.com/artist/75YwHvnDPylgINOig25YhA) | [Vollgasliebe \(Radio Edit\)](https://open.spotify.com/album/6n8pcD8D1WPVYtHtT3Ibip) | 3:51 |
+| 182 | [Wasted](https://open.spotify.com/track/7bMFnhweGI4LXrdeqgPQHX) | [Ludwig Jonsson](https://open.spotify.com/artist/6pWJeM6v6cLKjblDNWYNdx) | [Wasted](https://open.spotify.com/album/5lMCclH2lhpNpLABYIsNnK) | 3:42 |
+| 183 | [Paper Crown](https://open.spotify.com/track/01LrJl6lx46YyYuCOru9hu) | [Woytinek AI Music](https://open.spotify.com/artist/6klSDm3TJW4K2iJgXhOShO) | [Paper Crown](https://open.spotify.com/album/3s25WkNElrzbzhIzNVZeYa) | 3:47 |
 
-Snapshot ID: `AAAUWI0+85VSDvmWDTVxYt+Pavxt5D/b`
+Snapshot ID: `AAAUYRc/EBeP056XJdme67+GiAnCAykt`

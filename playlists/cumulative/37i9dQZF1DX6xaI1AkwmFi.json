@@ -207,6 +207,28 @@
     },
     {
       "album": {
+        "name": "Airplane Letter",
+        "url": "https://open.spotify.com/album/7g7MS1ZyBQYj2ggKBgY6ym"
+      },
+      "artists": [
+        {
+          "name": "Sala",
+          "url": "https://open.spotify.com/artist/6PCEjMwZEdp6lUJv7z2prW"
+        },
+        {
+          "name": "GORO KUMAI",
+          "url": "https://open.spotify.com/artist/41lxUXDzSD0mjAnHOgbXDR"
+        }
+      ],
+      "date_added": "2026-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196757,
+      "name": "Airplane Letter",
+      "url": "https://open.spotify.com/track/7Co5Rxc0BvTcANQtdnmBjC"
+    },
+    {
+      "album": {
         "name": "AIZO",
         "url": "https://open.spotify.com/album/7BAFUXup2XFZpcnCmLjXmM"
       },
@@ -821,6 +843,24 @@
     },
     {
       "album": {
+        "name": "bubble days",
+        "url": "https://open.spotify.com/album/4DNQwljwK8Y2shHwubMYqQ"
+      },
+      "artists": [
+        {
+          "name": "\u308c\u3093",
+          "url": "https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m"
+        }
+      ],
+      "date_added": "2026-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244523,
+      "name": "bubble days",
+      "url": "https://open.spotify.com/track/6p8BKrC23uEKe3jPUC5Mzc"
+    },
+    {
+      "album": {
         "name": "Bubee",
         "url": "https://open.spotify.com/album/1Tisomh3VWj3TeI8bFG5Tr"
       },
@@ -1322,7 +1362,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-27",
       "duration_ms": 189439,
       "name": "Elevated",
       "url": "https://open.spotify.com/track/0auzTKGIHtSIQmtzMLTPPM"
@@ -2522,6 +2562,24 @@
       "duration_ms": 182000,
       "name": "Kick Out",
       "url": "https://open.spotify.com/track/6JfsyzbHZWFTbXUurR8pyg"
+    },
+    {
+      "album": {
+        "name": "kimagure",
+        "url": "https://open.spotify.com/album/4TP7lvpRDEPXlx2vTwuch4"
+      },
+      "artists": [
+        {
+          "name": "Vaundy",
+          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
+        }
+      ],
+      "date_added": "2026-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209764,
+      "name": "kimagure",
+      "url": "https://open.spotify.com/track/6C57BHEiqIaatLzFzqYx4e"
     },
     {
       "album": {
@@ -3816,7 +3874,7 @@
       ],
       "date_added": "2025-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-27",
       "duration_ms": 326842,
       "name": "Pretender",
       "url": "https://open.spotify.com/track/58dxGXavrcagRqA58fNB0Z"
@@ -4626,7 +4684,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-27",
       "duration_ms": 266613,
       "name": "SOS",
       "url": "https://open.spotify.com/track/3I2mKETQKvGkaAQtQMRiWa"
@@ -5989,6 +6047,24 @@
     },
     {
       "album": {
+        "name": "\u3046\u308b\u3055",
+        "url": "https://open.spotify.com/album/6ehYv1NiDExPySDZC0LBNP"
+      },
+      "artists": [
+        {
+          "name": "Ayase",
+          "url": "https://open.spotify.com/artist/1S8OQ9SqlLdD9l4paaZMuZ"
+        }
+      ],
+      "date_added": "2026-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193405,
+      "name": "\u3046\u308b\u3055",
+      "url": "https://open.spotify.com/track/4GIcq7PrGF0kjPWT6ULJRY"
+    },
+    {
+      "album": {
         "name": "\u6e80\u8eab\u5275\u610f",
         "url": "https://open.spotify.com/album/1EJZyEyOQ9Ad6Rkro66ieM"
       },
@@ -6610,7 +6686,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-27",
       "duration_ms": 262997,
       "name": "\u30a4\u30c7\u30a2\u304c\u6ea2\u308c\u3066\u7720\u308c\u306a\u3044",
       "url": "https://open.spotify.com/track/4nsrIXDihSYr8eb56j015A"

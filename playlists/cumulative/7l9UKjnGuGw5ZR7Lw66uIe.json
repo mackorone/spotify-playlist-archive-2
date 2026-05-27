@@ -489,6 +489,24 @@
     },
     {
       "album": {
+        "name": "Su\u00e7 Olur Mu?",
+        "url": "https://open.spotify.com/album/5m0mAtur2cQZgd75ULo7eU"
+      },
+      "artists": [
+        {
+          "name": "Ayberk Serin",
+          "url": "https://open.spotify.com/artist/1Q8rbtdvSoGQj33lP2HcJF"
+        }
+      ],
+      "date_added": "2026-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172380,
+      "name": "Su\u00e7 Olur Mu?",
+      "url": "https://open.spotify.com/track/0MbNxNddm6PEBT7n2BVfjm"
+    },
+    {
+      "album": {
         "name": "T\u00f6vbeliyim A\u015fka",
         "url": "https://open.spotify.com/album/4uaaAsrpQFHmVvuJuLKzti"
       },

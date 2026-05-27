@@ -4897,6 +4897,24 @@
     },
     {
       "album": {
+        "name": "Do It Wrong, Do It Right",
+        "url": "https://open.spotify.com/album/2Nc7WAethNlkgHUy3FYoe6"
+      },
+      "artists": [
+        {
+          "name": "Nota Baxua",
+          "url": "https://open.spotify.com/artist/1cFRemxURzd9fohFUoUgAT"
+        }
+      ],
+      "date_added": "2026-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334545,
+      "name": "Do It Wrong, Do It Right",
+      "url": "https://open.spotify.com/track/3yC3lXmVEcdOfx9US5GQaA"
+    },
+    {
+      "album": {
         "name": "Do My Thing",
         "url": "https://open.spotify.com/album/5FChlf6muHa5yTSW5J7tuu"
       },
@@ -6074,6 +6092,24 @@
       "duration_ms": 143976,
       "name": "Fall At Your Feet (with Dean Lewis)",
       "url": "https://open.spotify.com/track/0M0a2E5H8pUmqDHs0A4931"
+    },
+    {
+      "album": {
+        "name": "Fall In Love",
+        "url": "https://open.spotify.com/album/6leHt7BwNsUm5MF5wM6wkT"
+      },
+      "artists": [
+        {
+          "name": "Luis Rodriguez",
+          "url": "https://open.spotify.com/artist/3UVoBPCrKG8mz9NVFgmAPn"
+        }
+      ],
+      "date_added": "2026-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146400,
+      "name": "Fall In Love",
+      "url": "https://open.spotify.com/track/1xyEswllI1gpnsdWhHFDZd"
     },
     {
       "album": {
@@ -10219,6 +10255,24 @@
     },
     {
       "album": {
+        "name": "#Ibiza 2026",
+        "url": "https://open.spotify.com/album/0AkuU7D0ekqA7ZlMCYwtOJ"
+      },
+      "artists": [
+        {
+          "name": "Eddie Craig",
+          "url": "https://open.spotify.com/artist/69IpNz134fIjeb0E6E8M6X"
+        }
+      ],
+      "date_added": "2026-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228281,
+      "name": "J'adore La Musique",
+      "url": "https://open.spotify.com/track/1F8TE8j6C0qjZjkcY3lwx4"
+    },
+    {
+      "album": {
         "name": "Jack",
         "url": "https://open.spotify.com/album/7lKWL8ShCAr7ZVdCtAmUai"
       },
@@ -11570,6 +11624,24 @@
       "duration_ms": 154960,
       "name": "Like An Animal (feat. Black Prez)",
       "url": "https://open.spotify.com/track/5ohHQ4FkMTAAuXIguHXIat"
+    },
+    {
+      "album": {
+        "name": "Like Ice",
+        "url": "https://open.spotify.com/album/0To8nYX6ow2gVYQRuIXcLh"
+      },
+      "artists": [
+        {
+          "name": "VOLAC",
+          "url": "https://open.spotify.com/artist/4Nl6PVYLwbCFfr3UqQlFtE"
+        }
+      ],
+      "date_added": "2026-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181875,
+      "name": "Like Ice",
+      "url": "https://open.spotify.com/track/1FdCxOOmuK3xPO14wpK9qo"
     },
     {
       "album": {
@@ -13362,6 +13434,24 @@
     {
       "album": {
         "name": "Mind",
+        "url": "https://open.spotify.com/album/0UcnyV3OzcjNMuApyO5kXQ"
+      },
+      "artists": [
+        {
+          "name": "Darby",
+          "url": "https://open.spotify.com/artist/6rErJmMCoNHUX0Z99uBB8m"
+        }
+      ],
+      "date_added": "2026-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147826,
+      "name": "Mind",
+      "url": "https://open.spotify.com/track/0Rq1qly0j85jDxYTXkmNrI"
+    },
+    {
+      "album": {
+        "name": "Mind",
         "url": "https://open.spotify.com/album/0IVOLNrvbgmILSokGUid6N"
       },
       "artists": [
@@ -13834,6 +13924,32 @@
       "duration_ms": 195714,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/6zSza83er01pHYxOgFyEhz"
+    },
+    {
+      "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/1xPhcicXO2CxMLNZoIKQh9"
+      },
+      "artists": [
+        {
+          "name": "B1",
+          "url": "https://open.spotify.com/artist/3NGN7d3tz6k6o6yn0RI0bY"
+        },
+        {
+          "name": "Roby Giordana",
+          "url": "https://open.spotify.com/artist/3U0FKyaXeR2C6TpEKZW0px"
+        },
+        {
+          "name": "Nacoa",
+          "url": "https://open.spotify.com/artist/61HmDgMFS306f9tS7vuAoA"
+        }
+      ],
+      "date_added": "2026-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204055,
+      "name": "Moonlight - Radio Edit",
+      "url": "https://open.spotify.com/track/3gj4OgPs2QbWG6mUp3xaQq"
     },
     {
       "album": {
@@ -20814,6 +20930,24 @@
       "duration_ms": 248275,
       "name": "The Ones",
       "url": "https://open.spotify.com/track/5rqOsAmL6kZtLisgFaaiV0"
+    },
+    {
+      "album": {
+        "name": "The Portal",
+        "url": "https://open.spotify.com/album/7KA4bm3WuCfTrCaGC3yTH6"
+      },
+      "artists": [
+        {
+          "name": "Christian Corsi",
+          "url": "https://open.spotify.com/artist/3JlSc5y4TTi8H0mszwjKPk"
+        }
+      ],
+      "date_added": "2026-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284047,
+      "name": "The Portal",
+      "url": "https://open.spotify.com/track/7IkNXQGO7YKTZXslni2sCS"
     },
     {
       "album": {

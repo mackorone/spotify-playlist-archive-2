@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 
 > These are some independent rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 1,013 likes - 91 songs - 5 hr 29 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 1,020 likes - 94 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [goodbye](https://open.spotify.com/track/4JaOFKSDjDtEBee1bJOxjI) | [tina.](https://open.spotify.com/artist/07BwCkEmgUdl0iuWfVq4mC) | [goodbye](https://open.spotify.com/album/0wG69WeVzlbyg2rRCnUQmf) | 3:35 |
-| 2 | [Ashes](https://open.spotify.com/track/121B2HvqI9ZyONMYDy7AJ6) | [Right Proper](https://open.spotify.com/artist/3j8FdInRYKiNq7Ox7TY375) | [Ashes](https://open.spotify.com/album/3sG4UIFpkZKghgMzSmh0x1) | 3:33 |
+| 2 | [Ashes](https://open.spotify.com/track/121B2HvqI9ZyONMYDy7AJ6) | [Right Proper](https://open.spotify.com/artist/3j8FdInRYKiNq7Ox7TY375) | [Ashes](https://open.spotify.com/album/3sG4UIFpkZKghgMzSmh0x1) | 3:40 |
 | 3 | [Jane](https://open.spotify.com/track/4XedfQTRrrkH48buhGSbFd) | [Lunar Chain](https://open.spotify.com/artist/6esnKS6lev7QYCZAL0y8bW) | [Jane](https://open.spotify.com/album/3McsECnITe5RZAbrBHn36C) | 3:01 |
 | 4 | [FREAKS](https://open.spotify.com/track/1ZtQmNimRvDM35hqQO3QHa) | [YESLA](https://open.spotify.com/artist/7CbFOx3il5PpL5FJQVxvle) | [FREAKS](https://open.spotify.com/album/1H6e90sxK6XJWm3F8Qm0vR) | 2:27 |
 | 5 | [Два серця](https://open.spotify.com/track/1pkfxxopKZB7QVOvzjTjP7) | [ЛЮТА](https://open.spotify.com/artist/5XFjkWAijGDE0j4yAF4ftC) | [Два серця](https://open.spotify.com/album/5J6MYfGrjHdIIiSQ4Ium49) | 2:45 |
@@ -99,5 +99,8 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 | 89 | [Fentanyl Apocalypse](https://open.spotify.com/track/5SzfE5AOykHvXDnX2vt1o4) | [Magic Dragon](https://open.spotify.com/artist/0trHAWuVufxQLIZyPujytr) | [Metropolitan Degradation](https://open.spotify.com/album/1NyV58vxmbIYmhTGrIqmTg) | 3:18 |
 | 90 | [Just a Little While](https://open.spotify.com/track/1OLUiHTSO2A9dmLpuGDgFW) | [Chelekis](https://open.spotify.com/artist/4JCoKAEJ4c4So8sYRaZgUf) | [Just a Little While](https://open.spotify.com/album/7Bcl5QSiVUwyNppf3sbloL) | 4:30 |
 | 91 | [LIGHTHOUSE](https://open.spotify.com/track/3grAFJ4WFMWqUxEAzmhbjE) | [KXENIA](https://open.spotify.com/artist/4xGnce5EXkdJNeOxaZeYTL) | [Breaking Crests](https://open.spotify.com/album/2dLSlsENTZgScQ0gyNwmcN) | 2:56 |
+| 92 | [Vamos Viendo](https://open.spotify.com/track/4sSJCnRfOZBZ8v7jD6PkPO) | [Ruido Cassette](https://open.spotify.com/artist/2YiahtiLSZAAMIHoV8uZlx) | [Vamos Viendo](https://open.spotify.com/album/5I0KWYTTCxgaOlQOvoq4LI) | 3:05 |
+| 93 | [No Angel Is Watching](https://open.spotify.com/track/3Cjct6UfADZsVdXdRHmOae) | [Ludwig Jonsson](https://open.spotify.com/artist/6pWJeM6v6cLKjblDNWYNdx) | [No Angel Is Watching](https://open.spotify.com/album/68XNOikZKxIdeg4OncW44B) | 2:55 |
+| 94 | [Twisting the Knife](https://open.spotify.com/track/3bbYJ9kP7fJkux2JZzSmvN) | [moberod](https://open.spotify.com/artist/49lLlq5yOsfgHQnypG2Cdd) | [Twisting the Knife](https://open.spotify.com/album/1G3EqM6MNhagdMwIbNZ7NU) | 2:40 |
 
-Snapshot ID: `AAAGJbFcvAjUF6U3qaUdxKwPnyGvaBDo`
+Snapshot ID: `AAAGKNPqzzv/A+R95dcGnbhNacFvkNnM`

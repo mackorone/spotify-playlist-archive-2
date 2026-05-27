@@ -6569,6 +6569,24 @@
     },
     {
       "album": {
+        "name": "Good Ones",
+        "url": "https://open.spotify.com/album/1RK7afQN4wTu90lEqbVDou"
+      },
+      "artists": [
+        {
+          "name": "Sadie Jean",
+          "url": "https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d"
+        }
+      ],
+      "date_added": "2026-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199933,
+      "name": "Good Ones",
+      "url": "https://open.spotify.com/track/5AuqGkHqaX9qdn9aZlvBUb"
+    },
+    {
+      "album": {
         "name": "Good Stuff",
         "url": "https://open.spotify.com/album/7dD6azbod3vyOmLaIo41N5"
       },
@@ -15436,7 +15454,7 @@
       ],
       "date_added": "2026-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-27",
       "duration_ms": 227998,
       "name": "Software Developer",
       "url": "https://open.spotify.com/track/3CnLMXhLxdbFMxldjAn7XS"

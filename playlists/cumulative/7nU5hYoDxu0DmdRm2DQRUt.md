@@ -4,7 +4,7 @@
 
 > New Arrivals keeps you posted on the latest records arriving in our record store and online shop &\#x2F; kompakt.fm
 
-487 songs - 1 day 22 hr 51 min
+488 songs - 1 day 22 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -295,6 +295,7 @@
 | [New Wave Bang \- Original Mix](https://open.spotify.com/track/02ESEPC2zBRleLmN7HL2hj) | [Phresh n Low](https://open.spotify.com/artist/278grHXaM2jZj6WzKGpPJr) | [New Wave Bang EP](https://open.spotify.com/album/2lWSCo6kYrUe8Cj3WvNBpm) | 7:08 | 2025-08-21 |  |
 | [New York Is Dead](https://open.spotify.com/track/2gNG3f8tBmJcefPVWjPOMp) | [Black Light Smoke](https://open.spotify.com/artist/6tBzfm9cIQVj3JFJnF2QTm) | [Control](https://open.spotify.com/album/4QwbWJCLB0Yx8z07uMtWLE) | 5:23 | 2025-04-07 | 2026-03-17 |
 | [Nica](https://open.spotify.com/track/1YN48f0vlOw1WEC08C1RZC) | [Terrain](https://open.spotify.com/artist/1TMXcQbztknFsxLcs7GiD0) | [Scatter EP](https://open.spotify.com/album/50GnKM24VhHRtGnlhoQZL1) | 6:15 | 2026-05-08 |  |
+| [Night Blooming](https://open.spotify.com/track/7Jur43jHDkU1cZMheGQfPi) | [Axel Boman](https://open.spotify.com/artist/59qo8jHDlC1i30HVjQQW3O), [pbeatgirl](https://open.spotify.com/artist/4dupX4HZsvDVV26tiJ20a3) | [Night Blooming](https://open.spotify.com/album/2RSDkgHsxcaIKrMMJQFRZ7) | 6:42 | 2026-05-26 |  |
 | [Night Owl](https://open.spotify.com/track/0qX9ld6jXY1AwRXaeKLpvr) | [M.I.T.A.](https://open.spotify.com/artist/21z6y3SBHItI8CjIJzPdlo) | [CROWD006: Night Owl](https://open.spotify.com/album/3nSPp7lXmzpAZlbr3UAMIU) | 5:24 | 2025-01-16 | 2025-11-11 |
 | [Nine.f.t.f.](https://open.spotify.com/track/64UkYEhNaXchH965WleNsu) | [Henrik Raabe](https://open.spotify.com/artist/4KU1fjjbTpmp86oDCH6pRX) | [LDS](https://open.spotify.com/album/78QVcbPR42U9tCshcllUKM) | 4:25 | 2026-03-16 |  |
 | [No Man’s Ground](https://open.spotify.com/track/5yObCRi59BvAwUiMzSEw6C) | [D.K\. / S.K.](https://open.spotify.com/artist/7kiAF1IF7MTVDHNazVEhkR), [D.K.](https://open.spotify.com/artist/6JGGS3JOcMIxa0QF6pFnzN), [Suzanne Kraft](https://open.spotify.com/artist/1FTn5osUbCr8n7WgYmbK5m) | [D.K\. / S.K.](https://open.spotify.com/album/4KkAZJpDvThZnY9Qzyj18e) | 5:05 | 2025-01-20 | 2025-11-11 |

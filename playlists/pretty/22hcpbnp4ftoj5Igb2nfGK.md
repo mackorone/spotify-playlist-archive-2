@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/22hcpbnp4ftoj5Igb2nfGK.md) - [plain]
 
 > pretty flippin&\#x27; peak ;\)
 
-[NtotheBEAN](https://open.spotify.com/user/uurxc85woi82uy261thqnnt3p) - 0 likes - 122 songs - 7 hr 34 min
+[NtotheBEAN](https://open.spotify.com/user/uurxc85woi82uy261thqnnt3p) - 0 likes - 141 songs - 8 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -130,5 +130,24 @@ pretty - [cumulative](/playlists/cumulative/22hcpbnp4ftoj5Igb2nfGK.md) - [plain]
 | 120 | [BEST INTEREST](https://open.spotify.com/track/3jHdKaLCkuNEkWcLVmQPCX) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [BEST INTEREST](https://open.spotify.com/album/5iUwaD3wFVwfaAfs9Z0eCh) | 2:07 |
 | 121 | [Chest Pain \(I Love\)](https://open.spotify.com/track/2XUx8PCXGpP1XhZJMGiUol) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Malcolm Todd](https://open.spotify.com/album/6IkS2cDHxaYVkJueCPSdFs) | 3:20 |
 | 122 | [Better in the Dark](https://open.spotify.com/track/3SeDS5sSoWnwAZvVgkdKzf) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw), [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [Summer's Over](https://open.spotify.com/album/60EzsIzS77S9MWHT0Tm37s) | 2:35 |
+| 123 | [Survival Tactics](https://open.spotify.com/track/4pNT8XTKWb2vhcsqwzdXCT) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH), [Capital Steez](https://open.spotify.com/artist/0oQuXVLDJB7J4wNff4F99l) | [1999](https://open.spotify.com/album/5ra51AaWF3iVebyhlZ1aqq) | 3:22 |
+| 124 | [World Domination](https://open.spotify.com/track/1W4qc7UnAuRmT93W8Ad1t1) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [1999](https://open.spotify.com/album/5ra51AaWF3iVebyhlZ1aqq) | 2:42 |
+| 125 | [Righteous Minds](https://open.spotify.com/track/7dFGkZbmm6cVlI28bfMaWE) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [1999](https://open.spotify.com/album/5ra51AaWF3iVebyhlZ1aqq) | 3:44 |
+| 126 | [Pennyroyal](https://open.spotify.com/track/2miKV8OiAhmZPjhCzgRnvw) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [1999](https://open.spotify.com/album/5ra51AaWF3iVebyhlZ1aqq) | 2:49 |
+| 127 | [The World Is Yours](https://open.spotify.com/track/7G3lxTsMfSx4yarMkfgnTC) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Illmatic](https://open.spotify.com/album/3kEtdS2pH6hKcMU9Wioob1) | 4:50 |
+| 128 | [Dark Fantasy](https://open.spotify.com/track/7yNK27ZTpHew0c55VvIJgm) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [My Beautiful Dark Twisted Fantasy](https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv) | 4:40 |
+| 129 | [Devil In A New Dress](https://open.spotify.com/track/1UGD3lW3tDmgZfAVDh6w7r) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [My Beautiful Dark Twisted Fantasy](https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv) | 5:51 |
+| 130 | [Sherane a.k.a Master Splinter’s Daughter](https://open.spotify.com/track/0qGFnxDIqGBIq2D3zNbjk9) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [good kid, m.A.A.d city \(Deluxe\)](https://open.spotify.com/album/3DGQ1iZ9XKUQxAUWjfC34w) | 4:33 |
+| 131 | [King of Carrot Flowers Pt\. 1](https://open.spotify.com/track/4QgMnTz4ceedQI3Ex6YkBT) | [Neutral Milk Hotel](https://open.spotify.com/artist/2ooIqOf4X2uz4mMptXCtie) | [In the Aeroplane Over the Sea](https://open.spotify.com/album/17q5eeNk3HAjX1gzQnkTX7) | 2:00 |
+| 132 | [King of Carrot Flowers Pts\. 2 & 3](https://open.spotify.com/track/6MiMpZdaNTsMbmjrIBK2Eo) | [Neutral Milk Hotel](https://open.spotify.com/artist/2ooIqOf4X2uz4mMptXCtie) | [In the Aeroplane Over the Sea](https://open.spotify.com/album/17q5eeNk3HAjX1gzQnkTX7) | 3:06 |
+| 133 | [In the Aeroplane Over the Sea](https://open.spotify.com/track/1NiAMp0CzUdG6e97VYRB1a) | [Neutral Milk Hotel](https://open.spotify.com/artist/2ooIqOf4X2uz4mMptXCtie) | [In the Aeroplane Over the Sea](https://open.spotify.com/album/17q5eeNk3HAjX1gzQnkTX7) | 3:22 |
+| 134 | [Two\-Headed Boy](https://open.spotify.com/track/3g158Ik8k4KUphKC1asZ3T) | [Neutral Milk Hotel](https://open.spotify.com/artist/2ooIqOf4X2uz4mMptXCtie) | [In the Aeroplane Over the Sea](https://open.spotify.com/album/17q5eeNk3HAjX1gzQnkTX7) | 4:26 |
+| 135 | [The Fool](https://open.spotify.com/track/7c6Z6ArJ07SdsHxFjuOJ6I) | [Neutral Milk Hotel](https://open.spotify.com/artist/2ooIqOf4X2uz4mMptXCtie) | [In the Aeroplane Over the Sea](https://open.spotify.com/album/17q5eeNk3HAjX1gzQnkTX7) | 1:53 |
+| 136 | [Holland, 1945](https://open.spotify.com/track/48WuGsko0WxKO9KUqZlqys) | [Neutral Milk Hotel](https://open.spotify.com/artist/2ooIqOf4X2uz4mMptXCtie) | [In the Aeroplane Over the Sea](https://open.spotify.com/album/17q5eeNk3HAjX1gzQnkTX7) | 3:12 |
+| 137 | [Communist Daughter](https://open.spotify.com/track/0G339jbSZ2xPBAZAieEZ4I) | [Neutral Milk Hotel](https://open.spotify.com/artist/2ooIqOf4X2uz4mMptXCtie) | [In the Aeroplane Over the Sea](https://open.spotify.com/album/17q5eeNk3HAjX1gzQnkTX7) | 1:57 |
+| 138 | [Oh Comely](https://open.spotify.com/track/1ZcX9khYwLeaBAblOEUZNs) | [Neutral Milk Hotel](https://open.spotify.com/artist/2ooIqOf4X2uz4mMptXCtie) | [In the Aeroplane Over the Sea](https://open.spotify.com/album/17q5eeNk3HAjX1gzQnkTX7) | 8:18 |
+| 139 | [Ghost](https://open.spotify.com/track/3IWUCuJ19dmUhddJAEZddx) | [Neutral Milk Hotel](https://open.spotify.com/artist/2ooIqOf4X2uz4mMptXCtie) | [In the Aeroplane Over the Sea](https://open.spotify.com/album/17q5eeNk3HAjX1gzQnkTX7) | 4:08 |
+| 140 | [\[untitled\]](https://open.spotify.com/track/5YflUS87Dptt9VMhMazKJH) | [Neutral Milk Hotel](https://open.spotify.com/artist/2ooIqOf4X2uz4mMptXCtie) | [In the Aeroplane Over the Sea](https://open.spotify.com/album/17q5eeNk3HAjX1gzQnkTX7) | 2:16 |
+| 141 | [Two\-Headed Boy Pt\. 2](https://open.spotify.com/track/1CZ9A2t1ZLOYZSchV1k3LR) | [Neutral Milk Hotel](https://open.spotify.com/artist/2ooIqOf4X2uz4mMptXCtie) | [In the Aeroplane Over the Sea](https://open.spotify.com/album/17q5eeNk3HAjX1gzQnkTX7) | 5:13 |
 
-Snapshot ID: `AAAGR3yrXn9AXqPhfmSsszTAGZ+HjyZ8`
+Snapshot ID: `AAAGWoLFvCgAi6Z2GHWOzv4yCRc0sy3X`

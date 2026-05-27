@@ -4,7 +4,7 @@
 
 > drinks em casa, nada melhor
 
-257 songs - 15 hr 48 min
+258 songs - 15 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Cold Call](https://open.spotify.com/track/5TTI2mMWjIK6f9oYXjO2rS) | [Boulevards](https://open.spotify.com/artist/1OO2uAMcUCXUkFzDdsr7x7) | [Groove!](https://open.spotify.com/album/5Ca3iUbx6dIf66frTpx5Hd) | 3:49 | 2022-03-25 | 2022-04-10 |
 | [Come As You Are](https://open.spotify.com/track/02iQfxXKbeR8L0AuGWrt9c) | [SHAED](https://open.spotify.com/artist/3KwmxIhSe9UTSEF37kwngR) | [Come As You Are](https://open.spotify.com/album/18yErQMF59Oup4SvhmCoEm) | 2:36 | 2022-03-04 | 2022-07-29 |
 | [Come Over](https://open.spotify.com/track/2hPNuVVSV1tqiD2uPlfehz) | [The Internet](https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8) | [Hive Mind](https://open.spotify.com/album/27ThgFMUAx3MXLQ297DzWF) | 5:21 | 2022-03-25 | 2026-05-26 |
+| [Corpo Suado](https://open.spotify.com/track/60HKq194AJUnsiyogk99uL) | [Ryan Fidelis](https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm), [Nina](https://open.spotify.com/artist/7fA6EAOeE7G5HmvBgbwND5) | [Tons de Marrom](https://open.spotify.com/album/2Ws5rlczmp2G60lDPJyrsZ) | 3:13 | 2026-05-25 |  |
 | [Cry Your Heart Out](https://open.spotify.com/track/09u787BYeYIGd2mFIJ505t) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 4:15 | 2022-02-18 |  |
 | [Dance Like Nobody's Watching](https://open.spotify.com/track/18UGB6MfGfIQ4XevCMq4cK) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Dance Like Nobody's Watching](https://open.spotify.com/album/1KuHFlATr4aoVahHKY3pzU) | 3:45 | 2022-02-18 | 2022-07-26 |
 | [Dans la hess](https://open.spotify.com/track/06nMeoeJumuAenz7XKhHYw) | [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R) | [Gore](https://open.spotify.com/album/7e9inFYUpFSKmTFbj2xrCS) | 2:49 | 2022-03-04 | 2022-04-21 |
@@ -116,7 +117,7 @@
 | [Glow](https://open.spotify.com/track/423juOOc4CLiwV6yfOhdym) | [The Goods](https://open.spotify.com/artist/4s1VGnynyXN1cZ4oKsyxEx) | [Glow](https://open.spotify.com/album/1ebjCE10RQUNzqyYYjhzdk) | 3:52 | 2022-03-02 | 2022-07-29 |
 | [HELL NO](https://open.spotify.com/track/2scJ8uEaaZ89eKjT5efNEI) | [Flor Gil](https://open.spotify.com/artist/1K0XrriGifMKnhdKhxODXy) | [HELL NO](https://open.spotify.com/album/4feMNKETJAR8jloVHKh2oH) | 3:40 | 2024-09-13 | 2024-10-05 |
 | [Here With Me \(feat\. Anderson .Paak\)](https://open.spotify.com/track/67JwJPsnpTB6jVwXgARZAn) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Good Morning Gorgeous](https://open.spotify.com/album/0vUPpxeQjTDxcvV86y6G18) | 2:19 | 2022-03-02 | 2022-06-02 |
-| [HERicane](https://open.spotify.com/track/6ywb8fhYB0URhVPhuYK8Z5) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Algorithm](https://open.spotify.com/album/7C3s4jMUKRJtm8ztviFu55) | 3:47 | 2024-07-05 |  |
+| [HERicane](https://open.spotify.com/track/6ywb8fhYB0URhVPhuYK8Z5) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Algorithm](https://open.spotify.com/album/7C3s4jMUKRJtm8ztviFu55) | 3:47 | 2024-07-05 | 2026-05-27 |
 | [Higher](https://open.spotify.com/track/7MUhRZD1UNEYk4PPq2wSw3) | [Budjerah](https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE) | [Higher](https://open.spotify.com/album/5bNltaFAuWA5gyTTCamcve) | 3:14 | 2022-02-18 | 2022-07-29 |
 | [Hold On](https://open.spotify.com/track/0WbwSOALA9zsh7r18Jwbau) | [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg) | [Dance Without Me](https://open.spotify.com/album/0MAg2c8prkPMm0k9ZINhOK) | 3:24 | 2022-02-18 | 2022-07-27 |
 | [Hold On](https://open.spotify.com/track/4dPimg8olUWKxHZXPD3KOO) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [New Me, Same Us](https://open.spotify.com/album/3PuofR78j1BFBGBrNCCYUF) | 3:30 | 2022-03-25 | 2025-03-27 |

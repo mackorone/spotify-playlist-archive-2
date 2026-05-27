@@ -1,12 +1,12 @@
 {
   "description": "This is Skindred. The essential tracks, all in one playlist.",
-  "num_followers": 30204,
+  "num_followers": 30206,
   "original_name": "This Is Skindred",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahI/gAAAAADl9Fd5jWOBLlCQBKFS+Hmg",
+  "snapshot_id": "ahORAAAAAAAbP4H6wu1H3LLcspaQ8Wsp",
   "tracks": [
     {
       "added_at": null,
@@ -52,9 +52,9 @@
           "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
         }
       ],
-      "duration_ms": 160064,
-      "name": "My People",
-      "url": "https://open.spotify.com/track/2wY6YBHBYqa0R3161HheFu"
+      "duration_ms": 217463,
+      "name": "You Got This",
+      "url": "https://open.spotify.com/track/4YGU2cXQB82h1mJxa0KWSm"
     },
     {
       "added_at": null,
@@ -116,9 +116,9 @@
           "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
         }
       ],
-      "duration_ms": 217463,
-      "name": "You Got This",
-      "url": "https://open.spotify.com/track/4YGU2cXQB82h1mJxa0KWSm"
+      "duration_ms": 160064,
+      "name": "My People",
+      "url": "https://open.spotify.com/track/2wY6YBHBYqa0R3161HheFu"
     },
     {
       "added_at": null,

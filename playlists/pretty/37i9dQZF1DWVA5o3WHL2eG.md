@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume! Cover: Mariybu
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,230 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,225 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,12 +18,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 8 | [Süßer](https://open.spotify.com/track/4i9MMlgfUTuC3ClXAsbjYw) | [Mieze](https://open.spotify.com/artist/7M4NzPON3JqwE3GRfdg7eU) | [Süßer](https://open.spotify.com/album/4IGnm0d5e8LxE7Ix7WuYEq) | 1:44 |
 | 9 | [Miu Miu](https://open.spotify.com/track/24B8vZjjgNxxRUBfuXl9s6) | [AYCA](https://open.spotify.com/artist/1TTuqb5JjZomJNoG2nyjYr) | [Miu Miu](https://open.spotify.com/album/0vTYPoWCq8r4aT6Cj3MMMI) | 2:24 |
 | 10 | [So wie sie](https://open.spotify.com/track/2aa4pe8kQ68SVOYijZ8xTr) | [Kauta](https://open.spotify.com/artist/706cem551IzKiczuAQIEDw) | [So wie sie](https://open.spotify.com/album/2yPQISpJIGw2OkkDyAbhfF) | 2:15 |
-| 11 | [fuego](https://open.spotify.com/track/73xl6z80ICsdmciiizTq4z) | [Erda](https://open.spotify.com/artist/0Zd813hYpR0qlSmJt5T8E7) | [fuego](https://open.spotify.com/album/1kRigIQQUKqo0gZnPGGmSa) | 2:20 |
-| 12 | [Ahogar](https://open.spotify.com/track/5LLiqyPHWYbomYMN0zAKkw) | [Karla Blum](https://open.spotify.com/artist/5NSpferwNVudjza91NaBjO) | [Ahogar](https://open.spotify.com/album/31XDTWFSluMZBsk2qytq7q) | 3:13 |
+| 11 | [Ahogar](https://open.spotify.com/track/5LLiqyPHWYbomYMN0zAKkw) | [Karla Blum](https://open.spotify.com/artist/5NSpferwNVudjza91NaBjO) | [Ahogar](https://open.spotify.com/album/31XDTWFSluMZBsk2qytq7q) | 3:13 |
+| 12 | [fuego](https://open.spotify.com/track/73xl6z80ICsdmciiizTq4z) | [Erda](https://open.spotify.com/artist/0Zd813hYpR0qlSmJt5T8E7) | [fuego](https://open.spotify.com/album/1kRigIQQUKqo0gZnPGGmSa) | 2:20 |
 | 13 | [Pfeil und Bogen](https://open.spotify.com/track/3hxKz56t0LmiRhrWSO3sVg) | [Mathea](https://open.spotify.com/artist/3r5Kc95Oz8lDc8BL9ChO7n) | [Pfeil und Bogen](https://open.spotify.com/album/05eliY4RhHXsQmvC2jTS83) | 2:50 |
-| 14 | [HMDL](https://open.spotify.com/track/4xVR7iSp5Mdl6FGCbzz9AM) | [bangerfabrique](https://open.spotify.com/artist/5fM7Hc1hTUtQbbeT5VgRHn), [melle](https://open.spotify.com/artist/2IZgsJlw6u4ZnZlbGqlBHw), [Cato](https://open.spotify.com/artist/5Qa6L42X3G6sXrWvYvxGOc) | [HMDL](https://open.spotify.com/album/3VRpUAmX0GSRjvMOwX1H4K) | 1:58 |
+| 14 | [wenn du mich brauchst](https://open.spotify.com/track/3HpBs2Y76Z21WVGaeb9VnZ) | [Die P](https://open.spotify.com/artist/0MOwIUMFiLwG7ls1MQsmhJ), [DeeVoe](https://open.spotify.com/artist/7avn0wHSO3cny6OM46NALL) | [wenn du mich brauchst](https://open.spotify.com/album/10jHTTFc3KwGNx2vTCn1Y9) | 2:33 |
 | 15 | [Kein Ponyhof](https://open.spotify.com/track/17RvndgsVO7lqqfGyQ10rA) | [Mariybu](https://open.spotify.com/artist/3R1Ha6KqmyhC2vUrmEocEG) | [Kein Ponyhof](https://open.spotify.com/album/40XDSJnsxmultAZzOo5Jid) | 2:05 |
-| 16 | [wenn du mich brauchst](https://open.spotify.com/track/3HpBs2Y76Z21WVGaeb9VnZ) | [Die P](https://open.spotify.com/artist/0MOwIUMFiLwG7ls1MQsmhJ), [DeeVoe](https://open.spotify.com/artist/7avn0wHSO3cny6OM46NALL) | [wenn du mich brauchst](https://open.spotify.com/album/10jHTTFc3KwGNx2vTCn1Y9) | 2:33 |
+| 16 | [HMDL](https://open.spotify.com/track/4xVR7iSp5Mdl6FGCbzz9AM) | [bangerfabrique](https://open.spotify.com/artist/5fM7Hc1hTUtQbbeT5VgRHn), [melle](https://open.spotify.com/artist/2IZgsJlw6u4ZnZlbGqlBHw), [Cato](https://open.spotify.com/artist/5Qa6L42X3G6sXrWvYvxGOc) | [HMDL](https://open.spotify.com/album/3VRpUAmX0GSRjvMOwX1H4K) | 1:58 |
 | 17 | [Flying](https://open.spotify.com/track/0y00KtJDQ6jy4iHMs6P5fq) | [Victoria West](https://open.spotify.com/artist/2g14SO8yjodxGFXxwPOGmL) | [Flying](https://open.spotify.com/album/1a9b7KWurtHnoLfcOVIl8N) | 3:05 |
 | 18 | [isy](https://open.spotify.com/track/6VJV5UFZTIbVlsGfirZdXH) | [yola](https://open.spotify.com/artist/6rLUiFCfqWOUPgrfHccwkF), [Dani Lia](https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC) | [isy](https://open.spotify.com/album/61x7DkhtMaXab0Uu7VCZWL) | 2:30 |
 | 19 | [watch me](https://open.spotify.com/track/43HETwsBf1TLoiNUjh1D9a) | [DUEJA](https://open.spotify.com/artist/1QKx9HbmmkV4FgL2nkFVRl), [GWENDO](https://open.spotify.com/artist/3jiUj8e5dI5ByS6v5Car7I) | [watch me](https://open.spotify.com/album/7cGfQ7T20mmGgx0sCvsMuE) | 2:24 |

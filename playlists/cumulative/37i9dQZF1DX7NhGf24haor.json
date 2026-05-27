@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-10",
-  "description": "Weekly new Hardstyle releases! Cover: Frontliner",
+  "description": "Weekly new Hardstyle releases! Cover: Primeshock & Villain",
   "name": "Hardstyle Adrenaline! 2026",
   "tracks": [
     {
@@ -730,7 +730,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-27",
       "duration_ms": 160509,
       "name": "Aftermath",
       "url": "https://open.spotify.com/track/6ZOOepzSP50NsQctUKMh94"
@@ -986,7 +986,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-27",
       "duration_ms": 187354,
       "name": "Alive (Hold Me Close)",
       "url": "https://open.spotify.com/track/6ii346v9zItLbr6fYplWtm"
@@ -3775,6 +3775,28 @@
     },
     {
       "album": {
+        "name": "Big In Japan",
+        "url": "https://open.spotify.com/album/60w9IX6FSSfUam0U5ZjJre"
+      },
+      "artists": [
+        {
+          "name": "Dr Rude",
+          "url": "https://open.spotify.com/artist/5akubyqg9eYtnCtDEeJz2s"
+        },
+        {
+          "name": "Eelco",
+          "url": "https://open.spotify.com/artist/1TeGfz6FIuG4U2aBXRN7SX"
+        }
+      ],
+      "date_added": "2026-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183374,
+      "name": "Big In Japan",
+      "url": "https://open.spotify.com/track/4nh5dYxJsZeviRXfrUWqqh"
+    },
+    {
+      "album": {
         "name": "BIG STAINS",
         "url": "https://open.spotify.com/album/14igV0MT8jX91uy6Jr8NOz"
       },
@@ -3914,7 +3936,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-27",
       "duration_ms": 197850,
       "name": "Black Mirror",
       "url": "https://open.spotify.com/track/0xsn1eh2P1rtZ5pBMex2qC"
@@ -6482,7 +6504,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-27",
       "duration_ms": 192000,
       "name": "Claim The Power",
       "url": "https://open.spotify.com/track/7q9oN9ctyO8vOzeplyHvB2"
@@ -7848,7 +7870,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-27",
       "duration_ms": 184814,
       "name": "Dangerous - Hard Version",
       "url": "https://open.spotify.com/track/6uqe5dpdiE4euHjTtA6gtX"
@@ -8256,6 +8278,32 @@
       "duration_ms": 274064,
       "name": "Dedicated",
       "url": "https://open.spotify.com/track/1kNWSvIga1qevlp2mL0wdP"
+    },
+    {
+      "album": {
+        "name": "Deep Dive (Official Relevatez Anthem 2026)",
+        "url": "https://open.spotify.com/album/4hKq6SzVNsqOI2lraq2CGW"
+      },
+      "artists": [
+        {
+          "name": "Primeshock",
+          "url": "https://open.spotify.com/artist/0BtiMLqwAvO3yHcPh5BWCS"
+        },
+        {
+          "name": "Villain",
+          "url": "https://open.spotify.com/artist/7iajTuviby3038TmfrpvZ3"
+        },
+        {
+          "name": "Sarah Anglionin",
+          "url": "https://open.spotify.com/artist/2rgyrW6ADyl42MjTUymTL5"
+        }
+      ],
+      "date_added": "2026-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205500,
+      "name": "Deep Dive - Official Relevatez Anthem 2026",
+      "url": "https://open.spotify.com/track/5ePtnvj6qnazK1QpNbelSt"
     },
     {
       "album": {
@@ -11561,6 +11609,36 @@
     },
     {
       "album": {
+        "name": "FAKE",
+        "url": "https://open.spotify.com/album/0dDMgJiaYleM1P8lhQs1DI"
+      },
+      "artists": [
+        {
+          "name": "Showtek",
+          "url": "https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7"
+        },
+        {
+          "name": "JUNO!",
+          "url": "https://open.spotify.com/artist/6p8mZ3SUWKdL59FUmH52at"
+        },
+        {
+          "name": "heydukeyousuck",
+          "url": "https://open.spotify.com/artist/3qDYeLBAZEdBO1DuTTk8qz"
+        },
+        {
+          "name": "SHOWTEKNO",
+          "url": "https://open.spotify.com/artist/6nKoiURdxdyE4ZKICS69GD"
+        }
+      ],
+      "date_added": "2026-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160656,
+      "name": "FAKE",
+      "url": "https://open.spotify.com/track/7HsFLLZUyKVW0LclyTtkQ9"
+    },
+    {
+      "album": {
         "name": "Fake It",
         "url": "https://open.spotify.com/album/6agZ0uTwV5xImfUK65bnaG"
       },
@@ -11814,7 +11892,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-27",
       "duration_ms": 151742,
       "name": "Faster",
       "url": "https://open.spotify.com/track/5bjTXRVVUllsMoED5aGrzz"
@@ -12354,7 +12432,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-27",
       "duration_ms": 210000,
       "name": "Fever Dream",
       "url": "https://open.spotify.com/track/2EU5PmkX9pyLygHBDQyYDx"
@@ -17589,6 +17667,28 @@
     },
     {
       "album": {
+        "name": "In Meinem Kopf",
+        "url": "https://open.spotify.com/album/4wjE5ZdkKrqQZ7ZCKTVOgq"
+      },
+      "artists": [
+        {
+          "name": "Harris & Ford",
+          "url": "https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt"
+        },
+        {
+          "name": "2 Engel & Charlie",
+          "url": "https://open.spotify.com/artist/0XRkZikEumDTaGGE9mW8HA"
+        }
+      ],
+      "date_added": "2026-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "In Meinem Kopf",
+      "url": "https://open.spotify.com/track/3ZPsQJ60xEL4Dx78Sw1lkt"
+    },
+    {
+      "album": {
         "name": "In My Dreams",
         "url": "https://open.spotify.com/album/1B2yXwn1N5DXoVH1fKvcCl"
       },
@@ -19701,6 +19801,28 @@
     },
     {
       "album": {
+        "name": "L.P.A.",
+        "url": "https://open.spotify.com/album/7apMNc1x0JwSdJyY6jTmeq"
+      },
+      "artists": [
+        {
+          "name": "Akimbo",
+          "url": "https://open.spotify.com/artist/3oBAqPTxVZexp9MrfwhD3e"
+        },
+        {
+          "name": "Missy",
+          "url": "https://open.spotify.com/artist/5SeJLGdhPUcgMJ6pOiPQT9"
+        }
+      ],
+      "date_added": "2026-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151058,
+      "name": "L.P.A.",
+      "url": "https://open.spotify.com/track/7MSOUwJDcG3IviJc9jqVNk"
+    },
+    {
+      "album": {
         "name": "La Colegiala",
         "url": "https://open.spotify.com/album/5St2aiydKvThR9AR0fHSpO"
       },
@@ -19852,6 +19974,28 @@
       "duration_ms": 266668,
       "name": "Lambada (Your Love)",
       "url": "https://open.spotify.com/track/2oefmctoiEMHs6Cf6PmoHj"
+    },
+    {
+      "album": {
+        "name": "Land Of Tomorrow",
+        "url": "https://open.spotify.com/album/4ZrhMyxUAIzM4A9NEPPCdm"
+      },
+      "artists": [
+        {
+          "name": "LNY TNZ",
+          "url": "https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa"
+        },
+        {
+          "name": "Outsiders",
+          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
+        }
+      ],
+      "date_added": "2026-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158181,
+      "name": "Land Of Tomorrow",
+      "url": "https://open.spotify.com/track/182zhPsYh5NbaOeernQ3jV"
     },
     {
       "album": {
@@ -20128,6 +20272,32 @@
       "duration_ms": 164250,
       "name": "Legacy",
       "url": "https://open.spotify.com/track/0UktmIxizq7Y4K0y98aVxo"
+    },
+    {
+      "album": {
+        "name": "Legacy (Atlantis)",
+        "url": "https://open.spotify.com/album/7AIXK7enG45nkNzpBzKPJT"
+      },
+      "artists": [
+        {
+          "name": "Korsakoff",
+          "url": "https://open.spotify.com/artist/1rWaCpcmmjycvD00Kf6YyE"
+        },
+        {
+          "name": "Re-Style",
+          "url": "https://open.spotify.com/artist/2kK1cYRoYo24RzsHADtD0E"
+        },
+        {
+          "name": "Dj Konik",
+          "url": "https://open.spotify.com/artist/47FkgvgZtCjQaBswo5E531"
+        }
+      ],
+      "date_added": "2026-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187315,
+      "name": "Legacy (Atlantis)",
+      "url": "https://open.spotify.com/track/1yS050rMwTPRPMiJbWsiE5"
     },
     {
       "album": {
@@ -25037,6 +25207,28 @@
     },
     {
       "album": {
+        "name": "NIGHTMARE",
+        "url": "https://open.spotify.com/album/58XZHMYX2V77dk7lLyzXY7"
+      },
+      "artists": [
+        {
+          "name": "MJU",
+          "url": "https://open.spotify.com/artist/67mfEI3l2eiyhmTPHf4YcY"
+        },
+        {
+          "name": "Franky-B",
+          "url": "https://open.spotify.com/artist/24C1Z9RP71CzGmU1Dx3oTV"
+        }
+      ],
+      "date_added": "2026-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "NIGHTMARE",
+      "url": "https://open.spotify.com/track/6LRvvhp3t2YcILecz8jpgs"
+    },
+    {
+      "album": {
         "name": "NIGHTMARE ENGINE",
         "url": "https://open.spotify.com/album/6Q8rpmILhFMSw8yBBPLuJ9"
       },
@@ -27708,7 +27900,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-27",
       "duration_ms": 160875,
       "name": "PEDAL 2 THE METAL",
       "url": "https://open.spotify.com/track/0zEjNiechPALv6qfJn4ywx"
@@ -28028,7 +28220,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-27",
       "duration_ms": 144394,
       "name": "PLAYGROUND",
       "url": "https://open.spotify.com/track/4FeS0dCQtFwv8GeDofVEoy"
@@ -32557,6 +32749,32 @@
     },
     {
       "album": {
+        "name": "SIDEQUEST (Tetris Mix)",
+        "url": "https://open.spotify.com/album/2S34tW5qigOw5xkmwibEbS"
+      },
+      "artists": [
+        {
+          "name": "The Purge",
+          "url": "https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w"
+        },
+        {
+          "name": "Coldax",
+          "url": "https://open.spotify.com/artist/3tvxgwBiEJppR8l3pGgAeZ"
+        },
+        {
+          "name": "Hans Glock",
+          "url": "https://open.spotify.com/artist/2z6v7CjHOFGCsZlICgl52s"
+        }
+      ],
+      "date_added": "2026-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143507,
+      "name": "SIDEQUEST - Tetris Mix",
+      "url": "https://open.spotify.com/track/1fqpFQe0pLpD1IviXCcVnk"
+    },
+    {
+      "album": {
         "name": "Silent (Left The System)",
         "url": "https://open.spotify.com/album/1AuQuNp2FmhLyxqodRVf84"
       },
@@ -33016,6 +33234,36 @@
       "duration_ms": 208823,
       "name": "Something New",
       "url": "https://open.spotify.com/track/2ClJdYDfI8kjMadp5qTziB"
+    },
+    {
+      "album": {
+        "name": "Somewhere I Belong",
+        "url": "https://open.spotify.com/album/2A22sDsUhjV0Ty5Rg9D4Bm"
+      },
+      "artists": [
+        {
+          "name": "Aftershock",
+          "url": "https://open.spotify.com/artist/6KlY7jizsLWQcXR1F2Sn9j"
+        },
+        {
+          "name": "DJ Gollum",
+          "url": "https://open.spotify.com/artist/1wNmJCRRNn8WpJrRSTKKqT"
+        },
+        {
+          "name": "Refold",
+          "url": "https://open.spotify.com/artist/02oOp0dwF69I6v2scWE7uY"
+        },
+        {
+          "name": "Shadow Legacy",
+          "url": "https://open.spotify.com/artist/43KI3dStl8f4EJyETnKfiX"
+        }
+      ],
+      "date_added": "2026-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171750,
+      "name": "Somewhere I Belong",
+      "url": "https://open.spotify.com/track/6kV6Uiqfl61dfcxLjZNsY2"
     },
     {
       "album": {
@@ -39478,7 +39726,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-27",
       "duration_ms": 207003,
       "name": "Undeniable",
       "url": "https://open.spotify.com/track/5CpnAcPyOeLUZ9j6G1iq56"
@@ -40521,6 +40769,24 @@
     },
     {
       "album": {
+        "name": "Wait For You",
+        "url": "https://open.spotify.com/album/2RxUhVTXndyaFgr8DpZcbY"
+      },
+      "artists": [
+        {
+          "name": "Nightcraft",
+          "url": "https://open.spotify.com/artist/4IQIMZPSBfizEPPGdCmsXV"
+        }
+      ],
+      "date_added": "2026-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208500,
+      "name": "Wait For You",
+      "url": "https://open.spotify.com/track/3h7th71PTYrKRl0AtPOs9K"
+    },
+    {
+      "album": {
         "name": "Wake Me Up",
         "url": "https://open.spotify.com/album/5uz4VdtMGQ93JoMkc8Ezij"
       },
@@ -41306,7 +41572,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-27",
       "duration_ms": 193920,
       "name": "We Own The Night",
       "url": "https://open.spotify.com/track/46Bq8kdWBtWx3KkTGz4o90"

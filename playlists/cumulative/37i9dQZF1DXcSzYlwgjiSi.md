@@ -4,7 +4,7 @@
 
 > The perfect soundtrack for a day on the water.
 
-319 songs - 17 hr 22 min
+322 songs - 17 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Barefoot Blue Jean Night](https://open.spotify.com/track/6ab2Yl58S0KjL1smfrIk4D) | [Jake Owen](https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT) | [Summer Country](https://open.spotify.com/album/2OdHiKjB1za9UrIaarQWEi) | 2:47 | 2022-09-23 | 2022-11-14 |
 | [Barefoot Blue Jean Night](https://open.spotify.com/track/1enjzQYx2hiQY75SBG1ZRA) | [Jake Owen](https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT) | [Barefoot Blue Jean Night](https://open.spotify.com/album/2qBgcC78cFhIr90ZxJyVmw) | 2:48 | 2021-06-18 | 2022-07-29 |
 | [Barefoot Blue Jean Night](https://open.spotify.com/track/3ts6xK5GzfMAAriT9AIBmP) | [Jake Owen](https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT) | [Barefoot Blue Jean Night](https://open.spotify.com/album/4GeJssW5iLOSLOIXhLfOUJ) | 2:49 | 2022-07-22 |  |
+| [Be Her](https://open.spotify.com/track/05CjWFAcAlY6O9po6Qwakk) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Be Her](https://open.spotify.com/album/0xY9ccawTTfHlwdVlkDT90) | 3:37 | 2026-05-26 |  |
 | [Beach Ain't One](https://open.spotify.com/track/0iqYoKISMUycYQ5BBSmSoj) | [Drew Baldridge](https://open.spotify.com/artist/08qaG5crPMPF7i0h2wORk5) | [Beach Ain't One](https://open.spotify.com/album/5AlIKimeHvRui9N0LUXPuy) | 2:50 | 2021-06-18 | 2022-06-22 |
 | [Beach Boys](https://open.spotify.com/track/2ZuWXOOVsHFQodtdDo4WJq) | [LOCASH](https://open.spotify.com/artist/5IcGbIAgdns0R5EJKHMjCQ) | [Woods & Water \- EP](https://open.spotify.com/album/6L1RBNcPOCMzd1ci4T0R5F) | 3:00 | 2021-11-05 | 2022-06-22 |
 | [Beach Boys \(feat\. Mike Love & Bruce Johnston\)](https://open.spotify.com/track/3oxOe0e2fDhLoblIAxWa1o) | [LOCASH](https://open.spotify.com/artist/5IcGbIAgdns0R5EJKHMjCQ), [Bruce Johnston](https://open.spotify.com/artist/0yiSGGu3grpaH56F9znIeU), [Mike Love](https://open.spotify.com/artist/7lIlJTlWaSIBTMJxpIvd8f) | [Beach Boys \(feat\. Mike Love & Bruce Johnston\)](https://open.spotify.com/album/3r8lnwwavbBwzIo4nGassa) | 3:03 | 2022-05-13 | 2023-03-16 |
@@ -190,6 +191,7 @@
 | [Man! I Feel Like A Woman!](https://open.spotify.com/track/6sxptembJVty4sNtcPMAVz) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9) | 3:54 | 2021-06-18 | 2024-05-11 |
 | [Margaritaville](https://open.spotify.com/track/4EEjMyQub6tgFVshlM9j1M) | [Jimmy Buffett](https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0) | [Changes In Latitudes, Changes In Attitudes](https://open.spotify.com/album/3JWlQzyse21gwhqu2D6UQD) | 4:10 | 2021-06-18 | 2022-06-22 |
 | [Mary Jane's Last Dance](https://open.spotify.com/track/3dmqIB2Qxe2XZobw9gXxJ6) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Greatest Hits](https://open.spotify.com/album/3q6Bz38jmqRDkXI7j5Hb9Y) | 4:33 | 2021-06-18 | 2024-05-11 |
+| [Mexico Honey](https://open.spotify.com/track/7xKr077iMufVJwge6aO9xJ) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Middle of Nowhere](https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg) | 3:43 | 2026-05-26 |  |
 | [Miami](https://open.spotify.com/track/1N8dX8FWPUzVuSlKJA25FK) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [I’m The Problem](https://open.spotify.com/album/5IZ8sY5FjtL9hloXpv0XbD) | 3:25 | 2025-05-16 | 2025-06-05 |
 | [Miles On It](https://open.spotify.com/track/4pkb8SbRGeHAvdb87v9rpf) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Miles On It](https://open.spotify.com/album/5gWV4yp27HCbXJ1YLe8hQM) | 2:48 | 2024-05-06 |  |
 | [My Church](https://open.spotify.com/track/1LM5zQv5pBKPyO7rm7Uz6U) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [HERO \(Deluxe Edition\)](https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK) | 3:17 | 2021-06-18 | 2025-05-17 |
@@ -261,6 +263,7 @@
 | [Summer Nights](https://open.spotify.com/track/4jaLjmWGfSUgeGT23AUe0N) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [Spring Break 2022: Country Favourites](https://open.spotify.com/album/1uhNDQ24SrZf0PyTzGaFv8) | 4:02 | 2022-09-23 | 2022-11-13 |
 | [Summer On Your Lips](https://open.spotify.com/track/7HJ54S8MPYQsC7cT6HffOX) | [Conner Smith](https://open.spotify.com/artist/0y2FPygoi6LVc75pxCgsMk) | [Summer On Your Lips](https://open.spotify.com/album/0UaUgPC7Ei0A21sG3LrDL1) | 3:30 | 2022-08-20 | 2025-02-12 |
 | [Summertime](https://open.spotify.com/track/3cE5ltZFHmBpiS77itKaOM) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [The Road And The Radio](https://open.spotify.com/album/5uMLCobPh02IG3fyH0Dzec) | 3:26 | 2021-06-18 |  |
+| [Sunburn](https://open.spotify.com/track/14xGdSrAmwpSz0TPTyx3yM) | [Tucker Wetmore](https://open.spotify.com/artist/4sCKpwwEsgReZxjtKFm2A0) | [Sunburn](https://open.spotify.com/album/1n1qfuzOvQlnH6HKdSsXmY) | 3:05 | 2026-05-26 |  |
 | [Sundown](https://open.spotify.com/track/0SjnBEHZVXgCKvOrpvzL2k) | [Gordon Lightfoot](https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4) | [Sundown](https://open.spotify.com/album/2IPD9EcNjUmsHvqULDMU9Y) | 3:33 | 2023-05-26 | 2023-06-17 |
 | [Sundown Somewhere](https://open.spotify.com/track/3sT4lmGZF9Gy6XaLYvwH7A) | [Restless Road](https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q) | [Sundown Somewhere](https://open.spotify.com/album/5RU0CcztDZ8Qtfy63fwH3e) | 2:42 | 2023-03-15 |  |
 | [Sunny and 75](https://open.spotify.com/track/1rGLPyb4LMojT4wpxiZTp8) | [Joe Nichols](https://open.spotify.com/artist/4aJTB79uwT4sP0Nb8QGWHc) | [Crickets](https://open.spotify.com/album/73I0czjxZIGfvYBpf1j98v) | 3:26 | 2021-06-18 | 2022-06-22 |

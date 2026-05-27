@@ -1659,6 +1659,24 @@
     },
     {
       "album": {
+        "name": "AFRO RED 2",
+        "url": "https://open.spotify.com/album/2hbLXNfQdvgStp3QJN9HNg"
+      },
+      "artists": [
+        {
+          "name": "Barboza",
+          "url": "https://open.spotify.com/artist/0HN3uHZSS2Bosw1cFImLVG"
+        }
+      ],
+      "date_added": "2026-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143914,
+      "name": "Linda",
+      "url": "https://open.spotify.com/track/77KDRAKMs1dRirOgKOKM9j"
+    },
+    {
+      "album": {
         "name": "Mirando al cielo",
         "url": "https://open.spotify.com/album/4bKbHme7qn0tV1UW9MnRGn"
       },
@@ -2130,7 +2148,7 @@
       ],
       "date_added": "2026-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-27",
       "duration_ms": 150000,
       "name": "NoNoNo",
       "url": "https://open.spotify.com/track/2nHLeUWCPePxL12o5JbHzZ"

@@ -15341,6 +15341,24 @@
     },
     {
       "album": {
+        "name": "Off Campus: The Mixtape",
+        "url": "https://open.spotify.com/album/5CJqPFrc9hPete87L5DFSN"
+      },
+      "artists": [
+        {
+          "name": "Ella Bright",
+          "url": "https://open.spotify.com/artist/7bzIKcaSnlUfRLJ9m00XZr"
+        }
+      ],
+      "date_added": "2026-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251639,
+      "name": "Girl That I Am",
+      "url": "https://open.spotify.com/track/7jZk5cOxV1LVZFG7RIOaHE"
+    },
+    {
+      "album": {
         "name": "girlfriend",
         "url": "https://open.spotify.com/album/20QM71c1VvCaBb8uO2IWUo"
       },

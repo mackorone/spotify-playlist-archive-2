@@ -4,7 +4,7 @@
 
 > Popronde is een jaarlijks reizend festival in NL met de grootste talenten\. Cover: Igor
 
-368 songs - 19 hr 55 min
+369 songs - 19 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,6 +164,7 @@
 | [In Een Droom](https://open.spotify.com/track/4dgXbDNOn5c7fNlYI7CHG2) | [Waakhond](https://open.spotify.com/artist/2ca4yBHf4MU0W2Cj6OTWwQ) | [In Een Droom](https://open.spotify.com/album/7qSBNNUBO79Z7zww0VaMns) | 3:27 | 2024-07-01 | 2025-05-08 |
 | [In Love Again \(The ABC Way\)](https://open.spotify.com/track/3n2xdrh8ncMunxXtYjbAsS) | [MAYA MARIA](https://open.spotify.com/artist/7HPzShbwmLfVSs5Yd3bvvy) | [In Love Again \(The ABC Way\)](https://open.spotify.com/album/4aDRZiu65An6Ztka8vp2EP) | 3:39 | 2025-11-28 | 2026-05-12 |
 | [In M'n Hoofd](https://open.spotify.com/track/2ky5w4vqqhH5g1V7oh7ouR) | [So\-Fi](https://open.spotify.com/artist/6TIw842G1nVz2xEhU9YlBs) | [Maar Verder Gaat Het Goed](https://open.spotify.com/album/6YVWLc3C8jrD0HHczwN1lO) | 2:53 | 2024-07-01 | 2025-05-08 |
+| [In My Arms \- live](https://open.spotify.com/track/23Vi9AluCdFYjACTJE4aF5) | [INOYSON](https://open.spotify.com/artist/5nyFpiqAnifsvfFH199bz5) | [Odesa Twilight Session \(live\)](https://open.spotify.com/album/5xmu7myL5LTNLiSXew1QG2) | 3:10 | 2026-05-26 |  |
 | [In My Head Today](https://open.spotify.com/track/6LvwKP5nY8ESrLTn6TvnkL) | [Send Me Flowers](https://open.spotify.com/artist/12XFstDiWIWvVnYOvPU8Z5) | [In My Head Today](https://open.spotify.com/album/5ApOG5o1JKyDreecmUYIdL) | 2:28 | 2026-05-11 |  |
 | [In Our Blood](https://open.spotify.com/track/4EXFYjZSHhmQVSkP3OSGBT) | [MADOUX](https://open.spotify.com/artist/1hSsJVN9NYlY67CFZEIILZ) | [Anywhere](https://open.spotify.com/album/5PUZVh3MqeYQHFeugwsmr7) | 3:27 | 2024-07-01 | 2025-05-08 |
 | [Inside My Head](https://open.spotify.com/track/7I9uVwnMSMARHdmrhhHd3T) | [ILÆNDER](https://open.spotify.com/artist/5IFTVCSrOl8dZwbLrYyg0Z) | [Inside My Head](https://open.spotify.com/album/1lYgLMntuPpvQx7Kl1zzel) | 3:50 | 2025-11-28 | 2026-05-12 |
@@ -183,7 +184,7 @@
 | [Kan Ik Zoveel?](https://open.spotify.com/track/2OETcNMac8rz2i8DTk6MV2) | [Igor](https://open.spotify.com/artist/3bhBM7OA3aCdsNVzRzkBPq) | [Kan Ik Zoveel? / Dingen Mis Met De Auto](https://open.spotify.com/album/5KqpYFAhXnE7EjX9C3yjDC) | 3:54 | 2026-05-11 |  |
 | [Kaonashi](https://open.spotify.com/track/4wDyZadgnaUoY7AGKPUi4o) | [Gallamesh](https://open.spotify.com/artist/5nhUfUVXvd3Pjd9OkKBcEV) | [Kaonashi](https://open.spotify.com/album/6fYeOWxW0YiAy9VcOsubcX) | 2:14 | 2025-09-30 | 2026-05-12 |
 | [Kate Mosh](https://open.spotify.com/track/2tv2P3DPxmdqABPuOnYPwJ) | [Vegan Music](https://open.spotify.com/artist/4QaDqUig4hQ0OARX0CCYVG) | [Kate Mosh](https://open.spotify.com/album/2DZ1u5rXSRLvs3iptuBXja) | 3:32 | 2025-09-30 | 2026-05-12 |
-| [Khochu Kupatis' \(Original Soundtrack "Durko"\)](https://open.spotify.com/track/5XBLMpFV2yv0qjuljcQIT7) | [INOYSON](https://open.spotify.com/artist/5nyFpiqAnifsvfFH199bz5) | [Khochu Kupatis' \(Original Soundtrack "Durko"\)](https://open.spotify.com/album/7dpKLQxtIgmRSAszR7qq3u) | 2:13 | 2026-05-11 |  |
+| [Khochu Kupatis' \(Original Soundtrack "Durko"\)](https://open.spotify.com/track/5XBLMpFV2yv0qjuljcQIT7) | [INOYSON](https://open.spotify.com/artist/5nyFpiqAnifsvfFH199bz5) | [Khochu Kupatis' \(Original Soundtrack "Durko"\)](https://open.spotify.com/album/7dpKLQxtIgmRSAszR7qq3u) | 2:13 | 2026-05-11 | 2026-05-27 |
 | [Kleine Liefde](https://open.spotify.com/track/3run92YHEJHsOa8EIttJru) | [Marit Nygård](https://open.spotify.com/artist/4FKvA5jaSSTDdt0AW0Jeqx), [De Medemensen](https://open.spotify.com/artist/0QXL4XMo9nOXrtQGxGwfXx) | [Kleine Liefde](https://open.spotify.com/album/6sFDVWQB3cmpkCSlTuDJ5t) | 2:11 | 2026-05-11 |  |
 | [Klemme](https://open.spotify.com/track/12BeJjgulNCLMrrwRvasUj) | [De Plaag](https://open.spotify.com/artist/5ezJSYbBLR78v7cKsoC46d) | [Klemme](https://open.spotify.com/album/4oL4slMInUTX4HXPxgDRVv) | 2:16 | 2026-05-11 |  |
 | [Knikkers](https://open.spotify.com/track/6Yv20dLCAkTC1p4SWLpqaW) | [Mick Spek](https://open.spotify.com/artist/23mbvDIZJjSK4y4KhwlnHi), [Doe Gewoon](https://open.spotify.com/artist/3OgHfFp586DJhpvUYZU6xg) | [Knikkers](https://open.spotify.com/album/367Xb6s15PiAHgxL3rjlN0) | 2:11 | 2025-09-30 | 2026-05-12 |
@@ -336,7 +337,7 @@
 | [UGLY ROTTEN GRRRL!!!](https://open.spotify.com/track/4z2WEioJIb98az9xlcEBAs) | [Crybabies](https://open.spotify.com/artist/2acTwdggTAVdQELkyHdUK8) | [UGLY ROTTEN GRRRL!!!](https://open.spotify.com/album/4jB6ahAyo6HdrRN59Ju2Ku) | 3:02 | 2025-07-16 | 2026-05-12 |
 | [Use Me, Darling](https://open.spotify.com/track/7fBRooTzTLU4OMfZTA09pv) | [Dear Omen](https://open.spotify.com/artist/3jZaVUML78O4diJtPEmPbP) | [The S Tapes](https://open.spotify.com/album/5CTp9d48vHsPdjGLWt4VTZ) | 3:57 | 2025-05-07 | 2025-11-29 |
 | [Vager!](https://open.spotify.com/track/5llK2C03HqHJ7NM8ixKwYD) | [IDA](https://open.spotify.com/artist/7c4xb6WHJ6NhTQqgTQnbDN), [MAZOO](https://open.spotify.com/artist/0xbGR2sM0IN3C3pwlmA4Hj) | [Vager!](https://open.spotify.com/album/5zRCPSHsRjT9thKatrwc1J) | 2:12 | 2025-05-07 | 2025-09-05 |
-| [Vakantie Park, Center Parks](https://open.spotify.com/track/6p5OmjnqqoTqa81WVwJvJt) | [Combi Magnetron](https://open.spotify.com/artist/0F6z6w0mYSyh0f1KVvHaw7) | [Chocolade Zeester en de Knakworst Smakende Water](https://open.spotify.com/album/2ufO1kjARIxFxBVulaiG8a) | 2:19 | 2026-05-11 |  |
+| [Vakantie Park, Center Parks](https://open.spotify.com/track/6p5OmjnqqoTqa81WVwJvJt) | [Combi Magnetron](https://open.spotify.com/artist/0F6z6w0mYSyh0f1KVvHaw7) | [Chocolade Zeester en de Knakworst Smakende Water](https://open.spotify.com/album/2ufO1kjARIxFxBVulaiG8a) | 2:19 | 2026-05-11 | 2026-05-27 |
 | [Vallen](https://open.spotify.com/track/7lInMt0BlRakXJaFCEDCXH) | [YRSA](https://open.spotify.com/artist/5BLCBw3ZwkvqyUuUtozq2h) | [Vallen](https://open.spotify.com/album/0xL30vL7g8ofXojja3ulRY) | 2:41 | 2026-05-11 |  |
 | [Vallen Pt\. I](https://open.spotify.com/track/1nK8XXd0789U15xiumSKRj) | [Joram Feitsma](https://open.spotify.com/artist/51CfbHl45dy3Q7wIBGtWeu) | [Vallen Pt\. I](https://open.spotify.com/album/1fZcCvaGUMYyBXYjlGFX4k) | 3:49 | 2025-09-16 | 2026-05-12 |
 | [Vampire Boyfriend](https://open.spotify.com/track/5wfvU5tNqMouNJIJiuy6pM) | [Vampire Boyfriend](https://open.spotify.com/artist/0vRyNBqxpHa4QQXBndRHH1) | [Vampire Boyfriend](https://open.spotify.com/album/4GTt6arX6Zpzdhp5pPJDOn) | 4:53 | 2025-05-07 | 2025-09-05 |

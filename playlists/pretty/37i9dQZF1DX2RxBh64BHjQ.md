@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:0SL3lfuoRP67mrvkdnwIMA">slayr</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,731,374 likes - 100 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,731,390 likes - 100 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Plays of the Week](https://open.spotify.com/track/2h2mqn6TJCwU1aF1KhyYxB) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc) | [Chicken Talkin Bastard](https://open.spotify.com/album/7cChUPYfmnblkqIyV8oP4R) | 2:49 |
 | 2 | [Game Six](https://open.spotify.com/track/0bSlEreR3f5j8DlEc17QqI) | [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg) | [Game Six](https://open.spotify.com/album/6fGpOOSxGUvzpL3tTpVExt) | 2:53 |
-| 3 | [Butta B](https://open.spotify.com/track/2r7PywSTrql5YQFMUi5PlA) | [Fatt Smaxk](https://open.spotify.com/artist/0RRUXaSteOOZzo5gMCAeuX) | [Smaxk Season 2](https://open.spotify.com/album/6NnP5Ldvs5ICrNy5c3SjPr) | 1:51 |
+| 3 | [Smaxk Or Die \- feat\. Playboi Carti](https://open.spotify.com/track/1FjpYJ1tVHG3r0xDhZ3tTc) | [Fatt Smaxk](https://open.spotify.com/artist/0RRUXaSteOOZzo5gMCAeuX), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Smaxk Or Die \(feat\. Playboi Carti\)](https://open.spotify.com/album/0aREGajx4svsFLILvSrq5i) | 2:05 |
 | 4 | [LA Nights](https://open.spotify.com/track/62uzemerm9B0BFS9R0jApf) | [Trap Dickey](https://open.spotify.com/artist/20B8Ga2HfEUNJBAbZsJU2c) | [The Ville](https://open.spotify.com/album/4h19noQJ2iWAoyNW4zHYGQ) | 2:18 |
 | 5 | [Homerunner](https://open.spotify.com/track/56fsLnISnxD0FdJAzzgcDt) | [slayr](https://open.spotify.com/artist/0SL3lfuoRP67mrvkdnwIMA) | [Homerunner](https://open.spotify.com/album/0yjBsm5hu8OAL38wcMokmH) | 2:36 |
 | 6 | [Friend Do Remix \(feat\. YKNIECE\)](https://open.spotify.com/track/1HmpFowQR9dq4wzNdfzmnY) | [Belly Gang Kushington](https://open.spotify.com/artist/7oHPIc7BYAIUhYFF6hSggI), [YKNIECE](https://open.spotify.com/artist/0W1zQBUWnDofTkc0APdaog) | [Friend Do Remix \(feat\. YKNIECE\)](https://open.spotify.com/album/6tKVKWZYZ9zqwUC6qBU8r5) | 2:51 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 99 | [Bout My Money \(feat\. Bossman Dlow\)](https://open.spotify.com/track/4HzMo8F6xAYOZGYy72CUjX) | [OT7 Quanny](https://open.spotify.com/artist/3dHnXBJdd4O9KXwP1kxF6L), [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc) | [Bout My Money \(feat\. Bossman Dlow\)](https://open.spotify.com/album/06hD4ATITFcIPIrwwGboAi) | 3:11 |
 | 100 | [WHIM WHAMIEE](https://open.spotify.com/track/4eULTkHVLAhn5J5DOSNbdP) | [PLUTO](https://open.spotify.com/artist/4uqHgaeBynLBQgfhMEIm1G), [YKNIECE](https://open.spotify.com/artist/0W1zQBUWnDofTkc0APdaog) | [WHIM WHAMIEE](https://open.spotify.com/album/0cU7tn9mTCW4cDQWsxrbWO) | 2:21 |
 
-Snapshot ID: `AAAAAJsJSGhEGuFpl1jYRswe6ffV1IXy`
+Snapshot ID: `AAAAAO33rvnE0wCBc1/R7np8QFPCrplg`

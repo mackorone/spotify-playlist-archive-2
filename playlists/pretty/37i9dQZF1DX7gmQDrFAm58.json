@@ -1,6 +1,6 @@
 {
   "description": "Sons para seu beb\u00ea dormir e relaxar / Sonidos para relajar a tu beb\u00e9",
-  "num_followers": 85326,
+  "num_followers": 85325,
   "original_name": "Nana Nen\u00ea",
   "owner": {
     "name": "Spotify",
@@ -187,22 +187,6 @@
     {
       "added_at": "2026-03-20 14:24:18",
       "album": {
-        "name": "Loftet",
-        "url": "https://open.spotify.com/album/6bEa4sL87umFbdPYPgWG4g"
-      },
-      "artists": [
-        {
-          "name": "Butterfly Forest",
-          "url": "https://open.spotify.com/artist/7ILiN5iUfdcOWOZgjKkch5"
-        }
-      ],
-      "duration_ms": 86374,
-      "name": "Loftet",
-      "url": "https://open.spotify.com/track/5XUQSbnVTDbxzHjgQlgzkE"
-    },
-    {
-      "added_at": "2026-03-20 14:24:18",
-      "album": {
         "name": "Nighty Night",
         "url": "https://open.spotify.com/album/1QLbONEMvzsGQyt8v2tX8x"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 103108,
       "name": "Nighty Night",
       "url": "https://open.spotify.com/track/4KJ24fXf5dJphAE3KyJmud"
+    },
+    {
+      "added_at": "2026-03-20 14:24:18",
+      "album": {
+        "name": "Loftet",
+        "url": "https://open.spotify.com/album/6bEa4sL87umFbdPYPgWG4g"
+      },
+      "artists": [
+        {
+          "name": "Butterfly Forest",
+          "url": "https://open.spotify.com/artist/7ILiN5iUfdcOWOZgjKkch5"
+        }
+      ],
+      "duration_ms": 86374,
+      "name": "Loftet",
+      "url": "https://open.spotify.com/track/5XUQSbnVTDbxzHjgQlgzkE"
     },
     {
       "added_at": "2026-03-20 14:24:18",
@@ -555,22 +555,6 @@
     {
       "added_at": "2026-03-20 14:24:18",
       "album": {
-        "name": "The Ever So Elegant Elephant",
-        "url": "https://open.spotify.com/album/4upvwQ7R9DzYCXXmzx5Pgn"
-      },
-      "artists": [
-        {
-          "name": "Leo Button",
-          "url": "https://open.spotify.com/artist/2OFHAfDosm7QmMH9DtQKFt"
-        }
-      ],
-      "duration_ms": 79670,
-      "name": "The Ever So Elegant Elephant",
-      "url": "https://open.spotify.com/track/59c9VlNMSG1rZM6FolL1Zm"
-    },
-    {
-      "added_at": "2026-03-20 14:24:18",
-      "album": {
         "name": "By Your Side",
         "url": "https://open.spotify.com/album/2UCHP2kjQI7ewCBmf0OM6N"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 100236,
       "name": "By Your Side",
       "url": "https://open.spotify.com/track/3FBa8Fqeig9dYsPKKsYHgE"
+    },
+    {
+      "added_at": "2026-03-20 14:24:18",
+      "album": {
+        "name": "The Ever So Elegant Elephant",
+        "url": "https://open.spotify.com/album/4upvwQ7R9DzYCXXmzx5Pgn"
+      },
+      "artists": [
+        {
+          "name": "Leo Button",
+          "url": "https://open.spotify.com/artist/2OFHAfDosm7QmMH9DtQKFt"
+        }
+      ],
+      "duration_ms": 79670,
+      "name": "The Ever So Elegant Elephant",
+      "url": "https://open.spotify.com/track/59c9VlNMSG1rZM6FolL1Zm"
     },
     {
       "added_at": "2026-03-20 14:24:18",
@@ -731,22 +731,6 @@
     {
       "added_at": "2026-03-20 14:24:18",
       "album": {
-        "name": "Slowly Strolling",
-        "url": "https://open.spotify.com/album/6fcrAEXY8HmxVOIAY8eEcJ"
-      },
-      "artists": [
-        {
-          "name": "Michael Chausson",
-          "url": "https://open.spotify.com/artist/5owt030AopCYxSP5NZldpI"
-        }
-      ],
-      "duration_ms": 113089,
-      "name": "Slowly Strolling",
-      "url": "https://open.spotify.com/track/3ZBIVAWxcRk1XoaD6zEDN5"
-    },
-    {
-      "added_at": "2026-03-20 14:24:18",
-      "album": {
         "name": "Sandman",
         "url": "https://open.spotify.com/album/5PjDNLHyLtqJGmxhRsxgEP"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 105500,
       "name": "Sandman",
       "url": "https://open.spotify.com/track/3YwcohusRJnODwSxCSdLeg"
+    },
+    {
+      "added_at": "2026-03-20 14:24:18",
+      "album": {
+        "name": "Slowly Strolling",
+        "url": "https://open.spotify.com/album/6fcrAEXY8HmxVOIAY8eEcJ"
+      },
+      "artists": [
+        {
+          "name": "Michael Chausson",
+          "url": "https://open.spotify.com/artist/5owt030AopCYxSP5NZldpI"
+        }
+      ],
+      "duration_ms": 113089,
+      "name": "Slowly Strolling",
+      "url": "https://open.spotify.com/track/3ZBIVAWxcRk1XoaD6zEDN5"
     },
     {
       "added_at": "2026-03-20 14:24:18",
@@ -795,22 +795,6 @@
     {
       "added_at": "2026-03-20 14:24:18",
       "album": {
-        "name": "Free Like A Bird",
-        "url": "https://open.spotify.com/album/4gs7itVM92J52UHqILnbIJ"
-      },
-      "artists": [
-        {
-          "name": "Gil Sunniver",
-          "url": "https://open.spotify.com/artist/0XIQZ8AnQiQ0f5l2mJiCfM"
-        }
-      ],
-      "duration_ms": 136500,
-      "name": "Free Like A Bird",
-      "url": "https://open.spotify.com/track/5isCRIO6O1YwJ0tDg2RRxM"
-    },
-    {
-      "added_at": "2026-03-20 14:24:18",
-      "album": {
         "name": "It's Raining, It's Pouring",
         "url": "https://open.spotify.com/album/3XDaVT8hBkvhlSw91AY2z3"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 102860,
       "name": "Knackle Back",
       "url": "https://open.spotify.com/track/7kjnyXWlhQdlrtFX1a39K8"
+    },
+    {
+      "added_at": "2026-03-20 14:24:18",
+      "album": {
+        "name": "Free Like A Bird",
+        "url": "https://open.spotify.com/album/4gs7itVM92J52UHqILnbIJ"
+      },
+      "artists": [
+        {
+          "name": "Gil Sunniver",
+          "url": "https://open.spotify.com/artist/0XIQZ8AnQiQ0f5l2mJiCfM"
+        }
+      ],
+      "duration_ms": 136500,
+      "name": "Free Like A Bird",
+      "url": "https://open.spotify.com/track/5isCRIO6O1YwJ0tDg2RRxM"
     },
     {
       "added_at": "2026-03-20 14:24:18",
@@ -891,22 +891,6 @@
     {
       "added_at": "2026-03-20 14:24:18",
       "album": {
-        "name": "For My Friends",
-        "url": "https://open.spotify.com/album/57HFg87D0nIsRUrHWKsy01"
-      },
-      "artists": [
-        {
-          "name": "Alexis Montague",
-          "url": "https://open.spotify.com/artist/0vb87QbwjeqPLvDUahlZpa"
-        }
-      ],
-      "duration_ms": 71054,
-      "name": "For My Friends",
-      "url": "https://open.spotify.com/track/3nQmWfikKibsIt4eSoC2Tl"
-    },
-    {
-      "added_at": "2026-03-20 14:24:18",
-      "album": {
         "name": "Sleepy Teddy's Tale",
         "url": "https://open.spotify.com/album/5beaPgAqOLpHPnGfHuTQTK"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 99968,
       "name": "Dreamy Blue Skies",
       "url": "https://open.spotify.com/track/0d40MSLNaKFXjFuZguT6G6"
+    },
+    {
+      "added_at": "2026-03-20 14:24:18",
+      "album": {
+        "name": "For My Friends",
+        "url": "https://open.spotify.com/album/57HFg87D0nIsRUrHWKsy01"
+      },
+      "artists": [
+        {
+          "name": "Alexis Montague",
+          "url": "https://open.spotify.com/artist/0vb87QbwjeqPLvDUahlZpa"
+        }
+      ],
+      "duration_ms": 71054,
+      "name": "For My Friends",
+      "url": "https://open.spotify.com/track/3nQmWfikKibsIt4eSoC2Tl"
     },
     {
       "added_at": "2026-03-20 14:24:18",
@@ -987,22 +987,6 @@
     {
       "added_at": "2026-03-20 14:24:18",
       "album": {
-        "name": "The Moon and Me",
-        "url": "https://open.spotify.com/album/1yi1eGXZv5lVIfSoq6a5lu"
-      },
-      "artists": [
-        {
-          "name": "Na\u00e9li Gosally",
-          "url": "https://open.spotify.com/artist/3USC0JkWo1du1xVV3AuVyh"
-        }
-      ],
-      "duration_ms": 94494,
-      "name": "The Moon and Me",
-      "url": "https://open.spotify.com/track/28PZHFYICfuG2LvyfTH3NB"
-    },
-    {
-      "added_at": "2026-03-20 14:24:18",
-      "album": {
         "name": "Hug me",
         "url": "https://open.spotify.com/album/65Z43jJ1uuaE88S0tNs2Zu"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 95930,
       "name": "Hug me",
       "url": "https://open.spotify.com/track/6rCfYvkE9unP7z2ARBaJZ3"
+    },
+    {
+      "added_at": "2026-03-20 14:24:18",
+      "album": {
+        "name": "The Moon and Me",
+        "url": "https://open.spotify.com/album/1yi1eGXZv5lVIfSoq6a5lu"
+      },
+      "artists": [
+        {
+          "name": "Na\u00e9li Gosally",
+          "url": "https://open.spotify.com/artist/3USC0JkWo1du1xVV3AuVyh"
+        }
+      ],
+      "duration_ms": 94494,
+      "name": "The Moon and Me",
+      "url": "https://open.spotify.com/track/28PZHFYICfuG2LvyfTH3NB"
     },
     {
       "added_at": "2026-03-20 14:24:18",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2026-03-20 14:24:18",
       "album": {
-        "name": "Peaches and Cream",
-        "url": "https://open.spotify.com/album/13vMoZFdk0nyXQ279ogeEb"
-      },
-      "artists": [
-        {
-          "name": "William Gossard",
-          "url": "https://open.spotify.com/artist/2lp225d2g9UWyBXtEFclwl"
-        }
-      ],
-      "duration_ms": 110421,
-      "name": "Peaches and Cream",
-      "url": "https://open.spotify.com/track/78wj2zwqPgZ8gu0jdZRrMc"
-    },
-    {
-      "added_at": "2026-03-20 14:24:18",
-      "album": {
         "name": "Sea Lions",
         "url": "https://open.spotify.com/album/2d81vXY5IRWoAGFoOjZuON"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 108923,
       "name": "Sea Lions",
       "url": "https://open.spotify.com/track/4NwEQsgZbGVhhjHKEBzEEa"
+    },
+    {
+      "added_at": "2026-03-20 14:24:18",
+      "album": {
+        "name": "Peaches and Cream",
+        "url": "https://open.spotify.com/album/13vMoZFdk0nyXQ279ogeEb"
+      },
+      "artists": [
+        {
+          "name": "William Gossard",
+          "url": "https://open.spotify.com/artist/2lp225d2g9UWyBXtEFclwl"
+        }
+      ],
+      "duration_ms": 110421,
+      "name": "Peaches and Cream",
+      "url": "https://open.spotify.com/track/78wj2zwqPgZ8gu0jdZRrMc"
     },
     {
       "added_at": "2026-03-20 14:24:18",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2026-03-20 14:24:18",
       "album": {
-        "name": "To The Moon And Back",
-        "url": "https://open.spotify.com/album/7lSHuUiyH5oRdbmJ096zlz"
-      },
-      "artists": [
-        {
-          "name": "Eijah Nilson",
-          "url": "https://open.spotify.com/artist/4ve0embkjqNplBGRueIkHs"
-        }
-      ],
-      "duration_ms": 115958,
-      "name": "Bedtime Serenade",
-      "url": "https://open.spotify.com/track/6dUV7BamznIH4XkQvhpqZh"
-    },
-    {
-      "added_at": "2026-03-20 14:24:18",
-      "album": {
         "name": "The Stars Above",
         "url": "https://open.spotify.com/album/3j2XsBqtDg3ok1J0eaAMsD"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 108082,
       "name": "Golden Dreams",
       "url": "https://open.spotify.com/track/7K3ct3kNB4DbmABnWsuPIq"
+    },
+    {
+      "added_at": "2026-03-20 14:24:18",
+      "album": {
+        "name": "To The Moon And Back",
+        "url": "https://open.spotify.com/album/7lSHuUiyH5oRdbmJ096zlz"
+      },
+      "artists": [
+        {
+          "name": "Eijah Nilson",
+          "url": "https://open.spotify.com/artist/4ve0embkjqNplBGRueIkHs"
+        }
+      ],
+      "duration_ms": 115958,
+      "name": "Bedtime Serenade",
+      "url": "https://open.spotify.com/track/6dUV7BamznIH4XkQvhpqZh"
     },
     {
       "added_at": "2026-03-20 14:24:18",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2026-03-20 14:24:18",
       "album": {
-        "name": "Bedtime Songs",
-        "url": "https://open.spotify.com/album/6SuPONFKD4y5EICBPmerkN"
-      },
-      "artists": [
-        {
-          "name": "Dore Mi",
-          "url": "https://open.spotify.com/artist/4njrMBDibPhATgAffWWFZM"
-        }
-      ],
-      "duration_ms": 126398,
-      "name": "Here In My Arms",
-      "url": "https://open.spotify.com/track/5jWqDaOCXcCpjCfDKeVRCa"
-    },
-    {
-      "added_at": "2026-03-20 14:24:18",
-      "album": {
         "name": "The Sun And The Moon",
         "url": "https://open.spotify.com/album/37WU53dkBC0QYdYNRb7FMU"
       },
@@ -1723,18 +1707,18 @@
     {
       "added_at": "2026-03-20 14:24:18",
       "album": {
-        "name": "Treehouse",
-        "url": "https://open.spotify.com/album/6ft7wve4D5M8aZkqTktFrL"
+        "name": "Bedtime Songs",
+        "url": "https://open.spotify.com/album/6SuPONFKD4y5EICBPmerkN"
       },
       "artists": [
         {
-          "name": "Chasing Mice",
-          "url": "https://open.spotify.com/artist/5emC0ACttJgLui278GswPX"
+          "name": "Dore Mi",
+          "url": "https://open.spotify.com/artist/4njrMBDibPhATgAffWWFZM"
         }
       ],
-      "duration_ms": 110979,
-      "name": "Treehouse",
-      "url": "https://open.spotify.com/track/09p9WmqfzXwgucwOG4dMmT"
+      "duration_ms": 126398,
+      "name": "Here In My Arms",
+      "url": "https://open.spotify.com/track/5jWqDaOCXcCpjCfDKeVRCa"
     },
     {
       "added_at": "2026-03-20 14:24:18",
@@ -1755,18 +1739,18 @@
     {
       "added_at": "2026-03-20 14:24:18",
       "album": {
-        "name": "In My Arms",
-        "url": "https://open.spotify.com/album/0ms2g8Zl0bs1G2VxEBl8BL"
+        "name": "Treehouse",
+        "url": "https://open.spotify.com/album/6ft7wve4D5M8aZkqTktFrL"
       },
       "artists": [
         {
-          "name": "Sky Holland",
-          "url": "https://open.spotify.com/artist/5YQfmCMs2KIpZUDvSdz3L3"
+          "name": "Chasing Mice",
+          "url": "https://open.spotify.com/artist/5emC0ACttJgLui278GswPX"
         }
       ],
-      "duration_ms": 116789,
-      "name": "Safe and Sound",
-      "url": "https://open.spotify.com/track/2tYsjJ92cFc8n0dxV4EhMO"
+      "duration_ms": 110979,
+      "name": "Treehouse",
+      "url": "https://open.spotify.com/track/09p9WmqfzXwgucwOG4dMmT"
     },
     {
       "added_at": "2026-03-20 14:24:18",
@@ -1783,6 +1767,22 @@
       "duration_ms": 109790,
       "name": "Sleep Till Morning Comes",
       "url": "https://open.spotify.com/track/4IMICTKWbU1K6IWHoXibyP"
+    },
+    {
+      "added_at": "2026-03-20 14:24:18",
+      "album": {
+        "name": "In My Arms",
+        "url": "https://open.spotify.com/album/0ms2g8Zl0bs1G2VxEBl8BL"
+      },
+      "artists": [
+        {
+          "name": "Sky Holland",
+          "url": "https://open.spotify.com/artist/5YQfmCMs2KIpZUDvSdz3L3"
+        }
+      ],
+      "duration_ms": 116789,
+      "name": "Safe and Sound",
+      "url": "https://open.spotify.com/track/2tYsjJ92cFc8n0dxV4EhMO"
     },
     {
       "added_at": "2026-03-20 14:24:18",
@@ -1819,6 +1819,22 @@
     {
       "added_at": "2026-03-20 14:24:18",
       "album": {
+        "name": "Bedtime Melodies",
+        "url": "https://open.spotify.com/album/3tBxqFudcu4upFnwbsMEG3"
+      },
+      "artists": [
+        {
+          "name": "Isaac Tira",
+          "url": "https://open.spotify.com/artist/36itJVdaUkayBbmezbbDo7"
+        }
+      ],
+      "duration_ms": 105706,
+      "name": "You And Me",
+      "url": "https://open.spotify.com/track/6Gkekn4vTkqR1leDE7hjs0"
+    },
+    {
+      "added_at": "2026-03-20 14:24:18",
+      "album": {
         "name": "Hannas Lullaby",
         "url": "https://open.spotify.com/album/6KqLVS7KoKbvv3sdKfBdVC"
       },
@@ -1847,22 +1863,6 @@
       "duration_ms": 100932,
       "name": "The Stars Above",
       "url": "https://open.spotify.com/track/1WY6rpRhyd0RFFiHUkYjRb"
-    },
-    {
-      "added_at": "2026-03-20 14:24:18",
-      "album": {
-        "name": "Bedtime Melodies",
-        "url": "https://open.spotify.com/album/3tBxqFudcu4upFnwbsMEG3"
-      },
-      "artists": [
-        {
-          "name": "Isaac Tira",
-          "url": "https://open.spotify.com/artist/36itJVdaUkayBbmezbbDo7"
-        }
-      ],
-      "duration_ms": 105706,
-      "name": "You And Me",
-      "url": "https://open.spotify.com/track/6Gkekn4vTkqR1leDE7hjs0"
     },
     {
       "added_at": "2026-03-20 14:24:18",
@@ -1979,22 +1979,6 @@
     {
       "added_at": "2026-03-20 14:24:18",
       "album": {
-        "name": "It's a Small World",
-        "url": "https://open.spotify.com/album/3CKHyzgaKJilIAS8l3458l"
-      },
-      "artists": [
-        {
-          "name": "Callum Waterford",
-          "url": "https://open.spotify.com/artist/6TdZZLY5iTYyvZfPbGkame"
-        }
-      ],
-      "duration_ms": 95291,
-      "name": "It's a Small World",
-      "url": "https://open.spotify.com/track/5r33lzWTF5mUOaL0ydVdVG"
-    },
-    {
-      "added_at": "2026-03-20 14:24:18",
-      "album": {
         "name": "BINGO",
         "url": "https://open.spotify.com/album/5K5boqEFKBxJDcHMNdjtNI"
       },
@@ -2023,6 +2007,22 @@
       "duration_ms": 111893,
       "name": "Baby Miracle",
       "url": "https://open.spotify.com/track/6ELeHWDT0ek6PEmZowusec"
+    },
+    {
+      "added_at": "2026-03-20 14:24:18",
+      "album": {
+        "name": "It's a Small World",
+        "url": "https://open.spotify.com/album/3CKHyzgaKJilIAS8l3458l"
+      },
+      "artists": [
+        {
+          "name": "Callum Waterford",
+          "url": "https://open.spotify.com/artist/6TdZZLY5iTYyvZfPbGkame"
+        }
+      ],
+      "duration_ms": 95291,
+      "name": "It's a Small World",
+      "url": "https://open.spotify.com/track/5r33lzWTF5mUOaL0ydVdVG"
     },
     {
       "added_at": "2026-03-20 14:24:18",
@@ -2171,22 +2171,6 @@
     {
       "added_at": "2026-03-20 14:24:18",
       "album": {
-        "name": "Bedside Lamp",
-        "url": "https://open.spotify.com/album/6JxxZ2GZVyaUVRRXxuEsS7"
-      },
-      "artists": [
-        {
-          "name": "Isabella Kent",
-          "url": "https://open.spotify.com/artist/1GDviCQQnLpKaPdLBYkIgB"
-        }
-      ],
-      "duration_ms": 75567,
-      "name": "Bedside Lamp",
-      "url": "https://open.spotify.com/track/3XSiZolukB6iiNITmWLKbK"
-    },
-    {
-      "added_at": "2026-03-20 14:24:18",
-      "album": {
         "name": "Napping Rabbit",
         "url": "https://open.spotify.com/album/5jLj8Q10nTIqH4To584bNV"
       },
@@ -2199,6 +2183,22 @@
       "duration_ms": 75135,
       "name": "Napping Rabbit",
       "url": "https://open.spotify.com/track/16RLSMLfNH3ASyJ7NONTSv"
+    },
+    {
+      "added_at": "2026-03-20 14:24:18",
+      "album": {
+        "name": "Bedside Lamp",
+        "url": "https://open.spotify.com/album/6JxxZ2GZVyaUVRRXxuEsS7"
+      },
+      "artists": [
+        {
+          "name": "Isabella Kent",
+          "url": "https://open.spotify.com/artist/1GDviCQQnLpKaPdLBYkIgB"
+        }
+      ],
+      "duration_ms": 75567,
+      "name": "Bedside Lamp",
+      "url": "https://open.spotify.com/track/3XSiZolukB6iiNITmWLKbK"
     },
     {
       "added_at": "2026-03-20 14:24:18",

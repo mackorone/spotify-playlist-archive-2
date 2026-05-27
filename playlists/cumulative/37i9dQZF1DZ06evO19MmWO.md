@@ -4,7 +4,7 @@
 
 > This is Little Walter\. The essential tracks, all in one playlist.
 
-97 songs - 4 hr 50 min
+98 songs - 4 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Everybody Needs Somebody \- Single Version](https://open.spotify.com/track/5GXX2OEAHC2ZbRReSGkago) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [Hate To See You Go](https://open.spotify.com/album/7KZt4TYZm8A4tN1hqQpLRI) | 2:52 | 2022-09-03 | 2024-07-10 |
 | [Everything's Gonna Be Alright](https://open.spotify.com/track/2AfLquO3aQ4xiQ53k5fkAY) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [Hate To See You Go](https://open.spotify.com/album/7KZt4TYZm8A4tN1hqQpLRI) | 2:49 | 2022-08-05 |  |
 | [Flying Saucer](https://open.spotify.com/track/0nEFjlZOvCA3lgBl8EsdaD) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [Blues With A Feelin'](https://open.spotify.com/album/0cdK9KbYmjGnFYcAElHkdg) | 3:03 | 2023-04-03 | 2024-07-10 |
+| [Goin' Away Baby \- Remastered](https://open.spotify.com/track/67QSWbVQHsCuNCL5Aob0rK) | [Jimmy Rogers](https://open.spotify.com/artist/20k4RFKXyboeDSz9bjumx0), [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS), [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [Anthology: His Early Years \(Remastered\)](https://open.spotify.com/album/77Zjw39g47Y37bPn3gOVgR) | 2:41 | 2026-05-27 |  |
 | [Hate To See You Go](https://open.spotify.com/track/5jthNmPnbVPiEcO8JGgRsZ) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [Hate To See You Go](https://open.spotify.com/album/7KZt4TYZm8A4tN1hqQpLRI) | 2:16 | 2022-08-05 |  |
 | [Hate To See You Go \- Extended](https://open.spotify.com/track/3stgNDeoJuRr3HB4GVHQF4) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [The Complete Chess Masters \(1950 \- 1967\)](https://open.spotify.com/album/3xRh7E2R2WdxFYeQFakVbr) | 3:03 | 2022-08-07 |  |
 | [I Got To Find My Baby](https://open.spotify.com/track/5LGv5qR3OLizfzWWbEP9le) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [Hate To See You Go](https://open.spotify.com/album/7KZt4TYZm8A4tN1hqQpLRI) | 2:48 | 2022-08-10 | 2024-03-26 |

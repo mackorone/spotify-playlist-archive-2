@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Belarus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,411 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,420 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 49 | [Like Animals](https://open.spotify.com/track/2IFND3phjzIG1RcPnHh2hP) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h) | 3:09 |
 | 50 | [гладиатор/рыцарь](https://open.spotify.com/track/5cuSyLoYilFJQsI1Yta8GT) | [fallen777angel](https://open.spotify.com/artist/5ByAEWetNZ95GufzBSOkc3) | [glory of heartbroken](https://open.spotify.com/album/4BQjLtnAdEzO5EG1K8TTXR) | 1:44 |
 
-Snapshot ID: `Mae/0AAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MakWAAAAAAAAAAAAAAAAAAAAAAAAAGVu`

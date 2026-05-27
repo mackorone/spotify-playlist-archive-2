@@ -4,7 +4,7 @@
 
 > Discover the next wave of talent writing their own songs\. Cover: Gabriela Bee
 
-1,078 songs - 2 day 10 hr 7 min
+1,079 songs - 2 day 10 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -370,6 +370,7 @@
 | [Good For Me](https://open.spotify.com/track/0Yf0jgTPenhgWIYgbOh4EL) | [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [Good For Me](https://open.spotify.com/album/3x7E0B0uw3dDz3XOKYdtoX) | 3:30 | 2022-11-11 | 2023-01-28 |
 | [Good Material](https://open.spotify.com/track/6ayWThHJIEq12z3fuR9S5n) | [dearest](https://open.spotify.com/artist/63nfkiGvTNEHhYfTIQnNfT) | [Good Material](https://open.spotify.com/album/3Y6a2ox0oKtmfiF8UyPeYd) | 3:30 | 2026-03-20 |  |
 | [GOOD MEASURE](https://open.spotify.com/track/6P8L4RZSh7NoguKjUFmO1i) | [Carver Jones](https://open.spotify.com/artist/2cQgX3pb2k7rgJG4rxNfid) | [AMERICAN DREAMERS, Vol\. 2](https://open.spotify.com/album/12a16yqWGANg0GSrNleOqm) | 2:28 | 2025-04-11 | 2025-07-19 |
+| [Good Ones](https://open.spotify.com/track/5AuqGkHqaX9qdn9aZlvBUb) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [Good Ones](https://open.spotify.com/album/1RK7afQN4wTu90lEqbVDou) | 3:19 | 2026-05-26 |  |
 | [Good Stuff](https://open.spotify.com/track/5cUbosneCQpRAxRWaNi7t2) | [Grace Enger](https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf), [jake minch](https://open.spotify.com/artist/7Lfq2a2cpwQBdDzo7SW1HC) | [Good Stuff](https://open.spotify.com/album/7dD6azbod3vyOmLaIo41N5) | 3:04 | 2024-04-12 | 2024-07-13 |
 | [Good to Know](https://open.spotify.com/track/2Kf3UJ8g930JLTv66X4Lr6) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [Simple Like 17](https://open.spotify.com/album/7kER2cVpZWvqXlds3fJzmU) | 2:42 | 2023-12-01 | 2024-03-30 |
 | [Google Translate / poppies](https://open.spotify.com/track/5SWkedKGlTLmjMRvhu0xXX) | [Leanna Firestone](https://open.spotify.com/artist/31431J9PD3bfNsPKkezt0d) | [Forward / Slash](https://open.spotify.com/album/2pBKpl9tmGPszEickvA8qi) | 4:23 | 2022-02-25 | 2022-10-08 |
@@ -860,7 +861,7 @@
 | [so fast](https://open.spotify.com/track/2fcixmEODeToeEAVE5ct3f) | [Bri Tolani](https://open.spotify.com/artist/1n3vQMwMRpRdCo5zq8huw0) | [so fast](https://open.spotify.com/album/6djywrn8aN9dvRVS1uz8TH) | 4:09 | 2022-12-16 | 2023-02-25 |
 | [So My Darling \- Acoustic](https://open.spotify.com/track/5NtmfJwkA0AXsp2WWHviPn) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [So My Darling \(Acoustic\)](https://open.spotify.com/album/2FceNexUuKIatc3YFEq08L) | 3:48 | 2022-02-18 | 2022-07-23 |
 | [Soft Boy](https://open.spotify.com/track/6rrbZTkpzaV7CaBoSogKHi) | [Wilbur Music](https://open.spotify.com/artist/3ZHaki4MMPDvFsEE4apthg) | [Soft Boy](https://open.spotify.com/album/004syik0RCJkwKCwVX5fpe) | 2:25 | 2022-09-27 | 2022-12-24 |
-| [Software Developer](https://open.spotify.com/track/3CnLMXhLxdbFMxldjAn7XS) | [Blessing Jolie](https://open.spotify.com/artist/57bDO2vmzu955G1W6EsYth) | [Software Developer](https://open.spotify.com/album/0PAgb5E8gJEUNTwHaKHSCS) | 3:47 | 2026-03-28 |  |
+| [Software Developer](https://open.spotify.com/track/3CnLMXhLxdbFMxldjAn7XS) | [Blessing Jolie](https://open.spotify.com/artist/57bDO2vmzu955G1W6EsYth) | [Software Developer](https://open.spotify.com/album/0PAgb5E8gJEUNTwHaKHSCS) | 3:47 | 2026-03-28 | 2026-05-27 |
 | [Solo](https://open.spotify.com/track/2jm0UrP5A9ccJ3twMI8cVq) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Solo](https://open.spotify.com/album/16hvfvUf6RJs7tlmyVzWHV) | 3:19 | 2023-11-17 | 2024-08-17 |
 | [Solo](https://open.spotify.com/track/4Skkx52Dh8yo4G1ijAEGs3) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Solo](https://open.spotify.com/album/03jkbwbhopEYNhcbwGwIt8) | 3:19 | 2024-02-09 | 2024-04-19 |
 | [Some friends and a place to call home](https://open.spotify.com/track/0zzcjPRxa26NDyex0GoJs2) | [Mōzi](https://open.spotify.com/artist/5w603RhGuKjuDtIlkQt3E4) | [Some friends and a place to call home](https://open.spotify.com/album/6LObxZbQLxl6dBVRfzVAFm) | 3:07 | 2022-01-14 | 2022-03-12 |

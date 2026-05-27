@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Autoimmune, Pinned Comment, Dystopian X Vision and more",
+  "description": "With Lockjaw, Dystopian X Vision, Jon Drake and more",
   "name": "Bipolar Superstar Radio",
   "tracks": [
     {
@@ -60,6 +60,24 @@
       "duration_ms": 250312,
       "name": "18 Carat Dust",
       "url": "https://open.spotify.com/track/60oIlu4QJOtt3iWOOsOTq3"
+    },
+    {
+      "album": {
+        "name": "Black Lumina",
+        "url": "https://open.spotify.com/album/2IAXXlc6MTNMNmjjRDiUUE"
+      },
+      "artists": [
+        {
+          "name": "Aeons in Solitude",
+          "url": "https://open.spotify.com/artist/5vkxZdR9Y9p4xnWFfMYMdl"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384370,
+      "name": "84",
+      "url": "https://open.spotify.com/track/0Vl5voXWCbcXVnQKqJrIty"
     },
     {
       "album": {
@@ -3882,7 +3900,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-27",
       "duration_ms": 248451,
       "name": "Goddess",
       "url": "https://open.spotify.com/track/7unT6Ykkw38roexHf453ur"

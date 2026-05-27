@@ -4,7 +4,7 @@
 
 > This is Baby Tate\. The essential tracks, all in one playlist.
 
-118 songs - 5 hr 42 min
+119 songs - 5 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Dancing Queen](https://open.spotify.com/track/65HXJWOYBX2pFpdtusWRiV) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Dancing Queen / Yasss Queen](https://open.spotify.com/album/47QCUgKloZqFa0ldcUZiff) | 3:09 | 2022-10-28 | 2022-12-01 |
 | [Dancing Queen](https://open.spotify.com/track/6CeSwg2uQVfz20KXwXqKZQ) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Mani/Pedi](https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh) | 3:09 | 2022-11-30 |  |
 | [Differences](https://open.spotify.com/track/7fMwzEtUwvaV45uArYs2Uv) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Mani/Pedi](https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh) | 3:16 | 2022-10-28 |  |
+| [Dirty Girl](https://open.spotify.com/track/5idXmIFpLBV6A3fFSKkSvy) | [Siena Liggins](https://open.spotify.com/artist/5DLTBcpdWQsAPeN1t8PZv9), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Ms\. Out Tonight](https://open.spotify.com/album/63DaQllnJKqmCIwHveb4A7) | 3:29 | 2026-05-27 |  |
 | [Dirty Girl \(with Baby Tate\)](https://open.spotify.com/track/7uaf9grGM3ICiLAWv3dcTJ) | [Siena Liggins](https://open.spotify.com/artist/5DLTBcpdWQsAPeN1t8PZv9), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Ms\. Out Tonight](https://open.spotify.com/album/5dlGTLkjRhY4xpkrAZTKUq) | 3:29 | 2023-11-10 | 2026-04-28 |
 | [Do Better](https://open.spotify.com/track/6W55PELuIrhPwFAr9T64Df) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Mani/Pedi](https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh) | 3:24 | 2022-10-28 | 2024-06-28 |
 | [Do Me Like That \(feat\. Buddy\) \[from Insecure: Music From The HBO Original Series, Season 4\]](https://open.spotify.com/track/3SbeHIDfwxUYdDFfjg8wmY) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [Raedio](https://open.spotify.com/artist/0txgDz2yNToARuN2vD7SWD), [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [Do Me Like That \(feat\. Buddy\) \[from Insecure: Music From The HBO Original Series, Season 4\]](https://open.spotify.com/album/6PVHwuJPqw70S9a0BHPEEd) | 3:02 | 2022-10-28 | 2023-10-11 |
@@ -62,7 +63,7 @@
 | [Hallelujah](https://open.spotify.com/track/6xj6BppRbm4vTgVN8GaZEw) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Hallelujah](https://open.spotify.com/album/1E20YSwoi1SJMshPSQi4e1) | 3:33 | 2026-05-08 | 2026-05-24 |
 | [He Wanna \(feat\. B.K\. Habermehl\)](https://open.spotify.com/track/3BXvUg7mxywHWb7PjElvOV) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [B.K\. Habermehl](https://open.spotify.com/artist/64QWRxLk9KP6yTX9NK7COY) | [He Wanna \(feat\. B.K\. Habermehl\)](https://open.spotify.com/album/43MrfvRegBtm396DTzpmtl) | 2:31 | 2022-11-30 | 2022-12-11 |
 | [Heaux Things \(feat\. Baby Tate\)](https://open.spotify.com/track/7JJlZwKiYSPG4udG1GvX9t) | [Enchanting](https://open.spotify.com/artist/26XGM4cZDcTgrXo1nis5HT), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Luv Scarred / No Luv \(Deluxe\)](https://open.spotify.com/album/6BW57jVtLJ1NuVefL901qC) | 2:43 | 2023-02-13 | 2024-07-24 |
-| [Hey Ladies](https://open.spotify.com/track/0S4HeVwCfMx41pAIgqKgGI) | [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [Stoppa](https://open.spotify.com/artist/0XM0fHfVDa2UgDJOrE1woZ) | [WukiWorld](https://open.spotify.com/album/523y2Ub7mQPON9romO2APM) | 2:48 | 2023-03-17 |  |
+| [Hey Ladies](https://open.spotify.com/track/0S4HeVwCfMx41pAIgqKgGI) | [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [Stoppa](https://open.spotify.com/artist/0XM0fHfVDa2UgDJOrE1woZ) | [WukiWorld](https://open.spotify.com/album/523y2Ub7mQPON9romO2APM) | 2:48 | 2023-03-17 | 2026-05-27 |
 | [Hey Ladies](https://open.spotify.com/track/5CxEjGBDDT1Bf2ifds33Op) | [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [Stoppa](https://open.spotify.com/artist/0XM0fHfVDa2UgDJOrE1woZ) | [WukiWorld](https://open.spotify.com/album/2Wa2Q6AhkbVvlpu1Wuz8Ir) | 2:48 | 2022-10-28 | 2023-03-04 |
 | [Hey, Mickey!](https://open.spotify.com/track/3RKjTYlQrtLXCq5ncswBPp) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Hey, Mickey!](https://open.spotify.com/album/1kKF2bWhCvSNNmWFqQVFei) | 1:55 | 2023-01-18 |  |
 | [Hey, Mickey!](https://open.spotify.com/track/4KVJ9cSgpo6IANqaQ9lWjN) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Hey, Mickey!](https://open.spotify.com/album/58vYzfzlVh9ptoQoCpNfMw) | 1:55 | 2022-12-20 | 2023-01-19 |

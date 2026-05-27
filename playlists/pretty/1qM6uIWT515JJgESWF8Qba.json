@@ -1,12 +1,12 @@
 {
   "description": "It&#x27;s 5 o&#x27;clock somewhere and best believe there&#x27;s a local band there ready to rock when the sun goes down.",
-  "num_followers": 449,
+  "num_followers": 451,
   "original_name": "Local Rock Bands",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAABwpKrrQWBjVrDzzw3d7bsew6ufUWS",
+  "snapshot_id": "AAABxeQ+ZsJWY17MSxJfbiJGmeHLah7S",
   "tracks": [
     {
       "added_at": "2025-09-16 13:19:37",
@@ -843,6 +843,54 @@
       "duration_ms": 484629,
       "name": "Narcissus",
       "url": "https://open.spotify.com/track/3TEPXf5UCrgNTHo5iTZedr"
+    },
+    {
+      "added_at": "2026-05-26 18:36:25",
+      "album": {
+        "name": "The Mold",
+        "url": "https://open.spotify.com/album/2hp2SmGFWZsIlEQIkavftE"
+      },
+      "artists": [
+        {
+          "name": "Twist & Writhe",
+          "url": "https://open.spotify.com/artist/4zRz9OrERKG1EJriVM7U0s"
+        }
+      ],
+      "duration_ms": 239937,
+      "name": "The Mold",
+      "url": "https://open.spotify.com/track/6lKQLhmqknMDhFbIg6LcQe"
+    },
+    {
+      "added_at": "2026-05-26 18:50:49",
+      "album": {
+        "name": "Melbourne Cat",
+        "url": "https://open.spotify.com/album/0acC0pSJGsYNirxkfWlOxK"
+      },
+      "artists": [
+        {
+          "name": "Jack Dahlqvist",
+          "url": "https://open.spotify.com/artist/3J2oT5Sue8H2uhUVDvw1bI"
+        }
+      ],
+      "duration_ms": 258484,
+      "name": "Melbourne Cat",
+      "url": "https://open.spotify.com/track/72cmQI7HC2RNIKeGbKUPNH"
+    },
+    {
+      "added_at": "2026-05-26 18:58:10",
+      "album": {
+        "name": "Bad Penny",
+        "url": "https://open.spotify.com/album/0WlFjbYONFwfyUeIyoCbCO"
+      },
+      "artists": [
+        {
+          "name": "Julience",
+          "url": "https://open.spotify.com/artist/4SlykBMGNk8EXDDFfphLvL"
+        }
+      ],
+      "duration_ms": 267554,
+      "name": "Bad Penny",
+      "url": "https://open.spotify.com/track/5VJLnfXSib5ZcoQD4ugJuS"
     }
   ],
   "unique_name": "Local Rock Bands",

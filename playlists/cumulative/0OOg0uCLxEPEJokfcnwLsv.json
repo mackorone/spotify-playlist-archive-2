@@ -713,7 +713,7 @@
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 213108,
+      "duration_ms": 220535,
       "name": "Ashes",
       "url": "https://open.spotify.com/track/121B2HvqI9ZyONMYDy7AJ6"
     },
@@ -5055,6 +5055,24 @@
     },
     {
       "album": {
+        "name": "No Angel Is Watching",
+        "url": "https://open.spotify.com/album/68XNOikZKxIdeg4OncW44B"
+      },
+      "artists": [
+        {
+          "name": "Ludwig Jonsson",
+          "url": "https://open.spotify.com/artist/6pWJeM6v6cLKjblDNWYNdx"
+        }
+      ],
+      "date_added": "2026-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175146,
+      "name": "No Angel Is Watching",
+      "url": "https://open.spotify.com/track/3Cjct6UfADZsVdXdRHmOae"
+    },
+    {
+      "album": {
         "name": "No Fear",
         "url": "https://open.spotify.com/album/1Pz6qTKDsxqXsLRV4mfqcr"
       },
@@ -8167,6 +8185,24 @@
     },
     {
       "album": {
+        "name": "Twisting the Knife",
+        "url": "https://open.spotify.com/album/1G3EqM6MNhagdMwIbNZ7NU"
+      },
+      "artists": [
+        {
+          "name": "moberod",
+          "url": "https://open.spotify.com/artist/49lLlq5yOsfgHQnypG2Cdd"
+        }
+      ],
+      "date_added": "2026-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160300,
+      "name": "Twisting the Knife",
+      "url": "https://open.spotify.com/track/3bbYJ9kP7fJkux2JZzSmvN"
+    },
+    {
+      "album": {
         "name": "Un Rato M\u00e1s",
         "url": "https://open.spotify.com/album/60Nv8JoGyzxDKKiv28i5mC"
       },
@@ -8370,6 +8406,24 @@
       "duration_ms": 264931,
       "name": "Urge for tears",
       "url": "https://open.spotify.com/track/27GgZNxJqBwNDc9taf6vvC"
+    },
+    {
+      "album": {
+        "name": "Vamos Viendo",
+        "url": "https://open.spotify.com/album/5I0KWYTTCxgaOlQOvoq4LI"
+      },
+      "artists": [
+        {
+          "name": "Ruido Cassette",
+          "url": "https://open.spotify.com/artist/2YiahtiLSZAAMIHoV8uZlx"
+        }
+      ],
+      "date_added": "2026-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185301,
+      "name": "Vamos Viendo",
+      "url": "https://open.spotify.com/track/4sSJCnRfOZBZ8v7jD6PkPO"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 
 > Lo mejor de mayo 2026\. Cover: Alvaro Diaz & LATIN MAFIA
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,558,692 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,558,689 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 | 45 | [\(pablo\)](https://open.spotify.com/track/1XSW7SenbLKKkRVvmmkoEo) | [nic](https://open.spotify.com/artist/3wvB1waB73AEUljz3Gl5Ph), [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [\(pablo\)](https://open.spotify.com/album/0IYvugDtQZMtKmePc4N2UZ) | 3:18 |
 | 46 | [La Teoría](https://open.spotify.com/track/27E6Y2wX6kqo0JiZpBq5xa) | [Olivia Wald](https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0), [Alex Ponce](https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO) | [La Teoría](https://open.spotify.com/album/1mu6jH9g2iTjOLVrE51fpm) | 3:33 |
 | 47 | [monumento..](https://open.spotify.com/track/5gA6oCSFTWxQif7HXqMN2s) | [Broke Carrey](https://open.spotify.com/artist/6FWTqLIVK9jjMGcNJnF7xE), [Cocó](https://open.spotify.com/artist/7wO9ayWlYsOX16S5xa3EXi) | [monumento..](https://open.spotify.com/album/0K1DpRzofDbHqViJT3mnDl) | 2:50 |
-| 48 | [Mentiroso](https://open.spotify.com/track/4ZjoijowK4pzDTAcoIczxf) | [Esty](https://open.spotify.com/artist/5GRoRrY3Ug35hVuX3z5Rvq) | [Domi Star](https://open.spotify.com/album/4yOoF9maYHl8dAOyXkwYzu) | 3:22 |
-| 49 | [no te vayas](https://open.spotify.com/track/6BEubkVfewFOsd0LUwtb0C) | [Sparklmami](https://open.spotify.com/artist/50NGgQQCV0QLrOefzyuNh0) | [no te vayas](https://open.spotify.com/album/2lqWGkViqu6n36AZc9rSVJ) | 3:14 |
+| 48 | [no te vayas](https://open.spotify.com/track/6BEubkVfewFOsd0LUwtb0C) | [Sparklmami](https://open.spotify.com/artist/50NGgQQCV0QLrOefzyuNh0) | [no te vayas](https://open.spotify.com/album/2lqWGkViqu6n36AZc9rSVJ) | 3:14 |
+| 49 | [Mentiroso](https://open.spotify.com/track/4ZjoijowK4pzDTAcoIczxf) | [Esty](https://open.spotify.com/artist/5GRoRrY3Ug35hVuX3z5Rvq) | [Domi Star](https://open.spotify.com/album/4yOoF9maYHl8dAOyXkwYzu) | 3:22 |
 | 50 | [Miraverahí \- Slow Jamz Remix](https://open.spotify.com/track/6k7hllGhHCNwdDBoosxCLT) | [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R), [Slow Jamz](https://open.spotify.com/artist/5OxY89csMbfechtyR7EX4o) | [Miraverahí \(Slow Jamz Remix\)](https://open.spotify.com/album/4boDswbpYB6q9ikDzAgEkf) | 4:17 |
 
 Snapshot ID: `AAAAAKE9W3wqsISRnokDJ1LKdCR1wasv`

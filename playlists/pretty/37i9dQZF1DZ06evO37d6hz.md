@@ -10,8 +10,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO37d6hz.md) - [plain]
 |---|---|---|---|---|
 | 1 | [Strand of Life \("Viroid"\)](https://open.spotify.com/track/038kVJ5c2qXrdSnx79DnzG) | [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV) | [Unseen Worlds](https://open.spotify.com/album/4XHcaSU6bLMEVNl6IqWYBS) | 1:21 |
 | 2 | [The Unquestioned Answer](https://open.spotify.com/track/2Xi2uBeFHI8zs5spiNmyqg) | [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV) | [The Expanding Universe](https://open.spotify.com/album/1oiMfhS7X0MJSjowR49VPK) | 6:30 |
-| 3 | [Donnie and Laurie](https://open.spotify.com/track/5AQQFtmuIQpLyIu86vrCjp) | [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV), [Don Christensen](https://open.spotify.com/artist/3X6haiuk2rBlAqlWIpClbm) | [Donnie & Laurie](https://open.spotify.com/album/5nsagfjuKN6coxKmbfXUSC) | 5:24 |
-| 4 | [Heliopause](https://open.spotify.com/track/0rdAXMl6YbYR185e1R6veY) | [VooCha](https://open.spotify.com/artist/7jsvIBs0a30EIAo9EQiMkW), [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV) | [Static](https://open.spotify.com/album/7zU2S06sQRLGXN309ATvuK) | 2:54 |
+| 3 | [Heliopause](https://open.spotify.com/track/0rdAXMl6YbYR185e1R6veY) | [VooCha](https://open.spotify.com/artist/7jsvIBs0a30EIAo9EQiMkW), [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV) | [Static](https://open.spotify.com/album/7zU2S06sQRLGXN309ATvuK) | 2:54 |
+| 4 | [Donnie and Laurie](https://open.spotify.com/track/5AQQFtmuIQpLyIu86vrCjp) | [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV), [Don Christensen](https://open.spotify.com/artist/3X6haiuk2rBlAqlWIpClbm) | [Donnie & Laurie](https://open.spotify.com/album/5nsagfjuKN6coxKmbfXUSC) | 5:24 |
 | 5 | [Finding Voice](https://open.spotify.com/track/4qignkPNvo2z2pbjHKBcoL) | [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV) | [Unseen Worlds](https://open.spotify.com/album/4XHcaSU6bLMEVNl6IqWYBS) | 2:45 |
 | 6 | [Patchwork](https://open.spotify.com/track/4RLVoOmGiYhxUe9WVPr8t2) | [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV) | [The Expanding Universe](https://open.spotify.com/album/1oiMfhS7X0MJSjowR49VPK) | 9:46 |
 | 7 | [Soundtrack For Sandin](https://open.spotify.com/track/0Sp2XO0Rtr90E34OnRxvkA) | [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV) | [Miniatures 2 Edited By Morgan Fisher](https://open.spotify.com/album/3tTluaKUQk3QZrq1jxn7ws) | 1:21 |
@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO37d6hz.md) - [plain]
 | 19 | [The Hollows](https://open.spotify.com/track/5NzbSg7rBbGEo0g4zVyMa5) | [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV) | [Unseen Worlds](https://open.spotify.com/album/4XHcaSU6bLMEVNl6IqWYBS) | 4:51 |
 | 20 | [Drums](https://open.spotify.com/track/7sagDXY3Pdl5A5EPUgimZn) | [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV) | [The Expanding Universe](https://open.spotify.com/album/1oiMfhS7X0MJSjowR49VPK) | 7:09 |
 
-Snapshot ID: `ahI/gAAAAADwZZ+wNW+FhG4JmNheOTiP`
+Snapshot ID: `ahORAAAAAAAq6cdV9Kb92wzhDRPKYWNj`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-15",
-  "description": "The legendary classics meet the newest cutting edge. This is Japanese punk. / \u30ec\u30b8\u30a7\u30f3\u30c9\u3082\u65b0\u4e16\u4ee3\u3082\u4e00\u3064\u306e\u53eb\u3073\u306b\u3002\u9032\u5316\u3057\u7d9a\u3051\u308b\u65e5\u672c\u306e\u30d1\u30f3\u30af\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002Cover: \u30c6\u30ec\u30d3\u5927\u9678\u97f3\u982d",
+  "description": "The legendary classics meet the newest cutting edge. This is Japanese punk. / \u30ec\u30b8\u30a7\u30f3\u30c9\u3082\u65b0\u4e16\u4ee3\u3082\u4e00\u3064\u306e\u53eb\u3073\u306b\u3002\u9032\u5316\u3057\u7d9a\u3051\u308b\u65e5\u672c\u306e\u30d1\u30f3\u30af\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002Cover: Recca",
   "name": "Punk Japan",
   "tracks": [
     {
@@ -74,6 +74,24 @@
       "duration_ms": 219000,
       "name": "20th CENTURY BOY",
       "url": "https://open.spotify.com/track/4O2v3PvNY0BlVuq4oyAqMA"
+    },
+    {
+      "album": {
+        "name": "Emotional Words",
+        "url": "https://open.spotify.com/album/5Cf8sj86NH7OCZVZVBxfjV"
+      },
+      "artists": [
+        {
+          "name": "Recca",
+          "url": "https://open.spotify.com/artist/0qLUMuVVobqGNCZSys4501"
+        }
+      ],
+      "date_added": "2026-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149642,
+      "name": "21",
+      "url": "https://open.spotify.com/track/2qnxyCb1YrprTYs5wEqSgG"
     },
     {
       "album": {
@@ -2476,7 +2494,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-27",
       "duration_ms": 131680,
       "name": "Drain Water",
       "url": "https://open.spotify.com/track/0zSJONiunE3g3fGjq7W4kv"
@@ -4724,7 +4742,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-27",
       "duration_ms": 139000,
       "name": "JUST A NUMBER",
       "url": "https://open.spotify.com/track/52IwY7KnlKOP3ZsoKyV8A5"
@@ -4814,7 +4832,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-27",
       "duration_ms": 190000,
       "name": "keep in BLUE",
       "url": "https://open.spotify.com/track/4VHRNTe2IvZUOHUKVXDIyh"
@@ -10231,6 +10249,24 @@
     },
     {
       "album": {
+        "name": "The Noble Fake Star",
+        "url": "https://open.spotify.com/album/5Vk9immrqKyHhVakz7L5JP"
+      },
+      "artists": [
+        {
+          "name": "PK shampoo",
+          "url": "https://open.spotify.com/artist/7aGhrSyExo2LIUZJjOkgeJ"
+        }
+      ],
+      "date_added": "2026-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346973,
+      "name": "The Light That Never Returns",
+      "url": "https://open.spotify.com/track/2uvwNtr8fT10KFvJ49ZSZW"
+    },
+    {
+      "album": {
         "name": "EVERLASTING",
         "url": "https://open.spotify.com/album/4obqQshTLGtcdosdYVlx3D"
       },
@@ -14802,6 +14838,24 @@
       "duration_ms": 163401,
       "name": "\u5fc3\u5e95\u5fc3\u4e2d\u3057\u305f\u3044",
       "url": "https://open.spotify.com/track/5CGTPjeGyOzMwpQGZOk2oh"
+    },
+    {
+      "album": {
+        "name": "\u5fc3\u81d3",
+        "url": "https://open.spotify.com/album/5FUozpgA27RvqwQpjBysOw"
+      },
+      "artists": [
+        {
+          "name": "\u9234\u6728\u5b9f\u8cb4\u5b50\u30ba",
+          "url": "https://open.spotify.com/artist/68EAsONs8fA8C8e3I4qcV0"
+        }
+      ],
+      "date_added": "2026-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199493,
+      "name": "\u5fc3\u81d3",
+      "url": "https://open.spotify.com/track/2oQNY8QXZK8KHqpFeL5Cqn"
     },
     {
       "album": {

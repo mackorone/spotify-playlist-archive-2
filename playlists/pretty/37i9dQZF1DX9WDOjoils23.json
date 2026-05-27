@@ -1,6 +1,6 @@
 {
   "description": "Your favorite Punjabi Ghazals and Qawwalis. Cover: Satinder Sartaaj",
-  "num_followers": 41143,
+  "num_followers": 41177,
   "original_name": "Punjabi Ghazals & Qawwalis",
   "owner": {
     "name": "Spotify",
@@ -323,6 +323,26 @@
     {
       "added_at": "2026-05-22 11:41:53",
       "album": {
+        "name": "Nit Khair Manga",
+        "url": "https://open.spotify.com/album/1GpHMadC0c2fwLxZPPBe5b"
+      },
+      "artists": [
+        {
+          "name": "Divyam Sodhi",
+          "url": "https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5"
+        },
+        {
+          "name": "Khwaab",
+          "url": "https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx"
+        }
+      ],
+      "duration_ms": 141600,
+      "name": "Nit Khair Manga",
+      "url": "https://open.spotify.com/track/56xKQu2yEWxz5h2Iv5jwVe"
+    },
+    {
+      "added_at": "2026-05-22 11:41:53",
+      "album": {
         "name": "Allah Toh Mangda",
         "url": "https://open.spotify.com/album/5rrLavvhnCmWTczcelNJra"
       },
@@ -343,26 +363,6 @@
       "duration_ms": 214363,
       "name": "Allah Toh Mangda",
       "url": "https://open.spotify.com/track/4S1GXp6bFvymtQc2f9Sgxg"
-    },
-    {
-      "added_at": "2026-05-22 11:41:53",
-      "album": {
-        "name": "Nit Khair Manga",
-        "url": "https://open.spotify.com/album/1GpHMadC0c2fwLxZPPBe5b"
-      },
-      "artists": [
-        {
-          "name": "Divyam Sodhi",
-          "url": "https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5"
-        },
-        {
-          "name": "Khwaab",
-          "url": "https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx"
-        }
-      ],
-      "duration_ms": 141600,
-      "name": "Nit Khair Manga",
-      "url": "https://open.spotify.com/track/56xKQu2yEWxz5h2Iv5jwVe"
     },
     {
       "added_at": "2026-05-22 11:41:53",
@@ -683,22 +683,6 @@
     {
       "added_at": "2026-05-22 11:41:53",
       "album": {
-        "name": "Dil Nu",
-        "url": "https://open.spotify.com/album/4Hv1aQLuVT9HMo6qgy07LW"
-      },
-      "artists": [
-        {
-          "name": "Sukhjinder Alfaaz",
-          "url": "https://open.spotify.com/artist/6fCDRp75C6FXv1xVCD2SK5"
-        }
-      ],
-      "duration_ms": 271749,
-      "name": "Dil Nu",
-      "url": "https://open.spotify.com/track/4KCC0GErxzcP7zEhRQYRm5"
-    },
-    {
-      "added_at": "2026-05-22 11:41:53",
-      "album": {
         "name": "Ek Buta Ambi Da",
         "url": "https://open.spotify.com/album/7JPCcT3dRCHKueWHrrgF5i"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 431189,
       "name": "Giya Piplan da Dhal",
       "url": "https://open.spotify.com/track/3zTutpd4Y5GjSEr5veg0rp"
+    },
+    {
+      "added_at": "2026-05-22 11:41:53",
+      "album": {
+        "name": "Dil Nu",
+        "url": "https://open.spotify.com/album/4Hv1aQLuVT9HMo6qgy07LW"
+      },
+      "artists": [
+        {
+          "name": "Sukhjinder Alfaaz",
+          "url": "https://open.spotify.com/artist/6fCDRp75C6FXv1xVCD2SK5"
+        }
+      ],
+      "duration_ms": 271749,
+      "name": "Dil Nu",
+      "url": "https://open.spotify.com/track/4KCC0GErxzcP7zEhRQYRm5"
     },
     {
       "added_at": "2026-05-22 11:41:53",

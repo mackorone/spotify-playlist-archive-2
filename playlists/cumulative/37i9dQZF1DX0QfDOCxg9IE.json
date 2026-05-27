@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0397 \u0395\u03bb\u03bb\u03ac\u03b4\u03b1 \u03c3\u03c4\u03bf\u03bd \u03c4\u03b5\u03bb\u03b9\u03ba\u03cc \u03c4\u03b7\u03c2 Eurovision \ud83c\uddec\ud83c\uddf7! \u039a\u03b1\u03bb\u03ae \u03b5\u03c0\u03b9\u03c4\u03c5\u03c7\u03af\u03b1, Akylas!",
+  "description": "\u0386\u03ba\u03bf\u03c5 \u03c4\u03b1 \u03c0\u03b9\u03bf \u03c7\u03bf\u03c4 trends \u03c3\u03c4\u03b7\u03bd \u0395\u03bb\u03bb\u03ac\u03b4\u03b1 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae!",
   "name": "Internet Hits Greece",
   "tracks": [
     {
@@ -176,6 +176,24 @@
       "duration_ms": 156000,
       "name": "22 (Remix)",
       "url": "https://open.spotify.com/track/1Tfl1OLWRg2l2gmrLudDEL"
+    },
+    {
+      "album": {
+        "name": "Ligo Parapano",
+        "url": "https://open.spotify.com/album/1yFDegY6vSu1xn7YKPpvsk"
+      },
+      "artists": [
+        {
+          "name": "TOQUEL",
+          "url": "https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG"
+        }
+      ],
+      "date_added": "2026-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159895,
+      "name": "24 Pota",
+      "url": "https://open.spotify.com/track/2mORMGa009LshCqp7tenSA"
     },
     {
       "album": {
@@ -1858,7 +1876,7 @@
       ],
       "date_added": "2026-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-27",
       "duration_ms": 191020,
       "name": "BANANA",
       "url": "https://open.spotify.com/track/1m79Th6iG6CQDEym2EZFOo"
@@ -2520,7 +2538,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-27",
       "duration_ms": 171829,
       "name": "BOT",
       "url": "https://open.spotify.com/track/2Ziqz9EdB0nQoQOnxHgGpJ"
@@ -5091,6 +5109,28 @@
     },
     {
       "album": {
+        "name": "FOREVER RICH DELUXE",
+        "url": "https://open.spotify.com/album/2rmS4kn1agG4geVVS3Tppo"
+      },
+      "artists": [
+        {
+          "name": "Kidd",
+          "url": "https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou"
+        },
+        {
+          "name": "BLVD",
+          "url": "https://open.spotify.com/artist/3XVSWUdVDon1RGgHdPuqzR"
+        }
+      ],
+      "date_added": "2026-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188108,
+      "name": "FUCK LOVE",
+      "url": "https://open.spotify.com/track/4ArBFP1logojblsR2c3r4d"
+    },
+    {
+      "album": {
         "name": "The Death of Slim Shady (Coup De Gr\u00e2ce)",
         "url": "https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6"
       },
@@ -5452,7 +5492,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-27",
       "duration_ms": 260696,
       "name": "Go",
       "url": "https://open.spotify.com/track/2cNjgoSh1TBHFQIhfzRJUE"
@@ -5805,6 +5845,36 @@
     },
     {
       "album": {
+        "name": "HENNY",
+        "url": "https://open.spotify.com/album/1FVSzUegRkpVHSuShyr4Qt"
+      },
+      "artists": [
+        {
+          "name": "DIFF",
+          "url": "https://open.spotify.com/artist/4rtNK25TiSGNcibilGWcQK"
+        },
+        {
+          "name": "Strat",
+          "url": "https://open.spotify.com/artist/48h12D3cJbqfn1ReVL9qbw"
+        },
+        {
+          "name": "Sanko",
+          "url": "https://open.spotify.com/artist/0ijA6WxysUZ8vZQL7JkUfx"
+        },
+        {
+          "name": "Spize",
+          "url": "https://open.spotify.com/artist/35k7GJlhaFK7qHpOJ1JWbm"
+        }
+      ],
+      "date_added": "2026-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164307,
+      "name": "HENNY",
+      "url": "https://open.spotify.com/track/3dxdL00ifuoBZLvslo0uMV"
+    },
+    {
+      "album": {
         "name": "Her",
         "url": "https://open.spotify.com/album/3YsLlWQ9dzG0dFQQZO1jEv"
       },
@@ -5878,7 +5948,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-27",
       "duration_ms": 232533,
       "name": "Hey There Delilah",
       "url": "https://open.spotify.com/track/4RCWB3V8V0dignt99LZ8vH"
@@ -6076,7 +6146,7 @@
       ],
       "date_added": "2026-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-27",
       "duration_ms": 245837,
       "name": "Human Nature",
       "url": "https://open.spotify.com/track/4cgjA7B4fJBHyB9Ya2bu0t"
@@ -6760,7 +6830,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-27",
       "duration_ms": 156393,
       "name": "Jamaican (Bam Bam)",
       "url": "https://open.spotify.com/track/7e4zDInS6tA2jwzphvs2Ay"
@@ -7051,6 +7121,24 @@
     },
     {
       "album": {
+        "name": "Ixogenia",
+        "url": "https://open.spotify.com/album/5koMXETaZmIZv69JLjro8v"
+      },
+      "artists": [
+        {
+          "name": "APON",
+          "url": "https://open.spotify.com/artist/2bucjueNUx2aVTUA7zj6w7"
+        }
+      ],
+      "date_added": "2026-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134857,
+      "name": "Kantada",
+      "url": "https://open.spotify.com/track/4LSgjA6nzvd4u5bCgyIBN4"
+    },
+    {
+      "album": {
         "name": "Kapnogona",
         "url": "https://open.spotify.com/album/2RM0S3esLb4znrNTyq70VF"
       },
@@ -7150,6 +7238,28 @@
       "duration_ms": 164181,
       "name": "Kati Xereis",
       "url": "https://open.spotify.com/track/6sdfSqn9Jz0hr2CYtOicQX"
+    },
+    {
+      "album": {
+        "name": "CASUS BELLI",
+        "url": "https://open.spotify.com/album/1aQnXfjBDbLVjdYf1kkAbe"
+      },
+      "artists": [
+        {
+          "name": "Hawk",
+          "url": "https://open.spotify.com/artist/0vUcZVCNG7i5OV0zb8Icfw"
+        },
+        {
+          "name": "Michalis Hatzigiannis",
+          "url": "https://open.spotify.com/artist/77YRvt1TuxpCmW4Ydrx69A"
+        }
+      ],
+      "date_added": "2026-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146707,
+      "name": "KENO",
+      "url": "https://open.spotify.com/track/0gHJaxTC8LopPDr6fuLAUI"
     },
     {
       "album": {
@@ -9465,6 +9575,24 @@
     },
     {
       "album": {
+        "name": "ICEMAN",
+        "url": "https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2026-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200830,
+      "name": "National Treasures",
+      "url": "https://open.spotify.com/track/393OFJFZKIIv66JmJcNm9D"
+    },
+    {
+      "album": {
         "name": "Takounia Gia Karfia",
         "url": "https://open.spotify.com/album/21itgD37WJCHarCdcjlJM4"
       },
@@ -9868,7 +9996,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-27",
       "duration_ms": 199947,
       "name": "No reward",
       "url": "https://open.spotify.com/track/3hNjvaa1uMTtHr2JIKtaai"
@@ -9890,7 +10018,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-27",
       "duration_ms": 199947,
       "name": "No reward",
       "url": "https://open.spotify.com/track/2eoS4RgJ6wLbZxbyssTmsF"
@@ -12334,7 +12462,7 @@
       ],
       "date_added": "2024-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-27",
       "duration_ms": 166000,
       "name": "Si Ai",
       "url": "https://open.spotify.com/track/27jIKs9ZEe4m19j3lx4E2b"
@@ -12588,6 +12716,24 @@
       "duration_ms": 231073,
       "name": "Sousouro",
       "url": "https://open.spotify.com/track/6Q9L85FERsbSTVmNaZjhd4"
+    },
+    {
+      "album": {
+        "name": "Press Start",
+        "url": "https://open.spotify.com/album/2UYi4pXbDbWKaURIYMOuyk"
+      },
+      "artists": [
+        {
+          "name": "Akylas",
+          "url": "https://open.spotify.com/artist/0ryXG4cu4Ac81CojYsKcTL"
+        }
+      ],
+      "date_added": "2026-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182727,
+      "name": "spastoSPASTO",
+      "url": "https://open.spotify.com/track/53NL9kIqpbSb09msCKBaT5"
     },
     {
       "album": {
@@ -12914,6 +13060,28 @@
       "duration_ms": 153332,
       "name": "Sugar On My Tongue",
       "url": "https://open.spotify.com/track/6xV7Be6XEvkSnighmh2Tzj"
+    },
+    {
+      "album": {
+        "name": "Sick of Nostalgia",
+        "url": "https://open.spotify.com/album/4Qa4JsE100WBUGBEkitc4F"
+      },
+      "artists": [
+        {
+          "name": "Myla",
+          "url": "https://open.spotify.com/artist/0NVFZ3XpjyXGlsJ7CMWDFj"
+        },
+        {
+          "name": "kobzx2z",
+          "url": "https://open.spotify.com/artist/1e1A7s86U6f7cyJAivpfY3"
+        }
+      ],
+      "date_added": "2026-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192720,
+      "name": "Summer Nights",
+      "url": "https://open.spotify.com/track/6HpN4IQxfPmvfvjRH8FbL3"
     },
     {
       "album": {
@@ -14830,7 +14998,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-27",
       "duration_ms": 156800,
       "name": "Violet",
       "url": "https://open.spotify.com/track/1O7l0XTdF6X1ZCDx0KZ0KX"
@@ -15351,6 +15519,28 @@
     },
     {
       "album": {
+        "name": "Xaderfaki",
+        "url": "https://open.spotify.com/album/5KKaAKZ9zTKhdv35BMEFlA"
+      },
+      "artists": [
+        {
+          "name": "Mad Clip",
+          "url": "https://open.spotify.com/artist/3KcZf8BFeFBtnGyOZmUggd"
+        },
+        {
+          "name": "Mike G",
+          "url": "https://open.spotify.com/artist/7zYmrye7LvmpMkfHWrENu9"
+        }
+      ],
+      "date_added": "2026-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130370,
+      "name": "Xaderfaki",
+      "url": "https://open.spotify.com/track/3eOP36Zkssv8hZOkn3G7Qe"
+    },
+    {
+      "album": {
         "name": "ZIZEL",
         "url": "https://open.spotify.com/album/3ZiPfcm1SdyAsuOqHkuM1j"
       },
@@ -15806,6 +15996,28 @@
       "duration_ms": 121959,
       "name": "\u0391\u03c0\u03bb\u03bf\u03c0\u03bf\u03af\u03b7\u03c3\u03b7",
       "url": "https://open.spotify.com/track/34CUQSVQBh9BF24yYkaXZb"
+    },
+    {
+      "album": {
+        "name": "\u0391\u03c4\u03b5\u03bb\u03b9\u03ad",
+        "url": "https://open.spotify.com/album/2y85afbwnxX8q0yGoCqDzu"
+      },
+      "artists": [
+        {
+          "name": "Papaz\u00f3",
+          "url": "https://open.spotify.com/artist/31z8duLz87iJxfXN5PoltZ"
+        },
+        {
+          "name": "Akylas",
+          "url": "https://open.spotify.com/artist/0ryXG4cu4Ac81CojYsKcTL"
+        }
+      ],
+      "date_added": "2026-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "\u0391\u03c4\u03b5\u03bb\u03b9\u03ad",
+      "url": "https://open.spotify.com/track/0vXYrIUdPXRvARKMJT1E98"
     },
     {
       "album": {

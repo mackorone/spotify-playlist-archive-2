@@ -1,12 +1,12 @@
 {
   "description": "This is Greeicy. The essential tracks, all in one playlist.",
-  "num_followers": 133093,
+  "num_followers": 133116,
   "original_name": "This Is Greeicy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahI/gAAAAADgJU1SlpkKYihf5CQARynL",
+  "snapshot_id": "ahORAAAAAADNAYc0TI3vsrhLqXKF3i6Q",
   "tracks": [
     {
       "added_at": null,
@@ -303,6 +303,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "TINI TINI TINI",
+        "url": "https://open.spotify.com/album/7LP6bUlMdnuqeP2etuw7wI"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        },
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "duration_ms": 159187,
+      "name": "22",
+      "url": "https://open.spotify.com/track/0AsWM30PAtdxvAph5aYXAW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "VIAJANTE",
         "url": "https://open.spotify.com/album/0gzWP8t8G8V09DBDzrDL8h"
       },
@@ -323,26 +343,6 @@
       "duration_ms": 208859,
       "name": "2005",
       "url": "https://open.spotify.com/track/6hY6LMOTZOWUOZMk4wPW92"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "TINI TINI TINI",
-        "url": "https://open.spotify.com/album/7LP6bUlMdnuqeP2etuw7wI"
-      },
-      "artists": [
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        },
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        }
-      ],
-      "duration_ms": 159187,
-      "name": "22",
-      "url": "https://open.spotify.com/track/0AsWM30PAtdxvAph5aYXAW"
     },
     {
       "added_at": null,
@@ -479,18 +479,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Espejo",
-        "url": "https://open.spotify.com/album/3FMvXzHpimh12Hzcx36eqW"
+        "name": "CANDELA",
+        "url": "https://open.spotify.com/album/0W4uzJosq3k7sQTilfzo3t"
       },
       "artists": [
         {
           "name": "Greeicy",
           "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        },
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
         }
       ],
-      "duration_ms": 158373,
-      "name": "Espejo",
-      "url": "https://open.spotify.com/track/5bvIt09E0tg9YKlcncjacf"
+      "duration_ms": 148200,
+      "name": "Solecito Ven\u00ed",
+      "url": "https://open.spotify.com/track/6Ue84aBdSKDtyA493wcVfD"
     },
     {
       "added_at": null,
@@ -511,6 +515,22 @@
       "duration_ms": 175853,
       "name": "Lejos Conmigo",
       "url": "https://open.spotify.com/track/4c1gXSj2oEYywSfN6iOwGu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Espejo",
+        "url": "https://open.spotify.com/album/3FMvXzHpimh12Hzcx36eqW"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "duration_ms": 158373,
+      "name": "Espejo",
+      "url": "https://open.spotify.com/track/5bvIt09E0tg9YKlcncjacf"
     },
     {
       "added_at": null,
@@ -644,13 +664,13 @@
           "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
         },
         {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+          "name": "Branbel",
+          "url": "https://open.spotify.com/artist/1VmUUb7wBfRQKnq1hgVaGS"
         }
       ],
-      "duration_ms": 148200,
-      "name": "Solecito Ven\u00ed",
-      "url": "https://open.spotify.com/track/6Ue84aBdSKDtyA493wcVfD"
+      "duration_ms": 214035,
+      "name": "Al Lado De Usted",
+      "url": "https://open.spotify.com/track/0lsP1iCoXTbXiEGYhmdtnz"
     },
     {
       "added_at": null,
@@ -755,26 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CANDELA",
-        "url": "https://open.spotify.com/album/0W4uzJosq3k7sQTilfzo3t"
-      },
-      "artists": [
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        },
-        {
-          "name": "Branbel",
-          "url": "https://open.spotify.com/artist/1VmUUb7wBfRQKnq1hgVaGS"
-        }
-      ],
-      "duration_ms": 214035,
-      "name": "Al Lado De Usted",
-      "url": "https://open.spotify.com/track/0lsP1iCoXTbXiEGYhmdtnz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Perd\u00f3n",
         "url": "https://open.spotify.com/album/3mS6qSzJvfbFkhLsp6hO8P"
       },
@@ -871,6 +871,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "CANDELA",
+        "url": "https://open.spotify.com/album/0W4uzJosq3k7sQTilfzo3t"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        },
+        {
+          "name": "Calema",
+          "url": "https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um"
+        }
+      ],
+      "duration_ms": 183044,
+      "name": "D\u00f3nde, C\u00f3mo y Cu\u00e1ndo?",
+      "url": "https://open.spotify.com/track/2a6SSmS7AVSTZ9CoxNGl8Y"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pantera",
         "url": "https://open.spotify.com/album/10vK60mLIm42qqDe2u4YPV"
       },
@@ -891,26 +911,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Magia de Tus Ojos (Versi\u00f3n Pop)",
-        "url": "https://open.spotify.com/album/1CpCyWZRRyqOGAGIahFbph"
-      },
-      "artists": [
-        {
-          "name": "Joss Favela",
-          "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
-        },
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        }
-      ],
-      "duration_ms": 168750,
-      "name": "La Magia de Tus Ojos - Versi\u00f3n Pop",
-      "url": "https://open.spotify.com/track/3GhOpiYR8x3fSTohVMHOWD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Perfecta",
         "url": "https://open.spotify.com/album/7qFvB7ZvDIud6x16xMv3Ur"
       },
@@ -927,6 +927,26 @@
       "duration_ms": 182533,
       "name": "Perfecta",
       "url": "https://open.spotify.com/track/5gH9CSkFW45IjfocI8MPsb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Magia de Tus Ojos (Versi\u00f3n Pop)",
+        "url": "https://open.spotify.com/album/1CpCyWZRRyqOGAGIahFbph"
+      },
+      "artists": [
+        {
+          "name": "Joss Favela",
+          "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
+        },
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "duration_ms": 168750,
+      "name": "La Magia de Tus Ojos - Versi\u00f3n Pop",
+      "url": "https://open.spotify.com/track/3GhOpiYR8x3fSTohVMHOWD"
     },
     {
       "added_at": null,
@@ -963,22 +983,6 @@
       "duration_ms": 171520,
       "name": "Contigo",
       "url": "https://open.spotify.com/track/0o0eubjweqWRrZ4PuW8s3n"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ef\u00edmero",
-        "url": "https://open.spotify.com/album/399gq5SAYmEAG8WcmsaSoq"
-      },
-      "artists": [
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        }
-      ],
-      "duration_ms": 209780,
-      "name": "Ef\u00edmero",
-      "url": "https://open.spotify.com/track/65752X0pjHO407mHsCTjwn"
     }
   ],
   "unique_name": "This Is Greeicy",

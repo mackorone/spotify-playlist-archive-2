@@ -12591,6 +12591,24 @@
     },
     {
       "album": {
+        "name": "Free Wheeling",
+        "url": "https://open.spotify.com/album/2mRgxy62xHxJDtNMGB7mx3"
+      },
+      "artists": [
+        {
+          "name": "Le Ren",
+          "url": "https://open.spotify.com/artist/338ANSuWEHPphBye1qDGvF"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229592,
+      "name": "Free Wheeling",
+      "url": "https://open.spotify.com/track/43DKVQnMysID1lXOaHqG9n"
+    },
+    {
+      "album": {
         "name": "Friday On My Mind",
         "url": "https://open.spotify.com/album/0OfxgAV6PQcDKaxLwScMU6"
       },
@@ -27718,6 +27736,24 @@
       "duration_ms": 291736,
       "name": "Residual Bliss",
       "url": "https://open.spotify.com/track/76vlleSRtF35kWczmAeETH"
+    },
+    {
+      "album": {
+        "name": "Revolver",
+        "url": "https://open.spotify.com/album/7D9oDftpNeBHA5P4XN1AL3"
+      },
+      "artists": [
+        {
+          "name": "Mallory Hawk",
+          "url": "https://open.spotify.com/artist/54v01c74ZMDG5AsKmVQcvD"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268104,
+      "name": "Revolver",
+      "url": "https://open.spotify.com/track/1qqnMYAYR2nNZyiGJzSTNU"
     },
     {
       "album": {

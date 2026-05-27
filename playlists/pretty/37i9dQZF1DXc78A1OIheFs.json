@@ -1,6 +1,6 @@
 {
   "description": "Discover the best in new music from Aotearoa. Cover: Lorde",
-  "num_followers": 19357,
+  "num_followers": 19359,
   "original_name": "The Local List Aotearoa",
   "owner": {
     "name": "Spotify",
@@ -487,22 +487,6 @@
     {
       "added_at": "2026-05-25 06:05:06",
       "album": {
-        "name": "Eldest Daughter Of An Eldest Daughter",
-        "url": "https://open.spotify.com/album/4a5uJvHjC5NrORjUrtCV55"
-      },
-      "artists": [
-        {
-          "name": "Kiki Rockwell",
-          "url": "https://open.spotify.com/artist/5HuKMWteBRI09tWyKeQE1F"
-        }
-      ],
-      "duration_ms": 266706,
-      "name": "Faery King",
-      "url": "https://open.spotify.com/track/3jMJ7s8FQupDa1oRpaQsCc"
-    },
-    {
-      "added_at": "2026-05-25 06:05:06",
-      "album": {
         "name": "We Belong (feat. Corrella & L.A.B)",
         "url": "https://open.spotify.com/album/1sFjvQK6wmmRgMVAxVFVDA"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 215273,
       "name": "We Belong (feat. Corrella & L.A.B)",
       "url": "https://open.spotify.com/track/0lbtD3G02sIgY1QABgGlvn"
+    },
+    {
+      "added_at": "2026-05-25 06:05:06",
+      "album": {
+        "name": "Eldest Daughter Of An Eldest Daughter",
+        "url": "https://open.spotify.com/album/4a5uJvHjC5NrORjUrtCV55"
+      },
+      "artists": [
+        {
+          "name": "Kiki Rockwell",
+          "url": "https://open.spotify.com/artist/5HuKMWteBRI09tWyKeQE1F"
+        }
+      ],
+      "duration_ms": 266706,
+      "name": "Faery King",
+      "url": "https://open.spotify.com/track/3jMJ7s8FQupDa1oRpaQsCc"
     },
     {
       "added_at": "2026-05-25 06:05:06",
@@ -627,6 +627,22 @@
     {
       "added_at": "2026-05-25 06:05:06",
       "album": {
+        "name": "East Coast",
+        "url": "https://open.spotify.com/album/7IdwGiHgVmpBrmcBA157TK"
+      },
+      "artists": [
+        {
+          "name": "Indy",
+          "url": "https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ"
+        }
+      ],
+      "duration_ms": 194933,
+      "name": "East Coast",
+      "url": "https://open.spotify.com/track/64ISc1GmFnEbkHVY91YQtk"
+    },
+    {
+      "added_at": "2026-05-25 06:05:06",
+      "album": {
         "name": "The Loop",
         "url": "https://open.spotify.com/album/6ChpVLf5APqbBBmgAyXMvO"
       },
@@ -643,18 +659,38 @@
     {
       "added_at": "2026-05-25 06:05:06",
       "album": {
-        "name": "East Coast",
-        "url": "https://open.spotify.com/album/7IdwGiHgVmpBrmcBA157TK"
+        "name": "The//Glow",
+        "url": "https://open.spotify.com/album/0zKngSkNENfHZqjZsaDTXz"
       },
       "artists": [
         {
-          "name": "Indy",
-          "url": "https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ"
+          "name": "Mild Orange",
+          "url": "https://open.spotify.com/artist/6yXBFHhojjdwKoop55NsHf"
         }
       ],
-      "duration_ms": 194933,
-      "name": "East Coast",
-      "url": "https://open.spotify.com/track/64ISc1GmFnEbkHVY91YQtk"
+      "duration_ms": 234947,
+      "name": "Searching For",
+      "url": "https://open.spotify.com/track/4F9eoe2uxpphjdgJAgBl8J"
+    },
+    {
+      "added_at": "2026-05-25 06:05:06",
+      "album": {
+        "name": "Light Up",
+        "url": "https://open.spotify.com/album/0WYgFtAvwebtkkx82v5jr6"
+      },
+      "artists": [
+        {
+          "name": "Jawsh 685",
+          "url": "https://open.spotify.com/artist/56mfhUDKa1vec6rSLZV5Eg"
+        },
+        {
+          "name": "Sean Rii",
+          "url": "https://open.spotify.com/artist/32R0YwtKLXPq4R7VohCY7k"
+        }
+      ],
+      "duration_ms": 172730,
+      "name": "Light Up",
+      "url": "https://open.spotify.com/track/42d047wpzneGfpfHpLLHlc"
     },
     {
       "added_at": "2026-05-25 06:05:06",
@@ -695,42 +731,6 @@
     {
       "added_at": "2026-05-25 06:05:06",
       "album": {
-        "name": "Light Up",
-        "url": "https://open.spotify.com/album/0WYgFtAvwebtkkx82v5jr6"
-      },
-      "artists": [
-        {
-          "name": "Jawsh 685",
-          "url": "https://open.spotify.com/artist/56mfhUDKa1vec6rSLZV5Eg"
-        },
-        {
-          "name": "Sean Rii",
-          "url": "https://open.spotify.com/artist/32R0YwtKLXPq4R7VohCY7k"
-        }
-      ],
-      "duration_ms": 172730,
-      "name": "Light Up",
-      "url": "https://open.spotify.com/track/42d047wpzneGfpfHpLLHlc"
-    },
-    {
-      "added_at": "2026-05-25 06:05:06",
-      "album": {
-        "name": "The//Glow",
-        "url": "https://open.spotify.com/album/0zKngSkNENfHZqjZsaDTXz"
-      },
-      "artists": [
-        {
-          "name": "Mild Orange",
-          "url": "https://open.spotify.com/artist/6yXBFHhojjdwKoop55NsHf"
-        }
-      ],
-      "duration_ms": 234947,
-      "name": "Searching For",
-      "url": "https://open.spotify.com/track/4F9eoe2uxpphjdgJAgBl8J"
-    },
-    {
-      "added_at": "2026-05-25 06:05:06",
-      "album": {
         "name": "Off The Rails",
         "url": "https://open.spotify.com/album/55SaOAkogbiNQQkrX8gFZw"
       },
@@ -763,22 +763,6 @@
     {
       "added_at": "2026-05-25 06:05:06",
       "album": {
-        "name": "CURSE",
-        "url": "https://open.spotify.com/album/0cFnSWyfKw7gmgURlfeQ41"
-      },
-      "artists": [
-        {
-          "name": "Unknown Mortal Orchestra",
-          "url": "https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp"
-        }
-      ],
-      "duration_ms": 148525,
-      "name": "DEATH COMES FROM THE SKY",
-      "url": "https://open.spotify.com/track/7xkyqFdogcqpGKkn3baJ6d"
-    },
-    {
-      "added_at": "2026-05-25 06:05:06",
-      "album": {
         "name": "Letting Love Die",
         "url": "https://open.spotify.com/album/61a4JwnOCbXaA2hUwuEynG"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 179000,
       "name": "Letting Love Die",
       "url": "https://open.spotify.com/track/20sCb0w64BoQzrRzmaSl4g"
+    },
+    {
+      "added_at": "2026-05-25 06:05:06",
+      "album": {
+        "name": "CURSE",
+        "url": "https://open.spotify.com/album/0cFnSWyfKw7gmgURlfeQ41"
+      },
+      "artists": [
+        {
+          "name": "Unknown Mortal Orchestra",
+          "url": "https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp"
+        }
+      ],
+      "duration_ms": 148525,
+      "name": "DEATH COMES FROM THE SKY",
+      "url": "https://open.spotify.com/track/7xkyqFdogcqpGKkn3baJ6d"
     },
     {
       "added_at": "2026-05-25 06:05:06",
@@ -847,6 +847,22 @@
     {
       "added_at": "2026-05-25 06:05:06",
       "album": {
+        "name": "tomato baby",
+        "url": "https://open.spotify.com/album/7J8vbSM16wFVxHnXfiLGIV"
+      },
+      "artists": [
+        {
+          "name": "hanbee",
+          "url": "https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk"
+        }
+      ],
+      "duration_ms": 168582,
+      "name": "tomato baby",
+      "url": "https://open.spotify.com/track/126hNkonJst3ARf4I2ACqW"
+    },
+    {
+      "added_at": "2026-05-25 06:05:06",
+      "album": {
         "name": "Bends Not Breaks",
         "url": "https://open.spotify.com/album/4HPIDNQCkOV04zaCCGUtkL"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 169693,
       "name": "Drag",
       "url": "https://open.spotify.com/track/3L92bNW7G5XBNEOztoebiK"
-    },
-    {
-      "added_at": "2026-05-25 06:05:06",
-      "album": {
-        "name": "tomato baby",
-        "url": "https://open.spotify.com/album/7J8vbSM16wFVxHnXfiLGIV"
-      },
-      "artists": [
-        {
-          "name": "hanbee",
-          "url": "https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk"
-        }
-      ],
-      "duration_ms": 168582,
-      "name": "tomato baby",
-      "url": "https://open.spotify.com/track/126hNkonJst3ARf4I2ACqW"
     },
     {
       "added_at": "2026-05-25 06:05:06",
@@ -987,22 +987,6 @@
     {
       "added_at": "2026-05-25 06:05:06",
       "album": {
-        "name": "Gold Things",
-        "url": "https://open.spotify.com/album/3udQKwBiO7fJZcQTwkJ8j5"
-      },
-      "artists": [
-        {
-          "name": "Office Dog",
-          "url": "https://open.spotify.com/artist/1Jcg0RFzOa8f1VwmdWNEr5"
-        }
-      ],
-      "duration_ms": 189906,
-      "name": "Gold Things",
-      "url": "https://open.spotify.com/track/3wH727bYhimLg5cCL9ZCy7"
-    },
-    {
-      "added_at": "2026-05-25 06:05:06",
-      "album": {
         "name": "Maumahara Noa Ahau",
         "url": "https://open.spotify.com/album/1M03YWeJdRd1OhFD4g0QMp"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 170691,
       "name": "Maumahara Noa Ahau",
       "url": "https://open.spotify.com/track/6425BbzJ8gGY9ossgxcQP4"
+    },
+    {
+      "added_at": "2026-05-25 06:05:06",
+      "album": {
+        "name": "Gold Things",
+        "url": "https://open.spotify.com/album/3udQKwBiO7fJZcQTwkJ8j5"
+      },
+      "artists": [
+        {
+          "name": "Office Dog",
+          "url": "https://open.spotify.com/artist/1Jcg0RFzOa8f1VwmdWNEr5"
+        }
+      ],
+      "duration_ms": 189906,
+      "name": "Gold Things",
+      "url": "https://open.spotify.com/track/3wH727bYhimLg5cCL9ZCy7"
     },
     {
       "added_at": "2026-05-25 06:05:06",
@@ -1263,18 +1263,22 @@
     {
       "added_at": "2026-05-25 06:05:06",
       "album": {
-        "name": "The War On Art",
-        "url": "https://open.spotify.com/album/40kwfY8ftMdKWH2gpYGyWe"
+        "name": "Holding Your Hand",
+        "url": "https://open.spotify.com/album/1Ggks2L6vGzHraAO2a98gZ"
       },
       "artists": [
         {
-          "name": "Robinson and The Romantics",
-          "url": "https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8"
+          "name": "SACHI",
+          "url": "https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR"
+        },
+        {
+          "name": "Poppy Baskcomb",
+          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
         }
       ],
-      "duration_ms": 184684,
-      "name": "The War On Art",
-      "url": "https://open.spotify.com/track/0xvUrLHBEKgrd8kP0khZJz"
+      "duration_ms": 152603,
+      "name": "Holding Your Hand",
+      "url": "https://open.spotify.com/track/1Ve2EdxdPBAA9wOiDdkS4y"
     }
   ],
   "unique_name": "The Local List Aotearoa",

@@ -1,12 +1,12 @@
 {
   "description": "This is Danna Paola. The essential tracks, all in one playlist.",
-  "num_followers": 235557,
+  "num_followers": 235551,
   "original_name": "This Is Danna Paola",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahI/gAAAAAChQf2FvDMvc3kXArgRnEmG",
+  "snapshot_id": "ahORAAAAAACfLDfRW/1AVysEblp0I9Ht",
   "tracks": [
     {
       "added_at": null,
@@ -120,8 +120,8 @@
           "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
         },
         {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+          "name": "DANNA",
+          "url": "https://open.spotify.com/artist/3Lk8ifX8dLKXls1ZCZAHgc"
         }
       ],
       "duration_ms": 198766,
@@ -719,26 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blade Runner Black Lotus (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/336Vo0ixkxxaehT3f6bBMk"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 172320,
-      "name": "Rescue Me - From The Original Television Soundtrack Blade Runner Black Lotus",
-      "url": "https://open.spotify.com/track/1xGU99x3GcVbu1eae6K5cZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Regueton Mix 2022 \ud83d\ude0d",
         "url": "https://open.spotify.com/album/3tuokMaTjnuhL9A8dvLkze"
       },
@@ -755,6 +735,26 @@
       "duration_ms": 188546,
       "name": "Cachito",
       "url": "https://open.spotify.com/track/1fcB9qo3tBaelcsL1nnATU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blade Runner Black Lotus (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/336Vo0ixkxxaehT3f6bBMk"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 172320,
+      "name": "Rescue Me - From The Original Television Soundtrack Blade Runner Black Lotus",
+      "url": "https://open.spotify.com/track/1xGU99x3GcVbu1eae6K5cZ"
     },
     {
       "added_at": null,

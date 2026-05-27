@@ -2,9 +2,9 @@
 
 ### [Punk Japan](https://open.spotify.com/playlist/37i9dQZF1DX7uwh9GrVLfz)
 
-> The legendary classics meet the newest cutting edge\. This is Japanese punk\. / レジェンドも新世代も一つの叫びに。進化し続ける日本のパンク・ロックを特集。Cover: テレビ大陸音頭
+> The legendary classics meet the newest cutting edge\. This is Japanese punk\. / レジェンドも新世代も一つの叫びに。進化し続ける日本のパンク・ロックを特集。Cover: Recca
 
-895 songs - 1 day 23 hr 13 min
+898 songs - 1 day 23 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | ["Let it die \-Subete wa isutori game\-" \(Let it die \-All is musical chairs\-\)](https://open.spotify.com/track/2TAxUxm124Yt8hvtUS9oXi) | [PAN](https://open.spotify.com/artist/2YKxuLK7kkCTYnTkX4O17T) | [Goo Goo Goo](https://open.spotify.com/album/7xgE9X3dQw5GBMognMf1oE) | 3:12 | 2022-07-14 | 2025-05-25 |
 | [1986](https://open.spotify.com/track/5d0XlR9EKCpbQHX8g0JbQh) | [DOTSUITARUNEN](https://open.spotify.com/artist/3AVCjqVpripxn9rQ1sC7Vb) | [1986](https://open.spotify.com/album/61uS7DM6h3la9sI1iTuuwS) | 5:56 | 2022-05-19 | 2022-07-27 |
 | [20th CENTURY BOY](https://open.spotify.com/track/4O2v3PvNY0BlVuq4oyAqMA) | [PET](https://open.spotify.com/artist/7GYpun631o8dGqDi1vpTJL) | [DANCE!DANCE!DANCE!](https://open.spotify.com/album/3vbuPOde056RverUHaTuBz) | 3:39 | 2022-12-20 | 2023-01-11 |
+| [21](https://open.spotify.com/track/2qnxyCb1YrprTYs5wEqSgG) | [Recca](https://open.spotify.com/artist/0qLUMuVVobqGNCZSys4501) | [Emotional Words](https://open.spotify.com/album/5Cf8sj86NH7OCZVZVBxfjV) | 2:29 | 2026-05-26 |  |
 | [22](https://open.spotify.com/track/54v2yRvHP4rdKNZLtyBbbQ) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [覚悟を決めろ!](https://open.spotify.com/album/2eoWg1Bc1vn6m4HxSwya2v) | 2:22 | 2024-03-07 | 2025-01-08 |
 | [262](https://open.spotify.com/track/0BS35g5cQj8eweznR29blw) | [matsuri](https://open.spotify.com/artist/2uiEH6IIPxjVLp4VJUr0iV) | [Confession](https://open.spotify.com/album/2xa9dMz7X1q3jonUFjGEFP) | 3:45 | 2023-08-24 | 2023-10-04 |
 | [2時間なんもしなかった](https://open.spotify.com/track/08u7tWny37haGGVHQBWF7z) | [Wasureranneyo](https://open.spotify.com/artist/7mhywHwc3ElwYwiMLEsduP) | [2時間なんもしなかった](https://open.spotify.com/album/68Nvqg30WnytdBgACaK9o3) | 1:24 | 2023-07-20 | 2023-08-02 |
@@ -142,7 +143,7 @@
 | [Dong Dong](https://open.spotify.com/track/1fzRinte8afs4twwkhFAmF) | [Czecho No Republic](https://open.spotify.com/artist/1FdojLtbHge9K5DlOsHrkd) | [Dong Dong](https://open.spotify.com/album/2svUzAWqaFHVBmweXn32I6) | 4:46 | 2022-06-02 | 2022-07-26 |
 | [Down On The Road](https://open.spotify.com/track/7dfPcDPQI7b4yCSORNxsin) | [the JUMPS](https://open.spotify.com/artist/3zbk89SP4P4OrSeHco25aO) | [Rebel Banquet](https://open.spotify.com/album/2LI6uhz4YtjNqMibrnYApf) | 2:56 | 2022-11-01 | 2022-11-16 |
 | [DOWN TO HELL](https://open.spotify.com/track/4qauhp8obl2RNnBNZ61BdW) | [SECRET 7 LINE](https://open.spotify.com/artist/1UQk50lmTtdKtet6abI4vz) | [THE SOUND OF US](https://open.spotify.com/album/3F91Tn3AFDYB6A3wSZFppJ) | 2:51 | 2022-05-12 | 2022-07-29 |
-| [Drain Water](https://open.spotify.com/track/0zSJONiunE3g3fGjq7W4kv) | [SHANK](https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF) | [STEADY](https://open.spotify.com/album/6a3SLIQtIoOTAUSRXRGq8w) | 2:11 | 2022-05-12 |  |
+| [Drain Water](https://open.spotify.com/track/0zSJONiunE3g3fGjq7W4kv) | [SHANK](https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF) | [STEADY](https://open.spotify.com/album/6a3SLIQtIoOTAUSRXRGq8w) | 2:11 | 2022-05-12 | 2026-05-27 |
 | [Droopy Eyes](https://open.spotify.com/track/0e6gFVDT07RdwGOxBXcwAg) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [Just Punk Rock!](https://open.spotify.com/album/5EfZIqlCrpsWAO7PBXLxv3) | 3:56 | 2025-10-14 | 2026-04-01 |
 | [Dry Out](https://open.spotify.com/track/6HYp1dflTcMfpQRqp1bTcg) | [Hollow Suns](https://open.spotify.com/artist/4cTmt76UrY0Mx1c0fVSLdk) | [Dry Out](https://open.spotify.com/album/4dXey12mX4is6Lq8PNCfoe) | 3:11 | 2022-05-19 | 2022-07-09 |
 | [Echoes](https://open.spotify.com/track/6Uyg688fHWz8kJKYGF6qBQ) | [Castaway](https://open.spotify.com/artist/2hxbs29SIzDIKSPzGsIgir) | [With Future Behind](https://open.spotify.com/album/7nWMrzNZ9APVAzVrIrYQMw) | 2:39 | 2022-05-31 | 2022-07-26 |
@@ -266,12 +267,12 @@
 | [Jersey \- 2024 Ver.](https://open.spotify.com/track/2sRIsLEsOaIZkys9An4ET4) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [Prepare Yourself!](https://open.spotify.com/album/6Hl7O9yuwyCItVzotgCqF2) | 2:34 | 2024-03-07 | 2024-04-19 |
 | [JINJYA](https://open.spotify.com/track/2VwNxrdyl0LVnCIEMfUxi0) | [KAZUKIYAMAMORI](https://open.spotify.com/artist/0WUQd2fb6RypKU9htBzm6i) | [JINJYA](https://open.spotify.com/album/31UBWBFS2imNZPWrxwWvwl) | 3:22 | 2022-12-27 | 2023-01-11 |
 | [Juggling](https://open.spotify.com/track/70YGqUBNdA30qVJF7ugRwC) | [HPCP](https://open.spotify.com/artist/72kIwXb0A0YB76BqSt1JDw) | [Juggling](https://open.spotify.com/album/4vHwALMqMouRPeV542w1T2) | 2:58 | 2023-04-18 | 2023-07-05 |
-| [JUST A NUMBER](https://open.spotify.com/track/52IwY7KnlKOP3ZsoKyV8A5) | [Limited Express \(has Gone?\)](https://open.spotify.com/artist/3yp3XG3JRa5Y4xJ2I1DSzs) | [JUST A NUMBER](https://open.spotify.com/album/6uUKinKzdRNdFAjvRqVlNT) | 2:19 | 2026-03-10 |  |
+| [JUST A NUMBER](https://open.spotify.com/track/52IwY7KnlKOP3ZsoKyV8A5) | [Limited Express \(has Gone?\)](https://open.spotify.com/artist/3yp3XG3JRa5Y4xJ2I1DSzs) | [JUST A NUMBER](https://open.spotify.com/album/6uUKinKzdRNdFAjvRqVlNT) | 2:19 | 2026-03-10 | 2026-05-27 |
 | [JUST MY LIFE](https://open.spotify.com/track/6KUy8S7PTSHX2WRW4drmlU) | [S.M.N.](https://open.spotify.com/artist/1D6MlbV9yHTOrlmMNhtEc5) | [BAD HOP](https://open.spotify.com/album/1oud6zNyNjCKTF6lnyTMke) | 2:46 | 2022-07-14 | 2022-07-16 |
 | [jya\-ji](https://open.spotify.com/track/11cyQJ1nsaOPoIfQRqUZep) | [saba sister](https://open.spotify.com/artist/2E9ODwADhw1qvfO9BXAkGX) | [Saba No Ichi](https://open.spotify.com/album/4h0gEOGeWn8Dc22RJ0McFN) | 2:35 | 2022-12-20 | 2024-03-08 |
 | [Ka Waii Inu](https://open.spotify.com/track/5AIstB4OJX9BmqLbiG6766) | [ザ・リラクシンズ](https://open.spotify.com/artist/2TUQcoBWcdL0ID73Hxqn2H) | [Ka Waii Inu](https://open.spotify.com/album/36Ekc9YFr5GhzqLusz4IcJ) | 1:44 | 2022-06-07 | 2022-07-20 |
 | [KARMA](https://open.spotify.com/track/3Ttzu1kON4oI1pClic2ljZ) | [UNMASK aLIVE](https://open.spotify.com/artist/4wZznngFKM7rP9mTk2dRGo) | [UNMASK aLIVE II \(My mother is "CAT"\)](https://open.spotify.com/album/4oWexnDH4lPvRHWiMc23pO) | 3:12 | 2022-05-19 | 2022-05-26 |
-| [keep in BLUE](https://open.spotify.com/track/4VHRNTe2IvZUOHUKVXDIyh) | [Recca](https://open.spotify.com/artist/0qLUMuVVobqGNCZSys4501) | [keep in BLUE](https://open.spotify.com/album/7Mtdxlgv6wZew5Pq4kFZ1O) | 3:10 | 2026-01-27 |  |
+| [keep in BLUE](https://open.spotify.com/track/4VHRNTe2IvZUOHUKVXDIyh) | [Recca](https://open.spotify.com/artist/0qLUMuVVobqGNCZSys4501) | [keep in BLUE](https://open.spotify.com/album/7Mtdxlgv6wZew5Pq4kFZ1O) | 3:10 | 2026-01-27 | 2026-05-27 |
 | [Keep the flame](https://open.spotify.com/track/1ukmyAgMHtsQVEfath7sMw) | [Four Get Me A Nots](https://open.spotify.com/artist/18V3SfrN6aSc7QP3fqmUBp) | [KEEP THE FLAME](https://open.spotify.com/album/7ekbCQJiz0nlW1r9i81cM9) | 3:00 | 2022-05-17 | 2022-07-29 |
 | [KICKIN'YOUR HEAD](https://open.spotify.com/track/3tgAbhJ2TP4HeVdprAqwV9) | [SOBUT](https://open.spotify.com/artist/7wiOTXhsRROAbAm7GDETD4) | [KICKIN' YOUR HEAD](https://open.spotify.com/album/1p07aehQpgQVndO8pnqRwK) | 2:56 | 2022-05-24 | 2022-07-25 |
 | [KILLER,Muddy Greed](https://open.spotify.com/track/0Yo7YBmvoA36hmRAM1F7NN) | [板歯目](https://open.spotify.com/artist/5DlTKCtag7pyzHlED3IGad) | [KILLER,Muddy Greed](https://open.spotify.com/album/3sp61F4s7fSWvfvVODCbU8) | 2:59 | 2022-07-21 | 2022-08-10 |
@@ -569,6 +570,7 @@
 | [The Gift](https://open.spotify.com/track/3fvPawYrM5Mz5lacbZI2US) | [Hi\-STANDARD](https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH) | [THE GIFT](https://open.spotify.com/album/6tSVeeeeJkdMN6mIV4UqsD) | 2:22 | 2022-07-21 | 2023-12-09 |
 | [The Gift](https://open.spotify.com/track/4zbkeCco7LYg7hs4dSxLjR) | [Hi\-STANDARD](https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH) | [THE GIFT](https://open.spotify.com/album/2vvt4IjFm6sLlipjJCB0TH) | 2:22 | 2024-01-04 | 2024-04-19 |
 | [The Gift](https://open.spotify.com/track/7DTQOBUV8zMErJfPkf4zVr) | [Hi\-STANDARD](https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH) | [THE GIFT](https://open.spotify.com/album/0X8NMXBEiGQIRSehZzsXJd) | 2:22 | 2022-05-19 | 2022-07-26 |
+| [The Light That Never Returns](https://open.spotify.com/track/2uvwNtr8fT10KFvJ49ZSZW) | [PK shampoo](https://open.spotify.com/artist/7aGhrSyExo2LIUZJjOkgeJ) | [The Noble Fake Star](https://open.spotify.com/album/5Vk9immrqKyHhVakz7L5JP) | 5:46 | 2026-05-26 |  |
 | [THE NIGHT WITHOUT A STAR](https://open.spotify.com/track/5mqKM1gPH7247hZoE6Q0NR) | [Northern19](https://open.spotify.com/artist/4fsXgCjIFWNkCrO2rHd5da) | [EVERLASTING](https://open.spotify.com/album/4obqQshTLGtcdosdYVlx3D) | 2:56 | 2022-05-12 | 2022-07-25 |
 | [The Show Must Go On](https://open.spotify.com/track/0idEk81Edyuz92Z7qHAMjZ) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [Indian Burn](https://open.spotify.com/album/0IChffToKdKcuJTlz5H7AI) | 2:44 | 2024-02-27 | 2024-03-06 |
 | [The Show Must Go On](https://open.spotify.com/track/0mNGukFmeB8xQmuS9jOs8B) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [The Show Must Go On](https://open.spotify.com/album/59JPnXZfiLpJZbs92Y6Fdt) | 2:44 | 2024-02-13 | 2024-02-29 |
@@ -820,6 +822,7 @@
 | [心の旅](https://open.spotify.com/track/5ZCJoQGMeMyPSeq9Q0bbkl) | [THE FOREVER YOUNG](https://open.spotify.com/artist/6frp4bEF93k77mFn6AbwQd) | [ビューティフルユース](https://open.spotify.com/album/421Ct2V48lwkcLbTySapDj) | 3:27 | 2022-05-12 | 2022-12-16 |
 | [心の銃](https://open.spotify.com/track/0Fk248BqI822A40zhw5iGy) | [ANARCHY](https://open.spotify.com/artist/65PLMuXMHef9HcEW5AamYy) | [亜無亜危異 都市](https://open.spotify.com/album/4fbwOtm9zF6VM9lA9yDPVm) | 2:31 | 2022-05-19 | 2022-07-08 |
 | [心底心中したい](https://open.spotify.com/track/5CGTPjeGyOzMwpQGZOk2oh) | [板歯目](https://open.spotify.com/artist/5DlTKCtag7pyzHlED3IGad) | [心底心中したい](https://open.spotify.com/album/5G1Mtrtfoil5HJTpF9EPb2) | 2:43 | 2026-01-27 | 2026-04-05 |
+| [心臓](https://open.spotify.com/track/2oQNY8QXZK8KHqpFeL5Cqn) | [鈴木実貴子ズ](https://open.spotify.com/artist/68EAsONs8fA8C8e3I4qcV0) | [心臓](https://open.spotify.com/album/5FUozpgA27RvqwQpjBysOw) | 3:19 | 2026-05-26 |  |
 | [応援歌](https://open.spotify.com/track/4Jr2oNi8Tt6W5WZHYvqAsd) | [The Inazuma Sentai](https://open.spotify.com/artist/5tJXdkYUGeqkd1OiHDaNLD) | [勝手にロックンロール](https://open.spotify.com/album/3iXjHOdyjZ7mkiFVeF2CFZ) | 5:29 | 2022-05-12 |  |
 | [怪盗ムーン](https://open.spotify.com/track/7EvNY3frNl7NIewW3NjVcE) | [BEAT THE WAKE](https://open.spotify.com/artist/22JbIJefclLqku5QztFI7T), [THE BIG FANLADY](https://open.spotify.com/artist/11ptp74Lc6z7GsyZ1RxlQo) | [PHANTOM THIEF](https://open.spotify.com/album/1dKTplcG27brsvmz1knC7R) | 3:44 | 2024-04-30 | 2024-09-18 |
 | [恋の奴隷](https://open.spotify.com/track/1nLMsirmwT7VXnXkjl1L7k) | [Za Ninngenn](https://open.spotify.com/artist/4FwqgQ92TpsuzQ82fIosrX) | [OSジャンクション](https://open.spotify.com/album/1EAMPUJLRdeEK8bk5Ov13G) | 3:25 | 2022-05-12 | 2022-07-27 |

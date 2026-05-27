@@ -1,6 +1,6 @@
 {
   "description": "Bach's most popular piano pieces, performed by the greatest pianists of the last century.",
-  "num_followers": 72471,
+  "num_followers": 72475,
   "original_name": "Bach Piano",
   "owner": {
     "name": "Spotify",
@@ -135,26 +135,6 @@
       "duration_ms": 240400,
       "name": "Prelude and Fugue in C sharp (WTK, Book, No.3), BWV 848",
       "url": "https://open.spotify.com/track/4elEMt96zxJre462tcnep2"
-    },
-    {
-      "added_at": "2025-12-23 12:10:07",
-      "album": {
-        "name": "Bach: The Well-Tempered Clavier, Vol. I",
-        "url": "https://open.spotify.com/album/5o6DNs6vKQvQw2gKHgZZVV"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Dina Ugorskaja",
-          "url": "https://open.spotify.com/artist/4tQAfCgY8F9UMSw61sAtcm"
-        }
-      ],
-      "duration_ms": 85599,
-      "name": "The Well-Tempered Clavier, Vol. 1: Prelude No. 11 in F Major, BWV 856",
-      "url": "https://open.spotify.com/track/3JqdRHakoYB8mduMJ9GuYt"
     },
     {
       "added_at": "2025-12-23 12:10:07",
@@ -463,6 +443,26 @@
     {
       "added_at": "2025-12-23 12:10:07",
       "album": {
+        "name": "Bach: Keyboard Partitas Nos. 1-6",
+        "url": "https://open.spotify.com/album/2iIKZ5XSR7wYf6ASeMHK76"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Igor Levit",
+          "url": "https://open.spotify.com/artist/0japPUWMmW3gxqjSB1VEVL"
+        }
+      ],
+      "duration_ms": 679453,
+      "name": "Partita No. 4 in D Major, BWV 828: II. Allemande",
+      "url": "https://open.spotify.com/track/7yA4tm1x2ZqrxcARTUZjvA"
+    },
+    {
+      "added_at": "2025-12-23 12:10:07",
+      "album": {
         "name": "Bach: Keyboard Concertos & Italian Concerto",
         "url": "https://open.spotify.com/album/3hBLPwnpfzfkNmXvVTknmy"
       },
@@ -483,26 +483,6 @@
       "duration_ms": 410160,
       "name": "Concerto No. 3 in D Major, BWV 1054: I. (Allegro)",
       "url": "https://open.spotify.com/track/3auoBtSEoUz3Y0WS2K8vaf"
-    },
-    {
-      "added_at": "2025-12-23 12:10:07",
-      "album": {
-        "name": "Bach: Keyboard Partitas Nos. 1-6",
-        "url": "https://open.spotify.com/album/2iIKZ5XSR7wYf6ASeMHK76"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Igor Levit",
-          "url": "https://open.spotify.com/artist/0japPUWMmW3gxqjSB1VEVL"
-        }
-      ],
-      "duration_ms": 679453,
-      "name": "Partita No. 4 in D Major, BWV 828: II. Allemande",
-      "url": "https://open.spotify.com/track/7yA4tm1x2ZqrxcARTUZjvA"
     },
     {
       "added_at": "2025-12-23 12:10:07",
@@ -975,6 +955,26 @@
       "duration_ms": 84453,
       "name": "Prelude & Fugue in C Minor (Well-Tempered Clavier, Book I, No. 2), BWV 847: I. Prelude",
       "url": "https://open.spotify.com/track/3tRT6unYEvgBTbAdAWPSVp"
+    },
+    {
+      "added_at": "2025-12-23 12:10:07",
+      "album": {
+        "name": "Johann Sebastian Bach",
+        "url": "https://open.spotify.com/album/55XdhiY6nd3iij8msqiagR"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "V\u00edkingur \u00d3lafsson",
+          "url": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
+        }
+      ],
+      "duration_ms": 326520,
+      "name": "Organ Sonata No. 4, BWV 528: II. Andante [Adagio] (Transcr. by August Stradal)",
+      "url": "https://open.spotify.com/track/5Pl2CXDkaP6WEnJ0bpKGOm"
     }
   ],
   "unique_name": "Bach Piano",

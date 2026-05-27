@@ -11235,6 +11235,24 @@
     },
     {
       "album": {
+        "name": "Escuchar al Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/2BTRNrdxtTxAJBXSoWEn2J"
+      },
+      "artists": [
+        {
+          "name": "Leyna y Estos Otros",
+          "url": "https://open.spotify.com/artist/4mVrxEe5cktiKKhmvBEAVu"
+        }
+      ],
+      "date_added": "2026-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262644,
+      "name": "Escuchar al Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/7fiS9EXmshmwnJooHo8EBM"
+    },
+    {
+      "album": {
         "name": "Ese 50 por Ciento de T\u00ed",
         "url": "https://open.spotify.com/album/47apSpjxWLbQqeo0xZqfFQ"
       },
@@ -12570,6 +12588,24 @@
       "duration_ms": 300000,
       "name": "Fly Higher (Deep Fried Dub Remix)",
       "url": "https://open.spotify.com/track/7846E8mm4E8z5b11FsaAAH"
+    },
+    {
+      "album": {
+        "name": "The Mighty Atom (Extended)",
+        "url": "https://open.spotify.com/album/4rnNFEZ6qEnMR4A8LZRqUV"
+      },
+      "artists": [
+        {
+          "name": "Damien.D",
+          "url": "https://open.spotify.com/artist/4G3PjYMwtAnBUszQS4KU1E"
+        }
+      ],
+      "date_added": "2026-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222857,
+      "name": "Fly me",
+      "url": "https://open.spotify.com/track/4fFzQh360xdKJQtPra019D"
     },
     {
       "album": {
@@ -21413,6 +21449,24 @@
     },
     {
       "album": {
+        "name": "Artifacts",
+        "url": "https://open.spotify.com/album/0qvolRFZLkH2f6DvogQEYF"
+      },
+      "artists": [
+        {
+          "name": "Corporate Jacket",
+          "url": "https://open.spotify.com/artist/3cKSHEN4fLm5jJcKRwGXLo"
+        }
+      ],
+      "date_added": "2026-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232952,
+      "name": "LimeTrees",
+      "url": "https://open.spotify.com/track/2yCIeEFZXN6US1Z7bUhU2B"
+    },
+    {
+      "album": {
         "name": "From Genesis To Revelation",
         "url": "https://open.spotify.com/album/7CxtjOUUSEPlLgGqFMDqGU"
       },
@@ -26498,6 +26552,24 @@
       "duration_ms": 200000,
       "name": "O Desafio",
       "url": "https://open.spotify.com/track/6Yhtieupfq7WwgmZPpjyXC"
+    },
+    {
+      "album": {
+        "name": "O Meri Jana",
+        "url": "https://open.spotify.com/album/5iknZYO2dtkvJAThkiYmVY"
+      },
+      "artists": [
+        {
+          "name": "sarkar_1",
+          "url": "https://open.spotify.com/artist/56k4VzCqc8VAxYH8F7Y4l5"
+        }
+      ],
+      "date_added": "2026-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226640,
+      "name": "O Meri Jana",
+      "url": "https://open.spotify.com/track/6JtzlQ3kRkfelRKK4NzpCk"
     },
     {
       "album": {
@@ -31944,7 +32016,7 @@
       ],
       "date_added": "2025-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-27",
       "duration_ms": 345919,
       "name": "Sax on the Rooftop",
       "url": "https://open.spotify.com/track/1h2Lnv72OMUjOzaFjimyXx"

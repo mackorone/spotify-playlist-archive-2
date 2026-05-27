@@ -11,6 +11,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dear God",
+        "url": "https://open.spotify.com/album/4LqPNdoEBqxhaIAdrrstsu"
+      },
+      "artists": [
+        {
+          "name": "The Pretty Reckless",
+          "url": "https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq"
+        }
+      ],
+      "duration_ms": 368505,
+      "name": "Dear God",
+      "url": "https://open.spotify.com/track/1Sn2P4sUV3ii0ykOrST5t4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lost Soul (feat. Jonny Hawkins of NOTHING MORE)",
         "url": "https://open.spotify.com/album/5Z1VRg54WscbvqqXLfT0KX"
       },
@@ -31,22 +47,6 @@
       "duration_ms": 263380,
       "name": "Lost Soul (feat. Jonny Hawkins of NOTHING MORE)",
       "url": "https://open.spotify.com/track/58Wc8a3rwHfJNEh6zlUvG9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dear God",
-        "url": "https://open.spotify.com/album/4LqPNdoEBqxhaIAdrrstsu"
-      },
-      "artists": [
-        {
-          "name": "The Pretty Reckless",
-          "url": "https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq"
-        }
-      ],
-      "duration_ms": 368505,
-      "name": "Dear God",
-      "url": "https://open.spotify.com/track/1Sn2P4sUV3ii0ykOrST5t4"
     },
     {
       "added_at": null,
@@ -103,6 +103,62 @@
     {
       "added_at": null,
       "album": {
+        "name": "Barbie Doll",
+        "url": "https://open.spotify.com/album/147rc4OmHtzzTxLObTAx15"
+      },
+      "artists": [
+        {
+          "name": "Hurricane Wisdom",
+          "url": "https://open.spotify.com/artist/4PooHx6BstbetDtBMrLyV7"
+        },
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        }
+      ],
+      "duration_ms": 166956,
+      "name": "Barbie Doll",
+      "url": "https://open.spotify.com/track/21fyLmQranpgyoYHMMCIuq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "They Just Don't Make the Blues Like They Used To",
+        "url": "https://open.spotify.com/album/7GLQDgguhNXR9tBweRFhS7"
+      },
+      "artists": [
+        {
+          "name": "The Del McCoury Band",
+          "url": "https://open.spotify.com/artist/2fj5pzLyOKDpUOPZs9q3wt"
+        }
+      ],
+      "duration_ms": 209859,
+      "name": "They Just Don't Make the Blues Like They Used To",
+      "url": "https://open.spotify.com/track/6kVhQmwYfgXBWEZtmwPG7N"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Satisfy (Extended Mix)",
+        "url": "https://open.spotify.com/album/6NQWpbD3tPZi9b0WoCOLVs"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+        }
+      ],
+      "duration_ms": 269558,
+      "name": "Satisfy - Extended Mix",
+      "url": "https://open.spotify.com/track/20JGqofKNH4FPjO91u0zHL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "ASK FORGIVENESS, NOT PERMISSION (Pack Edition)",
         "url": "https://open.spotify.com/album/3x6WZYEpBMfPoExY2x114q"
       },
@@ -127,38 +183,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "They Just Don't Make the Blues Like They Used To",
-        "url": "https://open.spotify.com/album/7GLQDgguhNXR9tBweRFhS7"
+        "name": "Dua Lipa - Live From Mexico",
+        "url": "https://open.spotify.com/album/3rvZld1RX30IVhuaLkYKnZ"
       },
       "artists": [
         {
-          "name": "The Del McCoury Band",
-          "url": "https://open.spotify.com/artist/2fj5pzLyOKDpUOPZs9q3wt"
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
         }
       ],
-      "duration_ms": 209859,
-      "name": "They Just Don't Make the Blues Like They Used To",
-      "url": "https://open.spotify.com/track/6kVhQmwYfgXBWEZtmwPG7N"
+      "duration_ms": 291472,
+      "name": "New Rules / Dance The Night Interlude (Live From Mexico)",
+      "url": "https://open.spotify.com/track/7f6k9rS1ah0QjYfw8gtMJi"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Barbie Doll",
-        "url": "https://open.spotify.com/album/147rc4OmHtzzTxLObTAx15"
+        "name": "Untouched (feat. The Veronicas)",
+        "url": "https://open.spotify.com/album/5Cvz9SgkkwHuy8G302pmsx"
       },
       "artists": [
         {
-          "name": "Hurricane Wisdom",
-          "url": "https://open.spotify.com/artist/4PooHx6BstbetDtBMrLyV7"
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/58O8UPrTdl4u2buM0skj94"
         },
         {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+          "name": "The Veronicas",
+          "url": "https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln"
         }
       ],
-      "duration_ms": 166956,
-      "name": "Barbie Doll",
-      "url": "https://open.spotify.com/track/21fyLmQranpgyoYHMMCIuq"
+      "duration_ms": 182571,
+      "name": "Untouched (feat. The Veronicas)",
+      "url": "https://open.spotify.com/track/3oXTMVnWGWLY4mzTFhc7PN"
     },
     {
       "added_at": null,
@@ -179,42 +235,6 @@
       "duration_ms": 153000,
       "name": "We Bring Da Monster",
       "url": "https://open.spotify.com/track/6J73u0ecsNpW5lwPRZjERm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dua Lipa - Live From Mexico",
-        "url": "https://open.spotify.com/album/3rvZld1RX30IVhuaLkYKnZ"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 291472,
-      "name": "New Rules / Dance The Night Interlude (Live From Mexico)",
-      "url": "https://open.spotify.com/track/7f6k9rS1ah0QjYfw8gtMJi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Satisfy (Extended Mix)",
-        "url": "https://open.spotify.com/album/6NQWpbD3tPZi9b0WoCOLVs"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Jazzy",
-          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
-        }
-      ],
-      "duration_ms": 269558,
-      "name": "Satisfy - Extended Mix",
-      "url": "https://open.spotify.com/track/20JGqofKNH4FPjO91u0zHL"
     },
     {
       "added_at": null,
@@ -255,26 +275,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Untouched (feat. The Veronicas)",
-        "url": "https://open.spotify.com/album/5Cvz9SgkkwHuy8G302pmsx"
-      },
-      "artists": [
-        {
-          "name": "Harrison",
-          "url": "https://open.spotify.com/artist/58O8UPrTdl4u2buM0skj94"
-        },
-        {
-          "name": "The Veronicas",
-          "url": "https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln"
-        }
-      ],
-      "duration_ms": 182571,
-      "name": "Untouched (feat. The Veronicas)",
-      "url": "https://open.spotify.com/track/3oXTMVnWGWLY4mzTFhc7PN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wave Gods 2: Cosmos Brothers",
         "url": "https://open.spotify.com/album/1xrYyIlIIW1GbTsmbog6DU"
       },
@@ -292,7 +292,7 @@
           "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
         }
       ],
-      "duration_ms": 145286,
+      "duration_ms": 145416,
       "name": "Addictive",
       "url": "https://open.spotify.com/track/2IRy8KO82cj5oQH5iFqlTe"
     },
@@ -315,6 +315,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Dethalbum DKXX: Dethmastered (Remixed & Remastered)",
+        "url": "https://open.spotify.com/album/0FdfJuF34mrNIfGSIaCBIn"
+      },
+      "artists": [
+        {
+          "name": "Metalocalypse: Dethklok",
+          "url": "https://open.spotify.com/artist/7u12AuhJ5AaJIgZAZe0US8"
+        }
+      ],
+      "duration_ms": 204293,
+      "name": "Murmaider - Remixed & Remastered",
+      "url": "https://open.spotify.com/track/7jmvNb79ULSmGqEwo2HCDo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "IDEAR",
         "url": "https://open.spotify.com/album/0AZOMZBxgdw9W53D0KG2XO"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 121384,
       "name": "IDEAR",
       "url": "https://open.spotify.com/track/3d2LaKwruMSaImtP2pQdJK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Dethalbum DKXX: Dethmastered (Remixed & Remastered)",
-        "url": "https://open.spotify.com/album/0FdfJuF34mrNIfGSIaCBIn"
-      },
-      "artists": [
-        {
-          "name": "Metalocalypse: Dethklok",
-          "url": "https://open.spotify.com/artist/7u12AuhJ5AaJIgZAZe0US8"
-        }
-      ],
-      "duration_ms": 261680,
-      "name": "Go Forth and Die - Remixed & Remastered",
-      "url": "https://open.spotify.com/track/5699mNWw0hVsftDTfeqZl8"
     },
     {
       "added_at": null,
@@ -367,26 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aftertaste (Inspired by the Original Motion Picture K-POPS!)",
-        "url": "https://open.spotify.com/album/5wZ5I06szDqpZL5hfjNwtd"
-      },
-      "artists": [
-        {
-          "name": "DEAN",
-          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        }
-      ],
-      "duration_ms": 183906,
-      "name": "Aftertaste - Inspired by the Original Motion Picture K-POPS!",
-      "url": "https://open.spotify.com/track/3b8Ft7BzZj4yPnBU4IDhHX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "In The Stars",
         "url": "https://open.spotify.com/album/1nk0CV2agKlG3G0dV4vyqK"
       },
@@ -403,134 +383,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fat Joe (with Demrick & Kail Problems)",
-        "url": "https://open.spotify.com/album/4vNS1DSIf3M7v5z8CD6xmt"
+        "name": "Aftertaste (Inspired by the Original Motion Picture K-POPS!)",
+        "url": "https://open.spotify.com/album/5wZ5I06szDqpZL5hfjNwtd"
       },
       "artists": [
         {
-          "name": "Wax",
-          "url": "https://open.spotify.com/artist/36kzCQhGfJzrLuZzrHweNV"
+          "name": "DEAN",
+          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
         },
         {
-          "name": "DJ Hoppa",
-          "url": "https://open.spotify.com/artist/7zuoqJAXDtNaLzxxm4IShD"
-        },
-        {
-          "name": "Demrick",
-          "url": "https://open.spotify.com/artist/3hEgzEeaZ0hb3UXx1U1JRR"
-        },
-        {
-          "name": "Kail Problems",
-          "url": "https://open.spotify.com/artist/41HT5cCwGX155b8xvtvtON"
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
         }
       ],
-      "duration_ms": 239000,
-      "name": "Fat Joe (with Demrick & Kail Problems)",
-      "url": "https://open.spotify.com/track/59rfnata7uLr4h548K0vVf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blurry Creatures",
-        "url": "https://open.spotify.com/album/66iw9oiZ2Q6f7ZgGbjFa4U"
-      },
-      "artists": [
-        {
-          "name": "If These Trees Could Talk",
-          "url": "https://open.spotify.com/artist/2GVzsXcXyU95u2EahzwqN7"
-        }
-      ],
-      "duration_ms": 360613,
-      "name": "Blurry Creatures",
-      "url": "https://open.spotify.com/track/4efv0a4iPvex1Kx51KCkZf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dance (Remix)",
-        "url": "https://open.spotify.com/album/3hTvPvn4PKsyzCaZYUZRN0"
-      },
-      "artists": [
-        {
-          "name": "Cory Henry",
-          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
-        },
-        {
-          "name": "Rafael Labate",
-          "url": "https://open.spotify.com/artist/5uy2HuyY3YnA6QmUTXqXvI"
-        }
-      ],
-      "duration_ms": 177096,
-      "name": "Dance (Remix)",
-      "url": "https://open.spotify.com/track/3hhD6tcu0ER2l82vwdg2t7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Allen Ginsberg \u2013 One Hundred",
-        "url": "https://open.spotify.com/album/7MbynfPtG7yBC9H6ZBYhIR"
-      },
-      "artists": [
-        {
-          "name": "Philip Glass",
-          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
-        },
-        {
-          "name": "Allen Ginsberg",
-          "url": "https://open.spotify.com/artist/1yA9QiqL6p9Qo3nHFb8DkT"
-        },
-        {
-          "name": "Anton Batagov",
-          "url": "https://open.spotify.com/artist/6ygtSGdFH18miXSoJCRFCX"
-        }
-      ],
-      "duration_ms": 554733,
-      "name": "Have You Seen This Movie (Distant Figure)",
-      "url": "https://open.spotify.com/track/6KWQus6jYqnjsmIrMtHrtD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Today Sounds Good",
-        "url": "https://open.spotify.com/album/2fzpKbHQ4ZWRugwd9X2mer"
-      },
-      "artists": [
-        {
-          "name": "Like",
-          "url": "https://open.spotify.com/artist/2J2V1PxHVZ1ANtT8Y2UdTS"
-        },
-        {
-          "name": "Phonte",
-          "url": "https://open.spotify.com/artist/5SyCTZ8X8YQCI0J1VRp4iC"
-        },
-        {
-          "name": "Terrace Martin",
-          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
-        }
-      ],
-      "duration_ms": 217931,
-      "name": "Partywitcha",
-      "url": "https://open.spotify.com/track/3pf8OiFxNOQVGZFjKVjDSc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Atmospheric River",
-        "url": "https://open.spotify.com/album/50gG3QfSCU2gGR8MYsrNcS"
-      },
-      "artists": [
-        {
-          "name": "Vansire",
-          "url": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
-        },
-        {
-          "name": "Eliza McLamb",
-          "url": "https://open.spotify.com/artist/5jy9tglmQRLmTmcqz2qyUa"
-        }
-      ],
-      "duration_ms": 195197,
-      "name": "Atmospheric River",
-      "url": "https://open.spotify.com/track/7kWyo0B3kBB1XgDMGbR8qA"
+      "duration_ms": 183906,
+      "name": "Aftertaste - Inspired by the Original Motion Picture K-POPS!",
+      "url": "https://open.spotify.com/track/3b8Ft7BzZj4yPnBU4IDhHX"
     },
     {
       "added_at": null,
@@ -579,6 +447,90 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fat Joe (with Demrick & Kail Problems)",
+        "url": "https://open.spotify.com/album/4vNS1DSIf3M7v5z8CD6xmt"
+      },
+      "artists": [
+        {
+          "name": "Wax",
+          "url": "https://open.spotify.com/artist/36kzCQhGfJzrLuZzrHweNV"
+        },
+        {
+          "name": "DJ Hoppa",
+          "url": "https://open.spotify.com/artist/7zuoqJAXDtNaLzxxm4IShD"
+        },
+        {
+          "name": "Demrick",
+          "url": "https://open.spotify.com/artist/3hEgzEeaZ0hb3UXx1U1JRR"
+        },
+        {
+          "name": "Kail Problems",
+          "url": "https://open.spotify.com/artist/41HT5cCwGX155b8xvtvtON"
+        }
+      ],
+      "duration_ms": 239000,
+      "name": "Fat Joe (with Demrick & Kail Problems)",
+      "url": "https://open.spotify.com/track/59rfnata7uLr4h548K0vVf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Atmospheric River",
+        "url": "https://open.spotify.com/album/50gG3QfSCU2gGR8MYsrNcS"
+      },
+      "artists": [
+        {
+          "name": "Vansire",
+          "url": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
+        },
+        {
+          "name": "Eliza McLamb",
+          "url": "https://open.spotify.com/artist/5jy9tglmQRLmTmcqz2qyUa"
+        }
+      ],
+      "duration_ms": 195197,
+      "name": "Atmospheric River",
+      "url": "https://open.spotify.com/track/7kWyo0B3kBB1XgDMGbR8qA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dance (Remix)",
+        "url": "https://open.spotify.com/album/3hTvPvn4PKsyzCaZYUZRN0"
+      },
+      "artists": [
+        {
+          "name": "Cory Henry",
+          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
+        },
+        {
+          "name": "Rafael Labate",
+          "url": "https://open.spotify.com/artist/5uy2HuyY3YnA6QmUTXqXvI"
+        }
+      ],
+      "duration_ms": 177096,
+      "name": "Dance (Remix)",
+      "url": "https://open.spotify.com/track/3hhD6tcu0ER2l82vwdg2t7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blurry Creatures",
+        "url": "https://open.spotify.com/album/66iw9oiZ2Q6f7ZgGbjFa4U"
+      },
+      "artists": [
+        {
+          "name": "If These Trees Could Talk",
+          "url": "https://open.spotify.com/artist/2GVzsXcXyU95u2EahzwqN7"
+        }
+      ],
+      "duration_ms": 360613,
+      "name": "Blurry Creatures",
+      "url": "https://open.spotify.com/track/4efv0a4iPvex1Kx51KCkZf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "love love FLAKK",
         "url": "https://open.spotify.com/album/59Y7MSsMSEG01NNANmK1Be"
       },
@@ -595,6 +547,54 @@
       "duration_ms": 155039,
       "name": "EL CIELO",
       "url": "https://open.spotify.com/track/60QgNWmJnxSRqz9vbj6pWI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Today Sounds Good",
+        "url": "https://open.spotify.com/album/2fzpKbHQ4ZWRugwd9X2mer"
+      },
+      "artists": [
+        {
+          "name": "Like",
+          "url": "https://open.spotify.com/artist/2J2V1PxHVZ1ANtT8Y2UdTS"
+        },
+        {
+          "name": "Phonte",
+          "url": "https://open.spotify.com/artist/5SyCTZ8X8YQCI0J1VRp4iC"
+        },
+        {
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+        }
+      ],
+      "duration_ms": 217931,
+      "name": "Partywitcha",
+      "url": "https://open.spotify.com/track/3pf8OiFxNOQVGZFjKVjDSc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Allen Ginsberg \u2013 One Hundred",
+        "url": "https://open.spotify.com/album/7MbynfPtG7yBC9H6ZBYhIR"
+      },
+      "artists": [
+        {
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        },
+        {
+          "name": "Allen Ginsberg",
+          "url": "https://open.spotify.com/artist/1yA9QiqL6p9Qo3nHFb8DkT"
+        },
+        {
+          "name": "Anton Batagov",
+          "url": "https://open.spotify.com/artist/6ygtSGdFH18miXSoJCRFCX"
+        }
+      ],
+      "duration_ms": 554733,
+      "name": "Have You Seen This Movie (Distant Figure)",
+      "url": "https://open.spotify.com/track/6KWQus6jYqnjsmIrMtHrtD"
     }
   ],
   "unique_name": "Release Radar (@ajcooke94)",

@@ -1,6 +1,6 @@
 {
   "description": "\u015bwie\u017ce brzmienia na horyzoncie \u2728 Cover: Ania Szlagowska",
-  "num_followers": 25864,
+  "num_followers": 25861,
   "original_name": "up next",
   "owner": {
     "name": "Spotify",
@@ -407,22 +407,6 @@
     {
       "added_at": "2026-05-21 22:02:05",
       "album": {
-        "name": "Middle Child",
-        "url": "https://open.spotify.com/album/40UETJYLuyi0ys3kWhFuXM"
-      },
-      "artists": [
-        {
-          "name": "Amma",
-          "url": "https://open.spotify.com/artist/6rYqTmpl2LNEovR30mauo2"
-        }
-      ],
-      "duration_ms": 212009,
-      "name": "Talking To Jesus",
-      "url": "https://open.spotify.com/track/52cTqjEjB5PEftPWqKxmgD"
-    },
-    {
-      "added_at": "2026-05-21 22:02:05",
-      "album": {
         "name": "Odkochaj",
         "url": "https://open.spotify.com/album/536Y6k6glJY1fMr8jlyZPO"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 163200,
       "name": "Odkochaj",
       "url": "https://open.spotify.com/track/0ALsDccwFMj8QznHPah8fn"
+    },
+    {
+      "added_at": "2026-05-21 22:02:05",
+      "album": {
+        "name": "Middle Child",
+        "url": "https://open.spotify.com/album/40UETJYLuyi0ys3kWhFuXM"
+      },
+      "artists": [
+        {
+          "name": "Amma",
+          "url": "https://open.spotify.com/artist/6rYqTmpl2LNEovR30mauo2"
+        }
+      ],
+      "duration_ms": 212009,
+      "name": "Talking To Jesus",
+      "url": "https://open.spotify.com/track/52cTqjEjB5PEftPWqKxmgD"
     },
     {
       "added_at": "2026-05-21 22:02:05",
@@ -691,22 +691,6 @@
     {
       "added_at": "2026-05-21 22:02:05",
       "album": {
-        "name": "Cinnamon",
-        "url": "https://open.spotify.com/album/4BPGLP2hhaCWdkEJGqZ6sY"
-      },
-      "artists": [
-        {
-          "name": "Jea Mira",
-          "url": "https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3"
-        }
-      ],
-      "duration_ms": 190842,
-      "name": "Cinnamon",
-      "url": "https://open.spotify.com/track/7CxcxeNMisYRbiXULp7L0L"
-    },
-    {
-      "added_at": "2026-05-21 22:02:05",
-      "album": {
         "name": "cisza nocna",
         "url": "https://open.spotify.com/album/4QEgNqclBN0zi57MznoAZr"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 182518,
       "name": "cisza nocna",
       "url": "https://open.spotify.com/track/6c6lldByHVVBfqha25sOor"
+    },
+    {
+      "added_at": "2026-05-21 22:02:05",
+      "album": {
+        "name": "Cinnamon",
+        "url": "https://open.spotify.com/album/4BPGLP2hhaCWdkEJGqZ6sY"
+      },
+      "artists": [
+        {
+          "name": "Jea Mira",
+          "url": "https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3"
+        }
+      ],
+      "duration_ms": 190842,
+      "name": "Cinnamon",
+      "url": "https://open.spotify.com/track/7CxcxeNMisYRbiXULp7L0L"
     },
     {
       "added_at": "2026-05-21 22:02:05",
@@ -859,6 +859,26 @@
     {
       "added_at": "2026-05-21 22:02:05",
       "album": {
+        "name": "kochaj mnie",
+        "url": "https://open.spotify.com/album/3URaw7BgvY2vh5EtECHnta"
+      },
+      "artists": [
+        {
+          "name": "Kajetan Wolas",
+          "url": "https://open.spotify.com/artist/6tpxFh5TlBxnHzrAfFlCXj"
+        },
+        {
+          "name": "Moo Latte",
+          "url": "https://open.spotify.com/artist/3gNjxcKLkMfZYKlLxn0O9F"
+        }
+      ],
+      "duration_ms": 151547,
+      "name": "kochaj mnie",
+      "url": "https://open.spotify.com/track/6ZXczp4DXqMxbaVlEhtMCc"
+    },
+    {
+      "added_at": "2026-05-21 22:02:05",
+      "album": {
         "name": "STILL PRETTY WHEN I CRY",
         "url": "https://open.spotify.com/album/6BHzxy6GWL6m7oHB0UI6nX"
       },
@@ -939,26 +959,6 @@
     {
       "added_at": "2026-05-21 22:02:05",
       "album": {
-        "name": "kochaj mnie",
-        "url": "https://open.spotify.com/album/3URaw7BgvY2vh5EtECHnta"
-      },
-      "artists": [
-        {
-          "name": "Kajetan Wolas",
-          "url": "https://open.spotify.com/artist/6tpxFh5TlBxnHzrAfFlCXj"
-        },
-        {
-          "name": "Moo Latte",
-          "url": "https://open.spotify.com/artist/3gNjxcKLkMfZYKlLxn0O9F"
-        }
-      ],
-      "duration_ms": 151547,
-      "name": "kochaj mnie",
-      "url": "https://open.spotify.com/track/6ZXczp4DXqMxbaVlEhtMCc"
-    },
-    {
-      "added_at": "2026-05-21 22:02:05",
-      "album": {
         "name": "drink\u0142ykshot",
         "url": "https://open.spotify.com/album/1kolE1AX5sUoKmnh7eyGzM"
       },
@@ -1007,18 +1007,18 @@
     {
       "added_at": "2026-05-21 22:02:05",
       "album": {
-        "name": "powiem/nie powiem",
-        "url": "https://open.spotify.com/album/1wnV3DSxRwQzSiPEkQzQ4t"
+        "name": "PORTO",
+        "url": "https://open.spotify.com/album/67Xlepgco8TLDEqBMFZqdn"
       },
       "artists": [
         {
-          "name": "Frank Leen",
-          "url": "https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4"
+          "name": "Kuba Szmajkowsky",
+          "url": "https://open.spotify.com/artist/6VMslcLSscfWZSy98JfNiQ"
         }
       ],
-      "duration_ms": 208055,
-      "name": "powiem/nie powiem",
-      "url": "https://open.spotify.com/track/509mth4lw2dQQcGXtKMHDc"
+      "duration_ms": 149011,
+      "name": "PORTO",
+      "url": "https://open.spotify.com/track/2yC6IrXdV3w6AaReClZIMY"
     },
     {
       "added_at": "2026-05-21 22:02:05",
@@ -1039,18 +1039,18 @@
     {
       "added_at": "2026-05-21 22:02:05",
       "album": {
-        "name": "PORTO",
-        "url": "https://open.spotify.com/album/67Xlepgco8TLDEqBMFZqdn"
+        "name": "powiem/nie powiem",
+        "url": "https://open.spotify.com/album/1wnV3DSxRwQzSiPEkQzQ4t"
       },
       "artists": [
         {
-          "name": "Kuba Szmajkowsky",
-          "url": "https://open.spotify.com/artist/6VMslcLSscfWZSy98JfNiQ"
+          "name": "Frank Leen",
+          "url": "https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4"
         }
       ],
-      "duration_ms": 149011,
-      "name": "PORTO",
-      "url": "https://open.spotify.com/track/2yC6IrXdV3w6AaReClZIMY"
+      "duration_ms": 208055,
+      "name": "powiem/nie powiem",
+      "url": "https://open.spotify.com/track/509mth4lw2dQQcGXtKMHDc"
     },
     {
       "added_at": "2026-05-21 22:02:05",

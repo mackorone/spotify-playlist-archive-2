@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > <a href="https://loremandfriends.substack.com/p/post\-hyperpop\-rockie\-rode\-arima\-ederra">read our substack 🫧  </a>   Bleachers on the cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,186,298 likes - 150 songs - 8 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,186,266 likes - 150 songs - 8 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "Unwind and relax to the soft sound of jazz piano. ",
-  "num_followers": 368477,
+  "num_followers": 368505,
   "original_name": "Relaxing Jazz Piano",
   "owner": {
     "name": "Spotify",
@@ -91,22 +91,6 @@
     {
       "added_at": "2026-05-25 14:11:39",
       "album": {
-        "name": "Late Supper",
-        "url": "https://open.spotify.com/album/40P9mq2kbHM1Pc3LVOqq7o"
-      },
-      "artists": [
-        {
-          "name": "Mark Benson",
-          "url": "https://open.spotify.com/artist/1IaIpFqqzozfCnPECU9vOb"
-        }
-      ],
-      "duration_ms": 185976,
-      "name": "Late Supper",
-      "url": "https://open.spotify.com/track/7bg7LYbKyx7QurwgvVvaRV"
-    },
-    {
-      "added_at": "2026-05-25 14:11:39",
-      "album": {
         "name": "At Joe's",
         "url": "https://open.spotify.com/album/1ZIYs9PhTWTBD4bFfBPBma"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 146550,
       "name": "At Joe's",
       "url": "https://open.spotify.com/track/2mPY4uyeDlGNnaflZHejum"
+    },
+    {
+      "added_at": "2026-05-25 14:11:39",
+      "album": {
+        "name": "Late Supper",
+        "url": "https://open.spotify.com/album/40P9mq2kbHM1Pc3LVOqq7o"
+      },
+      "artists": [
+        {
+          "name": "Mark Benson",
+          "url": "https://open.spotify.com/artist/1IaIpFqqzozfCnPECU9vOb"
+        }
+      ],
+      "duration_ms": 185976,
+      "name": "Late Supper",
+      "url": "https://open.spotify.com/track/7bg7LYbKyx7QurwgvVvaRV"
     },
     {
       "added_at": "2026-05-25 14:11:39",
@@ -587,38 +587,6 @@
     {
       "added_at": "2026-05-25 14:11:39",
       "album": {
-        "name": "Let's Take a Chance",
-        "url": "https://open.spotify.com/album/4wZUH0xUUnZdvHonSugHCA"
-      },
-      "artists": [
-        {
-          "name": "Wiz Senega",
-          "url": "https://open.spotify.com/artist/0Nj1FVgOM1YdKQj3xa6vWP"
-        }
-      ],
-      "duration_ms": 167467,
-      "name": "Let's Take a Chance",
-      "url": "https://open.spotify.com/track/2ssY14WTj7YcA6RaZhItHc"
-    },
-    {
-      "added_at": "2026-05-25 14:11:39",
-      "album": {
-        "name": "Sk\u00f3gafoss",
-        "url": "https://open.spotify.com/album/6mYArGcIpsQxuUXvVQ03qK"
-      },
-      "artists": [
-        {
-          "name": "Haukur \u00d3lafsson",
-          "url": "https://open.spotify.com/artist/6FtBiuWcOOhvkGYHJ9N87w"
-        }
-      ],
-      "duration_ms": 201315,
-      "name": "Sk\u00f3gafoss",
-      "url": "https://open.spotify.com/track/0yGxX6e3dXHreh1YXjQJxs"
-    },
-    {
-      "added_at": "2026-05-25 14:11:39",
-      "album": {
         "name": "Downtown",
         "url": "https://open.spotify.com/album/7K2p7UfYJky7XTUq7aFX0B"
       },
@@ -635,6 +603,22 @@
     {
       "added_at": "2026-05-25 14:11:39",
       "album": {
+        "name": "Let's Take a Chance",
+        "url": "https://open.spotify.com/album/4wZUH0xUUnZdvHonSugHCA"
+      },
+      "artists": [
+        {
+          "name": "Wiz Senega",
+          "url": "https://open.spotify.com/artist/0Nj1FVgOM1YdKQj3xa6vWP"
+        }
+      ],
+      "duration_ms": 167467,
+      "name": "Let's Take a Chance",
+      "url": "https://open.spotify.com/track/2ssY14WTj7YcA6RaZhItHc"
+    },
+    {
+      "added_at": "2026-05-25 14:11:39",
+      "album": {
         "name": "Two Shadows",
         "url": "https://open.spotify.com/album/73vN2nvl4vs9sqEd4Ctvel"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 149591,
       "name": "Two Shadows",
       "url": "https://open.spotify.com/track/0onz00xJtAFBVRlOUHNeVm"
+    },
+    {
+      "added_at": "2026-05-25 14:11:39",
+      "album": {
+        "name": "Sk\u00f3gafoss",
+        "url": "https://open.spotify.com/album/6mYArGcIpsQxuUXvVQ03qK"
+      },
+      "artists": [
+        {
+          "name": "Haukur \u00d3lafsson",
+          "url": "https://open.spotify.com/artist/6FtBiuWcOOhvkGYHJ9N87w"
+        }
+      ],
+      "duration_ms": 201315,
+      "name": "Sk\u00f3gafoss",
+      "url": "https://open.spotify.com/track/0yGxX6e3dXHreh1YXjQJxs"
     },
     {
       "added_at": "2026-05-25 14:11:39",
@@ -683,22 +683,6 @@
     {
       "added_at": "2026-05-25 14:11:39",
       "album": {
-        "name": "Tender Is The Quiet",
-        "url": "https://open.spotify.com/album/4ARwOHjiYYEJs8QVA1dirh"
-      },
-      "artists": [
-        {
-          "name": "Aliz Uveges",
-          "url": "https://open.spotify.com/artist/5AtZWSF011oHJ6ebfhCJpp"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "Tender Is The Quiet",
-      "url": "https://open.spotify.com/track/23h7USfFHcvcPOeFAOIeZi"
-    },
-    {
-      "added_at": "2026-05-25 14:11:39",
-      "album": {
         "name": "Moonlit Moods",
         "url": "https://open.spotify.com/album/75mZ4x4uJIz5pdvOpvdjls"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 172573,
       "name": "Peace is overrated",
       "url": "https://open.spotify.com/track/0sV95W6PXJco0npkcS4UOW"
+    },
+    {
+      "added_at": "2026-05-25 14:11:39",
+      "album": {
+        "name": "Tender Is The Quiet",
+        "url": "https://open.spotify.com/album/4ARwOHjiYYEJs8QVA1dirh"
+      },
+      "artists": [
+        {
+          "name": "Aliz Uveges",
+          "url": "https://open.spotify.com/artist/5AtZWSF011oHJ6ebfhCJpp"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "Tender Is The Quiet",
+      "url": "https://open.spotify.com/track/23h7USfFHcvcPOeFAOIeZi"
     },
     {
       "added_at": "2026-05-25 14:11:39",
@@ -779,22 +779,6 @@
     {
       "added_at": "2026-05-25 14:11:39",
       "album": {
-        "name": "A Touch of Kindness",
-        "url": "https://open.spotify.com/album/3bUEwUGZO7l2nr4WPZwwx3"
-      },
-      "artists": [
-        {
-          "name": "Johnny Blackwood",
-          "url": "https://open.spotify.com/artist/0Cp7RkxzaI0pJm1GvYHuSe"
-        }
-      ],
-      "duration_ms": 136968,
-      "name": "A Touch of Kindness",
-      "url": "https://open.spotify.com/track/30Ts0oF1ycdLf7hxQCD1sF"
-    },
-    {
-      "added_at": "2026-05-25 14:11:39",
-      "album": {
         "name": "Bewitched",
         "url": "https://open.spotify.com/album/2Q5XyVFJf8Lloo3zLhltgJ"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 159615,
       "name": "Bewitched",
       "url": "https://open.spotify.com/track/1cnHFlrnkjFcXA7np39uAd"
+    },
+    {
+      "added_at": "2026-05-25 14:11:39",
+      "album": {
+        "name": "A Touch of Kindness",
+        "url": "https://open.spotify.com/album/3bUEwUGZO7l2nr4WPZwwx3"
+      },
+      "artists": [
+        {
+          "name": "Johnny Blackwood",
+          "url": "https://open.spotify.com/artist/0Cp7RkxzaI0pJm1GvYHuSe"
+        }
+      ],
+      "duration_ms": 136968,
+      "name": "A Touch of Kindness",
+      "url": "https://open.spotify.com/track/30Ts0oF1ycdLf7hxQCD1sF"
     },
     {
       "added_at": "2026-05-25 14:11:39",
@@ -907,22 +907,6 @@
     {
       "added_at": "2026-05-25 14:11:39",
       "album": {
-        "name": "A Fourth Thought",
-        "url": "https://open.spotify.com/album/2C2Qx2Gu3J2rpV1nflr0zE"
-      },
-      "artists": [
-        {
-          "name": "Alur Mcrose",
-          "url": "https://open.spotify.com/artist/4yKXNGfD6RAqqj8VmLQSvF"
-        }
-      ],
-      "duration_ms": 147690,
-      "name": "A Fourth Thought",
-      "url": "https://open.spotify.com/track/163uckCvEz1DOUbpDqjJ7V"
-    },
-    {
-      "added_at": "2026-05-25 14:11:39",
-      "album": {
         "name": "Staying for Tomorrow",
         "url": "https://open.spotify.com/album/4nACEscwiD9bixym2zCTmc"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 203083,
       "name": "Staying for Tomorrow",
       "url": "https://open.spotify.com/track/61MUfbGgxhdkzlVlgx2ur3"
+    },
+    {
+      "added_at": "2026-05-25 14:11:39",
+      "album": {
+        "name": "A Fourth Thought",
+        "url": "https://open.spotify.com/album/2C2Qx2Gu3J2rpV1nflr0zE"
+      },
+      "artists": [
+        {
+          "name": "Alur Mcrose",
+          "url": "https://open.spotify.com/artist/4yKXNGfD6RAqqj8VmLQSvF"
+        }
+      ],
+      "duration_ms": 147690,
+      "name": "A Fourth Thought",
+      "url": "https://open.spotify.com/track/163uckCvEz1DOUbpDqjJ7V"
     },
     {
       "added_at": "2026-05-25 14:11:39",
@@ -971,22 +971,6 @@
     {
       "added_at": "2026-05-25 14:11:39",
       "album": {
-        "name": "Quite a dilemma",
-        "url": "https://open.spotify.com/album/0SWqBR8eqW0LqgJXrPUQcI"
-      },
-      "artists": [
-        {
-          "name": "Camille Blanche",
-          "url": "https://open.spotify.com/artist/6AaWDcxoX78PME15nCCMoa"
-        }
-      ],
-      "duration_ms": 175833,
-      "name": "Quite a dilemma",
-      "url": "https://open.spotify.com/track/0pqVwU2Qh0DqWtCM2Z34R0"
-    },
-    {
-      "added_at": "2026-05-25 14:11:39",
-      "album": {
         "name": "You're glowing",
         "url": "https://open.spotify.com/album/5IJeiLHGAAjCYSos8mkp02"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 161950,
       "name": "You're glowing",
       "url": "https://open.spotify.com/track/5TsR9Rig5dmMzMuAhz9XSM"
+    },
+    {
+      "added_at": "2026-05-25 14:11:39",
+      "album": {
+        "name": "Quite a dilemma",
+        "url": "https://open.spotify.com/album/0SWqBR8eqW0LqgJXrPUQcI"
+      },
+      "artists": [
+        {
+          "name": "Camille Blanche",
+          "url": "https://open.spotify.com/artist/6AaWDcxoX78PME15nCCMoa"
+        }
+      ],
+      "duration_ms": 175833,
+      "name": "Quite a dilemma",
+      "url": "https://open.spotify.com/track/0pqVwU2Qh0DqWtCM2Z34R0"
     },
     {
       "added_at": "2026-05-25 14:11:39",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2026-05-25 14:11:39",
       "album": {
-        "name": "More than love",
-        "url": "https://open.spotify.com/album/7aQarAAHVveMNtKYqWHL4m"
-      },
-      "artists": [
-        {
-          "name": "Laura Romano",
-          "url": "https://open.spotify.com/artist/68FBamhYU8PrfkIQw9hMy8"
-        }
-      ],
-      "duration_ms": 173466,
-      "name": "More than love",
-      "url": "https://open.spotify.com/track/3fYzBnvEKKQdNWt18hUKSG"
-    },
-    {
-      "added_at": "2026-05-25 14:11:39",
-      "album": {
         "name": "A Phonecall Away",
         "url": "https://open.spotify.com/album/5hdqzPNQk3XovPzilrXRHD"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 152733,
       "name": "A Phonecall Away",
       "url": "https://open.spotify.com/track/6p8QgVwYxoDRwFIxH8aEyH"
+    },
+    {
+      "added_at": "2026-05-25 14:11:39",
+      "album": {
+        "name": "More than love",
+        "url": "https://open.spotify.com/album/7aQarAAHVveMNtKYqWHL4m"
+      },
+      "artists": [
+        {
+          "name": "Laura Romano",
+          "url": "https://open.spotify.com/artist/68FBamhYU8PrfkIQw9hMy8"
+        }
+      ],
+      "duration_ms": 173466,
+      "name": "More than love",
+      "url": "https://open.spotify.com/track/3fYzBnvEKKQdNWt18hUKSG"
     },
     {
       "added_at": "2026-05-25 14:11:39",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2026-05-25 14:11:39",
       "album": {
+        "name": "Drift Away",
+        "url": "https://open.spotify.com/album/76BJgGibNh2LYqQfZETaQR"
+      },
+      "artists": [
+        {
+          "name": "Nova Blanche",
+          "url": "https://open.spotify.com/artist/5jiNBpPFvATaOvPifxoOGf"
+        }
+      ],
+      "duration_ms": 165833,
+      "name": "Drift Away",
+      "url": "https://open.spotify.com/track/70bHt1pbqpofJt4JaP6TUD"
+    },
+    {
+      "added_at": "2026-05-25 14:11:39",
+      "album": {
         "name": "Strangers by Midnight",
         "url": "https://open.spotify.com/album/0dRBbv4SyKDfMtcmebe37h"
       },
@@ -1159,22 +1175,6 @@
       "duration_ms": 197382,
       "name": "Be Calm My Friend",
       "url": "https://open.spotify.com/track/1if9t68jDrFkOqFyrAKHVz"
-    },
-    {
-      "added_at": "2026-05-25 14:11:39",
-      "album": {
-        "name": "Drift Away",
-        "url": "https://open.spotify.com/album/76BJgGibNh2LYqQfZETaQR"
-      },
-      "artists": [
-        {
-          "name": "Nova Blanche",
-          "url": "https://open.spotify.com/artist/5jiNBpPFvATaOvPifxoOGf"
-        }
-      ],
-      "duration_ms": 165833,
-      "name": "Drift Away",
-      "url": "https://open.spotify.com/track/70bHt1pbqpofJt4JaP6TUD"
     },
     {
       "added_at": "2026-05-25 14:11:39",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2026-05-25 14:11:39",
       "album": {
-        "name": "Grindavik",
-        "url": "https://open.spotify.com/album/2tShsuIGN8rKlEXTv46tnB"
-      },
-      "artists": [
-        {
-          "name": "Haukur \u00d3lafsson",
-          "url": "https://open.spotify.com/artist/6FtBiuWcOOhvkGYHJ9N87w"
-        }
-      ],
-      "duration_ms": 184272,
-      "name": "Grindavik",
-      "url": "https://open.spotify.com/track/6GWCFQA9xGMcwN5kkzPqXf"
-    },
-    {
-      "added_at": "2026-05-25 14:11:39",
-      "album": {
         "name": "Beneath the Paris Sky",
         "url": "https://open.spotify.com/album/42uGAxoZa4OG9lQfwihx9e"
       },
@@ -1259,18 +1243,18 @@
     {
       "added_at": "2026-05-25 14:11:39",
       "album": {
-        "name": "Here with Me",
-        "url": "https://open.spotify.com/album/5zn6x74Z6tctMhmWTHBxHf"
+        "name": "Grindavik",
+        "url": "https://open.spotify.com/album/2tShsuIGN8rKlEXTv46tnB"
       },
       "artists": [
         {
-          "name": "Jakob Schr\u00f6der",
-          "url": "https://open.spotify.com/artist/2bZm8QiZFS3VRCfRqVP5kE"
+          "name": "Haukur \u00d3lafsson",
+          "url": "https://open.spotify.com/artist/6FtBiuWcOOhvkGYHJ9N87w"
         }
       ],
-      "duration_ms": 197190,
-      "name": "Here with Me",
-      "url": "https://open.spotify.com/track/1Ea4Xe2SCtPJmdeJk4bI17"
+      "duration_ms": 184272,
+      "name": "Grindavik",
+      "url": "https://open.spotify.com/track/6GWCFQA9xGMcwN5kkzPqXf"
     },
     {
       "added_at": "2026-05-25 14:11:39",
@@ -1287,6 +1271,22 @@
       "duration_ms": 162009,
       "name": "I'm Coming Home",
       "url": "https://open.spotify.com/track/2HcSR6uNSe18KXGrHEG3Oi"
+    },
+    {
+      "added_at": "2026-05-25 14:11:39",
+      "album": {
+        "name": "Here with Me",
+        "url": "https://open.spotify.com/album/5zn6x74Z6tctMhmWTHBxHf"
+      },
+      "artists": [
+        {
+          "name": "Jakob Schr\u00f6der",
+          "url": "https://open.spotify.com/artist/2bZm8QiZFS3VRCfRqVP5kE"
+        }
+      ],
+      "duration_ms": 197190,
+      "name": "Here with Me",
+      "url": "https://open.spotify.com/track/1Ea4Xe2SCtPJmdeJk4bI17"
     },
     {
       "added_at": "2026-05-25 14:11:39",

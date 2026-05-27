@@ -4,7 +4,7 @@
 
 > next gen pop<br/>Cover: Emei
 
-2,482 songs - 5 day 1 hr 37 min
+2,483 songs - 5 day 1 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -836,6 +836,7 @@
 | [Girl Of My Dreams \(with SUGA of BTS\)](https://open.spotify.com/track/7DF8lvLdV3htIbuTWpc7lR) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [SUGA](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Fighting Demons](https://open.spotify.com/album/07tZDCAqxSIVEZywk0KDfT) | 3:46 | 2021-12-17 | 2022-02-12 |
 | [Girl Of Your Dreams](https://open.spotify.com/track/0TKw4XKCDwVlDK1DM7gUUg) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [Girl Of Your Dreams](https://open.spotify.com/album/5nm4lP4GBk1ZLhvDjhPU19) | 2:43 | 2022-07-15 | 2022-10-29 |
 | [Girl On The Internet](https://open.spotify.com/track/4sYUUsGf0z6S99Yk7rXWdv) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Girl On The Internet](https://open.spotify.com/album/6NnlOV3v51Tmlnf6sEsVOX) | 2:35 | 2023-11-17 | 2024-06-22 |
+| [Girl That I Am](https://open.spotify.com/track/7jZk5cOxV1LVZFG7RIOaHE) | [Ella Bright](https://open.spotify.com/artist/7bzIKcaSnlUfRLJ9m00XZr) | [Off Campus: The Mixtape](https://open.spotify.com/album/5CJqPFrc9hPete87L5DFSN) | 4:11 | 2026-05-26 |  |
 | [girlfriend](https://open.spotify.com/track/1VvHMWM4x5KNNIkeDfepKg) | [Alex Porat](https://open.spotify.com/artist/3aROeSNBd69DWHpcyyMOcI) | [girlfriend](https://open.spotify.com/album/20QM71c1VvCaBb8uO2IWUo) | 2:14 | 2021-03-15 | 2021-04-10 |
 | [girlfriend](https://open.spotify.com/track/0Dl965SLJGi9bB0SrvtPRx) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [girlfriend](https://open.spotify.com/album/7tBqY28TsUNRRzSJZ1yMLV) | 2:13 | 2022-11-09 | 2022-12-03 |
 | [Girlfriend](https://open.spotify.com/track/2mumZRgEobS03J546KQcMl) | [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [Girlfriend](https://open.spotify.com/album/2O4FOjgZBVYf0x31p7cxJt) | 3:23 | 2021-02-16\* | 2021-02-26 |

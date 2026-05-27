@@ -1,31 +1,175 @@
 {
   "description": "forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify",
-  "num_followers": 322,
+  "num_followers": 323,
   "original_name": "forever young Playlist Spotify",
   "owner": {
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAJxGunSz0+73kPKY8MgZoNix0CUn23",
+  "snapshot_id": "AAAJ8DOz1DIAxO+S1TDwV9aHnzen1jaO",
   "tracks": [
     {
-      "added_at": "2026-04-28 22:21:45",
+      "added_at": "2022-08-16 09:32:19",
       "album": {
-        "name": "Music Is Life",
-        "url": "https://open.spotify.com/album/5BDzz5Vx4JhZvP9DgRFapS"
+        "name": "Amaroamore",
+        "url": "https://open.spotify.com/album/4YRkPuAuBGSCFzD4Inbum7"
       },
       "artists": [
         {
-          "name": "Butter And The Genre",
-          "url": "https://open.spotify.com/artist/4XhBgifbh2uUMkI8BGaOfO"
+          "name": "Cristian Nevola",
+          "url": "https://open.spotify.com/artist/5obCJ7rIcd96XExURB2NTv"
         }
       ],
-      "duration_ms": 316213,
-      "name": "World of Joy and Pain",
-      "url": "https://open.spotify.com/track/6NeQVP3liHY2b1CjJWLbby"
+      "duration_ms": 203817,
+      "name": "Mia cara",
+      "url": "https://open.spotify.com/track/3jFBCZ4r9HjSNLNk8C1d3a"
     },
     {
-      "added_at": "2026-04-28 22:21:44",
+      "added_at": "2025-06-10 09:16:47",
+      "album": {
+        "name": "Sfumature",
+        "url": "https://open.spotify.com/album/5K3wpbQU0nlWweaLY3Rd7B"
+      },
+      "artists": [
+        {
+          "name": "Cristian Nevola",
+          "url": "https://open.spotify.com/artist/5obCJ7rIcd96XExURB2NTv"
+        }
+      ],
+      "duration_ms": 200937,
+      "name": "Ci sarai",
+      "url": "https://open.spotify.com/track/2aPyTgWlTIdhajHkrJpy5P"
+    },
+    {
+      "added_at": "2026-05-26 08:12:57",
+      "album": {
+        "name": "The Mighty Atom (Extended)",
+        "url": "https://open.spotify.com/album/4rnNFEZ6qEnMR4A8LZRqUV"
+      },
+      "artists": [
+        {
+          "name": "Damien.D",
+          "url": "https://open.spotify.com/artist/4G3PjYMwtAnBUszQS4KU1E"
+        }
+      ],
+      "duration_ms": 222857,
+      "name": "Fly me",
+      "url": "https://open.spotify.com/track/4fFzQh360xdKJQtPra019D"
+    },
+    {
+      "added_at": "2025-06-10 09:16:32",
+      "album": {
+        "name": "Amaroamore",
+        "url": "https://open.spotify.com/album/4YRkPuAuBGSCFzD4Inbum7"
+      },
+      "artists": [
+        {
+          "name": "Cristian Nevola",
+          "url": "https://open.spotify.com/artist/5obCJ7rIcd96XExURB2NTv"
+        }
+      ],
+      "duration_ms": 187974,
+      "name": "Dove potremmo volare",
+      "url": "https://open.spotify.com/track/6E5inIWTfbmyqz9JM2CpHo"
+    },
+    {
+      "added_at": "2024-10-24 14:28:04",
+      "album": {
+        "name": "Towards Infinity",
+        "url": "https://open.spotify.com/album/3oQDxpzKuvmGa7CUW0q36u"
+      },
+      "artists": [
+        {
+          "name": "CrisVola",
+          "url": "https://open.spotify.com/artist/2UHuefqH026GvDNMJjmsTo"
+        }
+      ],
+      "duration_ms": 187062,
+      "name": "Towards Infinity",
+      "url": "https://open.spotify.com/track/6L8qqTwyUUim4eIi7AzDUO"
+    },
+    {
+      "added_at": "2022-08-13 13:24:06",
+      "album": {
+        "name": "Amaroamore",
+        "url": "https://open.spotify.com/album/4YRkPuAuBGSCFzD4Inbum7"
+      },
+      "artists": [
+        {
+          "name": "Cristian Nevola",
+          "url": "https://open.spotify.com/artist/5obCJ7rIcd96XExURB2NTv"
+        }
+      ],
+      "duration_ms": 249625,
+      "name": "Dentro quell'ora",
+      "url": "https://open.spotify.com/track/6J5X0qtjRQKgKCgcAPvuWU"
+    },
+    {
+      "added_at": "2023-05-21 10:33:10",
+      "album": {
+        "name": "Sfumature",
+        "url": "https://open.spotify.com/album/5K3wpbQU0nlWweaLY3Rd7B"
+      },
+      "artists": [
+        {
+          "name": "Cristian Nevola",
+          "url": "https://open.spotify.com/artist/5obCJ7rIcd96XExURB2NTv"
+        }
+      ],
+      "duration_ms": 272750,
+      "name": "Da s\u00e9",
+      "url": "https://open.spotify.com/track/16aUoyuxw526EZQHLi0cEw"
+    },
+    {
+      "added_at": "2023-07-21 08:47:31",
+      "album": {
+        "name": "AmoR Conversely",
+        "url": "https://open.spotify.com/album/0DgMBeP9Y4gbpd6c9Ry7R2"
+      },
+      "artists": [
+        {
+          "name": "CrisVola",
+          "url": "https://open.spotify.com/artist/2UHuefqH026GvDNMJjmsTo"
+        }
+      ],
+      "duration_ms": 207625,
+      "name": "AmoR Conversely",
+      "url": "https://open.spotify.com/track/6vg64cW3pYw3og3vEYPw21"
+    },
+    {
+      "added_at": "2025-06-10 09:16:43",
+      "album": {
+        "name": "Sfumature",
+        "url": "https://open.spotify.com/album/5K3wpbQU0nlWweaLY3Rd7B"
+      },
+      "artists": [
+        {
+          "name": "Cristian Nevola",
+          "url": "https://open.spotify.com/artist/5obCJ7rIcd96XExURB2NTv"
+        }
+      ],
+      "duration_ms": 200560,
+      "name": "Sfumature",
+      "url": "https://open.spotify.com/track/5G7sa5HeTw0BBQTrXb4Skj"
+    },
+    {
+      "added_at": "2023-03-15 15:56:06",
+      "album": {
+        "name": "Amaroamore",
+        "url": "https://open.spotify.com/album/4YRkPuAuBGSCFzD4Inbum7"
+      },
+      "artists": [
+        {
+          "name": "Cristian Nevola",
+          "url": "https://open.spotify.com/artist/5obCJ7rIcd96XExURB2NTv"
+        }
+      ],
+      "duration_ms": 242374,
+      "name": "Amanti",
+      "url": "https://open.spotify.com/track/36iNyLpvDTVTyCwmGbrYyb"
+    },
+    {
+      "added_at": "2026-04-28 22:21:45",
       "album": {
         "name": "Music Is Life",
         "url": "https://open.spotify.com/album/5BDzz5Vx4JhZvP9DgRFapS"
@@ -299,6 +443,182 @@
       "duration_ms": 201123,
       "name": "Neon Sakura Bounce",
       "url": "https://open.spotify.com/track/5XFzqZO30XysZOAU9RrVJE"
+    },
+    {
+      "added_at": "2023-03-15 15:56:30",
+      "album": {
+        "name": "Listening to the Dawn",
+        "url": "https://open.spotify.com/album/0mtQyB7Ki0yKflEUeJDsdN"
+      },
+      "artists": [
+        {
+          "name": "CrisVola",
+          "url": "https://open.spotify.com/artist/2UHuefqH026GvDNMJjmsTo"
+        }
+      ],
+      "duration_ms": 181687,
+      "name": "Listening to the Dawn",
+      "url": "https://open.spotify.com/track/1qTcmDLgy2ecIdTRGxI1St"
+    },
+    {
+      "added_at": "2023-03-15 15:56:11",
+      "album": {
+        "name": "My Lady",
+        "url": "https://open.spotify.com/album/0WG84FnSMEPZz1bPkC8JHj"
+      },
+      "artists": [
+        {
+          "name": "CrisVola",
+          "url": "https://open.spotify.com/artist/2UHuefqH026GvDNMJjmsTo"
+        }
+      ],
+      "duration_ms": 186524,
+      "name": "My Lady",
+      "url": "https://open.spotify.com/track/1bbd690eEyowAtPJNJifdm"
+    },
+    {
+      "added_at": "2023-03-15 15:55:46",
+      "album": {
+        "name": "Amaroamore",
+        "url": "https://open.spotify.com/album/4YRkPuAuBGSCFzD4Inbum7"
+      },
+      "artists": [
+        {
+          "name": "Cristian Nevola",
+          "url": "https://open.spotify.com/artist/5obCJ7rIcd96XExURB2NTv"
+        }
+      ],
+      "duration_ms": 210921,
+      "name": "Vado su",
+      "url": "https://open.spotify.com/track/6QWZWZXDLl2QNwACeGrZdD"
+    },
+    {
+      "added_at": "2023-09-30 15:47:35",
+      "album": {
+        "name": "A Bailar",
+        "url": "https://open.spotify.com/album/3lN9NRN5WGjpMOHNrKqvXq"
+      },
+      "artists": [
+        {
+          "name": "CrisVola",
+          "url": "https://open.spotify.com/artist/2UHuefqH026GvDNMJjmsTo"
+        }
+      ],
+      "duration_ms": 240833,
+      "name": "A Bailar",
+      "url": "https://open.spotify.com/track/6HAIXssqvqN9v57U7fVfAh"
+    },
+    {
+      "added_at": "2022-08-13 13:24:20",
+      "album": {
+        "name": "Sfumature",
+        "url": "https://open.spotify.com/album/7Fa4EGBXkuhP8OoyRCZKuP"
+      },
+      "artists": [
+        {
+          "name": "Cristian Nevola",
+          "url": "https://open.spotify.com/artist/5obCJ7rIcd96XExURB2NTv"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Vanny",
+      "url": "https://open.spotify.com/track/4YCGxrke0xWayFb87lutWo"
+    },
+    {
+      "added_at": "2024-07-16 10:29:02",
+      "album": {
+        "name": "Moon Mon Amour",
+        "url": "https://open.spotify.com/album/0xZuYnNMKV5zkRqh44QPRh"
+      },
+      "artists": [
+        {
+          "name": "CrisVola",
+          "url": "https://open.spotify.com/artist/2UHuefqH026GvDNMJjmsTo"
+        }
+      ],
+      "duration_ms": 199444,
+      "name": "Moon Mon Amour",
+      "url": "https://open.spotify.com/track/3ngtPVP6cDM387BSLljiXw"
+    },
+    {
+      "added_at": "2023-03-15 15:53:32",
+      "album": {
+        "name": "Fl\u00f2",
+        "url": "https://open.spotify.com/album/2dCeQplX5PYghbHDNoWb1V"
+      },
+      "artists": [
+        {
+          "name": "CrisVola",
+          "url": "https://open.spotify.com/artist/2UHuefqH026GvDNMJjmsTo"
+        }
+      ],
+      "duration_ms": 228166,
+      "name": "Fl\u00f2",
+      "url": "https://open.spotify.com/track/3SqHN0k0tlWiMCAbn66zSz"
+    },
+    {
+      "added_at": "2023-03-15 15:55:53",
+      "album": {
+        "name": "Amaroamore",
+        "url": "https://open.spotify.com/album/4YRkPuAuBGSCFzD4Inbum7"
+      },
+      "artists": [
+        {
+          "name": "Cristian Nevola",
+          "url": "https://open.spotify.com/artist/5obCJ7rIcd96XExURB2NTv"
+        }
+      ],
+      "duration_ms": 189389,
+      "name": "Amaroamore",
+      "url": "https://open.spotify.com/track/20UByvlBMgIzh1O3zp7q06"
+    },
+    {
+      "added_at": "2024-03-17 10:32:18",
+      "album": {
+        "name": "Snow",
+        "url": "https://open.spotify.com/album/4eparkfh4pb1mJN3KDMfyz"
+      },
+      "artists": [
+        {
+          "name": "CrisVola",
+          "url": "https://open.spotify.com/artist/2UHuefqH026GvDNMJjmsTo"
+        }
+      ],
+      "duration_ms": 179853,
+      "name": "Snow",
+      "url": "https://open.spotify.com/track/3SrlN6K8GZubq1ochg096u"
+    },
+    {
+      "added_at": "2022-10-24 15:33:47",
+      "album": {
+        "name": "Night in Blue",
+        "url": "https://open.spotify.com/album/4MzNvJ1ZT60rEzgk7d6TLY"
+      },
+      "artists": [
+        {
+          "name": "CrisVola",
+          "url": "https://open.spotify.com/artist/2UHuefqH026GvDNMJjmsTo"
+        }
+      ],
+      "duration_ms": 167866,
+      "name": "Night in Blue",
+      "url": "https://open.spotify.com/track/3Oz0sNwPoqSdWnnpehCT7T"
+    },
+    {
+      "added_at": "2022-08-13 13:23:14",
+      "album": {
+        "name": "The Garden",
+        "url": "https://open.spotify.com/album/7fkzC9YeVBhfFBPyeqm9wY"
+      },
+      "artists": [
+        {
+          "name": "CrisVola",
+          "url": "https://open.spotify.com/artist/2UHuefqH026GvDNMJjmsTo"
+        }
+      ],
+      "duration_ms": 191660,
+      "name": "The Garden",
+      "url": "https://open.spotify.com/track/2qxHPdPGlS57jEEaOZEe82"
     },
     {
       "added_at": "2026-02-18 18:50:42",
@@ -677,22 +997,6 @@
       "url": "https://open.spotify.com/track/4hjhmFMTnWZOChjvRv7Lpj"
     },
     {
-      "added_at": "2025-11-15 08:26:02",
-      "album": {
-        "name": "Sax on the Rooftop",
-        "url": "https://open.spotify.com/album/1zoJMzlRvJG0ndoEIe3cbj"
-      },
-      "artists": [
-        {
-          "name": "Twilight Swing",
-          "url": "https://open.spotify.com/artist/6DYvb464hkR9ZltGsFTdVX"
-        }
-      ],
-      "duration_ms": 345919,
-      "name": "Sax on the Rooftop",
-      "url": "https://open.spotify.com/track/1h2Lnv72OMUjOzaFjimyXx"
-    },
-    {
       "added_at": "2025-11-15 08:25:58",
       "album": {
         "name": "The Future Sound of a Thievery Runner",
@@ -875,70 +1179,6 @@
       "duration_ms": 155600,
       "name": "Beyond The Olive Trees",
       "url": "https://open.spotify.com/track/367QZGLcmVsawAbwi9FIMR"
-    },
-    {
-      "added_at": "2025-06-10 09:16:32",
-      "album": {
-        "name": "Amaroamore",
-        "url": "https://open.spotify.com/album/4YRkPuAuBGSCFzD4Inbum7"
-      },
-      "artists": [
-        {
-          "name": "Cristian Nevola",
-          "url": "https://open.spotify.com/artist/5obCJ7rIcd96XExURB2NTv"
-        }
-      ],
-      "duration_ms": 187974,
-      "name": "Dove potremmo volare",
-      "url": "https://open.spotify.com/track/6E5inIWTfbmyqz9JM2CpHo"
-    },
-    {
-      "added_at": "2025-06-10 09:16:47",
-      "album": {
-        "name": "Sfumature",
-        "url": "https://open.spotify.com/album/5K3wpbQU0nlWweaLY3Rd7B"
-      },
-      "artists": [
-        {
-          "name": "Cristian Nevola",
-          "url": "https://open.spotify.com/artist/5obCJ7rIcd96XExURB2NTv"
-        }
-      ],
-      "duration_ms": 200937,
-      "name": "Ci sarai",
-      "url": "https://open.spotify.com/track/2aPyTgWlTIdhajHkrJpy5P"
-    },
-    {
-      "added_at": "2023-03-15 15:55:46",
-      "album": {
-        "name": "Amaroamore",
-        "url": "https://open.spotify.com/album/4YRkPuAuBGSCFzD4Inbum7"
-      },
-      "artists": [
-        {
-          "name": "Cristian Nevola",
-          "url": "https://open.spotify.com/artist/5obCJ7rIcd96XExURB2NTv"
-        }
-      ],
-      "duration_ms": 210921,
-      "name": "Vado su",
-      "url": "https://open.spotify.com/track/6QWZWZXDLl2QNwACeGrZdD"
-    },
-    {
-      "added_at": "2025-06-10 09:16:43",
-      "album": {
-        "name": "Sfumature",
-        "url": "https://open.spotify.com/album/5K3wpbQU0nlWweaLY3Rd7B"
-      },
-      "artists": [
-        {
-          "name": "Cristian Nevola",
-          "url": "https://open.spotify.com/artist/5obCJ7rIcd96XExURB2NTv"
-        }
-      ],
-      "duration_ms": 200560,
-      "name": "Sfumature",
-      "url": "https://open.spotify.com/track/5G7sa5HeTw0BBQTrXb4Skj"
     },
     {
       "added_at": "2025-11-05 09:27:13",
@@ -1413,22 +1653,6 @@
       "url": "https://open.spotify.com/track/2D8ocyp94eSor1RKnzJBd6"
     },
     {
-      "added_at": "2023-03-15 15:55:53",
-      "album": {
-        "name": "Amaroamore",
-        "url": "https://open.spotify.com/album/4YRkPuAuBGSCFzD4Inbum7"
-      },
-      "artists": [
-        {
-          "name": "Cristian Nevola",
-          "url": "https://open.spotify.com/artist/5obCJ7rIcd96XExURB2NTv"
-        }
-      ],
-      "duration_ms": 189389,
-      "name": "Amaroamore",
-      "url": "https://open.spotify.com/track/20UByvlBMgIzh1O3zp7q06"
-    },
-    {
       "added_at": "2025-09-22 10:32:29",
       "album": {
         "name": "Olga",
@@ -1677,6 +1901,22 @@
       "url": "https://open.spotify.com/track/2QXo5MYIdGus3rFYF9v93y"
     },
     {
+      "added_at": "2023-11-10 10:39:31",
+      "album": {
+        "name": "Inebria",
+        "url": "https://open.spotify.com/album/2XsRfSCEQ0mGiHzSwxiPqP"
+      },
+      "artists": [
+        {
+          "name": "CrisVola",
+          "url": "https://open.spotify.com/artist/2UHuefqH026GvDNMJjmsTo"
+        }
+      ],
+      "duration_ms": 275500,
+      "name": "Inebria",
+      "url": "https://open.spotify.com/track/2cXm93p3rCZbtIMd1Ola7I"
+    },
+    {
       "added_at": "2025-05-14 21:49:28",
       "album": {
         "name": "Passion",
@@ -1857,22 +2097,6 @@
       "url": "https://open.spotify.com/track/4qTbFvNuU8c2yhSnzq54Ge"
     },
     {
-      "added_at": "2023-03-15 15:56:06",
-      "album": {
-        "name": "Amaroamore",
-        "url": "https://open.spotify.com/album/4YRkPuAuBGSCFzD4Inbum7"
-      },
-      "artists": [
-        {
-          "name": "Cristian Nevola",
-          "url": "https://open.spotify.com/artist/5obCJ7rIcd96XExURB2NTv"
-        }
-      ],
-      "duration_ms": 242374,
-      "name": "Amanti",
-      "url": "https://open.spotify.com/track/36iNyLpvDTVTyCwmGbrYyb"
-    },
-    {
       "added_at": "2025-08-12 19:44:59",
       "album": {
         "name": "I can't see you",
@@ -1927,22 +2151,6 @@
       "duration_ms": 156281,
       "name": "Dust",
       "url": "https://open.spotify.com/track/6qEV9JCPiO4gsxymtj2CSe"
-    },
-    {
-      "added_at": "2022-08-13 13:24:06",
-      "album": {
-        "name": "Amaroamore",
-        "url": "https://open.spotify.com/album/4YRkPuAuBGSCFzD4Inbum7"
-      },
-      "artists": [
-        {
-          "name": "Cristian Nevola",
-          "url": "https://open.spotify.com/artist/5obCJ7rIcd96XExURB2NTv"
-        }
-      ],
-      "duration_ms": 249625,
-      "name": "Dentro quell'ora",
-      "url": "https://open.spotify.com/track/6J5X0qtjRQKgKCgcAPvuWU"
     },
     {
       "added_at": "2025-08-12 08:55:37",
@@ -2077,22 +2285,6 @@
       "url": "https://open.spotify.com/track/4NqqrbgNXDsevemzHnpiM9"
     },
     {
-      "added_at": "2022-08-16 09:32:19",
-      "album": {
-        "name": "Amaroamore",
-        "url": "https://open.spotify.com/album/4YRkPuAuBGSCFzD4Inbum7"
-      },
-      "artists": [
-        {
-          "name": "Cristian Nevola",
-          "url": "https://open.spotify.com/artist/5obCJ7rIcd96XExURB2NTv"
-        }
-      ],
-      "duration_ms": 203817,
-      "name": "Mia cara",
-      "url": "https://open.spotify.com/track/3jFBCZ4r9HjSNLNk8C1d3a"
-    },
-    {
       "added_at": "2025-08-06 19:49:02",
       "album": {
         "name": "Growing",
@@ -2123,38 +2315,6 @@
       "duration_ms": 243648,
       "name": "Fuori Posto",
       "url": "https://open.spotify.com/track/3SprsFpyMaQpE5avbGc2Oy"
-    },
-    {
-      "added_at": "2024-07-16 10:29:02",
-      "album": {
-        "name": "Moon Mon Amour",
-        "url": "https://open.spotify.com/album/0xZuYnNMKV5zkRqh44QPRh"
-      },
-      "artists": [
-        {
-          "name": "CrisVola",
-          "url": "https://open.spotify.com/artist/2UHuefqH026GvDNMJjmsTo"
-        }
-      ],
-      "duration_ms": 199444,
-      "name": "Moon Mon Amour",
-      "url": "https://open.spotify.com/track/3ngtPVP6cDM387BSLljiXw"
-    },
-    {
-      "added_at": "2022-08-13 13:23:14",
-      "album": {
-        "name": "The Garden",
-        "url": "https://open.spotify.com/album/7fkzC9YeVBhfFBPyeqm9wY"
-      },
-      "artists": [
-        {
-          "name": "CrisVola",
-          "url": "https://open.spotify.com/artist/2UHuefqH026GvDNMJjmsTo"
-        }
-      ],
-      "duration_ms": 191660,
-      "name": "The Garden",
-      "url": "https://open.spotify.com/track/2qxHPdPGlS57jEEaOZEe82"
     },
     {
       "added_at": "2025-07-31 13:28:49",
@@ -2409,22 +2569,6 @@
       "url": "https://open.spotify.com/track/0C3nWmG2S3Cdsc6kgvKFpJ"
     },
     {
-      "added_at": "2024-10-24 14:28:04",
-      "album": {
-        "name": "Towards Infinity",
-        "url": "https://open.spotify.com/album/3oQDxpzKuvmGa7CUW0q36u"
-      },
-      "artists": [
-        {
-          "name": "CrisVola",
-          "url": "https://open.spotify.com/artist/2UHuefqH026GvDNMJjmsTo"
-        }
-      ],
-      "duration_ms": 187062,
-      "name": "Towards Infinity",
-      "url": "https://open.spotify.com/track/6L8qqTwyUUim4eIi7AzDUO"
-    },
-    {
       "added_at": "2025-07-02 00:14:48",
       "album": {
         "name": "Daylight Upon Magic (Deluxe)",
@@ -2491,54 +2635,6 @@
       "duration_ms": 206734,
       "name": "Oltre il Confine",
       "url": "https://open.spotify.com/track/4P9StPmzhtrN5dheYVpbwm"
-    },
-    {
-      "added_at": "2023-03-15 15:56:30",
-      "album": {
-        "name": "Listening to the Dawn",
-        "url": "https://open.spotify.com/album/0mtQyB7Ki0yKflEUeJDsdN"
-      },
-      "artists": [
-        {
-          "name": "CrisVola",
-          "url": "https://open.spotify.com/artist/2UHuefqH026GvDNMJjmsTo"
-        }
-      ],
-      "duration_ms": 181687,
-      "name": "Listening to the Dawn",
-      "url": "https://open.spotify.com/track/1qTcmDLgy2ecIdTRGxI1St"
-    },
-    {
-      "added_at": "2024-03-17 10:32:18",
-      "album": {
-        "name": "Snow",
-        "url": "https://open.spotify.com/album/4eparkfh4pb1mJN3KDMfyz"
-      },
-      "artists": [
-        {
-          "name": "CrisVola",
-          "url": "https://open.spotify.com/artist/2UHuefqH026GvDNMJjmsTo"
-        }
-      ],
-      "duration_ms": 179853,
-      "name": "Snow",
-      "url": "https://open.spotify.com/track/3SrlN6K8GZubq1ochg096u"
-    },
-    {
-      "added_at": "2023-03-15 15:53:32",
-      "album": {
-        "name": "Fl\u00f2",
-        "url": "https://open.spotify.com/album/2dCeQplX5PYghbHDNoWb1V"
-      },
-      "artists": [
-        {
-          "name": "CrisVola",
-          "url": "https://open.spotify.com/artist/2UHuefqH026GvDNMJjmsTo"
-        }
-      ],
-      "duration_ms": 228166,
-      "name": "Fl\u00f2",
-      "url": "https://open.spotify.com/track/3SqHN0k0tlWiMCAbn66zSz"
     },
     {
       "added_at": "2025-05-19 13:55:43",
@@ -2977,22 +3073,6 @@
       "url": "https://open.spotify.com/track/6FLwmdmW77N1Pxb1aWsZmO"
     },
     {
-      "added_at": "2023-03-15 15:56:11",
-      "album": {
-        "name": "My Lady",
-        "url": "https://open.spotify.com/album/0WG84FnSMEPZz1bPkC8JHj"
-      },
-      "artists": [
-        {
-          "name": "CrisVola",
-          "url": "https://open.spotify.com/artist/2UHuefqH026GvDNMJjmsTo"
-        }
-      ],
-      "duration_ms": 186524,
-      "name": "My Lady",
-      "url": "https://open.spotify.com/track/1bbd690eEyowAtPJNJifdm"
-    },
-    {
       "added_at": "2023-03-15 15:57:18",
       "album": {
         "name": "May It Be",
@@ -3185,22 +3265,6 @@
       "url": "https://open.spotify.com/track/1EfnmdAQzEKy5L6fRqZFyw"
     },
     {
-      "added_at": "2023-07-21 08:47:31",
-      "album": {
-        "name": "AmoR Conversely",
-        "url": "https://open.spotify.com/album/0DgMBeP9Y4gbpd6c9Ry7R2"
-      },
-      "artists": [
-        {
-          "name": "CrisVola",
-          "url": "https://open.spotify.com/artist/2UHuefqH026GvDNMJjmsTo"
-        }
-      ],
-      "duration_ms": 207625,
-      "name": "AmoR Conversely",
-      "url": "https://open.spotify.com/track/6vg64cW3pYw3og3vEYPw21"
-    },
-    {
       "added_at": "2023-03-15 15:58:35",
       "album": {
         "name": "Celebration (double disc version)",
@@ -3215,22 +3279,6 @@
       "duration_ms": 342680,
       "name": "Like a Prayer",
       "url": "https://open.spotify.com/track/1z3ugFmUKoCzGsI6jdY4Ci"
-    },
-    {
-      "added_at": "2022-10-24 15:33:47",
-      "album": {
-        "name": "Night in Blue",
-        "url": "https://open.spotify.com/album/4MzNvJ1ZT60rEzgk7d6TLY"
-      },
-      "artists": [
-        {
-          "name": "CrisVola",
-          "url": "https://open.spotify.com/artist/2UHuefqH026GvDNMJjmsTo"
-        }
-      ],
-      "duration_ms": 167866,
-      "name": "Night in Blue",
-      "url": "https://open.spotify.com/track/3Oz0sNwPoqSdWnnpehCT7T"
     },
     {
       "added_at": "2023-03-15 15:58:31",
@@ -3409,22 +3457,6 @@
       "url": "https://open.spotify.com/track/0mHC3BK9vFGoEU0EcGPWRZ"
     },
     {
-      "added_at": "2022-08-13 13:24:20",
-      "album": {
-        "name": "Sfumature",
-        "url": "https://open.spotify.com/album/7Fa4EGBXkuhP8OoyRCZKuP"
-      },
-      "artists": [
-        {
-          "name": "Cristian Nevola",
-          "url": "https://open.spotify.com/artist/5obCJ7rIcd96XExURB2NTv"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Vanny",
-      "url": "https://open.spotify.com/track/4YCGxrke0xWayFb87lutWo"
-    },
-    {
       "added_at": "2023-03-15 15:52:40",
       "album": {
         "name": "Dal Lofai Al Cisei",
@@ -3487,22 +3519,6 @@
       "duration_ms": 180000,
       "name": "Goal!",
       "url": "https://open.spotify.com/track/0obqB3njpmFEzdynAgX279"
-    },
-    {
-      "added_at": "2023-05-21 10:33:10",
-      "album": {
-        "name": "Sfumature",
-        "url": "https://open.spotify.com/album/5K3wpbQU0nlWweaLY3Rd7B"
-      },
-      "artists": [
-        {
-          "name": "Cristian Nevola",
-          "url": "https://open.spotify.com/artist/5obCJ7rIcd96XExURB2NTv"
-        }
-      ],
-      "duration_ms": 272750,
-      "name": "Da s\u00e9",
-      "url": "https://open.spotify.com/track/16aUoyuxw526EZQHLi0cEw"
     },
     {
       "added_at": "2022-10-24 15:33:31",
@@ -3709,22 +3725,6 @@
       "url": "https://open.spotify.com/track/3VFrU5sKogsD5maX32joUB"
     },
     {
-      "added_at": "2023-09-30 15:47:35",
-      "album": {
-        "name": "A Bailar",
-        "url": "https://open.spotify.com/album/3lN9NRN5WGjpMOHNrKqvXq"
-      },
-      "artists": [
-        {
-          "name": "CrisVola",
-          "url": "https://open.spotify.com/artist/2UHuefqH026GvDNMJjmsTo"
-        }
-      ],
-      "duration_ms": 240833,
-      "name": "A Bailar",
-      "url": "https://open.spotify.com/track/6HAIXssqvqN9v57U7fVfAh"
-    },
-    {
       "added_at": "2025-07-02 00:15:16",
       "album": {
         "name": "Origin Story",
@@ -3855,22 +3855,6 @@
       "duration_ms": 285636,
       "name": "Lady Laura",
       "url": "https://open.spotify.com/track/5fMQ6RfiEXDYw3OsDkHSJK"
-    },
-    {
-      "added_at": "2023-11-10 10:39:31",
-      "album": {
-        "name": "Inebria",
-        "url": "https://open.spotify.com/album/2XsRfSCEQ0mGiHzSwxiPqP"
-      },
-      "artists": [
-        {
-          "name": "CrisVola",
-          "url": "https://open.spotify.com/artist/2UHuefqH026GvDNMJjmsTo"
-        }
-      ],
-      "duration_ms": 275500,
-      "name": "Inebria",
-      "url": "https://open.spotify.com/track/2cXm93p3rCZbtIMd1Ola7I"
     },
     {
       "added_at": "2025-07-02 00:15:20",
@@ -39623,6 +39607,54 @@
       "duration_ms": 179277,
       "name": "\u0644\u064a\u0644 \u0648 \u0633\u0647\u0631",
       "url": "https://open.spotify.com/track/1LpYFfXPmghqqxrSd8EoQz"
+    },
+    {
+      "added_at": "2026-05-26 08:24:09",
+      "album": {
+        "name": "Escuchar al Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/2BTRNrdxtTxAJBXSoWEn2J"
+      },
+      "artists": [
+        {
+          "name": "Leyna y Estos Otros",
+          "url": "https://open.spotify.com/artist/4mVrxEe5cktiKKhmvBEAVu"
+        }
+      ],
+      "duration_ms": 262644,
+      "name": "Escuchar al Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/7fiS9EXmshmwnJooHo8EBM"
+    },
+    {
+      "added_at": "2026-05-26 20:26:48",
+      "album": {
+        "name": "Artifacts",
+        "url": "https://open.spotify.com/album/0qvolRFZLkH2f6DvogQEYF"
+      },
+      "artists": [
+        {
+          "name": "Corporate Jacket",
+          "url": "https://open.spotify.com/artist/3cKSHEN4fLm5jJcKRwGXLo"
+        }
+      ],
+      "duration_ms": 232952,
+      "name": "LimeTrees",
+      "url": "https://open.spotify.com/track/2yCIeEFZXN6US1Z7bUhU2B"
+    },
+    {
+      "added_at": "2026-05-26 20:33:32",
+      "album": {
+        "name": "O Meri Jana",
+        "url": "https://open.spotify.com/album/5iknZYO2dtkvJAThkiYmVY"
+      },
+      "artists": [
+        {
+          "name": "sarkar_1",
+          "url": "https://open.spotify.com/artist/56k4VzCqc8VAxYH8F7Y4l5"
+        }
+      ],
+      "duration_ms": 226640,
+      "name": "O Meri Jana",
+      "url": "https://open.spotify.com/track/6JtzlQ3kRkfelRKK4NzpCk"
     }
   ],
   "unique_name": "forever young Playlist Spotify",

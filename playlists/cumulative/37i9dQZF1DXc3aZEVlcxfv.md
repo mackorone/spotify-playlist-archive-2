@@ -4,7 +4,7 @@
 
 > If you're blessed!
 
-618 songs - 1 day 17 hr 33 min
+620 songs - 1 day 17 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [4 Love](https://open.spotify.com/track/5tLahRV64zkxKhQTJXVnmK) | [CRC Music](https://open.spotify.com/artist/0NkzbJlvL3SLDCFnPmdSK7) | [4 Love](https://open.spotify.com/album/5aUC5rez6lzRVzc82ZF6zB) | 3:19 | 2025-10-10 | 2025-11-28 |
 | [A Cikin Inuwarka](https://open.spotify.com/track/4X0PisJrHln2RXT72UYXGR) | [Hallel Wrshp](https://open.spotify.com/artist/0XefxRUeAKzoEDn7r3VfPP) | [Africa Rejoice!](https://open.spotify.com/album/21tKokYIWn3qKCVdUfzvTX) | 3:27 | 2026-03-20 |  |
 | [ABBA](https://open.spotify.com/track/3Ax7llYlSKhJwxd9kjspeX) | [Tamará](https://open.spotify.com/artist/5yWup2QHnXNBHR418cQl0m) | [ABBA](https://open.spotify.com/album/3JZ54vFyyjJfEufP9Xvsmt) | 2:39 | 2025-10-03 | 2026-01-15 |
+| [ABBA FATHER \- raw](https://open.spotify.com/track/6fgmNr07tGMB2plXEuGf2k) | [De Stanley Brothers](https://open.spotify.com/artist/5QcpMCOrA4nVxileunNZD3) | [ABBA FATHER \(raw\)](https://open.spotify.com/album/68RAoLRRu8sKyakgEIDYia) | 1:08 | 2026-05-22 |  |
 | [Adonai](https://open.spotify.com/track/7axctArGc7dtaEJSl3IZge) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [Names of God](https://open.spotify.com/album/3WCZbOcvzRlzyEnRVPtKQF) | 8:31 | 2024-09-27 |  |
 | [Adonai](https://open.spotify.com/track/5q4o2JtCVOwoNAxpSkbfIn) | [Spirit of Prophecy](https://open.spotify.com/artist/47QqOqn5ySXFRyTezxJRBF) | [The Spirit of Prophecy](https://open.spotify.com/album/1Kkxf41K8ewlPrmuxOBjOr) | 3:26 | 2025-10-31 | 2026-01-16 |
 | [Again](https://open.spotify.com/track/3dasDAxhQpUu7OPQL1tOye) | [Oyije](https://open.spotify.com/artist/5yyv47kIRS1JBvjBzDOyGa), [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9) | [Again](https://open.spotify.com/album/0dXEeBNXzUCMCrCdFfbe3P) | 2:51 | 2025-06-20 | 2025-07-11 |
@@ -339,6 +340,7 @@
 | [Lift Me Higher](https://open.spotify.com/track/2D9QcNxjzpefHILXxmhhdJ) | [Justin Woodlake](https://open.spotify.com/artist/3F81eiUO2vynOEKTagezOa) | [Lift Me Higher](https://open.spotify.com/album/7l06BBQDVV3ToTCoGRT8kO) | 2:38 | 2025-11-14 | 2026-01-15 |
 | [Lifter Of Men \- Higher](https://open.spotify.com/track/01m5OjBL4EFhWWd14nC6aZ) | [Pv Idemudia](https://open.spotify.com/artist/0iE6uT4YVh808x9A2iWJ9D), [YYC Worship](https://open.spotify.com/artist/4Kd2x5UzbYmB9icNKsYIzc) | [Lifter Of Men \(Higher\)](https://open.spotify.com/album/2mTZSMh9NW1Ep8tMdJvrzH) | 7:23 | 2026-02-27 | 2026-05-09 |
 | [Light My Way](https://open.spotify.com/track/7cJNrb80srlS1s499HjEQF) | [Mojisola](https://open.spotify.com/artist/7B3hxItP97N9oYzvrTKFb8), [nina shezz](https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8) | [Path XLV](https://open.spotify.com/album/52VA8Xx3KpruIXdMd1REDf) | 3:17 | 2025-09-26 | 2025-10-31 |
+| [Light of the World](https://open.spotify.com/track/1DmDFKRHIdH1g9mLO18dkq) | [Dj Penny](https://open.spotify.com/artist/0m8Pugts84dRwQV3sYSJuY), [Sammy Sas](https://open.spotify.com/artist/6Kz5VJW0MekzAD8lHckzEv), [Chizie](https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE) | [Light of the World](https://open.spotify.com/album/2AiocbPntbH30SXnX8rq9q) | 2:03 | 2026-05-15 |  |
 | [Like Fire](https://open.spotify.com/track/5zdpJyBSFvecdK7Zt5QaMb) | [Danad](https://open.spotify.com/artist/1Uu4BnExPhV44clNfpOh2J) | [Like Fire](https://open.spotify.com/album/3hVb3G3HXrhCY0KgIV6YCu) | 2:29 | 2026-04-17 | 2026-05-05 |
 | [Like Me](https://open.spotify.com/track/2pzRmH3yLl2Hii5qlN792v) | [Neon Adejo](https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn) | [Like Me](https://open.spotify.com/album/02E9HP8yuQU6mbdMyJJN6H) | 3:33 | 2026-01-16 | 2026-02-27 |
 | [Live By Faith](https://open.spotify.com/track/0eme4u5DLQAYJr9kcLPiuw) | [Mayor Boss](https://open.spotify.com/artist/5SG33RwNDk7t92dRUKyLUZ) | [Live By Faith](https://open.spotify.com/album/0zqZyhiNwq80v9GQ0dkUiN) | 2:10 | 2026-01-09 | 2026-04-21 |
@@ -491,7 +493,7 @@
 | [Rest](https://open.spotify.com/track/1Mct4TjRxkfHkSOzAUvVbl) | [A Mose](https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X), [WINNER WAYS.](https://open.spotify.com/artist/29L1pzmDzW3P2FmQBovIFK) | [Rest](https://open.spotify.com/album/4I6jfQErCWguANlJgrimnN) | 2:16 | 2026-03-20 | 2026-05-15 |
 | [Rise Again](https://open.spotify.com/track/4QslrJv6HTxAvbVuGbGAzD) | [Noël Mio](https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta) | [Rise Again](https://open.spotify.com/album/4Jz256xiPaijzGdNvMS7V8) | 2:33 | 2025-07-18 | 2025-08-16 |
 | [ROGIC](https://open.spotify.com/track/75HuzOo5GXHKPic7Gt16Ci) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [ROGIC](https://open.spotify.com/album/6PiN5pM2VLtCSp3YF2yidb) | 3:30 | 2026-01-30 | 2026-02-27 |
-| [Rooted](https://open.spotify.com/track/06T6Pl96e1I83rtCFJYah9) | [BunjoVille Ug](https://open.spotify.com/artist/3f91pgWJ6c1s17VkGXEfeT) | [Rooted](https://open.spotify.com/album/7nO3M1Sty4NSZVpW4b2p1A) | 5:12 | 2025-11-28 |  |
+| [Rooted](https://open.spotify.com/track/06T6Pl96e1I83rtCFJYah9) | [BunjoVille Ug](https://open.spotify.com/artist/3f91pgWJ6c1s17VkGXEfeT) | [Rooted](https://open.spotify.com/album/7nO3M1Sty4NSZVpW4b2p1A) | 5:12 | 2025-11-28 | 2026-05-27 |
 | [Sabi](https://open.spotify.com/track/18WjxjcdeaAtr3H6kjCNj9) | [Dr Roy](https://open.spotify.com/artist/3qbsAfTm5D4X18LtG11RdL), [Maio](https://open.spotify.com/artist/0uufu8f9gj5MoDOEtHrAc4) | [Sabi](https://open.spotify.com/album/6DkXidWBQQnTjiBd33XvkU) | 2:25 | 2025-10-10 | 2026-01-15 |
 | [Safe](https://open.spotify.com/track/7cw6wkeJueXPVjbEodK741) | [Akoji](https://open.spotify.com/artist/6sCiXcuwvIldFB4idVMsLP) | [Safe](https://open.spotify.com/album/76DkcLs9Zyvva7ghMGJscE) | 3:00 | 2025-11-07 | 2026-03-26 |
 | [Satisfy](https://open.spotify.com/track/4oGELH93nS6vhNpi6YAZT6) | [Sal Ly](https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ) | [OFFDAYS](https://open.spotify.com/album/1fYKYR8dGIsNDlXCYuQeiK) | 2:55 | 2026-05-15 |  |
@@ -516,7 +518,7 @@
 | [SURELY \- UNVL' 24](https://open.spotify.com/track/2zTR5has6FHGwdwoi26Apt) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Esua](https://open.spotify.com/artist/4d4PXQtoasXLoQHuguk2U2) | [SURELY \(UNVL' 24\)](https://open.spotify.com/album/0tzCM41z8QPFzQcLiIpWCX) | 2:05 | 2024-09-30 | 2025-03-07 |
 | [Surely Goodness \(feat\. Phil Thompson\)](https://open.spotify.com/track/5p8eebjG6L3AS5JxGA6fSg) | [Daniel Ojo](https://open.spotify.com/artist/7C8rUwAKMYgQifAuQGNS7r), [Phil Thompson](https://open.spotify.com/artist/3NYwlCIjzmWwNdLPGT9UV8) | [Surely Goodness](https://open.spotify.com/album/7JPu2axcCxxcXhu3PDVnZY) | 4:48 | 2025-04-25 | 2025-06-13 |
 | [Synergy](https://open.spotify.com/track/012NuMFPY9BBlfYfUIzGs4) | [StraTeGee](https://open.spotify.com/artist/4utqTLxdOhcJAAq0DXL6PR), [K3ndrick](https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5) | [Synergy](https://open.spotify.com/album/4xc8SyumGUd12gji9kpWuo) | 2:44 | 2026-02-06 | 2026-02-27 |
-| [Take It](https://open.spotify.com/track/2FKMyKpyWuiywgWIoHkncw) | [Toby Grey](https://open.spotify.com/artist/7eJwlZzlct7anXWaMKT3ww) | [Homecoming](https://open.spotify.com/album/4FD5SkN7JdqjLQkvnSlzwi) | 3:30 | 2026-04-03 |  |
+| [Take It](https://open.spotify.com/track/2FKMyKpyWuiywgWIoHkncw) | [Toby Grey](https://open.spotify.com/artist/7eJwlZzlct7anXWaMKT3ww) | [Homecoming](https://open.spotify.com/album/4FD5SkN7JdqjLQkvnSlzwi) | 3:30 | 2026-04-03 | 2026-05-27 |
 | [TAMUNO](https://open.spotify.com/track/28TXLB9iqk5d0c5omSr0dh) | [Ajay Asika](https://open.spotify.com/artist/6JTtYSXFQweCccnZnRkVs1) | [TAMUNO](https://open.spotify.com/album/3Hx2cSmvKNliegyB4Ok0O1) | 2:36 | 2026-02-27 | 2026-04-18 |
 | [Tamuno](https://open.spotify.com/track/1b2OEF1P8G4REnrQKrH7Ad) | [Mera Owili](https://open.spotify.com/artist/6ViX2ccBiy3D2ZZ6u58PmV) | [Tamuno](https://open.spotify.com/album/6lVo8S6mZASvu5k9L8wUTs) | 4:16 | 2025-10-10 | 2025-10-31 |
 | [Taste and See](https://open.spotify.com/track/0NEpOOQ22Hg9hoVcKv9cYX) | [Mayor Boss](https://open.spotify.com/artist/5SG33RwNDk7t92dRUKyLUZ) | [Taste and See](https://open.spotify.com/album/0LVhZzkYq5mQKW5WNTlxYV) | 3:05 | 2025-10-31 | 2026-02-06 |

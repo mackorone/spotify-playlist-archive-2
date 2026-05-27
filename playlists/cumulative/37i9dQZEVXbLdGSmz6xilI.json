@@ -4571,6 +4571,24 @@
     },
     {
       "album": {
+        "name": "Felina",
+        "url": "https://open.spotify.com/album/6p9gE1omexBNKuDML2GLkJ"
+      },
+      "artists": [
+        {
+          "name": "B Ray",
+          "url": "https://open.spotify.com/artist/1WvNgEoB66jmHodcj15Zi9"
+        }
+      ],
+      "date_added": "2026-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137074,
+      "name": "Cho Con (Lullaby pt.2)",
+      "url": "https://open.spotify.com/track/71luUs5K7N1fdf7ecMKg04"
+    },
+    {
+      "album": {
         "name": "Cho M\u00ecnh Em",
         "url": "https://open.spotify.com/album/5oOVxWfhlsD4cYzUh1VBCr"
       },
@@ -8120,10 +8138,32 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-21",
+      "date_removed": null,
       "duration_ms": 208289,
       "name": "Em",
       "url": "https://open.spotify.com/track/1UhQ0VwKq2PGnLiAZOJYV1"
+    },
+    {
+      "album": {
+        "name": "G\u1eb7p L\u1ea1i",
+        "url": "https://open.spotify.com/album/7KhulL89ZB118WVHfgCSm4"
+      },
+      "artists": [
+        {
+          "name": "Binz",
+          "url": "https://open.spotify.com/artist/2nSO7JYDbJrYbJmP39qUzj"
+        },
+        {
+          "name": "SOOBIN",
+          "url": "https://open.spotify.com/artist/6CGGvCBHWqQ4HXtn5aLhbh"
+        }
+      ],
+      "date_added": "2026-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296983,
+      "name": "Em (feat. SOOBIN)",
+      "url": "https://open.spotify.com/track/0a32EBPjqAe47cYDPE5Ia5"
     },
     {
       "album": {
@@ -9952,7 +9992,7 @@
       ],
       "date_added": "2024-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-24",
+      "date_removed": null,
       "duration_ms": 234166,
       "name": "Gi\u1edd Th\u00ec",
       "url": "https://open.spotify.com/track/7mblTCdc14ylJ1JW71MODb"
@@ -17004,7 +17044,7 @@
       ],
       "date_added": "2025-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-27",
       "duration_ms": 214438,
       "name": "Ng\u00e0n N\u0103m \u00c1nh S\u00e1ng",
       "url": "https://open.spotify.com/track/4nyoalDFgUaZOzIKqj3aS5"
@@ -22166,7 +22206,7 @@
       ],
       "date_added": "2021-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-27",
       "duration_ms": 234168,
       "name": "Sinh Ra \u0110\u00e3 L\u00e0 Th\u1ee9 \u0110\u1ed1i L\u1eadp Nhau (feat. Badbies)",
       "url": "https://open.spotify.com/track/5BTzf3doGTigDIYUFtbkI9"
@@ -28166,7 +28206,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-27",
       "duration_ms": 211200,
       "name": "Wrong Times",
       "url": "https://open.spotify.com/track/6n2xOcqQrNOY0IfgATSwWs"
@@ -29508,7 +29548,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-27",
       "duration_ms": 198145,
       "name": "\u0111\u00f4i m\u1eaft k\u1ebb t\u00ecnh si",
       "url": "https://open.spotify.com/track/3vSmjbKFByNM6l31NmFlmB"

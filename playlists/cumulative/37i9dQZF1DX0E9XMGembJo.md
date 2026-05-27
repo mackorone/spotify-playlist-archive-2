@@ -4,7 +4,7 @@
 
 > a serotonin forward glow
 
-762 songs - 1 day 17 hr 33 min
+763 songs - 1 day 17 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [C'est La Vie \(with bbno$ & Rich Brian\)](https://open.spotify.com/track/0cgy8EueqwMuYzOZrW5vPB) | [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ), [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [C'est La Vie](https://open.spotify.com/album/4cR3Cgc4klmCeDgFkA3nz7) | 2:40 | 2022-09-23 | 2024-05-25 |
 | [C.U.D.I \(Can U Dig It\)](https://open.spotify.com/track/1YNejxrTddSkGseyZRDZRG) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL) | [Yesteryear](https://open.spotify.com/album/2E6mONgH562P0nB7gmb86j) | 3:43 | 2022-03-25 | 2022-04-21 |
 | [Cali4nia](https://open.spotify.com/track/6eCSJmiVIkFghWbDq6o0AN) | [KANADA THE LOOP](https://open.spotify.com/artist/0memvAGubR0iSAZmXnY4ta) | [Toyota Reckless](https://open.spotify.com/album/7pepybm5eWGHiQStayzHYy) | 2:56 | 2022-11-11 | 2022-11-22 |
+| [Call It What You Want](https://open.spotify.com/track/5U9uVRRZ7PkvAvyLKhg3jx) | [Pool Girl](https://open.spotify.com/artist/7t7suXYznGBtoP2uCT0Wv2) | [Call It What You Want](https://open.spotify.com/album/1duNvkWcNlJfPIOugCfAfP) | 2:55 | 2026-05-26 |  |
 | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/album/2b2GHWESCWEuHiCZ2Skedp) | 3:59 | 2023-05-30 | 2024-06-29 |
 | [Campus](https://open.spotify.com/track/5dUFfk2cwD8GiJPS03mYN0) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Vampire Weekend](https://open.spotify.com/album/5fedTyx7AnXeyxLL0giq6x) | 2:56 | 2021-12-29 | 2022-04-19 |
 | [Can I Call You Tonight?](https://open.spotify.com/track/61OJxhoY3Ix50rYVKo8zRK) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Fuzzybrain](https://open.spotify.com/album/7GYzQIMfdDWo2XC4BDLHPk) | 4:38 | 2022-11-04 | 2023-06-01 |
@@ -501,7 +502,7 @@
 | [No Chill](https://open.spotify.com/track/6J1qFWHFbmMgz0A6o10Xaq) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [SG8\*](https://open.spotify.com/album/2vwmN3BESDjpuUWloIjM1S) | 2:43 | 2022-03-28 | 2022-04-17 |
 | [No More Lies](https://open.spotify.com/track/62tGzw9OJOwDcjPBnMPCuj) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [No More Lies](https://open.spotify.com/album/2M0NVS1dhyis57BJp7REZt) | 5:27 | 2023-04-25 | 2023-05-13 |
 | [No One Noticed](https://open.spotify.com/track/3siwsiaEoU4Kuuc9WKMUy5) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:56 | 2024-10-18 |  |
-| [No one will hurt us out there](https://open.spotify.com/track/7ntuOuR3kZZPysNop4C1n6) | [NAYAD](https://open.spotify.com/artist/1ljZUgzfEnBpnaFLzwUnWt) | [No one will hurt us out there](https://open.spotify.com/album/61tsXESYOmQKxQvoLTvZpp) | 3:18 | 2026-05-19 |  |
+| [No one will hurt us out there](https://open.spotify.com/track/7ntuOuR3kZZPysNop4C1n6) | [NAYAD](https://open.spotify.com/artist/1ljZUgzfEnBpnaFLzwUnWt) | [No one will hurt us out there](https://open.spotify.com/album/61tsXESYOmQKxQvoLTvZpp) | 3:18 | 2026-05-19 | 2026-05-27 |
 | [NO WAY!](https://open.spotify.com/track/6mh1v2YKd7cMe7ra7m37SB) | [Clubhouse](https://open.spotify.com/artist/1LbK4g8mKezX7iAmpiq3sX) | [NO WAY!](https://open.spotify.com/album/2SruOoc4NUXuErLO3zDKbC) | 2:27 | 2021-12-29 | 2022-07-29 |
 | [Not Allowed](https://open.spotify.com/track/0jA4h2SD50Oak4C3Vn905a) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [Who Really Cares](https://open.spotify.com/album/5tm1XKTwxHAL80b1yoPQ5U) | 2:47 | 2022-03-25 | 2022-04-19 |
 | [Nothing From Nothing](https://open.spotify.com/track/72PoJMDfdaw9gGECgA9kTZ) | [Billy Preston](https://open.spotify.com/artist/0IecGJbdBeYSOVtSPRehh5) | [The Kids & Me](https://open.spotify.com/album/7LukcPnAOnV7MuJ6uIUe1s) | 2:36 | 2025-04-10 | 2025-05-28 |

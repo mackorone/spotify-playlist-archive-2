@@ -1397,6 +1397,24 @@
     },
     {
       "album": {
+        "name": "Could I Be",
+        "url": "https://open.spotify.com/album/5Q0OUyjEuF2Wb3ML1jhzIv"
+      },
+      "artists": [
+        {
+          "name": "Budjerah",
+          "url": "https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE"
+        }
+      ],
+      "date_added": "2026-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165066,
+      "name": "Could I Be",
+      "url": "https://open.spotify.com/track/5anCWZImCKaZgbQhSCS1oH"
+    },
+    {
+      "album": {
         "name": "St. Elsewhere",
         "url": "https://open.spotify.com/album/5I0Wf7lRLZArM1K2uQ1AEA"
       },
@@ -1434,7 +1452,7 @@
       ],
       "date_added": "2026-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-27",
       "duration_ms": 290000,
       "name": "crumble",
       "url": "https://open.spotify.com/track/2QxtLq8tLbq696srRS45J4"
@@ -1564,7 +1582,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-27",
       "duration_ms": 180117,
       "name": "Dancer",
       "url": "https://open.spotify.com/track/2OKwRXa2FWSraary90l7AA"
@@ -2183,6 +2201,24 @@
     },
     {
       "album": {
+        "name": "\u00f7 (Deluxe)",
+        "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "date_added": "2026-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170826,
+      "name": "Galway Girl",
+      "url": "https://open.spotify.com/track/0afhq8XCExXpqazXczTSve"
+    },
+    {
+      "album": {
         "name": "Gatekeeper",
         "url": "https://open.spotify.com/album/2cbHlXqnA646x6mGL8RpWB"
       },
@@ -2484,7 +2520,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-27",
       "duration_ms": 182693,
       "name": "Hard Times",
       "url": "https://open.spotify.com/track/0w5Bdu51Ka25Pf3hojsKHh"
@@ -2868,7 +2904,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-27",
       "duration_ms": 192419,
       "name": "I AM",
       "url": "https://open.spotify.com/track/1iDNf6nP0BCXilLVVptflh"
@@ -4058,7 +4094,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-27",
       "duration_ms": 174760,
       "name": "My Head & My Heart",
       "url": "https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm"
@@ -4681,6 +4717,28 @@
     },
     {
       "album": {
+        "name": "Sleeps with Angels",
+        "url": "https://open.spotify.com/album/1mZYNuRS343ByrirlbTK2N"
+      },
+      "artists": [
+        {
+          "name": "Neil Young",
+          "url": "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm"
+        },
+        {
+          "name": "Crazy Horse",
+          "url": "https://open.spotify.com/artist/0oi7g8NUnlLh5tJvg2y5e3"
+        }
+      ],
+      "date_added": "2026-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244400,
+      "name": "Prime of Life",
+      "url": "https://open.spotify.com/track/4FBoI2m0BpoF0n39d1Mxub"
+    },
+    {
+      "album": {
         "name": "Pure Shores",
         "url": "https://open.spotify.com/album/0q5pj4C8Fl8d3pzn2OH0ZV"
       },
@@ -5047,6 +5105,24 @@
     },
     {
       "album": {
+        "name": "Florescence",
+        "url": "https://open.spotify.com/album/0MOWqwwatV0LXDxhBZg5qO"
+      },
+      "artists": [
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        }
+      ],
+      "date_added": "2026-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192173,
+      "name": "Say My Name In Your Sleep",
+      "url": "https://open.spotify.com/track/3eMo73vmAMBNGLH7k3L8U9"
+    },
+    {
+      "album": {
         "name": "\u00f7 (Deluxe)",
         "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
       },
@@ -5220,7 +5296,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-27",
       "duration_ms": 235382,
       "name": "Sing",
       "url": "https://open.spotify.com/track/6K8qKeWo5MsFED7wCR6Kop"
@@ -5390,7 +5466,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-27",
       "duration_ms": 207168,
       "name": "Somedays",
       "url": "https://open.spotify.com/track/3wo3d0I5H8KjkwGvnz8WbB"
@@ -5614,6 +5690,24 @@
       "duration_ms": 185999,
       "name": "Stay (If You Wanna Dance)",
       "url": "https://open.spotify.com/track/4GOYVxQPaKqen2QcoLtrlc"
+    },
+    {
+      "album": {
+        "name": "are you mad at me?",
+        "url": "https://open.spotify.com/album/3YyOwxYRBrWdfDqBtps1RL"
+      },
+      "artists": [
+        {
+          "name": "Bella Kay",
+          "url": "https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8"
+        }
+      ],
+      "date_added": "2026-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176368,
+      "name": "STOP",
+      "url": "https://open.spotify.com/track/2487dSsY2qY7OZxbhSdqDp"
     },
     {
       "album": {
@@ -5914,6 +6008,24 @@
       "duration_ms": 253592,
       "name": "The Best - Edit",
       "url": "https://open.spotify.com/track/5LNSHyPAr0qWGapTj54VU1"
+    },
+    {
+      "album": {
+        "name": "The Climb",
+        "url": "https://open.spotify.com/album/4wgM4DAqjKCY9t3zQ6cU3W"
+      },
+      "artists": [
+        {
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+        }
+      ],
+      "date_added": "2026-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230680,
+      "name": "The Climb",
+      "url": "https://open.spotify.com/track/5TFrCaVcHteA1QbGwwIJD6"
     },
     {
       "album": {
@@ -6630,6 +6742,24 @@
       "duration_ms": 189593,
       "name": "Won't Let Go",
       "url": "https://open.spotify.com/track/4pRJMNLtar65GtT9vpzHu4"
+    },
+    {
+      "album": {
+        "name": "Won't Stand Down (Dark-Side Mix)",
+        "url": "https://open.spotify.com/album/3T07vH9W7UVBhQtpvjZJsC"
+      },
+      "artists": [
+        {
+          "name": "Peter Gabriel",
+          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
+        }
+      ],
+      "date_added": "2026-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 367702,
+      "name": "Won't Stand Down (Dark-Side Mix)",
+      "url": "https://open.spotify.com/track/0cw1UfVk3UNpkylk840QHd"
     },
     {
       "album": {

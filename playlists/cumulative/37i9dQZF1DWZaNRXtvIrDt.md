@@ -4,7 +4,7 @@
 
 > A new world of alternative electronic music\. Cover: Surusinghe
 
-1,112 songs - 3 day 7 hr 58 min
+1,113 songs - 3 day 8 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -412,7 +412,7 @@
 | [Freedom 2](https://open.spotify.com/track/3sn7UM54xyAUjfR9rNxZwp) | [Kwengface](https://open.spotify.com/artist/5O1YiYFy3CEWD2lkOmoerV), [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg), [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Freedom 2](https://open.spotify.com/album/2vMoaiAWsGENn1oCI2EWXN) | 3:26 | 2023-08-17 | 2024-02-10 |
 | [Friday \(Alone Right Now\)](https://open.spotify.com/track/3hx5rxhEbaSIoHY1erGnby) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [TANZPARTEI II \(Mixtape\)](https://open.spotify.com/album/6lvniwPO6u3mkNTN3tSQcR) | 2:31 | 2024-10-03 | 2024-12-13 |
 | [FTRW!](https://open.spotify.com/track/0eiuxRLtuTVZZI0UQcGzAa) | [Surusinghe](https://open.spotify.com/artist/7m5jnraNhVbxMZ7B8FvCSe) | [FTRW!](https://open.spotify.com/album/2Uul5GoHM26xnV3WcTIpuR) | 4:11 | 2025-05-01 | 2025-12-19 |
-| [Fuck My Computer](https://open.spotify.com/track/2Gt39sy5hTo4huF2Og9XEj) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [Fuck My Computer](https://open.spotify.com/album/1oX8Dje3jHWVmKNfTbzrcy) | 3:10 | 2025-05-15 |  |
+| [Fuck My Computer](https://open.spotify.com/track/2Gt39sy5hTo4huF2Og9XEj) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [Fuck My Computer](https://open.spotify.com/album/1oX8Dje3jHWVmKNfTbzrcy) | 3:10 | 2025-05-15 | 2026-05-27 |
 | [Fuck what u heard](https://open.spotify.com/track/3RlcQp6Q2CrcJ6sTHYYDtq) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Todd Edwards](https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg) | [Fuck what u heard](https://open.spotify.com/album/31kvCru828NJSvrG2FymOR) | 3:40 | 2023-04-27 | 2023-07-07 |
 | [Fucking Mega](https://open.spotify.com/track/6tqvEXCweWY131rD6EeD4D) | [Lawrence Hart](https://open.spotify.com/artist/2pQj31A8LgfwBTGmhHdRXa) | [Come In Out Of The Rain](https://open.spotify.com/album/6jZhhKMNsN5C6LpypG7SdO) | 4:51 | 2025-04-10 | 2025-05-02 |
 | [FUN!](https://open.spotify.com/track/4KERVWEQpKPZu4HRGwc7pu) | [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [FUN!](https://open.spotify.com/album/0AjkJWk9zCZW6RnPvBzXUM) | 3:25 | 2024-12-06 | 2025-02-07 |
@@ -905,6 +905,7 @@
 | [Southern Clouds](https://open.spotify.com/track/524JHo9cEbYarhzU8457z4) | [Ciel](https://open.spotify.com/artist/1Rv2Pete1cFEKlDYk0hjWl), [Kilig](https://open.spotify.com/artist/6bV9MqjsNFkMwryuBkWvXX) | [Uu003](https://open.spotify.com/album/3gm06y1TNKQ2RMCgROAEAm) | 5:17 | 2023-03-02 | 2023-04-07 |
 | [Space Girl Finds Cash](https://open.spotify.com/track/1D77tiJp6af1tzcc1rWlHJ) | [KÉDU CARLÖ](https://open.spotify.com/artist/5FdNimxRznD7ZK6LR5VTJC) | [Space Girl Finds Cash](https://open.spotify.com/album/5zmdu8WjRppE3XxU5FeHQK) | 4:56 | 2023-05-11 | 2023-07-28 |
 | [Spine](https://open.spotify.com/track/6IZBSemFcZQfKiNsFY12Ac) | [Brad Mullins](https://open.spotify.com/artist/5yGxsoA0P5Era0ha3F6kBd) | [Spine](https://open.spotify.com/album/7vnHGPZIyLuSo1O20kvOji) | 4:11 | 2024-04-16 | 2024-09-13 |
+| [Spiralen](https://open.spotify.com/track/03ra0kWWPT8fW3sy6onMfc) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [Spiralen](https://open.spotify.com/album/1kEZXSkIPpoDcjEMsJVQLJ) | 7:17 | 2026-05-21 |  |
 | [Sports](https://open.spotify.com/track/4oYQsnDWE7JONr1yC9dmYM) | [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [Sports](https://open.spotify.com/album/3O9r5PoJDRmhHHuH4NDsv6) | 3:01 | 2023-03-23 | 2023-05-26 |
 | [SPRINTER](https://open.spotify.com/track/4KLPZfyMkOkJTCZ4i3luha) | [KARMA](https://open.spotify.com/artist/2CbSXiRcLCT8xjNeoebez9) | [SPRINTER](https://open.spotify.com/album/1LrwZakIRGBHovLTDBCQSj) | 3:07 | 2025-10-13 |  |
 | [Sprite](https://open.spotify.com/track/0cI2dEe3fnHZSUpKsSAcH1) | [Disfreq](https://open.spotify.com/artist/2r6S8dhE6TLxyYJndSd345) | [LEFREQ001](https://open.spotify.com/album/73wNLkkAWZxbUrz57BFwMw) | 3:19 | 2025-01-09 | 2025-05-02 |

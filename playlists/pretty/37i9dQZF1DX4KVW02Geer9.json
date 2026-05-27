@@ -1,13 +1,29 @@
 {
-  "description": "\u30af\u30ed\u30b9\u30aa\u30fc\u30d0\u30fc\u30fb\u30b8\u30e3\u30ba\u306e\u5148\u99c6\u8005\u3001\u66f4\u306b\u6b21\u4e16\u4ee3\u306e\u30b7\u30fc\u30f3\u306e\u6700\u5148\u7aef\u306b\u7acb\u3064\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u66f2\u3092\u3001\u307e\u3068\u3081\u3066\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002Cover: fox capture plan",
-  "num_followers": 65206,
+  "description": "\u30af\u30ed\u30b9\u30aa\u30fc\u30d0\u30fc\u30fb\u30b8\u30e3\u30ba\u306e\u5148\u99c6\u8005\u3001\u66f4\u306b\u6b21\u4e16\u4ee3\u306e\u30b7\u30fc\u30f3\u306e\u6700\u5148\u7aef\u306b\u7acb\u3064\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u66f2\u3092\u3001\u307e\u3068\u3081\u3066\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002Cover: N.S. DANCEMBLE",
+  "num_followers": 65205,
   "original_name": "X-Over \u30b8\u30e3\u30ba!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALf9pbKDbJGArA4pBYHm83fgFM/0",
+  "snapshot_id": "AAAAAOduGMCPT7CW0tqaHNzrk3HcskTf",
   "tracks": [
+    {
+      "added_at": "2026-05-26 15:00:49",
+      "album": {
+        "name": "iii",
+        "url": "https://open.spotify.com/album/6YMgz5xg15rXCTT0MAVGBU"
+      },
+      "artists": [
+        {
+          "name": "N.S. DANCEMBLE",
+          "url": "https://open.spotify.com/artist/4vgz1ReBFy52w0qHJekFBr"
+        }
+      ],
+      "duration_ms": 201802,
+      "name": "\u518d\u751f",
+      "url": "https://open.spotify.com/track/1OTYC3sM0OjSNd7Y72bprw"
+    },
     {
       "added_at": "2026-05-19 15:00:25",
       "album": {
@@ -85,38 +101,6 @@
       "url": "https://open.spotify.com/track/1TeknOxmMXAfvyuM4PTAMd"
     },
     {
-      "added_at": "2026-05-01 03:34:54",
-      "album": {
-        "name": "iii",
-        "url": "https://open.spotify.com/album/2lxf14F3bTB8ngyyMXTukD"
-      },
-      "artists": [
-        {
-          "name": "N.S. DANCEMBLE",
-          "url": "https://open.spotify.com/artist/4vgz1ReBFy52w0qHJekFBr"
-        }
-      ],
-      "duration_ms": 275633,
-      "name": "iii",
-      "url": "https://open.spotify.com/track/00HzLDjV2mRnBkBXDef4j2"
-    },
-    {
-      "added_at": "2026-05-12 15:00:29",
-      "album": {
-        "name": "THIEF",
-        "url": "https://open.spotify.com/album/6xQzdxhFSXzY43USc4EmJJ"
-      },
-      "artists": [
-        {
-          "name": "corto.alto",
-          "url": "https://open.spotify.com/artist/5Kd7e5lauV4CDdTHm5uiJH"
-        }
-      ],
-      "duration_ms": 182248,
-      "name": "THIEF",
-      "url": "https://open.spotify.com/track/4LtWEmxk2fW2tPiTUh2YII"
-    },
-    {
       "added_at": "2026-05-07 16:19:57",
       "album": {
         "name": "Ocean Light (Phase 1: Prelude)",
@@ -131,42 +115,6 @@
       "duration_ms": 122709,
       "name": "Ocean Light (Phase 1: Prelude)",
       "url": "https://open.spotify.com/track/4lKQi60Oe2wnJk8Qrn1QHE"
-    },
-    {
-      "added_at": "2026-05-12 15:00:29",
-      "album": {
-        "name": "John Connor",
-        "url": "https://open.spotify.com/album/2ctx9aWCjIlAWojJSIcVKA"
-      },
-      "artists": [
-        {
-          "name": "BIGYUKI",
-          "url": "https://open.spotify.com/artist/5bQhICu3eC2RFDr4OPRQHq"
-        }
-      ],
-      "duration_ms": 339006,
-      "name": "In a Spiral",
-      "url": "https://open.spotify.com/track/1NVuW1w0mkVJQF5nFGo1PR"
-    },
-    {
-      "added_at": "2026-05-01 03:34:54",
-      "album": {
-        "name": "Distracted",
-        "url": "https://open.spotify.com/album/4DkVTJfU9qyNWKbjLoTENL"
-      },
-      "artists": [
-        {
-          "name": "Thundercat",
-          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
-        },
-        {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
-        }
-      ],
-      "duration_ms": 155960,
-      "name": "Funny Friends",
-      "url": "https://open.spotify.com/track/6l1AuMUnZWoEdWodKUM4Mc"
     },
     {
       "added_at": "2026-05-14 15:00:31",
@@ -217,6 +165,86 @@
       "url": "https://open.spotify.com/track/0mgWABjocA4Zm3sz0oyr3v"
     },
     {
+      "added_at": "2026-05-26 15:00:49",
+      "album": {
+        "name": "Eternal Child",
+        "url": "https://open.spotify.com/album/3dDNKDujQDYcQ5qwEz64hm"
+      },
+      "artists": [
+        {
+          "name": "Avishai Cohen",
+          "url": "https://open.spotify.com/artist/5wu05jGsVMAFHYMYHqCB9l"
+        }
+      ],
+      "duration_ms": 0,
+      "name": "Track 8",
+      "url": "https://open.spotify.com/track/4XI2i9wR9L8OHhkrOLf7gr"
+    },
+    {
+      "added_at": "2026-05-26 15:00:49",
+      "album": {
+        "name": "\u7a7a\u306e\u97f3",
+        "url": "https://open.spotify.com/album/4jqL7HA9jUR8Wxb8PypMA4"
+      },
+      "artists": [
+        {
+          "name": "Eresia",
+          "url": "https://open.spotify.com/artist/0rgDbqaA4a3L6fboqx0Js7"
+        }
+      ],
+      "duration_ms": 219395,
+      "name": "\u7a7a\u306e\u97f3",
+      "url": "https://open.spotify.com/track/3h33w1JJkPF3GykNEq0GXT"
+    },
+    {
+      "added_at": "2026-05-12 15:00:29",
+      "album": {
+        "name": "THIEF",
+        "url": "https://open.spotify.com/album/6xQzdxhFSXzY43USc4EmJJ"
+      },
+      "artists": [
+        {
+          "name": "corto.alto",
+          "url": "https://open.spotify.com/artist/5Kd7e5lauV4CDdTHm5uiJH"
+        }
+      ],
+      "duration_ms": 182248,
+      "name": "THIEF",
+      "url": "https://open.spotify.com/track/4LtWEmxk2fW2tPiTUh2YII"
+    },
+    {
+      "added_at": "2026-05-01 03:34:54",
+      "album": {
+        "name": "iii",
+        "url": "https://open.spotify.com/album/2lxf14F3bTB8ngyyMXTukD"
+      },
+      "artists": [
+        {
+          "name": "N.S. DANCEMBLE",
+          "url": "https://open.spotify.com/artist/4vgz1ReBFy52w0qHJekFBr"
+        }
+      ],
+      "duration_ms": 275633,
+      "name": "iii",
+      "url": "https://open.spotify.com/track/00HzLDjV2mRnBkBXDef4j2"
+    },
+    {
+      "added_at": "2026-05-12 15:00:29",
+      "album": {
+        "name": "John Connor",
+        "url": "https://open.spotify.com/album/2ctx9aWCjIlAWojJSIcVKA"
+      },
+      "artists": [
+        {
+          "name": "BIGYUKI",
+          "url": "https://open.spotify.com/artist/5bQhICu3eC2RFDr4OPRQHq"
+        }
+      ],
+      "duration_ms": 339006,
+      "name": "In a Spiral",
+      "url": "https://open.spotify.com/track/1NVuW1w0mkVJQF5nFGo1PR"
+    },
+    {
       "added_at": "2026-05-01 03:34:54",
       "album": {
         "name": "Full Circle",
@@ -231,6 +259,26 @@
       "duration_ms": 251861,
       "name": "Echo From The Flames",
       "url": "https://open.spotify.com/track/6aqNOnHzXhnDVCY7pDZBD7"
+    },
+    {
+      "added_at": "2026-05-01 03:34:54",
+      "album": {
+        "name": "Distracted",
+        "url": "https://open.spotify.com/album/4DkVTJfU9qyNWKbjLoTENL"
+      },
+      "artists": [
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        },
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "duration_ms": 155960,
+      "name": "Funny Friends",
+      "url": "https://open.spotify.com/track/6l1AuMUnZWoEdWodKUM4Mc"
     },
     {
       "added_at": "2026-05-12 15:00:29",
@@ -311,6 +359,22 @@
       "duration_ms": 195119,
       "name": "Perspective of Purpose (feat. Keyon Harrold)",
       "url": "https://open.spotify.com/track/4fC4pkTrE2HwVdcM69JvXL"
+    },
+    {
+      "added_at": "2026-05-26 15:00:49",
+      "album": {
+        "name": "Let The Sky Open Under Your Feet",
+        "url": "https://open.spotify.com/album/5KbTt2xYPBeZXvChMbMwec"
+      },
+      "artists": [
+        {
+          "name": "Skyjack",
+          "url": "https://open.spotify.com/artist/6gSBRCbcqIIaD7slbHymwa"
+        }
+      ],
+      "duration_ms": 395213,
+      "name": "Let The Sky Open Under Your Feet",
+      "url": "https://open.spotify.com/track/2Pe4C7EbOhkb2ELEGsLfDc"
     },
     {
       "added_at": "2026-05-01 03:34:54",

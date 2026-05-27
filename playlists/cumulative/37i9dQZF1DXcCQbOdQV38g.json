@@ -141,6 +141,28 @@
     },
     {
       "album": {
+        "name": "Als De Zon Schijnt",
+        "url": "https://open.spotify.com/album/6ksMXdJiJxIwCKL59GCxrH"
+      },
+      "artists": [
+        {
+          "name": "Marco Kraats",
+          "url": "https://open.spotify.com/artist/1O2nfhQ9ZxTWY9eTC27dvp"
+        },
+        {
+          "name": "Lange Frans",
+          "url": "https://open.spotify.com/artist/5I2d294l90n7EMWVNUZczE"
+        }
+      ],
+      "date_added": "2026-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137725,
+      "name": "Als De Zon Schijnt",
+      "url": "https://open.spotify.com/track/3peTzOA4EMrQejDWL31KMr"
+    },
+    {
+      "album": {
         "name": "Als Ik Je Weer Zie",
         "url": "https://open.spotify.com/album/5m1URbxyOpdcKwbvexXPdI"
       },
@@ -294,7 +316,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-27",
       "duration_ms": 165768,
       "name": "Automatisch",
       "url": "https://open.spotify.com/track/2WeAyT93f7IzrwXm3ZJMb2"
@@ -462,6 +484,24 @@
       "duration_ms": 164170,
       "name": "De Eerste Keer",
       "url": "https://open.spotify.com/track/4o1Hhg6PfdbsWGtfy9ARBs"
+    },
+    {
+      "album": {
+        "name": "De Leeuw Komt Eraan",
+        "url": "https://open.spotify.com/album/2cYpryI2g6eu20whof2VI8"
+      },
+      "artists": [
+        {
+          "name": "Samuel Welten",
+          "url": "https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9"
+        }
+      ],
+      "date_added": "2026-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134692,
+      "name": "De Leeuw Komt Eraan",
+      "url": "https://open.spotify.com/track/28GAHI5g37JbdtdwcTyfI7"
     },
     {
       "album": {
@@ -1878,7 +1918,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-27",
       "duration_ms": 224928,
       "name": "Treur Niet (Ode Aan Het Leven)",
       "url": "https://open.spotify.com/track/11iIeclbEWUhkmLArE9Hr0"

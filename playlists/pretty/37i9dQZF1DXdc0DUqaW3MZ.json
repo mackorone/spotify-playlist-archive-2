@@ -1,6 +1,6 @@
 {
   "description": "where future beats meet timeless soul.\n",
-  "num_followers": 376143,
+  "num_followers": 376173,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
@@ -719,22 +719,6 @@
     {
       "added_at": "2026-05-07 13:54:31",
       "album": {
-        "name": "Static on My Tongue",
-        "url": "https://open.spotify.com/album/3QQvmDnFMMUb5QLpvooIxX"
-      },
-      "artists": [
-        {
-          "name": "Re:um",
-          "url": "https://open.spotify.com/artist/6gLleDsNwfehG7vWuK2zQe"
-        }
-      ],
-      "duration_ms": 179538,
-      "name": "Static on My Tongue",
-      "url": "https://open.spotify.com/track/4ucIiJKTWchQX37ik3Lx6r"
-    },
-    {
-      "added_at": "2026-05-07 13:54:31",
-      "album": {
         "name": "Hypnotised",
         "url": "https://open.spotify.com/album/1KeOKmz86ujYQKPcmVO8SO"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 202787,
       "name": "Hypnotised (feat. Linden Jay)",
       "url": "https://open.spotify.com/track/67N1PtpuY7DgemawuzioIz"
+    },
+    {
+      "added_at": "2026-05-07 13:54:31",
+      "album": {
+        "name": "Static on My Tongue",
+        "url": "https://open.spotify.com/album/3QQvmDnFMMUb5QLpvooIxX"
+      },
+      "artists": [
+        {
+          "name": "Re:um",
+          "url": "https://open.spotify.com/artist/6gLleDsNwfehG7vWuK2zQe"
+        }
+      ],
+      "duration_ms": 179538,
+      "name": "Static on My Tongue",
+      "url": "https://open.spotify.com/track/4ucIiJKTWchQX37ik3Lx6r"
     },
     {
       "added_at": "2026-05-07 13:54:31",
@@ -963,6 +963,26 @@
     {
       "added_at": "2026-05-07 13:54:31",
       "album": {
+        "name": "Promises (feat. Rochelle Jordan)",
+        "url": "https://open.spotify.com/album/1ccKMe1V4ixAhUZSQmWwqF"
+      },
+      "artists": [
+        {
+          "name": "Logic1000",
+          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
+        },
+        {
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+        }
+      ],
+      "duration_ms": 208375,
+      "name": "Promises (feat. Rochelle Jordan)",
+      "url": "https://open.spotify.com/track/6J1J0mAEKODPz10Tthdhwv"
+    },
+    {
+      "added_at": "2026-05-07 13:54:31",
+      "album": {
         "name": "This World Of Mine",
         "url": "https://open.spotify.com/album/67qqzqcaVGJ0FBAkfy6J38"
       },
@@ -983,26 +1003,6 @@
       "duration_ms": 186691,
       "name": "This World Of Mine",
       "url": "https://open.spotify.com/track/6bttpK4KFgtKwCfQ8oIaWQ"
-    },
-    {
-      "added_at": "2026-05-07 13:54:31",
-      "album": {
-        "name": "Promises (feat. Rochelle Jordan)",
-        "url": "https://open.spotify.com/album/1ccKMe1V4ixAhUZSQmWwqF"
-      },
-      "artists": [
-        {
-          "name": "Logic1000",
-          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
-        },
-        {
-          "name": "Rochelle Jordan",
-          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
-        }
-      ],
-      "duration_ms": 208375,
-      "name": "Promises (feat. Rochelle Jordan)",
-      "url": "https://open.spotify.com/track/6J1J0mAEKODPz10Tthdhwv"
     },
     {
       "added_at": "2026-05-07 13:54:31",
@@ -1299,26 +1299,6 @@
     {
       "added_at": "2026-05-07 13:54:31",
       "album": {
-        "name": "Strike a Pose (feat. Camille Munn)",
-        "url": "https://open.spotify.com/album/54ZxNpUzA5uPcWx7T0hfNE"
-      },
-      "artists": [
-        {
-          "name": "IZCO",
-          "url": "https://open.spotify.com/artist/4uqqEE1NaQBAa4wnDug9c1"
-        },
-        {
-          "name": "Camille Munn",
-          "url": "https://open.spotify.com/artist/65ChS01brkcuSZX7tvhGuC"
-        }
-      ],
-      "duration_ms": 186604,
-      "name": "Strike a Pose (feat. Camille Munn)",
-      "url": "https://open.spotify.com/track/2Ud42Q4mxETIYEuJ2D5oZA"
-    },
-    {
-      "added_at": "2026-05-07 13:54:31",
-      "album": {
         "name": "DUN DI DUN",
         "url": "https://open.spotify.com/album/6yiQLSFVe8zT2NtvPBedUd"
       },
@@ -1335,6 +1315,26 @@
       "duration_ms": 162439,
       "name": "DUN DI DUN",
       "url": "https://open.spotify.com/track/3Z9nSzxrucQVMXS8cfOYzr"
+    },
+    {
+      "added_at": "2026-05-07 13:54:31",
+      "album": {
+        "name": "Strike a Pose (feat. Camille Munn)",
+        "url": "https://open.spotify.com/album/54ZxNpUzA5uPcWx7T0hfNE"
+      },
+      "artists": [
+        {
+          "name": "IZCO",
+          "url": "https://open.spotify.com/artist/4uqqEE1NaQBAa4wnDug9c1"
+        },
+        {
+          "name": "Camille Munn",
+          "url": "https://open.spotify.com/artist/65ChS01brkcuSZX7tvhGuC"
+        }
+      ],
+      "duration_ms": 186604,
+      "name": "Strike a Pose (feat. Camille Munn)",
+      "url": "https://open.spotify.com/track/2Ud42Q4mxETIYEuJ2D5oZA"
     },
     {
       "added_at": "2026-05-07 13:54:31",

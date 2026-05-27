@@ -4,7 +4,7 @@
 
 > Unearthing up\-and\-coming Korean acts\. \(Cover: can’t be blue\(캔트비블루\)\)
 
-717 songs - 1 day 13 hr 51 min
+718 songs - 1 day 13 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Can I Be Me?](https://open.spotify.com/track/5mGF9rvwIeYk5CsvhBOckX) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [JAMONG SALGU CLUB](https://open.spotify.com/album/2DV7iVJ7L5DRQijgjyqLyQ) | 3:08 | 2025-12-03 | 2026-01-20 |
 | [Can I Be Me?](https://open.spotify.com/track/7J8Gyy5wUFBDbpD7vqpJKy) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [Can I Be Me?](https://open.spotify.com/album/7wnXIsAJu06lWAWRrTziIq) | 3:08 | 2025-08-04 | 2026-05-20 |
 | [Can I sleep next to you](https://open.spotify.com/track/36V5tCKEHlJHOATtUal5Xa) | [Faver](https://open.spotify.com/artist/4dKhpre3rrqk52jpFngYag) | [Can I sleep next to you](https://open.spotify.com/album/6qqBiGMNrSEj18NbDvhk2Z) | 3:36 | 2022-03-18 | 2022-05-27 |
+| [can't love \(feat\. HAN \(Stray Kids\)\)](https://open.spotify.com/track/28his6ZYxU15m3bCUTUtFA) | [can’t be blue ](https://open.spotify.com/artist/32mluwkanSuuM3hm3d3Fh5), [HAN](https://open.spotify.com/artist/46YvTuKiPBUu5KP9818J2F) | [can't love \(feat\. HAN \(Stray Kids\)\)](https://open.spotify.com/album/0fJoozKZUNh31IdKsZ8lnm) | 3:15 | 2026-05-26 |  |
 | [Can’t Be Happy](https://open.spotify.com/track/2XmehABLWyeBGu5Q9Nt5vN) | [ELO](https://open.spotify.com/artist/15KDb2KpZRvX1updtyinK1) | [Reality Check](https://open.spotify.com/album/1aWLDWVEHr87l5QuK1JUCA) | 2:46 | 2022-04-20 | 2022-07-05 |
 | [care4u](https://open.spotify.com/track/5FSTzoypjKQHjwBc21tNii) | [0WAVE](https://open.spotify.com/artist/1nxCRfWuzM4GSCVfrqtlxz) | [ITULT](https://open.spotify.com/album/6JnnOgTI2O8X2UOMI83TLK) | 2:31 | 2023-08-23 | 2023-10-30 |
 | [CHA CHA CHA](https://open.spotify.com/track/6yTVgo0aw7LGUm4WHGjRxy) | [Vince](https://open.spotify.com/artist/3RnlokVV0FpqtV5FDeHYZd), [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [CHA CHA CHA](https://open.spotify.com/album/7bSsW44d0shyAIfX9sXPFV) | 2:55 | 2025-09-15 | 2026-05-20 |

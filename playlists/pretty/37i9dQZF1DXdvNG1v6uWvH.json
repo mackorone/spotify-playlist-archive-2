@@ -1,6 +1,6 @@
 {
   "description": "Loksins New Music Friday! N\u00fd t\u00f3nlist Of Charli XCX, Olivia Rodrigo og m\u00f6rgum fleiri!",
-  "num_followers": 9650,
+  "num_followers": 9648,
   "original_name": "New Music Friday Iceland",
   "owner": {
     "name": "Spotify",
@@ -287,6 +287,38 @@
     {
       "added_at": "2026-05-22 00:00:21",
       "album": {
+        "name": "touch myself/idea of love",
+        "url": "https://open.spotify.com/album/76ZZEjABkKjynOcObQIQOZ"
+      },
+      "artists": [
+        {
+          "name": "kwn",
+          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
+        }
+      ],
+      "duration_ms": 249218,
+      "name": "touch myself",
+      "url": "https://open.spotify.com/track/3yftdtj8z7vS7M3EoPfVFK"
+    },
+    {
+      "added_at": "2026-05-22 00:00:21",
+      "album": {
+        "name": "\u00c1 t\u00f3nafl\u00f3\u00f0i",
+        "url": "https://open.spotify.com/album/09MVDyqf8va8CMTe2Pm2dY"
+      },
+      "artists": [
+        {
+          "name": "CeaseTone",
+          "url": "https://open.spotify.com/artist/2FfS4tGbyODPI92Baw7Ys8"
+        }
+      ],
+      "duration_ms": 170250,
+      "name": "\u00c1 t\u00f3nafl\u00f3\u00f0i",
+      "url": "https://open.spotify.com/track/1KaWmzDXEwQqpzWy3uh6Hr"
+    },
+    {
+      "added_at": "2026-05-22 00:00:21",
+      "album": {
         "name": "Love is the New Gangsta",
         "url": "https://open.spotify.com/album/0DUJdzFUyxiNUheVGbdWrd"
       },
@@ -307,22 +339,6 @@
       "duration_ms": 223666,
       "name": "All That Matters (with Leon Thomas & AZ Chike)",
       "url": "https://open.spotify.com/track/0k0Fj2tp6jGWLGR0HevNYP"
-    },
-    {
-      "added_at": "2026-05-22 00:00:21",
-      "album": {
-        "name": "\u00c1 t\u00f3nafl\u00f3\u00f0i",
-        "url": "https://open.spotify.com/album/09MVDyqf8va8CMTe2Pm2dY"
-      },
-      "artists": [
-        {
-          "name": "CeaseTone",
-          "url": "https://open.spotify.com/artist/2FfS4tGbyODPI92Baw7Ys8"
-        }
-      ],
-      "duration_ms": 170250,
-      "name": "\u00c1 t\u00f3nafl\u00f3\u00f0i",
-      "url": "https://open.spotify.com/track/1KaWmzDXEwQqpzWy3uh6Hr"
     },
     {
       "added_at": "2026-05-22 00:00:21",
@@ -355,22 +371,6 @@
       "duration_ms": 225229,
       "name": "Evolution",
       "url": "https://open.spotify.com/track/2vpO3zMJ82SxEY1MzjNNrp"
-    },
-    {
-      "added_at": "2026-05-22 00:00:21",
-      "album": {
-        "name": "touch myself/idea of love",
-        "url": "https://open.spotify.com/album/76ZZEjABkKjynOcObQIQOZ"
-      },
-      "artists": [
-        {
-          "name": "kwn",
-          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
-        }
-      ],
-      "duration_ms": 249218,
-      "name": "touch myself",
-      "url": "https://open.spotify.com/track/3yftdtj8z7vS7M3EoPfVFK"
     },
     {
       "added_at": "2026-05-22 00:00:21",
@@ -427,22 +427,6 @@
     {
       "added_at": "2026-05-22 00:00:21",
       "album": {
-        "name": "Sulfur Surfer",
-        "url": "https://open.spotify.com/album/0ZegzmzVWw6wVsSeXK3OQE"
-      },
-      "artists": [
-        {
-          "name": "Bladee",
-          "url": "https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1"
-        }
-      ],
-      "duration_ms": 217672,
-      "name": "Versailles Flow",
-      "url": "https://open.spotify.com/track/2T1utvioehcgYAtQ6hjPOd"
-    },
-    {
-      "added_at": "2026-05-22 00:00:21",
-      "album": {
         "name": "Cold",
         "url": "https://open.spotify.com/album/1BwbpGGY2EtTI68hMp0iIb"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 172581,
       "name": "Cold",
       "url": "https://open.spotify.com/track/0y8qNHpC0yMIx31EASTQMX"
+    },
+    {
+      "added_at": "2026-05-22 00:00:21",
+      "album": {
+        "name": "Sulfur Surfer",
+        "url": "https://open.spotify.com/album/0ZegzmzVWw6wVsSeXK3OQE"
+      },
+      "artists": [
+        {
+          "name": "Bladee",
+          "url": "https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1"
+        }
+      ],
+      "duration_ms": 217672,
+      "name": "Versailles Flow",
+      "url": "https://open.spotify.com/track/2T1utvioehcgYAtQ6hjPOd"
     },
     {
       "added_at": "2026-05-22 00:00:21",
@@ -495,6 +495,22 @@
     {
       "added_at": "2026-05-22 00:00:21",
       "album": {
+        "name": "KONNAKOL (Deluxe)",
+        "url": "https://open.spotify.com/album/5woNSjHHIY0L01V4Dj0AlM"
+      },
+      "artists": [
+        {
+          "name": "ZAYN",
+          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
+        }
+      ],
+      "duration_ms": 178144,
+      "name": "Daydreamin\u2019",
+      "url": "https://open.spotify.com/track/5m0UFKwzACWZBRACdP19kc"
+    },
+    {
+      "added_at": "2026-05-22 00:00:21",
+      "album": {
         "name": "HOES (feat. Sexyy Red) [From Scary Movie]",
         "url": "https://open.spotify.com/album/1fuVofIf79f9kg2CPH3LIt"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 129170,
       "name": "HOES (feat. Sexyy Red) [From Scary Movie]",
       "url": "https://open.spotify.com/track/1IMTFCCPDw0R3JT6jYMimo"
-    },
-    {
-      "added_at": "2026-05-22 00:00:21",
-      "album": {
-        "name": "KONNAKOL (Deluxe)",
-        "url": "https://open.spotify.com/album/5woNSjHHIY0L01V4Dj0AlM"
-      },
-      "artists": [
-        {
-          "name": "ZAYN",
-          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
-        }
-      ],
-      "duration_ms": 178144,
-      "name": "Daydreamin\u2019",
-      "url": "https://open.spotify.com/track/5m0UFKwzACWZBRACdP19kc"
     },
     {
       "added_at": "2026-05-22 00:00:21",
@@ -635,22 +635,6 @@
     {
       "added_at": "2026-05-22 00:00:21",
       "album": {
-        "name": "Lovebites",
-        "url": "https://open.spotify.com/album/5PjXhp79Cl4FB7qCDOkm4V"
-      },
-      "artists": [
-        {
-          "name": "Luvcat",
-          "url": "https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "Silent Killer",
-      "url": "https://open.spotify.com/track/30GeuZLcq4ORyG1mf5JeYT"
-    },
-    {
-      "added_at": "2026-05-22 00:00:21",
-      "album": {
         "name": "Ms. Tundra",
         "url": "https://open.spotify.com/album/4n0zxIykuH6Wro23CrbIkS"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 192000,
       "name": "Ms. Tundra",
       "url": "https://open.spotify.com/track/07In5jCHBpsenzn9dB6ktS"
+    },
+    {
+      "added_at": "2026-05-22 00:00:21",
+      "album": {
+        "name": "Lovebites",
+        "url": "https://open.spotify.com/album/5PjXhp79Cl4FB7qCDOkm4V"
+      },
+      "artists": [
+        {
+          "name": "Luvcat",
+          "url": "https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "Silent Killer",
+      "url": "https://open.spotify.com/track/30GeuZLcq4ORyG1mf5JeYT"
     },
     {
       "added_at": "2026-05-22 00:00:21",
@@ -791,6 +791,22 @@
     {
       "added_at": "2026-05-22 00:00:21",
       "album": {
+        "name": "How Beautiful This Life Is",
+        "url": "https://open.spotify.com/album/2CshB3bOrYGHuXyIu9FsP9"
+      },
+      "artists": [
+        {
+          "name": "Berre",
+          "url": "https://open.spotify.com/artist/1hqxH66i1ZwEBAkzORVRPW"
+        }
+      ],
+      "duration_ms": 161093,
+      "name": "Yesterday, Today, Tomorrow",
+      "url": "https://open.spotify.com/track/2rz6LNSkIKcG1ulv67HNZZ"
+    },
+    {
+      "added_at": "2026-05-22 00:00:21",
+      "album": {
         "name": "HYPE",
         "url": "https://open.spotify.com/album/0rekevcYYxTEEgoAxYlNrd"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 185454,
       "name": "HYPE",
       "url": "https://open.spotify.com/track/6k7QsqmyWc9Y2G2VXB6fTw"
-    },
-    {
-      "added_at": "2026-05-22 00:00:21",
-      "album": {
-        "name": "How Beautiful This Life Is",
-        "url": "https://open.spotify.com/album/2CshB3bOrYGHuXyIu9FsP9"
-      },
-      "artists": [
-        {
-          "name": "Berre",
-          "url": "https://open.spotify.com/artist/1hqxH66i1ZwEBAkzORVRPW"
-        }
-      ],
-      "duration_ms": 161093,
-      "name": "Yesterday, Today, Tomorrow",
-      "url": "https://open.spotify.com/track/2rz6LNSkIKcG1ulv67HNZZ"
     },
     {
       "added_at": "2026-05-22 00:00:21",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2026-05-22 00:00:21",
       "album": {
+        "name": "Fear is the Fire",
+        "url": "https://open.spotify.com/album/0Tzpeu0yrXCLZj3Mj1xGmg"
+      },
+      "artists": [
+        {
+          "name": "Marie Fjeldsted",
+          "url": "https://open.spotify.com/artist/7KnLpYdNw1AHZPXrDRaFOq"
+        }
+      ],
+      "duration_ms": 197117,
+      "name": "Fear is the Fire",
+      "url": "https://open.spotify.com/track/0UdypUJxtBHvTUY32JSXcr"
+    },
+    {
+      "added_at": "2026-05-22 00:00:21",
+      "album": {
         "name": "G.L.I.M.T.",
         "url": "https://open.spotify.com/album/7t5Dnjfz1R4owhDi79JHdM"
       },
@@ -1099,22 +1115,6 @@
     {
       "added_at": "2026-05-22 00:00:21",
       "album": {
-        "name": "Fear is the Fire",
-        "url": "https://open.spotify.com/album/0Tzpeu0yrXCLZj3Mj1xGmg"
-      },
-      "artists": [
-        {
-          "name": "Marie Fjeldsted",
-          "url": "https://open.spotify.com/artist/7KnLpYdNw1AHZPXrDRaFOq"
-        }
-      ],
-      "duration_ms": 197117,
-      "name": "Fear is the Fire",
-      "url": "https://open.spotify.com/track/0UdypUJxtBHvTUY32JSXcr"
-    },
-    {
-      "added_at": "2026-05-22 00:00:21",
-      "album": {
         "name": "The More You Know",
         "url": "https://open.spotify.com/album/7xs5J9RbDNYDh3MRaBD1iW"
       },
@@ -1127,6 +1127,38 @@
       "duration_ms": 197558,
       "name": "Hollow",
       "url": "https://open.spotify.com/track/6MGDbhlu8JRiANoLQRA4QV"
+    },
+    {
+      "added_at": "2026-05-22 00:00:21",
+      "album": {
+        "name": "It's a Fantasy",
+        "url": "https://open.spotify.com/album/4PjDBpvdt4uCTnpttAnTy5"
+      },
+      "artists": [
+        {
+          "name": "Solow",
+          "url": "https://open.spotify.com/artist/01X9XiI7bYhN4jlzGuYZg0"
+        }
+      ],
+      "duration_ms": 166666,
+      "name": "It's a Fantasy",
+      "url": "https://open.spotify.com/track/4kYtURq2bLbF4s3Uz7lXjy"
+    },
+    {
+      "added_at": "2026-05-22 00:00:21",
+      "album": {
+        "name": "The Mountains Sing",
+        "url": "https://open.spotify.com/album/6oHsjXx2VA5QboV9oO7tNK"
+      },
+      "artists": [
+        {
+          "name": "Michael M\u00f8ller",
+          "url": "https://open.spotify.com/artist/6LjykAIG1uZTfnhQHCJhH4"
+        }
+      ],
+      "duration_ms": 241405,
+      "name": "Ripped Leaves",
+      "url": "https://open.spotify.com/track/5Gey0ygLTSTFTW9fsdqECK"
     },
     {
       "added_at": "2026-05-22 00:00:21",
@@ -1163,22 +1195,6 @@
     {
       "added_at": "2026-05-22 00:00:21",
       "album": {
-        "name": "The Mountains Sing",
-        "url": "https://open.spotify.com/album/6oHsjXx2VA5QboV9oO7tNK"
-      },
-      "artists": [
-        {
-          "name": "Michael M\u00f8ller",
-          "url": "https://open.spotify.com/artist/6LjykAIG1uZTfnhQHCJhH4"
-        }
-      ],
-      "duration_ms": 241405,
-      "name": "Ripped Leaves",
-      "url": "https://open.spotify.com/track/5Gey0ygLTSTFTW9fsdqECK"
-    },
-    {
-      "added_at": "2026-05-22 00:00:21",
-      "album": {
         "name": "Glansb\u00edl\u00f8t",
         "url": "https://open.spotify.com/album/5gvd1hJhvVNLGIEHE2DlJN"
       },
@@ -1191,22 +1207,6 @@
       "duration_ms": 186942,
       "name": "Glansb\u00edl\u00f8t",
       "url": "https://open.spotify.com/track/107j4gQwirjUt0jO8HM7Bd"
-    },
-    {
-      "added_at": "2026-05-22 00:00:21",
-      "album": {
-        "name": "It's a Fantasy",
-        "url": "https://open.spotify.com/album/4PjDBpvdt4uCTnpttAnTy5"
-      },
-      "artists": [
-        {
-          "name": "Solow",
-          "url": "https://open.spotify.com/artist/01X9XiI7bYhN4jlzGuYZg0"
-        }
-      ],
-      "duration_ms": 166666,
-      "name": "It's a Fantasy",
-      "url": "https://open.spotify.com/track/4kYtURq2bLbF4s3Uz7lXjy"
     },
     {
       "added_at": "2026-05-22 00:00:21",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: aja monet
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,049,032 likes - 100 songs - 8 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,049,073 likes - 100 songs - 8 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 4 | [Chi Ave/A Love Letter To Salvador](https://open.spotify.com/track/1LWMeSQAQwxQMU5iliTVWc) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht) | [Chi Ave/A Love Letter To Salvador](https://open.spotify.com/album/2i4B2yQ4EOv0xjjNAwNUww) | 4:41 |
 | 5 | [Pursuance](https://open.spotify.com/track/0adIBPfUdFtCT2cEuHt0px) | [Nicholas Payton](https://open.spotify.com/artist/3cwVFmQ6mcUoGR6ZvIPuZ4), [Butcher Brown](https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP) | [Pursuance](https://open.spotify.com/album/7nCIpXXl5aa0nZLbguWyNf) | 5:22 |
 | 6 | [Beyond The Dawn](https://open.spotify.com/track/0UyGgJdVrIlktu6ybISlft) | [Lakecia Benjamin](https://open.spotify.com/artist/6hvjxbUASJd6bHds2Teaul), [Terence Blanchard](https://open.spotify.com/artist/7IbO8NvxclKsk7WTOZ42bv) | [Beyond The Dawn](https://open.spotify.com/album/1dkOD4wEFe4Y0tuHS1vrXn) | 5:34 |
-| 7 | [CHASING LIGHT](https://open.spotify.com/track/4wtek4oeUWTz0Rmsg2eeAr) | [Moses Yoofee Trio](https://open.spotify.com/artist/4Jmjucr9inAKcxy64DYNxS) | [CHASING LIGHT / ZERO](https://open.spotify.com/album/3vuDWBhPlyIsj0hxV1EH6x) | 3:00 |
+| 7 | [CHASING LIGHT](https://open.spotify.com/track/4wtek4oeUWTz0Rmsg2eeAr) | [Moses Yoofee Trio](https://open.spotify.com/artist/4Jmjucr9inAKcxy64DYNxS), [Noah Fürbringer](https://open.spotify.com/artist/2aFDkXJvi1jsvhu5lHIu6F), [Moses Yoofee](https://open.spotify.com/artist/04OtBRCoBCqpgdiLKKklOS), [cowboyklobe](https://open.spotify.com/artist/3gZN7XHOHMwn1i0WZCWjKy) | [CHASING LIGHT / ZERO](https://open.spotify.com/album/3vuDWBhPlyIsj0hxV1EH6x) | 3:00 |
 | 8 | [Stella by Starlight](https://open.spotify.com/track/2Xl9x1b2zk62jenZSuXapr) | [Joey Alexander](https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII) | [Stella by Starlight](https://open.spotify.com/album/7h9rzMS9L5WtrK4MIV1ZEe) | 5:05 |
 | 9 | [Donna Lee](https://open.spotify.com/track/1TLEUcDyKrNQN7iFeb7wgu) | [Richard Baratta](https://open.spotify.com/artist/1LxHsIFW4ovnm2kDljMQ6X), [Eric Alexander](https://open.spotify.com/artist/4obfH4xleG9EzLN4NTNEfu), [Abraham Burton](https://open.spotify.com/artist/4agzhEVtyMP2t2Oexr08fb), [Craig Handy](https://open.spotify.com/artist/4zPZJDu0hy7O02eo0YxFaE) | [Another Kind of Bird](https://open.spotify.com/album/3bAbidDusuXWlANSq21iVD) | 7:08 |
 | 10 | [Good Kid](https://open.spotify.com/track/1AoNFXIVVR0j4aTO28Wxuw) | [Dana and Alden](https://open.spotify.com/artist/6xKRT9Uw0XOxNsmWX2vNBr) | [Good Kid](https://open.spotify.com/album/32QN9B8UTaw1XT9mrna9eL) | 3:06 |

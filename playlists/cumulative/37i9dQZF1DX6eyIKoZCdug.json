@@ -585,6 +585,28 @@
     },
     {
       "album": {
+        "name": "Breaking",
+        "url": "https://open.spotify.com/album/6xxAjyMa0avvRjfwEXknXK"
+      },
+      "artists": [
+        {
+          "name": "Mavo",
+          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+        },
+        {
+          "name": "SSSoundGawd",
+          "url": "https://open.spotify.com/artist/3rCVow8RScBBIyrdceDOiw"
+        }
+      ],
+      "date_added": "2026-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172160,
+      "name": "Aura Salad",
+      "url": "https://open.spotify.com/track/3JN8aItsGqTWapuekI8vxM"
+    },
+    {
+      "album": {
         "name": "AWA",
         "url": "https://open.spotify.com/album/28e7SX68Y9jGYw8Pbj0AIe"
       },
@@ -2264,7 +2286,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-27",
       "duration_ms": 357024,
       "name": "In This Moment - Cornelius SA Remix",
       "url": "https://open.spotify.com/track/3dOEyrDhlYcWzgcKCvBVe5"
@@ -3613,6 +3635,32 @@
     },
     {
       "album": {
+        "name": "Izinja Zam: Vol. I",
+        "url": "https://open.spotify.com/album/0HQLuYklJlPPnAH4Fk3IsH"
+      },
+      "artists": [
+        {
+          "name": "Zee Nxumalo",
+          "url": "https://open.spotify.com/artist/5m5lgddffBHA2pv0m5E2Ro"
+        },
+        {
+          "name": "Funky Qla",
+          "url": "https://open.spotify.com/artist/1raznef8uIDK0SAlPabb86"
+        },
+        {
+          "name": "Dlala Thukzin",
+          "url": "https://open.spotify.com/artist/5kmceQl1Y7lveTVbcy5ycD"
+        }
+      ],
+      "date_added": "2026-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341694,
+      "name": "Ngithathiwe",
+      "url": "https://open.spotify.com/track/7nFewePsCT0FJpIfKkVZsP"
+    },
+    {
+      "album": {
         "name": "Ngizimisele",
         "url": "https://open.spotify.com/album/0J5lDjlxCM515GQeS1JO8h"
       },
@@ -4620,7 +4668,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-27",
       "duration_ms": 530285,
       "name": "Shambhala",
       "url": "https://open.spotify.com/track/1m2MxrQF7dwRaFu0iZKs36"

@@ -1,6 +1,6 @@
 {
   "description": "De beste tunes op repeat. Cover: Langa",
-  "num_followers": 141192,
+  "num_followers": 141199,
   "original_name": "Pull Up Hits",
   "owner": {
     "name": "Spotify",
@@ -479,6 +479,26 @@
     {
       "added_at": "2026-05-21 12:28:12",
       "album": {
+        "name": "Matcha Coco",
+        "url": "https://open.spotify.com/album/70jZhmkexGwpMunmQj3TLs"
+      },
+      "artists": [
+        {
+          "name": "Noano",
+          "url": "https://open.spotify.com/artist/5eDdy8QxB47JsLASK2FI1m"
+        },
+        {
+          "name": "Jonna Fraser",
+          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
+        }
+      ],
+      "duration_ms": 177758,
+      "name": "Matcha Coco",
+      "url": "https://open.spotify.com/track/2LddWQtqjD4ORObbXr9pKX"
+    },
+    {
+      "added_at": "2026-05-21 12:28:12",
+      "album": {
         "name": "HEFTIG MAN",
         "url": "https://open.spotify.com/album/5ApqGTnAo2h1dLHPpHa8YY"
       },
@@ -499,26 +519,6 @@
       "duration_ms": 145092,
       "name": "HEFTIG MAN",
       "url": "https://open.spotify.com/track/68jBfkxK7APr2JQif5ts3c"
-    },
-    {
-      "added_at": "2026-05-21 12:28:12",
-      "album": {
-        "name": "Matcha Coco",
-        "url": "https://open.spotify.com/album/70jZhmkexGwpMunmQj3TLs"
-      },
-      "artists": [
-        {
-          "name": "Noano",
-          "url": "https://open.spotify.com/artist/5eDdy8QxB47JsLASK2FI1m"
-        },
-        {
-          "name": "Jonna Fraser",
-          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
-        }
-      ],
-      "duration_ms": 177758,
-      "name": "Matcha Coco",
-      "url": "https://open.spotify.com/track/2LddWQtqjD4ORObbXr9pKX"
     },
     {
       "added_at": "2026-05-21 12:28:12",
@@ -715,26 +715,6 @@
     {
       "added_at": "2026-05-21 12:28:12",
       "album": {
-        "name": "LIES",
-        "url": "https://open.spotify.com/album/5g3O1A0CXtTT1iKll0hSiN"
-      },
-      "artists": [
-        {
-          "name": "Lil Kleine",
-          "url": "https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT"
-        },
-        {
-          "name": "Yade Lauren",
-          "url": "https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT"
-        }
-      ],
-      "duration_ms": 199527,
-      "name": "LIES",
-      "url": "https://open.spotify.com/track/46Zi8b9UbvjwNpwngsyckC"
-    },
-    {
-      "added_at": "2026-05-21 12:28:12",
-      "album": {
         "name": "Reset The Levels IV",
         "url": "https://open.spotify.com/album/3dEZIui3bc00F6i1naifeE"
       },
@@ -763,6 +743,26 @@
       "duration_ms": 196389,
       "name": "100 BOTTLES",
       "url": "https://open.spotify.com/track/3VAke2ytnjRHsOymqBfhbr"
+    },
+    {
+      "added_at": "2026-05-21 12:28:12",
+      "album": {
+        "name": "LIES",
+        "url": "https://open.spotify.com/album/5g3O1A0CXtTT1iKll0hSiN"
+      },
+      "artists": [
+        {
+          "name": "Lil Kleine",
+          "url": "https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT"
+        },
+        {
+          "name": "Yade Lauren",
+          "url": "https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT"
+        }
+      ],
+      "duration_ms": 199527,
+      "name": "LIES",
+      "url": "https://open.spotify.com/track/46Zi8b9UbvjwNpwngsyckC"
     },
     {
       "added_at": "2026-05-21 12:28:12",
@@ -851,22 +851,6 @@
     {
       "added_at": "2026-05-21 12:28:12",
       "album": {
-        "name": "yawa",
-        "url": "https://open.spotify.com/album/3x4uU6LegVMe04Dn5fLiLw"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "yawa",
-      "url": "https://open.spotify.com/track/5tM3Fo4qBqDAwWJ9ZY5AtX"
-    },
-    {
-      "added_at": "2026-05-21 12:28:12",
-      "album": {
         "name": "BABABA WORLD",
         "url": "https://open.spotify.com/album/5sLI4vFzifjpqNjmbPQFhS"
       },
@@ -887,22 +871,18 @@
     {
       "added_at": "2026-05-21 12:28:12",
       "album": {
-        "name": "De Ene Hand Wast De Ander",
-        "url": "https://open.spotify.com/album/1JZOSXy4Fjjh5bo9FOcTBX"
+        "name": "yawa",
+        "url": "https://open.spotify.com/album/3x4uU6LegVMe04Dn5fLiLw"
       },
       "artists": [
         {
-          "name": "Broederliefde",
-          "url": "https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN"
-        },
-        {
-          "name": "Lil Kleine",
-          "url": "https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT"
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
         }
       ],
-      "duration_ms": 182352,
-      "name": "Waterkant",
-      "url": "https://open.spotify.com/track/7oogv7kVuYNY7hzUZyOpD6"
+      "duration_ms": 180000,
+      "name": "yawa",
+      "url": "https://open.spotify.com/track/5tM3Fo4qBqDAwWJ9ZY5AtX"
     },
     {
       "added_at": "2026-05-21 12:28:12",
@@ -927,6 +907,26 @@
       "duration_ms": 130546,
       "name": "Carrousel",
       "url": "https://open.spotify.com/track/3L5rczaS3ZiXepUbTIvHAp"
+    },
+    {
+      "added_at": "2026-05-21 12:28:12",
+      "album": {
+        "name": "De Ene Hand Wast De Ander",
+        "url": "https://open.spotify.com/album/1JZOSXy4Fjjh5bo9FOcTBX"
+      },
+      "artists": [
+        {
+          "name": "Broederliefde",
+          "url": "https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN"
+        },
+        {
+          "name": "Lil Kleine",
+          "url": "https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT"
+        }
+      ],
+      "duration_ms": 182352,
+      "name": "Waterkant",
+      "url": "https://open.spotify.com/track/7oogv7kVuYNY7hzUZyOpD6"
     },
     {
       "added_at": "2026-05-21 12:28:12",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 
 > R&B of the moment by the artists of the future\. Cover: Eric Penn
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,366 likes - 178 songs - 8 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,367 likes - 178 songs - 8 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

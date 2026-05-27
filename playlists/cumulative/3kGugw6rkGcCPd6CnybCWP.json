@@ -329,6 +329,24 @@
     },
     {
       "album": {
+        "name": "ashes (roses and petals)",
+        "url": "https://open.spotify.com/album/6F8LIZcCN1ogGPQuOJbHtj"
+      },
+      "artists": [
+        {
+          "name": "hxtedbyforce!",
+          "url": "https://open.spotify.com/artist/6LurtON7FdurBR7OGsgtJb"
+        }
+      ],
+      "date_added": "2026-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136274,
+      "name": "ashes (roses and petals)",
+      "url": "https://open.spotify.com/track/2xhHd50zQcD59LDICweKHs"
+    },
+    {
+      "album": {
         "name": "Ask Me Why",
         "url": "https://open.spotify.com/album/1A6vohn8A6e7Gn8mN5Ob0H"
       },
@@ -2478,6 +2496,24 @@
       "duration_ms": 175247,
       "name": "goodbye - 2025 remastered",
       "url": "https://open.spotify.com/track/10arqRDmhZcdhWZvpC3Ko0"
+    },
+    {
+      "album": {
+        "name": "Kindred Spirits",
+        "url": "https://open.spotify.com/album/2KkZKv7KkrXf7Ex96lomjB"
+      },
+      "artists": [
+        {
+          "name": "Lilith Left The Garden",
+          "url": "https://open.spotify.com/artist/0S8tp7VPxIpsU94O4Qdsxz"
+        }
+      ],
+      "date_added": "2026-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142296,
+      "name": "Grackle Grackle",
+      "url": "https://open.spotify.com/track/4VIQCb2y7ny84EGajG4bBM"
     },
     {
       "album": {

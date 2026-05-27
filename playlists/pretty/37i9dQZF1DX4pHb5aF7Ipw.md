@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 
 > Fresh Punjabi Hip\-Hop Tracks by Jerry, Cheema Y & more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,437 likes - 75 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,478 likes - 75 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Too Cold](https://open.spotify.com/track/7BvRH5La08ofw6oSdRMJ5V) | [JERRY](https://open.spotify.com/artist/1mUl05hT77FrwVFW51wOlr), [Devilo](https://open.spotify.com/artist/5qrlwNqpcRzoI9Pjux1xHQ) | [Too Cold](https://open.spotify.com/album/0Dl7iz7FVy6XSzEpZPGpnN) | 2:01 |
-| 2 | [One Call Away](https://open.spotify.com/track/2Wtl8Lr6ZF2XSnGcakH4zG) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G), [Jazzy B](https://open.spotify.com/artist/25bvyjHJAszeSV3q0TmEhY), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [Enigma](https://open.spotify.com/album/0mUdGUIB3n2lIXkarHHHyf) | 2:20 |
+| 2 | [One Call Away](https://open.spotify.com/track/2Wtl8Lr6ZF2XSnGcakH4zG) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G), [Jazzy B](https://open.spotify.com/artist/25bvyjHJAszeSV3q0TmEhY), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [Enigma](https://open.spotify.com/album/0mUdGUIB3n2lIXkarHHHyf) | 3:04 |
 | 3 | [Cartel](https://open.spotify.com/track/31NP3kpDutZWYcHAY4Vmze) | [Cheema Y](https://open.spotify.com/artist/0uOUeC51AxGnP6hB8gurwt), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Bermuda Triangle](https://open.spotify.com/album/6a7nrbUhXwFEJQ1xWCbNnh) | 2:36 |
 | 4 | [911](https://open.spotify.com/track/1EPcG4PNwL2YuvNHIKyMo0) | [Varinder Brar](https://open.spotify.com/artist/4C19flKmMm12gRxmBJWMCV), [Rav Dhaliwal](https://open.spotify.com/artist/3quojFCZjKk1j5zIv0HX2P) | [911](https://open.spotify.com/album/4iKThPk799paKw0G6BYrXp) | 3:08 |
 | 5 | [Locket](https://open.spotify.com/track/32xOX11lRzRPB5Ufl7oDQu) | [BK](https://open.spotify.com/artist/3O96LSvlQrNeKpZ8FuZkEk), [Arsh Heer](https://open.spotify.com/artist/0IMB9ZqS18okmvGMGYzl45) | [Locket](https://open.spotify.com/album/38NJQnSvqpfOfAaKA2kJYx) | 3:30 |

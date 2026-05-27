@@ -1,12 +1,12 @@
 {
   "description": "This is Within Temptation. The essential tracks, all in one playlist.",
-  "num_followers": 169854,
+  "num_followers": 169866,
   "original_name": "This Is Within Temptation",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahI/gAAAAAC8nYYNVNxvlHPLbr0/x4cv",
+  "snapshot_id": "ahORAAAAAABDSlc1OoWfQTSpPws948Z/",
   "tracks": [
     {
       "added_at": null,
@@ -146,11 +146,15 @@
         {
           "name": "Within Temptation",
           "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+        },
+        {
+          "name": "Keith Caputo",
+          "url": "https://open.spotify.com/artist/0o3RyxUXp69fLCpMxuOLsz"
         }
       ],
-      "duration_ms": 290946,
-      "name": "All I Need",
-      "url": "https://open.spotify.com/track/02oW7CYWjfiCs1rZs7GNes"
+      "duration_ms": 313333,
+      "name": "What Have You Done (feat. Keith Caputo)",
+      "url": "https://open.spotify.com/track/2OHeJR6Cfvm42512gonFRh"
     },
     {
       "added_at": null,
@@ -214,15 +218,11 @@
         {
           "name": "Within Temptation",
           "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
-        },
-        {
-          "name": "Keith Caputo",
-          "url": "https://open.spotify.com/artist/0o3RyxUXp69fLCpMxuOLsz"
         }
       ],
-      "duration_ms": 313333,
-      "name": "What Have You Done (feat. Keith Caputo)",
-      "url": "https://open.spotify.com/track/2OHeJR6Cfvm42512gonFRh"
+      "duration_ms": 290946,
+      "name": "All I Need",
+      "url": "https://open.spotify.com/track/02oW7CYWjfiCs1rZs7GNes"
     },
     {
       "added_at": null,
@@ -375,22 +375,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Unforgiving",
-        "url": "https://open.spotify.com/album/1EvpTfBqlDzPwDYzWTgTw3"
-      },
-      "artists": [
-        {
-          "name": "Within Temptation",
-          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
-        }
-      ],
-      "duration_ms": 330253,
-      "name": "A Demon's Fate",
-      "url": "https://open.spotify.com/track/6UsQsPIPP7gjdtlISXx3F2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hydra (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3RIcwy3cr1cvUibW8W0yoI"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 287773,
       "name": "Covered by Roses",
       "url": "https://open.spotify.com/track/4Lg1lKgxeR0UeGBVShfs6N"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Unforgiving",
+        "url": "https://open.spotify.com/album/1EvpTfBqlDzPwDYzWTgTw3"
+      },
+      "artists": [
+        {
+          "name": "Within Temptation",
+          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+        }
+      ],
+      "duration_ms": 330253,
+      "name": "A Demon's Fate",
+      "url": "https://open.spotify.com/track/6UsQsPIPP7gjdtlISXx3F2"
     },
     {
       "added_at": null,
@@ -811,22 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bleed Out",
-        "url": "https://open.spotify.com/album/1e6GqZoE8BqoGxRWQX6vJY"
-      },
-      "artists": [
-        {
-          "name": "Within Temptation",
-          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
-        }
-      ],
-      "duration_ms": 244706,
-      "name": "Cyanide Love",
-      "url": "https://open.spotify.com/track/7c5JuIrBDoaSbzIzAr7AxN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Fool's Parade",
         "url": "https://open.spotify.com/album/74uk0pmQPbVyZ5y4dlSF8h"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 222128,
       "name": "A Fool's Parade",
       "url": "https://open.spotify.com/track/1Okd6fnFsU1mZeiFcYSaTT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bleed Out",
+        "url": "https://open.spotify.com/album/1e6GqZoE8BqoGxRWQX6vJY"
+      },
+      "artists": [
+        {
+          "name": "Within Temptation",
+          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+        }
+      ],
+      "duration_ms": 244706,
+      "name": "Cyanide Love",
+      "url": "https://open.spotify.com/track/7c5JuIrBDoaSbzIzAr7AxN"
     },
     {
       "added_at": null,

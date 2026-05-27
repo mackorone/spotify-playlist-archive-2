@@ -20869,6 +20869,32 @@
     },
     {
       "album": {
+        "name": "Izinja Zam: Vol. I",
+        "url": "https://open.spotify.com/album/0HQLuYklJlPPnAH4Fk3IsH"
+      },
+      "artists": [
+        {
+          "name": "Zee Nxumalo",
+          "url": "https://open.spotify.com/artist/5m5lgddffBHA2pv0m5E2Ro"
+        },
+        {
+          "name": "Funky Qla",
+          "url": "https://open.spotify.com/artist/1raznef8uIDK0SAlPabb86"
+        },
+        {
+          "name": "Dlala Thukzin",
+          "url": "https://open.spotify.com/artist/5kmceQl1Y7lveTVbcy5ycD"
+        }
+      ],
+      "date_added": "2026-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341694,
+      "name": "Ngithathiwe",
+      "url": "https://open.spotify.com/track/7nFewePsCT0FJpIfKkVZsP"
+    },
+    {
+      "album": {
         "name": "Sacred Steps",
         "url": "https://open.spotify.com/album/5eThCbdRN6T8MulQgtwq73"
       },

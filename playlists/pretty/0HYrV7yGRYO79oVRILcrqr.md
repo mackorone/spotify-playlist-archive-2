@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,822 likes - 99 songs - 6 hr 33 min
+[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,823 likes - 101 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,5 +107,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 | 97 | [Libres](https://open.spotify.com/track/6FoHcurF0LjzhNpUfKBKS2) | [Mentes Extrañas](https://open.spotify.com/artist/5zs9HS2LJT78BM3fk60mCM) | [Libres](https://open.spotify.com/album/3U8pv2FDqE8YikJTvvYyMa) | 3:46 |
 | 98 | [Hechicera Lunar](https://open.spotify.com/track/70Ime2HP6wEjibFFaApDFc) | [Rockdra](https://open.spotify.com/artist/1dMp0BMXVaDsMNpp5NV5l8) | [Hechicera Lunar](https://open.spotify.com/album/4mjhjsOA0BdfZG1ntWZuyr) | 3:20 |
 | 99 | [Super 8](https://open.spotify.com/track/5RYqOCd159JIlWw7MDTPN0) | [Bounce Back](https://open.spotify.com/artist/70mZN7KBrWusiMgyXNW4Hb) | [Super 8](https://open.spotify.com/album/2Nbr2TjNHUruDKEVHmix6a) | 4:08 |
+| 100 | [Night is Young](https://open.spotify.com/track/71dtvsaPOTCi4RkQzmIKlE) | [Thomas Duxbury](https://open.spotify.com/artist/6ECILQNZ22Kc1VCNpX4Cct) | [Night is Young](https://open.spotify.com/album/4ejuRVnwvqW6bng1O811IL) | 2:52 |
+| 101 | [Keeping Pace](https://open.spotify.com/track/35YrQi7mkqLcsbkOpGS6gn) | [Randy Ellefson](https://open.spotify.com/artist/6x4QyTflA6R6xOvtXHsyNI) | [Now Weaponized!](https://open.spotify.com/album/3S79mUMMfO1orW6ubEsTY0) | 5:41 |
 
-Snapshot ID: `AAALgWBFS1pyy2X1rS5VlGJJY8sDIuM0`
+Snapshot ID: `AAALg+hNQuQzINYgSi3q+I1WYns2Mx4K`

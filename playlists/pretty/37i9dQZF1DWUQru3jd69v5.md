@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > FreshMula in cover della playlist con il futuro del rap italiano 📈
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,740 likes - 82 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,736 likes - 82 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 8 | [Splinter Cell](https://open.spotify.com/track/3KsGBiWVuybY3Zm7LDKuqK) | [G.Mineiro](https://open.spotify.com/artist/1dlyjeDlgXalzt5oqbgWDs) | [Splinter Cell](https://open.spotify.com/album/6R0HGRmgF4A0wMrwkTh6yr) | 1:57 |
 | 9 | [ANIMALIER \(feat\. YD Frost\)](https://open.spotify.com/track/0HMKItCz33uf3vvKjL73k1) | [Flaco G](https://open.spotify.com/artist/7uQjkmip3qpclXt7hJ6EI9), [YD Frost](https://open.spotify.com/artist/5VfyRN67E8k3yyivZ5p72L) | [THE GOLDFATHER](https://open.spotify.com/album/2wqe37GloOInHxfqo7N6DC) | 2:23 |
 | 10 | [Camicia e Zanotti](https://open.spotify.com/track/0sqNyE1IULjfZsjEaH15MK) | [Dagood YL](https://open.spotify.com/artist/4zHxCzvTEP15QarBTgB9hw), [twentyone21](https://open.spotify.com/artist/4p631lz9dfbF3JbUDCkIyK) | [\#FREEDAG \(album\)](https://open.spotify.com/album/1Nlmk5ApaxYjkryFodo4O6) | 3:47 |
-| 11 | [MONTAGNA](https://open.spotify.com/track/2po9ZE001hx0fMIJMAnxMR) | [Enzo Benz](https://open.spotify.com/artist/6JKLzRBKTJYf1Wko3cNr7P), [Side Baby](https://open.spotify.com/artist/6PXiPeUVFrlaC1n8511ijT), [Whellele](https://open.spotify.com/artist/0FLa2WN4PurUaFP24efaZF) | [MONTAGNA](https://open.spotify.com/album/1zIsm9UnJYUW9dU1rXKgiK) | 2:16 |
+| 11 | [MONTAGNA \(feat\. Side Baby\)](https://open.spotify.com/track/2po9ZE001hx0fMIJMAnxMR) | [Enzo Benz](https://open.spotify.com/artist/6JKLzRBKTJYf1Wko3cNr7P), [Side Baby](https://open.spotify.com/artist/6PXiPeUVFrlaC1n8511ijT), [Whellele](https://open.spotify.com/artist/0FLa2WN4PurUaFP24efaZF) | [MONTAGNA \(feat\. Side Baby\)](https://open.spotify.com/album/1zIsm9UnJYUW9dU1rXKgiK) | 2:16 |
 | 12 | [leggenda vivente](https://open.spotify.com/track/2AuuKXckWtanMCosf3rQBH) | [Waze RRX](https://open.spotify.com/artist/12wWvc6Z0111IfGRncCtwD) | [leggenda vivente](https://open.spotify.com/album/4gYXm0c2Pctov4QOgkijRS) | 2:24 |
 | 13 | [RAW OR SWEET](https://open.spotify.com/track/6l2FnoZNitUUDnGQSqT4HN) | [Kevin Kalvin](https://open.spotify.com/artist/2AAA2f9pypoLem07n4Rj9n) | [RAW OR SWEET](https://open.spotify.com/album/6LG7tSuqmG5vrTLZ1eu46p) | 2:23 |
 | 14 | [Via dei Mille](https://open.spotify.com/track/2qBPVhXAvX3kTFp2mk46gn) | [Dipinto](https://open.spotify.com/artist/26toJml6wSdf58ZgNG0ci9), [Fresh Beatz](https://open.spotify.com/artist/6HQ27YefiitrZ9YsWrgRHX) | [Via dei Mille](https://open.spotify.com/album/582gc2Nyig9saw8gHx9sUw) | 2:10 |

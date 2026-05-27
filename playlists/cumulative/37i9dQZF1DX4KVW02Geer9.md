@@ -2,9 +2,9 @@
 
 ### [X\-Over ジャズ!](https://open.spotify.com/playlist/37i9dQZF1DX4KVW02Geer9)
 
-> クロスオーバー・ジャズの先駆者、更に次世代のシーンの最先端に立つアーティストの曲を、まとめてお届けします。Cover: fox capture plan
+> クロスオーバー・ジャズの先駆者、更に次世代のシーンの最先端に立つアーティストの曲を、まとめてお届けします。Cover: N.S\. DANCEMBLE
 
-561 songs - 1 day 16 hr 11 min
+565 songs - 1 day 16 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -273,6 +273,7 @@
 | [Lena](https://open.spotify.com/track/2ma6FYKV0rIDhOhiquNdB6) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Kofi Stone](https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ) | [Lena](https://open.spotify.com/album/3aGQNTgUSPn8bu4XqHMBAM) | 3:25 | 2024-06-27 | 2024-08-16 |
 | [Lenha Na Fogueira](https://open.spotify.com/track/1NID0KmcpFGbV9muWTc6ef) | [Azymuth](https://open.spotify.com/artist/5lYcr7Yue9FUB7MJDBtTJx), [Luisa](https://open.spotify.com/artist/1pwadcOYNQ8MHWF8CDO1WP) | [Luisa](https://open.spotify.com/album/4YV55xvURahHnwFD5ZM0rM) | 3:02 | 2025-07-17 | 2025-08-20 |
 | [Let Me Cook](https://open.spotify.com/track/6aU3cf7zDyZlfdiFNYeRNQ) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793), [Dawn Richard](https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9) | [Spirit Box](https://open.spotify.com/album/2E0PfJRClRUJps8edfgJja) | 2:52 | 2024-11-07 | 2025-06-06 |
+| [Let The Sky Open Under Your Feet](https://open.spotify.com/track/2Pe4C7EbOhkb2ELEGsLfDc) | [Skyjack](https://open.spotify.com/artist/6gSBRCbcqIIaD7slbHymwa) | [Let The Sky Open Under Your Feet](https://open.spotify.com/album/5KbTt2xYPBeZXvChMbMwec) | 6:35 | 2026-05-26 |  |
 | [Libations: KwaKhangelamankengana](https://open.spotify.com/track/71OFi2giEZnnF9kfhWUlq1) | [Nduduzo Makhathini](https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft) | [uNomkhubulwane](https://open.spotify.com/album/282PG9yezvXZUVMimjWkXw) | 6:27 | 2025-06-05 | 2026-01-15 |
 | [Liberation](https://open.spotify.com/track/1gZe7qEONCZdRFn2A7UhdJ) | [Sly5thAve](https://open.spotify.com/artist/15zxwAfOdT7WmQeFWPJtKi) | [Liberation](https://open.spotify.com/album/0VzsYDmj3gbUrc9u0BYsRo) | 5:14 | 2024-06-27 | 2024-08-09 |
 | [Life](https://open.spotify.com/track/1foVQBPHeze4jhdKtQCFFs) | [Nautilus](https://open.spotify.com/artist/4BkWJqgQzg2M6iVG8u8mPA), [多和田えみ](https://open.spotify.com/artist/75lvsN9jSpGRWcQhERynWS) | [Life](https://open.spotify.com/album/3kMapkyqMsAi6Hi5I5lfbc) | 3:56 | 2024-07-11 | 2024-08-09 |
@@ -485,6 +486,7 @@
 | [Tokyo Daydream](https://open.spotify.com/track/6WLnZc1eXIoGy6VOzkEV3l) | [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz), [Taali](https://open.spotify.com/artist/5SkhihNXZNPmooUcbSVZho) | [1978: Revenge of The Dragon](https://open.spotify.com/album/485R0lCUZRApYWXnH2PAeh) | 3:48 | 2025-05-15 | 2025-08-01 |
 | [Tokyo Lift \(5am\)](https://open.spotify.com/track/3nNHdtE7GDHCBwt6mA1D4M) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Tokyo Lift \(5am\)](https://open.spotify.com/album/5VOkDAIt6P6s1eNRhay1xE) | 2:24 | 2025-03-13 | 2025-06-27 |
 | [Tomorrow（feat.Gaku Kano）](https://open.spotify.com/track/0hFgollnKwPJjFod8ouqof) | [PYRAMID](https://open.spotify.com/artist/3U0QIklMYTwPDN4NE56Wpy), [Gaku Kano](https://open.spotify.com/artist/6pV6yUKdqnxwwKpqSu6AXM) | [Tomorrow（feat.Gaku Kano）](https://open.spotify.com/album/03b1xvc1fNSbThzeQJvsfJ) | 3:54 | 2026-01-15 |  |
+| [Track 8](https://open.spotify.com/track/4XI2i9wR9L8OHhkrOLf7gr) | [Avishai Cohen](https://open.spotify.com/artist/5wu05jGsVMAFHYMYHqCB9l) | [Eternal Child](https://open.spotify.com/album/3dDNKDujQDYcQ5qwEz64hm) | 0:00 | 2026-05-26 |  |
 | [Traffic Lights \(feat\. Thom Yorke\)](https://open.spotify.com/track/2kSQNFlBqsHSzEw6riHR8K) | [Flea](https://open.spotify.com/artist/0Xl5J6iOgiQHFqgri7TF8j), [Thom Yorke](https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau) | [Traffic Lights \(feat\. Thom Yorke\)](https://open.spotify.com/album/3XztKVcdPZv8EZbgvYrxrF) | 5:41 | 2026-01-15 | 2026-04-03 |
 | [Transient Line](https://open.spotify.com/track/4ekwaV3DkhZOWafEoKWUUZ) | [Soundtype](https://open.spotify.com/artist/0IDzcMfdL7OKZNhFjjH4Te) | [Transient Line](https://open.spotify.com/album/4eOsTT2FgzuTRqCJLqXDbH) | 4:13 | 2025-07-03 | 2025-09-26 |
 | [Transporter](https://open.spotify.com/track/0mQo8pALF313P3mtXFQj1T) | [Wu\-Lu](https://open.spotify.com/artist/5yRolHpTcDas7KX7KiH6Wd), [Leif Maine](https://open.spotify.com/artist/7MBurgGNsSYdHWtMEMQu2l), [Jackson Mathod](https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx) | [Transformations](https://open.spotify.com/album/3pGVHliOsYNnjjQLjZaClb) | 2:27 | 2025-06-19 | 2025-08-01 |
@@ -560,12 +562,14 @@
 | [バーチャル団地 \(feat\. 有坂朋恵\)](https://open.spotify.com/track/0Z17pYcnG59l4Rpd4a8M9O) | [ku\-ten](https://open.spotify.com/artist/5kigcfJtgrmnwom5rwGy26), [有坂朋恵](https://open.spotify.com/artist/3zH4bLzYXkPVk2NyRzbGYJ) | [バーチャル団地 \(feat\. 有坂朋恵\)](https://open.spotify.com/album/7tWQavWNFZSAGFINf8x3MB) | 3:21 | 2024-10-17 | 2025-02-07 |
 | [偶然の一致](https://open.spotify.com/track/4t9kLLMLdjWfEtXbM3K6r1) | [fox capture plan](https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo), [Ai Higuchi](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [偶然の一致](https://open.spotify.com/album/77LZP3ZbG1hbKmSUzzdgkJ) | 4:11 | 2025-08-29 | 2025-10-03 |
 | [光の果実](https://open.spotify.com/track/0PMLzMjMlNTHQqrJ1cAJE1) | [寺久保伶矢](https://open.spotify.com/artist/5p9vfpKQ32WYNdtyt6oSlE), [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [Reiya The P.A.V.E.](https://open.spotify.com/album/28Xjlj4ghnuLTI5Co2bStf) | 4:42 | 2025-05-15 | 2025-08-01 |
+| [再生](https://open.spotify.com/track/1OTYC3sM0OjSNd7Y72bprw) | [N.S\. DANCEMBLE](https://open.spotify.com/artist/4vgz1ReBFy52w0qHJekFBr) | [iii](https://open.spotify.com/album/6YMgz5xg15rXCTT0MAVGBU) | 3:21 | 2026-05-26 |  |
 | [卒業のエアロライト](https://open.spotify.com/track/0E5npJ8i9uBWErs4vrGOl9) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [卒業のエアロライト](https://open.spotify.com/album/6IlJNmhEKHcpb6mYmraMM0) | 4:00 | 2026-02-05 |  |
 | [惑星](https://open.spotify.com/track/2uA4yw2tDNXdfKLSQ6F0GL) | [矢舟テツロー](https://open.spotify.com/artist/552OyEDbpgWBiFB9vE0SDV) | [惑星](https://open.spotify.com/album/698Joy6TODu5G4d8bCaHCE) | 2:47 | 2024-06-27 | 2024-09-13 |
 | [揺れる](https://open.spotify.com/track/7htsAqcJKs8wuKIbIFB47r) | [LOTUS GUITAR](https://open.spotify.com/artist/0oe4CpEcla7VtzEtP0DYE6) | [揺れる](https://open.spotify.com/album/7oU1ioz9JWtg73Lnl23jv6) | 3:38 | 2025-09-04 | 2025-11-28 |
 | [朝](https://open.spotify.com/track/5KUzNgtrmfP7Gai6YwC34x) | [織田祐亮](https://open.spotify.com/artist/2oSlBHEUTRW3jqfbI6l5cD), [TRI4TH](https://open.spotify.com/artist/5RdEgvFMoLubrYet7DNjia), [Solitary Circus](https://open.spotify.com/artist/3tC21Y0BhX2kIIhcUIvaL3) | [朝](https://open.spotify.com/album/50PBnbz7veU24IONeaTtMc) | 3:14 | 2025-06-19 | 2025-10-03 |
 | [歩道橋](https://open.spotify.com/track/0Z83Bkchqv0GPB2yVexuMW) | [Jiggy Beats Jazz Orchestra](https://open.spotify.com/artist/7rbBgtRwCwwWWag1fz62dc), [Kingo](https://open.spotify.com/artist/0EQsho43hajeaj7OxSVVZP) | [歩道橋](https://open.spotify.com/album/344lOPFNi6dzlofgJYlkdl) | 5:31 | 2024-06-27 | 2024-08-09 |
 | [流星の茶話会](https://open.spotify.com/track/4swDVIH5fT96oMp9AGi2XX) | [市川空](https://open.spotify.com/artist/6r1gCeT5yIWmtnerBQpAmZ) | [流星の茶話会](https://open.spotify.com/album/2KKdWldMNePwOF9x0biuC0) | 3:39 | 2025-01-16 | 2025-02-07 |
+| [空の音](https://open.spotify.com/track/3h33w1JJkPF3GykNEq0GXT) | [Eresia](https://open.spotify.com/artist/0rgDbqaA4a3L6fboqx0Js7) | [空の音](https://open.spotify.com/album/4jqL7HA9jUR8Wxb8PypMA4) | 3:39 | 2026-05-26 |  |
 | [邂逅](https://open.spotify.com/track/0lJDV5BTXFvgDgnOguaPEA) | [LOTUS GUITAR](https://open.spotify.com/artist/0oe4CpEcla7VtzEtP0DYE6) | [邂逅](https://open.spotify.com/album/42pFLB9MwWbPRCbHdfXfGo) | 4:08 | 2025-03-06 | 2025-05-09 |
 | [飛ばしたっしょ](https://open.spotify.com/track/0k1VXxgEeXsdQ9BeYimc29) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [飛ばしたっしょ](https://open.spotify.com/album/4sQ5KG0INydjjFA04l6aJx) | 3:22 | 2024-06-27 | 2024-07-12 |
 | [麓の景色](https://open.spotify.com/track/1IPT0ks4lkE0ckyYpMkaW5) | [市川空](https://open.spotify.com/artist/6r1gCeT5yIWmtnerBQpAmZ) | [麓の景色](https://open.spotify.com/album/7FtrOVehVgnwtjoF02bHI9) | 7:07 | 2026-02-17 |  |

@@ -4,7 +4,7 @@
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:0SL3lfuoRP67mrvkdnwIMA">slayr</a>
 
-2,871 songs - 5 day 6 hr 16 min
+2,872 songs - 5 day 6 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -435,7 +435,7 @@
 | [Burning Up \(feat\. The Kid LAROI\)](https://open.spotify.com/track/5sB27YGIsK9zBi0uVfjOek) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Who is Nardo Wick?? \(Deluxe\)](https://open.spotify.com/album/47Thm1tltjJVofuRumhfmi) | 2:08 | 2022-07-22 | 2022-10-15 |
 | [BUSHWICK](https://open.spotify.com/track/6R05JVE3gN370icGwaAOUT) | [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0), [Ovrkast.](https://open.spotify.com/artist/4YISTUJnoZtAy6LjgOpRL7) | [Detour](https://open.spotify.com/album/69vMzrlvjJc7dBCJgR9jZP) | 2:18 | 2026-03-20 |  |
 | [Bussin](https://open.spotify.com/track/6RBzypSp0OMn2X85uUyb2P) | [Hd4president](https://open.spotify.com/artist/1IRUBjX6bQWnwupD48ZRgc) | [Find My Way](https://open.spotify.com/album/6Q3RWVPWVd2m1ljjyQO4Mc) | 2:04 | 2022-04-22 | 2022-06-18 |
-| [Butta B](https://open.spotify.com/track/2r7PywSTrql5YQFMUi5PlA) | [Fatt Smaxk](https://open.spotify.com/artist/0RRUXaSteOOZzo5gMCAeuX) | [Smaxk Season 2](https://open.spotify.com/album/6NnP5Ldvs5ICrNy5c3SjPr) | 1:51 | 2026-04-10 |  |
+| [Butta B](https://open.spotify.com/track/2r7PywSTrql5YQFMUi5PlA) | [Fatt Smaxk](https://open.spotify.com/artist/0RRUXaSteOOZzo5gMCAeuX) | [Smaxk Season 2](https://open.spotify.com/album/6NnP5Ldvs5ICrNy5c3SjPr) | 1:51 | 2026-04-10 | 2026-05-27 |
 | [Butterflies](https://open.spotify.com/track/3w3vwLvVxTULEP69npjP6i) | [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm) | [Proud Of Myself](https://open.spotify.com/album/0wEkiIBzTdP3BWpq0YhUYP) | 1:43 | 2024-11-22 | 2024-11-30 |
 | [BUTTERFLY COUPE \(feat\. Quavo\) \- PART 2](https://open.spotify.com/track/6fxgWsJWzQWKq2YoAJNLey) | [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [BUTTERFLY COUPE feat\. Quavo \(PART 2\)](https://open.spotify.com/album/7dlgyGTSBR0SyN7tMo3R43) | 2:44 | 2023-10-20 | 2023-12-16 |
 | [BUTTERFLY COUPE feat\. Tyga](https://open.spotify.com/track/3HCDcijVzbd59yvVn0nLPY) | [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [BUTTERFLY COUPE feat\. Tyga](https://open.spotify.com/album/4Lm3jQ2K459Vufnq6wHjn4) | 2:44 | 2023-08-04 | 2023-10-21 |
@@ -2309,6 +2309,7 @@
 | [Small Talk](https://open.spotify.com/track/1odrqfthbGoAF92G1Pyu4C) | [Ovrkast.](https://open.spotify.com/artist/4YISTUJnoZtAy6LjgOpRL7), [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [While The Iron Is Hot](https://open.spotify.com/album/0cFavtnkVxB3dpml8KpJEg) | 3:13 | 2025-06-03 | 2025-07-05 |
 | [Small Talk](https://open.spotify.com/track/7qGSwh7ZhKy0iHIXsDfn0N) | [Ovrkast.](https://open.spotify.com/artist/4YISTUJnoZtAy6LjgOpRL7), [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [Small Talk](https://open.spotify.com/album/4uFrzWn4YGeEgtugDyhcmB) | 3:13 | 2025-10-10 | 2026-04-11 |
 | [Small Town Hero](https://open.spotify.com/track/1uJlJyphY1YXiFWzsTo8qe) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn) | [Small Town Hero](https://open.spotify.com/album/42No6q5fgA1s4qx8Of7E9J) | 2:57 | 2022-07-15 | 2022-09-10 |
+| [Smaxk Or Die \- feat\. Playboi Carti](https://open.spotify.com/track/1FjpYJ1tVHG3r0xDhZ3tTc) | [Fatt Smaxk](https://open.spotify.com/artist/0RRUXaSteOOZzo5gMCAeuX), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Smaxk Or Die \(feat\. Playboi Carti\)](https://open.spotify.com/album/0aREGajx4svsFLILvSrq5i) | 2:05 | 2026-05-26 |  |
 | [Smile](https://open.spotify.com/track/4Vujm3j3rDSsOD6oukgxLI) | [Calboy](https://open.spotify.com/artist/0HkcYmcjrBR3SCw9Ld5VZk) | [Smile](https://open.spotify.com/album/2bhiFZR9bJPKg9O5GfyInE) | 1:46 | 2024-02-23 | 2024-03-16 |
 | [Smoke n Drank](https://open.spotify.com/track/1ZdJs4bRHZ3SxQZbsN7GK1) | [Jordan Adetunji](https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY) | [Smoke n Drank](https://open.spotify.com/album/5lB05a1yY6RezxtXAOkU9y) | 2:31 | 2025-11-07 | 2025-11-20 |
 | [SMOKE YOU OUT](https://open.spotify.com/track/5O1sQhL8Y70DCBUUr8O8fF) | [Anycia](https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I), [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly) | [SMOKE YOU OUT](https://open.spotify.com/album/2Ck6R1B3YCfmh7OUipcIrH) | 2:02 | 2024-11-15 | 2025-01-07 |

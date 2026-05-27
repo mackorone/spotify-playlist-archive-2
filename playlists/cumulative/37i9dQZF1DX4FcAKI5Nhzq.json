@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "Future K-Pop hits! (Cover: TAEMIN)",
+  "description": "Future K-Pop hits! (Cover: AND2BLE (\uc564\ub354\ube14))",
   "name": "K-Pop Rising",
   "tracks": [
     {
@@ -734,7 +734,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-27",
       "duration_ms": 295007,
       "name": "AE",
       "url": "https://open.spotify.com/track/1JPbaf6KZmhKVWBuJVGZUa"
@@ -1732,7 +1732,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-27",
       "duration_ms": 165910,
       "name": "Backseat",
       "url": "https://open.spotify.com/track/0AoI4bREI1xef36mJh2WZ3"
@@ -3037,6 +3037,32 @@
     },
     {
       "album": {
+        "name": "Blow Your Mind",
+        "url": "https://open.spotify.com/album/1D1qNLuTQCq0jhXCrefnJ9"
+      },
+      "artists": [
+        {
+          "name": "Yorch",
+          "url": "https://open.spotify.com/artist/5okdmXsuAKNIXebXJ5MyIl"
+        },
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        },
+        {
+          "name": "Bryan Chase",
+          "url": "https://open.spotify.com/artist/0qOcjTObT75YJLbDBfSgXw"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "Blow Your Mind (feat. Sik-K, Bryan Chase)",
+      "url": "https://open.spotify.com/track/4XdW9YaG8lXOYXswzxmuEB"
+    },
+    {
+      "album": {
         "name": "Blue & Black",
         "url": "https://open.spotify.com/album/5n3Ny3eqXdOY4NzQCXsykh"
       },
@@ -3548,7 +3574,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-27",
       "duration_ms": 172000,
       "name": "Born Savage",
       "url": "https://open.spotify.com/track/21AdIbIIP9cFgwnwEnEl07"
@@ -6202,6 +6228,24 @@
       "duration_ms": 204933,
       "name": "Curiosity",
       "url": "https://open.spotify.com/track/2XCErHtPrNPA3SIYgAoica"
+    },
+    {
+      "album": {
+        "name": "Sequence 01: Curiosity",
+        "url": "https://open.spotify.com/album/5fCZmHJgVkaNIf2ZcmlmzD"
+      },
+      "artists": [
+        {
+          "name": "AND2BLE",
+          "url": "https://open.spotify.com/artist/3vAHTO5HJ4FmzrLmVbOKRF"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "Curious",
+      "url": "https://open.spotify.com/track/3rg00htlOp0UuBZcAMGkwJ"
     },
     {
       "album": {
@@ -9116,7 +9160,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-27",
       "duration_ms": 198440,
       "name": "Feel It Too",
       "url": "https://open.spotify.com/track/7pa2CHENwzDO82W1UDpiJp"
@@ -11026,7 +11070,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-27",
       "duration_ms": 166000,
       "name": "GOD",
       "url": "https://open.spotify.com/track/4DqKlR8BqPCuodaTrnea8g"
@@ -12396,7 +12440,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-27",
       "duration_ms": 180000,
       "name": "HMPH!",
       "url": "https://open.spotify.com/track/2CbgyivbjNuNrBuEDMps23"
@@ -13809,6 +13853,24 @@
     },
     {
       "album": {
+        "name": "IDKI",
+        "url": "https://open.spotify.com/album/43W5Qp6cXSuFrHhLHOi3iS"
+      },
+      "artists": [
+        {
+          "name": "PENIEL",
+          "url": "https://open.spotify.com/artist/21EUYgHJLDUeG72eDEmTx4"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143000,
+      "name": "IDKI",
+      "url": "https://open.spotify.com/track/5G6hbkya8ZQJnErMotSSzD"
+    },
+    {
+      "album": {
         "name": "IF I SAY, I LOVE YOU",
         "url": "https://open.spotify.com/album/0oG7GdJqiwdDcVfz1FwZEe"
       },
@@ -14536,7 +14598,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-27",
       "duration_ms": 276920,
       "name": "Joy, Sorrow, A Beautiful Heart",
       "url": "https://open.spotify.com/track/3yKUJbZjAWlteUSjnNv3UK"
@@ -14760,7 +14822,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-27",
       "duration_ms": 158000,
       "name": "KEYVITUP",
       "url": "https://open.spotify.com/track/5BKwXFDUy903O85ATXdu5e"
@@ -16150,7 +16212,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-11",
+      "date_removed": null,
       "duration_ms": 181560,
       "name": "LOVE ATTACK",
       "url": "https://open.spotify.com/track/6uosenLUNFZtOIih5T0qfV"
@@ -18425,6 +18487,24 @@
     },
     {
       "album": {
+        "name": "My Only One",
+        "url": "https://open.spotify.com/album/5S1GgfexkW4slItt1bb6Xt"
+      },
+      "artists": [
+        {
+          "name": "Jang Hyun Seung",
+          "url": "https://open.spotify.com/artist/0Y669kGV5Gru5RaumXTxtV"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167000,
+      "name": "My Only One",
+      "url": "https://open.spotify.com/track/0vfX3sYP6YogtII1Ihhc8u"
+    },
+    {
+      "album": {
         "name": "New Moon",
         "url": "https://open.spotify.com/album/7J8v0tZ6svPXbPvivnltq8"
       },
@@ -19004,7 +19084,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-27",
       "duration_ms": 160000,
       "name": "NINETEEN",
       "url": "https://open.spotify.com/track/2fBzTfPEf46iuJvZpTD5gp"
@@ -19798,6 +19878,24 @@
       "duration_ms": 238736,
       "name": "OHAYO MY NIGHT",
       "url": "https://open.spotify.com/track/4iJprGt1rt5iy0sxXXaRWn"
+    },
+    {
+      "album": {
+        "name": "No School Tomorrow",
+        "url": "https://open.spotify.com/album/6nRIRE0BPMRd2lrixYYXjN"
+      },
+      "artists": [
+        {
+          "name": "ALPHA DRIVE ONE",
+          "url": "https://open.spotify.com/artist/1Sal7hVz3weo0mvYZPiWHT"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "OMG!",
+      "url": "https://open.spotify.com/track/2tMfEwk96cjTSRTelQkwx6"
     },
     {
       "album": {
@@ -21672,6 +21770,24 @@
       "duration_ms": 216680,
       "name": "Puzzle",
       "url": "https://open.spotify.com/track/5QYXBAiagfRIwzlouAnJXQ"
+    },
+    {
+      "album": {
+        "name": "PWLT",
+        "url": "https://open.spotify.com/album/4KvHOjRNJ6RYFJEyNFRm79"
+      },
+      "artists": [
+        {
+          "name": "Krystal",
+          "url": "https://open.spotify.com/artist/253YRxmnmB0BcRhFtj1tBI"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218945,
+      "name": "PWLT",
+      "url": "https://open.spotify.com/track/7kLcolBu5DbHBik5ZEKk9m"
     },
     {
       "album": {
@@ -26364,7 +26480,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-27",
       "duration_ms": 204229,
       "name": "Sweet & Sour",
       "url": "https://open.spotify.com/track/2XtHZDeNTUvOEsnHAI8HGo"
@@ -27950,7 +28066,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-27",
       "duration_ms": 233127,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/46bmwEzNQvaJN2DfTWf5Oj"
@@ -30104,7 +30220,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-27",
       "duration_ms": 130000,
       "name": "What's a girl to do",
       "url": "https://open.spotify.com/track/1JymZBT39MAPXffPcKkaPW"

@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,413 songs - 9 day 19 hr 46 min
+4,417 songs - 9 day 20 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -778,6 +778,7 @@
 | [CROCEVIA](https://open.spotify.com/track/2A9VIY7bgdG8A7nor3w9Ae) | [EDY](https://open.spotify.com/artist/7j8SjESINTw9J7TkSUQ9cV) | [CROCEVIA](https://open.spotify.com/album/6khi0zbmXz59UOzVgczZYv) | 2:24 | 2026-01-20 |  |
 | [Cromoterapia](https://open.spotify.com/track/2FcD7aXAebYhBQwok93LTo) | [Ipostatomici](https://open.spotify.com/artist/1qtIbNG68SDTZfos1q4ACi) | [Cromoterapia](https://open.spotify.com/album/3cmuDeVogBxVsTfbj48jF7) | 3:02 | 2026-02-13 |  |
 | [Cross](https://open.spotify.com/track/4dNxRlFdR7Zev6JuIjuhpX) | [Springworks](https://open.spotify.com/artist/351ok85APWNYv1RcU0UMcn) | [Cross](https://open.spotify.com/album/1uUnqmcPIxByy7uFJIdRdX) | 3:13 | 2025-12-04 |  |
+| [Crossroads](https://open.spotify.com/track/1cmzIPAC51yUa8jYqddqiE) | [Ario Nanaj](https://open.spotify.com/artist/3oxKAakkUQ02MoRb5Z6qrq) | [Crossroads](https://open.spotify.com/album/1BWa9mUEDaKcn1SCtE1Amc) | 3:30 | 2026-05-26 |  |
 | [Crowd all Night](https://open.spotify.com/track/0dlnrqBXCtLgtt6RmI13QR) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Super Super](https://open.spotify.com/album/6nCFTmz29k90pleVZVW3sW) | 3:08 | 2025-09-19 |  |
 | [Crowd all Night \(another\)](https://open.spotify.com/track/4mIqAlaRbkrbkThEk2XoNE) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Super Super](https://open.spotify.com/album/6nCFTmz29k90pleVZVW3sW) | 2:54 | 2025-09-19 |  |
 | [Crush On](https://open.spotify.com/track/2ODfcd1tTzu2ifO1M0QrxV) | [Actor1Ma](https://open.spotify.com/artist/2bhSkSJxOWs9GJu16aaJGC), [Jomsy Cowries](https://open.spotify.com/artist/3SEibP6L8Pok4LIygd4t0z) | [Crush On](https://open.spotify.com/album/5oBOGicd6dYKcawtjyAgiQ) | 2:44 | 2025-07-03 |  |
@@ -1012,6 +1013,7 @@
 | [Digital Obsession](https://open.spotify.com/track/7hF1H841KLBG12IjwPSZfq) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Strange Pop Viral Music](https://open.spotify.com/album/048KvM5YKwazPS89FxIs2d) | 3:01 | 2025-09-19 |  |
 | [Digital Stardust](https://open.spotify.com/track/5PTFBdlod2bi5Jxv7U9SYM) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Glitchy hyperpop pop electronic music](https://open.spotify.com/album/4UIMT4cWfdIo2ryLabHXYo) | 2:47 | 2025-09-12 |  |
 | [Digital Stardust \(another\)](https://open.spotify.com/track/1HiQzQgt8Gh9a3G0Hun3JN) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Glitchy hyperpop pop electronic music](https://open.spotify.com/album/4UIMT4cWfdIo2ryLabHXYo) | 3:03 | 2025-09-12 |  |
+| [Dil Ye Dhadakta Hi Nahin](https://open.spotify.com/track/55fZN6QYUzsBIdni2Gy1P7) | [Digital Pandit](https://open.spotify.com/artist/2bvkbJhJKy40qcIipIbPjT) | [Dil Ye Dhadakta Hi Nahin](https://open.spotify.com/album/2edQIILVtKKEpc56UC8m4H) | 3:57 | 2026-05-26 |  |
 | [Diluvio universale](https://open.spotify.com/track/6msU8Qt2FZ2HRuaLp51iAW) | [Artika](https://open.spotify.com/artist/0nhv8t4yAqnGrqQkeMyVh6) | [Diluvio universale](https://open.spotify.com/album/20LNSwv0uUgxQEJJWqQaIm) | 3:00 | 2025-01-27 |  |
 | [Dime](https://open.spotify.com/track/1x7nexEBA4cv0FDN4Jat8L) | [Duncan Dhu](https://open.spotify.com/artist/2MLHBMApNE5h8wIufiTPs7) | [Piedras](https://open.spotify.com/album/7JPVphExpPOjt0wVBkNBzb) | 4:55 | 2026-03-15 |  |
 | [Dimensiones Paralelas](https://open.spotify.com/track/0cZfAhCMGOWbnD2zzkECVU) | [Nauj Project](https://open.spotify.com/artist/4g6e6FnWWi0oQGhHxkn9Jd) | [Dimensiones Paralelas](https://open.spotify.com/album/5e1cntrq6rg9B5Gmhi0p5w) | 2:49 | 2026-01-26 |  |
@@ -2267,6 +2269,7 @@
 | [Lost in Time \(chill mix\)](https://open.spotify.com/track/7tBGS2XjzE4cOxJCxkCwvD) | [Routi](https://open.spotify.com/artist/0B3uouY3r7w7uJLIcORpIX) | [Lost in Time \(chill mix\)](https://open.spotify.com/album/4qTsPXuKGezL0Jlk9nqssJ) | 4:10 | 2026-02-20 |  |
 | [Lost in Wonderland](https://open.spotify.com/track/3batbGcDKx0Tai9G8vSSmy) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Alternative Pop Music](https://open.spotify.com/album/0qsHZKvd2mXyGOCa4lmzXj) | 3:42 | 2025-05-27 |  |
 | [Lost in Wonderland \(another\)](https://open.spotify.com/track/14NpDtKkGpWFPLUtYWNPkN) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Alternative Pop Music](https://open.spotify.com/album/0qsHZKvd2mXyGOCa4lmzXj) | 3:04 | 2025-09-18 |  |
+| [Lost Soul](https://open.spotify.com/track/0KBblBLmSzdWD8k3bZqLoR) | [Richie Cross](https://open.spotify.com/artist/3NA8I8e0mHJSmWKQHBBEpT) | [Lost Soul](https://open.spotify.com/album/46yf87wUx4k4Ash6BBwEaY) | 3:34 | 2026-05-26 |  |
 | [Lost Without Your Touch](https://open.spotify.com/track/4waNswoAZr6IZt2zR7jVWr) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Sad love music](https://open.spotify.com/album/3AUNUYgv9UJbhlUNE5JGDo) | 3:28 | 2025-09-19 |  |
 | [Loud & Sweet Disaster](https://open.spotify.com/track/0Y3lurxHVlEuXuO54KObi5) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Hard rock trash/heavy metal with pop taste](https://open.spotify.com/album/6LigdV5RX2AosQ7xMbbn11) | 3:45 | 2025-09-19 |  |
 | [Loud mister](https://open.spotify.com/track/3Er9Ws3mduyGPKdbdZTNQw) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [80's music inspired](https://open.spotify.com/album/52EpTauHULa82DwbMx0Pdh) | 4:50 | 2025-08-28 |  |
@@ -3553,6 +3556,7 @@
 | [Sphinx](https://open.spotify.com/track/1LTs0l4VWslDurokRJV2aL) | [Monashee](https://open.spotify.com/artist/3aRQ4wIrd9wOGqAY9dJMkI) | [Sphinx](https://open.spotify.com/album/3abIn07BJ2iEEsvKMuvIor) | 4:08 | 2025-07-31 |  |
 | [Spider Lily](https://open.spotify.com/track/2i4E0bXODdm6iiEw66AcVs) | [Don't Tell Iris](https://open.spotify.com/artist/0MqMcX6FlTLOR4YtqiAJui) | [Spider Lily](https://open.spotify.com/album/5sq9k6lbecxoMlyuDpzLKe) | 3:01 | 2026-02-02 |  |
 | [Spikes and Surges](https://open.spotify.com/track/4qO6n9JI3KdGE7LhIalQvn) | [Railway Athletic](https://open.spotify.com/artist/4i5DLwG9DeSmYHTgh8rxD9) | [Spikes and Surges](https://open.spotify.com/album/6C7NQgx0lPU80jdVDhR7sh) | 4:21 | 2025-11-05 |  |
+| [Spineless](https://open.spotify.com/track/4Cy5jpUYzDtqJnG92ScMLB) | [Hexe](https://open.spotify.com/artist/3WZaW8fkkvGju9kFx4FeoN) | [Spineless](https://open.spotify.com/album/7sF85MtuTpoUjZRlcdKK4A) | 3:50 | 2026-05-26 |  |
 | [Spirito](https://open.spotify.com/track/02TjmGXQJlFWIjMZHIirkM) | [Bekruud](https://open.spotify.com/artist/5chx6Kbsyug2xjG91C6eay) | [Progressioni](https://open.spotify.com/album/0dGmrzc0FxXhl5PuDPT4sf) | 3:51 | 2025-05-27 |  |
 | [Sports](https://open.spotify.com/track/5aLD8CPaEu3Cj9ZcAqWWA6) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Street Worms](https://open.spotify.com/album/4QDHK085r08dWT1GvXmR6F) | 3:57 | 2025-11-05 |  |
 | [spring rain](https://open.spotify.com/track/66PpBe3vRFM6ySOKrzUi3H) | [JONS](https://open.spotify.com/artist/20MWIi8VytCnumhEUMVCPz) | [spring rain](https://open.spotify.com/album/4juZcD6Yvk47JGEHpJJL08) | 3:13 | 2025-02-27 |  |

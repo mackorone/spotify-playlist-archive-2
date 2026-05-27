@@ -2,9 +2,9 @@
 
 ### [Women's Voice](https://open.spotify.com/playlist/37i9dQZF1DWTD6tHjIApT3)
 
-> 日本の女性アーティストの歌を特集。A Collection of Songs by Japanese Women Vocalists\.  cover: 7co
+> 日本の女性アーティストの歌を特集。A Collection of Songs by Japanese Women Vocalists\.  cover: Chilli Beans.
 
-3,785 songs - 10 day 1 hr 2 min
+3,786 songs - 10 day 1 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -292,6 +292,7 @@
 | [BOYFRIEND](https://open.spotify.com/track/0GetObkAObITplks2Ye5Nb) | [Foi](https://open.spotify.com/artist/395MrZuV4ZaUrn1QUPu8FB), [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [BOYFRIEND](https://open.spotify.com/album/1Uho2SdndCiP3n0Jrvljqq) | 3:42 | 2022-05-29 | 2022-07-27 |
 | [Brand New Me](https://open.spotify.com/track/0RcG7aUebbNkVs9c5k9lZO) | [Nezumi Coo](https://open.spotify.com/artist/485gYZbLuEOqVA4QqYsXjs), [Koko Vienne](https://open.spotify.com/artist/2AIZp3CG35j7SS8vQtpOhz) | [Brand New Me](https://open.spotify.com/album/6g3WdGSvCDQUrZfzPtnNpX) | 3:33 | 2023-08-08 | 2023-08-16 |
 | [Break out of your bubble](https://open.spotify.com/track/1VquaVORRRCldISHOOJg7d) | [Little Glee Monster](https://open.spotify.com/artist/2N19kPGlqKY8GiyE4DkAtp) | [Break out of your bubble](https://open.spotify.com/album/2B107XMs9iWc611wxsyX5p) | 3:56 | 2024-12-04 | 2025-01-22 |
+| [breath](https://open.spotify.com/track/2NdAfTj6q6vNK7PHcYmCoL) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [breath](https://open.spotify.com/album/6pwa2k2KyX0NoeFT9FNrkH) | 3:56 | 2026-05-26 |  |
 | [breath](https://open.spotify.com/track/3UAy3f09MZG2GzH9eFnO5Y) | [yukaDD](https://open.spotify.com/artist/5AfbFgeqRYOGZbu3lYtZLe) | [breath](https://open.spotify.com/album/5AbAiXLQjb8BVFoRpqDssu) | 3:00 | 2025-01-07 | 2025-01-15 |
 | [Bright Red Nails and Milk](https://open.spotify.com/track/5eEbgyCHUhUcrbwNjvMvOz) | [Koresawa](https://open.spotify.com/artist/6sX1XKgDIiAcVZof0SgWUe) | [I'll Be Cute When You See Me](https://open.spotify.com/album/73gLuSuMKY13uGbfcvkseg) | 4:40 | 2023-04-06 | 2023-04-12 |
 | [Brilliant](https://open.spotify.com/track/7s8Pu5rHHufv1CD6Xj6ko0) | [uruwashi](https://open.spotify.com/artist/71tBDDxmRVFTrqs1D5e8gS), [outliving](https://open.spotify.com/artist/2T4vplbHCoej8xKTcMVhNk) | [Brilliant](https://open.spotify.com/album/4OcEvpSo1TI6qrkgbB89B2) | 3:33 | 2023-12-05 | 2023-12-13 |
@@ -2887,7 +2888,7 @@
 | [ルミナス \- Luminous](https://open.spotify.com/track/0kwdxxcu6EigYuZ8GauCMa) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [ルミナス \- Luminous](https://open.spotify.com/album/4N1jAPvr2Mf3WuWbogas36) | 3:55 | 2026-04-07 |  |
 | [ルージュの伝言](https://open.spotify.com/track/5WAbPoq187MvAYExnuxPTM) | [Kaela Kimura](https://open.spotify.com/artist/56Eer6ASRcE4aJHJwejTuN) | [スタジオジブリ トリビュートアルバム「ジブリをうたう」](https://open.spotify.com/album/3lB0B7C191nUhH8ar64hJ0) | 3:18 | 2023-10-31 | 2023-11-08 |
 | [レイドバック・ミュージック](https://open.spotify.com/track/2zwqa4yBrwoTybWwm6Whs3) | [Lafuzin](https://open.spotify.com/artist/1AHiKEHZA1R7NmOeUMmhoo), [BRIAN SHINSEKAI](https://open.spotify.com/artist/162nZqAL1seshcby7rd2gY) | [レイドバック・ミュージック](https://open.spotify.com/album/6EBNFErF2A9KQb2Jcjbfqq) | 4:07 | 2022-06-07 | 2022-06-10 |
-| [レイニーデイ](https://open.spotify.com/track/6p2SSslWSnBBBb5KKMcGBS) | [Conton Candy](https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq) | [すっぴん](https://open.spotify.com/album/69P6UC5SGDAsDD9t91hpYv) | 4:47 | 2026-05-19 |  |
+| [レイニーデイ](https://open.spotify.com/track/6p2SSslWSnBBBb5KKMcGBS) | [Conton Candy](https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq) | [すっぴん](https://open.spotify.com/album/69P6UC5SGDAsDD9t91hpYv) | 4:47 | 2026-05-19 | 2026-05-27 |
 | [レイニー・ハイウェイ](https://open.spotify.com/track/3wItHRAvlRCesb0m4gpyW0) | [Nagie Lane](https://open.spotify.com/artist/1NSPGP2G2k6pZFFZERvOwC) | [レイニー・ハイウェイ](https://open.spotify.com/album/05kj90r7wECswe8yZML6vI) | 4:36 | 2025-05-06 | 2025-05-21 |
 | [レモンの木](https://open.spotify.com/track/22cZMx1wzOboK8vVJXi3z7) | [みらん](https://open.spotify.com/artist/2yfpy1pbfniKZ3I4rMjKnX) | [レモンの木](https://open.spotify.com/album/5OCK4rMTJecriIbElabgg8) | 5:17 | 2022-12-13 | 2023-01-04 |
 | [レンズ](https://open.spotify.com/track/7ylpphbW8jf5bh7NKJnO8s) | [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [レンズ](https://open.spotify.com/album/1FQoGibRW7xEZXnq1EJIX2) | 3:58 | 2022-06-14 | 2023-10-11 |

@@ -1711,18 +1711,22 @@
     {
       "added_at": "2026-01-09 05:00:25",
       "album": {
-        "name": "FEVER",
-        "url": "https://open.spotify.com/album/0TE9DjZPAVT9LFtpjUhi6F"
+        "name": "Spiral In A Straight Line",
+        "url": "https://open.spotify.com/album/0P5CZ4l155R1udzsELjXSC"
       },
       "artists": [
         {
-          "name": "BEAUTY SCHOOL DROPOUT",
-          "url": "https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO"
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        },
+        {
+          "name": "Julien Baker",
+          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
         }
       ],
-      "duration_ms": 219000,
-      "name": "FEVER",
-      "url": "https://open.spotify.com/track/6vgtAqnANqEZ8tUWGDSyjt"
+      "duration_ms": 260885,
+      "name": "Goodbye For Now (feat. Julien Baker)",
+      "url": "https://open.spotify.com/track/0lPwT1JHuNFeXtIV6i6Eg2"
     }
   ],
   "unique_name": "The Scene",

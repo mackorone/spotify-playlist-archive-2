@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Evil Level Live, JUST LIZZY, DollWave and more",
+  "description": "With Evil Level Live, JUST LIZZY, Synthetik Blonde and more",
   "name": "DePitcha Radio",
   "tracks": [
     {
@@ -610,7 +610,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-27",
       "duration_ms": 280798,
       "name": "Angel of Your Love",
       "url": "https://open.spotify.com/track/4p3n8QcFSSeyGFwvHIM2ph"
@@ -838,6 +838,24 @@
       "duration_ms": 240431,
       "name": "Automatic",
       "url": "https://open.spotify.com/track/2MYdE4abRFwX5ga74BklCT"
+    },
+    {
+      "album": {
+        "name": "B4 It's Too Late",
+        "url": "https://open.spotify.com/album/4W4yR0yPlakeA84cPntm1k"
+      },
+      "artists": [
+        {
+          "name": "Dylan Beast",
+          "url": "https://open.spotify.com/artist/3xwRgNYes9zRDHDMMpkDZC"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252800,
+      "name": "B4 It's Too Late",
+      "url": "https://open.spotify.com/track/4ujJN2c9O7n6m3cWlbF6kg"
     },
     {
       "album": {
@@ -3314,7 +3332,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-25",
+      "date_removed": null,
       "duration_ms": 192796,
       "name": "Dissipate",
       "url": "https://open.spotify.com/track/7A4hYrGdnScu1Z6sZMqA8b"
@@ -4046,7 +4064,7 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-27",
       "duration_ms": 132250,
       "name": "Fear Of extinction",
       "url": "https://open.spotify.com/track/2HF3Ro2XlnqP1S5iFzxSQd"
@@ -6166,7 +6184,7 @@
       ],
       "date_added": "2026-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-27",
       "duration_ms": 208065,
       "name": "Joy and Pain",
       "url": "https://open.spotify.com/track/5RmyY86zrPFIERkdmQDECs"
@@ -8776,7 +8794,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-27",
       "duration_ms": 224396,
       "name": "Pretty When You Cry",
       "url": "https://open.spotify.com/track/5E8ycUXvH9SRjUFvln1Xly"
@@ -11276,7 +11294,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-25",
+      "date_removed": null,
       "duration_ms": 280320,
       "name": "The Againsters - To Die In Beauty Remix",
       "url": "https://open.spotify.com/track/53KjYy69KuICpeKvQcCV7h"
@@ -12546,7 +12564,7 @@
       ],
       "date_added": "2026-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-25",
+      "date_removed": null,
       "duration_ms": 116389,
       "name": "Toxic Kingdom",
       "url": "https://open.spotify.com/track/4O3M1FXfhxFOSesi0nSWPS"

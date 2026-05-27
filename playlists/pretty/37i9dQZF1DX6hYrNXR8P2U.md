@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6hYrNXR8P2U.md) - [plain]
 
 > DANDARA en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,819 likes - 106 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,810 likes - 106 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6hYrNXR8P2U.md) - [plain]
 | 3 | [TURRO TOUR](https://open.spotify.com/track/2Ic6lCqcUQMOAY2OeZyQly) | [Ana Milagros](https://open.spotify.com/artist/4TGvzenBbWpfCsNf5S4WyI), [Zé Pequeña](https://open.spotify.com/artist/3XRUcyfxcvfUR4EHAA7p9C), [Yul0](https://open.spotify.com/artist/7oIzXBybUtW6yVeoIOC79r) | [TURRO TOUR](https://open.spotify.com/album/1pD1tXO4v41GYV7jKKZGyH) | 2:27 |
 | 4 | [RE SOLO](https://open.spotify.com/track/7Bhlkqbs8RKFHox7ZhdMV9) | [TOBIKA](https://open.spotify.com/artist/2aJA34lnMLsr3deynZN9I5) | [RE SOLO](https://open.spotify.com/album/5UhgRp7wwz8tWTEFSJL0Dn) | 2:01 |
 | 5 | [Hasta la Raíz](https://open.spotify.com/track/2vfd6L6TH2H5VHIMV1rBSH) | [N1za](https://open.spotify.com/artist/4d8ZfnxnDiXAMT65RrzgBa), [La Valenti](https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ) | [Hasta la Raíz](https://open.spotify.com/album/1VtUxICnjH6N5kQTIIDXM5) | 2:39 |
-| 6 | [PANTALOM](https://open.spotify.com/track/67UNrrGXa3BNg0KQQo3UQV) | [Six Sex](https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr) | [PANTALOM](https://open.spotify.com/album/3BjRBfKzPPSgWyApLAiVbI) | 1:48 |
+| 6 | [PANTALOM](https://open.spotify.com/track/67UNrrGXa3BNg0KQQo3UQV) | [Six Sex](https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr) | [PANTALOM](https://open.spotify.com/album/3BjRBfKzPPSgWyApLAiVbI) | 1:49 |
 | 7 | [HOY](https://open.spotify.com/track/6y39mILscFJKcjlWn3lB8O) | [Sara Hebe](https://open.spotify.com/artist/4pFUriuYqqAmBCvqF9o6LW), [Manu Calmet](https://open.spotify.com/artist/0B9JhFd1gL8bpf6FnaggJU), [Dum Chica](https://open.spotify.com/artist/31fWtiCtU07AlqZ5drzplX) | [HOY](https://open.spotify.com/album/4t4Hhfd3wsle7IGTgdZfUn) | 2:48 |
 | 8 | [PUMAS](https://open.spotify.com/track/5Iu46UfunYa0I5CFGAW59y) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [TURR4ZO](https://open.spotify.com/album/5nUfysd9pD76m2nxU0qHmU) | 3:28 |
 | 9 | [Shut It Down](https://open.spotify.com/track/75LdIYSLqY9kBXZIHnqf9U) | [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv), [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN), [Taube](https://open.spotify.com/artist/7CkJFCrOBweQ9bOL3C5MCu) | [Shut It Down](https://open.spotify.com/album/4C7lqD1l78gnaMTLVA9JGW) | 3:32 |

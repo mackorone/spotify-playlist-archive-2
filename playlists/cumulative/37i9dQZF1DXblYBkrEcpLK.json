@@ -3178,7 +3178,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-27",
       "duration_ms": 180480,
       "name": "HYPE ALIVE",
       "url": "https://open.spotify.com/track/1jsVXC1HPMtL6hYvOw96Ej"
@@ -7286,7 +7286,7 @@
       ],
       "date_added": "2025-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-27",
       "duration_ms": 191717,
       "name": "The 1",
       "url": "https://open.spotify.com/track/3GNHnQq2Q2svsTZDjHWFXp"
@@ -8852,7 +8852,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-27",
       "duration_ms": 294506,
       "name": "\u3055\u3088\u306a\u3089\u306e\u590f\uff5e\u30b3\u30af\u30ea\u30b3\u5742\u304b\u3089\uff5e",
       "url": "https://open.spotify.com/track/7wlIzvt8gdV06UeI2F2gT1"
@@ -12244,7 +12244,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-06",
+      "date_removed": null,
       "duration_ms": 226000,
       "name": "\u30ef\u30fc\u30eb\u30c9\u30a4\u30ba\u30de\u30a4\u30f3 - \u304b\u3050\u3084&\u6708\u898b\u30e4\u30c1\u30e8 ver. - CPK! Remix",
       "url": "https://open.spotify.com/track/0LswwmDZ6Qk26ZgVRf7aMO"
@@ -12358,6 +12358,24 @@
       "duration_ms": 180000,
       "name": "\u4e16\u754c\u304c\u79c1\u3092\u547c\u3076\u304b\u3089",
       "url": "https://open.spotify.com/track/3ti5HbpOassT7t56Gs5JNH"
+    },
+    {
+      "album": {
+        "name": "\u4e16\u754c\u306f\u3072\u3068\u308a\u3058\u3083\u306a\u304b\u3063\u305f",
+        "url": "https://open.spotify.com/album/2V5C2CrLlS9DSwbhI4Nkyn"
+      },
+      "artists": [
+        {
+          "name": "Maki Otsuki",
+          "url": "https://open.spotify.com/artist/2cZngrpi14BX8viqaPl5m5"
+        }
+      ],
+      "date_added": "2026-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262802,
+      "name": "\u4e16\u754c\u306f\u3072\u3068\u308a\u3058\u3083\u306a\u304b\u3063\u305f",
+      "url": "https://open.spotify.com/track/4U77xvBDzk8e03mgP30g73"
     },
     {
       "album": {
@@ -14854,7 +14872,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-25",
+      "date_removed": null,
       "duration_ms": 260903,
       "name": "\u76f8\u601d\u76f8\u611b",
       "url": "https://open.spotify.com/track/01vIbnKIo9QDYeqSc7ecoi"

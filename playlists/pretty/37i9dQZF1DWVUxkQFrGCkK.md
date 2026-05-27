@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 
 > IBZ szn\. Cover: Samantha Loveridge
 
-[Spotify](https://open.spotify.com/user/spotify) - 410,977 likes - 72 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 411,016 likes - 72 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 | 3 | [Sassy](https://open.spotify.com/track/6yDz1uegyUcVxwrcLUo1Ke) | [Samantha Loveridge](https://open.spotify.com/artist/4j9yrmRQGfRicLiUdcvPjt) | [Sassy](https://open.spotify.com/album/4WS9pJ9OgY1DGamXbo7grr) | 3:06 |
 | 4 | [What Is Luv](https://open.spotify.com/track/6cbUxwLzwFKxHRrkKocDno) | [Mita Gami](https://open.spotify.com/artist/6Y9N9gdo5jpzGsExWDymS8), [Rafael](https://open.spotify.com/artist/3DHC2ZUVADRKLSmqPcqvc6) | [What Is Luv](https://open.spotify.com/album/1NDF0g1a4mEtG5x9aLOBub) | 3:54 |
 | 5 | [Bounce](https://open.spotify.com/track/70q857tiye8tZ57Tau00jW) | [Clüb De Combat](https://open.spotify.com/artist/0mY4R6feaMEIn9AEO2lMZw), [T\-Puse](https://open.spotify.com/artist/015GbNLBf6vKVstww5m8ch), [Oi](https://open.spotify.com/artist/1YnBIMhfm5E4tbpOHjB5Hr) | [Bounce](https://open.spotify.com/album/33mZtANyHQu7rdOlgwqpdy) | 3:26 |
-| 6 | [U Ain't Lyin'](https://open.spotify.com/track/2Jiax1WNF2PvupJP0Rn6EL) | [Peace Control](https://open.spotify.com/artist/3rzbheJbLKamFWE8v9fPRh) | [All Stars 10](https://open.spotify.com/album/4BgswkEYUQ1Cn7WVXbDwYi) | 3:38 |
+| 6 | [U Ain't Lyin'](https://open.spotify.com/track/2Jiax1WNF2PvupJP0Rn6EL) | [Peace Control](https://open.spotify.com/artist/3rzbheJbLKamFWE8v9fPRh) | [All Stars 10](https://open.spotify.com/album/4BgswkEYUQ1Cn7WVXbDwYi) | 3:35 |
 | 7 | [The Only One \- Radio Edit](https://open.spotify.com/track/3eEdbkAYt1mYKDoHYzc4Ig) | [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx), [Luch](https://open.spotify.com/artist/0Jp7EXwEqkmsUO7eu9kbbp), [Karl Williams](https://open.spotify.com/artist/6F7RlpNDeVEeiwt5EaA6fE) | [The Only One](https://open.spotify.com/album/1xj0AHYzc0hxmAKHW1vuHS) | 5:08 |
 | 8 | [Alex](https://open.spotify.com/track/794t8xjE1odkdLmNb42nqu) | [Bella Boo](https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C) | [Shake Down EP](https://open.spotify.com/album/6etEHGl1AfdBDZEHgJBnb1) | 4:41 |
 | 9 | [A Gira \(with Emanuel Satie, Maga, Sean Doron, Tim Engelhardt & Scenarios\) \- Remix](https://open.spotify.com/track/77kExLr3RKN77SYcVEZZ14) | [unfazed](https://open.spotify.com/artist/6Wum1TGlR5ndmClcDmHeg0), [Emanuel Satie](https://open.spotify.com/artist/3veg7sFGWTk62Ecwj6mzij), [Maga](https://open.spotify.com/artist/3SLZrLX47S9PmPRabiESVl), [Sean Doron](https://open.spotify.com/artist/1qc7Whymce7gEOJ92t4ocX), [Scenarios](https://open.spotify.com/artist/67Y8oTELtWBk3MncBMCG1H), [Tim Engelhardt](https://open.spotify.com/artist/74HdscE6G74tt01dbVZULE) | [A Gira \(with Emanuel Satie, Maga, Sean Doron, Tim Engelhardt & Scenarios\) \[Remix\]](https://open.spotify.com/album/33ryXYhRDCEqDH86X8CRx8) | 2:55 |

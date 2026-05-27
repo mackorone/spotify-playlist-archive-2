@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 
 > Celebrating individuality within independent music
 
-[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,171 likes - 102 songs - 5 hr 53 min
+[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,171 likes - 104 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,5 +110,7 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 | 100 | [Tell Me Where The Light's Gone](https://open.spotify.com/track/1CV0dfCgjLoZbj3ysBndNU) | [Mitch Meyer](https://open.spotify.com/artist/7yOCg6zTd1wMxKCBdD99uk) | [Tell Me Where The Light's Gone](https://open.spotify.com/album/6614ReT8bDTay3fLxIYd4U) | 3:20 |
 | 101 | [Take Pills](https://open.spotify.com/track/17dQ6dEmmUAY62q6498ffX) | [HADA](https://open.spotify.com/artist/4NFT2JCnnmDu65IatiikcH) | [Take pills](https://open.spotify.com/album/03i9ywQzdL9OhNigSfwRR0) | 3:10 |
 | 102 | [PRONE](https://open.spotify.com/track/2hL2DPzbzZ6GH3iR6ojraw) | [TNO NIKO](https://open.spotify.com/artist/61Iz8BdGNL4kbMED0ik4D0) | [PRONE](https://open.spotify.com/album/0jh7WYJiBllbzMOLa0f4ei) | 2:26 |
+| 103 | [Grackle Grackle](https://open.spotify.com/track/4VIQCb2y7ny84EGajG4bBM) | [Lilith Left The Garden](https://open.spotify.com/artist/0S8tp7VPxIpsU94O4Qdsxz) | [Kindred Spirits](https://open.spotify.com/album/2KkZKv7KkrXf7Ex96lomjB) | 2:22 |
+| 104 | [ashes \(roses and petals\)](https://open.spotify.com/track/2xhHd50zQcD59LDICweKHs) | [hxtedbyforce!](https://open.spotify.com/artist/6LurtON7FdurBR7OGsgtJb) | [ashes \(roses and petals\)](https://open.spotify.com/album/6F8LIZcCN1ogGPQuOJbHtj) | 2:16 |
 
-Snapshot ID: `AAAO7dNP2sqYUWM2wyyiYEKaj6FSUSYO`
+Snapshot ID: `AAAO71pKTQ2pxFzIYhFAxFkX7IfPMepu`

@@ -1,6 +1,6 @@
 {
   "description": "Metal hecho en Iberoam\u00e9rica. Bandas que ya conoces y que est\u00e1s a punto de conocer. Foto: Sepultura",
-  "num_followers": 203810,
+  "num_followers": 203818,
   "original_name": "Metal del Nuestro",
   "owner": {
     "name": "Spotify",
@@ -499,22 +499,6 @@
     {
       "added_at": "2025-09-18 22:01:59",
       "album": {
-        "name": "Llora Chiapas",
-        "url": "https://open.spotify.com/album/36qF2Whdrufy2jQwiQ2GBL"
-      },
-      "artists": [
-        {
-          "name": "Leprosy",
-          "url": "https://open.spotify.com/artist/01U6wng00lcRJt0j2W0O3x"
-        }
-      ],
-      "duration_ms": 312447,
-      "name": "Residentes Olvidados",
-      "url": "https://open.spotify.com/track/6XkM2s8SyhPEL2BYpFRh5P"
-    },
-    {
-      "added_at": "2025-09-18 22:01:59",
-      "album": {
         "name": "El Nuevo Camino del Hombre",
         "url": "https://open.spotify.com/album/5YoYz3KN6jGFuH9qiCI72f"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 198893,
       "name": "Pueblos erguidos",
       "url": "https://open.spotify.com/track/7fpEq4VraGYZZWXfWLk3sP"
+    },
+    {
+      "added_at": "2025-09-18 22:01:59",
+      "album": {
+        "name": "Llora Chiapas",
+        "url": "https://open.spotify.com/album/36qF2Whdrufy2jQwiQ2GBL"
+      },
+      "artists": [
+        {
+          "name": "Leprosy",
+          "url": "https://open.spotify.com/artist/01U6wng00lcRJt0j2W0O3x"
+        }
+      ],
+      "duration_ms": 312447,
+      "name": "Residentes Olvidados",
+      "url": "https://open.spotify.com/track/6XkM2s8SyhPEL2BYpFRh5P"
     },
     {
       "added_at": "2025-09-18 22:01:59",
@@ -663,22 +663,6 @@
     {
       "added_at": "2025-09-18 22:01:59",
       "album": {
-        "name": "Los Cantipuercos",
-        "url": "https://open.spotify.com/album/3kP7B2rRjs3m95HJHKlsjw"
-      },
-      "artists": [
-        {
-          "name": "Cuentos de los Hermanos Grind",
-          "url": "https://open.spotify.com/artist/05q0fmz5AnwuIilO7PxfbC"
-        }
-      ],
-      "duration_ms": 180693,
-      "name": "La Caperuputa y el Lobo Culi\u00f3n",
-      "url": "https://open.spotify.com/track/1zJZ9w43qRt85xZQNsgo9Y"
-    },
-    {
-      "added_at": "2025-09-18 22:01:59",
-      "album": {
         "name": "Radix Nebul\u00e6",
         "url": "https://open.spotify.com/album/5mIVWC2ZAcehl7Gv02jXzX"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 241333,
       "name": "Exoplanets",
       "url": "https://open.spotify.com/track/0XGjcnZsOeAcNILNBlo27t"
+    },
+    {
+      "added_at": "2025-09-18 22:01:59",
+      "album": {
+        "name": "Los Cantipuercos",
+        "url": "https://open.spotify.com/album/3kP7B2rRjs3m95HJHKlsjw"
+      },
+      "artists": [
+        {
+          "name": "Cuentos de los Hermanos Grind",
+          "url": "https://open.spotify.com/artist/05q0fmz5AnwuIilO7PxfbC"
+        }
+      ],
+      "duration_ms": 180693,
+      "name": "La Caperuputa y el Lobo Culi\u00f3n",
+      "url": "https://open.spotify.com/track/1zJZ9w43qRt85xZQNsgo9Y"
     },
     {
       "added_at": "2025-09-18 22:01:59",
@@ -807,18 +807,18 @@
     {
       "added_at": "2025-09-18 22:01:59",
       "album": {
-        "name": "The Beginning of the End",
-        "url": "https://open.spotify.com/album/2K9YBzwC1T2aSiF3Gh7pBM"
+        "name": "Creation of Insanity",
+        "url": "https://open.spotify.com/album/1zW6qmkDk1DkzkMnYRHn98"
       },
       "artists": [
         {
-          "name": "Tulkas",
-          "url": "https://open.spotify.com/artist/4wdDuxUi2q03Md9qXRWDOD"
+          "name": "Introtyl",
+          "url": "https://open.spotify.com/artist/6Im0py5F0Y2RMJTQ6MlX6A"
         }
       ],
-      "duration_ms": 223588,
-      "name": "Outsider God Creation (O.G.C)",
-      "url": "https://open.spotify.com/track/5TbhsLhD3xjvjp2uzpfkNJ"
+      "duration_ms": 161881,
+      "name": "Regresi\u00f3n",
+      "url": "https://open.spotify.com/track/4tmIaTtJDLBkreZhO3w4o7"
     }
   ],
   "unique_name": "Metal del Nuestro",

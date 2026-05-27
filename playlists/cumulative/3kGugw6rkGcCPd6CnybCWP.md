@@ -4,7 +4,7 @@
 
 > Celebrating individuality within independent music
 
-380 songs - 21 hr 58 min
+382 songs - 22 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Anomaly](https://open.spotify.com/track/7drs4QP73WLeLRe00hPmlJ) | [Rainwash](https://open.spotify.com/artist/44bqJF9nEFQ1sIpjLbDr74) | [Anomaly](https://open.spotify.com/album/6TSi9Zguy9CLPSLyr2T0tx) | 3:06 | 2026-04-24 |  |
 | [Anxiety](https://open.spotify.com/track/2r2UYTxeSHutVFcH7KO5mA) | [Lauren Minear](https://open.spotify.com/artist/5nnohGTyoGL4ZCcudNki7A) | [Boxing Day \(Deluxe\)](https://open.spotify.com/album/09jVFVWEuvz7mq4GSvgi2h) | 2:56 | 2026-03-04 | 2026-04-16 |
 | [anything today](https://open.spotify.com/track/6YU0mkaUWzKEV9ORBgo5aJ) | [tina.](https://open.spotify.com/artist/07BwCkEmgUdl0iuWfVq4mC) | [anything today](https://open.spotify.com/album/4ahnAkh7sNMFjmWjYvNAFG) | 3:32 | 2026-03-21 | 2026-04-21 |
+| [ashes \(roses and petals\)](https://open.spotify.com/track/2xhHd50zQcD59LDICweKHs) | [hxtedbyforce!](https://open.spotify.com/artist/6LurtON7FdurBR7OGsgtJb) | [ashes \(roses and petals\)](https://open.spotify.com/album/6F8LIZcCN1ogGPQuOJbHtj) | 2:16 | 2026-05-26 |  |
 | [Ask Me Why](https://open.spotify.com/track/0FXqsSgfEQhk3gsLs8FKyL) | [Elandra](https://open.spotify.com/artist/7v6meC75PAbtwyenxZnZaK) | [Ask Me Why](https://open.spotify.com/album/1A6vohn8A6e7Gn8mN5Ob0H) | 3:32 | 2025-11-15 | 2026-01-17 |
 | [Atychiphobia](https://open.spotify.com/track/6tBFBC5Etcyk65r39tFTAj) | [Patch Habits](https://open.spotify.com/artist/1BONbFNsdNqafUlqv9xVkZ) | [Atychiphobia](https://open.spotify.com/album/4sWV1ookrG5cyfB1x0Kozc) | 3:44 | 2026-03-09 | 2026-04-16 |
 | [Bacardi Love.](https://open.spotify.com/track/6P8S17uPnnLSEf2XPtDPbJ) | [Flow State Experience](https://open.spotify.com/artist/7l4P3Pkgf6vqqhdQLG7vrl) | [Bacardi Love.](https://open.spotify.com/album/4qK19G4ytKA2L8MYT6u2JQ) | 1:53 | 2025-11-07 | 2026-01-17 |
@@ -144,6 +145,7 @@
 | [Godstruck](https://open.spotify.com/track/0bJb4chMjV7U5Uufqh0VdD) | [kneeshake](https://open.spotify.com/artist/7Doc8VYJPdWcMthl4c2C9l) | [Godstruck](https://open.spotify.com/album/3Jv9c1emzRLP7eH7PrA1on) | 2:49 | 2026-05-22 |  |
 | [Gone by dawn](https://open.spotify.com/track/4ZBcvQ1zEk1SogN6mGEDA2) | [Eternalize](https://open.spotify.com/artist/0gxYWBKorYdHOkDcnMLDsf) | [The way home](https://open.spotify.com/album/4xO88KLM8NjEHYpQhXbJgV) | 3:40 | 2025-12-28 | 2026-03-29 |
 | [goodbye \- 2025 remastered](https://open.spotify.com/track/10arqRDmhZcdhWZvpC3Ko0) | [Władek Sheen](https://open.spotify.com/artist/5elwcM1iBIib16jSGK1SQe) | [hypnotize](https://open.spotify.com/album/1H2wW7fI1Y6GUijZxPo2gJ) | 2:55 | 2026-02-03 | 2026-03-20 |
+| [Grackle Grackle](https://open.spotify.com/track/4VIQCb2y7ny84EGajG4bBM) | [Lilith Left The Garden](https://open.spotify.com/artist/0S8tp7VPxIpsU94O4Qdsxz) | [Kindred Spirits](https://open.spotify.com/album/2KkZKv7KkrXf7Ex96lomjB) | 2:22 | 2026-05-26 |  |
 | [Grandmaster Rock/Rap](https://open.spotify.com/track/3p1yIWpea1JHguAb2YmHhP) | [GM Jon](https://open.spotify.com/artist/37lunlezmWmUxEd3oc5Xz3) | [The Very Best of Tara Turner](https://open.spotify.com/album/71IcuhfNeAPMgA725miIHE) | 2:52 | 2026-03-26 | 2026-04-21 |
 | [Gravity Loop](https://open.spotify.com/track/2PLugFy81C4W9jgR7HAbHf) | [Little Less Pain](https://open.spotify.com/artist/1JLKWDQ8LN2uRAdFhUhWXJ) | [Gravity Loop](https://open.spotify.com/album/2TYl4QAwKId99BBMLzWJ6I) | 3:33 | 2026-01-05 | 2026-03-29 |
 | [Guardians](https://open.spotify.com/track/2pF1KcbsznK4aKyl3qcyi6) | [Isin](https://open.spotify.com/artist/62D48N40TKo9Y9yjQPOk7Z), [Vallartis](https://open.spotify.com/artist/4qk4tiRxpaEweP7vpg8oFa) | [The Daylight is Gone](https://open.spotify.com/album/3X7oJdPdwMPIkoHb5WIYpZ) | 3:58 | 2026-02-19 | 2026-04-16 |

@@ -63,6 +63,32 @@
     },
     {
       "album": {
+        "name": "numb numb (feat. Hatsune Miku, Kasane Teto)",
+        "url": "https://open.spotify.com/album/5Uq7NV6z68sb4QmL95M1gG"
+      },
+      "artists": [
+        {
+          "name": "TAK",
+          "url": "https://open.spotify.com/artist/51Ce3GImOKK2xAGi3HiNns"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        },
+        {
+          "name": "Kasane Teto",
+          "url": "https://open.spotify.com/artist/4JX0GdKx8EduY2Ck7qac4H"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167250,
+      "name": "numb numb (feat. Hatsune Miku, Kasane Teto)",
+      "url": "https://open.spotify.com/track/0AmLImb5bR5gu2WtxvyKAL"
+    },
+    {
+      "album": {
         "name": "PPPP",
         "url": "https://open.spotify.com/album/2YpnTJLH8a1xxEL3HXAWQQ"
       },
@@ -126,6 +152,24 @@
       "duration_ms": 180707,
       "name": "UniTECH (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/0NlyD9PKPT0HhRUbQwGh8t"
+    },
+    {
+      "album": {
+        "name": "\u3042\u306a\u305f\u3057\u304b\u898b\u3048\u306a\u3044\u306e",
+        "url": "https://open.spotify.com/album/1Elhg9rcCqOWvfiFcBt6Px"
+      },
+      "artists": [
+        {
+          "name": "r-906",
+          "url": "https://open.spotify.com/artist/7os1UVlIK50EAaP990Z8aE"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222438,
+      "name": "\u3042\u306a\u305f\u3057\u304b\u898b\u3048\u306a\u3044\u306e",
+      "url": "https://open.spotify.com/track/2Cnm1u2ly8QWLbt3E8rrwS"
     },
     {
       "album": {
@@ -276,7 +320,7 @@
       ],
       "date_added": "2026-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-27",
       "duration_ms": 216827,
       "name": "\u304a\u3069\u30ed\u30dc",
       "url": "https://open.spotify.com/track/46IXpq5RCMs7RBAwf4ln83"
@@ -298,7 +342,7 @@
       ],
       "date_added": "2026-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-27",
       "duration_ms": 140087,
       "name": "\u304a\u3070\u3051\u4f53\u9a13 (feat. \u91cd\u97f3\u30c6\u30c8)",
       "url": "https://open.spotify.com/track/3X6xkk4eloe3Prb1ewUfoq"
@@ -634,7 +678,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-27",
       "duration_ms": 133651,
       "name": "\u30a2\u30f3\u30bf\u306b\u8a00\u3063\u3066\u3093\u306e\uff01",
       "url": "https://open.spotify.com/track/3KaZDoUNLRzLgVIfJKTxrH"
@@ -791,6 +835,24 @@
     },
     {
       "album": {
+        "name": "\u30b5\u30a4\u30d0\u30fc\u30b5\u30f3\u30c0\u30fc\u30b5\u30a4\u30c0\u30fc",
+        "url": "https://open.spotify.com/album/2VYFoS1XLt75ubCE0RJcyq"
+      },
+      "artists": [
+        {
+          "name": "EZFG",
+          "url": "https://open.spotify.com/artist/5AGj9iqXW7Hhm7o8qRegx0"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200172,
+      "name": "\u30b5\u30a4\u30d0\u30fc\u30b5\u30f3\u30c0\u30fc\u30b5\u30a4\u30c0\u30fc",
+      "url": "https://open.spotify.com/track/55qTuFgwaGjwixl9U0UTkf"
+    },
+    {
+      "album": {
         "name": "\u30b7\u30a2\u30f3\u30d6\u30eb\u30fc",
         "url": "https://open.spotify.com/album/2Z9EJw81AJyw4wHxZMr1X3"
       },
@@ -894,6 +956,28 @@
       "duration_ms": 183428,
       "name": "\u30b9\u30dd\u30c3\u30c8\u30ec\u30a4\u30c8",
       "url": "https://open.spotify.com/track/642rfo4tqqUGLzNYXenh7A"
+    },
+    {
+      "album": {
+        "name": "\u30bd\u30e9\u306e\u8b70\u4e8b\u9332 (feat. \u521d\u97f3\u30df\u30af)",
+        "url": "https://open.spotify.com/album/0Ibc4PPlRwfWO685bzZQfM"
+      },
+      "artists": [
+        {
+          "name": "MIMI",
+          "url": "https://open.spotify.com/artist/0nwGsQzwVqdlBAg0eSNxmd"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205000,
+      "name": "\u30bd\u30e9\u306e\u8b70\u4e8b\u9332 (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/5VLkUIFUY490fTD1NKOQit"
     },
     {
       "album": {
@@ -1078,7 +1162,7 @@
       ],
       "date_added": "2026-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-27",
       "duration_ms": 185669,
       "name": "\u30c9\u4e03\u4e94\u30b5\u30f3\u30d0 (feat. \u91cd\u97f3\u30c6\u30c8)",
       "url": "https://open.spotify.com/track/51fXEeSQnSO2cvNUaM6Iij"
@@ -1232,7 +1316,7 @@
       ],
       "date_added": "2025-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-27",
       "duration_ms": 189884,
       "name": "\u30d5\u30a9\u30cb\u30a4",
       "url": "https://open.spotify.com/track/2UUwBDALzJuThY88Ro2lD2"
@@ -1435,6 +1519,28 @@
     },
     {
       "album": {
+        "name": "\u30e1\u30e2\u30ea\u30fc (feat. \u521d\u97f3\u30df\u30af)",
+        "url": "https://open.spotify.com/album/0HKGkWMyBYfxVLGBEEQLB6"
+      },
+      "artists": [
+        {
+          "name": "\u5927\u6f20\u6ce2\u65b0",
+          "url": "https://open.spotify.com/artist/1YHmPcRy7ET4VRufy4GI0h"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305591,
+      "name": "\u30e1\u30e2\u30ea\u30fc (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/7Ef3526P9gr3gYK74XUDio"
+    },
+    {
+      "album": {
         "name": "CPK! Remix",
         "url": "https://open.spotify.com/album/3t2VNxS4trJfr9cCIohZ2c"
       },
@@ -1566,7 +1672,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-27",
       "duration_ms": 179066,
       "name": "\u30e9\u30d6\u30d1\u30e9",
       "url": "https://open.spotify.com/track/0nOeQHoZI9S4BburaZYWlB"
@@ -2003,6 +2109,24 @@
     },
     {
       "album": {
+        "name": "\u307f\u306a\u307f\u306e\u3044\u305a\u3080-20232024-",
+        "url": "https://open.spotify.com/album/0KrOD2dQq56hYnGt2A9l9A"
+      },
+      "artists": [
+        {
+          "name": "\u5357\u30ce\u5357",
+          "url": "https://open.spotify.com/artist/14Gsi7Nb3Wn80QsN369dzS"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149250,
+      "name": "\u661f\u754c\u3061\u3083\u3093\u306e\u89d2\u74f6\u30ac\u30d6\u98f2\u307f\u66b4\u9a12\u66f2",
+      "url": "https://open.spotify.com/track/6i6VxwOMwTAqZDOWn8CMLV"
+    },
+    {
+      "album": {
         "name": "\u6708\u304c\u7dba\u9e97\u306d\u3068\u8a00\u308f\u308c\u305f\u3044\uff01",
         "url": "https://open.spotify.com/album/2szUlZHQ12soyT8xp4535h"
       },
@@ -2106,7 +2230,7 @@
       ],
       "date_added": "2025-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-27",
       "duration_ms": 239999,
       "name": "\u71b1\u7570\u5e38 (feat. \u8db3\u7acb\u30ec\u30a4)",
       "url": "https://open.spotify.com/track/7zlsqQxGfiWIkctQDeTvmv"
@@ -2236,6 +2360,28 @@
       "duration_ms": 137999,
       "name": "\u7f70\u3057\u3066\u5149",
       "url": "https://open.spotify.com/track/5VMiSVUIoaKjdNd77hXNnA"
+    },
+    {
+      "album": {
+        "name": "\u80fd\u30ca\u30b7 (feat. \u77e5\u58f0) [2026 Re-recorded]",
+        "url": "https://open.spotify.com/album/04yqYLfxQttCkQpreCVyxp"
+      },
+      "artists": [
+        {
+          "name": "isonosuke",
+          "url": "https://open.spotify.com/artist/59J6Ko7gRBJamo9e1jAl9x"
+        },
+        {
+          "name": "Chis-A",
+          "url": "https://open.spotify.com/artist/4kmZaUQhElz6uF2s4Bd1Av"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190702,
+      "name": "\u80fd\u30ca\u30b7 (feat. \u77e5\u58f0) [2026 Re-recorded]",
+      "url": "https://open.spotify.com/track/0bjg71Kab51SW3IMqNt4TX"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-2,390 songs - 5 day 19 hr 29 min
+2,393 songs - 5 day 19 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1990,6 +1990,7 @@
 | [The Blackest Crow](https://open.spotify.com/track/7ppxGFA9nc8SxIrxSj7LCL) | [The Old Crow Road](https://open.spotify.com/artist/1ACWm36ExuNs5OBBwyXcrI) | [The Blackest Crow](https://open.spotify.com/album/3uHbGFlb0DzTyDzCdpQ70o) | 6:15 | 2025-07-02 |  |
 | [The Convoy](https://open.spotify.com/track/1gH9NfCbNjwA7s2at9zOzJ) | [Julien Delaye](https://open.spotify.com/artist/2Ck7gb50RbTb4ysqR5ffBf) | [Open Air Desertlike Discotheque](https://open.spotify.com/album/1wdNzCPdFkk80Uov0a2wvW) | 5:01 | 2025-01-28 |  |
 | [The Courage Song](https://open.spotify.com/track/2qhO7pdFB9ATTE0wMWqQAx) | [The Rabbit Council](https://open.spotify.com/artist/1nSm3sva0zgXWbnUjsu5nf) | [The Rabbit Council](https://open.spotify.com/album/4h3eZj8sZo5ZGhhYwtdCmg) | 2:39 | 2025-06-23 |  |
+| [The Crow](https://open.spotify.com/track/56Aya5c9O6YvYoPkBzpYvW) | [Arn\-Identified Flying Objects and Alien Friends](https://open.spotify.com/artist/4qw8JsPgdrMpDFeTwaaCCD) | [The Crow](https://open.spotify.com/album/4ANC5ONS6tRUkZJHRON4E9) | 3:04 | 2026-05-26 |  |
 | [The Day That's Just Begun](https://open.spotify.com/track/42cl6SCbxeaIcb3mqy4OR9) | [Rain on Monday](https://open.spotify.com/artist/3WUdqOixoY5hkjvcAx2Cjp) | [The Day That's Just Begun](https://open.spotify.com/album/2xTs4kEJ73gqXzX4WaTkNN) | 3:25 | 2024-09-23 |  |
 | [The Devil's Playground](https://open.spotify.com/track/3sfEHGc6p4GLP6Y7WcPUfx) | [Fletcher Christian](https://open.spotify.com/artist/2FjdpboVDGnJs9wuGcJV8H) | [The Devil's Playground](https://open.spotify.com/album/1RbOt6WLhQac7AfyPu5RSf) | 2:51 | 2024-09-16 |  |
 | [The End of a Dream](https://open.spotify.com/track/4CnCOKgQFyaWYrJuv8hHYa) | [the andi & meicheng project](https://open.spotify.com/artist/7byI2YEssv2cp3AIs43poE) | [The End of a Dream](https://open.spotify.com/album/1PgU6LFcoTk1DbAGQksuLG) | 4:29 | 2024-07-23 |  |
@@ -2004,6 +2005,7 @@
 | [The Gathering Storm](https://open.spotify.com/track/5VvOxKOe5Kl9PMXL6n3eX4) | [David Garvin](https://open.spotify.com/artist/5fkj1ojppua1iD3HpHDvge) | [The Gathering Storm](https://open.spotify.com/album/1Q5RvB3nZGG4CvVEBOXnUl) | 3:10 | 2024-11-20 |  |
 | [The Glory in Your Hand](https://open.spotify.com/track/6cmnNmwQgBWUzDwTtdO6c5) | [Shot Country Music](https://open.spotify.com/artist/6SD9T39XbxmQ0U0fWkhiM7) | [Shot](https://open.spotify.com/album/554W9rIcQj8O2gkt2FReUi) | 6:18 | 2025-07-16 |  |
 | [The Good Times](https://open.spotify.com/track/7Ke4RcL7xT18VdbzXkDKoq) | [Aaron Friend & the Enemies](https://open.spotify.com/artist/1w0QljQB8KWyuRWEnBgTeM) | [Sunset Clause](https://open.spotify.com/album/28o3zny5atJE7bkajc5CdJ) | 2:47 | 2025-09-04 |  |
+| [The Goonies Are Good Enough](https://open.spotify.com/track/27VOni0i9mmss8Hc5fchnG) | [Thirsty Curses](https://open.spotify.com/artist/3H2SNIWzM4KVAuKBC5i5f0) | [The Goonies Are Good Enough](https://open.spotify.com/album/3zp4sH0nh9faKVLurq1JGY) | 2:33 | 2026-05-26 |  |
 | [The Hands That Feed You](https://open.spotify.com/track/5RF2SfV1qMWRxJ157bP5iy) | [Ocartiz James](https://open.spotify.com/artist/23MBrNLP0Eee8OZbRMcH7z) | [The Hands that Feed You](https://open.spotify.com/album/4zpY9hnQyGqkWbgDuGeu3J) | 2:52 | 2025-02-03 |  |
 | [THE HITMAN](https://open.spotify.com/track/2ZMq07lmNi6vA6PbEUDBVK) | [Georgia Jay](https://open.spotify.com/artist/40BH0NxesBC7h5FMOcygVK) | [MYSTERY WOMAN](https://open.spotify.com/album/3JTd3by6ZKIOu4ShXjf6Ty) | 3:17 | 2025-03-21 |  |
 | [The House by the River](https://open.spotify.com/track/0O2TxgsM8Q4Uq5Pskl93xl) | [Hollow Pines](https://open.spotify.com/artist/4YwX5um1fAZeexDjpGZ22U) | [Where the Pines Grow](https://open.spotify.com/album/75PAtGmQyRExF7IACj44qM) | 3:19 | 2025-11-17 |  |
@@ -2244,6 +2246,7 @@
 | [What You Sippin On?](https://open.spotify.com/track/5I71tVaNd5JAbXwEWTBCrY) | [Thompson Newkirk](https://open.spotify.com/artist/4REmQoYtgtw3WxM75wpLO5) | [What You Sippin On?](https://open.spotify.com/album/5Gf0LTBtSExjUbVPvRgXml) | 3:18 | 2025-09-17 |  |
 | [What's it Matter?](https://open.spotify.com/track/1yq28U2RScvT5PoHkgu9Lc) | [Glen Haze](https://open.spotify.com/artist/412hdqOshBEKPliqKYU4K9) | [What's it Matter?](https://open.spotify.com/album/64L5112Qh08VMgNmRJtD4L) | 3:23 | 2025-11-06 |  |
 | [What's My Name Again](https://open.spotify.com/track/6FJsoPUia1DrnJLasjz9AS) | [Aage Birch](https://open.spotify.com/artist/3Uyv14BPl75UV0zeRunByC) | [What's My Name Again](https://open.spotify.com/album/2k1ffYU7xe6oE0j89kYdhG) | 4:09 | 2025-03-07 |  |
+| [What's The Occasion?](https://open.spotify.com/track/69ivFCw2f8rfecFkgYSRJ8) | [Tennis Goth](https://open.spotify.com/artist/0ijRFpvZGGhqBwznExjALF) | [What's The Occasion?](https://open.spotify.com/album/425tJLypMQuVKrbYH0IQh0) | 2:35 | 2026-05-26 |  |
 | [What's Your Name?](https://open.spotify.com/track/2sgTjfMISDjW1t80v759Lv) | [TFW Music Revue](https://open.spotify.com/artist/6i5d95x4uWPSHbplC4AIpb) | [Music Magic](https://open.spotify.com/album/25C0sgEwiLNIDptJfZKvMW) | 3:03 | 2026-01-29 |  |
 | [What’s On Your Mind](https://open.spotify.com/track/2DOKvJS61usFOxobo7jLi0) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk), [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c) | [What's On Your Mind](https://open.spotify.com/album/3Zba9cZ8EP1DBcvjnVNrG6) | 3:32 | 2026-04-14 |  |
 | [When I Fall](https://open.spotify.com/track/7gMLfb1NbOeDgmWZ6qZt7V) | [Hudson Murray](https://open.spotify.com/artist/64Ytpz9KrL0P7WQaMVPPy3) | [Stars Aligned](https://open.spotify.com/album/2IWGP4nPo5BcBuUTNEZzWG) | 2:54 | 2026-03-31 |  |

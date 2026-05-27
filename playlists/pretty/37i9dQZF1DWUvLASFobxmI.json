@@ -1,6 +1,6 @@
 {
   "description": "Brav\u00edas, rom\u00e1nticas y rancheras, las mejores canciones norte\u00f1as. David Ornelas en portada.",
-  "num_followers": 530172,
+  "num_followers": 530187,
   "original_name": "Norte\u00f1o 2026",
   "owner": {
     "name": "Spotify",
@@ -331,22 +331,6 @@
     {
       "added_at": "2026-05-22 06:00:43",
       "album": {
-        "name": "A Ver Como Le Hago",
-        "url": "https://open.spotify.com/album/5Ekh1tHT0fNxAgtxy5raMa"
-      },
-      "artists": [
-        {
-          "name": "Los Parras",
-          "url": "https://open.spotify.com/artist/1mXD3HVrObKWyjMvRjfsXp"
-        }
-      ],
-      "duration_ms": 161875,
-      "name": "A Ver Como Le Hago",
-      "url": "https://open.spotify.com/track/2F0lok1o6mQ539XqGlqrmC"
-    },
-    {
-      "added_at": "2026-05-22 06:00:43",
-      "album": {
         "name": "Por Mi Bien",
         "url": "https://open.spotify.com/album/4aaPUnuOcSaF9nQqb1vyoP"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 157705,
       "name": "Por Mi Bien",
       "url": "https://open.spotify.com/track/7dy0dBzo5bvubzDwlaVhvm"
+    },
+    {
+      "added_at": "2026-05-22 06:00:43",
+      "album": {
+        "name": "A Ver Como Le Hago",
+        "url": "https://open.spotify.com/album/5Ekh1tHT0fNxAgtxy5raMa"
+      },
+      "artists": [
+        {
+          "name": "Los Parras",
+          "url": "https://open.spotify.com/artist/1mXD3HVrObKWyjMvRjfsXp"
+        }
+      ],
+      "duration_ms": 161875,
+      "name": "A Ver Como Le Hago",
+      "url": "https://open.spotify.com/track/2F0lok1o6mQ539XqGlqrmC"
     },
     {
       "added_at": "2026-05-22 06:00:43",
@@ -595,22 +595,6 @@
     {
       "added_at": "2026-05-22 06:00:43",
       "album": {
-        "name": "Migajero",
-        "url": "https://open.spotify.com/album/3NruGax4ExQKseJLZ9N2su"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 198421,
-      "name": "Migajero",
-      "url": "https://open.spotify.com/track/5epbktRwPpLwYz5mnBgNPq"
-    },
-    {
-      "added_at": "2026-05-22 06:00:43",
-      "album": {
         "name": "Sabor A Sonora (En Vivo)",
         "url": "https://open.spotify.com/album/6i7iwcGLHbQ81Y2X1eo5Jb"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 143445,
       "name": "Sabor A Sonora - En Vivo",
       "url": "https://open.spotify.com/track/2hRW3tbYakHvX5pp6iOzJo"
+    },
+    {
+      "added_at": "2026-05-22 06:00:43",
+      "album": {
+        "name": "Migajero",
+        "url": "https://open.spotify.com/album/3NruGax4ExQKseJLZ9N2su"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 198421,
+      "name": "Migajero",
+      "url": "https://open.spotify.com/track/5epbktRwPpLwYz5mnBgNPq"
     },
     {
       "added_at": "2026-05-22 06:00:43",
@@ -835,22 +835,6 @@
     {
       "added_at": "2026-05-22 06:00:43",
       "album": {
-        "name": "No Soy Vegano",
-        "url": "https://open.spotify.com/album/3wplxYtQdvMhXtdvk9mLrv"
-      },
-      "artists": [
-        {
-          "name": "Espinoza Paz",
-          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
-        }
-      ],
-      "duration_ms": 188657,
-      "name": "No Soy Vegano",
-      "url": "https://open.spotify.com/track/2IHje5bOH9voDLJvwDBK34"
-    },
-    {
-      "added_at": "2026-05-22 06:00:43",
-      "album": {
         "name": "TAN FACIL",
         "url": "https://open.spotify.com/album/7HdSQ3SMFDG3CTlvbZqyhn"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 162711,
       "name": "TAN FACIL",
       "url": "https://open.spotify.com/track/3mkgaNXg8UHd537YsUWQQj"
+    },
+    {
+      "added_at": "2026-05-22 06:00:43",
+      "album": {
+        "name": "No Soy Vegano",
+        "url": "https://open.spotify.com/album/3wplxYtQdvMhXtdvk9mLrv"
+      },
+      "artists": [
+        {
+          "name": "Espinoza Paz",
+          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
+        }
+      ],
+      "duration_ms": 188657,
+      "name": "No Soy Vegano",
+      "url": "https://open.spotify.com/track/2IHje5bOH9voDLJvwDBK34"
     },
     {
       "added_at": "2026-05-22 06:00:43",
@@ -955,22 +955,6 @@
     {
       "added_at": "2026-05-22 06:00:43",
       "album": {
-        "name": "Soy Tan Tuyo",
-        "url": "https://open.spotify.com/album/4zghh6p3DmXfCyRgXjBlgC"
-      },
-      "artists": [
-        {
-          "name": "Grupo Primer Grado",
-          "url": "https://open.spotify.com/artist/3eRCLeO8w7xvvg1o39acC7"
-        }
-      ],
-      "duration_ms": 220377,
-      "name": "Soy Tan Tuyo",
-      "url": "https://open.spotify.com/track/0m1iRpW2FHqTkqSFKeHlJM"
-    },
-    {
-      "added_at": "2026-05-22 06:00:43",
-      "album": {
         "name": "Al Modo Villa",
         "url": "https://open.spotify.com/album/0yYyjz1d3UK1Lz5AlXDbr9"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 192500,
       "name": "Al Modo Villa",
       "url": "https://open.spotify.com/track/2zERSEjMMG5zk9clpoYYjR"
+    },
+    {
+      "added_at": "2026-05-22 06:00:43",
+      "album": {
+        "name": "Soy Tan Tuyo",
+        "url": "https://open.spotify.com/album/4zghh6p3DmXfCyRgXjBlgC"
+      },
+      "artists": [
+        {
+          "name": "Grupo Primer Grado",
+          "url": "https://open.spotify.com/artist/3eRCLeO8w7xvvg1o39acC7"
+        }
+      ],
+      "duration_ms": 220377,
+      "name": "Soy Tan Tuyo",
+      "url": "https://open.spotify.com/track/0m1iRpW2FHqTkqSFKeHlJM"
     },
     {
       "added_at": "2026-05-22 06:00:43",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2026-05-22 06:00:43",
       "album": {
+        "name": "Obvio No",
+        "url": "https://open.spotify.com/album/5ZG8d0cWqDDzJHsKhxaz0Z"
+      },
+      "artists": [
+        {
+          "name": "Viviann Baeza",
+          "url": "https://open.spotify.com/artist/7fuBwrGHaKmyFlbSHcABvo"
+        }
+      ],
+      "duration_ms": 196166,
+      "name": "Obvio No",
+      "url": "https://open.spotify.com/track/0ggedvT3TQhCOti5AKrvVU"
+    },
+    {
+      "added_at": "2026-05-22 06:00:43",
+      "album": {
         "name": "En Vivo Vol.4",
         "url": "https://open.spotify.com/album/5Iog3hJn32L3VMprtQK9Yu"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 166533,
       "name": "Rompecabezas",
       "url": "https://open.spotify.com/track/1nWaxwXMkjqfsVCP1T8dtq"
-    },
-    {
-      "added_at": "2026-05-22 06:00:43",
-      "album": {
-        "name": "Obvio No",
-        "url": "https://open.spotify.com/album/5ZG8d0cWqDDzJHsKhxaz0Z"
-      },
-      "artists": [
-        {
-          "name": "Viviann Baeza",
-          "url": "https://open.spotify.com/artist/7fuBwrGHaKmyFlbSHcABvo"
-        }
-      ],
-      "duration_ms": 196166,
-      "name": "Obvio No",
-      "url": "https://open.spotify.com/track/0ggedvT3TQhCOti5AKrvVU"
     },
     {
       "added_at": "2026-05-22 06:00:43",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2026-05-22 06:00:43",
       "album": {
-        "name": "Mi Condena",
-        "url": "https://open.spotify.com/album/6r7a3JoNpGCo9uqaM7hLFx"
-      },
-      "artists": [
-        {
-          "name": "Los Ejemplares del Rancho",
-          "url": "https://open.spotify.com/artist/6kimDIidGkVRPLCAxNVBgY"
-        }
-      ],
-      "duration_ms": 193784,
-      "name": "Mi Condena",
-      "url": "https://open.spotify.com/track/2t1hPaHuynRaY3GrANTch4"
-    },
-    {
-      "added_at": "2026-05-22 06:00:43",
-      "album": {
         "name": "Tengo Que Olvidar",
         "url": "https://open.spotify.com/album/7au1GwjIJH9nkuDfuPeEgg"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 159016,
       "name": "Tengo Que Olvidar",
       "url": "https://open.spotify.com/track/6YR24esZ2MpgBuzP6ey9Re"
+    },
+    {
+      "added_at": "2026-05-22 06:00:43",
+      "album": {
+        "name": "Mi Condena",
+        "url": "https://open.spotify.com/album/6r7a3JoNpGCo9uqaM7hLFx"
+      },
+      "artists": [
+        {
+          "name": "Los Ejemplares del Rancho",
+          "url": "https://open.spotify.com/artist/6kimDIidGkVRPLCAxNVBgY"
+        }
+      ],
+      "duration_ms": 193784,
+      "name": "Mi Condena",
+      "url": "https://open.spotify.com/track/2t1hPaHuynRaY3GrANTch4"
     },
     {
       "added_at": "2026-05-22 06:00:43",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2026-05-22 06:00:43",
       "album": {
-        "name": "Corridos y Canciones",
-        "url": "https://open.spotify.com/album/0LE1F6QFKhO9jvM1bX7Agx"
-      },
-      "artists": [
-        {
-          "name": "Los Varones de Culiacan",
-          "url": "https://open.spotify.com/artist/3Bz4vStA4p6jwPXL6SDZ9d"
-        }
-      ],
-      "duration_ms": 140928,
-      "name": "Princesa Hermosa",
-      "url": "https://open.spotify.com/track/3c5C37V1YYSAfh6wwb1k9s"
-    },
-    {
-      "added_at": "2026-05-22 06:00:43",
-      "album": {
         "name": "Recuerdos De Ni\u00f1o",
         "url": "https://open.spotify.com/album/7cHIsnYvCUtwbsjHSQ23Cb"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 146350,
       "name": "Recuerdos De Ni\u00f1o",
       "url": "https://open.spotify.com/track/56xdph8ib9mB3hdwCYvzFK"
+    },
+    {
+      "added_at": "2026-05-22 06:00:43",
+      "album": {
+        "name": "Corridos y Canciones",
+        "url": "https://open.spotify.com/album/0LE1F6QFKhO9jvM1bX7Agx"
+      },
+      "artists": [
+        {
+          "name": "Los Varones de Culiacan",
+          "url": "https://open.spotify.com/artist/3Bz4vStA4p6jwPXL6SDZ9d"
+        }
+      ],
+      "duration_ms": 140928,
+      "name": "Princesa Hermosa",
+      "url": "https://open.spotify.com/track/3c5C37V1YYSAfh6wwb1k9s"
     },
     {
       "added_at": "2026-05-22 06:00:43",

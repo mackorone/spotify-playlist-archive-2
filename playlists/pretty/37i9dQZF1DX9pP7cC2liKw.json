@@ -1,6 +1,6 @@
 {
   "description": "Immerse yourself in the mysticism of Tulum!",
-  "num_followers": 449355,
+  "num_followers": 449581,
   "original_name": "Tulum Vibes",
   "owner": {
     "name": "Spotify",
@@ -533,22 +533,6 @@
       "url": "https://open.spotify.com/track/30XzPuJXYZrPF2jx89SQG1"
     },
     {
-      "added_at": "2024-01-05 06:00:00",
-      "album": {
-        "name": "Mango Season",
-        "url": "https://open.spotify.com/album/28ueaiA1MDzCaDHtG0kLES"
-      },
-      "artists": [
-        {
-          "name": "BALTHVS",
-          "url": "https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG"
-        }
-      ],
-      "duration_ms": 147489,
-      "name": "Mango Season",
-      "url": "https://open.spotify.com/track/6F42K33jC5A2brWORXT8nE"
-    },
-    {
       "added_at": "2023-10-24 02:03:26",
       "album": {
         "name": "Carrossel Do Tempo",
@@ -567,6 +551,22 @@
       "duration_ms": 297440,
       "name": "Carrossel Do Tempo",
       "url": "https://open.spotify.com/track/6R3a2hraPYMwVCHfRw9hNr"
+    },
+    {
+      "added_at": "2024-01-05 06:00:00",
+      "album": {
+        "name": "Mango Season",
+        "url": "https://open.spotify.com/album/28ueaiA1MDzCaDHtG0kLES"
+      },
+      "artists": [
+        {
+          "name": "BALTHVS",
+          "url": "https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG"
+        }
+      ],
+      "duration_ms": 147489,
+      "name": "Mango Season",
+      "url": "https://open.spotify.com/track/6F42K33jC5A2brWORXT8nE"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -681,22 +681,6 @@
       "url": "https://open.spotify.com/track/73EADOHLCpA5Fk4EM8vzO1"
     },
     {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
-        "name": "So\u00f1ando",
-        "url": "https://open.spotify.com/album/5HDXllRh6Kyp0TWilBuDsr"
-      },
-      "artists": [
-        {
-          "name": "Acid Coco",
-          "url": "https://open.spotify.com/artist/5UiKi49d0fbeffWl4aPWNW"
-        }
-      ],
-      "duration_ms": 242215,
-      "name": "So\u00f1ando",
-      "url": "https://open.spotify.com/track/3UUkMsnp1NDwN0g1Rg48Y4"
-    },
-    {
       "added_at": "2022-08-19 01:51:18",
       "album": {
         "name": "Caf\u00e9 del Mar XXVIII (Vol. 28)",
@@ -711,6 +695,22 @@
       "duration_ms": 266401,
       "name": "Ain't Nobody - 12\" Mix",
       "url": "https://open.spotify.com/track/6RJp9ofpbFw1HCZ2gW3YrU"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "So\u00f1ando",
+        "url": "https://open.spotify.com/album/5HDXllRh6Kyp0TWilBuDsr"
+      },
+      "artists": [
+        {
+          "name": "Acid Coco",
+          "url": "https://open.spotify.com/artist/5UiKi49d0fbeffWl4aPWNW"
+        }
+      ],
+      "duration_ms": 242215,
+      "name": "So\u00f1ando",
+      "url": "https://open.spotify.com/track/3UUkMsnp1NDwN0g1Rg48Y4"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -871,22 +871,6 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Grind / Prelims",
-        "url": "https://open.spotify.com/album/0hDAUxNVrjkDmfzuVCueMs"
-      },
-      "artists": [
-        {
-          "name": "Les Sins",
-          "url": "https://open.spotify.com/artist/4gSTRpmeyYppvIXuFKjfAL"
-        }
-      ],
-      "duration_ms": 318014,
-      "name": "Grind",
-      "url": "https://open.spotify.com/track/13LVADAG1jdD42fe5wihFc"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
         "name": "Na Procura",
         "url": "https://open.spotify.com/album/4MjVYF2WrA2LxHOekWZREA"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 390505,
       "name": "Na Procura",
       "url": "https://open.spotify.com/track/5jHL9thvvnkuKPExerUgTg"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Grind / Prelims",
+        "url": "https://open.spotify.com/album/0hDAUxNVrjkDmfzuVCueMs"
+      },
+      "artists": [
+        {
+          "name": "Les Sins",
+          "url": "https://open.spotify.com/artist/4gSTRpmeyYppvIXuFKjfAL"
+        }
+      ],
+      "duration_ms": 318014,
+      "name": "Grind",
+      "url": "https://open.spotify.com/track/13LVADAG1jdD42fe5wihFc"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -1169,20 +1169,20 @@
       "url": "https://open.spotify.com/track/2NT4Qm591F5sel8OupNhWp"
     },
     {
-      "added_at": "2024-08-23 01:16:41",
+      "added_at": "2023-03-22 17:52:31",
       "album": {
-        "name": "Green Ivy Tapestry",
-        "url": "https://open.spotify.com/album/4aW5fIVwUnvnuStm0AHWkS"
+        "name": "SMT",
+        "url": "https://open.spotify.com/album/03D2z5rFjWwL1menJGfcmQ"
       },
       "artists": [
         {
-          "name": "Claude Fontaine",
-          "url": "https://open.spotify.com/artist/34Ri1nJORbduGK8LLHz61Y"
+          "name": "Pierre Kwenders",
+          "url": "https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP"
         }
       ],
-      "duration_ms": 147915,
-      "name": "Green Ivy Tapestry",
-      "url": "https://open.spotify.com/track/3mtSuDBEROnM30OouovNny"
+      "duration_ms": 197600,
+      "name": "SMT",
+      "url": "https://open.spotify.com/track/01j2SBoRQWzrcHmsycw415"
     },
     {
       "added_at": "2023-11-16 17:08:10",
@@ -1201,20 +1201,20 @@
       "url": "https://open.spotify.com/track/6huxMX0WGdmd39W26DYCMZ"
     },
     {
-      "added_at": "2023-03-22 17:52:31",
+      "added_at": "2024-08-23 01:16:41",
       "album": {
-        "name": "SMT",
-        "url": "https://open.spotify.com/album/03D2z5rFjWwL1menJGfcmQ"
+        "name": "Green Ivy Tapestry",
+        "url": "https://open.spotify.com/album/4aW5fIVwUnvnuStm0AHWkS"
       },
       "artists": [
         {
-          "name": "Pierre Kwenders",
-          "url": "https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP"
+          "name": "Claude Fontaine",
+          "url": "https://open.spotify.com/artist/34Ri1nJORbduGK8LLHz61Y"
         }
       ],
-      "duration_ms": 197600,
-      "name": "SMT",
-      "url": "https://open.spotify.com/track/01j2SBoRQWzrcHmsycw415"
+      "duration_ms": 147915,
+      "name": "Green Ivy Tapestry",
+      "url": "https://open.spotify.com/track/3mtSuDBEROnM30OouovNny"
     },
     {
       "added_at": "2024-07-05 04:11:16",

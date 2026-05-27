@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nGm7tTyA78.md) - [plain]
 
 > Reggaeton pero al sabor de Cristo! Foto: Mireyli Rosa & Indiomar
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,112 likes - 75 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,141 likes - 75 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nGm7tTyA78.md) - [plain]
 | 45 | [La Rápida](https://open.spotify.com/track/51lXdhEJF6qsD6lFLBecUP) | [Obedoyoque](https://open.spotify.com/artist/0ZV3RlJLxlSiCjiWO2WFXS) | [La Rápida](https://open.spotify.com/album/24IYi56iNNzOwgxomuKN2K) | 2:26 |
 | 46 | [Pasará](https://open.spotify.com/track/4jMDX2SlB1RZ5OPAGcA821) | [Musiko](https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue), [Gabriel EMC](https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH), [Indiomar](https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM) | [Pasará](https://open.spotify.com/album/33oFKgd8WjinQ3OMOGb4rg) | 3:38 |
 | 47 | [Let Go](https://open.spotify.com/track/6jgTpgCEsaBww39iQWdUY9) | [Cardec Drums](https://open.spotify.com/artist/1uVtllLSmvkfPRozmSmxzG) | [El Gordito Lindo: Part 1](https://open.spotify.com/album/1fwsCxlsui2AoT4qaFplzX) | 2:35 |
-| 48 | [Le Llego](https://open.spotify.com/track/0XQ4WOBvSjoqh1pWjBvLE3) | [Lenny Mora](https://open.spotify.com/artist/4vLYHxBZf0EcNaV8TRVb9i), [Yeniell](https://open.spotify.com/artist/0NfUDepBHPTyQBKWBmop91) | [Le Llego](https://open.spotify.com/album/17eUK5Q2KvADDnlvOtYePz) | 3:05 |
+| 48 | [Le Llego](https://open.spotify.com/track/0XQ4WOBvSjoqh1pWjBvLE3) | [Lenny Mora](https://open.spotify.com/artist/4vLYHxBZf0EcNaV8TRVb9i), [Yeniell](https://open.spotify.com/artist/0NfUDepBHPTyQBKWBmop91), [SarieL](https://open.spotify.com/artist/6HLjz3mUSt52nDpFylq93A) | [Le Llego](https://open.spotify.com/album/17eUK5Q2KvADDnlvOtYePz) | 3:05 |
 | 49 | [Fervor](https://open.spotify.com/track/2HAnd41daM8xrxxtssR68H) | [Kelmitt](https://open.spotify.com/artist/6tOv5UYDorjmsernjtaHO1) | [Fervor](https://open.spotify.com/album/27UaHHgD8N7eqJrxyOKcIC) | 3:16 |
 | 50 | [Retirao](https://open.spotify.com/track/7h3FHFzABZSfnray7J86XD) | [Shepherd](https://open.spotify.com/artist/0YHuTR40zc9yqfoSSArQxU), [Niko Eme](https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL), [Alexxander](https://open.spotify.com/artist/0J2jZKEeGZ01I7D86P6VJp) | [Retirao](https://open.spotify.com/album/05WFx5XnZrVnHVVTfwFknB) | 2:57 |
 | 51 | [Tu Amor \- Remix](https://open.spotify.com/track/3kmyEBFY8ckt7QrGPSyRSU) | [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz), [Niko Eme](https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL), [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [Tu Amor \(Remix\)](https://open.spotify.com/album/0OQ4LL1nTOmjo6tvijXKuA) | 4:05 |

@@ -2,7 +2,7 @@
 
 ### [Big Room Dance](https://open.spotify.com/playlist/37i9dQZF1DX3d2wagqzwmM)
 
-> Big rooms and big sounds\. Cover: La Fuente
+> Big rooms and big sounds\. Cover: Quintino
 
 696 songs - 1 day 11 hr 14 min
 

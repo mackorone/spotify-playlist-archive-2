@@ -1,12 +1,12 @@
 {
   "description": "This is GloRilla. The essential tracks, all in one playlist.",
-  "num_followers": 44599,
+  "num_followers": 44610,
   "original_name": "This Is GloRilla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahI/gAAAAADrHobxFdDbvssImbTANWSm",
+  "snapshot_id": "ahORAAAAAAAJSoINl2fI52F4MpwzehOP",
   "tracks": [
     {
       "added_at": null,
@@ -995,26 +995,42 @@
     {
       "added_at": null,
       "album": {
-        "name": "Grady Baby",
-        "url": "https://open.spotify.com/album/4SO3Yq5zcb3fs2HDEzPZl8"
+        "name": "Wrong One (with Gloss Up & Slimeroni feat. K Carbon, Aleza, Tay Keith)",
+        "url": "https://open.spotify.com/album/0TkJa6iqDtjK4ojpfO8PwG"
       },
       "artists": [
-        {
-          "name": "Anycia",
-          "url": "https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I"
-        },
         {
           "name": "GloRilla",
           "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
         },
         {
-          "name": "KARRAHBOOO",
-          "url": "https://open.spotify.com/artist/3vXXs7JjWfPO0YHhDnj4SP"
+          "name": "Gloss Up",
+          "url": "https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1"
+        },
+        {
+          "name": "Slimeroni",
+          "url": "https://open.spotify.com/artist/1aSHAWLQKX1Ln5yoHh8mTq"
+        },
+        {
+          "name": "CMG The Label",
+          "url": "https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA"
+        },
+        {
+          "name": "K Carbon",
+          "url": "https://open.spotify.com/artist/5LxoXQBUoD5oftz6xQLv9y"
+        },
+        {
+          "name": "Aleza",
+          "url": "https://open.spotify.com/artist/0cTIgkgGfLEoAAKV7tJnRz"
+        },
+        {
+          "name": "Tay Keith",
+          "url": "https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3"
         }
       ],
-      "duration_ms": 179795,
-      "name": "Never Need (feat. GloRilla & KARRAHBOOO)",
-      "url": "https://open.spotify.com/track/0MWBl0Z6QKwFXPUqx7dYyX"
+      "duration_ms": 177000,
+      "name": "Wrong One (with Gloss Up & Slimeroni feat. K Carbon, Aleza, Tay Keith)",
+      "url": "https://open.spotify.com/track/52WoZbGVLrEW0w6AGT9wNS"
     }
   ],
   "unique_name": "This Is GloRilla",

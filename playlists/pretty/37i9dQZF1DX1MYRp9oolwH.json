@@ -1,13 +1,37 @@
 {
-  "description": "Bringing out the best of latest love tracks\nCover : Ramani Kalyanam",
-  "num_followers": 170536,
+  "description": "Bringing out the best of latest love tracks\nCover : EPIC - First Semester",
+  "num_followers": 170556,
   "original_name": "Latest Romance Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALdGQFZbpzphARbuDu3w/6cBZR/T",
+  "snapshot_id": "AAAAABG9f802vRRfysrSnRtB2Wz2CAqK",
   "tracks": [
+    {
+      "added_at": "2026-05-26 11:56:11",
+      "album": {
+        "name": "Priyasakhi (From \"EPIC - First Semester\")",
+        "url": "https://open.spotify.com/album/1E1CnQQez2ZOyNRYOv2zip"
+      },
+      "artists": [
+        {
+          "name": "Hesham Abdul Wahab",
+          "url": "https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ"
+        },
+        {
+          "name": "K. S. Harisankar",
+          "url": "https://open.spotify.com/artist/4JXqxFqi9dxlsiXKZhKvzB"
+        },
+        {
+          "name": "Suresh Banisetti",
+          "url": "https://open.spotify.com/artist/3gcOBaedkasgxYjFVE81Km"
+        }
+      ],
+      "duration_ms": 224081,
+      "name": "Priyasakhi (From \"EPIC - First Semester\")",
+      "url": "https://open.spotify.com/track/1HDXZO5k652uOnB6L8hc66"
+    },
     {
       "added_at": "2026-05-19 07:56:58",
       "album": {
@@ -51,6 +75,30 @@
       "duration_ms": 228395,
       "name": "Mondi Dhanive",
       "url": "https://open.spotify.com/track/0AYZrzMaJfOAvR5cMAIYsF"
+    },
+    {
+      "added_at": "2026-05-26 11:56:11",
+      "album": {
+        "name": "Vadhalane (From \"Chennai Love Story\")",
+        "url": "https://open.spotify.com/album/0LnAPIJRsoddHigTUU5Owb"
+      },
+      "artists": [
+        {
+          "name": "Mani Sharma",
+          "url": "https://open.spotify.com/artist/3AMxH9QIPZbK8ND8C9j4Ss"
+        },
+        {
+          "name": "Javed Ali",
+          "url": "https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7"
+        },
+        {
+          "name": "Anantha Sreeram",
+          "url": "https://open.spotify.com/artist/73q7QOnwGy6huqoJ9JCRYD"
+        }
+      ],
+      "duration_ms": 333139,
+      "name": "Vadhalane (From \"Chennai Love Story\")",
+      "url": "https://open.spotify.com/track/6BLvkHBMNT1D4vr2XjvRAS"
     },
     {
       "added_at": "2026-05-13 13:03:42",
@@ -713,30 +761,6 @@
       "url": "https://open.spotify.com/track/2Zk5LZcAKwtEigIuQsZP7l"
     },
     {
-      "added_at": "2026-03-05 05:47:01",
-      "album": {
-        "name": "Chaatu Chaatu (From \"Purushaha\")",
-        "url": "https://open.spotify.com/album/2bEcxSjCwNKD52ivLCBXGZ"
-      },
-      "artists": [
-        {
-          "name": "Chinmayi",
-          "url": "https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ"
-        },
-        {
-          "name": "Shravan Bharadwaj",
-          "url": "https://open.spotify.com/artist/3T0lUjLJ29ApjVCaVxdLfx"
-        },
-        {
-          "name": "Anantha Sriram",
-          "url": "https://open.spotify.com/artist/5wE0KHIPasAq9oKW3PkDpq"
-        }
-      ],
-      "duration_ms": 231028,
-      "name": "Chaatu Chaatu (From \"Purushaha\")",
-      "url": "https://open.spotify.com/track/1ZhjHDI4F8PjUESWGC1eQi"
-    },
-    {
       "added_at": "2026-02-20 09:35:48",
       "album": {
         "name": "Hey Balwanth (Original Motion Picture Soundtrack)",
@@ -903,30 +927,6 @@
       "duration_ms": 242993,
       "name": "Okka Maate (From \"MRP - Neekentha Nakentha\")",
       "url": "https://open.spotify.com/track/1bJgJvuw1bYpWqUEL4HAN6"
-    },
-    {
-      "added_at": "2026-03-05 09:00:45",
-      "album": {
-        "name": "Zamana",
-        "url": "https://open.spotify.com/album/1R9XTL9EVZ8Czrga0gjtl1"
-      },
-      "artists": [
-        {
-          "name": "Kesava Kiran",
-          "url": "https://open.spotify.com/artist/1NTuNa3lOYaaDpIomWdr7B"
-        },
-        {
-          "name": "Sid Sriram",
-          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
-        },
-        {
-          "name": "Rehman",
-          "url": "https://open.spotify.com/artist/7bWwpkumEXBbHWcc0k1OI7"
-        }
-      ],
-      "duration_ms": 319285,
-      "name": "Cheliya Telusa Telusa",
-      "url": "https://open.spotify.com/track/6WuhxTAgKVgTWLLnd0DKjM"
     },
     {
       "added_at": "2026-03-30 07:22:34",

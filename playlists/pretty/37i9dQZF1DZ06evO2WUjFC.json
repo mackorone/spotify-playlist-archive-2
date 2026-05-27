@@ -1,12 +1,12 @@
 {
   "description": "This is Danny Felix. The essential tracks, all in one playlist.",
-  "num_followers": 1206,
+  "num_followers": 1208,
   "original_name": "This Is Danny Felix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahI/gAAAAAA7TZ+ogA1VzYNsBMs7N9Qg",
+  "snapshot_id": "ahORAAAAAABCDGpw3tw5y14RDq+VHJmC",
   "tracks": [
     {
       "added_at": null,
@@ -67,6 +67,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ma\u00f1ana Dios Dir\u00e1",
+        "url": "https://open.spotify.com/album/14N6OcoSlMHWsSI8Txg12H"
+      },
+      "artists": [
+        {
+          "name": "Ayudantes del Rancho",
+          "url": "https://open.spotify.com/artist/5Mps52nzzy3mXMFzzai1JM"
+        },
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        }
+      ],
+      "duration_ms": 129692,
+      "name": "Ma\u00f1ana Dios Dir\u00e1",
+      "url": "https://open.spotify.com/track/3qhRSwff1wlO9Ihd95tYP9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Chiclona",
         "url": "https://open.spotify.com/album/3kZt0wob9pCSTNDVcNt5Ue"
       },
@@ -111,26 +131,6 @@
       "duration_ms": 247229,
       "name": "30 Cartas - En Vivo",
       "url": "https://open.spotify.com/track/0GVN5krhhtWiyBmZaUZpD5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ma\u00f1ana Dios Dir\u00e1",
-        "url": "https://open.spotify.com/album/14N6OcoSlMHWsSI8Txg12H"
-      },
-      "artists": [
-        {
-          "name": "Ayudantes del Rancho",
-          "url": "https://open.spotify.com/artist/5Mps52nzzy3mXMFzzai1JM"
-        },
-        {
-          "name": "Danny Felix",
-          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
-        }
-      ],
-      "duration_ms": 129692,
-      "name": "Ma\u00f1ana Dios Dir\u00e1",
-      "url": "https://open.spotify.com/track/3qhRSwff1wlO9Ihd95tYP9"
     },
     {
       "added_at": null,
@@ -255,22 +255,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "LUCES ROJAS",
-        "url": "https://open.spotify.com/album/3CI0ljFulRHYlDHBv4vV7O"
+        "name": "Ya Estan Cantando los Gallos",
+        "url": "https://open.spotify.com/album/5FshjLV0Y5sQQBuIHeok8Z"
       },
       "artists": [
         {
-          "name": "Danny Felix",
-          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+          "name": "Los Alegres de la Sierra",
+          "url": "https://open.spotify.com/artist/4Yfe8uXcl5PYwknQ4OMZIP"
         },
         {
-          "name": "Oscar Ortiz",
-          "url": "https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei"
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
         }
       ],
-      "duration_ms": 193654,
-      "name": "Y SI YA EST\u00c1S CON OTRO",
-      "url": "https://open.spotify.com/track/0R7NoLfi7HQ8sveb5ucmVi"
+      "duration_ms": 239306,
+      "name": "Ya Estan Cantando los Gallos",
+      "url": "https://open.spotify.com/track/0phceqGwuJIBCbqveTdBsK"
     },
     {
       "added_at": null,
@@ -291,22 +291,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ya Estan Cantando los Gallos",
-        "url": "https://open.spotify.com/album/5FshjLV0Y5sQQBuIHeok8Z"
+        "name": "LUCES ROJAS",
+        "url": "https://open.spotify.com/album/3CI0ljFulRHYlDHBv4vV7O"
       },
       "artists": [
         {
-          "name": "Los Alegres de la Sierra",
-          "url": "https://open.spotify.com/artist/4Yfe8uXcl5PYwknQ4OMZIP"
-        },
-        {
           "name": "Danny Felix",
           "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        },
+        {
+          "name": "Oscar Ortiz",
+          "url": "https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei"
         }
       ],
-      "duration_ms": 239306,
-      "name": "Ya Estan Cantando los Gallos",
-      "url": "https://open.spotify.com/track/0phceqGwuJIBCbqveTdBsK"
+      "duration_ms": 193654,
+      "name": "Y SI YA EST\u00c1S CON OTRO",
+      "url": "https://open.spotify.com/track/0R7NoLfi7HQ8sveb5ucmVi"
     },
     {
       "added_at": null,
@@ -707,26 +707,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Y Ah\u00ed Vamos",
-        "url": "https://open.spotify.com/album/0X3P4KYmCXt1EQaQe6CXIu"
+        "name": "Y.T.L.S.V.",
+        "url": "https://open.spotify.com/album/3fsZw4FkYbALKGWSsHqOcq"
       },
       "artists": [
         {
-          "name": "Linea Activada",
-          "url": "https://open.spotify.com/artist/6SNv0DeLTRtRzaJ5c5uy4O"
-        },
-        {
           "name": "Danny Felix",
           "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
-        },
-        {
-          "name": "Los De Finix",
-          "url": "https://open.spotify.com/artist/5PQoAsNyQgPfDgncYxm8jz"
         }
       ],
-      "duration_ms": 155560,
-      "name": "Somos Hombres O Payasos",
-      "url": "https://open.spotify.com/track/6GWuEWQvVfTDIcJqbp4Jm8"
+      "duration_ms": 175586,
+      "name": "LOS CHISMES",
+      "url": "https://open.spotify.com/track/3VgC4wYJBteNN6wmNcssK8"
     },
     {
       "added_at": null,
@@ -763,18 +755,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Y.T.L.S.V.",
-        "url": "https://open.spotify.com/album/3fsZw4FkYbALKGWSsHqOcq"
+        "name": "Y Ah\u00ed Vamos",
+        "url": "https://open.spotify.com/album/0X3P4KYmCXt1EQaQe6CXIu"
       },
       "artists": [
         {
+          "name": "Linea Activada",
+          "url": "https://open.spotify.com/artist/6SNv0DeLTRtRzaJ5c5uy4O"
+        },
+        {
           "name": "Danny Felix",
           "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        },
+        {
+          "name": "Los De Finix",
+          "url": "https://open.spotify.com/artist/5PQoAsNyQgPfDgncYxm8jz"
         }
       ],
-      "duration_ms": 175586,
-      "name": "LOS CHISMES",
-      "url": "https://open.spotify.com/track/3VgC4wYJBteNN6wmNcssK8"
+      "duration_ms": 155560,
+      "name": "Somos Hombres O Payasos",
+      "url": "https://open.spotify.com/track/6GWuEWQvVfTDIcJqbp4Jm8"
     },
     {
       "added_at": null,
@@ -815,30 +815,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Velas Encendidas",
-        "url": "https://open.spotify.com/album/49E2apylgdz013orZ7Og0o"
-      },
-      "artists": [
-        {
-          "name": "Gerencia AGC",
-          "url": "https://open.spotify.com/artist/2noO9VOPzhyY4cUMFv6vYs"
-        },
-        {
-          "name": "Danny Felix",
-          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
-        },
-        {
-          "name": "Jul Diez",
-          "url": "https://open.spotify.com/artist/1Yu84HbHhGHeS7aorDMqA5"
-        }
-      ],
-      "duration_ms": 190042,
-      "name": "Velas Encendidas",
-      "url": "https://open.spotify.com/track/0znVaRjI56esCo5I9YZs23"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cupido Loco",
         "url": "https://open.spotify.com/album/4cGbwXhx9SVsZvvjnuaGQg"
       },
@@ -859,6 +835,30 @@
       "duration_ms": 133309,
       "name": "Cupido Loco",
       "url": "https://open.spotify.com/track/4a1J8YDX879u2KNNvXT7HW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Velas Encendidas",
+        "url": "https://open.spotify.com/album/49E2apylgdz013orZ7Og0o"
+      },
+      "artists": [
+        {
+          "name": "Gerencia AGC",
+          "url": "https://open.spotify.com/artist/2noO9VOPzhyY4cUMFv6vYs"
+        },
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        },
+        {
+          "name": "Jul Diez",
+          "url": "https://open.spotify.com/artist/1Yu84HbHhGHeS7aorDMqA5"
+        }
+      ],
+      "duration_ms": 190042,
+      "name": "Velas Encendidas",
+      "url": "https://open.spotify.com/track/0znVaRjI56esCo5I9YZs23"
     },
     {
       "added_at": null,
@@ -943,22 +943,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Andares De Alfredo",
-        "url": "https://open.spotify.com/album/1qBgmwNHtokGyv7normIXi"
+        "name": "Sue\u00f1os De La Calle (Vol. 1)",
+        "url": "https://open.spotify.com/album/0jw8F2KGYttGhV5duwgmyx"
       },
       "artists": [
+        {
+          "name": "Adriel Favela",
+          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
+        },
         {
           "name": "Danny Felix",
           "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
         },
         {
-          "name": "Los Migueles De Miguel Montoya",
-          "url": "https://open.spotify.com/artist/5bNWEPILoKYKWkPbnTKHns"
+          "name": "Octavio Cuadras",
+          "url": "https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp"
+        },
+        {
+          "name": "Giovanny Ayala",
+          "url": "https://open.spotify.com/artist/0OmIOUU8SceGFVrqrEm70j"
         }
       ],
-      "duration_ms": 181040,
-      "name": "Los Andares De Alfredo",
-      "url": "https://open.spotify.com/track/2PL2WfNavyQPrihZYO84B5"
+      "duration_ms": 157205,
+      "name": "Sue\u00f1os De La Calle: X Ella",
+      "url": "https://open.spotify.com/track/7pYuADOcpDjrzCRk7AKUQN"
     }
   ],
   "unique_name": "This Is Danny Felix",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZylNQMXNhNe.md) - [plain]
 
 > Os hits e novidades de artistas LGBTQIAPN+ estão aqui\. Foto: Vita
 
-[Spotify](https://open.spotify.com/user/spotify) - 248,319 likes - 75 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 248,311 likes - 75 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZylNQMXNhNe.md) - [plain]
 | 33 | [ESTAÇÃO DO PRAZER](https://open.spotify.com/track/63M7nKz9FoFp9xD1cBTIo5) | [MARTTE](https://open.spotify.com/artist/2B0FJId7rVXaLQTAo4T35d), [Heddy Beats](https://open.spotify.com/artist/5uH8pXSGKaASumKHZA8PCS), [WD](https://open.spotify.com/artist/0h1aO8j7tyQ45Ws8xnjcq5) | [ESTAÇÃO DO PRAZER](https://open.spotify.com/album/6AFXCGQQA2rwH76SjQnRQw) | 2:51 |
 | 34 | [ME ALIMENTA](https://open.spotify.com/track/4LPHHIENj6SYHDC92WnbrK) | [Lia Clark](https://open.spotify.com/artist/3bY8SmKlzUFImE0mt0zDjY), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2), [PZZS](https://open.spotify.com/artist/1h27s7BnaBATagMAgDOcDF), [TH4I](https://open.spotify.com/artist/7nknAoywwPTdaW0PGKys24) | [FENOMENAL](https://open.spotify.com/album/6O3whUEGrlfCFvxuWbeT9J) | 2:20 |
 | 35 | [NAMORAR PELADO](https://open.spotify.com/track/1YrwCp6p69CuwiY2JTIZ3e) | [Clementaum](https://open.spotify.com/artist/0uQbfh4oRRfWmp6EOGDLzH), [Lizz](https://open.spotify.com/artist/7DPxoBLEzgxzbhN0MAvyt6), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [NAMORAR PELADO](https://open.spotify.com/album/2FHyinjQkyFkP10QI3wfMQ) | 3:10 |
-| 36 | [quanto tempo tem o tempo?](https://open.spotify.com/track/0VR6QaLSjKMJ2GHN8TCPER) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [quanto tempo tem o tempo?](https://open.spotify.com/album/7b1YzXAPmBZQA7ygrtQueI) | 3:26 |
-| 37 | [como foi pra vc?](https://open.spotify.com/track/2ytDhsNAq1koytijhuTaO4) | [Totô de Babalong](https://open.spotify.com/artist/0zsgeSGGHL9FLxTBcfNd2x) | [como foi pra vc?](https://open.spotify.com/album/4LNAl7KuM6AOQkn6qFZmsJ) | 4:03 |
+| 36 | [como foi pra vc?](https://open.spotify.com/track/2ytDhsNAq1koytijhuTaO4) | [Totô de Babalong](https://open.spotify.com/artist/0zsgeSGGHL9FLxTBcfNd2x) | [como foi pra vc?](https://open.spotify.com/album/4LNAl7KuM6AOQkn6qFZmsJ) | 4:03 |
+| 37 | [quanto tempo tem o tempo?](https://open.spotify.com/track/0VR6QaLSjKMJ2GHN8TCPER) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [quanto tempo tem o tempo?](https://open.spotify.com/album/7b1YzXAPmBZQA7ygrtQueI) | 3:26 |
 | 38 | [Volta](https://open.spotify.com/track/2M5BehhFtfmxQrW7vBTK5G) | [Jáder](https://open.spotify.com/artist/4kZNQjkGZ4VVovVaFvE1xa), [Jaloo](https://open.spotify.com/artist/1rdXEdH8SRIqbuTbzQzd93) | [Volta](https://open.spotify.com/album/1qmxhHvBzdreXhN5vyKzMk) | 2:07 |
 | 39 | [DISK NAMORADA](https://open.spotify.com/track/5lVIdROp3ioxz7NiRvHTSr) | [Lia Clark](https://open.spotify.com/artist/3bY8SmKlzUFImE0mt0zDjY), [Mc Tha](https://open.spotify.com/artist/0fpg4Y7Q6ZRDSppLLt7G0n), [MARTTE](https://open.spotify.com/artist/2B0FJId7rVXaLQTAo4T35d) | [FENOMENAL](https://open.spotify.com/album/6O3whUEGrlfCFvxuWbeT9J) | 3:21 |
 | 40 | [MANIA \(oi amor, bom dia\)](https://open.spotify.com/track/1xjEboXOvVV1nkhdzueDfd) | [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [VADIAS IN LOVE](https://open.spotify.com/album/2EEAD31nCgaqX1jfjuXT2p) | 2:47 |

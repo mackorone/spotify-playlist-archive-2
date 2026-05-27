@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUvVRFYN2Rp.md) - [plain]
 
 > 쇼미더머니12의 전 시즌 발매곡을 들어보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,718 likes - 276 songs - 18 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,723 likes - 276 songs - 18 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

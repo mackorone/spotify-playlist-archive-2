@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 
 > El futuro ya está aquí, con nuestra nueva promoción\. Foto: Alcalá Norte.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,774 likes - 33 songs - 1 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,778 likes - 33 songs - 1 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,18 +23,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 | 13 | [TOTO DE LOCA](https://open.spotify.com/track/1BHscyZF6ZHx534gxTsjPe) | [Metrika](https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy) | [Neofita](https://open.spotify.com/album/711kCEcjlE8DucV3Z7b2fp) | 3:00 |
 | 14 | [El Mundo Nadie](https://open.spotify.com/track/2drLIPJ3A7yJgsUnbJc1UI) | [El Bobo de las 3000](https://open.spotify.com/artist/0Gqu6SH6up2gE5Hkj1Y4eB) | [El Mundo Nadie](https://open.spotify.com/album/2ebXa37CytU1fUkMucOhWN) | 3:13 |
 | 15 | [El Hombre Planeta](https://open.spotify.com/track/6lAFH3RZ8ksjDrT2tITV4d) | [Alcalá Norte](https://open.spotify.com/artist/7raVfIwIqNjj5OGBbBQNDR) | [El Hombre Planeta](https://open.spotify.com/album/75WJJbM7cHUVEKBE9ofNx8) | 3:52 |
-| 16 | [TROYA](https://open.spotify.com/track/5Lb0zm6G95Ckud7xi7CObX) | [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW), [Gara Durán](https://open.spotify.com/artist/1va3Zo4O6kJSYZ40c8D0Ag) | [TROYA](https://open.spotify.com/album/7f9VUTJqqXjMWJl8Sa8xQI) | 3:13 |
-| 17 | [El Mundo Delante De Ti](https://open.spotify.com/track/2Pk8xhJde8ueiR6OymzIov) | [Teo Planell](https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4), [TRISTÁN!](https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0) | [Demian](https://open.spotify.com/album/6FRwKu5JqXnUCQRcbfENI8) | 5:07 |
+| 16 | [El Mundo Delante De Ti](https://open.spotify.com/track/2Pk8xhJde8ueiR6OymzIov) | [Teo Planell](https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4), [TRISTÁN!](https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0) | [Demian](https://open.spotify.com/album/6FRwKu5JqXnUCQRcbfENI8) | 5:07 |
+| 17 | [TROYA](https://open.spotify.com/track/5Lb0zm6G95Ckud7xi7CObX) | [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW), [Gara Durán](https://open.spotify.com/artist/1va3Zo4O6kJSYZ40c8D0Ag) | [TROYA](https://open.spotify.com/album/7f9VUTJqqXjMWJl8Sa8xQI) | 3:13 |
 | 18 | [UNA BIMBO POR MADRID](https://open.spotify.com/track/6ccAIVGiwh5DsVMEdc14oS) | [Metrika](https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy), [D.Basto](https://open.spotify.com/artist/3Nn5v8JJyCp7CnNMXVXHlF) | [JANE DOE IN THE DREAM HOUSE](https://open.spotify.com/album/0cJtrnTkhdinnjnScKVLF2) | 2:15 |
 | 19 | [Tu no estás sola](https://open.spotify.com/track/5kJJUScriQ6h6k3yIQfCgR) | [El Bobo de las 3000](https://open.spotify.com/artist/0Gqu6SH6up2gE5Hkj1Y4eB), [Moncho Chavea](https://open.spotify.com/artist/7fL1kRUb9Zv1xxgOmsuUPn) | [Tu no estás sola](https://open.spotify.com/album/769d4Of1bYO5Pt3m1YLkpp) | 3:28 |
 | 20 | [La Calle Elfo](https://open.spotify.com/track/0lxSWjuNF9jLkL41wgpTZy) | [Alcalá Norte](https://open.spotify.com/artist/7raVfIwIqNjj5OGBbBQNDR) | [Alcalá Norte](https://open.spotify.com/album/5WYizmVWxmqAlfL4FXmqKR) | 3:30 |
-| 21 | [Kryptonita](https://open.spotify.com/track/18zzzdkP3Ns1JNR0764nNY) | [Gara Durán](https://open.spotify.com/artist/1va3Zo4O6kJSYZ40c8D0Ag) | [ALKIMIA](https://open.spotify.com/album/4no0LJWNTlcykcQPWMKDtd) | 2:44 |
-| 22 | [Beatrice](https://open.spotify.com/track/60soEK2W8RM0Yo4mg9Arbm) | [Teo Planell](https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4) | [Beatrice](https://open.spotify.com/album/1eLk3Z1aBVgPaIMH3JhqDr) | 2:18 |
+| 21 | [Beatrice](https://open.spotify.com/track/60soEK2W8RM0Yo4mg9Arbm) | [Teo Planell](https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4) | [Beatrice](https://open.spotify.com/album/1eLk3Z1aBVgPaIMH3JhqDr) | 2:18 |
+| 22 | [Kryptonita](https://open.spotify.com/track/18zzzdkP3Ns1JNR0764nNY) | [Gara Durán](https://open.spotify.com/artist/1va3Zo4O6kJSYZ40c8D0Ag) | [ALKIMIA](https://open.spotify.com/album/4no0LJWNTlcykcQPWMKDtd) | 2:44 |
 | 23 | [TÚ Y YO](https://open.spotify.com/track/28DaYAyVnQwCIszMqi5FCV) | [Metrika](https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy), [Yung Beef](https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch), [D.Basto](https://open.spotify.com/artist/3Nn5v8JJyCp7CnNMXVXHlF) | [TÚ Y YO](https://open.spotify.com/album/0kh1590sccSWKaAD5KeQcm) | 3:20 |
 | 24 | [Esto del Amor Nada](https://open.spotify.com/track/2BvsXvXXWMxnCYNG8CwgTP) | [El Bobo de las 3000](https://open.spotify.com/artist/0Gqu6SH6up2gE5Hkj1Y4eB) | [Esto del Amor Nada](https://open.spotify.com/album/4eTy6HIxG2V7hE70TgVjTh) | 3:08 |
 | 25 | [La Sangre del Pobre](https://open.spotify.com/track/7K7Qu4nsIF5YN14M4zElp2) | [Alcalá Norte](https://open.spotify.com/artist/7raVfIwIqNjj5OGBbBQNDR) | [Alcalá Norte](https://open.spotify.com/album/5WYizmVWxmqAlfL4FXmqKR) | 3:18 |
-| 26 | [Robot](https://open.spotify.com/track/6PlRV8KcMYSuS4p3tkSlow) | [Gara Durán](https://open.spotify.com/artist/1va3Zo4O6kJSYZ40c8D0Ag) | [ALKIMIA](https://open.spotify.com/album/4no0LJWNTlcykcQPWMKDtd) | 2:45 |
-| 27 | [Abraxas!](https://open.spotify.com/track/1nqMR425oUyX80sqK0oBZs) | [Teo Planell](https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4) | [Abraxas!](https://open.spotify.com/album/4N4sRpZtxchJKh9X7M203i) | 4:09 |
+| 26 | [Abraxas!](https://open.spotify.com/track/1nqMR425oUyX80sqK0oBZs) | [Teo Planell](https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4) | [Abraxas!](https://open.spotify.com/album/4N4sRpZtxchJKh9X7M203i) | 4:09 |
+| 27 | [Robot](https://open.spotify.com/track/6PlRV8KcMYSuS4p3tkSlow) | [Gara Durán](https://open.spotify.com/artist/1va3Zo4O6kJSYZ40c8D0Ag) | [ALKIMIA](https://open.spotify.com/album/4no0LJWNTlcykcQPWMKDtd) | 2:45 |
 | 28 | [CONEJITA PLAYBOY](https://open.spotify.com/track/7i1FtYA6fHykC4CiHY1Ift) | [Metrika](https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy), [Came Beats](https://open.spotify.com/artist/6Q3ske8DX705YojfAgidez) | [JANE DOE IN THE DREAM HOUSE](https://open.spotify.com/album/0cJtrnTkhdinnjnScKVLF2) | 2:18 |
 | 29 | [La Ruleta](https://open.spotify.com/track/6Bmtn6pCBjK8jea8HoouQg) | [El Bobo de las 3000](https://open.spotify.com/artist/0Gqu6SH6up2gE5Hkj1Y4eB) | [La Ruleta](https://open.spotify.com/album/1EOtjk5NtQAAFWayhbCB2a) | 3:44 |
 | 30 | [No Llores, Dr G](https://open.spotify.com/track/3dm8ExUF8GZa6EXN7kKAZR) | [Alcalá Norte](https://open.spotify.com/artist/7raVfIwIqNjj5OGBbBQNDR) | [Alcalá Norte](https://open.spotify.com/album/5WYizmVWxmqAlfL4FXmqKR) | 3:24 |

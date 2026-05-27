@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-[pma4real](https://open.spotify.com/user/jasonwaroff) - 869 likes - 61 songs - 3 hr 17 min
+[pma4real](https://open.spotify.com/user/jasonwaroff) - 880 likes - 67 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,5 +69,11 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 | 59 | [Vibin'](https://open.spotify.com/track/5Vjl0WmzrCICtWAXquSTBq) | [Tyler J\. Thierry](https://open.spotify.com/artist/05GcYwcTVPFZdSZwiYNlS4), [Reynakah](https://open.spotify.com/artist/5YnNwdL9oVehL2bWoBnDek), [liam vee](https://open.spotify.com/artist/77zlFkyzNmuNZ5CXGfkVLw) | [Oh You Want Me Now](https://open.spotify.com/album/0wyyw9zdgJpFEIbCTLQP59) | 4:14 |
 | 60 | [Stuck](https://open.spotify.com/track/0VW5b6h9FUJSlYAqiPo6iB) | [Moneyville Dot](https://open.spotify.com/artist/6i8H73dU6MOZwkWde7OR09), [Verrion](https://open.spotify.com/artist/5qOOudA17iFKYk1qeLMpih) | [Stuck](https://open.spotify.com/album/4vzdUqBAcCskW3ACr0IKO0) | 2:59 |
 | 61 | [Invisible](https://open.spotify.com/track/4wdDAHGHSVvjvgFUefA0He) | [Melany Cubero](https://open.spotify.com/artist/4OrIEJHh24oAbE1evJRR7c) | [Invisible](https://open.spotify.com/album/26CgmwfJA3HjUE9A8SBZ47) | 2:05 |
+| 62 | [I Loved Her](https://open.spotify.com/track/1fEMJGdUuxd4UzKoH9RbBS) | [Corey Drumz of I.K.E.](https://open.spotify.com/artist/5abVgGaUWz6b9H7VDkdQDp), [Lee Boogz](https://open.spotify.com/artist/2guhQF0tAP6qNI8qDw6HkI) | [What Made Me](https://open.spotify.com/album/2Az9FZds2Cgj0e2m1ARzxq) | 3:29 |
+| 63 | [El Camino](https://open.spotify.com/track/45OF12sFrMP8pnK3UCrhhl) | [Superstar Nomads](https://open.spotify.com/artist/1EoRqKFEnXxQIb815UlRtJ) | [El Camino](https://open.spotify.com/album/0UNEhnKevuAa8fAfUcPN1F) | 4:30 |
+| 64 | [Soul'd Off](https://open.spotify.com/track/5yDps6fyhd80oH6xFhZioi) | [Corey Drumz](https://open.spotify.com/artist/1FahdwAmCrNJVrH1rHGlML) | [Soul'd Off](https://open.spotify.com/album/3UZUOsT9cTRr5jxbbf6Wfo) | 3:56 |
+| 65 | [Take What Is Left](https://open.spotify.com/track/3NnzCY51DZrwFBNjcUozBP) | [Edgeline](https://open.spotify.com/artist/6rzkpsF9nG5ScJFYTGTUOB) | [Leave](https://open.spotify.com/album/3OgnRzvhhrrcaci5Qapuqr) | 4:19 |
+| 66 | [Retazos](https://open.spotify.com/track/2W6RLkNVNJP9gNC7KLbN6a) | [RAN](https://open.spotify.com/artist/4tRHpUUjRHeWreweQxjMXa) | [Retazos](https://open.spotify.com/album/5WC2vaK0yh1TVUDOaGdJay) | 3:06 |
+| 67 | [Follow](https://open.spotify.com/track/3Hld2nGje5pWk66c3GAWOj) | [Vance](https://open.spotify.com/artist/11LpEjg6drv4G1kBItUSn6) | [Follow](https://open.spotify.com/album/6SvROxW4ZNQRkhesEl8lI9) | 3:58 |
 
-Snapshot ID: `AAAD185Tajsmc4q9oyKbpd/Ebulrd+fw`
+Snapshot ID: `AAAD3e0A7mF3uzGs78cRGDqMNoUGdxmk`

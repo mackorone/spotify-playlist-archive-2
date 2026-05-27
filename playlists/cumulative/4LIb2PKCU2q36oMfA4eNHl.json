@@ -1659,6 +1659,24 @@
     },
     {
       "album": {
+        "name": "Daylight",
+        "url": "https://open.spotify.com/album/0NqPoLpazF1dAPKYXDYxK3"
+      },
+      "artists": [
+        {
+          "name": "Lara Nord",
+          "url": "https://open.spotify.com/artist/06rmdIJ3YWFKLfrfqbXL31"
+        }
+      ],
+      "date_added": "2026-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178474,
+      "name": "Daylight",
+      "url": "https://open.spotify.com/track/1FvnTUISKLKAOdWcpzB5FH"
+    },
+    {
+      "album": {
         "name": "earlyyears reimagined (deluxe)",
         "url": "https://open.spotify.com/album/0A9Yxob8MfFqhsUg6Ejk4a"
       },
@@ -2008,7 +2026,7 @@
       ],
       "date_added": "2025-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-27",
       "duration_ms": 258626,
       "name": "Erase (An Apparition)",
       "url": "https://open.spotify.com/track/3YubJlJNgsLhggBLTUdtZx"
@@ -2544,7 +2562,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-27",
       "duration_ms": 307543,
       "name": "Ghost - Luvian Remix",
       "url": "https://open.spotify.com/track/5vngoSfktjNlKKcxincROT"
@@ -8244,6 +8262,28 @@
       "duration_ms": 198628,
       "name": "Yuta's Curse",
       "url": "https://open.spotify.com/track/5XvQ06RzxVYNE2CcHlWW25"
+    },
+    {
+      "album": {
+        "name": "\u00c9nouement (Electronic)",
+        "url": "https://open.spotify.com/album/30wWjsUMHMMwHNKCgl9X1R"
+      },
+      "artists": [
+        {
+          "name": "Iskarelyn",
+          "url": "https://open.spotify.com/artist/6EYhZnGfuQEGRjxjfOx9Hd"
+        },
+        {
+          "name": "Raffaele Grimaldi",
+          "url": "https://open.spotify.com/artist/4OCjOBEzP8yTUPh6puX8ly"
+        }
+      ],
+      "date_added": "2026-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174915,
+      "name": "\u00c9nouement - Electronic",
+      "url": "https://open.spotify.com/track/7gpVvlNPL6zCpRFj5uniwt"
     }
   ],
   "url": "https://open.spotify.com/playlist/4LIb2PKCU2q36oMfA4eNHl"

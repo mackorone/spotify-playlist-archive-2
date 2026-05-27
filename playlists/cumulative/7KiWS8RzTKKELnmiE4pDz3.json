@@ -16921,6 +16921,28 @@
     },
     {
       "album": {
+        "name": "Hell On Earth",
+        "url": "https://open.spotify.com/album/6BWf3fxsgSDhES4Cm4oyy5"
+      },
+      "artists": [
+        {
+          "name": "Mobb Deep",
+          "url": "https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap"
+        },
+        {
+          "name": "Lex Diamonds",
+          "url": "https://open.spotify.com/artist/74OjFwZ9aNEvkAoZbTGpRz"
+        }
+      ],
+      "date_added": "2026-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267306,
+      "name": "Nighttime Vultures (feat. Lex Diamonds)",
+      "url": "https://open.spotify.com/track/4rNgi3S72MkzACBka4GBuP"
+    },
+    {
+      "album": {
         "name": "8 ALBUM",
         "url": "https://open.spotify.com/album/3CbN0bwf9B6SwqLlLOtrri"
       },

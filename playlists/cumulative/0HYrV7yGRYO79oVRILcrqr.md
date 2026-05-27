@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-523 songs - 1 day 8 hr 32 min
+525 songs - 1 day 8 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -243,6 +243,7 @@
 | [Just Give Me A Call](https://open.spotify.com/track/2aWedzFK5OhL3crTShtzg6) | [Upwood Avenue](https://open.spotify.com/artist/6vxgfCzu5GGJWOfARnonrI) | [Just Give Me A Call](https://open.spotify.com/album/2XOfRnvKfMxNV9lHiA1XCy) | 5:20 | 2025-09-28 | 2025-12-17 |
 | [Just Me and This Trans Am](https://open.spotify.com/track/17CDsz0QLtgXzdpdOZVBCT) | [The Blacktop Bandits](https://open.spotify.com/artist/4by5whOHavPyqKYPSbF0zK) | [Six Days and A Single Dime](https://open.spotify.com/album/4310R5du1lBvnARr5VcIGX) | 3:35 | 2026-04-26 | 2026-05-26 |
 | [Keep Doin' What You're Doin'](https://open.spotify.com/track/59TXNX5hE3HXnGMmOhGvLu) | [Bruce Sudano](https://open.spotify.com/artist/603Q8uOwTjPYqTTBfwF8pZ) | [Spirals, Vol\. 2: Time & the Space in Between](https://open.spotify.com/album/09HpVKjfQZjSAlLYQiETFI) | 3:58 | 2025-10-31 | 2025-12-17 |
+| [Keeping Pace](https://open.spotify.com/track/35YrQi7mkqLcsbkOpGS6gn) | [Randy Ellefson](https://open.spotify.com/artist/6x4QyTflA6R6xOvtXHsyNI) | [Now Weaponized!](https://open.spotify.com/album/3S79mUMMfO1orW6ubEsTY0) | 5:41 | 2026-05-26 |  |
 | [Kick'Em In The Head](https://open.spotify.com/track/0EsXtODFrB6AgEC5ZS9qvZ) | [Rat Silo](https://open.spotify.com/artist/0FOHbrm4R5uiYlGzyetiI7) | [Kick'Em In The Head](https://open.spotify.com/album/7nk2GdYm79ADyoqJDruRT5) | 3:57 | 2026-03-07 | 2026-05-26 |
 | [Kings & Queens](https://open.spotify.com/track/3F5WjDztBiHJFCyiomxW1m) | [EsKIL](https://open.spotify.com/artist/2Gcp9We5VZX6XunRvAnXr0), [Starlunge](https://open.spotify.com/artist/3KhGmNhB6fadHcYqPcT2to) | [Kings & Queens](https://open.spotify.com/album/1Km78h7TfdKLZO6FLHAzjQ) | 2:59 | 2026-02-24 | 2026-03-18 |
 | [Kisses](https://open.spotify.com/track/7yekcYsbROJemwVjh5eiDR) | [Mr\. Rockstar](https://open.spotify.com/artist/61mgfJoftSgMGoXk8QxIID) | [Kisses](https://open.spotify.com/album/1t5GteEQQwjeFQxCS6TG2M) | 3:40 | 2025-11-10 | 2025-12-17 |
@@ -313,6 +314,7 @@
 | [Nelson's Massive Lions](https://open.spotify.com/track/3aFRnt8iSEhkH5tv7eVamp) | [Marcus O'Neill](https://open.spotify.com/artist/0woLT8rQMi0nFQ4iQHiS8J) | [Bonus Extra Et Cetera](https://open.spotify.com/album/1e7udVqoW8SvqajknsrJ03) | 2:50 | 2025-10-18 | 2025-11-28 |
 | [Neon Death](https://open.spotify.com/track/5dNgOQlPImxEsVOFGYbcTf) | [La Taiga](https://open.spotify.com/artist/3y78WeFsEhP8lZRjdhmpPz) | [Neon Death](https://open.spotify.com/album/7bu95i9T6uzU0Aj9sZDEew) | 3:14 | 2025-12-03 |  |
 | [Nerves of Steel](https://open.spotify.com/track/21heBobd16ggH4cfDKll9A) | [StainTown](https://open.spotify.com/artist/3F32cBk6qpCF5882GQck5o) | [Nerves of Steel](https://open.spotify.com/album/7BoC4jIW6k1Dfjku8Lm17j) | 3:16 | 2026-02-24 | 2026-03-18 |
+| [Night is Young](https://open.spotify.com/track/71dtvsaPOTCi4RkQzmIKlE) | [Thomas Duxbury](https://open.spotify.com/artist/6ECILQNZ22Kc1VCNpX4Cct) | [Night is Young](https://open.spotify.com/album/4ejuRVnwvqW6bng1O811IL) | 2:52 | 2026-05-26 |  |
 | [Ninja Rabbit Ate My Weed](https://open.spotify.com/track/54lJlTm5aYdnVY2vASLXEG) | [Glorification](https://open.spotify.com/artist/5VAtjGCSSccAG7AoeyxM5I) | [Two](https://open.spotify.com/album/3J6Ho4gRU9xi0Hz3Zuy76D) | 3:31 | 2025-11-30 | 2025-12-17 |
 | [NO](https://open.spotify.com/track/0EVKsHWoodqSaburPbBUzJ) | [MONOBERMUDO](https://open.spotify.com/artist/3LMo7RbDhqPnuLwtfGQihv) | [NO](https://open.spotify.com/album/19v34ghKtt5qmrLZySuq4K) | 1:59 | 2026-01-13 | 2026-03-18 |
 | [No Durará Mañana](https://open.spotify.com/track/7hgsM0WZJD0Isjx6dNSVRE) | [Almur](https://open.spotify.com/artist/74i8Ww4vUGlxxRlaMzkqQV) | [No Durará Mañana](https://open.spotify.com/album/0wr5e08FOEp85lFyIRBW0B) | 3:44 | 2026-03-05 | 2026-03-18 |

@@ -4,7 +4,7 @@
 
 > This is Muddy Waters\. The essential tracks, all in one playlist.
 
-152 songs - 10 hr 12 min
+153 songs - 10 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Caledonia](https://open.spotify.com/track/3JX3Tu4BFNZFVFZjF4LiLg) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R), [Johnny Winter](https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO), [James Cotton](https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k) | [Breakin' It Up, Breakin' It Down](https://open.spotify.com/album/3UvsmcrWPiyiLlm4Bp6Xbl) | 6:57 | 2022-08-06 | 2024-04-29 |
 | [Can't Get No Grindin' \(What's The Matter With The Meal\)](https://open.spotify.com/track/3AKs9gBENThKxpSPAGEWgA) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [Can't Get No Grindin'](https://open.spotify.com/album/4lpsTbPd0zSyBewg5cPfwZ) | 2:46 | 2023-02-10 | 2025-08-18 |
 | [Champagne & Reefer](https://open.spotify.com/track/7kqGCWwUTnwisFFz5d37gE) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [King Of The Electric Blues](https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ) | 4:35 | 2022-08-05 |  |
+| [Close to You](https://open.spotify.com/track/62qspfndVN2mso1u2sE06b) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [IN THE DELTA](https://open.spotify.com/album/6qNqLN4k9bJPFfrw9L0EcG) | 3:05 | 2026-05-27 |  |
 | [Close To You](https://open.spotify.com/track/7bxvSVLeUMtCEi3BdscXUw) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [The Chess Box](https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB) | 3:05 | 2022-08-14 | 2024-07-11 |
 | [Cold Weather Blues](https://open.spotify.com/track/4Ax8ZuIj2ceXlLJEvgBrcj) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [Folk Singer \(Expanded Edition\)](https://open.spotify.com/album/4bi0CKFKviadIaSlkakfN7) | 4:43 | 2023-01-06 | 2026-01-15 |
 | [Corrina, Corrina \- Live](https://open.spotify.com/track/7IlIfuGH0J5vhhNr4oCM1u) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [Muddy "Mississippi" Waters Live \(Legacy Edition\)](https://open.spotify.com/album/7Dy6z1nWHNIF2IKCARP9QN) | 2:48 | 2022-08-05 | 2023-04-10 |
@@ -82,7 +83,7 @@
 | [Kansas City \- Live](https://open.spotify.com/track/1qCQ8n7quH6mWOhnAJm08E) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [Muddy "Mississippi" Waters Live \(Legacy Edition\)](https://open.spotify.com/album/7Dy6z1nWHNIF2IKCARP9QN) | 9:29 | 2022-08-05 | 2024-07-21 |
 | [Key To The Highway](https://open.spotify.com/track/4GtWHmkHwW32qmmhmhCKwn) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [The London Muddy Waters Sessions](https://open.spotify.com/album/3TkwYJJO9Q6aE4pNcEF1NC) | 2:27 | 2022-08-09 | 2024-12-29 |
 | [Let's Spend The Night Together](https://open.spotify.com/track/493ZYZqnZZR6rKBOwjw3R2) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [Electric Mud](https://open.spotify.com/album/7cDLEVoIhkfKqaiKAPp7vL) | 3:09 | 2022-08-05 | 2024-07-24 |
-| [Lonesome Road Blues](https://open.spotify.com/track/1lp1zm1MSYzwt3vAPhdIMQ) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [Muddy Waters Sings Big Bill Broonzy](https://open.spotify.com/album/2ULAVn0TXR0ISBy9v8iCrU) | 3:03 | 2022-08-05 |  |
+| [Lonesome Road Blues](https://open.spotify.com/track/1lp1zm1MSYzwt3vAPhdIMQ) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [Muddy Waters Sings Big Bill Broonzy](https://open.spotify.com/album/2ULAVn0TXR0ISBy9v8iCrU) | 3:03 | 2022-08-05 | 2026-05-27 |
 | [Long Distance](https://open.spotify.com/track/6dezNfNYhgD22o5fs5ATZp) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [Folk Singer \(Expanded Edition\)](https://open.spotify.com/album/4bi0CKFKviadIaSlkakfN7) | 3:33 | 2022-08-05 | 2024-01-20 |
 | [Long Distance Call](https://open.spotify.com/track/1puGCG7BtUHdN3G3R4YdTw) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq), [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R), [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [The Super Super Blues Band](https://open.spotify.com/album/3hYDvg91x5TuC0G7m7Ubyc) | 9:14 | 2022-08-05 | 2025-10-26 |
 | [Long Distance Call](https://open.spotify.com/track/21SJZoN35oJCD2MS6PRgvd) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [The Chess Box](https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB) | 2:41 | 2024-01-19 | 2024-10-17 |

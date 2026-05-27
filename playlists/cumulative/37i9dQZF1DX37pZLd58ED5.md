@@ -2,9 +2,9 @@
 
 ### [Mezzanotte Chill Rap](https://open.spotify.com/playlist/37i9dQZF1DX37pZLd58ED5)
 
-> Solo beat e rime avvolgenti\. Cover: Lazza
+> Solo beat e rime avvolgenti\. Cover: Tony Boy
 
-366 songs - 18 hr 45 min
+367 songs - 18 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [FALENA \(feat\. Franco126, Coez & Ketama126\)](https://open.spotify.com/track/1FEAEKjVQLZuSeb0omUxep) | [Sick Luke](https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb), [Franco126](https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc), [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4), [Ketama126](https://open.spotify.com/artist/0pSx3asj3usz5PRt8COo0E) | [X2](https://open.spotify.com/album/6ZVOpNfX2JMfAFDqEfmyQ5) | 3:35 | 2022-10-25 | 2024-04-19 |
 | [FALENA \(feat\. Franco126, Coez & Ketama126\)](https://open.spotify.com/track/3jREEhgXvvwzyCW1iGWP38) | [Sick Luke](https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb), [Franco126](https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc), [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4), [Ketama126](https://open.spotify.com/artist/0pSx3asj3usz5PRt8COo0E) | [X2](https://open.spotify.com/album/56BOavUTudaNHQWLLb9IVJ) | 3:35 | 2022-04-28 | 2025-10-04 |
 | [Famiglia \(feat\. Papa V\)](https://open.spotify.com/track/5FsjUNGKnTzbfT0XOe26Nt) | [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB), [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU), [Fritu](https://open.spotify.com/artist/4PYZsCk6AeRr8VjtJ7z1RF) | [Nerissima](https://open.spotify.com/album/4aVP5OanDJz1dXGV1Y0TER) | 2:56 | 2026-04-30 |  |
+| [Fenicottero Rosa](https://open.spotify.com/track/04Qd8ESfSgKob7Txyy9URe) | [emanuelino](https://open.spotify.com/artist/3XvGNKkWf5TQoR1xcfm5TU), [SHUNE](https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr) | [Fenicottero Rosa](https://open.spotify.com/album/0U9bke0LcFrC3HybNmGZzm) | 2:16 | 2026-05-26 |  |
 | [FENTANYL feat\. Sfera Ebbasta \(Opera\)](https://open.spotify.com/track/5W7ztEbkvPndldZOZK8PYe) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [LOCURA \(Opera\)](https://open.spotify.com/album/71zp4v15vupqfXHXYC9E43) | 3:09 | 2025-06-06 | 2026-05-09 |
 | [Ferite \(feat\. Vale Pain\)](https://open.spotify.com/track/6VE7Ht4DNWEfiWJVvp5hBt) | [Disme](https://open.spotify.com/artist/0CXnO9kUawdDjzToSqCC3p), [Vale Pain](https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08) | [Ferite \(feat\. Vale Pain\)](https://open.spotify.com/album/369X8bN7JVS7jTraMgD6n7) | 2:54 | 2026-02-05 | 2026-03-13 |
 | [FERRARI BIANCA \(feat\. Astro, Tony Boy\)](https://open.spotify.com/track/7bwTvJZlF36cnyIevQf6OY) | [Sadturs](https://open.spotify.com/artist/4SRpFyqwIrO0xMX39HJnaU), [KIID](https://open.spotify.com/artist/5oKFHzk5mSd5uJpod1D8aB), [Astro](https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq), [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [NO REGULAR MUSIC 2](https://open.spotify.com/album/1P6Pfl8VSFeu4hJjhp0xB1) | 2:38 | 2025-07-24 | 2025-09-05 |

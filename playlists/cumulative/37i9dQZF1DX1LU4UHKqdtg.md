@@ -4,7 +4,7 @@
 
 > Girls groups/solo artists shining beyond borders\. グローバルに活躍するガールズグループ/ソロアーティストを一つのプレイリストに。Cover: LE SSERAFIM
 
-1,739 songs - 3 day 19 hr 40 min
+1,740 songs - 3 day 19 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1035,6 +1035,7 @@
 | [on the street \(with J\. Cole\)](https://open.spotify.com/track/5wxYxygyHpbgv0EXZuqb9V) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [on the street \(with J\. Cole\)](https://open.spotify.com/album/70xdtgH5XuYTqBNdNbUwGO) | 3:34 | 2023-03-03 | 2023-05-17 |
 | [One and Only](https://open.spotify.com/track/7dDY45rR3idfeCypFDrk0G) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [One and Only](https://open.spotify.com/album/5LGe47qZJTNwtM8gUfT7Mx) | 2:46 | 2023-07-11 | 2023-09-22 |
 | [One and Only \- PIKA PIKA Remix](https://open.spotify.com/track/45N7MSKZFAeYTdGxzUai69) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9), [Won Jong Lee](https://open.spotify.com/artist/0VNPOgaslwkZTwcnmoFrFT) | [One and Only \- PIKA PIKA Remix](https://open.spotify.com/album/2ZoxLRc9WtPBjYmlEeqsCm) | 2:43 | 2024-08-23 | 2024-09-20 |
+| [One day](https://open.spotify.com/track/7sq0ojCOSZlWFbSPeAMwCh) | [H//PE Princess](https://open.spotify.com/artist/7LCBBRTytlwiWnA2Ugr3s1) | [17.7](https://open.spotify.com/album/2RBkLbawM5Zs0hKZLBhSsH) | 3:09 | 2026-05-26 |  |
 | [One Heart](https://open.spotify.com/track/6xw1r7HNaJZuseZdrjNf1i) | [J\-JUN](https://open.spotify.com/artist/2x4LoC3la2S3aUHxaP8w1T), [中島美嘉](https://open.spotify.com/artist/1hXIFV17zZ2Q5X2GWIAIwF) | [One Heart](https://open.spotify.com/album/5Y9VvyQdmZmAgfUiJ1WOA2) | 4:20 | 2022-09-20 | 2022-10-05 |
 | [One In A Billion](https://open.spotify.com/track/66wQlkJP6zHNOzRkyo5yZS) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [One In A Billion](https://open.spotify.com/album/19Jm8Jk0zQYs6zMaxhYJFd) | 3:16 | 2022-09-06 | 2022-12-22 |
 | [One Kiss](https://open.spotify.com/track/2B0fIX58M69Y7kuPG86l7g) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [RIIZING](https://open.spotify.com/album/7JidrvBZXM4otdFhbf7OZ1) | 3:32 | 2024-05-01 | 2024-07-31 |
@@ -1352,7 +1353,7 @@
 | [Sticker \- Will Not Fear Remix](https://open.spotify.com/track/1X4hW7NBxflvlNPlJnN6vQ) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH), [Will Not Fear](https://open.spotify.com/artist/3zQf6Ogadb67LzdBTHaZ0N) | [iScreaM Vol.13 : Sticker Remixes](https://open.spotify.com/album/0p4f9Nw20DLlu1cWzrToB8) | 3:24 | 2022-01-03 | 2022-02-09 |
 | [Sticky](https://open.spotify.com/track/4e1aewX6ATPcdfQIqr7gqO) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [Sticky](https://open.spotify.com/album/3p68B7ZhETVmNbOov8JcF5) | 2:37 | 2024-07-01 | 2025-04-23 |
 | [Still Life](https://open.spotify.com/track/4ba6mmxFtg8kRyqQ4PaAi4) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Still Life](https://open.spotify.com/album/0StZAtafrYrNtHULz4n3iS) | 3:08 | 2022-04-05 | 2022-07-01 |
-| [Stolen](https://open.spotify.com/track/1YudzC0dQ6SJo0WgHA8kal) | [H//PE Princess](https://open.spotify.com/artist/7LCBBRTytlwiWnA2Ugr3s1) | [Stolen](https://open.spotify.com/album/5GRlBvHo9Rz00EWzS1o1Vu) | 2:44 | 2026-04-28 |  |
+| [Stolen](https://open.spotify.com/track/1YudzC0dQ6SJo0WgHA8kal) | [H//PE Princess](https://open.spotify.com/artist/7LCBBRTytlwiWnA2Ugr3s1) | [Stolen](https://open.spotify.com/album/5GRlBvHo9Rz00EWzS1o1Vu) | 2:44 | 2026-04-28 | 2026-05-27 |
 | [Straight Line](https://open.spotify.com/track/1HBYsYVdX49Gi1lrmqmk63) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [Straight Line](https://open.spotify.com/album/58nZRpRVzO9INTkg5Ystph) | 2:45 | 2024-04-23 | 2024-07-24 |
 | [STRANGER](https://open.spotify.com/track/3SifPlW12FRs8OQP2VkXSi) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [STRANGER](https://open.spotify.com/album/5QUzffclUFjjFFZ1HmaB6X) | 2:46 | 2023-10-17 | 2023-12-22 |
 | [Stranger](https://open.spotify.com/track/3lWNov4VlzcBZPLRgYFcHZ) | [Weeekly](https://open.spotify.com/artist/73B9bjqS2Z5KLXNGqXf64m) | [Stranger](https://open.spotify.com/album/1XOdt7of67I6i0m3UNHaEF) | 2:49 | 2024-01-25 | 2024-03-06 |

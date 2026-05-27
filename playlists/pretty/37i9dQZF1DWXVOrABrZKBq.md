@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXVOrABrZKBq.md) - [plain]
 
 > Les nouveautés rap franco sans frontières\. Photo: Souldia, Blynk
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,682 likes - 97 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,693 likes - 97 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

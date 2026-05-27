@@ -4,7 +4,7 @@
 
 > 
 
-1,463 songs - 3 day 6 hr 5 min
+1,464 songs - 3 day 6 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -860,6 +860,7 @@
 | [Ngiculela\-Es Una Historia\-I Am Singing](https://open.spotify.com/track/49jWPMEvoGPNRYSd4vEXSo) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Songs In The Key Of Life](https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0) | 3:48 | 2025-04-14 | 2025-05-21 |
 | [Niggaz 4 Life](https://open.spotify.com/track/0y0IhcBx3C1oEMtL4oFkBp) | [N.W.A.](https://open.spotify.com/artist/4EnEZVjo3w1cwcQYePccay) | [Efil4zaggin](https://open.spotify.com/album/3OSID3YChn6nOjfUAlSXQZ) | 4:58 | 2025-11-20 | 2026-03-08 |
 | [NIGHTCARE](https://open.spotify.com/track/6M3E2Zamd9yPqklfHqye8Y) | [K Suave](https://open.spotify.com/artist/04a6mc5vUtj2pMzteToeH7) | [Hit Me When You Land](https://open.spotify.com/album/5AZFefxiP690Wn5RapyUQ3) | 2:22 | 2023-03-11 | 2023-12-14 |
+| [Nighttime Vultures \(feat\. Lex Diamonds\)](https://open.spotify.com/track/4rNgi3S72MkzACBka4GBuP) | [Mobb Deep](https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap), [Lex Diamonds](https://open.spotify.com/artist/74OjFwZ9aNEvkAoZbTGpRz) | [Hell On Earth](https://open.spotify.com/album/6BWf3fxsgSDhES4Cm4oyy5) | 4:27 | 2026-05-26 |  |
 | [NIMBUS](https://open.spotify.com/track/57Ncx9h7EhfEpdg5RCSkui) | [Thouxanbanfauni](https://open.spotify.com/artist/1O8X4zxUh4AdAPFttOTlLr) | [8 ALBUM](https://open.spotify.com/album/3CbN0bwf9B6SwqLlLOtrri) | 3:05 | 2023-01-07 | 2023-04-24 |
 | [Nine Nine](https://open.spotify.com/track/6dIcZXPPB4shRDs0Wp7LGG) | [cwthegoat](https://open.spotify.com/artist/65AQe4TnExHTN7oLAuIMQu) | [Nine Nine](https://open.spotify.com/album/4ozndrtOgBu4ixCdF8PcWm) | 2:33 | 2023-07-25 | 2023-12-14 |
 | [Nintendo \(feat\. Fluhkunxhkos\)](https://open.spotify.com/track/3ZrzJ9DZk4aKPylDwLYzDD) | [Slimesito](https://open.spotify.com/artist/1fqzcp3dzZD1YGQ2RT5pYs), [Fluhkunxhkos](https://open.spotify.com/artist/6pCLUSyfp5qxqjBW6hKjvU) | [GTA9](https://open.spotify.com/album/7M55Zy84Y3oEvb3DnLf8AX) | 2:17 | 2025-05-31 | 2026-03-08 |

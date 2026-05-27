@@ -1,6 +1,6 @@
 {
   "description": "Calming music accompanied by the waves of the ocean. Breathe with the ebb and flow of the sea. ",
-  "num_followers": 69367,
+  "num_followers": 69398,
   "original_name": "Serene Ocean Music",
   "owner": {
     "name": "Spotify",
@@ -635,22 +635,6 @@
     {
       "added_at": "2026-02-27 13:21:37",
       "album": {
-        "name": "Eclipse",
-        "url": "https://open.spotify.com/album/1miJHX1yvb8kITGSeTV8a0"
-      },
-      "artists": [
-        {
-          "name": "Ember Rivera",
-          "url": "https://open.spotify.com/artist/7uaOI3LlQMP255X8hMQeYS"
-        }
-      ],
-      "duration_ms": 224641,
-      "name": "Eclipse",
-      "url": "https://open.spotify.com/track/6ZWNlKcUAsFfjT6uQTVO4F"
-    },
-    {
-      "added_at": "2026-02-27 13:21:37",
-      "album": {
         "name": "Ocean's Rest",
         "url": "https://open.spotify.com/album/6Vz8sDcOZBtl4xI87nBC3S"
       },
@@ -667,18 +651,34 @@
     {
       "added_at": "2026-02-27 13:21:37",
       "album": {
-        "name": "Newfoundland",
-        "url": "https://open.spotify.com/album/502h7NzW2A12rSKLIvA6JJ"
+        "name": "Inner Strength",
+        "url": "https://open.spotify.com/album/7nxws701pdjNGfmMCb0G8N"
       },
       "artists": [
         {
-          "name": "Miyklo",
-          "url": "https://open.spotify.com/artist/2X3Invt8lYGm7czZvFUPCj"
+          "name": "Hulu Otto",
+          "url": "https://open.spotify.com/artist/0b2hSNgC94dVrDmvJBqd84"
         }
       ],
-      "duration_ms": 148747,
-      "name": "Newfoundland",
-      "url": "https://open.spotify.com/track/2jAXw7YVGD2r6nzQwJLgsY"
+      "duration_ms": 148578,
+      "name": "Inner Strength",
+      "url": "https://open.spotify.com/track/50TP9cmtHYCs501GCZJUA7"
+    },
+    {
+      "added_at": "2026-02-27 13:21:37",
+      "album": {
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/1miJHX1yvb8kITGSeTV8a0"
+      },
+      "artists": [
+        {
+          "name": "Ember Rivera",
+          "url": "https://open.spotify.com/artist/7uaOI3LlQMP255X8hMQeYS"
+        }
+      ],
+      "duration_ms": 224641,
+      "name": "Eclipse",
+      "url": "https://open.spotify.com/track/6ZWNlKcUAsFfjT6uQTVO4F"
     },
     {
       "added_at": "2026-02-27 13:21:37",
@@ -695,6 +695,22 @@
       "duration_ms": 167596,
       "name": "Ocean Light",
       "url": "https://open.spotify.com/track/5IwVSLVaXXZt9tk9YO93oN"
+    },
+    {
+      "added_at": "2026-02-27 13:21:37",
+      "album": {
+        "name": "Newfoundland",
+        "url": "https://open.spotify.com/album/502h7NzW2A12rSKLIvA6JJ"
+      },
+      "artists": [
+        {
+          "name": "Miyklo",
+          "url": "https://open.spotify.com/artist/2X3Invt8lYGm7czZvFUPCj"
+        }
+      ],
+      "duration_ms": 148747,
+      "name": "Newfoundland",
+      "url": "https://open.spotify.com/track/2jAXw7YVGD2r6nzQwJLgsY"
     },
     {
       "added_at": "2026-02-27 13:21:37",
@@ -727,22 +743,6 @@
       "duration_ms": 161750,
       "name": "Deep Cove",
       "url": "https://open.spotify.com/track/24UKwKhTpYoFYD5p6VHDEi"
-    },
-    {
-      "added_at": "2026-02-27 13:21:37",
-      "album": {
-        "name": "Inner Strength",
-        "url": "https://open.spotify.com/album/7nxws701pdjNGfmMCb0G8N"
-      },
-      "artists": [
-        {
-          "name": "Hulu Otto",
-          "url": "https://open.spotify.com/artist/0b2hSNgC94dVrDmvJBqd84"
-        }
-      ],
-      "duration_ms": 148578,
-      "name": "Inner Strength",
-      "url": "https://open.spotify.com/track/50TP9cmtHYCs501GCZJUA7"
     },
     {
       "added_at": "2026-02-27 13:21:37",
@@ -843,6 +843,22 @@
     {
       "added_at": "2026-02-27 13:21:37",
       "album": {
+        "name": "From The Past",
+        "url": "https://open.spotify.com/album/1hfRrhdadKh2F7tZt2vQlt"
+      },
+      "artists": [
+        {
+          "name": "Ikupu Ume",
+          "url": "https://open.spotify.com/artist/3jKOrP3N4xtMAgfet68LDP"
+        }
+      ],
+      "duration_ms": 189716,
+      "name": "From The Past",
+      "url": "https://open.spotify.com/track/0fbJxtewNTA0WLwckrq9Gl"
+    },
+    {
+      "added_at": "2026-02-27 13:21:37",
+      "album": {
         "name": "Harmonic Waters",
         "url": "https://open.spotify.com/album/0ZTRxSUMZ98J5tPLunOBob"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 142000,
       "name": "Harmonic Waters",
       "url": "https://open.spotify.com/track/61RzOrfTur4MbHfXv1QRxN"
-    },
-    {
-      "added_at": "2026-02-27 13:21:37",
-      "album": {
-        "name": "Peace Offering",
-        "url": "https://open.spotify.com/album/6BDdVemhdR1rhd77GG2Vvm"
-      },
-      "artists": [
-        {
-          "name": "Lavona",
-          "url": "https://open.spotify.com/artist/3ZjL5oc3m442zsT7EtEPz9"
-        }
-      ],
-      "duration_ms": 151730,
-      "name": "Peace Offering",
-      "url": "https://open.spotify.com/track/5EXyYADsvWnFPagkFfpxp2"
     },
     {
       "added_at": "2026-02-27 13:21:37",
@@ -891,18 +891,18 @@
     {
       "added_at": "2026-02-27 13:21:37",
       "album": {
-        "name": "Ocean",
-        "url": "https://open.spotify.com/album/4Tsi6BstEJGnmDAD5B4sr2"
+        "name": "Peace Offering",
+        "url": "https://open.spotify.com/album/6BDdVemhdR1rhd77GG2Vvm"
       },
       "artists": [
         {
-          "name": "Luna's Garden",
-          "url": "https://open.spotify.com/artist/3zrgUBWKbLbpOkrFqGZMqt"
+          "name": "Lavona",
+          "url": "https://open.spotify.com/artist/3ZjL5oc3m442zsT7EtEPz9"
         }
       ],
-      "duration_ms": 182361,
-      "name": "Waves",
-      "url": "https://open.spotify.com/track/3TkZrmBF7h2klM21d9j9Bt"
+      "duration_ms": 151730,
+      "name": "Peace Offering",
+      "url": "https://open.spotify.com/track/5EXyYADsvWnFPagkFfpxp2"
     },
     {
       "added_at": "2026-02-27 13:21:37",
@@ -923,6 +923,22 @@
     {
       "added_at": "2026-02-27 13:21:37",
       "album": {
+        "name": "Ocean",
+        "url": "https://open.spotify.com/album/4Tsi6BstEJGnmDAD5B4sr2"
+      },
+      "artists": [
+        {
+          "name": "Luna's Garden",
+          "url": "https://open.spotify.com/artist/3zrgUBWKbLbpOkrFqGZMqt"
+        }
+      ],
+      "duration_ms": 182361,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/3TkZrmBF7h2klM21d9j9Bt"
+    },
+    {
+      "added_at": "2026-02-27 13:21:37",
+      "album": {
         "name": "Ocean Mist",
         "url": "https://open.spotify.com/album/713IgaOvTqGw9jUgsmyFvY"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 151254,
       "name": "Ocean Mist",
       "url": "https://open.spotify.com/track/7v7QlWId44VVGz455UMXmE"
-    },
-    {
-      "added_at": "2026-02-27 13:21:37",
-      "album": {
-        "name": "From The Past",
-        "url": "https://open.spotify.com/album/1hfRrhdadKh2F7tZt2vQlt"
-      },
-      "artists": [
-        {
-          "name": "Ikupu Ume",
-          "url": "https://open.spotify.com/artist/3jKOrP3N4xtMAgfet68LDP"
-        }
-      ],
-      "duration_ms": 189716,
-      "name": "From The Past",
-      "url": "https://open.spotify.com/track/0fbJxtewNTA0WLwckrq9Gl"
     },
     {
       "added_at": "2026-02-27 13:21:37",
@@ -971,22 +971,6 @@
     {
       "added_at": "2026-02-27 13:21:37",
       "album": {
-        "name": "Aurora",
-        "url": "https://open.spotify.com/album/6YHmqQCu7irYJFGaUSjK3j"
-      },
-      "artists": [
-        {
-          "name": "Flyndon",
-          "url": "https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl"
-        }
-      ],
-      "duration_ms": 174288,
-      "name": "Aurora",
-      "url": "https://open.spotify.com/track/6EIzJbvJiyH0MgVTICTpvC"
-    },
-    {
-      "added_at": "2026-02-27 13:21:37",
-      "album": {
         "name": "Ijevan",
         "url": "https://open.spotify.com/album/36gScMCmvklqRa2xyPlLzi"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 221871,
       "name": "Ijevan",
       "url": "https://open.spotify.com/track/4PEUq8eJu7ApR2xRiZqLeU"
+    },
+    {
+      "added_at": "2026-02-27 13:21:37",
+      "album": {
+        "name": "Aurora",
+        "url": "https://open.spotify.com/album/6YHmqQCu7irYJFGaUSjK3j"
+      },
+      "artists": [
+        {
+          "name": "Flyndon",
+          "url": "https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl"
+        }
+      ],
+      "duration_ms": 174288,
+      "name": "Aurora",
+      "url": "https://open.spotify.com/track/6EIzJbvJiyH0MgVTICTpvC"
     },
     {
       "added_at": "2026-02-27 13:21:37",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2026-02-27 13:21:37",
       "album": {
+        "name": "Blue Dreams",
+        "url": "https://open.spotify.com/album/6b6Lkkp7RpGB6fevcuc62j"
+      },
+      "artists": [
+        {
+          "name": "Peaceful Island",
+          "url": "https://open.spotify.com/artist/0s2PIIFX28PHshwhsbFjJh"
+        }
+      ],
+      "duration_ms": 142000,
+      "name": "Blue Dreams",
+      "url": "https://open.spotify.com/track/0neR03vzECIMYkD4nPDXum"
+    },
+    {
+      "added_at": "2026-02-27 13:21:37",
+      "album": {
         "name": "Marine Street",
         "url": "https://open.spotify.com/album/1Fp2d5yuRdVrIo0jm9i1mK"
       },
@@ -1095,22 +1111,6 @@
       "duration_ms": 215000,
       "name": "Infinite Homelands",
       "url": "https://open.spotify.com/track/3pRow3lwTX36GWRDKGo5Fg"
-    },
-    {
-      "added_at": "2026-02-27 13:21:37",
-      "album": {
-        "name": "Blue Dreams",
-        "url": "https://open.spotify.com/album/6b6Lkkp7RpGB6fevcuc62j"
-      },
-      "artists": [
-        {
-          "name": "Peaceful Island",
-          "url": "https://open.spotify.com/artist/0s2PIIFX28PHshwhsbFjJh"
-        }
-      ],
-      "duration_ms": 142000,
-      "name": "Blue Dreams",
-      "url": "https://open.spotify.com/track/0neR03vzECIMYkD4nPDXum"
     },
     {
       "added_at": "2026-02-27 13:21:37",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2026-02-27 13:21:37",
       "album": {
-        "name": "Ocean in a Drop",
-        "url": "https://open.spotify.com/album/6xF8SMoiAmYx8VSrzdbja2"
-      },
-      "artists": [
-        {
-          "name": "Gaiasphere",
-          "url": "https://open.spotify.com/artist/39LUEKMNXRlQBUDMwwK14q"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Ocean in a Drop",
-      "url": "https://open.spotify.com/track/5yxqIaxcAWpcxcX95a6QYt"
-    },
-    {
-      "added_at": "2026-02-27 13:21:37",
-      "album": {
         "name": "A New Wave",
         "url": "https://open.spotify.com/album/56mwvzRQCVTuIw8ZSDenMl"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 181176,
       "name": "A New Wave",
       "url": "https://open.spotify.com/track/6rVPuBfXzKQCfloRxatSXs"
+    },
+    {
+      "added_at": "2026-02-27 13:21:37",
+      "album": {
+        "name": "Ocean in a Drop",
+        "url": "https://open.spotify.com/album/6xF8SMoiAmYx8VSrzdbja2"
+      },
+      "artists": [
+        {
+          "name": "Gaiasphere",
+          "url": "https://open.spotify.com/artist/39LUEKMNXRlQBUDMwwK14q"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Ocean in a Drop",
+      "url": "https://open.spotify.com/track/5yxqIaxcAWpcxcX95a6QYt"
     },
     {
       "added_at": "2026-02-27 13:21:37",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2026-02-27 13:21:37",
       "album": {
-        "name": "Ocean Dive",
-        "url": "https://open.spotify.com/album/5Ck9ina89LcfFVMej8G4ti"
-      },
-      "artists": [
-        {
-          "name": "Livrunna",
-          "url": "https://open.spotify.com/artist/3cU2VnsMPqdGDchmD1XYCz"
-        }
-      ],
-      "duration_ms": 213472,
-      "name": "Ocean Dive",
-      "url": "https://open.spotify.com/track/2r4NivF3SETTKXKvhp1mYm"
-    },
-    {
-      "added_at": "2026-02-27 13:21:37",
-      "album": {
         "name": "From Within",
         "url": "https://open.spotify.com/album/0UZaQABB0qZ1wDFF7keDfK"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 160333,
       "name": "From Within",
       "url": "https://open.spotify.com/track/7zyc5lRXmothc3kTRi9mfr"
+    },
+    {
+      "added_at": "2026-02-27 13:21:37",
+      "album": {
+        "name": "Ocean Dive",
+        "url": "https://open.spotify.com/album/5Ck9ina89LcfFVMej8G4ti"
+      },
+      "artists": [
+        {
+          "name": "Livrunna",
+          "url": "https://open.spotify.com/artist/3cU2VnsMPqdGDchmD1XYCz"
+        }
+      ],
+      "duration_ms": 213472,
+      "name": "Ocean Dive",
+      "url": "https://open.spotify.com/track/2r4NivF3SETTKXKvhp1mYm"
     },
     {
       "added_at": "2026-02-27 13:21:37",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2026-02-27 13:21:37",
       "album": {
-        "name": "Moonlit River",
-        "url": "https://open.spotify.com/album/3ccZR5HufZ2RAiuBY5uyr5"
-      },
-      "artists": [
-        {
-          "name": "Sol Reya",
-          "url": "https://open.spotify.com/artist/1WOC51A3fmT0ONyhUtH1G8"
-        }
-      ],
-      "duration_ms": 147500,
-      "name": "Moonlit River",
-      "url": "https://open.spotify.com/track/77C0BJ02fJKdp5YGGzwgzY"
-    },
-    {
-      "added_at": "2026-02-27 13:21:37",
-      "album": {
         "name": "Waves of Daelbata",
         "url": "https://open.spotify.com/album/0u0SoQkzLwlEBXo2uizdHb"
       },
@@ -1291,6 +1275,22 @@
     {
       "added_at": "2026-02-27 13:21:37",
       "album": {
+        "name": "Moonlit River",
+        "url": "https://open.spotify.com/album/3ccZR5HufZ2RAiuBY5uyr5"
+      },
+      "artists": [
+        {
+          "name": "Sol Reya",
+          "url": "https://open.spotify.com/artist/1WOC51A3fmT0ONyhUtH1G8"
+        }
+      ],
+      "duration_ms": 147500,
+      "name": "Moonlit River",
+      "url": "https://open.spotify.com/track/77C0BJ02fJKdp5YGGzwgzY"
+    },
+    {
+      "added_at": "2026-02-27 13:21:37",
+      "album": {
         "name": "Sleepy Ocean Dreams",
         "url": "https://open.spotify.com/album/5oLpFsS31oeOnR8dGRfRAM"
       },
@@ -1303,22 +1303,6 @@
       "duration_ms": 177600,
       "name": "Sleepy Ocean Dreams",
       "url": "https://open.spotify.com/track/7tp4girj8neLRJI2xVERQD"
-    },
-    {
-      "added_at": "2026-02-27 13:21:37",
-      "album": {
-        "name": "heart wave",
-        "url": "https://open.spotify.com/album/37Wa0x4R7jqoZ4x8HocvxC"
-      },
-      "artists": [
-        {
-          "name": "Aquas",
-          "url": "https://open.spotify.com/artist/7HgUx5Ns8oY9OIJitDRnej"
-        }
-      ],
-      "duration_ms": 174600,
-      "name": "heart wave",
-      "url": "https://open.spotify.com/track/4jOCxSraETXlNjHz4m0r1k"
     },
     {
       "added_at": "2026-02-27 13:21:37",
@@ -1351,6 +1335,22 @@
       "duration_ms": 157345,
       "name": "Finca Meditation (Ocean)",
       "url": "https://open.spotify.com/track/6sy0MDeFP39YJJslIhA2TL"
+    },
+    {
+      "added_at": "2026-02-27 13:21:37",
+      "album": {
+        "name": "heart wave",
+        "url": "https://open.spotify.com/album/37Wa0x4R7jqoZ4x8HocvxC"
+      },
+      "artists": [
+        {
+          "name": "Aquas",
+          "url": "https://open.spotify.com/artist/7HgUx5Ns8oY9OIJitDRnej"
+        }
+      ],
+      "duration_ms": 174600,
+      "name": "heart wave",
+      "url": "https://open.spotify.com/track/4jOCxSraETXlNjHz4m0r1k"
     },
     {
       "added_at": "2026-02-27 13:21:37",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2026-02-27 13:21:37",
       "album": {
-        "name": "Devine Waves",
-        "url": "https://open.spotify.com/album/7987vByLF9HkepU0VIabSG"
-      },
-      "artists": [
-        {
-          "name": "Bliss Phenomena",
-          "url": "https://open.spotify.com/artist/5QggUZgvXPXT5X0jouJKBr"
-        }
-      ],
-      "duration_ms": 141000,
-      "name": "Devine Waves",
-      "url": "https://open.spotify.com/track/38pWBkFjXOqZ5f6bGOj1L4"
-    },
-    {
-      "added_at": "2026-02-27 13:21:37",
-      "album": {
         "name": "Wavelines",
         "url": "https://open.spotify.com/album/3sftADZhlTICCQvNkAHNtL"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 148624,
       "name": "Wavelines",
       "url": "https://open.spotify.com/track/6lPugXizncPT4QTQWU9v4j"
+    },
+    {
+      "added_at": "2026-02-27 13:21:37",
+      "album": {
+        "name": "Devine Waves",
+        "url": "https://open.spotify.com/album/7987vByLF9HkepU0VIabSG"
+      },
+      "artists": [
+        {
+          "name": "Bliss Phenomena",
+          "url": "https://open.spotify.com/artist/5QggUZgvXPXT5X0jouJKBr"
+        }
+      ],
+      "duration_ms": 141000,
+      "name": "Devine Waves",
+      "url": "https://open.spotify.com/track/38pWBkFjXOqZ5f6bGOj1L4"
     },
     {
       "added_at": "2026-02-27 13:21:37",
@@ -1675,18 +1675,18 @@
     {
       "added_at": "2026-02-27 13:21:37",
       "album": {
-        "name": "By the Ocean",
-        "url": "https://open.spotify.com/album/7nwYwuMy0khyxJl7hgfCE4"
+        "name": "Above the Clouds",
+        "url": "https://open.spotify.com/album/1TugxFZJMiKgRBXM0aOfRT"
       },
       "artists": [
         {
-          "name": "Refugium",
-          "url": "https://open.spotify.com/artist/4zMvYPGhp76vbz8bGgxjjC"
+          "name": "Hieling",
+          "url": "https://open.spotify.com/artist/76oxgr1S7w2h6MuJ50h2JC"
         }
       ],
-      "duration_ms": 185000,
-      "name": "By the Ocean",
-      "url": "https://open.spotify.com/track/3wiPradzeWPto8383InaTd"
+      "duration_ms": 175000,
+      "name": "Above the Clouds",
+      "url": "https://open.spotify.com/track/1YNREOM2arPOMzVX9CJZx5"
     }
   ],
   "unique_name": "Serene Ocean Music",

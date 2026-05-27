@@ -6,7 +6,7 @@
     "name": "The Mushy Pea",
     "url": "https://open.spotify.com/user/1139243362"
   },
-  "snapshot_id": "AAAO7dNP2sqYUWM2wyyiYEKaj6FSUSYO",
+  "snapshot_id": "AAAO71pKTQ2pxFzIYhFAxFkX7IfPMepu",
   "tracks": [
     {
       "added_at": "2026-04-15 23:19:40",
@@ -1659,6 +1659,38 @@
       "duration_ms": 146446,
       "name": "PRONE",
       "url": "https://open.spotify.com/track/2hL2DPzbzZ6GH3iR6ojraw"
+    },
+    {
+      "added_at": "2026-05-26 13:33:10",
+      "album": {
+        "name": "Kindred Spirits",
+        "url": "https://open.spotify.com/album/2KkZKv7KkrXf7Ex96lomjB"
+      },
+      "artists": [
+        {
+          "name": "Lilith Left The Garden",
+          "url": "https://open.spotify.com/artist/0S8tp7VPxIpsU94O4Qdsxz"
+        }
+      ],
+      "duration_ms": 142296,
+      "name": "Grackle Grackle",
+      "url": "https://open.spotify.com/track/4VIQCb2y7ny84EGajG4bBM"
+    },
+    {
+      "added_at": "2026-05-26 13:33:31",
+      "album": {
+        "name": "ashes (roses and petals)",
+        "url": "https://open.spotify.com/album/6F8LIZcCN1ogGPQuOJbHtj"
+      },
+      "artists": [
+        {
+          "name": "hxtedbyforce!",
+          "url": "https://open.spotify.com/artist/6LurtON7FdurBR7OGsgtJb"
+        }
+      ],
+      "duration_ms": 136274,
+      "name": "ashes (roses and petals)",
+      "url": "https://open.spotify.com/track/2xhHd50zQcD59LDICweKHs"
     }
   ],
   "unique_name": "INDI(E)VIDUAL",

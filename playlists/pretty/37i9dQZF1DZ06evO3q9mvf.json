@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahI/gAAAAACGNze9IBbr4txWuamXQfEo",
+  "snapshot_id": "ahORAAAAAAALvCnb0g49AYE/b7C7EHys",
   "tracks": [
     {
       "added_at": null,
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
         }
       ],
-      "duration_ms": 400906,
-      "name": "Animal Space / Spacier",
-      "url": "https://open.spotify.com/track/4AcSNRceUrNyddhHzQzbcx"
+      "duration_ms": 267293,
+      "name": "Improperly Dressed",
+      "url": "https://open.spotify.com/track/6hp8fyy5Yx1VUjA7EeCXzN"
     },
     {
       "added_at": null,
@@ -299,8 +299,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live at the Gibus Club",
-        "url": "https://open.spotify.com/album/04pZjd4uyJqPWNQ6gJLuQ9"
+        "name": "In The Beginning",
+        "url": "https://open.spotify.com/album/5Gpqi5XCvsgqUbXtdGvslS"
       },
       "artists": [
         {
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
         }
       ],
-      "duration_ms": 55293,
-      "name": "Une Homme et Un Slit (Live at The Gibus Club, 1978)",
-      "url": "https://open.spotify.com/track/0QC6haYulTktRMrYjunZJ8"
+      "duration_ms": 221306,
+      "name": "Fade Away",
+      "url": "https://open.spotify.com/track/1DAvbL32g5jhjjLfaO9di4"
     },
     {
       "added_at": null,
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
         }
       ],
-      "duration_ms": 267293,
-      "name": "Improperly Dressed",
-      "url": "https://open.spotify.com/track/6hp8fyy5Yx1VUjA7EeCXzN"
+      "duration_ms": 400906,
+      "name": "Animal Space / Spacier",
+      "url": "https://open.spotify.com/track/4AcSNRceUrNyddhHzQzbcx"
     },
     {
       "added_at": null,
@@ -347,22 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "In The Beginning",
-        "url": "https://open.spotify.com/album/5Gpqi5XCvsgqUbXtdGvslS"
-      },
-      "artists": [
-        {
-          "name": "The Slits",
-          "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
-        }
-      ],
-      "duration_ms": 221306,
-      "name": "Fade Away",
-      "url": "https://open.spotify.com/track/1DAvbL32g5jhjjLfaO9di4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Live at the Gibus Club",
         "url": "https://open.spotify.com/album/04pZjd4uyJqPWNQ6gJLuQ9"
       },
@@ -372,9 +356,25 @@
           "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
         }
       ],
-      "duration_ms": 113960,
-      "name": "Split (Live at The Gibus Club, 1978)",
-      "url": "https://open.spotify.com/track/6PdY3m4TaBMZUTNmsffJUD"
+      "duration_ms": 55293,
+      "name": "Une Homme et Un Slit (Live at The Gibus Club, 1978)",
+      "url": "https://open.spotify.com/track/0QC6haYulTktRMrYjunZJ8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In The Beginning",
+        "url": "https://open.spotify.com/album/5Gpqi5XCvsgqUbXtdGvslS"
+      },
+      "artists": [
+        {
+          "name": "The Slits",
+          "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
+        }
+      ],
+      "duration_ms": 146586,
+      "name": "Slime",
+      "url": "https://open.spotify.com/track/2LabDMCiDEFX7ay29gUkug"
     },
     {
       "added_at": null,
@@ -411,6 +411,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Live at the Gibus Club",
+        "url": "https://open.spotify.com/album/04pZjd4uyJqPWNQ6gJLuQ9"
+      },
+      "artists": [
+        {
+          "name": "The Slits",
+          "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
+        }
+      ],
+      "duration_ms": 113960,
+      "name": "Split (Live at The Gibus Club, 1978)",
+      "url": "https://open.spotify.com/track/6PdY3m4TaBMZUTNmsffJUD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "First sight",
         "url": "https://open.spotify.com/album/2TkGSXmxtvzzHFrGZTGT8U"
       },
@@ -423,86 +439,6 @@
       "duration_ms": 223000,
       "name": "First sight",
       "url": "https://open.spotify.com/track/2t6zqMLq4L6HbKDyDxZenk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Live at the Gibus Club",
-        "url": "https://open.spotify.com/album/04pZjd4uyJqPWNQ6gJLuQ9"
-      },
-      "artists": [
-        {
-          "name": "The Slits",
-          "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
-        }
-      ],
-      "duration_ms": 135973,
-      "name": "Vaseline (Live at The Gibus Club, 1978)",
-      "url": "https://open.spotify.com/track/7seUtjCNUDcPQEhXry2F2N"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "In The Beginning",
-        "url": "https://open.spotify.com/album/5Gpqi5XCvsgqUbXtdGvslS"
-      },
-      "artists": [
-        {
-          "name": "The Slits",
-          "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
-        }
-      ],
-      "duration_ms": 146586,
-      "name": "Slime",
-      "url": "https://open.spotify.com/track/2LabDMCiDEFX7ay29gUkug"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Full moon",
-        "url": "https://open.spotify.com/album/19JQE5kPOQTsSIRYtAuaoI"
-      },
-      "artists": [
-        {
-          "name": "The Slits",
-          "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
-        }
-      ],
-      "duration_ms": 183960,
-      "name": "Full moon",
-      "url": "https://open.spotify.com/track/0ajtqxmXFgB9dRCXYSMf2J"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Skateboard Punk Hits",
-        "url": "https://open.spotify.com/album/5vjoCr5CfcWzxf66BxGliv"
-      },
-      "artists": [
-        {
-          "name": "The Slits",
-          "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
-        }
-      ],
-      "duration_ms": 212506,
-      "name": "Grapevine (Live)",
-      "url": "https://open.spotify.com/track/60uTDFpYvxfWQUqLY8iQ6Y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Live at the Gibus Club",
-        "url": "https://open.spotify.com/album/04pZjd4uyJqPWNQ6gJLuQ9"
-      },
-      "artists": [
-        {
-          "name": "The Slits",
-          "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
-        }
-      ],
-      "duration_ms": 322786,
-      "name": "Enemy Numero Uno (Live at The Gibus Club, 1978)",
-      "url": "https://open.spotify.com/track/1DYTxEXTJjSFd1nkAM16e5"
     },
     {
       "added_at": null,
@@ -523,6 +459,54 @@
     {
       "added_at": null,
       "album": {
+        "name": "Full moon",
+        "url": "https://open.spotify.com/album/19JQE5kPOQTsSIRYtAuaoI"
+      },
+      "artists": [
+        {
+          "name": "The Slits",
+          "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
+        }
+      ],
+      "duration_ms": 183960,
+      "name": "Full moon",
+      "url": "https://open.spotify.com/track/0ajtqxmXFgB9dRCXYSMf2J"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live at the Gibus Club",
+        "url": "https://open.spotify.com/album/04pZjd4uyJqPWNQ6gJLuQ9"
+      },
+      "artists": [
+        {
+          "name": "The Slits",
+          "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
+        }
+      ],
+      "duration_ms": 135973,
+      "name": "Vaseline (Live at The Gibus Club, 1978)",
+      "url": "https://open.spotify.com/track/7seUtjCNUDcPQEhXry2F2N"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Skateboard Punk Hits",
+        "url": "https://open.spotify.com/album/5vjoCr5CfcWzxf66BxGliv"
+      },
+      "artists": [
+        {
+          "name": "The Slits",
+          "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
+        }
+      ],
+      "duration_ms": 212506,
+      "name": "Grapevine (Live)",
+      "url": "https://open.spotify.com/track/60uTDFpYvxfWQUqLY8iQ6Y"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "In The Beginning",
         "url": "https://open.spotify.com/album/5Gpqi5XCvsgqUbXtdGvslS"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 365293,
       "name": "In The Beginning",
       "url": "https://open.spotify.com/track/6psWuKnXsVNryfsHLAGvIV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live at the Gibus Club",
+        "url": "https://open.spotify.com/album/04pZjd4uyJqPWNQ6gJLuQ9"
+      },
+      "artists": [
+        {
+          "name": "The Slits",
+          "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
+        }
+      ],
+      "duration_ms": 322786,
+      "name": "Enemy Numero Uno (Live at The Gibus Club, 1978)",
+      "url": "https://open.spotify.com/track/1DYTxEXTJjSFd1nkAM16e5"
     },
     {
       "added_at": null,

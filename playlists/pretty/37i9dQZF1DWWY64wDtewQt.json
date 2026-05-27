@@ -1,12 +1,12 @@
 {
   "description": "the beat of your drift",
-  "num_followers": 11687109,
+  "num_followers": 11689771,
   "original_name": "phonk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKr+eS3vNz0Stdz/LA+lpgn3k2/n",
+  "snapshot_id": "AAAAAFbVOM8VbhpGZnytjaENjJk/FpMc",
   "tracks": [
     {
       "added_at": "2026-02-13 15:58:36",
@@ -161,22 +161,6 @@
       "url": "https://open.spotify.com/track/5WCC5w7bTsAOv1g1W1fU7A"
     },
     {
-      "added_at": "2025-08-29 15:35:59",
-      "album": {
-        "name": "NO ERA AMOR",
-        "url": "https://open.spotify.com/album/10AnFVWglg655tHSr5WBSU"
-      },
-      "artists": [
-        {
-          "name": "DJ Asul",
-          "url": "https://open.spotify.com/artist/3Tfh86fepXglotJQCWkOGe"
-        }
-      ],
-      "duration_ms": 93066,
-      "name": "NO ERA AMOR - Slowed",
-      "url": "https://open.spotify.com/track/026OJSwDl3UOP4T8puJXj9"
-    },
-    {
       "added_at": "2025-07-25 18:46:04",
       "album": {
         "name": "MONTAGEM XONADA",
@@ -243,6 +227,22 @@
       "duration_ms": 89809,
       "name": "TAKA LA DENTRO",
       "url": "https://open.spotify.com/track/4SN97PWG1WzClH2W08x8dr"
+    },
+    {
+      "added_at": "2025-08-29 15:35:59",
+      "album": {
+        "name": "NO ERA AMOR",
+        "url": "https://open.spotify.com/album/10AnFVWglg655tHSr5WBSU"
+      },
+      "artists": [
+        {
+          "name": "DJ Asul",
+          "url": "https://open.spotify.com/artist/3Tfh86fepXglotJQCWkOGe"
+        }
+      ],
+      "duration_ms": 93066,
+      "name": "NO ERA AMOR - Slowed",
+      "url": "https://open.spotify.com/track/026OJSwDl3UOP4T8puJXj9"
     },
     {
       "added_at": "2025-07-25 18:46:04",

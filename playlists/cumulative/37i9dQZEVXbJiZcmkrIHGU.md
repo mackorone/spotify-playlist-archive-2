@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Germany.
 
-4,258 songs - 8 day 15 hr 22 min
+4,259 songs - 8 day 15 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -500,7 +500,7 @@
 | [Believe What I Say](https://open.spotify.com/track/73uxnSsFMeJ15POpd3zgrV) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 4:02 | 2021-09-01 | 2021-09-02 |
 | [Bella Ciao](https://open.spotify.com/track/6CVVvoVNNh1M7NfEjlzW9N) | [MERO](https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ) | [Renaissance](https://open.spotify.com/album/5cSEvN4TBHPfIciw8Ln05p) | 2:16 | 2024-10-12 | 2024-10-14 |
 | [Bella in der Gegend](https://open.spotify.com/track/7pWLJBjPzRMnLZWsSa4K1o) | [Seso](https://open.spotify.com/artist/1NZBERHHFyWbPiwATjEukC) | [Bella in der Gegend](https://open.spotify.com/album/0GpSyAWdtZ2kOa2jws8HUE) | 2:24 | 2025-12-28 | 2026-01-01 |
-| [Bella Napoli](https://open.spotify.com/track/1W14FFFgsM0m6DUt3Tf6NP) | [Roy Bianco & Die Abbrunzati Boys](https://open.spotify.com/artist/3mWQ5gAWWhoPDNHyAEC5Hz) | [Mille Grazie](https://open.spotify.com/album/6vQyF8fixVpBo93bThDEQD) | 3:55 | 2025-05-02 |  |
+| [Bella Napoli](https://open.spotify.com/track/1W14FFFgsM0m6DUt3Tf6NP) | [Roy Bianco & Die Abbrunzati Boys](https://open.spotify.com/artist/3mWQ5gAWWhoPDNHyAEC5Hz) | [Mille Grazie](https://open.spotify.com/album/6vQyF8fixVpBo93bThDEQD) | 3:55 | 2025-05-02 | 2026-05-27 |
 | [Belly Dance](https://open.spotify.com/track/0fNKwCjU3ymvLr9dWi5zzI) | [Capital Bra](https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d), [Pano](https://open.spotify.com/artist/0ycqYtKEVKcGllrwM9uITa) | [Belly Dance](https://open.spotify.com/album/3toDNpr25RU0FAucGAxfGD) | 2:40 | 2023-05-27 | 2023-05-30 |
 | [Belly Dancer](https://open.spotify.com/track/7fZBQnc0zXwVybgCIrQQil) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [BYOR](https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R) | [Belly Dancer](https://open.spotify.com/album/2npvQTpyjLtapBWTNTNlqn) | 2:31 | 2022-05-11 | 2023-02-07 |
 | [BELOHNEN](https://open.spotify.com/track/5aMvdnOSZxslL2I083yxvR) | [FILLY](https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f), [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H), [Bausa](https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV), [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j) | [BELOHNEN](https://open.spotify.com/album/21Qru59PSvQEdVEKCQ4ZeC) | 2:10 | 2024-10-05 | 2024-10-13 |
@@ -3520,6 +3520,7 @@
 | [Suche nach mehr](https://open.spotify.com/track/2CHoaNtGw6Bkqh5AyxfnPD) | [NGEE](https://open.spotify.com/artist/3Hvx3BM0K4FHBs9J3k8G6V) | [Suche nach mehr](https://open.spotify.com/album/7gLtjaD2I3CDMa9HfUZ3zA) | 2:36 | 2021-07-18 | 2021-07-19 |
 | [sucht](https://open.spotify.com/track/2CHiLa0obXZOzUd8BzUmhI) | [t\-low](https://open.spotify.com/artist/3tQzzidoPfVifoURnDfgmD) | [sucht](https://open.spotify.com/album/2FiytmCp7Ewv6FDcyGxzQf) | 2:33 | 2023-06-03 | 2023-06-05 |
 | [Sugar On My Tongue](https://open.spotify.com/track/6xV7Be6XEvkSnighmh2Tzj) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [DON'T TAP THE GLASS](https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R) | 2:33 | 2025-09-25 | 2025-10-12 |
+| [Summer](https://open.spotify.com/track/6YUTL4dYpB9xZO5qExPf05) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [Motion](https://open.spotify.com/album/48zisMeiXniWLzOQghbPqS) | 3:42 | 2026-05-26 |  |
 | [Summer Baby](https://open.spotify.com/track/1OH0dxRdfoKbZG9ubxiT7I) | [Azet](https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh), [The Underdog Project](https://open.spotify.com/artist/06XDzzi31mBGSsaAABTZLb) | [Summer Baby](https://open.spotify.com/album/7la8ldIlZqwMs1hgFFJVPG) | 2:23 | 2025-06-28 | 2025-07-13 |
 | [Summer Of '69](https://open.spotify.com/track/0GONea6G2XdnHWjNZd6zt3) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Reckless \(30th Anniversary / Deluxe Edition\)](https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL) | 3:36 | 2025-01-01 | 2026-01-04 |
 | [Summertime](https://open.spotify.com/track/0gMTEHzNIyvxikxyUFFJxO) | [Kontra K](https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Summertime](https://open.spotify.com/album/3d5e4tp3t5zTGu44NM88LQ) | 3:15 | 2023-08-12 | 2023-10-26 |

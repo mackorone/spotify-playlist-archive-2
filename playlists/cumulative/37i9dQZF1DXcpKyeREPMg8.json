@@ -122,10 +122,28 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-27",
       "duration_ms": 213542,
       "name": "all i need",
       "url": "https://open.spotify.com/track/449zwwLd5mT6AmRZMFJC96"
+    },
+    {
+      "album": {
+        "name": "hopefully !",
+        "url": "https://open.spotify.com/album/3QiiMhk65fgCPOKThjZ8iK"
+      },
+      "artists": [
+        {
+          "name": "Loyle Carner",
+          "url": "https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213542,
+      "name": "all i need",
+      "url": "https://open.spotify.com/track/6zyyos3UrfaughUvRqL3sD"
     },
     {
       "album": {
@@ -144,10 +162,32 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-27",
       "duration_ms": 191808,
       "name": "Amplify",
       "url": "https://open.spotify.com/track/3Yst8fBmKcLK7OEPeXB7tm"
+    },
+    {
+      "album": {
+        "name": "The Village Is On Fire",
+        "url": "https://open.spotify.com/album/0bwfKYDJUaLAmy05HnfkIh"
+      },
+      "artists": [
+        {
+          "name": "Guvna B",
+          "url": "https://open.spotify.com/artist/3XgNFNKLstByGKqplDht0H"
+        },
+        {
+          "name": "DarkoVibes",
+          "url": "https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191808,
+      "name": "Amplify",
+      "url": "https://open.spotify.com/track/7JCUFszcuSHwvcj2ZjQ0T9"
     },
     {
       "album": {
@@ -202,10 +242,28 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-27",
       "duration_ms": 99121,
       "name": "BACKWIDDA",
       "url": "https://open.spotify.com/track/3tVS1wzLbIsWcvF3B1mAM0"
+    },
+    {
+      "album": {
+        "name": "Wavey Shirt Wednesday 3",
+        "url": "https://open.spotify.com/album/279UrcSYHO7QnbUF7KenIa"
+      },
+      "artists": [
+        {
+          "name": "Kamakaze",
+          "url": "https://open.spotify.com/artist/6C0Tazx8fb7cJIhm2s2Ttm"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99121,
+      "name": "BACKWIDDA",
+      "url": "https://open.spotify.com/track/3x1A6SGv0BiVtLO9791nHM"
     },
     {
       "album": {
@@ -444,10 +502,36 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-27",
       "duration_ms": 180000,
       "name": "Exercise",
       "url": "https://open.spotify.com/track/06m4oGdw8zOIT8Y5P5RAZY"
+    },
+    {
+      "album": {
+        "name": "Everything Is Under Control",
+        "url": "https://open.spotify.com/album/0AaIKiYApduLqEzFOx5W4R"
+      },
+      "artists": [
+        {
+          "name": "Manga Saint Hilare",
+          "url": "https://open.spotify.com/artist/0jU1Tdr7ONlgk0Ey9JgXra"
+        },
+        {
+          "name": "MoreNight",
+          "url": "https://open.spotify.com/artist/20lI1hzkqOx9sBNAyjW54N"
+        },
+        {
+          "name": "Kamakaze",
+          "url": "https://open.spotify.com/artist/6C0Tazx8fb7cJIhm2s2Ttm"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Exercise",
+      "url": "https://open.spotify.com/track/7dMnwxwno1vlYvs1DeEarL"
     },
     {
       "album": {
@@ -1067,6 +1151,24 @@
     },
     {
       "album": {
+        "name": "LIFE IN THE BABYLON",
+        "url": "https://open.spotify.com/album/1OefUuFHDAbOH7UKjWalsG"
+      },
+      "artists": [
+        {
+          "name": "JAY10!",
+          "url": "https://open.spotify.com/artist/7C2XkaumLolC29VScZQw9S"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125142,
+      "name": "NAGASAKI",
+      "url": "https://open.spotify.com/track/1T2so38wTa3Ep79XxeTSKY"
+    },
+    {
+      "album": {
         "name": "NAGASAKI",
         "url": "https://open.spotify.com/album/23Q1sb2XLPfMENMxoFQaZL"
       },
@@ -1078,7 +1180,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-27",
       "duration_ms": 125142,
       "name": "NAGASAKI",
       "url": "https://open.spotify.com/track/3hdRDD1AEFO0077sxJKLwb"
@@ -1354,10 +1456,28 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-27",
       "duration_ms": 131960,
       "name": "S.A.S",
       "url": "https://open.spotify.com/track/02a3soEFabQ27HV6PLd1Fc"
+    },
+    {
+      "album": {
+        "name": "WHO DARES WIN",
+        "url": "https://open.spotify.com/album/0uwhRxInwfxEYyAo3Jq23b"
+      },
+      "artists": [
+        {
+          "name": "Joe James",
+          "url": "https://open.spotify.com/artist/2CMGIUxJXzUIEGt2jLpM5z"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131960,
+      "name": "S.A.S",
+      "url": "https://open.spotify.com/track/1E3Y37iIBWfBT91x4PGKfy"
     },
     {
       "album": {
@@ -1559,6 +1679,24 @@
     },
     {
       "album": {
+        "name": "hopefully !",
+        "url": "https://open.spotify.com/album/3QiiMhk65fgCPOKThjZ8iK"
+      },
+      "artists": [
+        {
+          "name": "Loyle Carner",
+          "url": "https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209362,
+      "name": "time to go",
+      "url": "https://open.spotify.com/track/1eBGoAm83Zge9z7XabCvsC"
+    },
+    {
+      "album": {
         "name": "time to go",
         "url": "https://open.spotify.com/album/3XAiDJAvbbL2HHv3MsHOtf"
       },
@@ -1570,7 +1708,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-27",
       "duration_ms": 209362,
       "name": "time to go",
       "url": "https://open.spotify.com/track/7gUoNH4YHiIhyHUi5nRfSV"

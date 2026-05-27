@@ -1,12 +1,12 @@
 {
   "description": "This is Craig David. The essential tracks, all in one playlist.",
-  "num_followers": 104314,
+  "num_followers": 104311,
   "original_name": "This Is Craig David",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahI/gAAAAAC1iufJ9lrJG4/IC0njBIoR",
+  "snapshot_id": "ahORAAAAAACupYJ9PU1Kf28LUeIaV2sD",
   "tracks": [
     {
       "added_at": null,
@@ -231,18 +231,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Greatest Showman: Reimagined",
-        "url": "https://open.spotify.com/album/4dPosP4Io4sDCmeiCxVHW0"
+        "name": "Re-Rewind (The Crowd Say Bo Selecta) (feat. Craig David)",
+        "url": "https://open.spotify.com/album/4d76RCnCY0TcxGYbyS7vLV"
       },
       "artists": [
+        {
+          "name": "Artful Dodger",
+          "url": "https://open.spotify.com/artist/4L8MIM7AXmq6jb0tRix4JT"
+        },
         {
           "name": "Craig David",
           "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
         }
       ],
-      "duration_ms": 227226,
-      "name": "Come Alive - Bonus Track",
-      "url": "https://open.spotify.com/track/606YPVeUuvXnxJ19SVI0rg"
+      "duration_ms": 240704,
+      "name": "Re-Rewind (The Crowd Say Bo Selecta) (feat. Craig David) - Radio Edit",
+      "url": "https://open.spotify.com/track/4xXRTJXGxt7UBAVVOTV6ZN"
     },
     {
       "added_at": null,
@@ -263,22 +267,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Re-Rewind (The Crowd Say Bo Selecta) (feat. Craig David)",
-        "url": "https://open.spotify.com/album/4d76RCnCY0TcxGYbyS7vLV"
+        "name": "The Greatest Showman: Reimagined",
+        "url": "https://open.spotify.com/album/4dPosP4Io4sDCmeiCxVHW0"
       },
       "artists": [
-        {
-          "name": "Artful Dodger",
-          "url": "https://open.spotify.com/artist/4L8MIM7AXmq6jb0tRix4JT"
-        },
         {
           "name": "Craig David",
           "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
         }
       ],
-      "duration_ms": 240704,
-      "name": "Re-Rewind (The Crowd Say Bo Selecta) (feat. Craig David) - Radio Edit",
-      "url": "https://open.spotify.com/track/4xXRTJXGxt7UBAVVOTV6ZN"
+      "duration_ms": 227226,
+      "name": "Come Alive - Bonus Track",
+      "url": "https://open.spotify.com/track/606YPVeUuvXnxJ19SVI0rg"
     },
     {
       "added_at": null,
@@ -839,18 +839,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Signed Sealed Delivered",
-        "url": "https://open.spotify.com/album/4kxN5eHweMRVcBXG1prsFM"
+        "name": "Abracadabra, Pt. 2 (Feat. Craig David)",
+        "url": "https://open.spotify.com/album/1AgWojXgktMU5PEnxJOivQ"
       },
       "artists": [
+        {
+          "name": "Wes Nelson",
+          "url": "https://open.spotify.com/artist/4ktBrNjagCGftyuBLJkATq"
+        },
         {
           "name": "Craig David",
           "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
         }
       ],
-      "duration_ms": 214840,
-      "name": "For Once In My Life",
-      "url": "https://open.spotify.com/track/7hT0NQAxwSytYLjagmIzpL"
+      "duration_ms": 167796,
+      "name": "Abracadabra, Pt. 2 (Feat. Craig David)",
+      "url": "https://open.spotify.com/track/3zgJsdpKe6HTU2A7bZVvqE"
     },
     {
       "added_at": null,
@@ -875,22 +879,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Abracadabra, Pt. 2 (Feat. Craig David)",
-        "url": "https://open.spotify.com/album/1AgWojXgktMU5PEnxJOivQ"
+        "name": "Signed Sealed Delivered",
+        "url": "https://open.spotify.com/album/4kxN5eHweMRVcBXG1prsFM"
       },
       "artists": [
-        {
-          "name": "Wes Nelson",
-          "url": "https://open.spotify.com/artist/4ktBrNjagCGftyuBLJkATq"
-        },
         {
           "name": "Craig David",
           "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
         }
       ],
-      "duration_ms": 167796,
-      "name": "Abracadabra, Pt. 2 (Feat. Craig David)",
-      "url": "https://open.spotify.com/track/3zgJsdpKe6HTU2A7bZVvqE"
+      "duration_ms": 214840,
+      "name": "For Once In My Life",
+      "url": "https://open.spotify.com/track/7hT0NQAxwSytYLjagmIzpL"
     },
     {
       "added_at": null,
@@ -947,6 +947,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Story Goes...",
+        "url": "https://open.spotify.com/album/3tzENLaGyi3Jrb5AaoKrGG"
+      },
+      "artists": [
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        }
+      ],
+      "duration_ms": 240973,
+      "name": "Separate Ways",
+      "url": "https://open.spotify.com/track/4LA0Pv5ftyW8rnDuVNWOF0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "22 (Deluxe)",
         "url": "https://open.spotify.com/album/4VUkXDCZR2aBe28zoIHHnJ"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 219106,
       "name": "Obvious - feat. Muni Long",
       "url": "https://open.spotify.com/track/5hIYTHpbKZp5Rq1amDLL9i"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Story Goes...",
-        "url": "https://open.spotify.com/album/3tzENLaGyi3Jrb5AaoKrGG"
-      },
-      "artists": [
-        {
-          "name": "Craig David",
-          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        }
-      ],
-      "duration_ms": 240973,
-      "name": "Separate Ways",
-      "url": "https://open.spotify.com/track/4LA0Pv5ftyW8rnDuVNWOF0"
     }
   ],
   "unique_name": "This Is Craig David",

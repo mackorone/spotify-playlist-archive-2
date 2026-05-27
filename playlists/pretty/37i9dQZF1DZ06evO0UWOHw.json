@@ -1,12 +1,12 @@
 {
   "description": "This is Victony. The essential tracks, all in one playlist.",
-  "num_followers": 16902,
+  "num_followers": 16921,
   "original_name": "This Is Victony",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahI/gAAAAACGlS2PONcjUFniGVz148pn",
+  "snapshot_id": "ahORAAAAAADeFB9eBxVrUY8/UcTLn4dx",
   "tracks": [
     {
       "added_at": null,
@@ -659,6 +659,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Come Slide",
+        "url": "https://open.spotify.com/album/1w5cLDjyPVMfV1tYbziBk4"
+      },
+      "artists": [
+        {
+          "name": "KFMD",
+          "url": "https://open.spotify.com/artist/1OjbMcNg4moIhv8nnflAAa"
+        },
+        {
+          "name": "Qing Madi",
+          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        },
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 183947,
+      "name": "Come Slide",
+      "url": "https://open.spotify.com/track/75uppmIvjtxiutMdmA8C9c"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Very Stubborn",
         "url": "https://open.spotify.com/album/4qvBmFi6a3W6Fz5Wvzj6X6"
       },
@@ -747,34 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Come Slide",
-        "url": "https://open.spotify.com/album/1w5cLDjyPVMfV1tYbziBk4"
-      },
-      "artists": [
-        {
-          "name": "KFMD",
-          "url": "https://open.spotify.com/artist/1OjbMcNg4moIhv8nnflAAa"
-        },
-        {
-          "name": "Qing Madi",
-          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
-        },
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        },
-        {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 183947,
-      "name": "Come Slide",
-      "url": "https://open.spotify.com/track/75uppmIvjtxiutMdmA8C9c"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "TRINITY",
         "url": "https://open.spotify.com/album/0BbA1RZELLNCFtzRkEEkyQ"
       },
@@ -811,22 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Very Stubborn",
-        "url": "https://open.spotify.com/album/4qvBmFi6a3W6Fz5Wvzj6X6"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 174452,
-      "name": "Amen",
-      "url": "https://open.spotify.com/track/3SdqGKArsHk8bNCUBLVKs7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Symbol of Hope",
         "url": "https://open.spotify.com/album/27V1Jv5291nkV7CVFvQSwK"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 153560,
       "name": "Bebe",
       "url": "https://open.spotify.com/track/1agUOP9cocY7h4gY9t1tYh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Very Stubborn",
+        "url": "https://open.spotify.com/album/4qvBmFi6a3W6Fz5Wvzj6X6"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 174452,
+      "name": "Amen",
+      "url": "https://open.spotify.com/track/3SdqGKArsHk8bNCUBLVKs7"
     },
     {
       "added_at": null,
@@ -959,26 +959,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Selema (Po Po) [Remix]",
-        "url": "https://open.spotify.com/album/4i88bfyHm8i2rgepa4kcrp"
+        "name": "Tayo",
+        "url": "https://open.spotify.com/album/7bYbluaYSIJ8VhkpoDgS85"
       },
       "artists": [
         {
-          "name": "Musa Keys",
-          "url": "https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf"
+          "name": "Ir Sais",
+          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
+        },
+        {
+          "name": "SO7ACE",
+          "url": "https://open.spotify.com/artist/4ibCJiC5KbRm8hhmaXRkIU"
         },
         {
           "name": "Victony",
           "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        },
-        {
-          "name": "Loui",
-          "url": "https://open.spotify.com/artist/53SBWd8nuUmKxJPS9quQi5"
         }
       ],
-      "duration_ms": 331349,
-      "name": "Selema (Po Po) - Remix",
-      "url": "https://open.spotify.com/track/4etb2MbOkYa90Rvf08kMVf"
+      "duration_ms": 162162,
+      "name": "Milli (feat. Victony)",
+      "url": "https://open.spotify.com/track/2GzuO6Yu4viM9XNWZKZmSa"
     }
   ],
   "unique_name": "This Is Victony",

@@ -1,15 +1,79 @@
 {
-  "description": "Future K-Pop hits! (Cover: TAEMIN)",
-  "num_followers": 886850,
+  "description": "Future K-Pop hits! (Cover: AND2BLE (\uc564\ub354\ube14))",
+  "num_followers": 886847,
   "original_name": "K-Pop Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABJa/eac38C0pxRf/AXMXCNaXGlV",
+  "snapshot_id": "AAAAAJIduSuzzkNi1zdnQJhlYYa4tVcQ",
   "tracks": [
     {
-      "added_at": "2026-05-22 09:01:40",
+      "added_at": "2026-05-27 01:09:02",
+      "album": {
+        "name": "Sequence 01: Curiosity",
+        "url": "https://open.spotify.com/album/5fCZmHJgVkaNIf2ZcmlmzD"
+      },
+      "artists": [
+        {
+          "name": "AND2BLE",
+          "url": "https://open.spotify.com/artist/3vAHTO5HJ4FmzrLmVbOKRF"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "Curious",
+      "url": "https://open.spotify.com/track/3rg00htlOp0UuBZcAMGkwJ"
+    },
+    {
+      "added_at": "2026-05-27 01:09:02",
+      "album": {
+        "name": "No School Tomorrow",
+        "url": "https://open.spotify.com/album/6nRIRE0BPMRd2lrixYYXjN"
+      },
+      "artists": [
+        {
+          "name": "ALPHA DRIVE ONE",
+          "url": "https://open.spotify.com/artist/1Sal7hVz3weo0mvYZPiWHT"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "OMG!",
+      "url": "https://open.spotify.com/track/2tMfEwk96cjTSRTelQkwx6"
+    },
+    {
+      "added_at": "2026-05-27 01:09:02",
+      "album": {
+        "name": "PWLT",
+        "url": "https://open.spotify.com/album/4KvHOjRNJ6RYFJEyNFRm79"
+      },
+      "artists": [
+        {
+          "name": "Krystal",
+          "url": "https://open.spotify.com/artist/253YRxmnmB0BcRhFtj1tBI"
+        }
+      ],
+      "duration_ms": 218945,
+      "name": "PWLT",
+      "url": "https://open.spotify.com/track/7kLcolBu5DbHBik5ZEKk9m"
+    },
+    {
+      "added_at": "2026-05-27 01:09:02",
+      "album": {
+        "name": "My Only One",
+        "url": "https://open.spotify.com/album/5S1GgfexkW4slItt1bb6Xt"
+      },
+      "artists": [
+        {
+          "name": "Jang Hyun Seung",
+          "url": "https://open.spotify.com/artist/0Y669kGV5Gru5RaumXTxtV"
+        }
+      ],
+      "duration_ms": 167000,
+      "name": "My Only One",
+      "url": "https://open.spotify.com/track/0vfX3sYP6YogtII1Ihhc8u"
+    },
+    {
+      "added_at": "2026-05-27 01:09:02",
       "album": {
         "name": "PERMISSION",
         "url": "https://open.spotify.com/album/3jMu5Qgsbr56M6p4yO9u5O"
@@ -25,7 +89,47 @@
       "url": "https://open.spotify.com/track/4o9rKegcsPEFeLt2TZNNpj"
     },
     {
-      "added_at": "2026-05-22 09:01:40",
+      "added_at": "2026-05-27 01:09:02",
+      "album": {
+        "name": "Blow Your Mind",
+        "url": "https://open.spotify.com/album/1D1qNLuTQCq0jhXCrefnJ9"
+      },
+      "artists": [
+        {
+          "name": "Yorch",
+          "url": "https://open.spotify.com/artist/5okdmXsuAKNIXebXJ5MyIl"
+        },
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        },
+        {
+          "name": "Bryan Chase",
+          "url": "https://open.spotify.com/artist/0qOcjTObT75YJLbDBfSgXw"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "Blow Your Mind (feat. Sik-K, Bryan Chase)",
+      "url": "https://open.spotify.com/track/4XdW9YaG8lXOYXswzxmuEB"
+    },
+    {
+      "added_at": "2026-05-27 01:09:02",
+      "album": {
+        "name": "SCENEDROME",
+        "url": "https://open.spotify.com/album/0msC9kyzmtznRwIxwafISH"
+      },
+      "artists": [
+        {
+          "name": "RESCENE",
+          "url": "https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S"
+        }
+      ],
+      "duration_ms": 181560,
+      "name": "LOVE ATTACK",
+      "url": "https://open.spotify.com/track/6uosenLUNFZtOIih5T0qfV"
+    },
+    {
+      "added_at": "2026-05-27 01:09:02",
       "album": {
         "name": "Spring Breeze, Again (Original Soundtrack from WANNA ONE GO : Back to Base)",
         "url": "https://open.spotify.com/album/0K5oVVrkQKMOm5NhM8fwNg"
@@ -41,7 +145,7 @@
       "url": "https://open.spotify.com/track/5Kbuqu5de3JY22BLNJBLco"
     },
     {
-      "added_at": "2026-05-22 09:01:40",
+      "added_at": "2026-05-27 01:09:02",
       "album": {
         "name": "BUMPA",
         "url": "https://open.spotify.com/album/7je4W0rO93omBFfKDmkjNn"
@@ -57,7 +161,7 @@
       "url": "https://open.spotify.com/track/6GSdBUjAnJmIjxMAYz5WCa"
     },
     {
-      "added_at": "2026-05-22 09:01:40",
+      "added_at": "2026-05-27 01:09:02",
       "album": {
         "name": "Love Is Enough (from Sold Out On You (Original Soundtrack) Part 10)",
         "url": "https://open.spotify.com/album/6EuFn4FZ5t6W7bdYShepWZ"
@@ -73,7 +177,23 @@
       "url": "https://open.spotify.com/track/12j2uOHURUckRvAuFPJKdR"
     },
     {
-      "added_at": "2026-05-22 09:01:40",
+      "added_at": "2026-05-27 01:09:02",
+      "album": {
+        "name": "IDKI",
+        "url": "https://open.spotify.com/album/43W5Qp6cXSuFrHhLHOi3iS"
+      },
+      "artists": [
+        {
+          "name": "PENIEL",
+          "url": "https://open.spotify.com/artist/21EUYgHJLDUeG72eDEmTx4"
+        }
+      ],
+      "duration_ms": 143000,
+      "name": "IDKI",
+      "url": "https://open.spotify.com/track/5G6hbkya8ZQJnErMotSSzD"
+    },
+    {
+      "added_at": "2026-05-27 01:09:02",
       "album": {
         "name": "NO REASON",
         "url": "https://open.spotify.com/album/4dTfr7yYcXjLZQEhUsYwiM"
@@ -89,7 +209,7 @@
       "url": "https://open.spotify.com/track/5uBE6QvvlMRiM0v74T4gEH"
     },
     {
-      "added_at": "2026-05-22 09:01:40",
+      "added_at": "2026-05-27 01:09:02",
       "album": {
         "name": "Said & Done",
         "url": "https://open.spotify.com/album/1TnfxlOrAmE8d2ThZxYNnm"
@@ -105,7 +225,7 @@
       "url": "https://open.spotify.com/track/1KWKmkMB8vnB4BvJdVIQuJ"
     },
     {
-      "added_at": "2026-05-22 09:01:40",
+      "added_at": "2026-05-27 01:09:02",
       "album": {
         "name": "YOUTH ERROR",
         "url": "https://open.spotify.com/album/554ZAVXkeiPlgSpcpf0Mnj"
@@ -121,7 +241,7 @@
       "url": "https://open.spotify.com/track/4FsqRuZd7lPLSKGqy8skuS"
     },
     {
-      "added_at": "2026-05-22 09:01:40",
+      "added_at": "2026-05-27 01:09:02",
       "album": {
         "name": "Yarrr",
         "url": "https://open.spotify.com/album/2xMOUARfRlDtpJD1PlCNtQ"
@@ -137,7 +257,7 @@
       "url": "https://open.spotify.com/track/4BT0LtYtDN8bBaCPN0CPo1"
     },
     {
-      "added_at": "2026-05-22 09:01:40",
+      "added_at": "2026-05-27 01:09:02",
       "album": {
         "name": "TA TA",
         "url": "https://open.spotify.com/album/585JaGbmRMq8qFAN3QBs0k"
@@ -153,7 +273,7 @@
       "url": "https://open.spotify.com/track/6pW5jh7hSuv4rNdmmeovmp"
     },
     {
-      "added_at": "2026-05-22 09:01:40",
+      "added_at": "2026-05-27 01:09:02",
       "album": {
         "name": "Stolen (KR ver.)",
         "url": "https://open.spotify.com/album/4RaePGZkXJoZrjfG47n2wH"
@@ -169,7 +289,7 @@
       "url": "https://open.spotify.com/track/7eMzLJkazXNJT2QGyqq1qZ"
     },
     {
-      "added_at": "2026-05-22 09:01:40",
+      "added_at": "2026-05-27 01:09:02",
       "album": {
         "name": "FIX OFF Desire Project : ORIGIN",
         "url": "https://open.spotify.com/album/5PzbW9PKw8fMzuHiRp8Vku"
@@ -185,7 +305,7 @@
       "url": "https://open.spotify.com/track/7M8d5kcqt7zLDwRQS5Kp2R"
     },
     {
-      "added_at": "2026-05-22 09:01:40",
+      "added_at": "2026-05-27 01:09:02",
       "album": {
         "name": "Feel It",
         "url": "https://open.spotify.com/album/2KQRcZndtv8uIlxEomWIvv"
@@ -201,7 +321,7 @@
       "url": "https://open.spotify.com/track/601PE19munEG1ROxnvzL31"
     },
     {
-      "added_at": "2026-05-22 09:01:40",
+      "added_at": "2026-05-27 01:09:02",
       "album": {
         "name": "AREA X",
         "url": "https://open.spotify.com/album/3y7wrIeJ0o7OvlQLLPOYTJ"
@@ -221,7 +341,7 @@
       "url": "https://open.spotify.com/track/7KCrASlXt3VnQ90LTOGWEK"
     },
     {
-      "added_at": "2026-05-22 09:01:40",
+      "added_at": "2026-05-27 01:09:02",
       "album": {
         "name": "Love Is Enough (from Sold Out On You (Original Soundtrack) Part 7)",
         "url": "https://open.spotify.com/album/4OCK8PY77FI8t0wRFCFfO2"
@@ -237,7 +357,7 @@
       "url": "https://open.spotify.com/track/6MS3ZMuVHKSE4yi84kKVNS"
     },
     {
-      "added_at": "2026-05-22 09:01:40",
+      "added_at": "2026-05-27 01:09:02",
       "album": {
         "name": "INYUN Part.1",
         "url": "https://open.spotify.com/album/5LgCRrc9Ew4Vz1tgCr1QMM"
@@ -253,7 +373,7 @@
       "url": "https://open.spotify.com/track/0xCuNHv88Mdyigv64zOexH"
     },
     {
-      "added_at": "2026-05-22 09:01:40",
+      "added_at": "2026-05-27 01:09:02",
       "album": {
         "name": "Us",
         "url": "https://open.spotify.com/album/1LRDEk3bmvqWGBvRMCfzgb"
@@ -269,7 +389,7 @@
       "url": "https://open.spotify.com/track/5r5skMXXVwTbQy6r6NgQD9"
     },
     {
-      "added_at": "2026-05-22 09:01:40",
+      "added_at": "2026-05-27 01:09:02",
       "album": {
         "name": "Orange Record",
         "url": "https://open.spotify.com/album/7rW4824w9TWuhVlccc8QSV"
@@ -285,7 +405,7 @@
       "url": "https://open.spotify.com/track/7mjwxwPFr6hYkWXF465WJT"
     },
     {
-      "added_at": "2026-05-22 09:01:40",
+      "added_at": "2026-05-27 01:09:02",
       "album": {
         "name": "WE WANNA GO (Original Soundtrack from WANNA ONE GO : Back to Base)",
         "url": "https://open.spotify.com/album/0prJyGW02smdoNIKjA3xst"
@@ -301,7 +421,7 @@
       "url": "https://open.spotify.com/track/2babSeg3ovLuH45EEfqjI0"
     },
     {
-      "added_at": "2026-05-22 09:01:40",
+      "added_at": "2026-05-27 01:09:02",
       "album": {
         "name": "GREENGREEN",
         "url": "https://open.spotify.com/album/2zEdi42kfgLEySoikGJMFT"
@@ -317,7 +437,7 @@
       "url": "https://open.spotify.com/track/2vKNzC9T3kdU2JECcvob3V"
     },
     {
-      "added_at": "2026-05-22 09:01:40",
+      "added_at": "2026-05-27 01:09:02",
       "album": {
         "name": "Stuck",
         "url": "https://open.spotify.com/album/1WBrel8w5536mVdYNnmQko"
@@ -337,7 +457,7 @@
       "url": "https://open.spotify.com/track/2gdhV5aSdF3L5pfp7SEPRx"
     },
     {
-      "added_at": "2026-05-22 09:01:40",
+      "added_at": "2026-05-27 01:09:02",
       "album": {
         "name": "Someday (from Sold Out On You (Original Soundtrack) Part 6)",
         "url": "https://open.spotify.com/album/5hM7b87OXLRFEtpVamPN6j"
@@ -353,7 +473,7 @@
       "url": "https://open.spotify.com/track/09KEQxEnaevGlnGn31fD1b"
     },
     {
-      "added_at": "2026-05-22 09:01:40",
+      "added_at": "2026-05-27 01:09:02",
       "album": {
         "name": "FEELM",
         "url": "https://open.spotify.com/album/0U8OEGNR5aYwlY3TLXGVYS"
@@ -369,7 +489,7 @@
       "url": "https://open.spotify.com/track/29WdT0CvbaVoN5pbke3hXX"
     },
     {
-      "added_at": "2026-05-22 09:01:40",
+      "added_at": "2026-05-27 01:09:02",
       "album": {
         "name": "Stolen",
         "url": "https://open.spotify.com/album/5GRlBvHo9Rz00EWzS1o1Vu"
@@ -385,7 +505,7 @@
       "url": "https://open.spotify.com/track/1YudzC0dQ6SJo0WgHA8kal"
     },
     {
-      "added_at": "2026-05-22 09:01:40",
+      "added_at": "2026-05-27 01:09:02",
       "album": {
         "name": "RE:FLECT",
         "url": "https://open.spotify.com/album/6uIg4IqncYwG3Ms0aMsTFx"
@@ -401,7 +521,7 @@
       "url": "https://open.spotify.com/track/7CZuzaa3vc92qg3Pv3sACj"
     },
     {
-      "added_at": "2026-05-22 09:01:40",
+      "added_at": "2026-05-27 01:09:02",
       "album": {
         "name": "First Love Is a Curse",
         "url": "https://open.spotify.com/album/2iENz685ly97rfApjgS1cy"
@@ -417,7 +537,7 @@
       "url": "https://open.spotify.com/track/6TW9ACpiJzS27WqiTQNN2T"
     },
     {
-      "added_at": "2026-05-22 09:01:40",
+      "added_at": "2026-05-27 01:09:02",
       "album": {
         "name": "ReDeFINE",
         "url": "https://open.spotify.com/album/78OxOrAiiseIh63k1LmUWX"
@@ -433,7 +553,7 @@
       "url": "https://open.spotify.com/track/5GFthY4y9WiwEG68wNdGn1"
     },
     {
-      "added_at": "2026-05-22 09:01:40",
+      "added_at": "2026-05-27 01:09:02",
       "album": {
         "name": "Off Hours",
         "url": "https://open.spotify.com/album/6i9BLGR16gdGMCJGpN8clh"
@@ -449,7 +569,7 @@
       "url": "https://open.spotify.com/track/4vKESbCDvQW5Ih9JZ3Erzt"
     },
     {
-      "added_at": "2026-05-22 09:01:40",
+      "added_at": "2026-05-27 01:09:02",
       "album": {
         "name": "Childish",
         "url": "https://open.spotify.com/album/7Hkl0TZIfl54wKGX9KQD5K"
@@ -465,7 +585,7 @@
       "url": "https://open.spotify.com/track/0HmrJvU8VaAp8JkFM30POa"
     },
     {
-      "added_at": "2026-05-22 09:01:40",
+      "added_at": "2026-05-27 01:09:02",
       "album": {
         "name": "Key Beats",
         "url": "https://open.spotify.com/album/0kBBaam9McJndyPBpfkWOK"
@@ -481,7 +601,7 @@
       "url": "https://open.spotify.com/track/78LggIu7ieohPUuP91SmBI"
     },
     {
-      "added_at": "2026-05-22 09:01:40",
+      "added_at": "2026-05-27 01:09:02",
       "album": {
         "name": "We Are UNCHILD",
         "url": "https://open.spotify.com/album/4NVBboBjuyeBp0qIojiDbP"
@@ -497,7 +617,7 @@
       "url": "https://open.spotify.com/track/4wElGORjS56XtTvOJTPHVb"
     },
     {
-      "added_at": "2026-05-22 09:01:40",
+      "added_at": "2026-05-27 01:09:02",
       "album": {
         "name": "Glow - The 1st Mini Album",
         "url": "https://open.spotify.com/album/0ynqAxPR0GtSUMf1uMWFIT"
@@ -513,7 +633,7 @@
       "url": "https://open.spotify.com/track/0Tb03kTDMdEl0a4QEtvKuQ"
     },
     {
-      "added_at": "2026-05-22 09:01:40",
+      "added_at": "2026-05-27 01:09:02",
       "album": {
         "name": "TWS 5th Mini Album \u2018NO TRAGEDY\u2019",
         "url": "https://open.spotify.com/album/17ICljXQ2I4bsPYpqkf5co"
@@ -529,7 +649,7 @@
       "url": "https://open.spotify.com/track/2X9RbCpuBRR6ztXn83AK5U"
     },
     {
-      "added_at": "2026-05-22 09:01:40",
+      "added_at": "2026-05-27 01:09:02",
       "album": {
         "name": "4th Mini Album 'CEREMONY'",
         "url": "https://open.spotify.com/album/22TsuaiFzj7i9cIKFwKdyI"
@@ -545,7 +665,7 @@
       "url": "https://open.spotify.com/track/7CoEOvI85tbkhdgJRd8XfC"
     },
     {
-      "added_at": "2026-05-22 09:01:40",
+      "added_at": "2026-05-27 01:09:02",
       "album": {
         "name": "Mmchk",
         "url": "https://open.spotify.com/album/5YHLQZd6OjbaP5hMVts8Y7"
@@ -561,7 +681,7 @@
       "url": "https://open.spotify.com/track/5zwbPkrAUdR95cNStyBe82"
     },
     {
-      "added_at": "2026-05-22 09:01:40",
+      "added_at": "2026-05-27 01:09:02",
       "album": {
         "name": "OVEREXPOSED",
         "url": "https://open.spotify.com/album/40cJq43i8k7NbOZh3Oh7gK"
@@ -577,7 +697,7 @@
       "url": "https://open.spotify.com/track/7LRaCfIHEdDSdDJkTO2l2A"
     },
     {
-      "added_at": "2026-05-22 09:01:40",
+      "added_at": "2026-05-27 01:09:02",
       "album": {
         "name": "we don't go to bed tonight",
         "url": "https://open.spotify.com/album/1O7eVWHIgUPkkLlwp9PnNk"
@@ -593,7 +713,7 @@
       "url": "https://open.spotify.com/track/4YYLKkdYHTiqHLuwLE2Bnl"
     },
     {
-      "added_at": "2026-05-22 09:01:40",
+      "added_at": "2026-05-27 01:09:02",
       "album": {
         "name": "So Cute",
         "url": "https://open.spotify.com/album/2pdrozDMXT6gnXBbKGeMfI"
@@ -609,7 +729,7 @@
       "url": "https://open.spotify.com/track/0M5sCYya9sa2LOz551IBeI"
     },
     {
-      "added_at": "2026-05-22 09:01:40",
+      "added_at": "2026-05-27 01:09:02",
       "album": {
         "name": "REDRED",
         "url": "https://open.spotify.com/album/52J8GQoNp2vgDJ6992NjiM"
@@ -625,7 +745,7 @@
       "url": "https://open.spotify.com/track/2fCwv2ppU5nTRTckomIGsd"
     },
     {
-      "added_at": "2026-05-22 09:01:40",
+      "added_at": "2026-05-27 01:09:02",
       "album": {
         "name": "SKINZ 1st Mini Album [SKINZ IS SKINZ]",
         "url": "https://open.spotify.com/album/7FxJEXRrfsX80s8E3Tf3TW"
@@ -641,7 +761,7 @@
       "url": "https://open.spotify.com/track/4p3WTsxsKj27mMwjooeypG"
     },
     {
-      "added_at": "2026-05-22 09:01:40",
+      "added_at": "2026-05-27 01:09:02",
       "album": {
         "name": "Who is she",
         "url": "https://open.spotify.com/album/3oKZB7YNsYSvmI4YQjhtdS"
@@ -657,23 +777,7 @@
       "url": "https://open.spotify.com/track/16iOs2f9G9qRknDgM9cfAw"
     },
     {
-      "added_at": "2026-05-22 09:01:40",
-      "album": {
-        "name": "Caligo Pt.2",
-        "url": "https://open.spotify.com/album/1vkQIKe7n01Jxic7csfA4P"
-      },
-      "artists": [
-        {
-          "name": "PLAVE",
-          "url": "https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Born Savage",
-      "url": "https://open.spotify.com/track/21AdIbIIP9cFgwnwEnEl07"
-    },
-    {
-      "added_at": "2026-05-22 09:01:40",
+      "added_at": "2026-05-27 01:09:02",
       "album": {
         "name": "Ode to Love - The 1st Album",
         "url": "https://open.spotify.com/album/2OYOvhfBYA43XD7nd366iX"
@@ -689,7 +793,7 @@
       "url": "https://open.spotify.com/track/08aIVRb9ucpxKdAJb50HAx"
     },
     {
-      "added_at": "2026-05-22 09:01:40",
+      "added_at": "2026-05-27 01:09:02",
       "album": {
         "name": "seriously unserious",
         "url": "https://open.spotify.com/album/5iK4Cr6djzpTWvuPCxCosm"
@@ -709,7 +813,7 @@
       "url": "https://open.spotify.com/track/4zsxh0FkRntWV1vA7ckhHQ"
     },
     {
-      "added_at": "2026-05-22 09:01:40",
+      "added_at": "2026-05-27 01:09:02",
       "album": {
         "name": "Runaway",
         "url": "https://open.spotify.com/album/6wL6HetMdQwsTqZzCBpGGJ"
@@ -723,186 +827,6 @@
       "duration_ms": 182000,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/1x0mG2CyQW5mjBX17ZfTUG"
-    },
-    {
-      "added_at": "2026-05-22 09:01:40",
-      "album": {
-        "name": "Absolute Value of Romance OST Part 2",
-        "url": "https://open.spotify.com/album/6wOkUWVosU5aIi7NZqfU08"
-      },
-      "artists": [
-        {
-          "name": "SAY MY NAME",
-          "url": "https://open.spotify.com/artist/1YPfjEiECyLURKu09GfilS"
-        }
-      ],
-      "duration_ms": 204229,
-      "name": "Sweet & Sour",
-      "url": "https://open.spotify.com/track/2XtHZDeNTUvOEsnHAI8HGo"
-    },
-    {
-      "added_at": "2026-05-22 09:01:40",
-      "album": {
-        "name": "What's a girl to do",
-        "url": "https://open.spotify.com/album/1hywbmcXqc373aldNqWUIS"
-      },
-      "artists": [
-        {
-          "name": "DAYOUNG",
-          "url": "https://open.spotify.com/artist/5SQHuBLqaasC50vOL9s8Mz"
-        }
-      ],
-      "duration_ms": 130000,
-      "name": "What's a girl to do",
-      "url": "https://open.spotify.com/track/1JymZBT39MAPXffPcKkaPW"
-    },
-    {
-      "added_at": "2026-05-22 09:01:40",
-      "album": {
-        "name": "DEFINITION",
-        "url": "https://open.spotify.com/album/4I0KA0FawfWQ92bSq1uHPg"
-      },
-      "artists": [
-        {
-          "name": "AMPERS&ONE",
-          "url": "https://open.spotify.com/artist/4T0Chh3DGxJrEs3gM0biqg"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "GOD",
-      "url": "https://open.spotify.com/track/4DqKlR8BqPCuodaTrnea8g"
-    },
-    {
-      "added_at": "2026-05-22 09:01:40",
-      "album": {
-        "name": "The First Wave",
-        "url": "https://open.spotify.com/album/7GMWvw5fpp3bIxK0nRz7tw"
-      },
-      "artists": [
-        {
-          "name": "hrtz.wav",
-          "url": "https://open.spotify.com/artist/4xCz4boMkoSCzVWULUNeVg"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "NINETEEN",
-      "url": "https://open.spotify.com/track/2fBzTfPEf46iuJvZpTD5gp"
-    },
-    {
-      "added_at": "2026-05-22 09:01:40",
-      "album": {
-        "name": "The Scarecrow, Pt. 1 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/6z9enV36hAPO2NW7c7FwN1"
-      },
-      "artists": [
-        {
-          "name": "SOYOU",
-          "url": "https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb"
-        }
-      ],
-      "duration_ms": 233127,
-      "name": "Tonight",
-      "url": "https://open.spotify.com/track/46bmwEzNQvaJN2DfTWf5Oj"
-    },
-    {
-      "added_at": "2026-05-22 09:01:40",
-      "album": {
-        "name": "1ST EP ALBUM [KEYVITUP]",
-        "url": "https://open.spotify.com/album/4LP65OY24zeyZRNd4GxhCH"
-      },
-      "artists": [
-        {
-          "name": "KEYVITUP",
-          "url": "https://open.spotify.com/artist/5t5DHjgbcPnJGZJyz3YCnv"
-        }
-      ],
-      "duration_ms": 158000,
-      "name": "KEYVITUP",
-      "url": "https://open.spotify.com/track/5BKwXFDUy903O85ATXdu5e"
-    },
-    {
-      "added_at": "2026-05-22 09:01:40",
-      "album": {
-        "name": "FLOWERING",
-        "url": "https://open.spotify.com/album/0e4X6KNw1He0mlZ2BK9Loz"
-      },
-      "artists": [
-        {
-          "name": "AKMU",
-          "url": "https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv"
-        }
-      ],
-      "duration_ms": 276920,
-      "name": "Joy, Sorrow, A Beautiful Heart",
-      "url": "https://open.spotify.com/track/3yKUJbZjAWlteUSjnNv3UK"
-    },
-    {
-      "added_at": "2026-05-22 09:01:40",
-      "album": {
-        "name": "A & E",
-        "url": "https://open.spotify.com/album/7droYw9f5Gby9pgjzGH8yh"
-      },
-      "artists": [
-        {
-          "name": "Park Hyo Shin",
-          "url": "https://open.spotify.com/artist/57htMBtzpppc1yoXgjbslj"
-        }
-      ],
-      "duration_ms": 295007,
-      "name": "AE",
-      "url": "https://open.spotify.com/track/1JPbaf6KZmhKVWBuJVGZUa"
-    },
-    {
-      "added_at": "2026-05-22 09:01:40",
-      "album": {
-        "name": "Feel It Too",
-        "url": "https://open.spotify.com/album/7kOL9ST8z2JlVIOVKCs3hB"
-      },
-      "artists": [
-        {
-          "name": "Min Jiwoon",
-          "url": "https://open.spotify.com/artist/5kgihglqsCaqCbtsJ0ef6v"
-        }
-      ],
-      "duration_ms": 198440,
-      "name": "Feel It Too",
-      "url": "https://open.spotify.com/track/7pa2CHENwzDO82W1UDpiJp"
-    },
-    {
-      "added_at": "2026-05-22 09:01:40",
-      "album": {
-        "name": "HMPH!",
-        "url": "https://open.spotify.com/album/0p6ikTEKKhKqtOa6MdqNvn"
-      },
-      "artists": [
-        {
-          "name": "PLAVE",
-          "url": "https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG"
-        },
-        {
-          "name": "SOLE",
-          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "HMPH!",
-      "url": "https://open.spotify.com/track/2CbgyivbjNuNrBuEDMps23"
-    },
-    {
-      "added_at": "2026-05-22 09:01:40",
-      "album": {
-        "name": "SOMIN 1st EP 'UNVEIL'",
-        "url": "https://open.spotify.com/album/7kzDwWj4jOfCl2IYepW4z1"
-      },
-      "artists": [
-        {
-          "name": "SOMIN",
-          "url": "https://open.spotify.com/artist/1J3BfBC9Z9VRIpEUB64Rbw"
-        }
-      ],
-      "duration_ms": 165910,
-      "name": "Backseat",
-      "url": "https://open.spotify.com/track/0AoI4bREI1xef36mJh2WZ3"
     }
   ],
   "unique_name": "K-Pop Rising",

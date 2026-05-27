@@ -1,6 +1,6 @@
 {
   "description": "Symphonic and power metal at its most epic. Cover: Sabaton\n",
-  "num_followers": 822043,
+  "num_followers": 822065,
   "original_name": "Epic & Melodic",
   "owner": {
     "name": "Spotify",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2026-03-22 01:56:31",
       "album": {
-        "name": "The Past is Forever",
-        "url": "https://open.spotify.com/album/1UlmllsirMUgbrAnJOdeMF"
-      },
-      "artists": [
-        {
-          "name": "Elvenking",
-          "url": "https://open.spotify.com/artist/09b5OcuIELTdD7FfzQzcdB"
-        }
-      ],
-      "duration_ms": 228461,
-      "name": "The Past is Forever",
-      "url": "https://open.spotify.com/track/72k871NJTB8tVUSlZw1c6P"
-    },
-    {
-      "added_at": "2026-03-22 01:56:31",
-      "album": {
         "name": "On the Sea",
         "url": "https://open.spotify.com/album/6HF4boalvZJFeDAafJqCaR"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 233343,
       "name": "On the Sea",
       "url": "https://open.spotify.com/track/140YrjpNRIohRgiUed4OIw"
+    },
+    {
+      "added_at": "2026-03-22 01:56:31",
+      "album": {
+        "name": "The Past is Forever",
+        "url": "https://open.spotify.com/album/1UlmllsirMUgbrAnJOdeMF"
+      },
+      "artists": [
+        {
+          "name": "Elvenking",
+          "url": "https://open.spotify.com/artist/09b5OcuIELTdD7FfzQzcdB"
+        }
+      ],
+      "duration_ms": 228461,
+      "name": "The Past is Forever",
+      "url": "https://open.spotify.com/track/72k871NJTB8tVUSlZw1c6P"
     },
     {
       "added_at": "2026-03-22 01:56:31",
@@ -1435,6 +1435,26 @@
     {
       "added_at": "2026-03-22 01:56:31",
       "album": {
+        "name": "In The Eyes Of The Enemy",
+        "url": "https://open.spotify.com/album/4K6UjlrsOStac2Grk4V6qy"
+      },
+      "artists": [
+        {
+          "name": "Grailknights",
+          "url": "https://open.spotify.com/artist/3WKWdx78zcqsj2RkN5ldqR"
+        },
+        {
+          "name": "Chiara Tricarico",
+          "url": "https://open.spotify.com/artist/1htSCdZGjJNC2huPxA7pHi"
+        }
+      ],
+      "duration_ms": 236573,
+      "name": "In The Eyes Of The Enemy",
+      "url": "https://open.spotify.com/track/6KPiJfK9OQEHpHhhDjWb9b"
+    },
+    {
+      "added_at": "2026-03-22 01:56:31",
+      "album": {
         "name": "Until the End",
         "url": "https://open.spotify.com/album/2qGsmSyz7OTBTGF6lQDt8X"
       },
@@ -1467,26 +1487,6 @@
       "duration_ms": 216957,
       "name": "Awakening",
       "url": "https://open.spotify.com/track/5qV7D1UiRkWPu2HOu7312N"
-    },
-    {
-      "added_at": "2026-03-22 01:56:31",
-      "album": {
-        "name": "In The Eyes Of The Enemy",
-        "url": "https://open.spotify.com/album/4K6UjlrsOStac2Grk4V6qy"
-      },
-      "artists": [
-        {
-          "name": "Grailknights",
-          "url": "https://open.spotify.com/artist/3WKWdx78zcqsj2RkN5ldqR"
-        },
-        {
-          "name": "Chiara Tricarico",
-          "url": "https://open.spotify.com/artist/1htSCdZGjJNC2huPxA7pHi"
-        }
-      ],
-      "duration_ms": 236573,
-      "name": "In The Eyes Of The Enemy",
-      "url": "https://open.spotify.com/track/6KPiJfK9OQEHpHhhDjWb9b"
     },
     {
       "added_at": "2026-03-22 01:56:31",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2026-03-22 01:56:31",
       "album": {
-        "name": "As Empires Fall",
-        "url": "https://open.spotify.com/album/0ZUFNx8WwNfdIaFUUp1Wbk"
-      },
-      "artists": [
-        {
-          "name": "Bloodbound",
-          "url": "https://open.spotify.com/artist/6nf7iwR6AoROxfUKZWd1r6"
-        }
-      ],
-      "duration_ms": 234440,
-      "name": "As Empires Fall",
-      "url": "https://open.spotify.com/track/07LBI2Yn6yQxyDnzVqgkj5"
-    },
-    {
-      "added_at": "2026-03-22 01:56:31",
-      "album": {
         "name": "Pop Metal",
         "url": "https://open.spotify.com/album/3chKNZRdtp9IFFIgzYIWoz"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 191999,
       "name": "Empire",
       "url": "https://open.spotify.com/track/6oOZSrzBB2QTSRY3qoWaYy"
+    },
+    {
+      "added_at": "2026-03-22 01:56:31",
+      "album": {
+        "name": "As Empires Fall",
+        "url": "https://open.spotify.com/album/0ZUFNx8WwNfdIaFUUp1Wbk"
+      },
+      "artists": [
+        {
+          "name": "Bloodbound",
+          "url": "https://open.spotify.com/artist/6nf7iwR6AoROxfUKZWd1r6"
+        }
+      ],
+      "duration_ms": 234440,
+      "name": "As Empires Fall",
+      "url": "https://open.spotify.com/track/07LBI2Yn6yQxyDnzVqgkj5"
     },
     {
       "added_at": "2026-03-22 01:56:31",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2026-03-22 01:56:31",
       "album": {
-        "name": "Raptor Squad Attack",
-        "url": "https://open.spotify.com/album/2K5oYKC8PEJQJlPpAL4wd8"
-      },
-      "artists": [
-        {
-          "name": "Victorius",
-          "url": "https://open.spotify.com/artist/2INeE2VBbawRQNI6ezc4lN"
-        }
-      ],
-      "duration_ms": 154972,
-      "name": "Raptor Squad Attack",
-      "url": "https://open.spotify.com/track/2R69sY2isStlfXbbhfZxRP"
-    },
-    {
-      "added_at": "2026-03-22 01:56:31",
-      "album": {
         "name": "Warning Sign",
         "url": "https://open.spotify.com/album/2XiflLd5EaQLlTTTDElXwH"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 259068,
       "name": "Warning Sign",
       "url": "https://open.spotify.com/track/5VnkSM5gqh2wfkoqb0H3wZ"
+    },
+    {
+      "added_at": "2026-03-22 01:56:31",
+      "album": {
+        "name": "Raptor Squad Attack",
+        "url": "https://open.spotify.com/album/2K5oYKC8PEJQJlPpAL4wd8"
+      },
+      "artists": [
+        {
+          "name": "Victorius",
+          "url": "https://open.spotify.com/artist/2INeE2VBbawRQNI6ezc4lN"
+        }
+      ],
+      "duration_ms": 154972,
+      "name": "Raptor Squad Attack",
+      "url": "https://open.spotify.com/track/2R69sY2isStlfXbbhfZxRP"
     }
   ],
   "unique_name": "Epic & Melodic",

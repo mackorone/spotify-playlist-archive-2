@@ -2,15 +2,16 @@
 
 ### [Bipolar Superstar Radio](https://open.spotify.com/playlist/37i9dQZF1E4tfR7pI5SYMM)
 
-> With Autoimmune, Pinned Comment, Dystopian X Vision and more
+> With Lockjaw, Dystopian X Vision, Jon Drake and more
 
-692 songs - 1 day 23 hr 57 min
+693 songs - 2 day 0 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ['Til They Clean Me From the Side of the Road](https://open.spotify.com/track/4Pdv0IgOCgFHfbVhCVBUcJ) | [Good Goes Away](https://open.spotify.com/artist/6zYFqvHjgqIx14JH45XJ0r) | [My Queen, Turn Me Upside Down](https://open.spotify.com/album/1tlVOzNFnflL6zvlw2l2T6) | 3:10 | 2026-02-10 | 2026-02-21 |
 | [\(Don\`t Wait For\) The Next Call \- Feat Sixxkiller](https://open.spotify.com/track/6rORsjerzCWPwCawd8T76m) | [TEXNES](https://open.spotify.com/artist/1bDQGkc4P3UDRvENDr6pde), [Sixxkiller](https://open.spotify.com/artist/2XhQa8RueUzp4jZXC0zbQJ) | [\(Don\`t Wait For\) The Next Call](https://open.spotify.com/album/4Fqy1lBu3VebzMWPAsxz6b) | 2:49 | 2025-11-19 | 2026-03-15 |
 | [18 Carat Dust](https://open.spotify.com/track/60oIlu4QJOtt3iWOOsOTq3) | [The Wounded](https://open.spotify.com/artist/1zdzrDVv3fmQUPeBcmJ3RK) | [Atlantic](https://open.spotify.com/album/69aOVPAKmXdexv5wHf7Z3M) | 4:10 | 2025-11-19 | 2025-12-15 |
+| [84](https://open.spotify.com/track/0Vl5voXWCbcXVnQKqJrIty) | [Aeons in Solitude](https://open.spotify.com/artist/5vkxZdR9Y9p4xnWFfMYMdl) | [Black Lumina](https://open.spotify.com/album/2IAXXlc6MTNMNmjjRDiUUE) | 6:24 | 2026-05-27 |  |
 | [A Million Days](https://open.spotify.com/track/1gpvm8MQYZgrVPso4ygthU) | [Scheitan](https://open.spotify.com/artist/27pumfcMxQX5qxsQ0j2fsd) | [A Million Days](https://open.spotify.com/album/2xg96FAtOzooZuNK9vCdVl) | 4:07 | 2026-04-05 | 2026-04-07 |
 | [A Northern Light](https://open.spotify.com/track/62xsC4Z2hJTEWT7MbkzDtF) | [Storm Kingdom](https://open.spotify.com/artist/5XgHWolhNhGCCYkTbmDtFY) | [A Northern Light](https://open.spotify.com/album/1db0snwvpPzmRDgipiZQWu) | 5:46 | 2026-01-30 | 2026-01-31 |
 | [A so\-Called Normal Life](https://open.spotify.com/track/6TqIHczrifhw7EfC3r8UjD) | [David Von Beahm](https://open.spotify.com/artist/2h4kMB513n1Tkk7ww91p1E) | [Let the Rain Fall \(Single\)](https://open.spotify.com/album/6arnHLhBqiZxfP9goJGMyQ) | 5:28 | 2026-05-24 | 2026-05-25 |
@@ -219,7 +220,7 @@
 | [Girls](https://open.spotify.com/track/1ACBwGOWhLqstenkrApSBK) | [MIDNIGHTCHOIR](https://open.spotify.com/artist/1arXAZ3Z4NP9ZAC8XQe9fV) | [Debtors Disco](https://open.spotify.com/album/0sj6ewWZKVDvcISyVWJf4W) | 3:42 | 2026-02-16 | 2026-04-12 |
 | [Girotondo](https://open.spotify.com/track/4sg5uCVAFTvj5beUEMJuoo) | [The Chronicles of Manimal and Samara](https://open.spotify.com/artist/2V3zzIcq2sbRbaEjbGypc8) | [Girotondo](https://open.spotify.com/album/7pX7a5gG9oNwnFfiAL2VtX) | 5:32 | 2026-03-24 | 2026-03-26 |
 | [Give Your Heart to Me](https://open.spotify.com/track/7yBVmb5VwTVojQXpIRZg4I) | [DELREI](https://open.spotify.com/artist/77Xku7f5rq7hfoooTiv5jW), [Collin Hegna](https://open.spotify.com/artist/0cZ4bVVf2bWEON39U2kPab), [Federale](https://open.spotify.com/artist/6KdkzNXhRBjPQxCSYgRxpH) | [Wicked Wicked Ways](https://open.spotify.com/album/2altTdbyXnFkgFgpM9BJ7k) | 3:51 | 2026-05-21 | 2026-05-22 |
-| [Goddess](https://open.spotify.com/track/7unT6Ykkw38roexHf453ur) | [Danger Line](https://open.spotify.com/artist/1aA8T2dE1qY2AQYpmfg2Uj) | [Goddess](https://open.spotify.com/album/7jHTbHGrkCzWOSgNlUa9MH) | 4:08 | 2025-11-19 |  |
+| [Goddess](https://open.spotify.com/track/7unT6Ykkw38roexHf453ur) | [Danger Line](https://open.spotify.com/artist/1aA8T2dE1qY2AQYpmfg2Uj) | [Goddess](https://open.spotify.com/album/7jHTbHGrkCzWOSgNlUa9MH) | 4:08 | 2025-11-19 | 2026-05-27 |
 | [Godless](https://open.spotify.com/track/5gGEuov2uGj7kfiEiBJTEp) | [Storm Kingdom](https://open.spotify.com/artist/5XgHWolhNhGCCYkTbmDtFY), [Ella Baphomet](https://open.spotify.com/artist/2rcKTRoTVhGZqv3caJGouK) | [Godless](https://open.spotify.com/album/3u3FnNFFVqZopFttmv1r09) | 5:47 | 2025-11-25 | 2025-11-29 |
 | [Goodbye Horses](https://open.spotify.com/track/1UX6WV1lpNYEj5V5YGPco8) | [The God Bombs](https://open.spotify.com/artist/0qDDWh6XbKtF4JqASw0TnP), [Berkoriffs](https://open.spotify.com/artist/4b7rWwq0a8pw6Bpbaxhln2) | [Goodbye Horses](https://open.spotify.com/album/7z5W6jl6zxbDNCrSzLlVig) | 3:18 | 2026-02-22 | 2026-03-04 |
 | [Goodnight Goodnight the true norths light](https://open.spotify.com/track/6YAGcoPhhTYDceywYdSAxp) | [Paul Dutil](https://open.spotify.com/artist/6U5hMGOPN5iRvcI3RtwejV) | [Goodnight Goodnight the true norths light](https://open.spotify.com/album/38BE6iizz4tq30lSicY48T) | 3:36 | 2026-05-14 |  |

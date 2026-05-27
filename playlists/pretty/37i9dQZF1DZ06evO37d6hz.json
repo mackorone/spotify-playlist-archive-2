@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahI/gAAAAADwZZ+wNW+FhG4JmNheOTiP",
+  "snapshot_id": "ahORAAAAAAAq6cdV9Kb92wzhDRPKYWNj",
   "tracks": [
     {
       "added_at": null,
@@ -43,26 +43,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Donnie & Laurie",
-        "url": "https://open.spotify.com/album/5nsagfjuKN6coxKmbfXUSC"
-      },
-      "artists": [
-        {
-          "name": "Laurie Spiegel",
-          "url": "https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV"
-        },
-        {
-          "name": "Don Christensen",
-          "url": "https://open.spotify.com/artist/3X6haiuk2rBlAqlWIpClbm"
-        }
-      ],
-      "duration_ms": 324222,
-      "name": "Donnie and Laurie",
-      "url": "https://open.spotify.com/track/5AQQFtmuIQpLyIu86vrCjp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Static",
         "url": "https://open.spotify.com/album/7zU2S06sQRLGXN309ATvuK"
       },
@@ -79,6 +59,26 @@
       "duration_ms": 174000,
       "name": "Heliopause",
       "url": "https://open.spotify.com/track/0rdAXMl6YbYR185e1R6veY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Donnie & Laurie",
+        "url": "https://open.spotify.com/album/5nsagfjuKN6coxKmbfXUSC"
+      },
+      "artists": [
+        {
+          "name": "Laurie Spiegel",
+          "url": "https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV"
+        },
+        {
+          "name": "Don Christensen",
+          "url": "https://open.spotify.com/artist/3X6haiuk2rBlAqlWIpClbm"
+        }
+      ],
+      "duration_ms": 324222,
+      "name": "Donnie and Laurie",
+      "url": "https://open.spotify.com/track/5AQQFtmuIQpLyIu86vrCjp"
     },
     {
       "added_at": null,

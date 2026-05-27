@@ -5130,7 +5130,7 @@
       ],
       "date_added": "2026-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-27",
       "duration_ms": 219040,
       "name": "Astronomy - Original Drums",
       "url": "https://open.spotify.com/track/6eJyQChGDR4iqNNbzVWvO4"
@@ -6812,7 +6812,7 @@
       ],
       "date_added": "2026-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-27",
       "duration_ms": 187669,
       "name": "Beyond the Seen",
       "url": "https://open.spotify.com/track/2G1HbaSjR9zzur2OXaUnZ7"
@@ -36356,7 +36356,7 @@
       ],
       "date_added": "2026-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-25",
+      "date_removed": null,
       "duration_ms": 130479,
       "name": "Morning Peace",
       "url": "https://open.spotify.com/track/52TcA4qJjHNGlNCBaBKUqL"
@@ -44492,7 +44492,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-27",
       "duration_ms": 178800,
       "name": "Relaxing Sound 4.0",
       "url": "https://open.spotify.com/track/5yS4yFZZ2hg2SKKTrnSgil"
@@ -46162,6 +46162,24 @@
       "duration_ms": 222000,
       "name": "S.O.S.",
       "url": "https://open.spotify.com/track/51BPUCS5GwKMOf6riOgBfO"
+    },
+    {
+      "album": {
+        "name": "Under Wraps (The Unwrapped Edition)",
+        "url": "https://open.spotify.com/album/20SZE9X6V2z3ZlCfdhqNZY"
+      },
+      "artists": [
+        {
+          "name": "Jethro Tull",
+          "url": "https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212120,
+      "name": "Saboteur - Original Drums",
+      "url": "https://open.spotify.com/track/1jGljQaj0nA6k17HEPdmBd"
     },
     {
       "album": {
@@ -51656,6 +51674,32 @@
       "duration_ms": 312602,
       "name": "Superlover (Feat. Annie Lennox)",
       "url": "https://open.spotify.com/track/0P4i9pvof37KYxmlgi2gal"
+    },
+    {
+      "album": {
+        "name": "Supernatural (Beyond the Seen, Above the Known)",
+        "url": "https://open.spotify.com/album/03stnNub7ONkAa6Z57G25L"
+      },
+      "artists": [
+        {
+          "name": "Westace Beats",
+          "url": "https://open.spotify.com/artist/6KGBRLPAKJpDGtA0qOpdJg"
+        },
+        {
+          "name": "Yanni",
+          "url": "https://open.spotify.com/artist/72qxDp6R6v22pai96pZioz"
+        },
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191018,
+      "name": "Supernatural",
+      "url": "https://open.spotify.com/track/0ptu0kUxGj2CNsJ7SQWlOM"
     },
     {
       "album": {

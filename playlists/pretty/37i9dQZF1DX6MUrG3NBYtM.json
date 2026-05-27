@@ -1,6 +1,6 @@
 {
   "description": "De beste Indie releases. Cover: Naaz ",
-  "num_followers": 105588,
+  "num_followers": 105579,
   "original_name": "Indie XL",
   "owner": {
     "name": "Spotify",
@@ -539,22 +539,6 @@
     {
       "added_at": "2026-04-16 22:02:19",
       "album": {
-        "name": "First Rodeo",
-        "url": "https://open.spotify.com/album/0tMYQo9n5L7w1uRknqg7Qj"
-      },
-      "artists": [
-        {
-          "name": "Kensington",
-          "url": "https://open.spotify.com/artist/5hHcAWKNV84BEbkRnbQ6A7"
-        }
-      ],
-      "duration_ms": 223985,
-      "name": "Call You Home",
-      "url": "https://open.spotify.com/track/6asKWJ9heYSpUUlN77lgnc"
-    },
-    {
-      "added_at": "2026-04-16 22:02:19",
-      "album": {
         "name": "Hippie Sunshine",
         "url": "https://open.spotify.com/album/34MjkZbSCMIAmwLIGznuje"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 186289,
       "name": "Hippie Sunshine",
       "url": "https://open.spotify.com/track/2qGa5KtRjW7EGaZK7m3xoP"
+    },
+    {
+      "added_at": "2026-04-16 22:02:19",
+      "album": {
+        "name": "First Rodeo",
+        "url": "https://open.spotify.com/album/0tMYQo9n5L7w1uRknqg7Qj"
+      },
+      "artists": [
+        {
+          "name": "Kensington",
+          "url": "https://open.spotify.com/artist/5hHcAWKNV84BEbkRnbQ6A7"
+        }
+      ],
+      "duration_ms": 223985,
+      "name": "Call You Home",
+      "url": "https://open.spotify.com/track/6asKWJ9heYSpUUlN77lgnc"
     },
     {
       "added_at": "2026-04-16 22:02:19",
@@ -907,22 +907,6 @@
     {
       "added_at": "2026-04-16 22:02:19",
       "album": {
-        "name": "Muscle Shoals",
-        "url": "https://open.spotify.com/album/4CgnYQ1ImIJaoxkgCmYXVt"
-      },
-      "artists": [
-        {
-          "name": "DeWolff",
-          "url": "https://open.spotify.com/artist/1OHnmln4huMiBLyxBHNx0k"
-        }
-      ],
-      "duration_ms": 185706,
-      "name": "Natural Woman",
-      "url": "https://open.spotify.com/track/3s382wKMe6FvXmwTS1bWmN"
-    },
-    {
-      "added_at": "2026-04-16 22:02:19",
-      "album": {
         "name": "Matter Does Not Define",
         "url": "https://open.spotify.com/album/39Mj8N4ykB89bEHkl5yG9d"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 236229,
       "name": "Reflections Of Lessons Left",
       "url": "https://open.spotify.com/track/574FL9nQ8WI8QGpUGRURG9"
+    },
+    {
+      "added_at": "2026-04-16 22:02:19",
+      "album": {
+        "name": "Muscle Shoals",
+        "url": "https://open.spotify.com/album/4CgnYQ1ImIJaoxkgCmYXVt"
+      },
+      "artists": [
+        {
+          "name": "DeWolff",
+          "url": "https://open.spotify.com/artist/1OHnmln4huMiBLyxBHNx0k"
+        }
+      ],
+      "duration_ms": 185706,
+      "name": "Natural Woman",
+      "url": "https://open.spotify.com/track/3s382wKMe6FvXmwTS1bWmN"
     },
     {
       "added_at": "2026-04-16 22:02:19",

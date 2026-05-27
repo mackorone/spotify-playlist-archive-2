@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahI/gAAAAAAnHrEp5GPhITwbJKlUhEKf",
+  "snapshot_id": "ahORAAAAAAAdJODdCJYPjWlkgWHGgmiX",
   "tracks": [
     {
       "added_at": null,
@@ -767,8 +767,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Southern Accents",
-        "url": "https://open.spotify.com/album/2uslG8GJwri1ewdlK2Uuv4"
+        "name": "The Last DJ",
+        "url": "https://open.spotify.com/album/3lS4vVIHslBZgLituEQz5i"
       },
       "artists": [
         {
@@ -776,9 +776,9 @@
           "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
         }
       ],
-      "duration_ms": 212200,
-      "name": "Spike",
-      "url": "https://open.spotify.com/track/0OynySxoDTVepVdwm0iigw"
+      "duration_ms": 245906,
+      "name": "Have Love, Will Travel",
+      "url": "https://open.spotify.com/track/6712My4wA0OcvobBeTJttw"
     },
     {
       "added_at": null,
@@ -799,8 +799,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Last DJ",
-        "url": "https://open.spotify.com/album/3lS4vVIHslBZgLituEQz5i"
+        "name": "Southern Accents",
+        "url": "https://open.spotify.com/album/2uslG8GJwri1ewdlK2Uuv4"
       },
       "artists": [
         {
@@ -808,9 +808,9 @@
           "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
         }
       ],
-      "duration_ms": 245906,
-      "name": "Have Love, Will Travel",
-      "url": "https://open.spotify.com/track/6712My4wA0OcvobBeTJttw"
+      "duration_ms": 212200,
+      "name": "Spike",
+      "url": "https://open.spotify.com/track/0OynySxoDTVepVdwm0iigw"
     },
     {
       "added_at": null,

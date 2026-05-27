@@ -89,6 +89,24 @@
     },
     {
       "album": {
+        "name": "2001x",
+        "url": "https://open.spotify.com/album/1vLYpcbwwGVClagTen3lXN"
+      },
+      "artists": [
+        {
+          "name": "Adrian Khalif",
+          "url": "https://open.spotify.com/artist/6X28gNASnalAWseUA8uI4X"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204149,
+      "name": "2001x",
+      "url": "https://open.spotify.com/track/7EkTXoaED7peReoRytElSi"
+    },
+    {
+      "album": {
         "name": "3..2..1",
         "url": "https://open.spotify.com/album/3O0PRgNKpvjVgCbGvaA4rg"
       },
@@ -216,7 +234,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-27",
       "duration_ms": 247998,
       "name": "Adat Bercinta",
       "url": "https://open.spotify.com/track/68zcCCLaQ2Z8PhbTSA3OBn"
@@ -756,7 +774,7 @@
       ],
       "date_added": "2026-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-27",
       "duration_ms": 191111,
       "name": "Aku Nak Kahwin",
       "url": "https://open.spotify.com/track/1TpQSJxgXakUNahcFCI6C6"
@@ -10839,6 +10857,28 @@
     },
     {
       "album": {
+        "name": "Memori",
+        "url": "https://open.spotify.com/album/4P6bUvsZCmnJ6xBkxzNGwd"
+      },
+      "artists": [
+        {
+          "name": "Alvin Lapian",
+          "url": "https://open.spotify.com/artist/4eNEwLjU3XV6NIO5RfTqPs"
+        },
+        {
+          "name": "Grace Kaitlin",
+          "url": "https://open.spotify.com/artist/2aZrqM2hPUmc2dIJgLhfSd"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "Memori",
+      "url": "https://open.spotify.com/track/1AH8ihJlmlUsfF73RaREIp"
+    },
+    {
+      "album": {
         "name": "Memori Baik",
         "url": "https://open.spotify.com/album/4pgRr87CxG6A3eVFv9I5fT"
       },
@@ -12096,7 +12136,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-27",
       "duration_ms": 189004,
       "name": "Ngga Dulu",
       "url": "https://open.spotify.com/track/3c3JC5TjFrEqEKheU7227c"
@@ -12118,6 +12158,24 @@
       "duration_ms": 140037,
       "name": "NIAT",
       "url": "https://open.spotify.com/track/6wmlQoS91qQkzi0ww7Opsu"
+    },
+    {
+      "album": {
+        "name": "Nikmati Sakitnya",
+        "url": "https://open.spotify.com/album/5urrsTQY3Oik4zYPUrQjjZ"
+      },
+      "artists": [
+        {
+          "name": "Fabio Asher",
+          "url": "https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243000,
+      "name": "Nikmati Sakitnya",
+      "url": "https://open.spotify.com/track/0TDQvCn3HDIeffXIQ9Dx6f"
     },
     {
       "album": {
@@ -17021,6 +17079,24 @@
     },
     {
       "album": {
+        "name": "Tak Berlagu (Original Soundtrack From Khadam)",
+        "url": "https://open.spotify.com/album/6iwyJSoYoFc1TCE8kNC86x"
+      },
+      "artists": [
+        {
+          "name": "Ernie Zakri",
+          "url": "https://open.spotify.com/artist/5Plk4JdCzMxhAHSRTEsxJp"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213237,
+      "name": "Tak Berlagu - Original Soundtrack From Khadam",
+      "url": "https://open.spotify.com/track/1lONjBeiQZ0KtAglTkmvqy"
+    },
+    {
+      "album": {
         "name": "Tak Bisa Bilang",
         "url": "https://open.spotify.com/album/6PWcf1Zb6nOjN5XJFIs1gH"
       },
@@ -17380,7 +17456,7 @@
       ],
       "date_added": "2026-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-27",
       "duration_ms": 184354,
       "name": "Takhta Cinta",
       "url": "https://open.spotify.com/track/085aSJ5A7Bo8fRNCcxODQE"

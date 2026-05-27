@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor del rock de aqu\u00ed, como Silo\u00e9.",
-  "num_followers": 615397,
+  "num_followers": 615417,
   "original_name": "Rock Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -887,22 +887,6 @@
     {
       "added_at": "2026-05-21 22:01:23",
       "album": {
-        "name": "Calle Melancol\u00eda",
-        "url": "https://open.spotify.com/album/2RlCfIHnXz8h8sc76B8ACD"
-      },
-      "artists": [
-        {
-          "name": "Robe",
-          "url": "https://open.spotify.com/artist/3WQRkINylwwkw1Ya07ToRK"
-        }
-      ],
-      "duration_ms": 380973,
-      "name": "Calle Melancol\u00eda",
-      "url": "https://open.spotify.com/track/3li6qqddV84LgSw9lgh0sG"
-    },
-    {
-      "added_at": "2026-05-21 22:01:23",
-      "album": {
         "name": "Sopa fria",
         "url": "https://open.spotify.com/album/0Q2szvW8oeHdReOGcdYrBj"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 297106,
       "name": "Miedo",
       "url": "https://open.spotify.com/track/47oZRFceogtlw8Kcu5UGaj"
+    },
+    {
+      "added_at": "2026-05-21 22:01:23",
+      "album": {
+        "name": "Calle Melancol\u00eda",
+        "url": "https://open.spotify.com/album/2RlCfIHnXz8h8sc76B8ACD"
+      },
+      "artists": [
+        {
+          "name": "Robe",
+          "url": "https://open.spotify.com/artist/3WQRkINylwwkw1Ya07ToRK"
+        }
+      ],
+      "duration_ms": 380973,
+      "name": "Calle Melancol\u00eda",
+      "url": "https://open.spotify.com/track/3li6qqddV84LgSw9lgh0sG"
     },
     {
       "added_at": "2026-05-21 22:01:23",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2026-05-21 22:01:23",
       "album": {
-        "name": "De un siglo anterior",
-        "url": "https://open.spotify.com/album/0nhWmmOEqhnEMWB36f3YvY"
-      },
-      "artists": [
-        {
-          "name": "Bunbury",
-          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
-        }
-      ],
-      "duration_ms": 224072,
-      "name": "Peor que como estamos - Es dif\u00edcil ya que estemos",
-      "url": "https://open.spotify.com/track/3Jq6AmXJdb96POu4X1XTv6"
-    },
-    {
-      "added_at": "2026-05-21 22:01:23",
-      "album": {
         "name": "Rock & Roll Star - 30 a\u00f1os",
         "url": "https://open.spotify.com/album/24fPzeDiySM2lt3pvuLKGR"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 214560,
       "name": "Cadillac solitario",
       "url": "https://open.spotify.com/track/3VNxbWlw9oVvxSnSbeiCBb"
+    },
+    {
+      "added_at": "2026-05-21 22:01:23",
+      "album": {
+        "name": "De un siglo anterior",
+        "url": "https://open.spotify.com/album/0nhWmmOEqhnEMWB36f3YvY"
+      },
+      "artists": [
+        {
+          "name": "Bunbury",
+          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
+        }
+      ],
+      "duration_ms": 224072,
+      "name": "Peor que como estamos - Es dif\u00edcil ya que estemos",
+      "url": "https://open.spotify.com/track/3Jq6AmXJdb96POu4X1XTv6"
     },
     {
       "added_at": "2026-05-21 22:01:23",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2026-05-21 22:01:23",
       "album": {
-        "name": "Uno",
-        "url": "https://open.spotify.com/album/2Qjd3FONI5uY8A8BW5XcDl"
-      },
-      "artists": [
-        {
-          "name": "Arco",
-          "url": "https://open.spotify.com/artist/3HdW1zs4IHQSFa3gebmlGY"
-        }
-      ],
-      "duration_ms": 188914,
-      "name": "Lo dif\u00edcil",
-      "url": "https://open.spotify.com/track/78Tr4OatbnIyx9cwGp5vp1"
-    },
-    {
-      "added_at": "2026-05-21 22:01:23",
-      "album": {
         "name": "Sin Tiempo",
         "url": "https://open.spotify.com/album/1T5c9thHoIvpLBvNpH4wDn"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 296400,
       "name": "Todo Tiene Su Fin",
       "url": "https://open.spotify.com/track/3a6PKtYVIowjsac9DAja3T"
+    },
+    {
+      "added_at": "2026-05-21 22:01:23",
+      "album": {
+        "name": "Uno",
+        "url": "https://open.spotify.com/album/2Qjd3FONI5uY8A8BW5XcDl"
+      },
+      "artists": [
+        {
+          "name": "Arco",
+          "url": "https://open.spotify.com/artist/3HdW1zs4IHQSFa3gebmlGY"
+        }
+      ],
+      "duration_ms": 188914,
+      "name": "Lo dif\u00edcil",
+      "url": "https://open.spotify.com/track/78Tr4OatbnIyx9cwGp5vp1"
     },
     {
       "added_at": "2026-05-21 22:01:23",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2026-05-21 22:01:23",
       "album": {
+        "name": "Insurreccion (En Directo)",
+        "url": "https://open.spotify.com/album/5focapBHI0lsefUUz46XxG"
+      },
+      "artists": [
+        {
+          "name": "El \u00daltimo De La Fila",
+          "url": "https://open.spotify.com/artist/2jMYTBTCSNYaCYy54mLc6I"
+        }
+      ],
+      "duration_ms": 134200,
+      "name": "Insurreccion (En Directo)",
+      "url": "https://open.spotify.com/track/4SafR3a8senZ2r65hZWMKN"
+    },
+    {
+      "added_at": "2026-05-21 22:01:23",
+      "album": {
         "name": "No creo en Dios",
         "url": "https://open.spotify.com/album/4FtSAiTBNy554mHZniF0Se"
       },
@@ -1475,22 +1491,6 @@
       "duration_ms": 244781,
       "name": "No creo en Dios",
       "url": "https://open.spotify.com/track/1VZKxaYZxp8ZeKoxvGWVKF"
-    },
-    {
-      "added_at": "2026-05-21 22:01:23",
-      "album": {
-        "name": "Insurreccion (En Directo)",
-        "url": "https://open.spotify.com/album/5focapBHI0lsefUUz46XxG"
-      },
-      "artists": [
-        {
-          "name": "El \u00daltimo De La Fila",
-          "url": "https://open.spotify.com/artist/2jMYTBTCSNYaCYy54mLc6I"
-        }
-      ],
-      "duration_ms": 134200,
-      "name": "Insurreccion (En Directo)",
-      "url": "https://open.spotify.com/track/4SafR3a8senZ2r65hZWMKN"
     },
     {
       "added_at": "2026-05-21 22:01:23",
@@ -1735,6 +1735,22 @@
     {
       "added_at": "2026-05-21 22:01:23",
       "album": {
+        "name": "Mundo Amador",
+        "url": "https://open.spotify.com/album/3datOykBe0V1Yaqk3hnhPy"
+      },
+      "artists": [
+        {
+          "name": "Raimundo Amador",
+          "url": "https://open.spotify.com/artist/3skUHmTNpFUxTZaVxgvhF7"
+        }
+      ],
+      "duration_ms": 211173,
+      "name": "Ay Que Gustito Pa' Mis Orejas",
+      "url": "https://open.spotify.com/track/6olopCEGYHL8U7jMRWBnJJ"
+    },
+    {
+      "added_at": "2026-05-21 22:01:23",
+      "album": {
         "name": "D\u00e9jame en Paz",
         "url": "https://open.spotify.com/album/63euPpSFzaxb6Lxdp4fnCV"
       },
@@ -1751,22 +1767,6 @@
       "duration_ms": 317615,
       "name": "D\u00e9jame en Paz",
       "url": "https://open.spotify.com/track/5Bt1yADXtQ7s1bujkImZFL"
-    },
-    {
-      "added_at": "2026-05-21 22:01:23",
-      "album": {
-        "name": "Mundo Amador",
-        "url": "https://open.spotify.com/album/3datOykBe0V1Yaqk3hnhPy"
-      },
-      "artists": [
-        {
-          "name": "Raimundo Amador",
-          "url": "https://open.spotify.com/artist/3skUHmTNpFUxTZaVxgvhF7"
-        }
-      ],
-      "duration_ms": 211173,
-      "name": "Ay Que Gustito Pa' Mis Orejas",
-      "url": "https://open.spotify.com/track/6olopCEGYHL8U7jMRWBnJJ"
     },
     {
       "added_at": "2026-05-21 22:01:23",
@@ -1827,22 +1827,6 @@
     {
       "added_at": "2026-05-21 22:01:23",
       "album": {
-        "name": "Rock en Espa\u00f1ol",
-        "url": "https://open.spotify.com/album/0ynW2QsMEAOTnJKolbSWSV"
-      },
-      "artists": [
-        {
-          "name": "Pereza",
-          "url": "https://open.spotify.com/artist/6mfK6Q2tzLMEchAr0e9Uzu"
-        }
-      ],
-      "duration_ms": 173226,
-      "name": "Pienso en Aquella Tarde",
-      "url": "https://open.spotify.com/track/0O3pXUg9rgLYgBJcO91b37"
-    },
-    {
-      "added_at": "2026-05-21 22:01:23",
-      "album": {
         "name": "12 Botellines y 5 Tercios",
         "url": "https://open.spotify.com/album/06giFWDWB3yEX9eDtciSyd"
       },
@@ -1855,6 +1839,22 @@
       "duration_ms": 173533,
       "name": "Pongamos Que Hablo de Madrid",
       "url": "https://open.spotify.com/track/6RVCZgNqZQQSRDFtE7zFwt"
+    },
+    {
+      "added_at": "2026-05-21 22:01:23",
+      "album": {
+        "name": "Rock en Espa\u00f1ol",
+        "url": "https://open.spotify.com/album/0ynW2QsMEAOTnJKolbSWSV"
+      },
+      "artists": [
+        {
+          "name": "Pereza",
+          "url": "https://open.spotify.com/artist/6mfK6Q2tzLMEchAr0e9Uzu"
+        }
+      ],
+      "duration_ms": 173226,
+      "name": "Pienso en Aquella Tarde",
+      "url": "https://open.spotify.com/track/0O3pXUg9rgLYgBJcO91b37"
     },
     {
       "added_at": "2026-05-21 22:01:23",
@@ -1955,6 +1955,22 @@
     {
       "added_at": "2026-05-21 22:01:23",
       "album": {
+        "name": "Mundo imperfecto",
+        "url": "https://open.spotify.com/album/3TLiYmIWEXBfGyLBRd9cud"
+      },
+      "artists": [
+        {
+          "name": "Sidecars",
+          "url": "https://open.spotify.com/artist/1OxGzd3ks0V8CVWtXT1VMj"
+        }
+      ],
+      "duration_ms": 188893,
+      "name": "Mundo imperfecto",
+      "url": "https://open.spotify.com/track/7hlytak131AgmPYe8JsYws"
+    },
+    {
+      "added_at": "2026-05-21 22:01:23",
+      "album": {
         "name": "Punto de Colisi\u00f3n",
         "url": "https://open.spotify.com/album/5TgxyfEFys8acyZHPAi4w8"
       },
@@ -1971,22 +1987,6 @@
       "duration_ms": 242005,
       "name": "Punto de Colisi\u00f3n",
       "url": "https://open.spotify.com/track/0W5WdG9xYM22G2GbJEanNd"
-    },
-    {
-      "added_at": "2026-05-21 22:01:23",
-      "album": {
-        "name": "Mundo imperfecto",
-        "url": "https://open.spotify.com/album/3TLiYmIWEXBfGyLBRd9cud"
-      },
-      "artists": [
-        {
-          "name": "Sidecars",
-          "url": "https://open.spotify.com/artist/1OxGzd3ks0V8CVWtXT1VMj"
-        }
-      ],
-      "duration_ms": 188893,
-      "name": "Mundo imperfecto",
-      "url": "https://open.spotify.com/track/7hlytak131AgmPYe8JsYws"
     },
     {
       "added_at": "2026-05-21 22:01:23",

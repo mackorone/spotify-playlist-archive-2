@@ -4,7 +4,7 @@
 
 > beautiful music that you can put on repeat
 
-942 songs - 2 day 0 hr 8 min
+946 songs - 2 day 0 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -216,6 +216,7 @@
 | [Dictator Dreams](https://open.spotify.com/track/79O4zO1jbGJVvshYpyiNcx) | [Bodo Bifroest](https://open.spotify.com/artist/0xMff2UG1y0azDoSbZSLwZ) | [Dictator Dreams](https://open.spotify.com/album/0rSYBoTiUlmVjOqvmcOSc9) | 2:37 | 2026-04-05 |  |
 | [Dignity](https://open.spotify.com/track/66iTL2RwsZ9DihlBeiI4gp) | [Gobaith](https://open.spotify.com/artist/1EVXqPW8qgjyv1649P1t80) | [The Channeler](https://open.spotify.com/album/0EMWMpbYnTFMogq2L9NYUb) | 3:15 | 2025-11-25 | 2026-02-23 |
 | [Dior](https://open.spotify.com/track/6zOMszPQW4T9xGFzNHfQaq) | [COA](https://open.spotify.com/artist/0eRCLMckvcXLTWLyBfRA4n), [XELLEN7](https://open.spotify.com/artist/02VTECRZkRQd4h4FTbBVoM) | [Dior](https://open.spotify.com/album/59r8gVG29cARAewLRiv6kU) | 2:46 | 2025-11-14 | 2026-02-23 |
+| [dirt](https://open.spotify.com/track/0nAaYfzBYIiejTetZbDmrh) | [phiia](https://open.spotify.com/artist/4POwle9ofOoqfiZTAednVb) | [dirt](https://open.spotify.com/album/2xLezujQqsKsJ2FClwFHGR) | 3:12 | 2026-05-26 |  |
 | [Dirt Floor](https://open.spotify.com/track/4yDBUJz9ILXz9CtojpyzQU) | [Graveyard Choir](https://open.spotify.com/artist/0RtF7RdYO3Jfhmw0JQSmX2) | [Dirt Floor](https://open.spotify.com/album/0dZj8stSDgbnelvEhYq6Fy) | 4:10 | 2025-09-29 | 2026-01-15 |
 | [Distinguir la Luz \- Kingstar Mix](https://open.spotify.com/track/67EJ7bddZiDZZRxOjuH2ac) | [Melany Cubero](https://open.spotify.com/artist/4OrIEJHh24oAbE1evJRR7c), [Kingstar](https://open.spotify.com/artist/4gug88THTg7VXjNrdnBiOg) | [Distinguir la Luz \(Kingstar Mix\)](https://open.spotify.com/album/3Tnlft4SzwgXJcvNxBgpbp) | 3:54 | 2025-10-19 | 2026-01-15 |
 | [Dlm](https://open.spotify.com/track/0EPbKqkN63lGfKup5c5A8F) | [Dflexxx](https://open.spotify.com/artist/0jepmwQ8cAEDmAsRRftrvi) | [POW LP](https://open.spotify.com/album/1CwYyi8Nb36G1gP0hmqetU) | 3:12 | 2025-10-23 | 2026-01-15 |
@@ -293,6 +294,7 @@
 | [Forth Wall: Empires & Interiors](https://open.spotify.com/track/5J7TP8CIaj1OUN1q5wyV0e) | [ΠϢΑϪЄ](https://open.spotify.com/artist/3MkDPKEYw7KgH2WZuCvrPO) | [The First Explorers Of Earth](https://open.spotify.com/album/0tpJ21XRrenBcwj5wGWUMa) | 2:11 | 2025-11-26 | 2026-02-23 |
 | [Fountain](https://open.spotify.com/track/5L6DTMCdiz4BBmh3xweyrJ) | [Skiii](https://open.spotify.com/artist/0ZEcn782e3S6O9XgaSFHnU) | [Fountain](https://open.spotify.com/album/6NJdM5ZPBS0IHkK8XBNeX2) | 2:12 | 2025-12-29 |  |
 | [Free4EB65](https://open.spotify.com/track/64GMwD4IDICYUD1NQfJybU) | [4EB PB](https://open.spotify.com/artist/3HbPetWDaxc46dNBrBTBN2) | [Free4EB65](https://open.spotify.com/album/3iTWxsVESbaycZhynf1idp) | 2:34 | 2026-01-30 |  |
+| [FREERAERAE](https://open.spotify.com/track/0xwttkGbl2pUusxmIHBwjT) | [Wravth](https://open.spotify.com/artist/0W5AVqvdvX4m9oXlnjELoz) | [FREERAERAE](https://open.spotify.com/album/1s8ao87bk5Zqsy3ZuiWBgo) | 2:20 | 2026-05-26 |  |
 | [Freestyle Napoli](https://open.spotify.com/track/5HIIGDcF7dIXeOWbMSt4M8) | [Juni\_Or](https://open.spotify.com/artist/4zZHM4Apn4mCkP79TkHWwP) | [Freestyle Napoli](https://open.spotify.com/album/6lo63xlFCXrDxDd4Y3zO0f) | 2:26 | 2026-02-14 |  |
 | [Friend](https://open.spotify.com/track/3ouOpn6s5hAIKEkV4fZrur) | [1976Piano/MJM](https://open.spotify.com/artist/51dGdERH5AOJVfardvCpi3) | [Friend](https://open.spotify.com/album/7JqPjAwH81Ie127SzyluXh) | 2:12 | 2025-09-04 | 2026-01-15 |
 | [Friendly Fire](https://open.spotify.com/track/1IR9nzcaFwMIOA1rOQGCkd) | [Sami Harb](https://open.spotify.com/artist/0Feu623vncypK1hIvGfUBi) | [Friendly Fire](https://open.spotify.com/album/2fPD8YlC0LpZyTjjUqcpsy) | 3:24 | 2025-10-06 | 2026-01-15 |
@@ -364,6 +366,7 @@
 | [House of Dreams](https://open.spotify.com/track/5u0ZAh3ofsHFkyqHspLTaz) | [Stefan Pulser](https://open.spotify.com/artist/2ZnCREcAAuGZdYhYAyQUGI) | [House of Dreams](https://open.spotify.com/album/2EXTnukwHekaJQZYzBKQZW) | 2:51 | 2025-10-11 | 2026-01-15 |
 | [House of Fools](https://open.spotify.com/track/4EioLmZsW7KDilv2vOG8Ye) | [Bodo Bifroest](https://open.spotify.com/artist/0xMff2UG1y0azDoSbZSLwZ) | [House of Fools](https://open.spotify.com/album/6BRfKnJ16vbFzcyTifj4bt) | 3:43 | 2026-02-16 |  |
 | [Hover](https://open.spotify.com/track/1VPbv7tBDx59RfOEPe1zgH) | [Jenine](https://open.spotify.com/artist/0oWzaYwOVGqNCeUa6ozxn3) | [Hover](https://open.spotify.com/album/1Q7soH0TmMr4GGJCtEmMLE) | 2:52 | 2026-01-05 | 2026-02-23 |
+| [How I Do](https://open.spotify.com/track/43nUq2roU0UbQOSGMH10DO) | [Amo G](https://open.spotify.com/artist/1OJejfvmJTuDp8RwUhmjo1) | [How I Do](https://open.spotify.com/album/4wzxN00Ejtf0k5G1TKgWBu) | 2:17 | 2026-05-26 |  |
 | [How It Goes](https://open.spotify.com/track/0FJB8bHbON9QFB3OM0m2y6) | [Nyla Dream](https://open.spotify.com/artist/6HBZYlcOVJtP2vuht1HQnj) | [Two Sides Of A Dream](https://open.spotify.com/album/6NfYTmTgd7ylMee0ldhlIE) | 4:18 | 2025-12-29 | 2026-02-23 |
 | [HOW TO](https://open.spotify.com/track/6tJxVsNXYZU1m70gxmZoY5) | [FIIYYAAH](https://open.spotify.com/artist/07tyi7lnlOnltFoZrOKfwh) | [HOW TO](https://open.spotify.com/album/7ztv9dHzkuJjDgNJGoWmYy) | 2:09 | 2025-11-14 | 2026-02-23 |
 | [hOy](https://open.spotify.com/track/29mxqV5ZWfpJ65IRAniBwK) | [CIRI](https://open.spotify.com/artist/7ywpNJ1b9dSmmeO9AuIiIA) | [hOy](https://open.spotify.com/album/0NcidaWTvwtYYS42FgX1dF) | 1:46 | 2026-02-22 |  |
@@ -625,6 +628,7 @@
 | [Pockets On My Sleeves](https://open.spotify.com/track/1xJYUGYCgqMUoXiqeAU5Hp) | [Soma Please](https://open.spotify.com/artist/5cjvGfRe1qk7NqfksQQHRQ) | [Pockets On My Sleeves](https://open.spotify.com/album/4M95XJRI1kNS948NTj2jWW) | 3:13 | 2026-01-05 | 2026-02-23 |
 | [Poesia de Liquidificador](https://open.spotify.com/track/2dA5Hv7RDD59fWOB27kd9Y) | [Ladrão](https://open.spotify.com/artist/5i16fTYmwhhn97V8nmge8W) | [Demo Cracia](https://open.spotify.com/album/2XZPm1F1EpESoo7adVMfRe) | 5:07 | 2025-10-06 | 2026-01-15 |
 | [Political Ritual](https://open.spotify.com/track/1va1XSbL3h7etNjpoNCXY3) | [Bouchard](https://open.spotify.com/artist/4QA3rzpSDuDJsTdVLbHquV) | [Political Ritual](https://open.spotify.com/album/5Q4cETvelAG4GQG6c31y1X) | 2:35 | 2025-10-09 | 2026-01-15 |
+| [Poor](https://open.spotify.com/track/5BfUt2GUQD1ySNhadHSsFr) | [Nathaniel Bawden](https://open.spotify.com/artist/2Bqs2btB0esnZVHqHYU2aA) | [Poor](https://open.spotify.com/album/4q3IpWkAvxIlVelYNC0MPG) | 3:18 | 2026-05-26 |  |
 | [Poseidon](https://open.spotify.com/track/0J8qe0m52RtYRbTCzCzQ1q) | [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [Poseidon](https://open.spotify.com/album/3skDB3NK2tTMuJ08c4js1S) | 3:16 | 2026-02-03 |  |
 | [Pranayama](https://open.spotify.com/track/2qaiDGu3Y9JdfrWrJQOBU9) | [LordMorpheus808](https://open.spotify.com/artist/5eCwrSG5hYLgAG6XY5HCwz) | [Season Bloom](https://open.spotify.com/album/4Fk2DoqrH8IxIUOyOMUIT4) | 4:00 | 2026-02-14 |  |
 | [preesha](https://open.spotify.com/track/39BOp3D8pzEbNzscS7hWWd) | [TFDRE](https://open.spotify.com/artist/6ZxUzkyogRapfmZvkIYRyW) | [On And Off \(before arcane\)](https://open.spotify.com/album/7lPmQlHZJhrDIKnojVeYn2) | 1:52 | 2026-01-14 | 2026-02-23 |

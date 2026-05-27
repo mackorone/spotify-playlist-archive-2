@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUqryD4rCK8f.md) - [plain]
 
 > Get the party started with these classics\. Music videos only available on Premium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,499 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,554 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

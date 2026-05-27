@@ -4,7 +4,7 @@
 
 > The best dance hits in Africa\. Cover: Muzi
 
-1,474 songs - 5 day 10 hr 39 min
+1,475 songs - 5 day 10 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -902,6 +902,7 @@
 | [Ngisakuthanda](https://open.spotify.com/track/2tUXE87QNnoVQZApV3uyVZ) | [Zee Nxumalo](https://open.spotify.com/artist/5m5lgddffBHA2pv0m5E2Ro), [TBO](https://open.spotify.com/artist/64xQmd6s2PbIZkjqOXx0hp), [PYY Log Drum King](https://open.spotify.com/artist/7EjDxfiI8nHmJeYKZcE5MP), [Dj Tearz SA](https://open.spotify.com/artist/4Nxf3jCcsMsxCNQrHq27M7), [Dr Thulz](https://open.spotify.com/artist/7IYCnKAJvGLnnZvHuLbSf4) | [Ngisakuthanda](https://open.spotify.com/album/1Y5TphK5oq4DmAGIvHNsUt) | 6:52 | 2025-05-08 | 2026-01-15 |
 | [Ngishutheni](https://open.spotify.com/track/3JW9hNUjUN51X9jZyn2HVV) | [Goon Flavour](https://open.spotify.com/artist/5Uc6XVglgR7fb3Q5FSy0zW), [Master KG](https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF), [Eemoh](https://open.spotify.com/artist/4k3Qot5J7igrWE9JUP3Wza) | [Ngishutheni](https://open.spotify.com/album/0Bh02aEI0DPVw0Jik91EkY) | 5:17 | 2025-05-22 | 2025-11-21 |
 | [Ngisize](https://open.spotify.com/track/6JPfOYc8a8whAFhjEMNwdA) | [Musa Keys](https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf), [Skillz](https://open.spotify.com/artist/6zUtuBYmxb5cxAiEIQGLJf), [Konke](https://open.spotify.com/artist/5perSoW1Lo1rJJgyKvIMrU), [Ticozet](https://open.spotify.com/artist/4zolIbF49J60w0tA2TKvEJ) | [Xigubu](https://open.spotify.com/album/6t0RBt8Ae5khWhaQhOpRgD) | 6:46 | 2025-12-11 | 2026-04-10 |
+| [Ngithathiwe](https://open.spotify.com/track/7nFewePsCT0FJpIfKkVZsP) | [Zee Nxumalo](https://open.spotify.com/artist/5m5lgddffBHA2pv0m5E2Ro), [Funky Qla](https://open.spotify.com/artist/1raznef8uIDK0SAlPabb86), [Dlala Thukzin](https://open.spotify.com/artist/5kmceQl1Y7lveTVbcy5ycD) | [Izinja Zam: Vol\. I](https://open.spotify.com/album/0HQLuYklJlPPnAH4Fk3IsH) | 5:41 | 2026-05-26 |  |
 | [Ngixolele](https://open.spotify.com/track/6HY5NwZ2Rli5kT8hwtdzWf) | [Mobi Dixon](https://open.spotify.com/artist/5gVxephJtTx5uMF26ZVptW), [Mo\-T](https://open.spotify.com/artist/0fMnpjfqmm7KCtlB0izVOg), [Russell Zuma](https://open.spotify.com/artist/0juy2RagFC1qDPlMhEkepe) | [Sacred Steps](https://open.spotify.com/album/5eThCbdRN6T8MulQgtwq73) | 4:57 | 2024-08-29 | 2024-11-15 |
 | [Ngiyeke \- Main Mix Edit](https://open.spotify.com/track/2lKbPHmNVJKbhSwNaaiTsP) | [Funkky](https://open.spotify.com/artist/5K6MIUxhHMmOxGF22JaySb), [Nomvula SA](https://open.spotify.com/artist/6DPIZZxzcwWmBiTMmVYbyY) | [Ngiyeke](https://open.spotify.com/album/40NXJBthv6lfaOVmNjYcOv) | 4:17 | 2022-08-11 | 2022-09-30 |
 | [Ngizimisele](https://open.spotify.com/track/40HxAjzO8wpe578MCVBMcy) | [OSKIDO](https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R), [Nkosazana Daughter](https://open.spotify.com/artist/4AnNB3lPD0Sv7ziKVHqI66), [X\-wise](https://open.spotify.com/artist/7LJ9Zi6YhJc6hn1YdRvEyn) | [Ngizimisele](https://open.spotify.com/album/0J5lDjlxCM515GQeS1JO8h) | 6:34 | 2022-09-09 | 2023-02-24 |

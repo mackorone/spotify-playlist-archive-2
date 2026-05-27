@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6HIvDVo75RY.md) - [plain]
 
 > Spotify House at Ole Red on Broadway is BACK for 2026! We've curated three incredible days of live music \- see you June 4\-6 in Nashville!
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,158 likes - 74 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,196 likes - 74 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

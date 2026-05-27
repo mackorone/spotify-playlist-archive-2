@@ -4,7 +4,7 @@
 
 > This is Adriana Ríos\. The essential tracks, all in one playlist.
 
-64 songs - 3 hr 26 min
+65 songs - 3 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Belik Bellak](https://open.spotify.com/track/3yy00SXfaBb6pDgbMcd7qW) | [Domenica](https://open.spotify.com/artist/2Sx37QWa4qXUVVDI67pTvX), [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Belik Bellak](https://open.spotify.com/album/4R4iKszPrXW6tqCpz3v3qX) | 2:43 | 2024-08-08 |  |
 | [Casi Perfecto](https://open.spotify.com/track/1viT4cZWUQLR3nz56nfAu3) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [La Lotería](https://open.spotify.com/album/3jOBDGEiCdccHnOaHwZmtY) | 3:50 | 2025-04-26 | 2025-09-11 |
 | [Chapulín \- En Vivo](https://open.spotify.com/track/5zhcglne5hkFPmBGgaGV7R) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Azules Reflejos \(En Vivo\)](https://open.spotify.com/album/650mFzQHW866meTGyp3ToF) | 3:27 | 2024-08-08 |  |
-| [Cielo Rojo \- En Vivo](https://open.spotify.com/track/39YoHBqfGPFxl8kN2xrqJe) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [La Bohemia \(En Vivo\)](https://open.spotify.com/album/5znVweMoWctX8y4H9P74vH) | 4:02 | 2025-10-09 |  |
+| [Cielo Rojo \- En Vivo](https://open.spotify.com/track/39YoHBqfGPFxl8kN2xrqJe) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [La Bohemia \(En Vivo\)](https://open.spotify.com/album/5znVweMoWctX8y4H9P74vH) | 4:02 | 2025-10-09 | 2026-05-27 |
 | [Cita Conmigo](https://open.spotify.com/track/0UjIWUuqNWmWZPeysFtfsg) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Cita Conmigo](https://open.spotify.com/album/2M4gAYg1NVtmuQ4m0I22tV) | 2:41 | 2026-04-19 |  |
 | [Cuidado con El Perro](https://open.spotify.com/track/3Qnco60FwhXUpGYzCWmbFt) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [La Lotería](https://open.spotify.com/album/3jOBDGEiCdccHnOaHwZmtY) | 2:52 | 2025-02-21 |  |
 | [Donde Pongo el Ojo \- En Vivo](https://open.spotify.com/track/3BGMZc1MSVQ43rob1JooW7) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Azules Reflejos \(En Vivo\)](https://open.spotify.com/album/650mFzQHW866meTGyp3ToF) | 2:52 | 2024-08-08 | 2026-05-10 |
@@ -72,5 +72,6 @@
 | [Vuelve](https://open.spotify.com/track/1x53w4Ylh1c0RmNCrJWqIB) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Vuelve](https://open.spotify.com/album/7jcACbrK7WZcC0AnWxgjDa) | 3:34 | 2024-08-08 |  |
 | [Ya No Me Importa](https://open.spotify.com/track/6T684u0tL0gliUK6Wb0z3X) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Contundente](https://open.spotify.com/album/3rTyeuM7gwK5W9kVKimkdm) | 3:43 | 2024-08-08 |  |
 | [Yo soy Buena Mujer](https://open.spotify.com/track/5TPe8X3ngcYaglWrocitbz) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [La Lotería](https://open.spotify.com/album/3jOBDGEiCdccHnOaHwZmtY) | 3:20 | 2024-08-08 |  |
+| [Ódiame \(En Vivo\)](https://open.spotify.com/track/1dAknd30nacHZilqUb2fnT) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Ódiame \(En Vivo\)](https://open.spotify.com/album/3KzkE6ODv8I5XAIghnkUHw) | 3:19 | 2026-05-27 |  |
 
 \*This playlist was first scraped on 2024-08-08. Prior content cannot be recovered.

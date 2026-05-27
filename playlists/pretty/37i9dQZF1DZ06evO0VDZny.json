@@ -1,12 +1,12 @@
 {
   "description": "This is Bring Me The Horizon. The essential tracks, all in one playlist.",
-  "num_followers": 512240,
+  "num_followers": 512304,
   "original_name": "This Is Bring Me The Horizon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahI/gAAAAABvJNlRzF2H/WAJ/s4oyy/o",
+  "snapshot_id": "ahORAAAAAACVcVxgs2u+GTTzKSR4OEDk",
   "tracks": [
     {
       "added_at": null,
@@ -648,13 +648,13 @@
           "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
         },
         {
-          "name": "lophiile",
-          "url": "https://open.spotify.com/artist/5g5eVr2vAQnd12Q1XCJD7R"
+          "name": "Dimension 32",
+          "url": "https://open.spotify.com/artist/46RYzJ2442SuhtOTl281nz"
         }
       ],
-      "duration_ms": 309218,
-      "name": "med!cine.fbk",
-      "url": "https://open.spotify.com/track/4XhbazNmRNlkUkjYX38Obc"
+      "duration_ms": 205212,
+      "name": "drwn.vvv",
+      "url": "https://open.spotify.com/track/7lXJ3hmDo5XK1witUxj8aX"
     },
     {
       "added_at": null,
@@ -728,13 +728,13 @@
           "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
         },
         {
-          "name": "Dimension 32",
-          "url": "https://open.spotify.com/artist/46RYzJ2442SuhtOTl281nz"
+          "name": "Mondo Loops",
+          "url": "https://open.spotify.com/artist/1XFN3VcuKr4tsTtQlRiTgK"
         }
       ],
-      "duration_ms": 205212,
-      "name": "drwn.vvv",
-      "url": "https://open.spotify.com/track/7lXJ3hmDo5XK1witUxj8aX"
+      "duration_ms": 166881,
+      "name": "shadowm0ses.frq",
+      "url": "https://open.spotify.com/track/1mdSf2B1wLuUl3XQQEtc00"
     },
     {
       "added_at": null,
@@ -771,22 +771,6 @@
       "duration_ms": 212572,
       "name": "Let\u2019s Get The Party Started (feat. Bring Me The Horizon)",
       "url": "https://open.spotify.com/track/2ONPuwAuOVO6RbzKaiowxD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "L.I.V.E. In S\u00e3o Paulo (Live Immersive Virtual Experiment)",
-        "url": "https://open.spotify.com/album/0tlzXZQXAeBUCXv3eHHjXU"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        }
-      ],
-      "duration_ms": 75838,
-      "name": "(Interlude) Project Angel Dust - L.I.V.E. In S\u00e3o Paulo (Live Immersive Virtual Experiment)",
-      "url": "https://open.spotify.com/track/6vc8BQdoWY0IFD773n9gqA"
     },
     {
       "added_at": null,
@@ -876,13 +860,37 @@
           "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
         },
         {
-          "name": "Kanisan",
-          "url": "https://open.spotify.com/artist/0Q6S7QIOyuvDYzbhpvM5FO"
+          "name": "lophiile",
+          "url": "https://open.spotify.com/artist/5g5eVr2vAQnd12Q1XCJD7R"
         }
       ],
-      "duration_ms": 188288,
-      "name": "in_the_dark.ech",
-      "url": "https://open.spotify.com/track/78mP1BhsKkinyPyFK0whIF"
+      "duration_ms": 309218,
+      "name": "med!cine.fbk",
+      "url": "https://open.spotify.com/track/4XhbazNmRNlkUkjYX38Obc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo-files",
+        "url": "https://open.spotify.com/album/34pF0wOGswprAZCsI8A1Fs"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        },
+        {
+          "name": "Casiio",
+          "url": "https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a"
+        },
+        {
+          "name": "No Spirit",
+          "url": "https://open.spotify.com/artist/4XbnhifKeOnyfTsCInrQsX"
+        }
+      ],
+      "duration_ms": 162946,
+      "name": "canyoufeelmy<3.tmpx",
+      "url": "https://open.spotify.com/track/4oulNVAcHE3WWxyy8kYvcz"
     }
   ],
   "unique_name": "This Is Bring Me The Horizon",

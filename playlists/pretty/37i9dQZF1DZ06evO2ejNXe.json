@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Zarape. The essential tracks, all in one playlist.",
-  "num_followers": 1716,
+  "num_followers": 1715,
   "original_name": "This Is Banda Zarape",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahI/gAAAAACDeaIZqZ4y44fUoxPBMQV4",
+  "snapshot_id": "ahORAAAAAADrg6vg0l51EkUeQWD2bGza",
   "tracks": [
     {
       "added_at": null,
@@ -459,8 +459,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Es La Primera Vez",
-        "url": "https://open.spotify.com/album/1oDrAVB7a7vPeNTGiJlFHI"
+        "name": "LA GORDA",
+        "url": "https://open.spotify.com/album/26sbSnTr3SZ9gU2auO78Ha"
       },
       "artists": [
         {
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
         }
       ],
-      "duration_ms": 218466,
-      "name": "Claridad",
-      "url": "https://open.spotify.com/track/7CbrBSvy75RKDVHuCmc9M6"
+      "duration_ms": 206000,
+      "name": "LA GORDA",
+      "url": "https://open.spotify.com/track/0G9moVihw52g3agFXan7Mu"
     },
     {
       "added_at": null,
@@ -491,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "LA GORDA",
-        "url": "https://open.spotify.com/album/26sbSnTr3SZ9gU2auO78Ha"
+        "name": "Es La Primera Vez",
+        "url": "https://open.spotify.com/album/1oDrAVB7a7vPeNTGiJlFHI"
       },
       "artists": [
         {
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
         }
       ],
-      "duration_ms": 206000,
-      "name": "LA GORDA",
-      "url": "https://open.spotify.com/track/0G9moVihw52g3agFXan7Mu"
+      "duration_ms": 218466,
+      "name": "Claridad",
+      "url": "https://open.spotify.com/track/7CbrBSvy75RKDVHuCmc9M6"
     },
     {
       "added_at": null,
@@ -539,6 +539,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Popurr\u00ed",
+        "url": "https://open.spotify.com/album/6oFY7iqrjHUg8lzyNYORyC"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        },
+        {
+          "name": "Banda Zarape",
+          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
+        },
+        {
+          "name": "Roberto Junior Y Su Bande\u00f1o",
+          "url": "https://open.spotify.com/artist/6lcyDWmvYnBiGgHO9knEOb"
+        }
+      ],
+      "duration_ms": 645067,
+      "name": "Popurr\u00ed",
+      "url": "https://open.spotify.com/track/64ffk6yPKFyOGOsKWHXuzy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Es La Primera Vez",
         "url": "https://open.spotify.com/album/1oDrAVB7a7vPeNTGiJlFHI"
       },
@@ -567,30 +591,6 @@
       "duration_ms": 181293,
       "name": "Muevelo Bien",
       "url": "https://open.spotify.com/track/2pI4bZrrzlTWT8Xze5IDWD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Popurr\u00ed",
-        "url": "https://open.spotify.com/album/6oFY7iqrjHUg8lzyNYORyC"
-      },
-      "artists": [
-        {
-          "name": "Mi Banda El Mexicano",
-          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
-        },
-        {
-          "name": "Banda Zarape",
-          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
-        },
-        {
-          "name": "Roberto Junior Y Su Bande\u00f1o",
-          "url": "https://open.spotify.com/artist/6lcyDWmvYnBiGgHO9knEOb"
-        }
-      ],
-      "duration_ms": 645067,
-      "name": "Popurr\u00ed",
-      "url": "https://open.spotify.com/track/64ffk6yPKFyOGOsKWHXuzy"
     },
     {
       "added_at": null,
@@ -643,6 +643,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "TODO MUNDO A BAILAR",
+        "url": "https://open.spotify.com/album/2ViInMyOmHTS2QPK83Vkwv"
+      },
+      "artists": [
+        {
+          "name": "Banda Zarape",
+          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
+        }
+      ],
+      "duration_ms": 198500,
+      "name": "TODO MUNDO A BAILAR",
+      "url": "https://open.spotify.com/track/0KGOKIeuWlL3TCRRECdS21"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Es La Primera Vez",
         "url": "https://open.spotify.com/album/1oDrAVB7a7vPeNTGiJlFHI"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 142440,
       "name": "No Se Ha Dado Cuenta",
       "url": "https://open.spotify.com/track/4WgrBRLLELpGONqXHdZBAy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "TODO MUNDO A BAILAR",
-        "url": "https://open.spotify.com/album/2ViInMyOmHTS2QPK83Vkwv"
-      },
-      "artists": [
-        {
-          "name": "Banda Zarape",
-          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
-        }
-      ],
-      "duration_ms": 198500,
-      "name": "TODO MUNDO A BAILAR",
-      "url": "https://open.spotify.com/track/0KGOKIeuWlL3TCRRECdS21"
     },
     {
       "added_at": null,

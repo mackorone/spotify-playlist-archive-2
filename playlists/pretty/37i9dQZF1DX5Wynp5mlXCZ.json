@@ -1,6 +1,6 @@
 {
   "description": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u0442\u0430 \u0441\u0432\u0456\u0442\u043e\u0432\u0456 \u0430\u0440\u0442\u0438\u0441\u0442\u0438 \u0432 \u0434\u043e\u0431\u0456\u0440\u0446\u0456 \u043d\u0430\u0439\u0446\u0456\u043a\u0430\u0432\u0456\u0448\u0438\u0445 \u043f\u043e\u043f \u0442\u0440\u0435\u043a\u0456\u0432. \u041e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: OSTY\n",
-  "num_followers": 15138,
+  "num_followers": 15142,
   "original_name": "\u0422\u041e\u041f \u041f\u041e\u041f 2026",
   "owner": {
     "name": "Spotify",
@@ -899,22 +899,6 @@
     {
       "added_at": "2026-05-21 21:00:28",
       "album": {
-        "name": "\u042f\u043f\u043e\u043d\u0456\u044f",
-        "url": "https://open.spotify.com/album/0kBKwloGNP7QnCbHnFiXmx"
-      },
-      "artists": [
-        {
-          "name": "DOROFEEVA",
-          "url": "https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM"
-        }
-      ],
-      "duration_ms": 154030,
-      "name": "\u042f\u043f\u043e\u043d\u0456\u044f",
-      "url": "https://open.spotify.com/track/617ECGnksDPGqkR0FKsoye"
-    },
-    {
-      "added_at": "2026-05-21 21:00:28",
-      "album": {
         "name": "Gorgone",
         "url": "https://open.spotify.com/album/5QVCAOKiBikNLZRmlsvLdX"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 302989,
       "name": "Gorgone",
       "url": "https://open.spotify.com/track/4a4NSZqnAJMyizWczuRnlV"
+    },
+    {
+      "added_at": "2026-05-21 21:00:28",
+      "album": {
+        "name": "\u042f\u043f\u043e\u043d\u0456\u044f",
+        "url": "https://open.spotify.com/album/0kBKwloGNP7QnCbHnFiXmx"
+      },
+      "artists": [
+        {
+          "name": "DOROFEEVA",
+          "url": "https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM"
+        }
+      ],
+      "duration_ms": 154030,
+      "name": "\u042f\u043f\u043e\u043d\u0456\u044f",
+      "url": "https://open.spotify.com/track/617ECGnksDPGqkR0FKsoye"
     },
     {
       "added_at": "2026-05-21 21:00:28",
@@ -979,6 +979,22 @@
     {
       "added_at": "2026-05-21 21:00:28",
       "album": {
+        "name": "Ridnym",
+        "url": "https://open.spotify.com/album/7dr61EZEcX5C7jaaEyf8zn"
+      },
+      "artists": [
+        {
+          "name": "Lel\u00e9ka",
+          "url": "https://open.spotify.com/artist/6SoecBx6mP4YfrEVVb0GcG"
+        }
+      ],
+      "duration_ms": 178824,
+      "name": "Ridnym",
+      "url": "https://open.spotify.com/track/52IlNxHUoQ3ZZyw9atSGVN"
+    },
+    {
+      "added_at": "2026-05-21 21:00:28",
+      "album": {
         "name": "\u0421\u043c\u0430\u043a-\u043f\u0435\u0447\u0430\u043b\u044c",
         "url": "https://open.spotify.com/album/0KgdsfCECyNhkkCkyiuT4k"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 148423,
       "name": "\u0421\u043c\u0430\u043a-\u043f\u0435\u0447\u0430\u043b\u044c",
       "url": "https://open.spotify.com/track/6CTjxo3YyfvfJzBXhDN5Yx"
-    },
-    {
-      "added_at": "2026-05-21 21:00:28",
-      "album": {
-        "name": "Ridnym",
-        "url": "https://open.spotify.com/album/7dr61EZEcX5C7jaaEyf8zn"
-      },
-      "artists": [
-        {
-          "name": "Lel\u00e9ka",
-          "url": "https://open.spotify.com/artist/6SoecBx6mP4YfrEVVb0GcG"
-        }
-      ],
-      "duration_ms": 178824,
-      "name": "Ridnym",
-      "url": "https://open.spotify.com/track/52IlNxHUoQ3ZZyw9atSGVN"
     },
     {
       "added_at": "2026-05-21 21:00:28",

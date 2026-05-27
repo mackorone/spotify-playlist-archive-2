@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 
 > Türkçe rap'in hit şarkıları ve zirveye oynayanlar\. Kapak: Patron
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,405,872 likes - 48 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,405,870 likes - 48 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "This is Slim Dusty. The essential tracks, all in one playlist.",
-  "num_followers": 25540,
+  "num_followers": 25543,
   "original_name": "This Is Slim Dusty",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahI/gAAAAACJ+2TH0MG6Fi9fb4OoJFIm",
+  "snapshot_id": "ahORAAAAAACQ4y6AkLYY3gSmECoNn0yb",
   "tracks": [
     {
       "added_at": null,
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/34wyMtIMapUICxpdi5hkjf"
         }
       ],
-      "duration_ms": 187546,
-      "name": "G'Day Blue",
-      "url": "https://open.spotify.com/track/43A1Y9Z1KRzmR3Oao6uwkt"
+      "duration_ms": 232746,
+      "name": "Where Country Is",
+      "url": "https://open.spotify.com/track/0OUJQOvbcQx82CQk27Koly"
     },
     {
       "added_at": null,
@@ -268,9 +268,9 @@
           "url": "https://open.spotify.com/artist/34wyMtIMapUICxpdi5hkjf"
         }
       ],
-      "duration_ms": 232746,
-      "name": "Where Country Is",
-      "url": "https://open.spotify.com/track/0OUJQOvbcQx82CQk27Koly"
+      "duration_ms": 187546,
+      "name": "G'Day Blue",
+      "url": "https://open.spotify.com/track/43A1Y9Z1KRzmR3Oao6uwkt"
     },
     {
       "added_at": null,
@@ -339,38 +339,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Makin' A Mile",
-        "url": "https://open.spotify.com/album/5rsWjmX5VlaSbK723S3E3v"
-      },
-      "artists": [
-        {
-          "name": "Slim Dusty",
-          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
-        }
-      ],
-      "duration_ms": 245613,
-      "name": "Something In The Pilliga",
-      "url": "https://open.spotify.com/track/0LAF0bcPsvdtrwYTARzDzA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No. 50 - The Golden Anniversary Album",
-        "url": "https://open.spotify.com/album/78LRfatOMrEN0a3Ix1NmeW"
-      },
-      "artists": [
-        {
-          "name": "Slim Dusty",
-          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Walk A Country Mile",
-      "url": "https://open.spotify.com/track/48aOpQt8DsYnCgWeSDAqqU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lights On The Hill (Remastered)",
         "url": "https://open.spotify.com/album/7x201Ntvhwic5InkKSNRZa"
       },
@@ -391,22 +359,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Looking Forward Looking Back",
-        "url": "https://open.spotify.com/album/2cBqkvAu8keKTv0RqAkwa2"
+        "name": "No. 50 - The Golden Anniversary Album",
+        "url": "https://open.spotify.com/album/78LRfatOMrEN0a3Ix1NmeW"
       },
       "artists": [
         {
           "name": "Slim Dusty",
           "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
-        },
-        {
-          "name": "Kasey Chambers",
-          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
         }
       ],
-      "duration_ms": 221306,
-      "name": "Matilda No More",
-      "url": "https://open.spotify.com/track/6sLEltqDa8gGjGwbljmxPM"
+      "duration_ms": 172000,
+      "name": "Walk A Country Mile",
+      "url": "https://open.spotify.com/track/48aOpQt8DsYnCgWeSDAqqU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Makin' A Mile",
+        "url": "https://open.spotify.com/album/5rsWjmX5VlaSbK723S3E3v"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "duration_ms": 245613,
+      "name": "Something In The Pilliga",
+      "url": "https://open.spotify.com/track/0LAF0bcPsvdtrwYTARzDzA"
     },
     {
       "added_at": null,
@@ -423,6 +403,26 @@
       "duration_ms": 271133,
       "name": "We've Done Us Proud",
       "url": "https://open.spotify.com/track/3Ul3CKnqUSGcoGSQU8v3lz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Looking Forward Looking Back",
+        "url": "https://open.spotify.com/album/2cBqkvAu8keKTv0RqAkwa2"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        },
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        }
+      ],
+      "duration_ms": 221306,
+      "name": "Matilda No More",
+      "url": "https://open.spotify.com/track/6sLEltqDa8gGjGwbljmxPM"
     },
     {
       "added_at": null,
@@ -463,22 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Give Me The Road (Remastered)",
-        "url": "https://open.spotify.com/album/0ih1aK9XXImHlI8Zyr4bX5"
-      },
-      "artists": [
-        {
-          "name": "Slim Dusty",
-          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
-        }
-      ],
-      "duration_ms": 170506,
-      "name": "Angel Of Goulburn Hill",
-      "url": "https://open.spotify.com/track/5JaysecwBApfjwOKKWlzlg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Makin' A Mile",
         "url": "https://open.spotify.com/album/5rsWjmX5VlaSbK723S3E3v"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 252266,
       "name": "Star Trucker",
       "url": "https://open.spotify.com/track/0v9pdSHL1Wm2CXoMzc9ZOg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Give Me The Road (Remastered)",
+        "url": "https://open.spotify.com/album/0ih1aK9XXImHlI8Zyr4bX5"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "duration_ms": 170506,
+      "name": "Angel Of Goulburn Hill",
+      "url": "https://open.spotify.com/track/5JaysecwBApfjwOKKWlzlg"
     },
     {
       "added_at": null,
@@ -527,26 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lost and Found",
-        "url": "https://open.spotify.com/album/4tAfpE4IepSl8JL7Jyv54z"
-      },
-      "artists": [
-        {
-          "name": "Troy Cassar-Daley",
-          "url": "https://open.spotify.com/artist/3RIsSUoG3tw0S19WabHxiM"
-        },
-        {
-          "name": "Slim Dusty",
-          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
-        }
-      ],
-      "duration_ms": 193493,
-      "name": "The Biggest Disappointment",
-      "url": "https://open.spotify.com/track/4CzNjmXvCS9v9EqyeQ8lGd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lights On The Hill (Remastered)",
         "url": "https://open.spotify.com/album/7x201Ntvhwic5InkKSNRZa"
       },
@@ -563,6 +543,26 @@
       "duration_ms": 190200,
       "name": "Truckin's In My Blood",
       "url": "https://open.spotify.com/track/6Zxga3jpf99AQ6b160pLrI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lost and Found",
+        "url": "https://open.spotify.com/album/4tAfpE4IepSl8JL7Jyv54z"
+      },
+      "artists": [
+        {
+          "name": "Troy Cassar-Daley",
+          "url": "https://open.spotify.com/artist/3RIsSUoG3tw0S19WabHxiM"
+        },
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "duration_ms": 193493,
+      "name": "The Biggest Disappointment",
+      "url": "https://open.spotify.com/track/4CzNjmXvCS9v9EqyeQ8lGd"
     },
     {
       "added_at": null,
@@ -615,6 +615,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Makin' A Mile",
+        "url": "https://open.spotify.com/album/5rsWjmX5VlaSbK723S3E3v"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "duration_ms": 213573,
+      "name": "Boomaroo Flyer",
+      "url": "https://open.spotify.com/track/4pZVl6zksJR8i2aZZHPPHr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Slim Dusty Heritage Album",
         "url": "https://open.spotify.com/album/00I7NIZRiiCpzH5BWn3PSC"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 463800,
       "name": "The Man From Snowy River",
       "url": "https://open.spotify.com/track/2xv0IvUYv7vkhKstp46RXg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Give Me The Road (Remastered)",
-        "url": "https://open.spotify.com/album/0ih1aK9XXImHlI8Zyr4bX5"
-      },
-      "artists": [
-        {
-          "name": "Slim Dusty",
-          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "Kelly's Offsider",
-      "url": "https://open.spotify.com/track/1xWdSpL2zvuafjX6mFPe5Y"
     },
     {
       "added_at": null,
@@ -663,8 +663,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Makin' A Mile",
-        "url": "https://open.spotify.com/album/5rsWjmX5VlaSbK723S3E3v"
+        "name": "Give Me The Road (Remastered)",
+        "url": "https://open.spotify.com/album/0ih1aK9XXImHlI8Zyr4bX5"
       },
       "artists": [
         {
@@ -672,9 +672,9 @@
           "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
         }
       ],
-      "duration_ms": 213573,
-      "name": "Boomaroo Flyer",
-      "url": "https://open.spotify.com/track/4pZVl6zksJR8i2aZZHPPHr"
+      "duration_ms": 205000,
+      "name": "Kelly's Offsider",
+      "url": "https://open.spotify.com/track/1xWdSpL2zvuafjX6mFPe5Y"
     },
     {
       "added_at": null,
@@ -727,22 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Slim Dusty... Live Into The 90's",
-        "url": "https://open.spotify.com/album/65OyUkNXHW2BncXXQ4AqeB"
-      },
-      "artists": [
-        {
-          "name": "Slim Dusty",
-          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
-        }
-      ],
-      "duration_ms": 92000,
-      "name": "I'm Going Back Again To Yarrawonga - Live",
-      "url": "https://open.spotify.com/track/58nl5MF8brCEqggrFbv9nL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lights On The Hill (Remastered)",
         "url": "https://open.spotify.com/album/7x201Ntvhwic5InkKSNRZa"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 165826,
       "name": "Bent-Axle Bob",
       "url": "https://open.spotify.com/track/42t66blDEyqv6M6EDt9FWb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Slim Dusty... Live Into The 90's",
+        "url": "https://open.spotify.com/album/65OyUkNXHW2BncXXQ4AqeB"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "duration_ms": 92000,
+      "name": "I'm Going Back Again To Yarrawonga - Live",
+      "url": "https://open.spotify.com/track/58nl5MF8brCEqggrFbv9nL"
     },
     {
       "added_at": null,

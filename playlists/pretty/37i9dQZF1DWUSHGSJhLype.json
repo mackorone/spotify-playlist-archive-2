@@ -1,6 +1,6 @@
 {
   "description": "aqui tem feijoada hot dog com pur\u00ea sushi moqueca a\u00e7a\u00ed cm peixe frito mta coisa / Foto: Jeninho, Kamisa 10",
-  "num_followers": 759694,
+  "num_followers": 759670,
   "original_name": "Puro Suco do Brasil",
   "owner": {
     "name": "Spotify",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2026-05-15 13:29:11",
       "album": {
+        "name": "Quest\u00e3o de Tempo (Ao Vivo / Vol.2)",
+        "url": "https://open.spotify.com/album/2TGnkCFVDWQ444lFDVxyT9"
+      },
+      "artists": [
+        {
+          "name": "Felipe e Rodrigo",
+          "url": "https://open.spotify.com/artist/7gZu6kPnY9enEi5FvgTO4F"
+        }
+      ],
+      "duration_ms": 171335,
+      "name": "Gosta De Rua - Ao Vivo",
+      "url": "https://open.spotify.com/track/1cIS13bqNfZcTs8LSK8r0a"
+    },
+    {
+      "added_at": "2026-05-15 13:29:11",
+      "album": {
         "name": "Parceira Pra Vida",
         "url": "https://open.spotify.com/album/5bGSk3r41O693lIhvdP9q5"
       },
@@ -1423,22 +1439,6 @@
       "duration_ms": 173180,
       "name": "Parceira Pra Vida",
       "url": "https://open.spotify.com/track/6jyFIpRJlNnkHQTXQrZYRz"
-    },
-    {
-      "added_at": "2026-05-15 13:29:11",
-      "album": {
-        "name": "Quest\u00e3o de Tempo (Ao Vivo / Vol.2)",
-        "url": "https://open.spotify.com/album/2TGnkCFVDWQ444lFDVxyT9"
-      },
-      "artists": [
-        {
-          "name": "Felipe e Rodrigo",
-          "url": "https://open.spotify.com/artist/7gZu6kPnY9enEi5FvgTO4F"
-        }
-      ],
-      "duration_ms": 171335,
-      "name": "Gosta De Rua - Ao Vivo",
-      "url": "https://open.spotify.com/track/1cIS13bqNfZcTs8LSK8r0a"
     },
     {
       "added_at": "2026-05-15 13:29:11",

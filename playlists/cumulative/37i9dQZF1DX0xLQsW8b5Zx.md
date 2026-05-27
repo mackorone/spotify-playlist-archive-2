@@ -4,7 +4,7 @@
 
 > Live fast, die awesome! A great mix of the best rockabilly tracks.
 
-220 songs - 9 hr 48 min
+221 songs - 9 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [Good Rockin' Boogie](https://open.spotify.com/track/7yV2BSU9Nmnw1xv1ldozhJ) | [Sleepy LaBeef](https://open.spotify.com/artist/4TWlhLMKfoIXqJOYxwKhdf) | [Rockabilly 1977](https://open.spotify.com/album/6wCq4bDPpN1sr9KtXq3vYf) | 1:52 | 2023-10-27 | 2026-04-05 |
 | [Goodbye Forever](https://open.spotify.com/track/24gCP3VKeK8aOdc01EBkVZ) | [Francine](https://open.spotify.com/artist/0SpWiyzKW4wSmiHlgZJywY) | [The Playmate](https://open.spotify.com/album/3p6EXaC1FsqKhCiMZ0poCb) | 3:54 | 2022-05-06 |  |
 | [Gotta Lot Of Rhythm In My Soul](https://open.spotify.com/track/7aZiLidYjoelX6E3nfpDM7) | [Patsy Cline](https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK) | [Rockabilly Rhythms](https://open.spotify.com/album/5KOnQUm8IXW6egsGtk2qZN) | 2:21 | 2022-05-06 | 2022-07-22 |
+| [Graceland](https://open.spotify.com/track/6uvs2pw75LSJjH5tCvpyGR) | [Charlie Sexton](https://open.spotify.com/artist/132XHXfIbAJi5jQKmH986p) | [True Romance \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5RyWJx6ASGDuaEwVe0aWvG) | 3:25 | 2025-10-24 |  |
 | [Great Balls Of Fire](https://open.spotify.com/track/64VP3skE86iTvdOlbzuIcO) | [Jerry Lee Lewis](https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo) | [Jerry Lee's Greatest](https://open.spotify.com/album/02FCCye8QsWyjHwedg9Quj) | 1:51 | 2022-05-06 |  |
 | [Hello Mary Lou](https://open.spotify.com/track/0YOasUp8fxPk3FXEa3fZ9z) | [Ricky Nelson](https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS) | [Legacy](https://open.spotify.com/album/1bZHbHtUvjGqUOKNla4lo0) | 2:18 | 2022-05-06 |  |
 | [Help Me Out](https://open.spotify.com/track/6qgKJxzgWqPyoHJaoDAnGE) | [The Hotlips](https://open.spotify.com/artist/1WNWaC0lAc3o5ODUvRfOo6) | [Help Me Out](https://open.spotify.com/album/1OiLEuPXzmyiPDUZtAQZYc) | 2:59 | 2022-07-05 | 2024-02-29 |
@@ -97,7 +98,7 @@
 | [Hold Me, Hug Me, Rock Me \- 2002 Digital Remaster](https://open.spotify.com/track/07dubfnUuwhOfV84rJ5EuO) | [Gene Vincent & His Blue Caps](https://open.spotify.com/artist/7lKaTIgVek1R2lqpCulQmq) | [Gene Vincent And His Blue Caps](https://open.spotify.com/album/0S5EEOJz0QJs16V3Z3uTyF) | 2:15 | 2022-05-06 | 2022-07-27 |
 | [Honky Tonk Train](https://open.spotify.com/track/0SPKGaIJFH7ReMd0fcRoJg) | [Hellbilly Boys](https://open.spotify.com/artist/5bCy5EywKFmYnkKrYnOnL5) | [Hellbilly Boys](https://open.spotify.com/album/6Q3q5EJ7u0WBBNzcJMAtHI) | 3:03 | 2022-05-06 | 2022-07-28 |
 | [Honky Tonk Train](https://open.spotify.com/track/5Hiig8bBkvu3OmtY2ozHCQ) | [Hellbilly Boys](https://open.spotify.com/artist/5bCy5EywKFmYnkKrYnOnL5) | [Hellbilly Boys](https://open.spotify.com/album/45fO2ERwfGc69by0oxaVAi) | 3:03 | 2022-09-02 | 2022-11-13 |
-| [Hot Rod Roadeo](https://open.spotify.com/track/5cWKBOUUemcjynxC5hS7yP) | [The Go Getters](https://open.spotify.com/artist/5UR2Ohlvs9osiEwbJVQHiq) | [Hot Rod Roadeo](https://open.spotify.com/album/3HMxOidYsEt6ayuiJALN0k) | 2:02 | 2023-10-27 |  |
+| [Hot Rod Roadeo](https://open.spotify.com/track/5cWKBOUUemcjynxC5hS7yP) | [The Go Getters](https://open.spotify.com/artist/5UR2Ohlvs9osiEwbJVQHiq) | [Hot Rod Roadeo](https://open.spotify.com/album/3HMxOidYsEt6ayuiJALN0k) | 2:02 | 2023-10-27 | 2026-05-27 |
 | [How You Want It Done](https://open.spotify.com/track/3y2I4D8IrJNuZoUFC7cKNF) | [Runnin' Wild](https://open.spotify.com/artist/4Qvv0xApnubSNhWSIJKPYt) | [Killer Taco Stomp](https://open.spotify.com/album/3QYbB8adrSwTCVbsy5qUYc) | 3:10 | 2022-05-06 | 2022-06-12 |
 | [I Got A Lot Of Rhythm In My Soul](https://open.spotify.com/track/4ZwNjuuUxTMBjRtGocNJCQ) | [Patsy Cline](https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK) | [Today, Tomorrow And Forever \- 20 Classics](https://open.spotify.com/album/0Fy5ifXfJvQhICrKpPNp1V) | 2:21 | 2022-09-02 | 2023-10-09 |
 | [I Got My Eyes On You](https://open.spotify.com/track/059NFe0ekQGQTL3i8TYttr) | [George Thorogood](https://open.spotify.com/artist/1avbhJvMxjF2VhG7BXXn60) | [The Hard Stuff](https://open.spotify.com/album/5acuHP4mLNKCYTxib9XHea) | 3:34 | 2022-05-06 | 2022-07-29 |

@@ -1,6 +1,6 @@
 {
   "description": "Women at full volume! Cover: Mariybu",
-  "num_followers": 49230,
+  "num_followers": 49225,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
@@ -187,22 +187,6 @@
     {
       "added_at": "2026-05-05 22:00:31",
       "album": {
-        "name": "fuego",
-        "url": "https://open.spotify.com/album/1kRigIQQUKqo0gZnPGGmSa"
-      },
-      "artists": [
-        {
-          "name": "Erda",
-          "url": "https://open.spotify.com/artist/0Zd813hYpR0qlSmJt5T8E7"
-        }
-      ],
-      "duration_ms": 140357,
-      "name": "fuego",
-      "url": "https://open.spotify.com/track/73xl6z80ICsdmciiizTq4z"
-    },
-    {
-      "added_at": "2026-05-05 22:00:31",
-      "album": {
         "name": "Ahogar",
         "url": "https://open.spotify.com/album/31XDTWFSluMZBsk2qytq7q"
       },
@@ -219,6 +203,22 @@
     {
       "added_at": "2026-05-05 22:00:31",
       "album": {
+        "name": "fuego",
+        "url": "https://open.spotify.com/album/1kRigIQQUKqo0gZnPGGmSa"
+      },
+      "artists": [
+        {
+          "name": "Erda",
+          "url": "https://open.spotify.com/artist/0Zd813hYpR0qlSmJt5T8E7"
+        }
+      ],
+      "duration_ms": 140357,
+      "name": "fuego",
+      "url": "https://open.spotify.com/track/73xl6z80ICsdmciiizTq4z"
+    },
+    {
+      "added_at": "2026-05-05 22:00:31",
+      "album": {
         "name": "Pfeil und Bogen",
         "url": "https://open.spotify.com/album/05eliY4RhHXsQmvC2jTS83"
       },
@@ -231,6 +231,42 @@
       "duration_ms": 170046,
       "name": "Pfeil und Bogen",
       "url": "https://open.spotify.com/track/3hxKz56t0LmiRhrWSO3sVg"
+    },
+    {
+      "added_at": "2026-05-05 22:00:31",
+      "album": {
+        "name": "wenn du mich brauchst",
+        "url": "https://open.spotify.com/album/10jHTTFc3KwGNx2vTCn1Y9"
+      },
+      "artists": [
+        {
+          "name": "Die P",
+          "url": "https://open.spotify.com/artist/0MOwIUMFiLwG7ls1MQsmhJ"
+        },
+        {
+          "name": "DeeVoe",
+          "url": "https://open.spotify.com/artist/7avn0wHSO3cny6OM46NALL"
+        }
+      ],
+      "duration_ms": 153298,
+      "name": "wenn du mich brauchst",
+      "url": "https://open.spotify.com/track/3HpBs2Y76Z21WVGaeb9VnZ"
+    },
+    {
+      "added_at": "2026-05-05 22:00:31",
+      "album": {
+        "name": "Kein Ponyhof",
+        "url": "https://open.spotify.com/album/40XDSJnsxmultAZzOo5Jid"
+      },
+      "artists": [
+        {
+          "name": "Mariybu",
+          "url": "https://open.spotify.com/artist/3R1Ha6KqmyhC2vUrmEocEG"
+        }
+      ],
+      "duration_ms": 125647,
+      "name": "Kein Ponyhof",
+      "url": "https://open.spotify.com/track/17RvndgsVO7lqqfGyQ10rA"
     },
     {
       "added_at": "2026-05-05 22:00:31",
@@ -255,42 +291,6 @@
       "duration_ms": 118938,
       "name": "HMDL",
       "url": "https://open.spotify.com/track/4xVR7iSp5Mdl6FGCbzz9AM"
-    },
-    {
-      "added_at": "2026-05-05 22:00:31",
-      "album": {
-        "name": "Kein Ponyhof",
-        "url": "https://open.spotify.com/album/40XDSJnsxmultAZzOo5Jid"
-      },
-      "artists": [
-        {
-          "name": "Mariybu",
-          "url": "https://open.spotify.com/artist/3R1Ha6KqmyhC2vUrmEocEG"
-        }
-      ],
-      "duration_ms": 125647,
-      "name": "Kein Ponyhof",
-      "url": "https://open.spotify.com/track/17RvndgsVO7lqqfGyQ10rA"
-    },
-    {
-      "added_at": "2026-05-05 22:00:31",
-      "album": {
-        "name": "wenn du mich brauchst",
-        "url": "https://open.spotify.com/album/10jHTTFc3KwGNx2vTCn1Y9"
-      },
-      "artists": [
-        {
-          "name": "Die P",
-          "url": "https://open.spotify.com/artist/0MOwIUMFiLwG7ls1MQsmhJ"
-        },
-        {
-          "name": "DeeVoe",
-          "url": "https://open.spotify.com/artist/7avn0wHSO3cny6OM46NALL"
-        }
-      ],
-      "duration_ms": 153298,
-      "name": "wenn du mich brauchst",
-      "url": "https://open.spotify.com/track/3HpBs2Y76Z21WVGaeb9VnZ"
     },
     {
       "added_at": "2026-05-05 22:00:31",

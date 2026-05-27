@@ -4,7 +4,7 @@
 
 > De beste Studenten Hits 2026 op één plek! 🍻 Dé ultieme playlist voor je huisfeest of de kroeg\. Vol met de beste Nederpop, kroegenhits, meezingers en de hardste tracks van Bankzitters, Antoon, Turfy Gang en Roxy Dekker\. 🎤🔥 Cover: Roxy Dekker
 
-160 songs - 7 hr 13 min
+162 songs - 7 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [Mijntje](https://open.spotify.com/track/7G8Sd2g1wVXnmPUxpRitEX) | [Nachtdienst](https://open.spotify.com/artist/3064mDVay7KaKF8TyuD8kw), [Bizzey](https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8) | [Mijntje](https://open.spotify.com/album/1NhlRAt4HUgo79YdrhZG0v) | 2:31 | 2025-07-18 | 2025-08-30 |
 | [Misschien \(Kwijt\) \- Freddi Remix](https://open.spotify.com/track/01ZZ9YcEKPWWz4mXP1kwdv) | [Gotu Jim](https://open.spotify.com/artist/5rpTehBPpr3mo7L0ZDZhrQ), [Freddi](https://open.spotify.com/artist/4Zd4UkFH4ixGwkoC2rwigR) | [Misschien \(Kwijt\) \[Freddi Remix\]](https://open.spotify.com/album/6KR61gFX8NcpycabvalfAu) | 3:33 | 2025-07-18 | 2026-02-11 |
 | [Moët Dat Nou](https://open.spotify.com/track/0HWjXL4layDbYbCj21uzd8) | [Robert van Hemert](https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k), [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE) | [Moët Dat Nou](https://open.spotify.com/album/7F5D4dM8ANyl1zY5V7knze) | 2:34 | 2026-04-24 |  |
+| [Multimiljonair](https://open.spotify.com/track/7febA9EPgU97DuLg9HAocX) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Multimiljonair](https://open.spotify.com/album/7MsrN7zy5Fm9iJRrAgOwPd) | 2:13 | 2026-05-26 |  |
 | [Nachtenlang](https://open.spotify.com/track/2Z3zbhR3DuwzXKoG5aN936) | [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Yves Berendse](https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F) | [Nachtenlang](https://open.spotify.com/album/4OBRKixGsaU3xxK0tAZKkh) | 2:55 | 2026-05-19 |  |
 | [Noodgeval](https://open.spotify.com/track/2LcmbuYX7tyR4DWy3b273L) | [Goldband](https://open.spotify.com/artist/6mS5GeFyhea6w9OKo8PO3p) | [Betaalbare Romantiek](https://open.spotify.com/album/2z44b4hwadRlEaNm2SutKO) | 3:34 | 2025-07-18 | 2025-11-15 |
 | [Okee Shordy](https://open.spotify.com/track/47AUY6Kl6iiuSzZbOgwGF9) | [Trobi](https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Chivv](https://open.spotify.com/artist/2hBfmHHnM4dS4pJgEJENCg), [ADF Samski](https://open.spotify.com/artist/5qeFPM2PZUCzcpkY4e4RC8) | [Okee Shordy](https://open.spotify.com/album/3U0lv1cCRjEfiRAplhaqgw) | 2:30 | 2025-07-18 | 2026-02-11 |
@@ -141,6 +142,7 @@
 | [terms and conditions](https://open.spotify.com/track/1NPfiTCBjiYUya7npwzbAY) | [BL3SS](https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI) | [terms and conditions](https://open.spotify.com/album/6i1OPAnr4QVZGwOI7jYGj8) | 2:31 | 2026-04-24 |  |
 | [Terug In De Tijd](https://open.spotify.com/track/6vl3Gxg0Vd5vIOFF3XJObT) | [Yves Berendse](https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F) | [Voor Altijd](https://open.spotify.com/album/17FIFTOPJCHfAQjSasRhEd) | 3:07 | 2026-05-19 |  |
 | [That's What I Like](https://open.spotify.com/track/0KKkJNfGyhkQ5aFogxQAPU) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [24K Magic](https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA) | 3:26 | 2026-02-10 |  |
+| [Theetje](https://open.spotify.com/track/6kXZPkenUAtaESF0gNoY1x) | [LUUK](https://open.spotify.com/artist/6mnQ1c9XT8X5tZ3pZYzue1) | [Theetje](https://open.spotify.com/album/6ll8bW8LRTjjY3sWr8e8WR) | 2:35 | 2026-05-26 |  |
 | [Tijdmachine](https://open.spotify.com/track/3DMcsloRh5Rbf0oMBeMOhY) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [5 Sterren](https://open.spotify.com/album/3URNtvf5sEMGr7bq4vjiox) | 2:15 | 2025-07-18 |  |
 | [tutututututu](https://open.spotify.com/track/7zbMhwqbFLjSi7Tuh4w4sR) | [Turfy Gang](https://open.spotify.com/artist/7DOOGHZ6CXsF8bvNrnDE6W) | [tutututututu](https://open.spotify.com/album/1tCcfIT6r9t2Q4lkjDX6mu) | 2:38 | 2026-04-24 |  |
 | [Uitslover](https://open.spotify.com/track/3HUpSJBn9COpunhZJczbQw) | [Samuel Welten](https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9), [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Uitslover](https://open.spotify.com/album/6YDru2ioziRTAmmZ4iDZS6) | 2:35 | 2026-02-27 |  |

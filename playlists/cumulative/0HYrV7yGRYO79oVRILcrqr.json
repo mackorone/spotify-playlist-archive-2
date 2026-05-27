@@ -4347,6 +4347,24 @@
     },
     {
       "album": {
+        "name": "Now Weaponized!",
+        "url": "https://open.spotify.com/album/3S79mUMMfO1orW6ubEsTY0"
+      },
+      "artists": [
+        {
+          "name": "Randy Ellefson",
+          "url": "https://open.spotify.com/artist/6x4QyTflA6R6xOvtXHsyNI"
+        }
+      ],
+      "date_added": "2026-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341293,
+      "name": "Keeping Pace",
+      "url": "https://open.spotify.com/track/35YrQi7mkqLcsbkOpGS6gn"
+    },
+    {
+      "album": {
         "name": "Kick'Em In The Head",
         "url": "https://open.spotify.com/album/7nk2GdYm79ADyoqJDruRT5"
       },
@@ -5640,6 +5658,24 @@
       "duration_ms": 196304,
       "name": "Nerves of Steel",
       "url": "https://open.spotify.com/track/21heBobd16ggH4cfDKll9A"
+    },
+    {
+      "album": {
+        "name": "Night is Young",
+        "url": "https://open.spotify.com/album/4ejuRVnwvqW6bng1O811IL"
+      },
+      "artists": [
+        {
+          "name": "Thomas Duxbury",
+          "url": "https://open.spotify.com/artist/6ECILQNZ22Kc1VCNpX4Cct"
+        }
+      ],
+      "date_added": "2026-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172874,
+      "name": "Night is Young",
+      "url": "https://open.spotify.com/track/71dtvsaPOTCi4RkQzmIKlE"
     },
     {
       "album": {

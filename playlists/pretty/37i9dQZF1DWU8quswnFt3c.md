@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women at full volume\. Cover: Tenille Towner
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,038,359 likes - 45 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,038,304 likes - 45 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 41 | [Y QUÉ TAL SI YA ES MOMENTO](https://open.spotify.com/track/77g27yz56vE5OjWCxha0Fs) | [Shirel](https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln) | [CANDADO](https://open.spotify.com/album/00CudgxUmqI9koR8mspIUd) | 3:02 |
 | 42 | [No me soltes \(pt.2\)](https://open.spotify.com/track/0bda6sDLcIiy5vm3oUXHw5) | [Paula Prieto](https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl) | [TEMPORAL, LP.](https://open.spotify.com/album/6ITfMwpGDKVTzl16mMXvYN) | 3:13 |
 | 43 | [звіра](https://open.spotify.com/track/6FMmOofZMTzT9D1jbd7wkp) | [YUVI](https://open.spotify.com/artist/6l6Oqj9SmzFR81eaVmyhB9) | [Viskra](https://open.spotify.com/album/6tKb5eqYdO6scLOYgzEov5) | 3:43 |
-| 44 | [Coats](https://open.spotify.com/track/2BFQ2VihWx2mSKpqUIkoDb) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Coats](https://open.spotify.com/album/2Diqky5gHLlBs2A3X4UfRC) | 3:28 |
-| 45 | [Excusez moi](https://open.spotify.com/track/2EUe3you7Ms52aZRLAXI32) | [Sawsane](https://open.spotify.com/artist/4RqCdNHpABy3V9tfKsf5QG) | [Excusez moi](https://open.spotify.com/album/3UoEQJwqf3NepYxj5pDjhj) | 2:58 |
+| 44 | [Excusez moi](https://open.spotify.com/track/2EUe3you7Ms52aZRLAXI32) | [Sawsane](https://open.spotify.com/artist/4RqCdNHpABy3V9tfKsf5QG) | [Excusez moi](https://open.spotify.com/album/3UoEQJwqf3NepYxj5pDjhj) | 2:58 |
+| 45 | [Coats](https://open.spotify.com/track/2BFQ2VihWx2mSKpqUIkoDb) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Coats](https://open.spotify.com/album/2Diqky5gHLlBs2A3X4UfRC) | 3:28 |
 
 Snapshot ID: `AAAAAOkhr3bF8r33YpEHZj48C+zUB7x/`

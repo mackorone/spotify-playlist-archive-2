@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSHGSJhLype.md) - [plain]
 
 > aqui tem feijoada hot dog com purê sushi moqueca açaí cm peixe frito mta coisa / Foto: Jeninho, Kamisa 10
 
-[Spotify](https://open.spotify.com/user/spotify) - 759,694 likes - 79 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 759,670 likes - 79 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSHGSJhLype.md) - [plain]
 | 65 | [Você é Meu Mô \- Ao Vivo](https://open.spotify.com/track/4kB3EvXt9ZyFibpUWvUpo0) | [Kamisa 10](https://open.spotify.com/artist/39VceBo0jXir85LCeAmAIs), [Grupo Menos É Mais](https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi) | [Você é Meu Mô \(Ao Vivo\)](https://open.spotify.com/album/4bsjYoFGICBWIC84T8IUFf) | 2:26 |
 | 66 | [Melzinho](https://open.spotify.com/track/4HAF5oAZt0Dq7pF6P0NqEW) | [Talita Mel](https://open.spotify.com/artist/5wbSuC0q60AcyFwikoH8k3), [Xand Avião](https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616) | [Na Pegada da Talita](https://open.spotify.com/album/0dThd9WFSTWGOm5Is6xaKv) | 2:24 |
 | 67 | [10 e Faixa](https://open.spotify.com/track/2ujLDcCVOaa4AZGkccXCgi) | [Jeninho](https://open.spotify.com/artist/6MV2UXdX8Pqy25rI7dl6os), [Kamisa 10](https://open.spotify.com/artist/39VceBo0jXir85LCeAmAIs) | [10 e Faixa](https://open.spotify.com/album/1jWgmjvS0H6G65CsRb2alO) | 2:40 |
-| 68 | [Parceira Pra Vida](https://open.spotify.com/track/6jyFIpRJlNnkHQTXQrZYRz) | [Marcynho Sensação](https://open.spotify.com/artist/4dnPDc045bVjibyATxVUOs), [Raí Saia Rodada](https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz), [Rey Vaqueiro](https://open.spotify.com/artist/2LiTVEYDOEckioqrkD83jL) | [Parceira Pra Vida](https://open.spotify.com/album/5bGSk3r41O693lIhvdP9q5) | 2:53 |
-| 69 | [Gosta De Rua \- Ao Vivo](https://open.spotify.com/track/1cIS13bqNfZcTs8LSK8r0a) | [Felipe e Rodrigo](https://open.spotify.com/artist/7gZu6kPnY9enEi5FvgTO4F) | [Questão de Tempo \(Ao Vivo / Vol.2\)](https://open.spotify.com/album/2TGnkCFVDWQ444lFDVxyT9) | 2:51 |
+| 68 | [Gosta De Rua \- Ao Vivo](https://open.spotify.com/track/1cIS13bqNfZcTs8LSK8r0a) | [Felipe e Rodrigo](https://open.spotify.com/artist/7gZu6kPnY9enEi5FvgTO4F) | [Questão de Tempo \(Ao Vivo / Vol.2\)](https://open.spotify.com/album/2TGnkCFVDWQ444lFDVxyT9) | 2:51 |
+| 69 | [Parceira Pra Vida](https://open.spotify.com/track/6jyFIpRJlNnkHQTXQrZYRz) | [Marcynho Sensação](https://open.spotify.com/artist/4dnPDc045bVjibyATxVUOs), [Raí Saia Rodada](https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz), [Rey Vaqueiro](https://open.spotify.com/artist/2LiTVEYDOEckioqrkD83jL) | [Parceira Pra Vida](https://open.spotify.com/album/5bGSk3r41O693lIhvdP9q5) | 2:53 |
 | 70 | [Samara \(Ligeira\)](https://open.spotify.com/track/6LYzP4DUSjxtJos65h8Vx8) | [J\. Eskine](https://open.spotify.com/artist/4gKSUeHW82tGBeJsJSB1JC), [Alef Donk](https://open.spotify.com/artist/0aSE67DwCWR6JKhdVUmz6I) | [Samara \(Ligeira\)](https://open.spotify.com/album/5NjtTIQEutOdQHkLMTshtQ) | 3:36 |
 | 71 | [Jeito De Gringa \- Ao Vivo](https://open.spotify.com/track/45HOUXIDT3PDdIsDIkMcIk) | [NATTAN](https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT) | [Nattan In Vegas, Pt\. 3 \(Ao Vivo\)](https://open.spotify.com/album/1py4YuLuTkSr8zSGsLt9YZ) | 2:49 |
 | 72 | [Como Acredito No Amor](https://open.spotify.com/track/5Dwd5WQQSWPn693k5VaaSw) | [DG e Batidão Stronda](https://open.spotify.com/artist/7gIeuq2qBfYhO1budb6TSQ), [MC Meno K](https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK), [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q) | [Como Acredito No Amor](https://open.spotify.com/album/5GXtW3MsnGS5Fu4KD3Sase) | 2:49 |

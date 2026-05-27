@@ -1,12 +1,12 @@
 {
   "description": "greenery & humid air \ud83c\udf43",
-  "num_followers": 20396,
+  "num_followers": 20437,
   "original_name": "Upstate",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJ16sDNq3avKbTA7zHceE1QmRI9t",
+  "snapshot_id": "AAAAADV5L8u9HklcTvXlCEmSoPGmXRfT",
   "tracks": [
     {
       "added_at": "2026-03-27 04:00:09",
@@ -87,6 +87,22 @@
       "duration_ms": 264906,
       "name": "Gypsy",
       "url": "https://open.spotify.com/track/19Ym5Sg0YyOCa6ao21bdoG"
+    },
+    {
+      "added_at": "2026-05-26 20:40:10",
+      "album": {
+        "name": "Life Inside the Hourglass",
+        "url": "https://open.spotify.com/album/4c2t77dUIGNnXyAjzU4m0S"
+      },
+      "artists": [
+        {
+          "name": "Biita Houdei",
+          "url": "https://open.spotify.com/artist/2oUHYLsX20aJwPuwVAguC3"
+        }
+      ],
+      "duration_ms": 162045,
+      "name": "Life Inside the Hourglass",
+      "url": "https://open.spotify.com/track/3Qtf4twghjgIyWU0tx8L5i"
     },
     {
       "added_at": "2026-03-27 04:00:09",

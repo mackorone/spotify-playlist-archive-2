@@ -1,6 +1,6 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 158669,
+  "num_followers": 158666,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
@@ -727,6 +727,30 @@
     {
       "added_at": "2026-05-22 03:01:19",
       "album": {
+        "name": "Moz\u00e3o",
+        "url": "https://open.spotify.com/album/3ewfkr96B8kr94Eh5LLZnb"
+      },
+      "artists": [
+        {
+          "name": "Taylan",
+          "url": "https://open.spotify.com/artist/3atKv6SXjq5GuOgSj6T7Qu"
+        },
+        {
+          "name": "Bagua Records",
+          "url": "https://open.spotify.com/artist/2450WxbFxHjnttFAv31zGk"
+        },
+        {
+          "name": "Neo Beats",
+          "url": "https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b"
+        }
+      ],
+      "duration_ms": 160500,
+      "name": "Moz\u00e3o",
+      "url": "https://open.spotify.com/track/1nzoCEBiN09B6TJ82mC8TG"
+    },
+    {
+      "added_at": "2026-05-22 03:01:19",
+      "album": {
         "name": "Voos Internacionais, Vol. 2",
         "url": "https://open.spotify.com/album/7gzZ5z8Nd66LrjXu71Z3Bj"
       },
@@ -751,30 +775,6 @@
       "duration_ms": 143721,
       "name": "S\u00e1bado",
       "url": "https://open.spotify.com/track/6Abi9YlVMQ5iDRwIU9WYfo"
-    },
-    {
-      "added_at": "2026-05-22 03:01:19",
-      "album": {
-        "name": "Moz\u00e3o",
-        "url": "https://open.spotify.com/album/3ewfkr96B8kr94Eh5LLZnb"
-      },
-      "artists": [
-        {
-          "name": "Taylan",
-          "url": "https://open.spotify.com/artist/3atKv6SXjq5GuOgSj6T7Qu"
-        },
-        {
-          "name": "Bagua Records",
-          "url": "https://open.spotify.com/artist/2450WxbFxHjnttFAv31zGk"
-        },
-        {
-          "name": "Neo Beats",
-          "url": "https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b"
-        }
-      ],
-      "duration_ms": 160500,
-      "name": "Moz\u00e3o",
-      "url": "https://open.spotify.com/track/1nzoCEBiN09B6TJ82mC8TG"
     },
     {
       "added_at": "2026-05-22 03:01:19",
@@ -839,6 +839,22 @@
     {
       "added_at": "2026-05-22 03:01:19",
       "album": {
+        "name": "Ac\u00fastico: Sem Perceber + 4 da Manh\u00e3",
+        "url": "https://open.spotify.com/album/6wInOtdqAA15z0ZK6v0AjR"
+      },
+      "artists": [
+        {
+          "name": "Vitinho",
+          "url": "https://open.spotify.com/artist/09djLPsTydbIFC9duW5mQp"
+        }
+      ],
+      "duration_ms": 208485,
+      "name": "4 da Manh\u00e3 - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/57bo2W60Td9nuMYvwCCty2"
+    },
+    {
+      "added_at": "2026-05-22 03:01:19",
+      "album": {
         "name": "Talism\u00e3",
         "url": "https://open.spotify.com/album/6w8KrZmc4Lvo8CHOxcWsMX"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 155744,
       "name": "Talism\u00e3",
       "url": "https://open.spotify.com/track/26DVRByfW09GuvoX7CO4Bu"
-    },
-    {
-      "added_at": "2026-05-22 03:01:19",
-      "album": {
-        "name": "Ac\u00fastico: Sem Perceber + 4 da Manh\u00e3",
-        "url": "https://open.spotify.com/album/6wInOtdqAA15z0ZK6v0AjR"
-      },
-      "artists": [
-        {
-          "name": "Vitinho",
-          "url": "https://open.spotify.com/artist/09djLPsTydbIFC9duW5mQp"
-        }
-      ],
-      "duration_ms": 208485,
-      "name": "4 da Manh\u00e3 - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/57bo2W60Td9nuMYvwCCty2"
     },
     {
       "added_at": "2026-05-22 03:01:19",
@@ -943,30 +943,6 @@
     {
       "added_at": "2026-05-22 03:01:19",
       "album": {
-        "name": "Ravi",
-        "url": "https://open.spotify.com/album/6cQ9MrRLvyqXj30x3jTctL"
-      },
-      "artists": [
-        {
-          "name": "MC LUUKY",
-          "url": "https://open.spotify.com/artist/70jpkgy5oGT4YjaGFpCpk7"
-        },
-        {
-          "name": "DJ Gbeats",
-          "url": "https://open.spotify.com/artist/6FP14bsH6aFtDwsiBOBc9B"
-        },
-        {
-          "name": "Bollivia",
-          "url": "https://open.spotify.com/artist/3m6lOMpo95hGM9EEIvCs4z"
-        }
-      ],
-      "duration_ms": 166440,
-      "name": "Ravi",
-      "url": "https://open.spotify.com/track/2MZpemTUrTTyOrX5VIkhix"
-    },
-    {
-      "added_at": "2026-05-22 03:01:19",
-      "album": {
         "name": "Amor N\u00e3o Sai de Moda",
         "url": "https://open.spotify.com/album/6dk9pgzQaucd5U72M7tWZB"
       },
@@ -991,6 +967,30 @@
       "duration_ms": 216600,
       "name": "Amor N\u00e3o Sai de Moda",
       "url": "https://open.spotify.com/track/6dIccuQyn4JBdFoQZX1oxP"
+    },
+    {
+      "added_at": "2026-05-22 03:01:19",
+      "album": {
+        "name": "Ravi",
+        "url": "https://open.spotify.com/album/6cQ9MrRLvyqXj30x3jTctL"
+      },
+      "artists": [
+        {
+          "name": "MC LUUKY",
+          "url": "https://open.spotify.com/artist/70jpkgy5oGT4YjaGFpCpk7"
+        },
+        {
+          "name": "DJ Gbeats",
+          "url": "https://open.spotify.com/artist/6FP14bsH6aFtDwsiBOBc9B"
+        },
+        {
+          "name": "Bollivia",
+          "url": "https://open.spotify.com/artist/3m6lOMpo95hGM9EEIvCs4z"
+        }
+      ],
+      "duration_ms": 166440,
+      "name": "Ravi",
+      "url": "https://open.spotify.com/track/2MZpemTUrTTyOrX5VIkhix"
     },
     {
       "added_at": "2026-05-22 03:01:19",
@@ -1231,6 +1231,26 @@
     {
       "added_at": "2026-05-22 03:01:19",
       "album": {
+        "name": "Ciclo Vicioso",
+        "url": "https://open.spotify.com/album/5NN6jAsZ5ePXElnkk3gCuJ"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Andr\u00e9 Nine",
+          "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
+        }
+      ],
+      "duration_ms": 206142,
+      "name": "Pegando Carona",
+      "url": "https://open.spotify.com/track/4tc1q7IeDAfld5pKg0k4TA"
+    },
+    {
+      "added_at": "2026-05-22 03:01:19",
+      "album": {
         "name": "quem dera fosse...",
         "url": "https://open.spotify.com/album/2buJ0NeUZkGf0uu4I7CjCK"
       },
@@ -1255,26 +1275,6 @@
       "duration_ms": 169043,
       "name": "quem dera fosse...",
       "url": "https://open.spotify.com/track/2kmITcoAdnL8D7YPfwgklS"
-    },
-    {
-      "added_at": "2026-05-22 03:01:19",
-      "album": {
-        "name": "Ciclo Vicioso",
-        "url": "https://open.spotify.com/album/5NN6jAsZ5ePXElnkk3gCuJ"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "Andr\u00e9 Nine",
-          "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
-        }
-      ],
-      "duration_ms": 206142,
-      "name": "Pegando Carona",
-      "url": "https://open.spotify.com/track/4tc1q7IeDAfld5pKg0k4TA"
     },
     {
       "added_at": "2026-05-22 03:01:19",

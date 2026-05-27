@@ -4,7 +4,7 @@
 
 > Get ready for a full\-body workout
 
-147 songs - 7 hr 25 min
+148 songs - 7 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [Drama](https://open.spotify.com/track/0CzmJDWIqkWL8GFsFh15Hw) | [Umair Butt](https://open.spotify.com/artist/4E2wX4DFQFhlLyVzRw0C1P), [Maizu](https://open.spotify.com/artist/4KB86rl9F9MdgIq3ilN6Ai) | [Drama](https://open.spotify.com/album/6ToiGbp7UpGG8LNWJNNN6l) | 2:29 | 2024-09-06 | 2025-01-09 |
 | [Drivery](https://open.spotify.com/track/0FM03KSpwsiW8i8OUmqI0D) | [Chandra Brar](https://open.spotify.com/artist/5sieaTASHA1VDIsOg04ubm), [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Drivery](https://open.spotify.com/album/2cGxd3OOROZQYmSG4mEMI9) | 3:03 | 2025-01-08 | 2026-02-23 |
 | [Fame Us \- From "Tu Yaa Main"](https://open.spotify.com/track/0YmIn035iwUAeNVrWsz9hl) | [7Bantai'Z](https://open.spotify.com/artist/0Mz9BTzWvM56Ap38mJ5zpK), [Rai Harrie](https://open.spotify.com/artist/3kJtYGxFzTH8a7q4dttHSX) | [Fame Us \(From "Tu Yaa Main"\)](https://open.spotify.com/album/6VIwccXQYAnsONDBeK9ZB9) | 3:10 | 2026-02-04 |  |
-| [Famous](https://open.spotify.com/track/72NiOXPx95GInH5HFZaf3H) | [Chinna](https://open.spotify.com/artist/33saytE0qGBD96vkPj4ALw), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS), [Param](https://open.spotify.com/artist/4yRIu6uwKIMkVrG6e2bQJ0) | [No Turning Back](https://open.spotify.com/album/20PfKi2qclF4raQzLjkz9i) | 2:49 | 2025-07-25 |  |
+| [Famous](https://open.spotify.com/track/72NiOXPx95GInH5HFZaf3H) | [Chinna](https://open.spotify.com/artist/33saytE0qGBD96vkPj4ALw), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS), [Param](https://open.spotify.com/artist/4yRIu6uwKIMkVrG6e2bQJ0) | [No Turning Back](https://open.spotify.com/album/20PfKi2qclF4raQzLjkz9i) | 2:49 | 2025-07-25 | 2026-05-27 |
 | [Fomo](https://open.spotify.com/track/4ci7QUQfEfE7EOJRsBv9P7) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb) | [Fomo](https://open.spotify.com/album/1imllZPJqjVilNrvY5umvj) | 2:36 | 2025-02-05 | 2025-02-12 |
 | [G.O.A.T.](https://open.spotify.com/track/46QbY78ha62aiu6gBgC7lS) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [G.O.A.T.](https://open.spotify.com/album/0wkGNaTXbbxaD9QjvxlNGE) | 3:43 | 2023-06-22 | 2025-02-08 |
 | [Galbaat](https://open.spotify.com/track/0GX9G0xtAI4Kr6iLIgFZ2i) | [Harf Cheema](https://open.spotify.com/artist/5LCotODBhURh2HRrDINp3A), [Gulab Sidhu](https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW), [Gaiphy](https://open.spotify.com/artist/0skC3fyzwvZzjtrJ4iUP7B) | [Galbaat](https://open.spotify.com/album/09PxPENNHiUP7i6tugSqNK) | 2:20 | 2025-01-30 | 2025-02-15 |
@@ -75,6 +75,7 @@
 | [Illegal Weapon](https://open.spotify.com/track/3Oe3VdPn6rAueriQvFhCBA) | [Garry Sandhu](https://open.spotify.com/artist/7M3xY5iHSzEtoL3FpqOD75), [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c) | [Illegal Weapon](https://open.spotify.com/album/3FZHxI5Qc9POrnW3Lr9z4P) | 3:50 | 2025-01-08 |  |
 | [Illegal Weapon 2.0 \(From "Street Dancer 3D"\)](https://open.spotify.com/track/5fXslGZPI5Cco6PKHzlSL3) | [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c), [Garry Sandhu](https://open.spotify.com/artist/7M3xY5iHSzEtoL3FpqOD75), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Intense](https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN) | [Illegal Weapon 2.0 \(From "Street Dancer 3D"\)](https://open.spotify.com/album/7LwW8qe6sND4ySnKmdZacl) | 3:08 | 2023-06-22 |  |
 | [Jatt Khulgey](https://open.spotify.com/track/4imfyd9dOBWKJ4Wrek0t8x) | [The Landers](https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp) | [Jatt Khulgey](https://open.spotify.com/album/5rGHWutfVM3vM6UMIdVMg8) | 3:05 | 2023-06-22 | 2025-01-09 |
+| [Jatt Na Kahi](https://open.spotify.com/track/1K8A4wyYf7XZCbQMHxS1iO) | [Pavitar Lassoi](https://open.spotify.com/artist/3fn50P81Whm1meTnMmS8zX), [Desi Trap Music](https://open.spotify.com/artist/7uZQ7O3hu5Z90Wg09ZB1ge) | [Jatt Na Kahi](https://open.spotify.com/album/7uvM8Jm3gZVJSM2L01qNTb) | 2:22 | 2026-05-26 |  |
 | [Jatti Speaker](https://open.spotify.com/track/53aMDm9jq4Iw7Ejx4YSFOi) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Roar](https://open.spotify.com/album/1pcsPt7079EJi5u9OzHYqa) | 3:18 | 2023-06-22 | 2025-01-09 |
 | [Jattiye Ni](https://open.spotify.com/track/24KWB5VT9fWqtj5bUyPnoq) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv) | [Jattiye Ni](https://open.spotify.com/album/4sISXOYpISfwZI6RmGWfJA) | 3:01 | 2023-06-22 |  |
 | [Jee Karda](https://open.spotify.com/track/316FmbbWpvia0G28dG5sBa) | [Jellio DBI](https://open.spotify.com/artist/3Ue5OGf3ztxcHf1ZVsENzJ) | [Jee Karda](https://open.spotify.com/album/33iJ3qcns14MKnWK3NxHiU) | 3:24 | 2025-03-17 | 2025-03-29 |

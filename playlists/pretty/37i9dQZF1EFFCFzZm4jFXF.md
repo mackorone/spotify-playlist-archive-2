@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFCFzZm4jFXF.md) - [plain]
 | 52 | [The First Time](https://open.spotify.com/track/2I52iM20qEsd8Mupt25m1D) | [Isak Danielson](https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7) | [Run to You](https://open.spotify.com/album/3EGJG8H67Ud2gvXVXjZkVt) | 3:47 |
 | 53 | [Be Somebody](https://open.spotify.com/track/4nIxZavnMBkkxhwG51rxKL) | [THE HARA](https://open.spotify.com/artist/2MizZlEPFQHeR3MndOyYoQ) | [Be Somebody](https://open.spotify.com/album/33oa00iV73jFXgmKh53U9y) | 2:56 |
 | 54 | [Saint of the Sinners](https://open.spotify.com/track/15ZpJOwfqGx6jbL4ruBeKp) | [Janet Devlin](https://open.spotify.com/artist/2GDNbg4B7fHn1PqHlEdtd1) | [Confessional](https://open.spotify.com/album/4woFkP5VY3AY27DgZHBlgt) | 3:53 |
-| 55 | [Rattle](https://open.spotify.com/track/70z59SfpWsULOMx1NSFYGr) | [The Wandering Hearts](https://open.spotify.com/artist/6E8ghf5EmMGSLx5yAjpMDl) | [Wild Silence](https://open.spotify.com/album/3jtfDa5cH24PMymBQkCPgv) | 3:29 |
-| 56 | [Oblivion](https://open.spotify.com/track/1tDEBOvZKKzzSGvmvXldwl) | [Andromedik](https://open.spotify.com/artist/7miXLG9boDOGHJaEelSL7T) | [Oblivion](https://open.spotify.com/album/4aGYvbV5eJs3cUSl0UznCX) | 3:33 |
+| 55 | [Oblivion](https://open.spotify.com/track/1tDEBOvZKKzzSGvmvXldwl) | [Andromedik](https://open.spotify.com/artist/7miXLG9boDOGHJaEelSL7T) | [Oblivion](https://open.spotify.com/album/4aGYvbV5eJs3cUSl0UznCX) | 3:33 |
+| 56 | [Rattle](https://open.spotify.com/track/70z59SfpWsULOMx1NSFYGr) | [The Wandering Hearts](https://open.spotify.com/artist/6E8ghf5EmMGSLx5yAjpMDl) | [Wild Silence](https://open.spotify.com/album/3jtfDa5cH24PMymBQkCPgv) | 3:29 |
 | 57 | [Trophy](https://open.spotify.com/track/04LD8OquYuxAsYYWsGF1qa) | [THE HARA](https://open.spotify.com/artist/2MizZlEPFQHeR3MndOyYoQ) | [The Fallout](https://open.spotify.com/album/47SL3rIIK8GLwpBJgJkGJD) | 3:03 |
 | 58 | [Cold Nights](https://open.spotify.com/track/4Md728gr9wczW4VME5Qv9M) | [LZRD](https://open.spotify.com/artist/6O2ODylN42JL651p1vcIYQ) | [Cold Nights](https://open.spotify.com/album/12ldZGZ5rPIvKFM9Z1fkSg) | 3:02 |
 | 59 | [Moment With You](https://open.spotify.com/track/3hQHlu4SSbB37hrHAM2e83) | [BnO](https://open.spotify.com/artist/6maKhRs62Hfp9pYvB8wHuP), [Lulleaux](https://open.spotify.com/artist/6bA8L82JXU9CQa2nyUnLDh), [Nova Tropics](https://open.spotify.com/artist/5Z20EyBaysJXOw9suCDqsK) | [Moment With You \(feat\. Nova Tropics\)](https://open.spotify.com/album/5hWZZhkZJoBQ63d99QKhCS) | 2:43 |
@@ -136,4 +136,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFCFzZm4jFXF.md) - [plain]
 | 126 | [Pon Me](https://open.spotify.com/track/6gNgcVrZceb97UQFZbKPCk) | [Craig Cavanagh](https://open.spotify.com/artist/2GTElyWjXSbnFBsqhsG8U9) | [Green Eyed Soul](https://open.spotify.com/album/1kENbrG9QMSE4Hgt5jLyd1) | 4:15 |
 | 127 | [Find You](https://open.spotify.com/track/0wtNmuETEesYuB73ni1tZU) | [Craig Cavanagh](https://open.spotify.com/artist/2GTElyWjXSbnFBsqhsG8U9) | [Green Eyed Soul](https://open.spotify.com/album/1kENbrG9QMSE4Hgt5jLyd1) | 3:48 |
 
-Snapshot ID: `AcSeMgAAAABPtcgrod3PHCk6RficF05q`
+Snapshot ID: `AcSj0gAAAABtjXyIdwArc1WPS94KEYni`

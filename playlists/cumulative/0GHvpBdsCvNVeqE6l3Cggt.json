@@ -2063,6 +2063,24 @@
     },
     {
       "album": {
+        "name": "Turn Around",
+        "url": "https://open.spotify.com/album/45qD4s12bVDIGHGNyTrHtA"
+      },
+      "artists": [
+        {
+          "name": "Duke Mahone",
+          "url": "https://open.spotify.com/artist/4b7nAPf8YpkU5Y21aQEN3e"
+        }
+      ],
+      "date_added": "2026-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164030,
+      "name": "Turn Around",
+      "url": "https://open.spotify.com/track/3wCxOZWqln1SNnUqfuXymu"
+    },
+    {
+      "album": {
         "name": "True",
         "url": "https://open.spotify.com/album/2H6i2CrWgXE1HookLu8Au0"
       },

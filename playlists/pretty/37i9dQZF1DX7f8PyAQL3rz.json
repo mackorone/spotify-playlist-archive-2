@@ -1,6 +1,6 @@
 {
   "description": "eles barulharam nessa sess\u00e3o hein \ud83d\udc40",
-  "num_followers": 1446985,
+  "num_followers": 1446913,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
@@ -235,6 +235,26 @@
     {
       "added_at": "2026-05-22 03:01:19",
       "album": {
+        "name": "PAL\u00c1CIO DE LONA",
+        "url": "https://open.spotify.com/album/3llWRll8RMoQv5Z7HFMmn3"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        }
+      ],
+      "duration_ms": 151413,
+      "name": "BOM E NOVO",
+      "url": "https://open.spotify.com/track/549Z7ZBTRK7ptkyukqhoW8"
+    },
+    {
+      "added_at": "2026-05-22 03:01:19",
+      "album": {
         "name": "OUTRA",
         "url": "https://open.spotify.com/album/0eTwgY32XuAf076DHI34Pz"
       },
@@ -255,26 +275,6 @@
       "duration_ms": 128000,
       "name": "OUTRA",
       "url": "https://open.spotify.com/track/2LzXPUzL9sgeRl9a5miHMA"
-    },
-    {
-      "added_at": "2026-05-22 03:01:19",
-      "album": {
-        "name": "PAL\u00c1CIO DE LONA",
-        "url": "https://open.spotify.com/album/3llWRll8RMoQv5Z7HFMmn3"
-      },
-      "artists": [
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
-        }
-      ],
-      "duration_ms": 151413,
-      "name": "BOM E NOVO",
-      "url": "https://open.spotify.com/track/549Z7ZBTRK7ptkyukqhoW8"
     },
     {
       "added_at": "2026-05-22 03:01:19",
@@ -587,6 +587,62 @@
     {
       "added_at": "2026-05-22 03:01:19",
       "album": {
+        "name": "Pacman de Panicat",
+        "url": "https://open.spotify.com/album/7C0YBv6bvhfQpItU7Pfqoj"
+      },
+      "artists": [
+        {
+          "name": "DJ Japa NK",
+          "url": "https://open.spotify.com/artist/1bpnl8qbR9GxmiNlkEufW6"
+        },
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "Mc Rodrigo do CN",
+          "url": "https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC"
+        }
+      ],
+      "duration_ms": 251539,
+      "name": "Pacman de Panicat",
+      "url": "https://open.spotify.com/track/4cH7c8Zox7sBysrSnjzdXr"
+    },
+    {
+      "added_at": "2026-05-22 03:01:19",
+      "album": {
+        "name": "FUNK DE CANALHA",
+        "url": "https://open.spotify.com/album/3Bsrl1qsrf2qz5X4h7MPpm"
+      },
+      "artists": [
+        {
+          "name": "G.A",
+          "url": "https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE"
+        },
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        },
+        {
+          "name": "Mc Morena",
+          "url": "https://open.spotify.com/artist/28QnIZpWxKcxuSk4iRLUgX"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        }
+      ],
+      "duration_ms": 196535,
+      "name": "pros menor da nova",
+      "url": "https://open.spotify.com/track/4K8jKvRCwZcn6FXRJd9T3C"
+    },
+    {
+      "added_at": "2026-05-22 03:01:19",
+      "album": {
         "name": "A Vida \u00e9 Um Freestyle",
         "url": "https://open.spotify.com/album/4H28oDneeI0Q0yY297UB71"
       },
@@ -679,34 +735,6 @@
       "duration_ms": 297692,
       "name": "THE BOX MEDLEY FUNK 11",
       "url": "https://open.spotify.com/track/0oulB5Nhs4Ur3zgvC6WqWz"
-    },
-    {
-      "added_at": "2026-05-22 03:01:19",
-      "album": {
-        "name": "Pacman de Panicat",
-        "url": "https://open.spotify.com/album/7C0YBv6bvhfQpItU7Pfqoj"
-      },
-      "artists": [
-        {
-          "name": "DJ Japa NK",
-          "url": "https://open.spotify.com/artist/1bpnl8qbR9GxmiNlkEufW6"
-        },
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
-        },
-        {
-          "name": "Mc Rodrigo do CN",
-          "url": "https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC"
-        }
-      ],
-      "duration_ms": 251539,
-      "name": "Pacman de Panicat",
-      "url": "https://open.spotify.com/track/4cH7c8Zox7sBysrSnjzdXr"
     },
     {
       "added_at": "2026-05-22 03:01:19",
@@ -863,34 +891,6 @@
       "duration_ms": 253042,
       "name": "THE BOX MEDLEY 11",
       "url": "https://open.spotify.com/track/6zlAWWyR93ryKDyWVQbL4v"
-    },
-    {
-      "added_at": "2026-05-22 03:01:19",
-      "album": {
-        "name": "FUNK DE CANALHA",
-        "url": "https://open.spotify.com/album/3Bsrl1qsrf2qz5X4h7MPpm"
-      },
-      "artists": [
-        {
-          "name": "G.A",
-          "url": "https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE"
-        },
-        {
-          "name": "Veigh",
-          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
-        },
-        {
-          "name": "Mc Morena",
-          "url": "https://open.spotify.com/artist/28QnIZpWxKcxuSk4iRLUgX"
-        },
-        {
-          "name": "Supernova Ent",
-          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
-        }
-      ],
-      "duration_ms": 196535,
-      "name": "pros menor da nova",
-      "url": "https://open.spotify.com/track/4K8jKvRCwZcn6FXRJd9T3C"
     },
     {
       "added_at": "2026-05-22 03:01:19",
@@ -1235,6 +1235,26 @@
     {
       "added_at": "2026-05-22 03:01:19",
       "album": {
+        "name": "2K26",
+        "url": "https://open.spotify.com/album/70lnxeiKY0r7gLIEZ1tvce"
+      },
+      "artists": [
+        {
+          "name": "Massaru",
+          "url": "https://open.spotify.com/artist/6NPvzQnxY7WwRMoN2qVBHU"
+        },
+        {
+          "name": "Mu540",
+          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
+        }
+      ],
+      "duration_ms": 180461,
+      "name": "2K26",
+      "url": "https://open.spotify.com/track/28rLaWkiq8uew1wXEmAjJd"
+    },
+    {
+      "added_at": "2026-05-22 03:01:19",
+      "album": {
         "name": "Advinha o CEP",
         "url": "https://open.spotify.com/album/5mdlGL58bjvPlwegK3J7N9"
       },
@@ -1259,26 +1279,6 @@
       "duration_ms": 131368,
       "name": "Advinha o CEP",
       "url": "https://open.spotify.com/track/6zx4f2OiSKrgOcromQsngp"
-    },
-    {
-      "added_at": "2026-05-22 03:01:19",
-      "album": {
-        "name": "2K26",
-        "url": "https://open.spotify.com/album/70lnxeiKY0r7gLIEZ1tvce"
-      },
-      "artists": [
-        {
-          "name": "Massaru",
-          "url": "https://open.spotify.com/artist/6NPvzQnxY7WwRMoN2qVBHU"
-        },
-        {
-          "name": "Mu540",
-          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
-        }
-      ],
-      "duration_ms": 180461,
-      "name": "2K26",
-      "url": "https://open.spotify.com/track/28rLaWkiq8uew1wXEmAjJd"
     },
     {
       "added_at": "2026-05-22 03:01:19",
@@ -1367,30 +1367,6 @@
     {
       "added_at": "2026-05-22 03:01:19",
       "album": {
-        "name": "Na Melhor Eu T\u00f4 Vivendo",
-        "url": "https://open.spotify.com/album/2aAAcO6aCrduH9niwDEROJ"
-      },
-      "artists": [
-        {
-          "name": "Yuri Redicopa",
-          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
-        },
-        {
-          "name": "MC VIL\u00c3 DA 011",
-          "url": "https://open.spotify.com/artist/51UBdD2IGrukOWxj5i9H47"
-        },
-        {
-          "name": "Luest",
-          "url": "https://open.spotify.com/artist/7eTeICHEMNtoe16HUyoEI2"
-        }
-      ],
-      "duration_ms": 124513,
-      "name": "Na Melhor Eu T\u00f4 Vivendo",
-      "url": "https://open.spotify.com/track/0lu3ObKXunURQb39gSbxB8"
-    },
-    {
-      "added_at": "2026-05-22 03:01:19",
-      "album": {
         "name": "Confiss\u00f5es",
         "url": "https://open.spotify.com/album/5o2menhMzyRd1kF0BQmJpp"
       },
@@ -1435,6 +1411,30 @@
       "duration_ms": 139033,
       "name": "Um Pouco Pensativo",
       "url": "https://open.spotify.com/track/23TjYw4HIOqBbSsdtsNE9J"
+    },
+    {
+      "added_at": "2026-05-22 03:01:19",
+      "album": {
+        "name": "Na Melhor Eu T\u00f4 Vivendo",
+        "url": "https://open.spotify.com/album/2aAAcO6aCrduH9niwDEROJ"
+      },
+      "artists": [
+        {
+          "name": "Yuri Redicopa",
+          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
+        },
+        {
+          "name": "MC VIL\u00c3 DA 011",
+          "url": "https://open.spotify.com/artist/51UBdD2IGrukOWxj5i9H47"
+        },
+        {
+          "name": "Luest",
+          "url": "https://open.spotify.com/artist/7eTeICHEMNtoe16HUyoEI2"
+        }
+      ],
+      "duration_ms": 124513,
+      "name": "Na Melhor Eu T\u00f4 Vivendo",
+      "url": "https://open.spotify.com/track/0lu3ObKXunURQb39gSbxB8"
     },
     {
       "added_at": "2026-05-22 03:01:19",

@@ -1,12 +1,12 @@
 {
   "description": "New dance music from Deep House to Future Rave. Refreshed Friday by Spinnin' Records. Check <a href=\"https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5\">Spinnin' Records Brand New</a> for the latest Spinnin' releases.  ",
-  "num_followers": 31593,
+  "num_followers": 31594,
   "original_name": "New Dance Music Friday",
   "owner": {
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "AAAwUPwbJiL5GQZpr9UyecWM5TTWt88r",
+  "snapshot_id": "AAAwVPpcxEL5WeXR0aOotHbfovLNvGtp",
   "tracks": [
     {
       "added_at": "2026-05-21 13:16:10",
@@ -223,6 +223,30 @@
       "duration_ms": 182978,
       "name": "Contra",
       "url": "https://open.spotify.com/track/404MxkOiMnqfYgiHtI7jEr"
+    },
+    {
+      "added_at": "2026-05-26 10:11:46",
+      "album": {
+        "name": "Do You Want It Right Now",
+        "url": "https://open.spotify.com/album/2Yt0MDuQK3lkVpRccye1vV"
+      },
+      "artists": [
+        {
+          "name": "Quintino",
+          "url": "https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n"
+        },
+        {
+          "name": "Breathe Carolina",
+          "url": "https://open.spotify.com/artist/53M4Iv2RkzzxFFvW2B1jhC"
+        },
+        {
+          "name": "GIACOBBI",
+          "url": "https://open.spotify.com/artist/0c9xS57yx2KCaaEJ3e7qzo"
+        }
+      ],
+      "duration_ms": 156668,
+      "name": "Do You Want It Right Now",
+      "url": "https://open.spotify.com/track/1xAMTwEG6OCawBiYzX3Kum"
     },
     {
       "added_at": "2026-05-14 23:54:42",
@@ -473,6 +497,26 @@
       "url": "https://open.spotify.com/track/5zEu5pr4yPqwH1ysi6rswB"
     },
     {
+      "added_at": "2026-05-26 09:31:06",
+      "album": {
+        "name": "Fade",
+        "url": "https://open.spotify.com/album/3LLBe648K1VQaG2iCy7Zdj"
+      },
+      "artists": [
+        {
+          "name": "Mason Jaxx",
+          "url": "https://open.spotify.com/artist/4vSmrRQ99Fqp5zverMkwWg"
+        },
+        {
+          "name": "Ola",
+          "url": "https://open.spotify.com/artist/5SgXlB5R1iOVuOUPfbB9AB"
+        }
+      ],
+      "duration_ms": 172947,
+      "name": "Fade",
+      "url": "https://open.spotify.com/track/4LRK45WneF2GyTxwxPWwyX"
+    },
+    {
       "added_at": "2026-05-14 23:54:42",
       "album": {
         "name": "Heaven",
@@ -527,6 +571,42 @@
       "duration_ms": 180799,
       "name": "KIN",
       "url": "https://open.spotify.com/track/50I9JvDgzGl6OQft3TwEQL"
+    },
+    {
+      "added_at": "2026-05-26 08:39:30",
+      "album": {
+        "name": "Running",
+        "url": "https://open.spotify.com/album/5j4Du0m8zQnOMIdAmCfkAq"
+      },
+      "artists": [
+        {
+          "name": "Tuew",
+          "url": "https://open.spotify.com/artist/0TEFGr4Bz2GgUhfDGsNx3r"
+        }
+      ],
+      "duration_ms": 167011,
+      "name": "Running",
+      "url": "https://open.spotify.com/track/5nPuSQuTG4EEAsombYS2Ci"
+    },
+    {
+      "added_at": "2026-05-26 10:45:37",
+      "album": {
+        "name": "What U Want",
+        "url": "https://open.spotify.com/album/0ycGPzSf3oxJFDxiKrvtxg"
+      },
+      "artists": [
+        {
+          "name": "Gus One",
+          "url": "https://open.spotify.com/artist/1jSYGQGMgWynF4p0XcjJHH"
+        },
+        {
+          "name": "SOS Wes",
+          "url": "https://open.spotify.com/artist/4vPfj1x8N9yoyVOWqW4ta8"
+        }
+      ],
+      "duration_ms": 177261,
+      "name": "What U Want",
+      "url": "https://open.spotify.com/track/04vUCd3KAOGGjWHmxouYAt"
     },
     {
       "added_at": "2026-05-14 23:54:42",

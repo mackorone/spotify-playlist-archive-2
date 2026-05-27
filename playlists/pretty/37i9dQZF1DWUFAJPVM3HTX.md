@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/67YpieTZ3kCV2MjVCYGE6g?si=lj1kXYzSQr2HdW5iVK0Eaw">Gordon</a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 281,607 likes - 100 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 281,677 likes - 100 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

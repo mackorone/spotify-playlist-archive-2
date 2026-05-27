@@ -1101,6 +1101,24 @@
     },
     {
       "album": {
+        "name": "\u4e16\u754c\u306f\u3072\u3068\u308a\u3058\u3083\u306a\u304b\u3063\u305f",
+        "url": "https://open.spotify.com/album/2V5C2CrLlS9DSwbhI4Nkyn"
+      },
+      "artists": [
+        {
+          "name": "Maki Otsuki",
+          "url": "https://open.spotify.com/artist/2cZngrpi14BX8viqaPl5m5"
+        }
+      ],
+      "date_added": "2026-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262802,
+      "name": "\u4e16\u754c\u306f\u3072\u3068\u308a\u3058\u3083\u306a\u304b\u3063\u305f",
+      "url": "https://open.spotify.com/track/4U77xvBDzk8e03mgP30g73"
+    },
+    {
+      "album": {
         "name": "ONE PIECE MUSIC MATERIAL (Vol.2)",
         "url": "https://open.spotify.com/album/4ws5nZWlUQ50f3wt2zho95"
       },

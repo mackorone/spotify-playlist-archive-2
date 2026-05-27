@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Lola Young, Stormzy ft\. Odeal, Charli xcx, Olivia Rodrigo and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,024,854 likes - 101 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,024,844 likes - 101 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

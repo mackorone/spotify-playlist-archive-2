@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [1\. The Zone ](https://open.spotify.com/episode/7cY7LtS3tT71hcHLEXskfI) | [LOUD](https://open.spotify.com/show/6OB6xOp1sWazXMMa2z53CZ) | [LOUD](https://open.spotify.com/album/6OB6xOp1sWazXMMa2z53CZ) | 36:08 | 2021-09-13 |  |
+| [1\. The Zone ](https://open.spotify.com/episode/7cY7LtS3tT71hcHLEXskfI) | [LOUD presents “Our Thing: The Birth of Salsa in Nueva York”](https://open.spotify.com/show/6OB6xOp1sWazXMMa2z53CZ) | [LOUD presents “Our Thing: The Birth of Salsa in Nueva York”](https://open.spotify.com/album/6OB6xOp1sWazXMMa2z53CZ) | 36:08 | 2021-09-13 |  |
 | [Selena and Abraham](https://open.spotify.com/episode/600OpmuONp5eICK66s8K7z) | [Anything For Selena](https://open.spotify.com/show/1aCcf9CN3cunTBdkIzYTvo) | [Anything For Selena](https://open.spotify.com/album/1aCcf9CN3cunTBdkIzYTvo) | 44:55 | 2021-09-13 |  |
 | [Tejano Tension](https://open.spotify.com/episode/0DncyLs9cAYVdkoXmaspvh) | [Anything For Selena](https://open.spotify.com/show/1aCcf9CN3cunTBdkIzYTvo) | [Anything For Selena](https://open.spotify.com/album/1aCcf9CN3cunTBdkIzYTvo) | 40:08 | 2021-09-13 |  |
 | [The Badder, The Better: Bobby Shmurda \(Pt 1\)](https://open.spotify.com/episode/7C9sn5qoTzJSUzd4JlO7Kt) | [Louder Than A Riot](https://open.spotify.com/show/0TKKQKsTzRZHfmudmfhifh) | [Louder Than A Riot](https://open.spotify.com/album/0TKKQKsTzRZHfmudmfhifh) | 50:09 | 2021-09-13 |  |

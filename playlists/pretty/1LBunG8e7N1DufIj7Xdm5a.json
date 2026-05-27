@@ -6,7 +6,7 @@
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAIuHyODD3fhToomptPHDVtYtdE5BQp",
+  "snapshot_id": "AAAIvOckfC8ri669yJYQh7EEMAmLKxbu",
   "tracks": [
     {
       "added_at": "2026-05-07 07:57:17",
@@ -73063,6 +73063,70 @@
       "duration_ms": 191836,
       "name": "STOP",
       "url": "https://open.spotify.com/track/74AI6IwRwBsnzPFWDfjBLy"
+    },
+    {
+      "added_at": "2026-05-26 08:19:25",
+      "album": {
+        "name": "Spineless",
+        "url": "https://open.spotify.com/album/7sF85MtuTpoUjZRlcdKK4A"
+      },
+      "artists": [
+        {
+          "name": "Hexe",
+          "url": "https://open.spotify.com/artist/3WZaW8fkkvGju9kFx4FeoN"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Spineless",
+      "url": "https://open.spotify.com/track/4Cy5jpUYzDtqJnG92ScMLB"
+    },
+    {
+      "added_at": "2026-05-26 08:24:16",
+      "album": {
+        "name": "Crossroads",
+        "url": "https://open.spotify.com/album/1BWa9mUEDaKcn1SCtE1Amc"
+      },
+      "artists": [
+        {
+          "name": "Ario Nanaj",
+          "url": "https://open.spotify.com/artist/3oxKAakkUQ02MoRb5Z6qrq"
+        }
+      ],
+      "duration_ms": 210375,
+      "name": "Crossroads",
+      "url": "https://open.spotify.com/track/1cmzIPAC51yUa8jYqddqiE"
+    },
+    {
+      "added_at": "2026-05-26 08:32:18",
+      "album": {
+        "name": "Dil Ye Dhadakta Hi Nahin",
+        "url": "https://open.spotify.com/album/2edQIILVtKKEpc56UC8m4H"
+      },
+      "artists": [
+        {
+          "name": "Digital Pandit",
+          "url": "https://open.spotify.com/artist/2bvkbJhJKy40qcIipIbPjT"
+        }
+      ],
+      "duration_ms": 237844,
+      "name": "Dil Ye Dhadakta Hi Nahin",
+      "url": "https://open.spotify.com/track/55fZN6QYUzsBIdni2Gy1P7"
+    },
+    {
+      "added_at": "2026-05-26 18:23:56",
+      "album": {
+        "name": "Lost Soul",
+        "url": "https://open.spotify.com/album/46yf87wUx4k4Ash6BBwEaY"
+      },
+      "artists": [
+        {
+          "name": "Richie Cross",
+          "url": "https://open.spotify.com/artist/3NA8I8e0mHJSmWKQHBBEpT"
+        }
+      ],
+      "duration_ms": 214074,
+      "name": "Lost Soul",
+      "url": "https://open.spotify.com/track/0KBblBLmSzdWD8k3bZqLoR"
     }
   ],
   "unique_name": "playlist spotify free",

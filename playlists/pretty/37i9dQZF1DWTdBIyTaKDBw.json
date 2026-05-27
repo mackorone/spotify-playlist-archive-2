@@ -1,6 +1,6 @@
 {
   "description": "Enjoy the lo-fi beat with oriental colors.",
-  "num_followers": 28053,
+  "num_followers": 28083,
   "original_name": "oriental lofi",
   "owner": {
     "name": "Spotify",
@@ -167,18 +167,18 @@
     {
       "added_at": "2026-04-27 01:50:16",
       "album": {
-        "name": "Dreamscapes",
-        "url": "https://open.spotify.com/album/6KceKyMe95omjB1FNWRhJR"
+        "name": "Mirage of the Mind",
+        "url": "https://open.spotify.com/album/7hsMSV5SDoUbez11UqHRva"
       },
       "artists": [
         {
-          "name": "kyu",
-          "url": "https://open.spotify.com/artist/4vLg4WFBnzNgIpLWyxQJMW"
+          "name": "Nogymx",
+          "url": "https://open.spotify.com/artist/0F1wth3t5bL0Vdjuk34yMP"
         }
       ],
-      "duration_ms": 133437,
-      "name": "Stargazing",
-      "url": "https://open.spotify.com/track/1R83WQM8LXRqT2hu8qK59I"
+      "duration_ms": 139000,
+      "name": "Whispers of Eden",
+      "url": "https://open.spotify.com/track/7HcwhoGMSjXHWNSgbmwYoH"
     },
     {
       "added_at": "2026-04-27 01:50:16",
@@ -199,18 +199,18 @@
     {
       "added_at": "2026-04-27 01:50:16",
       "album": {
-        "name": "Mirage of the Mind",
-        "url": "https://open.spotify.com/album/7hsMSV5SDoUbez11UqHRva"
+        "name": "Dreamscapes",
+        "url": "https://open.spotify.com/album/6KceKyMe95omjB1FNWRhJR"
       },
       "artists": [
         {
-          "name": "Nogymx",
-          "url": "https://open.spotify.com/artist/0F1wth3t5bL0Vdjuk34yMP"
+          "name": "kyu",
+          "url": "https://open.spotify.com/artist/4vLg4WFBnzNgIpLWyxQJMW"
         }
       ],
-      "duration_ms": 139000,
-      "name": "Whispers of Eden",
-      "url": "https://open.spotify.com/track/7HcwhoGMSjXHWNSgbmwYoH"
+      "duration_ms": 133437,
+      "name": "Stargazing",
+      "url": "https://open.spotify.com/track/1R83WQM8LXRqT2hu8qK59I"
     },
     {
       "added_at": "2026-04-27 01:50:16",
@@ -355,22 +355,6 @@
     {
       "added_at": "2026-04-27 01:50:16",
       "album": {
-        "name": "Libyus Music Sound History 2004\uff0d2010",
-        "url": "https://open.spotify.com/album/6LpqRBVORv0OScaWKm1eV2"
-      },
-      "artists": [
-        {
-          "name": "DJ Okawari",
-          "url": "https://open.spotify.com/artist/34QbYbTlUCLkZsQ8QmacV9"
-        }
-      ],
-      "duration_ms": 265800,
-      "name": "Flower Dance",
-      "url": "https://open.spotify.com/track/6RaJbbhKDOuBGQhbZCubCW"
-    },
-    {
-      "added_at": "2026-04-27 01:50:16",
-      "album": {
         "name": "Way of Life",
         "url": "https://open.spotify.com/album/4ktK0PC4NZjqmmLPLJlcI2"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 148500,
       "name": "Midnight Thoughts",
       "url": "https://open.spotify.com/track/6dgegoRp7BrEg1Rax4w4pq"
+    },
+    {
+      "added_at": "2026-04-27 01:50:16",
+      "album": {
+        "name": "Libyus Music Sound History 2004\uff0d2010",
+        "url": "https://open.spotify.com/album/6LpqRBVORv0OScaWKm1eV2"
+      },
+      "artists": [
+        {
+          "name": "DJ Okawari",
+          "url": "https://open.spotify.com/artist/34QbYbTlUCLkZsQ8QmacV9"
+        }
+      ],
+      "duration_ms": 265800,
+      "name": "Flower Dance",
+      "url": "https://open.spotify.com/track/6RaJbbhKDOuBGQhbZCubCW"
     },
     {
       "added_at": "2026-04-27 01:50:16",
@@ -439,22 +439,6 @@
     {
       "added_at": "2026-04-27 01:50:16",
       "album": {
-        "name": "MIRROR",
-        "url": "https://open.spotify.com/album/2hVOlMI7GteBNwO90mflZd"
-      },
-      "artists": [
-        {
-          "name": "DJ Okawari",
-          "url": "https://open.spotify.com/artist/34QbYbTlUCLkZsQ8QmacV9"
-        }
-      ],
-      "duration_ms": 268613,
-      "name": "Luv Letter",
-      "url": "https://open.spotify.com/track/60mjatPf9M1fXkBmei0ATb"
-    },
-    {
-      "added_at": "2026-04-27 01:50:16",
-      "album": {
         "name": "First Snow",
         "url": "https://open.spotify.com/album/4KAi8bUw6awTKrAcTPGsPz"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 191470,
       "name": "First Snow",
       "url": "https://open.spotify.com/track/4okFdEte6SmTcGYuemlqAS"
+    },
+    {
+      "added_at": "2026-04-27 01:50:16",
+      "album": {
+        "name": "MIRROR",
+        "url": "https://open.spotify.com/album/2hVOlMI7GteBNwO90mflZd"
+      },
+      "artists": [
+        {
+          "name": "DJ Okawari",
+          "url": "https://open.spotify.com/artist/34QbYbTlUCLkZsQ8QmacV9"
+        }
+      ],
+      "duration_ms": 268613,
+      "name": "Luv Letter",
+      "url": "https://open.spotify.com/track/60mjatPf9M1fXkBmei0ATb"
     },
     {
       "added_at": "2026-04-27 01:50:16",
@@ -539,22 +539,6 @@
     {
       "added_at": "2026-04-27 01:50:16",
       "album": {
-        "name": "Blissful Dreams",
-        "url": "https://open.spotify.com/album/5anH0TBW23a2TLf1ClYBfd"
-      },
-      "artists": [
-        {
-          "name": "Tenno",
-          "url": "https://open.spotify.com/artist/3yu4VilcxpQ6h35vRcemBp"
-        }
-      ],
-      "duration_ms": 156190,
-      "name": "Into the Reverie",
-      "url": "https://open.spotify.com/track/71HJPOM7ZyWwWEcI4qfss7"
-    },
-    {
-      "added_at": "2026-04-27 01:50:16",
-      "album": {
         "name": "One Summer's Day",
         "url": "https://open.spotify.com/album/1k3JSH4AZU2F68cQsvkKZn"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 168168,
       "name": "One Summer's Day",
       "url": "https://open.spotify.com/track/5gmwxFfSGC5s3xzGj8Om0k"
+    },
+    {
+      "added_at": "2026-04-27 01:50:16",
+      "album": {
+        "name": "Blissful Dreams",
+        "url": "https://open.spotify.com/album/5anH0TBW23a2TLf1ClYBfd"
+      },
+      "artists": [
+        {
+          "name": "Tenno",
+          "url": "https://open.spotify.com/artist/3yu4VilcxpQ6h35vRcemBp"
+        }
+      ],
+      "duration_ms": 156190,
+      "name": "Into the Reverie",
+      "url": "https://open.spotify.com/track/71HJPOM7ZyWwWEcI4qfss7"
     },
     {
       "added_at": "2026-04-27 01:50:16",
@@ -623,22 +623,6 @@
     {
       "added_at": "2026-04-27 01:50:16",
       "album": {
-        "name": "Legends of the Past",
-        "url": "https://open.spotify.com/album/7ezKJVdp9kzLZZfpzPZ8w3"
-      },
-      "artists": [
-        {
-          "name": "Tenno",
-          "url": "https://open.spotify.com/artist/3yu4VilcxpQ6h35vRcemBp"
-        }
-      ],
-      "duration_ms": 128571,
-      "name": "Torii Road",
-      "url": "https://open.spotify.com/track/6U4InR48CmnV8jhCCx9JNN"
-    },
-    {
-      "added_at": "2026-04-27 01:50:16",
-      "album": {
         "name": "Sunday Vibes",
         "url": "https://open.spotify.com/album/5iiG3fMlS9zc9ehx43qpzf"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 120098,
       "name": "Sunday Vibes",
       "url": "https://open.spotify.com/track/3fI1DEUK7gml9W6iFntNel"
+    },
+    {
+      "added_at": "2026-04-27 01:50:16",
+      "album": {
+        "name": "Legends of the Past",
+        "url": "https://open.spotify.com/album/7ezKJVdp9kzLZZfpzPZ8w3"
+      },
+      "artists": [
+        {
+          "name": "Tenno",
+          "url": "https://open.spotify.com/artist/3yu4VilcxpQ6h35vRcemBp"
+        }
+      ],
+      "duration_ms": 128571,
+      "name": "Torii Road",
+      "url": "https://open.spotify.com/track/6U4InR48CmnV8jhCCx9JNN"
     },
     {
       "added_at": "2026-04-27 01:50:16",
@@ -703,22 +703,6 @@
     {
       "added_at": "2026-04-27 01:50:16",
       "album": {
-        "name": "Journey",
-        "url": "https://open.spotify.com/album/5NyRXPU0MbwycaSqq75IlV"
-      },
-      "artists": [
-        {
-          "name": "Tenno",
-          "url": "https://open.spotify.com/artist/3yu4VilcxpQ6h35vRcemBp"
-        }
-      ],
-      "duration_ms": 169714,
-      "name": "Journey",
-      "url": "https://open.spotify.com/track/2pAPo7r9woX5AwLDNzAgaV"
-    },
-    {
-      "added_at": "2026-04-27 01:50:16",
-      "album": {
         "name": "Simple Things",
         "url": "https://open.spotify.com/album/0Lx7VVGGBhXVI0TJ3yCLyz"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 172564,
       "name": "one day in japan",
       "url": "https://open.spotify.com/track/3d5sFXzamm1Bak74pl1eU9"
+    },
+    {
+      "added_at": "2026-04-27 01:50:16",
+      "album": {
+        "name": "Journey",
+        "url": "https://open.spotify.com/album/5NyRXPU0MbwycaSqq75IlV"
+      },
+      "artists": [
+        {
+          "name": "Tenno",
+          "url": "https://open.spotify.com/artist/3yu4VilcxpQ6h35vRcemBp"
+        }
+      ],
+      "duration_ms": 169714,
+      "name": "Journey",
+      "url": "https://open.spotify.com/track/2pAPo7r9woX5AwLDNzAgaV"
     },
     {
       "added_at": "2026-04-27 01:50:16",
@@ -783,22 +783,6 @@
     {
       "added_at": "2026-04-27 01:50:16",
       "album": {
-        "name": "Legends of the Past",
-        "url": "https://open.spotify.com/album/7ezKJVdp9kzLZZfpzPZ8w3"
-      },
-      "artists": [
-        {
-          "name": "Tenno",
-          "url": "https://open.spotify.com/artist/3yu4VilcxpQ6h35vRcemBp"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Muramasa",
-      "url": "https://open.spotify.com/track/75yKCtGs2x1rcMBiRQAdYX"
-    },
-    {
-      "added_at": "2026-04-27 01:50:16",
-      "album": {
         "name": "Kitsune To Take",
         "url": "https://open.spotify.com/album/6iZ92G0C1TY8F3nQIy4ZNf"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 184390,
       "name": "Nap Time in Shibuya",
       "url": "https://open.spotify.com/track/2kR6OrgdSFOD6nNqZxenE2"
+    },
+    {
+      "added_at": "2026-04-27 01:50:16",
+      "album": {
+        "name": "Legends of the Past",
+        "url": "https://open.spotify.com/album/7ezKJVdp9kzLZZfpzPZ8w3"
+      },
+      "artists": [
+        {
+          "name": "Tenno",
+          "url": "https://open.spotify.com/artist/3yu4VilcxpQ6h35vRcemBp"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Muramasa",
+      "url": "https://open.spotify.com/track/75yKCtGs2x1rcMBiRQAdYX"
     },
     {
       "added_at": "2026-04-27 01:50:16",
@@ -1167,26 +1167,6 @@
     {
       "added_at": "2026-04-27 01:50:16",
       "album": {
-        "name": "D\u00e9j\u00e0 vu",
-        "url": "https://open.spotify.com/album/4LTL70hnBdhDGxGcc42LzZ"
-      },
-      "artists": [
-        {
-          "name": "S\u00e1tyr",
-          "url": "https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf"
-        },
-        {
-          "name": "marsquake",
-          "url": "https://open.spotify.com/artist/7JHsA8iL2mnUsAteuzehsb"
-        }
-      ],
-      "duration_ms": 151730,
-      "name": "Sunlit",
-      "url": "https://open.spotify.com/track/6CaNDQIdh5guSCXbg0MOgG"
-    },
-    {
-      "added_at": "2026-04-27 01:50:16",
-      "album": {
         "name": "Simple Things",
         "url": "https://open.spotify.com/album/0Lx7VVGGBhXVI0TJ3yCLyz"
       },
@@ -1215,6 +1195,26 @@
       "duration_ms": 156059,
       "name": "The Shining Kingdom",
       "url": "https://open.spotify.com/track/40sf9qGw1EXipis9Ol8X4N"
+    },
+    {
+      "added_at": "2026-04-27 01:50:16",
+      "album": {
+        "name": "D\u00e9j\u00e0 vu",
+        "url": "https://open.spotify.com/album/4LTL70hnBdhDGxGcc42LzZ"
+      },
+      "artists": [
+        {
+          "name": "S\u00e1tyr",
+          "url": "https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf"
+        },
+        {
+          "name": "marsquake",
+          "url": "https://open.spotify.com/artist/7JHsA8iL2mnUsAteuzehsb"
+        }
+      ],
+      "duration_ms": 151730,
+      "name": "Sunlit",
+      "url": "https://open.spotify.com/track/6CaNDQIdh5guSCXbg0MOgG"
     },
     {
       "added_at": "2026-04-27 01:50:16",
@@ -1287,26 +1287,6 @@
     {
       "added_at": "2026-04-27 01:50:16",
       "album": {
-        "name": "Kintsukuroi",
-        "url": "https://open.spotify.com/album/4fkpxS01a1c2dozXwKiv6i"
-      },
-      "artists": [
-        {
-          "name": "Lost Files",
-          "url": "https://open.spotify.com/artist/0NA9RjFnSsIlj1FUMhfuow"
-        },
-        {
-          "name": "Pukem",
-          "url": "https://open.spotify.com/artist/52C0aO6MUWo6a8tRyR8eKV"
-        }
-      ],
-      "duration_ms": 77946,
-      "name": "Gold Powder",
-      "url": "https://open.spotify.com/track/5DfOGcKjXLocgijpEQgLla"
-    },
-    {
-      "added_at": "2026-04-27 01:50:16",
-      "album": {
         "name": "Calm",
         "url": "https://open.spotify.com/album/2udB97O2aRJDluomPS7v9m"
       },
@@ -1335,6 +1315,26 @@
       "duration_ms": 133668,
       "name": "Birds",
       "url": "https://open.spotify.com/track/036lPK1hs7BhEIznZ1OGBy"
+    },
+    {
+      "added_at": "2026-04-27 01:50:16",
+      "album": {
+        "name": "Kintsukuroi",
+        "url": "https://open.spotify.com/album/4fkpxS01a1c2dozXwKiv6i"
+      },
+      "artists": [
+        {
+          "name": "Lost Files",
+          "url": "https://open.spotify.com/artist/0NA9RjFnSsIlj1FUMhfuow"
+        },
+        {
+          "name": "Pukem",
+          "url": "https://open.spotify.com/artist/52C0aO6MUWo6a8tRyR8eKV"
+        }
+      ],
+      "duration_ms": 77946,
+      "name": "Gold Powder",
+      "url": "https://open.spotify.com/track/5DfOGcKjXLocgijpEQgLla"
     },
     {
       "added_at": "2026-04-27 01:50:16",
@@ -1391,6 +1391,22 @@
     {
       "added_at": "2026-04-27 01:50:16",
       "album": {
+        "name": "Hanagasumi",
+        "url": "https://open.spotify.com/album/56q8Tkk5130VkPysfMN8j8"
+      },
+      "artists": [
+        {
+          "name": "DaniSogen",
+          "url": "https://open.spotify.com/artist/7igN8kqLCyyGn6QoVmB6CO"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Arisa",
+      "url": "https://open.spotify.com/track/3yGVIzliF0fcy6pcjO02hS"
+    },
+    {
+      "added_at": "2026-04-27 01:50:16",
+      "album": {
         "name": "Tokyo Skyline",
         "url": "https://open.spotify.com/album/27XjDTqr7TNHKFazcl1WKO"
       },
@@ -1407,22 +1423,6 @@
       "duration_ms": 174111,
       "name": "Silk Road",
       "url": "https://open.spotify.com/track/4DhAaZSA1kE2dg0voGh5nm"
-    },
-    {
-      "added_at": "2026-04-27 01:50:16",
-      "album": {
-        "name": "Hanagasumi",
-        "url": "https://open.spotify.com/album/56q8Tkk5130VkPysfMN8j8"
-      },
-      "artists": [
-        {
-          "name": "DaniSogen",
-          "url": "https://open.spotify.com/artist/7igN8kqLCyyGn6QoVmB6CO"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Arisa",
-      "url": "https://open.spotify.com/track/3yGVIzliF0fcy6pcjO02hS"
     },
     {
       "added_at": "2026-04-27 01:50:16",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2026-04-27 01:50:16",
       "album": {
-        "name": "Mountain Trail",
-        "url": "https://open.spotify.com/album/7MKhgHTNGbgMlLXBxmQDKv"
-      },
-      "artists": [
-        {
-          "name": "DaniSogen",
-          "url": "https://open.spotify.com/artist/7igN8kqLCyyGn6QoVmB6CO"
-        }
-      ],
-      "duration_ms": 153000,
-      "name": "Mountain Trail",
-      "url": "https://open.spotify.com/track/6V74ZQYUqoyePb0OWNu8hW"
-    },
-    {
-      "added_at": "2026-04-27 01:50:16",
-      "album": {
         "name": "Autumn in Osaka",
         "url": "https://open.spotify.com/album/3HaMbxX4Ywec6NLXexpMuw"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 221832,
       "name": "rainy day",
       "url": "https://open.spotify.com/track/4qYZhVhOrj1SeuHbVAZJqj"
+    },
+    {
+      "added_at": "2026-04-27 01:50:16",
+      "album": {
+        "name": "Mountain Trail",
+        "url": "https://open.spotify.com/album/7MKhgHTNGbgMlLXBxmQDKv"
+      },
+      "artists": [
+        {
+          "name": "DaniSogen",
+          "url": "https://open.spotify.com/artist/7igN8kqLCyyGn6QoVmB6CO"
+        }
+      ],
+      "duration_ms": 153000,
+      "name": "Mountain Trail",
+      "url": "https://open.spotify.com/track/6V74ZQYUqoyePb0OWNu8hW"
     },
     {
       "added_at": "2026-04-27 01:50:16",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2026-04-27 01:50:16",
       "album": {
-        "name": "Ancient Bond",
-        "url": "https://open.spotify.com/album/2VmqsNof7gbRec5Gd3xAX5"
-      },
-      "artists": [
-        {
-          "name": "Raimu",
-          "url": "https://open.spotify.com/artist/4PMAJlYIlc9EafX6z8lwZ3"
-        }
-      ],
-      "duration_ms": 164571,
-      "name": "Ancient Bond",
-      "url": "https://open.spotify.com/track/3qOwHr2YkggGQjDHOU10ra"
-    },
-    {
-      "added_at": "2026-04-27 01:50:16",
-      "album": {
         "name": "Lost in Japan II",
         "url": "https://open.spotify.com/album/4ouEJG6RaGAKTB6CwhnBtT"
       },
@@ -1607,38 +1591,18 @@
     {
       "added_at": "2026-04-27 01:50:16",
       "album": {
-        "name": "Aquilla",
-        "url": "https://open.spotify.com/album/1CscRBQ465UaSIPNjeIOnB"
+        "name": "Ancient Bond",
+        "url": "https://open.spotify.com/album/2VmqsNof7gbRec5Gd3xAX5"
       },
       "artists": [
         {
-          "name": "Loafy Building",
-          "url": "https://open.spotify.com/artist/656fNsyi29ZFuxOc7cBdIs"
-        },
-        {
-          "name": "Hoogway",
-          "url": "https://open.spotify.com/artist/1Mh9G47YfuaLdQs44voLrQ"
+          "name": "Raimu",
+          "url": "https://open.spotify.com/artist/4PMAJlYIlc9EafX6z8lwZ3"
         }
       ],
-      "duration_ms": 124765,
-      "name": "Zhuki",
-      "url": "https://open.spotify.com/track/55K4HllSdmsXw1L7KmRBWv"
-    },
-    {
-      "added_at": "2026-04-27 01:50:16",
-      "album": {
-        "name": "Soothing Breeze",
-        "url": "https://open.spotify.com/album/50cgYJnKBSTaxjrLavv1FF"
-      },
-      "artists": [
-        {
-          "name": "Tibeauthetraveler",
-          "url": "https://open.spotify.com/artist/1csp9v9FfSxU0LcBtfWFCb"
-        }
-      ],
-      "duration_ms": 156482,
-      "name": "Cherry Tree",
-      "url": "https://open.spotify.com/track/5owO5cS8Bdkyvcac3Eadt5"
+      "duration_ms": 164571,
+      "name": "Ancient Bond",
+      "url": "https://open.spotify.com/track/3qOwHr2YkggGQjDHOU10ra"
     },
     {
       "added_at": "2026-04-27 01:50:16",
@@ -1671,6 +1635,42 @@
       "duration_ms": 167102,
       "name": "Miss Each Other Because of Love",
       "url": "https://open.spotify.com/track/0J2YOcFgqGHQawWpwvOhdR"
+    },
+    {
+      "added_at": "2026-04-27 01:50:16",
+      "album": {
+        "name": "Soothing Breeze",
+        "url": "https://open.spotify.com/album/50cgYJnKBSTaxjrLavv1FF"
+      },
+      "artists": [
+        {
+          "name": "Tibeauthetraveler",
+          "url": "https://open.spotify.com/artist/1csp9v9FfSxU0LcBtfWFCb"
+        }
+      ],
+      "duration_ms": 156482,
+      "name": "Cherry Tree",
+      "url": "https://open.spotify.com/track/5owO5cS8Bdkyvcac3Eadt5"
+    },
+    {
+      "added_at": "2026-04-27 01:50:16",
+      "album": {
+        "name": "Aquilla",
+        "url": "https://open.spotify.com/album/1CscRBQ465UaSIPNjeIOnB"
+      },
+      "artists": [
+        {
+          "name": "Loafy Building",
+          "url": "https://open.spotify.com/artist/656fNsyi29ZFuxOc7cBdIs"
+        },
+        {
+          "name": "Hoogway",
+          "url": "https://open.spotify.com/artist/1Mh9G47YfuaLdQs44voLrQ"
+        }
+      ],
+      "duration_ms": 124765,
+      "name": "Zhuki",
+      "url": "https://open.spotify.com/track/55K4HllSdmsXw1L7KmRBWv"
     },
     {
       "added_at": "2026-04-27 01:50:16",

@@ -1,12 +1,12 @@
 {
   "description": "This is Megan Moroney. The essential tracks, all in one playlist.",
-  "num_followers": 51926,
+  "num_followers": 51954,
   "original_name": "This Is Megan Moroney",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahI/gAAAAACEUwwStqGW7W704TG4S1xQ",
+  "snapshot_id": "ahORAAAAAABS3xiJe6kc/XBlt4ROTE/7",
   "tracks": [
     {
       "added_at": null,
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
         }
       ],
-      "duration_ms": 234390,
-      "name": "Who Hurt You?",
-      "url": "https://open.spotify.com/track/3SMLwkyLp1wMxjtO8GymvC"
+      "duration_ms": 182868,
+      "name": "6 Months Later",
+      "url": "https://open.spotify.com/track/6LO850KScatqpleILCom6P"
     },
     {
       "added_at": null,
@@ -236,7 +236,7 @@
       "added_at": null,
       "album": {
         "name": "Cloud 9",
-        "url": "https://open.spotify.com/album/4ntHwySryzYS8Td67WlVVq"
+        "url": "https://open.spotify.com/album/5jcUel1E0hvk7kay5f3eh1"
       },
       "artists": [
         {
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
         }
       ],
-      "duration_ms": 182868,
-      "name": "6 Months Later",
-      "url": "https://open.spotify.com/track/6LO850KScatqpleILCom6P"
+      "duration_ms": 207878,
+      "name": "Traitor (Roles Reversed)",
+      "url": "https://open.spotify.com/track/69gC4UlxaDlNopZ0uBCuIj"
     },
     {
       "added_at": null,
@@ -304,7 +304,7 @@
       "added_at": null,
       "album": {
         "name": "Cloud 9",
-        "url": "https://open.spotify.com/album/5jcUel1E0hvk7kay5f3eh1"
+        "url": "https://open.spotify.com/album/4ntHwySryzYS8Td67WlVVq"
       },
       "artists": [
         {
@@ -312,9 +312,9 @@
           "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
         }
       ],
-      "duration_ms": 207878,
-      "name": "Traitor (Roles Reversed)",
-      "url": "https://open.spotify.com/track/69gC4UlxaDlNopZ0uBCuIj"
+      "duration_ms": 234390,
+      "name": "Who Hurt You?",
+      "url": "https://open.spotify.com/track/3SMLwkyLp1wMxjtO8GymvC"
     },
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lucky (Deluxe)",
-        "url": "https://open.spotify.com/album/4Yb0OvM7xTvuyjUivVEXP4"
-      },
-      "artists": [
-        {
-          "name": "Megan Moroney",
-          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
-        }
-      ],
-      "duration_ms": 251266,
-      "name": "Reasons to Stay",
-      "url": "https://open.spotify.com/track/5OPc2fFtwlMsmhOhFcqAny"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Memory Lane",
         "url": "https://open.spotify.com/album/3PUA3xAHTsDAp11oAb33Mv"
       },
@@ -559,6 +543,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lucky (Deluxe)",
+        "url": "https://open.spotify.com/album/4Yb0OvM7xTvuyjUivVEXP4"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "duration_ms": 251266,
+      "name": "Reasons to Stay",
+      "url": "https://open.spotify.com/track/5OPc2fFtwlMsmhOhFcqAny"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Am I Okay? (I'll Be Fine)",
         "url": "https://open.spotify.com/album/0AqurYcKg73g81nADrFcyY"
       },
@@ -571,22 +571,6 @@
       "duration_ms": 220695,
       "name": "I'll Be Fine",
       "url": "https://open.spotify.com/track/7r0EPhlEkkKzdLJyPw1wFz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Best of Both Worlds (Spotify Singles)",
-        "url": "https://open.spotify.com/album/2ixVKMbXs7yUciceNEG2l9"
-      },
-      "artists": [
-        {
-          "name": "Megan Moroney",
-          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
-        }
-      ],
-      "duration_ms": 180061,
-      "name": "The Best of Both Worlds - Spotify Singles",
-      "url": "https://open.spotify.com/track/0G72xBHu2lXcEAAbzo1Ehf"
     },
     {
       "added_at": null,
@@ -607,6 +591,22 @@
       "duration_ms": 149114,
       "name": "Wish I Didn't - MOONLGHT Remix",
       "url": "https://open.spotify.com/track/3xKulMqNGVrkQfKJlJqw1g"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Best of Both Worlds (Spotify Singles)",
+        "url": "https://open.spotify.com/album/2ixVKMbXs7yUciceNEG2l9"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "duration_ms": 180061,
+      "name": "The Best of Both Worlds - Spotify Singles",
+      "url": "https://open.spotify.com/track/0G72xBHu2lXcEAAbzo1Ehf"
     },
     {
       "added_at": null,

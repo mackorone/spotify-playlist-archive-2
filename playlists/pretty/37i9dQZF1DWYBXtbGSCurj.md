@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, pra você garimpar lançamentos\. Foto: KayBlack
 
-[Spotify](https://open.spotify.com/user/spotify) - 610,161 likes - 75 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 610,143 likes - 75 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 11 | [FALSOS NÃO VÃO PASSAR](https://open.spotify.com/track/4zsU8uiIEhQilwxtMNItWv) | [Leviano](https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ) | [MALINO](https://open.spotify.com/album/6dZAg2wjDklqV1H28NQ8OV) | 1:39 |
 | 12 | [Te vi lá no Site](https://open.spotify.com/track/4jiI22iczGZ1FfITZfrxP9) | [Shenlong](https://open.spotify.com/artist/6Dzh6uXgA0QKVg1eIWxdDY), [Portugal No Beat](https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q) | [Te vi lá no Site](https://open.spotify.com/album/3XnWWrxSRW23SYzsJq6pW0) | 2:37 |
 | 13 | [Estrela Cadente](https://open.spotify.com/track/4EZsYcSGb2O1L1VABzcU7H) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e) | [Estrela Cadente](https://open.spotify.com/album/2rFpqlqRY3VJMmrSQxpkzd) | 2:42 |
-| 14 | [Ambition](https://open.spotify.com/track/7eTAQXLwh0nNxj7DviZHO0) | [Boaventura](https://open.spotify.com/artist/0HNv7LfoPFCBtfdeiFIXPe), [Drummond](https://open.spotify.com/artist/11SKuSqWt1KyNO22CSTsiq) | [Ambition](https://open.spotify.com/album/17rFNQc7hKd2jcRyP1S1BF) | 2:23 |
+| 14 | [Ambition](https://open.spotify.com/track/7eTAQXLwh0nNxj7DviZHO0) | [Boaventura](https://open.spotify.com/artist/0HNv7LfoPFCBtfdeiFIXPe) | [Ambition](https://open.spotify.com/album/17rFNQc7hKd2jcRyP1S1BF) | 2:23 |
 | 15 | [FATOS REAIS](https://open.spotify.com/track/48PHddLWKRm2v8edXl5NHv) | [Sueth](https://open.spotify.com/artist/4ZyBq7WEL7d2dDH0BkVDPX) | [CÓDIGO DAS RUAS](https://open.spotify.com/album/3eau69rQEqsCngJseJR9Id) | 2:06 |
 | 16 | [Eu sei](https://open.spotify.com/track/43Z9DTcF8yA18g3wZou3Qc) | [Raflow](https://open.spotify.com/artist/6NHJLHGyF86wd4DT8fNqD0), [Real Fuba](https://open.spotify.com/artist/0PjEY1nAycpN9PeI3zOtdb), [Deluca](https://open.spotify.com/artist/0Gz4hLahmvjsPYwsDdbAI7) | [Eu sei](https://open.spotify.com/album/4HrEXJl69Paze3hND6mpTB) | 3:45 |
 | 17 | [Vibração](https://open.spotify.com/track/7FmrORHUYaNlBF1lS0HayP) | [Gapes](https://open.spotify.com/artist/3ADff4whbAS71o4L1B3vYu) | [Vibração](https://open.spotify.com/album/5yNQz4Zf4SYwygZk7hTE7c) | 2:41 |

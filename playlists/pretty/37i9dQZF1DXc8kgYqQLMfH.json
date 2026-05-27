@@ -1,6 +1,6 @@
 {
   "description": "in your lush & lazy era \ud83e\udeb7 cozy beats, comfy self-care vibes",
-  "num_followers": 1083098,
+  "num_followers": 1083211,
   "original_name": "slow living",
   "owner": {
     "name": "Spotify",
@@ -483,6 +483,22 @@
     {
       "added_at": "2026-05-22 04:00:43",
       "album": {
+        "name": "Driftwood",
+        "url": "https://open.spotify.com/album/2NHKDzAbt6fl01Wvj7KE67"
+      },
+      "artists": [
+        {
+          "name": "nat boyce",
+          "url": "https://open.spotify.com/artist/3YGcEAKWOuLol94NCdOspi"
+        }
+      ],
+      "duration_ms": 125806,
+      "name": "Driftwood",
+      "url": "https://open.spotify.com/track/731zwJtUsukNZwsucOSI1c"
+    },
+    {
+      "added_at": "2026-05-22 04:00:43",
+      "album": {
         "name": "a place both wonderful & strange",
         "url": "https://open.spotify.com/album/2kHEU4USkWU4qyzAEf6cle"
       },
@@ -495,6 +511,30 @@
       "duration_ms": 129108,
       "name": "a place both wonderful & strange",
       "url": "https://open.spotify.com/track/2FgAvwHYNmRsjr9ROpAuHJ"
+    },
+    {
+      "added_at": "2026-05-22 04:00:43",
+      "album": {
+        "name": "whisper me home",
+        "url": "https://open.spotify.com/album/6uUj9ck0xb3D3IBn8ojlM7"
+      },
+      "artists": [
+        {
+          "name": "alhivi",
+          "url": "https://open.spotify.com/artist/7ulf45VD9Q3ZazcIG3v79P"
+        },
+        {
+          "name": "L\u00f3rien Loops",
+          "url": "https://open.spotify.com/artist/4obNM3Q6nZn9zpmlzsSdCR"
+        },
+        {
+          "name": "forever dreaming",
+          "url": "https://open.spotify.com/artist/7sFBr3PEjRa5qVSD75VAFZ"
+        }
+      ],
+      "duration_ms": 103000,
+      "name": "whisper me home",
+      "url": "https://open.spotify.com/track/5Xf0awOgjwqBTyRd2PHtUw"
     },
     {
       "added_at": "2026-05-22 04:00:43",
@@ -527,46 +567,6 @@
       "duration_ms": 162711,
       "name": "water lilies",
       "url": "https://open.spotify.com/track/3yMn2sp3d6BBdb1xXaBVK3"
-    },
-    {
-      "added_at": "2026-05-22 04:00:43",
-      "album": {
-        "name": "whisper me home",
-        "url": "https://open.spotify.com/album/6uUj9ck0xb3D3IBn8ojlM7"
-      },
-      "artists": [
-        {
-          "name": "alhivi",
-          "url": "https://open.spotify.com/artist/7ulf45VD9Q3ZazcIG3v79P"
-        },
-        {
-          "name": "L\u00f3rien Loops",
-          "url": "https://open.spotify.com/artist/4obNM3Q6nZn9zpmlzsSdCR"
-        },
-        {
-          "name": "forever dreaming",
-          "url": "https://open.spotify.com/artist/7sFBr3PEjRa5qVSD75VAFZ"
-        }
-      ],
-      "duration_ms": 103000,
-      "name": "whisper me home",
-      "url": "https://open.spotify.com/track/5Xf0awOgjwqBTyRd2PHtUw"
-    },
-    {
-      "added_at": "2026-05-22 04:00:43",
-      "album": {
-        "name": "Driftwood",
-        "url": "https://open.spotify.com/album/2NHKDzAbt6fl01Wvj7KE67"
-      },
-      "artists": [
-        {
-          "name": "nat boyce",
-          "url": "https://open.spotify.com/artist/3YGcEAKWOuLol94NCdOspi"
-        }
-      ],
-      "duration_ms": 125806,
-      "name": "Driftwood",
-      "url": "https://open.spotify.com/track/731zwJtUsukNZwsucOSI1c"
     },
     {
       "added_at": "2026-05-22 04:00:43",
@@ -775,42 +775,6 @@
     {
       "added_at": "2026-05-22 04:00:43",
       "album": {
-        "name": "Weightless",
-        "url": "https://open.spotify.com/album/6DcUs1tRcpZY9LpOEabQgY"
-      },
-      "artists": [
-        {
-          "name": "cxlt.",
-          "url": "https://open.spotify.com/artist/1TFqjcoVis5TzVQxrHMSfA"
-        },
-        {
-          "name": "Ptr.",
-          "url": "https://open.spotify.com/artist/6NjVgE12RKrH5MjW9Tgd0o"
-        }
-      ],
-      "duration_ms": 134400,
-      "name": "Weightless",
-      "url": "https://open.spotify.com/track/5jf4jUDfHruFyFj25TTWTD"
-    },
-    {
-      "added_at": "2026-05-22 04:00:43",
-      "album": {
-        "name": "untangled",
-        "url": "https://open.spotify.com/album/1xJFH8xUQnW9immZFIDBvL"
-      },
-      "artists": [
-        {
-          "name": "bax iv",
-          "url": "https://open.spotify.com/artist/0JZZhhFnYFY5c4mDXTgj42"
-        }
-      ],
-      "duration_ms": 127250,
-      "name": "untangled",
-      "url": "https://open.spotify.com/track/6TVxYnAVr3jDo9J71rvVMF"
-    },
-    {
-      "added_at": "2026-05-22 04:00:43",
-      "album": {
         "name": "Drifting",
         "url": "https://open.spotify.com/album/0ti1e5rTEzrzxqR5lXftEg"
       },
@@ -835,6 +799,42 @@
     {
       "added_at": "2026-05-22 04:00:43",
       "album": {
+        "name": "untangled",
+        "url": "https://open.spotify.com/album/1xJFH8xUQnW9immZFIDBvL"
+      },
+      "artists": [
+        {
+          "name": "bax iv",
+          "url": "https://open.spotify.com/artist/0JZZhhFnYFY5c4mDXTgj42"
+        }
+      ],
+      "duration_ms": 127250,
+      "name": "untangled",
+      "url": "https://open.spotify.com/track/6TVxYnAVr3jDo9J71rvVMF"
+    },
+    {
+      "added_at": "2026-05-22 04:00:43",
+      "album": {
+        "name": "Weightless",
+        "url": "https://open.spotify.com/album/6DcUs1tRcpZY9LpOEabQgY"
+      },
+      "artists": [
+        {
+          "name": "cxlt.",
+          "url": "https://open.spotify.com/artist/1TFqjcoVis5TzVQxrHMSfA"
+        },
+        {
+          "name": "Ptr.",
+          "url": "https://open.spotify.com/artist/6NjVgE12RKrH5MjW9Tgd0o"
+        }
+      ],
+      "duration_ms": 134400,
+      "name": "Weightless",
+      "url": "https://open.spotify.com/track/5jf4jUDfHruFyFj25TTWTD"
+    },
+    {
+      "added_at": "2026-05-22 04:00:43",
+      "album": {
         "name": "Loft Room",
         "url": "https://open.spotify.com/album/1MueD7LqO77Oh55GwLXbAE"
       },
@@ -847,6 +847,22 @@
       "duration_ms": 157634,
       "name": "Loft Room",
       "url": "https://open.spotify.com/track/6uDcf4yMECdvrTVUc06Gfn"
+    },
+    {
+      "added_at": "2026-05-22 04:00:43",
+      "album": {
+        "name": "nightfalling",
+        "url": "https://open.spotify.com/album/3SWGuY3dVRctObeoEB9Y2d"
+      },
+      "artists": [
+        {
+          "name": "Lily of The Valley",
+          "url": "https://open.spotify.com/artist/5aaaOy8v47CPgiLzGZriXH"
+        }
+      ],
+      "duration_ms": 130819,
+      "name": "nightfalling",
+      "url": "https://open.spotify.com/track/2cQWH9iQfh0epKQa4xhd7Q"
     },
     {
       "added_at": "2026-05-22 04:00:43",
@@ -895,6 +911,38 @@
       "duration_ms": 125076,
       "name": "bookworn",
       "url": "https://open.spotify.com/track/6tnQHLy3sz7QNLBsYCpDnn"
+    },
+    {
+      "added_at": "2026-05-22 04:00:43",
+      "album": {
+        "name": "Strange Ways",
+        "url": "https://open.spotify.com/album/0K2Gurv2iQMOf0NITLvC0V"
+      },
+      "artists": [
+        {
+          "name": "Audio Sculptor",
+          "url": "https://open.spotify.com/artist/1BDPkykZVsiQP2OLhJvAr9"
+        }
+      ],
+      "duration_ms": 138461,
+      "name": "Strange Ways",
+      "url": "https://open.spotify.com/track/5SdMHS5zIcego2WOaSNAqL"
+    },
+    {
+      "added_at": "2026-05-22 04:00:43",
+      "album": {
+        "name": "Outfield Light",
+        "url": "https://open.spotify.com/album/0Ivbm1JPD2glOAOP2bKiSq"
+      },
+      "artists": [
+        {
+          "name": "Chris Currano",
+          "url": "https://open.spotify.com/artist/0zmJNaKdkDiMfJxFO12COr"
+        }
+      ],
+      "duration_ms": 131019,
+      "name": "Outfield Light",
+      "url": "https://open.spotify.com/track/6p1S1G9hpw78bVkUzcWggP"
     },
     {
       "added_at": "2026-05-22 04:00:43",
@@ -1059,18 +1107,18 @@
     {
       "added_at": "2026-05-22 04:00:43",
       "album": {
-        "name": "my safe place",
-        "url": "https://open.spotify.com/album/0mkfPXG6Eac9kUOKP6SWPv"
+        "name": "Must've Been the Wind",
+        "url": "https://open.spotify.com/album/1ZcDCFhsueOAXABOPaN6QT"
       },
       "artists": [
         {
-          "name": "Hevi",
-          "url": "https://open.spotify.com/artist/4vv1FFVqxnHyQFLmWxjizb"
+          "name": "Luna Rossa",
+          "url": "https://open.spotify.com/artist/5KM0Pgy2NxMnZrxtOhM9nW"
         }
       ],
-      "duration_ms": 96000,
-      "name": "my safe place",
-      "url": "https://open.spotify.com/track/2ZJpn9zfmI50N1mzcyBSUJ"
+      "duration_ms": 137142,
+      "name": "Must've Been the Wind",
+      "url": "https://open.spotify.com/track/6dJ9y9bauSaavJbkPcEjkk"
     },
     {
       "added_at": "2026-05-22 04:00:43",
@@ -1091,18 +1139,18 @@
     {
       "added_at": "2026-05-22 04:00:43",
       "album": {
-        "name": "Must've Been the Wind",
-        "url": "https://open.spotify.com/album/1ZcDCFhsueOAXABOPaN6QT"
+        "name": "my safe place",
+        "url": "https://open.spotify.com/album/0mkfPXG6Eac9kUOKP6SWPv"
       },
       "artists": [
         {
-          "name": "Luna Rossa",
-          "url": "https://open.spotify.com/artist/5KM0Pgy2NxMnZrxtOhM9nW"
+          "name": "Hevi",
+          "url": "https://open.spotify.com/artist/4vv1FFVqxnHyQFLmWxjizb"
         }
       ],
-      "duration_ms": 137142,
-      "name": "Must've Been the Wind",
-      "url": "https://open.spotify.com/track/6dJ9y9bauSaavJbkPcEjkk"
+      "duration_ms": 96000,
+      "name": "my safe place",
+      "url": "https://open.spotify.com/track/2ZJpn9zfmI50N1mzcyBSUJ"
     },
     {
       "added_at": "2026-05-22 04:00:43",
@@ -1123,18 +1171,22 @@
     {
       "added_at": "2026-05-22 04:00:43",
       "album": {
-        "name": "nightfalling",
-        "url": "https://open.spotify.com/album/3SWGuY3dVRctObeoEB9Y2d"
+        "name": "awakening",
+        "url": "https://open.spotify.com/album/5ZMVxKLha84fPOsC8K1ovb"
       },
       "artists": [
         {
-          "name": "Lily of The Valley",
-          "url": "https://open.spotify.com/artist/5aaaOy8v47CPgiLzGZriXH"
+          "name": "hotpotatoes",
+          "url": "https://open.spotify.com/artist/1dZJR80G2bQzlGD2F9bOwG"
+        },
+        {
+          "name": "Toti Cisneros",
+          "url": "https://open.spotify.com/artist/2RzBTtaoFmXDvt5vP8lPYf"
         }
       ],
-      "duration_ms": 130819,
-      "name": "nightfalling",
-      "url": "https://open.spotify.com/track/2cQWH9iQfh0epKQa4xhd7Q"
+      "duration_ms": 124838,
+      "name": "awakening",
+      "url": "https://open.spotify.com/track/4lIBvM1LnA92nZ19U2vLPJ"
     },
     {
       "added_at": "2026-05-22 04:00:43",
@@ -1171,42 +1223,6 @@
     {
       "added_at": "2026-05-22 04:00:43",
       "album": {
-        "name": "awakening",
-        "url": "https://open.spotify.com/album/5ZMVxKLha84fPOsC8K1ovb"
-      },
-      "artists": [
-        {
-          "name": "hotpotatoes",
-          "url": "https://open.spotify.com/artist/1dZJR80G2bQzlGD2F9bOwG"
-        },
-        {
-          "name": "Toti Cisneros",
-          "url": "https://open.spotify.com/artist/2RzBTtaoFmXDvt5vP8lPYf"
-        }
-      ],
-      "duration_ms": 124838,
-      "name": "awakening",
-      "url": "https://open.spotify.com/track/4lIBvM1LnA92nZ19U2vLPJ"
-    },
-    {
-      "added_at": "2026-05-22 04:00:43",
-      "album": {
-        "name": "Strange Ways",
-        "url": "https://open.spotify.com/album/0K2Gurv2iQMOf0NITLvC0V"
-      },
-      "artists": [
-        {
-          "name": "Audio Sculptor",
-          "url": "https://open.spotify.com/artist/1BDPkykZVsiQP2OLhJvAr9"
-        }
-      ],
-      "duration_ms": 138461,
-      "name": "Strange Ways",
-      "url": "https://open.spotify.com/track/5SdMHS5zIcego2WOaSNAqL"
-    },
-    {
-      "added_at": "2026-05-22 04:00:43",
-      "album": {
         "name": "Warm Mug",
         "url": "https://open.spotify.com/album/4KFuIhOeomePZyJW2wmyBX"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 159000,
       "name": "Through the Rain",
       "url": "https://open.spotify.com/track/4yV4OoJcLydUdBoJZ03vAw"
-    },
-    {
-      "added_at": "2026-05-22 04:00:43",
-      "album": {
-        "name": "Outfield Light",
-        "url": "https://open.spotify.com/album/0Ivbm1JPD2glOAOP2bKiSq"
-      },
-      "artists": [
-        {
-          "name": "Chris Currano",
-          "url": "https://open.spotify.com/artist/0zmJNaKdkDiMfJxFO12COr"
-        }
-      ],
-      "duration_ms": 131019,
-      "name": "Outfield Light",
-      "url": "https://open.spotify.com/track/6p1S1G9hpw78bVkUzcWggP"
     },
     {
       "added_at": "2026-05-22 04:00:43",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2026-05-22 04:00:43",
       "album": {
-        "name": "growing still",
-        "url": "https://open.spotify.com/album/02d2LqrUcKC1H2KxCE9Vjx"
-      },
-      "artists": [
-        {
-          "name": "lilibu",
-          "url": "https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI"
-        }
-      ],
-      "duration_ms": 166578,
-      "name": "growing still",
-      "url": "https://open.spotify.com/track/3RSxBajUUnUfHPZbriPzWT"
-    },
-    {
-      "added_at": "2026-05-22 04:00:43",
-      "album": {
         "name": "Abigail",
         "url": "https://open.spotify.com/album/20RTWWI9KZr76XpsP5mp94"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 166875,
       "name": "Abigail",
       "url": "https://open.spotify.com/track/7qWeJvxs5Ir8aYqRrDUllE"
+    },
+    {
+      "added_at": "2026-05-22 04:00:43",
+      "album": {
+        "name": "growing still",
+        "url": "https://open.spotify.com/album/02d2LqrUcKC1H2KxCE9Vjx"
+      },
+      "artists": [
+        {
+          "name": "lilibu",
+          "url": "https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI"
+        }
+      ],
+      "duration_ms": 166578,
+      "name": "growing still",
+      "url": "https://open.spotify.com/track/3RSxBajUUnUfHPZbriPzWT"
     },
     {
       "added_at": "2026-05-22 04:00:43",
@@ -1735,22 +1735,6 @@
     {
       "added_at": "2026-05-22 04:00:43",
       "album": {
-        "name": "Eagle",
-        "url": "https://open.spotify.com/album/4azzrrmrAvjDiRIk3ZZCEj"
-      },
-      "artists": [
-        {
-          "name": "Gloomey",
-          "url": "https://open.spotify.com/artist/3kafjFk7KJTmHzXwOJLOUr"
-        }
-      ],
-      "duration_ms": 190054,
-      "name": "Eagle",
-      "url": "https://open.spotify.com/track/7y59bf74fnWo54y3cSLBvx"
-    },
-    {
-      "added_at": "2026-05-22 04:00:43",
-      "album": {
         "name": "Pisa",
         "url": "https://open.spotify.com/album/5z1vV0FxJ7UNcmHp4aRVfj"
       },
@@ -1763,6 +1747,22 @@
       "duration_ms": 145600,
       "name": "Pisa",
       "url": "https://open.spotify.com/track/46atmNl6nPzZuj6qAzBgpi"
+    },
+    {
+      "added_at": "2026-05-22 04:00:43",
+      "album": {
+        "name": "Eagle",
+        "url": "https://open.spotify.com/album/4azzrrmrAvjDiRIk3ZZCEj"
+      },
+      "artists": [
+        {
+          "name": "Gloomey",
+          "url": "https://open.spotify.com/artist/3kafjFk7KJTmHzXwOJLOUr"
+        }
+      ],
+      "duration_ms": 190054,
+      "name": "Eagle",
+      "url": "https://open.spotify.com/track/7y59bf74fnWo54y3cSLBvx"
     },
     {
       "added_at": "2026-05-22 04:00:43",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoKKKetKEw.md) - [plain]
 
 > Jesus Music but make it pon pon\.  Get your fill of Afrobeats and Bible right here!  Cover: Theresa Phondo
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,670 likes - 75 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,674 likes - 75 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoKKKetKEw.md) - [plain]
 | 74 | [247](https://open.spotify.com/track/4yLzE1Rbcr668MMGjVMOnK) | [BELIVAS](https://open.spotify.com/artist/6upU4ND688RA6rchdIyIqB), [Quabena Asare](https://open.spotify.com/artist/3ZSpS98h6E0yAk1kc1dNgd) | [247](https://open.spotify.com/album/25QhVwbPJYv8ZJF3feFyiV) | 3:06 |
 | 75 | [TAMUNO](https://open.spotify.com/track/28TXLB9iqk5d0c5omSr0dh) | [Ajay Asika](https://open.spotify.com/artist/6JTtYSXFQweCccnZnRkVs1) | [TAMUNO](https://open.spotify.com/album/3Hx2cSmvKNliegyB4Ok0O1) | 2:36 |
 
-Snapshot ID: `AAAAAEDXfoQfa7nXRS76KL6rm3JwqHP2`
+Snapshot ID: `AAAAAP09BTym2fs6MK1PbpkbfpwNH2px`

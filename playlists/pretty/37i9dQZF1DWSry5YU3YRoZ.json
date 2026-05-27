@@ -1,6 +1,6 @@
 {
   "description": "\ucc28\ubd84\ud558\uace0 \uac10\uc131\uc801\uc778 \uc74c\uc545\ub4e4\uacfc \ud568\uaed8 \ud3b8\uc548\ud55c \ubc24 \ub418\uc138\uc694 :) (Listen to K-Pop sleeping songs)",
-  "num_followers": 11664,
+  "num_followers": 11668,
   "original_name": "zZZ \uc798\uc790\uc694",
   "owner": {
     "name": "Spotify",
@@ -775,6 +775,22 @@
     {
       "added_at": "2026-04-27 02:46:25",
       "album": {
+        "name": "Sentimental",
+        "url": "https://open.spotify.com/album/4xU2M05RpGxtCm7Db6qZy3"
+      },
+      "artists": [
+        {
+          "name": "MeloMance",
+          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
+        }
+      ],
+      "duration_ms": 274304,
+      "name": "\uadf8 \ubc24",
+      "url": "https://open.spotify.com/track/30Ruc6AbbIZ1MN4tSUjKGd"
+    },
+    {
+      "added_at": "2026-04-27 02:46:25",
+      "album": {
         "name": "Hide and Seek (feat. kimminseong)",
         "url": "https://open.spotify.com/album/18soFYAFOWDmjUpL4R09bG"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 224267,
       "name": "Hide and Seek (feat. kimminseong)",
       "url": "https://open.spotify.com/track/7ylQ2APCeCGzmD3H0bgTwP"
-    },
-    {
-      "added_at": "2026-04-27 02:46:25",
-      "album": {
-        "name": "Sentimental",
-        "url": "https://open.spotify.com/album/4xU2M05RpGxtCm7Db6qZy3"
-      },
-      "artists": [
-        {
-          "name": "MeloMance",
-          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
-        }
-      ],
-      "duration_ms": 274304,
-      "name": "\uadf8 \ubc24",
-      "url": "https://open.spotify.com/track/30Ruc6AbbIZ1MN4tSUjKGd"
     },
     {
       "added_at": "2026-04-27 02:46:25",

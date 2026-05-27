@@ -1,5 +1,5 @@
 {
-  "description": "With Autoimmune, Pinned Comment, Dystopian X Vision and more",
+  "description": "With Lockjaw, Dystopian X Vision, Jon Drake and more",
   "num_followers": 23,
   "original_name": "Bipolar Superstar Radio",
   "owner": {
@@ -115,30 +115,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lord of the Underground",
-        "url": "https://open.spotify.com/album/2PYkHb61ZLYw02Ll1rPVOY"
-      },
-      "artists": [
-        {
-          "name": "John Carpenter",
-          "url": "https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq"
-        },
-        {
-          "name": "Cody Carpenter",
-          "url": "https://open.spotify.com/artist/5rJxl4BLLAaFRSNgAz2hSg"
-        },
-        {
-          "name": "Daniel Davies",
-          "url": "https://open.spotify.com/artist/0YaDmIGxP3HVcH7xvkpvSP"
-        }
-      ],
-      "duration_ms": 274066,
-      "name": "Lord of the Underground",
-      "url": "https://open.spotify.com/track/4dIb7ZZS8Nn65uIh4m7QhM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "F\u00f6rnedringen",
         "url": "https://open.spotify.com/album/5Zy4wJIQBwmuMK1ND4gDbu"
       },
@@ -171,18 +147,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "City Of Fear",
-        "url": "https://open.spotify.com/album/5f1UcGwwvye8Iqggvkqjwz"
+        "name": "Black Lumina",
+        "url": "https://open.spotify.com/album/2IAXXlc6MTNMNmjjRDiUUE"
       },
       "artists": [
         {
-          "name": "Baarhus",
-          "url": "https://open.spotify.com/artist/4JonlIYzByOdgh0AeFz7aK"
+          "name": "Aeons in Solitude",
+          "url": "https://open.spotify.com/artist/5vkxZdR9Y9p4xnWFfMYMdl"
         }
       ],
-      "duration_ms": 277186,
-      "name": "City Of Fear",
-      "url": "https://open.spotify.com/track/0lqBV9sEAWDSlPcT4yAjNF"
+      "duration_ms": 384370,
+      "name": "84",
+      "url": "https://open.spotify.com/track/0Vl5voXWCbcXVnQKqJrIty"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Patient X",
+        "url": "https://open.spotify.com/album/0MONbWwfVyG75eNIhHKzsi"
+      },
+      "artists": [
+        {
+          "name": "Jon Drake",
+          "url": "https://open.spotify.com/artist/6aWf1uxTEunlrzTTlhCtkg"
+        }
+      ],
+      "duration_ms": 188625,
+      "name": "Man on a Horse",
+      "url": "https://open.spotify.com/track/5UHGAvVqmjfACrwDSKIPax"
     },
     {
       "added_at": null,
@@ -207,18 +199,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Patient X",
-        "url": "https://open.spotify.com/album/0MONbWwfVyG75eNIhHKzsi"
+        "name": "City Of Fear",
+        "url": "https://open.spotify.com/album/5f1UcGwwvye8Iqggvkqjwz"
       },
       "artists": [
         {
-          "name": "Jon Drake",
-          "url": "https://open.spotify.com/artist/6aWf1uxTEunlrzTTlhCtkg"
+          "name": "Baarhus",
+          "url": "https://open.spotify.com/artist/4JonlIYzByOdgh0AeFz7aK"
         }
       ],
-      "duration_ms": 188625,
-      "name": "Man on a Horse",
-      "url": "https://open.spotify.com/track/5UHGAvVqmjfACrwDSKIPax"
+      "duration_ms": 277186,
+      "name": "City Of Fear",
+      "url": "https://open.spotify.com/track/0lqBV9sEAWDSlPcT4yAjNF"
     },
     {
       "added_at": null,
@@ -239,22 +231,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Black Lumina",
-        "url": "https://open.spotify.com/album/2IAXXlc6MTNMNmjjRDiUUE"
-      },
-      "artists": [
-        {
-          "name": "Aeons in Solitude",
-          "url": "https://open.spotify.com/artist/5vkxZdR9Y9p4xnWFfMYMdl"
-        }
-      ],
-      "duration_ms": 271493,
-      "name": "Colours",
-      "url": "https://open.spotify.com/track/7naIMovL3V39rc5g7b8Ysu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Liberationizing Light",
         "url": "https://open.spotify.com/album/3KLg4osPkDP0mIbPdDnW32"
       },
@@ -267,6 +243,22 @@
       "duration_ms": 256894,
       "name": "Liberationizing Light",
       "url": "https://open.spotify.com/track/4m1sgMzxFa2SvZUPdYYLPL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Black Lumina",
+        "url": "https://open.spotify.com/album/2IAXXlc6MTNMNmjjRDiUUE"
+      },
+      "artists": [
+        {
+          "name": "Aeons in Solitude",
+          "url": "https://open.spotify.com/artist/5vkxZdR9Y9p4xnWFfMYMdl"
+        }
+      ],
+      "duration_ms": 271493,
+      "name": "Colours",
+      "url": "https://open.spotify.com/track/7naIMovL3V39rc5g7b8Ysu"
     },
     {
       "added_at": null,
@@ -395,6 +387,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "Forgiveness",
+        "url": "https://open.spotify.com/album/0pza4KCGKfe0f2M3vjZOJc"
+      },
+      "artists": [
+        {
+          "name": "KILL THE FALL",
+          "url": "https://open.spotify.com/artist/2yZC4lJBwx38Wot9vZelSp"
+        }
+      ],
+      "duration_ms": 241927,
+      "name": "Forgiveness",
+      "url": "https://open.spotify.com/track/5PMnDmYTGlkg15qvKhWc6E"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lord of the Underground",
+        "url": "https://open.spotify.com/album/2PYkHb61ZLYw02Ll1rPVOY"
+      },
+      "artists": [
+        {
+          "name": "John Carpenter",
+          "url": "https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq"
+        },
+        {
+          "name": "Cody Carpenter",
+          "url": "https://open.spotify.com/artist/5rJxl4BLLAaFRSNgAz2hSg"
+        },
+        {
+          "name": "Daniel Davies",
+          "url": "https://open.spotify.com/artist/0YaDmIGxP3HVcH7xvkpvSP"
+        }
+      ],
+      "duration_ms": 274066,
+      "name": "Lord of the Underground",
+      "url": "https://open.spotify.com/track/4dIb7ZZS8Nn65uIh4m7QhM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I'm not going home",
         "url": "https://open.spotify.com/album/12PBgSVohvM4sfhdvfNbT8"
       },
@@ -407,6 +439,22 @@
       "duration_ms": 300386,
       "name": "I'm not going home",
       "url": "https://open.spotify.com/track/4C0OtEuP48EI4VLJLpGkgR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Normal",
+        "url": "https://open.spotify.com/album/0GOoyMXJwYAbnCGOHHzirV"
+      },
+      "artists": [
+        {
+          "name": "Bipolar Superstar",
+          "url": "https://open.spotify.com/artist/2luOsV8r2I0lzdTLpgSG0H"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "Strak Saltomortale",
+      "url": "https://open.spotify.com/track/3YHHO3X9542Ia2LqMMiG3s"
     },
     {
       "added_at": null,
@@ -427,34 +475,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Forgiveness",
-        "url": "https://open.spotify.com/album/0pza4KCGKfe0f2M3vjZOJc"
+        "name": "Un-hinged ep",
+        "url": "https://open.spotify.com/album/1QiIxXeE36iQD5eKokwuT8"
       },
       "artists": [
         {
-          "name": "KILL THE FALL",
-          "url": "https://open.spotify.com/artist/2yZC4lJBwx38Wot9vZelSp"
+          "name": "Lockjaw",
+          "url": "https://open.spotify.com/artist/06xxbJTWhst3jtAIoFleYF"
         }
       ],
-      "duration_ms": 241927,
-      "name": "Forgiveness",
-      "url": "https://open.spotify.com/track/5PMnDmYTGlkg15qvKhWc6E"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Normal",
-        "url": "https://open.spotify.com/album/0GOoyMXJwYAbnCGOHHzirV"
-      },
-      "artists": [
-        {
-          "name": "Bipolar Superstar",
-          "url": "https://open.spotify.com/artist/2luOsV8r2I0lzdTLpgSG0H"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "Strak Saltomortale",
-      "url": "https://open.spotify.com/track/3YHHO3X9542Ia2LqMMiG3s"
+      "duration_ms": 223663,
+      "name": "One Chance",
+      "url": "https://open.spotify.com/track/7eJiTUS9FthmhEL9qOrisn"
     },
     {
       "added_at": null,
@@ -479,22 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Un-hinged ep",
-        "url": "https://open.spotify.com/album/1QiIxXeE36iQD5eKokwuT8"
-      },
-      "artists": [
-        {
-          "name": "Lockjaw",
-          "url": "https://open.spotify.com/artist/06xxbJTWhst3jtAIoFleYF"
-        }
-      ],
-      "duration_ms": 223663,
-      "name": "One Chance",
-      "url": "https://open.spotify.com/track/7eJiTUS9FthmhEL9qOrisn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "GT the EP",
         "url": "https://open.spotify.com/album/1Akb0gurKeG5mwgUFrXuYE"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 136615,
       "name": "The magic juice",
       "url": "https://open.spotify.com/track/6Jx1x1y4H1wc0UxPAeJyei"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Just Keep Swimming",
-        "url": "https://open.spotify.com/album/7LmcuNts5OXsMLkfCxwy7s"
-      },
-      "artists": [
-        {
-          "name": "MIK's Reaction",
-          "url": "https://open.spotify.com/artist/0LS00Hi5R6PcZ9mfPTjSMg"
-        }
-      ],
-      "duration_ms": 254925,
-      "name": "Just Keep Swimming",
-      "url": "https://open.spotify.com/track/5GIEnFRBb9fRPR963oPdJh"
     },
     {
       "added_at": null,
@@ -559,6 +559,102 @@
     {
       "added_at": null,
       "album": {
+        "name": "Just Keep Swimming",
+        "url": "https://open.spotify.com/album/7LmcuNts5OXsMLkfCxwy7s"
+      },
+      "artists": [
+        {
+          "name": "MIK's Reaction",
+          "url": "https://open.spotify.com/artist/0LS00Hi5R6PcZ9mfPTjSMg"
+        }
+      ],
+      "duration_ms": 254925,
+      "name": "Just Keep Swimming",
+      "url": "https://open.spotify.com/track/5GIEnFRBb9fRPR963oPdJh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Un-hinged ep",
+        "url": "https://open.spotify.com/album/1QiIxXeE36iQD5eKokwuT8"
+      },
+      "artists": [
+        {
+          "name": "Lockjaw",
+          "url": "https://open.spotify.com/artist/06xxbJTWhst3jtAIoFleYF"
+        }
+      ],
+      "duration_ms": 202927,
+      "name": "Rest Your Halo",
+      "url": "https://open.spotify.com/track/4q1fAT2JA4Dx26EqYKA2rQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "InstantFamous",
+        "url": "https://open.spotify.com/album/6RSmX75kNdZPc4vJfuN4N2"
+      },
+      "artists": [
+        {
+          "name": "SUGAR JUNKIES",
+          "url": "https://open.spotify.com/artist/4o9FJ8F3q3qd6ZbZCoqES3"
+        }
+      ],
+      "duration_ms": 249272,
+      "name": "Only What You Love",
+      "url": "https://open.spotify.com/track/7joAUdC9IjE7kkpA14WV9Q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Normal",
+        "url": "https://open.spotify.com/album/0GOoyMXJwYAbnCGOHHzirV"
+      },
+      "artists": [
+        {
+          "name": "Bipolar Superstar",
+          "url": "https://open.spotify.com/artist/2luOsV8r2I0lzdTLpgSG0H"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "Stikk Av",
+      "url": "https://open.spotify.com/track/7lhF3iYxfrHxxWrsdLnNxE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Penger",
+        "url": "https://open.spotify.com/album/5BdkgTMyQHCMzc3X7MdFnu"
+      },
+      "artists": [
+        {
+          "name": "Pinned Comment",
+          "url": "https://open.spotify.com/artist/7qGO6E5AG3eiCwdeop9VpV"
+        }
+      ],
+      "duration_ms": 130000,
+      "name": "Penger",
+      "url": "https://open.spotify.com/track/3nW6IQCKryhAYgTnsk0zVr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dopey Smile",
+        "url": "https://open.spotify.com/album/1dIjBzck7PvTaoWEEIGjaT"
+      },
+      "artists": [
+        {
+          "name": "Jon Drake",
+          "url": "https://open.spotify.com/artist/6aWf1uxTEunlrzTTlhCtkg"
+        }
+      ],
+      "duration_ms": 249000,
+      "name": "Dopey Smile",
+      "url": "https://open.spotify.com/track/2LfwnrLRn0SfPCgGQ1pvkp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "South Side",
         "url": "https://open.spotify.com/album/5vrNA47J7GqdR3zkigf86V"
       },
@@ -584,73 +680,9 @@
           "url": "https://open.spotify.com/artist/06xxbJTWhst3jtAIoFleYF"
         }
       ],
-      "duration_ms": 202927,
-      "name": "Rest Your Halo",
-      "url": "https://open.spotify.com/track/4q1fAT2JA4Dx26EqYKA2rQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Penger",
-        "url": "https://open.spotify.com/album/5BdkgTMyQHCMzc3X7MdFnu"
-      },
-      "artists": [
-        {
-          "name": "Pinned Comment",
-          "url": "https://open.spotify.com/artist/7qGO6E5AG3eiCwdeop9VpV"
-        }
-      ],
-      "duration_ms": 130000,
-      "name": "Penger",
-      "url": "https://open.spotify.com/track/3nW6IQCKryhAYgTnsk0zVr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Normal",
-        "url": "https://open.spotify.com/album/0GOoyMXJwYAbnCGOHHzirV"
-      },
-      "artists": [
-        {
-          "name": "Bipolar Superstar",
-          "url": "https://open.spotify.com/artist/2luOsV8r2I0lzdTLpgSG0H"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "Stikk Av",
-      "url": "https://open.spotify.com/track/7lhF3iYxfrHxxWrsdLnNxE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "InstantFamous",
-        "url": "https://open.spotify.com/album/6RSmX75kNdZPc4vJfuN4N2"
-      },
-      "artists": [
-        {
-          "name": "SUGAR JUNKIES",
-          "url": "https://open.spotify.com/artist/4o9FJ8F3q3qd6ZbZCoqES3"
-        }
-      ],
-      "duration_ms": 249272,
-      "name": "Only What You Love",
-      "url": "https://open.spotify.com/track/7joAUdC9IjE7kkpA14WV9Q"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Shadows of Tomorrow",
-        "url": "https://open.spotify.com/album/1wRbeibLg7gh4nJa2e2jUr"
-      },
-      "artists": [
-        {
-          "name": "Dystopian X Vision",
-          "url": "https://open.spotify.com/artist/4dzYz9IgWJQApnTmbBiGQM"
-        }
-      ],
-      "duration_ms": 164829,
-      "name": "Shadows of Tomorrow",
-      "url": "https://open.spotify.com/track/6QIGBSPAtC2Bg6Ccl72TZy"
+      "duration_ms": 239745,
+      "name": "Paint it Black",
+      "url": "https://open.spotify.com/track/1ItCQTLYxbRTw4BTgh8E8G"
     },
     {
       "added_at": null,
@@ -671,18 +703,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Un-hinged ep",
-        "url": "https://open.spotify.com/album/1QiIxXeE36iQD5eKokwuT8"
+        "name": "Normal",
+        "url": "https://open.spotify.com/album/0GOoyMXJwYAbnCGOHHzirV"
       },
       "artists": [
         {
-          "name": "Lockjaw",
-          "url": "https://open.spotify.com/artist/06xxbJTWhst3jtAIoFleYF"
+          "name": "Bipolar Superstar",
+          "url": "https://open.spotify.com/artist/2luOsV8r2I0lzdTLpgSG0H"
         }
       ],
-      "duration_ms": 239745,
-      "name": "Paint it Black",
-      "url": "https://open.spotify.com/track/1ItCQTLYxbRTw4BTgh8E8G"
+      "duration_ms": 236000,
+      "name": "Alles Historie",
+      "url": "https://open.spotify.com/track/6jL04UjI8xLC9FOzL6iQVA"
     },
     {
       "added_at": null,
@@ -703,38 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Normal",
-        "url": "https://open.spotify.com/album/0GOoyMXJwYAbnCGOHHzirV"
-      },
-      "artists": [
-        {
-          "name": "Bipolar Superstar",
-          "url": "https://open.spotify.com/artist/2luOsV8r2I0lzdTLpgSG0H"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "Alles Historie",
-      "url": "https://open.spotify.com/track/6jL04UjI8xLC9FOzL6iQVA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dopey Smile",
-        "url": "https://open.spotify.com/album/1dIjBzck7PvTaoWEEIGjaT"
-      },
-      "artists": [
-        {
-          "name": "Jon Drake",
-          "url": "https://open.spotify.com/artist/6aWf1uxTEunlrzTTlhCtkg"
-        }
-      ],
-      "duration_ms": 249000,
-      "name": "Dopey Smile",
-      "url": "https://open.spotify.com/track/2LfwnrLRn0SfPCgGQ1pvkp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Grenn Eyes",
         "url": "https://open.spotify.com/album/56PC4kDxMMgfNqSRyW1nIF"
       },
@@ -751,18 +751,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Goodnight Goodnight the true norths light",
-        "url": "https://open.spotify.com/album/38BE6iizz4tq30lSicY48T"
+        "name": "Nighttrippin",
+        "url": "https://open.spotify.com/album/21g866EGYrGD8zbuP9cvF8"
       },
       "artists": [
         {
-          "name": "Paul Dutil",
-          "url": "https://open.spotify.com/artist/6U5hMGOPN5iRvcI3RtwejV"
+          "name": "Dance Commander",
+          "url": "https://open.spotify.com/artist/6FV1UNy1YQ5dCZWgtv6LEl"
         }
       ],
-      "duration_ms": 216328,
-      "name": "Goodnight Goodnight the true norths light",
-      "url": "https://open.spotify.com/track/6YAGcoPhhTYDceywYdSAxp"
+      "duration_ms": 205653,
+      "name": "Nighttrippin",
+      "url": "https://open.spotify.com/track/6msEjTjCngQQYCbPu3j1pH"
     },
     {
       "added_at": null,
@@ -783,18 +783,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "OLP30 Live",
-        "url": "https://open.spotify.com/album/0RYon4lQe9cAhIimkE6AUo"
+        "name": "Shadows of Tomorrow",
+        "url": "https://open.spotify.com/album/1wRbeibLg7gh4nJa2e2jUr"
       },
       "artists": [
         {
-          "name": "Our Lady Peace",
-          "url": "https://open.spotify.com/artist/1lqW59DUEKqvcHc8mVWBtH"
+          "name": "Dystopian X Vision",
+          "url": "https://open.spotify.com/artist/4dzYz9IgWJQApnTmbBiGQM"
         }
       ],
-      "duration_ms": 298602,
-      "name": "A Story About A Girl (Live in Saskatoon, SK 2025)",
-      "url": "https://open.spotify.com/track/6AgGKDLLmFzwd20vrCRjfi"
+      "duration_ms": 164829,
+      "name": "Shadows of Tomorrow",
+      "url": "https://open.spotify.com/track/6QIGBSPAtC2Bg6Ccl72TZy"
     },
     {
       "added_at": null,
@@ -819,34 +819,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Goddess",
-        "url": "https://open.spotify.com/album/7jHTbHGrkCzWOSgNlUa9MH"
+        "name": "Goodnight Goodnight the true norths light",
+        "url": "https://open.spotify.com/album/38BE6iizz4tq30lSicY48T"
       },
       "artists": [
         {
-          "name": "Danger Line",
-          "url": "https://open.spotify.com/artist/1aA8T2dE1qY2AQYpmfg2Uj"
+          "name": "Paul Dutil",
+          "url": "https://open.spotify.com/artist/6U5hMGOPN5iRvcI3RtwejV"
         }
       ],
-      "duration_ms": 248451,
-      "name": "Goddess",
-      "url": "https://open.spotify.com/track/7unT6Ykkw38roexHf453ur"
+      "duration_ms": 216328,
+      "name": "Goodnight Goodnight the true norths light",
+      "url": "https://open.spotify.com/track/6YAGcoPhhTYDceywYdSAxp"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Nighttrippin",
-        "url": "https://open.spotify.com/album/21g866EGYrGD8zbuP9cvF8"
+        "name": "OLP30 Live",
+        "url": "https://open.spotify.com/album/0RYon4lQe9cAhIimkE6AUo"
       },
       "artists": [
         {
-          "name": "Dance Commander",
-          "url": "https://open.spotify.com/artist/6FV1UNy1YQ5dCZWgtv6LEl"
+          "name": "Our Lady Peace",
+          "url": "https://open.spotify.com/artist/1lqW59DUEKqvcHc8mVWBtH"
         }
       ],
-      "duration_ms": 205653,
-      "name": "Nighttrippin",
-      "url": "https://open.spotify.com/track/6msEjTjCngQQYCbPu3j1pH"
+      "duration_ms": 298602,
+      "name": "A Story About A Girl (Live in Saskatoon, SK 2025)",
+      "url": "https://open.spotify.com/track/6AgGKDLLmFzwd20vrCRjfi"
     }
   ],
   "unique_name": "Bipolar Superstar Radio",

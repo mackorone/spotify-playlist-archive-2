@@ -2,7 +2,7 @@
 
 ### [Grimes Radio](https://open.spotify.com/playlist/37i9dQZF1E4vLyj0srrBvo)
 
-> With Pastel Ghost, Phantogram, Mareux and more
+> With Phantogram, Mareux, Labyrinth Ear and more
 
 1,850 songs - 4 day 17 hr 56 min
 
@@ -1536,7 +1536,7 @@
 | [Stay Ugly](https://open.spotify.com/track/1s6WVdrN6kz1ly1blsO4d3) | [Crim3s](https://open.spotify.com/artist/1ARDx2oCR7sJEjbnHsbbRU) | [Stay Ugly EP](https://open.spotify.com/album/4SdrdBBRHRo1CL6u3vJrR7) | 2:29 | 2022-03-10 |  |
 | [Stay Ugly](https://open.spotify.com/track/0ibnvYo42w3JVB7ltDK7Wp) | [Crim3s](https://open.spotify.com/artist/1ARDx2oCR7sJEjbnHsbbRU) | [Stay Ugly](https://open.spotify.com/album/3gp8KiG18aTJxDx7zMFFmz) | 2:29 | 2022-10-16 | 2022-10-17 |
 | [STFU!](https://open.spotify.com/track/0HKr9aqzHBsVNnsUCdH4bw) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [SAWAYAMA](https://open.spotify.com/album/3stadz88XVpHcXnVYMHc4J) | 3:23 | 2020-10-26 | 2022-10-14 |
-| [Still Goin](https://open.spotify.com/track/61n8IsQQ2HaE0ech0l21oa) | [Crim3s](https://open.spotify.com/artist/1ARDx2oCR7sJEjbnHsbbRU) | [Still Goin](https://open.spotify.com/album/4aElFiEC9RbikZzkjAS49A) | 3:21 | 2022-03-09 | 2026-05-25 |
+| [Still Goin](https://open.spotify.com/track/61n8IsQQ2HaE0ech0l21oa) | [Crim3s](https://open.spotify.com/artist/1ARDx2oCR7sJEjbnHsbbRU) | [Still Goin](https://open.spotify.com/album/4aElFiEC9RbikZzkjAS49A) | 3:21 | 2022-03-09 |  |
 | [Still Miss U](https://open.spotify.com/track/3C3rtf7n8TNyUarr5fnRMW) | [DJ\_Dave](https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme), [Kitty](https://open.spotify.com/artist/6YMeCrTjUKwsXh9yhQJjEV) | [Still Miss U](https://open.spotify.com/album/6Twb7nEWGMHnKHB4RKIHNu) | 3:47 | 2022-05-13 | 2022-05-14 |
 | [Still With Me](https://open.spotify.com/track/7DIDpj2nyp4KaXFaPWdTep) | [Riko Redz](https://open.spotify.com/artist/5gPK21cfOGx75QYrsXknqk), [Rose Dees](https://open.spotify.com/artist/6vkP58QalhotGGyujeuIPl), [Jakebcmusic](https://open.spotify.com/artist/0xBsV8M38YS2zsUhlatRhW) | [Still With Me](https://open.spotify.com/album/3pLlSHOduYqtl63opF9Lwd) | 3:32 | 2022-07-09 | 2022-07-15 |
 | [STILLBIRTH](https://open.spotify.com/track/3RiJ5DlwJNnGuV2zDqUw90) | [Alice Glass](https://open.spotify.com/artist/4ukk0IyB7vL97QirpOcNr3) | [STILLBIRTH](https://open.spotify.com/album/3TLw0fCqnhtjw5rIZ9MyQi) | 2:47 | 2022-03-13 | 2023-06-04 |
@@ -1722,7 +1722,7 @@
 | [Vanished](https://open.spotify.com/track/4bQ7mjty0UVlKRalhizpGT) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [Crystal Castles](https://open.spotify.com/album/6rTfUUv8Kefr6Uo3AaecXi) | 4:02 | 2024-03-04 |  |
 | [Vapid Feels Ain't Vapid](https://open.spotify.com/track/0IfvV86z6LOlpmJym6oMVY) | [Clarence Clarity](https://open.spotify.com/artist/25u5QFxy3HVQsbcbxHOP62) | [THINK: PEACE](https://open.spotify.com/album/3sqQz4c4jpUBXoBgirwBrx) | 4:01 | 2022-05-14 | 2022-06-08 |
 | [VEGAS](https://open.spotify.com/track/2TEb3mSJsiPpYYzJOZjySO) | [ABRA](https://open.spotify.com/artist/3ZJxEmjYZd5VOqZ8o3aXiL) | [PRINCESS](https://open.spotify.com/album/7n7QlAD8PJQswHuWW8Xdm8) | 5:21 | 2022-03-12 | 2022-10-10 |
-| [veil](https://open.spotify.com/track/0DEJ2X4QvFGboCAdO5MyXz) | [akiaura](https://open.spotify.com/artist/0zilOJ2Ze0FLrQ76cZQaoc), [Olya Holiday](https://open.spotify.com/artist/7yH0tCtttU4pORkXn6rWZS) | [veil](https://open.spotify.com/album/5qW1FvS2dys9B2K8c9cscx) | 1:47 | 2024-04-13 |  |
+| [veil](https://open.spotify.com/track/0DEJ2X4QvFGboCAdO5MyXz) | [akiaura](https://open.spotify.com/artist/0zilOJ2Ze0FLrQ76cZQaoc), [Olya Holiday](https://open.spotify.com/artist/7yH0tCtttU4pORkXn6rWZS) | [veil](https://open.spotify.com/album/5qW1FvS2dys9B2K8c9cscx) | 1:47 | 2024-04-13 | 2026-05-27 |
 | [Venice](https://open.spotify.com/track/0UsgQElSurvhKAuosIcIT1) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [A Little Rhythm and a Wicked Feeling](https://open.spotify.com/album/5OsXAPcYYYNTtkFuuB8TDc) | 3:16 | 2022-04-13 | 2022-08-21 |
 | [Venus as a Boy](https://open.spotify.com/track/5G9LvzXcBoIBXOd2jzdJTs) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Debut](https://open.spotify.com/album/3icT9XGrBfhlV8BKK4WEGX) | 4:42 | 2025-11-08 | 2026-04-05 |
 | [Venus Fly](https://open.spotify.com/track/53qe0ASgMg8L6VaM7fljqF) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab), [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [Art Angels](https://open.spotify.com/album/1t9k2P4C88alWEikeJb4mI) | 3:45 | 2024-04-21 | 2025-05-30 |

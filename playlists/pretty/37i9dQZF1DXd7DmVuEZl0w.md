@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd7DmVuEZl0w.md) - [plain]
 
 > Get into the Eid spirit with this uplifting Eid songs collection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,794 likes - 35 songs - 1 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,828 likes - 35 songs - 1 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd7DmVuEZl0w.md) - [plain]
 | 30 | [Allo Min](https://open.spotify.com/track/6psaZUqCkuzZODIUEpAYYS) | [Oualid](https://open.spotify.com/artist/60tsxRkHtGIlk3IW8U8O2y), [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [Allo Min](https://open.spotify.com/album/5nJpHRMdgd7NnNJO7pSpDu) | 2:25 |
 | 31 | [الفرحه فرحتنا \- من مسلسل ٨٠ باكو](https://open.spotify.com/track/1vwTWLElYkCftcMNnTmfnE) | [Eslam Kabonga](https://open.spotify.com/artist/25P1GMgHepq6rkzRwg2DcB) | [الفرحه فرحتنا \(من مسلسل ٨٠ باكو\)](https://open.spotify.com/album/28gTpRFAdkNIVmIVO9AWGb) | 3:53 |
 | 32 | [Enty Genan](https://open.spotify.com/track/7i5Ud8atK2QZdxgdVLtExX) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [Enty Genan](https://open.spotify.com/album/0V4l3eqaozw81VyPXhav01) | 3:05 |
-| 33 | [Namet Nenna](https://open.spotify.com/track/7pu5c7XiIjyxnbohUJQ0b0) | [Ruby](https://open.spotify.com/artist/2lMy93l58wzjh8DepKL814) | [Namet Nenna](https://open.spotify.com/album/1pWX63oQEUEctHaDU4som3) | 3:21 |
-| 34 | [Ya Habibi Taala](https://open.spotify.com/track/0moI0piPquOGThL2EV8uaS) | [Aya Samra](https://open.spotify.com/artist/2RK2dRUdTV7uu2RQK690cf) | [Ya Habibi Taala](https://open.spotify.com/album/4bGXQP0AaW8Ikfre5vnfv9) | 1:48 |
+| 33 | [Ya Habibi Taala](https://open.spotify.com/track/0moI0piPquOGThL2EV8uaS) | [Aya Samra](https://open.spotify.com/artist/2RK2dRUdTV7uu2RQK690cf) | [Ya Habibi Taala](https://open.spotify.com/album/4bGXQP0AaW8Ikfre5vnfv9) | 1:48 |
+| 34 | [Namet Nenna](https://open.spotify.com/track/7pu5c7XiIjyxnbohUJQ0b0) | [Ruby](https://open.spotify.com/artist/2lMy93l58wzjh8DepKL814) | [Namet Nenna](https://open.spotify.com/album/1pWX63oQEUEctHaDU4som3) | 3:21 |
 | 35 | [Gowak 3alam \- ⁠جواك عالم](https://open.spotify.com/track/77Bl3uYpu80v7kcyk8AItD) | [National Bank of Egypt](https://open.spotify.com/artist/70BqpVrIq2RVr6HVPQXe4m), [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX), [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [Gowak 3alam \- جواك عالم](https://open.spotify.com/album/6fiJH4OWo26RKvS03x9s9o) | 3:09 |
 
 Snapshot ID: `AAAAAPCTgq+g737FhXmgezhmfYBFwFNb`

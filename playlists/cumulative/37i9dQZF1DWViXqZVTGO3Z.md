@@ -2,7 +2,7 @@
 
 ### [Christmas Spirit](https://open.spotify.com/playlist/37i9dQZF1DWViXqZVTGO3Z)
 
-> Get in the Christmas spirit while listening to some of your favorite Christian artists sing and celebrate the birth of Jesus\. Cover: Katy Nichole
+> Get in the Christmas spirit while listening to some of your favorite Christian artists sing and celebrate the birth of Jesus\. Cover: CeCe Winans
 
 518 songs - 1 day 9 hr 32 min
 
@@ -165,7 +165,7 @@
 | [Gratitude / Worthy of it All / You’re Worthy of My Praise \(feat\. Brandon Lake, Natalie Grant & Mav City Gospel Choir\)](https://open.spotify.com/track/0KWGmjdgmpuovXuwWDrDt4) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh), [Mav City Gospel Choir](https://open.spotify.com/artist/4h77nHXzQBpUySMOwo5UgD) | [A Very Maverick Christmas](https://open.spotify.com/album/6Z3lZl48YoYESThd0iKkyQ) | 13:12 | 2021-12-24 | 2024-08-01 |
 | [Great Christmas](https://open.spotify.com/track/6pt8hwewlxOm7UZfEsx9t4) | [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [Great Christmas](https://open.spotify.com/album/1BBSnDN7zRzoBf4bQncMGw) | 2:47 | 2022-11-26 | 2025-05-08 |
 | [Grown Up Christmas List](https://open.spotify.com/track/56Yve1cQYZywRfpOTZO6e0) | [Trinity Anderson](https://open.spotify.com/artist/6dCn9t1NVjEKPvsBzxrf0h) | [Grown Up Christmas List](https://open.spotify.com/album/541QpGKQxmRPUfirkoUsd4) | 5:06 | 2021-12-11 | 2022-07-26 |
-| [Hallelujah](https://open.spotify.com/track/5tlL8n5XPi4ZfpA43RGMgD) | [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe) | [Hallelujah](https://open.spotify.com/album/6qrtrMU2yTrCylSHwBjmdV) | 3:13 | 2025-12-12 | 2026-05-26 |
+| [Hallelujah](https://open.spotify.com/track/5tlL8n5XPi4ZfpA43RGMgD) | [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe) | [Hallelujah](https://open.spotify.com/album/6qrtrMU2yTrCylSHwBjmdV) | 3:13 | 2025-12-12 |  |
 | [Hallelujah Our King](https://open.spotify.com/track/0Zy6MFHQQv5saKuM0vxAli) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA) | [Joy To Our World](https://open.spotify.com/album/6rwwb34IZFoebbkLoMNwn4) | 4:07 | 2022-11-26 |  |
 | [Hallelujah, Christ Is Born](https://open.spotify.com/track/5E7epWuX7iVC2kNfo1NMWc) | [Caroline Cobb](https://open.spotify.com/artist/1qjWvtEJlR1dAEAL4A3IOM) | [Hallelujah, Christ Is Born](https://open.spotify.com/album/2AOCGDHqtGYNUbg7y12ZI6) | 4:28 | 2021-12-11 | 2025-11-09 |
 | [Hallelujah, Jesus Christ Was Born](https://open.spotify.com/track/4MMnoxIZB5CgStUUWfErvt) | [Mat and Savanna Shaw](https://open.spotify.com/artist/4F8dV25EPLvvKVABCaSr8b) | [A Christmas We'll Remember](https://open.spotify.com/album/31aFyRNbhfzszhXSVBcd45) | 3:22 | 2023-11-27 | 2023-12-03 |
@@ -449,7 +449,7 @@
 | [The First Christmas](https://open.spotify.com/track/4hbAE2LJzCupitJ898V6k4) | [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [The First Christmas](https://open.spotify.com/album/69ob5WRhc4ftmaSr9A3I90) | 3:53 | 2021-12-11 |  |
 | [The First Noel](https://open.spotify.com/track/57gAliJz7TiUxAmdNA5juk) | [Boyce Avenue](https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv) | [The First Noel](https://open.spotify.com/album/3cszSYyCFlDPrCdcuN2nSe) | 3:23 | 2022-12-11 |  |
 | [The First Noel](https://open.spotify.com/track/0zZS5f3qS0iql0GNmapr2C) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [The First Noel](https://open.spotify.com/album/2xws45Dyh4qmerwUIUzXOK) | 2:56 | 2025-11-16 |  |
-| [The First Noel](https://open.spotify.com/track/3OB4YP9W1TVGdShdRKKaba) | [Christian Paul](https://open.spotify.com/artist/1Bfi1Jw2HGVbOEjOdtApOe) | [The First Noel](https://open.spotify.com/album/5Hgm1Azgur0Q98EWKry8VB) | 2:47 | 2024-12-13 |  |
+| [The First Noel](https://open.spotify.com/track/3OB4YP9W1TVGdShdRKKaba) | [Christian Paul](https://open.spotify.com/artist/1Bfi1Jw2HGVbOEjOdtApOe) | [The First Noel](https://open.spotify.com/album/5Hgm1Azgur0Q98EWKry8VB) | 2:47 | 2024-12-13 | 2026-05-27 |
 | [The First Noel](https://open.spotify.com/track/0GBlcKQjHBVMsQGDnwE2Cs) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Majesty Rose](https://open.spotify.com/artist/02EQJ0mRKStgr0uN1qBfYz) | [Maverick City Christmas](https://open.spotify.com/album/3zLMIw0wBGpIaGNox8oiKH) | 3:47 | 2021-12-11 | 2022-07-28 |
 | [The First Noel](https://open.spotify.com/track/2MQYkvXbOoqnym1nRSLBRa) | [Rock City Worship](https://open.spotify.com/artist/3yAv8udgy9z6yF6rREcgfB) | [The First Noel](https://open.spotify.com/album/0a4mMQCuG7be9wNRgbtuZl) | 3:30 | 2021-12-24 | 2022-07-29 |
 | [The First Noel](https://open.spotify.com/track/4PrJBQfMftpMcuzchztO8r) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [The First Noel](https://open.spotify.com/album/4xfqjNEA1tJpZsTE4SJ5eh) | 4:48 | 2022-11-26 |  |

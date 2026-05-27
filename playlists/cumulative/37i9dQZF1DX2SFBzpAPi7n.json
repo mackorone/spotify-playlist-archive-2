@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: Picturemegreen) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: can't be blue) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Cool K'IDs Rock",
   "tracks": [
     {
@@ -1676,7 +1676,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-08",
+      "date_removed": null,
       "duration_ms": 167013,
       "name": "Being a Good Girl Hurts",
       "url": "https://open.spotify.com/track/1NfnlTT4fpkaxmhzxWJqCj"
@@ -2708,6 +2708,28 @@
       "duration_ms": 194000,
       "name": "CAN'T KEEP SMILING!",
       "url": "https://open.spotify.com/track/6ZPIZDuCF5qcVZIcKgifRN"
+    },
+    {
+      "album": {
+        "name": "can't love (feat. HAN (Stray Kids))",
+        "url": "https://open.spotify.com/album/0fJoozKZUNh31IdKsZ8lnm"
+      },
+      "artists": [
+        {
+          "name": "can\u2019t be blue ",
+          "url": "https://open.spotify.com/artist/32mluwkanSuuM3hm3d3Fh5"
+        },
+        {
+          "name": "HAN",
+          "url": "https://open.spotify.com/artist/46YvTuKiPBUu5KP9818J2F"
+        }
+      ],
+      "date_added": "2026-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "can't love (feat. HAN (Stray Kids))",
+      "url": "https://open.spotify.com/track/28his6ZYxU15m3bCUTUtFA"
     },
     {
       "album": {
@@ -4998,7 +5020,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-27",
       "duration_ms": 212304,
       "name": "eternity",
       "url": "https://open.spotify.com/track/5mOWH0Pwf9zmcAEpUt0QVN"
@@ -7320,7 +7342,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-27",
       "duration_ms": 283024,
       "name": "Heart of Gold",
       "url": "https://open.spotify.com/track/3ei1nPTxRlGUWYfNMTCds9"
@@ -7374,7 +7396,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-27",
       "duration_ms": 233693,
       "name": "Hello Stranger",
       "url": "https://open.spotify.com/track/4mCM8hfSM90j7dDBuzFYvc"
@@ -12912,7 +12934,7 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-27",
       "duration_ms": 164263,
       "name": "Odyssey",
       "url": "https://open.spotify.com/track/43IC6Wrjbq84VWE0pHjmu9"
@@ -15180,7 +15202,7 @@
       ],
       "date_added": "2025-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-07",
+      "date_removed": null,
       "duration_ms": 185000,
       "name": "Ruin My Life",
       "url": "https://open.spotify.com/track/1VXv0ltyTJWcRltuEf5Qin"
@@ -19956,7 +19978,7 @@
       ],
       "date_added": "2025-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-19",
+      "date_removed": null,
       "duration_ms": 201533,
       "name": "when the rain stops",
       "url": "https://open.spotify.com/track/3GmdapszNp6FVKA07EtUD2"

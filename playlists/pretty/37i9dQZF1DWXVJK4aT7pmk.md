@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXVJK4aT7pmk.md) - [plain]
 
 > Catch the hottest Punjabi tracks\. Cover: Karan Aujla
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,537,358 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,537,729 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXVJK4aT7pmk.md) - [plain]
 | 49 | [Without Me](https://open.spotify.com/track/7geJy2YZjqHe1oOjaSyRAE) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB) | [Without Me](https://open.spotify.com/album/3ZIaRzsiL9ue12E2duQgiM) | 2:36 |
 | 50 | [Dhurandhar The Revenge \- Aari Aari](https://open.spotify.com/track/157BtwkY54FQ3Xl8DsTso1) | [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9), [Bombay Rockers](https://open.spotify.com/artist/1bLQBuSop3ekE5Qustj5nP), [Irshad Kamil](https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP), [Khan Saab](https://open.spotify.com/artist/5Uo28tAylVBPPW2Cs8LFwN), [Reble](https://open.spotify.com/artist/3MsxNLVtDVGxjEaxgKAoi0), [Token](https://open.spotify.com/artist/4cUfFbVZGSsJWdbfmkdxYq), [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c), [Sudhir Yaduvanshi](https://open.spotify.com/artist/586UieDtNlK2F8hEMayYbb) | [Dhurandhar The Revenge](https://open.spotify.com/album/4jlyYLklV3kTBA6trX3bpj) | 3:30 |
 
-Snapshot ID: `AAAAAJb01OozvOe5GXcytjOs/RDrXNYT`
+Snapshot ID: `AAAAALfKrXVJJHCS58hubrRKFU96fDi4`

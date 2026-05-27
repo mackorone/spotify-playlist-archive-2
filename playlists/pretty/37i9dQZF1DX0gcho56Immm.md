@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gcho56Immm.md) - [plain]
 
 > explore the alt\-sounds of Copenhagen and beyond 🌀 Cover: Helena Gao
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,768 likes - 155 songs - 8 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,845 likes - 155 songs - 8 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

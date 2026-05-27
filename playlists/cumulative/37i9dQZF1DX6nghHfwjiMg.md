@@ -4,7 +4,7 @@
 
 > Descubrí nuevos artistas, nueva música todas las semanas 📸 Little Boggie
 
-292 songs - 15 hr 4 min
+296 songs - 15 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Bambú](https://open.spotify.com/track/0qdcKORnomK1GVPwdTFfZp) | [Panther](https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ) | [Bambú](https://open.spotify.com/album/7gFnvbdX2Xhag5vd072EAZ) | 2:50 | 2021-11-11 | 2023-06-02 |
 | [Basurita en el ojo](https://open.spotify.com/track/6QZfX9AKTf6omMOEFewhTg) | [Malparidas](https://open.spotify.com/artist/1q5t9mGHyr95S1CRO8y499) | [Basurita en el ojo](https://open.spotify.com/album/5Sl1QdI0BWFQ1kOXcwk7PK) | 3:20 | 2024-05-07 | 2024-06-14 |
 | [bebi](https://open.spotify.com/track/1XRkKzkhI6Fqba1wU3I9zy) | [Tiger Mood](https://open.spotify.com/artist/3HFKC76u3isQMK8Ahy4C5r) | [bebi](https://open.spotify.com/album/1wBuaE20muJdxwOLb7sMDT) | 2:49 | 2025-05-09 | 2026-04-15 |
+| [Bendiciones](https://open.spotify.com/track/6PZetjmHVWDR2eMlJZd6fE) | [RYAN](https://open.spotify.com/artist/3g7K56xAln97Nmy0G1hx8E) | [Bendiciones](https://open.spotify.com/album/3jNBH9AvasMDmqi0wnPQbf) | 2:44 | 2026-05-26 |  |
 | [beso francés](https://open.spotify.com/track/3i2DjDgANCP3DjG0WxGNG5) | [Marki](https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J) | [beso francés](https://open.spotify.com/album/6HQv2j8lOELD9K7s240BwP) | 2:38 | 2023-06-01 | 2024-05-08 |
 | [Big Cut](https://open.spotify.com/track/7pin8wDLL57efEYLvOpAAS) | [Galee Galee](https://open.spotify.com/artist/0x5lhIYknBUEozHuXjkwUs), [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [Big Cut](https://open.spotify.com/album/2bHX5Y6PPg1cdgA0JTVZ5j) | 3:14 | 2021-11-11 | 2022-06-27 |
 | [BIGBANG \(crunchtime\)](https://open.spotify.com/track/4jhwMpcLH8fWYSNt9jEphK) | [Stiffy](https://open.spotify.com/artist/7g7N6cRr5izWiIWvffgwWO) | [BIGBANG \(crunchtime\)](https://open.spotify.com/album/4FoizIPXlEIfixovjmhiVn) | 3:19 | 2025-05-09 | 2026-04-15 |
@@ -92,6 +93,7 @@
 | [Emocional \(feat\. Marlku\)](https://open.spotify.com/track/21wToWcFmf43bfuLHqDRls) | [Asan](https://open.spotify.com/artist/6Nl4VXcX86fBMO4YE6oYfN), [Marlku](https://open.spotify.com/artist/4o3YJfgarCUSVyPH5HKRA5) | [Emocional](https://open.spotify.com/album/6TrcWCUDZuWU3Sf6YqHZAV) | 2:52 | 2021-11-11 | 2022-06-28 |
 | [En Algun Lugar + Ilusion](https://open.spotify.com/track/68wjnwZh4FcubkaeuaySGk) | [NAFTA](https://open.spotify.com/artist/5pg9cOudU7ezj3FnUABgu6), [Abril Olivera](https://open.spotify.com/artist/0syNXPcVZZpTvXcfoRaXLg), [An Espil](https://open.spotify.com/artist/0GEBrC42d3MZT2LpDPh2qt) | [En Algun Lugar + Ilusion](https://open.spotify.com/album/3PfDRNGrL8QlNBX1o0u6mL) | 6:19 | 2025-05-09 | 2026-04-15 |
 | [En Todas Partes](https://open.spotify.com/track/1fBiySiu1fTmiFyPc4R8DD) | [Vlntna B](https://open.spotify.com/artist/5leFwWpTacAWLAom8B2JbS) | [En Todas Partes](https://open.spotify.com/album/30oK2FaiGSLDuRO2T9foTR) | 2:42 | 2021-11-11 | 2023-06-02 |
+| [Entre Lazos](https://open.spotify.com/track/1YQ1QK6S5QpfFdbzV74KSj) | [Mariano Brocchini](https://open.spotify.com/artist/0F2RJxdzNxdnAIg43Sh7H2), [MARTIN JOTA YUBRO](https://open.spotify.com/artist/22blB9WFLiajsDgReo97BU) | [Entre Lazos](https://open.spotify.com/album/3tXjgHkdAM7uVRBHZRYgtY) | 3:05 | 2026-05-26 |  |
 | [Entrégate](https://open.spotify.com/track/5ZDQSDUVyBDesqJxWrWsnv) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Entrégate](https://open.spotify.com/album/72cfqHGrPSyunjF29CPcF4) | 3:11 | 2023-06-01 | 2024-05-08 |
 | [Eresi](https://open.spotify.com/track/0gFbaCf4YTPSHNzQK243Uf) | [elmalamía](https://open.spotify.com/artist/1SoXdL4dbR3tJudByWGLkM) | [Pavlo, cada vez menos...](https://open.spotify.com/album/1nuNOlU2mOuVKldwj0oIuZ) | 3:15 | 2026-04-14 |  |
 | [escuchándote](https://open.spotify.com/track/1M4Q9Jz8E6KI6cxGwLRYAs) | [Ramma](https://open.spotify.com/artist/7b0pdDyPV9f9hyDXAhk4Sg), [Tadu Vázquez](https://open.spotify.com/artist/71scL1K5Nu1Z7FgBkg3Gjk) | [escuchándote](https://open.spotify.com/album/7862iXXB8YiF2Ggi0tIoF7) | 2:16 | 2026-05-01 |  |
@@ -157,6 +159,7 @@
 | [Lluvioso](https://open.spotify.com/track/2Ls7UJ3wbTOQrDkyvZALwo) | [Julia Cry](https://open.spotify.com/artist/48Tw6zoAK5CrXY7cTHv8D0) | [Lluvioso](https://open.spotify.com/album/5tzcdizyRkn3k5LiuB4NA0) | 2:52 | 2026-05-01 |  |
 | [Lo mejor](https://open.spotify.com/track/7FcL1jwNdxTTqpGOzfxYGC) | [Catalina Bayá](https://open.spotify.com/artist/1YKe4dEtIUe6MdYV0L0vcf) | [Lo mejor](https://open.spotify.com/album/60OPdho3AHL5dXBMLlsTzr) | 3:25 | 2026-04-24 |  |
 | [Lo Que No Te Conté](https://open.spotify.com/track/3Z452bjBcSY5lVXxlCCwSf) | [KMC](https://open.spotify.com/artist/6XRepE59HrVuIQgfWXdBJ4) | [Lo Que No Te Conté](https://open.spotify.com/album/6g5cG2wmNh2HPAW4oJXgS7) | 3:42 | 2021-11-11 | 2023-06-02 |
+| [LOS COLONOS](https://open.spotify.com/track/7MktbGIccRK3UxTfzcLN2l) | [trouve feraud](https://open.spotify.com/artist/5wYoljDrAYqKBnbncgw27o), [Majo Chicar](https://open.spotify.com/artist/7yZIq6IICjh94zRexdl2fR) | [LOS COLONOS](https://open.spotify.com/album/4jr9MY9VU6JFVjyhCOO8KT) | 3:17 | 2026-05-26 |  |
 | [Los Dos](https://open.spotify.com/track/6kn5oUW8uoVIcGjpjbnBlw) | [Panther](https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ) | [Los Dos](https://open.spotify.com/album/5J0ozKBrpKY05AoClZx56R) | 2:52 | 2023-06-01 | 2024-05-08 |
 | [Luz Sin Gravedad](https://open.spotify.com/track/2De6g7PYBLivxyQaWA6Efa) | [Jackita](https://open.spotify.com/artist/4QPzOa9mWjgUVvy9ObVGo8) | [Luz Sin Gravedad](https://open.spotify.com/album/1O06nulAGaUblPmn1z4GsJ) | 3:20 | 2024-05-07 | 2025-05-10 |
 | [Magia](https://open.spotify.com/track/1VRh6jQfaiiRkXfdxpjxd2) | [un muerto mas](https://open.spotify.com/artist/31BzLsWVOEfGQTDIe6atC0), [Marki](https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J) | [Magia](https://open.spotify.com/album/7v8XaZJHFw83xKWjcrZdJR) | 2:56 | 2021-11-11 | 2022-09-02 |
@@ -286,6 +289,7 @@
 | [Tuyo](https://open.spotify.com/track/4NiqCP7CvELNJDd1sue38b) | [Romeo El Santo](https://open.spotify.com/artist/7b2GRLYNoKPanoqh7lzsbT) | [Tuyo](https://open.spotify.com/album/0I0JpmGYWTNFVOLcRlY8wR) | 2:52 | 2021-11-11 | 2023-06-02 |
 | [un tiro](https://open.spotify.com/track/2XwuYSEl8sYgTWPmsBtAJP) | [ODD MAMI](https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6), [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2) | [donde van los perros](https://open.spotify.com/album/0W0gzoXiuxbChL2G9EUi2O) | 2:34 | 2025-05-09 | 2026-04-15 |
 | [Un Verano](https://open.spotify.com/track/4KmifMKGyC8kQ326lEgVUP) | [Pupa](https://open.spotify.com/artist/4DeufbCPBkq8eqpPRAiuqh) | [Hola Desde Lejos](https://open.spotify.com/album/5XJBbtZ52efSi8ahmDh3y2) | 3:43 | 2026-04-24 |  |
+| [UTV](https://open.spotify.com/track/6xQpCxVaYwV6HWoeBGPuNi) | [Piku](https://open.spotify.com/artist/1f8zx2kFDxy1K8yr0aLKQz), [Koro Beats](https://open.spotify.com/artist/76m7RJJu4NnBjvHHBjCc3X) | [UTV](https://open.spotify.com/album/5Pcy9twleitUle6rMdBFWq) | 2:42 | 2026-05-26 |  |
 | [VENENO](https://open.spotify.com/track/77BiLyjwM96hI2eogbI6dy) | [LOUTA](https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3) | [VENENO](https://open.spotify.com/album/7B0yYlF6q1fTFqm0jqpD3Z) | 3:31 | 2023-06-01 | 2024-05-08 |
 | [Veni Mirá](https://open.spotify.com/track/4fDUAfzsQKszt09InZKRE4) | [NAFTA](https://open.spotify.com/artist/5pg9cOudU7ezj3FnUABgu6) | [Nafta](https://open.spotify.com/album/4yl3UNCVcTf287qlknLxVl) | 5:04 | 2021-11-11 | 2023-06-02 |
 | [VIDRIOS NEGROS](https://open.spotify.com/track/0uPzLQ8z365LRhde8J8wDz) | [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR), [Al Records](https://open.spotify.com/artist/6gzfKa8KmgcAfhbeeKo28T) | [VIDRIOS NEGROS](https://open.spotify.com/album/5xGJCHjxAr2nSajMURpUwC) | 2:17 | 2021-11-11 | 2023-06-02 |

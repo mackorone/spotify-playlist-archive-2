@@ -1,12 +1,12 @@
 {
   "description": "An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.",
-  "num_followers": 840979,
+  "num_followers": 840999,
   "original_name": "Feel Good Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFJ5P09UTCKEkD0k2tNZor6IPaWi",
+  "snapshot_id": "AAAAAPooXA/zUZtQX7LMIsDkX0jTNN1m",
   "tracks": [
     {
       "added_at": "2026-05-18 19:19:44",
@@ -455,22 +455,6 @@
     {
       "added_at": "2026-05-18 19:19:44",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/7bBGtsRDuDXdr0glqgdIlx"
-      },
-      "artists": [
-        {
-          "name": "Rhye",
-          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
-        }
-      ],
-      "duration_ms": 231266,
-      "name": "Black Rain",
-      "url": "https://open.spotify.com/track/5WiBOUfizLpHt0NY2V7XCn"
-    },
-    {
-      "added_at": "2026-05-18 19:19:44",
-      "album": {
         "name": "Soundtrack For A Movie That Has Not Been Written Yet",
         "url": "https://open.spotify.com/album/64Mjew6Y6wqkhbz7qYLIxS"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 173640,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/4vlkvsD7xAB2MqOZYgSBlb"
+    },
+    {
+      "added_at": "2026-05-18 19:19:44",
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/7bBGtsRDuDXdr0glqgdIlx"
+      },
+      "artists": [
+        {
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+        }
+      ],
+      "duration_ms": 231266,
+      "name": "Black Rain",
+      "url": "https://open.spotify.com/track/5WiBOUfizLpHt0NY2V7XCn"
     },
     {
       "added_at": "2026-05-18 19:19:44",
@@ -591,22 +591,6 @@
     {
       "added_at": "2026-05-18 19:19:44",
       "album": {
-        "name": "Sugar at the Gate",
-        "url": "https://open.spotify.com/album/1alrC2sUf5sRGSvCV8I6Qh"
-      },
-      "artists": [
-        {
-          "name": "TOPS",
-          "url": "https://open.spotify.com/artist/2SdK1QDmZIP2hk94rSaLl9"
-        }
-      ],
-      "duration_ms": 174535,
-      "name": "Petals",
-      "url": "https://open.spotify.com/track/3Z6HMD0zTxTUqrmh9ZoIib"
-    },
-    {
-      "added_at": "2026-05-18 19:19:44",
-      "album": {
         "name": "HEART OF THE MATTER",
         "url": "https://open.spotify.com/album/0OOVrSL0zg5FMqus5AvW1b"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 226779,
       "name": "HEART OF THE MATTER",
       "url": "https://open.spotify.com/track/4HFhHdiyYQyPcvMmHOHjcz"
+    },
+    {
+      "added_at": "2026-05-18 19:19:44",
+      "album": {
+        "name": "Sugar at the Gate",
+        "url": "https://open.spotify.com/album/1alrC2sUf5sRGSvCV8I6Qh"
+      },
+      "artists": [
+        {
+          "name": "TOPS",
+          "url": "https://open.spotify.com/artist/2SdK1QDmZIP2hk94rSaLl9"
+        }
+      ],
+      "duration_ms": 174535,
+      "name": "Petals",
+      "url": "https://open.spotify.com/track/3Z6HMD0zTxTUqrmh9ZoIib"
     },
     {
       "added_at": "2026-05-18 19:19:44",
@@ -811,6 +811,22 @@
     {
       "added_at": "2026-05-18 19:19:44",
       "album": {
+        "name": "Music",
+        "url": "https://open.spotify.com/album/3Yt6hyKUIgAeg6BIr7aPmK"
+      },
+      "artists": [
+        {
+          "name": "Benny Sings",
+          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
+        }
+      ],
+      "duration_ms": 171756,
+      "name": "Sunny Afternoon",
+      "url": "https://open.spotify.com/track/3Acg5sKJcCjUQBHA8KjX5F"
+    },
+    {
+      "added_at": "2026-05-18 19:19:44",
+      "album": {
         "name": "Uneasy - Metronomy x spill tab",
         "url": "https://open.spotify.com/album/3XRHpM3LFOWY9nnWwKCKyv"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 203262,
       "name": "Uneasy - Metronomy x spill tab",
       "url": "https://open.spotify.com/track/6HOXiIuMfKzEpWsdZ02wZL"
-    },
-    {
-      "added_at": "2026-05-18 19:19:44",
-      "album": {
-        "name": "Music",
-        "url": "https://open.spotify.com/album/3Yt6hyKUIgAeg6BIr7aPmK"
-      },
-      "artists": [
-        {
-          "name": "Benny Sings",
-          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
-        }
-      ],
-      "duration_ms": 171756,
-      "name": "Sunny Afternoon",
-      "url": "https://open.spotify.com/track/3Acg5sKJcCjUQBHA8KjX5F"
     },
     {
       "added_at": "2026-05-18 19:19:44",
@@ -915,22 +915,6 @@
     {
       "added_at": "2026-05-18 19:19:44",
       "album": {
-        "name": "Mr. Right Now",
-        "url": "https://open.spotify.com/album/6PGH7mRzk4693ahAtPuj5y"
-      },
-      "artists": [
-        {
-          "name": "tig3r lewis",
-          "url": "https://open.spotify.com/artist/6NYQeyZWzbSRcNFwOStLoN"
-        }
-      ],
-      "duration_ms": 153402,
-      "name": "Mr. Right Now",
-      "url": "https://open.spotify.com/track/6BsYGPQrKHlnJslIex6plC"
-    },
-    {
-      "added_at": "2026-05-18 19:19:44",
-      "album": {
         "name": "Ghost Woman",
         "url": "https://open.spotify.com/album/7vpXyhnVVUdrln1HfdURkr"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 295786,
       "name": "All the Time",
       "url": "https://open.spotify.com/track/3P0ONdABTC2DIzAfoJydzH"
+    },
+    {
+      "added_at": "2026-05-18 19:19:44",
+      "album": {
+        "name": "Mr. Right Now",
+        "url": "https://open.spotify.com/album/6PGH7mRzk4693ahAtPuj5y"
+      },
+      "artists": [
+        {
+          "name": "tig3r lewis",
+          "url": "https://open.spotify.com/artist/6NYQeyZWzbSRcNFwOStLoN"
+        }
+      ],
+      "duration_ms": 153402,
+      "name": "Mr. Right Now",
+      "url": "https://open.spotify.com/track/6BsYGPQrKHlnJslIex6plC"
     },
     {
       "added_at": "2026-05-18 19:19:44",
@@ -979,6 +979,22 @@
     {
       "added_at": "2026-05-18 19:19:44",
       "album": {
+        "name": "Telling The Truth",
+        "url": "https://open.spotify.com/album/7JAl7nvl1tO0xrIZxX8q0w"
+      },
+      "artists": [
+        {
+          "name": "Willie Wright",
+          "url": "https://open.spotify.com/artist/3dH7ZRgXMUUsJrhHeDPftx"
+        }
+      ],
+      "duration_ms": 222213,
+      "name": "Nantucket Island",
+      "url": "https://open.spotify.com/track/5Cl0T1nwxwxyMnrAXz9uQB"
+    },
+    {
+      "added_at": "2026-05-18 19:19:44",
+      "album": {
         "name": "The Sun",
         "url": "https://open.spotify.com/album/4bIKzeSEz3WAgyo7NYG0SJ"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 156537,
       "name": "Tenha F\u00e9, Pois Amanh\u00e3 um Lindo Dia Vai Nascer",
       "url": "https://open.spotify.com/track/6gq1nXRbVZYcOxtG20uC2t"
-    },
-    {
-      "added_at": "2026-05-18 19:19:44",
-      "album": {
-        "name": "Telling The Truth",
-        "url": "https://open.spotify.com/album/7JAl7nvl1tO0xrIZxX8q0w"
-      },
-      "artists": [
-        {
-          "name": "Willie Wright",
-          "url": "https://open.spotify.com/artist/3dH7ZRgXMUUsJrhHeDPftx"
-        }
-      ],
-      "duration_ms": 222213,
-      "name": "Nantucket Island",
-      "url": "https://open.spotify.com/track/5Cl0T1nwxwxyMnrAXz9uQB"
     },
     {
       "added_at": "2026-05-18 19:19:44",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2026-05-18 19:19:44",
       "album": {
+        "name": "Euphrates River (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/0QAgVwKBZAZFMkCDzmmBBj"
+      },
+      "artists": [
+        {
+          "name": "The Main Ingredient",
+          "url": "https://open.spotify.com/artist/6vuD08WKtmp1yc7kQx1rBm"
+        }
+      ],
+      "duration_ms": 256240,
+      "name": "Summer Breeze",
+      "url": "https://open.spotify.com/track/5i6CpkeePD4aKacf0cmZqg"
+    },
+    {
+      "added_at": "2026-05-18 19:19:44",
+      "album": {
         "name": "Homegrown",
         "url": "https://open.spotify.com/album/4vAakYtJWrer6lENSAP19l"
       },
@@ -1163,22 +1179,6 @@
       "duration_ms": 104067,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/15hp88Fwgqi3HgY2hq6cyi"
-    },
-    {
-      "added_at": "2026-05-18 19:19:44",
-      "album": {
-        "name": "Euphrates River (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/0QAgVwKBZAZFMkCDzmmBBj"
-      },
-      "artists": [
-        {
-          "name": "The Main Ingredient",
-          "url": "https://open.spotify.com/artist/6vuD08WKtmp1yc7kQx1rBm"
-        }
-      ],
-      "duration_ms": 256240,
-      "name": "Summer Breeze",
-      "url": "https://open.spotify.com/track/5i6CpkeePD4aKacf0cmZqg"
     },
     {
       "added_at": "2026-05-18 19:19:44",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2026-05-18 19:19:44",
       "album": {
+        "name": "My Conversation",
+        "url": "https://open.spotify.com/album/3eyiwYrYENzxjnumTXJoOw"
+      },
+      "artists": [
+        {
+          "name": "Silas Short",
+          "url": "https://open.spotify.com/artist/4qFyLjhOZ9HGh22ggqoUBQ"
+        }
+      ],
+      "duration_ms": 196106,
+      "name": "My Conversation",
+      "url": "https://open.spotify.com/track/3HaXlnLbvkmdZN401glSoE"
+    },
+    {
+      "added_at": "2026-05-18 19:19:44",
+      "album": {
         "name": "wait outside",
         "url": "https://open.spotify.com/album/66cfO1WvU6TFkzuuVqqx3E"
       },
@@ -1507,22 +1523,6 @@
       "duration_ms": 151500,
       "name": "wait outside",
       "url": "https://open.spotify.com/track/3IosoOGTe5JZHqyeLyCq1I"
-    },
-    {
-      "added_at": "2026-05-18 19:19:44",
-      "album": {
-        "name": "My Conversation",
-        "url": "https://open.spotify.com/album/3eyiwYrYENzxjnumTXJoOw"
-      },
-      "artists": [
-        {
-          "name": "Silas Short",
-          "url": "https://open.spotify.com/artist/4qFyLjhOZ9HGh22ggqoUBQ"
-        }
-      ],
-      "duration_ms": 196106,
-      "name": "My Conversation",
-      "url": "https://open.spotify.com/track/3HaXlnLbvkmdZN401glSoE"
     },
     {
       "added_at": "2026-05-18 19:19:44",
@@ -1623,26 +1623,6 @@
     {
       "added_at": "2026-05-18 19:19:44",
       "album": {
-        "name": "Get On The Otherside",
-        "url": "https://open.spotify.com/album/2S16kNpGs1zn39HYwcLaJ3"
-      },
-      "artists": [
-        {
-          "name": "Bobby Oroza",
-          "url": "https://open.spotify.com/artist/7DIW7zcnjQFBTMxhK6V2VQ"
-        },
-        {
-          "name": "Cold Diamond & Mink",
-          "url": "https://open.spotify.com/artist/47eOrmm0M2qY5atzSNNt2b"
-        }
-      ],
-      "duration_ms": 229080,
-      "name": "The Otherside",
-      "url": "https://open.spotify.com/track/7dXYHyEg7TdcnbwcG3R0xG"
-    },
-    {
-      "added_at": "2026-05-18 19:19:44",
-      "album": {
         "name": "I Just Want To Talk To You",
         "url": "https://open.spotify.com/album/68DJRWdkFtRIMxYURX7zDX"
       },
@@ -1659,6 +1639,26 @@
       "duration_ms": 191039,
       "name": "I Just Want To Talk To You",
       "url": "https://open.spotify.com/track/4TmnRITTYSRhgY2zmEAJQ3"
+    },
+    {
+      "added_at": "2026-05-18 19:19:44",
+      "album": {
+        "name": "Get On The Otherside",
+        "url": "https://open.spotify.com/album/2S16kNpGs1zn39HYwcLaJ3"
+      },
+      "artists": [
+        {
+          "name": "Bobby Oroza",
+          "url": "https://open.spotify.com/artist/7DIW7zcnjQFBTMxhK6V2VQ"
+        },
+        {
+          "name": "Cold Diamond & Mink",
+          "url": "https://open.spotify.com/artist/47eOrmm0M2qY5atzSNNt2b"
+        }
+      ],
+      "duration_ms": 229080,
+      "name": "The Otherside",
+      "url": "https://open.spotify.com/track/7dXYHyEg7TdcnbwcG3R0xG"
     },
     {
       "added_at": "2026-05-18 19:19:44",
@@ -1791,22 +1791,6 @@
     {
       "added_at": "2026-05-18 19:19:44",
       "album": {
-        "name": "Quadron",
-        "url": "https://open.spotify.com/album/5vtu0JY9LDxsJ7ynDSsTQJ"
-      },
-      "artists": [
-        {
-          "name": "Quadron",
-          "url": "https://open.spotify.com/artist/3GhVFlFT3pagjVkslQPqoJ"
-        }
-      ],
-      "duration_ms": 272466,
-      "name": "Slippin",
-      "url": "https://open.spotify.com/track/1CMIoi2skjKw1G0R5pYWeg"
-    },
-    {
-      "added_at": "2026-05-18 19:19:44",
-      "album": {
         "name": "Picture Frame",
         "url": "https://open.spotify.com/album/6LaTToJMRmCo1Wtxb2NyhU"
       },
@@ -1819,6 +1803,22 @@
       "duration_ms": 195276,
       "name": "Picture Frame",
       "url": "https://open.spotify.com/track/0DkZynmdHveUtwaas1Xj2m"
+    },
+    {
+      "added_at": "2026-05-18 19:19:44",
+      "album": {
+        "name": "Quadron",
+        "url": "https://open.spotify.com/album/5vtu0JY9LDxsJ7ynDSsTQJ"
+      },
+      "artists": [
+        {
+          "name": "Quadron",
+          "url": "https://open.spotify.com/artist/3GhVFlFT3pagjVkslQPqoJ"
+        }
+      ],
+      "duration_ms": 272466,
+      "name": "Slippin",
+      "url": "https://open.spotify.com/track/1CMIoi2skjKw1G0R5pYWeg"
     },
     {
       "added_at": "2026-05-18 19:19:44",
@@ -1839,22 +1839,6 @@
     {
       "added_at": "2026-05-18 19:19:44",
       "album": {
-        "name": "TORNADO",
-        "url": "https://open.spotify.com/album/1u7lnVv0gqzo6TNSSvjojv"
-      },
-      "artists": [
-        {
-          "name": "FLEECE",
-          "url": "https://open.spotify.com/artist/3M8JKaNdIRChzvxVK1XxKm"
-        }
-      ],
-      "duration_ms": 204817,
-      "name": "Where's My Beach Hat",
-      "url": "https://open.spotify.com/track/0W7ID3fBwiarBoHqETvlXh"
-    },
-    {
-      "added_at": "2026-05-18 19:19:44",
-      "album": {
         "name": "Chameleon",
         "url": "https://open.spotify.com/album/1DSAC5ZkIWBUDX6OrSPccT"
       },
@@ -1867,6 +1851,22 @@
       "duration_ms": 191560,
       "name": "You're A Song (That I Can't Sing)",
       "url": "https://open.spotify.com/track/5ZXxJ5AWzZ6Td3MZKbwwdt"
+    },
+    {
+      "added_at": "2026-05-18 19:19:44",
+      "album": {
+        "name": "TORNADO",
+        "url": "https://open.spotify.com/album/1u7lnVv0gqzo6TNSSvjojv"
+      },
+      "artists": [
+        {
+          "name": "FLEECE",
+          "url": "https://open.spotify.com/artist/3M8JKaNdIRChzvxVK1XxKm"
+        }
+      ],
+      "duration_ms": 204817,
+      "name": "Where's My Beach Hat",
+      "url": "https://open.spotify.com/track/0W7ID3fBwiarBoHqETvlXh"
     },
     {
       "added_at": "2026-05-18 19:19:44",
@@ -1907,22 +1907,6 @@
     {
       "added_at": "2026-05-18 19:19:44",
       "album": {
-        "name": "Lucha",
-        "url": "https://open.spotify.com/album/1EHQiP8a52kT5jcAcrAIib"
-      },
-      "artists": [
-        {
-          "name": "Y La Bamba",
-          "url": "https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b"
-        }
-      ],
-      "duration_ms": 262184,
-      "name": "Nunca",
-      "url": "https://open.spotify.com/track/5pU82TRphKp8dTyIICg9zv"
-    },
-    {
-      "added_at": "2026-05-18 19:19:44",
-      "album": {
         "name": "My Dirty Desire / Dreaming In Slow Motion",
         "url": "https://open.spotify.com/album/4QfaBZBXxHeEGY6Me3damM"
       },
@@ -1935,6 +1919,22 @@
       "duration_ms": 206963,
       "name": "My Dirty Desire",
       "url": "https://open.spotify.com/track/2tFnhS8QB268yDYnwAUBdH"
+    },
+    {
+      "added_at": "2026-05-18 19:19:44",
+      "album": {
+        "name": "Lucha",
+        "url": "https://open.spotify.com/album/1EHQiP8a52kT5jcAcrAIib"
+      },
+      "artists": [
+        {
+          "name": "Y La Bamba",
+          "url": "https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b"
+        }
+      ],
+      "duration_ms": 262184,
+      "name": "Nunca",
+      "url": "https://open.spotify.com/track/5pU82TRphKp8dTyIICg9zv"
     },
     {
       "added_at": "2026-05-18 19:19:44",

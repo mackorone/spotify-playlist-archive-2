@@ -1,12 +1,12 @@
 {
   "description": "This is Moneybagg Yo. The essential tracks, all in one playlist.",
-  "num_followers": 98510,
+  "num_followers": 98513,
   "original_name": "This Is Moneybagg Yo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahI/gAAAAABtueCHMXR5u53adzopZ3Iy",
+  "snapshot_id": "ahORAAAAAADJBvINReYdpfkTzv/2F9kg",
   "tracks": [
     {
       "added_at": null,
@@ -499,8 +499,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heartless",
-        "url": "https://open.spotify.com/album/3Kr9yx4cF5kdxcenIl6xen"
+        "name": "Time Served",
+        "url": "https://open.spotify.com/album/6Wq84YPRzpAIY8CEeluUlv"
       },
       "artists": [
         {
@@ -508,9 +508,9 @@
           "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
         }
       ],
-      "duration_ms": 167332,
-      "name": "Don't Kno",
-      "url": "https://open.spotify.com/track/0A3Z3F1uCDhMqYzZWmbHMV"
+      "duration_ms": 119939,
+      "name": "Pistol By Da Bed",
+      "url": "https://open.spotify.com/track/5QOQTuR9vSDQdhz3Bo2FTs"
     },
     {
       "added_at": null,
@@ -555,8 +555,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Time Served",
-        "url": "https://open.spotify.com/album/6Wq84YPRzpAIY8CEeluUlv"
+        "name": "Heartless",
+        "url": "https://open.spotify.com/album/3Kr9yx4cF5kdxcenIl6xen"
       },
       "artists": [
         {
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
         }
       ],
-      "duration_ms": 119939,
-      "name": "Pistol By Da Bed",
-      "url": "https://open.spotify.com/track/5QOQTuR9vSDQdhz3Bo2FTs"
+      "duration_ms": 167332,
+      "name": "Don't Kno",
+      "url": "https://open.spotify.com/track/0A3Z3F1uCDhMqYzZWmbHMV"
     },
     {
       "added_at": null,
@@ -663,8 +663,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "RESET",
-        "url": "https://open.spotify.com/album/547DJFUYOl2SBYJbo2jZX1"
+        "name": "2 Federal",
+        "url": "https://open.spotify.com/album/5Wc8IknW6BeXOpoH3jB6hn"
       },
       "artists": [
         {
@@ -672,17 +672,13 @@
           "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
         },
         {
-          "name": "Kevin Gates",
-          "url": "https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe"
-        },
-        {
-          "name": "Rvssian",
-          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
+          "name": "Yo Gotti",
+          "url": "https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq"
         }
       ],
-      "duration_ms": 181773,
-      "name": "Fall Down (feat. Kevin Gates & Rvssian)",
-      "url": "https://open.spotify.com/track/4z7OagqDCwZjkZBedfA0OG"
+      "duration_ms": 204557,
+      "name": "Doin 2 Much",
+      "url": "https://open.spotify.com/track/5KmYUFowigebQliD2R3PSu"
     },
     {
       "added_at": null,
@@ -703,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "2 Federal",
-        "url": "https://open.spotify.com/album/5Wc8IknW6BeXOpoH3jB6hn"
+        "name": "RESET",
+        "url": "https://open.spotify.com/album/547DJFUYOl2SBYJbo2jZX1"
       },
       "artists": [
         {
@@ -712,13 +708,17 @@
           "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
         },
         {
-          "name": "Yo Gotti",
-          "url": "https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq"
+          "name": "Kevin Gates",
+          "url": "https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe"
+        },
+        {
+          "name": "Rvssian",
+          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
         }
       ],
-      "duration_ms": 204557,
-      "name": "Doin 2 Much",
-      "url": "https://open.spotify.com/track/5KmYUFowigebQliD2R3PSu"
+      "duration_ms": 181773,
+      "name": "Fall Down (feat. Kevin Gates & Rvssian)",
+      "url": "https://open.spotify.com/track/4z7OagqDCwZjkZBedfA0OG"
     },
     {
       "added_at": null,

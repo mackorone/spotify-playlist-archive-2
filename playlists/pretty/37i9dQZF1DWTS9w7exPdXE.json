@@ -1,6 +1,6 @@
 {
   "description": "Nederpop en Volkspop meezingers. Cover: Samuel Welten (<a href=\"spotify:artist:37i9dQZF1DXaxwXKCsImRe\">RADAR BNLX</a>-artiest)",
-  "num_followers": 164020,
+  "num_followers": 164103,
   "original_name": "Hollandse Meezingers",
   "owner": {
     "name": "Spotify",
@@ -987,6 +987,30 @@
     {
       "added_at": "2026-04-08 22:00:13",
       "album": {
+        "name": "Beste Zangers Seizoen 12 (Aflevering 8 - Duetten)",
+        "url": "https://open.spotify.com/album/282BwXPUfsaB47dC9dKWIi"
+      },
+      "artists": [
+        {
+          "name": "Emma Heesters",
+          "url": "https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM"
+        },
+        {
+          "name": "Rolf Sanchez",
+          "url": "https://open.spotify.com/artist/3R6VoMjUANEP9wb7fRNXws"
+        },
+        {
+          "name": "Beste Zangers",
+          "url": "https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa"
+        }
+      ],
+      "duration_ms": 171508,
+      "name": "Pa Olvidarte",
+      "url": "https://open.spotify.com/track/3XAaiiSNPVDvXC2CKAetY3"
+    },
+    {
+      "added_at": "2026-04-08 22:00:13",
+      "album": {
         "name": "Mij Niet Bellen",
         "url": "https://open.spotify.com/album/31ZdyOkYPnn8ySorGmEv4q"
       },
@@ -999,22 +1023,6 @@
       "duration_ms": 161484,
       "name": "Mij Niet Bellen",
       "url": "https://open.spotify.com/track/3fo32mcaj3m4dTui2li6dw"
-    },
-    {
-      "added_at": "2026-04-08 22:00:13",
-      "album": {
-        "name": "Voel Je Dan Niet?",
-        "url": "https://open.spotify.com/album/5Jl8vDC0r5ITwmIsQJbQOK"
-      },
-      "artists": [
-        {
-          "name": "Milan Milano",
-          "url": "https://open.spotify.com/artist/3wpbnuD8rmBA06MXEiqhpS"
-        }
-      ],
-      "duration_ms": 180671,
-      "name": "Voel Je Dan Niet?",
-      "url": "https://open.spotify.com/track/2Y8Ln46xwFJYKOsUltJjkA"
     },
     {
       "added_at": "2026-04-08 22:00:13",
@@ -1039,6 +1047,22 @@
     {
       "added_at": "2026-04-08 22:00:13",
       "album": {
+        "name": "Voel Je Dan Niet?",
+        "url": "https://open.spotify.com/album/5Jl8vDC0r5ITwmIsQJbQOK"
+      },
+      "artists": [
+        {
+          "name": "Milan Milano",
+          "url": "https://open.spotify.com/artist/3wpbnuD8rmBA06MXEiqhpS"
+        }
+      ],
+      "duration_ms": 180671,
+      "name": "Voel Je Dan Niet?",
+      "url": "https://open.spotify.com/track/2Y8Ln46xwFJYKOsUltJjkA"
+    },
+    {
+      "added_at": "2026-04-08 22:00:13",
+      "album": {
         "name": "Danny de Munk",
         "url": "https://open.spotify.com/album/0oazIvYOYrutl6TO2ovJle"
       },
@@ -1051,30 +1075,6 @@
       "duration_ms": 190553,
       "name": "Mijn Stad",
       "url": "https://open.spotify.com/track/7oJu3A0kZM8t7xCi0WQIqI"
-    },
-    {
-      "added_at": "2026-04-08 22:00:13",
-      "album": {
-        "name": "Beste Zangers Seizoen 12 (Aflevering 8 - Duetten)",
-        "url": "https://open.spotify.com/album/282BwXPUfsaB47dC9dKWIi"
-      },
-      "artists": [
-        {
-          "name": "Emma Heesters",
-          "url": "https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM"
-        },
-        {
-          "name": "Rolf Sanchez",
-          "url": "https://open.spotify.com/artist/3R6VoMjUANEP9wb7fRNXws"
-        },
-        {
-          "name": "Beste Zangers",
-          "url": "https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa"
-        }
-      ],
-      "duration_ms": 171508,
-      "name": "Pa Olvidarte",
-      "url": "https://open.spotify.com/track/3XAaiiSNPVDvXC2CKAetY3"
     },
     {
       "added_at": "2026-04-08 22:00:13",
@@ -1319,18 +1319,18 @@
     {
       "added_at": "2026-04-08 22:00:13",
       "album": {
-        "name": "Met Of Zonder Jou",
-        "url": "https://open.spotify.com/album/7rq2FgyZZPsuSGvuptcwaq"
+        "name": "Muziek Is Ons Leven",
+        "url": "https://open.spotify.com/album/1U1Ot6e6YUdKzs7TycDyRQ"
       },
       "artists": [
         {
-          "name": "Tino Martin",
-          "url": "https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4"
+          "name": "Echte Vrienden",
+          "url": "https://open.spotify.com/artist/3dcKZq8lmXfjRhz17Po1Qb"
         }
       ],
-      "duration_ms": 182618,
-      "name": "Met Of Zonder Jou",
-      "url": "https://open.spotify.com/track/69RI9EeFuWmMtRWAuREUy1"
+      "duration_ms": 211000,
+      "name": "Muziek Is Ons Leven",
+      "url": "https://open.spotify.com/track/1HXXmdT2R1IiMYa8kRYeaS"
     },
     {
       "added_at": "2026-04-08 22:00:13",
@@ -1351,18 +1351,18 @@
     {
       "added_at": "2026-04-08 22:00:13",
       "album": {
-        "name": "Muziek Is Ons Leven",
-        "url": "https://open.spotify.com/album/1U1Ot6e6YUdKzs7TycDyRQ"
+        "name": "Met Of Zonder Jou",
+        "url": "https://open.spotify.com/album/7rq2FgyZZPsuSGvuptcwaq"
       },
       "artists": [
         {
-          "name": "Echte Vrienden",
-          "url": "https://open.spotify.com/artist/3dcKZq8lmXfjRhz17Po1Qb"
+          "name": "Tino Martin",
+          "url": "https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4"
         }
       ],
-      "duration_ms": 211000,
-      "name": "Muziek Is Ons Leven",
-      "url": "https://open.spotify.com/track/1HXXmdT2R1IiMYa8kRYeaS"
+      "duration_ms": 182618,
+      "name": "Met Of Zonder Jou",
+      "url": "https://open.spotify.com/track/69RI9EeFuWmMtRWAuREUy1"
     },
     {
       "added_at": "2026-04-08 22:00:13",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2026-04-08 22:00:13",
       "album": {
-        "name": "Leef",
-        "url": "https://open.spotify.com/album/6lTrzzgpV4zOaEhtYgclKm"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9 Hazes Jr.",
-          "url": "https://open.spotify.com/artist/5l2Xy4aUoJDRSpsYHyOumD"
-        }
-      ],
-      "duration_ms": 217902,
-      "name": "Leef",
-      "url": "https://open.spotify.com/track/4lBkLeU6LNgWzfbWPGm1c9"
-    },
-    {
-      "added_at": "2026-04-08 22:00:13",
-      "album": {
         "name": "Verbazing",
         "url": "https://open.spotify.com/album/6hqBbsWRFC9Mh1Z2YdYDNQ"
       },
@@ -1539,26 +1523,34 @@
     {
       "added_at": "2026-04-08 22:00:13",
       "album": {
-        "name": "Vluchtstrook",
-        "url": "https://open.spotify.com/album/5u2mz0xejDfoNdOqbZaDDm"
+        "name": "Leef",
+        "url": "https://open.spotify.com/album/6lTrzzgpV4zOaEhtYgclKm"
       },
       "artists": [
         {
-          "name": "Kris Kross Amsterdam",
-          "url": "https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R"
-        },
-        {
-          "name": "Antoon",
-          "url": "https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG"
-        },
-        {
-          "name": "Sigourney K",
-          "url": "https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj"
+          "name": "Andr\u00e9 Hazes Jr.",
+          "url": "https://open.spotify.com/artist/5l2Xy4aUoJDRSpsYHyOumD"
         }
       ],
-      "duration_ms": 148467,
-      "name": "Vluchtstrook",
-      "url": "https://open.spotify.com/track/63JrADDfrcjOaI6lyVkN3c"
+      "duration_ms": 217902,
+      "name": "Leef",
+      "url": "https://open.spotify.com/track/4lBkLeU6LNgWzfbWPGm1c9"
+    },
+    {
+      "added_at": "2026-04-08 22:00:13",
+      "album": {
+        "name": "Automatisch",
+        "url": "https://open.spotify.com/album/1ORFwaAJM7agyaN1ZLiUHs"
+      },
+      "artists": [
+        {
+          "name": "FLEMMING",
+          "url": "https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk"
+        }
+      ],
+      "duration_ms": 165768,
+      "name": "Automatisch",
+      "url": "https://open.spotify.com/track/2WeAyT93f7IzrwXm3ZJMb2"
     },
     {
       "added_at": "2026-04-08 22:00:13",
@@ -1583,18 +1575,26 @@
     {
       "added_at": "2026-04-08 22:00:13",
       "album": {
-        "name": "Automatisch",
-        "url": "https://open.spotify.com/album/1ORFwaAJM7agyaN1ZLiUHs"
+        "name": "Vluchtstrook",
+        "url": "https://open.spotify.com/album/5u2mz0xejDfoNdOqbZaDDm"
       },
       "artists": [
         {
-          "name": "FLEMMING",
-          "url": "https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk"
+          "name": "Kris Kross Amsterdam",
+          "url": "https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R"
+        },
+        {
+          "name": "Antoon",
+          "url": "https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG"
+        },
+        {
+          "name": "Sigourney K",
+          "url": "https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj"
         }
       ],
-      "duration_ms": 165768,
-      "name": "Automatisch",
-      "url": "https://open.spotify.com/track/2WeAyT93f7IzrwXm3ZJMb2"
+      "duration_ms": 148467,
+      "name": "Vluchtstrook",
+      "url": "https://open.spotify.com/track/63JrADDfrcjOaI6lyVkN3c"
     },
     {
       "added_at": "2026-04-08 22:00:13",
@@ -1639,18 +1639,18 @@
     {
       "added_at": "2026-04-08 22:00:13",
       "album": {
-        "name": "Sugardaddy",
-        "url": "https://open.spotify.com/album/5YHwXc1VQepi38h0kutggf"
+        "name": "Amsterdam",
+        "url": "https://open.spotify.com/album/3TP2sh6pFJWU0NMDuLycUz"
       },
       "artists": [
         {
-          "name": "Roxy Dekker",
-          "url": "https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z"
+          "name": "FLEMMING",
+          "url": "https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk"
         }
       ],
-      "duration_ms": 131796,
-      "name": "Sugardaddy",
-      "url": "https://open.spotify.com/track/2hIFhSltVcRU1oJ3kf8Zy4"
+      "duration_ms": 172235,
+      "name": "Amsterdam",
+      "url": "https://open.spotify.com/track/0GRc10CjRqO0wtXUnxR1uY"
     },
     {
       "added_at": "2026-04-08 22:00:13",
@@ -1667,22 +1667,6 @@
       "duration_ms": 181130,
       "name": "Hoe Zou Het Zijn Geweest",
       "url": "https://open.spotify.com/track/5VlumpV7P0bentTmUG4471"
-    },
-    {
-      "added_at": "2026-04-08 22:00:13",
-      "album": {
-        "name": "Amsterdam",
-        "url": "https://open.spotify.com/album/3TP2sh6pFJWU0NMDuLycUz"
-      },
-      "artists": [
-        {
-          "name": "FLEMMING",
-          "url": "https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk"
-        }
-      ],
-      "duration_ms": 172235,
-      "name": "Amsterdam",
-      "url": "https://open.spotify.com/track/0GRc10CjRqO0wtXUnxR1uY"
     },
     {
       "added_at": "2026-04-08 22:00:13",
@@ -1711,6 +1695,22 @@
       "duration_ms": 152285,
       "name": "Zomer In M'n Bol (feat. Andr\u00e9 Hazes)",
       "url": "https://open.spotify.com/track/5VlY1Th1IgoNCLutkFfUVu"
+    },
+    {
+      "added_at": "2026-04-08 22:00:13",
+      "album": {
+        "name": "Sugardaddy",
+        "url": "https://open.spotify.com/album/5YHwXc1VQepi38h0kutggf"
+      },
+      "artists": [
+        {
+          "name": "Roxy Dekker",
+          "url": "https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z"
+        }
+      ],
+      "duration_ms": 131796,
+      "name": "Sugardaddy",
+      "url": "https://open.spotify.com/track/2hIFhSltVcRU1oJ3kf8Zy4"
     },
     {
       "added_at": "2026-04-08 22:00:13",

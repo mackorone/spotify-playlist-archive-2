@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music from independent artists in the UK and Ireland. Cover: ashnymph",
+  "description": "The best new music from independent artists in the UK and Ireland. Cover: Max Winter",
   "name": "Fresh Finds UK & IE",
   "tracks": [
     {
@@ -1430,7 +1430,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-27",
       "duration_ms": 202887,
       "name": "A Little Less",
       "url": "https://open.spotify.com/track/5He1bjR7YKGzKi48UXzYVG"
@@ -1466,7 +1466,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-27",
       "duration_ms": 167195,
       "name": "A Mile In My Mind",
       "url": "https://open.spotify.com/track/4xWpwTyRHboUA6GnVPqltx"
@@ -14630,7 +14630,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-27",
       "duration_ms": 188026,
       "name": "Devil In Disguise",
       "url": "https://open.spotify.com/track/0SeiW54NQCIWZkD3dSK3cA"
@@ -15522,7 +15522,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-27",
       "duration_ms": 290371,
       "name": "Doing Sumthin'",
       "url": "https://open.spotify.com/track/08TT875V2CzwpDlJ1sD5mt"
@@ -16840,7 +16840,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-27",
       "duration_ms": 133714,
       "name": "Early Bird",
       "url": "https://open.spotify.com/track/6weiXXC8bJghorfjIaGfBu"
@@ -23166,6 +23166,24 @@
       "duration_ms": 246259,
       "name": "good enough",
       "url": "https://open.spotify.com/track/3DSuRVneU4kjxe4q15wRql"
+    },
+    {
+      "album": {
+        "name": "Good Enough",
+        "url": "https://open.spotify.com/album/78KrEPkj2YtKwUIf28mbSk"
+      },
+      "artists": [
+        {
+          "name": "Softdrink Millionaire",
+          "url": "https://open.spotify.com/artist/34FSutSmj6A0cNPFdtGqD3"
+        }
+      ],
+      "date_added": "2026-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278875,
+      "name": "Good Enough",
+      "url": "https://open.spotify.com/track/1eFRNhkIbgraWITQdGs6Vl"
     },
     {
       "album": {
@@ -30635,6 +30653,24 @@
     },
     {
       "album": {
+        "name": "In Your Head",
+        "url": "https://open.spotify.com/album/3hqQUj4B1togXhQXlQhmiv"
+      },
+      "artists": [
+        {
+          "name": "ili",
+          "url": "https://open.spotify.com/artist/4Yn7SW1ERvmPwQHPMiv8t4"
+        }
+      ],
+      "date_added": "2026-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151966,
+      "name": "In Your Head",
+      "url": "https://open.spotify.com/track/2xceOgYP6jcQ4aci4J17Jw"
+    },
+    {
+      "album": {
         "name": "In2you",
         "url": "https://open.spotify.com/album/55WmVdXpFLvKiVh6fLhT1A"
       },
@@ -34933,6 +34969,24 @@
     },
     {
       "album": {
+        "name": "Like U",
+        "url": "https://open.spotify.com/album/5xx3iZ2XAjgMXNMNaj5SkT"
+      },
+      "artists": [
+        {
+          "name": "DRZ",
+          "url": "https://open.spotify.com/artist/55WAGKDNjOnBYUoy5Vs3Db"
+        }
+      ],
+      "date_added": "2026-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211885,
+      "name": "Like U",
+      "url": "https://open.spotify.com/track/4PXTxHV6BmmPa1249aSej9"
+    },
+    {
+      "album": {
         "name": "Like You Boy",
         "url": "https://open.spotify.com/album/4lbJpv9py0nbWfRQ09VRDe"
       },
@@ -36964,6 +37018,24 @@
       "duration_ms": 126541,
       "name": "M.I.A.",
       "url": "https://open.spotify.com/track/6tzHe81CcaIUGjIML7pVFl"
+    },
+    {
+      "album": {
+        "name": "M25",
+        "url": "https://open.spotify.com/album/0SvTbNp5axtNVWdeV1rger"
+      },
+      "artists": [
+        {
+          "name": "Orla Rae",
+          "url": "https://open.spotify.com/artist/0AUDHx1z026BGD4s4uASxt"
+        }
+      ],
+      "date_added": "2026-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228080,
+      "name": "M25",
+      "url": "https://open.spotify.com/track/071HvdV7mzG1nbqbxbsHUe"
     },
     {
       "album": {
@@ -54672,7 +54744,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-27",
       "duration_ms": 198048,
       "name": "Start at the End",
       "url": "https://open.spotify.com/track/3Hoe1YtEchcNP7Jn5ff5Lz"
@@ -61571,6 +61643,24 @@
     },
     {
       "album": {
+        "name": "u, him & me",
+        "url": "https://open.spotify.com/album/0fUWL4QtK7QhCChO1uV5O8"
+      },
+      "artists": [
+        {
+          "name": "Timur Nova",
+          "url": "https://open.spotify.com/artist/1InYeA5EjhHDDg2ezeOsBV"
+        }
+      ],
+      "date_added": "2026-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182428,
+      "name": "u, him & me",
+      "url": "https://open.spotify.com/track/2RUNEELdHcRzttVS7JH2gD"
+    },
+    {
+      "album": {
         "name": "U.K",
         "url": "https://open.spotify.com/album/0ZlBRtRbnJ2DwC8IKKjygd"
       },
@@ -64222,6 +64312,24 @@
       "duration_ms": 220526,
       "name": "When the Lights Go Down",
       "url": "https://open.spotify.com/track/0lrF4Jr6njXe3LjaA7coUh"
+    },
+    {
+      "album": {
+        "name": "When The Lights Went Out",
+        "url": "https://open.spotify.com/album/40v6xxWVsoN1JlRaawFFyf"
+      },
+      "artists": [
+        {
+          "name": "Afrobaby",
+          "url": "https://open.spotify.com/artist/1w31E00Ncgb0DmBz32SvVk"
+        }
+      ],
+      "date_added": "2026-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223983,
+      "name": "When The Lights Went Out",
+      "url": "https://open.spotify.com/track/1dOn2Oq2y5vagNFTgQRSWl"
     },
     {
       "album": {

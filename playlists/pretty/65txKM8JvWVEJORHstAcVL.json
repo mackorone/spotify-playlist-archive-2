@@ -1,13 +1,33 @@
 {
   "description": "La Llista amb els 45 \u00e8xits de Flaixbac. Actualitzada cada diumenge de 17 h a 21 h amb en Jordi Cuadras. Vota el pr\u00f2xim n\u00famero 1 de La Llista a la nostra web: https:&#x2F;&#x2F;flaixbac.cat&#x2F;la-llista",
-  "num_followers": 30743,
-  "original_name": "LA LLISTA DE FLAIXBAC (17/05/2026)",
+  "num_followers": 30744,
+  "original_name": "LA LLISTA DE FLAIXBAC (24/05/2026)",
   "owner": {
     "name": "flaixbacoficial",
     "url": "https://open.spotify.com/user/flaixbacoficial"
   },
-  "snapshot_id": "AABCMap45V5jVTg68vXXuPlXP3jIevqF",
+  "snapshot_id": "AABCWqq7bAF+Hb8RExKbNPU5XT93gZdy",
   "tracks": [
+    {
+      "added_at": "2026-03-31 07:59:05",
+      "album": {
+        "name": "Jamaican (Bam Bam)",
+        "url": "https://open.spotify.com/album/5ZX3Zdp20YCGI4ruAfZlMj"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "SOLTO (FR)",
+          "url": "https://open.spotify.com/artist/0F3tUZeb9dLNEpxCpzEBQt"
+        }
+      ],
+      "duration_ms": 156393,
+      "name": "Jamaican (Bam Bam)",
+      "url": "https://open.spotify.com/track/7e4zDInS6tA2jwzphvs2Ay"
+    },
     {
       "added_at": "2026-03-31 07:58:44",
       "album": {
@@ -49,42 +69,6 @@
       "url": "https://open.spotify.com/track/2Lb9ww5vZAnveWnrFQfAKR"
     },
     {
-      "added_at": "2026-03-31 07:59:05",
-      "album": {
-        "name": "Jamaican (Bam Bam)",
-        "url": "https://open.spotify.com/album/5ZX3Zdp20YCGI4ruAfZlMj"
-      },
-      "artists": [
-        {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        },
-        {
-          "name": "SOLTO (FR)",
-          "url": "https://open.spotify.com/artist/0F3tUZeb9dLNEpxCpzEBQt"
-        }
-      ],
-      "duration_ms": 156393,
-      "name": "Jamaican (Bam Bam)",
-      "url": "https://open.spotify.com/track/7e4zDInS6tA2jwzphvs2Ay"
-    },
-    {
-      "added_at": "2026-02-18 11:56:13",
-      "album": {
-        "name": "NEXO 01. Me acuerdo de ti",
-        "url": "https://open.spotify.com/album/10jwEmHOwVHYPFecFcUoGd"
-      },
-      "artists": [
-        {
-          "name": "Nil Moliner",
-          "url": "https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD"
-        }
-      ],
-      "duration_ms": 195279,
-      "name": "NEXO 01. Me acuerdo de ti",
-      "url": "https://open.spotify.com/track/4qmNeOovGFdhsiBgPKxlTQ"
-    },
-    {
       "added_at": "2026-03-23 11:33:15",
       "album": {
         "name": "Camins, Somnis i Promeses",
@@ -107,6 +91,58 @@
       "duration_ms": 161820,
       "name": "Camins, Somnis i Promeses",
       "url": "https://open.spotify.com/track/6jGPtl4cmJc9ee2S5KtjWF"
+    },
+    {
+      "added_at": "2026-02-18 11:56:13",
+      "album": {
+        "name": "NEXO 01. Me acuerdo de ti",
+        "url": "https://open.spotify.com/album/10jwEmHOwVHYPFecFcUoGd"
+      },
+      "artists": [
+        {
+          "name": "Nil Moliner",
+          "url": "https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD"
+        }
+      ],
+      "duration_ms": 195279,
+      "name": "NEXO 01. Me acuerdo de ti",
+      "url": "https://open.spotify.com/track/4qmNeOovGFdhsiBgPKxlTQ"
+    },
+    {
+      "added_at": "2026-04-27 10:10:10",
+      "album": {
+        "name": "ARIRANG",
+        "url": "https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 159007,
+      "name": "SWIM",
+      "url": "https://open.spotify.com/track/68lbSrXDORS51pmyjZv712"
+    },
+    {
+      "added_at": "2026-03-31 07:59:38",
+      "album": {
+        "name": "Dorayakis",
+        "url": "https://open.spotify.com/album/0ngTIQsDW6zPMOe31utsMA"
+      },
+      "artists": [
+        {
+          "name": "Flashy Ice Cream",
+          "url": "https://open.spotify.com/artist/24yN33FZM27S4x4EJCFsjR"
+        },
+        {
+          "name": "31 FAM",
+          "url": "https://open.spotify.com/artist/0LweECx5LKm6I3gIcWMdpB"
+        }
+      ],
+      "duration_ms": 127680,
+      "name": "Dorayakis",
+      "url": "https://open.spotify.com/track/531muL88wgzZPwqRD4eXmJ"
     },
     {
       "added_at": "2026-01-26 10:11:13",
@@ -141,20 +177,20 @@
       "url": "https://open.spotify.com/track/3yWuTOYDztXjZxdE2cIRUa"
     },
     {
-      "added_at": "2026-04-27 10:10:10",
+      "added_at": "2026-04-13 08:31:22",
       "album": {
-        "name": "ARIRANG",
-        "url": "https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h"
+        "name": "Energia!",
+        "url": "https://open.spotify.com/album/6jyQ44hp5mFxXAdFKiYwjM"
       },
       "artists": [
         {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+          "name": "Doctor Prats",
+          "url": "https://open.spotify.com/artist/7ncQ3AmAxYqTv2vY46YclW"
         }
       ],
-      "duration_ms": 159007,
-      "name": "SWIM",
-      "url": "https://open.spotify.com/track/68lbSrXDORS51pmyjZv712"
+      "duration_ms": 187992,
+      "name": "Energia!",
+      "url": "https://open.spotify.com/track/0S2ghDlCY0B4AvYDmFobeK"
     },
     {
       "added_at": "2026-02-09 10:14:15",
@@ -173,24 +209,24 @@
       "url": "https://open.spotify.com/track/12bYYQaLqHliSXvRIYlq8G"
     },
     {
-      "added_at": "2026-03-31 07:59:38",
+      "added_at": "2026-05-26 14:01:45",
       "album": {
-        "name": "Dorayakis",
-        "url": "https://open.spotify.com/album/0ngTIQsDW6zPMOe31utsMA"
+        "name": "Believe (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/70f70xLCpH7wHaVvB2oZT9"
       },
       "artists": [
         {
-          "name": "Flashy Ice Cream",
-          "url": "https://open.spotify.com/artist/24yN33FZM27S4x4EJCFsjR"
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
         },
         {
-          "name": "31 FAM",
-          "url": "https://open.spotify.com/artist/0LweECx5LKm6I3gIcWMdpB"
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
         }
       ],
-      "duration_ms": 127680,
-      "name": "Dorayakis",
-      "url": "https://open.spotify.com/track/531muL88wgzZPwqRD4eXmJ"
+      "duration_ms": 227986,
+      "name": "Beauty And A Beat",
+      "url": "https://open.spotify.com/track/190jyVPHYjAqEaOGmMzdyk"
     },
     {
       "added_at": "2026-03-02 14:52:13",
@@ -209,38 +245,6 @@
       "url": "https://open.spotify.com/track/0pEOVHVyre2UtuQFDza4JY"
     },
     {
-      "added_at": "2026-04-13 08:31:22",
-      "album": {
-        "name": "Energia!",
-        "url": "https://open.spotify.com/album/6jyQ44hp5mFxXAdFKiYwjM"
-      },
-      "artists": [
-        {
-          "name": "Doctor Prats",
-          "url": "https://open.spotify.com/artist/7ncQ3AmAxYqTv2vY46YclW"
-        }
-      ],
-      "duration_ms": 187992,
-      "name": "Energia!",
-      "url": "https://open.spotify.com/track/0S2ghDlCY0B4AvYDmFobeK"
-    },
-    {
-      "added_at": "2026-02-18 11:55:57",
-      "album": {
-        "name": "Welcome to My Party",
-        "url": "https://open.spotify.com/album/7KEVcNxrpxA7smtdLbnQ0X"
-      },
-      "artists": [
-        {
-          "name": "Joan Daus\u00e0",
-          "url": "https://open.spotify.com/artist/1GRFao1QTh0i5Wx5Ms0A3I"
-        }
-      ],
-      "duration_ms": 199853,
-      "name": "Welcome to My Party",
-      "url": "https://open.spotify.com/track/1xYxQINTENuqXEkunEmjdJ"
-    },
-    {
       "added_at": "2026-01-21 12:58:07",
       "album": {
         "name": "DECIDE",
@@ -257,10 +261,10 @@
       "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
     },
     {
-      "added_at": "2026-01-07 09:45:06",
+      "added_at": "2026-04-27 10:16:51",
       "album": {
-        "name": "Estrelles",
-        "url": "https://open.spotify.com/album/6P4qPYM66BANshGX2oShtv"
+        "name": "Inigualable",
+        "url": "https://open.spotify.com/album/7bjdddU6NFSG6V8cD00ODu"
       },
       "artists": [
         {
@@ -268,9 +272,9 @@
           "url": "https://open.spotify.com/artist/0Wx00HbcRpQLmDcKO226cq"
         }
       ],
-      "duration_ms": 199208,
-      "name": "Estrelles",
-      "url": "https://open.spotify.com/track/5LIpGWJvwV07LiR3HakLGb"
+      "duration_ms": 211586,
+      "name": "Inigualable",
+      "url": "https://open.spotify.com/track/4HilSPgYbcZdtR6bJDGkF8"
     },
     {
       "added_at": "2025-12-18 12:01:19",
@@ -287,6 +291,38 @@
       "duration_ms": 186490,
       "name": "Et prometo",
       "url": "https://open.spotify.com/track/23QWizOmPLSXiBIXtXBYEv"
+    },
+    {
+      "added_at": "2026-04-07 09:13:16",
+      "album": {
+        "name": "Perdre el cap",
+        "url": "https://open.spotify.com/album/3sGZHfIJQD4UkPiUHfd0ST"
+      },
+      "artists": [
+        {
+          "name": "Ginest\u00e0",
+          "url": "https://open.spotify.com/artist/3hi1Ewhqpzl1jO2GemGmv6"
+        }
+      ],
+      "duration_ms": 154340,
+      "name": "Perdre el cap",
+      "url": "https://open.spotify.com/track/0y5LTiNgYzGXTzPVFTQSko"
+    },
+    {
+      "added_at": "2026-04-27 10:11:47",
+      "album": {
+        "name": "IMMORTALS",
+        "url": "https://open.spotify.com/album/6s1AgAGYVkS3Wh92Eo1sS0"
+      },
+      "artists": [
+        {
+          "name": "Joan Daus\u00e0",
+          "url": "https://open.spotify.com/artist/1GRFao1QTh0i5Wx5Ms0A3I"
+        }
+      ],
+      "duration_ms": 223066,
+      "name": "Per una can\u00e7\u00f3",
+      "url": "https://open.spotify.com/track/6QIXdksYvHGepNzugL8olK"
     },
     {
       "added_at": "2026-03-23 11:35:36",
@@ -309,6 +345,22 @@
       "url": "https://open.spotify.com/track/50SSJV9VPpvO7bZwK5ZjRa"
     },
     {
+      "added_at": "2026-02-18 11:55:57",
+      "album": {
+        "name": "Welcome to My Party",
+        "url": "https://open.spotify.com/album/7KEVcNxrpxA7smtdLbnQ0X"
+      },
+      "artists": [
+        {
+          "name": "Joan Daus\u00e0",
+          "url": "https://open.spotify.com/artist/1GRFao1QTh0i5Wx5Ms0A3I"
+        }
+      ],
+      "duration_ms": 199853,
+      "name": "Welcome to My Party",
+      "url": "https://open.spotify.com/track/1xYxQINTENuqXEkunEmjdJ"
+    },
+    {
       "added_at": "2026-03-23 11:36:07",
       "album": {
         "name": "Kiss All The Time. Disco, Occasionally.",
@@ -323,22 +375,6 @@
       "duration_ms": 213440,
       "name": "American Girls",
       "url": "https://open.spotify.com/track/7gtG45ieyQzKtNKobfLd49"
-    },
-    {
-      "added_at": "2026-04-07 09:13:16",
-      "album": {
-        "name": "Perdre el cap",
-        "url": "https://open.spotify.com/album/3sGZHfIJQD4UkPiUHfd0ST"
-      },
-      "artists": [
-        {
-          "name": "Ginest\u00e0",
-          "url": "https://open.spotify.com/artist/3hi1Ewhqpzl1jO2GemGmv6"
-        }
-      ],
-      "duration_ms": 154340,
-      "name": "Perdre el cap",
-      "url": "https://open.spotify.com/track/0y5LTiNgYzGXTzPVFTQSko"
     },
     {
       "added_at": "2025-12-18 11:58:28",
@@ -381,20 +417,20 @@
       "url": "https://open.spotify.com/track/2uPMsTEKx79gJ8rB3AcT0v"
     },
     {
-      "added_at": "2026-04-27 10:11:47",
+      "added_at": "2026-01-07 09:45:06",
       "album": {
-        "name": "IMMORTALS",
-        "url": "https://open.spotify.com/album/6s1AgAGYVkS3Wh92Eo1sS0"
+        "name": "Estrelles",
+        "url": "https://open.spotify.com/album/6P4qPYM66BANshGX2oShtv"
       },
       "artists": [
         {
-          "name": "Joan Daus\u00e0",
-          "url": "https://open.spotify.com/artist/1GRFao1QTh0i5Wx5Ms0A3I"
+          "name": "Max Navarro",
+          "url": "https://open.spotify.com/artist/0Wx00HbcRpQLmDcKO226cq"
         }
       ],
-      "duration_ms": 223066,
-      "name": "Per una can\u00e7\u00f3",
-      "url": "https://open.spotify.com/track/6QIXdksYvHGepNzugL8olK"
+      "duration_ms": 199208,
+      "name": "Estrelles",
+      "url": "https://open.spotify.com/track/5LIpGWJvwV07LiR3HakLGb"
     },
     {
       "added_at": "2026-03-31 07:59:17",
@@ -413,36 +449,68 @@
       "url": "https://open.spotify.com/track/42IZ43xd4Utj3dz5sAAJwP"
     },
     {
-      "added_at": "2026-04-27 10:16:51",
+      "added_at": "2026-04-27 10:16:15",
       "album": {
-        "name": "Inigualable",
-        "url": "https://open.spotify.com/album/7bjdddU6NFSG6V8cD00ODu"
+        "name": "Els passos prohibits",
+        "url": "https://open.spotify.com/album/1W04oFzsDyWU0WmIkZISgm"
       },
       "artists": [
         {
-          "name": "Max Navarro",
-          "url": "https://open.spotify.com/artist/0Wx00HbcRpQLmDcKO226cq"
+          "name": "Banda Neon",
+          "url": "https://open.spotify.com/artist/238KXKJTOYGAkQLQslSyYU"
         }
       ],
-      "duration_ms": 211586,
-      "name": "Inigualable",
-      "url": "https://open.spotify.com/track/4HilSPgYbcZdtR6bJDGkF8"
+      "duration_ms": 141823,
+      "name": "Els passos prohibits",
+      "url": "https://open.spotify.com/track/010jwtvX8ITfPpGNnTz6PV"
     },
     {
-      "added_at": "2025-12-18 12:06:21",
+      "added_at": "2026-05-05 15:02:51",
       "album": {
-        "name": "Man I Need",
-        "url": "https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a"
+        "name": "LUX (Complete Works)",
+        "url": "https://open.spotify.com/album/3goLwu2fkSSmghikOcVufU"
       },
       "artists": [
         {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
         }
       ],
-      "duration_ms": 184000,
-      "name": "Man I Need",
-      "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
+      "duration_ms": 170533,
+      "name": "Focu 'Ranni",
+      "url": "https://open.spotify.com/track/3aIGNjFJPjrGpe24OFMSUH"
+    },
+    {
+      "added_at": "2026-05-19 10:53:32",
+      "album": {
+        "name": "drop dead",
+        "url": "https://open.spotify.com/album/4OMvPbXaYlbUm6TnwyXGct"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 224998,
+      "name": "drop dead",
+      "url": "https://open.spotify.com/track/6gkbtMtioHgtyGjrMel6ei"
+    },
+    {
+      "added_at": "2026-04-27 10:17:13",
+      "album": {
+        "name": "FEVER DREAM",
+        "url": "https://open.spotify.com/album/1tJQ5Mp1XSf7waZzH6KhlJ"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 153430,
+      "name": "FEVER DREAM",
+      "url": "https://open.spotify.com/track/7ogpGbKc4Io6NCU6ydxXwZ"
     },
     {
       "added_at": "2025-09-15 10:51:24",
@@ -477,38 +545,6 @@
       "url": "https://open.spotify.com/track/5Cp75TUMrHF6c8xbhdligS"
     },
     {
-      "added_at": "2026-04-13 08:31:09",
-      "album": {
-        "name": "To Love Somebody",
-        "url": "https://open.spotify.com/album/0YZQHiFydiWcBpISxOCFdc"
-      },
-      "artists": [
-        {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
-        }
-      ],
-      "duration_ms": 237952,
-      "name": "To Love Somebody",
-      "url": "https://open.spotify.com/track/17LuVd2gBc7UvcgZbm1cFV"
-    },
-    {
-      "added_at": "2026-04-27 10:16:15",
-      "album": {
-        "name": "Els passos prohibits",
-        "url": "https://open.spotify.com/album/1W04oFzsDyWU0WmIkZISgm"
-      },
-      "artists": [
-        {
-          "name": "Banda Neon",
-          "url": "https://open.spotify.com/artist/238KXKJTOYGAkQLQslSyYU"
-        }
-      ],
-      "duration_ms": 141823,
-      "name": "Els passos prohibits",
-      "url": "https://open.spotify.com/track/010jwtvX8ITfPpGNnTz6PV"
-    },
-    {
       "added_at": "2025-11-11 09:05:42",
       "album": {
         "name": "CUARTO AZUL",
@@ -523,70 +559,6 @@
       "duration_ms": 183529,
       "name": "SUPERESTRELLA",
       "url": "https://open.spotify.com/track/6hpuesKPNa3WhV48O7Fa47"
-    },
-    {
-      "added_at": "2026-05-05 15:02:51",
-      "album": {
-        "name": "LUX (Complete Works)",
-        "url": "https://open.spotify.com/album/3goLwu2fkSSmghikOcVufU"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 170533,
-      "name": "Focu 'Ranni",
-      "url": "https://open.spotify.com/track/3aIGNjFJPjrGpe24OFMSUH"
-    },
-    {
-      "added_at": "2026-04-27 10:17:13",
-      "album": {
-        "name": "FEVER DREAM",
-        "url": "https://open.spotify.com/album/1tJQ5Mp1XSf7waZzH6KhlJ"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 153430,
-      "name": "FEVER DREAM",
-      "url": "https://open.spotify.com/track/7ogpGbKc4Io6NCU6ydxXwZ"
-    },
-    {
-      "added_at": "2026-05-19 10:53:32",
-      "album": {
-        "name": "drop dead",
-        "url": "https://open.spotify.com/album/4OMvPbXaYlbUm6TnwyXGct"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 224998,
-      "name": "drop dead",
-      "url": "https://open.spotify.com/track/6gkbtMtioHgtyGjrMel6ei"
-    },
-    {
-      "added_at": "2025-12-18 12:07:00",
-      "album": {
-        "name": "WHERE IS MY HUSBAND!",
-        "url": "https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 197142,
-      "name": "WHERE IS MY HUSBAND!",
-      "url": "https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm"
     },
     {
       "added_at": "2026-05-05 15:03:06",
@@ -609,20 +581,104 @@
       "url": "https://open.spotify.com/track/277bBvikhaNZo2sDjOGCVG"
     },
     {
-      "added_at": "2026-03-09 09:21:27",
+      "added_at": "2025-12-18 12:06:21",
       "album": {
-        "name": "Fabulous",
-        "url": "https://open.spotify.com/album/4RxIQmhjviMgTLRbCosPoN"
+        "name": "Man I Need",
+        "url": "https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a"
       },
       "artists": [
         {
-          "name": "MEEK",
-          "url": "https://open.spotify.com/artist/1eg46ke5TEIuJpypjaSvi0"
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
         }
       ],
-      "duration_ms": 153351,
-      "name": "Fabulous",
-      "url": "https://open.spotify.com/track/1LkpaAtSjAx5n4rrTkIQyu"
+      "duration_ms": 184000,
+      "name": "Man I Need",
+      "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
+    },
+    {
+      "added_at": "2026-05-19 10:59:03",
+      "album": {
+        "name": "NI BORRACHO",
+        "url": "https://open.spotify.com/album/56abbxkslQf53jbbIInCD3"
+      },
+      "artists": [
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "duration_ms": 248440,
+      "name": "NI BORRACHO",
+      "url": "https://open.spotify.com/track/3ltpc2goYCfKT8AbWwqQvc"
+    },
+    {
+      "added_at": "2026-05-12 11:47:56",
+      "album": {
+        "name": "Dracula",
+        "url": "https://open.spotify.com/album/2kCjkEVRnLdEV5UOaQSAG4"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 205308,
+      "name": "Dracula",
+      "url": "https://open.spotify.com/track/709ZIqPHyFOpx2QdjmeWAM"
+    },
+    {
+      "added_at": "2026-04-13 08:31:09",
+      "album": {
+        "name": "To Love Somebody",
+        "url": "https://open.spotify.com/album/0YZQHiFydiWcBpISxOCFdc"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "duration_ms": 237952,
+      "name": "To Love Somebody",
+      "url": "https://open.spotify.com/track/17LuVd2gBc7UvcgZbm1cFV"
+    },
+    {
+      "added_at": "2025-12-18 12:07:00",
+      "album": {
+        "name": "WHERE IS MY HUSBAND!",
+        "url": "https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 197142,
+      "name": "WHERE IS MY HUSBAND!",
+      "url": "https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm"
+    },
+    {
+      "added_at": "2026-05-19 11:01:19",
+      "album": {
+        "name": "RUNWAY",
+        "url": "https://open.spotify.com/album/0WY1wVmchFYlH4f1yZMc90"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 171010,
+      "name": "RUNWAY",
+      "url": "https://open.spotify.com/track/7BjcYqD0CqXnG45ezWSTYR"
     },
     {
       "added_at": "2025-10-27 10:28:44",
@@ -649,72 +705,52 @@
       "url": "https://open.spotify.com/track/3Dy4xsff7c0fRaTJpA54yd"
     },
     {
-      "added_at": "2026-05-12 11:47:56",
+      "added_at": "2026-05-26 14:04:39",
       "album": {
-        "name": "Dracula",
-        "url": "https://open.spotify.com/album/2kCjkEVRnLdEV5UOaQSAG4"
+        "name": "LET ME BE",
+        "url": "https://open.spotify.com/album/4mqcYdXFQJGtduC8XWX8op"
       },
       "artists": [
         {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+          "name": "The Second Voice",
+          "url": "https://open.spotify.com/artist/62DJxMVn5UY5avf5dOvg30"
         }
       ],
-      "duration_ms": 205308,
-      "name": "Dracula",
-      "url": "https://open.spotify.com/track/709ZIqPHyFOpx2QdjmeWAM"
+      "duration_ms": 189853,
+      "name": "LET ME BE",
+      "url": "https://open.spotify.com/track/3Ggrf13afYb41oxbnpafPR"
     },
     {
-      "added_at": "2026-05-19 10:59:03",
+      "added_at": "2026-05-19 11:02:01",
       "album": {
-        "name": "NI BORRACHO",
-        "url": "https://open.spotify.com/album/56abbxkslQf53jbbIInCD3"
+        "name": "Don't Forget About Me, Demos",
+        "url": "https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY"
       },
       "artists": [
         {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
         }
       ],
-      "duration_ms": 248440,
-      "name": "NI BORRACHO",
-      "url": "https://open.spotify.com/track/3ltpc2goYCfKT8AbWwqQvc"
+      "duration_ms": 97960,
+      "name": "Babydoll",
+      "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
     },
     {
-      "added_at": "2026-02-23 09:28:36",
+      "added_at": "2026-03-09 09:21:27",
       "album": {
-        "name": "Iconic",
-        "url": "https://open.spotify.com/album/0HgLE4fEcT5oFPbMRF4Ej3"
+        "name": "Fabulous",
+        "url": "https://open.spotify.com/album/4RxIQmhjviMgTLRbCosPoN"
       },
       "artists": [
         {
-          "name": "A*Teens",
-          "url": "https://open.spotify.com/artist/5zMgvYBz4AW0gFyPtg7fR9"
+          "name": "MEEK",
+          "url": "https://open.spotify.com/artist/1eg46ke5TEIuJpypjaSvi0"
         }
       ],
-      "duration_ms": 178000,
-      "name": "Iconic",
-      "url": "https://open.spotify.com/track/5FjvINvxiM03aNN7o1nUVc"
-    },
-    {
-      "added_at": "2026-05-19 11:01:19",
-      "album": {
-        "name": "RUNWAY",
-        "url": "https://open.spotify.com/album/0WY1wVmchFYlH4f1yZMc90"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        },
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 171010,
-      "name": "RUNWAY",
-      "url": "https://open.spotify.com/track/7BjcYqD0CqXnG45ezWSTYR"
+      "duration_ms": 153351,
+      "name": "Fabulous",
+      "url": "https://open.spotify.com/track/1LkpaAtSjAx5n4rrTkIQyu"
     },
     {
       "added_at": "2025-10-15 09:33:43",
@@ -757,54 +793,22 @@
       "url": "https://open.spotify.com/track/5lu4L7DP5K8h8XIZuqnUWn"
     },
     {
-      "added_at": "2026-04-27 10:17:37",
+      "added_at": "2026-05-26 14:05:40",
       "album": {
-        "name": "The Way We Touch",
-        "url": "https://open.spotify.com/album/4BZUr9W8PmYcwfzM6aHg12"
+        "name": "EPA",
+        "url": "https://open.spotify.com/album/42bmZVf8s1S0wMhY7HrBGZ"
       },
       "artists": [
         {
-          "name": "Charlotte Cardin",
-          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
         }
       ],
-      "duration_ms": 189588,
-      "name": "The Way We Touch",
-      "url": "https://open.spotify.com/track/4A5RlP9QGsqPdTwCOpcwKK"
-    },
-    {
-      "added_at": "2026-02-23 09:29:29",
-      "album": {
-        "name": "Els ulls que et mirin",
-        "url": "https://open.spotify.com/album/1XsnXQGHn8w6GFfLFd5fUn"
-      },
-      "artists": [
-        {
-          "name": "Sexenni",
-          "url": "https://open.spotify.com/artist/4u6NigaxBfdKYhDdifXSCR"
-        }
-      ],
-      "duration_ms": 162263,
-      "name": "Els ulls que et mirin",
-      "url": "https://open.spotify.com/track/3QMHVZiRo6PKSTY8bAqH6t"
-    },
-    {
-      "added_at": "2026-05-19 11:02:01",
-      "album": {
-        "name": "Don't Forget About Me, Demos",
-        "url": "https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "duration_ms": 97960,
-      "name": "Babydoll",
-      "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
+      "duration_ms": 202542,
+      "name": "EPA",
+      "url": "https://open.spotify.com/track/1DtGtvgGRxsfHfwQu3cqfw"
     }
   ],
-  "unique_name": "LA LLISTA DE FLAIXBAC (17/05/2026)",
+  "unique_name": "LA LLISTA DE FLAIXBAC (24/05/2026)",
   "url": "https://open.spotify.com/playlist/65txKM8JvWVEJORHstAcVL"
 }

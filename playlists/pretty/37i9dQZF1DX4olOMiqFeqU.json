@@ -1,6 +1,6 @@
 {
   "description": "100% Pinoy hits from your favorite artists!",
-  "num_followers": 2488297,
+  "num_followers": 2488553,
   "original_name": "OPM Favorites",
   "owner": {
     "name": "Spotify",
@@ -335,22 +335,6 @@
     {
       "added_at": "2026-05-20 10:30:00",
       "album": {
-        "name": "Marilag",
-        "url": "https://open.spotify.com/album/55B7nAZ0c4QF5pdHhVOkRY"
-      },
-      "artists": [
-        {
-          "name": "Dionela",
-          "url": "https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj"
-        }
-      ],
-      "duration_ms": 157692,
-      "name": "Marilag",
-      "url": "https://open.spotify.com/track/2zbq6eS68i4NIJWekIuW1s"
-    },
-    {
-      "added_at": "2026-05-20 10:30:00",
-      "album": {
         "name": "Pagsamo",
         "url": "https://open.spotify.com/album/668hRB0T4LU6a7HVspAMKy"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 297001,
       "name": "Pagsamo",
       "url": "https://open.spotify.com/track/0WZqHCoOBXqgCCIsUZLC2a"
+    },
+    {
+      "added_at": "2026-05-20 10:30:00",
+      "album": {
+        "name": "Marilag",
+        "url": "https://open.spotify.com/album/55B7nAZ0c4QF5pdHhVOkRY"
+      },
+      "artists": [
+        {
+          "name": "Dionela",
+          "url": "https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj"
+        }
+      ],
+      "duration_ms": 157692,
+      "name": "Marilag",
+      "url": "https://open.spotify.com/track/2zbq6eS68i4NIJWekIuW1s"
     },
     {
       "added_at": "2026-05-20 10:30:00",
@@ -419,6 +419,22 @@
     {
       "added_at": "2026-05-20 10:30:00",
       "album": {
+        "name": "Pa-umaga",
+        "url": "https://open.spotify.com/album/6d3mjDBVhzN8ianGFJsKKE"
+      },
+      "artists": [
+        {
+          "name": "Al James",
+          "url": "https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm"
+        }
+      ],
+      "duration_ms": 189019,
+      "name": "Pa-umaga",
+      "url": "https://open.spotify.com/track/3U8MbjNAP56IrzpbEFn1qN"
+    },
+    {
+      "added_at": "2026-05-20 10:30:00",
+      "album": {
         "name": "sining (feat. Jay R)",
         "url": "https://open.spotify.com/album/6dsECFlRFW0X7ZmpjZzI3m"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 200000,
       "name": "sining (feat. Jay R)",
       "url": "https://open.spotify.com/track/1imaIe1NEAaWnLF0BY0V6F"
-    },
-    {
-      "added_at": "2026-05-20 10:30:00",
-      "album": {
-        "name": "Pa-umaga",
-        "url": "https://open.spotify.com/album/6d3mjDBVhzN8ianGFJsKKE"
-      },
-      "artists": [
-        {
-          "name": "Al James",
-          "url": "https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm"
-        }
-      ],
-      "duration_ms": 189019,
-      "name": "Pa-umaga",
-      "url": "https://open.spotify.com/track/3U8MbjNAP56IrzpbEFn1qN"
     },
     {
       "added_at": "2026-05-20 10:30:00",
@@ -559,18 +559,18 @@
     {
       "added_at": "2026-05-20 10:30:00",
       "album": {
-        "name": "Kitchie Nadal",
-        "url": "https://open.spotify.com/album/7beVKW0o7iRoM0eRT3kGfk"
+        "name": "Misteryoso",
+        "url": "https://open.spotify.com/album/6BqP9dOpxUGa7gCunYMw9a"
       },
       "artists": [
         {
-          "name": "Kitchie Nadal",
-          "url": "https://open.spotify.com/artist/4OjU5UP0GFWeniBC82sGBY"
+          "name": "Cup of Joe",
+          "url": "https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN"
         }
       ],
-      "duration_ms": 249080,
-      "name": "Huwag Na Huwag Mong Sasabihin",
-      "url": "https://open.spotify.com/track/4mOjjXKDOR1sel6APULUaN"
+      "duration_ms": 221641,
+      "name": "Misteryoso",
+      "url": "https://open.spotify.com/track/0kE1SmlJNLg14dgdo9kJws"
     },
     {
       "added_at": "2026-05-20 10:30:00",
@@ -607,34 +607,18 @@
     {
       "added_at": "2026-05-20 10:30:00",
       "album": {
-        "name": "Misteryoso",
-        "url": "https://open.spotify.com/album/6BqP9dOpxUGa7gCunYMw9a"
+        "name": "Kitchie Nadal",
+        "url": "https://open.spotify.com/album/7beVKW0o7iRoM0eRT3kGfk"
       },
       "artists": [
         {
-          "name": "Cup of Joe",
-          "url": "https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN"
+          "name": "Kitchie Nadal",
+          "url": "https://open.spotify.com/artist/4OjU5UP0GFWeniBC82sGBY"
         }
       ],
-      "duration_ms": 221641,
-      "name": "Misteryoso",
-      "url": "https://open.spotify.com/track/0kE1SmlJNLg14dgdo9kJws"
-    },
-    {
-      "added_at": "2026-05-20 10:30:00",
-      "album": {
-        "name": "Love And Soul",
-        "url": "https://open.spotify.com/album/1e0Tqcfn0eqgFicrFFYNMl"
-      },
-      "artists": [
-        {
-          "name": "Jireh Lim",
-          "url": "https://open.spotify.com/artist/6urxZktbtGcTIIqxQZ1d8q"
-        }
-      ],
-      "duration_ms": 236705,
-      "name": "Magkabilang Mundo",
-      "url": "https://open.spotify.com/track/5AjbSv7nkr78wzmuHEfjg0"
+      "duration_ms": 249080,
+      "name": "Huwag Na Huwag Mong Sasabihin",
+      "url": "https://open.spotify.com/track/4mOjjXKDOR1sel6APULUaN"
     },
     {
       "added_at": "2026-05-20 10:30:00",
@@ -655,18 +639,34 @@
     {
       "added_at": "2026-05-20 10:30:00",
       "album": {
-        "name": "Patlang",
-        "url": "https://open.spotify.com/album/0vax7CV3zjlPXUTlzfwbwn"
+        "name": "Love And Soul",
+        "url": "https://open.spotify.com/album/1e0Tqcfn0eqgFicrFFYNMl"
       },
       "artists": [
         {
-          "name": "Jan Roberts",
-          "url": "https://open.spotify.com/artist/0wuB9WlzVMNvwRJHope3ge"
+          "name": "Jireh Lim",
+          "url": "https://open.spotify.com/artist/6urxZktbtGcTIIqxQZ1d8q"
         }
       ],
-      "duration_ms": 230300,
-      "name": "Patlang",
-      "url": "https://open.spotify.com/track/2OaAviEYdZQz2dCRsJQKBf"
+      "duration_ms": 236705,
+      "name": "Magkabilang Mundo",
+      "url": "https://open.spotify.com/track/5AjbSv7nkr78wzmuHEfjg0"
+    },
+    {
+      "added_at": "2026-05-20 10:30:00",
+      "album": {
+        "name": "Estranghero",
+        "url": "https://open.spotify.com/album/4RVn8ciIB4E7FMEBbmLpNc"
+      },
+      "artists": [
+        {
+          "name": "Cup of Joe",
+          "url": "https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN"
+        }
+      ],
+      "duration_ms": 186610,
+      "name": "Estranghero",
+      "url": "https://open.spotify.com/track/6HVT2c1ZZdhH1nGFb4AxUJ"
     },
     {
       "added_at": "2026-05-20 10:30:00",
@@ -687,18 +687,18 @@
     {
       "added_at": "2026-05-20 10:30:00",
       "album": {
-        "name": "Estranghero",
-        "url": "https://open.spotify.com/album/4RVn8ciIB4E7FMEBbmLpNc"
+        "name": "Patlang",
+        "url": "https://open.spotify.com/album/0vax7CV3zjlPXUTlzfwbwn"
       },
       "artists": [
         {
-          "name": "Cup of Joe",
-          "url": "https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN"
+          "name": "Jan Roberts",
+          "url": "https://open.spotify.com/artist/0wuB9WlzVMNvwRJHope3ge"
         }
       ],
-      "duration_ms": 186610,
-      "name": "Estranghero",
-      "url": "https://open.spotify.com/track/6HVT2c1ZZdhH1nGFb4AxUJ"
+      "duration_ms": 230300,
+      "name": "Patlang",
+      "url": "https://open.spotify.com/track/2OaAviEYdZQz2dCRsJQKBf"
     },
     {
       "added_at": "2026-05-20 10:30:00",

@@ -1,6 +1,6 @@
 {
   "description": "Detroit <a href=\"spotify:genre:techno\">Techno</a> Essentials. Cover: DJ Minx.",
-  "num_followers": 103761,
+  "num_followers": 103765,
   "original_name": "Detroit Techno",
   "owner": {
     "name": "Spotify",
@@ -811,6 +811,22 @@
     {
       "added_at": "2025-08-29 04:00:36",
       "album": {
+        "name": "Neptunes Lair",
+        "url": "https://open.spotify.com/album/4M0QYlDP6vIlrPLEBTZOFz"
+      },
+      "artists": [
+        {
+          "name": "Drexciya",
+          "url": "https://open.spotify.com/artist/3KcV1kKG7Y0Gq7xPAGVjkZ"
+        }
+      ],
+      "duration_ms": 376680,
+      "name": "Andreaen Sand Dunes",
+      "url": "https://open.spotify.com/track/4r0YHR3zvwXER5yrZuKDfP"
+    },
+    {
+      "added_at": "2025-08-29 04:00:36",
+      "album": {
         "name": "Never Grow Old (Re-Plant) / Phobia (Re-Plant)",
         "url": "https://open.spotify.com/album/7nIB2qmP6H7svgk8bIaQC2"
       },
@@ -843,6 +859,22 @@
     {
       "added_at": "2025-08-29 04:00:36",
       "album": {
+        "name": "Azimuth",
+        "url": "https://open.spotify.com/album/3KsHkbdeGg3rnuYVRxWv53"
+      },
+      "artists": [
+        {
+          "name": "Kenny Larkin",
+          "url": "https://open.spotify.com/artist/7A4qanEMCOPcywaqZ01yVV"
+        }
+      ],
+      "duration_ms": 383706,
+      "name": "Q",
+      "url": "https://open.spotify.com/track/5aCcZlUVkBrkQyMl2owvWb"
+    },
+    {
+      "added_at": "2025-08-29 04:00:36",
+      "album": {
         "name": "Juan Atkins & Moritz von Oswald Present Borderland: Transport",
         "url": "https://open.spotify.com/album/0SvoaQ0WhkPJNGjXQT7zOk"
       },
@@ -859,22 +891,6 @@
       "duration_ms": 367500,
       "name": "Lightyears",
       "url": "https://open.spotify.com/track/3MbMCoPu0hE0nZZMspr26k"
-    },
-    {
-      "added_at": "2025-08-29 04:00:36",
-      "album": {
-        "name": "Azimuth",
-        "url": "https://open.spotify.com/album/3KsHkbdeGg3rnuYVRxWv53"
-      },
-      "artists": [
-        {
-          "name": "Kenny Larkin",
-          "url": "https://open.spotify.com/artist/7A4qanEMCOPcywaqZ01yVV"
-        }
-      ],
-      "duration_ms": 383706,
-      "name": "Q",
-      "url": "https://open.spotify.com/track/5aCcZlUVkBrkQyMl2owvWb"
     },
     {
       "added_at": "2025-08-29 04:00:36",
@@ -907,22 +923,6 @@
       "duration_ms": 177885,
       "name": "Right There",
       "url": "https://open.spotify.com/track/5YKYzjEbhcMxzhFgU2CLbf"
-    },
-    {
-      "added_at": "2025-08-29 04:00:36",
-      "album": {
-        "name": "Innovator",
-        "url": "https://open.spotify.com/album/1tCTyOZrTwwmIK4yV8KImY"
-      },
-      "artists": [
-        {
-          "name": "Derrick May",
-          "url": "https://open.spotify.com/artist/0v6N0xV7AfHHKVcgUOjC51"
-        }
-      ],
-      "duration_ms": 432586,
-      "name": "The Dance",
-      "url": "https://open.spotify.com/track/1RxgS5N5HzgFh5YU1SqTYX"
     }
   ],
   "unique_name": "Detroit Techno",

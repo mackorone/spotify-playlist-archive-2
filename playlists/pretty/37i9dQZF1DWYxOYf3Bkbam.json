@@ -1,12 +1,12 @@
 {
   "description": "Entre cl\u00e1sicos y nuevos int\u00e9rpretes, puro Chamam\u00e9.",
-  "num_followers": 65180,
+  "num_followers": 65194,
   "original_name": "Mundo Chamam\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFmXpKGdUB0GfzS3CjTUwmM+eD6s",
+  "snapshot_id": "AAAAALyPvP4iQye+hcqHcRJY1gg6vZVi",
   "tracks": [
     {
       "added_at": "2026-05-18 13:34:35",
@@ -251,22 +251,6 @@
     {
       "added_at": "2026-05-18 13:34:35",
       "album": {
-        "name": "Chamame - Los 100 mejores temas - Vol 4",
-        "url": "https://open.spotify.com/album/508BWmmIii80gEwzMMckYa"
-      },
-      "artists": [
-        {
-          "name": "Pancho Escalada",
-          "url": "https://open.spotify.com/artist/69CBMfMKg8jPd6LR3LOR6f"
-        }
-      ],
-      "duration_ms": 210453,
-      "name": "Seleccion de temas enganchados",
-      "url": "https://open.spotify.com/track/1aAee98bRu8jazbnklPoKJ"
-    },
-    {
-      "added_at": "2026-05-18 13:34:35",
-      "album": {
         "name": "Chamame los 100 mejores temas Vol 1",
         "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 162573,
       "name": "Kilometro 11",
       "url": "https://open.spotify.com/track/3pxUPb40pVruGNixcXTkWv"
+    },
+    {
+      "added_at": "2026-05-18 13:34:35",
+      "album": {
+        "name": "Chamame - Los 100 mejores temas - Vol 4",
+        "url": "https://open.spotify.com/album/508BWmmIii80gEwzMMckYa"
+      },
+      "artists": [
+        {
+          "name": "Pancho Escalada",
+          "url": "https://open.spotify.com/artist/69CBMfMKg8jPd6LR3LOR6f"
+        }
+      ],
+      "duration_ms": 210453,
+      "name": "Seleccion de temas enganchados",
+      "url": "https://open.spotify.com/track/1aAee98bRu8jazbnklPoKJ"
     },
     {
       "added_at": "2026-05-18 13:34:35",
@@ -315,6 +315,22 @@
     {
       "added_at": "2026-05-18 13:34:35",
       "album": {
+        "name": "Mi Primer Amor - Version Chamam\u00e9",
+        "url": "https://open.spotify.com/album/6FApf1TbGRBTBuGqyhB3GE"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "duration_ms": 163109,
+      "name": "Mi Primer Amor - Versi\u00f3n Chamam\u00e9",
+      "url": "https://open.spotify.com/track/6MUOEPhADhWrwYk1JQLNQ6"
+    },
+    {
+      "added_at": "2026-05-18 13:34:35",
+      "album": {
         "name": "20 Grandes Exitos",
         "url": "https://open.spotify.com/album/0KsDfdfztZFSAcwne4wBnx"
       },
@@ -331,18 +347,18 @@
     {
       "added_at": "2026-05-18 13:34:35",
       "album": {
-        "name": "Mi Primer Amor - Version Chamam\u00e9",
-        "url": "https://open.spotify.com/album/6FApf1TbGRBTBuGqyhB3GE"
+        "name": "20 Super\u00e9xitos Originales, Vol. 2",
+        "url": "https://open.spotify.com/album/43Lh5dNFomrbhmIPbMm6Qt"
       },
       "artists": [
         {
-          "name": "Luciano Pereyra",
-          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+          "name": "Trio Cocomarola",
+          "url": "https://open.spotify.com/artist/2IrQFSnzKz4Jb6S1EM3Nqe"
         }
       ],
-      "duration_ms": 163109,
-      "name": "Mi Primer Amor - Versi\u00f3n Chamam\u00e9",
-      "url": "https://open.spotify.com/track/6MUOEPhADhWrwYk1JQLNQ6"
+      "duration_ms": 177213,
+      "name": "Retorno",
+      "url": "https://open.spotify.com/track/6JjBdNgzozYjhQ0Ph8oL8V"
     },
     {
       "added_at": "2026-05-18 13:34:35",
@@ -367,22 +383,6 @@
       "duration_ms": 201247,
       "name": "Alguien Mejor Que Yo",
       "url": "https://open.spotify.com/track/2hmWVUzKNZH0nYa1OAR5oT"
-    },
-    {
-      "added_at": "2026-05-18 13:34:35",
-      "album": {
-        "name": "20 Super\u00e9xitos Originales, Vol. 2",
-        "url": "https://open.spotify.com/album/43Lh5dNFomrbhmIPbMm6Qt"
-      },
-      "artists": [
-        {
-          "name": "Trio Cocomarola",
-          "url": "https://open.spotify.com/artist/2IrQFSnzKz4Jb6S1EM3Nqe"
-        }
-      ],
-      "duration_ms": 177213,
-      "name": "Retorno",
-      "url": "https://open.spotify.com/track/6JjBdNgzozYjhQ0Ph8oL8V"
     },
     {
       "added_at": "2026-05-18 13:34:35",
@@ -607,22 +607,6 @@
     {
       "added_at": "2026-05-18 13:34:35",
       "album": {
-        "name": "Coraz\u00f3n Chamamecero",
-        "url": "https://open.spotify.com/album/0gswITpRLEupnT7EftX6sZ"
-      },
-      "artists": [
-        {
-          "name": "Emiliano Cardozo Y Los Cardocitos",
-          "url": "https://open.spotify.com/artist/1xCZcvonWAPlRE2fsy8Y1j"
-        }
-      ],
-      "duration_ms": 208346,
-      "name": "El Gaucho Gil",
-      "url": "https://open.spotify.com/track/57Fe8WMp65ur02mOXCbYYg"
-    },
-    {
-      "added_at": "2026-05-18 13:34:35",
-      "album": {
         "name": "Consagraci\u00f3n del Chamam\u00e9",
         "url": "https://open.spotify.com/album/0kEF93WZ8CIPwwNeqCRaq1"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 163920,
       "name": "A\u00f1oranzas",
       "url": "https://open.spotify.com/track/6ctYrtmkOhEulwp0OgFRrq"
+    },
+    {
+      "added_at": "2026-05-18 13:34:35",
+      "album": {
+        "name": "Coraz\u00f3n Chamamecero",
+        "url": "https://open.spotify.com/album/0gswITpRLEupnT7EftX6sZ"
+      },
+      "artists": [
+        {
+          "name": "Emiliano Cardozo Y Los Cardocitos",
+          "url": "https://open.spotify.com/artist/1xCZcvonWAPlRE2fsy8Y1j"
+        }
+      ],
+      "duration_ms": 208346,
+      "name": "El Gaucho Gil",
+      "url": "https://open.spotify.com/track/57Fe8WMp65ur02mOXCbYYg"
     },
     {
       "added_at": "2026-05-18 13:34:35",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2026-05-18 13:34:35",
       "album": {
-        "name": "Por Siempre Chamam\u00e9",
-        "url": "https://open.spotify.com/album/0KQtJNmeSj88kxgtresuLu"
-      },
-      "artists": [
-        {
-          "name": "Miguel Arce y La Yunta del Chamam\u00e9",
-          "url": "https://open.spotify.com/artist/61kxyPHjk1ql5qfFrLJXuM"
-        }
-      ],
-      "duration_ms": 145840,
-      "name": "Por Siempre Chamam\u00e9",
-      "url": "https://open.spotify.com/track/4jTm8wb7chFcVFwcWXhHpN"
-    },
-    {
-      "added_at": "2026-05-18 13:34:35",
-      "album": {
         "name": "Chamame los 100 mejores temas Vol 1",
         "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 120720,
       "name": "Jineteando",
       "url": "https://open.spotify.com/track/0eyjFUUJMTX4XjNClJBKUl"
+    },
+    {
+      "added_at": "2026-05-18 13:34:35",
+      "album": {
+        "name": "Por Siempre Chamam\u00e9",
+        "url": "https://open.spotify.com/album/0KQtJNmeSj88kxgtresuLu"
+      },
+      "artists": [
+        {
+          "name": "Miguel Arce y La Yunta del Chamam\u00e9",
+          "url": "https://open.spotify.com/artist/61kxyPHjk1ql5qfFrLJXuM"
+        }
+      ],
+      "duration_ms": 145840,
+      "name": "Por Siempre Chamam\u00e9",
+      "url": "https://open.spotify.com/track/4jTm8wb7chFcVFwcWXhHpN"
     },
     {
       "added_at": "2026-05-18 13:34:35",

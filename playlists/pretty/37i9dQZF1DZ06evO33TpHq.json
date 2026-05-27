@@ -1,12 +1,12 @@
 {
   "description": "This is Phil Wickham. The essential tracks, all in one playlist.",
-  "num_followers": 64646,
+  "num_followers": 64658,
   "original_name": "This Is Phil Wickham",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahI/gAAAAADIa9VEiIz3EqGPzPP5R6ny",
+  "snapshot_id": "ahORAAAAAABbqNYZ6Jc9zxpUm7Lpmzwr",
   "tracks": [
     {
       "added_at": null,
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
         }
       ],
-      "duration_ms": 273800,
-      "name": "Able",
-      "url": "https://open.spotify.com/track/5up1i2KXfTgSF7x1dIJZQl"
+      "duration_ms": 239666,
+      "name": "Running To A Runaway",
+      "url": "https://open.spotify.com/track/5LQ9sggtmciQlOQmV79wDA"
     },
     {
       "added_at": null,
@@ -527,6 +527,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Children of God",
+        "url": "https://open.spotify.com/album/5Huo8k3PTFpQLlxNak5fMN"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 233720,
+      "name": "Your Love Awakens Me",
+      "url": "https://open.spotify.com/track/0jdWct4BgFwuZVWAtAg3DL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "DAVID (Soundtrack from the Angel Original Film)",
         "url": "https://open.spotify.com/album/0SwDHyoBXernhnL9scgLDq"
       },
@@ -547,22 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Children of God",
-        "url": "https://open.spotify.com/album/5Huo8k3PTFpQLlxNak5fMN"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 233720,
-      "name": "Your Love Awakens Me",
-      "url": "https://open.spotify.com/track/0jdWct4BgFwuZVWAtAg3DL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Song Of The Saints",
         "url": "https://open.spotify.com/album/2EENECQqPyRT1fsKVn5fbK"
       },
@@ -572,9 +572,9 @@
           "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
         }
       ],
-      "duration_ms": 239666,
-      "name": "Running To A Runaway",
-      "url": "https://open.spotify.com/track/5LQ9sggtmciQlOQmV79wDA"
+      "duration_ms": 273800,
+      "name": "Able",
+      "url": "https://open.spotify.com/track/5up1i2KXfTgSF7x1dIJZQl"
     },
     {
       "added_at": null,

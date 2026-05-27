@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO01ZMJO.md) - [plain]
 
 > This is Outsiders\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,812 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,823 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO01ZMJO.md) - [plain]
 | 49 | [Rebls 4 Life](https://open.spotify.com/track/632MogW61VKRFtmvYuY8jV) | [Bass Chaserz](https://open.spotify.com/artist/5SxjKJ2HIg3dVQ427HYVHS), [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf) | [Rebls 4 Life](https://open.spotify.com/album/7y6SPprhgZXGYlzADaw8AP) | 3:31 |
 | 50 | [Break The Rules](https://open.spotify.com/track/1DI9mNWrW3LdQVWPprPRvm) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [Partyraiser](https://open.spotify.com/artist/39cgo5SPJygKIlIcrwkd73) | [Break The Rules](https://open.spotify.com/album/2e0jHlBzOby8CWE025x6I2) | 3:51 |
 
-Snapshot ID: `ahI/gAAAAABkZLJuAqZciyfH4MeK0ael`
+Snapshot ID: `ahORAAAAAADzsrfNAgAxLXwY9rSnx30/`

@@ -4,7 +4,7 @@
 
 > 再び脚光を浴びる日本のシティ・ポップの今をお届けします。
 
-961 songs - 2 day 15 hr 22 min
+962 songs - 2 day 15 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -284,7 +284,7 @@
 | [Lil Bit \(feat\. Asako Toki\)](https://open.spotify.com/track/40DhQ5cNina0ZMeS8GMC8O) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [Asako Toki](https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y) | [Lil Bit \(feat\. Asako Toki\)](https://open.spotify.com/album/1eyxkpJPEvXdJ3puCYac8u) | 3:44 | 2024-08-21 | 2025-03-26 |
 | [Link](https://open.spotify.com/track/7IgGcxTQE1OHbPpkzpWhTg) | [明透](https://open.spotify.com/artist/71e65rSv8Dh3bfWNPQ1V1Q) | [Link](https://open.spotify.com/album/0eg7LlLnpWCRqUv45BNyy7) | 3:27 | 2025-05-13 | 2025-11-05 |
 | [Lively Christmas](https://open.spotify.com/track/53DGlr6zHEfNFQV4719Wsd) | [YONA YONA WEEKENDERS](https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR) | [Lively Christmas](https://open.spotify.com/album/4XRSy18v6qt4iAzmqc9rXi) | 3:18 | 2023-11-21 | 2023-12-14 |
-| [Loneliness](https://open.spotify.com/track/0dPQXzKfYSVPCoTftltoiC) | [Funkindustry](https://open.spotify.com/artist/0QYdME0a29bLqdSqKaprOX), [Natsu Summer](https://open.spotify.com/artist/4l3pCmSMjqdSkhWUZp6jCD) | [Loneliness](https://open.spotify.com/album/0rtgFB3NTb4M2hjJcU05zJ) | 4:14 | 2023-03-30 |  |
+| [Loneliness](https://open.spotify.com/track/0dPQXzKfYSVPCoTftltoiC) | [Funkindustry](https://open.spotify.com/artist/0QYdME0a29bLqdSqKaprOX), [Natsu Summer](https://open.spotify.com/artist/4l3pCmSMjqdSkhWUZp6jCD) | [Loneliness](https://open.spotify.com/album/0rtgFB3NTb4M2hjJcU05zJ) | 4:14 | 2023-03-30 | 2026-05-27 |
 | [Lonely One](https://open.spotify.com/track/5F5P9HHegA1dSyoRaZvYaf) | [Nariaki](https://open.spotify.com/artist/6VhZSXucPwAlDJD1j2Zayk), [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [分離派の夏](https://open.spotify.com/album/2VoiEyYHs8DJvDZFa5IPi2) | 4:39 | 2024-09-25 | 2025-04-24 |
 | [long island iced tea](https://open.spotify.com/track/65odcT5IsIASZI5sRmXlhQ) | [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb) | [long island iced tea](https://open.spotify.com/album/6PmL0VtPsbrOg5w4U6J8VJ) | 3:18 | 2023-08-29 | 2023-11-11 |
 | [LOOP](https://open.spotify.com/track/0njFXMhCDQ1MHAZJXurgvN) | [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [FEEL GOOD](https://open.spotify.com/album/3rpZ8w31gIKrqWXI4hSlmn) | 5:05 | 2024-04-16 | 2025-03-13 |
@@ -654,6 +654,7 @@
 | [あぁ今夜](https://open.spotify.com/track/3asGK7ycXJC1HtcvewMOG7) | [THREE1989](https://open.spotify.com/artist/43pUK083tLA3lk3JQr5ATn) | [あぁ今夜](https://open.spotify.com/album/7BX56jR6zhj6mGmGtIqQ1o) | 4:00 | 2022-08-02 | 2022-08-10 |
 | [あいつのLIFE](https://open.spotify.com/track/6BA4MNy5ADPO4A65Cgi3RM) | [Shin Rizumu](https://open.spotify.com/artist/0KZ7Lk1c6rpp0nwvY9EuD4) | [Musica Popular Japonesa](https://open.spotify.com/album/01NUYwN3OhNLqkKaDrTy2M) | 4:28 | 2022-11-22 | 2022-12-14 |
 | [あなたとContigo](https://open.spotify.com/track/5VTCQoa0aLoSxZcked94A5) | [HITOMITOI](https://open.spotify.com/artist/3Uj4f5PGdIJEhCJkqysb3l), [Juanpalitoschinos](https://open.spotify.com/artist/2QznoP8SaZXOHkgZfvHlZa) | [Telepa Telepa](https://open.spotify.com/album/4ZepYRvl5D4aMx3WSVdorF) | 3:20 | 2025-03-25 | 2025-10-01 |
+| [あなたの形の霧の中で](https://open.spotify.com/track/45BS4oogIChJr66wJtiYuz) | [えんぷてい](https://open.spotify.com/artist/7zzRFLfG1OzxyobuR74moh) | [あなたの形の霧の中で](https://open.spotify.com/album/18X1VeLsXy0TtwayYiUm5r) | 4:14 | 2026-05-26 |  |
 | [あなたはトリコ](https://open.spotify.com/track/2gkYR4SyJu4TDHz8r39B7y) | [RYUSENKEI](https://open.spotify.com/artist/1gBNLiQMaCcBdQ9fIP4ltM) | [あなたはトリコ](https://open.spotify.com/album/6FceyUYmiyCgs67TWi3OhA) | 4:45 | 2024-04-23 | 2024-08-03 |
 | [あなたゆずり](https://open.spotify.com/track/0ayWf9vhCaUhMNHTOvNXI3) | [Penthouse](https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L) | [Living Room](https://open.spotify.com/album/17wsj6ok978OcBQhmNexce) | 4:11 | 2022-05-24 |  |
 | [あらわれないで](https://open.spotify.com/track/4J355x8SX4orM1H3tyPBFa) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [あらわれないで](https://open.spotify.com/album/3Of0ZbIf2fr4VTCoy8YNxY) | 3:57 | 2024-01-30 |  |

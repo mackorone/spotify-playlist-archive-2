@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1qM6uIWT515JJgESWF8Qba.md) - [plain]
 
 > It&\#x27;s 5 o&\#x27;clock somewhere and best believe there&\#x27;s a local band there ready to rock when the sun goes down.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 449 likes - 52 songs - 3 hr 25 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 451 likes - 55 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,5 +60,8 @@ pretty - [cumulative](/playlists/cumulative/1qM6uIWT515JJgESWF8Qba.md) - [plain]
 | 50 | [Heart of a Coward](https://open.spotify.com/track/7vmfuBMDV2eQsjFm2rLPLv) | [Starikova](https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA) | [Heart of a Coward / Maelstrom](https://open.spotify.com/album/2GFTJ5HJLN861GRR7jpwGB) | 4:30 |
 | 51 | [Let's Do It Again](https://open.spotify.com/track/0tZ9lz19MPyCJDlOQ078NO) | [Pink Cliffs](https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR) | [Let's Do It Again](https://open.spotify.com/album/5cfYAyMa2BN1b8yup5F6TL) | 4:28 |
 | 52 | [Narcissus](https://open.spotify.com/track/3TEPXf5UCrgNTHo5iTZedr) | [X\-Rated 1994](https://open.spotify.com/artist/71QiZSo2Jl9MO98vg3JSO0) | [Narcissus](https://open.spotify.com/album/3zui8JpZjtJo7xpMezSukq) | 8:04 |
+| 53 | [The Mold](https://open.spotify.com/track/6lKQLhmqknMDhFbIg6LcQe) | [Twist & Writhe](https://open.spotify.com/artist/4zRz9OrERKG1EJriVM7U0s) | [The Mold](https://open.spotify.com/album/2hp2SmGFWZsIlEQIkavftE) | 3:59 |
+| 54 | [Melbourne Cat](https://open.spotify.com/track/72cmQI7HC2RNIKeGbKUPNH) | [Jack Dahlqvist](https://open.spotify.com/artist/3J2oT5Sue8H2uhUVDvw1bI) | [Melbourne Cat](https://open.spotify.com/album/0acC0pSJGsYNirxkfWlOxK) | 4:18 |
+| 55 | [Bad Penny](https://open.spotify.com/track/5VJLnfXSib5ZcoQD4ugJuS) | [Julience](https://open.spotify.com/artist/4SlykBMGNk8EXDDFfphLvL) | [Bad Penny](https://open.spotify.com/album/0WlFjbYONFwfyUeIyoCbCO) | 4:27 |
 
-Snapshot ID: `AAABwpKrrQWBjVrDzzw3d7bsew6ufUWS`
+Snapshot ID: `AAABxeQ+ZsJWY17MSxJfbiJGmeHLah7S`

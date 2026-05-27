@@ -1,12 +1,12 @@
 {
   "description": "This is Aline Barros. The essential tracks, all in one playlist.",
-  "num_followers": 162686,
+  "num_followers": 162684,
   "original_name": "This Is Aline Barros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahI/gAAAAABuNyXFqpzLZIBR45FcVLk/",
+  "snapshot_id": "ahORAAAAAAAZRgUAP3ohjHc87plFTKjb",
   "tracks": [
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Caminho de Milagres",
-        "url": "https://open.spotify.com/album/28aJm8Sn0MLMUXi20GMk7u"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 275295,
-      "name": "Caminho de Milagres",
-      "url": "https://open.spotify.com/track/6tN9l7ThcLuuwVbt773zIX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pai Presente",
         "url": "https://open.spotify.com/album/682eYG75UszY1zmE0yHhys"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 293684,
       "name": "Pai Presente",
       "url": "https://open.spotify.com/track/17A6kCom591jICydbChxCk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Caminho de Milagres",
+        "url": "https://open.spotify.com/album/28aJm8Sn0MLMUXi20GMk7u"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 275295,
+      "name": "Caminho de Milagres",
+      "url": "https://open.spotify.com/track/6tN9l7ThcLuuwVbt773zIX"
     },
     {
       "added_at": null,
@@ -851,26 +851,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aline Barros e Cia Tim- Tim por Tim- Tim",
-        "url": "https://open.spotify.com/album/7gLii9nd4WFKyj5MIarXka"
+        "name": "Aline Barros e Cia",
+        "url": "https://open.spotify.com/album/5RFApbqCFVwb3ABVj8Q8w4"
       },
       "artists": [
         {
           "name": "Aline Barros",
           "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        },
-        {
-          "name": "ImaginAline",
-          "url": "https://open.spotify.com/artist/1LAIQWBGrbEFFMnkSnDXHN"
-        },
-        {
-          "name": "Maria Catherine",
-          "url": "https://open.spotify.com/artist/5oo41WSAfHfZ3nxers5DzL"
         }
       ],
-      "duration_ms": 216608,
-      "name": "Casinha de Jesus (feat. Maria Catherine)",
-      "url": "https://open.spotify.com/track/1125p0Bk6yVijF1eV4Q8wo"
+      "duration_ms": 177818,
+      "name": "Louvar \u00e9 Bom Demais",
+      "url": "https://open.spotify.com/track/52bR6NwdMWJUc8rXuWwxjh"
     }
   ],
   "unique_name": "This Is Aline Barros",

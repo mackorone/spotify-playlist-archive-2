@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 
 > FREE SUBMISSIONS \- Got unreleased music in 2025 or like to hear unsigned artists?  30 days free promotion for new music\. Just submit via my linktree: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;Anythings.Possible.Music
 
-[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 5,576 likes - 290 songs - 15 hr 39 min
+[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 5,585 likes - 308 songs - 16 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -298,5 +298,23 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 | 288 | [Not My Boyfriend](https://open.spotify.com/track/4jSCbJoSYnzecbIILbW3tk) | [Davi Crowne](https://open.spotify.com/artist/7MNZVfGPgjBa6VTM4hpc8s) | [Almost Always](https://open.spotify.com/album/22SDpoOZDMQHUkKHJeWoC5) | 2:49 |
 | 289 | [I Ain't Country But My Friends Are](https://open.spotify.com/track/2WJVd7kvQzHf7K8WiaSuwI) | [Jason Jarrett](https://open.spotify.com/artist/4rgw61pW4Elbxf14ssmWWO) | [I Ain't Country But My Friends Are](https://open.spotify.com/album/3R0IHEg0SvcUrkwnG0ehJO) | 3:37 |
 | 290 | [The Flame](https://open.spotify.com/track/5sv9RrS15XZmLv5k1llDTF) | [Fishburn](https://open.spotify.com/artist/2hZ0ipXOnImt0uNT9VbAhP) | [The Flame](https://open.spotify.com/album/44VJhlF31Rfvl7evnRFjjw) | 4:42 |
+| 291 | [Too Late](https://open.spotify.com/track/35sGt18IC60WKxa4yWPQ6k) | [NYROS RAY](https://open.spotify.com/artist/04yVrTH59bbO6VJXQvpdZv) | [Too Late](https://open.spotify.com/album/5mqUxIVALcXZijckupme57) | 3:13 |
+| 292 | [Will I Rise Again](https://open.spotify.com/track/56ZrOIav8UCpLdaZYuJJsw) | [Vision Division](https://open.spotify.com/artist/3c5wp7g39ciIcdOOPYiQlG) | [Will I Rise Again](https://open.spotify.com/album/6VGk18RKx7v5BnMXPA0N83) | 3:30 |
+| 293 | [Little Bitty](https://open.spotify.com/track/123vbFZtmN7bn8EQsoxBfW) | [LeRoy Stoltzfus](https://open.spotify.com/artist/5Q7K5GJiNLRz7L056UpwYf), [Amanda Joy](https://open.spotify.com/artist/3W9ZsmdVmIpe7T0km4MCqI) | [Little Bitty](https://open.spotify.com/album/2ohLcM5lkoGYpRswGhONQl) | 2:33 |
+| 294 | [Aureate](https://open.spotify.com/track/604Tab6iDEkUJDc78d9pcb) | [NANA](https://open.spotify.com/artist/5RbjuYAV1REY19qABsiJnH) | [The Edge](https://open.spotify.com/album/0B4GhE0pbBE7eVTUTCs52f) | 2:24 |
+| 295 | [I'll Be There](https://open.spotify.com/track/2KbzRW5DYC9H5Ht5KozvC7) | [Nova Laen](https://open.spotify.com/artist/0TyUS7iLsP9ctdwhKk2AdG) | [I'll Be There](https://open.spotify.com/album/4qKRIUglDb8GPN0wDlr0CR) | 2:22 |
+| 296 | [When the One I Love Loves Me](https://open.spotify.com/track/1dZzTDYpQABp7JymSZ5dBX) | [Paul Shaheen](https://open.spotify.com/artist/52lDLTd5MAsIMkHaFGtSOj), [Alina Celeste](https://open.spotify.com/artist/7F6tC1pdqBhUCi7AbfNxz6) | [When the One I Love Loves Me](https://open.spotify.com/album/1Hml8MvlVYmQLXWFcIsCyD) | 2:08 |
+| 297 | [Heart in Her Pocket](https://open.spotify.com/track/64Nofm5a3ztdZyx9obSmJK) | [Evan Fahey](https://open.spotify.com/artist/5UQEmHxArWrbjMM94TFVFi) | [Heart in Her Pocket](https://open.spotify.com/album/74AN2NpoCQ8gqUM7InXJCn) | 2:34 |
+| 298 | [Miss Myself](https://open.spotify.com/track/636IVRpCY4wj7aP5fTqsvl) | [Caden Churcher](https://open.spotify.com/artist/5BgO8UqiDYiBHAKIaCRyOD) | [Miss Myself](https://open.spotify.com/album/04bVBtCJzYe5IsV3qWBfhN) | 3:10 |
+| 299 | [Veloz](https://open.spotify.com/track/684O5uzlLPREElx1sVhy1P) | [Melany Cubero](https://open.spotify.com/artist/4OrIEJHh24oAbE1evJRR7c) | [Invisible](https://open.spotify.com/album/26CgmwfJA3HjUE9A8SBZ47) | 3:12 |
+| 300 | [What Makes A Mind Go Quiet?](https://open.spotify.com/track/79ZtaenmHDDyiY6DfIKBHm) | [Jeanette Summers](https://open.spotify.com/artist/2xJV4YACXieIEFM5iH9VLi) | [What Makes A Mind Go Quiet?](https://open.spotify.com/album/5Xu89V7e73HnYZLHEHEktJ) | 2:30 |
+| 301 | [Dark Side of Love](https://open.spotify.com/track/0k51XucVebqhTfkehioFLy) | [Harrison Jay](https://open.spotify.com/artist/1IP2JOtGneRPhNZEJTo4TG), [Shreyansh Janagal](https://open.spotify.com/artist/0JscdeMsX5DwnCOtuTsVcA) | [Dark Side of Love](https://open.spotify.com/album/3fEeOE8uqGtiNQ9mLy3bl1) | 3:12 |
+| 302 | [Open Range\_Master](https://open.spotify.com/track/5Mq4CqaYwa7znm7NQF4aou) | [Тульженко Евгений](https://open.spotify.com/artist/5Hxn6e8uErpJw2IxVsKGen) | [Open Range\_Master](https://open.spotify.com/album/2xMilzQcvvXXvGZxjACcTU) | 2:11 |
+| 303 | [Same Mistakes](https://open.spotify.com/track/07Lj6I4j3QfgXFbw6mggnd) | [Garrett Alden](https://open.spotify.com/artist/0T5bh425SYZUxjFzxhTzRS) | [Same Mistakes](https://open.spotify.com/album/35suOMPaZR6ySo7z7GBRaT) | 2:33 |
+| 304 | [Feeling Not Wanting](https://open.spotify.com/track/1FcrkOJcMmwwle9vJK5f7O) | [Palha](https://open.spotify.com/artist/4L4soCWqbNPNA8bus2W58a) | [Wanted](https://open.spotify.com/album/55iCEYbBmnuuRr7emLyp8Z) | 3:17 |
+| 305 | [Mysterious](https://open.spotify.com/track/6FW6AQiIaVjFIAQsX3UcrQ) | [DAVVY](https://open.spotify.com/artist/4HGmYzh4xFEcDLhgwoxy6n) | [Mysterious](https://open.spotify.com/album/3scvjXvU2NFIvTfMfTmLD8) | 2:56 |
+| 306 | [Blue Eyed Boy](https://open.spotify.com/track/3F7TqssmCX1tncNwLQq8M4) | [Jordan Owen](https://open.spotify.com/artist/5oxtUCOxb6AFZJBCoZZFD8) | [Blue Eyed Boy](https://open.spotify.com/album/2bBJBuLtbtLFVW3Pr2XTSG) | 3:37 |
+| 307 | [Say My Name Louder \- Remix](https://open.spotify.com/track/7KybP0HbkHbIu2UJqWo6vt) | [Reyzalla](https://open.spotify.com/artist/1GDg9eSEuaf2DR4zwuAQZE) | [Say My Name Louder \(Remix\)](https://open.spotify.com/album/36oaIhDvYBUCUSbGBQSCsf) | 3:01 |
+| 308 | [Discípulo \- Hierofante Mix](https://open.spotify.com/track/1kWZaubUIbzZb2q1n8lIhQ) | [Peak Level](https://open.spotify.com/artist/3bM9OXS4SVUI0UW9DMw5ss) | [MUTANTE](https://open.spotify.com/album/6ViLWsyal9h7WSiYMCBhhj) | 3:05 |
 
-Snapshot ID: `AAA4pq7WKZ4FeJq5dw6y2pY/yL5d93Jf`
+Snapshot ID: `AAA4uIHKnzuM6+nLM101oASfncI8Rxn3`

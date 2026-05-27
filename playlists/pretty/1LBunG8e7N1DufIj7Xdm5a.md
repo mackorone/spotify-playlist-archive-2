@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 280 likes - 4,480 songs - 9 day 23 hr 12 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 280 likes - 4,484 songs - 9 day 23 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4488,5 +4488,9 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4478 | [Right Mistake](https://open.spotify.com/track/70YqemM7cakJXXkuzgRvkr) | [VALENTINA](https://open.spotify.com/artist/0WiCcHD8qE3NzAuynddh92) | [Right Mistake](https://open.spotify.com/album/4fayL23DsuBXoCvMqJQFod) | 4:47 |
 | 4479 | [Llueve En Mi Corazón](https://open.spotify.com/track/2qxx7egCVi63AHGwnZfyvt) | [Visitantes](https://open.spotify.com/artist/0nynsqah3R512QB7VBtvvT) | [Luces Y Sombras](https://open.spotify.com/album/4HiXj2zc8KpxhU2QdouKWP) | 4:59 |
 | 4480 | [STOP](https://open.spotify.com/track/74AI6IwRwBsnzPFWDfjBLy) | [Blue Cabs](https://open.spotify.com/artist/6mF5Cb0gYrse7CzbffqwqK) | [STOP](https://open.spotify.com/album/0wfOhUJJKk74S3c6q7WeSP) | 3:11 |
+| 4481 | [Spineless](https://open.spotify.com/track/4Cy5jpUYzDtqJnG92ScMLB) | [Hexe](https://open.spotify.com/artist/3WZaW8fkkvGju9kFx4FeoN) | [Spineless](https://open.spotify.com/album/7sF85MtuTpoUjZRlcdKK4A) | 3:50 |
+| 4482 | [Crossroads](https://open.spotify.com/track/1cmzIPAC51yUa8jYqddqiE) | [Ario Nanaj](https://open.spotify.com/artist/3oxKAakkUQ02MoRb5Z6qrq) | [Crossroads](https://open.spotify.com/album/1BWa9mUEDaKcn1SCtE1Amc) | 3:30 |
+| 4483 | [Dil Ye Dhadakta Hi Nahin](https://open.spotify.com/track/55fZN6QYUzsBIdni2Gy1P7) | [Digital Pandit](https://open.spotify.com/artist/2bvkbJhJKy40qcIipIbPjT) | [Dil Ye Dhadakta Hi Nahin](https://open.spotify.com/album/2edQIILVtKKEpc56UC8m4H) | 3:57 |
+| 4484 | [Lost Soul](https://open.spotify.com/track/0KBblBLmSzdWD8k3bZqLoR) | [Richie Cross](https://open.spotify.com/artist/3NA8I8e0mHJSmWKQHBBEpT) | [Lost Soul](https://open.spotify.com/album/46yf87wUx4k4Ash6BBwEaY) | 3:34 |
 
-Snapshot ID: `AAAIuHyODD3fhToomptPHDVtYtdE5BQp`
+Snapshot ID: `AAAIvOckfC8ri669yJYQh7EEMAmLKxbu`

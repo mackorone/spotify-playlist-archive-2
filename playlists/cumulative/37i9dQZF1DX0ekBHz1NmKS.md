@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-2,273 songs - 4 day 21 hr 58 min
+2,274 songs - 4 day 22 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -620,7 +620,7 @@
 | [Ferrari](https://open.spotify.com/track/6pIQxaY3KwmYSAowTxssZW) | [SVEA](https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx) | [the last 90s bitch](https://open.spotify.com/album/3iuUD5t9JpxeISE6LNYafg) | 2:41 | 2024-06-13 | 2024-08-16 |
 | [FEST](https://open.spotify.com/track/3BdpyEsZnbnjRnIeJ9vNw8) | [Cherrie](https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW) | [FEST](https://open.spotify.com/album/6RFdmjcp933i8S0OXyOJG3) | 2:53 | 2025-05-23 | 2025-07-06 |
 | [Festen \- Remix](https://open.spotify.com/track/4aCfUbfu8NiacDnodIMvLc) | [IRMELI](https://open.spotify.com/artist/7cEc46TFuOcBiE04sy33jv), [BELL](https://open.spotify.com/artist/2MnEe6M7ibhg3RAG0Ydtp4) | [Festen \(Remix\)](https://open.spotify.com/album/11m5bfHgmwNncfAoTZK7Ge) | 2:37 | 2023-11-03 | 2024-02-09 |
-| [Festens Mamma](https://open.spotify.com/track/7kK1ywBspHEJ5GCvXNxQbu) | [Näääk](https://open.spotify.com/artist/4zJlp9X6E6IpfUrIzwrg7S), [Kaliffa](https://open.spotify.com/artist/0rJEJ9T9JwC6ajdnMeqREY) | [Festens Mamma](https://open.spotify.com/album/2m6qmLHM0w59eintWRXnlB) | 2:36 | 2026-05-07 |  |
+| [Festens Mamma](https://open.spotify.com/track/7kK1ywBspHEJ5GCvXNxQbu) | [Näääk](https://open.spotify.com/artist/4zJlp9X6E6IpfUrIzwrg7S), [Kaliffa](https://open.spotify.com/artist/0rJEJ9T9JwC6ajdnMeqREY) | [Festens Mamma](https://open.spotify.com/album/2m6qmLHM0w59eintWRXnlB) | 2:36 | 2026-05-07 | 2026-05-27 |
 | [FFL](https://open.spotify.com/track/4Ar2EzzoTHOxemFzFSBy0J) | [Elias Abbas](https://open.spotify.com/artist/4QvI3PrYRXq9A2UbeQAKH6) | [FFL](https://open.spotify.com/album/67XbEzL2I0E1nRBsp76azd) | 2:49 | 2024-04-19 | 2024-05-24 |
 | [Fight](https://open.spotify.com/track/0aabPEzEjKf8Q14ihbfpIl) | [Hemliga Klubben](https://open.spotify.com/artist/2PlHciJMEDaarjew8FmTsf) | [Fight](https://open.spotify.com/album/7btOxSw2OQWoUXzl8kwTar) | 2:53 | 2024-05-16 | 2024-06-14 |
 | [Fight Like A Girl](https://open.spotify.com/track/75NdnAn8d1YrjFwcWRoBM6) | [Molly Hammar](https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM) | [Fight Like A Girl](https://open.spotify.com/album/2HblPY60rDzBDoL2T5Gw5e) | 3:32 | 2023-08-03 | 2023-11-17 |
@@ -656,6 +656,7 @@
 | [Forgive, Forget](https://open.spotify.com/track/72gpoH9hjA3uJJBG64nEVv) | [Kevin Walker](https://open.spotify.com/artist/3ZmFADbNrWQvkouwpbCCeT) | [Forgive, Forget](https://open.spotify.com/album/3Rf6s8Ssci4wfPifJEoBPE) | 2:49 | 2025-07-14 | 2026-01-15 |
 | [Fortare](https://open.spotify.com/track/0LYN3OvXOZ7rTUOWKj72Pc) | [Daniela Rathana](https://open.spotify.com/artist/5U2TzkbKD84n8gHhZtL3Ui) | [Where Strippers Go To Die](https://open.spotify.com/album/7bPDCZBcPNWH1aUTRA1edf) | 2:59 | 2025-04-10 | 2025-09-05 |
 | [Fortfarande du](https://open.spotify.com/track/5RhJlkD30z4QBbEoE8u8oH) | [lovad](https://open.spotify.com/artist/3MPhQdwcGDArJTh3SvU9nj) | [Fortfarande du / Tills vi dör \( Akustisk \)](https://open.spotify.com/album/4zQdRe8QnSmj0qHKoPZ4am) | 2:39 | 2024-10-10 | 2025-04-18 |
+| [Fotografi](https://open.spotify.com/track/0uSazPtH03tqUxtT3EF9ew) | [FILIPPA](https://open.spotify.com/artist/41WN1nz3GcBqnMZEwJCViG) | [Fotografi](https://open.spotify.com/album/23yExxirXZ9LER8nXWuRlP) | 3:21 | 2026-05-21 |  |
 | [Framåt](https://open.spotify.com/track/3jG2DVbOteREs74udyVzJG) | [Laleh](https://open.spotify.com/artist/62QZPjYQMoo5g56FP9Webq) | [Framåt](https://open.spotify.com/album/6xEyVshiedA5zL2uUrGGig) | 2:58 | 2023-03-30 | 2023-10-20 |
 | [Free](https://open.spotify.com/track/4siNizaereDklD0Vkpului) | [Slumberville](https://open.spotify.com/artist/2c0SyAUT82Al3gJQ3uezBv) | [Free](https://open.spotify.com/album/5TP42k6jQyno6vtoBAksAe) | 2:24 | 2024-08-15 | 2024-09-22 |
 | [Free My Soul](https://open.spotify.com/track/2NY9ERTEQnP0VOnHhMOW90) | [Naliyah](https://open.spotify.com/artist/3DbI3fZ6rjnVdNMvIehZYo) | [Free My Soul](https://open.spotify.com/album/7MVn5ssUDz8uXQT2XZ2jek) | 2:54 | 2024-05-03 | 2024-06-07 |

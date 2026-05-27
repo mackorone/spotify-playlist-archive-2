@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgBJeUjpMGn.md) - [plain]
 
 > This is Green Day\. The essential tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,155,827 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,155,939 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

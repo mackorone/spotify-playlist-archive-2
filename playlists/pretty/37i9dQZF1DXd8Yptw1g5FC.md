@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > Motive ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 315,292 likes - 140 songs - 7 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 315,278 likes - 140 songs - 7 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 | 50 | [Ap' To Travma Os To Thavma \(Nefesim Nefesine\)](https://open.spotify.com/track/3i8XLYvdq5Ftf2ZJy3UC3w) | [Zülfü Livaneli](https://open.spotify.com/artist/3ZV2kReDeCXgw0RJaPV5wX), [Saveria Margiola](https://open.spotify.com/artist/7MVtYp2xC8PQAn7tgbKjGZ), [Dimitris Margiolas](https://open.spotify.com/artist/6g43xE3LhDTCIP6jayf8cS), [Mythos of the East](https://open.spotify.com/artist/6y8Oi5A5JT656BqDBD7UQY) | [Ap' To Travma Os To Thavma \(Nefesim Nefesine\)](https://open.spotify.com/album/7pFqFk7AacEADUG9iiecvP) | 3:22 |
 | 51 | [Art Arda Gelir Goller \- Türkiye A Milli Takım Marşı](https://open.spotify.com/track/5tfBx7H867xKWR7gVCFQmh) | [yirmi7](https://open.spotify.com/artist/1vnJ4IgK3BOqkGQ38RqAvs) | [Art Arda Gelir Goller \(Türkiye A Milli Takım Marşı\)](https://open.spotify.com/album/199Ay4EvgE2SKc1tAj1mGp) | 1:59 |
 | 52 | [Twizzler](https://open.spotify.com/track/55kn7P8aUDI3CyGx1jlCLT) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Twizzler](https://open.spotify.com/album/2F1Za0y4KX2xJifGiCg47z) | 2:54 |
-| 53 | [Keşke Benim Olsa](https://open.spotify.com/track/5VHyyTYTE2kmIAhDnjoz9I) | [Karm6](https://open.spotify.com/artist/6NDMASsBLAUDX3QsJvki3r) | [Keşke Benim Olsa](https://open.spotify.com/album/0TKHwFiywmbmQJX25l0puk) | 2:23 |
+| 53 | [Keşke Benim Olsa](https://open.spotify.com/track/5VHyyTYTE2kmIAhDnjoz9I) | [KARM6](https://open.spotify.com/artist/6NDMASsBLAUDX3QsJvki3r) | [Keşke Benim Olsa](https://open.spotify.com/album/0TKHwFiywmbmQJX25l0puk) | 2:23 |
 | 54 | [Super Star](https://open.spotify.com/track/7xyzKrxl7UYPa8fKRpex1J) | [Defkhan](https://open.spotify.com/artist/5piE2MZ1wGpBjpDud8kTOS), [Ahmet Sert](https://open.spotify.com/artist/3zLRL9izlIL1LKoyxMUqhh) | [Super Star](https://open.spotify.com/album/537SsHt3Hl1CV9MYDXD3Ue) | 2:03 |
 | 55 | [Git Demedim](https://open.spotify.com/track/1Tfk6YtYmTueYSo9a2QJdH) | [Çağatay Akman](https://open.spotify.com/artist/6XJtmq30U5RDBwnLbcN33E) | [Git Demedim](https://open.spotify.com/album/0QdTYKLXqLVmas2nicVkq8) | 1:54 |
 | 56 | [Memory Lane](https://open.spotify.com/track/4MEewGGitgx3ZnSOBpuQAg) | [Tokio Hotel](https://open.spotify.com/artist/46aNfN89JrOQTCy97GoCHa) | [Memory Lane](https://open.spotify.com/album/4Sc0Ukf5A9uRZuukFUPx78) | 2:45 |

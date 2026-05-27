@@ -4,7 +4,7 @@
 
 > Fresh Punjabi Hip\-Hop Tracks by Jerry, Cheema Y & more!
 
-1,168 songs - 2 day 5 hr 48 min
+1,168 songs - 2 day 5 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -801,7 +801,7 @@
 | [On Air](https://open.spotify.com/track/6lcPXak5WBrJQcEcuVRoa8) | [Sangatpuriyaa](https://open.spotify.com/artist/26lyYOxmC2ARwDGYCsr5Vi), [Gurjit Gill](https://open.spotify.com/artist/6LGVfT3wTKqzhx9RGvSvUd), [Ary B](https://open.spotify.com/artist/2Q0gszM51Kkyhwjs8BTkKa) | [Spectrum](https://open.spotify.com/album/0ln0Hf0HeenT2NxutXWjdi) | 2:10 | 2026-01-09 | 2026-02-28 |
 | [On Point](https://open.spotify.com/track/0vVByFRK4THSNqff1SS7rV) | [Mani Longia](https://open.spotify.com/artist/4T8KtF2YGesSSw3jgAVura), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj) | [On Point](https://open.spotify.com/album/0G0GUh5A2NgdcsYce85tBT) | 2:42 | 2025-07-10 | 2025-09-13 |
 | [ON SIGHT](https://open.spotify.com/track/6hDVIKy4UjNEfNCc2Dkq8k) | [Bhambi2fly](https://open.spotify.com/artist/7x1g4pBJtNz1XxdlSzEDf2), [Lambo Drive](https://open.spotify.com/artist/0ECy3INAe1k7665cRLCT0Y) | [ON SIGHT](https://open.spotify.com/album/2lmOs6L6auAzJffIIFMPeC) | 2:23 | 2025-09-30 | 2025-11-22 |
-| [One Call Away](https://open.spotify.com/track/2Wtl8Lr6ZF2XSnGcakH4zG) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G), [Jazzy B](https://open.spotify.com/artist/25bvyjHJAszeSV3q0TmEhY), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [Enigma](https://open.spotify.com/album/0mUdGUIB3n2lIXkarHHHyf) | 2:20 | 2026-05-22 |  |
+| [One Call Away](https://open.spotify.com/track/2Wtl8Lr6ZF2XSnGcakH4zG) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G), [Jazzy B](https://open.spotify.com/artist/25bvyjHJAszeSV3q0TmEhY), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [Enigma](https://open.spotify.com/album/0mUdGUIB3n2lIXkarHHHyf) | 3:04 | 2026-05-22 |  |
 | [ONE DAY](https://open.spotify.com/track/1T0leYjd3KhvpgjUmbg5zw) | [Asim Riaz](https://open.spotify.com/artist/0uPcaDPyjSJPlCiYTZWQ1V), [Jaan](https://open.spotify.com/artist/2PdYbaAmRftmCLbaiEqI2h), [Shera Dhaliwal](https://open.spotify.com/artist/6hUN0spqkOvBajJ8J2nUc5) | [ONE DAY](https://open.spotify.com/album/4TJ73xgSQ8g5fBIbOXiicD) | 2:24 | 2026-03-31 | 2026-04-18 |
 | [One In A Million](https://open.spotify.com/track/1mJ54UVDax6JVIRBtcDwUi) | [Harman Hundal](https://open.spotify.com/artist/2daDqAvmOL9Uxwv0cGvLXv) | [Never Too Late](https://open.spotify.com/album/1QIfOmEfvFxvOah9PlrJ0I) | 2:56 | 2026-02-06 | 2026-03-14 |
 | [One Of One](https://open.spotify.com/track/2cmUydA6WxjO6ioIMD1DuS) | [NIMAAN](https://open.spotify.com/artist/2XHUsFId8Zx5T6wa48Rdzr), [ARSH](https://open.spotify.com/artist/0vzZDYE6Z4rvZXMReRwlHi) | [One Of One](https://open.spotify.com/album/3UgENCbND7IJauIiBWkPlX) | 2:07 | 2025-08-26 | 2025-10-11 |

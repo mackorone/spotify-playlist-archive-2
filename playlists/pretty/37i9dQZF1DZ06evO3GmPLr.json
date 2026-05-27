@@ -1,12 +1,12 @@
 {
   "description": "This is Little Simz. The essential tracks, all in one playlist.",
-  "num_followers": 56445,
+  "num_followers": 56464,
   "original_name": "This Is Little Simz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahI/gAAAAAACTdK/hONXO4MdZIHtsSpI",
+  "snapshot_id": "ahORAAAAAABWv9vMhzMDHmuSUjuQvQVO",
   "tracks": [
     {
       "added_at": null,
@@ -399,8 +399,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stillness in Wonderland",
-        "url": "https://open.spotify.com/album/5WIvREgNBScLryJbpNs9yN"
+        "name": "Drop 7",
+        "url": "https://open.spotify.com/album/2jK2rbbnrzsId5WWSc67HP"
       },
       "artists": [
         {
@@ -408,9 +408,9 @@
           "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
         }
       ],
-      "duration_ms": 183197,
-      "name": "Picture Perfect",
-      "url": "https://open.spotify.com/track/1jGbBTbyopFlfh8b4pTcbU"
+      "duration_ms": 140733,
+      "name": "Mood Swings",
+      "url": "https://open.spotify.com/track/124nj3QzqpccVdLbiFHPeB"
     },
     {
       "added_at": null,
@@ -431,8 +431,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Drop 7",
-        "url": "https://open.spotify.com/album/2jK2rbbnrzsId5WWSc67HP"
+        "name": "Stillness in Wonderland",
+        "url": "https://open.spotify.com/album/5WIvREgNBScLryJbpNs9yN"
       },
       "artists": [
         {
@@ -440,9 +440,9 @@
           "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
         }
       ],
-      "duration_ms": 140733,
-      "name": "Mood Swings",
-      "url": "https://open.spotify.com/track/124nj3QzqpccVdLbiFHPeB"
+      "duration_ms": 183197,
+      "name": "Picture Perfect",
+      "url": "https://open.spotify.com/track/1jGbBTbyopFlfh8b4pTcbU"
     },
     {
       "added_at": null,

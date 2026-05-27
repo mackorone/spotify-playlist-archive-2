@@ -1,6 +1,6 @@
 {
   "description": "New and approved indie pop. Cover: MUNA",
-  "num_followers": 1669798,
+  "num_followers": 1669781,
   "original_name": "Indie Pop",
   "owner": {
     "name": "Spotify",
@@ -343,22 +343,6 @@
     {
       "added_at": "2026-05-15 16:17:55",
       "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/3QMZPDDxfm5EQxEGWOYgR7"
-      },
-      "artists": [
-        {
-          "name": "Not For Radio",
-          "url": "https://open.spotify.com/artist/0oXhGlRUQ8aVTx8eO4MoMT"
-        }
-      ],
-      "duration_ms": 265606,
-      "name": "Ache",
-      "url": "https://open.spotify.com/track/0PjgmRsexiNpf3lgFVzdOO"
-    },
-    {
-      "added_at": "2026-05-15 16:17:55",
-      "album": {
         "name": "thank you i guess",
         "url": "https://open.spotify.com/album/6LsUUMkKGoxJTsYtZ3IQ5v"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 118300,
       "name": "thank you i guess",
       "url": "https://open.spotify.com/track/6T1klWs7QMnkPOJGnSpL26"
+    },
+    {
+      "added_at": "2026-05-15 16:17:55",
+      "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/3QMZPDDxfm5EQxEGWOYgR7"
+      },
+      "artists": [
+        {
+          "name": "Not For Radio",
+          "url": "https://open.spotify.com/artist/0oXhGlRUQ8aVTx8eO4MoMT"
+        }
+      ],
+      "duration_ms": 265606,
+      "name": "Ache",
+      "url": "https://open.spotify.com/track/0PjgmRsexiNpf3lgFVzdOO"
     },
     {
       "added_at": "2026-05-15 16:17:55",
@@ -523,22 +523,6 @@
     {
       "added_at": "2026-05-15 16:17:55",
       "album": {
-        "name": "Take A Drive",
-        "url": "https://open.spotify.com/album/3fdCAIvFKpHTHZ3QPtpe0a"
-      },
-      "artists": [
-        {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "Take A Drive",
-      "url": "https://open.spotify.com/track/6786wQ6hLGYDqIcl0x2Nmk"
-    },
-    {
-      "added_at": "2026-05-15 16:17:55",
-      "album": {
         "name": "Crutch",
         "url": "https://open.spotify.com/album/1jWZ7cC58wnlEfuknDCwoq"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 211537,
       "name": "Crutch",
       "url": "https://open.spotify.com/track/35mvYlF92JzRqB2PYA9DIU"
+    },
+    {
+      "added_at": "2026-05-15 16:17:55",
+      "album": {
+        "name": "Take A Drive",
+        "url": "https://open.spotify.com/album/3fdCAIvFKpHTHZ3QPtpe0a"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "Take A Drive",
+      "url": "https://open.spotify.com/track/6786wQ6hLGYDqIcl0x2Nmk"
     },
     {
       "added_at": "2026-05-15 16:17:55",
@@ -619,22 +619,6 @@
     {
       "added_at": "2026-05-15 16:17:55",
       "album": {
-        "name": "Sick Of Love",
-        "url": "https://open.spotify.com/album/2ETP833yyVmqvtnbnRHtxb"
-      },
-      "artists": [
-        {
-          "name": "Lykke Li",
-          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
-        }
-      ],
-      "duration_ms": 216933,
-      "name": "Sick Of Love",
-      "url": "https://open.spotify.com/track/6aPG5Atb3L3l8pZYzLrpEi"
-    },
-    {
-      "added_at": "2026-05-15 16:17:55",
-      "album": {
         "name": "Vampire at the Beach",
         "url": "https://open.spotify.com/album/2oiYk3sjV14nv6vukULSv5"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 221000,
       "name": "Vampire at the Beach",
       "url": "https://open.spotify.com/track/4nDtxG33WsZKY34taNrgOR"
+    },
+    {
+      "added_at": "2026-05-15 16:17:55",
+      "album": {
+        "name": "Sick Of Love",
+        "url": "https://open.spotify.com/album/2ETP833yyVmqvtnbnRHtxb"
+      },
+      "artists": [
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        }
+      ],
+      "duration_ms": 216933,
+      "name": "Sick Of Love",
+      "url": "https://open.spotify.com/track/6aPG5Atb3L3l8pZYzLrpEi"
     },
     {
       "added_at": "2026-05-15 16:17:55",
@@ -813,22 +813,6 @@
       "url": "https://open.spotify.com/track/6G2LHkJYG4P7HpdMTydvRS"
     },
     {
-      "added_at": "2026-05-15 16:17:55",
-      "album": {
-        "name": "Paradise Now & Forever",
-        "url": "https://open.spotify.com/album/2Ez0tq5fIpDfI2L3jZQdU0"
-      },
-      "artists": [
-        {
-          "name": "Obongjayar",
-          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
-        }
-      ],
-      "duration_ms": 215531,
-      "name": "Lipdance",
-      "url": "https://open.spotify.com/track/5b2nQ3pCgh8hfM6DH2rt8S"
-    },
-    {
       "added_at": "2026-05-25 17:48:56",
       "album": {
         "name": "PARTY",
@@ -847,18 +831,18 @@
     {
       "added_at": "2026-05-15 16:17:55",
       "album": {
-        "name": "Never Let Go",
-        "url": "https://open.spotify.com/album/1wEDrmEFhRfbNiFRj1PTiM"
+        "name": "Paradise Now & Forever",
+        "url": "https://open.spotify.com/album/2Ez0tq5fIpDfI2L3jZQdU0"
       },
       "artists": [
         {
-          "name": "Meltt",
-          "url": "https://open.spotify.com/artist/2iHrc69sZgyWFBAhLpS3oH"
+          "name": "Obongjayar",
+          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
         }
       ],
-      "duration_ms": 312000,
-      "name": "Never Let Go",
-      "url": "https://open.spotify.com/track/6wDUqYQ9sbWGMPpWOQLlmt"
+      "duration_ms": 215531,
+      "name": "Lipdance",
+      "url": "https://open.spotify.com/track/5b2nQ3pCgh8hfM6DH2rt8S"
     },
     {
       "added_at": "2026-05-15 16:17:55",
@@ -875,6 +859,22 @@
       "duration_ms": 221717,
       "name": "Naked Chess",
       "url": "https://open.spotify.com/track/3H245jcnY44ovCFlXMXRtV"
+    },
+    {
+      "added_at": "2026-05-15 16:17:55",
+      "album": {
+        "name": "Never Let Go",
+        "url": "https://open.spotify.com/album/1wEDrmEFhRfbNiFRj1PTiM"
+      },
+      "artists": [
+        {
+          "name": "Meltt",
+          "url": "https://open.spotify.com/artist/2iHrc69sZgyWFBAhLpS3oH"
+        }
+      ],
+      "duration_ms": 312000,
+      "name": "Never Let Go",
+      "url": "https://open.spotify.com/track/6wDUqYQ9sbWGMPpWOQLlmt"
     },
     {
       "added_at": "2026-05-15 16:17:55",
@@ -963,22 +963,6 @@
     {
       "added_at": "2026-05-15 16:17:55",
       "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/3sfKUG1wBGK0SwFQKltZtr"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 266129,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/4zgFh0ZXkVcyXpJbteYviU"
-    },
-    {
-      "added_at": "2026-05-15 16:17:55",
-      "album": {
         "name": "terrible4u",
         "url": "https://open.spotify.com/album/2HUHCPVbtnaN77LoUrzutn"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 198092,
       "name": "terrible4u",
       "url": "https://open.spotify.com/track/1AYIBIhwU2XFVBfGp0QVZl"
+    },
+    {
+      "added_at": "2026-05-15 16:17:55",
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/3sfKUG1wBGK0SwFQKltZtr"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 266129,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/4zgFh0ZXkVcyXpJbteYviU"
     },
     {
       "added_at": "2026-05-15 16:17:55",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2026-05-15 16:17:55",
       "album": {
+        "name": "Housekeeping",
+        "url": "https://open.spotify.com/album/36TdhxyuiOIeDyAZuAgpBE"
+      },
+      "artists": [
+        {
+          "name": "Ally Salort",
+          "url": "https://open.spotify.com/artist/5cCLvnxYLQiKTRLRD2DHxw"
+        }
+      ],
+      "duration_ms": 205841,
+      "name": "Housekeeping",
+      "url": "https://open.spotify.com/track/2sPIXS51PCnYWY8lPtS0oP"
+    },
+    {
+      "added_at": "2026-05-15 16:17:55",
+      "album": {
         "name": "Geezer",
         "url": "https://open.spotify.com/album/7ludJVUn2P4sfeQPzQ62eO"
       },
@@ -1115,18 +1131,18 @@
     {
       "added_at": "2026-05-15 16:17:55",
       "album": {
-        "name": "Housekeeping",
-        "url": "https://open.spotify.com/album/36TdhxyuiOIeDyAZuAgpBE"
+        "name": "Little Blue House",
+        "url": "https://open.spotify.com/album/07nAbhyj2hNr2HYpt9uB8Y"
       },
       "artists": [
         {
-          "name": "Ally Salort",
-          "url": "https://open.spotify.com/artist/5cCLvnxYLQiKTRLRD2DHxw"
+          "name": "Moody Joody",
+          "url": "https://open.spotify.com/artist/0ndpuECxVStTsHhzq4Euxz"
         }
       ],
-      "duration_ms": 205841,
-      "name": "Housekeeping",
-      "url": "https://open.spotify.com/track/2sPIXS51PCnYWY8lPtS0oP"
+      "duration_ms": 179727,
+      "name": "Little Blue House",
+      "url": "https://open.spotify.com/track/0KUcvWJzx9McoYo31gAqDy"
     },
     {
       "added_at": "2026-05-15 16:17:55",
@@ -1147,22 +1163,6 @@
     {
       "added_at": "2026-05-15 16:17:55",
       "album": {
-        "name": "Little Blue House",
-        "url": "https://open.spotify.com/album/07nAbhyj2hNr2HYpt9uB8Y"
-      },
-      "artists": [
-        {
-          "name": "Moody Joody",
-          "url": "https://open.spotify.com/artist/0ndpuECxVStTsHhzq4Euxz"
-        }
-      ],
-      "duration_ms": 179727,
-      "name": "Little Blue House",
-      "url": "https://open.spotify.com/track/0KUcvWJzx9McoYo31gAqDy"
-    },
-    {
-      "added_at": "2026-05-15 16:17:55",
-      "album": {
         "name": "Kiss&Tell",
         "url": "https://open.spotify.com/album/5CgOkBTj7cHrqC6r5O3SzR"
       },
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2026-05-15 16:17:55",
       "album": {
-        "name": "lemonlime",
-        "url": "https://open.spotify.com/album/4Wx1qHpwOLTt96L8I0Kt3u"
-      },
-      "artists": [
-        {
-          "name": "Purity Ring",
-          "url": "https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "lemonlime",
-      "url": "https://open.spotify.com/track/68utYAhxFqE4xK7cmObExo"
-    },
-    {
-      "added_at": "2026-05-15 16:17:55",
-      "album": {
         "name": "AngieAngieAngie",
         "url": "https://open.spotify.com/album/19lNMxzhXLPvNZkMQnb4gl"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 139363,
       "name": "Roamer",
       "url": "https://open.spotify.com/track/0Xfj8XkEduoN43F2UMrDGZ"
+    },
+    {
+      "added_at": "2026-05-15 16:17:55",
+      "album": {
+        "name": "lemonlime",
+        "url": "https://open.spotify.com/album/4Wx1qHpwOLTt96L8I0Kt3u"
+      },
+      "artists": [
+        {
+          "name": "Purity Ring",
+          "url": "https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "lemonlime",
+      "url": "https://open.spotify.com/track/68utYAhxFqE4xK7cmObExo"
     },
     {
       "added_at": "2026-05-15 16:17:55",
@@ -1247,38 +1247,6 @@
     {
       "added_at": "2026-05-15 16:17:55",
       "album": {
-        "name": "Flowers - Spotify Singles",
-        "url": "https://open.spotify.com/album/2xNxoIoAdqikspBdAGNshj"
-      },
-      "artists": [
-        {
-          "name": "Thomas Day",
-          "url": "https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq"
-        }
-      ],
-      "duration_ms": 236167,
-      "name": "Flowers - Spotify Singles",
-      "url": "https://open.spotify.com/track/5QlTdFRhzFV72ieDj04sdD"
-    },
-    {
-      "added_at": "2026-05-15 16:17:55",
-      "album": {
-        "name": "Days Of Us",
-        "url": "https://open.spotify.com/album/2nSItiBROm1O9jl8FtNvIj"
-      },
-      "artists": [
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        }
-      ],
-      "duration_ms": 192495,
-      "name": "Slow Tonight",
-      "url": "https://open.spotify.com/track/4euJCjgfNymsvUFMJ6W8jd"
-    },
-    {
-      "added_at": "2026-05-15 16:17:55",
-      "album": {
         "name": "Pinky Promise",
         "url": "https://open.spotify.com/album/1yNNvUBskbCyaL3U8HajF4"
       },
@@ -1291,6 +1259,22 @@
       "duration_ms": 184740,
       "name": "Seventeen",
       "url": "https://open.spotify.com/track/25qyBoX9Hk4WSB6lXrKw9K"
+    },
+    {
+      "added_at": "2026-05-15 16:17:55",
+      "album": {
+        "name": "Flowers - Spotify Singles",
+        "url": "https://open.spotify.com/album/2xNxoIoAdqikspBdAGNshj"
+      },
+      "artists": [
+        {
+          "name": "Thomas Day",
+          "url": "https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq"
+        }
+      ],
+      "duration_ms": 236167,
+      "name": "Flowers - Spotify Singles",
+      "url": "https://open.spotify.com/track/5QlTdFRhzFV72ieDj04sdD"
     },
     {
       "added_at": "2026-05-15 16:17:55",
@@ -1311,22 +1295,18 @@
     {
       "added_at": "2026-05-15 16:17:55",
       "album": {
-        "name": "Labyrinth",
-        "url": "https://open.spotify.com/album/366bXWPlIg9V58s5GWCA1I"
+        "name": "Days Of Us",
+        "url": "https://open.spotify.com/album/2nSItiBROm1O9jl8FtNvIj"
       },
       "artists": [
         {
-          "name": "LEXXE",
-          "url": "https://open.spotify.com/artist/0lDo9zbShSX0EXnxLpUZIU"
-        },
-        {
-          "name": "V\u00c9RIT\u00c9",
-          "url": "https://open.spotify.com/artist/1Fr6agZ6iSM5Ynn2k4C8sc"
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
         }
       ],
-      "duration_ms": 186315,
-      "name": "Labyrinth",
-      "url": "https://open.spotify.com/track/2aLPTpA9zaLbGyNQM7UqIS"
+      "duration_ms": 192495,
+      "name": "Slow Tonight",
+      "url": "https://open.spotify.com/track/4euJCjgfNymsvUFMJ6W8jd"
     },
     {
       "added_at": "2026-05-15 16:17:55",
@@ -1363,6 +1343,26 @@
     {
       "added_at": "2026-05-15 16:17:55",
       "album": {
+        "name": "Labyrinth",
+        "url": "https://open.spotify.com/album/366bXWPlIg9V58s5GWCA1I"
+      },
+      "artists": [
+        {
+          "name": "LEXXE",
+          "url": "https://open.spotify.com/artist/0lDo9zbShSX0EXnxLpUZIU"
+        },
+        {
+          "name": "V\u00c9RIT\u00c9",
+          "url": "https://open.spotify.com/artist/1Fr6agZ6iSM5Ynn2k4C8sc"
+        }
+      ],
+      "duration_ms": 186315,
+      "name": "Labyrinth",
+      "url": "https://open.spotify.com/track/2aLPTpA9zaLbGyNQM7UqIS"
+    },
+    {
+      "added_at": "2026-05-15 16:17:55",
+      "album": {
         "name": "I'd Do Anything",
         "url": "https://open.spotify.com/album/6I7Cscx9NaCR5LjDQeEZcv"
       },
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2026-05-15 16:17:55",
       "album": {
-        "name": "I'll Change for You",
-        "url": "https://open.spotify.com/album/3f7akGGEFL9LjSJCG7ueaL"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 196426,
-      "name": "I'll Change for You",
-      "url": "https://open.spotify.com/track/1VVlFu2NkLFMRBznBITlho"
-    },
-    {
-      "added_at": "2026-05-15 16:17:55",
-      "album": {
         "name": "Cool",
         "url": "https://open.spotify.com/album/1XzMeqhaGgkMHlKsKUQo8y"
       },
@@ -1423,6 +1407,38 @@
       "duration_ms": 158688,
       "name": "Cool",
       "url": "https://open.spotify.com/track/6vCi3BwPeOqfwUHP6krV5d"
+    },
+    {
+      "added_at": "2026-05-15 16:17:55",
+      "album": {
+        "name": "portals//polarities",
+        "url": "https://open.spotify.com/album/3J8mi01ldw6yQef6XnNVEb"
+      },
+      "artists": [
+        {
+          "name": "Night Tapes",
+          "url": "https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU"
+        }
+      ],
+      "duration_ms": 256481,
+      "name": "leave it all behind, Mike",
+      "url": "https://open.spotify.com/track/5t1vQDpm4MKmRzbVaMAJWK"
+    },
+    {
+      "added_at": "2026-05-15 16:17:55",
+      "album": {
+        "name": "I'll Change for You",
+        "url": "https://open.spotify.com/album/3f7akGGEFL9LjSJCG7ueaL"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 196426,
+      "name": "I'll Change for You",
+      "url": "https://open.spotify.com/track/1VVlFu2NkLFMRBznBITlho"
     },
     {
       "added_at": "2026-05-15 16:17:55",
@@ -1447,18 +1463,34 @@
     {
       "added_at": "2026-05-15 16:17:55",
       "album": {
-        "name": "portals//polarities",
-        "url": "https://open.spotify.com/album/3J8mi01ldw6yQef6XnNVEb"
+        "name": "Angel",
+        "url": "https://open.spotify.com/album/3jPBUUuHL8KtaJMmZt7jnC"
       },
       "artists": [
         {
-          "name": "Night Tapes",
-          "url": "https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU"
+          "name": "After Louise",
+          "url": "https://open.spotify.com/artist/6tjPtIeNLFkHlDQG2mRy3W"
         }
       ],
-      "duration_ms": 256481,
-      "name": "leave it all behind, Mike",
-      "url": "https://open.spotify.com/track/5t1vQDpm4MKmRzbVaMAJWK"
+      "duration_ms": 167551,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/26buigTaEZOsbaZpsMsfws"
+    },
+    {
+      "added_at": "2026-05-15 19:54:37",
+      "album": {
+        "name": "Better Than Before",
+        "url": "https://open.spotify.com/album/1kVSSdzCIZ4IXxPwI2ORk1"
+      },
+      "artists": [
+        {
+          "name": "Pamela.",
+          "url": "https://open.spotify.com/artist/1ebkjsjkD29YxAgD6h8TmE"
+        }
+      ],
+      "duration_ms": 162768,
+      "name": "Better Than Before",
+      "url": "https://open.spotify.com/track/30ewsn0jSF9Jme7Altrz9X"
     },
     {
       "added_at": "2026-05-15 16:17:55",
@@ -1479,22 +1511,6 @@
     {
       "added_at": "2026-05-15 16:17:55",
       "album": {
-        "name": "Angel",
-        "url": "https://open.spotify.com/album/3jPBUUuHL8KtaJMmZt7jnC"
-      },
-      "artists": [
-        {
-          "name": "After Louise",
-          "url": "https://open.spotify.com/artist/6tjPtIeNLFkHlDQG2mRy3W"
-        }
-      ],
-      "duration_ms": 167551,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/26buigTaEZOsbaZpsMsfws"
-    },
-    {
-      "added_at": "2026-05-15 16:17:55",
-      "album": {
         "name": "Sunday Girl",
         "url": "https://open.spotify.com/album/6HbyRsTn8Oq1oq52xgM5uU"
       },
@@ -1507,22 +1523,6 @@
       "duration_ms": 219801,
       "name": "Pink Starburst",
       "url": "https://open.spotify.com/track/1OZCX85aOi9zf6DzkXJ7RU"
-    },
-    {
-      "added_at": "2026-05-15 19:54:37",
-      "album": {
-        "name": "Better Than Before",
-        "url": "https://open.spotify.com/album/1kVSSdzCIZ4IXxPwI2ORk1"
-      },
-      "artists": [
-        {
-          "name": "Pamela.",
-          "url": "https://open.spotify.com/artist/1ebkjsjkD29YxAgD6h8TmE"
-        }
-      ],
-      "duration_ms": 162768,
-      "name": "Better Than Before",
-      "url": "https://open.spotify.com/track/30ewsn0jSF9Jme7Altrz9X"
     },
     {
       "added_at": "2026-05-15 16:17:55",

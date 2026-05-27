@@ -4,7 +4,7 @@
 
 > Lmao \-.\-
 
-514 songs - 1 day 5 hr 58 min
+516 songs - 1 day 6 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,6 +201,7 @@
 | [Memento mori](https://open.spotify.com/track/7oiupGD4I9Qq3d9fvWq3iq) | [Kaya](https://open.spotify.com/artist/2QIdg099yylM16gsKCTrsg) | [GOTHIC\(A\-type\)](https://open.spotify.com/album/1pruXAHSYCW3bSCEC6DSHT) | 5:30 | 2025-09-04 |  |
 | [Memories of You \-Reload\-](https://open.spotify.com/track/3R0XM0PaKh2R7WYF8UJYe0) | [Azumi Takahashi](https://open.spotify.com/artist/4VeqFgWkP7P9eEGwzPuXcM), [アトラスサウンドチーム](https://open.spotify.com/artist/4hFBhdNVZZuVk5FYThUwaN), [ATLUS GAME MUSIC](https://open.spotify.com/artist/7tUDDR0lAc9PLMPHPfzaqI) | [Persona 3 Reload Original Soundtrack](https://open.spotify.com/album/20Bf2RVERC5Bc2eo3vyvJv) | 6:39 | 2024-06-03 |  |
 | [mental wrist cut](https://open.spotify.com/track/5CSx2ODcD2Usakdr0B35yU) | [MAZARI](https://open.spotify.com/artist/6qkfUDvnkfyGbCYNVCdR6H) | [mental wrist cut](https://open.spotify.com/album/2rI9AdZOiwNoy3DhCR7mkz) | 3:30 | 2026-04-07 |  |
+| [MINAGOROSHI](https://open.spotify.com/track/1uC5OFXAwjhtToYXezTTZj) | [NAKISO](https://open.spotify.com/artist/0DzlKiHRe0HVfOiVlv23Rj) | [MINAGOROSHI](https://open.spotify.com/album/1k4Hs6tujNB331ASp8heM7) | 2:05 | 2026-05-27 |  |
 | [Mind brand](https://open.spotify.com/track/2KvhjbZPPtNXTB6wib1rXB) | [Maretu](https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM) | [Coin locker Baby](https://open.spotify.com/album/5oPvIsJd6pzjmpvmiSVbjg) | 4:19 | 2026-01-14 |  |
 | [MIRROR](https://open.spotify.com/track/0NtfH5RUt4V3Vzh18Wuc23) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [MIRROR](https://open.spotify.com/album/4bIo5w5xKztinGjv11NoOQ) | 2:58 | 2024-06-03 |  |
 | [MOKA!](https://open.spotify.com/track/2aN0K87tjNGCdNRUKZ4qJ9) | [The Vanished People](https://open.spotify.com/artist/3EogvEV9nc7Av6ngy8CIeJ) | [MOKA!](https://open.spotify.com/album/1kZWcaTRXJkn5jy0oawRsX) | 2:31 | 2024-04-06 |  |
@@ -444,6 +445,7 @@
 | [勇者](https://open.spotify.com/track/4LjIQmt1t6NjpM0tpttzjo) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [勇者](https://open.spotify.com/album/6L7pjBfP49dh1WYDmHngOO) | 3:14 | 2024-05-03 |  |
 | [協奏曲 〜耽美なる血統〜](https://open.spotify.com/track/2ynnDxWzNtn6VsfZnqq6OJ) | [JVM Roses Blood Symphony](https://open.spotify.com/artist/5ch4R7MYTiqAcfb4Ig6cSt) | [協奏曲 〜耽美なる血統〜](https://open.spotify.com/album/4dGtND8i4qXqtV1DkNnZYW) | 6:56 | 2026-03-13 |  |
 | [厭世という名の病](https://open.spotify.com/track/4wX19Nf6Mc2ACCOnfD01bQ) | [蟲の知らせ](https://open.spotify.com/artist/28dGfhcMY5UMKJCRLLonvf), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [厭世という名の病](https://open.spotify.com/album/1ZU3Lcg2jRN1UcoqfbBPbk) | 3:50 | 2024-10-03 |  |
+| [君が死んでも許してあげるよ](https://open.spotify.com/track/3F402NDKGrJxIOaJbkXSeB) | [Kikuo](https://open.spotify.com/artist/5FhcqamaRFfpZb4VHV47fu) | [きくおミク2](https://open.spotify.com/album/26tBjFO9k2Aq7j72p0nTol) | 4:02 | 2026-05-27 |  |
 | [君はできない子](https://open.spotify.com/track/7corSqnjU5bX09ZXy3nhVD) | [Kikuo](https://open.spotify.com/artist/5FhcqamaRFfpZb4VHV47fu) | [きくおミク3](https://open.spotify.com/album/5eSuy3Rr40DI0qcPOMFgX0) | 4:21 | 2022-11-25 |  |
 | [哀悼、そして日常は続く](https://open.spotify.com/track/18v2m4Y7q5wIBgQT3H9i6V) | [卯花ロク](https://open.spotify.com/artist/2IVqSBc264wMKlgTTFZN2r), [RIME](https://open.spotify.com/artist/3dYIVgbOkyGZpkwCZzYAvs) | [音楽的同位体 裏命 1st COMPILATION ALBUM パラノーマル \(vol.3 交響のパラノーマル\)](https://open.spotify.com/album/3otMRyCvg5ZHOMOtKTuLbi) | 4:22 | 2024-10-14 |  |
 | [堕天 \- Daten](https://open.spotify.com/track/1ndUYRPchJVNQCM7XwN7Hq) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [堕天 \- Daten](https://open.spotify.com/album/6TyquheH5JW6c5YuZ4ectA) | 2:52 | 2023-06-22 |  |

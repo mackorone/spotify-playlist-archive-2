@@ -1,6 +1,6 @@
 {
   "description": "Go hard or go home. Cover: Kanine",
-  "num_followers": 75623,
+  "num_followers": 75634,
   "original_name": "Jump Up!",
   "owner": {
     "name": "Spotify",
@@ -667,22 +667,6 @@
     {
       "added_at": "2026-05-21 12:27:49",
       "album": {
-        "name": "Goose Chase",
-        "url": "https://open.spotify.com/album/4YTqjAUHJ3vqQk9uNJeGbX"
-      },
-      "artists": [
-        {
-          "name": "Hoax",
-          "url": "https://open.spotify.com/artist/3W1enT2cxmP2PjLG5zwmby"
-        }
-      ],
-      "duration_ms": 180344,
-      "name": "Goose Chase",
-      "url": "https://open.spotify.com/track/2qEZgjxNPG4bQ7A22np1Y0"
-    },
-    {
-      "added_at": "2026-05-21 12:27:49",
-      "album": {
         "name": "Outlaw",
         "url": "https://open.spotify.com/album/1CmpfvkAdZF2M3X25bwsWQ"
       },
@@ -703,62 +687,18 @@
     {
       "added_at": "2026-05-21 12:27:49",
       "album": {
-        "name": "Vandal",
-        "url": "https://open.spotify.com/album/3rUMO4nrAab1mOKqZCabml"
+        "name": "Goose Chase",
+        "url": "https://open.spotify.com/album/4YTqjAUHJ3vqQk9uNJeGbX"
       },
       "artists": [
         {
-          "name": "Delta Heavy",
-          "url": "https://open.spotify.com/artist/7GvVTb8yFV0ZrdI30Qce6T"
+          "name": "Hoax",
+          "url": "https://open.spotify.com/artist/3W1enT2cxmP2PjLG5zwmby"
         }
       ],
-      "duration_ms": 161379,
-      "name": "Vandal",
-      "url": "https://open.spotify.com/track/1v0y0o1IDEmUaK40ciELYk"
-    },
-    {
-      "added_at": "2026-05-21 12:27:49",
-      "album": {
-        "name": "Corner",
-        "url": "https://open.spotify.com/album/7LIdJo9owJofjVeNaF8ig4"
-      },
-      "artists": [
-        {
-          "name": "Riko Dan",
-          "url": "https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y"
-        },
-        {
-          "name": "Skepsis",
-          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
-        }
-      ],
-      "duration_ms": 136551,
-      "name": "Corner",
-      "url": "https://open.spotify.com/track/6MQnpSXLfCmMcA9xfU3O2o"
-    },
-    {
-      "added_at": "2026-05-21 12:27:49",
-      "album": {
-        "name": "Beamin\u2019 (K Motionz & skantia Remix)",
-        "url": "https://open.spotify.com/album/4gmV6lUCXyhnOcUglQ0qPQ"
-      },
-      "artists": [
-        {
-          "name": "K Motionz",
-          "url": "https://open.spotify.com/artist/6QYdXToMo4XHnG1AnEVZYJ"
-        },
-        {
-          "name": "skantia",
-          "url": "https://open.spotify.com/artist/0FZS1HlJfonbMpQGzTrh0M"
-        },
-        {
-          "name": "Songer",
-          "url": "https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd"
-        }
-      ],
-      "duration_ms": 243103,
-      "name": "Beamin\u2019 - K Motionz & skantia Remix",
-      "url": "https://open.spotify.com/track/56qOWeHCiS8EbdYc39sjEr"
+      "duration_ms": 180344,
+      "name": "Goose Chase",
+      "url": "https://open.spotify.com/track/2qEZgjxNPG4bQ7A22np1Y0"
     },
     {
       "added_at": "2026-05-21 12:27:49",
@@ -787,6 +727,66 @@
     {
       "added_at": "2026-05-21 12:27:49",
       "album": {
+        "name": "Vandal",
+        "url": "https://open.spotify.com/album/3rUMO4nrAab1mOKqZCabml"
+      },
+      "artists": [
+        {
+          "name": "Delta Heavy",
+          "url": "https://open.spotify.com/artist/7GvVTb8yFV0ZrdI30Qce6T"
+        }
+      ],
+      "duration_ms": 161379,
+      "name": "Vandal",
+      "url": "https://open.spotify.com/track/1v0y0o1IDEmUaK40ciELYk"
+    },
+    {
+      "added_at": "2026-05-21 12:27:49",
+      "album": {
+        "name": "Beamin\u2019 (K Motionz & skantia Remix)",
+        "url": "https://open.spotify.com/album/4gmV6lUCXyhnOcUglQ0qPQ"
+      },
+      "artists": [
+        {
+          "name": "K Motionz",
+          "url": "https://open.spotify.com/artist/6QYdXToMo4XHnG1AnEVZYJ"
+        },
+        {
+          "name": "skantia",
+          "url": "https://open.spotify.com/artist/0FZS1HlJfonbMpQGzTrh0M"
+        },
+        {
+          "name": "Songer",
+          "url": "https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd"
+        }
+      ],
+      "duration_ms": 243103,
+      "name": "Beamin\u2019 - K Motionz & skantia Remix",
+      "url": "https://open.spotify.com/track/56qOWeHCiS8EbdYc39sjEr"
+    },
+    {
+      "added_at": "2026-05-21 12:27:49",
+      "album": {
+        "name": "Corner",
+        "url": "https://open.spotify.com/album/7LIdJo9owJofjVeNaF8ig4"
+      },
+      "artists": [
+        {
+          "name": "Riko Dan",
+          "url": "https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y"
+        },
+        {
+          "name": "Skepsis",
+          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
+        }
+      ],
+      "duration_ms": 136551,
+      "name": "Corner",
+      "url": "https://open.spotify.com/track/6MQnpSXLfCmMcA9xfU3O2o"
+    },
+    {
+      "added_at": "2026-05-21 12:27:49",
+      "album": {
         "name": "Winter Mix Vol.2",
         "url": "https://open.spotify.com/album/5LbxXb4abEIXhy0Qv5WC66"
       },
@@ -799,6 +799,26 @@
       "duration_ms": 76800,
       "name": "Cascade - Mixed",
       "url": "https://open.spotify.com/track/3rH8Q8cPoYxfZUjGAJa39B"
+    },
+    {
+      "added_at": "2026-05-21 12:27:49",
+      "album": {
+        "name": "Let Me Down",
+        "url": "https://open.spotify.com/album/5RNHB1KgP1wZbIHImr3VGD"
+      },
+      "artists": [
+        {
+          "name": "Grafix",
+          "url": "https://open.spotify.com/artist/27YdXZOMLqvxI2pB5GyqyY"
+        },
+        {
+          "name": "Rova",
+          "url": "https://open.spotify.com/artist/1uv53JWHsAxxRygGZMsguH"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Let Me Down",
+      "url": "https://open.spotify.com/track/22ODhRNhJ48mbz0a7Ylqw5"
     },
     {
       "added_at": "2026-05-21 12:27:49",
@@ -823,26 +843,6 @@
       "duration_ms": 201603,
       "name": "Good Times (feat. ellen lynch)",
       "url": "https://open.spotify.com/track/5YrrUGwh8YgQCnj2sMRMEf"
-    },
-    {
-      "added_at": "2026-05-21 12:27:49",
-      "album": {
-        "name": "Let Me Down",
-        "url": "https://open.spotify.com/album/5RNHB1KgP1wZbIHImr3VGD"
-      },
-      "artists": [
-        {
-          "name": "Grafix",
-          "url": "https://open.spotify.com/artist/27YdXZOMLqvxI2pB5GyqyY"
-        },
-        {
-          "name": "Rova",
-          "url": "https://open.spotify.com/artist/1uv53JWHsAxxRygGZMsguH"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Let Me Down",
-      "url": "https://open.spotify.com/track/22ODhRNhJ48mbz0a7Ylqw5"
     },
     {
       "added_at": "2026-05-21 12:27:49",
@@ -907,22 +907,6 @@
     {
       "added_at": "2026-05-21 12:27:49",
       "album": {
-        "name": "Go Hard / Wednesday",
-        "url": "https://open.spotify.com/album/6E3kaGfskdiO3Z6N08RDVB"
-      },
-      "artists": [
-        {
-          "name": "T-Lex",
-          "url": "https://open.spotify.com/artist/3diWJAdGxsO9OT4cRe0khL"
-        }
-      ],
-      "duration_ms": 267586,
-      "name": "Go Hard",
-      "url": "https://open.spotify.com/track/5wzjPaLjmAshBs0oT4SOaQ"
-    },
-    {
-      "added_at": "2026-05-21 12:27:49",
-      "album": {
         "name": "LOUDER",
         "url": "https://open.spotify.com/album/4BlHJap7UWIyvT0ZdsrwoD"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 222069,
       "name": "LOUDER",
       "url": "https://open.spotify.com/track/6yWCx32ltE7Kcoq6k4hJqX"
+    },
+    {
+      "added_at": "2026-05-21 12:27:49",
+      "album": {
+        "name": "Go Hard / Wednesday",
+        "url": "https://open.spotify.com/album/6E3kaGfskdiO3Z6N08RDVB"
+      },
+      "artists": [
+        {
+          "name": "T-Lex",
+          "url": "https://open.spotify.com/artist/3diWJAdGxsO9OT4cRe0khL"
+        }
+      ],
+      "duration_ms": 267586,
+      "name": "Go Hard",
+      "url": "https://open.spotify.com/track/5wzjPaLjmAshBs0oT4SOaQ"
     },
     {
       "added_at": "2026-05-21 12:27:49",

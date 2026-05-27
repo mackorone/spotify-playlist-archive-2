@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-14",
-  "description": "Bringing out the best of latest love tracks\nCover : Ramani Kalyanam",
+  "description": "Bringing out the best of latest love tracks\nCover : EPIC - First Semester",
   "name": "Latest Romance Telugu",
   "tracks": [
     {
@@ -1184,7 +1184,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-27",
       "duration_ms": 231028,
       "name": "Chaatu Chaatu (From \"Purushaha\")",
       "url": "https://open.spotify.com/track/1ZhjHDI4F8PjUESWGC1eQi"
@@ -1448,7 +1448,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-27",
       "duration_ms": 319285,
       "name": "Cheliya Telusa Telusa",
       "url": "https://open.spotify.com/track/6WuhxTAgKVgTWLLnd0DKjM"
@@ -8265,6 +8265,32 @@
     },
     {
       "album": {
+        "name": "Priyasakhi (From \"EPIC - First Semester\")",
+        "url": "https://open.spotify.com/album/1E1CnQQez2ZOyNRYOv2zip"
+      },
+      "artists": [
+        {
+          "name": "Hesham Abdul Wahab",
+          "url": "https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ"
+        },
+        {
+          "name": "K. S. Harisankar",
+          "url": "https://open.spotify.com/artist/4JXqxFqi9dxlsiXKZhKvzB"
+        },
+        {
+          "name": "Suresh Banisetti",
+          "url": "https://open.spotify.com/artist/3gcOBaedkasgxYjFVE81Km"
+        }
+      ],
+      "date_added": "2026-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224081,
+      "name": "Priyasakhi (From \"EPIC - First Semester\")",
+      "url": "https://open.spotify.com/track/1HDXZO5k652uOnB6L8hc66"
+    },
+    {
+      "album": {
         "name": "Pourusham",
         "url": "https://open.spotify.com/album/6KWng0hTmtwEvJB7OPVpxt"
       },
@@ -9636,6 +9662,32 @@
       "duration_ms": 190083,
       "name": "Vaarevaa Vaarevaa (From \"Lenin\")",
       "url": "https://open.spotify.com/track/5SSYMRye4sfUYk5yjMdvWV"
+    },
+    {
+      "album": {
+        "name": "Vadhalane (From \"Chennai Love Story\")",
+        "url": "https://open.spotify.com/album/0LnAPIJRsoddHigTUU5Owb"
+      },
+      "artists": [
+        {
+          "name": "Mani Sharma",
+          "url": "https://open.spotify.com/artist/3AMxH9QIPZbK8ND8C9j4Ss"
+        },
+        {
+          "name": "Javed Ali",
+          "url": "https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7"
+        },
+        {
+          "name": "Anantha Sreeram",
+          "url": "https://open.spotify.com/artist/73q7QOnwGy6huqoJ9JCRYD"
+        }
+      ],
+      "date_added": "2026-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333139,
+      "name": "Vadhalane (From \"Chennai Love Story\")",
+      "url": "https://open.spotify.com/track/6BLvkHBMNT1D4vr2XjvRAS"
     },
     {
       "album": {

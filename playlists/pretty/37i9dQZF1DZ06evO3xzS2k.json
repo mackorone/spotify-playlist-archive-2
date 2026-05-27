@@ -1,12 +1,12 @@
 {
   "description": "This is Nothing. The essential tracks, all in one playlist.",
-  "num_followers": 2951,
+  "num_followers": 2956,
   "original_name": "This Is Nothing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahI/gAAAAAAxlHeq675cgero3/QdSdUo",
+  "snapshot_id": "ahORAAAAAAAjS4bK2UD9ON598KFBA5O3",
   "tracks": [
     {
       "added_at": null,
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
         }
       ],
-      "duration_ms": 328000,
-      "name": "a short history of decay",
-      "url": "https://open.spotify.com/track/50433OMDh4XkIDIXNBrMmz"
+      "duration_ms": 227733,
+      "name": "toothless coal",
+      "url": "https://open.spotify.com/track/1ckFnaRw0D1yG4ZECJCyUM"
     },
     {
       "added_at": null,
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
         }
       ],
-      "duration_ms": 227733,
-      "name": "toothless coal",
-      "url": "https://open.spotify.com/track/1ckFnaRw0D1yG4ZECJCyUM"
+      "duration_ms": 328000,
+      "name": "a short history of decay",
+      "url": "https://open.spotify.com/track/50433OMDh4XkIDIXNBrMmz"
     },
     {
       "added_at": null,
