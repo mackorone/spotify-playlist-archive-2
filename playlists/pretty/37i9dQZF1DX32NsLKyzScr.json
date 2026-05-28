@@ -1,6 +1,6 @@
 {
   "description": "Tap it back or go for a spin with these uptempo tracks!",
-  "num_followers": 2598693,
+  "num_followers": 2598794,
   "original_name": "Power Hour",
   "owner": {
     "name": "Spotify",
@@ -51,26 +51,6 @@
     {
       "added_at": "2026-05-22 04:00:26",
       "album": {
-        "name": "New Religion",
-        "url": "https://open.spotify.com/album/20tsEm7Eiww4EqHRYzWdyH"
-      },
-      "artists": [
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        },
-        {
-          "name": "Faithless",
-          "url": "https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE"
-        }
-      ],
-      "duration_ms": 174400,
-      "name": "New Religion",
-      "url": "https://open.spotify.com/track/2Lb9ww5vZAnveWnrFQfAKR"
-    },
-    {
-      "added_at": "2026-05-22 04:00:26",
-      "album": {
         "name": "Free Your Mind",
         "url": "https://open.spotify.com/album/0uo2O3BcYrZJzCnHk0I0BU"
       },
@@ -87,6 +67,26 @@
       "duration_ms": 201700,
       "name": "Free Your Mind",
       "url": "https://open.spotify.com/track/6TWbY1dq8eYtFiMiGdBlOa"
+    },
+    {
+      "added_at": "2026-05-22 04:00:26",
+      "album": {
+        "name": "New Religion",
+        "url": "https://open.spotify.com/album/20tsEm7Eiww4EqHRYzWdyH"
+      },
+      "artists": [
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        },
+        {
+          "name": "Faithless",
+          "url": "https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE"
+        }
+      ],
+      "duration_ms": 174400,
+      "name": "New Religion",
+      "url": "https://open.spotify.com/track/2Lb9ww5vZAnveWnrFQfAKR"
     },
     {
       "added_at": "2026-05-22 04:00:26",
@@ -419,26 +419,18 @@
     {
       "added_at": "2026-05-22 04:00:26",
       "album": {
-        "name": "ALL THE TIME",
-        "url": "https://open.spotify.com/album/6wDs2CP86hhNiDlySlMgZy"
+        "name": "Born In The Echoes",
+        "url": "https://open.spotify.com/album/3XUVUh6hisN43r2eZAOJRD"
       },
       "artists": [
         {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        },
-        {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        },
-        {
-          "name": "Ilsey",
-          "url": "https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j"
+          "name": "The Chemical Brothers",
+          "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
         }
       ],
-      "duration_ms": 180340,
-      "name": "ALL THE TIME",
-      "url": "https://open.spotify.com/track/1V8eQfZ1zpcdA9ctIb6fY7"
+      "duration_ms": 260696,
+      "name": "Go",
+      "url": "https://open.spotify.com/track/2Xhd1kYKj2aee7JR3nIlRe"
     },
     {
       "added_at": "2026-05-22 04:00:26",
@@ -459,18 +451,26 @@
     {
       "added_at": "2026-05-22 04:00:26",
       "album": {
-        "name": "Born In The Echoes",
-        "url": "https://open.spotify.com/album/3XUVUh6hisN43r2eZAOJRD"
+        "name": "ALL THE TIME",
+        "url": "https://open.spotify.com/album/6wDs2CP86hhNiDlySlMgZy"
       },
       "artists": [
         {
-          "name": "The Chemical Brothers",
-          "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "Ilsey",
+          "url": "https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j"
         }
       ],
-      "duration_ms": 260696,
-      "name": "Go",
-      "url": "https://open.spotify.com/track/2Xhd1kYKj2aee7JR3nIlRe"
+      "duration_ms": 180340,
+      "name": "ALL THE TIME",
+      "url": "https://open.spotify.com/track/1V8eQfZ1zpcdA9ctIb6fY7"
     },
     {
       "added_at": "2026-05-22 04:00:26",
@@ -515,6 +515,42 @@
     {
       "added_at": "2026-05-22 04:00:26",
       "album": {
+        "name": "Destiny",
+        "url": "https://open.spotify.com/album/6elqX6r1NOL3ZzyaC6pi1p"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "SACHA",
+          "url": "https://open.spotify.com/artist/1VP5hxNzge9bfbtDvCJwFG"
+        }
+      ],
+      "duration_ms": 170625,
+      "name": "Destiny",
+      "url": "https://open.spotify.com/track/226k90b2zBBhhnHtF5G7bB"
+    },
+    {
+      "added_at": "2026-05-22 04:00:26",
+      "album": {
+        "name": "Comes and Goes",
+        "url": "https://open.spotify.com/album/4hKZm0EEZeOi7tbUhXTeCs"
+      },
+      "artists": [
+        {
+          "name": "KETTAMA",
+          "url": "https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4"
+        }
+      ],
+      "duration_ms": 262170,
+      "name": "Comes and Goes",
+      "url": "https://open.spotify.com/track/3xQPerJjDVZrSFVE340D8r"
+    },
+    {
+      "added_at": "2026-05-22 04:00:26",
+      "album": {
         "name": "CTRL ESCAPE",
         "url": "https://open.spotify.com/album/3M5cmrMP6IkqcrpHKOwO6e"
       },
@@ -535,26 +571,6 @@
       "duration_ms": 203076,
       "name": "SHADES OF BLUE",
       "url": "https://open.spotify.com/track/6Pr51Pbeeu9PXskLUBfaBf"
-    },
-    {
-      "added_at": "2026-05-22 04:00:26",
-      "album": {
-        "name": "Destiny",
-        "url": "https://open.spotify.com/album/6elqX6r1NOL3ZzyaC6pi1p"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "SACHA",
-          "url": "https://open.spotify.com/artist/1VP5hxNzge9bfbtDvCJwFG"
-        }
-      ],
-      "duration_ms": 170625,
-      "name": "Destiny",
-      "url": "https://open.spotify.com/track/226k90b2zBBhhnHtF5G7bB"
     },
     {
       "added_at": "2026-05-22 04:00:26",
@@ -619,22 +635,6 @@
     {
       "added_at": "2026-05-22 04:00:26",
       "album": {
-        "name": "Comes and Goes",
-        "url": "https://open.spotify.com/album/4hKZm0EEZeOi7tbUhXTeCs"
-      },
-      "artists": [
-        {
-          "name": "KETTAMA",
-          "url": "https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4"
-        }
-      ],
-      "duration_ms": 262170,
-      "name": "Comes and Goes",
-      "url": "https://open.spotify.com/track/3xQPerJjDVZrSFVE340D8r"
-    },
-    {
-      "added_at": "2026-05-22 04:00:26",
-      "album": {
         "name": "Losing Control",
         "url": "https://open.spotify.com/album/4x4LKLSlnUfLVCHKDmD9LV"
       },
@@ -651,26 +651,6 @@
       "duration_ms": 170270,
       "name": "Losing Control",
       "url": "https://open.spotify.com/track/3gJ16QEGGhLFPNLvbXgB1u"
-    },
-    {
-      "added_at": "2026-05-22 04:00:26",
-      "album": {
-        "name": "Addicted To Bass (Dom Dolla Relapse)",
-        "url": "https://open.spotify.com/album/659fi13MrTySSxJqmatMMu"
-      },
-      "artists": [
-        {
-          "name": "Dom Dolla",
-          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
-        },
-        {
-          "name": "Puretone",
-          "url": "https://open.spotify.com/artist/0Ykcjr4TDZEiWlv6ULmSK8"
-        }
-      ],
-      "duration_ms": 189179,
-      "name": "Addicted To Bass (Dom Dolla Relapse)",
-      "url": "https://open.spotify.com/track/0umvGSFCXSyrHGcXKwsvCg"
     },
     {
       "added_at": "2026-05-22 04:00:26",
@@ -695,6 +675,26 @@
       "duration_ms": 206363,
       "name": "Meet Again",
       "url": "https://open.spotify.com/track/4XQqAGRG3jRH0fVmVpyOms"
+    },
+    {
+      "added_at": "2026-05-22 04:00:26",
+      "album": {
+        "name": "Addicted To Bass (Dom Dolla Relapse)",
+        "url": "https://open.spotify.com/album/659fi13MrTySSxJqmatMMu"
+      },
+      "artists": [
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        },
+        {
+          "name": "Puretone",
+          "url": "https://open.spotify.com/artist/0Ykcjr4TDZEiWlv6ULmSK8"
+        }
+      ],
+      "duration_ms": 189179,
+      "name": "Addicted To Bass (Dom Dolla Relapse)",
+      "url": "https://open.spotify.com/track/0umvGSFCXSyrHGcXKwsvCg"
     },
     {
       "added_at": "2026-05-22 04:00:26",
@@ -1267,6 +1267,26 @@
     {
       "added_at": "2026-05-22 04:00:26",
       "album": {
+        "name": "NEWORLD II",
+        "url": "https://open.spotify.com/album/3MsGUzi6KydfvhUYVZBQhK"
+      },
+      "artists": [
+        {
+          "name": "Argy",
+          "url": "https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI"
+        },
+        {
+          "name": "Omiki",
+          "url": "https://open.spotify.com/artist/7pHwBqsYULdAdHgSwf1q9f"
+        }
+      ],
+      "duration_ms": 169090,
+      "name": "DONA",
+      "url": "https://open.spotify.com/track/30Z6Dp5Ddy6FN3xjm1XXLS"
+    },
+    {
+      "added_at": "2026-05-22 04:00:26",
+      "album": {
         "name": "Lost In Time",
         "url": "https://open.spotify.com/album/1c7o9ajxJB1Cz3KuncnLDz"
       },
@@ -1287,26 +1307,6 @@
       "duration_ms": 147777,
       "name": "Lost In Time",
       "url": "https://open.spotify.com/track/4LcxZayrPlz96szZpTDvBV"
-    },
-    {
-      "added_at": "2026-05-22 04:00:26",
-      "album": {
-        "name": "NEWORLD II",
-        "url": "https://open.spotify.com/album/3MsGUzi6KydfvhUYVZBQhK"
-      },
-      "artists": [
-        {
-          "name": "Argy",
-          "url": "https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI"
-        },
-        {
-          "name": "Omiki",
-          "url": "https://open.spotify.com/artist/7pHwBqsYULdAdHgSwf1q9f"
-        }
-      ],
-      "duration_ms": 169090,
-      "name": "DONA",
-      "url": "https://open.spotify.com/track/30Z6Dp5Ddy6FN3xjm1XXLS"
     },
     {
       "added_at": "2026-05-22 04:00:26",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2026-05-22 04:00:26",
       "album": {
+        "name": "collide",
+        "url": "https://open.spotify.com/album/6JRhqulQNuOcumg7npM4QW"
+      },
+      "artists": [
+        {
+          "name": "\u0141aszewo",
+          "url": "https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN"
+        }
+      ],
+      "duration_ms": 253714,
+      "name": "collide",
+      "url": "https://open.spotify.com/track/1i2mlzAv7HAAMMSZyUJ2B2"
+    },
+    {
+      "added_at": "2026-05-22 04:00:26",
+      "album": {
         "name": "Turn Up The Dose",
         "url": "https://open.spotify.com/album/4QVwTM7fq8X71sXAPhMi7P"
       },
@@ -1395,22 +1411,6 @@
       "duration_ms": 172615,
       "name": "Turn Up The Dose",
       "url": "https://open.spotify.com/track/4IIb4DQxNBAowpUJmKYNMD"
-    },
-    {
-      "added_at": "2026-05-22 04:00:26",
-      "album": {
-        "name": "collide",
-        "url": "https://open.spotify.com/album/6JRhqulQNuOcumg7npM4QW"
-      },
-      "artists": [
-        {
-          "name": "\u0141aszewo",
-          "url": "https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN"
-        }
-      ],
-      "duration_ms": 253714,
-      "name": "collide",
-      "url": "https://open.spotify.com/track/1i2mlzAv7HAAMMSZyUJ2B2"
     },
     {
       "added_at": "2026-05-22 04:00:26",
@@ -1491,6 +1491,22 @@
     {
       "added_at": "2026-05-22 04:00:26",
       "album": {
+        "name": "For The Soul",
+        "url": "https://open.spotify.com/album/2aOqjUv4Fw2t7TuUoIujEW"
+      },
+      "artists": [
+        {
+          "name": "Tini Gessler",
+          "url": "https://open.spotify.com/artist/5k1fr2qbGZrk40njMAyv0x"
+        }
+      ],
+      "duration_ms": 175384,
+      "name": "For The Soul",
+      "url": "https://open.spotify.com/track/3tvfmoyEtk3kuktDUssJam"
+    },
+    {
+      "added_at": "2026-05-22 04:00:26",
+      "album": {
         "name": "She's A Devil",
         "url": "https://open.spotify.com/album/0KNBzGKNzi9sS8R3TCjwQb"
       },
@@ -1507,22 +1523,6 @@
       "duration_ms": 204923,
       "name": "She's A Devil",
       "url": "https://open.spotify.com/track/0RGoQAGnUlFkKcaCta4vmH"
-    },
-    {
-      "added_at": "2026-05-22 04:00:26",
-      "album": {
-        "name": "For The Soul",
-        "url": "https://open.spotify.com/album/2aOqjUv4Fw2t7TuUoIujEW"
-      },
-      "artists": [
-        {
-          "name": "Tini Gessler",
-          "url": "https://open.spotify.com/artist/5k1fr2qbGZrk40njMAyv0x"
-        }
-      ],
-      "duration_ms": 175384,
-      "name": "For The Soul",
-      "url": "https://open.spotify.com/track/3tvfmoyEtk3kuktDUssJam"
     },
     {
       "added_at": "2026-05-22 04:00:26",
@@ -1719,6 +1719,26 @@
     {
       "added_at": "2026-05-22 04:00:26",
       "album": {
+        "name": "Annihilation",
+        "url": "https://open.spotify.com/album/6y9alfpegbSRAG98P91Nk0"
+      },
+      "artists": [
+        {
+          "name": "KREAM",
+          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+        },
+        {
+          "name": "Korolova",
+          "url": "https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx"
+        }
+      ],
+      "duration_ms": 187384,
+      "name": "Annihilation",
+      "url": "https://open.spotify.com/track/42qH7RSRQBvrMiKfKNkUto"
+    },
+    {
+      "added_at": "2026-05-22 04:00:26",
+      "album": {
         "name": "Greece 2000 (Max Styler Rework)",
         "url": "https://open.spotify.com/album/6waS2OtH6DmHs3uBbRpM43"
       },
@@ -1871,26 +1891,6 @@
     {
       "added_at": "2026-05-22 04:00:26",
       "album": {
-        "name": "Annihilation",
-        "url": "https://open.spotify.com/album/6y9alfpegbSRAG98P91Nk0"
-      },
-      "artists": [
-        {
-          "name": "KREAM",
-          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
-        },
-        {
-          "name": "Korolova",
-          "url": "https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx"
-        }
-      ],
-      "duration_ms": 187384,
-      "name": "Annihilation",
-      "url": "https://open.spotify.com/track/42qH7RSRQBvrMiKfKNkUto"
-    },
-    {
-      "added_at": "2026-05-22 04:00:26",
-      "album": {
         "name": "Arp12",
         "url": "https://open.spotify.com/album/7Co7HPNp3CaE10oPWCGth4"
       },
@@ -1907,26 +1907,6 @@
       "duration_ms": 260053,
       "name": "Arp12",
       "url": "https://open.spotify.com/track/1uAqEwBLKdJw8N5T7qAWMX"
-    },
-    {
-      "added_at": "2026-05-22 04:00:26",
-      "album": {
-        "name": "Pretender",
-        "url": "https://open.spotify.com/album/21IS6JKY4bHsX82VemUKoq"
-      },
-      "artists": [
-        {
-          "name": "KSHMR",
-          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
-        },
-        {
-          "name": "Sam Feldt",
-          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
-        }
-      ],
-      "duration_ms": 192681,
-      "name": "Pretender",
-      "url": "https://open.spotify.com/track/7yFK39Oj4ItOfiifL8D40e"
     },
     {
       "added_at": "2026-05-22 04:00:26",
@@ -1951,6 +1931,26 @@
     {
       "added_at": "2026-05-22 04:00:26",
       "album": {
+        "name": "Pretender",
+        "url": "https://open.spotify.com/album/21IS6JKY4bHsX82VemUKoq"
+      },
+      "artists": [
+        {
+          "name": "KSHMR",
+          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
+        },
+        {
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+        }
+      ],
+      "duration_ms": 192681,
+      "name": "Pretender",
+      "url": "https://open.spotify.com/track/7yFK39Oj4ItOfiifL8D40e"
+    },
+    {
+      "added_at": "2026-05-22 04:00:26",
+      "album": {
         "name": "Lighter",
         "url": "https://open.spotify.com/album/50lrGLN2b1eO2t1rIuzc3h"
       },
@@ -1971,6 +1971,22 @@
     {
       "added_at": "2026-05-22 04:00:26",
       "album": {
+        "name": "Turbo Speed",
+        "url": "https://open.spotify.com/album/0K72EPIuZhMavGaAjIvuUX"
+      },
+      "artists": [
+        {
+          "name": "Control Alt Delete",
+          "url": "https://open.spotify.com/artist/67vd9gNF4DOLk91mqL6Jkd"
+        }
+      ],
+      "duration_ms": 168275,
+      "name": "Turbo Speed",
+      "url": "https://open.spotify.com/track/0j5CaQ9881LxFM8Cwh9JuH"
+    },
+    {
+      "added_at": "2026-05-22 04:00:26",
+      "album": {
         "name": "Enjoy the Silence (Don Diablo Version)",
         "url": "https://open.spotify.com/album/4QsFjDF4p71D1fkmC1Foh9"
       },
@@ -1987,22 +2003,6 @@
       "duration_ms": 200000,
       "name": "Enjoy the Silence - Don Diablo Version",
       "url": "https://open.spotify.com/track/3ZnFQ1vBuSp9ec7gGAGsEm"
-    },
-    {
-      "added_at": "2026-05-22 04:00:26",
-      "album": {
-        "name": "Turbo Speed",
-        "url": "https://open.spotify.com/album/0K72EPIuZhMavGaAjIvuUX"
-      },
-      "artists": [
-        {
-          "name": "Control Alt Delete",
-          "url": "https://open.spotify.com/artist/67vd9gNF4DOLk91mqL6Jkd"
-        }
-      ],
-      "duration_ms": 168275,
-      "name": "Turbo Speed",
-      "url": "https://open.spotify.com/track/0j5CaQ9881LxFM8Cwh9JuH"
     },
     {
       "added_at": "2026-05-22 04:00:26",
@@ -2183,22 +2183,6 @@
     {
       "added_at": "2026-05-22 04:00:26",
       "album": {
-        "name": "Yogen",
-        "url": "https://open.spotify.com/album/6lV6E5nP31wVp6lIO2qiqu"
-      },
-      "artists": [
-        {
-          "name": "Mathame",
-          "url": "https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS"
-        }
-      ],
-      "duration_ms": 158769,
-      "name": "Yogen",
-      "url": "https://open.spotify.com/track/68xerRWgQrWYhVaojwmOXe"
-    },
-    {
-      "added_at": "2026-05-22 04:00:26",
-      "album": {
         "name": "Lost My Mind",
         "url": "https://open.spotify.com/album/3vUMb6M2VrUH3750wk7HrV"
       },
@@ -2215,6 +2199,22 @@
       "duration_ms": 119869,
       "name": "Lost My Mind",
       "url": "https://open.spotify.com/track/7HyS0rgA4t34Ri1dYA95oH"
+    },
+    {
+      "added_at": "2026-05-22 04:00:26",
+      "album": {
+        "name": "Yogen",
+        "url": "https://open.spotify.com/album/6lV6E5nP31wVp6lIO2qiqu"
+      },
+      "artists": [
+        {
+          "name": "Mathame",
+          "url": "https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS"
+        }
+      ],
+      "duration_ms": 158769,
+      "name": "Yogen",
+      "url": "https://open.spotify.com/track/68xerRWgQrWYhVaojwmOXe"
     },
     {
       "added_at": "2026-05-22 04:00:26",
@@ -2271,26 +2271,6 @@
     {
       "added_at": "2026-05-22 04:00:26",
       "album": {
-        "name": "Endless",
-        "url": "https://open.spotify.com/album/3ZzkgSv5FF4L7BKt0ZqzlV"
-      },
-      "artists": [
-        {
-          "name": "Mathame",
-          "url": "https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS"
-        },
-        {
-          "name": "Jex",
-          "url": "https://open.spotify.com/artist/0NO8SsF6umjI3iQJzTycVF"
-        }
-      ],
-      "duration_ms": 196691,
-      "name": "Endless",
-      "url": "https://open.spotify.com/track/1I7qxmsvOhsQpJLL5s7WET"
-    },
-    {
-      "added_at": "2026-05-22 04:00:26",
-      "album": {
         "name": "World & Back (feat. Riko Dan)",
         "url": "https://open.spotify.com/album/3VUsBW3tT4QzsItJSDVL5n"
       },
@@ -2307,6 +2287,26 @@
       "duration_ms": 179956,
       "name": "World & Back (feat. Riko Dan)",
       "url": "https://open.spotify.com/track/5LkWl4o5BrKqnf7Zms4D0u"
+    },
+    {
+      "added_at": "2026-05-22 04:00:26",
+      "album": {
+        "name": "Endless",
+        "url": "https://open.spotify.com/album/3ZzkgSv5FF4L7BKt0ZqzlV"
+      },
+      "artists": [
+        {
+          "name": "Mathame",
+          "url": "https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS"
+        },
+        {
+          "name": "Jex",
+          "url": "https://open.spotify.com/artist/0NO8SsF6umjI3iQJzTycVF"
+        }
+      ],
+      "duration_ms": 196691,
+      "name": "Endless",
+      "url": "https://open.spotify.com/track/1I7qxmsvOhsQpJLL5s7WET"
     },
     {
       "added_at": "2026-05-22 04:00:26",
@@ -2395,6 +2395,22 @@
     {
       "added_at": "2026-05-22 04:00:26",
       "album": {
+        "name": "Burn The River",
+        "url": "https://open.spotify.com/album/1bWlKLEAmxxauuo9QR32zL"
+      },
+      "artists": [
+        {
+          "name": "Sammy Virji",
+          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
+        }
+      ],
+      "duration_ms": 226522,
+      "name": "Burn The River",
+      "url": "https://open.spotify.com/track/7MNuKAnwwXu0GqEZV8TYCf"
+    },
+    {
+      "added_at": "2026-05-22 04:00:26",
+      "album": {
         "name": "Deep Down",
         "url": "https://open.spotify.com/album/6EamBf1vIof4uCfBkRKadw"
       },
@@ -2411,22 +2427,6 @@
       "duration_ms": 185142,
       "name": "Deep Down",
       "url": "https://open.spotify.com/track/7iWa3V2lqxh7AtMVFju1W8"
-    },
-    {
-      "added_at": "2026-05-22 04:00:26",
-      "album": {
-        "name": "Burn The River",
-        "url": "https://open.spotify.com/album/1bWlKLEAmxxauuo9QR32zL"
-      },
-      "artists": [
-        {
-          "name": "Sammy Virji",
-          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
-        }
-      ],
-      "duration_ms": 226522,
-      "name": "Burn The River",
-      "url": "https://open.spotify.com/track/7MNuKAnwwXu0GqEZV8TYCf"
     },
     {
       "added_at": "2026-05-22 04:00:26",

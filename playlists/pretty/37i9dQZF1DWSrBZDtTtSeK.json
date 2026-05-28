@@ -1,6 +1,6 @@
 {
   "description": "The official playlist for the GIANTS show with the Dean collection, opening in Minneapolis on March 7th. Get your tickets<a href=\"https://tickets.artsmia.org/events/01934052-e7dc-337b-b9f3-e4216feb4d0e\"> here</a>.",
-  "num_followers": 5450,
+  "num_followers": 5455,
   "original_name": "GIANTS",
   "owner": {
     "name": "Spotify",
@@ -1060,12 +1060,12 @@
       },
       "artists": [
         {
-          "name": "Ruff Ryders",
-          "url": "https://open.spotify.com/artist/2q0HDEYPYC2oZjXgYqAWMZ"
-        },
-        {
           "name": "JA\u0178-Z",
           "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        {
+          "name": "Ruff Ryders",
+          "url": "https://open.spotify.com/artist/2q0HDEYPYC2oZjXgYqAWMZ"
         }
       ],
       "duration_ms": 279960,

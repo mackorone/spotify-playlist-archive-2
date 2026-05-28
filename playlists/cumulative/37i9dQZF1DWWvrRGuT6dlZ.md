@@ -2,9 +2,9 @@
 
 ### [Fresh Finds SG & MY](https://open.spotify.com/playlist/37i9dQZF1DWWvrRGuT6dlZ)
 
-> The best new music from fresh and emerging artists\. Curated with love by human Spotify editors\. Cover: Heidi Moru Artwork: Isu Kim.
+> The best new music from fresh and emerging artists\. Curated with love by human Spotify editors\. Cover: Claire Javier\. Artwork: Isu Kim.
 
-1,470 songs - 3 day 8 hr 27 min
+1,471 songs - 3 day 8 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1117,6 +1117,7 @@
 | [Stepped Out](https://open.spotify.com/track/5ahoBmPEdFeMDtfoRnVTih) | [Count Vernon](https://open.spotify.com/artist/2047BIPNm8CrFvFRmu8CvS) | [The Nomad Diaries](https://open.spotify.com/album/6PoVtTqUjdDFE67k4YN4YC) | 3:31 | 2023-11-17 | 2024-02-16 |
 | [Stepped Out](https://open.spotify.com/track/6h60gzTtGD8s6FxUknwPxU) | [Count Vernon](https://open.spotify.com/artist/2047BIPNm8CrFvFRmu8CvS) | [The Nomad Diaries](https://open.spotify.com/album/2K4lmCE2cPoRlI3QtHSYbW) | 3:31 | 2023-11-09 | 2023-11-22 |
 | [STILL HER](https://open.spotify.com/track/6mlH1Nb6Znliy8lUKKTsK9) | [Khai Zhen](https://open.spotify.com/artist/3GldAoLXb21txq84tbuuuz) | [STILL HER](https://open.spotify.com/album/6WDX9O6IgPSmUyqST5vumx) | 2:42 | 2025-03-21 | 2025-05-03 |
+| [still want it all](https://open.spotify.com/track/1OU0Lz9YH1JPOf2uR4tHyM) | [Claire Javier](https://open.spotify.com/artist/0YOmSGHZSCYRXMZYWnIAOz) | [still want it all](https://open.spotify.com/album/7Ds3zE6nVbsFSRfgDOXAOO) | 3:08 | 2026-05-27 |  |
 | [Stolen](https://open.spotify.com/track/1oSC81BQM0d2Wt3UgoG66Z) | [Yazmin Aziz](https://open.spotify.com/artist/45zTHOPOnQwfIIKnnZ10NG), [DJ Fuzz](https://open.spotify.com/artist/1YfTLG8X1AGBhEuUegQJrb) | [Stolen](https://open.spotify.com/album/5hLO7KicXb7v9tDt3xMLjl) | 3:27 | 2023-06-15 | 2023-11-24 |
 | [STOMACH](https://open.spotify.com/track/2op3wlyMsRgQzr7MeN91A3) | [ALICIA DC](https://open.spotify.com/artist/7zh84sU4kvNPzoqUjFrE9E) | [STOMACH](https://open.spotify.com/album/6cFiqJZGPZrrzx5KjbB0iU) | 1:15 | 2026-05-06 |  |
 | [Stop Playing!](https://open.spotify.com/track/2fZAtkoNrUrJuiCeeCUgEy) | [Mary Sue](https://open.spotify.com/artist/2vmWNXWLIWsf0mlVQoO251), [Psychedelic Ensemble\. ](https://open.spotify.com/artist/3n6uOAk5t1mGD2JhBGC2kO) | [CACOPHONOUS DIGRESSIONS, A RECORD OF A MOMENT IN TIME](https://open.spotify.com/album/0DI7fCoiZixb2rscyjE8lj) | 1:22 | 2023-11-02 | 2024-01-19 |

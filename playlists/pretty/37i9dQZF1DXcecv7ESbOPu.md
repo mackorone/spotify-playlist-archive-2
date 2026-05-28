@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik från Oskar Linnros, Jireel och Fanny Avonne med flera\. Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,587 likes - 104 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,582 likes - 104 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

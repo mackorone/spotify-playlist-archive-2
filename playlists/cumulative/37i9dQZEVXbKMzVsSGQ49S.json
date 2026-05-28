@@ -1848,7 +1848,7 @@
       ],
       "date_added": "2022-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-28",
       "duration_ms": 324568,
       "name": "Afgan",
       "url": "https://open.spotify.com/track/4OVD1iLIGfdYhh0jUWsluy"
@@ -2898,7 +2898,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-28",
       "duration_ms": 206985,
       "name": "ALLT \u00cd BL\u00d3MA",
       "url": "https://open.spotify.com/track/2m6GZMG222P2AKEHmPjZxl"
@@ -11506,7 +11506,7 @@
       ],
       "date_added": "2025-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-24",
+      "date_removed": null,
       "duration_ms": 176453,
       "name": "DAISIES",
       "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb"
@@ -14086,7 +14086,7 @@
       ],
       "date_added": "2023-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-27",
+      "date_removed": null,
       "duration_ms": 257800,
       "name": "Dreams - 2004 Remaster",
       "url": "https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz"
@@ -19213,6 +19213,28 @@
     },
     {
       "album": {
+        "name": "Flugeldar",
+        "url": "https://open.spotify.com/album/3d6zXFGzHCR1u8V1cFZd7f"
+      },
+      "artists": [
+        {
+          "name": "Birgitta Haukdal",
+          "url": "https://open.spotify.com/artist/1O3sO8IS9U6jkX4AdEza4A"
+        },
+        {
+          "name": "Herra Hnetusmj\u00f6r",
+          "url": "https://open.spotify.com/artist/6MBiPjSFsYijvVDtKDwVs4"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185238,
+      "name": "Flugeldar",
+      "url": "https://open.spotify.com/track/4fDZDG4320P1C8lud9u31A"
+    },
+    {
+      "album": {
         "name": "Alltaf sami Lui",
         "url": "https://open.spotify.com/album/4DSyJMDy6Dxzxvkrxu8WGD"
       },
@@ -21904,7 +21926,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-27",
+      "date_removed": null,
       "duration_ms": 260696,
       "name": "Go",
       "url": "https://open.spotify.com/track/2Xhd1kYKj2aee7JR3nIlRe"
@@ -21922,7 +21944,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-28",
       "duration_ms": 260696,
       "name": "Go",
       "url": "https://open.spotify.com/track/2cNjgoSh1TBHFQIhfzRJUE"
@@ -22546,7 +22568,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-28",
       "duration_ms": 179800,
       "name": "Greater Than Sign",
       "url": "https://open.spotify.com/track/6btzycPY6h9OanNZWlgifm"
@@ -39224,7 +39246,7 @@
       ],
       "date_added": "2026-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-28",
       "duration_ms": 133713,
       "name": "No Love",
       "url": "https://open.spotify.com/track/2O4CcYOvOmWoChootLgfCC"
@@ -47926,7 +47948,7 @@
       ],
       "date_added": "2026-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-25",
+      "date_removed": null,
       "duration_ms": 188722,
       "name": "Shabang",
       "url": "https://open.spotify.com/track/6vjpQIdABqntoe3zPazPec"
@@ -54348,7 +54370,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-28",
       "duration_ms": 235216,
       "name": "Talk To Me About",
       "url": "https://open.spotify.com/track/6xXvBgeUlVLDdGb1lusfE0"
@@ -62056,7 +62078,7 @@
       ],
       "date_added": "2026-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-26",
+      "date_removed": null,
       "duration_ms": 222580,
       "name": "Whisper My Name",
       "url": "https://open.spotify.com/track/7KGHenqXZofXNm5MKDbT3J"

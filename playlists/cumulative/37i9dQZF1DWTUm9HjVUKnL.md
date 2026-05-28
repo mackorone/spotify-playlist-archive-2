@@ -4,7 +4,7 @@
 
 > The full collection of Spotify Singles recordings\. Cover: Mack Keane
 
-1,355 songs - 3 day 9 hr 28 min
+1,357 songs - 3 day 9 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,6 +169,7 @@
 | [California Dreamin' \- Spotify Singles](https://open.spotify.com/track/7D0q9XQg10KdlrjdDrrHph) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Spotify Singles](https://open.spotify.com/album/4U1VNYvSn36Xgak49ScRZD) | 2:53 | 2022-01-19 |  |
 | [Call Your Girlfriend \- Spotify Singles](https://open.spotify.com/track/3gyKc7WqqzH0ZYjnzlphXP) | [Jackie Mere](https://open.spotify.com/artist/4xA2Kp40KdqjdcFE6zik0p) | [Call Your Girlfriend \- Spotify Singles](https://open.spotify.com/album/1bWTawivUyBxTr6Sydx6WM) | 3:47 | 2025-02-13 |  |
 | [Can You Believe](https://open.spotify.com/track/2DEbufzHZ6fm29NDaRoKKH) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Spotify Singles](https://open.spotify.com/album/4cpxNFudYhCQbFw8810O1U) | 4:03 | 2024-01-31 |  |
+| [Can't Get You Out of My Head \- Spotify Singles](https://open.spotify.com/track/6j4kyvjM60Te1mU0H2LTwR) | [Mikayla Geier](https://open.spotify.com/artist/3L7svRFWE5kcIReq1uwC5J) | [Can't Get You Out of My Head \- Spotify Singles](https://open.spotify.com/album/6ynUBc9yQ4pq7kImTMdOql) | 2:58 | 2026-05-27 |  |
 | [Candlelight \- Spotify Singles](https://open.spotify.com/track/326EM9zAMPmr1JkGtzHnH6) | [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Spotify Singles](https://open.spotify.com/album/7ChLJ2d4pLNKIrLSuGl8Df) | 3:21 | 2023-07-25 |  |
 | [Cantaloupe Island \- Spotify Singles](https://open.spotify.com/track/35Up1VtzDnwdBleWKlDKxO) | [Bluewerks](https://open.spotify.com/artist/4ELcaEK7UaF0mUoodoVBfn), [Oatmello](https://open.spotify.com/artist/0YAkOkbeAPiS35qyouiM4O) | [Spotify Singles](https://open.spotify.com/album/1EdtxyWMoFkoWAE2g7gd5T) | 2:01 | 2022-05-04 |  |
 | [Can’t Let Go, Juno \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0JCAkoJtmFbZFhtBoFj5SL) | [Kishi Bashi](https://open.spotify.com/artist/3LVPGE5jPPwtbGslx07YR0) | [Spotify Singles](https://open.spotify.com/album/6dapn7qrubEtLbB8ZnU6Xw) | 4:21 | 2022-01-19 |  |
@@ -408,6 +409,7 @@
 | [Genom Eld & Vatten \- Spotify Singles](https://open.spotify.com/track/6TQOA3Fo2vpiEJB41PokcA) | [estraden](https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao) | [Genom Eld & Vatten \- Spotify Singles](https://open.spotify.com/album/4bbIpt6TQSObdFNOlqzPNq) | 3:06 | 2025-02-13 |  |
 | [Genom eld \- Spotify Singles](https://open.spotify.com/track/2JbyhLIxJLeUtFz5hYR4Bi) | [BELL](https://open.spotify.com/artist/2MnEe6M7ibhg3RAG0Ydtp4) | [Genom eld \(Spotify Singles\)](https://open.spotify.com/album/4VKWJKb38zp0Af7WURVc0n) | 2:46 | 2025-02-13 |  |
 | [Get Here \- Recorded At RAK Studios, London](https://open.spotify.com/track/6hPlYSx7wsnDE48NypYeuT) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Spotify Singles](https://open.spotify.com/album/0SRFjDXW0BUtk5yChaT7xn) | 2:49 | 2022-01-19 |  |
+| [Get It Together \- Spotify Singles](https://open.spotify.com/track/233GEAp3FyJCovl4x5VIUi) | [Karri](https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME) | [Get It Together \- Spotify Singles](https://open.spotify.com/album/7wymyEC1XBcanHDS6c1kKb) | 2:51 | 2026-05-27 |  |
 | [Get Out \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0JJnHhdZKl55JW2OHBEya8) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Spotify Singles](https://open.spotify.com/album/4I2QiPOnv6R5gBayNvGHvJ) | 3:45 | 2022-07-05 | 2022-09-15 |
 | [Get Out \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/0QvvK86gAGLFgkawAy94dT) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Spotify Singles](https://open.spotify.com/album/4iccPwuyNYH4ETLxhdchX6) | 3:45 | 2022-01-19 |  |
 | [Get Out \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4wpnaKhEwkB9fv7BNLjasK) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Spotify Singles](https://open.spotify.com/album/1DwD96qkcmYfDAor27Gj38) | 3:45 | 2022-08-24 | 2024-04-19 |

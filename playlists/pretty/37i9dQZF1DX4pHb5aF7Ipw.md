@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 
 > Fresh Punjabi Hip\-Hop Tracks by Jerry, Cheema Y & more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,478 likes - 75 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,505 likes - 75 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 | 2 | [One Call Away](https://open.spotify.com/track/2Wtl8Lr6ZF2XSnGcakH4zG) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G), [Jazzy B](https://open.spotify.com/artist/25bvyjHJAszeSV3q0TmEhY), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [Enigma](https://open.spotify.com/album/0mUdGUIB3n2lIXkarHHHyf) | 3:04 |
 | 3 | [Cartel](https://open.spotify.com/track/31NP3kpDutZWYcHAY4Vmze) | [Cheema Y](https://open.spotify.com/artist/0uOUeC51AxGnP6hB8gurwt), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Bermuda Triangle](https://open.spotify.com/album/6a7nrbUhXwFEJQ1xWCbNnh) | 2:36 |
 | 4 | [911](https://open.spotify.com/track/1EPcG4PNwL2YuvNHIKyMo0) | [Varinder Brar](https://open.spotify.com/artist/4C19flKmMm12gRxmBJWMCV), [Rav Dhaliwal](https://open.spotify.com/artist/3quojFCZjKk1j5zIv0HX2P) | [911](https://open.spotify.com/album/4iKThPk799paKw0G6BYrXp) | 3:08 |
-| 5 | [Locket](https://open.spotify.com/track/32xOX11lRzRPB5Ufl7oDQu) | [BK](https://open.spotify.com/artist/3O96LSvlQrNeKpZ8FuZkEk), [Arsh Heer](https://open.spotify.com/artist/0IMB9ZqS18okmvGMGYzl45) | [Locket](https://open.spotify.com/album/38NJQnSvqpfOfAaKA2kJYx) | 3:30 |
+| 5 | [Locket](https://open.spotify.com/track/32xOX11lRzRPB5Ufl7oDQu) | [BK](https://open.spotify.com/artist/3O96LSvlQrNeKpZ8FuZkEk), [Arsh Heer](https://open.spotify.com/artist/0IMB9ZqS18okmvGMGYzl45), [Jasmeen Akhtar](https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C) | [Locket](https://open.spotify.com/album/38NJQnSvqpfOfAaKA2kJYx) | 3:30 |
 | 6 | [Billo](https://open.spotify.com/track/4FfponrDBwSd4wZe0UG63n) | [HRJXT](https://open.spotify.com/artist/4s5P33ladNMi7gcBMHwp9a), [MANE](https://open.spotify.com/artist/3WynD76ClOc3FsaPtMqFuX) | [Billo](https://open.spotify.com/album/5SMk7NhzXjDm4DRtzJc6PO) | 2:23 |
 | 7 | [Unbreakable](https://open.spotify.com/track/6MmJ6SZwFn46fy83a3ehsf) | [Simu Dhillon](https://open.spotify.com/artist/4J6ZAQTOOrnXrbo5Wffly1), [The Hxrwn](https://open.spotify.com/artist/374bcSL3tQrCv4PmJJlHTv) | [Unbreakable](https://open.spotify.com/album/6tW7bJiQLqh7TTl2rdWLKf) | 3:00 |
 | 8 | [VPO](https://open.spotify.com/track/2YHbCcS4DB4bajUZ4awjOz) | [Mankirt Aulakh](https://open.spotify.com/artist/3uHUKCspaCzAab9A3LlGAr), [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4), [Dr Zeus](https://open.spotify.com/artist/1zrFFDzoE9XXyjEqqgDpMm) | [Dealer Is Back](https://open.spotify.com/album/6anMG6Hhio7fN3eMgPUBTs) | 2:45 |

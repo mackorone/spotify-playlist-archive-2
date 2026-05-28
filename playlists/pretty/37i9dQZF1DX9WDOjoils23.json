@@ -1,6 +1,6 @@
 {
   "description": "Your favorite Punjabi Ghazals and Qawwalis. Cover: Satinder Sartaaj",
-  "num_followers": 41177,
+  "num_followers": 41210,
   "original_name": "Punjabi Ghazals & Qawwalis",
   "owner": {
     "name": "Spotify",
@@ -343,30 +343,6 @@
     {
       "added_at": "2026-05-22 11:41:53",
       "album": {
-        "name": "Allah Toh Mangda",
-        "url": "https://open.spotify.com/album/5rrLavvhnCmWTczcelNJra"
-      },
-      "artists": [
-        {
-          "name": "Rahul Rana",
-          "url": "https://open.spotify.com/artist/3gvnLVc6Wsn13fC9lLS4JC"
-        },
-        {
-          "name": "Arjit Srivastava",
-          "url": "https://open.spotify.com/artist/1F3D5Gc6MToIAQoFOtYKkz"
-        },
-        {
-          "name": "Arjun Sarkar",
-          "url": "https://open.spotify.com/artist/2Vb02uLgydFy8Gn2gwPR5s"
-        }
-      ],
-      "duration_ms": 214363,
-      "name": "Allah Toh Mangda",
-      "url": "https://open.spotify.com/track/4S1GXp6bFvymtQc2f9Sgxg"
-    },
-    {
-      "added_at": "2026-05-22 11:41:53",
-      "album": {
         "name": "Mahiya Tere Vekan Nu",
         "url": "https://open.spotify.com/album/26IzYb8ASprzkkQBl9kurh"
       },
@@ -387,6 +363,30 @@
       "duration_ms": 221379,
       "name": "Mahiya Tere Vekan Nu",
       "url": "https://open.spotify.com/track/2DQvBdqEgSFtcGDviaKnGb"
+    },
+    {
+      "added_at": "2026-05-22 11:41:53",
+      "album": {
+        "name": "Allah Toh Mangda",
+        "url": "https://open.spotify.com/album/5rrLavvhnCmWTczcelNJra"
+      },
+      "artists": [
+        {
+          "name": "Rahul Rana",
+          "url": "https://open.spotify.com/artist/3gvnLVc6Wsn13fC9lLS4JC"
+        },
+        {
+          "name": "Arjit Srivastava",
+          "url": "https://open.spotify.com/artist/1F3D5Gc6MToIAQoFOtYKkz"
+        },
+        {
+          "name": "Arjun Sarkar",
+          "url": "https://open.spotify.com/artist/2Vb02uLgydFy8Gn2gwPR5s"
+        }
+      ],
+      "duration_ms": 214363,
+      "name": "Allah Toh Mangda",
+      "url": "https://open.spotify.com/track/4S1GXp6bFvymtQc2f9Sgxg"
     },
     {
       "added_at": "2026-05-22 11:41:53",
@@ -827,22 +827,18 @@
     {
       "added_at": "2026-05-22 11:41:53",
       "album": {
-        "name": "Dhola (The Sweetheart)",
-        "url": "https://open.spotify.com/album/6i2mTMica3getExPlNOSMs"
+        "name": "Punjabi Mehfil",
+        "url": "https://open.spotify.com/album/2G0aJaQ7NgRl1U0FAD3Usu"
       },
       "artists": [
         {
-          "name": "Jelly",
-          "url": "https://open.spotify.com/artist/1ZTo2Iu8NpzTUzrxfuTSrQ"
-        },
-        {
-          "name": "Sachin Ahuja",
-          "url": "https://open.spotify.com/artist/4QTKE90lhb8DlGKB9QqK3h"
+          "name": "Afshan",
+          "url": "https://open.spotify.com/artist/5KGyT7BuVG7qfJHstr7WSO"
         }
       ],
-      "duration_ms": 380240,
-      "name": "Tu Na Bhuldi",
-      "url": "https://open.spotify.com/track/5XB0kvi5aRhIkdZukegVkx"
+      "duration_ms": 187653,
+      "name": "Guddi Wangoo Aj Menoon",
+      "url": "https://open.spotify.com/track/67QQZi6aUAajegMNpLVoaq"
     },
     {
       "added_at": "2026-05-22 11:41:53",
@@ -859,6 +855,26 @@
       "duration_ms": 220920,
       "name": "Ishq",
       "url": "https://open.spotify.com/track/74wdoS4XBF6rDcejHiyfBR"
+    },
+    {
+      "added_at": "2026-05-22 11:41:53",
+      "album": {
+        "name": "Dhola (The Sweetheart)",
+        "url": "https://open.spotify.com/album/6i2mTMica3getExPlNOSMs"
+      },
+      "artists": [
+        {
+          "name": "Jelly",
+          "url": "https://open.spotify.com/artist/1ZTo2Iu8NpzTUzrxfuTSrQ"
+        },
+        {
+          "name": "Sachin Ahuja",
+          "url": "https://open.spotify.com/artist/4QTKE90lhb8DlGKB9QqK3h"
+        }
+      ],
+      "duration_ms": 380240,
+      "name": "Tu Na Bhuldi",
+      "url": "https://open.spotify.com/track/5XB0kvi5aRhIkdZukegVkx"
     },
     {
       "added_at": "2026-05-22 11:41:53",
@@ -891,22 +907,6 @@
       "duration_ms": 919654,
       "name": "Nit Khair Manga Sohneya",
       "url": "https://open.spotify.com/track/3VQlzO0MEsIhO4XiDGPpbu"
-    },
-    {
-      "added_at": "2026-05-22 11:41:53",
-      "album": {
-        "name": "Punjabi Mehfil",
-        "url": "https://open.spotify.com/album/2G0aJaQ7NgRl1U0FAD3Usu"
-      },
-      "artists": [
-        {
-          "name": "Afshan",
-          "url": "https://open.spotify.com/artist/5KGyT7BuVG7qfJHstr7WSO"
-        }
-      ],
-      "duration_ms": 187653,
-      "name": "Guddi Wangoo Aj Menoon",
-      "url": "https://open.spotify.com/track/67QQZi6aUAajegMNpLVoaq"
     },
     {
       "added_at": "2026-05-22 11:41:53",

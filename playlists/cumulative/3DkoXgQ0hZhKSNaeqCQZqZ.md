@@ -4,7 +4,7 @@
 
 > FurryRadio.com, furry music for furs, by furs.
 
-534 songs - 1 day 4 hr 8 min
+535 songs - 1 day 4 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [DANCE!](https://open.spotify.com/track/5Yw9HZhnnOG2tkmSaRTfBE) | [When Snakes Sing](https://open.spotify.com/artist/6fXDCCpVRFZuBVqyqNNhxJ), [Niic](https://open.spotify.com/artist/45VASQ5Pl3K8uSuUh9wooM) | [Knives](https://open.spotify.com/album/3YhBp1Hp4TNNnVlFYtXFr8) | 2:58 | 2024-04-03 |  |
 | [Dancing with a Werewolf \- ValueFactory Remix](https://open.spotify.com/track/5LCnESA42drqg442vpQ2Qg) | [Whsprs](https://open.spotify.com/artist/6Eu37PvzuV9ylWqU9G5z3h), [♥ GOJII ♥](https://open.spotify.com/artist/2uKlOWltMsAxTHTsh4UHJY), [ValueFactory](https://open.spotify.com/artist/2NP471YZnkNSzGwX1hcJc3) | [Dancing with a Werewolf \(ValueFactory Remix\)](https://open.spotify.com/album/4xWlVKqqC8D30M80Ahm0fN) | 3:09 | 2025-12-20 |  |
 | [Dare You to Love Me](https://open.spotify.com/track/2bG5XePwwOUiRdVwXOBTGh) | [Ken Ashcorp](https://open.spotify.com/artist/1x2YcZB1QpRZB3HT9gdUCQ) | [Dare You to Love Me](https://open.spotify.com/album/5gmZF5aBJTqMkYnWGowocm) | 1:34 | 2024-03-06 |  |
+| [DARK SIDE OF THE ROOM](https://open.spotify.com/track/593Epzqztbj28a7MuuJ06Y) | [passengerprincess](https://open.spotify.com/artist/1q6wY1iLFFyx75yoKiemZ3) | [DARK SIDE + TREATS!!](https://open.spotify.com/album/23AphdOs2IsU8tQhRhvxdk) | 2:36 | 2026-05-28 |  |
 | [Dashcam](https://open.spotify.com/track/5ERWwximXbQ0djxnudZf3Q) | [Keep it Together](https://open.spotify.com/artist/3ofzJ1WKyqzCkAQLC9SIA8) | [Lost Dogs](https://open.spotify.com/album/0fJE2dUwhoF5pZA1HlnCsP) | 3:17 | 2025-01-25 |  |
 | [DATA\_REJECT](https://open.spotify.com/track/1TiWVrt0psOIdayQL47Vk5) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo) | [DATA\_REJECT](https://open.spotify.com/album/0bdN37m2iBcjE90RfSEv16) | 3:11 | 2024-06-03 |  |
 | [DEAD POETS SOCIETY](https://open.spotify.com/track/3JnwVQoO6kJwvN84Q5tQf0) | [cysteke](https://open.spotify.com/artist/4alcy3GdAmXMNsNXObxjsd), [Aural Alliance](https://open.spotify.com/artist/5w8crpjE8OAqon6Z0brpRu) | [AFTERSHOCK](https://open.spotify.com/album/4sA7rp7GNDEAA9WvYdhwzt) | 6:57 | 2024-07-22 | 2025-11-10 |

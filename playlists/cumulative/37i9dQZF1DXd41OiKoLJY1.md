@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Philippines](https://open.spotify.com/playlist/37i9dQZF1DXd41OiKoLJY1)
 
-> The best new music from independent artists\. Curated with love by human Spotify editors\. Cover: \[sunset blvd\]\. Artwork: Isu Kim.
+> The best new music from independent artists\. Curated with love by human Spotify editors\. Cover: \[LU MARZAN\]\. Artwork: Isu Kim.
 
-4,081 songs - 9 day 22 hr 25 min
+4,086 songs - 9 day 22 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -215,6 +215,7 @@
 | [All Night](https://open.spotify.com/track/6I1nYr4cXgOUyV0miqZZU3) | [yugo](https://open.spotify.com/artist/6fCz0o835NaTG4Jv3ye6ld), [Brxdvcl](https://open.spotify.com/artist/6cAz2eSvy5z4SFDCwxZKgv), [$aints](https://open.spotify.com/artist/4R6667gT55p16aU6WiMDfK), [Lordson](https://open.spotify.com/artist/3ZbvKIiMZLvfLIAyyleODZ) | [All Night](https://open.spotify.com/album/2BD7EQe4d4g7a9TNiRbRSj) | 3:29 | 2024-06-13 | 2024-07-12 |
 | [All of the Lights](https://open.spotify.com/track/07hNTwCxoCp6w1wJ7ChUfa) | [Rycess](https://open.spotify.com/artist/0YyWewAYP0lImXtNMUloWk), [DRU.](https://open.spotify.com/artist/6zh78bkxCQmC7gAlztfDFY) | [All of the Lights](https://open.spotify.com/album/6jMBAMCwfllb1JslyFUp1X) | 2:36 | 2024-08-29 | 2024-09-20 |
 | [All That I Need](https://open.spotify.com/track/3yiYjiIZUdlszc0Z4b4ra0) | [Krei](https://open.spotify.com/artist/1EVBedRMHOBRFKH4B0gaFI) | [All That I Need](https://open.spotify.com/album/5Wj55HwEYoAqqube0lIIkx) | 2:44 | 2024-10-17 | 2025-01-31 |
+| [All That We Had](https://open.spotify.com/track/0qNYYzegUvfZ2diLfz2wg9) | [Wiji Kun](https://open.spotify.com/artist/1X3KbP5esRXH95jVlTi1R6) | [Fortune Cookie](https://open.spotify.com/album/61gYOga8jq2H3C7Y3XzWQa) | 3:32 | 2026-05-27 |  |
 | [All The Things](https://open.spotify.com/track/5KX6w6qLP4BheoMFBU9EIA) | [Bea Dolloso](https://open.spotify.com/artist/6cWavbMyuL00FKxWXHoPum) | [All The Things](https://open.spotify.com/album/5fhAA2JW81whmrSntwWxHM) | 3:21 | 2022-03-10 | 2022-05-06 |
 | [All The Things She Said](https://open.spotify.com/track/5Un47fyt5J0elV1QCUCHdj) | [Invictus](https://open.spotify.com/artist/2phqkHwhW4nFTmJuejerJ1) | [All The Things She Said](https://open.spotify.com/album/797429oyvqq0nX7QOaDkLH) | 3:34 | 2024-09-12 | 2024-10-11 |
 | [ALL WE KNOW](https://open.spotify.com/track/1NcfER0Qm2wrTYQjOK4mT2) | [NITESIX](https://open.spotify.com/artist/01ZZtWmVO2dB9jt33RbAji) | [ALL WE KNOW](https://open.spotify.com/album/0rIhRmc4tjynmHh4PDj0Op) | 3:42 | 2022-03-10 | 2022-03-25 |
@@ -833,6 +834,7 @@
 | [Demonyo](https://open.spotify.com/track/35N1Lz437mprZP3xlGpUOB) | [HAILUCI](https://open.spotify.com/artist/7LKQwoHS2c25yGdTaks2lk) | [Demonyo](https://open.spotify.com/album/33NvImnlYGsWBXnygwUkpE) | 4:02 | 2025-07-03 | 2025-09-19 |
 | [Demonyong Katawan](https://open.spotify.com/track/66YdGEXLznhxtgOCOSL847) | [Rippin P](https://open.spotify.com/artist/3nEiImKH9Fakc0NNLRZFO7), [Brad Louisee](https://open.spotify.com/artist/1aWmfjamyyqLlGg0h9EX8K), [KPC](https://open.spotify.com/artist/38bPbvvWC0Le02oOntVqeJ) | [Demonyong Katawan](https://open.spotify.com/album/5LEXp8W4Hf3hEklcOFn0eh) | 5:38 | 2024-08-29 | 2024-09-20 |
 | [Denise](https://open.spotify.com/track/4iErngYaU4sjE9N0cLGK4k) | [Chuya](https://open.spotify.com/artist/2GXEVRwL1sW36TxBxq1QsV), [VVNILLA](https://open.spotify.com/artist/77GOFfG6ibHi4EHpJkvUU7), [Jnuzh](https://open.spotify.com/artist/7HyJFrpVIEYmf2tRMVU8hk) | [Denise](https://open.spotify.com/album/3zJZMuU0xs8oFULg5AmzfB) | 1:34 | 2023-02-02 | 2023-02-17 |
+| [Depende](https://open.spotify.com/track/1sMuds6T60xhLtmdKikp6Z) | [Kiervy](https://open.spotify.com/artist/4XKd64nj9QAK4OfyhLgbTl), [Ram Millr](https://open.spotify.com/artist/6tbDwyyKJSKhpNpmRfpbiX), [iHATEMONDAYS](https://open.spotify.com/artist/09pellVEfvf6ifLsjSDmLP) | [Depende](https://open.spotify.com/album/7cIX8Xu7U062ZRYLb3qEL1) | 3:30 | 2026-05-27 |  |
 | [DESERT](https://open.spotify.com/track/3my3X3bGG7pnowiOnleCLP) | [Chrissy MNL](https://open.spotify.com/artist/34h0dIzdxL9iTs9zLXgEMP) | [DESERT](https://open.spotify.com/album/4NnlF151n686oVPHDYWhAG) | 2:56 | 2025-11-20 | 2026-02-13 |
 | [Desired Life](https://open.spotify.com/track/1t5Sxmx3UX6D5taz9CAbWR) | [Cosmic Kid](https://open.spotify.com/artist/4WCarkEfZfGEiOIPrLLXrU) | [Desired Life](https://open.spotify.com/album/6M5jnIOadWfbU5OqUQBidy) | 3:06 | 2025-10-09 | 2025-12-04 |
 | [Desperado](https://open.spotify.com/track/0gTcxBFw5DEL7VbA4zTi5N) | [felhony](https://open.spotify.com/artist/3E5iZBzhKO8WXDZzdTxE0m) | [Desperado](https://open.spotify.com/album/3NrdWYjM7HwFrBaYqABnCf) | 3:12 | 2023-07-27 | 2023-08-18 |
@@ -1062,6 +1064,7 @@
 | [Falling Apart](https://open.spotify.com/track/6zJdXo5jpkTB1UumbN5IM9) | [Cattski](https://open.spotify.com/artist/5FxImYLinGIsP9mAbXhGvs) | [Falling Apart](https://open.spotify.com/album/2Fvlw6L9VaJBihRbyg5mkq) | 4:26 | 2023-04-27 | 2023-05-19 |
 | [Falling Over You.](https://open.spotify.com/track/7qzeLPB6vb7hhSBSAXpZjX) | [Gio John](https://open.spotify.com/artist/3ziBKkHxqPrjCoffvL5Br5) | [Falling Over You.](https://open.spotify.com/album/5Phrr9zuUd6zQt9k3rZw3U) | 3:48 | 2023-02-09 | 2023-02-24 |
 | [Falling Slowly](https://open.spotify.com/track/1RlLoUzlD82M17X83ePtGJ) | [Eli Elijah](https://open.spotify.com/artist/2TPQLTVapuGIMQGjDDqhsi) | [Falling Slowly](https://open.spotify.com/album/0VFswhKyOCluHNhD9nohPj) | 4:08 | 2025-02-14 | 2025-03-21 |
+| [fallinlove?](https://open.spotify.com/track/4Jg744nH7glHFc3DpyiNvC) | [Rajondo](https://open.spotify.com/artist/73jNV0uIKmFFvNK7SQ3RXu) | [fallinlove?](https://open.spotify.com/album/4FoPGnulf0eQ04csnAN1bG) | 3:29 | 2026-05-27 |  |
 | [fallinloveagain](https://open.spotify.com/track/72MaPXXgu0cC9FVeSmfDk2) | [bloom.](https://open.spotify.com/artist/6ZZW9harvNQqkzb43BDkam) | [fallinloveagain](https://open.spotify.com/album/4Yi2mg9hG9ijCtMn5iNHV0) | 4:32 | 2022-01-07 | 2022-02-11 |
 | [False Praise](https://open.spotify.com/track/7y8SvEyGVRMGR57oNVJ9er) | [ProdByRonnie](https://open.spotify.com/artist/2RcROLoyVP58677ifiH4NW), [ELEMINO](https://open.spotify.com/artist/6GKjSUw6foCl6NJR9AU3wQ), [DOEZA](https://open.spotify.com/artist/6bLPywxgmNSIelcLFEUS7v) | [False Praise](https://open.spotify.com/album/6PNKJHYCtU86p17i7OJJcA) | 2:04 | 2023-06-08 | 2023-06-30 |
 | [far away](https://open.spotify.com/track/5QtsRbWyPD8LSF0MDIaP4K) | [rk jlln](https://open.spotify.com/artist/7f4T4dXPTpsY3NARZXkFBC) | [far away](https://open.spotify.com/album/4nO5kSPgvbbMoazAyTKWZ4) | 3:03 | 2023-04-13 | 2023-04-28 |
@@ -1932,6 +1935,7 @@
 | [Lagi Na Lang](https://open.spotify.com/track/4C1RI1JYGgJsFwkvGkAiMi) | [Benchfly](https://open.spotify.com/artist/1WYwXJmbU6dFAQCK7Ay1Ba) | [Lagi Na Lang](https://open.spotify.com/album/1aKkG7pvCtp5UMkVXdmk6S) | 4:36 | 2025-11-27 | 2025-12-04 |
 | [Lagi naman](https://open.spotify.com/track/02QifhwqqIN62e9NzQM0XL) | [Pyke](https://open.spotify.com/artist/2TWR5w8OoPmKoWDbJ5uY10) | [Lagi naman](https://open.spotify.com/album/4ERbzbWqvVIQXK7k1GD3fb) | 3:02 | 2024-03-21 | 2024-05-03 |
 | [Lagi Pa Rin](https://open.spotify.com/track/6TUUY7QlPKBCnKdTAAEbjf) | [Fitz Shioda](https://open.spotify.com/artist/5C2w1OkTeKl8BLSwHI68dj) | [Lagi Pa Rin](https://open.spotify.com/album/68K63LTiq2EmaAaXHqASDU) | 4:52 | 2024-06-27 | 2024-08-09 |
+| [LAHAT\-LAHAT](https://open.spotify.com/track/4kh1asQLNlbmxeWBJkKGEF) | [LU MARZAN](https://open.spotify.com/artist/2PFOavJcy4B4Eom96N7vDl) | [LAHAT\-LAHAT](https://open.spotify.com/album/3eMBs7TH8SDKaNyMSal4IU) | 4:00 | 2026-05-27 |  |
 | [Lain](https://open.spotify.com/track/0V377k7srBNTHe8IFw62BV) | [Aren't we ordinary?](https://open.spotify.com/artist/2ccAHh0qAwDwh4LxKcYQC5) | [Lain](https://open.spotify.com/album/5j6mWvhiLZnszrJe7Xon6o) | 2:54 | 2025-10-16 | 2025-12-04 |
 | [Lakaw](https://open.spotify.com/track/07MVF0tNoL6Cclh6MbUDDu) | [Jade Makawili](https://open.spotify.com/artist/1ddKtJoBQplzrpVxs9JYxn) | [Lakaw](https://open.spotify.com/album/6vtWezYaEz18T1OkSP0zxf) | 3:34 | 2023-08-31 | 2024-01-12 |
 | [Lakbay](https://open.spotify.com/track/5NsXYQKtWxjnIUh8JvJwYM) | [Mary Anchit](https://open.spotify.com/artist/6ec4SY60BQla594n8PD27N) | [Lakbay](https://open.spotify.com/album/6cK0BPPQkmkNrgakaKvBwi) | 4:07 | 2024-10-03 | 2024-11-23 |
@@ -3785,6 +3789,7 @@
 | [Umiibig Ako Sa Iyo](https://open.spotify.com/track/62dJ0VWphiB80mFL4IN265) | [Chichi](https://open.spotify.com/artist/0c8j1b3wymOgXOWc6v3ED1) | [Umiibig Ako Sa Iyo](https://open.spotify.com/album/4jt3WQWuxbe3ugPcxGbZIx) | 4:39 | 2025-07-10 | 2025-09-19 |
 | [Umuwi](https://open.spotify.com/track/72630T9Mv3Oeycl7lte9b0) | [Timy Dior](https://open.spotify.com/artist/5D1Ko747WLiUIEYpFU0bh8) | [Umuwi](https://open.spotify.com/album/14E1cAAEvUSa8jdmA0T91P) | 3:22 | 2025-05-22 | 2025-06-27 |
 | [UNA](https://open.spotify.com/track/7pRKUBo9wBrSucBnk5rsCQ) | [Ron David](https://open.spotify.com/artist/2Be24H7MmbWqAAlo283VNa), [$NPRD](https://open.spotify.com/artist/1bHNpzVQ7bDb9arASspvu6) | [UNA](https://open.spotify.com/album/3CsgpNpoOIwcUVywpHQUW4) | 3:10 | 2023-02-16 | 2023-03-03 |
+| [Una](https://open.spotify.com/track/3gArbMg65HZcLcIpK8Se90) | [Yudino](https://open.spotify.com/artist/48Nnq14bV6DdMvkYPuw7Z5) | [LOVER BOY: CHAPTER 1: Una](https://open.spotify.com/album/5b5AsvKjxbi2D1GvFQn4n5) | 3:45 | 2026-05-27 |  |
 | [Una at Huli](https://open.spotify.com/track/5iy5KJcoVkz3Wswh0K8VLl) | [Cami](https://open.spotify.com/artist/2qu2J8C5rJmKK5EprQ1S9P) | [Una at Huli](https://open.spotify.com/album/0QGzSmi4k7wDpv9xU38jUP) | 3:30 | 2023-02-09 | 2023-02-24 |
 | [Unang Halik](https://open.spotify.com/track/5zWB75pxsGezA3FYeKTDzs) | [CRISHA](https://open.spotify.com/artist/3IJSSAmsW0l0ilgw0foj8m) | [Unang Halik](https://open.spotify.com/album/3zFDdz4WwmP79LopOZI3Ur) | 4:26 | 2024-02-15 | 2024-03-15 |
 | [unconditionally](https://open.spotify.com/track/1WWkPsCwwGRd2EowA2EcHH) | [grd mln](https://open.spotify.com/artist/0Z39OVFeQFS76u5GHCj1OY) | [unconditionally](https://open.spotify.com/album/5eCnBZiWgOgoZxUacqOBa6) | 1:45 | 2025-11-27 | 2025-12-04 |

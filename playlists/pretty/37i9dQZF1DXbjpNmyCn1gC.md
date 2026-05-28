@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjpNmyCn1gC.md) - [plain]
 
 > Enjoy music from "NARUTO" series! ©岸本斉史 スコット／集英社・テレビ東京・ぴえろ
 
-[Spotify](https://open.spotify.com/user/spotify) - 455,302 likes - 116 songs - 8 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 455,502 likes - 116 songs - 8 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjpNmyCn1gC.md) - [plain]
 | 42 | [ALIVE](https://open.spotify.com/track/1vQ3mDtObR4PDZTS8FRaTO) | [Raico](https://open.spotify.com/artist/3Ic8pMahQ8GQxK5ivAFZgs) | [ALIVE](https://open.spotify.com/album/5OTBnIuSvdnNesUx7r8VFi) | 4:45 |
 | 43 | [今まで何度も](https://open.spotify.com/track/3KwDeGfyQB9xihdr9Mrj7u) | [The Mass Missile](https://open.spotify.com/artist/0ZZkqs16RgXFeUQbRdGFef) | [今まで何度も](https://open.spotify.com/album/76YVAXnHcrnOg4JfRVQcPW) | 4:41 |
 | 44 | [流星](https://open.spotify.com/track/2Wo44gmaFpyOKtE6aRkwnW) | [TiA](https://open.spotify.com/artist/7McY8NwWEwM49D53tGVoqp) | [流星](https://open.spotify.com/album/5NKIB6ChEqgKYbR92NKwk2) | 5:18 |
-| 45 | [はじめて君としゃべった](https://open.spotify.com/track/750Rocc23AS49WvB6pymAS) | [GaGaGa SP](https://open.spotify.com/artist/1i2ol7SBMNLazfzSZKRGwM) | [はじめて君としゃべった](https://open.spotify.com/album/480Q7v4ZtYAM6ce4Z9dRSU) | 3:00 |
+| 45 | [はじめて君としゃべった](https://open.spotify.com/track/750Rocc23AS49WvB6pymAS) | [GAGAGA SP](https://open.spotify.com/artist/1i2ol7SBMNLazfzSZKRGwM) | [はじめて君としゃべった](https://open.spotify.com/album/480Q7v4ZtYAM6ce4Z9dRSU) | 3:00 |
 | 46 | [失くした言葉](https://open.spotify.com/track/4oi24PD8rHopSEXgCwJvlJ) | [No Regret Life](https://open.spotify.com/artist/68akavy50vfeF8xZsodYOd) | [失くした言葉](https://open.spotify.com/album/5fan58cPAqHhggUaCcD5E5) | 4:48 |
 | 47 | [スピード](https://open.spotify.com/track/5rAuNvszNJdX4SONZzVRgJ) | [Analogfish](https://open.spotify.com/artist/5KvfVmM9oHCiIy88GOG58h) | [スピード](https://open.spotify.com/album/1Fp0wrJPgDe3wHJunYiAt2) | 3:15 |
 | 48 | [そばにいるから](https://open.spotify.com/track/7h13ZBhtHPRHrlJv2ADa9Y) | [Amadori](https://open.spotify.com/artist/28KMnC9M7253QQlCevUhlQ) | [そばにいるから](https://open.spotify.com/album/7Md8OzzDfQNsT3i486oolU) | 3:47 |

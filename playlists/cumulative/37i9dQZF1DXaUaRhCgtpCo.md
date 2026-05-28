@@ -4,7 +4,7 @@
 
 > May the Force be with you\. Listen to all the best Star Wars tracks, all in one place.
 
-187 songs - 10 hr 30 min
+188 songs - 10 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [Rey's Theme](https://open.spotify.com/track/5wsHtmFHWntJzcN6n8ivjd) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Star Wars: The Force Awakens \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3fUKGTsiYL1kSroBWBLmmR) | 3:11 | 2021-05-14 |  |
 | [Rogue One](https://open.spotify.com/track/0O5xBn8C6Reu3ihKbSBgB7) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Rogue One: A Star Wars Story \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6h5p1LLfhcyYHnSVdlghJT) | 2:04 | 2024-05-03 | 2026-05-02 |
 | [Ronin's Theme](https://open.spotify.com/track/0GLicEZFv5LCu2HBtNEEmu) | [Keiji Inai](https://open.spotify.com/artist/1vTocDHu5XNwdgDU1WtS34) | [Star Wars: Visions \- The Duel \(Original Soundtrack\)](https://open.spotify.com/album/3H28Ci4oeaSmDaDkXw8iyV) | 3:46 | 2021-10-14 | 2026-05-02 |
+| [Shakari](https://open.spotify.com/track/6vDpN2kuIs8YjDsC9RH1Q1) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [Star Wars: The Mandalorian and Grogu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2LrB8jQ7d0OEdHOmEZWfJn) | 1:29 | 2026-05-27 |  |
 | [Standoff](https://open.spotify.com/track/2aLFi3vrMRt0AhnqNJQipa) | [Kevin Kiner](https://open.spotify.com/artist/6krMKleBJfXYPdCP5q3ypW) | [Star Wars: The Bad Batch \- Vol\. 2 \(Episodes 9\-16\) \[Original Soundtrack\]](https://open.spotify.com/album/5YP5UXtWG33vsKNdsbYtUS) | 4:01 | 2021-08-20 | 2026-05-02 |
 | [Star Wars \(Main Theme\)](https://open.spotify.com/track/7a9UUo3zfID7Ik2fTQjRLi) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Star Wars: The Empire Strikes Back \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/44TnXcUjTIHPBBROepl99a) | 5:46 | 2021-05-14 |  |
 | [Star Wars and the Revenge of the Sith](https://open.spotify.com/track/2OqMBSytBzTHFXnEmKrmrF) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Star Wars: Revenge of the Sith \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6zhlos3HFJrWni7rjqxacg) | 7:29 | 2021-05-14 | 2026-05-02 |

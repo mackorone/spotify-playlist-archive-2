@@ -34,7 +34,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-28",
       "duration_ms": 254866,
       "name": "Afirika",
       "url": "https://open.spotify.com/track/1EAZC4QpvwM5tbeZmoLun1"
@@ -401,6 +401,28 @@
     },
     {
       "album": {
+        "name": "An African",
+        "url": "https://open.spotify.com/album/3Z7hDe1tt7ThkDD1ssyjH2"
+      },
+      "artists": [
+        {
+          "name": "Idris Elba",
+          "url": "https://open.spotify.com/artist/0wi7qglMjD1ucDG8UCzagm"
+        },
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155800,
+      "name": "An African",
+      "url": "https://open.spotify.com/track/1jxVp3UVwaRwB4EgSAFnIf"
+    },
+    {
+      "album": {
         "name": "Aye Kan (Are You Coming Back?) [feat. Ayra Starr]",
         "url": "https://open.spotify.com/album/6qg58bqEAREvTlAo0ytie9"
       },
@@ -646,7 +668,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-26",
+      "date_removed": null,
       "duration_ms": 204666,
       "name": "Big Heart",
       "url": "https://open.spotify.com/track/2ZmeqptEtIdfGTxRByHMqz"
@@ -3200,7 +3222,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-28",
       "duration_ms": 205797,
       "name": "Sunlight to My Soul",
       "url": "https://open.spotify.com/track/6Pe1uwRVmUMh5c6EMjZqrp"

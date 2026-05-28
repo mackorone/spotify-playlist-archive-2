@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 
 > The latest straight bars and Afro\-Trap\. Cover:  Blaqbonez and Asake
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,498 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,559 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 | 38 | [HOW FAR](https://open.spotify.com/track/27y6VtO5N6QHPVrVLy9Gur) | [NO11](https://open.spotify.com/artist/1bu3a0AAJbZazQJV0tbywD), [Ayjay bobo](https://open.spotify.com/artist/5L1Xcdtf6MxLmEvpGMw3g4), [Monochrome](https://open.spotify.com/artist/5CuyARGesDksvuWHiMQdX2) | [HOW FAR / SHIMA II](https://open.spotify.com/album/0g4PK75NaCaL7d8VDH889o) | 2:43 |
 | 39 | [JET SET](https://open.spotify.com/track/6FZZQalH51XLffDBwkh1JO) | [Ameka Zrai](https://open.spotify.com/artist/2PG1Fj7Mp49NqxNtjZdMsv), [OG Mahilet](https://open.spotify.com/artist/3WbcgjqtToJiTxZ3IlibGT), [Hoodbaby](https://open.spotify.com/artist/2QUhLhWyOfUIJnSCwmJNbY) | [JET SET](https://open.spotify.com/album/3hlJr1ryAyQ9mavdIqLneV) | 3:04 |
 | 40 | [Leftie \(Dlala Ngcobo\)](https://open.spotify.com/track/4rvyWzIbcobWutWtcgUN0k) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [Leftie \(Dlala Ngcobo\)](https://open.spotify.com/album/4vrHJEAGizqZHuf4pSXpQD) | 2:28 |
-| 41 | [Nzogbu](https://open.spotify.com/track/5Y7yFI7WV9H30jk1hfQbuh) | [Zoro Swagbag](https://open.spotify.com/artist/3S3T7zQ5vPdxH6vvh4ipxm), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [Nzogbu](https://open.spotify.com/album/2s4hOhCQXsK6i3X70wstO1) | 3:28 |
-| 42 | [TAI CHI](https://open.spotify.com/track/5dc28G1bMYFNGsSc1D5uA7) | [Nyashinski](https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6) | [TAI CHI](https://open.spotify.com/album/74ObmRduVbQb7FYmFOcsIg) | 2:49 |
+| 41 | [TAI CHI](https://open.spotify.com/track/5dc28G1bMYFNGsSc1D5uA7) | [Nyashinski](https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6) | [TAI CHI](https://open.spotify.com/album/74ObmRduVbQb7FYmFOcsIg) | 2:49 |
+| 42 | [Nzogbu](https://open.spotify.com/track/5Y7yFI7WV9H30jk1hfQbuh) | [Zoro Swagbag](https://open.spotify.com/artist/3S3T7zQ5vPdxH6vvh4ipxm), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [Nzogbu](https://open.spotify.com/album/2s4hOhCQXsK6i3X70wstO1) | 3:28 |
 | 43 | [Diamonds](https://open.spotify.com/track/7j84rJTwTVN6LcUlqvpQ2Q) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9) | [Contraband / Diamonds](https://open.spotify.com/album/50i6slAqu47pjV99lUJ6Nl) | 2:27 |
 | 44 | [Juice](https://open.spotify.com/track/3FKMnb3BpxnPtLviwtNz1v) | [CJ Tell'm](https://open.spotify.com/artist/2fAo6honVWkCul5xO8y97T) | [Juice](https://open.spotify.com/album/7GkqQthzG3je276bnSIiBI) | 2:49 |
 | 45 | [Tontonte](https://open.spotify.com/track/2joZgmbvHfeypuPFBysocT) | [Ko\-Jo Cue](https://open.spotify.com/artist/0LWXvmwdwsL0uPokRmix6M), [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN), [Ofori Amponsah](https://open.spotify.com/artist/5JZrKd8FCWdpkGwn6iEkXg) | [Tontonte](https://open.spotify.com/album/5njbyZ86SDLuOJoHJekpsV) | 4:20 |

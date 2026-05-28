@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 
 > Tedua aka Ted aka Ryan aka Ryan Ted in cover della playlist urban più grande d'Italia 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,126,782 likes - 55 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,126,742 likes - 55 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 | 27 | [RICORDI \(feat\. Geolier\)](https://open.spotify.com/track/0Yro5gpdvHMyaFGlZHYZIH) | [Sayf](https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [SANTISSIMO](https://open.spotify.com/album/0Ua2qdU4Z3xzdmcXFkDCgF) | 2:50 |
 | 28 | [COME SAREBBE IL MONDO SE REGNASSE L'ARTE \(feat\. 22simba\)](https://open.spotify.com/track/63XduKh85AiG9L1LjxcfHP) | [Diss Gacha](https://open.spotify.com/artist/4TKF8KSK6bgHgszFxu5xzu), [Sala](https://open.spotify.com/artist/3JgYm8oVvcrFpJBUNIonqM), [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7) | [NON È SOLO SWAG](https://open.spotify.com/album/6ctBV0IbZtYcCdN6ypbSic) | 2:30 |
 | 29 | [ARCOBALENO \(feat\. Anuel AA\)](https://open.spotify.com/track/6JE8qB33bwbb6kLK7YjndA) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [TUTTO È POSSIBILE](https://open.spotify.com/album/5EKYDOBrlVJlvMGEgdgytB) | 3:13 |
-| 30 | [Splinter Cell](https://open.spotify.com/track/3KsGBiWVuybY3Zm7LDKuqK) | [G.Mineiro](https://open.spotify.com/artist/1dlyjeDlgXalzt5oqbgWDs) | [Splinter Cell](https://open.spotify.com/album/6R0HGRmgF4A0wMrwkTh6yr) | 1:57 |
+| 30 | [Splinter Cell](https://open.spotify.com/track/3KsGBiWVuybY3Zm7LDKuqK) | [G.Mineiro](https://open.spotify.com/artist/1dlyjeDlgXalzt5oqbgWDs), [Flatpearl](https://open.spotify.com/artist/2ifTEcQqKSPwijIEcPHQ1R), [Jiz](https://open.spotify.com/artist/38CThoTDmXugNnfonW466d), [Succo](https://open.spotify.com/artist/1l1A1U8VJM15W7zonFqKhg) | [Splinter Cell](https://open.spotify.com/album/6R0HGRmgF4A0wMrwkTh6yr) | 1:57 |
 | 31 | [Via dei Mille](https://open.spotify.com/track/2qBPVhXAvX3kTFp2mk46gn) | [Dipinto](https://open.spotify.com/artist/26toJml6wSdf58ZgNG0ci9), [Fresh Beatz](https://open.spotify.com/artist/6HQ27YefiitrZ9YsWrgRHX) | [Via dei Mille](https://open.spotify.com/album/582gc2Nyig9saw8gHx9sUw) | 2:10 |
 | 32 | [FaXXX \(feat\. Latrelle\)](https://open.spotify.com/track/6EGUow6OQ28at9wB2TTvyo) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [Latrelle](https://open.spotify.com/artist/2mUoO8KgRQOOzR0VoUWoEV) | [RYAN TED](https://open.spotify.com/album/2U9mwmcJrUmkIpJm9gq8n7) | 2:01 |
 | 33 | [OK](https://open.spotify.com/track/4Omankg1sEMCJEieJGduI8) | [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [OK](https://open.spotify.com/album/0gHO8mZTMTQMNRxQgZrwuD) | 2:47 |

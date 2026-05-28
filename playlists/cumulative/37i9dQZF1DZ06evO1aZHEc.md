@@ -4,11 +4,12 @@
 
 > This is claire rousay\. The essential tracks, all in one playlist.
 
-82 songs - 5 hr 34 min
+83 songs - 5 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Belle Undressing](https://open.spotify.com/track/5sWKAvtnlGsngTVuyuKAY7) | [M\. Sage](https://open.spotify.com/artist/7Hu7HZdK9fwYiMyqtCICVR), [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq) | [Wants a Diamond Pivot Bright](https://open.spotify.com/album/2xs94fBaqCFtaf3zNmLvhC) | 2:29 | 2026-03-04 |  |
+| [a kind of promise](https://open.spotify.com/track/06sMzgFBFPvXcSImWmysTD) | [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq) | [a softer focus](https://open.spotify.com/album/3KJv1qok546bBsej16WkR4) | 2:59 | 2026-05-28 |  |
 | [a kind of promise](https://open.spotify.com/track/6gBg59nUN60qnQrvQaQRma) | [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq) | [a softer focus](https://open.spotify.com/album/7C5oqO91QIUG6ZUJqQIRNv) | 2:59 | 2026-03-04 | 2026-05-16 |
 | [a little death](https://open.spotify.com/track/0Dg4nN3hKf3Ml3KV5VRd7W) | [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq) | [a little death](https://open.spotify.com/album/6pnb0vQLp8a9c6u1XAW3Up) | 7:54 | 2026-03-04 |  |
 | [art](https://open.spotify.com/track/1NiAELD3NXPJuscVUBcCnW) | [More Eaze](https://open.spotify.com/artist/0noDJa3OSog9g1jqw5VygY), [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq) | [Never Stop Texting Me](https://open.spotify.com/album/44lPT0MSIDdzYZkqN6wZA4) | 2:39 | 2026-05-20 | 2026-05-22 |
@@ -35,7 +36,7 @@
 | [hands](https://open.spotify.com/track/5MBZtPwqSBZ1p8kemi4DvB) | [More Eaze](https://open.spotify.com/artist/0noDJa3OSog9g1jqw5VygY), [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq) | [Never Stop Texting Me](https://open.spotify.com/album/44lPT0MSIDdzYZkqN6wZA4) | 2:59 | 2026-05-16 | 2026-05-19 |
 | [Harmony](https://open.spotify.com/track/37oNvv3Qqse1Hpj0MeSiDG) | [Grumpy](https://open.spotify.com/artist/480FcWBc0dlEZc52noh462), [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq), [Pink Must](https://open.spotify.com/artist/2ugqiyhldi0oFKePKmHIy9) | [Harmony](https://open.spotify.com/album/0MbPCtAJZVJmqGne38mQdF) | 2:53 | 2026-03-04 |  |
 | [head](https://open.spotify.com/track/1DyaeKJkMmcbZvD4jvb603) | [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq) | [sentiment](https://open.spotify.com/album/0QhdOeubTOElMLAVK52uQu) | 4:43 | 2026-03-04 |  |
-| [homard rouge](https://open.spotify.com/track/72oHBJtvAo4i4h3Vt60Dhp) | [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq), [m\. harper scott](https://open.spotify.com/artist/4g2d7yKNHLNjg7RTlAG6za) | [In the Deep Drift You Will Find the Most Serene of Lullabies](https://open.spotify.com/album/7ncHkb6qfuk0ZtY9sPSIt9) | 3:17 | 2026-03-04 |  |
+| [homard rouge](https://open.spotify.com/track/72oHBJtvAo4i4h3Vt60Dhp) | [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq), [m\. harper scott](https://open.spotify.com/artist/4g2d7yKNHLNjg7RTlAG6za) | [In the Deep Drift You Will Find the Most Serene of Lullabies](https://open.spotify.com/album/7ncHkb6qfuk0ZtY9sPSIt9) | 3:17 | 2026-03-04 | 2026-05-28 |
 | [Home, Los Angeles](https://open.spotify.com/track/4yxvOxcU0B5bGxO9yYKPfz) | [Lia Kohl](https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s), [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq) | [Various Small Whistles and a Song](https://open.spotify.com/album/32giMSlU2jssM3GKwInlQk) | 1:00 | 2026-03-04 | 2026-05-06 |
 | [hopfields](https://open.spotify.com/track/5Ye1GataIFLuEQLyk8k14u) | [More Eaze](https://open.spotify.com/artist/0noDJa3OSog9g1jqw5VygY), [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq) | [no floor](https://open.spotify.com/album/4LRwW5laUnoamagLHKENzG) | 8:16 | 2026-03-04 |  |
 | [How Sweet I Roamed](https://open.spotify.com/track/7cE6w5XdwU1wqIYbNsstRR) | [Jeff Tweedy](https://open.spotify.com/artist/2rDxtYUzTAYJJE3Bl3Z5IN), [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq) | [TRANSA](https://open.spotify.com/album/3ZbB4lOfSxeGln33XsFyXG) | 2:22 | 2026-03-04 |  |

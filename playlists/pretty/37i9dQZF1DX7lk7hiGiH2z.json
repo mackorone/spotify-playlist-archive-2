@@ -1,6 +1,6 @@
 {
   "description": "Sommerferien, Eis in der Hand und ganz viel Badespa\u00df!",
-  "num_followers": 60429,
+  "num_followers": 60444,
   "original_name": "Familienzeit: Sommer",
   "owner": {
     "name": "Spotify",
@@ -619,26 +619,6 @@
     {
       "added_at": "2026-05-25 16:49:17",
       "album": {
-        "name": "Giraffenaffen",
-        "url": "https://open.spotify.com/album/3yRICOfCU3aESj5tqYOXnD"
-      },
-      "artists": [
-        {
-          "name": "Ulla Meinecke",
-          "url": "https://open.spotify.com/artist/5MKC7A8t2y0EXMkhU0tjZO"
-        },
-        {
-          "name": "Giraffenaffen",
-          "url": "https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex"
-        }
-      ],
-      "duration_ms": 215400,
-      "name": "Was m\u00fcssen das f\u00fcr B\u00e4ume sein",
-      "url": "https://open.spotify.com/track/1IM2PaRVp08Zg6zNKpYRqO"
-    },
-    {
-      "added_at": "2026-05-25 16:49:17",
-      "album": {
         "name": "Ab zum Meer / \u041a\u044a\u043c \u043c\u043e\u0440\u0435\u0442\u043e",
         "url": "https://open.spotify.com/album/62ZBqsYXJUUVvKJ7lbPkxg"
       },
@@ -655,6 +635,26 @@
       "duration_ms": 119341,
       "name": "Ab zum Meer / \u041a\u044a\u043c \u043c\u043e\u0440\u0435\u0442\u043e",
       "url": "https://open.spotify.com/track/1mTbOFrGaEaLA9RwXV1EB7"
+    },
+    {
+      "added_at": "2026-05-25 16:49:17",
+      "album": {
+        "name": "Giraffenaffen",
+        "url": "https://open.spotify.com/album/3yRICOfCU3aESj5tqYOXnD"
+      },
+      "artists": [
+        {
+          "name": "Ulla Meinecke",
+          "url": "https://open.spotify.com/artist/5MKC7A8t2y0EXMkhU0tjZO"
+        },
+        {
+          "name": "Giraffenaffen",
+          "url": "https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex"
+        }
+      ],
+      "duration_ms": 215400,
+      "name": "Was m\u00fcssen das f\u00fcr B\u00e4ume sein",
+      "url": "https://open.spotify.com/track/1IM2PaRVp08Zg6zNKpYRqO"
     },
     {
       "added_at": "2026-05-25 16:49:17",
@@ -755,22 +755,6 @@
     {
       "added_at": "2026-05-25 16:49:17",
       "album": {
-        "name": "Die Biene Maja - Meine Lieder",
-        "url": "https://open.spotify.com/album/2w1GpapewuvarRvXfIuDma"
-      },
-      "artists": [
-        {
-          "name": "Volker Rosin",
-          "url": "https://open.spotify.com/artist/4LDZtk1nfyhIx4bzDDHoBf"
-        }
-      ],
-      "duration_ms": 183920,
-      "name": "Jetzt kommt die Biene Maja",
-      "url": "https://open.spotify.com/track/1hNHctnuG5O74TamlCXKKY"
-    },
-    {
-      "added_at": "2026-05-25 16:49:17",
-      "album": {
         "name": "Bei uns in der Kita - 22 Lieder im Fr\u00fchling + Sommer",
         "url": "https://open.spotify.com/album/7oe96EpBKDY6iAKkjHXmCc"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 178280,
       "name": "Sommerkinder",
       "url": "https://open.spotify.com/track/2reHbWEZw5ANVmIL9pjw01"
+    },
+    {
+      "added_at": "2026-05-25 16:49:17",
+      "album": {
+        "name": "Die Biene Maja - Meine Lieder",
+        "url": "https://open.spotify.com/album/2w1GpapewuvarRvXfIuDma"
+      },
+      "artists": [
+        {
+          "name": "Volker Rosin",
+          "url": "https://open.spotify.com/artist/4LDZtk1nfyhIx4bzDDHoBf"
+        }
+      ],
+      "duration_ms": 183920,
+      "name": "Jetzt kommt die Biene Maja",
+      "url": "https://open.spotify.com/track/1hNHctnuG5O74TamlCXKKY"
     },
     {
       "added_at": "2026-05-25 16:49:17",
@@ -839,6 +839,22 @@
     {
       "added_at": "2026-05-25 16:49:17",
       "album": {
+        "name": "Das Sommertier",
+        "url": "https://open.spotify.com/album/6UrVYi2MFIOvkwH2pcshrz"
+      },
+      "artists": [
+        {
+          "name": "Hurra Kinderlieder",
+          "url": "https://open.spotify.com/artist/0tvF8WneD5ortg902Tnm1a"
+        }
+      ],
+      "duration_ms": 147571,
+      "name": "Das Sommertier",
+      "url": "https://open.spotify.com/track/7zqWKN7UOLNHVBP7a22gm9"
+    },
+    {
+      "added_at": "2026-05-25 16:49:17",
+      "album": {
         "name": "Giraffenaffen 7 - Die gro\u00dfe Geburtstagsfeier (Party mit Schlagerstars)",
         "url": "https://open.spotify.com/album/6YZONXa0vRpQoqNBclZtIy"
       },
@@ -859,18 +875,18 @@
     {
       "added_at": "2026-05-25 16:49:17",
       "album": {
-        "name": "Das Sommertier",
-        "url": "https://open.spotify.com/album/6UrVYi2MFIOvkwH2pcshrz"
+        "name": "Kinderlieder f\u00fcr den Urlaub - EP",
+        "url": "https://open.spotify.com/album/73hrF5ImI2miqjrzQlk3J0"
       },
       "artists": [
         {
-          "name": "Hurra Kinderlieder",
-          "url": "https://open.spotify.com/artist/0tvF8WneD5ortg902Tnm1a"
+          "name": "LiederTiger",
+          "url": "https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt"
         }
       ],
-      "duration_ms": 147571,
-      "name": "Das Sommertier",
-      "url": "https://open.spotify.com/track/7zqWKN7UOLNHVBP7a22gm9"
+      "duration_ms": 126232,
+      "name": "Ab in den Urlaub",
+      "url": "https://open.spotify.com/track/7vQrNHZjGHQqrsXpCSXh89"
     },
     {
       "added_at": "2026-05-25 16:49:17",
@@ -955,22 +971,6 @@
       "duration_ms": 169773,
       "name": "Disco Kinder (Minis Maxis)",
       "url": "https://open.spotify.com/track/6eEyiLb4fZxdBZ6vWJMr5G"
-    },
-    {
-      "added_at": "2026-05-25 16:49:17",
-      "album": {
-        "name": "Kinderlieder f\u00fcr den Urlaub - EP",
-        "url": "https://open.spotify.com/album/73hrF5ImI2miqjrzQlk3J0"
-      },
-      "artists": [
-        {
-          "name": "LiederTiger",
-          "url": "https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt"
-        }
-      ],
-      "duration_ms": 126232,
-      "name": "Ab in den Urlaub",
-      "url": "https://open.spotify.com/track/7vQrNHZjGHQqrsXpCSXh89"
     },
     {
       "added_at": "2026-05-25 16:49:17",

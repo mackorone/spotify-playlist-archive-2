@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX75NPukNKIss.md) - [plain]
 
 > Way 2 Slizzy\. Cover: 41
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,431 likes - 110 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,447 likes - 110 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX75NPukNKIss.md) - [plain]
 | 20 | [Grind 4](https://open.spotify.com/track/67OmIoO9BrHxxj4BFMJldX) | [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm) | [Grind 4](https://open.spotify.com/album/5QncAixFEsY4IeVf1WplTw) | 2:27 |
 | 21 | [Truth In The Lies \(feat\. Lil Durk\)](https://open.spotify.com/track/6jx0JZB3f0Cc2jjdldYaDb) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [CAN'T RUSH GREATNESS](https://open.spotify.com/album/1pnm9zBlblhTRlE46ItLzU) | 2:22 |
 | 22 | [THE CREATORS](https://open.spotify.com/track/0rWZT7VZuMDSjFKgEpjSd2) | [Lonny Love](https://open.spotify.com/artist/4AROj468VOYU9TFJD8KcOm) | [SEXIEST PLACE ON EARTH](https://open.spotify.com/album/7aMhL4nTy7Bg52Moi6P2ba) | 3:04 |
-| 23 | [GHOST.](https://open.spotify.com/track/4u9qc7vwQrdVtygGPelFfk) | [YFN Lucci](https://open.spotify.com/artist/5Berubt6ysOy2LCMyqhmXP) | [ALREADY LEGEND\. \(GIFTED Edition\)](https://open.spotify.com/album/78tzX7Tge0Kadq2hzUDcrG) | 2:03 |
+| 23 | [Slow Dreamz](https://open.spotify.com/track/5wmJQ8sR1eGNM8RTwTM4xG) | [Lynn](https://open.spotify.com/artist/3YGjCVq7bfP2wT3jzbaxab) | [Ten Thousand Hours](https://open.spotify.com/album/4Tozfh3iMyBqIC3rpxRnnR) | 2:12 |
 | 24 | [My Friend](https://open.spotify.com/track/3RykE1WGHbM6eeJe0srVOO) | [K CAMP](https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H) | [Kiss 6 \(Deluxe\)](https://open.spotify.com/album/6h3q2vVzE26fqU9EU12tzF) | 2:29 |
 | 25 | [Safe \(feat\. Kehlani\)](https://open.spotify.com/track/5q9I5RmmrLC4U2mW2BnF3K) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [AM I THE DRAMA?](https://open.spotify.com/album/1LsNb6mVitbLZCxnRsbCDJ) | 2:57 |
 | 26 | [Idk Why](https://open.spotify.com/track/76tdSQZfSqhogGshiOgKUq) | [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Damaged Thoughts](https://open.spotify.com/album/7JjE67id5LPD0w15snOyqu) | 3:11 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX75NPukNKIss.md) - [plain]
 | 109 | [SWAG](https://open.spotify.com/track/3WQ5w7ruC3c861lHXF9Gs2) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1), [Eddie Benjamin](https://open.spotify.com/artist/1AaSeUFzwt47HhkGtWE1xn) | [SWAG](https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ) | 2:30 |
 | 110 | [Closure \(with Cash Cobain\)](https://open.spotify.com/track/5RXnHx69EemG0EXsmhtfki) | [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [Closure](https://open.spotify.com/album/4nDtOJHPxI43ZaBoWRHSx6) | 2:58 |
 
-Snapshot ID: `AAAAACq9m4rxWJG8rNQx0sR5Cx4bgdga`
+Snapshot ID: `AAAAALk/xOsPFUOIZztlbG2O61feWqIh`

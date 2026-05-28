@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 
 > A weekly rotation of new indie,  alternative, dreampop, electronic, postpunk and lofi music 💜
 
-[David Dean Burkhart](https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j) - 60,148 likes - 1,200 songs - 2 day 18 hr 6 min
+[David Dean Burkhart](https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j) - 60,157 likes - 1,200 songs - 2 day 18 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -498,9 +498,9 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 | 488 | [Strongest Girl](https://open.spotify.com/track/6XsDBUr1Veq8VwkukDgkzv) | [Few Bits](https://open.spotify.com/artist/6z5v5w5cm1HaNkQbO6V2Pc) | [Brick Houses](https://open.spotify.com/album/0AtmUXLp8LYC8ugx973h2B) | 3:27 |
 | 489 | [Habits](https://open.spotify.com/track/7tp1ZFdpIrQ1aD7GMJwj9k) | [Joiner](https://open.spotify.com/artist/7JlMMmd03EDX3KupBZwN4d) | [Crux](https://open.spotify.com/album/1jcKglWz1DzBVrLNb68Awe) | 2:44 |
 | 490 | [Finley](https://open.spotify.com/track/5bMqhrCuDxi8RfuQjD9mev) | [Leopard Tuesday](https://open.spotify.com/artist/1UYAnXSFKC0xXvFAlz6g3P) | [Finley](https://open.spotify.com/album/2UFL0lfCXRLQm0juCUi4LT) | 2:32 |
-| 491 | [Sleeper](https://open.spotify.com/track/6tbbKndRly3f5XDS7g4jwx) | [knitting](https://open.spotify.com/artist/2eRDm8pl8MFrZv1gsfqUtj) | [Some Kind Of Heaven](https://open.spotify.com/album/6SSGkBbWRgwGTOteOz2HXM) | 3:14 |
-| 492 | [Dreaming](https://open.spotify.com/track/53Jv8qV29lJ4SrHU0CMeyN) | [Aanya Martin](https://open.spotify.com/artist/6aypy2lqG1sGhNlO7j1LxY) | [Dreaming](https://open.spotify.com/album/5uvfjXKgzt6KoWUUNBctsI) | 3:04 |
-| 493 | [Missed Connections](https://open.spotify.com/track/5P4l5jMl65PtWa9NPfn6aI) | [Fairhazel](https://open.spotify.com/artist/0U5fdV8QHxk7Qc82vXWoHn) | [Brief Encounters](https://open.spotify.com/album/4A9rJakDG0SYfIq9fuwli1) | 2:38 |
+| 491 | [Missed Connections](https://open.spotify.com/track/5P4l5jMl65PtWa9NPfn6aI) | [Fairhazel](https://open.spotify.com/artist/0U5fdV8QHxk7Qc82vXWoHn) | [Brief Encounters](https://open.spotify.com/album/4A9rJakDG0SYfIq9fuwli1) | 2:38 |
+| 492 | [Sleeper](https://open.spotify.com/track/6tbbKndRly3f5XDS7g4jwx) | [knitting](https://open.spotify.com/artist/2eRDm8pl8MFrZv1gsfqUtj) | [Some Kind Of Heaven](https://open.spotify.com/album/6SSGkBbWRgwGTOteOz2HXM) | 3:14 |
+| 493 | [Dreaming](https://open.spotify.com/track/53Jv8qV29lJ4SrHU0CMeyN) | [Aanya Martin](https://open.spotify.com/artist/6aypy2lqG1sGhNlO7j1LxY) | [Dreaming](https://open.spotify.com/album/5uvfjXKgzt6KoWUUNBctsI) | 3:04 |
 | 494 | [Kitchen Sink Drama](https://open.spotify.com/track/4pELR2pNO8P6Ue0Ml2VxSF) | [junodream](https://open.spotify.com/artist/4jPWi4cSe5zK2dUCLWiBaN) | [Pools of Colour](https://open.spotify.com/album/2q5a2Z5nnjRDwdvHIRfJcL) | 3:06 |
 | 495 | [Light Stealer](https://open.spotify.com/track/06O29pT254YN6fsXPwuCmL) | [Paul Prier](https://open.spotify.com/artist/5FAoLXLkCfaQDBDGeZbBtX), [infinite bisous](https://open.spotify.com/artist/7w5cbnOLouZ5bGFvwIF5Ff) | [Light Stealer](https://open.spotify.com/album/2Ynf0t7gdy906KCrl4n3SK) | 3:28 |
 | 496 | [End of the World](https://open.spotify.com/track/5WHzmJDhTMJeBjoKzEHxFb) | [The Safety](https://open.spotify.com/artist/4yM6mEY8XZyoZibR6tzAda) | [End of the World](https://open.spotify.com/album/57eXsdmoEyBTvSfFrK5qgP) | 2:35 |
@@ -1209,4 +1209,4 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 | 1199 | [Not A Phase](https://open.spotify.com/track/36ZQiXMIYRyu9cuFJOxsCc) | [Communions](https://open.spotify.com/artist/0R8TAmoXJnoB6ro5cp1XdI) | [Not A Phase](https://open.spotify.com/album/5vjMV5LhVU5VaXjvLITt6v) | 3:48 |
 | 1200 | [Beating Heart](https://open.spotify.com/track/6vVsJ7c7o264KMs6lGuOdo) | [Casey Wells](https://open.spotify.com/artist/4cyCbBq7o628A5NX4mEcD5) | [Beating Heart](https://open.spotify.com/album/1NNLlui1KhXPI4MCnalK0F) | 2:58 |
 
-Snapshot ID: `AABAOHAyej5hXcGZoi/9vH0SU+2GaYxb`
+Snapshot ID: `AABAOTc9EPZmQnOvISFK3iyWyxso6bXr`

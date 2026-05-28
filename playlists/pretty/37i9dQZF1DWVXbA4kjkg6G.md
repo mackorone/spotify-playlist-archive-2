@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXbA4kjkg6G.md) - [plain]
 
 > Atmospheric textures & downtempo beats\. Cover: Beth Gibbons of Portishead
 
-[Spotify](https://open.spotify.com/user/spotify) - 631,220 likes - 75 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 631,337 likes - 75 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXbA4kjkg6G.md) - [plain]
 | 72 | [Misunderstood \(feat\. Donna Paul\)](https://open.spotify.com/track/78kypI1IufTDhrcbhvtLeS) | [Leila](https://open.spotify.com/artist/77uSxZ20fMeBEI804UuGX8), [Donna Paul](https://open.spotify.com/artist/4wveYkIOgvIRH40xpN51YA) | [Like Weather \(Remastered Edition\)](https://open.spotify.com/album/21t4lny66XPZPuVVPoo1hO) | 3:31 |
 | 73 | [Headz Still Ain't Ready](https://open.spotify.com/track/0mh6tyjSe8UkIKVQszbBaV) | [DJ Vadim](https://open.spotify.com/artist/4vwzEW1kPK1BlgSBGrRyqZ) | [USSR Repertoire / The Theory Of Verticality](https://open.spotify.com/album/0Af78o9yF8IULqMgW9VoZv) | 5:55 |
 | 74 | [Terrapin](https://open.spotify.com/track/6G1lPm5H051kZL5rJHvXEv) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Animal Magic](https://open.spotify.com/album/4fwdKlGLJuEB9UuCHaNKql) | 4:39 |
-| 75 | [Lonely Soul](https://open.spotify.com/track/2HHC3GxRY2SxqRn6v6TvXX) | [UNKLE](https://open.spotify.com/artist/2nszamLjZFgu3Yx77mKxuC), [Richard Ashcroft](https://open.spotify.com/artist/1HGTHrRQkw0BtevSo1jucU) | [Psyence Fiction](https://open.spotify.com/album/6Dxx0vxLQ83LK1PMZezlcY) | 8:53 |
+| 75 | [Stars](https://open.spotify.com/track/5RTi3ClzRwFsso3gfYppHO) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [Smokers Delight](https://open.spotify.com/album/2kXJwEYQw7WD8cz8VAAcHm) | 6:59 |
 
 Snapshot ID: `AAAAABxEXpgFqFibHN1CXwlysA+n1Dsf`

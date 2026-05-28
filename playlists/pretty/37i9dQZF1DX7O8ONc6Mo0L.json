@@ -1,6 +1,6 @@
 {
   "description": "Relaxe com hinos ac\u00fasticos. Foto: Fernandinho",
-  "num_followers": 380883,
+  "num_followers": 380971,
   "original_name": "Gospel Ac\u00fastico",
   "owner": {
     "name": "Spotify",
@@ -583,6 +583,22 @@
     {
       "added_at": "2026-03-13 19:15:18",
       "album": {
+        "name": "Encaixe",
+        "url": "https://open.spotify.com/album/5tD8hdyOaLddaSlKwHlWO5"
+      },
+      "artists": [
+        {
+          "name": "Thalles Roberto",
+          "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
+        }
+      ],
+      "duration_ms": 222607,
+      "name": "Encaixe",
+      "url": "https://open.spotify.com/track/0HpeuEm6f4TRJzwuItkX0h"
+    },
+    {
+      "added_at": "2026-03-13 19:15:18",
+      "album": {
         "name": "Confiar em Deus - Spotify Singles",
         "url": "https://open.spotify.com/album/44LijlMAyaGINUQkTYg5xs"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 444976,
       "name": "Seu Amor: YOUnique - Ac\u00fastico",
       "url": "https://open.spotify.com/track/3m0CtqEbzclwKxit7C48T3"
-    },
-    {
-      "added_at": "2026-03-13 19:15:18",
-      "album": {
-        "name": "Encaixe",
-        "url": "https://open.spotify.com/album/5tD8hdyOaLddaSlKwHlWO5"
-      },
-      "artists": [
-        {
-          "name": "Thalles Roberto",
-          "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
-        }
-      ],
-      "duration_ms": 222607,
-      "name": "Encaixe",
-      "url": "https://open.spotify.com/track/0HpeuEm6f4TRJzwuItkX0h"
     },
     {
       "added_at": "2026-03-13 19:15:18",
@@ -671,6 +671,22 @@
     {
       "added_at": "2026-03-13 19:15:18",
       "album": {
+        "name": "Unplugged",
+        "url": "https://open.spotify.com/album/7IvxPrVTnaP3iOqQQgsQ12"
+      },
+      "artists": [
+        {
+          "name": "Weslei Santos",
+          "url": "https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi"
+        }
+      ],
+      "duration_ms": 277692,
+      "name": "Me Deixe Aqui",
+      "url": "https://open.spotify.com/track/31j38rRemGuqA4z83EQduw"
+    },
+    {
+      "added_at": "2026-03-13 19:15:18",
+      "album": {
         "name": "Primeira Ess\u00eancia (Ao Vivo)",
         "url": "https://open.spotify.com/album/6Q7ME1Xouz2udfWff8BHEo"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 296000,
       "name": "Primeira Ess\u00eancia (Ao Vivo)",
       "url": "https://open.spotify.com/track/4jTRJm7GsfpgLDMizIwBKE"
-    },
-    {
-      "added_at": "2026-03-13 19:15:18",
-      "album": {
-        "name": "Unplugged",
-        "url": "https://open.spotify.com/album/7IvxPrVTnaP3iOqQQgsQ12"
-      },
-      "artists": [
-        {
-          "name": "Weslei Santos",
-          "url": "https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi"
-        }
-      ],
-      "duration_ms": 277692,
-      "name": "Me Deixe Aqui",
-      "url": "https://open.spotify.com/track/31j38rRemGuqA4z83EQduw"
     },
     {
       "added_at": "2026-03-13 19:15:18",
@@ -1223,26 +1223,6 @@
     {
       "added_at": "2026-03-13 19:15:18",
       "album": {
-        "name": "Ele \u00c9 Exaltado (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/5IDjJqDcj4Xr5r56HXBYWI"
-      },
-      "artists": [
-        {
-          "name": "Sulset Music",
-          "url": "https://open.spotify.com/artist/4QjHpxVGeol4deNW46UScs"
-        },
-        {
-          "name": "Tavinho",
-          "url": "https://open.spotify.com/artist/036P0vXkdyvd37jZ7FbpZW"
-        }
-      ],
-      "duration_ms": 135000,
-      "name": "Ele \u00c9 Exaltado - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/7dZ19T2Sn5ZRUKeIqRakF1"
-    },
-    {
-      "added_at": "2026-03-13 19:15:18",
-      "album": {
         "name": "Grande \u00c9 o Senhor",
         "url": "https://open.spotify.com/album/3w8C9IwPG42g22aOFflszr"
       },
@@ -1259,6 +1239,26 @@
       "duration_ms": 253000,
       "name": "Grande \u00c9 o Senhor",
       "url": "https://open.spotify.com/track/5kRbuUv8904cbMwhGmQsE3"
+    },
+    {
+      "added_at": "2026-03-13 19:15:18",
+      "album": {
+        "name": "Ele \u00c9 Exaltado (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/5IDjJqDcj4Xr5r56HXBYWI"
+      },
+      "artists": [
+        {
+          "name": "Sulset Music",
+          "url": "https://open.spotify.com/artist/4QjHpxVGeol4deNW46UScs"
+        },
+        {
+          "name": "Tavinho",
+          "url": "https://open.spotify.com/artist/036P0vXkdyvd37jZ7FbpZW"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "Ele \u00c9 Exaltado - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/7dZ19T2Sn5ZRUKeIqRakF1"
     },
     {
       "added_at": "2026-03-13 19:15:18",

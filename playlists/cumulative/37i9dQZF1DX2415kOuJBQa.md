@@ -2,7 +2,7 @@
 
 ### [Moving Memoirs \(2\)](https://open.spotify.com/playlist/37i9dQZF1DX2415kOuJBQa)
 
-> 
+> Real LGBTQ+ lives, honestly and powerfully told.
 
 0 song - 0 sec
 

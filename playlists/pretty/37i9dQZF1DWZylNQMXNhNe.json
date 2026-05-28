@@ -1,6 +1,6 @@
 {
   "description": "Os hits e novidades de artistas LGBTQIAPN+ est\u00e3o aqui. Foto: Vita",
-  "num_followers": 248311,
+  "num_followers": 248304,
   "original_name": "GLOW Brasil",
   "owner": {
     "name": "Spotify",
@@ -823,26 +823,6 @@
     {
       "added_at": "2026-05-22 18:19:38",
       "album": {
-        "name": "8 HORAS DE PRAZER",
-        "url": "https://open.spotify.com/album/2MoMvu4WvsfDimDrMnRWXT"
-      },
-      "artists": [
-        {
-          "name": "Lia Clark",
-          "url": "https://open.spotify.com/artist/3bY8SmKlzUFImE0mt0zDjY"
-        },
-        {
-          "name": "Mc Carol",
-          "url": "https://open.spotify.com/artist/78jcF59aMpz63E2TYmntws"
-        }
-      ],
-      "duration_ms": 161777,
-      "name": "8 HORAS DE PRAZER",
-      "url": "https://open.spotify.com/track/30h7GGYIRcPtFA1fDlHr0w"
-    },
-    {
-      "added_at": "2026-05-22 18:19:38",
-      "album": {
         "name": "Gambiarra Chic, Pt. 1",
         "url": "https://open.spotify.com/album/2wlQIZh68jjdSizM2CReLz"
       },
@@ -863,6 +843,26 @@
       "duration_ms": 180004,
       "name": "CUSSY",
       "url": "https://open.spotify.com/track/4Hoc1S0s6cZtni6ghIytDX"
+    },
+    {
+      "added_at": "2026-05-22 18:19:38",
+      "album": {
+        "name": "8 HORAS DE PRAZER",
+        "url": "https://open.spotify.com/album/2MoMvu4WvsfDimDrMnRWXT"
+      },
+      "artists": [
+        {
+          "name": "Lia Clark",
+          "url": "https://open.spotify.com/artist/3bY8SmKlzUFImE0mt0zDjY"
+        },
+        {
+          "name": "Mc Carol",
+          "url": "https://open.spotify.com/artist/78jcF59aMpz63E2TYmntws"
+        }
+      ],
+      "duration_ms": 161777,
+      "name": "8 HORAS DE PRAZER",
+      "url": "https://open.spotify.com/track/30h7GGYIRcPtFA1fDlHr0w"
     },
     {
       "added_at": "2026-05-22 18:19:38",

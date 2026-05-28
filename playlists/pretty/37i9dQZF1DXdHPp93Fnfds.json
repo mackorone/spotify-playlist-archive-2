@@ -1,6 +1,6 @@
 {
   "description": "Guerreras e independientes. Foto: Fin del Mundo.",
-  "num_followers": 136671,
+  "num_followers": 136672,
   "original_name": "Mujeres del Indie",
   "owner": {
     "name": "Spotify",
@@ -547,22 +547,6 @@
     {
       "added_at": "2025-07-17 22:42:38",
       "album": {
-        "name": "me da miedo que escuches esto",
-        "url": "https://open.spotify.com/album/5XZbo2O8JeSq3ue2PLB9Zw"
-      },
-      "artists": [
-        {
-          "name": "Ivana",
-          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
-        }
-      ],
-      "duration_ms": 138509,
-      "name": "A TI",
-      "url": "https://open.spotify.com/track/2vTR8PFCIyxM4kQHQdJVUB"
-    },
-    {
-      "added_at": "2025-07-17 22:42:38",
-      "album": {
         "name": "Enamorada",
         "url": "https://open.spotify.com/album/6OCzzBiS3G9gQg55C6iYUE"
       },
@@ -583,6 +567,22 @@
     {
       "added_at": "2025-07-17 22:42:38",
       "album": {
+        "name": "me da miedo que escuches esto",
+        "url": "https://open.spotify.com/album/5XZbo2O8JeSq3ue2PLB9Zw"
+      },
+      "artists": [
+        {
+          "name": "Ivana",
+          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
+        }
+      ],
+      "duration_ms": 138509,
+      "name": "A TI",
+      "url": "https://open.spotify.com/track/2vTR8PFCIyxM4kQHQdJVUB"
+    },
+    {
+      "added_at": "2025-07-17 22:42:38",
+      "album": {
         "name": "Hicimos Crecer un Bosque",
         "url": "https://open.spotify.com/album/2wTNdmVd3HhJPMq8jBd7Vo"
       },
@@ -595,6 +595,26 @@
       "duration_ms": 236081,
       "name": "Una Temporada en el Invierno",
       "url": "https://open.spotify.com/track/2BpSPF4MMl9dgr52nuRsH9"
+    },
+    {
+      "added_at": "2025-07-17 22:42:38",
+      "album": {
+        "name": "no llamaste (Remix)",
+        "url": "https://open.spotify.com/album/2cVEApzTrA9JZP6U7ao6H7"
+      },
+      "artists": [
+        {
+          "name": "Mica Sotera",
+          "url": "https://open.spotify.com/artist/4hXUE7BWcwfS06fkyqBZh1"
+        },
+        {
+          "name": "Los Otros D\u00edas",
+          "url": "https://open.spotify.com/artist/3XQc1ORL38qQC9U0Z4do9V"
+        }
+      ],
+      "duration_ms": 246233,
+      "name": "no llamaste - Remix",
+      "url": "https://open.spotify.com/track/3o4if7llOb7PZCz5ZIGCGI"
     },
     {
       "added_at": "2025-07-17 22:42:38",
@@ -631,26 +651,6 @@
       "duration_ms": 151250,
       "name": "Hoy Dej\u00e9 De Llorar",
       "url": "https://open.spotify.com/track/7mQyrhiwZf5xOIr0klasjZ"
-    },
-    {
-      "added_at": "2025-07-17 22:42:38",
-      "album": {
-        "name": "no llamaste (Remix)",
-        "url": "https://open.spotify.com/album/2cVEApzTrA9JZP6U7ao6H7"
-      },
-      "artists": [
-        {
-          "name": "Mica Sotera",
-          "url": "https://open.spotify.com/artist/4hXUE7BWcwfS06fkyqBZh1"
-        },
-        {
-          "name": "Los Otros D\u00edas",
-          "url": "https://open.spotify.com/artist/3XQc1ORL38qQC9U0Z4do9V"
-        }
-      ],
-      "duration_ms": 246233,
-      "name": "no llamaste - Remix",
-      "url": "https://open.spotify.com/track/3o4if7llOb7PZCz5ZIGCGI"
     },
     {
       "added_at": "2025-07-17 22:42:38",
@@ -735,22 +735,6 @@
     {
       "added_at": "2025-07-17 22:42:38",
       "album": {
-        "name": "Fuga",
-        "url": "https://open.spotify.com/album/2WdOxEknOxc3eKdybYjznt"
-      },
-      "artists": [
-        {
-          "name": "Camila Moreno",
-          "url": "https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H"
-        }
-      ],
-      "duration_ms": 181274,
-      "name": "Fuga",
-      "url": "https://open.spotify.com/track/7dzNHNlZpGCWmpubnUkNGj"
-    },
-    {
-      "added_at": "2025-07-17 22:42:38",
-      "album": {
         "name": "Pensamientos",
         "url": "https://open.spotify.com/album/6MnIQVOhKjOkbid83IEFz6"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 156771,
       "name": "Cero",
       "url": "https://open.spotify.com/track/0SNwjDrUgkRTeKSJGw6e4C"
+    },
+    {
+      "added_at": "2025-07-17 22:42:38",
+      "album": {
+        "name": "Fuga",
+        "url": "https://open.spotify.com/album/2WdOxEknOxc3eKdybYjznt"
+      },
+      "artists": [
+        {
+          "name": "Camila Moreno",
+          "url": "https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H"
+        }
+      ],
+      "duration_ms": 181274,
+      "name": "Fuga",
+      "url": "https://open.spotify.com/track/7dzNHNlZpGCWmpubnUkNGj"
     },
     {
       "added_at": "2025-07-17 22:42:38",
@@ -903,22 +903,6 @@
     {
       "added_at": "2025-07-17 22:42:38",
       "album": {
-        "name": "sin dormir",
-        "url": "https://open.spotify.com/album/2SYQZ048xVo5QFVddwryM8"
-      },
-      "artists": [
-        {
-          "name": "Carolina Donati",
-          "url": "https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT"
-        }
-      ],
-      "duration_ms": 180750,
-      "name": "sin dormir",
-      "url": "https://open.spotify.com/track/59UvXZfr6mHrJBRAuUE9sw"
-    },
-    {
-      "added_at": "2025-07-17 22:42:38",
-      "album": {
         "name": "\u00faltimo y primero",
         "url": "https://open.spotify.com/album/6Vz1ySq6ONBmTyR95eluUT"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 205511,
       "name": "100PRE",
       "url": "https://open.spotify.com/track/0JOvn6YVeMDydH4iL3muOy"
+    },
+    {
+      "added_at": "2025-07-17 22:42:38",
+      "album": {
+        "name": "sin dormir",
+        "url": "https://open.spotify.com/album/2SYQZ048xVo5QFVddwryM8"
+      },
+      "artists": [
+        {
+          "name": "Carolina Donati",
+          "url": "https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT"
+        }
+      ],
+      "duration_ms": 180750,
+      "name": "sin dormir",
+      "url": "https://open.spotify.com/track/59UvXZfr6mHrJBRAuUE9sw"
     },
     {
       "added_at": "2025-07-17 22:42:38",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2025-07-17 22:42:38",
       "album": {
-        "name": "Limbo Habitual, Vol. I",
-        "url": "https://open.spotify.com/album/4Moq6bYqlcEmQ4VFwg4A01"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Paola",
-          "url": "https://open.spotify.com/artist/6gC5HmMueMdiRY3rGtkrKx"
-        }
-      ],
-      "duration_ms": 215013,
-      "name": "Musa introvertida",
-      "url": "https://open.spotify.com/track/7mH6ndKQtl7Pk7VaNwBfxt"
-    },
-    {
-      "added_at": "2025-07-17 22:42:38",
-      "album": {
         "name": "Al calor de un sol que acaba de morir",
         "url": "https://open.spotify.com/album/79A9O0BwOk9aExtfjehAB9"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 187105,
       "name": "Salvaje y tierno",
       "url": "https://open.spotify.com/track/25B3oP8DxmLo5HLrmi4uEi"
+    },
+    {
+      "added_at": "2025-07-17 22:42:38",
+      "album": {
+        "name": "Limbo Habitual, Vol. I",
+        "url": "https://open.spotify.com/album/4Moq6bYqlcEmQ4VFwg4A01"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Paola",
+          "url": "https://open.spotify.com/artist/6gC5HmMueMdiRY3rGtkrKx"
+        }
+      ],
+      "duration_ms": 215013,
+      "name": "Musa introvertida",
+      "url": "https://open.spotify.com/track/7mH6ndKQtl7Pk7VaNwBfxt"
     },
     {
       "added_at": "2025-07-17 22:42:38",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2025-07-17 22:42:38",
       "album": {
-        "name": "Luna",
-        "url": "https://open.spotify.com/album/2FcKiL8crgFeGdpYbEHL7w"
-      },
-      "artists": [
-        {
-          "name": "JUSTINA",
-          "url": "https://open.spotify.com/artist/2hrHeIfHBeHjgIs5A7G5uc"
-        }
-      ],
-      "duration_ms": 219488,
-      "name": "Luna",
-      "url": "https://open.spotify.com/track/3oIVINAunwYTLz8gGOuk0F"
-    },
-    {
-      "added_at": "2025-07-17 22:42:38",
-      "album": {
         "name": "El Gris Tambi\u00e9n Es un Color (En Vivo)",
         "url": "https://open.spotify.com/album/5SOjXHY4Rxuv0xG9zknnUR"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 185123,
       "name": "Gris - En Vivo",
       "url": "https://open.spotify.com/track/1DW06C5KlWPeQTrwDOdmfk"
+    },
+    {
+      "added_at": "2025-07-17 22:42:38",
+      "album": {
+        "name": "Luna",
+        "url": "https://open.spotify.com/album/2FcKiL8crgFeGdpYbEHL7w"
+      },
+      "artists": [
+        {
+          "name": "JUSTINA",
+          "url": "https://open.spotify.com/artist/2hrHeIfHBeHjgIs5A7G5uc"
+        }
+      ],
+      "duration_ms": 219488,
+      "name": "Luna",
+      "url": "https://open.spotify.com/track/3oIVINAunwYTLz8gGOuk0F"
     },
     {
       "added_at": "2025-07-17 22:42:38",

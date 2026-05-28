@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3Kx5VpTudCX0aBWuTvT0C1.md) - [plain]
 
 > 🔀 Hit shuffle &amp; meet new artists &amp; pop rock song\. ✚ Each track also joins tailored playlists\.  By @faceless.diversum 📸 Insta\. Follow, save &amp; share ! Submit here :
 
-[DIVERSUM WORLD](https://open.spotify.com/user/1163990293) - 1,694 likes - 51 songs - 3 hr 3 min
+[DIVERSUM WORLD](https://open.spotify.com/user/1163990293) - 1,693 likes - 53 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,5 +59,7 @@ pretty - [cumulative](/playlists/cumulative/3Kx5VpTudCX0aBWuTvT0C1.md) - [plain]
 | 49 | [The Road Less Travelled](https://open.spotify.com/track/343vOMd6pDa254603WoQlV) | [Julience](https://open.spotify.com/artist/4SlykBMGNk8EXDDFfphLvL) | [The Road Less Travelled](https://open.spotify.com/album/4hKhTfDR48nGOzM7uNSeTQ) | 4:54 |
 | 50 | [Everything's About to Change](https://open.spotify.com/track/2lIr87O5duOJ1OFxiBTBIp) | [Jonathan Vautour](https://open.spotify.com/artist/6Xj8ajA4mlXygB3zzzUhyJ) | [Begin Over](https://open.spotify.com/album/2EgEJI0qu0Ia0AqYFrlfxZ) | 3:23 |
 | 51 | [Fairy Wings](https://open.spotify.com/track/0H6StvVWIN3LRcZNK3eAuG) | [Ladat](https://open.spotify.com/artist/2nX96XjXTUZvCoNWTNNun3) | [Fairy Wings](https://open.spotify.com/album/2vyGVc7zSMlbPrQGRWX8Sd) | 3:19 |
+| 52 | [Vamos Viendo](https://open.spotify.com/track/4sSJCnRfOZBZ8v7jD6PkPO) | [Ruido Cassette](https://open.spotify.com/artist/2YiahtiLSZAAMIHoV8uZlx) | [Vamos Viendo](https://open.spotify.com/album/5I0KWYTTCxgaOlQOvoq4LI) | 3:05 |
+| 53 | [Wicked Wicked Ways](https://open.spotify.com/track/4kBbTTOEJYymlnLIFMAAxf) | [DELREI](https://open.spotify.com/artist/77Xku7f5rq7hfoooTiv5jW), [Collin Hegna](https://open.spotify.com/artist/0cZ4bVVf2bWEON39U2kPab), [Federale](https://open.spotify.com/artist/6KdkzNXhRBjPQxCSYgRxpH) | [Wicked Wicked Ways](https://open.spotify.com/album/1te5ThMkLbxy4Vht0rSOlm) | 3:44 |
 
-Snapshot ID: `AAACigMZJAv9VFbie2WghiawTe7SCi6d`
+Snapshot ID: `AAACjAidS7u9VnfqqzUdsY1e0ZDb/k2z`

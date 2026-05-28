@@ -1,6 +1,6 @@
 {
   "description": "brutal breakdowns and riffs to amp you up.",
-  "num_followers": 562726,
+  "num_followers": 562881,
   "original_name": "Energy Booster: Metal",
   "owner": {
     "name": "Spotify",
@@ -271,18 +271,18 @@
     {
       "added_at": "2026-03-06 18:04:08",
       "album": {
-        "name": "The Last Stand",
-        "url": "https://open.spotify.com/album/14OgR04PHXULz1svvsol8L"
+        "name": "Magma",
+        "url": "https://open.spotify.com/album/7D7V6M05UIOTjLdqbwRX0w"
       },
       "artists": [
         {
-          "name": "Sabaton",
-          "url": "https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG"
+          "name": "Gojira",
+          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
         }
       ],
-      "duration_ms": 235840,
-      "name": "The Last Stand",
-      "url": "https://open.spotify.com/track/0bUgTRe5st6TMbRCEjKezX"
+      "duration_ms": 269533,
+      "name": "Stranded",
+      "url": "https://open.spotify.com/track/60fUDmIWuKhngaeBIVhqIV"
     },
     {
       "added_at": "2026-03-06 18:04:08",
@@ -303,18 +303,18 @@
     {
       "added_at": "2026-03-06 18:04:08",
       "album": {
-        "name": "Magma",
-        "url": "https://open.spotify.com/album/7D7V6M05UIOTjLdqbwRX0w"
+        "name": "The Last Stand",
+        "url": "https://open.spotify.com/album/14OgR04PHXULz1svvsol8L"
       },
       "artists": [
         {
-          "name": "Gojira",
-          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
+          "name": "Sabaton",
+          "url": "https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG"
         }
       ],
-      "duration_ms": 269533,
-      "name": "Stranded",
-      "url": "https://open.spotify.com/track/60fUDmIWuKhngaeBIVhqIV"
+      "duration_ms": 235840,
+      "name": "The Last Stand",
+      "url": "https://open.spotify.com/track/0bUgTRe5st6TMbRCEjKezX"
     },
     {
       "added_at": "2026-03-06 18:04:08",
@@ -351,22 +351,6 @@
     {
       "added_at": "2026-03-06 18:04:08",
       "album": {
-        "name": "Heroes",
-        "url": "https://open.spotify.com/album/5TdhTTvwtD0ekZBYve97r7"
-      },
-      "artists": [
-        {
-          "name": "Sabaton",
-          "url": "https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG"
-        }
-      ],
-      "duration_ms": 206546,
-      "name": "To Hell and Back",
-      "url": "https://open.spotify.com/track/1BrgjqSg9du0lj3TUMLluL"
-    },
-    {
-      "added_at": "2026-03-06 18:04:08",
-      "album": {
         "name": "Countdown To Extinction (Expanded Edition - Remastered)",
         "url": "https://open.spotify.com/album/1w9opfGdFtR3ulNHxnnO1e"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 365826,
       "name": "Painkiller",
       "url": "https://open.spotify.com/track/0L7zm6afBEtrNKo6C6Gj08"
+    },
+    {
+      "added_at": "2026-03-06 18:04:08",
+      "album": {
+        "name": "Heroes",
+        "url": "https://open.spotify.com/album/5TdhTTvwtD0ekZBYve97r7"
+      },
+      "artists": [
+        {
+          "name": "Sabaton",
+          "url": "https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG"
+        }
+      ],
+      "duration_ms": 206546,
+      "name": "To Hell and Back",
+      "url": "https://open.spotify.com/track/1BrgjqSg9du0lj3TUMLluL"
     },
     {
       "added_at": "2026-03-06 18:04:08",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2026-03-06 18:04:08",
       "album": {
-        "name": "Firepower",
-        "url": "https://open.spotify.com/album/7p3G0OCxtlWyJcPE1FxnyB"
-      },
-      "artists": [
-        {
-          "name": "Judas Priest",
-          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
-        }
-      ],
-      "duration_ms": 209453,
-      "name": "Lightning Strike",
-      "url": "https://open.spotify.com/track/6qopop1Rc9r1RjEIBQhc8d"
-    },
-    {
-      "added_at": "2026-03-06 18:04:08",
-      "album": {
         "name": "The Reckoning",
         "url": "https://open.spotify.com/album/2UAqWPHRSXHBHkCxsL3oMj"
       },
@@ -1827,6 +1811,22 @@
       "duration_ms": 251106,
       "name": "The Reckoning",
       "url": "https://open.spotify.com/track/4GSjFSK1SM78wPTVbsSB0S"
+    },
+    {
+      "added_at": "2026-03-06 18:04:08",
+      "album": {
+        "name": "Firepower",
+        "url": "https://open.spotify.com/album/7p3G0OCxtlWyJcPE1FxnyB"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "duration_ms": 209453,
+      "name": "Lightning Strike",
+      "url": "https://open.spotify.com/track/6qopop1Rc9r1RjEIBQhc8d"
     },
     {
       "added_at": "2026-03-06 18:04:08",
@@ -1887,22 +1887,6 @@
     {
       "added_at": "2026-03-06 18:04:08",
       "album": {
-        "name": "Antimatter",
-        "url": "https://open.spotify.com/album/21WE0VYFRtAKg4hEA1ppmZ"
-      },
-      "artists": [
-        {
-          "name": "Silent Planet",
-          "url": "https://open.spotify.com/artist/0JGTiwfinlCuANGu4Gq2XU"
-        }
-      ],
-      "duration_ms": 221340,
-      "name": "Antimatter",
-      "url": "https://open.spotify.com/track/4b3FN7tBCRrkLcbN5ae4v9"
-    },
-    {
-      "added_at": "2026-03-06 18:04:08",
-      "album": {
         "name": "Blood of the Nations",
         "url": "https://open.spotify.com/album/0sUtCw0dDv0KC8zrnxlmY4"
       },
@@ -1915,6 +1899,22 @@
       "duration_ms": 324746,
       "name": "Beat the Bastards",
       "url": "https://open.spotify.com/track/5CtaBjZac81phlz5FNFI18"
+    },
+    {
+      "added_at": "2026-03-06 18:04:08",
+      "album": {
+        "name": "Antimatter",
+        "url": "https://open.spotify.com/album/21WE0VYFRtAKg4hEA1ppmZ"
+      },
+      "artists": [
+        {
+          "name": "Silent Planet",
+          "url": "https://open.spotify.com/artist/0JGTiwfinlCuANGu4Gq2XU"
+        }
+      ],
+      "duration_ms": 221340,
+      "name": "Antimatter",
+      "url": "https://open.spotify.com/track/4b3FN7tBCRrkLcbN5ae4v9"
     },
     {
       "added_at": "2026-03-06 18:04:08",
@@ -1975,22 +1975,6 @@
     {
       "added_at": "2026-03-06 18:04:08",
       "album": {
-        "name": "Reaching into Infinity",
-        "url": "https://open.spotify.com/album/5lW7oJLGH5ggUyqJEBXu59"
-      },
-      "artists": [
-        {
-          "name": "DragonForce",
-          "url": "https://open.spotify.com/artist/2pH3wEn4eYlMMIIQyKPbVR"
-        }
-      ],
-      "duration_ms": 273520,
-      "name": "Ashes of the Dawn",
-      "url": "https://open.spotify.com/track/02kCXxQSaaVZiyXZMQWgpA"
-    },
-    {
-      "added_at": "2026-03-06 18:04:08",
-      "album": {
         "name": "Bad Dreams (feat. Of Virtue)",
         "url": "https://open.spotify.com/album/2CIZQKBEuZJrs6LEY7bW31"
       },
@@ -2011,18 +1995,18 @@
     {
       "added_at": "2026-03-06 18:04:08",
       "album": {
-        "name": "Sleepless Empire",
-        "url": "https://open.spotify.com/album/2z6a4yNBjfxi9QvMheDRQ8"
+        "name": "Reaching into Infinity",
+        "url": "https://open.spotify.com/album/5lW7oJLGH5ggUyqJEBXu59"
       },
       "artists": [
         {
-          "name": "Lacuna Coil",
-          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
+          "name": "DragonForce",
+          "url": "https://open.spotify.com/artist/2pH3wEn4eYlMMIIQyKPbVR"
         }
       ],
-      "duration_ms": 172280,
-      "name": "I Wish You Were Dead",
-      "url": "https://open.spotify.com/track/0jGmBA9jESBGNHE9FK6mST"
+      "duration_ms": 273520,
+      "name": "Ashes of the Dawn",
+      "url": "https://open.spotify.com/track/02kCXxQSaaVZiyXZMQWgpA"
     },
     {
       "added_at": "2026-03-06 18:04:08",
@@ -2039,6 +2023,22 @@
       "duration_ms": 214710,
       "name": "Wash It Away",
       "url": "https://open.spotify.com/track/0sTCKil0qqD6PDco3M6iyn"
+    },
+    {
+      "added_at": "2026-03-06 18:04:08",
+      "album": {
+        "name": "Sleepless Empire",
+        "url": "https://open.spotify.com/album/2z6a4yNBjfxi9QvMheDRQ8"
+      },
+      "artists": [
+        {
+          "name": "Lacuna Coil",
+          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
+        }
+      ],
+      "duration_ms": 172280,
+      "name": "I Wish You Were Dead",
+      "url": "https://open.spotify.com/track/0jGmBA9jESBGNHE9FK6mST"
     },
     {
       "added_at": "2026-03-06 18:04:08",
@@ -2123,22 +2123,6 @@
     {
       "added_at": "2026-03-06 18:04:08",
       "album": {
-        "name": "Doom (Original Game Soundtrack)",
-        "url": "https://open.spotify.com/album/0KQyC28P9808r0oKKNgHvp"
-      },
-      "artists": [
-        {
-          "name": "Mick Gordon",
-          "url": "https://open.spotify.com/artist/13ab1LgQZ3tQOhkDRRYB8Y"
-        }
-      ],
-      "duration_ms": 257734,
-      "name": "Rip & Tear",
-      "url": "https://open.spotify.com/track/5soMJpcVhSrGrB4prvPL6P"
-    },
-    {
-      "added_at": "2026-03-06 18:04:08",
-      "album": {
         "name": "Tether",
         "url": "https://open.spotify.com/album/7r8e3NJOBNWCznsvhN4SHR"
       },
@@ -2167,6 +2151,22 @@
       "duration_ms": 213773,
       "name": "Call My Name",
       "url": "https://open.spotify.com/track/4Io0qzQ3z8HjWMoF07rHLG"
+    },
+    {
+      "added_at": "2026-03-06 18:04:08",
+      "album": {
+        "name": "Doom (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/0KQyC28P9808r0oKKNgHvp"
+      },
+      "artists": [
+        {
+          "name": "Mick Gordon",
+          "url": "https://open.spotify.com/artist/13ab1LgQZ3tQOhkDRRYB8Y"
+        }
+      ],
+      "duration_ms": 257734,
+      "name": "Rip & Tear",
+      "url": "https://open.spotify.com/track/5soMJpcVhSrGrB4prvPL6P"
     },
     {
       "added_at": "2026-03-06 18:04:08",

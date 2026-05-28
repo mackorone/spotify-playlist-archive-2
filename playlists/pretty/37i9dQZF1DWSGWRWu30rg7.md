@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan talenta baru musik Indonesia pilihan editor yang patut kamu simak\. Cover: Casté
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,452 likes - 29 songs - 1 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,453 likes - 29 songs - 1 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,4 +38,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 28 | [Let Me Know When You Get Home](https://open.spotify.com/track/2xxKabGFfWwz1ScgpK20U1) | [Rubina](https://open.spotify.com/artist/0CP7W95OO1zFAXieVsBwPN) | [Let Me Know When You Get Home](https://open.spotify.com/album/3Joeu5aierqwOgX5w03uRR) | 3:24 |
 | 29 | [I DON'T WANNA \(BE YOU\)](https://open.spotify.com/track/2WCMo9QlX9wxYhMPNS7OiF) | [Gavendri](https://open.spotify.com/artist/3EMLBUicqUKN1tBFUj718w) | [I DON'T WANNA \(BE YOU\)](https://open.spotify.com/album/0neAOjh7pob5T9hroLg3Pz) | 3:18 |
 
-Snapshot ID: `AAAAAAVjFy0dHjUWPqoJ4Mi81CamzF/6`
+Snapshot ID: `AAAAAH4oay5J3bF/sgtN/UzM3Au1hZ9m`

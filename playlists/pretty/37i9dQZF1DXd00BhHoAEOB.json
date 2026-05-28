@@ -1,6 +1,6 @@
 {
   "description": "Planta de la bugambilia que me cubres y me matas. ",
-  "num_followers": 602345,
+  "num_followers": 602343,
   "original_name": "Bugambilias",
   "owner": {
     "name": "Spotify",
@@ -599,6 +599,22 @@
     {
       "added_at": "2025-01-10 16:11:48",
       "album": {
+        "name": "Chavela Vargas. Sus 40 Grandes Canciones",
+        "url": "https://open.spotify.com/album/0c4CIsqk0vOViJXGmrW9WP"
+      },
+      "artists": [
+        {
+          "name": "Chavela Vargas",
+          "url": "https://open.spotify.com/artist/0WC6O2ZzUcDYvcmt2mGh8c"
+        }
+      ],
+      "duration_ms": 202359,
+      "name": "Que te vaya bonito",
+      "url": "https://open.spotify.com/track/1XsYSawDnMWDwQHiEeUzXe"
+    },
+    {
+      "added_at": "2025-01-10 16:11:48",
+      "album": {
         "name": "Eso",
         "url": "https://open.spotify.com/album/4WV2QblWzbuZhaoI1qeH7W"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 242944,
       "name": "Eso",
       "url": "https://open.spotify.com/track/5FBiauPqHLjdm4pZLIEOg2"
-    },
-    {
-      "added_at": "2025-01-10 16:11:48",
-      "album": {
-        "name": "Chavela Vargas. Sus 40 Grandes Canciones",
-        "url": "https://open.spotify.com/album/0c4CIsqk0vOViJXGmrW9WP"
-      },
-      "artists": [
-        {
-          "name": "Chavela Vargas",
-          "url": "https://open.spotify.com/artist/0WC6O2ZzUcDYvcmt2mGh8c"
-        }
-      ],
-      "duration_ms": 202359,
-      "name": "Que te vaya bonito",
-      "url": "https://open.spotify.com/track/1XsYSawDnMWDwQHiEeUzXe"
     },
     {
       "added_at": "2025-01-10 16:11:48",
@@ -755,22 +755,6 @@
     {
       "added_at": "2025-01-10 16:11:48",
       "album": {
-        "name": "Se Me Va A Quemar El Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/3GCJk2I7oqa1WTKtaGv9ya"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 238560,
-      "name": "Se Me Va A Quemar El Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/2l2J1WVVzKRToOm0R2lhZ9"
-    },
-    {
-      "added_at": "2025-01-10 16:11:48",
-      "album": {
         "name": "Tu Amor No Vale un Bolero",
         "url": "https://open.spotify.com/album/66x0bo3TSXpCZLKMF4NjzQ"
       },
@@ -791,22 +775,18 @@
     {
       "added_at": "2025-01-10 16:11:48",
       "album": {
-        "name": "Suspiros",
-        "url": "https://open.spotify.com/album/2dU3JOkZlSKu7WdqIGvCcK"
+        "name": "Se Me Va A Quemar El Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/3GCJk2I7oqa1WTKtaGv9ya"
       },
       "artists": [
         {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
-        },
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/2iPaUU7QA953Vup7SWKMrL"
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
         }
       ],
-      "duration_ms": 293098,
-      "name": "Quisiera",
-      "url": "https://open.spotify.com/track/1DH0Cg447H2wioWGvW4S3z"
+      "duration_ms": 238560,
+      "name": "Se Me Va A Quemar El Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/2l2J1WVVzKRToOm0R2lhZ9"
     },
     {
       "added_at": "2025-01-10 16:11:48",
@@ -823,6 +803,26 @@
       "duration_ms": 151953,
       "name": "Ni una Gota de Amor",
       "url": "https://open.spotify.com/track/0eYmT4lH19Aqi3tnVrsLG0"
+    },
+    {
+      "added_at": "2025-01-10 16:11:48",
+      "album": {
+        "name": "Suspiros",
+        "url": "https://open.spotify.com/album/2dU3JOkZlSKu7WdqIGvCcK"
+      },
+      "artists": [
+        {
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        },
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/2iPaUU7QA953Vup7SWKMrL"
+        }
+      ],
+      "duration_ms": 293098,
+      "name": "Quisiera",
+      "url": "https://open.spotify.com/track/1DH0Cg447H2wioWGvW4S3z"
     },
     {
       "added_at": "2025-01-10 16:11:48",

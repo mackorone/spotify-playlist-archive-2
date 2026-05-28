@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/21JhxcGHq3awKEjLrsnRD8">Emily Weisband</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-216 songs - 12 hr 6 min
+217 songs - 12 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [Love Someone](https://open.spotify.com/track/4cKLbe0RxfMFsi3EzCU03X) | [Kaysha](https://open.spotify.com/artist/2DBaDAcrh5sf17yR1qbnsy) | [I'm Ready](https://open.spotify.com/album/7JKnJRhigNYvS1VIxiIf40) | 4:56 | 2026-05-19 |  |
 | [Love You Back](https://open.spotify.com/track/67zZ26O7nHAyL76sEx3tIS) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Love You Back](https://open.spotify.com/album/4CxtfxIxJ0YCDaRwz7HbJx) | 3:22 | 2026-05-19 |  |
 | [Loved](https://open.spotify.com/track/40ZUHESzoQNzcyNJurwTzQ) | [Emily Weisband](https://open.spotify.com/artist/1am9EW2QubqpkCbg29vu5n) | [I Call It Being Human](https://open.spotify.com/album/3FVWw3nnNmvi2XCjKERKMN) | 3:32 | 2026-05-19 |  |
+| [Mad](https://open.spotify.com/track/46QSgpK1ilvNKxXirTPY1f) | [Corbin Reynolds](https://open.spotify.com/artist/1q9iXPagwBsSkV5FS7SOvY) | [Uncomfortable](https://open.spotify.com/album/1eKIB13Le0mv5fzb4Ktxpe) | 3:59 | 2026-05-27 |  |
 | [Mad I Need You](https://open.spotify.com/track/0om2jMPfaW2pBJs5i7axVv) | [Kylie Morgan](https://open.spotify.com/artist/3g2yaL04Uapb5fxmwsUZgV) | [Love, Kylie](https://open.spotify.com/album/6Ab0rIJ0ydHvziPeeLE5e6) | 3:19 | 2026-05-19 |  |
 | [Make It Rain](https://open.spotify.com/track/6NFmLIXVZI2jVGmCPrNSvL) | [Thompson Square](https://open.spotify.com/artist/0Bvs8yPjrQSbmVIRqSg1Sp) | [Masterpiece](https://open.spotify.com/album/1QoD0fNJigVXa82cVwmHcW) | 3:37 | 2026-05-19 |  |
 | [Make Me Miss You](https://open.spotify.com/track/79j5qPDgK7kPBgqIFedLQG) | [Emily Weisband](https://open.spotify.com/artist/1am9EW2QubqpkCbg29vu5n) | [Identity Crisis](https://open.spotify.com/album/3lbaOO0V8HmnSDcmd85QAw) | 3:23 | 2026-05-19 |  |

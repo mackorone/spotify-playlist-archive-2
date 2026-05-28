@@ -4,7 +4,7 @@
 
 > Les nouveautés rap franco sans frontières\. Photo: Souldia, Blynk
 
-614 songs - 1 day 5 hr 55 min
+615 songs - 1 day 5 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Ask About Me](https://open.spotify.com/track/7cCrl4SgP50t2QAbpLnbtc) | [Prosperito](https://open.spotify.com/artist/5J0EbiAtpSbBynEwqZtt9O), [SeinsSucrer](https://open.spotify.com/artist/6AFFCSzexIvA2fBeEpe0nP) | [Ask About Me](https://open.spotify.com/album/6NEcHHEPV0TPY0Gg85UA3C) | 2:03 | 2025-10-31 | 2026-02-14 |
 | [Astrid](https://open.spotify.com/track/1n8fHxto2OMcsDBE1fR70H) | [JRK 19](https://open.spotify.com/artist/081t7kkrq7re69pk4vTurz), [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Astrid](https://open.spotify.com/album/3jSB6Lto6ZLx8paXGWwarY) | 2:45 | 2025-10-17 | 2025-12-13 |
 | [Atari](https://open.spotify.com/track/7iIGOm4UGzri6mAMZuIYOP) | [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV) | [Atari](https://open.spotify.com/album/6qUMwUVNpa89Xyi2YskqN7) | 2:26 | 2024-11-15 | 2025-10-18 |
+| [ATL](https://open.spotify.com/track/6FfgsAZ4s1D6X7jKNpw7lt) | [La Mano 1.9](https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [La Rvfleuze](https://open.spotify.com/artist/6k9F0oaxCXxbdTFDTdZihN) | [ATL](https://open.spotify.com/album/727sWTkDYJa8EcqR7uLrt2) | 2:43 | 2026-05-22 |  |
 | [AUBE](https://open.spotify.com/track/69prmOKqr4S5l2yPZpEIck) | [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT) | [EVIL WORLD](https://open.spotify.com/album/6v5mzCcDl3yZzi8EtPIslR) | 3:07 | 2026-04-10 |  |
 | [AURA](https://open.spotify.com/track/5rJkCx0L99pPxv4p6OCqQU) | [Salimo](https://open.spotify.com/artist/3dbzTStecQkHOqwQaQR3Ur) | [AURA](https://open.spotify.com/album/4FNQIpr3AQnltjix2xFEqI) | 3:37 | 2025-12-05 | 2026-02-21 |
 | [AVEC MOI](https://open.spotify.com/track/2ZxulKXVUpatqUe0quNMtP) | [RnBoi](https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc), [Nono La Grinta](https://open.spotify.com/artist/4P2HohWBtvSxxwabNDdYXN) | [AVEC MOI](https://open.spotify.com/album/3mT7JQV1sTV81SKPxkq0OA) | 3:02 | 2026-01-16 | 2026-03-28 |

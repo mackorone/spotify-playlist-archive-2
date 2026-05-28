@@ -1,6 +1,6 @@
 {
   "description": "The finest set of Telugu music from the past 10 years. \nCover : Court",
-  "num_followers": 458866,
+  "num_followers": 458920,
   "original_name": "Tollywood Pearls",
   "owner": {
     "name": "Spotify",
@@ -311,34 +311,6 @@
     {
       "added_at": "2026-04-17 11:03:44",
       "album": {
-        "name": "Rambai Neemeeda Naku (From \"Raju Weds Rambai\")",
-        "url": "https://open.spotify.com/album/0HiQMHutk9Yhy8stZpd3vw"
-      },
-      "artists": [
-        {
-          "name": "Suresh Bobbili",
-          "url": "https://open.spotify.com/artist/4TR1GJuGfGfrCLjNCI44eZ"
-        },
-        {
-          "name": "Anurag Kulkarni",
-          "url": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
-        },
-        {
-          "name": "Jayasri Pallem",
-          "url": "https://open.spotify.com/artist/7nPYZrwjgkmgPCqEGxSdsY"
-        },
-        {
-          "name": "Mittapalli Surendar",
-          "url": "https://open.spotify.com/artist/2HeQheS5dKGLyemhcuWPeU"
-        }
-      ],
-      "duration_ms": 204599,
-      "name": "Rambai Neemeeda Naku (From \"Raju Weds Rambai\")",
-      "url": "https://open.spotify.com/track/729Mpzd9gE5p9dRehnb1WG"
-    },
-    {
-      "added_at": "2026-04-17 11:03:44",
-      "album": {
         "name": "Andhra King Taluka",
         "url": "https://open.spotify.com/album/1PV2P1dasOI3eRMUgn8NrM"
       },
@@ -363,6 +335,34 @@
       "duration_ms": 174146,
       "name": "Chinni Gundelo",
       "url": "https://open.spotify.com/track/6PMdnLvQFPzxxSfalv1vW7"
+    },
+    {
+      "added_at": "2026-04-17 11:03:44",
+      "album": {
+        "name": "Rambai Neemeeda Naku (From \"Raju Weds Rambai\")",
+        "url": "https://open.spotify.com/album/0HiQMHutk9Yhy8stZpd3vw"
+      },
+      "artists": [
+        {
+          "name": "Suresh Bobbili",
+          "url": "https://open.spotify.com/artist/4TR1GJuGfGfrCLjNCI44eZ"
+        },
+        {
+          "name": "Anurag Kulkarni",
+          "url": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
+        },
+        {
+          "name": "Jayasri Pallem",
+          "url": "https://open.spotify.com/artist/7nPYZrwjgkmgPCqEGxSdsY"
+        },
+        {
+          "name": "Mittapalli Surendar",
+          "url": "https://open.spotify.com/artist/2HeQheS5dKGLyemhcuWPeU"
+        }
+      ],
+      "duration_ms": 204599,
+      "name": "Rambai Neemeeda Naku (From \"Raju Weds Rambai\")",
+      "url": "https://open.spotify.com/track/729Mpzd9gE5p9dRehnb1WG"
     },
     {
       "added_at": "2026-04-17 11:03:44",
@@ -613,26 +613,6 @@
       "url": "https://open.spotify.com/track/6f7qFjos0WWqvtEnwFDS0a"
     },
     {
-      "added_at": "2023-01-11 20:52:12",
-      "album": {
-        "name": "Gundellonaa (From \"Ori Devuda\")",
-        "url": "https://open.spotify.com/album/4eRBY1Mz7XTF95Vs2baAbZ"
-      },
-      "artists": [
-        {
-          "name": "Leon James",
-          "url": "https://open.spotify.com/artist/0wv5i0ds2z040yx7oL6UZy"
-        },
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        }
-      ],
-      "duration_ms": 200113,
-      "name": "Gundellonaa",
-      "url": "https://open.spotify.com/track/6D2LwdOQ5gjoFrpkoO5fvu"
-    },
-    {
       "added_at": "2025-01-20 06:56:34",
       "album": {
         "name": "Game Changer (Telugu)",
@@ -659,6 +639,26 @@
       "duration_ms": 272908,
       "name": "NaaNaa Hyraanaa",
       "url": "https://open.spotify.com/track/1rI7CPuz8ydyn0fdB0i2hZ"
+    },
+    {
+      "added_at": "2023-01-11 20:52:12",
+      "album": {
+        "name": "Gundellonaa (From \"Ori Devuda\")",
+        "url": "https://open.spotify.com/album/4eRBY1Mz7XTF95Vs2baAbZ"
+      },
+      "artists": [
+        {
+          "name": "Leon James",
+          "url": "https://open.spotify.com/artist/0wv5i0ds2z040yx7oL6UZy"
+        },
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        }
+      ],
+      "duration_ms": 200113,
+      "name": "Gundellonaa",
+      "url": "https://open.spotify.com/track/6D2LwdOQ5gjoFrpkoO5fvu"
     },
     {
       "added_at": "2023-03-16 06:15:29",
@@ -725,6 +725,22 @@
       "url": "https://open.spotify.com/track/7ILXon2PBU1bGYemfNg91q"
     },
     {
+      "added_at": "2021-12-16 12:46:43",
+      "album": {
+        "name": "Majili",
+        "url": "https://open.spotify.com/album/6a6ykv4C9RDMutKI4lR36T"
+      },
+      "artists": [
+        {
+          "name": "Chinmayi",
+          "url": "https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ"
+        }
+      ],
+      "duration_ms": 245885,
+      "name": "Priyathama Priyathama",
+      "url": "https://open.spotify.com/track/4wHZiaLsuI9aQdWv4f3Esd"
+    },
+    {
       "added_at": "2023-02-10 09:20:04",
       "album": {
         "name": "Almost Padipoyindhe Pilla (From \"Das Ka Dhamki\")",
@@ -743,22 +759,6 @@
       "duration_ms": 213242,
       "name": "Almost Padipoyindhe Pilla",
       "url": "https://open.spotify.com/track/1ZZzUmkUhcNlb0u7C1jcKd"
-    },
-    {
-      "added_at": "2021-12-16 12:46:43",
-      "album": {
-        "name": "Majili",
-        "url": "https://open.spotify.com/album/6a6ykv4C9RDMutKI4lR36T"
-      },
-      "artists": [
-        {
-          "name": "Chinmayi",
-          "url": "https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ"
-        }
-      ],
-      "duration_ms": 245885,
-      "name": "Priyathama Priyathama",
-      "url": "https://open.spotify.com/track/4wHZiaLsuI9aQdWv4f3Esd"
     },
     {
       "added_at": "2021-12-16 12:46:43",
@@ -1065,6 +1065,22 @@
       "url": "https://open.spotify.com/track/58DAnVD65xKeQW3ARTBolV"
     },
     {
+      "added_at": "2021-12-16 12:46:43",
+      "album": {
+        "name": "Love Story",
+        "url": "https://open.spotify.com/album/7ouZl1HNkTJ3zNhdGPH01F"
+      },
+      "artists": [
+        {
+          "name": "Anurag Kulkarni",
+          "url": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
+        }
+      ],
+      "duration_ms": 263505,
+      "name": "Nee Chitram Choosi",
+      "url": "https://open.spotify.com/track/5PsmOImV4eJxcTK8ZxSPJz"
+    },
+    {
       "added_at": "2026-04-17 11:03:44",
       "album": {
         "name": "Vaarevaa Vaarevaa (From \"Lenin\")",
@@ -1091,22 +1107,6 @@
       "duration_ms": 190083,
       "name": "Vaarevaa Vaarevaa (From \"Lenin\")",
       "url": "https://open.spotify.com/track/5SSYMRye4sfUYk5yjMdvWV"
-    },
-    {
-      "added_at": "2021-12-16 12:46:43",
-      "album": {
-        "name": "Love Story",
-        "url": "https://open.spotify.com/album/7ouZl1HNkTJ3zNhdGPH01F"
-      },
-      "artists": [
-        {
-          "name": "Anurag Kulkarni",
-          "url": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
-        }
-      ],
-      "duration_ms": 263505,
-      "name": "Nee Chitram Choosi",
-      "url": "https://open.spotify.com/track/5PsmOImV4eJxcTK8ZxSPJz"
     },
     {
       "added_at": "2023-01-10 09:27:27",
@@ -1661,22 +1661,6 @@
       "url": "https://open.spotify.com/track/5JnXwEckWO0oFijOyTZDLf"
     },
     {
-      "added_at": "2022-07-24 04:40:57",
-      "album": {
-        "name": "Agnyaathavaasi",
-        "url": "https://open.spotify.com/album/6RsL60SSZTVwigjfyY8mD2"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        }
-      ],
-      "duration_ms": 258333,
-      "name": "Gaali Vaaluga",
-      "url": "https://open.spotify.com/track/5pOY1Vg2TIIbVBfR6yAg0C"
-    },
-    {
       "added_at": "2023-08-07 09:11:28",
       "album": {
         "name": "Fidaa",
@@ -1691,6 +1675,22 @@
       "duration_ms": 273181,
       "name": "Oosupodu",
       "url": "https://open.spotify.com/track/0xNiDPK4YdZ51ALxSid0QV"
+    },
+    {
+      "added_at": "2022-07-24 04:40:57",
+      "album": {
+        "name": "Agnyaathavaasi",
+        "url": "https://open.spotify.com/album/6RsL60SSZTVwigjfyY8mD2"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        }
+      ],
+      "duration_ms": 258333,
+      "name": "Gaali Vaaluga",
+      "url": "https://open.spotify.com/track/5pOY1Vg2TIIbVBfR6yAg0C"
     },
     {
       "added_at": "2023-08-07 09:11:28",
@@ -1745,6 +1745,22 @@
       "url": "https://open.spotify.com/track/6jUscicoyUljrPOdQCfhnd"
     },
     {
+      "added_at": "2023-08-07 09:11:28",
+      "album": {
+        "name": "Dhruva",
+        "url": "https://open.spotify.com/album/2mutIulE85wKAHrrP0oCuM"
+      },
+      "artists": [
+        {
+          "name": "Padmalatha Vishnu Priya",
+          "url": "https://open.spotify.com/artist/7txK3ILyvvPyNhFJ8BzG8R"
+        }
+      ],
+      "duration_ms": 193179,
+      "name": "Pareshanura",
+      "url": "https://open.spotify.com/track/0UipbyZ94eKrCm1Vcydvl3"
+    },
+    {
       "added_at": "2022-07-24 04:40:57",
       "album": {
         "name": "Chalo",
@@ -1763,22 +1779,6 @@
       "duration_ms": 202111,
       "name": "Choosi Chudangane",
       "url": "https://open.spotify.com/track/0fYTkcBMtjtP4hzoOxGgSF"
-    },
-    {
-      "added_at": "2023-08-07 09:11:28",
-      "album": {
-        "name": "Dhruva",
-        "url": "https://open.spotify.com/album/2mutIulE85wKAHrrP0oCuM"
-      },
-      "artists": [
-        {
-          "name": "Padmalatha Vishnu Priya",
-          "url": "https://open.spotify.com/artist/7txK3ILyvvPyNhFJ8BzG8R"
-        }
-      ],
-      "duration_ms": 193179,
-      "name": "Pareshanura",
-      "url": "https://open.spotify.com/track/0UipbyZ94eKrCm1Vcydvl3"
     },
     {
       "added_at": "2022-07-24 04:40:57",

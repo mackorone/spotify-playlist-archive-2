@@ -2,9 +2,9 @@
 
 ### [TrenChill K\-R&B](https://open.spotify.com/playlist/37i9dQZF1DXbirtHQBuwCo)
 
-> Trendy & Chill Korean R&B music\. \(Cover: Gemini\)
+> Trendy & Chill Korean R&B music\. \(Cover: Krystal\)
 
-913 songs - 2 day 0 hr 11 min
+914 songs - 2 day 0 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -653,9 +653,10 @@
 | [Prescription](https://open.spotify.com/track/7bAdDCF5HouWbsHPwLAfYY) | [sogumm](https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS) | [Precious](https://open.spotify.com/album/5kSldVJSFCbuMmBgmSEQef) | 3:26 | 2022-06-29 | 2022-07-01 |
 | [Promise](https://open.spotify.com/track/79cmYpry5DEPtK4KbmAUqj) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [Promise](https://open.spotify.com/album/1g68tNYMO5iS3P2y74vqZ6) | 2:55 | 2023-12-16 | 2024-03-06 |
 | [Purple Love \(Feat\. Leellamarz\)](https://open.spotify.com/track/0Jo0mDbEb7eJYf4H13M2az) | [INJAE](https://open.spotify.com/artist/52jCsWDfCYGGZiPqIYL0WD) | [Purple Love \(Feat\. Leellamarz\)](https://open.spotify.com/album/7su3q5pR0XgyW0TZR2vau9) | 3:16 | 2023-06-01 | 2023-06-14 |
+| [PWLT](https://open.spotify.com/track/7kLcolBu5DbHBik5ZEKk9m) | [Krystal](https://open.spotify.com/artist/253YRxmnmB0BcRhFtj1tBI) | [PWLT](https://open.spotify.com/album/4KvHOjRNJ6RYFJEyNFRm79) | 3:38 | 2026-05-27 |  |
 | [Q&A](https://open.spotify.com/track/4hNcCU1IvB6Vaob6SNuaU3) | [LimJi](https://open.spotify.com/artist/07iBNkDjwUvp70cKJj3K6Z) | [Q&A](https://open.spotify.com/album/5Wr4YTpwSvR0Z0SD2saGpC) | 2:57 | 2022-05-11 | 2022-05-29 |
 | [Q&A \(Feat\. g0nny\)](https://open.spotify.com/track/1yefeOUbRIYxX7CNovxHMd) | [h3hyeon](https://open.spotify.com/artist/2VjfPlcTFJhQSe8ALJJ1dz), [g0nny](https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR) | [Q&A \(Feat\. g0nny\)](https://open.spotify.com/album/4GO1ilSEyFguMadQTkSz9n) | 2:32 | 2024-08-10 | 2024-08-23 |
-| [R.E.M](https://open.spotify.com/track/7D2B5pj751b3MIaU4TwE6e) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [R.E.M](https://open.spotify.com/album/4xcIr0rkoIBPmoSPamCorO) | 2:52 | 2024-10-14 |  |
+| [R.E.M](https://open.spotify.com/track/7D2B5pj751b3MIaU4TwE6e) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [R.E.M](https://open.spotify.com/album/4xcIr0rkoIBPmoSPamCorO) | 2:52 | 2024-10-14 | 2026-05-28 |
 | [RADIONA \(Feat\. GIST\)](https://open.spotify.com/track/7yuZTTd7qxLV18dU1QsXrC) | [GOYA](https://open.spotify.com/artist/33ftrWjmTpIAXapZU7H1Iw), [Gist](https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk) | [RADIONA](https://open.spotify.com/album/14jzyg9CvAWyVomsapigey) | 3:08 | 2022-11-03 | 2022-11-10 |
 | [Rain Song](https://open.spotify.com/track/2jGbpRUsuhFr6VelssN8Nq) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [Rain Song](https://open.spotify.com/album/2jTAGPtLTI71MyRhTITbyi) | 4:01 | 2022-07-04 | 2022-07-08 |
 | [Rainbow Freestyle](https://open.spotify.com/track/5IzNyik573EIobd8OPPqpZ) | [Juju B\. Goode](https://open.spotify.com/artist/5PLxgBMZxMf8px0EfhgOiY) | [Future Boy](https://open.spotify.com/album/6xDENSYvVpXXIbYlHjBzI0) | 3:13 | 2022-05-04 | 2022-07-17 |

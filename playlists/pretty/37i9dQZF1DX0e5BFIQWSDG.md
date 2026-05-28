@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0e5BFIQWSDG.md) - [plain]
 
 > Οι μεγαλύτερες επιτυχίες του σήμερα και του αύριο, επιλεγμένες από την ομάδα μας\. Εξώφυλλο: Mad Clip
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,851 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 285,842 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0e5BFIQWSDG.md) - [plain]
 | 41 | [Me Xodepses](https://open.spotify.com/track/2XDgYSMOmSSjNGpDoJCPDJ) | [Ioulia Kallimani](https://open.spotify.com/artist/6HsM9NbNIunWMEFLOk4d9p), [Michael Touratzidis](https://open.spotify.com/artist/5dwadtCk3MY582FXpBAHwz) | [Me Xodepses](https://open.spotify.com/album/1qNcN5xAxlbJ5koajyPnZy) | 2:59 |
 | 42 | [Exigiste Mou](https://open.spotify.com/track/3hqEXohUvBy76CKAxK2A9R) | [Ria Ellinidou](https://open.spotify.com/artist/5xs1rri2ZKfDpkKLqreHlc) | [Exigiste Mou](https://open.spotify.com/album/5wZG3GidgJwTxeNFMIse8S) | 2:53 |
 | 43 | [CHATGPT](https://open.spotify.com/track/5m9pK3a3oMIbZHThbyraDi) | [TOQUEL](https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG) | [10](https://open.spotify.com/album/2Gp2xWRr2pRQYGG6Zc91S0) | 3:23 |
-| 44 | [To Vals Ton Oniron](https://open.spotify.com/track/1qjoWfwVtNqH5VBEkGorzg) | [Mariana Katsimicha](https://open.spotify.com/artist/3UiDrccF5BtDQWf2JYkzPY), [Dimitris Bakoulis](https://open.spotify.com/artist/4bwUniaSvto71vogPnv6zz), [Dimitris Karras](https://open.spotify.com/artist/4EA4ArgDUPo09DdUIs49LK) | [To Soundtrack tou Ellinikou Gia ton Alki Alkaio](https://open.spotify.com/album/4XwkXTXrCuqreKXVzGdSbR) | 3:25 |
+| 44 | [To Vals Ton Oniron](https://open.spotify.com/track/1qjoWfwVtNqH5VBEkGorzg) | [Dimitris Karras](https://open.spotify.com/artist/4EA4ArgDUPo09DdUIs49LK), [Dimitris Bakoulis](https://open.spotify.com/artist/4bwUniaSvto71vogPnv6zz), [Mariana Katsimicha](https://open.spotify.com/artist/3UiDrccF5BtDQWf2JYkzPY), [Alkis Alkaios](https://open.spotify.com/artist/2Rg30ZalrVol05bZe7iBae) | [To Soundtrack tou Ellinikou Gia ton Alki Alkaio](https://open.spotify.com/album/4XwkXTXrCuqreKXVzGdSbR) | 3:25 |
 | 45 | [Margarita](https://open.spotify.com/track/1n80QsVmclzh7ETsMO03FR) | [Christos Mastoras](https://open.spotify.com/artist/1XlTr7C0vwBmlpnsN8OMhu), [ARCADE](https://open.spotify.com/artist/565UjtVObRIa1hdNFUJajr) | [Margarita](https://open.spotify.com/album/5fcZGl6OLbQGTIoroV6PbZ) | 3:05 |
 | 46 | [Logariasmos](https://open.spotify.com/track/6qShG16XTy1emd18WVPZlh) | [Katerina Lioliou](https://open.spotify.com/artist/6vgi3CIDWWdGEGJ6NMgQdD) | [Logariasmos](https://open.spotify.com/album/0Mesq5mYk1HClW7ecjungg) | 3:40 |
 | 47 | [Isos Isoun Kiria](https://open.spotify.com/track/3wXwptbzcV60VOzQz0ODG4) | [Pantelis Pantelidis](https://open.spotify.com/artist/1TubjoUgPPYHfMoUrvJxP3) | [Alkoolikes I Nihtes](https://open.spotify.com/album/2DhTZJ7uoABIuwAceeBWq4) | 3:04 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-03",
-  "description": "AAAAAAAAHHHHHHHHHHHHHHHHHHHHHHHHHH. Ko\u042fn en portada",
+  "description": "AAAAAAAAHHHHHHHHHHHHHHHHHHHHHHHHHH. System Of  A Down en portada",
   "name": "Dark and Furious",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2025-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-28",
       "duration_ms": 186777,
       "name": "'98",
       "url": "https://open.spotify.com/track/4WgtajjYpw0E4sNQuxvs0n"
@@ -352,6 +352,24 @@
       "duration_ms": 90133,
       "name": "Acid Bath",
       "url": "https://open.spotify.com/track/6MaUvf5bKxvq4W8AIykDOr"
+    },
+    {
+      "album": {
+        "name": "Toxicity",
+        "url": "https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh"
+      },
+      "artists": [
+        {
+          "name": "System Of A Down",
+          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235053,
+      "name": "Aerials",
+      "url": "https://open.spotify.com/track/4e9eGQYsOiBcftrWXwsVco"
     },
     {
       "album": {
@@ -788,7 +806,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-28",
       "duration_ms": 144845,
       "name": "AUTONOMOUS DELIVERY ROBOT",
       "url": "https://open.spotify.com/track/6nXJ76qT0Z5dsVQ8BkY71R"
@@ -1536,7 +1554,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-28",
       "duration_ms": 165744,
       "name": "Cardinal In The Crossfire",
       "url": "https://open.spotify.com/track/0yWTRzYMR6QvS1LwW2WGEQ"
@@ -1872,6 +1890,28 @@
       "duration_ms": 221050,
       "name": "Cold - 2022 Remaster",
       "url": "https://open.spotify.com/track/6BZ5pRMvPfxsJLLeztmme5"
+    },
+    {
+      "album": {
+        "name": "COME SAY SUM (feat. Fred Durst)",
+        "url": "https://open.spotify.com/album/5aCOiw2AOd46DL0WKnPIVU"
+      },
+      "artists": [
+        {
+          "name": "Lauren Sanderson",
+          "url": "https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj"
+        },
+        {
+          "name": "Fred Durst",
+          "url": "https://open.spotify.com/artist/6xs3t4VrfszbO3YJg2wLPa"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146066,
+      "name": "COME SAY SUM (feat. Fred Durst)",
+      "url": "https://open.spotify.com/track/6kixNh6AfOQwcLz3I52r50"
     },
     {
       "album": {
@@ -3577,6 +3617,24 @@
     },
     {
       "album": {
+        "name": "Protect The Land / Genocidal Humanoidz",
+        "url": "https://open.spotify.com/album/00OQIrRjQgZmacSnjK8L7M"
+      },
+      "artists": [
+        {
+          "name": "System Of A Down",
+          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155286,
+      "name": "Genocidal Humanoidz",
+      "url": "https://open.spotify.com/track/3Sg3bOiD0kE4D5DcXk48Ds"
+    },
+    {
+      "album": {
         "name": "Ghost of a Rose",
         "url": "https://open.spotify.com/album/3MXz1dFz01GSZGwlVDq4q8"
       },
@@ -3822,7 +3880,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-28",
       "duration_ms": 194631,
       "name": "Guardian",
       "url": "https://open.spotify.com/track/1nrj6SI6yvfkP8tWwaoLsb"
@@ -4676,6 +4734,24 @@
       "duration_ms": 301226,
       "name": "It's a Long Way to the Top (If You Wanna Rock 'N' Roll)",
       "url": "https://open.spotify.com/track/7nemcVsXVFZF01iqpIIo2Y"
+    },
+    {
+      "album": {
+        "name": "Tree City Sessions 3",
+        "url": "https://open.spotify.com/album/1w0wuf7K6bpz57ucQClUme"
+      },
+      "artists": [
+        {
+          "name": "Dance Gavin Dance",
+          "url": "https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318959,
+      "name": "It's Safe To Say You Dig The Backseat - Tree City Sessions",
+      "url": "https://open.spotify.com/track/18oyzaDwkihdwRfFUKIzOK"
     },
     {
       "album": {
@@ -6625,6 +6701,28 @@
     },
     {
       "album": {
+        "name": "Time To Burn",
+        "url": "https://open.spotify.com/album/1qpGHOmNg4AV5xXm1BlzrG"
+      },
+      "artists": [
+        {
+          "name": "XCOMM",
+          "url": "https://open.spotify.com/artist/5cpYeQPUGJh6KsQhnd6P8T"
+        },
+        {
+          "name": "Ghostemane",
+          "url": "https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153671,
+      "name": "Pirates",
+      "url": "https://open.spotify.com/track/79BXR9Y8zZItnMQFGjCCWE"
+    },
+    {
+      "album": {
         "name": "Nexus Polaris",
         "url": "https://open.spotify.com/album/4w0Zi763FFrid0LjbwpPuW"
       },
@@ -6791,6 +6889,24 @@
     },
     {
       "album": {
+        "name": "Pure Ecstasy",
+        "url": "https://open.spotify.com/album/7LaRPSnFbhbbDVAPf6ewX3"
+      },
+      "artists": [
+        {
+          "name": "Beartooth",
+          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185425,
+      "name": "Pure Ecstasy",
+      "url": "https://open.spotify.com/track/3IoUXFzfbzbi1XIfosP0AP"
+    },
+    {
+      "album": {
         "name": "Stone Orange",
         "url": "https://open.spotify.com/album/3wPt30rdfVoejHwRKcjBfd"
       },
@@ -6824,7 +6940,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-28",
       "duration_ms": 156666,
       "name": "Pyromancer",
       "url": "https://open.spotify.com/track/5bbC1LhM6s7F8vOIOJsRIc"
@@ -7515,6 +7631,28 @@
     },
     {
       "album": {
+        "name": "See U in Hell (from the Netflix Series \"Devil May Cry\")",
+        "url": "https://open.spotify.com/album/2brmv8QcoqNsngywe6NYxs"
+      },
+      "artists": [
+        {
+          "name": "Papa Roach",
+          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+        },
+        {
+          "name": "Hanumankind",
+          "url": "https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243996,
+      "name": "See U in Hell (from the Netflix Series \"Devil May Cry\")",
+      "url": "https://open.spotify.com/track/26wlaTdnrLNmpz5usoU2T3"
+    },
+    {
+      "album": {
         "name": "The Only Pure Hate - MMXVIII-",
         "url": "https://open.spotify.com/album/4ZP4Vbbf8HMJ4omPJkAer0"
       },
@@ -7580,7 +7718,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-28",
       "duration_ms": 122068,
       "name": "SEX CHANGE",
       "url": "https://open.spotify.com/track/1fpymnHfZ3AyzAcTjVFru6"
@@ -9656,7 +9794,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-28",
       "duration_ms": 89429,
       "name": "Torreta",
       "url": "https://open.spotify.com/track/4mCVL6ScNCjvftMsydugz6"

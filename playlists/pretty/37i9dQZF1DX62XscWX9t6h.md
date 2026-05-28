@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62XscWX9t6h.md) - [plain]
 
 > 21st Century nomadic expressions interwoven into a very unexpected patchwork.
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,961 likes - 100 songs - 7 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,002 likes - 100 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,13 +64,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62XscWX9t6h.md) - [plain]
 | 54 | [Agrim Agadez](https://open.spotify.com/track/784k9MLp8Sce2hcItg5eaL) | [Etran de L'AÏr](https://open.spotify.com/artist/1Tj92mXFtSUJPPnT5fG4Gg) | [No\. 1](https://open.spotify.com/album/4wpPZZoZk7tIm2pdiKEEWC) | 5:51 |
 | 55 | [Feira De Mangaio](https://open.spotify.com/track/33iTVkckI2X5ip1qX4dFsh) | [The Kiffness](https://open.spotify.com/artist/6t41YgqHULlgOq9TK1kcrG), [Mari Merenda](https://open.spotify.com/artist/07FaEsHIaVZAFFHvNElpbQ) | [Feira De Mangaio](https://open.spotify.com/album/55ubWcyqgWWOAI1GuowYAH) | 2:36 |
 | 56 | [El Diablo Y El Ñau Ñau \(feat\. Chico Mann\)](https://open.spotify.com/track/6mYsi0PrM4EdDBV5cfsNyp) | [Ocote Soul Sounds](https://open.spotify.com/artist/4khzV3qBWcUKdc50QOv8Tc), [Chico Mann](https://open.spotify.com/artist/2Wt6Q6ZHygCPVtMO3uxLGB) | [Coconut Rock](https://open.spotify.com/album/7gW7B0IdXwmNaMBAZ0XryK) | 3:57 |
-| 57 | [Afrique Victime](https://open.spotify.com/track/1RhL5PGWaiYXwVmqOpj0Nm) | [Mdou Moctar](https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94) | [Afrique Victime](https://open.spotify.com/album/3ZZMK1Hd8E9Uzj1Tycdlf2) | 7:25 |
-| 58 | [Geeta duniki](https://open.spotify.com/track/6Y4txHIZfSfFfON6SG8484) | [Ammar 808](https://open.spotify.com/artist/0TAPEEcG2NQAfSKkreQWAM), [Susha](https://open.spotify.com/artist/1ZwNmkTnRKkILlrPV2yPpC) | [Global Control / Invisible Invasion](https://open.spotify.com/album/1teOHeiThN9wbZLcYKfqjI) | 3:32 |
+| 57 | [Geeta duniki](https://open.spotify.com/track/6Y4txHIZfSfFfON6SG8484) | [Ammar 808](https://open.spotify.com/artist/0TAPEEcG2NQAfSKkreQWAM), [Susha](https://open.spotify.com/artist/1ZwNmkTnRKkILlrPV2yPpC) | [Global Control / Invisible Invasion](https://open.spotify.com/album/1teOHeiThN9wbZLcYKfqjI) | 3:32 |
+| 58 | [Afrique Victime](https://open.spotify.com/track/1RhL5PGWaiYXwVmqOpj0Nm) | [Mdou Moctar](https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94) | [Afrique Victime](https://open.spotify.com/album/3ZZMK1Hd8E9Uzj1Tycdlf2) | 7:25 |
 | 59 | [Garawek khaos](https://open.spotify.com/track/09uRAja2jE8e0HwBFmPdqn) | [Cemento Atlantico](https://open.spotify.com/artist/75mLxfyKPeBkmXEEAM3NlT) | [Dromomania](https://open.spotify.com/album/0slf4uR5PXW7wWSfFOnOEx) | 4:53 |
 | 60 | [Los Chucos Suaves \(featuring Macha\)](https://open.spotify.com/track/71JT61x0b1jpIdjMG2B7u7) | [Son Rompe Pera](https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V), [Macha](https://open.spotify.com/artist/4nlcyHlvzjmpjOJ09k2nb9) | [Batuco](https://open.spotify.com/album/3M8Eepfnzl2kaKyBVqjguX) | 3:12 |
 | 61 | [Jaley Jaley](https://open.spotify.com/track/5Q2kmykzh6TUFBBqskiHjK) | [Frente Cumbiero](https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6) | [Cera Perdida](https://open.spotify.com/album/4G4lWdQ2QmExgywdumu7Fh) | 3:09 |
-| 62 | [Tala Tannam](https://open.spotify.com/track/7FDVKzLOGTeeLEsR91ck9W) | [Mdou Moctar](https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94) | [Afrique Victime](https://open.spotify.com/album/3ZZMK1Hd8E9Uzj1Tycdlf2) | 5:38 |
-| 63 | [Alsutur](https://open.spotify.com/track/6GBTuDftjpSehy0GHLN0Fl) | [Dar Disku](https://open.spotify.com/artist/70XpwqZmbGHH9TnDuvPhGR), [FLANAH](https://open.spotify.com/artist/5DqIuKnov00pkcf2dlq8W5) | [Dar Disku](https://open.spotify.com/album/2WPTr25DfIdlsDZDcb2aHY) | 2:39 |
+| 62 | [Alsutur](https://open.spotify.com/track/6GBTuDftjpSehy0GHLN0Fl) | [Dar Disku](https://open.spotify.com/artist/70XpwqZmbGHH9TnDuvPhGR), [FLANAH](https://open.spotify.com/artist/5DqIuKnov00pkcf2dlq8W5) | [Dar Disku](https://open.spotify.com/album/2WPTr25DfIdlsDZDcb2aHY) | 2:39 |
+| 63 | [Tala Tannam](https://open.spotify.com/track/7FDVKzLOGTeeLEsR91ck9W) | [Mdou Moctar](https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94) | [Afrique Victime](https://open.spotify.com/album/3ZZMK1Hd8E9Uzj1Tycdlf2) | 5:38 |
 | 64 | [Newcastle](https://open.spotify.com/track/2GiVRxdolsLBU3QZ8U7CNk) | [Lankum](https://open.spotify.com/artist/2zPm4XzwKuPidtfKh92H2Z) | [False Lankum](https://open.spotify.com/album/2lu7c86G1ptjMJVL9upG1H) | 5:43 |
 | 65 | [Totomami](https://open.spotify.com/track/1H5TTRStrhzQW3w0LpqhVU) | [Pony Bravo](https://open.spotify.com/artist/2e1wMFU6VpZkcLil2g7MrF) | [Gurú](https://open.spotify.com/album/4oLp2nNArfwJ0JsMT3eHMq) | 3:38 |
 | 66 | [Turkish Coffee](https://open.spotify.com/track/4XwNMzzX2Am9G4WbRl6nMi) | [BALTHVS](https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG) | [Turkish Coffee](https://open.spotify.com/album/32NlU7M1aJkrf4dJBiRNTW) | 3:37 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62XscWX9t6h.md) - [plain]
 | 95 | [Sierra Madre \(Remix\)](https://open.spotify.com/track/3b37ePy3JV5VsnoGoAfqS6) | [Bial Hclap](https://open.spotify.com/artist/6f2R15yk7Bem9aU3nyXXo1), [Héctor Guerra](https://open.spotify.com/artist/4lfPNH1M6M7uNbHlhQdvZz), [Danger AK](https://open.spotify.com/artist/23TYM4mYLQjyJLr4x89MjH), [Noe Gonzalez Molina](https://open.spotify.com/artist/7Fwc3AwZokLaMKG6PBldYg) | [Sierra Madre \(Remix\)](https://open.spotify.com/album/6ZiLWGGHlbwU6Z2llnJRns) | 5:05 |
 | 96 | [Tanokumbia](https://open.spotify.com/track/1gkCspjXUHg8lYLXxKZXxt) | [The Halluci Nation](https://open.spotify.com/artist/2jlWF9ltd8UtoaqW0PxY4z), [El Dusty](https://open.spotify.com/artist/746tySZWCr6nqgEjmQyKyB), [Black Bear](https://open.spotify.com/artist/0yA6zmKmNXjUPSZyfDZji7) | [Tanokumbia](https://open.spotify.com/album/7DbNqsdFbogU9spBn4N35X) | 3:22 |
 | 97 | [Wee Rosebud](https://open.spotify.com/track/4UZmFxgOxdrbgJyskDm3AS) | [Clarissa Connelly](https://open.spotify.com/artist/5YTJVNTfb9qDXATTlzuR5S) | [Wee Rosebud](https://open.spotify.com/album/52NR1QlvraGMvlG7d6OVdD) | 4:21 |
-| 98 | [アダンの海辺](https://open.spotify.com/track/2Sw8R2PBZQ6qvtpsEMu9ND) | [CHO CO PA CO CHO CO QUIN QUIN](https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C) | [Correspondances](https://open.spotify.com/album/7bHqPAAsC9LBhk1HhMYG6z) | 3:18 |
-| 99 | [Binboğa](https://open.spotify.com/track/0zxL1Bz2ntGvyljo7EVO39) | [Yalnayak](https://open.spotify.com/artist/3jEtefzgPeUqmWbhrh27gu) | [Binboğa](https://open.spotify.com/album/2ZETfZLZlvOUvF2sI4hBZ9) | 4:02 |
-| 100 | [Touch Me Not](https://open.spotify.com/track/1hY1xVHfG9wHrkF26mIYoT) | [Dengue Fever](https://open.spotify.com/artist/3wFHDAXLsjvclEtifEV7F5) | [Ting Mong](https://open.spotify.com/album/2km8A0QjXH4vXxYek57n7E) | 4:22 |
+| 98 | [ÊCCLABÔ DE LIBERTÁ](https://open.spotify.com/track/10W29dzZ0hjJbf4SvCSQw2) | [Califato ¾](https://open.spotify.com/artist/6APnwoSgygJU8HR7EHVSyK) | [ÊCCLABÔ DE LIBERTÁ](https://open.spotify.com/album/1tVhgN9feZ8I31AC7yKOSp) | 3:36 |
+| 99 | [Touch Me Not](https://open.spotify.com/track/1hY1xVHfG9wHrkF26mIYoT) | [Dengue Fever](https://open.spotify.com/artist/3wFHDAXLsjvclEtifEV7F5) | [Ting Mong](https://open.spotify.com/album/2km8A0QjXH4vXxYek57n7E) | 4:22 |
+| 100 | [Binboğa](https://open.spotify.com/track/0zxL1Bz2ntGvyljo7EVO39) | [Yalnayak](https://open.spotify.com/artist/3jEtefzgPeUqmWbhrh27gu) | [Binboğa](https://open.spotify.com/album/2ZETfZLZlvOUvF2sI4hBZ9) | 4:02 |
 
 Snapshot ID: `AAAAAOgBIqsM/lsR2ymIcRvX926UOZt7`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0ndulfVsG7.md) - [plain]
 
 > Koleksi lagu tersayang dari para artis negeri jiran\. Cover: Meet Uncle Hussain, Adi Priyo
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,382 likes - 50 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,388 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0ndulfVsG7.md) - [plain]
 | 47 | [Kamulah Satu \- Satunya](https://open.spotify.com/track/6pCfc6xxUXYBWLMQhIWDmh) | [Dewa 19](https://open.spotify.com/artist/48bKH1ugFBhERC1rdojP9d) | [The Best of Dewa 19](https://open.spotify.com/album/2AYCO1vDSYRYnlu7tK6ZcS) | 4:01 |
 | 48 | [Kekasih Bayangan](https://open.spotify.com/track/3PeIxOLCSZtpMCo24EcapU) | [Cakra Khan](https://open.spotify.com/artist/6pZzHAdfBLIEkQVRUhB8ps) | [Kekasih Bayangan](https://open.spotify.com/album/2Xw7OI35YCxYybg7zDnK39) | 4:43 |
 | 49 | [Gerimis Mengundang](https://open.spotify.com/track/0uoL9b2NPoSq8bXjD31pWy) | [Slam](https://open.spotify.com/artist/6ZK1l84rj8SLSn2tXVgCsf) | [Rindiani](https://open.spotify.com/album/3aSrDhdhPEsGwiXm53uDMu) | 5:24 |
-| 50 | [Biarkanlah](https://open.spotify.com/track/0TbxuF4pkOZBfdBipPorYQ) | [Drama Band](https://open.spotify.com/artist/5NWfEZx5XGbVCAQTjhSxlR) | [Biarkanlah](https://open.spotify.com/album/5oR5jLtz8APUIBiZ5lB4CL) | 4:13 |
+| 50 | [Sepi Sekuntum Mawar Merah](https://open.spotify.com/track/4sRPgFGFMkGGW2zYFgUPZZ) | [Ella](https://open.spotify.com/artist/2ZQY8HKMtEjGdxgcuW2574) | [Identiti](https://open.spotify.com/album/1mtuo1TIeHj64UWWPzjSZI) | 4:40 |
 
 Snapshot ID: `AAAAAHdP5Z/9sigil/UluybLzNf5WwV/`

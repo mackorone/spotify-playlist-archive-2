@@ -4,7 +4,7 @@
 
 > Boys groups/solo artists shining beyond borders\.  グローバルに活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Cover: ALPHA DRIVE ONE
 
-1,003 songs - 2 day 6 hr 31 min
+1,004 songs - 2 day 6 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -270,6 +270,7 @@
 | [FLY](https://open.spotify.com/track/6lOhNJIzPKHfR0wmmxO8Vr) | [MADKID](https://open.spotify.com/artist/1tofuk7dTZwb6ZKsr7XRKB) | [FLY](https://open.spotify.com/album/5NmGBpMFTTM63A5O5g1IM2) | 3:31 | 2024-01-04 | 2024-03-13 |
 | [Fly to you](https://open.spotify.com/track/4jr5dgzdPw2nuttnYcQf4N) | [ONEUS](https://open.spotify.com/artist/3CVYSpM7nfHFG5qCTW7Ht9) | [Fly to you](https://open.spotify.com/album/6QDDHXF7BcJYC0Lzvxeeje) | 3:40 | 2025-10-21 | 2026-01-15 |
 | [Fly Up](https://open.spotify.com/track/0S24FhekyRbihACHFwgPjs) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [ODYSSEY \- The 1st Album](https://open.spotify.com/album/5LGr4toULbiDoFoSTo0wCw) | 2:58 | 2025-05-19 | 2025-11-25 |
+| [FLY!](https://open.spotify.com/track/55DiPLEo61Kr6gba1XuKlj) | [IDID](https://open.spotify.com/artist/67PXCkgEZryiYFJw691hPn) | [FLY!](https://open.spotify.com/album/38EwYgNHM13ADWojsMBwjW) | 2:36 | 2026-05-26 |  |
 | [For Real?](https://open.spotify.com/track/11yJ2iAqlWsk9CngMujJou) | [TNX](https://open.spotify.com/artist/0DRiXmEOc6dJ6Rug3xi4HZ) | [For Real?](https://open.spotify.com/album/2ZlTmzWp67lhdApzMdmwWV) | 3:10 | 2025-03-25 | 2025-07-02 |
 | [Forever Blue](https://open.spotify.com/track/5Epzmc0vxSjClQORKZnl34) | [crhug](https://open.spotify.com/artist/2YquAy5FoS3m5T1nvCpi3I) | [Forever Blue](https://open.spotify.com/album/002n8cm17f4VQz5Y2LWYVy) | 2:59 | 2024-02-20 | 2024-03-06 |
 | [FORMULA](https://open.spotify.com/track/7z81drJrJ391T2RRwFLNTk) | [ALPHA DRIVE ONE](https://open.spotify.com/artist/1Sal7hVz3weo0mvYZPiWHT) | [FORMULA](https://open.spotify.com/album/47uqilRXlk7qLpre3yubx5) | 3:08 | 2025-12-03 | 2026-01-15 |
@@ -890,7 +891,7 @@
 | [YIN YANG](https://open.spotify.com/track/6Pyq7yHGdS2irt6PMVm1Ml) | [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb), [WOLF HOWL HARMONY from EXILE TRIBE](https://open.spotify.com/artist/0SiKVvyHQlgxrfkCH45DVn) | [YIN YANG](https://open.spotify.com/album/1gwgMM45BC0DLxTwwLm5pW) | 3:09 | 2024-07-09 | 2024-07-31 |
 | [YO MA SUNSHINE](https://open.spotify.com/track/5B70iJSr2BaCm1WJvBo2fS) | [WATWING](https://open.spotify.com/artist/7hkQYkktyo9LEAE5aIwi6e) | [YO MA SUNSHINE](https://open.spotify.com/album/4hBZeFNtTuGX89VFdsHevj) | 3:20 | 2024-02-09 | 2024-02-21 |
 | [YOU LIKE IT I LOVE IT](https://open.spotify.com/track/5H6cLsP1Ju4zghznKsw1zu) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz), [24kGoldn](https://open.spotify.com/artist/15Gkr52k58zVQQSDsEVwOC) | [YOU LIKE IT I LOVE IT](https://open.spotify.com/album/479QUz4xPJ8Tk8tV2KXDb9) | 3:02 | 2026-03-26 | 2026-04-28 |
-| [You, You](https://open.spotify.com/track/2X9RbCpuBRR6ztXn83AK5U) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [TWS 5th Mini Album ‘NO TRAGEDY’](https://open.spotify.com/album/17ICljXQ2I4bsPYpqkf5co) | 2:45 | 2026-04-27 |  |
+| [You, You](https://open.spotify.com/track/2X9RbCpuBRR6ztXn83AK5U) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [NO TRAGEDY](https://open.spotify.com/album/17ICljXQ2I4bsPYpqkf5co) | 2:45 | 2026-04-27 |  |
 | [Young & Reckless](https://open.spotify.com/track/0Lb4nVNM4sGZA7XBOuJEkh) | [ONE OR EIGHT](https://open.spotify.com/artist/5bIttAFRf7URUmuuI9w7XA) | [Young & Reckless](https://open.spotify.com/album/2G9lGOKxiiuGlH5YKENxAT) | 2:27 | 2025-08-28 | 2025-09-19 |
 | [Your Key](https://open.spotify.com/track/6u6hU2ZikSQ8PdPC3yVYbH) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [Your Key](https://open.spotify.com/album/16NmOg7tpLafA7WJb1eAwS) | 3:28 | 2024-01-09 | 2024-06-13 |
 | [Youth](https://open.spotify.com/track/3Rxe1nKv2XDDyDj1F4QMOO) | [aoen](https://open.spotify.com/artist/24TQYvsd9qzVdHU2j1zY5i) | [Youth](https://open.spotify.com/album/2r9og7GiccfnuknYxrO645) | 3:05 | 2026-04-14 |  |

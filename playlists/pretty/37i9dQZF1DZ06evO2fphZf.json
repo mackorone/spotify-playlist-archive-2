@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahORAAAAAAAcIxRJfbM50GQU51CH759j",
+  "snapshot_id": "ahTigAAAAAA89+5LPSADmKktpWUcMUWW",
   "tracks": [
     {
       "added_at": null,
@@ -311,6 +311,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "i hope u see this",
+        "url": "https://open.spotify.com/album/2nYJj90btoAVA4UE0GWz8P"
+      },
+      "artists": [
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "trippin'",
+      "url": "https://open.spotify.com/track/61paqDrRJe8h4c5ypysurz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Two Truths And A Lie",
         "url": "https://open.spotify.com/album/6mB24ENPL4m2E7Q7Li7lFb"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 133440,
       "name": "Two Truths And A Lie",
       "url": "https://open.spotify.com/track/6DzfmaiigxeCnB9qnnIZpW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "i hope u see this",
-        "url": "https://open.spotify.com/album/2nYJj90btoAVA4UE0GWz8P"
-      },
-      "artists": [
-        {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "trippin'",
-      "url": "https://open.spotify.com/track/61paqDrRJe8h4c5ypysurz"
     },
     {
       "added_at": null,
@@ -643,6 +643,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Slide",
+        "url": "https://open.spotify.com/album/5OWku4zuFZbcCLckaunlXc"
+      },
+      "artists": [
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "duration_ms": 221440,
+      "name": "Slide",
+      "url": "https://open.spotify.com/track/1nOfGMBJATb0Cbu1Xpv3ie"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "i hope u see this (deluxe)",
         "url": "https://open.spotify.com/album/0Oe5Gm4E0bJ8shtpMkvo1Y"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 169411,
       "name": "inhibitions (feat. P-Lo)",
       "url": "https://open.spotify.com/track/3uNdcFuXINs0nic38GuXfz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Slide",
-        "url": "https://open.spotify.com/album/5OWku4zuFZbcCLckaunlXc"
-      },
-      "artists": [
-        {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 221440,
-      "name": "Slide",
-      "url": "https://open.spotify.com/track/1nOfGMBJATb0Cbu1Xpv3ie"
     },
     {
       "added_at": null,
@@ -799,22 +799,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "i hope u see this (deluxe)",
-        "url": "https://open.spotify.com/album/0Oe5Gm4E0bJ8shtpMkvo1Y"
-      },
-      "artists": [
-        {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "distance between us",
-      "url": "https://open.spotify.com/track/0U3yx4Wnmtox0XjsvldOeY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Real",
         "url": "https://open.spotify.com/album/0RF8eWrYgf5lqPpbygvRyt"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 176640,
       "name": "Real",
       "url": "https://open.spotify.com/track/1kq5K3SCEQ1rmsaiQRa76E"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "i hope u see this (deluxe)",
+        "url": "https://open.spotify.com/album/0Oe5Gm4E0bJ8shtpMkvo1Y"
+      },
+      "artists": [
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "distance between us",
+      "url": "https://open.spotify.com/track/0U3yx4Wnmtox0XjsvldOeY"
     },
     {
       "added_at": null,

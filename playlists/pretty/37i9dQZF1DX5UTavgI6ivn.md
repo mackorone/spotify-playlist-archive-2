@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5UTavgI6ivn.md) - [plain]
 
 > Made pa’ honrar la voz, la fuerza, el orgullo y la raíz de Totó la Momposina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 946,044 likes - 58 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 946,051 likes - 58 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5UTavgI6ivn.md) - [plain]
 | 57 | [Tus Labios](https://open.spotify.com/track/2TH1PC40oO9mXbLTOUBnJ8) | [Barboza](https://open.spotify.com/artist/0HN3uHZSS2Bosw1cFImLVG), [Jheral](https://open.spotify.com/artist/4zsxko6Co1HikDuBTWcm7E) | [Tus Labios](https://open.spotify.com/album/4WDgotfIeCmw83TOWFDwBa) | 2:44 |
 | 58 | [COMO OREO](https://open.spotify.com/track/7sRXb5IgYWwVv1DaavHSNs) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [COMO OREO](https://open.spotify.com/album/1N253WjALuV1kB61N0GeLd) | 3:15 |
 
-Snapshot ID: `AAAAAIUJ0ZMNbS8HF5ck3eMKBGY36gbT`
+Snapshot ID: `AAAAAE747Nstt8s7otClUKguOwUbpL7u`

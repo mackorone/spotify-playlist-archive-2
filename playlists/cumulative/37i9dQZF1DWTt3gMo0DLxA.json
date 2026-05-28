@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Trending songs from Tollywood! \nCover: Peddi",
+  "description": "Trending songs from Tollywood! \nCover: The Paradise",
   "name": "Trending Now Telugu",
   "tracks": [
     {
@@ -2378,7 +2378,7 @@
       ],
       "date_added": "2025-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-28",
       "duration_ms": 240309,
       "name": "Firestorm (From \"They Call Him OG\")",
       "url": "https://open.spotify.com/track/3lLX2Vm99sMD5kuZqnr2T0"
@@ -2924,6 +2924,32 @@
       "duration_ms": 169716,
       "name": "Habibi Jilebi (From \"Bubblegum\")",
       "url": "https://open.spotify.com/track/5MpQGOpBnJYL8NwbsCgdAQ"
+    },
+    {
+      "album": {
+        "name": "Hellallallo (From \"Peddi\") [TELUGU]",
+        "url": "https://open.spotify.com/album/6mWpQgxrYAxpz5VGN5AQjV"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Rakshita Suresh",
+          "url": "https://open.spotify.com/artist/76Z6SMQPibr8qI24AhdvbJ"
+        },
+        {
+          "name": "Anantha Sreeram",
+          "url": "https://open.spotify.com/artist/73q7QOnwGy6huqoJ9JCRYD"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228048,
+      "name": "Hellallallo (From \"Peddi\") [TELUGU]",
+      "url": "https://open.spotify.com/track/7yfBat6kf9vOPNSWbYyeHp"
     },
     {
       "album": {
@@ -7944,6 +7970,14 @@
         {
           "name": "Unni Menon",
           "url": "https://open.spotify.com/artist/1EYD74wB45dOQXt27hh144"
+        },
+        {
+          "name": "A. M. Ratnam",
+          "url": "https://open.spotify.com/artist/2mXVIDwgEjri9bgfaC5PwF"
+        },
+        {
+          "name": "Sivaganesh",
+          "url": "https://open.spotify.com/artist/3FXrf6pEe7qm2IYn6hjOGy"
         }
       ],
       "date_added": "2026-05-21",

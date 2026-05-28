@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Nuovi brani di Samurai Jay, Tedua, Ultimo, Jovanotti e Alfa, Charli xcx e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 363,123 likes - 95 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 363,137 likes - 95 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 52 | [HOES \(feat\. Sexyy Red\) \[From Scary Movie\]](https://open.spotify.com/track/1IMTFCCPDw0R3JT6jYMimo) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [HOES \(feat\. Sexyy Red\) \[From Scary Movie\]](https://open.spotify.com/album/1fuVofIf79f9kg2CPH3LIt) | 2:09 |
 | 53 | [Versailles Flow](https://open.spotify.com/track/2T1utvioehcgYAtQ6hjPOd) | [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [Sulfur Surfer](https://open.spotify.com/album/0ZegzmzVWw6wVsSeXK3OQE) | 3:37 |
 | 54 | [RAW OR SWEET](https://open.spotify.com/track/6l2FnoZNitUUDnGQSqT4HN) | [Kevin Kalvin](https://open.spotify.com/artist/2AAA2f9pypoLem07n4Rj9n) | [RAW OR SWEET](https://open.spotify.com/album/6LG7tSuqmG5vrTLZ1eu46p) | 2:23 |
-| 55 | [Splinter Cell](https://open.spotify.com/track/3KsGBiWVuybY3Zm7LDKuqK) | [G.Mineiro](https://open.spotify.com/artist/1dlyjeDlgXalzt5oqbgWDs) | [Splinter Cell](https://open.spotify.com/album/6R0HGRmgF4A0wMrwkTh6yr) | 1:57 |
+| 55 | [Splinter Cell](https://open.spotify.com/track/3KsGBiWVuybY3Zm7LDKuqK) | [G.Mineiro](https://open.spotify.com/artist/1dlyjeDlgXalzt5oqbgWDs), [Flatpearl](https://open.spotify.com/artist/2ifTEcQqKSPwijIEcPHQ1R), [Jiz](https://open.spotify.com/artist/38CThoTDmXugNnfonW466d), [Succo](https://open.spotify.com/artist/1l1A1U8VJM15W7zonFqKhg) | [Splinter Cell](https://open.spotify.com/album/6R0HGRmgF4A0wMrwkTh6yr) | 1:57 |
 | 56 | [XXV A.D.](https://open.spotify.com/track/0lrFZ1QDM6hTipkpQZekj0) | [Cricca Dei Balordi](https://open.spotify.com/artist/2ABQVj6lXu0Zf7rxC3vrAN), [Bassi Maestro](https://open.spotify.com/artist/4sQiXz6GYok2zyqMSHG0MX), [Dj Zeta](https://open.spotify.com/artist/0igQlEtSvEt9px4qy91gSU) | [YETI](https://open.spotify.com/album/1nsEhd8MzIahHes7mKyc5V) | 2:22 |
 | 57 | [CORRI CAVALLA](https://open.spotify.com/track/6IkIa3BkBgYnAS43GJVeOM) | [Eva Bloo](https://open.spotify.com/artist/61Um32QN2K3bFQaLu6t6Of) | [CORRI CAVALLA](https://open.spotify.com/album/7MrFES0Ixm7zrn3PUmsWY8) | 1:59 |
 | 58 | [AMORE DI CONTRABBANDO](https://open.spotify.com/track/4EY9va5DiczgY8cdb7OOen) | [Cristiano Malgioglio](https://open.spotify.com/artist/5cGyeP8xbP5ENwYBCUFK19) | [AMORE DI CONTRABBANDO](https://open.spotify.com/album/05HtxqyLZi93jpPClFgr5d) | 3:06 |

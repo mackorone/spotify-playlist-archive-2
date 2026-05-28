@@ -1,6 +1,6 @@
 {
   "description": "A hand-picked selection for an extraordinary palette. Cover: Bleachers",
-  "num_followers": 93680,
+  "num_followers": 93682,
   "original_name": "The Listening Post",
   "owner": {
     "name": "Spotify",
@@ -611,6 +611,22 @@
     {
       "added_at": "2026-04-30 23:01:24",
       "album": {
+        "name": "One of the Greats",
+        "url": "https://open.spotify.com/album/2tJD14Pr3uNltSZJ4Iz4Yi"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 392098,
+      "name": "One of the Greats",
+      "url": "https://open.spotify.com/track/4MMQdCB91BabMdpeFSxhv3"
+    },
+    {
+      "added_at": "2026-04-30 23:01:24",
+      "album": {
         "name": "Melodramatic Fanatic",
         "url": "https://open.spotify.com/album/4WZlY1rMOLJsJJg0goAPq5"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 249166,
       "name": "Melodramatic Fanatic",
       "url": "https://open.spotify.com/track/6kJB0UAaSCnFCJMRc5nVze"
-    },
-    {
-      "added_at": "2026-04-30 23:01:24",
-      "album": {
-        "name": "One of the Greats",
-        "url": "https://open.spotify.com/album/2tJD14Pr3uNltSZJ4Iz4Yi"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 392098,
-      "name": "One of the Greats",
-      "url": "https://open.spotify.com/track/4MMQdCB91BabMdpeFSxhv3"
     },
     {
       "added_at": "2026-04-30 23:01:24",
@@ -855,18 +855,18 @@
     {
       "added_at": "2026-04-30 23:01:24",
       "album": {
-        "name": "Old Man",
-        "url": "https://open.spotify.com/album/7kAoW0zL7wkpCrkMk1lFP5"
+        "name": "Afterlife",
+        "url": "https://open.spotify.com/album/0DnQhNQf6xRTkN1nVC4l1i"
       },
       "artists": [
         {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+          "name": "Alex G",
+          "url": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs"
         }
       ],
-      "duration_ms": 207242,
-      "name": "Old Man",
-      "url": "https://open.spotify.com/track/5KjR1RHch1sHoG7kr5Aazg"
+      "duration_ms": 210301,
+      "name": "Afterlife",
+      "url": "https://open.spotify.com/track/0yYQbFuqvXyZc46e2QEqI7"
     },
     {
       "added_at": "2026-04-30 23:01:24",
@@ -887,18 +887,18 @@
     {
       "added_at": "2026-04-30 23:01:24",
       "album": {
-        "name": "Afterlife",
-        "url": "https://open.spotify.com/album/0DnQhNQf6xRTkN1nVC4l1i"
+        "name": "Old Man",
+        "url": "https://open.spotify.com/album/7kAoW0zL7wkpCrkMk1lFP5"
       },
       "artists": [
         {
-          "name": "Alex G",
-          "url": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs"
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
         }
       ],
-      "duration_ms": 210301,
-      "name": "Afterlife",
-      "url": "https://open.spotify.com/track/0yYQbFuqvXyZc46e2QEqI7"
+      "duration_ms": 207242,
+      "name": "Old Man",
+      "url": "https://open.spotify.com/track/5KjR1RHch1sHoG7kr5Aazg"
     },
     {
       "added_at": "2026-04-30 23:01:24",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2026-04-30 23:01:24",
       "album": {
-        "name": "Little Black Dress",
-        "url": "https://open.spotify.com/album/2wVN511oQyf618kr0sSj9b"
-      },
-      "artists": [
-        {
-          "name": "Francis of Delirium",
-          "url": "https://open.spotify.com/artist/0qrCon6GmV92JY5vNALLif"
-        }
-      ],
-      "duration_ms": 191620,
-      "name": "Little Black Dress",
-      "url": "https://open.spotify.com/track/5lDV7OJxjzx4ln8DPZNLeR"
-    },
-    {
-      "added_at": "2026-04-30 23:01:24",
-      "album": {
         "name": "Maybe Not Tonight",
         "url": "https://open.spotify.com/album/7EO4tVModdOi5Xh3m7uEzC"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 165121,
       "name": "Maybe Not Tonight",
       "url": "https://open.spotify.com/track/7bOyVnYY469Zavjtxcf47f"
+    },
+    {
+      "added_at": "2026-04-30 23:01:24",
+      "album": {
+        "name": "Little Black Dress",
+        "url": "https://open.spotify.com/album/2wVN511oQyf618kr0sSj9b"
+      },
+      "artists": [
+        {
+          "name": "Francis of Delirium",
+          "url": "https://open.spotify.com/artist/0qrCon6GmV92JY5vNALLif"
+        }
+      ],
+      "duration_ms": 191620,
+      "name": "Little Black Dress",
+      "url": "https://open.spotify.com/track/5lDV7OJxjzx4ln8DPZNLeR"
     },
     {
       "added_at": "2026-04-30 23:01:24",
@@ -1255,18 +1255,18 @@
     {
       "added_at": "2026-04-30 23:01:24",
       "album": {
-        "name": "I Like You A Lot",
-        "url": "https://open.spotify.com/album/3bCqum4mnqThYE8diO7AVk"
+        "name": "Just Can't Wait",
+        "url": "https://open.spotify.com/album/5PCF0cVC5RFFW8pgn1HZah"
       },
       "artists": [
         {
-          "name": "Lowertown",
-          "url": "https://open.spotify.com/artist/1yI0RRPnOA9BFJmiZ6cEzw"
+          "name": "Kokoroko",
+          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
         }
       ],
-      "duration_ms": 247773,
-      "name": "I Like You A Lot",
-      "url": "https://open.spotify.com/track/1te3mypyhXzEcyqNEX5fsj"
+      "duration_ms": 382508,
+      "name": "Just Can't Wait",
+      "url": "https://open.spotify.com/track/3aWWdmdsBva7kiOnacL4tf"
     },
     {
       "added_at": "2026-04-30 23:01:24",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2026-04-30 23:01:24",
       "album": {
-        "name": "Just Can't Wait",
-        "url": "https://open.spotify.com/album/5PCF0cVC5RFFW8pgn1HZah"
-      },
-      "artists": [
-        {
-          "name": "Kokoroko",
-          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
-        }
-      ],
-      "duration_ms": 382508,
-      "name": "Just Can't Wait",
-      "url": "https://open.spotify.com/track/3aWWdmdsBva7kiOnacL4tf"
-    },
-    {
-      "added_at": "2026-04-30 23:01:24",
-      "album": {
         "name": "But I'll Keep Trying",
         "url": "https://open.spotify.com/album/3VLwV4o2WGARLpANnoPe57"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 191342,
       "name": "But I'll Keep Trying",
       "url": "https://open.spotify.com/track/5WRTFJtlDo2xjHF8LpEpGo"
+    },
+    {
+      "added_at": "2026-04-30 23:01:24",
+      "album": {
+        "name": "I Like You A Lot",
+        "url": "https://open.spotify.com/album/3bCqum4mnqThYE8diO7AVk"
+      },
+      "artists": [
+        {
+          "name": "Lowertown",
+          "url": "https://open.spotify.com/artist/1yI0RRPnOA9BFJmiZ6cEzw"
+        }
+      ],
+      "duration_ms": 247773,
+      "name": "I Like You A Lot",
+      "url": "https://open.spotify.com/track/1te3mypyhXzEcyqNEX5fsj"
     },
     {
       "added_at": "2026-04-30 23:01:24",
@@ -1431,18 +1431,18 @@
     {
       "added_at": "2026-04-30 23:01:24",
       "album": {
-        "name": "Black James Dean",
-        "url": "https://open.spotify.com/album/3ipPjBzXI1iqWIgF991UK8"
+        "name": "Shells",
+        "url": "https://open.spotify.com/album/0Y3QobZNbtGaLW5TgnbgZL"
       },
       "artists": [
         {
-          "name": "Pigeon",
-          "url": "https://open.spotify.com/artist/2BQ03tTneAqHqm6qWjFKBU"
+          "name": "Westside Cowboy",
+          "url": "https://open.spotify.com/artist/5LfO4rbJarBvHjB34mU9m2"
         }
       ],
-      "duration_ms": 322213,
-      "name": "Black James Dean",
-      "url": "https://open.spotify.com/track/4V6u2JRED2D0936h6NPucc"
+      "duration_ms": 231333,
+      "name": "Shells",
+      "url": "https://open.spotify.com/track/1vtuuLA1GTiqcnmDleBqje"
     },
     {
       "added_at": "2026-04-30 23:01:24",
@@ -1463,18 +1463,22 @@
     {
       "added_at": "2026-04-30 23:01:24",
       "album": {
-        "name": "Shells",
-        "url": "https://open.spotify.com/album/0Y3QobZNbtGaLW5TgnbgZL"
+        "name": "Everybody Laughs",
+        "url": "https://open.spotify.com/album/07UWuNYU2qSx5QMSJsNtkL"
       },
       "artists": [
         {
-          "name": "Westside Cowboy",
-          "url": "https://open.spotify.com/artist/5LfO4rbJarBvHjB34mU9m2"
+          "name": "David Byrne",
+          "url": "https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB"
+        },
+        {
+          "name": "Ghost Train Orchestra",
+          "url": "https://open.spotify.com/artist/5BzKicNaRTRH3S91oDV2Fo"
         }
       ],
-      "duration_ms": 231333,
-      "name": "Shells",
-      "url": "https://open.spotify.com/track/1vtuuLA1GTiqcnmDleBqje"
+      "duration_ms": 228253,
+      "name": "Everybody Laughs",
+      "url": "https://open.spotify.com/track/1gbFItwP8tng1ZeXoqh0eS"
     },
     {
       "added_at": "2026-04-30 23:01:24",
@@ -1515,22 +1519,18 @@
     {
       "added_at": "2026-04-30 23:01:24",
       "album": {
-        "name": "Everybody Laughs",
-        "url": "https://open.spotify.com/album/07UWuNYU2qSx5QMSJsNtkL"
+        "name": "Black James Dean",
+        "url": "https://open.spotify.com/album/3ipPjBzXI1iqWIgF991UK8"
       },
       "artists": [
         {
-          "name": "David Byrne",
-          "url": "https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB"
-        },
-        {
-          "name": "Ghost Train Orchestra",
-          "url": "https://open.spotify.com/artist/5BzKicNaRTRH3S91oDV2Fo"
+          "name": "Pigeon",
+          "url": "https://open.spotify.com/artist/2BQ03tTneAqHqm6qWjFKBU"
         }
       ],
-      "duration_ms": 228253,
-      "name": "Everybody Laughs",
-      "url": "https://open.spotify.com/track/1gbFItwP8tng1ZeXoqh0eS"
+      "duration_ms": 322213,
+      "name": "Black James Dean",
+      "url": "https://open.spotify.com/track/4V6u2JRED2D0936h6NPucc"
     },
     {
       "added_at": "2026-04-30 23:01:24",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2026-04-30 23:01:24",
       "album": {
-        "name": "Far Away",
-        "url": "https://open.spotify.com/album/68uNKLGz6gfR1efpp027ep"
-      },
-      "artists": [
-        {
-          "name": "Labi Siffre",
-          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
-        }
-      ],
-      "duration_ms": 219310,
-      "name": "Far Away",
-      "url": "https://open.spotify.com/track/0r66U3zD7beNhmsuvcmyw2"
-    },
-    {
-      "added_at": "2026-04-30 23:01:24",
-      "album": {
         "name": "drains",
         "url": "https://open.spotify.com/album/29Zc1IOVFcFA3uBq0ykR4Q"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 228999,
       "name": "drains",
       "url": "https://open.spotify.com/track/73kYiEtR4NgVdIyQF3pYsK"
+    },
+    {
+      "added_at": "2026-04-30 23:01:24",
+      "album": {
+        "name": "Far Away",
+        "url": "https://open.spotify.com/album/68uNKLGz6gfR1efpp027ep"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "duration_ms": 219310,
+      "name": "Far Away",
+      "url": "https://open.spotify.com/track/0r66U3zD7beNhmsuvcmyw2"
     },
     {
       "added_at": "2026-04-30 23:01:24",
@@ -1667,18 +1667,18 @@
     {
       "added_at": "2026-04-30 23:01:24",
       "album": {
-        "name": "Gasoline",
-        "url": "https://open.spotify.com/album/3m2onmu3VRD4PBZKmBLLen"
+        "name": "Tomorrow is Perfect",
+        "url": "https://open.spotify.com/album/7gVnv19lJakKUMCTYZ7BXq"
       },
       "artists": [
         {
-          "name": "Buck Meek",
-          "url": "https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR"
+          "name": "mark william lewis",
+          "url": "https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k"
         }
       ],
-      "duration_ms": 203167,
-      "name": "Gasoline",
-      "url": "https://open.spotify.com/track/1sAbFyl5tkdQyMBPNRjjVl"
+      "duration_ms": 381560,
+      "name": "Tomorrow is Perfect",
+      "url": "https://open.spotify.com/track/3LY1CZhWdfHezDSmZSLfrC"
     }
   ],
   "unique_name": "The Listening Post",

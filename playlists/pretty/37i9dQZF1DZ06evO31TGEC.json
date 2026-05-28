@@ -1,12 +1,12 @@
 {
   "description": "This is El Chapo De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 55230,
+  "num_followers": 55248,
   "original_name": "This Is El Chapo De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahORAAAAAADzcJQHv+jBftM2oHZ5OViX",
+  "snapshot_id": "ahTigAAAAAD6xuQCgjcAGDth12kFVT9h",
   "tracks": [
     {
       "added_at": null,
@@ -727,6 +727,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Me Derrito",
+        "url": "https://open.spotify.com/album/5052x1jXmFYTo0osSMcwxh"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "duration_ms": 179200,
+      "name": "Me Derrito",
+      "url": "https://open.spotify.com/track/1JmUlAs1cphQKPgh2hL61s"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Le Hace Falta Un Beso",
         "url": "https://open.spotify.com/album/2XlX0h0yr51DxxAuGA5Nld"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 147051,
       "name": "Esa Fue Mi Novia",
       "url": "https://open.spotify.com/track/7F8UOpgxbJKTMvh3RbjKDZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Me Derrito",
-        "url": "https://open.spotify.com/album/5052x1jXmFYTo0osSMcwxh"
-      },
-      "artists": [
-        {
-          "name": "El Chapo De Sinaloa",
-          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
-        }
-      ],
-      "duration_ms": 179200,
-      "name": "Me Derrito",
-      "url": "https://open.spotify.com/track/1JmUlAs1cphQKPgh2hL61s"
     },
     {
       "added_at": null,

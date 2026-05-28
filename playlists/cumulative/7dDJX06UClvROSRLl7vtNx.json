@@ -1705,6 +1705,36 @@
     },
     {
       "album": {
+        "name": "AWGAZI",
+        "url": "https://open.spotify.com/album/2XnPcqCzOHu9No3gR8t2TS"
+      },
+      "artists": [
+        {
+          "name": "Lucas Estrada",
+          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
+        },
+        {
+          "name": "Palm Monkey",
+          "url": "https://open.spotify.com/artist/2M3sfEXSEDYBurdjeExx6G"
+        },
+        {
+          "name": "RUSSI",
+          "url": "https://open.spotify.com/artist/4fbgLD2fbdRhL5bwUwPj4U"
+        },
+        {
+          "name": "DALEXO",
+          "url": "https://open.spotify.com/artist/5s4QJTzJRjMrqBDzPiif9l"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150491,
+      "name": "AWGAZI (Sunset Remix)",
+      "url": "https://open.spotify.com/track/4AgxONQTltUnOfMJuiLQDk"
+    },
+    {
+      "album": {
         "name": "Azizam",
         "url": "https://open.spotify.com/album/0dCOv6UquuE3j5zmOXU1pe"
       },
@@ -5346,6 +5376,28 @@
       "duration_ms": 144820,
       "name": "Deja Vu",
       "url": "https://open.spotify.com/track/7cj6BSq8vaz3w9YL3kV44X"
+    },
+    {
+      "album": {
+        "name": "Devil In The Sun",
+        "url": "https://open.spotify.com/album/2oqtQQDYEsNPOcIiN7kd4m"
+      },
+      "artists": [
+        {
+          "name": "Lucas Estrada",
+          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
+        },
+        {
+          "name": "RUSSI",
+          "url": "https://open.spotify.com/artist/4fbgLD2fbdRhL5bwUwPj4U"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146557,
+      "name": "Devil In The Sun",
+      "url": "https://open.spotify.com/track/5kRsht2xR6ZUu4ejJxrHih"
     },
     {
       "album": {

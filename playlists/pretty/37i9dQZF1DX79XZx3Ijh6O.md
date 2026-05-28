@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79XZx3Ijh6O.md) - [plain]
 
 > Найліпша музика від українських артистів\-початківців\. Обкладинка: NEYROBIKA
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,745 likes - 55 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,778 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,26 +42,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79XZx3Ijh6O.md) - [plain]
 | 32 | [Дівчина з півдня області](https://open.spotify.com/track/34Qg9IyVopthRu6FV0AGEr) | [Монтеск'є](https://open.spotify.com/artist/2HJh8v2atfiAjRk76wSJNa) | [Дівчина з півдня області](https://open.spotify.com/album/299doAVNFHHk6mGzENmivN) | 4:25 |
 | 33 | [кров'ю](https://open.spotify.com/track/5pG7NAGzOMwvQMVDVBfUQ1) | [mercurikill](https://open.spotify.com/artist/2TlE3Qe38b9xHDrjTkO2Kl) | [кров'ю](https://open.spotify.com/album/1bQnpyyyN8NmlEHDcDgBfc) | 2:40 |
 | 34 | [dry lips](https://open.spotify.com/track/5M2LxLNpUNF5JA0S8F2z9S) | [Entely](https://open.spotify.com/artist/5cFCsmewxHM5wQb55vhqTS) | [dry lips](https://open.spotify.com/album/3mJFztL1Z4ndduZS7OgUhX) | 1:12 |
-| 35 | [залізна рука міста](https://open.spotify.com/track/5CMRtMk5VoKvudcBvsygFd) | [сузір'я скейтів](https://open.spotify.com/artist/13aDtjmc23bEB9h8p65fDC) | [залізна рука міста](https://open.spotify.com/album/41GtBQOWGx2Bo7mKwOd8Ik) | 3:25 |
-| 36 | [інструкція](https://open.spotify.com/track/59H9Bzn4evDYORTwzppV8h) | [headachee](https://open.spotify.com/artist/7FLnr6jif4euepPlgGtaJZ) | [інструкція](https://open.spotify.com/album/7aH2OY0rYsBZA5jQCLnseU) | 2:15 |
-| 37 | [За який тебе ловити хвіст?](https://open.spotify.com/track/2MY21UDHK72kQUnkCmiZFk) | [Lipatova](https://open.spotify.com/artist/39to4XWrZqgxJSP3ScNXdW) | [За який тебе ловити хвіст?](https://open.spotify.com/album/6uA1H22YlwANNzVSCH3nqp) | 3:55 |
-| 38 | [Серце хоче радикальних змін](https://open.spotify.com/track/2Z0EXQaFZJHbdyPVSojihW) | [Я Тоня](https://open.spotify.com/artist/5XTKx5IOWJHQcAll31CY5a) | [Серце хоче радикальних змін](https://open.spotify.com/album/0D73riWKJy6XctVReIkC4D) | 3:35 |
-| 39 | [Дивлюсь на інших](https://open.spotify.com/track/5DpXzbMrEnVPAURrnOIxCm) | [bulovinova](https://open.spotify.com/artist/3hGfs6Hess99rJjiCjpd3P) | [Дивлюсь на інших](https://open.spotify.com/album/2RUAWpTrs27a3gTwZpzL0p) | 2:51 |
-| 40 | [Мустанг](https://open.spotify.com/track/3jtAknEW7Z4xzpacfRIZbN) | [HLIBOROB](https://open.spotify.com/artist/00HxF49G1Lkku0sJoxQW5k) | [Мустанг](https://open.spotify.com/album/4ALfGX7fLQfuFwxHci7m3n) | 4:11 |
-| 41 | [Справжній](https://open.spotify.com/track/6SnpzhX3pzpz2ZnWY4Te7I) | [ngvoi24](https://open.spotify.com/artist/1lHfRv6FJcV6csjr0h6leR) | [Справжній](https://open.spotify.com/album/2Os7CgCYaE3k6gk1ENBKE2) | 1:52 |
-| 42 | [відчуття, що це щось прекрасне](https://open.spotify.com/track/14GDLuggfxzXzFUVEKc2ub) | [DENOMA](https://open.spotify.com/artist/1CIgr3yWzcyRxtmhuzaqSd) | [відчуття, що це щось прекрасне](https://open.spotify.com/album/2TMOC1BjJWDuulib8MW6DI) | 3:15 |
-| 43 | [Скажи мені](https://open.spotify.com/track/6tMqLeK8WHbX375aYWcc22) | [Liyaa](https://open.spotify.com/artist/1UpeyGVGl95sbWnYe0ts1d) | [Скажи мені](https://open.spotify.com/album/03TzlDGGw8DPsXmYnTCFTx) | 3:11 |
-| 44 | [Не мій](https://open.spotify.com/track/5KSHcFWth6em1JQ5BU5foN) | [Анна Рєзнік](https://open.spotify.com/artist/635D49qTMTn1ifM8KUHpge) | [Не мій](https://open.spotify.com/album/1cBSlq48EhIFjdSX7tnxej) | 3:06 |
-| 45 | [НРО](https://open.spotify.com/track/4ENFTeyxnH3F2QK5d6Gy3C) | [Блекфіш](https://open.spotify.com/artist/1VHJFHPhojU6jseMUCyLLN) | [НРО](https://open.spotify.com/album/0Yu36HZr2WX0dNhZ9ETH9p) | 2:58 |
-| 46 | [Чайка на крижині](https://open.spotify.com/track/1hBkzxoHLaYi3d6PIzM1bh) | [POPIL](https://open.spotify.com/artist/24aU0N7zrhEXFJkl48F1he) | [Чайка на крижині](https://open.spotify.com/album/47CGLQjDoQQzecVUxpmMKP) | 2:46 |
-| 47 | [Тримайся за себе](https://open.spotify.com/track/2HO3UcwA6p2MVldznX4fZM) | [Banduragirl](https://open.spotify.com/artist/0EecZ3ExZ0JL9Uu8o4deKO) | [Тримайся за себе](https://open.spotify.com/album/1r9NsxGgM2KLqffkznMH72) | 3:28 |
-| 48 | [неапольські вогні](https://open.spotify.com/track/4fnB7LiybK8ncjQ6168tAx) | [morgendie](https://open.spotify.com/artist/3Qr9KtjDCIe6L5ByQB6Hnj) | [неапольські вогні](https://open.spotify.com/album/3qsSp3r4fMnTDYbyvPvlw8) | 2:42 |
-| 49 | [Оз](https://open.spotify.com/track/1lsrmjnsHkU8AeeSmDJqTc) | [Deli Kate](https://open.spotify.com/artist/2oQFZBMRYwnNeuv3hES9eb) | [Оз](https://open.spotify.com/album/3VxJPIEvnY8noAbA2SEulm) | 2:22 |
-| 50 | [Пак Айно! Я Із Закарпаття!](https://open.spotify.com/track/0HrGHY1bmNejPL4L2uoeFI) | [Nia Barbia](https://open.spotify.com/artist/5z5xUzydGaWpQvkxZ6mKIy) | [Пак Айно! Я Із Закарпаття!](https://open.spotify.com/album/1xHdxei9EAMx4cyjqzZsWS) | 2:01 |
-| 51 | [Пробач мені](https://open.spotify.com/track/1Nvc1aAb7jHBFeQTcYrDVC) | [Ти не проти](https://open.spotify.com/artist/5B1fu3qRVVTqhERkQQxfVK) | [Пробач мені](https://open.spotify.com/album/1d7TWLJu2OVEzudqP9hWSZ) | 3:36 |
-| 52 | [Тіні на Бетоні](https://open.spotify.com/track/5S5lyoArtsY31UWcyttMxh) | [nuclearfreezone](https://open.spotify.com/artist/5vNFHav51CSlGZ66Ow8Uwy) | [Тіні на Бетоні](https://open.spotify.com/album/62JxJexfO2OLNWjxWAEjWB) | 5:27 |
-| 53 | [Вір мені](https://open.spotify.com/track/6vn6hOqDzk8iu2J5eURSjt) | [Робаний Йот](https://open.spotify.com/artist/7zv8J9YiVktDSqyZXr6dEa) | [Вір мені](https://open.spotify.com/album/6WbRXikD30e4ChoE5U8JCL) | 3:20 |
-| 54 | [Відчуваю](https://open.spotify.com/track/1s4ONuh5PSJhgLrUDu1XHS) | [Абіє](https://open.spotify.com/artist/4tVD9eoxsVNfLAP2PhaFpN) | [Відчуваю](https://open.spotify.com/album/7HdtZGc29sl7zEipIvis5a) | 2:30 |
-| 55 | [Не хочу](https://open.spotify.com/track/7jCrBXeDNL0CwS4A6LkEXi) | [Lefor](https://open.spotify.com/artist/6hzblzXPu0wV7T1L8io0o5) | [Не хочу](https://open.spotify.com/album/7FtogN7ic2iyJr0T3EqMc9) | 2:14 |
+| 35 | [інструкція](https://open.spotify.com/track/59H9Bzn4evDYORTwzppV8h) | [headachee](https://open.spotify.com/artist/7FLnr6jif4euepPlgGtaJZ) | [інструкція](https://open.spotify.com/album/7aH2OY0rYsBZA5jQCLnseU) | 2:15 |
+| 36 | [За який тебе ловити хвіст?](https://open.spotify.com/track/2MY21UDHK72kQUnkCmiZFk) | [Lipatova](https://open.spotify.com/artist/39to4XWrZqgxJSP3ScNXdW) | [За який тебе ловити хвіст?](https://open.spotify.com/album/6uA1H22YlwANNzVSCH3nqp) | 3:55 |
+| 37 | [Серце хоче радикальних змін](https://open.spotify.com/track/2Z0EXQaFZJHbdyPVSojihW) | [Я Тоня](https://open.spotify.com/artist/5XTKx5IOWJHQcAll31CY5a) | [Серце хоче радикальних змін](https://open.spotify.com/album/0D73riWKJy6XctVReIkC4D) | 3:35 |
+| 38 | [Дивлюсь на інших](https://open.spotify.com/track/5DpXzbMrEnVPAURrnOIxCm) | [bulovinova](https://open.spotify.com/artist/3hGfs6Hess99rJjiCjpd3P) | [Дивлюсь на інших](https://open.spotify.com/album/2RUAWpTrs27a3gTwZpzL0p) | 2:51 |
+| 39 | [Мустанг](https://open.spotify.com/track/3jtAknEW7Z4xzpacfRIZbN) | [HLIBOROB](https://open.spotify.com/artist/00HxF49G1Lkku0sJoxQW5k) | [Мустанг](https://open.spotify.com/album/4ALfGX7fLQfuFwxHci7m3n) | 4:11 |
+| 40 | [відчуття, що це щось прекрасне](https://open.spotify.com/track/14GDLuggfxzXzFUVEKc2ub) | [DENOMA](https://open.spotify.com/artist/1CIgr3yWzcyRxtmhuzaqSd) | [відчуття, що це щось прекрасне](https://open.spotify.com/album/2TMOC1BjJWDuulib8MW6DI) | 3:15 |
+| 41 | [Скажи мені](https://open.spotify.com/track/6tMqLeK8WHbX375aYWcc22) | [Liyaa](https://open.spotify.com/artist/1UpeyGVGl95sbWnYe0ts1d) | [Скажи мені](https://open.spotify.com/album/03TzlDGGw8DPsXmYnTCFTx) | 3:11 |
+| 42 | [Не мій](https://open.spotify.com/track/5KSHcFWth6em1JQ5BU5foN) | [Анна Рєзнік](https://open.spotify.com/artist/635D49qTMTn1ifM8KUHpge) | [Не мій](https://open.spotify.com/album/1cBSlq48EhIFjdSX7tnxej) | 3:06 |
+| 43 | [НРО](https://open.spotify.com/track/4ENFTeyxnH3F2QK5d6Gy3C) | [Блекфіш](https://open.spotify.com/artist/1VHJFHPhojU6jseMUCyLLN) | [НРО](https://open.spotify.com/album/0Yu36HZr2WX0dNhZ9ETH9p) | 2:58 |
+| 44 | [Чайка на крижині](https://open.spotify.com/track/1hBkzxoHLaYi3d6PIzM1bh) | [POPIL](https://open.spotify.com/artist/24aU0N7zrhEXFJkl48F1he) | [Чайка на крижині](https://open.spotify.com/album/47CGLQjDoQQzecVUxpmMKP) | 2:46 |
+| 45 | [Тримайся за себе](https://open.spotify.com/track/2HO3UcwA6p2MVldznX4fZM) | [Banduragirl](https://open.spotify.com/artist/0EecZ3ExZ0JL9Uu8o4deKO) | [Тримайся за себе](https://open.spotify.com/album/1r9NsxGgM2KLqffkznMH72) | 3:28 |
+| 46 | [неапольські вогні](https://open.spotify.com/track/4fnB7LiybK8ncjQ6168tAx) | [morgendie](https://open.spotify.com/artist/3Qr9KtjDCIe6L5ByQB6Hnj) | [неапольські вогні](https://open.spotify.com/album/3qsSp3r4fMnTDYbyvPvlw8) | 2:42 |
+| 47 | [Оз](https://open.spotify.com/track/1lsrmjnsHkU8AeeSmDJqTc) | [Deli Kate](https://open.spotify.com/artist/2oQFZBMRYwnNeuv3hES9eb) | [Оз](https://open.spotify.com/album/3VxJPIEvnY8noAbA2SEulm) | 2:22 |
+| 48 | [Пак Айно! Я Із Закарпаття!](https://open.spotify.com/track/0HrGHY1bmNejPL4L2uoeFI) | [Nia Barbia](https://open.spotify.com/artist/5z5xUzydGaWpQvkxZ6mKIy) | [Пак Айно! Я Із Закарпаття!](https://open.spotify.com/album/1xHdxei9EAMx4cyjqzZsWS) | 2:01 |
+| 49 | [Тіні на Бетоні](https://open.spotify.com/track/5S5lyoArtsY31UWcyttMxh) | [nuclearfreezone](https://open.spotify.com/artist/5vNFHav51CSlGZ66Ow8Uwy) | [Тіні на Бетоні](https://open.spotify.com/album/62JxJexfO2OLNWjxWAEjWB) | 5:27 |
+| 50 | [Відчуваю](https://open.spotify.com/track/1s4ONuh5PSJhgLrUDu1XHS) | [Абіє](https://open.spotify.com/artist/4tVD9eoxsVNfLAP2PhaFpN) | [Відчуваю](https://open.spotify.com/album/7HdtZGc29sl7zEipIvis5a) | 2:30 |
 
-Snapshot ID: `AAAAALApQrdK2sGPdG8vW/TCasklbU65`
+Snapshot ID: `AAAAAEiFhpeVqXvsGiEUY6izFbfxdAb6`

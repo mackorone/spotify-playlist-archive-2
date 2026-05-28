@@ -2865,6 +2865,28 @@
     },
     {
       "album": {
+        "name": "Flavour",
+        "url": "https://open.spotify.com/album/4DyhMQVt6szbaAhPALqQuS"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Still Val",
+          "url": "https://open.spotify.com/artist/3tj0d2eJ9fDFZKgX4A5O6o"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142663,
+      "name": "Flavour",
+      "url": "https://open.spotify.com/track/7bwgaNWKxWt1lBwrZ37gJ7"
+    },
+    {
+      "album": {
         "name": "Wish You Were Here Volume One",
         "url": "https://open.spotify.com/album/5UwWNI8XKFoTcRT7BKRy5y"
       },

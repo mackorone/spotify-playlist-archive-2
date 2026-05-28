@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/79M2N87L8igKvfAOgqndLY">Carter Lang</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-212 songs - 11 hr 37 min
+214 songs - 11 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Archetype](https://open.spotify.com/track/5Cyy8UMG6ch51oXYenPGzN) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory \(Marfil\)](https://open.spotify.com/album/3ZexesAv5PN4RPMiEkOEXC) | 2:48 | 2025-10-03 |  |
 | [Arya](https://open.spotify.com/track/0BPLYT25SArsp2bswOHKjo) | [Nigo](https://open.spotify.com/artist/2rAnv6brcXaglLZBB4XXEn), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Arya](https://open.spotify.com/album/5DaFJffWkaDaDQbKJ1Zydi) | 2:42 | 2025-10-03 |  |
 | [BABIECA!](https://open.spotify.com/track/45VlOHY7pEd6IC3plYeKZ3) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Spanish Leather](https://open.spotify.com/album/1inJBfnZWe33KcXl6TNaXV) | 2:46 | 2025-12-17 |  |
+| [BACK 2 LOVE](https://open.spotify.com/track/0ul0bjXRaO5YxLuSnHX1Qe) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [BEFORE I FORGET \(DELUXE\)](https://open.spotify.com/album/6CACyqngQWTOAM1UpAtco3) | 3:35 | 2026-05-27 |  |
 | [BAD HONEY](https://open.spotify.com/track/2Rv2EIpEmEi5fGVtr5KVgI) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG II](https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS) | 2:36 | 2025-10-03 |  |
 | [Bad Life \(feat\. Kali Uchis\)](https://open.spotify.com/track/0K02o2ZV5UCJbbCw67FtaY) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:17 | 2026-05-13 |  |
 | [Bad News](https://open.spotify.com/track/2KsapxudOhJ8IFB5PcETp7) | [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [Superghetto](https://open.spotify.com/album/5pwzhZiiGhHgQOUJKbzYuI) | 2:58 | 2025-10-03 |  |
@@ -186,6 +187,7 @@
 | [Symphony](https://open.spotify.com/track/0DmnKmJpwUnHZHStMyJZkN) | [Towkio](https://open.spotify.com/artist/23sYU61n9f1CzYi8NJhAXS), [Teddy Jackson](https://open.spotify.com/artist/77kaHO7hihRt7OyrspYSdd) | [WWW.](https://open.spotify.com/album/3kzNF51mp30QXF3yck4nwL) | 3:37 | 2025-10-03 |  |
 | [Talk](https://open.spotify.com/track/3wXft3pfqMptVjxzEDi8be) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 2:37 | 2025-10-03 |  |
 | [The Mountain \- intro](https://open.spotify.com/track/29vqEyGLMingG3hPFMXEuC) | [Joviale](https://open.spotify.com/artist/2U1y15TfmMGMDCV7S2mbQ7) | [Mount Crystal](https://open.spotify.com/album/5qiZBMIgAH1lqylwi0FC8h) | 2:36 | 2026-01-17 |  |
+| [THERAPY SESSION](https://open.spotify.com/track/7tZlvvEpX3FEFoYsOI55FB) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Druski](https://open.spotify.com/artist/4QXUDhKn7oIyfnaNEBkrkY) | [SWAG](https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ) | 1:18 | 2026-05-27 |  |
 | [There's Alot Going On](https://open.spotify.com/track/5XSQ9gBCM5iableEqmzUIC) | [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG) | [There's Alot Going On](https://open.spotify.com/album/5ebtbHmQ7WZpgKtH8ir14W) | 5:51 | 2025-10-03 |  |
 | [Thin White Lies](https://open.spotify.com/track/4t4OlapTFToGpFKOldh5S2) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [CALM](https://open.spotify.com/album/46K4raQPIGem3N031upNj9) | 3:02 | 2025-10-03 |  |
 | [THINGS YOU DO](https://open.spotify.com/track/1j8TmNa6vaFAEAws43kP0Q) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG](https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ) | 1:48 | 2025-10-03 |  |

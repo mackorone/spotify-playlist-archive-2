@@ -1,6 +1,6 @@
 {
   "description": "SPINGERE",
-  "num_followers": 114979,
+  "num_followers": 114989,
   "original_name": "Club Rap ",
   "owner": {
     "name": "Spotify",
@@ -339,6 +339,26 @@
     {
       "added_at": "2026-05-21 23:01:21",
       "album": {
+        "name": "RYAN TED",
+        "url": "https://open.spotify.com/album/2U9mwmcJrUmkIpJm9gq8n7"
+      },
+      "artists": [
+        {
+          "name": "Tedua",
+          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
+        },
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+        }
+      ],
+      "duration_ms": 124464,
+      "name": "Felpa Nera (feat. ANNA)",
+      "url": "https://open.spotify.com/track/168t3ud7jZIslO0P5ZDKnj"
+    },
+    {
+      "added_at": "2026-05-21 23:01:21",
+      "album": {
         "name": "Quarto di Bue",
         "url": "https://open.spotify.com/album/7LAZxfodTzgKt3qwGqgCMf"
       },
@@ -359,26 +379,6 @@
       "duration_ms": 144992,
       "name": "Porto il Commerciale (feat. Artie 5ive)",
       "url": "https://open.spotify.com/track/6MQYhSIrh9vwztmM6mwkzQ"
-    },
-    {
-      "added_at": "2026-05-21 23:01:21",
-      "album": {
-        "name": "VERA BADDIE",
-        "url": "https://open.spotify.com/album/4KakTQXezMez5owYFuGAF2"
-      },
-      "artists": [
-        {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
-        },
-        {
-          "name": "Artie 5ive",
-          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
-        }
-      ],
-      "duration_ms": 191999,
-      "name": "I LOVE IT (feat. Artie 5ive)",
-      "url": "https://open.spotify.com/track/4ZRVI6xwgbjgW5SgJB468n"
     },
     {
       "added_at": "2026-05-21 23:01:21",
@@ -423,6 +423,26 @@
     {
       "added_at": "2026-05-21 23:01:21",
       "album": {
+        "name": "VERA BADDIE",
+        "url": "https://open.spotify.com/album/4KakTQXezMez5owYFuGAF2"
+      },
+      "artists": [
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+        },
+        {
+          "name": "Artie 5ive",
+          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+        }
+      ],
+      "duration_ms": 191999,
+      "name": "I LOVE IT (feat. Artie 5ive)",
+      "url": "https://open.spotify.com/track/4ZRVI6xwgbjgW5SgJB468n"
+    },
+    {
+      "added_at": "2026-05-21 23:01:21",
+      "album": {
         "name": "Warzone (feat. Artie 5ive, Capo Plaza & Nerissima Serpe)",
         "url": "https://open.spotify.com/album/3AXrg1yOKAwMlUbRDRfQbu"
       },
@@ -447,26 +467,6 @@
       "duration_ms": 146526,
       "name": "Warzone (feat. Artie 5ive, Capo Plaza & Nerissima Serpe)",
       "url": "https://open.spotify.com/track/6iFfFjKnr615pD7aL5Z2Cx"
-    },
-    {
-      "added_at": "2026-05-21 23:01:21",
-      "album": {
-        "name": "RYAN TED",
-        "url": "https://open.spotify.com/album/2U9mwmcJrUmkIpJm9gq8n7"
-      },
-      "artists": [
-        {
-          "name": "Tedua",
-          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
-        },
-        {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
-        }
-      ],
-      "duration_ms": 124464,
-      "name": "Felpa Nera (feat. ANNA)",
-      "url": "https://open.spotify.com/track/168t3ud7jZIslO0P5ZDKnj"
     },
     {
       "added_at": "2026-05-21 23:01:21",
@@ -671,6 +671,22 @@
     {
       "added_at": "2026-05-21 23:01:21",
       "album": {
+        "name": "Bossoli",
+        "url": "https://open.spotify.com/album/6DkNp8K9LeYR2xryLdW7Sq"
+      },
+      "artists": [
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        }
+      ],
+      "duration_ms": 178758,
+      "name": "Bossoli",
+      "url": "https://open.spotify.com/track/5mn8bU8IjYqr8ZqTDmLtSO"
+    },
+    {
+      "added_at": "2026-05-21 23:01:21",
+      "album": {
         "name": "BIANCA (feat. Kid Yugi)",
         "url": "https://open.spotify.com/album/2IE8pMvL0GmykYaNLOP8S0"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 160282,
       "name": "BIANCA (feat. Kid Yugi)",
       "url": "https://open.spotify.com/track/420QMNPnHsbAqkkxBt2ifJ"
-    },
-    {
-      "added_at": "2026-05-21 23:01:21",
-      "album": {
-        "name": "Bossoli",
-        "url": "https://open.spotify.com/album/6DkNp8K9LeYR2xryLdW7Sq"
-      },
-      "artists": [
-        {
-          "name": "Shiva",
-          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
-        }
-      ],
-      "duration_ms": 178758,
-      "name": "Bossoli",
-      "url": "https://open.spotify.com/track/5mn8bU8IjYqr8ZqTDmLtSO"
     },
     {
       "added_at": "2026-05-21 23:01:21",

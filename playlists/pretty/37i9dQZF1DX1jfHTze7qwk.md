@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jfHTze7qwk.md) - [plain]
 
 > ฟังและดูเอ็มวีเพลงไทยจากทุกช่วงเวลา ดูเอ็มวีได้สำหรับผู้ใช้งานแบบพรีเมี่ยม\. ศิลปิน: Polycat
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,919 likes - 50 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,929 likes - 50 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,25 +14,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jfHTze7qwk.md) - [plain]
 | 4 | [จันทร์เจ้า \(Goodbye\)](https://open.spotify.com/track/5J3arLZL7OgQ4yvLDfatxW) | [Slot Machine](https://open.spotify.com/artist/6TNTFjkJA8PhP16Ds7CZnz) | [Cell](https://open.spotify.com/album/2kldPQZzNeNjRyK8tt9Qne) | 4:10 |
 | 5 | [ตั้งแต่มีเธอฉันมีความสุข \(This Time\)](https://open.spotify.com/track/4rmspWmdoJIjw6Rm3cEvGm) | [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [Your Girl](https://open.spotify.com/album/0CmKGlxb5Te6ENFWPjwUtN) | 3:59 |
 | 6 | [โลกคู่ขนาน](https://open.spotify.com/track/3A1tAv6J87HqjFhUZ3LHNi) | [D Gerrard](https://open.spotify.com/artist/1k7MP2tMC43vM0b0wg8HHg) | [โลกคู่ขนาน](https://open.spotify.com/album/1ax89fjEDQYz5ukVXpjCFk) | 4:40 |
-| 7 | [ใกล้](https://open.spotify.com/track/4r3UvwePMdXPJrqFautgTq) | [SCRUBB](https://open.spotify.com/artist/3zSMaWnvUzyNlOW0Tj2s4N) | [Club](https://open.spotify.com/album/3FIStO0Jqw4wX6aXbvDd6L) | 4:17 |
+| 7 | [เธอไม่อาจเอารักไปจากหัวใจ](https://open.spotify.com/track/2osoiXSQrConE7kKdIlxin) | [Tattoo Colour](https://open.spotify.com/artist/5pxvW2nJ0a77b9oX24Unwi) | [ตรงแนวๆ](https://open.spotify.com/album/39oCGotLzMIqGf8gLuUrwg) | 4:15 |
 | 8 | [ดูดี](https://open.spotify.com/track/7oTnTfFLo4t1xbPb009oBI) | [Polycat](https://open.spotify.com/artist/1ssEwBiz4ZKrbgR6o8vOeg) | [Pillow War](https://open.spotify.com/album/6sYl8jS1YLFwKoYCxvsgmP) | 4:00 |
 | 9 | [ผ่าน](https://open.spotify.com/track/7BIfruOxdmV47pZ8beTNqS) | [Slot Machine](https://open.spotify.com/artist/6TNTFjkJA8PhP16Ds7CZnz) | [Mutation](https://open.spotify.com/album/4T035mSyykuyKHF1l0SEdz) | 4:01 |
-| 10 | [เธอไม่อาจเอารักไปจากหัวใจ](https://open.spotify.com/track/2osoiXSQrConE7kKdIlxin) | [Tattoo Colour](https://open.spotify.com/artist/5pxvW2nJ0a77b9oX24Unwi) | [ตรงแนวๆ](https://open.spotify.com/album/39oCGotLzMIqGf8gLuUrwg) | 4:15 |
+| 10 | [ใกล้](https://open.spotify.com/track/4r3UvwePMdXPJrqFautgTq) | [SCRUBB](https://open.spotify.com/artist/3zSMaWnvUzyNlOW0Tj2s4N) | [Club](https://open.spotify.com/album/3FIStO0Jqw4wX6aXbvDd6L) | 4:17 |
 | 11 | [นักวิทยาศาสตร์](https://open.spotify.com/track/3cZP6wSDNl9i2PgrXo4Zk5) | [D Gerrard](https://open.spotify.com/artist/1k7MP2tMC43vM0b0wg8HHg) | [นักวิทยาศาสตร์](https://open.spotify.com/album/6TEWpUfEA5MsTJK2xhyqFn) | 3:31 |
-| 12 | [คนไกล](https://open.spotify.com/track/63VOJDNJ3a5dve74kzWVcF) | [Patrickananda](https://open.spotify.com/artist/4gjXKx2a7GaIYwSDCBveJx) | [คนไกล](https://open.spotify.com/album/1Xe1DZBK5eVnfAhtK4RBbO) | 3:32 |
-| 13 | [ฤดูที่ฉันเหงา](https://open.spotify.com/track/0JAkZ44a75QTFXXsB2c7Ol) | [Flure](https://open.spotify.com/artist/3Y1IqMgKZTXjsMyWOuxPPj) | [Vanilla](https://open.spotify.com/album/3LzffCii1IuPCPN50ZqNNu) | 4:22 |
-| 14 | [คู่กัน \(Soulmate\)](https://open.spotify.com/track/2SewBThepvNfjZ6fyBhGYT) | [SCRUBB](https://open.spotify.com/artist/3zSMaWnvUzyNlOW0Tj2s4N) | [Club](https://open.spotify.com/album/3FIStO0Jqw4wX6aXbvDd6L) | 4:26 |
-| 15 | [โกหก](https://open.spotify.com/track/13OtbwiqeUt7M5VtbSTtvK) | [Tattoo Colour](https://open.spotify.com/artist/5pxvW2nJ0a77b9oX24Unwi) | [ชุดที่ 8 จงเพราะ](https://open.spotify.com/album/7x31VHMG8eicd8iYQzx0L9) | 3:12 |
+| 12 | [โกหก](https://open.spotify.com/track/13OtbwiqeUt7M5VtbSTtvK) | [Tattoo Colour](https://open.spotify.com/artist/5pxvW2nJ0a77b9oX24Unwi) | [ชุดที่ 8 จงเพราะ](https://open.spotify.com/album/7x31VHMG8eicd8iYQzx0L9) | 3:12 |
+| 13 | [คนไกล](https://open.spotify.com/track/63VOJDNJ3a5dve74kzWVcF) | [Patrickananda](https://open.spotify.com/artist/4gjXKx2a7GaIYwSDCBveJx) | [คนไกล](https://open.spotify.com/album/1Xe1DZBK5eVnfAhtK4RBbO) | 3:32 |
+| 14 | [ฤดูที่ฉันเหงา](https://open.spotify.com/track/0JAkZ44a75QTFXXsB2c7Ol) | [Flure](https://open.spotify.com/artist/3Y1IqMgKZTXjsMyWOuxPPj) | [Vanilla](https://open.spotify.com/album/3LzffCii1IuPCPN50ZqNNu) | 4:22 |
+| 15 | [คู่กัน \(Soulmate\)](https://open.spotify.com/track/2SewBThepvNfjZ6fyBhGYT) | [SCRUBB](https://open.spotify.com/artist/3zSMaWnvUzyNlOW0Tj2s4N) | [Club](https://open.spotify.com/album/3FIStO0Jqw4wX6aXbvDd6L) | 4:26 |
 | 16 | [บุษบา \(Busaba\)](https://open.spotify.com/track/0MWvyoCkBa93EJa4HnGBoG) | [Moderndog](https://open.spotify.com/artist/2xuN796lJ8Oj4vsx2XiJqj) | [Moderndog](https://open.spotify.com/album/4bvXOiaVeWqSbvyCk24QkA) | 4:48 |
-| 17 | [Lavender](https://open.spotify.com/track/3BV2YcwoVRxK4dXxyaHpZU) | [Patrickananda](https://open.spotify.com/artist/4gjXKx2a7GaIYwSDCBveJx) | [Lavender](https://open.spotify.com/album/2rtLGvRaYgmrI3zbcIq5LM) | 4:13 |
-| 18 | [อยู่ดีๆก็… \(feat\. Youngohm\)](https://open.spotify.com/track/0b9JDLbAgCazIwPSWj6DNL) | [Wonderframe](https://open.spotify.com/artist/5bzFXP4FjQKAwuiHJTsNp9), [YOUNGOHM](https://open.spotify.com/artist/0AvGycOEDZTaBFLCaiGd9S) | [อยู่ดีๆก็… \(feat\. Youngohm\)](https://open.spotify.com/album/4h7UhLWDZk2vOafrnijTta) | 3:55 |
-| 19 | [ทุกอย่าง](https://open.spotify.com/track/4BoGFJUkeQ67PvkIfHhT65) | [SCRUBB](https://open.spotify.com/artist/3zSMaWnvUzyNlOW0Tj2s4N) | [SSSSS..!](https://open.spotify.com/album/5e5fZ4jZiIhh5rfsuFhfCN) | 4:16 |
-| 20 | [No.1](https://open.spotify.com/track/4L6PI5chD4KigRsrhOsnDx) | [Tattoo Colour](https://open.spotify.com/artist/5pxvW2nJ0a77b9oX24Unwi) | [สัตว์จริง](https://open.spotify.com/album/3DZPF3HO5rVZO3V8Ja902E) | 3:28 |
+| 17 | [No.1](https://open.spotify.com/track/4L6PI5chD4KigRsrhOsnDx) | [Tattoo Colour](https://open.spotify.com/artist/5pxvW2nJ0a77b9oX24Unwi) | [สัตว์จริง](https://open.spotify.com/album/3DZPF3HO5rVZO3V8Ja902E) | 3:28 |
+| 18 | [Lavender](https://open.spotify.com/track/3BV2YcwoVRxK4dXxyaHpZU) | [Patrickananda](https://open.spotify.com/artist/4gjXKx2a7GaIYwSDCBveJx) | [Lavender](https://open.spotify.com/album/2rtLGvRaYgmrI3zbcIq5LM) | 4:13 |
+| 19 | [อยู่ดีๆก็… \(feat\. Youngohm\)](https://open.spotify.com/track/0b9JDLbAgCazIwPSWj6DNL) | [Wonderframe](https://open.spotify.com/artist/5bzFXP4FjQKAwuiHJTsNp9), [YOUNGOHM](https://open.spotify.com/artist/0AvGycOEDZTaBFLCaiGd9S) | [อยู่ดีๆก็… \(feat\. Youngohm\)](https://open.spotify.com/album/4h7UhLWDZk2vOafrnijTta) | 3:55 |
+| 20 | [ทุกอย่าง](https://open.spotify.com/track/4BoGFJUkeQ67PvkIfHhT65) | [SCRUBB](https://open.spotify.com/artist/3zSMaWnvUzyNlOW0Tj2s4N) | [SSSSS..!](https://open.spotify.com/album/5e5fZ4jZiIhh5rfsuFhfCN) | 4:16 |
 | 21 | [ตาสว่าง \(Found\)](https://open.spotify.com/track/2xnAn7xxR2Ohxt1UuQudpC) | [Moderndog](https://open.spotify.com/artist/2xuN796lJ8Oj4vsx2XiJqj) | [แดดส่อง](https://open.spotify.com/album/67i2hh9vivLArE9XdVbm2B) | 5:24 |
 | 22 | [ดินแดนแห่งความรัก](https://open.spotify.com/track/3WrSuURIdtaffgHBANSyWC) | [Crescendo](https://open.spotify.com/artist/7omCr5aMOZAR4rL580d2kk) | [Second Chance](https://open.spotify.com/album/0AZurgshWlyyrnBvRqQ3zY) | 3:43 |
 | 23 | [ความลับ](https://open.spotify.com/track/3JRW8QzgWLrenspiUEqE1B) | [Pause](https://open.spotify.com/artist/1pTiPuAABytFjsXsUwgsNE) | [Mild](https://open.spotify.com/album/5UEBDg1sx03ah3jfU5U8no) | 3:08 |
-| 24 | [เข้ากันดี](https://open.spotify.com/track/1zbuNx8aZ9xesAjy4ZDvH4) | [SCRUBB](https://open.spotify.com/artist/3zSMaWnvUzyNlOW0Tj2s4N) | [Mood](https://open.spotify.com/album/4gyC8WZwj9Kt0jgkt99Al6) | 3:51 |
-| 25 | [เบาเบา \(Tender\)](https://open.spotify.com/track/1D82eR1hzKmiujw4fk0EYj) | [Singular](https://open.spotify.com/artist/5uxiKslHBfPTjs7RigWrL8) | [The White Room](https://open.spotify.com/album/3F4FahVAunMLCSbnLdoXiQ) | 4:03 |
+| 24 | [เบาเบา \(Tender\)](https://open.spotify.com/track/1D82eR1hzKmiujw4fk0EYj) | [Singular](https://open.spotify.com/artist/5uxiKslHBfPTjs7RigWrL8) | [The White Room](https://open.spotify.com/album/3F4FahVAunMLCSbnLdoXiQ) | 4:03 |
+| 25 | [เข้ากันดี](https://open.spotify.com/track/1zbuNx8aZ9xesAjy4ZDvH4) | [SCRUBB](https://open.spotify.com/artist/3zSMaWnvUzyNlOW0Tj2s4N) | [Mood](https://open.spotify.com/album/4gyC8WZwj9Kt0jgkt99Al6) | 3:51 |
 | 26 | [จันทร์อังคารพุธพฤหัสศุกร์เสาร์อาทิตย์ \(Everyday\)](https://open.spotify.com/track/5l3HFThm3Xlv8c9mmiTUgT) | [Patrickananda](https://open.spotify.com/artist/4gjXKx2a7GaIYwSDCBveJx) | [จันทร์อังคารพุธพฤหัสศุกร์เสาร์อาทิตย์ \(Everyday\)](https://open.spotify.com/album/636T1GeuPpgrtj9qcULq3I) | 3:02 |
 | 27 | [ความจริงในใจ](https://open.spotify.com/track/4db90A1wSLdfFjh0JXe4NI) | [Crescendo](https://open.spotify.com/artist/7omCr5aMOZAR4rL580d2kk) | [เครสเชนโด้](https://open.spotify.com/album/4eRAe2yUAxzbbPC0f9QCUk) | 4:04 |
 | 28 | [หรือ](https://open.spotify.com/track/0ogLgVg1RY7IGyrp1B8g4X) | [Slur](https://open.spotify.com/artist/7G4qd0NlBQf4AxC0klpuDY) | [B](https://open.spotify.com/album/38rKe9bpwRTzQx80DvsFBl) | 4:53 |

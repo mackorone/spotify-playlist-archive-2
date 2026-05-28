@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2025-07-20",
   "description": "De beste Studenten Hits 2026 op \u00e9\u00e9n plek! \ud83c\udf7b D\u00e9 ultieme playlist voor je huisfeest of de kroeg. Vol met de beste Nederpop, kroegenhits, meezingers en de hardste tracks van Bankzitters, Antoon, Turfy Gang en Roxy Dekker. \ud83c\udfa4\ud83d\udd25 Cover: Roxy Dekker",
-  "name": "Studenten Hits | Kroegenhits",
+  "name": "Studenten Hits",
   "tracks": [
     {
       "album": {
@@ -452,7 +452,7 @@
       ],
       "date_added": "2026-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-28",
       "duration_ms": 160588,
       "name": "Ben Je Verliefd?",
       "url": "https://open.spotify.com/track/0cvs1LuaTEAHmyayUg06Fy"
@@ -1046,6 +1046,28 @@
       "duration_ms": 160218,
       "name": "Europapa",
       "url": "https://open.spotify.com/track/0uHrMbMv3c78398pIANDqR"
+    },
+    {
+      "album": {
+        "name": "Ewa Safi",
+        "url": "https://open.spotify.com/album/1hTb4919oA7x9I0JZCDJuE"
+      },
+      "artists": [
+        {
+          "name": "Noano",
+          "url": "https://open.spotify.com/artist/5eDdy8QxB47JsLASK2FI1m"
+        },
+        {
+          "name": "Lil Kleine",
+          "url": "https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143265,
+      "name": "Ewa Safi",
+      "url": "https://open.spotify.com/track/3PZ5mxb19denUmoHHpMipx"
     },
     {
       "album": {
@@ -1699,6 +1721,24 @@
     },
     {
       "album": {
+        "name": "Deze Wereld Is Van Jou",
+        "url": "https://open.spotify.com/album/6ZA4I36iU9qhVjsJOGzUnJ"
+      },
+      "artists": [
+        {
+          "name": "Gers Pardoel",
+          "url": "https://open.spotify.com/artist/5AvkVClT6JuPL4LFy7liYN"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217760,
+      "name": "Ik Neem Je Mee",
+      "url": "https://open.spotify.com/track/4RxzgZMbYLLnLYaW00Wv4q"
+    },
+    {
+      "album": {
         "name": "In De Olie",
         "url": "https://open.spotify.com/album/0qlqsjGYkJvx7GIALA9ZDn"
       },
@@ -1750,6 +1790,24 @@
       "duration_ms": 200463,
       "name": "Jouw Idee",
       "url": "https://open.spotify.com/track/6u9MrPWzCXj0pQjuglCyqy"
+    },
+    {
+      "album": {
+        "name": "Just The Way You Are",
+        "url": "https://open.spotify.com/album/1fN8LTM10sYFZl5BCzIPlj"
+      },
+      "artists": [
+        {
+          "name": "Milky",
+          "url": "https://open.spotify.com/artist/5AvCP5qzxTmk4cQmh0SUEw"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210070,
+      "name": "Just The Way You Are",
+      "url": "https://open.spotify.com/track/7K3Lc3TfSR14aTOjIH7TUj"
     },
     {
       "album": {
@@ -2050,6 +2108,24 @@
       "duration_ms": 177205,
       "name": "Maak Me Nou Niet Gek",
       "url": "https://open.spotify.com/track/0q8Ft87t6fIUZdtve5PwKW"
+    },
+    {
+      "album": {
+        "name": "Magnetic / Addicted To Your Love",
+        "url": "https://open.spotify.com/album/5spP5OwikL076tVBuw7gb8"
+      },
+      "artists": [
+        {
+          "name": "The Bausa",
+          "url": "https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181384,
+      "name": "Magnetic",
+      "url": "https://open.spotify.com/track/4hFDFmMnSYZ32ssqNUOCjt"
     },
     {
       "album": {
@@ -2655,6 +2731,28 @@
     },
     {
       "album": {
+        "name": "Talk To You (ft. 54 Ultra)",
+        "url": "https://open.spotify.com/album/374Z5kI6lNCztQV7HItzUJ"
+      },
+      "artists": [
+        {
+          "name": "ANOTR",
+          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
+        },
+        {
+          "name": "54 Ultra",
+          "url": "https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191076,
+      "name": "Talk To You (ft. 54 Ultra)",
+      "url": "https://open.spotify.com/track/0kl6Ozan3fuUdCl6TlB15v"
+    },
+    {
+      "album": {
         "name": "Tante Jetje",
         "url": "https://open.spotify.com/album/4d7e0D6oOIIlepqR2cJoSO"
       },
@@ -2908,7 +3006,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-28",
       "duration_ms": 160236,
       "name": "Vlam In De Pan",
       "url": "https://open.spotify.com/track/0X63JmpyxWMguhDLAjdN3V"
@@ -3012,6 +3110,28 @@
       "duration_ms": 178432,
       "name": "Waar Blijf Je Nou",
       "url": "https://open.spotify.com/track/3zPB1hMsorvAEiIl88JOpr"
+    },
+    {
+      "album": {
+        "name": "Waar De Ladies Zijn",
+        "url": "https://open.spotify.com/album/7sItPhIOsuhFEqT9PyPRXq"
+      },
+      "artists": [
+        {
+          "name": "Russo",
+          "url": "https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee"
+        },
+        {
+          "name": "Matthy",
+          "url": "https://open.spotify.com/artist/0QHed4AjWDRonljqAa92EF"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140625,
+      "name": "Waar De Ladies Zijn",
+      "url": "https://open.spotify.com/track/1RBAmptvCgOBmUQorOiT31"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4EQPjP9ZpS.md) - [plain]
 
 > get lost in the  a e s t h e t i c
 
-[Spotify](https://open.spotify.com/user/spotify) - 344,030 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 344,077 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4EQPjP9ZpS.md) - [plain]
 | 79 | [Cry Again](https://open.spotify.com/track/5LfYC98Zc9hsPTPzz9gltB) | [Windows 96](https://open.spotify.com/artist/65XcfOOaVxbZnNlz40DK7i), [Gavriel](https://open.spotify.com/artist/53wGx0J5eu3GdlChMeO8RJ) | [Cry Again](https://open.spotify.com/album/1AnstNZSetOGm24TQA5GHB) | 3:02 |
 | 80 | [Island](https://open.spotify.com/track/4CwByRtQjwkrnOjWNINV0z) | [luxury elite](https://open.spotify.com/artist/28516pIwBLUO62yBiLAfdI) | [With Love](https://open.spotify.com/album/0LOSJF9SLsu9UPamEbfkpj) | 1:46 |
 | 81 | [You Got The Groove \- slow + reverbed](https://open.spotify.com/track/0JPiPZT6Nj1WFv5Tq7Ec2w) | [FrankJavCee](https://open.spotify.com/artist/3nHKeOa45XrUplL3NiGy7E) | [You Got The Groove](https://open.spotify.com/album/61mCAP8vGPcJUFD3PHWjmI) | 3:57 |
-| 82 | [Surfer Girl](https://open.spotify.com/track/5J3WFolhy4FRjlpsGtBkC1) | [Persona La Ave](https://open.spotify.com/artist/2aE6UqkdSKchA6BgQXEwkj) | [Surfer Girl](https://open.spotify.com/album/0LMhX8TFMKhbiXCi1FGNnj) | 6:15 |
-| 83 | [Glass Mind](https://open.spotify.com/track/7rTxLYlqDyXRtz6wpx9zc8) | [ev.exi](https://open.spotify.com/artist/625cTtpQZkHRwLwEtpVbA1), [Lavera](https://open.spotify.com/artist/0kmuxSLDnKLPAqs6DuhegB) | [Glass Mind](https://open.spotify.com/album/6n5SPV0pPiloTwXXn3I0ez) | 3:39 |
+| 82 | [Glass Mind](https://open.spotify.com/track/7rTxLYlqDyXRtz6wpx9zc8) | [ev.exi](https://open.spotify.com/artist/625cTtpQZkHRwLwEtpVbA1), [Lavera](https://open.spotify.com/artist/0kmuxSLDnKLPAqs6DuhegB) | [Glass Mind](https://open.spotify.com/album/6n5SPV0pPiloTwXXn3I0ez) | 3:39 |
+| 83 | [Surfer Girl](https://open.spotify.com/track/5J3WFolhy4FRjlpsGtBkC1) | [Persona La Ave](https://open.spotify.com/artist/2aE6UqkdSKchA6BgQXEwkj) | [Surfer Girl](https://open.spotify.com/album/0LMhX8TFMKhbiXCi1FGNnj) | 6:15 |
 | 84 | [Monogon](https://open.spotify.com/track/60r9DrLtGACy95pTVVLw2a) | [Vaporwave Club](https://open.spotify.com/artist/3hNjVPQVt9yTum1hDWyjwx) | [Polygon Paradise](https://open.spotify.com/album/2nsz0P9PDU6iYEMY1EPuK5) | 2:20 |
 | 85 | [Beyond Nostalgia](https://open.spotify.com/track/1HzfSdHgnSPMwS8jgFa4Ls) | [3D BLAST](https://open.spotify.com/artist/4dt3uDLF3r287ibId32Ps2) | [Iconic Bitch](https://open.spotify.com/album/1Pc295dLxNyJ7Tpv8I408S) | 3:53 |
 | 86 | [♍︎❒︎⍓︎⬧︎⧫︎♋︎●︎ ♌︎♋︎●︎●︎](https://open.spotify.com/track/6KVCMAVyNw88EP3IIwK4MD) | [L a z u l i \_ y e l l o w](https://open.spotify.com/artist/0GiURWTLt5k0URszhyxt9s), [Vivi Vulture](https://open.spotify.com/artist/5i7PL36PdMQfPVxLudI090), [Donor Lens](https://open.spotify.com/artist/0gF93jqUmpFOFEtBKXWFiA) | [♍︎❒︎⍓︎⬧︎⧫︎♋︎●︎ ♌︎♋︎●︎●︎](https://open.spotify.com/album/5p4jf5AH2qd8NlLZOWKfOE) | 2:56 |
@@ -102,8 +102,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4EQPjP9ZpS.md) - [plain]
 | 92 | [Tennis](https://open.spotify.com/track/5BBZrCQzJBKt3zLhlQFStc) | [SPORTSGIRL](https://open.spotify.com/artist/2gj2a0b2PhwlDaQerfUoES) | [Sports](https://open.spotify.com/album/5UVd1H64YlB3Z5gnDXa8og) | 5:06 |
 | 93 | [新しい時代, Yes!](https://open.spotify.com/track/4UGeYxP5W5sVf0UUblKahK) | [VANITAS命死](https://open.spotify.com/artist/3626h020F6R0HEQdaRTTWI) | [新しい時代, Yes!](https://open.spotify.com/album/03lEQrnYK2LkWnADa0DqhP) | 4:37 |
 | 94 | [Fire Magic](https://open.spotify.com/track/080PmEUcM6GjVE13suRCfq) | [Virtual Mage](https://open.spotify.com/artist/1gEHdJ4DIEL2JuyRnNfMkt) | [Fire Magic](https://open.spotify.com/album/5I70VHdIilo0dbckapINnW) | 3:17 |
-| 95 | [Fantasy](https://open.spotify.com/track/0R6sHfthUWXUwzPjhrV39z) | [Lost Traveler ロスト](https://open.spotify.com/artist/0zUh7z3wJlLWbWFoyrdOxD) | [Twin Elegance](https://open.spotify.com/album/4fIFny0pMaHkfMfwi4t21t) | 2:55 |
-| 96 | [Stunts](https://open.spotify.com/track/5fgZv37iE8pDNOcmQRvhFL) | [Teams](https://open.spotify.com/artist/6Ju8rLVGq0MMt0NaXyfLJJ) | [Dxys Xff](https://open.spotify.com/album/2iamNHiA06vFxbTk1mgc1d) | 5:26 |
+| 95 | [Stunts](https://open.spotify.com/track/5fgZv37iE8pDNOcmQRvhFL) | [Teams](https://open.spotify.com/artist/6Ju8rLVGq0MMt0NaXyfLJJ) | [Dxys Xff](https://open.spotify.com/album/2iamNHiA06vFxbTk1mgc1d) | 5:26 |
+| 96 | [Fantasy](https://open.spotify.com/track/0R6sHfthUWXUwzPjhrV39z) | [Lost Traveler ロスト](https://open.spotify.com/artist/0zUh7z3wJlLWbWFoyrdOxD) | [Twin Elegance](https://open.spotify.com/album/4fIFny0pMaHkfMfwi4t21t) | 2:55 |
 | 97 | [Tomorrow \(Slowed & Reverb\)](https://open.spotify.com/track/5f4JemFGhXM4755zhVElIi) | [Kyo\-2](https://open.spotify.com/artist/4eC4Y8j9lLRk0YcnDHH5cE), [Macintosh Plus](https://open.spotify.com/artist/2hkoUqWFI4KP39O9MViMY3), [Saint Pepsi](https://open.spotify.com/artist/3b014NFgLGBMV2q0sGyFQM), [Benny Alexander](https://open.spotify.com/artist/3sEoVGHwnRpTQGOicq6iJH) | [Tomorrow \(Slowed & Reverb\)](https://open.spotify.com/album/3jUuevbHg51FltoeAjJ7bi) | 3:34 |
 | 98 | [Playback](https://open.spotify.com/track/2uAB95gzNi0AWQEyLER6gS) | [</body>](https://open.spotify.com/artist/0CY2m8Yk4gWG8khmIgijN6) | [Information Superhighway](https://open.spotify.com/album/5GPnde7XQQybkkIak1xma4) | 1:47 |
 | 99 | [Spring Water](https://open.spotify.com/track/1ulOpZGsWSZcaBQd1diOj8) | [AURAGRAPH](https://open.spotify.com/artist/6yR7RysQJaTayvmT0Bx8zt) | [Tropics 1](https://open.spotify.com/album/1B0OTswqyimuHF5OEI4uyO) | 3:35 |

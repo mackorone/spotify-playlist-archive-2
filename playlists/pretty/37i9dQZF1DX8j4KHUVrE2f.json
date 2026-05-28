@@ -1,6 +1,6 @@
 {
   "description": "Take a trip down memory lane with these noughties classics...",
-  "num_followers": 1102839,
+  "num_followers": 1102841,
   "original_name": "Easy 00s",
   "owner": {
     "name": "Spotify",
@@ -799,22 +799,6 @@
     {
       "added_at": "2024-06-03 14:44:19",
       "album": {
-        "name": "Coco",
-        "url": "https://open.spotify.com/album/7a8mrq83VEf0PoFh6pvtsb"
-      },
-      "artists": [
-        {
-          "name": "Colbie Caillat",
-          "url": "https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu"
-        }
-      ],
-      "duration_ms": 196226,
-      "name": "Bubbly",
-      "url": "https://open.spotify.com/track/1lkvpmrCaXK8QtliFDcHBO"
-    },
-    {
-      "added_at": "2024-06-03 14:44:19",
-      "album": {
         "name": "No Name Face",
         "url": "https://open.spotify.com/album/1VKNHcrUppE8i5oAhg4o6k"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 216066,
       "name": "Hanging By A Moment",
       "url": "https://open.spotify.com/track/0wqOReZDnrefefEsrIGeR4"
+    },
+    {
+      "added_at": "2024-06-03 14:44:19",
+      "album": {
+        "name": "Coco",
+        "url": "https://open.spotify.com/album/7a8mrq83VEf0PoFh6pvtsb"
+      },
+      "artists": [
+        {
+          "name": "Colbie Caillat",
+          "url": "https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu"
+        }
+      ],
+      "duration_ms": 196226,
+      "name": "Bubbly",
+      "url": "https://open.spotify.com/track/1lkvpmrCaXK8QtliFDcHBO"
     },
     {
       "added_at": "2024-06-03 14:44:19",
@@ -915,6 +915,22 @@
     {
       "added_at": "2024-06-03 14:44:19",
       "album": {
+        "name": "Alright, Still (Deluxe)",
+        "url": "https://open.spotify.com/album/5ySBiY0v4b03yw98oRDKtS"
+      },
+      "artists": [
+        {
+          "name": "Lily Allen",
+          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
+        }
+      ],
+      "duration_ms": 196893,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/79z9QkhHePTFsSeVw9uyj0"
+    },
+    {
+      "added_at": "2024-06-03 14:44:19",
+      "album": {
         "name": "We Sing. We Dance. We Steal Things. (Bonus Tracks Version)",
         "url": "https://open.spotify.com/album/1UwzOp5hn3lAbOqsAfXBw8"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 189613,
       "name": "Lucky",
       "url": "https://open.spotify.com/track/2qLMf6TuEC3ruGJg4SMMN6"
-    },
-    {
-      "added_at": "2024-06-03 14:44:19",
-      "album": {
-        "name": "Alright, Still (Deluxe)",
-        "url": "https://open.spotify.com/album/5ySBiY0v4b03yw98oRDKtS"
-      },
-      "artists": [
-        {
-          "name": "Lily Allen",
-          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
-        }
-      ],
-      "duration_ms": 196893,
-      "name": "Smile",
-      "url": "https://open.spotify.com/track/79z9QkhHePTFsSeVw9uyj0"
     },
     {
       "added_at": "2024-06-03 14:44:19",
@@ -1307,18 +1307,18 @@
     {
       "added_at": "2024-06-03 14:44:19",
       "album": {
-        "name": "Born to Do It",
-        "url": "https://open.spotify.com/album/5TedEgCbtmvDnXzUtXEFJY"
+        "name": "The Element Of Freedom",
+        "url": "https://open.spotify.com/album/0Rxab8t0y7GlaTJTHX2wEN"
       },
       "artists": [
         {
-          "name": "Craig David",
-          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
         }
       ],
-      "duration_ms": 204866,
-      "name": "Walking Away",
-      "url": "https://open.spotify.com/track/3R7fjB38qajI6JR69y5k4e"
+      "duration_ms": 249013,
+      "name": "Try Sleeping with a Broken Heart",
+      "url": "https://open.spotify.com/track/1yK9LISg5uBOOW5bT2Wm0i"
     }
   ],
   "unique_name": "Easy 00s",

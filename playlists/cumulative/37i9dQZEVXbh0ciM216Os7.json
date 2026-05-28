@@ -7558,7 +7558,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-28",
       "duration_ms": 232933,
       "name": "Blackberry Marmalade",
       "url": "https://open.spotify.com/track/3FxrOAlvKSGGloyWOOgRDA"
@@ -18858,6 +18858,24 @@
       "duration_ms": 74933,
       "name": "Duncan Hills Coffee Jingle",
       "url": "https://open.spotify.com/track/6LRllcXfyLUyVVXcxHzTZ0"
+    },
+    {
+      "album": {
+        "name": "The Dethalbum DKXX: Dethmastered (Remixed & Remastered)",
+        "url": "https://open.spotify.com/album/0FdfJuF34mrNIfGSIaCBIn"
+      },
+      "artists": [
+        {
+          "name": "Metalocalypse: Dethklok",
+          "url": "https://open.spotify.com/artist/7u12AuhJ5AaJIgZAZe0US8"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 74613,
+      "name": "Duncan Hills Coffee Jingle - Remixed & Remastered",
+      "url": "https://open.spotify.com/track/0gTGaDoqPO8vPwK8z39TSr"
     },
     {
       "album": {
@@ -32222,7 +32240,7 @@
       ],
       "date_added": "2026-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-28",
       "duration_ms": 121384,
       "name": "IDEAR",
       "url": "https://open.spotify.com/track/3d2LaKwruMSaImtP2pQdJK"
@@ -34980,6 +34998,28 @@
       "duration_ms": 163640,
       "name": "JUST LIKE THAT (with Ari Lennox)",
       "url": "https://open.spotify.com/track/2eCIT1yhrYfWdfC5VahUrt"
+    },
+    {
+      "album": {
+        "name": "Just The Way You Are (David Guetta Remix)",
+        "url": "https://open.spotify.com/album/1ds3s1EQxP4MPLvX5CxXSw"
+      },
+      "artists": [
+        {
+          "name": "Milky",
+          "url": "https://open.spotify.com/artist/5AvCP5qzxTmk4cQmh0SUEw"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181609,
+      "name": "Just The Way You Are - David Guetta Remix",
+      "url": "https://open.spotify.com/track/5980rUQH7tLVv78lk4EIDU"
     },
     {
       "album": {
@@ -43840,7 +43880,7 @@
       ],
       "date_added": "2026-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-28",
       "duration_ms": 204293,
       "name": "Murmaider - Remixed & Remastered",
       "url": "https://open.spotify.com/track/7jmvNb79ULSmGqEwo2HCDo"
@@ -45476,7 +45516,7 @@
       ],
       "date_added": "2026-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-28",
       "duration_ms": 291472,
       "name": "New Rules / Dance The Night Interlude (Live From Mexico)",
       "url": "https://open.spotify.com/track/7f6k9rS1ah0QjYfw8gtMJi"
@@ -48089,24 +48129,6 @@
     },
     {
       "album": {
-        "name": "Dua Lipa - Live From Mexico",
-        "url": "https://open.spotify.com/album/3rvZld1RX30IVhuaLkYKnZ"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "date_added": "2026-05-24",
-      "date_added_asterisk": false,
-      "date_removed": "2026-05-25",
-      "duration_ms": 380894,
-      "name": "One Kiss (Live From Mexico)",
-      "url": "https://open.spotify.com/track/5hI6xEpaZ9L2I6SG4TGuWr"
-    },
-    {
-      "album": {
         "name": "Live From Mexico",
         "url": "https://open.spotify.com/album/4GKlJev117Z9ZHR8CBhJ8E"
       },
@@ -48144,6 +48166,24 @@
       "duration_ms": 208741,
       "name": "One Last Dance",
       "url": "https://open.spotify.com/track/0MzrzzeC7IvFk1J9DFdu4d"
+    },
+    {
+      "album": {
+        "name": "Dua Lipa - Live From Mexico",
+        "url": "https://open.spotify.com/album/3rvZld1RX30IVhuaLkYKnZ"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2026-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 380894,
+      "name": "One Medley (Mexican Live Edit)",
+      "url": "https://open.spotify.com/track/5hI6xEpaZ9L2I6SG4TGuWr"
     },
     {
       "album": {
@@ -61892,7 +61932,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-09",
+      "date_removed": null,
       "duration_ms": 173433,
       "name": "STORM II",
       "url": "https://open.spotify.com/track/0FZd4IaxB12sUTKSUUGwWq"

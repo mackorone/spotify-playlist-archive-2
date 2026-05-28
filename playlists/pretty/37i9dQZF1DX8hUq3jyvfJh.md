@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Ouça Maria Bethânia e mais mulheres incríveis no volume máximo! Co\-curado por <a href="spotify:artist:3f5VCwd57gZsqMad28jyLV">Maria Bethânia</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,509 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,517 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,9 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 30 | [Coração Melão](https://open.spotify.com/track/5samMlRFxbQbnYhSGEw5r1) | [Iuna Falcão](https://open.spotify.com/artist/3j3isTW06zLzcrST7xWt9N), [Núbia](https://open.spotify.com/artist/3CdN4b9reGAZYsPlbB3pTW) | [Umami](https://open.spotify.com/album/0DyNe2AEPsriNVpY5YGjDG) | 4:18 |
 | 31 | [Último desejo \(Participação especial de Francisco Sérgio e sua orquestra\)](https://open.spotify.com/track/0bWJu08ZYR14s2MT7ezN7D) | [Aracy de Almeida](https://open.spotify.com/artist/4dUyAH3f2lQ4QCXrUtJ778), [Francisco Sérgio e sua Orquestra](https://open.spotify.com/artist/3zTP7PA0jhORYttUqAX0MG) | [Sambas de Noel Rosa](https://open.spotify.com/album/4GBnrfMHbLji4DcNelwuFR) | 3:09 |
 | 32 | [Pavilhão de Espelhos](https://open.spotify.com/track/7hqIOZiFjG8TEnn3NUb69X) | [Roberta Sá](https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG) | [Tudo Que Cantei Sou](https://open.spotify.com/album/4FFKHEourvekB17Y3yRGhq) | 3:17 |
-| 33 | [Modinha Para Gabriela](https://open.spotify.com/track/5b1lbWCyBEL3u0tSmgvkUb) | [Alice Caymmi](https://open.spotify.com/artist/3ExGkIKgqWpIr2hr0nepRp) | [Modinha Para Gabriela](https://open.spotify.com/album/584hYWVxQ6cb94MFXKWkxv) | 3:51 |
-| 34 | [Beatriz](https://open.spotify.com/track/72pMw0S2aWQmQoNGAtlyal) | [Mônica Salmaso](https://open.spotify.com/artist/6m9OlwfRBWVyiazPouhBGx) | [Noites de Gala, Samba Na Rua](https://open.spotify.com/album/7nOAvR01AU3cbIMGTlMI5v) | 4:56 |
-| 35 | [MAPA MUNDI](https://open.spotify.com/track/3E17xNfbh9h3Y4YzaHzPWO) | [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7) | [BEM VINDOS DE VOLTA](https://open.spotify.com/album/63IDdeh5PXr4Qvja9pKYtr) | 4:28 |
+| 33 | [Beatriz](https://open.spotify.com/track/72pMw0S2aWQmQoNGAtlyal) | [Mônica Salmaso](https://open.spotify.com/artist/6m9OlwfRBWVyiazPouhBGx) | [Noites de Gala, Samba Na Rua](https://open.spotify.com/album/7nOAvR01AU3cbIMGTlMI5v) | 4:56 |
+| 34 | [MAPA MUNDI](https://open.spotify.com/track/3E17xNfbh9h3Y4YzaHzPWO) | [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7) | [BEM VINDOS DE VOLTA](https://open.spotify.com/album/63IDdeh5PXr4Qvja9pKYtr) | 4:28 |
+| 35 | [Modinha Para Gabriela](https://open.spotify.com/track/5b1lbWCyBEL3u0tSmgvkUb) | [Alice Caymmi](https://open.spotify.com/artist/3ExGkIKgqWpIr2hr0nepRp) | [Modinha Para Gabriela](https://open.spotify.com/album/584hYWVxQ6cb94MFXKWkxv) | 3:51 |
 | 36 | [Ter Filhos Fortes](https://open.spotify.com/track/53EdazlS9uRL1MTT4fsnA1) | [Dora Sanches](https://open.spotify.com/artist/229B0BZwb8NWvQpmt5rXJR) | [Ter Filhos Fortes](https://open.spotify.com/album/2yExdcx2kjImSo2CrxezZc) | 4:19 |
 | 37 | [Voz de Longe](https://open.spotify.com/track/3oYkFf1qzu7O2SUtPld2Th) | [Mari Merenda](https://open.spotify.com/artist/07FaEsHIaVZAFFHvNElpbQ) | [Voz de Longe](https://open.spotify.com/album/5mADYBJ2iOsAgAJOqnM7Lr) | 3:10 |
 | 38 | [Doce Presença](https://open.spotify.com/track/4izEvMiE7VGx7TEvbsLJ06) | [Nana Caymmi](https://open.spotify.com/artist/1hQT9TlJXMBP6Dy4lExSKn), [Cesar Camargo Mariano](https://open.spotify.com/artist/43B6M32q64TmvCjO9WAhWd) | [Voz E Suor](https://open.spotify.com/album/5kFLiVWINVn7Q5N6GVdmDI) | 4:03 |

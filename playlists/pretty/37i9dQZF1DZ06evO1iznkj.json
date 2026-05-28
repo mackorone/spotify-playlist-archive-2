@@ -1,12 +1,12 @@
 {
   "description": "This is Gunna. The essential tracks, all in one playlist.",
-  "num_followers": 203200,
+  "num_followers": 203256,
   "original_name": "This Is Gunna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahORAAAAAACwvk8vOrgoL7Wz+ZTW+vqj",
+  "snapshot_id": "ahTigAAAAAAXe7Dt9WjSoFx381V4qYJO",
   "tracks": [
     {
       "added_at": null,
@@ -307,22 +307,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "SWAG",
-        "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
+        "name": "Drip or Drown 2",
+        "url": "https://open.spotify.com/album/1oUzjom2A9xtyRM1SdOAGj"
       },
       "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        },
         {
           "name": "Gunna",
           "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
         }
       ],
-      "duration_ms": 195319,
-      "name": "WAY IT IS",
-      "url": "https://open.spotify.com/track/1r3uOHPoiIv89Xb6K9bDH4"
+      "duration_ms": 151539,
+      "name": "Who You Foolin",
+      "url": "https://open.spotify.com/track/7KVPsVMOK3NL7subwJ0dZj"
     },
     {
       "added_at": null,
@@ -343,42 +339,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Drip or Drown 2",
-        "url": "https://open.spotify.com/album/1oUzjom2A9xtyRM1SdOAGj"
+        "name": "SWAG",
+        "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
       },
       "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
         {
           "name": "Gunna",
           "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
         }
       ],
-      "duration_ms": 151539,
-      "name": "Who You Foolin",
-      "url": "https://open.spotify.com/track/7KVPsVMOK3NL7subwJ0dZj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Harder Than Ever",
-        "url": "https://open.spotify.com/album/7yf9ZJyHRbp8sHtpDKfPpt"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        },
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 247054,
-      "name": "Life Goes On",
-      "url": "https://open.spotify.com/track/2bSk87AVkCIIC3Bcligq1z"
+      "duration_ms": 195319,
+      "name": "WAY IT IS",
+      "url": "https://open.spotify.com/track/1r3uOHPoiIv89Xb6K9bDH4"
     },
     {
       "added_at": null,
@@ -403,6 +379,30 @@
       "duration_ms": 279906,
       "name": "Hot (Remix) [feat. Gunna and Travis Scott]",
       "url": "https://open.spotify.com/track/4ea9w8c4ROqiZpJVhfBA3m"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Harder Than Ever",
+        "url": "https://open.spotify.com/album/7yf9ZJyHRbp8sHtpDKfPpt"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 247054,
+      "name": "Life Goes On",
+      "url": "https://open.spotify.com/track/2bSk87AVkCIIC3Bcligq1z"
     },
     {
       "added_at": null,
@@ -735,22 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "WUNNA (Deluxe)",
-        "url": "https://open.spotify.com/album/6FfYIKA59pCFs2d1FB79Pq"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 149106,
-      "name": "200 FOR LUNCH",
-      "url": "https://open.spotify.com/track/6SpBKyfn9BnvnoQbUGPlYM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Shoot For The Stars Aim For The Moon (Deluxe)",
         "url": "https://open.spotify.com/album/3Xp4gYT4TT35MitP4T11Xt"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 212658,
       "name": "Paranoia",
       "url": "https://open.spotify.com/track/7ffGuDhX7yzW5AA1oERvrr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "WUNNA (Deluxe)",
+        "url": "https://open.spotify.com/album/6FfYIKA59pCFs2d1FB79Pq"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 149106,
+      "name": "200 FOR LUNCH",
+      "url": "https://open.spotify.com/track/6SpBKyfn9BnvnoQbUGPlYM"
     },
     {
       "added_at": null,
@@ -815,6 +815,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "DS4EVER",
+        "url": "https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 142226,
+      "name": "livin wild",
+      "url": "https://open.spotify.com/track/13LrJDJhegSLCZzqd5InmU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "So Much Fun",
         "url": "https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 184093,
       "name": "Surf (feat. Gunna)",
       "url": "https://open.spotify.com/track/6igOR5QCn09zAVF2ikZjsV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "DS4EVER",
-        "url": "https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 142226,
-      "name": "livin wild",
-      "url": "https://open.spotify.com/track/13LrJDJhegSLCZzqd5InmU"
     },
     {
       "added_at": null,

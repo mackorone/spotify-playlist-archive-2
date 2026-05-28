@@ -5245,6 +5245,24 @@
     },
     {
       "album": {
+        "name": "Do You Know",
+        "url": "https://open.spotify.com/album/0VL0XINwpFeZZZthg65ASA"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212470,
+      "name": "Do You Know",
+      "url": "https://open.spotify.com/track/1aHRhPwlNTNdMsDcYicxb6"
+    },
+    {
+      "album": {
         "name": "In Love With Diljit Dosanjh",
         "url": "https://open.spotify.com/album/29DT4MsLF2eLJxyJwivlnD"
       },
@@ -7524,6 +7542,28 @@
       "duration_ms": 224680,
       "name": "Half Love",
       "url": "https://open.spotify.com/track/2QnxW3fdMpm9I9sJr5LmOw"
+    },
+    {
+      "album": {
+        "name": "Hanji Hanji",
+        "url": "https://open.spotify.com/album/7szJ98sc9W3HhtUdFnJoh9"
+      },
+      "artists": [
+        {
+          "name": "Amrit Maan",
+          "url": "https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj"
+        },
+        {
+          "name": "The PropheC",
+          "url": "https://open.spotify.com/artist/4aopF0aU0Nbu5GtSorXV0W"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214459,
+      "name": "Hanji Hanji",
+      "url": "https://open.spotify.com/track/1SFwLNaHkV8WhW3ud1GBIJ"
     },
     {
       "album": {
@@ -15744,7 +15784,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-28",
       "duration_ms": 188000,
       "name": "Obsession",
       "url": "https://open.spotify.com/track/0LaL1ZE4d89NtjTm538QPO"
@@ -16096,7 +16136,7 @@
       ],
       "date_added": "2024-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-28",
       "duration_ms": 243035,
       "name": "Parindey (From \"Jatt Nuu Chudail Takri\")",
       "url": "https://open.spotify.com/track/4zD5IxK0MBPZ0ET58Ihhpm"

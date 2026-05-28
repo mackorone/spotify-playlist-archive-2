@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Puros lanzamientos\. Lo nuevo de toda Iberoamérica\. Portada: Fito Paez
 
-[Spotify](https://open.spotify.com/user/spotify) - 846,818 likes - 81 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 846,810 likes - 81 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Las Fuerzas Armadas del Amor](https://open.spotify.com/track/1iKsOPqoVEWkYnIvnVrQNz) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [Shine](https://open.spotify.com/album/1szzgue8VuL0dnNHjfNLt9) | 3:38 |
-| 2 | [Oye Mi Amor \(feat\. Fher de Maná\) \[Live From Mexico\]](https://open.spotify.com/track/0u6u5Fd3b2XeIc5zygxBy1) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Fher de Maná](https://open.spotify.com/artist/67dkjmTVB5JjU5S0BIkCs7) | [Live From Mexico](https://open.spotify.com/album/4GKlJev117Z9ZHR8CBhJ8E) | 5:03 |
+| 2 | [Oye Mi Amor \(feat\. Fher de Maná\) \[Live From Mexico\]](https://open.spotify.com/track/0u6u5Fd3b2XeIc5zygxBy1) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz), [Fher de Maná](https://open.spotify.com/artist/67dkjmTVB5JjU5S0BIkCs7) | [Live From Mexico](https://open.spotify.com/album/4GKlJev117Z9ZHR8CBhJ8E) | 5:03 |
 | 3 | [MÁS DE AHÍ \- Remix](https://open.spotify.com/track/1aPvpAAX9lB2WpEqkK012u) | [Topboy TGR](https://open.spotify.com/artist/1HYdJRbyNCkiko7TAw9rei), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [MÁS DE AHÍ \(Remix\)](https://open.spotify.com/album/7vNpgZdlMDiRwaASBm706E) | 4:05 |
 | 4 | [Q Hubo Amor \(Medellín\)](https://open.spotify.com/track/0HHRmqcKYBUAsMXgXdvxx8) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Q Hubo Amor \(Medellín\)](https://open.spotify.com/album/7lNBB4Mr7IaN4CYh6lQL2o) | 2:52 |
 | 5 | [Una Mujer Como la Suya](https://open.spotify.com/track/1hGC0iYUrO6gvkRUogGCwH) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Bandera Blanca](https://open.spotify.com/album/1fh2WpHqtGZRKui9aj5LI0) | 3:34 |

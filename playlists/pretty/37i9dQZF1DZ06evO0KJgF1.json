@@ -1,12 +1,12 @@
 {
   "description": "This is Siouxsie and the Banshees. The essential tracks, all in one playlist.",
-  "num_followers": 50863,
+  "num_followers": 50874,
   "original_name": "This Is Siouxsie and the Banshees",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahORAAAAAADG7xAl8oNVE+lfGI8rkBjW",
+  "snapshot_id": "ahTigAAAAACm/cwW38S1T3Kwr/xu8Mj+",
   "tracks": [
     {
       "added_at": null,
@@ -331,22 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Superstition (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0MNKE093cSDfCrABTCCXwP"
-      },
-      "artists": [
-        {
-          "name": "Siouxsie and the Banshees",
-          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
-        }
-      ],
-      "duration_ms": 265560,
-      "name": "Face To Face",
-      "url": "https://open.spotify.com/track/0wovyVOcYuRoCl0kMmIlXF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Rapture (Remastered / Expanded)",
         "url": "https://open.spotify.com/album/0w03cDwFhaT9BKE12PSvMJ"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 199813,
       "name": "O Baby",
       "url": "https://open.spotify.com/track/73NcxfLTBnkOAvncwtQRxU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Superstition (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0MNKE093cSDfCrABTCCXwP"
+      },
+      "artists": [
+        {
+          "name": "Siouxsie and the Banshees",
+          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
+        }
+      ],
+      "duration_ms": 265560,
+      "name": "Face To Face",
+      "url": "https://open.spotify.com/track/0wovyVOcYuRoCl0kMmIlXF"
     },
     {
       "added_at": null,
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kaleidoscope (Remastered & Expanded)",
-        "url": "https://open.spotify.com/album/5jynqY8ZyDoeqrIfYSwF8P"
-      },
-      "artists": [
-        {
-          "name": "Siouxsie and the Banshees",
-          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
-        }
-      ],
-      "duration_ms": 201760,
-      "name": "Red Light",
-      "url": "https://open.spotify.com/track/2WgUntfJ6wcxzUTHcqOQ5M"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Rapture (Remastered / Expanded)",
         "url": "https://open.spotify.com/album/0w03cDwFhaT9BKE12PSvMJ"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 288280,
       "name": "Sick Child",
       "url": "https://open.spotify.com/track/3IwJmL7ztDQr2p46dH48lr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kaleidoscope (Remastered & Expanded)",
+        "url": "https://open.spotify.com/album/5jynqY8ZyDoeqrIfYSwF8P"
+      },
+      "artists": [
+        {
+          "name": "Siouxsie and the Banshees",
+          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
+        }
+      ],
+      "duration_ms": 201760,
+      "name": "Red Light",
+      "url": "https://open.spotify.com/track/2WgUntfJ6wcxzUTHcqOQ5M"
     },
     {
       "added_at": null,
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Peepshow (Remastered And Expanded)",
-        "url": "https://open.spotify.com/album/4g4aSVUuOJCoW2vKhTavXp"
-      },
-      "artists": [
-        {
-          "name": "Siouxsie and the Banshees",
-          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
-        }
-      ],
-      "duration_ms": 245146,
-      "name": "The Killing Jar",
-      "url": "https://open.spotify.com/track/1j0UWLVjMbBEQdqfI1CSQf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Superstition (Expanded Edition)",
         "url": "https://open.spotify.com/album/0MNKE093cSDfCrABTCCXwP"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 201373,
       "name": "Little Sister",
       "url": "https://open.spotify.com/track/03yJJ5Fv6RZ9CP0WoQ4fza"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Peepshow (Remastered And Expanded)",
+        "url": "https://open.spotify.com/album/4g4aSVUuOJCoW2vKhTavXp"
+      },
+      "artists": [
+        {
+          "name": "Siouxsie and the Banshees",
+          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
+        }
+      ],
+      "duration_ms": 245146,
+      "name": "The Killing Jar",
+      "url": "https://open.spotify.com/track/1j0UWLVjMbBEQdqfI1CSQf"
     },
     {
       "added_at": null,
@@ -571,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Rapture (Remastered / Expanded)",
-        "url": "https://open.spotify.com/album/0w03cDwFhaT9BKE12PSvMJ"
+        "name": "Join Hands",
+        "url": "https://open.spotify.com/album/4FnKGH6piIJse7MUiYtQfj"
       },
       "artists": [
         {
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
         }
       ],
-      "duration_ms": 197946,
-      "name": "Stargazer",
-      "url": "https://open.spotify.com/track/0JoshvvOkRzlbbrrveImUE"
+      "duration_ms": 154066,
+      "name": "Love In A Void",
+      "url": "https://open.spotify.com/track/3iDWWZIkshPqItx3wBCiFf"
     },
     {
       "added_at": null,
@@ -619,8 +619,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Join Hands",
-        "url": "https://open.spotify.com/album/4FnKGH6piIJse7MUiYtQfj"
+        "name": "The Rapture (Remastered / Expanded)",
+        "url": "https://open.spotify.com/album/0w03cDwFhaT9BKE12PSvMJ"
       },
       "artists": [
         {
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
         }
       ],
-      "duration_ms": 154066,
-      "name": "Love In A Void",
-      "url": "https://open.spotify.com/track/3iDWWZIkshPqItx3wBCiFf"
+      "duration_ms": 197946,
+      "name": "Stargazer",
+      "url": "https://open.spotify.com/track/0JoshvvOkRzlbbrrveImUE"
     },
     {
       "added_at": null,
@@ -651,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Through The Looking Glass (Remastered And Expanded)",
-        "url": "https://open.spotify.com/album/7kEqVGkLoruahp34YW16oe"
+        "name": "Peepshow (Remastered And Expanded)",
+        "url": "https://open.spotify.com/album/4g4aSVUuOJCoW2vKhTavXp"
       },
       "artists": [
         {
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
         }
       ],
-      "duration_ms": 246093,
-      "name": "Trust In Me",
-      "url": "https://open.spotify.com/track/3I3A3OSbPD04tzkc62iYqq"
+      "duration_ms": 270946,
+      "name": "The Last Beat Of My Heart",
+      "url": "https://open.spotify.com/track/1V1YzBdPZB1DVowObsInWF"
     },
     {
       "added_at": null,
@@ -683,8 +683,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Peepshow (Remastered And Expanded)",
-        "url": "https://open.spotify.com/album/4g4aSVUuOJCoW2vKhTavXp"
+        "name": "Through The Looking Glass (Remastered And Expanded)",
+        "url": "https://open.spotify.com/album/7kEqVGkLoruahp34YW16oe"
       },
       "artists": [
         {
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
         }
       ],
-      "duration_ms": 270946,
-      "name": "The Last Beat Of My Heart",
-      "url": "https://open.spotify.com/track/1V1YzBdPZB1DVowObsInWF"
+      "duration_ms": 246093,
+      "name": "Trust In Me",
+      "url": "https://open.spotify.com/track/3I3A3OSbPD04tzkc62iYqq"
     },
     {
       "added_at": null,
@@ -731,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Through The Looking Glass (Remastered And Expanded)",
-        "url": "https://open.spotify.com/album/7kEqVGkLoruahp34YW16oe"
-      },
-      "artists": [
-        {
-          "name": "Siouxsie and the Banshees",
-          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
-        }
-      ],
-      "duration_ms": 188866,
-      "name": "This Town Ain't Big Enough For Both Of Us",
-      "url": "https://open.spotify.com/track/1lc3fDoaJfulun0scRNXDJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hyaena (Remastered And Expanded)",
         "url": "https://open.spotify.com/album/0PF97T9K2E95PV4AbICNjr"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 244360,
       "name": "Swimming Horses",
       "url": "https://open.spotify.com/track/7IbyGtg6Ujai5JXAK2Arlj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Through The Looking Glass (Remastered And Expanded)",
+        "url": "https://open.spotify.com/album/7kEqVGkLoruahp34YW16oe"
+      },
+      "artists": [
+        {
+          "name": "Siouxsie and the Banshees",
+          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
+        }
+      ],
+      "duration_ms": 188866,
+      "name": "This Town Ain't Big Enough For Both Of Us",
+      "url": "https://open.spotify.com/track/1lc3fDoaJfulun0scRNXDJ"
     },
     {
       "added_at": null,

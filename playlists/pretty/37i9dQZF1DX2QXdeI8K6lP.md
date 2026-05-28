@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QXdeI8K6lP.md) - [plain]
 
 > Música que te hará suspirar como en aquellos años dorados\. Los Panchos en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 367,243 likes - 100 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 367,288 likes - 100 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,13 +49,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QXdeI8K6lP.md) - [plain]
 | 39 | [Cha Cha Linda](https://open.spotify.com/track/6HAcngnAkOIgpfU0jGsXri) | [Hermanos Martinez Gil](https://open.spotify.com/artist/28L8txPUafzgMa9HllGtlv) | [RCA 100 Años de Música](https://open.spotify.com/album/4mNUyuDnmgm2GGe9qnW7Y1) | 3:00 |
 | 40 | [Talisman](https://open.spotify.com/track/2eK0oqBA9QMoV0nOavJTS3) | [Antonio Badu](https://open.spotify.com/artist/3HMS8RHr7RqTB1vj8igPkl) | [Frente A Frente](https://open.spotify.com/album/49xPknFfNTCPZH6ZRyuekN) | 3:16 |
 | 41 | [Empiezo a Extrañarte](https://open.spotify.com/track/3lLSg8IEC1MEjk4zA1Dz0U) | [Las Sombras](https://open.spotify.com/artist/1QDqOOONr11np0HEOPMVTI) | [Personalidad \- Los Grandes Trios \- Las Sombras](https://open.spotify.com/album/7y2WIsOp0LrL9dJjjhDE66) | 2:38 |
-| 42 | [Que Nadie Sepa Mi Sufrir](https://open.spotify.com/track/3V4bMgeel5aUjLPMuDxMN3) | [Los Tres Reyes](https://open.spotify.com/artist/6QZS9lcGeckgZNy0PN7R7u) | [The Golden Record Vol\. 2](https://open.spotify.com/album/7yNwQGXtWVHxTqdXFf8eLf) | 3:10 |
-| 43 | [Esta Tarde Vi Llover](https://open.spotify.com/track/56jakCjFeneCQMMq8aNFyt) | [Las Lagrimas](https://open.spotify.com/artist/4CFUyjHnUwIb4SryCWffqN) | [Esta Tarde Vi Llover](https://open.spotify.com/album/6HR4q9Dz5DpbZ4VxBuvGOb) | 2:23 |
+| 42 | [Esta Tarde Vi Llover](https://open.spotify.com/track/56jakCjFeneCQMMq8aNFyt) | [Las Lagrimas](https://open.spotify.com/artist/4CFUyjHnUwIb4SryCWffqN) | [Esta Tarde Vi Llover](https://open.spotify.com/album/6HR4q9Dz5DpbZ4VxBuvGOb) | 2:23 |
+| 43 | [Que Nadie Sepa Mi Sufrir](https://open.spotify.com/track/3V4bMgeel5aUjLPMuDxMN3) | [Los Tres Reyes](https://open.spotify.com/artist/6QZS9lcGeckgZNy0PN7R7u) | [The Golden Record Vol\. 2](https://open.spotify.com/album/7yNwQGXtWVHxTqdXFf8eLf) | 3:10 |
 | 44 | [Cancionero](https://open.spotify.com/track/3HRqqfLJXMvEcqflLpy5Os) | [Alvaro Carrillo](https://open.spotify.com/artist/5mJPpY55svdSmufkSBA0Kp) | [15 Exitos De Alvaro Carillo Con Sus Mejors](https://open.spotify.com/album/5vJB4gDDskT2hKKfsKbcNr) | 2:06 |
 | 45 | [Mar y Cielo](https://open.spotify.com/track/1Y4Mmj1ssPrXQpkImdctyA) | [Hermanos Martinez Gil](https://open.spotify.com/artist/28L8txPUafzgMa9HllGtlv) | [RCA 100 Años de Música](https://open.spotify.com/album/4mNUyuDnmgm2GGe9qnW7Y1) | 2:43 |
 | 46 | [Amor Que Malo Eres](https://open.spotify.com/track/4OYUiD0OpoCbUGKqRbBOMm) | [Los Tres Diamantes](https://open.spotify.com/artist/1xw1uyV0tzUHU2d850PAH1) | [Tres Super Trios](https://open.spotify.com/album/0YJaOjYj6ljHzadphJcpMY) | 2:38 |
-| 47 | [Novia Mía](https://open.spotify.com/track/5IJ691iklYJBremu40wZLI) | [Los Tres Reyes](https://open.spotify.com/artist/6QZS9lcGeckgZNy0PN7R7u) | [The Golden Record, Vol\. 1](https://open.spotify.com/album/60IfvvlBBoGXZpCFVS6KSF) | 2:31 |
-| 48 | [Regálame Esta Noche](https://open.spotify.com/track/0fkRaCCLExhD6SisSRntlw) | [Los Tres Caballeros](https://open.spotify.com/artist/0ou4IrIjMSANpaPTL8lC3F) | [Frente a Frente de Tríos](https://open.spotify.com/album/0TibhurVSsO5rf4tq4hEy9) | 3:18 |
+| 47 | [Regálame Esta Noche](https://open.spotify.com/track/0fkRaCCLExhD6SisSRntlw) | [Los Tres Caballeros](https://open.spotify.com/artist/0ou4IrIjMSANpaPTL8lC3F) | [Frente a Frente de Tríos](https://open.spotify.com/album/0TibhurVSsO5rf4tq4hEy9) | 3:18 |
+| 48 | [Novia Mía](https://open.spotify.com/track/5IJ691iklYJBremu40wZLI) | [Los Tres Reyes](https://open.spotify.com/artist/6QZS9lcGeckgZNy0PN7R7u) | [The Golden Record, Vol\. 1](https://open.spotify.com/album/60IfvvlBBoGXZpCFVS6KSF) | 2:31 |
 | 49 | [Piel Canela](https://open.spotify.com/track/2qnpSf8OfsFVRxxeW0wnet) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz), [Eydie Gormé](https://open.spotify.com/artist/6HnHBbeScFiQKXt3sUQA3Z) | [Los Panchos \- Éxitos Esenciales](https://open.spotify.com/album/2aHrO8JUDQl22WqyvfaYBD) | 2:22 |
 | 50 | [Cuidadito, Cuidadito](https://open.spotify.com/track/2eNyia284twoi86yKlDFxV) | [Maria Victoria](https://open.spotify.com/artist/2kCMFGCTWev6UdoLwVKCDb) | [Dame Que Te Doy](https://open.spotify.com/album/61TnSCAvXeFGjVF5TVSjJs) | 3:11 |
 | 51 | [Cuando Me Vaya](https://open.spotify.com/track/0fTYREc0bWpuqWekaUaLuI) | [Los Tres Diamantes](https://open.spotify.com/artist/1xw1uyV0tzUHU2d850PAH1) | [Tres Super Trios](https://open.spotify.com/album/0YJaOjYj6ljHzadphJcpMY) | 3:06 |

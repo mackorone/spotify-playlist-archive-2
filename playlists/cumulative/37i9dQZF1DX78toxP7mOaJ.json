@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Fresh rock & alternative from independent artists every Wednesday. Cover: casi",
+  "description": "Fresh rock & alternative from independent artists every Wednesday. Cover: Lina-Mariah",
   "name": "Fresh Finds Rock",
   "tracks": [
     {
@@ -18522,7 +18522,7 @@
       ],
       "date_added": "2026-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-28",
       "duration_ms": 159315,
       "name": "I Don't Wanna Go!",
       "url": "https://open.spotify.com/track/27FgGNuuHsFs84Gzhhs1x0"
@@ -24384,7 +24384,7 @@
       ],
       "date_added": "2026-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-28",
       "duration_ms": 266711,
       "name": "Mirror Image",
       "url": "https://open.spotify.com/track/1V0fZ1kR1zAX4yHJo58PNb"
@@ -27663,6 +27663,24 @@
     },
     {
       "album": {
+        "name": "Unexpected Violence",
+        "url": "https://open.spotify.com/album/218ocNVkMKsrahZGNHP5sJ"
+      },
+      "artists": [
+        {
+          "name": "School Fair",
+          "url": "https://open.spotify.com/artist/2QPVdwHQoGwMiWEDHT8HF7"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211480,
+      "name": "Outside Looking In",
+      "url": "https://open.spotify.com/track/16fC9u5rAOIAtu480m9niw"
+    },
+    {
+      "album": {
         "name": "outsider",
         "url": "https://open.spotify.com/album/5mYrCk5fDhKwIQFW67MlFD"
       },
@@ -28578,7 +28596,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-28",
       "duration_ms": 309973,
       "name": "Picto",
       "url": "https://open.spotify.com/track/4WcvzX139qMLYTlPcCUoAn"
@@ -35911,6 +35929,24 @@
     },
     {
       "album": {
+        "name": "Swimming",
+        "url": "https://open.spotify.com/album/43HPezMT31iXB1IoX6ZGkN"
+      },
+      "artists": [
+        {
+          "name": "Growing Pains",
+          "url": "https://open.spotify.com/artist/7gs3Tf4aBE9fD2bS9TzoGc"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183720,
+      "name": "Swimming",
+      "url": "https://open.spotify.com/track/2S0pu11hiDpyxvapmxZbvW"
+    },
+    {
+      "album": {
         "name": "Swiss Army Girl",
         "url": "https://open.spotify.com/album/5eHuvPq3RTMokw2qOBxPHY"
       },
@@ -40728,6 +40764,24 @@
       "duration_ms": 138944,
       "name": "What's The Point In Life",
       "url": "https://open.spotify.com/track/18BRLFiAfy2GFQlVF62CFg"
+    },
+    {
+      "album": {
+        "name": "Whatever",
+        "url": "https://open.spotify.com/album/1BaR0QSNMtVK3mn0fIyDlt"
+      },
+      "artists": [
+        {
+          "name": "Lina-Mariah",
+          "url": "https://open.spotify.com/artist/3oCoTG5YGC6Z8cqH942oav"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168552,
+      "name": "Whatever",
+      "url": "https://open.spotify.com/track/3wUqbA1hc4bu2R0KiM0TTi"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 
 > Summer has a way of slowing us down and bringing us together\. This playlist is a mix of new favorites and familiar sounds — songs for long drives, late afternoons, and evenings that stretch a little longer than planned.Hope you find something here that makes the season feel just right.
 
-[SoundsDeli](https://open.spotify.com/user/soundsdeli) - 132,023 likes - 185 songs - 10 hr 52 min
+[SoundsDeli](https://open.spotify.com/user/soundsdeli) - 132,032 likes - 169 songs - 9 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -177,21 +177,5 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 | 167 | [still buffering](https://open.spotify.com/track/0c1SUwfFci7ceqFyPJE1mW) | [Papa Penny](https://open.spotify.com/artist/01u0xYeckueMt9IPBlwaNy) | [still buffering](https://open.spotify.com/album/4tRXse1iKg6MJkVhoOmi9q) | 3:00 |
 | 168 | [Lights from Container Ships](https://open.spotify.com/track/6Osy3fAqkAmyMXXvTD00dE) | [Duane Face](https://open.spotify.com/artist/2GBtCXYYPAPLMkFArqAkUU) | [Lights from Container Ships](https://open.spotify.com/album/4b8PPBZL6vEiRyijRaPG3q) | 3:45 |
 | 169 | [Home \- Radio Edit](https://open.spotify.com/track/0VysRLcBgZDntjGDDjyPt9) | [Mynd Reader](https://open.spotify.com/artist/2976jTq74lJjk558IAKu2r) | [Home](https://open.spotify.com/album/7HJqawKIEINVOWzf2QrnIv) | 4:05 |
-| 170 | [Beat The Odds](https://open.spotify.com/track/1VbKxpZF1gB2Z6UlTGkr1p) | [Aditya Rao](https://open.spotify.com/artist/1R1TnxUWLvnOzsBChmemTa), [Will Shine](https://open.spotify.com/artist/6JKDAQSjJcVMiQlKxXM25A) | [Beat The Odds](https://open.spotify.com/album/22W4T7RDVsueNdroN4tk0Z) | 3:55 |
-| 171 | [Jealous](https://open.spotify.com/track/4fotcSETEbqwj6Tketx9bT) | [Donel baka](https://open.spotify.com/artist/0zchm2BsO7Yi0dAKJegdZ2) | [Jealous](https://open.spotify.com/album/4j24RsHRnRM5eAmfknxmWx) | 2:31 |
-| 172 | [FS](https://open.spotify.com/track/3VJdtJgAeGMblBjzE0W8mJ) | [Artyst D](https://open.spotify.com/artist/2UAv7fPOOTS9d2fYbYNe9r), [Big Ap](https://open.spotify.com/artist/15Z3tvZmB2c5Zqis95a550) | [Inside My Thoughts](https://open.spotify.com/album/4EHPrmXf94v7WsCaM3zMu6) | 3:48 |
-| 173 | [Don’t Wanna Play No More](https://open.spotify.com/track/3Nau6JYpa3jEDP7p06Zz7e) | [Miguel OzoX](https://open.spotify.com/artist/6t2yII97Uy6H9ZgUN323rU) | [Don’t Wanna Play No More](https://open.spotify.com/album/0sbFMhu4McCVs3JUepFzd3) | 2:42 |
-| 174 | [Mourning Light](https://open.spotify.com/track/2wLVS7g0ENJmtrBQxFb3xF) | [Mynd Reader](https://open.spotify.com/artist/2976jTq74lJjk558IAKu2r) | [Mourning Light](https://open.spotify.com/album/4tv7wq0NDZ4WPM6KviIN1O) | 4:14 |
-| 175 | [YOU ARE MY ONLY WISH](https://open.spotify.com/track/3UFbz0hHcU3EeV7IM0Grcc) | [Bogdan Lech](https://open.spotify.com/artist/2VPUUltNAtSe8CqGlSrLQG) | [YOU ARE MY ONLY WISH](https://open.spotify.com/album/6cX9Kwjlhv7Iu3Nss9Q6uf) | 3:28 |
-| 176 | [Bar Again](https://open.spotify.com/track/3xcZgDjZVYTtldGyJ064po) | [Preston Ary Band](https://open.spotify.com/artist/1AOaWc4sYenHJu16fembz0) | [Bar Again](https://open.spotify.com/album/0bMgvDDrTPaP6GGPQVQaWd) | 3:19 |
-| 177 | [Tudo o Que Não Fiz](https://open.spotify.com/track/6x9viOhPYo4L6kei7xHgIj) | [Tranquiliza](https://open.spotify.com/artist/7duHwkW7rYvLQ0dxrghENP) | [Tudo o Que Não Fiz](https://open.spotify.com/album/0dmwl9DroEBf8J1X5Rg6ta) | 2:51 |
-| 178 | [MAMA NO BABA](https://open.spotify.com/track/1pvU6Myb4ke1quN7LL5QYL) | [SWAGGxTheDJ](https://open.spotify.com/artist/3SDtHol3DZG7QOLSbEHk7L) | [UKUTHI NGIZIZWE NJANI](https://open.spotify.com/album/5lwV1s9g4vF8CgMGkfodE8) | 5:32 |
-| 179 | [4U](https://open.spotify.com/track/5zozfYTFSNa7WVafQeqkug) | [Chukason Don](https://open.spotify.com/artist/1MgSVk1rWQPiPOfQYqoX4D), [Rhyma](https://open.spotify.com/artist/1j1fZpqk1Rov3O8bLIxvGL) | [4U](https://open.spotify.com/album/40foFCFUKD64s0u4uIHj5f) | 2:49 |
-| 180 | [Dale Suave](https://open.spotify.com/track/016wkLqhq1dVVQpurcEGTJ) | [Doctor Z](https://open.spotify.com/artist/6nPbh1oAVQT13nNySEciCb) | [Dale Suave](https://open.spotify.com/album/3co5JVPpmrCBgacRtLNRyx) | 2:50 |
-| 181 | [Absence of Doubts](https://open.spotify.com/track/7FDqajUaFKkb6ALgSULrZo) | [Co.Lega](https://open.spotify.com/artist/6hJUILFM2czJbHBlvjjndq) | [NOBODY GOES TO HEAVEN](https://open.spotify.com/album/7DCc36DHMpuNwOVotzLWS7) | 3:25 |
-| 182 | [Stay with Me](https://open.spotify.com/track/0Al7A7rcrP8b3l8yJHYC1b) | [Prince Sohan](https://open.spotify.com/artist/6zCxXv0GO8LaRSNLOSr0i0) | [Dark Fantasy](https://open.spotify.com/album/3PSMfJrQpKhyKlShdj8dxE) | 2:54 |
-| 183 | [Esquecível](https://open.spotify.com/track/0tnYLeQ1MuUS6ADZDKEujb) | [Impius](https://open.spotify.com/artist/7fTS2027gmTUYlBlxTUSDa) | [Esquecível](https://open.spotify.com/album/4d4DoCyttxERhErscOyNAG) | 2:38 |
-| 184 | [Ancient Fire \(Tiv Ancestral Roots\)](https://open.spotify.com/track/2qXCn3aYG1skMN9OkT8y8p) | [Biggypablo](https://open.spotify.com/artist/2JDXzKgQ5XfBYxCPnURp5y) | [Ancient Fire \(Tiv Ancestral Roots\)](https://open.spotify.com/album/0X4LqxvPhDT3Unzglmiv7z) | 5:13 |
-| 185 | [Cowboy Love Me](https://open.spotify.com/track/5l9lCwJqZX3atwpnaqbhPJ) | [Lucie Tiger](https://open.spotify.com/artist/7kpz1LLc30Bw6zId3wst3e) | [Cowboy Love Me](https://open.spotify.com/album/1JwhYqsZwNTh0XcGaySJsi) | 2:49 |
 
-Snapshot ID: `AAA7J1DbksqDrdDRrdirPnQWF50ysziC`
+Snapshot ID: `AAA7N+qKK3fyvI87m+UWrFuRsuBHMboo`

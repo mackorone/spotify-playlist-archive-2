@@ -1,12 +1,12 @@
 {
   "description": "This is T.I BLAZE. The essential tracks, all in one playlist.",
-  "num_followers": 10727,
+  "num_followers": 10739,
   "original_name": "This Is T.I BLAZE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahORAAAAAADTAJ6Zw95Wj7QknUIBL7ve",
+  "snapshot_id": "ahTigAAAAAB7hOwZ3cOrHALP5FrVISO3",
   "tracks": [
     {
       "added_at": null,
@@ -478,15 +478,11 @@
         {
           "name": "T.I BLAZE",
           "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
-        },
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
         }
       ],
-      "duration_ms": 144552,
-      "name": "Alone (feat. Bella Shmurda)",
-      "url": "https://open.spotify.com/track/6Vnic3NfaQH8Mmfzf5fGFE"
+      "duration_ms": 134736,
+      "name": "Lock Up",
+      "url": "https://open.spotify.com/track/4mMPMgxDded2eGZdwbRwET"
     },
     {
       "added_at": null,
@@ -554,11 +550,15 @@
         {
           "name": "T.I BLAZE",
           "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+        },
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
         }
       ],
-      "duration_ms": 134736,
-      "name": "Lock Up",
-      "url": "https://open.spotify.com/track/4mMPMgxDded2eGZdwbRwET"
+      "duration_ms": 144552,
+      "name": "Alone (feat. Bella Shmurda)",
+      "url": "https://open.spotify.com/track/6Vnic3NfaQH8Mmfzf5fGFE"
     },
     {
       "added_at": null,
@@ -747,6 +747,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "DUPE",
+        "url": "https://open.spotify.com/album/1BynWE5Yx8FyyGeBITcuEh"
+      },
+      "artists": [
+        {
+          "name": "T.I BLAZE",
+          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+        },
+        {
+          "name": "Temadey",
+          "url": "https://open.spotify.com/artist/655vDDQSEnUaFqWzWqBaEv"
+        }
+      ],
+      "duration_ms": 188212,
+      "name": "DUPE",
+      "url": "https://open.spotify.com/track/0hMqF6NlfWoxLAHe0OkIBw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bere Mi (Reimagined)",
         "url": "https://open.spotify.com/album/42x5ZLOr1xOkVJ7jSzaLui"
       },
@@ -771,26 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Everyday",
-        "url": "https://open.spotify.com/album/4C8j7K4ehmB0YLpEeMmehG"
-      },
-      "artists": [
-        {
-          "name": "TMP Offisial",
-          "url": "https://open.spotify.com/artist/52jKSXLfV0wNVqXrGWhtUi"
-        },
-        {
-          "name": "T.I BLAZE",
-          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
-        }
-      ],
-      "duration_ms": 190769,
-      "name": "Everyday",
-      "url": "https://open.spotify.com/track/4Yj0vmMOII0gSmE51jy3wk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dangerous Wavy Baby",
         "url": "https://open.spotify.com/album/4FJBxFUnQAO5w1s3oCbgyW"
       },
@@ -811,26 +811,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Never Stop Vol. 1",
-        "url": "https://open.spotify.com/album/45fYE42AOHnBxsOFcKSoxw"
+        "name": "Everyday",
+        "url": "https://open.spotify.com/album/4C8j7K4ehmB0YLpEeMmehG"
       },
       "artists": [
         {
-          "name": "PaBrymo",
-          "url": "https://open.spotify.com/artist/2qRMjF0Cf2In67xEORWuwk"
-        },
-        {
-          "name": "Rexxie",
-          "url": "https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku"
+          "name": "TMP Offisial",
+          "url": "https://open.spotify.com/artist/52jKSXLfV0wNVqXrGWhtUi"
         },
         {
           "name": "T.I BLAZE",
           "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
         }
       ],
-      "duration_ms": 149786,
-      "name": "Overload (Kala)",
-      "url": "https://open.spotify.com/track/6pHH6JsPF4OoQBqk7aNcQa"
+      "duration_ms": 190769,
+      "name": "Everyday",
+      "url": "https://open.spotify.com/track/4Yj0vmMOII0gSmE51jy3wk"
     },
     {
       "added_at": null,

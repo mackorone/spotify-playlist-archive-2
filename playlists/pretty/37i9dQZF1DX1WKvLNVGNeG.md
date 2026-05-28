@@ -2,11 +2,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WKvLNVGNeG.md) - [plain]
 
 ### [Transport to New Realms \(2\)](https://open.spotify.com/playlist/37i9dQZF1DX1WKvLNVGNeG)
 
-> 
+> Fantasy and sci\-fi books where the rules are rewritten and queer stories lead the way.
 
 [Spotify](https://open.spotify.com/user/spotify) - 23 likes - 0 song - 0 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 
-Snapshot ID: `AAAAACNDGCfAsp9NaFguP72bMwxR1SVU`
+Snapshot ID: `AAAAAL8lIOiFFkQNixLPfet864IDntuU`

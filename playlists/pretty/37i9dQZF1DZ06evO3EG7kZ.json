@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahORAAAAAAD6q+fKELs8LVZhBfdfXjIe",
+  "snapshot_id": "ahTigAAAAAB7PYeCTKcq3qG7W3EOlMPv",
   "tracks": [
     {
       "added_at": null,
@@ -98,15 +98,11 @@
         {
           "name": "Helena Czajka",
           "url": "https://open.spotify.com/artist/4rA0u7NMQXLrfhX6Sf9pmO"
-        },
-        {
-          "name": "Jazz D'Arcy",
-          "url": "https://open.spotify.com/artist/2LemGUdMgljx9x6YVkfLij"
         }
       ],
-      "duration_ms": 196019,
-      "name": "I Know a Place (The Creek Song)",
-      "url": "https://open.spotify.com/track/5bF4MESYAJUpUmrGuhyGON"
+      "duration_ms": 189707,
+      "name": "Creek is Beautiful!",
+      "url": "https://open.spotify.com/track/3IX0GkNlQyjPi3GLtjhMdt"
     },
     {
       "added_at": null,
@@ -186,11 +182,15 @@
         {
           "name": "Helena Czajka",
           "url": "https://open.spotify.com/artist/4rA0u7NMQXLrfhX6Sf9pmO"
+        },
+        {
+          "name": "Jazz D'Arcy",
+          "url": "https://open.spotify.com/artist/2LemGUdMgljx9x6YVkfLij"
         }
       ],
-      "duration_ms": 189707,
-      "name": "Creek is Beautiful!",
-      "url": "https://open.spotify.com/track/3IX0GkNlQyjPi3GLtjhMdt"
+      "duration_ms": 196019,
+      "name": "I Know a Place (The Creek Song)",
+      "url": "https://open.spotify.com/track/5bF4MESYAJUpUmrGuhyGON"
     },
     {
       "added_at": null,

@@ -12923,6 +12923,24 @@
     },
     {
       "album": {
+        "name": "Vazinga boyy your favorite boy",
+        "url": "https://open.spotify.com/album/6qeAnuWwyDaEZ7O8ADmI8o"
+      },
+      "artists": [
+        {
+          "name": "Lisa lil vinci",
+          "url": "https://open.spotify.com/artist/7ArD0uoFbEMDotjrvdrjwH"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153675,
+      "name": "idontwannagohometonight",
+      "url": "https://open.spotify.com/track/6oh5THmzOieyVqQIOyVAq0"
+    },
+    {
+      "album": {
         "name": "Skipping Tape Vol.2",
         "url": "https://open.spotify.com/album/5lkW0c275CAqcgxJLaj5n4"
       },
@@ -15596,7 +15614,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-28",
       "duration_ms": 185600,
       "name": "Limited (feat. Lisa lil vinci)",
       "url": "https://open.spotify.com/track/46xcLrdirWaKamdHw7RV0H"
@@ -20071,7 +20089,7 @@
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 163804,
+      "duration_ms": 163366,
       "name": "OYJ",
       "url": "https://open.spotify.com/track/3p18KC7lAWs6dy5PgaRx3K"
     },

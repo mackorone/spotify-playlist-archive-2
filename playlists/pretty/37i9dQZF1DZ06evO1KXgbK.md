@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1KXgbK.md) - [plain]
 
 > This is Dolly Parton\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 255,615 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 255,610 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1KXgbK.md) - [plain]
 | 49 | [Do I Ever Cross Your Mind?](https://open.spotify.com/track/6A8spBZpLjC8LBPRf2TgJD) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Heartbreak Express](https://open.spotify.com/album/1Tmt7x17O34uvQ14MXLycy) | 4:04 |
 | 50 | [Before The Next Teardrop Falls](https://open.spotify.com/track/0AupRfqKZlAH0IAu29IjFR) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [David Hidalgo](https://open.spotify.com/artist/4pp6PKB7hDh3LqQVuSrHTD) | [Treasures](https://open.spotify.com/album/3tDqwmruXhYiBBVJuoQcGb) | 4:07 |
 
-Snapshot ID: `ahORAAAAAAAdOdcxg+M2Ko8KlRpYo23J`
+Snapshot ID: `ahTigAAAAAAneksaIP7pPQMT7bQX67se`

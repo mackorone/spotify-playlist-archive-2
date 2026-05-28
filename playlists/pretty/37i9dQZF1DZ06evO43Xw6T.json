@@ -1,12 +1,12 @@
 {
   "description": "This is Gabito Ballesteros. The essential tracks, all in one playlist.",
-  "num_followers": 183823,
+  "num_followers": 183854,
   "original_name": "This Is Gabito Ballesteros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahORAAAAAADXKMNnn6lWbXgomBRccOmn",
+  "snapshot_id": "ahTigAAAAAAj/fuAXUn35eBL4dwZ4S5K",
   "tracks": [
     {
       "added_at": null,
@@ -959,26 +959,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ESCONDIDAS",
-        "url": "https://open.spotify.com/album/2G1eSgMejHicDNwJCh5ul0"
-      },
-      "artists": [
-        {
-          "name": "Oscar Ortiz",
-          "url": "https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 173034,
-      "name": "ESCONDIDAS",
-      "url": "https://open.spotify.com/track/5BaNuIRKWt4CHdWi4LGe2M"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Gabacho",
         "url": "https://open.spotify.com/album/0LKe7YF4Yozxq5Z75jhAsq"
       },
@@ -1019,6 +999,26 @@
       "duration_ms": 205141,
       "name": "Sonrisa Colgate",
       "url": "https://open.spotify.com/track/1zlbnoJE5NabN9STMIYmf1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ESCONDIDAS",
+        "url": "https://open.spotify.com/album/2G1eSgMejHicDNwJCh5ul0"
+      },
+      "artists": [
+        {
+          "name": "Oscar Ortiz",
+          "url": "https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 173034,
+      "name": "ESCONDIDAS",
+      "url": "https://open.spotify.com/track/5BaNuIRKWt4CHdWi4LGe2M"
     },
     {
       "added_at": null,

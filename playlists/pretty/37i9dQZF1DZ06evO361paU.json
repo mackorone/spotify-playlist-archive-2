@@ -1,12 +1,12 @@
 {
   "description": "This is Lenny Kravitz. The essential tracks, all in one playlist.",
-  "num_followers": 296504,
+  "num_followers": 296552,
   "original_name": "This Is Lenny Kravitz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahORAAAAAAD3DMjn0+Uxm7HmE/atFgrk",
+  "snapshot_id": "ahTigAAAAAAJdjG/A/mxClUtVZjrkSMW",
   "tracks": [
     {
       "added_at": null,
@@ -495,6 +495,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Black and White America",
+        "url": "https://open.spotify.com/album/6LNHjMWCREImapsd1poDNg"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 208626,
+      "name": "Superlove",
+      "url": "https://open.spotify.com/track/4fdpN3bXYQcPrBbFWSD6K3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Backatown",
         "url": "https://open.spotify.com/album/5J26uchSALEhy9xwkdeV5a"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 221360,
       "name": "Something Beautiful",
       "url": "https://open.spotify.com/track/1ZESGzWrFSwXPplkscUsUR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Black and White America",
-        "url": "https://open.spotify.com/album/6LNHjMWCREImapsd1poDNg"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 208626,
-      "name": "Superlove",
-      "url": "https://open.spotify.com/track/4fdpN3bXYQcPrBbFWSD6K3"
     },
     {
       "added_at": null,

@@ -7443,6 +7443,24 @@
     },
     {
       "album": {
+        "name": "RYAN TED",
+        "url": "https://open.spotify.com/album/2U9mwmcJrUmkIpJm9gq8n7"
+      },
+      "artists": [
+        {
+          "name": "Tedua",
+          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167876,
+      "name": "Ryan Ted Freestyle",
+      "url": "https://open.spotify.com/track/6xyco3qjTY4RjPpYFOy7Uj"
+    },
+    {
+      "album": {
         "name": "Midnite (Deluxe Version)",
         "url": "https://open.spotify.com/album/1gjwWKqjQMhi5OvWG38ZEW"
       },
@@ -8766,6 +8784,24 @@
       "duration_ms": 182473,
       "name": "Veleno 8 (feat. Gemitaiz)",
       "url": "https://open.spotify.com/track/06OBAy97uVyHCZvonvgfE2"
+    },
+    {
+      "album": {
+        "name": "RYAN TED",
+        "url": "https://open.spotify.com/album/2U9mwmcJrUmkIpJm9gq8n7"
+      },
+      "artists": [
+        {
+          "name": "Tedua",
+          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173536,
+      "name": "Veliero di Carta",
+      "url": "https://open.spotify.com/track/1tslB5YE0OqWUzBLrmz2uK"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 
 > Objectively good music
 
-[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 1,264 songs - 3 day 5 hr 51 min
+[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 1,265 songs - 3 day 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1272,5 +1272,6 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 | 1262 | [Feel](https://open.spotify.com/track/67YTj3YV37MZ5pv266bzOx) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [The Long and Short of It](https://open.spotify.com/album/6pUiy5Z2QoIV0JOiKlu3aQ) | 2:48 |
 | 1263 | [Musician](https://open.spotify.com/track/7k6jxIMMAcXjHnbbHmGC9H) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [Nurture](https://open.spotify.com/album/3QITXlmmt93E176jzVqKUb) | 3:58 |
 | 1264 | [Mad at Me](https://open.spotify.com/track/5avJdJjXtHN9ADFeSn1pDq) | [forgive yourself](https://open.spotify.com/artist/4R0PDznz6UhsZTqglLC8Yq) | [Songs I'll Never Release](https://open.spotify.com/album/6a1cLgO7MZ6nFJcRfh5kjE) | 2:43 |
+| 1265 | [Dark Magic](https://open.spotify.com/track/60hga4vu4erXRxcxEGDLMQ) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [Dark Magic](https://open.spotify.com/album/1iBUPWKDIoHqRhNxmnNQps) | 2:55 |
 
-Snapshot ID: `AAAJ7zKhYTdGUrvk49gvO/x8zf1j4OLj`
+Snapshot ID: `AAAJ8HEuO8XdYHUrWLRtWkU4eRI/7CQh`

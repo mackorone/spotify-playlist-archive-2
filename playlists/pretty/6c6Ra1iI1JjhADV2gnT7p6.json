@@ -1,12 +1,12 @@
 {
   "description": "A weekly rotation of new indie,  alternative, dreampop, electronic, postpunk and lofi music \ud83d\udc9c",
-  "num_followers": 60148,
+  "num_followers": 60157,
   "original_name": "Compact Cassette",
   "owner": {
     "name": "David Dean Burkhart",
     "url": "https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j"
   },
-  "snapshot_id": "AABAOHAyej5hXcGZoi/9vH0SU+2GaYxb",
+  "snapshot_id": "AABAOTc9EPZmQnOvISFK3iyWyxso6bXr",
   "tracks": [
     {
       "added_at": "2026-05-23 12:49:59",
@@ -7987,6 +7987,22 @@
     {
       "added_at": "2026-05-16 11:12:00",
       "album": {
+        "name": "Brief Encounters",
+        "url": "https://open.spotify.com/album/4A9rJakDG0SYfIq9fuwli1"
+      },
+      "artists": [
+        {
+          "name": "Fairhazel",
+          "url": "https://open.spotify.com/artist/0U5fdV8QHxk7Qc82vXWoHn"
+        }
+      ],
+      "duration_ms": 158923,
+      "name": "Missed Connections",
+      "url": "https://open.spotify.com/track/5P4l5jMl65PtWa9NPfn6aI"
+    },
+    {
+      "added_at": "2026-05-16 11:12:00",
+      "album": {
         "name": "Some Kind Of Heaven",
         "url": "https://open.spotify.com/album/6SSGkBbWRgwGTOteOz2HXM"
       },
@@ -8015,22 +8031,6 @@
       "duration_ms": 184210,
       "name": "Dreaming",
       "url": "https://open.spotify.com/track/53Jv8qV29lJ4SrHU0CMeyN"
-    },
-    {
-      "added_at": "2026-05-16 11:12:00",
-      "album": {
-        "name": "Brief Encounters",
-        "url": "https://open.spotify.com/album/4A9rJakDG0SYfIq9fuwli1"
-      },
-      "artists": [
-        {
-          "name": "Fairhazel",
-          "url": "https://open.spotify.com/artist/0U5fdV8QHxk7Qc82vXWoHn"
-        }
-      ],
-      "duration_ms": 158923,
-      "name": "Missed Connections",
-      "url": "https://open.spotify.com/track/5P4l5jMl65PtWa9NPfn6aI"
     },
     {
       "added_at": "2026-05-16 11:12:00",

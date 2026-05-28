@@ -1,12 +1,12 @@
 {
   "description": "This is Patoranking. The essential tracks, all in one playlist.",
-  "num_followers": 12495,
+  "num_followers": 12498,
   "original_name": "This Is Patoranking",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahORAAAAAACNyW3//8HH1xiREa1cXu/G",
+  "snapshot_id": "ahTigAAAAAAm5cTKoK3jN7brHuO3YlRP",
   "tracks": [
     {
       "added_at": null,
@@ -587,6 +587,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Abobi",
+        "url": "https://open.spotify.com/album/2Do2qXqtcD5PvVhIVCLMw1"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "duration_ms": 201048,
+      "name": "Abobi",
+      "url": "https://open.spotify.com/track/7echDVorySYxnup1HrR15b"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Make Am (feat. Ebonyi State Band)",
         "url": "https://open.spotify.com/album/0ansMS1zm0JoxSpDVOGCHS"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 232893,
       "name": "Make Am (feat. Ebonyi State Band)",
       "url": "https://open.spotify.com/track/0URKYeAgtNb9WPf8OCGo7O"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Abobi",
-        "url": "https://open.spotify.com/album/2Do2qXqtcD5PvVhIVCLMw1"
-      },
-      "artists": [
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        }
-      ],
-      "duration_ms": 201048,
-      "name": "Abobi",
-      "url": "https://open.spotify.com/track/7echDVorySYxnup1HrR15b"
     },
     {
       "added_at": null,
@@ -703,26 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rudi (feat. Patoranking)",
-        "url": "https://open.spotify.com/album/7GBbTkIxylA9vWLPJkBNDt"
-      },
-      "artists": [
-        {
-          "name": "Rich Mavoko",
-          "url": "https://open.spotify.com/artist/0KajUilOQQilNNtReM67Kp"
-        },
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        }
-      ],
-      "duration_ms": 219820,
-      "name": "Rudi (feat. Patoranking)",
-      "url": "https://open.spotify.com/track/5UTUhxdfkdIxXoXSJzOeUO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sing My Name",
         "url": "https://open.spotify.com/album/2AuB1GPHlXcdzKrKrOwnAR"
       },
@@ -743,6 +723,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rudi (feat. Patoranking)",
+        "url": "https://open.spotify.com/album/7GBbTkIxylA9vWLPJkBNDt"
+      },
+      "artists": [
+        {
+          "name": "Rich Mavoko",
+          "url": "https://open.spotify.com/artist/0KajUilOQQilNNtReM67Kp"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "duration_ms": 219820,
+      "name": "Rudi (feat. Patoranking)",
+      "url": "https://open.spotify.com/track/5UTUhxdfkdIxXoXSJzOeUO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Three",
         "url": "https://open.spotify.com/album/3OGisD8sBPdvPm7lhN5u2K"
       },
@@ -755,26 +755,6 @@
       "duration_ms": 189598,
       "name": "Yo Body",
       "url": "https://open.spotify.com/track/7gw2JZuedwF7jQEaoG8vPP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sober (Soo Bad)",
-        "url": "https://open.spotify.com/album/2OGRwWN158HOar0I9g2lzU"
-      },
-      "artists": [
-        {
-          "name": "Fameye",
-          "url": "https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L"
-        },
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        }
-      ],
-      "duration_ms": 220206,
-      "name": "Sober (Soo Bad)",
-      "url": "https://open.spotify.com/track/1oXiXYq3yaWcMZueIwglk8"
     },
     {
       "added_at": null,
@@ -799,6 +779,26 @@
       "duration_ms": 281453,
       "name": "Wait Refix",
       "url": "https://open.spotify.com/track/62NcIDnYukwleoEHIJYvdL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sober (Soo Bad)",
+        "url": "https://open.spotify.com/album/2OGRwWN158HOar0I9g2lzU"
+      },
+      "artists": [
+        {
+          "name": "Fameye",
+          "url": "https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "duration_ms": 220206,
+      "name": "Sober (Soo Bad)",
+      "url": "https://open.spotify.com/track/1oXiXYq3yaWcMZueIwglk8"
     },
     {
       "added_at": null,
@@ -843,6 +843,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "No Jonze",
+        "url": "https://open.spotify.com/album/6xKQhBvfudkxhTYwXCQAob"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "duration_ms": 157391,
+      "name": "No Jonze",
+      "url": "https://open.spotify.com/track/1SCdGgPJpO3r4e92NhqG6g"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A.W.A.M.",
         "url": "https://open.spotify.com/album/26Q4esPJ7U0noOyhSCxb1S"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 219375,
       "name": "Players",
       "url": "https://open.spotify.com/track/4rxPLU1Xvz61CUOckR6utg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Jonze",
-        "url": "https://open.spotify.com/album/6xKQhBvfudkxhTYwXCQAob"
-      },
-      "artists": [
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        }
-      ],
-      "duration_ms": 157391,
-      "name": "No Jonze",
-      "url": "https://open.spotify.com/track/1SCdGgPJpO3r4e92NhqG6g"
     },
     {
       "added_at": null,
@@ -927,30 +927,6 @@
       "duration_ms": 245133,
       "name": "Another Level",
       "url": "https://open.spotify.com/track/7vuoXyvpNMhZJScAdeN0dz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Seyi or Shay",
-        "url": "https://open.spotify.com/album/0TRPmOkkAXYNxfIsvBLkIm"
-      },
-      "artists": [
-        {
-          "name": "Seyi Shay",
-          "url": "https://open.spotify.com/artist/0WgwOS7j1CB5tIRa4QM50K"
-        },
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        },
-        {
-          "name": "Shaydee",
-          "url": "https://open.spotify.com/artist/3fgi4lDoL6eyhj2sKsKKpa"
-        }
-      ],
-      "duration_ms": 228884,
-      "name": "Murda",
-      "url": "https://open.spotify.com/track/3z2SygkbAZOTrj5FK1MdbP"
     },
     {
       "added_at": null,
@@ -1035,6 +1011,30 @@
       "duration_ms": 207341,
       "name": "One Love (in support of UNICEF)",
       "url": "https://open.spotify.com/track/1KA7SVX5x7TqYvCusGxmc7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Seyi or Shay",
+        "url": "https://open.spotify.com/album/0TRPmOkkAXYNxfIsvBLkIm"
+      },
+      "artists": [
+        {
+          "name": "Seyi Shay",
+          "url": "https://open.spotify.com/artist/0WgwOS7j1CB5tIRa4QM50K"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "Shaydee",
+          "url": "https://open.spotify.com/artist/3fgi4lDoL6eyhj2sKsKKpa"
+        }
+      ],
+      "duration_ms": 228884,
+      "name": "Murda",
+      "url": "https://open.spotify.com/track/3z2SygkbAZOTrj5FK1MdbP"
     },
     {
       "added_at": null,

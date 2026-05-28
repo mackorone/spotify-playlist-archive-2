@@ -1,6 +1,6 @@
 {
   "description": "Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.",
-  "num_followers": 394760,
+  "num_followers": 394764,
   "original_name": "Tokyo Rising",
   "owner": {
     "name": "Spotify",
@@ -555,6 +555,30 @@
     {
       "added_at": "2026-05-09 03:57:50",
       "album": {
+        "name": "GBAD (Number_i Remix)",
+        "url": "https://open.spotify.com/album/76C1D2sECFpW0lWOuhcZak"
+      },
+      "artists": [
+        {
+          "name": "88rising",
+          "url": "https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs"
+        },
+        {
+          "name": "Jackson Wang",
+          "url": "https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY"
+        },
+        {
+          "name": "Number_i",
+          "url": "https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN"
+        }
+      ],
+      "duration_ms": 187398,
+      "name": "GBAD (Number_i Remix)",
+      "url": "https://open.spotify.com/track/0Sc93x1NGL4SbWFlMOvDkN"
+    },
+    {
+      "added_at": "2026-05-09 03:57:50",
+      "album": {
         "name": "99 Steps",
         "url": "https://open.spotify.com/album/1B57GqqYDv7nSHsiymJzv0"
       },
@@ -579,22 +603,6 @@
     {
       "added_at": "2026-05-09 03:57:50",
       "album": {
-        "name": "SOMETHING AIN'T RIGHT",
-        "url": "https://open.spotify.com/album/1reE28qY4WnZLHJ6gTh5Rh"
-      },
-      "artists": [
-        {
-          "name": "XG",
-          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
-        }
-      ],
-      "duration_ms": 190666,
-      "name": "SOMETHING AIN'T RIGHT",
-      "url": "https://open.spotify.com/track/4xzrnTQ0CVRj6LBisVyTum"
-    },
-    {
-      "added_at": "2026-05-09 03:57:50",
-      "album": {
         "name": "Prema",
         "url": "https://open.spotify.com/album/6ELurkxQnAif7u5Vv6Wly9"
       },
@@ -607,6 +615,22 @@
       "duration_ms": 270497,
       "name": "Hachik\u014d",
       "url": "https://open.spotify.com/track/3Aj0zsny1zlTLevRxfEEKc"
+    },
+    {
+      "added_at": "2026-05-09 03:57:50",
+      "album": {
+        "name": "SOMETHING AIN'T RIGHT",
+        "url": "https://open.spotify.com/album/1reE28qY4WnZLHJ6gTh5Rh"
+      },
+      "artists": [
+        {
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
+        }
+      ],
+      "duration_ms": 190666,
+      "name": "SOMETHING AIN'T RIGHT",
+      "url": "https://open.spotify.com/track/4xzrnTQ0CVRj6LBisVyTum"
     },
     {
       "added_at": "2026-05-09 03:57:50",
@@ -659,46 +683,6 @@
     {
       "added_at": "2026-05-09 03:57:50",
       "album": {
-        "name": "IS THIS LOVE",
-        "url": "https://open.spotify.com/album/46e5x2psGWtzCZc96Xi3Kt"
-      },
-      "artists": [
-        {
-          "name": "XG",
-          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
-        }
-      ],
-      "duration_ms": 155080,
-      "name": "IS THIS LOVE",
-      "url": "https://open.spotify.com/track/7HfDulyv4KLZAD170lF8at"
-    },
-    {
-      "added_at": "2026-05-09 03:57:50",
-      "album": {
-        "name": "GBAD (Number_i Remix)",
-        "url": "https://open.spotify.com/album/76C1D2sECFpW0lWOuhcZak"
-      },
-      "artists": [
-        {
-          "name": "88rising",
-          "url": "https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs"
-        },
-        {
-          "name": "Jackson Wang",
-          "url": "https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY"
-        },
-        {
-          "name": "Number_i",
-          "url": "https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN"
-        }
-      ],
-      "duration_ms": 187398,
-      "name": "GBAD (Number_i Remix)",
-      "url": "https://open.spotify.com/track/0Sc93x1NGL4SbWFlMOvDkN"
-    },
-    {
-      "added_at": "2026-05-09 03:57:50",
-      "album": {
         "name": "MASCARA",
         "url": "https://open.spotify.com/album/25ljniOTN62coBIA6iD4iC"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 215040,
       "name": "MASCARA",
       "url": "https://open.spotify.com/track/25uU7huzrh4M91FXJvHWhY"
+    },
+    {
+      "added_at": "2026-05-09 03:57:50",
+      "album": {
+        "name": "IS THIS LOVE",
+        "url": "https://open.spotify.com/album/46e5x2psGWtzCZc96Xi3Kt"
+      },
+      "artists": [
+        {
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
+        }
+      ],
+      "duration_ms": 155080,
+      "name": "IS THIS LOVE",
+      "url": "https://open.spotify.com/track/7HfDulyv4KLZAD170lF8at"
     },
     {
       "added_at": "2026-05-09 03:57:50",
@@ -747,22 +747,6 @@
     {
       "added_at": "2026-05-09 03:57:50",
       "album": {
-        "name": "IYKYK",
-        "url": "https://open.spotify.com/album/7wdkikXCR5G3KhzffeTMCL"
-      },
-      "artists": [
-        {
-          "name": "XG",
-          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "IYKYK",
-      "url": "https://open.spotify.com/track/2lkhdnz6pWlErZuRLnBXTt"
-    },
-    {
-      "added_at": "2026-05-09 03:57:50",
-      "album": {
         "name": "\u5730\u7403\u5100 - Spinning Globe",
         "url": "https://open.spotify.com/album/2FoCAlugem3yJk6lFxXP0W"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 193000,
       "name": "\u30ef\u30fc\u30eb\u30c9\u30a8\u30f3\u30c9\u30ac\u30fc\u30eb\u30d5\u30ec\u30f3\u30c9",
       "url": "https://open.spotify.com/track/22pvB1aTKGV0YWSPnOEW1C"
+    },
+    {
+      "added_at": "2026-05-09 03:57:50",
+      "album": {
+        "name": "IYKYK",
+        "url": "https://open.spotify.com/album/7wdkikXCR5G3KhzffeTMCL"
+      },
+      "artists": [
+        {
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "IYKYK",
+      "url": "https://open.spotify.com/track/2lkhdnz6pWlErZuRLnBXTt"
     },
     {
       "added_at": "2026-05-09 03:57:50",
@@ -975,6 +975,22 @@
     {
       "added_at": "2026-05-09 03:57:50",
       "album": {
+        "name": "MIRROR",
+        "url": "https://open.spotify.com/album/4bIo5w5xKztinGjv11NoOQ"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "MIRROR",
+      "url": "https://open.spotify.com/track/0NtfH5RUt4V3Vzh18Wuc23"
+    },
+    {
+      "added_at": "2026-05-09 03:57:50",
+      "album": {
         "name": "Speed Tape",
         "url": "https://open.spotify.com/album/0pYpedPWmSW8BABYhG4QDD"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 185034,
       "name": "Wind Rise",
       "url": "https://open.spotify.com/track/7ft8cpFbv0E9SOUiUMcPuW"
-    },
-    {
-      "added_at": "2026-05-09 03:57:50",
-      "album": {
-        "name": "MIRROR",
-        "url": "https://open.spotify.com/album/4bIo5w5xKztinGjv11NoOQ"
-      },
-      "artists": [
-        {
-          "name": "Ado",
-          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "MIRROR",
-      "url": "https://open.spotify.com/track/0NtfH5RUt4V3Vzh18Wuc23"
     },
     {
       "added_at": "2026-05-09 03:57:50",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2026-05-09 03:57:50",
       "album": {
-        "name": "THRIFTED",
-        "url": "https://open.spotify.com/album/5OM7oXECyQH2QM6YQcnpMq"
-      },
-      "artists": [
-        {
-          "name": "Ayumu Imazu",
-          "url": "https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM"
-        }
-      ],
-      "duration_ms": 161066,
-      "name": "THRIFTED",
-      "url": "https://open.spotify.com/track/3c2cj9EqxPVMNEKdEexCX0"
-    },
-    {
-      "added_at": "2026-05-09 03:57:50",
-      "album": {
         "name": "99.9 Psychic Radio",
         "url": "https://open.spotify.com/album/0am7ZAy4aq4sAS4ThW4ZhB"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 191132,
       "name": "Just Like Dat feat. JP THE WAVY",
       "url": "https://open.spotify.com/track/44jt5m1pRE0rI4VixZbWF6"
+    },
+    {
+      "added_at": "2026-05-09 03:57:50",
+      "album": {
+        "name": "THRIFTED",
+        "url": "https://open.spotify.com/album/5OM7oXECyQH2QM6YQcnpMq"
+      },
+      "artists": [
+        {
+          "name": "Ayumu Imazu",
+          "url": "https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM"
+        }
+      ],
+      "duration_ms": 161066,
+      "name": "THRIFTED",
+      "url": "https://open.spotify.com/track/3c2cj9EqxPVMNEKdEexCX0"
     },
     {
       "added_at": "2026-05-09 03:57:50",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2026-05-09 03:57:50",
       "album": {
-        "name": "Cult.",
-        "url": "https://open.spotify.com/album/5LB9Uee8CNhGPEIiyYOk0o"
-      },
-      "artists": [
-        {
-          "name": "natori",
-          "url": "https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu"
-        }
-      ],
-      "duration_ms": 268203,
-      "name": "Cult.",
-      "url": "https://open.spotify.com/track/2CBkM69RwTqvBe6xsvMn8M"
-    },
-    {
-      "added_at": "2026-05-09 03:57:50",
-      "album": {
         "name": "0.0000%",
         "url": "https://open.spotify.com/album/50W2oJUz1cLctFly2NyYVd"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 155740,
       "name": "0.0000%",
       "url": "https://open.spotify.com/track/6tJmPnHeCidKixJ7VEdGgy"
+    },
+    {
+      "added_at": "2026-05-09 03:57:50",
+      "album": {
+        "name": "Cult.",
+        "url": "https://open.spotify.com/album/5LB9Uee8CNhGPEIiyYOk0o"
+      },
+      "artists": [
+        {
+          "name": "natori",
+          "url": "https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu"
+        }
+      ],
+      "duration_ms": 268203,
+      "name": "Cult.",
+      "url": "https://open.spotify.com/track/2CBkM69RwTqvBe6xsvMn8M"
     },
     {
       "added_at": "2026-05-09 03:57:50",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2026-05-09 03:57:50",
       "album": {
-        "name": "\u30a2\u30ca\u30b6\u30fc\u30c0\u30a4\u30d0\u30fc\u30b7\u30c6\u30a3",
-        "url": "https://open.spotify.com/album/7DsLGDK8qjjgQTMO8iLHkz"
-      },
-      "artists": [
-        {
-          "name": "RETRORIRON",
-          "url": "https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu"
-        }
-      ],
-      "duration_ms": 227360,
-      "name": "\u30ab\u30c6\u30b4\u30e9\u30a4\u30ba",
-      "url": "https://open.spotify.com/track/2XNMG5FlJvFSnn6PiHnvjk"
-    },
-    {
-      "added_at": "2026-05-09 03:57:50",
-      "album": {
         "name": "\u30df\u30c3\u30c9\u30ca\u30a4\u30c8\u30fb\u30ea\u30d5\u30ec\u30af\u30b7\u30e7\u30f3",
         "url": "https://open.spotify.com/album/2ikaiGXxmfc3ENG4BjxMcq"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 221000,
       "name": "\u30df\u30c3\u30c9\u30ca\u30a4\u30c8\u30fb\u30ea\u30d5\u30ec\u30af\u30b7\u30e7\u30f3",
       "url": "https://open.spotify.com/track/3sAlrCLgPW8hzoG4QNsMIi"
+    },
+    {
+      "added_at": "2026-05-09 03:57:50",
+      "album": {
+        "name": "\u30a2\u30ca\u30b6\u30fc\u30c0\u30a4\u30d0\u30fc\u30b7\u30c6\u30a3",
+        "url": "https://open.spotify.com/album/7DsLGDK8qjjgQTMO8iLHkz"
+      },
+      "artists": [
+        {
+          "name": "RETRORIRON",
+          "url": "https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu"
+        }
+      ],
+      "duration_ms": 227360,
+      "name": "\u30ab\u30c6\u30b4\u30e9\u30a4\u30ba",
+      "url": "https://open.spotify.com/track/2XNMG5FlJvFSnn6PiHnvjk"
     },
     {
       "added_at": "2026-05-09 03:57:50",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2026-05-09 03:57:50",
       "album": {
-        "name": "D o n\u2019 t \u200c \u200c \u200cL a u g h \u200c \u200c \u200cI t \u200c \u200c \u200cO f f",
-        "url": "https://open.spotify.com/album/1CxJmFEE2xsYSTxpJaOG6P"
-      },
-      "artists": [
-        {
-          "name": "Hitsujibungaku",
-          "url": "https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n"
-        }
-      ],
-      "duration_ms": 152546,
-      "name": "\u3044\u3068\u304a\u3057\u3044\u65e5\u3005",
-      "url": "https://open.spotify.com/track/0QeD68D7Up78qybkCsGFBI"
-    },
-    {
-      "added_at": "2026-05-09 03:57:50",
-      "album": {
         "name": "\u5e78\u305b\u306e\u307e\u308f\u308a\u9053",
         "url": "https://open.spotify.com/album/5Rr1mK7xiTXEgPN6it8VJN"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 225960,
       "name": "\u5e78\u305b\u306e\u307e\u308f\u308a\u9053",
       "url": "https://open.spotify.com/track/1OCvIuUDYIwnuv6lQzdoD7"
+    },
+    {
+      "added_at": "2026-05-09 03:57:50",
+      "album": {
+        "name": "D o n\u2019 t \u200c \u200c \u200cL a u g h \u200c \u200c \u200cI t \u200c \u200c \u200cO f f",
+        "url": "https://open.spotify.com/album/1CxJmFEE2xsYSTxpJaOG6P"
+      },
+      "artists": [
+        {
+          "name": "Hitsujibungaku",
+          "url": "https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n"
+        }
+      ],
+      "duration_ms": 152546,
+      "name": "\u3044\u3068\u304a\u3057\u3044\u65e5\u3005",
+      "url": "https://open.spotify.com/track/0QeD68D7Up78qybkCsGFBI"
     },
     {
       "added_at": "2026-05-09 03:57:50",
@@ -1655,6 +1655,22 @@
     {
       "added_at": "2026-05-09 03:57:50",
       "album": {
+        "name": "THE GOLDEN PROTOTYPE.",
+        "url": "https://open.spotify.com/album/6bSIAAgutYicD50L9Bt2yl"
+      },
+      "artists": [
+        {
+          "name": "OddRe:",
+          "url": "https://open.spotify.com/artist/2bBPaMYH2SDOH3jBRjU8fr"
+        }
+      ],
+      "duration_ms": 230232,
+      "name": "\u6771\u4eac\u30b4\u30c3\u30c9\u30b9\u30c8\u30ea\u30fc\u30c8\u30dc\u30fc\u30a4\u30ba",
+      "url": "https://open.spotify.com/track/2nXJEs0KZQeNbPBNq9LFuJ"
+    },
+    {
+      "added_at": "2026-05-09 03:57:50",
+      "album": {
         "name": "Mom & Dad",
         "url": "https://open.spotify.com/album/51O48NKvrF5rk1rq0FJDUa"
       },
@@ -1679,22 +1695,6 @@
       "duration_ms": 171579,
       "name": "Mom & Dad",
       "url": "https://open.spotify.com/track/2iqnWaABeoHev1hcKP5BzL"
-    },
-    {
-      "added_at": "2026-05-09 03:57:50",
-      "album": {
-        "name": "THE GOLDEN PROTOTYPE.",
-        "url": "https://open.spotify.com/album/6bSIAAgutYicD50L9Bt2yl"
-      },
-      "artists": [
-        {
-          "name": "OddRe:",
-          "url": "https://open.spotify.com/artist/2bBPaMYH2SDOH3jBRjU8fr"
-        }
-      ],
-      "duration_ms": 230232,
-      "name": "\u6771\u4eac\u30b4\u30c3\u30c9\u30b9\u30c8\u30ea\u30fc\u30c8\u30dc\u30fc\u30a4\u30ba",
-      "url": "https://open.spotify.com/track/2nXJEs0KZQeNbPBNq9LFuJ"
     },
     {
       "added_at": "2026-05-09 03:57:50",

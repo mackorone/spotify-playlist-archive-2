@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: NOFX
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,603 likes - 100 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,613 likes - 100 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 7 | [Shooting Shadows](https://open.spotify.com/track/5ECMARBz2SDvN9Fb9fFaPw) | [Sweeping Promises](https://open.spotify.com/artist/5k9qBHdkzsibPmFJp1XIAt) | [Shooting Shadows](https://open.spotify.com/album/6B2NjoUOLNGZ462oydPr8l) | 2:45 |
 | 8 | [grin & bear it](https://open.spotify.com/track/1zAtgmYmIzqVW9tEsUymkB) | [Panic Shack](https://open.spotify.com/artist/26HCuM5PamldoaHII5Ifxc) | [grin & bear it](https://open.spotify.com/album/1jQ5ZRxtDbZxkf9EqZSr1K) | 3:17 |
 | 9 | [Nobody's Coming To Save You](https://open.spotify.com/track/0difWBwYseFbbXTAj6TyOi) | [Gurriers](https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5) | [Nobody's Coming To Save You](https://open.spotify.com/album/08GMRYh0ZUnEE9w7y9S0CF) | 3:42 |
-| 10 | [Convulsing In The Dark](https://open.spotify.com/track/0gFb3LaE43VKFLWK3DfniZ) | [No Cure](https://open.spotify.com/artist/3nw6phs4P8q7lncRq3uurU), [Duncan Newey](https://open.spotify.com/artist/6X3GnXE0bFMkJMooR24gC0), [Blaythe Steuer](https://open.spotify.com/artist/1Fng0ERZdmgJ1tRcnxHX6s), [Aesop Mongo](https://open.spotify.com/artist/68DMvM60Ij0SLd9B3hS0sq), [Kevin Langley](https://open.spotify.com/artist/1nqUqPYF339V1KNoQ7xY5h) | [Convulsing In The Dark](https://open.spotify.com/album/463iKjT2fH3tgd3yLrkOWh) | 3:26 |
+| 10 | [Convulsing In The Dark](https://open.spotify.com/track/0gFb3LaE43VKFLWK3DfniZ) | [No Cure](https://open.spotify.com/artist/3nw6phs4P8q7lncRq3uurU) | [Convulsing In The Dark](https://open.spotify.com/album/463iKjT2fH3tgd3yLrkOWh) | 3:26 |
 | 11 | [Mira](https://open.spotify.com/track/2cJQpVx6bUpqiR6y2PKUy7) | [Siouxie and the Skunks](https://open.spotify.com/artist/687wBZ0bSTp7AaCf2UYcOR) | [Mira](https://open.spotify.com/album/2piSSxwWGQmBXWAG2sK3K7) | 2:43 |
 | 12 | [Partisan](https://open.spotify.com/track/2E3tLNPJRD6weoob4n9qpi) | [Phantom Bay](https://open.spotify.com/artist/5WyFLIEQF4woWGUmgfyg7v) | [Rite of Passage](https://open.spotify.com/album/5q2JX9rGpFhShtwDtjrtKY) | 1:41 |
 | 13 | [Dog Years](https://open.spotify.com/track/6aIvdrCnUurjjeT3LzPbfr) | [Smirk](https://open.spotify.com/artist/07iNk8rRYH0gXNXcewJ3n5) | [Dog Years](https://open.spotify.com/album/5PaiTi2st3ZgGSJphBQyBv) | 3:23 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTsUzn4pp2rW.md) - [plain]
 
 > Get into the mood with beautiful collections of Jazz Pop tunes\. Cover: Laufey
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,619 likes - 100 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,667 likes - 100 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTsUzn4pp2rW.md) - [plain]
 | 38 | [How About You](https://open.spotify.com/track/0OotFG4v6vLS0Im8Ny6cpo) | [Nellie McKay](https://open.spotify.com/artist/1GFVkK9DUecapOZv2HzpiN) | [Bagatelles](https://open.spotify.com/album/7dEBdUpqe6c6vprtQiEMX1) | 2:07 |
 | 39 | [Mother Of Mine](https://open.spotify.com/track/0aX2oXBqlQ2GrkGbI3pzVD) | [more than neighbours](https://open.spotify.com/artist/3PTRYFN4YaVarl3dOMNCZj) | [Mother Of Mine](https://open.spotify.com/album/3tCGTMUV2mAKolZKZTjzsp) | 4:02 |
 | 40 | [Feeling](https://open.spotify.com/track/0lKHpAK3ybZxuX7K5KuOnm) | [Adrian Setiawan](https://open.spotify.com/artist/39XX7BNu95xOOxusr1BzFn), [Diona Dewiriana](https://open.spotify.com/artist/5TCbrPG4VAeoypYoHsLsAf) | [Feeling](https://open.spotify.com/album/6utFX9YFFC48mhZrlUcK9i) | 3:52 |
-| 41 | [A Voice](https://open.spotify.com/track/5U8kmTXhhO0vGX3fRcXLJj) | [Kat Edmonson](https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds) | [A Voice](https://open.spotify.com/album/0gWAFxYHIKQRi9fpNqEo3M) | 4:25 |
-| 42 | [Let's Get Lost](https://open.spotify.com/track/6CqPIL8gJlNo4p9uIOF1LM) | [Johnny Summers](https://open.spotify.com/artist/6uqOd0qw9avpT0vCyCZ4DX) | [Let's Get Lost](https://open.spotify.com/album/12tZcQltgeJcB7jaBGIWHx) | 3:10 |
+| 41 | [Let's Get Lost](https://open.spotify.com/track/6CqPIL8gJlNo4p9uIOF1LM) | [Johnny Summers](https://open.spotify.com/artist/6uqOd0qw9avpT0vCyCZ4DX) | [Let's Get Lost](https://open.spotify.com/album/12tZcQltgeJcB7jaBGIWHx) | 3:10 |
+| 42 | [A Voice](https://open.spotify.com/track/5U8kmTXhhO0vGX3fRcXLJj) | [Kat Edmonson](https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds) | [A Voice](https://open.spotify.com/album/0gWAFxYHIKQRi9fpNqEo3M) | 4:25 |
 | 43 | [Much Rain](https://open.spotify.com/track/3R7Cy7vHabyoHeWey6n6Dn) | [TICO DE MORAES](https://open.spotify.com/artist/4B4UjhXvu9OoY3D1Tq3m05), [Alexander Raichenok](https://open.spotify.com/artist/0gx7dOa0Yy1vWQ1XQL6ky6) | [Much Rain](https://open.spotify.com/album/6Rl3a9T2VTGwCita9jJTeo) | 4:46 |
 | 44 | [Inside and Out](https://open.spotify.com/track/590wQwgPHKRMOppPGNGmVR) | [Cyrille Aimee](https://open.spotify.com/artist/7rcjVbooAaV2pPRdyPHCrM) | [à Fleur de Peau](https://open.spotify.com/album/6HA7T7bSLycVHxv9WcfeRW) | 4:18 |
 | 45 | [Sunshine & Lullaby](https://open.spotify.com/track/67qv5GoZCaVf5Z8613r5bY) | [Matthew Hermosura](https://open.spotify.com/artist/6lTUjzrkveIemv9jnBVMfy) | [Sunshine & Lullaby](https://open.spotify.com/album/5KBuxVQaHTEobBxlMPglhT) | 4:07 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTsUzn4pp2rW.md) - [plain]
 | 48 | [What Love Is For](https://open.spotify.com/track/7caN9iQewEakwTWWRrS3Uo) | [PRD](https://open.spotify.com/artist/7w5X03XwXcR7pxV6iY1swZ) | [What Love Is For](https://open.spotify.com/album/7fhua0RMidCDYutPSqlzjs) | 3:09 |
 | 49 | [Song Like Ours](https://open.spotify.com/track/1t046djogoVhEYfCWRxxNU) | [Jazzy D](https://open.spotify.com/artist/3ptyb6LvZRaIJhXpRYGrHR), [Angela Gooden](https://open.spotify.com/artist/34a5uVpfGun3lRfBi0ImVm) | [Song Like Ours](https://open.spotify.com/album/7AKjEmKNF4wC8DEvwdE74Q) | 4:58 |
 | 50 | [Don't Go To Strangers](https://open.spotify.com/track/1KMgmgjUCjSHMWaEx6z9Om) | [Jamison Ross](https://open.spotify.com/artist/7cWhEUzLtzKg5FH2JJItyK) | [All For One](https://open.spotify.com/album/6aPzahQdxU6Y2jcmdbb415) | 5:20 |
-| 51 | [Do You Believe](https://open.spotify.com/track/3OJMzuuqb6kJkZ95G2ULka) | [Robin Mckelle](https://open.spotify.com/artist/1HExVl6jUdYXFYmB6GoKDV) | [Melodic Canvas](https://open.spotify.com/album/64vcz6QZ3l2Sv3MH6dvwSG) | 3:27 |
-| 52 | [Break In](https://open.spotify.com/track/50T4oNyzIMVM2xoC8kvoLw) | [TICO DE MORAES](https://open.spotify.com/artist/4B4UjhXvu9OoY3D1Tq3m05) | [Break In](https://open.spotify.com/album/5LEZDxOK0FRDjj6DlWtPMO) | 3:19 |
+| 51 | [Break In](https://open.spotify.com/track/50T4oNyzIMVM2xoC8kvoLw) | [TICO DE MORAES](https://open.spotify.com/artist/4B4UjhXvu9OoY3D1Tq3m05) | [Break In](https://open.spotify.com/album/5LEZDxOK0FRDjj6DlWtPMO) | 3:19 |
+| 52 | [Do You Believe](https://open.spotify.com/track/3OJMzuuqb6kJkZ95G2ULka) | [Robin Mckelle](https://open.spotify.com/artist/1HExVl6jUdYXFYmB6GoKDV) | [Melodic Canvas](https://open.spotify.com/album/64vcz6QZ3l2Sv3MH6dvwSG) | 3:27 |
 | 53 | [When The Stars Align](https://open.spotify.com/track/71dit7trObYaqZuVU8xsBV) | [Caleb Dinger](https://open.spotify.com/artist/5KyVVR3mKmRk3gKEDXhnVs) | [When The Stars Align](https://open.spotify.com/album/4LcdQw5uwritvZ25c3Bash) | 3:21 |
 | 54 | [Her House \(Single Edit\)](https://open.spotify.com/track/0LjwtixmXQiq2YMAzAx6FZ) | [Anna Gréta](https://open.spotify.com/artist/43v3iVtLSHdfUAYkjB4Geh) | [Her House \(Single Edit\) \[Star of Spring\]](https://open.spotify.com/album/1bWITY11LFXKlLxtf0q8fK) | 3:47 |
 | 55 | [Spaceman](https://open.spotify.com/track/562FARfp4BQjhyB70vI3dG) | [Alan Hsiao](https://open.spotify.com/artist/1eMnPWHlHkgdpcfc7RJOwG) | [Little Songs](https://open.spotify.com/album/6F9lolDvmsdb9j8eCk2bNC) | 2:33 |
@@ -98,9 +98,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTsUzn4pp2rW.md) - [plain]
 | 88 | [Sleepy Time](https://open.spotify.com/track/0ZPGsmxhoJ04ZpTYc8AsPr) | [Imajjine](https://open.spotify.com/artist/2VU83NBXbWqEuBZVI52YtL) | [Sleepy Time](https://open.spotify.com/album/2lEpDZQZa6jFb016hgwasV) | 2:38 |
 | 89 | [There is a place](https://open.spotify.com/track/5hGtLvLqN33BWKzNtEguUB) | [Ellen Andrea Wang](https://open.spotify.com/artist/3EpohDnrFdsgQj03BOsPUf) | [There is a place](https://open.spotify.com/album/1GQuklEK5WQisonLLQJjqG) | 4:07 |
 | 90 | [Before I Do](https://open.spotify.com/track/2oSH6sOAP0YOq6qMuO0ZMK) | [Barbra Lica](https://open.spotify.com/artist/1LWWCHWErOO9KZfcwrmS9D) | [You're Fine](https://open.spotify.com/album/7AnOsuntfZx3d3Vrnt2z3B) | 3:18 |
-| 91 | [Catwoman](https://open.spotify.com/track/1pu7UTT1w7DjazO2in03EE) | [Stephanie Domet](https://open.spotify.com/artist/03vbrO2FBrwjmzWk9ukzSZ) | [Catwoman](https://open.spotify.com/album/1F3oZyWkL83S4CjBvVMhWj) | 3:31 |
-| 92 | [It's Complicated](https://open.spotify.com/track/7s2Y7jBaXuAEy8iGkaFGS2) | [Andy Jordan](https://open.spotify.com/artist/2vRJ5UH6nfm83H1stvQbCj) | [It's Complicated](https://open.spotify.com/album/7rIEAwoVxuIs8iXJMfuA80) | 3:28 |
-| 93 | [If I'd Had Your Heart](https://open.spotify.com/track/2fVdaV8noj9GhCpXTxVm2c) | [Untitled Band](https://open.spotify.com/artist/4gfu5YxjKlaDWdnJ7VAM1I) | [Reverie](https://open.spotify.com/album/1yiHIdrp16UXHGjwbbCmxJ) | 3:49 |
+| 91 | [If I'd Had Your Heart](https://open.spotify.com/track/2fVdaV8noj9GhCpXTxVm2c) | [Untitled Band](https://open.spotify.com/artist/4gfu5YxjKlaDWdnJ7VAM1I) | [Reverie](https://open.spotify.com/album/1yiHIdrp16UXHGjwbbCmxJ) | 3:49 |
+| 92 | [Catwoman](https://open.spotify.com/track/1pu7UTT1w7DjazO2in03EE) | [Stephanie Domet](https://open.spotify.com/artist/03vbrO2FBrwjmzWk9ukzSZ) | [Catwoman](https://open.spotify.com/album/1F3oZyWkL83S4CjBvVMhWj) | 3:31 |
+| 93 | [It's Complicated](https://open.spotify.com/track/7s2Y7jBaXuAEy8iGkaFGS2) | [Andy Jordan](https://open.spotify.com/artist/2vRJ5UH6nfm83H1stvQbCj) | [It's Complicated](https://open.spotify.com/album/7rIEAwoVxuIs8iXJMfuA80) | 3:28 |
 | 94 | [Back to the Start](https://open.spotify.com/track/4Na3IDBm27qhGq8dwz0ps2) | [Gordon Robertson](https://open.spotify.com/artist/2QOoyXdfUKSMCK1c7pDam5) | [Back to the Start](https://open.spotify.com/album/0NiWwfEyQTYgRltIOGJ0M6) | 3:16 |
 | 95 | [The Birds and the Bees](https://open.spotify.com/track/5skQwY8m3gZ1LUg0ZXlpgb) | [Barbra Lica](https://open.spotify.com/artist/1LWWCHWErOO9KZfcwrmS9D) | [You're Fine](https://open.spotify.com/album/7AnOsuntfZx3d3Vrnt2z3B) | 3:50 |
 | 96 | [Your Hands](https://open.spotify.com/track/0wPGEY8OnnC8VXXAqitxVc) | [Karen Rosenberg](https://open.spotify.com/artist/7oJ7DWbjYx4lzl9ysPfQ77) | [Same Soul](https://open.spotify.com/album/2jHSlpoC38GtuXY3xwLRng) | 4:53 |

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5v6MaLqxxiqzxlVKg0gUBg">Julia Church</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-113 songs - 6 hr 53 min
+114 songs - 6 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Resonate \(feat\. Julia Church\)](https://open.spotify.com/track/4ZmWVoFNiBj0iNnnC7E4MA) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Comfort In Chaos](https://open.spotify.com/album/2pHm3ZP2R3phzCYi7ilGN2) | 4:01 | 2025-10-27 |  |
 | [Reverie](https://open.spotify.com/track/64fXwFNr6wKQLAjFTYDvbe) | [INNERVERSE](https://open.spotify.com/artist/0lIiVp6FVbJR2utszYQhNf) | [Reverie](https://open.spotify.com/album/69CWDhchcRv6TdSXy4P72p) | 3:43 | 2025-10-27 |  |
 | [Ripple](https://open.spotify.com/track/5K9wVa20dEVdqU0SEXFRVU) | [Lost Voice](https://open.spotify.com/artist/7aAaXn1p5LdxLIGqDuguGw) | [Ripple](https://open.spotify.com/album/4mCXYL78yDh115b3Otmurr) | 3:56 | 2026-02-20 |  |
+| [Rivers](https://open.spotify.com/track/32yfHmv0jojX6dOKKiIE5F) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Amél](https://open.spotify.com/artist/6OHd6Z5k9ZmBJ91oqeSpDG) | [Rivers](https://open.spotify.com/album/191ObhNwUbjhkMh4ZvC5Dn) | 3:22 | 2026-05-27 |  |
 | [Roses](https://open.spotify.com/track/6EEXnHK3SYLTj74ynXAHtj) | [Nosi](https://open.spotify.com/artist/4XECs6DHU3xRrr0uydWY2R), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Roses](https://open.spotify.com/album/2qIx0ueLDqtvYJtZdOLffk) | 3:38 | 2026-02-20 |  |
 | [Ruins](https://open.spotify.com/track/4jfB2EGWbtWzDoM696Ch6u) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Ruins](https://open.spotify.com/album/13xj625T4hyjosgTEZBRLH) | 2:40 | 2026-02-20 |  |
 | [Satellite](https://open.spotify.com/track/0QVeYbIchvBmCRnBGGuWoD) | [Dan Whitlam](https://open.spotify.com/artist/4t4zanmCp0GBomHaX5hXt8), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Satellite](https://open.spotify.com/album/7xAO8dJkj6XEuagSP6RZAc) | 3:25 | 2025-12-15 |  |

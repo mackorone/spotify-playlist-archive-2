@@ -2,7 +2,7 @@
 
 ### [Transport to New Realms \(2\)](https://open.spotify.com/playlist/37i9dQZF1DX1WKvLNVGNeG)
 
-> 
+> Fantasy and sci\-fi books where the rules are rewritten and queer stories lead the way.
 
 0 song - 0 sec
 

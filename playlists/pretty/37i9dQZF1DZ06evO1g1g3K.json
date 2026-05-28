@@ -1,12 +1,12 @@
 {
   "description": "This is Durand Bernarr. The essential tracks, all in one playlist.",
-  "num_followers": 7229,
+  "num_followers": 7233,
   "original_name": "This Is Durand Bernarr",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahORAAAAAAAJ6/tNeWq8IQ+N4+xYTZv9",
+  "snapshot_id": "ahTigAAAAACSKbR9gBmY6a+B8ce+WV6M",
   "tracks": [
     {
       "added_at": null,
@@ -159,22 +159,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wanderlust",
-        "url": "https://open.spotify.com/album/1rTKMaQeug98fbSH29NoaG"
-      },
-      "artists": [
-        {
-          "name": "Durand Bernarr",
-          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        }
-      ],
-      "duration_ms": 222457,
-      "name": "Mango Butter",
-      "url": "https://open.spotify.com/track/29PmZyOZIZDymT1gFnBEcK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DUR&",
         "url": "https://open.spotify.com/album/3HGGNFWHFe1c8cgJx0t8ki"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 261500,
       "name": "STUCK.",
       "url": "https://open.spotify.com/track/7EXvZP4EJrwD9dVKMyKeGz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wanderlust",
+        "url": "https://open.spotify.com/album/1rTKMaQeug98fbSH29NoaG"
+      },
+      "artists": [
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        }
+      ],
+      "duration_ms": 222457,
+      "name": "Mango Butter",
+      "url": "https://open.spotify.com/track/29PmZyOZIZDymT1gFnBEcK"
     },
     {
       "added_at": null,
@@ -555,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Route",
-        "url": "https://open.spotify.com/album/6oMGF1OHuuRjQWKn1HXrU5"
-      },
-      "artists": [
-        {
-          "name": "Durand Bernarr",
-          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        }
-      ],
-      "duration_ms": 236904,
-      "name": "GPS",
-      "url": "https://open.spotify.com/track/0lYSxo9HT7zcTVqNjKDNVW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "READY!",
         "url": "https://open.spotify.com/album/0wVKhisY1iT0Enm2dOQzQi"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 209535,
       "name": "READY!",
       "url": "https://open.spotify.com/track/3sw0DdToI9uCMTZmTzsBwE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Route",
+        "url": "https://open.spotify.com/album/6oMGF1OHuuRjQWKn1HXrU5"
+      },
+      "artists": [
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        }
+      ],
+      "duration_ms": 236904,
+      "name": "GPS",
+      "url": "https://open.spotify.com/track/0lYSxo9HT7zcTVqNjKDNVW"
     },
     {
       "added_at": null,
@@ -627,22 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Route",
-        "url": "https://open.spotify.com/album/6oMGF1OHuuRjQWKn1HXrU5"
-      },
-      "artists": [
-        {
-          "name": "Durand Bernarr",
-          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        }
-      ],
-      "duration_ms": 207947,
-      "name": "Neutral",
-      "url": "https://open.spotify.com/track/1Yphx7raUV3ZKTpayAo2l2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wanderlust",
         "url": "https://open.spotify.com/album/1rTKMaQeug98fbSH29NoaG"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 239815,
       "name": "H.I. (feat. Devin Tracy)",
       "url": "https://open.spotify.com/track/0L8fkRTODFPnShmcGlbuzP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Route",
+        "url": "https://open.spotify.com/album/6oMGF1OHuuRjQWKn1HXrU5"
+      },
+      "artists": [
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        }
+      ],
+      "duration_ms": 207947,
+      "name": "Neutral",
+      "url": "https://open.spotify.com/track/1Yphx7raUV3ZKTpayAo2l2"
     },
     {
       "added_at": null,

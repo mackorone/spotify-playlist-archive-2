@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahORAAAAAADnOFs8Bu4+/gsVOj4g5T7L",
+  "snapshot_id": "ahTigAAAAAArA3ljY2QuJtSbukKWrVcU",
   "tracks": [
     {
       "added_at": null,
@@ -267,8 +267,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fresh Berry's",
-        "url": "https://open.spotify.com/album/02JS9znmNXHp24jyQaimL6"
+        "name": "Rockin' At The Hops",
+        "url": "https://open.spotify.com/album/48jzxU4WCz6726keexOGoe"
       },
       "artists": [
         {
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
         }
       ],
-      "duration_ms": 136546,
-      "name": "My Mustang Ford",
-      "url": "https://open.spotify.com/track/0IHYNEHVT1zMEeNOgvyg9B"
+      "duration_ms": 122533,
+      "name": "Bye Bye Johnny",
+      "url": "https://open.spotify.com/track/6qIMhhXZckFxcWLzevDQaz"
     },
     {
       "added_at": null,
@@ -299,8 +299,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rockin' At The Hops",
-        "url": "https://open.spotify.com/album/48jzxU4WCz6726keexOGoe"
+        "name": "Fresh Berry's",
+        "url": "https://open.spotify.com/album/02JS9znmNXHp24jyQaimL6"
       },
       "artists": [
         {
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
         }
       ],
-      "duration_ms": 122533,
-      "name": "Bye Bye Johnny",
-      "url": "https://open.spotify.com/track/6qIMhhXZckFxcWLzevDQaz"
+      "duration_ms": 136546,
+      "name": "My Mustang Ford",
+      "url": "https://open.spotify.com/track/0IHYNEHVT1zMEeNOgvyg9B"
     },
     {
       "added_at": null,

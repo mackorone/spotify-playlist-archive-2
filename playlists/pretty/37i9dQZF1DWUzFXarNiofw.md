@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: REMI
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,118,593 likes - 247 songs - 12 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,118,601 likes - 247 songs - 12 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 27 | [Jealous](https://open.spotify.com/track/4H7FGmMhIxBNKYMjqgqOpp) | [Konyikeh](https://open.spotify.com/artist/53EOtWH1wUGCS1NHYiy5OJ) | [Cinere](https://open.spotify.com/album/4YTRghwdWL2lm2bMhDiRl1) | 2:20 |
 | 28 | [Hit & Run](https://open.spotify.com/track/3c13bJESWcnsn180mOn6Wt) | [Eric Penn](https://open.spotify.com/artist/2zteg0RniUJB7gWVm9LfO1) | [Hit & Run](https://open.spotify.com/album/4VwNVf8kvBTBJXux1gJgVo) | 2:45 |
 | 29 | [HOW DO YOU SLEEP?](https://open.spotify.com/track/5lC63CMAg4Nd0mGVGIEPSg) | [Devon Culture](https://open.spotify.com/artist/2mONg2kaCioOztZG7Rz5yc) | [HOW DO YOU SLEEP?](https://open.spotify.com/album/0lkc0azCPCk33qepT0fSMl) | 1:51 |
-| 30 | [Under Your Spell](https://open.spotify.com/track/6gmIKGLqa33hR9eiVN4Ql8) | [Zeke Bleu](https://open.spotify.com/artist/41A9WSBy51jtVHKO6VCeN0) | [Under Your Spell](https://open.spotify.com/album/5CqiJ2uJNmRMbwMuhgAiT7) | 2:36 |
+| 30 | [Under Your Spell](https://open.spotify.com/track/6gmIKGLqa33hR9eiVN4Ql8) | [Zeke Bleu](https://open.spotify.com/artist/41A9WSBy51jtVHKO6VCeN0) | [Under Your Spell](https://open.spotify.com/album/5CqiJ2uJNmRMbwMuhgAiT7) | 2:37 |
 | 31 | [If I Was You](https://open.spotify.com/track/0TSNYgNN06hEKIKce2jlxW) | [Qui](https://open.spotify.com/artist/0G2LfRTlpJ9sqb8bWH4396) | [Cold Summer](https://open.spotify.com/album/2LUxcIEqoNcuQlfhJQLRyd) | 3:12 |
 | 32 | [Gramercy](https://open.spotify.com/track/7CWd1c5AGaNSu8uRFnBBJU) | [Keenan TreVon](https://open.spotify.com/artist/3TRl3Kgn8RGc0sw5QDOMsW) | [Buy Me Flowers](https://open.spotify.com/album/3e5YnTTqLhXzFL7FsfmP74) | 2:44 |
 | 33 | [Money Tree](https://open.spotify.com/track/0iPXVhghWoomfvp0hvpryd) | [Olympia Vitalis](https://open.spotify.com/artist/2hGdIKyNUkvMzSxllWksAt) | [Money Tree](https://open.spotify.com/album/0aX6eaOq49NsjZyZBWtNZ2) | 2:39 |

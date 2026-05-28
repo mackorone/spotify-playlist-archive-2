@@ -4,7 +4,7 @@
 
 > This is Lenin Ramírez\. The essential tracks, all in one playlist.
 
-147 songs - 7 hr 35 min
+148 songs - 7 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,7 +143,8 @@
 | [Te Vas ALV](https://open.spotify.com/track/1HuYWMlXbQfS7aMLzKUi8m) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Con Aroma a Alcohol](https://open.spotify.com/album/3QOveKghJYUAf4YsbrvQRm) | 2:44 | 2026-05-03 |  |
 | [The King of Ice](https://open.spotify.com/track/34kuOHSIqvyahIjR3ts6yE) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Our Wave Nuestra Ola](https://open.spotify.com/album/7k3KEedw9YYKrgSrIKknuo) | 2:59 | 2022-10-12 | 2026-04-12 |
 | [Todo Lo Fue](https://open.spotify.com/track/0Sa8aRfGckW0qUGLrBwoBG) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Reinicio](https://open.spotify.com/album/26p99q0JWVWzUQ98PtE2e7) | 3:12 | 2024-06-01 |  |
-| [Tres Veladoras](https://open.spotify.com/track/33LditL7EZ5vKznmF9aQQo) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Tres Veladoras](https://open.spotify.com/album/3OC7oVqxubQ4qODYQpUk9o) | 3:28 | 2026-02-22 |  |
+| [Tres Veladoras](https://open.spotify.com/track/33LditL7EZ5vKznmF9aQQo) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Tres Veladoras](https://open.spotify.com/album/3OC7oVqxubQ4qODYQpUk9o) | 3:28 | 2026-02-22 | 2026-05-28 |
+| [Tres Veladoras](https://open.spotify.com/track/4Ua4dmFPenv0xlDK8sIEQN) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Con Aroma a Alcohol](https://open.spotify.com/album/3QOveKghJYUAf4YsbrvQRm) | 3:28 | 2026-05-28 |  |
 | [Tu Eres Mi Bebe](https://open.spotify.com/track/0OQGi3lv9GBbIBcGfm7U7H) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Reinicio](https://open.spotify.com/album/26p99q0JWVWzUQ98PtE2e7) | 2:58 | 2025-11-30 | 2025-12-12 |
 | [Un Frisian Llamado El Centenario \- En Vivo](https://open.spotify.com/track/0kTsX5yfHhdg4nK7t4pbzz) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [En Vivo Desde Mi Ranchito](https://open.spotify.com/album/22Ovk2DIKkjtoEDWZ6AaTs) | 4:30 | 2023-01-11 | 2026-05-03 |
 | [Voy Pa Delante](https://open.spotify.com/track/0hGLcNLLqSyzq6ZdEYYiyK) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Voy Pa Delante](https://open.spotify.com/album/349AQXsglTZZJzozudosQe) | 2:50 | 2022-06-01 | 2022-10-13 |

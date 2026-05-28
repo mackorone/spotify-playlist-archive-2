@@ -1,13 +1,29 @@
 {
   "description": "FurryRadio.com, furry music for furs, by furs.",
-  "num_followers": 1111,
+  "num_followers": 1110,
   "original_name": "FURRY RADIO",
   "owner": {
     "name": "Zunkz",
     "url": "https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya"
   },
-  "snapshot_id": "AAAFUWF1+zyQbiXJcbmVyZTh3n6dVNJw",
+  "snapshot_id": "AAAFUiSY/pG2uttaOgkIMUDwQSKkGjXm",
   "tracks": [
+    {
+      "added_at": "2026-05-28 03:35:15",
+      "album": {
+        "name": "DARK SIDE + TREATS!!",
+        "url": "https://open.spotify.com/album/23AphdOs2IsU8tQhRhvxdk"
+      },
+      "artists": [
+        {
+          "name": "passengerprincess",
+          "url": "https://open.spotify.com/artist/1q6wY1iLFFyx75yoKiemZ3"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "DARK SIDE OF THE ROOM",
+      "url": "https://open.spotify.com/track/593Epzqztbj28a7MuuJ06Y"
+    },
     {
       "added_at": "2026-05-20 08:24:53",
       "album": {

@@ -4,7 +4,7 @@
 
 > This is Danna Paola\. The essential tracks, all in one playlist.
 
-131 songs - 6 hr 56 min
+132 songs - 7 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Don't Go](https://open.spotify.com/track/493DYJ6bdsVtHCpWBQlADr) | [Isabela Merced](https://open.spotify.com/artist/2bIxak1AAD8wlDfMLnumUj), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Don't Go](https://open.spotify.com/album/3m3QK4iaF4yBwce3cKMIpb) | 2:47 | 2023-03-19 | 2026-05-15 |
 | [Dos Extraños](https://open.spotify.com/track/776D0NXlV6o3QpntAxFmwt) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [SIE7E +](https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE) | 3:33 | 2023-03-19 | 2026-04-02 |
 | [El Cielo En Brazos De Papá](https://open.spotify.com/track/20vs9G7JnvqkMrzpm8jZQx) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [AmyLla Niña De La Mochila Azul Vol.2](https://open.spotify.com/album/0NuxVwqO5z5khKtDgS2EdW) | 3:07 | 2026-05-17 |  |
-| [El Doble](https://open.spotify.com/track/7bo4UV0Jf987r03w3UMJFi) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR), [DANNA](https://open.spotify.com/artist/3Lk8ifX8dLKXls1ZCZAHgc) | [El Doble](https://open.spotify.com/album/6tcjrCQj5gp2Tae9WMcCkS) | 3:18 | 2024-09-08 |  |
+| [El Doble](https://open.spotify.com/track/7bo4UV0Jf987r03w3UMJFi) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR), [DANNA](https://open.spotify.com/artist/3Lk8ifX8dLKXls1ZCZAHgc) | [El Doble](https://open.spotify.com/album/6tcjrCQj5gp2Tae9WMcCkS) | 3:18 | 2024-09-08 | 2026-05-28 |
 | [El Primer Dia Sin Ti](https://open.spotify.com/track/0SyiBeCbCEdZolhFoAvz94) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Danna Paola](https://open.spotify.com/album/1AKTMo2eJTgo9X37EiGaPR) | 3:54 | 2023-03-19 | 2026-04-09 |
 | [El Primer Dia Sin Ti](https://open.spotify.com/track/7i8Pt4HNuQideWC6t0cDX9) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Atrévete A Soñar](https://open.spotify.com/album/571Z1f9GtauZi0OmKUyPu6) | 3:55 | 2026-04-09 |  |
 | [El Primer Día Sin Ti \- En Vivo](https://open.spotify.com/track/40w6JzoJOApngC6wthJ0hN) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Atrévete A Soñar El Concierto \(En Vivo\)](https://open.spotify.com/album/4d5Xe8H0v3QQuYhjZNEno1) | 3:56 | 2026-04-02 |  |
@@ -138,6 +138,7 @@
 | [XT4S1S](https://open.spotify.com/track/3snQoH7rfd9ho1sejpFeJ1) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [CHILDSTAR](https://open.spotify.com/album/7HgMhV3EUrhCvEWgwNzdYH) | 3:39 | 2024-10-23 | 2026-02-25 |
 | [Yo Soy Tu Amigo Fiel](https://open.spotify.com/track/7nWhw9snsn5PLstV1Wz7Qm) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB), [Aleks Syntek](https://open.spotify.com/artist/0r8toju2ecKaVtItkzAnNi) | [Yo Soy Tu Amigo Fiel](https://open.spotify.com/album/30qjYHHwMXn7fiUKJcEwYn) | 3:03 | 2026-04-02 | 2026-05-17 |
 | [¿Dónde Estabas Tú?](https://open.spotify.com/track/1PyINqIUN9HFVrmhBACtBz) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [¿Dónde Estabas Tú?](https://open.spotify.com/album/4Zh7uV38M1p6v2JdS8lUA2) | 4:04 | 2023-03-19 | 2026-04-09 |
+| [¿Dónde Estabas Tú?](https://open.spotify.com/track/6v3FguYgfdASLOemDk8xaY) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Cena Musical Latina](https://open.spotify.com/album/1aLDb3B09PoafsgPxy6sNb) | 4:04 | 2026-05-28 |  |
 | [¿Que Se Sentirá Tener Mamá?](https://open.spotify.com/track/4ecnJhOVl6PTm351CJmSrZ) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [AmyLla Niña De La Mochila Azul Vol.2](https://open.spotify.com/album/0NuxVwqO5z5khKtDgS2EdW) | 2:57 | 2026-05-15 |  |
 
 \*This playlist was first scraped on 2023-03-20. Prior content cannot be recovered.

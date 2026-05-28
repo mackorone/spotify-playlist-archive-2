@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrgs30Ir8ow.md) - [plain]
 
 > Altijd frisse hits! Cover: Martin Garrix & Ed Sheeran
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,853 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,854 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Repeat It](https://open.spotify.com/track/5mX5bEYxObqukGlynRIVCj) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Repeat It](https://open.spotify.com/album/01deBuS0GqIpL6avvXaE11) | 3:11 |
-| 2 | [Ewa Safi](https://open.spotify.com/track/3PZ5mxb19denUmoHHpMipx) | [Noano](https://open.spotify.com/artist/5eDdy8QxB47JsLASK2FI1m), [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT) | [Ewa Safi](https://open.spotify.com/album/1hTb4919oA7x9I0JZCDJuE) | 2:23 |
-| 3 | [Dai Dai](https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Dai Dai](https://open.spotify.com/album/2eeufspLkAubwTJfOGSrI8) | 3:43 |
-| 4 | [Zeg Het Meteen \(feat\. Yung Felix, Kleine John & Bartofso\)](https://open.spotify.com/track/73375slBm9kry1CSwgfkvg) | [KATNUF](https://open.spotify.com/artist/4xDh11zptvPADSQxvbiClo), [Yung Felix](https://open.spotify.com/artist/6J2bFI9tQDWfPHjoKHKrOu), [Kleine John](https://open.spotify.com/artist/7bTUZU8QavxiW0GtvEVP0M), [Bartofso](https://open.spotify.com/artist/5EBNHekbDwV3Q9POxvSMBI) | [Zeg Het Meteen \(feat\. Yung Felix, Kleine John & Bartofso\)](https://open.spotify.com/album/0WD0XInsjB8yxdSQn2vGUm) | 2:31 |
-| 5 | [Bangaranga](https://open.spotify.com/track/6SvlfrQYzUsW5UQUpUpy26) | [DARA](https://open.spotify.com/artist/6WRl7KUrzOq7GpY97KrYxi) | [Bangaranga](https://open.spotify.com/album/2RRFlY4QIXwpfa6fZwfih8) | 2:57 |
-| 6 | [Janice STFU](https://open.spotify.com/track/514joG57v4yKTsfQmz7stz) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [ICEMAN](https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY) | 3:57 |
+| 2 | [Zeg Het Meteen \(feat\. Yung Felix, Kleine John & Bartofso\)](https://open.spotify.com/track/73375slBm9kry1CSwgfkvg) | [KATNUF](https://open.spotify.com/artist/4xDh11zptvPADSQxvbiClo), [Yung Felix](https://open.spotify.com/artist/6J2bFI9tQDWfPHjoKHKrOu), [Kleine John](https://open.spotify.com/artist/7bTUZU8QavxiW0GtvEVP0M), [Bartofso](https://open.spotify.com/artist/5EBNHekbDwV3Q9POxvSMBI) | [Zeg Het Meteen \(feat\. Yung Felix, Kleine John & Bartofso\)](https://open.spotify.com/album/0WD0XInsjB8yxdSQn2vGUm) | 2:31 |
+| 3 | [Bangaranga](https://open.spotify.com/track/6SvlfrQYzUsW5UQUpUpy26) | [DARA](https://open.spotify.com/artist/6WRl7KUrzOq7GpY97KrYxi) | [Bangaranga](https://open.spotify.com/album/2RRFlY4QIXwpfa6fZwfih8) | 2:57 |
+| 4 | [the cure](https://open.spotify.com/track/4EoJ151oQ5jY48z4RhSE96) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [the cure](https://open.spotify.com/album/6zme2NwcaBxbn3mWOcMY8y) | 4:57 |
+| 5 | [Janice STFU](https://open.spotify.com/track/514joG57v4yKTsfQmz7stz) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [ICEMAN](https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY) | 3:57 |
+| 6 | [Skyline](https://open.spotify.com/track/1j2G3mA1IU54sGcsEON6HB) | [3robi](https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o), [Mensa](https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC), [Frsh](https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN), [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q) | [Skyline](https://open.spotify.com/album/07EP0dTPYrapBsjRkzZrr0) | 2:37 |
 | 7 | [Boston](https://open.spotify.com/track/36idurZmYRjJ56KQ8JD9bN) | [STELLA LEFTY](https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2) | [Boston](https://open.spotify.com/album/4YLIRb8DdBTXbgHiFLicH2) | 2:50 |
 | 8 | [SHE DID IT AGAIN \(feat\. Zara Larsson\)](https://open.spotify.com/track/3jucj0h0tajme6rUEadmWN) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [SHE DID IT AGAIN \(feat\. Zara Larsson\)](https://open.spotify.com/album/13DVwg7TPRUC8BnLjblv5B) | 3:33 |
 | 9 | [Rozen & Blaadjes](https://open.spotify.com/track/2GRrIFuUibIBf2RMFYu1MR) | [Frsh](https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN), [Cristian D](https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4), [LA$$A](https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR) | [Rozen & Blaadjes](https://open.spotify.com/album/1v6MVT0CLct3K7NGC9gQmj) | 2:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrgs30Ir8ow.md) - [plain]
 | 49 | [Ik Ben Niet Meer Bang](https://open.spotify.com/track/6nZo4DQDz3UMqKCXi6UvYY) | [Hannah Mae](https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG), [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Ik Ben Niet Meer Bang](https://open.spotify.com/album/189EqxKsLbH39r47N0VMbi) | 3:01 |
 | 50 | [Zijkant](https://open.spotify.com/track/65bKgp0oPps8YDFaCWsMjg) | [Diquenza](https://open.spotify.com/artist/3DIhZ8xOvMa1KpXPV6BZXV), [Langa](https://open.spotify.com/artist/0BFood0cmj86LkpdOArhNs), [Priceless](https://open.spotify.com/artist/2408j875K0AESndCiOw5UO), [Equalz](https://open.spotify.com/artist/57RYqNhEvaNiafuP1X73GS) | [Zijkant](https://open.spotify.com/album/1LaxxpY3iDj4NxfirjjbX2) | 2:46 |
 
-Snapshot ID: `AAAAACvQb5gJ1xRuP99IcdwClEFWEXfj`
+Snapshot ID: `AAAAAAlQsfZwPseTPnthQZZ/vluwAGhW`

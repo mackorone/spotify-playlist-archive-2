@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Illuminating Asian artists everywhere, with a special takeover from Wasia Project \ud83c\udf1f",
+  "description": "Illuminating Asian artists everywhere. Cover: Karri",
   "name": "Jasmine",
   "tracks": [
     {
@@ -218,7 +218,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-28",
       "duration_ms": 241100,
       "name": "2515",
       "url": "https://open.spotify.com/track/6oJRAA2pF2VK8fmxTncqiG"
@@ -1204,7 +1204,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-28",
       "duration_ms": 206832,
       "name": "Andata",
       "url": "https://open.spotify.com/track/00vLRI75bd89zGMb9yRCq1"
@@ -3594,6 +3594,24 @@
       "duration_ms": 216603,
       "name": "Can't Get Over You",
       "url": "https://open.spotify.com/track/178ZvO20GAGgrxSDitOaYG"
+    },
+    {
+      "album": {
+        "name": "Can't Get You Out of My Head - Spotify Singles",
+        "url": "https://open.spotify.com/album/6ynUBc9yQ4pq7kImTMdOql"
+      },
+      "artists": [
+        {
+          "name": "Mikayla Geier",
+          "url": "https://open.spotify.com/artist/3L7svRFWE5kcIReq1uwC5J"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178733,
+      "name": "Can't Get You Out of My Head - Spotify Singles",
+      "url": "https://open.spotify.com/track/6j4kyvjM60Te1mU0H2LTwR"
     },
     {
       "album": {
@@ -6418,7 +6436,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-28",
       "duration_ms": 224998,
       "name": "drop dead",
       "url": "https://open.spotify.com/track/6gkbtMtioHgtyGjrMel6ei"
@@ -6512,7 +6530,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-28",
       "duration_ms": 314320,
       "name": "Duvet - Acoustic",
       "url": "https://open.spotify.com/track/0wlsgzAk1LaO8MMoXxpz7W"
@@ -7030,7 +7048,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-28",
       "duration_ms": 210640,
       "name": "Eternal Sunshine",
       "url": "https://open.spotify.com/track/3t844ssjXzE9M3SDtUxTI4"
@@ -8264,7 +8282,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-28",
       "duration_ms": 210909,
       "name": "Funk U Want",
       "url": "https://open.spotify.com/track/2aiiorAu7zLKYanYv47LjN"
@@ -8471,6 +8489,24 @@
     },
     {
       "album": {
+        "name": "Get It Together - Spotify Singles",
+        "url": "https://open.spotify.com/album/7wymyEC1XBcanHDS6c1kKb"
+      },
+      "artists": [
+        {
+          "name": "Karri",
+          "url": "https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171962,
+      "name": "Get It Together - Spotify Singles",
+      "url": "https://open.spotify.com/track/233GEAp3FyJCovl4x5VIUi"
+    },
+    {
+      "album": {
         "name": "Get Well Soon",
         "url": "https://open.spotify.com/album/4P0qK1UZsmlL9aspZaOkkJ"
       },
@@ -8540,7 +8576,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-28",
       "duration_ms": 214557,
       "name": "Gimme Love",
       "url": "https://open.spotify.com/track/2hfoyc7ve6xM4ZEiNIiU1B"
@@ -10796,7 +10832,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-28",
       "duration_ms": 135170,
       "name": "I Guess",
       "url": "https://open.spotify.com/track/39K4dMGtlkHv5lWlLajAQh"
@@ -11046,7 +11082,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-28",
       "duration_ms": 325013,
       "name": "I REMEMBER CLIFFORD",
       "url": "https://open.spotify.com/track/2nE08agYqb6fWGd7fuexVc"
@@ -11762,7 +11798,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-28",
       "duration_ms": 207830,
       "name": "Intimidated (feat. H.E.R.)",
       "url": "https://open.spotify.com/track/0dFdGPVLs3k0z9ezYWZzUa"
@@ -14074,7 +14110,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-28",
       "duration_ms": 301907,
       "name": "Lucif\u00e8rine",
       "url": "https://open.spotify.com/track/6yi1BE15fXy72Js1uvxf3v"
@@ -15522,7 +15558,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-28",
       "duration_ms": 242000,
       "name": "My Baby (Got Nothing At All) (Materialists Original Soundtrack)",
       "url": "https://open.spotify.com/track/6P0bG1wDbLvs8kNJV4hQUt"
@@ -17860,7 +17896,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-28",
       "duration_ms": 237231,
       "name": "Raingurl",
       "url": "https://open.spotify.com/track/4XXfQ8fBHMIgcygY4hV6RC"
@@ -25960,7 +25996,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-28",
       "duration_ms": 166513,
       "name": "\u00c9tudes: No. 6",
       "url": "https://open.spotify.com/track/3NKWhMbFlPGVGQPDvBz9zS"
@@ -25996,7 +26032,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-28",
       "duration_ms": 173037,
       "name": "\u516b\u65b9\u4f86\u8ca1(Stacks from All Sides)",
       "url": "https://open.spotify.com/track/7jm2PueKmv4EOHfdbdXMKT"
@@ -26086,7 +26122,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-28",
       "duration_ms": 206293,
       "name": "\u6708\u4eae\u4ee3\u8868\u6211\u7684\u5fc3",
       "url": "https://open.spotify.com/track/3Srw8isgDzmYsgwDi4MtbD"
@@ -26104,7 +26140,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-28",
       "duration_ms": 156666,
       "name": "\u7121\u5e38",
       "url": "https://open.spotify.com/track/0jtSFAf3BJP0QX0VJU1Luo"

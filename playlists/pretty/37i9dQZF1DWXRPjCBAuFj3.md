@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRPjCBAuFj3.md) - [plain]
 
 > Brani virali e trend, rap e urban 📈  Drake in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,398 likes - 111 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,420 likes - 111 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRPjCBAuFj3.md) - [plain]
 | 25 | [Soñar](https://open.spotify.com/track/3lI1sZnyM1Ju3ApgNo0ITT) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Soñar](https://open.spotify.com/album/7A70nUpKaVQYIlDfyZjoT0) | 4:15 |
 | 26 | [Sentir](https://open.spotify.com/track/08NK5WxAwXIRSzzX4UWBzd) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [Sentir](https://open.spotify.com/album/0F1SyuUCcaK0p23pNFGvkq) | 3:21 |
 | 27 | [COME SAREBBE IL MONDO SE REGNASSE L'ARTE \(feat\. 22simba\)](https://open.spotify.com/track/63XduKh85AiG9L1LjxcfHP) | [Diss Gacha](https://open.spotify.com/artist/4TKF8KSK6bgHgszFxu5xzu), [Sala](https://open.spotify.com/artist/3JgYm8oVvcrFpJBUNIonqM), [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7) | [NON È SOLO SWAG](https://open.spotify.com/album/6ctBV0IbZtYcCdN6ypbSic) | 2:30 |
-| 28 | [Splinter Cell](https://open.spotify.com/track/3KsGBiWVuybY3Zm7LDKuqK) | [G.Mineiro](https://open.spotify.com/artist/1dlyjeDlgXalzt5oqbgWDs) | [Splinter Cell](https://open.spotify.com/album/6R0HGRmgF4A0wMrwkTh6yr) | 1:57 |
+| 28 | [Splinter Cell](https://open.spotify.com/track/3KsGBiWVuybY3Zm7LDKuqK) | [G.Mineiro](https://open.spotify.com/artist/1dlyjeDlgXalzt5oqbgWDs), [Flatpearl](https://open.spotify.com/artist/2ifTEcQqKSPwijIEcPHQ1R), [Jiz](https://open.spotify.com/artist/38CThoTDmXugNnfonW466d), [Succo](https://open.spotify.com/artist/1l1A1U8VJM15W7zonFqKhg) | [Splinter Cell](https://open.spotify.com/album/6R0HGRmgF4A0wMrwkTh6yr) | 1:57 |
 | 29 | [4 Gambe](https://open.spotify.com/track/5nEWSUWRc3xjpJn25xbXFY) | [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB), [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h) | [4 Gambe](https://open.spotify.com/album/3CIAryrsaEFI1hPdPsUPvQ) | 2:21 |
 | 30 | [Lamine](https://open.spotify.com/track/0kHyQJgRXOfB5EhBFTSpRJ) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Reinsertado 2.0](https://open.spotify.com/album/1dpi5vuuSZ0NILVDKhi8Ii) | 3:29 |
 | 31 | [MARIA](https://open.spotify.com/track/4vbxC18tQdekz9pOEvly2X) | [Il Ghost](https://open.spotify.com/artist/2tOGpIgNsnDk6BxqFU2vCX), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [MARIA](https://open.spotify.com/album/0TM3NXFHM0PKEqKcnxKZIH) | 3:40 |

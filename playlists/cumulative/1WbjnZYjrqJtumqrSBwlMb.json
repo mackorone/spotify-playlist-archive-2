@@ -4567,6 +4567,24 @@
     },
     {
       "album": {
+        "name": "Dark Magic",
+        "url": "https://open.spotify.com/album/1iBUPWKDIoHqRhNxmnNQps"
+      },
+      "artists": [
+        {
+          "name": "Quadeca",
+          "url": "https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175047,
+      "name": "Dark Magic",
+      "url": "https://open.spotify.com/track/60hga4vu4erXRxcxEGDLMQ"
+    },
+    {
+      "album": {
         "name": "Dark Red",
         "url": "https://open.spotify.com/album/7vrsFZNVhrriKh0SZKJW41"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ICoVUm52hQ.md) - [plain]
 
 > .wac.flac.png\. 💿🤌🏽
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,521 likes - 41 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,490 likes - 41 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ICoVUm52hQ.md) - [plain]
 | 40 | [BLOMSTERTID](https://open.spotify.com/track/15uJdKxPB1UTFDSFVfxPBY) | [Dj Billybool](https://open.spotify.com/artist/1WbYH0xbbvXsjbbkFL2T4k), [Eurohead](https://open.spotify.com/artist/33AVv5yXn7muCLbo0R378f), [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [DYR Part 2](https://open.spotify.com/album/2IP5zXWos47rDYZymzfBzj) | 2:35 |
 | 41 | [Devotion](https://open.spotify.com/track/75dScdaNyWwokejiSZkVaC) | [Planet 1999](https://open.spotify.com/artist/0aoBUiGI5wrK7DOWJAzAKe) | [Devotion \(Deluxe\)](https://open.spotify.com/album/24ZsoeEvWnCVZnmU7Ken97) | 2:39 |
 
-Snapshot ID: `AAAAAA/uxalL6ocFrdDcpdCoFQe75CMJ`
+Snapshot ID: `AAAAAOGTlH2efcJHroBYrzJ50qiCjNhz`

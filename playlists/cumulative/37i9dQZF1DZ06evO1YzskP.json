@@ -136,7 +136,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-28",
       "duration_ms": 216633,
       "name": "Apenas es Martes",
       "url": "https://open.spotify.com/track/56goS93EXFXZk4X6qPxJAt"
@@ -1554,6 +1554,24 @@
       "duration_ms": 163040,
       "name": "Los Pasajes Del Sera",
       "url": "https://open.spotify.com/track/7fVZVKzWzM7G1Q5jBiMyE5"
+    },
+    {
+      "album": {
+        "name": "La Pizza Est\u00e1 En El Horno",
+        "url": "https://open.spotify.com/album/0eAaADSOuZD37GKE1DlXT9"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154453,
+      "name": "Los Placeres De Archivaldo",
+      "url": "https://open.spotify.com/track/0R5v32TLIxi5ueBqBxO89o"
     },
     {
       "album": {

@@ -2,17 +2,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4qF0846GNk8.md) - [plain]
 
 ### [أقوى المهرجانات](https://open.spotify.com/playlist/37i9dQZF1DX4qF0846GNk8)
 
-> أجمد المهرجانات في مصر! الغلاف: كريم كرستيانو
+> أجمد المهرجانات في مصر! الغلاف: عصام صاصا
 
-[Spotify](https://open.spotify.com/user/spotify) - 659,711 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 660,147 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [مين ده اللي انتهي ده انا لسه بسخنلها](https://open.spotify.com/track/4h07zy8WjDgqfejrtpOJbo) | [Karim Cristiano](https://open.spotify.com/artist/6Ss3HQTUk6PeyD1a0IV6RB), [Mostafa El Gen](https://open.spotify.com/artist/2drznmRpH5GnzMiKfJDyOZ), [Hady Elsoghier](https://open.spotify.com/artist/66pSOOZGUOYqqjCzdMd7s2) | [مين ده اللي انتهي ده انا لسه بسخنلها](https://open.spotify.com/album/2720vxekX6bqOS9satx13H) | 3:30 |
-| 2 | [أنا مش شايفك \(أنا السالك وأنا السهم المنطلق\)](https://open.spotify.com/track/4zLvjlzWVu3iW6ZDyvuHgT) | [حمو المرشدي](https://open.spotify.com/artist/42bLvjMTikom8zqIxOgUEY) | [أنا مش شايفك \(أنا السالك وأنا السهم المنطلق\)](https://open.spotify.com/album/0pq2aHDJjyI8FtwA0KiWHy) | 4:13 |
-| 3 | [انا 5 استار على كوكبى](https://open.spotify.com/track/0Br3YI2wSgy62XhFQdsXzD) | [حمو المرشدي](https://open.spotify.com/artist/42bLvjMTikom8zqIxOgUEY) | [انا 5 استار على كوكبى](https://open.spotify.com/album/0l2T8bGfUDFxEmuZpg0nJo) | 4:38 |
-| 4 | [الغابة ليها بابا \( هو الديب لما يغيب \)](https://open.spotify.com/track/0EkXpiZTDd9EBb1BOCtjwF) | [مصطفي الجن و هادي الصغير \- تيم الابداع](https://open.spotify.com/artist/5ocZbmWp3jlpBeLOEgsFcc) | [الغابة ليها بابا \( هو الديب لما يغيب \)](https://open.spotify.com/album/22u0oYA3g04ts1Deuku5ae) | 3:12 |
-| 5 | [كلبي المجنون خطر](https://open.spotify.com/track/4KZt3Q1srQVim6q8IayOFn) | [Kimo Eldeeb](https://open.spotify.com/artist/18A2yU1GvQnE6cozN5oJky), [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [كلبي المجنون خطر](https://open.spotify.com/album/1ubarCiljbhUoIjtLPX8l8) | 3:18 |
+| 1 | [كلبي المجنون خطر](https://open.spotify.com/track/4KZt3Q1srQVim6q8IayOFn) | [Kimo Eldeeb](https://open.spotify.com/artist/18A2yU1GvQnE6cozN5oJky), [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [كلبي المجنون خطر](https://open.spotify.com/album/1ubarCiljbhUoIjtLPX8l8) | 3:18 |
+| 2 | [مين ده اللي انتهي ده انا لسه بسخنلها](https://open.spotify.com/track/4h07zy8WjDgqfejrtpOJbo) | [Karim Cristiano](https://open.spotify.com/artist/6Ss3HQTUk6PeyD1a0IV6RB), [Mostafa El Gen](https://open.spotify.com/artist/2drznmRpH5GnzMiKfJDyOZ), [Hady Elsoghier](https://open.spotify.com/artist/66pSOOZGUOYqqjCzdMd7s2) | [مين ده اللي انتهي ده انا لسه بسخنلها](https://open.spotify.com/album/2720vxekX6bqOS9satx13H) | 3:30 |
+| 3 | [أنا مش شايفك \(أنا السالك وأنا السهم المنطلق\)](https://open.spotify.com/track/4zLvjlzWVu3iW6ZDyvuHgT) | [حمو المرشدي](https://open.spotify.com/artist/42bLvjMTikom8zqIxOgUEY) | [أنا مش شايفك \(أنا السالك وأنا السهم المنطلق\)](https://open.spotify.com/album/0pq2aHDJjyI8FtwA0KiWHy) | 4:13 |
+| 4 | [انا 5 استار على كوكبى](https://open.spotify.com/track/0Br3YI2wSgy62XhFQdsXzD) | [حمو المرشدي](https://open.spotify.com/artist/42bLvjMTikom8zqIxOgUEY) | [انا 5 استار على كوكبى](https://open.spotify.com/album/0l2T8bGfUDFxEmuZpg0nJo) | 4:38 |
+| 5 | [الغابة ليها بابا \( هو الديب لما يغيب \)](https://open.spotify.com/track/0EkXpiZTDd9EBb1BOCtjwF) | [مصطفي الجن و هادي الصغير \- تيم الابداع](https://open.spotify.com/artist/5ocZbmWp3jlpBeLOEgsFcc) | [الغابة ليها بابا \( هو الديب لما يغيب \)](https://open.spotify.com/album/22u0oYA3g04ts1Deuku5ae) | 3:12 |
 | 6 | [طول منا عالي طول منا ناجح](https://open.spotify.com/track/2lLBXnu9xIPx2JIsiRqon1) | [حمو المرشدي](https://open.spotify.com/artist/42bLvjMTikom8zqIxOgUEY) | [طول منا عالي طول منا ناجح](https://open.spotify.com/album/3e0vMPRmN1KM04fe3LhAI7) | 4:52 |
 | 7 | [الشدايد باينت](https://open.spotify.com/track/3bDfVpMtv62DekRPIe6NWF) | [Omar Hefzy](https://open.spotify.com/artist/5n5h1d0zdWdWRzOlPlS874), [Osha El Soghayar](https://open.spotify.com/artist/2ct9fGtMhsB0TM4cyZHmrg), [mohamed elbosely](https://open.spotify.com/artist/4u9c50zufE3gWKaYVSEilr) | [الشدايد باينت](https://open.spotify.com/album/3e9SDCbQZRc6EuPvg6o2Tn) | 5:06 |
 | 8 | [اوعي تعمل فيها بطير \( عيب يا صاحبي تجيب في سيرتي \)](https://open.spotify.com/track/1QkfUQ5oW0NtrsbPbhOXsb) | [Ahmed Moza](https://open.spotify.com/artist/4vOfY5JSqJJPspHqGp4EZl) | [اوعي تعمل فيها بطير \( عيب يا صاحبي تجيب في سيرتي \)](https://open.spotify.com/album/1IV7jBWBS47bm0yXN8HHY8) | 4:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4qF0846GNk8.md) - [plain]
 | 49 | [العودة من بعد الغياب](https://open.spotify.com/track/4NRlZae2zcdVHGauLgJpHX) | [Felo](https://open.spotify.com/artist/4JhWEqWfwTQywn7lKkNWt5) | [العودة من بعد الغياب](https://open.spotify.com/album/1dDpWoqT9YSFfkXzeLzX5Y) | 3:55 |
 | 50 | [قاعد وبتفرج](https://open.spotify.com/track/45UhzjLtR3VMPgx7xO2plv) | [Ahmed Amer](https://open.spotify.com/artist/30rRZEkK9ZECZDSV8bIkV0) | [قاعد وبتفرج](https://open.spotify.com/album/0R5x0p6thoiMolIIHWhxKw) | 3:18 |
 
-Snapshot ID: `AAAAAMpCuZ8kE3NCtwfS50wZt+cTsmxZ`
+Snapshot ID: `AAAAAKpFHZAyhxNZY+8DTqtvmngepixo`

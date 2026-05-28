@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-[pma4real](https://open.spotify.com/user/jasonwaroff) - 880 likes - 67 songs - 3 hr 41 min
+[pma4real](https://open.spotify.com/user/jasonwaroff) - 889 likes - 68 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,5 +75,6 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 | 65 | [Take What Is Left](https://open.spotify.com/track/3NnzCY51DZrwFBNjcUozBP) | [Edgeline](https://open.spotify.com/artist/6rzkpsF9nG5ScJFYTGTUOB) | [Leave](https://open.spotify.com/album/3OgnRzvhhrrcaci5Qapuqr) | 4:19 |
 | 66 | [Retazos](https://open.spotify.com/track/2W6RLkNVNJP9gNC7KLbN6a) | [RAN](https://open.spotify.com/artist/4tRHpUUjRHeWreweQxjMXa) | [Retazos](https://open.spotify.com/album/5WC2vaK0yh1TVUDOaGdJay) | 3:06 |
 | 67 | [Follow](https://open.spotify.com/track/3Hld2nGje5pWk66c3GAWOj) | [Vance](https://open.spotify.com/artist/11LpEjg6drv4G1kBItUSn6) | [Follow](https://open.spotify.com/album/6SvROxW4ZNQRkhesEl8lI9) | 3:58 |
+| 68 | [1000 Kilómetros](https://open.spotify.com/track/0fZ3Wcrlzz9OaURp2WJJ0V) | [María Montenegro](https://open.spotify.com/artist/0cnIFVS9I8UzqNlEQxvOin) | [1000 Kilómetros](https://open.spotify.com/album/5wMQCKdpfs29F4NyrTibLx) | 3:04 |
 
-Snapshot ID: `AAAD3e0A7mF3uzGs78cRGDqMNoUGdxmk`
+Snapshot ID: `AAAD3v5nKc/IHo3syMzwpGhkp44qitGg`

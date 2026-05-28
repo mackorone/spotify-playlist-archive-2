@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWu1NXpHyPJK.md) - [plain]
 
 > Allerbeste songs van de 90's! Cover: No Doubt
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,762 likes - 100 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,769 likes - 100 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWu1NXpHyPJK.md) - [plain]
 | 44 | [Nobody's Wife](https://open.spotify.com/track/1Q0p30HuN1ADMX2CmPzIvO) | [Anouk](https://open.spotify.com/artist/6ltVunYjAAD70YtVO6rxvX) | [Together Alone](https://open.spotify.com/album/3zMAFbz27Bd7gtmPFAq46b) | 3:25 |
 | 45 | [Cose della vita \(Can't Stop Thinking of You\) \(feat\. Tina Turner\)](https://open.spotify.com/track/63RAhyfI3l2612x8q53BOh) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX), [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [Eros](https://open.spotify.com/album/5MDsDepmrXoKkYwY8ZyS3r) | 4:51 |
 | 46 | [Harder Dan Ik Hebben Kan](https://open.spotify.com/track/1buASziRLNHXcTVYFWZ8EK) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Boven](https://open.spotify.com/album/198mMFxiYJihAoJzn7cRO6) | 4:13 |
-| 47 | [Pour que tu m'aimes encore](https://open.spotify.com/track/6qlpXtA29VcxCNgLWR5IWx) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [D'Eux](https://open.spotify.com/album/0DdTKXdgMLcSqccdyj6D9p) | 4:14 |
-| 48 | [Fell In Love With An Alien](https://open.spotify.com/track/7ByhqIL2dqk4W0jPTkWc9A) | [The Kelly Family](https://open.spotify.com/artist/5KU4DdFlZy6aiI5u6nhywP) | [Almost Heaven](https://open.spotify.com/album/15g36gwo1i1sQOheZG7GHh) | 3:11 |
+| 47 | [Fell In Love With An Alien](https://open.spotify.com/track/7ByhqIL2dqk4W0jPTkWc9A) | [The Kelly Family](https://open.spotify.com/artist/5KU4DdFlZy6aiI5u6nhywP) | [Almost Heaven](https://open.spotify.com/album/15g36gwo1i1sQOheZG7GHh) | 3:11 |
+| 48 | [Pour que tu m'aimes encore](https://open.spotify.com/track/6qlpXtA29VcxCNgLWR5IWx) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [D'Eux](https://open.spotify.com/album/0DdTKXdgMLcSqccdyj6D9p) | 4:14 |
 | 49 | [Joyride \- Single Version](https://open.spotify.com/track/3Skwc4sh1QHUGcWrFBFWSF) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Don't Bore Us \- Get to the Chorus! Roxette's Greatest Hits](https://open.spotify.com/album/6Zd1OLqFX5geleqvJ9xtAL) | 4:01 |
 | 50 | [Stil In Mij](https://open.spotify.com/track/3xOiF0xnt47PgOwprICudF) | [Van Dik Hout](https://open.spotify.com/artist/7t1YgV4PxSjBg9P8ZqE4Vo) | [Van Dik Hout](https://open.spotify.com/album/74dehe0e0Thai6kw4u0Jrc) | 4:04 |
 | 51 | [Mysterious Girl \- Radio Edit](https://open.spotify.com/track/3GCpEbJzknVdpvx9WI03x3) | [Peter Andre](https://open.spotify.com/artist/4zVfvSWs6FvSD6B5lQGs2S) | [The Long Road Back](https://open.spotify.com/album/5SzHkxYKPIK4LcGaJrgnNU) | 3:37 |
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWu1NXpHyPJK.md) - [plain]
 | 78 | [What Is Love \- 7" Mix](https://open.spotify.com/track/2ahnofp2LbBWDXcJbMaSTu) | [Haddaway](https://open.spotify.com/artist/0Suv0tRrNrUlRzAy8aXjma) | [What Is Love \(Remixes\)](https://open.spotify.com/album/0qTVjeVP70YvQG4GctetOf) | 4:30 |
 | 79 | [Wonderwall \(Remastered\)](https://open.spotify.com/track/5wj4E6IsrVtn8IBJQOd0Cl) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory? \(Deluxe Edition\) \[Remastered\]](https://open.spotify.com/album/6ozp33PI3p9AdddB6ZL3xQ) | 4:18 |
 | 80 | [Losing My Religion](https://open.spotify.com/track/74EV0g12ihUoOUXMprFpZB) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Out Of Time \(U.S\. Version\)](https://open.spotify.com/album/4v5hSLj6ClyLqj2nnaPbfD) | 4:27 |
-| 81 | [No Limit](https://open.spotify.com/track/7pSJmBTlbA4S5zSLsj6Pzz) | [2 Unlimited](https://open.spotify.com/artist/18JD8DVlD1fakDAw7E9LFC) | [Unlimited Hits & Remixes](https://open.spotify.com/album/31ZELjZPFpr5326F1uojYm) | 3:43 |
-| 82 | [Rhythm Is A Dancer \- 7" Edit](https://open.spotify.com/track/5iEDwEp82uLN3X6llJdqen) | [SNAP!](https://open.spotify.com/artist/2FrKQPjJe4pVMZOgm0ESOx) | [SNAP! The Power Greatest Hits](https://open.spotify.com/album/3SxQyJ7t7NVkUrJYh0TZqi) | 3:45 |
+| 81 | [Rhythm Is A Dancer \- 7" Edit](https://open.spotify.com/track/5iEDwEp82uLN3X6llJdqen) | [SNAP!](https://open.spotify.com/artist/2FrKQPjJe4pVMZOgm0ESOx) | [SNAP! The Power Greatest Hits](https://open.spotify.com/album/3SxQyJ7t7NVkUrJYh0TZqi) | 3:45 |
+| 82 | [No Limit](https://open.spotify.com/track/7pSJmBTlbA4S5zSLsj6Pzz) | [2 Unlimited](https://open.spotify.com/artist/18JD8DVlD1fakDAw7E9LFC) | [Unlimited Hits & Remixes](https://open.spotify.com/album/31ZELjZPFpr5326F1uojYm) | 3:43 |
 | 83 | [Don't Speak](https://open.spotify.com/track/7H8zey5My6uNdD2TxeCb9F) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Tragic Kingdom](https://open.spotify.com/album/22MtHr01EzeL6jmc5uwpHC) | 4:23 |
 | 84 | [Wonderfull Days \- Radio Edit](https://open.spotify.com/track/5RFvmMTrWWMkUxfhrnckOJ) | [Charly Lownoise & Mental Theo](https://open.spotify.com/artist/5GLFbwgiU1YyAoQD8C4nvC) | [The Best Of Charly Lownoise & Mental Theo](https://open.spotify.com/album/2VDYE3MgwJcX5csT8q4idL) | 3:51 |
 | 85 | [Lemon Tree](https://open.spotify.com/track/4fXGWiVhlOLdhwRDP6pIFG) | [Fools Garden](https://open.spotify.com/artist/0jRqFvRKCDryHOgrgFqsKG) | [Dish Of The Day](https://open.spotify.com/album/1l2SxZKUm1UH45qUqpLfYH) | 3:11 |
@@ -102,8 +102,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWu1NXpHyPJK.md) - [plain]
 | 92 | [Luv U More](https://open.spotify.com/track/4yW7EvENzT9PbPOJ3rCHzQ) | [Paul Elstak](https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6) | [Super Dance Hits From The Nineties](https://open.spotify.com/album/2uyxV4sFOxo8Ool8FS5V5u) | 3:50 |
 | 93 | [Aan De Kust](https://open.spotify.com/track/7mvxl7tRdYZsJ9jxgIJrVa) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Hier \- Het Beste Van 20 Jaar BLØF](https://open.spotify.com/album/6CXlCKvZ8vyIEDlOIDZZUp) | 3:33 |
 | 94 | [Don't Look Back in Anger](https://open.spotify.com/track/698mT3CTx8JEnp7twwJrGG) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's the Story\) Morning Glory?](https://open.spotify.com/album/5NCJ52G67LVp5elc367Sjs) | 4:47 |
-| 95 | [Ain't That Just the Way](https://open.spotify.com/track/7tHYA0eEH6dAAzMurBNvT9) | [Lutricia McNeal](https://open.spotify.com/artist/15CJJkRAJlTG8kA8Eo1f4x) | [Ain't That Just The Way](https://open.spotify.com/album/3NeWmOPcqIrWVNRWHY5m39) | 3:34 |
-| 96 | [Love Shine a Light](https://open.spotify.com/track/0WdBh2BQOq9U7PMk6sWzMz) | [Katrina & The Waves](https://open.spotify.com/artist/2TzHIUhVpeeDxyJPpQfnV3) | [Love Shine a Light \(15th Anniversary Edition\)](https://open.spotify.com/album/29gNuIQQWjYgtsDOeoYkTk) | 3:07 |
+| 95 | [Love Shine a Light](https://open.spotify.com/track/0WdBh2BQOq9U7PMk6sWzMz) | [Katrina & The Waves](https://open.spotify.com/artist/2TzHIUhVpeeDxyJPpQfnV3) | [Love Shine a Light \(15th Anniversary Edition\)](https://open.spotify.com/album/29gNuIQQWjYgtsDOeoYkTk) | 3:07 |
+| 96 | [Ain't That Just the Way](https://open.spotify.com/track/7tHYA0eEH6dAAzMurBNvT9) | [Lutricia McNeal](https://open.spotify.com/artist/15CJJkRAJlTG8kA8Eo1f4x) | [Ain't That Just The Way](https://open.spotify.com/album/3NeWmOPcqIrWVNRWHY5m39) | 3:34 |
 | 97 | ['k Heb Je Lief](https://open.spotify.com/track/0lhD98JGwGzR16lJTERuO3) | [Paul de Leeuw](https://open.spotify.com/artist/2UWFwMXUXbEs79qbI4NdTT) | [Lief](https://open.spotify.com/album/7DLAUjfxtg8iADMhPjGhbP) | 4:44 |
 | 98 | [No Matter What](https://open.spotify.com/track/6SLLoLPDg6XALqgCs9rBX3) | [Boyzone](https://open.spotify.com/artist/6X9aYHnQ75YI8o08aoa0iS) | [Where We Belong](https://open.spotify.com/album/0tjhK9DQNlv4WdqBSb3Iri) | 4:34 |
 | 99 | [I've Been Thinking About You](https://open.spotify.com/track/3zjZaGqcepRo80Btq4C1x0) | [Londonbeat](https://open.spotify.com/artist/0gcMPgunYh4rX1UOdvZKBn) | [Best! The Singles](https://open.spotify.com/album/45fP2Xav7Q8EvOWNXxSHVC) | 3:49 |

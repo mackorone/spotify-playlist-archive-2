@@ -1,6 +1,6 @@
 {
   "description": "The ultimate reggae playlist. Cover: Bob Marley",
-  "num_followers": 3212917,
+  "num_followers": 3213257,
   "original_name": "Reggae Classics",
   "owner": {
     "name": "Spotify",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2024-01-29 05:18:16",
       "album": {
-        "name": "Let's Do Rocksteady: The Story Of Rocksteady 1966-68",
-        "url": "https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD"
-      },
-      "artists": [
-        {
-          "name": "The Kingstonians",
-          "url": "https://open.spotify.com/artist/2NzuDDwo53DigKbHuCZo7C"
-        }
-      ],
-      "duration_ms": 172933,
-      "name": "Winey Winey",
-      "url": "https://open.spotify.com/track/2UOdR8zPhwqpyMmMKMPzzN"
-    },
-    {
-      "added_at": "2024-01-29 05:18:16",
-      "album": {
         "name": "Reggae Classics",
         "url": "https://open.spotify.com/album/1vVZU5EoAOgo1YUCWcofAP"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 275320,
       "name": "Graveyard Rock",
       "url": "https://open.spotify.com/track/11nF2K1iXn9Ettln1Nc29b"
+    },
+    {
+      "added_at": "2024-01-29 05:18:16",
+      "album": {
+        "name": "Let's Do Rocksteady: The Story Of Rocksteady 1966-68",
+        "url": "https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD"
+      },
+      "artists": [
+        {
+          "name": "The Kingstonians",
+          "url": "https://open.spotify.com/artist/2NzuDDwo53DigKbHuCZo7C"
+        }
+      ],
+      "duration_ms": 172933,
+      "name": "Winey Winey",
+      "url": "https://open.spotify.com/track/2UOdR8zPhwqpyMmMKMPzzN"
     },
     {
       "added_at": "2024-01-29 05:18:16",
@@ -1156,22 +1156,6 @@
       },
       "artists": [
         {
-          "name": "The Uniques",
-          "url": "https://open.spotify.com/artist/1EV3e39He1WLxcD1EjluLb"
-        }
-      ],
-      "duration_ms": 189986,
-      "name": "Gypsy Woman",
-      "url": "https://open.spotify.com/track/4t5ARSYWg1wBOAXh6Yvr9g"
-    },
-    {
-      "added_at": "2024-01-29 05:18:16",
-      "album": {
-        "name": "Let's Do Rocksteady: The Story Of Rocksteady 1966-68",
-        "url": "https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD"
-      },
-      "artists": [
-        {
           "name": "The Upsetters",
           "url": "https://open.spotify.com/artist/12CNljuN6DW9e5x61FS03b"
         },
@@ -1183,6 +1167,22 @@
       "duration_ms": 155240,
       "name": "People Funny Boy",
       "url": "https://open.spotify.com/track/1pTu7NhYatmXHmGxJjVw4w"
+    },
+    {
+      "added_at": "2024-01-29 05:18:16",
+      "album": {
+        "name": "Let's Do Rocksteady: The Story Of Rocksteady 1966-68",
+        "url": "https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD"
+      },
+      "artists": [
+        {
+          "name": "The Uniques",
+          "url": "https://open.spotify.com/artist/1EV3e39He1WLxcD1EjluLb"
+        }
+      ],
+      "duration_ms": 189986,
+      "name": "Gypsy Woman",
+      "url": "https://open.spotify.com/track/4t5ARSYWg1wBOAXh6Yvr9g"
     },
     {
       "added_at": "2024-01-29 05:18:16",
@@ -1627,18 +1627,18 @@
     {
       "added_at": "2024-01-29 05:18:16",
       "album": {
-        "name": "Super Reggae & Soul Hits",
-        "url": "https://open.spotify.com/album/0IJUDErou9bNaYz6gXkwAP"
+        "name": "Reggae Classics",
+        "url": "https://open.spotify.com/album/1vVZU5EoAOgo1YUCWcofAP"
       },
       "artists": [
         {
-          "name": "Dennis Brown",
-          "url": "https://open.spotify.com/artist/0UmBaQJflaHddKtf1lrA6F"
+          "name": "Laid Back",
+          "url": "https://open.spotify.com/artist/2OLmN3LLWtLF7zerL4VdaX"
         }
       ],
-      "duration_ms": 163826,
-      "name": "Lips of Wine",
-      "url": "https://open.spotify.com/track/2Wv7ETWvaAmsQT2hk0Hk76"
+      "duration_ms": 254453,
+      "name": "Sunshine Reggae",
+      "url": "https://open.spotify.com/track/3VXtRTAn8RyKM5qTa5Tazi"
     }
   ],
   "unique_name": "Reggae Classics",

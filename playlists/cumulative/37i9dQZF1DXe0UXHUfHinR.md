@@ -4,7 +4,7 @@
 
 > The most popular Jazz tracks in one playlist\. Cover: Herbie Hancock
 
-868 songs - 2 day 21 hr 51 min
+869 songs - 2 day 21 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,7 +133,7 @@
 | [Body And Soul](https://open.spotify.com/track/0BKNINLyNmQUvs9biD0ynB) | [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32) | [Further Definitions](https://open.spotify.com/album/3dGCBOJgxxUO8roYSTCc8k) | 4:10 | 2024-07-17 |  |
 | [Body and Soul](https://open.spotify.com/track/2xm9ihELo6xwrRKrBbPql9) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0) | [Body & Soul](https://open.spotify.com/album/6Ieo4Lrku0sQ63Pd9G8j3L) | 3:02 | 2022-10-27 | 2024-04-19 |
 | [Body and Soul](https://open.spotify.com/track/01hJnhpAmjzg85Etnz2ECH) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Duets II](https://open.spotify.com/album/5ktAYFq8wJ1hcWHaxl6AQf) | 3:20 | 2022-10-27 |  |
-| [Boo's Blues](https://open.spotify.com/track/1bnnJsnSGD4hmNG7J0BMFG) | [Julian Lage](https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT) | [Squint](https://open.spotify.com/album/4eomOt6YKFtZhFPyoSwrSC) | 3:25 | 2025-12-04 |  |
+| [Boo's Blues](https://open.spotify.com/track/1bnnJsnSGD4hmNG7J0BMFG) | [Julian Lage](https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT) | [Squint](https://open.spotify.com/album/4eomOt6YKFtZhFPyoSwrSC) | 3:25 | 2025-12-04 | 2026-05-28 |
 | [Boogie Stop Shuffle](https://open.spotify.com/track/11cHTwgw5L3qrNcv5Ugv0O) | [Charles Mingus](https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H) | [Mingus Ah Um](https://open.spotify.com/album/7pojWP7x9uEFSJgw765khA) | 4:58 | 2023-11-16 | 2024-03-02 |
 | [Bossa Antigua](https://open.spotify.com/track/5kapVb34raTBsynt0Zj6qw) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [Bossa Antigua](https://open.spotify.com/album/620p4tcAC1PAmDUY8Vk5KT) | 4:42 | 2022-10-27 | 2024-04-19 |
 | [Bossa Antigua](https://open.spotify.com/track/6QJT16QV1nGu0ZPjL4HCMe) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [The Complete RCA Victor Recordings](https://open.spotify.com/album/0ax9jxqZER7j03vyCGFM3X) | 4:44 | 2024-03-20 | 2026-04-03 |
@@ -143,7 +143,7 @@
 | [Bright Size Life](https://open.spotify.com/track/6UwTR0kjCtlT4FMNtIvLac) | [Pat Metheny](https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA) | [Bright Size Life](https://open.spotify.com/album/1wyaHGxXkIGaLGSQTTgKzw) | 4:45 | 2022-10-27 |  |
 | [Bumpin' On Sunset](https://open.spotify.com/track/1yxJK6q9oymWO3vjbPCYmp) | [Wes Montgomery](https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ) | [Tequila \(Expanded Edition\)](https://open.spotify.com/album/7DGv1MKlPZrLkP0HCSDm8I) | 4:49 | 2023-02-15 |  |
 | [But Beautiful](https://open.spotify.com/track/1XCBWtTJZuHbwa6GLUutjo) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Stan Getz & Bill Evans](https://open.spotify.com/album/5hDoJAJdkIETlQajUu71hQ) | 4:40 | 2023-08-30 |  |
-| [But Not For Me \- Live At The Pershing, Chicago, 1958](https://open.spotify.com/track/5iWKFIAbqS8btb6jquMusM) | [Ahmad Jamal Trio](https://open.spotify.com/artist/0BqALs1lInR9TTOulUADH7) | [Ahmad Jamal At The Pershing: But Not For Me](https://open.spotify.com/album/3nUwuIFxJid3GQo8c4F6HY) | 3:32 | 2022-10-27 |  |
+| [But Not For Me \- Live At The Pershing, Chicago, 1958](https://open.spotify.com/track/5iWKFIAbqS8btb6jquMusM) | [Ahmad Jamal Trio](https://open.spotify.com/artist/0BqALs1lInR9TTOulUADH7) | [Ahmad Jamal At The Pershing: But Not For Me](https://open.spotify.com/album/3nUwuIFxJid3GQo8c4F6HY) | 3:32 | 2022-10-27 | 2026-05-28 |
 | [But Not For Me \- Vocal Version](https://open.spotify.com/track/3pfbQmD5xGH9Tcc7GqGfSL) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings](https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4) | 3:04 | 2024-07-17 |  |
 | [Bye Bye Blackbird](https://open.spotify.com/track/7GBPpRMtLyGA6svXQMNfIN) | [Etta Jones](https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0) | [Don't Go To Strangers \(Rudy Van Gelder Remaster\)](https://open.spotify.com/album/5haiDu2ti0IHBHchx7dNjt) | 3:14 | 2022-10-27 |  |
 | [C Jam Blues](https://open.spotify.com/track/4aThNuFztJ15YremppiZUJ) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Night Train \(Expanded Edition\)](https://open.spotify.com/album/3gPOWmWT0q7Ygp95Xiuw1v) | 3:23 | 2022-10-27 |  |
@@ -731,7 +731,7 @@
 | [That Old Feeling](https://open.spotify.com/track/6PmKatJs99z0fDXi9624pk) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Louis Armstrong Meets Oscar Peterson \(Expanded Edition\)](https://open.spotify.com/album/6P8XQuvUsn5L1xiGJUXLJ0) | 2:43 | 2025-12-04 |  |
 | [That's All](https://open.spotify.com/track/53VuyKap8WiDjkrtm5d4h3) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [King Of The Tenors \(Expanded Edition\)](https://open.spotify.com/album/2Lqk81OEcLDPxcY5ZGmB4v) | 3:47 | 2022-10-27 |  |
 | [That's The Way Love Goes](https://open.spotify.com/track/6UkHSbQcqBwWZr98OSELoL) | [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [After The Storm](https://open.spotify.com/album/5vhTq5K0zLlKHovFu7MpWj) | 4:45 | 2022-10-27 |  |
-| [The Awakening](https://open.spotify.com/track/4QC4XLTPHiSdexDsKO5Vi7) | [Ahmad Jamal Trio](https://open.spotify.com/artist/0BqALs1lInR9TTOulUADH7) | [The Awakening](https://open.spotify.com/album/5oSVYKZLKGCmwYqmJ7AZnO) | 6:21 | 2023-06-21 | 2026-05-12 |
+| [The Awakening](https://open.spotify.com/track/4QC4XLTPHiSdexDsKO5Vi7) | [Ahmad Jamal Trio](https://open.spotify.com/artist/0BqALs1lInR9TTOulUADH7) | [The Awakening](https://open.spotify.com/album/5oSVYKZLKGCmwYqmJ7AZnO) | 6:21 | 2023-06-21 |  |
 | [The Boy From Ipanema](https://open.spotify.com/track/2chTka18XL8un05Pkb8Lis) | [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb) | [How Glad I Am](https://open.spotify.com/album/4qgiPr8Wg6HpqtfZBzcKqt) | 2:14 | 2022-10-27 |  |
 | [The Call](https://open.spotify.com/track/2rb45s3pCXLMZGD1WiKFjG) | [Jacky Terrasson](https://open.spotify.com/artist/2I5A4xP3QGJEDKGhhXMAVr) | [53](https://open.spotify.com/album/4Z5gPQXauPwNq1XhzpwKA9) | 4:03 | 2024-07-17 |  |
 | [The Cat](https://open.spotify.com/track/1AZ5G23Kcn9h5Awws5Ekf3) | [Jimmy Smith](https://open.spotify.com/artist/5GXruybcLmXPjR9rKKFyS6) | [The Cat](https://open.spotify.com/album/6CvGnsHhBjVvGKgmIkpLMs) | 3:24 | 2022-10-27 |  |
@@ -802,6 +802,7 @@
 | [Until The Real Thing Comes Along](https://open.spotify.com/track/4F0sSQCicLl5tme407ubvS) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0) | [Soul](https://open.spotify.com/album/13sH8kz1Fjh0jvekB0thjt) | 4:42 | 2024-03-20 |  |
 | [Vendome](https://open.spotify.com/track/1L7l5qJeQpqWDigBjxUcQw) | [The Modern Jazz Quartet](https://open.spotify.com/artist/7wBFjZMHsC6nfV0HOSd6uI) | [Pyramid](https://open.spotify.com/album/53JQWUSeq9LeRsSLMrXVKZ) | 2:30 | 2022-10-27 |  |
 | [Vid Frösö kyrka \- From Frösöblomster](https://open.spotify.com/track/6bqNdzv1KHd5C7ae0YbV7r) | [Trio X of Sweden](https://open.spotify.com/artist/51s0AOLvBvXk75SsVUqIKZ) | [Träumerei](https://open.spotify.com/album/0xvKY28Z5isacgZ1CoEn8r) | 4:57 | 2023-10-05 | 2025-08-07 |
+| [Violets For Your Furs](https://open.spotify.com/track/6u4eFc9qtTqJ7iArcJOlVz) | [Jutta Hipp](https://open.spotify.com/artist/1nUb2VIRkIq9Qwmg1XdI1T), [Zoot Sims](https://open.spotify.com/artist/1pwr5rTWLVfqhvHfB7Reap) | [Jutta Hipp With Zoot Sims \(Expanded Edition\)](https://open.spotify.com/album/3Caef1zBtNTPEIg5C3XZI2) | 6:10 | 2025-12-04 |  |
 | [Virgo \- Remastered 2004 / Rudy Van Gelder Edition](https://open.spotify.com/track/1ylwBTCAZ1WlvvMnWm6U3c) | [Wayne Shorter](https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO) | [Night Dreamer](https://open.spotify.com/album/2lcz9fPwBhtESyIFVGKvq6) | 7:06 | 2023-03-15 |  |
 | [Visa från Rättvik](https://open.spotify.com/track/5OfX2H74dOwUjr4Aw6HEiE) | [Jan Johansson](https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf) | [Jazz på svenska](https://open.spotify.com/album/6JAj80R40giQEAg3Le4CPE) | 3:22 | 2025-12-04 | 2026-02-17 |
 | [Visa från Utanmyra](https://open.spotify.com/track/1CRxANVlNyN2IYjarx96gU) | [Jan Johansson](https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf) | [Jazz på svenska](https://open.spotify.com/album/6JAj80R40giQEAg3Le4CPE) | 4:33 | 2022-10-27 |  |

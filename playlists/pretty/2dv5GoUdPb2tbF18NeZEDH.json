@@ -1,13 +1,46 @@
 {
   "description": "",
-  "num_followers": 627,
+  "num_followers": 629,
   "original_name": "Southern Dessert : Desert Queens",
   "owner": {
     "name": "Glitch&Gold Magazine",
     "url": "https://open.spotify.com/user/31jnz6gb3osfynb3qtvugfnc6syq"
   },
-  "snapshot_id": "AAAE8KwbPsX+609WhiBvHST0lDaPRS7Y",
-  "tracks": [],
+  "snapshot_id": "AAAE8tvtbwIDtxlC8JWOmO94L52ocHHK",
+  "tracks": [
+    {
+      "added_at": "2026-05-27 20:56:56",
+      "album": {
+        "name": "Desert Queen",
+        "url": "https://open.spotify.com/album/4i6uBsqFutvdLmTLnKGMht"
+      },
+      "artists": [
+        {
+          "name": "Pearl Charles",
+          "url": "https://open.spotify.com/artist/5PWyKTCk0kzNytmI0NI2JX"
+        }
+      ],
+      "duration_ms": 221640,
+      "name": "Does This Song Sound Familiar? - 7\" Version",
+      "url": "https://open.spotify.com/track/62QP01sPSavAquLzA5ogbB"
+    },
+    {
+      "added_at": "2026-05-27 20:58:11",
+      "album": {
+        "name": "Gone",
+        "url": "https://open.spotify.com/album/1WzeryfBKaLye5onsOzhNy"
+      },
+      "artists": [
+        {
+          "name": "Kate Bollinger",
+          "url": "https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned"
+        }
+      ],
+      "duration_ms": 206300,
+      "name": "Gone - Cover",
+      "url": "https://open.spotify.com/track/4vtykJQdJkHJfYxIUJP74K"
+    }
+  ],
   "unique_name": "Southern Dessert : Desert Queens",
   "url": "https://open.spotify.com/playlist/2dv5GoUdPb2tbF18NeZEDH"
 }

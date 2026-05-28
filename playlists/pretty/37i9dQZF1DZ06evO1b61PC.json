@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahORAAAAAACEelfu4KNal4EMpu+zczuk",
+  "snapshot_id": "ahTigAAAAADux9AvlNeYtWw1A0ITKGTm",
   "tracks": [
     {
       "added_at": null,
@@ -83,26 +83,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deep Down",
-        "url": "https://open.spotify.com/album/6EamBf1vIof4uCfBkRKadw"
-      },
-      "artists": [
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        },
-        {
-          "name": "Oaks",
-          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
-        }
-      ],
-      "duration_ms": 185142,
-      "name": "Deep Down",
-      "url": "https://open.spotify.com/track/7iWa3V2lqxh7AtMVFju1W8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Cure To Loneliness",
         "url": "https://open.spotify.com/album/4xC8keq1HPNhkS1qMbLPjF"
       },
@@ -143,6 +123,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Kindred Spirits",
+        "url": "https://open.spotify.com/album/6TNzEXP1xsd5jgzHs6Punk"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        }
+      ],
+      "duration_ms": 222400,
+      "name": "The World Is Ours",
+      "url": "https://open.spotify.com/track/7uI1GB0253D1Wi5Ratcnt2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Heartbeat",
         "url": "https://open.spotify.com/album/1TgoCuBwx1xQ4a0o3KE2Vj"
       },
@@ -159,22 +155,6 @@
       "duration_ms": 155200,
       "name": "Heartbeat",
       "url": "https://open.spotify.com/track/3sK0vSa0R8YjWd5wARutEM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Kindred Spirits",
-        "url": "https://open.spotify.com/album/6TNzEXP1xsd5jgzHs6Punk"
-      },
-      "artists": [
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        }
-      ],
-      "duration_ms": 222400,
-      "name": "The World Is Ours",
-      "url": "https://open.spotify.com/track/7uI1GB0253D1Wi5Ratcnt2"
     },
     {
       "added_at": null,
@@ -199,8 +179,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nothing Left To Lose",
-        "url": "https://open.spotify.com/album/3BAKHZSPd3BVA9WccLo78l"
+        "name": "Deep Down",
+        "url": "https://open.spotify.com/album/6EamBf1vIof4uCfBkRKadw"
       },
       "artists": [
         {
@@ -208,13 +188,13 @@
           "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
         },
         {
-          "name": "Lyncs",
-          "url": "https://open.spotify.com/artist/0huGFU0XRUrnGBpgRzZ2Pr"
+          "name": "Oaks",
+          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
         }
       ],
-      "duration_ms": 221791,
-      "name": "Nothing Left To Lose",
-      "url": "https://open.spotify.com/track/4CMv5MeFVLxhz9fjM1yN96"
+      "duration_ms": 185142,
+      "name": "Deep Down",
+      "url": "https://open.spotify.com/track/7iWa3V2lqxh7AtMVFju1W8"
     },
     {
       "added_at": null,
@@ -235,6 +215,26 @@
       "duration_ms": 234986,
       "name": "Better Apart (feat. Dresage)",
       "url": "https://open.spotify.com/track/1l6EKqIVc3dwMUyWByXh9g"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nothing Left To Lose",
+        "url": "https://open.spotify.com/album/3BAKHZSPd3BVA9WccLo78l"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        },
+        {
+          "name": "Lyncs",
+          "url": "https://open.spotify.com/artist/0huGFU0XRUrnGBpgRzZ2Pr"
+        }
+      ],
+      "duration_ms": 221791,
+      "name": "Nothing Left To Lose",
+      "url": "https://open.spotify.com/track/4CMv5MeFVLxhz9fjM1yN96"
     },
     {
       "added_at": null,
@@ -335,6 +335,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Like It's Over (feat. MNDR)",
+        "url": "https://open.spotify.com/album/0AlKy3sPB5cW1txjQd59Og"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        },
+        {
+          "name": "MNDR",
+          "url": "https://open.spotify.com/artist/7gQNLR8mykA1KjGClbPYHe"
+        }
+      ],
+      "duration_ms": 318000,
+      "name": "Like It's Over (feat. MNDR)",
+      "url": "https://open.spotify.com/track/2VihLG9zh4I60e6VzSPqS6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Vertigo",
         "url": "https://open.spotify.com/album/4enJwfK8u2T1Z8OjOs26n5"
       },
@@ -355,26 +375,6 @@
       "duration_ms": 182571,
       "name": "Vertigo",
       "url": "https://open.spotify.com/track/11h1KwP4Ii4ASDUxY9zpMg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Like It's Over (feat. MNDR)",
-        "url": "https://open.spotify.com/album/0AlKy3sPB5cW1txjQd59Og"
-      },
-      "artists": [
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        },
-        {
-          "name": "MNDR",
-          "url": "https://open.spotify.com/artist/7gQNLR8mykA1KjGClbPYHe"
-        }
-      ],
-      "duration_ms": 318000,
-      "name": "Like It's Over (feat. MNDR)",
-      "url": "https://open.spotify.com/track/2VihLG9zh4I60e6VzSPqS6"
     },
     {
       "added_at": null,
@@ -435,6 +435,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/6s8hEzxR2gLlkonzqr0nSz"
+      },
+      "artists": [
+        {
+          "name": "GUDFELLA",
+          "url": "https://open.spotify.com/artist/3KjZMSSy0BaCVdvL0VABRO"
+        },
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        }
+      ],
+      "duration_ms": 206769,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/14AEzrlCC5yrrZ9ZjVMYAN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "eye2eye (Jai Wolf Remix)",
         "url": "https://open.spotify.com/album/1MBOL6X1XLaNkqVHrSbgTv"
       },
@@ -455,26 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Red Eye Home",
-        "url": "https://open.spotify.com/album/6MGFhNLw9fZVFD1KgBqGta"
-      },
-      "artists": [
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        },
-        {
-          "name": "Evalyn",
-          "url": "https://open.spotify.com/artist/68WwJXWrpo1yVOOIZjLSeT"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Want It All (feat. Evalyn)",
-      "url": "https://open.spotify.com/track/7bOaDKe3yqgf2on0Od42UF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Cure To Loneliness",
         "url": "https://open.spotify.com/album/4xC8keq1HPNhkS1qMbLPjF"
       },
@@ -491,22 +491,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Higher",
-        "url": "https://open.spotify.com/album/6s8hEzxR2gLlkonzqr0nSz"
+        "name": "The Red Eye Home",
+        "url": "https://open.spotify.com/album/6MGFhNLw9fZVFD1KgBqGta"
       },
       "artists": [
         {
-          "name": "GUDFELLA",
-          "url": "https://open.spotify.com/artist/3KjZMSSy0BaCVdvL0VABRO"
-        },
-        {
           "name": "Jai Wolf",
           "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        },
+        {
+          "name": "Evalyn",
+          "url": "https://open.spotify.com/artist/68WwJXWrpo1yVOOIZjLSeT"
         }
       ],
-      "duration_ms": 206769,
-      "name": "Higher",
-      "url": "https://open.spotify.com/track/14AEzrlCC5yrrZ9ZjVMYAN"
+      "duration_ms": 186000,
+      "name": "Want It All (feat. Evalyn)",
+      "url": "https://open.spotify.com/track/7bOaDKe3yqgf2on0Od42UF"
     },
     {
       "added_at": null,
@@ -587,6 +587,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/2zFcf6FC9hydetoczSLsCL"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        }
+      ],
+      "duration_ms": 166400,
+      "name": "Alive - Radio Edit",
+      "url": "https://open.spotify.com/track/4qtEOfaogx57ONrA6ozIrm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "(I Dread The Day He Takes You To) Paris [feat. MYRNE] (Demo)",
         "url": "https://open.spotify.com/album/23xleOZIFdtabJmD7zl9bt"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 218581,
       "name": "(I Dread The Day He Takes You To) Paris [feat. MYRNE] (Demo)",
       "url": "https://open.spotify.com/track/1bAGF9YEg0miDI2kacMeqU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Alive",
-        "url": "https://open.spotify.com/album/2zFcf6FC9hydetoczSLsCL"
-      },
-      "artists": [
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        }
-      ],
-      "duration_ms": 166400,
-      "name": "Alive - Radio Edit",
-      "url": "https://open.spotify.com/track/4qtEOfaogx57ONrA6ozIrm"
     },
     {
       "added_at": null,

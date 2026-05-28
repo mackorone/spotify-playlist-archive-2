@@ -844,7 +844,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-28",
       "duration_ms": 161931,
       "name": "Are You Ready? (Radio Edit)",
       "url": "https://open.spotify.com/track/7BryUEmykyolZXwvOFmEtI"
@@ -1862,7 +1862,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-28",
       "duration_ms": 146182,
       "name": "Best Believe (Stole My Heart)",
       "url": "https://open.spotify.com/track/0fCiBvIBbQQbUx9oerGGXN"
@@ -4212,7 +4212,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-28",
       "duration_ms": 237674,
       "name": "Delirium",
       "url": "https://open.spotify.com/track/17EDciH5MkBg3yIjGDULEz"
@@ -7160,7 +7160,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-28",
       "duration_ms": 345791,
       "name": "Get Mellow",
       "url": "https://open.spotify.com/track/4pND3hr7vGpCLeB7wcrIFi"
@@ -7591,6 +7591,24 @@
     },
     {
       "album": {
+        "name": "Gold EP",
+        "url": "https://open.spotify.com/album/1I1CoyGY81sbZ4aCt43ZQ9"
+      },
+      "artists": [
+        {
+          "name": "Dec Duffy",
+          "url": "https://open.spotify.com/artist/7FYhnZ1aQc8WmR06oL6Dwu"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302222,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/56juJw8K3njlvFKz7fitj8"
+    },
+    {
+      "album": {
         "name": "The Mess",
         "url": "https://open.spotify.com/album/4zUcTJo5GAdsocXUmwY1C7"
       },
@@ -7704,7 +7722,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-28",
       "duration_ms": 184681,
       "name": "Good To Me",
       "url": "https://open.spotify.com/track/2ohyMJx4ArUVno6mcczbN8"
@@ -8680,7 +8698,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-28",
       "duration_ms": 369629,
       "name": "House Feel",
       "url": "https://open.spotify.com/track/5sIE6BxU0nQhfIl2nPEpvG"
@@ -10507,6 +10525,24 @@
     },
     {
       "album": {
+        "name": "Lazy Lady EP",
+        "url": "https://open.spotify.com/album/4sI5BUhiaMokfcY6pLfFxy"
+      },
+      "artists": [
+        {
+          "name": "Joey London Style",
+          "url": "https://open.spotify.com/artist/64GSxyOhYgXzaQs30QFi9i"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225000,
+      "name": "Lazy Lady",
+      "url": "https://open.spotify.com/track/5cvN9da2nLf0sVUgfYhqeu"
+    },
+    {
+      "album": {
         "name": "Leave A Message (feat. Poppy Wright & Trick Shady)",
         "url": "https://open.spotify.com/album/2wyxDi2v4RwUsJifLQx75r"
       },
@@ -10887,6 +10923,28 @@
     },
     {
       "album": {
+        "name": "Like That (feat. DJ Dre)",
+        "url": "https://open.spotify.com/album/5ccGat4JLwq2lteVoIdiiA"
+      },
+      "artists": [
+        {
+          "name": "L.P. Rhythm",
+          "url": "https://open.spotify.com/artist/3K5qBiy5EHwb270817Cy6e"
+        },
+        {
+          "name": "DJ Dre",
+          "url": "https://open.spotify.com/artist/7nlHMb6OJZ3HPEAu7aLonU"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170909,
+      "name": "Like That (feat. DJ Dre)",
+      "url": "https://open.spotify.com/track/55LA3TJnSWxefo2arVfXHJ"
+    },
+    {
+      "album": {
         "name": "Like This",
         "url": "https://open.spotify.com/album/1C5fCALinQbstDa0EFa14N"
       },
@@ -11184,7 +11242,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-28",
       "duration_ms": 360000,
       "name": "Looney Tune",
       "url": "https://open.spotify.com/track/7ioIgZAaKbLCjTuebIUFEw"
@@ -11518,6 +11576,24 @@
       "duration_ms": 356747,
       "name": "Make it Happen",
       "url": "https://open.spotify.com/track/57YktgWA7RTGfHykrG7KJr"
+    },
+    {
+      "album": {
+        "name": "Hypa",
+        "url": "https://open.spotify.com/album/6qwcD8Fu84jZJgFVfeIT5B"
+      },
+      "artists": [
+        {
+          "name": "Silva Bumpa",
+          "url": "https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174544,
+      "name": "Make It Hot",
+      "url": "https://open.spotify.com/track/6Y1Ox3HcXyZBuCS01qfjOW"
     },
     {
       "album": {
@@ -16718,7 +16794,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-28",
       "duration_ms": 256875,
       "name": "Shugi",
       "url": "https://open.spotify.com/track/6Q5oAJz2KgZbWxOtXHCe8Z"
@@ -17911,6 +17987,28 @@
     },
     {
       "album": {
+        "name": "Hypa",
+        "url": "https://open.spotify.com/album/6qwcD8Fu84jZJgFVfeIT5B"
+      },
+      "artists": [
+        {
+          "name": "Silva Bumpa",
+          "url": "https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf"
+        },
+        {
+          "name": "Mr Virgo",
+          "url": "https://open.spotify.com/artist/4lQPqOsyeapLWAd2aXILFU"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160025,
+      "name": "Swagger Sound",
+      "url": "https://open.spotify.com/track/3huOaiSWe9zJJYwu4M6MsP"
+    },
+    {
+      "album": {
         "name": "Sweatbox (Enzo Siragusa Remix)",
         "url": "https://open.spotify.com/album/3Rdd6gCImOvMq6CK7zSvq8"
       },
@@ -18742,7 +18840,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-28",
       "duration_ms": 180057,
       "name": "The Fix",
       "url": "https://open.spotify.com/track/6Gic5rohR6m7h5869PpIgi"
@@ -21404,6 +21502,32 @@
       "duration_ms": 170751,
       "name": "WOOP WOOP",
       "url": "https://open.spotify.com/track/1FFm13AYeb7253SEmjBjvP"
+    },
+    {
+      "album": {
+        "name": "Work Dub",
+        "url": "https://open.spotify.com/album/1bQczsMAUTzabEvTjzghAB"
+      },
+      "artists": [
+        {
+          "name": "Pupa Nas T",
+          "url": "https://open.spotify.com/artist/4vm90zckXYAA2AZGFStkmy"
+        },
+        {
+          "name": "SHUFFA",
+          "url": "https://open.spotify.com/artist/3tosID3SunySdhOUdzmO8E"
+        },
+        {
+          "name": "Denise Belfon",
+          "url": "https://open.spotify.com/artist/20rSjugHQ6CwKR44JnteQf"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190298,
+      "name": "Work Dub",
+      "url": "https://open.spotify.com/track/6cldCn0zKbOhBxoqMPR2o1"
     },
     {
       "album": {

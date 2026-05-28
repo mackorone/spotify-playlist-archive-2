@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best new music from independent faith-based artists every Wednesday! Cover: Sal Ly",
+  "description": "The best new music from independent faith-based artists every Wednesday! Cover: Ocha\u00e8",
   "name": "Fresh Finds Faith",
   "tracks": [
     {
@@ -966,7 +966,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-28",
       "duration_ms": 236923,
       "name": "ALWAYS YOU",
       "url": "https://open.spotify.com/track/7e2uBwmyDMiCkfqoeyxHy6"
@@ -1935,6 +1935,24 @@
     },
     {
       "album": {
+        "name": "Vulnerable",
+        "url": "https://open.spotify.com/album/3xPEsVBDd3i4T2laFbtV5u"
+      },
+      "artists": [
+        {
+          "name": "JOSHUA LAZER",
+          "url": "https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128307,
+      "name": "better dan",
+      "url": "https://open.spotify.com/track/3j2dkGUtL5Y7MnuLkHdf3L"
+    },
+    {
+      "album": {
         "name": "Better Day",
         "url": "https://open.spotify.com/album/58p1v18tDBzQly6zvVWcAC"
       },
@@ -2868,7 +2886,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-28",
       "duration_ms": 150987,
       "name": "Can\u2019t Keep A Secret",
       "url": "https://open.spotify.com/track/6YiUHNjJDJaAJCBaBG0lBZ"
@@ -8327,6 +8345,24 @@
     },
     {
       "album": {
+        "name": "Holding Both",
+        "url": "https://open.spotify.com/album/64cL52fF26o6GBzN9Rq0QB"
+      },
+      "artists": [
+        {
+          "name": "SAPHIRE",
+          "url": "https://open.spotify.com/artist/1to142Wupqk1tbo2hlcflh"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213500,
+      "name": "Holding Both",
+      "url": "https://open.spotify.com/track/6wSCiDp5Ih5bccryAkeY7w"
+    },
+    {
+      "album": {
         "name": "HOLDING ON",
         "url": "https://open.spotify.com/album/7nrmNz6y5F9mX8dxOYwp7q"
       },
@@ -11464,7 +11500,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-28",
       "duration_ms": 153281,
       "name": "looking for You",
       "url": "https://open.spotify.com/track/2pwzpvKhbiz67yu6QZpVXJ"
@@ -16052,7 +16088,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-28",
       "duration_ms": 172486,
       "name": "Roses",
       "url": "https://open.spotify.com/track/44XQspIvEGJY2jAzT5qfH3"
@@ -16852,6 +16888,24 @@
       "duration_ms": 243267,
       "name": "Shoulder Of The Lord",
       "url": "https://open.spotify.com/track/0UYna7KQJM5dEVBjao3F3o"
+    },
+    {
+      "album": {
+        "name": "Prodigal",
+        "url": "https://open.spotify.com/album/2Ia0jrSaVw8Xu5AmsZQCM5"
+      },
+      "artists": [
+        {
+          "name": "Ocha\u00e8",
+          "url": "https://open.spotify.com/artist/3BQA6DkdnDx5Gd07dFgFeI"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245526,
+      "name": "Show Me",
+      "url": "https://open.spotify.com/track/2PdQRUYXMLPqf8ckw9McyO"
     },
     {
       "album": {
@@ -17904,6 +17958,24 @@
       "duration_ms": 261385,
       "name": "Strength of My Heart",
       "url": "https://open.spotify.com/track/3dyeLQ9gpjAEAr7tDOykJA"
+    },
+    {
+      "album": {
+        "name": "Stuck",
+        "url": "https://open.spotify.com/album/5mZf3zvhas2lyVRwiSD0UG"
+      },
+      "artists": [
+        {
+          "name": "Bailey Thompson",
+          "url": "https://open.spotify.com/artist/3oGTF6rnMkY55O4XMsIu8U"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195060,
+      "name": "Stuck",
+      "url": "https://open.spotify.com/track/790cNSMMXs4QDbykxSBPE7"
     },
     {
       "album": {
@@ -20516,6 +20588,24 @@
       "duration_ms": 169846,
       "name": "WALKING IN THIS WORLD",
       "url": "https://open.spotify.com/track/4KjdeNqqVhZLNGUsrHC7NA"
+    },
+    {
+      "album": {
+        "name": "Wanderer",
+        "url": "https://open.spotify.com/album/4e7n1hfpPjDB9s9jpeqAsP"
+      },
+      "artists": [
+        {
+          "name": "Ire Toluhi",
+          "url": "https://open.spotify.com/artist/1uLf3V4Z9jtKJHJOb4Tx7K"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230700,
+      "name": "Wanderer",
+      "url": "https://open.spotify.com/track/4lZvEE1UvtCEnxvUgLOkjv"
     },
     {
       "album": {

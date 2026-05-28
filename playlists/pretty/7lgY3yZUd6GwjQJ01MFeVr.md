@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7lgY3yZUd6GwjQJ01MFeVr.md) - [plain]
 
 > Today's top country music! Cover: Cameron Whitcomb
 
-[Topsify Canada](https://open.spotify.com/user/playlistmecanada) - 34,961 likes - 112 songs - 5 hr 51 min
+[Topsify Canada](https://open.spotify.com/user/playlistmecanada) - 34,970 likes - 112 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

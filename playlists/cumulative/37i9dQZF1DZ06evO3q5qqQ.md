@@ -4,7 +4,7 @@
 
 > This is Grupo Arriesgado\. The essential tracks, all in one playlist.
 
-157 songs - 7 hr 34 min
+158 songs - 7 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,6 +142,7 @@
 | [Que Chulada](https://open.spotify.com/track/401D4uoDg8e2PmWLhXfic1) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Que Chulada](https://open.spotify.com/album/05y6633FW9WAlIsZR3Z7c6) | 2:38 | 2024-12-01 |  |
 | [Que las Cuartitos No Falten](https://open.spotify.com/track/1J5y2EFPoqlUp995jiMiD9) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Que Las Cuartitos No Falten](https://open.spotify.com/album/2gdVut9gbjgP5m6puh7QK3) | 2:59 | 2024-01-29 | 2026-02-25 |
 | [Que las Cuartitos No Falten](https://open.spotify.com/track/22ROpSqeUipP6zWucqTLMa) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Que Las Cuartitos No Falten](https://open.spotify.com/album/3ZwmpO7idpLUzTvVeRkQbJ) | 2:59 | 2026-04-21 | 2026-05-12 |
+| [Que las Cuartitos No Falten](https://open.spotify.com/track/6cOCAVRpC5ATUOStqdhhtP) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Que Las Cuartitos No Falten](https://open.spotify.com/album/2OM6ccQ4cHqTUhrOYXPA3V) | 2:59 | 2026-05-28 |  |
 | [Que Se Preparen](https://open.spotify.com/track/6AGjRofC1oygn6XgS8sRDc) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [Gordo Arce](https://open.spotify.com/artist/00v3sw4z0wRS94vVPNQLU7) | [Que Se Preparen](https://open.spotify.com/album/6im0kyzVwpV1ozVymkze6H) | 2:43 | 2024-03-12 | 2024-09-10 |
 | [Rancherik Asterik](https://open.spotify.com/track/61xXO8u6IwE1o2cDv66V83) | [La Cuadrilla Oficial](https://open.spotify.com/artist/7dGKr4Wpnd2RP4Tas8aGfI), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Rancherik Asterik](https://open.spotify.com/album/4oXl05OItqFoGP7f80mnGD) | 2:14 | 2024-03-08 | 2024-08-11 |
 | [Rosas](https://open.spotify.com/track/1yJXjROn0qtYy05SglrXa6) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Rosas](https://open.spotify.com/album/7pvRB1385axz5VoiZUyD7o) | 4:33 | 2024-09-10 | 2025-12-19 |
@@ -156,7 +157,7 @@
 | [Soy Benjamín](https://open.spotify.com/track/3Eww1aMYpf5WvMrJ0crEQO) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Soy Benjamín](https://open.spotify.com/album/6H04g945EUqDXyNUOeRqHd) | 3:00 | 2024-01-29 | 2025-11-09 |
 | [Soy Benjamín](https://open.spotify.com/track/4lnuw5DZ6nDWvwpMteP3Al) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Soy Benjamín](https://open.spotify.com/album/51rDwORHTvCR9kcStvUGWe) | 3:00 | 2026-04-28 |  |
 | [Soy El Alucin Remix](https://open.spotify.com/track/2TLkItiSWsEoJqb3ROSzKn) | [El Compa JD](https://open.spotify.com/artist/0ulACiQS73IYsCG3SqkTO0), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Soy El Alucin Remix](https://open.spotify.com/album/5TTfRmCIRqGfopCFS38EK6) | 2:05 | 2024-01-29 | 2024-05-19 |
-| [Te Da Igual](https://open.spotify.com/track/1XnP7dgmDdTDo8MYCR6ZjQ) | [El Frizian](https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Te Da Igual](https://open.spotify.com/album/7vGoivzTraBMRLUGDeqEVm) | 2:14 | 2025-11-20 |  |
+| [Te Da Igual](https://open.spotify.com/track/1XnP7dgmDdTDo8MYCR6ZjQ) | [El Frizian](https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Te Da Igual](https://open.spotify.com/album/7vGoivzTraBMRLUGDeqEVm) | 2:14 | 2025-11-20 | 2026-05-28 |
 | [Una Llamada Al Cielo](https://open.spotify.com/track/7q5rVPi26K2EfrY5GrYfqu) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Una Llamada Al Cielo](https://open.spotify.com/album/7ag9j0bMqgDaL5oSlh0fZD) | 3:33 | 2026-01-04 |  |
 | [Vago Y Loko](https://open.spotify.com/track/00AtEOAXrOWJxu7vjHZeQs) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Vago Y Loko](https://open.spotify.com/album/7Fq8GU7jHLGH7bQqzL7Snw) | 2:58 | 2025-05-20 | 2025-08-29 |
 | [Vuelve](https://open.spotify.com/track/7K0BuHzeAcAVRXqpTKdmWu) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Vuelve](https://open.spotify.com/album/1X3ShJg4dohHyfZtpbCjER) | 3:37 | 2025-04-27 |  |

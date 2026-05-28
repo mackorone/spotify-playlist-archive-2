@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4je779Ww5L2.md) - [plain]
 
 > de sfeer van 6 uur in de ochtend in de buitenlucht
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,787 likes - 94 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,777 likes - 94 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,10 +29,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4je779Ww5L2.md) - [plain]
 | 19 | [Leap Year](https://open.spotify.com/track/5G6sgBzBCmZKeCg0R2x67t) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Leap Year](https://open.spotify.com/album/2qiB8YSEJw27QY68Pyx1uO) | 5:45 |
 | 20 | [Can You Swim?](https://open.spotify.com/track/2dWjtV6SUgVT1oPpA45wQH) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Can You Swim?](https://open.spotify.com/album/3xiBXsB2pmzFwLh8WiWXEc) | 4:55 |
 | 21 | [22 Weeks](https://open.spotify.com/track/7rtOkjhCGYXpneBhU9x2YC) | [Few Bits](https://open.spotify.com/artist/6z5v5w5cm1HaNkQbO6V2Pc) | [Brick Houses](https://open.spotify.com/album/0AtmUXLp8LYC8ugx973h2B) | 3:52 |
-| 22 | [What Takes You Back](https://open.spotify.com/track/1ga3dk6EdsAfGFNWr4QiAJ) | [Zachary Bloemperk](https://open.spotify.com/artist/4vgD2JQibsbjAHwsAyRsVi) | [What Takes You Back](https://open.spotify.com/album/3SSuQuEaXRiOs6Mw8Yka8T) | 4:35 |
-| 23 | [Old Shadows](https://open.spotify.com/track/3IWuSaxaeNuQUXOfVtEkOE) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Old Shadows](https://open.spotify.com/album/0RLefy7jZBf1Dx0UlZdbRK) | 4:06 |
-| 24 | [Shadowplay](https://open.spotify.com/track/2JIhlHcaY2TuzN8o9nomgV) | [Wallners](https://open.spotify.com/artist/3EdHRW9KganBlpKU12OQos) | [Shadowplay](https://open.spotify.com/album/3NmPE01wzAEeAjPdJIFEsq) | 4:29 |
-| 25 | [Play With Fire](https://open.spotify.com/track/1mnsHxQPbkaHQatoTjOizI) | [Michael Prins](https://open.spotify.com/artist/02uBraNVAgl8ue5bG8B87m) | [Play With Fire](https://open.spotify.com/album/2QCS1NnTSAfg5eyENPVUbG) | 4:15 |
+| 22 | [Play With Fire](https://open.spotify.com/track/1mnsHxQPbkaHQatoTjOizI) | [Michael Prins](https://open.spotify.com/artist/02uBraNVAgl8ue5bG8B87m) | [Play With Fire](https://open.spotify.com/album/2QCS1NnTSAfg5eyENPVUbG) | 4:15 |
+| 23 | [What Takes You Back](https://open.spotify.com/track/1ga3dk6EdsAfGFNWr4QiAJ) | [Zachary Bloemperk](https://open.spotify.com/artist/4vgD2JQibsbjAHwsAyRsVi) | [What Takes You Back](https://open.spotify.com/album/3SSuQuEaXRiOs6Mw8Yka8T) | 4:35 |
+| 24 | [Old Shadows](https://open.spotify.com/track/3IWuSaxaeNuQUXOfVtEkOE) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Old Shadows](https://open.spotify.com/album/0RLefy7jZBf1Dx0UlZdbRK) | 4:06 |
+| 25 | [Shadowplay](https://open.spotify.com/track/2JIhlHcaY2TuzN8o9nomgV) | [Wallners](https://open.spotify.com/artist/3EdHRW9KganBlpKU12OQos) | [Shadowplay](https://open.spotify.com/album/3NmPE01wzAEeAjPdJIFEsq) | 4:29 |
 | 26 | [Baby Blue \- Acoustic](https://open.spotify.com/track/40iPujUUM58f2qsC7KKjg5) | [Penny Roox](https://open.spotify.com/artist/5DXArm1WRDZcLjxEAsEDdg) | [Baby Blue \(Acoustic\)](https://open.spotify.com/album/6vJn1u5GBTMDUM4OLyQ13c) | 3:05 |
 | 27 | [Wallflower \- Acoustic](https://open.spotify.com/track/3Lq8hjZ7XOpqbtcVROOpTi) | [Leah Rye](https://open.spotify.com/artist/2rmiadqAd2xyJUVLbCnWvn) | [Wallflower \(Acoustic\)](https://open.spotify.com/album/0JgBb2VFLW9zldC5LLlsrh) | 2:37 |
 | 28 | [Angel](https://open.spotify.com/track/4U7pnAXHXvMiiS6OPppAWf) | [Ciska Ciska](https://open.spotify.com/artist/6V1Hbm6ydOli9zOuVmZFmC) | [Angel](https://open.spotify.com/album/0hbVt302avAUnb1AER2uf6) | 3:24 |
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4je779Ww5L2.md) - [plain]
 | 36 | [Dissolve](https://open.spotify.com/track/0xM73Y61yIuNSy1SdsmwZg) | [Tamino](https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH) | [Dissolve](https://open.spotify.com/album/1mgbZRf594n36YBlmldrAw) | 6:43 |
 | 37 | [Strange Rooms](https://open.spotify.com/track/2I5r34P8jfleAwAGOLaHbY) | [Bianca Steck](https://open.spotify.com/artist/1Ej7cHu5IXgMuHaz6mLesJ) | [The Joy of Coincidences](https://open.spotify.com/album/4c2E4n34cBqGr2kVzSmDD6) | 3:20 |
 | 38 | [Far Away](https://open.spotify.com/track/2a99fzynGMfoImtCGn6j1E) | [Michael Prins](https://open.spotify.com/artist/02uBraNVAgl8ue5bG8B87m) | [Far Away](https://open.spotify.com/album/68nMPJ3cMbDq2597lVgQjV) | 4:00 |
-| 39 | [Pass Through Time](https://open.spotify.com/track/5vk2mItXn2EpWbDlJer4yx) | [TJE](https://open.spotify.com/artist/7MpTEotcUgJBQ0rMLYS2mb), [Bobbi Lu](https://open.spotify.com/artist/48xRKmxCYnrEtchjl3RSd4), [The Christian Club](https://open.spotify.com/artist/3fCffuwmMDVB1UsQTOIUDD) | [Pass Through Time](https://open.spotify.com/album/4T0QZ8CFerLHc7ajHfnskl) | 4:16 |
+| 39 | [All That We Are](https://open.spotify.com/track/2oXRZaEegYDvZxozbDtgcW) | [tjels](https://open.spotify.com/artist/47rSKopkbamYzXzYY7PoIX) | [All That We Are](https://open.spotify.com/album/60B3oN31JFl2u2r6ryGg9i) | 3:24 |
 | 40 | [Eight](https://open.spotify.com/track/33yg5PQOWACyhdY1s3vs6E) | [Ozark Henry](https://open.spotify.com/artist/3a9AG5fMqAqrXkeiwYtarJ) | [August Parker](https://open.spotify.com/album/1u9yZHZqScHVKu9cei7DfX) | 3:19 |
-| 41 | [All That We Are](https://open.spotify.com/track/2oXRZaEegYDvZxozbDtgcW) | [tjels](https://open.spotify.com/artist/47rSKopkbamYzXzYY7PoIX) | [All That We Are](https://open.spotify.com/album/60B3oN31JFl2u2r6ryGg9i) | 3:24 |
+| 41 | [Pass Through Time](https://open.spotify.com/track/5vk2mItXn2EpWbDlJer4yx) | [TJE](https://open.spotify.com/artist/7MpTEotcUgJBQ0rMLYS2mb), [Bobbi Lu](https://open.spotify.com/artist/48xRKmxCYnrEtchjl3RSd4), [The Christian Club](https://open.spotify.com/artist/3fCffuwmMDVB1UsQTOIUDD) | [Pass Through Time](https://open.spotify.com/album/4T0QZ8CFerLHc7ajHfnskl) | 4:16 |
 | 42 | [Can](https://open.spotify.com/track/5WgC4W0XtrOaUK63WqsDAy) | [Soft Loft](https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t) | [Can](https://open.spotify.com/album/0aWzHhNvUVfII5KkLsvLy9) | 3:21 |
 | 43 | [Bright Belief](https://open.spotify.com/track/4GJzoqPOhCylLzM7mtMQbw) | [Jonny Nash](https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde) | [Bright Belief](https://open.spotify.com/album/1kGJexSZDdSZbfkmefWDaD) | 4:42 |
 | 44 | [Richardson \- feat\. Cassandra Jenkins](https://open.spotify.com/track/4Jrstw4tzEoFCE5hZMug96) | [Shura](https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT), [Cassandra Jenkins](https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik) | [Richardson \(feat\. Cassandra Jenkins\)](https://open.spotify.com/album/72T10FajAmf5Wu0M9scOpp) | 3:44 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4je779Ww5L2.md) - [plain]
 | 72 | [More than a warning](https://open.spotify.com/track/2WyoxWAgDvsGzqKOWIhxPv) | [Amongster](https://open.spotify.com/artist/6YIKMlerK7c5j109TgfjnK) | [More than a warning](https://open.spotify.com/album/6mDTQhx9rC4e7fnRv9qgOW) | 5:01 |
 | 73 | [Boat](https://open.spotify.com/track/2nWj5r88reOB7RXxZc3DvE) | [RAMAN.](https://open.spotify.com/artist/5AwiKiIdwyrjQtRt0C0I86) | [Boat](https://open.spotify.com/album/27Df3AJdoQ94z0CD6XmKqA) | 5:08 |
 | 74 | [EMBERS](https://open.spotify.com/track/5F1sWEiHVBYUbVQ178MZ5d) | [Cero Ismael](https://open.spotify.com/artist/2Nj4ggzoUqfVAiE9sVRmSo) | [AT LEAST SOMETHING IS PROTECTING YOU](https://open.spotify.com/album/4gSBN4HJksGUFxXVsdcAX0) | 3:37 |
-| 75 | [Queen\-Size Life](https://open.spotify.com/track/3Ci3PhwCqFUTNlfQ59Nj3z) | [Mountaineer](https://open.spotify.com/artist/5ayGJVSrPdzT28dxwsxgOj) | [Queen\-Size Life](https://open.spotify.com/album/7e5CvNi9fnhAIJ9ntZnlDB) | 3:36 |
-| 76 | [Embers](https://open.spotify.com/track/3QDvbfhuz5KyCbpEava0vw) | [I Am Oak](https://open.spotify.com/artist/3rkCcFVpbFYCvnNKTT7LUe) | [Time Drifts](https://open.spotify.com/album/4rySmePDloJBmc1nEYDk61) | 3:57 |
+| 75 | [Embers](https://open.spotify.com/track/3QDvbfhuz5KyCbpEava0vw) | [I Am Oak](https://open.spotify.com/artist/3rkCcFVpbFYCvnNKTT7LUe) | [Time Drifts](https://open.spotify.com/album/4rySmePDloJBmc1nEYDk61) | 3:57 |
+| 76 | [Queen\-Size Life](https://open.spotify.com/track/3Ci3PhwCqFUTNlfQ59Nj3z) | [Mountaineer](https://open.spotify.com/artist/5ayGJVSrPdzT28dxwsxgOj) | [Queen\-Size Life](https://open.spotify.com/album/7e5CvNi9fnhAIJ9ntZnlDB) | 3:36 |
 | 77 | [More Than Enough](https://open.spotify.com/track/1wTtnNyUUrJL4erWEUfC77) | [Lisette](https://open.spotify.com/artist/5mfbtUhhXdjlP7mysPltPO) | [More Than Enough](https://open.spotify.com/album/2N0laeE3SqH46ADFdgcs34) | 3:16 |
 | 78 | [Sunflower](https://open.spotify.com/track/6ZskcMSGVuInKodFTaLPS6) | [Loki Project](https://open.spotify.com/artist/7ig2Btg4Z1sESTkwmJzrAs) | [Sunflower](https://open.spotify.com/album/2xmhqUrdZY7gbZNbGt0FoU) | 4:26 |
 | 79 | [Tardigrades](https://open.spotify.com/track/1Kihs06ERAUQiliX9AdK5Z) | [Slow Res](https://open.spotify.com/artist/0w5Ntkxa6z2RF00gXNRBrF) | [Tardigrades](https://open.spotify.com/album/6VI768BQ6QW6sSo6yswiYd) | 3:10 |

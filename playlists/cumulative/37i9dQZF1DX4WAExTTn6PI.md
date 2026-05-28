@@ -2,7 +2,7 @@
 
 ### [Emerging Americana](https://open.spotify.com/playlist/37i9dQZF1DX4WAExTTn6PI)
 
-> Rising voices, enduring roots\. Cover:  Alena Diane
+> Rising voices, enduring roots\. Cover:  Alela Diane
 
 382 songs - 23 hr 10 min
 

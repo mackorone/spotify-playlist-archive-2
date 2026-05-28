@@ -1,6 +1,6 @@
 {
   "description": "Aqu\u00ed viven las ac\u00fasticas. Cover: Valentina Rico",
-  "num_followers": 1791424,
+  "num_followers": 1791398,
   "original_name": "Ac\u00fasticas",
   "owner": {
     "name": "Spotify",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2026-01-16 05:00:38",
       "album": {
+        "name": "Am\u00e9 (demo original)",
+        "url": "https://open.spotify.com/album/6qRHfBZ4IOPG4CSsUMdqoE"
+      },
+      "artists": [
+        {
+          "name": "Gera Demara",
+          "url": "https://open.spotify.com/artist/4XYbaR6YgnY4Nb6kz250cu"
+        }
+      ],
+      "duration_ms": 205197,
+      "name": "Am\u00e9 - demo original",
+      "url": "https://open.spotify.com/track/5FOEWRyZ9xwJwRlHmIaftH"
+    },
+    {
+      "added_at": "2026-01-16 05:00:38",
+      "album": {
         "name": "Contigo",
         "url": "https://open.spotify.com/album/5gJw1zTAjkuHH0g5tgChln"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 190628,
       "name": "X Aqu\u00ed X All\u00e1 - Acustico",
       "url": "https://open.spotify.com/track/648QMpSfKf72WwwvG3fKL5"
-    },
-    {
-      "added_at": "2026-01-16 05:00:38",
-      "album": {
-        "name": "Am\u00e9 (demo original)",
-        "url": "https://open.spotify.com/album/6qRHfBZ4IOPG4CSsUMdqoE"
-      },
-      "artists": [
-        {
-          "name": "Gera Demara",
-          "url": "https://open.spotify.com/artist/4XYbaR6YgnY4Nb6kz250cu"
-        }
-      ],
-      "duration_ms": 205197,
-      "name": "Am\u00e9 - demo original",
-      "url": "https://open.spotify.com/track/5FOEWRyZ9xwJwRlHmIaftH"
     },
     {
       "added_at": "2026-01-16 05:00:38",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2026-01-16 05:00:38",
       "album": {
-        "name": "Me Haces Falta",
-        "url": "https://open.spotify.com/album/1Wzk17m6qpnIduGOGhXxhS"
-      },
-      "artists": [
-        {
-          "name": "La Isla Centeno",
-          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
-        }
-      ],
-      "duration_ms": 215332,
-      "name": "Me Haces Falta",
-      "url": "https://open.spotify.com/track/59ebZTJzcCoO8vc5El0YJx"
-    },
-    {
-      "added_at": "2026-01-16 05:00:38",
-      "album": {
         "name": "Underdog (Acoustic Version)",
         "url": "https://open.spotify.com/album/29Tp5smvItl2ghk03OAsZP"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 210848,
       "name": "Underdog - Acoustic Version",
       "url": "https://open.spotify.com/track/4IbaDX0qm36Oiu0kdoq8Wb"
+    },
+    {
+      "added_at": "2026-01-16 05:00:38",
+      "album": {
+        "name": "Me Haces Falta",
+        "url": "https://open.spotify.com/album/1Wzk17m6qpnIduGOGhXxhS"
+      },
+      "artists": [
+        {
+          "name": "La Isla Centeno",
+          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
+        }
+      ],
+      "duration_ms": 215332,
+      "name": "Me Haces Falta",
+      "url": "https://open.spotify.com/track/59ebZTJzcCoO8vc5El0YJx"
     },
     {
       "added_at": "2026-01-16 05:00:38",
@@ -1623,6 +1623,22 @@
     {
       "added_at": "2026-01-16 05:00:38",
       "album": {
+        "name": "En Ac\u00fastico",
+        "url": "https://open.spotify.com/album/6SIva4NYVKvJoJVfExZYDk"
+      },
+      "artists": [
+        {
+          "name": "Jxta Martin",
+          "url": "https://open.spotify.com/artist/689Xz3YbAUBmCsDYUxLu7P"
+        }
+      ],
+      "duration_ms": 207207,
+      "name": "Destino - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/1UUAtmVInu4DNChh5HYiHk"
+    },
+    {
+      "added_at": "2026-01-16 05:00:38",
+      "album": {
         "name": "SOMOS JAVYPABLO",
         "url": "https://open.spotify.com/album/57ry9jXPJLWl5tDNwdxlDq"
       },
@@ -1639,22 +1655,6 @@
       "duration_ms": 196765,
       "name": "Cama de Papel",
       "url": "https://open.spotify.com/track/1k4EMd4OzpawfGTFvxkRg7"
-    },
-    {
-      "added_at": "2026-01-16 05:00:38",
-      "album": {
-        "name": "En Ac\u00fastico",
-        "url": "https://open.spotify.com/album/6SIva4NYVKvJoJVfExZYDk"
-      },
-      "artists": [
-        {
-          "name": "Jxta Martin",
-          "url": "https://open.spotify.com/artist/689Xz3YbAUBmCsDYUxLu7P"
-        }
-      ],
-      "duration_ms": 207207,
-      "name": "Destino - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/1UUAtmVInu4DNChh5HYiHk"
     },
     {
       "added_at": "2026-01-16 05:00:38",

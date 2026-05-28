@@ -4,7 +4,7 @@
 
 > High energy, club songs from around the world.
 
-462 songs - 23 hr 46 min
+463 songs - 23 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,6 +140,7 @@
 | [Feeling That I Used To Know](https://open.spotify.com/track/4sEHP2sbYhzoQsPffZpx86) | [Tom & Jame](https://open.spotify.com/artist/6ZXRsQeAoGPspf8tNeEtPo) | [Feeling That I Used To Know](https://open.spotify.com/album/23lOJ6wphV2lRu5vovyRUo) | 3:36 | 2025-01-30 |  |
 | [Felt Like This](https://open.spotify.com/track/0oaOa99hlXH2ybksGZktWb) | [small talk](https://open.spotify.com/artist/0Y0MMftVchcLvt2ivPyrCQ) | [Felt Like This](https://open.spotify.com/album/4fBykDvyrzN3TsPw8PeLvP) | 2:53 | 2023-08-17 | 2024-03-14 |
 | [Fine Day Anthem](https://open.spotify.com/track/6tifCCTIVBLC2TmTquYG7G) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv), [Opus III](https://open.spotify.com/artist/1hQuWl1dueM7ChRUZRn05z) | [Fine Day Anthem](https://open.spotify.com/album/2mxzA7momOeBvCyKDgZRIb) | 3:13 | 2023-07-28 | 2024-08-03 |
+| [Flavour](https://open.spotify.com/track/7bwgaNWKxWt1lBwrZ37gJ7) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Still Val](https://open.spotify.com/artist/3tj0d2eJ9fDFZKgX4A5O6o) | [Flavour](https://open.spotify.com/album/4DyhMQVt6szbaAhPALqQuS) | 2:22 | 2026-05-27 |  |
 | [For Your Love](https://open.spotify.com/track/4CpIeNvdA1g5R6JzGapGGp) | [Max Vangeli](https://open.spotify.com/artist/6Tu9KiWKN5ENQ2VjGCVN18), [Michael Grald](https://open.spotify.com/artist/6PWZqYrlDYcnz4haClAiL6) | [Wish You Were Here Volume One](https://open.spotify.com/album/5UwWNI8XKFoTcRT7BKRy5y) | 2:51 | 2023-05-12 | 2024-03-14 |
 | [Foreign Love](https://open.spotify.com/track/0tV8BcMH8Y2SxRVeNAqNMx) | [MISS DRE](https://open.spotify.com/artist/4EFAuQI8Ou0bmpf5Vh1P5P) | [Foreign Love](https://open.spotify.com/album/3X2cNyUuEKzUh742B7YhZy) | 3:09 | 2024-01-08 | 2024-03-14 |
 | [Forever & Always](https://open.spotify.com/track/0moqpuDhgttCjbCW9eYtNq) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Gareth Emery](https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi), [Owl City](https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6) | [Forever & Always](https://open.spotify.com/album/6EmbyEUDThdkWcri5OsTep) | 3:14 | 2023-06-13 | 2024-03-14 |

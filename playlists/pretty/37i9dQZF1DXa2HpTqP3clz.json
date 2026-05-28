@@ -1,6 +1,6 @@
 {
   "description": "Today's Bluegrass and old time favorites. Cover: Molly Tuttle",
-  "num_followers": 167793,
+  "num_followers": 167805,
   "original_name": "Grass Roots",
   "owner": {
     "name": "Spotify",
@@ -351,22 +351,6 @@
     {
       "added_at": "2026-03-27 04:00:14",
       "album": {
-        "name": "Circling the Drain",
-        "url": "https://open.spotify.com/album/0I1nAsqzVfsHdUcubvExCM"
-      },
-      "artists": [
-        {
-          "name": "Steep Canyon Rangers",
-          "url": "https://open.spotify.com/artist/1a6tqLJPUs4DBAnNUZkr2O"
-        }
-      ],
-      "duration_ms": 198375,
-      "name": "Circling the Drain",
-      "url": "https://open.spotify.com/track/4lt6XYUxU6r5qUhGroEhQw"
-    },
-    {
-      "added_at": "2026-03-27 04:00:14",
-      "album": {
         "name": "The Highway Knows",
         "url": "https://open.spotify.com/album/23EMx5160dHkUN9WdNWdZR"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 227786,
       "name": "Gas and Oil",
       "url": "https://open.spotify.com/track/2sQ8RGC3DHAecvS5nd2lbF"
+    },
+    {
+      "added_at": "2026-03-27 04:00:14",
+      "album": {
+        "name": "Circling the Drain",
+        "url": "https://open.spotify.com/album/0I1nAsqzVfsHdUcubvExCM"
+      },
+      "artists": [
+        {
+          "name": "Steep Canyon Rangers",
+          "url": "https://open.spotify.com/artist/1a6tqLJPUs4DBAnNUZkr2O"
+        }
+      ],
+      "duration_ms": 198375,
+      "name": "Circling the Drain",
+      "url": "https://open.spotify.com/track/4lt6XYUxU6r5qUhGroEhQw"
     },
     {
       "added_at": "2026-03-27 04:00:14",
@@ -575,6 +575,22 @@
     {
       "added_at": "2026-03-27 04:00:14",
       "album": {
+        "name": "Knee Deep in Bluegrass",
+        "url": "https://open.spotify.com/album/1DwPW07YVEUjtv6g3Q2lfC"
+      },
+      "artists": [
+        {
+          "name": "Ashby Frank",
+          "url": "https://open.spotify.com/artist/1Z3CpFgkHqQNA8F73CgkqT"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Knee Deep in Bluegrass",
+      "url": "https://open.spotify.com/track/1OUD7ceuWPD2DHFXly0voV"
+    },
+    {
+      "added_at": "2026-03-27 04:00:14",
+      "album": {
         "name": "Smoky Mountain DNA: Family, Faith and Fables",
         "url": "https://open.spotify.com/album/28bVqBO08O6jcgirj9Yj0l"
       },
@@ -595,18 +611,18 @@
     {
       "added_at": "2026-03-27 04:00:14",
       "album": {
-        "name": "Knee Deep in Bluegrass",
-        "url": "https://open.spotify.com/album/1DwPW07YVEUjtv6g3Q2lfC"
+        "name": "The New Modern Hymns",
+        "url": "https://open.spotify.com/album/1ISROKpFtAn78QEb5WTJvC"
       },
       "artists": [
         {
-          "name": "Ashby Frank",
-          "url": "https://open.spotify.com/artist/1Z3CpFgkHqQNA8F73CgkqT"
+          "name": "Darrell Scott",
+          "url": "https://open.spotify.com/artist/1qMgGon16RoDAfujk41Em0"
         }
       ],
-      "duration_ms": 182000,
-      "name": "Knee Deep in Bluegrass",
-      "url": "https://open.spotify.com/track/1OUD7ceuWPD2DHFXly0voV"
+      "duration_ms": 226901,
+      "name": "American Tune",
+      "url": "https://open.spotify.com/track/6y7lQfGN3tfNyZT0Yi8V2m"
     },
     {
       "added_at": "2026-03-27 04:00:14",
@@ -631,38 +647,6 @@
     {
       "added_at": "2026-03-27 04:00:14",
       "album": {
-        "name": "The New Modern Hymns",
-        "url": "https://open.spotify.com/album/1ISROKpFtAn78QEb5WTJvC"
-      },
-      "artists": [
-        {
-          "name": "Darrell Scott",
-          "url": "https://open.spotify.com/artist/1qMgGon16RoDAfujk41Em0"
-        }
-      ],
-      "duration_ms": 226901,
-      "name": "American Tune",
-      "url": "https://open.spotify.com/track/6y7lQfGN3tfNyZT0Yi8V2m"
-    },
-    {
-      "added_at": "2026-03-27 04:00:14",
-      "album": {
-        "name": "Blind",
-        "url": "https://open.spotify.com/album/0B88zHXjkSFUIGyYrnQGCc"
-      },
-      "artists": [
-        {
-          "name": "Yonder Mountain String Band",
-          "url": "https://open.spotify.com/artist/1ReHC2jB2DGoPbMYhzuFuO"
-        }
-      ],
-      "duration_ms": 200400,
-      "name": "Blind",
-      "url": "https://open.spotify.com/track/63B7GNMc9PMqRDsEvJ49KX"
-    },
-    {
-      "added_at": "2026-03-27 04:00:14",
-      "album": {
         "name": "Powder Day",
         "url": "https://open.spotify.com/album/5wUug6ZsELo2yLA9sU8BPB"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 260000,
       "name": "Powder Day",
       "url": "https://open.spotify.com/track/4MxwOoetT7OKPEa9wELH1U"
+    },
+    {
+      "added_at": "2026-03-27 04:00:14",
+      "album": {
+        "name": "Heading East to West Virginia",
+        "url": "https://open.spotify.com/album/7LHuigW10cgAx81EuO2AVX"
+      },
+      "artists": [
+        {
+          "name": "Russell Moore & IIIrd Tyme Out",
+          "url": "https://open.spotify.com/artist/435e39CJddwkCUEK86yIkg"
+        }
+      ],
+      "duration_ms": 156536,
+      "name": "Heading East to West Virginia",
+      "url": "https://open.spotify.com/track/1UXOHhE9f2YG46Vj4p3xgr"
     },
     {
       "added_at": "2026-03-27 04:00:14",
@@ -707,6 +707,22 @@
     {
       "added_at": "2026-03-27 04:00:14",
       "album": {
+        "name": "Blind",
+        "url": "https://open.spotify.com/album/0B88zHXjkSFUIGyYrnQGCc"
+      },
+      "artists": [
+        {
+          "name": "Yonder Mountain String Band",
+          "url": "https://open.spotify.com/artist/1ReHC2jB2DGoPbMYhzuFuO"
+        }
+      ],
+      "duration_ms": 200400,
+      "name": "Blind",
+      "url": "https://open.spotify.com/track/63B7GNMc9PMqRDsEvJ49KX"
+    },
+    {
+      "added_at": "2026-03-27 04:00:14",
+      "album": {
         "name": "Wake Me When It's Over",
         "url": "https://open.spotify.com/album/0TagfK04olSVvnfHtWbhJz"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 258393,
       "name": "Wake Me When It's Over",
       "url": "https://open.spotify.com/track/0J10lTnQV1rosvX0jYYX5J"
-    },
-    {
-      "added_at": "2026-03-27 04:00:14",
-      "album": {
-        "name": "Heading East to West Virginia",
-        "url": "https://open.spotify.com/album/7LHuigW10cgAx81EuO2AVX"
-      },
-      "artists": [
-        {
-          "name": "Russell Moore & IIIrd Tyme Out",
-          "url": "https://open.spotify.com/artist/435e39CJddwkCUEK86yIkg"
-        }
-      ],
-      "duration_ms": 156536,
-      "name": "Heading East to West Virginia",
-      "url": "https://open.spotify.com/track/1UXOHhE9f2YG46Vj4p3xgr"
     },
     {
       "added_at": "2026-03-27 04:00:14",
@@ -951,22 +951,6 @@
     {
       "added_at": "2026-03-27 04:00:14",
       "album": {
-        "name": "Up from the Bottom",
-        "url": "https://open.spotify.com/album/2gwK6AWvVnJVji8CC3ceJV"
-      },
-      "artists": [
-        {
-          "name": "The Infamous Stringdusters",
-          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
-        }
-      ],
-      "duration_ms": 213680,
-      "name": "Up from the Bottom",
-      "url": "https://open.spotify.com/track/7gafoLtMMgxssDyy1hOibC"
-    },
-    {
-      "added_at": "2026-03-27 04:00:14",
-      "album": {
         "name": "Work Song (I Can Still Sing)",
         "url": "https://open.spotify.com/album/2deofjFoM5Rwugpm0iF3Yj"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 282794,
       "name": "The Whole of the Moon",
       "url": "https://open.spotify.com/track/4TGWzN6QyzwIPAPCzgjjfs"
+    },
+    {
+      "added_at": "2026-03-27 04:00:14",
+      "album": {
+        "name": "Up from the Bottom",
+        "url": "https://open.spotify.com/album/2gwK6AWvVnJVji8CC3ceJV"
+      },
+      "artists": [
+        {
+          "name": "The Infamous Stringdusters",
+          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
+        }
+      ],
+      "duration_ms": 213680,
+      "name": "Up from the Bottom",
+      "url": "https://open.spotify.com/track/7gafoLtMMgxssDyy1hOibC"
     },
     {
       "added_at": "2026-03-27 04:00:14",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2026-03-27 04:00:14",
       "album": {
-        "name": "Last Road Going Home",
-        "url": "https://open.spotify.com/album/3AH3tiNwrkL5pMHOl4IIVS"
-      },
-      "artists": [
-        {
-          "name": "Amanda Cook",
-          "url": "https://open.spotify.com/artist/6BoGPE6HncyAwa1Ka8uQVn"
-        }
-      ],
-      "duration_ms": 214306,
-      "name": "Last Road Going Home",
-      "url": "https://open.spotify.com/track/2qsbZAqsSfYvpQg5h6dQ2Y"
-    },
-    {
-      "added_at": "2026-03-27 04:00:14",
-      "album": {
         "name": "Murmurations, Vol. 2",
         "url": "https://open.spotify.com/album/3u64Gq2Pji5gdCKdCMcTsG"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 279506,
       "name": "Sandhill Cranes",
       "url": "https://open.spotify.com/track/56voaeBUVgb4inHaFJXSGz"
+    },
+    {
+      "added_at": "2026-03-27 04:00:14",
+      "album": {
+        "name": "Last Road Going Home",
+        "url": "https://open.spotify.com/album/3AH3tiNwrkL5pMHOl4IIVS"
+      },
+      "artists": [
+        {
+          "name": "Amanda Cook",
+          "url": "https://open.spotify.com/artist/6BoGPE6HncyAwa1Ka8uQVn"
+        }
+      ],
+      "duration_ms": 214306,
+      "name": "Last Road Going Home",
+      "url": "https://open.spotify.com/track/2qsbZAqsSfYvpQg5h6dQ2Y"
     },
     {
       "added_at": "2026-03-27 04:00:14",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2026-03-27 04:00:14",
       "album": {
+        "name": "BBQ Chips",
+        "url": "https://open.spotify.com/album/3iBlKkuOkBSo9qKeO2DG8o"
+      },
+      "artists": [
+        {
+          "name": "Abby Webster",
+          "url": "https://open.spotify.com/artist/0HhLNo5pI32wCYNKqpXuCD"
+        }
+      ],
+      "duration_ms": 248364,
+      "name": "BBQ Chips",
+      "url": "https://open.spotify.com/track/2LQxH6FmgC7vwXPo2lVtER"
+    },
+    {
+      "added_at": "2026-03-27 04:00:14",
+      "album": {
         "name": "Wildflowers",
         "url": "https://open.spotify.com/album/1nq5kIiewuJN5Z5oAOPWAQ"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 263317,
       "name": "Wildflowers",
       "url": "https://open.spotify.com/track/1B2qeZynbSvMxTzGjorlrs"
-    },
-    {
-      "added_at": "2026-03-27 04:00:14",
-      "album": {
-        "name": "BBQ Chips",
-        "url": "https://open.spotify.com/album/3iBlKkuOkBSo9qKeO2DG8o"
-      },
-      "artists": [
-        {
-          "name": "Abby Webster",
-          "url": "https://open.spotify.com/artist/0HhLNo5pI32wCYNKqpXuCD"
-        }
-      ],
-      "duration_ms": 248364,
-      "name": "BBQ Chips",
-      "url": "https://open.spotify.com/track/2LQxH6FmgC7vwXPo2lVtER"
     },
     {
       "added_at": "2026-03-27 04:00:14",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2026-03-27 04:00:14",
       "album": {
+        "name": "Squareneck Soul",
+        "url": "https://open.spotify.com/album/7xsg8EUd4x66zZbn8Z6hLY"
+      },
+      "artists": [
+        {
+          "name": "Andy Hall",
+          "url": "https://open.spotify.com/artist/0x6z63BgzxTjdYdTxytI0y"
+        }
+      ],
+      "duration_ms": 149346,
+      "name": "Squareneck Soul",
+      "url": "https://open.spotify.com/track/5CqfAkwqX8GmPHJB4J0i6Z"
+    },
+    {
+      "added_at": "2026-03-27 04:00:14",
+      "album": {
         "name": "Come Out Of My Blues (feat. Tim O'Brien)",
         "url": "https://open.spotify.com/album/5CguhXRiGqHP2JihutacxK"
       },
@@ -1255,22 +1271,6 @@
       "duration_ms": 227906,
       "name": "Come Out Of My Blues (feat. Tim O'Brien)",
       "url": "https://open.spotify.com/track/05PxhMCqQ9gnBPTM7ree0K"
-    },
-    {
-      "added_at": "2026-03-27 04:00:14",
-      "album": {
-        "name": "Squareneck Soul",
-        "url": "https://open.spotify.com/album/7xsg8EUd4x66zZbn8Z6hLY"
-      },
-      "artists": [
-        {
-          "name": "Andy Hall",
-          "url": "https://open.spotify.com/artist/0x6z63BgzxTjdYdTxytI0y"
-        }
-      ],
-      "duration_ms": 149346,
-      "name": "Squareneck Soul",
-      "url": "https://open.spotify.com/track/5CqfAkwqX8GmPHJB4J0i6Z"
     },
     {
       "added_at": "2026-03-27 04:00:14",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2026-03-27 04:00:14",
       "album": {
-        "name": "Abigail",
-        "url": "https://open.spotify.com/album/6pSyrdAE7P3nzf03ox29j3"
-      },
-      "artists": [
-        {
-          "name": "Chatham Rabbits",
-          "url": "https://open.spotify.com/artist/3yf23aN9drtTEXSYsxd4od"
-        }
-      ],
-      "duration_ms": 197500,
-      "name": "Abigail",
-      "url": "https://open.spotify.com/track/2yWj6P3Ldax9Xj8Em2VMC7"
-    },
-    {
-      "added_at": "2026-03-27 04:00:14",
-      "album": {
         "name": "Lifetime To Go",
         "url": "https://open.spotify.com/album/7fPKHS5uBtUv5hxb8eIMqX"
       },
@@ -1687,18 +1671,18 @@
     {
       "added_at": "2026-03-27 04:00:14",
       "album": {
-        "name": "Georgia Rain",
-        "url": "https://open.spotify.com/album/1BFRKYgiqWRHl2FVHSLXzg"
+        "name": "Abigail",
+        "url": "https://open.spotify.com/album/6pSyrdAE7P3nzf03ox29j3"
       },
       "artists": [
         {
-          "name": "Jaelee Roberts",
-          "url": "https://open.spotify.com/artist/1coMW2XQFb50Rm8pBvwgHM"
+          "name": "Chatham Rabbits",
+          "url": "https://open.spotify.com/artist/3yf23aN9drtTEXSYsxd4od"
         }
       ],
-      "duration_ms": 195000,
-      "name": "Georgia Rain",
-      "url": "https://open.spotify.com/track/6kM1cbK4b9MPzIDKvzXJHu"
+      "duration_ms": 197500,
+      "name": "Abigail",
+      "url": "https://open.spotify.com/track/2yWj6P3Ldax9Xj8Em2VMC7"
     },
     {
       "added_at": "2026-03-27 04:00:14",
@@ -1719,18 +1703,18 @@
     {
       "added_at": "2026-03-27 04:00:14",
       "album": {
-        "name": "As the Crow Flies",
-        "url": "https://open.spotify.com/album/2z8ZzHSCHFi0UWjSdqmqg5"
+        "name": "Georgia Rain",
+        "url": "https://open.spotify.com/album/1BFRKYgiqWRHl2FVHSLXzg"
       },
       "artists": [
         {
-          "name": "Green Mountain Grass",
-          "url": "https://open.spotify.com/artist/1i5eYanA9k3jyo0RfZUIwn"
+          "name": "Jaelee Roberts",
+          "url": "https://open.spotify.com/artist/1coMW2XQFb50Rm8pBvwgHM"
         }
       ],
-      "duration_ms": 206373,
-      "name": "The Banker",
-      "url": "https://open.spotify.com/track/0wKrA8JpLv4NHNXIpKA8h7"
+      "duration_ms": 195000,
+      "name": "Georgia Rain",
+      "url": "https://open.spotify.com/track/6kM1cbK4b9MPzIDKvzXJHu"
     },
     {
       "added_at": "2026-03-27 04:00:14",
@@ -1747,6 +1731,22 @@
       "duration_ms": 237905,
       "name": "Looking Past the Pain (The Cowboy Song)",
       "url": "https://open.spotify.com/track/09hTpfs6vZuYzKQ9vT8DP6"
+    },
+    {
+      "added_at": "2026-03-27 04:00:14",
+      "album": {
+        "name": "As the Crow Flies",
+        "url": "https://open.spotify.com/album/2z8ZzHSCHFi0UWjSdqmqg5"
+      },
+      "artists": [
+        {
+          "name": "Green Mountain Grass",
+          "url": "https://open.spotify.com/artist/1i5eYanA9k3jyo0RfZUIwn"
+        }
+      ],
+      "duration_ms": 206373,
+      "name": "The Banker",
+      "url": "https://open.spotify.com/track/0wKrA8JpLv4NHNXIpKA8h7"
     },
     {
       "added_at": "2026-03-27 04:00:14",

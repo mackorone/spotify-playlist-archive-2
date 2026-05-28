@@ -1,6 +1,6 @@
 {
   "description": "Bhangra is our pride, Bhangra is our culture. Cover: Diljit Dosanjh",
-  "num_followers": 248850,
+  "num_followers": 248875,
   "original_name": "Bhangra Bangers",
   "owner": {
     "name": "Spotify",
@@ -807,22 +807,6 @@
     {
       "added_at": "2026-05-22 11:52:14",
       "album": {
-        "name": "Jaan Jaan",
-        "url": "https://open.spotify.com/album/2nWzZ2Xbihu2S24TDNq3XD"
-      },
-      "artists": [
-        {
-          "name": "Happy Raikoti",
-          "url": "https://open.spotify.com/artist/6q71Xu33Q9DBhLFSUCLMUM"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Jaan Jaan",
-      "url": "https://open.spotify.com/track/5BJOzVKikgE07uvP68ZMEv"
-    },
-    {
-      "added_at": "2026-05-22 11:52:14",
-      "album": {
         "name": "Lachi Wargi Naar",
         "url": "https://open.spotify.com/album/4SCID0KlUOI1xuycGfGyrR"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 217179,
       "name": "Lachi Wargi Naar",
       "url": "https://open.spotify.com/track/3YBuS789aDX08RbDv0FgGU"
+    },
+    {
+      "added_at": "2026-05-22 11:52:14",
+      "album": {
+        "name": "Jaan Jaan",
+        "url": "https://open.spotify.com/album/2nWzZ2Xbihu2S24TDNq3XD"
+      },
+      "artists": [
+        {
+          "name": "Happy Raikoti",
+          "url": "https://open.spotify.com/artist/6q71Xu33Q9DBhLFSUCLMUM"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Jaan Jaan",
+      "url": "https://open.spotify.com/track/5BJOzVKikgE07uvP68ZMEv"
     },
     {
       "added_at": "2026-05-22 11:52:14",
@@ -1075,46 +1075,6 @@
     {
       "added_at": "2026-05-22 11:52:14",
       "album": {
-        "name": "Tere Warga",
-        "url": "https://open.spotify.com/album/7DZnuTSKMgg8KJmcfwXJVX"
-      },
-      "artists": [
-        {
-          "name": "Miss Pooja",
-          "url": "https://open.spotify.com/artist/0DyXyd0D6fMUsuD6yONANx"
-        },
-        {
-          "name": "Monewala",
-          "url": "https://open.spotify.com/artist/5gwaAQzgAG2J6tg85lWEEe"
-        }
-      ],
-      "duration_ms": 124344,
-      "name": "Tere Warga",
-      "url": "https://open.spotify.com/track/5YV6dijDvGw8TqJDkTnUwG"
-    },
-    {
-      "added_at": "2026-05-22 11:52:14",
-      "album": {
-        "name": "Tu Te Sharab",
-        "url": "https://open.spotify.com/album/0rNIfWLgk9zDDTny87rS48"
-      },
-      "artists": [
-        {
-          "name": "Jordan Sandhu",
-          "url": "https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv"
-        },
-        {
-          "name": "Desi Crew",
-          "url": "https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Tu Te Sharab",
-      "url": "https://open.spotify.com/track/5aVuu233cUXaz2899s8fT9"
-    },
-    {
-      "added_at": "2026-05-22 11:52:14",
-      "album": {
         "name": "32 Dand",
         "url": "https://open.spotify.com/album/167zp2W8XeoyZZg6z8EOkg"
       },
@@ -1139,6 +1099,26 @@
     {
       "added_at": "2026-05-22 11:52:14",
       "album": {
+        "name": "Tu Te Sharab",
+        "url": "https://open.spotify.com/album/0rNIfWLgk9zDDTny87rS48"
+      },
+      "artists": [
+        {
+          "name": "Jordan Sandhu",
+          "url": "https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv"
+        },
+        {
+          "name": "Desi Crew",
+          "url": "https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Tu Te Sharab",
+      "url": "https://open.spotify.com/track/5aVuu233cUXaz2899s8fT9"
+    },
+    {
+      "added_at": "2026-05-22 11:52:14",
+      "album": {
         "name": "Medicine",
         "url": "https://open.spotify.com/album/5bxIO37XtNj4k4PW5vMlUJ"
       },
@@ -1155,6 +1135,26 @@
       "duration_ms": 236000,
       "name": "Medicine",
       "url": "https://open.spotify.com/track/2QbFuHbPKNWgpqIFQYsUwS"
+    },
+    {
+      "added_at": "2026-05-22 11:52:14",
+      "album": {
+        "name": "Tere Warga",
+        "url": "https://open.spotify.com/album/7DZnuTSKMgg8KJmcfwXJVX"
+      },
+      "artists": [
+        {
+          "name": "Miss Pooja",
+          "url": "https://open.spotify.com/artist/0DyXyd0D6fMUsuD6yONANx"
+        },
+        {
+          "name": "Monewala",
+          "url": "https://open.spotify.com/artist/5gwaAQzgAG2J6tg85lWEEe"
+        }
+      ],
+      "duration_ms": 124344,
+      "name": "Tere Warga",
+      "url": "https://open.spotify.com/track/5YV6dijDvGw8TqJDkTnUwG"
     },
     {
       "added_at": "2026-05-22 11:52:14",
@@ -1219,6 +1219,26 @@
     {
       "added_at": "2026-05-22 11:52:14",
       "album": {
+        "name": "Goli - Chapter 2",
+        "url": "https://open.spotify.com/album/3WjmUxyK9VVFI7gF2rf7eE"
+      },
+      "artists": [
+        {
+          "name": "Harvy Sandhu",
+          "url": "https://open.spotify.com/artist/1pKUpf9IOuy2rZ0jxoo3Nz"
+        },
+        {
+          "name": "Maahi Sharma",
+          "url": "https://open.spotify.com/artist/3u8IH8WOkyRPMiB07jZknQ"
+        }
+      ],
+      "duration_ms": 178536,
+      "name": "Goli - Chapter 2",
+      "url": "https://open.spotify.com/track/1VN0qoO0RdMwq4BpwfatIj"
+    },
+    {
+      "added_at": "2026-05-22 11:52:14",
+      "album": {
         "name": "4 Mint",
         "url": "https://open.spotify.com/album/7KNDPUiabecXfUPdLK29Ti"
       },
@@ -1255,26 +1275,6 @@
       "duration_ms": 197927,
       "name": "Duniya",
       "url": "https://open.spotify.com/track/0bX401SlVTPxMzEYiluoWV"
-    },
-    {
-      "added_at": "2026-05-22 11:52:14",
-      "album": {
-        "name": "Goli - Chapter 2",
-        "url": "https://open.spotify.com/album/3WjmUxyK9VVFI7gF2rf7eE"
-      },
-      "artists": [
-        {
-          "name": "Harvy Sandhu",
-          "url": "https://open.spotify.com/artist/1pKUpf9IOuy2rZ0jxoo3Nz"
-        },
-        {
-          "name": "Maahi Sharma",
-          "url": "https://open.spotify.com/artist/3u8IH8WOkyRPMiB07jZknQ"
-        }
-      ],
-      "duration_ms": 178536,
-      "name": "Goli - Chapter 2",
-      "url": "https://open.spotify.com/track/1VN0qoO0RdMwq4BpwfatIj"
     },
     {
       "added_at": "2026-05-22 11:52:14",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2026-05-22 11:52:14",
       "album": {
+        "name": "Do Gabru - Diljit Dosanjh & Akhil",
+        "url": "https://open.spotify.com/album/1uxDllRe9CPhdr8rhz2QCZ"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        }
+      ],
+      "duration_ms": 188314,
+      "name": "Patiala Peg",
+      "url": "https://open.spotify.com/track/6TikcWOLRsPq66GBx2jk67"
+    },
+    {
+      "added_at": "2026-05-22 11:52:14",
+      "album": {
         "name": "Farmhouse",
         "url": "https://open.spotify.com/album/3pt2TFlHkZ7RPLX3sQuLvm"
       },
@@ -1435,22 +1451,6 @@
       "duration_ms": 233313,
       "name": "Jitt Da Swad",
       "url": "https://open.spotify.com/track/2QvDGjDnWnqPT3Yetnpr7v"
-    },
-    {
-      "added_at": "2026-05-22 11:52:14",
-      "album": {
-        "name": "Do Gabru - Diljit Dosanjh & Akhil",
-        "url": "https://open.spotify.com/album/1uxDllRe9CPhdr8rhz2QCZ"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        }
-      ],
-      "duration_ms": 188314,
-      "name": "Patiala Peg",
-      "url": "https://open.spotify.com/track/6TikcWOLRsPq66GBx2jk67"
     },
     {
       "added_at": "2026-05-22 11:52:14",
@@ -1519,6 +1519,22 @@
     {
       "added_at": "2026-05-22 11:52:14",
       "album": {
+        "name": "2 Kamm",
+        "url": "https://open.spotify.com/album/5ocXx8clrayri1HefLYhv0"
+      },
+      "artists": [
+        {
+          "name": "Mani Longia",
+          "url": "https://open.spotify.com/artist/4T8KtF2YGesSSw3jgAVura"
+        }
+      ],
+      "duration_ms": 146062,
+      "name": "2 Kamm",
+      "url": "https://open.spotify.com/track/7sWYLvZXs3XIl9eFKBFEp0"
+    },
+    {
+      "added_at": "2026-05-22 11:52:14",
+      "album": {
         "name": "Back to Roots",
         "url": "https://open.spotify.com/album/0QyDEaqYnehKA956tyQmm9"
       },
@@ -1535,22 +1551,6 @@
       "duration_ms": 195348,
       "name": "Jatt Nazaare Lenda",
       "url": "https://open.spotify.com/track/65kOgRJjUVaVmA4wzqcFQ7"
-    },
-    {
-      "added_at": "2026-05-22 11:52:14",
-      "album": {
-        "name": "2 Kamm",
-        "url": "https://open.spotify.com/album/5ocXx8clrayri1HefLYhv0"
-      },
-      "artists": [
-        {
-          "name": "Mani Longia",
-          "url": "https://open.spotify.com/artist/4T8KtF2YGesSSw3jgAVura"
-        }
-      ],
-      "duration_ms": 146062,
-      "name": "2 Kamm",
-      "url": "https://open.spotify.com/track/7sWYLvZXs3XIl9eFKBFEp0"
     },
     {
       "added_at": "2026-05-22 11:52:14",

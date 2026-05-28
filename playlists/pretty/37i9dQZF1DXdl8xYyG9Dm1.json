@@ -1,6 +1,6 @@
 {
   "description": "The latest straight bars and Afro-Trap. Cover:  Blaqbonez and Asake",
-  "num_followers": 190498,
+  "num_followers": 190559,
   "original_name": "Afro Bars ",
   "owner": {
     "name": "Spotify",
@@ -783,6 +783,22 @@
     {
       "added_at": "2026-05-25 09:16:52",
       "album": {
+        "name": "TAI CHI",
+        "url": "https://open.spotify.com/album/74ObmRduVbQb7FYmFOcsIg"
+      },
+      "artists": [
+        {
+          "name": "Nyashinski",
+          "url": "https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6"
+        }
+      ],
+      "duration_ms": 169793,
+      "name": "TAI CHI",
+      "url": "https://open.spotify.com/track/5dc28G1bMYFNGsSc1D5uA7"
+    },
+    {
+      "added_at": "2026-05-25 09:16:52",
+      "album": {
         "name": "Nzogbu",
         "url": "https://open.spotify.com/album/2s4hOhCQXsK6i3X70wstO1"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 208000,
       "name": "Nzogbu",
       "url": "https://open.spotify.com/track/5Y7yFI7WV9H30jk1hfQbuh"
-    },
-    {
-      "added_at": "2026-05-25 09:16:52",
-      "album": {
-        "name": "TAI CHI",
-        "url": "https://open.spotify.com/album/74ObmRduVbQb7FYmFOcsIg"
-      },
-      "artists": [
-        {
-          "name": "Nyashinski",
-          "url": "https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6"
-        }
-      ],
-      "duration_ms": 169793,
-      "name": "TAI CHI",
-      "url": "https://open.spotify.com/track/5dc28G1bMYFNGsSc1D5uA7"
     },
     {
       "added_at": "2026-05-25 09:16:52",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Q9uUx.md) - [plain]
 
 > This is BIA\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,125 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,129 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,9 +42,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Q9uUx.md) - [plain]
 | 32 | [Super Freaky Girl \(with JT & BIA feat\. Katie Got Bandz, Akbar V & Maliibu Mitch\) \- Queen Mix](https://open.spotify.com/track/4dFKEyGrwmIimMqwYleFOR) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Katie Got Bandz](https://open.spotify.com/artist/48ObYO3GM7R76nRcfyvnM9), [Akbar V](https://open.spotify.com/artist/74PEUb9Hxn7dY8jjgnQvSw), [Maliibu Miitch](https://open.spotify.com/artist/5J1JcdYCPj44YKz6kVA5wx) | [Super Freaky Girl \(Queen Mix\)](https://open.spotify.com/album/0kTHpgQCab29IVUdUIVtI6) | 3:54 |
 | 33 | [LIGHTS OUT](https://open.spotify.com/track/4WWTcYV2tlGm7KwfPpXgLb) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [LIGHTS OUT](https://open.spotify.com/album/7EvhlLz5NF0LGUn6s0ceZv) | 3:18 |
 | 34 | [jaded \(feat\. BIA\)](https://open.spotify.com/track/02Qel05Z1siC6oZUWjeP3p) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [moo](https://open.spotify.com/album/5RHHriIsaO6PnS4DodUsat) | 3:07 |
-| 35 | [HARD WAY \(feat\. Becky G\)](https://open.spotify.com/track/6nmFmZXID8zfYp21aI72KE) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [BIANCA](https://open.spotify.com/album/7wmeALlMQDyo4HeNwf5EVV) | 2:21 |
+| 35 | [Savage \(feat\. BIA\)](https://open.spotify.com/track/6gjitvaInHSbArmOHI6vro) | [Bahari](https://open.spotify.com/artist/0fs8oBR1rx7JIXZi75h7Uu), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Savage \(feat\. BIA\)](https://open.spotify.com/album/0B93ATZTlJWmJqLRKS31sS) | 2:44 |
 | 36 | [Labels\. \(ft\. Moneybagg Yo, BIA\)](https://open.spotify.com/track/3H6jIGAjC93RTm9MihQe3w) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [KIKI](https://open.spotify.com/album/6UmILTxwjM8sME3wbsZgQh) | 2:35 |
-| 37 | [Savage \(feat\. BIA\)](https://open.spotify.com/track/6gjitvaInHSbArmOHI6vro) | [Bahari](https://open.spotify.com/artist/0fs8oBR1rx7JIXZi75h7Uu), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Savage \(feat\. BIA\)](https://open.spotify.com/album/0B93ATZTlJWmJqLRKS31sS) | 2:44 |
+| 37 | [HARD WAY \(feat\. Becky G\)](https://open.spotify.com/track/6nmFmZXID8zfYp21aI72KE) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [BIANCA](https://open.spotify.com/album/7wmeALlMQDyo4HeNwf5EVV) | 2:21 |
 | 38 | [COVER GIRL](https://open.spotify.com/track/3l1DD2X1lomNhj6xO3ftcb) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [FOR CERTAIN](https://open.spotify.com/album/5B857SgrQIAmcJGj0sFOSg) | 2:29 |
 | 39 | [Buy What U Want](https://open.spotify.com/track/2DEIPMzcyKZ45YYYPZl4WC) | [Black Fortune](https://open.spotify.com/artist/5kEIoxHSPy9qHJqgR2Ng5Z), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Buy What U Want](https://open.spotify.com/album/0vUKTBr1GMhIk96Ndhml1h) | 3:47 |
 | 40 | [Eat It Up \(feat\. BIA\)](https://open.spotify.com/track/3nePMGxrBMKtffHpkKqSHA) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Toxic Chocolate](https://open.spotify.com/album/5X4gn5R6OOy34QpVRReCnh) | 3:01 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Q9uUx.md) - [plain]
 | 49 | [MILLIONS](https://open.spotify.com/track/11AsxhPhTYYIwLiE6bkA0v) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [REALLY HER](https://open.spotify.com/album/4acZyhrXnAZR3PSDLAaoX5) | 2:52 |
 | 50 | [BEACH BALL \(feat\. BIA\)](https://open.spotify.com/track/3wSf7ZuqT38jZyJ92hNUiE) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [BEACH BALL \(feat\. BIA\)](https://open.spotify.com/album/2lUZ8Vde6vLKqg4kdaAuXZ) | 2:24 |
 
-Snapshot ID: `ahORAAAAAAACmJI48+AdQoXPox/9ewSs`
+Snapshot ID: `ahTigAAAAACJvFjAR4smf+3GUDvHGCnG`

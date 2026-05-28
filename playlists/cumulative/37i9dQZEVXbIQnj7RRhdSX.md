@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Italy.
 
-3,083 songs - 6 day 13 hr 49 min
+3,084 songs - 6 day 13 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2506,6 +2506,7 @@
 | [Sei tu](https://open.spotify.com/track/7fgEx5OxzDP1hw50mJeDMh) | [Fabrizio Moro](https://open.spotify.com/artist/3ebOqZZsLCDAkLS6QdI8cc) | [Sei tu](https://open.spotify.com/album/54trcKDQoKkvQ71hG9LezJ) | 2:52 | 2022-02-04 | 2022-02-20 |
 | [SEI TU](https://open.spotify.com/track/1MXiEYzY1u2DEfh2cRITv9) | [Levante](https://open.spotify.com/artist/5mTg1ztZByLRHsOEtwmT4G) | [SEI TU](https://open.spotify.com/album/1D50lfiYDTVclwpb7iThC2) | 3:31 | 2026-02-26 | 2026-03-12 |
 | [Seignosse](https://open.spotify.com/track/1aHWdsWQooVkRhZL2oU8m2) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Madfingerz](https://open.spotify.com/artist/4VmOlyJsnQB93ZIGMO2XWo) | [Seignosse](https://open.spotify.com/album/5TmDheBbiIysuxMl2Qjhfg) | 2:56 | 2022-02-20 | 2022-03-13 |
+| [Self Aware](https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT) | [Temper City](https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz) | [Self Aware](https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M) | 3:00 | 2026-05-27 |  |
 | [Semplicemente \(from the Netflix Series "RIV4LI"\)](https://open.spotify.com/track/62mcxUzMfWpN4ZD9FXmVSI) | [Sarah Toscano](https://open.spotify.com/artist/3dsL845RhsJDZPc7BdGsN5), [Mida](https://open.spotify.com/artist/2Pr26KMbfrX8zb8Vk6jFHe) | [MET GALA](https://open.spotify.com/album/4kS1yg2jnfGJEq0cKiZ7rh) | 3:07 | 2025-10-08 | 2025-10-10 |
 | [SENZ'ANIMA \- nikita](https://open.spotify.com/track/39ZJEJ8KLq8yQQ1OEAdJ1W) | [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [Effetto notte](https://open.spotify.com/album/39wuRno08Rl0Jsse2kCHga) | 3:13 | 2023-05-20 | 2023-06-11 |
 | [Senza Di Me \(feat\. Baby Gang\)](https://open.spotify.com/track/6JJksqiePG5LUjiayW0Kre) | [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [Le cose cambiano](https://open.spotify.com/album/50SWJ7Aq7XuSKl8SJYFnn9) | 2:30 | 2023-12-02 | 2023-12-08 |
@@ -2915,7 +2916,7 @@
 | [Underneath the Tree](https://open.spotify.com/track/3nAp4IvdMPPWEH9uuXFFV5) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Wrapped In Red](https://open.spotify.com/album/0t70lpfTyHEv0uuq21fhdZ) | 3:49 | 2021-12-10 | 2025-12-29 |
 | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/track/0NZPBYD5qbEWRs3PrGiRkT) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Gloria](https://open.spotify.com/album/3Uq1jNGnD412ZvCb6j2DKV) | 2:36 | 2023-01-28 | 2023-02-11 |
 | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi) | 2:36 | 2022-09-24 | 2023-02-01 |
-| [Uno+Gangsta \(feat\. Nerissima Serpe\)](https://open.spotify.com/track/2jG4lgrHeFXjRpvl3Cv29E) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB) | [RYAN TED](https://open.spotify.com/album/2U9mwmcJrUmkIpJm9gq8n7) | 2:44 | 2026-05-23 |  |
+| [Uno+Gangsta \(feat\. Nerissima Serpe\)](https://open.spotify.com/track/2jG4lgrHeFXjRpvl3Cv29E) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB) | [RYAN TED](https://open.spotify.com/album/2U9mwmcJrUmkIpJm9gq8n7) | 2:44 | 2026-05-23 | 2026-05-28 |
 | [Unwritten](https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf) | [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [Unwritten](https://open.spotify.com/album/3PEzTAuPW5IjLJ58FzwQeL) | 4:19 | 2024-01-29 | 2024-02-10 |
 | [Un’Altra Volta](https://open.spotify.com/track/0LibhadIbaCxWStsermQhg) | [Vale Pain](https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08) | [Un’Altra Volta](https://open.spotify.com/album/3Iew1h5VtOr8eiSe3omNjj) | 2:12 | 2023-12-21 | 2024-01-06 |
 | [UOMO A TERRA](https://open.spotify.com/track/3aaxVh7kAA5h5IszxwYjYR) | [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY), [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h) | [VIRUS](https://open.spotify.com/album/1PuzNok4t4FnyY92G202UU) | 2:03 | 2022-01-15 | 2022-01-22 |

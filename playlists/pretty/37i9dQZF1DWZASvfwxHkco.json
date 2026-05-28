@@ -1,6 +1,6 @@
 {
   "description": "\u4e16\u754c\u4e2d\u3067\u8a71\u984c\u306e\u30a8\u30ec\u30af\u30c8\u30ed\u30cb\u30c3\u30af\u30fb\u30c0\u30f3\u30b9\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u3092\u4e00\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\uff01Cover: Ed Sheeran, Martin Garrix",
-  "num_followers": 68894,
+  "num_followers": 68896,
   "original_name": "mint Japan",
   "owner": {
     "name": "Spotify",
@@ -455,30 +455,6 @@
     {
       "added_at": "2026-05-15 07:40:25",
       "album": {
-        "name": "Mockingbird",
-        "url": "https://open.spotify.com/album/22dOSFgcI8e3gJbHpG5gYg"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Dimitri Vegas & Like Mike",
-          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
-        },
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        }
-      ],
-      "duration_ms": 154838,
-      "name": "Mockingbird",
-      "url": "https://open.spotify.com/track/2x4JC9TxW2LACuuxbsncfG"
-    },
-    {
-      "added_at": "2026-05-15 07:40:25",
-      "album": {
         "name": "Let's Go",
         "url": "https://open.spotify.com/album/44KFMrvFfUfkcBeKjJLjN6"
       },
@@ -499,6 +475,30 @@
       "duration_ms": 159577,
       "name": "Let's Go",
       "url": "https://open.spotify.com/track/6Qr4ufjYXdEd0KNFd7sJxx"
+    },
+    {
+      "added_at": "2026-05-15 07:40:25",
+      "album": {
+        "name": "Mockingbird",
+        "url": "https://open.spotify.com/album/22dOSFgcI8e3gJbHpG5gYg"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+        },
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        }
+      ],
+      "duration_ms": 154838,
+      "name": "Mockingbird",
+      "url": "https://open.spotify.com/track/2x4JC9TxW2LACuuxbsncfG"
     },
     {
       "added_at": "2026-05-15 07:40:25",
@@ -735,6 +735,30 @@
     {
       "added_at": "2026-05-15 07:40:25",
       "album": {
+        "name": "YAPAQUE",
+        "url": "https://open.spotify.com/album/29FOwp0vsOM1V3ybDRFL5v"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        },
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        }
+      ],
+      "duration_ms": 237120,
+      "name": "YAPAQUE",
+      "url": "https://open.spotify.com/track/67kmVaXtdmcy856hKjHb3y"
+    },
+    {
+      "added_at": "2026-05-15 07:40:25",
+      "album": {
         "name": "Alibi (feat. Rudimental)",
         "url": "https://open.spotify.com/album/3Ku8LDPYg53Kh59amfFWjL"
       },
@@ -771,30 +795,6 @@
       "duration_ms": 166440,
       "name": "Dive Into Me",
       "url": "https://open.spotify.com/track/2y3qIbsaOPaj0xKv20rbOQ"
-    },
-    {
-      "added_at": "2026-05-15 07:40:25",
-      "album": {
-        "name": "YAPAQUE",
-        "url": "https://open.spotify.com/album/29FOwp0vsOM1V3ybDRFL5v"
-      },
-      "artists": [
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        },
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        },
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        }
-      ],
-      "duration_ms": 237120,
-      "name": "YAPAQUE",
-      "url": "https://open.spotify.com/track/67kmVaXtdmcy856hKjHb3y"
     },
     {
       "added_at": "2026-05-15 07:40:25",
@@ -923,6 +923,26 @@
     {
       "added_at": "2026-05-15 07:40:25",
       "album": {
+        "name": "Just The Way You Are (David Guetta Remix)",
+        "url": "https://open.spotify.com/album/1ds3s1EQxP4MPLvX5CxXSw"
+      },
+      "artists": [
+        {
+          "name": "Milky",
+          "url": "https://open.spotify.com/artist/5AvCP5qzxTmk4cQmh0SUEw"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 181609,
+      "name": "Just The Way You Are - David Guetta Remix",
+      "url": "https://open.spotify.com/track/5980rUQH7tLVv78lk4EIDU"
+    },
+    {
+      "added_at": "2026-05-15 07:40:25",
+      "album": {
         "name": "HIGHJACK (right back)",
         "url": "https://open.spotify.com/album/6CkVgejgX1Oypxu8rGI1VQ"
       },
@@ -971,26 +991,6 @@
     {
       "added_at": "2026-05-15 07:40:25",
       "album": {
-        "name": "Just The Way You Are (David Guetta Remix)",
-        "url": "https://open.spotify.com/album/1ds3s1EQxP4MPLvX5CxXSw"
-      },
-      "artists": [
-        {
-          "name": "Milky",
-          "url": "https://open.spotify.com/artist/5AvCP5qzxTmk4cQmh0SUEw"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 181609,
-      "name": "Just The Way You Are - David Guetta Remix",
-      "url": "https://open.spotify.com/track/5980rUQH7tLVv78lk4EIDU"
-    },
-    {
-      "added_at": "2026-05-15 07:40:25",
-      "album": {
         "name": "New Religion",
         "url": "https://open.spotify.com/album/5HUiOVb2KWxcyxaADzceog"
       },
@@ -1035,26 +1035,6 @@
     {
       "added_at": "2026-05-15 07:40:25",
       "album": {
-        "name": "Echo",
-        "url": "https://open.spotify.com/album/37CYoaYJA39qUt4zl00Dnp"
-      },
-      "artists": [
-        {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        },
-        {
-          "name": "Oaks",
-          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
-        }
-      ],
-      "duration_ms": 219785,
-      "name": "Echo",
-      "url": "https://open.spotify.com/track/1HJqcvrJAgiID47SEGe27X"
-    },
-    {
-      "added_at": "2026-05-15 07:40:25",
-      "album": {
         "name": "Finally",
         "url": "https://open.spotify.com/album/5UdlVNeKvUDoaNmy9fhhft"
       },
@@ -1071,6 +1051,26 @@
       "duration_ms": 215583,
       "name": "Finally",
       "url": "https://open.spotify.com/track/5a2Mb0OPY17zkS8FnciQhg"
+    },
+    {
+      "added_at": "2026-05-15 07:40:25",
+      "album": {
+        "name": "Echo",
+        "url": "https://open.spotify.com/album/37CYoaYJA39qUt4zl00Dnp"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "Oaks",
+          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
+        }
+      ],
+      "duration_ms": 219785,
+      "name": "Echo",
+      "url": "https://open.spotify.com/track/1HJqcvrJAgiID47SEGe27X"
     },
     {
       "added_at": "2026-05-15 07:40:25",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2026-05-15 07:40:25",
       "album": {
+        "name": "Rain",
+        "url": "https://open.spotify.com/album/5T5eRxgbtOfZw6L8zrWt52"
+      },
+      "artists": [
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        }
+      ],
+      "duration_ms": 208640,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/1xtDflWAisSMU7k6QHG71U"
+    },
+    {
+      "added_at": "2026-05-15 07:40:25",
+      "album": {
         "name": "Never Going Home Tonight (feat. Madison Love)",
         "url": "https://open.spotify.com/album/0tn39dXCidefjSr5PqXbcX"
       },
@@ -1139,22 +1155,6 @@
       "duration_ms": 164285,
       "name": "Never Going Home Tonight (feat. Madison Love)",
       "url": "https://open.spotify.com/track/7K1BLb6MpvKuGEPpHw35mO"
-    },
-    {
-      "added_at": "2026-05-15 07:40:25",
-      "album": {
-        "name": "Rain",
-        "url": "https://open.spotify.com/album/5T5eRxgbtOfZw6L8zrWt52"
-      },
-      "artists": [
-        {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
-        }
-      ],
-      "duration_ms": 208640,
-      "name": "Rain",
-      "url": "https://open.spotify.com/track/1xtDflWAisSMU7k6QHG71U"
     },
     {
       "added_at": "2026-05-15 07:40:25",
@@ -1343,26 +1343,6 @@
     {
       "added_at": "2026-05-15 07:40:25",
       "album": {
-        "name": "Already Know",
-        "url": "https://open.spotify.com/album/3xcgGpibAqoTYC1mhOO6SP"
-      },
-      "artists": [
-        {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        },
-        {
-          "name": "Oaks",
-          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
-        }
-      ],
-      "duration_ms": 157333,
-      "name": "Already Know",
-      "url": "https://open.spotify.com/track/4fYhGMu338Ypi1e2g27E2Y"
-    },
-    {
-      "added_at": "2026-05-15 07:40:25",
-      "album": {
         "name": "light years (feat. In\u00e9z)",
         "url": "https://open.spotify.com/album/3Ze2F3oYCJnaotDZBVWMkI"
       },
@@ -1395,6 +1375,26 @@
       "duration_ms": 181200,
       "name": "Embers",
       "url": "https://open.spotify.com/track/3OGmnOgg3NQ4uwerCW3GXE"
+    },
+    {
+      "added_at": "2026-05-15 07:40:25",
+      "album": {
+        "name": "Already Know",
+        "url": "https://open.spotify.com/album/3xcgGpibAqoTYC1mhOO6SP"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "Oaks",
+          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
+        }
+      ],
+      "duration_ms": 157333,
+      "name": "Already Know",
+      "url": "https://open.spotify.com/track/4fYhGMu338Ypi1e2g27E2Y"
     },
     {
       "added_at": "2026-05-15 07:40:25",
@@ -1435,6 +1435,22 @@
     {
       "added_at": "2026-05-15 07:40:25",
       "album": {
+        "name": "LIGHTS GO OUT",
+        "url": "https://open.spotify.com/album/2Ha5IAL4jtiVibo7sv86Fj"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        }
+      ],
+      "duration_ms": 158333,
+      "name": "LIGHTS GO OUT",
+      "url": "https://open.spotify.com/track/2iyMHe42Q6bY0mKp29KaHw"
+    },
+    {
+      "added_at": "2026-05-15 07:40:25",
+      "album": {
         "name": "ODYSSEY",
         "url": "https://open.spotify.com/album/1Y2uYmUgox5SpSMHXu8iPC"
       },
@@ -1451,22 +1467,6 @@
       "duration_ms": 192000,
       "name": "Don't Want Your Love",
       "url": "https://open.spotify.com/track/0ddLd0n19FHwawkSmhXwgg"
-    },
-    {
-      "added_at": "2026-05-15 07:40:25",
-      "album": {
-        "name": "LIGHTS GO OUT",
-        "url": "https://open.spotify.com/album/2Ha5IAL4jtiVibo7sv86Fj"
-      },
-      "artists": [
-        {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        }
-      ],
-      "duration_ms": 158333,
-      "name": "LIGHTS GO OUT",
-      "url": "https://open.spotify.com/track/2iyMHe42Q6bY0mKp29KaHw"
     },
     {
       "added_at": "2026-05-15 07:40:25",
@@ -1675,26 +1675,22 @@
     {
       "added_at": "2026-05-15 07:40:25",
       "album": {
-        "name": "Galaxy",
-        "url": "https://open.spotify.com/album/2BALbsQWKxU1RbUN9oh0NS"
+        "name": "Deep In Your Love",
+        "url": "https://open.spotify.com/album/3QkffLjHLnGMUgMAvrOgrs"
       },
       "artists": [
         {
-          "name": "Kungs",
-          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
         },
         {
-          "name": "Theophilus London",
-          "url": "https://open.spotify.com/artist/4EMtGVFvfCSrEmWaGV0roE"
-        },
-        {
-          "name": "Mind Enterprises",
-          "url": "https://open.spotify.com/artist/5pN1DJhPFDKso4OtC0QhnB"
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
         }
       ],
-      "duration_ms": 170640,
-      "name": "Galaxy",
-      "url": "https://open.spotify.com/track/2h5Nvt8nCnpaX4xrwmcMnV"
+      "duration_ms": 144500,
+      "name": "Deep In Your Love",
+      "url": "https://open.spotify.com/track/0sftzYE0YgPHXrvJyUyGjB"
     },
     {
       "added_at": "2026-05-15 07:40:25",

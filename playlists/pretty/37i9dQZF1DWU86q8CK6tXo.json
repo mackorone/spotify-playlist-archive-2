@@ -359,22 +359,6 @@
     {
       "added_at": "2026-05-04 14:33:16",
       "album": {
-        "name": "You Can Have Him",
-        "url": "https://open.spotify.com/album/2sLwRHswcURQ3Oe0chhcN8"
-      },
-      "artists": [
-        {
-          "name": "Carly Pearce",
-          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
-        }
-      ],
-      "duration_ms": 195924,
-      "name": "You Can Have Him",
-      "url": "https://open.spotify.com/track/2Fk3aGFUTMniC8tNSJWe4S"
-    },
-    {
-      "added_at": "2026-05-04 14:33:16",
-      "album": {
         "name": "Aren't You Curious?",
         "url": "https://open.spotify.com/album/5Fdzfm44sC8htznFfFdAqA"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 184294,
       "name": "Curious",
       "url": "https://open.spotify.com/track/4riWIw7bjHRKCWeeCFxV3o"
+    },
+    {
+      "added_at": "2026-05-04 14:33:16",
+      "album": {
+        "name": "You Can Have Him",
+        "url": "https://open.spotify.com/album/2sLwRHswcURQ3Oe0chhcN8"
+      },
+      "artists": [
+        {
+          "name": "Carly Pearce",
+          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
+        }
+      ],
+      "duration_ms": 195924,
+      "name": "You Can Have Him",
+      "url": "https://open.spotify.com/track/2Fk3aGFUTMniC8tNSJWe4S"
     },
     {
       "added_at": "2026-05-04 14:33:16",
@@ -559,22 +559,6 @@
     {
       "added_at": "2026-05-04 14:33:16",
       "album": {
-        "name": "Is It Fun Or Is It Over?",
-        "url": "https://open.spotify.com/album/54N4dAkractT6mUBC0a48b"
-      },
-      "artists": [
-        {
-          "name": "Mercer Henderson",
-          "url": "https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L"
-        }
-      ],
-      "duration_ms": 160020,
-      "name": "Is It Fun Or Is It Over?",
-      "url": "https://open.spotify.com/track/4dXy0r0OF5T2wXeQu254A6"
-    },
-    {
-      "added_at": "2026-05-04 14:33:16",
-      "album": {
         "name": "Janney",
         "url": "https://open.spotify.com/album/25X59yD47dtzAAq6bzXliA"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 154992,
       "name": "MALIBU",
       "url": "https://open.spotify.com/track/4fPXanSrPMbboicrHPzV0M"
+    },
+    {
+      "added_at": "2026-05-04 14:33:16",
+      "album": {
+        "name": "Is It Fun Or Is It Over?",
+        "url": "https://open.spotify.com/album/54N4dAkractT6mUBC0a48b"
+      },
+      "artists": [
+        {
+          "name": "Mercer Henderson",
+          "url": "https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L"
+        }
+      ],
+      "duration_ms": 160020,
+      "name": "Is It Fun Or Is It Over?",
+      "url": "https://open.spotify.com/track/4dXy0r0OF5T2wXeQu254A6"
     },
     {
       "added_at": "2026-05-04 14:33:16",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PSDDh80gxI.md) - [plain]
 
 > Chi era sotto palco sa ❤️‍🩹 cover: faccianuvola al MI AMI Festival \(credits: Ouael Ben Salah\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 455,042 likes - 81 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 455,048 likes - 81 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

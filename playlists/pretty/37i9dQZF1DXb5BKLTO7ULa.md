@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > Nieuw: Sarah Julia \(RADAR\-artiest\), Lola Young, Bankzitters en meer..
 
-[Spotify](https://open.spotify.com/user/spotify) - 295,537 likes - 99 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 295,530 likes - 99 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 69 | [Mijn Zoon](https://open.spotify.com/track/2njv0FF4Kuj1cgHogLJ7Xg) | [Nino](https://open.spotify.com/artist/33qeczxHwDRybWmW1vI2Nu) | [Mijn Zoon](https://open.spotify.com/album/3FassLICneXhEoZw51BXep) | 3:57 |
 | 70 | [Shatta Mad](https://open.spotify.com/track/08bOtraHk8waBUt6sQOZce) | [Limitlezz](https://open.spotify.com/artist/4ufyMlueg4tz0JcKNQFHCz), [Maureen](https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD) | [Shatta Mad](https://open.spotify.com/album/5u8KUAVgCZxGUvMD7Zmftv) | 2:36 |
 | 71 | [Meer Dan Mooi](https://open.spotify.com/track/0RlbV33r7lt8IRb4UafByA) | [Donda](https://open.spotify.com/artist/5a3DBd2KSJpNcYRKeG4rQT) | [Meer Dan Mooi](https://open.spotify.com/album/31a7ZzsnTSEt5tjZsTvreT) | 2:54 |
-| 72 | [Steeds een beetje mij](https://open.spotify.com/track/3sVSabX2RQOWzqsyvRjcXs) | [Iris Penning](https://open.spotify.com/artist/44MTZ4Gl4TGilst3cCDq9G) | [Steeds een beetje mij](https://open.spotify.com/album/2F9WIMklS6z0sUe77zzm9K) | 3:01 |
+| 72 | [Steeds een beetje mij](https://open.spotify.com/track/3sVSabX2RQOWzqsyvRjcXs) | [Iris Penning](https://open.spotify.com/artist/44MTZ4Gl4TGilst3cCDq9G) | [Steeds een beetje mij](https://open.spotify.com/album/2F9WIMklS6z0sUe77zzm9K) | 3:02 |
 | 73 | [Yesterday, Today, Tomorrow](https://open.spotify.com/track/2rz6LNSkIKcG1ulv67HNZZ) | [Berre](https://open.spotify.com/artist/1hqxH66i1ZwEBAkzORVRPW) | [How Beautiful This Life Is](https://open.spotify.com/album/2CshB3bOrYGHuXyIu9FsP9) | 2:41 |
 | 74 | [we should talk](https://open.spotify.com/track/5xqxq73BSIr3303mn1Dnqz) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [everyone for ten minutes](https://open.spotify.com/album/7fVpvNHItOKonMGgbhHL5o) | 3:04 |
 | 75 | [The Waves \(feat\. Solann\)](https://open.spotify.com/track/0Hcr3kdSB9NVQmFckRsgSD) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb), [Solann](https://open.spotify.com/artist/17u6mMCLx4RTzjIKRaTRIv) | [The Waves \(feat\. Solann\)](https://open.spotify.com/album/2xhsIO7LVY0B6ELCQgiupH) | 5:29 |

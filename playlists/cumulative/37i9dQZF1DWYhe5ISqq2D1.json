@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2024-07-02",
   "description": "\u65e5\u672c\u306e\u30b7\u30f3\u30ac\u30fc\u30bd\u30f3\u30b0\u30e9\u30a4\u30bf\u30fc\u3092\u7279\u96c6\u3002Featuring Japanese Singer-Songwriters. Cover: \u97f3\u7530\u96c5\u5247 Masanori Otoda\n",
-  "name": "\u30d6\u30eb\u30fc\u306b\u3053\u3093\u304c\u3089\u304c\u3063\u3066",
+  "name": "\u30b7\u30f3\u30ac\u30fc\u30bd\u30f3\u30b0\u30e9\u30a4\u30bf\u30fc Singer-Songwriter Japan",
   "tracks": [
     {
       "album": {
@@ -466,7 +466,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-28",
       "duration_ms": 180880,
       "name": "ABC",
       "url": "https://open.spotify.com/track/3vM2M13sgm6CzsJisB28IE"
@@ -8549,6 +8549,24 @@
     },
     {
       "album": {
+        "name": "dialogue",
+        "url": "https://open.spotify.com/album/0nFxDK8187xYJPMMph6c7y"
+      },
+      "artists": [
+        {
+          "name": "Ayase",
+          "url": "https://open.spotify.com/artist/1S8OQ9SqlLdD9l4paaZMuZ"
+        }
+      ],
+      "date_added": "2026-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184876,
+      "name": "PLANETS",
+      "url": "https://open.spotify.com/track/4dXAx6MlPTqRFC804zZZQ3"
+    },
+    {
+      "album": {
         "name": "plum",
         "url": "https://open.spotify.com/album/4X1QUjwxbC4aatDurNoZDr"
       },
@@ -10934,24 +10952,6 @@
       "duration_ms": 139836,
       "name": "Toxic Luv",
       "url": "https://open.spotify.com/track/3mi4Gwmur1Wejivzohm3xS"
-    },
-    {
-      "album": {
-        "name": "dialogue",
-        "url": "https://open.spotify.com/album/0nFxDK8187xYJPMMph6c7y"
-      },
-      "artists": [
-        {
-          "name": "Ayase",
-          "url": "https://open.spotify.com/artist/1S8OQ9SqlLdD9l4paaZMuZ"
-        }
-      ],
-      "date_added": "2026-05-26",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/4dXAx6MlPTqRFC804zZZQ3"
     },
     {
       "album": {
@@ -16120,7 +16120,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-20",
+      "date_removed": null,
       "duration_ms": 198066,
       "name": "\u30b3\u30fc\u30eb\u30c9\u30b9\u30ea\u30fc\u30d7\u3001\u611b",
       "url": "https://open.spotify.com/track/3YczdCPUrmBVarUwOOuOmN"

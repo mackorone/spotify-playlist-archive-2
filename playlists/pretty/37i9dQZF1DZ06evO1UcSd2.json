@@ -1,12 +1,12 @@
 {
   "description": "This is Lenin Ram\u00edrez. The essential tracks, all in one playlist.",
-  "num_followers": 85431,
+  "num_followers": 85517,
   "original_name": "This Is Lenin Ram\u00edrez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahORAAAAAABVgimg0KFie51ZNmU/qKY6",
+  "snapshot_id": "ahTigAAAAAAJN/U/KpmS5UGgAfthwkxq",
   "tracks": [
     {
       "added_at": null,
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tres Veladoras",
-        "url": "https://open.spotify.com/album/3OC7oVqxubQ4qODYQpUk9o"
-      },
-      "artists": [
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Tres Veladoras",
-      "url": "https://open.spotify.com/track/33LditL7EZ5vKznmF9aQQo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Reinicio",
         "url": "https://open.spotify.com/album/26p99q0JWVWzUQ98PtE2e7"
       },
@@ -675,6 +659,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mi Conquista",
+        "url": "https://open.spotify.com/album/79ZIEAQjbnfv1GHteRx3P7"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "La Fuga del Jefe",
+      "url": "https://open.spotify.com/track/4z0JvSowfvAdIIl22UqCxM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Estrenando Amante",
         "url": "https://open.spotify.com/album/6OTgNYYTX9V9VwlK1swNVw"
       },
@@ -695,8 +695,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Conquista",
-        "url": "https://open.spotify.com/album/79ZIEAQjbnfv1GHteRx3P7"
+        "name": "Con Aroma a Alcohol",
+        "url": "https://open.spotify.com/album/3QOveKghJYUAf4YsbrvQRm"
       },
       "artists": [
         {
@@ -704,9 +704,57 @@
           "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
         }
       ],
-      "duration_ms": 152000,
-      "name": "La Fuga del Jefe",
-      "url": "https://open.spotify.com/track/4z0JvSowfvAdIIl22UqCxM"
+      "duration_ms": 208000,
+      "name": "Tres Veladoras",
+      "url": "https://open.spotify.com/track/4Ua4dmFPenv0xlDK8sIEQN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "X Aniversario",
+        "url": "https://open.spotify.com/album/6VV8sExAwhYbhqqGPrVwmc"
+      },
+      "artists": [
+        {
+          "name": "Grupo Clasificado",
+          "url": "https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9"
+        },
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "duration_ms": 168170,
+      "name": "Dicen Y Dicen",
+      "url": "https://open.spotify.com/track/6RzdMdzrkgEXAv5rISgzvB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sangre Azteca",
+        "url": "https://open.spotify.com/album/6DUgAPrpMqSn4ETY6vI5pb"
+      },
+      "artists": [
+        {
+          "name": "Airam Paez",
+          "url": "https://open.spotify.com/artist/4CpBebr8ODROqjgGVmiF7X"
+        },
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        },
+        {
+          "name": "Millonario",
+          "url": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
+        },
+        {
+          "name": "La Catrina De M\u00e9xico",
+          "url": "https://open.spotify.com/artist/7eoWBgCT692evDNaG8hMc4"
+        }
+      ],
+      "duration_ms": 227191,
+      "name": "SANGRE AZTECA",
+      "url": "https://open.spotify.com/track/7iOhOjm1FeFBqGtxCQdb9H"
     },
     {
       "added_at": null,
@@ -751,34 +799,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sangre Azteca",
-        "url": "https://open.spotify.com/album/6DUgAPrpMqSn4ETY6vI5pb"
-      },
-      "artists": [
-        {
-          "name": "Airam Paez",
-          "url": "https://open.spotify.com/artist/4CpBebr8ODROqjgGVmiF7X"
-        },
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        },
-        {
-          "name": "Millonario",
-          "url": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
-        },
-        {
-          "name": "La Catrina De M\u00e9xico",
-          "url": "https://open.spotify.com/artist/7eoWBgCT692evDNaG8hMc4"
-        }
-      ],
-      "duration_ms": 227191,
-      "name": "SANGRE AZTECA",
-      "url": "https://open.spotify.com/track/7iOhOjm1FeFBqGtxCQdb9H"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Joyas Sierre\u00f1as Con Revolver Cannabis",
         "url": "https://open.spotify.com/album/7nsTTrGdNVETgpwztBfpF6"
       },
@@ -795,26 +815,6 @@
       "duration_ms": 240640,
       "name": "Cuento Chino",
       "url": "https://open.spotify.com/track/6OWvsepTLKpWUr0TBnoxUe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "X Aniversario",
-        "url": "https://open.spotify.com/album/6VV8sExAwhYbhqqGPrVwmc"
-      },
-      "artists": [
-        {
-          "name": "Grupo Clasificado",
-          "url": "https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9"
-        },
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        }
-      ],
-      "duration_ms": 168170,
-      "name": "Dicen Y Dicen",
-      "url": "https://open.spotify.com/track/6RzdMdzrkgEXAv5rISgzvB"
     },
     {
       "added_at": null,
@@ -839,22 +839,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Seguimos Adelante",
-        "url": "https://open.spotify.com/album/0AkCrr3xyED7XE5kt5P8Qt"
-      },
-      "artists": [
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        }
-      ],
-      "duration_ms": 155730,
-      "name": "Estas Ganas de Tomar",
-      "url": "https://open.spotify.com/track/6fua8dVpIgNQbStBmGxEtA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Eso Es La Riqueza",
         "url": "https://open.spotify.com/album/33mlZqWzDXoOS26N9XMnT3"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 174693,
       "name": "Eso Es La Riqueza",
       "url": "https://open.spotify.com/track/1Z4rfBr27XeDxzXgxQgug2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Seguimos Adelante",
+        "url": "https://open.spotify.com/album/0AkCrr3xyED7XE5kt5P8Qt"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "duration_ms": 155730,
+      "name": "Estas Ganas de Tomar",
+      "url": "https://open.spotify.com/track/6fua8dVpIgNQbStBmGxEtA"
     },
     {
       "added_at": null,

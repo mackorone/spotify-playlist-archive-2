@@ -1,12 +1,12 @@
 {
   "description": "\ud83d\ude80 when ur love language is bpm \ud83d\ude80  Cover: southstar",
-  "num_followers": 386973,
+  "num_followers": 387148,
   "original_name": "rave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACGscoIRm1IdymEejMAzVFSEo2cF",
+  "snapshot_id": "AAAAAL1+1guI26qbxgji5mTUJZPKlWM6",
   "tracks": [
     {
       "added_at": "2026-05-18 12:54:15",
@@ -747,22 +747,18 @@
     {
       "added_at": "2026-05-18 12:54:15",
       "album": {
-        "name": "It's That Time",
-        "url": "https://open.spotify.com/album/4nSFAyvWxMBkgGYU5W6hOt"
+        "name": "What's a Girl to Do in '25",
+        "url": "https://open.spotify.com/album/2K9OkH3GAXoussmUIZHAfr"
       },
       "artists": [
         {
-          "name": "Marlon Hoffstadt",
-          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
-        },
-        {
-          "name": "DJ Daddy Trance",
-          "url": "https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM"
+          "name": "KI/KI",
+          "url": "https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS"
         }
       ],
-      "duration_ms": 240250,
-      "name": "It's That Time",
-      "url": "https://open.spotify.com/track/5fF9T9SMqBKUvT06cn7kBR"
+      "duration_ms": 148047,
+      "name": "What's a Girl to Do in '25",
+      "url": "https://open.spotify.com/track/3OgdqZIgGIqusstV9IqX6p"
     },
     {
       "added_at": "2026-05-18 12:54:15",
@@ -783,18 +779,22 @@
     {
       "added_at": "2026-05-18 12:54:15",
       "album": {
-        "name": "What's a Girl to Do in '25",
-        "url": "https://open.spotify.com/album/2K9OkH3GAXoussmUIZHAfr"
+        "name": "It's That Time",
+        "url": "https://open.spotify.com/album/4nSFAyvWxMBkgGYU5W6hOt"
       },
       "artists": [
         {
-          "name": "KI/KI",
-          "url": "https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS"
+          "name": "Marlon Hoffstadt",
+          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
+        },
+        {
+          "name": "DJ Daddy Trance",
+          "url": "https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM"
         }
       ],
-      "duration_ms": 148047,
-      "name": "What's a Girl to Do in '25",
-      "url": "https://open.spotify.com/track/3OgdqZIgGIqusstV9IqX6p"
+      "duration_ms": 240250,
+      "name": "It's That Time",
+      "url": "https://open.spotify.com/track/5fF9T9SMqBKUvT06cn7kBR"
     },
     {
       "added_at": "2026-05-18 12:54:15",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2026-05-18 12:54:15",
       "album": {
+        "name": "Shake It",
+        "url": "https://open.spotify.com/album/6DmLqPYNM4ofkQqq7fz6iZ"
+      },
+      "artists": [
+        {
+          "name": "Sacha Harland",
+          "url": "https://open.spotify.com/artist/4GktaoQrTnZR0JREmWusDO"
+        }
+      ],
+      "duration_ms": 144081,
+      "name": "Shake It",
+      "url": "https://open.spotify.com/track/3N582gksyaFCe7EkyjJIcd"
+    },
+    {
+      "added_at": "2026-05-18 12:54:15",
+      "album": {
         "name": "Amor EP",
         "url": "https://open.spotify.com/album/6v50qNzxBH7PI4rHsamjVX"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 372293,
       "name": "Amor (feat. CERES)",
       "url": "https://open.spotify.com/track/4UhxekskWFXSv9ik933yBv"
-    },
-    {
-      "added_at": "2026-05-18 12:54:15",
-      "album": {
-        "name": "Shake It",
-        "url": "https://open.spotify.com/album/6DmLqPYNM4ofkQqq7fz6iZ"
-      },
-      "artists": [
-        {
-          "name": "Sacha Harland",
-          "url": "https://open.spotify.com/artist/4GktaoQrTnZR0JREmWusDO"
-        }
-      ],
-      "duration_ms": 144081,
-      "name": "Shake It",
-      "url": "https://open.spotify.com/track/3N582gksyaFCe7EkyjJIcd"
     },
     {
       "added_at": "2026-05-18 12:54:15",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2026-05-18 12:54:15",
       "album": {
+        "name": "Bad Girls",
+        "url": "https://open.spotify.com/album/54wKqhFUN5V8lh4tfPTmHH"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Julian",
+          "url": "https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb"
+        }
+      ],
+      "duration_ms": 121755,
+      "name": "Bad Girls",
+      "url": "https://open.spotify.com/track/2h4zp76tI5Sbl3BNspNBuG"
+    },
+    {
+      "added_at": "2026-05-18 12:54:15",
+      "album": {
         "name": "Stomp Your Feet",
         "url": "https://open.spotify.com/album/45vmjBcHoZfCrChrHFdCoT"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 210580,
       "name": "Stomp Your Feet",
       "url": "https://open.spotify.com/track/494lD6w8j07gDMub1UFd07"
-    },
-    {
-      "added_at": "2026-05-18 12:54:15",
-      "album": {
-        "name": "Bad Girls",
-        "url": "https://open.spotify.com/album/54wKqhFUN5V8lh4tfPTmHH"
-      },
-      "artists": [
-        {
-          "name": "Nicolas Julian",
-          "url": "https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb"
-        }
-      ],
-      "duration_ms": 121755,
-      "name": "Bad Girls",
-      "url": "https://open.spotify.com/track/2h4zp76tI5Sbl3BNspNBuG"
     },
     {
       "added_at": "2026-05-18 12:54:15",
@@ -1255,18 +1255,18 @@
     {
       "added_at": "2026-05-18 12:54:15",
       "album": {
-        "name": "Falling",
-        "url": "https://open.spotify.com/album/03RsEVWePsLZdk7lTs9jvn"
+        "name": "Smiling Through The Pain",
+        "url": "https://open.spotify.com/album/3NSorfw3sEKFsOj2BUExcW"
       },
       "artists": [
         {
-          "name": "BOVSKI",
-          "url": "https://open.spotify.com/artist/3MWeawb18cHiDxt4ip7GY9"
+          "name": "Swimming Paul",
+          "url": "https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s"
         }
       ],
-      "duration_ms": 125207,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/2VpUEPN5OQmYvcvhM68wyS"
+      "duration_ms": 269252,
+      "name": "Vhs",
+      "url": "https://open.spotify.com/track/3ZxEXb4YeEWGTUPAmn2Xhe"
     },
     {
       "added_at": "2026-05-18 12:54:15",
@@ -1291,18 +1291,18 @@
     {
       "added_at": "2026-05-18 12:54:15",
       "album": {
-        "name": "Smiling Through The Pain",
-        "url": "https://open.spotify.com/album/3NSorfw3sEKFsOj2BUExcW"
+        "name": "Falling",
+        "url": "https://open.spotify.com/album/03RsEVWePsLZdk7lTs9jvn"
       },
       "artists": [
         {
-          "name": "Swimming Paul",
-          "url": "https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s"
+          "name": "BOVSKI",
+          "url": "https://open.spotify.com/artist/3MWeawb18cHiDxt4ip7GY9"
         }
       ],
-      "duration_ms": 269252,
-      "name": "Vhs",
-      "url": "https://open.spotify.com/track/3ZxEXb4YeEWGTUPAmn2Xhe"
+      "duration_ms": 125207,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/2VpUEPN5OQmYvcvhM68wyS"
     },
     {
       "added_at": "2026-05-18 12:54:15",
@@ -1347,18 +1347,18 @@
     {
       "added_at": "2026-05-18 12:54:15",
       "album": {
-        "name": "Only One",
-        "url": "https://open.spotify.com/album/1pHFCKqRj62UlUnRIWEcmD"
+        "name": "Loca",
+        "url": "https://open.spotify.com/album/5YGMtwLhbqumvZN8nqaEYc"
       },
       "artists": [
         {
-          "name": "BOVSKI",
-          "url": "https://open.spotify.com/artist/3MWeawb18cHiDxt4ip7GY9"
+          "name": "The Rocketman",
+          "url": "https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V"
         }
       ],
-      "duration_ms": 140202,
-      "name": "Only One",
-      "url": "https://open.spotify.com/track/576mVXUFpVKsvySHclibLU"
+      "duration_ms": 156000,
+      "name": "Loca",
+      "url": "https://open.spotify.com/track/0Y8MXfSe2LcThivikQ9cEa"
     },
     {
       "added_at": "2026-05-18 12:54:15",
@@ -1379,18 +1379,18 @@
     {
       "added_at": "2026-05-18 12:54:15",
       "album": {
-        "name": "Loca",
-        "url": "https://open.spotify.com/album/5YGMtwLhbqumvZN8nqaEYc"
+        "name": "Only One",
+        "url": "https://open.spotify.com/album/1pHFCKqRj62UlUnRIWEcmD"
       },
       "artists": [
         {
-          "name": "The Rocketman",
-          "url": "https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V"
+          "name": "BOVSKI",
+          "url": "https://open.spotify.com/artist/3MWeawb18cHiDxt4ip7GY9"
         }
       ],
-      "duration_ms": 156000,
-      "name": "Loca",
-      "url": "https://open.spotify.com/track/0Y8MXfSe2LcThivikQ9cEa"
+      "duration_ms": 140202,
+      "name": "Only One",
+      "url": "https://open.spotify.com/track/576mVXUFpVKsvySHclibLU"
     },
     {
       "added_at": "2026-05-18 12:54:15",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2026-05-18 12:54:15",
       "album": {
-        "name": "Uh Na Na",
-        "url": "https://open.spotify.com/album/4YAnAToqaEOHHt1Cyxk9RE"
-      },
-      "artists": [
-        {
-          "name": "Ely Oaks",
-          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
-        }
-      ],
-      "duration_ms": 120033,
-      "name": "Uh Na Na",
-      "url": "https://open.spotify.com/track/6WUxcpdLCTlp8kHK79vRMQ"
-    },
-    {
-      "added_at": "2026-05-18 12:54:15",
-      "album": {
         "name": "Sonne Geht Auf",
         "url": "https://open.spotify.com/album/3zh834YrAtWDuBumqFkgHR"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 126538,
       "name": "Sonne Geht Auf",
       "url": "https://open.spotify.com/track/6bs1myCEARQoI7oOLxqHkp"
+    },
+    {
+      "added_at": "2026-05-18 12:54:15",
+      "album": {
+        "name": "Uh Na Na",
+        "url": "https://open.spotify.com/album/4YAnAToqaEOHHt1Cyxk9RE"
+      },
+      "artists": [
+        {
+          "name": "Ely Oaks",
+          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
+        }
+      ],
+      "duration_ms": 120033,
+      "name": "Uh Na Na",
+      "url": "https://open.spotify.com/track/6WUxcpdLCTlp8kHK79vRMQ"
     },
     {
       "added_at": "2026-05-18 12:54:15",
@@ -1639,6 +1639,22 @@
     {
       "added_at": "2026-05-18 12:54:15",
       "album": {
+        "name": "Monsters",
+        "url": "https://open.spotify.com/album/4RTIEyK3R3HFkm4WY7HxC7"
+      },
+      "artists": [
+        {
+          "name": "AEREA",
+          "url": "https://open.spotify.com/artist/34ut5kAp6DfnW79Dp3P4CA"
+        }
+      ],
+      "duration_ms": 172400,
+      "name": "Monsters",
+      "url": "https://open.spotify.com/track/09YIQFg8QleQknfduk71HE"
+    },
+    {
+      "added_at": "2026-05-18 12:54:15",
+      "album": {
         "name": "BASS DOWN LOW",
         "url": "https://open.spotify.com/album/34nDjs0YkpO1Mud0gNFoG1"
       },
@@ -1667,22 +1683,6 @@
       "duration_ms": 427000,
       "name": "Satan Was A Babyboomer",
       "url": "https://open.spotify.com/track/3IVrlcM5gDoj3lghHY9m7I"
-    },
-    {
-      "added_at": "2026-05-18 12:54:15",
-      "album": {
-        "name": "Monsters",
-        "url": "https://open.spotify.com/album/4RTIEyK3R3HFkm4WY7HxC7"
-      },
-      "artists": [
-        {
-          "name": "AEREA",
-          "url": "https://open.spotify.com/artist/34ut5kAp6DfnW79Dp3P4CA"
-        }
-      ],
-      "duration_ms": 172400,
-      "name": "Monsters",
-      "url": "https://open.spotify.com/track/09YIQFg8QleQknfduk71HE"
     },
     {
       "added_at": "2026-05-18 12:54:15",
@@ -1751,6 +1751,22 @@
     {
       "added_at": "2026-05-18 12:54:15",
       "album": {
+        "name": "Dunes",
+        "url": "https://open.spotify.com/album/5OraR3Y7Ccd990r66pBWUB"
+      },
+      "artists": [
+        {
+          "name": "southstar",
+          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
+        }
+      ],
+      "duration_ms": 184770,
+      "name": "Typa Girl",
+      "url": "https://open.spotify.com/track/16SKOkyJsJNeJkHUFTcDUm"
+    },
+    {
+      "added_at": "2026-05-18 12:54:15",
+      "album": {
         "name": "Wanna Feel",
         "url": "https://open.spotify.com/album/3rwbNNkKvKWnlgvwI5hGP2"
       },
@@ -1767,22 +1783,6 @@
       "duration_ms": 198648,
       "name": "Wanna Feel",
       "url": "https://open.spotify.com/track/5mgLOhX1IXSCZXUFWWkf0c"
-    },
-    {
-      "added_at": "2026-05-18 12:54:15",
-      "album": {
-        "name": "Dunes",
-        "url": "https://open.spotify.com/album/5OraR3Y7Ccd990r66pBWUB"
-      },
-      "artists": [
-        {
-          "name": "southstar",
-          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
-        }
-      ],
-      "duration_ms": 184770,
-      "name": "Typa Girl",
-      "url": "https://open.spotify.com/track/16SKOkyJsJNeJkHUFTcDUm"
     },
     {
       "added_at": "2026-05-18 12:54:15",
@@ -1851,22 +1851,6 @@
     {
       "added_at": "2026-05-18 12:54:15",
       "album": {
-        "name": "Atlantis (Edit)",
-        "url": "https://open.spotify.com/album/4KZxR1aM8yKwlwYVgMvrJM"
-      },
-      "artists": [
-        {
-          "name": "Netherworld",
-          "url": "https://open.spotify.com/artist/79LaPRYSRh7JAnu3r1jYPF"
-        }
-      ],
-      "duration_ms": 146250,
-      "name": "Atlantis - Edit",
-      "url": "https://open.spotify.com/track/4kPu9zuTvvBf8bE8Na53eg"
-    },
-    {
-      "added_at": "2026-05-18 12:54:15",
-      "album": {
         "name": "Die Tonight",
         "url": "https://open.spotify.com/album/3dhdbBuZZrSShe1noV5TQF"
       },
@@ -1899,6 +1883,22 @@
       "duration_ms": 233846,
       "name": "Toter Schmetterling",
       "url": "https://open.spotify.com/track/4LsYdWDeumtYjMndQVcA94"
+    },
+    {
+      "added_at": "2026-05-18 12:54:15",
+      "album": {
+        "name": "SCHREI NACH LIEBE",
+        "url": "https://open.spotify.com/album/5QIaC3d8OLlygvDAANvgHu"
+      },
+      "artists": [
+        {
+          "name": "Michael Klotz",
+          "url": "https://open.spotify.com/artist/4i8fdH54Ielws2ghRMPKGh"
+        }
+      ],
+      "duration_ms": 149612,
+      "name": "SCHREI NACH LIEBE",
+      "url": "https://open.spotify.com/track/3QNc1m52Gwrow7nAZf3raw"
     },
     {
       "added_at": "2026-05-18 12:54:15",

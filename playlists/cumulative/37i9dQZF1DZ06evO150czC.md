@@ -4,7 +4,7 @@
 
 > This is Midian Lima\. The essential tracks, all in one playlist.
 
-89 songs - 7 hr 35 min
+90 songs - 7 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [No Pares](https://open.spotify.com/track/6lhq52ulpv88jIYpqrZBFQ) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [No Pares](https://open.spotify.com/album/3OKxWsolYmrGBYJjWGIH0H) | 4:46 | 2023-07-09 | 2023-10-11 |
 | [Novidade de Deus \(Ao Vivo\)](https://open.spotify.com/track/5R8dqjenu5rH1YPvUrapxk) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Novidade de Deus \(Ao Vivo\)](https://open.spotify.com/album/095KuEcSJ8p1hie8rfdEhW) | 3:59 | 2025-12-09 | 2026-03-24 |
 | [Não Desisto](https://open.spotify.com/track/0PzxVp7nECCO36Nl355Dnt) | [Gislaine e Mylena](https://open.spotify.com/artist/0JoSPTks4LpgpfOGvQbbGk), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Não Desisto](https://open.spotify.com/album/1y16WYWXU9osg7dSAXViWl) | 4:59 | 2024-07-23 | 2026-01-29 |
-| [Não Está Nada Perdido \(Ao Vivo\)](https://open.spotify.com/track/57NfFc3A5Dwn2TvAwvYkKh) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Não Está Nada Perdido \(Ao Vivo\)](https://open.spotify.com/album/5rTzbVeGpTUM2B1VzKMRSb) | 4:32 | 2026-03-12 |  |
+| [Não Está Nada Perdido \(Ao Vivo\)](https://open.spotify.com/track/57NfFc3A5Dwn2TvAwvYkKh) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Não Está Nada Perdido \(Ao Vivo\)](https://open.spotify.com/album/5rTzbVeGpTUM2B1VzKMRSb) | 4:32 | 2026-03-12 | 2026-05-28 |
 | [Não Haverá Vergonha](https://open.spotify.com/track/2svtPIsdwo3G5tVTsMVhTN) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Não Haverá Vergonha](https://open.spotify.com/album/5JHnsAUQlOUH88A4bg2LRX) | 5:16 | 2023-07-09 | 2025-12-07 |
 | [Não Pare](https://open.spotify.com/track/3VCfmjE0oEMYQUil14wd0J) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Não Pare](https://open.spotify.com/album/56P1CgGN8DGhG4ksRz0tfF) | 4:53 | 2023-07-09 |  |
 | [Não Pare \(Ao Vivo\)](https://open.spotify.com/track/5fzw5K4pKnkEx1X9GlaHBy) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Não Pare \(Ao Vivo\)](https://open.spotify.com/album/3HLSfUuf03Tl40dp2YHb2M) | 6:51 | 2025-08-15 | 2025-09-12 |
@@ -63,6 +63,7 @@
 | [O Nome de Jesus \(The Name Of Our God\)](https://open.spotify.com/track/7xfxErLZXui34OxxUthzjU) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [O Nome de Jesus \(The Name Of Our God\)](https://open.spotify.com/album/5RRQQd2Jk1RZYHx9GobjZB) | 6:53 | 2023-07-09 | 2024-07-23 |
 | [O Poder do Sangue](https://open.spotify.com/track/46hfcKPBhqemiyit7rH7ap) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Midian Lima Live Session](https://open.spotify.com/album/7kEOcgI8WXPXrg9cqjnjsr) | 4:03 | 2023-07-09 |  |
 | [O Preço Foi de Sangue](https://open.spotify.com/track/7xjM5HubCVLFcgfRCCDO7U) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Não Pare](https://open.spotify.com/album/19befBP8BMqgHh96PkDHZM) | 4:36 | 2023-07-09 |  |
+| [O Rei da Glória \(Ao Vivo\)](https://open.spotify.com/track/0Mw9rQpLgrucUSCZU8H5cs) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [O Rei da Glória \(Ao Vivo\)](https://open.spotify.com/album/3PrVbs7hzBdR760BHcO1qW) | 5:27 | 2026-05-28 |  |
 | [O Rei Está Voltando \(Ao Vivo\)](https://open.spotify.com/track/6zB5D61eW6SxQWGXn8jzle) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Midian Lima \(Ao Vivo\)](https://open.spotify.com/album/3WSgyalJpLppQ2n74DNDFi) | 5:33 | 2023-10-10 |  |
 | [Olharei Para o Alto](https://open.spotify.com/track/6ZUd69R92Ao3V9yNRwY52M) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Milagre](https://open.spotify.com/album/1yJrqvFfnmTAAb9XUuQf1R) | 4:28 | 2023-07-09 |  |
 | [Posso Clamar + Não Pare \(Ao Vivo\)](https://open.spotify.com/track/2aduecse2bIIWbGr1mKlAO) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Posso Clamar + Não Pare \(Ao Vivo\)](https://open.spotify.com/album/1FOnoSgx0KWPzCFzniMiLH) | 6:21 | 2026-03-02 |  |

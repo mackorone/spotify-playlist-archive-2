@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSZuoVzKqkEZ.md) - [plain]
 
 > 아티스트의 무대 멘트와 목소리가 포함된 서울 콘서트 LIVE SET을 즐겨보세요! \(Enjoy the artist's concert LIVE SET including the voices of them on stage!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 575 likes - 39 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 595 likes - 39 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,13 +17,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSZuoVzKqkEZ.md) - [plain]
 | 7 | [Wild Horse](https://open.spotify.com/track/2HBa1ec0fms6gflDufIIpQ) | [LEE SEUNG YOON](https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV) | [LEE SEUNG YOON CONCERT \[DOCKING : LIFTOFF\] LIVE ALBUM](https://open.spotify.com/album/1DFOVlE21ZZ5xjWHXwBpds) | 4:54 |
 | 8 | [Stage Comment 1 \(멘트 1\)](https://open.spotify.com/track/5gcGGfXQfEeBASFRlKZG3j) | [이승윤](https://open.spotify.com/artist/2wImLZ3v0ifJXIvcvBNqP4) | [이승윤 콘서트 밖 audio liner](https://open.spotify.com/album/7xcs3MyTTFAY2W82Y8NYGM) | 0:19 |
 | 9 | [Mr\. Obscurity from Earth](https://open.spotify.com/track/3QC0Zto9O7fPHp6ylmaAU9) | [LEE SEUNG YOON](https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV) | [LEE SEUNG YOON CONCERT \[DOCKING : LIFTOFF\] LIVE ALBUM](https://open.spotify.com/album/1DFOVlE21ZZ5xjWHXwBpds) | 3:38 |
-| 10 | [I Want to Write It New](https://open.spotify.com/track/0xOVx1M0jeu7JKyg5s43Zi) | [LEE SEUNG YOON](https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV) | [How Pretty the Moon is](https://open.spotify.com/album/4JYCx1oKjp1ZEwDV5gtsjX) | 4:09 |
+| 10 | [I Want to Write It New \(2018\)](https://open.spotify.com/track/0xOVx1M0jeu7JKyg5s43Zi) | [LEE SEUNG YOON](https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV) | [How Pretty the Moon is](https://open.spotify.com/album/4JYCx1oKjp1ZEwDV5gtsjX) | 4:09 |
 | 11 | [Docking](https://open.spotify.com/track/3d0DQsmQtdXIcTlFJyt9Xn) | [LEE SEUNG YOON](https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV) | [LEE SEUNG YOON CONCERT \[DOCKING : LIFTOFF\] LIVE ALBUM](https://open.spotify.com/album/1DFOVlE21ZZ5xjWHXwBpds) | 3:57 |
 | 12 | [Unspoken](https://open.spotify.com/track/2NdIAZFHgxBixLzdJlnEuR) | [LEE SEUNG YOON](https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV) | [LEE SEUNG YOON CONCERT \[DOCKING : LIFTOFF\] LIVE ALBUM](https://open.spotify.com/album/1DFOVlE21ZZ5xjWHXwBpds) | 7:01 |
 | 13 | [Gibberish](https://open.spotify.com/track/6hHHiCl20wW5vJ2XywgIzu) | [LEE SEUNG YOON](https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV) | [LEE SEUNG YOON CONCERT \[DOCKING : LIFTOFF\] LIVE ALBUM](https://open.spotify.com/album/1DFOVlE21ZZ5xjWHXwBpds) | 5:34 |
 | 14 | [Even If Things Fall Apart](https://open.spotify.com/track/7sJCIKoKFiZSedLcL44Wam) | [LEE SEUNG YOON](https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV) | [Even If Things Fall Apart](https://open.spotify.com/album/2dPzBNwePaE5rB2t9kpScF) | 3:49 |
 | 15 | [Stage Comment 2 \(멘트 2\)](https://open.spotify.com/track/2DLJOhIwsWKYqwe3s4GaA0) | [이승윤](https://open.spotify.com/artist/2wImLZ3v0ifJXIvcvBNqP4) | [이승윤 콘서트 밖 audio liner](https://open.spotify.com/album/7xcs3MyTTFAY2W82Y8NYGM) | 0:04 |
-| 16 | [How Pretty the Moon is](https://open.spotify.com/track/0X8scgv05q9TKZJfv6K2Wl) | [LEE SEUNG YOON](https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV) | [How Pretty the Moon is](https://open.spotify.com/album/4JYCx1oKjp1ZEwDV5gtsjX) | 4:34 |
+| 16 | [How Pretty the Moon is \(2018\)](https://open.spotify.com/track/0X8scgv05q9TKZJfv6K2Wl) | [LEE SEUNG YOON](https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV) | [How Pretty the Moon is](https://open.spotify.com/album/4JYCx1oKjp1ZEwDV5gtsjX) | 4:34 |
 | 17 | [Today](https://open.spotify.com/track/5zEq8iILcw0BXSCbPqSTxi) | [LEE SEUNG YOON](https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV) | [LEE SEUNG YOON CONCERT \[DOCKING : LIFTOFF\] LIVE ALBUM](https://open.spotify.com/album/1DFOVlE21ZZ5xjWHXwBpds) | 3:54 |
 | 18 | [Canon](https://open.spotify.com/track/2ALaNptGZ19QWECgDSAizT) | [LEE SEUNG YOON](https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV) | [YEOK SEONG](https://open.spotify.com/album/02SKwqYSENWwsZIZ9epjES) | 5:18 |
 | 19 | [Put it in the Cliché](https://open.spotify.com/track/14Zq6h4h6xybPIfR2FCDRX) | [LEE SEUNG YOON](https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV) | [LEE SEUNG YOON CONCERT \[DOCKING : LIFTOFF\] LIVE ALBUM](https://open.spotify.com/album/1DFOVlE21ZZ5xjWHXwBpds) | 5:20 |
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSZuoVzKqkEZ.md) - [plain]
 | 30 | [POKZOOK TIME](https://open.spotify.com/track/0nRalC3ENoAYEM1kTO7JAz) | [LEE SEUNG YOON](https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV) | [YEOK SEONG](https://open.spotify.com/album/02SKwqYSENWwsZIZ9epjES) | 3:18 |
 | 31 | [Pricey Hangover](https://open.spotify.com/track/4g4mxynNPAWLpDDiWwmJff) | [LEE SEUNG YOON](https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV) | [LEE SEUNG YOON CONCERT \[DOCKING : LIFTOFF\] LIVE ALBUM](https://open.spotify.com/album/1DFOVlE21ZZ5xjWHXwBpds) | 3:39 |
 | 32 | [NARAGAZA](https://open.spotify.com/track/4hjaRQ4AcreUaepw231ul9) | [LEE SEUNG YOON](https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV) | [LEE SEUNG YOON CONCERT \[DOCKING : LIFTOFF\] LIVE ALBUM](https://open.spotify.com/album/1DFOVlE21ZZ5xjWHXwBpds) | 4:05 |
-| 33 | [Drink Up The Universe](https://open.spotify.com/track/1jaxahszmrHF1WG2HdYXaD) | [LEE SEUNG YOON](https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV) | [How Pretty the Moon is](https://open.spotify.com/album/4JYCx1oKjp1ZEwDV5gtsjX) | 3:56 |
+| 33 | [Drink Up The Universe \(2018\)](https://open.spotify.com/track/1jaxahszmrHF1WG2HdYXaD) | [LEE SEUNG YOON](https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV) | [How Pretty the Moon is](https://open.spotify.com/album/4JYCx1oKjp1ZEwDV5gtsjX) | 3:56 |
 | 34 | [Piece Together Scattered Dreams](https://open.spotify.com/track/2a6s6r8zQjlzAI1SrU155G) | [LEE SEUNG YOON](https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV) | [LEE SEUNG YOON CONCERT \[DOCKING : LIFTOFF\] LIVE ALBUM](https://open.spotify.com/album/1DFOVlE21ZZ5xjWHXwBpds) | 4:34 |
 | 35 | [Stage Comment 6 \(멘트 6\)](https://open.spotify.com/track/2HgSrqHlmtkJtgBMFvSuzB) | [이승윤](https://open.spotify.com/artist/2wImLZ3v0ifJXIvcvBNqP4) | [이승윤 콘서트 밖 audio liner](https://open.spotify.com/album/7xcs3MyTTFAY2W82Y8NYGM) | 0:28 |
 | 36 | [An Ode to the Unseen Hearts](https://open.spotify.com/track/3riITfrltgSsMmNXWVeEfR) | [LEE SEUNG YOON](https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV) | [YEOK SEONG](https://open.spotify.com/album/02SKwqYSENWwsZIZ9epjES) | 6:16 |

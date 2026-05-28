@@ -1,6 +1,6 @@
 {
   "description": "De beste tunes op repeat. Cover: Langa",
-  "num_followers": 141199,
+  "num_followers": 141207,
   "original_name": "Pull Up Hits",
   "owner": {
     "name": "Spotify",
@@ -911,26 +911,6 @@
     {
       "added_at": "2026-05-21 12:28:12",
       "album": {
-        "name": "De Ene Hand Wast De Ander",
-        "url": "https://open.spotify.com/album/1JZOSXy4Fjjh5bo9FOcTBX"
-      },
-      "artists": [
-        {
-          "name": "Broederliefde",
-          "url": "https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN"
-        },
-        {
-          "name": "Lil Kleine",
-          "url": "https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT"
-        }
-      ],
-      "duration_ms": 182352,
-      "name": "Waterkant",
-      "url": "https://open.spotify.com/track/7oogv7kVuYNY7hzUZyOpD6"
-    },
-    {
-      "added_at": "2026-05-21 12:28:12",
-      "album": {
         "name": "Hyp\u00e9 (feat. Ayra Starr)",
         "url": "https://open.spotify.com/album/5RuD9wVp96jSA1Lx1pZNYD"
       },
@@ -947,6 +927,26 @@
       "duration_ms": 157402,
       "name": "Hyp\u00e9 (feat. Ayra Starr)",
       "url": "https://open.spotify.com/track/6oi6AAmRd2IbanRMQZC39J"
+    },
+    {
+      "added_at": "2026-05-21 12:28:12",
+      "album": {
+        "name": "De Ene Hand Wast De Ander",
+        "url": "https://open.spotify.com/album/1JZOSXy4Fjjh5bo9FOcTBX"
+      },
+      "artists": [
+        {
+          "name": "Broederliefde",
+          "url": "https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN"
+        },
+        {
+          "name": "Lil Kleine",
+          "url": "https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT"
+        }
+      ],
+      "duration_ms": 182352,
+      "name": "Waterkant",
+      "url": "https://open.spotify.com/track/7oogv7kVuYNY7hzUZyOpD6"
     },
     {
       "added_at": "2026-05-21 12:28:12",
@@ -1047,6 +1047,26 @@
     {
       "added_at": "2026-05-21 12:28:12",
       "album": {
+        "name": "GIOVANNI II",
+        "url": "https://open.spotify.com/album/54TRy2dAPI0J6Og5seK2MA"
+      },
+      "artists": [
+        {
+          "name": "CHO",
+          "url": "https://open.spotify.com/artist/0YPIovtLh5msFPFuCcn30R"
+        },
+        {
+          "name": "Zo\u00eb Tauran",
+          "url": "https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi"
+        }
+      ],
+      "duration_ms": 190387,
+      "name": "TE LAAT (feat. Zo\u00eb Tauran)",
+      "url": "https://open.spotify.com/track/6OVv8zhgdtLhghoX3Jd96H"
+    },
+    {
+      "added_at": "2026-05-21 12:28:12",
+      "album": {
         "name": "Festival",
         "url": "https://open.spotify.com/album/4oxdUH6eGKuQWF2H4vcHF5"
       },
@@ -1099,26 +1119,6 @@
       "duration_ms": 171533,
       "name": "The Baddest",
       "url": "https://open.spotify.com/track/5L5wa7XXoPrleRSuwBiHHR"
-    },
-    {
-      "added_at": "2026-05-21 12:28:12",
-      "album": {
-        "name": "GIOVANNI II",
-        "url": "https://open.spotify.com/album/54TRy2dAPI0J6Og5seK2MA"
-      },
-      "artists": [
-        {
-          "name": "CHO",
-          "url": "https://open.spotify.com/artist/0YPIovtLh5msFPFuCcn30R"
-        },
-        {
-          "name": "Zo\u00eb Tauran",
-          "url": "https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi"
-        }
-      ],
-      "duration_ms": 190387,
-      "name": "TE LAAT (feat. Zo\u00eb Tauran)",
-      "url": "https://open.spotify.com/track/6OVv8zhgdtLhghoX3Jd96H"
     },
     {
       "added_at": "2026-05-21 12:28:12",
@@ -1287,26 +1287,6 @@
     {
       "added_at": "2026-05-21 12:28:12",
       "album": {
-        "name": "Je Bent Leuk",
-        "url": "https://open.spotify.com/album/0ylQLQW9UUNOs0uINvTkgt"
-      },
-      "artists": [
-        {
-          "name": "Frsh",
-          "url": "https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN"
-        },
-        {
-          "name": "LA$$A",
-          "url": "https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR"
-        }
-      ],
-      "duration_ms": 122812,
-      "name": "Je Bent Leuk",
-      "url": "https://open.spotify.com/track/4ZI2g8wtdJOLdPf6TFwitA"
-    },
-    {
-      "added_at": "2026-05-21 12:28:12",
-      "album": {
         "name": "Afterparty",
         "url": "https://open.spotify.com/album/0G2EyFZBx9YTCx1BAOknTU"
       },
@@ -1323,6 +1303,26 @@
       "duration_ms": 155381,
       "name": "Afterparty",
       "url": "https://open.spotify.com/track/3DsLjf29C93KN8Fu9rlrHW"
+    },
+    {
+      "added_at": "2026-05-21 12:28:12",
+      "album": {
+        "name": "Je Bent Leuk",
+        "url": "https://open.spotify.com/album/0ylQLQW9UUNOs0uINvTkgt"
+      },
+      "artists": [
+        {
+          "name": "Frsh",
+          "url": "https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN"
+        },
+        {
+          "name": "LA$$A",
+          "url": "https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR"
+        }
+      ],
+      "duration_ms": 122812,
+      "name": "Je Bent Leuk",
+      "url": "https://open.spotify.com/track/4ZI2g8wtdJOLdPf6TFwitA"
     },
     {
       "added_at": "2026-05-21 12:28:12",
@@ -1543,6 +1543,22 @@
     {
       "added_at": "2026-05-21 12:28:12",
       "album": {
+        "name": "Tyar\u2019 En Waka",
+        "url": "https://open.spotify.com/album/2ZiSIItlmQdWLNNoThRETb"
+      },
+      "artists": [
+        {
+          "name": "Jonna Fraser",
+          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
+        }
+      ],
+      "duration_ms": 161252,
+      "name": "Tyar\u2019 En Waka",
+      "url": "https://open.spotify.com/track/5O84kW2rMQKgI8BlQpP9Z1"
+    },
+    {
+      "added_at": "2026-05-21 12:28:12",
+      "album": {
         "name": "Ik Heb Je",
         "url": "https://open.spotify.com/album/3og5VL9zk12eezRWFAGgvz"
       },
@@ -1563,22 +1579,6 @@
       "duration_ms": 194347,
       "name": "Ik Heb Je (met Henkie T & Yssi SB)",
       "url": "https://open.spotify.com/track/1RwzHr1ViMmmauoz3G2sWn"
-    },
-    {
-      "added_at": "2026-05-21 12:28:12",
-      "album": {
-        "name": "Tyar\u2019 En Waka",
-        "url": "https://open.spotify.com/album/2ZiSIItlmQdWLNNoThRETb"
-      },
-      "artists": [
-        {
-          "name": "Jonna Fraser",
-          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
-        }
-      ],
-      "duration_ms": 161252,
-      "name": "Tyar\u2019 En Waka",
-      "url": "https://open.spotify.com/track/5O84kW2rMQKgI8BlQpP9Z1"
     },
     {
       "added_at": "2026-05-21 12:28:12",

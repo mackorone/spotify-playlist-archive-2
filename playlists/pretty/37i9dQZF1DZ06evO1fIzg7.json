@@ -1,12 +1,12 @@
 {
   "description": "This is Sophie Ellis-Bextor. The essential tracks, all in one playlist.",
-  "num_followers": 20841,
+  "num_followers": 20844,
   "original_name": "This Is Sophie Ellis-Bextor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahORAAAAAABnYCz5LHqatdZNG9bDlkXg",
+  "snapshot_id": "ahTigAAAAAAzirMlMYFA3LJpDfzOh4Ov",
   "tracks": [
     {
       "added_at": null,
@@ -659,6 +659,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Read My Lips (Deluxe Version)",
+        "url": "https://open.spotify.com/album/68ishLKwqH5oH79kUteEHG"
+      },
+      "artists": [
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        }
+      ],
+      "duration_ms": 203520,
+      "name": "Lover",
+      "url": "https://open.spotify.com/track/4pritr0818VLaaJTvTCjfj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Classical 80s Dance",
         "url": "https://open.spotify.com/album/4lXao2y0nV9OyHL4QBW6x5"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 242000,
       "name": "Sweet Dreams (Are Made of This)",
       "url": "https://open.spotify.com/track/7vtTgudRRMotrLkxw5A4vx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Read My Lips (Deluxe Version)",
-        "url": "https://open.spotify.com/album/68ishLKwqH5oH79kUteEHG"
-      },
-      "artists": [
-        {
-          "name": "Sophie Ellis-Bextor",
-          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
-        }
-      ],
-      "duration_ms": 203520,
-      "name": "Lover",
-      "url": "https://open.spotify.com/track/4pritr0818VLaaJTvTCjfj"
     },
     {
       "added_at": null,
@@ -747,22 +747,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Crown Jewels - Ten Crowns (DELUXE)",
-        "url": "https://open.spotify.com/album/424ucCJYFDFZxz5icFVk2R"
+        "name": "Wanderlust",
+        "url": "https://open.spotify.com/album/1QRg5Llo9R1M6eslFyH4gO"
       },
       "artists": [
-        {
-          "name": "Andy Bell",
-          "url": "https://open.spotify.com/artist/3FTxQTEzrX6tcJYSlsdUle"
-        },
         {
           "name": "Sophie Ellis-Bextor",
           "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
         }
       ],
-      "duration_ms": 204519,
-      "name": "The Calming",
-      "url": "https://open.spotify.com/track/7JqPicp7t2SgXngVUuihtF"
+      "duration_ms": 234160,
+      "name": "The Deer & the Wolf",
+      "url": "https://open.spotify.com/track/5OuAK2wFMADQMQkqj5nVSE"
     },
     {
       "added_at": null,
@@ -783,18 +779,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wanderlust",
-        "url": "https://open.spotify.com/album/1QRg5Llo9R1M6eslFyH4gO"
+        "name": "The Crown Jewels - Ten Crowns (DELUXE)",
+        "url": "https://open.spotify.com/album/424ucCJYFDFZxz5icFVk2R"
       },
       "artists": [
+        {
+          "name": "Andy Bell",
+          "url": "https://open.spotify.com/artist/3FTxQTEzrX6tcJYSlsdUle"
+        },
         {
           "name": "Sophie Ellis-Bextor",
           "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
         }
       ],
-      "duration_ms": 234160,
-      "name": "The Deer & the Wolf",
-      "url": "https://open.spotify.com/track/5OuAK2wFMADQMQkqj5nVSE"
+      "duration_ms": 204519,
+      "name": "The Calming",
+      "url": "https://open.spotify.com/track/7JqPicp7t2SgXngVUuihtF"
     },
     {
       "added_at": null,
@@ -839,6 +839,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Trip The Light Fantastic",
+        "url": "https://open.spotify.com/album/7GYv8e5KITGMiVAz64BLbw"
+      },
+      "artists": [
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        }
+      ],
+      "duration_ms": 222466,
+      "name": "China Heart",
+      "url": "https://open.spotify.com/track/1PggUiqeneTerNpJ3nAa4A"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Classical 80s Dance",
         "url": "https://open.spotify.com/album/4lXao2y0nV9OyHL4QBW6x5"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 227000,
       "name": "Self Control",
       "url": "https://open.spotify.com/track/409E7VEl0dAqHw5wk5gdvM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Trip The Light Fantastic",
-        "url": "https://open.spotify.com/album/7GYv8e5KITGMiVAz64BLbw"
-      },
-      "artists": [
-        {
-          "name": "Sophie Ellis-Bextor",
-          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
-        }
-      ],
-      "duration_ms": 222466,
-      "name": "China Heart",
-      "url": "https://open.spotify.com/track/1PggUiqeneTerNpJ3nAa4A"
     }
   ],
   "unique_name": "This Is Sophie Ellis-Bextor",

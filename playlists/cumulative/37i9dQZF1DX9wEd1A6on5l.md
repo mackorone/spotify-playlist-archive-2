@@ -4,7 +4,7 @@
 
 > Get the party started with these Naija bangers!
 
-881 songs - 1 day 17 hr 37 min
+882 songs - 1 day 17 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -732,6 +732,7 @@
 | [Shakabulizzy \- Remix](https://open.spotify.com/track/3yzs58LteW16AjEb4J5vvi) | [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Shakabulizzy \(Remix\)](https://open.spotify.com/album/7ASL5WnVt8QkEB0QvwtIjM) | 2:55 | 2025-10-24 |  |
 | [Shake](https://open.spotify.com/track/2Tnj5scf4WyR54SNu3pb9T) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Peace by Piece](https://open.spotify.com/album/06dCmbV7kTlPBXLhGEEgqQ) | 2:21 | 2025-10-03 | 2025-10-19 |
 | [Shake](https://open.spotify.com/track/6e5vqhKj1M5X02ocoxiPCH) | [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn) | [Don't Get Used To This](https://open.spotify.com/album/3v5qsWRB3qTlbd5RNXO3Be) | 3:34 | 2024-01-26 | 2024-02-11 |
+| [Shake Body](https://open.spotify.com/track/36G89SJXnRgcXtwl9HOzB3) | [Kish](https://open.spotify.com/artist/2gVFsWpxGngHu7qbYbj8Ci), [GIVANO](https://open.spotify.com/artist/5qsyvtRCMdpOpq7s5uetZ4) | [Shake Body](https://open.spotify.com/album/7FUcwqHZEqvdy3ZRikJcTc) | 2:05 | 2026-05-25 |  |
 | [Shake It To The Max \(FLY\) \- Remix](https://open.spotify.com/track/0QCIpQV3twfqo9kh0t8Zza) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [Silent Addy](https://open.spotify.com/artist/2myuqB0gKAo75dE2eSWgzt) | [Shake It To The Max \(FLY\) \(Remix\)](https://open.spotify.com/album/7jhHpyhKorvt65mYvuhlBs) | 2:58 | 2025-02-21 | 2025-04-01 |
 | [SHAOLIN](https://open.spotify.com/track/2hODYSmDyWMu2C2XN4bgOV) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Children of Africa](https://open.spotify.com/album/6oattTuSkHpcHFeOqyhjKF) | 2:20 | 2025-02-24 | 2026-03-17 |
 | [Sharpally](https://open.spotify.com/track/19IAoqAkRQ5tC1U0p7SWpZ) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Sharpally](https://open.spotify.com/album/7adhYj6nGEGJots1OpYgdg) | 2:43 | 2023-07-21 | 2024-06-03 |
@@ -784,7 +785,7 @@
 | [Summer Love](https://open.spotify.com/track/7tzOeM0LbXJYMzjny2D45r) | [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb) | [Summer Love](https://open.spotify.com/album/1YhiuotdL8FFbsKh5RADg8) | 2:59 | 2022-06-09 | 2022-12-09 |
 | [Sungba \(feat\. Burna Boy\) \- Remix](https://open.spotify.com/track/5FtWjKVBTMklN2yCP9UhF6) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Sungba \(Remix\) \[feat\. Burna Boy\]](https://open.spotify.com/album/4zK5YK5uXEDbGPnvv7DCNE) | 3:30 | 2022-06-09 | 2023-01-21 |
 | [Sunny Ade](https://open.spotify.com/track/2JtrWZrpNkbSEzG5m9phAV) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Sunny Ade](https://open.spotify.com/album/4wB2UR1gjqZpThP1Kt94ia) | 2:16 | 2024-01-15 | 2024-06-28 |
-| [Superfuji\(GOBE\)](https://open.spotify.com/track/0WheF6yGnxE4gzGg8ScAji) | [oSHAMO](https://open.spotify.com/artist/6T8LsW0wEmWLi2IriLoQgA) | [Superfuji\(GOBE\)](https://open.spotify.com/album/6jYbSh5ZJjAntvsKzQKA4O) | 3:52 | 2025-06-20 |  |
+| [Superfuji\(GOBE\)](https://open.spotify.com/track/0WheF6yGnxE4gzGg8ScAji) | [oSHAMO](https://open.spotify.com/artist/6T8LsW0wEmWLi2IriLoQgA) | [Superfuji\(GOBE\)](https://open.spotify.com/album/6jYbSh5ZJjAntvsKzQKA4O) | 3:52 | 2025-06-20 | 2026-05-28 |
 | [Sweet](https://open.spotify.com/track/2aisLWyo4vnIsh7yJHweaN) | [Spyro](https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys), [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW) | [Sweet](https://open.spotify.com/album/08MZ91zt5s5BXOnsgVDmhm) | 2:33 | 2025-05-23 |  |
 | [Sweet Tea \(Aduke\)](https://open.spotify.com/track/1L7mOi50c91uzwkmeUhClS) | [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Sweet Tea \(Aduke\)](https://open.spotify.com/album/419GRX5ILJgc9uIMlxFWBB) | 2:29 | 2023-09-09 | 2024-07-21 |
 | [Synchro System \(feat\. Pheelz, Young Jonn & Lil Kesh\)](https://open.spotify.com/track/4OXlgrOv4FtLuMnuqsI69c) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI), [Lil Kesh](https://open.spotify.com/artist/38XiDu0kK3Z5jdHUDqBzNT) | [Ikigai / 生き甲斐, Vol\. 1](https://open.spotify.com/album/4L4439Ev3pC3bRZdmKUCgI) | 2:43 | 2024-06-28 | 2025-01-22 |

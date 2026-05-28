@@ -1,6 +1,6 @@
 {
   "description": "\u0627\u0636\u063a\u0637 \u0644\u0644\u0628\u062f\u0621",
-  "num_followers": 36040,
+  "num_followers": 36039,
   "original_name": "Yalla Gaming",
   "owner": {
     "name": "Spotify",
@@ -203,46 +203,6 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "MONTAGEM COMA",
-        "url": "https://open.spotify.com/album/5k8jDV518pIk74gBsU72fi"
-      },
-      "artists": [
-        {
-          "name": "ANDROMEDA",
-          "url": "https://open.spotify.com/artist/1RklNDIiYVZ3dYdEUnB0cS"
-        },
-        {
-          "name": "elysian.",
-          "url": "https://open.spotify.com/artist/51K0b3lRd87cKX02hU26we"
-        }
-      ],
-      "duration_ms": 73480,
-      "name": "MONTAGEM COMA",
-      "url": "https://open.spotify.com/track/2UbLtO7CH3jhez0n2T7uDC"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
-        "name": "MENTE M\u00c1",
-        "url": "https://open.spotify.com/album/4ZopuwBxqYKDYkKh61tNqv"
-      },
-      "artists": [
-        {
-          "name": "Nakama",
-          "url": "https://open.spotify.com/artist/1kd6WqngBvP0Vthu1sGI0j"
-        },
-        {
-          "name": "Mc Staff",
-          "url": "https://open.spotify.com/artist/3awueWqdp1OZudPelsEIgx"
-        }
-      ],
-      "duration_ms": 75302,
-      "name": "MENTE M\u00c1",
-      "url": "https://open.spotify.com/track/11gZL0HigsqfzjTHOpdFjE"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
         "name": "Makina Time",
         "url": "https://open.spotify.com/album/2GglSuNrhoPfB0lFSoho5G"
       },
@@ -271,6 +231,46 @@
       "duration_ms": 130090,
       "name": "Makina Time",
       "url": "https://open.spotify.com/track/4jSrN7kXdQUmbVxJe5x6Xg"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
+        "name": "MENTE M\u00c1",
+        "url": "https://open.spotify.com/album/4ZopuwBxqYKDYkKh61tNqv"
+      },
+      "artists": [
+        {
+          "name": "Nakama",
+          "url": "https://open.spotify.com/artist/1kd6WqngBvP0Vthu1sGI0j"
+        },
+        {
+          "name": "Mc Staff",
+          "url": "https://open.spotify.com/artist/3awueWqdp1OZudPelsEIgx"
+        }
+      ],
+      "duration_ms": 75302,
+      "name": "MENTE M\u00c1",
+      "url": "https://open.spotify.com/track/11gZL0HigsqfzjTHOpdFjE"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
+        "name": "MONTAGEM COMA",
+        "url": "https://open.spotify.com/album/5k8jDV518pIk74gBsU72fi"
+      },
+      "artists": [
+        {
+          "name": "ANDROMEDA",
+          "url": "https://open.spotify.com/artist/1RklNDIiYVZ3dYdEUnB0cS"
+        },
+        {
+          "name": "elysian.",
+          "url": "https://open.spotify.com/artist/51K0b3lRd87cKX02hU26we"
+        }
+      ],
+      "duration_ms": 73480,
+      "name": "MONTAGEM COMA",
+      "url": "https://open.spotify.com/track/2UbLtO7CH3jhez0n2T7uDC"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -415,6 +415,22 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
+        "name": "Murder In My Mind",
+        "url": "https://open.spotify.com/album/68GI09qAs2XLJmA3hj5K7y"
+      },
+      "artists": [
+        {
+          "name": "Kordhell",
+          "url": "https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54"
+        }
+      ],
+      "duration_ms": 145000,
+      "name": "Murder In My Mind",
+      "url": "https://open.spotify.com/track/6qyS9qBy0mEk3qYaH8mPss"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
         "name": "CLIMA LINDO",
         "url": "https://open.spotify.com/album/3StJkT99NLpTwoGjzbEqpH"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 81995,
       "name": "CLIMA LINDO - SLOWED",
       "url": "https://open.spotify.com/track/5ymkm3U65CzrLbij6eerzp"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
-        "name": "Murder In My Mind",
-        "url": "https://open.spotify.com/album/68GI09qAs2XLJmA3hj5K7y"
-      },
-      "artists": [
-        {
-          "name": "Kordhell",
-          "url": "https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54"
-        }
-      ],
-      "duration_ms": 145000,
-      "name": "Murder In My Mind",
-      "url": "https://open.spotify.com/track/6qyS9qBy0mEk3qYaH8mPss"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -2099,6 +2099,22 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
+        "name": "Wake Up",
+        "url": "https://open.spotify.com/album/7lFLWyaqcHEeFANruOXadS"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        }
+      ],
+      "duration_ms": 173714,
+      "name": "Wake Up",
+      "url": "https://open.spotify.com/track/4oQVLOACv9GfeB9KcDRIo8"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
         "name": "Echo Chamber",
         "url": "https://open.spotify.com/album/2TjelVZVTDssWHvROGDyC4"
       },
@@ -2115,22 +2131,6 @@
       "duration_ms": 253714,
       "name": "Echo Chamber",
       "url": "https://open.spotify.com/track/7sJ4ue5uhSaXnNlmBWOyuv"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
-        "name": "Wake Up",
-        "url": "https://open.spotify.com/album/7lFLWyaqcHEeFANruOXadS"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        }
-      ],
-      "duration_ms": 173714,
-      "name": "Wake Up",
-      "url": "https://open.spotify.com/track/4oQVLOACv9GfeB9KcDRIo8"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -2195,6 +2195,22 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
+        "name": "Fuck My Computer",
+        "url": "https://open.spotify.com/album/1oX8Dje3jHWVmKNfTbzrcy"
+      },
+      "artists": [
+        {
+          "name": "Ninajirachi",
+          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
+        }
+      ],
+      "duration_ms": 190577,
+      "name": "Fuck My Computer",
+      "url": "https://open.spotify.com/track/2Gt39sy5hTo4huF2Og9XEj"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
         "name": "As The Pendulum Swings",
         "url": "https://open.spotify.com/album/6lWtjIwHMyJdZlRaiGwVnd"
       },
@@ -2215,22 +2231,6 @@
       "duration_ms": 148300,
       "name": "HOW I DO IT",
       "url": "https://open.spotify.com/track/0Y1ZeaRs0gAEwb1rYxdbjq"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
-        "name": "Fuck My Computer",
-        "url": "https://open.spotify.com/album/1oX8Dje3jHWVmKNfTbzrcy"
-      },
-      "artists": [
-        {
-          "name": "Ninajirachi",
-          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
-        }
-      ],
-      "duration_ms": 190577,
-      "name": "Fuck My Computer",
-      "url": "https://open.spotify.com/track/2Gt39sy5hTo4huF2Og9XEj"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -2287,22 +2287,6 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "don't need u (i do)",
-        "url": "https://open.spotify.com/album/3epbfvjf6vhaKyZ9EzwjkZ"
-      },
-      "artists": [
-        {
-          "name": "blunn",
-          "url": "https://open.spotify.com/artist/6B8YEt3Z1wJiv8H8RTL9II"
-        }
-      ],
-      "duration_ms": 171066,
-      "name": "don't need u (i do)",
-      "url": "https://open.spotify.com/track/1cPDRuKq2ghZrBu1VoktKD"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
         "name": "on our own",
         "url": "https://open.spotify.com/album/69RZ5CN1jONmFMPgpDv3Lf"
       },
@@ -2335,6 +2319,22 @@
       "duration_ms": 397189,
       "name": "Feel the Beat - Partiboi69 Remix",
       "url": "https://open.spotify.com/track/2wNEBBr52TumYRmtYH1ocC"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
+        "name": "don't need u (i do)",
+        "url": "https://open.spotify.com/album/3epbfvjf6vhaKyZ9EzwjkZ"
+      },
+      "artists": [
+        {
+          "name": "blunn",
+          "url": "https://open.spotify.com/artist/6B8YEt3Z1wJiv8H8RTL9II"
+        }
+      ],
+      "duration_ms": 171066,
+      "name": "don't need u (i do)",
+      "url": "https://open.spotify.com/track/1cPDRuKq2ghZrBu1VoktKD"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -2995,22 +2995,6 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "COWBELL WARRIOR!",
-        "url": "https://open.spotify.com/album/42sN2l32ODOPtJGQLsoukt"
-      },
-      "artists": [
-        {
-          "name": "SXMPRA",
-          "url": "https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R"
-        }
-      ],
-      "duration_ms": 149461,
-      "name": "COWBELL WARRIOR!",
-      "url": "https://open.spotify.com/track/5YVNmwohNrDoo4f8EQ5htK"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
         "name": "Astronaut In The Ocean (Alok Remix)",
         "url": "https://open.spotify.com/album/3DMIESlogCaK0E3W0awobM"
       },
@@ -3027,6 +3011,22 @@
       "duration_ms": 128371,
       "name": "Astronaut In The Ocean - Alok Remix",
       "url": "https://open.spotify.com/track/25dOYUvTT4wyw7r3vS37ca"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
+        "name": "COWBELL WARRIOR!",
+        "url": "https://open.spotify.com/album/42sN2l32ODOPtJGQLsoukt"
+      },
+      "artists": [
+        {
+          "name": "SXMPRA",
+          "url": "https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R"
+        }
+      ],
+      "duration_ms": 149461,
+      "name": "COWBELL WARRIOR!",
+      "url": "https://open.spotify.com/track/5YVNmwohNrDoo4f8EQ5htK"
     },
     {
       "added_at": "2026-04-13 15:38:24",

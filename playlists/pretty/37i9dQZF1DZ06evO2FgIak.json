@@ -1,12 +1,12 @@
 {
   "description": "This is Muddy Waters. The essential tracks, all in one playlist.",
-  "num_followers": 52319,
+  "num_followers": 52322,
   "original_name": "This Is Muddy Waters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahORAAAAAACRho/vn+9PvZ102zkBLwD6",
+  "snapshot_id": "ahTigAAAAACE9Sl7TDDLKo9oukt0xJ7Z",
   "tracks": [
     {
       "added_at": null,
@@ -59,8 +59,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "After The Rain",
-        "url": "https://open.spotify.com/album/0EPqCz0qUIjjdxU010PP2Q"
+        "name": "Muddy Waters Sings Big Bill Broonzy",
+        "url": "https://open.spotify.com/album/2ULAVn0TXR0ISBy9v8iCrU"
       },
       "artists": [
         {
@@ -68,9 +68,9 @@
           "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
         }
       ],
-      "duration_ms": 290026,
-      "name": "Rollin' And Tumblin'",
-      "url": "https://open.spotify.com/track/61jqhIAyuxQarayIki3Ko4"
+      "duration_ms": 174573,
+      "name": "I Feel So Good",
+      "url": "https://open.spotify.com/track/2pdRmHCY8d3u4oEVLWvws2"
     },
     {
       "added_at": null,
@@ -123,8 +123,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Muddy Waters Sings Big Bill Broonzy",
-        "url": "https://open.spotify.com/album/2ULAVn0TXR0ISBy9v8iCrU"
+        "name": "After The Rain",
+        "url": "https://open.spotify.com/album/0EPqCz0qUIjjdxU010PP2Q"
       },
       "artists": [
         {
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
         }
       ],
-      "duration_ms": 174573,
-      "name": "I Feel So Good",
-      "url": "https://open.spotify.com/track/2pdRmHCY8d3u4oEVLWvws2"
+      "duration_ms": 290026,
+      "name": "Rollin' And Tumblin'",
+      "url": "https://open.spotify.com/track/61jqhIAyuxQarayIki3Ko4"
     },
     {
       "added_at": null,
@@ -171,22 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Real Folk Blues",
-        "url": "https://open.spotify.com/album/0CFpUxbVKTYbqpEiaXAyZT"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 174567,
-      "name": "Forty Days And Forty Nights",
-      "url": "https://open.spotify.com/track/7FQje5Elyeuou3n5lUbgvs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sternstunden",
         "url": "https://open.spotify.com/album/4G7bjZ0EeL3tG1quahiidj"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 197866,
       "name": "When I'm With You",
       "url": "https://open.spotify.com/track/0pkICgml5grZoS3Sxx6TtL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Real Folk Blues",
+        "url": "https://open.spotify.com/album/0CFpUxbVKTYbqpEiaXAyZT"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 174567,
+      "name": "Forty Days And Forty Nights",
+      "url": "https://open.spotify.com/track/7FQje5Elyeuou3n5lUbgvs"
     },
     {
       "added_at": null,
@@ -431,6 +431,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "King Of The Electric Blues",
+        "url": "https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 323226,
+      "name": "Sad Sad Day",
+      "url": "https://open.spotify.com/track/7MtTOg86IBLphq4YU3t31z"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Super Super Blues Band",
         "url": "https://open.spotify.com/album/3hYDvg91x5TuC0G7m7Ubyc"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 445026,
       "name": "The Red Rooster",
       "url": "https://open.spotify.com/track/1qdLSzpYZBqJcSBKbSc4e6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "King Of The Electric Blues",
-        "url": "https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 323226,
-      "name": "Sad Sad Day",
-      "url": "https://open.spotify.com/track/7MtTOg86IBLphq4YU3t31z"
     },
     {
       "added_at": null,
@@ -503,6 +503,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "You Shook Me - The Chess Masters, Vol. 3, 1958 To 1963",
+        "url": "https://open.spotify.com/album/7H6gYOQY7PQX5CMBr8r3ol"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 149626,
+      "name": "Crawlin' Kingsnake",
+      "url": "https://open.spotify.com/track/2fXcmQZ7lYoCxzQmZoDN06"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Super Super Blues Band",
         "url": "https://open.spotify.com/album/3hYDvg91x5TuC0G7m7Ubyc"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 289173,
       "name": "Goin' Down Slow",
       "url": "https://open.spotify.com/track/2DonFSnhEr0WQcuHcHb5ti"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "You Shook Me - The Chess Masters, Vol. 3, 1958 To 1963",
-        "url": "https://open.spotify.com/album/7H6gYOQY7PQX5CMBr8r3ol"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 149626,
-      "name": "Crawlin' Kingsnake",
-      "url": "https://open.spotify.com/track/2fXcmQZ7lYoCxzQmZoDN06"
     },
     {
       "added_at": null,
@@ -807,22 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Saga Blues: Natural Born Lover 1954-1958",
-        "url": "https://open.spotify.com/album/7MDOsIzQ653hvBoBY19KGP"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 165840,
-      "name": "I Want To Be Loved",
-      "url": "https://open.spotify.com/track/348vMftVTCp10l8C90s2kE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Super Super Blues Band",
         "url": "https://open.spotify.com/album/3hYDvg91x5TuC0G7m7Ubyc"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 178600,
       "name": "Walkin' Blues",
       "url": "https://open.spotify.com/track/2xF0ubRru7TwLHdqFwH6Uo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Saga Blues: Natural Born Lover 1954-1958",
+        "url": "https://open.spotify.com/album/7MDOsIzQ653hvBoBY19KGP"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 165840,
+      "name": "I Want To Be Loved",
+      "url": "https://open.spotify.com/track/348vMftVTCp10l8C90s2kE"
     },
     {
       "added_at": null,

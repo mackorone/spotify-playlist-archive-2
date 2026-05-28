@@ -1,31 +1,27 @@
 {
   "description": "This is Stick Figure. The essential tracks, all in one playlist.",
-  "num_followers": 96222,
+  "num_followers": 96240,
   "original_name": "This Is Stick Figure",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahORAAAAAAANMlhDHEnFYCFBTmPR6v1z",
+  "snapshot_id": "ahTigAAAAABDXmv1tmArAk8PcNK5ci2a",
   "tracks": [
     {
       "added_at": null,
       "album": {
-        "name": "Angel Above Me (Run Run River)",
+        "name": "Angels Above Me",
         "url": "https://open.spotify.com/album/2JbuOCT3JIm2EKTMkQkUxv"
       },
       "artists": [
         {
           "name": "Stick Figure",
           "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        },
-        {
-          "name": "Die WBL.",
-          "url": "https://open.spotify.com/artist/0SpJ1jFlETgDfzVVbCDjcq"
         }
       ],
       "duration_ms": 260000,
-      "name": "Angel Above Me (Run Run River)",
+      "name": "Angels Above Me",
       "url": "https://open.spotify.com/track/1hoSJlBH90kh06ySuMo6G4"
     },
     {
@@ -399,22 +395,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hopes and Dreams",
-        "url": "https://open.spotify.com/album/3yCsh7NFJKoF9sEo2YLkE5"
+        "name": "Burial Ground",
+        "url": "https://open.spotify.com/album/1bAQmWedFHr9gkf7iBlqAE"
       },
       "artists": [
-        {
-          "name": "KBong",
-          "url": "https://open.spotify.com/artist/2dzSec5CF9xQeW53ZJ5RHq"
-        },
         {
           "name": "Stick Figure",
           "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
         }
       ],
-      "duration_ms": 233810,
-      "name": "Livin' Easy",
-      "url": "https://open.spotify.com/track/02jGkgEhljd0UC9V0HeV2v"
+      "duration_ms": 283793,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/05BJQUM4bATKGFheqrC6CW"
     },
     {
       "added_at": null,
@@ -439,18 +431,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Burial Ground",
-        "url": "https://open.spotify.com/album/1bAQmWedFHr9gkf7iBlqAE"
+        "name": "Hopes and Dreams",
+        "url": "https://open.spotify.com/album/3yCsh7NFJKoF9sEo2YLkE5"
       },
       "artists": [
+        {
+          "name": "KBong",
+          "url": "https://open.spotify.com/artist/2dzSec5CF9xQeW53ZJ5RHq"
+        },
         {
           "name": "Stick Figure",
           "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
         }
       ],
-      "duration_ms": 283793,
-      "name": "Coming Home",
-      "url": "https://open.spotify.com/track/05BJQUM4bATKGFheqrC6CW"
+      "duration_ms": 233810,
+      "name": "Livin' Easy",
+      "url": "https://open.spotify.com/track/02jGkgEhljd0UC9V0HeV2v"
     },
     {
       "added_at": null,

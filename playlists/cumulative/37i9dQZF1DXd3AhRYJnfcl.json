@@ -757,6 +757,32 @@
     },
     {
       "album": {
+        "name": "AS YOU KNOW",
+        "url": "https://open.spotify.com/album/56gDPVpY2eebVpwePbfzH1"
+      },
+      "artists": [
+        {
+          "name": "ZIAD ZAZA",
+          "url": "https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM"
+        },
+        {
+          "name": "TURK",
+          "url": "https://open.spotify.com/artist/1wFfctC3FJR269GkjAajLL"
+        },
+        {
+          "name": "KUKII",
+          "url": "https://open.spotify.com/artist/6qOEFZyFqonqgBEZn5lkK7"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169380,
+      "name": "AS YOU KNOW",
+      "url": "https://open.spotify.com/track/2VlrFHUhvGqiWugpCtRYS8"
+    },
+    {
+      "album": {
         "name": "Asmrani Eyounoh Samrah",
         "url": "https://open.spotify.com/album/7lB8Cor4rlvXJ9o8d0HshY"
       },
@@ -1328,7 +1354,7 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-28",
       "duration_ms": 158571,
       "name": "DO YOU LOVE ME? / \u0633\u0646\u064a\u0648\u0631\u0629",
       "url": "https://open.spotify.com/track/4gR1Lpk0478t0M6wrft3y5"
@@ -5397,6 +5423,24 @@
     },
     {
       "album": {
+        "name": "\u0625\u062d\u0633\u0627\u0633\u064a \u0645\u0639\u0627\u0643 (\u0645\u0646 \u0641\u064a\u0644\u0645 \u0627\u0644\u0643\u0644\u0627\u0645 \u0639\u0644\u0649 \u0625\u064a\u0647\u061f)",
+        "url": "https://open.spotify.com/album/6ctwTASynsRaZ527Vci2ch"
+      },
+      "artists": [
+        {
+          "name": "Ramy Sabry",
+          "url": "https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220540,
+      "name": "\u0625\u062d\u0633\u0627\u0633\u064a \u0645\u0639\u0627\u0643 - \u0645\u0646 \u0641\u064a\u0644\u0645 \u0627\u0644\u0643\u0644\u0627\u0645 \u0639\u0644\u0649 \u0625\u064a\u0647\u061f",
+      "url": "https://open.spotify.com/track/3x37ks40XCDj8r4FSevyUy"
+    },
+    {
+      "album": {
         "name": "\u0627\u0628\u0646 \u0627\u0645\u0628\u0627\u0631\u062d",
         "url": "https://open.spotify.com/album/31igzNV5FN0huFzyxNNo1J"
       },
@@ -7098,7 +7142,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-28",
       "duration_ms": 201271,
       "name": "\u0639\u064a\u0646 \u0633\u062d\u0631\u064a\u0629",
       "url": "https://open.spotify.com/track/0pTxrkqqHSVCsuHS9NhaH5"

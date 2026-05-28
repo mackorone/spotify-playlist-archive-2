@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: Tim Godfrey
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,224 likes - 102 songs - 8 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,255 likes - 102 songs - 8 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

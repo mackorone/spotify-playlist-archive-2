@@ -1,18 +1,46 @@
 {
-  "description": "Trending songs from Tollywood! \nCover: Peddi",
-  "num_followers": 606281,
+  "description": "Trending songs from Tollywood! \nCover: The Paradise",
+  "num_followers": 606713,
   "original_name": "Trending Now Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFe2nkzhxZAlobgRy4ivCqH+lVP5",
+  "snapshot_id": "AAAAALCb5Mb57/C4V4ZnDHTL5iivEaDg",
   "tracks": [
     {
-      "added_at": "2025-11-11 06:12:33",
+      "added_at": "2026-02-25 10:32:25",
       "album": {
-        "name": "Chikiri Chikiri (From \"Peddi\") [TELUGU]",
-        "url": "https://open.spotify.com/album/0TPPDwOjtkFRgBiStpUEMO"
+        "name": "Aaya Sher (From \"The Paradise\") (Telugu)",
+        "url": "https://open.spotify.com/album/47i89HeDSUWHJGFT1wzAWP"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Jangi Reddy",
+          "url": "https://open.spotify.com/artist/576GMrbKBURxmaLAJXMqCp"
+        },
+        {
+          "name": "Arjun Chandy",
+          "url": "https://open.spotify.com/artist/4UCG3GFuPR4k19M40Mzxip"
+        },
+        {
+          "name": "Kasarla Shyam",
+          "url": "https://open.spotify.com/artist/4wxBWsFkyA2K1BMBFj91qt"
+        }
+      ],
+      "duration_ms": 286917,
+      "name": "Aaya Sher (From \"The Paradise\") (Telugu)",
+      "url": "https://open.spotify.com/track/4kV0ugCwyF7OAb3huIdThG"
+    },
+    {
+      "added_at": "2026-05-27 03:37:35",
+      "album": {
+        "name": "Hellallallo (From \"Peddi\") [TELUGU]",
+        "url": "https://open.spotify.com/album/6mWpQgxrYAxpz5VGN5AQjV"
       },
       "artists": [
         {
@@ -20,17 +48,17 @@
           "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
         },
         {
-          "name": "Mohit Chauhan",
-          "url": "https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS"
+          "name": "Rakshita Suresh",
+          "url": "https://open.spotify.com/artist/76Z6SMQPibr8qI24AhdvbJ"
         },
         {
-          "name": "Balaji",
-          "url": "https://open.spotify.com/artist/2K9nbaz5q8FpSEajKMlVeH"
+          "name": "Anantha Sreeram",
+          "url": "https://open.spotify.com/artist/73q7QOnwGy6huqoJ9JCRYD"
         }
       ],
-      "duration_ms": 273072,
-      "name": "Chikiri Chikiri (From \"Peddi\") [TELUGU]",
-      "url": "https://open.spotify.com/track/41GTIflnHCWqHgYq7israx"
+      "duration_ms": 228048,
+      "name": "Hellallallo (From \"Peddi\") [TELUGU]",
+      "url": "https://open.spotify.com/track/7yfBat6kf9vOPNSWbYyeHp"
     },
     {
       "added_at": "2026-05-05 07:47:45",
@@ -73,34 +101,6 @@
       "url": "https://open.spotify.com/track/59KYXV0sB3j617D6bbUuAv"
     },
     {
-      "added_at": "2026-02-25 10:32:25",
-      "album": {
-        "name": "Aaya Sher (From \"The Paradise\") (Telugu)",
-        "url": "https://open.spotify.com/album/47i89HeDSUWHJGFT1wzAWP"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "name": "Jangi Reddy",
-          "url": "https://open.spotify.com/artist/576GMrbKBURxmaLAJXMqCp"
-        },
-        {
-          "name": "Arjun Chandy",
-          "url": "https://open.spotify.com/artist/4UCG3GFuPR4k19M40Mzxip"
-        },
-        {
-          "name": "Kasarla Shyam",
-          "url": "https://open.spotify.com/artist/4wxBWsFkyA2K1BMBFj91qt"
-        }
-      ],
-      "duration_ms": 286917,
-      "name": "Aaya Sher (From \"The Paradise\") (Telugu)",
-      "url": "https://open.spotify.com/track/4kV0ugCwyF7OAb3huIdThG"
-    },
-    {
       "added_at": "2025-11-03 09:53:29",
       "album": {
         "name": "Dude (Telugu) [Original Motion Picture Soundtrack]",
@@ -135,6 +135,30 @@
       "duration_ms": 237065,
       "name": "Adhento Gaani Vunnapaatuga(Jersey)",
       "url": "https://open.spotify.com/track/67SwuqIlgYKKRy8OKisce6"
+    },
+    {
+      "added_at": "2025-11-11 06:12:33",
+      "album": {
+        "name": "Chikiri Chikiri (From \"Peddi\") [TELUGU]",
+        "url": "https://open.spotify.com/album/0TPPDwOjtkFRgBiStpUEMO"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Mohit Chauhan",
+          "url": "https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS"
+        },
+        {
+          "name": "Balaji",
+          "url": "https://open.spotify.com/artist/2K9nbaz5q8FpSEajKMlVeH"
+        }
+      ],
+      "duration_ms": 273072,
+      "name": "Chikiri Chikiri (From \"Peddi\") [TELUGU]",
+      "url": "https://open.spotify.com/track/41GTIflnHCWqHgYq7israx"
     },
     {
       "added_at": "2026-02-16 13:08:30",
@@ -458,6 +482,14 @@
         {
           "name": "Unni Menon",
           "url": "https://open.spotify.com/artist/1EYD74wB45dOQXt27hh144"
+        },
+        {
+          "name": "A. M. Ratnam",
+          "url": "https://open.spotify.com/artist/2mXVIDwgEjri9bgfaC5PwF"
+        },
+        {
+          "name": "Sivaganesh",
+          "url": "https://open.spotify.com/artist/3FXrf6pEe7qm2IYn6hjOGy"
         }
       ],
       "duration_ms": 351973,
@@ -787,34 +819,6 @@
       "duration_ms": 236617,
       "name": "Arere Yekkada",
       "url": "https://open.spotify.com/track/0G1GYz7LESrRh3FDRFOTld"
-    },
-    {
-      "added_at": "2025-08-04 05:46:30",
-      "album": {
-        "name": "Firestorm (From \"They Call Him OG\")",
-        "url": "https://open.spotify.com/album/0wGtOzvfuupquwH9tfNSif"
-      },
-      "artists": [
-        {
-          "name": "Thaman S",
-          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
-        },
-        {
-          "name": "Silambarasan TR",
-          "url": "https://open.spotify.com/artist/5Hn84AFwiTEi8eMoI5B9AS"
-        },
-        {
-          "name": "Raja Kumari",
-          "url": "https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25"
-        },
-        {
-          "name": "Deepak Blue",
-          "url": "https://open.spotify.com/artist/5iFKS1bnBNFWBAmd7mi0vf"
-        }
-      ],
-      "duration_ms": 240309,
-      "name": "Firestorm (From \"They Call Him OG\")",
-      "url": "https://open.spotify.com/track/3lLX2Vm99sMD5kuZqnr2T0"
     },
     {
       "added_at": "2026-04-22 09:15:28",

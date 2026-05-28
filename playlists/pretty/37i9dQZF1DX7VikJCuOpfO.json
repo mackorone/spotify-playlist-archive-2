@@ -1,6 +1,6 @@
 {
   "description": "Lo nuevo y lo mejor en el estilo mariachi. Cover: Christian Nodal\ud83d\udcf8",
-  "num_followers": 367676,
+  "num_followers": 367687,
   "original_name": "Mariachi 2026",
   "owner": {
     "name": "Spotify",
@@ -531,6 +531,22 @@
     {
       "added_at": "2026-05-22 06:00:32",
       "album": {
+        "name": "MIL RAZONES",
+        "url": "https://open.spotify.com/album/6iYxOAcJG12yCBuNrNY27x"
+      },
+      "artists": [
+        {
+          "name": "Alexander Acha",
+          "url": "https://open.spotify.com/artist/3JkgQ8Jjwt2mkeOsg5yhqh"
+        }
+      ],
+      "duration_ms": 176597,
+      "name": "MIL RAZONES",
+      "url": "https://open.spotify.com/track/2Wa2x4jWNGIyWWSc1vg0oa"
+    },
+    {
+      "added_at": "2026-05-22 06:00:32",
+      "album": {
         "name": "De Qu\u00e9 Manera Te Olvido",
         "url": "https://open.spotify.com/album/3ZdsQ9qRiqlzaIeRVdvC65"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 184167,
       "name": "Antes",
       "url": "https://open.spotify.com/track/0t9cMv6daD2yN3QwOyQYux"
-    },
-    {
-      "added_at": "2026-05-22 06:00:32",
-      "album": {
-        "name": "MIL RAZONES",
-        "url": "https://open.spotify.com/album/6iYxOAcJG12yCBuNrNY27x"
-      },
-      "artists": [
-        {
-          "name": "Alexander Acha",
-          "url": "https://open.spotify.com/artist/3JkgQ8Jjwt2mkeOsg5yhqh"
-        }
-      ],
-      "duration_ms": 176597,
-      "name": "MIL RAZONES",
-      "url": "https://open.spotify.com/track/2Wa2x4jWNGIyWWSc1vg0oa"
     },
     {
       "added_at": "2026-05-22 06:00:32",
@@ -611,22 +611,6 @@
     {
       "added_at": "2026-05-22 06:00:32",
       "album": {
-        "name": "No soy para ti",
-        "url": "https://open.spotify.com/album/1IrCd6P6dHbnSJdFa3ndoT"
-      },
-      "artists": [
-        {
-          "name": "Ivanna",
-          "url": "https://open.spotify.com/artist/0KR7rS2uTkP6Ct1a7YCnx4"
-        }
-      ],
-      "duration_ms": 124785,
-      "name": "No soy para ti",
-      "url": "https://open.spotify.com/track/5ZDdNrpUuCZfbSbkHYpmWi"
-    },
-    {
-      "added_at": "2026-05-22 06:00:32",
-      "album": {
         "name": "Culpa M\u00eda+ El Mimoso Luis Antonio L\u00f3pez",
         "url": "https://open.spotify.com/album/3WYhM3JvuFDIkGRVxP4HL3"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 190384,
       "name": "Culpa M\u00eda",
       "url": "https://open.spotify.com/track/3g6rZd5OcdxsVgYbTDkJv2"
+    },
+    {
+      "added_at": "2026-05-22 06:00:32",
+      "album": {
+        "name": "No soy para ti",
+        "url": "https://open.spotify.com/album/1IrCd6P6dHbnSJdFa3ndoT"
+      },
+      "artists": [
+        {
+          "name": "Ivanna",
+          "url": "https://open.spotify.com/artist/0KR7rS2uTkP6Ct1a7YCnx4"
+        }
+      ],
+      "duration_ms": 124785,
+      "name": "No soy para ti",
+      "url": "https://open.spotify.com/track/5ZDdNrpUuCZfbSbkHYpmWi"
     },
     {
       "added_at": "2026-05-22 06:00:32",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2026-05-22 06:00:32",
       "album": {
-        "name": "Me Nace Del Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/0p1YpGbcw2bKllgY6Fc8Dr"
-      },
-      "artists": [
-        {
-          "name": "Edith M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
-        }
-      ],
-      "duration_ms": 164117,
-      "name": "Me Nace Del Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/3oGiGhavASAxgYT4RjISIa"
-    },
-    {
-      "added_at": "2026-05-22 06:00:32",
-      "album": {
         "name": "Despecho Puro (En Vivo)",
         "url": "https://open.spotify.com/album/6VpHBWBnIKV6BB2UGal2bW"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 173173,
       "name": "\u00bfPOR QU\u00c9 ME HACES LLORAR? - En Vivo",
       "url": "https://open.spotify.com/track/1h9DgoT5M5Hiw9MvPpOp2m"
+    },
+    {
+      "added_at": "2026-05-22 06:00:32",
+      "album": {
+        "name": "Me Nace Del Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/0p1YpGbcw2bKllgY6Fc8Dr"
+      },
+      "artists": [
+        {
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+        }
+      ],
+      "duration_ms": 164117,
+      "name": "Me Nace Del Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/3oGiGhavASAxgYT4RjISIa"
     },
     {
       "added_at": "2026-05-22 06:00:32",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2026-05-22 06:00:32",
       "album": {
-        "name": "Me Gustas",
-        "url": "https://open.spotify.com/album/6cYMpnl0sZOgF1XmjhzYwy"
-      },
-      "artists": [
-        {
-          "name": "Grupo Triunfadores",
-          "url": "https://open.spotify.com/artist/74TcxUH2X0cCpOD1uMWzWQ"
-        }
-      ],
-      "duration_ms": 168622,
-      "name": "Me Gustas",
-      "url": "https://open.spotify.com/track/5KpvlmpZ3UjGeIsNOvosiW"
-    },
-    {
-      "added_at": "2026-05-22 06:00:32",
-      "album": {
         "name": "Mariachi y Norte\u00f1o",
         "url": "https://open.spotify.com/album/24ssNJt1pKcLkG6CadBw02"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 198431,
       "name": "Golpe Inesperado",
       "url": "https://open.spotify.com/track/2tGXd9lzFREBUdWwcoA48V"
+    },
+    {
+      "added_at": "2026-05-22 06:00:32",
+      "album": {
+        "name": "Me Gustas",
+        "url": "https://open.spotify.com/album/6cYMpnl0sZOgF1XmjhzYwy"
+      },
+      "artists": [
+        {
+          "name": "Grupo Triunfadores",
+          "url": "https://open.spotify.com/artist/74TcxUH2X0cCpOD1uMWzWQ"
+        }
+      ],
+      "duration_ms": 168622,
+      "name": "Me Gustas",
+      "url": "https://open.spotify.com/track/5KpvlmpZ3UjGeIsNOvosiW"
     }
   ],
   "unique_name": "Mariachi 2026",

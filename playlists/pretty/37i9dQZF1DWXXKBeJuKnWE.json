@@ -1,6 +1,6 @@
 {
   "description": "The home for heavy music. Cover: Beartooth",
-  "num_followers": 492699,
+  "num_followers": 492681,
   "original_name": "The Pit",
   "owner": {
     "name": "Spotify",
@@ -671,6 +671,26 @@
     {
       "added_at": "2026-05-15 10:08:52",
       "album": {
+        "name": "METAL FORTH",
+        "url": "https://open.spotify.com/album/7JAioi7aQOS0VenAg3xfrp"
+      },
+      "artists": [
+        {
+          "name": "BABYMETAL",
+          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
+        },
+        {
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        }
+      ],
+      "duration_ms": 200698,
+      "name": "My Queen (feat. Spiritbox)",
+      "url": "https://open.spotify.com/track/5kQWVteP4yTNL7xZWFE5CJ"
+    },
+    {
+      "added_at": "2026-05-15 10:08:52",
+      "album": {
         "name": "Asking For A Friend",
         "url": "https://open.spotify.com/album/7duNAzheTsc00oX22aCqXn"
       },
@@ -707,22 +727,18 @@
     {
       "added_at": "2026-05-15 10:08:52",
       "album": {
-        "name": "METAL FORTH",
-        "url": "https://open.spotify.com/album/7JAioi7aQOS0VenAg3xfrp"
+        "name": "I Don't Belong Here",
+        "url": "https://open.spotify.com/album/7qYZEoFXuB2AAK99y98l2N"
       },
       "artists": [
         {
-          "name": "BABYMETAL",
-          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
-        },
-        {
-          "name": "Spiritbox",
-          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+          "name": "Wind Walkers",
+          "url": "https://open.spotify.com/artist/2K2bsaNeuQAFkuVwrrlJe0"
         }
       ],
-      "duration_ms": 200698,
-      "name": "My Queen (feat. Spiritbox)",
-      "url": "https://open.spotify.com/track/5kQWVteP4yTNL7xZWFE5CJ"
+      "duration_ms": 204500,
+      "name": "Hereditary",
+      "url": "https://open.spotify.com/track/4j4NCpKg0dZKqepfdwL1KH"
     },
     {
       "added_at": "2026-05-15 10:08:52",
@@ -743,22 +759,6 @@
       "duration_ms": 321106,
       "name": "Nightmare Tripping (Feat. Nickelback)",
       "url": "https://open.spotify.com/track/3WzTUJKWd9pEYDepJpWJK1"
-    },
-    {
-      "added_at": "2026-05-15 10:08:52",
-      "album": {
-        "name": "I Don't Belong Here",
-        "url": "https://open.spotify.com/album/7qYZEoFXuB2AAK99y98l2N"
-      },
-      "artists": [
-        {
-          "name": "Wind Walkers",
-          "url": "https://open.spotify.com/artist/2K2bsaNeuQAFkuVwrrlJe0"
-        }
-      ],
-      "duration_ms": 204500,
-      "name": "Hereditary",
-      "url": "https://open.spotify.com/track/4j4NCpKg0dZKqepfdwL1KH"
     },
     {
       "added_at": "2026-05-15 10:08:52",
@@ -871,22 +871,6 @@
     {
       "added_at": "2026-05-15 10:08:52",
       "album": {
-        "name": "SIDE EFFECTS PT.1",
-        "url": "https://open.spotify.com/album/64ruOFU72r6CZNm97UVv4K"
-      },
-      "artists": [
-        {
-          "name": "Normandie",
-          "url": "https://open.spotify.com/artist/1zsOttiR3VjZRnw4Iq8Zg6"
-        }
-      ],
-      "duration_ms": 196442,
-      "name": "Halo",
-      "url": "https://open.spotify.com/track/1vW6LHtAe0wu8uVehErPsQ"
-    },
-    {
-      "added_at": "2026-05-15 10:08:52",
-      "album": {
         "name": "Bury Me With My Screams",
         "url": "https://open.spotify.com/album/3IU16QWqIlqFtcxcTophb1"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 316634,
       "name": "Bury Me With My Screams",
       "url": "https://open.spotify.com/track/2ALh8nB3wKq490LiiZDx1Y"
+    },
+    {
+      "added_at": "2026-05-15 10:08:52",
+      "album": {
+        "name": "SIDE EFFECTS PT.1",
+        "url": "https://open.spotify.com/album/64ruOFU72r6CZNm97UVv4K"
+      },
+      "artists": [
+        {
+          "name": "Normandie",
+          "url": "https://open.spotify.com/artist/1zsOttiR3VjZRnw4Iq8Zg6"
+        }
+      ],
+      "duration_ms": 196442,
+      "name": "Halo",
+      "url": "https://open.spotify.com/track/1vW6LHtAe0wu8uVehErPsQ"
     },
     {
       "added_at": "2026-05-15 10:08:52",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2026-05-15 10:08:52",
       "album": {
-        "name": "Puppet Parade",
-        "url": "https://open.spotify.com/album/4c2I5KEpliGFpP3YGY2jMq"
-      },
-      "artists": [
-        {
-          "name": "Megadeth",
-          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
-        }
-      ],
-      "duration_ms": 280924,
-      "name": "Puppet Parade",
-      "url": "https://open.spotify.com/track/1wK0EaN9EAuSNSp3uB3rgs"
-    },
-    {
-      "added_at": "2026-05-15 10:08:52",
-      "album": {
         "name": "Tracksuit",
         "url": "https://open.spotify.com/album/0DMYE3JEGsx1qllM7ZjjMH"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 150193,
       "name": "Tracksuit",
       "url": "https://open.spotify.com/track/0QXNgg60Ck504AdrheBAox"
+    },
+    {
+      "added_at": "2026-05-15 10:08:52",
+      "album": {
+        "name": "Puppet Parade",
+        "url": "https://open.spotify.com/album/4c2I5KEpliGFpP3YGY2jMq"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "duration_ms": 280924,
+      "name": "Puppet Parade",
+      "url": "https://open.spotify.com/track/1wK0EaN9EAuSNSp3uB3rgs"
     },
     {
       "added_at": "2026-05-15 10:08:52",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2026-05-15 10:08:52",
       "album": {
+        "name": "So Low",
+        "url": "https://open.spotify.com/album/2Frybhx9bxmVPIjnEbfQhf"
+      },
+      "artists": [
+        {
+          "name": "The Devil Wears Prada",
+          "url": "https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb"
+        }
+      ],
+      "duration_ms": 179083,
+      "name": "So Low",
+      "url": "https://open.spotify.com/track/1IiIU0r2LShFKOP609LVpI"
+    },
+    {
+      "added_at": "2026-05-15 10:08:52",
+      "album": {
         "name": "Good Enough (feat. Caskets)",
         "url": "https://open.spotify.com/album/2Knj2sM9MP94zUuYcHqmwH"
       },
@@ -1215,22 +1231,6 @@
       "duration_ms": 165970,
       "name": "Good Enough (feat. Caskets)",
       "url": "https://open.spotify.com/track/634fbt01oPnkmCBMPNJUWA"
-    },
-    {
-      "added_at": "2026-05-15 10:08:52",
-      "album": {
-        "name": "So Low",
-        "url": "https://open.spotify.com/album/2Frybhx9bxmVPIjnEbfQhf"
-      },
-      "artists": [
-        {
-          "name": "The Devil Wears Prada",
-          "url": "https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb"
-        }
-      ],
-      "duration_ms": 179083,
-      "name": "So Low",
-      "url": "https://open.spotify.com/track/1IiIU0r2LShFKOP609LVpI"
     },
     {
       "added_at": "2026-05-15 10:08:52",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2026-05-15 10:08:52",
       "album": {
+        "name": "Scatterbrain",
+        "url": "https://open.spotify.com/album/3yN8bG6yNUoPnu3UAnfW4p"
+      },
+      "artists": [
+        {
+          "name": "Split Chain",
+          "url": "https://open.spotify.com/artist/5J0ehnVK9YOBGWOwE022ar"
+        }
+      ],
+      "duration_ms": 194536,
+      "name": "Scatterbrain",
+      "url": "https://open.spotify.com/track/5332V1NVIYcKxW1zftGGWH"
+    },
+    {
+      "added_at": "2026-05-15 10:08:52",
+      "album": {
         "name": "The End",
         "url": "https://open.spotify.com/album/01ZpbrUjs0ia2snQno4WQb"
       },
@@ -1379,22 +1395,6 @@
       "duration_ms": 246946,
       "name": "Same Old Song",
       "url": "https://open.spotify.com/track/6pfwu8OzVOuNWLY7aH6fzw"
-    },
-    {
-      "added_at": "2026-05-15 10:08:52",
-      "album": {
-        "name": "Ego Death",
-        "url": "https://open.spotify.com/album/4N7E4CwLMu8iaANPPT2Twx"
-      },
-      "artists": [
-        {
-          "name": "Atreyu",
-          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
-        }
-      ],
-      "duration_ms": 132476,
-      "name": "Ego Death",
-      "url": "https://open.spotify.com/track/2JJfPd80KcUu4IMD6ZjAkz"
     },
     {
       "added_at": "2026-05-15 10:08:52",
@@ -1415,18 +1415,18 @@
     {
       "added_at": "2026-05-15 10:08:52",
       "album": {
-        "name": "Scatterbrain",
-        "url": "https://open.spotify.com/album/3yN8bG6yNUoPnu3UAnfW4p"
+        "name": "Ego Death",
+        "url": "https://open.spotify.com/album/4N7E4CwLMu8iaANPPT2Twx"
       },
       "artists": [
         {
-          "name": "Split Chain",
-          "url": "https://open.spotify.com/artist/5J0ehnVK9YOBGWOwE022ar"
+          "name": "Atreyu",
+          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
         }
       ],
-      "duration_ms": 194536,
-      "name": "Scatterbrain",
-      "url": "https://open.spotify.com/track/5332V1NVIYcKxW1zftGGWH"
+      "duration_ms": 132476,
+      "name": "Ego Death",
+      "url": "https://open.spotify.com/track/2JJfPd80KcUu4IMD6ZjAkz"
     },
     {
       "added_at": "2026-05-15 10:08:52",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2026-05-15 10:08:52",
       "album": {
-        "name": "Pull Like a Dog",
-        "url": "https://open.spotify.com/album/2rPxVtL7D8v8AoYkHekCiy"
-      },
-      "artists": [
-        {
-          "name": "The Scratch",
-          "url": "https://open.spotify.com/artist/6BCpGC485tSshwjemmeAmd"
-        }
-      ],
-      "duration_ms": 210904,
-      "name": "Roses n Poses",
-      "url": "https://open.spotify.com/track/62CqS44jOqQSSf0RfCrWHQ"
-    },
-    {
-      "added_at": "2026-05-15 10:08:52",
-      "album": {
         "name": "Labyrinthine",
         "url": "https://open.spotify.com/album/3WOLRTjNMQBPzHB1wgFYev"
       },
@@ -1563,18 +1547,18 @@
     {
       "added_at": "2026-05-15 10:08:52",
       "album": {
-        "name": "I Got Heaven",
-        "url": "https://open.spotify.com/album/5ROzqM7rbMYoKbQIw4i7fp"
+        "name": "Pull Like a Dog",
+        "url": "https://open.spotify.com/album/2rPxVtL7D8v8AoYkHekCiy"
       },
       "artists": [
         {
-          "name": "Mannequin Pussy",
-          "url": "https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9"
+          "name": "The Scratch",
+          "url": "https://open.spotify.com/artist/6BCpGC485tSshwjemmeAmd"
         }
       ],
-      "duration_ms": 93920,
-      "name": "Of Her",
-      "url": "https://open.spotify.com/track/2415zlo33NvXzYSZEH61s5"
+      "duration_ms": 210904,
+      "name": "Roses n Poses",
+      "url": "https://open.spotify.com/track/62CqS44jOqQSSf0RfCrWHQ"
     },
     {
       "added_at": "2026-05-15 10:08:52",
@@ -1591,6 +1575,22 @@
       "duration_ms": 176774,
       "name": "Boom!",
       "url": "https://open.spotify.com/track/7x97B4yKcAXoAgq0UjAvLO"
+    },
+    {
+      "added_at": "2026-05-15 10:08:52",
+      "album": {
+        "name": "I Got Heaven",
+        "url": "https://open.spotify.com/album/5ROzqM7rbMYoKbQIw4i7fp"
+      },
+      "artists": [
+        {
+          "name": "Mannequin Pussy",
+          "url": "https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9"
+        }
+      ],
+      "duration_ms": 93920,
+      "name": "Of Her",
+      "url": "https://open.spotify.com/track/2415zlo33NvXzYSZEH61s5"
     },
     {
       "added_at": "2026-05-15 10:08:52",

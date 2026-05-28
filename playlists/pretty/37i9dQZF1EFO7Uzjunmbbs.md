@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFO7Uzjunmbbs.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/21JhxcGHq3awKEjLrsnRD8">Emily Weisband</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,043 likes - 215 songs - 12 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,043 likes - 216 songs - 12 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -121,8 +121,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFO7Uzjunmbbs.md) - [plain]
 | 111 | [In This Moment](https://open.spotify.com/track/7iPSolwRNIDbQXB5trVePD) | [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [Godsend](https://open.spotify.com/album/1fVyZLsUGyDJcqgRfq8wZ2) | 3:50 |
 | 112 | [Naked](https://open.spotify.com/track/4Aol7GtOaV8EVkanxp1F6r) | [Emily Weisband](https://open.spotify.com/artist/1am9EW2QubqpkCbg29vu5n) | [Identity Crisis](https://open.spotify.com/album/3lbaOO0V8HmnSDcmd85QAw) | 3:24 |
 | 113 | [Better Because Of It](https://open.spotify.com/track/4zcYX4ZJfmyrL9ySSoNykW) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [Haven't Seen It Yet](https://open.spotify.com/album/1keC2a4EU43ByCNGktRgB6) | 4:00 |
-| 114 | [Tell You Enough](https://open.spotify.com/track/3ZpOfxlomk5LipI7GvETCT) | [Jessie James Decker](https://open.spotify.com/artist/0GzIauSfKRc5BlNXpTWAGz) | [The Woman I've Become](https://open.spotify.com/album/1BWUybJrDIFyZmrMbZHkyu) | 3:07 |
-| 115 | [He Did It](https://open.spotify.com/track/0hylElUN1yBarrV6GPhxdP) | [Evvie McKinney](https://open.spotify.com/artist/7G7JWOsGhDMily2HtfzcIZ) | [Love, Evvie McKinney](https://open.spotify.com/album/19TJHZlE3D6OZ6lNSYGMQb) | 2:54 |
+| 114 | [He Did It](https://open.spotify.com/track/0hylElUN1yBarrV6GPhxdP) | [Evvie McKinney](https://open.spotify.com/artist/7G7JWOsGhDMily2HtfzcIZ) | [Love, Evvie McKinney](https://open.spotify.com/album/19TJHZlE3D6OZ6lNSYGMQb) | 2:54 |
+| 115 | [Tell You Enough](https://open.spotify.com/track/3ZpOfxlomk5LipI7GvETCT) | [Jessie James Decker](https://open.spotify.com/artist/0GzIauSfKRc5BlNXpTWAGz) | [The Woman I've Become](https://open.spotify.com/album/1BWUybJrDIFyZmrMbZHkyu) | 3:07 |
 | 116 | [Done It By Now](https://open.spotify.com/track/4G6uUGW2M8pKgSSlAMp8iS) | [Restless Road](https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q) | [Done It By Now](https://open.spotify.com/album/5sPOAtvoraeS9ak1oVVgdi) | 3:24 |
 | 117 | [New Salt](https://open.spotify.com/track/0G5f1pg9GN5FloOuiKx50b) | [Emily Weisband](https://open.spotify.com/artist/1am9EW2QubqpkCbg29vu5n) | [New Salt](https://open.spotify.com/album/0vbqMLbvqvuBg3LfHltak2) | 3:30 |
 | 118 | [Out of This Car](https://open.spotify.com/track/7BnOc1s24pCVsCKxJFLIFq) | [Emily Weisband](https://open.spotify.com/artist/1am9EW2QubqpkCbg29vu5n) | [Out of This Car](https://open.spotify.com/album/5sIovGQp1OlZ7oHjBqP3aM) | 2:59 |
@@ -178,8 +178,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFO7Uzjunmbbs.md) - [plain]
 | 168 | [That's Why \(You Love Me\)](https://open.spotify.com/track/6X92IuYTb2HX56BvpKn1xj) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [Danielle](https://open.spotify.com/album/5FVRKekEp0D2cUH0hK59zV) | 2:38 |
 | 169 | [Crashlanded](https://open.spotify.com/track/4RbWBrPEvvC1KiAXVdfRG9) | [Madeline Edwards](https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa) | [Crashlanded](https://open.spotify.com/album/0x2OmXAe36pO4S5Ygiurk4) | 3:07 |
 | 170 | [Strange Times](https://open.spotify.com/track/7kOD9GBPbRmKBC9ulD7dp3) | [Macy Martin](https://open.spotify.com/artist/3jtrkW7BFCTcFA6HXPv0O9) | [Strange Times](https://open.spotify.com/album/67w9yTbAFGNRHjmH4vju7v) | 3:16 |
-| 171 | [Not Believe](https://open.spotify.com/track/70APqtXv1yAVqhsdbX6Vdc) | [Ross Copperman](https://open.spotify.com/artist/5nHR37FDSU4I0QQta0AZ1C) | [Not Believe](https://open.spotify.com/album/0LIqUSWvwfA4Vw2t7Qe6QO) | 3:25 |
-| 172 | [This City Tonight](https://open.spotify.com/track/0Jj7T59d63wuOSvkXsPvkX) | [Mark Blomsteel](https://open.spotify.com/artist/6Fqe2k9vqvUdrSha9wTgXk) | [This City Tonight](https://open.spotify.com/album/5TLhkLeYBkh86PiDDQiMjS) | 3:37 |
+| 171 | [This City Tonight](https://open.spotify.com/track/0Jj7T59d63wuOSvkXsPvkX) | [Mark Blomsteel](https://open.spotify.com/artist/6Fqe2k9vqvUdrSha9wTgXk) | [This City Tonight](https://open.spotify.com/album/5TLhkLeYBkh86PiDDQiMjS) | 3:37 |
+| 172 | [Not Believe](https://open.spotify.com/track/70APqtXv1yAVqhsdbX6Vdc) | [Ross Copperman](https://open.spotify.com/artist/5nHR37FDSU4I0QQta0AZ1C) | [Not Believe](https://open.spotify.com/album/0LIqUSWvwfA4Vw2t7Qe6QO) | 3:25 |
 | 173 | [Trust You \(with Emily Weisband\)](https://open.spotify.com/track/5nApMDFzAX1yg8rKCmTjfq) | [Ross Copperman](https://open.spotify.com/artist/5nHR37FDSU4I0QQta0AZ1C), [Emily Weisband](https://open.spotify.com/artist/1am9EW2QubqpkCbg29vu5n) | [Trust You \(with Emily Weisband\)](https://open.spotify.com/album/2QLlIALXN4iTQP9ecqRhcy) | 2:42 |
 | 174 | [Get Your Hopes Up](https://open.spotify.com/track/0v6hfuz02fAwjXs8afteqQ) | [Sugarland](https://open.spotify.com/artist/0hYxQe3AK5jBPCr5MumLHD) | [There Goes The Neighborhood](https://open.spotify.com/album/6ORGhksRXVC73wovtSdx4O) | 3:20 |
 | 175 | [Scars to Prove It](https://open.spotify.com/track/5afIFNtGZ9fRl1ZnWblazo) | [Thomason](https://open.spotify.com/artist/73fNf3ENJ2EA0UbJhmSaDV) | [Livin' Left to Do](https://open.spotify.com/album/6yMiR9tsCtAhOlnZ3ELpNU) | 3:00 |
@@ -219,9 +219,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFO7Uzjunmbbs.md) - [plain]
 | 209 | [Politician](https://open.spotify.com/track/2Lv3DczkCXP4EEa73VVXmb) | [Riah](https://open.spotify.com/artist/5fgdvwrS2h0wRV0VZ3RWOa) | [On Sundays \- EP](https://open.spotify.com/album/4hUtNkyp1vfnye4dj7erTA) | 3:14 |
 | 210 | [I've Got You](https://open.spotify.com/track/1fCZlXzwRBQ7slzj3PCTsi) | [Sheridan](https://open.spotify.com/artist/1M1VQcOFJjfzyqmb9Krdi6) | [Gettin' Back Up](https://open.spotify.com/album/0OEZOtmG9gMlvIRgVk6VrQ) | 3:22 |
 | 211 | [Be Mine](https://open.spotify.com/track/24lqukpF5r54WOz49OHm00) | [The Veltz Family](https://open.spotify.com/artist/6EoqHhFmQQsEnqlIlEhYlN) | [This](https://open.spotify.com/album/5w5PjDlUKkouS03Eso1lHd) | 2:39 |
-| 212 | [God's Not Done](https://open.spotify.com/track/2H2nV5UVlVGJV7GR0SpRsq) | [Kris Nicole](https://open.spotify.com/artist/0v0bzqf7pxvfdbVi5TGmiG) | [God's Not Done](https://open.spotify.com/album/6xr3bDg9Q3sHdV7El7EQAq) | 3:24 |
-| 213 | [Stay](https://open.spotify.com/track/7AYev376NUrJ1JaxmfhKyM) | [Andenix](https://open.spotify.com/artist/1vxk9sFXF2O4fUymcUUllP), [Josh Knox](https://open.spotify.com/artist/7ynWG75kdenNhClpJwwx4M) | [Stay](https://open.spotify.com/album/2tXewxcwpzvvZw7prXByPS) | 4:07 |
-| 214 | [Fade](https://open.spotify.com/track/1C9Wc3BTnDUHZk3GIkgbZN) | [The Economy](https://open.spotify.com/artist/0paX1HpZropGQVJ08G2WRG) | [The Early Hours](https://open.spotify.com/album/2gTjxjSENo91JkJRVRkhNK) | 5:10 |
-| 215 | [Heartache](https://open.spotify.com/track/1ANoywqSXzofnUGE2ZXENq) | [Lil JJ Reynolds](https://open.spotify.com/artist/6tOlcdCH7l4MwVW8EyHBDC) | [Heartache](https://open.spotify.com/album/0R8XSYdAgRsBc5saCdVQUl) | 3:12 |
+| 212 | [Mad](https://open.spotify.com/track/46QSgpK1ilvNKxXirTPY1f) | [Corbin Reynolds](https://open.spotify.com/artist/1q9iXPagwBsSkV5FS7SOvY) | [Uncomfortable](https://open.spotify.com/album/1eKIB13Le0mv5fzb4Ktxpe) | 3:59 |
+| 213 | [God's Not Done](https://open.spotify.com/track/2H2nV5UVlVGJV7GR0SpRsq) | [Kris Nicole](https://open.spotify.com/artist/0v0bzqf7pxvfdbVi5TGmiG) | [God's Not Done](https://open.spotify.com/album/6xr3bDg9Q3sHdV7El7EQAq) | 3:24 |
+| 214 | [Stay](https://open.spotify.com/track/7AYev376NUrJ1JaxmfhKyM) | [Andenix](https://open.spotify.com/artist/1vxk9sFXF2O4fUymcUUllP), [Josh Knox](https://open.spotify.com/artist/7ynWG75kdenNhClpJwwx4M) | [Stay](https://open.spotify.com/album/2tXewxcwpzvvZw7prXByPS) | 4:07 |
+| 215 | [Fade](https://open.spotify.com/track/1C9Wc3BTnDUHZk3GIkgbZN) | [The Economy](https://open.spotify.com/artist/0paX1HpZropGQVJ08G2WRG) | [The Early Hours](https://open.spotify.com/album/2gTjxjSENo91JkJRVRkhNK) | 5:10 |
+| 216 | [Heartache](https://open.spotify.com/track/1ANoywqSXzofnUGE2ZXENq) | [Lil JJ Reynolds](https://open.spotify.com/artist/6tOlcdCH7l4MwVW8EyHBDC) | [Heartache](https://open.spotify.com/album/0R8XSYdAgRsBc5saCdVQUl) | 3:12 |
 
-Snapshot ID: `AcSj0gAAAAC9Bm4oVM5+/teUjMcE/bsJ`
+Snapshot ID: `AcSpcgAAAABfg3TAooF7oP0SWm2/Rwxz`

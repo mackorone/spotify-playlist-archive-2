@@ -6,7 +6,7 @@
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAJ8DOz1DIAxO+S1TDwV9aHnzen1jaO",
+  "snapshot_id": "AAAJ+AlW224e9eqxieWZEp7QbkYe6jQ5",
   "tracks": [
     {
       "added_at": "2022-08-16 09:32:19",
@@ -39,6 +39,102 @@
       "duration_ms": 200937,
       "name": "Ci sarai",
       "url": "https://open.spotify.com/track/2aPyTgWlTIdhajHkrJpy5P"
+    },
+    {
+      "added_at": "2026-03-15 11:18:14",
+      "album": {
+        "name": "Implosi\u00f3n",
+        "url": "https://open.spotify.com/album/3rRQZEQ63Ss2zuGnLRQJfV"
+      },
+      "artists": [
+        {
+          "name": "Alisone",
+          "url": "https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5"
+        }
+      ],
+      "duration_ms": 225543,
+      "name": "Claridad",
+      "url": "https://open.spotify.com/track/5cJifL4P0gsUeBThG2aWPq"
+    },
+    {
+      "added_at": "2026-03-15 11:17:49",
+      "album": {
+        "name": "The Life of a Showgirl",
+        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 226073,
+      "name": "The Fate of Ophelia",
+      "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
+    },
+    {
+      "added_at": "2026-04-12 09:37:01",
+      "album": {
+        "name": "Autorretratos: Lo mejor de Antonio Vega",
+        "url": "https://open.spotify.com/album/6wzmaZsFYyRmnCLZTdLVaA"
+      },
+      "artists": [
+        {
+          "name": "Antonio Vega",
+          "url": "https://open.spotify.com/artist/0r4YtlmJPQk1xhiVKHuPeF"
+        }
+      ],
+      "duration_ms": 249560,
+      "name": "Se Dejaba Llevar Por Ti",
+      "url": "https://open.spotify.com/track/0nLeNYebvsmLRDbFlgioSb"
+    },
+    {
+      "added_at": "2026-04-12 09:36:50",
+      "album": {
+        "name": "Asincopado",
+        "url": "https://open.spotify.com/album/0eMSyUX3YPXapifVO6ANoU"
+      },
+      "artists": [
+        {
+          "name": "Alisone",
+          "url": "https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5"
+        }
+      ],
+      "duration_ms": 267652,
+      "name": "Asincopado",
+      "url": "https://open.spotify.com/track/5yAO854PtOR0ITzBhVaXD3"
+    },
+    {
+      "added_at": "2026-04-12 09:37:42",
+      "album": {
+        "name": "A Black Mile To The Surface",
+        "url": "https://open.spotify.com/album/4hruYceqit29o6m4arpAql"
+      },
+      "artists": [
+        {
+          "name": "Manchester Orchestra",
+          "url": "https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f"
+        }
+      ],
+      "duration_ms": 328933,
+      "name": "The Alien",
+      "url": "https://open.spotify.com/track/5eKfpH2dQ7FltCqb7LWEGJ"
+    },
+    {
+      "added_at": "2026-04-12 09:37:43",
+      "album": {
+        "name": "A New World Record",
+        "url": "https://open.spotify.com/album/7a35UzxXYuKQGMGImyB0Un"
+      },
+      "artists": [
+        {
+          "name": "Electric Light Orchestra",
+          "url": "https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk"
+        }
+      ],
+      "duration_ms": 279237,
+      "name": "Telephone Line",
+      "url": "https://open.spotify.com/track/3SPcBPzvbmWLl8NU5efx4W"
     },
     {
       "added_at": "2026-05-26 08:12:57",
@@ -6237,22 +6333,6 @@
       "url": "https://open.spotify.com/track/2muyzyWGVXjh3Y1FPFmgOt"
     },
     {
-      "added_at": "2024-03-10 12:16:10",
-      "album": {
-        "name": "Reggae Sunjam",
-        "url": "https://open.spotify.com/album/6kYiNLr72LY5Wdz98ArSi2"
-      },
-      "artists": [
-        {
-          "name": "Dub Riots",
-          "url": "https://open.spotify.com/artist/6vWME0LG8ntK5l6ktxQuzm"
-        }
-      ],
-      "duration_ms": 316000,
-      "name": "Morning Lights",
-      "url": "https://open.spotify.com/track/6GrN5hKVyHzVtrsml2FVbR"
-    },
-    {
       "added_at": "2024-03-10 12:16:38",
       "album": {
         "name": "Reggae Sunjam",
@@ -6267,6 +6347,22 @@
       "duration_ms": 235041,
       "name": "Uhuru",
       "url": "https://open.spotify.com/track/6OoZlWpxqGbIHHxXQhq7Qp"
+    },
+    {
+      "added_at": "2024-03-10 12:16:10",
+      "album": {
+        "name": "Reggae Sunjam",
+        "url": "https://open.spotify.com/album/6kYiNLr72LY5Wdz98ArSi2"
+      },
+      "artists": [
+        {
+          "name": "Dub Riots",
+          "url": "https://open.spotify.com/artist/6vWME0LG8ntK5l6ktxQuzm"
+        }
+      ],
+      "duration_ms": 316000,
+      "name": "Morning Lights",
+      "url": "https://open.spotify.com/track/6GrN5hKVyHzVtrsml2FVbR"
     },
     {
       "added_at": "2024-03-10 12:16:56",
@@ -34781,22 +34877,6 @@
       "url": "https://open.spotify.com/track/5NjudslnouGdwlYfJFyTU6"
     },
     {
-      "added_at": "2026-03-15 11:17:49",
-      "album": {
-        "name": "The Life of a Showgirl",
-        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 226073,
-      "name": "The Fate of Ophelia",
-      "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
-    },
-    {
       "added_at": "2026-03-15 11:17:48",
       "album": {
         "name": "Esfera",
@@ -35115,22 +35195,6 @@
       "duration_ms": 164331,
       "name": "Finding the Light",
       "url": "https://open.spotify.com/track/3NRF7WdmISMZDHqnQihJ1f"
-    },
-    {
-      "added_at": "2026-03-15 11:18:14",
-      "album": {
-        "name": "Implosi\u00f3n",
-        "url": "https://open.spotify.com/album/3rRQZEQ63Ss2zuGnLRQJfV"
-      },
-      "artists": [
-        {
-          "name": "Alisone",
-          "url": "https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5"
-        }
-      ],
-      "duration_ms": 225543,
-      "name": "Claridad",
-      "url": "https://open.spotify.com/track/5cJifL4P0gsUeBThG2aWPq"
     },
     {
       "added_at": "2026-03-15 11:18:14",
@@ -36449,22 +36513,6 @@
       "url": "https://open.spotify.com/track/03uH0apF6wQy3hWCwzbLjn"
     },
     {
-      "added_at": "2026-04-12 09:36:50",
-      "album": {
-        "name": "Asincopado",
-        "url": "https://open.spotify.com/album/0eMSyUX3YPXapifVO6ANoU"
-      },
-      "artists": [
-        {
-          "name": "Alisone",
-          "url": "https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5"
-        }
-      ],
-      "duration_ms": 267652,
-      "name": "Asincopado",
-      "url": "https://open.spotify.com/track/5yAO854PtOR0ITzBhVaXD3"
-    },
-    {
       "added_at": "2026-04-12 09:36:52",
       "album": {
         "name": "Esfera estelar",
@@ -36609,22 +36657,6 @@
       "url": "https://open.spotify.com/track/4Mnvy3IIhtdtLCInj1know"
     },
     {
-      "added_at": "2026-04-12 09:37:01",
-      "album": {
-        "name": "Autorretratos: Lo mejor de Antonio Vega",
-        "url": "https://open.spotify.com/album/6wzmaZsFYyRmnCLZTdLVaA"
-      },
-      "artists": [
-        {
-          "name": "Antonio Vega",
-          "url": "https://open.spotify.com/artist/0r4YtlmJPQk1xhiVKHuPeF"
-        }
-      ],
-      "duration_ms": 249560,
-      "name": "Se Dejaba Llevar Por Ti",
-      "url": "https://open.spotify.com/track/0nLeNYebvsmLRDbFlgioSb"
-    },
-    {
       "added_at": "2026-04-12 09:37:41",
       "album": {
         "name": "Tocar la lluvia",
@@ -36639,38 +36671,6 @@
       "duration_ms": 144965,
       "name": "Amanecer",
       "url": "https://open.spotify.com/track/2mbpjOVwM7dDfukfXmLjEI"
-    },
-    {
-      "added_at": "2026-04-12 09:37:42",
-      "album": {
-        "name": "A Black Mile To The Surface",
-        "url": "https://open.spotify.com/album/4hruYceqit29o6m4arpAql"
-      },
-      "artists": [
-        {
-          "name": "Manchester Orchestra",
-          "url": "https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f"
-        }
-      ],
-      "duration_ms": 328933,
-      "name": "The Alien",
-      "url": "https://open.spotify.com/track/5eKfpH2dQ7FltCqb7LWEGJ"
-    },
-    {
-      "added_at": "2026-04-12 09:37:43",
-      "album": {
-        "name": "A New World Record",
-        "url": "https://open.spotify.com/album/7a35UzxXYuKQGMGImyB0Un"
-      },
-      "artists": [
-        {
-          "name": "Electric Light Orchestra",
-          "url": "https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk"
-        }
-      ],
-      "duration_ms": 279237,
-      "name": "Telephone Line",
-      "url": "https://open.spotify.com/track/3SPcBPzvbmWLl8NU5efx4W"
     },
     {
       "added_at": "2026-04-12 09:37:43",
@@ -39655,6 +39655,182 @@
       "duration_ms": 226640,
       "name": "O Meri Jana",
       "url": "https://open.spotify.com/track/6JtzlQ3kRkfelRKK4NzpCk"
+    },
+    {
+      "added_at": "2026-05-27 07:45:45",
+      "album": {
+        "name": "Star Sibling",
+        "url": "https://open.spotify.com/album/3YUkHFSyk3XilT0plsZKG7"
+      },
+      "artists": [
+        {
+          "name": "Absorbingpersona",
+          "url": "https://open.spotify.com/artist/19vhCix1RBZqXR9PqKZXAo"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "Star Sibling",
+      "url": "https://open.spotify.com/track/3u9HcnzxRL7PZcxc0VUMRb"
+    },
+    {
+      "added_at": "2026-05-27 23:16:25",
+      "album": {
+        "name": "BRazznRAP",
+        "url": "https://open.spotify.com/album/1d17c5fo22LLQ9NWSAY6kP"
+      },
+      "artists": [
+        {
+          "name": "BRazznRAP",
+          "url": "https://open.spotify.com/artist/0opoUWwLkyZY9V0p5yXkFc"
+        }
+      ],
+      "duration_ms": 151370,
+      "name": "Mas N\u00e3o \u00c9",
+      "url": "https://open.spotify.com/track/6cu8m4kokg6YRpsIlWYLtr"
+    },
+    {
+      "added_at": "2026-05-27 23:16:25",
+      "album": {
+        "name": "BRazznRAP",
+        "url": "https://open.spotify.com/album/1d17c5fo22LLQ9NWSAY6kP"
+      },
+      "artists": [
+        {
+          "name": "BRazznRAP",
+          "url": "https://open.spotify.com/artist/0opoUWwLkyZY9V0p5yXkFc"
+        }
+      ],
+      "duration_ms": 207493,
+      "name": "Foco Na Miss\u00e3o",
+      "url": "https://open.spotify.com/track/0Ox0pp4LmlQQzUJ6mzNAih"
+    },
+    {
+      "added_at": "2026-05-27 23:16:25",
+      "album": {
+        "name": "BRazznRAP",
+        "url": "https://open.spotify.com/album/1d17c5fo22LLQ9NWSAY6kP"
+      },
+      "artists": [
+        {
+          "name": "BRazznRAP",
+          "url": "https://open.spotify.com/artist/0opoUWwLkyZY9V0p5yXkFc"
+        }
+      ],
+      "duration_ms": 142512,
+      "name": "Tudo Muda",
+      "url": "https://open.spotify.com/track/4v6ZEyy4Ukgku16VyIk9EF"
+    },
+    {
+      "added_at": "2026-05-27 23:16:25",
+      "album": {
+        "name": "BRazznRAP",
+        "url": "https://open.spotify.com/album/1d17c5fo22LLQ9NWSAY6kP"
+      },
+      "artists": [
+        {
+          "name": "BRazznRAP",
+          "url": "https://open.spotify.com/artist/0opoUWwLkyZY9V0p5yXkFc"
+        }
+      ],
+      "duration_ms": 165070,
+      "name": "PAMPA BEAT",
+      "url": "https://open.spotify.com/track/1g1ToiXCUBhd59Yz0uUTdg"
+    },
+    {
+      "added_at": "2026-05-27 23:16:25",
+      "album": {
+        "name": "BRazznRAP",
+        "url": "https://open.spotify.com/album/1d17c5fo22LLQ9NWSAY6kP"
+      },
+      "artists": [
+        {
+          "name": "BRazznRAP",
+          "url": "https://open.spotify.com/artist/0opoUWwLkyZY9V0p5yXkFc"
+        }
+      ],
+      "duration_ms": 166939,
+      "name": "Milonga RAP",
+      "url": "https://open.spotify.com/track/5NgksNuDrs6zXjUA5bxTtZ"
+    },
+    {
+      "added_at": "2026-05-27 23:16:25",
+      "album": {
+        "name": "BRazznRAP",
+        "url": "https://open.spotify.com/album/1d17c5fo22LLQ9NWSAY6kP"
+      },
+      "artists": [
+        {
+          "name": "BRazznRAP",
+          "url": "https://open.spotify.com/artist/0opoUWwLkyZY9V0p5yXkFc"
+        }
+      ],
+      "duration_ms": 215295,
+      "name": "Resist\u00eancia",
+      "url": "https://open.spotify.com/track/3gcvXOye62DOwe90G9Wpaz"
+    },
+    {
+      "added_at": "2026-05-27 23:16:25",
+      "album": {
+        "name": "BRazznRAP",
+        "url": "https://open.spotify.com/album/1d17c5fo22LLQ9NWSAY6kP"
+      },
+      "artists": [
+        {
+          "name": "BRazznRAP",
+          "url": "https://open.spotify.com/artist/0opoUWwLkyZY9V0p5yXkFc"
+        }
+      ],
+      "duration_ms": 215690,
+      "name": "Forest Jump",
+      "url": "https://open.spotify.com/track/2W7EnxQIRxI9hupQlrh2S0"
+    },
+    {
+      "added_at": "2026-05-27 23:16:25",
+      "album": {
+        "name": "BRazznRAP",
+        "url": "https://open.spotify.com/album/1d17c5fo22LLQ9NWSAY6kP"
+      },
+      "artists": [
+        {
+          "name": "BRazznRAP",
+          "url": "https://open.spotify.com/artist/0opoUWwLkyZY9V0p5yXkFc"
+        }
+      ],
+      "duration_ms": 195233,
+      "name": "A Mais de Cem",
+      "url": "https://open.spotify.com/track/2XwFNh4EqmDaYH5OlLdFb9"
+    },
+    {
+      "added_at": "2026-05-27 23:16:25",
+      "album": {
+        "name": "BRazznRAP",
+        "url": "https://open.spotify.com/album/1d17c5fo22LLQ9NWSAY6kP"
+      },
+      "artists": [
+        {
+          "name": "BRazznRAP",
+          "url": "https://open.spotify.com/artist/0opoUWwLkyZY9V0p5yXkFc"
+        }
+      ],
+      "duration_ms": 189498,
+      "name": "No Alto do Morro",
+      "url": "https://open.spotify.com/track/6KDYoFFNyhV6tvqJlPUiRU"
+    },
+    {
+      "added_at": "2026-05-27 23:16:25",
+      "album": {
+        "name": "BRazznRAP",
+        "url": "https://open.spotify.com/album/1d17c5fo22LLQ9NWSAY6kP"
+      },
+      "artists": [
+        {
+          "name": "BRazznRAP",
+          "url": "https://open.spotify.com/artist/0opoUWwLkyZY9V0p5yXkFc"
+        }
+      ],
+      "duration_ms": 139877,
+      "name": "Tambor",
+      "url": "https://open.spotify.com/track/1hiKFyb43retm8bO3MZvLK"
     }
   ],
   "unique_name": "forever young Playlist Spotify",

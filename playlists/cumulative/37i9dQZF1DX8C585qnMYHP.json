@@ -5752,7 +5752,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-28",
       "duration_ms": 344582,
       "name": "bring colour into my world",
       "url": "https://open.spotify.com/track/2yb38apuBUwNKwl66QvATH"
@@ -7552,7 +7552,7 @@
       ],
       "date_added": "2026-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-28",
       "duration_ms": 212840,
       "name": "Cloudmachine",
       "url": "https://open.spotify.com/track/30cMAIWhCQ6xH4oVDgJxbA"
@@ -10005,6 +10005,36 @@
     },
     {
       "album": {
+        "name": "Maniac Maison",
+        "url": "https://open.spotify.com/album/7oVNvh5oCBt6ukhF7KDQ8A"
+      },
+      "artists": [
+        {
+          "name": "Maniac Maison",
+          "url": "https://open.spotify.com/artist/0XEn02WmKNdgoJJ8xMiXWw"
+        },
+        {
+          "name": "Lucien Fraipont",
+          "url": "https://open.spotify.com/artist/5xlV2sksUvgv2ZgWEdRjbY"
+        },
+        {
+          "name": "Shoko Igarashi",
+          "url": "https://open.spotify.com/artist/0rhogygCtWJLauB3rYvQsK"
+        },
+        {
+          "name": "Casimir Liberski",
+          "url": "https://open.spotify.com/artist/3rvT6hIhacQRDl1STJ2rTT"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192720,
+      "name": "Dora Neko",
+      "url": "https://open.spotify.com/track/3s6pOKYVVQow6p5Y9nTcW9"
+    },
+    {
+      "album": {
         "name": "Dot",
         "url": "https://open.spotify.com/album/6xvkmv9aiJ5FMEe9ASa9tE"
       },
@@ -10580,7 +10610,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-28",
       "duration_ms": 414649,
       "name": "Eating The Other",
       "url": "https://open.spotify.com/track/2ZU1XgkWZN7jkWuI3VPvZd"
@@ -15174,6 +15204,32 @@
       "duration_ms": 308575,
       "name": "hairdye",
       "url": "https://open.spotify.com/track/4w1loRCD8PBarpXj5v0Ugu"
+    },
+    {
+      "album": {
+        "name": "Lucent Loops, Vol. 1",
+        "url": "https://open.spotify.com/album/5cB1J3ezGGz2s0yruJ3ocr"
+      },
+      "artists": [
+        {
+          "name": "Tim Lucent",
+          "url": "https://open.spotify.com/artist/7C0HZ7s8NNv8OCx1vtPLTD"
+        },
+        {
+          "name": "Kristos",
+          "url": "https://open.spotify.com/artist/23n0Uf0blk1iwPWwERl5wR"
+        },
+        {
+          "name": "Mona Matsuoka",
+          "url": "https://open.spotify.com/artist/3TSCWDqniTlt2dREiDwwMh"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276060,
+      "name": "Haky\u014d No Kiki",
+      "url": "https://open.spotify.com/track/2a337CWgpE7ZtApCIlT7h6"
     },
     {
       "album": {
@@ -23414,7 +23470,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-28",
       "duration_ms": 314590,
       "name": "Mrzy 2 - Stone Mix",
       "url": "https://open.spotify.com/track/6VWzDlMg5tMjR71m1Db5S8"
@@ -25062,6 +25118,28 @@
       "duration_ms": 192000,
       "name": "nothing's ever enough",
       "url": "https://open.spotify.com/track/3xuhhCYvXbh6Wy1odwzk16"
+    },
+    {
+      "album": {
+        "name": "notime\u2026youshouldbeaskingmeout",
+        "url": "https://open.spotify.com/album/3thIn4T4XksDxTHEU1rExU"
+      },
+      "artists": [
+        {
+          "name": "finnj\u00e4vel",
+          "url": "https://open.spotify.com/artist/5YQtvxTvGSShjMTOMyCuPT"
+        },
+        {
+          "name": "GRANT",
+          "url": "https://open.spotify.com/artist/6SkVKlAmIWVD0LQvCGQqSj"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139354,
+      "name": "notime\u2026",
+      "url": "https://open.spotify.com/track/6qL1c0iuEhxV8a1Rt1l3ww"
     },
     {
       "album": {
@@ -26968,7 +27046,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-28",
       "duration_ms": 240000,
       "name": "Pixelated",
       "url": "https://open.spotify.com/track/1W3ZDPkQuCHT22Yr3sXO1J"
@@ -29512,6 +29590,24 @@
       "duration_ms": 308000,
       "name": "Roygbiv",
       "url": "https://open.spotify.com/track/06teMXvgw1V8HP3wIfoMUm"
+    },
+    {
+      "album": {
+        "name": "Rubbing",
+        "url": "https://open.spotify.com/album/4vZ3vbhSoEf4dtQpcX3yf7"
+      },
+      "artists": [
+        {
+          "name": "Surusinghe",
+          "url": "https://open.spotify.com/artist/7m5jnraNhVbxMZ7B8FvCSe"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335665,
+      "name": "Rubbing",
+      "url": "https://open.spotify.com/track/4miQKb9E3kVOFwHXcqfDxv"
     },
     {
       "album": {
@@ -41032,6 +41128,24 @@
       "duration_ms": 453190,
       "name": "You told me you love running so I started to run too",
       "url": "https://open.spotify.com/track/0SXOuHsgTkrCHB3RBCFioo"
+    },
+    {
+      "album": {
+        "name": "You'll Never Get The Same Moment Twice",
+        "url": "https://open.spotify.com/album/4roq27bl0Iz3zGLKqxx6at"
+      },
+      "artists": [
+        {
+          "name": "Cut Face",
+          "url": "https://open.spotify.com/artist/6ePW2VRCCUcvTreIndzgiF"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236230,
+      "name": "You'll Never Get The Same Moment Twice",
+      "url": "https://open.spotify.com/track/1nmZv1cDqbtPuF8CU9arc9"
     },
     {
       "album": {

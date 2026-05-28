@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQZiyOrknvy8.md) - [plain]
 | 79 | [Sag nicht sorry](https://open.spotify.com/track/5ibvn5zdOFkPvbszDbW9V1) | [LEA](https://open.spotify.com/artist/5Yo5iU2nf4H41waPl4ZnS1) | [Fluss](https://open.spotify.com/album/1F46k12341LHQGIFlMjop4) | 2:26 |
 | 80 | [Changed](https://open.spotify.com/track/3vQ1PkxYEooDh4IS6MnfKi) | [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [Nico Santos](https://open.spotify.com/album/51LrCn7WwuMfGwQufI1Esl) | 3:42 |
 | 81 | [Easy](https://open.spotify.com/track/7zIAOOs39Z7913Off5G7FD) | [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [Nico Santos](https://open.spotify.com/album/51LrCn7WwuMfGwQufI1Esl) | 3:08 |
-| 82 | [scared](https://open.spotify.com/track/69pDGXAeiBbqpjD43GJko2) | [Lena](https://open.spotify.com/artist/5slpk6nu2IwwKx0EHe3GcL) | [Only Love, L \(More Love Edition\)](https://open.spotify.com/album/0wNhZkLrI9nBQMyT9sjiBK) | 3:15 |
-| 83 | [Fruto do Tempo](https://open.spotify.com/track/1cFg4Gt6DLHOKm8Iya0kBQ) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [BRUTAL PARAÍSO](https://open.spotify.com/album/3MhU6GRGIRgdjoDgltogAQ) | 4:04 |
+| 82 | [Fruto do Tempo](https://open.spotify.com/track/1cFg4Gt6DLHOKm8Iya0kBQ) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [BRUTAL PARAÍSO](https://open.spotify.com/album/3MhU6GRGIRgdjoDgltogAQ) | 4:04 |
+| 83 | [scared](https://open.spotify.com/track/69pDGXAeiBbqpjD43GJko2) | [Lena](https://open.spotify.com/artist/5slpk6nu2IwwKx0EHe3GcL) | [Only Love, L \(More Love Edition\)](https://open.spotify.com/album/0wNhZkLrI9nBQMyT9sjiBK) | 3:15 |
 | 84 | [Alone](https://open.spotify.com/track/0xda5IoHwLOv7BnHLBCrL7) | [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [Would I Lie To You](https://open.spotify.com/album/0P6xcRS8cRFlUDcXtt75Yi) | 3:10 |
 | 85 | [Make Me Feel](https://open.spotify.com/track/4KVBeC6lATNcjhMZOEhNU6) | [RANE](https://open.spotify.com/artist/4XXpC48bL6E032lJw4aSFz) | [Make Me Feel](https://open.spotify.com/album/7DZYLx34GtrykF4m9MsotB) | 2:09 |
 | 86 | [Blame It On The Mistletoe](https://open.spotify.com/track/5Ca8fgOIaUW9Hl11AGc2v3) | [Sarah Connor](https://open.spotify.com/artist/7e52Ytzjj1q71DUj2cSlch) | [Not So Silent Night](https://open.spotify.com/album/6t4rpCpCZ5oKvSUADZUGHC) | 2:28 |
@@ -167,4 +167,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQZiyOrknvy8.md) - [plain]
 | 157 | [Fliegen](https://open.spotify.com/track/1vlSFUZcOHEbotxb1BPVMx) | [Julian Williams](https://open.spotify.com/artist/6dZcFNvJUa9yTkEF1mG3NY) | [5 EP](https://open.spotify.com/album/7tG6m07jxmMFaqBpVRDXxO) | 3:53 |
 | 158 | [Playlist](https://open.spotify.com/track/2eLkiZOJ0xevCWgAvfgJGP) | [Feel Glück](https://open.spotify.com/artist/3wgEyEndxjMfRILKuvqihv), [Arend Peter Kraus](https://open.spotify.com/artist/2BOd9SVFrYP7OpAQmAUf3n) | [Playlist](https://open.spotify.com/album/6cgZXJJFgzMwL6kiyQeVv7) | 3:54 |
 
-Snapshot ID: `AcSj0gAAAACpyxkKK49n5nnBriQwXYi1`
+Snapshot ID: `AcSpcgAAAAB5jTgHZmu3kP+GHN9jbj8X`

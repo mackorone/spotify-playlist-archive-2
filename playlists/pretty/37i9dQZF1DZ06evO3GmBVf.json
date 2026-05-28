@@ -1,12 +1,12 @@
 {
   "description": "This is Lefty Sm. The essential tracks, all in one playlist.",
-  "num_followers": 215847,
+  "num_followers": 215868,
   "original_name": "This Is Lefty Sm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahORAAAAAADy2+6IFgIjEkLIQdnt6WN9",
+  "snapshot_id": "ahTigAAAAABq1N8RqZ2HPJ2Y+b/1mjSP",
   "tracks": [
     {
       "added_at": null,
@@ -579,8 +579,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ahora Es Diferente",
-        "url": "https://open.spotify.com/album/6RLa16uDQO8vSQ3VN9RWo6"
+        "name": "No Para",
+        "url": "https://open.spotify.com/album/182ycTI0yqFAoQMJ64M43N"
       },
       "artists": [
         {
@@ -588,9 +588,9 @@
           "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
         }
       ],
-      "duration_ms": 279642,
-      "name": "Ahora Es Diferente",
-      "url": "https://open.spotify.com/track/6tST0LckVOXThIgappR0qk"
+      "duration_ms": 198582,
+      "name": "No Para",
+      "url": "https://open.spotify.com/track/3KrZWBY3Zo1HWNFSkG8on5"
     },
     {
       "added_at": null,
@@ -615,8 +615,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Para",
-        "url": "https://open.spotify.com/album/182ycTI0yqFAoQMJ64M43N"
+        "name": "Ahora Es Diferente",
+        "url": "https://open.spotify.com/album/6RLa16uDQO8vSQ3VN9RWo6"
       },
       "artists": [
         {
@@ -624,25 +624,9 @@
           "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
         }
       ],
-      "duration_ms": 198582,
-      "name": "No Para",
-      "url": "https://open.spotify.com/track/3KrZWBY3Zo1HWNFSkG8on5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Misma Bandera",
-        "url": "https://open.spotify.com/album/4BchMOSQZkIWEkY9G5lZ6e"
-      },
-      "artists": [
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 221096,
-      "name": "La Misma Bandera",
-      "url": "https://open.spotify.com/track/03BF74w1BbBJXQvJKVElYe"
+      "duration_ms": 279642,
+      "name": "Ahora Es Diferente",
+      "url": "https://open.spotify.com/track/6tST0LckVOXThIgappR0qk"
     },
     {
       "added_at": null,
@@ -659,6 +643,22 @@
       "duration_ms": 188125,
       "name": "Nada Es Perfecto",
       "url": "https://open.spotify.com/track/0qn3qZwkLKB6zelSSdUUX9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Misma Bandera",
+        "url": "https://open.spotify.com/album/4BchMOSQZkIWEkY9G5lZ6e"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 221096,
+      "name": "La Misma Bandera",
+      "url": "https://open.spotify.com/track/03BF74w1BbBJXQvJKVElYe"
     },
     {
       "added_at": null,
@@ -835,6 +835,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Necesidad",
+        "url": "https://open.spotify.com/album/7iSPRgLrTrRr7Ed5W2tws6"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "duration_ms": 227000,
+      "name": "Est\u00e1 Caliente",
+      "url": "https://open.spotify.com/track/40q3AqR9WiKOTlA79Iyv9h"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Shit Masiva",
         "url": "https://open.spotify.com/album/78JJr4jPxcdU5fTQK2NN78"
       },
@@ -855,22 +875,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Necesidad",
-        "url": "https://open.spotify.com/album/7iSPRgLrTrRr7Ed5W2tws6"
+        "name": "Me Sali\u00f3 Caro",
+        "url": "https://open.spotify.com/album/452UvA8ezntpnKuferwxay"
       },
       "artists": [
         {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+          "name": "Toser One",
+          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
         },
         {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
         }
       ],
-      "duration_ms": 227000,
-      "name": "Est\u00e1 Caliente",
-      "url": "https://open.spotify.com/track/40q3AqR9WiKOTlA79Iyv9h"
+      "duration_ms": 177312,
+      "name": "Me Sali\u00f3 Caro",
+      "url": "https://open.spotify.com/track/2lj7jB5D4OuurRaynHAW8y"
     },
     {
       "added_at": null,
@@ -907,26 +927,6 @@
       "duration_ms": 202500,
       "name": "El Fiest\u00f3n",
       "url": "https://open.spotify.com/track/4Vjn04mr4e3VMw5fbO2EVP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Me Sali\u00f3 Caro",
-        "url": "https://open.spotify.com/album/452UvA8ezntpnKuferwxay"
-      },
-      "artists": [
-        {
-          "name": "Toser One",
-          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
-        },
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 177312,
-      "name": "Me Sali\u00f3 Caro",
-      "url": "https://open.spotify.com/track/2lj7jB5D4OuurRaynHAW8y"
     },
     {
       "added_at": null,

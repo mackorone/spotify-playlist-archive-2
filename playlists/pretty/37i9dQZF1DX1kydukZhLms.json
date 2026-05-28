@@ -1,6 +1,6 @@
 {
   "description": "Throw your lighters in the air and wave them like you don't care. Cover: Guns N' Roses",
-  "num_followers": 1553816,
+  "num_followers": 1553943,
   "original_name": "Heavy Ballads",
   "owner": {
     "name": "Spotify",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2026-01-09 05:00:22",
       "album": {
+        "name": "Gutter Ballet (2011 Edition)",
+        "url": "https://open.spotify.com/album/6zMeDffPrKyYSBf9AuyTIF"
+      },
+      "artists": [
+        {
+          "name": "Savatage",
+          "url": "https://open.spotify.com/artist/3N1B1g6JtIgd6ClRkzD4yT"
+        }
+      ],
+      "duration_ms": 346333,
+      "name": "When the Crowds Are Gone",
+      "url": "https://open.spotify.com/track/6uQ15UwuRKIgUJQakgkYtZ"
+    },
+    {
+      "added_at": "2026-01-09 05:00:22",
+      "album": {
         "name": "Platinum & Gold Collection",
         "url": "https://open.spotify.com/album/0WFtnE2BmgSTsnbAaBXQ3o"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 282466,
       "name": "Close My Eyes Forever",
       "url": "https://open.spotify.com/track/6JYU4r8D2EwW4eP7ZeUGPa"
-    },
-    {
-      "added_at": "2026-01-09 05:00:22",
-      "album": {
-        "name": "Gutter Ballet (2011 Edition)",
-        "url": "https://open.spotify.com/album/6zMeDffPrKyYSBf9AuyTIF"
-      },
-      "artists": [
-        {
-          "name": "Savatage",
-          "url": "https://open.spotify.com/artist/3N1B1g6JtIgd6ClRkzD4yT"
-        }
-      ],
-      "duration_ms": 346333,
-      "name": "When the Crowds Are Gone",
-      "url": "https://open.spotify.com/track/6uQ15UwuRKIgUJQakgkYtZ"
     },
     {
       "added_at": "2026-01-09 05:00:22",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2026-01-09 05:00:22",
       "album": {
-        "name": "Classic Rock",
-        "url": "https://open.spotify.com/album/4m0tVQEuO296yPLtRQBOV2"
-      },
-      "artists": [
-        {
-          "name": "Poison",
-          "url": "https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo"
-        }
-      ],
-      "duration_ms": 261160,
-      "name": "Every Rose Has Its Thorn",
-      "url": "https://open.spotify.com/track/6Gml48n88YBzYkuosKIXIX"
-    },
-    {
-      "added_at": "2026-01-09 05:00:22",
-      "album": {
         "name": "Streets - A Rock Opera (2011 Edition)",
         "url": "https://open.spotify.com/album/5bMMMSrjV78gkbhxarBbWT"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 342426,
       "name": "Believe",
       "url": "https://open.spotify.com/track/6jCA4rJ4caeRuyTxvf9UvA"
+    },
+    {
+      "added_at": "2026-01-09 05:00:22",
+      "album": {
+        "name": "Classic Rock",
+        "url": "https://open.spotify.com/album/4m0tVQEuO296yPLtRQBOV2"
+      },
+      "artists": [
+        {
+          "name": "Poison",
+          "url": "https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo"
+        }
+      ],
+      "duration_ms": 261160,
+      "name": "Every Rose Has Its Thorn",
+      "url": "https://open.spotify.com/track/6Gml48n88YBzYkuosKIXIX"
     },
     {
       "added_at": "2026-01-09 05:00:22",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2026-01-09 05:00:22",
       "album": {
-        "name": "Machine Head (Remastered)",
-        "url": "https://open.spotify.com/album/32NQ56VZDTXSH3SMv4XSGN"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 209246,
-      "name": "When A Blind Man Cries - Remastered",
-      "url": "https://open.spotify.com/track/0JtcFIgrkSagrM5JdFakeO"
-    },
-    {
-      "added_at": "2026-01-09 05:00:22",
-      "album": {
         "name": "Hair of the Dog",
         "url": "https://open.spotify.com/album/5naYBHiMro7E0MVPmhhYHP"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 232120,
       "name": "Love Hurts - Single Edit",
       "url": "https://open.spotify.com/track/5g1rzUEyVFNr2i4ifEjlVN"
+    },
+    {
+      "added_at": "2026-01-09 05:00:22",
+      "album": {
+        "name": "Machine Head (Remastered)",
+        "url": "https://open.spotify.com/album/32NQ56VZDTXSH3SMv4XSGN"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 209246,
+      "name": "When A Blind Man Cries - Remastered",
+      "url": "https://open.spotify.com/track/0JtcFIgrkSagrM5JdFakeO"
     },
     {
       "added_at": "2026-01-09 05:00:22",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2026-01-09 05:00:22",
       "album": {
-        "name": "Slave to the Grind",
-        "url": "https://open.spotify.com/album/0AiXcZbksZoX2pSe2384Z3"
-      },
-      "artists": [
-        {
-          "name": "Skid Row",
-          "url": "https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg"
-        }
-      ],
-      "duration_ms": 235066,
-      "name": "In a Darkened Room",
-      "url": "https://open.spotify.com/track/4WwWjFCyvUY2fcx8OULByB"
-    },
-    {
-      "added_at": "2026-01-09 05:00:22",
-      "album": {
         "name": "In The Heart Of The Young",
         "url": "https://open.spotify.com/album/2P5MIQaEXsyDtiXXChyijs"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 252866,
       "name": "Miles Away",
       "url": "https://open.spotify.com/track/3Bzh1AtiViTIaZV6yqySZH"
+    },
+    {
+      "added_at": "2026-01-09 05:00:22",
+      "album": {
+        "name": "Slave to the Grind",
+        "url": "https://open.spotify.com/album/0AiXcZbksZoX2pSe2384Z3"
+      },
+      "artists": [
+        {
+          "name": "Skid Row",
+          "url": "https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg"
+        }
+      ],
+      "duration_ms": 235066,
+      "name": "In a Darkened Room",
+      "url": "https://open.spotify.com/track/4WwWjFCyvUY2fcx8OULByB"
     },
     {
       "added_at": "2026-01-09 05:00:22",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2026-01-09 05:00:22",
       "album": {
+        "name": "Vol. 4 (2009 Remastered Version)",
+        "url": "https://open.spotify.com/album/3iRW4cZOM90lX9Rtc2Qglh"
+      },
+      "artists": [
+        {
+          "name": "Black Sabbath",
+          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+        }
+      ],
+      "duration_ms": 282493,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/4MpIwDaZdFLafMDcAx4k4q"
+    },
+    {
+      "added_at": "2026-01-09 05:00:22",
+      "album": {
         "name": "Mass Slaughter",
         "url": "https://open.spotify.com/album/1PLl8ONmplOUyu5Bq8GYJL"
       },
@@ -1631,22 +1647,6 @@
       "duration_ms": 270186,
       "name": "Without You",
       "url": "https://open.spotify.com/track/2zjvTdpUoMpxNIY6e7jKOi"
-    },
-    {
-      "added_at": "2026-01-09 05:00:22",
-      "album": {
-        "name": "Get A Grip (Reissue - Remaster)",
-        "url": "https://open.spotify.com/album/6BZNF93Ac0zqWD1n9TgFOq"
-      },
-      "artists": [
-        {
-          "name": "Aerosmith",
-          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
-        }
-      ],
-      "duration_ms": 356160,
-      "name": "Amazing",
-      "url": "https://open.spotify.com/track/2YswrtCvqzD5k8AWT7irnS"
     }
   ],
   "unique_name": "Heavy Ballads",

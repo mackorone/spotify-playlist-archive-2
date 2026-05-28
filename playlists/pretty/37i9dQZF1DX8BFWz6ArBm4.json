@@ -1,6 +1,6 @@
 {
   "description": "\u039a\u03b1\u03c4\u03b5\u03c5\u03b8\u03b5\u03af\u03b1\u03bd \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03c0\u03af\u03c3\u03c4\u03b1, \u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03bb\u03b1\u03ca\u03ba\u03ac \u03c4\u03c1\u03b1\u03b3\u03bf\u03cd\u03b4\u03b9\u03b1 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bfr: Despina Vandi",
-  "num_followers": 39022,
+  "num_followers": 39016,
   "original_name": "Laika tou Simera",
   "owner": {
     "name": "Spotify",
@@ -419,22 +419,6 @@
     {
       "added_at": "2026-05-21 21:01:07",
       "album": {
-        "name": "Deutera",
-        "url": "https://open.spotify.com/album/09QOrsNfrqiAkgiiOewiOC"
-      },
-      "artists": [
-        {
-          "name": "Antonis Remos",
-          "url": "https://open.spotify.com/artist/6s26Q38Zqc4hY3xe7jrEBG"
-        }
-      ],
-      "duration_ms": 240222,
-      "name": "Deutera",
-      "url": "https://open.spotify.com/track/3LOXEAe5FMR1PRKiHAp9wt"
-    },
-    {
-      "added_at": "2026-05-21 21:01:07",
-      "album": {
         "name": "KABANES",
         "url": "https://open.spotify.com/album/0g2UZJiNLO78UIby2ZJzVf"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 165328,
       "name": "KABANES",
       "url": "https://open.spotify.com/track/369kX7fbtHY20flzXt0m37"
+    },
+    {
+      "added_at": "2026-05-21 21:01:07",
+      "album": {
+        "name": "Deutera",
+        "url": "https://open.spotify.com/album/09QOrsNfrqiAkgiiOewiOC"
+      },
+      "artists": [
+        {
+          "name": "Antonis Remos",
+          "url": "https://open.spotify.com/artist/6s26Q38Zqc4hY3xe7jrEBG"
+        }
+      ],
+      "duration_ms": 240222,
+      "name": "Deutera",
+      "url": "https://open.spotify.com/track/3LOXEAe5FMR1PRKiHAp9wt"
     },
     {
       "added_at": "2026-05-21 21:01:07",
@@ -799,22 +799,6 @@
     {
       "added_at": "2026-05-21 21:01:07",
       "album": {
-        "name": "Katamata",
-        "url": "https://open.spotify.com/album/42t8tYGPuZorC82akH5eFS"
-      },
-      "artists": [
-        {
-          "name": "Thodoris Ferris",
-          "url": "https://open.spotify.com/artist/3JiKtJqdJ3qUhJRphJk1cT"
-        }
-      ],
-      "duration_ms": 280676,
-      "name": "Katamata",
-      "url": "https://open.spotify.com/track/4gizfKGSprKyQgYgwX6BYS"
-    },
-    {
-      "added_at": "2026-05-21 21:01:07",
-      "album": {
         "name": "De Ginetai",
         "url": "https://open.spotify.com/album/1zovJXe2QfUD6DjE58zNDm"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 202615,
       "name": "De Ginetai",
       "url": "https://open.spotify.com/track/0qE3a0JDePYhl0ml3Dy1oe"
+    },
+    {
+      "added_at": "2026-05-21 21:01:07",
+      "album": {
+        "name": "Katamata",
+        "url": "https://open.spotify.com/album/42t8tYGPuZorC82akH5eFS"
+      },
+      "artists": [
+        {
+          "name": "Thodoris Ferris",
+          "url": "https://open.spotify.com/artist/3JiKtJqdJ3qUhJRphJk1cT"
+        }
+      ],
+      "duration_ms": 280676,
+      "name": "Katamata",
+      "url": "https://open.spotify.com/track/4gizfKGSprKyQgYgwX6BYS"
     },
     {
       "added_at": "2026-05-21 21:01:07",

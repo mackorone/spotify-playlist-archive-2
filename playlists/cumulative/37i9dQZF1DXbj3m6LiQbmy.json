@@ -2603,6 +2603,28 @@
     },
     {
       "album": {
+        "name": "SCORPIONE",
+        "url": "https://open.spotify.com/album/0Fh9y5aOLOQ4xDlgw498eo"
+      },
+      "artists": [
+        {
+          "name": "AIELLO",
+          "url": "https://open.spotify.com/artist/5bxbPQo0VkFgZKemF0YKb4"
+        },
+        {
+          "name": "ANTONIA",
+          "url": "https://open.spotify.com/artist/7FHXOCS4B6dXsf5x3KmRr0"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154572,
+      "name": "FIAMMIFERI (feat. ANTONIA)",
+      "url": "https://open.spotify.com/track/2GnoZvHQ7mNEljUvInZXpE"
+    },
+    {
+      "album": {
         "name": "FINIMONDO",
         "url": "https://open.spotify.com/album/5v0DjHceNOVZGIqtNzR8i2"
       },

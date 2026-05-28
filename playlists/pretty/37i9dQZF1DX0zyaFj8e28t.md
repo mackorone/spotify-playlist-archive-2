@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0zyaFj8e28t.md) - [plain]
 
 > Les plus grands tubes français des années 80\. Photo : France Gall
 
-[Spotify](https://open.spotify.com/user/spotify) - 405,151 likes - 50 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 405,173 likes - 50 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0zyaFj8e28t.md) - [plain]
 | 49 | [Tombé pour la France \- Version maximum](https://open.spotify.com/track/5DlrHsAjvzsR1z4vOLZPN3) | [Étienne Daho](https://open.spotify.com/artist/5aDKJuLDczfmHfRSOmHCJk) | [Tombé pour la France](https://open.spotify.com/album/16kl4uJMSvFCfiyBl2cXFv) | 6:30 |
 | 50 | [Mélissa](https://open.spotify.com/track/4YkRb6KIi03YSfGuTDJrZG) | [Julien Clerc](https://open.spotify.com/artist/7gVzeNvBbUpj6PXX5ekCMs) | [A Rendez\-Vous With Julien Clerc](https://open.spotify.com/album/1BBkJnf0MLDGRcMzEsal7C) | 3:00 |
 
-Snapshot ID: `AAAAACzUIKW3cCl+A+e/TnwEPeMXK49h`
+Snapshot ID: `AAAAAFEuN5VnO3be9ztDZVc8zIl2Emeb`

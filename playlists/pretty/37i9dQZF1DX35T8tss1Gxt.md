@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35T8tss1Gxt.md) - [plain]
 
 > Where faith meets R&B\. Cover: Tori Kelly
 
-[Spotify](https://open.spotify.com/user/spotify) - 279,195 likes - 75 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 279,388 likes - 75 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35T8tss1Gxt.md) - [plain]
 | 74 | [LET ME DOWN](https://open.spotify.com/track/24DvqkVz0xTfevjGTLTd5v) | [SIV](https://open.spotify.com/artist/5DeEX83cpOKEtktSqyB5jX) | [LET ME DOWN](https://open.spotify.com/album/2hJqKzdARQb8X0avjxZgV9) | 3:49 |
 | 75 | [Teach Me How To Wait](https://open.spotify.com/track/0utx4J2JDyOiExE0i0TOzR) | [Samantha Howard](https://open.spotify.com/artist/1xVJbLzjmb2cidpt7jZvmR) | [Teach Me How To Wait](https://open.spotify.com/album/04cOW9hx1KEr0ezsKwM7gE) | 2:30 |
 
-Snapshot ID: `AAAAANn96W4i7pujej8J3YqxVJFOCVeK`
+Snapshot ID: `AAAAANAUIxQrFgvSxv5RM+Gi9mwJtcv7`

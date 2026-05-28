@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels in India. Cover - Kuhu Gracia",
+  "description": "The best new music by independent artists and labels in India. Cover - Bawari Basanti ",
   "name": "Fresh Finds India",
   "tracks": [
     {
@@ -6566,6 +6566,28 @@
       "duration_ms": 253000,
       "name": "Cry For You",
       "url": "https://open.spotify.com/track/1T2pnp74o3kbvT4zhyojAy"
+    },
+    {
+      "album": {
+        "name": "Daag.",
+        "url": "https://open.spotify.com/album/5xw4ODck9IkU2dyU61c1oh"
+      },
+      "artists": [
+        {
+          "name": "Rushil Aswal",
+          "url": "https://open.spotify.com/artist/0rqe1wzJ7s8JGTOaWWBUol"
+        },
+        {
+          "name": "Arvasu",
+          "url": "https://open.spotify.com/artist/3LX5BPt6NlNqtlYKtgELpm"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226043,
+      "name": "Daag.",
+      "url": "https://open.spotify.com/track/3JQcP0Lf3FkVIP758wdkMX"
     },
     {
       "album": {
@@ -24840,7 +24862,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-28",
       "duration_ms": 166840,
       "name": "NOT A ROCKSTAR",
       "url": "https://open.spotify.com/track/3A8cLBzIsB5iIr8Byu5eqE"
@@ -28954,7 +28976,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-28",
       "duration_ms": 153333,
       "name": "Saajna",
       "url": "https://open.spotify.com/track/6pZa09ix3b8neGcd2npWVx"
@@ -30556,6 +30578,24 @@
       "duration_ms": 440727,
       "name": "Secret Garden",
       "url": "https://open.spotify.com/track/6ltwTdMxuFvPLPYMOTFqLN"
+    },
+    {
+      "album": {
+        "name": "Wahh",
+        "url": "https://open.spotify.com/album/1Dp4p1MR8ygBdJajznnIAo"
+      },
+      "artists": [
+        {
+          "name": "Bawari Basanti",
+          "url": "https://open.spotify.com/artist/4SroVVRKitVKrlYdV5Ulf8"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263570,
+      "name": "Seekh",
+      "url": "https://open.spotify.com/track/1D0Kpfdafedi0GGALpvCLF"
     },
     {
       "album": {

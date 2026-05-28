@@ -1,12 +1,12 @@
 {
   "description": "The best new independent songs. New tracks every month.",
-  "num_followers": 1312,
+  "num_followers": 1313,
   "original_name": "New Indie Music",
   "owner": {
     "name": "Monnison",
     "url": "https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss"
   },
-  "snapshot_id": "AAAUYRc/EBeP056XJdme67+GiAnCAykt",
+  "snapshot_id": "AAAUahPzjWj0g+ghrrGwAi1gYBCAQAYW",
   "tracks": [
     {
       "added_at": "2026-05-07 22:07:00",
@@ -3067,6 +3067,150 @@
       "duration_ms": 227004,
       "name": "Paper Crown",
       "url": "https://open.spotify.com/track/01LrJl6lx46YyYuCOru9hu"
+    },
+    {
+      "added_at": "2026-05-27 12:53:19",
+      "album": {
+        "name": "WOOF-WOOF My Truest Friend",
+        "url": "https://open.spotify.com/album/2o9wG2ZkdWwEkuXo2F8IAD"
+      },
+      "artists": [
+        {
+          "name": "Crazy Trottles",
+          "url": "https://open.spotify.com/artist/6N3TSJcbEEqiHeiv6qqFxz"
+        }
+      ],
+      "duration_ms": 144519,
+      "name": "WOOF-WOOF My Truest Friend",
+      "url": "https://open.spotify.com/track/1Oa9mVDXZ71lxPEmOoUrXA"
+    },
+    {
+      "added_at": "2026-05-27 12:53:21",
+      "album": {
+        "name": "STAY",
+        "url": "https://open.spotify.com/album/3ghZ2pfaJopEulfq0zcmD6"
+      },
+      "artists": [
+        {
+          "name": "Mizumi Hanako",
+          "url": "https://open.spotify.com/artist/0YIaBn2xawhZU41y6Qw8Ni"
+        }
+      ],
+      "duration_ms": 141781,
+      "name": "STAY",
+      "url": "https://open.spotify.com/track/2UmPJzhl1hzMVglunWdXj7"
+    },
+    {
+      "added_at": "2026-05-27 12:53:21",
+      "album": {
+        "name": "The Echo Before Silence",
+        "url": "https://open.spotify.com/album/7hzqu2YIVcSoWESFu7MZuS"
+      },
+      "artists": [
+        {
+          "name": "RobbaDucky",
+          "url": "https://open.spotify.com/artist/5vtsB8HiuKkRFCupJmw90I"
+        }
+      ],
+      "duration_ms": 184473,
+      "name": "The Echo Before Silence",
+      "url": "https://open.spotify.com/track/3mRYyAVrQMvJ7jMV9IOjbC"
+    },
+    {
+      "added_at": "2026-05-27 12:53:22",
+      "album": {
+        "name": "Chemical",
+        "url": "https://open.spotify.com/album/2dcxhcMzXkp4dWpmuInz06"
+      },
+      "artists": [
+        {
+          "name": "JUMPP MUSIC",
+          "url": "https://open.spotify.com/artist/6sopoAUpLIbZzRQ1bQtgoJ"
+        }
+      ],
+      "duration_ms": 195500,
+      "name": "Chemical",
+      "url": "https://open.spotify.com/track/5XxXvHmjkXtJHqNykytLE1"
+    },
+    {
+      "added_at": "2026-05-27 12:53:27",
+      "album": {
+        "name": "No Rush",
+        "url": "https://open.spotify.com/album/0aDtHXEXNUtCjpHBbS8BR5"
+      },
+      "artists": [
+        {
+          "name": "Dominique Swerts",
+          "url": "https://open.spotify.com/artist/38JCflyUOnNkNJKJU7D9CE"
+        }
+      ],
+      "duration_ms": 250984,
+      "name": "Pink Harmonie",
+      "url": "https://open.spotify.com/track/6ORBa7ahuoNpXF9RCDELtM"
+    },
+    {
+      "added_at": "2026-05-27 12:53:30",
+      "album": {
+        "name": "Remember",
+        "url": "https://open.spotify.com/album/6RqaoM6HWeQ3cNgPTX3HAE"
+      },
+      "artists": [
+        {
+          "name": "Marc Ocram",
+          "url": "https://open.spotify.com/artist/6nIiuaM9vwePMOtklXfagK"
+        }
+      ],
+      "duration_ms": 368572,
+      "name": "Remember",
+      "url": "https://open.spotify.com/track/0u424XgnRabyvutUeLRNkz"
+    },
+    {
+      "added_at": "2026-05-27 12:53:33",
+      "album": {
+        "name": "Una Volta Sola",
+        "url": "https://open.spotify.com/album/09KVL9lKEndRLy72CL0f4I"
+      },
+      "artists": [
+        {
+          "name": "Cabi Jr",
+          "url": "https://open.spotify.com/artist/2bDwLhQgYUDqaqSOobCPh2"
+        }
+      ],
+      "duration_ms": 167435,
+      "name": "Una Volta Sola",
+      "url": "https://open.spotify.com/track/3bJeBzbGUQfTEyAyeYQtKV"
+    },
+    {
+      "added_at": "2026-05-27 12:53:35",
+      "album": {
+        "name": "I Keep Standing Above the Clouds",
+        "url": "https://open.spotify.com/album/0qIKPUfjZ7EJ1d8G7URaZc"
+      },
+      "artists": [
+        {
+          "name": "001 BEST",
+          "url": "https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn"
+        }
+      ],
+      "duration_ms": 187946,
+      "name": "Above the Clouds",
+      "url": "https://open.spotify.com/track/0dYML7ZLo5mPXJozCYXzuu"
+    },
+    {
+      "added_at": "2026-05-27 12:53:35",
+      "album": {
+        "name": "Nadie se siente como yo",
+        "url": "https://open.spotify.com/album/7MEjMYDMcC0rBU3szAxuCj"
+      },
+      "artists": [
+        {
+          "name": "Ra\u00fal Cabo",
+          "url": "https://open.spotify.com/artist/5A0xF7wdd6jdeirVtqjvF2"
+        }
+      ],
+      "duration_ms": 212253,
+      "name": "Nadie se siente como yo",
+      "url": "https://open.spotify.com/track/7lnOOd1whrxVP2qcAmKzH5"
     }
   ],
   "unique_name": "New Indie Music",

@@ -1,6 +1,6 @@
 {
   "description": "Pos\u0142uchaj zwyci\u0119zc\u00f3w i nominowanych do nagr\u00f3d Fryderyk w kategorii muzyka rozrywkowa i jazz.",
-  "num_followers": 20266,
+  "num_followers": 20411,
   "original_name": "Fryderyk 2026",
   "owner": {
     "name": "Spotify",
@@ -259,6 +259,26 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
+        "name": "Dziwna (feat. Artur Rojek)",
+        "url": "https://open.spotify.com/album/66lJWCfqFbOFmU0zoc1s9z"
+      },
+      "artists": [
+        {
+          "name": "Daria Zawia\u0142ow",
+          "url": "https://open.spotify.com/artist/0tdKRrbItnLj40yUFi23jx"
+        },
+        {
+          "name": "Artur Rojek",
+          "url": "https://open.spotify.com/artist/2wmdMX0w131ZumU30P5WZH"
+        }
+      ],
+      "duration_ms": 161724,
+      "name": "Dziwna (feat. Artur Rojek)",
+      "url": "https://open.spotify.com/track/4pscA7I0aNoAYs3z56EDGS"
+    },
+    {
+      "added_at": "2026-05-26 09:05:26",
+      "album": {
         "name": "Niech \u017cyje bal",
         "url": "https://open.spotify.com/album/3dqGcvAwa84vGvmnersJxN"
       },
@@ -283,26 +303,6 @@
       "duration_ms": 238093,
       "name": "Niech \u017cyje bal",
       "url": "https://open.spotify.com/track/2pXPUEjpV3LCkK9rv0djby"
-    },
-    {
-      "added_at": "2026-05-26 09:05:26",
-      "album": {
-        "name": "Dziwna (feat. Artur Rojek)",
-        "url": "https://open.spotify.com/album/66lJWCfqFbOFmU0zoc1s9z"
-      },
-      "artists": [
-        {
-          "name": "Daria Zawia\u0142ow",
-          "url": "https://open.spotify.com/artist/0tdKRrbItnLj40yUFi23jx"
-        },
-        {
-          "name": "Artur Rojek",
-          "url": "https://open.spotify.com/artist/2wmdMX0w131ZumU30P5WZH"
-        }
-      ],
-      "duration_ms": 161724,
-      "name": "Dziwna (feat. Artur Rojek)",
-      "url": "https://open.spotify.com/track/4pscA7I0aNoAYs3z56EDGS"
     },
     {
       "added_at": "2026-05-26 09:05:26",
@@ -711,22 +711,6 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
-        "name": "TRASH TAPE",
-        "url": "https://open.spotify.com/album/6b6pAbeAZSdgdr4exEr2ax"
-      },
-      "artists": [
-        {
-          "name": "Zdech\u0142y Osa",
-          "url": "https://open.spotify.com/artist/509dS4Q0EfUQuG7KvaSsiz"
-        }
-      ],
-      "duration_ms": 136000,
-      "name": "WKURWELEPSZEPOGO",
-      "url": "https://open.spotify.com/track/0MNsAage0bUhHOtJJ56nmu"
-    },
-    {
-      "added_at": "2026-05-26 09:05:26",
-      "album": {
         "name": "Tak m\u0142odo si\u0119 nie spotkamy",
         "url": "https://open.spotify.com/album/57tNR0XV962YDMH8ZDXStm"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 377680,
       "name": "Dni, kt\u00f3re przed nami",
       "url": "https://open.spotify.com/track/3qmIGvh3yQHnBzNaG2Wb9M"
+    },
+    {
+      "added_at": "2026-05-26 09:05:26",
+      "album": {
+        "name": "TRASH TAPE",
+        "url": "https://open.spotify.com/album/6b6pAbeAZSdgdr4exEr2ax"
+      },
+      "artists": [
+        {
+          "name": "Zdech\u0142y Osa",
+          "url": "https://open.spotify.com/artist/509dS4Q0EfUQuG7KvaSsiz"
+        }
+      ],
+      "duration_ms": 136000,
+      "name": "WKURWELEPSZEPOGO",
+      "url": "https://open.spotify.com/track/0MNsAage0bUhHOtJJ56nmu"
     },
     {
       "added_at": "2026-05-26 09:05:26",
@@ -775,6 +775,26 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
+        "name": "HER NAME WAS YUMI",
+        "url": "https://open.spotify.com/album/70tZRCqPItOdy3vornYcAi"
+      },
+      "artists": [
+        {
+          "name": "hoshii",
+          "url": "https://open.spotify.com/artist/1PzdsUKu27uO3dCnpnXxWJ"
+        },
+        {
+          "name": "Kuba Wi\u0119cek",
+          "url": "https://open.spotify.com/artist/6TMvLRR8hD8RADUX9aqz3L"
+        }
+      ],
+      "duration_ms": 159769,
+      "name": "YUMI",
+      "url": "https://open.spotify.com/track/7oIBVngEmtARJZFPmVh0CI"
+    },
+    {
+      "added_at": "2026-05-26 09:05:26",
+      "album": {
         "name": "Portraits",
         "url": "https://open.spotify.com/album/6zlXNLJmQVAJTScGy68ZHN"
       },
@@ -807,26 +827,6 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
-        "name": "HER NAME WAS YUMI",
-        "url": "https://open.spotify.com/album/70tZRCqPItOdy3vornYcAi"
-      },
-      "artists": [
-        {
-          "name": "hoshii",
-          "url": "https://open.spotify.com/artist/1PzdsUKu27uO3dCnpnXxWJ"
-        },
-        {
-          "name": "Kuba Wi\u0119cek",
-          "url": "https://open.spotify.com/artist/6TMvLRR8hD8RADUX9aqz3L"
-        }
-      ],
-      "duration_ms": 159769,
-      "name": "YUMI",
-      "url": "https://open.spotify.com/track/7oIBVngEmtARJZFPmVh0CI"
-    },
-    {
-      "added_at": "2026-05-26 09:05:26",
-      "album": {
         "name": "Uno Lovis Party",
         "url": "https://open.spotify.com/album/1tp2IPGbxwnOVnVcO5x1Q4"
       },
@@ -839,22 +839,6 @@
       "duration_ms": 202921,
       "name": "Memento Amoris",
       "url": "https://open.spotify.com/track/6BRe9FeshYY6KedQk6Af08"
-    },
-    {
-      "added_at": "2026-05-26 09:05:26",
-      "album": {
-        "name": "The Shit Ov God",
-        "url": "https://open.spotify.com/album/6SVTZkfsUI2iD0jB9kl7zV"
-      },
-      "artists": [
-        {
-          "name": "Behemoth",
-          "url": "https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9"
-        }
-      ],
-      "duration_ms": 336773,
-      "name": "The Shit Ov God",
-      "url": "https://open.spotify.com/track/3Zt1D4S1eOfxRoGIBE0aSP"
     },
     {
       "added_at": "2026-05-26 09:05:26",
@@ -875,18 +859,18 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
-        "name": "4",
-        "url": "https://open.spotify.com/album/38AMF23w6heUQ2Yh617s2V"
+        "name": "The Shit Ov God",
+        "url": "https://open.spotify.com/album/6SVTZkfsUI2iD0jB9kl7zV"
       },
       "artists": [
         {
-          "name": "Nene Heroine",
-          "url": "https://open.spotify.com/artist/682FUdadxb0BbBEJosAiSR"
+          "name": "Behemoth",
+          "url": "https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9"
         }
       ],
-      "duration_ms": 297493,
-      "name": "Bowie",
-      "url": "https://open.spotify.com/track/0NOzhaHiT91KldkT2vZwBg"
+      "duration_ms": 336773,
+      "name": "The Shit Ov God",
+      "url": "https://open.spotify.com/track/3Zt1D4S1eOfxRoGIBE0aSP"
     },
     {
       "added_at": "2026-05-26 09:05:26",
@@ -907,18 +891,18 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
-        "name": "Fly High-Fi!",
-        "url": "https://open.spotify.com/album/1PDdmD6r7XGmMHos1YZeTF"
+        "name": "4",
+        "url": "https://open.spotify.com/album/38AMF23w6heUQ2Yh617s2V"
       },
       "artists": [
         {
-          "name": "Vavamuffin",
-          "url": "https://open.spotify.com/artist/2Lm3vSenofPiawS8U58tMD"
+          "name": "Nene Heroine",
+          "url": "https://open.spotify.com/artist/682FUdadxb0BbBEJosAiSR"
         }
       ],
-      "duration_ms": 230124,
-      "name": "Dubbrat",
-      "url": "https://open.spotify.com/track/07tSNivehfYJ52SPt1ta2Q"
+      "duration_ms": 297493,
+      "name": "Bowie",
+      "url": "https://open.spotify.com/track/0NOzhaHiT91KldkT2vZwBg"
     },
     {
       "added_at": "2026-05-26 09:05:26",
@@ -939,6 +923,22 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
+        "name": "Fly High-Fi!",
+        "url": "https://open.spotify.com/album/1PDdmD6r7XGmMHos1YZeTF"
+      },
+      "artists": [
+        {
+          "name": "Vavamuffin",
+          "url": "https://open.spotify.com/artist/2Lm3vSenofPiawS8U58tMD"
+        }
+      ],
+      "duration_ms": 230124,
+      "name": "Dubbrat",
+      "url": "https://open.spotify.com/track/07tSNivehfYJ52SPt1ta2Q"
+    },
+    {
+      "added_at": "2026-05-26 09:05:26",
+      "album": {
         "name": "Druga Furioza (Soundtrack From The Netflix Film)",
         "url": "https://open.spotify.com/album/1r1T3xlUtnE4hrpJdwFOjT"
       },
@@ -951,38 +951,6 @@
       "duration_ms": 105000,
       "name": "Wolny jak Li\u015b\u0107",
       "url": "https://open.spotify.com/track/6QBNU5ZuYlfBNgmC9K4xRZ"
-    },
-    {
-      "added_at": "2026-05-26 09:05:26",
-      "album": {
-        "name": "4",
-        "url": "https://open.spotify.com/album/38AMF23w6heUQ2Yh617s2V"
-      },
-      "artists": [
-        {
-          "name": "Nene Heroine",
-          "url": "https://open.spotify.com/artist/682FUdadxb0BbBEJosAiSR"
-        }
-      ],
-      "duration_ms": 444560,
-      "name": "Tokyo",
-      "url": "https://open.spotify.com/track/1Ruq8JmcNn0Us3jnZNaS9T"
-    },
-    {
-      "added_at": "2026-05-26 09:05:26",
-      "album": {
-        "name": "Grzyby",
-        "url": "https://open.spotify.com/album/7zg0n8RqanuD3eldxRimfO"
-      },
-      "artists": [
-        {
-          "name": "B\u0142oto",
-          "url": "https://open.spotify.com/artist/28k8arToA1cflcvaH5T4Zv"
-        }
-      ],
-      "duration_ms": 174023,
-      "name": "Chaga",
-      "url": "https://open.spotify.com/track/3JQQzsgNruVfkfWmLpynLg"
     },
     {
       "added_at": "2026-05-26 09:05:26",
@@ -1007,6 +975,22 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
+        "name": "4",
+        "url": "https://open.spotify.com/album/38AMF23w6heUQ2Yh617s2V"
+      },
+      "artists": [
+        {
+          "name": "Nene Heroine",
+          "url": "https://open.spotify.com/artist/682FUdadxb0BbBEJosAiSR"
+        }
+      ],
+      "duration_ms": 444560,
+      "name": "Tokyo",
+      "url": "https://open.spotify.com/track/1Ruq8JmcNn0Us3jnZNaS9T"
+    },
+    {
+      "added_at": "2026-05-26 09:05:26",
+      "album": {
         "name": "Boleros y Masecki",
         "url": "https://open.spotify.com/album/2eOsPHztjx0TGTTATCwWpx"
       },
@@ -1023,6 +1007,22 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
+        "name": "Grzyby",
+        "url": "https://open.spotify.com/album/7zg0n8RqanuD3eldxRimfO"
+      },
+      "artists": [
+        {
+          "name": "B\u0142oto",
+          "url": "https://open.spotify.com/artist/28k8arToA1cflcvaH5T4Zv"
+        }
+      ],
+      "duration_ms": 174023,
+      "name": "Chaga",
+      "url": "https://open.spotify.com/track/3JQQzsgNruVfkfWmLpynLg"
+    },
+    {
+      "added_at": "2026-05-26 09:05:26",
+      "album": {
         "name": "M\u00d3J TRUP JEST WI\u0118KSZY NI\u017b TW\u00d3J",
         "url": "https://open.spotify.com/album/49A5muPtRuTvE0BbqRJfBR"
       },
@@ -1035,26 +1035,6 @@
       "duration_ms": 313226,
       "name": "KREW Z KRWI",
       "url": "https://open.spotify.com/track/4prmXqlZocQ5lmQ24vsGDK"
-    },
-    {
-      "added_at": "2026-05-26 09:05:26",
-      "album": {
-        "name": "Homage",
-        "url": "https://open.spotify.com/album/03iukKxMidzmP0ZhywfX5D"
-      },
-      "artists": [
-        {
-          "name": "Joe Lovano",
-          "url": "https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf"
-        },
-        {
-          "name": "Marcin Wasilewski Trio",
-          "url": "https://open.spotify.com/artist/2UGL8QDKTSVXMqZqQR8DRL"
-        }
-      ],
-      "duration_ms": 251514,
-      "name": "Love in the Garden",
-      "url": "https://open.spotify.com/track/3CjlpGjhzc7pGBXCUWprYC"
     },
     {
       "added_at": "2026-05-26 09:05:26",
@@ -1091,6 +1071,26 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
+        "name": "Homage",
+        "url": "https://open.spotify.com/album/03iukKxMidzmP0ZhywfX5D"
+      },
+      "artists": [
+        {
+          "name": "Joe Lovano",
+          "url": "https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf"
+        },
+        {
+          "name": "Marcin Wasilewski Trio",
+          "url": "https://open.spotify.com/artist/2UGL8QDKTSVXMqZqQR8DRL"
+        }
+      ],
+      "duration_ms": 251514,
+      "name": "Love in the Garden",
+      "url": "https://open.spotify.com/track/3CjlpGjhzc7pGBXCUWprYC"
+    },
+    {
+      "added_at": "2026-05-26 09:05:26",
+      "album": {
         "name": "Oran\u017cowy \u015awit",
         "url": "https://open.spotify.com/album/53YYHkNtfwxVM1N7E1LwXr"
       },
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
-        "name": "Playgrounds",
-        "url": "https://open.spotify.com/album/158tD0asiM3tHH6K8EXzJa"
-      },
-      "artists": [
-        {
-          "name": "Product May Contain",
-          "url": "https://open.spotify.com/artist/0EBHXfugPyQpEBjZn68FrI"
-        }
-      ],
-      "duration_ms": 356623,
-      "name": "Chwilowy uk\u0142ad wszystkiego",
-      "url": "https://open.spotify.com/track/5ML73U95xmY6cgjtZoiy4A"
-    },
-    {
-      "added_at": "2026-05-26 09:05:26",
-      "album": {
         "name": "Romeo i Julia \u017cyj\u0105",
         "url": "https://open.spotify.com/album/6ku8fzO1axKBuidY8MJcI3"
       },
@@ -1143,22 +1127,34 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
-        "name": "Fryderyk LIS",
-        "url": "https://open.spotify.com/album/1SfN921eAsd9laV3u0PX71"
+        "name": "Playgrounds",
+        "url": "https://open.spotify.com/album/158tD0asiM3tHH6K8EXzJa"
       },
       "artists": [
         {
-          "name": "LIS",
-          "url": "https://open.spotify.com/artist/2GUiiK3uiO9aRJbWkCOGju"
-        },
-        {
-          "name": "Zuzanna Malisz",
-          "url": "https://open.spotify.com/artist/4jsgm84uldfJKyy0lSOF3A"
+          "name": "Product May Contain",
+          "url": "https://open.spotify.com/artist/0EBHXfugPyQpEBjZn68FrI"
         }
       ],
-      "duration_ms": 251447,
-      "name": "Etiuda f-moll z Trois Nouvelles \u00c9tudes nr 1 Dbop. 36A",
-      "url": "https://open.spotify.com/track/0j3xAlkbbM0ZTgBm8yYLeK"
+      "duration_ms": 356623,
+      "name": "Chwilowy uk\u0142ad wszystkiego",
+      "url": "https://open.spotify.com/track/5ML73U95xmY6cgjtZoiy4A"
+    },
+    {
+      "added_at": "2026-05-26 09:05:26",
+      "album": {
+        "name": "CITY CLUSTER",
+        "url": "https://open.spotify.com/album/3AnVflrT0bjMfbEGKsFfuU"
+      },
+      "artists": [
+        {
+          "name": "Micha\u0142 FOX Kr\u00f3l",
+          "url": "https://open.spotify.com/artist/5sQT3ksKgSbif3ykU1tMek"
+        }
+      ],
+      "duration_ms": 253000,
+      "name": "UP & DOWN",
+      "url": "https://open.spotify.com/track/6tfwKz3crWeA0PIF5OnS4F"
     },
     {
       "added_at": "2026-05-26 09:05:26",
@@ -1179,18 +1175,22 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
-        "name": "CITY CLUSTER",
-        "url": "https://open.spotify.com/album/3AnVflrT0bjMfbEGKsFfuU"
+        "name": "Fryderyk LIS",
+        "url": "https://open.spotify.com/album/1SfN921eAsd9laV3u0PX71"
       },
       "artists": [
         {
-          "name": "Micha\u0142 FOX Kr\u00f3l",
-          "url": "https://open.spotify.com/artist/5sQT3ksKgSbif3ykU1tMek"
+          "name": "LIS",
+          "url": "https://open.spotify.com/artist/2GUiiK3uiO9aRJbWkCOGju"
+        },
+        {
+          "name": "Zuzanna Malisz",
+          "url": "https://open.spotify.com/artist/4jsgm84uldfJKyy0lSOF3A"
         }
       ],
-      "duration_ms": 253000,
-      "name": "UP & DOWN",
-      "url": "https://open.spotify.com/track/6tfwKz3crWeA0PIF5OnS4F"
+      "duration_ms": 251447,
+      "name": "Etiuda f-moll z Trois Nouvelles \u00c9tudes nr 1 Dbop. 36A",
+      "url": "https://open.spotify.com/track/0j3xAlkbbM0ZTgBm8yYLeK"
     },
     {
       "added_at": "2026-05-26 09:05:26",
@@ -1263,26 +1263,6 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
-        "name": "Budy\u0144 o smaku Mickiewicza",
-        "url": "https://open.spotify.com/album/4v1jN87zI3hmMraLsmTAPK"
-      },
-      "artists": [
-        {
-          "name": "Nikola Ko\u0142odziejczyk Orchestra",
-          "url": "https://open.spotify.com/artist/3k2YeYtwjRmIHv6FjlCmhy"
-        },
-        {
-          "name": "Tomasz Organek",
-          "url": "https://open.spotify.com/artist/3uw2vI1IAQ7DPUY4g3p5FR"
-        }
-      ],
-      "duration_ms": 701500,
-      "name": "\u015awitezianka",
-      "url": "https://open.spotify.com/track/0kPDGa8tW4fFPifXwo8F8M"
-    },
-    {
-      "added_at": "2026-05-26 09:05:26",
-      "album": {
         "name": "Czas rozpali\u0107 piec",
         "url": "https://open.spotify.com/album/5KUnvYAdCfl0TLTyIMzJSR"
       },
@@ -1299,6 +1279,26 @@
       "duration_ms": 250359,
       "name": "Czas rozpali\u0107 piec",
       "url": "https://open.spotify.com/track/4y2okX9U20zbJWZYSaBAE2"
+    },
+    {
+      "added_at": "2026-05-26 09:05:26",
+      "album": {
+        "name": "Budy\u0144 o smaku Mickiewicza",
+        "url": "https://open.spotify.com/album/4v1jN87zI3hmMraLsmTAPK"
+      },
+      "artists": [
+        {
+          "name": "Nikola Ko\u0142odziejczyk Orchestra",
+          "url": "https://open.spotify.com/artist/3k2YeYtwjRmIHv6FjlCmhy"
+        },
+        {
+          "name": "Tomasz Organek",
+          "url": "https://open.spotify.com/artist/3uw2vI1IAQ7DPUY4g3p5FR"
+        }
+      ],
+      "duration_ms": 701500,
+      "name": "\u015awitezianka",
+      "url": "https://open.spotify.com/track/0kPDGa8tW4fFPifXwo8F8M"
     },
     {
       "added_at": "2026-05-26 09:05:26",

@@ -1,12 +1,12 @@
 {
   "description": "This is Deuter. The essential tracks, all in one playlist.",
-  "num_followers": 19674,
+  "num_followers": 19676,
   "original_name": "This Is Deuter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahORAAAAAACQi2/kPvG+NvnQJibbCpDb",
+  "snapshot_id": "ahTigAAAAABq3XagtmjEDqfHm4EmcENr",
   "tracks": [
     {
       "added_at": null,
@@ -143,18 +143,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Atmospheres",
-        "url": "https://open.spotify.com/album/7xM8Cmd7tMpa6z1eQxZPeG"
+        "name": "Garden of the Gods",
+        "url": "https://open.spotify.com/album/1wc26fYznDqctLKiRFZyDR"
       },
       "artists": [
         {
           "name": "Deuter",
           "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        },
+        {
+          "name": "Annette Cantor",
+          "url": "https://open.spotify.com/artist/0fOvSSksaEdKDYatJdvV3t"
         }
       ],
-      "duration_ms": 420546,
-      "name": "Four",
-      "url": "https://open.spotify.com/track/07kJszAySuuMhJ8UqXS8PS"
+      "duration_ms": 488866,
+      "name": "Kiss of a Rose",
+      "url": "https://open.spotify.com/track/1iYVLR0alUpxmIbIkoc1xg"
     },
     {
       "added_at": null,
@@ -191,22 +195,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Garden of the Gods",
-        "url": "https://open.spotify.com/album/1wc26fYznDqctLKiRFZyDR"
+        "name": "Atmospheres",
+        "url": "https://open.spotify.com/album/7xM8Cmd7tMpa6z1eQxZPeG"
       },
       "artists": [
         {
           "name": "Deuter",
           "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
-        },
-        {
-          "name": "Annette Cantor",
-          "url": "https://open.spotify.com/artist/0fOvSSksaEdKDYatJdvV3t"
         }
       ],
-      "duration_ms": 488866,
-      "name": "Kiss of a Rose",
-      "url": "https://open.spotify.com/track/1iYVLR0alUpxmIbIkoc1xg"
+      "duration_ms": 420546,
+      "name": "Four",
+      "url": "https://open.spotify.com/track/07kJszAySuuMhJ8UqXS8PS"
     },
     {
       "added_at": null,
@@ -352,9 +352,9 @@
           "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
         }
       ],
-      "duration_ms": 349306,
-      "name": "Unknown Doors",
-      "url": "https://open.spotify.com/track/1xYzlYdAQeHUdyJKbb6Vt5"
+      "duration_ms": 433706,
+      "name": "Love's Winged Messenger",
+      "url": "https://open.spotify.com/track/1H5R677QTxixhfBlGNMDtY"
     },
     {
       "added_at": null,
@@ -416,9 +416,9 @@
           "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
         }
       ],
-      "duration_ms": 433706,
-      "name": "Love's Winged Messenger",
-      "url": "https://open.spotify.com/track/1H5R677QTxixhfBlGNMDtY"
+      "duration_ms": 349306,
+      "name": "Unknown Doors",
+      "url": "https://open.spotify.com/track/1xYzlYdAQeHUdyJKbb6Vt5"
     },
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reiki Hands of Love",
-        "url": "https://open.spotify.com/album/0ZyDrVKICSJ9nbqRa3hgZh"
-      },
-      "artists": [
-        {
-          "name": "Deuter",
-          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
-        }
-      ],
-      "duration_ms": 297333,
-      "name": "Deeper than the Sky",
-      "url": "https://open.spotify.com/track/27sKMZ5NDmoriIbRmMZn5q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dream Time",
         "url": "https://open.spotify.com/album/6T1U1ucDvCSyh4panZaZTP"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 367046,
       "name": "Moving Seagrass",
       "url": "https://open.spotify.com/track/4xnZW5ewiv2cN2HRwUjIIh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Reiki Hands of Love",
+        "url": "https://open.spotify.com/album/0ZyDrVKICSJ9nbqRa3hgZh"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "duration_ms": 297333,
+      "name": "Deeper than the Sky",
+      "url": "https://open.spotify.com/track/27sKMZ5NDmoriIbRmMZn5q"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Gojira. The essential tracks, all in one playlist.",
-  "num_followers": 152315,
+  "num_followers": 152356,
   "original_name": "This Is Gojira",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahORAAAAAAAROA8bMTfcBaa7IX+v31CD",
+  "snapshot_id": "ahTigAAAAABTDbN/8sJDu1gk4ZiICM2E",
   "tracks": [
     {
       "added_at": null,
@@ -451,22 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "L'Enfant Sauvage (Special Edition)",
-        "url": "https://open.spotify.com/album/5dxqD5Kc6cRRi3rErmDfXG"
-      },
-      "artists": [
-        {
-          "name": "Gojira",
-          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
-        }
-      ],
-      "duration_ms": 257800,
-      "name": "Liquid Fire",
-      "url": "https://open.spotify.com/track/5BHLmCLntTLjSFGl8MG5wZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "From Mars to Sirius",
         "url": "https://open.spotify.com/album/0AvFF0HlQYvYKHaRURGZBs"
       },
@@ -483,8 +467,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The way of all flesh",
-        "url": "https://open.spotify.com/album/4J79cxsmRqZbI0BKmNFDy2"
+        "name": "L'Enfant Sauvage (Special Edition)",
+        "url": "https://open.spotify.com/album/5dxqD5Kc6cRRi3rErmDfXG"
       },
       "artists": [
         {
@@ -492,9 +476,9 @@
           "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
         }
       ],
-      "duration_ms": 309533,
-      "name": "A sight to behold",
-      "url": "https://open.spotify.com/track/2fA5O6Fs60rtXxIfelVKcH"
+      "duration_ms": 257800,
+      "name": "Liquid Fire",
+      "url": "https://open.spotify.com/track/5BHLmCLntTLjSFGl8MG5wZ"
     },
     {
       "added_at": null,
@@ -511,6 +495,22 @@
       "duration_ms": 396634,
       "name": "New Found",
       "url": "https://open.spotify.com/track/3Kl4f3sVKb8iwQ8ZffHim6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The way of all flesh",
+        "url": "https://open.spotify.com/album/4J79cxsmRqZbI0BKmNFDy2"
+      },
+      "artists": [
+        {
+          "name": "Gojira",
+          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
+        }
+      ],
+      "duration_ms": 309533,
+      "name": "A sight to behold",
+      "url": "https://open.spotify.com/track/2fA5O6Fs60rtXxIfelVKcH"
     },
     {
       "added_at": null,

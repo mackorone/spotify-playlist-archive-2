@@ -1,15 +1,31 @@
 {
-  "description": "The best new music from fresh and emerging artists. Curated with love by human Spotify editors. Cover: Heidi Moru Artwork: Isu Kim.",
-  "num_followers": 7045,
+  "description": "The best new music from fresh and emerging artists. Curated with love by human Spotify editors. Cover: Claire Javier. Artwork: Isu Kim.",
+  "num_followers": 7044,
   "original_name": "Fresh Finds SG & MY",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANMbRy08Sgiwdvkq9pTetohOJBnJ",
+  "snapshot_id": "AAAAALnbLhrcXkz+Y4Z2HPOrQGmHHOC8",
   "tracks": [
     {
-      "added_at": "2026-05-13 05:00:22",
+      "added_at": "2026-05-27 05:00:26",
+      "album": {
+        "name": "still want it all",
+        "url": "https://open.spotify.com/album/7Ds3zE6nVbsFSRfgDOXAOO"
+      },
+      "artists": [
+        {
+          "name": "Claire Javier",
+          "url": "https://open.spotify.com/artist/0YOmSGHZSCYRXMZYWnIAOz"
+        }
+      ],
+      "duration_ms": 188571,
+      "name": "still want it all",
+      "url": "https://open.spotify.com/track/1OU0Lz9YH1JPOf2uR4tHyM"
+    },
+    {
+      "added_at": "2026-05-27 05:00:26",
       "album": {
         "name": "Jadi Manusia",
         "url": "https://open.spotify.com/album/5lVphuoW9odFp5KlJlDE7d"
@@ -25,7 +41,7 @@
       "url": "https://open.spotify.com/track/1WPSTpBANcJrij80C79Bkz"
     },
     {
-      "added_at": "2026-05-13 05:00:22",
+      "added_at": "2026-05-27 05:00:26",
       "album": {
         "name": "DIAM!",
         "url": "https://open.spotify.com/album/4iX1bwDuop8lUX91J1T7fA"
@@ -41,7 +57,7 @@
       "url": "https://open.spotify.com/track/12Up29VqU3Eym1pDUGPu1l"
     },
     {
-      "added_at": "2026-05-13 05:00:22",
+      "added_at": "2026-05-27 05:00:26",
       "album": {
         "name": "Lady in Red",
         "url": "https://open.spotify.com/album/4Pyg2zKwmpPIyOMKgnLWva"
@@ -57,7 +73,7 @@
       "url": "https://open.spotify.com/track/03tTzChMfmYu649nJ5HJNS"
     },
     {
-      "added_at": "2026-05-13 05:00:22",
+      "added_at": "2026-05-27 05:00:26",
       "album": {
         "name": "Love Me (He Says)",
         "url": "https://open.spotify.com/album/1eI6ypwhPnXyeu9GFFQOGD"
@@ -73,7 +89,7 @@
       "url": "https://open.spotify.com/track/2GQUyTtitbusUGfTyyOrhZ"
     },
     {
-      "added_at": "2026-05-20 05:02:35",
+      "added_at": "2026-05-27 05:00:26",
       "album": {
         "name": "INDULGENCE",
         "url": "https://open.spotify.com/album/2tsyh7W220NtU1qFueIax0"
@@ -89,23 +105,7 @@
       "url": "https://open.spotify.com/track/36Z5hs5XSo6ByQkjCmEp6i"
     },
     {
-      "added_at": "2026-05-20 05:02:35",
-      "album": {
-        "name": "Adem",
-        "url": "https://open.spotify.com/album/7cPdlH2YIUiB9nVyEqd6KU"
-      },
-      "artists": [
-        {
-          "name": "CHLYPDY",
-          "url": "https://open.spotify.com/artist/72tSyX2vMhBVCECXVh7i7r"
-        }
-      ],
-      "duration_ms": 225397,
-      "name": "Adem",
-      "url": "https://open.spotify.com/track/6b7rgEeNDCluHS7y3ZvsxO"
-    },
-    {
-      "added_at": "2026-05-13 05:00:22",
+      "added_at": "2026-05-27 05:00:26",
       "album": {
         "name": "\u4f60\u6ca1\u8d70",
         "url": "https://open.spotify.com/album/4w54dWGCHMOatKj6gsWHlM"
@@ -121,7 +121,23 @@
       "url": "https://open.spotify.com/track/3b7U4m0E23pkw5HNALbmbQ"
     },
     {
-      "added_at": "2026-05-13 05:00:22",
+      "added_at": "2026-05-27 05:00:26",
+      "album": {
+        "name": "Adem",
+        "url": "https://open.spotify.com/album/7cPdlH2YIUiB9nVyEqd6KU"
+      },
+      "artists": [
+        {
+          "name": "CHLYPDY",
+          "url": "https://open.spotify.com/artist/72tSyX2vMhBVCECXVh7i7r"
+        }
+      ],
+      "duration_ms": 225397,
+      "name": "Adem",
+      "url": "https://open.spotify.com/track/6b7rgEeNDCluHS7y3ZvsxO"
+    },
+    {
+      "added_at": "2026-05-27 05:00:26",
       "album": {
         "name": "Over & Over",
         "url": "https://open.spotify.com/album/3kJcBMt6Ks4HDVo72rbanH"
@@ -137,7 +153,7 @@
       "url": "https://open.spotify.com/track/3tk1bjylspbmL1UJqqKp9h"
     },
     {
-      "added_at": "2026-05-13 05:00:22",
+      "added_at": "2026-05-27 05:00:26",
       "album": {
         "name": "don't deserve anything good",
         "url": "https://open.spotify.com/album/6mwoNIioJdc6XyLiYCVC3d"
@@ -153,7 +169,7 @@
       "url": "https://open.spotify.com/track/2AcSp89q91K2MuXEyxNGm1"
     },
     {
-      "added_at": "2026-05-13 05:00:22",
+      "added_at": "2026-05-27 05:00:26",
       "album": {
         "name": "twenties",
         "url": "https://open.spotify.com/album/29tt47YoPo8P8AP7GjXTUi"
@@ -169,7 +185,7 @@
       "url": "https://open.spotify.com/track/4fMF95jhCb0ncIBnjmTmxt"
     },
     {
-      "added_at": "2026-05-13 05:00:22",
+      "added_at": "2026-05-27 05:00:26",
       "album": {
         "name": "\u024eour Museum",
         "url": "https://open.spotify.com/album/34IC98B7TfwPUQxT2OIDfw"
@@ -185,7 +201,7 @@
       "url": "https://open.spotify.com/track/40agAr6fkH5tJ2ZDrGfJaF"
     },
     {
-      "added_at": "2026-05-13 05:00:22",
+      "added_at": "2026-05-27 05:00:26",
       "album": {
         "name": "\u8aaa\u611b\u6211, \u9084\u9a19\u6211",
         "url": "https://open.spotify.com/album/7BVvVQ2WRXr1V5Q3nHWaj0"
@@ -201,7 +217,7 @@
       "url": "https://open.spotify.com/track/6ghC8d3QsiiBCRXFdkcQgA"
     },
     {
-      "added_at": "2026-05-13 05:00:22",
+      "added_at": "2026-05-27 05:00:26",
       "album": {
         "name": "Heartless",
         "url": "https://open.spotify.com/album/7klC6J5LAzquUWwnYwJidt"
@@ -217,7 +233,7 @@
       "url": "https://open.spotify.com/track/5zMEQqxFB35pTNxvXsE83G"
     },
     {
-      "added_at": "2026-05-13 05:00:22",
+      "added_at": "2026-05-27 05:00:26",
       "album": {
         "name": "STOMACH",
         "url": "https://open.spotify.com/album/6cFiqJZGPZrrzx5KjbB0iU"
@@ -233,7 +249,7 @@
       "url": "https://open.spotify.com/track/2op3wlyMsRgQzr7MeN91A3"
     },
     {
-      "added_at": "2026-05-13 05:00:22",
+      "added_at": "2026-05-27 05:00:26",
       "album": {
         "name": "love the same",
         "url": "https://open.spotify.com/album/0KBznH0NInPO6fX5n92C39"
@@ -249,7 +265,7 @@
       "url": "https://open.spotify.com/track/7a58JOdOHtoVlmCZD7z2GM"
     },
     {
-      "added_at": "2026-05-13 05:00:22",
+      "added_at": "2026-05-27 05:00:26",
       "album": {
         "name": "the river",
         "url": "https://open.spotify.com/album/0nUlCvIFEo4qVhYhueTEYL"
@@ -265,7 +281,7 @@
       "url": "https://open.spotify.com/track/7fenr5zdjkJKH50czhtBnq"
     },
     {
-      "added_at": "2026-05-13 05:00:22",
+      "added_at": "2026-05-27 05:00:26",
       "album": {
         "name": "Perjalanan",
         "url": "https://open.spotify.com/album/4CocswSYJUeXUDbcYrWOCT"
@@ -281,7 +297,7 @@
       "url": "https://open.spotify.com/track/6MWr4qYlSVMhpitSpI81bf"
     },
     {
-      "added_at": "2026-05-13 05:00:22",
+      "added_at": "2026-05-27 05:00:26",
       "album": {
         "name": "Tulips",
         "url": "https://open.spotify.com/album/5Dzekft2Oi1AkJKLBhJrcs"
@@ -297,7 +313,7 @@
       "url": "https://open.spotify.com/track/358ebpX0j2KttZ9IxzEjKB"
     },
     {
-      "added_at": "2026-05-13 05:00:22",
+      "added_at": "2026-05-27 05:00:26",
       "album": {
         "name": "Something To Say",
         "url": "https://open.spotify.com/album/3gRYN9zy3Lq2Wg3XPUnRjC"
@@ -313,7 +329,7 @@
       "url": "https://open.spotify.com/track/3NlVThB6xZcWX4meFzbpHu"
     },
     {
-      "added_at": "2026-05-13 05:00:22",
+      "added_at": "2026-05-27 05:00:26",
       "album": {
         "name": "WHERE THE PATH LEADS",
         "url": "https://open.spotify.com/album/2MjZrQrbhXpIuBHSWsCmNu"
@@ -329,7 +345,7 @@
       "url": "https://open.spotify.com/track/3Gsbb8eRYkugj46qABYLyy"
     },
     {
-      "added_at": "2026-05-13 05:00:22",
+      "added_at": "2026-05-27 05:00:26",
       "album": {
         "name": "heaven!",
         "url": "https://open.spotify.com/album/6hjlLYPwNxJSDa7AD32Cr7"
@@ -345,7 +361,7 @@
       "url": "https://open.spotify.com/track/0zXh8SNTYpzfqJPmgVmNgd"
     },
     {
-      "added_at": "2026-05-13 05:00:22",
+      "added_at": "2026-05-27 05:00:26",
       "album": {
         "name": "Goodbye Letter",
         "url": "https://open.spotify.com/album/4rYp30QwK58eBZpsBIl8WA"
@@ -361,7 +377,7 @@
       "url": "https://open.spotify.com/track/7dQsIjrdHbGierAuHviHbs"
     },
     {
-      "added_at": "2026-05-13 05:00:22",
+      "added_at": "2026-05-27 05:00:26",
       "album": {
         "name": "You're Too Cute",
         "url": "https://open.spotify.com/album/3bWw8aVg3OZ5WvnAQli1eh"

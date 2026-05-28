@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 
 > No, el punk español NO ESTÁ MUERTO\. Foto: Non Servium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,833 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,850 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 | 37 | [Perdóname, Madre](https://open.spotify.com/track/3m4sBPROsVE0lwggigu5R4) | [Kaos Urbano](https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4) | [Perdóname, Madre](https://open.spotify.com/album/3iayhGgNxplb1PlyUqd8PV) | 4:06 |
 | 38 | [Prefiero Caminar](https://open.spotify.com/track/0SUYFrnEmh4QZOdThDoJ5B) | [Disidencia](https://open.spotify.com/artist/1ym8Cw2gG6nn8hgk4Vjkht) | [Bienvenidos a Occidente](https://open.spotify.com/album/1F2GuNExWo3absC9LEqEcY) | 4:14 |
 | 39 | [Tenemos a la Pasma](https://open.spotify.com/track/2yGO1zOQ3psTV42DxtzF85) | [Lendakaris Muertos](https://open.spotify.com/artist/6x6bFaWdzVQM6e7ke2ysMc) | [Cicatriz en la Matrix](https://open.spotify.com/album/51o67b23wyqqkYGN738zMG) | 1:58 |
-| 40 | [Vivir la Vida](https://open.spotify.com/track/4CeVTya5DmyswFPaiukYJ7) | [Kaos Etíliko](https://open.spotify.com/artist/5y9aHzw345UfAGA1Db5BPy) | [Vivir la Vida](https://open.spotify.com/album/21LP92m9L3r5rY8zxF3uLF) | 2:52 |
-| 41 | [La Historia se Repite](https://open.spotify.com/track/4A2mcoje2LKC9ErsTl2vOj) | [Kaotiko](https://open.spotify.com/artist/1XwQSgy1ZYGHw8ZryGbT2S), [Reincidentes](https://open.spotify.com/artist/6AZ89uxvjtR2Cpe1hE3kpX) | [La Historia se Repite](https://open.spotify.com/album/3lezYnTMMATl07wClgIcHg) | 2:10 |
+| 40 | [La Historia se Repite](https://open.spotify.com/track/4A2mcoje2LKC9ErsTl2vOj) | [Kaotiko](https://open.spotify.com/artist/1XwQSgy1ZYGHw8ZryGbT2S), [Reincidentes](https://open.spotify.com/artist/6AZ89uxvjtR2Cpe1hE3kpX) | [La Historia se Repite](https://open.spotify.com/album/3lezYnTMMATl07wClgIcHg) | 2:10 |
+| 41 | [Vivir la Vida](https://open.spotify.com/track/4CeVTya5DmyswFPaiukYJ7) | [Kaos Etíliko](https://open.spotify.com/artist/5y9aHzw345UfAGA1Db5BPy) | [Vivir la Vida](https://open.spotify.com/album/21LP92m9L3r5rY8zxF3uLF) | 2:52 |
 | 42 | [Amor frenopático](https://open.spotify.com/track/6YjmFAhmoUJydfvpDj0PMT) | [Comando 9mm](https://open.spotify.com/artist/4ysg7aP5WvMZge41OoKKHa) | [Camino hacia la ruina](https://open.spotify.com/album/7z6A7KRuF72XBB8VcvUbIh) | 4:45 |
 | 43 | [Ya No Me Divierto](https://open.spotify.com/track/4VRq1m4iV8NTZ4tzm423qS) | [Arpaviejas](https://open.spotify.com/artist/3p4ATdrRNiaczZdnPeZlqA) | [Ya No Me Divierto](https://open.spotify.com/album/0jPYDc9Kf4VKxd0VSVX8HL) | 3:43 |
 | 44 | [Quiero que sepas](https://open.spotify.com/track/33Dh6Ot8qS3nC13zAopC5y) | [Segismundo Toxicómano](https://open.spotify.com/artist/0sKBEhvr6hz7Wpptw0fY8U) | [Quiero que sepas](https://open.spotify.com/album/63eBCTHHIFZw0gyEapFaIz) | 2:50 |
@@ -65,9 +65,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 | 55 | [Rico deprimido \- XX5](https://open.spotify.com/track/5x7dsu12skCbNd5HR05ZcB) | [Kaotiko](https://open.spotify.com/artist/1XwQSgy1ZYGHw8ZryGbT2S) | [Rico deprimido \(XX5\)](https://open.spotify.com/album/5beaDQvsYwZFJWBYvuy50z) | 3:25 |
 | 56 | [Ellos Dicen Mierda \(Live\)](https://open.spotify.com/track/4ZhVqaagIdAhVswRMxkUTl) | [La Polla](https://open.spotify.com/artist/1hUMfVjUdE0cymGOv2J70J) | [Punk Latino Vol\. 1](https://open.spotify.com/album/1FOLdlGQrTwxpA7nhGd4zN) | 4:26 |
 | 57 | [La Prospe](https://open.spotify.com/track/5YBtaF5CJ5pVUMt4z58eDN) | [Gautxori](https://open.spotify.com/artist/0P67TAOO0GVonby7kuMdqh) | [La Prospe](https://open.spotify.com/album/2Zf0oDGiTkLe5QXidCzLi8) | 2:02 |
-| 58 | [Sudapollismo Ilustrado](https://open.spotify.com/track/0BB5RNNNGtHfkYIP0EyQt6) | [Carry](https://open.spotify.com/artist/3P9Gth6aFRSStkfDZsYUcG) | [Sudapollismo Ilustrado](https://open.spotify.com/album/4vkp4b9gVT5Lg8E5ppkLsr) | 3:10 |
+| 58 | [Jubilación a los 18](https://open.spotify.com/track/3LGK9ODTGbdAkgeD6ZOOp5) | [XpresidentX](https://open.spotify.com/artist/55xp25jpoTYjWrUjGoJftK) | [Garrote Vil](https://open.spotify.com/album/1g2gfrZYqVz51765ogVnwD) | 1:45 |
 | 59 | [A Las Mariscadas \- Directo Kafe Antzokia](https://open.spotify.com/track/7a0dWy6BZfWNI8Yy5UIdvZ) | [Manifa](https://open.spotify.com/artist/7ynFnXnaMHYbTeT4JQ97tc) | [A Las Mariscadas \(Directo Kafe Antzokia\)](https://open.spotify.com/album/2e6waJ1iTxP8Ipl2zdDnkw) | 2:04 |
-| 60 | [Jubilación a los 18](https://open.spotify.com/track/3LGK9ODTGbdAkgeD6ZOOp5) | [XpresidentX](https://open.spotify.com/artist/55xp25jpoTYjWrUjGoJftK) | [Garrote Vil](https://open.spotify.com/album/1g2gfrZYqVz51765ogVnwD) | 1:45 |
+| 60 | [Sudapollismo Ilustrado](https://open.spotify.com/track/0BB5RNNNGtHfkYIP0EyQt6) | [Carry](https://open.spotify.com/artist/3P9Gth6aFRSStkfDZsYUcG) | [Sudapollismo Ilustrado](https://open.spotify.com/album/4vkp4b9gVT5Lg8E5ppkLsr) | 3:10 |
 | 61 | [ANTIFASCISTA](https://open.spotify.com/track/0yIxWJRf96RJds9DQ3tLG3) | [Demenzia Sozial](https://open.spotify.com/artist/7HRSS0s7sgWTvK4q7MDy2O) | [ANTIFASCISTA](https://open.spotify.com/album/7FxgIAAIqupAq0Nslf1VCv) | 4:33 |
 | 62 | [Amaneceres](https://open.spotify.com/track/6gKydiml5drraNpPnAaAWb) | [No Konforme](https://open.spotify.com/artist/26yvJIyoBOe4vGLB2tlwub), [Kutxi Romero](https://open.spotify.com/artist/3nFnQg8Kav6UMFFjQ1dspY), [Marea](https://open.spotify.com/artist/5EBH204cwRkvAWknwTAjCQ) | [Amaneceres](https://open.spotify.com/album/3kwZQAwgyK6LCOZG3Jz4Wp) | 3:50 |
 | 63 | [Adictos a la Lujuria \- con Ánxela \(Bala\)](https://open.spotify.com/track/36aKaIj6aD2MLkBiCTT1hZ) | [Ana Curra](https://open.spotify.com/artist/17GqenWaUzLjbkH0IKJA5m), [Bala](https://open.spotify.com/artist/5Cqy5kUi1EY01scjbz87eJ) | [Ana Curra y los 13 Apóstoles Presentan: La Última Cena de Parálisis Permanente](https://open.spotify.com/album/0COz15FUuwBr02ogUbGdJA) | 3:09 |

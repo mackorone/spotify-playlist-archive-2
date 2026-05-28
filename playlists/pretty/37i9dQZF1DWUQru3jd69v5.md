@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > FreshMula in cover della playlist con il futuro del rap italiano 📈
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,736 likes - 82 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,730 likes - 82 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 5 | [Fenicottero Rosa](https://open.spotify.com/track/04Qd8ESfSgKob7Txyy9URe) | [emanuelino](https://open.spotify.com/artist/3XvGNKkWf5TQoR1xcfm5TU), [SHUNE](https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr) | [Fenicottero Rosa](https://open.spotify.com/album/0U9bke0LcFrC3HybNmGZzm) | 2:16 |
 | 6 | [DOMENICA \(feat\. Silent Bob\)](https://open.spotify.com/track/2j94KMeMCkstgbz4G3ZX6P) | [Diss Gacha](https://open.spotify.com/artist/4TKF8KSK6bgHgszFxu5xzu), [Sala](https://open.spotify.com/artist/3JgYm8oVvcrFpJBUNIonqM), [Silent Bob](https://open.spotify.com/artist/4oEO6Ud3efrjTNSR9SMleI) | [NON È SOLO SWAG](https://open.spotify.com/album/6ctBV0IbZtYcCdN6ypbSic) | 2:17 |
 | 7 | [Odio](https://open.spotify.com/track/7jovkYUrPs2tFOx4Ml2sQD) | [6occia](https://open.spotify.com/artist/2VXJau991JXvbeF48YVjoX) | [Odio](https://open.spotify.com/album/30HiwwVVv4DCEKyucxlSRM) | 2:39 |
-| 8 | [Splinter Cell](https://open.spotify.com/track/3KsGBiWVuybY3Zm7LDKuqK) | [G.Mineiro](https://open.spotify.com/artist/1dlyjeDlgXalzt5oqbgWDs) | [Splinter Cell](https://open.spotify.com/album/6R0HGRmgF4A0wMrwkTh6yr) | 1:57 |
+| 8 | [Splinter Cell](https://open.spotify.com/track/3KsGBiWVuybY3Zm7LDKuqK) | [G.Mineiro](https://open.spotify.com/artist/1dlyjeDlgXalzt5oqbgWDs), [Flatpearl](https://open.spotify.com/artist/2ifTEcQqKSPwijIEcPHQ1R), [Jiz](https://open.spotify.com/artist/38CThoTDmXugNnfonW466d), [Succo](https://open.spotify.com/artist/1l1A1U8VJM15W7zonFqKhg) | [Splinter Cell](https://open.spotify.com/album/6R0HGRmgF4A0wMrwkTh6yr) | 1:57 |
 | 9 | [ANIMALIER \(feat\. YD Frost\)](https://open.spotify.com/track/0HMKItCz33uf3vvKjL73k1) | [Flaco G](https://open.spotify.com/artist/7uQjkmip3qpclXt7hJ6EI9), [YD Frost](https://open.spotify.com/artist/5VfyRN67E8k3yyivZ5p72L) | [THE GOLDFATHER](https://open.spotify.com/album/2wqe37GloOInHxfqo7N6DC) | 2:23 |
 | 10 | [Camicia e Zanotti](https://open.spotify.com/track/0sqNyE1IULjfZsjEaH15MK) | [Dagood YL](https://open.spotify.com/artist/4zHxCzvTEP15QarBTgB9hw), [twentyone21](https://open.spotify.com/artist/4p631lz9dfbF3JbUDCkIyK) | [\#FREEDAG \(album\)](https://open.spotify.com/album/1Nlmk5ApaxYjkryFodo4O6) | 3:47 |
 | 11 | [MONTAGNA \(feat\. Side Baby\)](https://open.spotify.com/track/2po9ZE001hx0fMIJMAnxMR) | [Enzo Benz](https://open.spotify.com/artist/6JKLzRBKTJYf1Wko3cNr7P), [Side Baby](https://open.spotify.com/artist/6PXiPeUVFrlaC1n8511ijT), [Whellele](https://open.spotify.com/artist/0FLa2WN4PurUaFP24efaZF) | [MONTAGNA \(feat\. Side Baby\)](https://open.spotify.com/album/1zIsm9UnJYUW9dU1rXKgiK) | 2:16 |
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 59 | [DataBank](https://open.spotify.com/track/2fkSIAL3KnCHylFHvECCPo) | [Khodi](https://open.spotify.com/artist/27P9ESA6J25Jzye2CGWg1n) | [DataBank](https://open.spotify.com/album/7nB6DOh4eShtmFl59uNs2r) | 2:54 |
 | 60 | [STATUS](https://open.spotify.com/track/1XLqcDXCO9c1WO6V8jNUOP) | [Helmi](https://open.spotify.com/artist/2mvMdmcLoPwfaUHlgwRJlj) | [STATUS](https://open.spotify.com/album/6KkO2UGw98cNIrwL4WOs36) | 2:50 |
 | 61 | [GIOVANE K](https://open.spotify.com/track/4dB7n000x0cP71A4BhWnAu) | [Visino Bianco](https://open.spotify.com/artist/5k9ftVfZWQvoQkIEqcnTwx) | [GIOVANE K](https://open.spotify.com/album/21D5q29NdDolvQzfTpJxYh) | 2:15 |
-| 62 | [Scendo E Cerco Un’Altra](https://open.spotify.com/track/0qFzTGufPnqkI4GrAwXCg1) | [G.Mineiro](https://open.spotify.com/artist/1dlyjeDlgXalzt5oqbgWDs) | [Scendo E Cerco Un’Altra](https://open.spotify.com/album/1g9x6zzynCJggRwNaeAExc) | 2:09 |
+| 62 | [Scendo E Cerco Un’Altra](https://open.spotify.com/track/0qFzTGufPnqkI4GrAwXCg1) | [G.Mineiro](https://open.spotify.com/artist/1dlyjeDlgXalzt5oqbgWDs), [Flatpearl](https://open.spotify.com/artist/2ifTEcQqKSPwijIEcPHQ1R), [Succo](https://open.spotify.com/artist/1l1A1U8VJM15W7zonFqKhg) | [Scendo E Cerco Un’Altra](https://open.spotify.com/album/1g9x6zzynCJggRwNaeAExc) | 2:09 |
 | 63 | [FIENO](https://open.spotify.com/track/4V5GC7zyjWJpz7MbPXGjCm) | [Zizzu](https://open.spotify.com/artist/0zpSxvKs0CT4aktl3RAs0v) | [FIENO](https://open.spotify.com/album/5BxrieW7n92Mhhi0psWgQY) | 2:22 |
 | 64 | [COST TO COST](https://open.spotify.com/track/0n8b3Gs5t0KehJhsezOik4) | [Cosse](https://open.spotify.com/artist/0LDESJcgTtM2KjhzIIFnq1), [Gale](https://open.spotify.com/artist/0MLdj7ABckNxmKWlrxBuUL), [goon!](https://open.spotify.com/artist/433ELfo0sY6Bp9KxbCIJbW) | [COST TO COST](https://open.spotify.com/album/3nXP7A8UFgdNPDJi7cGnAN) | 2:52 |
 | 65 | [Euphon](https://open.spotify.com/track/55zeosblxcVqvOjYUbLymx) | [tretreaura](https://open.spotify.com/artist/1EhU56ndTtTBZjoo77GscN), [Olli](https://open.spotify.com/artist/6TjVxYjWKkg9kI8tsg8zDi) | [Euphon](https://open.spotify.com/album/4ZCPCeyc8OG2MGOPd9RB31) | 1:39 |

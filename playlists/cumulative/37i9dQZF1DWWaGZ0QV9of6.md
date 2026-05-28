@@ -2,7 +2,7 @@
 
 ### [Empowering Young Adults \(2\)](https://open.spotify.com/playlist/37i9dQZF1DWWaGZ0QV9of6)
 
-> 
+> Honest, heartfelt YA stories for teens navigating identity, friendship, and the future.
 
 0 song - 0 sec
 

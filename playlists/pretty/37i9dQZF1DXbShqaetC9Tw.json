@@ -1,6 +1,6 @@
 {
   "description": "\uc0c8\ubcbd \uac10\uc131. Issa Vibe.",
-  "num_followers": 147166,
+  "num_followers": 147157,
   "original_name": "4:00 AM GROOVE",
   "owner": {
     "name": "Spotify",
@@ -739,6 +739,22 @@
     {
       "added_at": "2026-04-01 10:59:09",
       "album": {
+        "name": "JONGHYUN The Collection \"Story Op.2\"",
+        "url": "https://open.spotify.com/album/3eHhVAhT8uCrEPlZywai3o"
+      },
+      "artists": [
+        {
+          "name": "JONGHYUN",
+          "url": "https://open.spotify.com/artist/5rGgflnIpRNizTCozbYBuY"
+        }
+      ],
+      "duration_ms": 262513,
+      "name": "Fireplace",
+      "url": "https://open.spotify.com/track/6X8cpgM2Cf3rnZqXxfSjHQ"
+    },
+    {
+      "added_at": "2026-04-01 10:59:09",
+      "album": {
         "name": "stars burn out",
         "url": "https://open.spotify.com/album/7zR88DU7qfwRM8LujvL4EZ"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 215852,
       "name": "stars burn out",
       "url": "https://open.spotify.com/track/2SZkuX2KgTCugNYcKCoEqH"
-    },
-    {
-      "added_at": "2026-04-01 10:59:09",
-      "album": {
-        "name": "JONGHYUN The Collection \"Story Op.2\"",
-        "url": "https://open.spotify.com/album/3eHhVAhT8uCrEPlZywai3o"
-      },
-      "artists": [
-        {
-          "name": "JONGHYUN",
-          "url": "https://open.spotify.com/artist/5rGgflnIpRNizTCozbYBuY"
-        }
-      ],
-      "duration_ms": 262513,
-      "name": "Fireplace",
-      "url": "https://open.spotify.com/track/6X8cpgM2Cf3rnZqXxfSjHQ"
     },
     {
       "added_at": "2026-04-01 10:59:09",

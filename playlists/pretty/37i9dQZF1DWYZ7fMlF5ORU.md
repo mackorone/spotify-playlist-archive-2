@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ7fMlF5ORU.md) - [plain]
 
 > A alegria do Senhor é a vossa força! Entre no groove com o melhor do Soul, Funk e Disco Cristão\. Foto: Eli Soares
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,997 likes - 80 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,022 likes - 80 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,9 +51,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ7fMlF5ORU.md) - [plain]
 | 41 | [Tua Vontade \- Ao Vivo](https://open.spotify.com/track/6cHGFCtV4KxdqAon5BqTz7) | [PV Dantas](https://open.spotify.com/artist/4lYB1E5Ad1KMZDLL2G8y5Z), [2metro](https://open.spotify.com/artist/2X9dC91SeQxCJwWk2LyjEV) | [Tua Vontade \(Ao Vivo\)](https://open.spotify.com/album/4hqMaCZwijfjD4sWL6U2Fz) | 3:27 |
 | 42 | [Medley: Dom Supremo](https://open.spotify.com/track/2niQsGMsrqw5sYWRaqAKPO) | [Luciano Claw](https://open.spotify.com/artist/29cOjdDdQXsONEsNqNixeu) | [Por Amor a Ti](https://open.spotify.com/album/7xfnLd7REayaXqCwa697Mx) | 2:43 |
 | 43 | [Seu Nome É](https://open.spotify.com/track/5y8UsdjJRuyojhnJhb7XFc) | [Coral Enok](https://open.spotify.com/artist/26Ehr2r4LNbVDeCYiLrncA) | [Seu Nome É](https://open.spotify.com/album/1lC2LfCnXOzOCKRRtLSaQt) | 5:40 |
-| 44 | [Estado de Graça](https://open.spotify.com/track/55uFwkTDMaj8JglcYMHz3T) | [Você Adora](https://open.spotify.com/artist/7m6yvEmFPZXBq3NYNxHuZA), [Gleydson Leandro](https://open.spotify.com/artist/6BMlzwDmaPryHa4Wjmv6V6), [Clovis Pinho](https://open.spotify.com/artist/703PFYg5UbYSaUKry9NWhF) | [Você Adora](https://open.spotify.com/album/3zOL6RLsb5VLKvddXa1xN9) | 3:39 |
-| 45 | [Ele Me Salvou](https://open.spotify.com/track/369AIQyJtYlpCythA4cC1d) | [Vet](https://open.spotify.com/artist/3KohAVuMpVdQoeLi7LwvVn), [Urban Music](https://open.spotify.com/artist/1rlhLZKrDNMRbPUMbbgAgY) | [Ele Me Salvou](https://open.spotify.com/album/4YG8f8VlBecQsisfW9tBOz) | 2:57 |
-| 46 | [Profeta](https://open.spotify.com/track/3XDlh3qWr9on7q4kLRRf05) | [Robson Nascimento](https://open.spotify.com/artist/3rd7BCaAWyKxJFKiSjlxdd) | [Fortaleza Minha](https://open.spotify.com/album/0fmDzUwpVkfVmOK97YdEhC) | 4:46 |
+| 44 | [Profeta](https://open.spotify.com/track/3XDlh3qWr9on7q4kLRRf05) | [Robson Nascimento](https://open.spotify.com/artist/3rd7BCaAWyKxJFKiSjlxdd) | [Fortaleza Minha](https://open.spotify.com/album/0fmDzUwpVkfVmOK97YdEhC) | 4:46 |
+| 45 | [Estado de Graça](https://open.spotify.com/track/55uFwkTDMaj8JglcYMHz3T) | [Você Adora](https://open.spotify.com/artist/7m6yvEmFPZXBq3NYNxHuZA), [Gleydson Leandro](https://open.spotify.com/artist/6BMlzwDmaPryHa4Wjmv6V6), [Clovis Pinho](https://open.spotify.com/artist/703PFYg5UbYSaUKry9NWhF) | [Você Adora](https://open.spotify.com/album/3zOL6RLsb5VLKvddXa1xN9) | 3:39 |
+| 46 | [Ele Me Salvou](https://open.spotify.com/track/369AIQyJtYlpCythA4cC1d) | [Vet](https://open.spotify.com/artist/3KohAVuMpVdQoeLi7LwvVn), [Urban Music](https://open.spotify.com/artist/1rlhLZKrDNMRbPUMbbgAgY) | [Ele Me Salvou](https://open.spotify.com/album/4YG8f8VlBecQsisfW9tBOz) | 2:57 |
 | 47 | [Pista do Céu \(Quase 30\)](https://open.spotify.com/track/2Tkbqw8hvszUvsP71JYUW6) | [Templo Soul](https://open.spotify.com/artist/6oMQVHIihBzjKq4FbNRGW9), [Oseas Silva](https://open.spotify.com/artist/4TgTsq9dm2YdErrB8AJHMh) | [Pista do Céu \(Quase 30\)](https://open.spotify.com/album/4ysRL1yOl0Wk8q55x83NTT) | 7:12 |
 | 48 | [Quero Te Levar Comigo](https://open.spotify.com/track/0ATKsRzQ4dQvN0m4sewCTB) | [Bruno Cerqueira](https://open.spotify.com/artist/2YKr7WRb3XjesJU0P7oC3D) | [Quero Te Levar Comigo](https://open.spotify.com/album/4kvKVOVwLkE1YYP0i7SIq6) | 4:39 |
 | 49 | [Nunca Vou Parar \- Live](https://open.spotify.com/track/7dXI0bmuBoPjTuhBLGyZlS) | [Daniel Araujo](https://open.spotify.com/artist/4Jq7MWwjAEjcBI7TdTtCYg) | [Nunca Vou Parar \(Live\)](https://open.spotify.com/album/3eFgwOT6PBsfIeHPCgS7QF) | 3:45 |

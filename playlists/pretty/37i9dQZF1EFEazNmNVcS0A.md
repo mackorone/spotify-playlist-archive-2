@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEazNmNVcS0A.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/31KmCnNeB0z9GdgtqlLDlH">Kid Harpoon</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,631 likes - 167 songs - 9 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,633 likes - 167 songs - 9 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEazNmNVcS0A.md) - [plain]
 | 49 | [Are You Listening Yet?](https://open.spotify.com/track/7s7v5EoNLD6TwDu4Nw51Oy) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Kiss All The Time\. Disco, Occasionally.](https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR) | 3:12 |
 | 50 | [Wildest Moments](https://open.spotify.com/track/2QPuWjnOa6N5p8fGn3iGly) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Devotion](https://open.spotify.com/album/1T5wmjLCBuuTKTpKsiAn7R) | 3:42 |
 | 51 | [305](https://open.spotify.com/track/5ld8E3DVBXCCWQ54yrkWVp) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Wonder](https://open.spotify.com/album/3Lp4JKk2ZgNkybMRS3eZR5) | 3:09 |
-| 52 | [Sanctify](https://open.spotify.com/track/6vTCTLxLrcJ3MUSouFW6op) | [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Palo Santo \(Deluxe\)](https://open.spotify.com/album/1OUGPngAngAxjliRlrAc6v) | 3:12 |
-| 53 | [Dance No More](https://open.spotify.com/track/0VV0AMmgLBUhzuFedr3F3e) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Kiss All The Time\. Disco, Occasionally.](https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR) | 3:14 |
+| 52 | [Dance No More](https://open.spotify.com/track/0VV0AMmgLBUhzuFedr3F3e) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Kiss All The Time\. Disco, Occasionally.](https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR) | 3:14 |
+| 53 | [Sanctify](https://open.spotify.com/track/6vTCTLxLrcJ3MUSouFW6op) | [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Palo Santo \(Deluxe\)](https://open.spotify.com/album/1OUGPngAngAxjliRlrAc6v) | 3:12 |
 | 54 | [Carla's Song](https://open.spotify.com/track/3QuRLv8zkIYH31O5VgEpmo) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Kiss All The Time\. Disco, Occasionally.](https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR) | 4:13 |
 | 55 | [The Waiting Game](https://open.spotify.com/track/0tV6LXuVzJR4yifqwQuNwN) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Kiss All The Time\. Disco, Occasionally.](https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR) | 2:49 |
 | 56 | [Season 2 Weight Loss](https://open.spotify.com/track/6GteP2UCnpHRWSZTL63QHe) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Kiss All The Time\. Disco, Occasionally.](https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR) | 3:49 |
@@ -135,9 +135,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEazNmNVcS0A.md) - [plain]
 | 125 | [Taking In Water](https://open.spotify.com/track/0XVTW9rACtI7GWPKN9ddrj) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Devotion](https://open.spotify.com/album/1T5wmjLCBuuTKTpKsiAn7R) | 4:27 |
 | 126 | [Little Secrets](https://open.spotify.com/track/4omr1cq5R7iOQLgZ23hUQ0) | [Professor Green](https://open.spotify.com/artist/0oJM3iJjMdzgsd4z5VHQvw), [Mr\. Probz](https://open.spotify.com/artist/33W1pnW9zScZtYTnAoWnOT) | [Growing Up In Public](https://open.spotify.com/album/3SAFkPKG9uhLXkdLeMjgHL) | 3:58 |
 | 127 | [Eddie In The Darkness](https://open.spotify.com/track/4I0VuGVxsWKFcbniaUs835) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Open Wide](https://open.spotify.com/album/0BOPVh2yWYPZLXbHRQtib1) | 3:35 |
-| 128 | [Walking on Water](https://open.spotify.com/track/1WqXjbbQhyfPk1hH6bzdWM) | [Eliza Doolittle](https://open.spotify.com/artist/14L5rpGTLVUz1pD8fUeJB1) | [In Your Hands \(Deluxe Edition\)](https://open.spotify.com/album/1LMMAiUqFPsHi4MnU90xb1) | 3:22 |
-| 129 | [Wanderlust](https://open.spotify.com/track/0ScXjG3XP46w5NDR876WEM) | [AlunaGeorge](https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38) | [I Remember](https://open.spotify.com/album/6KuHbuDiJNcgEvnLTnfQcY) | 3:30 |
-| 130 | [X\-Ray](https://open.spotify.com/track/31Qp9mEYRYGUeemUoTtTaV) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Open Wide](https://open.spotify.com/album/0BOPVh2yWYPZLXbHRQtib1) | 3:23 |
+| 128 | [X\-Ray](https://open.spotify.com/track/31Qp9mEYRYGUeemUoTtTaV) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Open Wide](https://open.spotify.com/album/0BOPVh2yWYPZLXbHRQtib1) | 3:23 |
+| 129 | [Walking on Water](https://open.spotify.com/track/1WqXjbbQhyfPk1hH6bzdWM) | [Eliza Doolittle](https://open.spotify.com/artist/14L5rpGTLVUz1pD8fUeJB1) | [In Your Hands \(Deluxe Edition\)](https://open.spotify.com/album/1LMMAiUqFPsHi4MnU90xb1) | 3:22 |
+| 130 | [Wanderlust](https://open.spotify.com/track/0ScXjG3XP46w5NDR876WEM) | [AlunaGeorge](https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38) | [I Remember](https://open.spotify.com/album/6KuHbuDiJNcgEvnLTnfQcY) | 3:30 |
 | 131 | [Give Up](https://open.spotify.com/track/5li5EhhnMkMUDIGzsXArZ5) | [Miles Kane](https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn) | [Don't Forget Who You Are](https://open.spotify.com/album/6Kw1xFI4YeiB1dzrWhZS9U) | 2:45 |
 | 132 | [Even Though](https://open.spotify.com/track/715QKbvfHYTZFs1j8hrAD6) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Open Wide](https://open.spotify.com/album/0BOPVh2yWYPZLXbHRQtib1) | 3:18 |
 | 133 | [Hurt You First](https://open.spotify.com/track/3aq7bBhLd8E1yenCIcVJ8P) | [Niia](https://open.spotify.com/artist/1KlUwB6uFECMC3zzvFvykx) | [I](https://open.spotify.com/album/5H8Dgsh8svwDtZHQ9h2CkF) | 3:36 |
@@ -176,4 +176,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEazNmNVcS0A.md) - [plain]
 | 166 | [Devil In Me](https://open.spotify.com/track/1MwATqhm2jKz0uTOnlu6yf) | [Jamie N Commons](https://open.spotify.com/artist/2FsZnS8gQ8jG1HGnPYNlm9) | [Devil In Me](https://open.spotify.com/album/2Gpx4ORjlth9IgGMnKDZhJ) | 3:19 |
 | 167 | [Absent](https://open.spotify.com/track/7KqyvSXcastVzKIcqMCwF3) | [Denai Moore](https://open.spotify.com/artist/4bS7w1U8P3Zuaa5jmj3mvN) | [Elsewhere](https://open.spotify.com/album/4hjsM5a2HmoIFILWbfSmgE) | 3:38 |
 
-Snapshot ID: `AcSj0gAAAACYP0L6OiY1D5CGwLG9cXxO`
+Snapshot ID: `AcSpfAAAAAB8cPuhtegKrq53saLQd+K5`

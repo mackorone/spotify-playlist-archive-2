@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTOPE5PGBHDN.md) - [plain]
 
 > ¡mueve ese booty con la  Sayuri & Sopholov! 🍑🥵🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 306,489 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 306,525 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTOPE5PGBHDN.md) - [plain]
 | 63 | [Tu Sicaria](https://open.spotify.com/track/5cyKYhm8vo5edvuT5tIuQ6) | [Ms Nina](https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ), [Beauty Brain](https://open.spotify.com/artist/3KsfLbdoFjSnXT2QUK7ooR) | [Tu Sicaria](https://open.spotify.com/album/6LcDLFvmP0BrUOgEFjscJR) | 2:27 |
 | 64 | [MUXAXA](https://open.spotify.com/track/0zNQhDxF7EVm7VUqU7nIBu) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [La Mas Doll](https://open.spotify.com/artist/0PPgD3dY7wrxsMe021mByK) | [MUXAXA](https://open.spotify.com/album/6NeWz1m7EndzRGrxiX39KZ) | 1:49 |
 | 65 | [Y si peleamos](https://open.spotify.com/track/0JWgArA3FO5l0JQdi4d6O1) | [Easykid](https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Y si peleamos](https://open.spotify.com/album/1CpUVHEtxwsRB3KGiqnDVY) | 3:12 |
-| 66 | [Hotel Room](https://open.spotify.com/track/2JvmvxYvYTijGMCpiulS3N) | [FLVCKKA](https://open.spotify.com/artist/12fZoiFXBSs7aVMxGKQgBN), [Sleezy O](https://open.spotify.com/artist/4lKCm9X9aPxuejrckz6b4n), [Maury](https://open.spotify.com/artist/7LRYPLE0QYC8JeRWmFnGyg) | [Porque Quise DELUXE](https://open.spotify.com/album/78Ok3vPNjR0K0WKVz4wYNm) | 2:53 |
-| 67 | [Tra Tra Tra Remix \- Remix](https://open.spotify.com/track/4YqCBC4FwzGXuhixt5cgmm) | [Ghetto Kids](https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq), [Mad Fuentes](https://open.spotify.com/artist/6fzh7nbhTUmqHUlx7a6DFW) | [Tra Tra Tra Remix](https://open.spotify.com/album/4TntWxJmNQSZJGcj3ewRBc) | 2:51 |
+| 66 | [Tra Tra Tra Remix \- Remix](https://open.spotify.com/track/4YqCBC4FwzGXuhixt5cgmm) | [Ghetto Kids](https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq), [Mad Fuentes](https://open.spotify.com/artist/6fzh7nbhTUmqHUlx7a6DFW) | [Tra Tra Tra Remix](https://open.spotify.com/album/4TntWxJmNQSZJGcj3ewRBc) | 2:51 |
+| 67 | [Hotel Room](https://open.spotify.com/track/2JvmvxYvYTijGMCpiulS3N) | [FLVCKKA](https://open.spotify.com/artist/12fZoiFXBSs7aVMxGKQgBN), [Sleezy O](https://open.spotify.com/artist/4lKCm9X9aPxuejrckz6b4n), [Maury](https://open.spotify.com/artist/7LRYPLE0QYC8JeRWmFnGyg) | [Porque Quise DELUXE](https://open.spotify.com/album/78Ok3vPNjR0K0WKVz4wYNm) | 2:53 |
 | 68 | [Dime si recuerdas](https://open.spotify.com/track/1V7RNyHNVZCkPaqLXxdikS) | [Cachirula](https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G), [LOOJAN](https://open.spotify.com/artist/7lXN2zsTNeVB1MM7rIrWnI) | [FRÍO](https://open.spotify.com/album/1TLTudCTEvRM8pnyGQT5qu) | 2:17 |
 | 69 | [Bata Bata 2](https://open.spotify.com/track/1N1KlnNm1NE4INLOrKN3fi) | [Latin Fresh](https://open.spotify.com/artist/1NRrKr08wLdYUdSOnNDs7M) | [Plan Calle](https://open.spotify.com/album/7ku5AqOktQG9t6GsSE0BL8) | 3:28 |
 | 70 | [Rodillas](https://open.spotify.com/track/3V0dDAgNdQod4YwoqrPMZP) | [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Dj Hate](https://open.spotify.com/artist/0CE9Pp45uCrBkCsL4COjfS) | [Tu Maliante Bebé](https://open.spotify.com/album/52T60B8J8WEemm5JgBIkEq) | 3:31 |

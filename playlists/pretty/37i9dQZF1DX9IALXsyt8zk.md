@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9IALXsyt8zk.md) - [plain]
 
 > Unearthing up\-and\-coming Korean acts\. \(Cover: can’t be blue\(캔트비블루\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,527 likes - 51 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,528 likes - 51 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9IALXsyt8zk.md) - [plain]
 | 9 | [ZAP](https://open.spotify.com/track/6PLgpJz0y2xY4Ooa9IhyUq) | [Billlie](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) | [the collective soul and unconscious: chapter two](https://open.spotify.com/album/621IFsYDErBmezF4TWADae) | 2:28 |
 | 10 | [Keep On](https://open.spotify.com/track/2kLxc1zc9dFFSAMGv0bf2C) | [Balming Tiger](https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1) | [Gongbu](https://open.spotify.com/album/2kwTXgEgFRv1DUbhmLsNcM) | 3:50 |
 | 11 | [TA TA](https://open.spotify.com/track/6pW5jh7hSuv4rNdmmeovmp) | [KIIRAS](https://open.spotify.com/artist/21reDxe0sRtmiUmBIfffaZ) | [TA TA](https://open.spotify.com/album/585JaGbmRMq8qFAN3QBs0k) | 3:03 |
-| 12 | [Stuck \(Feat\. Yerin Baek\)](https://open.spotify.com/track/2gdhV5aSdF3L5pfp7SEPRx) | [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja), [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Stuck](https://open.spotify.com/album/1WBrel8w5536mVdYNnmQko) | 2:48 |
+| 12 | [Stuck \(Feat\. Yerin Baek\)](https://open.spotify.com/track/2gdhV5aSdF3L5pfp7SEPRx) | [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja), [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Stuck \(Feat\. Yerin Baek\)](https://open.spotify.com/album/1WBrel8w5536mVdYNnmQko) | 2:48 |
 | 13 | [Star\*](https://open.spotify.com/track/7uAVtZiyafG8YsI5yTiQ6y) | [Marv](https://open.spotify.com/artist/1V2ep7618bYgCcTVyDKPcW), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Star\*](https://open.spotify.com/album/7hyBwIvph2D8QEKziDPErF) | 3:39 |
 | 14 | [R o c k s t a r](https://open.spotify.com/track/0HK7oWewtvx8IfAoXioTrF) | [YongYong](https://open.spotify.com/artist/4lgoUoPxqxjZMtN0raCBVK) | [R o c k s t a r](https://open.spotify.com/album/2ZqrhDHPMV851h9vwMW449) | 2:47 |
 | 15 | [AWAKE](https://open.spotify.com/track/5GFthY4y9WiwEG68wNdGn1) | [CRAVITY](https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn) | [ReDeFINE](https://open.spotify.com/album/78OxOrAiiseIh63k1LmUWX) | 2:36 |
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9IALXsyt8zk.md) - [plain]
 | 33 | [Moonwalkin'](https://open.spotify.com/track/46V2ciN6F5bxjQWityNhkY) | [LNGSHOT](https://open.spotify.com/artist/2F4oTJOWkcD1JaTeKEa9h6) | [SHOT CALLERS](https://open.spotify.com/album/6M05ADW4mz2x07jIpIzCXR) | 3:28 |
 | 34 | [FREAK ALARM](https://open.spotify.com/track/44V5j1NOwRWBV8krmLnr4J) | [ALPHA DRIVE ONE](https://open.spotify.com/artist/1Sal7hVz3weo0mvYZPiWHT) | [EUPHORIA](https://open.spotify.com/album/5nefAD1EsXbLksNfBJorPV) | 3:08 |
 | 35 | [Trippin′ \(feat\. ASH ISLAND\)](https://open.spotify.com/track/6QCzWMWJSSRk671GThuYlt) | [TOIL](https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S), [Jayci yucca](https://open.spotify.com/artist/6yFuoRFCsxQLasjZqdwvAM), [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [SUJI](https://open.spotify.com/album/3MEafRR73bc02D1xhjlBnp) | 2:31 |
-| 36 | [OVERDRIVE](https://open.spotify.com/track/5qAfVxNUxjrELshgTpWxLf) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [TWS 4th Mini Album 'play hard'](https://open.spotify.com/album/6RBnUYZIGKGDdgEnf3ta1U) | 2:40 |
+| 36 | [OVERDRIVE](https://open.spotify.com/track/5qAfVxNUxjrELshgTpWxLf) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [play hard](https://open.spotify.com/album/6RBnUYZIGKGDdgEnf3ta1U) | 2:40 |
 | 37 | [wo ai ni](https://open.spotify.com/track/5FJtLMs3dkq0K28v69lbRb) | [Balming Tiger](https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1), [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [wo ai ni / break it even](https://open.spotify.com/album/1Had0ltWJoM2L8xBPjLMK6) | 3:31 |
 | 38 | [MAZE](https://open.spotify.com/track/32ymN2NGUziy15w5IyGLwR) | [ONEWE](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16) | [MAZE : AD ASTRA](https://open.spotify.com/album/1HJg0IRDm3caBaOplYye5U) | 4:09 |
 | 39 | [Mamma Mia](https://open.spotify.com/track/5mxBUe5ycmUiUkDaLC5yVI) | [izna](https://open.spotify.com/artist/6EB5QC7lGAu7bSuWQ416d4) | [Not Just Pretty](https://open.spotify.com/album/5GbFWsdf0iAbLvg2nMwxHG) | 2:39 |

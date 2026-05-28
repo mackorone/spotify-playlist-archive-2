@@ -4,7 +4,7 @@
 
 > Lola Young, Nono La Grinta et Joé Dwèt Filé au top des nouveautés de la semaine !
 
-9,454 songs - 20 day 10 hr 1 min
+9,455 songs - 20 day 10 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -9289,6 +9289,7 @@
 | [Yamaha](https://open.spotify.com/track/6qR5YGunNSASaabs4kJB9V) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Baby](https://open.spotify.com/album/3hKlec1wgYVJcI0YvwCFJB) | 4:28 | 2025-08-14 | 2025-08-22 |
 | [YANGO \(feat\. Emma'a\)](https://open.spotify.com/track/48EniEZSy7BSUdMvWMDWAI) | [L'Oiseau Rare](https://open.spotify.com/artist/4IAlTRWiKoAqAQLgyupL0U), [Emma'a](https://open.spotify.com/artist/45icwBBgjnEtg9ETR1Nipx) | [AFRO\-N\-TCHAM 2](https://open.spotify.com/album/0aTEIBSkouiQnHANZUekbg) | 3:01 | 2026-02-12 | 2026-02-20 |
 | [YAPAQUE](https://open.spotify.com/track/67kmVaXtdmcy856hKjHb3y) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [YAPAQUE](https://open.spotify.com/album/29FOwp0vsOM1V3ybDRFL5v) | 3:57 | 2026-05-07 | 2026-05-15 |
+| [Yasmine Alsham](https://open.spotify.com/track/7gKg0BSNZfMweFFhyDTPyp) | [Acid Arab](https://open.spotify.com/artist/3ShO8tPKqXUUpOA0urOWW7), [Wael Alkak](https://open.spotify.com/artist/61yomtNgmkhZGD33Jy04C4) | [Resonance](https://open.spotify.com/album/59BuyeMDf52WWbGqfmd2mA) | 4:49 | 2026-05-21 |  |
 | [YAYO](https://open.spotify.com/track/3sKBph3ElueH1dVLmkHWZZ) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [HEIS](https://open.spotify.com/album/2DDaN7Pgx9uDPd8IbWWW9H) | 2:30 | 2024-07-11 | 2024-07-19 |
 | [YBIL \(You Believe in Love\) \(feat\. Kizz Daniel\)](https://open.spotify.com/track/6bF1EypRS76xVjKe9fho5C) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh), [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Qing Madi \(Deluxe\)](https://open.spotify.com/album/4vxIotduGifC33fGSfxxom) | 3:15 | 2024-07-04 | 2024-07-12 |
 | [Ye Kou Si Kuo](https://open.spotify.com/track/1jyc97CiNY6SCMHbqZ3aUQ) | [Naive New Beaters](https://open.spotify.com/artist/0xW1QQBD5O09HptO2fEaI4), [Star Feminine Band](https://open.spotify.com/artist/3dy8kIwzqBk3FvlJkfhVjy) | [Ye Kou Si Kuo](https://open.spotify.com/album/5qfjN1B5QcDuFzgj6WGn7U) | 2:23 | 2024-04-25 | 2024-05-03 |

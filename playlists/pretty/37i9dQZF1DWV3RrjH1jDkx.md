@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Endelig fredag og ny musikk fra Fjellrev, Charli xcx, Nessi og mange fler!! ♥️
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,393 likes - 104 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,383 likes - 104 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Alexis Ffrench
 
-[Spotify](https://open.spotify.com/user/spotify) - 755,813 likes - 99 songs - 7 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 755,830 likes - 99 songs - 7 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

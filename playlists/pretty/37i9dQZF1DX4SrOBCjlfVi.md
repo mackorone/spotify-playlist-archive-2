@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Veeze, 6LACK, French Montana & Max B and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 382,588 likes - 61 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 382,606 likes - 61 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 31 | [Married to the Game](https://open.spotify.com/track/6VFkxVv1wJ0UYvGuR0mQjU) | [Haiti Babii](https://open.spotify.com/artist/6NQgMwGc3jvdwGZKUbhhHi) | [Married to the Game](https://open.spotify.com/album/2PUbba2cjLyVPR82IIMXrl) | 2:44 |
 | 32 | [Beautiful Demon](https://open.spotify.com/track/36B064djhtVwoYogqL520H) | [Jdot Breezy](https://open.spotify.com/artist/0VSM8D7ibtXjJgukfVR0eZ) | [Beautiful Demon](https://open.spotify.com/album/7fy6CHWzaFygKR8IQ3irKz) | 2:49 |
 | 33 | [30 Days](https://open.spotify.com/track/4xC2eq5lA0CzDFZH7yk3Um) | [Raq baby](https://open.spotify.com/artist/2MEiPjmRDl1ftTEaBD3B7D) | [30 Days](https://open.spotify.com/album/4uWXP3dsrs3ipaZoP4ZP2b) | 2:16 |
-| 34 | [She A Freak Interlude](https://open.spotify.com/track/404H3p8Vbw34Eo6U64U5E2) | [Rucci](https://open.spotify.com/artist/7q836WTO8OHUS85E2RyxxA) | [She A Freak Interlude](https://open.spotify.com/album/3F3ayyOtQW0c1ShDaaj69Q) | 1:43 |
+| 34 | [She A Freak Interlude](https://open.spotify.com/track/404H3p8Vbw34Eo6U64U5E2) | [Rucci](https://open.spotify.com/artist/7q836WTO8OHUS85E2RyxxA) | [She A Freak Interlude](https://open.spotify.com/album/3F3ayyOtQW0c1ShDaaj69Q) | 1:42 |
 | 35 | [Sweet Nothings](https://open.spotify.com/track/6PG9UVRITYCobYPanbBiSx) | [Yella Beezy](https://open.spotify.com/artist/7kwCkEJ384PWm0UQW3hxjS), [K CAMP](https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H) | [Sweet Nothings](https://open.spotify.com/album/232y3FMJPq1EuhP8HqhIZM) | 3:35 |
 | 36 | [Summer's Eve](https://open.spotify.com/track/0oxiKdGSTfVNfK1flDbDD7) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY) | [Summer's Eve](https://open.spotify.com/album/0OIrIgDnitB9yMYLYyf41e) | 4:06 |
 | 37 | [In The Car](https://open.spotify.com/track/6c1GvfdzNGxeWWIyvvexXq) | [Jim Jones](https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe), [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX), [Kodie Shane](https://open.spotify.com/artist/1CUeN4GnHAGUk9nAXPorF4) | [In The Car](https://open.spotify.com/album/32DM1J365BeRgOSHPQFBPs) | 3:31 |

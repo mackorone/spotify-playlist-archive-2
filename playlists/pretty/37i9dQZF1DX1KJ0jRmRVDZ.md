@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 
 > インターネットカルチャーから生まれたサウンドの記録。A collection of sounds shaped by internet culture\. <br/>Cover: Ayase
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,885 likes - 70 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,911 likes - 70 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Track 1](https://open.spotify.com/track/4dXAx6MlPTqRFC804zZZQ3) | [Ayase](https://open.spotify.com/artist/1S8OQ9SqlLdD9l4paaZMuZ) | [dialogue](https://open.spotify.com/album/0nFxDK8187xYJPMMph6c7y) | 0:00 |
+| 1 | [PLANETS](https://open.spotify.com/track/4dXAx6MlPTqRFC804zZZQ3) | [Ayase](https://open.spotify.com/artist/1S8OQ9SqlLdD9l4paaZMuZ) | [dialogue](https://open.spotify.com/album/0nFxDK8187xYJPMMph6c7y) | 3:04 |
 | 2 | [Vivop](https://open.spotify.com/track/32t5Dj1fDMw6i0rYGVCXPD) | [Empty old City](https://open.spotify.com/artist/3RvUqTyR1WwQzNaGuBKnCY) | [Vivop](https://open.spotify.com/album/3SksuT7V1zXAAoQZVDSskP) | 3:23 |
 | 3 | [あぶく](https://open.spotify.com/track/59h6J25QnnT8xshPTFLkpe) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [あぶく](https://open.spotify.com/album/7gfuOSKYUVBQBdg8Onas9L) | 3:54 |
 | 4 | [KILLERMOON](https://open.spotify.com/track/5Zgu2pFwTgpTzMdyjNpII1) | [NOMELON NOLEMON](https://open.spotify.com/artist/3PRXdiVu8lUkeCKw4ZUX4B) | [EYE](https://open.spotify.com/album/0SxFKQ1SqA3SF9EPcSG5E0) | 3:45 |

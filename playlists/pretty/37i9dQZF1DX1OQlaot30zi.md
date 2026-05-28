@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Tedua, IvanBi,  Vegas Jones, FreshMula, Silent Bob e molti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,525 likes - 109 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,534 likes - 109 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 16 | [MARIA](https://open.spotify.com/track/4vbxC18tQdekz9pOEvly2X) | [Il Ghost](https://open.spotify.com/artist/2tOGpIgNsnDk6BxqFU2vCX), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [MARIA](https://open.spotify.com/album/0TM3NXFHM0PKEqKcnxKZIH) | 3:40 |
 | 17 | [leggenda vivente](https://open.spotify.com/track/2AuuKXckWtanMCosf3rQBH) | [Waze RRX](https://open.spotify.com/artist/12wWvc6Z0111IfGRncCtwD) | [leggenda vivente](https://open.spotify.com/album/4gYXm0c2Pctov4QOgkijRS) | 2:24 |
 | 18 | [RAW OR SWEET](https://open.spotify.com/track/6l2FnoZNitUUDnGQSqT4HN) | [Kevin Kalvin](https://open.spotify.com/artist/2AAA2f9pypoLem07n4Rj9n) | [RAW OR SWEET](https://open.spotify.com/album/6LG7tSuqmG5vrTLZ1eu46p) | 2:23 |
-| 19 | [Splinter Cell](https://open.spotify.com/track/3KsGBiWVuybY3Zm7LDKuqK) | [G.Mineiro](https://open.spotify.com/artist/1dlyjeDlgXalzt5oqbgWDs) | [Splinter Cell](https://open.spotify.com/album/6R0HGRmgF4A0wMrwkTh6yr) | 1:57 |
+| 19 | [Splinter Cell](https://open.spotify.com/track/3KsGBiWVuybY3Zm7LDKuqK) | [G.Mineiro](https://open.spotify.com/artist/1dlyjeDlgXalzt5oqbgWDs), [Flatpearl](https://open.spotify.com/artist/2ifTEcQqKSPwijIEcPHQ1R), [Jiz](https://open.spotify.com/artist/38CThoTDmXugNnfonW466d), [Succo](https://open.spotify.com/artist/1l1A1U8VJM15W7zonFqKhg) | [Splinter Cell](https://open.spotify.com/album/6R0HGRmgF4A0wMrwkTh6yr) | 1:57 |
 | 20 | [Lettera a Tedua](https://open.spotify.com/track/6XTjmZEoEu0VvSBCFi8bZM) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [SHUNE](https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr) | [Lettera a Tedua](https://open.spotify.com/album/4X7WfpBWrJNJ9QuDCaUl6U) | 2:44 |
 | 21 | [Veleno](https://open.spotify.com/track/29rKvDKOgeEdMpmQmetLjT) | [Tormento](https://open.spotify.com/artist/2av4MrhPDUQLG3py1i0h7L) | [Veleno](https://open.spotify.com/album/6m9lbQkYqGJ8XPcQZxT6ZS) | 3:15 |
 | 22 | [XXV A.D.](https://open.spotify.com/track/0lrFZ1QDM6hTipkpQZekj0) | [Cricca Dei Balordi](https://open.spotify.com/artist/2ABQVj6lXu0Zf7rxC3vrAN), [Bassi Maestro](https://open.spotify.com/artist/4sQiXz6GYok2zyqMSHG0MX), [Dj Zeta](https://open.spotify.com/artist/0igQlEtSvEt9px4qy91gSU) | [YETI](https://open.spotify.com/album/1nsEhd8MzIahHes7mKyc5V) | 2:22 |

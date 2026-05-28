@@ -2,7 +2,7 @@
 
 ### [Queer Mystery](https://open.spotify.com/playlist/37i9dQZF1DX9BH2p9mwNd0)
 
-> 
+> Gripping and dark mysteries with queer perspectives at the heart of every twist.
 
 0 song - 0 sec
 

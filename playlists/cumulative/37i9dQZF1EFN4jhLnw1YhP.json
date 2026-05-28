@@ -1751,6 +1751,28 @@
     },
     {
       "album": {
+        "name": "Rivers",
+        "url": "https://open.spotify.com/album/191ObhNwUbjhkMh4ZvC5Dn"
+      },
+      "artists": [
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        },
+        {
+          "name": "Am\u00e9l",
+          "url": "https://open.spotify.com/artist/6OHd6Z5k9ZmBJ91oqeSpDG"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202739,
+      "name": "Rivers",
+      "url": "https://open.spotify.com/track/32yfHmv0jojX6dOKKiIE5F"
+    },
+    {
+      "album": {
         "name": "Roses",
         "url": "https://open.spotify.com/album/2qIx0ueLDqtvYJtZdOLffk"
       },

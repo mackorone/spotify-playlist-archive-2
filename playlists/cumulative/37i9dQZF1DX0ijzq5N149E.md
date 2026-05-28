@@ -2,7 +2,7 @@
 
 ### [Queer Romance \(2\)](https://open.spotify.com/playlist/37i9dQZF1DX0ijzq5N149E)
 
-> 
+> Fall head over heels with love stories that center queer romance.
 
 0 song - 0 sec
 

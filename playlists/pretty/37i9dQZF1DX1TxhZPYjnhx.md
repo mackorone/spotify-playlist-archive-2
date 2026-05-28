@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1TxhZPYjnhx.md) - [plain]
 
 > Discover new favorites or tomorrow's hits today\. Cover: Lola Young
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,606 likes - 104 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,602 likes - 104 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1TxhZPYjnhx.md) - [plain]
 | 67 | [Material Lover](https://open.spotify.com/track/2NT5EOtSEOrjfisvwmSv5S) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [The Devil Wears Prada 2 \(Music From The Motion Picture\)](https://open.spotify.com/album/5FKnRUB5lt7z5ac1lmu3BE) | 2:58 |
 | 68 | [marigold magic](https://open.spotify.com/track/1N6ICgWxsghCNR51cQWlKX) | [inch](https://open.spotify.com/artist/0jcR2IFFsEtMra80c9Zaei) | [marigold magic](https://open.spotify.com/album/1mRhP3pG9UTnitNAHAuRqs) | 3:59 |
 | 69 | [Day One](https://open.spotify.com/track/6wldZLtGqvQ8vUiy11FtTt) | [FIG](https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8) | [Day One](https://open.spotify.com/album/4jg8dWycV6IFL8kEUKVoCw) | 2:27 |
-| 70 | [You, You](https://open.spotify.com/track/2X9RbCpuBRR6ztXn83AK5U) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [TWS 5th Mini Album ‘NO TRAGEDY’](https://open.spotify.com/album/17ICljXQ2I4bsPYpqkf5co) | 2:45 |
+| 70 | [You, You](https://open.spotify.com/track/2X9RbCpuBRR6ztXn83AK5U) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [NO TRAGEDY](https://open.spotify.com/album/17ICljXQ2I4bsPYpqkf5co) | 2:45 |
 | 71 | [Mirror Mirror](https://open.spotify.com/track/4zGHPVGxMtHFDqsLzxhNAL) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN) | [Mirror Mirror](https://open.spotify.com/album/0FVc0U8iQR7eTpaqdSysLz) | 3:20 |
 | 72 | [Bad Combination](https://open.spotify.com/track/6hEYKhkbUzXq15uRDTOcsU) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [Bad Combination](https://open.spotify.com/album/7GPl7lfPggDwXt1LfNi6wt) | 3:14 |
 | 73 | [Just Wanna Cry](https://open.spotify.com/track/4sVjCdImoRX1JR9VnmVgE0) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Toy With Me \(Deluxe\)](https://open.spotify.com/album/18JIUrWc9SN596q2Km9KSJ) | 2:27 |

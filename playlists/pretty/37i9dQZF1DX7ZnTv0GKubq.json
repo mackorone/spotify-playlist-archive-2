@@ -1,6 +1,6 @@
 {
   "description": "Late night chilled vibes, for those intimate moments.",
-  "num_followers": 373646,
+  "num_followers": 373655,
   "original_name": "Spotify & Chill",
   "owner": {
     "name": "Spotify",
@@ -707,6 +707,26 @@
     {
       "added_at": "2026-04-09 11:21:32",
       "album": {
+        "name": "Wanna Know",
+        "url": "https://open.spotify.com/album/65N53BDKqAMXSHILGYEHTn"
+      },
+      "artists": [
+        {
+          "name": "Stefan Mahendra",
+          "url": "https://open.spotify.com/artist/17lfIZ8ozwR7vDYqRdr8UF"
+        },
+        {
+          "name": "Walker",
+          "url": "https://open.spotify.com/artist/6VWmuRhDSoyqiftAnlNFXz"
+        }
+      ],
+      "duration_ms": 266953,
+      "name": "Wanna Know",
+      "url": "https://open.spotify.com/track/4DlFEmR9aTXJ0VsREeimrM"
+    },
+    {
+      "added_at": "2026-04-09 11:21:32",
+      "album": {
         "name": "H2L",
         "url": "https://open.spotify.com/album/410DaQe7k4IzCAyOffL6eG"
       },
@@ -735,26 +755,6 @@
       "duration_ms": 179268,
       "name": "Only Mine",
       "url": "https://open.spotify.com/track/4EMC2wUflNi4Gcwu2rfURq"
-    },
-    {
-      "added_at": "2026-04-09 11:21:32",
-      "album": {
-        "name": "Wanna Know",
-        "url": "https://open.spotify.com/album/65N53BDKqAMXSHILGYEHTn"
-      },
-      "artists": [
-        {
-          "name": "Stefan Mahendra",
-          "url": "https://open.spotify.com/artist/17lfIZ8ozwR7vDYqRdr8UF"
-        },
-        {
-          "name": "Walker",
-          "url": "https://open.spotify.com/artist/6VWmuRhDSoyqiftAnlNFXz"
-        }
-      ],
-      "duration_ms": 266953,
-      "name": "Wanna Know",
-      "url": "https://open.spotify.com/track/4DlFEmR9aTXJ0VsREeimrM"
     },
     {
       "added_at": "2026-04-09 11:21:32",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-21",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e2b\u0e21\u0e48\u0e17\u0e35\u0e48\u0e14\u0e35\u0e17\u0e35\u0e48\u0e2a\u0e38\u0e14\u0e08\u0e32\u0e01\u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19\u0e23\u0e38\u0e48\u0e19\u0e43\u0e2b\u0e21\u0e48 \u0e04\u0e31\u0e14\u0e2a\u0e23\u0e23\u0e42\u0e14\u0e22\u0e1a\u0e23\u0e23\u0e13\u0e32\u0e18\u0e34\u0e01\u0e32\u0e23 Spotify. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Gee Pussadee. Artwork: Isu Kim",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e2b\u0e21\u0e48\u0e17\u0e35\u0e48\u0e14\u0e35\u0e17\u0e35\u0e48\u0e2a\u0e38\u0e14\u0e08\u0e32\u0e01\u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19\u0e23\u0e38\u0e48\u0e19\u0e43\u0e2b\u0e21\u0e48 \u0e04\u0e31\u0e14\u0e2a\u0e23\u0e23\u0e42\u0e14\u0e22\u0e1a\u0e23\u0e23\u0e13\u0e32\u0e18\u0e34\u0e01\u0e32\u0e23 Spotify. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Snowman. Artwork: Isu Kim",
   "name": "Fresh Finds Thailand",
   "tracks": [
     {
@@ -7892,6 +7892,24 @@
       "duration_ms": 238181,
       "name": "See You Yesterday",
       "url": "https://open.spotify.com/track/7cHFnnFntQ2idDfQiwJX2g"
+    },
+    {
+      "album": {
+        "name": "She is love",
+        "url": "https://open.spotify.com/album/4MHNA2SOk9w3B4099TVi4P"
+      },
+      "artists": [
+        {
+          "name": "alittlebirdtoldme",
+          "url": "https://open.spotify.com/artist/5kVhCKFH2S8hoGSyOMTo2U"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238144,
+      "name": "She is love",
+      "url": "https://open.spotify.com/track/5Ty8KAffZ4b6K7DIHIdzyD"
     },
     {
       "album": {
@@ -15970,6 +15988,24 @@
       "duration_ms": 353043,
       "name": "\u0e08\u0e23\u0e34\u0e07\u0e22\u0e34\u0e48\u0e07\u0e01\u0e27\u0e48\u0e32\u0e08\u0e23\u0e34\u0e07",
       "url": "https://open.spotify.com/track/6FIQFjfGVq0i9ASKpMPtdT"
+    },
+    {
+      "album": {
+        "name": "\u0e08\u0e2d\u0e07\u0e41\u0e25\u0e49\u0e27",
+        "url": "https://open.spotify.com/album/5oLZ2vIn68CBDMW8u7IlYb"
+      },
+      "artists": [
+        {
+          "name": "Indy Pawarisa",
+          "url": "https://open.spotify.com/artist/1oBZ0GKdT4xZOhHULNxdLT"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201666,
+      "name": "\u0e08\u0e2d\u0e07\u0e41\u0e25\u0e49\u0e27",
+      "url": "https://open.spotify.com/track/5CyuIP55RlFcjKfHXifSgV"
     },
     {
       "album": {
@@ -33637,6 +33673,24 @@
     },
     {
       "album": {
+        "name": "\u0e2b\u0e22\u0e32\u0e14\u0e2b\u0e19\u0e36\u0e48\u0e07\u0e24\u0e14\u0e39 (Will O' the Wisp)",
+        "url": "https://open.spotify.com/album/1UY4Piwb5ruKSKQyhHkJTI"
+      },
+      "artists": [
+        {
+          "name": "Sample Space",
+          "url": "https://open.spotify.com/artist/35axjetyJmR4ERjLeuBCTP"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301714,
+      "name": "\u0e2b\u0e22\u0e32\u0e14\u0e2b\u0e19\u0e36\u0e48\u0e07\u0e24\u0e14\u0e39 (Will O' the Wisp)",
+      "url": "https://open.spotify.com/track/7c0SVmG60e1bVo57QI0XeR"
+    },
+    {
+      "album": {
         "name": "\u0e2b\u0e22\u0e38\u0e14\u0e04\u0e34\u0e14",
         "url": "https://open.spotify.com/album/42TfTkBqE0P4cMLCWGfQCr"
       },
@@ -33818,7 +33872,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-28",
       "duration_ms": 260000,
       "name": "\u0e2b\u0e25\u0e07\u0e23\u0e31\u0e01\u0e40\u0e18\u0e2d\u0e08\u0e30\u0e15\u0e32\u0e22\u0e41\u0e25\u0e49\u0e27(falling)",
       "url": "https://open.spotify.com/track/14knCcWBz3RrwCnbxOqoen"
@@ -38530,6 +38584,24 @@
       "duration_ms": 208695,
       "name": "\u0e40\u0e18\u0e2d\u0e04\u0e37\u0e2d\u0e15\u0e25\u0e2d\u0e14\u0e44\u0e1b",
       "url": "https://open.spotify.com/track/46PxqImyeAx4Zo5fp0mg8x"
+    },
+    {
+      "album": {
+        "name": "\u0e40\u0e18\u0e2d\u0e04\u0e37\u0e2d\u0e17\u0e38\u0e01\u0e04\u0e33\u0e15\u0e2d\u0e1a\u0e02\u0e49\u0e32\u0e07\u0e43\u0e19\u0e2b\u0e31\u0e27\u0e43\u0e08\u0e02\u0e2d\u0e07\u0e09\u0e31\u0e19(ANS)",
+        "url": "https://open.spotify.com/album/6p9uJaVopLhEhB0baLoQLn"
+      },
+      "artists": [
+        {
+          "name": "Snowman",
+          "url": "https://open.spotify.com/artist/50xOEpUA73cQO5RTwReDuE"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224500,
+      "name": "\u0e40\u0e18\u0e2d\u0e04\u0e37\u0e2d\u0e17\u0e38\u0e01\u0e04\u0e33\u0e15\u0e2d\u0e1a\u0e02\u0e49\u0e32\u0e07\u0e43\u0e19\u0e2b\u0e31\u0e27\u0e43\u0e08\u0e02\u0e2d\u0e07\u0e09\u0e31\u0e19(ANS)",
+      "url": "https://open.spotify.com/track/66HxG9drKaZxUIbumLXsSo"
     },
     {
       "album": {
@@ -45378,6 +45450,24 @@
       "duration_ms": 260952,
       "name": "\u0e42\u0e2a\u0e14\u0e41\u0e25\u0e49\u0e27\u0e17\u0e31\u0e01\u0e21\u0e32",
       "url": "https://open.spotify.com/track/6zyU10M9H8jmYe8e4eQe8r"
+    },
+    {
+      "album": {
+        "name": "\u0e42\u0e2b\u0e48\u0e23\u0e49\u0e2d\u0e07",
+        "url": "https://open.spotify.com/album/2pNMma6hA20wQ1cyn7nZW5"
+      },
+      "artists": [
+        {
+          "name": "PINKIE",
+          "url": "https://open.spotify.com/artist/7c6jLWUrGVl6JwaCmepfzv"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287501,
+      "name": "\u0e42\u0e2b\u0e48\u0e23\u0e49\u0e2d\u0e07",
+      "url": "https://open.spotify.com/track/6R1q6i5XLSEq6I8EEkfEix"
     },
     {
       "album": {

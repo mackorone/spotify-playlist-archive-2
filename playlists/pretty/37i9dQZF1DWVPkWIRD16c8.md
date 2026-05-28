@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPkWIRD16c8.md) - [plain]
 
 > Help your faith keep up with these gas prices.
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,904 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,953 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPkWIRD16c8.md) - [plain]
 | 29 | [So Long Sad Songs](https://open.spotify.com/track/05qqJOOLE3tfnEOTP67j8U) | [CAIN](https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq) | [So Long Sad Songs](https://open.spotify.com/album/7mU9YGfE049DBQYQTiefuG) | 3:05 |
 | 30 | [heaven knows i tried \- acoustic](https://open.spotify.com/track/1Kcu9DxL9pd8tkoTPtEk71) | [bodie](https://open.spotify.com/artist/692n9oP6XtKux7LbSOnkSC) | [NO SKIPS \(DELUXE\)](https://open.spotify.com/album/6EXlsYJl67Xd08HQg1mBrS) | 3:09 |
 | 31 | [Reaching For The Light](https://open.spotify.com/track/4WNSoMT4yAw4O6qRFKHU3h) | [Dan Bremnes](https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3) | [The Hero & The Villain](https://open.spotify.com/album/4hTbkRnaRb9DDgwRZ4gYHz) | 3:19 |
-| 32 | [Stand My Ground](https://open.spotify.com/track/47sscyz9PrvrpyTvmBcr28) | [Cochren & Co.](https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4) | [Stand My Ground](https://open.spotify.com/album/7pGYCXWMHwUKaVWCxcB2kA) | 2:55 |
-| 33 | [Believe](https://open.spotify.com/track/3mmje626OyRQhkMJvo6kiD) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Brighter Days](https://open.spotify.com/album/6KSuDvpfQOEt7aD55Krul6) | 3:13 |
+| 32 | [Believe](https://open.spotify.com/track/3mmje626OyRQhkMJvo6kiD) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Brighter Days](https://open.spotify.com/album/6KSuDvpfQOEt7aD55Krul6) | 3:13 |
+| 33 | [Stand My Ground](https://open.spotify.com/track/47sscyz9PrvrpyTvmBcr28) | [Cochren & Co.](https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4) | [Stand My Ground](https://open.spotify.com/album/7pGYCXWMHwUKaVWCxcB2kA) | 2:55 |
 | 34 | [Do It All Alone](https://open.spotify.com/track/4BC0djL2b1NHcLLT9LYw9d) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [Do It All Alone](https://open.spotify.com/album/65x0XC9A6bz7O81n67Sxjy) | 2:52 |
 | 35 | [Poetic](https://open.spotify.com/track/7HWnZQeOWZjC3dvGv0d70b) | [The Band JAREN](https://open.spotify.com/artist/41z8g885N9Yip6AGuV5TGX) | [Poetic](https://open.spotify.com/album/61SHJYAQxMDXr2eT0iJQL8) | 3:48 |
 | 36 | [Can't Lose](https://open.spotify.com/track/2PjC4t9Kp4hIJ2h9DkL5Dp) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA) | [Everything Good](https://open.spotify.com/album/0WmDtpLTNOAW1PANlncdBE) | 3:22 |
@@ -60,13 +60,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPkWIRD16c8.md) - [plain]
 | 50 | [Steady](https://open.spotify.com/track/6Tbgv6lIzTGPsXlTIBvb1E) | [Sanctus Real](https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj) | [Steady](https://open.spotify.com/album/02Q11OcOgZz90H5MWrGkoq) | 2:47 |
 | 51 | [Shackles \(Praise You\)](https://open.spotify.com/track/7BS27vWbRTmCkSEpeFZRRy) | [Coby James](https://open.spotify.com/artist/3DFvLbBG5R981eicF3i31J), [Evvie McKinney](https://open.spotify.com/artist/0vEQSfGHMSb31RdNjAWa39) | [Shackles \(Praise You\)](https://open.spotify.com/album/3MV9tnmk8JZGXMhNg5rx7m) | 2:38 |
 | 52 | [i still have you](https://open.spotify.com/track/1WrQq6Pnr7QGmXdd51EYu6) | [Stephen Stanley](https://open.spotify.com/artist/5uGLuPqfATGbvk6shtjDoX) | [trustfall](https://open.spotify.com/album/6HGmAgrZHojZ3Urz9OTEyi) | 3:17 |
-| 53 | [oasis for my soul](https://open.spotify.com/track/5OO0LZ2apmNZE3j6LFfLqf) | [Strings & Heart](https://open.spotify.com/artist/5lHDypXbNmHTDoFWpSTqXd) | [oasis for my soul](https://open.spotify.com/album/0vJOrqWFbDnsSUXGRrkPyt) | 2:16 |
-| 54 | [Let It Out](https://open.spotify.com/track/2kNmso15KtU1Ufpc50yapP) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu) | [Fading West](https://open.spotify.com/album/1GyzM6vN5fWs2RDCLmJTIz) | 3:19 |
+| 53 | [Let It Out](https://open.spotify.com/track/2kNmso15KtU1Ufpc50yapP) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu) | [Fading West](https://open.spotify.com/album/1GyzM6vN5fWs2RDCLmJTIz) | 3:19 |
+| 54 | [oasis for my soul](https://open.spotify.com/track/5OO0LZ2apmNZE3j6LFfLqf) | [Strings & Heart](https://open.spotify.com/artist/5lHDypXbNmHTDoFWpSTqXd) | [oasis for my soul](https://open.spotify.com/album/0vJOrqWFbDnsSUXGRrkPyt) | 2:16 |
 | 55 | [Antidote](https://open.spotify.com/track/6ofKv7jnJCB2am9gqd4xVo) | [Capital Kings](https://open.spotify.com/artist/3lTIrl4h1Vov8fDaNqXUof), [Sam Rivera](https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x) | [Antidote](https://open.spotify.com/album/4ORpINjKrVyuy0iipO2Xz9) | 2:51 |
 | 56 | [I'm So Blessed \- Aaron Cole Mix](https://open.spotify.com/track/5OjLmBBHKM9bt99wYGpmTe) | [CAIN](https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq), [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [I'm So Blessed \(Aaron Cole Mix\)](https://open.spotify.com/album/7itmb3rK26AZtLbdzy8QNQ) | 2:55 |
 | 57 | [So Good](https://open.spotify.com/track/6S5InY8HVnvFYKgeOrnKN0) | [Pastor Mike Jr.](https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS) | [Impossible](https://open.spotify.com/album/3j0Q2UsMetCz0GMPXnr4ai) | 4:15 |
-| 58 | [dopamine](https://open.spotify.com/track/1MlwlvguOnqk3vZCAWe168) | [Strings & Heart](https://open.spotify.com/artist/5lHDypXbNmHTDoFWpSTqXd) | [dopamine](https://open.spotify.com/album/7s4KNsNzQuHuZLYneTMUEE) | 2:02 |
-| 59 | [Walk Through Fire](https://open.spotify.com/track/5vF6qbL6WwKGSGxdZiLp6c) | [Ben Fuller](https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d) | [Walk Through Fire](https://open.spotify.com/album/0eC41NajaOtRYUd1Fezu4t) | 3:13 |
+| 58 | [Walk Through Fire](https://open.spotify.com/track/5vF6qbL6WwKGSGxdZiLp6c) | [Ben Fuller](https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d) | [Walk Through Fire](https://open.spotify.com/album/0eC41NajaOtRYUd1Fezu4t) | 3:13 |
+| 59 | [dopamine](https://open.spotify.com/track/1MlwlvguOnqk3vZCAWe168) | [Strings & Heart](https://open.spotify.com/artist/5lHDypXbNmHTDoFWpSTqXd) | [dopamine](https://open.spotify.com/album/7s4KNsNzQuHuZLYneTMUEE) | 2:02 |
 | 60 | [Steady Love](https://open.spotify.com/track/1LAFeVyit0FoefJUt9PvgT) | [Seph Schlueter](https://open.spotify.com/artist/3rdJD72bitczKtW5yNgAA4) | [Counting My Blessings](https://open.spotify.com/album/3qr0raAjkRZfT881l6a2uz) | 3:10 |
 | 61 | [OOWEE](https://open.spotify.com/track/2S8j7DJfqYEDG7sv74TA4u) | [Torey D'Shaun](https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD) | [OOWEE](https://open.spotify.com/album/7GOJOlZImisCOmvOTyxLC6) | 2:28 |
 | 62 | [a light in me](https://open.spotify.com/track/1LMiE4tPJ49stB7AsHyWZ4) | [Jervis Campbell](https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW) | [a light in me](https://open.spotify.com/album/3tEVEN59Yr9xHBjNNIt5YU) | 3:11 |

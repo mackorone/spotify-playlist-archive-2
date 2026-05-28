@@ -4,7 +4,7 @@
 
 > Go hard or go home\. Cover: Kanine
 
-359 songs - 22 hr 50 min
+360 songs - 22 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,7 +196,7 @@
 | [Liquor & Cigarettes \(feat\. ArrDee\)](https://open.spotify.com/track/15BDY6GKFfk02WaoyytP9g) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Hedex](https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t), [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk) | [Liquor & Cigarettes \(feat\. ArrDee\)](https://open.spotify.com/album/7w1n03aRWJeZw1AVPDHpFC) | 3:09 | 2023-10-13 | 2026-01-16 |
 | [Listen](https://open.spotify.com/track/05D17BU7wl5D6LdAYiKZvn) | [Tesen](https://open.spotify.com/artist/0Z1k9vyIR05I1clIoH1wKP) | [Listen](https://open.spotify.com/album/5AqD3DHCwtloPO0oInSadE) | 4:25 | 2024-09-12 | 2025-05-30 |
 | [Lively \(feat\. Jaykae & Blair Muir\) \- Alcemist Remix](https://open.spotify.com/track/3bDmXTnza1kblLGQrN5jvX) | [Double Lz](https://open.spotify.com/artist/4Al9wqYpl2Yi1XfUrDrZmS), [Jaykae](https://open.spotify.com/artist/1sLYZv95ZXwVfyGHan5w45), [Blair Muir](https://open.spotify.com/artist/4ui3aaOc80IntYGOHqpVQT), [Alcemist](https://open.spotify.com/artist/6WzWO3A5YAYxLVD224S9P0) | [Lively \(feat\. Jaykae & Blair Muir\) \[Alcemist Remix\]](https://open.spotify.com/album/6dn1fXm9vecpP4wc0Qmawi) | 3:54 | 2022-06-20 | 2023-12-27 |
-| [Lock Arf](https://open.spotify.com/track/4zodu1dcPL0YSLgxQOHxTQ) | [Disrupta](https://open.spotify.com/artist/6VJ0MDdr6OO6ih2TKP5g2G) | [Lock Arf / Shotta](https://open.spotify.com/album/4ZJpFbGOdEJtyrmkMDsFoB) | 3:11 | 2026-02-27 |  |
+| [Lock Arf](https://open.spotify.com/track/4zodu1dcPL0YSLgxQOHxTQ) | [Disrupta](https://open.spotify.com/artist/6VJ0MDdr6OO6ih2TKP5g2G) | [Lock Arf / Shotta](https://open.spotify.com/album/4ZJpFbGOdEJtyrmkMDsFoB) | 3:11 | 2026-02-27 | 2026-05-28 |
 | [Lock off the Rave](https://open.spotify.com/track/6FPETQc9CdCmRME7HRwlgk) | [ORAM](https://open.spotify.com/artist/0KZlJiMx0Lyn8hl8d9gCBJ) | [Lock off the Rave](https://open.spotify.com/album/4QyCaxCa2RbF8sMCzkYz9R) | 4:30 | 2022-05-06 | 2022-07-25 |
 | [London Sound](https://open.spotify.com/track/1lUJ2pBNjM2I37CssmaTGS) | [Disrupta](https://open.spotify.com/artist/6VJ0MDdr6OO6ih2TKP5g2G), [Local](https://open.spotify.com/artist/5pNualCkz8Fih2WjCYwEZ2) | [London Sound / Shake a Leg](https://open.spotify.com/album/06LbL1bmJxU3gGUY8hwck5) | 3:13 | 2025-06-19 | 2025-09-26 |
 | [looking 4 me](https://open.spotify.com/track/5z0pJkbsGf6f95dKzd5OOk) | [\[IVY\]](https://open.spotify.com/artist/3bXszy3HMRqUhnON4Bpojw) | [looking 4 me](https://open.spotify.com/album/0KQfZKiNtU7gMdX9txha8j) | 2:27 | 2023-09-22 | 2024-07-27 |
@@ -234,6 +234,7 @@
 | [Offender](https://open.spotify.com/track/39dkTH7uL26INRkJYxmPmz) | [Dimension](https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S) | [Offender](https://open.spotify.com/album/0HGC8S4h6lsfrPw2lWWbZh) | 3:43 | 2022-05-06 | 2023-12-01 |
 | [OH SHIT](https://open.spotify.com/track/60IGX6fpv4uZZDcTuJm0IS) | [Turno](https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes), [Dreps](https://open.spotify.com/artist/0hBSt9EaV3JxjI2mjF0Nd2) | [OH SHIT](https://open.spotify.com/album/1lqPqWbQGmlyRffoU1twrv) | 2:13 | 2024-05-10 | 2025-01-31 |
 | [OMG](https://open.spotify.com/track/4roXdtgxy29XQ8hSOaT8F7) | [Disrupta](https://open.spotify.com/artist/6VJ0MDdr6OO6ih2TKP5g2G), [Latte](https://open.spotify.com/artist/63RlEaEuJxvoGSoO7nBQK3), [B Live](https://open.spotify.com/artist/5Dyi0c3gAWXi520W10rX1U) | [OMG](https://open.spotify.com/album/12FRM8NELjqrOSdfuXxrfC) | 3:24 | 2024-07-25 | 2026-05-21 |
+| [On The Gas](https://open.spotify.com/track/2WEgrGbwVSxwph9tYKoVUr) | [MANIA](https://open.spotify.com/artist/5YBOXdKLNBdfGKGnQEYn3c) | [On The Gas](https://open.spotify.com/album/6BclAY5tQsJealVwApgrUO) | 2:58 | 2026-05-21 |  |
 | [Operator](https://open.spotify.com/track/252DtNX0Mg9a0ldYbxC1ru) | [A.M.C](https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ) | [VOID LP](https://open.spotify.com/album/3Yn9wGvgJowYJwKubPrEYv) | 4:27 | 2022-06-20 | 2023-10-16 |
 | [Operator](https://open.spotify.com/track/2ajRKo1dsleuWOj6ukRUqi) | [A.M.C](https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ) | [Operator](https://open.spotify.com/album/52YV9NRavLk76L9Pb3P3Wv) | 4:27 | 2022-05-06 | 2022-07-29 |
 | [Out & About](https://open.spotify.com/track/7ugaJNi3rhiiK9zKLd6l4j) | [Amplify](https://open.spotify.com/artist/64EuuwyWuF2bYlwwrLyN1n), [P Money](https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY) | [Out & About](https://open.spotify.com/album/1OVIX9HjSovZ8Cmot4YrDR) | 2:33 | 2024-05-10 | 2026-02-28 |

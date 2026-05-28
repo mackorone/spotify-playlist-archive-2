@@ -1,12 +1,12 @@
 {
   "description": "This is Seyi Vibez. The essential tracks, all in one playlist.",
-  "num_followers": 49408,
+  "num_followers": 49466,
   "original_name": "This Is Seyi Vibez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahORAAAAAAD9QzUmr3xf6xwdU8RrHGeZ",
+  "snapshot_id": "ahTigAAAAADcq/zsbRI9vVmg8bVV1aml",
   "tracks": [
     {
       "added_at": null,
@@ -323,6 +323,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "NAHAMciaga",
+        "url": "https://open.spotify.com/album/2AuZ237jxny5vdLm8BtadC"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 157000,
+      "name": "Today",
+      "url": "https://open.spotify.com/track/1dpSGMq9TjMxwv6aDFC5Sg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Trench Kid (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3Uj9cMWx6MjmIuXIK0NHl2"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 175255,
       "name": "Realize",
       "url": "https://open.spotify.com/track/37xumKXReRyER0jlfM3iVL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "NAHAMciaga",
-        "url": "https://open.spotify.com/album/2AuZ237jxny5vdLm8BtadC"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 157000,
-      "name": "Today",
-      "url": "https://open.spotify.com/track/1dpSGMq9TjMxwv6aDFC5Sg"
     },
     {
       "added_at": null,
@@ -507,22 +507,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hat-Trick",
-        "url": "https://open.spotify.com/album/3jSB9yCl5M97zQTNeR8DNo"
+        "name": "Vibe Till Thy Kingdom Come",
+        "url": "https://open.spotify.com/album/6pXS8h1VlReJ5QuuKNogQj"
       },
       "artists": [
-        {
-          "name": "Muyeez",
-          "url": "https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS"
-        },
         {
           "name": "Seyi Vibez",
           "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
         }
       ],
-      "duration_ms": 156134,
-      "name": "Emo (Remix)",
-      "url": "https://open.spotify.com/track/1fBzU9kseA8Tmq8rV2R1eC"
+      "duration_ms": 145714,
+      "name": "Blacka Rhythm",
+      "url": "https://open.spotify.com/track/55cRnjrOrjRCw3cp0tUwB5"
     },
     {
       "added_at": null,
@@ -543,18 +539,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vibe Till Thy Kingdom Come",
-        "url": "https://open.spotify.com/album/6pXS8h1VlReJ5QuuKNogQj"
+        "name": "Hat-Trick",
+        "url": "https://open.spotify.com/album/3jSB9yCl5M97zQTNeR8DNo"
       },
       "artists": [
+        {
+          "name": "Muyeez",
+          "url": "https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS"
+        },
         {
           "name": "Seyi Vibez",
           "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
         }
       ],
-      "duration_ms": 145714,
-      "name": "Blacka Rhythm",
-      "url": "https://open.spotify.com/track/55cRnjrOrjRCw3cp0tUwB5"
+      "duration_ms": 156134,
+      "name": "Emo (Remix)",
+      "url": "https://open.spotify.com/track/1fBzU9kseA8Tmq8rV2R1eC"
     },
     {
       "added_at": null,
@@ -723,22 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Loseyi Professor",
-        "url": "https://open.spotify.com/album/38tvoGnBsZNd8FJg2YsCT4"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 151282,
-      "name": "Casablanca",
-      "url": "https://open.spotify.com/track/2T5GZC1hlOr9DahCK2WnFy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Billion Dollar Baby",
         "url": "https://open.spotify.com/album/33mcBtk7Vu7uaKjYPvqzKV"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 155846,
       "name": "Bullion Van",
       "url": "https://open.spotify.com/track/01Nc64zcDcXR0VFgrEldlH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Loseyi Professor",
+        "url": "https://open.spotify.com/album/38tvoGnBsZNd8FJg2YsCT4"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 151282,
+      "name": "Casablanca",
+      "url": "https://open.spotify.com/track/2T5GZC1hlOr9DahCK2WnFy"
     },
     {
       "added_at": null,
@@ -791,22 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "NSNV",
-        "url": "https://open.spotify.com/album/0sKjHC9aD5BZsDTxs8I4jk"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 120215,
-      "name": "Catalyst",
-      "url": "https://open.spotify.com/track/3C6Sym0P7JxgNOegloBFcp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Billion Dollar Baby",
         "url": "https://open.spotify.com/album/33mcBtk7Vu7uaKjYPvqzKV"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 144927,
       "name": "Billion Dollar",
       "url": "https://open.spotify.com/track/4Wuqy79kCWtbvTSp0xiLYp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NSNV",
+        "url": "https://open.spotify.com/album/0sKjHC9aD5BZsDTxs8I4jk"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 120215,
+      "name": "Catalyst",
+      "url": "https://open.spotify.com/track/3C6Sym0P7JxgNOegloBFcp"
     },
     {
       "added_at": null,

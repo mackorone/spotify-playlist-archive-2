@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,235 songs - 2 day 20 hr 41 min
+1,236 songs - 2 day 20 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -520,6 +520,7 @@
 | [Hopeless](https://open.spotify.com/track/2GROAqNCXHvn1Su3cDTAOI) | [No Mana](https://open.spotify.com/artist/20yuGdfbRkW0HH3OfG1Nkg), [Feed Me](https://open.spotify.com/artist/5FWi1mowu6uiU2ZHwr1rby), [Bertie Scott](https://open.spotify.com/artist/2m0xNVRx1tAHY3pfNXt7Ro) | [Hopeless](https://open.spotify.com/album/4cUL3xUF0WnEM1L2KDLTPb) | 3:43 | 2024-05-29 | 2024-08-21 |
 | [Horizon](https://open.spotify.com/track/6C2RhafaJZZ8kKN9ExyLlp) | [Odsen](https://open.spotify.com/artist/5u9LEu640uGxBEKnU1PY9V), [Katrine Stenbekk](https://open.spotify.com/artist/6Nxgeg0RW2lIaU35QlmJpo) | [Horizon](https://open.spotify.com/album/2ogg97CuneZYdfjrDLqx8S) | 4:15 | 2022-02-11 | 2022-04-22 |
 | [HOT SHOT](https://open.spotify.com/track/3W4Kg9woGNvTG0TpR9gJs2) | [Tokyo Machine](https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9) | [HOT SHOT](https://open.spotify.com/album/3RK2td9YkPkFCiFvKHmXwQ) | 3:47 | 2024-05-17 | 2024-08-14 |
+| [HOURGLASS](https://open.spotify.com/track/0wejZszJesttJYEkgkpFWb) | [Gracie Van Brunt](https://open.spotify.com/artist/61ehajEjCepvX1LehNWtKt) | [HOURGLASS / WORLDS AWAY](https://open.spotify.com/album/34ovE21vU00pHkmLzvM87P) | 3:52 | 2026-05-27 |  |
 | [how to feel alive](https://open.spotify.com/track/5FzcVssNKfmCF7WvJFUx2U) | [longstoryshort](https://open.spotify.com/artist/1ExbGBgD1r1eRfFlVyAWWl) | [how to feel alive](https://open.spotify.com/album/64CuCT2IKWYddwO9KkZDlK) | 2:37 | 2025-09-15 | 2025-12-13 |
 | [Hybrid](https://open.spotify.com/track/7wEyBeHHjMIxrhTEnNDcsR) | [Teddy Killerz](https://open.spotify.com/artist/4xaF2VIGwhWyEMbM6GuLdm) | [Hybrid / Future](https://open.spotify.com/album/3LakW6mS1r4E2eoIsY39AW) | 3:33 | 2025-11-10 | 2026-02-12 |
 | [Hyperfocus](https://open.spotify.com/track/4LvnF1Iw4HcQ2rCm07mYjc) | [OBLVYN](https://open.spotify.com/artist/6K47OYDcLTBRebTJGDtedF) | [Hyperfocus](https://open.spotify.com/album/5I5UOahbD9vGY8CqM2sGZc) | 3:13 | 2025-08-28 | 2025-11-28 |

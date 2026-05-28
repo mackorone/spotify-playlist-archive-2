@@ -63,6 +63,24 @@
     },
     {
       "album": {
+        "name": "1000 Kil\u00f3metros",
+        "url": "https://open.spotify.com/album/5wMQCKdpfs29F4NyrTibLx"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Montenegro",
+          "url": "https://open.spotify.com/artist/0cnIFVS9I8UzqNlEQxvOin"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184186,
+      "name": "1000 Kil\u00f3metros",
+      "url": "https://open.spotify.com/track/0fZ3Wcrlzz9OaURp2WJJ0V"
+    },
+    {
+      "album": {
         "name": "1721",
         "url": "https://open.spotify.com/album/0CoDvYVYINl0w9eJAXBNpl"
       },

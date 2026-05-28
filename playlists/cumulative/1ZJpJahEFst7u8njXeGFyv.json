@@ -1960,7 +1960,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-28",
       "duration_ms": 119309,
       "name": "Aurora - Upright Piano Version",
       "url": "https://open.spotify.com/track/0lBPqu8JRUgVcewtIdRwP2"
@@ -2350,7 +2350,7 @@
       ],
       "date_added": "2025-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-28",
       "duration_ms": 248813,
       "name": "Bach: Cello Suite No. 5 in C Minor, BWV 1011: IV. Sarabande",
       "url": "https://open.spotify.com/track/3I9xdkTrYJWfh4S56w0IU4"
@@ -5120,7 +5120,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-28",
       "duration_ms": 339253,
       "name": "Dolomites, pale mountains: III. Rosengarten",
       "url": "https://open.spotify.com/track/3ScYqGLMdrf0gUx58sOUtR"
@@ -5150,6 +5150,40 @@
       "duration_ms": 226373,
       "name": "Dolomites, pale mountains: IV. Saslonch",
       "url": "https://open.spotify.com/track/24dLxoTOrFEf8k8vJR79xO"
+    },
+    {
+      "album": {
+        "name": "Don Quixote Variation (After Don Quixote, Op. 35: III. Finale)",
+        "url": "https://open.spotify.com/album/7qQ60Y3TiH9zX6VLqmRdcu"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Jan-Peter Kl\u00f6pfel",
+          "url": "https://open.spotify.com/artist/7fpQh1lgdWnKPcAVJHsl4h"
+        },
+        {
+          "name": "Jan Vogler",
+          "url": "https://open.spotify.com/artist/3LcP8zEKaPiCG1s5MlMWJA"
+        },
+        {
+          "name": "Moritzburg Ensemble",
+          "url": "https://open.spotify.com/artist/0cfPipoXojPaJ5deRb7oGa"
+        },
+        {
+          "name": "Julien Quentin",
+          "url": "https://open.spotify.com/artist/374U7fciZF54RvuwwZY3bR"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160666,
+      "name": "Don Quixote Variation (After Don Quixote, Op. 35: III. Finale)",
+      "url": "https://open.spotify.com/track/4cvOCAhyHvl9RZbf5ccBsU"
     },
     {
       "album": {
@@ -6467,6 +6501,24 @@
     },
     {
       "album": {
+        "name": "Grateful",
+        "url": "https://open.spotify.com/album/73GQBZ5nJxcsc5YWvba688"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138989,
+      "name": "Grateful",
+      "url": "https://open.spotify.com/track/18M8lkxW7epH3aR6Lr0hff"
+    },
+    {
+      "album": {
         "name": "guardians",
         "url": "https://open.spotify.com/album/0KLtNb9bB5Unwry9aUTqIG"
       },
@@ -6670,7 +6722,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-28",
       "duration_ms": 280480,
       "name": "Harp Concerto in B-Flat Major, HWV 294, Op. 4 No. 6: II. Larghetto",
       "url": "https://open.spotify.com/track/06w7fsSF6ScN8bbNJLPIPS"
@@ -7164,7 +7216,7 @@
       ],
       "date_added": "2025-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-28",
       "duration_ms": 145666,
       "name": "Ich ruf zu dir, Herr Jesu Christ, BWV 639",
       "url": "https://open.spotify.com/track/2ReRxmItJFIDeXQOOFT3yW"
@@ -8294,7 +8346,7 @@
       ],
       "date_added": "2025-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-28",
       "duration_ms": 161214,
       "name": "June",
       "url": "https://open.spotify.com/track/2bzLfNA9atcNfObhm1ddxq"
@@ -8752,6 +8804,28 @@
       "duration_ms": 225413,
       "name": "Lacrymosa from Mozart's Requiem, S. 550 (Arr. for Piano by Franz Liszt)",
       "url": "https://open.spotify.com/track/0Qz9KBmIbmbkgDmRljaFDS"
+    },
+    {
+      "album": {
+        "name": "Lady Be Good - Berceuse, in F#",
+        "url": "https://open.spotify.com/album/2h97eIWhGJPa2PNuurG8KJ"
+      },
+      "artists": [
+        {
+          "name": "Lucas Debargue",
+          "url": "https://open.spotify.com/artist/3gGFrz3hjzLPTKFwjzfm3n"
+        },
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188973,
+      "name": "Lady Be Good - Berceuse, in F#",
+      "url": "https://open.spotify.com/track/5aHwCPgLHyBEymSZuVUHpE"
     },
     {
       "album": {
@@ -10738,7 +10812,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-28",
       "duration_ms": 189952,
       "name": "Moment in Time",
       "url": "https://open.spotify.com/track/5QVpsrD7VvA3JGLO7UAjpr"
@@ -11108,7 +11182,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-28",
       "duration_ms": 315573,
       "name": "Murmurations",
       "url": "https://open.spotify.com/track/7xIZfPlJXavkWEBuqqAhWQ"
@@ -11248,7 +11322,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-28",
       "duration_ms": 179250,
       "name": "M\u00e9ditation in F Major, Op. 33",
       "url": "https://open.spotify.com/track/4of2yiWkrn4zXbIV9mjJGU"
@@ -12182,7 +12256,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-28",
       "duration_ms": 198739,
       "name": "Nuage for a Fading Sky (Piano Solo)",
       "url": "https://open.spotify.com/track/0YyAhWnjjtYsPnJks1EvE1"
@@ -15887,6 +15961,28 @@
     },
     {
       "album": {
+        "name": "Sing Gently",
+        "url": "https://open.spotify.com/album/55TGl3eLHEOV5Mkf2ekEQY"
+      },
+      "artists": [
+        {
+          "name": "Eric Whitacre",
+          "url": "https://open.spotify.com/artist/5TWpCLIhvGlbJmLK1zNpiL"
+        },
+        {
+          "name": "Lavinia Meijer",
+          "url": "https://open.spotify.com/artist/1QpDFI4PxPwdv2E3iS6pCp"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225235,
+      "name": "Sing Gently",
+      "url": "https://open.spotify.com/track/1inuj7hFiczkKp8yNmnRLr"
+    },
+    {
+      "album": {
         "name": "Six Pieces for Violin & Piano: III. Lento (Arr. for Violin & Harp by Esther Abrami)",
         "url": "https://open.spotify.com/album/3ugnfFJFbdHjaqOfTLTElB"
       },
@@ -18184,7 +18280,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-28",
       "duration_ms": 217416,
       "name": "The Lost Composers (Fortissima)",
       "url": "https://open.spotify.com/track/5L1RdYPe0ZHkH9jGX5Gx4k"
@@ -18262,7 +18358,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-28",
       "duration_ms": 419426,
       "name": "The Nutcracker: Waltz of the Flowers",
       "url": "https://open.spotify.com/track/211w4YeoNDqklfgGMPM69f"

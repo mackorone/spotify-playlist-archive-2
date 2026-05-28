@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QfDOCxg9IE.md) - [plain]
 
 > Άκου τα πιο χοτ trends στην Ελλάδα αυτή τη στιγμή!
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,796 likes - 60 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,798 likes - 60 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ferto](https://open.spotify.com/track/0LStLUCQgbv6WIEO2fFAO5) | [Akylas](https://open.spotify.com/artist/0ryXG4cu4Ac81CojYsKcTL) | [Ferto](https://open.spotify.com/album/0jlUsyUVvSUASgQzPa61WV) | 3:00 |
 | 2 | [Kantada](https://open.spotify.com/track/4LSgjA6nzvd4u5bCgyIBN4) | [APON](https://open.spotify.com/artist/2bucjueNUx2aVTUA7zj6w7) | [Ixogenia](https://open.spotify.com/album/5koMXETaZmIZv69JLjro8v) | 2:14 |
 | 3 | [Anadromika](https://open.spotify.com/track/4SP5sNmfpJP5oV2LrqzE6A) | [Stavento](https://open.spotify.com/artist/43LNzVQi3AUDm6NGSlg4BK), [Alexandra](https://open.spotify.com/artist/5chFd3WPxdTlKsUhEPmArx) | [Stin Akri Tou Kosmou](https://open.spotify.com/album/1TYv5ogFcaouNtk0nlPmrY) | 3:17 |
-| 4 | [To Vals Ton Oniron](https://open.spotify.com/track/1qjoWfwVtNqH5VBEkGorzg) | [Mariana Katsimicha](https://open.spotify.com/artist/3UiDrccF5BtDQWf2JYkzPY), [Dimitris Bakoulis](https://open.spotify.com/artist/4bwUniaSvto71vogPnv6zz), [Dimitris Karras](https://open.spotify.com/artist/4EA4ArgDUPo09DdUIs49LK) | [To Soundtrack tou Ellinikou Gia ton Alki Alkaio](https://open.spotify.com/album/4XwkXTXrCuqreKXVzGdSbR) | 3:25 |
+| 4 | [To Vals Ton Oniron](https://open.spotify.com/track/1qjoWfwVtNqH5VBEkGorzg) | [Dimitris Karras](https://open.spotify.com/artist/4EA4ArgDUPo09DdUIs49LK), [Dimitris Bakoulis](https://open.spotify.com/artist/4bwUniaSvto71vogPnv6zz), [Mariana Katsimicha](https://open.spotify.com/artist/3UiDrccF5BtDQWf2JYkzPY), [Alkis Alkaios](https://open.spotify.com/artist/2Rg30ZalrVol05bZe7iBae) | [To Soundtrack tou Ellinikou Gia ton Alki Alkaio](https://open.spotify.com/album/4XwkXTXrCuqreKXVzGdSbR) | 3:25 |
 | 5 | [Xaderfaki](https://open.spotify.com/track/3eOP36Zkssv8hZOkn3G7Qe) | [Mad Clip](https://open.spotify.com/artist/3KcZf8BFeFBtnGyOZmUggd), [Mike G](https://open.spotify.com/artist/7zYmrye7LvmpMkfHWrENu9) | [Xaderfaki](https://open.spotify.com/album/5KKaAKZ9zTKhdv35BMEFlA) | 2:10 |
 | 6 | [spastoSPASTO](https://open.spotify.com/track/53NL9kIqpbSb09msCKBaT5) | [Akylas](https://open.spotify.com/artist/0ryXG4cu4Ac81CojYsKcTL) | [Press Start](https://open.spotify.com/album/2UYi4pXbDbWKaURIYMOuyk) | 3:02 |
 | 7 | [Jamaican \(Bam Bam\)](https://open.spotify.com/track/1ExjoMeJQxAYtHFke6eW31) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [SOLTO \(FR\)](https://open.spotify.com/artist/0F3tUZeb9dLNEpxCpzEBQt) | [Jamaican \(Bam Bam\)](https://open.spotify.com/album/1BweAtoAn6XFcPa4iJtO6G) | 2:36 |

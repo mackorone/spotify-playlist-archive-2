@@ -1,13 +1,29 @@
 {
-  "description": "New music by the heaviest independent artists and labels every Wednesday. Cover: Black Spikes",
-  "num_followers": 36511,
+  "description": "New music by the heaviest independent artists and labels every Wednesday. Cover: Daisy Arson",
+  "num_followers": 36592,
   "original_name": "Fresh Finds Heavy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAImzl8LIYatwHGafWBdR4WCmIxm+",
+  "snapshot_id": "AAAAAMHvpjFw7fUvpN1O4gLTC7wgJjgu",
   "tracks": [
+    {
+      "added_at": "2026-05-27 04:00:18",
+      "album": {
+        "name": "Annihilation",
+        "url": "https://open.spotify.com/album/5mCZGoP4DZTblQJheq4EfU"
+      },
+      "artists": [
+        {
+          "name": "Daisy Arson",
+          "url": "https://open.spotify.com/artist/3DyUFPzUfiw6VEzhgx5p5h"
+        }
+      ],
+      "duration_ms": 142855,
+      "name": "Annihilation",
+      "url": "https://open.spotify.com/track/6Ub8tYCyi10nnkANDYTVFG"
+    },
     {
       "added_at": "2026-05-20 04:00:05",
       "album": {
@@ -41,6 +57,34 @@
       "url": "https://open.spotify.com/track/4I3DpTGfrxueIC61VYMcQd"
     },
     {
+      "added_at": "2026-05-27 04:00:18",
+      "album": {
+        "name": "ego freak",
+        "url": "https://open.spotify.com/album/4kqpKnXXOb5W2ZZC5F9jH7"
+      },
+      "artists": [
+        {
+          "name": "Aurora View",
+          "url": "https://open.spotify.com/artist/4MkU5wBIKoNteEBqXTpMuA"
+        },
+        {
+          "name": "\u661f\u718a\u5357\u5deb",
+          "url": "https://open.spotify.com/artist/4QHRf4j0MXjcghBBXhKE2U"
+        },
+        {
+          "name": "BUNNY",
+          "url": "https://open.spotify.com/artist/5Dccem9dkRqim9eKHXkSd3"
+        },
+        {
+          "name": "whitenoisemakesmefeelcomfy",
+          "url": "https://open.spotify.com/artist/1Hishu3471qRxVmAB5gmQJ"
+        }
+      ],
+      "duration_ms": 230400,
+      "name": "ego freak",
+      "url": "https://open.spotify.com/track/49QDswnidndafpN2VjkZQy"
+    },
+    {
       "added_at": "2026-05-20 04:00:05",
       "album": {
         "name": "Carry The Weight",
@@ -59,6 +103,26 @@
       "duration_ms": 173990,
       "name": "Carry The Weight",
       "url": "https://open.spotify.com/track/68OwvHG4vUHckIvzWWSKZS"
+    },
+    {
+      "added_at": "2026-05-27 04:00:18",
+      "album": {
+        "name": "WDYK",
+        "url": "https://open.spotify.com/album/7y3kwKPerDV61miCnWInyk"
+      },
+      "artists": [
+        {
+          "name": "Sable",
+          "url": "https://open.spotify.com/artist/5rRyGasapvQWgfTijFs2mq"
+        },
+        {
+          "name": "20TOKENS",
+          "url": "https://open.spotify.com/artist/283uQnP38E3Ua5ExYuOH0Q"
+        }
+      ],
+      "duration_ms": 144324,
+      "name": "WDYK",
+      "url": "https://open.spotify.com/track/5zWIKlgGSwrSvMZONHMHpu"
     },
     {
       "added_at": "2026-05-13 04:00:09",
@@ -81,6 +145,54 @@
       "url": "https://open.spotify.com/track/0eEHmNWaCtW4Ez0E0KdbSx"
     },
     {
+      "added_at": "2026-05-27 04:00:18",
+      "album": {
+        "name": "THE SOUND",
+        "url": "https://open.spotify.com/album/6agDz5cnzDvYNAJx7D8SV0"
+      },
+      "artists": [
+        {
+          "name": "CRYBLOOD",
+          "url": "https://open.spotify.com/artist/3VH53ktYPXwo7b9cigHjGe"
+        }
+      ],
+      "duration_ms": 167109,
+      "name": "THE SOUND",
+      "url": "https://open.spotify.com/track/5Zti0jRsq6ZvlrgQo5tua4"
+    },
+    {
+      "added_at": "2026-04-29 04:00:32",
+      "album": {
+        "name": "FLESH AND BONE",
+        "url": "https://open.spotify.com/album/5ohRxjEVRRPrXup0SoE5ef"
+      },
+      "artists": [
+        {
+          "name": "PINKNOISE",
+          "url": "https://open.spotify.com/artist/2USllv850CGVjxqji1jxcd"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "THE FUTURE IS PINK",
+      "url": "https://open.spotify.com/track/4YOcZsDaUvewm9fahuGXxW"
+    },
+    {
+      "added_at": "2026-05-27 04:00:18",
+      "album": {
+        "name": "A Fragile Flame",
+        "url": "https://open.spotify.com/album/2q16tarzn2AdcFVi7Z7J9B"
+      },
+      "artists": [
+        {
+          "name": "The Wise Man's Fear",
+          "url": "https://open.spotify.com/artist/0Ir2YUbOtgP5GeOzQicQ44"
+        }
+      ],
+      "duration_ms": 217894,
+      "name": "A Fragile Flame",
+      "url": "https://open.spotify.com/track/4bgpqaLKJ5ra63fi8TaMQ6"
+    },
+    {
       "added_at": "2026-05-20 04:00:05",
       "album": {
         "name": "Flying Monkey",
@@ -101,20 +213,20 @@
       "url": "https://open.spotify.com/track/5sJIi9JFuNhj3JBwFVVHAI"
     },
     {
-      "added_at": "2026-04-29 04:00:32",
+      "added_at": "2026-05-27 04:00:18",
       "album": {
-        "name": "FLESH AND BONE",
-        "url": "https://open.spotify.com/album/5ohRxjEVRRPrXup0SoE5ef"
+        "name": "It Is Well\u2026",
+        "url": "https://open.spotify.com/album/2eJlb7v0MvEY9M408HT6GD"
       },
       "artists": [
         {
-          "name": "PINKNOISE",
-          "url": "https://open.spotify.com/artist/2USllv850CGVjxqji1jxcd"
+          "name": "Your Spirit Dies",
+          "url": "https://open.spotify.com/artist/0iLA9qNrXngiyQqZjcnwxt"
         }
       ],
-      "duration_ms": 186000,
-      "name": "THE FUTURE IS PINK",
-      "url": "https://open.spotify.com/track/4YOcZsDaUvewm9fahuGXxW"
+      "duration_ms": 243338,
+      "name": "Whispers In Omen",
+      "url": "https://open.spotify.com/track/101B9tGKzfIK9Toio8mn0m"
     },
     {
       "added_at": "2026-05-20 04:00:05",
@@ -137,6 +249,22 @@
       "url": "https://open.spotify.com/track/0NcHBzzNexd0wqztZwdWg7"
     },
     {
+      "added_at": "2026-05-27 04:00:18",
+      "album": {
+        "name": "4x4",
+        "url": "https://open.spotify.com/album/52eTAJ9h9w6Wp15kpD9qlS"
+      },
+      "artists": [
+        {
+          "name": "Gideon",
+          "url": "https://open.spotify.com/artist/3Zj2B8yAi8gHoR8vpsPatZ"
+        }
+      ],
+      "duration_ms": 188598,
+      "name": "4x4",
+      "url": "https://open.spotify.com/track/68VuJEeonhR5y7ty35jer3"
+    },
+    {
       "added_at": "2026-05-13 04:00:09",
       "album": {
         "name": "Spit Blood",
@@ -151,6 +279,22 @@
       "duration_ms": 167079,
       "name": "Spit Blood",
       "url": "https://open.spotify.com/track/3CcCI1HIPaH2VJtF744NLs"
+    },
+    {
+      "added_at": "2026-05-27 04:00:18",
+      "album": {
+        "name": "The Kids Will Kill Us",
+        "url": "https://open.spotify.com/album/370Z1fMk9bl9mw55DSe51k"
+      },
+      "artists": [
+        {
+          "name": "Witch Club Satan",
+          "url": "https://open.spotify.com/artist/395rqoVSDgQIF7fzRfZIoy"
+        }
+      ],
+      "duration_ms": 225600,
+      "name": "The Kids Will Kill Us",
+      "url": "https://open.spotify.com/track/1n2RqVGWTYRbCazGkolPGI"
     },
     {
       "added_at": "2026-05-20 04:00:05",
@@ -185,6 +329,102 @@
       "url": "https://open.spotify.com/track/5mematTA9D87UfZG4OUHrL"
     },
     {
+      "added_at": "2026-05-13 04:00:09",
+      "album": {
+        "name": "Cyanide",
+        "url": "https://open.spotify.com/album/6qU0sYqX2avZ1Fv5OjWYvt"
+      },
+      "artists": [
+        {
+          "name": "Drop Dead, Gorgeous",
+          "url": "https://open.spotify.com/artist/7ib9jRPvGJ6VPCTg35G2L9"
+        }
+      ],
+      "duration_ms": 176601,
+      "name": "Cyanide",
+      "url": "https://open.spotify.com/track/5EW6qF1HX0CMNwmrMVTz9G"
+    },
+    {
+      "added_at": "2026-05-13 04:00:09",
+      "album": {
+        "name": "Safety in Darkness",
+        "url": "https://open.spotify.com/album/3CdLAaWZP1v5lJObtQomVR"
+      },
+      "artists": [
+        {
+          "name": "Glass Tides",
+          "url": "https://open.spotify.com/artist/3ss8CCHIds5hKnQ9un3dU0"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "Safety in Darkness",
+      "url": "https://open.spotify.com/track/5wnRJuERtp5mrdXzVU8MOV"
+    },
+    {
+      "added_at": "2026-05-13 04:00:09",
+      "album": {
+        "name": "Without Ever Waking",
+        "url": "https://open.spotify.com/album/1cKqCjso9AeYsmbtSb2Axb"
+      },
+      "artists": [
+        {
+          "name": "NOVARA NYX",
+          "url": "https://open.spotify.com/artist/33Bd6UaMyCd0XFmKge3f7m"
+        }
+      ],
+      "duration_ms": 232770,
+      "name": "Without Ever Waking",
+      "url": "https://open.spotify.com/track/4AJEkA0q8z7OCrQTWCzs8Z"
+    },
+    {
+      "added_at": "2026-04-22 04:00:05",
+      "album": {
+        "name": "PIECES OF MY HEART",
+        "url": "https://open.spotify.com/album/3lji38RxXnPPzztd3neDxd"
+      },
+      "artists": [
+        {
+          "name": "Sorry X",
+          "url": "https://open.spotify.com/artist/1iUS1TbK8JyjsC4ZhMRzaT"
+        }
+      ],
+      "duration_ms": 196600,
+      "name": "PIECES OF MY HEART",
+      "url": "https://open.spotify.com/track/1MQbr45KnM0T0gEFvY4Nkr"
+    },
+    {
+      "added_at": "2026-04-22 04:00:05",
+      "album": {
+        "name": "Waiting Here",
+        "url": "https://open.spotify.com/album/1dMWBLSNNSG4MS5dZjcfY2"
+      },
+      "artists": [
+        {
+          "name": "OHKAYA",
+          "url": "https://open.spotify.com/artist/4uhsmjBwCLRupPcYGK5CTg"
+        }
+      ],
+      "duration_ms": 313759,
+      "name": "Waiting Here",
+      "url": "https://open.spotify.com/track/1MnLc6fFKTFkfBuGE0XRgh"
+    },
+    {
+      "added_at": "2026-04-29 04:00:32",
+      "album": {
+        "name": "fvck.me.up",
+        "url": "https://open.spotify.com/album/6GVOmFnj8AkiHenTGWff1K"
+      },
+      "artists": [
+        {
+          "name": "Glasswaves",
+          "url": "https://open.spotify.com/artist/6dTPsW2GddlLDEuuj8Jj4P"
+        }
+      ],
+      "duration_ms": 181132,
+      "name": "fvck.me.up",
+      "url": "https://open.spotify.com/track/7JIeOuq85aVF75x3GfgVLZ"
+    },
+    {
       "added_at": "2026-05-20 04:00:05",
       "album": {
         "name": "CESSPIT",
@@ -207,18 +447,18 @@
     {
       "added_at": "2026-05-13 04:00:09",
       "album": {
-        "name": "Cyanide",
-        "url": "https://open.spotify.com/album/6qU0sYqX2avZ1Fv5OjWYvt"
+        "name": "Goodnight",
+        "url": "https://open.spotify.com/album/4EHga18hgk4gEygwuAaD8q"
       },
       "artists": [
         {
-          "name": "Drop Dead, Gorgeous",
-          "url": "https://open.spotify.com/artist/7ib9jRPvGJ6VPCTg35G2L9"
+          "name": "Silly Goose",
+          "url": "https://open.spotify.com/artist/0GicbfMtwhn3Ch0PdwkADQ"
         }
       ],
-      "duration_ms": 176601,
-      "name": "Cyanide",
-      "url": "https://open.spotify.com/track/5EW6qF1HX0CMNwmrMVTz9G"
+      "duration_ms": 156000,
+      "name": "Goodnight",
+      "url": "https://open.spotify.com/track/6GnPkQZxse8JIrz8G7zI4V"
     },
     {
       "added_at": "2026-05-20 04:00:05",
@@ -235,154 +475,6 @@
       "duration_ms": 164000,
       "name": "INTRUSIVE THOUGHTS",
       "url": "https://open.spotify.com/track/6Y5SbN02DMsFMRAhBu11I2"
-    },
-    {
-      "added_at": "2026-05-13 04:00:09",
-      "album": {
-        "name": "Without Ever Waking",
-        "url": "https://open.spotify.com/album/1cKqCjso9AeYsmbtSb2Axb"
-      },
-      "artists": [
-        {
-          "name": "NOVARA NYX",
-          "url": "https://open.spotify.com/artist/33Bd6UaMyCd0XFmKge3f7m"
-        }
-      ],
-      "duration_ms": 232770,
-      "name": "Without Ever Waking",
-      "url": "https://open.spotify.com/track/4AJEkA0q8z7OCrQTWCzs8Z"
-    },
-    {
-      "added_at": "2026-05-13 04:00:09",
-      "album": {
-        "name": "Safety in Darkness",
-        "url": "https://open.spotify.com/album/3CdLAaWZP1v5lJObtQomVR"
-      },
-      "artists": [
-        {
-          "name": "Glass Tides",
-          "url": "https://open.spotify.com/artist/3ss8CCHIds5hKnQ9un3dU0"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "Safety in Darkness",
-      "url": "https://open.spotify.com/track/5wnRJuERtp5mrdXzVU8MOV"
-    },
-    {
-      "added_at": "2026-04-22 04:00:05",
-      "album": {
-        "name": "Waiting Here",
-        "url": "https://open.spotify.com/album/1dMWBLSNNSG4MS5dZjcfY2"
-      },
-      "artists": [
-        {
-          "name": "OHKAYA",
-          "url": "https://open.spotify.com/artist/4uhsmjBwCLRupPcYGK5CTg"
-        }
-      ],
-      "duration_ms": 313759,
-      "name": "Waiting Here",
-      "url": "https://open.spotify.com/track/1MnLc6fFKTFkfBuGE0XRgh"
-    },
-    {
-      "added_at": "2026-04-15 04:00:20",
-      "album": {
-        "name": "Edge of the Map",
-        "url": "https://open.spotify.com/album/5b0s5j6yJLcoQaGz4NGNSY"
-      },
-      "artists": [
-        {
-          "name": "The Wise Man's Fear",
-          "url": "https://open.spotify.com/artist/0Ir2YUbOtgP5GeOzQicQ44"
-        }
-      ],
-      "duration_ms": 223294,
-      "name": "Edge of the Map",
-      "url": "https://open.spotify.com/track/3bsZPyqqZZUW62n3CxiuZ8"
-    },
-    {
-      "added_at": "2026-04-22 04:00:05",
-      "album": {
-        "name": "PIECES OF MY HEART",
-        "url": "https://open.spotify.com/album/3lji38RxXnPPzztd3neDxd"
-      },
-      "artists": [
-        {
-          "name": "Sorry X",
-          "url": "https://open.spotify.com/artist/1iUS1TbK8JyjsC4ZhMRzaT"
-        }
-      ],
-      "duration_ms": 196600,
-      "name": "PIECES OF MY HEART",
-      "url": "https://open.spotify.com/track/1MQbr45KnM0T0gEFvY4Nkr"
-    },
-    {
-      "added_at": "2026-05-13 04:00:09",
-      "album": {
-        "name": "Goodnight",
-        "url": "https://open.spotify.com/album/4EHga18hgk4gEygwuAaD8q"
-      },
-      "artists": [
-        {
-          "name": "Silly Goose",
-          "url": "https://open.spotify.com/artist/0GicbfMtwhn3Ch0PdwkADQ"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Goodnight",
-      "url": "https://open.spotify.com/track/6GnPkQZxse8JIrz8G7zI4V"
-    },
-    {
-      "added_at": "2026-05-06 04:00:17",
-      "album": {
-        "name": "Crave",
-        "url": "https://open.spotify.com/album/1myxsESxSt1as0EXtCSBhN"
-      },
-      "artists": [
-        {
-          "name": "Via Sky",
-          "url": "https://open.spotify.com/artist/7BhceVGe9yQLMUuTKC21bo"
-        },
-        {
-          "name": "Kristyn Hope",
-          "url": "https://open.spotify.com/artist/5537Jz9oy5neAlivBv5MbU"
-        }
-      ],
-      "duration_ms": 229714,
-      "name": "Crave",
-      "url": "https://open.spotify.com/track/7I4yruTwtFlhwSmlIiB2xx"
-    },
-    {
-      "added_at": "2026-04-29 04:00:32",
-      "album": {
-        "name": "fvck.me.up",
-        "url": "https://open.spotify.com/album/6GVOmFnj8AkiHenTGWff1K"
-      },
-      "artists": [
-        {
-          "name": "Glasswaves",
-          "url": "https://open.spotify.com/artist/6dTPsW2GddlLDEuuj8Jj4P"
-        }
-      ],
-      "duration_ms": 181132,
-      "name": "fvck.me.up",
-      "url": "https://open.spotify.com/track/7JIeOuq85aVF75x3GfgVLZ"
-    },
-    {
-      "added_at": "2026-05-06 04:00:17",
-      "album": {
-        "name": "Pallor",
-        "url": "https://open.spotify.com/album/7vLbFZq9cnlvnNj84AxINP"
-      },
-      "artists": [
-        {
-          "name": "OBEYER",
-          "url": "https://open.spotify.com/artist/5CCKfot4uTuUtHhzFMk03Q"
-        }
-      ],
-      "duration_ms": 253000,
-      "name": "A Single Shade",
-      "url": "https://open.spotify.com/track/3OMl7kRGQOB1eIwpwziLnp"
     },
     {
       "added_at": "2026-05-13 04:00:09",
@@ -479,6 +571,42 @@
       "duration_ms": 209560,
       "name": "Year of the Snake",
       "url": "https://open.spotify.com/track/2pCh7zubU7Im2D4lpr5DrJ"
+    },
+    {
+      "added_at": "2026-05-06 04:00:17",
+      "album": {
+        "name": "Crave",
+        "url": "https://open.spotify.com/album/1myxsESxSt1as0EXtCSBhN"
+      },
+      "artists": [
+        {
+          "name": "Via Sky",
+          "url": "https://open.spotify.com/artist/7BhceVGe9yQLMUuTKC21bo"
+        },
+        {
+          "name": "Kristyn Hope",
+          "url": "https://open.spotify.com/artist/5537Jz9oy5neAlivBv5MbU"
+        }
+      ],
+      "duration_ms": 229714,
+      "name": "Crave",
+      "url": "https://open.spotify.com/track/7I4yruTwtFlhwSmlIiB2xx"
+    },
+    {
+      "added_at": "2026-05-06 04:00:17",
+      "album": {
+        "name": "Pallor",
+        "url": "https://open.spotify.com/album/7vLbFZq9cnlvnNj84AxINP"
+      },
+      "artists": [
+        {
+          "name": "OBEYER",
+          "url": "https://open.spotify.com/artist/5CCKfot4uTuUtHhzFMk03Q"
+        }
+      ],
+      "duration_ms": 253000,
+      "name": "A Single Shade",
+      "url": "https://open.spotify.com/track/3OMl7kRGQOB1eIwpwziLnp"
     },
     {
       "added_at": "2026-05-13 04:00:09",
@@ -668,12 +796,12 @@
           "url": "https://open.spotify.com/artist/5n5iBDC9dOljWGwj7BrdZt"
         },
         {
-          "name": "Paul Ortiz",
-          "url": "https://open.spotify.com/artist/3YDZDmOmdEaywtM8O3HMsa"
-        },
-        {
           "name": "Kristyn Hope",
           "url": "https://open.spotify.com/artist/5537Jz9oy5neAlivBv5MbU"
+        },
+        {
+          "name": "Chimp Spanner",
+          "url": "https://open.spotify.com/artist/1luumZojARx0L3spmNwEgl"
         }
       ],
       "duration_ms": 307293,

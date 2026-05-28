@@ -1,6 +1,6 @@
 {
   "description": "wandering the forest as the fog floats through the trees",
-  "num_followers": 342450,
+  "num_followers": 342615,
   "original_name": "gloomcore",
   "owner": {
     "name": "Spotify",
@@ -643,22 +643,6 @@
     {
       "added_at": "2026-05-15 04:00:43",
       "album": {
-        "name": "fly high",
-        "url": "https://open.spotify.com/album/7g2YMNuWZaOxXLffXGa2v3"
-      },
-      "artists": [
-        {
-          "name": "ambit.",
-          "url": "https://open.spotify.com/artist/1OXRInYKrZWZ3z6f099iaB"
-        }
-      ],
-      "duration_ms": 107056,
-      "name": "fly high",
-      "url": "https://open.spotify.com/track/2MZ5LDS1QzKIEWhkUPiyvp"
-    },
-    {
-      "added_at": "2026-05-15 04:00:43",
-      "album": {
         "name": "try to find you",
         "url": "https://open.spotify.com/album/2L6M7uhtmkIfnsFjezamjU"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 99493,
       "name": "try to find you",
       "url": "https://open.spotify.com/track/5YflECMsYbbO4ngUIhsCNX"
+    },
+    {
+      "added_at": "2026-05-15 04:00:43",
+      "album": {
+        "name": "fly high",
+        "url": "https://open.spotify.com/album/7g2YMNuWZaOxXLffXGa2v3"
+      },
+      "artists": [
+        {
+          "name": "ambit.",
+          "url": "https://open.spotify.com/artist/1OXRInYKrZWZ3z6f099iaB"
+        }
+      ],
+      "duration_ms": 107056,
+      "name": "fly high",
+      "url": "https://open.spotify.com/track/2MZ5LDS1QzKIEWhkUPiyvp"
     },
     {
       "added_at": "2026-05-15 04:00:43",
@@ -759,22 +759,6 @@
     {
       "added_at": "2026-05-15 04:00:43",
       "album": {
-        "name": "PHANTOM BRICKWORKS (LP II)",
-        "url": "https://open.spotify.com/album/1GJ2vLnz8Tz8bdyjORnUCt"
-      },
-      "artists": [
-        {
-          "name": "Bibio",
-          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
-        }
-      ],
-      "duration_ms": 325320,
-      "name": "DOROTHEA\u2019S BED",
-      "url": "https://open.spotify.com/track/54vTE49dv8MDAz0yE2e4Ja"
-    },
-    {
-      "added_at": "2026-05-15 04:00:43",
-      "album": {
         "name": "Heavy",
         "url": "https://open.spotify.com/album/0WsgCDRCCQwrGjXTBTkJmm"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 289592,
       "name": "Still Numbers",
       "url": "https://open.spotify.com/track/5USNS4qU4tmfTIhfYje4Sq"
+    },
+    {
+      "added_at": "2026-05-15 04:00:43",
+      "album": {
+        "name": "PHANTOM BRICKWORKS (LP II)",
+        "url": "https://open.spotify.com/album/1GJ2vLnz8Tz8bdyjORnUCt"
+      },
+      "artists": [
+        {
+          "name": "Bibio",
+          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
+        }
+      ],
+      "duration_ms": 325320,
+      "name": "DOROTHEA\u2019S BED",
+      "url": "https://open.spotify.com/track/54vTE49dv8MDAz0yE2e4Ja"
     },
     {
       "added_at": "2026-05-15 04:00:43",
@@ -935,26 +935,6 @@
     {
       "added_at": "2026-05-15 04:00:43",
       "album": {
-        "name": "EXIT",
-        "url": "https://open.spotify.com/album/2MhALvvPg6IIgdmU56HZIj"
-      },
-      "artists": [
-        {
-          "name": "Aurenth",
-          "url": "https://open.spotify.com/artist/7CM5sCDVQcnURPRMnASkBb"
-        },
-        {
-          "name": "CADYY",
-          "url": "https://open.spotify.com/artist/5XDlNHJnRBdKy3UQofUWNB"
-        }
-      ],
-      "duration_ms": 98644,
-      "name": "EXIT",
-      "url": "https://open.spotify.com/track/3MsD0d8IKah8MM7Kl50cmV"
-    },
-    {
-      "added_at": "2026-05-15 04:00:43",
-      "album": {
         "name": "if things were different",
         "url": "https://open.spotify.com/album/2cQI2arOtejZN6geQc6xXr"
       },
@@ -975,6 +955,26 @@
       "duration_ms": 98108,
       "name": "for us",
       "url": "https://open.spotify.com/track/45R6vmTyzezkT5I96ZJUvN"
+    },
+    {
+      "added_at": "2026-05-15 04:00:43",
+      "album": {
+        "name": "EXIT",
+        "url": "https://open.spotify.com/album/2MhALvvPg6IIgdmU56HZIj"
+      },
+      "artists": [
+        {
+          "name": "Aurenth",
+          "url": "https://open.spotify.com/artist/7CM5sCDVQcnURPRMnASkBb"
+        },
+        {
+          "name": "CADYY",
+          "url": "https://open.spotify.com/artist/5XDlNHJnRBdKy3UQofUWNB"
+        }
+      ],
+      "duration_ms": 98644,
+      "name": "EXIT",
+      "url": "https://open.spotify.com/track/3MsD0d8IKah8MM7Kl50cmV"
     },
     {
       "added_at": "2026-05-15 04:00:43",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2026-05-15 04:00:43",
       "album": {
-        "name": "lonely nights",
-        "url": "https://open.spotify.com/album/5arUS3gNKE0xIvJLubzJzv"
-      },
-      "artists": [
-        {
-          "name": "fauxe.",
-          "url": "https://open.spotify.com/artist/681FiFPQPUSRknJn11zylo"
-        }
-      ],
-      "duration_ms": 103208,
-      "name": "lonely nights",
-      "url": "https://open.spotify.com/track/5VdDy30M2oaoaXeYkGz9ST"
-    },
-    {
-      "added_at": "2026-05-15 04:00:43",
-      "album": {
         "name": "hexa",
         "url": "https://open.spotify.com/album/3142OVL5k96lO51q7Hmiqs"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 149333,
       "name": "hexa",
       "url": "https://open.spotify.com/track/6BWIrKTvVD1w1zB1WhbRmP"
+    },
+    {
+      "added_at": "2026-05-15 04:00:43",
+      "album": {
+        "name": "lonely nights",
+        "url": "https://open.spotify.com/album/5arUS3gNKE0xIvJLubzJzv"
+      },
+      "artists": [
+        {
+          "name": "fauxe.",
+          "url": "https://open.spotify.com/artist/681FiFPQPUSRknJn11zylo"
+        }
+      ],
+      "duration_ms": 103208,
+      "name": "lonely nights",
+      "url": "https://open.spotify.com/track/5VdDy30M2oaoaXeYkGz9ST"
     },
     {
       "added_at": "2026-05-15 04:00:43",
@@ -1171,26 +1171,6 @@
     {
       "added_at": "2026-05-15 04:00:43",
       "album": {
-        "name": "Decomposition: Fox on a Highway",
-        "url": "https://open.spotify.com/album/0Ml1fgzwzQBA0G7K12QGuB"
-      },
-      "artists": [
-        {
-          "name": "Saapato",
-          "url": "https://open.spotify.com/artist/1zmmKdRwflRmJ8knfGlmYt"
-        },
-        {
-          "name": "Ben Seretan",
-          "url": "https://open.spotify.com/artist/54N4voTBO17fp6dEegF4qa"
-        }
-      ],
-      "duration_ms": 201423,
-      "name": "Fur and Exhaust",
-      "url": "https://open.spotify.com/track/6CjJAzQfMQnMsG36HDkxtS"
-    },
-    {
-      "added_at": "2026-05-15 04:00:43",
-      "album": {
         "name": "For One Another",
         "url": "https://open.spotify.com/album/556MxCxr9kDtL0NIQJvNKw"
       },
@@ -1215,6 +1195,26 @@
     {
       "added_at": "2026-05-15 04:00:43",
       "album": {
+        "name": "Decomposition: Fox on a Highway",
+        "url": "https://open.spotify.com/album/0Ml1fgzwzQBA0G7K12QGuB"
+      },
+      "artists": [
+        {
+          "name": "Saapato",
+          "url": "https://open.spotify.com/artist/1zmmKdRwflRmJ8knfGlmYt"
+        },
+        {
+          "name": "Ben Seretan",
+          "url": "https://open.spotify.com/artist/54N4voTBO17fp6dEegF4qa"
+        }
+      ],
+      "duration_ms": 201423,
+      "name": "Fur and Exhaust",
+      "url": "https://open.spotify.com/track/6CjJAzQfMQnMsG36HDkxtS"
+    },
+    {
+      "added_at": "2026-05-15 04:00:43",
+      "album": {
         "name": "Heaven in Time",
         "url": "https://open.spotify.com/album/50k7TzyHX3wq9auHlbsyUw"
       },
@@ -1227,6 +1227,22 @@
       "duration_ms": 164386,
       "name": "Heaven in Time",
       "url": "https://open.spotify.com/track/6XNxEFDlgG6MVfay6uGf9d"
+    },
+    {
+      "added_at": "2026-05-15 04:00:43",
+      "album": {
+        "name": "Murken Hollow",
+        "url": "https://open.spotify.com/album/695X5Psh92bFf5ytDQn44q"
+      },
+      "artists": [
+        {
+          "name": "Dead Melodies",
+          "url": "https://open.spotify.com/artist/34dfHqxGTjPV0tY4sHfHxu"
+        }
+      ],
+      "duration_ms": 417142,
+      "name": "Polaroid",
+      "url": "https://open.spotify.com/track/0ViKD5cWI2NaPeTMhKp9EO"
     },
     {
       "added_at": "2026-05-15 04:00:43",
@@ -1251,22 +1267,6 @@
     {
       "added_at": "2026-05-15 04:00:43",
       "album": {
-        "name": "Murken Hollow",
-        "url": "https://open.spotify.com/album/695X5Psh92bFf5ytDQn44q"
-      },
-      "artists": [
-        {
-          "name": "Dead Melodies",
-          "url": "https://open.spotify.com/artist/34dfHqxGTjPV0tY4sHfHxu"
-        }
-      ],
-      "duration_ms": 417142,
-      "name": "Polaroid",
-      "url": "https://open.spotify.com/track/0ViKD5cWI2NaPeTMhKp9EO"
-    },
-    {
-      "added_at": "2026-05-15 04:00:43",
-      "album": {
         "name": "Womb Trails",
         "url": "https://open.spotify.com/album/2JNoncPfQy0XJGxzADRGBG"
       },
@@ -1279,22 +1279,6 @@
       "duration_ms": 200059,
       "name": "Perpetual Care",
       "url": "https://open.spotify.com/track/00obKbt8QTLsUoSNGvVd2e"
-    },
-    {
-      "added_at": "2026-05-15 04:00:43",
-      "album": {
-        "name": "The Beautiful World",
-        "url": "https://open.spotify.com/album/2mYF47xMK4YdDipgj88DSD"
-      },
-      "artists": [
-        {
-          "name": "David Allred",
-          "url": "https://open.spotify.com/artist/05XWJrLfEbTiyv1oirnMSm"
-        }
-      ],
-      "duration_ms": 178858,
-      "name": "Stray",
-      "url": "https://open.spotify.com/track/2qJ1lpSOeAsbHr5WP86KtF"
     },
     {
       "added_at": "2026-05-15 04:00:43",
@@ -1315,18 +1299,18 @@
     {
       "added_at": "2026-05-15 04:00:43",
       "album": {
-        "name": "Nebel",
-        "url": "https://open.spotify.com/album/4gyklZEAM1QW9lOiIPAZCO"
+        "name": "The Beautiful World",
+        "url": "https://open.spotify.com/album/2mYF47xMK4YdDipgj88DSD"
       },
       "artists": [
         {
-          "name": "David Cordero",
-          "url": "https://open.spotify.com/artist/5yE5AG06GxRrh6Hw9qSJOQ"
+          "name": "David Allred",
+          "url": "https://open.spotify.com/artist/05XWJrLfEbTiyv1oirnMSm"
         }
       ],
-      "duration_ms": 194077,
-      "name": "Nebel",
-      "url": "https://open.spotify.com/track/5eT7cM9qUIZ8ruUkJilnCz"
+      "duration_ms": 178858,
+      "name": "Stray",
+      "url": "https://open.spotify.com/track/2qJ1lpSOeAsbHr5WP86KtF"
     },
     {
       "added_at": "2026-05-15 04:00:43",
@@ -1347,22 +1331,6 @@
     {
       "added_at": "2026-05-15 04:00:43",
       "album": {
-        "name": "Vintage Well",
-        "url": "https://open.spotify.com/album/6Yq2E5sFMqeT3SsOsdVHTm"
-      },
-      "artists": [
-        {
-          "name": "Deaf Center",
-          "url": "https://open.spotify.com/artist/0GQJRlsTD8irKEDcClYiiA"
-        }
-      ],
-      "duration_ms": 170878,
-      "name": "Close",
-      "url": "https://open.spotify.com/track/2qZBYY1G1guH9FjToCn0g4"
-    },
-    {
-      "added_at": "2026-05-15 04:00:43",
-      "album": {
         "name": "eclipse",
         "url": "https://open.spotify.com/album/3yspqmjHAoYTy6tZr3r4HR"
       },
@@ -1379,6 +1347,38 @@
       "duration_ms": 112615,
       "name": "eclipse",
       "url": "https://open.spotify.com/track/7v6D9mDpewgsnyPjtRqEmc"
+    },
+    {
+      "added_at": "2026-05-15 04:00:43",
+      "album": {
+        "name": "Nebel",
+        "url": "https://open.spotify.com/album/4gyklZEAM1QW9lOiIPAZCO"
+      },
+      "artists": [
+        {
+          "name": "David Cordero",
+          "url": "https://open.spotify.com/artist/5yE5AG06GxRrh6Hw9qSJOQ"
+        }
+      ],
+      "duration_ms": 194077,
+      "name": "Nebel",
+      "url": "https://open.spotify.com/track/5eT7cM9qUIZ8ruUkJilnCz"
+    },
+    {
+      "added_at": "2026-05-15 04:00:43",
+      "album": {
+        "name": "Vintage Well",
+        "url": "https://open.spotify.com/album/6Yq2E5sFMqeT3SsOsdVHTm"
+      },
+      "artists": [
+        {
+          "name": "Deaf Center",
+          "url": "https://open.spotify.com/artist/0GQJRlsTD8irKEDcClYiiA"
+        }
+      ],
+      "duration_ms": 170878,
+      "name": "Close",
+      "url": "https://open.spotify.com/track/2qZBYY1G1guH9FjToCn0g4"
     },
     {
       "added_at": "2026-05-15 04:00:43",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2026-05-15 04:00:43",
       "album": {
-        "name": "Take My Hand",
-        "url": "https://open.spotify.com/album/2KVKBlcWmJ49mhV4wfQ50I"
-      },
-      "artists": [
-        {
-          "name": "Luke Taylor",
-          "url": "https://open.spotify.com/artist/2DxAWfvhrcylvjEZILMyhR"
-        }
-      ],
-      "duration_ms": 159972,
-      "name": "Take My Hand",
-      "url": "https://open.spotify.com/track/2li1k57BZcIGJrISHXlOmh"
-    },
-    {
-      "added_at": "2026-05-15 04:00:43",
-      "album": {
         "name": "lost in a memory",
         "url": "https://open.spotify.com/album/4yJijb3dcyfKZipPi0D3Ou"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 168013,
       "name": "lost in a memory",
       "url": "https://open.spotify.com/track/1Z4ToDnBCYj8dirUlwY9pf"
+    },
+    {
+      "added_at": "2026-05-15 04:00:43",
+      "album": {
+        "name": "Take My Hand",
+        "url": "https://open.spotify.com/album/2KVKBlcWmJ49mhV4wfQ50I"
+      },
+      "artists": [
+        {
+          "name": "Luke Taylor",
+          "url": "https://open.spotify.com/artist/2DxAWfvhrcylvjEZILMyhR"
+        }
+      ],
+      "duration_ms": 159972,
+      "name": "Take My Hand",
+      "url": "https://open.spotify.com/track/2li1k57BZcIGJrISHXlOmh"
     },
     {
       "added_at": "2026-05-15 04:00:43",

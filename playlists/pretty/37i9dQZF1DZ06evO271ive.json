@@ -1,12 +1,12 @@
 {
   "description": "This is Sexyy Red. The essential tracks, all in one playlist.",
-  "num_followers": 30433,
+  "num_followers": 30445,
   "original_name": "This Is Sexyy Red",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahORAAAAAAAyRWU/6MTbtG9Gif63Joc+",
+  "snapshot_id": "ahTigAAAAAByi2lLTu38Olc90n/lUl3q",
   "tracks": [
     {
       "added_at": null,
@@ -599,50 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Motion (feat. Sexyy Red & NaNaski)",
-        "url": "https://open.spotify.com/album/3uGhJedbjmZ0kGDqjp3bkP"
-      },
-      "artists": [
-        {
-          "name": "PLUTO",
-          "url": "https://open.spotify.com/artist/4uqHgaeBynLBQgfhMEIm1G"
-        },
-        {
-          "name": "NaNaski",
-          "url": "https://open.spotify.com/artist/0mEBhT853pcpz3xM3URKXf"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 192676,
-      "name": "Motion (feat. Sexyy Red & NaNaski)",
-      "url": "https://open.spotify.com/track/5Ryy52nsMyZhYhAxypC2b8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hood Hottest Princess (Deluxe)",
-        "url": "https://open.spotify.com/album/7eJUwUbX2BGnNkLBoOvIlr"
-      },
-      "artists": [
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        },
-        {
-          "name": "Tay Keith",
-          "url": "https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3"
-        }
-      ],
-      "duration_ms": 157523,
-      "name": "I Don't Wanna Be Saved (feat. Tay Keith)",
-      "url": "https://open.spotify.com/track/20uBNCshRN9fKeE3dHRXST"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "FTCU (SLEEZEMIX)",
         "url": "https://open.spotify.com/album/71bR0ikZ38YGg6RDwhYiU2"
       },
@@ -667,6 +623,50 @@
       "duration_ms": 239667,
       "name": "FTCU (feat. Travis Scott, Chris Brown & Sexyy Red) - SLEEZEMIX",
       "url": "https://open.spotify.com/track/2oTFuT1tKLHlTJsnBSJJiN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hood Hottest Princess (Deluxe)",
+        "url": "https://open.spotify.com/album/7eJUwUbX2BGnNkLBoOvIlr"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        },
+        {
+          "name": "Tay Keith",
+          "url": "https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3"
+        }
+      ],
+      "duration_ms": 157523,
+      "name": "I Don't Wanna Be Saved (feat. Tay Keith)",
+      "url": "https://open.spotify.com/track/20uBNCshRN9fKeE3dHRXST"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Motion (feat. Sexyy Red & NaNaski)",
+        "url": "https://open.spotify.com/album/3uGhJedbjmZ0kGDqjp3bkP"
+      },
+      "artists": [
+        {
+          "name": "PLUTO",
+          "url": "https://open.spotify.com/artist/4uqHgaeBynLBQgfhMEIm1G"
+        },
+        {
+          "name": "NaNaski",
+          "url": "https://open.spotify.com/artist/0mEBhT853pcpz3xM3URKXf"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 192676,
+      "name": "Motion (feat. Sexyy Red & NaNaski)",
+      "url": "https://open.spotify.com/track/5Ryy52nsMyZhYhAxypC2b8"
     },
     {
       "added_at": null,
@@ -991,8 +991,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don't Trust Em",
-        "url": "https://open.spotify.com/album/5XcP3WvR8fGJKIVi1QzWwV"
+        "name": "Hood Hottest Princess (Deluxe)",
+        "url": "https://open.spotify.com/album/7eJUwUbX2BGnNkLBoOvIlr"
       },
       "artists": [
         {
@@ -1000,9 +1000,9 @@
           "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
         }
       ],
-      "duration_ms": 210102,
-      "name": "Don't Trust Em",
-      "url": "https://open.spotify.com/track/1eMTwnuRrFNYlVbIjCCkSq"
+      "duration_ms": 177902,
+      "name": "Shake Yo Dreads",
+      "url": "https://open.spotify.com/track/3CPu3e1CVKItYWdoCgSXzm"
     },
     {
       "added_at": null,

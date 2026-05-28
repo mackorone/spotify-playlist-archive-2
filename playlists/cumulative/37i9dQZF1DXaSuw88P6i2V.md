@@ -2,7 +2,7 @@
 
 ### [Kids & Families Stories](https://open.spotify.com/playlist/37i9dQZF1DXaSuw88P6i2V)
 
-> 
+> Joyful, inclusive audiobooks where every kid can find a story that feels like theirs.
 
 0 song - 0 sec
 

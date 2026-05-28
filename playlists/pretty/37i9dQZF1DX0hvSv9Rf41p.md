@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hvSv9Rf41p.md) - [plain]
 
 > All things <a href="spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN">bass</a> 🚀🚀 featuring Levity
 
-[Spotify](https://open.spotify.com/user/spotify) - 993,743 likes - 94 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 993,820 likes - 94 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

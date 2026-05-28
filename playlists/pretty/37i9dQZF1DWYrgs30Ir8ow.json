@@ -1,15 +1,15 @@
 {
   "description": "Altijd frisse hits! Cover: Martin Garrix & Ed Sheeran",
-  "num_followers": 36853,
+  "num_followers": 36854,
   "original_name": "Fresh Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACvQb5gJ1xRuP99IcdwClEFWEXfj",
+  "snapshot_id": "AAAAAAlQsfZwPseTPnthQZZ/vluwAGhW",
   "tracks": [
     {
-      "added_at": "2026-05-21 22:01:16",
+      "added_at": "2026-05-27 09:30:59",
       "album": {
         "name": "Repeat It",
         "url": "https://open.spotify.com/album/01deBuS0GqIpL6avvXaE11"
@@ -29,47 +29,7 @@
       "url": "https://open.spotify.com/track/5mX5bEYxObqukGlynRIVCj"
     },
     {
-      "added_at": "2026-05-21 22:01:16",
-      "album": {
-        "name": "Ewa Safi",
-        "url": "https://open.spotify.com/album/1hTb4919oA7x9I0JZCDJuE"
-      },
-      "artists": [
-        {
-          "name": "Noano",
-          "url": "https://open.spotify.com/artist/5eDdy8QxB47JsLASK2FI1m"
-        },
-        {
-          "name": "Lil Kleine",
-          "url": "https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT"
-        }
-      ],
-      "duration_ms": 143265,
-      "name": "Ewa Safi",
-      "url": "https://open.spotify.com/track/3PZ5mxb19denUmoHHpMipx"
-    },
-    {
-      "added_at": "2026-05-21 22:01:16",
-      "album": {
-        "name": "Dai Dai",
-        "url": "https://open.spotify.com/album/2eeufspLkAubwTJfOGSrI8"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        },
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 223448,
-      "name": "Dai Dai",
-      "url": "https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL"
-    },
-    {
-      "added_at": "2026-05-21 22:01:16",
+      "added_at": "2026-05-27 09:30:59",
       "album": {
         "name": "Zeg Het Meteen (feat. Yung Felix, Kleine John & Bartofso)",
         "url": "https://open.spotify.com/album/0WD0XInsjB8yxdSQn2vGUm"
@@ -97,7 +57,7 @@
       "url": "https://open.spotify.com/track/73375slBm9kry1CSwgfkvg"
     },
     {
-      "added_at": "2026-05-21 22:01:16",
+      "added_at": "2026-05-27 09:30:59",
       "album": {
         "name": "Bangaranga",
         "url": "https://open.spotify.com/album/2RRFlY4QIXwpfa6fZwfih8"
@@ -113,7 +73,23 @@
       "url": "https://open.spotify.com/track/6SvlfrQYzUsW5UQUpUpy26"
     },
     {
-      "added_at": "2026-05-21 22:01:16",
+      "added_at": "2026-05-27 09:30:59",
+      "album": {
+        "name": "the cure",
+        "url": "https://open.spotify.com/album/6zme2NwcaBxbn3mWOcMY8y"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 297090,
+      "name": "the cure",
+      "url": "https://open.spotify.com/track/4EoJ151oQ5jY48z4RhSE96"
+    },
+    {
+      "added_at": "2026-05-27 09:30:59",
       "album": {
         "name": "ICEMAN",
         "url": "https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY"
@@ -129,7 +105,35 @@
       "url": "https://open.spotify.com/track/514joG57v4yKTsfQmz7stz"
     },
     {
-      "added_at": "2026-05-21 22:01:16",
+      "added_at": "2026-05-27 09:30:59",
+      "album": {
+        "name": "Skyline",
+        "url": "https://open.spotify.com/album/07EP0dTPYrapBsjRkzZrr0"
+      },
+      "artists": [
+        {
+          "name": "3robi",
+          "url": "https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o"
+        },
+        {
+          "name": "Mensa",
+          "url": "https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC"
+        },
+        {
+          "name": "Frsh",
+          "url": "https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN"
+        },
+        {
+          "name": "SRNO",
+          "url": "https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q"
+        }
+      ],
+      "duration_ms": 157377,
+      "name": "Skyline",
+      "url": "https://open.spotify.com/track/1j2G3mA1IU54sGcsEON6HB"
+    },
+    {
+      "added_at": "2026-05-27 09:30:59",
       "album": {
         "name": "Boston",
         "url": "https://open.spotify.com/album/4YLIRb8DdBTXbgHiFLicH2"
@@ -145,7 +149,7 @@
       "url": "https://open.spotify.com/track/36idurZmYRjJ56KQ8JD9bN"
     },
     {
-      "added_at": "2026-05-21 22:01:16",
+      "added_at": "2026-05-27 09:30:59",
       "album": {
         "name": "SHE DID IT AGAIN (feat. Zara Larsson)",
         "url": "https://open.spotify.com/album/13DVwg7TPRUC8BnLjblv5B"
@@ -165,7 +169,7 @@
       "url": "https://open.spotify.com/track/3jucj0h0tajme6rUEadmWN"
     },
     {
-      "added_at": "2026-05-21 22:01:16",
+      "added_at": "2026-05-27 09:30:59",
       "album": {
         "name": "Rozen & Blaadjes",
         "url": "https://open.spotify.com/album/1v6MVT0CLct3K7NGC9gQmj"
@@ -189,7 +193,7 @@
       "url": "https://open.spotify.com/track/2GRrIFuUibIBf2RMFYu1MR"
     },
     {
-      "added_at": "2026-05-21 22:01:16",
+      "added_at": "2026-05-27 09:30:59",
       "album": {
         "name": "Multimiljonair",
         "url": "https://open.spotify.com/album/7MsrN7zy5Fm9iJRrAgOwPd"
@@ -205,7 +209,7 @@
       "url": "https://open.spotify.com/track/7febA9EPgU97DuLg9HAocX"
     },
     {
-      "added_at": "2026-05-21 22:01:16",
+      "added_at": "2026-05-27 09:30:59",
       "album": {
         "name": "Shinjuku",
         "url": "https://open.spotify.com/album/5HiGwQ6NJl5XuXD2ugSFMz"
@@ -221,7 +225,7 @@
       "url": "https://open.spotify.com/track/0niU8VMrQzSNhrmsiLlmeS"
     },
     {
-      "added_at": "2026-05-21 22:01:16",
+      "added_at": "2026-05-27 09:30:59",
       "album": {
         "name": "Liar",
         "url": "https://open.spotify.com/album/5zGqHfBnD4Lpk3dTwQT2b9"
@@ -237,7 +241,7 @@
       "url": "https://open.spotify.com/track/2OWXbIn2geYwaSLgBxwkOM"
     },
     {
-      "added_at": "2026-05-21 22:01:16",
+      "added_at": "2026-05-27 09:30:59",
       "album": {
         "name": "20 Seconds",
         "url": "https://open.spotify.com/album/5OEqnCAK2oapLxlCVSZDDX"
@@ -253,7 +257,7 @@
       "url": "https://open.spotify.com/track/26LQZvz3LIOkJzxha3Kgyi"
     },
     {
-      "added_at": "2026-05-21 22:01:16",
+      "added_at": "2026-05-27 09:30:59",
       "album": {
         "name": "ICEMAN",
         "url": "https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY"
@@ -277,7 +281,7 @@
       "url": "https://open.spotify.com/track/3DK90400cDlV5WUJPraMph"
     },
     {
-      "added_at": "2026-05-21 22:01:16",
+      "added_at": "2026-05-27 09:30:59",
       "album": {
         "name": "Like It",
         "url": "https://open.spotify.com/album/14PgQPeflG0gYdsgSdgHQU"
@@ -297,7 +301,7 @@
       "url": "https://open.spotify.com/track/45k8qYkYZJ87ckRq3O3fVj"
     },
     {
-      "added_at": "2026-05-21 22:01:16",
+      "added_at": "2026-05-27 09:30:59",
       "album": {
         "name": "Vergeten",
         "url": "https://open.spotify.com/album/4eqi0DD0szFvErxaNCwX9R"
@@ -317,7 +321,7 @@
       "url": "https://open.spotify.com/track/6Yj1i2nGfRgGQTslGK5But"
     },
     {
-      "added_at": "2026-05-21 22:01:16",
+      "added_at": "2026-05-27 09:30:59",
       "album": {
         "name": "Gappie Sappie",
         "url": "https://open.spotify.com/album/7FE9PW71kUT5Ry6N1D0TDo"
@@ -337,7 +341,7 @@
       "url": "https://open.spotify.com/track/2FCDwCdXpMnSq3QuHWZ3UM"
     },
     {
-      "added_at": "2026-05-21 22:01:16",
+      "added_at": "2026-05-27 09:30:59",
       "album": {
         "name": "De Leeuw Komt Eraan",
         "url": "https://open.spotify.com/album/2cYpryI2g6eu20whof2VI8"
@@ -353,7 +357,7 @@
       "url": "https://open.spotify.com/track/28GAHI5g37JbdtdwcTyfI7"
     },
     {
-      "added_at": "2026-05-21 22:01:16",
+      "added_at": "2026-05-27 09:30:59",
       "album": {
         "name": "Sweet Boy",
         "url": "https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ"
@@ -369,7 +373,7 @@
       "url": "https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ"
     },
     {
-      "added_at": "2026-05-21 22:01:16",
+      "added_at": "2026-05-27 09:30:59",
       "album": {
         "name": "Rode Kaart",
         "url": "https://open.spotify.com/album/0jxPTJsu6k7FdcacUuDY54"
@@ -385,7 +389,7 @@
       "url": "https://open.spotify.com/track/5xN3cFZCNvhMpaS3iqraQX"
     },
     {
-      "added_at": "2026-05-21 22:01:16",
+      "added_at": "2026-05-27 09:30:59",
       "album": {
         "name": "Hit the Wall",
         "url": "https://open.spotify.com/album/1jvG5wNg83Bm7ykfjwPHbZ"
@@ -401,7 +405,7 @@
       "url": "https://open.spotify.com/track/1U90UBmMrQTx9GNweUA4LZ"
     },
     {
-      "added_at": "2026-05-21 22:01:16",
+      "added_at": "2026-05-27 09:30:59",
       "album": {
         "name": "Ademnood",
         "url": "https://open.spotify.com/album/3hjUAF7zKbGpld0QGDuIqP"
@@ -421,7 +425,7 @@
       "url": "https://open.spotify.com/track/044HtxqRCHIQvJhZ4LWt4z"
     },
     {
-      "added_at": "2026-05-21 22:01:16",
+      "added_at": "2026-05-27 09:30:59",
       "album": {
         "name": "Man\u2019s Best Friend (Bonus Track Version)",
         "url": "https://open.spotify.com/album/6xhHeCllhm4dPDqbACaAyG"
@@ -437,7 +441,7 @@
       "url": "https://open.spotify.com/track/0lebSDyURI4Hn5CH0Yb2Dd"
     },
     {
-      "added_at": "2026-05-21 22:01:16",
+      "added_at": "2026-05-27 09:30:59",
       "album": {
         "name": "Zij Hoort Bij Mij",
         "url": "https://open.spotify.com/album/5DIbGZCUppQpa7eZ3RWN8o"
@@ -461,7 +465,7 @@
       "url": "https://open.spotify.com/track/4NzVNVrPqz7APlA5C0TuBP"
     },
     {
-      "added_at": "2026-05-21 22:01:16",
+      "added_at": "2026-05-27 09:30:59",
       "album": {
         "name": "The Great Divide",
         "url": "https://open.spotify.com/album/2fnkyn9EybagIoFJ7a13oz"
@@ -477,7 +481,7 @@
       "url": "https://open.spotify.com/track/3iU2qsthCTo5EeTE03l3Si"
     },
     {
-      "added_at": "2026-05-21 22:01:16",
+      "added_at": "2026-05-27 09:30:59",
       "album": {
         "name": "Potential",
         "url": "https://open.spotify.com/album/0qqZfp0bh8BpzRZ5jwBLY5"
@@ -493,7 +497,7 @@
       "url": "https://open.spotify.com/track/4cpHvqL4dvporE8JlQwkec"
     },
     {
-      "added_at": "2026-05-21 22:01:16",
+      "added_at": "2026-05-27 09:30:59",
       "album": {
         "name": "Samen Is Leuker Dan Alleen",
         "url": "https://open.spotify.com/album/48Y7pJ00km4Md3neQJM9Tf"
@@ -517,7 +521,7 @@
       "url": "https://open.spotify.com/track/7zAYKczeN7LibBSPX48qrW"
     },
     {
-      "added_at": "2026-05-21 22:01:16",
+      "added_at": "2026-05-27 09:30:59",
       "album": {
         "name": "Mr. Know It All",
         "url": "https://open.spotify.com/album/2WFulOVpYFDYBQ4GtoClfz"
@@ -533,7 +537,7 @@
       "url": "https://open.spotify.com/track/0GuyH5MDxEx54wg1Rhe5on"
     },
     {
-      "added_at": "2026-05-21 22:01:16",
+      "added_at": "2026-05-27 09:30:59",
       "album": {
         "name": "Voor de straten",
         "url": "https://open.spotify.com/album/4LpLWzuQmZD581Z1NPyQtD"
@@ -553,7 +557,7 @@
       "url": "https://open.spotify.com/track/1KEnIOAe6vLqj7uNvLOCn9"
     },
     {
-      "added_at": "2026-05-21 22:01:16",
+      "added_at": "2026-05-27 09:30:59",
       "album": {
         "name": "Sensa",
         "url": "https://open.spotify.com/album/04aZ9bzLSxCBwKBmo7UXwW"
@@ -577,7 +581,7 @@
       "url": "https://open.spotify.com/track/4OByoXgJXbXD4KXtHeA4Xi"
     },
     {
-      "added_at": "2026-05-21 22:01:16",
+      "added_at": "2026-05-27 09:30:59",
       "album": {
         "name": "Awake Tonight",
         "url": "https://open.spotify.com/album/2JVYUljpOqknjBvxeSIFB0"
@@ -601,7 +605,7 @@
       "url": "https://open.spotify.com/track/4Vdes3GjtIqdFskoWbVYnP"
     },
     {
-      "added_at": "2026-05-21 22:01:16",
+      "added_at": "2026-05-27 09:30:59",
       "album": {
         "name": "Save My Love",
         "url": "https://open.spotify.com/album/16OQglx2ocK2F03OgmYIxh"
@@ -625,7 +629,7 @@
       "url": "https://open.spotify.com/track/5ObyGDxNWH0Uuuk3NvC5r8"
     },
     {
-      "added_at": "2026-05-21 22:01:16",
+      "added_at": "2026-05-27 09:30:59",
       "album": {
         "name": "Ik Ken Die Girls",
         "url": "https://open.spotify.com/album/3MJnKNmeKEjunKkT1bZSeW"
@@ -649,7 +653,7 @@
       "url": "https://open.spotify.com/track/4LCDrR00rJwjGPQYKavU7G"
     },
     {
-      "added_at": "2026-05-21 22:01:16",
+      "added_at": "2026-05-27 09:30:59",
       "album": {
         "name": "Alleen Is Maar Alleen",
         "url": "https://open.spotify.com/album/7EtaXo9QKligGu9dgenUSy"
@@ -669,7 +673,7 @@
       "url": "https://open.spotify.com/track/6tcolgcmZjT4AFqvNStPWz"
     },
     {
-      "added_at": "2026-05-21 22:01:16",
+      "added_at": "2026-05-27 09:30:59",
       "album": {
         "name": "Komt Goed",
         "url": "https://open.spotify.com/album/1lmA667UeqzMD0YYAMYzFs"
@@ -685,7 +689,7 @@
       "url": "https://open.spotify.com/track/3qIJrZsdgUxtCjop0MD5gs"
     },
     {
-      "added_at": "2026-05-21 22:01:16",
+      "added_at": "2026-05-27 09:30:59",
       "album": {
         "name": "Waar Blijf Je Nou",
         "url": "https://open.spotify.com/album/5bVeC1xSb9cerOTLbVCKDJ"
@@ -705,7 +709,7 @@
       "url": "https://open.spotify.com/track/3zPB1hMsorvAEiIl88JOpr"
     },
     {
-      "added_at": "2026-05-21 22:01:16",
+      "added_at": "2026-05-27 09:30:59",
       "album": {
         "name": "In Je Bed",
         "url": "https://open.spotify.com/album/0zjj2c9hvjajVWRQZpSYyZ"
@@ -729,7 +733,7 @@
       "url": "https://open.spotify.com/track/5v78Fw0egMGlffUGn1pnb7"
     },
     {
-      "added_at": "2026-05-21 22:01:16",
+      "added_at": "2026-05-27 09:30:59",
       "album": {
         "name": "Champie & Sashimi",
         "url": "https://open.spotify.com/album/4EH2rYlWPsrWHvPXDyLJYe"
@@ -749,7 +753,7 @@
       "url": "https://open.spotify.com/track/2oLSkJFtbH4OFQMWeXnhoL"
     },
     {
-      "added_at": "2026-05-21 22:01:16",
+      "added_at": "2026-05-27 09:30:59",
       "album": {
         "name": "Hans Kazan",
         "url": "https://open.spotify.com/album/0w9pAwPmHd4BmezXWpMWDV"
@@ -765,7 +769,7 @@
       "url": "https://open.spotify.com/track/51lD3R9Ze3iDWCVTwa6yun"
     },
     {
-      "added_at": "2026-05-21 22:01:16",
+      "added_at": "2026-05-27 09:30:59",
       "album": {
         "name": "BULLY",
         "url": "https://open.spotify.com/album/5poA9SAx0Xiz1cf17fWBLS"
@@ -789,7 +793,7 @@
       "url": "https://open.spotify.com/track/2SjnvpedDUU0Ga69bxnoCa"
     },
     {
-      "added_at": "2026-05-21 22:01:16",
+      "added_at": "2026-05-27 09:30:59",
       "album": {
         "name": "BBL",
         "url": "https://open.spotify.com/album/5L3C8nCw6eXzm5MvDA4Que"
@@ -821,7 +825,7 @@
       "url": "https://open.spotify.com/track/3VvgwTBOtDPylEZHtPvBuz"
     },
     {
-      "added_at": "2026-05-21 22:01:16",
+      "added_at": "2026-05-27 09:30:59",
       "album": {
         "name": "Just A Girl",
         "url": "https://open.spotify.com/album/17Cy5j0Oajyx6HwVGh3zh5"
@@ -841,7 +845,7 @@
       "url": "https://open.spotify.com/track/3jion2IKcnOSfpyNheRvim"
     },
     {
-      "added_at": "2026-05-21 22:01:16",
+      "added_at": "2026-05-27 09:30:59",
       "album": {
         "name": "Elizabeth Taylor",
         "url": "https://open.spotify.com/album/71GTik4z9bbKKY2EmUvkDI"
@@ -857,7 +861,7 @@
       "url": "https://open.spotify.com/track/3AKV7Mvo2Mx4tb39iPvPlT"
     },
     {
-      "added_at": "2026-05-21 22:01:16",
+      "added_at": "2026-05-27 09:30:59",
       "album": {
         "name": "Niks Persoonlijks",
         "url": "https://open.spotify.com/album/43lgqe1CDhc1uCCyPitltY"
@@ -873,7 +877,7 @@
       "url": "https://open.spotify.com/track/6tQAp8c1u2UZdTY21xInfF"
     },
     {
-      "added_at": "2026-05-21 22:01:16",
+      "added_at": "2026-05-27 09:30:59",
       "album": {
         "name": "BULLY",
         "url": "https://open.spotify.com/album/5poA9SAx0Xiz1cf17fWBLS"
@@ -897,7 +901,7 @@
       "url": "https://open.spotify.com/track/5pfn68duSmBKo4FhYknOms"
     },
     {
-      "added_at": "2026-05-21 22:01:16",
+      "added_at": "2026-05-27 09:30:59",
       "album": {
         "name": "Self Aware",
         "url": "https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M"
@@ -913,7 +917,7 @@
       "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT"
     },
     {
-      "added_at": "2026-05-21 22:01:16",
+      "added_at": "2026-05-27 09:30:59",
       "album": {
         "name": "THIS MUSIC MAY CONTAIN HOPE.",
         "url": "https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9"
@@ -929,7 +933,7 @@
       "url": "https://open.spotify.com/track/0ka0xUb0kho8KMOCuuPOZJ"
     },
     {
-      "added_at": "2026-05-21 22:01:16",
+      "added_at": "2026-05-27 09:30:59",
       "album": {
         "name": "Liefdesverdriet",
         "url": "https://open.spotify.com/album/3pObjYeEC5hk7c5sbnh4Ly"
@@ -949,7 +953,7 @@
       "url": "https://open.spotify.com/track/2GMVReNSsJhHds116zpLXQ"
     },
     {
-      "added_at": "2026-05-21 22:01:16",
+      "added_at": "2026-05-27 09:30:59",
       "album": {
         "name": "Ik Ben Niet Meer Bang",
         "url": "https://open.spotify.com/album/189EqxKsLbH39r47N0VMbi"
@@ -969,7 +973,7 @@
       "url": "https://open.spotify.com/track/6nZo4DQDz3UMqKCXi6UvYY"
     },
     {
-      "added_at": "2026-05-21 22:01:16",
+      "added_at": "2026-05-27 09:30:59",
       "album": {
         "name": "Zijkant",
         "url": "https://open.spotify.com/album/1LaxxpY3iDj4NxfirjjbX2"

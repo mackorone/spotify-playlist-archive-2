@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Sarah Julia
 
-[Spotify](https://open.spotify.com/user/spotify) - 875,940 likes - 159 songs - 9 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 875,974 likes - 159 songs - 9 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \|
 
-1,814 songs - 4 day 0 hr 10 min
+1,815 songs - 4 day 0 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -570,6 +570,7 @@
 | [Gimme Back Your Love](https://open.spotify.com/track/35qcMJzvPdrBpGjA3PsKiB) | [Latroit](https://open.spotify.com/artist/4keJDDQx0ac2jhmknbSLFK), [Jonathan Mouton](https://open.spotify.com/artist/5eILPzQ0aefUcuLlPF9609), [BKLYNN](https://open.spotify.com/artist/1WynmN7no6V2Lq0WXGhHjB) | [Gimme Back Your Love](https://open.spotify.com/album/733wVMKRPVzZFs50ibHBhz) | 3:13 | 2023-07-06 | 2023-12-14 |
 | [Gimme The Love](https://open.spotify.com/track/46IsWuEwNXTxa3zwRVbU9E) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Seth Hills](https://open.spotify.com/artist/5nFt7a5Du2MkdAr1KniXh7), [Alessia Labate](https://open.spotify.com/artist/3znJOYi3CDM5ZQkbo6kmjd) | [Gimme The Love](https://open.spotify.com/album/7HZcbRZVXZQnatYKsbUN9L) | 3:02 | 2025-05-22 |  |
 | [Girl](https://open.spotify.com/track/4YsMDOgS5vQf5RyZD8lR34) | [KC Lights](https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ) | [Girl](https://open.spotify.com/album/4PypLx4PRtIi1HJF3A0yEF) | 2:39 | 2022-06-09 | 2023-06-06 |
+| [Girls Like Us \- D.O.D Remix](https://open.spotify.com/track/60DS47pDB5abt1Tob5QlhH) | [B15 Project](https://open.spotify.com/artist/6dflJhpEMW53KdFMj4myPc), [Crissy D](https://open.spotify.com/artist/3Pu3KpT4wihOuoADlMWRSh), [Lady G](https://open.spotify.com/artist/6dvIEb67jvtYQnnXrgwrxJ), [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB) | [Girls Like Us \(D.O.D Remix\)](https://open.spotify.com/album/752pb1dCNc46vdMsPqwizk) | 2:48 | 2026-05-27 |  |
 | [Give It To Me 2025](https://open.spotify.com/track/2SXIxc92q42M6lMCfQ8hKL) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [Notre Dame](https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ), [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Give It To Me 2025](https://open.spotify.com/album/0tPiQFFUeHaHJ2FPOcPHcS) | 2:41 | 2025-07-11 |  |
 | [Give It Up](https://open.spotify.com/track/7qMTqzmYW9FDZg6184Fs4n) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [The Good Men](https://open.spotify.com/artist/6i3dwduFX5pMgkijTVRvmX), [Chocolate Puma](https://open.spotify.com/artist/5Aw0IGM5JS3FuTgtRsDWGA) | [Give It Up](https://open.spotify.com/album/3jnATeKH6f3qYef820wW6j) | 3:10 | 2024-07-26 | 2025-04-04 |
 | [Give It Up](https://open.spotify.com/track/6TTbv0T7KQG7q51Q6b5m9n) | [The Good Men](https://open.spotify.com/artist/6i3dwduFX5pMgkijTVRvmX) | [Armada Music \- 20 Years](https://open.spotify.com/album/7wdcl45O0fWwzdm3qM481m) | 3:27 | 2023-06-24 | 2023-08-20 |

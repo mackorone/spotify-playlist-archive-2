@@ -2,7 +2,7 @@
 
 ### [BILLIONS CLUB](https://open.spotify.com/playlist/37i9dQZF1DX7iB3RCnBnN4)
 
-> Celebrating all the songs with more than a billion streams on Spotify\. Cover: Flo Rida
+> Watch <a href="spotify:episode:5oG3OBikHqGgz7WkzqOdZp">Billions Club Live with Olivia Rodrigo: A Concert Film</a> on Spotify.
 
 1,345 songs - 3 day 10 hr 3 min
 

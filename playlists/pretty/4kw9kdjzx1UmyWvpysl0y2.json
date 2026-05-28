@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 123910,
+  "num_followers": 123908,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAValga1vl2AvH3ljqEa27v9EI6AYvj",
+  "snapshot_id": "AAAVa6I+hxmI7U1vkX82pbpU+YurjKZK",
   "tracks": [
+    {
+      "added_at": "2026-05-27 15:06:04",
+      "album": {
+        "name": "HOURGLASS / WORLDS AWAY",
+        "url": "https://open.spotify.com/album/34ovE21vU00pHkmLzvM87P"
+      },
+      "artists": [
+        {
+          "name": "Gracie Van Brunt",
+          "url": "https://open.spotify.com/artist/61ehajEjCepvX1LehNWtKt"
+        }
+      ],
+      "duration_ms": 232850,
+      "name": "HOURGLASS",
+      "url": "https://open.spotify.com/track/0wejZszJesttJYEkgkpFWb"
+    },
     {
       "added_at": "2026-05-25 14:39:48",
       "album": {

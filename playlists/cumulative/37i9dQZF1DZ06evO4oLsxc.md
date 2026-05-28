@@ -4,7 +4,7 @@
 
 > This is Venna\. The essential tracks, all in one playlist.
 
-54 songs - 2 hr 55 min
+55 songs - 2 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,8 @@
 | [Prophet](https://open.spotify.com/track/639zLmMqth7OXOV7NxsHL8) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [MALIK](https://open.spotify.com/album/0X8L8zMHTYQr5wX9zeHPqf) | 4:56 | 2025-09-11 |  |
 | [Raggo Rock](https://open.spotify.com/track/1jm7i31XQpaSumkH7Kuzmq) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [MALIK](https://open.spotify.com/album/0X8L8zMHTYQr5wX9zeHPqf) | 1:41 | 2025-09-10 | 2025-09-11 |
 | [Sicily' Box](https://open.spotify.com/track/7EdQ9Z80HAKiISr1MZABpZ) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Marco Bernardis](https://open.spotify.com/artist/2paaQ0WHxSynDwZkcBtdbv), [Rocco Palladino](https://open.spotify.com/artist/3gTKlamoFhZeUOFykWBouS) | [Sicily' Box](https://open.spotify.com/album/2uuyNTiLLeSomuFh1agl6v) | 4:05 | 2025-08-02 |  |
-| [so simple](https://open.spotify.com/track/6cxiPW3AEDukD6zBwlyRw5) | [agajon](https://open.spotify.com/artist/5ZqhVXS0lKksMwTqFTBY3k), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [nag champa](https://open.spotify.com/album/5l8rGjeehGlrv6nxrRAvkj) | 2:52 | 2025-08-02 |  |
+| [so simple](https://open.spotify.com/track/1xg3Nzby8u6q88hOjvEWLy) | [agajon](https://open.spotify.com/artist/5ZqhVXS0lKksMwTqFTBY3k), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [nag champa](https://open.spotify.com/album/2j3D8Ms83vrBFRKbIA3pQw) | 2:52 | 2026-05-28 |  |
+| [so simple](https://open.spotify.com/track/6cxiPW3AEDukD6zBwlyRw5) | [agajon](https://open.spotify.com/artist/5ZqhVXS0lKksMwTqFTBY3k), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [nag champa](https://open.spotify.com/album/5l8rGjeehGlrv6nxrRAvkj) | 2:52 | 2025-08-02 | 2026-05-28 |
 | [Standard](https://open.spotify.com/track/6vidfcE63k1dl1YrQTQ4S5) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa) | [Standard](https://open.spotify.com/album/7aXmIOc3CuYe0AtqO3fjca) | 2:37 | 2025-08-02 |  |
 | [Standout](https://open.spotify.com/track/7z8mamHXaezlYVODfFOypw) | [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa), [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [London Class](https://open.spotify.com/album/6Vvxsmhtg0FKtUEsrkfleL) | 2:55 | 2025-08-02 |  |
 | [Sun, Moon & Herbs](https://open.spotify.com/track/6pHo3k15lbYuljy5GyZsV2) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [JVCK JAMES](https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN) | [VENOLOGY](https://open.spotify.com/album/1s8xKntAE2o35KgQnkSKje) | 4:12 | 2025-08-02 |  |

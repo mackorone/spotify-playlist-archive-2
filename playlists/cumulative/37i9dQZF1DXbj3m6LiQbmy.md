@@ -4,7 +4,7 @@
 
 > Musica dalla comunità LGBQTIA+ 🇮🇹  Santamarea in cover
 
-413 songs - 23 hr 50 min
+414 songs - 23 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [Fall \(feat\. Cuushe\)](https://open.spotify.com/track/1DhN0hYneezQL2nQnTChnQ) | [Populous](https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU) | [Night Safari](https://open.spotify.com/album/1NsQzdcl5VnJDgTGLkvLoj) | 4:32 | 2022-06-26 | 2023-02-28 |
 | [Fammi sapere](https://open.spotify.com/track/5lim6ILbLLRo2klC4C3JhJ) | [Santissima Vicky](https://open.spotify.com/artist/1SVjhg7V450B2W9zcn9dZY) | [Fammi sapere](https://open.spotify.com/album/5BLc0gWZEp3CQvyEpSO5p0) | 2:55 | 2021-11-19 | 2024-01-09 |
 | [Faradenza](https://open.spotify.com/track/5YdbRdc2AhwJXzz8eOfCP3) | [Little Big](https://open.spotify.com/artist/0pnd3MP2rxAzljR9AqXUJB) | [Antipositive, Pt\. 1](https://open.spotify.com/album/6aKvehyRr8lcSApGpkie7X) | 2:29 | 2022-06-12 | 2022-06-27 |
+| [FIAMMIFERI \(feat\. ANTONIA\)](https://open.spotify.com/track/2GnoZvHQ7mNEljUvInZXpE) | [AIELLO](https://open.spotify.com/artist/5bxbPQo0VkFgZKemF0YKb4), [ANTONIA](https://open.spotify.com/artist/7FHXOCS4B6dXsf5x3KmRr0) | [SCORPIONE](https://open.spotify.com/album/0Fh9y5aOLOQ4xDlgw498eo) | 2:34 | 2026-05-27 |  |
 | [FINIMONDO](https://open.spotify.com/track/0JbzHTWp24Fe1l7NBzzp4p) | [M¥SS KETA](https://open.spotify.com/artist/594PwrFy2mmLueuUwUgoCM) | [FINIMONDO](https://open.spotify.com/album/5v0DjHceNOVZGIqtNzR8i2) | 2:51 | 2022-05-25 | 2022-06-13 |
 | [FINIMONDO](https://open.spotify.com/track/0RFRr1i6USZRE66r5vB9OT) | [M¥SS KETA](https://open.spotify.com/artist/594PwrFy2mmLueuUwUgoCM) | [CLUB TOPPERIA](https://open.spotify.com/album/55jRiCSPrXaypNbQFnL1ei) | 2:51 | 2022-06-12 | 2022-06-27 |
 | [Flauta Magica](https://open.spotify.com/track/01gb9bfWp306gDQRbFd5ds) | [Populous](https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU) | [Moonbaton Vol\. 1](https://open.spotify.com/album/4JLgXoma9I3Dewc8tEGonO) | 2:22 | 2023-04-12 | 2024-04-19 |

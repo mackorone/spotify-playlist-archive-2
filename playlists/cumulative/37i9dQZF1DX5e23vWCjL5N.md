@@ -4,7 +4,7 @@
 
 > Punchline, storytelling, rap italiano\. Tedua in cover.
 
-426 songs - 21 hr 40 min
+428 songs - 21 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -353,6 +353,7 @@
 | [Roccia](https://open.spotify.com/track/6eLSWVOHrTzWeJkBzzgS3h) | [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7) | [Roccia](https://open.spotify.com/album/0PH4e4zlC3tF7PgzpsSliB) | 3:00 | 2025-01-30 | 2025-04-11 |
 | [ROSSO COME IL FANGO](https://open.spotify.com/track/7d8hSEH3UBc0phpisP1fh9) | [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [ROSSO COME IL FANGO](https://open.spotify.com/album/1lxCspGT29F9wNy6dI9bKe) | 2:50 | 2026-04-13 |  |
 | [RUDE BOYS](https://open.spotify.com/track/3LBGbIsWxbjj7ujeigCD14) | [Marte](https://open.spotify.com/artist/3IWdXZamAg5bhIa0KyRBNb) | [METAMORFOSI](https://open.spotify.com/album/1SPhCDB44Mgx1lEbdMnIKm) | 2:21 | 2026-03-19 | 2026-04-10 |
+| [Ryan Ted Freestyle](https://open.spotify.com/track/6xyco3qjTY4RjPpYFOy7Uj) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [RYAN TED](https://open.spotify.com/album/2U9mwmcJrUmkIpJm9gq8n7) | 2:47 | 2026-05-27 |  |
 | [S.A.L.M.O.](https://open.spotify.com/track/2YZkw3wc0uDMSOnJaIXykX) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [Midnite \(Deluxe Version\)](https://open.spotify.com/album/1gjwWKqjQMhi5OvWG38ZEW) | 3:55 | 2022-07-15 | 2024-04-19 |
 | [S.A.L.M.O.](https://open.spotify.com/track/4kpAz34vx3pPPGaKdD3j6Q) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [Midnite \(Deluxe Version\)](https://open.spotify.com/album/0d0xhfyP9VIZ8V9IsyvUdg) | 3:55 | 2022-04-15 | 2024-08-30 |
 | [S.X.S.I.C.](https://open.spotify.com/track/3PDMXI7XWkuPOxZ1uNB5O7) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [Tutti i Nomi del Diavolo](https://open.spotify.com/album/5UIxxfAYiTSd9U7Iz5WwmQ) | 3:20 | 2024-11-04 | 2025-04-11 |
@@ -414,6 +415,7 @@
 | [Valzer \(feat\. nayt\)](https://open.spotify.com/track/4EeRcdj7sbwxaNsJlSWS3q) | [Mezzosangue](https://open.spotify.com/artist/63isdzBiMOaYkMiX6XddfB), [nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD) | [Viscerale](https://open.spotify.com/album/0QsYShpxYb7pQXwnkoaIUT) | 3:31 | 2025-04-10 |  |
 | [VDLC](https://open.spotify.com/track/242NmD3BqOefyiOZQy2MT2) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [X2VR](https://open.spotify.com/album/3ilgQgVMtxAxN2Jmb1OM29) | 3:18 | 2023-11-17 | 2025-06-06 |
 | [Veleno 8 \(feat\. Gemitaiz\)](https://open.spotify.com/track/06OBAy97uVyHCZvonvgfE2) | [MadMan](https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX), [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK) | [MM Vol\. 4](https://open.spotify.com/album/6u7PVqrCBPex6FSw8eb5ce) | 3:02 | 2022-04-15 | 2023-12-01 |
+| [Veliero di Carta](https://open.spotify.com/track/1tslB5YE0OqWUzBLrmz2uK) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [RYAN TED](https://open.spotify.com/album/2U9mwmcJrUmkIpJm9gq8n7) | 2:53 | 2026-05-27 |  |
 | [vent’anni\. \(con Tedua\)](https://open.spotify.com/track/0GQN8VJrRYodCLW3Abu6yZ) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3), [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [decrescendo.](https://open.spotify.com/album/2oV2fJQbYBswcOptTNAKpd) | 3:02 | 2025-05-22 | 2025-12-12 |
 | [VERO TONY VERO SOSA](https://open.spotify.com/track/2tADvI8RnFhYln3GVvqGds) | [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF) | [ICON](https://open.spotify.com/album/0zGirhBBoAjHz8t37u1IRW) | 2:44 | 2024-03-15 | 2024-12-14 |
 | [Verso Altri Lidi](https://open.spotify.com/track/4ns5QMZm4Nw96OmzuySsT1) | [Fabri Fibra](https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC) | [Mentre Los Angeles Brucia](https://open.spotify.com/album/2O1iWxwf8rcqR6SYksKSb1) | 3:21 | 2025-06-19 |  |

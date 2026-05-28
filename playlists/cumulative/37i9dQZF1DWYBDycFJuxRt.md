@@ -2,9 +2,9 @@
 
 ### [New Music Wednesday](https://open.spotify.com/playlist/37i9dQZF1DWYBDycFJuxRt)
 
-> 今週も話題の新曲を最速で。 Cover: KID FRESINO  \*👉 <a href="https://spice.eplus.jp/articles/346219">連動記事</a>をSPICEでチェック!
+> 今週も話題の新曲を最速で。 Cover: KID FRESINO  \*👉 <a href="https://spice.eplus.jp/articles/346346">連動記事</a>をSPICEでチェック!
 
-14,829 songs - 39 day 8 hr 21 min
+14,831 songs - 39 day 8 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2916,6 +2916,7 @@
 | [FLY OUT](https://open.spotify.com/track/2D2jnsZ7v6c3BQ330jwJdF) | [NIKO NIKO TAN TAN](https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb) | [Attention](https://open.spotify.com/album/6tNWDnOy3WwR5KjAxnRSmi) | 3:28 | 2025-09-03 | 2025-09-10 |
 | [Fly Up](https://open.spotify.com/track/3GiYjd5959ktHZGSxOqmKe) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [msnz <Beyond Beauty>](https://open.spotify.com/album/281B8RLDzA7mufE1ccVxrM) | 2:40 | 2025-11-25 | 2025-12-03 |
 | [FLY WITH YOU](https://open.spotify.com/track/7MleUf4Il4Twy3arGWthrV) | [FANTASTICS from EXILE TRIBE](https://open.spotify.com/artist/162Ols90jU4CctXQz15NxS) | [Cosmic Resonance](https://open.spotify.com/album/64XQVvf5ikHhkU0tkUDOUp) | 3:13 | 2025-07-15 | 2025-07-23 |
+| [FLY!](https://open.spotify.com/track/55DiPLEo61Kr6gba1XuKlj) | [IDID](https://open.spotify.com/artist/67PXCkgEZryiYFJw691hPn) | [FLY!](https://open.spotify.com/album/38EwYgNHM13ADWojsMBwjW) | 2:36 | 2026-05-27 |  |
 | [Fly\-by \- 2024 observed ver.](https://open.spotify.com/track/45WjPSxKnHBARgV8VlB5ei) | [Natsuko Nisshoku](https://open.spotify.com/artist/4GnFg9D7Ds99UI0r5t9PZK) | [Fly\-by \(2024 observed ver.\)](https://open.spotify.com/album/6imAeLXlqvAILqW0mICYEI) | 4:49 | 2024-08-27 | 2024-09-04 |
 | [Fly2you](https://open.spotify.com/track/0HMK3CrQde3mu51yFAEwkU) | [Yinc.](https://open.spotify.com/artist/5b0RmKR4DGcfcnjjT6E6g2) | [Fly2you](https://open.spotify.com/album/330zvcJrFzCV2va2aygUA8) | 3:13 | 2025-07-08 | 2025-07-16 |
 | [Flyday](https://open.spotify.com/track/23d5U1HHfI5DiIQwuTytJc) | [nana](https://open.spotify.com/artist/7uzEQGrUAupBJK2j3uQsoC), [MIKADO](https://open.spotify.com/artist/2snBLq7pgphB4ObS2otWiM) | [Flyday](https://open.spotify.com/album/0cHBXVpZgq82y9LyDk7A0C) | 3:31 | 2025-05-27 | 2025-06-04 |
@@ -6645,6 +6646,7 @@
 | [Planet Player](https://open.spotify.com/track/1SFw1uf4NG9L11lXitByrp) | [佐久間龍星](https://open.spotify.com/artist/5knUYLel4ycC38VJKvMCSm) | [Planet Player](https://open.spotify.com/album/1sNZjtz5BOzhHONzGv9w1e) | 2:36 | 2026-02-24 | 2026-03-04 |
 | [Planetarium](https://open.spotify.com/track/3gzZcJWNg8b6tXTEyGUkhG) | [TRACK15](https://open.spotify.com/artist/2yBeBpGsS9sgRa4rlJldIT) | [Bouquet](https://open.spotify.com/album/5LwY4RUulbgXXYcrptzNBn) | 3:55 | 2024-03-20 | 2024-03-27 |
 | [Planetary](https://open.spotify.com/track/5v2bUbn70jpJcPkWL3EYwF) | [Penthouse](https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L) | [Planetary](https://open.spotify.com/album/08PXW0KjcLUccvIsZBvomW) | 2:57 | 2025-06-11 | 2025-06-18 |
+| [PLANETS](https://open.spotify.com/track/4dXAx6MlPTqRFC804zZZQ3) | [Ayase](https://open.spotify.com/artist/1S8OQ9SqlLdD9l4paaZMuZ) | [dialogue](https://open.spotify.com/album/0nFxDK8187xYJPMMph6c7y) | 3:04 | 2026-05-27 |  |
 | [Plastic Romance](https://open.spotify.com/track/7AxZFaSZFX9QhTiWHwh06g) | [HOME](https://open.spotify.com/artist/05TvJ2uTExkaxykVebDcJB) | [Plastic Romance](https://open.spotify.com/album/2zOwVX7gdy7Ufc8BxAqKux) | 4:53 | 2024-05-14 | 2024-05-22 |
 | [Platinum](https://open.spotify.com/track/6e8wPXQkg6uvx6bahAEzc0) | [Hiroko Sebu](https://open.spotify.com/artist/1kV0nJ6ND2GEbzShQMhewv) | [The World Where You Are 2](https://open.spotify.com/album/7wa8VtCkuH1de2C3mGYcfI) | 4:32 | 2023-02-08 | 2023-02-15 |
 | [platonic](https://open.spotify.com/track/4F0nt2w0WSttazbuWg5dZv) | [Laura day romance](https://open.spotify.com/artist/19RZk1SGPSL1DChYdDQYl1) | [platonic](https://open.spotify.com/album/78c0RrDE3DeU4WOEja1GEX) | 3:55 | 2025-09-16 | 2025-09-24 |
@@ -7471,6 +7473,7 @@
 | [September](https://open.spotify.com/track/4sRIyOeU97gwZRtioZFwJ3) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [September](https://open.spotify.com/album/04rOoatmfvhKmYf1i4XUFD) | 3:28 | 2024-09-04 | 2024-09-11 |
 | [September 2021](https://open.spotify.com/track/6ziRXaUUOx7GQmU69Cyvu7) | [KMC](https://open.spotify.com/artist/67YTomPMdKRZNeAMXIDzAY) | [September 2021](https://open.spotify.com/album/6ROcWAFmBFY2ShDpc83y8G) | 3:42 | 2023-09-19 | 2023-09-27 |
 | [Serenade](https://open.spotify.com/track/6jRjPabJc3kvmQ2LDIm3MC) | [To Be Honest](https://open.spotify.com/artist/2qFWcgpiLKr4GecsFQftWt) | [Serenade](https://open.spotify.com/album/1IbFbJCQQPr5wZ63Sc0kGP) | 4:04 | 2025-09-16 | 2025-09-24 |
+| [SERVE](https://open.spotify.com/track/2wExzjTZ4iHBzQKSML7zpy) | [XLOV](https://open.spotify.com/artist/2b8aDRZFgUGWiUGchpWsyC) | [I,God](https://open.spotify.com/album/2TDH8goBXv2mQ22XrHTfsX) | 3:12 | 2026-05-27 |  |
 | [Server Down](https://open.spotify.com/track/4Wr6BagMS3ZYgRkRhwOOsN) | [紫 今](https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY) | [Server Down](https://open.spotify.com/album/6XnczifFK6aqhY3fxcNleq) | 2:21 | 2024-06-18 | 2024-06-26 |
 | [Sesame](https://open.spotify.com/track/1DuTUxS7cBQf2ypQipYhfM) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [Sesame](https://open.spotify.com/album/0N9P2qMUSX7GxdNiPkIehH) | 3:32 | 2024-01-09 | 2024-01-17 |
 | [Session zero \- Feat\. 馬場智章](https://open.spotify.com/track/5RDAfd9hVQA9IqlAaxpVIP) | [HHMM](https://open.spotify.com/artist/1XPTvuhra2ygPO1E9UQcfi), [馬場智章](https://open.spotify.com/artist/68k8V28Llh6Lg8HhKCvLHG) | [Session zero \(Feat\. 馬場智章\)](https://open.spotify.com/album/4TFS3YoYDhYzieXw6PQWms) | 3:16 | 2023-02-21 | 2023-03-01 |
@@ -8917,7 +8920,6 @@
 | [TOY BOY \- feat\. DEAN FUJIOKA](https://open.spotify.com/track/14yRr1nJ716iiFgaQRhQMV) | [HONEST BOYZ\(R\)](https://open.spotify.com/artist/6CaiCjxA5ZVcsfF0ApJsG8), [DEAN FUJIOKA](https://open.spotify.com/artist/59m6Auk4r76d16XDpOznCY) | [TOY BOY \(feat\. DEAN FUJIOKA\)](https://open.spotify.com/album/6PcrzdDNXqW7IxLjHf1u6v) | 4:04 | 2024-02-27 | 2024-03-06 |
 | [Toyfriend](https://open.spotify.com/track/5PJRILmiqzK9V63MBTd1QZ) | [SB19](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP), [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Wakas At Simula](https://open.spotify.com/album/6PLZOVdjyDjbsuMMUdXJ7W) | 3:21 | 2026-03-31 | 2026-04-08 |
 | [Trace](https://open.spotify.com/track/5x9WF5tsjeTZNBQmVmmqe5) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [The Story of Us](https://open.spotify.com/album/60naGDgc9FpNszd6YFrhHB) | 4:00 | 2026-03-03 | 2026-03-11 |
-| [Track 1](https://open.spotify.com/track/4dXAx6MlPTqRFC804zZZQ3) | [Ayase](https://open.spotify.com/artist/1S8OQ9SqlLdD9l4paaZMuZ) | [dialogue](https://open.spotify.com/album/0nFxDK8187xYJPMMph6c7y) | 0:00 | 2026-05-27 |  |
 | [Track Suit \(Feat\. Tade Dust\)](https://open.spotify.com/track/4xKgqKp5f2MPk8zmUQkrex) | [BLASÉ](https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0), [Tade Dust](https://open.spotify.com/artist/5IECecf5uGto7A00WNAkD9) | [Debugging](https://open.spotify.com/album/1mKifxJ2tQAlcGj4Kfwugz) | 2:51 | 2024-05-21 | 2024-05-29 |
 | [tragedy](https://open.spotify.com/track/2gBHAPP6S0KYN7v0586hCd) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [tragedy](https://open.spotify.com/album/1tORqfJ2N9ZMMSeDgZq3E9) | 2:43 | 2025-04-29 | 2025-05-07 |
 | [Tragedy](https://open.spotify.com/track/3USyknoDIPjjPn2rxJQQCL) | [JAPANDA](https://open.spotify.com/artist/0pWjgVjEsnv3AREqtGYbdx) | [Tragedy](https://open.spotify.com/album/41ZfDkmAE82KPR7b8ulmcC) | 3:56 | 2024-01-23 | 2024-01-31 |

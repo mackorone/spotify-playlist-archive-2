@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-525 songs - 1 day 8 hr 40 min
+531 songs - 1 day 9 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,6 +179,7 @@
 | [Fuiste tú](https://open.spotify.com/track/4MDNiQSfuDW61sZZWybM45) | [Raúl Cabo](https://open.spotify.com/artist/5A0xF7wdd6jdeirVtqjvF2) | [Fuiste tú](https://open.spotify.com/album/4VD4xgeA2A4IyVc3zoHzun) | 3:23 | 2026-03-22 | 2026-04-21 |
 | [Für Immer \- Remix](https://open.spotify.com/track/2hpl1n59KTXajtBcP0ZTxI) | [Christaris](https://open.spotify.com/artist/65bycLZE7csn1qM95wLuCa) | [Blick nach vorn](https://open.spotify.com/album/3xIXeh22qBPOJZJL1lXXA0) | 3:12 | 2025-10-06 | 2025-11-28 |
 | [Ganho Ou Perco?](https://open.spotify.com/track/7A5YUDJZjBHV7pU71cEFW4) | [J.V\. Ferreira](https://open.spotify.com/artist/71IyZPuWgamI0vGHr0YKj7) | [Ganho Ou Perco?](https://open.spotify.com/album/0KFl9FoQhS7YNvok86360L) | 5:41 | 2025-12-24 | 2026-03-18 |
+| [Gedankengewitter](https://open.spotify.com/track/1Hze4rox0RnhkKtJiQ5m6k) | [Elaria Sol](https://open.spotify.com/artist/5rbCDCbfSBmLmLBp9J7NDH) | [Gedankengewitter](https://open.spotify.com/album/0rKxIPQemkSVpupIUZfqjI) | 3:37 | 2026-05-27 |  |
 | [Genie](https://open.spotify.com/track/00bniyPFNFRkEyER0dQX0m) | [Bit Commander](https://open.spotify.com/artist/53aISfz35xV7ZbrD9vQBPF) | [Feral Child](https://open.spotify.com/album/1BNemdbTYPHl5gPVQJMwWq) | 6:55 | 2026-03-03 | 2026-03-18 |
 | [Get Lost Blues](https://open.spotify.com/track/68TaMRM7uQyrVZz6oW1lrW) | [DELREI](https://open.spotify.com/artist/77Xku7f5rq7hfoooTiv5jW) | [Desolation and Radiation](https://open.spotify.com/album/1P6cd5pDxmFNFZedAMWwh1) | 3:47 | 2025-10-17 | 2025-11-28 |
 | [Ghostprint](https://open.spotify.com/track/5wBXiMvviukja7UJui6WCk) | [santyskies](https://open.spotify.com/artist/6Ow8olhOixQI8aiRnhcayv) | [Don’t let the overshadow](https://open.spotify.com/album/2cEf0VRnSzQtBTh9E4Iafq) | 4:40 | 2026-01-11 | 2026-03-18 |
@@ -214,6 +215,9 @@
 | [High Above It All](https://open.spotify.com/track/4FjhfRrrORgaP854fQG9q3) | [Paul Johann](https://open.spotify.com/artist/1CXHDE7P5kYPbAQT3fQH3b) | [Entanglement](https://open.spotify.com/album/5tuD5rn8VGTm3yIKjDWeku) | 2:56 | 2025-11-14 | 2025-12-17 |
 | [High and Dry](https://open.spotify.com/track/3XaoMnrPzZUvkI9KBAILE2) | [Ghetto Dogs](https://open.spotify.com/artist/2FltAtLtYMG3l7tFLBZ9PN) | [When The Empire Falls](https://open.spotify.com/album/0X8sYhlzfO2090dycAZtqH) | 3:30 | 2026-04-02 | 2026-04-21 |
 | [Hilang](https://open.spotify.com/track/566IzROY1CbEswbjNpuuoD) | [Satu](https://open.spotify.com/artist/3fMssBRfsHoa6nskqry2mI) | [Persembahan](https://open.spotify.com/album/6RTcLu0zcvBPaVViWgiaMD) | 4:26 | 2025-10-30 | 2025-12-17 |
+| [Hit](https://open.spotify.com/track/6D5ZchK6XrGfxxDILqd0OY) | [SrJ Is DeD](https://open.spotify.com/artist/2B8qfVKrS25pCuOuXpLV1U) | [Flow.](https://open.spotify.com/album/2NnuwWtt2lutd9kxd7vetS) | 1:51 | 2026-05-27 |  |
+| [Hockey Game](https://open.spotify.com/track/4KXDzxPnNqpGZtj1yyz0VO) | [Neofors](https://open.spotify.com/artist/7HoKutGLhVfmBPfZe3gsPl) | [Cosmic Bingo](https://open.spotify.com/album/0a1rW4YNunla4OAVRxGUY1) | 2:36 | 2026-05-27 |  |
+| [Hotel](https://open.spotify.com/track/1MGFrDLP5HmTXC8S1o1dT4) | [FRED](https://open.spotify.com/artist/3J0w4a5nxhpvCxa1MFW2fR), [BAI](https://open.spotify.com/artist/4HS5GfG0mkjkhgQuB0kpHh) | [Hotel](https://open.spotify.com/album/6F8FxwblR3zX1i8p5M9h21) | 3:10 | 2026-05-27 |  |
 | [Hours after midnight](https://open.spotify.com/track/2KXMKguLfPaOBmMHHGQArX) | [Suraj Synthesist](https://open.spotify.com/artist/6kEAlt8l3zvFrxfHhRJfaK) | [Consume this album...\(Before the ban\)](https://open.spotify.com/album/6CabXiXT7t5cqCekHJabzY) | 5:44 | 2026-02-24 | 2026-03-18 |
 | [I Been Gone](https://open.spotify.com/track/4FJ4AHtBaQngZ45BqdYI56) | [TJ Rosenthal](https://open.spotify.com/artist/4S9D53DYaVrV7hwiubaS9s) | [I Been Gone](https://open.spotify.com/album/0LJuoEfEWvakYgZ6OAOWwi) | 3:11 | 2026-01-19 | 2026-03-18 |
 | [I byens katakomber](https://open.spotify.com/track/5OiFsAf4d72GxHwDiu4Z01) | [Bjørn\-Ivar Davidsen](https://open.spotify.com/artist/0hAIC7oOoD5Z3OTP8x7OS9) | [Noen er der ute](https://open.spotify.com/album/3JmUt3Cg7D6zyYgWSdLSK5) | 4:58 | 2026-01-02 | 2026-03-18 |
@@ -289,6 +293,7 @@
 | [Mastodonte](https://open.spotify.com/track/2ONSCIg1KbDHUhwQb3SYaj) | [Ruster](https://open.spotify.com/artist/0MB2qTmFxuZkVdphbXgSeq) | [Mastodonte](https://open.spotify.com/album/1WqEAf6ehq91MtabcIqUvr) | 3:06 | 2026-01-02 | 2026-03-18 |
 | [Me Haces Sentir](https://open.spotify.com/track/0LIEw9QydN9YhmbhyqLBDj) | [José Vásquez ND7](https://open.spotify.com/artist/2JFcFnRC2de1I5X8bNrllE) | [Me Haces Sentir](https://open.spotify.com/album/4QxZM410XXjV2fHAeTSehN) | 3:49 | 2025-10-08 | 2025-11-28 |
 | [Medicine](https://open.spotify.com/track/2FGTL4RbwWbPXZrY8XoMQh) | [Lewis Mckale](https://open.spotify.com/artist/6yTP6bdkiI5MubxbfPiF7e) | [Dreaming of Injured Popstars '25](https://open.spotify.com/album/6LbYdmnpJrZ0JoktjZgcD7) | 2:42 | 2026-01-13 | 2026-03-18 |
+| [Meet Me at the Sidebar](https://open.spotify.com/track/0Ew2kJHiWLEDedSn9Z5NVu) | [The Meadowlark Lemons](https://open.spotify.com/artist/2JRrhlEgRBFvrFmXOMpLNy) | [The Meadowlark Lemons](https://open.spotify.com/album/0WFqangWFBGOthdswpLMOQ) | 5:08 | 2026-05-27 |  |
 | [Mercy's Song \(Psalm 6\)](https://open.spotify.com/track/580tHG3i04jZw2O1fwnJXy) | [RedemptionRising](https://open.spotify.com/artist/40yxohQeJ1MJhlJhzAj5Ty) | [Mercy's Song \(Psalm 6\)](https://open.spotify.com/album/5H78VfPQjOt1RG7EmiPo57) | 3:48 | 2025-09-07 |  |
 | [Message Through Time](https://open.spotify.com/track/4BPrHDgqGxnWANdMphAbNQ) | [Groove Vultures](https://open.spotify.com/artist/4mxU5Dnd342CsqAS6viJuj) | [Message Through Time](https://open.spotify.com/album/45LoKgIdcZiDUrx7V5HbuC) | 5:21 | 2025-11-02 | 2025-12-17 |
 | [Mi Porción Del Cielo](https://open.spotify.com/track/0j2FJ9VZRxyveO8nm28o1p) | [Jimmy Molina](https://open.spotify.com/artist/3mVMWQayvasA1ugv6dy35e) | [Mi Porción Del Cielo](https://open.spotify.com/album/2IcSq6ZZPiJGoaIFBFuAl5) | 2:40 | 2025-12-24 | 2026-03-18 |
@@ -502,6 +507,7 @@
 | [Werewolves of London](https://open.spotify.com/track/0zYtpXjgqkKKQOpsl3y9qE) | [Highway Wolf](https://open.spotify.com/artist/6WKdYl11XpIoIGJCV6AeXE) | [Werewolves of London](https://open.spotify.com/album/3hKZcu4BOd9ZP8knghvahJ) | 4:24 | 2025-11-06 | 2025-12-17 |
 | [What I Need](https://open.spotify.com/track/4Pyo1AIDTHsEXJnyDc5Ew1) | [The Fading Wish](https://open.spotify.com/artist/5sy66wBuZP3PpDgArbuItr) | [What I Need](https://open.spotify.com/album/6D24DlYbh2JJUPrxbKPaMo) | 2:42 | 2025-11-26 | 2025-12-17 |
 | [What I Need from You](https://open.spotify.com/track/0AWDRo8aeuR6JBfc15g0wj) | [Byron Walker](https://open.spotify.com/artist/48aPWjDPQcizEOJHQ8ghcJ) | [What I Need from You](https://open.spotify.com/album/3DgJSlbyGOLwkfF6DFr4SE) | 5:19 | 2025-10-04 | 2025-12-17 |
+| [What You Mean To Me](https://open.spotify.com/track/4li8wXH4ddF3r16UsVVK0e) | [CulturalException](https://open.spotify.com/artist/7jX8waGsSoJDrsZyrmKW09), [Enlia](https://open.spotify.com/artist/4pGE3dPAL7rlSvoBgTw91S) | [What You Mean To Me](https://open.spotify.com/album/5lvrmaQymbPBCK8eqMA5xz) | 4:11 | 2026-05-27 |  |
 | [What's the Deal](https://open.spotify.com/track/65mwECblaHqM3LSRBTT1nE) | [Paranoize](https://open.spotify.com/artist/2IsNoOamJMVdmEKK4dQKcS) | [What's the Deal](https://open.spotify.com/album/2nZMIWpDc27QL0NAFKWk4C) | 2:37 | 2026-05-12 | 2026-05-26 |
 | [When I Get Old](https://open.spotify.com/track/6yFzWY5DuTVibHfhUF4H8C) | [Richie Cross](https://open.spotify.com/artist/3NA8I8e0mHJSmWKQHBBEpT) | [When I Get Old](https://open.spotify.com/album/4gLSznIkD0X8ndqSGe5rZn) | 2:27 | 2026-03-28 | 2026-05-26 |
 | [When i see you again](https://open.spotify.com/track/2P9poLLH4lyqJX6Ym8W2ce) | [drew mado](https://open.spotify.com/artist/2wSPHPho5VMaJehm6VIywZ) | [Journey without destination](https://open.spotify.com/album/6sTSgNYjdWf7tSe2LMPlrk) | 3:29 | 2026-03-01 | 2026-05-26 |

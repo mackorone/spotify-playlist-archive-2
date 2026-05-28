@@ -1,12 +1,12 @@
 {
   "description": "This is Ingrid Andress. The essential tracks, all in one playlist.",
-  "num_followers": 9240,
+  "num_followers": 9241,
   "original_name": "This Is Ingrid Andress",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahORAAAAAADquvFutwRxxu//VXQWmBBT",
+  "snapshot_id": "ahTigAAAAABJVkAa660X6hs1UzLcFmpF",
   "tracks": [
     {
       "added_at": null,
@@ -83,8 +83,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Catch 22",
-        "url": "https://open.spotify.com/album/1BpLEq3RV91FPE7TQd9WDv"
+        "name": "All The Best",
+        "url": "https://open.spotify.com/album/2Hrp51zwvCVyTTyGXlPUKH"
       },
       "artists": [
         {
@@ -92,9 +92,9 @@
           "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
         }
       ],
-      "duration_ms": 197564,
-      "name": "Catch 22",
-      "url": "https://open.spotify.com/track/6PwQarviIfpD5dqUeGnf01"
+      "duration_ms": 198340,
+      "name": "All The Best",
+      "url": "https://open.spotify.com/track/4vZa4UhA0s6nHzoC2CavxY"
     },
     {
       "added_at": null,
@@ -131,8 +131,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "All The Best",
-        "url": "https://open.spotify.com/album/2Hrp51zwvCVyTTyGXlPUKH"
+        "name": "Catch 22",
+        "url": "https://open.spotify.com/album/1BpLEq3RV91FPE7TQd9WDv"
       },
       "artists": [
         {
@@ -140,9 +140,9 @@
           "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
         }
       ],
-      "duration_ms": 198340,
-      "name": "All The Best",
-      "url": "https://open.spotify.com/track/4vZa4UhA0s6nHzoC2CavxY"
+      "duration_ms": 197564,
+      "name": "Catch 22",
+      "url": "https://open.spotify.com/track/6PwQarviIfpD5dqUeGnf01"
     },
     {
       "added_at": null,

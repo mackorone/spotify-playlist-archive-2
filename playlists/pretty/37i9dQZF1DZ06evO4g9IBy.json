@@ -1,12 +1,12 @@
 {
   "description": "This is Stevie Nicks. The essential tracks, all in one playlist.",
-  "num_followers": 173247,
+  "num_followers": 173266,
   "original_name": "This Is Stevie Nicks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahORAAAAAAAKswHPjq96N/d3BGW0kRmb",
+  "snapshot_id": "ahTigAAAAACtmCK7pJ+GICZq35QJ2dvW",
   "tracks": [
     {
       "added_at": null,
@@ -419,22 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trouble in Shangri-La",
-        "url": "https://open.spotify.com/album/77Q6ef8LmG5pCA34yyRjOg"
-      },
-      "artists": [
-        {
-          "name": "Stevie Nicks",
-          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
-        }
-      ],
-      "duration_ms": 285666,
-      "name": "Planets of the Universe",
-      "url": "https://open.spotify.com/track/2TctyZ6BMrifNwN3iL7DFJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rock a Little",
         "url": "https://open.spotify.com/album/0guJSEAsHAQ1gXPC18u7hc"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 279413,
       "name": "Has Anyone Ever Written Anything for You",
       "url": "https://open.spotify.com/track/1PAnGhRo2tHpM2DNibEEe6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Trouble in Shangri-La",
+        "url": "https://open.spotify.com/album/77Q6ef8LmG5pCA34yyRjOg"
+      },
+      "artists": [
+        {
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+        }
+      ],
+      "duration_ms": 285666,
+      "name": "Planets of the Universe",
+      "url": "https://open.spotify.com/track/2TctyZ6BMrifNwN3iL7DFJ"
     },
     {
       "added_at": null,
@@ -491,6 +491,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "For What It's Worth",
+        "url": "https://open.spotify.com/album/6oG7IxA60Uvzbki5vExPs9"
+      },
+      "artists": [
+        {
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+        }
+      ],
+      "duration_ms": 292040,
+      "name": "For What It's Worth",
+      "url": "https://open.spotify.com/track/06iIwl0TL4cdm7ahip4wGz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Trouble in Shangri-La",
         "url": "https://open.spotify.com/album/77Q6ef8LmG5pCA34yyRjOg"
       },
@@ -503,6 +519,22 @@
       "duration_ms": 294920,
       "name": "Sorcerer",
       "url": "https://open.spotify.com/track/0MzPy6NHF8w4ybSYqMweni"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Wild Heart (2016 Remastered)",
+        "url": "https://open.spotify.com/album/29RVdfPWTEu6atVycxx86s"
+      },
+      "artists": [
+        {
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+        }
+      ],
+      "duration_ms": 249133,
+      "name": "If Anyone Falls - 2016 Remaster",
+      "url": "https://open.spotify.com/track/1DqYqVLxUsR6NLUH1ys3AU"
     },
     {
       "added_at": null,
@@ -531,34 +563,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Wild Heart (2016 Remastered)",
-        "url": "https://open.spotify.com/album/29RVdfPWTEu6atVycxx86s"
+        "name": "Hard Promises",
+        "url": "https://open.spotify.com/album/5OO8oMupaMhIZhMrEM8ja3"
       },
       "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        },
         {
           "name": "Stevie Nicks",
           "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
         }
       ],
-      "duration_ms": 249133,
-      "name": "If Anyone Falls - 2016 Remaster",
-      "url": "https://open.spotify.com/track/1DqYqVLxUsR6NLUH1ys3AU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "For What It's Worth",
-        "url": "https://open.spotify.com/album/6oG7IxA60Uvzbki5vExPs9"
-      },
-      "artists": [
-        {
-          "name": "Stevie Nicks",
-          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
-        }
-      ],
-      "duration_ms": 292040,
-      "name": "For What It's Worth",
-      "url": "https://open.spotify.com/track/06iIwl0TL4cdm7ahip4wGz"
+      "duration_ms": 260972,
+      "name": "Insider",
+      "url": "https://open.spotify.com/track/6I9mM7Q3YXKYSppopUuCQN"
     },
     {
       "added_at": null,
@@ -575,6 +595,22 @@
       "duration_ms": 289626,
       "name": "Trouble in Shangri-La",
       "url": "https://open.spotify.com/track/77j3CiF7PNJC0amTTcJ0zK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rock a Little",
+        "url": "https://open.spotify.com/album/0guJSEAsHAQ1gXPC18u7hc"
+      },
+      "artists": [
+        {
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+        }
+      ],
+      "duration_ms": 230600,
+      "name": "Sister Honey",
+      "url": "https://open.spotify.com/track/4uVWZBNCAj5cDUjvvStpI0"
     },
     {
       "added_at": null,
@@ -603,28 +639,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hard Promises",
-        "url": "https://open.spotify.com/album/5OO8oMupaMhIZhMrEM8ja3"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        },
-        {
-          "name": "Stevie Nicks",
-          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
-        }
-      ],
-      "duration_ms": 260972,
-      "name": "Insider",
-      "url": "https://open.spotify.com/track/6I9mM7Q3YXKYSppopUuCQN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rock a Little",
-        "url": "https://open.spotify.com/album/0guJSEAsHAQ1gXPC18u7hc"
+        "name": "Crystal Visions...The Very Best of Stevie Nicks",
+        "url": "https://open.spotify.com/album/7q0dYnAjmqZBJLhMBre8aL"
       },
       "artists": [
         {
@@ -632,9 +648,9 @@
           "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
         }
       ],
-      "duration_ms": 230600,
-      "name": "Sister Honey",
-      "url": "https://open.spotify.com/track/4uVWZBNCAj5cDUjvvStpI0"
+      "duration_ms": 421800,
+      "name": "Rhiannon - Live 2005",
+      "url": "https://open.spotify.com/track/3brPoiEss4oQsy6BxUzbFe"
     },
     {
       "added_at": null,
@@ -651,6 +667,22 @@
       "duration_ms": 216266,
       "name": "Every Day",
       "url": "https://open.spotify.com/track/0biLQx9G0hwYs3XjlfAfho"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Wild Heart (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0zuIUmEvxMf8tIYZ5wxJHI"
+      },
+      "artists": [
+        {
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+        }
+      ],
+      "duration_ms": 369520,
+      "name": "Wild Heart - 2016 Remaster",
+      "url": "https://open.spotify.com/track/39csEPv4OCAsyQiePzTpIa"
     },
     {
       "added_at": null,
@@ -679,8 +711,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Crystal Visions...The Very Best of Stevie Nicks",
-        "url": "https://open.spotify.com/album/7q0dYnAjmqZBJLhMBre8aL"
+        "name": "Rock a Little",
+        "url": "https://open.spotify.com/album/0guJSEAsHAQ1gXPC18u7hc"
       },
       "artists": [
         {
@@ -688,25 +720,9 @@
           "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
         }
       ],
-      "duration_ms": 421800,
-      "name": "Rhiannon - Live 2005",
-      "url": "https://open.spotify.com/track/3brPoiEss4oQsy6BxUzbFe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Wild Heart (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0zuIUmEvxMf8tIYZ5wxJHI"
-      },
-      "artists": [
-        {
-          "name": "Stevie Nicks",
-          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
-        }
-      ],
-      "duration_ms": 369520,
-      "name": "Wild Heart - 2016 Remaster",
-      "url": "https://open.spotify.com/track/39csEPv4OCAsyQiePzTpIa"
+      "duration_ms": 251066,
+      "name": "If I Were You",
+      "url": "https://open.spotify.com/track/2NkL0jv87A9FrLp6weyyhQ"
     },
     {
       "added_at": null,
@@ -727,6 +743,22 @@
       "duration_ms": 145201,
       "name": "Needles And Pins - Live At The The Forum/1981",
       "url": "https://open.spotify.com/track/6Alshe3WYMVZRbYWgijYWT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Wild Heart (2016 Remastered)",
+        "url": "https://open.spotify.com/album/29RVdfPWTEu6atVycxx86s"
+      },
+      "artists": [
+        {
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+        }
+      ],
+      "duration_ms": 186173,
+      "name": "Enchanted - 2016 Remaster",
+      "url": "https://open.spotify.com/track/6ZMQ6kKshuMLWrYk37KBmX"
     },
     {
       "added_at": null,
@@ -755,38 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rock a Little",
-        "url": "https://open.spotify.com/album/0guJSEAsHAQ1gXPC18u7hc"
-      },
-      "artists": [
-        {
-          "name": "Stevie Nicks",
-          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
-        }
-      ],
-      "duration_ms": 251066,
-      "name": "If I Were You",
-      "url": "https://open.spotify.com/track/2NkL0jv87A9FrLp6weyyhQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Wild Heart (2016 Remastered)",
-        "url": "https://open.spotify.com/album/29RVdfPWTEu6atVycxx86s"
-      },
-      "artists": [
-        {
-          "name": "Stevie Nicks",
-          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
-        }
-      ],
-      "duration_ms": 186173,
-      "name": "Enchanted - 2016 Remaster",
-      "url": "https://open.spotify.com/track/6ZMQ6kKshuMLWrYk37KBmX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "In Your Dreams",
         "url": "https://open.spotify.com/album/1mJFn6QQYSHfArKZzvrNvj"
       },
@@ -799,30 +799,6 @@
       "duration_ms": 195560,
       "name": "Secret Love",
       "url": "https://open.spotify.com/track/4ztowwWgYZtq0OOUxerZrv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Buckingham Nicks",
-        "url": "https://open.spotify.com/album/0MNvghevbRjjP8X3qPVrxv"
-      },
-      "artists": [
-        {
-          "name": "Buckingham Nicks",
-          "url": "https://open.spotify.com/artist/2KugL3DwL7NRCN9VLcWXqx"
-        },
-        {
-          "name": "Stevie Nicks",
-          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
-        },
-        {
-          "name": "Lindsey Buckingham",
-          "url": "https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO"
-        }
-      ],
-      "duration_ms": 231709,
-      "name": "Don't Let Me Down Again",
-      "url": "https://open.spotify.com/track/171YcHaEjFRml5BZQzyjH9"
     },
     {
       "added_at": null,
@@ -855,6 +831,30 @@
       "duration_ms": 224773,
       "name": "I Sing for Things",
       "url": "https://open.spotify.com/track/3Dk4epAbgbSezElqPQCXvq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Buckingham Nicks",
+        "url": "https://open.spotify.com/album/0MNvghevbRjjP8X3qPVrxv"
+      },
+      "artists": [
+        {
+          "name": "Buckingham Nicks",
+          "url": "https://open.spotify.com/artist/2KugL3DwL7NRCN9VLcWXqx"
+        },
+        {
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+        },
+        {
+          "name": "Lindsey Buckingham",
+          "url": "https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO"
+        }
+      ],
+      "duration_ms": 231709,
+      "name": "Don't Let Me Down Again",
+      "url": "https://open.spotify.com/track/171YcHaEjFRml5BZQzyjH9"
     },
     {
       "added_at": null,

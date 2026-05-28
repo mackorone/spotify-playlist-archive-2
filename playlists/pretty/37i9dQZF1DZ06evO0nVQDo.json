@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahORAAAAAACL0RUnGLFgEC1F1ne1peSN",
+  "snapshot_id": "ahTigAAAAABvP8ux/oUKyEASwNKrnt7f",
   "tracks": [
     {
       "added_at": null,
@@ -192,74 +192,6 @@
           "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
         }
       ],
-      "duration_ms": 198620,
-      "name": "12:55 PM",
-      "url": "https://open.spotify.com/track/2q3F6iTCazDYB4tLqNWUIP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Perfect Conditions",
-        "url": "https://open.spotify.com/album/3Jgs7mLKJ87ZvgpQf17wmX"
-      },
-      "artists": [
-        {
-          "name": "Celia Hollander",
-          "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Earth / Earth",
-      "url": "https://open.spotify.com/track/51JXFYjuemyyf0LOYSyJtm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Unexpected Music II",
-        "url": "https://open.spotify.com/album/39OUhtfrInkdjDWezSaH1b"
-      },
-      "artists": [
-        {
-          "name": "Celia Hollander",
-          "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
-        },
-        {
-          "name": "Evan Shornstein",
-          "url": "https://open.spotify.com/artist/3Ut7xsKQ9d40ANjZ154tdv"
-        }
-      ],
-      "duration_ms": 438000,
-      "name": "Dense Dusk",
-      "url": "https://open.spotify.com/track/2gwAB3X1wUtn3qPfP5hGeN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "2nd Draft",
-        "url": "https://open.spotify.com/album/4mv6oCtJD78x7RGXcoMlTT"
-      },
-      "artists": [
-        {
-          "name": "Celia Hollander",
-          "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Cumulus",
-      "url": "https://open.spotify.com/track/6RoynqvKPYmIZkXE6isMU7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Timekeeper",
-        "url": "https://open.spotify.com/album/718aNoN4DV4gJcC2THKYdo"
-      },
-      "artists": [
-        {
-          "name": "Celia Hollander",
-          "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
-        }
-      ],
       "duration_ms": 152508,
       "name": "6:58 PM",
       "url": "https://open.spotify.com/track/1DtTh0W0xqJuZSS3RsuIAS"
@@ -296,9 +228,9 @@
           "url": "https://open.spotify.com/artist/3Ut7xsKQ9d40ANjZ154tdv"
         }
       ],
-      "duration_ms": 308000,
-      "name": "Friendly Glow",
-      "url": "https://open.spotify.com/track/1m7rLMGoH3EIHQhzgAgRFb"
+      "duration_ms": 438000,
+      "name": "Dense Dusk",
+      "url": "https://open.spotify.com/track/2gwAB3X1wUtn3qPfP5hGeN"
     },
     {
       "added_at": null,
@@ -328,6 +260,74 @@
           "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
         }
       ],
+      "duration_ms": 198620,
+      "name": "12:55 PM",
+      "url": "https://open.spotify.com/track/2q3F6iTCazDYB4tLqNWUIP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Perfect Conditions",
+        "url": "https://open.spotify.com/album/3Jgs7mLKJ87ZvgpQf17wmX"
+      },
+      "artists": [
+        {
+          "name": "Celia Hollander",
+          "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Earth / Earth",
+      "url": "https://open.spotify.com/track/51JXFYjuemyyf0LOYSyJtm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Unexpected Music II",
+        "url": "https://open.spotify.com/album/39OUhtfrInkdjDWezSaH1b"
+      },
+      "artists": [
+        {
+          "name": "Celia Hollander",
+          "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
+        },
+        {
+          "name": "Evan Shornstein",
+          "url": "https://open.spotify.com/artist/3Ut7xsKQ9d40ANjZ154tdv"
+        }
+      ],
+      "duration_ms": 308000,
+      "name": "Friendly Glow",
+      "url": "https://open.spotify.com/track/1m7rLMGoH3EIHQhzgAgRFb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "2nd Draft",
+        "url": "https://open.spotify.com/album/4mv6oCtJD78x7RGXcoMlTT"
+      },
+      "artists": [
+        {
+          "name": "Celia Hollander",
+          "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Cumulus",
+      "url": "https://open.spotify.com/track/6RoynqvKPYmIZkXE6isMU7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Timekeeper",
+        "url": "https://open.spotify.com/album/718aNoN4DV4gJcC2THKYdo"
+      },
+      "artists": [
+        {
+          "name": "Celia Hollander",
+          "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
+        }
+      ],
       "duration_ms": 97000,
       "name": "6:33 AM",
       "url": "https://open.spotify.com/track/0yeDAJ4yH08Y4Cf3SKPn8s"
@@ -344,9 +344,9 @@
           "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
         }
       ],
-      "duration_ms": 153783,
-      "name": "Fire / Earth",
-      "url": "https://open.spotify.com/track/7Kqi570gTIl6oxQQXpwzCd"
+      "duration_ms": 155294,
+      "name": "Earth / Air",
+      "url": "https://open.spotify.com/track/7jKsMSQHza9Pt7FVf4RkcK"
     },
     {
       "added_at": null,
@@ -412,9 +412,9 @@
           "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
         }
       ],
-      "duration_ms": 155294,
-      "name": "Earth / Air",
-      "url": "https://open.spotify.com/track/7jKsMSQHza9Pt7FVf4RkcK"
+      "duration_ms": 153783,
+      "name": "Fire / Earth",
+      "url": "https://open.spotify.com/track/7Kqi570gTIl6oxQQXpwzCd"
     },
     {
       "added_at": null,
@@ -444,9 +444,9 @@
           "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
         }
       ],
-      "duration_ms": 252857,
-      "name": "Air / Earth",
-      "url": "https://open.spotify.com/track/1gQXtJnmO1w3LCpBATX6RU"
+      "duration_ms": 80888,
+      "name": "Air / Air",
+      "url": "https://open.spotify.com/track/1rmAETkfG9OThL9kPKU6yU"
     },
     {
       "added_at": null,

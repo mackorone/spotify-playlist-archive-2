@@ -2043,6 +2043,24 @@
     },
     {
       "album": {
+        "name": "DARK SIDE + TREATS!!",
+        "url": "https://open.spotify.com/album/23AphdOs2IsU8tQhRhvxdk"
+      },
+      "artists": [
+        {
+          "name": "passengerprincess",
+          "url": "https://open.spotify.com/artist/1q6wY1iLFFyx75yoKiemZ3"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "DARK SIDE OF THE ROOM",
+      "url": "https://open.spotify.com/track/593Epzqztbj28a7MuuJ06Y"
+    },
+    {
+      "album": {
         "name": "Lost Dogs",
         "url": "https://open.spotify.com/album/0fJE2dUwhoF5pZA1HlnCsP"
       },

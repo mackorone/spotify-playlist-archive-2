@@ -1,12 +1,12 @@
 {
   "description": "This is Janis Joplin. The essential tracks, all in one playlist.",
-  "num_followers": 190094,
+  "num_followers": 190106,
   "original_name": "This Is Janis Joplin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahORAAAAAADkHrDfUWi93bo9QE+iH2S7",
+  "snapshot_id": "ahTigAAAAADxAhjzkhwyp2dlDvhA7GHl",
   "tracks": [
     {
       "added_at": null,
@@ -572,9 +572,9 @@
           "url": "https://open.spotify.com/artist/55CXG5KDJpRYwBopfYAJHa"
         }
       ],
-      "duration_ms": 173230,
-      "name": "Trouble in Mind",
-      "url": "https://open.spotify.com/track/48DDXcCW9tBv1I96Y83jJx"
+      "duration_ms": 46964,
+      "name": "\"Are We Taping Now?\"",
+      "url": "https://open.spotify.com/track/3jpfF9gHUjuv2Tgc2tigNg"
     },
     {
       "added_at": null,
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/55CXG5KDJpRYwBopfYAJHa"
         }
       ],
-      "duration_ms": 46964,
-      "name": "\"Are We Taping Now?\"",
-      "url": "https://open.spotify.com/track/3jpfF9gHUjuv2Tgc2tigNg"
+      "duration_ms": 173230,
+      "name": "Trouble in Mind",
+      "url": "https://open.spotify.com/track/48DDXcCW9tBv1I96Y83jJx"
     },
     {
       "added_at": null,

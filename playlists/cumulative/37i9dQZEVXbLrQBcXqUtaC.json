@@ -12428,7 +12428,7 @@
       ],
       "date_added": "2025-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-27",
+      "date_removed": null,
       "duration_ms": 213838,
       "name": "Heseeny",
       "url": "https://open.spotify.com/track/6AOmVuYPC8WJN0hzZ1ODIj"
@@ -28512,7 +28512,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-28",
       "duration_ms": 227333,
       "name": "The One That Got Away",
       "url": "https://open.spotify.com/track/2009X8GyWTqyxIdzAEYW6N"
@@ -28530,7 +28530,7 @@
       ],
       "date_added": "2026-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-26",
+      "date_removed": null,
       "duration_ms": 227333,
       "name": "The One That Got Away",
       "url": "https://open.spotify.com/track/6hkOqJ5mE093AQf2lbZnsG"
@@ -31786,7 +31786,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-28",
       "duration_ms": 297000,
       "name": "Ya Nas",
       "url": "https://open.spotify.com/track/6ssHId6BHybw1g53s9CLkm"
@@ -32934,7 +32934,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-28",
       "duration_ms": 236000,
       "name": "\u0627\u0644\u062d\u0628 \u0639\u064a\u0628\u0646\u0627",
       "url": "https://open.spotify.com/track/7wXCvrSJxHVH0uEAzyY1Ct"
@@ -35266,6 +35266,24 @@
       "duration_ms": 203218,
       "name": "\u0637\u0631\u0634\u0648\u0644\u0647",
       "url": "https://open.spotify.com/track/6zKRAoVTjxGaXYxUdSTUHB"
+    },
+    {
+      "album": {
+        "name": "\u0637\u0634\u0631\u0646\u0647 \u0627\u0644\u0648\u0643\u062a",
+        "url": "https://open.spotify.com/album/3C68BaVzlklkOpT5Jb2132"
+      },
+      "artists": [
+        {
+          "name": "\u062d\u064a\u062f\u0631 \u0627\u0644\u0639\u0627\u0628\u062f\u064a",
+          "url": "https://open.spotify.com/artist/6O2G1TA7PL0wLWm9l5Eimv"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219071,
+      "name": "\u0637\u0634\u0631\u0646\u0647 \u0627\u0644\u0648\u0643\u062a",
+      "url": "https://open.spotify.com/track/634GtSlGRtSpmOdsR4x96Q"
     },
     {
       "album": {

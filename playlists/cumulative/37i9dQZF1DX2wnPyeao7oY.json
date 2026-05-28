@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-08-08",
-  "description": "New music by the heaviest independent artists and labels every Wednesday. Cover: Black Spikes",
+  "description": "New music by the heaviest independent artists and labels every Wednesday. Cover: Daisy Arson",
   "name": "Fresh Finds Heavy",
   "tracks": [
     {
@@ -99,6 +99,24 @@
     },
     {
       "album": {
+        "name": "4x4",
+        "url": "https://open.spotify.com/album/52eTAJ9h9w6Wp15kpD9qlS"
+      },
+      "artists": [
+        {
+          "name": "Gideon",
+          "url": "https://open.spotify.com/artist/3Zj2B8yAi8gHoR8vpsPatZ"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188598,
+      "name": "4x4",
+      "url": "https://open.spotify.com/track/68VuJEeonhR5y7ty35jer3"
+    },
+    {
+      "album": {
         "name": "554th",
         "url": "https://open.spotify.com/album/6vliE8WzMTVFFgDd575shV"
       },
@@ -150,6 +168,24 @@
       "duration_ms": 251290,
       "name": "A FAWN FLAYED",
       "url": "https://open.spotify.com/track/0vDbGpxHMlZ4XEZfCKZDXt"
+    },
+    {
+      "album": {
+        "name": "A Fragile Flame",
+        "url": "https://open.spotify.com/album/2q16tarzn2AdcFVi7Z7J9B"
+      },
+      "artists": [
+        {
+          "name": "The Wise Man's Fear",
+          "url": "https://open.spotify.com/artist/0Ir2YUbOtgP5GeOzQicQ44"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217894,
+      "name": "A Fragile Flame",
+      "url": "https://open.spotify.com/track/4bgpqaLKJ5ra63fi8TaMQ6"
     },
     {
       "album": {
@@ -602,6 +638,24 @@
       "duration_ms": 205614,
       "name": "Angels Like You",
       "url": "https://open.spotify.com/track/5VXBAz99xZFPKdevoy3pOh"
+    },
+    {
+      "album": {
+        "name": "Annihilation",
+        "url": "https://open.spotify.com/album/5mCZGoP4DZTblQJheq4EfU"
+      },
+      "artists": [
+        {
+          "name": "Daisy Arson",
+          "url": "https://open.spotify.com/artist/3DyUFPzUfiw6VEzhgx5p5h"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142855,
+      "name": "Annihilation",
+      "url": "https://open.spotify.com/track/6Ub8tYCyi10nnkANDYTVFG"
     },
     {
       "album": {
@@ -4338,10 +4392,40 @@
       ],
       "date_added": "2026-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-28",
       "duration_ms": 223294,
       "name": "Edge of the Map",
       "url": "https://open.spotify.com/track/3bsZPyqqZZUW62n3CxiuZ8"
+    },
+    {
+      "album": {
+        "name": "ego freak",
+        "url": "https://open.spotify.com/album/4kqpKnXXOb5W2ZZC5F9jH7"
+      },
+      "artists": [
+        {
+          "name": "Aurora View",
+          "url": "https://open.spotify.com/artist/4MkU5wBIKoNteEBqXTpMuA"
+        },
+        {
+          "name": "\u661f\u718a\u5357\u5deb",
+          "url": "https://open.spotify.com/artist/4QHRf4j0MXjcghBBXhKE2U"
+        },
+        {
+          "name": "BUNNY",
+          "url": "https://open.spotify.com/artist/5Dccem9dkRqim9eKHXkSd3"
+        },
+        {
+          "name": "whitenoisemakesmefeelcomfy",
+          "url": "https://open.spotify.com/artist/1Hishu3471qRxVmAB5gmQJ"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230400,
+      "name": "ego freak",
+      "url": "https://open.spotify.com/track/49QDswnidndafpN2VjkZQy"
     },
     {
       "album": {
@@ -6768,12 +6852,12 @@
           "url": "https://open.spotify.com/artist/5n5iBDC9dOljWGwj7BrdZt"
         },
         {
-          "name": "Paul Ortiz",
-          "url": "https://open.spotify.com/artist/3YDZDmOmdEaywtM8O3HMsa"
-        },
-        {
           "name": "Kristyn Hope",
           "url": "https://open.spotify.com/artist/5537Jz9oy5neAlivBv5MbU"
+        },
+        {
+          "name": "Chimp Spanner",
+          "url": "https://open.spotify.com/artist/1luumZojARx0L3spmNwEgl"
         }
       ],
       "date_added": "2026-04-22",
@@ -13655,6 +13739,24 @@
     },
     {
       "album": {
+        "name": "The Kids Will Kill Us",
+        "url": "https://open.spotify.com/album/370Z1fMk9bl9mw55DSe51k"
+      },
+      "artists": [
+        {
+          "name": "Witch Club Satan",
+          "url": "https://open.spotify.com/artist/395rqoVSDgQIF7fzRfZIoy"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225600,
+      "name": "The Kids Will Kill Us",
+      "url": "https://open.spotify.com/track/1n2RqVGWTYRbCazGkolPGI"
+    },
+    {
+      "album": {
         "name": "the rain",
         "url": "https://open.spotify.com/album/4Geqly2yHxjbN4Ya6Vw2w8"
       },
@@ -13764,6 +13866,24 @@
       "duration_ms": 151000,
       "name": "The Song of the Summer",
       "url": "https://open.spotify.com/track/5hXxLb6Wzztx5Xmuawj3DK"
+    },
+    {
+      "album": {
+        "name": "THE SOUND",
+        "url": "https://open.spotify.com/album/6agDz5cnzDvYNAJx7D8SV0"
+      },
+      "artists": [
+        {
+          "name": "CRYBLOOD",
+          "url": "https://open.spotify.com/artist/3VH53ktYPXwo7b9cigHjGe"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167109,
+      "name": "THE SOUND",
+      "url": "https://open.spotify.com/track/5Zti0jRsq6ZvlrgQo5tua4"
     },
     {
       "album": {
@@ -15089,6 +15209,28 @@
     },
     {
       "album": {
+        "name": "WDYK",
+        "url": "https://open.spotify.com/album/7y3kwKPerDV61miCnWInyk"
+      },
+      "artists": [
+        {
+          "name": "Sable",
+          "url": "https://open.spotify.com/artist/5rRyGasapvQWgfTijFs2mq"
+        },
+        {
+          "name": "20TOKENS",
+          "url": "https://open.spotify.com/artist/283uQnP38E3Ua5ExYuOH0Q"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144324,
+      "name": "WDYK",
+      "url": "https://open.spotify.com/track/5zWIKlgGSwrSvMZONHMHpu"
+    },
+    {
+      "album": {
         "name": "We The Dollar",
         "url": "https://open.spotify.com/album/1Y6NT3LbBAH4qXYPO6EgGQ"
       },
@@ -15238,6 +15380,24 @@
       "duration_ms": 224571,
       "name": "WHEN THE PANIC SETS IN",
       "url": "https://open.spotify.com/track/25kR37i0l28ag3RIAyFFIg"
+    },
+    {
+      "album": {
+        "name": "It Is Well\u2026",
+        "url": "https://open.spotify.com/album/2eJlb7v0MvEY9M408HT6GD"
+      },
+      "artists": [
+        {
+          "name": "Your Spirit Dies",
+          "url": "https://open.spotify.com/artist/0iLA9qNrXngiyQqZjcnwxt"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243338,
+      "name": "Whispers In Omen",
+      "url": "https://open.spotify.com/track/101B9tGKzfIK9Toio8mn0m"
     },
     {
       "album": {

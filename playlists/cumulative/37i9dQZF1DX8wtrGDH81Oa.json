@@ -2223,6 +2223,24 @@
     },
     {
       "album": {
+        "name": "Early Rise",
+        "url": "https://open.spotify.com/album/0gOkcAUxUyjcVhFiAUXuGi"
+      },
+      "artists": [
+        {
+          "name": "nick rush",
+          "url": "https://open.spotify.com/artist/2vwrWCNovHSx3BElXZoOBK"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161378,
+      "name": "Early Rise",
+      "url": "https://open.spotify.com/track/1II5BAFIEo90W8dLyjSeOp"
+    },
+    {
+      "album": {
         "name": "east of the island",
         "url": "https://open.spotify.com/album/0dsf7MTWNcFhfKgj9hNGhM"
       },
@@ -2854,6 +2872,24 @@
       "duration_ms": 117966,
       "name": "Forest Run",
       "url": "https://open.spotify.com/track/7IfFGjE55MtQejeXNPSlpD"
+    },
+    {
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/7zpjIbNXuVeLiWI2PatgRf"
+      },
+      "artists": [
+        {
+          "name": "Zaytune",
+          "url": "https://open.spotify.com/artist/70JZHPeMCxGcQKKg3qmu2c"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190099,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/7svdicYIM8BE1NHfA2MKfN"
     },
     {
       "album": {
@@ -4928,6 +4964,24 @@
       "duration_ms": 147692,
       "name": "Never Let Me Go",
       "url": "https://open.spotify.com/track/7t9HWGoCp9SDJLrjiI0I0v"
+    },
+    {
+      "album": {
+        "name": "Never Stop",
+        "url": "https://open.spotify.com/album/5oMifapNsdr31JozR2ILQr"
+      },
+      "artists": [
+        {
+          "name": "crayg",
+          "url": "https://open.spotify.com/artist/2V6p3TuP6FqZBVpnbmfvHg"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185739,
+      "name": "Never Stop",
+      "url": "https://open.spotify.com/track/4bsVtRnxB2EVS0WtjWdHZq"
     },
     {
       "album": {

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24CU0CSht4f.md) - [plain]
 
 > Enjoy the world of “Sgt\. Frog”!
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,282 likes - 64 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,290 likes - 64 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [ケロッ! とマーチ](https://open.spotify.com/track/7ehux42uSQOUuhWS4yPBbb) | [角田信明](https://open.spotify.com/artist/1rxERGNemrVJr4p2ETJ56M), [いはたじゅり](https://open.spotify.com/artist/3znGaAtmH8rZLOjzDZztqi) | [TVアニメ『ケロロ軍曹』ケロロソング①](https://open.spotify.com/album/4a7xVKcnPtU6Vd1cLnxjod) | 3:11 |
-| 2 | [全国無責任時代](https://open.spotify.com/track/0ray7DfjTyRNYcuUuX8iYo) | [GaGaGa SP](https://open.spotify.com/artist/1i2ol7SBMNLazfzSZKRGwM) | [つなひき帝国／全国無責任時代](https://open.spotify.com/album/0rdnQB3lAWV5YyWROriKT7) | 3:56 |
+| 2 | [全国無責任時代](https://open.spotify.com/track/0ray7DfjTyRNYcuUuX8iYo) | [GAGAGA SP](https://open.spotify.com/artist/1i2ol7SBMNLazfzSZKRGwM) | [つなひき帝国／全国無責任時代](https://open.spotify.com/album/0rdnQB3lAWV5YyWROriKT7) | 3:56 |
 | 3 | [君にジュースを買ってあげる＿＿](https://open.spotify.com/track/5FHeJb862sFte8uomm4OYK) | [Group Tamashii](https://open.spotify.com/artist/6wXb4P6aFkIAwVdQtfojUl) | [TMC](https://open.spotify.com/album/31uiMxs1vwERv10xG7XJFu) | 3:38 |
 | 4 | [晴れる道 ～宇宙人\(オメェら\)に合わせる顔がねぇ!～](https://open.spotify.com/track/45f7leiwgx1YXncySOxgV6) | [JK\(次長課長\)](https://open.spotify.com/artist/7ha5TmeM3a83uPoNL9mZsc) | [晴れる道 ～宇宙人\(オメェら\)に合わせる顔がねぇ!～](https://open.spotify.com/album/4MiZX0gDNFZMtMuW97q2lt) | 3:19 |
 | 5 | [You\-You\-You](https://open.spotify.com/track/3Pa99zDMXiENdifoCRVLtN) | [POLYSICS](https://open.spotify.com/artist/3l4rRK7zL537twQBI967Bq) | [You\-You\-You](https://open.spotify.com/album/6E41GAnYiC7AVkRoEWcor9) | 3:45 |

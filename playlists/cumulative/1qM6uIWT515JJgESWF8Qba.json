@@ -2061,6 +2061,24 @@
     },
     {
       "album": {
+        "name": "Higher Planes",
+        "url": "https://open.spotify.com/album/2kVWUkqMYdQ9C9Lrc5YjNy"
+      },
+      "artists": [
+        {
+          "name": "If by Whiskey",
+          "url": "https://open.spotify.com/artist/2BN3IyVjJZIgTjYeK2FEu5"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226583,
+      "name": "It's Alright Amanda",
+      "url": "https://open.spotify.com/track/5RwAIUjjWxrZGvDVcecyPb"
+    },
+    {
+      "album": {
         "name": "Ribcrasher",
         "url": "https://open.spotify.com/album/1p1VeLJoQlDKiK1X90QCHK"
       },

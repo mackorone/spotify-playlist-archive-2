@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35vibahyjHG.md) - [plain]
 
 > African women at full volume <br/>Cover: <a href="https://open.spotify.com/artist/5m5lgddffBHA2pv0m5E2Ro?si=14zw3R0TRMS5CCMb8KL4Zg">Zee Nxumalo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,593 likes - 60 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,624 likes - 60 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -6,28 +6,8 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahORAAAAAABu7yaAfDvAYhSDQVySsOpx",
+  "snapshot_id": "ahTigAAAAABB/ZP8qmLeNahTo+cEhUXL",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Continuarei Adorando (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1ABf8KziS6TFyUOHgBzwaH"
-      },
-      "artists": [
-        {
-          "name": "Alda C\u00e9lia",
-          "url": "https://open.spotify.com/artist/6UTqT9xxXAPjmyfNHDuNdv"
-        },
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        }
-      ],
-      "duration_ms": 423652,
-      "name": "Continuarei Adorando - Ao Vivo",
-      "url": "https://open.spotify.com/track/4DoOGmh2eWxG9XxUWMtVT4"
-    },
     {
       "added_at": null,
       "album": {
@@ -579,6 +559,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Minha Casa + Primeira Ess\u00eancia (Jardim Particular) (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4dKKLxDteUFQAwu8ygASe5"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "Anderson Freire",
+          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
+        }
+      ],
+      "duration_ms": 260893,
+      "name": "Minha Casa + Primeira Ess\u00eancia (Jardim Particular) (Ao Vivo)",
+      "url": "https://open.spotify.com/track/1BhgFlaCVzAhJoCznssFpJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Profetiza",
         "url": "https://open.spotify.com/album/6IgJb5EU0zSGlqlsLfFbzm"
       },
@@ -611,26 +611,6 @@
       "duration_ms": 380760,
       "name": "Eu Quero Ser Santo",
       "url": "https://open.spotify.com/track/5sLmKSlC5aDWhTomfobhqK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Minha Casa + Primeira Ess\u00eancia (Jardim Particular) (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4dKKLxDteUFQAwu8ygASe5"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        },
-        {
-          "name": "Anderson Freire",
-          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
-        }
-      ],
-      "duration_ms": 260893,
-      "name": "Minha Casa + Primeira Ess\u00eancia (Jardim Particular) (Ao Vivo)",
-      "url": "https://open.spotify.com/track/1BhgFlaCVzAhJoCznssFpJ"
     },
     {
       "added_at": null,
@@ -671,6 +651,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fiel a Mim + Esp\u00edrito Santo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/67EjXd0XjKBMzlXMm5mpbf"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 496640,
+      "name": "Fiel a Mim + Esp\u00edrito Santo (Ao Vivo)",
+      "url": "https://open.spotify.com/track/74ob8ox5vP0bHKaIyoBTpI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Terremoto",
         "url": "https://open.spotify.com/album/60Iq7fE7TtyGXc4wJiJluJ"
       },
@@ -703,26 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fiel a Mim + Esp\u00edrito Santo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/67EjXd0XjKBMzlXMm5mpbf"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        },
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 496640,
-      "name": "Fiel a Mim + Esp\u00edrito Santo (Ao Vivo)",
-      "url": "https://open.spotify.com/track/74ob8ox5vP0bHKaIyoBTpI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "At\u00e9 Tocar o C\u00e9u + Profetiza (Ao Vivo)",
         "url": "https://open.spotify.com/album/1RXUxLgHNop0heYVMfBZcB"
       },
@@ -739,42 +719,6 @@
       "duration_ms": 484213,
       "name": "At\u00e9 Tocar o C\u00e9u + Profetiza (Ao Vivo)",
       "url": "https://open.spotify.com/track/4vOPMKqEAJnxLTYp304rLu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Deus Prover\u00e1 + De Nada Tenho Falta (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2zyADzeYjaUwdBh7ecCpSP"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        },
-        {
-          "name": "J\u00e9ssica Augusto",
-          "url": "https://open.spotify.com/artist/5lToDW3d2jgmKpVMi9RhHH"
-        }
-      ],
-      "duration_ms": 363600,
-      "name": "Deus Prover\u00e1 + De Nada Tenho Falta (Ao Vivo)",
-      "url": "https://open.spotify.com/track/0P32dn0FwLXHbGn9nUxT8H"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "At\u00e9 Tocar o C\u00e9u",
-        "url": "https://open.spotify.com/album/0No068lRyBvHg02eKHItlq"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        }
-      ],
-      "duration_ms": 294661,
-      "name": "Deus Est\u00e1 me Ensinando",
-      "url": "https://open.spotify.com/track/3ewNwpEyciD3Ly38dmAgcl"
     },
     {
       "added_at": null,
@@ -799,6 +743,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "At\u00e9 Tocar o C\u00e9u",
+        "url": "https://open.spotify.com/album/0No068lRyBvHg02eKHItlq"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "duration_ms": 294661,
+      "name": "Deus Est\u00e1 me Ensinando",
+      "url": "https://open.spotify.com/track/3ewNwpEyciD3Ly38dmAgcl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nada Pode Calar Um Adorador",
         "url": "https://open.spotify.com/album/4zlSXPnTQZOMipWUAzYLyE"
       },
@@ -811,6 +771,26 @@
       "duration_ms": 283422,
       "name": "Deus dos Vales, Deus dos Montes",
       "url": "https://open.spotify.com/track/5TOu4YtEZFRGYiNURo6rEf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Deus Prover\u00e1 + De Nada Tenho Falta (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2zyADzeYjaUwdBh7ecCpSP"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "J\u00e9ssica Augusto",
+          "url": "https://open.spotify.com/artist/5lToDW3d2jgmKpVMi9RhHH"
+        }
+      ],
+      "duration_ms": 363600,
+      "name": "Deus Prover\u00e1 + De Nada Tenho Falta (Ao Vivo)",
+      "url": "https://open.spotify.com/track/0P32dn0FwLXHbGn9nUxT8H"
     },
     {
       "added_at": null,
@@ -983,6 +963,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Deus no Controle + Milagre (Ao Vivo)",
+        "url": "https://open.spotify.com/album/51Tbmmxun5vUGB4VipYhT1"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "Liz Lanne",
+          "url": "https://open.spotify.com/artist/1T5Me8q25LaMSFvpFOpR00"
+        }
+      ],
+      "duration_ms": 301280,
+      "name": "Deus no Controle + Milagre (Ao Vivo)",
+      "url": "https://open.spotify.com/track/3yv9GgtbrH8aLNosr3Htex"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Aguenta Firme + Na Eternidade (Ao Vivo)",
         "url": "https://open.spotify.com/album/5uZWtgelO4WRrmzUGLCgr6"
       },
@@ -1003,22 +1003,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deus no Controle + Milagre (Ao Vivo)",
-        "url": "https://open.spotify.com/album/51Tbmmxun5vUGB4VipYhT1"
+        "name": "Continuarei Adorando (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1ABf8KziS6TFyUOHgBzwaH"
       },
       "artists": [
         {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+          "name": "Alda C\u00e9lia",
+          "url": "https://open.spotify.com/artist/6UTqT9xxXAPjmyfNHDuNdv"
         },
         {
-          "name": "Liz Lanne",
-          "url": "https://open.spotify.com/artist/1T5Me8q25LaMSFvpFOpR00"
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
         }
       ],
-      "duration_ms": 301280,
-      "name": "Deus no Controle + Milagre (Ao Vivo)",
-      "url": "https://open.spotify.com/track/3yv9GgtbrH8aLNosr3Htex"
+      "duration_ms": 423652,
+      "name": "Continuarei Adorando - Ao Vivo",
+      "url": "https://open.spotify.com/track/4DoOGmh2eWxG9XxUWMtVT4"
     }
   ],
   "unique_name": "This Is Eyshila",

@@ -1,6 +1,6 @@
 {
   "description": "Let your favorite pop guide you through your daily commute! Cover: Dua Lipa",
-  "num_followers": 435489,
+  "num_followers": 435488,
   "original_name": "Happy Drive",
   "owner": {
     "name": "Spotify",
@@ -235,6 +235,22 @@
     {
       "added_at": "2021-08-25 20:28:57",
       "album": {
+        "name": "Fine Line",
+        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 173991,
+      "name": "Watermelon Sugar",
+      "url": "https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY"
+    },
+    {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
         "name": "Globalization",
         "url": "https://open.spotify.com/album/4EUf4YyNjuXypWY6W5wEDm"
       },
@@ -251,22 +267,6 @@
       "duration_ms": 229358,
       "name": "Time of Our Lives",
       "url": "https://open.spotify.com/track/2bJvI42r8EF3wxjOuDav4r"
-    },
-    {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
-        "name": "Fine Line",
-        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 173991,
-      "name": "Watermelon Sugar",
-      "url": "https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -351,22 +351,6 @@
     {
       "added_at": "2021-08-25 20:28:57",
       "album": {
-        "name": "Blurryface",
-        "url": "https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1"
-      },
-      "artists": [
-        {
-          "name": "Twenty One Pilots",
-          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
-        }
-      ],
-      "duration_ms": 214506,
-      "name": "Ride",
-      "url": "https://open.spotify.com/track/2Z8WuEywRWYTKe1NybPQEW"
-    },
-    {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
         "name": "The Papercut Chronicles II",
         "url": "https://open.spotify.com/album/2mumCpGmuE9iDeOvMx6XrB"
       },
@@ -387,18 +371,18 @@
     {
       "added_at": "2021-08-25 20:28:57",
       "album": {
-        "name": "24K Magic",
-        "url": "https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA"
+        "name": "Blurryface",
+        "url": "https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1"
       },
       "artists": [
         {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
         }
       ],
-      "duration_ms": 225983,
-      "name": "24K Magic",
-      "url": "https://open.spotify.com/track/6b8Be6ljOzmkOmFslEb23P"
+      "duration_ms": 214506,
+      "name": "Ride",
+      "url": "https://open.spotify.com/track/2Z8WuEywRWYTKe1NybPQEW"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -415,6 +399,22 @@
       "duration_ms": 207139,
       "name": "Adore You",
       "url": "https://open.spotify.com/track/3jjujdWJ72nww5eGnfs2E7"
+    },
+    {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
+        "name": "24K Magic",
+        "url": "https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 225983,
+      "name": "24K Magic",
+      "url": "https://open.spotify.com/track/6b8Be6ljOzmkOmFslEb23P"
     },
     {
       "added_at": "2022-04-13 19:43:54",
@@ -591,22 +591,6 @@
     {
       "added_at": "2021-08-25 20:28:57",
       "album": {
-        "name": "Heaven & Hell",
-        "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 162398,
-      "name": "Kings & Queens",
-      "url": "https://open.spotify.com/track/7a53HqqArd4b9NF4XAmlbI"
-    },
-    {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
         "name": "V",
         "url": "https://open.spotify.com/album/2Auw0pTT6EcQdvHNimhLQI"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 235493,
       "name": "Sugar",
       "url": "https://open.spotify.com/track/2iuZJX9X9P0GKaE93xcPjk"
+    },
+    {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
+        "name": "Heaven & Hell",
+        "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 162398,
+      "name": "Kings & Queens",
+      "url": "https://open.spotify.com/track/7a53HqqArd4b9NF4XAmlbI"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -701,6 +701,22 @@
       "url": "https://open.spotify.com/track/2iUXsYOEPhVqEBwsqP70rE"
     },
     {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
+        "name": "Future Nostalgia",
+        "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 203807,
+      "name": "Levitating",
+      "url": "https://open.spotify.com/track/39LLxExYz6ewLAcYrzQQyP"
+    },
+    {
       "added_at": "2021-09-20 19:34:04",
       "album": {
         "name": "Leave Before You Love Me",
@@ -719,22 +735,6 @@
       "duration_ms": 154983,
       "name": "Leave Before You Love Me (with Jonas Brothers)",
       "url": "https://open.spotify.com/track/4qu63nuBpdn0qHUHuObEj1"
-    },
-    {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
-        "name": "Future Nostalgia",
-        "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 203807,
-      "name": "Levitating",
-      "url": "https://open.spotify.com/track/39LLxExYz6ewLAcYrzQQyP"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2021-08-25 20:28:57",
       "album": {
-        "name": "In The Lonely Hour",
-        "url": "https://open.spotify.com/album/08jWgM4vSkTose4blKBWov"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 167065,
-      "name": "Like I Can",
-      "url": "https://open.spotify.com/track/2TeLIzFBe3hxkPR5FIQZut"
-    },
-    {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
         "name": "Always in Between (Deluxe)",
         "url": "https://open.spotify.com/album/7GCY1J01hcEpdgeY0vtSsN"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 194386,
       "name": "I'll Be There",
       "url": "https://open.spotify.com/track/4r1CoAATVuxag55Ct3Y1aX"
+    },
+    {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
+        "name": "In The Lonely Hour",
+        "url": "https://open.spotify.com/album/08jWgM4vSkTose4blKBWov"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 167065,
+      "name": "Like I Can",
+      "url": "https://open.spotify.com/track/2TeLIzFBe3hxkPR5FIQZut"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -2027,22 +2027,6 @@
     {
       "added_at": "2021-08-25 20:28:57",
       "album": {
-        "name": "It Won't Be Soon Before Long.",
-        "url": "https://open.spotify.com/album/29hJ8AFYZU98OzenrMr6iU"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        }
-      ],
-      "duration_ms": 211080,
-      "name": "Makes Me Wonder",
-      "url": "https://open.spotify.com/track/1lHXlGlve5Zx8tXLhyjDwM"
-    },
-    {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
         "name": "Remind Me to Forget",
         "url": "https://open.spotify.com/album/5Og1PZOwpUkL8slf11stBq"
       },
@@ -2059,6 +2043,22 @@
       "duration_ms": 217286,
       "name": "Remind Me to Forget",
       "url": "https://open.spotify.com/track/5sIx4BlfYGuZeSLF40N9GH"
+    },
+    {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
+        "name": "It Won't Be Soon Before Long.",
+        "url": "https://open.spotify.com/album/29hJ8AFYZU98OzenrMr6iU"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "duration_ms": 211080,
+      "name": "Makes Me Wonder",
+      "url": "https://open.spotify.com/track/1lHXlGlve5Zx8tXLhyjDwM"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -2313,22 +2313,6 @@
       "url": "https://open.spotify.com/track/7soJgKhQTO8hLP2JPRkL5O"
     },
     {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
-        "name": "Our Version Of Events",
-        "url": "https://open.spotify.com/album/3bPrapL1DmFkznWnTb7xNz"
-      },
-      "artists": [
-        {
-          "name": "Emeli Sand\u00e9",
-          "url": "https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy"
-        }
-      ],
-      "duration_ms": 196866,
-      "name": "Next To Me",
-      "url": "https://open.spotify.com/track/1Xsxp1SEOxuMzjrFZhtw8u"
-    },
-    {
       "added_at": "2021-10-08 04:01:00",
       "album": {
         "name": "Love Back",
@@ -2343,6 +2327,22 @@
       "duration_ms": 185850,
       "name": "Love Back",
       "url": "https://open.spotify.com/track/7weX6syqklVQocpVVmDNwI"
+    },
+    {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
+        "name": "Our Version Of Events",
+        "url": "https://open.spotify.com/album/3bPrapL1DmFkznWnTb7xNz"
+      },
+      "artists": [
+        {
+          "name": "Emeli Sand\u00e9",
+          "url": "https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy"
+        }
+      ],
+      "duration_ms": 196866,
+      "name": "Next To Me",
+      "url": "https://open.spotify.com/track/1Xsxp1SEOxuMzjrFZhtw8u"
     },
     {
       "added_at": "2022-04-13 19:43:54",
@@ -2411,26 +2411,6 @@
     {
       "added_at": "2022-04-13 19:43:54",
       "album": {
-        "name": "Born To Be Yours",
-        "url": "https://open.spotify.com/album/2pJwtJl5mZdRj2jocjDFgB"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 193320,
-      "name": "Born To Be Yours",
-      "url": "https://open.spotify.com/track/2hoigtnMAjSejRi1hHk99w"
-    },
-    {
-      "added_at": "2022-04-13 19:43:54",
-      "album": {
         "name": "At Least I Had Fun",
         "url": "https://open.spotify.com/album/1j6i0vwWSIGi3DamfRUHuP"
       },
@@ -2447,6 +2427,26 @@
       "duration_ms": 170613,
       "name": "At Least I Had Fun",
       "url": "https://open.spotify.com/track/7jqXDgGWkV4w2ctdb2g59o"
+    },
+    {
+      "added_at": "2022-04-13 19:43:54",
+      "album": {
+        "name": "Born To Be Yours",
+        "url": "https://open.spotify.com/album/2pJwtJl5mZdRj2jocjDFgB"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 193320,
+      "name": "Born To Be Yours",
+      "url": "https://open.spotify.com/track/2hoigtnMAjSejRi1hHk99w"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -2509,6 +2509,22 @@
       "url": "https://open.spotify.com/track/59s3aMqR9uOzLIXAcgBCEm"
     },
     {
+      "added_at": "2021-09-20 19:34:04",
+      "album": {
+        "name": "Lease On Life",
+        "url": "https://open.spotify.com/album/3ciVcxQykTNkAznZzpDOJK"
+      },
+      "artists": [
+        {
+          "name": "Andy Grammer",
+          "url": "https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj"
+        }
+      ],
+      "duration_ms": 168162,
+      "name": "Lease On Life",
+      "url": "https://open.spotify.com/track/4ufkuONjQMNR2fyXu1bO9w"
+    },
+    {
       "added_at": "2021-08-25 20:28:57",
       "album": {
         "name": "Dua Lipa (Deluxe)",
@@ -2527,22 +2543,6 @@
       "duration_ms": 203769,
       "name": "Lost In Your Light (feat. Miguel)",
       "url": "https://open.spotify.com/track/2OWKDTonST8HNko3dBlPPp"
-    },
-    {
-      "added_at": "2021-09-20 19:34:04",
-      "album": {
-        "name": "Lease On Life",
-        "url": "https://open.spotify.com/album/3ciVcxQykTNkAznZzpDOJK"
-      },
-      "artists": [
-        {
-          "name": "Andy Grammer",
-          "url": "https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj"
-        }
-      ],
-      "duration_ms": 168162,
-      "name": "Lease On Life",
-      "url": "https://open.spotify.com/track/4ufkuONjQMNR2fyXu1bO9w"
     },
     {
       "added_at": "2021-10-29 04:01:00",
@@ -2615,22 +2615,6 @@
     {
       "added_at": "2021-08-25 20:28:57",
       "album": {
-        "name": "Orphans / Arabesque",
-        "url": "https://open.spotify.com/album/6DX4K0afv5l01Pf6lymJuB"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 197533,
-      "name": "Orphans",
-      "url": "https://open.spotify.com/track/6muOWhMh7Tf0UFUtMDBhUR"
-    },
-    {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
         "name": "Unbreakable Smile",
         "url": "https://open.spotify.com/album/2mH2TVd6euTmrn9Pcw9XHS"
       },
@@ -2643,6 +2627,22 @@
       "duration_ms": 203453,
       "name": "Nobody Love",
       "url": "https://open.spotify.com/track/7fpU0bRJt0SDC8jIgVpbT6"
+    },
+    {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
+        "name": "Orphans / Arabesque",
+        "url": "https://open.spotify.com/album/6DX4K0afv5l01Pf6lymJuB"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 197533,
+      "name": "Orphans",
+      "url": "https://open.spotify.com/track/6muOWhMh7Tf0UFUtMDBhUR"
     },
     {
       "added_at": "2022-04-13 19:43:54",
@@ -3235,22 +3235,6 @@
     {
       "added_at": "2021-08-25 20:28:57",
       "album": {
-        "name": "High Times - Singles 1992-2006",
-        "url": "https://open.spotify.com/album/0H0vrl0pFZ2u8CrSeuPCLO"
-      },
-      "artists": [
-        {
-          "name": "Jamiroquai",
-          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
-        }
-      ],
-      "duration_ms": 229360,
-      "name": "Virtual Insanity - Remastered",
-      "url": "https://open.spotify.com/track/3rpeUtH3p22qBhJRpKxrW6"
-    },
-    {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
         "name": "Better Days",
         "url": "https://open.spotify.com/album/41pm4Q8TIe9zixjdIuvgBZ"
       },
@@ -3263,6 +3247,22 @@
       "duration_ms": 198221,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/2vCKQ9NNCTXoAF8ltW0Zv9"
+    },
+    {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
+        "name": "High Times - Singles 1992-2006",
+        "url": "https://open.spotify.com/album/0H0vrl0pFZ2u8CrSeuPCLO"
+      },
+      "artists": [
+        {
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+        }
+      ],
+      "duration_ms": 229360,
+      "name": "Virtual Insanity - Remastered",
+      "url": "https://open.spotify.com/track/3rpeUtH3p22qBhJRpKxrW6"
     },
     {
       "added_at": "2021-08-25 20:28:57",

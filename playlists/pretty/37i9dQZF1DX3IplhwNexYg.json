@@ -1,6 +1,6 @@
 {
   "description": "The best in current indie rock. Cover: Phantastic Ferniture",
-  "num_followers": 113902,
+  "num_followers": 113896,
   "original_name": "pulp",
   "owner": {
     "name": "Spotify",
@@ -895,6 +895,22 @@
     {
       "added_at": "2025-09-01 14:27:56",
       "album": {
+        "name": "This Is Real",
+        "url": "https://open.spotify.com/album/0VNjjHXqRFJ9NTqbmPT9pJ"
+      },
+      "artists": [
+        {
+          "name": "feeble little horse",
+          "url": "https://open.spotify.com/artist/2GJa7lPCjAB1rKXptXrfy8"
+        }
+      ],
+      "duration_ms": 187351,
+      "name": "This Is Real",
+      "url": "https://open.spotify.com/track/4LYXtoiuM9xEmxklVvQnLl"
+    },
+    {
+      "added_at": "2025-09-01 14:27:56",
+      "album": {
         "name": "A Question of You",
         "url": "https://open.spotify.com/album/7xWVXuNOomkvJLNM1lI15l"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 208298,
       "name": "Clueless",
       "url": "https://open.spotify.com/track/55Hlg31EQDXQn71p1KIr8r"
-    },
-    {
-      "added_at": "2025-09-01 14:27:56",
-      "album": {
-        "name": "This Is Real",
-        "url": "https://open.spotify.com/album/0VNjjHXqRFJ9NTqbmPT9pJ"
-      },
-      "artists": [
-        {
-          "name": "feeble little horse",
-          "url": "https://open.spotify.com/artist/2GJa7lPCjAB1rKXptXrfy8"
-        }
-      ],
-      "duration_ms": 187351,
-      "name": "This Is Real",
-      "url": "https://open.spotify.com/track/4LYXtoiuM9xEmxklVvQnLl"
     },
     {
       "added_at": "2025-09-01 14:27:56",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2025-09-01 14:27:56",
       "album": {
-        "name": "this is my california",
-        "url": "https://open.spotify.com/album/0IpI61Av7JVRPhXb3RJFdq"
-      },
-      "artists": [
-        {
-          "name": "mary in the junkyard",
-          "url": "https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M"
-        }
-      ],
-      "duration_ms": 298000,
-      "name": "this is my california",
-      "url": "https://open.spotify.com/track/43cAeXFkMQvARz9NDqXPTf"
-    },
-    {
-      "added_at": "2025-09-01 14:27:56",
-      "album": {
         "name": "What Do We Ever Really Know?",
         "url": "https://open.spotify.com/album/3yfY2tkI6g8WR2HfZBaQfv"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 233000,
       "name": "What Do We Ever Really Know?",
       "url": "https://open.spotify.com/track/1nyCxSZlwqP4Dj6yu5r24b"
+    },
+    {
+      "added_at": "2025-09-01 14:27:56",
+      "album": {
+        "name": "this is my california",
+        "url": "https://open.spotify.com/album/0IpI61Av7JVRPhXb3RJFdq"
+      },
+      "artists": [
+        {
+          "name": "mary in the junkyard",
+          "url": "https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M"
+        }
+      ],
+      "duration_ms": 298000,
+      "name": "this is my california",
+      "url": "https://open.spotify.com/track/43cAeXFkMQvARz9NDqXPTf"
     },
     {
       "added_at": "2025-09-01 14:27:56",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2025-09-01 14:27:56",
       "album": {
-        "name": "Fig Tree",
-        "url": "https://open.spotify.com/album/5QeWE7EQufnbmrf9d9dwRy"
-      },
-      "artists": [
-        {
-          "name": "Chloe Slater",
-          "url": "https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24"
-        }
-      ],
-      "duration_ms": 221394,
-      "name": "Fig Tree",
-      "url": "https://open.spotify.com/track/1brJfz0AAt0N9frwnN4z2y"
-    },
-    {
-      "added_at": "2025-09-01 14:27:56",
-      "album": {
         "name": "All the Noise",
         "url": "https://open.spotify.com/album/1vqh5RgezLNVZwDLxTsdKc"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 179858,
       "name": "All the Noise",
       "url": "https://open.spotify.com/track/6Tgj4AN3ufqIeIVqxnCE1N"
+    },
+    {
+      "added_at": "2025-09-01 14:27:56",
+      "album": {
+        "name": "Fig Tree",
+        "url": "https://open.spotify.com/album/5QeWE7EQufnbmrf9d9dwRy"
+      },
+      "artists": [
+        {
+          "name": "Chloe Slater",
+          "url": "https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24"
+        }
+      ],
+      "duration_ms": 221394,
+      "name": "Fig Tree",
+      "url": "https://open.spotify.com/track/1brJfz0AAt0N9frwnN4z2y"
     },
     {
       "added_at": "2025-09-01 14:27:56",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2025-09-01 14:27:56",
       "album": {
-        "name": "Love Me Please",
-        "url": "https://open.spotify.com/album/66ZYTPi0jLZ6geTByqUiIv"
-      },
-      "artists": [
-        {
-          "name": "Chloe Slater",
-          "url": "https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24"
-        }
-      ],
-      "duration_ms": 158667,
-      "name": "Sucker",
-      "url": "https://open.spotify.com/track/7KoEgsFYq8mk37AiPqQZKP"
-    },
-    {
-      "added_at": "2025-09-01 14:27:56",
-      "album": {
         "name": "SAYA",
         "url": "https://open.spotify.com/album/4w5yIvQJ8vlxDnMyN8A8qE"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 310965,
       "name": "EXHAUST THE TOPIC",
       "url": "https://open.spotify.com/track/6mK1tNEFc23r92Aa663GRq"
+    },
+    {
+      "added_at": "2025-09-01 14:27:56",
+      "album": {
+        "name": "Love Me Please",
+        "url": "https://open.spotify.com/album/66ZYTPi0jLZ6geTByqUiIv"
+      },
+      "artists": [
+        {
+          "name": "Chloe Slater",
+          "url": "https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24"
+        }
+      ],
+      "duration_ms": 158667,
+      "name": "Sucker",
+      "url": "https://open.spotify.com/track/7KoEgsFYq8mk37AiPqQZKP"
     },
     {
       "added_at": "2025-09-01 14:27:56",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2025-09-01 14:27:56",
       "album": {
-        "name": "A Cowboy Song",
-        "url": "https://open.spotify.com/album/1IgP1X3hrG6GenTiZCuWc1"
-      },
-      "artists": [
-        {
-          "name": "Kean Kavanagh",
-          "url": "https://open.spotify.com/artist/7bSUVGOUQn87z2HRy0Ha3B"
-        }
-      ],
-      "duration_ms": 214008,
-      "name": "A Cowboy Song",
-      "url": "https://open.spotify.com/track/3Hdku7zeAZSuEFysqkZpLk"
-    },
-    {
-      "added_at": "2025-09-01 14:27:56",
-      "album": {
         "name": "Illuminator",
         "url": "https://open.spotify.com/album/7dUddrl6x5eTf7PRZNbh5z"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 268772,
       "name": "Milestones",
       "url": "https://open.spotify.com/track/66I7THcYkEzMlKWzCE6x7b"
+    },
+    {
+      "added_at": "2025-09-01 14:27:56",
+      "album": {
+        "name": "A Cowboy Song",
+        "url": "https://open.spotify.com/album/1IgP1X3hrG6GenTiZCuWc1"
+      },
+      "artists": [
+        {
+          "name": "Kean Kavanagh",
+          "url": "https://open.spotify.com/artist/7bSUVGOUQn87z2HRy0Ha3B"
+        }
+      ],
+      "duration_ms": 214008,
+      "name": "A Cowboy Song",
+      "url": "https://open.spotify.com/track/3Hdku7zeAZSuEFysqkZpLk"
     },
     {
       "added_at": "2025-09-01 14:27:56",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2025-09-01 14:27:56",
       "album": {
-        "name": "Romanticism",
-        "url": "https://open.spotify.com/album/6I7Al2K8HxKvyJcook1ZR8"
-      },
-      "artists": [
-        {
-          "name": "Hana Vu",
-          "url": "https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO"
-        }
-      ],
-      "duration_ms": 234234,
-      "name": "Airplane",
-      "url": "https://open.spotify.com/track/5U0vVExqpq4pOEhs2ODuA9"
-    },
-    {
-      "added_at": "2025-09-01 14:27:56",
-      "album": {
         "name": "Billy (Yeah Yeah Yeah)",
         "url": "https://open.spotify.com/album/7FwHGe6SjBkHNiYjBIhD9q"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 245251,
       "name": "Billy (Yeah Yeah Yeah)",
       "url": "https://open.spotify.com/track/1BRFtDfFuoi9hJWBH5exGb"
+    },
+    {
+      "added_at": "2025-09-01 14:27:56",
+      "album": {
+        "name": "Romanticism",
+        "url": "https://open.spotify.com/album/6I7Al2K8HxKvyJcook1ZR8"
+      },
+      "artists": [
+        {
+          "name": "Hana Vu",
+          "url": "https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO"
+        }
+      ],
+      "duration_ms": 234234,
+      "name": "Airplane",
+      "url": "https://open.spotify.com/track/5U0vVExqpq4pOEhs2ODuA9"
     },
     {
       "added_at": "2025-09-01 14:27:56",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2025-09-01 14:27:56",
       "album": {
-        "name": "It's a Mirror",
-        "url": "https://open.spotify.com/album/1fy2JdEjjXymGJWtVE1ckz"
-      },
-      "artists": [
-        {
-          "name": "Perfume Genius",
-          "url": "https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn"
-        }
-      ],
-      "duration_ms": 212320,
-      "name": "It's a Mirror",
-      "url": "https://open.spotify.com/track/3El9UdrncPt4ISzlv7v8ON"
-    },
-    {
-      "added_at": "2025-09-01 14:27:56",
-      "album": {
         "name": "Open Wide",
         "url": "https://open.spotify.com/album/54oOwVLYNFlG1glBKiSrMk"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 172542,
       "name": "Frontrunner",
       "url": "https://open.spotify.com/track/0zWfDeOJvTkHWfLWSsbFqe"
+    },
+    {
+      "added_at": "2025-09-01 14:27:56",
+      "album": {
+        "name": "It's a Mirror",
+        "url": "https://open.spotify.com/album/1fy2JdEjjXymGJWtVE1ckz"
+      },
+      "artists": [
+        {
+          "name": "Perfume Genius",
+          "url": "https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn"
+        }
+      ],
+      "duration_ms": 212320,
+      "name": "It's a Mirror",
+      "url": "https://open.spotify.com/track/3El9UdrncPt4ISzlv7v8ON"
     },
     {
       "added_at": "2025-09-01 14:27:56",
@@ -1599,18 +1599,18 @@
     {
       "added_at": "2025-09-01 14:27:56",
       "album": {
-        "name": "Gethsemane",
-        "url": "https://open.spotify.com/album/0D8s2NeEe5eCNZZcrjZq5A"
+        "name": "East My Love",
+        "url": "https://open.spotify.com/album/56MC7cZZaIMukrs6UaF4mg"
       },
       "artists": [
         {
-          "name": "Car Seat Headrest",
-          "url": "https://open.spotify.com/artist/5PbpKlxQE0Ktl5lcNABoFf"
+          "name": "Current Joys",
+          "url": "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL"
         }
       ],
-      "duration_ms": 651992,
-      "name": "Gethsemane",
-      "url": "https://open.spotify.com/track/05Y0oBtriW2gf8zPj2VDov"
+      "duration_ms": 231885,
+      "name": "Tormenta",
+      "url": "https://open.spotify.com/track/2a9Rtd2qgzq4A5TTJteuBI"
     }
   ],
   "unique_name": "pulp",

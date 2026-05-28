@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWYhe5ISqq2D1.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYhe5ISqq2D1) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWYhe5ISqq2D1)
 
-### [ブルーにこんがらがって](https://open.spotify.com/playlist/37i9dQZF1DWYhe5ISqq2D1)
+### [シンガーソングライター Singer\-Songwriter Japan](https://open.spotify.com/playlist/37i9dQZF1DWYhe5ISqq2D1)
 
 > 日本のシンガーソングライターを特集。Featuring Japanese Singer\-Songwriters\. Cover: 音田雅則 Masanori Otoda
 
-1,432 songs - 3 day 18 hr 13 min
+1,432 songs - 3 day 18 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [A distant town](https://open.spotify.com/track/5tSiMQY0OeQaGvJ41wwefe) | [Gao](https://open.spotify.com/artist/04UcaFt6RUXPDOtYGa0y1B) | [A distant town](https://open.spotify.com/album/49VmBFoGwWGhgV2vtAlQF3) | 4:15 | 2026-05-19 | 2026-05-27 |
 | [a music score](https://open.spotify.com/track/6TcoXIFuITi36A1uLtOx0O) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [a music score](https://open.spotify.com/album/5RgCzUL166JU7tFjmEllWg) | 3:29 | 2025-05-27 | 2025-07-09 |
 | [A8番出口](https://open.spotify.com/track/0i9q3Cw9GwnvuSQltZRTYx) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [A8番出口](https://open.spotify.com/album/1GqgKYbjOxhU8TtzsUsQHl) | 3:35 | 2024-07-02 | 2024-08-14 |
-| [ABC](https://open.spotify.com/track/3vM2M13sgm6CzsJisB28IE) | [idom](https://open.spotify.com/artist/2f1JDLogY8kLi804QEmMzx) | [ABC](https://open.spotify.com/album/2flwTAcov0DUVg1ggCx1R4) | 3:00 | 2026-04-21 |  |
+| [ABC](https://open.spotify.com/track/3vM2M13sgm6CzsJisB28IE) | [idom](https://open.spotify.com/artist/2f1JDLogY8kLi804QEmMzx) | [ABC](https://open.spotify.com/album/2flwTAcov0DUVg1ggCx1R4) | 3:00 | 2026-04-21 | 2026-05-28 |
 | [afraid to love](https://open.spotify.com/track/015GuDehFbHYA3sBZDRjP8) | [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [サファイア](https://open.spotify.com/album/5XdY7QJZ1Mo4mwzt715kNI) | 3:42 | 2025-08-05 | 2025-08-13 |
 | [After that...](https://open.spotify.com/track/3h4VFjkuKs70dIXBCb5CcS) | [mei ehara](https://open.spotify.com/artist/7501C4PyvqS1BWbmrYq3LF) | [All About McGuffin](https://open.spotify.com/album/2G5FsWdPfY3zQKRUncRIa4) | 3:29 | 2025-09-16 | 2025-12-10 |
 | [After the recital](https://open.spotify.com/track/3TZJpSNMmgNwKT6jRQ1Uh8) | [Sean Oshima](https://open.spotify.com/artist/4LC3wsmgBW48A6DtXtCWsw) | [After the recital](https://open.spotify.com/album/3K3Bm50WGE3ncvjRYPduxP) | 4:56 | 2025-01-14 | 2025-01-22 |
@@ -476,6 +476,7 @@
 | [pink](https://open.spotify.com/track/2NI2qpkxH30nFZ6vxCcrGF) | [汐れいら](https://open.spotify.com/artist/6GVsZoMbMt0jmqwcvz1a1F) | [pink](https://open.spotify.com/album/2kwDdyFMvoOXd9LkFSLxwl) | 4:12 | 2025-11-25 | 2026-02-12 |
 | [PINK PUNCH](https://open.spotify.com/track/1hRT4tRsLgOkejN2KGqukf) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [PINK PUNCH](https://open.spotify.com/album/6vgybAHVnds7q6FgoDkeFq) | 2:07 | 2025-04-15 | 2025-05-22 |
 | [Pioneer \- 2024 mined ver.](https://open.spotify.com/track/6Jt0NgRCBuFvCUBSgqmXh2) | [Natsuko Nisshoku](https://open.spotify.com/artist/4GnFg9D7Ds99UI0r5t9PZK) | [Pioneer \(2024 mined ver.\)](https://open.spotify.com/album/5SspPJZnGKmHBF3FG2gQeh) | 3:52 | 2024-09-03 | 2024-09-11 |
+| [PLANETS](https://open.spotify.com/track/4dXAx6MlPTqRFC804zZZQ3) | [Ayase](https://open.spotify.com/artist/1S8OQ9SqlLdD9l4paaZMuZ) | [dialogue](https://open.spotify.com/album/0nFxDK8187xYJPMMph6c7y) | 3:04 | 2026-05-26 |  |
 | [plum](https://open.spotify.com/track/7DnLX5NYns6rw9IqPcyDNg) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [plum](https://open.spotify.com/album/4X1QUjwxbC4aatDurNoZDr) | 3:20 | 2024-09-11 | 2024-10-02 |
 | [POPCORN IMAGINATION](https://open.spotify.com/track/59aPfGja5Zics84m62AX5b) | [satsuki ririka](https://open.spotify.com/artist/3hg0d6ItRfBRhydR69tVly) | [POPCORN IMAGINATION](https://open.spotify.com/album/6d9xeXxgrQr5991JkXNQVg) | 3:34 | 2026-03-24 | 2026-04-01 |
 | [positive dive](https://open.spotify.com/track/3cCFAe3n3YBYXyieUdABP5) | [Kaori Kusuhashi](https://open.spotify.com/artist/40NGX8Hj6US8dXfBsaJKIP) | [positive dive](https://open.spotify.com/album/2PxrxyNHeYYCE3v1sUhxfa) | 2:18 | 2025-04-08 | 2025-04-16 |
@@ -608,7 +609,6 @@
 | [tomato](https://open.spotify.com/track/0fvg4lNtdROo83CGCfgyNF) | [Shota Shimizu](https://open.spotify.com/artist/2ZjWbNQAjL74Pf4aqikIz2) | [tomato](https://open.spotify.com/album/7wRw76TSgb16kQfeGvGtal) | 4:40 | 2025-06-11 | 2025-10-22 |
 | [TONGO \- Feat.松重豊](https://open.spotify.com/track/3lsNooWcDZtv5IqLBIpYqH) | [saccharin](https://open.spotify.com/artist/5X06dtFcjyvVvBrKXGhXkI), [松重豊](https://open.spotify.com/artist/3pHwaIplhKgtrVqaW16o50) | [TONGO \(Feat.松重豊\)](https://open.spotify.com/album/4JHpBsNaT4m35TipUmpvyr) | 3:23 | 2025-11-04 | 2025-11-12 |
 | [Toxic Luv](https://open.spotify.com/track/3mi4Gwmur1Wejivzohm3xS) | [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u) | [Toxic Luv](https://open.spotify.com/album/29tAiHG6vz4qsZhAw22Pkb) | 2:19 | 2025-08-12 | 2025-08-20 |
-| [Track 1](https://open.spotify.com/track/4dXAx6MlPTqRFC804zZZQ3) | [Ayase](https://open.spotify.com/artist/1S8OQ9SqlLdD9l4paaZMuZ) | [dialogue](https://open.spotify.com/album/0nFxDK8187xYJPMMph6c7y) | 0:00 | 2026-05-26 |  |
 | [Traffic Light \(prod\. Shingo Suzuki\)](https://open.spotify.com/track/1HG5ywdkdqGlW7IwQdXLbs) | [magora](https://open.spotify.com/artist/0AHQL12KXrcq9IzIBl0Wo2) | [Traffic Light \(prod\. Shingo Suzuki\)](https://open.spotify.com/album/7ilStTWLuncqmFfsumOXLs) | 3:41 | 2026-05-26 |  |
 | [traveling \- Re\-Recording](https://open.spotify.com/track/4WZdUTYAUwMG63GCNA5jtk) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [SCIENCE FICTION](https://open.spotify.com/album/0ZjFSIHLglwavZUgcCboJW) | 5:08 | 2024-07-02 | 2024-12-25 |
 | [Trésor](https://open.spotify.com/track/22rjO66CqqLJcJ0m0Gks9Z) | [Kenny](https://open.spotify.com/artist/3i0SazQig71kiRdJLBkq9p) | [Trésor / Yesterday Once More](https://open.spotify.com/album/44WwN6a4AF7Xbs7bUI4kXH) | 4:32 | 2024-07-26 | 2024-07-31 |
@@ -892,7 +892,7 @@
 | [コズミックランデヴー](https://open.spotify.com/track/2ZRCKkUtZucYkBnescrtvP) | [楓 幸枝](https://open.spotify.com/artist/2VCpkbUqhSU1FmZFmtozdn) | [コズミックランデヴー](https://open.spotify.com/album/0WQ5cbgonaFywVnvmYPDdi) | 3:38 | 2024-07-30 | 2024-08-07 |
 | [コトノハ \- Kotonoha](https://open.spotify.com/track/7Cv5gBtM44IjVhUNMoNG8R) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [コトノハ \- Kotonoha](https://open.spotify.com/album/2Q9DyUG1DCeCiogiVC8jHZ) | 3:59 | 2026-01-14 |  |
 | [コンバート](https://open.spotify.com/track/4rjCBfwLxTk2p3QApO51Uu) | [Seiya Matsumuro](https://open.spotify.com/artist/6iGygjPmoB9TLSjhWHhdqQ) | [コンバート](https://open.spotify.com/album/3FKM8romYmoOCVRF5ChPrg) | 3:52 | 2025-06-03 | 2025-06-12 |
-| [コールドスリープ、愛](https://open.spotify.com/track/3YczdCPUrmBVarUwOOuOmN) | [Chippoke Ohashi](https://open.spotify.com/artist/3QWnDVzCzffmWoYCAGNajE) | [コールドスリープ、愛](https://open.spotify.com/album/50RQXBbDWebvmOzyE5fnsg) | 3:18 | 2026-04-28 | 2026-05-20 |
+| [コールドスリープ、愛](https://open.spotify.com/track/3YczdCPUrmBVarUwOOuOmN) | [Chippoke Ohashi](https://open.spotify.com/artist/3QWnDVzCzffmWoYCAGNajE) | [コールドスリープ、愛](https://open.spotify.com/album/50RQXBbDWebvmOzyE5fnsg) | 3:18 | 2026-04-28 |  |
 | [ゴースト](https://open.spotify.com/track/75Dv13MlhuD5zVeupmIpDa) | [amazarashi](https://open.spotify.com/artist/6T4K8YuFc0JPDrYgABbxao) | [ゴースト](https://open.spotify.com/album/2TpBEh1ws3G929qObZ7jCB) | 6:35 | 2025-04-08 | 2025-06-11 |
 | [サイダー](https://open.spotify.com/track/4qldQ0Fot2ukfuY6FwICR4) | [杉本ラララ](https://open.spotify.com/artist/3MZwzBtJ4Zkl1TZVBYLAYK) | [死ぬとき笑えるように](https://open.spotify.com/album/23EUzDch54zpjiKVY548t9) | 3:12 | 2026-05-13 | 2026-05-20 |
 | [サイレン](https://open.spotify.com/track/3mwSvlHQEFnOUNWOYXudxZ) | [イノイタル](https://open.spotify.com/artist/7CHDas0wVFL1zn76sE0odc) | [サイレン](https://open.spotify.com/album/7ebYxhs2HmorqaeRGBO6qN) | 3:14 | 2026-05-19 | 2026-05-27 |

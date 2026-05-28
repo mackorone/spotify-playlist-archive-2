@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NMUtC3b3gL.md) - [plain]
 
 > beautiful beats for beautiful moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,237 likes - 185 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,278 likes - 185 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -172,7 +172,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NMUtC3b3gL.md) - [plain]
 | 162 | [Night Time Juice](https://open.spotify.com/track/3kTIsPv3KyXkVaRNEOwbfU) | [Breakfast For Brunch](https://open.spotify.com/artist/4qLyv8RotSOSjWze2rJD7O) | [Night Time Juice](https://open.spotify.com/album/3HuQEoR43Ri49c2Los7RHD) | 2:13 |
 | 163 | [Palette](https://open.spotify.com/track/52A1HqtgXF8ZFKTbX7UpFr) | [Mozzie](https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4) | [Palette](https://open.spotify.com/album/0tuhaoSXp16EvvWykkE7fy) | 2:23 |
 | 164 | [Soon](https://open.spotify.com/track/7wv6AvJ9rBaL4QvzDCoLgh) | [azayaka](https://open.spotify.com/artist/6NlDyXtng5iheiZRAzt4NF) | [Soon](https://open.spotify.com/album/4XIUta9isRNIWgG1D56RnG) | 1:51 |
-| 165 | [Poolside](https://open.spotify.com/track/0MAMSYiD7uHZHvAJ3rMmEg) | [Calvin Bennett](https://open.spotify.com/artist/0lseLLxf3jeiML3aTpqo9R), [l'eupe](https://open.spotify.com/artist/67AA1XRZU4GSLZQe83BVk9) | [Poolside](https://open.spotify.com/album/1s0kYn4H9SGeugYEQwrSae) | 2:25 |
+| 165 | [Poolside](https://open.spotify.com/track/0MAMSYiD7uHZHvAJ3rMmEg) | [goodhair](https://open.spotify.com/artist/19JhkEcKxaYDzQj8vrHzjO), [l'eupe](https://open.spotify.com/artist/67AA1XRZU4GSLZQe83BVk9) | [Poolside](https://open.spotify.com/album/1s0kYn4H9SGeugYEQwrSae) | 2:25 |
 | 166 | [WD40](https://open.spotify.com/track/4yI6c77CRidZ8QWqYeB9Ki) | [Matthew Sutton](https://open.spotify.com/artist/2DNQwPsuuR0zsZhuEmRDqM) | [Get Home Safe](https://open.spotify.com/album/5IGYRSXhq9ApUgNyfuWtIz) | 1:39 |
 | 167 | [Ocean view](https://open.spotify.com/track/67KV197aojEW3rNeGj6Vxe) | [SoFo](https://open.spotify.com/artist/2hsvv4SulxVhnoLWtuMxo1) | [Ocean view](https://open.spotify.com/album/19mGPmYIQDX59svRvMjAoB) | 3:15 |
 | 168 | [Quiet Storm](https://open.spotify.com/track/6P7n92qmU1JBcq74p0kW29) | [Pepper](https://open.spotify.com/artist/7wxv15AsqEJNoMmCzkZw9M), [Lola](https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT) | [Quiet Storm](https://open.spotify.com/album/7EZCndbnWFb8T1m52bCN5j) | 2:07 |

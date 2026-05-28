@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,897 songs - 5 day 8 hr 50 min
+1,898 songs - 5 day 8 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [222 / Unknowable](https://open.spotify.com/track/7x9HoCMVQBQ4Au1ChqK5E7) | [G Jones](https://open.spotify.com/artist/0gXx2aQ2mfovDfqCw10MQC) | [The Ineffable Truth](https://open.spotify.com/album/4wcUbqKSiZv4kNoJ3KOmrS) | 2:38 | 2020-05-18 | 2020-07-03 |
 | [3](https://open.spotify.com/track/5d78KwuYI3HOga1P1LQctE) | [Seekae](https://open.spotify.com/artist/4lCsf6uYTVnWSKm99eKkdY) | [+Dome](https://open.spotify.com/album/0kBqNy7j10guDxd86xFXA5) | 3:40 | 2020-05-20 | 2020-10-09 |
 | [3 Days Later](https://open.spotify.com/track/0divWrAf5awgfmCGyWhZ3j) | [Adam Ten](https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S), [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [3 Days Later](https://open.spotify.com/album/5ClUY27aMSWKKIjaP2ybg4) | 5:33 | 2024-09-06 |  |
+| [330x14](https://open.spotify.com/track/78qfZj2HSRWc0NMeg4PDAu) | [Amber Stomp](https://open.spotify.com/artist/5UXTcKe1xNl00TwtbFDn7z) | [330x14 EP](https://open.spotify.com/album/24wON0xCTJaEUWnblqyUuw) | 3:17 | 2026-05-27 |  |
 | [5am](https://open.spotify.com/track/15OVDVrLMRIZsqnT0Kkhgg) | [Massane](https://open.spotify.com/artist/0cjvrTtv350Ls87eGY80iz) | [Another Dawn](https://open.spotify.com/album/3SNNjZhX66AIm6ZNP7RKRv) | 3:15 | 2022-01-21 | 2022-07-29 |
 | [7am](https://open.spotify.com/track/5xGvJSpOF8B2rQut3nP7Mz) | [Tobias Bergson](https://open.spotify.com/artist/0OaBO8SytZzvzAO3NOWiv3) | [7am](https://open.spotify.com/album/3GdXyCHfKb6dWiIqwHDfO6) | 2:54 | 2020-05-22 | 2022-06-01 |
 | [8 Hours, Still No Rain](https://open.spotify.com/track/7u3tmftMEaOYqYE6fUnNmX) | [Hosini](https://open.spotify.com/artist/3DQ7WGIfJ4z4aQzNE1bNFF), [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [8 Hours, Still No Rain EP](https://open.spotify.com/album/0BOaheOSk6cpvXPm3spOx0) | 3:02 | 2020-11-03 | 2022-12-29 |
@@ -1474,7 +1475,7 @@
 | [Silhouette](https://open.spotify.com/track/5XflWKyyLrg3HlvjlDn6Rk) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo), [Sansa](https://open.spotify.com/artist/5ghRItoYhcGjBtH8xSGCC9) | [Silhouette](https://open.spotify.com/album/6G0qk1KLeqf5L9deBa6uo8) | 3:33 | 2022-07-01 | 2022-12-29 |
 | [Silk Jam](https://open.spotify.com/track/2ifyrAZtTrGbwsq2bmFGsE) | [Louis Futon](https://open.spotify.com/artist/79ffq2PHS5TDmgnHhAyudW) | [Way Back When](https://open.spotify.com/album/1zEasMkKYtGp0R8y85qYWa) | 2:50 | 2022-07-01 | 2022-07-30 |
 | [Silk Jam](https://open.spotify.com/track/6V5hRLs94gOseTsZvivYe1) | [Louis Futon](https://open.spotify.com/artist/79ffq2PHS5TDmgnHhAyudW) | [Way Back When](https://open.spotify.com/album/1vG0Zb57rQUPnujHmog4aF) | 2:50 | 2020-03-17 | 2022-04-20 |
-| [Silver Lines](https://open.spotify.com/track/03ZAkPbN9kT1tKJKO8fnt3) | [Sinca](https://open.spotify.com/artist/5TjfRHDPGSphgwJaiGauqT) | [Silver Lines](https://open.spotify.com/album/5pRtDqM9wXxbUvoxvuERGQ) | 3:42 | 2025-02-28 |  |
+| [Silver Lines](https://open.spotify.com/track/03ZAkPbN9kT1tKJKO8fnt3) | [Sinca](https://open.spotify.com/artist/5TjfRHDPGSphgwJaiGauqT) | [Silver Lines](https://open.spotify.com/album/5pRtDqM9wXxbUvoxvuERGQ) | 3:42 | 2025-02-28 | 2026-05-28 |
 | [Silverlight](https://open.spotify.com/track/1R8qJRSmyAbEew2mtPQFJo) | [Rules](https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA) | [Silverlight](https://open.spotify.com/album/5vpDjbRlku61UAeFzqm09E) | 3:20 | 2025-11-07 | 2025-12-20 |
 | [Simpatico](https://open.spotify.com/track/0K9pSksQRifXqaybdAIZtQ) | [Chris Malinchak](https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih) | [Photograph EP](https://open.spotify.com/album/7L4Gq7fzGcWT5LNaR1rMri) | 4:24 | 2020-03-20 | 2021-03-06 |
 | [Simple Hit](https://open.spotify.com/track/0C3QADQBYFjcSeU8bY7Oex) | [Dombresky](https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN) | [Simple Hit](https://open.spotify.com/album/4cNRNpj5a81e2iF5cIb1n5) | 3:39 | 2020-03-21 | 2020-10-09 |

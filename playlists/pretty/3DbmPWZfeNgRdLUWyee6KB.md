@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,312 likes - 183 songs - 10 hr 52 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,313 likes - 192 songs - 11 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -191,5 +191,14 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 181 | [Vollgasliebe \- Radio Edit](https://open.spotify.com/track/5xy4fW5f6OYzX5ju4JCHMm) | [SOUTHDOGROCK](https://open.spotify.com/artist/75YwHvnDPylgINOig25YhA) | [Vollgasliebe \(Radio Edit\)](https://open.spotify.com/album/6n8pcD8D1WPVYtHtT3Ibip) | 3:51 |
 | 182 | [Wasted](https://open.spotify.com/track/7bMFnhweGI4LXrdeqgPQHX) | [Ludwig Jonsson](https://open.spotify.com/artist/6pWJeM6v6cLKjblDNWYNdx) | [Wasted](https://open.spotify.com/album/5lMCclH2lhpNpLABYIsNnK) | 3:42 |
 | 183 | [Paper Crown](https://open.spotify.com/track/01LrJl6lx46YyYuCOru9hu) | [Woytinek AI Music](https://open.spotify.com/artist/6klSDm3TJW4K2iJgXhOShO) | [Paper Crown](https://open.spotify.com/album/3s25WkNElrzbzhIzNVZeYa) | 3:47 |
+| 184 | [WOOF\-WOOF My Truest Friend](https://open.spotify.com/track/1Oa9mVDXZ71lxPEmOoUrXA) | [Crazy Trottles](https://open.spotify.com/artist/6N3TSJcbEEqiHeiv6qqFxz) | [WOOF\-WOOF My Truest Friend](https://open.spotify.com/album/2o9wG2ZkdWwEkuXo2F8IAD) | 2:24 |
+| 185 | [STAY](https://open.spotify.com/track/2UmPJzhl1hzMVglunWdXj7) | [Mizumi Hanako](https://open.spotify.com/artist/0YIaBn2xawhZU41y6Qw8Ni) | [STAY](https://open.spotify.com/album/3ghZ2pfaJopEulfq0zcmD6) | 2:21 |
+| 186 | [The Echo Before Silence](https://open.spotify.com/track/3mRYyAVrQMvJ7jMV9IOjbC) | [RobbaDucky](https://open.spotify.com/artist/5vtsB8HiuKkRFCupJmw90I) | [The Echo Before Silence](https://open.spotify.com/album/7hzqu2YIVcSoWESFu7MZuS) | 3:04 |
+| 187 | [Chemical](https://open.spotify.com/track/5XxXvHmjkXtJHqNykytLE1) | [JUMPP MUSIC](https://open.spotify.com/artist/6sopoAUpLIbZzRQ1bQtgoJ) | [Chemical](https://open.spotify.com/album/2dcxhcMzXkp4dWpmuInz06) | 3:15 |
+| 188 | [Pink Harmonie](https://open.spotify.com/track/6ORBa7ahuoNpXF9RCDELtM) | [Dominique Swerts](https://open.spotify.com/artist/38JCflyUOnNkNJKJU7D9CE) | [No Rush](https://open.spotify.com/album/0aDtHXEXNUtCjpHBbS8BR5) | 4:10 |
+| 189 | [Remember](https://open.spotify.com/track/0u424XgnRabyvutUeLRNkz) | [Marc Ocram](https://open.spotify.com/artist/6nIiuaM9vwePMOtklXfagK) | [Remember](https://open.spotify.com/album/6RqaoM6HWeQ3cNgPTX3HAE) | 6:08 |
+| 190 | [Una Volta Sola](https://open.spotify.com/track/3bJeBzbGUQfTEyAyeYQtKV) | [Cabi Jr](https://open.spotify.com/artist/2bDwLhQgYUDqaqSOobCPh2) | [Una Volta Sola](https://open.spotify.com/album/09KVL9lKEndRLy72CL0f4I) | 2:47 |
+| 191 | [Above the Clouds](https://open.spotify.com/track/0dYML7ZLo5mPXJozCYXzuu) | [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [I Keep Standing Above the Clouds](https://open.spotify.com/album/0qIKPUfjZ7EJ1d8G7URaZc) | 3:07 |
+| 192 | [Nadie se siente como yo](https://open.spotify.com/track/7lnOOd1whrxVP2qcAmKzH5) | [Raúl Cabo](https://open.spotify.com/artist/5A0xF7wdd6jdeirVtqjvF2) | [Nadie se siente como yo](https://open.spotify.com/album/7MEjMYDMcC0rBU3szAxuCj) | 3:32 |
 
-Snapshot ID: `AAAUYRc/EBeP056XJdme67+GiAnCAykt`
+Snapshot ID: `AAAUahPzjWj0g+ghrrGwAi1gYBCAQAYW`

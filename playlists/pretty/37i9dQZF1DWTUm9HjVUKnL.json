@@ -1,13 +1,45 @@
 {
   "description": "The full collection of Spotify Singles recordings. Cover: Mack Keane",
-  "num_followers": 239992,
+  "num_followers": 239999,
   "original_name": "Spotify Singles: Complete Collection",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPLqWj/cVHqtSNgavA1Qsq8V6G4w",
+  "snapshot_id": "AAAAAKb7dGTBdg59dTUXPT6YCyb1v6Az",
   "tracks": [
+    {
+      "added_at": "2026-05-27 16:43:43",
+      "album": {
+        "name": "Get It Together - Spotify Singles",
+        "url": "https://open.spotify.com/album/7wymyEC1XBcanHDS6c1kKb"
+      },
+      "artists": [
+        {
+          "name": "Karri",
+          "url": "https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME"
+        }
+      ],
+      "duration_ms": 171962,
+      "name": "Get It Together - Spotify Singles",
+      "url": "https://open.spotify.com/track/233GEAp3FyJCovl4x5VIUi"
+    },
+    {
+      "added_at": "2026-05-27 16:43:43",
+      "album": {
+        "name": "Can't Get You Out of My Head - Spotify Singles",
+        "url": "https://open.spotify.com/album/6ynUBc9yQ4pq7kImTMdOql"
+      },
+      "artists": [
+        {
+          "name": "Mikayla Geier",
+          "url": "https://open.spotify.com/artist/3L7svRFWE5kcIReq1uwC5J"
+        }
+      ],
+      "duration_ms": 178733,
+      "name": "Can't Get You Out of My Head - Spotify Singles",
+      "url": "https://open.spotify.com/track/6j4kyvjM60Te1mU0H2LTwR"
+    },
     {
       "added_at": "2026-03-05 20:08:28",
       "album": {

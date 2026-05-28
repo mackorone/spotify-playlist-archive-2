@@ -6,7 +6,7 @@
     "name": "Ultra Records",
     "url": "https://open.spotify.com/user/ultramusicofficial"
   },
-  "snapshot_id": "AAALCweQcdbJilzUd+zairVjf9n3d/Od",
+  "snapshot_id": "AAALDU8y5dCAmkJZF8rI+AcxqitQWFPr",
   "tracks": [
     {
       "added_at": "2025-06-10 12:37:11",
@@ -51,6 +51,26 @@
       "duration_ms": 156363,
       "name": "Funky Beat (feat. Chuck D)",
       "url": "https://open.spotify.com/track/5cIV5cbhIjmotHAx0zDCbj"
+    },
+    {
+      "added_at": "2026-05-27 07:37:00",
+      "album": {
+        "name": "Flavour",
+        "url": "https://open.spotify.com/album/4DyhMQVt6szbaAhPALqQuS"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Still Val",
+          "url": "https://open.spotify.com/artist/3tj0d2eJ9fDFZKgX4A5O6o"
+        }
+      ],
+      "duration_ms": 142663,
+      "name": "Flavour",
+      "url": "https://open.spotify.com/track/7bwgaNWKxWt1lBwrZ37gJ7"
     },
     {
       "added_at": "2025-12-09 20:38:19",

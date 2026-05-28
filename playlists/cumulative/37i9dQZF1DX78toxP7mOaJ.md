@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Rock](https://open.spotify.com/playlist/37i9dQZF1DX78toxP7mOaJ)
 
-> Fresh rock & alternative from independent artists every Wednesday\. Cover: casi
+> Fresh rock & alternative from independent artists every Wednesday\. Cover: Lina\-Mariah
 
-2,342 songs - 5 day 9 hr 36 min
+2,345 songs - 5 day 9 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1027,7 +1027,7 @@
 | [I Don't Give a Shit](https://open.spotify.com/track/1ZrByYhoip5QsQNIsvWe6m) | [Johnnie Carwash](https://open.spotify.com/artist/6QrdWAI9FMyVqBIKcecUD0) | [Teenage Ends](https://open.spotify.com/album/7FBVCv9M810doLRGXVvRrj) | 2:15 | 2022-02-02 | 2022-03-04 |
 | [I Don't Know You Like I Used To](https://open.spotify.com/track/7w6jP8Me8FrF4aeOrTiNRl) | [Mercury.](https://open.spotify.com/artist/0MaDtBu4Hw0qLH95poDSCk) | [I Don't Know You Like I Used To](https://open.spotify.com/album/5e3OhB22RlQvlupARyzRzK) | 4:19 | 2022-03-09 | 2023-01-12 |
 | [I Don't Talk To Boys That Make Me Cry](https://open.spotify.com/track/0QJHqtOJJ3TbxgTK6hi21r) | [Penny Lame](https://open.spotify.com/artist/5le4s6muS7AkzVpI8JU7n4) | [I Don't Talk To Boys That Make Me Cry](https://open.spotify.com/album/4zU666UjbEPi7rkZPL39GJ) | 2:47 | 2022-02-23 | 2022-04-07 |
-| [I Don't Wanna Go!](https://open.spotify.com/track/27FgGNuuHsFs84Gzhhs1x0) | [Lina\-Mariah](https://open.spotify.com/artist/3oCoTG5YGC6Z8cqH942oav) | [I Don't Wanna Go!](https://open.spotify.com/album/11vz5r57TsCFxG5QGy0585) | 2:39 | 2026-04-22 |  |
+| [I Don't Wanna Go!](https://open.spotify.com/track/27FgGNuuHsFs84Gzhhs1x0) | [Lina\-Mariah](https://open.spotify.com/artist/3oCoTG5YGC6Z8cqH942oav) | [I Don't Wanna Go!](https://open.spotify.com/album/11vz5r57TsCFxG5QGy0585) | 2:39 | 2026-04-22 | 2026-05-28 |
 | [I Got Exactly What I Wanted](https://open.spotify.com/track/09FLigvepMuPrheurqSp2G) | [The Convenience](https://open.spotify.com/artist/2PKfkrNktahdkVFB47NjGv) | [I Got Exactly What I Wanted](https://open.spotify.com/album/43HUBMTsMmGmKaMMeefd5O) | 2:56 | 2025-01-15 | 2025-04-10 |
 | [I Got Exactly What I Wanted](https://open.spotify.com/track/63uZZwgdjJPyFKD5fuHzW2) | [The Convenience](https://open.spotify.com/artist/2PKfkrNktahdkVFB47NjGv) | [Like Cartoon Vampires](https://open.spotify.com/album/2A2py4eAMFQCUdvuY22Bum) | 2:56 | 2025-04-23 | 2026-02-19 |
 | [i got what i asked for](https://open.spotify.com/track/73zlBhD7TDSIFrmcdUYoH3) | [Wilby](https://open.spotify.com/artist/1Y6ECsGp8e5NR3v88UBIPT) | [i got what i asked for](https://open.spotify.com/album/7uHrq6RsMnfWJOkgwGoftj) | 3:11 | 2022-09-21 | 2023-01-12 |
@@ -1350,7 +1350,7 @@
 | [Mind's a Lie](https://open.spotify.com/track/5BypykbT4N0dRhjTbXwxBE) | [High Vis](https://open.spotify.com/artist/4Gmrt82h2vjGjnp67SG5Nw) | [Guided Tour](https://open.spotify.com/album/7FHW0Fj8a6V7gAJfPxfO2X) | 4:46 | 2024-12-04 | 2026-01-15 |
 | [Miracle Drug](https://open.spotify.com/track/1YPj6me3zqn1uvevAquXq4) | [Draag](https://open.spotify.com/artist/7fKByRicmiWrFBEn90MvuM) | [Miracle Drug](https://open.spotify.com/album/4023iP3TKnG54OKYijddli) | 4:27 | 2026-01-14 | 2026-03-05 |
 | [Mirror](https://open.spotify.com/track/7HzgPKJ8zmoCBe8c9J3Tpv) | [Glom](https://open.spotify.com/artist/0OY528sf5HGsPB2xi8BJ4H) | [Mirror](https://open.spotify.com/album/4pZavl9FM1iz2DLe7Sio2C) | 2:59 | 2025-10-08 | 2025-12-04 |
-| [Mirror Image](https://open.spotify.com/track/1V0fZ1kR1zAX4yHJo58PNb) | [Sub\*T](https://open.spotify.com/artist/4H6bWl7zQw3hrvEpstjLt3) | [Mirror Image](https://open.spotify.com/album/25Ad0bq3VpuYUk9L891zwp) | 4:26 | 2026-04-22 |  |
+| [Mirror Image](https://open.spotify.com/track/1V0fZ1kR1zAX4yHJo58PNb) | [Sub\*T](https://open.spotify.com/artist/4H6bWl7zQw3hrvEpstjLt3) | [Mirror Image](https://open.spotify.com/album/25Ad0bq3VpuYUk9L891zwp) | 4:26 | 2026-04-22 | 2026-05-28 |
 | [Mirror World](https://open.spotify.com/track/6Z0you2CeONZMMd5aOYqyS) | [Poptones](https://open.spotify.com/artist/2a3PDuoSf6R792rIJcXI9i), [Victor Kaas](https://open.spotify.com/artist/174JqW839j5ejDAAPPhqm3) | [Mirror World](https://open.spotify.com/album/6yCDqvzkbKo7kOQ7eCpixT) | 3:48 | 2025-09-10 | 2025-12-04 |
 | [Miss Behavior](https://open.spotify.com/track/4rfUnV1oRaHuN5BwwY83PG) | [Venus & the Flytraps](https://open.spotify.com/artist/0p1Rswnjvt7KFNFTYXNmWF) | [Miss Behavior](https://open.spotify.com/album/6RwTYEfp9FamdJrFDaOVQJ) | 4:06 | 2025-10-08 | 2025-12-04 |
 | [miss melancholy](https://open.spotify.com/track/2GHQimEGRvo0OSyvqLIf8d) | [Evan Fong](https://open.spotify.com/artist/74pDNLCBUxYeDepGvZP2KP) | [miss melancholy](https://open.spotify.com/album/68wM3sjcRJM0W4o3QRJrTX) | 3:09 | 2025-04-02 | 2025-06-05 |
@@ -1531,6 +1531,7 @@
 | [Outside](https://open.spotify.com/track/5Po30QxzWYQDtYEAIvV2Gp) | [Jawdropped](https://open.spotify.com/artist/6AxlwzQp9748SDpdoSjqQa) | [Outside](https://open.spotify.com/album/1L23NosXYspk9wlrti0Pd4) | 4:34 | 2025-04-23 | 2025-06-12 |
 | [outside](https://open.spotify.com/track/075xsxMKbBSNSVKeql5XzM) | [swim school](https://open.spotify.com/artist/7hC74DRW4q3obXLB5lTq4F) | [outside](https://open.spotify.com/album/4xsa0UEhYLzOwN6aOzPVc2) | 3:04 | 2021-12-01 | 2022-03-04 |
 | [Outside 45](https://open.spotify.com/track/4dJc1lz37lnBI0iDtPY6iU) | [The Takes](https://open.spotify.com/artist/22CxvQCHRWjDdy0nco4nch) | [Lay Hold](https://open.spotify.com/album/0hDYTPP7b8V7p6ISljCF3M) | 3:30 | 2024-06-05 | 2024-08-29 |
+| [Outside Looking In](https://open.spotify.com/track/16fC9u5rAOIAtu480m9niw) | [School Fair](https://open.spotify.com/artist/2QPVdwHQoGwMiWEDHT8HF7) | [Unexpected Violence](https://open.spotify.com/album/218ocNVkMKsrahZGNHP5sJ) | 3:31 | 2026-05-27 |  |
 | [outsider](https://open.spotify.com/track/15hKAxyO4NjLcyVH2UeiDv) | [naya mö](https://open.spotify.com/artist/4YYr2nmnZ2rKlcUh7aroZi) | [outsider](https://open.spotify.com/album/5mYrCk5fDhKwIQFW67MlFD) | 2:01 | 2025-01-22 | 2025-04-24 |
 | [Outta My Head](https://open.spotify.com/track/2dMNciITsFnBIb78bMRIoy) | [Bad Moves](https://open.spotify.com/artist/3d93jQ6vfQHLJSMbjr7o6M) | [Outta My Head](https://open.spotify.com/album/67018bqrKM8KOcIsl83ZJf) | 3:01 | 2024-08-28 | 2025-02-06 |
 | [Outta My Mind](https://open.spotify.com/track/20Xj7F8TKGEmDbAsbVGmav) | [chlothegod](https://open.spotify.com/artist/10YC7gfEVGGez94KMAJoLx) | [Outta My Mind](https://open.spotify.com/album/0zFmBki2eFR3QZEgqKZHdd) | 2:45 | 2023-06-21 | 2024-01-11 |
@@ -1581,7 +1582,7 @@
 | [Phone Lines Down](https://open.spotify.com/track/3TpY23G5tVTl1DHZJJ86Qi) | [Spiritual Cramp](https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj) | [Nah, That Ain't It / Phone Lines Down](https://open.spotify.com/album/5P8RoauK1TQ6v2XUq3bL7P) | 2:03 | 2023-08-02 | 2023-08-31 |
 | [Pickles](https://open.spotify.com/track/650TMfLZY2yMvYXlCY7kup) | [Foyer Red](https://open.spotify.com/artist/5wKmTXJpyfGPogzkoyrfGF) | [Pickles](https://open.spotify.com/album/2eXBMvHUDIx8NNJi1XZS0h) | 3:54 | 2022-08-03 | 2022-10-27 |
 | [PickUp](https://open.spotify.com/track/2CebJt9FBhzESXlZMpnOwh) | [Lily Piette](https://open.spotify.com/artist/2GrBTt3ZEf7G9lPdHUZcL8) | [PickUp](https://open.spotify.com/album/2jeO577FdlvkFlPmXsjCEE) | 2:38 | 2025-06-18 | 2025-09-25 |
-| [Picto](https://open.spotify.com/track/4WcvzX139qMLYTlPcCUoAn) | [Ulrika Spacek](https://open.spotify.com/artist/07vC6cutbett8UknXnqxsu) | [Picto](https://open.spotify.com/album/3HF6TUNZTfQ9Sv6lprcVfN) | 5:09 | 2026-01-21 |  |
+| [Picto](https://open.spotify.com/track/4WcvzX139qMLYTlPcCUoAn) | [Ulrika Spacek](https://open.spotify.com/artist/07vC6cutbett8UknXnqxsu) | [Picto](https://open.spotify.com/album/3HF6TUNZTfQ9Sv6lprcVfN) | 5:09 | 2026-01-21 | 2026-05-28 |
 | [Pieces](https://open.spotify.com/track/3jwReFQ1Hmt2WNSqdSEIA7) | [FLAKE](https://open.spotify.com/artist/1Wa1fIdJf5bscEK7XjnBIU) | [Pieces](https://open.spotify.com/album/4bCLxCrBKmWHDVWZgA7htU) | 3:08 | 2023-03-08 | 2023-03-30 |
 | [pieces](https://open.spotify.com/track/0TYYCO93FESiUlTanVH9pX) | [thistle.](https://open.spotify.com/artist/4dPHAp5JXnj8HkY71hWVj5) | [pieces](https://open.spotify.com/album/0HtKs3fzUYPQIjA0kXsCDk) | 3:22 | 2026-02-25 |  |
 | [Pining](https://open.spotify.com/track/44lic0pdQEEWdttQ3QtBjZ) | [Doctor Duck](https://open.spotify.com/artist/6RtzZVAYUU678EDDZ9Xxt5) | [Pining](https://open.spotify.com/album/66dsEPX0prXcPlYA645NiJ) | 3:39 | 2023-04-19 | 2023-05-18 |
@@ -1985,6 +1986,7 @@
 | [Swamped](https://open.spotify.com/track/58TNAizQRjprUNUE0QWB87) | [dust](https://open.spotify.com/artist/1QcbaOVrpo91k6rHnzhMeA) | [Sky is Falling](https://open.spotify.com/album/2Ji3HEhRwkQiSNgDki2mY2) | 3:17 | 2025-10-15 | 2025-12-04 |
 | [Swarm the Hive Mind](https://open.spotify.com/track/5jVvOLyhniE3BW5uyhTr82) | [mercury](https://open.spotify.com/artist/0MaDtBu4Hw0qLH95poDSCk) | [Swarm the Hive Mind](https://open.spotify.com/album/3b9IYSlSWPHFHZovYo9TBH) | 3:49 | 2024-12-04 | 2025-01-16 |
 | [Sweet Spot](https://open.spotify.com/track/63Qij63nda9bW8xlNBWTdH) | [Shoreline](https://open.spotify.com/artist/7xEYYE03vzoSMyC2AVRnD0) | [Sweet Spot](https://open.spotify.com/album/6viagaceTb3j1WujffjlAa) | 3:44 | 2026-01-14 | 2026-04-09 |
+| [Swimming](https://open.spotify.com/track/2S0pu11hiDpyxvapmxZbvW) | [Growing Pains](https://open.spotify.com/artist/7gs3Tf4aBE9fD2bS9TzoGc) | [Swimming](https://open.spotify.com/album/43HPezMT31iXB1IoX6ZGkN) | 3:03 | 2026-05-27 |  |
 | [Swiss Army Girl](https://open.spotify.com/track/7JSamSm9Cc2jpliX5jkDR1) | [Venus & the Flytraps](https://open.spotify.com/artist/0p1Rswnjvt7KFNFTYXNmWF) | [Swiss Army Girl](https://open.spotify.com/album/5eHuvPq3RTMokw2qOBxPHY) | 2:29 | 2025-08-27 | 2025-10-09 |
 | [sycophant](https://open.spotify.com/track/09Am9PoKF5IGHrPy95t7Hb) | [Wet World](https://open.spotify.com/artist/2oPV90oeIctzVCsPqpCgko) | [sycophant](https://open.spotify.com/album/3CZAPVV4buBpBXHFRNzDaT) | 2:09 | 2025-06-04 | 2026-02-05 |
 | [Syd Sweeney](https://open.spotify.com/track/0SISKQTARRfDQaIfPpjVQV) | [Smut](https://open.spotify.com/artist/5ojcEAg9JjIhUdIjC8y5GF) | [Syd Sweeney](https://open.spotify.com/album/4OxiGGc6yjeHEb4QexOFro) | 4:38 | 2025-04-09 | 2025-07-03 |
@@ -2251,6 +2253,7 @@
 | [What You Want](https://open.spotify.com/track/1ZzyrvexReTUvK0Izt9j1Q) | [OH! Daisy](https://open.spotify.com/artist/4vHTaAnr8RGRXrjpIBatOQ) | [It's Okay I'm Ugly Too](https://open.spotify.com/album/0skjYnNBwbhhElncApB11W) | 3:42 | 2025-10-29 | 2026-01-15 |
 | [What's On My Mind?](https://open.spotify.com/track/0ygPeXlJQsPcWXxFOlKaPg) | [Joshua Grant](https://open.spotify.com/artist/1hBGtBGjmVvxqPUL7rrW7Y) | [What's On My Mind?](https://open.spotify.com/album/2QX1SHSSzOKMMziWFzM4Jt) | 3:41 | 2022-01-26 | 2022-03-31 |
 | [What's The Point In Life](https://open.spotify.com/track/18BRLFiAfy2GFQlVF62CFg) | [Coach Party](https://open.spotify.com/artist/4trP4C2bZ0TqMUxw0tLRAZ) | [What's The Point In Life](https://open.spotify.com/album/4rUczOIIrnjN06ezLBgt9l) | 2:18 | 2023-07-19 | 2024-01-11 |
+| [Whatever](https://open.spotify.com/track/3wUqbA1hc4bu2R0KiM0TTi) | [Lina\-Mariah](https://open.spotify.com/artist/3oCoTG5YGC6Z8cqH942oav) | [Whatever](https://open.spotify.com/album/1BaR0QSNMtVK3mn0fIyDlt) | 2:48 | 2026-05-27 |  |
 | [Whatever Happens](https://open.spotify.com/track/5c30SpdkrHQJA491SMbdQn) | [Mint Green](https://open.spotify.com/artist/5ivuVlLA09RcBnLFkOza7C) | [All Girls Go to Heaven](https://open.spotify.com/album/0dU3VxFjynVOH4jjv7CySV) | 2:53 | 2022-06-15 | 2022-07-21 |
 | [Whatever It Is](https://open.spotify.com/track/6iOLT5isHZceiRgfv6Yj7U) | [Strawberry Pom](https://open.spotify.com/artist/04Ayq7Vd6Ihp3QSHmHFZa6) | [Whatever It Is](https://open.spotify.com/album/4QW4HXVOUul3zvIvEeWZUv) | 4:08 | 2022-08-24 | 2023-01-12 |
 | [Wheel](https://open.spotify.com/track/1PhPDcq9AYC1Oq2lo2jmIJ) | [Living Hour](https://open.spotify.com/artist/2Ho3J07GaGcCl2ePXnjEia) | [Wheel](https://open.spotify.com/album/6FtH0WdDkbrNjy5ruQm84T) | 2:27 | 2025-07-23 | 2025-12-04 |

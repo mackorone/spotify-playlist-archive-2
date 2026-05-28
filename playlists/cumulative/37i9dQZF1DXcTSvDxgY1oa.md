@@ -2,7 +2,7 @@
 
 ### [Popronde 2026](https://open.spotify.com/playlist/37i9dQZF1DXcTSvDxgY1oa)
 
-> Popronde is een jaarlijks reizend festival in NL met de grootste talenten\. Cover: Igor
+> Popronde is een jaarlijks reizend festival in NL met de grootste talenten\. Cover: Gilly
 
 369 songs - 19 hr 58 min
 

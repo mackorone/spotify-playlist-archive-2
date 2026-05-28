@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzZlRWgqAGH.md) - [plain]
 
 > Glenn Lewis and music for your soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 842,410 likes - 80 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 842,413 likes - 80 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzZlRWgqAGH.md) - [plain]
 | 25 | [MI MORENA](https://open.spotify.com/track/5PBHhKfU8MC5TOsspdIB7J) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic) | [JIGI JIGI Vol\. 1](https://open.spotify.com/album/7cpno4aB2sb99vle51bbIh) | 3:38 |
 | 26 | [Friends Again](https://open.spotify.com/track/4Ngjl2bK9B4iQI98DBano0) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Friends Again](https://open.spotify.com/album/6LNPtTCwhVh1GIQboI1isu) | 3:38 |
 | 27 | [Talk To Me \(feat\. Haviah Mighty\)](https://open.spotify.com/track/43Gd6pEuO7k7jOONcwiRfR) | [Molly Johnson](https://open.spotify.com/artist/0OhbmRARz9nrChla8W2OGU), [Haviah Mighty](https://open.spotify.com/artist/3UROQ34SGxV7h71Z3Gqp8u) | [Long Time Running EP](https://open.spotify.com/album/1jhv9k3iorVzdZ5I6ahTlm) | 3:47 |
-| 28 | [elsewhere](https://open.spotify.com/track/4S56Igb4jNtyRs2ckvKSpO) | [aja monet](https://open.spotify.com/artist/6dclGxWbiv1ScMQwT5INQF), [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj), [Georgia Anne Muldrow](https://open.spotify.com/artist/2RdnkH5txHb9c4vGwq0I31) | [elsewhere](https://open.spotify.com/album/0rNzYCP7UGy2n5vH4NRcbQ) | 4:48 |
+| 28 | [elsewhere](https://open.spotify.com/track/4S56Igb4jNtyRs2ckvKSpO) | [aja monet](https://open.spotify.com/artist/6dclGxWbiv1ScMQwT5INQF), [Georgia Anne Muldrow](https://open.spotify.com/artist/2RdnkH5txHb9c4vGwq0I31), [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj) | [elsewhere](https://open.spotify.com/album/0rNzYCP7UGy2n5vH4NRcbQ) | 4:48 |
 | 29 | [Perspective of Purpose \(feat\. Keyon Harrold\)](https://open.spotify.com/track/4fC4pkTrE2HwVdcM69JvXL) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Marcus Gilmore](https://open.spotify.com/artist/1caVPl46Ta6C8DYns5AAuo), [Keyon Harrold](https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA) | [PURPOSE](https://open.spotify.com/album/7LJAcx38gw1YCNPnH7SOO9) | 3:15 |
 | 30 | [She Knows Too Much](https://open.spotify.com/track/7c5JxJWGMJqG0IYABA04WS) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [She Knows Too Much](https://open.spotify.com/album/2WMCxpz3fhohhgz2BCZxmZ) | 3:33 |
 | 31 | [Move \(feat\. Lucky Daye\)](https://open.spotify.com/track/2TkUALJxL9NGx38AIGGquG) | [Tank and The Bangas](https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Move](https://open.spotify.com/album/1BCPjUqJvqEOkF5b7hKULR) | 2:52 |

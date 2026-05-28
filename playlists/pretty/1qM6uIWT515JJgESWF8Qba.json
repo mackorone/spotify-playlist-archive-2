@@ -1,12 +1,12 @@
 {
   "description": "It&#x27;s 5 o&#x27;clock somewhere and best believe there&#x27;s a local band there ready to rock when the sun goes down.",
-  "num_followers": 451,
+  "num_followers": 452,
   "original_name": "Local Rock Bands",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAABxeQ+ZsJWY17MSxJfbiJGmeHLah7S",
+  "snapshot_id": "AAABxqQj3SdBR0kHJ8IZOV2dbUnl14Yv",
   "tracks": [
     {
       "added_at": "2025-09-16 13:19:37",
@@ -891,6 +891,22 @@
       "duration_ms": 267554,
       "name": "Bad Penny",
       "url": "https://open.spotify.com/track/5VJLnfXSib5ZcoQD4ugJuS"
+    },
+    {
+      "added_at": "2026-05-27 23:01:49",
+      "album": {
+        "name": "Higher Planes",
+        "url": "https://open.spotify.com/album/2kVWUkqMYdQ9C9Lrc5YjNy"
+      },
+      "artists": [
+        {
+          "name": "If by Whiskey",
+          "url": "https://open.spotify.com/artist/2BN3IyVjJZIgTjYeK2FEu5"
+        }
+      ],
+      "duration_ms": 226583,
+      "name": "It's Alright Amanda",
+      "url": "https://open.spotify.com/track/5RwAIUjjWxrZGvDVcecyPb"
     }
   ],
   "unique_name": "Local Rock Bands",

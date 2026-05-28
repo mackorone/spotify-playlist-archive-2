@@ -1,12 +1,12 @@
 {
   "description": "This is LUDMILLA. The essential tracks, all in one playlist.",
-  "num_followers": 307065,
+  "num_followers": 307054,
   "original_name": "This Is LUDMILLA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahORAAAAAADJaxY7Hcc2ayI5gX2tesVx",
+  "snapshot_id": "ahTigAAAAAClOoOS0ikM+M1TQrM9ZlB/",
   "tracks": [
     {
       "added_at": null,
@@ -131,22 +131,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Saudade da Gente (Ao Vivo na Resenha Pagode e Chinelo)",
-        "url": "https://open.spotify.com/album/39IY5gyzMAY6N8ufNZKP93"
+        "name": "No_se_ve.mp3",
+        "url": "https://open.spotify.com/album/7sAPapzxqBhYuDe7OxldCN"
       },
       "artists": [
         {
-          "name": "Grupo BalacoBaco",
-          "url": "https://open.spotify.com/artist/3rPWjTxht8F3lTQpEUn8gJ"
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
         },
         {
           "name": "LUDMILLA",
           "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "ZECCA",
+          "url": "https://open.spotify.com/artist/2Yia9CwtgcrsN5kVOQ0qRA"
         }
       ],
-      "duration_ms": 167256,
-      "name": "Saudade da Gente (Ao Vivo na Resenha Pagode e Chinelo)",
-      "url": "https://open.spotify.com/track/0SzZVQw0tEazwNko6bdKwS"
+      "duration_ms": 203636,
+      "name": "No_se_ve.mp3",
+      "url": "https://open.spotify.com/track/2iIBpwP4FyQ95xgVail3yr"
     },
     {
       "added_at": null,
@@ -171,26 +175,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "No_se_ve.mp3",
-        "url": "https://open.spotify.com/album/7sAPapzxqBhYuDe7OxldCN"
+        "name": "Saudade da Gente (Ao Vivo na Resenha Pagode e Chinelo)",
+        "url": "https://open.spotify.com/album/39IY5gyzMAY6N8ufNZKP93"
       },
       "artists": [
         {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+          "name": "Grupo BalacoBaco",
+          "url": "https://open.spotify.com/artist/3rPWjTxht8F3lTQpEUn8gJ"
         },
         {
           "name": "LUDMILLA",
           "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        },
-        {
-          "name": "ZECCA",
-          "url": "https://open.spotify.com/artist/2Yia9CwtgcrsN5kVOQ0qRA"
         }
       ],
-      "duration_ms": 203636,
-      "name": "No_se_ve.mp3",
-      "url": "https://open.spotify.com/track/2iIBpwP4FyQ95xgVail3yr"
+      "duration_ms": 167256,
+      "name": "Saudade da Gente (Ao Vivo na Resenha Pagode e Chinelo)",
+      "url": "https://open.spotify.com/track/0SzZVQw0tEazwNko6bdKwS"
     },
     {
       "added_at": null,
@@ -347,26 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Prazer, eu sou Ferrugem (Ao vivo)",
-        "url": "https://open.spotify.com/album/3SkOXrdSri5EIpDpUvfdm3"
-      },
-      "artists": [
-        {
-          "name": "Ferrugem",
-          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
-        },
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 233637,
-      "name": "Paci\u00eancia (Participa\u00e7\u00e3o especial de Ludmilla) - Ao vivo",
-      "url": "https://open.spotify.com/track/3jHsNUej99xBE7TX3fg1xD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Poesia Ac\u00fastica",
         "url": "https://open.spotify.com/album/6vbpX6UMYzBifE5fCJjB3Z"
       },
@@ -415,6 +395,26 @@
       "duration_ms": 682816,
       "name": "Poesia Ac\u00fastica #10 Recome\u00e7ar",
       "url": "https://open.spotify.com/track/2F2f4Bg37EB6vCoRIcyzCl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Prazer, eu sou Ferrugem (Ao vivo)",
+        "url": "https://open.spotify.com/album/3SkOXrdSri5EIpDpUvfdm3"
+      },
+      "artists": [
+        {
+          "name": "Ferrugem",
+          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
+        },
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 233637,
+      "name": "Paci\u00eancia (Participa\u00e7\u00e3o especial de Ludmilla) - Ao vivo",
+      "url": "https://open.spotify.com/track/3jHsNUej99xBE7TX3fg1xD"
     },
     {
       "added_at": null,
@@ -563,26 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Falta de Mim (Ao Vivo na Resenha Pagode e Chinelo)",
-        "url": "https://open.spotify.com/album/0gcFrFuriHDLPi8fzPTy8R"
-      },
-      "artists": [
-        {
-          "name": "Grupo BalacoBaco",
-          "url": "https://open.spotify.com/artist/3rPWjTxht8F3lTQpEUn8gJ"
-        },
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 142152,
-      "name": "Falta de Mim (Ao Vivo na Resenha Pagode e Chinelo)",
-      "url": "https://open.spotify.com/track/04SCTah7kzN0Sdw0lCd1in"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Numanice (Ao vivo)",
         "url": "https://open.spotify.com/album/5u9JxohIzAYCPE53Ev4uiN"
       },
@@ -599,6 +579,26 @@
       "duration_ms": 215304,
       "name": "N\u00e3o \u00c9 Por Maldade - Ao vivo",
       "url": "https://open.spotify.com/track/19IIiuViFv6TsPDXV2ZWB3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Falta de Mim (Ao Vivo na Resenha Pagode e Chinelo)",
+        "url": "https://open.spotify.com/album/0gcFrFuriHDLPi8fzPTy8R"
+      },
+      "artists": [
+        {
+          "name": "Grupo BalacoBaco",
+          "url": "https://open.spotify.com/artist/3rPWjTxht8F3lTQpEUn8gJ"
+        },
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 142152,
+      "name": "Falta de Mim (Ao Vivo na Resenha Pagode e Chinelo)",
+      "url": "https://open.spotify.com/track/04SCTah7kzN0Sdw0lCd1in"
     },
     {
       "added_at": null,
@@ -847,22 +847,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Numanice (Ao vivo)",
-        "url": "https://open.spotify.com/album/5u9JxohIzAYCPE53Ev4uiN"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 401511,
-      "name": "Desse Jeito \u00e9 Ruim Pra Mim / Perfume / Antes de Dizer Adeus - Ao vivo",
-      "url": "https://open.spotify.com/track/1CehxijvhSszrBS3FuCxBw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Numanice #2",
         "url": "https://open.spotify.com/album/5xm4qlyamtTnDKpAhVAtX3"
       },
@@ -879,8 +863,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "A danada sou eu",
-        "url": "https://open.spotify.com/album/4JZQXCD2TwUZmxSLlMDRoX"
+        "name": "Numanice (Ao vivo)",
+        "url": "https://open.spotify.com/album/5u9JxohIzAYCPE53Ev4uiN"
       },
       "artists": [
         {
@@ -888,9 +872,9 @@
           "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
         }
       ],
-      "duration_ms": 172626,
-      "name": "Bom",
-      "url": "https://open.spotify.com/track/25SL3ZSbEGtu4oU14xllMQ"
+      "duration_ms": 401511,
+      "name": "Desse Jeito \u00e9 Ruim Pra Mim / Perfume / Antes de Dizer Adeus - Ao vivo",
+      "url": "https://open.spotify.com/track/1CehxijvhSszrBS3FuCxBw"
     },
     {
       "added_at": null,
@@ -911,8 +895,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Numanice (Ao vivo)",
-        "url": "https://open.spotify.com/album/5u9JxohIzAYCPE53Ev4uiN"
+        "name": "A danada sou eu",
+        "url": "https://open.spotify.com/album/4JZQXCD2TwUZmxSLlMDRoX"
       },
       "artists": [
         {
@@ -920,9 +904,9 @@
           "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
         }
       ],
-      "duration_ms": 325002,
-      "name": "Sintoma de Amor / Depois do Amor / Agenda - Ao vivo",
-      "url": "https://open.spotify.com/track/6LgkG3CQKp6qejNMpOatMj"
+      "duration_ms": 172626,
+      "name": "Bom",
+      "url": "https://open.spotify.com/track/25SL3ZSbEGtu4oU14xllMQ"
     },
     {
       "added_at": null,
@@ -943,8 +927,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Numanice #2 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1sikBy4Cu6l99M6Sd6mDdu"
+        "name": "Numanice (Ao vivo)",
+        "url": "https://open.spotify.com/album/5u9JxohIzAYCPE53Ev4uiN"
       },
       "artists": [
         {
@@ -952,9 +936,9 @@
           "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
         }
       ],
-      "duration_ms": 147089,
-      "name": "Fora de Si - Ao Vivo",
-      "url": "https://open.spotify.com/track/3ojDttdAfpz1UhnFVLSG3s"
+      "duration_ms": 325002,
+      "name": "Sintoma de Amor / Depois do Amor / Agenda - Ao vivo",
+      "url": "https://open.spotify.com/track/6LgkG3CQKp6qejNMpOatMj"
     },
     {
       "added_at": null,
@@ -975,8 +959,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Numanice (Ao vivo)",
-        "url": "https://open.spotify.com/album/5u9JxohIzAYCPE53Ev4uiN"
+        "name": "Numanice #2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1sikBy4Cu6l99M6Sd6mDdu"
       },
       "artists": [
         {
@@ -984,9 +968,9 @@
           "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
         }
       ],
-      "duration_ms": 281421,
-      "name": "Mande Um Sinal / Sinais - Ao vivo",
-      "url": "https://open.spotify.com/track/7gGCGzNFmW0xjhA8dA3Y5w"
+      "duration_ms": 147089,
+      "name": "Fora de Si - Ao Vivo",
+      "url": "https://open.spotify.com/track/3ojDttdAfpz1UhnFVLSG3s"
     },
     {
       "added_at": null,
@@ -1007,6 +991,22 @@
       "duration_ms": 187796,
       "name": "N\u00e3o v\u00e1 me enganar - Ao Vivo",
       "url": "https://open.spotify.com/track/6Q3JFwQ0EoAO7gosrWI3na"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Numanice (Ao vivo)",
+        "url": "https://open.spotify.com/album/5u9JxohIzAYCPE53Ev4uiN"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 281421,
+      "name": "Mande Um Sinal / Sinais - Ao vivo",
+      "url": "https://open.spotify.com/track/7gGCGzNFmW0xjhA8dA3Y5w"
     }
   ],
   "unique_name": "This Is LUDMILLA",

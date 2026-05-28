@@ -4,7 +4,7 @@
 
 > インターネットカルチャーから生まれたサウンドの記録。A collection of sounds shaped by internet culture\. <br/>Cover: Ayase
 
-1,717 songs - 4 day 1 hr 10 min
+1,717 songs - 4 day 1 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -439,6 +439,7 @@
 | [Pentatonic](https://open.spotify.com/track/5txdVujtl1Ws3kZeHwWkZt) | [syudou × Balloon](https://open.spotify.com/artist/1dsBCeRaXAWlM2kIv61icy), [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa), [Balloon](https://open.spotify.com/artist/4i5N9MozlKe9ty90PhOPCj) | [Pentatonic](https://open.spotify.com/album/5P980OpP1KzXof4mcNGRpd) | 3:32 | 2025-09-30 | 2025-11-05 |
 | [Petal](https://open.spotify.com/track/16WDzD4r9bnTd3qzOVTmAi) | [310](https://open.spotify.com/artist/2C2oimNufzDloA4OP2j4OP) | [パーフェクトデイ](https://open.spotify.com/album/517oLwmAGji2IoJK7XJvUG) | 3:36 | 2025-03-04 | 2025-03-12 |
 | [Phantom](https://open.spotify.com/track/4k0VIBiPnlJG8GxwtAekXv) | [幸祜](https://open.spotify.com/artist/1oM8EdalXNF4uSK5k2dzLh) | [Phantom](https://open.spotify.com/album/4geMK7tggrzMxOijT7CNrh) | 3:08 | 2026-04-23 |  |
+| [PLANETS](https://open.spotify.com/track/4dXAx6MlPTqRFC804zZZQ3) | [Ayase](https://open.spotify.com/artist/1S8OQ9SqlLdD9l4paaZMuZ) | [dialogue](https://open.spotify.com/album/0nFxDK8187xYJPMMph6c7y) | 3:04 | 2026-05-26 |  |
 | [PLAYer](https://open.spotify.com/track/77bzrrMdwLa7CDKu62l7jT) | [SUIREN](https://open.spotify.com/artist/2nA3bgiJHNZkuv7O0HA3DK) | [黎\-ray\-](https://open.spotify.com/album/3ODHhgn1GAznuAHw4Mcdea) | 4:20 | 2022-07-12 | 2022-07-14 |
 | [PLAYERS](https://open.spotify.com/track/30GGgQDoRSBsjck9tMmDDP) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [PLAYERS](https://open.spotify.com/album/6OtUkMrwUzUzhPqvKiRIVe) | 3:21 | 2025-03-25 | 2025-11-19 |
 | [Plazma](https://open.spotify.com/track/1KLg01cjnRsENoFhJWUTSd) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [Plazma](https://open.spotify.com/album/3fEm98bR4ojbm2GBqzhTGp) | 3:00 | 2025-01-21 | 2026-03-25 |
@@ -570,7 +571,6 @@
 | [Toxic Luv](https://open.spotify.com/track/3mi4Gwmur1Wejivzohm3xS) | [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u) | [Toxic Luv](https://open.spotify.com/album/29tAiHG6vz4qsZhAw22Pkb) | 2:19 | 2025-08-12 | 2025-09-03 |
 | [TOXY!](https://open.spotify.com/track/0E4SYZUiq9VZW0xX1sYUNH) | [KUJIRAGI](https://open.spotify.com/artist/4rG3x6s38W3SI4aS80gjnj) | [TOXY!](https://open.spotify.com/album/64djpRL2QlWt4txOotuoRC) | 3:35 | 2024-01-30 | 2024-02-01 |
 | [Toxy!](https://open.spotify.com/track/75e9UjBVkiH4xqsoA8Hzmz) | [KUJIRAGI](https://open.spotify.com/artist/4rG3x6s38W3SI4aS80gjnj) | [Toxy!](https://open.spotify.com/album/20wzGDktj5fJJA7xo8sPhf) | 3:35 | 2024-01-30 | 2024-02-14 |
-| [Track 1](https://open.spotify.com/track/4dXAx6MlPTqRFC804zZZQ3) | [Ayase](https://open.spotify.com/artist/1S8OQ9SqlLdD9l4paaZMuZ) | [dialogue](https://open.spotify.com/album/0nFxDK8187xYJPMMph6c7y) | 0:00 | 2026-05-26 |  |
 | [Travelers](https://open.spotify.com/track/174Nite6TiCK2GgiGlCXz9) | [suis from Yorushika](https://open.spotify.com/artist/4UOdwKkaWHJ5k6UqnfC2w0) | [Travelers](https://open.spotify.com/album/4skbYCCX3tI970lb4nbsVc) | 5:22 | 2023-03-23 | 2023-03-31 |
 | [Trigger](https://open.spotify.com/track/03ES1FQGdmpTBYF2f96gPF) | [七海うらら](https://open.spotify.com/artist/2ozm6qPMgXtjAPowvV1621) | [Trigger](https://open.spotify.com/album/2MUpHK1HzSjVfwfjL5oW5h) | 3:32 | 2023-06-22 | 2023-06-28 |
 | [tsuijuku](https://open.spotify.com/track/7dX6LTJkMZo65x1gURALEa) | [Rene Ryugasaki](https://open.spotify.com/artist/7iwHh2Rf3Sm4hiC4Ds8g6I) | [tsuijuku](https://open.spotify.com/album/5SUUcgxWq0gFDI9kFgaWWV) | 3:48 | 2024-01-04 | 2024-04-17 |

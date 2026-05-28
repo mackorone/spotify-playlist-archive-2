@@ -1,6 +1,6 @@
 {
   "description": "La playlist qui fait du bien \u2600\ufe0f",
-  "num_followers": 299256,
+  "num_followers": 299254,
   "original_name": "Feel Good",
   "owner": {
     "name": "Spotify",
@@ -351,6 +351,22 @@
     {
       "added_at": "2026-05-21 22:00:17",
       "album": {
+        "name": "sailing",
+        "url": "https://open.spotify.com/album/73IJUW7XGzL2B8HMCKY39I"
+      },
+      "artists": [
+        {
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+        }
+      ],
+      "duration_ms": 244221,
+      "name": "sailing",
+      "url": "https://open.spotify.com/track/3Yp4Z4UhD7ymJiX83RgoGm"
+    },
+    {
+      "added_at": "2026-05-21 22:00:17",
+      "album": {
         "name": "Easy To Love",
         "url": "https://open.spotify.com/album/5dsGIAbn6byAl76d7O8F0S"
       },
@@ -367,22 +383,6 @@
       "duration_ms": 199477,
       "name": "Easy To Love",
       "url": "https://open.spotify.com/track/2qod3v3MbuBamYUZebS88U"
-    },
-    {
-      "added_at": "2026-05-21 22:00:17",
-      "album": {
-        "name": "sailing",
-        "url": "https://open.spotify.com/album/73IJUW7XGzL2B8HMCKY39I"
-      },
-      "artists": [
-        {
-          "name": "grentperez",
-          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
-        }
-      ],
-      "duration_ms": 244221,
-      "name": "sailing",
-      "url": "https://open.spotify.com/track/3Yp4Z4UhD7ymJiX83RgoGm"
     },
     {
       "added_at": "2026-05-21 22:00:17",
@@ -631,6 +631,22 @@
     {
       "added_at": "2026-05-21 22:00:17",
       "album": {
+        "name": "Good Life",
+        "url": "https://open.spotify.com/album/60WKdl73IpqWlbwEINjhBe"
+      },
+      "artists": [
+        {
+          "name": "The Walters",
+          "url": "https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8"
+        }
+      ],
+      "duration_ms": 160220,
+      "name": "Good Life",
+      "url": "https://open.spotify.com/track/59ibpnGNQLxhg5rnQVNxOn"
+    },
+    {
+      "added_at": "2026-05-21 22:00:17",
+      "album": {
         "name": "The Avenue wave 1",
         "url": "https://open.spotify.com/album/32evpf12hMTPw544bBrMsq"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 157441,
       "name": "Sweet Emotion",
       "url": "https://open.spotify.com/track/5fb0VfB1Nej93xHP81z73E"
-    },
-    {
-      "added_at": "2026-05-21 22:00:17",
-      "album": {
-        "name": "Good Life",
-        "url": "https://open.spotify.com/album/60WKdl73IpqWlbwEINjhBe"
-      },
-      "artists": [
-        {
-          "name": "The Walters",
-          "url": "https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8"
-        }
-      ],
-      "duration_ms": 160220,
-      "name": "Good Life",
-      "url": "https://open.spotify.com/track/59ibpnGNQLxhg5rnQVNxOn"
     },
     {
       "added_at": "2026-05-21 22:00:17",
@@ -815,6 +815,30 @@
     {
       "added_at": "2026-05-21 22:00:17",
       "album": {
+        "name": "All The Feels",
+        "url": "https://open.spotify.com/album/04Si32XoV0WYgBMlX6q8xH"
+      },
+      "artists": [
+        {
+          "name": "Tonique & Man",
+          "url": "https://open.spotify.com/artist/42vNl6qfOzdJe4oiTPONpq"
+        },
+        {
+          "name": "Jean Tonique",
+          "url": "https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI"
+        },
+        {
+          "name": "Mi Man",
+          "url": "https://open.spotify.com/artist/2Jj0VBATkPlLpZ37IxUiA7"
+        }
+      ],
+      "duration_ms": 219506,
+      "name": "All The Feels",
+      "url": "https://open.spotify.com/track/0Hj3Q6sxr1U3cT4sJYzlqT"
+    },
+    {
+      "added_at": "2026-05-21 22:00:17",
+      "album": {
         "name": "Can Feel It",
         "url": "https://open.spotify.com/album/1e8S7SRezSUny3W9y0nLVn"
       },
@@ -843,30 +867,6 @@
       "duration_ms": 173680,
       "name": "Lonestar",
       "url": "https://open.spotify.com/track/2PKMshAIk4X87ribaota1Y"
-    },
-    {
-      "added_at": "2026-05-21 22:00:17",
-      "album": {
-        "name": "All The Feels",
-        "url": "https://open.spotify.com/album/04Si32XoV0WYgBMlX6q8xH"
-      },
-      "artists": [
-        {
-          "name": "Tonique & Man",
-          "url": "https://open.spotify.com/artist/42vNl6qfOzdJe4oiTPONpq"
-        },
-        {
-          "name": "Jean Tonique",
-          "url": "https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI"
-        },
-        {
-          "name": "Mi Man",
-          "url": "https://open.spotify.com/artist/2Jj0VBATkPlLpZ37IxUiA7"
-        }
-      ],
-      "duration_ms": 219506,
-      "name": "All The Feels",
-      "url": "https://open.spotify.com/track/0Hj3Q6sxr1U3cT4sJYzlqT"
     },
     {
       "added_at": "2026-05-21 22:00:17",

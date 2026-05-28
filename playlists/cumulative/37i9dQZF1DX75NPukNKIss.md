@@ -4,7 +4,7 @@
 
 > Way 2 Slizzy\. Cover: 41
 
-167 songs - 7 hr 41 min
+168 songs - 7 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [Freaky Attitude](https://open.spotify.com/track/1fz2te96VCjYjGhUCi0IsH) | [J.P.](https://open.spotify.com/artist/6ygDlIilHZqielxxkvmIVH), [Baby Osamaa](https://open.spotify.com/artist/3HzHfusJQBmpNKkTzqqC2N) | [School Dance](https://open.spotify.com/album/5s7s0DlvA7zSx1W67StPa9) | 3:20 | 2024-11-13 |  |
 | [Get You Back \(feat\. Cash Cobain\)](https://open.spotify.com/track/14o4OozkcWqwSYUDG8Kae4) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [Better Me Than You](https://open.spotify.com/album/4Re8JSuo0lUxYCMjDnafvd) | 4:01 | 2024-10-25 |  |
 | [GHOST.](https://open.spotify.com/track/0hH2xxYdBDEhUErVBcloFe) | [YFN Lucci](https://open.spotify.com/artist/5Berubt6ysOy2LCMyqhmXP) | [ALREADY LEGEND.](https://open.spotify.com/album/6zdPFeeX9KAITF9r84BLqg) | 2:03 | 2026-04-21 |  |
-| [GHOST.](https://open.spotify.com/track/4u9qc7vwQrdVtygGPelFfk) | [YFN Lucci](https://open.spotify.com/artist/5Berubt6ysOy2LCMyqhmXP) | [ALREADY LEGEND\. \(GIFTED Edition\)](https://open.spotify.com/album/78tzX7Tge0Kadq2hzUDcrG) | 2:03 | 2026-02-09 |  |
+| [GHOST.](https://open.spotify.com/track/4u9qc7vwQrdVtygGPelFfk) | [YFN Lucci](https://open.spotify.com/artist/5Berubt6ysOy2LCMyqhmXP) | [ALREADY LEGEND\. \(GIFTED Edition\)](https://open.spotify.com/album/78tzX7Tge0Kadq2hzUDcrG) | 2:03 | 2026-02-09 | 2026-05-28 |
 | [GLOCK](https://open.spotify.com/track/29sbEEB0w4aAY3FofzzEjy) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [HARDSTONE PSYCHO](https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F) | 3:48 | 2024-10-25 |  |
 | [GLORIOUS](https://open.spotify.com/track/1mKNJs35ede94bTPWveVOo) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 3:25 | 2025-02-14 |  |
 | [Got You](https://open.spotify.com/track/237yt61ZnMPZBeLylJ43lI) | [ZEDDY WILL](https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Set The Tone](https://open.spotify.com/album/1R2kDXi7J13y9NMUGYiQVm) | 3:06 | 2025-05-09 | 2025-06-07 |
@@ -142,6 +142,7 @@
 | [Simone Biles \(feat\. LouGotCash\)](https://open.spotify.com/track/1sAswL8NGPFG4DHRnyTmGq) | [Leaf](https://open.spotify.com/artist/5IqdDgKZLckft62bdi1C0l), [LouGotCash](https://open.spotify.com/artist/1Sz0VZ2PxcZPD2qRIX9GSK) | [Dreamgirl Deluxe](https://open.spotify.com/album/7JSMM5TyVzf3EMIBAGyCbK) | 2:19 | 2024-12-10 |  |
 | [Slizzy Flow](https://open.spotify.com/track/4bb24qJy1jwBwvHCe6bOyA) | [LouGotCash](https://open.spotify.com/artist/1Sz0VZ2PxcZPD2qRIX9GSK), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1), [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap) | [Sexy Driller](https://open.spotify.com/album/4Lqc8XJpSSgvR0qoAu0K4g) | 2:29 | 2024-11-22 | 2025-10-11 |
 | [slizzyhunchodon \(feat\. Quavo & Don Toliver\)](https://open.spotify.com/track/4P3s7E8Qq0D6sjfqiy7TxJ) | [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [PLAY CASH COBAIN](https://open.spotify.com/album/1nMDe5h9FEfmCSm6nwA66s) | 3:24 | 2024-10-25 | 2025-08-30 |
+| [Slow Dreamz](https://open.spotify.com/track/5wmJQ8sR1eGNM8RTwTM4xG) | [Lynn](https://open.spotify.com/artist/3YGjCVq7bfP2wT3jzbaxab) | [Ten Thousand Hours](https://open.spotify.com/album/4Tozfh3iMyBqIC3rpxRnnR) | 2:12 | 2026-05-27 |  |
 | [So What Now](https://open.spotify.com/track/0rh6u2BWnjGaV4Z9Ow7Mpl) | [Reese LAFLARE](https://open.spotify.com/artist/07V3atNq2TyPNDYmzp6Dyy), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [So What Now](https://open.spotify.com/album/1L3fRGWg6v9yVQIzRuJM2Q) | 2:25 | 2026-04-03 |  |
 | [Something Wrong \(with Don Toliver\)](https://open.spotify.com/track/1LR9rQCGhM0MqESvRQ9EFX) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Something Wrong \(with Don Toliver\)](https://open.spotify.com/album/6BzulXCJ5ZITGuNNFxEQ3a) | 2:22 | 2025-08-29 |  |
 | [Sum'n Serious](https://open.spotify.com/track/1PHUD5Rt2q5ImvEBT4binc) | [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq) | [Hope She Hears This](https://open.spotify.com/album/01aAP2WJGtq3rc6JNGJHpW) | 2:17 | 2025-05-09 |  |

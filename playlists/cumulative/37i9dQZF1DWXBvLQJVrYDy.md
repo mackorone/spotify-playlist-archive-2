@@ -4,7 +4,7 @@
 
 > Smooth and cozy saxophone ballads for relaxing or focus.
 
-244 songs - 15 hr 44 min
+245 songs - 15 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [Evening In Paris](https://open.spotify.com/track/36NzG0ptwi4k798mpIS3Oz) | [Zoot Sims](https://open.spotify.com/artist/1pwr5rTWLVfqhvHfB7Reap) | [Zoot Sims avec Henri Renaud et son orchestre](https://open.spotify.com/album/1tYXf9tuMLCiUrW18UwlHE) | 3:21 | 2022-08-18 | 2023-09-01 |
 | [Faint Aurora](https://open.spotify.com/track/6SuuYiQUtvCPFEJvUKBdZ5) | [Odo Lefebvre](https://open.spotify.com/artist/7lLtsVLpDbuhSvr5UE6HIU) | [Faint Aurora](https://open.spotify.com/album/3aFL9Z73ulCldIjNkQTrQG) | 2:56 | 2026-04-24 |  |
 | [Filippa](https://open.spotify.com/track/1m7ab27FBBeF3Zg13ol2YC) | [Jules Moreau](https://open.spotify.com/artist/4EgOpuGf3Qe7DYYol4AJCz) | [Filippa](https://open.spotify.com/album/0Ud0BP8Fdy1mqDWWl8bHj6) | 4:18 | 2024-02-23 |  |
-| [Five Leaves](https://open.spotify.com/track/2tmAIIkIYNWvp93nMfi8Lw) | [Hara Noda](https://open.spotify.com/artist/6ezFSYpcIHmJfQ0ZrGQmyh) | [Five Leaves](https://open.spotify.com/album/7IfBIe2sTrJvldMPB61w5e) | 4:09 | 2023-08-10 |  |
+| [Five Leaves](https://open.spotify.com/track/2tmAIIkIYNWvp93nMfi8Lw) | [Hara Noda](https://open.spotify.com/artist/6ezFSYpcIHmJfQ0ZrGQmyh) | [Five Leaves](https://open.spotify.com/album/7IfBIe2sTrJvldMPB61w5e) | 4:09 | 2023-08-10 | 2026-05-28 |
 | [Flatlands](https://open.spotify.com/track/2zI4BotlVn6HNOmCv3Nf75) | [George Kuntz Four](https://open.spotify.com/artist/6bPFM0SEcXOJwLr0aY024d) | [Flatlands](https://open.spotify.com/album/77J8FVf2roMDpGKHXjKIQC) | 3:14 | 2023-02-02 |  |
 | [Foggy Sunday](https://open.spotify.com/track/331aspu4164ZfUMcaWzc8C) | [Bladverk Band](https://open.spotify.com/artist/3XGVKlRSkuGWbqonldnI65) | [Foggy Sunday](https://open.spotify.com/album/3U2D6KS4rrUHvaFHY5w9P4) | 3:47 | 2022-08-18 | 2023-02-10 |
 | [For All We Know](https://open.spotify.com/track/59zRrZhGyepFEsydKTFV1M) | [Karl\-Martin Almqvist](https://open.spotify.com/artist/4dXbqcDmR48iVBEpgLPuhm), [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R) | [For All We Know](https://open.spotify.com/album/0gs7l1DFGqOOjZgZZC6S1m) | 2:50 | 2023-08-03 |  |
@@ -203,6 +203,7 @@
 | [Star\-Crossed Lovers](https://open.spotify.com/track/390r0C8H4XIoKtk0kOnbrE) | [Pepper Adams](https://open.spotify.com/artist/7fSCq6nVoFiyBqFD8fQFWR) | [Encounter!](https://open.spotify.com/album/7DkZ2AIH5OifT32a1HLBK5) | 3:55 | 2022-08-18 |  |
 | [Stars Fell On Alabama](https://open.spotify.com/track/4nslzINuZ9ZU5jhIj2xSNO) | [The Cannonball Adderley Quintet](https://open.spotify.com/artist/2o346NHhUAlVxl5uXBVxK7) | [Cannonball Adderley Quintet In Chicago](https://open.spotify.com/album/5XrBfIAn0HPSmeOvcmkNpk) | 6:14 | 2022-08-18 | 2022-11-10 |
 | [Stella by Starlight](https://open.spotify.com/track/3TVpiMoI86chM88b0I712D) | [Sophie Lemon Jazz](https://open.spotify.com/artist/05VVW01ALS5OQsRVeNflON) | [Tea for Two](https://open.spotify.com/album/2ogUu6iYKmNTdddXXHBwp5) | 5:02 | 2022-08-18 | 2024-11-26 |
+| [Still Water at Dawn](https://open.spotify.com/track/761pqXVFJDUaahAXuHMW7k) | [Bernina Quartet](https://open.spotify.com/artist/2Svnw11NWIp2PHpPAgIqRo) | [Still Water at Dawn](https://open.spotify.com/album/2Z4zoUN9XuDdN3NwFP6kMo) | 3:10 | 2026-05-27 |  |
 | [Strawberry Snow Cones For Two](https://open.spotify.com/track/1j2stEmsymDnJNi1uPZ1rD) | [Andy Miller Group](https://open.spotify.com/artist/7prqikKsztTvb6GHaYVbku) | [Strawberry Snow Cones For Two](https://open.spotify.com/album/578scmNeIm4OpGwLnlAd8Q) | 3:34 | 2023-08-10 | 2025-11-13 |
 | [Swidden](https://open.spotify.com/track/6PaiDpGH3Cj8BDVisUrulo) | [Robert Elovsson Quartet](https://open.spotify.com/artist/2JtAEXEXjrclv4NJwoGyB7) | [Swidden](https://open.spotify.com/album/3zI5lpYrvFpEWxcakca78F) | 4:12 | 2026-04-24 |  |
 | [Tangerine](https://open.spotify.com/track/5EudeHV7lSPc0n0J8C6yhq) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0), [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [Coleman Hawkins Encounters Ben Webster \(Expanded Edition\)](https://open.spotify.com/album/5AmT3edRjRxnDR2ZVW3QJZ) | 5:20 | 2022-08-18 | 2023-05-05 |

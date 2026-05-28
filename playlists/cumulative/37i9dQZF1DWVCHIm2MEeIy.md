@@ -4,7 +4,7 @@
 
 > The party has arrived! 🪩  Cover: Solomun
 
-671 songs - 2 day 5 hr 38 min
+672 songs - 2 day 5 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Aries](https://open.spotify.com/track/5MsFJ9mEsa9kcdXqusl866) | [Matthias Schuell](https://open.spotify.com/artist/4JPG7E5xdfg4TIaRPRSFrk) | [Aries](https://open.spotify.com/album/4LO0xwMNYn8SQIcXtpVDUC) | 8:14 | 2022-04-15 | 2022-07-29 |
 | [Arrival](https://open.spotify.com/track/0hSuV2otL5a1tl8pByCiAt) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5) | [Arrival](https://open.spotify.com/album/2lJVqcgwxrIvgV4BSiJ2Ww) | 3:24 | 2025-02-27 |  |
 | [Arrive](https://open.spotify.com/track/7AQp9JqRjSutFqqw85dMgS) | [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Arrive](https://open.spotify.com/album/4ZhIXDWMOMbX76BH97wsNA) | 3:24 | 2026-04-30 | 2026-05-08 |
+| [Aruna Chandra](https://open.spotify.com/track/20qCEmcOcBQC7DS2T70Pz4) | [Mashti](https://open.spotify.com/artist/0c2kLTUTikqUpkRjJOerzf), [Deep Dive Corp.](https://open.spotify.com/artist/2Xn8Gef5Hv2QOWYlXs2gTb), [David Devanagari](https://open.spotify.com/artist/5ht478srSMpYGDtKWMLQO3) | [Aruna Chandra](https://open.spotify.com/album/09jd5geuKV6itKwcvamNEn) | 8:58 | 2026-05-18 |  |
 | [Asa](https://open.spotify.com/track/1dWWpbUHni0mmv9aaVLhcH) | [Âme](https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564) | [Asa](https://open.spotify.com/album/2ZqR3WdAJcLqzrAnrfTqyf) | 4:37 | 2024-08-08 |  |
 | [Ascension](https://open.spotify.com/track/6Gi53jMV1JLVFYOS2iywxA) | [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp), [Volen Sentir](https://open.spotify.com/artist/7scXA3hBD8JyGGajVR9q9l) | [Ascension](https://open.spotify.com/album/6mhiuF8VWrCnXFyX8UpPVS) | 4:04 | 2026-04-30 |  |
 | [Athena](https://open.spotify.com/track/1RexdlwR5kbbzyQf4F3P5Y) | [Robert Babicz](https://open.spotify.com/artist/5XFQLyJekhzCO7PiTqboOB) | [The Dude EP](https://open.spotify.com/album/6445ilfquVMyJ09G3fLao7) | 6:56 | 2022-04-15 | 2022-07-13 |
@@ -383,7 +384,7 @@
 | [More Than You Know](https://open.spotify.com/track/1SnX2vQo16bLlFREsoRyw7) | [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1), [Richard Judge](https://open.spotify.com/artist/5z275L9haKWG328mm7UFd3) | [More Than You Know](https://open.spotify.com/album/3NMghT86mTUt2EPd1aRnhN) | 6:38 | 2024-01-26 | 2024-01-30 |
 | [Morning Glow \- Edit](https://open.spotify.com/track/0TwiKyrgJ7dRykmg5jpjHH) | [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [Morning Glow \(Edit\)](https://open.spotify.com/album/0VJJHbw6jcGCjU90REt3wF) | 3:01 | 2022-04-15 | 2022-07-20 |
 | [Move](https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4) | [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Stryv](https://open.spotify.com/artist/6XjgqvaVLUib6lCerbZrYD), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j), [Orso](https://open.spotify.com/artist/2yyaNPcdxZcn4iutCcLMaC), [Malachiii](https://open.spotify.com/artist/37lTKHi901VnwngQ7C8noT) | [Move](https://open.spotify.com/album/4M8ThNHbNjda2cPwL8XZHS) | 2:57 | 2024-06-06 |  |
-| [Move](https://open.spotify.com/track/1XyO7zz6B4zMtUzVrP5G1C) | [Anna Reusch](https://open.spotify.com/artist/0BMS6AqoDN4Fu7QOruxHjh) | [Move](https://open.spotify.com/album/0TmAvoXHWAGgzteBGHGVob) | 3:48 | 2026-04-23 |  |
+| [Move](https://open.spotify.com/track/1XyO7zz6B4zMtUzVrP5G1C) | [Anna Reusch](https://open.spotify.com/artist/0BMS6AqoDN4Fu7QOruxHjh) | [Move](https://open.spotify.com/album/0TmAvoXHWAGgzteBGHGVob) | 3:48 | 2026-04-23 | 2026-05-28 |
 | [Move](https://open.spotify.com/track/0fouEhRoo3FApnQPIXKgOY) | [Rafael Cerato](https://open.spotify.com/artist/3NUcxMYt10f6cx567crDk2), [Kinky Sound](https://open.spotify.com/artist/6oIco6H7xclBUVQpEeCTnl) | [Move](https://open.spotify.com/album/2O1q3IboqaR8KEDRy2cDRc) | 5:25 | 2022-10-28 | 2022-11-30 |
 | [Move Your Booty](https://open.spotify.com/track/0bEfrnxb8jXM7CfrsgcR5z) | [Ede](https://open.spotify.com/artist/7mxkWNWc7ceydKrZmVQmKK) | [Move Your Booty](https://open.spotify.com/album/3ZeqhT0JbTJtC9LGf5V8X6) | 4:32 | 2025-12-19 | 2026-01-15 |
 | [Moving On](https://open.spotify.com/track/0LJ33gGNQlxoLJlOsZLGNE) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [The Valley EP](https://open.spotify.com/album/1ggOs7osv7Gtv6w5Pf9rwl) | 3:25 | 2022-10-14 | 2023-07-13 |

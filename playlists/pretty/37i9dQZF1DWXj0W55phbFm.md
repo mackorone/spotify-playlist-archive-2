@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXj0W55phbFm.md) - [plain]
 
 > The classic trumpet players in Jazz\. Cover: Miles Davis
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,974 likes - 100 songs - 10 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,019 likes - 100 songs - 10 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,9 +73,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXj0W55phbFm.md) - [plain]
 | 63 | [Concentric Circles](https://open.spotify.com/track/7x2rOBlvoS4c4wkb0IQwj7) | [Nicholas Payton](https://open.spotify.com/artist/3cwVFmQ6mcUoGR6ZvIPuZ4) | [Payton's Place](https://open.spotify.com/album/0lohKc2RubArv0PbjXJYNB) | 7:09 |
 | 64 | [Apple House](https://open.spotify.com/track/6X797mLARJh7FngEqsDkaL) | [Tom Harrell](https://open.spotify.com/artist/3YO63Be7QxrxqBQtgKc4Oc) | [Moving Picture](https://open.spotify.com/album/3g6UX28wugOtBMsiIga6fh) | 5:12 |
 | 65 | [Jacob's Ladder](https://open.spotify.com/track/4sdEI4KEYvzon0FkfWvuYA) | [Terence Blanchard](https://open.spotify.com/artist/7IbO8NvxclKsk7WTOZ42bv) | [Magnetic](https://open.spotify.com/album/7lKQFTVYJ30NpxHhYMIA98) | 7:59 |
-| 66 | [Rahsan's Run](https://open.spotify.com/track/4LmV4eRie8x4dNP4k3aRG4) | [Woody Shaw](https://open.spotify.com/artist/0yvEf1tqWWPiZu4ZbjyKGs) | [Lotus Flower](https://open.spotify.com/album/6HeQbqtJT9KkuAcW8AusZH) | 8:04 |
+| 66 | [Instigator](https://open.spotify.com/track/6JC9CimuVsxAgnagjelfmL) | [Jon Faddis](https://open.spotify.com/artist/2vDj2N0oq3W44cfteWdMUX) | [Legacy](https://open.spotify.com/album/6wEdZfcDAEMAG8N69N5BHV) | 4:45 |
 | 67 | [Paul's Pal \- Remastered 2006/Rudy Van Gelder Edition](https://open.spotify.com/track/36jo8mKf6z7Noc46obDOL3) | [Donald Byrd](https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL) | [Off To The Races \(Remastered\)](https://open.spotify.com/album/37LKWNJ1xP9OlbKwjDYkZi) | 7:06 |
-| 68 | [Instigator](https://open.spotify.com/track/6JC9CimuVsxAgnagjelfmL) | [Jon Faddis](https://open.spotify.com/artist/2vDj2N0oq3W44cfteWdMUX) | [Legacy](https://open.spotify.com/album/6wEdZfcDAEMAG8N69N5BHV) | 4:45 |
+| 68 | [Rahsan's Run](https://open.spotify.com/track/4LmV4eRie8x4dNP4k3aRG4) | [Woody Shaw](https://open.spotify.com/artist/0yvEf1tqWWPiZu4ZbjyKGs) | [Lotus Flower](https://open.spotify.com/album/6HeQbqtJT9KkuAcW8AusZH) | 8:04 |
 | 69 | [The Gift That Keeps on Giving](https://open.spotify.com/track/3IKLMhVbSKa40glkfeE9vH) | [Ron Miles](https://open.spotify.com/artist/1FTPaN9v2BFiu2LglOdZKP), [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5), [Brian Blade](https://open.spotify.com/artist/0nXwIc4NAbu2K881ealRDu), [Jason Moran](https://open.spotify.com/artist/7g3iwvP459BN53F7CDxemI), [Thomas Morgan](https://open.spotify.com/artist/6txzCcsy6ZKKKQLHmE3Y9L) | [I Am a Man \(with Bill Frisell, Brian Blade, Jason Moran & Thomas Morgan\)](https://open.spotify.com/album/7foEq7VyoOsDoFMVaBQz80) | 9:31 |
 | 70 | [Tipsy](https://open.spotify.com/track/4wq7y8LXpdggPxEwD4ytDd) | [Benny Bailey](https://open.spotify.com/artist/57fCBf7506avv91VXx6KIb) | [Big Brass](https://open.spotify.com/album/78pLNg78QC03ZklpkgBQAM) | 7:02 |
 | 71 | [I'll Remember April](https://open.spotify.com/track/7lG57Wyg0QqT7p1BFIdzoE) | [Wynton Marsalis](https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7) | [Intimacy Calling \- Standard Time Vol\. 2](https://open.spotify.com/album/29wn21i5jOaSZwktC65FMe) | 8:34 |

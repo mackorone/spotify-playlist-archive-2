@@ -1,12 +1,12 @@
 {
   "description": "This is Tyga. The essential tracks, all in one playlist.",
-  "num_followers": 229267,
+  "num_followers": 229280,
   "original_name": "This Is Tyga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahORAAAAAADI+FC5d2Y1xLjEY0UVsr8q",
+  "snapshot_id": "ahTigAAAAACUKZ8fiaD7h2jwN1ifwGmo",
   "tracks": [
     {
       "added_at": null,
@@ -251,30 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fan of A Fan The Album (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4neocSMt40stXKK2B8Sy2G"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        },
-        {
-          "name": "Fat Trel",
-          "url": "https://open.spotify.com/artist/1SncSgYiDk2kCBBaXIYcwd"
-        }
-      ],
-      "duration_ms": 286372,
-      "name": "Lights Out (feat. Fat Trel)",
-      "url": "https://open.spotify.com/track/77ZhzP75wx1qzhFG4P7vyt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Love Lost (Deluxe)",
         "url": "https://open.spotify.com/album/7AwrgenNcTAJlJF3pKL0Qr"
       },
@@ -295,6 +271,30 @@
       "duration_ms": 161684,
       "name": "Chosen (feat. Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/1dIWPXMX4kRHj6Dt2DStUQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fan of A Fan The Album (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4neocSMt40stXKK2B8Sy2G"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        },
+        {
+          "name": "Fat Trel",
+          "url": "https://open.spotify.com/artist/1SncSgYiDk2kCBBaXIYcwd"
+        }
+      ],
+      "duration_ms": 286372,
+      "name": "Lights Out (feat. Fat Trel)",
+      "url": "https://open.spotify.com/track/77ZhzP75wx1qzhFG4P7vyt"
     },
     {
       "added_at": null,
@@ -595,6 +595,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Legendary (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1dDfjR6KqXwa6I8XmPXnxr"
+      },
+      "artists": [
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "duration_ms": 194935,
+      "name": "SWISH",
+      "url": "https://open.spotify.com/track/0aJ2hFC6e9Z00Lx9RIRNcT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "DON\u2019T KILL THE PARTY (feat. Tyga, Shoreline Mafia & Quavo) [Coast 2 Coast]",
         "url": "https://open.spotify.com/album/0zNgZSkhGkRcr1Yh06fyxr"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 225228,
       "name": "DON'T KILL THE PARTY (feat. Tyga, Shoreline Mafia & Quavo) - Coast 2 Coast",
       "url": "https://open.spotify.com/track/6p82E6XWmwC9yGzXPe1HHv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Legendary (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1dDfjR6KqXwa6I8XmPXnxr"
-      },
-      "artists": [
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        }
-      ],
-      "duration_ms": 194935,
-      "name": "SWISH",
-      "url": "https://open.spotify.com/track/0aJ2hFC6e9Z00Lx9RIRNcT"
     },
     {
       "added_at": null,
@@ -975,6 +975,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Careless World: Rise Of The Last King",
+        "url": "https://open.spotify.com/album/68XdlVpTEpBtM2FBxROLva"
+      },
+      "artists": [
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 224506,
+      "name": "Still Got It",
+      "url": "https://open.spotify.com/track/51B1RzOwX8ybRMb66Rhsmu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Legendary",
         "url": "https://open.spotify.com/album/6hHIX3lfGKnZ2ji41YZMVV"
       },
@@ -1019,26 +1039,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Careless World: Rise Of The Last King",
-        "url": "https://open.spotify.com/album/68XdlVpTEpBtM2FBxROLva"
-      },
-      "artists": [
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 224506,
-      "name": "Still Got It",
-      "url": "https://open.spotify.com/track/51B1RzOwX8ybRMb66Rhsmu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sheikh Talk",
         "url": "https://open.spotify.com/album/2h9HZUoglSEwFarjdWcPzi"
       },
@@ -1055,8 +1055,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Legendary",
-        "url": "https://open.spotify.com/album/6hHIX3lfGKnZ2ji41YZMVV"
+        "name": "Hotel California (Deluxe)",
+        "url": "https://open.spotify.com/album/5PKYeoSKEVQd7ZTnwnWRn7"
       },
       "artists": [
         {
@@ -1068,9 +1068,9 @@
           "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
         }
       ],
-      "duration_ms": 217408,
-      "name": "February Love (feat. Chris Brown)",
-      "url": "https://open.spotify.com/track/6pAaeIH6FuqdiweIogafXT"
+      "duration_ms": 243373,
+      "name": "For The Road",
+      "url": "https://open.spotify.com/track/0OtheRYyJGITOx0jq6pDEJ"
     }
   ],
   "unique_name": "This Is Tyga",

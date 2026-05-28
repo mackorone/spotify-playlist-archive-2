@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTNd58Xq9pQ.md) - [plain]
 
 > Relive False Idols at Drumsheds 2024!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,765 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,766 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTNd58Xq9pQ.md) - [plain]
 | 36 | [Lifetime \- Planningtorock 'Let It Happen' Remix](https://open.spotify.com/track/6U9opnMMouhZdQaseeVQTq) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb), [Planningtorock](https://open.spotify.com/artist/7qHOphlWaJrfFa0BqpayDG) | [Lifetime \(Planningtorock 'Let It Happen' Remix\)](https://open.spotify.com/album/5s9bJNRbfFkJAlxmjJbexn) | 6:59 |
 | 37 | [Want Me](https://open.spotify.com/track/2PKEGiGJAeEOaSaOZsQhCH) | [DJ Fuckoff](https://open.spotify.com/artist/47fPXXrqnkQcaQ951UA3cm) | [Want Me](https://open.spotify.com/album/0fkVNPJnTjVb8Q97hAjN8u) | 4:34 |
 | 38 | [Forever 2 \(Crush Mix\) \- Edit](https://open.spotify.com/track/3sS48tE1iA7CLb8iAhNHOv) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6), [DJ BORING](https://open.spotify.com/artist/3MkIU5jhXTMK9pYQTRVI6p) | [Forever 2 \(Crush Mix\)](https://open.spotify.com/album/2TbQ4UscdZOQCTNas8MAhR) | 2:55 |
-| 39 | [Boy \- Original Mix](https://open.spotify.com/track/2pXDJVHLMen4fQagoweDTW) | [Mogwaa](https://open.spotify.com/artist/0ZMvuGH9qIoI5xBA4g0Tqy) | [Boy](https://open.spotify.com/album/1CVKYbQHvZpOOnsmHezXP2) | 7:17 |
-| 40 | [Leather 'n Lasers](https://open.spotify.com/track/3dviK5wvesXJWkimipM2xS) | [Cormac](https://open.spotify.com/artist/7sm5Ierhs0FkG4xed2hEqG) | [Leather 'n Lasers](https://open.spotify.com/album/1y8pxvGmBNdTzY8Rxha0XS) | 5:08 |
+| 39 | [Leather 'n Lasers](https://open.spotify.com/track/3dviK5wvesXJWkimipM2xS) | [Cormac](https://open.spotify.com/artist/7sm5Ierhs0FkG4xed2hEqG) | [Leather 'n Lasers](https://open.spotify.com/album/1y8pxvGmBNdTzY8Rxha0XS) | 5:08 |
+| 40 | [Boy \- Original Mix](https://open.spotify.com/track/2pXDJVHLMen4fQagoweDTW) | [Mogwaa](https://open.spotify.com/artist/0ZMvuGH9qIoI5xBA4g0Tqy) | [Boy](https://open.spotify.com/album/1CVKYbQHvZpOOnsmHezXP2) | 7:17 |
 | 41 | [Slut Slide](https://open.spotify.com/track/6TVq1Rj8nPRD8vPfEIJWz2) | [Miss Bashful](https://open.spotify.com/artist/5skHU2PrWHKFfSTpq9y56C), [DBBD](https://open.spotify.com/artist/69UVGTxhvI9zrl4tVafMgC) | [Slut Slide](https://open.spotify.com/album/67AndfOhU9MmUs6TQhqoC2) | 3:43 |
 | 42 | [Freak Me Now \(with Róisín Murphy\) \- Horse Meat Disco Remix](https://open.spotify.com/track/2qqBoetO8bNlzLaSC6cj1I) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc), [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8), [Horse Meat Disco](https://open.spotify.com/artist/5MnToV7aAt2Zy9ag3DAsna) | [Freak Me Now \(with Róisín Murphy\) \[Horse Meat Disco Remix\]](https://open.spotify.com/album/22Z01u5NgyoGVvRhpUex8r) | 2:53 |
 | 43 | [Moonlight](https://open.spotify.com/track/2flLSFm3o1HbThLXabDoum) | [Bimini](https://open.spotify.com/artist/5QSfJ3Ny5A3AAmv2gg1pCk), [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE) | [Moonlight](https://open.spotify.com/album/76tdnPDtupBVJiQPN67GTp) | 2:48 |

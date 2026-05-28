@@ -1,6 +1,6 @@
 {
   "description": "the best of the deep end. cover: Saint\u00e9",
-  "num_followers": 109839,
+  "num_followers": 109829,
   "original_name": "lofi rap",
   "owner": {
     "name": "Spotify",
@@ -711,22 +711,6 @@
     {
       "added_at": "2025-10-10 12:01:08",
       "album": {
-        "name": "REGULAR",
-        "url": "https://open.spotify.com/album/3qzGf50X6epx8CekExPZjY"
-      },
-      "artists": [
-        {
-          "name": "SamRecks",
-          "url": "https://open.spotify.com/artist/3hHIZyA3xXTamnwX8zXien"
-        }
-      ],
-      "duration_ms": 126131,
-      "name": "REGULAR",
-      "url": "https://open.spotify.com/track/2w6wDoLxjzFV5nnsGYYdXh"
-    },
-    {
-      "added_at": "2025-10-10 12:01:08",
-      "album": {
         "name": "Voices",
         "url": "https://open.spotify.com/album/21I5Lnj2L2hXDvHGr1AiMR"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 135000,
       "name": "Voices",
       "url": "https://open.spotify.com/track/6HfHA59NuCFzWWLOZ8WHzv"
+    },
+    {
+      "added_at": "2025-10-10 12:01:08",
+      "album": {
+        "name": "REGULAR",
+        "url": "https://open.spotify.com/album/3qzGf50X6epx8CekExPZjY"
+      },
+      "artists": [
+        {
+          "name": "SamRecks",
+          "url": "https://open.spotify.com/artist/3hHIZyA3xXTamnwX8zXien"
+        }
+      ],
+      "duration_ms": 126131,
+      "name": "REGULAR",
+      "url": "https://open.spotify.com/track/2w6wDoLxjzFV5nnsGYYdXh"
     },
     {
       "added_at": "2025-10-10 12:01:08",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2025-10-10 12:01:08",
       "album": {
-        "name": "Smoke Sessions, Vol. 1",
-        "url": "https://open.spotify.com/album/1dbYT7temBOIbbsJQnOs1C"
-      },
-      "artists": [
-        {
-          "name": "Lord Apex",
-          "url": "https://open.spotify.com/artist/052uglZ4PgpVs8YxEOViXz"
-        }
-      ],
-      "duration_ms": 82038,
-      "name": "weed to my left, chip to my right",
-      "url": "https://open.spotify.com/track/5Mgd1L9uVfrpfnHrMczn65"
-    },
-    {
-      "added_at": "2025-10-10 12:01:08",
-      "album": {
         "name": "Sexy Back",
         "url": "https://open.spotify.com/album/27wLAxBkkYbPsK3UMl2UeC"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 144000,
       "name": "Sexy Back",
       "url": "https://open.spotify.com/track/4HN0RZC8KErxF5fz88La55"
+    },
+    {
+      "added_at": "2025-10-10 12:01:08",
+      "album": {
+        "name": "Smoke Sessions, Vol. 1",
+        "url": "https://open.spotify.com/album/1dbYT7temBOIbbsJQnOs1C"
+      },
+      "artists": [
+        {
+          "name": "Lord Apex",
+          "url": "https://open.spotify.com/artist/052uglZ4PgpVs8YxEOViXz"
+        }
+      ],
+      "duration_ms": 82038,
+      "name": "weed to my left, chip to my right",
+      "url": "https://open.spotify.com/track/5Mgd1L9uVfrpfnHrMczn65"
     },
     {
       "added_at": "2025-10-10 12:01:08",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2025-10-10 12:01:08",
       "album": {
-        "name": "Lies",
-        "url": "https://open.spotify.com/album/7bI6MVn2einWQk8mvuKdVe"
-      },
-      "artists": [
-        {
-          "name": "AMB",
-          "url": "https://open.spotify.com/artist/75m92kcvwKBpXtBnqrJiB7"
-        }
-      ],
-      "duration_ms": 203964,
-      "name": "Lies",
-      "url": "https://open.spotify.com/track/0DZ2oAxxLtD76a5gxGj92k"
-    },
-    {
-      "added_at": "2025-10-10 12:01:08",
-      "album": {
         "name": "Driscoll",
         "url": "https://open.spotify.com/album/6kqIn2SlJfoBeXw8t5jUup"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 151730,
       "name": "Driscoll",
       "url": "https://open.spotify.com/track/29g7KrjPzgfPqkVfAbZ94U"
+    },
+    {
+      "added_at": "2025-10-10 12:01:08",
+      "album": {
+        "name": "Lies",
+        "url": "https://open.spotify.com/album/7bI6MVn2einWQk8mvuKdVe"
+      },
+      "artists": [
+        {
+          "name": "AMB",
+          "url": "https://open.spotify.com/artist/75m92kcvwKBpXtBnqrJiB7"
+        }
+      ],
+      "duration_ms": 203964,
+      "name": "Lies",
+      "url": "https://open.spotify.com/track/0DZ2oAxxLtD76a5gxGj92k"
     },
     {
       "added_at": "2025-10-10 12:01:08",
@@ -1387,6 +1387,30 @@
       "duration_ms": 227727,
       "name": "Drunk and Confused 2.0",
       "url": "https://open.spotify.com/track/2Pdp4X0xs1p217g6oheu89"
+    },
+    {
+      "added_at": "2025-10-10 12:01:08",
+      "album": {
+        "name": "London's Calling",
+        "url": "https://open.spotify.com/album/5ZjHN7anVFMnDCP4Rx06aO"
+      },
+      "artists": [
+        {
+          "name": "KITSCHKRIEG",
+          "url": "https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4"
+        },
+        {
+          "name": "Dr\u00e9 Six",
+          "url": "https://open.spotify.com/artist/5eLN24mJrfPvsHv7tqJpA4"
+        },
+        {
+          "name": "163Margs",
+          "url": "https://open.spotify.com/artist/3YCLjLKCZN6U1t7IBJv8k2"
+        }
+      ],
+      "duration_ms": 171478,
+      "name": "London's Calling",
+      "url": "https://open.spotify.com/track/0mUTOo5ZWhxWfWE68I0COt"
     },
     {
       "added_at": "2025-10-10 12:01:08",
@@ -1595,30 +1619,6 @@
     {
       "added_at": "2025-10-10 12:01:08",
       "album": {
-        "name": "London's Calling",
-        "url": "https://open.spotify.com/album/5ZjHN7anVFMnDCP4Rx06aO"
-      },
-      "artists": [
-        {
-          "name": "KITSCHKRIEG",
-          "url": "https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4"
-        },
-        {
-          "name": "Dr\u00e9 Six",
-          "url": "https://open.spotify.com/artist/5eLN24mJrfPvsHv7tqJpA4"
-        },
-        {
-          "name": "163Margs",
-          "url": "https://open.spotify.com/artist/3YCLjLKCZN6U1t7IBJv8k2"
-        }
-      ],
-      "duration_ms": 171478,
-      "name": "London's Calling",
-      "url": "https://open.spotify.com/track/0mUTOo5ZWhxWfWE68I0COt"
-    },
-    {
-      "added_at": "2025-10-10 12:01:08",
-      "album": {
         "name": "Why you gotta lie?",
         "url": "https://open.spotify.com/album/1ZXPhI3Vizsp17BV9lrlg7"
       },
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2025-10-10 12:01:08",
       "album": {
-        "name": "The Talking Stage Game",
-        "url": "https://open.spotify.com/album/44BCUKr8YiLg4yFY8N3jBc"
-      },
-      "artists": [
-        {
-          "name": "MiSTah Kye",
-          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
-        }
-      ],
-      "duration_ms": 194148,
-      "name": "The Talking Stage Game",
-      "url": "https://open.spotify.com/track/14tu1tKyRNKh7xvAIOQViJ"
-    },
-    {
-      "added_at": "2025-10-10 12:01:08",
-      "album": {
         "name": "Love, Eternity & Faith",
         "url": "https://open.spotify.com/album/4vc27sJyxvNCRFCVwXAo6a"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 160490,
       "name": "Venting",
       "url": "https://open.spotify.com/track/2a2kgyw5bskOcTEOpQQFQw"
+    },
+    {
+      "added_at": "2025-10-10 12:01:08",
+      "album": {
+        "name": "The Talking Stage Game",
+        "url": "https://open.spotify.com/album/44BCUKr8YiLg4yFY8N3jBc"
+      },
+      "artists": [
+        {
+          "name": "MiSTah Kye",
+          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
+        }
+      ],
+      "duration_ms": 194148,
+      "name": "The Talking Stage Game",
+      "url": "https://open.spotify.com/track/14tu1tKyRNKh7xvAIOQViJ"
     },
     {
       "added_at": "2025-10-10 12:01:08",

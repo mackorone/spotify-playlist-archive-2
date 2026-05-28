@@ -2,7 +2,7 @@
 
 ### [Celebrating Wellness](https://open.spotify.com/playlist/37i9dQZF1DX2W3Jjx3sdfb)
 
-> 
+> Tools, perspective, and comfort for living well, through a queer lens.
 
 0 song - 0 sec
 

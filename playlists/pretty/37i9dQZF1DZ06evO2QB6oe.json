@@ -1,12 +1,12 @@
 {
   "description": "This is Pedro Cap\u00f3. The essential tracks, all in one playlist.",
-  "num_followers": 70707,
+  "num_followers": 70711,
   "original_name": "This Is Pedro Cap\u00f3",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahORAAAAAABo5lIjeFeiokmIQdhYx62p",
+  "snapshot_id": "ahTigAAAAACjmIQqz/NdCtePJvTbQWbc",
   "tracks": [
     {
       "added_at": null,
@@ -159,26 +159,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Thalia En Primera Fila",
-        "url": "https://open.spotify.com/album/1gquXke1WKYRz3VSxlZDxa"
-      },
-      "artists": [
-        {
-          "name": "Thalia",
-          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
-        },
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 277946,
-      "name": "Estoy Enamorado (with Pedro Cap\u00f3) - Live Version",
-      "url": "https://open.spotify.com/track/4N9gzwamSUhe9oRuWgnmfJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cr\u00f3nicas de una Guerra",
         "url": "https://open.spotify.com/album/49Kgyyd9xjAT918ilcGcJO"
       },
@@ -199,6 +179,26 @@
       "duration_ms": 165360,
       "name": "Perdiendo la Cabeza",
       "url": "https://open.spotify.com/track/3JZvgVlQbe0dt7cSpPa1qQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Thalia En Primera Fila",
+        "url": "https://open.spotify.com/album/1gquXke1WKYRz3VSxlZDxa"
+      },
+      "artists": [
+        {
+          "name": "Thalia",
+          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+        },
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 277946,
+      "name": "Estoy Enamorado (with Pedro Cap\u00f3) - Live Version",
+      "url": "https://open.spotify.com/track/4N9gzwamSUhe9oRuWgnmfJ"
     },
     {
       "added_at": null,
@@ -744,9 +744,9 @@
           "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
         }
       ],
-      "duration_ms": 212092,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/7qZmhrhOXy2vRnaFezgmD2"
+      "duration_ms": 138750,
+      "name": "Dulce Soledad",
+      "url": "https://open.spotify.com/track/41CIG5tvJwEvhbkxZiv2P0"
     },
     {
       "added_at": null,
@@ -816,9 +816,9 @@
           "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
         }
       ],
-      "duration_ms": 138750,
-      "name": "Dulce Soledad",
-      "url": "https://open.spotify.com/track/41CIG5tvJwEvhbkxZiv2P0"
+      "duration_ms": 212092,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/7qZmhrhOXy2vRnaFezgmD2"
     },
     {
       "added_at": null,

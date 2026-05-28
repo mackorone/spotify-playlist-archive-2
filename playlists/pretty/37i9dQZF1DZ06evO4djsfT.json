@@ -1,12 +1,12 @@
 {
   "description": "This is KB. The essential tracks, all in one playlist.",
-  "num_followers": 28691,
+  "num_followers": 28688,
   "original_name": "This Is KB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahORAAAAAAAo5WEbjX6AsLt4EB2gGXTr",
+  "snapshot_id": "ahTigAAAAABTYx4jJXQXolweGYW+1bP3",
   "tracks": [
     {
       "added_at": null,
@@ -191,22 +191,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Chains",
-        "url": "https://open.spotify.com/album/0IyI0N52hnLYyBRoeB0EAr"
-      },
-      "artists": [
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        }
-      ],
-      "duration_ms": 222651,
-      "name": "No Chains",
-      "url": "https://open.spotify.com/track/2B8OrKU8suMxTx2PcuuSIG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Yes",
         "url": "https://open.spotify.com/album/2I2QPLI9AnfxTOC02rE2Ms"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 179527,
       "name": "Yes",
       "url": "https://open.spotify.com/track/7bM0sZ3LRW99DJvWVEXpBf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Chains",
+        "url": "https://open.spotify.com/album/0IyI0N52hnLYyBRoeB0EAr"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "duration_ms": 222651,
+      "name": "No Chains",
+      "url": "https://open.spotify.com/track/2B8OrKU8suMxTx2PcuuSIG"
     },
     {
       "added_at": null,
@@ -431,26 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Today We Rebel",
-        "url": "https://open.spotify.com/album/4F78fdhOqb861NcldgbPTH"
-      },
-      "artists": [
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        },
-        {
-          "name": "Andy Mineo",
-          "url": "https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw"
-        }
-      ],
-      "duration_ms": 246545,
-      "name": "Not Today Satan",
-      "url": "https://open.spotify.com/track/1oKdabnq8pKhjM79yUNN93"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LEFT HAND",
         "url": "https://open.spotify.com/album/69hDMlOq1ihXMKWKx3nnwL"
       },
@@ -471,6 +451,26 @@
       "duration_ms": 217634,
       "name": "LEFT HAND (feat. Terrian)",
       "url": "https://open.spotify.com/track/34GgEj9AUd92vmbwoVVhA5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Today We Rebel",
+        "url": "https://open.spotify.com/album/4F78fdhOqb861NcldgbPTH"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        },
+        {
+          "name": "Andy Mineo",
+          "url": "https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw"
+        }
+      ],
+      "duration_ms": 246545,
+      "name": "Not Today Satan",
+      "url": "https://open.spotify.com/track/1oKdabnq8pKhjM79yUNN93"
     },
     {
       "added_at": null,
@@ -666,15 +666,27 @@
         {
           "name": "KB",
           "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        },
-        {
-          "name": "Koryn Hawthorne",
-          "url": "https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW"
         }
       ],
-      "duration_ms": 229807,
-      "name": "The Name (feat. Koryn Hawthorne)",
-      "url": "https://open.spotify.com/track/1OLkuTadZZSdfzgUeemRsU"
+      "duration_ms": 207033,
+      "name": "This Is Life",
+      "url": "https://open.spotify.com/track/3X5yUONtNNQgSx7vXhSci0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tomorrow We Live",
+        "url": "https://open.spotify.com/album/5ZjHNjAwBW3atSfIfkCQpR"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "duration_ms": 291715,
+      "name": "Crowns & Thorns (Oceans)",
+      "url": "https://open.spotify.com/track/4odWmR05uVl3Adkas6Ap9e"
     },
     {
       "added_at": null,
@@ -699,22 +711,6 @@
       "duration_ms": 199065,
       "name": "Glorious Day",
       "url": "https://open.spotify.com/track/20pzbIjh5atZVcm0i8Bqnx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tomorrow We Live",
-        "url": "https://open.spotify.com/album/5ZjHNjAwBW3atSfIfkCQpR"
-      },
-      "artists": [
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        }
-      ],
-      "duration_ms": 291715,
-      "name": "Crowns & Thorns (Oceans)",
-      "url": "https://open.spotify.com/track/4odWmR05uVl3Adkas6Ap9e"
     },
     {
       "added_at": null,
@@ -750,11 +746,15 @@
         {
           "name": "KB",
           "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        },
+        {
+          "name": "Koryn Hawthorne",
+          "url": "https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW"
         }
       ],
-      "duration_ms": 207033,
-      "name": "This Is Life",
-      "url": "https://open.spotify.com/track/3X5yUONtNNQgSx7vXhSci0"
+      "duration_ms": 229807,
+      "name": "The Name (feat. Koryn Hawthorne)",
+      "url": "https://open.spotify.com/track/1OLkuTadZZSdfzgUeemRsU"
     },
     {
       "added_at": null,
@@ -855,26 +855,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eagle",
-        "url": "https://open.spotify.com/album/6b5bu55Djo84LSLKIKIb68"
-      },
-      "artists": [
-        {
-          "name": "Transformation Worship",
-          "url": "https://open.spotify.com/artist/4pwGjEvQsgeFE27Sk31r7I"
-        },
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        }
-      ],
-      "duration_ms": 210507,
-      "name": "Eagle",
-      "url": "https://open.spotify.com/track/5tx4rfrsFrxJGCmxVAsH0r"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Good Life",
         "url": "https://open.spotify.com/album/4isPEpuar7DBekswZNoawh"
       },
@@ -895,6 +875,26 @@
       "duration_ms": 246346,
       "name": "One Sixteen",
       "url": "https://open.spotify.com/track/0PxHrnV45CQascq6nWBnLT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eagle",
+        "url": "https://open.spotify.com/album/6b5bu55Djo84LSLKIKIb68"
+      },
+      "artists": [
+        {
+          "name": "Transformation Worship",
+          "url": "https://open.spotify.com/artist/4pwGjEvQsgeFE27Sk31r7I"
+        },
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "duration_ms": 210507,
+      "name": "Eagle",
+      "url": "https://open.spotify.com/track/5tx4rfrsFrxJGCmxVAsH0r"
     },
     {
       "added_at": null,
@@ -939,6 +939,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "His Glory Alone II (Deluxe)",
+        "url": "https://open.spotify.com/album/15oZTncvUSuzlvxBOwsPZS"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "duration_ms": 177664,
+      "name": "It Ain't Safe",
+      "url": "https://open.spotify.com/track/4prm1PK1B7a2j8ELfro1rB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tomorrow We Live",
         "url": "https://open.spotify.com/album/5ZjHNjAwBW3atSfIfkCQpR"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 236353,
       "name": "I Believe",
       "url": "https://open.spotify.com/track/67Up1s05wqRlG7sy0PWMlO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "His Glory Alone II (Deluxe)",
-        "url": "https://open.spotify.com/album/15oZTncvUSuzlvxBOwsPZS"
-      },
-      "artists": [
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        }
-      ],
-      "duration_ms": 177664,
-      "name": "It Ain't Safe",
-      "url": "https://open.spotify.com/track/4prm1PK1B7a2j8ELfro1rB"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is RIOPY. The essential tracks, all in one playlist.",
-  "num_followers": 11196,
+  "num_followers": 11195,
   "original_name": "This Is RIOPY",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahORAAAAAACyDcXzFAZE9JgE/lyb3hvh",
+  "snapshot_id": "ahTigAAAAAAes/gu/huPPzFEIW/D9yp0",
   "tracks": [
     {
       "added_at": null,
@@ -495,22 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Be Love",
-        "url": "https://open.spotify.com/album/25PtUTrtPiAFlgTxHBFZ3L"
-      },
-      "artists": [
-        {
-          "name": "RIOPY",
-          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
-        }
-      ],
-      "duration_ms": 234520,
-      "name": "The Heart's Monologue",
-      "url": "https://open.spotify.com/track/0gYmdTjbKcJYZf0CfF2f7e"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Portraits in Film",
         "url": "https://open.spotify.com/album/5UgUWVUhDfevhi7qYOClzB"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 199648,
       "name": "Brave Heart",
       "url": "https://open.spotify.com/track/040Md6cPvzjqwPXZIcPnm4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Be Love",
+        "url": "https://open.spotify.com/album/25PtUTrtPiAFlgTxHBFZ3L"
+      },
+      "artists": [
+        {
+          "name": "RIOPY",
+          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
+        }
+      ],
+      "duration_ms": 234520,
+      "name": "The Heart's Monologue",
+      "url": "https://open.spotify.com/track/0gYmdTjbKcJYZf0CfF2f7e"
     },
     {
       "added_at": null,
@@ -559,22 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Be Love",
-        "url": "https://open.spotify.com/album/25PtUTrtPiAFlgTxHBFZ3L"
-      },
-      "artists": [
-        {
-          "name": "RIOPY",
-          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
-        }
-      ],
-      "duration_ms": 339026,
-      "name": "Law of One",
-      "url": "https://open.spotify.com/track/6F49Fonv14f9GaCLCmLNk3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Le R\u00eave d'une note",
         "url": "https://open.spotify.com/album/3kaHw48zUVcXBK5wCsWITY"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 1354080,
       "name": "Meditation 22",
       "url": "https://open.spotify.com/track/2zyt5VHuSeLPBfUjl9uDNx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Be Love",
+        "url": "https://open.spotify.com/album/25PtUTrtPiAFlgTxHBFZ3L"
+      },
+      "artists": [
+        {
+          "name": "RIOPY",
+          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
+        }
+      ],
+      "duration_ms": 339026,
+      "name": "Law of One",
+      "url": "https://open.spotify.com/track/6F49Fonv14f9GaCLCmLNk3"
     },
     {
       "added_at": null,
@@ -623,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Be Love",
-        "url": "https://open.spotify.com/album/25PtUTrtPiAFlgTxHBFZ3L"
-      },
-      "artists": [
-        {
-          "name": "RIOPY",
-          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
-        }
-      ],
-      "duration_ms": 247240,
-      "name": "Let's Be Love",
-      "url": "https://open.spotify.com/track/2E0WRWiMM4zOI68fbn7SmN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Meditation 111",
         "url": "https://open.spotify.com/album/418PRzkbwMn1lsbNtBWHeC"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 142083,
       "name": "Meditation 111",
       "url": "https://open.spotify.com/track/4OpzaBPXTZkBKyiQVYxMag"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Be Love",
+        "url": "https://open.spotify.com/album/25PtUTrtPiAFlgTxHBFZ3L"
+      },
+      "artists": [
+        {
+          "name": "RIOPY",
+          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
+        }
+      ],
+      "duration_ms": 247240,
+      "name": "Let's Be Love",
+      "url": "https://open.spotify.com/track/2E0WRWiMM4zOI68fbn7SmN"
     },
     {
       "added_at": null,

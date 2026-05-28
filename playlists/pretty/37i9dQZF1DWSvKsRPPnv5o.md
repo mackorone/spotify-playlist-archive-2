@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 
 > Holdin' it down for the westside\. Cover: Shoreline Mafia
 
-[Spotify](https://open.spotify.com/user/spotify) - 760,775 likes - 100 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 760,798 likes - 100 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 | 17 | [Ball Harder](https://open.spotify.com/track/6pEx3gSkwi5e7piCncmtMj) | [Ralfy the Plug](https://open.spotify.com/artist/1yI0tX9OnfOx9siPj8KNOO) | [Wreck It Ralfy \(DELUXE\)](https://open.spotify.com/album/54UtAzpvBDVCyvsxe9S6xL) | 2:53 |
 | 18 | [Drink & Smoke \(feat\. E\-40 & Tyga\)](https://open.spotify.com/track/0RL0SF5KCuDeEh4LVYeiM0) | [Too $hort](https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Drink & Smoke \(feat\. E\-40 & Tyga\)](https://open.spotify.com/album/3F9rnMkAumNc3tikqpSFSV) | 2:30 |
 | 19 | [Flexin](https://open.spotify.com/track/76I76nY4IgJmCvKe9dnz8K) | [MoneySign Suede](https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh) | [Flexin](https://open.spotify.com/album/2y2unYJWAHwP7wYKt07BRw) | 1:53 |
-| 20 | [She A Freak Interlude](https://open.spotify.com/track/404H3p8Vbw34Eo6U64U5E2) | [Rucci](https://open.spotify.com/artist/7q836WTO8OHUS85E2RyxxA) | [She A Freak Interlude](https://open.spotify.com/album/3F3ayyOtQW0c1ShDaaj69Q) | 1:43 |
+| 20 | [She A Freak Interlude](https://open.spotify.com/track/404H3p8Vbw34Eo6U64U5E2) | [Rucci](https://open.spotify.com/artist/7q836WTO8OHUS85E2RyxxA) | [She A Freak Interlude](https://open.spotify.com/album/3F3ayyOtQW0c1ShDaaj69Q) | 1:42 |
 | 21 | [Bed Rest](https://open.spotify.com/track/3hzPdQzoswzPhbHX4bHgyP) | [JasonMartin](https://open.spotify.com/artist/0399oiMcmbOzzsYQDNYqxn), [Dj Flippp](https://open.spotify.com/artist/4MyJFvr1LOniuQPUcqa0aw), [Fenix Flexin](https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb) | [Quik Flip](https://open.spotify.com/album/7yldo3BKdTIfT5kf4YRSC9) | 3:32 |
 | 22 | [Married to the Game](https://open.spotify.com/track/6VFkxVv1wJ0UYvGuR0mQjU) | [Haiti Babii](https://open.spotify.com/artist/6NQgMwGc3jvdwGZKUbhhHi) | [Married to the Game](https://open.spotify.com/album/2PUbba2cjLyVPR82IIMXrl) | 2:44 |
 | 23 | [THATS LIQUOR](https://open.spotify.com/track/5N2ik8bMAIb1kBAeJ9fdw0) | [Zoe Osama](https://open.spotify.com/artist/63FIRo90iuMjz2byQS6nmz) | [THATS LIQUOR](https://open.spotify.com/album/66Cyb9Ql5zo0Bwy3cxKFCd) | 3:06 |

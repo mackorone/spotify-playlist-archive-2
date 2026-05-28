@@ -179,6 +179,28 @@
     },
     {
       "album": {
+        "name": "Damares (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4Petql4tkPmHlXKPXoX8bA"
+      },
+      "artists": [
+        {
+          "name": "Damares",
+          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        },
+        {
+          "name": "Louvor Eterno",
+          "url": "https://open.spotify.com/artist/2vLe8zH15xtqw8jKRmmKAw"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261466,
+      "name": "Adore a Ele (Ao Vivo)",
+      "url": "https://open.spotify.com/track/1thGZNa63LWVsMzX9hOd0C"
+    },
+    {
+      "album": {
         "name": "Mega Hits - Damares",
         "url": "https://open.spotify.com/album/4f79ee5SBaI30R1oyl6P9J"
       },

@@ -1,6 +1,6 @@
 {
   "description": "Unos buenos riffs de guitarra para acompa\u00f1arte en el camino. ",
-  "num_followers": 213510,
+  "num_followers": 213512,
   "original_name": "Viaje en Carretera: Rock",
   "owner": {
     "name": "Spotify",
@@ -431,6 +431,22 @@
     {
       "added_at": "2026-05-08 06:00:09",
       "album": {
+        "name": "Contrareloj",
+        "url": "https://open.spotify.com/album/3e86fuFCEkoo3c2BESiLvd"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "duration_ms": 161440,
+      "name": "La Muralla Verde",
+      "url": "https://open.spotify.com/track/6OKhBvddAlWxxFnjbpilhu"
+    },
+    {
+      "added_at": "2026-05-08 06:00:09",
+      "album": {
         "name": "Demon Days",
         "url": "https://open.spotify.com/album/0bUTHlWbkSQysoM3VsWldT"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 230426,
       "name": "Dirty Harry (feat. Bootie Brown)",
       "url": "https://open.spotify.com/track/2bfGNzdiRa1jXZRdfssSzR"
-    },
-    {
-      "added_at": "2026-05-08 06:00:09",
-      "album": {
-        "name": "Contrareloj",
-        "url": "https://open.spotify.com/album/3e86fuFCEkoo3c2BESiLvd"
-      },
-      "artists": [
-        {
-          "name": "Los Enanitos Verdes",
-          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
-        }
-      ],
-      "duration_ms": 161440,
-      "name": "La Muralla Verde",
-      "url": "https://open.spotify.com/track/6OKhBvddAlWxxFnjbpilhu"
     },
     {
       "added_at": "2026-05-08 06:00:09",

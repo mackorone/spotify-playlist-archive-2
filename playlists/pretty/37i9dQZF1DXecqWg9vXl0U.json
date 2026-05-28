@@ -1,6 +1,6 @@
 {
   "description": "como en una nube. Bedroom pop vibes featuring fidoisblue \u2728",
-  "num_followers": 56879,
+  "num_followers": 56886,
   "original_name": "dreamy ",
   "owner": {
     "name": "Spotify",
@@ -231,26 +231,6 @@
     {
       "added_at": "2025-12-05 14:55:26",
       "album": {
-        "name": "for good (with RENEE)",
-        "url": "https://open.spotify.com/album/3WdMJuv0B4oYEZBaFVJI2H"
-      },
-      "artists": [
-        {
-          "name": "Danny Schiller",
-          "url": "https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC"
-        },
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 182481,
-      "name": "for good (with RENEE)",
-      "url": "https://open.spotify.com/track/78HK0gO7EqqvTrxvnHX9VP"
-    },
-    {
-      "added_at": "2025-12-05 14:55:26",
-      "album": {
         "name": "No pudimos ser </3",
         "url": "https://open.spotify.com/album/3wnMvuFOaI2BHv5NLy6WbF"
       },
@@ -267,6 +247,26 @@
       "duration_ms": 188490,
       "name": "no pudimos ser </3",
       "url": "https://open.spotify.com/track/2Yovk3o959wt0HT5xxbuNM"
+    },
+    {
+      "added_at": "2025-12-05 14:55:26",
+      "album": {
+        "name": "for good (with RENEE)",
+        "url": "https://open.spotify.com/album/3WdMJuv0B4oYEZBaFVJI2H"
+      },
+      "artists": [
+        {
+          "name": "Danny Schiller",
+          "url": "https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC"
+        },
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 182481,
+      "name": "for good (with RENEE)",
+      "url": "https://open.spotify.com/track/78HK0gO7EqqvTrxvnHX9VP"
     },
     {
       "added_at": "2025-12-05 14:55:26",
@@ -571,22 +571,6 @@
     {
       "added_at": "2025-12-05 14:55:26",
       "album": {
-        "name": "4ME",
-        "url": "https://open.spotify.com/album/1fnkE945x2Q1NAiUTvhcHC"
-      },
-      "artists": [
-        {
-          "name": "Kirnbauer",
-          "url": "https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA"
-        }
-      ],
-      "duration_ms": 160421,
-      "name": "4ME",
-      "url": "https://open.spotify.com/track/0zVhZg7WBIffwnHmxqhYdY"
-    },
-    {
-      "added_at": "2025-12-05 14:55:26",
-      "album": {
         "name": "Estudio A",
         "url": "https://open.spotify.com/album/5DzdNL9tkKzE7zXpbnLzVb"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 154282,
       "name": "Acapulco En La Azotea",
       "url": "https://open.spotify.com/track/2YHGUmTcXCnTe40uwDprsj"
+    },
+    {
+      "added_at": "2025-12-05 14:55:26",
+      "album": {
+        "name": "4ME",
+        "url": "https://open.spotify.com/album/1fnkE945x2Q1NAiUTvhcHC"
+      },
+      "artists": [
+        {
+          "name": "Kirnbauer",
+          "url": "https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA"
+        }
+      ],
+      "duration_ms": 160421,
+      "name": "4ME",
+      "url": "https://open.spotify.com/track/0zVhZg7WBIffwnHmxqhYdY"
     },
     {
       "added_at": "2025-12-05 14:55:26",
@@ -643,26 +643,6 @@
     {
       "added_at": "2025-12-05 14:55:26",
       "album": {
-        "name": "En Todas Partes",
-        "url": "https://open.spotify.com/album/5jV6AmV4Gpg8GSe3WhSjof"
-      },
-      "artists": [
-        {
-          "name": "Micaela Salaverry",
-          "url": "https://open.spotify.com/artist/2kihOo2Sxwt99sOHc7KFeo"
-        },
-        {
-          "name": "Clara Yolks",
-          "url": "https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59"
-        }
-      ],
-      "duration_ms": 217636,
-      "name": "En Todas Partes",
-      "url": "https://open.spotify.com/track/3e0oTmzpggchmvDpUgEgbL"
-    },
-    {
-      "added_at": "2025-12-05 14:55:26",
-      "album": {
         "name": "Fantasma",
         "url": "https://open.spotify.com/album/3Gwfk6hLAx66DXTW8xqJjo"
       },
@@ -679,6 +659,26 @@
       "duration_ms": 201625,
       "name": "Fantasma",
       "url": "https://open.spotify.com/track/415oY7i4j1QVBVa5BM09nK"
+    },
+    {
+      "added_at": "2025-12-05 14:55:26",
+      "album": {
+        "name": "En Todas Partes",
+        "url": "https://open.spotify.com/album/5jV6AmV4Gpg8GSe3WhSjof"
+      },
+      "artists": [
+        {
+          "name": "Micaela Salaverry",
+          "url": "https://open.spotify.com/artist/2kihOo2Sxwt99sOHc7KFeo"
+        },
+        {
+          "name": "Clara Yolks",
+          "url": "https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59"
+        }
+      ],
+      "duration_ms": 217636,
+      "name": "En Todas Partes",
+      "url": "https://open.spotify.com/track/3e0oTmzpggchmvDpUgEgbL"
     },
     {
       "added_at": "2025-12-05 14:55:26",
@@ -703,18 +703,22 @@
     {
       "added_at": "2025-12-05 14:55:26",
       "album": {
-        "name": "Lucecita",
-        "url": "https://open.spotify.com/album/77X5kJMyiM5s1djOOXd2pX"
+        "name": "cartulinas de colores",
+        "url": "https://open.spotify.com/album/62r1JOXim0HDI909Vl0QiC"
       },
       "artists": [
         {
-          "name": "Pedrina",
-          "url": "https://open.spotify.com/artist/7BdQWt4FjHEvmTH6jmaJd1"
+          "name": "Caztro",
+          "url": "https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW"
+        },
+        {
+          "name": "Pau Laggies",
+          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
         }
       ],
-      "duration_ms": 165156,
-      "name": "Lucecita",
-      "url": "https://open.spotify.com/track/1IRjqq6J32F79HUwYvwYHH"
+      "duration_ms": 159765,
+      "name": "cartulinas de colores",
+      "url": "https://open.spotify.com/track/2wEfLzvEWrSWmi63CeNDSO"
     },
     {
       "added_at": "2025-12-05 14:55:26",
@@ -739,22 +743,18 @@
     {
       "added_at": "2025-12-05 14:55:26",
       "album": {
-        "name": "cartulinas de colores",
-        "url": "https://open.spotify.com/album/62r1JOXim0HDI909Vl0QiC"
+        "name": "Lucecita",
+        "url": "https://open.spotify.com/album/77X5kJMyiM5s1djOOXd2pX"
       },
       "artists": [
         {
-          "name": "Caztro",
-          "url": "https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW"
-        },
-        {
-          "name": "Pau Laggies",
-          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
+          "name": "Pedrina",
+          "url": "https://open.spotify.com/artist/7BdQWt4FjHEvmTH6jmaJd1"
         }
       ],
-      "duration_ms": 159765,
-      "name": "cartulinas de colores",
-      "url": "https://open.spotify.com/track/2wEfLzvEWrSWmi63CeNDSO"
+      "duration_ms": 165156,
+      "name": "Lucecita",
+      "url": "https://open.spotify.com/track/1IRjqq6J32F79HUwYvwYHH"
     },
     {
       "added_at": "2025-12-05 14:55:26",
@@ -799,6 +799,22 @@
     {
       "added_at": "2025-12-05 14:55:26",
       "album": {
+        "name": "California",
+        "url": "https://open.spotify.com/album/25mZUa1WpgJC6r3zlmK05I"
+      },
+      "artists": [
+        {
+          "name": "Nunca Fuimos Listos",
+          "url": "https://open.spotify.com/artist/68ACpELeoQ2CcSYksOvQ8T"
+        }
+      ],
+      "duration_ms": 231722,
+      "name": "California",
+      "url": "https://open.spotify.com/track/2nQewD0vqhQBnCReBypscv"
+    },
+    {
+      "added_at": "2025-12-05 14:55:26",
+      "album": {
         "name": "Te encontr\u00e9",
         "url": "https://open.spotify.com/album/6pDXj3YRssQQq8kOwzWZKg"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 183056,
       "name": "Amantes Astrales",
       "url": "https://open.spotify.com/track/0dRTLMldDfPopHHYw9FzyA"
-    },
-    {
-      "added_at": "2025-12-05 14:55:26",
-      "album": {
-        "name": "California",
-        "url": "https://open.spotify.com/album/25mZUa1WpgJC6r3zlmK05I"
-      },
-      "artists": [
-        {
-          "name": "Nunca Fuimos Listos",
-          "url": "https://open.spotify.com/artist/68ACpELeoQ2CcSYksOvQ8T"
-        }
-      ],
-      "duration_ms": 231722,
-      "name": "California",
-      "url": "https://open.spotify.com/track/2nQewD0vqhQBnCReBypscv"
     },
     {
       "added_at": "2025-12-05 14:55:26",
@@ -903,6 +903,22 @@
     {
       "added_at": "2025-12-05 14:55:26",
       "album": {
+        "name": "Nada me cansa",
+        "url": "https://open.spotify.com/album/3Who85F2Gg09ZuJINbGGgA"
+      },
+      "artists": [
+        {
+          "name": "RPLK",
+          "url": "https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g"
+        }
+      ],
+      "duration_ms": 122553,
+      "name": "Nada me cansa",
+      "url": "https://open.spotify.com/track/4dhvnt64kcBObdSH2JFXnb"
+    },
+    {
+      "added_at": "2025-12-05 14:55:26",
+      "album": {
         "name": "Adentro M\u00edo",
         "url": "https://open.spotify.com/album/4LUtBY7vKqZ8ctSk195AcJ"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 220000,
       "name": "Adentro M\u00edo",
       "url": "https://open.spotify.com/track/1eqy9eJep6OX0lWKbevodl"
-    },
-    {
-      "added_at": "2025-12-05 14:55:26",
-      "album": {
-        "name": "Nada me cansa",
-        "url": "https://open.spotify.com/album/3Who85F2Gg09ZuJINbGGgA"
-      },
-      "artists": [
-        {
-          "name": "RPLK",
-          "url": "https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g"
-        }
-      ],
-      "duration_ms": 122553,
-      "name": "Nada me cansa",
-      "url": "https://open.spotify.com/track/4dhvnt64kcBObdSH2JFXnb"
     },
     {
       "added_at": "2025-12-05 14:55:26",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2025-12-05 14:55:26",
       "album": {
-        "name": "\u00daltimo Intento",
-        "url": "https://open.spotify.com/album/6cLORSZVsdonI0tYVUEK0d"
-      },
-      "artists": [
-        {
-          "name": "Manu Beker",
-          "url": "https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH"
-        }
-      ],
-      "duration_ms": 174915,
-      "name": "\u00daltimo Intento",
-      "url": "https://open.spotify.com/track/5wXBavPSFmy6ImZdeTxPAt"
-    },
-    {
-      "added_at": "2025-12-05 14:55:26",
-      "album": {
         "name": "Nostalgia en Rosa",
         "url": "https://open.spotify.com/album/19GhGsz9cqLY4nXQnA3bDQ"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 242713,
       "name": "IKIGAI",
       "url": "https://open.spotify.com/track/1FezdADxZtkTcOmKqvj2dc"
+    },
+    {
+      "added_at": "2025-12-05 14:55:26",
+      "album": {
+        "name": "\u00daltimo Intento",
+        "url": "https://open.spotify.com/album/6cLORSZVsdonI0tYVUEK0d"
+      },
+      "artists": [
+        {
+          "name": "Manu Beker",
+          "url": "https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH"
+        }
+      ],
+      "duration_ms": 174915,
+      "name": "\u00daltimo Intento",
+      "url": "https://open.spotify.com/track/5wXBavPSFmy6ImZdeTxPAt"
     },
     {
       "added_at": "2025-12-05 14:55:26",

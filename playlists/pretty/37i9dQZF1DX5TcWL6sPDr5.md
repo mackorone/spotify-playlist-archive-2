@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5TcWL6sPDr5.md) - [plain]
 
 > Listen to women at full volume\. Cover: Olga Myko 💚
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,367 likes - 102 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,361 likes - 102 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5TcWL6sPDr5.md) - [plain]
 | 101 | [Butterfly Knives](https://open.spotify.com/track/7kSrQbne9ovuITpTocNc4i) | [Ydegirl](https://open.spotify.com/artist/3YAUbceL2MyJfajlikdn1V) | [Butterfly Knives](https://open.spotify.com/album/4zkWLFaNafYsgjBggpjMF6) | 3:35 |
 | 102 | [You Always Liked Me Better When I Was Stoned](https://open.spotify.com/track/31Zd47aEZP29ZoGQkp45VN) | [eee gee](https://open.spotify.com/artist/7wwdO3koJONTrS5TtFJ8RN) | [You Always Liked Me Better When I Was Stoned](https://open.spotify.com/album/4JUnK6tzlRvi07mUSxN8hH) | 3:09 |
 
-Snapshot ID: `AAAAABblvNdupMMlKKaixBkBNqwEkMjc`
+Snapshot ID: `AAAAAMxeiJdWP6OrDy7sdFgbEpqZeFq/`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/40iAGsoglYqgoY3UsDOciO.md) - [plain]
 
 > A frequently updated playlist with brand\-new songs from new &amp;amp; established artists\. 🤖🚫&\#x2F;&\#x2F; Cover: $NOT \| pitch.playlistd@gmail.com
 
-[Finnster the curator](https://open.spotify.com/user/31fq6dcligacgxd7qfidijrq2uoi) - 734 likes - 506 songs - 1 day 0 hr 25 min
+[Finnster the curator](https://open.spotify.com/user/31fq6dcligacgxd7qfidijrq2uoi) - 738 likes - 506 songs - 1 day 0 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -215,7 +215,7 @@ pretty - [cumulative](/playlists/cumulative/40iAGsoglYqgoY3UsDOciO.md) - [plain]
 | 205 | [Synchronicity](https://open.spotify.com/track/7vWR7jeskIB2MnzEBchpkw) | [Carl Redy](https://open.spotify.com/artist/53MUqdsPOF4OLoFSxl8F1f) | [Synchronicity](https://open.spotify.com/album/21sYiwMTEQeSBqV0uUKsbO) | 3:55 |
 | 206 | [Pagal Karunga \| Official Music](https://open.spotify.com/track/0gDGoXFSSSRhX7nIf8fpTU) | [THS SyL](https://open.spotify.com/artist/3zrUU8ZvaCz2XDxvtCuRpH) | [Pagal Karunga \| Official Music](https://open.spotify.com/album/6qWeALlxCW7UshWYaLHayb) | 3:26 |
 | 207 | [74 Cromwell Avenue \(The Way We Were\)](https://open.spotify.com/track/0rh0meIPY6p7DcNdpUZR5h) | [MNIB](https://open.spotify.com/artist/5lKWiFsG07JzfOqEDUizem), [The Honourable Minister Louis Farrakhan](https://open.spotify.com/artist/4FtUXBA3BecXGznJWoLT16) | [74 Cromwell Avenue \(Before I Was Born\)](https://open.spotify.com/album/6Ox8XncQV66GSKN9efYWzF) | 4:01 |
-| 208 | [LA GIRL](https://open.spotify.com/track/03VpBWkeygGaOj4XYLrCco) | [NASH.](https://open.spotify.com/artist/3jZ1hUbprh8AswEyrS2wFT) | [LA GIRL](https://open.spotify.com/album/0QBADCSjOJ3WJaZCGizZSt) | 1:50 |
+| 208 | [LA GIRL](https://open.spotify.com/track/03VpBWkeygGaOj4XYLrCco) | [JNASH](https://open.spotify.com/artist/1oPro54yTD919mOivPcAHf) | [LA GIRL](https://open.spotify.com/album/0QBADCSjOJ3WJaZCGizZSt) | 1:50 |
 | 209 | [My Legacy](https://open.spotify.com/track/5EDSPYRpA7L4AJP5foKQaY) | [pait blaxton](https://open.spotify.com/artist/2Bfc7DqXTD62tt6xJ7H0jz) | [My Legacy](https://open.spotify.com/album/4flg7nwXshDDdoZMn2nnDc) | 3:10 |
 | 210 | [Flowers \- Remix](https://open.spotify.com/track/02JpzIVlozZ36LaSAavc4j) | [Jurny Big](https://open.spotify.com/artist/6si2QWdLMMGoSjIgyhmcSu), [Sadat X](https://open.spotify.com/artist/7fDLDq2weBagiAFD2j17Al), [Newselph](https://open.spotify.com/artist/6NnI0HYa1wm5iasy4IYb81) | [Flowers \(Remix\)](https://open.spotify.com/album/4p5mFXslR5ty1u6gb0hAAs) | 2:59 |
 | 211 | [OUT OF LINE!](https://open.spotify.com/track/7quzuavSMVCnO5oybTm505) | [Lil Nucleus](https://open.spotify.com/artist/23xK07bovUynQY9LDP6foQ) | [OUT OF LINE!](https://open.spotify.com/album/5SGvUDsvgsRMEM9rOXdGFM) | 2:41 |

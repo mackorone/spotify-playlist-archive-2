@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Samantha Loveridge
 
-[Spotify](https://open.spotify.com/user/spotify) - 747,723 likes - 90 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 747,779 likes - 90 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 50 | [LEFT TO RIGHT](https://open.spotify.com/track/7bUonEkuIUb2UITU13Mgpe) | [DONT BLINK](https://open.spotify.com/artist/1AD6JUzgEvTAI8TLGwlrba) | [LEFT TO RIGHT](https://open.spotify.com/album/78cNPLpJzZD8dP850WsySO) | 2:49 |
 | 51 | [Set U Free \- Video Edit](https://open.spotify.com/track/3fmTyt1kq3nEAIfe5qiqND) | [Jay Lumen](https://open.spotify.com/artist/6rxmj7vNEofe96g84qMWoV) | [Set U Free \(Video Edit\)](https://open.spotify.com/album/1591E1b2n1reAqrL5XLZJP) | 5:54 |
 | 52 | [Down Down \- Dixon Edit](https://open.spotify.com/track/2rXIxSOy6BtCnmM3xsHr4H) | [Ede](https://open.spotify.com/artist/7mxkWNWc7ceydKrZmVQmKK), [Dixon](https://open.spotify.com/artist/3wc57nV2fGEoM8x4xPK1O9) | [Down Down \(Dixon Edit\)](https://open.spotify.com/album/6Flo7KS1VkdWXHRvfxqhZF) | 3:15 |
-| 53 | [lose you](https://open.spotify.com/track/0poSEmyaHQPOVPRUIEuMu0) | [Ghosts](https://open.spotify.com/artist/5SjJtnqcr2h1sGocLdOObR) | [lose you](https://open.spotify.com/album/789uQ0meKzAUO2Vd707JFL) | 2:45 |
+| 53 | [lose you](https://open.spotify.com/track/0poSEmyaHQPOVPRUIEuMu0) | [GHOSTS](https://open.spotify.com/artist/5SjJtnqcr2h1sGocLdOObR) | [lose you](https://open.spotify.com/album/789uQ0meKzAUO2Vd707JFL) | 2:45 |
 | 54 | [Concrete Bloom](https://open.spotify.com/track/6pGBF9C6gh1OlIoeZqHAtG) | [Felix Raphael](https://open.spotify.com/artist/4nknUpUYu4baxWwkunq81Z) | [Concrete Bloom](https://open.spotify.com/album/7sqCLcRHi3kECaslBjUCE7) | 3:54 |
 | 55 | [Now Rush](https://open.spotify.com/track/3fe1SV8uyq1Fb3aDid4lcM) | [Hior Chronik](https://open.spotify.com/artist/0WwDqOLT2m5PuAsFGkEybC) | [Now Rush](https://open.spotify.com/album/49TJNeAEtB4dEKidn6ywDi) | 4:53 |
 | 56 | [Feel](https://open.spotify.com/track/3DL1bkbyZLKq7fjF5BHOyx) | [ALADAG](https://open.spotify.com/artist/1UxqOQnO1IPi07q5nB3src) | [Feel](https://open.spotify.com/album/5fRsuAlGBGQtcsKjaTh6sl) | 4:33 |

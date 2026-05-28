@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: Balming Tiger\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 514,387 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 514,362 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 | 49 | [Godspeed](https://open.spotify.com/track/7BoDS7yidANiu8l7RSX4f2) | [Far East Asian Tigers](https://open.spotify.com/artist/6GUWxio3LfJjV8DyH6RXEM) | [Godspeed](https://open.spotify.com/album/43og6RV6u8MLwcdDbkgtjC) | 4:14 |
 | 50 | [Give me a Sin](https://open.spotify.com/track/1Z7ppeuMBD3yZwSKfl0c1I) | [나잠 수](https://open.spotify.com/artist/4BbJ7qarnJ3e5fgkZjD9Vf), [MOONSUN](https://open.spotify.com/artist/2i3uapmahaLJ4e2E9UkrV4) | [The Adventure Story of Nahzam and SSun](https://open.spotify.com/album/0ayKvVIM2rUFc1HIM2xn4g) | 3:19 |
 
-Snapshot ID: `AAAAAPecvO0fhI/QxMnt+D6sI8Ndsgq/`
+Snapshot ID: `AAAAAECI0/QV55+iUWWGhffvfVEK3/XC`

@@ -10637,6 +10637,24 @@
     },
     {
       "album": {
+        "name": "HOURGLASS / WORLDS AWAY",
+        "url": "https://open.spotify.com/album/34ovE21vU00pHkmLzvM87P"
+      },
+      "artists": [
+        {
+          "name": "Gracie Van Brunt",
+          "url": "https://open.spotify.com/artist/61ehajEjCepvX1LehNWtKt"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232850,
+      "name": "HOURGLASS",
+      "url": "https://open.spotify.com/track/0wejZszJesttJYEkgkpFWb"
+    },
+    {
+      "album": {
         "name": "how to feel alive",
         "url": "https://open.spotify.com/album/64CuCT2IKWYddwO9KkZDlK"
       },

@@ -1,6 +1,6 @@
 {
   "description": "Nagrody rozdane! Pos\u0142uchaj zwyci\u0119zc\u00f3w i  nominowanych utwor\u00f3w w kategorii singiel roku. ",
-  "num_followers": 11786,
+  "num_followers": 11784,
   "original_name": "Popkillery 2026: Singiel Roku",
   "owner": {
     "name": "Spotify",
@@ -595,26 +595,6 @@
     {
       "added_at": "2026-04-09 22:12:46",
       "album": {
-        "name": "R\u00f3\u017cowe Diamenty",
-        "url": "https://open.spotify.com/album/5FRwgkqHl0NWdawXB8m6q4"
-      },
-      "artists": [
-        {
-          "name": "Young Leosia",
-          "url": "https://open.spotify.com/artist/0iBTVnJ1Sff92zCDujfvyJ"
-        },
-        {
-          "name": "Deemz",
-          "url": "https://open.spotify.com/artist/3gm9b6AeMf2eGQTLashkDt"
-        }
-      ],
-      "duration_ms": 153402,
-      "name": "R\u00f3\u017cowe Diamenty",
-      "url": "https://open.spotify.com/track/3IXuxsI9ltJw3WpRzVtSPL"
-    },
-    {
-      "added_at": "2026-04-09 22:12:46",
-      "album": {
         "name": "W co ja si\u0119 wjeba\u0142em - Nowe Rozdanie | S1",
         "url": "https://open.spotify.com/album/6PnfYYqAiGUgPr1JV8zPQ8"
       },
@@ -643,6 +623,26 @@
       "duration_ms": 186929,
       "name": "W co ja si\u0119 wjeba\u0142em - Nowe Rozdanie | S1",
       "url": "https://open.spotify.com/track/5LreD4p6buqBGNwV84YsZb"
+    },
+    {
+      "added_at": "2026-04-09 22:12:46",
+      "album": {
+        "name": "R\u00f3\u017cowe Diamenty",
+        "url": "https://open.spotify.com/album/5FRwgkqHl0NWdawXB8m6q4"
+      },
+      "artists": [
+        {
+          "name": "Young Leosia",
+          "url": "https://open.spotify.com/artist/0iBTVnJ1Sff92zCDujfvyJ"
+        },
+        {
+          "name": "Deemz",
+          "url": "https://open.spotify.com/artist/3gm9b6AeMf2eGQTLashkDt"
+        }
+      ],
+      "duration_ms": 153402,
+      "name": "R\u00f3\u017cowe Diamenty",
+      "url": "https://open.spotify.com/track/3IXuxsI9ltJw3WpRzVtSPL"
     },
     {
       "added_at": "2026-04-09 22:12:46",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2026-04-09 22:12:46",
       "album": {
-        "name": "ALESHEN II",
-        "url": "https://open.spotify.com/album/0oTX7hZShhVYj8HQ6cwxvJ"
-      },
-      "artists": [
-        {
-          "name": "Aleshen",
-          "url": "https://open.spotify.com/artist/4lmMkf4tLyEKBslusiNZdu"
-        }
-      ],
-      "duration_ms": 152790,
-      "name": "Nowa Kultura",
-      "url": "https://open.spotify.com/track/1l5u5znLAXCxMimLcR6G5f"
-    },
-    {
-      "added_at": "2026-04-09 22:12:46",
-      "album": {
         "name": "nareszcie w domu",
         "url": "https://open.spotify.com/album/7prZBQ3CV8ZUO05o9tnhbb"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 144313,
       "name": "lodowisko",
       "url": "https://open.spotify.com/track/0lQQLAQY4vmCb1dpcz1OlH"
+    },
+    {
+      "added_at": "2026-04-09 22:12:46",
+      "album": {
+        "name": "ALESHEN II",
+        "url": "https://open.spotify.com/album/0oTX7hZShhVYj8HQ6cwxvJ"
+      },
+      "artists": [
+        {
+          "name": "Aleshen",
+          "url": "https://open.spotify.com/artist/4lmMkf4tLyEKBslusiNZdu"
+        }
+      ],
+      "duration_ms": 152790,
+      "name": "Nowa Kultura",
+      "url": "https://open.spotify.com/track/1l5u5znLAXCxMimLcR6G5f"
     },
     {
       "added_at": "2026-04-09 22:12:46",

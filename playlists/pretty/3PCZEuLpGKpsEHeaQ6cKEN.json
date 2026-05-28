@@ -1,12 +1,12 @@
 {
   "description": "The tracks we love, work on and enjoy every hour of the day | Including trance, house, techno, dance, Afro house, melodic techno | Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! | Updated weekly on Friday | ",
-  "num_followers": 259341,
+  "num_followers": 259330,
   "original_name": "Armada Today",
   "owner": {
     "name": "Armada Music",
     "url": "https://open.spotify.com/user/armadamusicofficial"
   },
-  "snapshot_id": "AADV3QYrp+jgFFU2ISvdoimn78NJtiNf",
+  "snapshot_id": "AADV3/gJF1zT+XaUOCNfP+NO8SFIZWdx",
   "tracks": [
     {
       "added_at": "2026-05-22 02:00:20",
@@ -203,6 +203,34 @@
       "duration_ms": 185624,
       "name": "Sweet Release",
       "url": "https://open.spotify.com/track/1pxdqDrgMWXzlv2BtTV2SH"
+    },
+    {
+      "added_at": "2026-05-27 12:15:17",
+      "album": {
+        "name": "Girls Like Us (D.O.D Remix)",
+        "url": "https://open.spotify.com/album/752pb1dCNc46vdMsPqwizk"
+      },
+      "artists": [
+        {
+          "name": "B15 Project",
+          "url": "https://open.spotify.com/artist/6dflJhpEMW53KdFMj4myPc"
+        },
+        {
+          "name": "Crissy D",
+          "url": "https://open.spotify.com/artist/3Pu3KpT4wihOuoADlMWRSh"
+        },
+        {
+          "name": "Lady G",
+          "url": "https://open.spotify.com/artist/6dvIEb67jvtYQnnXrgwrxJ"
+        },
+        {
+          "name": "D.O.D",
+          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
+        }
+      ],
+      "duration_ms": 168586,
+      "name": "Girls Like Us - D.O.D Remix",
+      "url": "https://open.spotify.com/track/60DS47pDB5abt1Tob5QlhH"
     },
     {
       "added_at": "2026-05-18 14:02:33",

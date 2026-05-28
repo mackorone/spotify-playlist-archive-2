@@ -1,12 +1,12 @@
 {
   "description": "This is Elliott Smith. The essential tracks, all in one playlist.",
-  "num_followers": 87822,
+  "num_followers": 87833,
   "original_name": "This Is Elliott Smith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahORAAAAAABLFempQIBUHorSxff76bI6",
+  "snapshot_id": "ahTigAAAAAC353gKpd8Qy1xmxxuc4JjI",
   "tracks": [
     {
       "added_at": null,
@@ -443,6 +443,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Roman Candle",
+        "url": "https://open.spotify.com/album/6zbWzjBUvXvF16tg98OYck"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "duration_ms": 183053,
+      "name": "No Name #1",
+      "url": "https://open.spotify.com/track/5fKfzL3IVXqilKqFu1E8is"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Heaven Adores You Soundtrack",
         "url": "https://open.spotify.com/album/7Ilu6VpX49cnTkgklQpz4M"
       },
@@ -463,8 +479,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Roman Candle",
-        "url": "https://open.spotify.com/album/6zbWzjBUvXvF16tg98OYck"
+        "name": "Elliott Smith",
+        "url": "https://open.spotify.com/album/1nGWgkinMkmX7BlAuC4umM"
       },
       "artists": [
         {
@@ -472,25 +488,9 @@
           "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 183053,
-      "name": "No Name #1",
-      "url": "https://open.spotify.com/track/5fKfzL3IVXqilKqFu1E8is"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "From A Basement On The Hill",
-        "url": "https://open.spotify.com/album/66UbcdMK6oC2XFPLeESamq"
-      },
-      "artists": [
-        {
-          "name": "Elliott Smith",
-          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
-        }
-      ],
-      "duration_ms": 33800,
-      "name": "Ostrich And Chirping",
-      "url": "https://open.spotify.com/track/25OfkVstO0W60e8OHCggox"
+      "duration_ms": 145786,
+      "name": "Satellite",
+      "url": "https://open.spotify.com/track/3CIVlmcrOjfEE9RmTUnzx2"
     },
     {
       "added_at": null,
@@ -511,8 +511,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Elliott Smith",
-        "url": "https://open.spotify.com/album/1nGWgkinMkmX7BlAuC4umM"
+        "name": "From A Basement On The Hill",
+        "url": "https://open.spotify.com/album/66UbcdMK6oC2XFPLeESamq"
       },
       "artists": [
         {
@@ -520,9 +520,9 @@
           "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 145786,
-      "name": "Satellite",
-      "url": "https://open.spotify.com/track/3CIVlmcrOjfEE9RmTUnzx2"
+      "duration_ms": 33800,
+      "name": "Ostrich And Chirping",
+      "url": "https://open.spotify.com/track/25OfkVstO0W60e8OHCggox"
     },
     {
       "added_at": null,
@@ -543,8 +543,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "From a Basement on the Hill",
-        "url": "https://open.spotify.com/album/4YRoxHoDrGw0LI5rxDH9Dl"
+        "name": "Elliott Smith",
+        "url": "https://open.spotify.com/album/1nGWgkinMkmX7BlAuC4umM"
       },
       "artists": [
         {
@@ -552,9 +552,9 @@
           "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 207733,
-      "name": "The Last Hour",
-      "url": "https://open.spotify.com/track/4w3lNFu4Vwkq2nW1mofie6"
+      "duration_ms": 190573,
+      "name": "Coming Up Roses",
+      "url": "https://open.spotify.com/track/4plICMPtZHZt9TRlvvoupx"
     },
     {
       "added_at": null,
@@ -575,8 +575,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Elliott Smith",
-        "url": "https://open.spotify.com/album/1nGWgkinMkmX7BlAuC4umM"
+        "name": "From a Basement on the Hill",
+        "url": "https://open.spotify.com/album/4YRoxHoDrGw0LI5rxDH9Dl"
       },
       "artists": [
         {
@@ -584,9 +584,9 @@
           "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 190573,
-      "name": "Coming Up Roses",
-      "url": "https://open.spotify.com/track/4plICMPtZHZt9TRlvvoupx"
+      "duration_ms": 207733,
+      "name": "The Last Hour",
+      "url": "https://open.spotify.com/track/4w3lNFu4Vwkq2nW1mofie6"
     },
     {
       "added_at": null,
@@ -607,8 +607,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "From a Basement on the Hill",
-        "url": "https://open.spotify.com/album/4YRoxHoDrGw0LI5rxDH9Dl"
+        "name": "Elliott Smith",
+        "url": "https://open.spotify.com/album/1nGWgkinMkmX7BlAuC4umM"
       },
       "artists": [
         {
@@ -616,9 +616,9 @@
           "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 285733,
-      "name": "Pretty (Ugly Before)",
-      "url": "https://open.spotify.com/track/4f76iWvbHC3mgm0hLmYKEv"
+      "duration_ms": 144800,
+      "name": "The White Lady Loves You More",
+      "url": "https://open.spotify.com/track/6qZOS137Ow5ehV9h3jvBsu"
     },
     {
       "added_at": null,
@@ -639,8 +639,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Elliott Smith",
-        "url": "https://open.spotify.com/album/1nGWgkinMkmX7BlAuC4umM"
+        "name": "From a Basement on the Hill",
+        "url": "https://open.spotify.com/album/4YRoxHoDrGw0LI5rxDH9Dl"
       },
       "artists": [
         {
@@ -648,9 +648,9 @@
           "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 144800,
-      "name": "The White Lady Loves You More",
-      "url": "https://open.spotify.com/track/6qZOS137Ow5ehV9h3jvBsu"
+      "duration_ms": 285733,
+      "name": "Pretty (Ugly Before)",
+      "url": "https://open.spotify.com/track/4f76iWvbHC3mgm0hLmYKEv"
     },
     {
       "added_at": null,

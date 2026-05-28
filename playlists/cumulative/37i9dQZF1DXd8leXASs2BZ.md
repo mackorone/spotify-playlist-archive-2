@@ -4,7 +4,7 @@
 
 > Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: T\-Bobo
 
-1,555 songs - 2 day 23 hr 35 min
+1,556 songs - 2 day 23 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -621,6 +621,7 @@
 | [ICOCA](https://open.spotify.com/track/5fdaLga4W1xSJf3tmjmuIY) | [MIKADO](https://open.spotify.com/artist/2snBLq7pgphB4ObS2otWiM), [lj](https://open.spotify.com/artist/7bf8nSozw4GvGHRSGJ74ez) | [Walk the Walk](https://open.spotify.com/album/4bAYRopzGSipileTYERVtc) | 2:03 | 2025-01-14 | 2025-05-28 |
 | [Ide Tachi \(feat\. HARKA\)](https://open.spotify.com/track/3qNP17mDeUn82dV4J7QW5X) | [Siero](https://open.spotify.com/artist/6mKmlCpX0G439EH9lvFD6r), [Harka](https://open.spotify.com/artist/6GcZguCVovv7iXEPq98VFI) | [Ide Tachi](https://open.spotify.com/album/4pRJQrBHNPtqpDHqjjIqwq) | 2:49 | 2025-07-01 | 2025-11-05 |
 | [Idk Xdys](https://open.spotify.com/track/4pVXWm3oDbp9NvJlCBkE3n) | [Yuta Aoki](https://open.spotify.com/artist/115GfAePAIey0lNR13YDc1) | [Idk Xdys](https://open.spotify.com/album/2tPN2sJXAmQDnNRqo98TN6) | 1:43 | 2023-12-07 | 2023-12-23 |
+| [idontwannagohometonight](https://open.spotify.com/track/6oh5THmzOieyVqQIOyVAq0) | [Lisa lil vinci](https://open.spotify.com/artist/7ArD0uoFbEMDotjrvdrjwH) | [Vazinga boyy your favorite boy](https://open.spotify.com/album/6qeAnuWwyDaEZ7O8ADmI8o) | 2:33 | 2026-05-27 |  |
 | [If you commit a sex crime at my gig, I'll kill you.](https://open.spotify.com/track/03bj2oYrZDSBXpxa4phSy4) | [Worldwide Skippa](https://open.spotify.com/artist/4jZVxu1P8ZnhEBdAAIyL2z) | [Skipping Tape Vol.2](https://open.spotify.com/album/5lkW0c275CAqcgxJLaj5n4) | 1:59 | 2025-09-02 | 2025-11-05 |
 | [iikanji](https://open.spotify.com/track/6BnM0zSmcdPe7hPErGFYvE) | [taro](https://open.spotify.com/artist/4Js1UIksLXH7FLzj99W3vi) | [iikanji](https://open.spotify.com/album/7JjEPqfTY1X0j34H69RUXr) | 2:41 | 2024-01-11 | 2024-03-06 |
 | [IMOTO AYAKO](https://open.spotify.com/track/5Y2ku4mwqkyaqMjRS50z8l) | [BHS Svve](https://open.spotify.com/artist/6uFfH7ZHSnHMXjNCgpIWb2), [goetia gang](https://open.spotify.com/artist/4dtU1fTLlwi1MdYrLTK3hU) | [gg1](https://open.spotify.com/album/7bjEmMy25LHPqWKmlOKLu9) | 1:24 | 2024-05-15 | 2024-07-10 |
@@ -752,7 +753,7 @@
 | [Lilo](https://open.spotify.com/track/1ZiqYB8oUAKirZYA4vCyQD) | [Linobu](https://open.spotify.com/artist/2Wkn5p94WJzu4HoIF7jA1a), [Young 888](https://open.spotify.com/artist/4KJx7z3qf5W2KDVQk3QGuQ) | [Lilo](https://open.spotify.com/album/0oo46i4EKciIkSq4b0EZkU) | 2:46 | 2024-04-16 | 2024-04-24 |
 | [Lilo](https://open.spotify.com/track/6hgEWifAU0i0162TyYpMJF) | [Linobu](https://open.spotify.com/artist/2Wkn5p94WJzu4HoIF7jA1a), [Young 888](https://open.spotify.com/artist/4KJx7z3qf5W2KDVQk3QGuQ) | [Lilo](https://open.spotify.com/album/5ySPzkpK7Pe6f4dhJDCnPS) | 2:46 | 2024-04-02 | 2024-04-19 |
 | [Limited](https://open.spotify.com/track/6dIAf5gs0Mhwe5QoXEXOiz) | [Harka](https://open.spotify.com/artist/0NLHo8KJfXFnDFeynigUze) | [22MIX](https://open.spotify.com/album/667iN9Jjhroj0aI8LZolPi) | 2:27 | 2025-12-16 | 2026-03-25 |
-| [Limited \(feat\. Lisa lil vinci\)](https://open.spotify.com/track/46xcLrdirWaKamdHw7RV0H) | [G:nt](https://open.spotify.com/artist/7rTCASvSLBgzVbsPKe2jbM), [RhymeTube](https://open.spotify.com/artist/31iJDnqpS43YIG18nTFx14), [Lisa lil vinci](https://open.spotify.com/artist/7ArD0uoFbEMDotjrvdrjwH) | [Limited \(feat\. Lisa lil vinci\)](https://open.spotify.com/album/13rN02ZSdTboTk45G2IwOD) | 3:05 | 2026-04-28 |  |
+| [Limited \(feat\. Lisa lil vinci\)](https://open.spotify.com/track/46xcLrdirWaKamdHw7RV0H) | [G:nt](https://open.spotify.com/artist/7rTCASvSLBgzVbsPKe2jbM), [RhymeTube](https://open.spotify.com/artist/31iJDnqpS43YIG18nTFx14), [Lisa lil vinci](https://open.spotify.com/artist/7ArD0uoFbEMDotjrvdrjwH) | [Limited \(feat\. Lisa lil vinci\)](https://open.spotify.com/album/13rN02ZSdTboTk45G2IwOD) | 3:05 | 2026-04-28 | 2026-05-28 |
 | [Listen up!](https://open.spotify.com/track/6MyMeZQQserthbKP0CBX2O) | [Taikenn](https://open.spotify.com/artist/382686zN4WhAsENCQyR0iF) | [Do it now](https://open.spotify.com/album/0guwjO3nZH0OVe9eE1eKPm) | 2:28 | 2024-06-11 | 2024-07-10 |
 | [LIT](https://open.spotify.com/track/7DBU8TXKL8mGWbwj8JcKxd) | [MELLMWOR1D](https://open.spotify.com/artist/2ntpUnudJuitrCi950QadZ), [Ja¥Da](https://open.spotify.com/artist/4NEe9L2w6hCQB8boWIvyV5) | [LIT](https://open.spotify.com/album/1SjSLutr68EY2CdG5NPy9k) | 2:57 | 2023-12-07 | 2023-12-23 |
 | [LIVE AND LET DIE](https://open.spotify.com/track/6bHJh3eNOiXfXjLdq4QNLf) | [Nust B](https://open.spotify.com/artist/7oHVVNzpDc4oxhQ8INY6X5) | [LIVE AND LET DIE](https://open.spotify.com/album/1MMHPI0LJUSb2NYMnfufaK) | 1:48 | 2026-03-24 | 2026-04-22 |

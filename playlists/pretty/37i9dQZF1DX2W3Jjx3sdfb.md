@@ -2,11 +2,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2W3Jjx3sdfb.md) - [plain]
 
 ### [Celebrating Wellness](https://open.spotify.com/playlist/37i9dQZF1DX2W3Jjx3sdfb)
 
-> 
+> Tools, perspective, and comfort for living well, through a queer lens.
 
 [Spotify](https://open.spotify.com/user/spotify) - 15 likes - 0 song - 0 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 
-Snapshot ID: `AAAAAE4t6eUKboBP3QdVBKq/Zp+vbWuZ`
+Snapshot ID: `AAAAAIBG4Ex35PfnyMSulUomd4qWlq8j`

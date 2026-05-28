@@ -386,10 +386,28 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-28",
       "duration_ms": 229655,
       "name": "Girls Like Girls",
       "url": "https://open.spotify.com/track/3dNjUFt6EFU4Gq6Q5vfJqf"
+    },
+    {
+      "album": {
+        "name": "girls like girls (from the motion picture)",
+        "url": "https://open.spotify.com/album/0Yl9iWwS1rNPTR9biReXQM"
+      },
+      "artists": [
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254919,
+      "name": "girls like girls (from the motion picture)",
+      "url": "https://open.spotify.com/track/6iYFgzRp6PQmbTgVCoxMGA"
     },
     {
       "album": {

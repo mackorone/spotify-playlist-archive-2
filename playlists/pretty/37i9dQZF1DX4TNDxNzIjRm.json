@@ -1,6 +1,6 @@
 {
   "description": "Cuando el jangueo est\u00e1 mejor que la fiesta. Hanging out jams.",
-  "num_followers": 1290851,
+  "num_followers": 1290846,
   "original_name": "Jangueo",
   "owner": {
     "name": "Spotify",
@@ -315,22 +315,26 @@
     {
       "added_at": "2026-03-18 17:58:35",
       "album": {
-        "name": "2+2",
-        "url": "https://open.spotify.com/album/08ejWNU2TO4m9h4tUhUQKG"
+        "name": "YO y T\u00da",
+        "url": "https://open.spotify.com/album/1PxEMXkwLR7sfCMAuX50jM"
       },
       "artists": [
         {
-          "name": "Omar Camacho",
-          "url": "https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ"
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
         },
         {
-          "name": "Victor Mendivil",
-          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
         }
       ],
-      "duration_ms": 198300,
-      "name": "2+2",
-      "url": "https://open.spotify.com/track/2GP6UzoA55p6yYiPCGyEhg"
+      "duration_ms": 198153,
+      "name": "YO y T\u00da",
+      "url": "https://open.spotify.com/track/7koAf6aZgjO6TS7bipfPD0"
     },
     {
       "added_at": "2026-03-18 17:58:35",
@@ -387,26 +391,22 @@
     {
       "added_at": "2026-03-18 17:58:35",
       "album": {
-        "name": "YO y T\u00da",
-        "url": "https://open.spotify.com/album/1PxEMXkwLR7sfCMAuX50jM"
+        "name": "2+2",
+        "url": "https://open.spotify.com/album/08ejWNU2TO4m9h4tUhUQKG"
       },
       "artists": [
         {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+          "name": "Omar Camacho",
+          "url": "https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ"
         },
         {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        },
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
         }
       ],
-      "duration_ms": 198153,
-      "name": "YO y T\u00da",
-      "url": "https://open.spotify.com/track/7koAf6aZgjO6TS7bipfPD0"
+      "duration_ms": 198300,
+      "name": "2+2",
+      "url": "https://open.spotify.com/track/2GP6UzoA55p6yYiPCGyEhg"
     },
     {
       "added_at": "2026-03-18 17:58:35",
@@ -523,6 +523,26 @@
     {
       "added_at": "2026-03-18 17:58:35",
       "album": {
+        "name": "The Bad Boy",
+        "url": "https://open.spotify.com/album/5eklEkHSU1l3yewxdePzRL"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor \"El Father\"",
+          "url": "https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB"
+        },
+        {
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+        }
+      ],
+      "duration_ms": 235626,
+      "name": "El Tel\u00e9fono",
+      "url": "https://open.spotify.com/track/614NVFo5csQqRnryl4jXs2"
+    },
+    {
+      "added_at": "2026-03-18 17:58:35",
+      "album": {
         "name": "YOGURCITO REMIX (feat. Kris R., ROA)",
         "url": "https://open.spotify.com/album/3VpceHZ7RMR5Te1GljOED9"
       },
@@ -555,26 +575,6 @@
       "duration_ms": 375381,
       "name": "YOGURCITO REMIX (feat. Kris R., ROA)",
       "url": "https://open.spotify.com/track/7nrd0eIftH3NQLfgk20Qp9"
-    },
-    {
-      "added_at": "2026-03-18 17:58:35",
-      "album": {
-        "name": "The Bad Boy",
-        "url": "https://open.spotify.com/album/5eklEkHSU1l3yewxdePzRL"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor \"El Father\"",
-          "url": "https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB"
-        },
-        {
-          "name": "Wisin & Yandel",
-          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
-        }
-      ],
-      "duration_ms": 235626,
-      "name": "El Tel\u00e9fono",
-      "url": "https://open.spotify.com/track/614NVFo5csQqRnryl4jXs2"
     },
     {
       "added_at": "2026-03-18 17:58:35",
@@ -1175,6 +1175,26 @@
     {
       "added_at": "2026-03-18 17:58:35",
       "album": {
+        "name": "Hecho para ti",
+        "url": "https://open.spotify.com/album/19lPl55GNoCaflIzowXkUC"
+      },
+      "artists": [
+        {
+          "name": "LATIN MAFIA",
+          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
+        },
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 152734,
+      "name": "Hecho para ti",
+      "url": "https://open.spotify.com/track/712KzUVmtBeFXgJhbMJY5o"
+    },
+    {
+      "added_at": "2026-03-18 17:58:35",
+      "album": {
         "name": "Tu jard\u00edn con enanitos",
         "url": "https://open.spotify.com/album/0XpyqlltZS8gGkIrJtSfxk"
       },
@@ -1199,26 +1219,6 @@
       "duration_ms": 175059,
       "name": "Tu jard\u00edn con enanitos",
       "url": "https://open.spotify.com/track/6X8DTIJEgHUjZynuds0E2f"
-    },
-    {
-      "added_at": "2026-03-18 17:58:35",
-      "album": {
-        "name": "Hecho para ti",
-        "url": "https://open.spotify.com/album/19lPl55GNoCaflIzowXkUC"
-      },
-      "artists": [
-        {
-          "name": "LATIN MAFIA",
-          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
-        },
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        }
-      ],
-      "duration_ms": 152734,
-      "name": "Hecho para ti",
-      "url": "https://open.spotify.com/track/712KzUVmtBeFXgJhbMJY5o"
     },
     {
       "added_at": "2026-03-18 17:58:35",
@@ -1471,26 +1471,6 @@
     {
       "added_at": "2026-03-18 17:58:35",
       "album": {
-        "name": "Thootie (feat. Tokischa)",
-        "url": "https://open.spotify.com/album/0TodY9XIuBX1k3DUhigXuG"
-      },
-      "artists": [
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        },
-        {
-          "name": "Tokischa",
-          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
-        }
-      ],
-      "duration_ms": 151611,
-      "name": "Thootie (feat. Tokischa)",
-      "url": "https://open.spotify.com/track/6mHIYI9coRzaIlqE6rPNN5"
-    },
-    {
-      "added_at": "2026-03-18 17:58:35",
-      "album": {
         "name": "Comando Estelar",
         "url": "https://open.spotify.com/album/4mv9P6vEf6fh0iLYC0WhlH"
       },
@@ -1515,6 +1495,26 @@
       "duration_ms": 220000,
       "name": "Comando Estelar",
       "url": "https://open.spotify.com/track/4j5ZSTHkXQbV0c8EassD0N"
+    },
+    {
+      "added_at": "2026-03-18 17:58:35",
+      "album": {
+        "name": "Thootie (feat. Tokischa)",
+        "url": "https://open.spotify.com/album/0TodY9XIuBX1k3DUhigXuG"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        },
+        {
+          "name": "Tokischa",
+          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
+        }
+      ],
+      "duration_ms": 151611,
+      "name": "Thootie (feat. Tokischa)",
+      "url": "https://open.spotify.com/track/6mHIYI9coRzaIlqE6rPNN5"
     },
     {
       "added_at": "2026-03-18 17:58:35",
@@ -1619,6 +1619,22 @@
     {
       "added_at": "2026-03-18 17:58:35",
       "album": {
+        "name": "BRONCEADOR",
+        "url": "https://open.spotify.com/album/1xMXyKKRsXoPe34kS7w2SF"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 149387,
+      "name": "BRONCEADOR",
+      "url": "https://open.spotify.com/track/6LYg8Ks95O7GNNLfB6kh4j"
+    },
+    {
+      "added_at": "2026-03-18 17:58:35",
+      "album": {
         "name": "TU MISTERIOSO ALGUIEN (CUARTETO) (feat. Miranda!)",
         "url": "https://open.spotify.com/album/2LpL0pdOS6HWxxYeN1v2Zy"
       },
@@ -1635,22 +1651,6 @@
       "duration_ms": 156413,
       "name": "TU MISTERIOSO ALGUIEN (CUARTETO) (feat. Miranda!)",
       "url": "https://open.spotify.com/track/4Kzi8hXKkT87SQoYClizh0"
-    },
-    {
-      "added_at": "2026-03-18 17:58:35",
-      "album": {
-        "name": "BRONCEADOR",
-        "url": "https://open.spotify.com/album/1xMXyKKRsXoPe34kS7w2SF"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 149387,
-      "name": "BRONCEADOR",
-      "url": "https://open.spotify.com/track/6LYg8Ks95O7GNNLfB6kh4j"
     },
     {
       "added_at": "2026-03-18 17:58:35",
@@ -1847,22 +1847,6 @@
     {
       "added_at": "2026-03-18 17:58:35",
       "album": {
-        "name": "Down",
-        "url": "https://open.spotify.com/album/1LXrs32NNDd5M1EqFP0IbW"
-      },
-      "artists": [
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        }
-      ],
-      "duration_ms": 195096,
-      "name": "Down",
-      "url": "https://open.spotify.com/track/5b5xh1omN5tSrIfmTckmIU"
-    },
-    {
-      "added_at": "2026-03-18 17:58:35",
-      "album": {
         "name": "GuabanSexxx",
         "url": "https://open.spotify.com/album/0kKZV7SgHvDgvpV4iLNBjq"
       },
@@ -1875,6 +1859,22 @@
       "duration_ms": 161055,
       "name": "GuabanSexxx",
       "url": "https://open.spotify.com/track/7pEwEHqjqx3kmXjXCOihff"
+    },
+    {
+      "added_at": "2026-03-18 17:58:35",
+      "album": {
+        "name": "Down",
+        "url": "https://open.spotify.com/album/1LXrs32NNDd5M1EqFP0IbW"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "duration_ms": 195096,
+      "name": "Down",
+      "url": "https://open.spotify.com/track/5b5xh1omN5tSrIfmTckmIU"
     },
     {
       "added_at": "2026-03-18 17:58:35",
@@ -2131,6 +2131,26 @@
     {
       "added_at": "2026-03-18 17:58:35",
       "album": {
+        "name": "Ella",
+        "url": "https://open.spotify.com/album/5P4DCyni0LPILG9miv4ets"
+      },
+      "artists": [
+        {
+          "name": "Zion",
+          "url": "https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu"
+        },
+        {
+          "name": "Bad Gyal",
+          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "EN LA DE ELLA",
+      "url": "https://open.spotify.com/track/00YJIj59W08LVdfTDZpHrg"
+    },
+    {
+      "added_at": "2026-03-18 17:58:35",
+      "album": {
         "name": "LAS NEAS",
         "url": "https://open.spotify.com/album/7obxopROLfWvdgoO6oWvZ8"
       },
@@ -2171,26 +2191,6 @@
       "duration_ms": 162245,
       "name": "pasarella \ud83d\udc60",
       "url": "https://open.spotify.com/track/67vjKw6LVD5wewFuoC1215"
-    },
-    {
-      "added_at": "2026-03-18 17:58:35",
-      "album": {
-        "name": "Ella",
-        "url": "https://open.spotify.com/album/5P4DCyni0LPILG9miv4ets"
-      },
-      "artists": [
-        {
-          "name": "Zion",
-          "url": "https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu"
-        },
-        {
-          "name": "Bad Gyal",
-          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
-        }
-      ],
-      "duration_ms": 264000,
-      "name": "EN LA DE ELLA",
-      "url": "https://open.spotify.com/track/00YJIj59W08LVdfTDZpHrg"
     },
     {
       "added_at": "2026-03-18 17:58:35",

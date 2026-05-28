@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 
 > Dov'è Liana in cover + tutto il meglio delle novità indie 🌿 \(promesso, sta volta troviamo Liana cascasse il mondo\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,775 likes - 109 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,773 likes - 109 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

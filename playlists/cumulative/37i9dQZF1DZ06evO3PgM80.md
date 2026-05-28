@@ -4,7 +4,7 @@
 
 > This is Julia Vitória\. The essential tracks, all in one playlist.
 
-73 songs - 7 hr 7 min
+74 songs - 7 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Não Mais Escravos](https://open.spotify.com/track/4MtBvzWwKji4Of7qDp9EaN) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Não Mais Escravos](https://open.spotify.com/album/0a55Mn7ktMRBPR1DIeynSG) | 5:12 | 2023-07-09 |  |
 | [Nós Te Adoramos \- Ao Vivo](https://open.spotify.com/track/3XCaTKlGbjdOU6ozStBTVD) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Nós Te Adoramos \(Ao Vivo\)](https://open.spotify.com/album/1hvaK25h3skpL8mJpTqi76) | 7:18 | 2023-07-09 |  |
 | [O céu é o meu Lugar \(feat\. Julia Vitória\)](https://open.spotify.com/track/5XhHL5wnO6jC3tE0zdnFYA) | [André e Felipe](https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [O céu é o meu Lugar \(feat\. Julia Vitória\)](https://open.spotify.com/album/1DjK8GUoTRrGLa4CI8zReu) | 4:43 | 2023-07-09 |  |
-| [O Meu Pai É Bom \- Ao Vivo](https://open.spotify.com/track/1EZ8LejBperuDSPr004cpU) | [Gabriela Gomes](https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [O Meu Pai É Bom \(Ao Vivo\)](https://open.spotify.com/album/2fCwHzbPlz7WSywTzroQO5) | 8:52 | 2024-07-21 |  |
+| [O Meu Pai É Bom \- Ao Vivo](https://open.spotify.com/track/1EZ8LejBperuDSPr004cpU) | [Gabriela Gomes](https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [O Meu Pai É Bom \(Ao Vivo\)](https://open.spotify.com/album/2fCwHzbPlz7WSywTzroQO5) | 8:52 | 2024-07-21 | 2026-05-28 |
 | [Outra Vez](https://open.spotify.com/track/4tjvxMkJlHPPJ2hRDU2jYg) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Outra Vez](https://open.spotify.com/album/7ACwaHel0Oo9kV0fDcG2H8) | 5:04 | 2023-11-10 |  |
 | [Pai de Amor \(Heavenly Father I Appreciate You\) \- Ao Vivo](https://open.spotify.com/track/4y0lpqcs5nauOwJdP5Is9N) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Pai de Amor \(Heavenly Father I Appreciate You\) \[Ao Vivo\]](https://open.spotify.com/album/1xHsDUSESGzPXKsxYOQUe4) | 4:05 | 2023-08-19 |  |
 | [Palavras](https://open.spotify.com/track/31tZBMILhUQPwPDEMrQg3Z) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Palavras](https://open.spotify.com/album/1sQrDiL3Fh8ZBa0AlqcoAG) | 4:24 | 2023-07-09 |  |
@@ -66,6 +66,7 @@
 | [Se Tenho Cristo / O Bondoso Amigo \- Ao Vivo](https://open.spotify.com/track/4MMvcx9TKSsdmOWujKBLSV) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Se Tenho Cristo / O Bondoso Amigo \(Ao Vivo\)](https://open.spotify.com/album/4su45A07KGlOLYM5Z1cFGz) | 7:18 | 2023-07-09 |  |
 | [Segurança / Canta Minh'alma \(Blessed Assurance\) \- Ao Vivo](https://open.spotify.com/track/2eNd4rkmkFUZK0E1SDUqEB) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Segurança / Canta Minh'alma \(Blessed Assurance\) \[Ao Vivo\]](https://open.spotify.com/album/29esCOFDzflMjWCvfmXoGg) | 8:36 | 2026-01-17 |  |
 | [Sem Palavras](https://open.spotify.com/track/0vPBFfdXXAoqclFkNX8979) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [Luciano Camargo](https://open.spotify.com/artist/1tOFgcNGgl6DvHFsF5yst3) | [Sem Palavras](https://open.spotify.com/album/6eASbeNA5vfVRcv8wcZYwa) | 3:55 | 2024-08-17 |  |
+| [Seu Amor Dura Para Sempre \- Ao Vivo](https://open.spotify.com/track/5FaMoShMm6N9kiZd81IrC9) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Ao Vivo na Ópera de Arame \(Deluxe Edition\)](https://open.spotify.com/album/0x9oovOV9CNm9uXiHEDeRP) | 6:52 | 2026-05-28 |  |
 | [Som das Águas \- Acústico](https://open.spotify.com/track/6H6M4j6KRN22amTC0p9ZyJ) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Som das Águas \(Acústico\)](https://open.spotify.com/album/332OkIGSvCq0dVFyiWwrbB) | 3:45 | 2023-07-09 |  |
 | [Som das Águas \- Ao Vivo](https://open.spotify.com/track/4M7zH6rJM4BOUkqdBp3fHE) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [One Service Project](https://open.spotify.com/artist/6fUKkqN2PLedcYs1AQAwg7) | [Som das Águas \(Ao Vivo\)](https://open.spotify.com/album/6Ld1idWbNLeraKHfusfumG) | 5:27 | 2024-09-29 | 2025-02-22 |
 | [Sou Humano \(Ao Vivo\)](https://open.spotify.com/track/3Nncb8DnbdvGvfHoT6FejH) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Bruna Karla \- Louvorzão 2022 \(Ao Vivo\)](https://open.spotify.com/album/165BlFcLxau1hJTHHxHc1S) | 5:30 | 2023-07-09 | 2026-02-28 |

@@ -1,6 +1,6 @@
 {
   "description": "The biggest pop hits to come from the land down under.",
-  "num_followers": 73516,
+  "num_followers": 73520,
   "original_name": "Aussie Pop Classics",
   "owner": {
     "name": "Spotify",
@@ -311,22 +311,6 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "Dance Monkey",
-        "url": "https://open.spotify.com/album/31IDBea3eEs57a0joX6TjN"
-      },
-      "artists": [
-        {
-          "name": "Tones And I",
-          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
-        }
-      ],
-      "duration_ms": 209754,
-      "name": "Dance Monkey",
-      "url": "https://open.spotify.com/track/1rgnBhdG2JDFTbYkYRZAku"
-    },
-    {
-      "added_at": "2024-08-05 06:00:58",
-      "album": {
         "name": "Rise",
         "url": "https://open.spotify.com/album/6Zv9GWVeSi7lqYGxxhawOq"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 256105,
       "name": "The Horses",
       "url": "https://open.spotify.com/track/5z6a02FGoVsXTrJ4GiVNxE"
+    },
+    {
+      "added_at": "2024-08-05 06:00:58",
+      "album": {
+        "name": "Dance Monkey",
+        "url": "https://open.spotify.com/album/31IDBea3eEs57a0joX6TjN"
+      },
+      "artists": [
+        {
+          "name": "Tones And I",
+          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
+        }
+      ],
+      "duration_ms": 209754,
+      "name": "Dance Monkey",
+      "url": "https://open.spotify.com/track/1rgnBhdG2JDFTbYkYRZAku"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -395,22 +395,6 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "Bombs Away",
-        "url": "https://open.spotify.com/album/6BfgDdkVUsERG4SZQTbO97"
-      },
-      "artists": [
-        {
-          "name": "Sheppard",
-          "url": "https://open.spotify.com/artist/6VxCmtR7S3yz4vnzsJqhSV"
-        }
-      ],
-      "duration_ms": 218227,
-      "name": "Geronimo",
-      "url": "https://open.spotify.com/track/4hd4YTkABCn2zuTZeYEA6D"
-    },
-    {
-      "added_at": "2024-08-05 06:00:58",
-      "album": {
         "name": "5 Seconds Of Summer",
         "url": "https://open.spotify.com/album/1w5D9eC3WgKWZZVUwB0GXE"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 202496,
       "name": "She Looks So Perfect",
       "url": "https://open.spotify.com/track/5cPO2j2p9Myq77YQVwWyrN"
+    },
+    {
+      "added_at": "2024-08-05 06:00:58",
+      "album": {
+        "name": "Bombs Away",
+        "url": "https://open.spotify.com/album/6BfgDdkVUsERG4SZQTbO97"
+      },
+      "artists": [
+        {
+          "name": "Sheppard",
+          "url": "https://open.spotify.com/artist/6VxCmtR7S3yz4vnzsJqhSV"
+        }
+      ],
+      "duration_ms": 218227,
+      "name": "Geronimo",
+      "url": "https://open.spotify.com/track/4hd4YTkABCn2zuTZeYEA6D"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -767,18 +767,38 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "Reprisal",
-        "url": "https://open.spotify.com/album/1BJ0H6MrMADSdqHm3aadbM"
+        "name": "Take Me Over",
+        "url": "https://open.spotify.com/album/2ovy2zlk2RjYQGkfEUb0qB"
       },
       "artists": [
         {
           "name": "Peking Duk",
           "url": "https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY"
+        },
+        {
+          "name": "SAFIA",
+          "url": "https://open.spotify.com/artist/1y07gMlsfAdz2KOvZzyUTB"
         }
       ],
-      "duration_ms": 226350,
-      "name": "Fire",
-      "url": "https://open.spotify.com/track/3BZkEOJwKUYRlkLWZB1izC"
+      "duration_ms": 208121,
+      "name": "Take Me Over",
+      "url": "https://open.spotify.com/track/7edLcwmws3QnbJ8JUqyHhe"
+    },
+    {
+      "added_at": "2024-08-05 06:00:58",
+      "album": {
+        "name": "Fever",
+        "url": "https://open.spotify.com/album/6FTq1YhYJLetfJQrq02gdv"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 238266,
+      "name": "Love at First Sight",
+      "url": "https://open.spotify.com/track/26muNwMlZGvB2kEq41ZlDX"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -799,22 +819,6 @@
       "duration_ms": 203120,
       "name": "Ooh Aah...Just a Little Bit - Motiv8 Radio Edit",
       "url": "https://open.spotify.com/track/7kyMLaXepcGHIrsLqoiTB8"
-    },
-    {
-      "added_at": "2024-08-05 06:00:58",
-      "album": {
-        "name": "Fever",
-        "url": "https://open.spotify.com/album/6FTq1YhYJLetfJQrq02gdv"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 238266,
-      "name": "Love at First Sight",
-      "url": "https://open.spotify.com/track/26muNwMlZGvB2kEq41ZlDX"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -851,22 +855,18 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "Take Me Over",
-        "url": "https://open.spotify.com/album/2ovy2zlk2RjYQGkfEUb0qB"
+        "name": "Reprisal",
+        "url": "https://open.spotify.com/album/1BJ0H6MrMADSdqHm3aadbM"
       },
       "artists": [
         {
           "name": "Peking Duk",
           "url": "https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY"
-        },
-        {
-          "name": "SAFIA",
-          "url": "https://open.spotify.com/artist/1y07gMlsfAdz2KOvZzyUTB"
         }
       ],
-      "duration_ms": 208121,
-      "name": "Take Me Over",
-      "url": "https://open.spotify.com/track/7edLcwmws3QnbJ8JUqyHhe"
+      "duration_ms": 226350,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/3BZkEOJwKUYRlkLWZB1izC"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -975,22 +975,6 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "Be The Twilight",
-        "url": "https://open.spotify.com/album/0AOg1ZrWAG6es29UAhrWyS"
-      },
-      "artists": [
-        {
-          "name": "Faker",
-          "url": "https://open.spotify.com/artist/0RaO9p4AomXaVUXzV8SPVW"
-        }
-      ],
-      "duration_ms": 227694,
-      "name": "This Heart Attack",
-      "url": "https://open.spotify.com/track/2HwlvOkwACOGFySnp16b9l"
-    },
-    {
-      "added_at": "2024-08-05 06:00:58",
-      "album": {
         "name": "Counting Down The Days",
         "url": "https://open.spotify.com/album/1PD3hNs0PRMtOeU11DPpim"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 222653,
       "name": "Shiver",
       "url": "https://open.spotify.com/track/2ZudaDYcCTgqqYPV0TrNn8"
+    },
+    {
+      "added_at": "2024-08-05 06:00:58",
+      "album": {
+        "name": "Be The Twilight",
+        "url": "https://open.spotify.com/album/0AOg1ZrWAG6es29UAhrWyS"
+      },
+      "artists": [
+        {
+          "name": "Faker",
+          "url": "https://open.spotify.com/artist/0RaO9p4AomXaVUXzV8SPVW"
+        }
+      ],
+      "duration_ms": 227694,
+      "name": "This Heart Attack",
+      "url": "https://open.spotify.com/track/2HwlvOkwACOGFySnp16b9l"
     },
     {
       "added_at": "2024-08-05 06:00:58",

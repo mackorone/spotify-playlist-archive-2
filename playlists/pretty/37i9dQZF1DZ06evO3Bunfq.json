@@ -1,12 +1,12 @@
 {
   "description": "This is Dharius. The essential tracks, all in one playlist.",
-  "num_followers": 129716,
+  "num_followers": 129729,
   "original_name": "This Is Dharius",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahORAAAAAADov6NhYoanwCWxv4jGg0j7",
+  "snapshot_id": "ahTigAAAAAC1z1vJmhMnrjkIKXK3anz0",
   "tracks": [
     {
       "added_at": null,
@@ -215,22 +215,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Directo Hasta Arriba",
-        "url": "https://open.spotify.com/album/15StyDArmT6s2A3zaiI552"
-      },
-      "artists": [
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        }
-      ],
-      "duration_ms": 225546,
-      "name": "La Raja",
-      "url": "https://open.spotify.com/track/5LmQNyyE25TIqwfbgdxPsX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Qui\u00faboles Que!",
         "url": "https://open.spotify.com/album/7fEd90zyiFjIr9UElw41iK"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 221541,
       "name": "Qui\u00faboles Que",
       "url": "https://open.spotify.com/track/4SEFSM1H18Q8uLXsi7zcIj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Directo Hasta Arriba",
+        "url": "https://open.spotify.com/album/15StyDArmT6s2A3zaiI552"
+      },
+      "artists": [
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        }
+      ],
+      "duration_ms": 225546,
+      "name": "La Raja",
+      "url": "https://open.spotify.com/track/5LmQNyyE25TIqwfbgdxPsX"
     },
     {
       "added_at": null,
@@ -315,22 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Directo Hasta Arriba",
-        "url": "https://open.spotify.com/album/15StyDArmT6s2A3zaiI552"
-      },
-      "artists": [
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        }
-      ],
-      "duration_ms": 212666,
-      "name": "Estilo Malandro",
-      "url": "https://open.spotify.com/track/5wLF7rGxYDi8qy4ch1IKGh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cuando Todo Acaba",
         "url": "https://open.spotify.com/album/1lSYxwcLpWyqM7pD5N1fAU"
       },
@@ -363,22 +347,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Estilo Fino",
-        "url": "https://open.spotify.com/album/4yblA3RA4p10vG7lZ45hHh"
+        "name": "Directo Hasta Arriba",
+        "url": "https://open.spotify.com/album/15StyDArmT6s2A3zaiI552"
       },
       "artists": [
-        {
-          "name": "Tornillo",
-          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
-        },
         {
           "name": "Dharius",
           "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
         }
       ],
-      "duration_ms": 188000,
-      "name": "Infierno",
-      "url": "https://open.spotify.com/track/3frBPrmiJfJ8Oowb4kbRIb"
+      "duration_ms": 212666,
+      "name": "Estilo Malandro",
+      "url": "https://open.spotify.com/track/5wLF7rGxYDi8qy4ch1IKGh"
     },
     {
       "added_at": null,
@@ -399,18 +379,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Directo Hasta Arriba",
-        "url": "https://open.spotify.com/album/15StyDArmT6s2A3zaiI552"
+        "name": "Estilo Fino",
+        "url": "https://open.spotify.com/album/4yblA3RA4p10vG7lZ45hHh"
       },
       "artists": [
+        {
+          "name": "Tornillo",
+          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
+        },
         {
           "name": "Dharius",
           "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
         }
       ],
-      "duration_ms": 207106,
-      "name": "Serenata Rap",
-      "url": "https://open.spotify.com/track/2RhZI0Ljg8nnouhwPIOHWc"
+      "duration_ms": 188000,
+      "name": "Infierno",
+      "url": "https://open.spotify.com/track/3frBPrmiJfJ8Oowb4kbRIb"
     },
     {
       "added_at": null,
@@ -427,6 +411,38 @@
       "duration_ms": 160242,
       "name": "Bien Perro",
       "url": "https://open.spotify.com/track/4N2GoKa7cuyjiArYHVopzD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Directo Hasta Arriba",
+        "url": "https://open.spotify.com/album/15StyDArmT6s2A3zaiI552"
+      },
+      "artists": [
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        }
+      ],
+      "duration_ms": 207106,
+      "name": "Serenata Rap",
+      "url": "https://open.spotify.com/track/2RhZI0Ljg8nnouhwPIOHWc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mala Fama, Buena Vidha",
+        "url": "https://open.spotify.com/album/6HDPRXDl3Vsj8ksZyfpP5V"
+      },
+      "artists": [
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        }
+      ],
+      "duration_ms": 263453,
+      "name": "Me Voy a Poner Bien Loco",
+      "url": "https://open.spotify.com/track/4xbNMe4G2amgUB6tntDw6c"
     },
     {
       "added_at": null,
@@ -467,8 +483,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mala Fama, Buena Vidha",
-        "url": "https://open.spotify.com/album/6HDPRXDl3Vsj8ksZyfpP5V"
+        "name": "ALV TODOS",
+        "url": "https://open.spotify.com/album/02lhVJUr51n29j8BesGnUM"
       },
       "artists": [
         {
@@ -476,9 +492,9 @@
           "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
         }
       ],
-      "duration_ms": 263453,
-      "name": "Me Voy a Poner Bien Loco",
-      "url": "https://open.spotify.com/track/4xbNMe4G2amgUB6tntDw6c"
+      "duration_ms": 245333,
+      "name": "ALV TODOS",
+      "url": "https://open.spotify.com/track/76akywa2I8JChhWVpGQv01"
     },
     {
       "added_at": null,
@@ -499,8 +515,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "ALV TODOS",
-        "url": "https://open.spotify.com/album/02lhVJUr51n29j8BesGnUM"
+        "name": "Mala Fama, Buena Vidha",
+        "url": "https://open.spotify.com/album/6HDPRXDl3Vsj8ksZyfpP5V"
       },
       "artists": [
         {
@@ -508,9 +524,9 @@
           "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
         }
       ],
-      "duration_ms": 245333,
-      "name": "ALV TODOS",
-      "url": "https://open.spotify.com/track/76akywa2I8JChhWVpGQv01"
+      "duration_ms": 270093,
+      "name": "Mala Fama, Buena Vidha",
+      "url": "https://open.spotify.com/track/6Ov2J0ExzEMhj6hVirzpWt"
     },
     {
       "added_at": null,
@@ -531,22 +547,6 @@
       "duration_ms": 165801,
       "name": "Borracho Gacho (feat. Dharius)",
       "url": "https://open.spotify.com/track/2f552XXwU9KIdxmXQQ4AqN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mala Fama, Buena Vidha",
-        "url": "https://open.spotify.com/album/6HDPRXDl3Vsj8ksZyfpP5V"
-      },
-      "artists": [
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        }
-      ],
-      "duration_ms": 270093,
-      "name": "Mala Fama, Buena Vidha",
-      "url": "https://open.spotify.com/track/6Ov2J0ExzEMhj6hVirzpWt"
     },
     {
       "added_at": null,
@@ -599,22 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "VNDO",
-        "url": "https://open.spotify.com/album/6IMVC2fXSxKfLJ8FI2rYp3"
-      },
-      "artists": [
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        }
-      ],
-      "duration_ms": 231529,
-      "name": "VNDO",
-      "url": "https://open.spotify.com/track/62lcIAirqahXFb9EM2gNjP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mala Fama, Buena Vidha",
         "url": "https://open.spotify.com/album/6HDPRXDl3Vsj8ksZyfpP5V"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 246533,
       "name": "Te Gustan Malos",
       "url": "https://open.spotify.com/track/6VexUh4HjrQOBEGhLKspoS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "VNDO",
+        "url": "https://open.spotify.com/album/6IMVC2fXSxKfLJ8FI2rYp3"
+      },
+      "artists": [
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        }
+      ],
+      "duration_ms": 231529,
+      "name": "VNDO",
+      "url": "https://open.spotify.com/track/62lcIAirqahXFb9EM2gNjP"
     },
     {
       "added_at": null,
@@ -651,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LA PARRANDHA",
-        "url": "https://open.spotify.com/album/2OrhT6OwvY3Hdm3EFoW9iM"
-      },
-      "artists": [
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        }
-      ],
-      "duration_ms": 238792,
-      "name": "LA PARRANDHA",
-      "url": "https://open.spotify.com/track/6XFTqMW87jrYBQ3SS8vYpZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Estrafalario",
         "url": "https://open.spotify.com/album/7lO0gX1rSWXYO9gnUqpY1p"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 160150,
       "name": "Sin Dormir (Ya Se Arm\u00f3)",
       "url": "https://open.spotify.com/track/1HfHDbNHzafjjxnLoAobRA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LA PARRANDHA",
+        "url": "https://open.spotify.com/album/2OrhT6OwvY3Hdm3EFoW9iM"
+      },
+      "artists": [
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        }
+      ],
+      "duration_ms": 238792,
+      "name": "LA PARRANDHA",
+      "url": "https://open.spotify.com/track/6XFTqMW87jrYBQ3SS8vYpZ"
     },
     {
       "added_at": null,
@@ -999,6 +999,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Diablo, La Muerte y Yo",
+        "url": "https://open.spotify.com/album/5S1xpCaPIqh72xLdFRGNvj"
+      },
+      "artists": [
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        }
+      ],
+      "duration_ms": 193219,
+      "name": "Relax",
+      "url": "https://open.spotify.com/track/2OtKy3OiSyHPWyOqF9T2LF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Misi\u00f3n (Episodio 2)",
         "url": "https://open.spotify.com/album/07gHdHOclypZGhqlaRmuSi"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 323964,
       "name": "La Misi\u00f3n (Episodio 2)",
       "url": "https://open.spotify.com/track/63Ue3S576DpaAaDIZlMYsF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Diablo, La Muerte y Yo",
-        "url": "https://open.spotify.com/album/5S1xpCaPIqh72xLdFRGNvj"
-      },
-      "artists": [
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        }
-      ],
-      "duration_ms": 193219,
-      "name": "Relax",
-      "url": "https://open.spotify.com/track/2OtKy3OiSyHPWyOqF9T2LF"
     },
     {
       "added_at": null,

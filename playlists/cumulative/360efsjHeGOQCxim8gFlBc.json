@@ -833,6 +833,24 @@
     },
     {
       "album": {
+        "name": "anemone",
+        "url": "https://open.spotify.com/album/5x4bMEpWDR8CPS1N818zkJ"
+      },
+      "artists": [
+        {
+          "name": "Jonas Hoffmann",
+          "url": "https://open.spotify.com/artist/5cEU3AV44x8TnbyQjOlInP"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159893,
+      "name": "anemone",
+      "url": "https://open.spotify.com/track/33B5UKh5AVIBygbNujx4A2"
+    },
+    {
+      "album": {
         "name": "Polaris",
         "url": "https://open.spotify.com/album/6PMu4MqEvKg71HWKywkMK1"
       },
@@ -1855,6 +1873,24 @@
     },
     {
       "album": {
+        "name": "Bluebell Wood",
+        "url": "https://open.spotify.com/album/69w814N2f8bbrPGsNlB8fX"
+      },
+      "artists": [
+        {
+          "name": "Housman",
+          "url": "https://open.spotify.com/artist/6ZtaiZjSFgNoixlvp3zQ56"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111281,
+      "name": "Bluebell Wood",
+      "url": "https://open.spotify.com/track/6ciPG8UcOC8RsljQISI81D"
+    },
+    {
+      "album": {
         "name": "Bluff Trail",
         "url": "https://open.spotify.com/album/0Tie6ojO7uXOqjXiiynU5l"
       },
@@ -2319,6 +2355,24 @@
     },
     {
       "album": {
+        "name": "Boulevard Noir",
+        "url": "https://open.spotify.com/album/4DOMIym5qTEklMOVVApi0s"
+      },
+      "artists": [
+        {
+          "name": "Louis Gaspard",
+          "url": "https://open.spotify.com/artist/1WmngP5XVGyUxGB2GrG88y"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101801,
+      "name": "Ce que le temps garde",
+      "url": "https://open.spotify.com/track/6C2oX1y8rhQAyPR8tcngSf"
+    },
+    {
+      "album": {
         "name": "Chapter Five",
         "url": "https://open.spotify.com/album/5xlKaQxeUB5nVPwkkQzc3T"
       },
@@ -2650,6 +2704,24 @@
       "duration_ms": 129718,
       "name": "cloud watching",
       "url": "https://open.spotify.com/track/2MSD6VZVfw2N8H7GQ3VzKA"
+    },
+    {
+      "album": {
+        "name": "Clouds",
+        "url": "https://open.spotify.com/album/0EZcbJp0utRgP0o7W6URWu"
+      },
+      "artists": [
+        {
+          "name": "Luke Faulkner",
+          "url": "https://open.spotify.com/artist/2KTBCTcRbjSO03qPsUeqq3"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179187,
+      "name": "Clouds",
+      "url": "https://open.spotify.com/track/18zeBaioTJC861Fxs44L7c"
     },
     {
       "album": {
@@ -3141,6 +3213,28 @@
     },
     {
       "album": {
+        "name": "C\u00f4t\u00e9 sauvage",
+        "url": "https://open.spotify.com/album/5zPD9YSkQCm4moSpj5TK7W"
+      },
+      "artists": [
+        {
+          "name": "23zach",
+          "url": "https://open.spotify.com/artist/1bwNjmpwuHAG7CPowyJ4Ns"
+        },
+        {
+          "name": "Diamond Tone",
+          "url": "https://open.spotify.com/artist/7lUtixqnrtz1PDu2Y7TyZw"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195125,
+      "name": "C\u00f4t\u00e9 sauvage",
+      "url": "https://open.spotify.com/track/5queIAbO2PXRY30iOKTjea"
+    },
+    {
+      "album": {
         "name": "Daffodils",
         "url": "https://open.spotify.com/album/17nUheXgtpSRWlT6HimCOl"
       },
@@ -3278,7 +3372,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-28",
       "duration_ms": 203010,
       "name": "Daydreaming",
       "url": "https://open.spotify.com/track/1YjjjXqfk9HVa0Mlscd8nt"
@@ -3458,6 +3552,24 @@
       "duration_ms": 160064,
       "name": "Del Mar",
       "url": "https://open.spotify.com/track/4v2042FzylQz6ysJlMjAY4"
+    },
+    {
+      "album": {
+        "name": "delayed satisfaction",
+        "url": "https://open.spotify.com/album/6iTEiJBxOJaD25BifzEx23"
+      },
+      "artists": [
+        {
+          "name": "onlyzach",
+          "url": "https://open.spotify.com/artist/0UlTasbC3GTcNI00B34mNA"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119000,
+      "name": "delayed satisfaction",
+      "url": "https://open.spotify.com/track/345elD8WWwaXpypJT22n5E"
     },
     {
       "album": {
@@ -3660,7 +3772,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-28",
       "duration_ms": 174517,
       "name": "Distance",
       "url": "https://open.spotify.com/track/1xe4Vl1FQZ4XlfDZEyj51m"
@@ -3834,7 +3946,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-28",
       "duration_ms": 187747,
       "name": "Dream sequence in oil",
       "url": "https://open.spotify.com/track/4f2bjoEWIeEFEFSgvyavyC"
@@ -3960,7 +4072,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-28",
       "duration_ms": 142864,
       "name": "Drops of Water",
       "url": "https://open.spotify.com/track/3JgO0vj3F4nKOwt2OfKuXp"
@@ -5027,6 +5139,28 @@
     },
     {
       "album": {
+        "name": "First Steps",
+        "url": "https://open.spotify.com/album/5eZP0vtwxupfTQ1oKAsh3L"
+      },
+      "artists": [
+        {
+          "name": "John Lee",
+          "url": "https://open.spotify.com/artist/5yY5Dd7ek0OzZgy6a7j52E"
+        },
+        {
+          "name": "Yi Yohan",
+          "url": "https://open.spotify.com/artist/1lJpyA4HEUDAKsNCoFJuqB"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113800,
+      "name": "First Steps",
+      "url": "https://open.spotify.com/track/4ITnBXfBAtQtL8D2Tn8QxL"
+    },
+    {
+      "album": {
         "name": "First Winter",
         "url": "https://open.spotify.com/album/2wOS52H0jEU2gvCG2LY8yW"
       },
@@ -5581,6 +5715,24 @@
     },
     {
       "album": {
+        "name": "forgotten nightmares",
+        "url": "https://open.spotify.com/album/14wYBFtYWiqwEivVsFIiPg"
+      },
+      "artists": [
+        {
+          "name": "sad secrets",
+          "url": "https://open.spotify.com/artist/6r2Mjg34MZz3R85bniXCPN"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113000,
+      "name": "forgotten nightmares",
+      "url": "https://open.spotify.com/track/4eedtucbM2pWTDwyxd09K6"
+    },
+    {
+      "album": {
         "name": "Fortune Falling",
         "url": "https://open.spotify.com/album/7bVhF67gq6w84vYkbgPVH9"
       },
@@ -6074,7 +6226,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-28",
       "duration_ms": 159903,
       "name": "Goliath",
       "url": "https://open.spotify.com/track/1ufM69fDR7mYb94Yw7SZAe"
@@ -7460,7 +7612,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-28",
       "duration_ms": 199578,
       "name": "In Between Days",
       "url": "https://open.spotify.com/track/1YHfND6d2GrAH6JfR4nDyP"
@@ -7963,6 +8115,28 @@
     },
     {
       "album": {
+        "name": "La gr\u00e2ce au monde",
+        "url": "https://open.spotify.com/album/26pAtfzzRECVcsoqVfm3aU"
+      },
+      "artists": [
+        {
+          "name": "23zach",
+          "url": "https://open.spotify.com/artist/1bwNjmpwuHAG7CPowyJ4Ns"
+        },
+        {
+          "name": "Diamond Tone",
+          "url": "https://open.spotify.com/artist/7lUtixqnrtz1PDu2Y7TyZw"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157437,
+      "name": "La gr\u00e2ce au monde",
+      "url": "https://open.spotify.com/track/72NBLUtpQsDoDbHkw1q83n"
+    },
+    {
+      "album": {
         "name": "Lagunas",
         "url": "https://open.spotify.com/album/71hlt2Z6vXGFXKYwDI6Hwd"
       },
@@ -8140,7 +8314,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-28",
       "duration_ms": 116262,
       "name": "Leaving It All Behind",
       "url": "https://open.spotify.com/track/4ANajXyRw1PCltXmEcJ3Mw"
@@ -8250,6 +8424,24 @@
       "duration_ms": 101636,
       "name": "Letter to the Sky",
       "url": "https://open.spotify.com/track/21FAB8qW6KfjaRK6546RbG"
+    },
+    {
+      "album": {
+        "name": "Letting Go",
+        "url": "https://open.spotify.com/album/3LoVqRh1lxn7rBoBOM0FJP"
+      },
+      "artists": [
+        {
+          "name": "Auralis",
+          "url": "https://open.spotify.com/artist/6QZqIgFLy6qRYIAAeejRdC"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180760,
+      "name": "Letting Go",
+      "url": "https://open.spotify.com/track/5ckhqbuaN9SqGP3cIXXc9V"
     },
     {
       "album": {
@@ -8683,6 +8875,24 @@
     },
     {
       "album": {
+        "name": "lost a friend",
+        "url": "https://open.spotify.com/album/5zMWqZCgP9ijnrbWEJMwIh"
+      },
+      "artists": [
+        {
+          "name": "sad secrets",
+          "url": "https://open.spotify.com/artist/6r2Mjg34MZz3R85bniXCPN"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115312,
+      "name": "lost a friend",
+      "url": "https://open.spotify.com/track/3FhMnKxWzizrbAN8qELalK"
+    },
+    {
+      "album": {
         "name": "Lost In Thought",
         "url": "https://open.spotify.com/album/5sKPcXrq8x0QocY2EgjUrH"
       },
@@ -8748,7 +8958,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-28",
       "duration_ms": 230355,
       "name": "Lostnd",
       "url": "https://open.spotify.com/track/1BmWYDuPj0DHvOUYuTPUCv"
@@ -8944,6 +9154,42 @@
       "duration_ms": 157524,
       "name": "Lullaby",
       "url": "https://open.spotify.com/track/1jmy9hJUnjA0XyeCr5ncP3"
+    },
+    {
+      "album": {
+        "name": "Boulevard Noir",
+        "url": "https://open.spotify.com/album/4DOMIym5qTEklMOVVApi0s"
+      },
+      "artists": [
+        {
+          "name": "Louis Gaspard",
+          "url": "https://open.spotify.com/artist/1WmngP5XVGyUxGB2GrG88y"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161250,
+      "name": "Lumi\u00e8re d\u2019eau",
+      "url": "https://open.spotify.com/track/5JZWttL6Cb1wo3HgtjPsI6"
+    },
+    {
+      "album": {
+        "name": "Luneth",
+        "url": "https://open.spotify.com/album/3c35DdN2NWkBdMG7j5fEdj"
+      },
+      "artists": [
+        {
+          "name": "Fade Static",
+          "url": "https://open.spotify.com/artist/1VRxPGuyZXM1jXxWlnlZJH"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200880,
+      "name": "Luneth",
+      "url": "https://open.spotify.com/track/6SasemC9lpgWgJXujlNjzI"
     },
     {
       "album": {
@@ -11216,7 +11462,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-28",
       "duration_ms": 156000,
       "name": "Passing Fields",
       "url": "https://open.spotify.com/track/7pBiyyJEVhfS5YygERv0bg"
@@ -11314,6 +11560,28 @@
       "duration_ms": 132096,
       "name": "Periods of Happiness",
       "url": "https://open.spotify.com/track/0lMGJuCfhC5JMB0lTKKHoG"
+    },
+    {
+      "album": {
+        "name": "Personnelle",
+        "url": "https://open.spotify.com/album/64uDlp0xwJHpbgeXHx1ReK"
+      },
+      "artists": [
+        {
+          "name": "23zach",
+          "url": "https://open.spotify.com/artist/1bwNjmpwuHAG7CPowyJ4Ns"
+        },
+        {
+          "name": "Diamond Tone",
+          "url": "https://open.spotify.com/artist/7lUtixqnrtz1PDu2Y7TyZw"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222625,
+      "name": "Personnelle",
+      "url": "https://open.spotify.com/track/7xzdkTF3TmSzC3DilPwHmE"
     },
     {
       "album": {
@@ -11484,10 +11752,32 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-28",
       "duration_ms": 150391,
       "name": "Pleasant Memories",
       "url": "https://open.spotify.com/track/54soqijUI0Z2mJKHJocEGr"
+    },
+    {
+      "album": {
+        "name": "Point de vue",
+        "url": "https://open.spotify.com/album/0laJmyzKAqjAc8MGpIEYOe"
+      },
+      "artists": [
+        {
+          "name": "23zach",
+          "url": "https://open.spotify.com/artist/1bwNjmpwuHAG7CPowyJ4Ns"
+        },
+        {
+          "name": "Diamond Tone",
+          "url": "https://open.spotify.com/artist/7lUtixqnrtz1PDu2Y7TyZw"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155375,
+      "name": "Point de vue",
+      "url": "https://open.spotify.com/track/6qlD0PHafoJNVNQ8YjFPo0"
     },
     {
       "album": {
@@ -11502,7 +11792,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-28",
       "duration_ms": 140239,
       "name": "Polaris",
       "url": "https://open.spotify.com/track/1opYoyv6nJuxTsLARXVBcS"
@@ -12362,7 +12652,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-28",
       "duration_ms": 193384,
       "name": "Road to somewhere",
       "url": "https://open.spotify.com/track/4f6sjVgdiTnbxpy8kNH2h9"
@@ -12670,7 +12960,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-28",
       "duration_ms": 58000,
       "name": "September Piano",
       "url": "https://open.spotify.com/track/5FGQrtYZTOiZNcs9L2uQtn"
@@ -12996,7 +13286,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-28",
       "duration_ms": 222094,
       "name": "Silence\u2019s Story",
       "url": "https://open.spotify.com/track/1ikm9yTP4jlPmNl7FYTpj5"
@@ -13889,6 +14179,24 @@
     },
     {
       "album": {
+        "name": "Boulevard Noir",
+        "url": "https://open.spotify.com/album/4DOMIym5qTEklMOVVApi0s"
+      },
+      "artists": [
+        {
+          "name": "Louis Gaspard",
+          "url": "https://open.spotify.com/artist/1WmngP5XVGyUxGB2GrG88y"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181461,
+      "name": "Source de gravit\u00e9",
+      "url": "https://open.spotify.com/track/5FKpiOslFZGflbwkmbTElM"
+    },
+    {
+      "album": {
         "name": "Sparkle (Ambient Piano Cover)",
         "url": "https://open.spotify.com/album/4YlXkPpv9jMWXYlFReCHRI"
       },
@@ -14668,7 +14976,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-28",
       "duration_ms": 303880,
       "name": "Tenderness",
       "url": "https://open.spotify.com/track/53BFiLHuxSjn6o9f1bh8M3"
@@ -15510,7 +15818,7 @@
       ],
       "date_added": "2025-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-28",
       "duration_ms": 146000,
       "name": "time to grow up",
       "url": "https://open.spotify.com/track/0EMvVOhrFSNiIX43vg2H6N"
@@ -16154,6 +16462,24 @@
       "duration_ms": 91750,
       "name": "Velvet Dusk (with rain)",
       "url": "https://open.spotify.com/track/0ZTsepTg8kyunQ1JKCbrxN"
+    },
+    {
+      "album": {
+        "name": "Venus",
+        "url": "https://open.spotify.com/album/3E992Aq3fKxHvpHo6iHcsG"
+      },
+      "artists": [
+        {
+          "name": "Helder Boutens",
+          "url": "https://open.spotify.com/artist/66kU70xhLdbz9P5PUKljUE"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129350,
+      "name": "Venus",
+      "url": "https://open.spotify.com/track/3u0SkHbRs97tOCezw0uS3S"
     },
     {
       "album": {
@@ -17428,7 +17754,7 @@
       ],
       "date_added": "2025-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-28",
       "duration_ms": 59250,
       "name": "Yuku",
       "url": "https://open.spotify.com/track/2mU7V1tVDhmCSuieoMnIz0"

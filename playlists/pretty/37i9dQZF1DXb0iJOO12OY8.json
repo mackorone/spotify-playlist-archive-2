@@ -1,6 +1,6 @@
 {
   "description": "\ud83e\udd1d",
-  "num_followers": 210801,
+  "num_followers": 210794,
   "original_name": "ung, dum & lovende",
   "owner": {
     "name": "Spotify",
@@ -399,6 +399,46 @@
     {
       "added_at": "2026-03-26 23:00:13",
       "album": {
+        "name": "F\u00e5 det p\u00e5",
+        "url": "https://open.spotify.com/album/3Uo9CGyJAC7gjPRRY0zJGN"
+      },
+      "artists": [
+        {
+          "name": "Astrid S",
+          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
+        },
+        {
+          "name": "Stig Brenner",
+          "url": "https://open.spotify.com/artist/35j3Bv3gRKUHbiFSxVjjIf"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        }
+      ],
+      "duration_ms": 199109,
+      "name": "F\u00e5 det p\u00e5",
+      "url": "https://open.spotify.com/track/7b2BJHw0HsBBHdojXWe4fA"
+    },
+    {
+      "added_at": "2026-03-26 23:00:13",
+      "album": {
+        "name": "Oslo",
+        "url": "https://open.spotify.com/album/7uTUU9hnwypL51eEv8qwyH"
+      },
+      "artists": [
+        {
+          "name": "Streetboys",
+          "url": "https://open.spotify.com/artist/6R3OPXyzteMubaNClGZZDW"
+        }
+      ],
+      "duration_ms": 151800,
+      "name": "Oslo",
+      "url": "https://open.spotify.com/track/4rfYHi76AIktWXmeb7ycjN"
+    },
+    {
+      "added_at": "2026-03-26 23:00:13",
+      "album": {
         "name": "Galopp",
         "url": "https://open.spotify.com/album/5Kc2vzQnDo9AInTgxixR4n"
       },
@@ -423,46 +463,6 @@
       "duration_ms": 165785,
       "name": "Galopp",
       "url": "https://open.spotify.com/track/6kx2yUfhcc372Iknjrx6YK"
-    },
-    {
-      "added_at": "2026-03-26 23:00:13",
-      "album": {
-        "name": "Oslo",
-        "url": "https://open.spotify.com/album/7uTUU9hnwypL51eEv8qwyH"
-      },
-      "artists": [
-        {
-          "name": "Streetboys",
-          "url": "https://open.spotify.com/artist/6R3OPXyzteMubaNClGZZDW"
-        }
-      ],
-      "duration_ms": 151800,
-      "name": "Oslo",
-      "url": "https://open.spotify.com/track/4rfYHi76AIktWXmeb7ycjN"
-    },
-    {
-      "added_at": "2026-03-26 23:00:13",
-      "album": {
-        "name": "F\u00e5 det p\u00e5",
-        "url": "https://open.spotify.com/album/3Uo9CGyJAC7gjPRRY0zJGN"
-      },
-      "artists": [
-        {
-          "name": "Astrid S",
-          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
-        },
-        {
-          "name": "Stig Brenner",
-          "url": "https://open.spotify.com/artist/35j3Bv3gRKUHbiFSxVjjIf"
-        },
-        {
-          "name": "Hver gang vi m\u00f8tes",
-          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
-        }
-      ],
-      "duration_ms": 199109,
-      "name": "F\u00e5 det p\u00e5",
-      "url": "https://open.spotify.com/track/7b2BJHw0HsBBHdojXWe4fA"
     },
     {
       "added_at": "2026-03-26 23:00:13",
@@ -711,22 +711,18 @@
     {
       "added_at": "2026-03-26 23:00:13",
       "album": {
-        "name": "Gode Tider (feat. Streetboys)",
-        "url": "https://open.spotify.com/album/6zQAGKTuKJZ9NfOIV61AjW"
+        "name": "TV",
+        "url": "https://open.spotify.com/album/5g3sbCVGQajMNL5wiEx8lt"
       },
       "artists": [
         {
-          "name": "Puls",
-          "url": "https://open.spotify.com/artist/0SOZWHKbmT868SRjpyd6Wa"
-        },
-        {
-          "name": "Streetboys",
-          "url": "https://open.spotify.com/artist/6R3OPXyzteMubaNClGZZDW"
+          "name": "El Papi",
+          "url": "https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV"
         }
       ],
-      "duration_ms": 169142,
-      "name": "Gode Tider (feat. Streetboys)",
-      "url": "https://open.spotify.com/track/5ZJ79oTFwwaMivX7kJwoJL"
+      "duration_ms": 204942,
+      "name": "TV",
+      "url": "https://open.spotify.com/track/0Mq64VYAfJIczXcguLLHKs"
     },
     {
       "added_at": "2026-03-26 23:00:13",
@@ -751,18 +747,22 @@
     {
       "added_at": "2026-03-26 23:00:13",
       "album": {
-        "name": "TV",
-        "url": "https://open.spotify.com/album/5g3sbCVGQajMNL5wiEx8lt"
+        "name": "Gode Tider (feat. Streetboys)",
+        "url": "https://open.spotify.com/album/6zQAGKTuKJZ9NfOIV61AjW"
       },
       "artists": [
         {
-          "name": "El Papi",
-          "url": "https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV"
+          "name": "Puls",
+          "url": "https://open.spotify.com/artist/0SOZWHKbmT868SRjpyd6Wa"
+        },
+        {
+          "name": "Streetboys",
+          "url": "https://open.spotify.com/artist/6R3OPXyzteMubaNClGZZDW"
         }
       ],
-      "duration_ms": 204942,
-      "name": "TV",
-      "url": "https://open.spotify.com/track/0Mq64VYAfJIczXcguLLHKs"
+      "duration_ms": 169142,
+      "name": "Gode Tider (feat. Streetboys)",
+      "url": "https://open.spotify.com/track/5ZJ79oTFwwaMivX7kJwoJL"
     },
     {
       "added_at": "2026-03-26 23:00:13",

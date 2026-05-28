@@ -1,6 +1,6 @@
 {
   "description": "A  blend of J-pop to soundtrack your perfect matcha moment.",
-  "num_followers": 22547,
+  "num_followers": 22613,
   "original_name": "Matcha J-Pop",
   "owner": {
     "name": "Spotify",
@@ -899,18 +899,18 @@
     {
       "added_at": "2026-05-08 10:04:33",
       "album": {
-        "name": "\u30a4\u30f3\u30c7\u30a3\u30b4\u5730\u5e73\u7dda",
-        "url": "https://open.spotify.com/album/0GB573iZ4z6gre3eUJc56N"
+        "name": "\u591c\u306b\u99c6\u3051\u308b",
+        "url": "https://open.spotify.com/album/3GzwPyPZCyrqUTaurTaS23"
       },
       "artists": [
         {
-          "name": "SPITZ",
-          "url": "https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0"
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
         }
       ],
-      "duration_ms": 259933,
-      "name": "\u30c1\u30a7\u30ea\u30fc",
-      "url": "https://open.spotify.com/track/1ihCiJaXRl4f6Sy4LJov5z"
+      "duration_ms": 261013,
+      "name": "\u591c\u306b\u99c6\u3051\u308b",
+      "url": "https://open.spotify.com/track/3dPtXHP0oXQ4HCWHsOA9js"
     },
     {
       "added_at": "2026-05-08 10:04:33",
@@ -931,6 +931,22 @@
     {
       "added_at": "2026-05-08 10:04:33",
       "album": {
+        "name": "\u30a4\u30f3\u30c7\u30a3\u30b4\u5730\u5e73\u7dda",
+        "url": "https://open.spotify.com/album/0GB573iZ4z6gre3eUJc56N"
+      },
+      "artists": [
+        {
+          "name": "SPITZ",
+          "url": "https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0"
+        }
+      ],
+      "duration_ms": 259933,
+      "name": "\u30c1\u30a7\u30ea\u30fc",
+      "url": "https://open.spotify.com/track/1ihCiJaXRl4f6Sy4LJov5z"
+    },
+    {
+      "added_at": "2026-05-08 10:04:33",
+      "album": {
         "name": "\u30c0\u30fc\u30ea\u30f3",
         "url": "https://open.spotify.com/album/0lohqaCPMY89Sh4tDLby9u"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 280666,
       "name": "\u30c0\u30fc\u30ea\u30f3",
       "url": "https://open.spotify.com/track/62x4EMPyCFF2Ohv7qDjalp"
-    },
-    {
-      "added_at": "2026-05-08 10:04:33",
-      "album": {
-        "name": "\u591c\u306b\u99c6\u3051\u308b",
-        "url": "https://open.spotify.com/album/3GzwPyPZCyrqUTaurTaS23"
-      },
-      "artists": [
-        {
-          "name": "YOASOBI",
-          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
-        }
-      ],
-      "duration_ms": 261013,
-      "name": "\u591c\u306b\u99c6\u3051\u308b",
-      "url": "https://open.spotify.com/track/3dPtXHP0oXQ4HCWHsOA9js"
     },
     {
       "added_at": "2026-05-08 10:04:33",
@@ -1059,18 +1059,18 @@
     {
       "added_at": "2026-05-08 10:04:33",
       "album": {
-        "name": "\u30cf\u30c1\u30df\u30c4",
-        "url": "https://open.spotify.com/album/4mz1WjnsW88FxFfvtrfIAd"
+        "name": "MIGNONNE (Mastered by Bernie Grundman)",
+        "url": "https://open.spotify.com/album/0Y4RPWAZZui6gUL1kwgND6"
       },
       "artists": [
         {
-          "name": "SPITZ",
-          "url": "https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0"
+          "name": "Taeko Onuki",
+          "url": "https://open.spotify.com/artist/5QeCklzEEYSSLWeUxuWeBy"
         }
       ],
-      "duration_ms": 260133,
-      "name": "\u30ed\u30d3\u30f3\u30bd\u30f3",
-      "url": "https://open.spotify.com/track/0sVnyL71jTOuMt9TZ59bws"
+      "duration_ms": 336960,
+      "name": "4:00A.M.",
+      "url": "https://open.spotify.com/track/0zoGVO4bQXG8U6ChKwNgeg"
     },
     {
       "added_at": "2026-05-08 10:04:33",
@@ -1091,18 +1091,18 @@
     {
       "added_at": "2026-05-08 10:04:33",
       "album": {
-        "name": "MIGNONNE (Mastered by Bernie Grundman)",
-        "url": "https://open.spotify.com/album/0Y4RPWAZZui6gUL1kwgND6"
+        "name": "\u30cf\u30c1\u30df\u30c4",
+        "url": "https://open.spotify.com/album/4mz1WjnsW88FxFfvtrfIAd"
       },
       "artists": [
         {
-          "name": "Taeko Onuki",
-          "url": "https://open.spotify.com/artist/5QeCklzEEYSSLWeUxuWeBy"
+          "name": "SPITZ",
+          "url": "https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0"
         }
       ],
-      "duration_ms": 336960,
-      "name": "4:00A.M.",
-      "url": "https://open.spotify.com/track/0zoGVO4bQXG8U6ChKwNgeg"
+      "duration_ms": 260133,
+      "name": "\u30ed\u30d3\u30f3\u30bd\u30f3",
+      "url": "https://open.spotify.com/track/0sVnyL71jTOuMt9TZ59bws"
     },
     {
       "added_at": "2026-05-08 10:04:33",
@@ -1415,18 +1415,18 @@
     {
       "added_at": "2026-05-08 10:04:33",
       "album": {
-        "name": "1000\u65e5\u9593",
-        "url": "https://open.spotify.com/album/760cJy3lGdx6BZqtFPkow1"
+        "name": "\u771f\u590f\u306e\u679c\u5b9f",
+        "url": "https://open.spotify.com/album/6yqQMQGUPlrEHUC8WHHwp1"
       },
       "artists": [
         {
-          "name": "\u4e43\u7d2b",
-          "url": "https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl"
+          "name": "\u30b5\u30b6\u30f3\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba",
+          "url": "https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael"
         }
       ],
-      "duration_ms": 203380,
-      "name": "1000\u65e5\u9593",
-      "url": "https://open.spotify.com/track/3HGHvxci8vnRg7RZ5E6lzi"
+      "duration_ms": 279300,
+      "name": "\u771f\u590f\u306e\u679c\u5b9f",
+      "url": "https://open.spotify.com/track/3AVLsBieDGotYuo5RPEL64"
     },
     {
       "added_at": "2026-05-08 10:04:33",
@@ -1447,18 +1447,18 @@
     {
       "added_at": "2026-05-08 10:04:33",
       "album": {
-        "name": "\u771f\u590f\u306e\u679c\u5b9f",
-        "url": "https://open.spotify.com/album/6yqQMQGUPlrEHUC8WHHwp1"
+        "name": "1000\u65e5\u9593",
+        "url": "https://open.spotify.com/album/760cJy3lGdx6BZqtFPkow1"
       },
       "artists": [
         {
-          "name": "\u30b5\u30b6\u30f3\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba",
-          "url": "https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael"
+          "name": "\u4e43\u7d2b",
+          "url": "https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl"
         }
       ],
-      "duration_ms": 279300,
-      "name": "\u771f\u590f\u306e\u679c\u5b9f",
-      "url": "https://open.spotify.com/track/3AVLsBieDGotYuo5RPEL64"
+      "duration_ms": 203380,
+      "name": "1000\u65e5\u9593",
+      "url": "https://open.spotify.com/track/3HGHvxci8vnRg7RZ5E6lzi"
     },
     {
       "added_at": "2026-05-08 10:04:33",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NF3yKN2rSH.md) - [plain]
 
 > New and classic Gospel songs to celebrate the Easter season.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,170 likes - 100 songs - 9 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,168 likes - 100 songs - 9 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NF3yKN2rSH.md) - [plain]
 | 25 | [Speak the Name \(feat\. Natalie Grant\)](https://open.spotify.com/track/6ERUhKp4ECxlnmJvKQZpu1) | [Koryn Hawthorne](https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW), [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [Unstoppable](https://open.spotify.com/album/5ZyTkx6rT1LnFXvZhpEang) | 4:52 |
 | 26 | [Oh Happy Day \- Live at New Bethel Baptist Church, Detroit, MI \- July 1987](https://open.spotify.com/track/7xaEfxxPbV1GlxNpCoDA11) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok), [Marvis Staples](https://open.spotify.com/artist/2Mihm7BTA7LR57k8BVBehH) | [One Lord, One Faith, One Baptism](https://open.spotify.com/album/1zKoUbxaJwiHOUkWwPM3pb) | 6:10 |
 | 27 | [Jesus I Love You \(Live\)](https://open.spotify.com/track/4hLaRpyVQwU3g1VggcSxPw) | [The Brooklyn Tabernacle Choir](https://open.spotify.com/artist/4eDpQV93UILljVxohKoLUs), [Robin Giles](https://open.spotify.com/artist/0gt7HlBDU64IOmHCo5IUn5) | [Live..\. This Is Your House](https://open.spotify.com/album/0lnscqAVc3mOhZcbrR0UPU) | 6:20 |
-| 28 | [Something Has To Break \(feat\. Karen Clark Sheard\)](https://open.spotify.com/track/59YIAjAePBFjRRcJIpdn0K) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y), [Karen Clark Sheard](https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1) | [Something Has To Break \(feat\. Karen Clark Sheard\)](https://open.spotify.com/album/6uRvS7BE7GbZh9xNMMVCqn) | 5:47 |
-| 29 | [At The Cross](https://open.spotify.com/track/2I7FJ9UTsIQebKUOSDM2AN) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [At The Cross](https://open.spotify.com/album/6NtgqCI8NjtEVO9BXR61ZE) | 3:39 |
+| 28 | [At The Cross](https://open.spotify.com/track/2I7FJ9UTsIQebKUOSDM2AN) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [At The Cross](https://open.spotify.com/album/6NtgqCI8NjtEVO9BXR61ZE) | 3:39 |
+| 29 | [Something Has To Break \(feat\. Karen Clark Sheard\)](https://open.spotify.com/track/59YIAjAePBFjRRcJIpdn0K) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y), [Karen Clark Sheard](https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1) | [Something Has To Break \(feat\. Karen Clark Sheard\)](https://open.spotify.com/album/6uRvS7BE7GbZh9xNMMVCqn) | 5:47 |
 | 30 | [They Didn't Know](https://open.spotify.com/track/1P8pSziECPmbA1Yd1k2ZY7) | [Kurt Carr](https://open.spotify.com/artist/3HPpUSemwpvcLFn5RBvUwH) | [One Church](https://open.spotify.com/album/7BfKk5DYFFWM1m8lcmFAok) | 6:39 |
 | 31 | [Arise \(You Are Good\)](https://open.spotify.com/track/05t7Ivn2ZrTxcz2842Qs7f) | [William Murphy](https://open.spotify.com/artist/1FQJqgKQDNLWfeLBQoQLmD) | [Demonstrate \(Deluxe Edition\)](https://open.spotify.com/album/4yDjUBvT9XqaEQcYhPIUDM) | 5:48 |
 | 32 | [Reckless Love](https://open.spotify.com/track/6LSqdwX4xUzP619oYIJMH9) | [Israel Houghton](https://open.spotify.com/artist/7pUnaNwiKa3p27L1EwB4X6) | [Road to DeMaskUs](https://open.spotify.com/album/6mLj2XS7RDNh9gyVxUSlT3) | 5:22 |

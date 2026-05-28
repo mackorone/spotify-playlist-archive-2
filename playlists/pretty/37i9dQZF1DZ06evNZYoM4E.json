@@ -1,12 +1,12 @@
 {
   "description": "This is Andre Hazes. The essential tracks, all in one playlist.",
-  "num_followers": 108506,
+  "num_followers": 108512,
   "original_name": "This Is Andre Hazes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahORAAAAAACiaHQnjYd+VTV6vgWM6Olb",
+  "snapshot_id": "ahTigAAAAAAzP989NFsCQKvfK8xoelv8",
   "tracks": [
     {
       "added_at": null,
@@ -523,8 +523,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vaag En Stil",
-        "url": "https://open.spotify.com/album/6datZIaGAIGyW2JSYvAVi4"
+        "name": "Mijn Gevoel",
+        "url": "https://open.spotify.com/album/7egOHHWD0QAecudU4JjPTe"
       },
       "artists": [
         {
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
         }
       ],
-      "duration_ms": 211293,
-      "name": "Vaag En Stil",
-      "url": "https://open.spotify.com/track/0BVy4Py6rXaTjPagS1L7z3"
+      "duration_ms": 215133,
+      "name": "Laat De Zon Maar Schijnen",
+      "url": "https://open.spotify.com/track/1rgBtqS3nUpVCfg3Xc7ybg"
     },
     {
       "added_at": null,
@@ -555,8 +555,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mijn Gevoel",
-        "url": "https://open.spotify.com/album/7egOHHWD0QAecudU4JjPTe"
+        "name": "Vaag En Stil",
+        "url": "https://open.spotify.com/album/6datZIaGAIGyW2JSYvAVi4"
       },
       "artists": [
         {
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
         }
       ],
-      "duration_ms": 215133,
-      "name": "Laat De Zon Maar Schijnen",
-      "url": "https://open.spotify.com/track/1rgBtqS3nUpVCfg3Xc7ybg"
+      "duration_ms": 211293,
+      "name": "Vaag En Stil",
+      "url": "https://open.spotify.com/track/0BVy4Py6rXaTjPagS1L7z3"
     },
     {
       "added_at": null,
@@ -639,6 +639,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Met Liefde",
+        "url": "https://open.spotify.com/album/0TAI03BMFuXUpu04Um3Od0"
+      },
+      "artists": [
+        {
+          "name": "Andre Hazes",
+          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
+        }
+      ],
+      "duration_ms": 194025,
+      "name": "Ik Heb 'T Altijd Al Geweten",
+      "url": "https://open.spotify.com/track/2yxvyBcNRXbb7Y0AfBpdTF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Alleen Met Jou",
         "url": "https://open.spotify.com/album/7FHnCZ6jfC0iJ0FiZosHhL"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 220093,
       "name": "Volare",
       "url": "https://open.spotify.com/track/4QEPyEkLKDiqlhiLaeCUFI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Met Liefde",
-        "url": "https://open.spotify.com/album/0TAI03BMFuXUpu04Um3Od0"
-      },
-      "artists": [
-        {
-          "name": "Andre Hazes",
-          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
-        }
-      ],
-      "duration_ms": 194025,
-      "name": "Ik Heb 'T Altijd Al Geweten",
-      "url": "https://open.spotify.com/track/2yxvyBcNRXbb7Y0AfBpdTF"
     },
     {
       "added_at": null,

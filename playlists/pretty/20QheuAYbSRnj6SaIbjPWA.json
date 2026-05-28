@@ -6,7 +6,7 @@
     "name": "Evan",
     "url": "https://open.spotify.com/user/sn313e4ludhgj8lelf5kmxk1l"
   },
-  "snapshot_id": "AAABJk04Gb6nA3OORF2Oz6jbK5UYfYXs",
+  "snapshot_id": "AAABJ17sPDnGPAGhYC+DSZ+MDUsxNGjm",
   "tracks": [
     {
       "added_at": "2023-02-27 21:53:34",
@@ -2823,6 +2823,42 @@
       "duration_ms": 335480,
       "name": "New York, I Love You but You're Bringing Me Down",
       "url": "https://open.spotify.com/track/5rAff9XfcWx7rguN3t0fkW"
+    },
+    {
+      "added_at": "2026-05-28 01:41:45",
+      "album": {
+        "name": "The Blue Notebooks (15 Years)",
+        "url": "https://open.spotify.com/album/1rTHmwhZwhhvivx3pdXXdo"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        },
+        {
+          "name": "Louisa Fuller",
+          "url": "https://open.spotify.com/artist/557AjoqV9wVpa8vO2k4wuJ"
+        },
+        {
+          "name": "Natalia Bonner",
+          "url": "https://open.spotify.com/artist/4d6eKLLJbe2ZeiL07Du7vB"
+        },
+        {
+          "name": "John Metcalfe",
+          "url": "https://open.spotify.com/artist/6s8AUvcmf2fp0Kh7PctPnd"
+        },
+        {
+          "name": "Philip Sheppard",
+          "url": "https://open.spotify.com/artist/6qzi6mPoJU4cBlO76U1Il1"
+        },
+        {
+          "name": "Chris Worsey",
+          "url": "https://open.spotify.com/artist/33TpuAICGC2gekoZZDDZhE"
+        }
+      ],
+      "duration_ms": 371746,
+      "name": "On the Nature of Daylight",
+      "url": "https://open.spotify.com/track/56oReVXIfUO9xkX7pHmEU0"
     }
   ],
   "unique_name": "20QheuAYbSRnj6SaIbjPWA",

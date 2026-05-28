@@ -1,6 +1,6 @@
 {
   "description": "Various sounds, various decades, but with one thing in common.",
-  "num_followers": 2034824,
+  "num_followers": 2034870,
   "original_name": "Pure Rock & Roll",
   "owner": {
     "name": "Spotify",
@@ -479,18 +479,18 @@
     {
       "added_at": "2026-02-20 05:00:51",
       "album": {
-        "name": "The Doors",
-        "url": "https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn"
+        "name": "Led Zeppelin IV (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK"
       },
       "artists": [
         {
-          "name": "The Doors",
-          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
         }
       ],
-      "duration_ms": 145866,
-      "name": "Break on Through (To the Other Side)",
-      "url": "https://open.spotify.com/track/6ToM0uwxtPKo9CMpbPGYvM"
+      "duration_ms": 220560,
+      "name": "Rock and Roll - Remaster",
+      "url": "https://open.spotify.com/track/4PRGxHpCpF2yoOHYKQIEwD"
     },
     {
       "added_at": "2026-02-20 05:00:51",
@@ -511,18 +511,18 @@
     {
       "added_at": "2026-02-20 05:00:51",
       "album": {
-        "name": "Led Zeppelin IV (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK"
+        "name": "The Doors",
+        "url": "https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn"
       },
       "artists": [
         {
-          "name": "Led Zeppelin",
-          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
         }
       ],
-      "duration_ms": 220560,
-      "name": "Rock and Roll - Remaster",
-      "url": "https://open.spotify.com/track/4PRGxHpCpF2yoOHYKQIEwD"
+      "duration_ms": 145866,
+      "name": "Break on Through (To the Other Side)",
+      "url": "https://open.spotify.com/track/6ToM0uwxtPKo9CMpbPGYvM"
     },
     {
       "added_at": "2026-02-20 05:00:51",
@@ -767,22 +767,6 @@
     {
       "added_at": "2026-02-20 05:00:51",
       "album": {
-        "name": "Elvis' Golden Records",
-        "url": "https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek"
-      },
-      "artists": [
-        {
-          "name": "Elvis Presley",
-          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
-        }
-      ],
-      "duration_ms": 149232,
-      "name": "Jailhouse Rock",
-      "url": "https://open.spotify.com/track/4gphxUgq0JSFv2BCLhNDiE"
-    },
-    {
-      "added_at": "2026-02-20 05:00:51",
-      "album": {
         "name": "Audioslave",
         "url": "https://open.spotify.com/album/78guAsers0klWl6RwzgDLd"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 334906,
       "name": "I Am the Highway",
       "url": "https://open.spotify.com/track/3bwAS8cN7Xtzvv5UurJOOX"
+    },
+    {
+      "added_at": "2026-02-20 05:00:51",
+      "album": {
+        "name": "Elvis' Golden Records",
+        "url": "https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "duration_ms": 149232,
+      "name": "Jailhouse Rock",
+      "url": "https://open.spotify.com/track/4gphxUgq0JSFv2BCLhNDiE"
     },
     {
       "added_at": "2026-02-20 05:00:51",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2026-02-20 05:00:51",
       "album": {
-        "name": "Brothers",
-        "url": "https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 224480,
-      "name": "Sinister Kid",
-      "url": "https://open.spotify.com/track/78krcD2vFUXJ3Y0XXeiHWH"
-    },
-    {
-      "added_at": "2026-02-20 05:00:51",
-      "album": {
         "name": "A Million Knives",
         "url": "https://open.spotify.com/album/3HWdBSozGCPDONMpCmnKDf"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 232041,
       "name": "Take It From The Top",
       "url": "https://open.spotify.com/track/6nmK3NF1rek4lCTpRoH6DO"
+    },
+    {
+      "added_at": "2026-02-20 05:00:51",
+      "album": {
+        "name": "Brothers",
+        "url": "https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 224480,
+      "name": "Sinister Kid",
+      "url": "https://open.spotify.com/track/78krcD2vFUXJ3Y0XXeiHWH"
     },
     {
       "added_at": "2026-02-20 05:00:51",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2026-02-20 05:00:51",
       "album": {
-        "name": "Meeting The Master",
-        "url": "https://open.spotify.com/album/2KDIAu0OvfsRAcjAnknNUu"
-      },
-      "artists": [
-        {
-          "name": "Greta Van Fleet",
-          "url": "https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl"
-        }
-      ],
-      "duration_ms": 312200,
-      "name": "Meeting The Master",
-      "url": "https://open.spotify.com/track/6RuNa2kdO6HFq7QznOfl7C"
-    },
-    {
-      "added_at": "2026-02-20 05:00:51",
-      "album": {
         "name": "the garden",
         "url": "https://open.spotify.com/album/4iHuwtCHVOlMC4u09kbIYg"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 203770,
       "name": "the garden",
       "url": "https://open.spotify.com/track/70yMk0UK1BTtPvhqcSXvnF"
+    },
+    {
+      "added_at": "2026-02-20 05:00:51",
+      "album": {
+        "name": "Meeting The Master",
+        "url": "https://open.spotify.com/album/2KDIAu0OvfsRAcjAnknNUu"
+      },
+      "artists": [
+        {
+          "name": "Greta Van Fleet",
+          "url": "https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl"
+        }
+      ],
+      "duration_ms": 312200,
+      "name": "Meeting The Master",
+      "url": "https://open.spotify.com/track/6RuNa2kdO6HFq7QznOfl7C"
     },
     {
       "added_at": "2026-02-20 05:00:51",
@@ -1811,6 +1811,22 @@
     {
       "added_at": "2026-02-20 05:00:51",
       "album": {
+        "name": "The Night Before",
+        "url": "https://open.spotify.com/album/3rEd1OxnsM8XPKp5LgVI6O"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 154612,
+      "name": "The Night Before",
+      "url": "https://open.spotify.com/track/4kawArrYyru9uT0phHxWKt"
+    },
+    {
+      "added_at": "2026-02-20 05:00:51",
+      "album": {
         "name": "Gods Of Rock N Roll",
         "url": "https://open.spotify.com/album/3QmCUNc3xulR0uuL8HJfwf"
       },
@@ -1831,22 +1847,6 @@
       "duration_ms": 316160,
       "name": "Gods Of Rock N Roll",
       "url": "https://open.spotify.com/track/6fJ3mXUUBRHj1cCBazDCwQ"
-    },
-    {
-      "added_at": "2026-02-20 05:00:51",
-      "album": {
-        "name": "The Night Before",
-        "url": "https://open.spotify.com/album/3rEd1OxnsM8XPKp5LgVI6O"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 154612,
-      "name": "The Night Before",
-      "url": "https://open.spotify.com/track/4kawArrYyru9uT0phHxWKt"
     },
     {
       "added_at": "2026-02-20 05:00:51",

@@ -1,6 +1,6 @@
 {
   "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. Mario Santander en portada.",
-  "num_followers": 72150,
+  "num_followers": 72170,
   "original_name": "electro mx ",
   "owner": {
     "name": "Spotify",
@@ -407,22 +407,18 @@
     {
       "added_at": "2026-05-22 06:00:39",
       "album": {
-        "name": "Flores de Abril",
-        "url": "https://open.spotify.com/album/7gG5uYFywQBnHnk4ckKha2"
+        "name": "Anestesia",
+        "url": "https://open.spotify.com/album/1Bta845oR23nfA6VqkIVjc"
       },
       "artists": [
         {
           "name": "Pato Shoucair",
           "url": "https://open.spotify.com/artist/5PBJkBd4ipAxK7D36jkJNC"
-        },
-        {
-          "name": "DIAN",
-          "url": "https://open.spotify.com/artist/1axT977BV0cQMFt5ChzhAa"
         }
       ],
-      "duration_ms": 257653,
-      "name": "Flores de Abril",
-      "url": "https://open.spotify.com/track/5nFrZoTp4FfBCWAHr5Aqyx"
+      "duration_ms": 158400,
+      "name": "Anestesia",
+      "url": "https://open.spotify.com/track/1mjapXQHm6DapzTlGNKdBi"
     },
     {
       "added_at": "2026-05-22 06:00:39",
@@ -507,18 +503,22 @@
     {
       "added_at": "2026-05-22 06:00:39",
       "album": {
-        "name": "Anestesia",
-        "url": "https://open.spotify.com/album/1Bta845oR23nfA6VqkIVjc"
+        "name": "Flores de Abril",
+        "url": "https://open.spotify.com/album/7gG5uYFywQBnHnk4ckKha2"
       },
       "artists": [
         {
           "name": "Pato Shoucair",
           "url": "https://open.spotify.com/artist/5PBJkBd4ipAxK7D36jkJNC"
+        },
+        {
+          "name": "DIAN",
+          "url": "https://open.spotify.com/artist/1axT977BV0cQMFt5ChzhAa"
         }
       ],
-      "duration_ms": 158400,
-      "name": "Anestesia",
-      "url": "https://open.spotify.com/track/1mjapXQHm6DapzTlGNKdBi"
+      "duration_ms": 257653,
+      "name": "Flores de Abril",
+      "url": "https://open.spotify.com/track/5nFrZoTp4FfBCWAHr5Aqyx"
     },
     {
       "added_at": "2026-05-22 06:00:39",
@@ -627,22 +627,6 @@
     {
       "added_at": "2026-05-22 06:00:39",
       "album": {
-        "name": "EVOLUXION",
-        "url": "https://open.spotify.com/album/2amMAPbRhZFTcoSu8pJpw0"
-      },
-      "artists": [
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 145165,
-      "name": "HOUSE OF LUX 2",
-      "url": "https://open.spotify.com/track/3dtgHj28cZW9Io2PIftNW7"
-    },
-    {
-      "added_at": "2026-05-22 06:00:39",
-      "album": {
         "name": "Solo Quiero Tomar",
         "url": "https://open.spotify.com/album/1tFw1Azm3nI4YxjHSOJu3l"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 162634,
       "name": "Solo Quiero Tomar",
       "url": "https://open.spotify.com/track/5lbdtAkTRsWCYBbkb2y7Sc"
+    },
+    {
+      "added_at": "2026-05-22 06:00:39",
+      "album": {
+        "name": "EVOLUXION",
+        "url": "https://open.spotify.com/album/2amMAPbRhZFTcoSu8pJpw0"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 145165,
+      "name": "HOUSE OF LUX 2",
+      "url": "https://open.spotify.com/track/3dtgHj28cZW9Io2PIftNW7"
     },
     {
       "added_at": "2026-05-22 06:00:39",
@@ -735,26 +735,6 @@
     {
       "added_at": "2026-05-22 06:00:39",
       "album": {
-        "name": "BOTAS & RAVE",
-        "url": "https://open.spotify.com/album/0aJgOjin88gJ7ZpiTTilYz"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        },
-        {
-          "name": "3BallMTY",
-          "url": "https://open.spotify.com/artist/1MLs9allBZrajb5Dc4146L"
-        }
-      ],
-      "duration_ms": 196800,
-      "name": "SONI23BALL",
-      "url": "https://open.spotify.com/track/6FAAoH80QaTzWOUTCa8oTZ"
-    },
-    {
-      "added_at": "2026-05-22 06:00:39",
-      "album": {
         "name": "Quemando Papel",
         "url": "https://open.spotify.com/album/16v3PmkpQZjdbnq6SIwsH9"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 194645,
       "name": "Quemando Papel",
       "url": "https://open.spotify.com/track/3tiaqn4MVRX9prDxiBNgHA"
+    },
+    {
+      "added_at": "2026-05-22 06:00:39",
+      "album": {
+        "name": "BOTAS & RAVE",
+        "url": "https://open.spotify.com/album/0aJgOjin88gJ7ZpiTTilYz"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "3BallMTY",
+          "url": "https://open.spotify.com/artist/1MLs9allBZrajb5Dc4146L"
+        }
+      ],
+      "duration_ms": 196800,
+      "name": "SONI23BALL",
+      "url": "https://open.spotify.com/track/6FAAoH80QaTzWOUTCa8oTZ"
     },
     {
       "added_at": "2026-05-22 06:00:39",
@@ -951,26 +951,6 @@
     {
       "added_at": "2026-05-22 06:00:39",
       "album": {
-        "name": "Eso Si Es De Gangster",
-        "url": "https://open.spotify.com/album/5DyoeBkxYOgCrA2TpCvJKL"
-      },
-      "artists": [
-        {
-          "name": "El Bogueto",
-          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 164627,
-      "name": "Esa Wera",
-      "url": "https://open.spotify.com/track/2AF5ZgfsVm16nnHQju7oPM"
-    },
-    {
-      "added_at": "2026-05-22 06:00:39",
-      "album": {
         "name": "Lunita (J.Pool Remix)",
         "url": "https://open.spotify.com/album/1DCdPcM35yP2fUTbl3MtdL"
       },
@@ -991,22 +971,6 @@
     {
       "added_at": "2026-05-22 06:00:39",
       "album": {
-        "name": "boss",
-        "url": "https://open.spotify.com/album/4vubWhYIAvE2QKfjcnMyHe"
-      },
-      "artists": [
-        {
-          "name": "EMJAY",
-          "url": "https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn"
-        }
-      ],
-      "duration_ms": 131200,
-      "name": "boss",
-      "url": "https://open.spotify.com/track/1wbfnoIbYDqablRSVuNC2m"
-    },
-    {
-      "added_at": "2026-05-22 06:00:39",
-      "album": {
         "name": "Exclusive",
         "url": "https://open.spotify.com/album/3AIRDrD1ScPbFhgqdG0k7O"
       },
@@ -1019,6 +983,42 @@
       "duration_ms": 170089,
       "name": "Exclusive",
       "url": "https://open.spotify.com/track/46exxtUZ41hRS4RudfrVJw"
+    },
+    {
+      "added_at": "2026-05-22 06:00:39",
+      "album": {
+        "name": "Eso Si Es De Gangster",
+        "url": "https://open.spotify.com/album/5DyoeBkxYOgCrA2TpCvJKL"
+      },
+      "artists": [
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 164627,
+      "name": "Esa Wera",
+      "url": "https://open.spotify.com/track/2AF5ZgfsVm16nnHQju7oPM"
+    },
+    {
+      "added_at": "2026-05-22 06:00:39",
+      "album": {
+        "name": "boss",
+        "url": "https://open.spotify.com/album/4vubWhYIAvE2QKfjcnMyHe"
+      },
+      "artists": [
+        {
+          "name": "EMJAY",
+          "url": "https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn"
+        }
+      ],
+      "duration_ms": 131200,
+      "name": "boss",
+      "url": "https://open.spotify.com/track/1wbfnoIbYDqablRSVuNC2m"
     },
     {
       "added_at": "2026-05-22 06:00:39",
@@ -1279,26 +1279,6 @@
     {
       "added_at": "2026-05-22 06:00:39",
       "album": {
-        "name": "Candy P",
-        "url": "https://open.spotify.com/album/5AAGa1ufqIZwD6yUt7nQbF"
-      },
-      "artists": [
-        {
-          "name": "Boombox Cartel",
-          "url": "https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO"
-        },
-        {
-          "name": "Mr Candy Kazu",
-          "url": "https://open.spotify.com/artist/3j2xZ5qiSevCbQT914rIPS"
-        }
-      ],
-      "duration_ms": 146517,
-      "name": "Candy P",
-      "url": "https://open.spotify.com/track/66hh5gGtf4Z3AfT5mljhdV"
-    },
-    {
-      "added_at": "2026-05-22 06:00:39",
-      "album": {
         "name": "Ya No Se Llevan Serenatas",
         "url": "https://open.spotify.com/album/6MRvPbmvRXntgB8DiDsIT6"
       },
@@ -1335,6 +1315,26 @@
       "duration_ms": 165571,
       "name": "La Plebada (feat. Deorro)",
       "url": "https://open.spotify.com/track/5frpTS5bVMhdXTmDqCpLaS"
+    },
+    {
+      "added_at": "2026-05-22 06:00:39",
+      "album": {
+        "name": "Candy P",
+        "url": "https://open.spotify.com/album/5AAGa1ufqIZwD6yUt7nQbF"
+      },
+      "artists": [
+        {
+          "name": "Boombox Cartel",
+          "url": "https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO"
+        },
+        {
+          "name": "Mr Candy Kazu",
+          "url": "https://open.spotify.com/artist/3j2xZ5qiSevCbQT914rIPS"
+        }
+      ],
+      "duration_ms": 146517,
+      "name": "Candy P",
+      "url": "https://open.spotify.com/track/66hh5gGtf4Z3AfT5mljhdV"
     },
     {
       "added_at": "2026-05-22 06:00:39",
@@ -1379,30 +1379,6 @@
     {
       "added_at": "2026-05-22 06:00:39",
       "album": {
-        "name": "2 Da Floor",
-        "url": "https://open.spotify.com/album/2d9W68klknSNLEop3L4Y5L"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        },
-        {
-          "name": "Riot Ten",
-          "url": "https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ"
-        },
-        {
-          "name": "J. Cruze",
-          "url": "https://open.spotify.com/artist/4GiK8nFWRB2wXQRmXwHd1V"
-        }
-      ],
-      "duration_ms": 185600,
-      "name": "2 Da Floor",
-      "url": "https://open.spotify.com/track/4Ohib4VJPYTuejPQEEHkSb"
-    },
-    {
-      "added_at": "2026-05-22 06:00:39",
-      "album": {
         "name": "Lo Mueve",
         "url": "https://open.spotify.com/album/7Hxs3puTDbpnamjx0gpwzN"
       },
@@ -1423,6 +1399,30 @@
       "duration_ms": 152812,
       "name": "Lo Mueve",
       "url": "https://open.spotify.com/track/4gdGtQ5Apq80zuYzr5NJsM"
+    },
+    {
+      "added_at": "2026-05-22 06:00:39",
+      "album": {
+        "name": "2 Da Floor",
+        "url": "https://open.spotify.com/album/2d9W68klknSNLEop3L4Y5L"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "Riot Ten",
+          "url": "https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ"
+        },
+        {
+          "name": "J. Cruze",
+          "url": "https://open.spotify.com/artist/4GiK8nFWRB2wXQRmXwHd1V"
+        }
+      ],
+      "duration_ms": 185600,
+      "name": "2 Da Floor",
+      "url": "https://open.spotify.com/track/4Ohib4VJPYTuejPQEEHkSb"
     },
     {
       "added_at": "2026-05-22 06:00:39",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2026-05-22 06:00:39",
       "album": {
-        "name": "Te quiero",
-        "url": "https://open.spotify.com/album/7I6R1TefizulQxwYchpARi"
-      },
-      "artists": [
-        {
-          "name": "Jaycc",
-          "url": "https://open.spotify.com/artist/1XIz0GQC3BReKYW29Uk7yN"
-        }
-      ],
-      "duration_ms": 273999,
-      "name": "Te quiero",
-      "url": "https://open.spotify.com/track/5KAtz23nX31PdwgLW8SSJy"
-    },
-    {
-      "added_at": "2026-05-22 06:00:39",
-      "album": {
         "name": "me estoy volviendo loca",
         "url": "https://open.spotify.com/album/0ipLSjp0E8sNY1EkyWg54s"
       },
@@ -1695,22 +1679,6 @@
     {
       "added_at": "2026-05-22 06:00:39",
       "album": {
-        "name": "Red Card",
-        "url": "https://open.spotify.com/album/5ItAWdxHl4m7IJHfXpGBuk"
-      },
-      "artists": [
-        {
-          "name": "Boombox Cartel",
-          "url": "https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO"
-        }
-      ],
-      "duration_ms": 135937,
-      "name": "Red Card",
-      "url": "https://open.spotify.com/track/2s31yShX3eYxF85njyerZZ"
-    },
-    {
-      "added_at": "2026-05-22 06:00:39",
-      "album": {
         "name": "CAJETA",
         "url": "https://open.spotify.com/album/0uYZaczNoETjWCLYFQVhbH"
       },
@@ -1727,18 +1695,18 @@
     {
       "added_at": "2026-05-22 06:00:39",
       "album": {
-        "name": "Jugo de Diamantes",
-        "url": "https://open.spotify.com/album/0lt2MhZTJTSegzvSHfh7YM"
+        "name": "Te quiero",
+        "url": "https://open.spotify.com/album/7I6R1TefizulQxwYchpARi"
       },
       "artists": [
         {
-          "name": "Mandragora",
-          "url": "https://open.spotify.com/artist/2AasvmwafZPTgQANaoLoQY"
+          "name": "Jaycc",
+          "url": "https://open.spotify.com/artist/1XIz0GQC3BReKYW29Uk7yN"
         }
       ],
-      "duration_ms": 168000,
-      "name": "Jugo de Diamantes",
-      "url": "https://open.spotify.com/track/5fZVLUJBlfZUi4xMCjIv48"
+      "duration_ms": 273999,
+      "name": "Te quiero",
+      "url": "https://open.spotify.com/track/5KAtz23nX31PdwgLW8SSJy"
     },
     {
       "added_at": "2026-05-22 06:00:39",
@@ -1759,6 +1727,38 @@
       "duration_ms": 149877,
       "name": "Believe",
       "url": "https://open.spotify.com/track/0rhfIKvVhXC4iJlpJr04Lg"
+    },
+    {
+      "added_at": "2026-05-22 06:00:39",
+      "album": {
+        "name": "Red Card",
+        "url": "https://open.spotify.com/album/5ItAWdxHl4m7IJHfXpGBuk"
+      },
+      "artists": [
+        {
+          "name": "Boombox Cartel",
+          "url": "https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO"
+        }
+      ],
+      "duration_ms": 135937,
+      "name": "Red Card",
+      "url": "https://open.spotify.com/track/2s31yShX3eYxF85njyerZZ"
+    },
+    {
+      "added_at": "2026-05-22 06:00:39",
+      "album": {
+        "name": "Jugo de Diamantes",
+        "url": "https://open.spotify.com/album/0lt2MhZTJTSegzvSHfh7YM"
+      },
+      "artists": [
+        {
+          "name": "Mandragora",
+          "url": "https://open.spotify.com/artist/2AasvmwafZPTgQANaoLoQY"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Jugo de Diamantes",
+      "url": "https://open.spotify.com/track/5fZVLUJBlfZUi4xMCjIv48"
     },
     {
       "added_at": "2026-05-22 06:00:39",

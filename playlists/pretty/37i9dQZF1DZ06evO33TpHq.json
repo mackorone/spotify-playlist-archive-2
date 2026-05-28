@@ -1,12 +1,12 @@
 {
   "description": "This is Phil Wickham. The essential tracks, all in one playlist.",
-  "num_followers": 64658,
+  "num_followers": 64667,
   "original_name": "This Is Phil Wickham",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahORAAAAAABbqNYZ6Jc9zxpUm7Lpmzwr",
+  "snapshot_id": "ahTigAAAAAAEnRC3Q5nvTs21h7oi5oFf",
   "tracks": [
     {
       "added_at": null,
@@ -543,22 +543,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "DAVID (Soundtrack from the Angel Original Film)",
-        "url": "https://open.spotify.com/album/0SwDHyoBXernhnL9scgLDq"
+        "name": "I Believe",
+        "url": "https://open.spotify.com/album/3pp2YfqjfhCB8erfKpncIc"
       },
       "artists": [
         {
           "name": "Phil Wickham",
           "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        },
-        {
-          "name": "Angel",
-          "url": "https://open.spotify.com/artist/2Q04nRZfHm5oBF9Z14dpUF"
         }
       ],
-      "duration_ms": 133207,
-      "name": "I Will Not Be Afraid (Reprise)",
-      "url": "https://open.spotify.com/track/6HjiwLJ1CzTn6Yhmpf5PK2"
+      "duration_ms": 258946,
+      "name": "Isn't He Good",
+      "url": "https://open.spotify.com/track/1nhxzfAFAw2ksi0Rajd693"
     },
     {
       "added_at": null,
@@ -579,18 +575,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Believe",
-        "url": "https://open.spotify.com/album/3pp2YfqjfhCB8erfKpncIc"
+        "name": "DAVID (Soundtrack from the Angel Original Film)",
+        "url": "https://open.spotify.com/album/0SwDHyoBXernhnL9scgLDq"
       },
       "artists": [
         {
           "name": "Phil Wickham",
           "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        },
+        {
+          "name": "Angel",
+          "url": "https://open.spotify.com/artist/2Q04nRZfHm5oBF9Z14dpUF"
         }
       ],
-      "duration_ms": 258946,
-      "name": "Isn't He Good",
-      "url": "https://open.spotify.com/track/1nhxzfAFAw2ksi0Rajd693"
+      "duration_ms": 133207,
+      "name": "I Will Not Be Afraid (Reprise)",
+      "url": "https://open.spotify.com/track/6HjiwLJ1CzTn6Yhmpf5PK2"
     },
     {
       "added_at": null,
@@ -611,22 +611,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Children of God Acoustic Sessions",
-        "url": "https://open.spotify.com/album/5AyRWQVQ69mjrdoxIhNanU"
+        "name": "Song Of The Saints (Deluxe)",
+        "url": "https://open.spotify.com/album/5shcL77IqPmZPBRbfl0cHT"
       },
       "artists": [
         {
           "name": "Phil Wickham",
           "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        },
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 283785,
-      "name": "The Secret Place - Acoustic",
-      "url": "https://open.spotify.com/track/1ZwyRRW5zGjt9gGOwSO5YM"
+      "duration_ms": 161000,
+      "name": "Everyday Hallelujah - Hidden Track",
+      "url": "https://open.spotify.com/track/76NFX7R3TnrI4XbVg2VhIu"
     },
     {
       "added_at": null,
@@ -647,18 +643,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Song Of The Saints (Deluxe)",
-        "url": "https://open.spotify.com/album/5shcL77IqPmZPBRbfl0cHT"
+        "name": "Children of God Acoustic Sessions",
+        "url": "https://open.spotify.com/album/5AyRWQVQ69mjrdoxIhNanU"
       },
       "artists": [
         {
           "name": "Phil Wickham",
           "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        },
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 161000,
-      "name": "Everyday Hallelujah - Hidden Track",
-      "url": "https://open.spotify.com/track/76NFX7R3TnrI4XbVg2VhIu"
+      "duration_ms": 283785,
+      "name": "The Secret Place - Acoustic",
+      "url": "https://open.spotify.com/track/1ZwyRRW5zGjt9gGOwSO5YM"
     },
     {
       "added_at": null,

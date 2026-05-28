@@ -605,6 +605,24 @@
     },
     {
       "album": {
+        "name": "Dream Ride",
+        "url": "https://open.spotify.com/album/0jLgfhtSr2LTdQFWfi4VB0"
+      },
+      "artists": [
+        {
+          "name": "G Flip",
+          "url": "https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213236,
+      "name": "Bed on Fire",
+      "url": "https://open.spotify.com/track/01IJ2feBkPtQgQi68nx9nl"
+    },
+    {
+      "album": {
         "name": "Belong Together",
         "url": "https://open.spotify.com/album/1RaDxuGnsIuuGR3lHukOPI"
       },
@@ -3652,7 +3670,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-28",
       "duration_ms": 146626,
       "name": "Lovesick",
       "url": "https://open.spotify.com/track/0J17rlejk0pNUDejkxCjoD"
@@ -5687,6 +5705,24 @@
     },
     {
       "album": {
+        "name": "To Be Continued...",
+        "url": "https://open.spotify.com/album/7iKDBfOFUtg8E8RbuDhiux"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224133,
+      "name": "The Bitch Is Back",
+      "url": "https://open.spotify.com/track/1XbVcWLoN4wZyM77ciEoav"
+    },
+    {
+      "album": {
         "name": "Survive - EP",
         "url": "https://open.spotify.com/album/4HXHuDnVGEl2Mwz6X1xlOe"
       },
@@ -6680,7 +6716,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-28",
       "duration_ms": 146000,
       "name": "WIE LIEBE GEHT",
       "url": "https://open.spotify.com/track/7pk0TzbdVwQRrnrLenPme1"

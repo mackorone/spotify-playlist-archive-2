@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZylNQMXNhNe.md) - [plain]
 
 > Os hits e novidades de artistas LGBTQIAPN+ estão aqui\. Foto: Vita
 
-[Spotify](https://open.spotify.com/user/spotify) - 248,311 likes - 75 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 248,304 likes - 75 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZylNQMXNhNe.md) - [plain]
 | 41 | [QUEREM ME VER HUMILHADA](https://open.spotify.com/track/5ntu4zzKYdLn9OAbC8gbn4) | [Johnny Hooker](https://open.spotify.com/artist/7qmf5YAQYjfjBF9C7kkjzs) | [Viver e Morrer de Amor na América Latina](https://open.spotify.com/album/1rJL1rrZXgOFUMNHfjvJFA) | 2:43 |
 | 42 | [Deixa a Gira Girar](https://open.spotify.com/track/4Qpj3YJynrgKwrZhNQqoOp) | [Sambaiana](https://open.spotify.com/artist/5gGjpgad4tcVWMv4mlOw7a), [Ju Moraes](https://open.spotify.com/artist/19P3N1zEBTIeW3I0cyVthZ), [Majur](https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7) | [Deixa a Gira Girar](https://open.spotify.com/album/7ufhsTfziKNTbMmSyu8LAS) | 3:48 |
 | 43 | [Dilema](https://open.spotify.com/track/4ZDxRw8TDRrfXdiOTOl04A) | [Rico Dalasam](https://open.spotify.com/artist/5nbaj9RaJdFNlS5ZxoqN97) | [Dilema](https://open.spotify.com/album/4x120qkC4A72WlSXxVJr8b) | 3:06 |
-| 44 | [8 HORAS DE PRAZER](https://open.spotify.com/track/30h7GGYIRcPtFA1fDlHr0w) | [Lia Clark](https://open.spotify.com/artist/3bY8SmKlzUFImE0mt0zDjY), [Mc Carol](https://open.spotify.com/artist/78jcF59aMpz63E2TYmntws) | [8 HORAS DE PRAZER](https://open.spotify.com/album/2MoMvu4WvsfDimDrMnRWXT) | 2:41 |
-| 45 | [CUSSY](https://open.spotify.com/track/4Hoc1S0s6cZtni6ghIytDX) | [Irmãs de Pau](https://open.spotify.com/artist/2M0BRHVrzJ5y20huTCzMJu), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [Gambiarra Chic, Pt\. 1](https://open.spotify.com/album/2wlQIZh68jjdSizM2CReLz) | 3:00 |
+| 44 | [CUSSY](https://open.spotify.com/track/4Hoc1S0s6cZtni6ghIytDX) | [Irmãs de Pau](https://open.spotify.com/artist/2M0BRHVrzJ5y20huTCzMJu), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [Gambiarra Chic, Pt\. 1](https://open.spotify.com/album/2wlQIZh68jjdSizM2CReLz) | 3:00 |
+| 45 | [8 HORAS DE PRAZER](https://open.spotify.com/track/30h7GGYIRcPtFA1fDlHr0w) | [Lia Clark](https://open.spotify.com/artist/3bY8SmKlzUFImE0mt0zDjY), [Mc Carol](https://open.spotify.com/artist/78jcF59aMpz63E2TYmntws) | [8 HORAS DE PRAZER](https://open.spotify.com/album/2MoMvu4WvsfDimDrMnRWXT) | 2:41 |
 | 46 | [Malícia](https://open.spotify.com/track/2QZ1rsYyn93YttD5SlybTh) | [Thiago Pantaleão](https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6) | [NOVA ERA Part\. I](https://open.spotify.com/album/1hxPeJO5L6WOH1QFz3Pnwr) | 3:08 |
 | 47 | [relações superficiais](https://open.spotify.com/track/1ORiphnAaOvI9UkntVSthN) | [Bruno Gadiol](https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3), [Thiago Pantaleão](https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6) | [GÊMEOS EM GÊMEOS](https://open.spotify.com/album/7mV6fLMgnTZkBQQ8e7PfcB) | 3:09 |
 | 48 | [GASOLINA](https://open.spotify.com/track/6km3xj1qXL5S1kinBNXKXy) | [Mia Badgyal](https://open.spotify.com/artist/4fEVOU30FExLu4AzdKtyqc), [Irmãs de Pau](https://open.spotify.com/artist/2M0BRHVrzJ5y20huTCzMJu), [DJ RaMeMes \(O DESTRUIDOR DO FUNK\)](https://open.spotify.com/artist/6Xk7H8ufVBIZcgGWAhY9b3) | [MUCHO SEXY](https://open.spotify.com/album/3mg0rt1WlfjJJi2KvJlhKV) | 3:05 |

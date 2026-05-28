@@ -1,33 +1,13 @@
 {
   "description": "This is Migos. The essential tracks, all in one playlist.",
-  "num_followers": 440098,
+  "num_followers": 440102,
   "original_name": "This Is Migos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahORAAAAAAB/x5De4mm3iIsgUWT9yUnJ",
+  "snapshot_id": "ahTigAAAAABUP7tIYCrJQe6a13EbUpAt",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Culture III",
-        "url": "https://open.spotify.com/album/3uyOwJu4r3yroAkFywNFM3"
-      },
-      "artists": [
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        },
-        {
-          "name": "YoungBoy Never Broke Again",
-          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
-        }
-      ],
-      "duration_ms": 195680,
-      "name": "Need It (feat. YoungBoy Never Broke Again)",
-      "url": "https://open.spotify.com/track/1cMMVJ4FDqhCci9efd1BU6"
-    },
     {
       "added_at": null,
       "album": {
@@ -55,6 +35,26 @@
       "duration_ms": 230813,
       "name": "Slide (feat. Frank Ocean & Migos)",
       "url": "https://open.spotify.com/track/7tr2za8SQg2CI8EDgrdtNl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Culture III",
+        "url": "https://open.spotify.com/album/3uyOwJu4r3yroAkFywNFM3"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        },
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "duration_ms": 195680,
+      "name": "Need It (feat. YoungBoy Never Broke Again)",
+      "url": "https://open.spotify.com/track/1cMMVJ4FDqhCci9efd1BU6"
     },
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Taco Tuesday",
-        "url": "https://open.spotify.com/album/42SNLQYdeiybSNLIxVA2yn"
-      },
-      "artists": [
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        }
-      ],
-      "duration_ms": 96563,
-      "name": "Taco Tuesday",
-      "url": "https://open.spotify.com/track/2b1yiFEFZYuvlBnClvNJHP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Quality Control: Control The Streets Volume 1",
         "url": "https://open.spotify.com/album/07Jvk8tGuaMhR4H72znlLJ"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 241505,
       "name": "Bosses Don't Speak",
       "url": "https://open.spotify.com/track/1C8yDcVIhBObN58cSS8oX9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Taco Tuesday",
+        "url": "https://open.spotify.com/album/42SNLQYdeiybSNLIxVA2yn"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "duration_ms": 96563,
+      "name": "Taco Tuesday",
+      "url": "https://open.spotify.com/track/2b1yiFEFZYuvlBnClvNJHP"
     },
     {
       "added_at": null,
@@ -579,22 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Culture III (Deluxe)",
-        "url": "https://open.spotify.com/album/2actLFtpiiBZm1z0TUzMx2"
-      },
-      "artists": [
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        }
-      ],
-      "duration_ms": 229434,
-      "name": "How We Coming",
-      "url": "https://open.spotify.com/track/0oxfifOPoqzmWlTT2Tnu3k"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Quality Control: Control The Streets Volume 1",
         "url": "https://open.spotify.com/album/07Jvk8tGuaMhR4H72znlLJ"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 295997,
       "name": "Too Hotty",
       "url": "https://open.spotify.com/track/3hWUIMNBwLNug1O8o2PPRW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Culture III (Deluxe)",
+        "url": "https://open.spotify.com/album/2actLFtpiiBZm1z0TUzMx2"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "duration_ms": 229434,
+      "name": "How We Coming",
+      "url": "https://open.spotify.com/track/0oxfifOPoqzmWlTT2Tnu3k"
     },
     {
       "added_at": null,
@@ -891,26 +891,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pretty Girls Like Trap Music",
-        "url": "https://open.spotify.com/album/5vvvo79z68vWj9yimoygfS"
-      },
-      "artists": [
-        {
-          "name": "2 Chainz",
-          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
-        },
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        }
-      ],
-      "duration_ms": 308733,
-      "name": "Blue Cheese",
-      "url": "https://open.spotify.com/track/67gmXPQZL1ISSh13OJJ1Pu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Give No Fxk",
         "url": "https://open.spotify.com/album/5PGZpfzDkbbTvhDAuZlSQo"
       },
@@ -931,6 +911,26 @@
       "duration_ms": 224243,
       "name": "Give No Fxk",
       "url": "https://open.spotify.com/track/6ZelF5APDN5r6XnFqcnvWR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pretty Girls Like Trap Music",
+        "url": "https://open.spotify.com/album/5vvvo79z68vWj9yimoygfS"
+      },
+      "artists": [
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        },
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "duration_ms": 308733,
+      "name": "Blue Cheese",
+      "url": "https://open.spotify.com/track/67gmXPQZL1ISSh13OJJ1Pu"
     },
     {
       "added_at": null,

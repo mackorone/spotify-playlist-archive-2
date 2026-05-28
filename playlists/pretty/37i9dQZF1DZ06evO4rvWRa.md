@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rvWRa.md) - [plain]
 
 > This is Alan Walker\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,638,629 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,638,625 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rvWRa.md) - [plain]
 | 38 | [Void](https://open.spotify.com/track/6KwgfZhSWwrjDriUVNjVpI) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Sorana](https://open.spotify.com/artist/1PnnRNGfichOAfPOn5mVyx) | [Void](https://open.spotify.com/album/2OmTdaXM8mvpi28xTxT5Y6) | 3:11 |
 | 39 | [Barcelona](https://open.spotify.com/track/2GE3k8I0Sbh0puCjI15KGy) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Ina Wroldsen](https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3) | [Barcelona](https://open.spotify.com/album/34yBJhr8zlBAHMEMSwrISN) | 3:25 |
 | 40 | [PS5](https://open.spotify.com/track/3YQkC6dE9YE9sH1751qqEr) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT), [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [\(MORE\) Unsponsored Content](https://open.spotify.com/album/6hEPrm5WGWe8GK029l31Ye) | 2:32 |
-| 41 | [Avalon](https://open.spotify.com/track/2bhBxdo4dqqjCBvErJBZW7) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Anne Gudrun](https://open.spotify.com/artist/4CjmulKe83Ymzhud7vD0i5) | [Walkerworld 2.0](https://open.spotify.com/album/1R9fympoRsZJGpgNvMcJr2) | 2:16 |
-| 42 | [Mind Of A Warrior](https://open.spotify.com/track/2RTlBcRS6nGVtP07AjkChQ) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Sorana](https://open.spotify.com/artist/1PnnRNGfichOAfPOn5mVyx) | [Mind Of A Warrior](https://open.spotify.com/album/2Bx51Mj90wGsPP2ZlcAIiN) | 2:52 |
+| 41 | [Mind Of A Warrior](https://open.spotify.com/track/2RTlBcRS6nGVtP07AjkChQ) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Sorana](https://open.spotify.com/artist/1PnnRNGfichOAfPOn5mVyx) | [Mind Of A Warrior](https://open.spotify.com/album/2Bx51Mj90wGsPP2ZlcAIiN) | 2:52 |
+| 42 | [Avalon](https://open.spotify.com/track/2bhBxdo4dqqjCBvErJBZW7) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Anne Gudrun](https://open.spotify.com/artist/4CjmulKe83Ymzhud7vD0i5) | [Walkerworld 2.0](https://open.spotify.com/album/1R9fympoRsZJGpgNvMcJr2) | 2:16 |
 | 43 | [Faded \- Slowed Remix](https://open.spotify.com/track/2zK1krCIeewkY2v0RNPcBu) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Slowed](https://open.spotify.com/album/61ZZ2XHEGHwl9gHov01GUs) | 3:56 |
 | 44 | [Not Home](https://open.spotify.com/track/19XUNscIDiBwOMRkRyTrG9) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Alessia Labate](https://open.spotify.com/artist/3znJOYi3CDM5ZQkbo6kmjd) | [Not Home](https://open.spotify.com/album/1Q4uvSRVKnpA1P9RbiOjxM) | 2:00 |
 | 45 | [Peter Pan](https://open.spotify.com/track/3jwmCZW0KLkPF6ioxUWBCS) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [ANDREWBATES](https://open.spotify.com/artist/57okaNCSgssYD2PwiE0yQv) | [World of Walker, Season One: Rise of the Drones](https://open.spotify.com/album/3Dm7hH6t7iACz1nyPI6ehS) | 2:25 |
-| 46 | [A World I Don't Know](https://open.spotify.com/track/12r9zcMRAnoADUQoOJR9yC) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Phoebe Ryan](https://open.spotify.com/artist/4N874uPqBka1QiCvnCVOtr), [Kaeleb](https://open.spotify.com/artist/2VnOskb1ZffIkyrTmennEv) | [A World I Don't Know](https://open.spotify.com/album/3noCGUpws1zv3tJ66AeFNE) | 1:51 |
-| 47 | [Land of the Heroes](https://open.spotify.com/track/5meh2ZJuONe5RI92Zcq5W4) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Sophie Stray](https://open.spotify.com/artist/3N5ClJMyntW9ol6wR1ZI1X) | [Walkerworld](https://open.spotify.com/album/2pElzwHGoJr3zPA05onhr0) | 2:56 |
+| 46 | [Land of the Heroes](https://open.spotify.com/track/5meh2ZJuONe5RI92Zcq5W4) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Sophie Stray](https://open.spotify.com/artist/3N5ClJMyntW9ol6wR1ZI1X) | [Walkerworld](https://open.spotify.com/album/2pElzwHGoJr3zPA05onhr0) | 2:56 |
+| 47 | [A World I Don't Know](https://open.spotify.com/track/12r9zcMRAnoADUQoOJR9yC) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Phoebe Ryan](https://open.spotify.com/artist/4N874uPqBka1QiCvnCVOtr), [Kaeleb](https://open.spotify.com/artist/2VnOskb1ZffIkyrTmennEv) | [A World I Don't Know](https://open.spotify.com/album/3noCGUpws1zv3tJ66AeFNE) | 1:51 |
 | 48 | [Force](https://open.spotify.com/track/0s39RvP5001kPC7L0SM0gg) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Origins](https://open.spotify.com/album/42Ea8EqPulXUcaO9tFPyyT) | 4:00 |
 | 49 | [Brave Enough to Be Unknown](https://open.spotify.com/track/3Z5mBCsWNAKwi3uyosqnd2) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Phoebe Ryan](https://open.spotify.com/artist/4N874uPqBka1QiCvnCVOtr) | [World of Walker, Season One: Rise of the Drones](https://open.spotify.com/album/3Dm7hH6t7iACz1nyPI6ehS) | 3:39 |
 | 50 | [Endless Summer](https://open.spotify.com/track/2DVvsgWrZ4rUjupdRGYEXK) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw) | [Endless Summer](https://open.spotify.com/album/6heWsbxEvCnXbHcw4xlKmE) | 3:07 |
 
-Snapshot ID: `ahORAAAAAADYIQWpsnfIJlpT6Yg6zZrU`
+Snapshot ID: `ahTigAAAAAAYd3GQzZ4o2r3cEmZxEJtf`

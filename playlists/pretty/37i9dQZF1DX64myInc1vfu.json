@@ -1,6 +1,6 @@
 {
   "description": "The new bolero era. Los boleritos de hoy, just for you. Cover: iLe",
-  "num_followers": 104980,
+  "num_followers": 104999,
   "original_name": "boleritos",
   "owner": {
     "name": "Spotify",
@@ -315,18 +315,22 @@
     {
       "added_at": "2025-10-24 04:00:22",
       "album": {
-        "name": "Por Qu\u00e9 Me Fui A Enamorar De Ti",
-        "url": "https://open.spotify.com/album/4iEOANj4Ybn1DYEX3CC9RU"
+        "name": "Mar",
+        "url": "https://open.spotify.com/album/0TIM64cPYNqIedeY5rNaG2"
       },
       "artists": [
         {
-          "name": "Karla Christina",
-          "url": "https://open.spotify.com/artist/6oqN5DUzIm9sGSX3KpFQBP"
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        },
+        {
+          "name": "J\u00f3sean Log",
+          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
         }
       ],
-      "duration_ms": 245581,
-      "name": "Por Qu\u00e9 Me Fui A Enamorar De Ti",
-      "url": "https://open.spotify.com/track/6wZ5T64zJdYE5eyAailiIi"
+      "duration_ms": 238253,
+      "name": "Mar",
+      "url": "https://open.spotify.com/track/4V2zyfggF3TXlihp7llTJm"
     },
     {
       "added_at": "2025-10-24 04:00:22",
@@ -347,22 +351,18 @@
     {
       "added_at": "2025-10-24 04:00:22",
       "album": {
-        "name": "Mar",
-        "url": "https://open.spotify.com/album/0TIM64cPYNqIedeY5rNaG2"
+        "name": "Por Qu\u00e9 Me Fui A Enamorar De Ti",
+        "url": "https://open.spotify.com/album/4iEOANj4Ybn1DYEX3CC9RU"
       },
       "artists": [
         {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        },
-        {
-          "name": "J\u00f3sean Log",
-          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
+          "name": "Karla Christina",
+          "url": "https://open.spotify.com/artist/6oqN5DUzIm9sGSX3KpFQBP"
         }
       ],
-      "duration_ms": 238253,
-      "name": "Mar",
-      "url": "https://open.spotify.com/track/4V2zyfggF3TXlihp7llTJm"
+      "duration_ms": 245581,
+      "name": "Por Qu\u00e9 Me Fui A Enamorar De Ti",
+      "url": "https://open.spotify.com/track/6wZ5T64zJdYE5eyAailiIi"
     },
     {
       "added_at": "2025-10-24 04:00:22",
@@ -399,22 +399,22 @@
     {
       "added_at": "2025-10-24 04:00:22",
       "album": {
-        "name": "Bolero",
-        "url": "https://open.spotify.com/album/2XltOEB0eKfJ8hxoa9tJoy"
+        "name": "Juntos Otra Vez",
+        "url": "https://open.spotify.com/album/5t2r34uTiQMRsFrJlyDPpr"
       },
       "artists": [
         {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+          "name": "Alci Acosta",
+          "url": "https://open.spotify.com/artist/3CoaObestry7i9joSvJ2hK"
         },
         {
-          "name": "Trio Los Panchos",
-          "url": "https://open.spotify.com/artist/75iTjtkoZp3DoULrMMGOsF"
+          "name": "Julio Jaramillo",
+          "url": "https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8"
         }
       ],
-      "duration_ms": 180986,
-      "name": "Somos Novios",
-      "url": "https://open.spotify.com/track/1XayYLI1oOaWNHDt3Zs78k"
+      "duration_ms": 157176,
+      "name": "Odio Gitano",
+      "url": "https://open.spotify.com/track/02Ac24S0EOspktEdg0CeCi"
     },
     {
       "added_at": "2025-10-24 04:00:22",
@@ -439,22 +439,22 @@
     {
       "added_at": "2025-10-24 04:00:22",
       "album": {
-        "name": "Juntos Otra Vez",
-        "url": "https://open.spotify.com/album/5t2r34uTiQMRsFrJlyDPpr"
+        "name": "Bolero",
+        "url": "https://open.spotify.com/album/2XltOEB0eKfJ8hxoa9tJoy"
       },
       "artists": [
         {
-          "name": "Alci Acosta",
-          "url": "https://open.spotify.com/artist/3CoaObestry7i9joSvJ2hK"
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
         },
         {
-          "name": "Julio Jaramillo",
-          "url": "https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8"
+          "name": "Trio Los Panchos",
+          "url": "https://open.spotify.com/artist/75iTjtkoZp3DoULrMMGOsF"
         }
       ],
-      "duration_ms": 157176,
-      "name": "Odio Gitano",
-      "url": "https://open.spotify.com/track/02Ac24S0EOspktEdg0CeCi"
+      "duration_ms": 180986,
+      "name": "Somos Novios",
+      "url": "https://open.spotify.com/track/1XayYLI1oOaWNHDt3Zs78k"
     },
     {
       "added_at": "2025-10-24 04:00:22",
@@ -723,26 +723,6 @@
     {
       "added_at": "2025-10-24 04:00:22",
       "album": {
-        "name": "Fantas\u00edas",
-        "url": "https://open.spotify.com/album/5JF53e3hNvCz7FQXWqhLZG"
-      },
-      "artists": [
-        {
-          "name": "El HueyCoyote",
-          "url": "https://open.spotify.com/artist/3FP0UgKEa2aprodn6KboaK"
-        },
-        {
-          "name": "Jos\u00e9 y el Toro",
-          "url": "https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex"
-        }
-      ],
-      "duration_ms": 226336,
-      "name": "Fantas\u00edas",
-      "url": "https://open.spotify.com/track/5eHegIfGPku1Jo70rRzv6k"
-    },
-    {
-      "added_at": "2025-10-24 04:00:22",
-      "album": {
         "name": "Noche No Te Vayas",
         "url": "https://open.spotify.com/album/4dIQv03uoEgeOwwqvm7eQ8"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 220647,
       "name": "Diferente",
       "url": "https://open.spotify.com/track/3XV1E6VMiiUoRByV7nXVEA"
+    },
+    {
+      "added_at": "2025-10-24 04:00:22",
+      "album": {
+        "name": "Fantas\u00edas",
+        "url": "https://open.spotify.com/album/5JF53e3hNvCz7FQXWqhLZG"
+      },
+      "artists": [
+        {
+          "name": "El HueyCoyote",
+          "url": "https://open.spotify.com/artist/3FP0UgKEa2aprodn6KboaK"
+        },
+        {
+          "name": "Jos\u00e9 y el Toro",
+          "url": "https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex"
+        }
+      ],
+      "duration_ms": 226336,
+      "name": "Fantas\u00edas",
+      "url": "https://open.spotify.com/track/5eHegIfGPku1Jo70rRzv6k"
     },
     {
       "added_at": "2025-10-24 04:00:22",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2025-10-24 04:00:22",
       "album": {
-        "name": "No te vayas",
-        "url": "https://open.spotify.com/album/6Ddl1sX7bbBSNzdY5fVk6D"
-      },
-      "artists": [
-        {
-          "name": "Surfistas Del Sistema",
-          "url": "https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ"
-        }
-      ],
-      "duration_ms": 205200,
-      "name": "No te vayas",
-      "url": "https://open.spotify.com/track/4BeuEYAmkJHx14QvWiJ5x0"
-    },
-    {
-      "added_at": "2025-10-24 04:00:22",
-      "album": {
         "name": "Bolero Apocal\u00edptico",
         "url": "https://open.spotify.com/album/51oaN9VvyBHWlflI8UzUti"
       },
@@ -1127,18 +1111,34 @@
     {
       "added_at": "2025-10-24 04:00:22",
       "album": {
-        "name": "Y SI SOMOS NOVIOS???",
-        "url": "https://open.spotify.com/album/5qKUVvVIRgD3CBa2L0x0Go"
+        "name": "No te vayas",
+        "url": "https://open.spotify.com/album/6Ddl1sX7bbBSNzdY5fVk6D"
       },
       "artists": [
         {
-          "name": "PARDOPARDO",
-          "url": "https://open.spotify.com/artist/4jK6qJJ6s34BziEutGFMra"
+          "name": "Surfistas Del Sistema",
+          "url": "https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ"
         }
       ],
-      "duration_ms": 153117,
-      "name": "Y SI SOMOS NOVIOS???",
-      "url": "https://open.spotify.com/track/3IGNEoTp4uV1HtcvdfxrSL"
+      "duration_ms": 205200,
+      "name": "No te vayas",
+      "url": "https://open.spotify.com/track/4BeuEYAmkJHx14QvWiJ5x0"
+    },
+    {
+      "added_at": "2025-10-24 04:00:22",
+      "album": {
+        "name": "D\u00e9jame Conocerte",
+        "url": "https://open.spotify.com/album/7mDCxExLcisLwsERIJMvPP"
+      },
+      "artists": [
+        {
+          "name": "La Garfield",
+          "url": "https://open.spotify.com/artist/4MT1vDqEKurI3ctpK6TqLt"
+        }
+      ],
+      "duration_ms": 279824,
+      "name": "D\u00e9jame Conocerte",
+      "url": "https://open.spotify.com/track/5byHDzYX6NHjrHKUdkDkdR"
     }
   ],
   "unique_name": "boleritos",

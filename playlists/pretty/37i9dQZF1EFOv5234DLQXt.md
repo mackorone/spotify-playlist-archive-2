@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOv5234DLQXt.md) - [plain]
 | 43 | [Karaoke](https://open.spotify.com/track/6sLY33z3QsMa9HnzCvXcGT) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Siempre Es Hoy](https://open.spotify.com/album/46Yq9oqsaZJb9ahoMk9iVd) | 3:54 |
 | 44 | [Lisa](https://open.spotify.com/track/3ac2SnHk4KYjP2Au4ZL7eu) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Amor Amarillo](https://open.spotify.com/album/75onhE4ne52iMHlVcpHUKR) | 4:25 |
 | 45 | [Estoy Azulado \- Remasterizado 2007](https://open.spotify.com/track/6ogBARwwlfsmmgyxWeEzQF) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Nada Personal \(Remastered\)](https://open.spotify.com/album/0hyq754QnaKHYpH32QnWqs) | 5:17 |
-| 46 | [Paseo Inmoral](https://open.spotify.com/track/6VH153hUoK92d0cqsf5l9i) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Bocanada](https://open.spotify.com/album/2rIdWbXPjcq8K7BCccBhhC) | 5:31 |
-| 47 | [Fue \- Remasterizado 2007](https://open.spotify.com/track/71ymTqjg6wUvgNksseSgbC) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Dynamo \(Remastered\)](https://open.spotify.com/album/4bfwXuecOmNVlPM5RStAiQ) | 3:52 |
+| 46 | [Fue \- Remasterizado 2007](https://open.spotify.com/track/71ymTqjg6wUvgNksseSgbC) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Dynamo \(Remastered\)](https://open.spotify.com/album/4bfwXuecOmNVlPM5RStAiQ) | 3:52 |
+| 47 | [Paseo Inmoral](https://open.spotify.com/track/6VH153hUoK92d0cqsf5l9i) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Bocanada](https://open.spotify.com/album/2rIdWbXPjcq8K7BCccBhhC) | 5:31 |
 | 48 | [Dia Especial \(feat\. Gustavo Cerati\)](https://open.spotify.com/track/2EZ4NSQtoKdiWK8JDMY7NT) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Fijación Oral Volumen 1 \(Expanded Edition\)](https://open.spotify.com/album/0nM8pby34jgWunNBmoWXxl) | 4:25 |
 | 49 | [Nací para Esto](https://open.spotify.com/track/62rUQJCEgkwseP5u4eMp7e) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Siempre Es Hoy](https://open.spotify.com/album/46Yq9oqsaZJb9ahoMk9iVd) | 3:09 |
 | 50 | [Fantasma](https://open.spotify.com/track/2xuDoEEK7tfZMh5Y7gOoTg) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Siempre Es Hoy](https://open.spotify.com/album/46Yq9oqsaZJb9ahoMk9iVd) | 3:19 |
@@ -127,4 +127,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOv5234DLQXt.md) - [plain]
 | 117 | [Uno Entre Mil](https://open.spotify.com/track/6acGFk7EsZFCzgziXulVFM) | [Relapso](https://open.spotify.com/artist/2TqxIOZGT5ir3F58WmCl4Z) | [Relapso](https://open.spotify.com/album/4i7xuNkPEWqlcBx31IKjq1) | 3:53 |
 | 118 | [Caravana](https://open.spotify.com/track/7xlM9YL6XDJpMhFdgRxftR) | [Relapso](https://open.spotify.com/artist/2TqxIOZGT5ir3F58WmCl4Z) | [Relapso](https://open.spotify.com/album/4i7xuNkPEWqlcBx31IKjq1) | 4:18 |
 
-Snapshot ID: `AcSj0gAAAAAU9ViXkn7ZH5yahe0qWPli`
+Snapshot ID: `AcSpcgAAAAABvW4iLBLwosTBOf8WRbyI`

@@ -10331,6 +10331,28 @@
     },
     {
       "album": {
+        "name": "Nicotine",
+        "url": "https://open.spotify.com/album/78YBhnhPZ4QEzaeHUVWyLi"
+      },
+      "artists": [
+        {
+          "name": "Ryder",
+          "url": "https://open.spotify.com/artist/2Lr6UcfZWL1Ur5spOaduOb"
+        },
+        {
+          "name": "J'calm",
+          "url": "https://open.spotify.com/artist/2i6VWRGP6MLsPpKPRTRMkY"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145000,
+      "name": "Nicotine",
+      "url": "https://open.spotify.com/track/35cXNEabstiJmazSzS6ecK"
+    },
+    {
+      "album": {
         "name": "Night , Blooming Jasmine .",
         "url": "https://open.spotify.com/album/5bajUbQGZ7f98jo1gfX0hc"
       },

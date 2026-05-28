@@ -4,7 +4,7 @@
 
 > New music from Camille, Berre, Lola Young, Amelie Lens, Camille Yembe and more...
 
-9,853 songs - 21 day 13 hr 49 min
+9,854 songs - 21 day 13 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -9652,6 +9652,7 @@
 | [Yamamoto](https://open.spotify.com/track/0PEWJlHCakkroBQiauQpxJ) | [SAN ANDREAS](https://open.spotify.com/artist/4DkAejYwYl6ApOckPPlo1y) | [Yamamoto](https://open.spotify.com/album/6kMqm32tGunGapFrw4MRmN) | 1:47 | 2025-06-26 | 2025-07-04 |
 | [YANGO \(feat\. Emma'a\)](https://open.spotify.com/track/48EniEZSy7BSUdMvWMDWAI) | [L'Oiseau Rare](https://open.spotify.com/artist/4IAlTRWiKoAqAQLgyupL0U), [Emma'a](https://open.spotify.com/artist/45icwBBgjnEtg9ETR1Nipx) | [AFRO\-N\-TCHAM 2](https://open.spotify.com/album/0aTEIBSkouiQnHANZUekbg) | 3:01 | 2026-02-12 | 2026-02-20 |
 | [YAPAQUE](https://open.spotify.com/track/67kmVaXtdmcy856hKjHb3y) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [YAPAQUE](https://open.spotify.com/album/29FOwp0vsOM1V3ybDRFL5v) | 3:57 | 2026-05-07 | 2026-05-15 |
+| [Yasmine Alsham](https://open.spotify.com/track/7gKg0BSNZfMweFFhyDTPyp) | [Acid Arab](https://open.spotify.com/artist/3ShO8tPKqXUUpOA0urOWW7), [Wael Alkak](https://open.spotify.com/artist/61yomtNgmkhZGD33Jy04C4) | [Resonance](https://open.spotify.com/album/59BuyeMDf52WWbGqfmd2mA) | 4:49 | 2026-05-21 |  |
 | [YAYO](https://open.spotify.com/track/3sKBph3ElueH1dVLmkHWZZ) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [HEIS](https://open.spotify.com/album/2DDaN7Pgx9uDPd8IbWWW9H) | 2:30 | 2024-07-11 | 2024-07-19 |
 | [YEAH](https://open.spotify.com/track/2qlqMa0e422LZyGw1J5for) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [Marnik](https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc), [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO) | [YEAH](https://open.spotify.com/album/3reHnBJbOMrlymwkwYqtEH) | 2:28 | 2025-03-13 | 2025-03-21 |
 | [Yeah \(I'm In\)](https://open.spotify.com/track/5N8u8lYzT4DbFF6OdRsecH) | [Noonzy](https://open.spotify.com/artist/6dfDwONzmFyAlH27BUuiqJ) | [Yeah \(I'm In\)](https://open.spotify.com/album/01mmpZcpevMIwwpsF9VIZg) | 2:56 | 2026-04-16 | 2026-04-24 |

@@ -1,6 +1,6 @@
 {
   "description": "Songs about the iconic city. Welcome to the Big Apple! \ud83d\udcf8 Chappell Roan is Lady Liberty",
-  "num_followers": 150902,
+  "num_followers": 150912,
   "original_name": "I Love NYC",
   "owner": {
     "name": "Spotify",
@@ -567,6 +567,22 @@
     {
       "added_at": "2025-08-25 18:53:45",
       "album": {
+        "name": "girl in new york",
+        "url": "https://open.spotify.com/album/5VcW0GioIrLZ8WZbhrhcL5"
+      },
+      "artists": [
+        {
+          "name": "ROLE MODEL",
+          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
+        }
+      ],
+      "duration_ms": 211304,
+      "name": "girl in new york",
+      "url": "https://open.spotify.com/track/6APTEV2EIRpBEvuTrS5XTv"
+    },
+    {
+      "added_at": "2025-08-25 18:53:45",
+      "album": {
         "name": "I And Love And You",
         "url": "https://open.spotify.com/album/2PPFtYUnnqMYflIEn3b7ON"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 315280,
       "name": "New York City Boy - 2017 Remaster",
       "url": "https://open.spotify.com/track/7KeoeLwqtTIIgeHkvgxkeT"
-    },
-    {
-      "added_at": "2025-08-25 18:53:45",
-      "album": {
-        "name": "girl in new york",
-        "url": "https://open.spotify.com/album/5VcW0GioIrLZ8WZbhrhcL5"
-      },
-      "artists": [
-        {
-          "name": "ROLE MODEL",
-          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
-        }
-      ],
-      "duration_ms": 211304,
-      "name": "girl in new york",
-      "url": "https://open.spotify.com/track/6APTEV2EIRpBEvuTrS5XTv"
     },
     {
       "added_at": "2025-08-25 18:53:45",

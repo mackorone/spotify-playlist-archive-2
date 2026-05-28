@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbub4v6aRx7T.md) - [plain]
 
 > Takeshi's Castle, Tracy Beaker and Pokemon, this one's for you!
 
-[Spotify](https://open.spotify.com/user/spotify) - 281,564 likes - 80 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 281,590 likes - 80 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,9 +71,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbub4v6aRx7T.md) - [plain]
 | 61 | [We Belong Together](https://open.spotify.com/track/61sRkEACcXECFXGjbEzm4V) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [The Emancipation of Mimi](https://open.spotify.com/album/2ttLsnGoW8PrCu4wYUO226) | 3:21 |
 | 62 | [Upgrade U \(feat\. JAY\-Z\)](https://open.spotify.com/track/0GLUBbX4daHJkT3RQHEOia) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [JAŸ\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [B'Day Deluxe Edition](https://open.spotify.com/album/0Zd10MKN5j9KwUST0TdBBB) | 4:33 |
 | 63 | [Sorry You're Not a Winner](https://open.spotify.com/track/6PwxotrB99xgatKVzibmkz) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF) | [Take to the Skies](https://open.spotify.com/album/5cO7wtkaJCY3SiV6g0MKHE) | 4:14 |
-| 64 | [Buttons](https://open.spotify.com/track/4lZbw23ts5G4nlzGgQbAxc) | [The Pussycat Dolls](https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ) | [PCD \(Expanded Edition\)](https://open.spotify.com/album/2zZZazmfGkAIFCYapYBSWP) | 3:45 |
+| 64 | [Just a Friend 2002 \- Radio Edit](https://open.spotify.com/track/2cxbxpHrND6i4uvUGVvC9J) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Mario](https://open.spotify.com/album/1GImI2mDks4CNUWvdeoYqW) | 3:34 |
 | 65 | [London Bridge](https://open.spotify.com/track/2UPqEbhg8b2O0onMq5dHlP) | [Fergie](https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G) | [The Dutchess](https://open.spotify.com/album/5jMAEt7ZLjqi5tSlf7EBQg) | 4:01 |
-| 66 | [Just a Friend 2002 \- Radio Edit](https://open.spotify.com/track/2cxbxpHrND6i4uvUGVvC9J) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Mario](https://open.spotify.com/album/1GImI2mDks4CNUWvdeoYqW) | 3:34 |
+| 66 | [Buttons](https://open.spotify.com/track/4lZbw23ts5G4nlzGgQbAxc) | [The Pussycat Dolls](https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ) | [PCD \(Expanded Edition\)](https://open.spotify.com/album/2zZZazmfGkAIFCYapYBSWP) | 3:45 |
 | 67 | [Me, Myself and I](https://open.spotify.com/track/3pxJuMLjNPtiC0fX8EHFlF) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Dangerously In Love](https://open.spotify.com/album/06v9eHnqhMK2tbM2Iz3p0Y) | 5:01 |
 | 68 | [Full Moon](https://open.spotify.com/track/6QxuZMdsElzjC1NnXUfl8c) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Full Moon](https://open.spotify.com/album/3BdkiVzzAPNAxWFvdGjiEs) | 4:08 |
 | 69 | [No More](https://open.spotify.com/track/2WfhlEjoUII31H6imnQdvF) | [Ruff Endz](https://open.spotify.com/artist/7liFhc0PDIx8etigqd2WhW) | [Love Crimes](https://open.spotify.com/album/5FA0SqkvmxtJi96oCqBjHb) | 4:02 |

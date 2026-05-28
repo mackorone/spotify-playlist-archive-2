@@ -1,12 +1,12 @@
 {
   "description": "The best new dance tracks from independent artists & labels. Featuring Delilah. Curated by human Spotify editors. \n",
-  "num_followers": 213239,
+  "num_followers": 213258,
   "original_name": "Fresh Finds Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMk9buBCTa6U6RhpCN2KM8nDnaDY",
+  "snapshot_id": "AAAAACH2bSLTxkTLfjhmaAA5zLIskSPR",
   "tracks": [
     {
       "added_at": "2026-05-15 04:01:46",
@@ -25,72 +25,20 @@
       "url": "https://open.spotify.com/track/7KRVqlUR7iejxjIu11GI19"
     },
     {
-      "added_at": "2026-05-22 04:00:24",
+      "added_at": "2026-05-27 23:56:21",
       "album": {
-        "name": "higher",
-        "url": "https://open.spotify.com/album/62JhWfYpN7ZoG7ChLbBIRG"
+        "name": "Hands Up",
+        "url": "https://open.spotify.com/album/3mmI0RWmLjHSwW9a8uZVHv"
       },
       "artists": [
         {
-          "name": "Josi Miller",
-          "url": "https://open.spotify.com/artist/4xII91OL7Sf5ppZ5tBtLga"
+          "name": "Jake Antonio",
+          "url": "https://open.spotify.com/artist/5jpgPXIFQ0RzKw2IHyS8JC"
         }
       ],
-      "duration_ms": 160431,
-      "name": "higher",
-      "url": "https://open.spotify.com/track/7ADo6iZnGE8vG2kf9tpvHe"
-    },
-    {
-      "added_at": "2026-05-15 04:01:46",
-      "album": {
-        "name": "Fino",
-        "url": "https://open.spotify.com/album/55aF7PhVRfncm0eRNLzxrr"
-      },
-      "artists": [
-        {
-          "name": "Desmond",
-          "url": "https://open.spotify.com/artist/28Zwkol38hAQJpW6YKetuY"
-        },
-        {
-          "name": "Dr\u00e9ya Mac",
-          "url": "https://open.spotify.com/artist/03AVZyE7WnmLY4rTL1s0RP"
-        }
-      ],
-      "duration_ms": 160285,
-      "name": "Fino",
-      "url": "https://open.spotify.com/track/4KjEoeioaLszOZuzqmP9RA"
-    },
-    {
-      "added_at": "2026-05-06 19:01:48",
-      "album": {
-        "name": "It's All About The Music",
-        "url": "https://open.spotify.com/album/2lb23UsJhwRZSDCs3KeUMo"
-      },
-      "artists": [
-        {
-          "name": "From Dave",
-          "url": "https://open.spotify.com/artist/0mZidOoBt44GjnhNMUr9F6"
-        }
-      ],
-      "duration_ms": 157058,
-      "name": "It's All About The Music",
-      "url": "https://open.spotify.com/track/6KEyvhYNlMtW7Caf1BP0eb"
-    },
-    {
-      "added_at": "2026-05-22 04:00:24",
-      "album": {
-        "name": "Going Up",
-        "url": "https://open.spotify.com/album/7gQ7KRpSF7Aj0wacN8r1aI"
-      },
-      "artists": [
-        {
-          "name": "Monty Kiddo",
-          "url": "https://open.spotify.com/artist/2hUodM79etRBN9x06kpmQy"
-        }
-      ],
-      "duration_ms": 250975,
-      "name": "Going Up",
-      "url": "https://open.spotify.com/track/2Pdwxd1x0iI4vklxUeqKlL"
+      "duration_ms": 321818,
+      "name": "Hands Up",
+      "url": "https://open.spotify.com/track/5Zu20OykfA8tFpFU3RRTff"
     },
     {
       "added_at": "2026-05-14 03:02:00",
@@ -113,6 +61,58 @@
       "url": "https://open.spotify.com/track/4QNEi4zAOm0FwfwJXLgp7s"
     },
     {
+      "added_at": "2026-05-15 04:01:46",
+      "album": {
+        "name": "Fino",
+        "url": "https://open.spotify.com/album/55aF7PhVRfncm0eRNLzxrr"
+      },
+      "artists": [
+        {
+          "name": "Desmond",
+          "url": "https://open.spotify.com/artist/28Zwkol38hAQJpW6YKetuY"
+        },
+        {
+          "name": "Dr\u00e9ya Mac",
+          "url": "https://open.spotify.com/artist/03AVZyE7WnmLY4rTL1s0RP"
+        }
+      ],
+      "duration_ms": 160285,
+      "name": "Fino",
+      "url": "https://open.spotify.com/track/4KjEoeioaLszOZuzqmP9RA"
+    },
+    {
+      "added_at": "2026-05-27 23:56:21",
+      "album": {
+        "name": "Eight O Eight",
+        "url": "https://open.spotify.com/album/3juDdgoLSeUQykDuMkSqUJ"
+      },
+      "artists": [
+        {
+          "name": "no_test",
+          "url": "https://open.spotify.com/artist/1tJjWA0PHLmGHASEcPgc7U"
+        }
+      ],
+      "duration_ms": 204923,
+      "name": "Eight O Eight",
+      "url": "https://open.spotify.com/track/0ezw3hJuih6S9KSMKQdoTS"
+    },
+    {
+      "added_at": "2026-05-27 23:56:21",
+      "album": {
+        "name": "hinge",
+        "url": "https://open.spotify.com/album/4H36XlPO7CWwRas8CfzHln"
+      },
+      "artists": [
+        {
+          "name": "Torzi",
+          "url": "https://open.spotify.com/artist/2rsu13VNGzmC5llLQrpp0c"
+        }
+      ],
+      "duration_ms": 128357,
+      "name": "hinge",
+      "url": "https://open.spotify.com/track/0agiuFq9w4ip1XsrS7PrnT"
+    },
+    {
       "added_at": "2026-05-14 03:02:00",
       "album": {
         "name": "Trust Me",
@@ -131,6 +131,22 @@
       "duration_ms": 202818,
       "name": "Trust Me",
       "url": "https://open.spotify.com/track/5qP8KF9stgPaaXuXu2Hj1I"
+    },
+    {
+      "added_at": "2026-05-27 23:56:21",
+      "album": {
+        "name": "Gold EP",
+        "url": "https://open.spotify.com/album/1I1CoyGY81sbZ4aCt43ZQ9"
+      },
+      "artists": [
+        {
+          "name": "Dec Duffy",
+          "url": "https://open.spotify.com/artist/7FYhnZ1aQc8WmR06oL6Dwu"
+        }
+      ],
+      "duration_ms": 302222,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/56juJw8K3njlvFKz7fitj8"
     },
     {
       "added_at": "2026-05-08 04:03:57",
@@ -165,20 +181,36 @@
       "url": "https://open.spotify.com/track/2Zk7GbM6pfouSACjW1gtcE"
     },
     {
-      "added_at": "2026-05-14 03:02:00",
+      "added_at": "2026-05-06 19:01:48",
       "album": {
-        "name": "Falling Again",
-        "url": "https://open.spotify.com/album/4adnBo43aGOYUjnHHVzI8G"
+        "name": "It's All About The Music",
+        "url": "https://open.spotify.com/album/2lb23UsJhwRZSDCs3KeUMo"
       },
       "artists": [
         {
-          "name": "3kelves",
-          "url": "https://open.spotify.com/artist/4lmkcVpiNTAilHY9AGjKJH"
+          "name": "From Dave",
+          "url": "https://open.spotify.com/artist/0mZidOoBt44GjnhNMUr9F6"
         }
       ],
-      "duration_ms": 140952,
-      "name": "Falling Again",
-      "url": "https://open.spotify.com/track/1KOKSXOF3t21CKCR3DeEkR"
+      "duration_ms": 157058,
+      "name": "It's All About The Music",
+      "url": "https://open.spotify.com/track/6KEyvhYNlMtW7Caf1BP0eb"
+    },
+    {
+      "added_at": "2026-05-22 04:00:24",
+      "album": {
+        "name": "Going Up",
+        "url": "https://open.spotify.com/album/7gQ7KRpSF7Aj0wacN8r1aI"
+      },
+      "artists": [
+        {
+          "name": "Monty Kiddo",
+          "url": "https://open.spotify.com/artist/2hUodM79etRBN9x06kpmQy"
+        }
+      ],
+      "duration_ms": 250975,
+      "name": "Going Up",
+      "url": "https://open.spotify.com/track/2Pdwxd1x0iI4vklxUeqKlL"
     },
     {
       "added_at": "2026-05-01 04:01:49",
@@ -201,6 +233,22 @@
       "url": "https://open.spotify.com/track/6NjcmK0kTqYqPuGHywAR5T"
     },
     {
+      "added_at": "2026-05-22 04:00:24",
+      "album": {
+        "name": "The Heat",
+        "url": "https://open.spotify.com/album/4p6EfGZqcdYmzg9ZVlGpHv"
+      },
+      "artists": [
+        {
+          "name": "MARTA",
+          "url": "https://open.spotify.com/artist/1Qa6ZBZZK7Z1Zx7MiDTJQS"
+        }
+      ],
+      "duration_ms": 145036,
+      "name": "The Heat",
+      "url": "https://open.spotify.com/track/6nwRjqqtZTHYkoxxXImIda"
+    },
+    {
       "added_at": "2026-05-15 04:01:46",
       "album": {
         "name": "Non Stop",
@@ -215,6 +263,26 @@
       "duration_ms": 179500,
       "name": "Non Stop",
       "url": "https://open.spotify.com/track/6z0Zc6uf2ofI2KkUupFepg"
+    },
+    {
+      "added_at": "2026-05-27 23:56:21",
+      "album": {
+        "name": "ITALIAN LEATHER",
+        "url": "https://open.spotify.com/album/1AEGPaBUZnkl5KtZlzCguF"
+      },
+      "artists": [
+        {
+          "name": "HOUSEWIFE9",
+          "url": "https://open.spotify.com/artist/2BWlGuH1XFha6dh3IXGcJM"
+        },
+        {
+          "name": "Eloise Keeble",
+          "url": "https://open.spotify.com/artist/7mOEFI30ETW9l7SFMpXoH9"
+        }
+      ],
+      "duration_ms": 193580,
+      "name": "ITALIAN LEATHER",
+      "url": "https://open.spotify.com/track/2USHWRUIrxxJwvdKcvVG00"
     },
     {
       "added_at": "2026-05-14 03:02:00",
@@ -249,22 +317,6 @@
       "url": "https://open.spotify.com/track/60CTEaRChLiPqEJbuq9qnH"
     },
     {
-      "added_at": "2026-05-22 04:00:24",
-      "album": {
-        "name": "The Heat",
-        "url": "https://open.spotify.com/album/4p6EfGZqcdYmzg9ZVlGpHv"
-      },
-      "artists": [
-        {
-          "name": "MARTA",
-          "url": "https://open.spotify.com/artist/1Qa6ZBZZK7Z1Zx7MiDTJQS"
-        }
-      ],
-      "duration_ms": 145036,
-      "name": "The Heat",
-      "url": "https://open.spotify.com/track/6nwRjqqtZTHYkoxxXImIda"
-    },
-    {
       "added_at": "2026-05-06 19:01:48",
       "album": {
         "name": "Save Me",
@@ -279,6 +331,22 @@
       "duration_ms": 186617,
       "name": "Save Me",
       "url": "https://open.spotify.com/track/3flcGGIKUaK1M2ps72ykcl"
+    },
+    {
+      "added_at": "2026-05-14 03:02:00",
+      "album": {
+        "name": "Falling Again",
+        "url": "https://open.spotify.com/album/4adnBo43aGOYUjnHHVzI8G"
+      },
+      "artists": [
+        {
+          "name": "3kelves",
+          "url": "https://open.spotify.com/artist/4lmkcVpiNTAilHY9AGjKJH"
+        }
+      ],
+      "duration_ms": 140952,
+      "name": "Falling Again",
+      "url": "https://open.spotify.com/track/1KOKSXOF3t21CKCR3DeEkR"
     },
     {
       "added_at": "2026-05-06 19:01:48",
@@ -407,6 +475,22 @@
       "duration_ms": 198181,
       "name": "Motion",
       "url": "https://open.spotify.com/track/4JXV5vJB64ysfRyrkaGcqh"
+    },
+    {
+      "added_at": "2026-05-22 04:00:24",
+      "album": {
+        "name": "higher",
+        "url": "https://open.spotify.com/album/62JhWfYpN7ZoG7ChLbBIRG"
+      },
+      "artists": [
+        {
+          "name": "Josi Miller",
+          "url": "https://open.spotify.com/artist/4xII91OL7Sf5ppZ5tBtLga"
+        }
+      ],
+      "duration_ms": 160431,
+      "name": "higher",
+      "url": "https://open.spotify.com/track/7ADo6iZnGE8vG2kf9tpvHe"
     },
     {
       "added_at": "2026-04-24 04:02:15",
@@ -625,26 +709,6 @@
       "url": "https://open.spotify.com/track/64cawGqiZJWzjZhfjcfubU"
     },
     {
-      "added_at": "2026-04-18 00:48:32",
-      "album": {
-        "name": "ME RN",
-        "url": "https://open.spotify.com/album/0DKftQREptat3iP20SqiZx"
-      },
-      "artists": [
-        {
-          "name": "D\u00d6NTELLA",
-          "url": "https://open.spotify.com/artist/1bym5kferA62KjXFXGQTQd"
-        },
-        {
-          "name": "Lauren Rintoul",
-          "url": "https://open.spotify.com/artist/07vVMvjzXukWNMBSrHKy0J"
-        }
-      ],
-      "duration_ms": 180936,
-      "name": "ME RN",
-      "url": "https://open.spotify.com/track/5B0XGW3FOwqAPiXMWBOiYC"
-    },
-    {
       "added_at": "2026-04-24 04:02:15",
       "album": {
         "name": "mind be so numb",
@@ -713,22 +777,6 @@
       "url": "https://open.spotify.com/track/2hoksN8fT30jKOYqVeqCth"
     },
     {
-      "added_at": "2026-04-15 17:24:57",
-      "album": {
-        "name": "Insane",
-        "url": "https://open.spotify.com/album/0x91e6MfHNAyBaytxCFV4c"
-      },
-      "artists": [
-        {
-          "name": "Elroy (AUS)",
-          "url": "https://open.spotify.com/artist/6DiRok1NmemDiXM5SVIgXp"
-        }
-      ],
-      "duration_ms": 223384,
-      "name": "Insane",
-      "url": "https://open.spotify.com/track/44UvUDywsREUPPGuJF0z73"
-    },
-    {
       "added_at": "2026-04-22 17:32:04",
       "album": {
         "name": "No Bad Trips",
@@ -743,22 +791,6 @@
       "duration_ms": 132985,
       "name": "No Bad Trips",
       "url": "https://open.spotify.com/track/5L1jMPd94KbotvZRtA7dJH"
-    },
-    {
-      "added_at": "2026-04-22 17:32:04",
-      "album": {
-        "name": "Can You Feel The Heat",
-        "url": "https://open.spotify.com/album/6C1hJiiURrI2eMgdNtvhGP"
-      },
-      "artists": [
-        {
-          "name": "S3PPA",
-          "url": "https://open.spotify.com/artist/0sIB3PokRCqqllNuzZ38NO"
-        }
-      ],
-      "duration_ms": 373714,
-      "name": "Can You Feel The Heat",
-      "url": "https://open.spotify.com/track/2q1DSNVu90P1ecl8cpaAN9"
     },
     {
       "added_at": "2026-04-17 04:02:50",
@@ -911,22 +943,6 @@
       "duration_ms": 170091,
       "name": "Space Funk",
       "url": "https://open.spotify.com/track/7kNGpPxG8mGt8KoQGxTJ6O"
-    },
-    {
-      "added_at": "2026-04-08 16:58:31",
-      "album": {
-        "name": "Thru My Mind",
-        "url": "https://open.spotify.com/album/2wn0WWrngnyfe5e0vy0h7D"
-      },
-      "artists": [
-        {
-          "name": "Sensu",
-          "url": "https://open.spotify.com/artist/4KkoOAycKxCd85wUPaImhw"
-        }
-      ],
-      "duration_ms": 151968,
-      "name": "Thru My Mind",
-      "url": "https://open.spotify.com/track/2IOkHMQbAuAxcH6SqCqm1w"
     },
     {
       "added_at": "2026-03-25 16:00:36",
@@ -1131,26 +1147,6 @@
       "duration_ms": 228750,
       "name": "Nothing Left to Say - Radio Edit",
       "url": "https://open.spotify.com/track/2gP0oGwwCef1i4lOQesUj2"
-    },
-    {
-      "added_at": "2026-02-18 20:21:45",
-      "album": {
-        "name": "Together",
-        "url": "https://open.spotify.com/album/0i9d7fiQLOsXrfH3dN2Rvr"
-      },
-      "artists": [
-        {
-          "name": "scruz",
-          "url": "https://open.spotify.com/artist/13ARh4lBiewhrfLrBq7oDn"
-        },
-        {
-          "name": "Frey",
-          "url": "https://open.spotify.com/artist/7rf5nN7CXclpCw7k7ah3yK"
-        }
-      ],
-      "duration_ms": 235737,
-      "name": "Together",
-      "url": "https://open.spotify.com/track/2wOrWUXrtXlEDJsFOxdv5W"
     },
     {
       "added_at": "2026-01-30 05:01:11",

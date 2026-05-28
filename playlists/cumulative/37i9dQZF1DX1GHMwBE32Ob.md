@@ -4,7 +4,7 @@
 
 > From the trenches\. Through the streets.<br/>Cover: CKay
 
-483 songs - 22 hr 4 min
+484 songs - 22 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Amdallah](https://open.spotify.com/track/38YGMEC8sWIkkUWYZVw5GE) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Vibe Till Thy Kingdom Come](https://open.spotify.com/album/5sXH36sWuho5Xei85Ru5sj) | 3:00 | 2023-12-01 | 2023-12-08 |
 | [Amen](https://open.spotify.com/track/5xFnqGLySijRJ2q6som381) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [M$NEY](https://open.spotify.com/album/07iqzVICrgPFOpXem6MEpU) | 3:25 | 2026-05-01 |  |
 | [AMERICA](https://open.spotify.com/track/5CFz4grlqiE2TtrfFWKY2R) | [Qdot](https://open.spotify.com/artist/6PQqfJGRZzewMi6rBjK4Ev) | [AMERICA](https://open.spotify.com/album/4CA1o2nf4CPm4yyyNkfp95) | 3:32 | 2024-05-24 | 2024-07-03 |
-| [Anytime \(feat\. Ayo Maff\)](https://open.spotify.com/track/0btl8LkqkQNo4NxmpBoP8a) | [Id Cabasa](https://open.spotify.com/artist/3UEwKs997VRicCpjEYTprR), [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [Anytime \(feat\. Ayo Maff\)](https://open.spotify.com/album/0tlsC4tKamKTl9PYoMuPTY) | 3:12 | 2025-05-09 |  |
+| [Anytime \(feat\. Ayo Maff\)](https://open.spotify.com/track/0btl8LkqkQNo4NxmpBoP8a) | [Id Cabasa](https://open.spotify.com/artist/3UEwKs997VRicCpjEYTprR), [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [Anytime \(feat\. Ayo Maff\)](https://open.spotify.com/album/0tlsC4tKamKTl9PYoMuPTY) | 3:12 | 2025-05-09 | 2026-05-28 |
 | [Ara \(600M\)](https://open.spotify.com/track/7oHYgZelWF1QOTCtR75rnj) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [ARA](https://open.spotify.com/album/7fluxAs5HSUVmyChevBl2W) | 3:05 | 2026-04-24 |  |
 | [Ara \(Gen Gen Tin\)](https://open.spotify.com/track/1j9I9JrUTXNblSWazCq9CU) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Ara \(Gen Gen Tin\)](https://open.spotify.com/album/4ysDR8PYoFO4R6rNMOYSSO) | 2:26 | 2023-03-10 | 2024-04-22 |
 | [Are you there?](https://open.spotify.com/track/10y7iW3rc8bzGbhAC3mNPA) | [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [MAFFIAN](https://open.spotify.com/album/34MCeC9R3RzTxf3vzEJmWi) | 2:36 | 2024-08-25 |  |
@@ -256,6 +256,7 @@
 | [Jungle](https://open.spotify.com/track/4sDJ96gu68rfMzlDNLh5M5) | [Balloranking](https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP) | [Jungle](https://open.spotify.com/album/5aVMinMjVyCFBRAAIlfXNS) | 2:35 | 2025-11-21 | 2026-01-15 |
 | [Kaizen's Intro](https://open.spotify.com/track/05wzOC5B76dXhpT2z9xgKO) | [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN) | [Kaizen](https://open.spotify.com/album/7oxgkgER8SwORZr7Yejlmu) | 2:54 | 2025-11-07 | 2026-05-25 |
 | [Kan Ye \(with Minz\)](https://open.spotify.com/track/1Sy0TOykPMdoVFivlhpsb3) | [10Ten](https://open.spotify.com/artist/7urO0i2T8Ta9E9xAuOD1d6), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [Kan Ye \(with Minz\)](https://open.spotify.com/album/3BobEjjYPHa1ct0bCGC30N) | 2:08 | 2025-10-10 | 2025-11-07 |
+| [Kawasaki \(Freestyle\)](https://open.spotify.com/track/0tLTVKOz3peNhL5Tm4wyYl) | [Balloranking](https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP) | [Kawasaki \(Freestyle\)](https://open.spotify.com/album/29HAkvEAIcldJDZEkhkZuK) | 2:44 | 2026-05-25 |  |
 | [KELEBU](https://open.spotify.com/track/6aoKNOL481xVNuqeayQjPj) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [KELEBU](https://open.spotify.com/album/0dTlxJzKKFaUdPoW7aIQIa) | 2:52 | 2025-08-01 | 2026-01-15 |
 | [Kelegbe](https://open.spotify.com/track/0cyG4z70VsqPCjC61v1Oz7) | [21 Payne](https://open.spotify.com/artist/3emxEA3Ja0Ul61lHUIDwuE), [Hotkeed](https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj) | [Kelegbe](https://open.spotify.com/album/5kUKkIrrkJ43rhmDkEP3UW) | 3:00 | 2024-09-13 | 2024-09-20 |
 | [Killin Dem \(feat\. Zlatan\)](https://open.spotify.com/track/3a7ziOOO3Cbuv6BMXrj0wU) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [African Giant](https://open.spotify.com/album/34vlTd4355ddD4q9pPsoqF) | 3:41 | 2022-06-29 | 2023-12-15 |

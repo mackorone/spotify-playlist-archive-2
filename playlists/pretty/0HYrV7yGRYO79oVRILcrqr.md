@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,823 likes - 101 songs - 6 hr 41 min
+[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,828 likes - 107 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,5 +109,11 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 | 99 | [Super 8](https://open.spotify.com/track/5RYqOCd159JIlWw7MDTPN0) | [Bounce Back](https://open.spotify.com/artist/70mZN7KBrWusiMgyXNW4Hb) | [Super 8](https://open.spotify.com/album/2Nbr2TjNHUruDKEVHmix6a) | 4:08 |
 | 100 | [Night is Young](https://open.spotify.com/track/71dtvsaPOTCi4RkQzmIKlE) | [Thomas Duxbury](https://open.spotify.com/artist/6ECILQNZ22Kc1VCNpX4Cct) | [Night is Young](https://open.spotify.com/album/4ejuRVnwvqW6bng1O811IL) | 2:52 |
 | 101 | [Keeping Pace](https://open.spotify.com/track/35YrQi7mkqLcsbkOpGS6gn) | [Randy Ellefson](https://open.spotify.com/artist/6x4QyTflA6R6xOvtXHsyNI) | [Now Weaponized!](https://open.spotify.com/album/3S79mUMMfO1orW6ubEsTY0) | 5:41 |
+| 102 | [Hit](https://open.spotify.com/track/6D5ZchK6XrGfxxDILqd0OY) | [SrJ Is DeD](https://open.spotify.com/artist/2B8qfVKrS25pCuOuXpLV1U) | [Flow.](https://open.spotify.com/album/2NnuwWtt2lutd9kxd7vetS) | 1:51 |
+| 103 | [Meet Me at the Sidebar](https://open.spotify.com/track/0Ew2kJHiWLEDedSn9Z5NVu) | [The Meadowlark Lemons](https://open.spotify.com/artist/2JRrhlEgRBFvrFmXOMpLNy) | [The Meadowlark Lemons](https://open.spotify.com/album/0WFqangWFBGOthdswpLMOQ) | 5:08 |
+| 104 | [Gedankengewitter](https://open.spotify.com/track/1Hze4rox0RnhkKtJiQ5m6k) | [Elaria Sol](https://open.spotify.com/artist/5rbCDCbfSBmLmLBp9J7NDH) | [Gedankengewitter](https://open.spotify.com/album/0rKxIPQemkSVpupIUZfqjI) | 3:37 |
+| 105 | [Hockey Game](https://open.spotify.com/track/4KXDzxPnNqpGZtj1yyz0VO) | [Neofors](https://open.spotify.com/artist/7HoKutGLhVfmBPfZe3gsPl) | [Cosmic Bingo](https://open.spotify.com/album/0a1rW4YNunla4OAVRxGUY1) | 2:36 |
+| 106 | [What You Mean To Me](https://open.spotify.com/track/4li8wXH4ddF3r16UsVVK0e) | [CulturalException](https://open.spotify.com/artist/7jX8waGsSoJDrsZyrmKW09), [Enlia](https://open.spotify.com/artist/4pGE3dPAL7rlSvoBgTw91S) | [What You Mean To Me](https://open.spotify.com/album/5lvrmaQymbPBCK8eqMA5xz) | 4:11 |
+| 107 | [Hotel](https://open.spotify.com/track/1MGFrDLP5HmTXC8S1o1dT4) | [FRED](https://open.spotify.com/artist/3J0w4a5nxhpvCxa1MFW2fR), [BAI](https://open.spotify.com/artist/4HS5GfG0mkjkhgQuB0kpHh) | [Hotel](https://open.spotify.com/album/6F8FxwblR3zX1i8p5M9h21) | 3:10 |
 
-Snapshot ID: `AAALg+hNQuQzINYgSi3q+I1WYns2Mx4K`
+Snapshot ID: `AAALiX/0kfbLWppNELEvo6HmHqcfkjGJ`

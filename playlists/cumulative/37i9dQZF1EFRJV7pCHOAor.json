@@ -251,6 +251,24 @@
     },
     {
       "album": {
+        "name": "BEFORE I FORGET (DELUXE)",
+        "url": "https://open.spotify.com/album/6CACyqngQWTOAM1UpAtco3"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215520,
+      "name": "BACK 2 LOVE",
+      "url": "https://open.spotify.com/track/0ul0bjXRaO5YxLuSnHX1Qe"
+    },
+    {
+      "album": {
         "name": "SWAG II",
         "url": "https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS"
       },
@@ -3398,6 +3416,28 @@
       "duration_ms": 156032,
       "name": "The Mountain - intro",
       "url": "https://open.spotify.com/track/29vqEyGLMingG3hPFMXEuC"
+    },
+    {
+      "album": {
+        "name": "SWAG",
+        "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Druski",
+          "url": "https://open.spotify.com/artist/4QXUDhKn7oIyfnaNEBkrkY"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 78840,
+      "name": "THERAPY SESSION",
+      "url": "https://open.spotify.com/track/7tZlvvEpX3FEFoYsOI55FB"
     },
     {
       "album": {

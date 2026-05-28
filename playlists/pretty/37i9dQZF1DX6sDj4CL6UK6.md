@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sDj4CL6UK6.md) - [plain]
 
 > English songs from Indian artists.<br/>Cover: Prateek Kuhad
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,899 likes - 71 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,902 likes - 71 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sDj4CL6UK6.md) - [plain]
 | 56 | [Come Sit By My Bed](https://open.spotify.com/track/15TTMLZbrk30lUdGpFFCjz) | [Tabitha Kagoo](https://open.spotify.com/artist/0frv5xYywAPIxOEixlCDdC), [Anika Bharwani](https://open.spotify.com/artist/50wQD996rRMv7WKstW7kb8), [Jenn Steeves](https://open.spotify.com/artist/6hM5NElb1Y12OIWCkQHp8j) | [Nyima, Vol\. 1](https://open.spotify.com/album/2BCFjxg1prw5MlhJINPiPg) | 3:04 |
 | 57 | [Keep You](https://open.spotify.com/track/1EY3dZn5z9ZpVCIIh855J2) | [Shrestha D.](https://open.spotify.com/artist/2lmdJPTrldJerZZEMPGYBT), [Hiten Mukherjee](https://open.spotify.com/artist/1NcTcdQoKp0zcJxr7rZVa4), [gaurab gaboo chatterjee](https://open.spotify.com/artist/10e0DmwViaefZxDfwTg7YT), [Mainak Nag Chowdhury](https://open.spotify.com/artist/1icoDoBNO8lzirfgkgA8wH), [Sudipto Paul](https://open.spotify.com/artist/0bCsOJ63rO4aP5EWUCV7JG) | [Keep You](https://open.spotify.com/album/77YwQgSDxEaAt1Me1J6VV1) | 5:23 |
 | 58 | [Baby Breath](https://open.spotify.com/track/43rjtl8khJXJUJBdlvBprd) | [Judah Sandhy](https://open.spotify.com/artist/4penrzAbWok4rhnaZuwF9V) | [Baby Breath](https://open.spotify.com/album/4Ef631oXXOdWBseNOlYdzV) | 2:47 |
-| 59 | [Detour](https://open.spotify.com/track/4Y9pVTAamWwZn4p4e2vBmw) | [Second Sight](https://open.spotify.com/artist/7Gj4NjNVPzzn00yDDVmrla) | [Detour](https://open.spotify.com/album/1Gtpf8VgbXJtjYNpOStP1X) | 2:59 |
-| 60 | [Painted Faces](https://open.spotify.com/track/2ju3HIlep4lhn0SJ4t7jBa) | [MR ISHAN JACK](https://open.spotify.com/artist/5NAfCC6rcaEULklQ7FCFcF), [Insha Gill](https://open.spotify.com/artist/6THfA4EeXEtz1ufoP59evj), [Sonic Wav](https://open.spotify.com/artist/6cl0bx4Q2JaNyJMlO64Pnh) | [Painted Faces](https://open.spotify.com/album/2hpW3IPnVpgLvDx8lK6DcL) | 2:59 |
+| 59 | [Painted Faces](https://open.spotify.com/track/2ju3HIlep4lhn0SJ4t7jBa) | [MR ISHAN JACK](https://open.spotify.com/artist/5NAfCC6rcaEULklQ7FCFcF), [Insha Gill](https://open.spotify.com/artist/6THfA4EeXEtz1ufoP59evj), [Sonic Wav](https://open.spotify.com/artist/6cl0bx4Q2JaNyJMlO64Pnh) | [Painted Faces](https://open.spotify.com/album/2hpW3IPnVpgLvDx8lK6DcL) | 2:59 |
+| 60 | [Detour](https://open.spotify.com/track/4Y9pVTAamWwZn4p4e2vBmw) | [Second Sight](https://open.spotify.com/artist/7Gj4NjNVPzzn00yDDVmrla) | [Detour](https://open.spotify.com/album/1Gtpf8VgbXJtjYNpOStP1X) | 2:59 |
 | 61 | [Paradise](https://open.spotify.com/track/4luxjQsMu9bZYpmXGegS1i) | [Meera](https://open.spotify.com/artist/1a74S7m7Ce1IRYAC61gXfv) | [Nyima, Vol\. 1](https://open.spotify.com/album/2BCFjxg1prw5MlhJINPiPg) | 2:28 |
 | 62 | [Wallow](https://open.spotify.com/track/43tDC5J5wzTK4xgQSieZga) | [Tiana Tara](https://open.spotify.com/artist/3lHzLZ5rH5uP4IYwZyBGan), [Sanoli Chowdhury](https://open.spotify.com/artist/36ZC6sfDiqZdz1aJefbdKl) | [Nyima, Vol\. 1](https://open.spotify.com/album/2BCFjxg1prw5MlhJINPiPg) | 3:03 |
 | 63 | [Into The Wild](https://open.spotify.com/track/4z901LnfXd572xKSoTjtNn) | [Sahana Naresh](https://open.spotify.com/artist/4OFt1ADSi91sMx70NtrFD9) | [Nyima, Vol\. 1](https://open.spotify.com/album/2BCFjxg1prw5MlhJINPiPg) | 3:50 |

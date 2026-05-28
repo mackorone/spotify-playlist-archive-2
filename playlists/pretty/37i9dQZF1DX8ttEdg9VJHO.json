@@ -1,6 +1,6 @@
 {
   "description": "F\u00fcr ein bisschen mehr Leichtigkeit.",
-  "num_followers": 369006,
+  "num_followers": 369027,
   "original_name": "Feelgood Pop",
   "owner": {
     "name": "Spotify",
@@ -75,22 +75,6 @@
     {
       "added_at": "2026-05-21 22:00:57",
       "album": {
-        "name": "Justice",
-        "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 153190,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G"
-    },
-    {
-      "added_at": "2026-05-21 22:00:57",
-      "album": {
         "name": "People Watching (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4gwfCCNRxAB1P62hlDCelM"
       },
@@ -107,6 +91,22 @@
       "duration_ms": 339893,
       "name": "Rein Me In (with Olivia Dean)",
       "url": "https://open.spotify.com/track/0MUXBhPUDF8or0kfQ0EHwV"
+    },
+    {
+      "added_at": "2026-05-21 22:00:57",
+      "album": {
+        "name": "Justice",
+        "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 153190,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G"
     },
     {
       "added_at": "2026-05-21 22:00:57",
@@ -607,22 +607,6 @@
     {
       "added_at": "2026-05-21 22:00:57",
       "album": {
-        "name": "WIR",
-        "url": "https://open.spotify.com/album/1wp44a0tNqS2ex2Vlp7KLd"
-      },
-      "artists": [
-        {
-          "name": "KAFFKIEZ",
-          "url": "https://open.spotify.com/artist/02RMYgMewVfvyoxyAbegTo"
-        }
-      ],
-      "duration_ms": 207113,
-      "name": "In N\u00e4chten Wie Diesen",
-      "url": "https://open.spotify.com/track/0Pf7l5G7QoZkjlem0pAy28"
-    },
-    {
-      "added_at": "2026-05-21 22:00:57",
-      "album": {
         "name": "The Good Witch",
         "url": "https://open.spotify.com/album/7HCjmINu53BcKbTetdgERo"
       },
@@ -639,6 +623,22 @@
     {
       "added_at": "2026-05-21 22:00:57",
       "album": {
+        "name": "WIR",
+        "url": "https://open.spotify.com/album/1wp44a0tNqS2ex2Vlp7KLd"
+      },
+      "artists": [
+        {
+          "name": "KAFFKIEZ",
+          "url": "https://open.spotify.com/artist/02RMYgMewVfvyoxyAbegTo"
+        }
+      ],
+      "duration_ms": 207113,
+      "name": "In N\u00e4chten Wie Diesen",
+      "url": "https://open.spotify.com/track/0Pf7l5G7QoZkjlem0pAy28"
+    },
+    {
+      "added_at": "2026-05-21 22:00:57",
+      "album": {
         "name": "All I Know So Far",
         "url": "https://open.spotify.com/album/0uVOhoZbkmOIM4kxJFT2IH"
       },
@@ -651,22 +651,6 @@
       "duration_ms": 277413,
       "name": "All I Know So Far",
       "url": "https://open.spotify.com/track/4LmN3eU1R1vVEdKuDELpGk"
-    },
-    {
-      "added_at": "2026-05-21 22:00:57",
-      "album": {
-        "name": "Don't Stop The Car",
-        "url": "https://open.spotify.com/album/0cWThtdC9EYUPQMGAivj7m"
-      },
-      "artists": [
-        {
-          "name": "Nickless",
-          "url": "https://open.spotify.com/artist/1qhcP0Cfa1bJtE8JmbQ4Ea"
-        }
-      ],
-      "duration_ms": 194013,
-      "name": "Don't Stop The Car",
-      "url": "https://open.spotify.com/track/4TGFS6BL59tuRSjBByZ3A4"
     },
     {
       "added_at": "2026-05-21 22:00:57",
@@ -691,6 +675,22 @@
     {
       "added_at": "2026-05-21 22:00:57",
       "album": {
+        "name": "Don't Stop The Car",
+        "url": "https://open.spotify.com/album/0cWThtdC9EYUPQMGAivj7m"
+      },
+      "artists": [
+        {
+          "name": "Nickless",
+          "url": "https://open.spotify.com/artist/1qhcP0Cfa1bJtE8JmbQ4Ea"
+        }
+      ],
+      "duration_ms": 194013,
+      "name": "Don't Stop The Car",
+      "url": "https://open.spotify.com/track/4TGFS6BL59tuRSjBByZ3A4"
+    },
+    {
+      "added_at": "2026-05-21 22:00:57",
+      "album": {
         "name": "The Hardest Part",
         "url": "https://open.spotify.com/album/588h8UhIeAqmWsN7zo9mtA"
       },
@@ -707,22 +707,6 @@
     {
       "added_at": "2026-05-21 22:00:57",
       "album": {
-        "name": "Dopamine",
-        "url": "https://open.spotify.com/album/3k63fb9eki4aVFPzU3Ptvw"
-      },
-      "artists": [
-        {
-          "name": "Robyn",
-          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "Dopamine",
-      "url": "https://open.spotify.com/track/168GHxsiJyT9tlJN74ZO11"
-    },
-    {
-      "added_at": "2026-05-21 22:00:57",
-      "album": {
         "name": "If Anything's Left",
         "url": "https://open.spotify.com/album/6A49EyetnYOdFfM8IWKCqY"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 174915,
       "name": "If Anything's Left",
       "url": "https://open.spotify.com/track/1CViD4tJqNMF4jjgP5Ug62"
+    },
+    {
+      "added_at": "2026-05-21 22:00:57",
+      "album": {
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/3k63fb9eki4aVFPzU3Ptvw"
+      },
+      "artists": [
+        {
+          "name": "Robyn",
+          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/168GHxsiJyT9tlJN74ZO11"
     },
     {
       "added_at": "2026-05-21 22:00:57",
@@ -903,22 +903,6 @@
     {
       "added_at": "2026-05-21 22:00:57",
       "album": {
-        "name": "Kuss.",
-        "url": "https://open.spotify.com/album/6o39VGaYw6CC8gJL3e0rGs"
-      },
-      "artists": [
-        {
-          "name": "Haller",
-          "url": "https://open.spotify.com/artist/62U6nJKR1V8QOspXUzWle3"
-        }
-      ],
-      "duration_ms": 198218,
-      "name": "Sch\u00f6n genug",
-      "url": "https://open.spotify.com/track/2S5FeDvQmmI9iLq8SdCsB2"
-    },
-    {
-      "added_at": "2026-05-21 22:00:57",
-      "album": {
         "name": "Flashback",
         "url": "https://open.spotify.com/album/5zg1NLMl5KghK5QPq9hMuV"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 169400,
       "name": "Flashback",
       "url": "https://open.spotify.com/track/4HS4JTTgXjH6fxsLYHQqhQ"
+    },
+    {
+      "added_at": "2026-05-21 22:00:57",
+      "album": {
+        "name": "Kuss.",
+        "url": "https://open.spotify.com/album/6o39VGaYw6CC8gJL3e0rGs"
+      },
+      "artists": [
+        {
+          "name": "Haller",
+          "url": "https://open.spotify.com/artist/62U6nJKR1V8QOspXUzWle3"
+        }
+      ],
+      "duration_ms": 198218,
+      "name": "Sch\u00f6n genug",
+      "url": "https://open.spotify.com/track/2S5FeDvQmmI9iLq8SdCsB2"
     },
     {
       "added_at": "2026-05-21 22:00:57",
@@ -967,6 +967,22 @@
     {
       "added_at": "2026-05-21 22:00:57",
       "album": {
+        "name": "Vertigo",
+        "url": "https://open.spotify.com/album/6itWOqDXkixKxRimD02770"
+      },
+      "artists": [
+        {
+          "name": "Dominic Neill",
+          "url": "https://open.spotify.com/artist/4PIv3Lyk3erxjcwBZFVNgi"
+        }
+      ],
+      "duration_ms": 180071,
+      "name": "Vertigo",
+      "url": "https://open.spotify.com/track/4ZrMY6RcgUPNftOt1nsyhd"
+    },
+    {
+      "added_at": "2026-05-21 22:00:57",
+      "album": {
         "name": "Let Me Love You",
         "url": "https://open.spotify.com/album/105LdQFucx264gr5MMo2AX"
       },
@@ -999,26 +1015,6 @@
     {
       "added_at": "2026-05-21 22:00:57",
       "album": {
-        "name": "No Sleep",
-        "url": "https://open.spotify.com/album/4PxjS1j0oU4kMgPTRTeSfy"
-      },
-      "artists": [
-        {
-          "name": "Alexandra Stan",
-          "url": "https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL"
-        },
-        {
-          "name": "FAULHABER",
-          "url": "https://open.spotify.com/artist/49T8i1paijMAK9rYtjO4lu"
-        }
-      ],
-      "duration_ms": 145846,
-      "name": "No Sleep",
-      "url": "https://open.spotify.com/track/6HKNYBGRBvofWjSHmfkVvE"
-    },
-    {
-      "added_at": "2026-05-21 22:00:57",
-      "album": {
         "name": "Kreise",
         "url": "https://open.spotify.com/album/7EJ7tw1jSJdW2C0enoLQXS"
       },
@@ -1035,18 +1031,22 @@
     {
       "added_at": "2026-05-21 22:00:57",
       "album": {
-        "name": "Vertigo",
-        "url": "https://open.spotify.com/album/6itWOqDXkixKxRimD02770"
+        "name": "No Sleep",
+        "url": "https://open.spotify.com/album/4PxjS1j0oU4kMgPTRTeSfy"
       },
       "artists": [
         {
-          "name": "Dominic Neill",
-          "url": "https://open.spotify.com/artist/4PIv3Lyk3erxjcwBZFVNgi"
+          "name": "Alexandra Stan",
+          "url": "https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL"
+        },
+        {
+          "name": "FAULHABER",
+          "url": "https://open.spotify.com/artist/49T8i1paijMAK9rYtjO4lu"
         }
       ],
-      "duration_ms": 180071,
-      "name": "Vertigo",
-      "url": "https://open.spotify.com/track/4ZrMY6RcgUPNftOt1nsyhd"
+      "duration_ms": 145846,
+      "name": "No Sleep",
+      "url": "https://open.spotify.com/track/6HKNYBGRBvofWjSHmfkVvE"
     },
     {
       "added_at": "2026-05-21 22:00:57",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2026-05-21 22:00:57",
       "album": {
-        "name": "Sains et saufs (Deluxe)",
-        "url": "https://open.spotify.com/album/7hvRy12Y34qbVmG0WzC4Rb"
-      },
-      "artists": [
-        {
-          "name": "Zaz",
-          "url": "https://open.spotify.com/artist/1mbgj8ERPs8lWi7t5cYrdy"
-        }
-      ],
-      "duration_ms": 142600,
-      "name": "Mon vrai moi",
-      "url": "https://open.spotify.com/track/2uD7MbyDtL8nGDxVAwpqtW"
-    },
-    {
-      "added_at": "2026-05-21 22:00:57",
-      "album": {
         "name": "Over",
         "url": "https://open.spotify.com/album/2VQy0vBC1uPz4HRncOjUV2"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 169949,
       "name": "Over",
       "url": "https://open.spotify.com/track/0OtftDTXLb5Ziq4Goq0nJS"
+    },
+    {
+      "added_at": "2026-05-21 22:00:57",
+      "album": {
+        "name": "Sains et saufs (Deluxe)",
+        "url": "https://open.spotify.com/album/7hvRy12Y34qbVmG0WzC4Rb"
+      },
+      "artists": [
+        {
+          "name": "Zaz",
+          "url": "https://open.spotify.com/artist/1mbgj8ERPs8lWi7t5cYrdy"
+        }
+      ],
+      "duration_ms": 142600,
+      "name": "Mon vrai moi",
+      "url": "https://open.spotify.com/track/2uD7MbyDtL8nGDxVAwpqtW"
     },
     {
       "added_at": "2026-05-21 22:00:57",

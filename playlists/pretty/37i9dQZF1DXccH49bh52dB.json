@@ -1,6 +1,6 @@
 {
   "description": "The softer side of dance.",
-  "num_followers": 738117,
+  "num_followers": 738227,
   "original_name": "Chilled Dance Hits",
   "owner": {
     "name": "Spotify",
@@ -207,26 +207,6 @@
     {
       "added_at": "2026-04-24 04:00:43",
       "album": {
-        "name": "Show Me Love",
-        "url": "https://open.spotify.com/album/4gyYKUIAOEcP50RM1Sjzj6"
-      },
-      "artists": [
-        {
-          "name": "WizTheMc",
-          "url": "https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5"
-        },
-        {
-          "name": "bees & honey",
-          "url": "https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi"
-        }
-      ],
-      "duration_ms": 176965,
-      "name": "Show Me Love",
-      "url": "https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa"
-    },
-    {
-      "added_at": "2026-04-24 04:00:43",
-      "album": {
         "name": "Waves (Robin Schulz Radio Edit)",
         "url": "https://open.spotify.com/album/29RpLEpfNr1mnrnmtbO620"
       },
@@ -243,6 +223,26 @@
       "duration_ms": 208133,
       "name": "Waves - Robin Schulz Radio Edit",
       "url": "https://open.spotify.com/track/1HFfMOxCAT4GAwaPfCdmUs"
+    },
+    {
+      "added_at": "2026-04-24 04:00:43",
+      "album": {
+        "name": "Show Me Love",
+        "url": "https://open.spotify.com/album/4gyYKUIAOEcP50RM1Sjzj6"
+      },
+      "artists": [
+        {
+          "name": "WizTheMc",
+          "url": "https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5"
+        },
+        {
+          "name": "bees & honey",
+          "url": "https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi"
+        }
+      ],
+      "duration_ms": 176965,
+      "name": "Show Me Love",
+      "url": "https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa"
     },
     {
       "added_at": "2026-04-24 04:00:43",
@@ -767,6 +767,22 @@
     {
       "added_at": "2026-04-24 04:00:43",
       "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/3lOxGtxE3okQgACvvcJdDR"
+      },
+      "artists": [
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        }
+      ],
+      "duration_ms": 165961,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/74y1VgzL668hynrvA59WQB"
+    },
+    {
+      "added_at": "2026-04-24 04:00:43",
+      "album": {
         "name": "There She Goes",
         "url": "https://open.spotify.com/album/3gHDnPPOgXcueJrL1r03q2"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 121874,
       "name": "There She Goes",
       "url": "https://open.spotify.com/track/2aSjWonALEwE3wTpjYMvc7"
-    },
-    {
-      "added_at": "2026-04-24 04:00:43",
-      "album": {
-        "name": "Stay",
-        "url": "https://open.spotify.com/album/3lOxGtxE3okQgACvvcJdDR"
-      },
-      "artists": [
-        {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
-        }
-      ],
-      "duration_ms": 165961,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/74y1VgzL668hynrvA59WQB"
     },
     {
       "added_at": "2026-04-24 04:00:43",
@@ -863,22 +863,6 @@
     {
       "added_at": "2026-04-24 04:00:43",
       "album": {
-        "name": "Help Me Lose My Mind",
-        "url": "https://open.spotify.com/album/5QF6Mk1pJl9H5mikpQNtpa"
-      },
-      "artists": [
-        {
-          "name": "Gravagerz",
-          "url": "https://open.spotify.com/artist/2zoy9aYWHueNXCIqh2MStc"
-        }
-      ],
-      "duration_ms": 172945,
-      "name": "Help Me Lose My Mind",
-      "url": "https://open.spotify.com/track/0yKlFaSKtA5wdF8pWgyoo1"
-    },
-    {
-      "added_at": "2026-04-24 04:00:43",
-      "album": {
         "name": "Favour",
         "url": "https://open.spotify.com/album/2Cu1dQasaSEVPqG3nq8ILq"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 194890,
       "name": "Favour",
       "url": "https://open.spotify.com/track/44wR4NqR75eJMETxrz59Sr"
+    },
+    {
+      "added_at": "2026-04-24 04:00:43",
+      "album": {
+        "name": "Help Me Lose My Mind",
+        "url": "https://open.spotify.com/album/5QF6Mk1pJl9H5mikpQNtpa"
+      },
+      "artists": [
+        {
+          "name": "Gravagerz",
+          "url": "https://open.spotify.com/artist/2zoy9aYWHueNXCIqh2MStc"
+        }
+      ],
+      "duration_ms": 172945,
+      "name": "Help Me Lose My Mind",
+      "url": "https://open.spotify.com/track/0yKlFaSKtA5wdF8pWgyoo1"
     },
     {
       "added_at": "2026-04-24 04:00:43",
@@ -935,22 +935,6 @@
     {
       "added_at": "2026-04-24 04:00:43",
       "album": {
-        "name": "Catharina",
-        "url": "https://open.spotify.com/album/5tb6la76gh37dUfEBanIGc"
-      },
-      "artists": [
-        {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        }
-      ],
-      "duration_ms": 207288,
-      "name": "Catharina",
-      "url": "https://open.spotify.com/track/0axM6rXe76kVZ5H3vbb8pi"
-    },
-    {
-      "added_at": "2026-04-24 04:00:43",
-      "album": {
         "name": "Self Control",
         "url": "https://open.spotify.com/album/03xh8sZqJDe50mUiEqk7Ni"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 172261,
       "name": "Self Control",
       "url": "https://open.spotify.com/track/1vfBfRJaHRFVRRYMoJNg7N"
+    },
+    {
+      "added_at": "2026-04-24 04:00:43",
+      "album": {
+        "name": "Catharina",
+        "url": "https://open.spotify.com/album/5tb6la76gh37dUfEBanIGc"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        }
+      ],
+      "duration_ms": 207288,
+      "name": "Catharina",
+      "url": "https://open.spotify.com/track/0axM6rXe76kVZ5H3vbb8pi"
     },
     {
       "added_at": "2026-04-24 04:00:43",

@@ -1,6 +1,6 @@
 {
   "description": "Songs to celebrate the life, death, and resurrection of our Lord Jesus all in one collection.",
-  "num_followers": 87831,
+  "num_followers": 87824,
   "original_name": "Easter",
   "owner": {
     "name": "Spotify",
@@ -619,22 +619,6 @@
     {
       "added_at": "2026-04-04 06:04:53",
       "album": {
-        "name": "I Will Follow",
-        "url": "https://open.spotify.com/album/6bRMknojXPVfD1hCWUPB8V"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Camp",
-          "url": "https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk"
-        }
-      ],
-      "duration_ms": 277280,
-      "name": "Same Power",
-      "url": "https://open.spotify.com/track/7AlFRA7zpc30NM8LO3ZcE4"
-    },
-    {
-      "added_at": "2026-04-04 06:04:53",
-      "album": {
         "name": "Fear No More",
         "url": "https://open.spotify.com/album/2fB6DEetkiafmJD4hcfMDZ"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 192926,
       "name": "Fear No More",
       "url": "https://open.spotify.com/track/2dRkBASYztFHahOf5GNeQ9"
+    },
+    {
+      "added_at": "2026-04-04 06:04:53",
+      "album": {
+        "name": "I Will Follow",
+        "url": "https://open.spotify.com/album/6bRMknojXPVfD1hCWUPB8V"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Camp",
+          "url": "https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk"
+        }
+      ],
+      "duration_ms": 277280,
+      "name": "Same Power",
+      "url": "https://open.spotify.com/track/7AlFRA7zpc30NM8LO3ZcE4"
     },
     {
       "added_at": "2026-04-04 06:04:53",
@@ -719,22 +719,6 @@
     {
       "added_at": "2026-04-04 06:04:53",
       "album": {
-        "name": "When The Kingdom Comes",
-        "url": "https://open.spotify.com/album/3VlrT7tpwfMMPbweY4Clp0"
-      },
-      "artists": [
-        {
-          "name": "Lee Brice",
-          "url": "https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk"
-        }
-      ],
-      "duration_ms": 163493,
-      "name": "When The Kingdom Comes",
-      "url": "https://open.spotify.com/track/3LINos46sYoZPunSUgW26Q"
-    },
-    {
-      "added_at": "2026-04-04 06:04:53",
-      "album": {
         "name": "You Deliver Me",
         "url": "https://open.spotify.com/album/47BVtVrvqiwEAOYYzeOcnk"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 204133,
       "name": "How Deep The Father's Love For Us",
       "url": "https://open.spotify.com/track/3kCNLcSSrtevQDAQfaWcTO"
+    },
+    {
+      "added_at": "2026-04-04 06:04:53",
+      "album": {
+        "name": "When The Kingdom Comes",
+        "url": "https://open.spotify.com/album/3VlrT7tpwfMMPbweY4Clp0"
+      },
+      "artists": [
+        {
+          "name": "Lee Brice",
+          "url": "https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk"
+        }
+      ],
+      "duration_ms": 163493,
+      "name": "When The Kingdom Comes",
+      "url": "https://open.spotify.com/track/3LINos46sYoZPunSUgW26Q"
     },
     {
       "added_at": "2026-04-04 06:04:53",
@@ -803,22 +803,6 @@
     {
       "added_at": "2026-04-04 06:04:53",
       "album": {
-        "name": "Everything And Nothing Less (Live)",
-        "url": "https://open.spotify.com/album/66663xiz1SATmBnF78aEpA"
-      },
-      "artists": [
-        {
-          "name": "Chris McClarney",
-          "url": "https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp"
-        }
-      ],
-      "duration_ms": 326613,
-      "name": "God Of Miracles - Live",
-      "url": "https://open.spotify.com/track/2RwzuFDm2uqTaMMXXSZSw6"
-    },
-    {
-      "added_at": "2026-04-04 06:04:53",
-      "album": {
         "name": "Greatest Hymns, Vol. 2",
         "url": "https://open.spotify.com/album/1JmmM3kMCKzYbuBHphQMFP"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 231866,
       "name": "Wonderful, Merciful Savior",
       "url": "https://open.spotify.com/track/1GfXRWcCxijFPbR5hYNh5q"
+    },
+    {
+      "added_at": "2026-04-04 06:04:53",
+      "album": {
+        "name": "Everything And Nothing Less (Live)",
+        "url": "https://open.spotify.com/album/66663xiz1SATmBnF78aEpA"
+      },
+      "artists": [
+        {
+          "name": "Chris McClarney",
+          "url": "https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp"
+        }
+      ],
+      "duration_ms": 326613,
+      "name": "God Of Miracles - Live",
+      "url": "https://open.spotify.com/track/2RwzuFDm2uqTaMMXXSZSw6"
     },
     {
       "added_at": "2026-04-04 06:04:53",
@@ -903,18 +903,18 @@
     {
       "added_at": "2026-04-04 06:04:53",
       "album": {
-        "name": "In Christ Alone",
-        "url": "https://open.spotify.com/album/6ZVTgCnYuK6Y5TFO4lna5V"
+        "name": "Stars Go Dim",
+        "url": "https://open.spotify.com/album/6O53uxub6lQLq9S9AFKPCr"
       },
       "artists": [
         {
-          "name": "Keith & Kristyn Getty",
-          "url": "https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx"
+          "name": "Stars Go Dim",
+          "url": "https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3"
         }
       ],
-      "duration_ms": 329720,
-      "name": "The Power Of The Cross",
-      "url": "https://open.spotify.com/track/0BaI66HnzOMf3Kk7femx8m"
+      "duration_ms": 206648,
+      "name": "You Are Loved",
+      "url": "https://open.spotify.com/track/7M7eanIuxFd9IgaB8rAP7b"
     },
     {
       "added_at": "2026-04-04 06:04:53",
@@ -935,18 +935,18 @@
     {
       "added_at": "2026-04-04 06:04:53",
       "album": {
-        "name": "Stars Go Dim",
-        "url": "https://open.spotify.com/album/6O53uxub6lQLq9S9AFKPCr"
+        "name": "In Christ Alone",
+        "url": "https://open.spotify.com/album/6ZVTgCnYuK6Y5TFO4lna5V"
       },
       "artists": [
         {
-          "name": "Stars Go Dim",
-          "url": "https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3"
+          "name": "Keith & Kristyn Getty",
+          "url": "https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx"
         }
       ],
-      "duration_ms": 206648,
-      "name": "You Are Loved",
-      "url": "https://open.spotify.com/track/7M7eanIuxFd9IgaB8rAP7b"
+      "duration_ms": 329720,
+      "name": "The Power Of The Cross",
+      "url": "https://open.spotify.com/track/0BaI66HnzOMf3Kk7femx8m"
     },
     {
       "added_at": "2026-04-04 06:04:53",
@@ -1815,22 +1815,6 @@
     {
       "added_at": "2026-04-04 06:04:53",
       "album": {
-        "name": "JESUS",
-        "url": "https://open.spotify.com/album/03UHVZU8WsMFroHVWm6hJc"
-      },
-      "artists": [
-        {
-          "name": "Matt Crocker",
-          "url": "https://open.spotify.com/artist/6vGCQS2VmikoQOsXgFN3Ec"
-        }
-      ],
-      "duration_ms": 200120,
-      "name": "JESUS",
-      "url": "https://open.spotify.com/track/7ezBWjqG5tdtvyXcg3toYf"
-    },
-    {
-      "added_at": "2026-04-04 06:04:53",
-      "album": {
         "name": "Worship Forever (Live)",
         "url": "https://open.spotify.com/album/0VGJroMZNK3faRsUfaDwz0"
       },
@@ -1851,18 +1835,18 @@
     {
       "added_at": "2026-04-04 06:04:53",
       "album": {
-        "name": "What You Could Do With Me",
-        "url": "https://open.spotify.com/album/4uy0OpUiNRU5mXvrFavQze"
+        "name": "JESUS",
+        "url": "https://open.spotify.com/album/03UHVZU8WsMFroHVWm6hJc"
       },
       "artists": [
         {
-          "name": "Josh Wright",
-          "url": "https://open.spotify.com/artist/0okSx9dxCq2J9CYuAQalp2"
+          "name": "Matt Crocker",
+          "url": "https://open.spotify.com/artist/6vGCQS2VmikoQOsXgFN3Ec"
         }
       ],
-      "duration_ms": 231550,
-      "name": "What You Could Do With Me",
-      "url": "https://open.spotify.com/track/5IJ3tn2MfGpGJ7GEGN3vhV"
+      "duration_ms": 200120,
+      "name": "JESUS",
+      "url": "https://open.spotify.com/track/7ezBWjqG5tdtvyXcg3toYf"
     },
     {
       "added_at": "2026-04-04 06:04:53",
@@ -1883,6 +1867,22 @@
       "duration_ms": 239999,
       "name": "Alive In You - Studio Version",
       "url": "https://open.spotify.com/track/09iE9CebgTgFDEluHH1ept"
+    },
+    {
+      "added_at": "2026-04-04 06:04:53",
+      "album": {
+        "name": "What You Could Do With Me",
+        "url": "https://open.spotify.com/album/4uy0OpUiNRU5mXvrFavQze"
+      },
+      "artists": [
+        {
+          "name": "Josh Wright",
+          "url": "https://open.spotify.com/artist/0okSx9dxCq2J9CYuAQalp2"
+        }
+      ],
+      "duration_ms": 231550,
+      "name": "What You Could Do With Me",
+      "url": "https://open.spotify.com/track/5IJ3tn2MfGpGJ7GEGN3vhV"
     },
     {
       "added_at": "2026-04-04 06:04:53",
@@ -2091,6 +2091,22 @@
     {
       "added_at": "2026-04-04 06:04:53",
       "album": {
+        "name": "Hallelujah for the Cross",
+        "url": "https://open.spotify.com/album/4EPgdHhYtLpO3FpRvh6d0y"
+      },
+      "artists": [
+        {
+          "name": "Newsboys",
+          "url": "https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62"
+        }
+      ],
+      "duration_ms": 209687,
+      "name": "Jesus Paid It All",
+      "url": "https://open.spotify.com/track/0VNaskMjoh3z2y9akAfodM"
+    },
+    {
+      "added_at": "2026-04-04 06:04:53",
+      "album": {
         "name": "Thank The Lord",
         "url": "https://open.spotify.com/album/7gjCfoCmp00bvGVYQzg8JB"
       },
@@ -2107,22 +2123,6 @@
       "duration_ms": 279266,
       "name": "Thank The Lord",
       "url": "https://open.spotify.com/track/17twfk8FZ0DX7obvyGyoS8"
-    },
-    {
-      "added_at": "2026-04-04 06:04:53",
-      "album": {
-        "name": "Hallelujah for the Cross",
-        "url": "https://open.spotify.com/album/4EPgdHhYtLpO3FpRvh6d0y"
-      },
-      "artists": [
-        {
-          "name": "Newsboys",
-          "url": "https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62"
-        }
-      ],
-      "duration_ms": 209687,
-      "name": "Jesus Paid It All",
-      "url": "https://open.spotify.com/track/0VNaskMjoh3z2y9akAfodM"
     },
     {
       "added_at": "2026-04-04 06:04:53",

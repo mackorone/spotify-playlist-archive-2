@@ -1,12 +1,12 @@
 {
   "description": "This is Rich Homie Quan. The essential tracks, all in one playlist.",
-  "num_followers": 21089,
+  "num_followers": 21093,
   "original_name": "This Is Rich Homie Quan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahORAAAAAACMWFt8uCraHDil8bO4poFR",
+  "snapshot_id": "ahTigAAAAABdNuggOU1NRbwLxLgPH2b0",
   "tracks": [
     {
       "added_at": null,
@@ -811,6 +811,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Still Dead",
+        "url": "https://open.spotify.com/album/5Aqj31jPQAuQmsgiIyJ78V"
+      },
+      "artists": [
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 128837,
+      "name": "Still Dead",
+      "url": "https://open.spotify.com/track/137EDAXjvEQSjMFDDQ3SfZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Life After Fame",
         "url": "https://open.spotify.com/album/3IYaSINx79h33UY51uylld"
       },
@@ -831,22 +847,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Back To The Basics",
-        "url": "https://open.spotify.com/album/22YDVJAkRkcybxuyRkNSyV"
-      },
-      "artists": [
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 162246,
-      "name": "Gamble",
-      "url": "https://open.spotify.com/track/6LZLx6B97FDjUg89RIT44U"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Coma",
         "url": "https://open.spotify.com/album/5IwKLJtOvYIc6wPxHXdKDd"
       },
@@ -863,6 +863,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Back To The Basics",
+        "url": "https://open.spotify.com/album/22YDVJAkRkcybxuyRkNSyV"
+      },
+      "artists": [
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 162246,
+      "name": "Gamble",
+      "url": "https://open.spotify.com/track/6LZLx6B97FDjUg89RIT44U"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rich As In Spirit",
         "url": "https://open.spotify.com/album/5vW8xhq1cIBvC8IXOfPss7"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 214947,
       "name": "Perfect Flower",
       "url": "https://open.spotify.com/track/0k2zadj0ibcTAPXcGg6t7a"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Still Dead",
-        "url": "https://open.spotify.com/album/5Aqj31jPQAuQmsgiIyJ78V"
-      },
-      "artists": [
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 128837,
-      "name": "Still Dead",
-      "url": "https://open.spotify.com/track/137EDAXjvEQSjMFDDQ3SfZ"
     },
     {
       "added_at": null,

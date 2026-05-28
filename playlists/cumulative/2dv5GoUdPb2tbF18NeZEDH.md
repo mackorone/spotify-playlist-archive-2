@@ -4,7 +4,7 @@
 
 > 
 
-1,368 songs - 3 day 11 hr 34 min
+1,370 songs - 3 day 11 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -306,6 +306,7 @@
 | [DJ Big Toxic](https://open.spotify.com/track/7G8f3W9nq6rwe8EyYOKcvY) | [Dollflesh](https://open.spotify.com/artist/0HsbzLq0Qt3QeaigYM7bBI) | [DJ Big Toxic](https://open.spotify.com/album/7bKM0FcFlXCQQmEgGDONZ1) | 3:28 | 2025-08-17 | 2025-12-14 |
 | [Do Outro Lado da Rua](https://open.spotify.com/track/0ltwRdcobZeo4kEkgFQOYk) | [Thiago Barba](https://open.spotify.com/artist/08IHljRCkTZ3v2X65B1U5I) | [Do Outro Lado da Rua](https://open.spotify.com/album/3BcEjngH9PV2W3L3mNDDYK) | 2:45 | 2025-05-04 | 2025-12-14 |
 | [Do You Need Me Tonight](https://open.spotify.com/track/003Csd9IXxQrK3bL2uxnhw) | [IR1S](https://open.spotify.com/artist/0MXTbSvmj5W2OfKIsZDM6A) | [Sex](https://open.spotify.com/album/5Qi5nVvAlUxFn8ntnH7KQ5) | 3:14 | 2025-05-24 | 2025-12-14 |
+| [Does This Song Sound Familiar? \- 7" Version](https://open.spotify.com/track/62QP01sPSavAquLzA5ogbB) | [Pearl Charles](https://open.spotify.com/artist/5PWyKTCk0kzNytmI0NI2JX) | [Desert Queen](https://open.spotify.com/album/4i6uBsqFutvdLmTLnKGMht) | 3:41 | 2026-05-27 |  |
 | [Dogs in the Alleyway](https://open.spotify.com/track/3NCERodrYmlS1EkyfrjxPA) | [Kip Lily](https://open.spotify.com/artist/0lJ4m103Yzpv9aWNfI1g5y) | [Dogs in the Alleyway](https://open.spotify.com/album/4uWAt5aYIjKL2fUpTSgJVg) | 3:36 | 2025-08-18 | 2025-12-14 |
 | [Domenica mattina](https://open.spotify.com/track/0l3BjpYgBsWqS73T2PyDhV) | [Social Six](https://open.spotify.com/artist/4NAshWdxgeqcFG6kioF8eq) | [Domenica mattina](https://open.spotify.com/album/2bZjKSpBeuBPvVm3BbHzLX) | 3:41 | 2025-10-07 | 2025-12-14 |
 | [Dominates The Wall](https://open.spotify.com/track/0jnYNKIWcNnDTPxngafl0h) | [Ric art](https://open.spotify.com/artist/0lcbVRdnBooIR3KjqwfNRe), [RR!!c,..](https://open.spotify.com/artist/7B6wiQehIFEiAWbH4Fwi39) | [Dominates The Wall](https://open.spotify.com/album/5kvY47dNW2AiqkVclxcZ7R) | 2:11 | 2025-05-17 | 2025-12-14 |
@@ -452,6 +453,7 @@
 | [Gol!](https://open.spotify.com/track/4LDLceIRigqlemqTtv8U1Q) | [Onda33](https://open.spotify.com/artist/6Vh07sG4eoO82XhSUp1fJ2) | [Gol!](https://open.spotify.com/album/7lyoJeeP1CcnXcFKcTgFS6) | 4:00 | 2025-04-03 | 2025-12-14 |
 | [Golden Devil](https://open.spotify.com/track/6dsuu0npywS9CQ9HGCDutD) | [Mad Grace](https://open.spotify.com/artist/5hELnp7oBCA8cuIcY0kVx9) | [Golden Devil](https://open.spotify.com/album/6xJ3O9KZXzOaO5XKWeXKoq) | 3:46 | 2025-07-27 | 2025-12-14 |
 | [Golden Years](https://open.spotify.com/track/59RO5z99eGKAstvSrAlsyV) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Station to Station \(Special Edition\)](https://open.spotify.com/album/359mtWK6URMr2CXK7orSZl) | 4:02 | 2024-03-28 | 2025-12-14 |
+| [Gone \- Cover](https://open.spotify.com/track/4vtykJQdJkHJfYxIUJP74K) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Gone](https://open.spotify.com/album/1WzeryfBKaLye5onsOzhNy) | 3:26 | 2026-05-27 |  |
 | [Gorah](https://open.spotify.com/track/49GpUfc9M09eGET6yBJUAj) | [Nitefreak](https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ), [Emmanuel Jal](https://open.spotify.com/artist/2yWskGGwMOlBGeIAVgfsgm) | [Gorah](https://open.spotify.com/album/31Dhd35ip9kwOzHZhzFzZ1) | 4:06 | 2025-12-13 | 2026-04-21 |
 | [GRANDE DIA](https://open.spotify.com/track/3IPSoR7PWKTFCqEMPoLor8) | [Everaldo Elias](https://open.spotify.com/artist/0uQw5Dv2mu1mS3dt5D5Zm6) | [Amor Maior](https://open.spotify.com/album/28plx4z7W61pjBn9Uwg8ib) | 2:21 | 2025-06-16 | 2025-12-14 |
 | [Green Onions](https://open.spotify.com/track/4fQMGlCawbTkH9yPPZ49kP) | [Booker T\. & the M.G.'s](https://open.spotify.com/artist/2vDV0T8sxx2ENnKXds75e5) | [Green Onions](https://open.spotify.com/album/2aGFVLz0oQPa3uxCfq9lcU) | 2:56 | 2024-03-28 | 2025-12-14 |

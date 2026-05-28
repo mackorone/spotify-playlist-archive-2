@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0D4DBu.md) - [plain]
 
 > This is Chance the Rapper\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,164 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,173 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0D4DBu.md) - [plain]
 | 49 | [I Love You \(feat\. Chance The Rapper\)](https://open.spotify.com/track/6qEbKsvhAQjV3GfSGn1A8K) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [A Love Letter To You 4 \(Deluxe\)](https://open.spotify.com/album/6Qb3toNhi0XwcZG43ksJX9) | 3:49 |
 | 50 | [Coast Is Clear \(with Chance the Rapper and The Social Experiment\)](https://open.spotify.com/track/1c35oVynBuaFs99MNGUOUj) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Donnie Trumpet](https://open.spotify.com/artist/7qbQOln6DZHcPm6l94PXU5), [Peter CottonTale](https://open.spotify.com/artist/4mkGZGaUTIpyG1LnZ6nNIi) | [Recess](https://open.spotify.com/album/7rf1qZJ6hGSlPN7K9ShsVV) | 4:03 |
 
-Snapshot ID: `ahORAAAAAACwm6QwqQMjJxoFBen7OYtG`
+Snapshot ID: `ahTigAAAAADCdt0uKYoU4yYNEAsi+hy+`

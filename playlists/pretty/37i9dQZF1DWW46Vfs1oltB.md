@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 
 > New & Hottest K\-Hip Hop is here\. \(Cover: Jay Park & LNGSHOT\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 772,158 likes - 114 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 772,092 likes - 114 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 | 16 | [Naughty Talk + VANCOUVER FLOW](https://open.spotify.com/track/599L9ptR3PXQq6Dzn9uLP0) | [ksmartboi](https://open.spotify.com/artist/6iBjPtCEGarFwpdJUc39P9), [GGM Kimbo](https://open.spotify.com/artist/6bOmh7MQ7xtlCFE6YTFMak), [Rich Iggy](https://open.spotify.com/artist/0NTtQahShERuGuakUaydEe) | [Naughty Talk + VANCOUVER FLOW](https://open.spotify.com/album/0nZSiJolySzDbSbON7Wpy3) | 3:42 |
 | 17 | [Key Beats](https://open.spotify.com/track/78LggIu7ieohPUuP91SmBI) | [Keyveatz](https://open.spotify.com/artist/6f8BfBKDA1P0yLj6uAmLLF) | [Key Beats](https://open.spotify.com/album/0kBBaam9McJndyPBpfkWOK) | 2:10 |
 | 18 | [HATE](https://open.spotify.com/track/1278Ufm0ord3EY1Kmwj9Gs) | [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) | [HATE](https://open.spotify.com/album/0jUfuFRVWVwptdpGlOm3I5) | 3:13 |
-| 19 | [Stuck \(Feat\. Yerin Baek\)](https://open.spotify.com/track/2gdhV5aSdF3L5pfp7SEPRx) | [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja), [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Stuck](https://open.spotify.com/album/1WBrel8w5536mVdYNnmQko) | 2:48 |
+| 19 | [Stuck \(Feat\. Yerin Baek\)](https://open.spotify.com/track/2gdhV5aSdF3L5pfp7SEPRx) | [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja), [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Stuck \(Feat\. Yerin Baek\)](https://open.spotify.com/album/1WBrel8w5536mVdYNnmQko) | 2:48 |
 | 20 | [I Been Freestyle](https://open.spotify.com/track/6Jr7oKWtqJqs9TXcErdM4z) | [Royal 44](https://open.spotify.com/artist/6I5eyZiVUpuPwE8mTXp7hC) | [I Been Freestyle](https://open.spotify.com/album/5ySSejT8412wv8Z2ZDNJVL) | 2:44 |
 | 21 | [Cocky \(Feat\. BIBI\)](https://open.spotify.com/track/0f6Es3lVLNI4niwc8QsHRF) | [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [mp3](https://open.spotify.com/album/4YOpO4iotuFawWYcUHvlYF) | 2:31 |
 | 22 | [KrOWN\_pH\-1](https://open.spotify.com/track/2bBzD97St8k4eZnyqc3lrT) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [KrOWN Audio liner](https://open.spotify.com/album/6u7MpErvD0bXspFMTI1hMz) | 0:02 |

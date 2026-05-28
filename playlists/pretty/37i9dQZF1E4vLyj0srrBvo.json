@@ -1,12 +1,12 @@
 {
-  "description": "With Phantogram, Mareux, Labyrinth Ear and more",
-  "num_followers": 38761,
+  "description": "With Phantogram, Mareux, Crystal Castles and more",
+  "num_followers": 38776,
   "original_name": "Grimes Radio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAC6+3CNOVAhWONfUYYynKrcvgWpw",
+  "snapshot_id": "AAAAAFrb+48Lq55dEhbMBSMPW4LT46as",
   "tracks": [
     {
       "added_at": null,
@@ -127,22 +127,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Voices",
-        "url": "https://open.spotify.com/album/4jsK9bhq2NQBabB1tttQYR"
-      },
-      "artists": [
-        {
-          "name": "Phantogram",
-          "url": "https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH"
-        }
-      ],
-      "duration_ms": 227160,
-      "name": "Black Out Days",
-      "url": "https://open.spotify.com/track/6xWIuPEnPIODp4dCRsAd5I"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Manners",
         "url": "https://open.spotify.com/album/6H51jH1SuzV6ca1VxW2Tmv"
       },
@@ -159,38 +143,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Phone Sex",
-        "url": "https://open.spotify.com/album/7FNiw5ZlCNJfbSuZg4vE67"
+        "name": "Voices",
+        "url": "https://open.spotify.com/album/4jsK9bhq2NQBabB1tttQYR"
       },
       "artists": [
         {
-          "name": "Blood Diamonds",
-          "url": "https://open.spotify.com/artist/4yuvRDaF5kWkFLq6q1Fev4"
-        },
-        {
-          "name": "Grimes",
-          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+          "name": "Phantogram",
+          "url": "https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH"
         }
       ],
-      "duration_ms": 257959,
-      "name": "Phone Sex",
-      "url": "https://open.spotify.com/track/3iJQFKDGs7nIETpchl450O"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Visions",
-        "url": "https://open.spotify.com/album/3HED2IUaNSnbOe88a7ZdwM"
-      },
-      "artists": [
-        {
-          "name": "Grimes",
-          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
-        }
-      ],
-      "duration_ms": 255320,
-      "name": "Genesis",
-      "url": "https://open.spotify.com/track/3cjvqsvvU80g7WJPMVh8iq"
+      "duration_ms": 227160,
+      "name": "Black Out Days",
+      "url": "https://open.spotify.com/track/6xWIuPEnPIODp4dCRsAd5I"
     },
     {
       "added_at": null,
@@ -207,6 +171,22 @@
       "duration_ms": 171000,
       "name": "4 Morant (Better Luck Next Time)",
       "url": "https://open.spotify.com/track/3XOmSRuEEq7rK4XNzWQdyT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Visions",
+        "url": "https://open.spotify.com/album/3HED2IUaNSnbOe88a7ZdwM"
+      },
+      "artists": [
+        {
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+        }
+      ],
+      "duration_ms": 255320,
+      "name": "Genesis",
+      "url": "https://open.spotify.com/track/3cjvqsvvU80g7WJPMVh8iq"
     },
     {
       "added_at": null,
@@ -251,6 +231,26 @@
       "duration_ms": 189632,
       "name": "Sea, Swallow Me - 2024 Remaster",
       "url": "https://open.spotify.com/track/2kwKk1pkWM6ywaC4gQaByB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Phone Sex",
+        "url": "https://open.spotify.com/album/7FNiw5ZlCNJfbSuZg4vE67"
+      },
+      "artists": [
+        {
+          "name": "Blood Diamonds",
+          "url": "https://open.spotify.com/artist/4yuvRDaF5kWkFLq6q1Fev4"
+        },
+        {
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+        }
+      ],
+      "duration_ms": 257959,
+      "name": "Phone Sex",
+      "url": "https://open.spotify.com/track/3iJQFKDGs7nIETpchl450O"
     },
     {
       "added_at": null,
@@ -307,22 +307,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sour Switchblade",
-        "url": "https://open.spotify.com/album/6AmDiiRIuWbd4y9LqMcvDY"
-      },
-      "artists": [
-        {
-          "name": "Elita",
-          "url": "https://open.spotify.com/artist/7ApzfFN0BmeeVJPsQBReRv"
-        }
-      ],
-      "duration_ms": 148955,
-      "name": "Sour Switchblade",
-      "url": "https://open.spotify.com/track/5efTda0aHZNWNB5srlwFmK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Eyelid Movies",
         "url": "https://open.spotify.com/album/26ANkY7nHVPBsnJ7Do5A0c"
       },
@@ -339,18 +323,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lovers From The Past",
-        "url": "https://open.spotify.com/album/6Z4eMptTUBwtdJHQeNV91N"
+        "name": "Sour Switchblade",
+        "url": "https://open.spotify.com/album/6AmDiiRIuWbd4y9LqMcvDY"
       },
       "artists": [
         {
-          "name": "Mareux",
-          "url": "https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo"
+          "name": "Elita",
+          "url": "https://open.spotify.com/artist/7ApzfFN0BmeeVJPsQBReRv"
         }
       ],
-      "duration_ms": 199280,
-      "name": "Lovers From The Past",
-      "url": "https://open.spotify.com/track/69cGlmgNyMf2K6AvmLBuRD"
+      "duration_ms": 148955,
+      "name": "Sour Switchblade",
+      "url": "https://open.spotify.com/track/5efTda0aHZNWNB5srlwFmK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Night Time, My Time",
+        "url": "https://open.spotify.com/album/0DucmDrdJM4evPXMbFJXBS"
+      },
+      "artists": [
+        {
+          "name": "Sky Ferreira",
+          "url": "https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q"
+        }
+      ],
+      "duration_ms": 250120,
+      "name": "Everything Is Embarrassing",
+      "url": "https://open.spotify.com/track/7j3nbSiaWphYU2cFgyQXd9"
     },
     {
       "added_at": null,
@@ -387,18 +387,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Master of My Make-Believe",
-        "url": "https://open.spotify.com/album/69jrxUSjHoEu6PeBMq3273"
+        "name": "Lovers From The Past",
+        "url": "https://open.spotify.com/album/6Z4eMptTUBwtdJHQeNV91N"
       },
       "artists": [
         {
-          "name": "Santigold",
-          "url": "https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p"
+          "name": "Mareux",
+          "url": "https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo"
         }
       ],
-      "duration_ms": 284400,
-      "name": "Disparate Youth",
-      "url": "https://open.spotify.com/track/7d23MhPFE9eB3U8DPRirnL"
+      "duration_ms": 199280,
+      "name": "Lovers From The Past",
+      "url": "https://open.spotify.com/track/69cGlmgNyMf2K6AvmLBuRD"
     },
     {
       "added_at": null,
@@ -419,18 +419,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ribbed Music For The Numb Generation",
-        "url": "https://open.spotify.com/album/6DK0TneKMKj64I93VCG1bW"
+        "name": "Master of My Make-Believe",
+        "url": "https://open.spotify.com/album/69jrxUSjHoEu6PeBMq3273"
       },
       "artists": [
         {
-          "name": "Sohodolls",
-          "url": "https://open.spotify.com/artist/1KNXft7nnRQj82sENi7WGN"
+          "name": "Santigold",
+          "url": "https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p"
         }
       ],
-      "duration_ms": 181640,
-      "name": "Bang Bang Bang Bang",
-      "url": "https://open.spotify.com/track/2qLSXZuIHMsKydCEFDchc3"
+      "duration_ms": 284400,
+      "name": "Disparate Youth",
+      "url": "https://open.spotify.com/track/7d23MhPFE9eB3U8DPRirnL"
     },
     {
       "added_at": null,
@@ -451,18 +451,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "shrines",
-        "url": "https://open.spotify.com/album/7nuxFL8lYQTIlpEEPEMpN8"
+        "name": "Ribbed Music For The Numb Generation",
+        "url": "https://open.spotify.com/album/6DK0TneKMKj64I93VCG1bW"
       },
       "artists": [
         {
-          "name": "Purity Ring",
-          "url": "https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4"
+          "name": "Sohodolls",
+          "url": "https://open.spotify.com/artist/1KNXft7nnRQj82sENi7WGN"
         }
       ],
-      "duration_ms": 209760,
-      "name": "fineshrine",
-      "url": "https://open.spotify.com/track/5aJmSzmuhLI6fr1Rm0EnkS"
+      "duration_ms": 181640,
+      "name": "Bang Bang Bang Bang",
+      "url": "https://open.spotify.com/track/2qLSXZuIHMsKydCEFDchc3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Trinity",
+        "url": "https://open.spotify.com/album/4feqEnTdNbrecCd7FSvHEA"
+      },
+      "artists": [
+        {
+          "name": "Eartheater",
+          "url": "https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0"
+        }
+      ],
+      "duration_ms": 184505,
+      "name": "Supersoaker",
+      "url": "https://open.spotify.com/track/6szXMlKnHwiPbLfrqp44Jk"
     },
     {
       "added_at": null,
@@ -483,18 +499,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trinity",
-        "url": "https://open.spotify.com/album/4feqEnTdNbrecCd7FSvHEA"
+        "name": "Eyelid Movies",
+        "url": "https://open.spotify.com/album/6smJTxDxrnxi6fPfFWYSQV"
       },
       "artists": [
         {
-          "name": "Eartheater",
-          "url": "https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0"
+          "name": "Phantogram",
+          "url": "https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH"
         }
       ],
-      "duration_ms": 184505,
-      "name": "Supersoaker",
-      "url": "https://open.spotify.com/track/6szXMlKnHwiPbLfrqp44Jk"
+      "duration_ms": 253426,
+      "name": "Mouthful of Diamonds",
+      "url": "https://open.spotify.com/track/6zO0e11RCBnh1w8kjPZpIh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Visions",
+        "url": "https://open.spotify.com/album/3HED2IUaNSnbOe88a7ZdwM"
+      },
+      "artists": [
+        {
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+        }
+      ],
+      "duration_ms": 292506,
+      "name": "Symphonia IX (My Wait Is U)",
+      "url": "https://open.spotify.com/track/76iqrqfj4k7Igq2WoKuTlS"
     },
     {
       "added_at": null,
@@ -519,50 +551,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Visions",
-        "url": "https://open.spotify.com/album/3HED2IUaNSnbOe88a7ZdwM"
+        "name": "shrines",
+        "url": "https://open.spotify.com/album/7nuxFL8lYQTIlpEEPEMpN8"
       },
       "artists": [
         {
-          "name": "Grimes",
-          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+          "name": "Purity Ring",
+          "url": "https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4"
         }
       ],
-      "duration_ms": 292506,
-      "name": "Symphonia IX (My Wait Is U)",
-      "url": "https://open.spotify.com/track/76iqrqfj4k7Igq2WoKuTlS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Eyelid Movies",
-        "url": "https://open.spotify.com/album/6smJTxDxrnxi6fPfFWYSQV"
-      },
-      "artists": [
-        {
-          "name": "Phantogram",
-          "url": "https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH"
-        }
-      ],
-      "duration_ms": 253426,
-      "name": "Mouthful of Diamonds",
-      "url": "https://open.spotify.com/track/6zO0e11RCBnh1w8kjPZpIh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Night Time, My Time",
-        "url": "https://open.spotify.com/album/0DucmDrdJM4evPXMbFJXBS"
-      },
-      "artists": [
-        {
-          "name": "Sky Ferreira",
-          "url": "https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q"
-        }
-      ],
-      "duration_ms": 250120,
-      "name": "Everything Is Embarrassing",
-      "url": "https://open.spotify.com/track/7j3nbSiaWphYU2cFgyQXd9"
+      "duration_ms": 209760,
+      "name": "fineshrine",
+      "url": "https://open.spotify.com/track/5aJmSzmuhLI6fr1Rm0EnkS"
     },
     {
       "added_at": null,
@@ -615,22 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wonderland",
-        "url": "https://open.spotify.com/album/4t57dtdA2o3SMznlCT95uz"
-      },
-      "artists": [
-        {
-          "name": "Pogo",
-          "url": "https://open.spotify.com/artist/1ng3xz2dyz57Z1WpnzM2G7"
-        }
-      ],
-      "duration_ms": 164065,
-      "name": "Alice",
-      "url": "https://open.spotify.com/track/1D2hvzMpIjhSptTvZBCjFU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Voices",
         "url": "https://open.spotify.com/album/4jsK9bhq2NQBabB1tttQYR"
       },
@@ -647,22 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Abyss",
-        "url": "https://open.spotify.com/album/2FQieUp8BxPN7OR8fE76TE"
-      },
-      "artists": [
-        {
-          "name": "Pastel Ghost",
-          "url": "https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "Dark Beach",
-      "url": "https://open.spotify.com/track/7fqjWHXf330QwnfaAWB2Dr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Selected Ambient Works 85-92",
         "url": "https://open.spotify.com/album/7aNclGRxTysfh6z0d8671k"
       },
@@ -675,6 +643,38 @@
       "duration_ms": 293751,
       "name": "Xtal",
       "url": "https://open.spotify.com/track/7o2AeQZzfCERsRmOM86EcB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wonderland",
+        "url": "https://open.spotify.com/album/4t57dtdA2o3SMznlCT95uz"
+      },
+      "artists": [
+        {
+          "name": "Pogo",
+          "url": "https://open.spotify.com/artist/1ng3xz2dyz57Z1WpnzM2G7"
+        }
+      ],
+      "duration_ms": 164065,
+      "name": "Alice",
+      "url": "https://open.spotify.com/track/1D2hvzMpIjhSptTvZBCjFU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Abyss",
+        "url": "https://open.spotify.com/album/2FQieUp8BxPN7OR8fE76TE"
+      },
+      "artists": [
+        {
+          "name": "Pastel Ghost",
+          "url": "https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "Dark Beach",
+      "url": "https://open.spotify.com/track/7fqjWHXf330QwnfaAWB2Dr"
     },
     {
       "added_at": null,
@@ -715,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stay Ugly EP",
-        "url": "https://open.spotify.com/album/4SdrdBBRHRo1CL6u3vJrR7"
-      },
-      "artists": [
-        {
-          "name": "Crim3s",
-          "url": "https://open.spotify.com/artist/1ARDx2oCR7sJEjbnHsbbRU"
-        }
-      ],
-      "duration_ms": 149090,
-      "name": "Stay Ugly",
-      "url": "https://open.spotify.com/track/1s6WVdrN6kz1ly1blsO4d3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Apparitions",
         "url": "https://open.spotify.com/album/0Yn5Yc4qK1wZMhjAJO0uQz"
       },
@@ -747,18 +731,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Crystal Castles",
-        "url": "https://open.spotify.com/album/6rTfUUv8Kefr6Uo3AaecXi"
+        "name": "veil",
+        "url": "https://open.spotify.com/album/5qW1FvS2dys9B2K8c9cscx"
       },
       "artists": [
         {
-          "name": "Crystal Castles",
-          "url": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
+          "name": "akiaura",
+          "url": "https://open.spotify.com/artist/0zilOJ2Ze0FLrQ76cZQaoc"
+        },
+        {
+          "name": "Olya Holiday",
+          "url": "https://open.spotify.com/artist/7yH0tCtttU4pORkXn6rWZS"
         }
       ],
-      "duration_ms": 242960,
-      "name": "Vanished",
-      "url": "https://open.spotify.com/track/4bQ7mjty0UVlKRalhizpGT"
+      "duration_ms": 107776,
+      "name": "veil",
+      "url": "https://open.spotify.com/track/0DEJ2X4QvFGboCAdO5MyXz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stay Ugly EP",
+        "url": "https://open.spotify.com/album/4SdrdBBRHRo1CL6u3vJrR7"
+      },
+      "artists": [
+        {
+          "name": "Crim3s",
+          "url": "https://open.spotify.com/artist/1ARDx2oCR7sJEjbnHsbbRU"
+        }
+      ],
+      "duration_ms": 149090,
+      "name": "Stay Ugly",
+      "url": "https://open.spotify.com/track/1s6WVdrN6kz1ly1blsO4d3"
     },
     {
       "added_at": null,
@@ -795,6 +799,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Crystal Castles",
+        "url": "https://open.spotify.com/album/6rTfUUv8Kefr6Uo3AaecXi"
+      },
+      "artists": [
+        {
+          "name": "Crystal Castles",
+          "url": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
+        }
+      ],
+      "duration_ms": 242960,
+      "name": "Vanished",
+      "url": "https://open.spotify.com/track/4bQ7mjty0UVlKRalhizpGT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Closer To Grey",
         "url": "https://open.spotify.com/album/6A6RTFXwJWesdPhSGnm0tF"
       },
@@ -807,22 +827,6 @@
       "duration_ms": 207578,
       "name": "Twist The Knife",
       "url": "https://open.spotify.com/track/2KVStewnFKCp6gjREeHRDy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Still Goin",
-        "url": "https://open.spotify.com/album/4aElFiEC9RbikZzkjAS49A"
-      },
-      "artists": [
-        {
-          "name": "Crim3s",
-          "url": "https://open.spotify.com/artist/1ARDx2oCR7sJEjbnHsbbRU"
-        }
-      ],
-      "duration_ms": 201290,
-      "name": "Still Goin",
-      "url": "https://open.spotify.com/track/61n8IsQQ2HaE0ech0l21oa"
     },
     {
       "added_at": null,

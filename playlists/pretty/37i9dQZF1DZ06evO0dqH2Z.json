@@ -1,12 +1,12 @@
 {
   "description": "This is Tigers Jaw. The essential tracks, all in one playlist.",
-  "num_followers": 4729,
+  "num_followers": 4735,
   "original_name": "This Is Tigers Jaw",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahORAAAAAAD/zzCyRumtelJvhrt+hwn5",
+  "snapshot_id": "ahTigAAAAADBDONAM9X47lkvFSWVU3G8",
   "tracks": [
     {
       "added_at": null,
@@ -136,9 +136,9 @@
           "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
         }
       ],
-      "duration_ms": 266706,
-      "name": "Crystal Vision",
-      "url": "https://open.spotify.com/track/7EFukKfVHrKBqk5uMvOA6w"
+      "duration_ms": 119133,
+      "name": "We Are Great, There Is Only One (Tigers Jaw)",
+      "url": "https://open.spotify.com/track/0btYefrUbkE9XDtmprpINs"
     },
     {
       "added_at": null,
@@ -200,9 +200,9 @@
           "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
         }
       ],
-      "duration_ms": 119133,
-      "name": "We Are Great, There Is Only One (Tigers Jaw)",
-      "url": "https://open.spotify.com/track/0btYefrUbkE9XDtmprpINs"
+      "duration_ms": 266706,
+      "name": "Crystal Vision",
+      "url": "https://open.spotify.com/track/7EFukKfVHrKBqk5uMvOA6w"
     },
     {
       "added_at": null,
@@ -355,8 +355,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spirit Desire",
-        "url": "https://open.spotify.com/album/2BS5nxXE6hjWQRplpfxrib"
+        "name": "Charmer",
+        "url": "https://open.spotify.com/album/07Sik9LtBbnTI7J3S3WRhI"
       },
       "artists": [
         {
@@ -364,9 +364,9 @@
           "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
         }
       ],
-      "duration_ms": 98213,
-      "name": "Meet at the Corner",
-      "url": "https://open.spotify.com/track/2dEhFo7bGnpxExq03Lh66P"
+      "duration_ms": 207160,
+      "name": "Hum",
+      "url": "https://open.spotify.com/track/1efmAix0BIp3o9tmd4437z"
     },
     {
       "added_at": null,
@@ -387,8 +387,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Charmer",
-        "url": "https://open.spotify.com/album/07Sik9LtBbnTI7J3S3WRhI"
+        "name": "Spirit Desire",
+        "url": "https://open.spotify.com/album/2BS5nxXE6hjWQRplpfxrib"
       },
       "artists": [
         {
@@ -396,9 +396,9 @@
           "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
         }
       ],
-      "duration_ms": 207160,
-      "name": "Hum",
-      "url": "https://open.spotify.com/track/1efmAix0BIp3o9tmd4437z"
+      "duration_ms": 98213,
+      "name": "Meet at the Corner",
+      "url": "https://open.spotify.com/track/2dEhFo7bGnpxExq03Lh66P"
     },
     {
       "added_at": null,
@@ -412,9 +412,25 @@
           "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
         }
       ],
-      "duration_ms": 244986,
-      "name": "Window",
-      "url": "https://open.spotify.com/track/7eVnrWEXTTedaLxDTOYzuV"
+      "duration_ms": 252226,
+      "name": "Guardian",
+      "url": "https://open.spotify.com/track/02GBtzxf70cvt8wxxhKnyG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Charmer",
+        "url": "https://open.spotify.com/album/07Sik9LtBbnTI7J3S3WRhI"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "duration_ms": 175293,
+      "name": "Nervous Kids",
+      "url": "https://open.spotify.com/track/2lVXTGaCiCi4N6POZGrcyh"
     },
     {
       "added_at": null,
@@ -451,22 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Charmer",
-        "url": "https://open.spotify.com/album/07Sik9LtBbnTI7J3S3WRhI"
-      },
-      "artists": [
-        {
-          "name": "Tigers Jaw",
-          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
-        }
-      ],
-      "duration_ms": 175293,
-      "name": "Nervous Kids",
-      "url": "https://open.spotify.com/track/2lVXTGaCiCi4N6POZGrcyh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "spin",
         "url": "https://open.spotify.com/album/2xSppFiPUTWqZ9cdF6CQnY"
       },
@@ -476,9 +476,25 @@
           "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
         }
       ],
-      "duration_ms": 252226,
-      "name": "Guardian",
-      "url": "https://open.spotify.com/track/02GBtzxf70cvt8wxxhKnyG"
+      "duration_ms": 244986,
+      "name": "Window",
+      "url": "https://open.spotify.com/track/7eVnrWEXTTedaLxDTOYzuV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Charmer",
+        "url": "https://open.spotify.com/album/07Sik9LtBbnTI7J3S3WRhI"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "duration_ms": 160213,
+      "name": "Cool",
+      "url": "https://open.spotify.com/track/3WcRJUHkVzgkXkqyz344Dm"
     },
     {
       "added_at": null,
@@ -492,9 +508,9 @@
           "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
         }
       ],
-      "duration_ms": 156089,
-      "name": "Cat's Cradle",
-      "url": "https://open.spotify.com/track/6Wrt1iG9AKqkavwSXh1aNz"
+      "duration_ms": 163924,
+      "name": "Hesitation",
+      "url": "https://open.spotify.com/track/4TZj7XGPf7dG3NmKaNwPY4"
     },
     {
       "added_at": null,
@@ -519,22 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Charmer",
-        "url": "https://open.spotify.com/album/07Sik9LtBbnTI7J3S3WRhI"
-      },
-      "artists": [
-        {
-          "name": "Tigers Jaw",
-          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
-        }
-      ],
-      "duration_ms": 160213,
-      "name": "Cool",
-      "url": "https://open.spotify.com/track/3WcRJUHkVzgkXkqyz344Dm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "spin",
         "url": "https://open.spotify.com/album/2xSppFiPUTWqZ9cdF6CQnY"
       },
@@ -547,38 +547,6 @@
       "duration_ms": 123853,
       "name": "Favorite",
       "url": "https://open.spotify.com/track/7nBCUygrEGaU0Hvr9u6ntW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Won't Care How You Remember Me",
-        "url": "https://open.spotify.com/album/4ZJsQTaRnAMmwAcTvVxxA7"
-      },
-      "artists": [
-        {
-          "name": "Tigers Jaw",
-          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
-        }
-      ],
-      "duration_ms": 163924,
-      "name": "Hesitation",
-      "url": "https://open.spotify.com/track/4TZj7XGPf7dG3NmKaNwPY4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Balance and Composure & Tigers Jaw Split",
-        "url": "https://open.spotify.com/album/5KEwi4kimjyx2CoijJiet3"
-      },
-      "artists": [
-        {
-          "name": "Tigers Jaw",
-          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
-        }
-      ],
-      "duration_ms": 180253,
-      "name": "Lodging",
-      "url": "https://open.spotify.com/track/2VhuYwx3NFIljVMQAxbcIp"
     },
     {
       "added_at": null,
@@ -599,22 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Two Worlds",
-        "url": "https://open.spotify.com/album/6QwYOgquTNb9e3pJklcmqn"
-      },
-      "artists": [
-        {
-          "name": "Tigers Jaw",
-          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
-        }
-      ],
-      "duration_ms": 121933,
-      "name": "Coil/Recoil",
-      "url": "https://open.spotify.com/track/69L8rEPccsIYFOLsVvl5Xs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Won't Care How You Remember Me",
         "url": "https://open.spotify.com/album/4ZJsQTaRnAMmwAcTvVxxA7"
       },
@@ -624,9 +576,41 @@
           "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
         }
       ],
-      "duration_ms": 189578,
-      "name": "Lemon Mouth",
-      "url": "https://open.spotify.com/track/06pB48LiLMGL3nx0rkmdnO"
+      "duration_ms": 156089,
+      "name": "Cat's Cradle",
+      "url": "https://open.spotify.com/track/6Wrt1iG9AKqkavwSXh1aNz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Balance and Composure & Tigers Jaw Split",
+        "url": "https://open.spotify.com/album/5KEwi4kimjyx2CoijJiet3"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "duration_ms": 180253,
+      "name": "Lodging",
+      "url": "https://open.spotify.com/track/2VhuYwx3NFIljVMQAxbcIp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Two Worlds",
+        "url": "https://open.spotify.com/album/6QwYOgquTNb9e3pJklcmqn"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "duration_ms": 100613,
+      "name": "Let Go/Trashed Floors",
+      "url": "https://open.spotify.com/track/64C4L1qeYTwt1POgAVb7xC"
     },
     {
       "added_at": null,
@@ -647,6 +631,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "I Won't Care How You Remember Me",
+        "url": "https://open.spotify.com/album/4ZJsQTaRnAMmwAcTvVxxA7"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "duration_ms": 189578,
+      "name": "Lemon Mouth",
+      "url": "https://open.spotify.com/track/06pB48LiLMGL3nx0rkmdnO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Two Worlds",
         "url": "https://open.spotify.com/album/6QwYOgquTNb9e3pJklcmqn"
       },
@@ -656,9 +656,9 @@
           "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
         }
       ],
-      "duration_ms": 100613,
-      "name": "Let Go/Trashed Floors",
-      "url": "https://open.spotify.com/track/64C4L1qeYTwt1POgAVb7xC"
+      "duration_ms": 121933,
+      "name": "Coil/Recoil",
+      "url": "https://open.spotify.com/track/69L8rEPccsIYFOLsVvl5Xs"
     },
     {
       "added_at": null,

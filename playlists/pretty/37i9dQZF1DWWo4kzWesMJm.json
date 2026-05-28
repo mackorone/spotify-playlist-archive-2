@@ -1,6 +1,6 @@
 {
   "description": "Les meilleurs airs d'autoroute.",
-  "num_followers": 183547,
+  "num_followers": 183558,
   "original_name": "Bleu Blanc Route",
   "owner": {
     "name": "Spotify",
@@ -231,22 +231,6 @@
     {
       "added_at": "2026-04-17 09:45:18",
       "album": {
-        "name": "Un Jour D'\u00e9t\u00e9",
-        "url": "https://open.spotify.com/album/6MFXFliONetu0nByEb7d4w"
-      },
-      "artists": [
-        {
-          "name": "Amel Bent",
-          "url": "https://open.spotify.com/artist/15jZ8OLtnGATWHlQkltG7f"
-        }
-      ],
-      "duration_ms": 203226,
-      "name": "Ma philosophie",
-      "url": "https://open.spotify.com/track/1HOtCYTuOCISpTn9cW6fcz"
-    },
-    {
-      "added_at": "2026-04-17 09:45:18",
-      "album": {
         "name": "C'est d\u00e9j\u00e0 \u00e7a",
         "url": "https://open.spotify.com/album/2aZRmXEvD458ZCk1C0Wdu5"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 324906,
       "name": "Foule sentimentale",
       "url": "https://open.spotify.com/track/2W4ZxAHZAXOf6r65pCskGR"
+    },
+    {
+      "added_at": "2026-04-17 09:45:18",
+      "album": {
+        "name": "Un Jour D'\u00e9t\u00e9",
+        "url": "https://open.spotify.com/album/6MFXFliONetu0nByEb7d4w"
+      },
+      "artists": [
+        {
+          "name": "Amel Bent",
+          "url": "https://open.spotify.com/artist/15jZ8OLtnGATWHlQkltG7f"
+        }
+      ],
+      "duration_ms": 203226,
+      "name": "Ma philosophie",
+      "url": "https://open.spotify.com/track/1HOtCYTuOCISpTn9cW6fcz"
     },
     {
       "added_at": "2026-04-17 09:45:18",
@@ -819,22 +819,6 @@
     {
       "added_at": "2026-04-17 09:45:18",
       "album": {
-        "name": "Repenti",
-        "url": "https://open.spotify.com/album/2LOczhJs15w6n5UbuNm72q"
-      },
-      "artists": [
-        {
-          "name": "Renan Luce",
-          "url": "https://open.spotify.com/artist/7f2jQ928ZRehCJrGGHN46J"
-        }
-      ],
-      "duration_ms": 215813,
-      "name": "Les voisines",
-      "url": "https://open.spotify.com/track/3moelwvWkm8rliDyjywgA1"
-    },
-    {
-      "added_at": "2026-04-17 09:45:18",
-      "album": {
         "name": "De L' Amour Le Mieux",
         "url": "https://open.spotify.com/album/4eSOb60jr7Q9nKQbLZXhCD"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 298960,
       "name": "Tu trouveras",
       "url": "https://open.spotify.com/track/6kaD0ve95sXjnq6EITyVkv"
+    },
+    {
+      "added_at": "2026-04-17 09:45:18",
+      "album": {
+        "name": "Repenti",
+        "url": "https://open.spotify.com/album/2LOczhJs15w6n5UbuNm72q"
+      },
+      "artists": [
+        {
+          "name": "Renan Luce",
+          "url": "https://open.spotify.com/artist/7f2jQ928ZRehCJrGGHN46J"
+        }
+      ],
+      "duration_ms": 215813,
+      "name": "Les voisines",
+      "url": "https://open.spotify.com/track/3moelwvWkm8rliDyjywgA1"
     },
     {
       "added_at": "2026-04-17 09:45:18",
@@ -915,22 +915,6 @@
     {
       "added_at": "2026-04-17 09:45:18",
       "album": {
-        "name": "Regagner Les Plaines",
-        "url": "https://open.spotify.com/album/0fVZHjs0eok4mX37u85MlN"
-      },
-      "artists": [
-        {
-          "name": "Pow Wow",
-          "url": "https://open.spotify.com/artist/3dUQY50ORRByIgHFZHrxJZ"
-        }
-      ],
-      "duration_ms": 178133,
-      "name": "Le lion est mort ce soir",
-      "url": "https://open.spotify.com/track/0hUMKXGkWnvv7VP25otgMM"
-    },
-    {
-      "added_at": "2026-04-17 09:45:18",
-      "album": {
         "name": "Mes Fantaisies",
         "url": "https://open.spotify.com/album/5rkiNd9tXiodpgqaOCXDuu"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 221666,
       "name": "Sur la route",
       "url": "https://open.spotify.com/track/4O1JvKJX1rRjrtZUSoWrkr"
+    },
+    {
+      "added_at": "2026-04-17 09:45:18",
+      "album": {
+        "name": "Regagner Les Plaines",
+        "url": "https://open.spotify.com/album/0fVZHjs0eok4mX37u85MlN"
+      },
+      "artists": [
+        {
+          "name": "Pow Wow",
+          "url": "https://open.spotify.com/artist/3dUQY50ORRByIgHFZHrxJZ"
+        }
+      ],
+      "duration_ms": 178133,
+      "name": "Le lion est mort ce soir",
+      "url": "https://open.spotify.com/track/0hUMKXGkWnvv7VP25otgMM"
     },
     {
       "added_at": "2026-04-17 09:45:18",

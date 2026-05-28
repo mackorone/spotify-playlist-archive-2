@@ -1,12 +1,12 @@
 {
   "description": "This is Julieta Venegas. The essential tracks, all in one playlist.",
-  "num_followers": 243586,
+  "num_followers": 243620,
   "original_name": "This Is Julieta Venegas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahORAAAAAAB6OmXRQELUnS4iTC9w3ivI",
+  "snapshot_id": "ahTigAAAAADNsNBM6PiljOJTj7IxOJNe",
   "tracks": [
     {
       "added_at": null,
@@ -675,46 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cuentito",
-        "url": "https://open.spotify.com/album/5zxLdqam10PFUdmTwlS4cQ"
-      },
-      "artists": [
-        {
-          "name": "El Kuelgue",
-          "url": "https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT"
-        },
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 194826,
-      "name": "La Mirada",
-      "url": "https://open.spotify.com/track/5WVNH596PKYYbZqa7Gj2VI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "HOSHI",
-        "url": "https://open.spotify.com/album/3ZryHVPBurDqxS84K7QXaT"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        },
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 227738,
-      "name": "no queda nada ft. Julieta Venegas",
-      "url": "https://open.spotify.com/track/0A6PRSdC2aCbjSClWyp88x"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Si",
         "url": "https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB"
       },
@@ -747,6 +707,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cuentito",
+        "url": "https://open.spotify.com/album/5zxLdqam10PFUdmTwlS4cQ"
+      },
+      "artists": [
+        {
+          "name": "El Kuelgue",
+          "url": "https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT"
+        },
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 194826,
+      "name": "La Mirada",
+      "url": "https://open.spotify.com/track/5WVNH596PKYYbZqa7Gj2VI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Leb\u00f3n & Co.",
         "url": "https://open.spotify.com/album/2VuiXEQmTm3WcwGVha8wW2"
       },
@@ -767,18 +747,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Todos Somos MAS",
-        "url": "https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20"
+        "name": "HOSHI",
+        "url": "https://open.spotify.com/album/3ZryHVPBurDqxS84K7QXaT"
       },
       "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        },
         {
           "name": "Julieta Venegas",
           "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
         }
       ],
-      "duration_ms": 220253,
-      "name": "Tu C\u00e1rcel",
-      "url": "https://open.spotify.com/track/6DplRnHW9J6ZACqZ2Fxi1Q"
+      "duration_ms": 227738,
+      "name": "no queda nada ft. Julieta Venegas",
+      "url": "https://open.spotify.com/track/0A6PRSdC2aCbjSClWyp88x"
     },
     {
       "added_at": null,
@@ -795,6 +779,22 @@
       "duration_ms": 206080,
       "name": "Terca",
       "url": "https://open.spotify.com/track/7a6fcpRLINBjQMQOKIZxNI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Todos Somos MAS",
+        "url": "https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 220253,
+      "name": "Tu C\u00e1rcel",
+      "url": "https://open.spotify.com/track/6DplRnHW9J6ZACqZ2Fxi1Q"
     },
     {
       "added_at": null,
@@ -839,22 +839,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Te solt\u00e9 la rienda",
-        "url": "https://open.spotify.com/album/1ouxWZyFzEFxtBPOGOmKzp"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 207160,
-      "name": "Te solt\u00e9 la rienda",
-      "url": "https://open.spotify.com/track/28NllT6A5uDaJYJ4HdyFPX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Norte\u00f1a",
         "url": "https://open.spotify.com/album/3VBpaVReuh97r9Fb7gwxUQ"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 193015,
       "name": "Tiempos Dorados",
       "url": "https://open.spotify.com/track/1edLQcE6ygKFJLZR3N8a68"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Te solt\u00e9 la rienda",
+        "url": "https://open.spotify.com/album/1ouxWZyFzEFxtBPOGOmKzp"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 207160,
+      "name": "Te solt\u00e9 la rienda",
+      "url": "https://open.spotify.com/track/28NllT6A5uDaJYJ4HdyFPX"
     },
     {
       "added_at": null,
@@ -911,8 +911,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bueninvento",
-        "url": "https://open.spotify.com/album/0rmEiygdtUfM8jeJ7i1Hvp"
+        "name": "Norte\u00f1a",
+        "url": "https://open.spotify.com/album/3VBpaVReuh97r9Fb7gwxUQ"
       },
       "artists": [
         {
@@ -920,9 +920,9 @@
           "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
         }
       ],
-      "duration_ms": 205466,
-      "name": "Ser\u00eda Feliz",
-      "url": "https://open.spotify.com/track/5vXjOa8QLl65Yoof3bG2C4"
+      "duration_ms": 224533,
+      "name": "Leyendas de Tijuana",
+      "url": "https://open.spotify.com/track/1HTNLvz4UYiFOZOCtAQTUr"
     }
   ],
   "unique_name": "This Is Julieta Venegas",

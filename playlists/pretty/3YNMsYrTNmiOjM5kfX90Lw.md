@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3YNMsYrTNmiOjM5kfX90Lw.md) - [plain]
 
 > Hip\-hop favorites\. Songs distributed by DistroKid, playlist curated by the public\. To vote, head to: distrokid.com/spotlight
 
-[DistroKid](https://open.spotify.com/user/bxv6myddmviz546hlcxia9t5g) - 487,168 likes - 50 songs - 2 hr 46 min
+[DistroKid](https://open.spotify.com/user/bxv6myddmviz546hlcxia9t5g) - 487,291 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/3YNMsYrTNmiOjM5kfX90Lw.md) - [plain]
 | 21 | [Beautiful flowers](https://open.spotify.com/track/1PumCGWnQNPhPnOkCRruC5) | [ItzLuv Shawty](https://open.spotify.com/artist/5rwXv3vbwx2Ahr5ZNdoidn) | [DELIVERANCE](https://open.spotify.com/album/4HsNErPJ7ahAImJkMqYPUj) | 2:07 |
 | 22 | [Karaté](https://open.spotify.com/track/5g6bl0Ghd4JLix1nQ1mUo7) | [Sam Solaro](https://open.spotify.com/artist/72ZAZgLn7h7HK63NTicILE) | [Avant la fin](https://open.spotify.com/album/5P6O6dsDsJ1VN1wD2rmYLJ) | 2:31 |
 | 23 | [Juice](https://open.spotify.com/track/6Gv7aBmUJefvV8GWQrc4wl) | [Shai Gy](https://open.spotify.com/artist/6vGJOsKasQB3HZpsLPTZl8) | [Juice](https://open.spotify.com/album/1fDEUcwVJLPU472G3aimob) | 2:40 |
-| 24 | [Original Golfo](https://open.spotify.com/track/5kUJfGkGWcWfz9qNVp8sLd) | [Furta LieF](https://open.spotify.com/artist/1q7TFy6UJRiulu8m0ZsCzl) | [Original Golfo](https://open.spotify.com/album/2DA2ZjLqdXnOlr8O3vCVaX) | 2:46 |
+| 24 | [Original Golfo](https://open.spotify.com/track/5kUJfGkGWcWfz9qNVp8sLd) | [Furta](https://open.spotify.com/artist/4SqsB8rgLefWwIwjQNlW35) | [Original Golfo](https://open.spotify.com/album/2DA2ZjLqdXnOlr8O3vCVaX) | 2:46 |
 | 25 | [RUN IT UP](https://open.spotify.com/track/1oLORAiOuNTDSlg5BqkI3I) | [Aysend Music](https://open.spotify.com/artist/1XdUNIApBZ3zKyQLssY4tp) | [RUN IT UP](https://open.spotify.com/album/1ulJQJ0gepZYnLyzPB3J91) | 3:09 |
 | 26 | [Ojcowizna](https://open.spotify.com/track/6u8AsRyYw0tqcbv5tYrGpo) | [ArkadyS](https://open.spotify.com/artist/08cd3QEQv6HbkfYDyHIqUN) | [Ojcowizna](https://open.spotify.com/album/08B8yeqAFQZnflqzuaj1Wq) | 5:26 |
 | 27 | [Cradle 2 the Grave](https://open.spotify.com/track/07c5ywoMHO7BDQNNJL8Abl) | [Hnic Pesh](https://open.spotify.com/artist/1AVT1YTY1u4rEtd6wBpb2D), [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA) | [China White](https://open.spotify.com/album/48iUKf6Ci4Cs0aKeYA0HGC) | 4:08 |

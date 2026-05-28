@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvEFX6xtoQd.md) - [plain]
 
 > 528 Hz solfeggio frequencies used by many to activate positive energy
 
-[Spotify](https://open.spotify.com/user/spotify) - 338,857 likes - 163 songs - 7 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 339,120 likes - 163 songs - 7 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

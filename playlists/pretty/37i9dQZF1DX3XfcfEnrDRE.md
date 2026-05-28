@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XfcfEnrDRE.md) - [plain]
 
 > Songs representing Alternative music's ever\-evolving sound paired with these artists' everlasting faith\.  Cover: Hopeful.
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,071 likes - 75 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,116 likes - 75 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XfcfEnrDRE.md) - [plain]
 | 74 | [You Started Fires](https://open.spotify.com/track/7MSAzuFE518IbCEei4grXh) | [James Paek](https://open.spotify.com/artist/2TSvKiWhpJaQ6m2zhhA7rz) | [You Started Fires](https://open.spotify.com/album/5GXntm7xZ56kwUBcbJDphV) | 2:49 |
 | 75 | [Like A Branch](https://open.spotify.com/track/4y8Wk5PoOBDzwV28dzbWDW) | [Living Again](https://open.spotify.com/artist/4wQNGiwWYW2XFrSSPRdpI6) | [Like A Branch](https://open.spotify.com/album/49SOAzWIFEzXKTbyudAraE) | 4:42 |
 
-Snapshot ID: `AAAAAJ2oGyxIXPe9s3WleKaEMO1n/uv2`
+Snapshot ID: `AAAAANN3ht3x5U4dXXccCFTsMsbQECLt`

@@ -1,12 +1,12 @@
 {
   "description": "This is Valerie June. The essential tracks, all in one playlist.",
-  "num_followers": 16765,
+  "num_followers": 16766,
   "original_name": "This Is Valerie June",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahORAAAAAAByvix31qTNg0d64JAQ2X7O",
+  "snapshot_id": "ahTigAAAAAB+AaCquXnBzfY5Xmuv2FLM",
   "tracks": [
     {
       "added_at": null,
@@ -236,9 +236,9 @@
           "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
         }
       ],
-      "duration_ms": 244146,
-      "name": "Slip Slide On By",
-      "url": "https://open.spotify.com/track/3TEojRdSXcNyaDXZDqlr31"
+      "duration_ms": 166440,
+      "name": "Shakedown",
+      "url": "https://open.spotify.com/track/6vyVxWBHLIqNdhy4IGz1LN"
     },
     {
       "added_at": null,
@@ -300,9 +300,9 @@
           "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
         }
       ],
-      "duration_ms": 166440,
-      "name": "Shakedown",
-      "url": "https://open.spotify.com/track/6vyVxWBHLIqNdhy4IGz1LN"
+      "duration_ms": 244146,
+      "name": "Slip Slide On By",
+      "url": "https://open.spotify.com/track/3TEojRdSXcNyaDXZDqlr31"
     },
     {
       "added_at": null,
@@ -503,22 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Runnin' and Searchin'",
-        "url": "https://open.spotify.com/album/3eBwjqDE4nQ6MTcgCXh4nI"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 186646,
-      "name": "Runnin' and Searchin'",
-      "url": "https://open.spotify.com/track/1WVXw5ovf3sTglDGnaSS91"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Moon And Stars: Prescriptions For Dreamers",
         "url": "https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 259799,
       "name": "Colors",
       "url": "https://open.spotify.com/track/0yVv3bVTl6VRiBJ1qSAWU3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Runnin' and Searchin'",
+        "url": "https://open.spotify.com/album/3eBwjqDE4nQ6MTcgCXh4nI"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 186646,
+      "name": "Runnin' and Searchin'",
+      "url": "https://open.spotify.com/track/1WVXw5ovf3sTglDGnaSS91"
     },
     {
       "added_at": null,
@@ -567,22 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pushin' Against A Stone",
-        "url": "https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 314320,
-      "name": "Pushin\u2019 Against A Stone",
-      "url": "https://open.spotify.com/track/0DhXt0ky95iGN2uhP41Nv3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Moon And Stars: Prescriptions For Dreamers",
         "url": "https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 181786,
       "name": "Stay",
       "url": "https://open.spotify.com/track/0lXhdx5FL08z86AjpYPqRo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pushin' Against A Stone",
+        "url": "https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 314320,
+      "name": "Pushin\u2019 Against A Stone",
+      "url": "https://open.spotify.com/track/0DhXt0ky95iGN2uhP41Nv3"
     },
     {
       "added_at": null,
@@ -719,26 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Traveler's Soul",
-        "url": "https://open.spotify.com/album/5vqWpNKeUOfzYTyoeQoCly"
-      },
-      "artists": [
-        {
-          "name": "Blues Traveler",
-          "url": "https://open.spotify.com/artist/3pHeBYl1yujXcZqqfF1UyQ"
-        },
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 248440,
-      "name": "I Can't Stand the Rain",
-      "url": "https://open.spotify.com/track/2ueEb5EeFRF2vINyQ5bP9x"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cheese (feat. PawPaw Rod & Valerie June)",
         "url": "https://open.spotify.com/album/3qSABvJGms0qKHNI6aqYov"
       },
@@ -759,6 +739,26 @@
       "duration_ms": 229525,
       "name": "Cheese (feat. PawPaw Rod & Valerie June)",
       "url": "https://open.spotify.com/track/4IttML3TgHecmpPe0Ytffs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Traveler's Soul",
+        "url": "https://open.spotify.com/album/5vqWpNKeUOfzYTyoeQoCly"
+      },
+      "artists": [
+        {
+          "name": "Blues Traveler",
+          "url": "https://open.spotify.com/artist/3pHeBYl1yujXcZqqfF1UyQ"
+        },
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 248440,
+      "name": "I Can't Stand the Rain",
+      "url": "https://open.spotify.com/track/2ueEb5EeFRF2vINyQ5bP9x"
     },
     {
       "added_at": null,
@@ -819,30 +819,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ain't Gonna Let Nobody Turn Me 'Round",
-        "url": "https://open.spotify.com/album/0vKVm6BzOYeKcjBXmeyBNL"
-      },
-      "artists": [
-        {
-          "name": "Paula Boggs Band",
-          "url": "https://open.spotify.com/artist/00vtUBkRansXWuoZ8XBTjv"
-        },
-        {
-          "name": "The Blind Boys Of Alabama",
-          "url": "https://open.spotify.com/artist/5TVL4FXEntBYZb3ujyt6fH"
-        },
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 169374,
-      "name": "Ain't Gonna Let Nobody Turn Me 'Round",
-      "url": "https://open.spotify.com/track/4cBLEBRM8SqBlZ9o6JKie3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Broken Hearts & Dirty Windows: Songs of John Prine, Vol. 2",
         "url": "https://open.spotify.com/album/1zeu2tjunNLjS6rWNWCZ70"
       },
@@ -871,6 +847,30 @@
       "duration_ms": 171693,
       "name": "Sure to Fall",
       "url": "https://open.spotify.com/track/13RQs1T5nEDGq5JVBFHJEo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ain't Gonna Let Nobody Turn Me 'Round",
+        "url": "https://open.spotify.com/album/0vKVm6BzOYeKcjBXmeyBNL"
+      },
+      "artists": [
+        {
+          "name": "Paula Boggs Band",
+          "url": "https://open.spotify.com/artist/00vtUBkRansXWuoZ8XBTjv"
+        },
+        {
+          "name": "The Blind Boys Of Alabama",
+          "url": "https://open.spotify.com/artist/5TVL4FXEntBYZb3ujyt6fH"
+        },
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 169374,
+      "name": "Ain't Gonna Let Nobody Turn Me 'Round",
+      "url": "https://open.spotify.com/track/4cBLEBRM8SqBlZ9o6JKie3"
     }
   ],
   "unique_name": "This Is Valerie June",

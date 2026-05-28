@@ -1,6 +1,6 @@
 {
   "description": "Enjoy the wonderful holiday season with K-Pop! (Cover: DAY6(\ub370\uc774\uc2dd\uc2a4))",
-  "num_followers": 153472,
+  "num_followers": 153450,
   "original_name": "Christmas K-Pop (\ud06c\ub9ac\uc2a4\ub9c8\uc2a4 \ucf00\uc774\ud31d)",
   "owner": {
     "name": "Spotify",
@@ -431,22 +431,6 @@
     {
       "added_at": "2026-01-20 05:01:24",
       "album": {
-        "name": "JOY - SM STATION",
-        "url": "https://open.spotify.com/album/5UkUr57L6X1gopnzG1dyBa"
-      },
-      "artists": [
-        {
-          "name": "NCT DREAM",
-          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
-        }
-      ],
-      "duration_ms": 178534,
-      "name": "JOY",
-      "url": "https://open.spotify.com/track/3I4pgDhMKp6Sww3lTxyg8X"
-    },
-    {
-      "added_at": "2026-01-20 05:01:24",
-      "album": {
         "name": "\ud654\uc774\ud2b8 (White)",
         "url": "https://open.spotify.com/album/6XC2Ye4NSWrU3jD78gle0g"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 195000,
       "name": "\ud654\uc774\ud2b8 (White)",
       "url": "https://open.spotify.com/track/7mM9TUk0UaqMegqgc3H4y9"
+    },
+    {
+      "added_at": "2026-01-20 05:01:24",
+      "album": {
+        "name": "JOY - SM STATION",
+        "url": "https://open.spotify.com/album/5UkUr57L6X1gopnzG1dyBa"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        }
+      ],
+      "duration_ms": 178534,
+      "name": "JOY",
+      "url": "https://open.spotify.com/track/3I4pgDhMKp6Sww3lTxyg8X"
     },
     {
       "added_at": "2026-01-20 05:01:24",
@@ -795,6 +795,22 @@
     {
       "added_at": "2026-01-20 05:01:24",
       "album": {
+        "name": "Gift For You",
+        "url": "https://open.spotify.com/album/3ufRFSgwF6xWlczCYmpTS6"
+      },
+      "artists": [
+        {
+          "name": "WEi",
+          "url": "https://open.spotify.com/artist/7IkfFdVcI6HrRKuOO9NvX5"
+        }
+      ],
+      "duration_ms": 213986,
+      "name": "Gift For You",
+      "url": "https://open.spotify.com/track/7IEgrgGqJ7TxJN9v57acIC"
+    },
+    {
+      "added_at": "2026-01-20 05:01:24",
+      "album": {
         "name": "Peppermint Tea",
         "url": "https://open.spotify.com/album/4KIcPdqYeP6PIvzGvJGcVZ"
       },
@@ -847,22 +863,6 @@
     {
       "added_at": "2026-01-20 05:01:24",
       "album": {
-        "name": "Christmas Promises",
-        "url": "https://open.spotify.com/album/17v4k2kHnaVSMDHD4Mnym1"
-      },
-      "artists": [
-        {
-          "name": "CHUNG HA",
-          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
-        }
-      ],
-      "duration_ms": 188053,
-      "name": "Sleigh",
-      "url": "https://open.spotify.com/track/2aQOWXdQRnmfcQaFcWyidG"
-    },
-    {
-      "added_at": "2026-01-20 05:01:24",
-      "album": {
         "name": "This Christmas \u2013 Winter is Coming",
         "url": "https://open.spotify.com/album/1U3KyC9Key12NSi9ETVExx"
       },
@@ -879,18 +879,18 @@
     {
       "added_at": "2026-01-20 05:01:24",
       "album": {
-        "name": "Gift For You",
-        "url": "https://open.spotify.com/album/3ufRFSgwF6xWlczCYmpTS6"
+        "name": "Christmas Promises",
+        "url": "https://open.spotify.com/album/17v4k2kHnaVSMDHD4Mnym1"
       },
       "artists": [
         {
-          "name": "WEi",
-          "url": "https://open.spotify.com/artist/7IkfFdVcI6HrRKuOO9NvX5"
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
         }
       ],
-      "duration_ms": 213986,
-      "name": "Gift For You",
-      "url": "https://open.spotify.com/track/7IEgrgGqJ7TxJN9v57acIC"
+      "duration_ms": 188053,
+      "name": "Sleigh",
+      "url": "https://open.spotify.com/track/2aQOWXdQRnmfcQaFcWyidG"
     },
     {
       "added_at": "2026-01-20 05:01:24",
@@ -1607,6 +1607,22 @@
     {
       "added_at": "2026-01-20 05:01:24",
       "album": {
+        "name": "Home Alone",
+        "url": "https://open.spotify.com/album/0bMqLF8krN1CGAdm6L9GbA"
+      },
+      "artists": [
+        {
+          "name": "cylinder",
+          "url": "https://open.spotify.com/artist/4ydjJObKbtpABiTRVFh2mx"
+        }
+      ],
+      "duration_ms": 190973,
+      "name": "Winter Theater",
+      "url": "https://open.spotify.com/track/60nU1fMu2yelgc1TN83Eop"
+    },
+    {
+      "added_at": "2026-01-20 05:01:24",
+      "album": {
         "name": "Christmas Rose",
         "url": "https://open.spotify.com/album/2vWcgcfBxlPZIU9rYqob9o"
       },
@@ -1623,22 +1639,6 @@
       "duration_ms": 223200,
       "name": "Christmas Rose (feat. LEEBADA)",
       "url": "https://open.spotify.com/track/4afAaodCYQK0rAW3tTvl8s"
-    },
-    {
-      "added_at": "2026-01-20 05:01:24",
-      "album": {
-        "name": "Home Alone",
-        "url": "https://open.spotify.com/album/0bMqLF8krN1CGAdm6L9GbA"
-      },
-      "artists": [
-        {
-          "name": "cylinder",
-          "url": "https://open.spotify.com/artist/4ydjJObKbtpABiTRVFh2mx"
-        }
-      ],
-      "duration_ms": 190973,
-      "name": "Winter Theater",
-      "url": "https://open.spotify.com/track/60nU1fMu2yelgc1TN83Eop"
     },
     {
       "added_at": "2026-01-20 05:01:24",
@@ -1715,6 +1715,22 @@
     {
       "added_at": "2026-01-20 05:01:24",
       "album": {
+        "name": "My Favorite Winter",
+        "url": "https://open.spotify.com/album/6zF9RvcFJOgl4GV4ySUmUp"
+      },
+      "artists": [
+        {
+          "name": "Jung Seung Hwan",
+          "url": "https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng"
+        }
+      ],
+      "duration_ms": 229386,
+      "name": "My Favorite Winter",
+      "url": "https://open.spotify.com/track/4eTFVwwrGhIeS8NqwEBWZP"
+    },
+    {
+      "added_at": "2026-01-20 05:01:24",
+      "album": {
         "name": "Christmas Love",
         "url": "https://open.spotify.com/album/7iTnFSQCuTl8j5XenUsOu3"
       },
@@ -1731,18 +1747,26 @@
     {
       "added_at": "2026-01-20 05:01:24",
       "album": {
-        "name": "My Favorite Winter",
-        "url": "https://open.spotify.com/album/6zF9RvcFJOgl4GV4ySUmUp"
+        "name": "White Christmas",
+        "url": "https://open.spotify.com/album/2zxcBkQRkiHohhsc3yLJCR"
       },
       "artists": [
         {
-          "name": "Jung Seung Hwan",
-          "url": "https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng"
+          "name": "LeeBoram (seeya)",
+          "url": "https://open.spotify.com/artist/1ZMb9j2ssGDvUY2ZcwWijW"
+        },
+        {
+          "name": "Punch",
+          "url": "https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm"
+        },
+        {
+          "name": "Baekyebin",
+          "url": "https://open.spotify.com/artist/12Uoy7i814uNVhoCaz6pQW"
         }
       ],
-      "duration_ms": 229386,
-      "name": "My Favorite Winter",
-      "url": "https://open.spotify.com/track/4eTFVwwrGhIeS8NqwEBWZP"
+      "duration_ms": 227460,
+      "name": "White Christmas",
+      "url": "https://open.spotify.com/track/7fBkbMzxZ4XQvCrLRVuR6O"
     },
     {
       "added_at": "2026-01-20 05:01:24",
@@ -1795,42 +1819,26 @@
     {
       "added_at": "2026-01-20 05:01:24",
       "album": {
-        "name": "White Christmas",
-        "url": "https://open.spotify.com/album/2zxcBkQRkiHohhsc3yLJCR"
+        "name": "Christmas is Coming",
+        "url": "https://open.spotify.com/album/02vzxxDPtbNmqeQx2XHWlH"
       },
       "artists": [
         {
-          "name": "LeeBoram (seeya)",
-          "url": "https://open.spotify.com/artist/1ZMb9j2ssGDvUY2ZcwWijW"
+          "name": "Dept",
+          "url": "https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U"
         },
         {
-          "name": "Punch",
-          "url": "https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm"
+          "name": "Kelsey Kuan",
+          "url": "https://open.spotify.com/artist/4aWzckAj2ZOeSBbLyYXtR9"
         },
         {
-          "name": "Baekyebin",
-          "url": "https://open.spotify.com/artist/12Uoy7i814uNVhoCaz6pQW"
+          "name": "prettyhappy",
+          "url": "https://open.spotify.com/artist/3doCkojWogBLg7PlYwaiG5"
         }
       ],
-      "duration_ms": 227460,
-      "name": "White Christmas",
-      "url": "https://open.spotify.com/track/7fBkbMzxZ4XQvCrLRVuR6O"
-    },
-    {
-      "added_at": "2026-01-20 05:01:24",
-      "album": {
-        "name": "Heart of Christmas",
-        "url": "https://open.spotify.com/album/3sxmlVVLg13aeHgF7my55P"
-      },
-      "artists": [
-        {
-          "name": "SAAY",
-          "url": "https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Heart of Christmas",
-      "url": "https://open.spotify.com/track/3WTzne8ZV3nZmaf3gDsq6a"
+      "duration_ms": 206520,
+      "name": "Christmas is Coming (feat. Kelsey Kuan & prettyhappy)",
+      "url": "https://open.spotify.com/track/2CiRzMXe6uk1RmDHLADsOx"
     }
   ],
   "unique_name": "Christmas K-Pop (\ud06c\ub9ac\uc2a4\ub9c8\uc2a4 \ucf00\uc774\ud31d)",

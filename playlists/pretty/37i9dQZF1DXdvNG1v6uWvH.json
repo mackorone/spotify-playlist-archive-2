@@ -1,6 +1,6 @@
 {
   "description": "Loksins New Music Friday! N\u00fd t\u00f3nlist Of Charli XCX, Olivia Rodrigo og m\u00f6rgum fleiri!",
-  "num_followers": 9648,
+  "num_followers": 9652,
   "original_name": "New Music Friday Iceland",
   "owner": {
     "name": "Spotify",
@@ -443,22 +443,6 @@
     {
       "added_at": "2026-05-22 00:00:21",
       "album": {
-        "name": "Sulfur Surfer",
-        "url": "https://open.spotify.com/album/0ZegzmzVWw6wVsSeXK3OQE"
-      },
-      "artists": [
-        {
-          "name": "Bladee",
-          "url": "https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1"
-        }
-      ],
-      "duration_ms": 217672,
-      "name": "Versailles Flow",
-      "url": "https://open.spotify.com/track/2T1utvioehcgYAtQ6hjPOd"
-    },
-    {
-      "added_at": "2026-05-22 00:00:21",
-      "album": {
         "name": "Better Times (feat. BARBZ)",
         "url": "https://open.spotify.com/album/2mmC7pH9VfseFT0xc0Byaq"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 188972,
       "name": "Better Times (feat. BARBZ)",
       "url": "https://open.spotify.com/track/3rzMJ9GVogl8CtcrxHRnIH"
+    },
+    {
+      "added_at": "2026-05-22 00:00:21",
+      "album": {
+        "name": "Sulfur Surfer",
+        "url": "https://open.spotify.com/album/0ZegzmzVWw6wVsSeXK3OQE"
+      },
+      "artists": [
+        {
+          "name": "Bladee",
+          "url": "https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1"
+        }
+      ],
+      "duration_ms": 217672,
+      "name": "Versailles Flow",
+      "url": "https://open.spotify.com/track/2T1utvioehcgYAtQ6hjPOd"
     },
     {
       "added_at": "2026-05-22 00:00:21",
@@ -531,38 +531,6 @@
     {
       "added_at": "2026-05-22 00:00:21",
       "album": {
-        "name": "Pretty Little Things",
-        "url": "https://open.spotify.com/album/69UHydI2nE7iN0Idu3Apb7"
-      },
-      "artists": [
-        {
-          "name": "Lauv",
-          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
-        }
-      ],
-      "duration_ms": 171304,
-      "name": "Pretty Little Things",
-      "url": "https://open.spotify.com/track/4cxp9FkxuUqcNxvgnfVKju"
-    },
-    {
-      "added_at": "2026-05-22 00:00:21",
-      "album": {
-        "name": "New York Confident",
-        "url": "https://open.spotify.com/album/4oDktJNg53nfidIcdeU1k2"
-      },
-      "artists": [
-        {
-          "name": "Mark Ambor",
-          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
-        }
-      ],
-      "duration_ms": 147394,
-      "name": "New York Confident",
-      "url": "https://open.spotify.com/track/5cILqtT5F6B35u7sawG9FR"
-    },
-    {
-      "added_at": "2026-05-22 00:00:21",
-      "album": {
         "name": "The Waves (feat. Solann)",
         "url": "https://open.spotify.com/album/2xhsIO7LVY0B6ELCQgiupH"
       },
@@ -583,6 +551,22 @@
     {
       "added_at": "2026-05-22 00:00:21",
       "album": {
+        "name": "Pretty Little Things",
+        "url": "https://open.spotify.com/album/69UHydI2nE7iN0Idu3Apb7"
+      },
+      "artists": [
+        {
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        }
+      ],
+      "duration_ms": 171304,
+      "name": "Pretty Little Things",
+      "url": "https://open.spotify.com/track/4cxp9FkxuUqcNxvgnfVKju"
+    },
+    {
+      "added_at": "2026-05-22 00:00:21",
+      "album": {
         "name": "Memory Lane",
         "url": "https://open.spotify.com/album/4Sc0Ukf5A9uRZuukFUPx78"
       },
@@ -599,6 +583,22 @@
     {
       "added_at": "2026-05-22 00:00:21",
       "album": {
+        "name": "New York Confident",
+        "url": "https://open.spotify.com/album/4oDktJNg53nfidIcdeU1k2"
+      },
+      "artists": [
+        {
+          "name": "Mark Ambor",
+          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
+        }
+      ],
+      "duration_ms": 147394,
+      "name": "New York Confident",
+      "url": "https://open.spotify.com/track/5cILqtT5F6B35u7sawG9FR"
+    },
+    {
+      "added_at": "2026-05-22 00:00:21",
+      "album": {
         "name": "Skin",
         "url": "https://open.spotify.com/album/39reMRtfodkliiyAANelxs"
       },
@@ -611,6 +611,22 @@
       "duration_ms": 180172,
       "name": "Skin",
       "url": "https://open.spotify.com/track/58HVudmVLO9xJRzIB73Q10"
+    },
+    {
+      "added_at": "2026-05-22 00:00:21",
+      "album": {
+        "name": "Ms. Tundra",
+        "url": "https://open.spotify.com/album/4n0zxIykuH6Wro23CrbIkS"
+      },
+      "artists": [
+        {
+          "name": "Ne-Yo",
+          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Ms. Tundra",
+      "url": "https://open.spotify.com/track/07In5jCHBpsenzn9dB6ktS"
     },
     {
       "added_at": "2026-05-22 00:00:21",
@@ -635,38 +651,6 @@
     {
       "added_at": "2026-05-22 00:00:21",
       "album": {
-        "name": "Ms. Tundra",
-        "url": "https://open.spotify.com/album/4n0zxIykuH6Wro23CrbIkS"
-      },
-      "artists": [
-        {
-          "name": "Ne-Yo",
-          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Ms. Tundra",
-      "url": "https://open.spotify.com/track/07In5jCHBpsenzn9dB6ktS"
-    },
-    {
-      "added_at": "2026-05-22 00:00:21",
-      "album": {
-        "name": "Lovebites",
-        "url": "https://open.spotify.com/album/5PjXhp79Cl4FB7qCDOkm4V"
-      },
-      "artists": [
-        {
-          "name": "Luvcat",
-          "url": "https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "Silent Killer",
-      "url": "https://open.spotify.com/track/30GeuZLcq4ORyG1mf5JeYT"
-    },
-    {
-      "added_at": "2026-05-22 00:00:21",
-      "album": {
         "name": "Annihilation",
         "url": "https://open.spotify.com/album/6y9alfpegbSRAG98P91Nk0"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 187384,
       "name": "Annihilation",
       "url": "https://open.spotify.com/track/42qH7RSRQBvrMiKfKNkUto"
+    },
+    {
+      "added_at": "2026-05-22 00:00:21",
+      "album": {
+        "name": "Lovebites",
+        "url": "https://open.spotify.com/album/5PjXhp79Cl4FB7qCDOkm4V"
+      },
+      "artists": [
+        {
+          "name": "Luvcat",
+          "url": "https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "Silent Killer",
+      "url": "https://open.spotify.com/track/30GeuZLcq4ORyG1mf5JeYT"
     },
     {
       "added_at": "2026-05-22 00:00:21",
@@ -807,26 +807,6 @@
     {
       "added_at": "2026-05-22 00:00:21",
       "album": {
-        "name": "HYPE",
-        "url": "https://open.spotify.com/album/0rekevcYYxTEEgoAxYlNrd"
-      },
-      "artists": [
-        {
-          "name": "Darude",
-          "url": "https://open.spotify.com/artist/0LhHRmSd1EYM5QdNeNnCoQ"
-        },
-        {
-          "name": "Mashd N Kutcher",
-          "url": "https://open.spotify.com/artist/0G5lZVxoMwoY8oV6zR8E7k"
-        }
-      ],
-      "duration_ms": 185454,
-      "name": "HYPE",
-      "url": "https://open.spotify.com/track/6k7QsqmyWc9Y2G2VXB6fTw"
-    },
-    {
-      "added_at": "2026-05-22 00:00:21",
-      "album": {
         "name": "Saw You Dancing (feat. Mekdes)",
         "url": "https://open.spotify.com/album/3chlnAnMEJFNWkF3AI3gvS"
       },
@@ -843,6 +823,26 @@
       "duration_ms": 203549,
       "name": "Saw You Dancing (feat. Mekdes)",
       "url": "https://open.spotify.com/track/6m22lzMOpPaYDvksxbGyxB"
+    },
+    {
+      "added_at": "2026-05-22 00:00:21",
+      "album": {
+        "name": "HYPE",
+        "url": "https://open.spotify.com/album/0rekevcYYxTEEgoAxYlNrd"
+      },
+      "artists": [
+        {
+          "name": "Darude",
+          "url": "https://open.spotify.com/artist/0LhHRmSd1EYM5QdNeNnCoQ"
+        },
+        {
+          "name": "Mashd N Kutcher",
+          "url": "https://open.spotify.com/artist/0G5lZVxoMwoY8oV6zR8E7k"
+        }
+      ],
+      "duration_ms": 185454,
+      "name": "HYPE",
+      "url": "https://open.spotify.com/track/6k7QsqmyWc9Y2G2VXB6fTw"
     },
     {
       "added_at": "2026-05-22 00:00:21",
@@ -879,22 +879,6 @@
     {
       "added_at": "2026-05-22 00:00:21",
       "album": {
-        "name": "Santa Fe",
-        "url": "https://open.spotify.com/album/6nkpLrf14CdKLAAno5dRsl"
-      },
-      "artists": [
-        {
-          "name": "Esther",
-          "url": "https://open.spotify.com/artist/3POjAYvvEzzCFAWm4uHEza"
-        }
-      ],
-      "duration_ms": 219730,
-      "name": "Santa Fe",
-      "url": "https://open.spotify.com/track/1p2TGUwoOr7oimoicT8O5q"
-    },
-    {
-      "added_at": "2026-05-22 00:00:21",
-      "album": {
         "name": "Untouched (feat. The Veronicas)",
         "url": "https://open.spotify.com/album/5Cvz9SgkkwHuy8G302pmsx"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 182571,
       "name": "Untouched (feat. The Veronicas)",
       "url": "https://open.spotify.com/track/3oXTMVnWGWLY4mzTFhc7PN"
+    },
+    {
+      "added_at": "2026-05-22 00:00:21",
+      "album": {
+        "name": "Santa Fe",
+        "url": "https://open.spotify.com/album/6nkpLrf14CdKLAAno5dRsl"
+      },
+      "artists": [
+        {
+          "name": "Esther",
+          "url": "https://open.spotify.com/artist/3POjAYvvEzzCFAWm4uHEza"
+        }
+      ],
+      "duration_ms": 219730,
+      "name": "Santa Fe",
+      "url": "https://open.spotify.com/track/1p2TGUwoOr7oimoicT8O5q"
     },
     {
       "added_at": "2026-05-22 00:00:21",
@@ -947,22 +947,6 @@
     {
       "added_at": "2026-05-22 00:00:21",
       "album": {
-        "name": "Play",
-        "url": "https://open.spotify.com/album/4mveLQ3t7GKHwuKDShwgzx"
-      },
-      "artists": [
-        {
-          "name": "A Good Year",
-          "url": "https://open.spotify.com/artist/30F8R1qAerw8VvYtRGGg0j"
-        }
-      ],
-      "duration_ms": 128842,
-      "name": "Right Back",
-      "url": "https://open.spotify.com/track/5Zb0Y2rONP2gj3QAjiBP30"
-    },
-    {
-      "added_at": "2026-05-22 00:00:21",
-      "album": {
         "name": "Tiny Person",
         "url": "https://open.spotify.com/album/7oCfXasA5W5s6n31vqnSfI"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 163308,
       "name": "Tiny Person",
       "url": "https://open.spotify.com/track/6W66BboJhJDgPPACiMhkrC"
+    },
+    {
+      "added_at": "2026-05-22 00:00:21",
+      "album": {
+        "name": "Play",
+        "url": "https://open.spotify.com/album/4mveLQ3t7GKHwuKDShwgzx"
+      },
+      "artists": [
+        {
+          "name": "A Good Year",
+          "url": "https://open.spotify.com/artist/30F8R1qAerw8VvYtRGGg0j"
+        }
+      ],
+      "duration_ms": 128842,
+      "name": "Right Back",
+      "url": "https://open.spotify.com/track/5Zb0Y2rONP2gj3QAjiBP30"
     },
     {
       "added_at": "2026-05-22 00:00:21",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2026-05-22 00:00:21",
       "album": {
+        "name": "Too Slow Bro",
+        "url": "https://open.spotify.com/album/1Cr7zKhCESUhqmYpO8Masw"
+      },
+      "artists": [
+        {
+          "name": "Kinck",
+          "url": "https://open.spotify.com/artist/3WIqCpjYUrR2Bt9rFYNaej"
+        }
+      ],
+      "duration_ms": 135479,
+      "name": "Too Slow Bro",
+      "url": "https://open.spotify.com/track/7kysha9vnkFUydZsxKyXzi"
+    },
+    {
+      "added_at": "2026-05-22 00:00:21",
+      "album": {
         "name": "G.L.I.M.T.",
         "url": "https://open.spotify.com/album/7t5Dnjfz1R4owhDi79JHdM"
       },
@@ -1095,22 +1111,6 @@
       "duration_ms": 154000,
       "name": "G.L.I.M.T.",
       "url": "https://open.spotify.com/track/2IVq59QYVCuckYMoaIu8nE"
-    },
-    {
-      "added_at": "2026-05-22 00:00:21",
-      "album": {
-        "name": "Too Slow Bro",
-        "url": "https://open.spotify.com/album/1Cr7zKhCESUhqmYpO8Masw"
-      },
-      "artists": [
-        {
-          "name": "Kinck",
-          "url": "https://open.spotify.com/artist/3WIqCpjYUrR2Bt9rFYNaej"
-        }
-      ],
-      "duration_ms": 135479,
-      "name": "Too Slow Bro",
-      "url": "https://open.spotify.com/track/7kysha9vnkFUydZsxKyXzi"
     },
     {
       "added_at": "2026-05-22 00:00:21",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2026-05-22 00:00:21",
       "album": {
-        "name": "Sir' Det Bar' (Fra DR Ultra's \"Sir' Det Bar'\")",
-        "url": "https://open.spotify.com/album/1kZVdCf3LbTFpmHRDeKdkR"
-      },
-      "artists": [
-        {
-          "name": "DR Ultra",
-          "url": "https://open.spotify.com/artist/7zeDWg1bvq7K5Ry8p0HVrI"
-        }
-      ],
-      "duration_ms": 136571,
-      "name": "Ta' Min H\u00e5nd",
-      "url": "https://open.spotify.com/track/1y3f3Pk3tZeJJEBb0RYRGe"
-    },
-    {
-      "added_at": "2026-05-22 00:00:21",
-      "album": {
         "name": "Ripe Fruit",
         "url": "https://open.spotify.com/album/0OrAuKQZzutYGtwCM3NxMt"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 147567,
       "name": "Ripe Fruit",
       "url": "https://open.spotify.com/track/0AK4ZWwx7qkQQun81rynKw"
+    },
+    {
+      "added_at": "2026-05-22 00:00:21",
+      "album": {
+        "name": "Sir' Det Bar' (Fra DR Ultra's \"Sir' Det Bar'\")",
+        "url": "https://open.spotify.com/album/1kZVdCf3LbTFpmHRDeKdkR"
+      },
+      "artists": [
+        {
+          "name": "DR Ultra",
+          "url": "https://open.spotify.com/artist/7zeDWg1bvq7K5Ry8p0HVrI"
+        }
+      ],
+      "duration_ms": 136571,
+      "name": "Ta' Min H\u00e5nd",
+      "url": "https://open.spotify.com/track/1y3f3Pk3tZeJJEBb0RYRGe"
     },
     {
       "added_at": "2026-05-22 00:00:21",

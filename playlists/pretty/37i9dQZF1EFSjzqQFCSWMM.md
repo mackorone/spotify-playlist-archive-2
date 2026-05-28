@@ -87,12 +87,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSjzqQFCSWMM.md) - [plain]
 | 77 | [People Die Everyday](https://open.spotify.com/track/5ik4LwrrEvbmtxw7runtXW) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [LOONY](https://open.spotify.com/album/4HGuhgVXgR2cgRPehibgpy) | 2:45 |
 | 78 | [25 & Whyln](https://open.spotify.com/track/5odinvHa3W2Vb2iBX1f6am) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW) | [C.C.W.M.T.T.](https://open.spotify.com/album/72ngHxTrw6AJuDBPlZhnX2) | 11:18 |
 | 79 | [BLACK SHEEP OUTRO](https://open.spotify.com/track/21MeIE8wuUyufRNJ9oSrBx) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW) | [HERD IMMUNITY](https://open.spotify.com/album/2YGdr1a5c3V6mpC6pxvEYU) | 3:56 |
-| 80 | [Bang Bang](https://open.spotify.com/track/7FSmuGYYTevjhvkc7lH6cx) | [Rory Fresco](https://open.spotify.com/artist/2R7Qt4vj8nbZzPDGv8sTqv) | [True Story](https://open.spotify.com/album/6P9MmVepzwEvdFxYRdzTGF) | 2:19 |
-| 81 | [S.B.W](https://open.spotify.com/track/0ouqa582jNyX4B5Gvvjwh9) | [Chromazz](https://open.spotify.com/artist/3OhxI9yPQIh8L5uRPB1WG7) | [S.B.W](https://open.spotify.com/album/2qQkJlgbShVtQsbI9D03eS) | 2:57 |
+| 80 | [S.B.W](https://open.spotify.com/track/0ouqa582jNyX4B5Gvvjwh9) | [Chromazz](https://open.spotify.com/artist/3OhxI9yPQIh8L5uRPB1WG7) | [S.B.W](https://open.spotify.com/album/2qQkJlgbShVtQsbI9D03eS) | 2:57 |
+| 81 | [Bang Bang](https://open.spotify.com/track/7FSmuGYYTevjhvkc7lH6cx) | [Rory Fresco](https://open.spotify.com/artist/2R7Qt4vj8nbZzPDGv8sTqv) | [True Story](https://open.spotify.com/album/6P9MmVepzwEvdFxYRdzTGF) | 2:19 |
 | 82 | [LowBatt](https://open.spotify.com/track/0mJlScE5wSE1LW2IrVmbMD) | [Pell](https://open.spotify.com/artist/2O2dI9lY9PnWtAa4OlrgMi) | [Gravity](https://open.spotify.com/album/27QdjDHdl4pbV4vNF0S4T2) | 2:41 |
 | 83 | [GG](https://open.spotify.com/track/0gLajXDZDCW3215GgrcTWS) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW) | [HERD IMMUNITY 1.0](https://open.spotify.com/album/36EF5dhWFegI1CMMkBVeY1) | 2:13 |
-| 84 | [Sugar Mommy](https://open.spotify.com/track/0fuWxGIvZGIvp5yP61a3mw) | [Mamazi](https://open.spotify.com/artist/4L42EENVSu2ZE8cwhVVeh8) | [Sugar Mommy](https://open.spotify.com/album/6kcAxB2fgyeTfl8FP0usM5) | 2:50 |
-| 85 | [800MILES](https://open.spotify.com/track/2m3Ea5E1L50QwDG6uhekMM) | [SWAVAY](https://open.spotify.com/artist/29gIYsdyccGoUc6qgkZeTK) | [BILLY](https://open.spotify.com/album/1rma34mRY4zuSyxr3h2rvT) | 3:39 |
+| 84 | [800MILES](https://open.spotify.com/track/2m3Ea5E1L50QwDG6uhekMM) | [SWAVAY](https://open.spotify.com/artist/29gIYsdyccGoUc6qgkZeTK) | [BILLY](https://open.spotify.com/album/1rma34mRY4zuSyxr3h2rvT) | 3:39 |
+| 85 | [Sugar Mommy](https://open.spotify.com/track/0fuWxGIvZGIvp5yP61a3mw) | [Mamazi](https://open.spotify.com/artist/4L42EENVSu2ZE8cwhVVeh8) | [Sugar Mommy](https://open.spotify.com/album/6kcAxB2fgyeTfl8FP0usM5) | 2:50 |
 | 86 | [Not Sorry](https://open.spotify.com/track/7ps92YupHzzx6b1Lyhmiyc) | [NJOMZA](https://open.spotify.com/artist/3zOUpziwcfY2bCh4VyJ4Am) | [STAGES](https://open.spotify.com/album/2wTHtRmJdIwS8e7F4mrCzm) | 2:06 |
 | 87 | [Realist / Outro](https://open.spotify.com/track/5ppW5OaqSE1IodXnBdEaLO) | [Hudson East](https://open.spotify.com/artist/0DwPrw4Zd15m2cdnpbwGKq) | [Eastway](https://open.spotify.com/album/1l54zzRXrwYV9e2WowPu0D) | 5:15 |
 | 88 | [Exclusive](https://open.spotify.com/track/4g3b9wTgRSvBqIL4TgwFJZ) | [Nigel Knight](https://open.spotify.com/artist/6u6thFL95rh5B0oz678Yl5) | [Paintings Come True \(Deluxe\)](https://open.spotify.com/album/08dmxAt5O4kl7BiHiNXNP9) | 2:16 |
@@ -122,4 +122,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSjzqQFCSWMM.md) - [plain]
 | 112 | [Voices](https://open.spotify.com/track/25ZeuWx1B76UrJyAw1QkFl) | [Vince Scxtt](https://open.spotify.com/artist/4P4gnvY04k1Y1oPYP9l3Wj), [Bijan Amir](https://open.spotify.com/artist/7G6pqpOOxg1fcLZwhP2QLM) | [Voices](https://open.spotify.com/album/1JShKB2CB7LY4woAzIznr6) | 1:48 |
 | 113 | [Elegance](https://open.spotify.com/track/4cQihinpyYCh5inmJdMgZB) | [Wilson Raps](https://open.spotify.com/artist/3FLQlrK3Mbj5eTvTmVp5nn) | [Worldwide Waves](https://open.spotify.com/album/0DURT30u8OxZRNbehztSae) | 3:19 |
 
-Snapshot ID: `AcSj5gAAAADG5pl0dvsvSXC77KCYINRg`
+Snapshot ID: `AcSpkAAAAACTnBGFiSP0/8wg+KoYd8UX`

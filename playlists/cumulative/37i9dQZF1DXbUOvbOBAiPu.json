@@ -190657,6 +190657,28 @@
     },
     {
       "album": {
+        "name": "Resonance",
+        "url": "https://open.spotify.com/album/59BuyeMDf52WWbGqfmd2mA"
+      },
+      "artists": [
+        {
+          "name": "Acid Arab",
+          "url": "https://open.spotify.com/artist/3ShO8tPKqXUUpOA0urOWW7"
+        },
+        {
+          "name": "Wael Alkak",
+          "url": "https://open.spotify.com/artist/61yomtNgmkhZGD33Jy04C4"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289386,
+      "name": "Yasmine Alsham",
+      "url": "https://open.spotify.com/track/7gKg0BSNZfMweFFhyDTPyp"
+    },
+    {
+      "album": {
         "name": "HEIS",
         "url": "https://open.spotify.com/album/2DDaN7Pgx9uDPd8IbWWW9H"
       },

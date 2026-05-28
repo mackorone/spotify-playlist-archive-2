@@ -1,6 +1,6 @@
 {
   "description": "Progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
-  "num_followers": 1615050,
+  "num_followers": 1615120,
   "original_name": "Night Rider",
   "owner": {
     "name": "Spotify",
@@ -999,22 +999,6 @@
     {
       "added_at": "2026-05-22 04:01:42",
       "album": {
-        "name": "Lily At The Valley",
-        "url": "https://open.spotify.com/album/4Y9EfYbI1Ipndpa8dW5k9S"
-      },
-      "artists": [
-        {
-          "name": "Boris Brejcha",
-          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
-        }
-      ],
-      "duration_ms": 238080,
-      "name": "Lily At The Valley",
-      "url": "https://open.spotify.com/track/3avOclxFrt13MiZlRJT7Lj"
-    },
-    {
-      "added_at": "2026-05-22 04:01:42",
-      "album": {
         "name": "Heaven Knows",
         "url": "https://open.spotify.com/album/5k8cHlDuk2szbc6VlPaL5L"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 233604,
       "name": "Heaven Knows",
       "url": "https://open.spotify.com/track/3TnVOV85DaxEMP02xWbQfH"
+    },
+    {
+      "added_at": "2026-05-22 04:01:42",
+      "album": {
+        "name": "Lily At The Valley",
+        "url": "https://open.spotify.com/album/4Y9EfYbI1Ipndpa8dW5k9S"
+      },
+      "artists": [
+        {
+          "name": "Boris Brejcha",
+          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+        }
+      ],
+      "duration_ms": 238080,
+      "name": "Lily At The Valley",
+      "url": "https://open.spotify.com/track/3avOclxFrt13MiZlRJT7Lj"
     },
     {
       "added_at": "2026-05-22 04:01:42",
@@ -1075,6 +1075,42 @@
     {
       "added_at": "2026-05-22 04:01:42",
       "album": {
+        "name": "Talk",
+        "url": "https://open.spotify.com/album/7vhMewmkm14o6ImWq6el0I"
+      },
+      "artists": [
+        {
+          "name": "Fairlane",
+          "url": "https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO"
+        },
+        {
+          "name": "Bo Bruce",
+          "url": "https://open.spotify.com/artist/4N2lZcytbZifGelhVEpMeK"
+        }
+      ],
+      "duration_ms": 214764,
+      "name": "Talk",
+      "url": "https://open.spotify.com/track/1x60WzUs7c8byX7lvYJ8Fa"
+    },
+    {
+      "added_at": "2026-05-22 04:01:42",
+      "album": {
+        "name": "undux",
+        "url": "https://open.spotify.com/album/5YdArpd5cqnRdOnpvpfSp9"
+      },
+      "artists": [
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "obvious",
+      "url": "https://open.spotify.com/track/0RXP5hsxxUyWMeKDd0Zxb1"
+    },
+    {
+      "added_at": "2026-05-22 04:01:42",
+      "album": {
         "name": "Love Again",
         "url": "https://open.spotify.com/album/5wrYrywBsHkGIekBoScfG8"
       },
@@ -1111,42 +1147,6 @@
       "duration_ms": 224731,
       "name": "Strange",
       "url": "https://open.spotify.com/track/4b0mIhIQikJFdfl3dvvWD6"
-    },
-    {
-      "added_at": "2026-05-22 04:01:42",
-      "album": {
-        "name": "undux",
-        "url": "https://open.spotify.com/album/5YdArpd5cqnRdOnpvpfSp9"
-      },
-      "artists": [
-        {
-          "name": "Kaskade",
-          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "obvious",
-      "url": "https://open.spotify.com/track/0RXP5hsxxUyWMeKDd0Zxb1"
-    },
-    {
-      "added_at": "2026-05-22 04:01:42",
-      "album": {
-        "name": "Talk",
-        "url": "https://open.spotify.com/album/7vhMewmkm14o6ImWq6el0I"
-      },
-      "artists": [
-        {
-          "name": "Fairlane",
-          "url": "https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO"
-        },
-        {
-          "name": "Bo Bruce",
-          "url": "https://open.spotify.com/artist/4N2lZcytbZifGelhVEpMeK"
-        }
-      ],
-      "duration_ms": 214764,
-      "name": "Talk",
-      "url": "https://open.spotify.com/track/1x60WzUs7c8byX7lvYJ8Fa"
     },
     {
       "added_at": "2026-05-22 04:01:42",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2026-05-22 04:01:42",
       "album": {
+        "name": "Melancholia",
+        "url": "https://open.spotify.com/album/552EhYcIuLGbNHy8hc77Gb"
+      },
+      "artists": [
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        }
+      ],
+      "duration_ms": 209899,
+      "name": "Melancholia",
+      "url": "https://open.spotify.com/track/6zhY7CX2x0fMlpEYWVwHwa"
+    },
+    {
+      "added_at": "2026-05-22 04:01:42",
+      "album": {
         "name": "I Hear No More",
         "url": "https://open.spotify.com/album/638b3Yd7HPTBCs9azC2Abo"
       },
@@ -1275,22 +1291,6 @@
       "duration_ms": 167792,
       "name": "I Hear No More",
       "url": "https://open.spotify.com/track/3oY5EVIaukufx6K7FNoNLK"
-    },
-    {
-      "added_at": "2026-05-22 04:01:42",
-      "album": {
-        "name": "Melancholia",
-        "url": "https://open.spotify.com/album/552EhYcIuLGbNHy8hc77Gb"
-      },
-      "artists": [
-        {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
-        }
-      ],
-      "duration_ms": 209899,
-      "name": "Melancholia",
-      "url": "https://open.spotify.com/track/6zhY7CX2x0fMlpEYWVwHwa"
     },
     {
       "added_at": "2026-05-22 04:01:42",
@@ -1499,26 +1499,6 @@
     {
       "added_at": "2026-05-22 04:01:42",
       "album": {
-        "name": "I'm On Fire",
-        "url": "https://open.spotify.com/album/4ELroC43JOrpddiZrIzAnF"
-      },
-      "artists": [
-        {
-          "name": "Cosmic Gate",
-          "url": "https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS"
-        },
-        {
-          "name": "James French",
-          "url": "https://open.spotify.com/artist/1cyoaS6fUKVqileyv1iues"
-        }
-      ],
-      "duration_ms": 232607,
-      "name": "I'm On Fire",
-      "url": "https://open.spotify.com/track/1KIbfDi4qkolOx7Vwps33a"
-    },
-    {
-      "added_at": "2026-05-22 04:01:42",
-      "album": {
         "name": "Blue Symphony",
         "url": "https://open.spotify.com/album/6n7gP0fXV4kDGAEGwJ0xpv"
       },
@@ -1535,6 +1515,26 @@
       "duration_ms": 203225,
       "name": "Blue Symphony",
       "url": "https://open.spotify.com/track/6YztQYF4h3cqtF8rNcVWM5"
+    },
+    {
+      "added_at": "2026-05-22 04:01:42",
+      "album": {
+        "name": "I'm On Fire",
+        "url": "https://open.spotify.com/album/4ELroC43JOrpddiZrIzAnF"
+      },
+      "artists": [
+        {
+          "name": "Cosmic Gate",
+          "url": "https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS"
+        },
+        {
+          "name": "James French",
+          "url": "https://open.spotify.com/artist/1cyoaS6fUKVqileyv1iues"
+        }
+      ],
+      "duration_ms": 232607,
+      "name": "I'm On Fire",
+      "url": "https://open.spotify.com/track/1KIbfDi4qkolOx7Vwps33a"
     },
     {
       "added_at": "2026-05-22 04:01:42",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2026-05-22 04:01:42",
       "album": {
-        "name": "Reborn",
-        "url": "https://open.spotify.com/album/0ik3Z4zEU1HbFCKUZmZR3w"
-      },
-      "artists": [
-        {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
-        }
-      ],
-      "duration_ms": 200458,
-      "name": "Reborn",
-      "url": "https://open.spotify.com/track/3wTA4xEmnv08k6DT3T3wNI"
-    },
-    {
-      "added_at": "2026-05-22 04:01:42",
-      "album": {
         "name": "Perpetual Motion",
         "url": "https://open.spotify.com/album/4ObDNAgr5wzZ6EPPNyAz8d"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 202414,
       "name": "Perpetual Motion",
       "url": "https://open.spotify.com/track/0VCAhRyaKqT3SloA0NDJyR"
+    },
+    {
+      "added_at": "2026-05-22 04:01:42",
+      "album": {
+        "name": "Reborn",
+        "url": "https://open.spotify.com/album/0ik3Z4zEU1HbFCKUZmZR3w"
+      },
+      "artists": [
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        }
+      ],
+      "duration_ms": 200458,
+      "name": "Reborn",
+      "url": "https://open.spotify.com/track/3wTA4xEmnv08k6DT3T3wNI"
     },
     {
       "added_at": "2026-05-22 04:01:42",
@@ -1843,26 +1843,6 @@
     {
       "added_at": "2026-05-22 04:01:42",
       "album": {
-        "name": "First Love",
-        "url": "https://open.spotify.com/album/2wjn9mkCYKbfLzqPOGk9nP"
-      },
-      "artists": [
-        {
-          "name": "Audien",
-          "url": "https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE"
-        },
-        {
-          "name": "Skylar Grey",
-          "url": "https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Make Me Forget",
-      "url": "https://open.spotify.com/track/4S0SLH2oXje7v2C5s0u4NC"
-    },
-    {
-      "added_at": "2026-05-22 04:01:42",
-      "album": {
         "name": "Drop That Beat",
         "url": "https://open.spotify.com/album/5HSSnZBsoHxq1Ch7LH9niU"
       },
@@ -1879,6 +1859,26 @@
       "duration_ms": 208915,
       "name": "Drop That Beat",
       "url": "https://open.spotify.com/track/1zdpuot7uYIIPUAqKUcMap"
+    },
+    {
+      "added_at": "2026-05-22 04:01:42",
+      "album": {
+        "name": "First Love",
+        "url": "https://open.spotify.com/album/2wjn9mkCYKbfLzqPOGk9nP"
+      },
+      "artists": [
+        {
+          "name": "Audien",
+          "url": "https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE"
+        },
+        {
+          "name": "Skylar Grey",
+          "url": "https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Make Me Forget",
+      "url": "https://open.spotify.com/track/4S0SLH2oXje7v2C5s0u4NC"
     },
     {
       "added_at": "2026-05-22 04:01:42",
@@ -2003,18 +2003,22 @@
     {
       "added_at": "2026-05-22 04:01:42",
       "album": {
-        "name": "Each Other",
-        "url": "https://open.spotify.com/album/47Rrq2YDYjBVgkEqvhsApv"
+        "name": "Burn",
+        "url": "https://open.spotify.com/album/4VoDJLEzNcvNIMDSZ684yk"
       },
       "artists": [
         {
-          "name": "Amy Wiles",
-          "url": "https://open.spotify.com/artist/4ztolv1NbTfNxSjS1EgtOX"
+          "name": "Joris Voorn",
+          "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
+        },
+        {
+          "name": "Tom Walker",
+          "url": "https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh"
         }
       ],
-      "duration_ms": 184737,
-      "name": "Each Other",
-      "url": "https://open.spotify.com/track/7L9XqPFJeHkl6g8fdjyHUA"
+      "duration_ms": 184615,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/6Qjj2GM9yVFD4mM9L3EfUx"
     }
   ],
   "unique_name": "Night Rider",

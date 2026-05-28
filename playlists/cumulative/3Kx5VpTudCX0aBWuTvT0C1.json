@@ -2169,6 +2169,24 @@
     },
     {
       "album": {
+        "name": "Vamos Viendo",
+        "url": "https://open.spotify.com/album/5I0KWYTTCxgaOlQOvoq4LI"
+      },
+      "artists": [
+        {
+          "name": "Ruido Cassette",
+          "url": "https://open.spotify.com/artist/2YiahtiLSZAAMIHoV8uZlx"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185301,
+      "name": "Vamos Viendo",
+      "url": "https://open.spotify.com/track/4sSJCnRfOZBZ8v7jD6PkPO"
+    },
+    {
+      "album": {
         "name": "Vienna",
         "url": "https://open.spotify.com/album/66ZtlbDXrqXdR5hA6E6jHi"
       },
@@ -2296,6 +2314,32 @@
       "duration_ms": 229439,
       "name": "Why did I let you go",
       "url": "https://open.spotify.com/track/3B7xM5DqfNlIOym2uGUqUD"
+    },
+    {
+      "album": {
+        "name": "Wicked Wicked Ways",
+        "url": "https://open.spotify.com/album/1te5ThMkLbxy4Vht0rSOlm"
+      },
+      "artists": [
+        {
+          "name": "DELREI",
+          "url": "https://open.spotify.com/artist/77Xku7f5rq7hfoooTiv5jW"
+        },
+        {
+          "name": "Collin Hegna",
+          "url": "https://open.spotify.com/artist/0cZ4bVVf2bWEON39U2kPab"
+        },
+        {
+          "name": "Federale",
+          "url": "https://open.spotify.com/artist/6KdkzNXhRBjPQxCSYgRxpH"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224249,
+      "name": "Wicked Wicked Ways",
+      "url": "https://open.spotify.com/track/4kBbTTOEJYymlnLIFMAAxf"
     },
     {
       "album": {

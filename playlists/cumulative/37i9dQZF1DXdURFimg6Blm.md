@@ -4,7 +4,7 @@
 
 > Boost your energy with these dance tracks.
 
-756 songs - 1 day 13 hr 36 min
+757 songs - 1 day 13 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -227,7 +227,7 @@
 | [FADE](https://open.spotify.com/track/1ZpzOXJwRbvKgYK2XBVRfi) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Pendulum](https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B) | [FADE](https://open.spotify.com/album/5n4l9QpvnozMdhrdxRQIHU) | 2:58 | 2026-03-20 |  |
 | [FADED](https://open.spotify.com/track/0OSKN4D9kXEunDf89augTt) | [HAYLA](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc), [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [FADED](https://open.spotify.com/album/2MUwWCMAyqzlf0xn3LyH4s) | 3:35 | 2025-11-21 | 2026-04-12 |
 | [Fancy $hit](https://open.spotify.com/track/2pZwLbKPazJUZItP235e6O) | [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO), [Taylr Renee](https://open.spotify.com/artist/27feHJH3VKyk8FgOndiWU8) | [Fancy $hit](https://open.spotify.com/album/2DFFAszheHpFsCnCUUyQgh) | 2:48 | 2025-09-26 | 2026-05-02 |
-| [Fast Money](https://open.spotify.com/track/4HfiqUIw23qtbd9Wv58o0q) | [PITCHBLACK](https://open.spotify.com/artist/0BHh71bPCPBbZDDCb3jaHW) | [Fast Money](https://open.spotify.com/album/20mnxDAUfgNVr3KkxrwEaN) | 2:22 | 2026-04-17 |  |
+| [Fast Money](https://open.spotify.com/track/4HfiqUIw23qtbd9Wv58o0q) | [PITCHBLACK](https://open.spotify.com/artist/0BHh71bPCPBbZDDCb3jaHW) | [Fast Money](https://open.spotify.com/album/20mnxDAUfgNVr3KkxrwEaN) | 2:22 | 2026-04-17 | 2026-05-28 |
 | [favorite kind of high \- David Guetta Remix](https://open.spotify.com/track/1QotPsE3JVNnrAAtatQFt0) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [favorite kind of high \(David Guetta Remix\)](https://open.spotify.com/album/6wMEg3O3cbrXcOYXSnFYR6) | 2:33 | 2023-06-03 | 2023-07-23 |
 | [Favour](https://open.spotify.com/track/44wR4NqR75eJMETxrz59Sr) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Favour](https://open.spotify.com/album/2Cu1dQasaSEVPqG3nq8ILq) | 3:14 | 2026-05-01 |  |
 | [Feel It \- Club Edit](https://open.spotify.com/track/71xKlOIhZKO55Rt3zSHzQt) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Feel It \(Club Edit\)](https://open.spotify.com/album/0xa0dJgYKO9keCfgjhuBYH) | 2:04 | 2023-08-11 | 2024-02-24 |
@@ -324,6 +324,7 @@
 | [Hurricane](https://open.spotify.com/track/5RfVafaeEEiqC0Z3LsBaZw) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Sentinel](https://open.spotify.com/artist/2GPNLOJ6KU8G9VyrLsz1Sw), [Bonn](https://open.spotify.com/artist/7Io0XduXk7aOHFHA7sLru2) | [Hurricane](https://open.spotify.com/album/4cgBeHPgTibGZe8JW4c0lD) | 3:18 | 2023-06-03 | 2023-09-16 |
 | [Hurricane](https://open.spotify.com/track/0iVkWge9ytV4Scgy2hQ2za) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Hurricane](https://open.spotify.com/album/06J9dABYtcM4blnT4cIpsS) | 2:27 | 2022-01-07 | 2022-05-07 |
 | [Hush](https://open.spotify.com/track/4Vfc9QSzqyDyHtfZy7vGgC) | [Cobrah](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [Hush](https://open.spotify.com/album/6u9gVzMK2g0mZh9xEK6avS) | 3:32 | 2026-02-06 |  |
+| [HYPE](https://open.spotify.com/track/6k7QsqmyWc9Y2G2VXB6fTw) | [Darude](https://open.spotify.com/artist/0LhHRmSd1EYM5QdNeNnCoQ), [Mashd N Kutcher](https://open.spotify.com/artist/0G5lZVxoMwoY8oV6zR8E7k) | [HYPE](https://open.spotify.com/album/0rekevcYYxTEEgoAxYlNrd) | 3:05 | 2026-05-22 |  |
 | [HYPNOTIZE](https://open.spotify.com/track/3fEX9NgOeklq816Fw00uoo) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [THE CORE \- 核](https://open.spotify.com/album/22KDw9pbkC6MYgJ8hIBSSw) | 2:50 | 2026-01-23 | 2026-04-25 |
 | [Hypnotized \(feat\. Ellie Goulding\)](https://open.spotify.com/track/16qhKHGz2mDlFrxvNLYeHW) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Hypnotized](https://open.spotify.com/album/4k0x8hi3zxwSKNxkcYX67J) | 3:00 | 2025-01-10 | 2025-07-03 |
 | [I Came to Dance](https://open.spotify.com/track/5KsqavNwpQsiqzlkW2r0aI) | [Sugar Jesus](https://open.spotify.com/artist/1cdXZUfRhXZ8DnwMV4CcS5), [Felix Samuel](https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK), [John Skyfield](https://open.spotify.com/artist/6G8Vv979uOK1e7ZBIX2rzp) | [I Came to Dance](https://open.spotify.com/album/2s2ODo85fLa64dcBRBT7ps) | 2:25 | 2022-01-21 | 2022-04-16 |

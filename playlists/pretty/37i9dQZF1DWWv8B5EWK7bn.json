@@ -1,6 +1,6 @@
 {
   "description": "Oblique: Angular. Asymmetrical. Experimental.",
-  "num_followers": 207698,
+  "num_followers": 207708,
   "original_name": "Oblique",
   "owner": {
     "name": "Spotify",
@@ -343,6 +343,22 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
+        "name": "Don't Get Me Started",
+        "url": "https://open.spotify.com/album/477uxPlEAq7OPmwF4zS1Wi"
+      },
+      "artists": [
+        {
+          "name": "The Smile",
+          "url": "https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM"
+        }
+      ],
+      "duration_ms": 355733,
+      "name": "Don't Get Me Started",
+      "url": "https://open.spotify.com/track/7i5M9mb2gF9VvuNSlUsAaz"
+    },
+    {
+      "added_at": "2025-11-18 17:38:22",
+      "album": {
         "name": "Suono Assente",
         "url": "https://open.spotify.com/album/4dxsHCE1N9S5CTHApseLiG"
       },
@@ -367,22 +383,6 @@
       "duration_ms": 249798,
       "name": "Habadash",
       "url": "https://open.spotify.com/track/6yaL3ufWIdKC1HGJb4TQae"
-    },
-    {
-      "added_at": "2025-11-18 17:38:22",
-      "album": {
-        "name": "Don't Get Me Started",
-        "url": "https://open.spotify.com/album/477uxPlEAq7OPmwF4zS1Wi"
-      },
-      "artists": [
-        {
-          "name": "The Smile",
-          "url": "https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM"
-        }
-      ],
-      "duration_ms": 355733,
-      "name": "Don't Get Me Started",
-      "url": "https://open.spotify.com/track/7i5M9mb2gF9VvuNSlUsAaz"
     },
     {
       "added_at": "2025-11-18 17:38:22",
@@ -995,22 +995,6 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
-        "name": "Open the Gates",
-        "url": "https://open.spotify.com/album/3o8AaBOVFR7Fp6gXhwXpsh"
-      },
-      "artists": [
-        {
-          "name": "Irreversible Entanglements",
-          "url": "https://open.spotify.com/artist/5XqyqoLZXA69lCNyBT3f89"
-        }
-      ],
-      "duration_ms": 159093,
-      "name": "Open the Gates",
-      "url": "https://open.spotify.com/track/4fbvhFhIhItsBS4V5EUdYu"
-    },
-    {
-      "added_at": "2025-11-18 17:38:22",
-      "album": {
         "name": "Counter Melodies",
         "url": "https://open.spotify.com/album/0NXYRwTcPyqDiwBfNnnKcs"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 318750,
       "name": "Windows Open",
       "url": "https://open.spotify.com/track/6FodQMZJw91jvvDxI5xWhm"
+    },
+    {
+      "added_at": "2025-11-18 17:38:22",
+      "album": {
+        "name": "Open the Gates",
+        "url": "https://open.spotify.com/album/3o8AaBOVFR7Fp6gXhwXpsh"
+      },
+      "artists": [
+        {
+          "name": "Irreversible Entanglements",
+          "url": "https://open.spotify.com/artist/5XqyqoLZXA69lCNyBT3f89"
+        }
+      ],
+      "duration_ms": 159093,
+      "name": "Open the Gates",
+      "url": "https://open.spotify.com/track/4fbvhFhIhItsBS4V5EUdYu"
     },
     {
       "added_at": "2025-11-18 17:38:22",
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
+        "name": "Itchy",
+        "url": "https://open.spotify.com/album/1ND77RmeJxHFW7J4imS0MI"
+      },
+      "artists": [
+        {
+          "name": "Leatherette",
+          "url": "https://open.spotify.com/artist/4nAQf14Uz5C0uSACkrNwIW"
+        }
+      ],
+      "duration_ms": 192973,
+      "name": "Itchy",
+      "url": "https://open.spotify.com/track/7gLNxGyUmJWxjDTkZKOvQZ"
+    },
+    {
+      "added_at": "2025-11-18 17:38:22",
+      "album": {
         "name": "Al Sur",
         "url": "https://open.spotify.com/album/73vbx7w0BGj1nBolIC4qqy"
       },
@@ -1335,22 +1351,6 @@
       "duration_ms": 198773,
       "name": "Al Sur",
       "url": "https://open.spotify.com/track/6mrxKzfu4L3AcDxPwYPjUs"
-    },
-    {
-      "added_at": "2025-11-18 17:38:22",
-      "album": {
-        "name": "Itchy",
-        "url": "https://open.spotify.com/album/1ND77RmeJxHFW7J4imS0MI"
-      },
-      "artists": [
-        {
-          "name": "Leatherette",
-          "url": "https://open.spotify.com/artist/4nAQf14Uz5C0uSACkrNwIW"
-        }
-      ],
-      "duration_ms": 192973,
-      "name": "Itchy",
-      "url": "https://open.spotify.com/track/7gLNxGyUmJWxjDTkZKOvQZ"
     },
     {
       "added_at": "2025-11-18 17:38:22",
@@ -1487,18 +1487,18 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
-        "name": "Imaginal Disk",
-        "url": "https://open.spotify.com/album/4HTy9WFTYooRjE9giTmzAF"
+        "name": "Vandali / Stranidei",
+        "url": "https://open.spotify.com/album/7mxKYjIXX1kGlV5RRDGvpI"
       },
       "artists": [
         {
-          "name": "Magdalena Bay",
-          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
+          "name": "Bud Spencer Blues Explosion",
+          "url": "https://open.spotify.com/artist/1bfWecjdxJOuN7f42oIH5S"
         }
       ],
-      "duration_ms": 212866,
-      "name": "Image",
-      "url": "https://open.spotify.com/track/0QW0KPBXXv67haGjbtkRRB"
+      "duration_ms": 245520,
+      "name": "Stranidei",
+      "url": "https://open.spotify.com/track/233ArIuVyP9GNBlfNavB4W"
     },
     {
       "added_at": "2025-11-18 17:38:22",
@@ -1519,18 +1519,18 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
-        "name": "Vandali / Stranidei",
-        "url": "https://open.spotify.com/album/7mxKYjIXX1kGlV5RRDGvpI"
+        "name": "Imaginal Disk",
+        "url": "https://open.spotify.com/album/4HTy9WFTYooRjE9giTmzAF"
       },
       "artists": [
         {
-          "name": "Bud Spencer Blues Explosion",
-          "url": "https://open.spotify.com/artist/1bfWecjdxJOuN7f42oIH5S"
+          "name": "Magdalena Bay",
+          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
         }
       ],
-      "duration_ms": 245520,
-      "name": "Stranidei",
-      "url": "https://open.spotify.com/track/233ArIuVyP9GNBlfNavB4W"
+      "duration_ms": 212866,
+      "name": "Image",
+      "url": "https://open.spotify.com/track/0QW0KPBXXv67haGjbtkRRB"
     },
     {
       "added_at": "2025-11-18 17:38:22",

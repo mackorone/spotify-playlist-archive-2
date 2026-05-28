@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Pop](https://open.spotify.com/playlist/37i9dQZF1DX3u9TSHqpdJC)
 
-> The best pop songs from new, independent artists as chosen by our editors\.  Cover: Mollie Elizabeth\. Artwork by Paola Saliby
+> The best pop songs from new, independent artists as chosen by our editors\.  Cover: Samaera\. Artwork by Paola Saliby
 
-4,498 songs - 9 day 13 hr 11 min
+4,501 songs - 9 day 13 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -266,7 +266,7 @@
 | [Arrivederci, Baby](https://open.spotify.com/track/5vXLJ2ZWJO7q7jLWhDaMQB) | [Rosemary](https://open.spotify.com/artist/59nB82NKhoKIXU7ZN3Qdnt) | [Arrivederci, Baby](https://open.spotify.com/album/3qxowiXBWwN8HQCWTdnFKM) | 2:24 | 2025-02-12 | 2025-04-17 |
 | [Arrow](https://open.spotify.com/track/3rpwjuR2xLihp1gZtF11GT) | [GOM](https://open.spotify.com/artist/24GmnVmCcz5n4Z5tPxeMKu) | [Arrow](https://open.spotify.com/album/0ieoMMvu4PcM9uiG3d319W) | 2:20 | 2021-02-10 | 2021-03-11 |
 | [Arrête de danser](https://open.spotify.com/track/3mjId5WhDjtDr57YGuGv97) | [Thaïs](https://open.spotify.com/artist/6lliiJ1S813r1V4koJsGFh) | [Tout est parfait : acte un](https://open.spotify.com/album/1wVbEyyTPcnfFjawWBDjJC) | 2:49 | 2022-05-11 | 2022-06-30 |
-| [Arsonist](https://open.spotify.com/track/0RsEcELExwIYLuQPbP5Zjy) | [Seanna Pereira](https://open.spotify.com/artist/2n7eurO3HF2Qpsu4blCx4R) | [Arsonist](https://open.spotify.com/album/3IMet7aJDP08AADNvsWdtM) | 3:02 | 2026-03-25 |  |
+| [Arsonist](https://open.spotify.com/track/0RsEcELExwIYLuQPbP5Zjy) | [Seanna Pereira](https://open.spotify.com/artist/2n7eurO3HF2Qpsu4blCx4R) | [Arsonist](https://open.spotify.com/album/3IMet7aJDP08AADNvsWdtM) | 3:02 | 2026-03-25 | 2026-05-28 |
 | [as our world begins to die](https://open.spotify.com/track/5x9z0OoeuD7VPuOQ35rLxN) | [twlips](https://open.spotify.com/artist/44oBe1r8Bp8z8ARJOWcfHP) | [as our world begins to die](https://open.spotify.com/album/5bXK6mmmoKvUWth8Qklq2c) | 4:09 | 2024-11-06 | 2024-12-05 |
 | [As Tradition](https://open.spotify.com/track/7g64pjo98TLtdqbyGZpr8m) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [As Tradition](https://open.spotify.com/album/31qTMauneAledD8ksGCAmu) | 4:00 | 2021-03-11 | 2021-04-08 |
 | [ASHES](https://open.spotify.com/track/1IsmamnccFOPXTev45zyrb) | [AYEJAY](https://open.spotify.com/artist/16thVpns7sAaGzV4hG5Lnl) | [ASHES](https://open.spotify.com/album/1P3pfGokPUf05uG4eQ10uo) | 3:00 | 2025-06-18 | 2025-08-21 |
@@ -1527,6 +1527,7 @@
 | [give you away](https://open.spotify.com/track/0HcTr9pSCJrD3qmSY2ifwE) | [Jake Clark](https://open.spotify.com/artist/5fPvc8tIZfLbEm3GsbFHgd) | [give you away](https://open.spotify.com/album/5qjdIGQ8285nHIhUwbpJfl) | 3:22 | 2022-07-20 | 2022-09-09 |
 | [GLACIER WORLD](https://open.spotify.com/track/7Kg50kU2fY4pltauuGRPoE) | [Crouchin 40 Sippas](https://open.spotify.com/artist/4isO1eAAmahdxXwQYipEXK) | [GLACIER WORLD](https://open.spotify.com/album/55VoTY5HwVpALn1lTc7sXr) | 3:29 | 2021-01-21 | 2021-01-28 |
 | [Glad You Hate Me](https://open.spotify.com/track/4ddCcM5A7G0p8dxs7mWo0k) | [Casey Conroy](https://open.spotify.com/artist/7elB9Pjvsisg4hKILUjaUr) | [Glad You Hate Me](https://open.spotify.com/album/7ikfCplRVnTcrbYvZlLiAd) | 2:47 | 2024-02-21 | 2024-05-02 |
+| [Glass Castle](https://open.spotify.com/track/533xEfzNpx2up8euBVlexi) | [Chloe Saavedra](https://open.spotify.com/artist/2xUdw3i7hhy8Twz2vDwV2Y) | [Glass Castle](https://open.spotify.com/album/2zF3j1go7XUsKLIhHJnk0j) | 4:18 | 2026-05-27 |  |
 | [Glass of Anything](https://open.spotify.com/track/0vDkvVh5BnIQKJJtBrxeL0) | [Helen Paradise](https://open.spotify.com/artist/0oPrDfiBvlrMbOAHT6oDZb) | [Glass of Anything](https://open.spotify.com/album/2OHiYhbWz6g0hmyALGnl26) | 4:12 | 2021-08-12 | 2021-08-26 |
 | [Glass Peach](https://open.spotify.com/track/5z7aFiU5cDVhWXxAUo9S21) | [Joviale](https://open.spotify.com/artist/2U1y15TfmMGMDCV7S2mbQ7) | [Hurricane Belle](https://open.spotify.com/album/0Lm2fvGlcaOhZMwD1JICVO) | 3:37 | 2021-06-03 | 2021-06-18 |
 | [Glide](https://open.spotify.com/track/7e2polOF7Yjrs3eGiexCVW) | [ALZZY](https://open.spotify.com/artist/7AO0PhHfvJgyp71cMqusc7) | [Glide](https://open.spotify.com/album/1exJ4zN191WcU3Ok2OeOOT) | 2:38 | 2025-06-25 | 2026-01-15 |
@@ -2794,7 +2795,7 @@
 | [Nightshade](https://open.spotify.com/track/3sivx4DwnH31JwTw1iHsnX) | [Madison](https://open.spotify.com/artist/2QsEueA30koO3IDvTgrQD2) | [Nightshade](https://open.spotify.com/album/08GKug36f7WyoVZVW5wAc5) | 3:31 | 2022-10-26 | 2022-12-01 |
 | [Nightvision](https://open.spotify.com/track/5e5czhnp5U8yaglHsHprHv) | [Izzy Perri](https://open.spotify.com/artist/3UwXQvHeyJyrKnX7SiraMh) | [Nightvision](https://open.spotify.com/album/6MzjOYc1kPzJJGuL4tPb7W) | 3:01 | 2021-06-03 | 2021-07-22 |
 | [Nirvana](https://open.spotify.com/track/11VPN6SfBRRmF2fESXlNep) | [ELLIANA](https://open.spotify.com/artist/5t0KCCFs6BIelOxE4XGDRT) | [Nirvana](https://open.spotify.com/album/6HcXFfZ41boaTaIwGa3oPh) | 4:26 | 2020-12-08 | 2021-02-25 |
-| [no air](https://open.spotify.com/track/2oggiZRL5HDIrnBuYilemY) | [go4broke](https://open.spotify.com/artist/0B7eexcdtWm3ckbSKAb25R) | [no air](https://open.spotify.com/album/68X9NyzNFzA6qdUbSoOMzK) | 2:44 | 2026-03-18 |  |
+| [no air](https://open.spotify.com/track/2oggiZRL5HDIrnBuYilemY) | [go4broke](https://open.spotify.com/artist/0B7eexcdtWm3ckbSKAb25R) | [no air](https://open.spotify.com/album/68X9NyzNFzA6qdUbSoOMzK) | 2:44 | 2026-03-18 | 2026-05-28 |
 | [No Business On The Dancefloor](https://open.spotify.com/track/47EttOPfJblOFsztpSseEm) | [Keira](https://open.spotify.com/artist/5DEU6xCvrSgrpI5GsMFZng) | [No Business On The Dancefloor](https://open.spotify.com/album/2PBGkaNBeBpkHedZ9J7eXH) | 2:47 | 2023-01-25 | 2023-03-23 |
 | [No Competition](https://open.spotify.com/track/2suZEP7Ksg0ozl91PzdGkV) | [syd B](https://open.spotify.com/artist/6cBSgFUoVWA9CIA159x2Jr) | [What's Going On !](https://open.spotify.com/album/5rCGxHBPgoLfqLou8MbyzZ) | 3:03 | 2023-05-03 | 2023-11-16 |
 | [No Contact](https://open.spotify.com/track/7M4kKZNFtLmAwZHoeqWznK) | [Bruklin](https://open.spotify.com/artist/4fjAtF6VmMxQHxKI5C3HPO) | [No Contact](https://open.spotify.com/album/5ujZ7d10TY5nwJmVw6cBSZ) | 2:51 | 2024-10-02 | 2024-12-05 |
@@ -3017,6 +3018,7 @@
 | [Passenger Seat](https://open.spotify.com/track/1d0fuygCq7natWK8kelMoY) | [Aimée](https://open.spotify.com/artist/6kiGJNxa3SvcQWfCrqL1sb) | [Passenger Seat](https://open.spotify.com/album/3NFGSk4DZw8ne96ApAJyqY) | 3:44 | 2024-05-01 | 2024-06-20 |
 | [Passenger Seat](https://open.spotify.com/track/76y2Qmpwzak6JhnE8g6gkI) | [Sabyna](https://open.spotify.com/artist/4Pke6JkdRNWAHttfVvnvP6) | [Passenger Seat](https://open.spotify.com/album/53zMYi35j06qijPOjXMZ4d) | 2:45 | 2025-08-06 | 2025-10-09 |
 | [Pastlife](https://open.spotify.com/track/0V3PNTo7NXVhUDeaUVshW0) | [Silas](https://open.spotify.com/artist/1qpT9jsKJeRRhxckVumH6C) | [Pastlife](https://open.spotify.com/album/74gjQ95NQgvW8i4hNkjVRd) | 2:46 | 2021-09-10 | 2021-10-28 |
+| [Patsy](https://open.spotify.com/track/5aWeN56KTs6E8eGlVKnb5A) | [Alfreda](https://open.spotify.com/artist/57HS6X4QpZkt1JeT7QpNcM) | [Patsy](https://open.spotify.com/album/4VwFrVs0quGf6qMtz0JyiE) | 3:46 | 2026-05-27 |  |
 | [PDA](https://open.spotify.com/track/2p4b5rDiiGZyiSiLo6RPkB) | [Franky](https://open.spotify.com/artist/2pcPNkJ8zVDA2SBDeHW0gW) | [PDA](https://open.spotify.com/album/4BkL6XR15aQOvDcpyPdWkF) | 3:02 | 2022-08-03 | 2022-10-20 |
 | [Peaches In My Ice Cream](https://open.spotify.com/track/4cNehMapMVANsxG8c2P2x2) | [Emily McMichael](https://open.spotify.com/artist/0XnkCws48GZmyGjtrORQJN) | [Peaches In My Ice Cream](https://open.spotify.com/album/3XLpWZu62jwcu2was23tR2) | 2:24 | 2021-08-26 | 2021-09-10 |
 | [Peaked in High School](https://open.spotify.com/track/0iuo9ILD4Wc17e3fytZxS7) | [Isabel Wood](https://open.spotify.com/artist/7Lk61C1D1ZVyyMOLsCqYBO) | [Peaked in High School](https://open.spotify.com/album/0KVApYeZKlPebizwZOxt9m) | 3:24 | 2022-08-31 | 2022-10-27 |
@@ -3042,7 +3044,7 @@
 | [phantom limb](https://open.spotify.com/track/3xnDsP1pTBKDJyxSfc2Wxj) | [frogi](https://open.spotify.com/artist/0frlcBV9pFq0Ip624rdUen) | [phantom limb](https://open.spotify.com/album/3ENN05TM1su4v6gfnyniwW) | 3:37 | 2021-06-03 | 2021-06-18 |
 | [Pharos](https://open.spotify.com/track/4lsvUf69pGZneOeSXyd9hi) | [MOLLY SUE](https://open.spotify.com/artist/1UmeDUPF1A9xnmyzE8O2fA) | [Pharos](https://open.spotify.com/album/3INHHoVztUGjeijZ63Np4M) | 2:16 | 2025-04-09 | 2025-05-29 |
 | [Photograph](https://open.spotify.com/track/6L9DuJTLsQHEYe08nkFhw2) | [Aux Sauce](https://open.spotify.com/artist/4C4j8wgNPriNq0kh1sMYax), [sindr](https://open.spotify.com/artist/4UiuiDCLil74AvDoXjdpib) | [Photograph](https://open.spotify.com/album/7EF7xB4lyzSqRWksdrJxg1) | 2:21 | 2025-06-04 | 2025-07-24 |
-| [Physics](https://open.spotify.com/track/3ioLj3bm5B1N84ESeg31Q1) | [Chloe Saavedra](https://open.spotify.com/artist/2xUdw3i7hhy8Twz2vDwV2Y) | [Physics](https://open.spotify.com/album/1paB1UR0VVbbG0uU8DgsNp) | 4:21 | 2026-02-11 |  |
+| [Physics](https://open.spotify.com/track/3ioLj3bm5B1N84ESeg31Q1) | [Chloe Saavedra](https://open.spotify.com/artist/2xUdw3i7hhy8Twz2vDwV2Y) | [Physics](https://open.spotify.com/album/1paB1UR0VVbbG0uU8DgsNp) | 4:21 | 2026-02-11 | 2026-05-28 |
 | [Pick at my Wounds](https://open.spotify.com/track/6wmUTdD8wvdhZ6wTTHp078) | [loe4t](https://open.spotify.com/artist/7EgzC7ivtBbXIPst8RAKNe) | [Pick at my Wounds](https://open.spotify.com/album/251jzaQbnHu62ROms2x9HP) | 2:28 | 2021-06-03 | 2021-06-18 |
 | [Pick Me Up](https://open.spotify.com/track/77d7t7SYR0YAXgXePYo8t5) | [Rachel Bochner](https://open.spotify.com/artist/6AdwNKE3DsPrlNNCIzdZXz) | [Pick Me Up](https://open.spotify.com/album/5V5x9zEi6XCVnn15qjpDRP) | 2:44 | 2020-11-18 | 2020-12-08 |
 | [Pick up](https://open.spotify.com/track/2twgq4n0x2rxkosP5NgOME) | [Ghita](https://open.spotify.com/artist/0oZLmVQhyT6zFb7EjpJRrR) | [Pick up](https://open.spotify.com/album/4wfgzG3ScHhKvZIJLKPPDr) | 2:03 | 2023-07-26 | 2023-09-21 |
@@ -3496,6 +3498,7 @@
 | [Silver Cowboy Boots \(feat\. Invisible Will\)](https://open.spotify.com/track/4j3oucjjAAkcksP7qLW58T) | [Anna Shoemaker](https://open.spotify.com/artist/3STjhKc10jr3X60mDRpHV4), [Invisible Will](https://open.spotify.com/artist/0rU1SNbNP8pVFFzb9q02Kn) | [Silver Cowboy Boots \(feat\. Invisible Will\)](https://open.spotify.com/album/1gWMkjw2CpkM7R3LQDcOCY) | 3:17 | 2021-01-15 | 2021-02-04 |
 | [Silver Heart](https://open.spotify.com/track/3VRl0Gv158qthcg30K3Hdy) | [Ronia](https://open.spotify.com/artist/4L4QpdKFBYczH54017Zh3Z) | [Silver Heart](https://open.spotify.com/album/6lrh5oMgt7bWxPo9oyDZd3) | 3:49 | 2025-02-26 | 2026-01-15 |
 | [Silver Lining](https://open.spotify.com/track/26IJjT0ES0eWkvlerd9iv8) | [Zac Pajak](https://open.spotify.com/artist/4RBVQ7fflz36JCOAMyxu8R) | [Silver Lining](https://open.spotify.com/album/1McfvmiD99s2uofByo30Qv) | 3:36 | 2021-04-15 | 2021-05-13 |
+| [Simon Says](https://open.spotify.com/track/1ndEqtyQagzN7mjA7W66CH) | [Samaera](https://open.spotify.com/artist/74FCyRCyjTCpKEzoxNoTyG) | [Samaerica](https://open.spotify.com/album/7FNGi4m7FH3qJB14d1O0Ho) | 3:07 | 2026-05-27 |  |
 | [Simple Math](https://open.spotify.com/track/2h3tXKnvbRSCpQvPoOcUbs) | [Emma Andersen](https://open.spotify.com/artist/3RR7Sxoi6uXq4Y8PDEPR4v) | [Simple Math](https://open.spotify.com/album/7C6hAezi8iPxhossZyBeO5) | 2:24 | 2025-08-20 | 2025-11-20 |
 | [Sin Again](https://open.spotify.com/track/0hI935fx759rYQAxLuQu3J) | [Rotana](https://open.spotify.com/artist/71GNEpAyOatoAy5oo9Av1q) | [Sin Again](https://open.spotify.com/album/7mdCfF0ITDHIhSObhLVbsa) | 3:08 | 2020-11-05 | 2020-11-18 |
 | [Since I Met You](https://open.spotify.com/track/2V5rvUTRORhRqRIamSO5ZW) | [Cassidy Mann](https://open.spotify.com/artist/6RJL8I7zuC8mVHP5u9juRu) | [Since I Met You](https://open.spotify.com/album/0wctdcNAm9vZGtGwRLYRa2) | 4:30 | 2022-03-09 | 2022-04-07 |

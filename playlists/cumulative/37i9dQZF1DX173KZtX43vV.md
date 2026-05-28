@@ -4,7 +4,7 @@
 
 > The newest arrivals\. Cover: Stormzy, Odeal
 
-853 songs - 1 day 17 hr 40 min
+854 songs - 1 day 17 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -531,6 +531,7 @@
 | [NEW TINGZ](https://open.spotify.com/track/4Pl2d8rQHO8hnFZR3RO244) | [Armanii](https://open.spotify.com/artist/48ZXHIYtqeBiklzhu3lAey) | [THE IMPACT \(Deluxe\): PGLA Edition](https://open.spotify.com/album/3EUplPSI0pgkirQtANGobF) | 2:39 | 2026-03-27 | 2026-04-10 |
 | [New Trip \(feat\. Yeat & BNYX®\)](https://open.spotify.com/track/2lpLHJXgSGFU5GuIk8qzgs) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG) | [New Trip \(feat\. Yeat & BNYX®\)](https://open.spotify.com/album/2HxI1pO2yc8XFnZfp7AvbL) | 3:27 | 2025-11-07 | 2025-11-21 |
 | [Ngolo](https://open.spotify.com/track/79yBRcZSYuQ2XpLAVfvQcM) | [elz laurent](https://open.spotify.com/artist/3J42J2YhuugaVgIy7p5UP7) | [Ngolo](https://open.spotify.com/album/1Xf6weCQgytpjqFZDUeEej) | 1:56 | 2026-04-02 | 2026-04-10 |
+| [Nicotine](https://open.spotify.com/track/35cXNEabstiJmazSzS6ecK) | [Ryder](https://open.spotify.com/artist/2Lr6UcfZWL1Ur5spOaduOb), [J'calm](https://open.spotify.com/artist/2i6VWRGP6MLsPpKPRTRMkY) | [Nicotine](https://open.spotify.com/album/78YBhnhPZ4QEzaeHUVWyLi) | 2:25 | 2026-05-21 |  |
 | [Night , Blooming Jasmine .](https://open.spotify.com/track/4WKUmjoUeYkzyoEvTbiVdW) | [fakemink](https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi) | [Night , Blooming Jasmine .](https://open.spotify.com/album/5bajUbQGZ7f98jo1gfX0hc) | 2:58 | 2026-04-17 | 2026-04-25 |
 | [Night Bus](https://open.spotify.com/track/4lzNhnPPUkyqavqQyqNnqz) | [Danny Sanchez](https://open.spotify.com/artist/73Urm8TgtoYR7Iavs8UTRL) | [Night Bus](https://open.spotify.com/album/6urop77k3bbfqbj6rSffxk) | 1:52 | 2025-11-28 | 2025-12-12 |
 | [Nights In The Sun \(feat\. Wizkid\)](https://open.spotify.com/track/3XmHd0NqN5O4e7Vnv8fb8q) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [The Fall That Saved Us](https://open.spotify.com/album/0xMQR9PD1M0Y70uP3VpyBl) | 2:50 | 2025-11-21 | 2025-12-05 |

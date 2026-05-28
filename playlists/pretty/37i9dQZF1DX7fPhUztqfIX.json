@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAG+mKQ7sAuBnes9SnWwWBXyb3qZ+",
+  "snapshot_id": "AAAAAGKbIPbR0xSDX/lsu5UijDWqAdDX",
   "tracks": [
     {
       "added_at": "2026-05-19 08:28:37",
@@ -1111,7 +1111,7 @@
     {
       "added_at": "2026-05-19 08:28:37",
       "album": {
-        "name": "Redeemed",
+        "name": "Redeemed (Live)",
         "url": "https://open.spotify.com/album/2YKpKKfCf5x1kAsS4eh8fa"
       },
       "artists": [
@@ -1121,7 +1121,7 @@
         }
       ],
       "duration_ms": 219116,
-      "name": "Redeemed",
+      "name": "Redeemed - Live",
       "url": "https://open.spotify.com/track/0b0itI0G0JoDRHjPBOn67i"
     },
     {

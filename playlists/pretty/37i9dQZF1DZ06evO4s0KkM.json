@@ -1,12 +1,12 @@
 {
   "description": "This is Dropkick Murphys. The essential tracks, all in one playlist.",
-  "num_followers": 126525,
+  "num_followers": 126532,
   "original_name": "This Is Dropkick Murphys",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahORAAAAAACNxKKZ4LQgOdTi7XEel55e",
+  "snapshot_id": "ahTigAAAAAAJ8YYoZc8tCRM3ZvKLJQHt",
   "tracks": [
     {
       "added_at": null,
@@ -319,6 +319,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Turn Up That Dial (Expanded Version)",
+        "url": "https://open.spotify.com/album/78w6uEHeU1OrOTCh1XwnYd"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "duration_ms": 155642,
+      "name": "Middle Finger",
+      "url": "https://open.spotify.com/track/5YDSdt8rLCiUmc2BbNtCLe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "For The People (Expanded Edition)",
         "url": "https://open.spotify.com/album/7dGBAOMg6ktyYuA9wlX8lM"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 207331,
       "name": "Longshot",
       "url": "https://open.spotify.com/track/1yghEKyic4jHAhFZek4w0d"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Turn Up That Dial (Expanded Version)",
-        "url": "https://open.spotify.com/album/78w6uEHeU1OrOTCh1XwnYd"
-      },
-      "artists": [
-        {
-          "name": "Dropkick Murphys",
-          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        }
-      ],
-      "duration_ms": 155642,
-      "name": "Middle Finger",
-      "url": "https://open.spotify.com/track/5YDSdt8rLCiUmc2BbNtCLe"
     },
     {
       "added_at": null,
@@ -455,8 +455,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "For The People (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7dGBAOMg6ktyYuA9wlX8lM"
+        "name": "11 Short Stories of Pain & Glory",
+        "url": "https://open.spotify.com/album/2x8e1IYd6eaQzAi7X2oRMB"
       },
       "artists": [
         {
@@ -464,9 +464,9 @@
           "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
         }
       ],
-      "duration_ms": 173897,
-      "name": "The Big Man",
-      "url": "https://open.spotify.com/track/5hIsGzPEQzRHFvqdwtSAaS"
+      "duration_ms": 241760,
+      "name": "Blood",
+      "url": "https://open.spotify.com/track/33MzDklgMtP9OSgtSS1p9x"
     },
     {
       "added_at": null,
@@ -487,8 +487,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "11 Short Stories of Pain & Glory",
-        "url": "https://open.spotify.com/album/2x8e1IYd6eaQzAi7X2oRMB"
+        "name": "For The People (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7dGBAOMg6ktyYuA9wlX8lM"
       },
       "artists": [
         {
@@ -496,9 +496,9 @@
           "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
         }
       ],
-      "duration_ms": 241760,
-      "name": "Blood",
-      "url": "https://open.spotify.com/track/33MzDklgMtP9OSgtSS1p9x"
+      "duration_ms": 173897,
+      "name": "The Big Man",
+      "url": "https://open.spotify.com/track/5hIsGzPEQzRHFvqdwtSAaS"
     },
     {
       "added_at": null,
@@ -519,22 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Do Or Die",
-        "url": "https://open.spotify.com/album/5EKDBIKZ37Idq0QiXG2qzk"
-      },
-      "artists": [
-        {
-          "name": "Dropkick Murphys",
-          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        }
-      ],
-      "duration_ms": 109134,
-      "name": "Cadence To Arms",
-      "url": "https://open.spotify.com/track/5YHOnqIrjhRy5ThzFRWONC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Turn Up That Dial (Expanded Version)",
         "url": "https://open.spotify.com/album/78w6uEHeU1OrOTCh1XwnYd"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 231655,
       "name": "Queen Of Suffolk County",
       "url": "https://open.spotify.com/track/2QkLpiSHHSwxIedR20IYIW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Do Or Die",
+        "url": "https://open.spotify.com/album/5EKDBIKZ37Idq0QiXG2qzk"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "duration_ms": 109134,
+      "name": "Cadence To Arms",
+      "url": "https://open.spotify.com/track/5YHOnqIrjhRy5ThzFRWONC"
     },
     {
       "added_at": null,
@@ -651,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "New England Forever",
-        "url": "https://open.spotify.com/album/1QLd43rPsA1fPd0iDkbiJN"
-      },
-      "artists": [
-        {
-          "name": "Dropkick Murphys",
-          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        }
-      ],
-      "duration_ms": 160025,
-      "name": "Only The Strong",
-      "url": "https://open.spotify.com/track/01PYqCU3EQi8jketudOH7h"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Going Out In Style",
         "url": "https://open.spotify.com/album/66aspK0qKetRvNP3KGbEuq"
       },
@@ -683,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blackout",
-        "url": "https://open.spotify.com/album/5F8xhxWHGJDPiVQBuhKZza"
+        "name": "New England Forever",
+        "url": "https://open.spotify.com/album/1QLd43rPsA1fPd0iDkbiJN"
       },
       "artists": [
         {
@@ -692,9 +676,9 @@
           "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
         }
       ],
-      "duration_ms": 183306,
-      "name": "Black Velvet Band",
-      "url": "https://open.spotify.com/track/356DFRPTv6s2jPuQHrIqWi"
+      "duration_ms": 160025,
+      "name": "Only The Strong",
+      "url": "https://open.spotify.com/track/01PYqCU3EQi8jketudOH7h"
     },
     {
       "added_at": null,
@@ -715,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "For The People (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7dGBAOMg6ktyYuA9wlX8lM"
+        "name": "Blackout",
+        "url": "https://open.spotify.com/album/5F8xhxWHGJDPiVQBuhKZza"
       },
       "artists": [
         {
@@ -724,9 +708,9 @@
           "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
         }
       ],
-      "duration_ms": 181843,
-      "name": "Kids Games",
-      "url": "https://open.spotify.com/track/5UnLR6CQCp7036oqYP5MVo"
+      "duration_ms": 183306,
+      "name": "Black Velvet Band",
+      "url": "https://open.spotify.com/track/356DFRPTv6s2jPuQHrIqWi"
     },
     {
       "added_at": null,
@@ -747,8 +731,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blackout",
-        "url": "https://open.spotify.com/album/5F8xhxWHGJDPiVQBuhKZza"
+        "name": "For The People (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7dGBAOMg6ktyYuA9wlX8lM"
       },
       "artists": [
         {
@@ -756,9 +740,9 @@
           "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
         }
       ],
-      "duration_ms": 171026,
-      "name": "Walk Away",
-      "url": "https://open.spotify.com/track/2S22odTX2oIV6GxRoRN19h"
+      "duration_ms": 181843,
+      "name": "Kids Games",
+      "url": "https://open.spotify.com/track/5UnLR6CQCp7036oqYP5MVo"
     },
     {
       "added_at": null,
@@ -775,6 +759,22 @@
       "duration_ms": 303333,
       "name": "Broken Hymns",
       "url": "https://open.spotify.com/track/2OMqDQENvS5CF7UN0wQJT4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blackout",
+        "url": "https://open.spotify.com/album/5F8xhxWHGJDPiVQBuhKZza"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "duration_ms": 171026,
+      "name": "Walk Away",
+      "url": "https://open.spotify.com/track/2S22odTX2oIV6GxRoRN19h"
     },
     {
       "added_at": null,

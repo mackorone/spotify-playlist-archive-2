@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3q9mvf.md) - [plain]
 
 > This is The Slits\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,235 likes - 34 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,236 likes - 34 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,11 +23,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3q9mvf.md) - [plain]
 | 13 | [Shoplifting](https://open.spotify.com/track/6pY6AdtuZixaErD7xLt5Z6) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [Cut \(Deluxe Edition\)](https://open.spotify.com/album/6ppPT0aXOtsAlG1QQVB9E0) | 1:35 |
 | 14 | [Adventures Close To Home](https://open.spotify.com/track/0fIdKFpALGsshmcombaz13) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [Cut](https://open.spotify.com/album/0TfUvdJAj5ggwaLihQQ5qs) | 3:24 |
 | 15 | [From The Basement](https://open.spotify.com/track/1K7LmNJehOhmuvV2AiRXr2) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [From The Basement](https://open.spotify.com/album/0l0EeFMVOi3oIpVEx4wtVs) | 1:38 |
-| 16 | [Improperly Dressed](https://open.spotify.com/track/6hp8fyy5Yx1VUjA7EeCXzN) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [Return of the Giant Slits](https://open.spotify.com/album/4FDegVqIcHDBVQDWdLX3OX) | 4:27 |
+| 16 | [Animal Space / Spacier](https://open.spotify.com/track/4AcSNRceUrNyddhHzQzbcx) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [Return of the Giant Slits](https://open.spotify.com/album/4FDegVqIcHDBVQDWdLX3OX) | 6:40 |
 | 17 | [Newtown](https://open.spotify.com/track/1e3ifvbu3nfTHFAN3qvS94) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [Cut \(Deluxe Edition\)](https://open.spotify.com/album/6ppPT0aXOtsAlG1QQVB9E0) | 3:48 |
 | 18 | [Liebe And Romanze \- Slow Version](https://open.spotify.com/track/3x66JmjdpL74nL44lmqYiW) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [Cut](https://open.spotify.com/album/0TfUvdJAj5ggwaLihQQ5qs) | 4:44 |
 | 19 | [Fade Away](https://open.spotify.com/track/1DAvbL32g5jhjjLfaO9di4) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [In The Beginning](https://open.spotify.com/album/5Gpqi5XCvsgqUbXtdGvslS) | 3:41 |
-| 20 | [Animal Space / Spacier](https://open.spotify.com/track/4AcSNRceUrNyddhHzQzbcx) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [Return of the Giant Slits](https://open.spotify.com/album/4FDegVqIcHDBVQDWdLX3OX) | 6:40 |
+| 20 | [Improperly Dressed](https://open.spotify.com/track/6hp8fyy5Yx1VUjA7EeCXzN) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [Return of the Giant Slits](https://open.spotify.com/album/4FDegVqIcHDBVQDWdLX3OX) | 4:27 |
 | 21 | [So Tough](https://open.spotify.com/track/37djIDiwXDcazfaKVy6bu6) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [Cut \(Deluxe Edition\)](https://open.spotify.com/album/6ppPT0aXOtsAlG1QQVB9E0) | 2:40 |
 | 22 | [Une Homme et Un Slit \(Live at The Gibus Club, 1978\)](https://open.spotify.com/track/0QC6haYulTktRMrYjunZJ8) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [Live at the Gibus Club](https://open.spotify.com/album/04pZjd4uyJqPWNQ6gJLuQ9) | 0:55 |
 | 23 | [Slime](https://open.spotify.com/track/2LabDMCiDEFX7ay29gUkug) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [In The Beginning](https://open.spotify.com/album/5Gpqi5XCvsgqUbXtdGvslS) | 2:26 |
@@ -43,4 +43,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3q9mvf.md) - [plain]
 | 33 | [Enemy Numero Uno \(Live at The Gibus Club, 1978\)](https://open.spotify.com/track/1DYTxEXTJjSFd1nkAM16e5) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [Live at the Gibus Club](https://open.spotify.com/album/04pZjd4uyJqPWNQ6gJLuQ9) | 5:22 |
 | 34 | [A Boring Life](https://open.spotify.com/track/20ISwjERE9iu3WodlBuifQ) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [In The Beginning](https://open.spotify.com/album/5Gpqi5XCvsgqUbXtdGvslS) | 3:00 |
 
-Snapshot ID: `ahORAAAAAAALvCnb0g49AYE/b7C7EHys`
+Snapshot ID: `ahTigAAAAABen7Ep9O0LCTZurmMOeZTY`

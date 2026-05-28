@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahORAAAAAAAvabVWQWUrIcuRt5AQ71mz",
+  "snapshot_id": "ahTigAAAAABHsJi/x5Yz5lES4LEPq8c1",
   "tracks": [
     {
       "added_at": null,
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
         }
       ],
-      "duration_ms": 168451,
-      "name": "Reeling",
-      "url": "https://open.spotify.com/track/1nvESaptuv0S2ZzfKsLL9U"
+      "duration_ms": 182740,
+      "name": "The In-Between",
+      "url": "https://open.spotify.com/track/6WAXHxstqOYRJleZzxDg6d"
     },
     {
       "added_at": null,
@@ -411,70 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Everything is Tenuous",
-        "url": "https://open.spotify.com/album/1CauYGf4kborz50koSaKMd"
-      },
-      "artists": [
-        {
-          "name": "Luca Brasi",
-          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
-        }
-      ],
-      "duration_ms": 187101,
-      "name": "Remiss of Me",
-      "url": "https://open.spotify.com/track/3qQxv1BBsSnDtJE82pcLnR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stay",
-        "url": "https://open.spotify.com/album/2Pmz99qx28KSvdsSqN5uO0"
-      },
-      "artists": [
-        {
-          "name": "Luca Brasi",
-          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
-        }
-      ],
-      "duration_ms": 182740,
-      "name": "The In-Between",
-      "url": "https://open.spotify.com/track/6WAXHxstqOYRJleZzxDg6d"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The World Don't Owe You Anything",
-        "url": "https://open.spotify.com/album/5380vNQwfXfMQEpIBgnGRg"
-      },
-      "artists": [
-        {
-          "name": "Luca Brasi",
-          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
-        }
-      ],
-      "duration_ms": 176893,
-      "name": "Party Scene",
-      "url": "https://open.spotify.com/track/1QYnJPrOiBy6slMePfc0cA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "By a Thread",
-        "url": "https://open.spotify.com/album/2r5dvvJMnPk6dkHwjRv6Vv"
-      },
-      "artists": [
-        {
-          "name": "Luca Brasi",
-          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
-        }
-      ],
-      "duration_ms": 184518,
-      "name": "Western Junction",
-      "url": "https://open.spotify.com/track/4b6gMgx5ykfm8Zri8hpaSR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Extended Family",
         "url": "https://open.spotify.com/album/6hITMFxYvPwKhS7kD1q3Ao"
       },
@@ -491,8 +427,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Everything is Tenuous",
-        "url": "https://open.spotify.com/album/1CauYGf4kborz50koSaKMd"
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/2Pmz99qx28KSvdsSqN5uO0"
       },
       "artists": [
         {
@@ -500,9 +436,9 @@
           "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
         }
       ],
-      "duration_ms": 246347,
-      "name": "Never the Right Time",
-      "url": "https://open.spotify.com/track/5eQo8AdL0PUKw2NgbhJQSZ"
+      "duration_ms": 168451,
+      "name": "Reeling",
+      "url": "https://open.spotify.com/track/1nvESaptuv0S2ZzfKsLL9U"
     },
     {
       "added_at": null,
@@ -532,9 +468,25 @@
           "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
         }
       ],
-      "duration_ms": 123726,
-      "name": "K.D.R",
-      "url": "https://open.spotify.com/track/1fj3hQgtMW3DyubOaxStHo"
+      "duration_ms": 184518,
+      "name": "Western Junction",
+      "url": "https://open.spotify.com/track/4b6gMgx5ykfm8Zri8hpaSR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Everything is Tenuous",
+        "url": "https://open.spotify.com/album/1CauYGf4kborz50koSaKMd"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "duration_ms": 187101,
+      "name": "Remiss of Me",
+      "url": "https://open.spotify.com/track/3qQxv1BBsSnDtJE82pcLnR"
     },
     {
       "added_at": null,
@@ -555,8 +507,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jackies Are On The March",
-        "url": "https://open.spotify.com/album/6uqe4KG28xyYXHq44KzJ5u"
+        "name": "The World Don't Owe You Anything",
+        "url": "https://open.spotify.com/album/5380vNQwfXfMQEpIBgnGRg"
       },
       "artists": [
         {
@@ -564,25 +516,9 @@
           "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
         }
       ],
-      "duration_ms": 135630,
-      "name": "Jackies Are On The March",
-      "url": "https://open.spotify.com/track/4MSxYD2ufYwbDoX5mzTzb4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Yossarian",
-        "url": "https://open.spotify.com/album/3XWw9cnaoW4nulHsP03f9c"
-      },
-      "artists": [
-        {
-          "name": "Luca Brasi",
-          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
-        }
-      ],
-      "duration_ms": 191395,
-      "name": "Yossarian",
-      "url": "https://open.spotify.com/track/2O678VIw4c052ZW0Ar2KXt"
+      "duration_ms": 176893,
+      "name": "Party Scene",
+      "url": "https://open.spotify.com/track/1QYnJPrOiBy6slMePfc0cA"
     },
     {
       "added_at": null,
@@ -596,9 +532,25 @@
           "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
         }
       ],
-      "duration_ms": 183662,
-      "name": "Benthos",
-      "url": "https://open.spotify.com/track/04GyfMLy3j0S6aa7NRrRn0"
+      "duration_ms": 123726,
+      "name": "K.D.R",
+      "url": "https://open.spotify.com/track/1fj3hQgtMW3DyubOaxStHo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Everything is Tenuous",
+        "url": "https://open.spotify.com/album/1CauYGf4kborz50koSaKMd"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "duration_ms": 246347,
+      "name": "Never the Right Time",
+      "url": "https://open.spotify.com/track/5eQo8AdL0PUKw2NgbhJQSZ"
     },
     {
       "added_at": null,
@@ -619,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Loose Threads",
-        "url": "https://open.spotify.com/album/1icrFP0zNoQmzukq41iea0"
+        "name": "Jackies Are On The March",
+        "url": "https://open.spotify.com/album/6uqe4KG28xyYXHq44KzJ5u"
       },
       "artists": [
         {
@@ -628,9 +580,41 @@
           "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
         }
       ],
-      "duration_ms": 180229,
-      "name": "Quicksand",
-      "url": "https://open.spotify.com/track/52GXxByzG2G6fpo9b2zvpY"
+      "duration_ms": 135630,
+      "name": "Jackies Are On The March",
+      "url": "https://open.spotify.com/track/4MSxYD2ufYwbDoX5mzTzb4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "By a Thread",
+        "url": "https://open.spotify.com/album/2r5dvvJMnPk6dkHwjRv6Vv"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "duration_ms": 183662,
+      "name": "Benthos",
+      "url": "https://open.spotify.com/track/04GyfMLy3j0S6aa7NRrRn0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Yossarian",
+        "url": "https://open.spotify.com/album/3XWw9cnaoW4nulHsP03f9c"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "duration_ms": 191395,
+      "name": "Yossarian",
+      "url": "https://open.spotify.com/track/2O678VIw4c052ZW0Ar2KXt"
     },
     {
       "added_at": null,
@@ -647,6 +631,22 @@
       "duration_ms": 160573,
       "name": "Southbound",
       "url": "https://open.spotify.com/track/5onrnxQZ7yB6wdlyh7GU2s"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Loose Threads",
+        "url": "https://open.spotify.com/album/1icrFP0zNoQmzukq41iea0"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "duration_ms": 180229,
+      "name": "Quicksand",
+      "url": "https://open.spotify.com/track/52GXxByzG2G6fpo9b2zvpY"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "pral\u00e9m de outfit. AURA. Foto: Brand\u00e3o85",
-  "num_followers": 148936,
+  "num_followers": 148944,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
@@ -995,6 +995,30 @@
     {
       "added_at": "2026-05-15 17:27:59",
       "album": {
+        "name": "Ciclo",
+        "url": "https://open.spotify.com/album/2Pg63mnbvo0XuEbwA5YbkK"
+      },
+      "artists": [
+        {
+          "name": "PJ HOUDINI",
+          "url": "https://open.spotify.com/artist/3nfVTPYDnppERKGCRS4vim"
+        },
+        {
+          "name": "NADAMAL",
+          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
+        },
+        {
+          "name": "Viper",
+          "url": "https://open.spotify.com/artist/7lr4WifTmPssQJgBmbjiJq"
+        }
+      ],
+      "duration_ms": 115384,
+      "name": "Ciclo",
+      "url": "https://open.spotify.com/track/5k7JkpDlo6o9HJ1i8Wj8Mn"
+    },
+    {
+      "added_at": "2026-05-15 17:27:59",
+      "album": {
         "name": "ELA \u00c9 RIO",
         "url": "https://open.spotify.com/album/5jkeTUtKTpSgM7B5XRK9U1"
       },
@@ -1019,30 +1043,6 @@
       "duration_ms": 201931,
       "name": "Moncler",
       "url": "https://open.spotify.com/track/5qxLT4qC7xkWttnBYgT4xL"
-    },
-    {
-      "added_at": "2026-05-15 17:27:59",
-      "album": {
-        "name": "Ciclo",
-        "url": "https://open.spotify.com/album/2Pg63mnbvo0XuEbwA5YbkK"
-      },
-      "artists": [
-        {
-          "name": "PJ HOUDINI",
-          "url": "https://open.spotify.com/artist/3nfVTPYDnppERKGCRS4vim"
-        },
-        {
-          "name": "NADAMAL",
-          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
-        },
-        {
-          "name": "Viper",
-          "url": "https://open.spotify.com/artist/7lr4WifTmPssQJgBmbjiJq"
-        }
-      ],
-      "duration_ms": 115384,
-      "name": "Ciclo",
-      "url": "https://open.spotify.com/track/5k7JkpDlo6o9HJ1i8Wj8Mn"
     },
     {
       "added_at": "2026-05-15 17:27:59",

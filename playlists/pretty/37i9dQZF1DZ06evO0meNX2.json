@@ -1,12 +1,12 @@
 {
   "description": "This is Codiciado. The essential tracks, all in one playlist.",
-  "num_followers": 44423,
+  "num_followers": 44439,
   "original_name": "This Is Codiciado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahORAAAAAABPY/RFp0ymCJ2a+SGzkUzR",
+  "snapshot_id": "ahTigAAAAADNuGMMe6Mg5wxPjqUT6xmk",
   "tracks": [
     {
       "added_at": null,
@@ -467,22 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "TODO PENDEJO",
-        "url": "https://open.spotify.com/album/3Dy4cbywafEQjnU2tliWXK"
-      },
-      "artists": [
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        }
-      ],
-      "duration_ms": 190359,
-      "name": "TODO PENDEJO",
-      "url": "https://open.spotify.com/track/53rgAXUcCzGoK5wPjBQbhk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ni\u00f1o De Oro",
         "url": "https://open.spotify.com/album/2LtooHAvxsaUywYzKxfjhZ"
       },
@@ -503,6 +487,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "TODO PENDEJO",
+        "url": "https://open.spotify.com/album/3Dy4cbywafEQjnU2tliWXK"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "duration_ms": 190359,
+      "name": "TODO PENDEJO",
+      "url": "https://open.spotify.com/track/53rgAXUcCzGoK5wPjBQbhk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "As\u00ed Es La Vida",
         "url": "https://open.spotify.com/album/0TWwVA2SLE68qEemMfl9NC"
       },
@@ -515,26 +515,6 @@
       "duration_ms": 194413,
       "name": "Cabr\u00f3n Yo Puedo",
       "url": "https://open.spotify.com/track/3niy6Vo9NRtb1WKsSf3hy1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PISTEANDO DESDE LOS ANGELES (En Vivo)",
-        "url": "https://open.spotify.com/album/3QbPa15debwncYYRMvb1hL"
-      },
-      "artists": [
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        },
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 242928,
-      "name": "AMOR LIMOSNERO - En Vivo desde Los \u00c1ngeles",
-      "url": "https://open.spotify.com/track/2YJP21RyT4UKKocPJQJGku"
     },
     {
       "added_at": null,
@@ -555,6 +535,26 @@
       "duration_ms": 149624,
       "name": "El Disney",
       "url": "https://open.spotify.com/track/7s6HTRJUUZ9WCY9gPDhjdj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PISTEANDO DESDE LOS ANGELES (En Vivo)",
+        "url": "https://open.spotify.com/album/3QbPa15debwncYYRMvb1hL"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 242928,
+      "name": "AMOR LIMOSNERO - En Vivo desde Los \u00c1ngeles",
+      "url": "https://open.spotify.com/track/2YJP21RyT4UKKocPJQJGku"
     },
     {
       "added_at": null,
@@ -591,6 +591,26 @@
       "duration_ms": 194307,
       "name": "Ev\u00edtame La Pena",
       "url": "https://open.spotify.com/track/1WE0odV2NK2PvdpIAJ7CB9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DOSIS",
+        "url": "https://open.spotify.com/album/3ubgQrcjkyLeiRuTSfOR3Z"
+      },
+      "artists": [
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        },
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "duration_ms": 214403,
+      "name": "Se Me Amanece",
+      "url": "https://open.spotify.com/track/17LTvUNcDekp4pivzWQ283"
     },
     {
       "added_at": null,
@@ -639,6 +659,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "As\u00ed Es La Vida",
+        "url": "https://open.spotify.com/album/0TWwVA2SLE68qEemMfl9NC"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "duration_ms": 212500,
+      "name": "Falt\u00f3 El Querer",
+      "url": "https://open.spotify.com/track/35qJOOHS4ADVAFpmNokiPh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "C.H.S.M",
         "url": "https://open.spotify.com/album/6WhE39eYeHUcjNuvjoRRVg"
       },
@@ -663,26 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "DISTORSI\u00d3N",
-        "url": "https://open.spotify.com/album/5MmiVlJJBI7hSd5QQIlHUT"
-      },
-      "artists": [
-        {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
-        },
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        }
-      ],
-      "duration_ms": 178500,
-      "name": "Mexican Flan",
-      "url": "https://open.spotify.com/track/5EnoBLm3M7rN7XWQ1nfhXv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Habemus Conciliaci\u00f3n (En Vivo)",
         "url": "https://open.spotify.com/album/3kRHNXeqTgVaY1q5IPvOen"
       },
@@ -703,18 +719,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "As\u00ed Es La Vida",
-        "url": "https://open.spotify.com/album/0TWwVA2SLE68qEemMfl9NC"
+        "name": "DISTORSI\u00d3N",
+        "url": "https://open.spotify.com/album/5MmiVlJJBI7hSd5QQIlHUT"
       },
       "artists": [
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        },
         {
           "name": "Codiciado",
           "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
         }
       ],
-      "duration_ms": 212500,
-      "name": "Falt\u00f3 El Querer",
-      "url": "https://open.spotify.com/track/35qJOOHS4ADVAFpmNokiPh"
+      "duration_ms": 178500,
+      "name": "Mexican Flan",
+      "url": "https://open.spotify.com/track/5EnoBLm3M7rN7XWQ1nfhXv"
     },
     {
       "added_at": null,
@@ -755,26 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "DOSIS",
-        "url": "https://open.spotify.com/album/3ubgQrcjkyLeiRuTSfOR3Z"
-      },
-      "artists": [
-        {
-          "name": "Xavi",
-          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
-        },
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        }
-      ],
-      "duration_ms": 214403,
-      "name": "Se Me Amanece",
-      "url": "https://open.spotify.com/track/17LTvUNcDekp4pivzWQ283"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Flotando En El Aire",
         "url": "https://open.spotify.com/album/35vp7QOXsyTnlOFmWLgetW"
       },
@@ -811,26 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PISTEANDO DESDE LOS ANGELES (En Vivo)",
-        "url": "https://open.spotify.com/album/3QbPa15debwncYYRMvb1hL"
-      },
-      "artists": [
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        },
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 171638,
-      "name": "HAY UNA MUJER - En Vivo desde Los \u00c1ngeles",
-      "url": "https://open.spotify.com/track/7zW3Jy3NS0nLnvRbwosBwC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Golpes De La Vida",
         "url": "https://open.spotify.com/album/27ODCRlzVevImnQl0KcsXY"
       },
@@ -847,6 +827,26 @@
       "duration_ms": 188655,
       "name": "Blindado El Carro",
       "url": "https://open.spotify.com/track/7DCqwMSct0rBmgG0v0FxNi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PISTEANDO DESDE LOS ANGELES (En Vivo)",
+        "url": "https://open.spotify.com/album/3QbPa15debwncYYRMvb1hL"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 171638,
+      "name": "HAY UNA MUJER - En Vivo desde Los \u00c1ngeles",
+      "url": "https://open.spotify.com/track/7zW3Jy3NS0nLnvRbwosBwC"
     },
     {
       "added_at": null,
@@ -887,26 +887,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PISTEANDO DESDE LOS ANGELES (En Vivo)",
-        "url": "https://open.spotify.com/album/3QbPa15debwncYYRMvb1hL"
-      },
-      "artists": [
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        },
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 184789,
-      "name": "AMOR PRISIONERO - En Vivo desde Los \u00c1ngeles",
-      "url": "https://open.spotify.com/track/0r9D3PXAe3Fpa22nWDEDU2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Golpes De La Vida",
         "url": "https://open.spotify.com/album/27ODCRlzVevImnQl0KcsXY"
       },
@@ -923,6 +903,26 @@
       "duration_ms": 246671,
       "name": "Vida Loca",
       "url": "https://open.spotify.com/track/0TQjuQbF9O7wEZucVz4OT4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PISTEANDO DESDE LOS ANGELES (En Vivo)",
+        "url": "https://open.spotify.com/album/3QbPa15debwncYYRMvb1hL"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 184789,
+      "name": "AMOR PRISIONERO - En Vivo desde Los \u00c1ngeles",
+      "url": "https://open.spotify.com/track/0r9D3PXAe3Fpa22nWDEDU2"
     },
     {
       "added_at": null,

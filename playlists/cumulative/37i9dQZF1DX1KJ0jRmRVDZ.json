@@ -8315,6 +8315,24 @@
     },
     {
       "album": {
+        "name": "dialogue",
+        "url": "https://open.spotify.com/album/0nFxDK8187xYJPMMph6c7y"
+      },
+      "artists": [
+        {
+          "name": "Ayase",
+          "url": "https://open.spotify.com/artist/1S8OQ9SqlLdD9l4paaZMuZ"
+        }
+      ],
+      "date_added": "2026-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184876,
+      "name": "PLANETS",
+      "url": "https://open.spotify.com/track/4dXAx6MlPTqRFC804zZZQ3"
+    },
+    {
+      "album": {
         "name": "\u9ece-ray-",
         "url": "https://open.spotify.com/album/3ODHhgn1GAznuAHw4Mcdea"
       },
@@ -10806,24 +10824,6 @@
       "duration_ms": 215819,
       "name": "Toxy!",
       "url": "https://open.spotify.com/track/75e9UjBVkiH4xqsoA8Hzmz"
-    },
-    {
-      "album": {
-        "name": "dialogue",
-        "url": "https://open.spotify.com/album/0nFxDK8187xYJPMMph6c7y"
-      },
-      "artists": [
-        {
-          "name": "Ayase",
-          "url": "https://open.spotify.com/artist/1S8OQ9SqlLdD9l4paaZMuZ"
-        }
-      ],
-      "date_added": "2026-05-26",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/4dXAx6MlPTqRFC804zZZQ3"
     },
     {
       "album": {

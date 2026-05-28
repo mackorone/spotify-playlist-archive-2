@@ -6046,7 +6046,7 @@
       ],
       "date_added": "2025-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-28",
       "duration_ms": 189898,
       "name": "Midnight Sun",
       "url": "https://open.spotify.com/track/1qRV1dKLOfH1s00b9J2LUQ"
@@ -7086,10 +7086,28 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-28",
       "duration_ms": 184296,
       "name": "Obsessive",
       "url": "https://open.spotify.com/track/2yAMjZcxepb11bPIuEJIBq"
+    },
+    {
+      "album": {
+        "name": "Suburb Superhero: The Villain Within",
+        "url": "https://open.spotify.com/album/0Xjl6xNdSvovYzVtCL4D92"
+      },
+      "artists": [
+        {
+          "name": "Jarreau Vandal",
+          "url": "https://open.spotify.com/artist/6f96znq79wvlknKHHHhtTW"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184320,
+      "name": "Obsessive",
+      "url": "https://open.spotify.com/track/5A7JKThtmnuHBdZaQYVLTs"
     },
     {
       "album": {
@@ -8568,10 +8586,32 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-28",
       "duration_ms": 209209,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/4y4DwppW6dvTPtIt7a1y8v"
+    },
+    {
+      "album": {
+        "name": "HTTP404",
+        "url": "https://open.spotify.com/album/6KegRKe007JEYDwYwLWiQd"
+      },
+      "artists": [
+        {
+          "name": "Oscar Scheller",
+          "url": "https://open.spotify.com/artist/6BToM88XrzNI6VL5GxazUq"
+        },
+        {
+          "name": "tiffi",
+          "url": "https://open.spotify.com/artist/4bQCZKbtYa0W0hzA7JrpC4"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209209,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/6QpxDe5d7lguKhip9hwlVF"
     },
     {
       "album": {
@@ -10090,7 +10130,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-27",
+      "date_removed": null,
       "duration_ms": 226000,
       "name": "Time",
       "url": "https://open.spotify.com/track/5HURgdoecQUfOxXPLHnTje"

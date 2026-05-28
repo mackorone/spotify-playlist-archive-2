@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcoMxAskrS3P.md) - [plain]
 
 > Enjoy the Weverse Con Festival 2025 LIVE SET including the voices of artists on stage and set lists! \(아티스트들의 무대 위 목소리와 셋리스트가 포함된 위버스 콘 페스티벌 2025 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,337 likes - 241 songs - 11 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,334 likes - 241 songs - 11 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -211,14 +211,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcoMxAskrS3P.md) - [plain]
 | 201 | [Good Luck](https://open.spotify.com/track/0udrtzeQZZ0JiAxISndWnk) | [UAU](https://open.spotify.com/artist/3zfokQW0XScTuGtTQkl682) | [Playlist \#You Are You](https://open.spotify.com/album/0Z9CrKIgLP09vWer1NGZBJ) | 2:50 |
 | 202 | [Attitude](https://open.spotify.com/track/5Jh2PGmEUWnprgkGDy4ML9) | [UAU](https://open.spotify.com/artist/3zfokQW0XScTuGtTQkl682) | [Playlist \#You Are You](https://open.spotify.com/album/0Z9CrKIgLP09vWer1NGZBJ) | 2:49 |
 | 203 | [TWS: Go WILD or Go MILD? ㅣ 2025 Weverse Con Festival with Spotify](https://open.spotify.com/episode/5v1ZZcaAb76h2jLfNfMkfu) | [Weverse Con Festival](https://open.spotify.com/show/0ggrcY8QJ0WD31E5bxfQyc) | [Weverse Con Festival](https://open.spotify.com/album/0ggrcY8QJ0WD31E5bxfQyc) | 1:56 |
-| 204 | [Countdown!](https://open.spotify.com/track/0ti0CEUPplsI7AZDyexrXy) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [TWS 3rd Mini Album 'TRY WITH US'](https://open.spotify.com/album/5JfdYZ1OTue80fQxp2rE6y) | 2:30 |
-| 205 | [Last Festival](https://open.spotify.com/track/4eDednnc8XIGpOmRNcho66) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [TWS 1st Single 'Last Bell'](https://open.spotify.com/album/1wDhFS3mm7PlF93J6tu8My) | 3:11 |
+| 204 | [Countdown!](https://open.spotify.com/track/0ti0CEUPplsI7AZDyexrXy) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [TRY WITH US](https://open.spotify.com/album/5JfdYZ1OTue80fQxp2rE6y) | 2:30 |
+| 205 | [Last Festival](https://open.spotify.com/track/4eDednnc8XIGpOmRNcho66) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [Last Bell](https://open.spotify.com/album/1wDhFS3mm7PlF93J6tu8My) | 3:11 |
 | 206 | [Comment from TWS 1](https://open.spotify.com/track/3GYIKhsm7vwkrrgS9sgfqG) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [Weverse Con Festival 2025](https://open.spotify.com/album/0NHvuAS9wWHCRH9E0GRiia) | 2:27 |
-| 207 | [Lucky to be loved](https://open.spotify.com/track/36eaUA0XV2LZ6Vs9KkNE1H) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [TWS 3rd Mini Album 'TRY WITH US'](https://open.spotify.com/album/5JfdYZ1OTue80fQxp2rE6y) | 2:48 |
-| 208 | [Fire Confetti](https://open.spotify.com/track/6LvwNDZKifVhxJ70GdtrQ8) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [TWS 2nd Mini Album 'SUMMER BEAT!'](https://open.spotify.com/album/03QRqvvQFLDaJM711Gkn03) | 3:02 |
-| 209 | [If I’m S, Can You Be My N?](https://open.spotify.com/track/2y8vRHEoz15sYDmxyrDePO) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [TWS 2nd Mini Album 'SUMMER BEAT!'](https://open.spotify.com/album/03QRqvvQFLDaJM711Gkn03) | 2:48 |
+| 207 | [Lucky to be loved](https://open.spotify.com/track/36eaUA0XV2LZ6Vs9KkNE1H) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [TRY WITH US](https://open.spotify.com/album/5JfdYZ1OTue80fQxp2rE6y) | 2:48 |
+| 208 | [Fire Confetti](https://open.spotify.com/track/6LvwNDZKifVhxJ70GdtrQ8) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [SUMMER BEAT!](https://open.spotify.com/album/03QRqvvQFLDaJM711Gkn03) | 3:02 |
+| 209 | [If I’m S, Can You Be My N?](https://open.spotify.com/track/2y8vRHEoz15sYDmxyrDePO) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [SUMMER BEAT!](https://open.spotify.com/album/03QRqvvQFLDaJM711Gkn03) | 2:48 |
 | 210 | [Comment from TWS 2](https://open.spotify.com/track/0Oo5AM2lH53ywOJ9jmyKRv) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [Weverse Con Festival 2025](https://open.spotify.com/album/0NHvuAS9wWHCRH9E0GRiia) | 3:08 |
-| 211 | [plot twist](https://open.spotify.com/track/0aZG8KWrpRnsGL0loUkfSj) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [TWS 1st Mini Album 'Sparkling Blue'](https://open.spotify.com/album/25qO1VYd8BuT8m5w8CFpdG) | 2:32 |
+| 211 | [plot twist](https://open.spotify.com/track/0aZG8KWrpRnsGL0loUkfSj) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [Sparkling Blue](https://open.spotify.com/album/25qO1VYd8BuT8m5w8CFpdG) | 2:32 |
 | 212 | [LE SSERAFIM: Go WILD or Go MILD? ㅣ 2025 Weverse Con Festival with Spotify](https://open.spotify.com/episode/3T1KJYFZ542Ydd7aWwsn5r) | [Weverse Con Festival](https://open.spotify.com/show/0ggrcY8QJ0WD31E5bxfQyc) | [Weverse Con Festival](https://open.spotify.com/album/0ggrcY8QJ0WD31E5bxfQyc) | 2:00 |
 | 213 | [Chasing Lightning](https://open.spotify.com/track/5hfKDfqthxHt6xsgCjimuO) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [CRAZY](https://open.spotify.com/album/538vEfAgLJ6g2I8ubuOlap) | 3:25 |
 | 214 | [CRAZY](https://open.spotify.com/track/3AoEQRuFf8zVXWqSLo2UOi) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [CRAZY](https://open.spotify.com/album/538vEfAgLJ6g2I8ubuOlap) | 2:44 |

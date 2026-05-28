@@ -1420,10 +1420,28 @@
       ],
       "date_added": "2026-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-28",
       "duration_ms": 211644,
       "name": "I Just Might",
       "url": "https://open.spotify.com/track/3fMJmqOH3WfA6mVsz4Mk8s"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 53",
+        "url": "https://open.spotify.com/album/3bIzxAnQ3OhBfBw1x6AinI"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213144,
+      "name": "I Just Might",
+      "url": "https://open.spotify.com/track/3bsecwjX5nHQQE21IQWyR0"
     },
     {
       "album": {

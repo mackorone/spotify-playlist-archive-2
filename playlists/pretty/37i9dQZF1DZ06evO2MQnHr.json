@@ -1,12 +1,12 @@
 {
   "description": "This is Madeline Merlo. The essential tracks, all in one playlist.",
-  "num_followers": 498,
+  "num_followers": 499,
   "original_name": "This Is Madeline Merlo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahORAAAAAADbx7+kS0tS2eMBqoedOROx",
+  "snapshot_id": "ahTigAAAAAD1h0fQPGOtE/+eEjYZflh6",
   "tracks": [
     {
       "added_at": null,
@@ -179,22 +179,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Free Soul",
-        "url": "https://open.spotify.com/album/5Zzp55K41GaC8UOshoFf44"
-      },
-      "artists": [
-        {
-          "name": "Madeline Merlo",
-          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
-        }
-      ],
-      "duration_ms": 211480,
-      "name": "Whatcha Wanna Do About It",
-      "url": "https://open.spotify.com/track/4RvfyCTSXK7sxQ6Srp26lu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Kiss Kiss",
         "url": "https://open.spotify.com/album/0DVXGrjbjc0YSGbkh4g26Z"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 192053,
       "name": "Kiss Kiss",
       "url": "https://open.spotify.com/track/6qbJuNW2LYU1kYnzyyVBBn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Free Soul",
+        "url": "https://open.spotify.com/album/5Zzp55K41GaC8UOshoFf44"
+      },
+      "artists": [
+        {
+          "name": "Madeline Merlo",
+          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
+        }
+      ],
+      "duration_ms": 204493,
+      "name": "War Paint",
+      "url": "https://open.spotify.com/track/0ozzHTaaXNLaVxuO1VQ8KT"
     },
     {
       "added_at": null,
@@ -243,22 +243,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Free Soul",
-        "url": "https://open.spotify.com/album/5Zzp55K41GaC8UOshoFf44"
-      },
-      "artists": [
-        {
-          "name": "Madeline Merlo",
-          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
-        }
-      ],
-      "duration_ms": 204493,
-      "name": "War Paint",
-      "url": "https://open.spotify.com/track/0ozzHTaaXNLaVxuO1VQ8KT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Take A Broken Heart",
         "url": "https://open.spotify.com/album/2Gdv4H1aIjyLMklwti30lM"
       },
@@ -275,8 +259,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unraveling",
-        "url": "https://open.spotify.com/album/1DigFIrYSADGMkHyWAb11D"
+        "name": "Free Soul",
+        "url": "https://open.spotify.com/album/5Zzp55K41GaC8UOshoFf44"
       },
       "artists": [
         {
@@ -284,9 +268,9 @@
           "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
         }
       ],
-      "duration_ms": 212360,
-      "name": "Unraveling",
-      "url": "https://open.spotify.com/track/6DwP8U1JYIEQPVo8QU9JO7"
+      "duration_ms": 211480,
+      "name": "Whatcha Wanna Do About It",
+      "url": "https://open.spotify.com/track/4RvfyCTSXK7sxQ6Srp26lu"
     },
     {
       "added_at": null,
@@ -307,8 +291,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Free Soul",
-        "url": "https://open.spotify.com/album/5Zzp55K41GaC8UOshoFf44"
+        "name": "Unraveling",
+        "url": "https://open.spotify.com/album/1DigFIrYSADGMkHyWAb11D"
       },
       "artists": [
         {
@@ -316,9 +300,9 @@
           "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
         }
       ],
-      "duration_ms": 188013,
-      "name": "Honey Jack",
-      "url": "https://open.spotify.com/track/6xh9ldjY4JllfaguxDQqz5"
+      "duration_ms": 212360,
+      "name": "Unraveling",
+      "url": "https://open.spotify.com/track/6DwP8U1JYIEQPVo8QU9JO7"
     },
     {
       "added_at": null,
@@ -339,38 +323,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Slide",
-        "url": "https://open.spotify.com/album/1XQ65rtdxl5eag0BwvJnvZ"
-      },
-      "artists": [
-        {
-          "name": "Madeline Merlo",
-          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
-        }
-      ],
-      "duration_ms": 190826,
-      "name": "I Need A Drink",
-      "url": "https://open.spotify.com/track/5IEovkT4oqFuDIkxIuhAvb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "ONE HOUSE DOWN (from the girl next door)",
-        "url": "https://open.spotify.com/album/4UC8sYWpaHLpqivwrSICvU"
-      },
-      "artists": [
-        {
-          "name": "Madeline Merlo",
-          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
-        }
-      ],
-      "duration_ms": 170626,
-      "name": "One House Down (from the girl next door)",
-      "url": "https://open.spotify.com/track/4wk1APZHRP9kmb1KQqQKHO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Free Soul",
         "url": "https://open.spotify.com/album/5Zzp55K41GaC8UOshoFf44"
       },
@@ -380,33 +332,9 @@
           "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
         }
       ],
-      "duration_ms": 207906,
-      "name": "Crush",
-      "url": "https://open.spotify.com/track/1tZ1TWoBfBIOnWU3ieSRzk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Country Crush (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2jJUDUVtsRdN8EWAeEDowd"
-      },
-      "artists": [
-        {
-          "name": "Jana Kramer",
-          "url": "https://open.spotify.com/artist/2PaRhxWFaqCUZybJDDoNrf"
-        },
-        {
-          "name": "Munro Chambers",
-          "url": "https://open.spotify.com/artist/6iQwFHGEHAMlQVxJQGye1d"
-        },
-        {
-          "name": "Madeline Merlo",
-          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
-        }
-      ],
-      "duration_ms": 222022,
-      "name": "To Have You Stay",
-      "url": "https://open.spotify.com/track/5SrbIv4Xn7SH9fRngBz8kP"
+      "duration_ms": 188013,
+      "name": "Honey Jack",
+      "url": "https://open.spotify.com/track/6xh9ldjY4JllfaguxDQqz5"
     },
     {
       "added_at": null,
@@ -436,9 +364,33 @@
           "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
         }
       ],
-      "duration_ms": 192373,
-      "name": "Bar Fight",
-      "url": "https://open.spotify.com/track/64QjyKIjRMHjzPjZ3QntWk"
+      "duration_ms": 170626,
+      "name": "One House Down (from the girl next door)",
+      "url": "https://open.spotify.com/track/4wk1APZHRP9kmb1KQqQKHO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Country Crush (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2jJUDUVtsRdN8EWAeEDowd"
+      },
+      "artists": [
+        {
+          "name": "Jana Kramer",
+          "url": "https://open.spotify.com/artist/2PaRhxWFaqCUZybJDDoNrf"
+        },
+        {
+          "name": "Munro Chambers",
+          "url": "https://open.spotify.com/artist/6iQwFHGEHAMlQVxJQGye1d"
+        },
+        {
+          "name": "Madeline Merlo",
+          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
+        }
+      ],
+      "duration_ms": 222022,
+      "name": "To Have You Stay",
+      "url": "https://open.spotify.com/track/5SrbIv4Xn7SH9fRngBz8kP"
     },
     {
       "added_at": null,
@@ -452,9 +404,41 @@
           "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
         }
       ],
-      "duration_ms": 199306,
-      "name": "Over and Over",
-      "url": "https://open.spotify.com/track/0C8zrFkcEsOW5hhBdAFzYL"
+      "duration_ms": 207906,
+      "name": "Crush",
+      "url": "https://open.spotify.com/track/1tZ1TWoBfBIOnWU3ieSRzk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Slide",
+        "url": "https://open.spotify.com/album/1XQ65rtdxl5eag0BwvJnvZ"
+      },
+      "artists": [
+        {
+          "name": "Madeline Merlo",
+          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
+        }
+      ],
+      "duration_ms": 190826,
+      "name": "I Need A Drink",
+      "url": "https://open.spotify.com/track/5IEovkT4oqFuDIkxIuhAvb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ONE HOUSE DOWN (from the girl next door)",
+        "url": "https://open.spotify.com/album/4UC8sYWpaHLpqivwrSICvU"
+      },
+      "artists": [
+        {
+          "name": "Madeline Merlo",
+          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
+        }
+      ],
+      "duration_ms": 192373,
+      "name": "Bar Fight",
+      "url": "https://open.spotify.com/track/64QjyKIjRMHjzPjZ3QntWk"
     },
     {
       "added_at": null,
@@ -475,6 +459,22 @@
       "duration_ms": 229165,
       "name": "Here I Am Gone",
       "url": "https://open.spotify.com/track/4LEHZIyk29as3lfGq7tS2u"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Free Soul",
+        "url": "https://open.spotify.com/album/5Zzp55K41GaC8UOshoFf44"
+      },
+      "artists": [
+        {
+          "name": "Madeline Merlo",
+          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
+        }
+      ],
+      "duration_ms": 199306,
+      "name": "Over and Over",
+      "url": "https://open.spotify.com/track/0C8zrFkcEsOW5hhBdAFzYL"
     },
     {
       "added_at": null,
@@ -515,22 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Free Soul",
-        "url": "https://open.spotify.com/album/5Zzp55K41GaC8UOshoFf44"
-      },
-      "artists": [
-        {
-          "name": "Madeline Merlo",
-          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
-        }
-      ],
-      "duration_ms": 237240,
-      "name": "Sinking Like a Stone",
-      "url": "https://open.spotify.com/track/5gcfq2p2cEQEwrzuq9ojQD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Country Crush (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2jJUDUVtsRdN8EWAeEDowd"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 216270,
       "name": "What If I Am",
       "url": "https://open.spotify.com/track/4K86g3PFhcjT32wuIzP2DR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Free Soul",
+        "url": "https://open.spotify.com/album/5Zzp55K41GaC8UOshoFf44"
+      },
+      "artists": [
+        {
+          "name": "Madeline Merlo",
+          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
+        }
+      ],
+      "duration_ms": 237240,
+      "name": "Sinking Like a Stone",
+      "url": "https://open.spotify.com/track/5gcfq2p2cEQEwrzuq9ojQD"
     },
     {
       "added_at": null,

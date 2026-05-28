@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Norway.
 
-2,693 songs - 5 day 21 hr 43 min
+2,694 songs - 5 day 21 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [Angel Numbers / Ten Toes](https://open.spotify.com/track/3XqM8hLCEYlbnFjoWwqtFv) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [11:11](https://open.spotify.com/album/0tL8CzbfmF5poGm9puqALR) | 5:06 | 2023-11-28 | 2024-02-13 |
 | [Angels Above Me](https://open.spotify.com/track/0HZFTqqGkiY37nlA8fltkN) | [MDB](https://open.spotify.com/artist/72zQ9DAaHdc4g5oVQiwhuk) | [Angels Above Me](https://open.spotify.com/album/6IoVnGrjEnICUH8KBZhS9t) | 4:22 | 2026-05-15 | 2026-05-17 |
 | [Angels Above Me](https://open.spotify.com/track/27xQUM3V3FVzrOwfVWnHBj) | [MDB](https://open.spotify.com/artist/72zQ9DAaHdc4g5oVQiwhuk) | [Angels Above Me](https://open.spotify.com/album/3EKbjMsA0ERiC7skPiFGEn) | 4:22 | 2026-05-10 | 2026-05-16 |
+| [Angels Above Me](https://open.spotify.com/track/6hBHSglQeZDkfkDYPBxG4i) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [World on Fire](https://open.spotify.com/album/3nKRWuZAz6LwYgOauD2qKB) | 4:26 | 2026-05-27 |  |
 | [Another Love](https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Long Way Down \(Deluxe\)](https://open.spotify.com/album/0Gf1yE895FKK4YWVRuAeg8) | 4:04 | 2023-08-08 | 2026-01-04 |
 | [Another Love](https://open.spotify.com/track/5E4jBLx4P0UBji68bBThSw) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Long Way Down \(Expanded Edition\)](https://open.spotify.com/album/3t0Quq8X7W90hRP5OQ5S4b) | 4:04 | 2024-10-04 | 2026-01-02 |
 | [Another Love](https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Long Way Down](https://open.spotify.com/album/0KGBW1MQtC2aFPCDUdAkdJ) | 4:04 | 2021-04-26 | 2026-01-01 |
@@ -1187,7 +1188,7 @@
 | [Idiot](https://open.spotify.com/track/1dD5RfTAEDEk19GhAz9hUG) | [Broiler](https://open.spotify.com/artist/3836OTICMPjhTMMcpPw4EC), [PandaPanda](https://open.spotify.com/artist/3bprEfGCk6tljbWjtvGQH5) | [Idiot](https://open.spotify.com/album/4mn6Db6CFWf05QqKKTsSS1) | 1:58 | 2023-05-27 | 2023-06-07 |
 | [Idiot](https://open.spotify.com/track/5vLOM6xp1c2B1vqCpQf6oo) | [Broiler](https://open.spotify.com/artist/3836OTICMPjhTMMcpPw4EC), [PandaPanda](https://open.spotify.com/artist/3bprEfGCk6tljbWjtvGQH5) | [Idiot](https://open.spotify.com/album/12GMWOXclPuWUmygCmvKrk) | 1:58 | 2023-06-06 | 2023-07-04 |
 | [Idiot](https://open.spotify.com/track/7tfoIzmMZ7baGJEYmHtajI) | [Broiler](https://open.spotify.com/artist/3836OTICMPjhTMMcpPw4EC), [PandaPanda](https://open.spotify.com/artist/3bprEfGCk6tljbWjtvGQH5) | [Idiot](https://open.spotify.com/album/1quZHmo8Sdp0AJDG3Vrh3n) | 1:58 | 2023-07-03 | 2023-08-23 |
-| [Idyll](https://open.spotify.com/track/6ZB1dFgdUW6I9qzW7Oap6o) | [Postgirobygget](https://open.spotify.com/artist/3DdqT0OIZY3arBWnZ3NJeb) | [Melis](https://open.spotify.com/album/37OHrXXHZRIiKlxbHzOalj) | 3:23 | 2023-06-11 |  |
+| [Idyll](https://open.spotify.com/track/6ZB1dFgdUW6I9qzW7Oap6o) | [Postgirobygget](https://open.spotify.com/artist/3DdqT0OIZY3arBWnZ3NJeb) | [Melis](https://open.spotify.com/album/37OHrXXHZRIiKlxbHzOalj) | 3:23 | 2023-06-11 | 2026-05-28 |
 | [If I Were You](https://open.spotify.com/track/1W90AsFODVp6SbRitqmpc6) | [Victoria Nadine](https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K) | [If I Were You](https://open.spotify.com/album/33lhloR9jksZUrSIpJYo1R) | 3:12 | 2022-03-05 | 2022-03-21 |
 | [If We Ever Broke Up](https://open.spotify.com/track/6maTPqynTmrkWIralgGaoP) | [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E) | [If We Ever Broke Up](https://open.spotify.com/album/4eadTzshRApGna6Ppz5XwO) | 2:22 | 2023-02-11 | 2023-03-19 |
 | [If You Want Me](https://open.spotify.com/track/2HlcsGwSitKqHOaR3FjssK) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH), [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow) | [Profound Mysteries](https://open.spotify.com/album/1zkMAbOocqRPTdBx7A6h4U) | 5:39 | 2022-04-30 | 2022-05-02 |

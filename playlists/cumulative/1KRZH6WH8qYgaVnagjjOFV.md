@@ -4,7 +4,7 @@
 
 > Top Christian Hits 2026 \| Best Christian songs of 2026\. NEW CHRISTIAN MUSIC! New Music Friday! Cover: <a href="https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4?si=k\_0tRBc\-QKaaJDlZqV9KHg">Jamie MacDonald</a>  cinco de mayo , soaking worship , jelly roll worship
 
-203 songs - 13 hr 31 min
+204 songs - 13 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,6 +196,7 @@
 | [Watchmen](https://open.spotify.com/track/48CJkDa7zpAX65uIWXyuHZ) | [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj), [The New Respects](https://open.spotify.com/artist/5lwtznzBlmVM2IhgrCWbT9) | [EAT](https://open.spotify.com/album/0USg7yhc0M9kTNDlzcMU7K) | 2:47 | 2026-05-15 |  |
 | [We Turn Our Eyes](https://open.spotify.com/track/0FmXi9DmlwfA15LKO47Dp1) | [Tommee Profitt](https://open.spotify.com/artist/73jlPRxT7z5xk29sMqFDjU), [Jamie MacDonald](https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4) | [The Resurrection Of A King](https://open.spotify.com/album/4wLFc5K7ODnAYiFD9bXOfK) | 5:55 | 2026-03-27 |  |
 | [WELCOME TO THE CLUB](https://open.spotify.com/track/1Hhx6Ue9QblFzhEfsIt1YI) | [gio.](https://open.spotify.com/artist/5GevjOibFX6uwZ1mTYfhbn), [DJ Mykael V](https://open.spotify.com/artist/2WLOBjz9WOZrJcbS2w93zt) | [FINE BY ME](https://open.spotify.com/album/1mIZcEaoDUnHwQKrCMjMYX) | 1:31 | 2025-10-24 |  |
+| [What A Miracle Feels Like](https://open.spotify.com/track/1oEl1JTGnCzu9pFtXtQhCK) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Breathe On It](https://open.spotify.com/album/6MVFE0ur2YQDrG6Hdo5V0w) | 6:19 | 2026-05-27 |  |
 | [Whatever It Takes](https://open.spotify.com/track/4EwaM0IOIzHAJqyoJd5nj6) | [Stephen Stanley](https://open.spotify.com/artist/5uGLuPqfATGbvk6shtjDoX) | [Divided Frame Of Mind](https://open.spotify.com/album/4QFDKgHuOrhiYYDhCy2cWy) | 3:30 | 2025-01-31 |  |
 | [when i think about my jesus](https://open.spotify.com/track/2zTq9WcEIZ41YP4KluCgqT) | [Bella Taylor Smith](https://open.spotify.com/artist/5KZN09Gq54DniaMMM7rKCQ) | [when i think about my jesus](https://open.spotify.com/album/63lc6UbvqqCLjBej27ovMW) | 3:30 | 2026-02-13 |  |
 | [Who Else \- Live](https://open.spotify.com/track/2hUVIsZyLfy4xs35CHTlmN) | [Gateway Worship](https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB), [Claire Smith](https://open.spotify.com/artist/1WX879kYCO2MoFKwSZ2e50) | [Crowns Down \(Live\)](https://open.spotify.com/album/3yIWDWEr4BWDt38ovHWnre) | 4:50 | 2025-08-15 |  |

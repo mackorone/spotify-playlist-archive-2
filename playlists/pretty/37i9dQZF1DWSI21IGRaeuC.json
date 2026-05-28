@@ -1,13 +1,33 @@
 {
   "description": "the deep & minimal side of house & tech \u26cf\ufe0f\u26cf\ufe0f  \nfeaturing Dean Turnley",
-  "num_followers": 83049,
+  "num_followers": 83123,
   "original_name": "Deep & Minimal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAI+rB9ZMY4/yQg72HiPUrpllx8es",
+  "snapshot_id": "AAAAAIx8dIzZDo+LRrVlk2xwMsD1MgBD",
   "tracks": [
+    {
+      "added_at": "2026-05-27 23:36:59",
+      "album": {
+        "name": "Like That (feat. DJ Dre)",
+        "url": "https://open.spotify.com/album/5ccGat4JLwq2lteVoIdiiA"
+      },
+      "artists": [
+        {
+          "name": "L.P. Rhythm",
+          "url": "https://open.spotify.com/artist/3K5qBiy5EHwb270817Cy6e"
+        },
+        {
+          "name": "DJ Dre",
+          "url": "https://open.spotify.com/artist/7nlHMb6OJZ3HPEAu7aLonU"
+        }
+      ],
+      "duration_ms": 170909,
+      "name": "Like That (feat. DJ Dre)",
+      "url": "https://open.spotify.com/track/55LA3TJnSWxefo2arVfXHJ"
+    },
     {
       "added_at": "2026-05-08 04:01:49",
       "album": {
@@ -45,20 +65,20 @@
       "url": "https://open.spotify.com/track/0niU8VMrQzSNhrmsiLlmeS"
     },
     {
-      "added_at": "2026-05-15 04:02:22",
+      "added_at": "2026-05-27 23:36:59",
       "album": {
-        "name": "The Funk EP",
-        "url": "https://open.spotify.com/album/7oxFce5DqOA58Ycj9YAWaH"
+        "name": "Hypa",
+        "url": "https://open.spotify.com/album/6qwcD8Fu84jZJgFVfeIT5B"
       },
       "artists": [
         {
-          "name": "Riordan",
-          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
+          "name": "Silva Bumpa",
+          "url": "https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf"
         }
       ],
-      "duration_ms": 206412,
-      "name": "Feel The Funk",
-      "url": "https://open.spotify.com/track/2fWyCaf8OQViWejIesNwPE"
+      "duration_ms": 174544,
+      "name": "Make It Hot",
+      "url": "https://open.spotify.com/track/6Y1Ox3HcXyZBuCS01qfjOW"
     },
     {
       "added_at": "2026-05-15 04:02:22",
@@ -75,6 +95,22 @@
       "duration_ms": 181108,
       "name": "Journey",
       "url": "https://open.spotify.com/track/7KRVqlUR7iejxjIu11GI19"
+    },
+    {
+      "added_at": "2026-05-15 04:02:22",
+      "album": {
+        "name": "The Funk EP",
+        "url": "https://open.spotify.com/album/7oxFce5DqOA58Ycj9YAWaH"
+      },
+      "artists": [
+        {
+          "name": "Riordan",
+          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
+        }
+      ],
+      "duration_ms": 206412,
+      "name": "Feel The Funk",
+      "url": "https://open.spotify.com/track/2fWyCaf8OQViWejIesNwPE"
     },
     {
       "added_at": "2026-05-01 04:01:14",
@@ -95,6 +131,30 @@
       "duration_ms": 184019,
       "name": "One Question",
       "url": "https://open.spotify.com/track/7JvaT4FTTF0aYyacmfbHRY"
+    },
+    {
+      "added_at": "2026-05-27 23:36:59",
+      "album": {
+        "name": "Work Dub",
+        "url": "https://open.spotify.com/album/1bQczsMAUTzabEvTjzghAB"
+      },
+      "artists": [
+        {
+          "name": "Pupa Nas T",
+          "url": "https://open.spotify.com/artist/4vm90zckXYAA2AZGFStkmy"
+        },
+        {
+          "name": "SHUFFA",
+          "url": "https://open.spotify.com/artist/3tosID3SunySdhOUdzmO8E"
+        },
+        {
+          "name": "Denise Belfon",
+          "url": "https://open.spotify.com/artist/20rSjugHQ6CwKR44JnteQf"
+        }
+      ],
+      "duration_ms": 190298,
+      "name": "Work Dub",
+      "url": "https://open.spotify.com/track/6cldCn0zKbOhBxoqMPR2o1"
     },
     {
       "added_at": "2026-05-01 04:01:14",
@@ -147,6 +207,22 @@
       "duration_ms": 205454,
       "name": "Is It You (Or Is It Me)",
       "url": "https://open.spotify.com/track/4VjGuOdMtLmjVvySSwYwc1"
+    },
+    {
+      "added_at": "2026-05-27 23:36:59",
+      "album": {
+        "name": "Gold EP",
+        "url": "https://open.spotify.com/album/1I1CoyGY81sbZ4aCt43ZQ9"
+      },
+      "artists": [
+        {
+          "name": "Dec Duffy",
+          "url": "https://open.spotify.com/artist/7FYhnZ1aQc8WmR06oL6Dwu"
+        }
+      ],
+      "duration_ms": 302222,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/56juJw8K3njlvFKz7fitj8"
     },
     {
       "added_at": "2026-04-24 04:01:42",
@@ -217,6 +293,26 @@
       "url": "https://open.spotify.com/track/2WKo24hJ6TSkd7SzDwFZ9A"
     },
     {
+      "added_at": "2026-05-27 23:36:59",
+      "album": {
+        "name": "Hypa",
+        "url": "https://open.spotify.com/album/6qwcD8Fu84jZJgFVfeIT5B"
+      },
+      "artists": [
+        {
+          "name": "Silva Bumpa",
+          "url": "https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf"
+        },
+        {
+          "name": "Mr Virgo",
+          "url": "https://open.spotify.com/artist/4lQPqOsyeapLWAd2aXILFU"
+        }
+      ],
+      "duration_ms": 160025,
+      "name": "Swagger Sound",
+      "url": "https://open.spotify.com/track/3huOaiSWe9zJJYwu4M6MsP"
+    },
+    {
       "added_at": "2026-04-17 04:04:08",
       "album": {
         "name": "Back to the 305",
@@ -251,6 +347,22 @@
       "duration_ms": 142669,
       "name": "Once Again",
       "url": "https://open.spotify.com/track/0mmErQGLOMb2UcKAZYPC4V"
+    },
+    {
+      "added_at": "2026-05-27 23:36:59",
+      "album": {
+        "name": "Lazy Lady EP",
+        "url": "https://open.spotify.com/album/4sI5BUhiaMokfcY6pLfFxy"
+      },
+      "artists": [
+        {
+          "name": "Joey London Style",
+          "url": "https://open.spotify.com/artist/64GSxyOhYgXzaQs30QFi9i"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "Lazy Lady",
+      "url": "https://open.spotify.com/track/5cvN9da2nLf0sVUgfYhqeu"
     },
     {
       "added_at": "2026-05-01 04:01:14",
@@ -805,22 +917,6 @@
       "url": "https://open.spotify.com/track/65zFScdofCOueq6XRLH1gt"
     },
     {
-      "added_at": "2026-05-01 04:01:14",
-      "album": {
-        "name": "House Feel",
-        "url": "https://open.spotify.com/album/2W2ciXAQhC6QfmFbjAnwlt"
-      },
-      "artists": [
-        {
-          "name": "JIMII",
-          "url": "https://open.spotify.com/artist/2KQQpIJPJDxyEyjbRBVsYf"
-        }
-      ],
-      "duration_ms": 369629,
-      "name": "House Feel",
-      "url": "https://open.spotify.com/track/5sIE6BxU0nQhfIl2nPEpvG"
-    },
-    {
       "added_at": "2026-05-11 13:32:43",
       "album": {
         "name": "Bass Electronic",
@@ -875,46 +971,6 @@
     {
       "added_at": "2026-04-24 04:01:42",
       "album": {
-        "name": "Shugi",
-        "url": "https://open.spotify.com/album/0Mw788qY3AKIzqidKNX0vy"
-      },
-      "artists": [
-        {
-          "name": "antraum",
-          "url": "https://open.spotify.com/artist/0swXQmBdpOVEmrPc9QTfkr"
-        },
-        {
-          "name": "Traumer",
-          "url": "https://open.spotify.com/artist/55qp3isnfx4ZKPHw5oP4eh"
-        },
-        {
-          "name": "Anton",
-          "url": "https://open.spotify.com/artist/6alymk3dYbCVzCwUdBHKII"
-        }
-      ],
-      "duration_ms": 256875,
-      "name": "Shugi",
-      "url": "https://open.spotify.com/track/6Q5oAJz2KgZbWxOtXHCe8Z"
-    },
-    {
-      "added_at": "2026-04-10 17:34:49",
-      "album": {
-        "name": "Best Believe (Stole My Heart)",
-        "url": "https://open.spotify.com/album/2Yj9LDL0pILhskGdLQW0kL"
-      },
-      "artists": [
-        {
-          "name": "Stef Davidse",
-          "url": "https://open.spotify.com/artist/7JXk6wlswhEGYkmtpdqYEX"
-        }
-      ],
-      "duration_ms": 146182,
-      "name": "Best Believe (Stole My Heart)",
-      "url": "https://open.spotify.com/track/0fCiBvIBbQQbUx9oerGGXN"
-    },
-    {
-      "added_at": "2026-04-24 04:01:42",
-      "album": {
         "name": "Zero Degrees EP",
         "url": "https://open.spotify.com/album/5jat8eV8TZ8dIOzlLe00la"
       },
@@ -949,26 +1005,6 @@
       "url": "https://open.spotify.com/track/17uV2PyLB4lRGIMnsI3WHy"
     },
     {
-      "added_at": "2026-04-24 04:01:42",
-      "album": {
-        "name": "Special Technique EP",
-        "url": "https://open.spotify.com/album/1H6eWqIUo0goay5n417pVv"
-      },
-      "artists": [
-        {
-          "name": "Anton Yaz",
-          "url": "https://open.spotify.com/artist/4vSioEbBzyfpBIH0uSerR4"
-        },
-        {
-          "name": "Miliard",
-          "url": "https://open.spotify.com/artist/4oYcrfhWdekwRPt6xxQ87p"
-        }
-      ],
-      "duration_ms": 345791,
-      "name": "Get Mellow",
-      "url": "https://open.spotify.com/track/4pND3hr7vGpCLeB7wcrIFi"
-    },
-    {
       "added_at": "2026-03-27 04:00:16",
       "album": {
         "name": "Million Things",
@@ -999,26 +1035,6 @@
       "duration_ms": 180117,
       "name": "Fix It",
       "url": "https://open.spotify.com/track/2P2hfZzVcEv3bUjC2E3AZX"
-    },
-    {
-      "added_at": "2026-04-03 04:01:44",
-      "album": {
-        "name": "Are You Ready? (Radio Edit)",
-        "url": "https://open.spotify.com/album/6G1hRBeLoGKNYMIJp7zNmt"
-      },
-      "artists": [
-        {
-          "name": "Beave",
-          "url": "https://open.spotify.com/artist/4hdzhylhAgcDNgyyMTNQaS"
-        },
-        {
-          "name": "TYGE",
-          "url": "https://open.spotify.com/artist/2q49VHBhoxux4sAZbsn1hG"
-        }
-      ],
-      "duration_ms": 161931,
-      "name": "Are You Ready? (Radio Edit)",
-      "url": "https://open.spotify.com/track/7BryUEmykyolZXwvOFmEtI"
     },
     {
       "added_at": "2026-04-10 04:02:13",
@@ -1489,22 +1505,6 @@
       "url": "https://open.spotify.com/track/1wFW0fKAf4gEwdESW1cdqy"
     },
     {
-      "added_at": "2026-04-03 04:01:44",
-      "album": {
-        "name": "Good To Me",
-        "url": "https://open.spotify.com/album/2FofbQrO8NYGW5DTgR8Hrj"
-      },
-      "artists": [
-        {
-          "name": "Mak\u00e8z",
-          "url": "https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE"
-        }
-      ],
-      "duration_ms": 184681,
-      "name": "Good To Me",
-      "url": "https://open.spotify.com/track/2ohyMJx4ArUVno6mcczbN8"
-    },
-    {
       "added_at": "2026-03-18 17:57:39",
       "album": {
         "name": "Was I Loved? (Dub Mix)",
@@ -1591,26 +1591,6 @@
     {
       "added_at": "2026-03-13 04:00:43",
       "album": {
-        "name": "Looney Tune EP",
-        "url": "https://open.spotify.com/album/2VKncZx8RWGVx7OWaRJrFs"
-      },
-      "artists": [
-        {
-          "name": "Ranger Trucco",
-          "url": "https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3"
-        },
-        {
-          "name": "Nate Katz",
-          "url": "https://open.spotify.com/artist/67qh97mzEaTU0iNapvrVyj"
-        }
-      ],
-      "duration_ms": 360000,
-      "name": "Looney Tune",
-      "url": "https://open.spotify.com/track/7ioIgZAaKbLCjTuebIUFEw"
-    },
-    {
-      "added_at": "2026-03-13 04:00:43",
-      "album": {
         "name": "Too Much For Me",
         "url": "https://open.spotify.com/album/4OW2TKkoGir8R7dFkBhDoE"
       },
@@ -1663,22 +1643,6 @@
       "duration_ms": 178153,
       "name": "House Is Gettin' Raw",
       "url": "https://open.spotify.com/track/1sGGXzDr5bjEHBpGjwvNdq"
-    },
-    {
-      "added_at": "2026-03-13 04:00:43",
-      "album": {
-        "name": "Delirium EP",
-        "url": "https://open.spotify.com/album/1zizsnnKLkVbuqnkDIv3Xz"
-      },
-      "artists": [
-        {
-          "name": "Jacob Matthews",
-          "url": "https://open.spotify.com/artist/6OLFLlG1W9ihgTCDQt5jaz"
-        }
-      ],
-      "duration_ms": 237674,
-      "name": "Delirium",
-      "url": "https://open.spotify.com/track/17EDciH5MkBg3yIjGDULEz"
     },
     {
       "added_at": "2026-03-13 04:00:43",
@@ -1855,22 +1819,6 @@
       "duration_ms": 183953,
       "name": "The Way I Are - Max Dean Remix",
       "url": "https://open.spotify.com/track/1hl81ThWpsoVYylBPaWedn"
-    },
-    {
-      "added_at": "2026-01-16 05:00:33",
-      "album": {
-        "name": "The Fix",
-        "url": "https://open.spotify.com/album/2BAJVd0LXR1Lv3niX2o6vC"
-      },
-      "artists": [
-        {
-          "name": "Funk Cartel",
-          "url": "https://open.spotify.com/artist/5CTZ9x42i9fZmlzm3AEyX0"
-        }
-      ],
-      "duration_ms": 180057,
-      "name": "The Fix",
-      "url": "https://open.spotify.com/track/6Gic5rohR6m7h5869PpIgi"
     },
     {
       "added_at": "2026-01-23 05:00:22",

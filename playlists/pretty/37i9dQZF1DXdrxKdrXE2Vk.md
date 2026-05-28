@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdrxKdrXE2Vk.md) - [plain]
 
 > Experience the best of live worship here\. Cover: Benjamin Williams Hastings,  Aodhán King, and Cody Carnes
 
-[Spotify](https://open.spotify.com/user/spotify) - 951,059 likes - 80 songs - 9 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 951,080 likes - 80 songs - 9 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdrxKdrXE2Vk.md) - [plain]
 | 19 | [Made For More \- Live](https://open.spotify.com/track/3eQJ6y1J3VL1cMWQ9cY3tl) | [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2), [Jenn Johnson](https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO) | [Made For More \(Live\)](https://open.spotify.com/album/4WSovjbbLpFMz7M3NtJiKh) | 6:12 |
 | 20 | [Always On Time \- Break Open](https://open.spotify.com/track/6xAzxpF29ET0Ys5BZMmGAB) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3) | [Always On Time](https://open.spotify.com/album/09MMQo5gW3Uu4FY8VYEARN) | 9:58 |
 | 21 | [You Will Make All Things New](https://open.spotify.com/track/7JM0ANkEUoDmHmdABU1LhA) | [Sovereign Grace Music](https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y) | [You Will Make All Things New](https://open.spotify.com/album/6G2MC4cjPD25fb5Bhhu1zJ) | 3:59 |
-| 22 | [Redeemed](https://open.spotify.com/track/0b0itI0G0JoDRHjPBOn67i) | [Roosevelt Stewart](https://open.spotify.com/artist/2KVpuzFwWhwa7oR6g5tvmk) | [Redeemed](https://open.spotify.com/album/2YKpKKfCf5x1kAsS4eh8fa) | 3:39 |
+| 22 | [Redeemed \- Live](https://open.spotify.com/track/0b0itI0G0JoDRHjPBOn67i) | [Roosevelt Stewart](https://open.spotify.com/artist/2KVpuzFwWhwa7oR6g5tvmk) | [Redeemed \(Live\)](https://open.spotify.com/album/2YKpKKfCf5x1kAsS4eh8fa) | 3:39 |
 | 23 | [Yahweh Will Manifest \- Live From San Juan PR](https://open.spotify.com/track/1z7Fxs69SXH3OD9XNye8Lz) | [Oasis Ministry](https://open.spotify.com/artist/71Q7jmvxx7g06qlWNEU45p), [Laila Olivera](https://open.spotify.com/artist/5VtJqt6InNwbrpeZ492kWX) | [Yahweh Will Manifest \(Live From San Juan PR\)](https://open.spotify.com/album/5OoSjMQoO2PlmUSzP33gwQ) | 8:33 |
 | 24 | [Rest of My Life \- Live](https://open.spotify.com/track/2JTMqQZGd1FVYXIIoZynQQ) | [Damascus Worship](https://open.spotify.com/artist/1QHljL6ZVxIi5bylNmFkFI), [Seph Schlueter](https://open.spotify.com/artist/3rdJD72bitczKtW5yNgAA4) | [Rest of My Life \(Live\)](https://open.spotify.com/album/3RLfUbjyzGLKNaskro5zXN) | 4:03 |
 | 25 | [Do A Work In Me \- Live](https://open.spotify.com/track/5ts4pT5MBeNDv4FxzkcOxc) | [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [Do A Work In Me \(Live\)](https://open.spotify.com/album/6f0MbPfuYyhs9ZS0u2ekpL) | 9:21 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2K6ZzA.md) - [plain]
 
 > This is sombr\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,054 likes - 32 songs - 1 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,245 likes - 32 songs - 1 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,4 +41,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2K6ZzA.md) - [plain]
 | 31 | [weak](https://open.spotify.com/track/1ofVfjaqv1taQ7xsmcYjZc) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [weak](https://open.spotify.com/album/7jCutVKlyZ5UFD9MB96pra) | 3:56 |
 | 32 | [why are we like this](https://open.spotify.com/track/7D5f7W4CYGBrqXBF1jDyqR) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [in another life](https://open.spotify.com/album/7s2brPeMK5VwHgOeTH6J4R) | 2:34 |
 
-Snapshot ID: `ahORAAAAAAA+vexKaG386JfIiOCPSlVE`
+Snapshot ID: `ahTigAAAAADzFm2YXDbVwM0DHZpG6iO3`

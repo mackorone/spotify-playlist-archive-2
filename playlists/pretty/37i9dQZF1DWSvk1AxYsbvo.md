@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvk1AxYsbvo.md) - [plain]
 
 > 🐹김햄찌와 함께 이불 안 속처럼 포근하고 편안한 음악들과 함께 폭신한 기분을 만끽하세요\. \(Enjoy a cozy feeling, like inside a blanket, with music that is cozy and comfortable with Haemjji.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,239 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,248 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,9 +28,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvk1AxYsbvo.md) - [plain]
 | 18 | [Love Is You](https://open.spotify.com/track/6DjDyzhoqpOQJ5ABAtZD3a) | [KIM PUREUM](https://open.spotify.com/artist/5lzn05sB0L0EtuTHBAhTpJ) | [Undercover High School OST Part.2 \(Soundtrack\)](https://open.spotify.com/album/1NvuWEGKtO8uOGYaf7ufKD) | 2:59 |
 | 19 | [Shower](https://open.spotify.com/track/1AOTFHFtluLFWL5WreWLZd) | [Yebit](https://open.spotify.com/artist/7zdCvtTQdMCj37CuQxkyQf) | [Dancing With You](https://open.spotify.com/album/6W2egczeuLFSymhQYu0m0R) | 2:30 |
 | 20 | [What about Next Spring \(feat\. Kim Daniel of wave to earth\)](https://open.spotify.com/track/57ruI2k5kFJMNxLKHzBEyh) | [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n), [Kim Daniel](https://open.spotify.com/artist/3lr26NDbIkMbrcgwWOTSAY) | [What about Next Spring \(feat\. Kim Daniel of wave to earth\)](https://open.spotify.com/album/6l6AeNEAevPbbOag6x7OuJ) | 3:39 |
-| 21 | [All My Love \- Korean Ver.](https://open.spotify.com/track/7tBopxC7AwomZnU7KuKF9u) | [PARK BO GUM](https://open.spotify.com/artist/3wkl0GrYTJjWoTmGAJRosv) | [All My Love](https://open.spotify.com/album/0i4ymIcTfqV6virrQYNAat) | 3:23 |
+| 21 | [A Lovers’ Waltz](https://open.spotify.com/track/0Wbt5XjJjCjGRoV4AZDIPj) | [Minna Seo](https://open.spotify.com/artist/783H2R3PrEaeM1WHym8B4R) | [A Lovers’ Waltz](https://open.spotify.com/album/4kqczxhNOAsnR5V3aGzPm5) | 3:48 |
 | 22 | [sleepless nights \(My Sweden Laundry \#1\)](https://open.spotify.com/track/4gOx9XctmKHQ42ytfKNbiC) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [sleepless nights \(My Sweden Laundry \#1\)](https://open.spotify.com/album/4U33ucPMfJMmaMo0SA6kqd) | 3:40 |
-| 23 | [A Lovers’ Waltz](https://open.spotify.com/track/0Wbt5XjJjCjGRoV4AZDIPj) | [Minna Seo](https://open.spotify.com/artist/783H2R3PrEaeM1WHym8B4R) | [A Lovers’ Waltz](https://open.spotify.com/album/4kqczxhNOAsnR5V3aGzPm5) | 3:48 |
+| 23 | [All My Love \- Korean Ver.](https://open.spotify.com/track/7tBopxC7AwomZnU7KuKF9u) | [PARK BO GUM](https://open.spotify.com/artist/3wkl0GrYTJjWoTmGAJRosv) | [All My Love](https://open.spotify.com/album/0i4ymIcTfqV6virrQYNAat) | 3:23 |
 | 24 | [zZ\(Tired\) \(With Yebit\)](https://open.spotify.com/track/18UZECrGyokO4pevw7dh4r) | [유성윤](https://open.spotify.com/artist/3IjLcqswR7fy61qEyvWssW), [Yebit](https://open.spotify.com/artist/7zdCvtTQdMCj37CuQxkyQf) | [zZ](https://open.spotify.com/album/0jbRf93DOc5iQEI4UY7pze) | 3:47 |
 | 25 | [Dear, Barcelona](https://open.spotify.com/track/4xVsCSWd7Otr19tN9JNC8G) | [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n) | [Dear, Barcelona](https://open.spotify.com/album/26tVGQR0jl6vZ0JRszMl4e) | 3:43 |
 | 26 | [Lover](https://open.spotify.com/track/1x8y9zhORcFz1jOscolY9S) | [CHOI JUNG EUN](https://open.spotify.com/artist/57vWEo5CS7wC4oJjuCcgAr) | [Love, Take Two, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/4ZBsA5UZmPkhsKVr6kBnm4) | 3:16 |
@@ -43,11 +43,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvk1AxYsbvo.md) - [plain]
 | 33 | [Oh my love](https://open.spotify.com/track/4XVXQ6kCi9ME5LnLQKlVx0) | [Chamsom](https://open.spotify.com/artist/5xNWQgdUZS4YN7xAYItpKi) | [TIKI TAKA](https://open.spotify.com/album/18Z30FBuoIx0U1xICFeS17) | 3:53 |
 | 34 | [Beautiful Days](https://open.spotify.com/track/1ne3EsWyB95jx4kDQ0MHck) | [soye](https://open.spotify.com/artist/5jG6m64ShKn6a3A8IzIAcx) | [Beautiful Days \(Positively Yours X soye\) \[Original Soundtrack\]](https://open.spotify.com/album/4TfE5UZoCC7UpHmgUlpUBl) | 2:40 |
 | 35 | [지금 이대로 Stay with me](https://open.spotify.com/track/54413VtpbmW1Xbhj0HoqWt) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [하루 한방울 One drop a day \(Original Soundtrack\), Pt\. 1](https://open.spotify.com/album/7ErAyd64YTQ0kLI2JsLFl3) | 3:10 |
-| 36 | [Gleaning](https://open.spotify.com/track/0G5gCyheNKiXyfei3xhIBe) | [Kim Hyo Rin](https://open.spotify.com/artist/5utWINxnF6V3qB60hLMZTp) | [See You, Evergreen](https://open.spotify.com/album/1EdlJAIAYCgiGlpkawfazJ) | 4:27 |
-| 37 | [Falling for you](https://open.spotify.com/track/20cR2d52u31dj9HrGXlcui) | [Arn](https://open.spotify.com/artist/5rwVUtqdfuo4n6Sfgg0Hgy) | [Floating thoughts](https://open.spotify.com/album/1N0BlNElOVwAeidJN4otFM) | 4:14 |
-| 38 | [Summer Festa](https://open.spotify.com/track/48FmyTNts7wIojfB3NxDfR) | [NavyQuokka](https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW) | [Summer Festa](https://open.spotify.com/album/014u0JnJJYVQCpxVSQ9awM) | 3:10 |
-| 39 | [While You're Sleeping, I Am](https://open.spotify.com/track/4kuXj6o4xIeUMNYK0NmrDf) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [Autumn](https://open.spotify.com/album/1RSwpzDWOjzsrBCJAWco7r) | 3:41 |
-| 40 | [Dear My Love](https://open.spotify.com/track/0qyAGE9nrTR7GGaDDoSX6L) | [Yim Siwan](https://open.spotify.com/artist/182ecftEoWZSTXQgTEeqgj) | [The Reason \- The 1st Mini Album](https://open.spotify.com/album/51VULNWdcYSEOsbZLPH5s1) | 3:33 |
+| 36 | [Falling for you](https://open.spotify.com/track/20cR2d52u31dj9HrGXlcui) | [Arn](https://open.spotify.com/artist/5rwVUtqdfuo4n6Sfgg0Hgy) | [Floating thoughts](https://open.spotify.com/album/1N0BlNElOVwAeidJN4otFM) | 4:14 |
+| 37 | [Gleaning](https://open.spotify.com/track/0G5gCyheNKiXyfei3xhIBe) | [Kim Hyo Rin](https://open.spotify.com/artist/5utWINxnF6V3qB60hLMZTp) | [See You, Evergreen](https://open.spotify.com/album/1EdlJAIAYCgiGlpkawfazJ) | 4:27 |
+| 38 | [Dear My Love](https://open.spotify.com/track/0qyAGE9nrTR7GGaDDoSX6L) | [Yim Siwan](https://open.spotify.com/artist/182ecftEoWZSTXQgTEeqgj) | [The Reason \- The 1st Mini Album](https://open.spotify.com/album/51VULNWdcYSEOsbZLPH5s1) | 3:33 |
+| 39 | [Summer Festa](https://open.spotify.com/track/48FmyTNts7wIojfB3NxDfR) | [NavyQuokka](https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW) | [Summer Festa](https://open.spotify.com/album/014u0JnJJYVQCpxVSQ9awM) | 3:10 |
+| 40 | [While You're Sleeping, I Am](https://open.spotify.com/track/4kuXj6o4xIeUMNYK0NmrDf) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [Autumn](https://open.spotify.com/album/1RSwpzDWOjzsrBCJAWco7r) | 3:41 |
 | 41 | [summer youth](https://open.spotify.com/track/3weLeZpoo5XQnoxkc3wbSa) | [Baek A](https://open.spotify.com/artist/5rHUhS9Ya0S63WI9LFmCSx) | [summer youth](https://open.spotify.com/album/59cIkqrNBXirVmxoH4u5iB) | 3:37 |
 | 42 | [Even if I’m dying \(feat\. Young K \(DAY6\)\)](https://open.spotify.com/track/3nteYfnCaASGDB070QmgmU) | [paulkyte](https://open.spotify.com/artist/5RO4x4GZYSAIrRkEQFhs2x), [Young K](https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe) | [Even if I’m dying \(feat\. Young K \(DAY6\)\)](https://open.spotify.com/album/6r81HcByuYKc59QKuukKxX) | 3:04 |
 | 43 | [summerless](https://open.spotify.com/track/5mK4gz7F6zRv0cJP4HlWRl) | [본하](https://open.spotify.com/artist/26oPZPY5H08ViuL52JDqKS) | [summerless](https://open.spotify.com/album/15UTXE6WIeQZsKt1qJALsL) | 3:06 |

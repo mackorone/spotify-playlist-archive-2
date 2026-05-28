@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOXDRN0iLDA.md) - [plain]
 
 > soft ambient + bird song for spring study sessions 🦜🌿 🌷
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,328 likes - 87 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,359 likes - 87 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOXDRN0iLDA.md) - [plain]
 | 86 | [The Birds](https://open.spotify.com/track/3yJmL9I3nGSvx2wdFOQdIH) | [Hanan Townshend](https://open.spotify.com/artist/4G8H1peJnT7swm4Ygtm80F) | [What We Lost](https://open.spotify.com/album/4OucqQdIyWceXDGLiMRNbK) | 7:17 |
 | 87 | [霞](https://open.spotify.com/track/6gyLJrir6GcZk6cOts0Sws) | [kita kouhei](https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5), [Yukihiko Yotsukura](https://open.spotify.com/artist/6V5Bkn07G676EXpYMlohnT) | [静寂光りて](https://open.spotify.com/album/6U0YMfAPjOeu1vxsAu0FDO) | 2:52 |
 
-Snapshot ID: `AAAAAH94+JyjLQp+eoMLS2nwAIvgjx1y`
+Snapshot ID: `AAAAAMAam2pd7es1wbuIk0JC9TLsuM6V`

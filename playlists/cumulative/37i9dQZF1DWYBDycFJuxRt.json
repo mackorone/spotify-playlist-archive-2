@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-01",
-  "description": "\u4eca\u9031\u3082\u8a71\u984c\u306e\u65b0\u66f2\u3092\u6700\u901f\u3067\u3002 Cover: KID FRESINO  *\ud83d\udc49 <a href=\"https://spice.eplus.jp/articles/346219\">\u9023\u52d5\u8a18\u4e8b</a>\u3092SPICE\u3067\u30c1\u30a7\u30c3\u30af!",
+  "description": "\u4eca\u9031\u3082\u8a71\u984c\u306e\u65b0\u66f2\u3092\u6700\u901f\u3067\u3002 Cover: KID FRESINO  *\ud83d\udc49 <a href=\"https://spice.eplus.jp/articles/346346\">\u9023\u52d5\u8a18\u4e8b</a>\u3092SPICE\u3067\u30c1\u30a7\u30c3\u30af!",
   "name": "New Music Wednesday",
   "tracks": [
     {
@@ -56470,6 +56470,24 @@
       "duration_ms": 193466,
       "name": "FLY WITH YOU",
       "url": "https://open.spotify.com/track/7MleUf4Il4Twy3arGWthrV"
+    },
+    {
+      "album": {
+        "name": "FLY!",
+        "url": "https://open.spotify.com/album/38EwYgNHM13ADWojsMBwjW"
+      },
+      "artists": [
+        {
+          "name": "IDID",
+          "url": "https://open.spotify.com/artist/67PXCkgEZryiYFJw691hPn"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "FLY!",
+      "url": "https://open.spotify.com/track/55DiPLEo61Kr6gba1XuKlj"
     },
     {
       "album": {
@@ -129119,6 +129137,24 @@
     },
     {
       "album": {
+        "name": "dialogue",
+        "url": "https://open.spotify.com/album/0nFxDK8187xYJPMMph6c7y"
+      },
+      "artists": [
+        {
+          "name": "Ayase",
+          "url": "https://open.spotify.com/artist/1S8OQ9SqlLdD9l4paaZMuZ"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184876,
+      "name": "PLANETS",
+      "url": "https://open.spotify.com/track/4dXAx6MlPTqRFC804zZZQ3"
+    },
+    {
+      "album": {
         "name": "Plastic Romance",
         "url": "https://open.spotify.com/album/2zOwVX7gdy7Ufc8BxAqKux"
       },
@@ -145132,6 +145168,24 @@
       "duration_ms": 244653,
       "name": "Serenade",
       "url": "https://open.spotify.com/track/6jRjPabJc3kvmQ2LDIm3MC"
+    },
+    {
+      "album": {
+        "name": "I,God",
+        "url": "https://open.spotify.com/album/2TDH8goBXv2mQ22XrHTfsX"
+      },
+      "artists": [
+        {
+          "name": "XLOV",
+          "url": "https://open.spotify.com/artist/2b8aDRZFgUGWiUGchpWsyC"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "SERVE",
+      "url": "https://open.spotify.com/track/2wExzjTZ4iHBzQKSML7zpy"
     },
     {
       "album": {
@@ -173008,24 +173062,6 @@
       "duration_ms": 240333,
       "name": "Trace",
       "url": "https://open.spotify.com/track/5x9WF5tsjeTZNBQmVmmqe5"
-    },
-    {
-      "album": {
-        "name": "dialogue",
-        "url": "https://open.spotify.com/album/0nFxDK8187xYJPMMph6c7y"
-      },
-      "artists": [
-        {
-          "name": "Ayase",
-          "url": "https://open.spotify.com/artist/1S8OQ9SqlLdD9l4paaZMuZ"
-        }
-      ],
-      "date_added": "2026-05-27",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/4dXAx6MlPTqRFC804zZZQ3"
     },
     {
       "album": {

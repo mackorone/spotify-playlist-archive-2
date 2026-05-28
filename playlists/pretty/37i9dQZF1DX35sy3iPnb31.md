@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 
 > The best Canadian songs of the month, handpicked by Spotify Canada editors\. Cover: Angine de Poitrine
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,839 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,852 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 | 24 | [SpiceKick](https://open.spotify.com/track/0s6ESjDmU3DNbhXrPoIxrX) | [Magi Merlin](https://open.spotify.com/artist/6uOvQgcFOmdzhunx7n83J2) | [SpiceKick](https://open.spotify.com/album/58PCIgUueFleyunThXBdf4) | 2:29 |
 | 25 | [TRYNA WIN](https://open.spotify.com/track/2PLjm5Hz0ufEF3s8uo3ntq) | [NorthSideBenji](https://open.spotify.com/artist/2EzNKTHTCUaHUkKaNFUH8d), [Boi\-1da](https://open.spotify.com/artist/2RQnTQM6OQd8dTUDF7UsT7), [Canada Soccer](https://open.spotify.com/artist/0fOO2ZhdgNGh7h0BY5R1Ez) | [TRYNA WIN](https://open.spotify.com/album/6L87qbYLWVPbRu1Cg2ETQk) | 2:33 |
 | 26 | [The Call](https://open.spotify.com/track/4teod5AtonjsogVrSl2EEW) | [Broken Social Scene](https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd) | [The Call](https://open.spotify.com/album/61LVjKvyP3uRXdjnNv7kwC) | 4:13 |
-| 27 | [Almost Over](https://open.spotify.com/track/1nGFesHICoTP5VVsnaKYJ5) | [JESSIA](https://open.spotify.com/artist/6DdbeAeBlrYj8bNToZv4TY) | [Therapy & Yoga](https://open.spotify.com/album/5zn2yH96a43N0CgB5Fd8jf) | 2:46 |
-| 28 | [Selfish](https://open.spotify.com/track/0pazSLd8RRdX44dDtbmrta) | [Preston Pablo](https://open.spotify.com/artist/5TvdGhdmRObqOkU6eGfXb5) | [Selfish](https://open.spotify.com/album/62e7Dwx5jU8Cvi2sYlxkbN) | 2:58 |
+| 27 | [Selfish](https://open.spotify.com/track/0pazSLd8RRdX44dDtbmrta) | [Preston Pablo](https://open.spotify.com/artist/5TvdGhdmRObqOkU6eGfXb5) | [Selfish](https://open.spotify.com/album/62e7Dwx5jU8Cvi2sYlxkbN) | 2:58 |
+| 28 | [Almost Over](https://open.spotify.com/track/1nGFesHICoTP5VVsnaKYJ5) | [JESSIA](https://open.spotify.com/artist/6DdbeAeBlrYj8bNToZv4TY) | [Therapy & Yoga](https://open.spotify.com/album/5zn2yH96a43N0CgB5Fd8jf) | 2:46 |
 | 29 | [Second Hand](https://open.spotify.com/track/2QyBcS4FwJAnqyG4jDpfF5) | [Anaïs Cardot](https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU) | [Second Hand](https://open.spotify.com/album/0q9Y3XkOUcclX7l1HAqEBV) | 3:24 |
 | 30 | [Si j'avais un clou](https://open.spotify.com/track/5Q5sQJpdEJpD5oXLJkAwAm) | [Thierry Larose](https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt) | [Si j'avais un clou](https://open.spotify.com/album/5Ta4hSDVG7dcLf2PSCFTpl) | 3:49 |
 | 31 | [Block Party](https://open.spotify.com/track/0fbuQaeopuxt45m8a3OBsQ) | [Sofia Ly](https://open.spotify.com/artist/7iET9fffY6L2FC9vojK9a4) | [Block Party](https://open.spotify.com/album/2YUSE19lgw3BftKj9skiW3) | 2:30 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 | 33 | [Faux Real](https://open.spotify.com/track/3DHsps2o59HhPxhEdbp3gm) | [Zach Zoya](https://open.spotify.com/artist/0lMsSW9R8prEif6Q3aVnEH), [High Klassified](https://open.spotify.com/artist/4V5f0tr4dGBGUvW5HsR22O) | [Misstape 2](https://open.spotify.com/album/0huxZwTSdGZcd9KaDwTh6k) | 2:28 |
 | 34 | [I Been](https://open.spotify.com/track/25zKoVubfweF7RvWbdnII7) | [B.ROB](https://open.spotify.com/artist/1ok4DP80jKsX7GZZ6yr2xR) | [Through The Storm](https://open.spotify.com/album/18d8Y0CfIwSR1gr4nFkkrO) | 2:33 |
 | 35 | [Le Roi de la montagne](https://open.spotify.com/track/3Tj4NZCOKQXzG8FgZJ81fQ) | [Klô Pelgag](https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi) | [Le Roi de la montagne](https://open.spotify.com/album/4NdkaHhwYRFsMrk4HYEngI) | 3:42 |
-| 36 | [Oh, Ana](https://open.spotify.com/track/46G3dLvPYBjRB5WzyvWr32) | [Dominique Way](https://open.spotify.com/artist/5kROZ1F7ExRZyFnHvKdlJ7) | [Oh, Ana](https://open.spotify.com/album/7h9mJCFBWhaRdWHm28xIME) | 3:12 |
-| 37 | [I WANNA DANCE](https://open.spotify.com/track/7meRbdhGSL33VwsUK9P2mB) | [Tallandskiinny](https://open.spotify.com/artist/7oV3ZD4d2onldb3N8DKQjm) | [I WANNA DANCE](https://open.spotify.com/album/0ERprW5OlF990S05xy6TEs) | 2:31 |
+| 36 | [I WANNA DANCE](https://open.spotify.com/track/7meRbdhGSL33VwsUK9P2mB) | [Tallandskiinny](https://open.spotify.com/artist/7oV3ZD4d2onldb3N8DKQjm) | [I WANNA DANCE](https://open.spotify.com/album/0ERprW5OlF990S05xy6TEs) | 2:31 |
+| 37 | [Oh, Ana](https://open.spotify.com/track/46G3dLvPYBjRB5WzyvWr32) | [Dominique Way](https://open.spotify.com/artist/5kROZ1F7ExRZyFnHvKdlJ7) | [Oh, Ana](https://open.spotify.com/album/7h9mJCFBWhaRdWHm28xIME) | 3:12 |
 | 38 | [Pain \- Lonesome Version](https://open.spotify.com/track/17PLTUNOheE8k9M2oOonFF) | [Fernie](https://open.spotify.com/artist/5PemoTSZMQp59WnXZZ4EhI) | [Pain \(Lonesome Version\)](https://open.spotify.com/album/7G2eiZtTNpFADoBqvzKFs6) | 4:23 |
 | 39 | [No Wonder](https://open.spotify.com/track/20cteJb81MYmbLMiuft2EA) | [Diamond Cafe](https://open.spotify.com/artist/5iy5vWoWLniL8EMg5pFRrh) | [No Wonder](https://open.spotify.com/album/4sLCUGAZIFKoDkNLB9CEFs) | 2:21 |
 | 40 | [Fix This Mess](https://open.spotify.com/track/2bZVZFXbZJ26P0x5VJTIAl) | [j ember](https://open.spotify.com/artist/4UUDpbs7gikfzHz0CRvdnv) | [Fix This Mess](https://open.spotify.com/album/06kpT326WfFpxbh2qecbZO) | 3:33 |

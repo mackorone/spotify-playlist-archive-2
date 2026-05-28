@@ -4,7 +4,7 @@
 
 > This is Pabllo Vittar\. The essential tracks, all in one playlist.
 
-128 songs - 6 hr 11 min
+129 songs - 6 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,7 +111,8 @@
 | [Pra Te Esquecer](https://open.spotify.com/track/7sGsBlUZt8P9LcLnZWh3am) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Batidão Tropical Vol\. 2](https://open.spotify.com/album/6azBEVsWyRCxu27zpPXFC0) | 3:26 | 2024-10-22 | 2024-12-04 |
 | [Prazer, Mamãe Noel](https://open.spotify.com/track/5AirfKJ8zi8Chm3TbMY4i5) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Filipe Guerra](https://open.spotify.com/artist/3R2KwUrWGyRCizQzFA9F1K), [John W](https://open.spotify.com/artist/02gSzFD8g8JrnBwddEGPTc) | [Prazer, Mamãe Noel](https://open.spotify.com/album/3N9ANUKLXnxmyff9xG9UqB) | 2:54 | 2025-11-23 | 2026-02-25 |
 | [Problema Seu](https://open.spotify.com/track/7uTv9wHkOPh5P9HFmkOE28) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Não Para Não](https://open.spotify.com/album/7GRhzFj2BulxZBqqOMBdDe) | 2:42 | 2023-10-10 |  |
-| [que delícia o verão](https://open.spotify.com/track/1SfGsGvP8EkVAUZqxif6bt) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [MARINADA vol.01](https://open.spotify.com/album/7KP27rOXN92PSGINpzYy7s) | 2:34 | 2025-12-21 |  |
+| [que delícia o verão](https://open.spotify.com/track/1SfGsGvP8EkVAUZqxif6bt) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [MARINADA vol.01](https://open.spotify.com/album/7KP27rOXN92PSGINpzYy7s) | 2:34 | 2025-12-21 | 2026-05-28 |
+| [que delícia o verão](https://open.spotify.com/track/2yHWE0r9mqlLnIIMtASg7o) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [que delícia o verão](https://open.spotify.com/album/6CkP6Rf62M3QtNVtQlgt7z) | 2:34 | 2026-05-28 |  |
 | [Quem Manda em Mim](https://open.spotify.com/track/2WcQ7cDxFB7o8wWXapqdwE) | [Zaynara](https://open.spotify.com/artist/3g5sxvKldw7Kss4e5FPSXb), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Quem Manda em Mim](https://open.spotify.com/album/6jShiR4qHve7n8kWdfi9tJ) | 3:12 | 2024-07-14 |  |
 | [Rajadão](https://open.spotify.com/track/1DmSaQjZkuwFi57KPv20oB) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [111](https://open.spotify.com/album/67rOBOMZsXiQwoPpZbnC8b) | 2:37 | 2023-10-10 |  |
 | [Rubi](https://open.spotify.com/track/3BCEDcGbeGpPeRcryMnbdR) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Will Love](https://open.spotify.com/artist/5v4WaaxxvQalTyeTF4e2Nj) | [Batidão Tropical Vol\. 2](https://open.spotify.com/album/6azBEVsWyRCxu27zpPXFC0) | 2:13 | 2024-10-25 | 2024-12-04 |

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WAExTTn6PI.md) - [plain]
 
 ### [Emerging Americana](https://open.spotify.com/playlist/37i9dQZF1DX4WAExTTn6PI)
 
-> Rising voices, enduring roots\. Cover:  Alena Diane
+> Rising voices, enduring roots\. Cover:  Alela Diane
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,161 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,183 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WAExTTn6PI.md) - [plain]
 | 99 | [Let's Get Stoned](https://open.spotify.com/track/7B9wYx9jtun1jrsGeCvAQA) | [Clay Street Unit](https://open.spotify.com/artist/0HmpQ609wnu7isR6i96CWb) | [Let's Get Stoned](https://open.spotify.com/album/5DHSZKoCNfSpBn3HL8hwnn) | 3:09 |
 | 100 | [Hummingbird \(feat\. Allison de Groot & Tatiana Hargreaves\)](https://open.spotify.com/track/7rGxSnSvzHLtsyM7wfqTYV) | [Yasmin Williams](https://open.spotify.com/artist/4j8CsPzssbM8TCjSvgnmSs), [Allison De Groot](https://open.spotify.com/artist/0LVLU0MXmJ1GfWczl4i2MY), [Tatiana Hargreaves](https://open.spotify.com/artist/63Xd2NZV9SzwjChcdH5QsK) | [Hummingbird \(feat\. Allison de Groot & Tatiana Hargreaves\)](https://open.spotify.com/album/5RQXF0BYzEgrxtXmbSuhP5) | 5:51 |
 
-Snapshot ID: `AAAAAOeO+Oae/AadPGpgRm0GUrgjcgZC`
+Snapshot ID: `AAAAAN8RXMBQitmGTkdBHZazfG5VdhCy`

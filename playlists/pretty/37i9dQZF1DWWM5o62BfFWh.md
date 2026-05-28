@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM5o62BfFWh.md) - [plain]
 
 > ¡Música urbana representando a Cuba! Cover: El Taiger
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,061 likes - 75 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,086 likes - 75 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM5o62BfFWh.md) - [plain]
 | 9 | [Tu No Te Imaginas](https://open.spotify.com/track/4kIHgWZEGYwiFhfDgYz3aD) | [El Chacal](https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA) | [Tu No Te Imaginas](https://open.spotify.com/album/2Wtt81Y8QVVoAdwiYFCPnC) | 3:10 |
 | 10 | [El Mambo](https://open.spotify.com/track/51QmqegeWI2orK2mzDfnIH) | [Kiko Rivera](https://open.spotify.com/artist/0HSGpDMeXaEmH5aUIHjnBF) | [El Mambo](https://open.spotify.com/album/4x4MeHDoVU7VRVJwrt4QRC) | 2:09 |
 | 11 | [Lit In The City](https://open.spotify.com/track/6lO43QMcwGkoGXaSbFIlt8) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy), [El Micha](https://open.spotify.com/artist/0d7jzRhjOifL8X9hxNvbEn) | [Trackhouse](https://open.spotify.com/album/1l86t4bTNT2j1X0ZBCIv6R) | 3:39 |
-| 12 | [CONTIGO](https://open.spotify.com/track/6Qz2kT3YXxCXzdFWVoHeai) | [L Kimii](https://open.spotify.com/artist/1f1ghk6CZMmEuPtjldEDkh), [Mgy](https://open.spotify.com/artist/5NFR2F8V9UrUppV2tHxdSd), [DJ Conds](https://open.spotify.com/artist/42ppAzaKW3DW3bYRmxd1Dw) | [CONTIGO](https://open.spotify.com/album/11Tx94g3ByNjOKw8m7sfiP) | 3:19 |
+| 12 | [CONTIGO](https://open.spotify.com/track/6Qz2kT3YXxCXzdFWVoHeai) | [L Kimii](https://open.spotify.com/artist/1f1ghk6CZMmEuPtjldEDkh), [DJ Conds](https://open.spotify.com/artist/42ppAzaKW3DW3bYRmxd1Dw), [Mgy](https://open.spotify.com/artist/5NFR2F8V9UrUppV2tHxdSd) | [CONTIGO](https://open.spotify.com/album/11Tx94g3ByNjOKw8m7sfiP) | 3:19 |
 | 13 | [Verano Permanente](https://open.spotify.com/track/6vRLN4Q4ZEFZa20SeesOnS) | [Osmani Garcia "La Voz"](https://open.spotify.com/artist/37G8DfNgO4mQ3PKh5droSo), [El Chacal](https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA), [Jacob Forever](https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp), [El Carli](https://open.spotify.com/artist/7BZAkhYaYQxuuGqcqcN8L1), [DJ Conds](https://open.spotify.com/artist/42ppAzaKW3DW3bYRmxd1Dw) | [Verano Permanente](https://open.spotify.com/album/24nuDNQnfyAyxSlpAiFkRl) | 4:39 |
 | 14 | [Yo Daría](https://open.spotify.com/track/5o9fGDN9WzY6cL3d4EwhiQ) | [Jacob Forever](https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp) | [Yo Daría](https://open.spotify.com/album/3OGhgkFFPgCgr9wRgn3AES) | 3:42 |
 | 15 | [Si La Ves](https://open.spotify.com/track/1TNyXS0BBlbChi2fpgrIlM) | [Los 4](https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK), [Batule DJ](https://open.spotify.com/artist/349Ox95zDqb4BMjFf9C2Uq) | [Si La Ves](https://open.spotify.com/album/2dPRXosjxESVUNSg1cpiz9) | 3:43 |

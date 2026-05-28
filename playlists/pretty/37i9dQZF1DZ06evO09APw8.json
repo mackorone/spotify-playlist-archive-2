@@ -1,12 +1,12 @@
 {
   "description": "This is Leon Thomas. The essential tracks, all in one playlist.",
-  "num_followers": 23100,
+  "num_followers": 23135,
   "original_name": "This Is Leon Thomas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahORAAAAAAAUcBdHiKtXOATzRLOf168n",
+  "snapshot_id": "ahTigAAAAAAba2KlhKngfg4AbC7P6cXZ",
   "tracks": [
     {
       "added_at": null,
@@ -263,42 +263,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Electric Dusk",
-        "url": "https://open.spotify.com/album/5u7OrPu6BbadcZNWuH10VT"
-      },
-      "artists": [
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 179478,
-      "name": "Sneak",
-      "url": "https://open.spotify.com/track/17InvVlFT4I30J7mdeuorn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MUTT Deluxe: HEEL",
-        "url": "https://open.spotify.com/album/5m3rVDTPrTRwSgkKsvSYEL"
-      },
-      "artists": [
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        },
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 219607,
-      "name": "DIRT ON MY SHOES (feat. Kehlani)",
-      "url": "https://open.spotify.com/track/2AA05NFvw5tPQ9pvj68fsY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Love is the New Gangsta",
         "url": "https://open.spotify.com/album/0DUJdzFUyxiNUheVGbdWrd"
       },
@@ -323,6 +287,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "MUTT Deluxe: HEEL",
+        "url": "https://open.spotify.com/album/5m3rVDTPrTRwSgkKsvSYEL"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 219607,
+      "name": "DIRT ON MY SHOES (feat. Kehlani)",
+      "url": "https://open.spotify.com/track/2AA05NFvw5tPQ9pvj68fsY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Electric Dusk",
+        "url": "https://open.spotify.com/album/5u7OrPu6BbadcZNWuH10VT"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 179478,
+      "name": "Sneak",
+      "url": "https://open.spotify.com/track/17InvVlFT4I30J7mdeuorn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sweetness (feat. Leon Thomas)",
         "url": "https://open.spotify.com/album/4gUzNgnWO30XubUBBsLxLE"
       },
@@ -339,22 +339,6 @@
       "duration_ms": 251326,
       "name": "Sweetness (feat. Leon Thomas)",
       "url": "https://open.spotify.com/track/0YEN61J5AvIRxRalXKQqBM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Electric Dusk",
-        "url": "https://open.spotify.com/album/5u7OrPu6BbadcZNWuH10VT"
-      },
-      "artists": [
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 293571,
-      "name": "Breaking Point",
-      "url": "https://open.spotify.com/track/1vHTfYiYGGwgqM2XmMCtZY"
     },
     {
       "added_at": null,
@@ -403,6 +387,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Electric Dusk",
+        "url": "https://open.spotify.com/album/5u7OrPu6BbadcZNWuH10VT"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 293571,
+      "name": "Breaking Point",
+      "url": "https://open.spotify.com/track/1vHTfYiYGGwgqM2XmMCtZY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6SL03KQzLNrxyO6AfIBe7y"
       },
@@ -419,26 +419,6 @@
       "duration_ms": 283313,
       "name": "Until The End Of Time",
       "url": "https://open.spotify.com/track/0XdwIG7p28SeTam3DVdMX6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Still Shinin",
-        "url": "https://open.spotify.com/album/5NUNaj9pyIjcNd5e9ObgzE"
-      },
-      "artists": [
-        {
-          "name": "4batz",
-          "url": "https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7"
-        },
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 137066,
-      "name": "act xi: she ain\u2019t no angel",
-      "url": "https://open.spotify.com/track/0hRE77xggFCr9fDitZgBE0"
     },
     {
       "added_at": null,
@@ -479,6 +459,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Still Shinin",
+        "url": "https://open.spotify.com/album/5NUNaj9pyIjcNd5e9ObgzE"
+      },
+      "artists": [
+        {
+          "name": "4batz",
+          "url": "https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7"
+        },
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 137066,
+      "name": "act xi: she ain\u2019t no angel",
+      "url": "https://open.spotify.com/track/0hRE77xggFCr9fDitZgBE0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Just How You Are",
         "url": "https://open.spotify.com/album/72kXsZAoCVweVue3PPZ7hw"
       },
@@ -491,6 +491,22 @@
       "duration_ms": 194247,
       "name": "Just How You Are",
       "url": "https://open.spotify.com/track/7KO0PWYRvoQMNdOZ4KHulW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MUTT Deluxe: HEEL",
+        "url": "https://open.spotify.com/album/5m3rVDTPrTRwSgkKsvSYEL"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 282181,
+      "name": "CATCH A STRAY",
+      "url": "https://open.spotify.com/track/2bMcpeSIM5FNFCv1MK30sQ"
     },
     {
       "added_at": null,
@@ -531,22 +547,6 @@
       "duration_ms": 213425,
       "name": "Beg",
       "url": "https://open.spotify.com/track/3lRXoxtNXehoTBFinymrhE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MUTT Deluxe: HEEL",
-        "url": "https://open.spotify.com/album/5m3rVDTPrTRwSgkKsvSYEL"
-      },
-      "artists": [
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 282181,
-      "name": "CATCH A STRAY",
-      "url": "https://open.spotify.com/track/2bMcpeSIM5FNFCv1MK30sQ"
     },
     {
       "added_at": null,
@@ -795,22 +795,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "LOVERS OR FRIENDS",
-        "url": "https://open.spotify.com/album/5PHSTHZQzYZXqMfs02zZje"
+        "name": "Conductor We Have a Problem, Pt. 3",
+        "url": "https://open.spotify.com/album/5SSe6FWQ6wnj7ktYdoXbXF"
       },
       "artists": [
         {
-          "name": "YG",
-          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+          "name": "Conductor Williams",
+          "url": "https://open.spotify.com/artist/1VuBGdfqq86BQyiDactQAC"
         },
         {
           "name": "Leon Thomas",
           "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
         }
       ],
-      "duration_ms": 179461,
-      "name": "LOVERS OR FRIENDS",
-      "url": "https://open.spotify.com/track/3maNWrDSF4ZpBH5lLg0PyF"
+      "duration_ms": 223818,
+      "name": "Guilty",
+      "url": "https://open.spotify.com/track/5DNeFRR7NLBz1Pz0LE6IP3"
     },
     {
       "added_at": null,
@@ -847,22 +847,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Conductor We Have a Problem, Pt. 3",
-        "url": "https://open.spotify.com/album/5SSe6FWQ6wnj7ktYdoXbXF"
+        "name": "LOVERS OR FRIENDS",
+        "url": "https://open.spotify.com/album/5PHSTHZQzYZXqMfs02zZje"
       },
       "artists": [
         {
-          "name": "Conductor Williams",
-          "url": "https://open.spotify.com/artist/1VuBGdfqq86BQyiDactQAC"
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
         },
         {
           "name": "Leon Thomas",
           "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
         }
       ],
-      "duration_ms": 223818,
-      "name": "Guilty",
-      "url": "https://open.spotify.com/track/5DNeFRR7NLBz1Pz0LE6IP3"
+      "duration_ms": 179461,
+      "name": "LOVERS OR FRIENDS",
+      "url": "https://open.spotify.com/track/3maNWrDSF4ZpBH5lLg0PyF"
     },
     {
       "added_at": null,

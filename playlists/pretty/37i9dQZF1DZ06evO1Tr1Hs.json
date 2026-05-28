@@ -1,12 +1,12 @@
 {
   "description": "This is Ken Carson. The essential tracks, all in one playlist.",
-  "num_followers": 46060,
+  "num_followers": 46057,
   "original_name": "This Is Ken Carson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahORAAAAAADLIBewq9Hlp9dQ0iEKTn4L",
+  "snapshot_id": "ahTigAAAAACc7d0Sl2VFttU09PYshokR",
   "tracks": [
     {
       "added_at": null,
@@ -59,22 +59,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "the acronym (with Destroy Lonely)",
-        "url": "https://open.spotify.com/album/2hrihzusVRHJXJoZkcKqN7"
+        "name": "Project X",
+        "url": "https://open.spotify.com/album/4Vd0qWsKeNJzsouF5Dg1yS"
       },
       "artists": [
         {
           "name": "Ken Carson",
           "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        },
-        {
-          "name": "Destroy Lonely",
-          "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
         }
       ],
-      "duration_ms": 147495,
-      "name": "the acronym (with Destroy Lonely)",
-      "url": "https://open.spotify.com/track/3Q1XHO8wAsa6WJ6urhF1xQ"
+      "duration_ms": 148808,
+      "name": "Rock N Roll",
+      "url": "https://open.spotify.com/track/7sdHMJvhKib3ReVPsZFbrf"
     },
     {
       "added_at": null,
@@ -95,18 +91,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Project X",
-        "url": "https://open.spotify.com/album/4Vd0qWsKeNJzsouF5Dg1yS"
+        "name": "the acronym (with Destroy Lonely)",
+        "url": "https://open.spotify.com/album/2hrihzusVRHJXJoZkcKqN7"
       },
       "artists": [
         {
           "name": "Ken Carson",
           "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        },
+        {
+          "name": "Destroy Lonely",
+          "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
         }
       ],
-      "duration_ms": 148808,
-      "name": "Rock N Roll",
-      "url": "https://open.spotify.com/track/7sdHMJvhKib3ReVPsZFbrf"
+      "duration_ms": 147495,
+      "name": "the acronym (with Destroy Lonely)",
+      "url": "https://open.spotify.com/track/3Q1XHO8wAsa6WJ6urhF1xQ"
     },
     {
       "added_at": null,

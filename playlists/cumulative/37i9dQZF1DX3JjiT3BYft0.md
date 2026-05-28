@@ -4,7 +4,7 @@
 
 > Music from “BanG Dream! “ series!
 
-470 songs - 1 day 9 hr 27 min
+471 songs - 1 day 9 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -358,7 +358,7 @@
 | [ティアドロップス \- Acoustic Ver.](https://open.spotify.com/track/5G2RV7o6t5WKI0YtWNT3ZJ) | [戸山 香澄\(CV:愛美\)](https://open.spotify.com/artist/0TDcytIDEIOHNYfQwSVkFP) | [どきどきSING OUT!](https://open.spotify.com/album/1yQKhOaT8Uq7UeLs1soLVn) | 3:53 | 2022-09-20 | 2024-04-19 |
 | [ティアドロップス \- Acoustic Ver.](https://open.spotify.com/track/2yVV8WMakahuVZ4SJjQUSI) | [戸山香澄\(CAST:愛美\)](https://open.spotify.com/artist/4WxWVilaHHB9S5yMmo5lir) | [どきどきSING OUT!](https://open.spotify.com/album/03VdszVOrzdFqxQ6HA00Sm) | 3:52 | 2022-05-17 | 2025-05-28 |
 | [ティアドロップス \- Popipa Acoustic Ver.](https://open.spotify.com/track/1t3Vhpob56n9ASohIaYGzi) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [Poppin'on!](https://open.spotify.com/album/7uZ57BtKr2QWlsxC4T7fyH) | 3:52 | 2022-05-17 | 2022-07-11 |
-| [トレモロアイズ](https://open.spotify.com/track/669RI7o0s3Z0ncGntSeYTx) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [POPIGENIC](https://open.spotify.com/album/4J0ob8cyT5lF023GxAnVF4) | 4:01 | 2025-05-07 |  |
+| [トレモロアイズ](https://open.spotify.com/track/669RI7o0s3Z0ncGntSeYTx) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [POPIGENIC](https://open.spotify.com/album/4J0ob8cyT5lF023GxAnVF4) | 4:01 | 2025-05-07 | 2026-05-28 |
 | [ハイファイブ∞あどべんちゃっ](https://open.spotify.com/track/1Gqjczdtzbpd3iMZq7goPy) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [にこにこねくと!](https://open.spotify.com/album/0BOnW22OXPOoZzTq4nNfoF) | 4:30 | 2022-05-17 | 2022-07-28 |
 | [ハイファイブ∞あどべんちゃっ](https://open.spotify.com/track/1azepvqPocxFilYuCObDPT) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [ハイファイブ∞あどべんちゃっ](https://open.spotify.com/album/2XhqMTZVFxbqrQAJzc7RsF) | 4:31 | 2022-05-17 | 2022-07-01 |
 | [ハーモニー・デイ](https://open.spotify.com/track/1uMkVxwFJrPBX5CxBViYgW) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [ハーモニー・デイ](https://open.spotify.com/album/4ppUy6ccCN9VkqQODS5PQK) | 3:39 | 2022-09-20 | 2022-10-03 |
@@ -419,6 +419,7 @@
 | [新しい季節に](https://open.spotify.com/track/0a8N9Mf1zsfNTGFMpTZFlD) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [新しい季節に](https://open.spotify.com/album/2SzMaaGrYJUaEMsuDdDi7U) | 3:31 | 2024-01-23 | 2025-03-01 |
 | [新人類は仮想世界の夢を見るか？](https://open.spotify.com/track/0bsQv9Xxwrlc0Cy6sCxhbx) | [夢限大みゅーたいぷ](https://open.spotify.com/artist/2EzWYxIHqUD1RWBOuSjxtK) | [コミュ着火Fire!](https://open.spotify.com/album/3278qnLtIoM4eMPlVo83m9) | 3:54 | 2024-12-24 |  |
 | [明弦音](https://open.spotify.com/track/1enc7tpwG5F49UFgov1vwJ) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [跡暖空](https://open.spotify.com/album/2Tp2cADaq8iMC3HM6sgiQU) | 4:03 | 2024-12-17 |  |
+| [星の約束](https://open.spotify.com/track/6F8xnT2B7MuImmA6VS7Bw2) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [POPIGENIC](https://open.spotify.com/album/4J0ob8cyT5lF023GxAnVF4) | 4:04 | 2026-04-21 |  |
 | [最上級にかわいいの！ \(Cover\)](https://open.spotify.com/track/17woIV9I95tV9C4fnc6Ep4) | [Pastel\*Palettes](https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg) | [最上級にかわいいの！ \(Cover\)](https://open.spotify.com/album/6TzI50EqlfGlG2JUZMyTDK) | 3:11 | 2025-03-18 |  |
 | [最高\(さあ行こう\)!](https://open.spotify.com/track/2SrYQHwBT8mQI7uVOLIUhp) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [二重の虹\(ダブル レインボウ\)/最高\(さあ行こう\)!](https://open.spotify.com/album/0Gx04Qm99qA17JAPscYy4s) | 3:48 | 2022-05-17 | 2022-07-15 |
 | [栞](https://open.spotify.com/track/0aJS4BLpbxcylFr1IK2DSR) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [栞](https://open.spotify.com/album/5nH0B2HxbulmQt1gpT5ji4) | 4:26 | 2023-06-29 | 2024-12-25 |

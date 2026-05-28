@@ -4,7 +4,7 @@
 
 > This is Joan Jett & the Blackhearts\. The essential tracks, all in one playlist.
 
-100 songs - 5 hr 30 min
+101 songs - 5 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Androgynous](https://open.spotify.com/track/6Dks5KMCopv8WqhzXJ3Urm) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Sinner](https://open.spotify.com/album/6qang4P5Ki0TKkQUl61hZc) | 3:08 | 2026-04-14 |  |
 | [Androgynous](https://open.spotify.com/track/6gs9cfQlwl3Q59olqWUT3L) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Sinner](https://open.spotify.com/album/3SLCd2QfOJ1c1gqKZRWVI8) | 3:08 | 2026-04-05 | 2026-04-14 |
 | [Androgynous](https://open.spotify.com/track/6KmPsYpaZzZBCXPmiVdiCB) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Laura Jane Grace](https://open.spotify.com/artist/4yfPiAauSgUfyc4k4WtwM9) | [Bad Reputation \(Music from the Original Motion Picture\)](https://open.spotify.com/album/46KKwNIi7LBEh5Nr5unCja) | 3:11 | 2025-03-08 | 2026-04-05 |
-| [Any Weather \(606 Version\)](https://open.spotify.com/track/1bvFSldZLilaG73zaPd3aL) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Unvarnished \(Expanded Edition\)](https://open.spotify.com/album/35SrDGHN3HOXgxKCLTn4MR) | 3:24 | 2026-05-03 |  |
+| [Any Weather \(606 Version\)](https://open.spotify.com/track/1bvFSldZLilaG73zaPd3aL) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Unvarnished \(Expanded Edition\)](https://open.spotify.com/album/35SrDGHN3HOXgxKCLTn4MR) | 3:24 | 2026-05-03 | 2026-05-28 |
 | [Backlash](https://open.spotify.com/track/09fFcR6kstlvsbbtuBBl0A) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Notorious](https://open.spotify.com/album/5KztrAgu5Q8ZbNhDyPvSxS) | 3:27 | 2026-04-19 |  |
 | [Backlash](https://open.spotify.com/track/5bzOdHdkOO8fjfhNfdFJJs) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Greatest Hits](https://open.spotify.com/album/5UwhZD3iKYWPKLvuedpVsl) | 3:28 | 2025-04-16 | 2026-04-19 |
 | [Bad as We Can Be](https://open.spotify.com/track/5xBnwSHVVnoibWwoWt9pMa) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Unvarnished \(Expanded Edition\)](https://open.spotify.com/album/5zYm8Y47mCuyRHYsLk22sL) | 3:53 | 2025-09-03 | 2025-09-17 |
@@ -105,6 +105,7 @@
 | [You Don't Know What You've Got](https://open.spotify.com/track/42SrdgnUq7wXgQdllzgm4X) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Greatest Hits](https://open.spotify.com/album/6CpI2jDw8f36Rsfnq9Zirr) | 3:42 | 2026-04-20 |  |
 | [You Don't Know What You've Got](https://open.spotify.com/track/3zGNujVVkUT07mGLgoT5an) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Bad Reputation \(Expanded Edition\)](https://open.spotify.com/album/1gB28ytYFQElaXngAfeYep) | 3:43 | 2025-03-08 | 2026-04-19 |
 | [You Don't Own Me](https://open.spotify.com/track/05ok9A1VF7Nk2v0UW98QcN) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Bad Reputation \(Expanded Edition\)](https://open.spotify.com/album/1gB28ytYFQElaXngAfeYep) | 3:27 | 2025-03-08 | 2026-05-19 |
+| [You Don't Own Me](https://open.spotify.com/track/0B1ZjLUvqgUW4wWM7AvkHA) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Bad Reputation \(Expanded Edition\)](https://open.spotify.com/album/4xAJmkDRtJcSmRWpAEtRRB) | 3:27 | 2026-05-28 |  |
 | [You Drive Me Wild](https://open.spotify.com/track/1u9Gqhag4VdMQ7uOVmpOSu) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Greatest Hits](https://open.spotify.com/album/6CpI2jDw8f36Rsfnq9Zirr) | 3:52 | 2026-04-22 |  |
 | [You Drive Me Wild](https://open.spotify.com/track/6I5Taz8OHaWBy6KqoMYYEf) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Greatest Hits](https://open.spotify.com/album/5UwhZD3iKYWPKLvuedpVsl) | 3:52 | 2025-03-08 | 2026-04-22 |
 | [You Want In, I Want Out](https://open.spotify.com/track/4nPfw7JheKRSPFhqRxPdrQ) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Up Your Alley](https://open.spotify.com/album/2pkv3nrNrwtUdT8VNWwt5U) | 4:15 | 2025-11-05 | 2026-04-24 |

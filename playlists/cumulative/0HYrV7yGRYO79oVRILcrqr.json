@@ -3159,6 +3159,24 @@
     },
     {
       "album": {
+        "name": "Gedankengewitter",
+        "url": "https://open.spotify.com/album/0rKxIPQemkSVpupIUZfqjI"
+      },
+      "artists": [
+        {
+          "name": "Elaria Sol",
+          "url": "https://open.spotify.com/artist/5rbCDCbfSBmLmLBp9J7NDH"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217440,
+      "name": "Gedankengewitter",
+      "url": "https://open.spotify.com/track/1Hze4rox0RnhkKtJiQ5m6k"
+    },
+    {
+      "album": {
         "name": "Feral Child",
         "url": "https://open.spotify.com/album/1BNemdbTYPHl5gPVQJMwWq"
       },
@@ -3810,6 +3828,64 @@
       "duration_ms": 266959,
       "name": "Hilang",
       "url": "https://open.spotify.com/track/566IzROY1CbEswbjNpuuoD"
+    },
+    {
+      "album": {
+        "name": "Flow.",
+        "url": "https://open.spotify.com/album/2NnuwWtt2lutd9kxd7vetS"
+      },
+      "artists": [
+        {
+          "name": "SrJ Is DeD",
+          "url": "https://open.spotify.com/artist/2B8qfVKrS25pCuOuXpLV1U"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111789,
+      "name": "Hit",
+      "url": "https://open.spotify.com/track/6D5ZchK6XrGfxxDILqd0OY"
+    },
+    {
+      "album": {
+        "name": "Cosmic Bingo",
+        "url": "https://open.spotify.com/album/0a1rW4YNunla4OAVRxGUY1"
+      },
+      "artists": [
+        {
+          "name": "Neofors",
+          "url": "https://open.spotify.com/artist/7HoKutGLhVfmBPfZe3gsPl"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Hockey Game",
+      "url": "https://open.spotify.com/track/4KXDzxPnNqpGZtj1yyz0VO"
+    },
+    {
+      "album": {
+        "name": "Hotel",
+        "url": "https://open.spotify.com/album/6F8FxwblR3zX1i8p5M9h21"
+      },
+      "artists": [
+        {
+          "name": "FRED",
+          "url": "https://open.spotify.com/artist/3J0w4a5nxhpvCxa1MFW2fR"
+        },
+        {
+          "name": "BAI",
+          "url": "https://open.spotify.com/artist/4HS5GfG0mkjkhgQuB0kpHh"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190222,
+      "name": "Hotel",
+      "url": "https://open.spotify.com/track/1MGFrDLP5HmTXC8S1o1dT4"
     },
     {
       "album": {
@@ -5188,6 +5264,24 @@
       "duration_ms": 162619,
       "name": "Medicine",
       "url": "https://open.spotify.com/track/2FGTL4RbwWbPXZrY8XoMQh"
+    },
+    {
+      "album": {
+        "name": "The Meadowlark Lemons",
+        "url": "https://open.spotify.com/album/0WFqangWFBGOthdswpLMOQ"
+      },
+      "artists": [
+        {
+          "name": "The Meadowlark Lemons",
+          "url": "https://open.spotify.com/artist/2JRrhlEgRBFvrFmXOMpLNy"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308607,
+      "name": "Meet Me at the Sidebar",
+      "url": "https://open.spotify.com/track/0Ew2kJHiWLEDedSn9Z5NVu"
     },
     {
       "album": {
@@ -9110,6 +9204,28 @@
       "duration_ms": 319732,
       "name": "What I Need from You",
       "url": "https://open.spotify.com/track/0AWDRo8aeuR6JBfc15g0wj"
+    },
+    {
+      "album": {
+        "name": "What You Mean To Me",
+        "url": "https://open.spotify.com/album/5lvrmaQymbPBCK8eqMA5xz"
+      },
+      "artists": [
+        {
+          "name": "CulturalException",
+          "url": "https://open.spotify.com/artist/7jX8waGsSoJDrsZyrmKW09"
+        },
+        {
+          "name": "Enlia",
+          "url": "https://open.spotify.com/artist/4pGE3dPAL7rlSvoBgTw91S"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251406,
+      "name": "What You Mean To Me",
+      "url": "https://open.spotify.com/track/4li8wXH4ddF3r16UsVVK0e"
     },
     {
       "album": {

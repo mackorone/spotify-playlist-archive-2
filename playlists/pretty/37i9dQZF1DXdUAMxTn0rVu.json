@@ -1,6 +1,6 @@
 {
   "description": "Essential songs from the late '90s, 2000s underground hip-hop scene. Cover: J Dilla",
-  "num_followers": 647201,
+  "num_followers": 647326,
   "original_name": "I Love My Underground Classics",
   "owner": {
     "name": "Spotify",
@@ -395,6 +395,22 @@
     {
       "added_at": "2026-02-07 18:12:32",
       "album": {
+        "name": "I Need Drugs",
+        "url": "https://open.spotify.com/album/3goXMAFZit2Wiaazp8zO2f"
+      },
+      "artists": [
+        {
+          "name": "Necro",
+          "url": "https://open.spotify.com/artist/51vjIMmHWyVqDrkxD07Jh7"
+        }
+      ],
+      "duration_ms": 182906,
+      "name": "Your Fuckin\u2019 Head Split",
+      "url": "https://open.spotify.com/track/1WkJbf3RsZCtPUvxM8AdN9"
+    },
+    {
+      "added_at": "2026-02-07 18:12:32",
+      "album": {
         "name": "The Shining",
         "url": "https://open.spotify.com/album/6hXXKsVVTfDbRTEuHaInI5"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 336813,
       "name": "So Far to Go",
       "url": "https://open.spotify.com/track/4omO3Xwm4REEK5HGT6e6yY"
-    },
-    {
-      "added_at": "2026-02-07 18:12:32",
-      "album": {
-        "name": "I Need Drugs",
-        "url": "https://open.spotify.com/album/3goXMAFZit2Wiaazp8zO2f"
-      },
-      "artists": [
-        {
-          "name": "Necro",
-          "url": "https://open.spotify.com/artist/51vjIMmHWyVqDrkxD07Jh7"
-        }
-      ],
-      "duration_ms": 182906,
-      "name": "Your Fuckin\u2019 Head Split",
-      "url": "https://open.spotify.com/track/1WkJbf3RsZCtPUvxM8AdN9"
     },
     {
       "added_at": "2026-02-07 18:12:32",
@@ -681,7 +681,7 @@
         },
         {
           "name": "Planetary",
-          "url": "https://open.spotify.com/artist/3tP3kbF0Echadhj6fLbCu8"
+          "url": "https://open.spotify.com/artist/5ogssnW2k08fXhf6kYzIq8"
         },
         {
           "name": "Celph Titled",

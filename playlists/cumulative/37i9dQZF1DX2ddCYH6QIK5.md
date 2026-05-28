@@ -2,9 +2,9 @@
 
 ### [Fresh Finds GSA](https://open.spotify.com/playlist/37i9dQZF1DX2ddCYH6QIK5)
 
-> The best new music by independent artists and labels from GSA, updated every Wednesday\. Cover: FLORA, Artwork: Isu Kim
+> The best new music by independent artists and labels from GSA, updated every Wednesday\. Cover: Yola Marie, Artwork: Isu Kim
 
-1,662 songs - 3 day 20 hr 22 min
+1,665 songs - 3 day 20 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Alles Lügen](https://open.spotify.com/track/1dEv8UGoLqEibkymEN4Xhi) | [borlinghaus](https://open.spotify.com/artist/3kqhYAQ1mEfwasJhwXhgiG) | [Alles Lügen](https://open.spotify.com/album/4b6TlCw6vUG2puyFjennBs) | 2:39 | 2025-05-21 | 2025-06-13 |
 | [Alles Scheisse](https://open.spotify.com/track/3H1zM1uFstYvyEy8l0bisr) | [SERPENTIN](https://open.spotify.com/artist/5OqZTCIS0UcVN7tPiUtGEF) | [Alles Scheisse](https://open.spotify.com/album/2WVwilXGM4HrUAfZVVAg6J) | 2:57 | 2022-07-27 | 2023-01-05 |
 | [Alles so schön aufgebaut](https://open.spotify.com/track/3i63QWWzM1hBGXopqzHpxL) | [Katharina Merker](https://open.spotify.com/artist/4ftKWF7vLI7aCYPhUfEicy) | [Alles so schön aufgebaut](https://open.spotify.com/album/2D99zXqMEYebREzUY7DQWF) | 2:43 | 2026-04-29 |  |
+| [Alles was ich hab](https://open.spotify.com/track/1NISIhtuBRwpJz5yhyWHnt) | [Yola Marie](https://open.spotify.com/artist/18TGbjWKPNcPoiuERrzwx0) | [Alles was ich hab](https://open.spotify.com/album/1GUwivfQowyIqOnMu4669b) | 3:20 | 2026-05-27 |  |
 | [alles/nichts](https://open.spotify.com/track/0MJIjeTV8IZOVoJQfkYsPa) | [taal](https://open.spotify.com/artist/7njUAoCB1JJsEGHc7UoHKs) | [alles/nichts](https://open.spotify.com/album/78TpHDvI3ih7Qspr5fIOg7) | 3:38 | 2025-03-05 | 2026-01-15 |
 | [Allies](https://open.spotify.com/track/5Wjlo4PRuPOgc6NGvyfavZ) | [ernie g](https://open.spotify.com/artist/4Eh6xH6uL3yvW9IsQERQJ0) | [Allies](https://open.spotify.com/album/6Zad2FhZp9sqHiUn2y8ct1) | 2:35 | 2025-06-04 | 2025-07-03 |
 | [Almost](https://open.spotify.com/track/6KGCfq4NWeRuU2wnT1Cr7F) | [Yannek Maunz](https://open.spotify.com/artist/2Kpl9Z7stnwWTE8tZK7srj), [Johanson](https://open.spotify.com/artist/5oNwxILfJ5rJhMaFdwB9tN), [Feral Garden](https://open.spotify.com/artist/6C3Yrg93t2fro8ikPATMfK) | [Almost](https://open.spotify.com/album/4laJoI4wRtF1SJpIR2mjrr) | 5:43 | 2023-04-05 | 2023-08-24 |
@@ -227,6 +228,7 @@
 | [Breaking My Heart](https://open.spotify.com/track/0nKTOWJGF6CUeoot8UECJD) | [Donata](https://open.spotify.com/artist/6rC5q8dgyXjvNUICucB075) | [Breaking My Heart](https://open.spotify.com/album/6bzFgqU4TNlH68xNdBfDPy) | 3:08 | 2022-05-25 | 2022-06-09 |
 | [Breath](https://open.spotify.com/track/0w80B8Qah90Owttcvu9xR1) | [fanschko](https://open.spotify.com/artist/5dCtN40dL2y8fTDHZ0WUne) | [Breath](https://open.spotify.com/album/7kJM9dpFsjcYCjuLSWZTTD) | 3:34 | 2023-04-12 | 2023-06-29 |
 | [Breathe](https://open.spotify.com/track/05v0olACA2jHcfwLdeLo4k) | [The Raw Soul](https://open.spotify.com/artist/1L3YuH5WrbdMpN7WezL6hN) | [Breathe](https://open.spotify.com/album/338SNaZlcW3nVgvfC7y3gg) | 3:29 | 2023-11-08 | 2024-03-21 |
+| [Breeze](https://open.spotify.com/track/7I7EYPHh7VDDnZceAl6gXS) | [1998](https://open.spotify.com/artist/6vhXoKu154F1WwJpfIjsUu) | [Breeze](https://open.spotify.com/album/3wVXKa3wiF6TSksXGIwklw) | 3:03 | 2026-05-27 |  |
 | [Brenn Mich Aus](https://open.spotify.com/track/01bV2KkMJZw5MzAP0QDTy5) | [WOHINN](https://open.spotify.com/artist/7BW1zR1tn0viUXcb8hsQk6) | [Brenn Mich Aus](https://open.spotify.com/album/57RzGLeYSgPjHaINGjctlQ) | 3:03 | 2024-02-21 | 2024-07-25 |
 | [Brich mein Herz](https://open.spotify.com/track/34ekTuJitl8eg2hhdIXmxv) | [KRAMER](https://open.spotify.com/artist/36mCd8l9ElmLnLWgNZ0XLY) | [Brich mein Herz](https://open.spotify.com/album/0WOdKAHtxzb9OrOSxJ1fRt) | 2:41 | 2022-05-18 | 2022-06-01 |
 | [Bring The Beat Back](https://open.spotify.com/track/0EqAZEQA660aYDZAJQvOfX) | [Elisa Elisa](https://open.spotify.com/artist/2Fxcs2AZB1EkSjLon18RHI) | [Infused Roots](https://open.spotify.com/album/3pLdnYGxkDa6yOBZHLvNEH) | 3:12 | 2022-06-08 | 2022-06-30 |
@@ -458,7 +460,7 @@
 | [Entweder oder](https://open.spotify.com/track/4echOeuilueThzzmrTl9kY) | [Edwin](https://open.spotify.com/artist/2Ix8IsJqnA9NgGVSDhi8sa) | [Entweder oder](https://open.spotify.com/album/2ea8Xv8owIL4C9GFmUf5Ei) | 2:42 | 2024-09-25 | 2024-10-17 |
 | [er ist anders](https://open.spotify.com/track/7CseMwM25Tx762et5VIa8D) | [rosa roth](https://open.spotify.com/artist/4V6eOZ1sdK3SgSXP7oZt0l) | [er ist anders](https://open.spotify.com/album/1frbRsUISl5eyvC9Jz4Xvx) | 2:22 | 2026-03-04 | 2026-04-16 |
 | [Es geht mir gut](https://open.spotify.com/track/1urzJp8Pw15po84Bh1x4Nh) | [IMMER WIEDER WIRSING](https://open.spotify.com/artist/3zyNlIF9YVsxpAfFPl0fj9) | [Es geht mir gut](https://open.spotify.com/album/63OY0mZPBmJo4Mw3qRKwUk) | 3:26 | 2023-09-13 | 2023-10-05 |
-| [Es geht mir gut](https://open.spotify.com/track/4KsbDVi1LV946LoIp7Lxqd) | [Tim Baldus](https://open.spotify.com/artist/6tNFo8CQXEEY3KOONGTLQY) | [Es geht mir gut](https://open.spotify.com/album/3GmCs6fIWQGbdBKI03mhPL) | 2:53 | 2025-11-26 |  |
+| [Es geht mir gut](https://open.spotify.com/track/4KsbDVi1LV946LoIp7Lxqd) | [Tim Baldus](https://open.spotify.com/artist/6tNFo8CQXEEY3KOONGTLQY) | [Es geht mir gut](https://open.spotify.com/album/3GmCs6fIWQGbdBKI03mhPL) | 2:53 | 2025-11-26 | 2026-05-28 |
 | [es ist spät](https://open.spotify.com/track/5eg2Kn2Z85VdZYX6mYkdkw) | [frytz](https://open.spotify.com/artist/4hX2AmJ9iZiXYA2Zx1vtBO) | [es ist spät](https://open.spotify.com/album/4kiJxNQKvKzuClgBAbHcdW) | 2:01 | 2023-09-06 | 2024-03-14 |
 | [Eternity](https://open.spotify.com/track/1ve3OSyh2xW057WzVEhFB6) | [SHIA](https://open.spotify.com/artist/54SlYcWjFlFHTH9pPsm4oo) | [Eternity](https://open.spotify.com/album/2JPF6J2tM2u8QFgFTfk9pz) | 5:04 | 2022-08-10 | 2022-08-25 |
 | [Euphorie](https://open.spotify.com/track/2UTM8Q8oYsi8ULmmHDORlk) | [Alien Surf Girl](https://open.spotify.com/artist/5HJnjbg0jin1bXgPVKewQi) | [Euphorie](https://open.spotify.com/album/43dcpdvusjek6i8NnzcbNU) | 3:42 | 2022-09-14 | 2023-02-09 |
@@ -673,6 +675,7 @@
 | [Hoffe, dir geht's mies](https://open.spotify.com/track/2OGDD8ZZBnXLkj3gtbxFf9) | [Victoryaz](https://open.spotify.com/artist/6F71TTGaz9SrRCJhCzGhNk) | [Hoffe, dir geht's mies](https://open.spotify.com/album/5Qag9d6zz6QDY16sB2ZTrq) | 3:13 | 2024-04-17 | 2024-08-01 |
 | [Hold Me](https://open.spotify.com/track/7BUp4RbEmzgrcIorrde4Yv) | [Julian Brown](https://open.spotify.com/artist/79Mk7W8bdPKLU00RCdGQZD) | [Hold Me](https://open.spotify.com/album/59tosTdJvAjD5bQwa0y55r) | 3:10 | 2024-03-13 | 2024-09-12 |
 | [Hold On Tight](https://open.spotify.com/track/5q9TIPIzxkBKuACZaJKLNU) | [Sorin](https://open.spotify.com/artist/1aS8vTdASHGGpBDxocq43D), [Tilmann Jarmer](https://open.spotify.com/artist/7IpIokbWG04a82smtUvEp5) | [Hold On Tight](https://open.spotify.com/album/7JLSUpv8B8SNiovFqxXjmm) | 3:41 | 2022-09-14 | 2022-11-10 |
+| [Hold You](https://open.spotify.com/track/61Na2P3soZf90yR590STNQ) | [Post Clients](https://open.spotify.com/artist/17epO52VTK1ItWIlUtNSDQ) | [Hold You](https://open.spotify.com/album/6Uu6ZWCuCMZPCeN8ZzB4VL) | 2:52 | 2026-05-27 |  |
 | [Holding Your Heart](https://open.spotify.com/track/141GEs0sthqirmbpV6nnmF) | [EX GENERATION](https://open.spotify.com/artist/7aePbjQ413f884sVyRtQtn) | [Holding Your Heart](https://open.spotify.com/album/2WAECECNXHxWF6ElsM2PHW) | 3:40 | 2024-04-24 | 2024-10-24 |
 | [Hologram](https://open.spotify.com/track/23df8gbzAWOfsfUbXxQCDb) | [Buridan](https://open.spotify.com/artist/2mOHwtga6C4ES7wkxmmT4g) | [Hologram](https://open.spotify.com/album/7K1AACMxBSSTCoCKbUM8eG) | 6:36 | 2023-02-15 | 2023-07-06 |
 | [Hologram](https://open.spotify.com/track/3QUiaFjKkp3EkCuJ7pa1PX) | [KIDSØ](https://open.spotify.com/artist/7qJHwvMJBW2Da8kt79uexr) | [Hologram](https://open.spotify.com/album/6etgircCabewA3pqdJCZnH) | 3:55 | 2022-01-05 | 2022-01-27 |
@@ -820,7 +823,7 @@
 | [Kinderspiel](https://open.spotify.com/track/4rdlp25XHbz3zO6jYtk2hF) | [Schoonebeek](https://open.spotify.com/artist/0s3vpUpz6x99aBoH6FksO2), [Aestie](https://open.spotify.com/artist/5Nxk7QzMmMscqjw6Dz2hb1) | [Kinderspiel](https://open.spotify.com/album/0dtIvSJfDkUoGBrhh6gzn2) | 4:34 | 2022-01-05 | 2022-03-03 |
 | [Kino](https://open.spotify.com/track/0gpvcds6YWLVvfCEwmnw6R) | [LEANDER](https://open.spotify.com/artist/4vfPWGAtczR80hRCKUBaSc) | [Kino](https://open.spotify.com/album/2K8zopTBX72PDtPYWEST3M) | 2:34 | 2024-01-24 | 2024-05-16 |
 | [Kippe](https://open.spotify.com/track/7EEkf0j8wet1TBSclluGGH) | [Carla Ahad](https://open.spotify.com/artist/0ic9BGUoRMQidNxGoet7Ln) | [Kippe](https://open.spotify.com/album/6kbiR8fu64IB1LmGW7S32g) | 2:36 | 2022-11-23 | 2024-01-04 |
-| [Kirschen spucken](https://open.spotify.com/track/1eb8Hu6Ga849CyUn7dFP2v) | [Lusterboden](https://open.spotify.com/artist/4AeK9gn4Po2PubfB7sJDAN) | [Kirschen spucken](https://open.spotify.com/album/0n5j9t3y3WtvxMOxfBXhHv) | 2:49 | 2025-11-19 |  |
+| [Kirschen spucken](https://open.spotify.com/track/1eb8Hu6Ga849CyUn7dFP2v) | [Lusterboden](https://open.spotify.com/artist/4AeK9gn4Po2PubfB7sJDAN) | [Kirschen spucken](https://open.spotify.com/album/0n5j9t3y3WtvxMOxfBXhHv) | 2:49 | 2025-11-19 | 2026-05-28 |
 | [kkiosk](https://open.spotify.com/track/7DbIPcKMWbqdc7X7OtCvBx) | [SQF2000](https://open.spotify.com/artist/6KHWeZDPxz0eH7l7Z4ZMNR) | [kkiosk](https://open.spotify.com/album/4jtkT3kaZq1ETLr4gpyLoH) | 2:52 | 2023-10-04 | 2023-11-09 |
 | [Klein Maria](https://open.spotify.com/track/1uuSZilbBbnCIIboGrUU7k) | [Lilli Belle](https://open.spotify.com/artist/5gH1N6dCnL6tqDJzB05iSt) | [Klein Maria](https://open.spotify.com/album/7q8MswmeFi3csKyGGOrMSj) | 5:00 | 2024-10-16 | 2024-11-14 |
 | [Kleine Dinge](https://open.spotify.com/track/3UG6OJYtVAVNi8fNiOCz1c) | [ALIVEMAEX](https://open.spotify.com/artist/0aiBlkcHQ2Nqta7K7JBS3d) | [Kleine Dinge](https://open.spotify.com/album/4eVZKoCeqqqZzgWlvLjESs) | 3:17 | 2024-07-16 | 2024-12-05 |
@@ -1100,7 +1103,7 @@
 | [Paralysiert](https://open.spotify.com/track/6Ryf1GSw4Q0qTMRzy6Tk69) | [Low Life Rich Kids](https://open.spotify.com/artist/07N6DATtpRNMzxRVEXTX0v) | [Paralysiert](https://open.spotify.com/album/0kz1ifVEspJbS3s3QIJIAZ) | 2:26 | 2023-09-27 | 2023-10-26 |
 | [Party](https://open.spotify.com/track/1Nwi6aNxXZ0vLRx1RqEXLI) | [Schroff](https://open.spotify.com/artist/20rvmtxLTmTujYYIouJABo) | [Party](https://open.spotify.com/album/6KPV1coqiNMzWmfjpUI9LY) | 3:57 | 2022-06-08 | 2022-06-30 |
 | [Passos](https://open.spotify.com/track/6HjTOWkQeWdw897OlUBvDW) | [Carlifornia](https://open.spotify.com/artist/35zmWY1Vg28Fb8ltQ1qtnz), [Ish](https://open.spotify.com/artist/7nNyZMVQQgGf5UVDcJ52yI), [Sira](https://open.spotify.com/artist/57IaP5fMkqnu3M3ib1Vgvs) | [Passos](https://open.spotify.com/album/4Jy8Zu3kSbVv1LJMgOqRtH) | 2:20 | 2022-03-23 | 2022-03-31 |
-| [past 11](https://open.spotify.com/track/0e2vTKDClLrMhD2kw91rLY) | [Lind Holmen](https://open.spotify.com/artist/3cy5BZSxzCJTPKLADhmKM9) | [past 11](https://open.spotify.com/album/29na1yALu927pTdCx7p4hm) | 3:28 | 2025-11-19 |  |
+| [past 11](https://open.spotify.com/track/0e2vTKDClLrMhD2kw91rLY) | [Lind Holmen](https://open.spotify.com/artist/3cy5BZSxzCJTPKLADhmKM9) | [past 11](https://open.spotify.com/album/29na1yALu927pTdCx7p4hm) | 3:28 | 2025-11-19 | 2026-05-28 |
 | [Patti’s Words](https://open.spotify.com/track/5B9XDstEMDsVr5ErH1KOks) | [Pina Palau](https://open.spotify.com/artist/6Ktx4W0UWEkRQKxhkIUFvP) | [Patti's Words](https://open.spotify.com/album/09PMUIzZqVNUjCKklfXsmk) | 4:20 | 2022-02-02 | 2022-03-03 |
 | [Peak Rose](https://open.spotify.com/track/0bVu7G1hUHqDjdxdfh2LNO) | [Jules Martinet](https://open.spotify.com/artist/3WgBYXlpW1CwZ1GbpHg5YF) | [Peak Rose](https://open.spotify.com/album/6tnp887v2leQPpzpIeb97c) | 2:56 | 2025-05-21 | 2025-06-19 |
 | [Perfekt](https://open.spotify.com/track/3FTPQcRnwkm5RXzHbqyRDr) | [RIA](https://open.spotify.com/artist/1uEz1ky7M03Huwn2WzeSyK) | [Perfekt](https://open.spotify.com/album/3GF9y1o0sjdCwE79vASjYa) | 2:40 | 2025-02-19 | 2025-02-28 |

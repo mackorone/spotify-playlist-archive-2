@@ -4,7 +4,7 @@
 
 > Instrumental house for when you need to focus!
 
-484 songs - 22 hr 37 min
+487 songs - 22 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [Drifted](https://open.spotify.com/track/57H1bcqbsyrGHfTebZddzy) | [Ran the Man](https://open.spotify.com/artist/69lVKiR03uaDrGqEgOC2gu) | [Moonbeam / Drifted](https://open.spotify.com/album/7lgjYTyAR0PUXAKaOnB4JN) | 4:05 | 2022-04-15 | 2022-05-11 |
 | [Drinks on You](https://open.spotify.com/track/07YhBKi2jQhDp7FhRTlmeD) | [André Aguado](https://open.spotify.com/artist/6USxBSmx4wkhLW61dT1DgC) | [Drinks On You, / Places To Go](https://open.spotify.com/album/6GFWbw9g0xkIACWMJiFlFo) | 3:48 | 2022-04-15 | 2025-01-25 |
 | [Drops of Love in an Ocean of Hate](https://open.spotify.com/track/5Q4tISg9nqORTnOxVhdhar) | [Vossberg](https://open.spotify.com/artist/2aztkMjmS8uRYHVejM5QhD) | [Drops of Love in an Ocean of Hate](https://open.spotify.com/album/41HQqH2S2CItiVMNJ05cp2) | 2:55 | 2022-04-15 | 2025-12-13 |
+| [Early Rise](https://open.spotify.com/track/1II5BAFIEo90W8dLyjSeOp) | [nick rush](https://open.spotify.com/artist/2vwrWCNovHSx3BElXZoOBK) | [Early Rise](https://open.spotify.com/album/0gOkcAUxUyjcVhFiAUXuGi) | 2:41 | 2026-05-27 |  |
 | [east of the island](https://open.spotify.com/track/0eC6DMWphLOO8OLUOsZPxt) | [Greene Labyrinth](https://open.spotify.com/artist/6oiYRGIhDRfbtZmzsfziUR) | [east of the island](https://open.spotify.com/album/0dsf7MTWNcFhfKgj9hNGhM) | 2:42 | 2024-05-11 |  |
 | [eastland](https://open.spotify.com/track/78BP00AkPTQmPP0nAwRNDw) | [papi.](https://open.spotify.com/artist/0zTABUBaGxFgQDVA8wPkqh) | [eastland](https://open.spotify.com/album/69pW4fHseYnndFdNNJY0de) | 3:41 | 2023-03-17 | 2025-11-29 |
 | [Echo Slate](https://open.spotify.com/track/3MNRzL5ym0MuaAnIcOdt42) | [Mauro Bocci](https://open.spotify.com/artist/5AjW1zukyf8YxUHVWOyd8s), [Benji Saito](https://open.spotify.com/artist/7aapBhkAQIThSLx9Iza17r) | [Echo Slate](https://open.spotify.com/album/2XMkusB04pYJa0fKva66QZ) | 2:17 | 2025-03-07 | 2026-02-27 |
@@ -166,6 +167,7 @@
 | [For Nothing](https://open.spotify.com/track/5jtuH30T8tgSd2IQfVcN09) | [KD Simon](https://open.spotify.com/artist/5vdDoo0msksIJMUMyTwoIe) | [For Nothing](https://open.spotify.com/album/1Zcyt35W120rowd8V0EZtV) | 2:36 | 2024-04-08 | 2025-03-22 |
 | [For The First Time](https://open.spotify.com/track/3aIv0tjMJqDzONyBFtUa9g) | [Slow](https://open.spotify.com/artist/5II01coLXrJeSFThmONDoB) | [For The First Time](https://open.spotify.com/album/4c35XVvKPCr4X0DrRScKQ4) | 3:17 | 2022-04-15 | 2026-02-14 |
 | [Forest Run](https://open.spotify.com/track/7IfFGjE55MtQejeXNPSlpD) | [DJ Plaze](https://open.spotify.com/artist/7pv0fydirVojof7Bs78qMj) | [Forest Run](https://open.spotify.com/album/7bqI8NfwJ4xVglMlcqp3V5) | 1:57 | 2022-04-15 | 2022-05-11 |
+| [Forever](https://open.spotify.com/track/7svdicYIM8BE1NHfA2MKfN) | [Zaytune](https://open.spotify.com/artist/70JZHPeMCxGcQKKg3qmu2c) | [Forever](https://open.spotify.com/album/7zpjIbNXuVeLiWI2PatgRf) | 3:10 | 2026-05-27 |  |
 | [forward thinking](https://open.spotify.com/track/2yNy6mrhRyqtve0I50aTsM) | [Landayn](https://open.spotify.com/artist/13ptCL2mD06c4wcdwj1SaA) | [forward thinking](https://open.spotify.com/album/0bJOpBs5bUBTs6pzxIZE1y) | 2:03 | 2024-06-11 |  |
 | [Fragaria](https://open.spotify.com/track/5SFYmIfbzjnoQuteQ4CuKi) | [Twelwe](https://open.spotify.com/artist/0cXv4l0iCzhQrRljsAQyQW) | [Fragaria / Deflexus](https://open.spotify.com/album/07f55XYO4bXC7cnaFz2l2C) | 5:45 | 2022-04-15 | 2022-05-11 |
 | [Free](https://open.spotify.com/track/47DcKTZGe8PKTr8B64bgZM) | [DANEGIAN](https://open.spotify.com/artist/2k1h6uRnsiIMNavFowk5hc) | [Free](https://open.spotify.com/album/7uhejgr38JOpUCH43v0hkz) | 2:19 | 2022-04-15 | 2023-05-27 |
@@ -281,6 +283,7 @@
 | [Nature Plucks](https://open.spotify.com/track/75rVcvOseaI1SMZZgcwqSM) | [Kris Karrey](https://open.spotify.com/artist/200b6fuQRBe2Ra2k6d0lJI) | [Nature Plucks](https://open.spotify.com/album/4ZaClNu61vJTzuRG7orxBJ) | 2:52 | 2024-07-14 |  |
 | [Need You](https://open.spotify.com/track/29dIB2onYC4p4JP46pWCNk) | [Zaytune](https://open.spotify.com/artist/70JZHPeMCxGcQKKg3qmu2c) | [Need You](https://open.spotify.com/album/58hO83wvfIJvzI3LgCRXDZ) | 2:31 | 2025-11-17 |  |
 | [Never Let Me Go](https://open.spotify.com/track/7t9HWGoCp9SDJLrjiI0I0v) | [Zaytune](https://open.spotify.com/artist/70JZHPeMCxGcQKKg3qmu2c) | [Never Let Me Go](https://open.spotify.com/album/2h2QMLD4p0XJAgE2FEI3wo) | 2:27 | 2025-12-12 |  |
+| [Never Stop](https://open.spotify.com/track/4bsVtRnxB2EVS0WtjWdHZq) | [crayg](https://open.spotify.com/artist/2V6p3TuP6FqZBVpnbmfvHg) | [Never Stop](https://open.spotify.com/album/5oMifapNsdr31JozR2ILQr) | 3:05 | 2026-05-27 |  |
 | [New Horizon](https://open.spotify.com/track/5FAKB08xt0bFpcPmqlZ3iP) | [rigii](https://open.spotify.com/artist/7mKI3t5igUWeoSgBNCdQIU) | [New Horizon](https://open.spotify.com/album/76kOvwW3oYtzslnhGBkmqs) | 2:41 | 2024-06-11 |  |
 | [New Jade](https://open.spotify.com/track/0aXTlYIS7b7mMDMBUUAtFq) | [dreem](https://open.spotify.com/artist/66cMjcY2f2B1omrVfxHIlG) | [Rayn / New Jade](https://open.spotify.com/album/6CaGwdawqrWQ14o9vew84L) | 3:47 | 2022-04-15 | 2024-11-23 |
 | [New Number](https://open.spotify.com/track/2AA387qF18kyjAqIDEidvz) | [Niriko](https://open.spotify.com/artist/249Q1LZa29XL7XIatTN45M) | [New Number](https://open.spotify.com/album/0NTfcon7qKdfszzbRrcskY) | 2:58 | 2025-05-02 | 2026-02-27 |

@@ -4,7 +4,7 @@
 
 > Objectively good music
 
-1,328 songs - 3 day 9 hr 36 min
+1,329 songs - 3 day 9 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -249,6 +249,7 @@
 | [Dancing Shoes](https://open.spotify.com/track/0hAMkY2kwdXPPDfQ1e3BmJ) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Whatever People Say I Am, That's What I'm Not](https://open.spotify.com/album/50Zz8CkIhATKUlQMbHO3k1) | 2:21 | 2020-08-10 |  |
 | [DANCING WITHOUT MOVING](https://open.spotify.com/track/1TGiB4KEDY8dlpXrIWQ2f1) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [Vanisher, Horizon Scraper](https://open.spotify.com/album/6o6VAIetIFOsaOa0qt7w9u) | 3:19 | 2025-07-25 |  |
 | [Danny’s Track](https://open.spotify.com/track/0vfwHv2Se8GHwEGSQTCIR8) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE), [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [Blush](https://open.spotify.com/album/1aUFNUsjLeUwhJZjBZpoKa) | 0:52 | 2025-06-26 |  |
+| [Dark Magic](https://open.spotify.com/track/60hga4vu4erXRxcxEGDLMQ) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [Dark Magic](https://open.spotify.com/album/1iBUPWKDIoHqRhNxmnNQps) | 2:55 | 2026-05-27 |  |
 | [Dark Red](https://open.spotify.com/track/3EaJDYHA0KnX88JvDhL9oa) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Dark Red](https://open.spotify.com/album/7vrsFZNVhrriKh0SZKJW41) | 2:53 | 2023-06-12 |  |
 | [Dark Sword Angel](https://open.spotify.com/track/1ODOnrRAdszEe09dV2C7bv) | [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [Quaranta](https://open.spotify.com/album/2aswMmRN4vXGalI39pDsMb) | 2:40 | 2023-11-17 |  |
 | [Darling, I \(feat\. Teezo Touchdown\)](https://open.spotify.com/track/0VaeksJaXy5R1nvcTMh3Xk) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 4:13 | 2024-11-01 |  |

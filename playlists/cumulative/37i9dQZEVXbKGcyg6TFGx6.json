@@ -4540,7 +4540,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-27",
+      "date_removed": null,
       "duration_ms": 164307,
       "name": "Argent Sale - A COLORS SHOW",
       "url": "https://open.spotify.com/track/0UbEeYuehzUktmPlhMtfA8"
@@ -5200,7 +5200,7 @@
       ],
       "date_added": "2026-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-26",
+      "date_removed": null,
       "duration_ms": 182000,
       "name": "AVEC MOI",
       "url": "https://open.spotify.com/track/5t1LPk2QiG9O7JdL0oAsou"
@@ -9194,7 +9194,7 @@
       ],
       "date_added": "2026-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-28",
       "duration_ms": 203750,
       "name": "Borderline Rhapsody",
       "url": "https://open.spotify.com/track/4OrD7y5sujMvR0MB9Nhmck"
@@ -19784,7 +19784,7 @@
       ],
       "date_added": "2026-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-28",
       "duration_ms": 168401,
       "name": "Estrela +18",
       "url": "https://open.spotify.com/track/6ExSbt9mg3kxpMSCkvZxYO"
@@ -27060,7 +27060,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-28",
       "duration_ms": 245837,
       "name": "Human Nature",
       "url": "https://open.spotify.com/track/4cgjA7B4fJBHyB9Ya2bu0t"
@@ -35174,7 +35174,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-28",
       "duration_ms": 147692,
       "name": "LOVE YOU",
       "url": "https://open.spotify.com/track/0SYGJCm9PpTvO7g14EZQex"
@@ -35785,6 +35785,24 @@
     },
     {
       "album": {
+        "name": "MA RICA QUE ANTES",
+        "url": "https://open.spotify.com/album/2mHJwQ27KXdH4Vi7U5nQZe"
+      },
+      "artists": [
+        {
+          "name": "Jupit3r",
+          "url": "https://open.spotify.com/artist/5lHYwvBd3Vs8cwJxiuJwKY"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147005,
+      "name": "MA RICA QUE ANTES",
+      "url": "https://open.spotify.com/track/4ZXHEawRv1yFqsrxgiohcw"
+    },
+    {
+      "album": {
         "name": "Sinc\u00e8rement",
         "url": "https://open.spotify.com/album/3lyj8hU0YKXZIuYK6e0O5Y"
       },
@@ -36014,7 +36032,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-25",
+      "date_removed": null,
       "duration_ms": 152319,
       "name": "magique",
       "url": "https://open.spotify.com/track/0ffrrCB5IKs1oOLAr16c0D"
@@ -37536,7 +37554,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-27",
+      "date_removed": null,
       "duration_ms": 176213,
       "name": "melodrama",
       "url": "https://open.spotify.com/track/55vPnuXfuzXNW75JpuSczF"
@@ -38778,7 +38796,7 @@
       ],
       "date_added": "2025-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-28",
       "duration_ms": 143636,
       "name": "Mobile Money (Momo)",
       "url": "https://open.spotify.com/track/7HyLmUybCoiNUPEsn0TsyJ"
@@ -41076,7 +41094,7 @@
       ],
       "date_added": "2026-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-28",
       "duration_ms": 120469,
       "name": "Neva Too Much Prada",
       "url": "https://open.spotify.com/track/4LfYEJw0WPHBgsOdCOWUMy"
@@ -41630,7 +41648,7 @@
       ],
       "date_added": "2025-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-27",
+      "date_removed": null,
       "duration_ms": 163994,
       "name": "No Broke Boys",
       "url": "https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj"
@@ -45140,7 +45158,7 @@
       ],
       "date_added": "2025-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-28",
       "duration_ms": 158859,
       "name": "PARISIENNE",
       "url": "https://open.spotify.com/track/0wLCA75tmsos5ZcVzqHFQ1"
@@ -53138,7 +53156,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-28",
       "duration_ms": 176965,
       "name": "Show Me Love",
       "url": "https://open.spotify.com/track/33lL8HLB8YO834kMoQeoZd"
@@ -60399,6 +60417,32 @@
     },
     {
       "album": {
+        "name": "CHRONOPHOBIA",
+        "url": "https://open.spotify.com/album/1RuKIVabUODW0xT6QeHpLo"
+      },
+      "artists": [
+        {
+          "name": "EithanProd",
+          "url": "https://open.spotify.com/artist/62RhBdC9T4L0AJdKt0XXuO"
+        },
+        {
+          "name": "Teli",
+          "url": "https://open.spotify.com/artist/1QGH1Zk8BukFlO50U8eGu2"
+        },
+        {
+          "name": "Jupit3r",
+          "url": "https://open.spotify.com/artist/5lHYwvBd3Vs8cwJxiuJwKY"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "TIKTAK",
+      "url": "https://open.spotify.com/track/35vzlVCt9zZ3F5rkPnYosH"
+    },
+    {
+      "album": {
         "name": "UTOPIA",
         "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
       },
@@ -66092,7 +66136,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-25",
+      "date_removed": null,
       "duration_ms": 144101,
       "name": "White Keys",
       "url": "https://open.spotify.com/track/5ViLKrbyL3HD6wsq3AB9eI"

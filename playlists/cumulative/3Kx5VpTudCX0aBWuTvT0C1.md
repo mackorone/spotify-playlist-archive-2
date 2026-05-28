@@ -4,7 +4,7 @@
 
 > 🔀 Hit shuffle &amp; meet new artists &amp; pop rock song\. ✚ Each track also joins tailored playlists\.  By @faceless.diversum 📸 Insta\. Follow, save &amp; share ! Submit here :
 
-136 songs - 7 hr 56 min
+138 songs - 8 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [Turn into You](https://open.spotify.com/track/6Lz1tAR0AMy1lxPxwWkOnL) | [Elliott Jones](https://open.spotify.com/artist/7MWQM2kFM8HyN61ef30q0a) | [Turn into You](https://open.spotify.com/album/17ccZ72JqjSYFi6MjGmEXm) | 3:43 | 2026-03-10 |  |
 | [Una Señal](https://open.spotify.com/track/3MaxzGBdn5zDmrAziSGFu3) | [Joselu Toribio](https://open.spotify.com/artist/1LUaDb2TDUyN4MBowhnWqu) | [Una Señal](https://open.spotify.com/album/27m8pNmvR6GNsXzoLkN3sz) | 3:42 | 2025-11-12 | 2026-03-15 |
 | [Upstairs](https://open.spotify.com/track/4lJYXQFig7YEqBPZHcFxwI) | [Alma Samiri](https://open.spotify.com/artist/6scn9hopwDs5jfwtV5aZ1V), [Alfred YAO](https://open.spotify.com/artist/65wEQSfJRfQmdlVDl2MjCg) | [Upstairs](https://open.spotify.com/album/14EUlHI6yl60oXvNKZQyJ0) | 2:29 | 2025-10-29 | 2025-12-09 |
+| [Vamos Viendo](https://open.spotify.com/track/4sSJCnRfOZBZ8v7jD6PkPO) | [Ruido Cassette](https://open.spotify.com/artist/2YiahtiLSZAAMIHoV8uZlx) | [Vamos Viendo](https://open.spotify.com/album/5I0KWYTTCxgaOlQOvoq4LI) | 3:05 | 2026-05-27 |  |
 | [Vienna](https://open.spotify.com/track/6ifINtDtWjUMtpr4jlzfQA) | [Andreas Gavlén](https://open.spotify.com/artist/3oyWiGnLb2la5YPtEZEeXL) | [Vienna](https://open.spotify.com/album/66ZtlbDXrqXdR5hA6E6jHi) | 4:11 | 2026-01-22 |  |
 | [Vur Kalbimden](https://open.spotify.com/track/0fu2sSqESedfVKV7QD7fBz) | [Azel](https://open.spotify.com/artist/6Wefz4jdGRWUIPjmvl76QU) | [Vur Kalbimden](https://open.spotify.com/album/7efSlA8XFS5odUgIg36w0V) | 3:11 | 2025-12-01 |  |
 | [Warpaint](https://open.spotify.com/track/3YUxt5V51agQZDIBTn2Wp2) | [Flying Earrings](https://open.spotify.com/artist/4rIm3b1CR7sR47AG5qzjcy) | [Dreams](https://open.spotify.com/album/7zJxan3akf2KbCg6snqX3L) | 6:45 | 2026-01-06 |  |
@@ -133,6 +134,7 @@
 | [Weaker](https://open.spotify.com/track/6EXLpcnf9KBY7T16ZfX1Y1) | [Daryan Tchoubineh](https://open.spotify.com/artist/5kTeo0SHSNeFvUQP4mhtxj) | [Weaker](https://open.spotify.com/album/44m2wMyKWD8ANnMBUToYp5) | 3:31 | 2025-11-22 |  |
 | [White Roses](https://open.spotify.com/track/0dRwGLzgtvpZvS5NncfRJ8) | [Javier Sánchez](https://open.spotify.com/artist/012ou1HhOyZ6iFWL7FYsyZ) | [White Roses](https://open.spotify.com/album/4vPVInfF4dXmKVKFBR30XY) | 3:10 | 2025-11-10 | 2026-03-15 |
 | [Why did I let you go](https://open.spotify.com/track/3B7xM5DqfNlIOym2uGUqUD) | [Slackers](https://open.spotify.com/artist/5NgRFqeU6NagIzRChIVNbD), [Chelsea](https://open.spotify.com/artist/6dwC8rZSP2lrdEprBcZfdH) | [Why did I let you go](https://open.spotify.com/album/4ATipqGp3uvMv6TFJzQDYd) | 3:49 | 2025-11-19 | 2026-03-15 |
+| [Wicked Wicked Ways](https://open.spotify.com/track/4kBbTTOEJYymlnLIFMAAxf) | [DELREI](https://open.spotify.com/artist/77Xku7f5rq7hfoooTiv5jW), [Collin Hegna](https://open.spotify.com/artist/0cZ4bVVf2bWEON39U2kPab), [Federale](https://open.spotify.com/artist/6KdkzNXhRBjPQxCSYgRxpH) | [Wicked Wicked Ways](https://open.spotify.com/album/1te5ThMkLbxy4Vht0rSOlm) | 3:44 | 2026-05-27 |  |
 | [wild](https://open.spotify.com/track/0qfls25AHT70kdvoKc4zyq) | [Courtney Nord](https://open.spotify.com/artist/6oVgQ31kF4K4MmvTW37OtX) | [wild](https://open.spotify.com/album/1q9YI2XfYT3q2cwmYBgf32) | 3:43 | 2026-01-04 |  |
 | [Working For The Man](https://open.spotify.com/track/13cFPU8k6jUOjckQL7EV4V) | [Big Peon](https://open.spotify.com/artist/1xK2Hek0OpY5J4NW5zwfNY) | [Working For The Man](https://open.spotify.com/album/5FUbgxqaocAOPbAxYinDmc) | 2:53 | 2025-11-07 | 2025-12-09 |
 | [World is Equal](https://open.spotify.com/track/05YK7hsS859ziFGqqyPvol) | [3syk](https://open.spotify.com/artist/6nLWTo3BGompYwZMi5MbnZ), [ugazin](https://open.spotify.com/artist/1LoZxacnWxCypwVYdkNKIS) | [World is Equal](https://open.spotify.com/album/2YDjHFunY5aJUsXrZijyUS) | 3:33 | 2025-10-29 | 2025-12-09 |

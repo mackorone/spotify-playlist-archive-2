@@ -1,12 +1,12 @@
 {
   "description": "This is Charles Ans. The essential tracks, all in one playlist.",
-  "num_followers": 257698,
+  "num_followers": 257733,
   "original_name": "This Is Charles Ans",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahORAAAAAAD3dfclYRn1OGveYfHMmmm2",
+  "snapshot_id": "ahTigAAAAAAnZNlVPrmJU1FXEnvPDMWG",
   "tracks": [
     {
       "added_at": null,
@@ -63,6 +63,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mis Ojos No Pod\u00edan Ver",
+        "url": "https://open.spotify.com/album/6DflZePH7U2oKHumS0DWyM"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "BCN",
+          "url": "https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd"
+        }
+      ],
+      "duration_ms": 163000,
+      "name": "Mis Ojos No Pod\u00edan Ver",
+      "url": "https://open.spotify.com/track/3Vu0DaVs8y02I9mqm4NJso"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Canela",
         "url": "https://open.spotify.com/album/3Xc3k048w8xcsJLnTx4DY6"
       },
@@ -83,26 +103,6 @@
       "duration_ms": 204629,
       "name": "Canela",
       "url": "https://open.spotify.com/track/592R1yDJZI1NUKHpjyLCua"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mis Ojos No Pod\u00edan Ver",
-        "url": "https://open.spotify.com/album/6DflZePH7U2oKHumS0DWyM"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "BCN",
-          "url": "https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd"
-        }
-      ],
-      "duration_ms": 163000,
-      "name": "Mis Ojos No Pod\u00edan Ver",
-      "url": "https://open.spotify.com/track/3Vu0DaVs8y02I9mqm4NJso"
     },
     {
       "added_at": null,
@@ -347,26 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sui G\u00e9neris",
-        "url": "https://open.spotify.com/album/5IT4wCmpYj4zeRJfQOaxL4"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        }
-      ],
-      "duration_ms": 201687,
-      "name": "Caf\u00e9",
-      "url": "https://open.spotify.com/track/7uQOMsqi4Hnpuoa3o7gZEB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Antes del alba",
         "url": "https://open.spotify.com/album/2c8XYCoJPicXUReFRoplYe"
       },
@@ -387,6 +367,26 @@
       "duration_ms": 181418,
       "name": "T\u00fa tienes el son",
       "url": "https://open.spotify.com/track/0xK4D0uzzCBwUpqhjLOupm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sui G\u00e9neris",
+        "url": "https://open.spotify.com/album/5IT4wCmpYj4zeRJfQOaxL4"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        }
+      ],
+      "duration_ms": 201687,
+      "name": "Caf\u00e9",
+      "url": "https://open.spotify.com/track/7uQOMsqi4Hnpuoa3o7gZEB"
     },
     {
       "added_at": null,

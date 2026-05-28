@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgZGWDUJK7v.md) - [plain]
 
 > Meet the popular webtoon OSTs now! \(Cover: 화산귀환 \(Return of the Blossoming Blade\)\) 지금 인기 있는 웹툰 OST들을 만나보세요!
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,170 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,162 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,15 +98,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgZGWDUJK7v.md) - [plain]
 | 88 | [Sand Castle](https://open.spotify.com/track/3onn360zmsghT2igHXp4qt) | [Kim Kyung Rok](https://open.spotify.com/artist/0JIW1Ofq2ixNxfuivNHjlb) | [Love Revolution \(Lee Kyung\-woo Theme\) \(Original Webtoon Soundtrack\)](https://open.spotify.com/album/11YzZoNVzD74ewTFx11sxe) | 3:51 |
 | 89 | [First Love Story](https://open.spotify.com/track/7yaFG7IYstppb3WrI7nMWY) | [Baek A Yeon](https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX) | [First Love Story \(Original Soundtrack from the Webtoon Fight For My Way\)](https://open.spotify.com/album/1e5e5KZ97uAAUufTpjd5OJ) | 3:27 |
 | 90 | [LETTER \(True Beauty X VIINI\)](https://open.spotify.com/track/3j1JnErBuRpWQpgtSmuMK7) | [VIINI](https://open.spotify.com/artist/1BqI1HGTzHx6abI5iBVz2F) | [LETTER \(True Beauty X VIINI\)](https://open.spotify.com/album/1Fyrd1kuklVC57UQ041L1o) | 3:42 |
-| 91 | [Like the Wind Didn’t Blow](https://open.spotify.com/track/2pj014QfWlS46Y3E2kK5qO) | [Hansome Choi](https://open.spotify.com/artist/5XPZcfB2QykclQlVlb8PMU) | [Like the Wind Didn't Blow \(Original Soundtrack from the Webtoon A Not So Fairy Tale\)](https://open.spotify.com/album/4DVZ3PnWvWRn7nJVutnFBR) | 2:43 |
-| 92 | [With me \(Electrifying Confession X LUCY\)](https://open.spotify.com/track/3jYSRhZxA4NnOxqwaC5HP9) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [With me \(Electrifying Confession X LUCY\)](https://open.spotify.com/album/4jb6RsjGnqX6rm8ii8v6mi) | 3:54 |
+| 91 | [With me \(Electrifying Confession X LUCY\)](https://open.spotify.com/track/3jYSRhZxA4NnOxqwaC5HP9) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [With me \(Electrifying Confession X LUCY\)](https://open.spotify.com/album/4jb6RsjGnqX6rm8ii8v6mi) | 3:54 |
+| 92 | [Like the Wind Didn’t Blow](https://open.spotify.com/track/2pj014QfWlS46Y3E2kK5qO) | [Hansome Choi](https://open.spotify.com/artist/5XPZcfB2QykclQlVlb8PMU) | [Like the Wind Didn't Blow \(Original Soundtrack from the Webtoon A Not So Fairy Tale\)](https://open.spotify.com/album/4DVZ3PnWvWRn7nJVutnFBR) | 2:43 |
 | 93 | [The Memory \(민지와 자림\)](https://open.spotify.com/track/5Y4PlwrK1UlBBrm08SRnyp) | [MION](https://open.spotify.com/artist/3W6iVC49XXZ0yovMbYerho), [near](https://open.spotify.com/artist/6uCPb1SLQSd3ElSU72nJIR) | [Love Revolution \(Original Webcomic Soundtrack\)](https://open.spotify.com/album/4QHbIQlUQAOKKiTZnY7Y3H) | 3:21 |
 | 94 | [Melody](https://open.spotify.com/track/6bOHDFOz1MIuXe1wl1rLfk) | [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [Melody \(Gongzza X Whee In\) \(Original Soundtrack\)](https://open.spotify.com/album/0wcXas1o5ff06GoRW5Cwr4) | 3:54 |
 | 95 | [Draw the Moon \(feat\. MIYAVI\)](https://open.spotify.com/track/4B3JCEcAeTofpsfsEianeS) | [MINNIE](https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX), [MIYAVI](https://open.spotify.com/artist/7sBtBCNVRujQhaHDODkfTN) | [Webtoon <Myst, Might, Mayhem> OST Part\. 2 Draw the Moon](https://open.spotify.com/album/2dD84O2WUFNCjs963yWsbh) | 3:30 |
 | 96 | [I'M BACK](https://open.spotify.com/track/6sy2Gh0U6gUQ4jYG3ydwvd) | [BLASÉ](https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0) | [I'M BACK \(Killer Peter X BLASÉ\)\[Original Webtoon Soundtrack\]](https://open.spotify.com/album/3welRhhSY9rNNa9PPSqP4h) | 2:56 |
 | 97 | [Only you \(Romance 101 X Yang Yo Seop\)](https://open.spotify.com/track/6YXYyEdmUNDuzNIiRBVZQi) | [YANG YO SEOP](https://open.spotify.com/artist/1fwMtpwCEJovQuyxSuHcAd) | [Only you \(Romance 101 X Yang Yo Seop\)](https://open.spotify.com/album/0pB5NYeRyaboqz4ZUFdxhZ) | 3:23 |
-| 98 | [Your Day \(Romance 101 X Loco\)](https://open.spotify.com/track/5rMVefs5zO1jcXt10WUodn) | [Loco](https://open.spotify.com/artist/6fSCmJlp1Oli2qgnSkyA7A) | [Your Day \(Romance 101 X Loco\)](https://open.spotify.com/album/2ueFpa66M9RXjTdju6luNC) | 3:19 |
-| 99 | [A Beautiful Farewell](https://open.spotify.com/track/3dFiJSq3woyVfZtUoJQ9pq) | [CHUU](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB) | [A Beautiful Farewell \- I am Re:Born \#1](https://open.spotify.com/album/08JBBDXn8JRtH1eBUnJs6z) | 4:10 |
+| 98 | [A Beautiful Farewell](https://open.spotify.com/track/3dFiJSq3woyVfZtUoJQ9pq) | [CHUU](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB) | [A Beautiful Farewell \- I am Re:Born \#1](https://open.spotify.com/album/08JBBDXn8JRtH1eBUnJs6z) | 4:10 |
+| 99 | [Your Day \(Romance 101 X Loco\)](https://open.spotify.com/track/5rMVefs5zO1jcXt10WUodn) | [Loco](https://open.spotify.com/artist/6fSCmJlp1Oli2qgnSkyA7A) | [Your Day \(Romance 101 X Loco\)](https://open.spotify.com/album/2ueFpa66M9RXjTdju6luNC) | 3:19 |
 | 100 | [Midnight Sun](https://open.spotify.com/track/5siTrkr1YLJDHYYj67KhlK) | [AleXa](https://open.spotify.com/artist/4jCGRzuZkwo8CxboiANMEU) | [Webtoon 'The Broken Ring : This Marriage Will Fail Anyway' OST PART1](https://open.spotify.com/album/3Ilh5wp7VRAvL9cxE0uC0f) | 4:20 |
 
 Snapshot ID: `AAAAABj/h2hrjI/AZ35qaCyxEVRxW5f3`

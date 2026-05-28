@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY90iCJMKual.md) - [plain]
 
 > PH vibin' cover: Jason Dhakal
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,430 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,440 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY90iCJMKual.md) - [plain]
 | 43 | [WALANG HIYA](https://open.spotify.com/track/1nBMosd9XZaJnpXTk5tHee) | [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T) | [MADUMING TIMOG](https://open.spotify.com/album/59iPWlAD2FMcmnPs5HLcOj) | 3:24 |
 | 44 | [My Shawty](https://open.spotify.com/track/48i1G5RkaJmgJ6MR7r4GUp) | [Owen Greyson](https://open.spotify.com/artist/0G7MRTGnVV99IUnlk91aJB) | [My Shawty](https://open.spotify.com/album/2fDHYowXMHZJSwKYAdID2D) | 3:16 |
 | 45 | [Kalimutan Ka](https://open.spotify.com/track/7dXZnGGBn9Kfu8NCnrRl3w) | [Skusta Clee](https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc) | [Kalimutan Ka](https://open.spotify.com/album/1CVdBDkuBgD62YGDXslE4R) | 4:48 |
-| 46 | [SWERTE KA NA NGA](https://open.spotify.com/track/4T3CBzGcWCBXstkek0eLJ4) | [jiofu](https://open.spotify.com/artist/5lJnyJ8eWVrgjPcTLZmmGU) | [SWERTE KA NA NGA](https://open.spotify.com/album/7yUc8DpwXMwTZxsJeiPVa2) | 2:55 |
+| 46 | [SWERTE KA NA NGA](https://open.spotify.com/track/4T3CBzGcWCBXstkek0eLJ4) | [jiofü](https://open.spotify.com/artist/5lJnyJ8eWVrgjPcTLZmmGU) | [SWERTE KA NA NGA](https://open.spotify.com/album/7yUc8DpwXMwTZxsJeiPVa2) | 2:55 |
 | 47 | [Still\_In\_My\_Room](https://open.spotify.com/track/0TwqT9S8k5aow0krEaWemc) | [Fern.](https://open.spotify.com/artist/7KoTRIhjkIQy2L8RjWDpfF) | [Still\_In\_My\_Room](https://open.spotify.com/album/2LHgjQDo74QcJbVQ4xKCMB) | 3:10 |
 | 48 | [Usok](https://open.spotify.com/track/1DgAcp83SL4Hjqylu0U7YL) | [SAJKA](https://open.spotify.com/artist/4oGMjYFfUBJlMIhrDdJhyL) | [Usok](https://open.spotify.com/album/5Ka2DuvLqn9a19MMe6sfeg) | 2:55 |
 | 49 | [Babalik Sa'yo](https://open.spotify.com/track/3r4CJwnU85C7vehWeytzNf) | [Clien](https://open.spotify.com/artist/1zCgO4JLvzY9JUYRoUBMqK), [Jom](https://open.spotify.com/artist/021sXp6RH5MQCCp2hmal6q) | [Babalik Sa'yo](https://open.spotify.com/album/3tkcy78luHbbFQPWkImigl) | 2:59 |

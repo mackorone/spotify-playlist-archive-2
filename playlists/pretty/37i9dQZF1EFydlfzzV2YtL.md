@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFydlfzzV2YtL.md) - [plain]
 | 51 | [The Fall](https://open.spotify.com/track/5FvGI8KtImlEbOsvEW3pfX) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif) | [So Far So Good](https://open.spotify.com/album/4nZ4dv1XvDE25Lf2MFhOqA) | 3:16 |
 | 52 | [Break a Sweat](https://open.spotify.com/track/28r9sD2b6FluK7YHjTJ0fl) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Break a Sweat](https://open.spotify.com/album/2nWxnJlsL1bzC2wHtouEvZ) | 3:28 |
 | 53 | [Girl on a Train](https://open.spotify.com/track/6M1nfYPKy7DRk3IrhFVViQ) | [Skizzy Mars](https://open.spotify.com/artist/00Z3UDoAQwzvGu13HoAM7J) | [Alone Together](https://open.spotify.com/album/7JC2Lep2FwtvMDoLZMEZZT) | 3:02 |
-| 54 | [Sucker Punch](https://open.spotify.com/track/7FeWgVGGphXuSUu5wNeAcJ) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Sucker Punch](https://open.spotify.com/album/4OaTrPkuAYkelxCnm92njS) | 3:14 |
-| 55 | [call it the end](https://open.spotify.com/track/5a3tLTGA0HIDtrvnszXXBN) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:21 |
+| 54 | [call it the end](https://open.spotify.com/track/5a3tLTGA0HIDtrvnszXXBN) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:21 |
+| 55 | [Sucker Punch](https://open.spotify.com/track/7FeWgVGGphXuSUu5wNeAcJ) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Sucker Punch](https://open.spotify.com/album/4OaTrPkuAYkelxCnm92njS) | 3:14 |
 | 56 | [Unlonely](https://open.spotify.com/track/7Igc6JB0xPDcn5yRkkVGQX) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Know.](https://open.spotify.com/album/7dwIWyB2jdJgL3P2JEgRKm) | 3:51 |
 | 57 | [The Other Side \(Alessia Cara Version\)](https://open.spotify.com/track/5stBjr01wRUJa6BGqkxPD7) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [The Other Side \(Alessia Cara Version\)](https://open.spotify.com/album/0xK3vVeEMBZCn0CVTTaYL9) | 3:19 |
 | 58 | [Drop In the Ocean \(feat\. AronChupa\)](https://open.spotify.com/track/07idyjb93qYavu1s29HtBi) | [OMI](https://open.spotify.com/artist/5MouCg6ta7zAxsfMEbc1uh), [AronChupa](https://open.spotify.com/artist/5vCOdeiQt9LyzdI87kt5Sh) | [Me 4 U](https://open.spotify.com/album/7cVXH4slEYzGjDh498OFyL) | 2:57 |
@@ -193,4 +193,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFydlfzzV2YtL.md) - [plain]
 | 183 | [Break The Silence](https://open.spotify.com/track/29HAzOVnX3947Az2RAsEfE) | [Richard Stirton](https://open.spotify.com/artist/0UW24U271lz9qy3Z19EuvB) | [Middle Ground](https://open.spotify.com/album/6Y15hurwzN1gMLTv4eAQNy) | 3:31 |
 | 184 | [Paper Cuts](https://open.spotify.com/track/25oDwHzFC3coKT3jcPAbJC) | [Alec Chambers](https://open.spotify.com/artist/3weLeY2Bu0Eij4k0tQ4EzJ) | [Paper Cuts](https://open.spotify.com/album/6KhZJNPMnHT7ypOhgNAekF) | 2:53 |
 
-Snapshot ID: `AcSj0gAAAACOr6BMY4GEWBIRdAsQRCMn`
+Snapshot ID: `AcSpcgAAAAAMs8dPh1hyg1TNqiamoe+c`

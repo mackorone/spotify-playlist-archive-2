@@ -1,12 +1,12 @@
 {
   "description": "This is GloRilla. The essential tracks, all in one playlist.",
-  "num_followers": 44610,
+  "num_followers": 44614,
   "original_name": "This Is GloRilla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahORAAAAAAAJSoINl2fI52F4MpwzehOP",
+  "snapshot_id": "ahTigAAAAABHLuTzkWg7TQgtg2n+vZ0l",
   "tracks": [
     {
       "added_at": null,
@@ -747,6 +747,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ehhthang Ehhthang",
+        "url": "https://open.spotify.com/album/0SW0LplxFID1otCk4bhhHI"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 182400,
+      "name": "In Dat Mode",
+      "url": "https://open.spotify.com/track/0SNIukv9BX1Sv9YGpsokgN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MEGAN",
         "url": "https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 199741,
       "name": "Accent (feat. GloRilla)",
       "url": "https://open.spotify.com/track/0i1LliXxuipWRboFGpS2gG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ehhthang Ehhthang",
-        "url": "https://open.spotify.com/album/0SW0LplxFID1otCk4bhhHI"
-      },
-      "artists": [
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 182400,
-      "name": "In Dat Mode",
-      "url": "https://open.spotify.com/track/0SNIukv9BX1Sv9YGpsokgN"
     },
     {
       "added_at": null,

@@ -660,7 +660,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-28",
       "duration_ms": 241855,
       "name": "Ate",
       "url": "https://open.spotify.com/track/6Lsts5Jn22moVr4H5FTtAx"
@@ -844,7 +844,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-28",
       "duration_ms": 218863,
       "name": "AYOS",
       "url": "https://open.spotify.com/track/68dmr672B6cZq1LXrhFToX"
@@ -3727,6 +3727,28 @@
     },
     {
       "album": {
+        "name": "LOVER BOY: CHAPTER 1: Una",
+        "url": "https://open.spotify.com/album/5b5AsvKjxbi2D1GvFQn4n5"
+      },
+      "artists": [
+        {
+          "name": "Yudino",
+          "url": "https://open.spotify.com/artist/48Nnq14bV6DdMvkYPuw7Z5"
+        },
+        {
+          "name": "Eryck Paolo Sarsale",
+          "url": "https://open.spotify.com/artist/3mr564MmezbPqUbgDaZS1n"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Ipaalam Sana",
+      "url": "https://open.spotify.com/track/6Rhn1rOQwPP1MriSg0W644"
+    },
+    {
+      "album": {
         "name": "Isa Dalawa Tatlo",
         "url": "https://open.spotify.com/album/73WP1jO9F9KtKRo0nt6Fmv"
       },
@@ -4506,6 +4528,28 @@
       "duration_ms": 206010,
       "name": "Kung Akin Ang Mundo",
       "url": "https://open.spotify.com/track/7zIPM8WTLP6tvMIYFB8T0U"
+    },
+    {
+      "album": {
+        "name": "Kung Masusunod",
+        "url": "https://open.spotify.com/album/1x3KkwuQ9HcncHVAFV2tmw"
+      },
+      "artists": [
+        {
+          "name": "Jan Roberts",
+          "url": "https://open.spotify.com/artist/0wuB9WlzVMNvwRJHope3ge"
+        },
+        {
+          "name": "Johnoy Danao",
+          "url": "https://open.spotify.com/artist/2zFBNsALb4M2FhKl98wcvd"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186818,
+      "name": "Kung Masusunod",
+      "url": "https://open.spotify.com/track/6eAlaXIFCJSUJXRu4IlPuY"
     },
     {
       "album": {
@@ -8937,6 +8981,24 @@
     },
     {
       "album": {
+        "name": "Sinisigaw",
+        "url": "https://open.spotify.com/album/0xN7A7fOJdq6z3nKsv7eqp"
+      },
+      "artists": [
+        {
+          "name": "Jireh Lim",
+          "url": "https://open.spotify.com/artist/6urxZktbtGcTIIqxQZ1d8q"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218181,
+      "name": "Sinisigaw",
+      "url": "https://open.spotify.com/track/3fANJ35TEIhdkyifPzw1ww"
+    },
+    {
+      "album": {
         "name": "Sinong Magmamahal Sa \u2018Kin?",
         "url": "https://open.spotify.com/album/5C3U2kNDzhnW5CMRJ2Xk9k"
       },
@@ -8948,7 +9010,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-28",
       "duration_ms": 267443,
       "name": "Sinong Magmamahal Sa \u2018Kin?",
       "url": "https://open.spotify.com/track/6Zkmj8E8aAmejhDTSys4rN"
@@ -9114,7 +9176,7 @@
       ],
       "date_added": "2026-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-28",
       "duration_ms": 223416,
       "name": "Stranger's Funeral",
       "url": "https://open.spotify.com/track/0xsKzUbzpcqQ9kGLV1tZ16"
@@ -10490,6 +10552,24 @@
       "duration_ms": 192000,
       "name": "We Were There (kabataan ko'y sayo)",
       "url": "https://open.spotify.com/track/20lgvwb7zyJc3KmnXcVcXb"
+    },
+    {
+      "album": {
+        "name": "LAB SONGS NG MGA TANGA",
+        "url": "https://open.spotify.com/album/3CvI8CDpDzz6Q2nDuXWKXs"
+      },
+      "artists": [
+        {
+          "name": "Janine Berdin",
+          "url": "https://open.spotify.com/artist/4qPhnQfRgdgcZEdXgENOnr"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186577,
+      "name": "What if I miss you for the rest of my life?",
+      "url": "https://open.spotify.com/track/432pM7gIHQmksVaU3B50pN"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Al mil para entrenar sin parar.",
-  "num_followers": 220879,
+  "num_followers": 220924,
   "original_name": "Modo: Al Mil",
   "owner": {
     "name": "Spotify",
@@ -739,22 +739,6 @@
     {
       "added_at": "2026-04-24 07:16:57",
       "album": {
-        "name": "4 Decadas 20 Boleros",
-        "url": "https://open.spotify.com/album/2asPHwYLmWPVhS0VA6Uu6N"
-      },
-      "artists": [
-        {
-          "name": "Los Cadetes De Linares",
-          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
-        }
-      ],
-      "duration_ms": 183373,
-      "name": "No Hay Novedad",
-      "url": "https://open.spotify.com/track/5LhkCuUvJeMj308m4vlB8z"
-    },
-    {
-      "added_at": "2026-04-24 07:16:57",
-      "album": {
         "name": "Corridos Tumbados",
         "url": "https://open.spotify.com/album/0Pr7tJefVMQCh8hy1n8OLr"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 187352,
       "name": "Disfruto Lo Malo",
       "url": "https://open.spotify.com/track/7LH2UUuyMHt7035PLZQ8wx"
+    },
+    {
+      "added_at": "2026-04-24 07:16:57",
+      "album": {
+        "name": "4 Decadas 20 Boleros",
+        "url": "https://open.spotify.com/album/2asPHwYLmWPVhS0VA6Uu6N"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "duration_ms": 183373,
+      "name": "No Hay Novedad",
+      "url": "https://open.spotify.com/track/5LhkCuUvJeMj308m4vlB8z"
     },
     {
       "added_at": "2026-04-24 07:16:57",
@@ -831,8 +831,8 @@
     {
       "added_at": "2026-04-24 07:16:57",
       "album": {
-        "name": "intro",
-        "url": "https://open.spotify.com/album/6dGXItPd4MxGYeeib02KFx"
+        "name": "G\u00c9NESIS",
+        "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
       },
       "artists": [
         {
@@ -840,13 +840,17 @@
           "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
         },
         {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        },
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
         }
       ],
-      "duration_ms": 179858,
-      "name": "intro",
-      "url": "https://open.spotify.com/track/48Z9ixFIkuzJMATvfFJHIz"
+      "duration_ms": 162676,
+      "name": "VVS",
+      "url": "https://open.spotify.com/track/3B0swL7Qil9bB7eKzBREBK"
     },
     {
       "added_at": "2026-04-24 07:16:57",
@@ -1403,22 +1407,6 @@
     {
       "added_at": "2026-04-24 07:16:57",
       "album": {
-        "name": "Pa Las Vibras",
-        "url": "https://open.spotify.com/album/6oElOd3f50sDYPdjW1qMNM"
-      },
-      "artists": [
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        }
-      ],
-      "duration_ms": 136747,
-      "name": "Cosas De La Clika",
-      "url": "https://open.spotify.com/track/6ZyRBFspc4a4seZam5Hi8Z"
-    },
-    {
-      "added_at": "2026-04-24 07:16:57",
-      "album": {
         "name": "Amistades",
         "url": "https://open.spotify.com/album/3LqHLNiN2H7kzdrhjBGjqh"
       },
@@ -1435,6 +1423,22 @@
       "duration_ms": 196706,
       "name": "Amistades",
       "url": "https://open.spotify.com/track/5ZoWz5CRPRsxteUQpMnfAw"
+    },
+    {
+      "added_at": "2026-04-24 07:16:57",
+      "album": {
+        "name": "Pa Las Vibras",
+        "url": "https://open.spotify.com/album/6oElOd3f50sDYPdjW1qMNM"
+      },
+      "artists": [
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "duration_ms": 136747,
+      "name": "Cosas De La Clika",
+      "url": "https://open.spotify.com/track/6ZyRBFspc4a4seZam5Hi8Z"
     },
     {
       "added_at": "2026-04-24 07:16:57",
@@ -1631,6 +1635,22 @@
     {
       "added_at": "2026-04-24 07:16:57",
       "album": {
+        "name": "Chica La Bola",
+        "url": "https://open.spotify.com/album/6pz7JlLWATx66x7CXqrHzQ"
+      },
+      "artists": [
+        {
+          "name": "Grupo Mente Maestra",
+          "url": "https://open.spotify.com/artist/7fReOInDdj4876IaRNzHC2"
+        }
+      ],
+      "duration_ms": 173205,
+      "name": "Chica La Bola",
+      "url": "https://open.spotify.com/track/3Pl6cmIeByRLbclelIPAnJ"
+    },
+    {
+      "added_at": "2026-04-24 07:16:57",
+      "album": {
         "name": "El Mismo",
         "url": "https://open.spotify.com/album/1uTIkX6XGkkb0fAK9Bj8DU"
       },
@@ -1647,22 +1667,6 @@
       "duration_ms": 147142,
       "name": "El Mismo",
       "url": "https://open.spotify.com/track/1K3idamkSc1wHPTRsX3tVt"
-    },
-    {
-      "added_at": "2026-04-24 07:16:57",
-      "album": {
-        "name": "Chica La Bola",
-        "url": "https://open.spotify.com/album/6pz7JlLWATx66x7CXqrHzQ"
-      },
-      "artists": [
-        {
-          "name": "Grupo Mente Maestra",
-          "url": "https://open.spotify.com/artist/7fReOInDdj4876IaRNzHC2"
-        }
-      ],
-      "duration_ms": 173205,
-      "name": "Chica La Bola",
-      "url": "https://open.spotify.com/track/3Pl6cmIeByRLbclelIPAnJ"
     },
     {
       "added_at": "2026-04-24 07:16:57",

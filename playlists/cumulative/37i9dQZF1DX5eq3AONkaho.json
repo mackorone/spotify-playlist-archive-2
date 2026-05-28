@@ -2864,7 +2864,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-26",
+      "date_removed": null,
       "duration_ms": 210641,
       "name": "BOSS",
       "url": "https://open.spotify.com/track/0ErzcmZ2gIwX7X0xSMQPix"
@@ -4183,7 +4183,7 @@
     },
     {
       "album": {
-        "name": "TWS 3rd Mini Album 'TRY WITH US'",
+        "name": "TRY WITH US",
         "url": "https://open.spotify.com/album/5JfdYZ1OTue80fQxp2rE6y"
       },
       "artists": [
@@ -6664,7 +6664,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-28",
       "duration_ms": 209000,
       "name": "Feel Me",
       "url": "https://open.spotify.com/track/2psEOi0dDz19G9BljUiL2v"
@@ -9935,7 +9935,7 @@
     },
     {
       "album": {
-        "name": "TWS 2nd Mini Album 'SUMMER BEAT!'",
+        "name": "SUMMER BEAT!",
         "url": "https://open.spotify.com/album/03QRqvvQFLDaJM711Gkn03"
       },
       "artists": [
@@ -14031,7 +14031,7 @@
     },
     {
       "album": {
-        "name": "TWS 4th Mini Album 'play hard'",
+        "name": "play hard",
         "url": "https://open.spotify.com/album/6RBnUYZIGKGDdgEnf3ta1U"
       },
       "artists": [
@@ -14585,7 +14585,7 @@
     },
     {
       "album": {
-        "name": "TWS 1st Mini Album 'Sparkling Blue'",
+        "name": "Sparkling Blue",
         "url": "https://open.spotify.com/album/25qO1VYd8BuT8m5w8CFpdG"
       },
       "artists": [

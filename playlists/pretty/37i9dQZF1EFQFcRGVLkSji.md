@@ -147,8 +147,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQFcRGVLkSji.md) - [plain]
 | 137 | [Love Ain't Perfect](https://open.spotify.com/track/5hb43H5mkRI1sEML9jakgy) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Glad You Came](https://open.spotify.com/album/02YWHzAqDtkFuNPAr82b8s) | 2:54 |
 | 138 | [Know You Bare](https://open.spotify.com/track/19kCmuqL53m9Hr6hAUnbQn) | [Andrea Valle](https://open.spotify.com/artist/0aRyQtFQR8Rcp7eceJyoSe) | [Lovergirl](https://open.spotify.com/album/4R2OflzohK2X93Jgv1ln5P) | 2:11 |
 | 139 | [SOBER](https://open.spotify.com/track/0nkOBl6xJlmThbW6gwbD6k) | [WHATUPRG](https://open.spotify.com/artist/6YgYm3f9ifsz4OwQt8jql7), [Parris Chariz](https://open.spotify.com/artist/2Vt6gyhUH7Vj2cybfQWOqM), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [NEW HOLLYWOOD](https://open.spotify.com/album/7BVSP15gMNXLl3DnJkyyjc) | 2:53 |
-| 140 | [Oh Shit](https://open.spotify.com/track/70XwlON2HyHdFEoEl4tshL) | [Delli Boe](https://open.spotify.com/artist/52Nioi9ACBG8H4XvE0eS7r) | [Phase Won](https://open.spotify.com/album/2HZ5UAXThHo39mDz8zs2iX) | 1:17 |
-| 141 | [CRAZY](https://open.spotify.com/track/514v7VPMH5MEy6RV6FCu7G) | [PARTYOF2](https://open.spotify.com/artist/70KxgbZNsd9xOttXW67mh3) | [GOAT \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7l7gIXOUlIasR3NjDxVRRg) | 2:27 |
+| 140 | [CRAZY](https://open.spotify.com/track/514v7VPMH5MEy6RV6FCu7G) | [PARTYOF2](https://open.spotify.com/artist/70KxgbZNsd9xOttXW67mh3) | [GOAT \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7l7gIXOUlIasR3NjDxVRRg) | 2:27 |
+| 141 | [Oh Shit](https://open.spotify.com/track/70XwlON2HyHdFEoEl4tshL) | [Delli Boe](https://open.spotify.com/artist/52Nioi9ACBG8H4XvE0eS7r) | [Phase Won](https://open.spotify.com/album/2HZ5UAXThHo39mDz8zs2iX) | 1:17 |
 | 142 | [Diana](https://open.spotify.com/track/2rvH6gB92wgL2Y3O9sa3QU) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO) | [Post Traumatic](https://open.spotify.com/album/3xdlCzNYHfEiXnUyWWyAVT) | 1:10 |
 | 143 | [scream my name](https://open.spotify.com/track/3msVzpk6BgRwIu9ywpWzfa) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [softCORE](https://open.spotify.com/album/0iv5fjooZ7WR2FvmxKwDER) | 1:52 |
 | 144 | [God Like](https://open.spotify.com/track/4RC4WP3J7z9U56uiDWqqKX) | [Summrs](https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN) | [GHOST](https://open.spotify.com/album/4OrbijrYXkwBJF9drCrBFR) | 2:12 |
@@ -182,4 +182,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQFcRGVLkSji.md) - [plain]
 | 172 | [Teach Me.](https://open.spotify.com/track/6lk7eNQnklTjsEx30gUJ80) | [Ant Beale](https://open.spotify.com/artist/14piOhWdd0MbAPVmUqGLhH) | [Life's a Hazard](https://open.spotify.com/album/0UqowJBThZPMFlqPorNSR1) | 5:00 |
 | 173 | [Divided](https://open.spotify.com/track/6NJOdQyw2EPnRAstnXNTDG) | [Warner Meadows](https://open.spotify.com/artist/0FzMywSPPmb2hqv2gvcIFk) | [Divided](https://open.spotify.com/album/2zCmstd1DA381t9zoW8QDr) | 1:44 |
 
-Snapshot ID: `AcSj8AAAAAB9t0jimioOYkf6fgrpaCCm`
+Snapshot ID: `AcSpkAAAAADrSQFwHdQAK1XpPCGn3uoY`

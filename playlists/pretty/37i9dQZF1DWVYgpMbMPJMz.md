@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > Experience the lastest and the greatest Worship music right here, right now\. Cover: Red Rocks Worship
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,064,236 likes - 80 songs - 7 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,064,393 likes - 80 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 | 32 | [Mighty God \- Live](https://open.spotify.com/track/6sNHGIXmrBydSl6zstkzq9) | [Planetshakers](https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s) | [Mighty God \(Live\)](https://open.spotify.com/album/4rHXkkzhGwENKYcA3VAjRG) | 6:16 |
 | 33 | [The Foolishness Of God](https://open.spotify.com/track/5w0lbWtkHWt41yTrayULeF) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4) | [The Foolishness Of God](https://open.spotify.com/album/4VkmoYyJIaZJl9YaY9yLY8) | 4:49 |
 | 34 | [APPETITE](https://open.spotify.com/track/07IXgUhCqweDxkuhZ5XLqO) | [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39) | [APPETITE](https://open.spotify.com/album/01eQX7mtZbpWuEjsV9Hizf) | 3:29 |
-| 35 | [Redeemed](https://open.spotify.com/track/0b0itI0G0JoDRHjPBOn67i) | [Roosevelt Stewart](https://open.spotify.com/artist/2KVpuzFwWhwa7oR6g5tvmk) | [Redeemed](https://open.spotify.com/album/2YKpKKfCf5x1kAsS4eh8fa) | 3:39 |
+| 35 | [Redeemed \- Live](https://open.spotify.com/track/0b0itI0G0JoDRHjPBOn67i) | [Roosevelt Stewart](https://open.spotify.com/artist/2KVpuzFwWhwa7oR6g5tvmk) | [Redeemed \(Live\)](https://open.spotify.com/album/2YKpKKfCf5x1kAsS4eh8fa) | 3:39 |
 | 36 | [Blood of Jesus \(I Surrender All\)](https://open.spotify.com/track/0quxaXkS1kE3oKMdMWJbZ8) | [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63), [Ashley Bailey](https://open.spotify.com/artist/0mCGACx1tzi9BRx1KX0OXR), [Aaron Tedeschi](https://open.spotify.com/artist/3LSv8vyAjTxn37MsKnYkz0) | [Blood of Jesus \(I Surrender All\)](https://open.spotify.com/album/39iJQ5xz5BDQ30QdSGHbhW) | 5:37 |
 | 37 | [I Got Saved \(feat\. Chris Brown\)](https://open.spotify.com/track/0Fcu29KCsISZx8SIFIuGWw) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Chris Brown](https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw) | [SO BE IT](https://open.spotify.com/album/6OF8Psf3BjjHnBIfUpOYHp) | 5:13 |
 | 38 | [The Highest \(No Other Name\)](https://open.spotify.com/track/4WwAsRnQYWX5EfXPmQZhfK) | [Red Rocks Worship](https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr), [Kendra Benay](https://open.spotify.com/artist/7MnuroVletzdv032tWkLUa) | [The Highest \(No Other Name\)](https://open.spotify.com/album/4UVh0LWobjrPWMl6qiW1rn) | 7:37 |

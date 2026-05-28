@@ -1,6 +1,6 @@
 {
   "description": "Celebrating South Africa's most beloved hits. Cover: J'Something",
-  "num_followers": 2817,
+  "num_followers": 2851,
   "original_name": "SA Gold",
   "owner": {
     "name": "Spotify",
@@ -243,6 +243,22 @@
     {
       "added_at": "2026-04-24 07:22:05",
       "album": {
+        "name": "Ntumba",
+        "url": "https://open.spotify.com/album/1FGSoB2oF3I3RlyCtsuIpR"
+      },
+      "artists": [
+        {
+          "name": "Ringo Madlingozi",
+          "url": "https://open.spotify.com/artist/3CR7n4hexD7pE3BRnLEDUJ"
+        }
+      ],
+      "duration_ms": 356706,
+      "name": "Kum Nakum",
+      "url": "https://open.spotify.com/track/6GU2QHzXUeZM2UgpGRafT8"
+    },
+    {
+      "added_at": "2026-04-24 07:22:05",
+      "album": {
         "name": "Graceland (25th Anniversary Deluxe Edition)",
         "url": "https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky"
       },
@@ -259,22 +275,6 @@
       "duration_ms": 228413,
       "name": "Homeless (with Ladysmith Black Mambazo)",
       "url": "https://open.spotify.com/track/75fomtP3etOOIJDBAXVawy"
-    },
-    {
-      "added_at": "2026-04-24 07:22:05",
-      "album": {
-        "name": "Ntumba",
-        "url": "https://open.spotify.com/album/1FGSoB2oF3I3RlyCtsuIpR"
-      },
-      "artists": [
-        {
-          "name": "Ringo Madlingozi",
-          "url": "https://open.spotify.com/artist/3CR7n4hexD7pE3BRnLEDUJ"
-        }
-      ],
-      "duration_ms": 356706,
-      "name": "Kum Nakum",
-      "url": "https://open.spotify.com/track/6GU2QHzXUeZM2UgpGRafT8"
     },
     {
       "added_at": "2026-04-24 07:22:05",

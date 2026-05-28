@@ -1,6 +1,6 @@
 {
   "description": "Laid back cratedigger hip-hop from around the world.",
-  "num_followers": 1582078,
+  "num_followers": 1582182,
   "original_name": "Jazz Rap",
   "owner": {
     "name": "Spotify",
@@ -427,22 +427,6 @@
     {
       "added_at": "2026-05-21 19:41:47",
       "album": {
-        "name": "One Day It'll All Make Sense",
-        "url": "https://open.spotify.com/album/6nXto9rlPmmhdoUmGMKbtE"
-      },
-      "artists": [
-        {
-          "name": "Common",
-          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
-        }
-      ],
-      "duration_ms": 134040,
-      "name": "Invocation",
-      "url": "https://open.spotify.com/track/1zS4PMsHfkSXPkzrEkCkC6"
-    },
-    {
-      "added_at": "2026-05-21 19:41:47",
-      "album": {
         "name": "Clin D'oeil",
         "url": "https://open.spotify.com/album/3LGqUhFfPQ26PLU4Ok6ZpU"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 328573,
       "name": "Ease My Mind - Feat. Tre Hardson, Fat Lip & Omni",
       "url": "https://open.spotify.com/track/0FMMLKHb74VB0H5u2fP6xo"
+    },
+    {
+      "added_at": "2026-05-21 19:41:47",
+      "album": {
+        "name": "One Day It'll All Make Sense",
+        "url": "https://open.spotify.com/album/6nXto9rlPmmhdoUmGMKbtE"
+      },
+      "artists": [
+        {
+          "name": "Common",
+          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+        }
+      ],
+      "duration_ms": 134040,
+      "name": "Invocation",
+      "url": "https://open.spotify.com/track/1zS4PMsHfkSXPkzrEkCkC6"
     },
     {
       "added_at": "2026-05-21 19:41:47",
@@ -771,26 +771,18 @@
     {
       "added_at": "2026-05-21 19:41:47",
       "album": {
-        "name": "Metaphorical Music",
-        "url": "https://open.spotify.com/album/5FrjDW96mCYw9ECc74c637"
+        "name": "Samurai",
+        "url": "https://open.spotify.com/album/1xG63QNNCiQvy0PERgfpaH"
       },
       "artists": [
         {
-          "name": "Nujabes",
-          "url": "https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ"
-        },
-        {
-          "name": "Substantial",
-          "url": "https://open.spotify.com/artist/5FmThJ74ycmeBdQnu4Cfcw"
-        },
-        {
-          "name": "Pase Rock",
-          "url": "https://open.spotify.com/artist/7DziQHfQYLS6Iv018KLOVo"
+          "name": "Lupe Fiasco",
+          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
         }
       ],
-      "duration_ms": 203706,
-      "name": "Blessing It -remix (feat. Substantial & Pase Rock from Five Deez)",
-      "url": "https://open.spotify.com/track/4MbUcaX58NkUmKXe6FuBaV"
+      "duration_ms": 194786,
+      "name": "Samurai",
+      "url": "https://open.spotify.com/track/00LGJRRqN4AtSpHrvjIyiJ"
     },
     {
       "added_at": "2026-05-21 19:41:47",
@@ -819,18 +811,26 @@
     {
       "added_at": "2026-05-21 19:41:47",
       "album": {
-        "name": "Samurai",
-        "url": "https://open.spotify.com/album/1xG63QNNCiQvy0PERgfpaH"
+        "name": "Metaphorical Music",
+        "url": "https://open.spotify.com/album/5FrjDW96mCYw9ECc74c637"
       },
       "artists": [
         {
-          "name": "Lupe Fiasco",
-          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
+          "name": "Nujabes",
+          "url": "https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ"
+        },
+        {
+          "name": "Substantial",
+          "url": "https://open.spotify.com/artist/5FmThJ74ycmeBdQnu4Cfcw"
+        },
+        {
+          "name": "Pase Rock",
+          "url": "https://open.spotify.com/artist/7DziQHfQYLS6Iv018KLOVo"
         }
       ],
-      "duration_ms": 194786,
-      "name": "Samurai",
-      "url": "https://open.spotify.com/track/00LGJRRqN4AtSpHrvjIyiJ"
+      "duration_ms": 203706,
+      "name": "Blessing It -remix (feat. Substantial & Pase Rock from Five Deez)",
+      "url": "https://open.spotify.com/track/4MbUcaX58NkUmKXe6FuBaV"
     },
     {
       "added_at": "2026-05-21 19:41:47",
@@ -915,6 +915,22 @@
     {
       "added_at": "2026-05-21 19:41:47",
       "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/3E7lljIMKcipr3i5LT4sOp"
+      },
+      "artists": [
+        {
+          "name": "Lupe Fiasco",
+          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
+        }
+      ],
+      "duration_ms": 236759,
+      "name": "SOS",
+      "url": "https://open.spotify.com/track/48h1wMdyPIasyZ8thTVoQU"
+    },
+    {
+      "added_at": "2026-05-21 19:41:47",
+      "album": {
         "name": "Elusive",
         "url": "https://open.spotify.com/album/24aBKIQMXzdMYZkWSGFLTK"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 222200,
       "name": "Elusive",
       "url": "https://open.spotify.com/track/4mbOTHs6heygME9uDHg0mf"
-    },
-    {
-      "added_at": "2026-05-21 19:41:47",
-      "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/3E7lljIMKcipr3i5LT4sOp"
-      },
-      "artists": [
-        {
-          "name": "Lupe Fiasco",
-          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
-        }
-      ],
-      "duration_ms": 236759,
-      "name": "SOS",
-      "url": "https://open.spotify.com/track/48h1wMdyPIasyZ8thTVoQU"
     },
     {
       "added_at": "2026-05-21 19:41:47",
@@ -1587,22 +1587,22 @@
     {
       "added_at": "2026-05-21 19:41:47",
       "album": {
-        "name": "Chapter 7",
-        "url": "https://open.spotify.com/album/0xAT19PSU54ExVPjdt2kTI"
+        "name": "PRiNCE GEORGE",
+        "url": "https://open.spotify.com/album/7KgX5kBpWVvLiYLjSo6po1"
       },
       "artists": [
         {
-          "name": "Ezra Collective",
-          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
         },
         {
-          "name": "Ty",
-          "url": "https://open.spotify.com/artist/2hED6gNVoqGvmmX8i5dRoj"
+          "name": "Cordae",
+          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
         }
       ],
-      "duration_ms": 287320,
-      "name": "Chapter 7 (feat. Ty)",
-      "url": "https://open.spotify.com/track/04fnzAJxtQZFVbn8N3XrQm"
+      "duration_ms": 165853,
+      "name": "PRiNCE GEORGE",
+      "url": "https://open.spotify.com/track/3E25CVg6Am2imRZTBVtfVZ"
     },
     {
       "added_at": "2026-05-21 19:41:47",
@@ -1631,22 +1631,22 @@
     {
       "added_at": "2026-05-21 19:41:47",
       "album": {
-        "name": "PRiNCE GEORGE",
-        "url": "https://open.spotify.com/album/7KgX5kBpWVvLiYLjSo6po1"
+        "name": "Chapter 7",
+        "url": "https://open.spotify.com/album/0xAT19PSU54ExVPjdt2kTI"
       },
       "artists": [
         {
-          "name": "IDK",
-          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
         },
         {
-          "name": "Cordae",
-          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
+          "name": "Ty",
+          "url": "https://open.spotify.com/artist/2hED6gNVoqGvmmX8i5dRoj"
         }
       ],
-      "duration_ms": 165853,
-      "name": "PRiNCE GEORGE",
-      "url": "https://open.spotify.com/track/3E25CVg6Am2imRZTBVtfVZ"
+      "duration_ms": 287320,
+      "name": "Chapter 7 (feat. Ty)",
+      "url": "https://open.spotify.com/track/04fnzAJxtQZFVbn8N3XrQm"
     },
     {
       "added_at": "2026-05-21 19:41:47",
@@ -1731,6 +1731,26 @@
     {
       "added_at": "2026-05-21 19:41:47",
       "album": {
+        "name": "Syrup Sandwiches (feat. Joey Bada$$)",
+        "url": "https://open.spotify.com/album/1w9YQWImmASvP0wGitaF4i"
+      },
+      "artists": [
+        {
+          "name": "Cordae",
+          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
+        },
+        {
+          "name": "Joey Bada$$",
+          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+        }
+      ],
+      "duration_ms": 173320,
+      "name": "Syrup Sandwiches (feat. Joey Bada$$)",
+      "url": "https://open.spotify.com/track/2BYffiV0F3ZGKVLuQjmjY2"
+    },
+    {
+      "added_at": "2026-05-21 19:41:47",
+      "album": {
         "name": "don't bite the bait!",
         "url": "https://open.spotify.com/album/49Zl4i9eYWnb6BTcWnN7hN"
       },
@@ -1751,26 +1771,6 @@
       "duration_ms": 124281,
       "name": "don't bite the bait!",
       "url": "https://open.spotify.com/track/0DVbx9dEWWFp3tPYxZwtJ0"
-    },
-    {
-      "added_at": "2026-05-21 19:41:47",
-      "album": {
-        "name": "Syrup Sandwiches (feat. Joey Bada$$)",
-        "url": "https://open.spotify.com/album/1w9YQWImmASvP0wGitaF4i"
-      },
-      "artists": [
-        {
-          "name": "Cordae",
-          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
-        },
-        {
-          "name": "Joey Bada$$",
-          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
-        }
-      ],
-      "duration_ms": 173320,
-      "name": "Syrup Sandwiches (feat. Joey Bada$$)",
-      "url": "https://open.spotify.com/track/2BYffiV0F3ZGKVLuQjmjY2"
     },
     {
       "added_at": "2026-05-21 19:41:47",
@@ -1867,30 +1867,6 @@
     {
       "added_at": "2026-05-21 19:41:47",
       "album": {
-        "name": "Njalo Njalo",
-        "url": "https://open.spotify.com/album/2dAR7NXlgqYI4cAaw4uFKT"
-      },
-      "artists": [
-        {
-          "name": "Nomisupasta",
-          "url": "https://open.spotify.com/artist/3K27bM6ECoV2uZNwuwnIWV"
-        },
-        {
-          "name": "Rapsody",
-          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
-        },
-        {
-          "name": "madLib",
-          "url": "https://open.spotify.com/artist/1qwAiZ37SviNEoEZV0xQXb"
-        }
-      ],
-      "duration_ms": 161488,
-      "name": "Njalo Njalo - Radio Mix",
-      "url": "https://open.spotify.com/track/6MwwAnJKFmH2B3X9f8RFSW"
-    },
-    {
-      "added_at": "2026-05-21 19:41:47",
-      "album": {
         "name": "COLLECTION PLATES (feat. Young Chris)",
         "url": "https://open.spotify.com/album/5QVcCcyJJVeH1qiw5maq1Z"
       },
@@ -1919,6 +1895,30 @@
     {
       "added_at": "2026-05-21 19:41:47",
       "album": {
+        "name": "Njalo Njalo",
+        "url": "https://open.spotify.com/album/2dAR7NXlgqYI4cAaw4uFKT"
+      },
+      "artists": [
+        {
+          "name": "Nomisupasta",
+          "url": "https://open.spotify.com/artist/3K27bM6ECoV2uZNwuwnIWV"
+        },
+        {
+          "name": "Rapsody",
+          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
+        },
+        {
+          "name": "madLib",
+          "url": "https://open.spotify.com/artist/1qwAiZ37SviNEoEZV0xQXb"
+        }
+      ],
+      "duration_ms": 161488,
+      "name": "Njalo Njalo - Radio Mix",
+      "url": "https://open.spotify.com/track/6MwwAnJKFmH2B3X9f8RFSW"
+    },
+    {
+      "added_at": "2026-05-21 19:41:47",
+      "album": {
         "name": "We Do It Remixes",
         "url": "https://open.spotify.com/album/6or5tg1DVR62aGGAZ5Gvah"
       },
@@ -1935,22 +1935,6 @@
       "duration_ms": 187941,
       "name": "We Do It (Jazz Spastiks Remix)",
       "url": "https://open.spotify.com/track/4K34pgg236OrVDAS6ArcMi"
-    },
-    {
-      "added_at": "2026-05-21 19:41:47",
-      "album": {
-        "name": "LOVE ME",
-        "url": "https://open.spotify.com/album/2lbh6daYXOxiqCDAJ6NPPp"
-      },
-      "artists": [
-        {
-          "name": "Kota the Friend",
-          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
-        }
-      ],
-      "duration_ms": 198620,
-      "name": "LOVE ME",
-      "url": "https://open.spotify.com/track/4Pvk6rjCSRGOloZ6B3IfrC"
     },
     {
       "added_at": "2026-05-21 19:41:47",
@@ -1975,6 +1959,22 @@
       "duration_ms": 181379,
       "name": "Too Deep For The Outro",
       "url": "https://open.spotify.com/track/2Etr2lwZnCK491mU5dHIDD"
+    },
+    {
+      "added_at": "2026-05-21 19:41:47",
+      "album": {
+        "name": "LOVE ME",
+        "url": "https://open.spotify.com/album/2lbh6daYXOxiqCDAJ6NPPp"
+      },
+      "artists": [
+        {
+          "name": "Kota the Friend",
+          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
+        }
+      ],
+      "duration_ms": 198620,
+      "name": "LOVE ME",
+      "url": "https://open.spotify.com/track/4Pvk6rjCSRGOloZ6B3IfrC"
     },
     {
       "added_at": "2026-05-21 19:41:47",

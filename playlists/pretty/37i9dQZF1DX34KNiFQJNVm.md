@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Maiara & Maraisa, Ariana Grande, Felipe Amorim com Luísa Sonza, Budah com AJULLIACOSTA e Franco, the Sir! e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,287,152 likes - 99 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,287,113 likes - 99 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

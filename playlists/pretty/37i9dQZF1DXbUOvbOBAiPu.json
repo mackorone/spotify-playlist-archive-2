@@ -1,6 +1,6 @@
 {
   "description": "New music from Camille, Berre, Lola Young, Amelie Lens, Camille Yembe and more...",
-  "num_followers": 50945,
+  "num_followers": 50935,
   "original_name": "New Music Friday BE",
   "owner": {
     "name": "Spotify",
@@ -1591,6 +1591,26 @@
       "duration_ms": 129411,
       "name": "NO EX NO STRESS (feat. Tiitof)",
       "url": "https://open.spotify.com/track/5ang7xKx9vHiPlByHGuyR1"
+    },
+    {
+      "added_at": "2026-05-21 22:01:55",
+      "album": {
+        "name": "Resonance",
+        "url": "https://open.spotify.com/album/59BuyeMDf52WWbGqfmd2mA"
+      },
+      "artists": [
+        {
+          "name": "Acid Arab",
+          "url": "https://open.spotify.com/artist/3ShO8tPKqXUUpOA0urOWW7"
+        },
+        {
+          "name": "Wael Alkak",
+          "url": "https://open.spotify.com/artist/61yomtNgmkhZGD33Jy04C4"
+        }
+      ],
+      "duration_ms": 289386,
+      "name": "Yasmine Alsham",
+      "url": "https://open.spotify.com/track/7gKg0BSNZfMweFFhyDTPyp"
     },
     {
       "added_at": "2026-05-21 22:01:55",

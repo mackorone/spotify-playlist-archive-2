@@ -2,11 +2,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWaGZ0QV9of6.md) - [plain]
 
 ### [Empowering Young Adults \(2\)](https://open.spotify.com/playlist/37i9dQZF1DWWaGZ0QV9of6)
 
-> 
+> Honest, heartfelt YA stories for teens navigating identity, friendship, and the future.
 
 [Spotify](https://open.spotify.com/user/spotify) - 17 likes - 0 song - 0 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 
-Snapshot ID: `AAAAAFTE6UC700aT32HYwTC/FpAKLIqY`
+Snapshot ID: `AAAAAPiGDgiYS0NXuJ5gql6sQXCiyob9`

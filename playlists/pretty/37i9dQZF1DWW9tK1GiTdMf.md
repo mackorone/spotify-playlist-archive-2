@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > canzoni per una primavera non proprio felice 🥀 cover: EMMA al MI AMI Festival \(credits: Giovanni Paracini\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,034 likes - 111 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,032 likes - 111 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 
 > Lo nuevo y lo mejor en el estilo mariachi\. Cover: Christian Nodal📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 367,676 likes - 80 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 367,687 likes - 80 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,13 +38,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 | 28 | [Ley De La Atracción](https://open.spotify.com/track/7EK5XYbnRtUIytfF8mtRaR) | [Nico Hernández](https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip) | [Ley De La Atracción](https://open.spotify.com/album/7J4uEvrBfiJWH0R5P4vW7S) | 2:43 |
 | 29 | [Malagradecido](https://open.spotify.com/track/09GKeaFkvYFasYLWC0S0Fm) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV), [Los Horóscopos De Durango](https://open.spotify.com/artist/46uJrEeqP88sYlHFqaGPid) | [Malagradecido](https://open.spotify.com/album/5krkvlcYYbvYnuiUVwDFa9) | 2:54 |
 | 30 | [Vives En Mí](https://open.spotify.com/track/5wWtNPiu1pd9jzdJ7MJqMm) | [Alex Fernández](https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC) | [Vives En Mí](https://open.spotify.com/album/1vQADX1pnQEI17CjpAe5UQ) | 3:30 |
-| 31 | [De Qué Manera Te Olvido](https://open.spotify.com/track/7r6np7igPeQkUB2UKYHW1U) | [Elias Medina](https://open.spotify.com/artist/7c6AUl38S5Xo8t6fvGKJDJ) | [De Qué Manera Te Olvido](https://open.spotify.com/album/3ZdsQ9qRiqlzaIeRVdvC65) | 2:54 |
-| 32 | [Antes](https://open.spotify.com/track/0t9cMv6daD2yN3QwOyQYux) | [Marco Torres](https://open.spotify.com/artist/6MBN1HxRdb0f4WorVxJF5H) | [Antes](https://open.spotify.com/album/2KwDc1W3vu3mXC9x8Pun2i) | 3:04 |
-| 33 | [MIL RAZONES](https://open.spotify.com/track/2Wa2x4jWNGIyWWSc1vg0oa) | [Alexander Acha](https://open.spotify.com/artist/3JkgQ8Jjwt2mkeOsg5yhqh) | [MIL RAZONES](https://open.spotify.com/album/6iYxOAcJG12yCBuNrNY27x) | 2:56 |
+| 31 | [MIL RAZONES](https://open.spotify.com/track/2Wa2x4jWNGIyWWSc1vg0oa) | [Alexander Acha](https://open.spotify.com/artist/3JkgQ8Jjwt2mkeOsg5yhqh) | [MIL RAZONES](https://open.spotify.com/album/6iYxOAcJG12yCBuNrNY27x) | 2:56 |
+| 32 | [De Qué Manera Te Olvido](https://open.spotify.com/track/7r6np7igPeQkUB2UKYHW1U) | [Elias Medina](https://open.spotify.com/artist/7c6AUl38S5Xo8t6fvGKJDJ) | [De Qué Manera Te Olvido](https://open.spotify.com/album/3ZdsQ9qRiqlzaIeRVdvC65) | 2:54 |
+| 33 | [Antes](https://open.spotify.com/track/0t9cMv6daD2yN3QwOyQYux) | [Marco Torres](https://open.spotify.com/artist/6MBN1HxRdb0f4WorVxJF5H) | [Antes](https://open.spotify.com/album/2KwDc1W3vu3mXC9x8Pun2i) | 3:04 |
 | 34 | [Se Me Va A Pasar](https://open.spotify.com/track/1Otrczl9uZqXBcUcPowZwy) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Coleccionando Corazones](https://open.spotify.com/album/2Lkkjn0SYlRVUksgK3CWhd) | 3:16 |
 | 35 | [El Hombre Que Yo Amo](https://open.spotify.com/track/1RNvvxEefsU6PmBJDVcT4I) | [Ingrid Contreras](https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By) | [El Hombre Que Yo Amo](https://open.spotify.com/album/4ArEpA1Bc0YsOi4Z9buUaF) | 3:55 |
-| 36 | [No soy para ti](https://open.spotify.com/track/5ZDdNrpUuCZfbSbkHYpmWi) | [Ivanna](https://open.spotify.com/artist/0KR7rS2uTkP6Ct1a7YCnx4) | [No soy para ti](https://open.spotify.com/album/1IrCd6P6dHbnSJdFa3ndoT) | 2:04 |
-| 37 | [Culpa Mía](https://open.spotify.com/track/3g6rZd5OcdxsVgYbTDkJv2) | [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q), [El Mimoso Luis Antonio López](https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g) | [Culpa Mía+ El Mimoso Luis Antonio López](https://open.spotify.com/album/3WYhM3JvuFDIkGRVxP4HL3) | 3:10 |
+| 36 | [Culpa Mía](https://open.spotify.com/track/3g6rZd5OcdxsVgYbTDkJv2) | [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q), [El Mimoso Luis Antonio López](https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g) | [Culpa Mía+ El Mimoso Luis Antonio López](https://open.spotify.com/album/3WYhM3JvuFDIkGRVxP4HL3) | 3:10 |
+| 37 | [No soy para ti](https://open.spotify.com/track/5ZDdNrpUuCZfbSbkHYpmWi) | [Ivanna](https://open.spotify.com/artist/0KR7rS2uTkP6Ct1a7YCnx4) | [No soy para ti](https://open.spotify.com/album/1IrCd6P6dHbnSJdFa3ndoT) | 2:04 |
 | 38 | [100 Horas](https://open.spotify.com/track/4H6mswx8rA37krmNa0Q6JD) | [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6) | [Rolitas Para Mis Abuelos](https://open.spotify.com/album/5usns2sPfiQDKJBVWXLZ4U) | 3:50 |
 | 39 | [⁠Cuatro Caminos](https://open.spotify.com/track/1yVjUAt8Jn2ZCwXpWJ8Ohp) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [La Nostalgia](https://open.spotify.com/album/3kX6Sov6xamwye4u7n5aJr) | 2:29 |
 | 40 | [Nunca Había Amado Así](https://open.spotify.com/track/7LVYiFrrWZA0Ui2fVT7z4p) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Nunca Había Amado Así](https://open.spotify.com/album/3IdfDl8gfoQIyPRitAFcvK) | 3:42 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 | 60 | [El Target](https://open.spotify.com/track/6RBuiU0CCxBEMCwTT2LsqL) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV), [Denise Gutiérrez](https://open.spotify.com/artist/4svp08yFN6IGlkBJlEhT4Z) | [El Target](https://open.spotify.com/album/0jVQrG7MOjYvKP77Bgp5RQ) | 2:45 |
 | 61 | [Pajarillo](https://open.spotify.com/track/0ZvSxLlYyF2qEs3PQj5X3w) | [José Maria Napoleón](https://open.spotify.com/artist/72v53CufRiSyqcQ78KUQ5p), [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Pajarillo](https://open.spotify.com/album/5jH8BDn3zQe2FQ0aZdson7) | 3:49 |
 | 62 | [Traigan Las Otras](https://open.spotify.com/track/5E9oKZMXP4AmH1xqsgeR6I) | [Toño Y Freddy](https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw) | [Traigan Las Otras](https://open.spotify.com/album/2bmqn5pa7iUHPAsB0GW2Vv) | 3:50 |
-| 63 | [Me Nace Del Corazón](https://open.spotify.com/track/3oGiGhavASAxgYT4RjISIa) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Me Nace Del Corazón](https://open.spotify.com/album/0p1YpGbcw2bKllgY6Fc8Dr) | 2:44 |
-| 64 | [¿POR QUÉ ME HACES LLORAR? \- En Vivo](https://open.spotify.com/track/1h9DgoT5M5Hiw9MvPpOp2m) | [Dayanara](https://open.spotify.com/artist/6HxyqkGDMKQmzp9OsI9e0Q) | [Despecho Puro \(En Vivo\)](https://open.spotify.com/album/6VpHBWBnIKV6BB2UGal2bW) | 2:53 |
+| 63 | [¿POR QUÉ ME HACES LLORAR? \- En Vivo](https://open.spotify.com/track/1h9DgoT5M5Hiw9MvPpOp2m) | [Dayanara](https://open.spotify.com/artist/6HxyqkGDMKQmzp9OsI9e0Q) | [Despecho Puro \(En Vivo\)](https://open.spotify.com/album/6VpHBWBnIKV6BB2UGal2bW) | 2:53 |
+| 64 | [Me Nace Del Corazón](https://open.spotify.com/track/3oGiGhavASAxgYT4RjISIa) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Me Nace Del Corazón](https://open.spotify.com/album/0p1YpGbcw2bKllgY6Fc8Dr) | 2:44 |
 | 65 | [El Hielo Está Quemando](https://open.spotify.com/track/4Rl2jgJ9QCf0gWCnMUU9uj) | [Erika Vidrio](https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P) | [El Hielo Está Quemando](https://open.spotify.com/album/6sIF5BI4afDsFPidOpz7mQ) | 3:09 |
 | 66 | [Cuando Ama Una Mujer](https://open.spotify.com/track/28prtlzyG5n8cItBlePn9o) | [Diana Hoyos](https://open.spotify.com/artist/1OfXFUyD2ihq5rMFtWIuJn) | [Cuando Ama Una Mujer](https://open.spotify.com/album/53jbTsa1xsKMIMhCh7HtEp) | 2:30 |
 | 67 | [¿Quién Es Usted?](https://open.spotify.com/track/5KWvrJF3O2w5niGvaaZt9K) | [Ximena Ocampo](https://open.spotify.com/artist/3NWb6W7xGBAxFUGp2e21ho) | [¿Quién Es Usted?](https://open.spotify.com/album/5IcZe5B1FZzVRtKT8sNYgS) | 3:15 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 | 76 | [El Último Beso](https://open.spotify.com/track/7yO0Y1qzLnxnkHV3nZDo1e) | [Eddy Y Samu](https://open.spotify.com/artist/1ltW6BF5qgKsoN2T0nyEvn) | [El Último Beso](https://open.spotify.com/album/7vujXpwWOhQ3JGzkwve84S) | 2:49 |
 | 77 | [Fan De La Relación](https://open.spotify.com/track/0avvoJ4ukQXaOTPSofnPo3) | [Tú Dime María](https://open.spotify.com/artist/5KEj5NHNPxuNTcDfuGrjFR) | [Fan De La Relación](https://open.spotify.com/album/2Ofh0yVOz9neKuF7RLGDjl) | 3:24 |
 | 78 | [Si Ya Te Valgo](https://open.spotify.com/track/1lQqIaZgT1wP1Pftp3f1is) | [Rubi Canseco](https://open.spotify.com/artist/4bXV1OuSS59mLTBUIuYq1E) | [Si Ya Te Valgo](https://open.spotify.com/album/0oARXF9EAgJSD7ZZVHXE4r) | 2:29 |
-| 79 | [Me Gustas](https://open.spotify.com/track/5KpvlmpZ3UjGeIsNOvosiW) | [Grupo Triunfadores](https://open.spotify.com/artist/74TcxUH2X0cCpOD1uMWzWQ) | [Me Gustas](https://open.spotify.com/album/6cYMpnl0sZOgF1XmjhzYwy) | 2:48 |
-| 80 | [Golpe Inesperado](https://open.spotify.com/track/2tGXd9lzFREBUdWwcoA48V) | [Los del Norteño Sax](https://open.spotify.com/artist/4mnmnqk1QkvxHYpq5mFXbB) | [Mariachi y Norteño](https://open.spotify.com/album/24ssNJt1pKcLkG6CadBw02) | 3:18 |
+| 79 | [Golpe Inesperado](https://open.spotify.com/track/2tGXd9lzFREBUdWwcoA48V) | [Los del Norteño Sax](https://open.spotify.com/artist/4mnmnqk1QkvxHYpq5mFXbB) | [Mariachi y Norteño](https://open.spotify.com/album/24ssNJt1pKcLkG6CadBw02) | 3:18 |
+| 80 | [Me Gustas](https://open.spotify.com/track/5KpvlmpZ3UjGeIsNOvosiW) | [Grupo Triunfadores](https://open.spotify.com/artist/74TcxUH2X0cCpOD1uMWzWQ) | [Me Gustas](https://open.spotify.com/album/6cYMpnl0sZOgF1XmjhzYwy) | 2:48 |
 
 Snapshot ID: `AAAAAKHCyS6R3JAAINCC6e2keIpBOWwS`

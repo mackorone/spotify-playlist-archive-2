@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Fresh country music by independent artists every Wednesday. Cover: Dear Tommie, Artwork: Fan\u00e9lie Muselier\n",
+  "description": "Fresh country music by independent artists every Wednesday. Cover: Lily Meola, Artwork: Fan\u00e9lie Muselier\n",
   "name": "Fresh Finds Country",
   "tracks": [
     {
@@ -594,6 +594,24 @@
       "duration_ms": 158028,
       "name": "4WD",
       "url": "https://open.spotify.com/track/5CodiNhSM75LFL8KgEkJ29"
+    },
+    {
+      "album": {
+        "name": "4x4",
+        "url": "https://open.spotify.com/album/2yd79rRjLCkdOVvW1ypU6O"
+      },
+      "artists": [
+        {
+          "name": "Antwane Tyler",
+          "url": "https://open.spotify.com/artist/2JRMpGMeW97V78uzcbF2Sx"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206292,
+      "name": "4x4",
+      "url": "https://open.spotify.com/track/67GXlXd4V3rDhngkIwZ0Ad"
     },
     {
       "album": {
@@ -2292,6 +2310,28 @@
       "duration_ms": 306095,
       "name": "allergy season",
       "url": "https://open.spotify.com/track/0nzJcaC8rLN4z3y4COaSWw"
+    },
+    {
+      "album": {
+        "name": "Almost Don't",
+        "url": "https://open.spotify.com/album/1Ki3eTZQ6KQwJQjC7HGsl3"
+      },
+      "artists": [
+        {
+          "name": "Madison Hughes",
+          "url": "https://open.spotify.com/artist/03rZGNLcaUYnzsTxlXpJ3F"
+        },
+        {
+          "name": "Reid Haughton",
+          "url": "https://open.spotify.com/artist/3AsWY8Eeph8IIAD8twJL2l"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208400,
+      "name": "Almost Don't",
+      "url": "https://open.spotify.com/track/3mhtSIrSukjy3eUi4QAfDj"
     },
     {
       "album": {
@@ -5956,7 +5996,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-26",
+      "date_removed": null,
       "duration_ms": 179502,
       "name": "Bible and the Bottle",
       "url": "https://open.spotify.com/track/0Kfb9vCXKIqu2vF4K1NzV5"
@@ -12731,6 +12771,24 @@
     },
     {
       "album": {
+        "name": "Daisies",
+        "url": "https://open.spotify.com/album/2xW159PeikPpj7jIIJpjdv"
+      },
+      "artists": [
+        {
+          "name": "Lily Meola",
+          "url": "https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223425,
+      "name": "Daisies",
+      "url": "https://open.spotify.com/track/4q0uQNqaIchPOgvhODEsnG"
+    },
+    {
+      "album": {
         "name": "Damage",
         "url": "https://open.spotify.com/album/7KmUdR5K4xrlaXd4xltgau"
       },
@@ -15155,6 +15213,24 @@
     },
     {
       "album": {
+        "name": "Don't Say",
+        "url": "https://open.spotify.com/album/5ovgnMKBGSqvWXyiiuL9Wq"
+      },
+      "artists": [
+        {
+          "name": "Gareth",
+          "url": "https://open.spotify.com/artist/0r0HGFrFjLgQZch834rCSq"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201280,
+      "name": "Don't Say",
+      "url": "https://open.spotify.com/track/3aXxG92japwrRgdRqOinEy"
+    },
+    {
+      "album": {
         "name": "There's No Going Back",
         "url": "https://open.spotify.com/album/1MpVvJKxAQlGifhU0V7xea"
       },
@@ -15624,6 +15700,24 @@
       "duration_ms": 190846,
       "name": "Downtime",
       "url": "https://open.spotify.com/track/2Jgnqyi8N5vtzRU1DcAA2M"
+    },
+    {
+      "album": {
+        "name": "Drag, Queen",
+        "url": "https://open.spotify.com/album/40yQOWxxcJla2npcVSiBLP"
+      },
+      "artists": [
+        {
+          "name": "Abbie Callahan",
+          "url": "https://open.spotify.com/artist/6XwNHIhBOIQCoD7zAR2Xhm"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151946,
+      "name": "Drag, Queen",
+      "url": "https://open.spotify.com/track/6d9D2MSdnxha0mkcJxXb1w"
     },
     {
       "album": {
@@ -18404,6 +18498,24 @@
       "duration_ms": 182865,
       "name": "Favour",
       "url": "https://open.spotify.com/track/2K47W38rvfOASoqawZIqrB"
+    },
+    {
+      "album": {
+        "name": "Fear of Flying",
+        "url": "https://open.spotify.com/album/1x1BYdn6AMnEveHB5olAqj"
+      },
+      "artists": [
+        {
+          "name": "Grace Tyler",
+          "url": "https://open.spotify.com/artist/7rJg0c4D0Xu1TtLmkaEMDH"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197612,
+      "name": "Fear of Flying",
+      "url": "https://open.spotify.com/track/0xhpdHMMTWzXTJmNhULt80"
     },
     {
       "album": {
@@ -22503,6 +22615,24 @@
     },
     {
       "album": {
+        "name": "Office With a View",
+        "url": "https://open.spotify.com/album/0g72w28SYO8sLsAUNwuuzK"
+      },
+      "artists": [
+        {
+          "name": "Schmitty",
+          "url": "https://open.spotify.com/artist/5mQw15vCNMnhD6LO8suS7b"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210893,
+      "name": "Grandpa's Watch",
+      "url": "https://open.spotify.com/track/3B4TDEz5VyKGD72mIN72zU"
+    },
+    {
+      "album": {
         "name": "Granite Stone",
         "url": "https://open.spotify.com/album/3GTwrXPqu6YIrYBSa7TwmM"
       },
@@ -23847,6 +23977,24 @@
     },
     {
       "album": {
+        "name": "For Those Who Despise Valentine\u2019s",
+        "url": "https://open.spotify.com/album/6vxSzaj0glrPc78ALLEfGt"
+      },
+      "artists": [
+        {
+          "name": "Belle Frantz",
+          "url": "https://open.spotify.com/artist/7impCQSfqOMNU2WJPuoGXL"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217425,
+      "name": "He Sure Is Nice",
+      "url": "https://open.spotify.com/track/6skkd60h40oOZzC3d97Alj"
+    },
+    {
+      "album": {
         "name": "Front Row Seat The EP",
         "url": "https://open.spotify.com/album/7ktEhTYtzz45YHs0HWKYO4"
       },
@@ -24842,7 +24990,7 @@
       ],
       "date_added": "2025-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-15",
+      "date_removed": null,
       "duration_ms": 115446,
       "name": "Hell at This Point",
       "url": "https://open.spotify.com/track/6sLAs8ibICN6FSgtaJxH2y"
@@ -31075,6 +31223,24 @@
     },
     {
       "album": {
+        "name": "Jericho",
+        "url": "https://open.spotify.com/album/1Ippl6tg1YaUwPeJFGTa51"
+      },
+      "artists": [
+        {
+          "name": "Max Alan",
+          "url": "https://open.spotify.com/artist/5iZ49r3ayCqsUesaetPDcr"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266065,
+      "name": "Jericho",
+      "url": "https://open.spotify.com/track/2byoKiz5tYuV3iry48yXiU"
+    },
+    {
+      "album": {
         "name": "Jesus and Jesse James",
         "url": "https://open.spotify.com/album/1K3SVTjEpKBZbeludZ1NQw"
       },
@@ -32498,6 +32664,24 @@
       "duration_ms": 148111,
       "name": "Last Call",
       "url": "https://open.spotify.com/track/5Cy3p7rHADiFtFKQb4PIO5"
+    },
+    {
+      "album": {
+        "name": "Last Call",
+        "url": "https://open.spotify.com/album/7IDcDJPGD81CeAowL2BbPG"
+      },
+      "artists": [
+        {
+          "name": "Trevor Snider",
+          "url": "https://open.spotify.com/artist/4pqs54KEp83DojM7te54Rk"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163127,
+      "name": "Last Call",
+      "url": "https://open.spotify.com/track/2ccVUaxxHNsSlCm9y5pahI"
     },
     {
       "album": {
@@ -46312,7 +46496,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-28",
       "duration_ms": 192228,
       "name": "Riding in Cars with Boys",
       "url": "https://open.spotify.com/track/0w9ioOmHyRtTDQS0fpB7J3"
@@ -53653,6 +53837,24 @@
     },
     {
       "album": {
+        "name": "String By",
+        "url": "https://open.spotify.com/album/5IMKLr1EvvdNuilEZTcy6E"
+      },
+      "artists": [
+        {
+          "name": "Mack Geiger",
+          "url": "https://open.spotify.com/artist/1ylRveckaItA2kOhQh8rnQ"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "String By",
+      "url": "https://open.spotify.com/track/3vGKP1rCxBenBHYPwY6WW3"
+    },
+    {
+      "album": {
         "name": "Strong",
         "url": "https://open.spotify.com/album/5U9DW1nMIlxYzKAei3vxyQ"
       },
@@ -54140,6 +54342,24 @@
       "duration_ms": 228648,
       "name": "Superwoman",
       "url": "https://open.spotify.com/track/0MsJujIQyElT0SI4smwZVu"
+    },
+    {
+      "album": {
+        "name": "Supermujeres",
+        "url": "https://open.spotify.com/album/4AjdiWwy2S4ayVbmgwl5Ge"
+      },
+      "artists": [
+        {
+          "name": "M\u014cRIAH",
+          "url": "https://open.spotify.com/artist/1w0QYx2G0ywsCClH84FcAv"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228648,
+      "name": "Superwoman",
+      "url": "https://open.spotify.com/track/4PP8lAWrbxY3FU9Y1MVqDg"
     },
     {
       "album": {
@@ -54752,7 +54972,7 @@
       ],
       "date_added": "2026-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-28",
       "duration_ms": 229187,
       "name": "Talk to Me at Two",
       "url": "https://open.spotify.com/track/7mwa422OrRs3FYgVC2RlOS"
@@ -57754,7 +57974,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-28",
       "duration_ms": 205300,
       "name": "Think of You When",
       "url": "https://open.spotify.com/track/1KiydsYdsb5Tp0EgX8miLg"
@@ -58410,6 +58630,24 @@
       "duration_ms": 220140,
       "name": "Tied to You",
       "url": "https://open.spotify.com/track/7y6ayEfVEoEV70pDTSdD6B"
+    },
+    {
+      "album": {
+        "name": "Til Dawn",
+        "url": "https://open.spotify.com/album/10lEr3A5DwX2lVHF3vAg4v"
+      },
+      "artists": [
+        {
+          "name": "Landon Wilks",
+          "url": "https://open.spotify.com/artist/7xxu3GGGAWwH4MbrT12aMG"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188031,
+      "name": "Til Dawn",
+      "url": "https://open.spotify.com/track/1PpYbP1ivDkMxoypN49LCu"
     },
     {
       "album": {
@@ -64736,6 +64974,24 @@
       "duration_ms": 222547,
       "name": "Wishing You",
       "url": "https://open.spotify.com/track/34mKJWC8YooXBHDKcTMgbh"
+    },
+    {
+      "album": {
+        "name": "Wisteria",
+        "url": "https://open.spotify.com/album/6CMTf5ywsCo9pX7n0L1urU"
+      },
+      "artists": [
+        {
+          "name": "Hannah Jane Lewis",
+          "url": "https://open.spotify.com/artist/62ih54WQXcbwFrvhffPxcq"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156350,
+      "name": "Wisteria",
+      "url": "https://open.spotify.com/track/47tfKmQsZug1v7Ct4IuK1j"
     },
     {
       "album": {
